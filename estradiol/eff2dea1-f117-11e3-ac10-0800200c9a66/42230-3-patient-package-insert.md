@@ -19,17 +19,22 @@ What is ELESTRIN used for?
 ELESTRIN is used after menopause to:
 
 - •Reduce moderate to severe hot flashes
-- Estrogens are hormones made by a woman’s ovaries.
-  The ovaries normally stop making estrogens when a woman is between 45 to 55 years old.
-  This drop in body estrogen levels causes the “change of life” or menopause (the end of monthly menstrual periods).
-  Sometimes, both ovaries are removed during an operation before natural menopause takes place.
-  The sudden drop in estrogen levels causes “surgical menopause.”
-- When the estrogen levels begin dropping, some women develop very uncomfortable symptoms, such as feelings of warmth in the face, neck, and chest, or sudden strong feelings of heat and sweating (“hot flashes” or “hot flushes”).
-  In some women, the symptoms are mild, and they will not need estrogens.
-  In other women, symptoms can be more severe.
-  You and your healthcare provider should talk regularly about whether you still need treatment with ELESTRIN.
-- Who should not use ELESTRIN?
-- Do not start using ELESTRIN if you:
+
+Estrogens are hormones made by a woman’s ovaries.
+The ovaries normally stop making estrogens when a woman is between 45 to 55 years old.
+This drop in body estrogen levels causes the “change of life” or menopause (the end of monthly menstrual periods).
+Sometimes, both ovaries are removed during an operation before natural menopause takes place.
+The sudden drop in estrogen levels causes “surgical menopause.”
+
+When the estrogen levels begin dropping, some women develop very uncomfortable symptoms, such as feelings of warmth in the face, neck, and chest, or sudden strong feelings of heat and sweating (“hot flashes” or “hot flushes”).
+In some women, the symptoms are mild, and they will not need estrogens.
+In other women, symptoms can be more severe.
+You and your healthcare provider should talk regularly about whether you still need treatment with ELESTRIN.
+
+Who should not use ELESTRIN?
+
+Do not start using ELESTRIN if you:
+
 - •Have unusual vaginal bleeding
 - •Currently have or have had certain cancers
 - Estrogens may increase the chances of getting certain types of cancers, including cancer of the breast or uterus.
@@ -58,12 +63,9 @@ ELESTRIN is used after menopause to:
 
 How should I use ELESTRIN?
 
-1.
-Start at the lowest dose and talk to your healthcare provider about how well that dose is working for you.
-
-2.
-ELESTRIN should be used at the lowest dose possible for your treatment and only as long as needed.
-You and your healthcare provider should talk regularly (for example, every 3 to 6 months) about the dose you are taking and whether you still need treatment with ELESTRIN.
+1. 1.Start at the lowest dose and talk to your healthcare provider about how well that dose is working for you.
+2. 2.ELESTRIN should be used at the lowest dose possible for your treatment and only as long as needed.
+   You and your healthcare provider should talk regularly (for example, every 3 to 6 months) about the dose you are taking and whether you still need treatment with ELESTRIN.
 
 ELESTRIN comes in a metered-dose pump.
 One dose of ELESTRIN is released each time the pump is depressed (pressed down).
@@ -169,12 +171,17 @@ What can I do to lower my chances of a serious side effect with ELESTRIN?
 
 - •Talk with your healthcare provider regularly about whether you should continue using ELESTRIN
 - •If you have a uterus, talk to your healthcare provider about whether the addition of a progestin is right for you.
-  The addition of a progestin is generally recommended for a woman with a uterus to reduce the chance of getting cancer of the uterus.
-  See your healthcare provider right away if you get vaginal bleeding while using ELESTRIN.
+
+The addition of a progestin is generally recommended for a woman with a uterus to reduce the chance of getting cancer of the uterus.
+See your healthcare provider right away if you get vaginal bleeding while using ELESTRIN.
+
 - •Have a pelvic exam, breast exam and mammogram (breast X-ray) every year unless your healthcare provider tells you something else
-- •If members of your family have had breast cancer or if you have ever had breast lumps or an abnormal mammogram, you may need to have breast exams more often.
+
+If members of your family have had breast cancer or if you have ever had breast lumps or an abnormal mammogram, you may need to have breast exams more often.
+
 - •If you have high blood pressure, high cholesterol (fat in the blood), diabetes, are overweight, or if you use tobacco, you may have a higher chance for getting heart disease
-- •Ask your healthcare provider for ways to lower your chances of getting heart disease.
+
+Ask your healthcare provider for ways to lower your chances of getting heart disease.
 
 General information about safe and effective use of ELESTRIN
 
@@ -220,14 +227,16 @@ Apply ELESTRIN.
   If you take a bath or shower or use a sauna, apply ELESTRIN after your bath, shower, or sauna.
   If you go swimming, try to leave as much time as possible, at least 2 hours, between applying your ELESTRIN dose and going into the water.
 - •Apply ELESTRIN at the same time each day.
-- Figure 1
-- To apply the dose, hold the pump with the tip facing the application area of the arm.
-  For each pump depression needed, press the pump firmly and fully with a continuous motion without hesitation.
-- 
-- Figure 2
-- Gently spread the gel using only 2 fingers.
-  Spread and gently rub in the gel over the entire area of your upper arm and shoulder area, as illustrated.
-- 
+
+Figure 1
+
+1. To apply the dose, hold the pump with the tip facing the application area of the arm.
+   For each pump depression needed, press the pump firmly and fully with a continuous motion without hesitation.
+2. 
+3. Figure 2
+4. Gently spread the gel using only 2 fingers.
+   Spread and gently rub in the gel over the entire area of your upper arm and shoulder area, as illustrated.
+5. 
 
 5.
 Wash your hands with soap and water.
@@ -241,9 +250,7 @@ Inactive ingredients: purified water, ethanol, propylene glycol, diethylene glyc
 
 MEDA PHARMACEUTICALS and the MEDA PHARMACEUTICALS logo are trademarks and ELESTRIN is a registered trademark of Meda AB or a related entity.
 
-Distributed by: MEDA PHARMACEUTICALS™
-
-Somerset, New Jersey 08873-4120
+Distributed by: Meda Pharmaceuticals Inc. Somerset, New Jersey 08873-4120
 
 ©2017 Meda Pharmaceuticals Inc.
 
@@ -252,4 +259,4 @@ No. 7,198,801 and U.S. Pat.
 No. 7,470,433
 
 Rev.
-2/2017 IN-0480-02 129940
+8/2017 IN-0480-03 140893

@@ -38,11 +38,11 @@ TABLE 2 - Summary of Unadjusted PK Parameters for Estradiol after 14 Days of Dos
 | Cmax (pg/mL) | 21.6 | 66.7 |
 | Cave (pg/mL) | 15.4 | 39.2 |
 | Cmin (pg/mL) | 9.4 | 21.1 |
-| Tmax (h)a | 18 (1-20) | 4 (1-20) |
+| Tmax (h)Tmax shown as median (range) | 18 (1-20) | 4 (1-20) |
 | Fluctuation Index | 0.80 | 1.16 |
-| E2:E1b ratio | 0.53 | 0.98 |
-| aTmax shown as median (range) |  |  |
-| bE2:E1 (estraciol:estrone) ratio |  |  |
+| E2:E1E2:E1 (estraciol:estrone) ratio ratio | 0.53 | 0.98 |
+
+Mean concentrations of estradiol over a 24-hour period on Day 14 are shown in Figure 1.
 
 Based on the Cave values at steady state, the E2:E1 ratio was 0.53 for the 0.87 g and 0.98 for the 1.7 g doses.
 The significance of this finding is that the 1.7 g dose produced an E2:E1 ratio of a premenopausal woman.

@@ -41,10 +41,10 @@ In the WHI estrogen-alone substudy, the risk of VTE (DVT and PE) was increased f
 The increase in VTE risk was demonstrated during the first 2 years3 [see Clinical Studies (14.2)].
 Should a VTE occur or be suspected, estrogen-alone therapy should be discontinued immediately.
 
-1. In the WHI estrogen plus progestin substudy, a statistically significant 2-fold greater rate of VTE was reported in women receiving daily CE (0.625 mg) plus MPA (2.5 mg) compared to women receiving placebo (35 versus 17 per 10,000 women-years).
-   Statistically significant increases in risk for both DVT (26 versus 13 per 10,000 women-years) and PE (18 versus 8 per 10,000 women-years) were also demonstrated.
-   The increase in VTE risk was demonstrated during the first year and persisted 4 [see Clinical Studies (14)].
-   Should a VTE occur or be suspected, estrogen plus progestin therapy should be discontinued immediately.
+In the WHI estrogen plus progestin substudy, a statistically significant 2-fold greater rate of VTE was reported in women receiving daily CE (0.625 mg) plus MPA (2.5 mg) compared to women receiving placebo (35 versus 17 per 10,000 women-years).
+Statistically significant increases in risk for both DVT (26 versus 13 per 10,000 women-years) and PE (18 versus 8 per 10,000 women-years) were also demonstrated.
+The increase in VTE risk was demonstrated during the first year and persisted4 [see Clinical Studies (14)].
+Should a VTE occur or be suspected, estrogen plus progestin therapy should be discontinued immediately.
 
 If feasible, estrogens should be discontinued at least 4 to 6 weeks before surgery of the type associated with an increased risk of thromboembolism, or during periods of prolonged immobilization.
 
@@ -96,8 +96,13 @@ Ovarian Cancer
 
 The WHI estrogen plus progestin substudy reported a statistically non-significant increased risk of ovarian cancer.
 After an average follow-up of 5.6 years, the relative risk for ovarian cancer for CE plus MPA versus placebo was 1.58 [95 percent CI, 0.77-3.24].
-The absolute risk for CE plus MPA versus placebo was 4 versus 3 cases per 10,000 women-years.7 In some epidemiological studies, the use of estrogen plus progestin and estrogen-only products, in particular for 5 or more years, has been associated with an increased risk of ovarian cancer.
-However, the duration of exposure associated with increased risk is not consistent across all epidemiologic studies, and some report no association.
+The absolute risk for CE plus MPA versus placebo was 4 versus 3 cases per 10,000 women-years.7
+
+A meta-analysis of 17 prospective and 35 retrospective epidemiology studies found that women who used hormonal therapy for menopausal symptoms had an increased risk for ovarian cancer.
+The primary analysis, using case-control comparisons, included 12,110 cancer cases from the 17 prospective studies.
+The relative risks associated with current use of hormonal therapy was 1.41 (95% confidence interval [CI] 1.32 to 1.50); there was no difference in the risk estimates by duration of the exposure (less than 5 years [median of 3 years] vs. greater than 5 years [median of 10 years] of use before the cancer diagnosis).
+The relative risk associated with combined current and recent use (discontinued use within 5 years before cancer diagnosis) was 1.37 (95% CI 1.27 to 1.48), and the elevated risk was significant for both estrogen-alone and estrogen plus progestin products.
+The exact duration of hormone therapy use associated with an increased risk of ovarian cancer, however, is unknown.
 
 ## 5.3 Probable Dementia
 
@@ -117,7 +122,7 @@ Since both ancillary studies were conducted in women 65 to 79 years of age, it i
 
 ## 5.4 Gallbladder Disease
 
-A 2- to 4-fold increase in the risk of gallbladder disease requiring surgery in post-menopausal women receiving estrogens has been reported.
+A 2- to 4-fold increase in the risk of gallbladder disease requiring surgery in postmenopausal women receiving estrogens has been reported.
 
 ## 5.5 Hypercalcemia
 
@@ -171,7 +176,7 @@ Estrogen therapy should be used with caution in women with hypoparathyroidism as
 ## 5.14 Exacerbation of Endometriosis
 
 A few cases of malignant transformation of residual endometrial implants have been reported in women treated post-hysterectomy with estrogen-alone therapy.
-For women known to have residual endometriosis post- hysterectomy, the addition of progestin should be considered
+For women known to have residual endometriosis post- hysterectomy, the addition of progestin should be considered.
 
 ## 5.15 Hereditary Angioedema
 
