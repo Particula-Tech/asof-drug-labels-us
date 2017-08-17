@@ -13,8 +13,11 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
   If a patient fails to take NAMENDA XR for several days, dosing should not be resumed without consulting that patient's healthcare professional.
 - Advise patients and caregivers that NAMENDA XR may cause headache, diarrhea, and dizziness.
 
-Manufactured for: Forest Pharmaceuticals, Inc. Subsidiary of Forest Laboratories LLC St. Louis, MO 63045
+Distributed by: Allergan USA, Inc. Irvine, CA 92612
 
 Manufactured by: Forest Laboratories Ireland Ltd
 
 Licensed from Merz Pharmaceuticals GmbH
+
+© 2017 Allergan.
+All rights reserved

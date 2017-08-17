@@ -103,14 +103,19 @@ This Patient Information leaflet summarizes the most important information about
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about NAMENDA XR that was written for healthcare professionals.
 
-For more information about NAMENDA XR, go to www.namendaxr.com, or call Forest Laboratories, LLC. at 1-800-678-1605.
+For more information about NAMENDA XR, go to www.namendaxr.com, or call Allergan at 1-800-678-1605.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Manufactured for: Forest Pharmaceuticals, Inc. Subsidiary of Forest Laboratories LLC St. Louis, MO 63045
+Distributed by: Allergan USA, Inc. Irvine, CA 92612
 
 Manufactured by: Forest Laboratories Ireland Ltd
 
 Licensed from Merz Pharmaceuticals GmbH
 
-Revised: 9/2014
+Revised: 10/2016
+
+© 2017 Allergan.
+All rights reserved
+
+NAMENDA XR® is a registered trademark of Merz Pharma GmbH & Co. KGaA
