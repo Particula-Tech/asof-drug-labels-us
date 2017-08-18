@@ -1,4 +1,3 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-PROTONIX® I.V.
-(pantoprazole sodium) for Injection is supplied as a freeze-dried powder containing 40 mg of pantoprazole per vial.
+PROTONIX I.V.: 40 mg pantoprazole white to off-white freeze-dried powder in a single-dose vial for reconstitution.
