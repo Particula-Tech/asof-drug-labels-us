@@ -19,6 +19,10 @@ In the absence of comparable data, these risks should be assumed to be similar f
 
 Estrogens with or without progestins should be prescribed at the lowest effective doses and for the shortest duration consistent with treatment goals and risks for the individual woman.
 
+Ovarian Cancer
+
+Use of estrogen-only and or combined estrogen-progestagen HRT has been associated with a slightly increased risk of having ovarian cancer diagnosed [see Warnings and Precautions (5.2)].
+
 Estrogen-Alone Therapy
 
 Endometrial Cancer
@@ -38,4 +42,4 @@ It is unknown whether this finding applies to younger postmenopausal women [see 
 
 In the absence of comparable data, these risks should be assumed to be similar for other doses of CE and other dosage forms of estrogens.
 
-Estrogens with or without progestins should be prescribed at the lowest effective doses and for the shortest duration consistent with treatment
+Estrogens with or without progestins should be prescribed at the lowest effective doses and for the shortest duration consistent with treatment.
