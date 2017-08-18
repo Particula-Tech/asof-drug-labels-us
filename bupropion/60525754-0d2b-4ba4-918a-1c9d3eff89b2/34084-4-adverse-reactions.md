@@ -134,7 +134,7 @@ Hypertension (in some cases severe), orthostatic hypotension, third degree heart
 
 Endocrine
 
-Syndrome of inappropriate antidiuretic hormone secretion, hyperglycemia, hypoglycemia.
+Hyponatremia, syndrome of inappropriate antidiuretic hormone secretion, hyperglycemia, hypoglycemia.
 
 Gastrointestinal
 
