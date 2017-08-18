@@ -11,6 +11,25 @@ One, two or three daily sprays of Evamist were shown to be better than placebo f
 Table 3.
 Effect of Treatment on the Daily Frequency of Moderate to Severe Vasomotor Symptoms at Week 4 and Week 12 (Intent-To-Treat Population, LOCF)
 
+|  |  | Mean Change from Baselinea (SD) |  |
+| --- | --- | --- | --- |
+| Treatment(N) | BaselineMean (SD) | Week 4Mean (SD) | Week 12Mean (SD) |
+| 1 Spray |  |  |  |
+| Evamist (N=76) | 11.81 (4.07) | -6.26 (4.01) | -8.10 (4.02) |
+| Placebo (N=77) | 12.41 (5.59) | -3.64 (5.30) | -4.76 (5.84) |
+| Differenceb | - | -2.62 | -3.34 |
+| p-valuec | - | 0.0010 | 0.0004 |
+| 2 Sprays |  |  |  |
+| Evamist (N=74) | 12.66 (7.33) | -7.30 (6.93) | -8.66 (6.65) |
+| Placebo (N=76) | 12.13 (6.10) | -4.74 (4.38) | -6.19 (5.77) |
+| Differenceb | - | -2.56 | -2.47 |
+| p-valuec | - | 0.0027 | 0.0099 |
+| 3 Sprays |  |  |  |
+| Evamist (N=76) | 10.78 (3.58) | -6.64 (4.23) | -8.44 (4.50) |
+| Placebo (N=75) | 12.55 (11.94) | -4.54 (7.40) | -5.32 (6.30) |
+| Differenceb | - | -2.10 | -3.12 |
+| p-valuec | - | 0.0002 | <0.0001 |
+
 a Mean change and difference based on raw data
 
 b Evamist versus placebo
@@ -19,6 +38,25 @@ c Tests for pairwise differences using ANCOVA
 
 Table 4.
 Effect of Treatment on the Weekly Severity of Moderate to Severe Vasomotor Symptoms at Week 4 and Week 12 (Intent-To-Treat Population, LOCF)a
+
+|  |  | Mean Change from Baselineb (SD) |  |
+| --- | --- | --- | --- |
+| Treatment(N) | BaselineMean (SD) | Week 4Mean (SD) | Week 12Mean (SD) |
+| 1 Spray |  |  |  |
+| Evamist (N=76) | 2.53 (0.25) | -0.47 (0.80) | -1.04 (1.01) |
+| Placebo (N=77) | 2.55 (0.25) | -0.19 (0.55) | -0.26 (0.60) |
+| Differencec | - | -0.28 | -0.78 |
+| p-valued | - | 0.0573 | <0.0001 |
+| 2 Sprays |  |  |  |
+| Evamist (N=74) | 2.54 (0.21) | -0.57 (0.83) | -0.92 (1.01) |
+| Placebo (N=76) | 2.54 (0.22) | -0.25 (0.64) | -0.54 (0.89) |
+| Differencec | - | -0.32 | -0.38 |
+| p-valued | - | 0.0160 | 0.0406 |
+| 3 Sprays |  |  |  |
+| Evamist (N=76) | 2.58 (0.25) | -0.43 (0.66) | -1.07 (1.01) |
+| Placebo (N=75) | 2.54 (0.24) | -0.13 (0.53) | -0.31 (0.75) |
+| Differencec | - | -0.30 | -0.76 |
+| p-valued | - | 0.0031 | <0.0001 |
 
 a Severity score calculated as: (2 x number moderate +3 x number severe)/ number moderate + number severe)
 
@@ -42,6 +80,23 @@ Results of the estrogen-alone substudy, which included 10,739 women (average 63 
 
 Table 5.
 Relative and Absolute Risk Seen in the Estrogen Alone Substudy of WHIa
+
+| Event | Relative Risk CE vs. Placebo(95%) nCIb) | CE(n = 5,310) | Placebo(n = 5,429) |
+| --- | --- | --- | --- |
+| Absolute Risk per10,000 Women-Years |  |  |  |
+| CHD eventscNon-fatal MIcCHD deathc | 0.95 (0.78-1.16)0.91 (0.73-1.14)1.01 (0.71-1.43) | 544016 | 574316 |
+| All strokescIschemic strokec | 1.33 (1.05-1.68)1.55 (1.19-2.01) | 4538 | 3325 |
+| Deep vein thrombosisc,d | 1.47 (1.06-2.06) | 23 | 15 |
+| Pulmonary embolismc | 1.37 (0.90-2.07) | 14 | 10 |
+| Invasive breast cancerc | 0.80 (0.62-1.04) | 28 | 34 |
+| Colorectal cancerc | 1.08 (0.75-1.55) | 17 | 16 |
+| Hip facturec | 0.65 (0.45-0.94) | 12 | 19 |
+| Vertebral fracturesc,d | 0.64 (0.44-0.93) | 11 | 18 |
+| Lower arm/wrist fracturesc,d | 0.58 (0.47-0.72) | 35 | 59 |
+| Total fracturesc,d | 0.71 (0.64-0.80) | 144 | 197 |
+| Death due to other causese,f | 1.08 (0.88-1.32) | 53 | 50 |
+| Overall mortalityc,d | 1.04 (0.88-1.22) | 79 | 75 |
+| Global indexg | 1.02 (0.92-1.13) | 206 | 201 |
 
 a Adapted from numerous WHI publications.
 WHI publications can be viewed at www.nhlbi.nih.gov/whi.
@@ -83,6 +138,24 @@ These results reflect centrally adjudicated data after an average follow-up of 5
 
 Table 6.
 Relative and Absolute Risk Seen in the Estrogen Plus Progestin Substudy of WHI at an Average of 5.6 Yearsa,b
+
+| Event | Relative Risk CE/MPA vs. Placebo(95%) nCIc) | CE/MPA(n = 8,506) | Placebo(n = 8,102) |
+| --- | --- | --- | --- |
+| Absolute Risk per10,000 Women-Years |  |  |  |
+| CHD eventsNon-fatal MICHD death | 1.23 (0.99-1.53)1.28 (1.00-1.63)1.10 (0.70-1.75) | 41318 | 34258 |
+| All strokesIschemic stroke | 1.31 (1.03-1.68)1.44 (1.09-1.90) | 3326 | 2518 |
+| Deep vein thrombosisd | 1.95 (1.43-2.67) | 26 | 13 |
+| Pulmonary embolism | 2.13 (1.45-3.11) | 18 | 8 |
+| Invasive breast cancere | 1.24 (1.01-1.54) | 41 | 33 |
+| Colorectal cancer | 0.61 (0.42-0.87) | 10 | 16 |
+| Endometrial cancerd | 0.81 (0.48-1.36) | 6 | 7 |
+| Cervical cancerd | 1.44 (0.47-4.42) | 2 | 1 |
+| Hip facture | 0.67 (0.47-0.96) | 11 | 16 |
+| Vertebral fracturesd | 0.65 (0.46-0.92) | 11 | 17 |
+| Lower arm/wrist fracturesd | 0.71 (0.59-0.85) | 44 | 62 |
+| Total fracturesd | 0.76 (0.69-0.83) | 152 | 199 |
+| Overall mortalityf | 1.00 (0.83-1.19) | 52 | 52 |
+| Global indexg | 1.13 (1.02-1.25) | 184 | 165 |
 
 a Adapted from numerous WHI publications, WHI publications can be viewed at www.nhlbi.nih.gov/whi
 

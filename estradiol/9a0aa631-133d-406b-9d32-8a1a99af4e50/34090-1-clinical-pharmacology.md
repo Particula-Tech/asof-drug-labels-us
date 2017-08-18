@@ -35,9 +35,14 @@ Pharmacokinetics parameters for estradiol from one, two, or three 90 mcL sprays 
 Table 2.
 Estradiol Pharmacokinetic Parameters on Day 14 (Unadjusted for Baseline)
 
-1 Values expressed are arithmetic means (%CV)
+| PK Parameter | Number of Daily Sprays of Evamist |  |  |
+| --- | --- | --- | --- |
+| 1 Spray(N = 24) | 2 Sprays(N = 23) | 3 Sprays(N = 24) |  |
+| Cmax (pg/mL)aCmin (pg/mL)aCavg (pg/mL)aAUC0-24 (pg*hr/mL)aTmax (hours)b | 36.4 (62)11.3 (52)19.6 (49)471 (49)20 (0-24) | 57.4 (94)18.1 (51)30.7 (43)736 (43)18 (0-24) | 54.1 (50)19.6 (27)30.9 (30)742 (30)20 (0-24) |
 
-2 Values expressed are medians (minimum-maximum)
+a Values expressed are arithmetic means (%CV)
+
+b Values expressed are medians (minimum-maximum)
 
 Distribution
 

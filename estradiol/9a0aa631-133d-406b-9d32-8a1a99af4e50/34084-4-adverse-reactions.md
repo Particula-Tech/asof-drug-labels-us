@@ -16,6 +16,23 @@ The adverse reactions that occurred in at least 5 percent of women in any treatm
 Table 1.
 Frequency of Adverse Reactions (≥5%) in Any Treatment Group in a Controlled Study of Evamist
 
+|  | Frequency n (%) |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| System Organ Class Preferred Term | 1 Spray |  | 2 Sprays |  | 3 Sprays |  |
+| Placebo(N = 77) | Evamist(N = 76) | Placebo(N = 76) | Evamist(N = 74) | Placebo(N = 75) | Evamist(N = 76) |  |
+| Reproductive System and Breast Disorders |  |  |  |  |  |  |
+| Breast tenderness | 0 (0) | 4 (5) | 4 (5) | 5 (7) | 0 (0) | 4 (5) |
+| Nipple pain | 0 (0) | 2 (3) | 0 (0) | 5 (7) | 0 (0) | 1 (1) |
+| Gastrointestinal Disorders |  |  |  |  |  |  |
+| Nausea | 5 (7) | 1 (1) | 1 (1) | 2 (3) | 4 (5) | 2 (3) |
+| Infections and Infestations |  |  |  |  |  |  |
+| Nasopharyngitis | 1 (1) | 4 (5) | 2 (3) | 3 (4) | 1 (1) | 1 (1) |
+| Musculoskeletal and Connective Tissue Disorders |  |  |  |  |  |  |
+| Back pain | 1 (1) | 2 (3) | 2 (3) | 4 (5) | 1 (1) | 2 (3) |
+| Arthralgia | 1 (1) | 1 (1) | 4 (5) | 1 (1) | 0 (0) | 3 (4) |
+| Nervous system |  |  |  |  |  |  |
+| Headache | 4 (5) | 7 (9) | 5 (7) | 9 (12) | 7 (9) | 8 (11) |
+
 Application site reactions were reported in 3 out of 226 (1.3%) women treated with Evamist.
 
 ## 6.2 Postmarketing Experience
