@@ -14,7 +14,7 @@ Nervous System: dizziness, insomnia, sleepiness, vertigo
 
 Other: back pain, headache
 
-Post-marketing cases of hypersensitivity have been reported with the use of sucralfate suspension, including anaphylactic reactions, dyspnea, lip swelling, edema of the mouth, pharyngeal edema, pruritus, rash, swelling of the face and urticaria.
+Post-marketing cases of hypersensitivity have been reported with the use of sucralfate oral suspension, including anaphylactic reactions, dyspnea, lip swelling, edema of the mouth, pharyngeal edema, pruritus, rash, swelling of the face and urticaria.
 
 Cases of bronchospasm, laryngeal edema and respiratory tract edema have been reported with an unknown oral formulation of sucralfate.
 
@@ -22,6 +22,3 @@ Cases of hyperglycemia have been reported with sucralfate.
 
 Bezoars have been reported in patients treated with sucralfate.
 The majority of patients had underlying medical conditions that may predispose to bezoar formation (such as delayed gastric emptying) or were receiving concomitant enteral tube feedings.
-
-Inadvertent injection of insoluble sucralfate and its insoluble excipients has led to fatal complications, including pulmonary and cerebral emboli.
-Sucralfate is not intended for intravenous administration.

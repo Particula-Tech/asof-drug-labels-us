@@ -4,10 +4,10 @@ NDC 58914-170-14
 
 Carafate® (sucralfate)
 
-Suspension
+Oral Suspension
 
 1 g/10 mL
 
-One 14 fl oz Bottle
+One 420 mL Bottle
 
 Allergan™
