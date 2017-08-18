@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA018140"
+  ],
+  "inn": "lorazepam",
+  "labeler": "West-Ward Pharmaceuticals Corp.",
+  "package_ndcs": [
+    "0641-6207-01",
+    "0641-6207-25"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "lorazepam",
+      "name": "Lorazepam"
+    }
+  ],
+  "setid": "b79b38ee-c29d-4099-964f-000031f47f5a",
+  "source": "dailymed"
+}
