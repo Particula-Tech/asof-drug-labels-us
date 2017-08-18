@@ -10,7 +10,7 @@ The four clinical trials include two dose-ranging trials of 4 weeks duration and
 These trials included a total of 1729 patients (752 males and 977 females) of whom 227 were adolescents 12 to 17 years of age.
 Efficacy was assessed using a total symptom score from patient recording of 4 symptoms (sneezing, rhinorrhea, nasal pruritus, and ocular pruritus) in three studies and 5 symptoms (sneezing, rhinorrhea, nasal pruritus, ocular pruritus, and nasal congestion) in one study.
 Patients recorded symptoms using a 0 to 3 categorical severity scale (0 = absent, 1 = mild, 2 = moderate, 3 = severe) once daily in the evening reflective of the 24 hour treatment period.
-The primary endpoint was the mean total symptom score averaged over the first week and over 4 weeks for seasonal allergic rhinitis trials, and 4 weeks for perennial allergic rhinitis trials.
+The primary endpoint was the mean total symptom score averaged over the first week and over 4 weeks for perennial allergic rhinitis trials.
 
 The two dose-ranging trials were conducted to evaluate the efficacy of levocetirizine dihydrochloride 2.5, 5, and 10 mg once daily in the evening.
 These trials were 4 weeks in duration and included patients with perennial allergic rhinitis.
@@ -31,7 +31,7 @@ Table 4 Mean Reflective Total Symptom ScoreTotal symptom score is the sum of ind
 One clinical trial evaluated the efficacy of levocetirizine dihydrochloride 5 mg once daily in the evening compared to placebo in patients with perennial allergic rhinitis over a 6-week treatment period.
 Another trial conducted over a 6-month treatment period assessed efficacy at 4 weeks.
 Levocetirizine dihydrochloride 5 mg demonstrated a greater decrease from baseline in the reflective total symptom score than placebo and the difference from placebo was statistically significant.
-Results of one of the former are shown in Table 5.
+Results of the former are shown in Table 5.
 
 Table 5 Mean Reflective Total Symptom ScoreTotal symptom score is the sum of individual symptoms of sneezing, rhinorrhea, nasal pruritus, and ocular pruritus as assessed by patients on a 0 to 3 categorical severity scale. in Allergic Rhinitis Trials
 
