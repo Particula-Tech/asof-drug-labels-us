@@ -7,7 +7,7 @@ Each mL contains
 Active: Tobramycin 3 mg (0.3%).
 Inactives: Boric Acid, Sodium Sulfate, Sodium Chloride, Tyloxapol and Purified Water.
 Sodium Hydroxide and/or Sulfuric Acid (to adjust pH).
-Tobramycin Ophthalmic Solution, USP 0.3% has a pH range between 7.0 and 8.0 and an osmolality of 260-320 mOsm/kg.
+Tobramycin Ophthalmic Solution, USP 0.3% has a pH range between 7.0 and 8.0.
 
 Preservative Added: Benzalkonium Chloride 0.1 mg (0.01%).
 
