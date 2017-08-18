@@ -2,7 +2,7 @@ PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0947-55
 
-Wellbutrin® SR
+Wellbutrin SR
 
 (bupropion HCl)
 
@@ -20,11 +20,12 @@ Each sustained-release tablet contains 100 mg bupropion HCl.
 
 WARNING: Do not use with other medicines that contain bupropion HCl.
 
-Federal Law requires dispensing of Wellbutrin® SR with the Medication Guide under this label.
+Federal Law requires dispensing of WellbutrinSR with the Medication Guide provided with this bottle.
 
 See prescribing information for dosage information.
 
-Store at controlled room temperature, 20o to 25oC (68o to 77oF) [see USP].
+Store at controlled room temperature, 68o to 77oF (20o to 25oC) [see USP].
+
 Keep dry and out of light.
 
 60 Tablets
@@ -35,14 +36,18 @@ RTP, NC 27709
 
 Made in Germany
 
-1. 10000000142525 Rev.
-   8/16
+Trademark owned or licensed by GSK.
+
+©2017 GSK or licensor.
+
+1. 10000000146238 Rev.
+   6/17
 
 PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0135-55
 
-Wellbutrin® SR
+WellbutrinSR
 
 (bupropion HCl)
 
@@ -60,11 +65,12 @@ Each sustained-release tablet contains 150 mg bupropion HCl.
 
 WARNING: Do not use with other medicines that contain bupropion HCl.
 
-Federal Law requires dispensing of Wellbutrin® SR with the Medication Guide under this label.
+Federal Law requires dispensing of WellbutrinSR with the Medication Guide provided with this bottle.
 
 See prescribing information for dosage information.
 
-Store at controlled room temperature, 20o to 25oC (68o to 77oF) [see USP].
+Store at controlled room temperature, 68o to 77oF (20o to 25oC) [see USP].
+
 Keep dry and out of light.
 
 60 Tablets
@@ -75,14 +81,18 @@ RTP, NC 27709
 
 Made in Germany
 
-1. 10000000142523 Rev.
-   8/16
+Trademark owned or licensed by GSK.
+
+©2017 GSK or licensor.
+
+1. 10000000146236 Rev.
+   6/17
 
 PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0722-00
 
-Wellbutrin® SR
+WellbutrinSR
 
 (bupropion HCl)
 
@@ -100,11 +110,12 @@ Each sustained-release tablet contains 200 mg bupropion HCl.
 
 WARNING: Do not use with other medicines that contain bupropion HCl.
 
-Federal Law requires dispensing of Wellbutrin® SR with the Medication Guide under this label.
+Federal Law requires dispensing of WellbutrinSR with the Medication Guide provided with this bottle.
 
 See prescribing information for dosage information.
 
-Store at controlled room temperature, 20o to 25oC (68o to 77oF) [see USP].
+Store at controlled room temperature, 68o to 77oF (20o to 25oC) [see USP].
+
 Keep dry and out of light.
 
 60 Tablets
@@ -115,5 +126,9 @@ RTP, NC 27709
 
 Made in Germany
 
-1. 10000000142524 Rev.
-   8/16
+Trademark owned or licensed by GSK.
+
+©2017 GSK or licensor.
+
+1. 10000000146237 Rev.
+   6/17

@@ -176,7 +176,7 @@ Colitis, esophagitis, gastrointestinal hemorrhage, gum hemorrhage, hepatitis, in
 
 Endocrine
 
-Hyperglycemia, hypoglycemia, and syndrome of inappropriate antidiuretic hormone.
+Hyperglycemia, hypoglycemia, hyponatremia, and syndrome of inappropriate antidiuretic hormone secretion.
 
 Hemic and Lymphatic
 

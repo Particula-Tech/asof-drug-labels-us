@@ -33,7 +33,7 @@ Patients treated concomitantly with WELLBUTRIN SR and such drugs may require inc
 Digoxin
 
 Coadministration of WELLBUTRIN SR with digoxin may decrease plasma digoxin levels.
-Monitor plasma digoxin levels in patients treated concomitantly with WELLBUTRIN SR and digoxin [seeClinical Pharmacology (12.3).
+Monitor plasma digoxin levels in patients treated concomitantly with WELLBUTRIN SR and digoxin [see Clinical Pharmacology (12.3)].
 
 ## 7.3 Drugs that Lower Seizure Threshold
 
