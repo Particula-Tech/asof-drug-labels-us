@@ -6,10 +6,10 @@ Cardiovascular Hypotension including orthostatic hypotension (may be aggravated 
 Digestive Pancreatitis, jaundice (intrahepatic cholestatic jaundice), diarrhea, vomiting, sialadenitis, cramping, constipation, gastric irritation, nausea, anorexia.
 Hematologic Aplastic anemia, agranulocytosis, leukopenia, hemolytic anemia, thrombocytopenia.
 Hypersensitivity Anaphylactic reactions, necrotizing angiitis (vasculitis and cutaneous vasculitis), respiratory distress including pneumonitis and pulmonary edema, photosensitivity, fever, urticaria, rash, purpura.
-Metabolic Electrolyte imbalance (see PRECAUTIONS ), hyperglycemia, glycosuria, hyperuricemia.
+Metabolic Electrolyte imbalance (see PRECAUTIONS), hyperglycemia, glycosuria, hyperuricemia.
 Musculoskeletal Muscle spasm.
 Nervous System/Psychiatric Vertigo, paresthesias, dizziness, headache, restlessness.
-Renal Renal failure, renal dysfunction, interstitial nephritis (see WARNINGS ).
+Renal Renal failure, renal dysfunction, interstitial nephritis (see WARNINGS).
 Skin Erythema multiforme including Stevens-Johnson syndrome, exfoliative dermatitis including toxic epidermal necrolysis, alopecia.
 Special Senses Transient blurred vision, xanthopsia.
 Urogenital Impotence.

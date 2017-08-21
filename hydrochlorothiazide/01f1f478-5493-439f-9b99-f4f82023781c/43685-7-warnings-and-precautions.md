@@ -7,7 +7,7 @@ Thiazides should be used with caution in patients with impaired hepatic function
 Thiazides may add to or potentiate the action of other antihypertensive drugs.
 Sensitivity reactions may occur in patients with or without a history of allergy or bronchial asthma.
 The possibility of exacerbation or activation of systemic lupus erythematosus has been reported.
-Lithium generally should not be given with diuretics (see PRECAUTIONS, Drug Interactions ).
+Lithium generally should not be given with diuretics (see PRECAUTIONS, Drug Interactions).
 Acute Myopia and Secondary Angle-Closure Glaucoma Hydrochlorothiazide, a sulfonamide, can cause an idiosyncratic reaction, resulting in acute transient myopia and acute angle-closure glaucoma.
 Symptoms include acute onset of decreased visual acuity or ocular pain and typically occur within hours to weeks of drug initiation.
 Untreated acute angle-closure glaucoma can lead to permanent vision loss.
@@ -65,7 +65,7 @@ Therefore, when hydrochlorothiazide and non-steroidal anti-inflammatory agents a
 
 ## Drug/Laboratory Test Interactions
 
-Thiazides should be discontinued before carrying out tests for parathyroid function (see PRECAUTIONS, General ).
+Thiazides should be discontinued before carrying out tests for parathyroid function (see PRECAUTIONS, General).
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
@@ -97,4 +97,4 @@ Because of the potential for serious adverse reactions in nursing infants, a dec
 
 There are no well-controlled clinical trials in pediatric patients.
 Information on dosing in this age group is supported by evidence from empiric use in pediatric patients and published literature regarding the treatment of hypertension in such patients.
-(See DOSAGE AND ADMINISTRATION, Infants and Children .)
+(See DOSAGE AND ADMINISTRATION, Infants and Children.)
