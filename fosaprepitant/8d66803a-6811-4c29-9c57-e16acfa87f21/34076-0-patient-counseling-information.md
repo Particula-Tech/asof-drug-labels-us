@@ -4,9 +4,9 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
 
 Hypersensitivity and Infusion Site Reactions
 
-Advise patients that hypersensitivity reactions, including anaphylaxis, have been reported in patients taking EMEND.
-Advise patients to stop taking EMEND and seek immediate medical attention if they experience signs or symptoms of a hypersensitivity reaction, such as hives, rash and itching, skin peeling or sores, or difficulty in breathing or swallowing.
-Advise patients who develop an infusion site reaction such as erythema, edema, pain, or thrombophlebitis on how to care for the local reaction and when to seek further evaluation.
+Advise patients that hypersensitivity reactions, including anaphylaxis and anaphylactic shock, have been reported in patients taking EMEND.
+Advise patients to seek immediate medical attention if they experience signs or symptoms of a hypersensitivity reaction, such as hives, rash and itching, skin peeling or sores, flushing, difficulty in breathing or swallowing, or dizziness, rapid or weak heartbeat or feeling faint [see Warnings and Precautions (5.2)].
+Advise patients local infusion site reactions, such as erythema, edema, pain, or thrombophlebitis, can also occur and instruct them on how to care for the local reaction and when to seek further evaluation.
 
 Drug Interactions
 

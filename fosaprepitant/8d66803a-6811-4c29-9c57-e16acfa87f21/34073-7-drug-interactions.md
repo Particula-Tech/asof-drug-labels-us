@@ -55,7 +55,7 @@ Table 6 Effects of Other Drugs on Pharmacokinetics of Fosaprepitant/Aprepitant
 
 | Moderate to Strong CYP3A4 Inhibitors |  |
 | --- | --- |
-| Clinical Impact | Significantly increased exposure of aprepitant may increase the risk of adverse reactions associated with EMEND [see Adverse Reactions (6.1) and Clinical Pharmacology (12.3)]. |
+| Clinical Impact | Significantly increased exposure of aprepitant may increase the risk of adverse reactions associated with EMEND [see Adverse Reactions (6.1), Clinical Pharmacology (12.3)]. |
 | Intervention | Avoid concomitant use of EMEND |
 | Examples | Moderate inhibitor: diltiazem |
 |  | Strong inhibitors: ketoconazole, itraconazole, nefazodone, troleandomycin, clarithromycin, ritonavir, nelfinavir |

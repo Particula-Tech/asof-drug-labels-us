@@ -44,8 +44,8 @@ See the full prescribing information for EMEND capsules for complete safety info
 The following adverse reactions have been identified during post-approval use of EMEND.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Skin and subcutaneous tissue disorders: pruritus, rash, urticaria, Stevens-Johnson syndrome/toxic epidermal necrolysis.
+Skin and subcutaneous tissue disorders: pruritus, rash, urticaria, Stevens-Johnson syndrome/toxic epidermal necrolysis [see Warnings and Precautions (5.2)].
 
-Immune system disorders: hypersensitivity reactions including anaphylactic reactions [see Contraindications (4)].
+Immune system disorders: hypersensitivity reactions including anaphylaxis and anaphylactic shock [see Contraindications (4), Warnings and Precautions (5.2)].
 
 Nervous system disorders: ifosfamide-induced neurotoxicity reported after EMEND and ifosfamide coadministration.

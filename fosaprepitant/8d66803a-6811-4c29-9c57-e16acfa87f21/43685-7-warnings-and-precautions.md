@@ -13,9 +13,12 @@ See Table 5 and Table 6 for a listing of potentially significant drug interactio
 
 ## 5.2 Hypersensitivity Reactions
 
-Hypersensitivity reactions during infusion of fosaprepitant including flushing, erythema, dyspnea, and anaphylaxis have been reported.
-If symptoms occur, discontinue the infusion and administer appropriate medical therapy.
-Do not reinitiate the infusion in patients who experience these symptoms during first-time use.
+Serious hypersensitivity reactions, including anaphylaxis and anaphylactic shock, during or soon after infusion of fosaprepitant have occurred.
+Symptoms including flushing, erythema, dyspnea, hypotension and syncope have been reported [see Adverse Reactions (6.2)].
+
+Monitor patients during and after infusion.
+If hypersensitivity reactions occur, discontinue the infusion and administer appropriate medical therapy.
+Do not reinitiate EMEND in patients who experience these symptoms with first-time use [see Contraindications (4)].
 
 ## 5.3 Decrease in INR with Concomitant Warfarin
 

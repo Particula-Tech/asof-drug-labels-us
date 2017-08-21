@@ -110,7 +110,7 @@ Effects of Fosaprepitant/Aprepitant on the Pharmacokinetics of Other Drugs
 
 CYP3A4 Substrates
 
-Midazolam: Fosaprepitant 150 mg administered as a single intravenous dose on Day 1 increased the AUC0-∞ of midazolam by approximately 1.8-fold on Day 1 and had no effect on Day 4 when midazolam was coadministered as a single oral dose of 2 mg on Days 1 and 4.
+Midazolam: Fosaprepitant 150 mg administered as a single intravenous dose on Day 1 increased the AUC0-∞ of midazolam by approximately 1.8-fold on Day 1 and had no effect on Day 4 when midazolam was coadministered as a single oral dose of 2 mg on Days 1 and 4 [see Drug Interactions (7.1)].
 
 Corticosteroids:
 
