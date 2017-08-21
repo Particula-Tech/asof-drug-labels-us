@@ -10,8 +10,6 @@ Delivers 0.025 mg/day
 
 Includes 8 Systems
 
-For additional information go to: www.vivelledot.com
-
 PRINCIPAL DISPLAY PANEL
 
 Package Label – 0.0375 mg
@@ -23,8 +21,6 @@ Vivelle-Dot® (estradiol transdermal system)
 Delivers 0.0375 mg/day
 
 Includes 8 Systems
-
-For additional information go to: www.vivelledot.com
 
 PRINCIPAL DISPLAY PANEL
 
@@ -38,8 +34,6 @@ Delivers 0.05 mg/day
 
 Includes 8 Systems
 
-For additional information go to: www.vivelledot.com
-
 PRINCIPAL DISPLAY PANEL
 
 Package Label – 0.075 mg
@@ -52,8 +46,6 @@ Delivers 0.075 mg/day
 
 Includes 8 Systems
 
-For additional information go to: www.vivelledot.com
-
 PRINCIPAL DISPLAY PANEL
 
 Package Label – 0.1 mg
@@ -65,5 +57,3 @@ Vivelle-Dot® (estradiol transdermal system)
 Delivers 0.1 mg/day
 
 Includes 8 Systems
-
-For additional information go to: www.vivelledot.com

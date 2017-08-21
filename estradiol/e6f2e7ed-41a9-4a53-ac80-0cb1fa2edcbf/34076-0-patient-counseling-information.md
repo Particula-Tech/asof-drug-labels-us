@@ -17,4 +17,4 @@ Possible Less Serious but Common Adverse Reactions with Estrogen-Alone Therapy
 
 Inform postmenopausal women of possible less serious but common adverse reactions of estrogen-alone therapy such as headache, breast pain and tenderness, nausea and vomiting.
 
-T2017-35 March 2017
+T2017-86 August 2017
