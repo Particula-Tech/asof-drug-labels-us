@@ -10,4 +10,4 @@ Do not store above 30°C (86°F).
 Do not store unpouched.
 Apply immediately upon removal from the protective pouch.
 
-REV: AUGUST 2004 T2004-67
+REV: AUGUST 2017 T2017-87

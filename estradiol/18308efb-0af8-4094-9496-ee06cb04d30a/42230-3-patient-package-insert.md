@@ -242,9 +242,9 @@ Proceeding from the visible surface toward the surface attached to the skin, the
 The active component of the system is estradiol.
 The remaining components of the system are pharmacologically inactive.
 
-T2004-67/T2004-68
+T2004-68
 
-REV: AUGUST 2004 101985-3
+REV: AUGUST 2017 101985-3
 
 Distributed by:
 
