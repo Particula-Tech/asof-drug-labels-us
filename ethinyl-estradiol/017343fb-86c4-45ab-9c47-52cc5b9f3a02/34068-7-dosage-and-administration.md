@@ -41,19 +41,19 @@ The woman may switch from the POP on any day; instruct her to start using NuvaRi
 She should switch from an implant or the IUS on the day of its removal, and from an injectable on the day when the next injection would be due.
 In all of these cases, the woman should use an additional barrier method such as a male condom with spermicide, for the first seven days.
 
-Use after Abortion or Miscarriage:
+Use After Abortion or Miscarriage:
 
 The woman may start using NuvaRing within the first five days following a complete first trimester abortion or miscarriage, and she does not need to use an additional method of contraception.
 If use of NuvaRing is not started within five days following a first trimester abortion or miscarriage, the woman should follow the instructions for "No Hormonal Contraceptive Use in the Preceding Cycle."
 In the meantime, she should be advised to use a non-hormonal contraceptive method.
 
 Start NuvaRing no earlier than four weeks after a second trimester abortion or miscarriage, due to the increased risk of thromboembolism.
-[See Contraindications (4), and Warnings and Precautions (5.1).]
+[See Contraindications (4) and Warnings and Precautions (5.1).]
 
 Following Childbirth:
 
 The use of NuvaRing may be initiated no sooner than four weeks postpartum in women who elect not to breastfeed, due to the increased risk of thromboembolism in the postpartum period.
-[See Contraindications (4), and Warnings and Precautions (5.1).]
+[See Contraindications (4) and Warnings and Precautions (5.1).]
 
 Advise women who are breastfeeding not to use NuvaRing but to use other forms of contraception until the child is weaned.
 

@@ -7,7 +7,7 @@ Counsel patients regarding the following:
 Increased risk of cardiovascular events
 
 - Advise patients that cigarette smoking increases the risk of serious cardiovascular events from use of NuvaRing, and women who are over 35 years old and smoke should not use NuvaRing [see Boxed Warning].
-- Inform patients that the increased risk of VTE compared to non-users of CHCs is greatest after initially starting a CHC or restarting (following a 4-week or greater CHC-free interval) the same or a different CHC [see Warnings and Precautions (5.1)]
+- Inform patients that the increased risk of VTE compared to non-users of CHCs is greatest after initially starting a CHC or restarting (following a 4-week or greater CHC-free interval) the same or a different CHC [see Warnings and Precautions (5.1)].
 
 Use and administration
 
@@ -34,7 +34,7 @@ Lactation
 Amenorrhea
 
 - Inform patients that amenorrhea may occur.
-  Rule out pregnancy in the event of amenorrhea if NuvaRing has been out of the vagina for more than three consecutive hours, if the ring-free interval was extended beyond one week, if the woman has missed a period for two or more consecutive cycles, and if the ring has been retained for longer than four weeks [see Warnings and Precautions (5.9)].
+  Rule out pregnancy in the event of amenorrhea if NuvaRing has been out of the vagina for more than three consecutive hours, if the ring-free interval was extended beyond one week, if the woman has missed a period for two or more consecutive cycles, and if the ring has been retained for longer than four weeks [see Warnings and Precautions (5.10)].
 
 Disposal
 

@@ -32,7 +32,7 @@ Who should not use NuvaRing?
 Do not use NuvaRing if you:
 
 - smoke and are over 35 years old
-- have or have had blood clots in your arms, legs, eyes or lungs
+- have or have had blood clots in your arms, legs, eyes, or lungs
 - have an inherited problem with your blood that makes it clot more than normal
 - have had a stroke
 - have had a heart attack
@@ -41,6 +41,8 @@ Do not use NuvaRing if you:
 - have diabetes with kidney, eye, nerve, or blood vessel damage
 - have certain kinds of severe migraine headaches with aura, numbness, weakness, or changes in vision, or have any migraine headaches if you are over age 35
 - have liver disease, including liver tumors
+- take any Hepatitis C drug combination containing ombitasvir/paritaprevir/ritonavir, with or without dasabuvir.
+  This may increase levels of the liver enzyme "alanine aminotransferase" (ALT) in the blood
 - have unexplained vaginal bleeding
 - are pregnant or think you may be pregnant.
   NuvaRing is not for pregnant women.
@@ -91,7 +93,7 @@ Some medicines and herbal products may make hormonal birth control less effectiv
 
 - certain anti-seizure medicines (such as barbiturates, carbamazepine, felbamate, oxcarbazepine, phenytoin, rufinamide and topiramate)
 - medicine to treat fungal infections (griseofulvin)
-- certain combinations of HIV medicines, (such as nelfinavir, ritonavir, darunavir/ritonavir, (fos)amprenavir/ritonavir, lopinavir/ritonavir and tipranavir/ritonavir)
+- certain combinations of HIV medicines, (such as nelfinavir, ritonavir, darunavir/ritonavir, (fos)amprenavir/ritonavir, lopinavir/ritonavir, and tipranavir/ritonavir)
 - certain hepatitis C (HCV) medicines (such as boceprevir and telaprevir)
 - non-nucleoside reverse transcriptase inhibitors (such as efavirenz and nevirapine)
 - medicine to treat tuberculosis (such as rifampicin and rifabutin)
@@ -107,7 +109,7 @@ Some medicines and grapefruit juice may increase the level of ethinyl estradiol 
 
 - the pain reliever acetaminophen
 - ascorbic acid (vitamin C)
-- medicines that affect how your liver breaks down other medicines (such as itraconazole, ketoconazole, voriconazole, fluconazole, clarithromycin, erythromycin and diltiazem)
+- medicines that affect how your liver breaks down other medicines (such as itraconazole, ketoconazole, voriconazole, fluconazole, clarithromycin, erythromycin, and diltiazem)
 - certain HIV medicines (atazanavir/ritonavir and indinavir)
 - non-nucleoside reverse transcriptase inhibitors (such as etravirine)
 - medicines to lower cholesterol such as atorvastatin and rosuvastatin

@@ -7,7 +7,7 @@ For patent information: www.merck.com/product/patent/home.html
 
 Copyright © 2001-2017 Merck Sharp & Dohme B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-uspi-mk8342a-rng-1705r008
+uspi-mk8342a-rng-1708r009
 
 Instructions for Use
 
@@ -89,8 +89,8 @@ Prepare NuvaRing for insertion.
 Step 4.
 Insert NuvaRing into your vagina.
 
-- Insert the folded NuvaRing into your vagina and gently push it further up into your vagina using your index finger (See Figure F and G). Alternatively, the applicator for NuvaRing (available separately) may be used to help you insert the ring [see Applicator for NuvaRing Instructions for Use].
-- When you insert NuvaRing it may be in different positions in your vagina, but NuvaRing does not have to be in an exact position for it to work (See Figure H and I).
+- Insert the folded NuvaRing into your vagina and gently push it further up into your vagina using your index finger (See Figures F and G). Alternatively, the applicator for NuvaRing (available separately) may be used to help you insert the ring [see Applicator for NuvaRing Instructions for Use].
+- When you insert NuvaRing it may be in different positions in your vagina, but NuvaRing does not have to be in an exact position for it to work (See Figures H and I).
 - NuvaRing may move around slightly within your vagina.
   This is normal.
   Although some women may be aware of NuvaRing in the vagina, most women do not feel it when it is in place.
@@ -169,9 +169,9 @@ For patent information: www.merck.com/product/patent/home.html
 
 Copyright © 2001-2017 Merck Sharp & Dohme B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 05/2017
+Revised: 08/2017
 
-usppi-mk8342a-rng-1705r008
+usppi-mk8342a-rng-1708r009
 
 # Instructions for Use
 

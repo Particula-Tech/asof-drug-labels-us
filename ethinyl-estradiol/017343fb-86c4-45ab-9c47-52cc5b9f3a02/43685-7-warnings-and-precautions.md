@@ -88,7 +88,13 @@ Rupture of hepatic adenomas may cause death through intra-abdominal hemorrhage.
 Studies have shown an increased risk of developing hepatocellular carcinoma in long term (>8 years) CHC users.
 However, the attributable risk of liver cancers in CHC users is less than one case per million users.
 
-## 5.4 High Blood Pressure
+## 5.4 Risk of Liver Enzyme Elevations with Concomitant Hepatitis C Treatment
+
+During clinical trials with the Hepatitis C combination drug regimen that contains ombitasvir/paritaprevir/ritonavir, with and without dasabuvir, ALT elevations greater than 5 times the upper limit of normal (ULN), including some cases greater than 20 times the ULN, were significantly more frequent in women using ethinyl estradiol-containing medications, such as CHCs.
+Discontinue NuvaRing prior to starting therapy with the combination drug regimen ombitasvir/paritaprevir/ritonavir, with or without dasabuvir [see Contraindications (4)].
+NuvaRing can be restarted approximately 2 weeks following completion of treatment with the Hepatitis C combination drug regimen.
+
+## 5.5 High Blood Pressure
 
 NuvaRing is contraindicated in women with uncontrolled hypertension or hypertension with vascular disease [see Contraindications (4)].
 For women with well-controlled hypertension, monitor blood pressure and stop NuvaRing use if blood pressure rises significantly.
@@ -96,7 +102,7 @@ For women with well-controlled hypertension, monitor blood pressure and stop Nuv
 An increase in blood pressure has been reported in women using CHCs and this increase is more likely in older women and with extended duration of use.
 The incidence of hypertension increases with increasing concentrations of progestin.
 
-## 5.5 Vaginal Use
+## 5.6 Vaginal Use
 
 NuvaRing may not be suitable for women with conditions that make the vagina more susceptible to vaginal irritation or ulceration.
 Vaginal/cervical erosion or ulceration in women using NuvaRing has been reported.
@@ -104,7 +110,7 @@ In some cases, the ring adhered to vaginal tissue, necessitating removal by a he
 
 Some women are aware of the ring on occasion during the 21 days of use or during intercourse, and sexual partners may feel NuvaRing in the vagina.
 
-## 5.6 Gallbladder Disease
+## 5.7 Gallbladder Disease
 
 Studies suggest a small increased relative risk of developing gallbladder disease among CHC users.
 Use of CHCs may also worsen existing gallbladder disease.
@@ -112,7 +118,7 @@ Use of CHCs may also worsen existing gallbladder disease.
 A past history of CHC-related cholestasis predicts an increased risk with subsequent CHC use.
 Women with a history of pregnancy-related cholestasis may be at an increased risk for CHC-related cholestasis.
 
-## 5.7 Carbohydrate and Lipid Metabolic Effects
+## 5.8 Carbohydrate and Lipid Metabolic Effects
 
 Carefully monitor prediabetic and diabetic women who are using NuvaRing.
 CHCs may decrease glucose tolerance.
@@ -122,13 +128,13 @@ Some women will have adverse lipid changes while on CHCs.
 
 Women with hypertriglyceridemia, or a family history thereof, may be at an increased risk of pancreatitis when using CHCs.
 
-## 5.8 Headache
+## 5.9 Headache
 
 If a woman using NuvaRing develops new headaches that are recurrent, persistent, or severe, evaluate the cause and discontinue NuvaRing if indicated.
 
 Consider discontinuation of NuvaRing in the case of an increased frequency or severity of migraine during CHC use (which may be prodromal of a cerebrovascular event) [see Contraindications (4)].
 
-## 5.9 Bleeding Irregularities and Amenorrhea
+## 5.10 Bleeding Irregularities and Amenorrhea
 
 Unscheduled Bleeding and Spotting
 
@@ -152,16 +158,16 @@ If the patient has adhered to the prescribed regimen and misses two consecutive 
 
 Some women may experience amenorrhea or oligomenorrhea after discontinuing CHC use, especially when such a condition was pre-existent.
 
-## 5.10 Inadvertent Urinary Bladder Insertion
+## 5.11 Inadvertent Urinary Bladder Insertion
 
 There have been reports of inadvertent insertions of NuvaRing into the urinary bladder, which required cystoscopic removal.
 Assess for ring insertion into the urinary bladder in NuvaRing users who present with persistent urinary symptoms and are unable to locate the ring.
 
-## 5.11 Depression
+## 5.12 Depression
 
 Carefully observe women with a history of depression and discontinue NuvaRing use if depression recurs to a serious degree.
 
-## 5.12 Carcinoma of the Breasts and Cervix
+## 5.13 Carcinoma of the Breasts and Cervix
 
 NuvaRing is contraindicated in women who currently have or have had breast cancer because breast cancer is a hormonally-sensitive tumor [see Contraindications (4)].
 
@@ -171,20 +177,20 @@ Although some past studies have suggested that CHCs might increase the incidence
 Some studies suggest that CHCs are associated with an increase in the risk of cervical cancer or intraepithelial neoplasia.
 However, there is controversy about the extent to which these findings may be due to differences in sexual behavior and other factors.
 
-## 5.13 Effect on Binding Globulins
+## 5.14 Effect on Binding Globulins
 
 The estrogen component of CHCs may raise the serum concentrations of thyroxine-binding globulin, sex hormone-binding globulin, and cortisol-binding globulin.
 The dose of replacement thyroid hormones or cortisol therapy may need to be increased.
 
-## 5.14 Monitoring
+## 5.15 Monitoring
 
 A woman who is using NuvaRing should have a yearly visit with her healthcare provider for a blood pressure check and for other indicated healthcare.
 
-## 5.15 Hereditary Angioedema
+## 5.16 Hereditary Angioedema
 
 In women with hereditary angioedema, exogenous estrogens may induce or exacerbate symptoms of angioedema.
 
-## 5.16 Chloasma
+## 5.17 Chloasma
 
 Chloasma may occasionally occur, especially in women with a history of chloasma gravidarum.
 Women with a tendency to chloasma should avoid exposure to the sun or ultraviolet radiation while using NuvaRing.

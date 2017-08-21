@@ -4,8 +4,9 @@ Each NuvaRing (etonogestrel/ethinyl estradiol vaginal ring) is individually pack
 The ring should be replaced in this reclosable sachet after use and discarded in a waste receptacle out of the reach of children and pets.
 It should not be flushed down the toilet.
 
-|  | Box of 3 sachets | NDC 0052-0273-03 |  |
-| --- | --- | --- | --- |
+| Box of 3 sachets | NDC 0052-0273-03 |
+| --- | --- |
+| Box of 3 sachets | NDC 0052-0273-05 |
 
 ## 16.1 Storage
 

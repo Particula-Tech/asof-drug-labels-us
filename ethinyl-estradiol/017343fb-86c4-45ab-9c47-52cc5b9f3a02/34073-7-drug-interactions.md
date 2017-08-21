@@ -39,6 +39,10 @@ This may reduce seizure control; therefore, dosage adjustments of lamotrigine ma
 
 Women on thyroid hormone replacement therapy may need increased doses of thyroid hormone because serum concentrations of thyroid-binding globulin increase with use of CHCs.
 
-## 7.3 Interference with Laboratory Tests
+## 7.3 Concomitant Use with HCV Combination Therapy – Liver Enzyme Elevation
+
+Do not co-administer NuvaRing with HCV drug combinations containing ombitasvir/paritaprevir/ritonavir, with or without dasabuvir, due to potential for ALT elevations [see Warnings and Precautions (5.4)].
+
+## 7.4 Interference with Laboratory Tests
 
 The use of contraceptive steroids may influence the results of certain laboratory tests, such as coagulation factors, lipids, glucose tolerance, and binding proteins.
