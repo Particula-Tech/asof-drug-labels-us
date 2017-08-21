@@ -163,7 +163,7 @@ Table 3 Effect of Coadministered Drugs on Systemic Exposure of Linagliptin
 | Ritonavir | 200 mg BID | 5 mgb | 2.01 | 2.96 |
 | The efficacy of linagliptin may be reduced when administered in combination with strong inducers of CYP3A4 or P-gp (e.g., rifampin). Use of alternative treatments is strongly recommended [see Drug Interactions (7.2)]. |  |  |  |  |
 | Rifampin | 600 mg QD | 5 mg QD | 0.60 | 0.56 |
-| a Multiple dose (steady state) unless otherwise noted |  |  |  |  |
+| aMultiple dose (steady state) unless otherwise noted |  |  |  |  |
 | bSingle dose |  |  |  |  |
 | cAUC = AUC(0 to 24 hours) for single dose treatments and AUC = AUC(TAU) for multiple dose treatments |  |  |  |  |
 | QD = once daily |  |  |  |  |
@@ -183,7 +183,7 @@ Table 4 Effect of Linagliptin on Systemic Exposure of Coadministered Drugs
 | Simvastatin | 40 mg QD | 10 mg QD | simvastatin simvastatin acid | 1.341.33 | 1.101.21 |
 | Warfarin | 10 mgb | 5 mg QD | R-warfarinS-warfarinINRPT | 0.991.030.93d1.03d | 1.001.011.04d1.15d |
 | Ethinylestradiol and levonorgestrel | ethinylestradiol 0.03 mg and levonorgestrel 0.150 mg QD | 5 mg QD | ethinylestradiollevonorgestrel | 1.011.09 | 1.081.13 |
-| a Multiple dose (steady state) unless otherwise noted |  |  |  |  |  |
+| aMultiple dose (steady state) unless otherwise noted |  |  |  |  |  |
 | bSingle dose |  |  |  |  |  |
 | cAUC = AUC(INF) for single dose treatments and AUC = AUC(TAU) for multiple dose treatments |  |  |  |  |  |
 | dAUC=AUC(0-168) and Cmax=Emaxfor pharmacodynamic end points |  |  |  |  |  |

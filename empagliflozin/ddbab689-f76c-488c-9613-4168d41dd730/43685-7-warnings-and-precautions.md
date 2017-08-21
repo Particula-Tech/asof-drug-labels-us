@@ -7,14 +7,23 @@ Take careful notice of potential signs and symptoms of pancreatitis.
 If pancreatitis is suspected, promptly discontinue GLYXAMBI and initiate appropriate management.
 It is unknown whether patients with a history of pancreatitis are at increased risk for the development of pancreatitis while using GLYXAMBI.
 
-## 5.2 Hypotension
+## 5.2 Heart Failure
+
+An association between DPP-4 inhibitor treatment and heart failure has been observed in cardiovascular outcomes trials for two other members of the DPP-4 inhibitor class.
+These trials evaluated patients with type 2 diabetes mellitus and atherosclerotic cardiovascular disease.
+
+Consider the risks and benefits of GLYXAMBI prior to initiating treatment in patients at risk for heart failure, such as those with a prior history of heart failure and a history of renal impairment, and observe these patients for signs and symptoms of heart failure during therapy.
+Advise patients of the characteristic symptoms of heart failure and to immediately report such symptoms.
+If heart failure develops, evaluate and manage according to current standards of care and consider discontinuation of GLYXAMBI.
+
+## 5.3 Hypotension
 
 Empagliflozin causes intravascular volume contraction.
 Symptomatic hypotension may occur after initiating empagliflozin [see Adverse Reactions (6.1)] particularly in patients with renal impairment, the elderly, in patients with low systolic blood pressure, and in patients on diuretics.
 Before initiating GLYXAMBI, assess for volume contraction and correct volume status if indicated.
 Monitor for signs and symptoms of hypotension after initiating therapy and increase monitoring in clinical situations where volume contraction is expected [see Use in Specific Populations (8.5)].
 
-## 5.3 Ketoacidosis
+## 5.4 Ketoacidosis
 
 Reports of ketoacidosis, a serious life-threatening condition requiring urgent hospitalization have been identified in postmarketing surveillance in patients with type 1 and type 2 diabetes mellitus receiving sodium glucose co-transporter-2 (SGLT2) inhibitors, including empagliflozin.
 Fatal cases of ketoacidosis have been reported in patients taking empagliflozin.
@@ -31,7 +40,7 @@ In some but not all cases, factors predisposing to ketoacidosis such as insulin 
 Before initiating GLYXAMBI, consider factors in the patient history that may predispose to ketoacidosis including pancreatic insulin deficiency from any cause, caloric restriction, and alcohol abuse.
 In patients treated with GLYXAMBI consider monitoring for ketoacidosis and temporarily discontinuing GLYXAMBI in clinical situations known to predispose to ketoacidosis (e.g., prolonged fasting due to acute illness or surgery).
 
-## 5.4 Acute Kidney Injury and Impairment in Renal Function
+## 5.5 Acute Kidney Injury and Impairment in Renal Function
 
 Empagliflozin causes intravascular volume contraction [see Warnings and Precautions (5.1)] and can cause renal impairment [see Adverse Reactions (6.1)].
 There have been postmarketing reports of acute kidney injury, some requiring hospitalization and dialysis, in patients receiving SGLT2 inhibitors, including empagliflozin; some reports involved patients younger than 65 years of age.
@@ -47,25 +56,25 @@ Renal function should be evaluated prior to initiation of GLYXAMBI and monitored
 More frequent renal function monitoring is recommended in patients with an eGFR below 60 mL/min/1.73 m2.
 Use of GLYXAMBI is not recommended when eGFR is persistently less than 45 mL/min/1.73 m2 and is contraindicated in patients with an eGFR less than 30 mL/min/1.73 m2 [see Dosage and Administration (2.2), Contraindications (4), Use in Specific Populations (8.6)].
 
-## 5.5 Urosepsis and Pyelonephritis
+## 5.6 Urosepsis and Pyelonephritis
 
 There have been postmarketing reports of serious urinary tract infections including urosepsis and pyelonephritis requiring hospitalization in patients receiving SGLT2 inhibitors, including empagliflozin.
 Treatment with SGLT2 inhibitors increases the risk for urinary tract infections.
 Evaluate patients for signs and symptoms of urinary tract infections and treat promptly, if indicated [see Adverse Reactions (6)].
 
-## 5.6 Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues
+## 5.7 Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues
 
 Insulin and insulin secretagogues are known to cause hypoglycemia.
 The use of empagliflozin or linagliptin in combination with an insulin secretagogue (e.g., sulfonylurea) or insulin was associated with a higher rate of hypoglycemia compared with placebo in a clinical trial.
 Therefore, a lower dose of the insulin secretagogue or insulin may be required to reduce the risk of hypoglycemia when used in combination with GLYXAMBI.
 
-## 5.7 Genital Mycotic Infections
+## 5.8 Genital Mycotic Infections
 
 Empagliflozin increases the risk for genital mycotic infections [see Adverse Reactions (6.1)].
 Patients with a history of chronic or recurrent genital mycotic infections were more likely to develop mycotic genital infections.
 Monitor and treat as appropriate.
 
-## 5.8 Hypersensitivity Reactions
+## 5.9 Hypersensitivity Reactions
 
 There have been postmarketing reports of serious hypersensitivity reactions in patients treated with linagliptin (one of the components of GLYXAMBI).
 These reactions include anaphylaxis, angioedema, and exfoliative skin conditions.
@@ -75,12 +84,12 @@ If a serious hypersensitivity reaction is suspected, discontinue GLYXAMBI, asses
 Angioedema has also been reported with other dipeptidyl peptidase-4 (DPP-4) inhibitors.
 Use caution in a patient with a history of angioedema to another DPP-4 inhibitor because it is unknown whether such patients will be predisposed to angioedema with GLYXAMBI.
 
-## 5.9 Increased Low-Density Lipoprotein Cholesterol (LDL-C)
+## 5.10 Increased Low-Density Lipoprotein Cholesterol (LDL-C)
 
 Increases in LDL-C can occur with empagliflozin [see Adverse Reactions (6.1)].
 Monitor and treat as appropriate.
 
-## 5.10 Severe and Disabling Arthralgia
+## 5.11 Severe and Disabling Arthralgia
 
 There have been postmarketing reports of severe and disabling arthralgia in patients taking DPP-4 inhibitors.
 The time to onset of symptoms following initiation of drug therapy varied from one day to years.
@@ -88,13 +97,13 @@ Patients experienced relief of symptoms upon discontinuation of the medication.
 A subset of patients experienced a recurrence of symptoms when restarting the same drug or a different DPP-4 inhibitor.
 Consider as a possible cause for severe joint pain and discontinue drug if appropriate.
 
-## 5.11 Bullous Pemphigoid
+## 5.12 Bullous Pemphigoid
 
 Postmarketing cases of bullous pemphigoid requiring hospitalization have been reported with DPP-4 inhibitor use.
 In reported cases, patients typically recovered with topical or systemic immunosuppressive treatment and discontinuation of the DPP-4 inhibitor.
 Tell patients to report development of blisters or erosions while receiving GLYXAMBI.
 If bullous pemphigoid is suspected, GLYXAMBI should be discontinued and referral to a dermatologist should be considered for diagnosis and appropriate treatment.
 
-## 5.12 Macrovascular Outcomes
+## 5.13 Macrovascular Outcomes
 
 There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with GLYXAMBI.

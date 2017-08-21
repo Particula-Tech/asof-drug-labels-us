@@ -44,7 +44,7 @@ Table 2 Incidence of Overalla and Severeb Hypoglycemic Adverse Reactions
 Laboratory Tests Empagliflozin and Linagliptin Changes in laboratory findings in patients treated with the combination of empagliflozin and linagliptin included increases in cholesterol and hematocrit compared to baseline.
 
 Empagliflozin Increase in Low-Density Lipoprotein Cholesterol (LDL-C): Dose-related increases in low-density lipoprotein cholesterol (LDL-C) were observed in patients treated with empagliflozin.
-LDL-C increased by 2.3%, 4.6%, and 6.5% in patients treated with placebo, empagliflozin 10 mg, and empagliflozin 25 mg, respectively [see Warnings and Precautions (5.9)].
+LDL-C increased by 2.3%, 4.6%, and 6.5% in patients treated with placebo, empagliflozin 10 mg, and empagliflozin 25 mg, respectively [see Warnings and Precautions (5.10)].
 The range of mean baseline LDL-C levels was 90.3 to 90.6 mg/dL across treatment groups.
 
 Increase in Hematocrit: Median hematocrit decreased by 1.3% in placebo and increased by 2.8% in empagliflozin 10 mg and 2.8% in empagliflozin 25 mg treated patients.
@@ -61,10 +61,10 @@ Additional adverse reactions have been identified during postapproval use of lin
 Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 - Acute pancreatitis, including fatal pancreatitis [see Indications and Usage (1) and Warnings and Precautions (5.1)]
-- Ketoacidosis [see Warnings and Precautions (5.3)]
-- Urosepsis and pyelonephritis [see Warnings and Precautions (5.5)]
-- Hypersensitivity reactions including anaphylaxis, angioedema, and exfoliative skin conditions [see Warnings and Precautions (5.8)]
-- Severe and disabling arthralgia [see Warnings and Precautions (5.10)]
-- Bullous pemphigoid [see Warnings and Precautions (5.11)]
+- Ketoacidosis [see Warnings and Precautions (5.4)]
+- Urosepsis and pyelonephritis [see Warnings and Precautions (5.6)]
+- Hypersensitivity reactions including anaphylaxis, angioedema, and exfoliative skin conditions [see Warnings and Precautions (5.9)]
+- Severe and disabling arthralgia [see Warnings and Precautions (5.11)]
+- Bullous pemphigoid [see Warnings and Precautions (5.12)]
 - Rash
 - Mouth ulceration, stomatitis

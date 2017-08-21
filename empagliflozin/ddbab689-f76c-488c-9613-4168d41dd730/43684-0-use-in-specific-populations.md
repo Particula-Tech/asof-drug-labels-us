@@ -65,7 +65,7 @@ Empagliflozin No empagliflozin dosage change is recommended based on age [see Do
 A total of 2721 (32%) patients treated with empagliflozin were 65 years of age and older, and 491 (6%) were 75 years of age and older.
 Empagliflozin is expected to have diminished efficacy in elderly patients with renal impairment [see Use in Specific Populations (8.6)].
 The risk of volume depletion-related adverse reactions increased in patients who were 75 years of age and older to 2.1%, 2.3%, and 4.4% for placebo, empagliflozin 10 mg, and empagliflozin 25 mg.
-The risk of urinary tract infections increased in patients who were 75 years of age and older to 10.5%, 15.7%, and 15.1% in patients randomized to placebo, empagliflozin 10 mg, and empagliflozin 25 mg, respectively [see Warnings and Precautions (5.2) and Adverse Reactions (6.1)].
+The risk of urinary tract infections increased in patients who were 75 years of age and older to 10.5%, 15.7%, and 15.1% in patients randomized to placebo, empagliflozin 10 mg, and empagliflozin 25 mg, respectively [see Warnings and Precautions (5.3) and Adverse Reactions (6.1)].
 
 Linagliptin There were 4040 type 2 diabetes patients treated with linagliptin 5 mg from 15 clinical trials of linagliptin; 1085 (27%) were 65 years and over, while 131 (3%) were 75 years and over.
 Of these patients, 2566 were enrolled in 12 double-blind placebo-controlled studies; 591 (23%) were 65 years and over, while 82 (3%) were 75 years and over.
@@ -76,10 +76,10 @@ While clinical studies of linagliptin have not identified differences in respons
 ## 8.6 Renal Impairment
 
 Empagliflozin The efficacy and safety of empagliflozin have not been established in patients with severe renal impairment, with ESRD, or receiving dialysis.
-Empagliflozin is not expected to be effective in these patient populations [see Dosage and Administration (2.2), Contraindications (4) and Warnings and Precautions (5.2, 5.4)].
+Empagliflozin is not expected to be effective in these patient populations [see Dosage and Administration (2.2), Contraindications (4) and Warnings and Precautions (5.3, 5.5)].
 
 The glucose lowering benefit of empagliflozin 25 mg decreased in patients with worsening renal function.
-The risks of renal impairment [see Warnings and Precautions (5.4)], volume depletion adverse reactions and urinary tract infection-related adverse reactions increased with worsening renal function.
+The risks of renal impairment [see Warnings and Precautions (5.5)], volume depletion adverse reactions and urinary tract infection-related adverse reactions increased with worsening renal function.
 
 ## 8.7 Hepatic Impairment
 
