@@ -8,12 +8,11 @@ Number of Patients Reporting Events
 | --- | --- | --- | --- |
 | Burning | 62 (11) | 15 (10) | 17 (11) |
 | Itching | 36 (7) | 15 (10) | 17 (11) |
-| Burning/Itching | 60 (11) | # (−) | # (−) |
+| Burning/Itching | 60 (11) | not recorded (–) | (–) |
 | Dryness | 105 (19) | 34 (23) | 29 (18) |
 | Erythema | 86 (16) | 10 (7) | 22 (14) |
 | Oiliness/Oily Skin | 8 (1) | 26 (18) | 12of 126 subjects (10) |
-| Peeling | 61 (11) | # (−) | 11 (7) |
-| # not recorded |  |  |  |
+| Peeling | 61 (11) | (–) | 11 (7) |
 
 Orally and parenterally administered clindamycin has been associated with severe colitis which may end fatally.
 
