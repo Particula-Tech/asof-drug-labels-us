@@ -249,7 +249,7 @@ In the entire study population (patients on JANUVIA in combination with glimepir
 Rescue therapy was used in 12% of patients treated with JANUVIA 100 mg and 27% of patients treated with placebo.
 In this study, patients treated with JANUVIA had a mean increase in body weight of 1.1 kg vs. placebo (+0.8 kg vs. -0.4 kg).
 In addition, there was an increased rate of hypoglycemia.
-[See Warnings and Precautions (5.3); Adverse Reactions (6.1).]
+[See Warnings and Precautions (5.4); Adverse Reactions (6.1).]
 
 Table 11: Glycemic Parameters at Final Visit (24-Week Study) for JANUVIA as Add-On Combination Therapy with Glimepiride, with or without MetforminIntent-to-treat population using last observation on study prior to pioglitazone rescue therapy.
 
@@ -281,7 +281,7 @@ The median change from baseline in daily dose of insulin was zero for both group
 In combination with insulin (with or without metformin), JANUVIA provided significant improvements in A1C, FPG, and 2-hour PPG compared to placebo (Table 12).
 Both treatment groups had an adjusted mean increase in body weight of 0.1 kg from baseline to Week 24.
 There was an increased rate of hypoglycemia in patients treated with JANUVIA.
-[See Warnings and Precautions (5.3); Adverse Reactions (6.1).]
+[See Warnings and Precautions (5.4); Adverse Reactions (6.1).]
 
 Table 12: Glycemic Parameters at Final Visit (24-Week Study) for JANUVIA as Add-on Combination Therapy with InsulinIntent-to-treat population using last observation on study prior to rescue therapy.
 

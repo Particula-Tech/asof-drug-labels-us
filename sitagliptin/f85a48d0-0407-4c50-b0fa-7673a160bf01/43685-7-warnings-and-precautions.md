@@ -7,7 +7,16 @@ After initiation of JANUVIA, patients should be observed carefully for signs and
 If pancreatitis is suspected, JANUVIA should promptly be discontinued and appropriate management should be initiated.
 It is unknown whether patients with a history of pancreatitis are at increased risk for the development of pancreatitis while using JANUVIA.
 
-## 5.2 Renal Impairment
+## 5.2 Heart Failure
+
+An association between dipeptidyl peptidase-4 (DPP-4) inhibitor treatment and heart failure has been observed in cardiovascular outcomes trials for two other members of the DPP-4 inhibitor class.
+These trials evaluated patients with type 2 diabetes mellitus and atherosclerotic cardiovascular disease.
+
+Consider the risks and benefits of JANUVIA prior to initiating treatment in patients at risk for heart failure, such as those with a prior history of heart failure and a history of renal impairment, and observe these patients for signs and symptoms of heart failure during therapy.
+Advise patients of the characteristic symptoms of heart failure and to immediately report such symptoms.
+If heart failure develops, evaluate and manage according to current standards of care and consider discontinuation of JANUVIA.
+
+## 5.3 Renal Impairment
 
 Assessment of renal function is recommended prior to initiating JANUVIA and periodically thereafter.
 A dosage adjustment is recommended in patients with moderate or severe renal insufficiency and in patients with ESRD requiring hemodialysis or peritoneal dialysis.
@@ -21,14 +30,14 @@ Consideration can be given to cautiously reinitiating JANUVIA if another etiolog
 
 JANUVIA has not been found to be nephrotoxic in preclinical studies at clinically relevant doses, or in clinical trials.
 
-## 5.3 Use with Medications Known to Cause Hypoglycemia
+## 5.4 Use with Medications Known to Cause Hypoglycemia
 
 When JANUVIA was used in combination with a sulfonylurea or with insulin, medications known to cause hypoglycemia, the incidence of hypoglycemia was increased over that of placebo used in combination with a sulfonylurea or with insulin.
 [See Adverse Reactions (6.1).]
 Therefore, a lower dose of sulfonylurea or insulin may be required to reduce the risk of hypoglycemia.
 [See Dosage and Administration (2.3).]
 
-## 5.4 Hypersensitivity Reactions
+## 5.5 Hypersensitivity Reactions
 
 There have been postmarketing reports of serious hypersensitivity reactions in patients treated with JANUVIA.
 These reactions include anaphylaxis, angioedema, and exfoliative skin conditions including Stevens-Johnson syndrome.
@@ -36,10 +45,10 @@ Onset of these reactions occurred within the first 3 months after initiation of 
 If a hypersensitivity reaction is suspected, discontinue JANUVIA, assess for other potential causes for the event, and institute alternative treatment for diabetes.
 [See Adverse Reactions (6.2).]
 
-Angioedema has also been reported with other dipeptidyl peptidase-4 (DPP-4) inhibitors.
+Angioedema has also been reported with other DPP-4 inhibitors.
 Use caution in a patient with a history of angioedema with another DPP-4 inhibitor because it is unknown whether such patients will be predisposed to angioedema with JANUVIA.
 
-## 5.5 Severe and Disabling Arthralgia
+## 5.6 Severe and Disabling Arthralgia
 
 There have been postmarketing reports of severe and disabling arthralgia in patients taking DPP-4 inhibitors.
 The time to onset of symptoms following initiation of drug therapy varied from one day to years.
@@ -47,13 +56,13 @@ Patients experienced relief of symptoms upon discontinuation of the medication.
 A subset of patients experienced a recurrence of symptoms when restarting the same drug or a different DPP-4 inhibitor.
 Consider DPP-4 inhibitors as a possible cause for severe joint pain and discontinue drug if appropriate.
 
-## 5.6 Bullous Pemphigoid
+## 5.7 Bullous Pemphigoid
 
 Postmarketing cases of bullous pemphigoid requiring hospitalization have been reported with DPP-4 inhibitor use.
 In reported cases, patients typically recovered with topical or systemic immunosuppressive treatment and discontinuation of the DPP-4 inhibitor.
 Tell patients to report development of blisters or erosions while receiving JANUVIA.
 If bullous pemphigoid is suspected, JANUVIA should be discontinued and referral to a dermatologist should be considered for diagnosis and appropriate treatment.
 
-## 5.7 Macrovascular Outcomes
+## 5.8 Macrovascular Outcomes
 
 There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with JANUVIA or any other anti-diabetic drug.

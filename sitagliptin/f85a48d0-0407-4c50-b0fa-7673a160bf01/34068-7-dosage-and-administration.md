@@ -22,4 +22,4 @@ There have been postmarketing reports of worsening renal function in patients wi
 ## 2.3 Concomitant Use with an Insulin Secretagogue (e.g., Sulfonylurea) or with Insulin
 
 When JANUVIA is used in combination with an insulin secretagogue (e.g., sulfonylurea) or with insulin, a lower dose of the insulin secretagogue or insulin may be required to reduce the risk of hypoglycemia.
-[See Warnings and Precautions (5.3).]
+[See Warnings and Precautions (5.4).]
