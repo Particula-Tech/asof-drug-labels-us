@@ -252,6 +252,7 @@ Less Common Adverse Reactions: Clinically significant adverse reactions reported
 - Immune system disorders: allergic reaction [see Contraindications (4.1)]
 - Cardiac disorders: torsades de pointes [see Warnings and Precautions (5.2)]
 - Vascular disorders: pulmonary embolism
+- Gastrointestinal disorders: pancreatitis
 - Liver and Biliary System Disorders: bilirubinemia, hepatic enzymes increased, hepatic function abnormal, hepatitis, hepatomegaly, jaundice, AST Increased, ALT Increased
 - Metabolic and Nutritional Disorders: hypokalemia
 - Platelet, Bleeding, and Clotting Disorders: thrombocytopenia
