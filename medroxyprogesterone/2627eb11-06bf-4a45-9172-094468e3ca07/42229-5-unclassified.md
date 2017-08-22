@@ -1,6 +1,6 @@
 Rx only
 
-LAB-0145-5.0 February 2016
+LAB-0145-6.0 August 2017
 
 What are medroxyprogesterone acetate tablets?
 
