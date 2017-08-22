@@ -25,6 +25,6 @@ They are supplied as follows:
 
 Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [See USP Controlled Room Temperature].
 
-Manufactured by UPSHER-SMITH LABORATORIES, INC. Maple Grove, MN 55369
+Manufactured by UPSHER-SMITH LABORATORIES, LLC Maple Grove, MN 55369
 
-Revised 0217
+Revised 0717
