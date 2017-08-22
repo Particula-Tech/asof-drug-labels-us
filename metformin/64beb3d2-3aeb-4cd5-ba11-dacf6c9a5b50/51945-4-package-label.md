@@ -1,10 +1,8 @@
-# PRINCIPAL DISPLAY PANEL - 50 mg/500 mg Bottle Label
+# PRINCIPAL DISPLAY PANEL - 50 mg/500 mg Tablet Bottle Label
 
 NDC 0006-0078-61
 
-Janumet® XR
-
-(sitagliptin and metformin HCl extended-release) tablets
+Janumet® XR (sitagliptin and metformin HCl extended-release) tablets
 
 50 mg/500 mg
 
@@ -16,15 +14,13 @@ Rx only
 
 60 Tablets
 
-# PRINCIPAL DISPLAY PANEL - 50 mg/1,000 mg Bottle Label
+# PRINCIPAL DISPLAY PANEL - 50 mg/1,000 mg Tablet Bottle Label
 
 NDC 0006-0080-61
 
-Janumet® XR
+Janumet® XR (sitagliptin and metformin HCl extended-release) tablets
 
-(sitagliptin and metformin HCl extended-release) tablets
-
-50 mg/1,000 mg
+50 mg /1,000 mg
 
 Dispense the accompanying Medication Guide to each patient.
 
@@ -34,15 +30,13 @@ Rx only
 
 60 Tablets
 
-# PRINCIPAL DISPLAY PANEL - 100 mg/1,000 mg Bottle Label
+# PRINCIPAL DISPLAY PANEL - 100 mg/1,000 mg Tablet Bottle Label
 
 NDC 0006-0081-31
 
-Janumet® XR
+Janumet® XR (sitagliptin and metformin HCl extended-release) tablets
 
-(sitagliptin and metformin HCl extended-release) tablets
-
-100 mg/1,000 mg
+100 mg /1,000 mg
 
 Dispense the accompanying Medication Guide to each patient.
 

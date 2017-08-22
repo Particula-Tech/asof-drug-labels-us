@@ -74,7 +74,16 @@ After initiation of JANUMET XR, patients should be observed carefully for signs 
 If pancreatitis is suspected, JANUMET XR should promptly be discontinued and appropriate management should be initiated.
 It is unknown whether patients with a history of pancreatitis are at increased risk for the development of pancreatitis while using JANUMET XR.
 
-## 5.3 Assessment of Renal Function
+## 5.3 Heart Failure
+
+An association between dipeptidyl peptidase-4 (DPP-4) inhibitor treatment and heart failure has been observed in cardiovascular outcomes trials for two other members of the DPP-4 inhibitor class.
+These trials evaluated patients with type 2 diabetes mellitus and atherosclerotic cardiovascular disease.
+
+Consider the risks and benefits of JANUMET XR prior to initiating treatment in patients at risk for heart failure, such as those with a prior history of heart failure and a history of renal impairment, and observe these patients for signs and symptoms of heart failure during therapy.
+Advise patients of the characteristic symptoms of heart failure and to immediately report such symptoms.
+If heart failure develops, evaluate and manage according to current standards of care and consider discontinuation of JANUMET XR.
+
+## 5.4 Assessment of Renal Function
 
 Metformin and sitagliptin are substantially excreted by the kidney.
 
@@ -88,7 +97,7 @@ There have been postmarketing reports of worsening renal function in patients ta
 Before initiation of therapy with JANUMET XR and at least annually thereafter, renal function should be assessed.
 In patients in whom development of renal dysfunction is anticipated, particularly in elderly patients, renal function should be assessed more frequently and JANUMET XR discontinued if evidence of renal impairment is present.
 
-## 5.4 Vitamin B12 Levels
+## 5.5 Vitamin B12 Levels
 
 In controlled clinical trials of metformin of 29 weeks duration, a decrease to subnormal levels of previously normal serum Vitamin B12 levels, without clinical manifestations, was observed in approximately 7% of patients.
 Such decrease, possibly due to interference with B12 absorption from the B12-intrinsic factor complex, is, however, very rarely associated with anemia and appears to be rapidly reversible with discontinuation of metformin or Vitamin B12 supplementation.
@@ -98,13 +107,13 @@ Measurement of hematologic parameters on an annual basis is advised in patients 
 Certain individuals (those with inadequate Vitamin B12 or calcium intake or absorption) appear to be predisposed to developing subnormal Vitamin B12 levels.
 In these patients, routine serum Vitamin B12 measurements at two- to three-year intervals may be useful.
 
-## 5.5 Change in Clinical Status of Patients with Previously Controlled Type 2 Diabetes
+## 5.6 Change in Clinical Status of Patients with Previously Controlled Type 2 Diabetes
 
 A patient with type 2 diabetes previously well controlled on JANUMET XR who develops laboratory abnormalities or clinical illness (especially vague and poorly defined illness) should be evaluated promptly for evidence of ketoacidosis or lactic acidosis.
 Evaluation should include serum electrolytes and ketones, blood glucose and, if indicated, blood pH, lactate, pyruvate, and metformin levels.
 If acidosis of either form occurs, JANUMET XR must be stopped immediately and other appropriate corrective measures initiated.
 
-## 5.6 Use with Medications Known to Cause Hypoglycemia
+## 5.7 Use with Medications Known to Cause Hypoglycemia
 
 Sitagliptin
 
@@ -117,13 +126,13 @@ Hypoglycemia does not occur in patients receiving metformin alone under usual ci
 Elderly, debilitated, or malnourished patients, and those with adrenal or pituitary insufficiency or alcohol intoxication are particularly susceptible to hypoglycemic effects.
 Hypoglycemia may be difficult to recognize in the elderly, and in people who are taking β-adrenergic blocking drugs.
 
-## 5.7 Loss of Control of Blood Glucose
+## 5.8 Loss of Control of Blood Glucose
 
 When a patient stabilized on any diabetic regimen is exposed to stress such as fever, trauma, infection, or surgery, a temporary loss of glycemic control may occur.
 At such times, it may be necessary to withhold JANUMET XR and temporarily administer insulin.
 JANUMET XR may be reinstituted after the acute episode is resolved.
 
-## 5.8 Hypersensitivity Reactions
+## 5.9 Hypersensitivity Reactions
 
 There have been postmarketing reports of serious hypersensitivity reactions in patients treated with sitagliptin, one of the components of JANUMET XR.
 These reactions include anaphylaxis, angioedema, and exfoliative skin conditions including Stevens-Johnson syndrome.
@@ -131,9 +140,9 @@ Onset of these reactions occurred within the first 3 months after initiation of 
 If a hypersensitivity reaction is suspected, discontinue JANUMET XR, assess for other potential causes for the event, and institute alternative treatment for diabetes.
 [See Adverse Reactions (6.2).]
 
-Use caution in a patient with a history of angioedema to another dipeptidyl peptidase-4 (DPP4) inhibitor because it is unknown whether such patients will be predisposed to angioedema with JANUMET XR.
+Use caution in a patient with a history of angioedema to another DPP-4 inhibitor because it is unknown whether such patients will be predisposed to angioedema with JANUMET XR.
 
-## 5.9 Severe and Disabling Arthralgia
+## 5.10 Severe and Disabling Arthralgia
 
 There have been postmarketing reports of severe and disabling arthralgia in patients taking DPP-4 inhibitors.
 The time to onset of symptoms following initiation of drug therapy varied from one day to years.
@@ -141,13 +150,13 @@ Patients experienced relief of symptoms upon discontinuation of the medication.
 A subset of patients experienced a recurrence of symptoms when restarting the same drug or a different DPP-4 inhibitor.
 Consider DPP-4 inhibitors as a possible cause for severe joint pain and discontinue drug if appropriate.
 
-## 5.10 Bullous Pemphigoid
+## 5.11 Bullous Pemphigoid
 
 Postmarketing cases of bullous pemphigoid requiring hospitalization have been reported with DPP-4 inhibitor use.
 In reported cases, patients typically recovered with topical or systemic immunosuppressive treatment and discontinuation of the DPP-4 inhibitor.
 Tell patients to report development of blisters or erosions while receiving JANUMET XR.
 If bullous pemphigoid is suspected, JANUMET XR should be discontinued and referral to a dermatologist should be considered for diagnosis and appropriate treatment.
 
-## 5.11 Macrovascular Outcomes
+## 5.12 Macrovascular Outcomes
 
 There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with JANUMET XR or any other anti-diabetic drug.

@@ -24,6 +24,10 @@ Patients should be informed that acute pancreatitis has been reported during pos
 Patients should be informed that persistent severe abdominal pain, sometimes radiating to the back, which may or may not be accompanied by vomiting, is the hallmark symptom of acute pancreatitis.
 Patients should be instructed to promptly discontinue JANUMET XR and contact their physician if persistent severe abdominal pain occurs [see Warnings and Precautions (5.2)].
 
+Patients should be informed of the signs and symptoms of heart failure.
+Before initiating JANUMET XR, patients should be asked about a history of heart failure or other risk factors for heart failure including moderate to severe renal impairment.
+Patients should be instructed to contact their health care provider as soon as possible if they experience symptoms of heart failure, including increasing shortness of breath, rapid increase in weight or swelling of the feet [see Warnings and Precautions (5.3)].
+
 Patients should be informed that the incidence of hypoglycemia is increased when sitagliptin with or without metformin is added to an insulin secretagogue (e.g., sulfonylurea) or insulin therapy and that a lower dose of the insulin secretagogue or insulin may be required to reduce the risk of hypoglycemia.
 
 Patients should be informed that allergic reactions have been reported during postmarketing use of sitagliptin, one of the components of JANUMET XR.
@@ -31,10 +35,10 @@ If symptoms of allergic reactions (including rash, hives, and swelling of the fa
 
 Inform patients that severe and disabling joint pain may occur with this class of drugs.
 The time to onset of symptoms can range from one day to years.
-Instruct patients to seek medical advice if severe joint pain occurs [see Warnings and Precautions (5.9)].
+Instruct patients to seek medical advice if severe joint pain occurs [see Warnings and Precautions (5.10)].
 
 Inform patients that bullous pemphigoid may occur with this class of drugs.
-Instruct patients to seek medical advice if blisters or erosions occur [see Warnings and Precautions (5.10)].
+Instruct patients to seek medical advice if blisters or erosions occur [see Warnings and Precautions (5.11)].
 
 Patients should be informed that the tablets must be swallowed whole and never split, crushed or chewed.
 
@@ -52,11 +56,3 @@ A1C is especially useful for evaluating long-term glycemic control.
 
 Initial and periodic monitoring of hematologic parameters (e.g., hemoglobin/hematocrit and red blood cell indices) and renal function (serum creatinine) should be performed, at least on an annual basis.
 While megaloblastic anemia has rarely been seen with metformin therapy, if this is suspected, Vitamin B12 deficiency should be excluded.
-
-Distributed by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
-
-For patent information: www.merck.com/product/patent/home.html
-
-Copyright © 2012-2017 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
-
-uspi-mk0431a-xrt-1701r009

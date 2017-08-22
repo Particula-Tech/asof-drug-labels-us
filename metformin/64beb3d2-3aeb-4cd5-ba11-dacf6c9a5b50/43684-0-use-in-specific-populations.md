@@ -51,7 +51,7 @@ Safety and effectiveness of JANUMET XR in pediatric patients under 18 years have
 JANUMET XR
 
 Because sitagliptin and metformin are substantially excreted by the kidney, and because aging can be associated with reduced renal function, renal function should be assessed more frequently in elderly patients.
-[See Warnings and Precautions (5.1, 5.3); Clinical Pharmacology (12.3).]
+[See Warnings and Precautions (5.1, 5.4); Clinical Pharmacology (12.3).]
 
 Sitagliptin
 
@@ -64,7 +64,7 @@ Metformin hydrochloride
 Controlled clinical studies of metformin did not include sufficient numbers of elderly patients to determine whether they respond differently from younger patients, although other reported clinical experience has not identified differences in responses between the elderly and young patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy and the higher risk of lactic acidosis.
 Assess renal function more frequently in elderly patients.
-[See Contraindications (4); Warnings and Precautions (5.3); Clinical Pharmacology (12.3).]
+[See Contraindications (4); Warnings and Precautions (5.4); Clinical Pharmacology (12.3).]
 
 ## 8.6 Renal Impairment
 
