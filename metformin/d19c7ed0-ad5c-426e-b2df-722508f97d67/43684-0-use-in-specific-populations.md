@@ -52,7 +52,7 @@ Safety and effectiveness of JANUMET in pediatric patients under 18 years have no
 JANUMET
 
 Because sitagliptin and metformin are substantially excreted by the kidney, and because aging can be associated with reduced renal function, renal function should be assessed more frequently in elderly patients.
-[See Warnings and Precautions (5.1, 5.3); Clinical Pharmacology (12.3).]
+[See Warnings and Precautions (5.1, 5.4); Clinical Pharmacology (12.3).]
 
 Sitagliptin
 

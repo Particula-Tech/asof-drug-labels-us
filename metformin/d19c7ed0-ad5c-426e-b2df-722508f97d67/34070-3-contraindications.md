@@ -7,4 +7,4 @@ JANUMET (sitagliptin and metformin HCl) is contraindicated in patients with:
 - Acute or chronic metabolic acidosis, including diabetic ketoacidosis.
   Diabetic ketoacidosis should be treated with insulin.
 - History of a serious hypersensitivity reaction to JANUMET or sitagliptin (one of the components of JANUMET), such as anaphylaxis or angioedema.
-  [See Warnings and Precautions (5.8); Adverse Reactions (6.2).]
+  [See Warnings and Precautions (5.9); Adverse Reactions (6.2).]

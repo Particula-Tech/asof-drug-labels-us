@@ -19,7 +19,7 @@ Warn patients against excessive alcohol intake while receiving JANUMET.
 ## 7.4 Insulin Secretagogues or Insulin
 
 Coadministration of JANUMET with an insulin secretagogue (e.g., sulfonylurea) or insulin may require lower doses of the insulin secretagogue or insulin to reduce the risk of hypoglycemia.
-[See Warnings and Precautions (5.6).]
+[See Warnings and Precautions (5.7).]
 
 ## 7.5 Use of Metformin with Other Drugs
 
