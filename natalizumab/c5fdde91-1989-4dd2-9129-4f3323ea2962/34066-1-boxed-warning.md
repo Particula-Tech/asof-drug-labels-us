@@ -7,4 +7,4 @@ These factors should be considered in the context of expected benefit when initi
 - Healthcare professionals should monitor patients on TYSABRI for any new sign or symptom that may be suggestive of PML.
   TYSABRI dosing should be withheld immediately at the first sign or symptom suggestive of PML.
   For diagnosis, an evaluation that includes a gadolinium-enhanced magnetic resonance imaging (MRI) scan of the brain and, when indicated, cerebrospinal fluid analysis for JC viral DNA are recommended [see Contraindications (4), Warnings and Precautions (5.1)].
-- Because of the risk of PML, TYSABRI is available only through a restricted program under a Risk Evaluation and Mitigation Strategy (REMS) called the TOUCH Prescribing Program [see Warnings and Precautions (5.2)].
+- Because of the risk of PML, TYSABRI is available only through a restricted program under a Risk Evaluation and Mitigation Strategy (REMS) called the TOUCH® Prescribing Program [see Warnings and Precautions (5.2)].

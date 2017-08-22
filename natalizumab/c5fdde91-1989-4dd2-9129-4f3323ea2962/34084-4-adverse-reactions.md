@@ -3,7 +3,9 @@
 The following serious adverse reactions are described below and elsewhere in the labeling:
 
 - Progressive Multifocal Leukoencephalopathy (PML) [see Warnings and Precautions (5.1)]
-- Hypersensitivity [see Warnings and Precautions (5.5)]
+- Herpes Infections [see Warnings and Precautions (5.3)]
+- Hepatotoxicity [see Warnings and Precautions (5.4)]
+- Hypersensitivity/Antibody Formation [see Warnings and Precautions (5.5)]
 - Immunosuppression/Infections [see Warnings and Precautions (5.6)]
 
 ## 6.1. Clinical Trials Experience
@@ -35,8 +37,8 @@ Table 2: Adverse Reactions in Study MS1 (Monotherapy Study)
 | Fatigue | 27 | 21 |
 | Arthralgia | 19 | 14 |
 | Chest discomfort | 5 | 3 |
-| Acute hypersensitivity reactions** | 4 | <1 |
 | Other hypersensitivity reactions** | 5 | 2 |
+| Acute hypersensitivity reactions** | 4 | <1 |
 | Seasonal allergy | 3 | 2 |
 | Rigors | 3 | <1 |
 | Weight increased | 2 | <1 |
@@ -56,8 +58,8 @@ Table 2: Adverse Reactions in Study MS1 (Monotherapy Study)
 | Gastrointestinal Abdominal discomfort Diarrhea NOS Abnormal liver function test | 11 10 5 | 10 9 4 |
 | Skin Rash Dermatitis Pruritus Night sweats | 12 7 4 1 | 9 4 2 0 |
 | Menstrual Disorders* Irregular menstruation Dysmenorrhea Amenorrhea Ovarian cyst | 5 3 2 2 | 4 <1 1 <1 |
-| Neurologic Disorders Somnolence Vertigo | 2 6 | <1 5 |
-| Renal and Urinary Disorders Urinary incontinence Urinary urgency/frequency | 4 9 | 3 7 |
+| Neurologic Disorders Vertigo Somnolence | 6 2 | 5 <1 |
+| Renal and Urinary Disorders Urinary urgency/frequency Urinary incontinence | 9 4 | 7 3 |
 | Injury Limb injury NOS Skin laceration Thermal burn | 3 2 1 | 2 <1 <1 |
 | *Percentage based on female patients only. |  |  |
 | ** Acute versus other hypersensitivity reactions are defined as occurring within 2 hours post-infusion versus more than 2 hours. |  |  |
@@ -88,8 +90,8 @@ Table 4: Adverse Reactions in Study CD3 (Maintenance Study)
 
 | Adverse Reactions* | TYSABRI n=214 % | Placebo n=214 % |
 | --- | --- | --- |
-| General Headache Influenza-like illness Toothache Peripheral edema | 37 11 4 6 | 31 6 <1 3 |
-| Infection Influenza Sinusitis Viral infection Vaginal infections** | 12 8 7 8 | 5 4 3 <1 |
+| General Headache Influenza-like illness Peripheral edema Toothache | 37 11 6 4 | 31 6 3 <1 |
+| Infection Influenza Sinusitis Viral infection Vaginal infections** | 12 8 8 7 | 5 4 <1 3 |
 | Respiratory Cough | 7 | 5 |
 | Gastrointestinal Lower abdominal pain | 4 | 2 |
 | Musculoskeletal and Connective Tissue Back pain | 12 | 8 |
@@ -167,3 +169,10 @@ The long-term immunogenicity of TYSABRI and the effects of low to moderate level
 Immunogenicity data are highly dependent on the sensitivity and specificity of the assay.
 Additionally, the observed incidence of antibody-positivity in an assay may be influenced by several factors, including sample handling, timing of sample collection, concomitant medications, and underlying disease.
 For these reasons, comparison of the incidence of antibodies to TYSABRI with the incidence of antibodies to other products may be misleading.
+
+## 6.3. Postmarketing Experience
+
+The following adverse reactions have been identified during post approval use of TYSABRI.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Blood disorders: hemolytic anemia

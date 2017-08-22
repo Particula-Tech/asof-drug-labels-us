@@ -22,24 +22,23 @@ Instruct the patient that the progression of deficits usually leads to death or 
 
 Instruct patients to continue to look for new signs and symptoms suggestive of PML for approximately 6 months following discontinuation of TYSABRI [see Warnings and Precautions (5.1)].
 
-TYSABRI TOUCH Prescribing Program
+TYSABRI TOUCH® Prescribing Program
 
-Advise the patient that TYSABRI is only available through a restricted program called the TOUCH Prescribing Program.
+Advise the patient that TYSABRI is only available through a restricted program called the TOUCH® Prescribing Program.
 Inform the patient of the following requirements:
 
 Patients must read the Medication Guide and sign the Patient Prescriber Enrollment Form.
 Advise patients that TYSABRI is available only from certified pharmacies and infusion centers participating in the program [see Warnings and Precautions (5.2)].
 
-Herpes Encephalitis/Meningitis
+Herpes Infections
 
-Inform patients that TYSABRI increases the risk of developing encephalitis and meningitis caused by herpes simplex and varicella zoster viruses.
-Instruct patients to report immediately if they experience symptoms such as fever, headache and confusion [see Warnings and Precautions (5.3)].
+Inform patients that TYSABRI increases the risk of developing encephalitis and meningitis, which could be fatal, and acute retinal necrosis, which could lead to blindness, caused by the family of herpes viruses (e.g., herpes simplex and varicella zoster viruses).
+Instruct patients to immediately report any possible symptoms of encephalitis and meningitis (such as fever, headache, and confusion) or acute retinal necrosis (such as decreased visual acuity, eye redness, or eye pain) [see Warnings and Precautions (5.3)].
 
 Hepatotoxicity
 
 Inform patients that TYSABRI may cause liver injury.
-Instruct patients treated with TYSABRI to report promptly any symptoms that may indicate liver injury, including fatigue, anorexia, right upper abdominal discomfort, dark urine, or jaundice.
-[see Warnings and Precautions (5.4)].
+Instruct patients treated with TYSABRI to report promptly any symptoms that may indicate liver injury, including fatigue, anorexia, right upper abdominal discomfort, dark urine, or jaundice [see Warnings and Precautions (5.4)].
 
 Hypersensitivity Reactions
 
@@ -50,9 +49,9 @@ Immunosuppression/Infections
 Inform patients that TYSABRI may lower the ability of their immune system to fight infections.
 Instruct the patient of the importance of contacting their doctor if they develop any symptoms of infection [see Warnings and Precautions (5.6)].
 
-I61061-23
+I61061-24
 
 TYSABRI (natalizumab) Manufactured by: Biogen Inc. Cambridge, MA 02142 USA 1-800-456-2255
 
-© 2015 Biogen Inc. All rights reserved.
+© 2015-2017 Biogen Inc. All rights reserved.
 U.S. Patent Numbers: 5,840,299; 6,602,503

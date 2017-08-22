@@ -29,7 +29,7 @@ Table 1: Estimated United States Incidence of PML Stratified by Risk Factor
 Ordinarily, patients receiving chronic immunosuppressant or immunomodulatory therapy or who have systemic medical conditions resulting in significantly compromised immune system function should not be treated with TYSABRI.
 Infection by the JC virus is required for the development of PML.
 Anti-JCV antibody testing should not be used to diagnose PML.
-Anti-JCV antibody negative status indicates that exposure to the JC virus has not been detected.
+Anti-JCV antibody negative status indicates that antibodies to the JC virus have not been detected.
 Patients who are anti-JCV antibody negative have a lower risk of PML than those who are positive.
 Patients who are anti-JCV antibody negative are still at risk for the development of PML due to the potential for a new JCV infection or a false negative test result.
 The reported rate of seroconversion in patients with MS (changing from anti-JCV antibody negative to positive and remaining positive in subsequent testing) is 3 to 8 percent annually.
@@ -37,7 +37,8 @@ In addition, some patients' serostatus may change intermittently.
 Therefore, patients with a negative anti-JCV antibody test result should be retested periodically.
 For purposes of risk assessment, a patient with a positive anti-JCV antibody test at any time is considered anti-JCV antibody positive regardless of the results of any prior or subsequent anti-JCV antibody testing.
 When assessed, anti-JCV antibody status should be determined using an analytically and clinically validated immunoassay.
-Anti-JCV antibody testing should not be performed for at least two weeks following plasma exchange due to the removal of antibodies from the serum.
+After plasma exchange, wait at least two weeks to test for anti-JCV antibodies to avoid false negative test results caused by the removal of serum antibodies.
+After infusion of intravenous immunoglobulin (IVIg), wait at least 6 months (5 half-lives) for the IVIg to clear in order to avoid false positive anti-JCV antibody test results.
 
 Healthcare professionals should monitor patients on TYSABRI for any new sign or symptom suggestive of PML.
 Symptoms associated with PML are diverse, progress over days to weeks, and include progressive weakness on one side of the body or clumsiness of limbs, disturbance of vision, and changes in thinking, memory, and orientation leading to confusion and personality changes.
@@ -48,6 +49,7 @@ MRI findings may be apparent before clinical signs or symptoms.
 Cases of PML, diagnosed based on MRI findings and the detection of JCV DNA in the cerebrospinal fluid in the absence of clinical signs or symptoms specific to PML, have been reported.
 Many of these patients subsequently became symptomatic.
 Periodic monitoring for radiographic signs consistent with PML should be considered to allow for an early diagnosis of PML.
+Consider monitoring patients at high risk for PML more frequently.
 Lower PML-related mortality and morbidity have been reported following TYSABRI discontinuation in patients with PML who were initially asymptomatic compared to patients with PML who had characteristic clinical signs and symptoms at diagnosis.
 It is not known whether these differences are due to early detection and discontinuation of TYSABRI or due to differences in disease in these patients.
 
@@ -69,7 +71,12 @@ There are no known interventions that can adequately treat PML if it occurs.
 Three sessions of plasma exchange over 5 to 8 days were shown to accelerate TYSABRI clearance in a study of 12 patients with MS who did not have PML, although in the majority of patients, alpha-4 integrin receptor binding remained high.
 Adverse events which may occur during plasma exchange include clearance of other medications and volume shifts, which have the potential to lead to hypotension or pulmonary edema.
 Although plasma exchange has not been studied in TYSABRI treated patients with PML, it has been used in such patients in the postmarketing setting to remove TYSABRI more quickly from the circulation.
-Anti-JCV antibody testing should not be performed during or for at least two weeks following plasma exchange because of the removal of antibodies from the serum.
+
+JC virus infection of granule cell neurons in the cerebellum (i.e., JC virus granule cell neuronopathy [JCV GCN]) has been reported in patients treated with TYSABRI.
+JCV GCN can occur with or without concomitant PML.
+JCV GCN can cause cerebellar dysfunction (e.g., ataxia, incoordination, apraxia, visual disorders), and neuroimaging can show cerebellar atrophy.
+For diagnosis of JCV GCN, an evaluation that includes a gadolinium-enhanced MRI scan of the brain and, when indicated, cerebrospinal fluid analysis for JC viral DNA, is recommended.
+JCV GCN should be managed similarly to PML.
 
 Immune reconstitution inflammatory syndrome (IRIS) has been reported in the majority of TYSABRI treated patients who developed PML and subsequently discontinued TYSABRI.
 In almost all cases, IRIS occurred after plasma exchange was used to eliminate circulating TYSABRI.
@@ -78,7 +85,7 @@ TYSABRI has not been associated with IRIS in patients discontinuing treatment wi
 In TYSABRI treated patients with PML, IRIS has been reported within days to several weeks after plasma exchange.
 Monitoring for development of IRIS and appropriate treatment of the associated inflammation should be undertaken.
 
-## 5.2. TYSABRI TOUCH Prescribing Program
+## 5.2. TYSABRI TOUCH® Prescribing Program
 
 TYSABRI is available only through a restricted program under a REMS called the TOUCH® Prescribing Program because of the risk of PML [see Warnings and Precautions (5.1)].
 
@@ -87,7 +94,7 @@ For prescribers and patients, the TOUCH® Prescribing Program has two components
 Selected requirements of the TOUCH® Prescribing Program include the following:
 
 - Prescribers must be certified and comply with the following:
-  - – Review the TOUCH Prescribing Program prescriber educational materials, including the full prescribing information.
+  - – Review the TOUCH® Prescribing Program prescriber educational materials, including the full prescribing information.
   - – Educate patients on the benefits and risks of treatment with TYSABRI, ensure that patients receive the Medication Guide, and encourage them to ask questions.
   - – Review, complete, and sign the Patient-Prescriber Enrollment Form.
   - – Evaluate patients three months after the first infusion, six months after the first infusion, every six months thereafter, and for at least six months after discontinuing TYSABRI.
@@ -95,10 +102,12 @@ Selected requirements of the TOUCH® Prescribing Program include the following:
   - – Submit to Biogen the “TYSABRI Patient Status Report and Reauthorization Questionnaire” six months after initiating treatment and every six months thereafter.
   - – Complete an “Initial Discontinuation Questionnaire” when TYSABRI is discontinued, and a “6-Month Discontinuation Questionnaire” following discontinuation of TYSABRI.
   - – Report cases of PML, hospitalizations due to opportunistic infections, and deaths to Biogen at 1-800-456-2255 as soon as possible.
-- Patients must be enrolled in the TOUCH Prescribing Program, read the Medication Guide, understand the risks associated with TYSABRI, and complete and sign the Patient-Prescriber Enrollment Form.
+- Patients must be enrolled in the TOUCH® Prescribing Program, read the Medication Guide, understand the risks associated with TYSABRI, and complete and sign the Patient-Prescriber Enrollment Form.
 - Pharmacies and infusion centers must be specially certified to dispense or infuse TYSABRI.
 
-## 5.3. Herpes Encephalitis and Meningitis
+## 5.3. Herpes Infections
+
+Herpes Encephalitis and Meningitis
 
 TYSABRI increases the risk of developing encephalitis and meningitis caused by herpes simplex and varicella zoster viruses.
 Serious, life-threatening, and sometimes fatal cases have been reported in the postmarketing setting in multiple sclerosis patients receiving TYSABRI.
@@ -106,6 +115,16 @@ Laboratory confirmation in those cases was based on positive PCR for viral DNA i
 The duration of treatment with TYSABRI prior to onset ranged from a few months to several years.
 Monitor patients receiving TYSABRI for signs and symptoms of meningitis and encephalitis.
 If herpes encephalitis or meningitis occurs, TYSABRI should be discontinued, and appropriate treatment for herpes encephalitis/meningitis should be administered.
+
+Acute Retinal Necrosis
+
+Acute retinal necrosis (ARN) is a fulminant viral infection of the retina caused by the family of herpes viruses (e.g., varicella zoster, herpes simplex virus).
+A higher risk of ARN has been observed in patients being administered TYSABRI.
+Patients presenting with eye symptoms, including decreased visual acuity, redness, or eye pain, should be referred for retinal screening for ARN.
+Some ARN cases occurred in patients with central nervous system (CNS) herpes infections (e.g., herpes meningitis or encephalitis).
+Serious cases of ARN led to blindness of one or both eyes in some patients.
+Following clinical diagnosis of ARN, consider discontinuation of TYSABRI.
+The treatment reported in ARN cases included anti-viral therapy and, in some cases, surgery.
 
 ## 5.4. Hepatotoxicity
 
