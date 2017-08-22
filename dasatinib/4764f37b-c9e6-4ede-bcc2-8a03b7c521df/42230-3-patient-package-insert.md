@@ -20,4 +20,4 @@
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-XXXXXXXXX Revised: October 2015
+1360013A1 Revised: October 2015
