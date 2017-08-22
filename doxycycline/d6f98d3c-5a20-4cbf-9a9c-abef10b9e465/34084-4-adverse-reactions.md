@@ -6,6 +6,9 @@ The following adverse reactions have been observed in patients receiving tetracy
 Gastrointestinal: anorexia, nausea, vomiting, diarrhea, glossitis, dysphagia, enterocolitis, inflammatory lesions (with monilial overgrowth) in the anogenital region, and pancreatitis.
 Hepatotoxicity has been reported rarely.
 These reactions have been caused by both the oral and parenteral administration of tetracyclines.
+Superficial discoloration of the adult permanent dentition, reversible upon drug discontinuation and professional dental cleaning has been reported.
+Permanent tooth discoloration and enamel hypoplasia may occur with drugs of the tetracycline class when used during tooth development.
+(See WARNINGS.)
 Rare instances of esophagitis and esophageal ulcerations have been reported in patients receiving capsule and tablet forms of the drugs in the tetracycline class.
 Most of these patients took medications immediately before going to bed.
 (See DOSAGE AND ADMINISTRATION.)
@@ -18,7 +21,7 @@ Photosensitivity is discussed above.
 Renal toxicity: Rise in BUN has been reported and is apparently dose related.
 (See WARNINGS.)
 
-Immune: Hypersensitivity reactions including urticaria, angioneurotic edema, anaphylaxis, anaphylactoid purpura, serum sickness, pericarditis, exacerbation of systemic lupus erythematosus, and drug rash with eosinophilia and systemic symptoms (DRESS).
+Immune: Hypersensitivity reactions including urticaria, angioneurotic edema, anaphylaxis, anaphylactoid purpura, serum sickness, pericarditis, exacerbation of systemic lupus erythematosus, and drug reaction with eosinophilia and systemic symptoms (DRESS).
 
 Blood: Hemolytic anemia, thrombocytopenia, neutropenia, and eosinophilia have been reported.
 

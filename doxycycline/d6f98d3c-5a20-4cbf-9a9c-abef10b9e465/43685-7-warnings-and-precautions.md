@@ -15,6 +15,10 @@ Careful medical history is necessary since CDAD has been reported to occur over 
 If CDAD is suspected or confirmed, ongoing use of antibacterial drugs not directed against C. difficile may need to be discontinued.
 Appropriate fluid and electrolyte management, protein supplementation, antibacterial treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
+Severe skin reactions, such as exfoliative dermatitis, erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, and drug reaction with eosinophilia and systemic symptoms (DRESS) have been reported in patients receiving doxycycline.
+(See ADVERSE REACTIONS.)
+If severe skin reactions occur, doxycycline should be discontinued immediately and appropriate therapy should be instituted.
+
 Intracranial hypertension (IH, pseudotumor cerebri) has been associated with the use of tetracyclines including Vibramycin.
 Clinical manifestations of IH include headache, blurred vision, diplopia, and vision loss; papilledema can be found on fundoscopy.
 Women of childbearing age who are overweight or have a history of IH are at greater risk for developing tetracycline associated IH.
