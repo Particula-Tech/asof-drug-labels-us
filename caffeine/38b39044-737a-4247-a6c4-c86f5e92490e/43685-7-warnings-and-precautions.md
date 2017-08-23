@@ -1,4 +1,4 @@
-# WARNINGS
+# WARNINGS:
 
 During the double-blind, placebo-controlled clinical trial, six cases of necrotizing enterocolitis developed among the 85 infants studied (caffeine=46, placebo=39), with three cases resulting in death.
 Five of the six patients with necrotizing enterocolitis were randomized to or had been exposed to caffeine citrate.
@@ -6,7 +6,7 @@ Five of the six patients with necrotizing enterocolitis were randomized to or ha
 Reports in the published literature have raised a question regarding the possible association between the use of methylxanthines and development of necrotizing enterocolitis, although a causal relationship between methylxanthine use and necrotizing enterocolitis has not been established.
 Therefore, as with all preterm infants, patients being treated with caffeine citrate should be carefully monitored for the development of necrotizing enterocolitis.
 
-# PRECAUTIONS
+# PRECAUTIONS:
 
 ## General
 
@@ -70,7 +70,7 @@ In addition, caffeine was not clastogenic in an in vivo mouse micronucleus assay
 Caffeine (as caffeine base) administered to male rats at 50 mg/kg/day subcutaneously (approximately equal to the maximum recommended intravenous loading dose for infants on a mg/m2 basis) for 4 days prior to mating with untreated females, caused decreased male reproductive performance in addition to causing embryotoxicity.
 In addition, long-term exposure to high oral doses of caffeine (3 g over 7 weeks) was toxic to rat testes as manifested by spermatogenic cell degeneration.
 
-## Pregnancy
+## Pregnancy:
 
 Teratogenic Effects: Pregnancy Category C
 

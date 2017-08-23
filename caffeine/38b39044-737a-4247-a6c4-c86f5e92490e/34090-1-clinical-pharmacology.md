@@ -1,4 +1,4 @@
-# CLINICAL PHARMACOLOGY
+# CLINICAL PHARMACOLOGY:
 
 ## Mechanism of Action
 
@@ -48,7 +48,7 @@ Serum concentrations of caffeine should be monitored and dose administration of 
 
 ## Clinical Studies
 
-One multicenter, randomized, double-blind trial compared caffeine citrate to placebo in eighty-five (85) preterm infants (gestational age 28 to <33 weeks) with apnea of prematurity.
+One multicenter, randomized, double-blind trial compared caffeine citrate to placebo in eighty-five (85) preterm infants (gestational age 28 to < 33 weeks) with apnea of prematurity.
 Apnea of prematurity was defined as having at least 6 apnea episodes of greater than 20 seconds duration in a 24 hour period with no other identifiable cause of apnea.
 A 1 mL/kg (20 mg/kg caffeine citrate providing 10 mg/kg as caffeine base) loading dose of caffeine citrate was administered intravenously, followed by a 0.25 mL/kg (5 mg/kg caffeine citrate providing 2.5 mg/kg of caffeine base) daily maintenance dose administered either intravenously or orally (generally through a feeding tube).
 The duration of treatment in this study was limited to 10 to 12 days.
