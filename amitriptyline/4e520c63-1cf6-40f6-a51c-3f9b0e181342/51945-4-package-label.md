@@ -1,83 +1,11 @@
 # PRINCIPAL DISPLAY PANEL - 10 mg Tablet Bottle Label
 
-NDC 57664-687-88
-
-Amitriptyline Hydrochloride Tablets USP
-
-10 mg
-
-PHARMACIST: PLEASE DISPENSE WITH MEDICATION GUIDE
-
-Rx Only 100 Tablets
-
-SUN PHARMA
-
 # PRINCIPAL DISPLAY PANEL - 25 mg Tablet Bottle Label
-
-NDC 57664-688-88
-
-Amitriptyline Hydrochloride Tablets USP
-
-25 mg
-
-PHARMACIST: PLEASE DISPENSE WITH MEDICATION GUIDE
-
-Rx Only 100 Tablets
-
-SUN PHARMA
 
 # PRINCIPAL DISPLAY PANEL - 50 mg Tablet Bottle Label
 
-NDC 57664-689-88
-
-Amitriptyline Hydrochloride Tablets USP
-
-50 mg
-
-PHARMACIST: PLEASE DISPENSE WITH MEDICATION GUIDE
-
-Rx Only 100 Tablets
-
-SUN PHARMA
-
 # PRINCIPAL DISPLAY PANEL - 75 mg Tablet Bottle Label
-
-NDC 57664-692-88
-
-Amitriptyline Hydrochloride Tablets USP
-
-75 mg
-
-PHARMACIST: PLEASE DISPENSE WITH MEDICATION GUIDE
-
-Rx Only 100 Tablets
-
-SUN PHARMA
 
 # PRINCIPAL DISPLAY PANEL - 100 mg Tablet Bottle Label
 
-NDC 57664-690-88
-
-Amitriptyline Hydrochloride Tablets USP
-
-100 mg
-
-PHARMACIST: PLEASE DISPENSE WITH MEDICATION GUIDE
-
-Rx Only 100 Tablets
-
-SUN PHARMA
-
 # PRINCIPAL DISPLAY PANEL - 150 mg Tablet Bottle Label
-
-NDC 57664-691-88
-
-Amitriptyline Hydrochloride Tablets USP
-
-150 mg
-
-PHARMACIST: PLEASE DISPENSE WITH MEDICATION GUIDE
-
-Rx Only 100 Tablets
-
-SUN PHARMA

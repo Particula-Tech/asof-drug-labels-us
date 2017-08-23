@@ -142,6 +142,10 @@ While on therapy with amitriptyline hydrochloride, patients should be advised as
 
 ## Drug Interactions
 
+Topiramate
+
+Some patients may experience a large increase in amitriptyline concentration in the presence of topiramate and any adjustments in amitriptyline dose should be made according to the patient's clinical response and not on the basis of plasma levels.
+
 Drugs Metabolized by P450 2D6
 
 The biochemical activity of the drug metabolizing isozyme cytochrome P450 2D6 (debrisoquin hydroxylase) is reduced in a subset of the caucasian population (about 7 to 10% of Caucasians are so called "poor metabolizers"), reliable estimates of the prevalence of reduced P450 2D6 isozyme activity among Asian, African and other populations are not yet available.

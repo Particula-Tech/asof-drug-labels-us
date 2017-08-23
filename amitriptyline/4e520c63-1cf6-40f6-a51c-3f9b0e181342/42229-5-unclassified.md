@@ -9,8 +9,6 @@ Amitriptyline is metabolized by N-demethylation and bridge hydroxylation in man,
 Virtually the entire dose is excreted as glucuronide or sulfate conjugate of metabolites, with little unchanged drug appearing in the urine.
 Other metabolic pathways may be involved.
 
-Manufactured by: Mutual Pharmaceutical Company, Inc. Philadelphia, PA 19124
-
 Distributed by: Sun Pharmaceutical Industries, Inc. Cranbury, NJ 08512
 
-Rev 01, April 2015
+Rev 03, August 2016
