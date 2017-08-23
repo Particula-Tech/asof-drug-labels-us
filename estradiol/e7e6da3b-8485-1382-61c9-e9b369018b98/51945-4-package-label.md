@@ -26,7 +26,7 @@ Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Mylan.com
 
-M3349-99-4C:R6
+M3349:99:4C:R7
 
 # PRINCIPAL DISPLAY PANEL - 0.0375 mg/day
 
@@ -56,7 +56,7 @@ Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Mylan.com
 
-M3360-99-4C:R5
+M3360:99:4C:R6
 
 # PRINCIPAL DISPLAY PANEL - 0.05 mg/day
 
@@ -86,7 +86,7 @@ Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Mylan.com
 
-M3350-99-4C:R7
+M3350:99:4C:R8
 
 # PRINCIPAL DISPLAY PANEL - 0.06 mg/day
 
@@ -116,7 +116,7 @@ Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Mylan.com
 
-M3361-99-4C:R4
+M3361:99:4C:R5
 
 # PRINCIPAL DISPLAY PANEL - 0.075 mg/day
 
@@ -146,7 +146,7 @@ Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Mylan.com
 
-M3351-99-4C:R6
+M3351:99:4C:R7
 
 # PRINCIPAL DISPLAY PANEL - 0.1 mg/day
 
@@ -176,4 +176,4 @@ Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Mylan.com
 
-M3352-99-4C:R7
+M3352:99:4C:R8
