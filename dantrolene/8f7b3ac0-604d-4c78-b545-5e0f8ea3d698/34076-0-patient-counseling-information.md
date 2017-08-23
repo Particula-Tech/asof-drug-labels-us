@@ -4,7 +4,7 @@ Inform patients, their families, or their caregivers of the following:
 
 Muscle Weakness
 
-Muscle weakness (i.e. decrease in grip strength and weakness of leg muscles, especially walking down stairs) is likely to occur with the use of RYANODEX.
+Muscle weakness (i.e., decrease in grip strength and weakness of leg muscles, especially walking down stairs) is likely to occur with the use of RYANODEX.
 Patients should be provided assistance with standing and walking until their strength has returned to normal [see Warnings and Precautions (5.1)].
 
 Difficulty Swallowing

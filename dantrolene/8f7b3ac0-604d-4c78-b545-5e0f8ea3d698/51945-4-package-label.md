@@ -1,14 +1,10 @@
-Principal Display Panel - Carton Label
+# PRINCIPAL DISPLAY PANEL - NDC: 42367-540-32 - Carton Label
 
-NDC 42367-540-32 Single Use Only -
+NDC 42367-540-32 Sterile
 
-Sterile Discard Unused Portion
+Single Use Only - Discard Unused Portion Rx only
 
-Rx only
-
-Ryanodex®
-
-(dantrolene sodium) for injectable suspension
+Ryanodex® (dantrolene sodium) for injectable suspension
 
 250 mg per vial
 
@@ -22,17 +18,13 @@ Reconstitute with Sterile Water for Injection, USP
 
 SEE PACKAGE INSERT FOR COMPLETE PREPARATION INSTRUCTIONS AND PRESCRIBING INFORMATION.
 
-Principal Display Panel - Vial Label
+# PRINCIPAL DISPLAY PANEL - NDC: 42367-540-32 - Vial Label
 
-NDC 42367-540-32 Single Use Only -
+NDC 42367-540-32 Sterile
 
-Sterile Discard Unused Portion
+Single Use Only - Discard Unused Portion Rx only
 
-Rx only
-
-Ryanodex®
-
-(dantrolene sodium) for injectable suspension
+Ryanodex® (dantrolene sodium) for injectable suspension
 
 250 mg per vial
 

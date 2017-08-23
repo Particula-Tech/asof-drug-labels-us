@@ -29,11 +29,11 @@ The recommended weight-based dose of RYANODEX for pediatric patients in the trea
 
 The supplied lyophilized powder must be reconstituted prior to administration:
 
-1. Reconstitute each vial of RYANODEX lyophilized powder by adding 5 mL of sterile water for injection (without a bacteriostatic agent).
+1. (a) Reconstitute each vial of RYANODEX lyophilized powder by adding 5 mL of sterile water for injection (without a bacteriostatic agent).
    Do not reconstitute with any other solution (e.g., 5% dextrose injection, 0.9% sodium chloride injection).
-2. Shake the vial to ensure an orange-colored uniform suspension.
+2. (b) Shake the vial to ensure an orange-colored uniform suspension.
    Visually inspect the vial for particulate matter and discoloration prior to administration.
-3. Must use the contents of the vial within 6 hours after reconstitution.
+3. (c) Must use the contents of the vial within 6 hours after reconstitution.
    Store reconstituted suspensions at controlled room temperature (68°F to 77°F or 20°C to 25°C).
 
 Do not dilute or transfer the reconstituted RYANODEX suspension to another container to infuse the product.

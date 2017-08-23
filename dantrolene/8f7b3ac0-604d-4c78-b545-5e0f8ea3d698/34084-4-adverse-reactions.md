@@ -22,9 +22,9 @@ In the 2.5 mg/kg treatment group, the decline in hand grip strength both in amou
 
 Table 1: Adverse Events in Healthy Volunteers
 
-|  | Number(%) of subjects |  |
+|  | Number of subjects (%) |  |
 | --- | --- | --- |
-| RYANODEX [N=30] | Dantrolene Sodium Comparator [N=31] |  |
+| RYANODEX [N=30] n (%) | Dantrolene Sodium Comparator [N=31] n (%) |  |
 | Flushing | 8 (27) | 1 (3) |
 | Somnolence | 5 (17) | 4 (13) |
 | Dysphonia | 4 (13) | 1 (3) |
@@ -35,7 +35,7 @@ Table 1: Adverse Events in Healthy Volunteers
 | Vomiting | 1 (3) | 2 (6) |
 | Vision blurred | 1 (3) | 1 (3) |
 | Pain in extremity | 1 (3) | 1 (3) |
-| Muscular Weakness/Asthenia | 1 (3) | 1 (3) |
+| Muscular weakness/Asthenia | 1 (3) | 1 (3) |
 | Atrioventricular block | 1 (3) | 0 |
 | Tachycardia | 1 (3) | 0 |
 | Infusion site pain | 1 (3) | 0 |

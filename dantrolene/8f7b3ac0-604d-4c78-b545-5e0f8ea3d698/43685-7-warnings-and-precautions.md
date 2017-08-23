@@ -9,14 +9,14 @@ Patients should not be permitted to ambulate without assistance until they have 
 RYANODEX has been associated with dyspnea, respiratory muscle weakness, and decreased inspiratory capacity.
 Monitor patients for the adequacy of ventilation.
 
-RYANODEX has been associated with dysphasia.
+RYANODEX has been associated with dysphagia.
 Assess patients for difficulty swallowing and choking.
 
 ## 5.2 Somnolence and Dizziness
 
-Somnolence and dizziness can occur following administration of RYANODEX and may persist up to 48-hours post-dose.
+Somnolence and dizziness can occur following administration of RYANODEX and may persist up to 48 hours post-dose.
 Patients should not be permitted to ambulate without assistance until they have normal strength and balance.
-Patients must not operate an automobile or engage in other hazardous activities for 48-hours post-dose.
+Patients must not operate an automobile or engage in other hazardous activities for 48 hours post-dose.
 
 The concomitant use of sedative agents with RYANODEX may increase the risk of somnolence and dizziness.
 
