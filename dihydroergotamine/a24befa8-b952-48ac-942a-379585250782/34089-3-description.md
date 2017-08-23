@@ -6,7 +6,7 @@ Its molecular weight is 679.80 and its empirical formula is C33H37N5O5•CH4O3S.
 
 The chemical structure is:
 
-MigranaI® (dihydroergotamine mesylate, USP) Nasal Spray is provided for intranasal administration as a clear, colorless to faintly yellow solution in an amber glass vial containing:
+Migranal® (dihydroergotamine mesylate, USP) Nasal Spray is provided for intranasal administration as a clear, colorless to faintly yellow solution in an amber glass vial containing:
 
 | dihydroergotamine mesylate, USP | 4.0 mg |
 | --- | --- |

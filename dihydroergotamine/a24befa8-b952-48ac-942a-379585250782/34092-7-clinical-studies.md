@@ -24,7 +24,7 @@ Headache response was based on pain intensity as interpreted by the patient usin
 
 Table 2: Studies 3 and 4: Percentage of patients with headache responseHeadache response was defined as a reduction in headache severity to mild or no pain.
 Headache response was evaluated on a five-point scale that included both pain response and restoration of function for "severe" or "incapacitating" pain.
-2 and 4 hours following a single treatment of study medication [Migranal® (dihydroergotamine mesylate, USP) Nasal Spray or Placebo]
+2 and 4 hours following a single treatment of study medication [Migranal®(dihydroergotamine mesylate, USP) Nasal Spray or Placebo]
 
 |  |  | N | 2 hours | 4 hours |
 | --- | --- | --- | --- | --- |
@@ -38,11 +38,11 @@ Because studies are conducted at different times, with different samples of pati
 
 The Kaplan-Meier plots below (Figures 1 & 2) provides an estimate of the probability that a patient will have responded to a single 2 mg dose of Migranal® (dihydroergotamine mesylate, USP) Nasal Spray as a function of the time elapsed since initiation of treatment.
 
-* The figure shows the probability over time of obtaining a response following treatment with Migranal® (dihydroergotamine mesylate, USP) Nasal Spray.
+*The figure shows the probability over time of obtaining a response following treatment with Migranal® (dihydroergotamine mesylate, USP) Nasal Spray.
 Headache response was based on pain intensity as interpreted by the patient using a four-point pain intensity scale.
 Patients not achieving response within 4 hours were censored to 4 hours.
 
-* The figure shows the probability over time of obtaining a response following treatment with Migranal® (dihydroergotamine mesylate, USP) Nasal Spray.
+*The figure shows the probability over time of obtaining a response following treatment with Migranal® (dihydroergotamine mesylate, USP) Nasal Spray.
 Headache response was evaluated on a five-point scale that confounded pain response and restoration of function for "severe" or "incapacitating" pain.
 Patients not achieving response within 4 hours were censored to 4 hours.
 
@@ -50,7 +50,7 @@ For patients with migraine-associated nausea, photophobia, and phonophobia at ba
 
 Patients were not allowed to use additional treatments for eight hours prior to study medication dosing and during the four hour observation period following study treatment.
 Following the 4 hour observation period, patients were allowed to use additional treatments.
-For all studies, the estimated probability of patients using additionaul treatments for their migraines over the 24 hours following the single 2 mg dose of study treatment is summarized in Figure 3 below.
+For all studies, the estimated probability of patients using additional treatments for their migraines over the 24 hours following the single 2 mg dose of study treatment is summarized in Figure 3 below.
 
 * Kaplan-Meier plot based on data obtained from all studies with patients not using additional treatments censored to 24 hours.
 All patients received a single treatment of study medication for their migraine attack.
