@@ -65,7 +65,7 @@ Assess renal function more frequently in elderly patients [see Contraindications
 ## 8.6 Renal Impairment
 
 Metformin is substantially excreted by the kidney, and the risk of metformin accumulation and lactic acidosis increases with the degree of renal impairment.
-JENTADUETO is contraindicated in severe renal impairment, patients with an estimated glomerular filtration rate (eGFR) below 30 mL/min/1.73 m2 [See Dosage and Administration (2.2), Contraindications (4), Warnings and Precautions (5.1), and Clinical Pharmacology (12.3)].
+JENTADUETO is contraindicated in severe renal impairment, patients with an estimated glomerular filtration rate (eGFR) below 30 mL/min/1.73 m2 [see Dosage and Administration (2.2), Contraindications (4), Warnings and Precautions (5.1), and Clinical Pharmacology (12.3)].
 
 If JENTADUETO is discontinued due to evidence of renal impairment, linagliptin may be continued as a single entity tablet at the same total daily dose of 5 mg.
 No dose adjustment of linagliptin is recommended in patients with renal impairment.
@@ -73,4 +73,4 @@ No dose adjustment of linagliptin is recommended in patients with renal impairme
 ## 8.7 Hepatic Impairment
 
 Use of metformin in patients with hepatic impairment has been associated with some cases of lactic acidosis.
-JENTADUETO is not recommended in patients with hepatic impairment [See Warnings and Precautions (5.1)].
+JENTADUETO is not recommended in patients with hepatic impairment [see Warnings and Precautions (5.1)].
