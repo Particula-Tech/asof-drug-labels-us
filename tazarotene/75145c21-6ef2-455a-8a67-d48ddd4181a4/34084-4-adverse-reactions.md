@@ -11,8 +11,9 @@ In general, the incidence of adverse events with TAZORAC® Gel 0.05% was 2 to 5%
 Acne: The most frequent adverse events reported with TAZORAC® Gel 0.1% in the treatment of acne occurring in 10 to 30% of patients, in descending order, included desquamation, burning/stinging, dry skin, erythema and pruritus.
 Events occurring in 1 to 10% of patients included irritation, skin pain, fissuring, localized edema and skin discoloration.
 
-Postmarketing Experience
+## Postmarketing Experience
 
-The following adverse reactions have been identified during postmarketing use of TAZORAC® Gel 0.05% and 0.1% in clinical practice.
-Because they are reported voluntarily from a population of unknown size, it is not always possible to reliably estimate their frequency or establish a causal relationship to TAZORAC® Gel.
-The reactions include: blister, rash, skin discoloration (including skin hyperpigmentation or skin hypopigmentation), and pain.
+The following adverse reactions have been identified during postapproval use of tazarotene.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Skin and subcutaneous tissue disorders: blister, dermatitis, urticaria, skin exfoliation, skin discoloration (including skin hyperpigmentation or skin hypopigmentation), swelling at or near application sites, and pain.

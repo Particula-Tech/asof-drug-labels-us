@@ -10,12 +10,11 @@ It is available in a collapsible aluminum tube with a tamper-evident aluminum me
 
 Storage: Store at 25°C (77°F): excursions permitted to 15-30°C (59-86°F).
 
-Revised: 05/2014
+Revised: 07/2017
 
-© 2014 Allergan, Inc. Irvine, CA 92612, U.S.A. ® marks owned by Allergan, Inc. Made in the U.S.A.
+© 2017 Allergan.
+All rights reserved.
+All trademarks are the property of their respective owners.
+Irvine, CA 92612 Made in the U.S.A.
 
-71722US14
-
-Pharmacist: Please cut or tear at dotted line and provide this patient package insert to your customer.
-
---------------------------------------------------------------------------------------------------------------------------------------
+71722US15
