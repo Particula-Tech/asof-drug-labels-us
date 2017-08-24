@@ -1,9 +1,5 @@
 # Medication Guide Pacerone® (PĀS-ər-ōn) Tablets (Amiodarone HCl)
 
-Read the Medication Guide that comes with Pacerone® Tablets before you start taking them and each time you get a refill.
-There may be new information.
-This Medication Guide does not take the place of talking with your doctor about your medical condition or your treatment.
-
 What is the most important information I should know about Pacerone® Tablets?
 
 Pacerone® Tablets can cause serious side effects that can lead to death including:
@@ -125,7 +121,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 How should I store Pacerone® Tablets?
 
 - Store Pacerone® Tablets at room temperature between 68°F to 77°F (20°C to 25°C).
-- Keep Pacerone® Tablets in a tightly closed container.
+- Keep Pacerone® Tablets in a tightly closed container and protect from light.
 
 Keep Pacerone® Tablets and all medicines out of the reach of children.
 
@@ -139,8 +135,7 @@ It may harm them.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about Pacerone® Tablets that was written for health professionals.
 
-This Medication Guide may have been revised after this copy was produced.
-For more information and the most current Medication Guide, please visit www.pacerone.com or www.upsher-smith.com or call 1-888-650-3789.
+For more information and the most current Medication Guide, please visit www.upsher-smith.com or call 1-888-650-3789.
 
 What are the ingredients in Pacerone® Tablets?
 
@@ -150,10 +145,10 @@ Inactive Ingredients: lactose monohydrate, magnesium stearate, povidone, pregela
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-For Medication Guides, please visit www.upsher-smith.com or call 1-888-650-3789.
-
 Rx only
 
-Manufactured by UPSHER-SMITH LABORATORIES, INC. Maple Grove, MN 55369
+Pacerone is a registered trademark of Upsher-Smith Laboratories, LLC
 
-Revised 0915
+Manufactured by UPSHER-SMITH LABORATORIES, LLC Maple Grove, MN 55369
+
+Revised 0617

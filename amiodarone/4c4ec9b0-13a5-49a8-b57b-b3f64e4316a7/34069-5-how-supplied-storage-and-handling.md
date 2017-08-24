@@ -16,8 +16,10 @@ Protect from light.
 Dispense in a tight, light-resistant container with a child-resistant closure.
 
 This product's label may have been revised after this insert was used in production.
-For further product information and current package insert, please visit www.pacerone.com or www.upsher-smith.com or call 1-888-650-3789.
+For further product information and current package insert, please visit www.upsher-smith.com or call 1-888-650-3789.
 
-Manufactured by UPSHER-SMITH LABORATORIES, INC. Maple Grove, MN 55369
+Pacerone is a registered trademark of Upsher-Smith Laboratories, LLC
 
-Revised 0616
+Manufactured by UPSHER-SMITH LABORATORIES, LLC Maple Grove, MN 55369
+
+Revised 0617
