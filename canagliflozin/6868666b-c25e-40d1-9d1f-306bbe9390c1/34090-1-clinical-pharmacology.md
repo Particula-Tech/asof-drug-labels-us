@@ -134,7 +134,7 @@ Canagliflozin was negligibly removed by hemodialysis.
 
 Metformin
 
-In patients with decreased renal function (based on measured creatinine clearance), the plasma and blood half-life of metformin is prolonged and the renal clearance is decreased in proportion to the decrease in creatinine clearance [see Contraindications (4) and Warnings and Precautions (5.5)].
+In patients with decreased renal function, the plasma and blood half-life of metformin is prolonged and the renal clearance is decreased [see Contraindications (4) and Warnings and Precautions (5.1)].
 
 Hepatic Impairment
 

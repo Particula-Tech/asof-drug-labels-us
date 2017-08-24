@@ -11,6 +11,7 @@ Advise the patient to read the FDA-Approved Patient Labeling (Medication Guide).
 - Counsel patients against excessive alcohol intake while receiving INVOKAMET.
 - Inform patients about importance of regular testing of renal function and hematological parameters while receiving INVOKAMET.
 - Advise patients to seek medical advice promptly during periods of stress such as fever, trauma, infection, or surgery, as medication requirements may change.
+- Instruct patients to inform their doctor that they are taking INVOKAMET prior to any surgical or radiological procedure, as temporary discontinuation of INVOKAMET may be required until renal function has been confirmed to be normal [see Warnings and Precautions (5.1)].
 - Instruct patients to take INVOKAMET only as prescribed twice daily with food.
   If a dose is missed, advise patients not to take two doses of INVOKAMET at the same time.
 - Lower Limb Amputation: Inform patients that INVOKAMET is associated with an increased risk of amputations.

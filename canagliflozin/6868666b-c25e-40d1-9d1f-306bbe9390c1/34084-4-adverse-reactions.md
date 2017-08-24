@@ -275,6 +275,8 @@ The placebo-adjusted change at the distal forearm for patients randomized to can
 Additional adverse reactions have been identified during postapproval use of canagliflozin.
 Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
+Canagliflozin
+
 Ketoacidosis [see Warnings and Precautions (5.4)]
 
 Acute Kidney Injury and Impairment in Renal Function [see Warnings and Precautions (5.5)]
@@ -282,3 +284,7 @@ Acute Kidney Injury and Impairment in Renal Function [see Warnings and Precautio
 Anaphylaxis, Angioedema [see Warnings and Precautions (5.10)]
 
 Urosepsis and Pyelonephritis [see Warnings and Precautions (5.7)]
+
+Metformin hydrochloride
+
+Cholestatic, hepatocellular, and mixed hepatocellular liver injury

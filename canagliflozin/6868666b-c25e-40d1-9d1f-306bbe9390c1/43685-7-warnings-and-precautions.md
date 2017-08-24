@@ -16,10 +16,11 @@ Educate patients and their families about the symptoms of lactic acidosis and if
 For each of the known and possible risk factors for metformin-associated lactic acidosis, recommendations to reduce the risk of and manage metformin-associated lactic acidosis are provided below:
 
 Renal Impairment: The postmarketing metformin-associated lactic acidosis cases primarily occurred in patients with significant renal impairment.
-The risk of metformin accumulation and metformin-associated lactic acidosis increases with the severity of renal impairment because metformin is substantially excreted by the kidney [see Clinical Pharmacology (12.3)].
+The risk of metformin accumulation and metformin-associated lactic acidosis increases with the severity of renal impairment because metformin is substantially excreted by the kidney.
+Clinical recommendations based upon the patient's renal function include [see Dosage and Administration (2.2), Clinical Pharmacology (12.3)].
 
 - Before initiating INVOKAMET, obtain an estimated glomerular filtration rate (eGFR).
-- INVOKAMET is contraindicated in patients with an eGFR less than 45 mL/minute/1.73 m2.
+- INVOKAMET is contraindicated in patients with an eGFR less than 45 mL/minute/1.73 m2 [see Contraindications (4)].
 - Obtain an eGFR at least annually in all patients taking INVOKAMET.
   In patients at increased risk for the development of renal impairment (e.g., the elderly), renal function should be assessed more frequently.
 
