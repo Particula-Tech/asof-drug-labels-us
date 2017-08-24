@@ -1,0 +1,5 @@
+# 7 DRUG INTERACTIONS
+
+## 7.1 Central Nervous System Depressants
+
+Concurrent use of Azelastine HCl Nasal Spray with alcohol or other central nervous system depressants should be avoided because reductions in alertness and impairment of central nervous system performance may occur [see Warnings and Precautions (5.1)].

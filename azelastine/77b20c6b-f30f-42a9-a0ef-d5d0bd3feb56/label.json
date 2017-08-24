@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA208156"
+  ],
+  "inn": "azelastine",
+  "labeler": "Ascend Laboratories, LLC",
+  "package_ndcs": [
+    "67877-477-50"
+  ],
+  "products": [
+    {
+      "form": "SPRAY, METERED",
+      "generic": "azelastine",
+      "name": "Azelastine"
+    }
+  ],
+  "setid": "77b20c6b-f30f-42a9-a0ef-d5d0bd3feb56",
+  "source": "dailymed"
+}
