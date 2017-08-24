@@ -2,7 +2,7 @@
 
 ## 8.1. Pregnancy
 
-Glipizide was found to be mildly fetotoxic in rat reproductive studies at all dose levels (5–50 mg/kg).
+Pregnancy Category C: Glipizide was found to be mildly fetotoxic in rat reproductive studies at all dose levels (5–50 mg/kg).
 This fetotoxicity has been similarly noted with other sulfonylureas, such as tolbutamide and tolazamide.
 The effect is perinatal and believed to be directly related to the pharmacologic (hypoglycemic) action of glipizide.
 There are no adequate and well controlled studies in pregnant women.
