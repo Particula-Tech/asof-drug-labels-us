@@ -44,7 +44,7 @@ Laboratory Tests Linagliptin Increase in Uric Acid: Changes in laboratory values
 Increase in Lipase: In a placebo-controlled clinical trial with linagliptin in type 2 diabetes mellitus patients with micro- or macroalbuminuria, a mean increase of 30% in lipase concentrations from baseline to 24 weeks was observed in the linagliptin arm compared to a mean decrease of 2% in the placebo arm.
 Lipase levels above 3 times upper limit of normal were seen in 8.2% compared to 1.7% patients in the linagliptin and placebo arms, respectively.
 
-Metformin Decrease in Vitamin B12 Absorption: Long-term treatment with metformin has been associated with a decrease in vitamin B12 absorption which may very rarely result in clinically significant vitamin B12 deficiency (e.g., megaloblastic anemia) [see Warnings and Precautions (5.5)].
+Metformin Decrease in Vitamin B12 Absorption: Long-term treatment with metformin has been associated with a decrease in vitamin B12 absorption which may very rarely result in clinically significant vitamin B12 deficiency (e.g., megaloblastic anemia) [see Warnings and Precautions (5.6)].
 
 ## 6.2 Postmarketing Experience
 
@@ -54,10 +54,10 @@ Because these reactions are reported voluntarily from a population of uncertain 
 Linagliptin
 
 - Acute pancreatitis, including fatal pancreatitis [see Indications and Usage (1.2) and Warnings and Precautions (5.2)]
-- Hypersensitivity reactions including anaphylaxis, angioedema, and exfoliative skin conditions [see Warnings and Precautions (5.4)]
-- Severe and disabling arthralgia [see Warnings and Precautions (5.6)]
+- Hypersensitivity reactions including anaphylaxis, angioedema, and exfoliative skin conditions [see Warnings and Precautions (5.5)]
+- Severe and disabling arthralgia [see Warnings and Precautions (5.7)]
+- Bullous pemphigoid [see Warnings and Precautions (5.8)]
 - Rash
-- Bullous pemphigoid [see Warnings and Precautions (5.7)]
 - Mouth ulceration, stomatitis
 
 Metformin

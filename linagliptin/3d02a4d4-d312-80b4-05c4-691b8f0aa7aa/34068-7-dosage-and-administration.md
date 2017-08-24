@@ -4,7 +4,7 @@
 
 The dosage of JENTADUETO XR should be individualized on the basis of both effectiveness and tolerability, while not exceeding the maximum recommended total daily dose of linagliptin 5 mg and metformin hydrochloride 2000 mg.
 JENTADUETO XR should be given once daily with a meal.
-For available dosage forms and strengths see [Dosage Forms and Strengths (3)].
+For available dosage forms and strengths [see Dosage Forms and Strengths (3)].
 
 Recommended starting dose:
 

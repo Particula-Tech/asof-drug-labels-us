@@ -1,4 +1,4 @@
-# WARNING: RISK OF LACTIC ACIDOSIS
+# WARNING: LACTIC ACIDOSIS
 
 Postmarketing cases of metformin-associated lactic acidosis have resulted in death, hypothermia, hypotension, and resistant bradyarrhythmias.
 The onset of metformin-associated lactic acidosis is often subtle, accompanied only by nonspecific symptoms such as malaise, myalgias, respiratory distress, somnolence, and abdominal pain.

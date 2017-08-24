@@ -20,7 +20,7 @@ The risk of metformin accumulation and metformin-associated lactic acidosis incr
 Clinical recommendations based upon the patient’s renal function include [see Dosage and Administration (2.2), Clinical Pharmacology (12.3)]:
 
 - Before initiating JENTADUETO XR, obtain an estimated glomerular filtration rate (eGFR).
-- JENTADUETO XR is contraindicated in patients with an eGFR less than 30 mL/min/1.73 m2[see Contraindications (4)].
+- JENTADUETO XR is contraindicated in patients with an eGFR less than 30 mL/min/1.73 m2 [see Contraindications (4)].
 - Initiation of JENTADUETO XR is not recommended in patients with eGFR between 30 – 45 mL/min/1.73 m2.
 - Obtain an eGFR at least annually in all patients taking JENTADUETO XR.
   In patients at increased risk for the development of renal impairment (e.g., the elderly), renal function should be assessed more frequently.
@@ -57,7 +57,16 @@ Take careful notice of potential signs and symptoms of pancreatitis.
 If pancreatitis is suspected, promptly discontinue JENTADUETO XR and initiate appropriate management.
 It is unknown whether patients with a history of pancreatitis are at increased risk for the development of pancreatitis while using JENTADUETO XR.
 
-## 5.3 Use with Medications Known to Cause Hypoglycemia
+## 5.3 Heart Failure
+
+An association between DPP-4 inhibitor treatment and heart failure has been observed in cardiovascular outcomes trials for two other members of the DPP-4 inhibitor class.
+These trials evaluated patients with type 2 diabetes mellitus and atherosclerotic cardiovascular disease.
+
+Consider the risks and benefits of JENTADUETO XR prior to initiating treatment in patients at risk for heart failure, such as those with a prior history of heart failure and a history of renal impairment, and observe these patients for signs and symptoms of heart failure during therapy.
+Advise patients of the characteristic symptoms of heart failure and to immediately report such symptoms.
+If heart failure develops, evaluate and manage according to current standards of care and consider discontinuation of JENTADUETO XR.
+
+## 5.4 Use with Medications Known to Cause Hypoglycemia
 
 Linagliptin Insulin secretagogues and insulin are known to cause hypoglycemia.
 The use of linagliptin in combination with an insulin secretagogue (e.g., sulfonylurea) was associated with a higher rate of hypoglycemia compared with placebo in a clinical trial [see Adverse Reactions (6.1)].
@@ -67,7 +76,7 @@ Metformin Hypoglycemia does not occur in patients receiving metformin alone unde
 Elderly, debilitated, or malnourished patients, and those with adrenal or pituitary insufficiency or alcohol intoxication are particularly susceptible to hypoglycemic effects.
 Hypoglycemia may be difficult to recognize in the elderly, and in people who are taking β-adrenergic blocking drugs.
 
-## 5.4 Hypersensitivity Reactions
+## 5.5 Hypersensitivity Reactions
 
 There have been postmarketing reports of serious hypersensitivity reactions in patients treated with linagliptin (one of the components of JENTADUETO XR).
 These reactions include anaphylaxis, angioedema, and exfoliative skin conditions.
@@ -77,7 +86,7 @@ If a serious hypersensitivity reaction is suspected, discontinue JENTADUETO XR, 
 Angioedema has also been reported with other dipeptidyl peptidase-4 (DPP-4) inhibitors.
 Use caution in a patient with a history of angioedema to another DPP-4 inhibitor because it is unknown whether such patients will be predisposed to angioedema with JENTADUETO XR.
 
-## 5.5 Vitamin B12 Levels
+## 5.6 Vitamin B12 Levels
 
 In controlled, 29-week clinical trials of metformin a decrease to subnormal levels of previously normal serum vitamin B12 levels, without clinical manifestations, was observed in approximately 7% of metformin-treated patients.
 Such decrease, possibly due to interference with B12 absorption from the B12-intrinsic factor complex, is, however, very rarely associated with anemia or neurologic manifestations due to the short duration (<1 year) of the clinical trials.
@@ -87,7 +96,7 @@ Measurement of hematologic parameters on an annual basis is advised in patients 
 Certain individuals (those with inadequate vitamin B12 or calcium intake or absorption) appear to be predisposed to developing subnormal vitamin B12 levels.
 In these patients, routine serum vitamin B12 measurement at 2- to 3-year intervals may be useful.
 
-## 5.6 Severe and Disabling Arthralgia
+## 5.7 Severe and Disabling Arthralgia
 
 There have been postmarketing reports of severe and disabling arthralgia in patients taking DPP-4 inhibitors.
 The time to onset of symptoms following initiation of drug therapy varied from one day to years.
@@ -95,13 +104,13 @@ Patients experienced relief of symptoms upon discontinuation of the medication.
 A subset of patients experienced a recurrence of symptoms when restarting the same drug or a different DPP-4 inhibitor.
 Consider DPP-4 inhibitors as a possible cause for severe joint pain and discontinue drug if appropriate.
 
-## 5.7 Bullous Pemphigoid
+## 5.8 Bullous Pemphigoid
 
 Postmarketing cases of bullous pemphigoid requiring hospitalization have been reported with DPP-4 inhibitor use.
 In reported cases, patients typically recovered with topical or systemic immunosuppressive treatment and discontinuation of the DPP-4 inhibitor.
 Tell patients to report development of blisters or erosions while receiving JENTADUETO XR.
 If bullous pemphigoid is suspected, JENTADUETO XR should be discontinued and referral to a dermatologist should be considered for diagnosis and appropriate treatment.
 
-## 5.8 Macrovascular Outcomes
+## 5.9 Macrovascular Outcomes
 
 There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with linagliptin or metformin.
