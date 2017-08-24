@@ -1,6 +1,6 @@
 PATIENT INFORMATION
 
-Atorvastatin Calcium Tablets
+Atorvastatin Calcium Tablets (a tor″ va stat′ in kal′ see um)
 
 Read the Patient Information that comes with atorvastatin calcium tablets before you start taking it and each time you get a refill.
 There may be new information.
@@ -47,7 +47,7 @@ Do not take Atorvastatin Calcium Tablets if you:
   The active ingredient is atorvastatin.
   See the end of this leaflet for a complete list of ingredients in atorvastatin calcium tablets.
 
-Atorvastatin calcium tablets have not been studied in children under 10 years of age.
+Atorvastatin calcium tablets dosing has not been established in children under 10 years of age.
 
 Before You Start Atorvastatin Calcium Tablets
 
@@ -169,4 +169,4 @@ Inactive Ingredients: anhydrous lactose, NF; colloidal silicon dioxide, NF; copo
 
 Manufactured by: ScieGen Pharmaceuticals, Inc. Hauppauge, NY 11788 USA
 
-Rev: 08/15
+Rev: 08/17
