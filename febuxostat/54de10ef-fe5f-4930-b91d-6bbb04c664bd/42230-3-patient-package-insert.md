@@ -1,4 +1,6 @@
-Patient Information ULORIC (Ū–'lor–ik) (febuxostat) tablets
+# Patient Information
+
+ULORIC (Ū–'lor–ik) (febuxostat) tablets
 
 Read the Patient Information that comes with ULORIC before you start taking it and each time you get a refill.
 There may be new information.
@@ -14,8 +16,8 @@ Who should not take ULORIC?
 
 Do not take ULORIC if you:
 
-- •take azathioprine (Azasan, Imuran)
-- •take mercaptopurine (Purinethol)
+- take azathioprine (Azasan, Imuran)
+- take mercaptopurine (Purinethol)
 
 It is not known if ULORIC is safe and effective in children under 18 years of age.
 
@@ -23,12 +25,12 @@ What should I tell my healthcare provider before taking ULORIC?
 
 Before taking ULORIC tell your healthcare provider about all of your medical conditions, including if you:
 
-- •have liver or kidney problems
-- •have a history of heart disease or stroke
-- •are pregnant or plan to become pregnant.
+- have liver or kidney problems
+- have a history of heart disease or stroke
+- are pregnant or plan to become pregnant.
   It is not known if ULORIC will harm your unborn baby.
   Talk with your healthcare provider if you are pregnant or plan to become pregnant.
-- •are breastfeeding or plan to breastfeed.
+- are breastfeeding or plan to breastfeed.
   It is not known if ULORIC passes into your breast milk.
   You and your healthcare provider should decide if you should take ULORIC while breastfeeding.
 
@@ -40,12 +42,12 @@ Keep a list of them and show it to your healthcare provider and pharmacist when 
 
 How should I take ULORIC?
 
-- •Take ULORIC exactly as your healthcare provider tells you to take it.
-- •ULORIC can be taken with or without food.
-- •ULORIC can be taken with antacids.
-- •Your gout may flare up when you start taking ULORIC, do not stop taking your ULORIC even if you have a flare.
+- Take ULORIC exactly as your healthcare provider tells you to take it.
+- ULORIC can be taken with or without food.
+- ULORIC can be taken with antacids.
+- Your gout may flare up when you start taking ULORIC, do not stop taking your ULORIC even if you have a flare.
   Your healthcare provider may give you other medicines to help prevent your gout flares.
-- •Your healthcare provider may do certain tests while you take ULORIC.
+- Your healthcare provider may do certain tests while you take ULORIC.
 
 What are the possible side effects of ULORIC?
 
@@ -55,13 +57,17 @@ It is not certain that ULORIC caused these events.
 
 The most common side effects of ULORIC include:
 
-- •liver problems
-- •nausea
-- •gout flares
-- •joint pain
-- •rash
+- liver problems
+- nausea
+- gout flares
+- joint pain
+- rash
 
 Tell your healthcare provider if you develop a rash, have any side effect that bothers you, or that does not go away.
+
+Rarely, serious skin reactions can occur with ULORIC which may include rash, fever, swollen glands and other internal organ involvement such as liver, kidney, lung and heart.
+Tell your doctor immediately if you experience any of these signs.
+
 These are not all of the possible side effects of ULORIC.
 For more information, ask your healthcare provider or pharmacist.
 
@@ -96,12 +102,12 @@ Inactive ingredients include: lactose monohydrate, microcrystalline cellulose, h
 
 Distributed by: Takeda Pharmaceuticals America, Inc. Deerfield, IL 60015
 
-Revised: March 2013
+Revised: August 2017
 
 ULORIC is a registered trademark of Teijin Limited registered in the U.S. Patent and Trademark Office and used under license by Takeda Pharmaceuticals America, Inc.
 
 All other trademarks are the property of their respective owners.
 
-©2009-2013 Takeda Pharmaceuticals America, Inc.
+©2009-2017 Takeda Pharmaceuticals America, Inc.
 
-ULR015 R4
+ULR015 R6

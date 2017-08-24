@@ -11,9 +11,11 @@ ULORIC can be taken without regard to food or antacid use [see Clinical Pharmaco
 
 ## 2.2 Special Populations
 
-No dose adjustment is necessary when administering ULORIC in patients with mild to moderate renal impairment [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+No dose adjustment is necessary when administering ULORIC in patients with mild or moderate renal impairment.
 The recommended starting dose of ULORIC is 40 mg once daily.
 For patients who do not achieve a sUA less than 6 mg/dL after two weeks with 40 mg, ULORIC 80 mg is recommended.
+
+The dose of ULORIC is limited to 40 mg once daily in patients with severe renal impairment [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
 No dose adjustment is necessary in patients with mild to moderate hepatic impairment [see Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)].
 

@@ -27,3 +27,10 @@ ULORIC should not be restarted in these patients without another explanation for
 
 Patients who have serum ALT greater than three times the reference range with serum total bilirubin greater than two times the reference range without alternative etiologies are at risk for severe drug-induced liver injury and should not be restarted on ULORIC.
 For patients with lesser elevations of serum ALT or bilirubin and with an alternate probable cause, treatment with ULORIC can be used with caution.
+
+## 5.4 Serious Skin Reactions
+
+Postmarketing reports of serious skin and hypersensitivity reactions, including Stevens-Johnson Syndrome, drug reaction with eosinophilia and systemic symptoms (DRESS) and toxic epidermal necrolysis (TEN) have been reported in patients taking ULORIC.
+Discontinue ULORIC if serious skin reactions are suspected [see Patient Counseling Information (17)].
+Many of these patients had reported previous similar skin reactions to allopurinol.
+ULORIC should be used with caution in these patients.

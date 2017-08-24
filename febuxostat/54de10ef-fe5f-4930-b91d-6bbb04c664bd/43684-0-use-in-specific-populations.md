@@ -2,17 +2,41 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C: There are no adequate and well-controlled studies in pregnant women.
-ULORIC should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Risk Summary
 
-Febuxostat was not teratogenic in rats and rabbits at oral doses up to 48 mg/kg (40 and 51 times the human plasma exposure at 80 mg/day for equal body surface area, respectively) during organogenesis.
-However, increased neonatal mortality and a reduction in the neonatal body weight gain were observed when pregnant rats were treated with oral doses up to 48 mg/kg (40 times the human plasma exposure at 80 mg/day) during organogenesis and through lactation period.
+Limited available data with ULORIC use in pregnant women are insufficient to inform a drug associated risk of adverse developmental outcomes.
+No adverse developmental effects were observed in embryo-fetal development studies with oral administration of febuxostat to pregnant rats and rabbits during organogenesis at doses that produced maternal exposures up to 40 and 51 times, respectively, the exposure at the maximum recommended human dose (MRHD).
+No adverse developmental effects were observed in a pre- and postnatal development study with administration of febuxostat to pregnant rats from organogenesis through lactation at an exposure approximately 11 times the MRHD (see Data).
 
-## 8.3 Nursing Mothers
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the US general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
-Febuxostat is excreted in the milk of rats.
-It is not known whether this drug is excreted in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when ULORIC is administered to a nursing woman.
+Data
+
+Animal Data
+
+In an embryo-fetal development study in pregnant rats dosed during the period of organogenesis from gestation Days 7 – 17, febuxostat was not teratogenic and did not affect fetal development or survival at exposures up to approximately 40 times the MRHD (on an AUC basis at maternal oral doses up to 48 mg/kg/day).
+In an embryo-fetal development study in pregnant rabbits dosed during the period of organogenesis from gestation Days 6 – 18, febuxostat was not teratogenic and did not affect fetal development at exposures up to approximately 51 times the MRHD (on an AUC basis at maternal oral doses up to 48 mg/kg/day).
+
+In a pre- and postnatal development study in pregnant female rats dosed orally from gestation Day 7 through lactation Day 20, febuxostat had no effects on delivery or growth and development of offspring at a dose approximately 11 times the MRHD (on an AUC basis at a maternal oral dose of 12 mg/kg/day).
+However, increased neonatal mortality and a reduction in neonatal body weight gain were observed in the presence of maternal toxicity at a dose approximately 40 times the MRHD (on an AUC basis at a maternal oral dose of 48 mg/kg/day).
+
+Febuxostat crossed the placental barrier following oral administration to pregnant rats and was detected in fetal tissues.
+
+## 8.2 Lactation
+
+Risk Summary
+
+There are no data on the presence of febuxostat in human milk, the effects on the breastfed infant, or the effects on milk production.
+Febuxostat is present in rat milk.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for ULORIC and any potential adverse effects on the breastfed child from ULORIC or from the underlying maternal condition.
+
+Data
+
+Animal Data
+
+Orally administered febuxostat was detected in the milk of lactating rats at up to approximately 7 times the plasma concentration.
 
 ## 8.4 Pediatric Use
 
@@ -21,17 +45,16 @@ Safety and effectiveness in pediatric patients under 18 years of age have not be
 ## 8.5 Geriatric Use
 
 No dose adjustment is necessary in elderly patients.
-Of the total number of subjects in clinical studies of ULORIC, 16% were 65 and over, while 4% were 75 and over.
-Comparing subjects in different age groups, no clinically significant differences in safety or effectiveness were observed but greater sensitivity of some older individuals cannot be ruled out.
-The Cmax and AUC24 of febuxostat following multiple oral doses of ULORIC in geriatric subjects (≥65 years) were similar to those in younger subjects (18 to 40 years) [see Clinical Pharmacology (12.3)].
+Of the total number of patients in clinical studies of ULORIC, 16% were 65 and over, while 4% were 75 and over.
+Comparing patients in different age groups, no clinically significant differences in safety or effectiveness were observed but greater sensitivity of some older individuals cannot be ruled out.
+The Cmax and AUC24 of febuxostat following multiple oral doses of ULORIC in geriatric patients (≥65 years) were similar to those in younger patients (18 to 40 years) [see Clinical Pharmacology (12.3)].
 
 ## 8.6 Renal Impairment
 
-No dose adjustment is necessary in patients with mild or moderate renal impairment (Clcr 30 to 89 mL/min).
+No dose adjustment is necessary in patients with mild to moderate renal impairment (Clcr 30 to 89 mL/min).
 The recommended starting dose of ULORIC is 40 mg once daily.
 For patients who do not achieve a sUA less than 6 mg/dL after two weeks with 40 mg, ULORIC 80 mg is recommended.
-
-There are insufficient data in patients with severe renal impairment (Clcr less than 30 mL/min); therefore, caution should be exercised in these patients [see Clinical Pharmacology (12.3)].
+For patients with severe renal impairment (Clcr 15 to 29 mL/min), the dose of ULORIC is limited to 40 mg once daily [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 

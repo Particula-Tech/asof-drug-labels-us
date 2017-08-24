@@ -4,32 +4,33 @@
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-A total of 2757 subjects with hyperuricemia and gout were treated with ULORIC 40 mg or 80 mg daily in clinical studies.
+A total of 2757 patients with hyperuricemia and gout were treated with ULORIC 40 mg or 80 mg daily in clinical studies.
 For ULORIC 40 mg, 559 patients were treated for ≥6 months.
-For ULORIC 80 mg, 1377 subjects were treated for ≥6 months, 674 patients were treated for ≥1 year and 515 patients were treated for ≥2 years.
+For ULORIC 80 mg, 1377 patients were treated for ≥6 months, 674 patients were treated for ≥1 year and 515 patients were treated for ≥2 years.
 
 Most Common Adverse Reactions
 
 In three randomized, controlled clinical studies (Studies 1, 2 and 3), which were six to 12 months in duration, the following adverse reactions were reported by the treating physician as related to study drug.
 Table 1 summarizes adverse reactions reported at a rate of at least 1% in ULORIC treatment groups and at least 0.5% greater than placebo.
 
-| Table 1: Adverse Reactions Occurring in ≥1% of ULORIC-Treated Patients and at Least 0.5% Greater than Seen in Patients Receiving Placebo in Controlled Studies |  |  |  |  |
+Table 1: Adverse Reactions Occurring in ≥1% of Patients Treated with ULORIC and at Least 0.5% Greater than Seen in Patients Receiving Placebo in Controlled Studies
+
+| Adverse Reactions | (N=134) | 40 mg daily (N=757) | 80 mg daily (N=1279) | (N=1277) |
 | --- | --- | --- | --- | --- |
-| Adverse Reactions | Placebo | ULORIC |  | allopurinolOf the subjects who received allopurinol, 10 received 100 mg, 145 received 200 mg, and 1122 received 300 mg, based on level of renal impairment. |
-| (N=134) | 40 mg daily (N=757) | 80 mg daily (N=1279) | (N=1277) |  |
+|  | Placebo | ULORIC |  | allopurinolOf the patients who received allopurinol, 10 received 100 mg, 145 received 200 mg, and 1122 received 300 mg, based on level of renal impairment. |
 | Liver Function Abnormalities | 0.7% | 6.6% | 4.6% | 4.2% |
 | Nausea | 0.7% | 1.1% | 1.3% | 0.8% |
 | Arthralgia | 0% | 1.1% | 0.7% | 0.7% |
 | Rash | 0.7% | 0.5% | 1.6% | 1.6% |
 
-The most common adverse reaction leading to discontinuation from therapy was liver function abnormalities in 1.8% of ULORIC 40 mg, 1.2% of ULORIC 80 mg, and in 0.9% of allopurinol-treated subjects.
+The most common adverse reaction leading to discontinuation from therapy was liver function abnormalities in 1.8% of ULORIC 40 mg, 1.2% of ULORIC 80 mg, and in 0.9% of patients treated with allopurinol.
 
-In addition to the adverse reactions presented in Table 1, dizziness was reported in more than 1% of ULORIC-treated subjects although not at a rate more than 0.5% greater than placebo.
+In addition to the adverse reactions presented in Table 1, dizziness was reported in more than 1% of patients treated with ULORIC although not at a rate more than 0.5% greater than placebo.
 
 Less Common Adverse Reactions
 
-In Phase 2 and 3 clinical studies the following adverse reactions occurred in less than 1% of subjects and in more than one subject treated with doses ranging from 40 mg to 240 mg of ULORIC.
-This list also includes adverse reactions (less than 1% of subjects) associated with organ systems from Warnings and Precautions.
+In Phase 2 and 3 clinical studies the following adverse reactions occurred in less than 1% of patients and in more than one subject treated with doses ranging from 40 mg to 240 mg of ULORIC.
+This list also includes adverse reactions (less than 1% of patients) associated with organ systems from Warnings and Precautions.
 
 Blood and Lymphatic System Disorders: anemia, idiopathic thrombocytopenic purpura, leukocytosis/leukopenia, neutropenia, pancytopenia, splenomegaly, thrombocytopenia.
 
@@ -65,7 +66,7 @@ Reproductive System and Breast Changes: breast pain, erectile dysfunction, gynec
 
 Respiratory, Thoracic and Mediastinal Disorders: bronchitis, cough, dyspnea, epistaxis, nasal dryness, paranasal sinus hypersecretion, pharyngeal edema, respiratory tract congestion, sneezing, throat irritation, upper respiratory tract infection.
 
-Skin and Subcutaneous Tissue Disorders: alopecia, angio-edema, dermatitis, dermographism, ecchymosis, eczema, hair color changes, hair growth abnormal, hyperhidrosis, peeling skin, petechiae, photosensitivity, pruritus, purpura, skin discoloration/altered pigmentation, skin lesion, skin odor abnormal, urticaria.
+Skin and Subcutaneous Tissue Disorders: alopecia, angio edema, dermatitis, dermographism, ecchymosis, eczema, hair color changes, hair growth abnormal, hyperhidrosis, peeling skin, petechiae, photosensitivity, pruritus, purpura, skin discoloration/altered pigmentation, skin lesion, skin odor abnormal, urticaria.
 
 Vascular Disorders: flushing, hot flush, hypertension, hypotension.
 
@@ -78,14 +79,16 @@ In the Phase 3 randomized controlled studies, the incidences of adjudicated APTC
 
 In the long-term extension studies, the incidences of adjudicated APTC events were: ULORIC 80 mg 0.97 (95% CI 0.57-1.56), and allopurinol 0.58 (95% CI 0.02-3.24).
 
-Overall, a higher rate of APTC events was observed in ULORIC than in allopurinol-treated patients.
+Overall, a higher rate of APTC events was observed in ULORIC than in patients treated with allopurinol.
 A causal relationship with ULORIC has not been established.
 Monitor for signs and symptoms of MI and stroke.
 
 ## 6.2 Postmarketing Experience
 
-Adverse reactions have been identified during postapproval use of ULORIC.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship.
+The following adverse reactions have been identified during post approval use of ULORIC.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Blood and Lymphatic System Disorders: agranulocytosis, eosinophilia.
 
 Hepatobiliary Disorders: hepatic failure (some fatal), jaundice, serious cases of abnormal liver function test results, liver disorder.
 
@@ -97,4 +100,4 @@ Psychiatric Disorders: psychotic behavior including aggressive thoughts.
 
 Renal and Urinary Disorders: tubulointerstitial nephritis.
 
-Skin and Subcutaneous Tissue Disorders: generalized rash, Stevens Johnson Syndrome, hypersensitivity skin reactions.
+Skin and Subcutaneous Tissue Disorders: generalized rash, Stevens-Johnson Syndrome, hypersensitivity skin reactions, erythema multiforme, drug reaction with eosinophilia and systemic symptoms, toxic epidermal necrolysis.
