@@ -24,9 +24,7 @@ NDC 0009-0347-02
 
 One 10 mL Vial Multiple-Dose
 
-Depo®- Testosterone
-
-testosterone cypionate injection, USP
+Depo®- Testosterone testosterone cypionate injection, USP
 
 100 mg/mL
 
@@ -60,7 +58,9 @@ NDC 0009-0417-01
 
 One 1 mL Vial Single-dose
 
-Depo®- Testosterone testosterone cypionate injection, USP
+Depo®- Testosterone
+
+testosterone cypionate injection, USP
 
 200 mg/mL
 
