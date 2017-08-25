@@ -21,7 +21,7 @@ The risk and benefit of pancrelipase should be considered in the context of the 
 
 The safety and effectiveness of VIOKACE in pediatric patients have not been established.
 In general, delayed-release (enteric-coated) capsules should be used for pediatric patients.
-Due to greater degradation in the gastric environment, VIOKACE, a non-enteric-coated, pancreatic enzyme replacement product, may have decreased bioavailability and therefore may be less efficacious than enteric-coated formulations.7,8 Thus, use of VIOKACE in pediatric patients may increase the risk of inadequate treatment of pancreatic insufficiency and result in suboptimal weight gain, malnutrition and/or need for larger doses of pancreatic enzyme replacement [see Warnings and Precautions (5.1)] The efficacy of VIOKACE was established in adult patients with concomitant proton pump inhibitor (PPI) therapy.
+Due to greater degradation in the gastric environment, VIOKACE, a non-enteric-coated, pancreatic enzyme replacement product, may have decreased bioavailability and therefore may be less efficacious than enteric-coated formulations.7, 8 Thus, use of VIOKACE in pediatric patients may increase the risk of inadequate treatment of pancreatic insufficiency and result in suboptimal weight gain, malnutrition and/or need for larger doses of pancreatic enzyme replacement [See Warnings and Precautions (5.1)] The efficacy of VIOKACE was established in adult patients with concomitant proton pump inhibitor (PPI) therapy.
 The long-term safety of PPI use in pediatric patients has not been established.
 
 ## 8.5 Geriatric Use

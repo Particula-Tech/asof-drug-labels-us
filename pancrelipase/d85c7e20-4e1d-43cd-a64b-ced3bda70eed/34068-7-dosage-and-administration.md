@@ -29,7 +29,7 @@ Usually, half of the prescribed VIOKACE dose for an individualized full meal sho
 The total daily dosage should reflect approximately three meals plus two or three snacks per day.
 
 In one clinical trial, patients received VIOKACE at a dose of 125,280 lipase units per meal while consuming 100 g of fat per day [see Clinical Studies (14)].
-Lower starting doses recommended in the literature are consistent with the 500 lipase units/kg of body weight per meal lowest starting dose recommended for adults in the Cystic Fibrosis Foundation Consensus Conferences Guidelines.1,2,3,4 The initial starting dose and increases in the dose per meal should be individualized based on clinical symptoms, the degree of steatorrhea present, and the fat content of the diet.
+Lower starting doses recommended in the literature are consistent with the 500 lipase units/kg of body weight per meal lowest starting dose recommended for adults in the Cystic Fibrosis Foundation Consensus Conferences Guidelines.1, 2, 3, 4 The initial starting dose and increases in the dose per meal should be individualized based on clinical symptoms, the degree of steatorrhea present, and the fat content of the diet.
 
 Limitations on Dosing
 

@@ -8,7 +8,9 @@ Each VIOKACE tablet is available as a tan, round, biconvex tablet with VIO9111 e
 
 VIOKACE tablets
 
-20,880 USP units of lipase; 78,300 USP units of protease; 78,300 USP units of amylase Each VIOKACE tablet is available as a tan, oval, biconvex tablet with V16 engraved on one side and 9116 on the other side supplied in bottles of 100 tablets (NDC 58914-117-10).
+20,880 USP units of lipase; 78,300 USP units of protease; 78,300 USP units of amylase
+
+Each VIOKACE tablet is available as a tan, oval, biconvex tablet with V16 engraved on one side and 9116 on the other side supplied in bottles of 100 tablets (NDC 58914-117-10).
 
 Storage and Handling
 

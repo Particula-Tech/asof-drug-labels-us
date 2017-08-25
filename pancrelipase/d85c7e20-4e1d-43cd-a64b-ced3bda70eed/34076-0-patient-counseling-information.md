@@ -25,6 +25,9 @@ Advise patients and caregivers to contact their healthcare professional immediat
 - Instruct patients to notify their healthcare professional if they are pregnant or are thinking of becoming pregnant during treatment with VIOKACE [see Use in Specific Populations (8.1)].
 - Instruct patients to notify their healthcare professional if they are breast feeding or are thinking of breast feeding during treatment with VIOKACE [see Use in Specific Populations (8.3)].
 
-Marketed by: Aptalis Pharma US, Inc 22 Inverness Center Parkway Birmingham, AL 35242 USA
+Distributed by: Allergan USA, Inc. Irvine, CA 92612
 
-Manufactured by: Confab Laboratories Inc. St. Hubert, Canada VIOKACE and APTALIS are trademarks. © 2012 APTALIS PHARMA US, INC.
+Manufactured by: Confab Laboratories, Inc. St. Hubert, Canada
+
+VIOKACE® is a registered trademark of Aptalis Pharma US, Inc., an Allergan affiliate. © 2017 Allergan.
+All rights reserved.

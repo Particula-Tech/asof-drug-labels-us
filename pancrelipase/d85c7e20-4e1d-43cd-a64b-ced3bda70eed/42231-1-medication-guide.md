@@ -1,4 +1,4 @@
-# MEDICATION GUIDE
+MEDICATION GUIDE
 
 VIOKACETM (vye-oh-kase)
 
@@ -114,8 +114,9 @@ It may harm them.
 This Medication Guide summarizes the most important information about VIOKACE.
 If you would like more information, talk to your doctor.
 You can ask your pharmacist or doctor for information about VIOKACE that is written for healthcare providers.
-For more information, go to www.aptalispharma.com or call toll-free 1-800-472-2634.
+For more information, go to www.Allergan.com or call toll-free 1-800-433-8871.
 What are the ingredients in VIOKACE?
 Active Ingredient: lipase, protease and amylase Inactive Ingredients: colloidal silicon dioxide, crosscarmellose sodium, lactose monohydrate, microcrystalline cellulose, stearic acid and talc.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Marketed by: Aptalis Pharma US, Inc 22 Inverness Center Parkway Birmingham, Alabama 35242 Manufactured by: Confab Laboratories, Inc. St. Hubert, Canada Issued 03/2012 © 2012 Aptalis Pharma US, Inc.
+Distributed by: Allergan USA, Inc. Irvine, CA 92612 Manufactured by: Confab Laboratories, Inc. St. Hubert, Canada Issued 03/2012 VIOKACE® is a registered trademark of Aptalis Pharma US, Inc., an Allergan affiliate. © 2017 Allergan.
+All rights reserved.
