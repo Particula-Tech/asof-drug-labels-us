@@ -15,7 +15,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 ### Adults
 
-Safety in 9 randomized comparative U.S. clinical trials in patients with GERD included 1,473 patients on oral pantoprazole sodium delayed-release tablets (20 mg or 40 mg), 299 patients on an H2-receptor antagonist, 46 patients on another proton pump inhibitor, and 82 patients on placebo.
+Safety in 9 randomized comparative U.S. clinical trials in patients with GERD included 1,473 patients on oral pantoprazole sodium delayed-release tablets (20 mg or 40 mg), 299 patients on an H2-receptor antagonist, 46 patients on another PPI, and 82 patients on placebo.
 The most frequently occurring adverse reactions are listed in Table 3.
 
 Table 3: Adverse Reactions Reported in Clinical Trials of Adult Patients with GERD at a Frequency of > 2%
@@ -107,4 +107,4 @@ Psychiatric Disorders: hallucination, confusion, insomnia, somnolence
 
 Renal and Urinary Disorders: interstitial nephritis
 
-Skin and Subcutaneous Tissue Disorders: severe dermatologic reactions (some fatal), including erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis (TEN, some fatal), angioedema (Quincke’s edema), and cutaneous lupus erythematosus
+Skin and Subcutaneous Tissue Disorders: severe dermatologic reactions (some fatal), including erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis (TEN, some fatal), angioedema (Quincke’s edema) and cutaneous lupus erythematosus

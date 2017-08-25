@@ -4,16 +4,29 @@
 
 ### Teratogenic Effects
 
-#### Pregnancy Category B
+#### Pregnancy Category C
 
-Reproduction studies have been performed in rats at oral doses up to 88 times the recommended human dose and in rabbits at oral doses up to 16 times the recommended human dose and have revealed no evidence of impaired fertility or harm to the fetus due to pantoprazole.
-There are, however, no adequate and well-controlled studies in pregnant women.
-Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed [see Nonclinical Toxicology (13.2)].
+Reproduction studies have been performed in rats at oral pantoprazole doses up to 450 mg/kg/day (about 88 times the recommended human dose based on body surface area) and in rabbits at oral doses up to 40 mg/kg/day (about 16 times the recommended human dose based on body surface area) with administration of pantoprazole sodium during organogenesis in pregnant animals.
+The studies have revealed no evidence of impaired fertility or harm to the fetus due to pantoprazole.
+
+A pre- and postnatal development toxicity study in rats with additional endpoints to evaluate the effect on bone development was performed with pantoprazole sodium.
+Oral pantoprazole doses of 5, 15, and 30 mg/kg/day (approximately 1, 3, and 6 times the human dose of 40 mg/day on a body surface area basis) were administered to pregnant females from gestation day (GD) 6 through lactation day (LD) 21.
+On postnatal day (PND 4) through PND 21, the pups were administered oral doses at 5, 15, and 30 mg/kg/day (approximately 1, 2.3, and 3.2 times the exposure (AUC) in humans at a dose of 40 mg).
+There were no drug-related findings in maternal animals.
+During the preweaning dosing phase (PND 4 to 21) of the pups, there were increased mortality and/or moribundity and decreased body weight and body weight gain at 5 mg/kg/day (approximately equal exposures (AUC) in humans receiving the 40 mg dose) and higher doses.
+On PND 21, decreased mean femur length and weight and changes in femur bone mass and geometry were observed in the offspring at 5 mg/kg/day (approximately equal exposures (AUC) in humans at the 40 mg dose) and higher doses.
+The femur findings included lower total area, bone mineral content and density, periosteal and endosteal circumference, and cross-sectional moment of inertia.
+There were no microscopic changes in the distal femur, proximal tibia, or stifle joints.
+Changes in bone parameters were partially reversible following a recovery period, with findings on PND 70 limited to lower femur metaphysis cortical/subcortical bone mineral density in female pups at 5 mg/kg/day (approximately equal exposures (AUC) in humans at the 40 mg dose) and higher doses.
+
+There are no adequate and well-controlled studies in pregnant women.
+Advise pregnant women of the potential risk of fetal harm.
+Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 ## 8.3 Nursing Mothers
 
 Pantoprazole and its metabolites are excreted in the milk of rats.
-Pantoprazole excretion in human milk has been detected in a study of a single nursing mother after a single 40 mg oral dose.
+Pantoprazole excretion in human milk has been detected in a study of a single nursing mother after a single 40 mg oral dose of pantoprazole sodium.
 The clinical relevance of this finding is not known.
 Many drugs which are excreted in human milk have a potential for serious adverse reactions in nursing infants.
 Based on the potential for tumorigenicity shown for pantoprazole in rodent carcinogenicity studies, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the benefit of the drug to the mother.
@@ -28,7 +41,7 @@ The safety and effectiveness of pantoprazole sodium delayed-release tablets for 
 
 ### 1 Year Through 16 Years of Age
 
-Use of pantoprazole in pediatric patients 1 year through 16 years of age for short-term treatment (up to 8 weeks) of EE associated with GERD is supported by: a) extrapolation of results from adequate and well-controlled studies that supported the approval of pantoprazole sodium delayed-release tablets for treatment of EE associated with GERD in adults, and b) safety, effectiveness, and pharmacokinetic studies performed in pediatric patients [see Clinical Studies (14.1) and Clinical Pharmacology (12.3)].
+Use of pantoprazole in pediatric patients 1 year through 16 years of age for short-term treatment (up to 8 weeks) of EE associated with GERD is supported by: a) extrapolation of results from adequate and well-controlled studies that supported the approval of pantoprazole sodium delayed-release tablets for treatment of EE associated with GERD in adults, and b) safety, effectiveness, and pharmacokinetic studies performed in pediatric patients [see Clinical Studies (14.1), and Clinical Pharmacology (12.3)].
 
 Safety of pantoprazole in the treatment of EE associated with GERD in pediatric patients 1 through 16 years of age was evaluated in 3 multicenter, randomized, double-blind, parallel-treatment studies, involving 249 pediatric patients, including 8 with EE (4 patients ages 1 year to 5 years and 4 patients 5 years to 11 years).
 The children ages 1 year to 5 years with endoscopically diagnosed EE (defined as an endoscopic Hetzel-Dent score ≥ 2) were treated once daily for 8 weeks with one of two dose levels of pantoprazole (approximating 0.6 mg/kg or 1.2 mg/kg).
@@ -39,7 +52,7 @@ For safety findings see Adverse Reactions (6.1).
 Because these pediatric trials had no placebo, active comparator, or evidence of a dose response, the trials were inconclusive regarding the clinical benefit of pantoprazole for symptomatic GERD in the pediatric population.
 The effectiveness of pantoprazole for treating symptomatic GERD in pediatric patients has not been established.
 
-Although the data from the clinical trials support use of pantoprazole sodium for the short-term treatment of EE associated with GERD in pediatric patients 1 year through 5 years, there is no commercially available dosage formulation appropriate for patients less than 5 years of age [see Dosage and Administration (2)].
+Although the data from the clinical trials support use of pantoprazole for the short-term treatment of EE associated with GERD in pediatric patients 1 year through 5 years, there is no commercially available dosage formulation appropriate for patients less than 5 years of age [see Dosage and Administration (2)].
 
 In a population pharmacokinetic analysis, clearance values in the children 1 to 5 years old with endoscopically proven GERD had a median value of 2.4 L/h.
 Following a 1.2 mg/kg equivalent dose (15 mg for ≤ 12.5 kg and 20 mg for > 12.5 kg to < 25 kg), the plasma concentrations of pantoprazole were highly variable and the median time to peak plasma concentration was 3 to 6 hours.
@@ -60,22 +73,22 @@ In these patients, the apparent clearance (CL/F) increased with age (median clea
 
 These doses resulted in pharmacodynamic effects on gastric but not esophageal pH.
 Following once daily dosing of 2.5 mg of pantoprazole in preterm infants and neonates, there was an increase in the mean gastric pH (from 4.3 at baseline to 5.2 at steady-state) and in the mean % time that gastric pH was > 4 (from 60% at baseline to 80% at steady-state).
-Following once daily dosing of approximately 1.2 mg/kg of pantoprazole in infants 1 through 11 months of age, there was an increase in the mean gastric pH (from 3.1 at baseline to 4.2 at steady state) and in the mean % time that gastric pH was > 4 (from 32% at baseline to 60% at steady state).
+Following once daily dosing of approximately 1.2 mg/kg of pantoprazole in infants 1 through 11 months of age, there was an increase in the mean gastric pH (from 3.1 at baseline to 4.2 at steady-state) and in the mean % time that gastric pH was > 4 (from 32% at baseline to 60% at steady-state).
 However, no significant changes were observed in mean intraesophageal pH or % time that esophageal pH was < 4 in either age group.
 
 Because pantoprazole was not shown to be effective in the randomized, placebo-controlled study in this age group, the use of pantoprazole for treatment of symptomatic GERD in infants less than 1 year of age is not indicated.
+
+### Animal Toxicity Data
+
+In a pre- and postnatal development study in rats, the pups were administered oral doses of pantoprazole at 5, 15, and 30 mg/kg/day (approximately 1, 2.3, and 3.2 times the exposure (AUC) in children aged 6 to 11 years at a dose of 40 mg) on postnatal day (PND 4) through PND 21, in addition to lactational exposure through milk.
+On PND 21, decreased mean femur length and weight and changes in femur bone mass and geometry were observed in the offspring at 5 mg/kg/day (approximately equal exposures (AUC) in children aged 6 to 11 years at the 40 mg dose) and higher doses.
+Changes in bone parameters were partially reversible following a recovery period.
+
+In neonatal/juvenile animals (rats and dogs) toxicities were similar to those observed in adult animals, including gastric alterations, decreases in red cell mass, increases in lipids, enzyme induction and hepatocellular hypertrophy.
+An increased incidence of eosinophilic chief cells in adult and neonatal/juvenile rats, and atrophy of chief cells in adult rats and in neonatal/juvenile dogs, was observed in the fundic mucosa of stomachs in repeated-dose studies.
+Full to partial recovery of these effects were noted in animals of both age groups following a recovery period.
 
 ## 8.5 Geriatric Use
 
 In short-term U.S. clinical trials, erosive esophagitis healing rates in the 107 elderly patients (≥ 65 years old) treated with pantoprazole sodium delayed-release tablets were similar to those found in patients under the age of 65.
 The incidence rates of adverse reactions and laboratory abnormalities in patients aged 65 years and older were similar to those associated with patients younger than 65 years of age.
-
-## 8.6 Gender
-
-Erosive esophagitis healing rates in the 221 women treated with pantoprazole sodium delayed-release tablets in U.S. clinical trials were similar to those found in men.
-In the 122 women treated long-term with pantoprazole sodium delayed-release tablets 40 mg or 20 mg, healing was maintained at a rate similar to that in men.
-The incidence rates of adverse reactions were also similar for men and women.
-
-## 8.7 Patients with Hepatic Impairment
-
-Doses higher than 40 mg/day have not been studied in patients with hepatic impairment [see Clinical Pharmacology (12.3)].
