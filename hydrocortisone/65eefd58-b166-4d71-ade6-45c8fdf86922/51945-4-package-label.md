@@ -56,7 +56,9 @@ Solu-Cortef®
 
 100 mg*
 
-For intramuscular or intravenous use Preservative-Free
+For intramuscular or intravenous use
+
+Preservative-Free
 
 Pfizer Injectables Rx only
 
