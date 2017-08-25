@@ -8,9 +8,9 @@ Adult Patients
 
 A US multicenter, double-blind, placebo-controlled study of pantoprazole sodium 10 mg, 20 mg, or 40 mg once daily was conducted in 603 patients with reflux symptoms and endoscopically diagnosed EE of grade 2 or above (Hetzel-Dent scale).
 In this study, approximately 25% of enrolled patients had severe EE of grade 3, and 10% had grade 4.
-The percentages of patients healed (per protocol, n = 541) in this study are shown in Table 6.
+The percentages of patients healed (per protocol, n = 541) in this study are shown in Table 8.
 
-Table 6: Erosive Esophagitis Healing Rates (Per Protocol)
+Table 8: Erosive Esophagitis Healing Rates (Per Protocol)
 
 | –––––––––––––––Pantoprazole Sodium––––––––––––––– |  |  |  | Placebo |
 | --- | --- | --- | --- | --- |
@@ -33,9 +33,9 @@ A significantly greater proportion of patients taking pantoprazole sodium 40 mg 
 Patients taking pantoprazole sodium consumed significantly fewer antacid tablets per day than those taking placebo.
 
 Pantoprazole sodium 40 mg and 20 mg once daily were also compared with nizatidine 150 mg twice daily in a US multicenter, double-blind study of 243 patients with reflux symptoms and endoscopically diagnosed EE of grade 2 or above.
-The percentages of patients healed (per protocol, n = 212) are shown in Table 7.
+The percentages of patients healed (per protocol, n = 212) are shown in Table 9.
 
-Table 7: Erosive Esophagitis Healing Rates (Per Protocol)
+Table 9: Erosive Esophagitis Healing Rates (Per Protocol)
 
 | ––––––––––––Pantoprazole Sodium–––––––––––– |  |  | Nizatidine |
 | --- | --- | --- | --- |
@@ -63,10 +63,10 @@ All 4 patients with EE were healed (Hetzel-Dent score of 0 or 1) at 8 weeks.
 
 Two independent, multicenter, randomized, double-blind, comparator-controlled trials of identical design were conducted in adult GERD patients with endoscopically confirmed healed erosive esophagitis to demonstrate efficacy of pantoprazole sodium in long-term maintenance of healing.
 The two US studies enrolled 386 and 404 patients, respectively, to receive either 10 mg, 20 mg, or 40 mg of pantoprazole sodium delayed-release tablets once daily or 150 mg of ranitidine twice daily.
-As demonstrated in Table 8, pantoprazole sodium 40 mg and 20 mg were significantly superior to ranitidine at every timepoint with respect to the maintenance of healing.
+As demonstrated in Table 10, pantoprazole sodium 40 mg and 20 mg were significantly superior to ranitidine at every timepoint with respect to the maintenance of healing.
 In addition, pantoprazole sodium 40 mg was superior to all other treatments studied.
 
-Table 8: Long-Term Maintenance of Healing of Erosive Gastroesophageal Reflux Disease (GERD Maintenance): Percentage of Patients Who Remained Healed
+Table 10: Long-Term Maintenance of Healing of Erosive Gastroesophageal Reflux Disease (GERD Maintenance): Percentage of Patients Who Remained Healed
 
 |  | Pantoprazole Sodium 20 mg daily | Pantoprazole Sodium 40 mg daily | Ranitidine150 mg twice daily |
 | --- | --- | --- | --- |
@@ -88,9 +88,9 @@ Table 8: Long-Term Maintenance of Healing of Erosive Gastroesophageal Reflux Dis
 Note: Pantoprazole sodium 10 mg was superior (p < 0.05) to ranitidine in Study 2, but not Study 1.
 
 Pantoprazole sodium 40 mg was superior to ranitidine in reducing the number of daytime and nighttime heartburn episodes from the first through the twelfth month of treatment.
-Pantoprazole sodium 20 mg, administered once daily, was also effective in reducing episodes of daytime and nighttime heartburn in one trial, as presented in Table 9.
+Pantoprazole sodium 20 mg, administered once daily, was also effective in reducing episodes of daytime and nighttime heartburn in one trial, as presented in Table 11.
 
-Table 9: Number of Episodes of Heartburn (mean ± SD)
+Table 11: Number of Episodes of Heartburn (mean ± SD)
 
 |  |  | Pantoprazole Sodium 40 mg daily | Ranitidine150 mg twice daily |
 | --- | --- | --- | --- |

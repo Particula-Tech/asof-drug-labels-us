@@ -14,7 +14,9 @@ Adverse Reactions
 
 Drug Interactions
 
-Instruct patients to inform their healthcare provider of any other medications they are currently taking, including over-the-counter medications.
+Instruct patients to inform their healthcare provider of any other medications they are currently taking, including rilpivirine-containing products [Contraindications (4)], high dose methotrexate [Warnings and Precautions (5.10)] andover-the-counter medications.
+
+Pregnancy Inform female patients of reproductive potential that pantoprazole sodium may cause fetal harm and to inform their prescriber of a known or suspected pregnancy [see Use in Specific Populations (8.1)].
 
 Administration
 

@@ -72,6 +72,8 @@ See the end of this Medication Guide for a complete list of ingredients in panto
 
 • allergic to any proton pump inhibitor (PPI) medicine.
 
+• are taking a medicine that contains rilpivirine (EDURANT, COMPLERA, ODEFSEY) used to treat HIV-1 (Human Immunodeficiency Virus).
+
 What should I tell my doctor before taking pantoprazole sodium delayed-release tablets?
 
 Before taking pantoprazole sodium delayed-release tablets, tell your doctor if you:
@@ -83,7 +85,7 @@ Before taking pantoprazole sodium delayed-release tablets, tell your doctor if y
 • have any other medical conditions
 
 • are pregnant or plan to become pregnant.
-It is not known if pantoprazole sodium delayed-release tablets will harm your unborn baby.
+Pantoprazole sodium delayed-release tablets may harm your unborn baby.
 
 • are breastfeeding or plan to breastfeed.
 Pantoprazole sodium may pass into your milk.
@@ -259,6 +261,6 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally –500 090 INDIA
 
-Revised:1116
+Revised:0717
 
-Dispense with medication guide available at: www.drreddys.com/medguide/pantoprazoledrtabs.pdf
+Dispense with Medication Guide available at: www.drreddys.com/medguide/pantoprazoledrtabs.pdf
