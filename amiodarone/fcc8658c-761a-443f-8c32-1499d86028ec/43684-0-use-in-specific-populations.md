@@ -4,15 +4,38 @@
 
 Pregnancy Category D [see Warnings and Precautions (5.8)].
 
-In addition to causing infrequent congenital goiter/hypothyroidism and hyperthyroidism, amiodarone has caused a variety of adverse effects in animals.
+### Teratogenic Effects
 
-In a reproductive study in which amiodarone was given intravenously to rabbits at dosages of 5, 10, or 25 mg/kg per day (about 0.1, 0.3, and 0.7 times the maximum recommended human dose [MRHD] on a body surface area basis), maternal deaths occurred in all groups, including controls.
-Embryotoxicity (as manifested by fewer full-term fetuses and increased resorptions with concomitantly lower litter weights) occurred at dosages of 10 mg/kg and above.
-No evidence of embryotoxicity was observed at 5 mg/kg and no teratogenicity was observed at any dosages.
+Amiodarone and desethylamiodarone cross the placenta.
 
-In a teratology study in which amiodarone was administered by continuous IV infusion to rats at dosages of 25, 50, or 100 mg/kg per day (about 0.4, 0.7, and 1.4 times the MRHD when compared on a body surface area basis), maternal toxicity (as evidenced by reduced weight gain and food consumption) and embryotoxicity (as evidenced by increased resorptions, decreased live litter size, reduced body weights, and retarded sternum and metacarpal ossification) were observed in the 100 mg/kg group.
+Reported risks include:
 
-Use amiodarone during pregnancy only if the potential benefit to the mother justifies the risk to the fetus.
+- •neonatal bradycardia, QT prolongation, and periodic ventricular extrasystoles
+- •neonatal hypothyroidism (with or without goiter) detected antenatally or in the newborn and reported even after a few days of exposure
+- •neonatal hyperthyroxinemia
+- •neurodevelopmental abnormalities independent of thyroid function, including speech delay and difficulties with written language and arithmetic, delayed motor development, and ataxia.
+- •jerk nystagmus with synchronous head titubation
+- •fetal growth retardation
+- •premature birth
+
+Amiodarone has caused a variety of adverse effects in animals.
+
+Amiodarone was given intravenously to rabbits at dosages of 5 mg/kg per day, 10 mg/kg per day, or 25 mg/kg per day (about 0.1, 0.3, and 0.7 times the human intravenous maintenance dose of 0.5 mg/min on a body surface area basis), during gestation days 8 to 16 (organogenesis).
+The incidence of maternal deaths increased with increasing dose and occurred in all treated groups, and controls.
+Mean fetal weights were significantly decreased in the low and middle dose groups and embryotoxicity (as manifested by fewer full- term fetuses and increased resorptions) occurred at dosages of 10 mg/kg and above.
+There were no significant differences in the number of minor fetal abnormalities and no major fetal abnormalities were observed.
+
+Amiodarone was administered by continuous intravenous infusion to rats at dosages of 25 mg/kg per day, 50 mg/kg per day, or 100 mg/kg per day (about 0.3, 0.7, and 1.3 times the human intravenous maintenance dose of 0.5 mg/min on a body surface area basis) during gestation days 8 to 16 (organogenesis).
+Maternal toxicity (manifest as reduced weight gain and food consumption) and embryotoxicity (manifest as increased resorptions, decreased live litter size and fetal body weights, and delayed sternal and metacarpal ossification) were observed in the 100 mg/kg group.
+The delayed ossification was reversible and related to decreased fetal weight.
+Fetal thyroid tissues appeared normal in all groups.
+
+### Nonteratogenic Effects
+
+Very high concentrations of amiodarone and desethylamiodarone may be found in testes.
+Elevated follicle-stimulating hormone and luteinizing hormone levels, suggestive of testicular dysfunction, have been reported in men on long-term amiodarone treatment.
+
+While planning pregnancy after discontinuation of amiodarone treatment, consider the long half-life of amiodarone and its metabolite DEA.
 
 ## 8.2 Labor and Delivery
 
@@ -21,7 +44,7 @@ Preclinical studies in rodents have not shown any effect on the duration of gest
 
 ## 8.3 Nursing Mothers
 
-Amiodarone and one of its major metabolites, desethylamiodarone (DEA), are excreted in human milk, suggesting that breastfeeding could expose the nursing infant to a significant dose of the drug.
+Amiodarone and one of its major metabolites, desethylamiodarone (DEA), are excreted in human milk, suggesting that breast-feeding could expose the nursing infant to a significant dose of the drug.
 Nursing offspring of lactating rats administered amiodarone have demonstrated reduced viability and reduced body weight gains.
 The risk of exposing the infant to amiodarone must be weighed against the potential benefit of arrhythmia suppression in the mother.
 Advise the mother to discontinue nursing.

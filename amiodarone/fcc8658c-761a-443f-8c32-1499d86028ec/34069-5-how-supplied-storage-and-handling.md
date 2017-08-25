@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Amiodarone Hydrochloride Injection, 50 mg/mL, is available in:
+Amiodarone Hydrochloride Injection USP, 50 mg/mL, is available in:
 
 150 mg/3 mL - single-dose vial - NDC 67457-153-03, packages of 10.
 

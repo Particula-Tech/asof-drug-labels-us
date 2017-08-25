@@ -6,12 +6,12 @@ The recommended starting dose of amiodarone is about 1000 mg over the first 24 h
 
 Table 1: AMIODARONE DOSE RECOMMENDATIONS: FIRST 24 HOURS
 
-| Loading infusions | First Rapid: | 150 mg over the FIRST 10 minutes (15 mg/min). Add 3 mL of amiodarone (150 mg) to 100 mL D5W (concentration = 1.5 mg/mL). Infuse 100 mL over 10 minutes. |
+| Loading Infusions | First Rapid: | 150 mg over the FIRST 10 minutes (15 mg/min). Add 3 mL of amiodarone (150 mg) to 100 mL D5W (concentration = 1.5 mg/mL). Infuse 100 mL over 10 minutes. |
 | --- | --- | --- |
-|  | Followed by Slow: | 360 mg over the NEXT 6 hours (1 mg/min). Add 18 mL of amiodarone (900 mg) to 500 mL D5W (concentration = 1.8 mg/mL) |
-| Maintenance infusion |  | 540 mg over the REMAINING 18 hours (0.5 mg/min). Decrease the rate of the slow loading infusion to 0.5 mg/min. |
+|  | Followed by Slow: | 360 mg over the NEXT 6 hours (1 mg/min). Add 18 mL of amiodarone (900 mg) to 500 mL D5W (concentration = 1.8 mg/mL). Infuse 200 mL at a rate of 0.556 mL/min. |
+| Maintenance Infusion |  | 540 mg over the REMAINING 18 hours (0.5 mg/min). Decrease the rate of the slow loading infusion to 0.278 mL/min. |
 
-After the first 24 hours, continue the maintenance infusion rate of 0.5 mg/min (720 mg per 24 hours) utilizing a concentration of 1 to 6 mg/mL (Use a central venous catheter for amiodarone concentrations greater than 2 mg/mL).
+After the first 24 hours, continue the maintenance infusion rate of 0.5 mg/min (720 mg per 24 hours) utilizing a concentration of 1 mg/mL to 6 mg/mL (Use a central venous catheter for amiodarone concentrations greater than 2 mg/mL).
 The rate of the maintenance infusion may be increased to achieve effective arrhythmia suppression.
 
 In the event of breakthrough episodes of VF or hemodynamically unstable VT, use 150 mg supplemental infusions of amiodarone (mixed in 100 mL of D5W and infused over 10 minutes to minimize the potential for hypotension).
@@ -45,33 +45,53 @@ Polysorbate 80, a component of amiodarone hydrochloride injection, is also known
 
 Amiodarone does not need to be protected from light during administration.
 
-NOTE: Inspect parenteral drug products for particulate matter and discoloration prior to administration, whenever solution and container permit.
+NOTE: Inspect parenteral drug products for particulate matter and discoloration prior to administration, whenever solution and container permit – solution should be clear.
+
+CAUTION: Do not use plastic containers in series connections.
+Such use could result in air embolism due to residual air being drawn from the primary container before the administration of the fluid from the secondary container is complete.
 
 Table 2: AMIODARONE HCl SOLUTION STABILITY
 
 | Solution | Concentration (mg/mL) | Container | Comments |
 | --- | --- | --- | --- |
-| 5% Dextrose in Water (D5W) | 1 to 6 | PVC | Physically compatible, with amiodarone loss < 10% at 2 hours at room temperature. |
-| 5% Dextrose in Water (D5W) | 1 to 6 | Polyolefin, Glass | Physically compatible, with no amiodarone loss at 24 hours at room temperature. |
+| 5% Dextrose in Water (D5W) | 1.0 to 6.0 | PVC | Physically compatible, with amiodarone loss < 10% at 2 hours at room temperature. |
+| 5% Dextrose in Water (D5W) | 1.0 to 6.0 | Polyolefin, Glass | Physically compatible, with no amiodarone loss at 24 hours at room temperature. |
 
 Admixture Incompatibility
 
-Amiodarone in D5W is incompatible with the drugs shown in Table 3.
+Amiodarone in D5W Injection forms precipitates with the drugs shown in Table 3.
+If coadministration of the following drugs is necessary, use separate intravenous administration lines.
 
 Table 3: Y-SITE INJECTION INCOMPATIBILITY
 
-| Drug | Vehicle | Amiodarone Concentration | Comments |
-| --- | --- | --- | --- |
-| Aminophylline | D5W | 4 mg/mL | Precipitate |
-| Cefamandole Nafate | D5W | 4 mg/mL | Precipitate |
-| Cefazolin Sodium | D5W | 4 mg/mL | Precipitate |
-| Mezlocillin Sodium | D5W | 4 mg/mL | Precipitate |
-| Heparin Sodium | D5W | -- | Precipitate |
-| Sodium Bicarbonate | D5W | 3 mg/mL | Precipitate |
+| Drug | Vehicle | Amiodarone Concentration |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Aminophylline | D5W; NS | 4 mg/mL |  |  |  |  |  |  |  |
+| Amoxicillin Sodium-Clavulanic Acid | unknown | 12.5 mg/mL |  |  |  |  |  |  |  |
+| Ampicillin Sodium-Sulbactam Sodium | NS | 6 mg/mL |  |  |  |  |  |  |  |
+| Argatroban | D5W | 1.8 mg/mL |  |  |  |  |  |  |  |
+| Bivalirudin | D5W | 4 mg/mL |  |  |  |  |  |  |  |
+| Cefamandole Nafate | D5W | 4 mg/mL |  |  |  |  |  |  |  |
+| Cefazolin Sodium | D5W | 4 mg/mL |  |  |  |  |  |  |  |
+| Ceftazidime | D5W | 6 mg/mL |  |  |  |  |  |  |  |
+| Digoxin | D5W | 6 mg/mL |  |  |  |  |  |  |  |
+| Furosemide (10 mg/mL) | D5W | 6 mg/mL |  |  |  |  |  |  |  |
+| Mezlocillin Sodium | D5W | 4 mg/mL |  |  |  |  |  |  |  |
+| Heparin Sodium | D5W | -- |  |  |  |  |  |  |  |
+| Imipenem-Cilastin Sodium | D5W | 6 mg/mL |  |  |  |  |  |  |  |
+| Magnesium Sulfate (500 mg/mL) | D5W | 6 mg/mL |  |  |  |  |  |  |  |
+| Micafungin | NS | 4 mg/mL |  |  |  |  |  |  |  |
+| Piperacillin Sodium –Tazobactam Sodium | D5W | 6 mg/mL |  |  |  |  |  |  |  |
+| Potassium Phosphates | D5W | 6 mg/mL |  |  |  |  |  |  |  |
+| Sodium Bicarbonate | D5W | 3 mg/mL |  |  |  |  |  |  |  |
+| Sodium Nitroprusside | D5W | 1.5 mg/mL, 6 mg/mL and 15 mg/mL |  |  |  |  |  |  |  |
+| Sodium Phosphates | D5W | 6 mg/mL |  |  |  |  |  |  |  |
+| D5W = Dextrose 5% in Sterile Water, NS = Normal Saline |  |  |  |  |  |  |  |  |  |
 
 Intravenous to Oral Transition
 
 Patients whose arrhythmias have been suppressed by amiodarone may be switched to oral amiodarone.
+The optimal dose for changing from intravenous to oral administration of amiodarone will depend on the dose of intravenous amiodarone already administered, as well as the bioavailability of oral amiodarone.
 When changing to oral amiodarone therapy, clinical monitoring is recommended, particularly for elderly patients.
 See package insert for oral amiodarone.
 
@@ -84,6 +104,6 @@ Table 4: RECOMMENDATIONS FOR ORAL DOSAGE AFTER INTRAVENOUS INFUSION
 
 | Duration of Amiodarone InfusionAssuming a 720 mg/day infusion (0.5 mg/min). | Initial Daily Dose of Oral Amiodarone |
 | --- | --- |
-| < 1 week | 800 to 1600 mg |
-| 1 - 3 weeks | 600 to 800 mg |
+| < 1 week | 800 mg to 1600 mg |
+| 1 to 3 weeks | 600 mg to 800 mg |
 | > 3 weeksIntravenous amiodarone is not intended for maintenance treatment. | 400 mg |

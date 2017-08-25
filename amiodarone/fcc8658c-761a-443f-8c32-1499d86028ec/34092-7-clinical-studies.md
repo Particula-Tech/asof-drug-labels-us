@@ -5,7 +5,7 @@ A placebo-controlled study of intravenous amiodarone (300 mg over 2 hours follow
 A baseline-controlled study using a similar IV regimen in patients with recurrent, refractory VT/VF also showed rapid onset of antiarrhythmic activity; amiodarone therapy reduced episodes of VT by 85% compared to baseline.
 
 The acute effectiveness of intravenous amiodarone in suppressing recurrent VF or hemodynamically unstable VT is supported by two randomized, parallel, dose-response studies of approximately 300 patients each.
-In these studies, patients with at least two episodes of VF or hemodynamically unstable VT in the preceding 24 hours were randomly assigned to receive doses of approximately 125 or 1000 mg over the first 24 hours, an 8-fold difference.
+In these studies, patients with at least two episodes of VF or hemodynamically unstable VT in the preceding 24 hours were randomly assigned to receive doses of approximately 125 mg or 1000 mg over the first 24 hours, an 8-fold difference.
 In one study, a middle dose of approximately 500 mg was evaluated.
 The dose regimen consisted of an initial rapid loading infusion, followed by a slower 6-hour loading infusion, and then an 18-hour maintenance infusion.
 The maintenance infusion was continued up to hour 48.

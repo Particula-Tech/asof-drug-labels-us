@@ -1,127 +1,69 @@
 # 7 DRUG INTERACTIONS
 
-Amiodarone is metabolized to the active metabolite desethylamiodarone by the cytochrome P450 (CYP450) enzyme group, specifically cytochromes P4503A4 (CYP3A) and CYP2C8.
-The CYP3A isoenzyme is present in both the liver and intestines.
+## 7.1 Pharmacodynamic Interactions
 
-Amiodarone is an inhibitor of CYP3A.
-Therefore, amiodarone has the potential for interactions with drugs or substances that may be substrates, inhibitors or inducers of CYP3A.
-While only a limited number of in vivo drug-drug interactions with amiodarone have been reported, chiefly with the oral formulation, the potential for other interactions should be anticipated.
-This is especially important for drugs associated with serious toxicity, such as other antiarrhythmics.
-If such drugs are needed, reassess their dose and, where appropriate, measure plasma concentrations.
-In view of the long and variable half-life of amiodarone, potential for drug interactions exists not only with concomitant medication but also with drugs administered after discontinuation of amiodarone.
+### Drugs Prolonging the QT interval
 
-Since amiodarone is a substrate for CYP3A and CYP2C8, drugs/substances that inhibit these isoenzymes may decrease the metabolism and increase serum concentration of amiodarone.
-Reported examples include the following:
+Co-administration of drugs prolonging the QT interval (such as class I and III antiarrhythmics, lithium, certain phenothiazines, tricyclic antidepressants, certain fluoroquinolone and macrolide antibiotics, azole antifungals, halogenated inhalation anesthetic agents) increases the risk of Torsade de Pointes.
+In general, avoid concomitant use of drugs that prolong the QT interval [see Warnings and Precautions (5.4)].
 
-Protease inhibitors:
+### Drugs That Slow Heart Rate
 
-Protease inhibitors are known to inhibit CYP3A to varying degrees.
-A case report of one patient taking amiodarone 200 mg and indinavir 800 mg three times a day resulted in increases in amiodarone concentrations from 0.9 mg/L to 1.3 mg/L.
-DEA concentrations were not affected.
-There was no evidence of toxicity.
-Consider monitoring for amiodarone toxicity and serial measurement of amiodarone serum concentration during concomitant protease inhibitor therapy.
+Concomitant use of drugs with depressant effects on the sinus and AV nodes (e.g., digoxin, beta blockers, verapamil, diltiazem, ivabradine, clonidine) can potentiate the electrophysiologic and hemodynamic effects of amiodarone, resulting in bradycardia, sinus arrest, and AV block.
+Monitor heart rate in patients on amiodarone and concomitant drugs that slow heart rate.
 
-Histamine H1 antagonists:
+## 7.2 Pharmacokinetic Interactions
 
-Loratadine, a non-sedating antihistaminic, is metabolized primarily by CYP3A.
-QT interval prolongation and TdP have been reported with the coadministration of loratadine and amiodarone.
+### Effect of Other Drugs on Amiodarone
 
-Histamine H2 antagonists:
+Amiodarone is metabolized to the active metabolite desethylamiodarone (DEA) by the cytochrome P450 (CYP450) enzyme group, specifically CYP3A and CYP2C8.
 
-Cimetidine inhibits CYP3A and can increase serum amiodarone levels.
+Amiodarone has the potential for interactions with drugs or substances that may be substrates, inhibitors or inducers of CYP450 enzymes (e.g., inhibitors such as protease inhibitors, grapefruit juice, certain fluoroquinolone and macrolide antibiotics, azole antifungals and inducers such as St. John’s Wort) or P-glycoprotein.
+In view of the long and variable half- life of amiodarone, potential for drug interactions exists not only with concomitant medications but also with drugs administered after discontinuation of amiodarone [see Clinical Pharmacology (12.3)].
 
-Antidepressants:
+Patients should avoid grapefruit juice beverages while taking amiodarone because exposure to amiodarone is significantly increased [see Clinical Pharmacology (12.3)].
 
-Trazodone, an antidepressant, is metabolized primarily by CYP3A.
-QT interval prolongation and TdP have been reported with the coadministration of trazodone and amiodarone.
+### Effect of Amiodarone on Other Drugs
 
-Other substances:
+Amiodarone and DEA are inhibitors of P-glycoprotein and certain CYP450 enzymes, including CYP1A2, CYP2C9, CYP2D6, and CYP3A [see Clinical Pharmacology (12.3)].
 
-Grapefruit juice given to healthy volunteers increased amiodarone AUC by 50% and Cmax by 84%, resulting in increased plasma levels of amiodarone.
-Do not take grapefruit juice during treatment with amiodarone.
+#### Antiarrhythmics
 
-Amiodarone inhibits p-glycoprotein and certain CYP450 enzymes, including CYP1A2, CYP2C9, CYP2D6, and CYP3A.
-This inhibition can result in unexpectedly high plasma levels of other drugs which are metabolized by those CYP450 enzymes or are substrates for p-glycoprotein.
-Reported examples of this interaction include the following:
-
-Immunosuppressives:
-
-Cyclosporine (CYP3A substrate) administered in combination with oral amiodarone has been reported to produce persistently elevated plasma concentrations of cyclosporine resulting in elevated creatinine, despite reduction in dose of cyclosporine.
-
-HMG-CoA Reductase Inhibitors:
-
-Simvastatin (CYP3A substrate) in combination with amiodarone has been associated with reports of myopathy/rhabdomyolysis.
-
-Cardiovasculars:
-
-Cardiac glycosides: In patients receiving digoxin therapy, administration of oral amiodarone regularly results in an increase in serum digoxin concentration that may reach toxic levels with resultant clinical toxicity.
-Amiodarone taken concomitantly with digoxin increases the serum digoxin concentration by 70% after one day.
-On administration of oral amiodarone, review the need for digitalis therapy and reduce the dose of digitalis by approximately 50% or discontinue digitalis.
-If digitalis treatment is continued, monitor serum levels closely and observe patients for clinical evidence of toxicity.
-
-Antiarrhythmics:
-
-Other antiarrhythmic drugs, such as quinidine, procainamide, disopyramide, and phenytoin, have been used concurrently with amiodarone.
-There have been case reports of increased steady-state levels of quinidine, procainamide, and phenytoin during concomitant therapy with amiodarone.
-Phenytoin decreases serum amiodarone levels.
-Amiodarone taken concomitantly with quinidine increases quinidine serum concentration by 33% after two days.
-Amiodarone taken concomitantly with procainamide for less than seven days increases plasma concentrations of procainamide and n-acetyl procainamide by 55% and 33%, respectively.
-Reduce quinidine and procainamide doses by one-third when either is administered with amiodarone.
-
-Plasma levels of flecainide have been reported to increase in the presence of oral amiodarone; adjust the dose of flecainide when these drugs are administered concomitantly.
+The metabolism of quinidine, procainamide, and flecainide can be inhibited by amiodarone.
 In general, initiate any added antiarrhythmic drug at a lower than usual dose and monitor the patient carefully.
 
-Reserve the combination of amiodarone with other antiarrhythmic therapy to patients with life-threatening ventricular arrhythmias who are incompletely responsive to a single agent or incompletely responsive to amiodarone.
-During transfer to oral amiodarone, reduce the dose levels of previously administered agents by 30 to 50% several days after the addition of oral amiodarone.
-Review the continued need for the other antiarrhythmic agent after the effects of amiodarone have been established, and attempt discontinuation.
-If the treatment is continued, carefully monitor these patients for adverse effects, especially for conduction disturbances and exacerbation of tachyarrhythmias.
-In amiodarone-treated patients who require additional antiarrhythmic therapy, the initial dose of such agents should be approximately half of the usual recommended dose.
+During transfer to oral amiodarone, reduce the dose levels of previously administered antiarrhythmic agents by 30% to 50% several days after the addition of oral amiodarone.
+Review the continued need for the other antiarrhythmic agent after the effects of amiodarone have been established, and attempt discontinuation [see Clinical Pharmacology (12.3)].
 
-Antihypertensives:
+#### Digoxin
 
-Use amiodarone with caution in patients receiving β-receptor blocking agents (e.g., propranolol, a CYP3A inhibitor) or calcium channel antagonists (e.g., verapamil, a CYP3A substrate, and diltiazem, a CYP3A inhibitor) because of the possible potentiation of bradycardia, sinus arrest, and AV block; if necessary, amiodarone can continue to be used after insertion of a pacemaker in patients with severe bradycardia or sinus arrest.
+In patients receiving digoxin therapy, administration of oral amiodarone results in an increase in serum digoxin concentration.
+Reduce dose of digoxin by half or discontinue digoxin.
+If digitalis treatment is continued, monitor serum levels closely and observe patients for clinical evidence of toxicity [see Clinical Pharmacology (12.3)].
 
-Anticoagulants:
+HMG-CoA Reductase Inhibitors
+
+Limit the dose of simvastatin in patients on amiodarone to 20 mg daily.
+Limit the daily dose of lovastatin to 40 mg.
+Lower starting and maintenance doses of other CYP3A4 substrates (e.g., atorvastatin) may be required as amiodarone may increase the plasma concentration of these drugs.
+
+#### Anticoagulants
 
 Potentiation of warfarin-type (CYP2C9 and CYP3A substrate) anticoagulant response is almost always seen in patients receiving amiodarone and can result in serious or fatal bleeding.
-Since the concomitant administration of warfarin with amiodarone increases the prothrombin time by 100% after 3 to 4 days, reduce the dose of the anticoagulant by one-third to one-half, and monitor prothrombin times closely.
+Since the concomitant administration of warfarin with amiodarone increases INR by 100% after 3 to 4 days, reduce the dose of the anticoagulant by one-third to one-half, and monitor INR closely.
 
-Clopidogrel, an inactive thienopyridine prodrug, is metabolized in the liver by CYP3A to an active metabolite.
-A potential interaction between clopidogrel and amiodarone resulting in ineffective inhibition of platelet aggregation has been reported.
+Cyclosporine (CYP3A substrate)
 
-Some drugs/substances are known to accelerate the metabolism of amiodarone by stimulating the synthesis of CYP3A (enzyme induction).
-This may lead to low amiodarone serum levels and potential decrease in efficacy.
-Reported examples of this interaction include the following:
+Administered in combination with oral amiodarone has been reported to produce persistently elevated plasma concentrations of cyclosporine resulting in elevated creatinine, despite reduction in dose of cyclosporine.
+Monitor cyclosporine drug levels and renal function in patients taking both drugs.
 
-Antibiotics:
+Increased steady-state levels of phenytoin during concomitant therapy with amiodarone have been reported.
+Monitor phenytoin levels in patients taking both drugs.
 
-Rifampin is a potent inducer of CYP3A.
-Administration of rifampin concomitantly with oral amiodarone has been shown to result in decreases in serum concentrations of amiodarone and desethylamiodarone.
+## 7.3 Serious Symptomatic Bradycardia When Co-administered with Ledipasvir/Sofosbuvir or with Sofosbuvir with Simeprevir
 
-Other substances, including herbal preparations:
-
-St. John's Wort (Hypericum perforatum) induces CYP3A.
-Since amiodarone is a substrate for CYP3A, St. John's Wort likely reduces amiodarone levels.
-
-Other reported interactions with amiodarone:
-
-Fentanyl (CYP3A substrate) in combination with amiodarone may cause hypotension, bradycardia, and decreased cardiac output.
-
-Sinus bradycardia has been reported with oral amiodarone in combination with lidocaine (CYP3A substrate) given for local anesthesia.
-Seizure, associated with increased lidocaine concentrations, has been reported with concomitant administration of intravenous amiodarone.
-
-Dextromethorphan is a substrate for both CYP2D6 and CYP3A.
-Amiodarone inhibits CYP2D6.
-
-Cholestyramine increases enterohepatic elimination of amiodarone and may reduce its serum levels and t½.
-
-Disopyramide causes QT prolongation which could induce arrhythmia.
-
-Fluoroquinolones, macrolide antibiotics, and azoles are known to cause QTc prolongation.
-There have been reports of QTc prolongation, with or without TdP, in patients taking amiodarone when fluoroquinolones, macrolide antibiotics, or azoles were administered concomitantly [see Warnings and Precautions (5.4)].
-
-Hemodynamic and electrophysiologic interactions have also been observed after concomitant administration with propranolol, diltiazem, and verapamil.
-
-Volatile Anesthetic Agents: Patients who are on amiodarone therapy may be more sensitive to the myocardial depressant and conduction defects of halogenated inhalational anesthetics [see Warnings and Precautions (5.9)].
-
-In addition to the interactions noted above, chronic (> 2 weeks) oral amiodarone administration impairs metabolism of phenytoin, dextromethorphan, and methotrexate.
+Postmarketing cases of symptomatic bradycardia, some requiring pacemaker insertion and at least one fatal, have been reported when ledipasvir/sofosbuvir or sofosbuvir with simeprevir were initiated in patients on amiodarone.
+Bradycardia generally occurred within hours to days, but in some cases up to 2 weeks after initiating antiviral treatment.
+Bradycardia generally resolved after discontinuation of antiviral treatment.
+The mechanism for this effect is unknown.
+Monitor heart rate in patients taking or recently discontinuing amiodarone when starting antiviral treatment.
