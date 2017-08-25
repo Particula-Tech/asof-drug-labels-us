@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA022056"
+  ],
+  "inn": "omeprazole",
+  "labeler": "Covis Pharma",
+  "package_ndcs": [
+    "70515-610-01",
+    "70515-625-01"
+  ],
+  "products": [
+    {
+      "form": "GRANULE, DELAYED RELEASE",
+      "generic": "omeprazole magnesium",
+      "name": "Prilosec"
+    }
+  ],
+  "setid": "b6761f84-53ac-4745-a8c8-1e5427d7e179",
+  "source": "dailymed"
+}
