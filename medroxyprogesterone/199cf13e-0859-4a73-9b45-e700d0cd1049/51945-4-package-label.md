@@ -2,7 +2,9 @@
 
 NDC 0009-0746-30 Rx only
 
-Depo-Provera® Contraceptive Injection medroxyprogesterone acetate injectable suspension, USP
+Depo-Provera® Contraceptive Injection
+
+medroxyPROGESTERone acetate injectable suspension, USP
 
 150 mg/mL
 
@@ -14,7 +16,7 @@ NDC 0009-0746-30 Rx only
 
 Depo-Provera® Contraceptive Injection
 
-medroxyprogesterone acetate injectable suspension, USP
+medroxyPROGESTERone acetate injectable suspension, USP
 
 150 mg/mL
 
