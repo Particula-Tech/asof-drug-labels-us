@@ -37,5 +37,3 @@ Bottles of 500 NDC 55111-281-05
 Unit dose packages of 100 (10 x 10) NDC 55111-281-78
 
 Levofloxacin tablets should be stored at 20° to 25°C (68° to 77°F) (See Controlled Room Temperature) in well-closed containers.
-
-## 16.1 Levofloxacin Tablets
