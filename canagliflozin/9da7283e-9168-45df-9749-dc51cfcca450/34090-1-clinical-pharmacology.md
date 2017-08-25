@@ -132,7 +132,7 @@ Canagliflozin was negligibly removed by hemodialysis.
 Metformin
 
 Following a single dose administration of metformin extended-release 500 mg in patients with mild and moderate renal failure (based on measured creatinine clearance), the oral and renal clearance of metformin were decreased by 33% and 50% and 16% and 53%, respectively [see Warnings and Precautions (5.5)].
-Metformin peak and systemic exposure was 27% and 61% greater, respectively in mild renal impaired and 74% and 2.36-fold greater in moderate renal impaired patients as compared to healthy subjects.
+Metformin peak and systemic exposure was 27% and 61% greater, respectively in mild renal impaired and 74% and 2.36-fold greater in moderate renal impaired patients as compared to healthy subjects [see Contraindications (4) and Warnings and Precautions (5.1)].
 
 Hepatic Impairment
 

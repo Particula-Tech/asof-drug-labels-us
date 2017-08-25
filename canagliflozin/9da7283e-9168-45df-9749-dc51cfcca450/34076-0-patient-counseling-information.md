@@ -10,6 +10,7 @@ Advise the patient to read the FDA-Approved Patient Labeling (Medication Guide).
   Advise patients that storage in a pill box or pill organizer is allowed for up to 30 days.
 - Counsel patients against excessive alcohol intake while receiving INVOKAMET XR.
 - Inform patients about importance of regular testing of renal function and hematological parameters while receiving INVOKAMET XR.
+- Instruct patients to inform their doctor that they are taking INVOKAMET XR prior to any surgical or radiological procedure, as temporary discontinuation of INVOKAMET XR may be required until renal function has been confirmed to be normal [see Warnings and Precautions (5.1)].
 - Advise patients to seek medical advice promptly during periods of stress such as fever, trauma, infection, or surgery, as medication requirements may change.
 - Instruct patients that INVOKAMET XR must be swallowed whole and never crushed, cut, or chewed, and that the inactive ingredients may occasionally be eliminated in the feces as a soft mass that may resemble the original tablet.
 - Instruct patients to take INVOKAMET XR only as prescribed once daily with the morning meal.

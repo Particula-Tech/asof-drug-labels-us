@@ -10,8 +10,8 @@ Consider more frequent monitoring of these patients.
 
 Drugs That Reduce Metformin Clearance
 
-Drugs that are eliminated by renal tubular secretion (e.g. cationic drugs such as cimetidine) have the potential for interaction with metformin by competing for common renal tubular transport systems, and may increase the accumulation of metformin and the risk for lactic acidosis [see Clinical Pharmacology (12.3)].
-Consider more frequent monitoring of these patients.
+Concomitant use of drugs that interfere with common renal tubular transport systems involved in the renal elimination of metformin (e.g., organic cationic transporter-2 [OCT2] / multidrug and toxin extrusion [MATE] inhibitors such as ranolazine, vandetanib, dolutegravir, and cimetidine) could increase systemic exposure to metformin and may increase the risk for lactic acidosis [see Clinical Pharmacology (12.3)].
+Consider the benefits and risks of concomitant use.
 
 Alcohol
 
