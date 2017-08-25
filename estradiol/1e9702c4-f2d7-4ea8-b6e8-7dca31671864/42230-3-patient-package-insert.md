@@ -51,6 +51,7 @@ Do not start using Climara if you:
   If you have or have had cancer, talk with your healthcare provider about whether you should use Climara.
 - •had a stroke or heart attack
 - •currently have or have had blood clots
+- •are at a high risk of developing blood clots
 - •currently have or have had liver problems
 - •have been diagnosed with a bleeding disorder
 - •are allergic to Climara or any of its ingredients

@@ -13,9 +13,9 @@ The structural formula is:
 The Climara transdermal system comprises three layers.
 Proceeding from the visible surface toward the surface attached to the skin, these layers are:
 
-- 1.A translucent polyethylene film.
-- 2.An acrylate adhesive matrix containing estradiol USP.
-- 3.A protective liner of siliconized or fluoropolymer-coated polyester film is attached to the adhesive surface and must be removed before the system can be used.
+1. 1.A translucent polyethylene film.
+2. 2.An acrylate adhesive matrix containing estradiol USP.
+3. 3.A protective liner of siliconized or fluoropolymer-coated polyester film is attached to the adhesive surface and must be removed before the system can be used.
 
 The active component of the transdermal system is estradiol.
 The remaining components of the transdermal system (acrylate copolymer adhesive, fatty acid esters, and polyethylene backing) are pharmacologically inactive.

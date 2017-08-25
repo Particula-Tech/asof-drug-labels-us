@@ -6,6 +6,7 @@ Climara is contraindicated in women with any of the following conditions:
 - •Known, suspected, or history of breast cancer
 - •Known or suspected estrogen-dependent neoplasia
 - •Active DVT, PE, or a history of these conditions
+- •high risk of venous thrombosis (VTE) or arterial thrombosis (ATE)
 - •Active arterial thromboembolic disease (for example, stroke and MI), or a history of these conditions
 - •Known anaphylactic reaction or angioedema with Climara
 - •Known liver impairment or disease

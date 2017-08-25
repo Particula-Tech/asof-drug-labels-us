@@ -93,8 +93,11 @@ In addition, mammography examinations should be scheduled based on patient age, 
 
 The WHI estrogen plus progestin substudy reported a statistically non-significant increased risk of ovarian cancer.
 After an average follow-up of 5.6 years, the relative risk for ovarian cancer for CE plus MPA versus placebo was 1.58 (95 percent CI, 0.77-3.24).
-The absolute risk for CE plus MPA versus placebo was 4 versus 3 cases per 10,000 women-years.7 In some epidemiological studies, the use of estrogen plus progestin and estrogen-only products, in particular for 5 or more years, has been associated with an increased risk of ovarian cancer.
-However, the duration of exposure associated with increased risk is not consistent across all epidemiologic studies, and some report no association.
+The absolute risk for CE plus MPA versus placebo was 4 versus 3 cases per 10,000 women-years.7 A meta-analysis of 17 prospective and 35 retrospective epidemiology studies found that women who used hormonal therapy for menopausal symptoms had an increased risk for ovarian cancer.
+The primary analysis, using case-control comparisons, included 12,110 cancer cases from the 17 prospective studies.
+The relative risks associated with current use of hormonal therapy was 1.41 (95% confidence interval [CI] 1.32 to 1.50); there was no difference in the risk estimates by duration of the exposure (less than 5 years [median of 3 years]vs. greater than 5 years [median of 10 years] of use before the cancer diagnosis).
+The relative risk associated with combined current and recent use (discontinued use within 5 years before cancer diagnosis) was 1.37 (95% CI 1.27 to 1.48), and the elevated risk was significant for both estrogen-alone and estrogen plus progestin products.
+The exact duration of hormone therapy use associated with an increased risk of ovarian cancer, however, is unknown.
 
 ## 5.3 Probable Dementia
 
@@ -108,7 +111,7 @@ In the WHIMS estrogen plus progestin ancillary study, a population of 4,532 post
 After an average follow-up of 4 years, 40 women in the CE plus MPA group and 21 women in the placebo group were diagnosed with probable dementia.The relative risk of probable dementia for CE plus MPA versus placebo was 2.05 (95 percent CI, 1.21-3.48).
 The absolute risk of probable dementia for CE plus MPA versus placebo was 45 versus 22 cases per 10,000 women-years8[see Use in Specific Populations (8.5), and Clinical Studies (14.4)].
 
-When data from the two populations in the WHIMS estrogen-alone and estrogen plus progestin ancillary studies were pooled as planned in the WHIMS protocol, the reported overall relative risk for probable dementia was 1.76 (95 percent CI, 1.19-2.60).
+When data from the two populations in the WHIMS estrogen-alone and estrogen plus progestin ancillary studies were pooled as planned in the WHIMS protocol, the reported overall RR for probable dementia was 1.76 (95 percent CI, 1.19-2.60).
 Since both ancillary studies were conducted in women 65 to 79 years of age, it is unknown whether these findings apply to younger postmenopausal women8[see Use in Specific Populations (8.5), and Clinical Studies (14.4)].
 
 ## 5.4 Gallbladder Disease
@@ -184,13 +187,15 @@ Serum follicle stimulating hormone (FSH) and estradiol levels have not been show
 
 ## 5.18 Drug-Laboratory Test Interactions
 
-- Accelerated prothrombin time, partial thromboplastin time, and platelet aggregation time; increased platelet count; increased factors II, VII antigen, VIII antigen, VIII coagulant activity, IX, X, XII, VII-X complex, II-VII-X complex, and beta-thromboglobulin; decreased levels of antifactor Xa and antithrombin III, decreased antithrombin III activity; increased levels of fibrinogen and fibrinogen activity; increased plasminogen antigen and activity.
-- Increased TBG levels leading to increased circulating total thyroid hormone, as measured by protein-bound iodine (PBI), T4 levels (by column or by radioimmunoassay) or T3 levels by radioimmunoassay.
-  T3 resin uptake is decreased, reflecting the elevated TBG.
-  Free T4 and free T3 concentrations are unaltered.
-  Women on thyroid replacement therapy may require higher doses of thyroid hormone.
-- Other binding proteins may be elevated in serum, for example, corticosteroid binding globulin (CBG), sex hormone-binding globulin (SHBG), leading to increased total circulating corticosteroids and sex steroids, respectively.
-  Free hormone concentrations, such as testosterone and estradiol, may be decreased.
-  Other plasma proteins may be increased (angiotensinogen/renin substrate, alpha-l-antitrypsin, ceruloplasmin).
-- Increased plasma high-density lipoprotein (HDL) and HDL2 cholesterol subfraction concentrations, reduced low-density lipoprotein (LDL) cholesterol concentration, and increased triglyceride levels.
-- Impaired glucose tolerance.
+The use of sex steroids may influence the results of certain laboratory tests.
+
+1. Accelerated prothrombin time, partial thromboplastin time, and platelet aggregation time; increased platelet count; increased factors II, VII antigen, VIII antigen, VIII coagulant activity, IX, X, XII, VII-X complex, II-VII-X complex, and beta-thromboglobulin; decreased levels of antifactor Xa and antithrombin III, decreased antithrombin III activity; increased levels of fibrinogen and fibrinogen activity; increased plasminogen antigen and activity.
+2. Increased TBG levels leading to increased circulating total thyroid hormone, as measured by protein-bound iodine (PBI), T4 levels (by column or by radioimmunoassay) or T3 levels by radioimmunoassay.
+   T3 resin uptake is decreased, reflecting the elevated TBG.
+   Free T4 and free T3 concentrations are unaltered.
+   Women on thyroid replacement therapy may require higher doses of thyroid hormone.
+3. Other binding proteins may be elevated in serum, for example, corticosteroid binding globulin (CBG), sex hormone-binding globulin (SHBG), leading to increased total circulating corticosteroids and sex steroids, respectively.
+   Free hormone concentrations, such as testosterone and estradiol, may be decreased.
+   Other plasma proteins may be increased (angiotensinogen/renin substrate, alpha-l-antitrypsin, ceruloplasmin).
+4. Increased plasma high-density lipoprotein (HDL) and HDL2 cholesterol subfraction concentrations, reduced low-density lipoprotein (LDL) cholesterol concentration, and increased triglyceride levels.
+5. Impaired glucose tolerance.

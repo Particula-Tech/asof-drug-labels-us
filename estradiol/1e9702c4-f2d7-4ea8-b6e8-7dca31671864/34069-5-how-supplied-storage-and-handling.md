@@ -24,4 +24,4 @@ Apply immediately upon removal from the protective pouch.
 
 Used transdermal systems still contain active hormone.
 To discard, fold the sticky side of the transdermal system together, place it in a sturdy child-proof container, and place this container in the trash.
-Used transdermal systems should not be flushed in the toilet
+Used transdermal systems should not be flushed in the toilet.

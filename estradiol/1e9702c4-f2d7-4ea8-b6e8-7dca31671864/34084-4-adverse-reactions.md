@@ -18,7 +18,7 @@ Table 1: Treatment-Emergent Adverse Reactions Reported at a Frequency of ≥5 Pe
 
 |  | Climara |  |  |  |
 | --- | --- | --- | --- | --- |
-| Body System Adverse Reactions | 0.025 mg/dayAdverse reactions occurring at rate of ?5 percent in Climara trials of clinical efficacy versus placebo and versus active comparator; and trial of Climara versus placebo for the prevention of osteoporosis (N=219) | 0.05 mg/dayAdverse reactions occurring at rate of ?5 percent in Climara trials of clinical efficacy versus placebo and versus active comparator (N=201) | 0.1 mg/day (N=194) | PlaceboAdverse reactions occurring in placebo group in Climara trial of clinical efficacy versus placebo (N=72) |
+| Body System Adverse Reactions | 0.025 mg/dayAdverse reactions occurring at rate of ≥5 percent in Climara trials of clinical efficacy versus placebo and versus active comparator; and trial of Climara versus placebo for the prevention of osteoporosis (N=219) | 0.05 mg/dayAdverse reactions occurring at rate of ≥5 percent in Climara trials of clinical efficacy versus placebo and versus active comparator (N=201) | 0.1 mg/day (N=194) | PlaceboAdverse reactions occurring in placebo group in Climara trial of clinical efficacy versus placebo. (N=72) |
 | Body as a Whole Headache Pain Back Pain Edema | 21% 5% 1%4%0.5% | 39%18%8%8%13% | 37%13%11%9%10% | 29%10%7%6%6% |
 | Digestive System Abdominal Pain Nausea Flatulence | 9%0%1%1% | 21%11%5%3% | 29%16%6%7% | 18%8%3%1% |
 | Musculoskeletal System Arthralgia | 7%1% | 9%5% | 11%5% | 4%3% |

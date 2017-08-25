@@ -64,7 +64,8 @@ The WHI estrogen-alone substudy was stopped early because an increased risk of s
 
 Results of the estrogen-alone substudy, which included 10,739 women (average 63 years of age, range 50 to 79: 75.3 percent White, 15.1 percent Black, 6.1 percent Hispanic, 3.6 percent Other) after an average follow-up of 7.1 years, are presented in Table 4.
 
-Table 4: Relative and Absolute Risk Seen in the Estrogen-Alone Substudy of WHI
+Table 4: Relative and Absolute Risk Seen in the Estrogen-Alone Substudy of WHIAdapted from numerous WHI publications.
+WHI publications can be viewed at www.nhlbi.nih.gov/whi
 
 | Event | Relative Risk CE vs. Placebo (95% nCINominal confidence intervals unadjusted for multiple looks and multiple comparisons.) | CE n = 5,310 | Placebo n = 5,429 |
 | --- | --- | --- | --- |
@@ -85,7 +86,6 @@ Table 4: Relative and Absolute Risk Seen in the Estrogen-Alone Substudy of WHI
 | Death due to causesResults are based on an average follow-up of 6.8 years.,All deaths, except from breast or colorectal cancer, definite or probable CHD, PE or cerebrovascular disease. | 1.08 (0.88-1.32) | 53 | 50 |
 | Overall mortality, | 1.04 (0.88-1.22) | 79 | 75 |
 | Global IndexA subset of the events was combined in a "global index", defined as the earliest occurrence of CHD events, invasive breast cancer, stroke, pulmonary embolism, endometrial cancer, colorectal cancer, hip fracture, or death due to other causes. | 1.02 (0.92-1.13) | 206 | 201 |
-| Adapted from numerous WHI publications. WHI publications can be viewed at www.nhlbi.nih.gov/whi |  |  |  |
 
 For those outcomes included in the WHI "global index" that reached statistical significance, the absolute excess risks per 10,000 women-years in the group treated with CE-alone was 12 more strokes, while the absolute risk reduction per 10,000 women-years was 7 fewer hip fractures.9 The absolute excess risk of events included in the "global index" was a non-significant 5 events per 10,000 women-years.
 There was no difference between the groups in terms of all-cause mortality.

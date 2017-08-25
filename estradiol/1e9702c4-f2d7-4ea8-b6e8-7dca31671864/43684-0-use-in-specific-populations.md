@@ -25,7 +25,7 @@ There have not been sufficient numbers of geriatric women involved in clinical s
 
 In the WHI estrogen-alone substudy (daily CE [0.625 mg]-alone versus placebo), there was a higher relative risk of stroke in women greater than 65 years of age [see Clinical Studies (14.3)].
 
-In the WHI estrogen plus progestin substudy (daily CE [0.625 mg] plus MPA [2.5 mg] versus placebo), there was a higher relative risk of nonfatal stroke and invasive breast cancer in women greater than 65 years of age [see Clinical Studies (14.3)].
+In the WHI estrogen plus progestin substudy (daily CE [0.625 mg] plus MPA [2.5 mg] versus placebo), there was a higher RR of nonfatal stroke and invasive breast cancer in women greater than 65 years of age [see Clinical Studies (14.3)].
 
 ### The Women’s Health Initiative Memory Study
 
@@ -40,4 +40,4 @@ Therefore, conventional transdermal estradiol doses used in individuals with nor
 
 ## 8.7 Hepatic Impairment
 
-Estrogens may be poorly metabolized in patients with impaired liver function and should be administered with caution
+Estrogens may be poorly metabolized in patients with impaired liver function and should be administered with caution.
