@@ -204,7 +204,7 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally – 500 090 INDIA
 
-Revised: 0916
+Revised: 0717
 
 or
 
@@ -214,8 +214,8 @@ Dr. Reddy’s Laboratories Limited
 
 Srikakulam - 532 409 INDIA
 
-Revised: 0916
+Revised: 0717
 
-Dispense with patient information sheet available at:
+Dispense with Patient Information Sheet available at:
 
 www.drreddys.com/pi/atorvastatintabs.pdf

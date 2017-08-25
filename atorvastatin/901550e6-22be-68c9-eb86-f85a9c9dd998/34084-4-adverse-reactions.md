@@ -75,7 +75,7 @@ The proportions of subjects who experienced non-cardiovascular death were numeri
 The following adverse reactions have been identified during postapproval use of atorvastatin calcium.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Adverse reactions associated with atorvastatin calcium therapy reported since market introduction, that are not listed above, regardless of causality assessment, include the following: anaphylaxis, angioneurotic edema, bullous rashes (including erythema multiforme, Stevens-Johnson syndrome, and toxic epidermal necrolysis), rhabdomyolysis, myositis, fatigue, tendon rupture, fatal and non-fatal hepatic failure, dizziness, depression, peripheral neuropathy and pancreatitis.
+Adverse reactions associated with atorvastatin calcium therapy reported since market introduction, that are not listed above, regardless of causality assessment, include the following: anaphylaxis, angioneurotic edema, bullous rashes (including erythema multiforme, Stevens-Johnson syndrome, and toxic epidermal necrolysis), rhabdomyolysis, myositis, fatigue, tendon rupture, fatal and non-fatal hepatic failure, dizziness, depression, peripheral neuropathy, pancreatitis and interstitial lung disease.
 
 There have been rare reports of immune-mediated necrotizing myopathy associated with statin use [see Warnings and Precautions (5.1)]
 
