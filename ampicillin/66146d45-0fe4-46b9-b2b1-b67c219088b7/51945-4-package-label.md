@@ -1,3 +1,7 @@
-# PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 10 grams Pharmacy Bulk Package Label
+# PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 10 grams Pharmacy Bulk Package – Container Label
 
-Rx only NDC 55150-115-99 AMPICILLIN FOR INJECTION, USP PHARMACY BULK PACKAGE - NOT FOR DIRECT INFUSION 10 grams* per Pharmacy Bulk Package For Intravenous Use† AUROMEDICS
+NDC 55150-115-99 Ampicillin for Injection, USP 10 grams* per Pharmacy Bulk Package PHARMACY BULK PACKAGE – NOT FOR DIRECT INFUSION For Intravenous use† Rx only AUROMEDICS
+
+# PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 10 grams Pharmacy Bulk Package - Container -Carton
+
+Rx only NDC 55150-115-99 Ampicillin for Injection, USP 10 grams* per Pharmacy Bulk Package PHARMACY BULK PACKAGE - NOT FOR DIRECT INFUSION 10 Pharmacy Bulk Package bottles For Intravenous use† AUROMEDICS

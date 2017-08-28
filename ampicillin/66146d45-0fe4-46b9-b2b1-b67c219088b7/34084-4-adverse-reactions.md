@@ -2,7 +2,7 @@
 
 As with other penicillins, it may be expected that untoward reactions will be essentially limited to sensitivity phenomena.
 They are more likely to occur in individuals who have previously demonstrated hypersensitivity to penicillins and in those with a history of allergy, asthma, hay fever, or urticaria.
-The following adverse reactions have been reported as associated with the use of ampicillin: Gastrointestinal Glossitis, stomatitis, black "hairy" tongue, nausea, vomiting, enterocolitis, pseudomembranous colitis, and diarrhea.
+The following adverse reactions have been reported as associated with the use of ampicillin: Gastrointestinal Glossitis, stomatitis, black “hairy” tongue, nausea, vomiting, enterocolitis, pseudomembranous colitis, and diarrhea.
 (These reactions are usually associated with oral dosage forms.)
 Hypersensitivity Reactions Skin rashes and urticaria have been reported frequently.
 A few cases of exfoliative dermatitis and erythema multiforme have been reported.
@@ -15,3 +15,4 @@ Mild transitory SGOT elevations have been observed in individuals receiving larg
 Evidence indicates that glutamic oxaloacetic transaminase (GOT) is released at the site of intramuscular injection of ampicillin sodium and that the presence of increased amounts of this enzyme in the blood does not necessarily indicate liver involvement.
 Hemic and Lymphatic Systems – Anemia, thrombocytopenia, thrombocytopenic purpura, eosinophilia, leukopenia, and agranulocytosis have been reported during therapy with the penicillins.
 These reactions are usually reversible on discontinuation of therapy and are believed to be hypersensitivity phenomena.
+Central Nervous System - Seizures
