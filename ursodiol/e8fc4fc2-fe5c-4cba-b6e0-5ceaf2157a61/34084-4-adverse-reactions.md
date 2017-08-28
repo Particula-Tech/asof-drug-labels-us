@@ -4,7 +4,7 @@
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-The following table summarizes the adverse reactions observed in the two placebo-controlled clinical trials.
+The following table summarizes the adverse reactions observed in two placebo-controlled clinical trials.
 
 | ADVERSE REACTIONS | VISIT AT 12 MONTHS | VISIT AT 24 MONTHS |  |  |
 | --- | --- | --- | --- | --- |
