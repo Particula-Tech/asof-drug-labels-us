@@ -21,7 +21,7 @@ Caution should be taken while administering FASLODEX at the dorsogluteal injecti
 Based on findings from animal studies and its mechanism of action, FASLODEX can cause fetal harm when administered to a pregnant woman.
 In animal reproduction studies, administration of fulvestrant to pregnant rats and rabbits during organogenesis resulted in embryo-fetal toxicity at daily doses that are significantly less than the maximum recommended human dose.
 Advise pregnant women of the potential risk to a fetus.
-Advise females of reproductive potential to use effective contraception during treatment with FASLODEX and for one year after the last dose [see Use in Specific Populations (8.1),(8.3) and Clinical Pharmacology (12.1)].
+Advise females of reproductive potential to use effective contraception during treatment with FASLODEX and for one year after the last dose [see Use in Specific Populations (8.1), (8.3) and Clinical Pharmacology (12.1)].
 
 ## 5.5 Immunoassay Measurement of Serum Estradiol
 

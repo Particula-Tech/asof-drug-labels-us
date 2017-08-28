@@ -76,7 +76,7 @@ There were no clinically meaningful changes in median Tanner stage (breast or pu
 The effect of FASLODEX on bone mineral density in children has not been studied and is not known.
 
 Eight patients (27%) experienced adverse reactions that were considered possibly related to FASLODEX.
-These included injection site reactions (inflammation, pain, hematoma, pruritus, rash), abdominal pain, contusion, tachycardia, hot flush, extremity pain, and vomiting.
+These included injection site reactions (inflammation, pain, hematoma, pruritus, rash), abdominal pain, contusion, tachycardia, hot flash, extremity pain, and vomiting.
 Nine (30.0%) patients reported an SAE, none of which were considered related to FASLODEX.
 No patients discontinued study treatment due to an AE and no patients died.
 
@@ -90,7 +90,7 @@ The geometric mean (SD) steady state trough concentration (Cmin,ss) and AUCss wa
 
 ## 8.5 Geriatric Use
 
-For FASLODEX 250 mg, when tumor response was considered by age, objective responses were seen in 22% and 24% of patients under 65 years of age and in 11% and 16% of patients 65 years of age and older, who were treated with FASLODEX in Study 2 and Study 3, respectively.
+For FASLODEX 250 mg, when tumor response was considered by age, objective responses were seen in 22% and 24% of patients under 65 years of age and in 11% and 16% of patients 65 years of age and older, who were treated with FASLODEX in Study 0021 and Study 0020, respectively.
 
 ## 8.6 Hepatic Impairment
 

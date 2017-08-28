@@ -23,10 +23,10 @@ These effects on the ER pathway were also associated with a decrease in Ki67 lab
 
 Absorption:
 
-The single dose and multiple dose PK parameters for the 500 mg dosing regimen with an additional dose (AD) at Day 15 are reported in Table 5.
+The single dose and multiple dose PK parameters for the 500 mg dosing regimen with an additional dose (AD) at Day 15 are reported in Table 7.
 The additional dose of FASLODEX given two weeks after the initial dose allows for steady state concentrations to be reached within the first month of dosing.
 
-Table 5: Summary of Fulvestrant Pharmacokinetic Parameters [gMean (CV%)] in Postmenopausal Advanced Breast Cancer Patients after Intramuscular Administration 500 mg + AD Dosing Regimen
+Table 7: Summary of Fulvestrant Pharmacokinetic Parameters [gMean (CV%)] in Postmenopausal Advanced Breast Cancer Patients after Intramuscular Administration 500 mg + AD Dosing Regimen
 
 |  |  | Cmax (ng/mL) | Cmin (ng/mL) | AUC (ng.hr/mL) |
 | --- | --- | --- | --- | --- |
