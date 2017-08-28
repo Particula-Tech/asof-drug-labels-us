@@ -5,20 +5,24 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 Suicidal Behavior and Ideation
 
 Counsel patients, their caregivers, and/or families that antiepileptic drugs (AEDs), including SPRITAM, may increase the risk of suicidal thoughts and behavior and advise patients to be alert for the emergence or worsening of symptoms of depression; unusual changes in mood or behavior; or suicidal thoughts, behavior, or thoughts about self-harm.
-Advise patients, their caregivers, and/or families to immediately report behaviors of concern to a healthcare provider.
+Advise patients, their caregivers, and/or families to immediately report behaviors of concern to a healthcare provider [see Warnings and Precautions (5.1)]
 
 Psychiatric Reactions and Changes in Behavior
 
-Advise patients that SPRITAM may cause changes in behavior (e.g. aggression, agitation, anger, anxiety, apathy, depression, hostility, and irritability) and psychotic symptoms have occurred.
+Advise patients that SPRITAM may cause changes in behavior (e.g. aggression, agitation, anger, anxiety, apathy, depression, hostility, and irritability) and psychotic symptoms have occurred [see Warnings and Precautions (5.2)]
 
 Effects on Driving or Operating Machinery
 
 Inform patients that SPRITAM may cause dizziness and somnolence.
-Inform patients not to drive or operate machinery until they have gained sufficient experience on SPRITAM to gauge whether it adversely affects their ability to drive or operate machinery.
+Inform patients not to drive or operate machinery until they have gained sufficient experience on SPRITAM to gauge whether it adversely affects their ability to drive or operate machinery [see Warnings and Precautions (5.3)]
+
+Anaphylaxis and Angioedema
+
+Advise patients to discontinue SPRITAM and seek medical care if they develop signs and symptoms of anaphylaxis or angioedema [see Warnings and Precautions (5.4)]
 
 Dermatological Adverse Reactions
 
-Advise patients that serious dermatological adverse reactions have occurred in patients treated with SPRITAM and instruct them to call their physician immediately if a rash develops.
+Advise patients that serious dermatological adverse reactions have occurred in patients treated with SPRITAM and instruct them to call their physician immediately if a rash develops [see Warnings and Precautions (5.5)]
 
 Pregnancy
 
@@ -48,10 +52,12 @@ Aprecia Pharmaceuticals Company, East Windsor, NJ 08520
 
 SPRITAM® is a registered trademark of Aprecia Pharmaceuticals Company.
 
-© 2015 Aprecia Pharmaceuticals Company all rights reserved.
+© 2017 Aprecia Pharmaceuticals Company all rights reserved.
 
 Printed in the U.S.A.
 
-LB-PI-0001.K
+Patent(s): www.aprecia.com/patents
 
-Revised: 02/2016
+LB-PI-0001.M
+
+Revised: 06/2017

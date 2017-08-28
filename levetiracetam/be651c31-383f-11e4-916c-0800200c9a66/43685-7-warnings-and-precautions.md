@@ -85,7 +85,15 @@ In 0.5% of levetiracetam-treated patients and in 0.2% of placebo-treated patient
 Somnolence and asthenia occurred most frequently within the first 4 weeks of treatment.
 In general, the incidences of somnolence and fatigue in the pediatric partial onset seizure studies, and in pediatric and adult myoclonic and primary generalized tonic-clonic studies were comparable to those of the adult partial onset seizure studies.
 
-## 5.4 Serious Dermatological Reactions
+## 5.4 Anaphylaxis and Angioedema
+
+SPRITAM can cause anaphylaxis or angioedema after the first dose or at any time during treatment.
+Signs and symptoms in cases reported in the postmarketing setting with levetiracetam have included hypotension, hives, rash, respiratory distress, and swelling of the face, lip, mouth, eye, tongue, throat, and feet.
+In some reported cases, reactions were life-threatening and required emergency treatment.
+If a patient develops signs or symptoms of anaphylaxis or angioedema, SPRITAM should be discontinued and the patient should seek immediate medical attention.
+SPRITAM should be discontinued permanently if a clear alternative etiology for the reaction cannot be established [see Contraindications (4)].
+
+## 5.5 Serious Dermatological Reactions
 
 Serious dermatological reactions, including Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN), have been reported in both pediatric and adult patients treated with levetiracetam.
 The median time of onset is reported to be 14 to 17 days, but cases have been reported at least four months after initiation of treatment.
@@ -93,7 +101,7 @@ Recurrence of the serious skin reactions following rechallenge with levetiraceta
 SPRITAM should be discontinued at the first sign of a rash, unless the rash is clearly not drug-related.
 If signs or symptoms suggest SJS/TEN, use of this drug should not be resumed and alternative therapy should be considered.
 
-## 5.5 Coordination Difficulties
+## 5.6 Coordination Difficulties
 
 SPRITAM may cause coordination difficulties.
 
@@ -104,11 +112,11 @@ These events occurred most frequently within the first 4 weeks of treatment.
 
 Patients should be monitored for these signs and symptoms and advised not to drive or operate machinery until they have gained sufficient experience on SPRITAM to gauge whether it could adversely affect their ability to drive or operate machinery.
 
-## 5.6 Withdrawal Seizures
+## 5.7 Withdrawal Seizures
 
 Antiepileptic drugs, including SPRITAM, should be withdrawn gradually to minimize the potential of increased seizure frequency.
 
-## 5.7 Hematologic Abnormalities
+## 5.8 Hematologic Abnormalities
 
 SPRITAM can cause hematologic abnormalities.
 Hematologic abnormalities occurred in clinical trials with levetiracetam and included decreases in red blood cell (RBC) counts, hemoglobin and hematocrit, and increases in eosinophil counts.
@@ -136,7 +144,7 @@ No patient was discontinued secondary to low WBC or neutrophil counts.
 
 In a controlled cognitive and neuropsychological safety study, 5 patients (8.6%) in the levetiracetam‑treated group and two patients (6.1%) in the placebo‑treated group had high eosinophil count values that were possibly clinically significant (≥ 10% or ≥ 0.7×109/L).
 
-## 5.8 Increase in Blood Pressure
+## 5.9 Increase in Blood Pressure
 
 In a randomized, placebo-controlled study in patients 1 month to < 4 years of age, a significantly higher risk of increased diastolic blood pressure was observed in levetiracetam-treated patients (17%), compared to the placebo-treated patients (2%).
 There was no overall difference in mean diastolic blood pressure between the treatment groups.
@@ -144,7 +152,7 @@ This disparity between the levetiracetam and placebo treatment groups was not ob
 
 Monitor patients 1 month to <4 years of age for increases in diastolic blood pressure.
 
-## 5.9 Seizure Control During Pregnancy
+## 5.10 Seizure Control During Pregnancy
 
 Physiological changes may gradually decrease plasma levels of levetiracetam throughout pregnancy.
 This decrease is more pronounced during the third trimester.

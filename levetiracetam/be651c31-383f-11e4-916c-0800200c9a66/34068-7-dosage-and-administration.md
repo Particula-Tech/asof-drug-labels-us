@@ -68,5 +68,5 @@ Table 1: Dosing Regimen For Adult Patients With Renal Impairment
 | Mild | 50-80 | 500 to 1,000 | Every 12 hours |
 | Moderate | 30-50 | 250 to 750 | Every 12 hours |
 | Severe | <30 | 250 to 500 | Every 12 hours |
-| ESDR patients using dialysis | — | 500 to 1,0001 | Every 24 hours1 |
+| ESRD patients using dialysis | — | 500 to 1,0001 | Every 24 hours1 |
 | 1 Following dialysis, a 250 to 500 mg supplemental dose is recommended. |  |  |  |
