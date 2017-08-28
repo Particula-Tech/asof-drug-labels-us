@@ -16,15 +16,8 @@ Advise patients to report to their healthcare provider if they experience any si
 
 Drug Interactions
 
-Instruct patients to inform their healthcare provider of any other medications they are currently taking, including over-the-counter medications.
+Instruct patients to inform their healthcare provider of any other medications they are currently taking, including rilpivirine-containing products [Contraindications (4)], high dose methotrexate [Warnings and Precautions (5.12)] and over-the-counter medications.
 
-This product's label may have been updated.
-For current full prescribing information, please visit www.pfizer.com.
+Pregnancy
 
-Distributed by Wyeth Pharmaceuticals Inc A subsidiary of Pfizer Inc Philadelphia, PA 19101
-
-under license from Takeda GmbH D78467 Konstanz, Germany
-
-PREMIERProRx® is a registered trademark of Premier Healthcare Alliance, L.P., used under license.
-
-LAB-0661-5.0
+Inform female patients of reproductive potential that PROTONIX I.V. may cause fetal harm and to inform their prescriber of a known or suspected pregnancy [see Use in Specific Populations (8.1)].

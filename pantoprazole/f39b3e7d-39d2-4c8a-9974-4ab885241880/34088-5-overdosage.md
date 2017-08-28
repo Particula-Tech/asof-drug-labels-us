@@ -1,7 +1,7 @@
 # 10 OVERDOSAGE
 
-Experience in patients taking very high doses of pantoprazole (> 240 mg) is limited.
-Adverse events seen in spontaneous reports of overdose generally reflect the known safety profile of pantoprazole.
+Experience in patients taking very high doses of pantoprazole (greater than 240 mg) is limited.
+Adverse reactions seen in spontaneous reports of overdose generally reflect the known safety profile of pantoprazole.
 
 Pantoprazole is not removed by hemodialysis.
 In case of overdose, treatment should be symptomatic and supportive.
