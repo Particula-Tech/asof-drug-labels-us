@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA022000"
+  ],
+  "inn": "mesalamine",
+  "labeler": "Shire US Manufacturing Inc.",
+  "package_ndcs": [
+    "54092-100-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET, DELAYED RELEASE",
+      "generic": "mesalamine",
+      "name": "Mesalamine"
+    }
+  ],
+  "setid": "4e3b6325-a5bf-4c47-931c-142c0e4d7c3a",
+  "source": "dailymed"
+}
