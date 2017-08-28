@@ -40,7 +40,7 @@ TABLE 2 - Summary of Unadjusted PK Parameters for Estradiol after 14 Days of Dos
 | Cmin (pg/mL) | 9.4 | 21.1 |
 | Tmax (h)Tmax shown as median (range) | 18 (1-20) | 4 (1-20) |
 | Fluctuation Index | 0.80 | 1.16 |
-| E2:E1E2:E1 (estraciol:estrone) ratio ratio | 0.53 | 0.98 |
+| E2:E1E2:E1 (estradiol:estrone) ratio ratio | 0.53 | 0.98 |
 
 Mean concentrations of estradiol over a 24-hour period on Day 14 are shown in Figure 1.
 
