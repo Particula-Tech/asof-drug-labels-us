@@ -76,6 +76,6 @@ Patients should be informed that the active medication has already been absorbed
 
 Distr. by: West-Ward Pharmaceuticals Corp. Eatontown, NJ 07724
 
-10008303/01
+10008303/02
 
-Revised January 2017
+Revised May 2017

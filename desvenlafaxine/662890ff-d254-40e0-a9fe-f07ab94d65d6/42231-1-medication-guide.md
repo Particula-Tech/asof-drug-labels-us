@@ -248,12 +248,13 @@ What are the ingredients in desvenlafaxine?
 Active ingredient: Desvenlafaxine
 
 Inactive ingredients: Each tablet contains the following inactive ingredients: colloidal silicon dioxide, hypromellose, magnesium stearate, microcrystalline cellulose, povidone and sodium stearyl fumarate.
-In addition to the ingredients listed above, each tablet is also film-coated with Opadry II Orange film-coating which contains: FD&C Red No. 40, FD&C Yellow No. 6, polyvinyl alcohol, polyethylene glycol, talc and titanium dioxide.
+In addition to the ingredients listed above, the 25 mg tablets are film-coated with Opadry II Beige film-coating which contains FD&C Red No. 40, FD&C Yellow No. 6, FD&C Blue No. 1, polyvinyl alcohol, polyethylene glycol, talc and titanium dioxide.
+The 50 mg and 100 mg tablets are film-coated with Opadry II Orange film-coating which contains: FD&C Red No. 40, FD&C Yellow No. 6, polyvinyl alcohol, polyethylene glycol, talc and titanium dioxide.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Distr. by: West-Ward Pharmaceuticals Corp. Eatontown, NJ 07724
 
-10008303/01
+10008303/02
 
-Revised January 2017
+Revised May 2017
