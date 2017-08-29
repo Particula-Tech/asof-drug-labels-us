@@ -21,9 +21,9 @@ Symptoms such as these may be associated with an increased risk for suicidal thi
 Neuropsychiatric Symptoms and Suicide Risk in Smoking Cessation Treatment
 
 Although bupropion hydrochloride tablets are not indicated for smoking cessation treatment, it contains the same active ingredient as ZYBAN® which is approved for this use.
-Advise patients, families and caregivers that quitting smoking, with or without ZYBAN, may trigger nicotine withdrawal symptoms (e.g., including depression or agitation), or worsen pre-existing psychiatric illness.
-Some patients have experienced changes in mood (including depression and mania), psychosis, hallucinations, paranoia, delusions, homicidal ideation, aggression, anxiety, and panic, as well as suicidal ideation, suicide attempt, and completed suicide when attempting to quit smoking while taking ZYBAN.
-If patients develop agitation, hostility, depressed mood, or changes in thinking or behavior that are not typical for them, or if patients develop suicidal ideation or behavior, they should be urged to report these symptoms to their healthcare provider immediately.
+Inform patients that some patients have experienced changes in mood (including depression and mania), psychosis, hallucinations, paranoia, delusions, homicidal ideation, aggression, hostility, agitation, anxiety, and panic, as well as suicidal ideation and suicide when attempting to quit smoking while taking bupropion.
+
+Instruct patients to discontinue bupropion and contact a healthcare professional if they experience such symptoms [see Warnings and Precautions (5.2), Adverse Reactions (6.2)].
 
 Severe Allergic Reactions
 
@@ -92,7 +92,7 @@ APLENZIN® is a registered trademark of Sanofi Aventis U.S. LLC BUPROPION HYDROC
 | Toronto, Ontario |  |
 | Canada M9L 1T9For BluePoint Laboratories |  |
 
-Revised: November 2016
+Revised: 05/2017
 
 Rev.
-13a
+14a

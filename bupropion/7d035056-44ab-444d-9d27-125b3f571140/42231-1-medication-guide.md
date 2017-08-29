@@ -2,33 +2,27 @@
 
 Bupropion Hydrochloride Tablets, USP (bue proe' pee on hye'' droe klor' ide).
 
-Read this Medication Guide carefully before you start taking bupropion hydrochloride tablets and each time you get a refill.
-There may be new information.
-This information does not take the place of talking with your healthcare provider about your medical condition or your treatment.
-If you have any questions about bupropion hydrochloride tablets ask your healthcare provider or pharmacist.
-
 IMPORTANT: Be sure to read the three sections of this Medication Guide.
 The first section is about the risk of suicidal thoughts and actions with antidepressant medicines; the second section is about the risk of changes in thinking and behavior, depression and suicidal thoughts or actions with medicines used to quit smoking; and the third section is entitled "What Other Important Information Should I Know About Bupropion Hydrochloride Tablets?"
 
 Antidepressant Medicines, Depression and Other Serious Mental Illnesses, and Suicidal Thoughts or Actions
 
 This section of the Medication Guide is only about the risk of suicidal thoughts and actions with antidepressant medicines.
-Talk to your healthcare provider or your family member’s healthcare provider about:
-
-- •all risks and benefits of treatment with antidepressant medicines
-- •all treatment choices for depression or other serious mental illness
 
 What is the most important information I should know about antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions?
 
-1. 1.Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, or young adults within the first few months of treatment.
-2. 2.Depression or other serious mental illnesses are the most important causes of suicidal thoughts and actions.
+1. 1.
+   Antidepressant medicines may increasethe risk of suicidal thoughts or actions in some children, teenagers, or young adults within the first few months of treatment.
+2. 2.
+   Depression or other serious mental illnesses are the most important causes of suicidal thoughts and actions.
    Some people may have a particularly high risk of having suicidal thoughts or actions.
-   These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
-3. How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
-4. •Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
+   These includepeople who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
+3. 3.
+   How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
+4. • Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
    This is very important when an antidepressant medicine is started or when the dose is changed.
-5. •Call your healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
-6. •Keep all follow-up visits with your healthcare provider as scheduled.
+5. • Call your healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
+6. • Keep all follow-up visits with your healthcare provider as scheduled.
    Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.
 
 Call your healthcare provider right away if you or your family member has any of the following symptoms, especially if they are new, worse, or worry you:
@@ -68,31 +62,32 @@ This section of the Medication Guide is only about the risk of changes in thinki
 
 Although bupropion hydrochloride tablets are not a treatment for quitting smoking, it contains the same active ingredient (bupropion hydrochloride) as ZYBAN® which is used to help patients quit smoking.
 
-Some people have had changes in behavior, hostility, agitation, depression, suicidal thoughts or actions while taking bupropion to help them quit smoking.
-These symptoms can develop during treatment with bupropion or after stopping treatment with bupropion.
+Talk to your healthcare provider or your family member’s healthcare provider about:
 
-If you, your family member, or your caregiver notice agitation, hostility, depression, or changes in thinking or behavior that are not typical for you, or you have any of the following symptoms, stop taking bupropion and call your healthcare provider right away:
+1. • all risks and benefits of quit-smoking medicines.
+2. • all treatment choices for quitting smoking.
 
-- •thoughts about suicide or dying
-- •attempts to commit suicide
-- •new or worse depression
-- •new or worse anxiety
-- •panic attacks
-- •feeling very agitated or restless
-- •acting aggressive, being angry, or violent
-- •acting on dangerous impulses
-- •an extreme increase in activity and talking (mania)
-- •abnormal thoughts or sensations
-- •seeing or hearing things that are not there (hallucinations)
-- •feeling people are against you (paranoia)
-- •feeling confused
-- •other unusual changes in behavior or mood
+When you try to quit smoking, with or without bupropion, you may have symptoms that may be due to nicotine withdrawal, including
 
-When you try to quit smoking, with or without bupropion, you may have symptoms that may be due to nicotine withdrawal, including urge to smoke, depressed mood, trouble sleeping, irritability, frustration, anger, feeling anxious, difficulty concentrating, restlessness, decreased heart rate, and increased appetite or weight gain.
+| •urge to smoke•depressed mood•trouble sleeping•irritability | •frustration•anger•feeling anxious•difficulty concentrating | •restlessness•decreased heart rate•increased appetite•weight gain |
+| --- | --- | --- |
+
 Some people have even experienced suicidal thoughts when trying to quit smoking without medication.
 Sometimes quitting smoking can lead to worsening of mental health problems that you already have, such as depression.
 
-Before taking bupropion, tell your healthcare provider if you have ever had depression or other mental illnesses.
+Some people have had serious side effects while taking bupropion to help them quit smoking, including:
+
+New or worse mental health problems, such as changes in behavior or thinking, aggression, hostility, agitation, depression, or suicidal thoughts or actions.
+Some people had these symptoms when they began taking bupropion, and others developed them after several weeks of treatment, or after stopping bupropion.
+
+These symptoms happened more often in people who had a history of mental health problems before taking bupropion than in people without a history of mental health problems.
+
+Stop taking bupropion and call your healthcare provider right away if you, your family, or caregiver notice any of these symptoms.
+Work with your healthcare provider to decide whether you should continue to take bupropion.
+In many people, these symptoms went away after stopping bupropion, but in some people symptoms continued after stopping bupropion.
+It is important for you to follow-up with your healthcare provider until your symptoms go away.
+
+Before taking bupropion, tell your healthcare provider if you have ever had depression or other mental health problems.
 You should also tell your healthcare provider about any symptoms you had during other times you tried to quit smoking, with or without bupropion.
 
 What Other Important Information Should I Know About Bupropion Hydrochloride Tablets?
@@ -111,7 +106,7 @@ Do not take bupropion hydrochloride tablets again if you have a seizure.
 
 - •High blood pressure (hypertension).
   Some people get high blood pressure that can be severe, while taking bupropion hydrochloride tablets.
-  The chance of high blood pressure may be higher if you also use nicotine replacement therapy (such as a nicotine patch) to help you stop smoking.
+  The chance of high blood pressure may be higher if you also use nicotine replacement therapy (such as a nicotine patch) to help you stop smoking (see the section of this Medication Guide called “How should I take bupropion hydrochloride tablets?”.
 - •Manic episodes.
   Some people may have periods of mania while taking bupropion hydrochloride tablets, including:
   - •Greatly increased energy
@@ -131,8 +126,8 @@ If you have any of the above symptoms of mania, call your healthcare provider.
   - •eye pain
   - •changes in vision
   - •swelling or redness in or around the eye
-  - Only some people are at risk for these problems.
-    You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
+- Only some people are at risk for these problems.
+  You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
 - •Severe allergic reactions.
   Some people can have severe allergic reactions to bupropion hydrochloride tablets.
   Stop taking bupropion hydrochloride tablets and call your healthcare provider right away if you get a rash, itching, hives, fever, swollen lymph glands, painful sores in the mouth or around the eyes, swelling of the lips or tongue, chest pain, or have trouble breathing.
@@ -148,7 +143,7 @@ Do not take bupropion hydrochloride tablets if you
 
 - •have or had a seizure disorder or epilepsy.
 - •have or had an eating disorder such as anorexia nervosa or bulimia.
-- •are taking any other medicines that contain bupropion, including ZYBAN (used to help people stop smoking) APLENZIN®, FORFIVO XL®, WELLBUTRIN SR®, or WELLBUTRIN XL®.
+- •are taking any other medicines that contain bupropion, including ZYBAN (used to help people stop smoking) WELLBUTRIN SR®, WELLBUTRIN XL®, APLENZIN®, or FORFIVO XL®,.
   Bupropion is the same active ingredient that is in bupropion hydrochloride tablets.
 - •drink a lot of alcohol and abruptly stop drinking, or use medicines called sedatives (these make you sleepy), benzodiazepines, or anti-seizure medicines, and you stop using them all of a sudden.
 - •take a monoamine oxidase inhibitor (MAOI).
@@ -185,20 +180,21 @@ Many medicines increase your chances of having seizures or other serious side ef
 How should I take bupropion hydrochloride tablets?
 
 - •Take bupropion hydrochloride tablets exactly as prescribed by your healthcare provider.
+  Do not change your dose or stop taking bupropion hydrochloride tablets without talking with your healthcare provider first.
+- •Swallow bupropion hydrochloride tablets whole.
+  Do not chew, cut, or crush bupropion hydrochloride tablets.
 - •Take bupropion hydrochloride tablets at the same time each day.
 - •Take your doses of bupropion hydrochloride tablets at least 6 hours apart.
-- •Do not chew, cut, or crush bupropion hydrochloride tablets.
 - •You may take bupropion hydrochloride tablets with or without food.
 - •If you miss a dose, do not take an extra dose to make up for the dose you missed.
   Wait and take your next dose at the regular time.
-  This is very important.
-  Too much bupropion hydrochloride tablets can increase your chance of having a seizure.
+  This is veryimportant.
+  Too much bupropion hydrochloride tablets can increase your chance of having aseizure.
 - •If you take too much bupropion hydrochloride tablets, or overdose, call your local emergency room or poison control center right away.
 - •Do not take any other medicines while taking bupropion hydrochloride tablets unless your healthcare provider has told you it is okay.
 - •If you are taking bupropion hydrochloride tablets for the treatment of major depressive disorder, it may take several weeks for you to feel that bupropion hydrochloride tablets are working.
   Once you feel better, it is important to keep taking bupropion hydrochloride tablets exactly as directed by your healthcare provider.
   Call your healthcare provider if you do not feel bupropion hydrochloride tablets are working for you.
-- •Do not change your dose or stop taking bupropion hydrochloride tablets without talking with your healthcare provider first.
 
 What should I avoid while taking bupropion hydrochloride tablets?
 
@@ -293,4 +289,4 @@ APOTEX INC. BUPROPION HYDROCHLORIDE TABLETS, USP 75 mg and 100 mg
 | Toronto, Ontario |  |
 | Canada M9L 1T9For BluePoint Laboratories |  |
 
-Revised: November 2016
+Revised: 05/2017

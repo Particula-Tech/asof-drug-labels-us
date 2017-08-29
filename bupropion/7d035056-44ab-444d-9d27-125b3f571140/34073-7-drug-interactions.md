@@ -24,6 +24,11 @@ When used concomitantly with bupropion hydrochloride tablets, it may be necessar
 Drugs that require metabolic activation by CYP2D6 to be effective (e.g., tamoxifen) theoretically could have reduced efficacy when administered concomitantly with inhibitors of CYP2D6 such as bupropion.
 Patients treated concomitantly with bupropion hydrochloride tablets and such drugs may require increased doses of the drug [see Clinical Pharmacology (12.3)].
 
+Digoxin
+
+Coadministration of bupropion hydrochloride with digoxin may decrease plasma digoxin levels.
+Monitor plasma digoxin levels in patients treated concomitantly with bupropion hydrochloride and digoxin [see Clinical Pharmacology (12.3)].
+
 ## 7.3 Drugs that Lower Seizure Threshold
 
 Use extreme caution when coadministering bupropion hydrochloride tablets with other drugs that lower seizure threshold (e.g., other bupropion products, antipsychotics, antidepressants, theophylline, or systemic corticosteroids).
