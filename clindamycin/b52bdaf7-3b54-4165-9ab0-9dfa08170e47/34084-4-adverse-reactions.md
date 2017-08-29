@@ -35,7 +35,7 @@ Central nervous system: dizziness and vertigo.
 
 Respiratory system: epistaxis.
 
-Skin:: pruritus (non-application site), moniliasis, rash, maculopapular rash, erythema, and urticaria.
+Skin: pruritus (non-application site), moniliasis, rash, maculopapular rash, erythema, and urticaria.
 
 Special senses: taste perversion.
 
@@ -47,7 +47,7 @@ Events occurring in ≥1% of patients receiving either clindamycin phosphate vag
 
 TABLE 2 - Events Occurring in ≥1% of Pregnant Patients Receiving Clindamycin Phosphate Vaginal Cream 2% or Placebo
 
-| Event | 7 DAY n=180 | 7 DAY n=184 |
+| Event | 7 DAY n=180 | 7 Day n=184 |
 | --- | --- | --- |
 |  | Clindamycin Phosphate Vaginal Cream | Placebo |
 | Urogenital |  |  |

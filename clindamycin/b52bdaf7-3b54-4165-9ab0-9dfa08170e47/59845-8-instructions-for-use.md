@@ -1,4 +1,4 @@
-# Clindamycin Phosphate Vaginal Cream, USP
+Clindamycin Phosphate Vaginal Cream, USP
 
 FOR INTRAVAGINAL USE ONLY
 
@@ -23,11 +23,9 @@ Slowly push the plunger until it stops.
 
 Carefully withdraw applicator from vagina, and discard applicator.
 
-REMEMBER TO APPLY ONE APPLICATORFUL EACH NIGHT BEFORE
+REMEMBER TO APPLY ONE APPLICATORFUL EACH NIGHT BEFORE BEDTIME, OR AS PRESCRIBED BY YOUR DOCTOR.
 
-BEDTIME, OR AS PRESCRIBED BY YOUR DOCTOR.
-
-INSTRUCCIONES PARA LA PACIENTE
+# INSTRUCCIONES PARA LA PACIENTE
 
 Este envase contiene aplicadores de plástico desechables.
 Los aplicadores están diseñados para la administración apropiada de la crema en la vagina.
@@ -46,3 +44,5 @@ Empuje lentamente el émbolo hasta que se detenga.
 Saque el aplicador cuidadosamente de la vagina y descártelo.
 
 RECUERDE APLICARSE UN APLICADOR LLENO TODAS LAS NOCHES AL ACOSTARSE, O DE ACUERDO CON LAS INDICACIONES DE SU MEDICO.
+
+LAB-0671-1.0 April 2013

@@ -1,7 +1,7 @@
 # DESCRIPTION
 
 Clindamycin phosphate is a water soluble ester of the semi-synthetic antibiotic produced by a 7(S)-chloro-substitution of the 7(R)-hydroxyl group of the parent antibiotic lincomycin.
-The chemical name for clindamycin phosphate is methyl 7-chloro-6,7,8-trideoxy-6-(1-methyl-trans-4-propyl-L-2-pyrrolidinecarboxamido)-1-thio-L-threo-α–D-galacto-octopyranoside 2-(dihydrogen phosphate).
+The chemical name for clindamycin phosphate is methyl 7-chloro-6,7,8-trideoxy-6-(1-methyl-trans-4-propyl-L-2-pyrrolidinecarboxamido)-1-thio-L-threo-α−D-galacto-octopyranoside 2-(dihydrogen phosphate).
 It has a molecular weight of 504.96, and the molecular formula is C18H34ClN2O8PS.
 The structural formula is represented below:
 

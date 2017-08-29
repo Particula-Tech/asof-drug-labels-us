@@ -21,7 +21,7 @@ Onset of pseudomembranous colitis symptoms may occur during or after antimicrobi
 Clindamycin phosphate vaginal cream 2%, contains ingredients that will cause burning and irritation of the eye.
 In the event of accidental contact with the eye, rinse the eye with copious amounts of cool tap water.
 
-The use of Clindamycin phosphate vaginal cream 2% may result in the overgrowth of nonsusceptible organisms in the vagina.
+The use of clindamycin phosphate vaginal cream 2% may result in the overgrowth of nonsusceptible organisms in the vagina.
 In clinical studies involving 600 non-pregnant women who received treatment for 3 days, Candida albicans was detected, either symptomatically or by culture, in 8.8% of patients.
 In 9% of the patients, vaginitis was recorded.
 In clinical studies involving 1325 non-pregnant women who received treatment for 7 days, Candida albicans was detected, either symptomatically or by culture, in 10.5% of patients.
@@ -52,9 +52,7 @@ Fertility studies in rats treated orally with up to 300 mg/kg/day (31 times the 
 
 ## Pregnancy
 
-### Teratogenic Effects
-
-#### Pregnancy Category B
+### Teratogenic effects
 
 In clinical trials with pregnant women, the systemic administration of clindamycin during the second and third trimesters, has not been associated with an increased frequency of congenital abnormalities.
 
@@ -73,7 +71,11 @@ Since this effect was not observed in other mouse strains or in other species, t
 Clindamycin has been detected in human milk after oral or parenteral administration.
 It is not known if clindamycin is excreted in human milk following the use of vaginally administered clindamycin phosphate.
 
-Because of the potential for serious adverse reactions in nursing infants from clindamycin phosphate, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+Clindamycin has the potential to cause adverse effects on the breastfed infant's gastrointestinal flora.
+If oral or intravenous clindamycin is required by a nursing mother, it is not a reason to discontinue breastfeeding, but an alternate drug may be preferred.
+Monitor the infant for possible adverse effects on the gastrointestinal flora, such as diarrhea, candidiasis (thrush, diaper rash) or rarely, blood in the stool indicating possible antibiotic-associated colitis.
+
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for clindamycin and any potential adverse effects on the breastfed child from clindamycin or from the underlying maternal condition.
 
 ## Pediatric Use
 
