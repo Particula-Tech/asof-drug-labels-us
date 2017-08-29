@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA209838"
+  ],
+  "inn": "ezetimibe",
+  "labeler": "Aurobindo Pharma Limited",
+  "package_ndcs": [
+    "59651-052-05",
+    "59651-052-30",
+    "59651-052-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "ezetimibe",
+      "name": "Ezetimibe"
+    }
+  ],
+  "setid": "726b1e63-437a-4b3b-b773-3ac47a5c0f38",
+  "source": "dailymed"
+}

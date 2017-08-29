@@ -1,0 +1,3 @@
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL - 10 mg (30 Tablets Bottle)
+
+NDC 59651-052-30 Rx only Ezetimibe Tablets USP 10 mg AUROBINDO 30 Tablets
