@@ -85,4 +85,4 @@ Dizziness, headache, insomnia
 
 Application site reaction,* weight increased, anaphylactic reaction
 
-* Combined two or more similar AR
+* Combined two or more similar ARs
