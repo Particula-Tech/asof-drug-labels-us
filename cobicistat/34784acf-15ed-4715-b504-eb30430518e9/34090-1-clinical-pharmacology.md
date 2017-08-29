@@ -254,10 +254,10 @@ In Clinical Trials
 
 In Treatment-Naïve Subjects:
 
-In a pooled analysis of antiretroviral-naïve subjects receiving GENVOYA in Studies 104 and 111, genotyping was performed on plasma HIV-1 isolates from all subjects with HIV-1 RNA greater than 400 copies per mL at confirmed virologic failure, at Week 96, or at time of early study drug discontinuation.
-As of Week 96, the development of genotypic resistance to elvitegravir, emtricitabine, or TAF was observed in 10 of 19 subjects with evaluable resistance data from paired baseline and GENVOYA treatment-failure isolates (10 of 866 subjects [1.2%]) compared with 9 of 15 treatment-failure isolates from subjects with evaluable resistance data in the STRIBILD treatment group (9 of 867 subjects [1.0%]).
-Of the 10 subjects with resistance development in the GENVOYA group, the resistance-associated substitutions that emerged were M184V/I (N=9) and K65R/N (N=2) in reverse transcriptase and T66T/A/I/V (N=2), E92Q (N=4), E138K (N=1), Q148Q/R (N=1) and N155H (N=2) in integrase.
-Of the 9 subjects with resistance development in the STRIBILD group, the resistance-associated substitutions that emerged were M184V/I (N=6) and K65R/N (N=3) in reverse transcriptase and E92Q (N=2), E138K (N=3), Q148R (N=2), and N155H/S (N=2) in integrase.
+In a pooled analysis of antiretroviral-naïve subjects receiving GENVOYA in Studies 104 and 111, genotyping was performed on plasma HIV-1 isolates from all subjects with HIV-1 RNA greater than 400 copies per mL at confirmed virologic failure, at Week 144, or at time of early study drug discontinuation.
+As of Week 144, the development of genotypic resistance to elvitegravir, emtricitabine, or TAF was observed in 12 of 22 subjects with evaluable resistance data from paired baseline and GENVOYA treatment-failure isolates (12 of 866 subjects [1.4%]) compared with 13 of 20 treatment-failure isolates from subjects with evaluable resistance data in the STRIBILD treatment group (13 of 867 subjects [1.5%]).
+Of the 12 subjects with resistance development in the GENVOYA group, the resistance-associated substitutions that emerged were M184V/I (N=11) and K65R/N (N=2) in reverse transcriptase and T66T/A/I/V (N=2), E92Q (N=4), E138K (N=1), Q148Q/R (N=1) and N155H (N=2) in integrase.
+Of the 13 subjects with resistance development in the STRIBILD group, the resistance-associated substitutions that emerged were M184V/I (N=9), K65R/N (N=4), and L210W (N=1) in reverse transcriptase and E92Q/V (N=4), E138K (N=3), Q148R (N=2), and N155H/S (N=3) in integrase.
 In both treatment groups, most subjects who developed substitutions associated with resistance to elvitegravir also developed emtricitabine resistance-associated substitutions.
 These genotypic resistance results were confirmed by phenotypic analyses.
 

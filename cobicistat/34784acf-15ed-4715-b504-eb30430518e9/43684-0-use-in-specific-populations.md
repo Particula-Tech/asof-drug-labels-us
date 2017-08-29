@@ -37,7 +37,7 @@ Animal Data
 Elvitegravir:
 
 Elvitegravir was administered orally to pregnant rats (0, 300, 1000, and 2000 mg/kg/day) and rabbits (0, 50, 150, and 450 mg/kg/day) through organogenesis (on gestation days 7 through 17 and days 7 through 19, respectively).
-No significant toxicological effects were observed in embryo-fetal toxicity studies performed with elvitegravir in rats at exposures (AUC) approximately 23 times higher and in rabbits at approximately 0.2 times higher than human exposures at the recommended daily dose.
+No significant toxicological effects were observed in embryo-fetal toxicity studies performed with elvitegravir in rats at exposures (AUC) approximately 23 times and in rabbits at approximately 0.2 times the human exposures at the recommended daily dose.
 In a pre/postnatal developmental study, elvitegravir was administered orally to rats at doses of 0, 300, 1000, and 2000 mg/kg from gestation day 7 to day 20 of lactation.
 At doses of 2000 mg/kg/day of elvitegravir, neither maternal nor developmental toxicity was noted.
 Systemic exposures (AUC) at this dose were 18 times the human exposures at the recommended daily dose.
@@ -99,7 +99,7 @@ Tenofovir was excreted into the milk of lactating rhesus monkeys, following a si
 
 ## 8.4 Pediatric Use
 
-The efficacy and safety of GENVOYA for the treatment of HIV-1 infection was established in pediatric patents aged 12 years and older with body weight greater than or equal to 35 kg [see Dosage and Administration (2.2)].
+The efficacy and safety of GENVOYA for the treatment of HIV-1 infection was established in pediatric patients aged 12 years and older with body weight greater than or equal to 35 kg [see Dosage and Administration (2.2)].
 Use of GENVOYA in this age group is supported by studies in adults and by an open-label trial of 50 antiretroviral treatment-naïve HIV-1 infected pediatric subjects 12 to less than 18 years old receiving GENVOYA through Week 48 (Study 106).
 The safety and efficacy of GENVOYA in these subjects was similar to that in antiretroviral treatment-naïve adults [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.5)].
 

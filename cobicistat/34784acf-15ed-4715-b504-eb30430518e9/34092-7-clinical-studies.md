@@ -8,7 +8,7 @@ Table 12 Trials Conducted with GENVOYA in Subjects with HIV-1 Infection
 
 | Trial | Population | Study Arms (N) | Timepoint (Week) |
 | --- | --- | --- | --- |
-| Study 104Randomized, double blind, active controlled trial. Study 111 | Treatment-naïve adults | GENVOYA (866) STRIBILD (867) | 96 |
+| Study 104Randomized, double blind, active controlled trial. Study 111 | Treatment-naïve adults | GENVOYA (866) STRIBILD (867) | 144 |
 | Study 109Randomized, open label, active controlled trial. | Virologically-suppressedHIV-1 RNA less than 50 copies per mL. adults | GENVOYA (959) ATRIPLA® or TRUVADA®+atazanavir+cobicistat or ritonavir or STRIBILD (477) | 96 |
 | Study 112Open label trial. | Virologically-suppressed adults with renal impairmenteGFR of 30 to 69 mL per minute by Cockcroft-Gault method. | GENVOYA (242) | 96 |
 | Study 106 | Treatment-naïve adolescents between the ages of 12 to less than 18 years | GENVOYA (50) | 48 |
@@ -21,23 +21,22 @@ Nineteen percent of subjects identified as Hispanic/Latino.
 The mean baseline plasma HIV-1 RNA was 4.5 log10 copies per mL (range 1.3–7.0) and 23% of subjects had baseline viral loads greater than 100,000 copies per mL.
 The mean baseline CD4+ cell count was 427 cells per mm3 (range 0–1360) and 13% had CD4+ cell counts less than 200 cells per mm3.
 
-Pooled treatment outcomes of Studies 104 and 111 through Week 96 are presented in Table 13.
+Pooled treatment outcomes of Studies 104 and 111 through Week 144 are presented in Table 13.
 
-Table 13 Pooled Virologic Outcomes of Randomized Treatment in Studies 104 and 111 at Week 96Week 96 window was between Day 630 and 713 (inclusive). in Treatment-Naïve Subjects
+Table 13 Pooled Virologic Outcomes of Randomized Treatment in Studies 104 and 111 at Week 144Week 144 window was between Day 966 and 1049 (inclusive). in Treatment-Naïve Subjects
 
 |  | GENVOYA (N=866) | STRIBILD (N=867) |
 | --- | --- | --- |
-| HIV-1 RNA < 50 copies/mL | 87% | 85% |
-| Treatment Difference | 1.5% (95% CI: –1.7% to 4.8%) |  |
-| HIV-1 RNA ≥ 50 copies/mLIncluded subjects who had ≥50 copies/mL in the Week 96 window; subjects who discontinued early due to lack or loss of efficacy; subjects who discontinued for reasons other than an adverse event (AE), death or lack or loss of efficacy and at the time of discontinuation had a viral value of ≥ 50 copies/mL. | 5% | 4% |
-| No Virologic Data at Week 96 Window | 9% | 11% |
-| Discontinued Study Drug Due to AE or DeathIncludes subjects who discontinued due to AE or death at any time point from Day 1 through the time window if this resulted in no virologic data on treatment during the specified window. | 1% | 2% |
-| Discontinued Study Drug Due to Other Reasons and Last Available HIV-1 RNA < 50 copies/mLIncludes subjects who discontinued for reasons other than an AE, death or lack or loss of efficacy; e.g., withdrew consent, loss to follow-up, etc. | 6% | 7% |
-| Missing Data During Window but on Study Drug | 2% | 1% |
+| HIV-1 RNA < 50 copies/mLThe primary endpoint was assessed at Week 48 and the virologic success rate was 92% in the GENVOYA group and 90% in the STRIBILD group, with a treatment difference of 2.0% (95% CI: -0.7% to 4.7%). The difference at Week 144 was primarily driven by discontinuations due to other reasons with last available HIV-1 RNA <50 copies/mL. | 84% | 80% |
+| HIV-1 RNA ≥ 50 copies/mLIncluded subjects who had ≥50 copies/mL in the Week 144 window; subjects who discontinued early due to lack or loss of efficacy; subjects who discontinued for reasons other than an adverse event (AE), death or lack or loss of efficacy and at the time of discontinuation had a viral value of ≥ 50 copies/mL. | 5% | 4% |
+| No Virologic Data at Week 144 Window | 11% | 16% |
+| Discontinued Study Drug Due to AE or DeathIncludes subjects who discontinued due to AE or death at any time point from Day 1 through the time window if this resulted in no virologic data on treatment during the specified window. | 2% | 3% |
+| Discontinued Study Drug Due to Other Reasons and Last Available HIV-1 RNA < 50 copies/mLIncludes subjects who discontinued for reasons other than an AE, death or lack or loss of efficacy; e.g., withdrew consent, loss to follow-up, etc. | 9% | 11% |
+| Missing Data During Window but on Study Drug | 1% | 1% |
 
 Treatment outcomes were similar across subgroups by age, sex, race, baseline viral load, and baseline CD4+ cell count.
 
-In Studies 104 and 111, the mean increase from baseline in CD4+ cell count at Week 96 was 280 cells per mm3 in GENVOYA-treated subjects and 266 cells per mm3 in STRIBILD-treated subjects.
+In Studies 104 and 111, the mean increase from baseline in CD4+ cell count at Week 144 was 326 cells per mm3 in GENVOYA-treated subjects and 305 cells per mm3 in STRIBILD-treated subjects.
 
 ## 14.3 Clinical Trial Results in HIV-1 Virologically-Suppressed Subjects Who Switched to GENVOYA
 

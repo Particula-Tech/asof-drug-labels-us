@@ -13,7 +13,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Clinical Trials in Treatment-Naïve Adults
 
-The primary safety assessment of GENVOYA was based on Week 96 pooled data from 1,733 subjects in two randomized, double-blind, active-controlled trials, Study 104 and Study 111, in antiretroviral treatment-naïve HIV-1 infected adult subjects.
+The primary safety assessment of GENVOYA was based on Week 144 pooled data from 1,733 subjects in two randomized, double-blind, active-controlled trials, Study 104 and Study 111, in antiretroviral treatment-naïve HIV-1 infected adult subjects.
 A total of 866 subjects received one tablet of GENVOYA once daily [see Clinical Studies (14.2)].
 
 The most common adverse reaction (all Grades) reported in at least 10% of subjects in the GENVOYA group was nausea.
@@ -21,17 +21,14 @@ The proportion of subjects who discontinued treatment with GENVOYA or STRIBILD®
 Table 2 displays the frequency of adverse reactions (all Grades) greater than or equal to 5% in the GENVOYA group.
 
 Table 2 Adverse ReactionsFrequencies of adverse reactions are based on all adverse events attributed to study drugs by the investigator.
-(All Grades) Reported in ≥ 5% of HIV-1 Infected Treatment-Naïve Adults Receiving GENVOYA in Studies 104 and 111 (Week 96 analysis)
+(All Grades) Reported in ≥ 5% of HIV-1 Infected Treatment-Naïve Adults Receiving GENVOYA in Studies 104 and 111 (Week 144 analysis)
 
 |  | GENVOYA N=866 | STRIBILD N=867 |
 | --- | --- | --- |
-| GASTROINTESTINAL DISORDERS |  |  |
+| Nausea | 11% | 13% |
 | Diarrhea | 7% | 9% |
-| Nausea | 10% | 13% |
-| GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS |  |  |
-| Fatigue | 5% | 4% |
-| NERVOUS SYSTEM DISORDERS |  |  |
 | Headache | 6% | 5% |
+| Fatigue | 5% | 4% |
 
 The majority of events presented in Table 2 occurred at severity Grade 1.
 
@@ -57,9 +54,9 @@ Renal Laboratory Tests and Renal Safety
 Treatment-Naïve Adults:
 
 Cobicistat (a component of GENVOYA) has been shown to increase serum creatinine due to inhibition of tubular secretion of creatinine without affecting glomerular filtration [see Clinical Pharmacology (12.2)].
-Increases in serum creatinine occurred by Week 2 of treatment and remained stable through 96 weeks.
+Increases in serum creatinine occurred by Week 2 of treatment and remained stable through 144 weeks.
 
-In two 96-week randomized, controlled trials in a total of 1,733 treatment-naïve adults with a median baseline eGFR of 115 mL per minute, mean serum creatinine increased by less than 0.1 mg per dL in the GENVOYA group and by 0.1 mg per dL in the STRIBILD group from baseline to Week 96.
+In two 144-week randomized, controlled trials in a total of 1,733 treatment-naïve adults with a median baseline eGFR of 115 mL per minute, mean serum creatinine increased by less than 0.1 mg per dL in the GENVOYA group and by 0.1 mg per dL in the STRIBILD group from baseline to Week 144.
 
 Virologically Suppressed Adults:
 
@@ -69,10 +66,10 @@ Bone Mineral Density Effects
 
 Treatment-Naïve Adults:
 
-In a pooled analysis of Studies 104 and 111, the effects of GENVOYA compared to STRIBILD on bone mineral density (BMD) change from baseline to Week 96 were assessed by dual-energy X-ray absorptiometry (DXA).
-Mean BMD decreased from baseline to Week 96 by −0.96% with GENVOYA compared to −2.79% with STRIBILD at the lumbar spine and −0.67% compared to −3.28% at the total hip.
-BMD declines of 5% or greater at the lumbar spine were experienced by 12% of GENVOYA subjects and 26% of STRIBILD subjects.
-BMD declines of 7% or greater at the femoral neck were experienced by 11% of GENVOYA subjects and 26% of STRIBILD subjects.
+In a pooled analysis of Studies 104 and 111, the effects of GENVOYA compared to STRIBILD on bone mineral density (BMD) change from baseline to Week 144 were assessed by dual-energy X-ray absorptiometry (DXA).
+The mean percentage change in BMD from baseline to Week 144 was −0.92% with GENVOYA compared to −2.95% with STRIBILD at the lumbar spine and −0.75% compared to −3.36% at the total hip.
+BMD declines of 5% or greater at the lumbar spine were experienced by 15% of GENVOYA subjects and 29% of STRIBILD subjects.
+BMD declines of 7% or greater at the femoral neck were experienced by 15% of GENVOYA subjects and 29% of STRIBILD subjects.
 The long-term clinical significance of these BMD changes is not known.
 
 Virologically Suppressed Adults:
@@ -87,16 +84,17 @@ Laboratory Abnormalities:
 
 The frequency of laboratory abnormalities (Grades 3–4) occurring in at least 2% of subjects receiving GENVOYA in Studies 104 and 111 are presented in Table 3.
 
-Table 3 Laboratory Abnormalities (Grades 3–4) Reported in ≥ 2% of Subjects Receiving GENVOYA in Studies 104 and 111 (Week 96 analysis)
+Table 3 Laboratory Abnormalities (Grades 3–4) Reported in ≥ 2% of Subjects Receiving GENVOYA in Studies 104 and 111 (Week 144 analysis)
 
 | Laboratory Parameter AbnormalityFrequencies are based on treatment-emergent laboratory abnormalities. | GENVOYA N=866 | STRIBILD N=867 |
 | --- | --- | --- |
-| Amylase | 2% | 4% |
-| AST | 2% | 2% |
-| Creatine Kinase (≥10.0 × ULN) | 9% | 7% |
+| Creatine Kinase (≥10.0 × ULN) | 11% | 10% |
+| LDL-cholesterol (fasted) (>190 mg/dL) | 11% | 5% |
+| Total cholesterol (fasted) (>300mg/dL) | 4% | 3% |
+| Amylase | 3% | 5% |
+| ALT | 3% | 3% |
+| AST | 3% | 4% |
 | Urine RBC (Hematuria) (>75 RBC/HPF) | 3% | 3% |
-| LDL-cholesterol (fasted) (>190 mg/dL) | 8% | 4% |
-| Total cholesterol (fasted) (>300mg/dL) | 3% | 2% |
 
 Serum Lipids:
 
@@ -106,15 +104,15 @@ Changes from baseline in total cholesterol, HDL-cholesterol, LDL-cholesterol, tr
 
 Table 4 Lipid Values, Mean Change from Baseline, Reported in Subjects Receiving GENVOYA or STRIBILD in Studies 104 and 111Excludes subjects who received lipid lowering agents during the treatment period.
 
-| mg/dL | ChangeThe change from baseline is the mean of within-subject changes from baseline for subjects with both baseline and Week 96 values. | mg/dL | Change |  |
+| mg/dL | ChangeThe change from baseline is the mean of within-subject changes from baseline for subjects with both baseline and Week 144 values. | mg/dL | Change |  |
 | --- | --- | --- | --- | --- |
 |  | GENVOYA N=866 |  | STRIBILD N=867 |  |
-| Baseline | Week 96 | Baseline | Week 96 |  |
-| Total Cholesterol (fasted) | 162 [N=692] | +31 [N=692] | 166 [N=679] | +15 [N=679] |
-| HDL-cholesterol (fasted) | 46 [N=692] | +7 [N=692] | 46 [N=679] | +4 [N=679] |
-| LDL-cholesterol (fasted) | 103 [N=688] | +18 [N=688] | 107 [N=680] | +7 [N=680] |
-| Triglycerides (fasted) | 113 [N=692] | +31 [N=692] | 115 [N=679] | +13 [N=679] |
-| Total Cholesterol to HDL ratio | 3.7 [N=692] | 0.2 [N=692] | 3.8 [N=679] | 0 [N=679] |
+| Baseline | Week 144 | Baseline | Week 144 |  |
+| Total Cholesterol (fasted) | 162 [N=647] | +31 [N=647] | 165 [N=627] | +14 [N=627] |
+| Triglycerides (fasted) | 111 [N=647] | +31 [N=647] | 115 [N=627] | +17 [N=627] |
+| LDL-cholesterol (fasted) | 103 [N=647] | +18 [N=643] | 107 [N=628] | +8 [N=628] |
+| HDL-cholesterol (fasted) | 47 [N=647] | +7 [N=647] | 46 [N=627] | +3 [N=627] |
+| Total Cholesterol to HDL ratio | 3.7 [N=647] | 0.2 [N=647] | 3.8 [N=627] | 0.1 [N=627] |
 
 Clinical Trials in Pediatric Subjects:
 
