@@ -2,8 +2,6 @@
 
 ## 1.1 Treatment of Moderate to Severe Vasomotor Symptoms due to Menopause
 
-.
-
 ## 1.2 Treatment of Moderate to Severe Symptoms of Vulvar and Vaginal Atrophy due to Menopause
 
 Limitation of Use

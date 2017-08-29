@@ -186,7 +186,7 @@ This leaflet summarizes the most important information about Activella.
 If you would like more information, talk with your healthcare provider or pharmacist.
 You can ask your pharmacist or healthcare provider for information about Activella that is written for health professionals.
 
-For more information go to www.activella.com or call 1-855-346-8326.
+For more information go to www.activella.com.
 
 What are the ingredients in Activella?
 
