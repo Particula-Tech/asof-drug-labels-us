@@ -61,6 +61,9 @@ Less suitable infusion sites should be used only if the patient’s condition re
 The physician should switch to more suitable sites as rapidly as possible.
 The infusion site should be continuously monitored for free flow.
 
+| IMPORTANT - Antidote for Peripheral Ischemia To prevent sloughing and necrosis in ischemic areas, the area should be infiltrated as soon as possible with 10 to 15 mL of 0.9% Sodium Chloride Injection, USP containing from 5 to 10 mg phentolamine, an adrenergic blocking agent. A syringe with a fine hypodermic needle should be used and the solution liberally infiltrated throughout the ischemic area. Sympathetic blockage with phentolamine causes immediate and conspicuous local hyperemic changes if the area is infiltrated within 12 hours. Therefore, phentolamine should be given as soon as possible after the extravasation is noted. |
+| --- |
+
 ## Weaning
 
 When discontinuing the infusion, it may be necessary to gradually decrease the dose of dopamine HCl while expanding blood volume with IV fluids, since sudden cessation may result in marked hypotension.
