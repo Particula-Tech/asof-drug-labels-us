@@ -56,6 +56,3 @@ In a placebo-controlled, international, multicenter trial of 153 patients with a
 | Mucosal Inflammation | **sfROWASA® Placebo |  | 2.17 2.18 | 1.22† 1.74 | 0.96‡ 1.61 | -1.21† -0.56 |
 | Physician's Assessment of Disease Severity | **sfROWASA® Placebo |  | 1.86 1.87 | 1.13‡ 1.62 | 0.88‡ 1.55 | -0.97‡ -0.30 |
 | Each parameter has a 4-point scale with a numerical rating: 0=normal, 1=mild, 2=moderate, 3=severe. The four parameters are added together to produce a maximum overall DAI of 12. * Percent change for overall DAI only (calculated by taking the average of the change for each individual patient). †Significant **sfROWASA®/placebo difference. p < 0.01 ‡Significant **sfROWASA®/placebo difference. p < 0.001 §Significant **sfROWASA®/placebo difference. p < 0.05 |  |  |  |  |  |  |
-
-Differences between **sfROWASA® (mesalamine) Rectal Suspension and placebo were also statistically different in subgroups of patients on concurrent sulfasalazine and in those having an upper disease boundary between 5 and 20 or 20 and 40 cm.
-Significant differences between **sfROWASA® (mesalamine) Rectal Suspension and placebo were not achieved in those subgroups of patients on concurrent prednisone or with an upper disease boundary between 40 and 50 cm.

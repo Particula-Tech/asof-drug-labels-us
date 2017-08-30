@@ -54,7 +54,7 @@ MEDA PHARMACEUTICALS®
 
 Somerset, New Jersey 08873-4120
 
-©2013 Meda Pharmaceuticals Inc.
+©2017 Meda Pharmaceuticals Inc.
 
 U.S. Patent No. 7,645,801
 
@@ -62,7 +62,7 @@ MEDA PHARMACEUTICALS and sfROWASA are registered trademarks of Meda AB or a rela
 
 www.sfROWASA.com
 
-IN-003260-01 Rev.
-6/2013
+IN-003260-02 Rev.
+6/2017
 
 For Medical Inquiries, Call Toll-Free: 1-866-210-5950

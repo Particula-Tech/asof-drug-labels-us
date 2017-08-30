@@ -3,7 +3,7 @@
     "NDA019618"
   ],
   "inn": "mesalamine",
-  "labeler": "MEDA Pharmaceuticals",
+  "labeler": "Meda Pharmaceuticals",
   "package_ndcs": [
     "0037-0022-07",
     "0037-0022-14",
@@ -12,7 +12,7 @@
   ],
   "products": [
     {
-      "form": "Suspension",
+      "form": "SUSPENSION",
       "generic": "mesalamine",
       "name": "sfRowasa"
     }
