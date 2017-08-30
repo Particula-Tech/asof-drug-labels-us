@@ -29,9 +29,9 @@ Since selective serotonin reuptake inhibitors (SSRIs) and serotonin norepinephri
 ## 7.5 Repaglinide (CYP2C8 Substrates)
 
 The acyl-β-glucuronide metabolite of clopidogrel is a strong inhibitor of CYP2C8.
-Clopidogrel can increase the systemic exposure to drugs that are primarily cleared by CYP2C8, thereby needing dose-adjustment and/or appropriate monitoring.
+Clopidogrel can increase the systemic exposure to drugs that are primarily cleared by CYP2C8, thereby needing dose-adjustment and appropriate monitoring.
 
-Concomitant administration of clopidogrel with repaglinide significantly increases systemic exposures to repaglinide [see Clinical Pharmacology (12.3)].
-When concomitant use is required in a patient maintained on clopidogrel, initiate repaglinide at 0.5 mg with each meal and titrate based on blood glucose levels.
-Do not exceed a total daily dose of 4 mg.
-If concomitant use of clopidogrel is required in a patient stabilized on higher doses of repaglinide, down titrate the dose of repaglinide based on blood glucose levels to not exceed a total daily dose of 4 mg.
+Clopidogrel increased repaglinide exposures by 3.9- to 5.1-fold [see Clinical Pharmacology (12.3)].
+Avoid concomitant use of repaglinide with clopidogrel.
+If concomitant use cannot be avoided, initiate repaglinide at 0.5 mg before each meal and do not exceed a total daily dose of 4 mg.
+Increased frequency of glucose monitoring may be required during concomitant use.

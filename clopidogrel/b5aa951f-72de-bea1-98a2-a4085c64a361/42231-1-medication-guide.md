@@ -190,6 +190,8 @@ Coumadin® is a registered trademark of Bristol-Myers Squibb Pharma Company.
 
 Prilosec® and Nexium® are registered trademarks of AstraZeneca.
 
+Prandin® is a registered trademark of Novo Nordisk Inc.
+
 Jantoven® is a registered trademark of USL Pharma.
 
 RX only
@@ -208,6 +210,6 @@ Dr. Reddy’s Laboratories Limited
 
 Srikakulam - 532 409 INDIA
 
-Revised: 1016
+Revised: 0717
 
-Dispense with medication guide available at: www.drreddys.com/medguide/clopidogreltabs.pdf
+Dispense with Medication Guide available at: www.drreddys.com/medguide/clopidogreltabs.pdf
