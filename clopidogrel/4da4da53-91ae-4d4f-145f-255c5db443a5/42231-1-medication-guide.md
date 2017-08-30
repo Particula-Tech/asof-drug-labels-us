@@ -19,7 +19,7 @@ Clopidogrel tablets may not work as well in people who:
   Your doctor may change the medicine you take for stomach acid problems while you take clopidogrel tablets.
 
 2.
-Clopidogrel tablets ctan cause bleeding which can be serious and can sometimes lead to death.
+Clopidogrel tablets ctan cause bleeding which can be serious and can some times lead to death.
 Clopidogrel tablets are blood thinner medicine that lowers the chance of blood clots forming in your body.
 While you take clopidogrel tablets:
 
@@ -37,7 +37,7 @@ Call your doctor right away if you have any of these signs or symptoms of bleedi
 - vomit blood or your vomit looks like coffee grounds
 
 Do not stop taking clopidogrel tablets without talking to the doctor who prescribes it for you.
-People who stop taking clopidogrel tablets too soon have a higher risk of having a heart attack, or dying.
+People who stop taking clopidogrel tablets too soon have a higher risk of having a heart attack or dying.
 If you must stop clopidogrel tablets because of bleeding, your risk of a heart attack may be higher.
 
 What are clopidogrel tablets?
@@ -85,7 +85,9 @@ They should talk to the doctor who prescribed clopidogrel tablets for you before
 Tell your doctor about all the medicines you take, including prescription, non-prescription medicines, vitamins and herbal supplements.
 
 Clopidogrel tablets may affect the way other medicines work, and other medicines may affect how clopidogrel tablets works.
-See “What is the most important information I should know about clopidogrel?”
+See “What is the most important information I should know about clopidogrel tablets?”
+
+Clopidogrel tablets may increase blood levels of other medicines such as repaglinide (Prandin®).
 
 Taking clopidogrel tablets with certain other medicines may increase your risk of bleeding.
 Especially tell your doctor if you take:
@@ -107,7 +109,6 @@ How should I take clopidogrel tablets?
 - Do not change your dose or stop taking clopidogrel tablets without talking to your doctor first.
   Stopping clopidogrel tablets may increase your risk of heart attack or stroke.
 - Take clopidogrel tablets with aspirin as instructed by your doctor.
-- You can take clopidogrel tablets with or without food.
 - If you miss a dose, take clopidogrel tablets as soon as you remember.
   If it is almost time for your next dose, skip the missed dose.
   Take the next dose at your regular time.
@@ -177,17 +178,17 @@ Active ingredient: clopidogrel bisulfate
 
 Inactive ingredients:
 
-Tablet: croscarmellose sodium, hydrogenated castor oil powder, hydroxypropyl cellulose, hypromellose, mannitol and microcrystalline cellulose
+Tablet: croscarmellose sodium, hydrogenated castor oil powder, hydroxypropyl cellulose, hypromellose, mannitol and microcrystalline cellulose.
 
 Film coating: hypromellose 2910, iron oxide red, polyethylene glycol 400 and titanium dioxide.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-To reorder additional medication guides, please contact Dr. Reddy’s Customer Service at 1-866-733-3952.
-
 Coumadin® is a registered trademark of Bristol-Myers Squibb Pharma Company.
 
-Prilosec® is a registered trademark of AstraZeneca.
+Prilosec® and Nexium® are registered trademarks of AstraZeneca.
+
+Prandin® is a registered trademark of Novo Nordisk Inc.
 
 Jantoven® is a registered trademark of USL Pharma.
 
@@ -199,14 +200,16 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally - 500 090 INDIA
 
-Revised: 0815
-
 or
 
 Manufactured by:
 
-Dr. Reddy's Laboratories Limited
+Dr. Reddy’s Laboratories Limited
 
 Srikakulam - 532 409 INDIA
 
-Revised: 0815
+Revised: 0717
+
+Dispense with Medication Guide available at:
+
+www.drreddys.com/medguide/clopidogrel300mgtabs.pdf
