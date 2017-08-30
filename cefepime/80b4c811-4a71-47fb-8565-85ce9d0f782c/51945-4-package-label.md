@@ -1,5 +1,5 @@
-500 mg Label
+# 1 g carton label
 
-1g Label
+# 2 g carton label
 
-2 g Label
+# 500 mg carton label

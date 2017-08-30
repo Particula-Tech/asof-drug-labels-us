@@ -1,22 +1,29 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-Cefepime for Injection, USP is indicated in the treatment of the following infections caused by susceptible strains of the designated microorganisms (see also PRECAUTIONS: Pediatric Use and DOSAGE AND ADMINISTRATION):
+## 1.1 Pneumonia
 
-Pneumonia (moderate to severe) caused by Streptococcus pneumoniae, including cases associated with concurrent bacteremia, Pseudomonas aeruginosa, Klebsiella pneumoniae, or Enterobacter species.
+Cefepime for Injection is indicated in the treatment of pneumonia (moderate to severe) caused by susceptible strains of Streptococcus pneumoniae, including cases associated with concurrent bacteremia, Pseudomonas aeruginosa, Klebsiella pneumoniae, or Enterobacter species.
 
-Empiric Therapy for Febrile Neutropenic Patients.
-Cefepime as monotherapy is indicated for empiric treatment of febrile neutropenic patients.
+## 1.2 Empiric Therapy for Febrile Neutropenic Patients
+
+Cefepime for Injection as monotherapy is indicated for empiric treatment of febrile neutropenic patients.
 In patients at high risk for severe infection (including patients with a history of recent bone marrow transplantation, with hypotension at presentation, with an underlying hematologic malignancy, or with severe or prolonged neutropenia), antimicrobial monotherapy may not be appropriate.
-Insufficient data exist to support the efficacy of cefepime monotherapy in such patients.
-(See CLINICAL STUDIES.)
+Insufficient data exist to support the efficacy of cefepime monotherapy in such patients [see Clinical Studies (14.1)].
 
-Uncomplicated and Complicated Urinary Tract Infections (including pyelonephritis) caused by Escherichia coli or Klebsiella pneumoniae, when the infection is severe, or caused by Escherichia coli, Klebsiella pneumoniae, or Proteus mirabilis, when the infection is mild to moderate, including cases associated with concurrent bacteremia with these microorganisms.
+## 1.3 Uncomplicated and Complicated Urinary Tract Infections (including pyelonephritis)
 
-Uncomplicated Skin and Skin Structure Infections caused by Staphylococcus aureus (methicillin-susceptible isolates only) or Streptococcus pyogenes.
+Cefepime for Injection is indicated in the treatment of uncomplicated and complicated urinary tract infections (including pyelonephritis) caused by susceptible isolates of Escherichia coli or Klebsiella pneumoniae, when the infection is severe, or caused by Escherichia coli, Klebsiella pneumoniae, or Proteus mirabilis, when the infection is mild to moderate, including cases associated with concurrent bacteremia with these bacteria.
 
-Complicated Intra-abdominal Infections (used in combination with metronidazole) caused by Escherichia coli, viridans group streptococci, Pseudomonas aeruginosa, Klebsiella pneumoniae, Enterobacter species, or Bacteroides fragilis.
-(See CLINICAL STUDIES.)
+## 1.4 Uncomplicated Skin and Skin Structure Infections
 
-To reduce the development of drug-resistant bacteria and maintain the effectiveness of Cefepime for Injection, USP and other antibacterial drugs, Cefepime for Injection, USP should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
+Cefepime for Injection is indicated in the treatment of uncomplicated skin and skin structure infections caused by Staphylococcus aureus (methicillin-susceptible isolates only) or Streptococcus pyogenes.
+
+## 1.5 Complicated Intra-abdominal Infections (used in combination with metronidazole)
+
+Cefepime for Injection is indicated in the treatment of complicated intra-abdominal infections (used in combination with metronidazole) in adults caused by susceptible isolates of Escherichia coli, viridans group streptococci, Pseudomonas aeruginosa, Klebsiella pneumoniae, Enterobacter species, or Bacteroides fragilis [see Clinical Studies (14.2)].
+
+## 1.6 Usage
+
+To reduce the development of drug-resistant bacteria and maintain the effectiveness of Cefepime for Injection and other antibacterial drugs, Cefepime for Injection should be used only to treat infections that are proven or strongly suspected to be caused by susceptible bacteria.
 When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy.
 In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy.
