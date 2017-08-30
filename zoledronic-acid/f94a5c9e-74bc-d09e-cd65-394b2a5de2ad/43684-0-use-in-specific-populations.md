@@ -62,7 +62,7 @@ Because decreased renal function occurs more commonly in the elderly, special ca
 Zoledronic acid injection is contraindicated in patients with creatinine clearance less than 35 mL/min and in those with evidence of acute renal impairment.
 There are no safety or efficacy data to support the adjustment of the zoledronic acid injection dose based on baseline renal function.
 Therefore, no dosage adjustment is required in patients with a creatinine clearance of greater than or equal to 35 mL/min [see Warnings and Precautions (5.3), Clinical Pharmacology (12.3)].
-Risk of acute renal failure may increase with underlying renal disease and dehydration secondary to fever, sepsis, gastrointestinal losses, diuretic therapy, advanced age, etc. [see Post-Marketing Experience (6.2)].
+Risk of acute renal failure may increase with underlying renal disease and dehydration secondary to fever, sepsis, gastrointestinal losses, diuretic therapy, advanced age, etc. [see Adverse Reactions (6.2)].
 
 ## 8.7 Hepatic Impairment
 

@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Each bottle contains 5 mg/100 mL: NDC 55111-688-52
+Each bottle contains 5 mg per 100 mL: NDC 55111-688-52
 
 Handling
 
@@ -11,4 +11,4 @@ Storage
 
 Store at 20°-25°C (68°-77°F); [see USP Controlled Room Temperature].
 
-Single use vial.
+Single dose vial.

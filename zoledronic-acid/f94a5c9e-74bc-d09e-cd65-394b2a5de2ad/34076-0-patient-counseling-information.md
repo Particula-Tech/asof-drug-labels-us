@@ -1,3 +1,0 @@
-# 17 PATIENT COUNSELING INFORMATION
-
-SeeFDA-Approved Medication Guide
