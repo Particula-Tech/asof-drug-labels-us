@@ -4,7 +4,7 @@ Pseudomembranous colitis has been reported with nearly all antibacterial agents,
 Therefore, it is important to consider this diagnosis in patients who present with diarrhea subsequent to the administration of antibacterial agents.
 
 Treatment with antibacterial agents alters the normal flora of the colon and may permit overgrowth of clostridia.
-Studies indicate that a toxin produced by Clostridium difficileis one primary cause of “antibiotic-associated colitis”.
+Studies indicate that a toxin produced by Clostridium difficile is one primary cause of “antibiotic-associated colitis”.
 After the diagnosis of pseudomembranous colitis has been established, therapeutic measures should be initiated.
 Mild cases of pseudomembranous colitis usually respond to drug discontinuation alone.
 In moderate to severe cases, consideration should be given to management with fluids and electrolytes, protein supplementation and treatment with an antibacterial drug clinically effective against C. difficile colitis.
@@ -25,12 +25,12 @@ If this occurs, discontinue use and take appropriate measures.
 
 Patients using ERYGEL® Topical Gel USP, 2% should receive the following information and instructions:
 
-1. This medication is to be used as directed by the physician.
+1. 1.This medication is to be used as directed by the physician.
    It is for external use only.
    Avoid contact with the eyes, nose, mouth, and all mucous membranes.
-2. This medication should not be used for any disorder other than that for which it was prescribed.
-3. Patients should not use any other topical acne medication unless otherwise directed by their physician.
-4. Patients should report to their physician any signs of local adverse reactions.
+2. 2.This medication should not be used for any disorder other than that for which it was prescribed.
+3. 3.Patients should not use any other topical acne medication unless otherwise directed by their physician.
+4. 4.Patients should report to their physician any signs of local adverse reactions.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility -
 
