@@ -14,7 +14,7 @@ While it is difficult to distinguish withdrawal and recurrence for certain patie
 A withdrawal syndrome typically includes the occurrence of new symptoms, tends to appear toward the end of taper or shortly after discontinuation, and will decrease with time.
 In recurring panic disorder, symptoms similar to those observed before treatment may recur either early or late, and they will persist.
 
-While the severity and incidence of withdrawal phenomena appear to be related to dose and duration of treatment, withdrawal symptoms, including seizures, have been reported after only brief therapy with alprazolam at doses within the recommended range for the treatment of anxiety (eg, 0.75 to 4 mg/day).
+While the severity and incidence of withdrawal phenomena appear to be related to dose and duration of treatment, withdrawal symptoms, including seizures, have been reported after only brief therapy with alprazolam at doses within the recommended range for the treatment of anxiety (e.g., 0.75 to 4 mg/day).
 Signs and symptoms of withdrawal are often more prominent after rapid decrease of dosage or abrupt discontinuance.
 The risk of withdrawal seizures may be increased at doses above 4 mg/day (see WARNINGS).
 

@@ -1,9 +1,9 @@
 # ADVERSE REACTIONS
 
 Side effects to alprazolam tablets, if they occur, are generally observed at the beginning of therapy and usually disappear upon continued medication.
-In the usual patient, the most frequent side effects are likely to be an extension of the pharmacological activity of alprazolam, eg, drowsiness or light-headedness.
+In the usual patient, the most frequent side effects are likely to be an extension of the pharmacological activity of alprazolam, e.g., drowsiness or light-headedness.
 
-The data cited in the two tables below are estimates of untoward clinical event incidence among patients who participated under the following clinical conditions: relatively short duration (ie, four weeks) placebo-controlled clinical studies with dosages up to 4 mg/day of alprazolam (for the management of anxiety disorders or for the short-term relief of the symptoms of anxiety) and short-term (up to ten weeks) placebo-controlled clinical studies with dosages up to 10 mg/day of alprazolam in patients with panic disorder, with or without agoraphobia.
+The data cited in the two tables below are estimates of untoward clinical event incidence among patients who participated under the following clinical conditions: relatively short duration (i.e., four weeks) placebo-controlled clinical studies with dosages up to 4 mg/day of alprazolam (for the management of anxiety disorders or for the short-term relief of the symptoms of anxiety) and short-term (up to ten weeks) placebo-controlled clinical studies with dosages up to 10 mg/day of alprazolam in patients with panic disorder, with or without agoraphobia.
 
 These data cannot be used to predict precisely the incidence of untoward events in the course of usual medical practice where patient characteristics, and other factors often differ from those in clinical trials.
 These figures cannot be compared with those obtained from other clinical studies involving related drug products and placebo as each group of drug trials are conducted under a different set of conditions.
@@ -12,7 +12,7 @@ Comparison of the cited figures, however, can provide the prescriber with some b
 Even this use must be approached cautiously, as a drug may relieve a symptom in one patient but induce it in others.
 (For example, an anxiolytic drug may relieve dry mouth [a symptom of anxiety] in some subjects but induce it [an untoward event] in others.)
 
-Additionally, for anxiety disorders the cited figures can provide the prescriber with an indication as to the frequency with which physician intervention (eg, increased surveillance, decreased dosage or discontinuation of drug therapy) may be necessary because of the untoward clinical event.
+Additionally, for anxiety disorders the cited figures can provide the prescriber with an indication as to the frequency with which physician intervention (e.g., increased surveillance, decreased dosage or discontinuation of drug therapy) may be necessary because of the untoward clinical event.
 
 Treatment-Emergent Adverse Events Reported in Placebo-Controlled Trials of Anxiety Disorders
 
@@ -188,4 +188,4 @@ The majority of these reactions were reported through the medical event voluntar
 Because of the spontaneous nature of the reporting of medical events and the lack of controls, a causal relationship to the use of alprazolam cannot be readily determined.
 Reported events include: gastrointestinal disorder, hypomania, mania, liver enzyme elevations, hepatitis, hepatic failure, Stevens-Johnson syndrome, angioedema, peripheral edema, hyperprolactinemia, gynecomastia, and galactorrhea (see PRECAUTIONS).
 
-To report SUSPECTED ADVERSE REACTIONS, contact Actavis at 1-800-432-8534 or FDA at 1-800-FDA-1088 or http://www.fda.gov/ for voluntary reporting of adverse reactions.
+To report SUSPECTED ADVERSE REACTIONS, contact Actavis at 1-888-838-2872 or FDA at 1-800-FDA-1088 or http://www.fda.gov/ for voluntary reporting of adverse reactions.

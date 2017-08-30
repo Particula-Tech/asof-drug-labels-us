@@ -6,7 +6,7 @@ In such cases, dosage should be increased cautiously to avoid adverse effects.
 
 Anxiety Disorders and Transient Symptoms of Anxiety
 
-Treatment for patients with anxiety should be initiated with a dose of 0.25 to 0.5 mg given three times daily.
+Treatment for patients with anxiety should be initiated with a dose of 0.25 mg to 0.5 mg given three times daily.
 The dose may be increased to achieve a maximum therapeutic effect, at intervals of 3 to 4 days, to a maximum daily dose of 4 mg, given in divided doses.
 The lowest possible effective dose should be employed and the need for continued treatment reassessed frequently.
 The risk of dependence may increase with dose and duration of treatment.
@@ -18,8 +18,8 @@ Some patients may require an even slower dosage reduction.
 Panic Disorder
 
 The successful treatment of many panic disorder patients has required the use of alprazolam at doses greater than 4 mg daily.
-In controlled trials conducted to establish the efficacy of alprazolam in panic disorder, doses in the range of 1 to 10 mg daily were used.
-The mean dosage employed was approximately 5 to 6 mg daily.
+In controlled trials conducted to establish the efficacy of alprazolam in panic disorder, doses in the range of 1 mg to 10 mg daily were used.
+The mean dosage employed was approximately 5 mg to 6 mg daily.
 Among the approximately 1700 patients participating in the panic disorder development program, about 300 received alprazolam in dosages of greater than 7 mg/day, including approximately 100 patients who received maximum dosages of greater than 9 mg/day.
 Occasional patients required as much as 10 mg a day to achieve a successful response.
 
@@ -31,7 +31,7 @@ Slower titration to the dose levels greater than 4 mg/day may be advisable to al
 To lessen the possibility of interdose symptoms, the times of administration should be distributed as evenly as possible throughout the waking hours, that is, on a three or four times per day schedule.
 
 Generally, therapy should be initiated at a low dose to minimize the risk of adverse responses in patients especially sensitive to the drug.
-Dose should be advanced until an acceptable therapeutic response (ie, a substantial reduction in or total elimination of panic attacks) is achieved, intolerance occurs, or the maximum recommended dose is attained.
+Dose should be advanced until an acceptable therapeutic response (i.e., a substantial reduction in or total elimination of panic attacks) is achieved, intolerance occurs, or the maximum recommended dose is attained.
 
 Dose Maintenance
 

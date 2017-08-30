@@ -42,13 +42,13 @@ In an obese group of subjects the half-life of alprazolam ranged between 9.9 and
 
 Because of its similarity to other benzodiazepines, it is assumed that alprazolam undergoes transplacental passage and that it is excreted in human milk.
 
-Race — Maximal concentrations and half-life of alprazolam are approximately 15% and 25% higher in Asians compared to Caucasians.
+Race - Maximal concentrations and half-life of alprazolam are approximately 15% and 25% higher in Asians compared to Caucasians.
 
-Pediatrics — The pharmacokinetics of alprazolam in pediatric patients have not been studied.
+Pediatrics - The pharmacokinetics of alprazolam in pediatric patients have not been studied.
 
-Gender — Gender has no effect on the pharmacokinetics of alprazolam.
+Gender - Gender has no effect on the pharmacokinetics of alprazolam.
 
-Cigarette Smoking — Alprazolam concentrations may be reduced by up to 50% in smokers compared to non-smokers.
+Cigarette Smoking - Alprazolam concentrations may be reduced by up to 50% in smokers compared to non-smokers.
 
 Drug-Drug Interactions
 
@@ -60,7 +60,7 @@ Drug products that have been studied in vivo, along with their effect on increas
 
 CYP3A inducers would be expected to decrease alprazolam concentrations and this has been observed in vivo.
 The oral clearance of alprazolam (given in a 0.8 mg single dose) was increased from 0.90±0.21 mL/min/kg to 2.13±0.54 mL/min/kg and the elimination t1/2 was shortened (from 17.1±4.9 to 7.7 ±1.7 h) following administration of 300 mg/day carbamazepine for 10 days (see PRECAUTIONS – Drug Interactions).
-However, the carbamazepine dose used in this study was fairly low compared to the recommended doses (1000 to 1200 mg/day); the effect at usual carbamazepine doses is unknown.
+However, the carbamazepine dose used in this study was fairly low compared to the recommended doses (1,000 to 1,200 mg/day); the effect at usual carbamazepine doses is unknown.
 
 The ability of alprazolam to induce human hepatic enzyme systems has not yet been determined.
 However, this is not a property of benzodiazepines in general.
