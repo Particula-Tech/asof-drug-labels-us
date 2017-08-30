@@ -16,7 +16,7 @@ Genentech
 
 10134540
 
-PRINCIPAL DISPLAY PANEL - 30 mg Capsule Carton
+# PRINCIPAL DISPLAY PANEL - 30 mg Capsule Blister Pack Carton
 
 NDC 0004-0802-85
 
@@ -32,7 +32,9 @@ Rx only
 
 Genentech
 
-PRINCIPAL DISPLAY PANEL - 45 mg Capsule Carton
+10175386
+
+# PRINCIPAL DISPLAY PANEL - 45 mg Capsule Blister Pack Carton
 
 NDC 0004-0801-85
 
@@ -48,7 +50,9 @@ Rx only
 
 Genentech
 
-PRINCIPAL DISPLAY PANEL - 75 mg Capsule Carton
+10175387
+
+# PRINCIPAL DISPLAY PANEL - 75 mg Capsule Blister Pack Carton
 
 NDC 0004-0800-85
 
@@ -64,7 +68,9 @@ Rx only
 
 Genentech
 
-PRINCIPAL DISPLAY PANEL - 60 mL Bottle Carton - NDC 0004-0822-05
+10175388
+
+# PRINCIPAL DISPLAY PANEL - 60 mL Bottle Carton - NDC 0004-0822-05
 
 NDC 0004-0822-05
 
@@ -80,4 +86,4 @@ Rx only
 
 Genentech
 
-10138470
+10167501
