@@ -83,3 +83,7 @@ It is not possible to determine whether these events are related directly to sil
 Nervous system
 
 Seizure, seizure recurrence
+
+Ophthalmologic
+
+NAION [see Warnings and Precautions (5.5) and Patient Counseling Information (17)].
