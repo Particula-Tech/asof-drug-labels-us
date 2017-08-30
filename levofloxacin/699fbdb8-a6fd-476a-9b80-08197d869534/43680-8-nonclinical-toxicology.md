@@ -15,7 +15,7 @@ Levofloxacin caused no impairment of fertility or reproductive performance in ra
 ## 13.2 Animal Toxicology and/or Pharmacology
 
 Levofloxacin and other quinolones have been shown to cause arthropathy in immature animals of most species tested [see Warnings and Precautions (5.11)].
-In immature dogs (4-5 months old), oral doses of 10 mg/kg/day for 7 days and intravenous doses of 4 mg/kg/day for 14 days of levofloxacin resulted in arthropathic lesions.
+In immature dogs (4 to 5 months old), oral doses of 10 mg/kg/day for 7 days and intravenous doses of 4 mg/kg/day for 14 days of levofloxacin resulted in arthropathic lesions.
 Administration at oral doses of 300 mg/kg/day for 7 days and intravenous doses of 60 mg/kg/day for 4 weeks produced arthropathy in juvenile rats.
 Three-month old beagle dogs dosed orally with levofloxacin at 40 mg/kg/day exhibited clinically severe arthrotoxicity resulting in the termination of dosing at Day 8 of a 14-day dosing routine.
 Slight musculoskeletal clinical effects, in the absence of gross pathological or histopathological effects, resulted from the lowest dose level of 2.5 mg/kg/day (approximately 0.2-fold the pediatric dose based upon AUC comparisons).

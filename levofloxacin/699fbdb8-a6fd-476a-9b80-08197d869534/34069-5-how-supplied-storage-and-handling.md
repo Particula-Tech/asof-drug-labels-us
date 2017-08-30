@@ -20,6 +20,8 @@ Protect from freezing.
 
 Protect from light.
 
+Keep out of reach of children.
+
 Sterile, Nonpyrogenic, Preservative-free, PVC-free, DEHP-free.
 
-The container closure is not made with natural rubber latex.
+The container and container closure are not made with natural rubber latex.

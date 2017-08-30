@@ -11,11 +11,11 @@ Table 1: Dosage in Adult Patients with Normal Renal Function (creatinine clearan
 
 | Type of Infection1 | Dosed Every 24 hours | Duration (days)2 |
 | --- | --- | --- |
-| Nosocomial Pneumonia | 750 mg | 7-14 |
-| Community Acquired Pneumonia3 | 500 mg | 7-14 |
+| Nosocomial Pneumonia | 750 mg | 7 to 14 |
+| Community Acquired Pneumonia3 | 500 mg | 7 to 14 |
 | Community Acquired Pneumonia4 | 750 mg | 5 |
-| Complicated Skin and Skin Structure Infections (SSSI) | 750 mg | 7-14 |
-| Uncomplicated SSSI | 500 mg | 7-10 |
+| Complicated Skin and Skin Structure Infections (SSSI) | 750 mg | 7 to 14 |
+| Uncomplicated SSSI | 500 mg | 7 to 10 |
 | Chronic Bacterial Prostatitis | 500 mg | 28 |
 | Inhalational Anthrax (Post-Exposure), adult and pediatric patients > 50 kg7,8 Pediatric patients < 50 kg and ≥ 6 months of age7,8 | 500 mg see Table 2 below (2.2) | 608 608 |
 | Plague, adult and pediatric patients > 50 kg9 Pediatric patients < 50 kg and ≥ 6 months of age | 500 mg see Table 2 below (2.2) | 10 to 14 10 to 14 |
@@ -24,7 +24,7 @@ Table 1: Dosage in Adult Patients with Normal Renal Function (creatinine clearan
 | Uncomplicated Urinary Tract Infection | 250 mg | 3 |
 | Acute Bacterial Exacerbation of Chronic Bronchitis (ABECB) | 500 mg | 7 |
 | Acute Bacterial Sinusitis (ABS) | 750 mg | 5 |
-| 500 mg | 10-14 |  |
+| 500 mg | 10 to 14 |  |
 | 1 Due to the designated pathogens [see Indications and Usage (1)]. |  |  |
 | 2 Sequential therapy (intravenous to oral) may be instituted at the discretion of the physician. |  |  |
 | 3 Due to methicillin-susceptible Staphylococcus aureus, Streptococcus pneumoniae (including multi-drug-resistant isolates [MDRSP]), Haemophilus influenzae, Haemophilus parainfluenzae, Klebsiella pneumoniae, Moraxella catarrhalis, Chlamydophila pneumoniae, Legionella pneumophila, or Mycoplasma pneumoniae [see Indications and Usage (1.2)]. |  |  |
@@ -92,7 +92,7 @@ It is not for intramuscular, intrathecal, intraperitoneal, or subcutaneous admin
 Hydration for Patients Receiving Levofloxacin Injection
 
 Adequate hydration of patients receiving intravenous levofloxacin should be maintained to prevent the formation of highly concentrated urine.
-Crystalluria and cylindruria have been reported with quinolones [see Adverse Reactions (6.1) and Patient Counseling Information (17.3)].
+Crystalluria and cylindruria have been reported with quinolones [see Adverse Reactions (6.1) and Patient Counseling Information (17)].
 
 ## 2.6 Preparation of Intravenous Product
 
@@ -105,9 +105,9 @@ Levofloxacin Injection Premix in Single-Use Flexible Containers (5 mg per mL)
 
 Levofloxacin Injection is supplied in flexible containers within a foil overwrap.
 These contain a premixed, ready to use levofloxacin solution in 5% dextrose (D5W) for single-use.
-The 100 mL premixed flexible containers contain either 250 mg/50 mL or 500 mg/100 mL of levofloxacin solution.
-The 150 mL flexible container contains 750 mg/150 mL of levofloxacin solution.
-The concentration of each container is 5 mg/mL.
+The 100 mL premixed flexible containers contain either 250 mg per 50 mL or 500 mg per 100 mL of levofloxacin solution.
+The 150 mL flexible container contains 750 mg per 150 mL of levofloxacin solution.
+The concentration of each container is 5 mg per mL.
 No further dilution of these preparations is necessary.
 Because the premix flexible containers are for single-use only, any unused portion should be discarded.
 

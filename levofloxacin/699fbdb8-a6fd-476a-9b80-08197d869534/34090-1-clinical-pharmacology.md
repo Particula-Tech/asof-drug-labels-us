@@ -31,23 +31,23 @@ Table 8: Mean ± SD Levofloxacin PK Parameters
 | Young10 | 5.5 ± 1.0 | 1.5 ± 0.6 | 47.5 ± 9.8 | 182 ± 35 | 83 ± 18 | 6.0 ± 0.9 | 140 ± 33 |
 | Elderly11 | 7.0 ± 1.6 | 1.4 ± 0.5 | 74.7 ± 23.3 | 121 ± 33 | 67 ± 19 | 7.6 ± 2.0 | 91 ± 29 |
 | 500 mg oral single dose tablet, patients with renal insufficiency: |  |  |  |  |  |  |  |
-| CLCR 50-80 mL/min | 7.5 ± 1.8 | 1.5 ± 0.5 | 95.6 ± 11.8 | 88 ± 10 | ND | 9.1 ± 0.9 | 57 ± 8 |
-| CLCR 20-49 mL/min | 7.1 ± 3.1 | 2.1 ± 1.3 | 182.1 ± 62.6 | 51 ± 19 | ND | 27 ± 10 | 26 ± 13 |
+| CLCR 50 to 80 mL/min | 7.5 ± 1.8 | 1.5 ± 0.5 | 95.6 ± 11.8 | 88 ± 10 | ND | 9.1 ± 0.9 | 57 ± 8 |
+| CLCR 20 to 49 mL/min | 7.1 ± 3.1 | 2.1 ± 1.3 | 182.1 ± 62.6 | 51 ± 19 | ND | 27 ± 10 | 26 ± 13 |
 | CLCR <20 mL/min | 8.2 ± 2.6 | 1.1 ± 1.0 | 263.5 ± 72.5 | 33 ± 8 | ND | 35 ± 5 | 13 ± 3 |
 | Hemodialysis | 5.7 ± 1.0 | 2.8 ± 2.2 | ND | ND | ND | 76 ± 42 | ND |
 | CAPD | 6.9 ± 2.3 | 1.4 ± 1.1 | ND | ND | ND | 51 ± 24 | ND |
 | 1 clearance/bioavailability |  |  |  |  |  |  |  |
 | 2 volume of distribution/bioavailability |  |  |  |  |  |  |  |
-| 3 healthy males 18-53 years of age |  |  |  |  |  |  |  |
+| 3 healthy males 18 to 53 years of age |  |  |  |  |  |  |  |
 | 4 60 min infusion for 250 mg and 500 mg doses, 90 min infusion for 750 mg dose |  |  |  |  |  |  |  |
-| 5 healthy male and female subjects 18-54 years of age |  |  |  |  |  |  |  |
-| 6 500 mg every 48h for patients with moderate renal impairment (CLCR 20-50 mL/min) and infections of the respiratory tract or skin |  |  |  |  |  |  |  |
+| 5 healthy male and female subjects 18 to 54 years of age |  |  |  |  |  |  |  |
+| 6 500 mg every 48h for patients with moderate renal impairment (CLCR 20 to 50 mL/min) and infections of the respiratory tract or skin |  |  |  |  |  |  |  |
 | 7 dose-normalized values (to 500 mg dose), estimated by population pharmacokinetic modeling |  |  |  |  |  |  |  |
-| 8 healthy males 22-75 years of age |  |  |  |  |  |  |  |
-| 9 healthy females 18-80 years of age |  |  |  |  |  |  |  |
-| 10 young healthy male and female subjects 18-36 years of age |  |  |  |  |  |  |  |
-| 11 healthy elderly male and female subjects 66-80 years of age |  |  |  |  |  |  |  |
-| 12 healthy males and females 19-55 years of age. |  |  |  |  |  |  |  |
+| 8 healthy males 22 to 75 years of age |  |  |  |  |  |  |  |
+| 9 healthy females 18 to 80 years of age |  |  |  |  |  |  |  |
+| 10 young healthy male and female subjects 18 to 36 years of age |  |  |  |  |  |  |  |
+| 11 healthy elderly male and female subjects 66 to 80 years of age |  |  |  |  |  |  |  |
+| 12 healthy males and females 19 to 55 years of age. |  |  |  |  |  |  |  |
 | * Absolute bioavailability; F=0.99 ± 0.08 from a 500 mg tablet and F=0.99 ± 0.06 from a 750 mg tablet; |  |  |  |  |  |  |  |
 | ND=not determined. |  |  |  |  |  |  |  |
 
@@ -106,7 +106,7 @@ No levofloxacin crystals were found in any of the urine samples freshly collecte
 Geriatric
 
 There are no significant differences in levofloxacin pharmacokinetics between young and elderly subjects when the subjects' differences in creatinine clearance are taken into consideration.
-Following a 500 mg oral dose of levofloxacin to healthy elderly subjects (66-80 years of age), the mean terminal plasma elimination half-life of levofloxacin was about 7.6 hours, as compared to approximately 6 hours in younger adults.
+Following a 500 mg oral dose of levofloxacin to healthy elderly subjects (66 to 80 years of age), the mean terminal plasma elimination half-life of levofloxacin was about 7.6 hours, as compared to approximately 6 hours in younger adults.
 The difference was attributable to the variation in renal function status of the subjects and was not believed to be clinically significant.
 Drug absorption appears to be unaffected by age.
 Levofloxacin dose adjustment based on age alone is not necessary [see Use in Specific Populations (8.5)].
@@ -234,7 +234,7 @@ Susceptibility Tests
 When available, the clinical microbiology laboratory should provide the results of in vitro susceptibility test results for antimicrobial drug products used in the resident hospitals to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
 These reports should aid the physician in selecting an antibacterial drug product for treatment.
 
-Dilution techniques:
+Dilution techniques
 
 Quantitative methods are used to determine antimicrobial minimal inhibitory concentrations (MICs).
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
@@ -242,7 +242,7 @@ The MIC values should be determined using a standardized procedure.
 Standardized procedures are based on a dilution method1,2,4 (broth or agar) or equivalent with standardized inoculum concentrations and standardized concentrations of levofloxacin powder.
 The MIC values should be interpreted according to the criteria outlined in Table 9.
 
-Diffusion techniques:
+Diffusion techniques
 
 Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
 One such standardized procedure2,3 requires the use of standardized inoculum concentrations.
@@ -255,14 +255,14 @@ Table 9: Susceptibility Test Interpretive Criteria for Levofloxacin
 |  | Minimum Inhibitory Concentrations (mcg/mL) |  |  | Disk Diffusion (zone diameter in mm) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Pathogen | S | I | R | S | I | R |
-| Enterobacteriaceae | ≤2 | 4 | ≥8 | ≥17 | 14-16 | ≤13 |
-| Enterococcus faecalis | ≤2 | 4 | ≥8 | ≥17 | 14-16 | ≤13 |
-| Staphylococcus species | ≤2 | 4 | ≥8 | ≥17 | 14-16 | ≤13 |
-| Pseudomonas aeruginosa | ≤2 | 4 | ≥8 | ≥17 | 14-16 | ≤13 |
+| Enterobacteriaceae | ≤2 | 4 | ≥8 | ≥17 | 14 to 16 | ≤13 |
+| Enterococcus faecalis | ≤2 | 4 | ≥8 | ≥17 | 14 to 16 | ≤13 |
+| Staphylococcus species | ≤2 | 4 | ≥8 | ≥17 | 14 to 16 | ≤13 |
+| Pseudomonas aeruginosa | ≤2 | 4 | ≥8 | ≥17 | 14 to 16 | ≤13 |
 | Haemophilus influenzae | ≤2 | --a | -- | ≥17 | -- | -- |
 | Haemophilus parainfluenzae | ≤2 | -- | -- | ≥17 | -- | -- |
-| Streptococcus pneumoniae | ≤2 | 4 | ≥8 | ≥17 | 14-16 | ≤13 |
-| Streptococcus pyogenes | ≤2 | 4 | ≥8 | ≥17 | 14-16 | ≤13 |
+| Streptococcus pneumoniae | ≤2 | 4 | ≥8 | ≥17 | 14 to 16 | ≤13 |
+| Streptococcus pyogenes | ≤2 | 4 | ≥8 | ≥17 | 14 to 16 | ≤13 |
 | Yersinia pestis4 | ≤0.25 | -- | -- | -- | -- | -- |
 | Bacillus anthracis4 | ≤0.25 | -- | -- | -- | -- | -- |
 | S = Susceptible, I = Intermediate, R = Resistant |  |  |  |  |  |  |
@@ -274,7 +274,7 @@ This category implies possible clinical applicability in body sites where the dr
 This category also provides a buffer zone which prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
 A report of Resistant indicates that the pathogen is not likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable; other therapy should be selected.
 
-Quality Control:
+Quality Control
 
 Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test.1,2,3,4 Standard levofloxacin powder should provide the range of MIC values noted in Table 10.
 For the diffusion technique using the 5 mcg disk, the criteria in Table 10 should be achieved.
@@ -283,11 +283,11 @@ Table 10: Quality Control Ranges for Susceptibility Testing
 
 | Microorganism | Microorganism QC Number | MIC (mcg/mL) | Disk Diffusion (zone diameter in mm) |
 | --- | --- | --- | --- |
-| Enterococcus faecalis | ATCC 29212 | 0.25 – 2 | -- |
-| Escherichia coli | ATCC 25922 | 0.008 – 0.06 | 29 – 37 |
-| Escherichia coli | ATCC 35218 | 0.015 – 0.06 | -- |
-| Haemophilus influenzae | ATCC 49247 | 0.008 – 0.03 | 32 – 40 |
-| Pseudomonas aeruginosa | ATCC 27853 | 0.5 – 4 | 19 – 26 |
-| Staphylococcus aureus | ATCC 29213 | 0.06 – 0.5 | -- |
-| Staphylococcus aureus | ATCC 25923 | -- | 25 – 30 |
-| Streptococcus pneumoniae | ATCC 49619 | 0.5 – 2 | 20 – 25 |
+| Enterococcus faecalis | ATCC 29212 | 0.25 to 2 | -- |
+| Escherichia coli | ATCC 25922 | 0.008 to 0.06 | 29 to 37 |
+| Escherichia coli | ATCC 35218 | 0.015 to 0.06 | -- |
+| Haemophilus influenzae | ATCC 49247 | 0.008 to 0.03 | 32 to 40 |
+| Pseudomonas aeruginosa | ATCC 27853 | 0.5 to 4 | 19 to 26 |
+| Staphylococcus aureus | ATCC 29213 | 0.06 to 0.5 | -- |
+| Staphylococcus aureus | ATCC 25923 | -- | 25 to 30 |
+| Streptococcus pneumoniae | ATCC 49619 | 0.5 to 2 | 20 to 25 |

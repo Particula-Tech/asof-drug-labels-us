@@ -161,7 +161,7 @@ LEVOFLOXACIN can cause serious side effects, including:
 - Serious allergic reactions.
   Allergic reactions can happen in people taking fluoroquinolones, including LEVOFLOXACIN, even after only 1 dose.
   Stop taking LEVOFLOXACIN and get emergency medical help right away if you have any of the following symptoms of a severe allergic reaction:Skin rash may happen in people taking LEVOFLOXACIN, even after only 1 dose.
-  Stop taking LEVOFLOXACIN at the first sign of a skin rash and call your healthcare provider.
+  Stop taking LEVOFLOXACIN at the first sign of a skin rash and immediately call your healthcare provider.
   Skin rash may be a sign of a more serious reaction to LEVOFLOXACIN.
   - hives
   - trouble breathing or swallowing
@@ -242,9 +242,9 @@ LEVOFLOXACIN Injection in 5% dextrose in Single-Use Flexible Containers:
 
 Brands listed are the trademarks of their respective owners.
 
-SAGENT® Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in Switzerland ©2016 Sagent Pharmaceuticals, Inc.
+SAGENT® Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in Switzerland ©2017 Sagent Pharmaceuticals, Inc.
 
-Revised: August 2016
+Revised: April 2017
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 

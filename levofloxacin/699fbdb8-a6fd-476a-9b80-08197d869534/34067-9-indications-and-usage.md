@@ -9,7 +9,7 @@ Levofloxacin is indicated for the treatment of nosocomial pneumonia due to methi
 Adjunctive therapy should be used as clinically indicated.
 Where Pseudomonas aeruginosa is a documented or presumptive pathogen, combination therapy with an anti-pseudomonal β-lactam is recommended [see Clinical Studies (14.1)].
 
-## 1.2 Community-Acquired Pneumonia: 7-14 day Treatment Regimen
+## 1.2 Community-Acquired Pneumonia: 7 to 14 day Treatment Regimen
 
 Levofloxacin is indicated for the treatment of community-acquired pneumonia due to methicillin-susceptible Staphylococcus aureus, Streptococcus pneumoniae (including multi-drug-resistant Streptococcus pneumoniae [MDRSP]), Haemophilus influenzae, Haemophilus parainfluenzae, Klebsiella pneumoniae, Moraxella catarrhalis, Chlamydophila pneumoniae, Legionella pneumophila, or Mycoplasma pneumoniae [see Dosage and Administration (2.1) and Clinical Studies (14.2)].
 
@@ -37,7 +37,7 @@ Levofloxacin is indicated for inhalational anthrax (post-exposure) to reduce the
 The effectiveness of levofloxacin is based on plasma concentrations achieved in humans, a surrogate endpoint reasonably likely to predict clinical benefit.
 Levofloxacin has not been tested in humans for the post-exposure prevention of inhalation anthrax.
 The safety of levofloxacin in adults for durations of therapy beyond 28 days or in pediatric patients for durations of therapy beyond 14 days has not been studied.
-Prolonged levofloxacin therapy should only be used when the benefit outweighs the risk [see Dosage and Administration (2.1), (2.2) and Clinical Studies (14.9)].
+Prolonged levofloxacin therapy should only be used when the benefit outweighs the risk [see Dosage and Administration (2.1, 2.2) and Clinical Studies (14.9)].
 
 ## 1.8 Plague
 
@@ -61,19 +61,19 @@ Levofloxacin is indicated for the treatment of acute pyelonephritis caused by Es
 
 Levofloxacin is indicated for the treatment of uncomplicated urinary tract infections (mild to moderate) due to Escherichia coli, Klebsiella pneumoniae, or Staphylococcus saprophyticus.
 
-Because fluoroquinolones, including levofloxacin, have been associated with serious adverse reactions [see Warnings and Precautions (5.1-5.14)] and for some patients uncomplicated urinary tract infection is self-limiting, reserve levofloxacin for treatment of uncomplicated urinary tract infections in patients who have no alternative treatment options.
+Because fluoroquinolones, including levofloxacin, have been associated with serious adverse reactions [see Warnings and Precautions (5.1 to 5.14)] and for some patients uncomplicated urinary tract infection is self-limiting, reserve levofloxacin for treatment of uncomplicated urinary tract infections in patients who have no alternative treatment options.
 
 ## 1.13 Acute Bacterial Exacerbation of Chronic Bronchitis
 
 Levofloxacin is indicated for the treatment of acute bacterial exacerbation of chronic bronchitis (ABECB) due to methicillin-susceptible Staphylococcus aureus, Streptococcus pneumoniae, Haemophilus influenzae, Haemophilus parainfluenzae, or Moraxella catarrhalis.
 
-Because fluoroquinolones, including levofloxacin, have been associated with serious adverse reactions [see Warnings and Precautions (5.1-5.14)] and for some patients ABECB is self-limiting, reserve levofloxacin for treatment of ABECB in patients who have no alternative treatment options.
+Because fluoroquinolones, including levofloxacin, have been associated with serious adverse reactions [see Warnings and Precautions (5.1 to 5.14)] and for some patients ABECB is self-limiting, reserve levofloxacin for treatment of ABECB in patients who have no alternative treatment options.
 
-## 1.14 Acute Bacterial Sinusitis: 5-day and 10-14 day Treatment Regimens
+## 1.14 Acute Bacterial Sinusitis: 5-day and 10 to 14 day Treatment Regimens
 
 Levofloxacin is indicated for the treatment of acute bacterial sinusitis (ABS) due to Streptococcus pneumoniae, Haemophilus influenzae, or Moraxella catarrhalis [see Clinical Studies (14.4)].
 
-Because fluoroquinolones, including levofloxacin, have been associated with serious adverse reactions [see Warnings and Precautions (5.1-5.14)] and for some patients ABS is self-limiting, reserve levofloxacin for treatment of ABS in patients who have no alternative treatment options.
+Because fluoroquinolones, including levofloxacin, have been associated with serious adverse reactions [see Warnings and Precautions (5.1 to 5.14)] and for some patients ABS is self-limiting, reserve levofloxacin for treatment of ABS in patients who have no alternative treatment options.
 
 ## 1.15 Usage
 
