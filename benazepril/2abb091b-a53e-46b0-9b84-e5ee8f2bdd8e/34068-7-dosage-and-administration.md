@@ -1,6 +1,6 @@
-# 2 DOSAGE AND ADMINISTRATION
+# 2. DOSAGE AND ADMINISTRATION
 
-## 2.1 Recommended Dosage
+## 2.1. Recommended Dosage
 
 ADULTS
 
@@ -22,19 +22,19 @@ Doses above 0.6 mg/kg (or in excess of 40 mg daily) have not been studied in ped
 
 Lotensin is not recommended in pediatric patients less than 6 years of age or in pediatric patients with GFR less than 30 mL/min/1.73m² [see Use in Specific Populations (8.3)].
 
-## 2.2 Dose Adjustment for Renal Impairment
+## 2.2. Dose Adjustment for Renal Impairment
 
 For adults with a GFR <30 mL/min/1.73 m2 (serum creatinine >3 mg/dL), the recommended initial dose is 5 mg Lotensin once daily.
 Dosage may be titrated upward until blood pressure is controlled or to a maximum total daily dose of 40 mg.
 Lotensin can also worsen renal function [see Warnings and Precautions (5.3)].
 
-## 2.3 Preparation of Suspension (for 150 mL of a 2 mg/mL Suspension)
+## 2.3. Preparation of Suspension (for 150 mL of a 2 mg/mL Suspension)
 
 Add 75 mL of Ora-Plus®* oral suspending vehicle to an amber polyethylene terephthalate (PET) bottle containing fifteen Lotensin 20 mg tablets, and shake for at least two minutes.
 Allow the suspension to stand for a minimum of 1 hour.
 After the standing time, shake the suspension for a minimum of one additional minute.
 Add 75 mL of Ora-Sweet®* oral syrup vehicle to the bottle and shake the suspension to disperse the ingredients.
-The suspension should be refrigerated at 2­ 8°C (36-46°F) and can be stored for up to 30 days in the PET bottle with a child-resistant screw- cap closure.
+The suspension should be refrigerated at 2ºto 8°C (36ºto 46°F) and can be stored for up to 30 days in the PET bottle with a child-resistant screw- cap closure.
 Shake the suspension before each use.
 
 *Ora-Plus® and Ora-Sweet® are registered trademarks of Paddock Laboratories, Inc. Ora Plus® contains carrageenan, citric acid, methylparaben, microcrystalline cellulose, carboxymethylcellulose sodium, potassium sorbate, simethicone, sodium phosphate monobasic, xanthan gum, and water.

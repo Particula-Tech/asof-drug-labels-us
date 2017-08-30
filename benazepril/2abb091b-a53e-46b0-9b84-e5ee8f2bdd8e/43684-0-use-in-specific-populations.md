@@ -15,6 +15,7 @@ Appropriate management of maternal hypertension during pregnancy is important to
 
 In the unusual case that there is no appropriate alternative to therapy with drugs affecting the renin-angiotensin system for a particular patient, apprise the mother of the potential risk to the fetus.
 Perform serial ultrasound examinations to assess the intra-amniotic environment.
+
 If oligohydramnios is observed, discontinue Lotensin, unless it is considered lifesaving for the mother.
 Fetal testing may be appropriate, based on the week of pregnancy.
 Patients and physicians should be aware, however, that oligohydramnios may not appear until after the fetus has sustained irreversible injury.
@@ -32,7 +33,7 @@ The pharmacokinetics of Lotensin have been evaluated in pediatric patients 6 to 
 
 Infants below the age of 1 year should not be given Lotensin because of the risk of effects on kidney development.
 
-Safety and effectiveness of Lotensin have not been established in pediatric patients less than 6 years of age or in children with glomerular filtration rate <30 mL/min/1.73m² [see Dosage and Administration (2.1) and Clinical Pharmacology 12.3)].
+Safety and effectiveness of Lotensin have not been established in pediatric patients less than 6 years of age or in children with glomerular filtration rate < 30 mL/min/1.73m² [see Dosage and Administration (2.1) and Clinical Pharmacology 12.3)].
 
 Neonates with a history of in utero exposure to Lotensin:
 
@@ -54,5 +55,5 @@ ACE inhibitors, including Lotensin, as monotherapy, have an effect on blood pres
 
 ## 8.6 Renal Impairment
 
-Dose adjustment of Lotensin is required in patients undergoing hemodialysis or whose creatinine clearance is ≤30 mL/min.
-No dose adjustment of Lotensin is required in patients with creatinine clearance >30 mL/min [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
+Dose adjustment of Lotensin is required in patients undergoing hemodialysis or whose creatinine clearance is ≤ 30 mL/min.
+No dose adjustment of Lotensin is required in patients with creatinine clearance > 30 mL/min [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].

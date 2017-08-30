@@ -1,8 +1,8 @@
-# 5 WARNINGS AND PRECAUTIONS
+# 5. WARNINGS AND PRECAUTIONS
 
-## 5.1 Fetal Toxicity
+## 5.1. Fetal Toxicity
 
-PREGNANCY CATEGORY D
+Pregnancy Category D
 
 Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death.
 
@@ -10,7 +10,7 @@ Resulting oligohydramnios can be associated with fetal lung hypoplasia and skele
 Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death.
 When pregnancy is detected, discontinue Lotensin as soon as possible [see Use in Specific Populations (8.1)].
 
-## 5.2 Angioedema and Anaphylactoid Reactions
+## 5.2. Angioedema and Anaphylactoid Reactions
 
 Angioedema
 
@@ -20,10 +20,10 @@ Angioedema of the face, extremities, lips, tongue, glottis, and/or larynx includ
 Patients with involvement of the tongue, glottis or larynx are likely to experience airway obstruction, especially those with a history of airway surgery.
 Lotensin should be promptly discontinued and appropriate therapy and monitoring should be provided until complete and sustained resolution of signs and symptoms of angioedema has occurred.
 
-Patients with a history of angioedema unrelated to ACE inhibitor therapy may be at increased risk of angioedema while receiving an ACE inhibitor [see Contraindications (4)].
+Patients with a history of angioedema unrelated to ACE inhibitor therapy may be at increased risk of angioedema while receiving an ACE inhibitor [see CONTRAINDICATIONS (4)].
 ACE inhibitors have been associated with a higher rate of angioedema in Black than in non-Black patients.
 
-Patients receiving coadministration of ACE inhibitor and mTOR (mammalian target of rapamycin) inhibitor (e.g., temsirolimus, sirolimus, everolimus) therapy may be at increased risk for angioedema.
+Patients receiving coadministration of ACE inhibitor and mTOR (mammalian target of rapamycin) inhibitor (e.g., temsirolimus, sirolimus, everolimus) therapy or a neprilysin inhibitor may be at increased risk for angioedema [see Drug Interactions (7.7)].
 
 Intestinal Angioedema
 
@@ -45,18 +45,18 @@ Symptoms have not been relieved by antihistamines in these situations.
 In these patients, consideration should be given to using a different type of dialysis membrane or a different class of antihypertensive agent.
 Anaphylactoid reactions have also been reported in patients undergoing low-density lipoprotein apheresis with dextran sulfate absorption.
 
-## 5.3 Impaired Renal Function
+## 5.3. Impaired Renal Function
 
 Monitor renal function periodically in patients treated with Lotensin.
-Changes in renal function, including acute renal failure, can be caused by drugs that inhibit the renin-angiotensin sytem.
+Changes in renal function, including acute renal failure, can be caused by drugs that inhibit the renin-angiotensin system.
 
 Patients whose renal function may depend on the activity of the renin-angiotensin system (e.g., patients with renal artery stenosis, chronic kidney disease, severe congestive heart failure, post- myocardial infarction, or volume depletion) may be at particular risk of developing acute renal failure on Lotensin.
 Consider withholding or discontinuing therapy in patients who develop a clinically significant decrease in renal function on Lotensin.
 
-## 5.4 Hypotension
+## 5.4. Hypotension
 
-Lotensin can cause symptomatic hypotension, sometimes complicated by oliguria, progressive azotemia acute renal failure or death.
-Patients at risk of excessive hypotension include those with the following conditions or characteristics: heart failure with systolic blood pressure below 100 mmHg, ischemic heart disease, cerebrovascular disease, hyponatremia, high dose diuretic therapy, renal dialysis, or severe volume and/or salt depletion of any etiology.
+Lotensin can cause symptomatic hypotension, sometimes complicated by oliguria, progressive azotemia, acute renal failure, or death.
+Patients at risk of excessive hypotension include those with the following conditions or characteristics: heart failure with systolic blood pressure below 100 mm Hg, ischemic heart disease, cerebrovascular disease, hyponatremia, high dose diuretic therapy, renal dialysis, or severe volume and/or salt depletion of any etiology.
 
 In such patients, follow closely for the first 2 weeks of treatment and whenever the dose of benazepril or diuretic is increased.
 Avoid use of Lotensin in patients who are hemodynamically unstable after acute MI.
@@ -66,13 +66,13 @@ Surgery/Anesthesia
 In patients undergoing major surgery or during anesthesia with agents that produce hypotension, Lotensin may block angiotensin II formation secondary to compensatory renin release.
 If hypotension occurs, correct by volume expansion.
 
-## 5.5 Hyperkalemia
+## 5.5. Hyperkalemia
 
 Serum potassium should be monitored periodically in patients receiving Lotensin.
-Drugs that inhibit the renin angiotensin system can cause hyperkalemia.
+Drugs that inhibit the renin-angiotensin system can cause hyperkalemia.
 Risk factors for the development of hyperkalemia include renal insufficiency, diabetes mellitus, and the concomitant use of potassium-sparing diuretics, potassium supplements and/or potassium-containing salt substitutes [see Drug Interactions (7.1)].
 
-## 5.6 Hepatic Failure
+## 5.6. Hepatic Failure
 
 ACE inhibitors have been associated with a syndrome that starts with cholestatic jaundice and progresses to fulminant hepatic necrosis and (sometimes) death.
 The mechanism of this syndrome is not understood.
