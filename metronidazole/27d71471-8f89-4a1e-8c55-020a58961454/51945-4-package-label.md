@@ -1,20 +1,18 @@
-# PRINCIPAL DISPLAY PANEL, part 1 of 2
+# Package/Label Display Panel
 
-# PRINCIPAL DISPLAY PANEL, part 2 of 2
-
-## Vandazole (Metronidazole Vaginal Gel, 0.75%) 70 grams Tube, Carton Text
+## Vandazole® (metronidazole gel USP, 0.75% [vaginal]), 70 gram tube with 5 applicators, Carton Text
 
 NDC 0245-0860-70
 
 VANDAZOLE®
 
-(Metronidazole Vaginal Gel, 0.75%)
+(Metronidazole Gel USP, 0.75% [Vaginal])
 
 with 5 applicators
 
-FOR INTRAVAGINAL USE ONLY.
+FOR INTRAVAGINAL USE ONLY
 
-(NOT FOR OPHTHALMIC, DERMAL, OR ORAL USE.)
+(NOT FOR OPHTHAMIC, DERMAL, OR ORAL USE)
 
 Rx only
 

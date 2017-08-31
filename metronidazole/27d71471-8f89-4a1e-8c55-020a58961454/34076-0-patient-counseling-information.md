@@ -37,11 +37,17 @@ See DIRECTIONS FOR USE for complete instructions on how to use the product and t
 
 US Patent No. 7,456,207
 
-Manufactured For:
+Manufactured In Croatia By:
 
-UPSHER-SMITH LABORATORIES, INC.
+Pliva Hrvatska d.o.o.
 
-Minneapolis, MN 55447
+Zagreb, Croatia
+
+Manufactured for
+
+UPSHER-SMITH LABORATORIES, LLC
+
+Maple Grove, MN 55369
 
 Rev.
-F 1/2011
+G 2/2017
