@@ -2,10 +2,10 @@ Rx Only
 
 # FOR MEDICAL INFORMATION
 
-Contact: Auxilium Drug Information Phone: 1-877-663-0412
+Contact: Endo Pharmaceuticals Inc. Phone: 1-800-462-3636
 
-Manufactured for: Actient Pharmaceuticals LLC Chesterbrook, PA 19087
+Distributed by: Endo Pharmaceuticals Inc. Malvern, PA 19355
 
-by: Neolpharma, Inc. Caguas, PR 00725
+Manufactured by: Neolpharma, Inc. Caguas, PR 00725
 
-Revised 10/2013 PL-0913-005.a
+Revised 11/2016 P08997

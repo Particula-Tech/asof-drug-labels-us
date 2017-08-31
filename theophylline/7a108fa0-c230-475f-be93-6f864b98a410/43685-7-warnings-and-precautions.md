@@ -142,7 +142,7 @@ Drugs that have been documented not to interact with theophylline or drugs that 
 | co-trimoxazole (trimethoprim | medroxyprogesterone | not inhibit theophylline |
 | and sulfamethoxazole) | methylprednisolone | absorption) |
 | diltiazem | metronidazole | sucralfate |
-| dirithromycin | metoprolol | terbutaline,systemic |
+| dirithromycin | metoprolol | terbutaline, systemic |
 | enflurane | nadolol | terfenadine |
 | famotidine | nifedipine | tetracycline |
 | felodipine | nizatidine | tocainide |
