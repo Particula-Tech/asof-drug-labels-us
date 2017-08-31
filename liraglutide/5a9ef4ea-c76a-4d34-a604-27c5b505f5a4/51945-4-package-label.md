@@ -6,7 +6,9 @@ List 406013
 
 Victoza®
 
-(liraglutide) injection
+liraglutide
+
+(rDNA origin) injection
 
 18 mg/3 mL (6 mg/mL)
 
@@ -38,7 +40,9 @@ List 406012
 
 Victoza®
 
-(liraglutide) injection
+liraglutide
+
+(rDNA origin) injection
 
 18 mg/3 mL (6 mg/mL)
 

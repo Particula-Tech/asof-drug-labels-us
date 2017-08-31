@@ -8,9 +8,7 @@ It is unknown whether VICTOZA will cause thyroid C-cell tumors, including medull
 
 Cases of MTC in patients treated with VICTOZA have been reported in the postmarketing period; the data in these reports are insufficient to establish or exclude a causal relationship between MTC and VICTOZA use in humans.
 
-VICTOZA is contraindicated in patients with a personal or family history of MTC or in patients
-
-with MEN 2.
+VICTOZA is contraindicated in patients with a personal or family history of MTC or in patients with MEN 2.
 Counsel patients regarding the potential risk for MTC with the use of VICTOZA and inform them of symptoms of thyroid tumors (e.g. a mass in the neck, dysphagia, dyspnea, persistent hoarseness).
 
 Routine monitoring of serum calcitonin or using thyroid ultrasound is of uncertain value for early detection of MTC in patients treated with VICTOZA.
@@ -25,12 +23,14 @@ Based on spontaneous postmarketing reports, acute pancreatitis, including fatal 
 After initiation of VICTOZA, observe patients carefully for signs and symptoms of pancreatitis (including persistent severe abdominal pain, sometimes radiating to the back and which may or may not be accompanied by vomiting).
 If pancreatitis is suspected, VICTOZA should promptly be discontinued and appropriate management should be initiated.
 If pancreatitis is confirmed, VICTOZA should not be restarted.
-Consider antidiabetic therapies other than VICTOZA in patients with a history of pancreatitis.
 
-In clinical trials of VICTOZA, there have been 13 cases of pancreatitis among VICTOZA-treated patients and 1 case in a comparator (glimepiride) treated patient (2.7 vs. 0.5 cases per 1000 patient-years).
+In glycemic control trials of VICTOZA, there have been 13 cases of pancreatitis among VICTOZA-treated patients and 1 case in a comparator (glimepiride) treated patient (2.7 vs. 0.5 cases per 1000 patient-years).
 Nine of the 13 cases with VICTOZA were reported as acute pancreatitis and four were reported as chronic pancreatitis.
 In one case in a VICTOZA-treated patient, pancreatitis, with necrosis, was observed and led to death; however clinical causality could not be established.
 Some patients had other risk factors for pancreatitis, such as a history of cholelithiasis or alcohol abuse.
+
+VICTOZA has been studied in a limited number of patients with a history of pancreatitis.
+It is unknown if patients with a history of pancreatitis are at higher risk for development of pancreatitis on VICTOZA.
 
 ## 5.3 Never Share a VICTOZA Pen Between Patients
 
@@ -56,11 +56,14 @@ Use caution when initiating or escalating doses of VICTOZA in patients with rena
 ## 5.6 Hypersensitivity Reactions
 
 There have been postmarketing reports of serious hypersensitivity reactions (e.g., anaphylactic reactions and angioedema) in patients treated with VICTOZA.
-If a hypersensitivity reaction occurs, the patient should discontinue VICTOZA and other suspect medications and promptly seek medical advice.
+If a hypersensitivity reaction occurs, discontinue VICTOZA; treat promptly per standard of care, and monitor until signs and symptoms resolve.
+Do not use in patients with a previous hypersensitivity reaction to VICTOZA [see Contraindications (4)].
 
-Angioedema has also been reported with other GLP-1 receptor agonists.
-Use caution in a patient with a history of angioedema with another GLP-1 receptor agonist because it is unknown whether such patients will be predisposed to angioedema with VICTOZA.
+Anaphylaxis and angioedema have been reported with other GLP-1 receptor agonists.
+Use caution in a patient with a history of anaphylaxis or angioedema with another GLP-receptor agonist because it is unknown whether such patients will be predisposed to these reactions with VICTOZA.
 
-## 5.7 Macrovascular Outcomes
+## 5.7 Acute Gallbladder Disease
 
-There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with VICTOZA or any other antidiabetic drug.
+In the LEADER trial [see Clinical Studies (14.2)], 3.1% of Victoza-treated patients versus 1.9% of placebo-treated patients reported an acute event of gallbladder disease, such as cholelithiasis or cholecystitis.
+The majority of events required hospitalization or cholecystectomy.
+If cholelithiasis is suspected, gallbladder studies and appropriate clinical follow-up are indicated.

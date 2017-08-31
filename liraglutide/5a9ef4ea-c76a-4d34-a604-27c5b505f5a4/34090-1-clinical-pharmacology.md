@@ -26,6 +26,8 @@ Glucose-dependent insulin secretion
 The effect of a single dose of 7.5 mcg/kg (~ 0.7 mg) VICTOZA on insulin secretion rates (ISR) was investigated in 10 patients with type 2 diabetes during graded glucose infusion.
 In these patients, on average, the ISR response was increased in a glucose-dependent manner (Figure 2).
 
+Figure 2 Mean Insulin Secretion Rate (ISR) versus Glucose Concentration Following Single-Dose VICTOZA 7.5 mcg/kg (~ 0.7 mg) or Placebo in Patients with Type 2 Diabetes (N=10) During Graded Glucose Infusion
+
 Glucagon secretion
 
 VICTOZA lowered blood glucose by stimulating insulin secretion and lowering glucagon secretion.

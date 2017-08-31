@@ -2,12 +2,31 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C.
+Risk Summary
 
-There are no adequate and well-controlled studies of VICTOZA in pregnant women.
-VICTOZA should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
-Liraglutide has been shown to be teratogenic in rats at or above 0.8 times the human systemic exposures resulting from the maximum recommended human dose (MRHD) of 1.8 mg/day based on plasma area under the time-concentration curve (AUC).
-Liraglutide has been shown to cause reduced growth and increased total major abnormalities in rabbits at systemic exposures below human exposure at the MRHD based on plasma AUC.
+Based on animal reproduction studies, there may be risks to the fetus from exposure to
+
+VICTOZA during pregnancy.
+VICTOZA should be used during pregnancy only if the
+
+potential benefit justifies the potential risk to the fetus.
+
+Animal reproduction studies identified increased adverse developmental outcomes from exposure during pregnancy.
+Liraglutide exposure was associated with early embryonic deaths and an imbalance in some fetal abnormalities in pregnant rats administered liraglutide during organogenesis at doses that approximate clinical exposures at the maximum recommended human dose (MRHD) of 1.8 mg/day.
+In pregnant rabbits administered liraglutide during organogenesis, decreased fetal weight and an increased incidence of major fetal abnormalities were seen at exposures below the human exposures at the MRHD [see Animal Data].
+
+The estimated background risk of major birth defects for women with uncontrolled pre-gestational diabetes (Hemoglobin A1C >7) is 6 to 10%.
+The major birth defect rate has been reported to be as high as 20 to 25% in women with a Hemoglobin A1C >10.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+
+Clinical Considerations
+
+Disease-associated maternal and/or embryo/fetal risk
+
+Poorly controlled diabetes in pregnancy increases the maternal risk for diabetic ketoacidosis, pre-eclampsia, spontaneous abortions, preterm delivery, stillbirth and delivery complications due to fetal macrosomia (e.g., perineal injury and lacerations, need for cesarean section, and post-partum hemorrhage).
+Poorly controlled diabetes increases the fetal risk for neural tube defects, cardiovascular malformations, oral clefts, still birth, macrosomia related morbidity (e.g., brachial plexus injury, hypoxia), and neonatal hyperglycemia.
+
+Animal Data
 
 Female rats given subcutaneous doses of 0.1, 0.25 and 1.0 mg/kg/day liraglutide beginning 2 weeks before mating through gestation day 17 had estimated systemic exposures 0.8-, 3-, and 11-times the human exposure at the MRHD based on plasma AUC comparison.
 The number of early embryonic deaths in the 1 mg/kg/day group increased slightly.
@@ -28,11 +47,18 @@ Group mean body weight of neonatal rats from liraglutide-treated dams was lower 
 Bloody scabs and agitated behavior occurred in male rats descended from dams treated with 1 mg/kg/day liraglutide.
 Group mean body weight from birth to postpartum day 14 trended lower in F2 generation rats descended from liraglutide-treated rats compared to F2 generation rats descended from controls, but differences did not reach statistical significance for any group.
 
-## 8.3 Nursing Mothers
+## 8.2 Lactation
 
-It is not known whether VICTOZA is excreted in human milk.
-Because many drugs are excreted in human milk and because of the potential for tumorigenicity shown for liraglutide in animal studies, a decision should be made whether to discontinue nursing or to discontinue VICTOZA, taking into account the importance of the drug to the mother.
-In lactating rats, liraglutide was excreted unchanged in milk at concentrations approximately 50% of maternal plasma concentrations.
+Risk Summary
+
+There are no data on the presence of VICTOZA in human milk, the effects on the breastfed infant, or the effects on milk production.
+Liraglutide was present in milk of lactating rats [see Data].
+
+Developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for VICTOZA and any potential adverse effects on the breastfed infant from VICTOZA or from the underlying maternal condition.
+
+Data
+
+In lactating rats, liraglutide was present unchanged in milk at concentrations approximately 50% of maternal plasma concentrations.
 
 ## 8.4 Pediatric Use
 
@@ -41,14 +67,21 @@ VICTOZA is not recommended for use in pediatric patients.
 
 ## 8.5 Geriatric Use
 
-In the VICTOZA clinical trials, a total of 797 (20%) of the patients were 65 years of age and over and 113 (2.8%) were 75 years of age and over.
-No overall differences in safety or effectiveness were observed between these patients and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
+In the VICTOZA treatment arms of the glycemic control trials, a total of 832 (19.3%) of the patients were 65 to 74 years of age and 145 (3.4%) were 75 years of age and over.
+No overall differences in safety or efficacy were observed between these patients and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
+
+In the VICTOZA treatment arm of the LEADER trial [see Clinical Studies (14.2)], a total of 1738 (37.2%) patients were 65 to 74 years of age, 401 (8.6%) were 75 to 84 years of age, and 17 (0.4%) were 85 years of age or older at baseline.
+No overall differences in safety or efficacy were observed between these patients and younger patients.
 
 ## 8.6 Renal Impairment
 
 No dose adjustment of VICTOZA is recommended for patients with renal impairment [see Clinical Pharmacology (12.3)].
-The safety and efficacy of VICTOZA was evaluated in a 26-week clinical study that included patients with moderate renal impairment (eGFR 30 to 60 mL/min/1.73m2) [see Clinical Studies (14.3)].
-There is limited experience with VICTOZA in patients with severe renal impairment including end stage renal disease.There have been postmarketing reports of acute renal failure and worsening of chronic renal failure, which may sometimes require hemodialysis [see Warnings and Precautions (5.5) and Adverse Reactions (6.2)].
+The safety and efficacy of VICTOZA was evaluated in a 26-week clinical study that included patients with moderate renal impairment (eGFR 30 to 60 mL/min/1.73m2) [see Clinical Studies (14.1)].
+
+In the VICTOZA treatment arm of the LEADER trial [see Clinical Studies (14.2)], 1932 (41.4%) patients had mild renal impairment, 999 (21.4%) patients had moderate renal impairment and 117 (2.5%) patients had severe renal impairment at baseline.
+No overall differences in safety or efficacy were seen in these patients compared to patients with normal renal function.
+
+There is limited experience with VICTOZA in patients with end stage renal disease.There have been postmarketing reports of acute renal failure and worsening of chronic renal failure, which may sometimes require hemodialysis [see Warnings and Precautions (5.5) and Adverse Reactions (6.2)].
 Use caution in patients who experience dehydration.
 
 ## 8.7 Hepatic Impairment

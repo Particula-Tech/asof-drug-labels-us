@@ -11,14 +11,19 @@ Counsel patients to report symptoms of thyroid tumors (e.g., a lump in the neck,
 
 Dehydration and Renal Failure
 
-Patients treated with VICTOZA should be advised of the potential risk of dehydration due to gastrointestinal adverse reactions and take precautions to avoid fluid depletion.
-Patients should be informed of the potential risk for worsening renal function, which in some cases may require dialysis.
+Advise patients treated with VICTOZA of the potential risk of dehydration due to gastrointestinal adverse reactions and to take precautions to avoid fluid depletion.
+Inform patients of the potential risk for worsening renal function, which in some cases may require dialysis.
 
 Pancreatitis
 
-Patients should be informed of the potential risk for pancreatitis.
+Inform patients of the potential risk for pancreatitis.
 Explain that persistent severe abdominal pain that may radiate to the back and which may or may not be accompanied by vomiting, is the hallmark symptom of acute pancreatitis.
 Instruct patients to discontinue VICTOZA promptly and contact their physician if persistent severe abdominal pain occurs [see Warnings and Precautions (5.2)].
+
+Acute Gallbladder Disease
+
+Inform patients of the potential risk for cholelithiasis or cholecystitis.
+Instruct patients to contact their physician if cholelithiasis or cholecystitis is suspected for appropriate clinical follow-up.
 
 Never Share a VICTOZA Pen Between Patients
 
@@ -26,8 +31,8 @@ Advise patients that they must never share a VICTOZA pen with another person, ev
 
 Hypersensitivity Reactions
 
-Patients should be informed that serious hypersensitivity reactions have been reported during postmarketing use of VICTOZA.
-If symptoms of hypersensitivity reactions occur, patients must stop taking VICTOZA and seek medical advice promptly [see Warnings and Precautions (5.6)].
+Inform patients that serious hypersensitivity reactions have been reported during postmarketing use of VICTOZA.
+Advise patients on the symptoms of hypersensitivity reactions and instruct them to stop taking VICTOZA and seek medical advice promptly if such symptoms occur [see Warnings and Precautions (5.6)].
 
 Jaundice and Hepatitis
 
@@ -36,31 +41,23 @@ Instruct patients to contact their physician if they develop jaundice.
 
 Instructions
 
-Patients should be informed of the potential risks and benefits of VICTOZA and of alternative modes of therapy.
-Patients should also be informed about the importance of adherence to dietary instructions, regular physical activity, periodic blood glucose monitoring and A1c testing, recognition and management of hypoglycemia and hyperglycemia, and assessment for diabetes complications.
-During periods of stress such as fever, trauma, infection, or surgery, medication requirements may change and patients should be advised to seek medical advice promptly.
-
-Patients should be advised that the most common side effects of VICTOZA are headache, nausea and diarrhea.
+Advise patients that the most common side effects of VICTOZA are headache, nausea and diarrhea.
 Nausea is most common when first starting VICTOZA, but decreases over time in the majority of patients and does not typically require discontinuation of VICTOZA.
-
-Physicians should instruct their patients to read the Patient Medication Guide before starting VICTOZA therapy and to reread each time the prescription is renewed.
-Patients should be instructed to inform their doctor or pharmacist if they develop any unusual symptom, or if any known symptom persists or worsens.
 
 Inform patients not to take an extra dose of VICTOZA to make up for a missed dose.
 If a dose is missed, the once-daily regimen should be resumed as prescribed with the next scheduled dose.
-
-If more than 3 days have elapsed since the last dose, the patient should be advised to reinitiate VICTOZA at 0.6 mg to mitigate any gastrointestinal symptoms associated with reinitiation of treatment.
+If more than 3 days have elapsed since the last dose, advise the patient to reinitiate VICTOZA at 0.6 mg to mitigate any gastrointestinal symptoms associated with reinitiation of treatment.
 VICTOZA should be titrated at the discretion of the prescribing physician [see Dosage and Administration (2)].
 
-Date of Issue: April 21, 2016
+Date of Issue: August 25, 2017
 
-Version: 9
+Version: 10
 
-VICTOZA® and Saxenda® are registered trademarks of Novo Nordisk A/S.
+VICTOZA® is a registered trademark of Novo Nordisk A/S.
 
 PATENT Information: http://novonordisk-us.com/patients/products/product-patents.html
 
-© 2010-2016 Novo Nordisk
+© 2010-2017 Novo Nordisk
 
 Manufactured by:
 
