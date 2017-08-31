@@ -90,7 +90,7 @@ The overall relative risk reduction (9.8% vs. 10.6%) was 8.7%, p=0.045.
 Similar results were obtained when all-cause mortality and all-cause strokes were counted instead of vascular mortality and ischemic strokes (risk reduction 6.9%).
 In patients who survived an on-study stroke or myocardial infarction, the incidence of subsequent events was lower in the clopidogrel group.
 
-The curves showing the overall event rate are shown in Figure 8.
+The curves showing the overall event rate are shown in Figure 7.
 The event curves separated early and continued to diverge over the 3-year follow-up period.
 
 The statistical significance favoring clopidogrel over aspirin was marginal (p=0.045).

@@ -2,7 +2,7 @@
 
 Advise patients to read FDA approved patient labeling (Medication Guide).
 
-Discontinuation Advise patients not to discontinue clopidogrel without first discussing it with the health care provider who prescribed it [see Warnings and Precautions (5.3)].
+Discontinuation Advise patients not to discontinue clopidogrel without first discussing it with the healthcare provider who prescribed it [see Warnings and Precautions (5.3)].
 
 Bleeding Advise patients that they:
 
@@ -25,7 +25,7 @@ APOTEX INC. CLOPIDOGREL TABLETS, USP 75 mg and 300 mg
 | Toronto, Ontario | Weston, Florida |
 | Canada M9L 1T9 | 33326 |
 
-Revised: November 2016
+Revised: August 2017
 
 Rev.
-21
+22

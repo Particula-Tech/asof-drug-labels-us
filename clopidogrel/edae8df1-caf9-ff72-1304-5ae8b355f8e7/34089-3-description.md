@@ -14,7 +14,7 @@ It has a specific optical rotation of about +56°.
 Clopidogrel tablets, USP 75 mg for oral administration are provided as pink, round, biconvex, film coated tablets, engraved “APO” on one side, “CL” over “75” on the other side.
 The tablets contain 97.875 mg of clopidogrel bisulfate, which is the molar equivalent of 75 mg of clopidogrel base.
 
-Clopidogrel tablets 300 mg for oral administration are provided as pink, oblong, biconvex, film coated tablets engraved "APO" on one side and "CL 300" on the other side.
+Clopidogrel tablets, USP 300 mg for oral administration are provided as pink, oblong, biconvex, film coated tablets engraved "APO" on one side and "CL 300" on the other side.
 The tablets contain 392.0 mg of clopidogrel bisulfate, which is the molar equivalent of 300 mg of clopidogrel base.
 
 Each tablet contains anhydrous lactose, colloidal silicon dioxide, crospovidone, methylcellulose and zinc stearate as inactive ingredients.
