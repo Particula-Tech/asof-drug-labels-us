@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA208353"
+  ],
+  "inn": "dicyclomine",
+  "labeler": "American Regent, Inc.",
+  "package_ndcs": [
+    "0517-1980-01",
+    "0517-1980-05"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "dicyclomine hydrochloride",
+      "name": "Dicyclomine hydrochloride"
+    }
+  ],
+  "setid": "cab4ecaf-8895-4ae8-add3-233d9cc570a8",
+  "source": "dailymed"
+}
