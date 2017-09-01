@@ -2,9 +2,9 @@
 
 Rocuronium Bromide Injection, 10 mg/mL is available in:
 
-Mylan Institutional LLC NDC 67457-228-05 50 mg/5 mL, 5 mL Multi-dose vial, cartons of 10 NDC 67457-228-10 100 mg/10 mL, 10 mL Multi-dose vial, cartons of 10
+NDC 67457-228-05 50 mg/5 mL, 5 mL Multi-dose vial, cartons of 10
 
-Premier, Inc. NDC 67457-573-05 50 mg/5 mL, 5 mL Multi-dose vial, cartons of 10 NDC 67457-574-10 100 mg/10 mL, 10 mL Multi-dose vial, cartons of 10
+NDC 67457-228-10 100 mg/10 mL, 10 mL Multi-dose vial, cartons of 10
 
 Rocuronium Bromide Injection should be stored in a refrigerator, 2° to 8°C (36° to 46°F).
 DO NOT FREEZE.

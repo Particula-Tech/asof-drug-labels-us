@@ -47,8 +47,6 @@ Table 5: Median (Range) Time to Onset and Clinical Duration Following Initial (I
 | 0.8 (n=18) | — | 0.5 (0.3–1.0) | 30 (17–56) |  |  |  |
 | n = the number of patients who had time to maximum block recorded. Clinical duration = time until return to 25% of control T1. Patients receiving doses of 0.45 mg/kg who achieved less than 90% block (16% of these patients) had about 12 to 15 minutes to 25% recovery. |  |  |  |  |  |  |
 
-Table 6 presents the time to onset and clinical duration for the initial dose of rocuronium bromide injection under sevoflurane (induction) and isoflurane/nitrous oxide (maintenance) anesthesia in pediatric patients.
-
 Table 6: Median (Range) Time to Onset and Clinical Duration Following Initial (Intubating) Dose During Sevoflurane (induction) and Isoflurane/Nitrous Oxide (maintenance) Anesthesia (Pediatric Patients)
 
 | Rocuronium Bromide Dose (mg/kg) Administered Over 5 sec | Time to Maximum Block (min) | Time to Reappearance T3 (min) |  |  |  |  |  |  |  |
@@ -74,8 +72,6 @@ Table 6: Median (Range) Time to Onset and Clinical Duration Following Initial (I
 | 0.6 (n=31) | 0.9 (0.2-2.1) | 41.4 (16.3-91.2) |  |  |  |  |  |  |  |
 | 1 (n=14) | 0.7 (0.5-1.2) | 67.1 (25.6-93.8) |  |  |  |  |  |  |  |
 | n = the number of patients with the highest number of observations for time to maximum block or reappearance T3. |  |  |  |  |  |  |  |  |  |
-
-The time to 80% or greater block and clinical duration as a function of dose are presented in Figures 1 and 2.
 
 The clinical durations for the first five maintenance doses, in patients receiving five or more maintenance doses are represented in Figure 3 [see Dosage and Administration (2.3)].
 
