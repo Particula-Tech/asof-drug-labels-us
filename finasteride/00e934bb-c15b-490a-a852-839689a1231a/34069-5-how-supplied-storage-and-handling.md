@@ -1,8 +1,8 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Finasteride tablets USP, 1 mg, is brown color, round film coated tablets, debossed with ‘H’ on one side and ‘36’ on other side.
+Finasteride tab le t s USP, 1 mg, is brown color, round film coated tablets, debossed with ‘H’ on one side and ‘36’ on other side.
 
-They are supplied as follows:
+They are supp lied as f o llo w s:
 
 NDC 31722-526-30 bottles of 30
 

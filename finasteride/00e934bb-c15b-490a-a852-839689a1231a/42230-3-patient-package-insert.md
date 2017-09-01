@@ -49,5 +49,6 @@ What are the ingredients in finasteride tablets USP?
 Active ingredient: finasteride USP.
 Inactive ingredients: lactose monohydrate, microcrystalline cellulose, pregelatinized starch, sodium starch glycolate, docusate sodium, magnesium stearate, and Opadry brown (hypromellose, iron oxide red, talc, titanium dioxide, yellow iron oxide).
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-Manufactured For: Camber Pharmaceuticals, Inc. Piscataway, NJ 08854 Manufactured By: HETEROTM Hetero Labs Limited 22-11, I.D.A.,Jeedimetla, Hyderabad-500 055, India.
-Revised: February 2014
+Manufactured For: Camber Pharmaceuticals, Inc. Piscataway, NJ 08854 Manufactured By: HETEROTM Hetero Labs Limited 22-11, I.D.A.,Jeedimetla, Hyderabad-500 055, India. or
+
+Manufactured by: HETEROTM HETERO LABS LIMITED Unit V, Polepally, Jadcherla, Mahaboob Nagar-509 301, India.
