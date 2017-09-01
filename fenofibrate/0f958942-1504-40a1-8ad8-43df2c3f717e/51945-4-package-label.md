@@ -1,10 +1,10 @@
-PRINCIPAL DISPLAY PANEL - 48 mg
+# PRINCIPAL DISPLAY PANEL - 48 mg
 
-NDC 0378-3065-93
+NDC 0378-3065-77
 
 Fenofibrate Tablets, USP 48 mg
 
-Rx only 30 Tablets
+Rx only 90 Tablets
 
 Each film-coated tablet contains: Fenofibrate, USP 48 mg
 
@@ -23,7 +23,9 @@ Made in India
 
 Mylan.com
 
-RMX3065H1
+RMX3065MM2
+
+Do not accept if seal over bottle opening is broken or missing.
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
@@ -31,13 +33,13 @@ Keep container tightly closed.
 
 Code No.: MH/DRUGS/25/NKD/89
 
-PRINCIPAL DISPLAY PANEL - 145 mg
+# PRINCIPAL DISPLAY PANEL - 145 mg
 
-NDC 0378-3066-93
+NDC 0378-3066-77
 
 Fenofibrate Tablets, USP 145 mg
 
-Rx only 30 Tablets
+Rx only 90 Tablets
 
 Each film-coated tablet contains: Fenofibrate, USP 145 mg
 
@@ -56,7 +58,9 @@ Made in India
 
 Mylan.com
 
-RMX3066H1
+RMX3066MM2
+
+Do not accept if seal over bottle opening is broken or missing.
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
