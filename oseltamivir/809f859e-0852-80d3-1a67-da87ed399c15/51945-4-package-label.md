@@ -20,8 +20,6 @@ Rx Only
 
 Dist. by: Alvogen, Inc. Pine Brook, NJ 07058 USA
 
-TS/DRUGS/03/2016
-
 NDC 47781-469-13
 
 Oseltamivir Phosphate Capsules USP,
@@ -44,8 +42,6 @@ Rx Only
 
 Dist. by: Alvogen, Inc. Pine Brook, NJ 07058 USA
 
-TS/DRUGS/03/2016
-
 NDC 47781-470-13
 
 Oseltamivir Phosphate Capsules USP,
@@ -67,5 +63,3 @@ Oseltamivir Phosphate Capsule USP,
 Rx Only
 
 Dist. by: Alvogen, Inc. Pine Brook, NJ 07058 USA
-
-TS/DRUGS/03/2016

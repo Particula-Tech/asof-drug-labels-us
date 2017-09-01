@@ -110,11 +110,10 @@ The 30 mg capsule shell (yellow / yellow) contains: Gelatin, iron oxide red, iro
 The 45 mg capsule shell (grey / grey) contains: Gelatin, iron oxide black, purified water and titanium dioxide.
 The 75 mg capsule shell (yellow / grey) contains: Gelatin, iron oxide black (in body), iron oxide red, iron oxide yellow (in cap), purified water and titanium dioxide.
 
-Manufactured by: NATCO PHARMA LIMITED Kothur- 509 228, India.
 Distributed by: Alvogen, Inc. Pine Brook, NJ 07058 USA This Patient Information has been approved by the U.S. Food and Drug Administration.
-PL468-00
+PL468-01
 
-Revised 06/2016
+Revised 06/2016 P
 
 # INSTRUCTIONS FOR USE
 
@@ -139,6 +138,6 @@ Stir the mixture and give the entire dose of oseltamivir phosphate.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-PL468-00
+PL468-01
 
-Revised 06/2016
+Revised 06/2016 P
