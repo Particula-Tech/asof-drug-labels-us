@@ -15,4 +15,4 @@
   The tablet shell is eliminated from the body; patients should not be concerned if they occasionally notice in their stool something that looks like a tablet.
 - DITROPAN XL® should be taken at approximately the same time each day.
 
-For more information call 1-888-395-1232 or visit www.DITROPANXL.com
+For more information call 1-800-JANSSEN (1-800-526-7736).

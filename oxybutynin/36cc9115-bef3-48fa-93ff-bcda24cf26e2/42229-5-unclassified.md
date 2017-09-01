@@ -6,4 +6,4 @@ DITROPAN XL® and OROS® are registered trademarks of ALZA Corporation.
 
 Manufactured for: Janssen Pharmaceuticals, Inc. Titusville, NJ 08560
 
-© Janssen Pharmaceuticals, Inc. 1998
+© 1998 Janssen Pharmaceutical Companies
