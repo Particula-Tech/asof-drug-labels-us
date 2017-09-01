@@ -1,177 +1,19 @@
-# PATIENT INFORMATION
+| PATIENT INFORMATION MARINOL® (mare in all) (dronabinol) capsules, for oral use, CIII |  |
+| --- | --- |
+| What is the most important information I should know about MARINOL? MARINOL can cause serious side effects, including: Worsening mental (psychiatric) symptoms. Psychiatric symptoms can worsen in people who have mania, depression, or schizophrenia and who take MARINOL. MARINOL taken with medicines that cause psychiatric symptoms can worsen psychiatric symptoms. Elderly people who take MARINOL may have a greater risk of having psychiatric symptoms. Tell your doctor if you have new or worsening mood symptoms, including symptoms of mania, depression, or schizophrenia.Problems thinking clearly. Tell your doctor if you have trouble remembering things, concentrating, have increased sleepiness, or confusion. Elderly people may have a greater risk of having problems thinking clearly.Changes in your blood pressure. MARINOL may increase or decrease your blood pressure, especially when you start taking MARINOL or when your dose is changed. Tell your doctor if you have signs or symptoms of changes in your blood pressure including: headaches, vision problems, dizziness, feeling lightheaded, fainting, or a fast heartbeat. Elderly people, especially those with dementia, and people with heart problems may have an increased risk of changes in blood pressure and an increased risk of falls. |  |
+| What is MARINOL? MARINOL is a prescription medicine used in adults to treat: loss of appetite (anorexia) in people with AIDS (Acquired Immune Deficiency Syndrome) who have lost weight.nausea and vomiting caused by anti-cancer medicine (chemotherapy) in people whose nausea and vomiting have not improved with usual anti-nausea medicines. MARINOL is a controlled substance (CIII) because it contains dronabinol, which can be a target for people who abuse prescription medicines or street drugs. Keep your MARINOL in a safe place to protect it from theft. Never give your MARINOL to anyone else because it may cause death or harm them. Selling or giving away this medicine is against the law. It is not known if MARINOL is safe and effective in children. |  |
+| Do not take MARINOL if you: had an allergic reaction to dronabinol. Signs and symptoms of an allergic reaction to dronabinol include: swelling of the lips, hives, a rash over your whole body, mouth sores, skin burning, flushing, and throat tightness.had an allergic reaction to sesame oil. |  |
+| Before taking MARINOL, tell your doctor about all of your medical conditions, including if you: have or had heart problems.have or had problems with drug abuse or dependence.have or had problems with alcohol abuse or dependence.have or had mental health problems including mania, depression, or schizophrenia.have had a seizure or have a medical condition that may increase your risk of having a seizure.are pregnant or plan to become pregnant. MARINOL may harm your unborn baby. Avoid the use of MARINOL if you are pregnant.are breastfeeding or plan to breastfeed. The Centers for Disease Control and Prevention recommends that mothers with HIV not breastfeed because they can pass the HIV through their breast milk to the baby. It is not known if MARINOL passes into your breast milk. Talk to your doctor about the best way to feed your baby if you take MARINOL. Do not breastfeed while taking MARINOL and for 9 days after your last dose of MARINOL if you are being treated for nausea and vomiting caused by anti-cancer medicine. Tell your doctor about all the medicines you take or have taken in the last 14 days, including prescription and over-the-counter medicines, vitamins, and herbal supplements. MARINOL and certain other medicines can affect each other, causing serious side effects. |  |
+| How should I take MARINOL? Take MARINOL exactly as your doctor tells you to. Your doctor may change your dose after seeing how it affects you. Do not change your dose unless your doctor tells you to change it.If you are an adult with AIDS with loss of appetite and weight loss: MARINOL is usually taken 2 times each day, 1 hour before lunch and 1 hour before dinner. If you are elderly or unable to tolerate this dose of MARINOL, your doctor may prescribe MARINOL to be taken 1 time each day, 1 hour before dinner or bedtime to reduce your chance of having nervous system problems. If you are an adult with nausea and vomiting caused by anti-cancer medicine: MARINOL is usually taken 1 to 3 hours before your chemotherapy treatment and then every 2 to 4 hours after chemotherapy for up to 4 to 6 doses each day. If you are elderly, your doctor may prescribe MARINOL to be taken 1 to 3 hours before your chemotherapy, 1 time each day to reduce your chance of having nervous system problems.Take your first dose of MARINOL on an empty stomach at least 30 minutes before eating. After your first dose of MARINOL, you can take MARINOL with or without food. Always take your dose at the same time with regard to meals. If you take too much MARINOL, call your Poison Control Center at 1-800-222-1222 right away. |  |
+| What should I avoid while taking MARINOL? Do not drive, operate machinery, or do other dangerous activities until you know how MARINOL affects you. MARINOL taken with other medicines that cause dizziness, confusion, and sleepiness may make these symptoms worse. |  |
+| What are the possible side effects of MARINOL? MARINOL may cause serious side effects, including: See “What is the most important information I should know about MARINOL?”Seizures. MARINOL may increase your risk of seizures. Stop taking MARINOL and call your doctor and get medical care right away if you have a seizure during treatment with MARINOL.Drug and alcohol abuse. You may have an increased risk of abusing MARINOL if you have a history of drug or alcohol abuse or dependence, including marijuana. Tell your doctor if you develop abuse behaviors such as increased irritability, nervousness, restlessness or want more or higher doses of MARINOL during your treatment.Nausea, vomiting, or stomach-area (abdominal) pain. Tell your doctor if you have nausea, vomiting, or abdominal pain or if your nausea, vomiting, or abdominal pain gets worse during treatment with MARINOL. The most common side effects of MARINOL include: |  |
+| dizzinessfeeling extremely happy (euphoria)overly suspicious or feeling people want to harm you (paranoid reaction)sleepiness | abnormal thoughtsstomach-area (abdominal) painnauseavomiting |
+| These are not all the possible side effects of MARINOL. Tell your doctor if you have any side effect that bothers you or does not go away. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |  |
+| How should I store MARINOL? Store MARINOL in a cool place such as in a refrigerator, at a temperature between 46°F to 59°F (8°C to 15°C).Do not freeze MARINOL capsules.Keep the MARINOL container closed tightly. Keep MARINOL and all medicines out of the reach of children. |  |
+| General information about the safe and effective use of MARINOL Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use MARINOL for a condition for which it was not prescribed. Do not give MARINOL to other people, even if they have the same symptoms that you have. It may harm them. You can ask your doctor or pharmacist for information about MARINOL that is written for health professionals. |  |
+| What are the ingredients in MARINOL? Active ingredient: dronabinol Inactive ingredients: 2.5 mg capsules contain gelatin, glycerin, sesame oil, and titanium dioxide; 5 mg capsules contain iron oxide red and iron oxide black, gelatin, glycerin, sesame oil, and titanium dioxide; 10 mg capsules contain iron oxide red and iron oxide yellow, gelatin, glycerin, sesame oil, and titanium dioxide. |  |
+| Manufactured by: Patheon Softgels Inc., High Point, NC 27265 Manufactured for: AbbVie Inc., North Chicago, IL 60064, U.S.A. © 2017 AbbVie Inc. For more information, go to www.rxabbvie.com or call 1-800-633-9110. |  |
 
-MARINOL® (dronabinol capsules, USP) 2.5 mg, 5 mg, 10 mg for use in the loss of appetite associated with weight loss in patients with AIDS.
+This Patient Information has been approved by the U.S. Food and Revised: August, 2017 Drug Administration.
 
-IMPORTANT
-
-YOUR DOCTOR HAS PRESCRIBED THIS DRUG FOR YOUR USE ONLY.
-DO NOT LET ANYONE ELSE USE IT.
-
-KEEP THIS MEDICINE OUT OF THE REACH OF CHILDREN AND PETS.
-If a child puts a capsule in his or her mouth or swallows MARINOL® capsules, take the medicine away from the child and contact a poison control center immediately, or contact a doctor immediately.
-
-Do not drive a car or operate machinery until you know how MARINOL capsules affects you.
-While taking MARINOL capsules, do not drink alcohol, smoke marijuana, or take other drugs that have an effect on the central nervous system (such as sedatives or hypnotics).
-Unless advised by your doctor, do not use MARINOL capsules if you are pregnant or nursing.
-
-INTRODUCTION This leaflet provides a summary of information about MARINOL capsules.
-Please read it and keep it with your medicines in case you need to look at it again.
-Ask your doctor, nurse, or pharmacist if you have any questions.
-
-MARINOL capsules contains man-made dronabinol (THC).
-Dronabinol also occurs naturally, and has been extracted from Cannabis sativa L. (marijuana).
-
-PRECAUTIONS Be sure to tell your doctor if you:
-
-- have or had heart disease
-- have or had cardiac disorders because of occasional hypotension, possible hypertension, syncope, or tachycardia
-- have current or a history of drug abuse
-- have current or a history of alcohol abuse
-- have or had mental health problems (mania, depression, schizophrenia)
-- have a history of seizure disorder and/or seizure-like activity
-- have allergies to drugs
-- are pregnant or nursing, or become pregnant
-
-If you become pregnant while taking MARINOL capsules, stop using it until you have talked to your doctor.
-
-MARINOL capsules should be used with caution in children because it has not been studied in children.
-
-MARINOL capsules should be used with caution in elderly patients because they may be more sensitive to the neurological, psychoactive, and postural hypotensive effects of the drug.
-
-MARINOL capsules can dangerously interact with alcohol and with other drugs that have an effect on the central nervous system (such as Valium, Librium, Xanax, Seconal, Nembutal, or Phenobarbital).
-
-Do not drive or operate machinery until you are sure how MARINOL capsules affects you and you are able to perform safely.
-
-You may experience changes in mood or have other effects when first taking MARINOL capsules.
-Be sure that there is a responsible person nearby when you first take MARINOL capsules or when there is an adjustment in your dose.
-
-Tell your doctor if you are taking any other prescription or nonprescription medicines.
-
-Do not smoke marijuana while using MARINOL capsules.
-This can cause an overdose.
-
-INFORMATION ABOUT USING MARINOL CAPSULES
-
-Introduction Eating a nutritionally balanced diet is fundamental for all stages of life.
-For persons living with Human Immunodeficiency Virus (HIV); it’s especially important to ensure an adequate diet to maintain an ideal weight and good nutritional status.
-There is some indication that optimal nutrition can help maintain the integrity of the immune system, and an adequate diet will allow you to better withstand the diseases associated with an AIDS diagnosis.
-
-Many conditions, frequently interrelated, may cause a loss of appetite.
-Chewing and swallowing may become difficult or painful, due to inflammation or sores in your mouth and throat.
-
-You may experience intermittent diarrhea or overall physical discomfort associated with AIDS.
-Sometimes, shopping for food and preparing adequate meals may drain your energy and desire to eat.
-Mental depression also may result in a loss of your appetite, or you simply may grow increasingly frustrated with repeated eating problems.
-
-A loss of appetite may occur at various times during illness associated with HIV infection.
-It often leads to the selection of an inadequate diet.
-Because a poor nutrient intake can result in weight loss and malnutrition, it’s important to learn to recognize and handle a temporary loss of your appetite.
-
-Your doctor may prescribe an appetite stimulant such as MARINOL capsules.
-MARINOL capsules should be taken exactly as directed by your doctor, and indicated on the prescription label.
-You will most likely start therapy by taking one white capsule (2.5 mg) of MARINOL capsules twice daily, before lunch and supper.
-Your doctor may adjust your MARINOL capsules dosage if needed to maximize its effect or to decrease any side effects.
-
-If you miss a dose, take it as soon as you remember.
-However, if it is almost time for your next dose, skip the missed dose and go back to your regular dosing schedule.
-Do not double your dose.
-MARINOL capsules must be swallowed whole to work effectively.
-Do not crush or chew the capsules.
-
-It is important not to take sedatives, hypnotics, other mind altering substances, or alcohol, while taking MARINOL capsules without notifying your health care givers (physician, pharmacists and nurses).
-Do not drive or attempt other activities requiring full alertness while taking MARINOL capsules.
-Your doctor will advise when you may resume these activities.
-
-Your doctor and pharmacist should be made aware of any other prescription medications or over-the-counter products you may be taking, as they could affect the way you respond to MARINOL capsules.
-
-Remember to keep this and all other medication out of the reach of children.
-
-Increasing your appetite is only the first step in improving your nutritional status.
-How, what, and when you eat are also very important.
-
-How to Eat The purpose of consuming an adequate diet, even at times when you don’t feel like eating, is to maintain an ideal weight and good nutritional status.
-Key to an adequate diet for HIV-infected individuals are foods dense in calories and nutrients.
-In other words, when you find it difficult to eat, make the most of what you do consume by selecting foods that provide many calories or nutrients in each mouthful.
-
-Try some of the following ideas to boost your food intake.
-Keep in mind the foods you previously may have limited in your diet, especially those higher in fat, now can provide a significant source of calories.
-Enjoy an ice cream sundae frequently.
-
-Cool or cold foods can dull pain from mouth and throat sores; popsicles may even numb your mouth prior to eating a larger meal.
-The cooler temperatures also diminish the aroma of unappetizing food.
-
-Blend one cup of nonfat dry milk powder with one quart of whole milk.
-Refrigerate and use “double strength” milk for all traditional uses (puddings, cereal, shakes, soups).
-
-Foods with a softer consistency, such as applesauce, may aid swallowing.
-Creamed sauces or gravies also moisten food to encourage swallowing.
-
-Creating an appetizing meal involves more than just food.
-Try to eat in a pleasant atmosphere – sit in a comfortable chair, use a tablecloth and china, invite a friend to share your meal.
-
-What to Eat Planning ahead is one of the most effective ways to deal with a loss of appetite.
-Stock up on staple foods, particularly those high in calories and protein, so they’re available when you need them.
-Include favorite foods on your shopping list.
-Also consider these protein and nutrient dense foods:
-
-- Nonfat dry milk powder
-- Powdered breakfast drinks
-- Peanut butter and jelly
-- Pudding cups
-- “Trail mix” (dried fruit, nuts, cereals)
-- Creamed soups
-- Canned (or frozen) fruit in heavy syrup
-- Canned tuna, chicken or other sandwich spreads
-- Boxed macaroni and cheese
-
-In addition to staples, refrigerated and frozen foods contribute important nutrients to an adequate diet.
-Several key choices, high in protein and calories, are listed below:
-
-- Yogurt
-- Cheeses
-- Cold cuts, beef and poultry
-- Cottage cheese
-- Ice cream and sherbet
-- Popsicles or pudding pops
-- Hard cooked eggs or pasteurized eggs*
-
-*Raw or undercooked cracked eggs pose danger of Salmonella.
-The compromised immune function of persons with AIDS places them at greater than average risk from Salmonella infection.
-
-Commercial food supplements are also available to boost your caloric and nutrient intake.
-Offered in a variety of flavors and textures, these products supply a concentrated source of calories and protein.
-You may want to ask your treatment provider for more information about supplements.
-You may also request a referral to a registered dietitian who can provide individualized dietary recommendations to you.
-
-When to Eat “Nutritious” meals can be eaten three times a day, but frequent, small snacks or meals can help you consume the calories and protein you need without feeling full from a large meal.
-Eat when you feel hungry, using modern technology, including your microwave, to quickly prepare a nutritious snack or meal.
-
-Storage Instructions The best place to store MARINOL capsules is in a cool place (46-59°F; 8-15°C) or in the refrigerator.
-Be careful that the capsules don’t freeze.
-Heat or moisture may cause your MARINOL capsules to break down or stick together, so keep your medicine away from heat and direct light, and potentially damp places like in the bathroom or near the kitchen sink.
-
-If You Are Taking Medicines MARINOL capsules use may change the effect of other medicines.
-It is important to tell your doctor about all the medicines you are taking including all non-prescription medication.
-
-What to Watch For (Adverse Effects) You should not smoke marijuana while using MARINOL capsules.
-It is possible to get too much dronabinol (an overdose), especially if you use MARINOL capsules and smoke marijuana at the same time.
-Signs of a mild overdose would include drowsiness, euphoria, heightened sensory awareness, altered time perception, red eyes, dry mouth and rapid heart rate (tachycardia).
-Moderate overdosage would produce memory problems, depersonalization, mood alteration, urinary retention, and constipation.
-Severe overdosage would lead to decreased motor coordination, lethargy, slurred speech, and dizziness when standing up too fast (postural hypotension).
-
-An overdose might cause you to faint.
-
-If You Have Problems in the First Few Days When you first use MARINOL capsules your body is more sensitive and you may experience dizziness, confusion, sleepiness, or a high feeling.
-These symptoms usually go away in 1 to 3 days with continued dosage.
-If these symptoms are troublesome or persist, notify your doctor at once.
-Your doctor may then reduce the dose to one capsule before supper, or later in the evening, or even at bedtime.
-
-What to Do When Problems Occur IF YOU NOTICE ANY WORRISOME SYMPTOMS OR PROBLEMS, STOP THE MARINOL CAPSULES AND CALL YOUR DOCTOR AT ONCE.
-
-Manufactured by: Patheon Softgels Inc. High Point, NC 27265
-
-Manufactured for: AbbVie Inc. North Chicago, IL 60064, U.S.A.
-
-1248A99 05/17 May, 2017
-
-© 2017 AbbVie Inc.
+1248A99 08/17

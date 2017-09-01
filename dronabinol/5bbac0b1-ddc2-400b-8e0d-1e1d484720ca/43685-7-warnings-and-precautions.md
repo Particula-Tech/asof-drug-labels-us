@@ -1,77 +1,55 @@
-# WARNINGS
+# 5 WARNINGS AND PRECAUTIONS
 
-Patients receiving treatment with MARINOL capsules should be specifically warned not to drive, operate machinery, or engage in any hazardous activity until it is established that they are able to tolerate the drug and to perform such tasks safely.
+## 5.1 Neuropsychiatric Adverse Reactions
 
-# PRECAUTIONS
+Psychiatric Adverse Reactions
 
-General: The risk/benefit ratio of MARINOL capsules use should be carefully evaluated in patients with the following medical conditions because of individual variation in response and tolerance to the effects of MARINOL capsules.
+Dronabinol has been reported to exacerbate mania, depression, or schizophrenia.
+Significant CNS symptoms followed oral doses of 0.4 mg/kg (28 mg per 70 kg patient) of MARINOL in antiemetic studies.
 
-Seizure and seizure-like activity have been reported in patients receiving MARINOL capsules during marketed use of the drug and in clinical trials.
-(See ADVERSE REACTIONS and OVERDOSAGE.)
-MARINOL capsules should be used with caution in patients with a history of seizure disorder because MARINOL capsules may lower the seizure threshold.
-A causal relationship between MARINOL capsules and these events has not been established.
-MARINOL capsules should be discontinued immediately in patients who develop seizures and medical attention should be sought immediately.
+Prior to initiating treatment with MARINOL, screen patients for a history of these illnesses.
+Avoid use in patients with a psychiatric history or, if the drug cannot be avoided, monitor patients for new or worsening psychiatric symptoms during treatment.
+Also, avoid concomitant use with other drugs that are associated with similar psychiatric effects.
 
-MARINOL capsules should be used with caution in patients with cardiac disorders because of occasional hypotension, possible hypertension, syncope, or tachycardia.
-(See CLINICAL PHARMACOLOGY.)
+Cognitive Adverse Reactions
 
-MARINOL capsules should be used with caution in patients with a history of substance abuse, including alcohol abuse or dependence, because they may be more prone to abuse MARINOL capsules as well.
-Multiple substance abuse is common and marijuana, which contains the same active compound, is a frequently abused substance.
+Use of MARINOL has been associated with cognitive impairment and altered mental state.
+Reduce the dose of MARINOL or discontinue use of MARINOL if signs or symptoms of cognitive impairment develop.
+Elderly patients may be more sensitive to the neurological and psychoactive effects of MARINOL [see Use in Specific Populations (8.4, 8.5)].
 
-MARINOL capsules should be used with caution and careful psychiatric monitoring in patients with mania, depression, or schizophrenia because MARINOL capsules may exacerbate these illnesses.
+Hazardous Activities
 
-MARINOL capsules should be used with caution in patients receiving concomitant therapy with sedatives, hypnotics or other psychoactive drugs because of the potential for additive or synergistic CNS effects.
+MARINOL can cause and may impair the mental and/or physical abilities required for the performance of hazardous tasks such as driving a motor vehicle or operating machinery.
+Concomitant use of other drugs that cause dizziness, confusion, sedation, or somnolence such as CNS depressants may increase this effect (e.g., barbiturates, benzodiazepines, ethanol, lithium, opioids, buspirone, scopolamine, antihistamines, tricyclic antidepressants, other anticholinergic agents, muscle relaxants).
+Inform patients not to operate motor vehicles or other dangerous machinery until they are reasonably certain that MARINOL does not affect them adversely.
 
-MARINOL capsules should be used with caution in elderly patients because they may be more sensitive to the neurological, psychoactive, and postural hypotensive effects of the drug.
-(See INDIVIDUALIZATION OF DOSAGES.)
+## 5.2 Hemodynamic Instability
 
-MARINOL capsules should be used with caution in pregnant patients, nursing mothers, or pediatric patients because it has not been studied in these patient populations.
+Patients may experience occasional hypotension, possible hypertension, syncope, or tachycardia while taking MARINOL [see Clinical Pharmacology (12.2)].
+Patients with cardiac disorders may be at higher risk.
+Avoid concomitant use of other drugs that are also associated with similar cardiac effects (e.g., amphetamines, other sympathomimetic agents, atropine, amoxapine, scopolamine, antihistamines, other anticholinergic agents, amitriptyline, desipramine, other tricyclic antidepressants).
+Monitor patients for changes in blood pressure, heart rate, and syncope after initiating or increasing the dosage of MARINOL.
 
-Information for Patients: Patients receiving treatment with MARINOL capsules should be alerted to the potential for additive central nervous system depression if MARINOL capsules is used concomitantly with alcohol or other CNS depressants such as benzodiazepines and barbiturates.
+## 5.3 Seizures
 
-Patients receiving treatment with MARINOL capsules should be specifically warned not to drive, operate machinery, or engage in any hazardous activity until it is established that they are able to tolerate the drug and to perform such tasks safely.
+Seizure and seizure-like activity have been reported in patients receiving dronabinol.
 
-Patients using MARINOL capsules should be advised of possible changes in mood and other adverse behavioral effects of the drug so as to avoid panic in the event of such manifestations.
-Patients should remain under the supervision of a responsible adult during initial use of MARINOL capsules and following dosage adjustments.
+Weigh this potential risk against the benefits before prescribing MARINOL to patients with a history of seizures, including those receiving anti-epileptic medication or with other factors that can lower the seizure threshold.
+Monitor patients with a history of seizure disorders for worsened seizure control during MARINOL therapy.
 
-Drug Interactions: In studies involving patients with AIDS and/or cancer, MARINOL capsules has been co-administered with a variety of medications (e.g., cytotoxic agents, anti-infective agents, sedatives, or opioid analgesics) without resulting in any clinically significant drug/drug interactions.
-Although no drug/drug interactions were discovered during the clinical trials of MARINOL capsules, cannabinoids may interact with other medications through both metabolic and pharmacodynamic mechanisms.
-Dronabinol is highly protein bound to plasma proteins, and therefore, might displace other protein-bound drugs.
-Although this displacement has not been confirmed in vivo, practitioners should monitor patients for a change in dosage requirements when administering dronabinol to patients receiving other highly protein-bound drugs.
-Published reports of drug/drug interactions involving cannabinoids are summarized in the following table.
+If a seizure occurs, advise patients to discontinue MARINOL and contact a healthcare provider immediately.
 
-| CONCOMITANT DRUG | CLINICAL EFFECT(S) |
-| --- | --- |
-| Amphetamines, cocaine, other sympathomimetic agents | Additive hypertension, tachycardia, possibly cardiotoxicity |
-| Atropine, scopolamine, antihistamines, other anticholinergic agents | Additive or super-additive tachycardia, drowsiness |
-| Amitriptyline, amoxapine, desipramine, other tricyclic antidepressants | Additive tachycardia, hypertension, drowsiness |
-| Barbiturates, benzodiazepines, ethanol, lithium, opioids, buspirone, antihistamines, muscle relaxants, other CNS depressants | Additive drowsiness and CNS depression |
-| Disulfiram | A reversible hypomanic reaction was reported in a 28 y/o man who smoked marijuana; confirmed by dechallenge and rechallenge |
-| Fluoxetine | A 21 y/o female with depression and bulimia receiving 20 mg/day fluoxetine X 4 wks became hypomanic after smoking marijuana; symptoms resolved after 4 days |
-| Antipyrine, barbiturates | Decreased clearance of these agents, presumably via competitive inhibition of metabolism |
-| Theophylline | Increased theophylline metabolism reported with smoking of marijuana; effect similar to that following smoking tobacco |
+## 5.4 Multiple Substance Abuse
 
-Carcinogenesis, Mutagenesis, Impairment of Fertility: Carcinogenicity studies in mice and rats have been conducted under the US National Toxicology Program (NTP).
-In the 2-year carcinogenicity study in rats, there was no evidence of carcinogenicity at doses up to 50 mg/kg/day, about 20 times the maximum recommended human dose on a body surface area basis.
-In the 2-year carcinogenicity study in mice, treatment with dronabinol at 125 mg/kg/day, about 25 times the maximum recommended human dose on a body surface area basis, produced thyroid follicular cell adenoma in both male and female mice but not at 250 or 500 mg/kg/day.
+Patients with a history of substance abuse or dependence, including marijuana or alcohol, may be more likely to abuse MARINOL as well.
 
-Dronabinol was not genotoxic in the Ames tests, the in vitro chromosomal aberration test in Chinese hamster ovary cells, and the in vivo mouse micronucleus test.
-It, however, produced a weak positive response in a sister chromatid exchange test in Chinese hamster ovary cells.
+Assess each patient’s risk for abuse or misuse prior to prescribing MARINOL and monitor patients with a history of substance abuse during treatment with MARINOL for the development of these behaviors or conditions.
 
-In a long-term study (77 days) in rats, oral administration of dronabinol at doses of 30 to 150 mg/m2, equivalent to 0.3 to 1.5 times maximum recommended human dose (MRHD) of 90 mg/m2/day in cancer patients or 2 to 10 times MRHD of 15 mg/m2/day in AIDS patients, reduced ventral prostate, seminal vesicle and epididymal weights and caused a decrease in seminal fluid volume.
-Decreases in spermatogenesis, number of developing germ cells, and number of Leydig cells in the testis were also observed.
-However, sperm count, mating success and testosterone levels were not affected.
-The significance of these animal findings in humans is not known.
+## 5.5 Paradoxical Nausea, Vomiting, or Abdominal Pain
 
-Pregnancy: Pregnancy Category C. Reproduction studies with dronabinol have been performed in mice at 15 to 450 mg/m2, equivalent to 0.2 to 5 times maximum recommended human dose (MRHD) of 90 mg/m2/day in cancer patients or 1 to 30 times MRHD of 15 mg/m2/day in AIDS patients, and in rats at 74 to 295 mg/m2 (equivalent to 0.8 to 3 times MRHD of 90 mg/m2 in cancer patients or 5 to 20 times MRHD of 15 mg/m2/day in AIDS patients).
-These studies have revealed no evidence of teratogenicity due to dronabinol.
-At these dosages in mice and rats, dronabinol decreased maternal weight gain and number of viable pups and increased fetal mortality and early resorptions.
-Such effects were dose dependent and less apparent at lower doses which produced less maternal toxicity.
-There are no adequate and well-controlled studies in pregnant women.
-Dronabinol should be used only if the potential benefit justifies the potential risk to the fetus.
+Nausea, vomiting, or abdominal pain can occur during treatment with synthetic delta-9-tetrahydrocannabinol (delta-9-THC), the active ingredient in MARINOL.
+In some cases, these adverse reactions were severe (e.g., dehydration, electrolyte abnormalities) and required dose reduction or drug discontinuation.
+Symptoms are similar to cannabinoid hyperemesis syndrome (CHS), which is described as cyclical events of abdominal pain, nausea, and vomiting in chronic, long-term users of delta-9-THC products.
 
-Nursing Mothers: Use of MARINOL capsules is not recommended in nursing mothers since, in addition to the secretion of HIV virus in breast milk, dronabinol is concentrated in and secreted in human breast milk and is absorbed by the nursing baby.
-
-Geriatric Use: Clinical studies of MARINOL capsules in AIDS and cancer patients did not include the sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
-Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
-In general, dose selection for an elderly patient should be cautious usually starting at the low end of the dosing range, reflecting the greater frequency of falls, decreased hepatic, renal, or cardiac function, increased sensitivity to psychoactive effects and of concomitant disease or other drug therapy.
+Because patients may not recognize these symptoms as abnormal, it is important to specifically ask patients or their caregivers about the development of worsening of nausea, vomiting, or abdominal pain while being treated with MARINOL.
+Consider dose reduction or discontinuing MARINOL if a patient develops worsening nausea, vomiting, or abdominal pain while on treatment.

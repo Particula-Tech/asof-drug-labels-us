@@ -1,4 +1,4 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-MARINOL capsules is contraindicated in any patient who has a known sensitivity to MARINOL capsules or any of its ingredients.
-It contains cannabinoid and sesame oil and should never be used by patients allergic to these substances.
+MARINOL is contraindicated in patients with a history of a hypersensitivity reaction to dronabinol or sesame oil.
+Reported hypersensitivity reactions to dronabinol capsules include lip swelling, hives, disseminated rash, oral lesions, skin burning, flushing and throat tightness [see Adverse Reactions (6.2)].

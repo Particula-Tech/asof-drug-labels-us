@@ -1,4 +1,4 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 MARINOL® (dronabinol capsules, USP)
 
@@ -11,10 +11,7 @@ NDC 0051-0022-21 (Bottle of 60 capsules).
 10 mg orange capsules (Identified UM).
 NDC 0051-0023-21 (Bottle of 60 capsules).
 
-Manufactured by: Patheon Softgels Inc. High Point, NC 27265
+Storage Conditions
 
-Manufactured for: AbbVie Inc. North Chicago, IL 60064, U.S.A.
-
-1248A00 05/17 May, 2017
-
-© 2017 AbbVie Inc.
+MARINOL capsules should be packaged in a well-closed container and stored in a cool environment between 8° and 15°C (46° and 59°F) and alternatively could be stored in a refrigerator.
+Protect from freezing.

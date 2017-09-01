@@ -1,15 +1,8 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
-Signs and symptoms following MILD MARINOL capsules intoxication include drowsiness, euphoria, heightened sensory awareness, altered time perception, reddened conjunctiva, dry mouth and tachycardia; following MODERATE intoxication include memory impairment, depersonalization, mood alteration, urinary retention, and reduced bowel motility; and following SEVERE intoxication include decreased motor coordination, lethargy, slurred speech, and postural hypotension.
-Apprehensive patients may experience panic reactions and seizures may occur in patients with existing seizure disorders.
+Signs and symptoms of dronabinol overdosage include drowsiness, euphoria, heightened sensory awareness, altered time perception, reddened conjunctiva, dry mouth, tachycardia, memory impairment, depersonalization, mood alteration, urinary retention, reduced bowel motility, decreased motor coordination, lethargy, slurred speech, and postural hypotension.
+Patients may also experience panic reactions if they have a prior history of nervousness or anxiety, and seizures may occur in patients with existing seizure disorders.
 
-The estimated lethal human dose of intravenous dronabinol is 30 mg/kg (2100 mg/ 70 kg).
-Significant CNS symptoms in antiemetic studies followed oral doses of 0.4 mg/kg (28 mg/70 kg) of MARINOL capsules.
+It is not known if dronabinol can be removed by dialysis in cases of overdose.
 
-Management: A potentially serious oral ingestion, if recent, should be managed with gut decontamination.
-In unconscious patients with a secure airway, instill activated charcoal (30 to 100 g in adults, 1 to 2 g/kg in infants) via a nasogastric tube.
-A saline cathartic or sorbitol may be added to the first dose of activated charcoal.
-Patients experiencing depressive, hallucinatory or psychotic reactions should be placed in a quiet area and offered reassurance.
-Benzodiazepines (5 to 10 mg diazepam po) may be used for treatment of extreme agitation.
-Hypotension usually responds to Trendelenburg position and IV fluids.
-Pressors are rarely required.
+If over-exposure of MARINOL occurs, call your Poison Control Center at 1-800-222-1222 for current information on the management of poisoning or overdosage.

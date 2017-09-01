@@ -1,6 +1,6 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-MARINOL capsules is indicated for the treatment of:
+MARINOL is indicated in adults for the treatment of:
 
-1. anorexia associated with weight loss in patients with AIDS; and
-2. nausea and vomiting associated with cancer chemotherapy in patients who have failed to respond adequately to conventional antiemetic treatments.
+- anorexia associated with weight loss in patients with Acquired Immune Deficiency Syndrome (AIDS).
+- nausea and vomiting associated with cancer chemotherapy in patients who have failed to respond adequately to conventional antiemetic treatments.
