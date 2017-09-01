@@ -34,7 +34,9 @@ CV
 
 50 mg
 
-ALWAYS DISPENSE WITH MEDICATION GUIDE For in-institution use only
+ALWAYS DISPENSE WITH MEDICATION GUIDE
+
+For in-institution use only
 
 100 Capsules Rx only
 
@@ -74,7 +76,9 @@ CV
 
 75 mg
 
-ALWAYS DISPENSE WITH MEDICATION GUIDE For in-institution use only
+ALWAYS DISPENSE WITH MEDICATION GUIDE
+
+For in-institution use only
 
 100 Capsules Rx only
 
@@ -114,7 +118,9 @@ CV
 
 100 mg
 
-ALWAYS DISPENSE WITH MEDICATION GUIDE For in-institution use only
+ALWAYS DISPENSE WITH MEDICATION GUIDE
+
+For in-institution use only
 
 100 Capsules Rx only
 
@@ -154,7 +160,9 @@ CV
 
 150 mg
 
-ALWAYS DISPENSE WITH MEDICATION GUIDE For in-institution use only
+ALWAYS DISPENSE WITH MEDICATION GUIDE
+
+For in-institution use only
 
 100 Capsules Rx only
 
