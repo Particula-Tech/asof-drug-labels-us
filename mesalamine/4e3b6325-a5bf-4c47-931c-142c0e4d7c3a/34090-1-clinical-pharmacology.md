@@ -89,5 +89,5 @@ Drug Interactions:
 The potential effect of mesalamine delayed-release tablets (4.8 g given once daily) on the pharmacokinetics of four commonly used antibiotics was evaluated in healthy subjects.
 The four antibiotics studied and their dosing regimens were as follows: amoxicillin (single 500 mg dose), ciprofloxacin XR (single 500 mg dose), metronidazole (750 mg twice daily for 3.5 days), and sulfamethoxazole/trimethoprim (800 mg/160 mg twice daily for 3.5 days).
 Coadministration of mesalamine delayed-release tablets did not result in clinically significant changes in the pharmacokinetics of any of the four antibiotics.
-The changes in Cmax and AUC of amoxicillin, ciprofloxacin and metronidazole when they were coadministered with mesalamine delayed-release tablets were all ≤ 3%.
+The changes in Cmax and AUC of amoxicillin, ciprofloxacin and metronidazole when they were co-administered with mesalamine delayed-release tablets were all ≤ 3%.
 There was an increase of 12% in Cmax and an increase of 15% in AUC of sulfamethoxazole when sulfamethoxazole/trimethoprim was coadministered with mesalamine delayed-release tablets [see Drug Interactions (7)].

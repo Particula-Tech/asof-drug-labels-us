@@ -116,13 +116,13 @@ Hematologic: agranulocytosis, aplastic anemia
 
 Immune System Disorders: anaphylactic reaction, angioedema, Stevens-Johnson syndrome (SJS), drug reaction with eosinophilia and systemic symptoms (DRESS)
 
-Musculoskeletal and Connective Tissue Disorders: myalgia
+Musculoskeletal and Connective Tissue Disorders: myalgia, lupus-like syndrome
 
-Neurological/Psychiatric: peripheral neuropathy, Guillain-Barre syndrome, transverse myelitis
+Neurological/Psychiatric: peripheral neuropathy, Guillain-Barre syndrome, transverse myelitis, intracranial hypertension
 
-Renal Disorders: interstitial nephritis
+Renal Disorders: interstitial nephritis, nephrogenic diabetes insipidus
 
-Respiratory, Thoracic and Mediastinal Disorders: hypersensitivity pneumonitis (including interstitial pneumonitis, allergic alveolitis, eosinophilic pneumonitis)
+Respiratory, Thoracic and Mediastinal Disorders: interstitial lung disease, hypersensitivity pneumonitis (including interstitial pneumonitis, allergic alveolitis, eosinophilic pneumonitis)
 
 Skin: psoriasis, pyoderma gangrenosum, erythema nodosum
 
