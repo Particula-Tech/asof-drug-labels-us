@@ -23,7 +23,7 @@ Clinical status including laboratory parameters should be monitored and appropri
 
 The concomitant use of ODEFSEY and other drugs may result in known or potentially significant drug interactions, some of which may lead to loss of therapeutic effect of ODEFSEY and possible development of resistance due to reduced exposure of RPV.
 
-See Table 1 for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations [see Contraindications (4) and Drug Interactions (7)].
+See Table 3 for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations [see Contraindications (4) and Drug Interactions (7)].
 Consider the potential for drug interactions prior to and during ODEFSEY therapy; review concomitant medications during ODEFSEY therapy; and monitor for the adverse reactions associated with the concomitant drugs.
 
 ## 5.4 Prolongation of QTc Interval with Higher Than Recommended Dosages
@@ -65,35 +65,16 @@ Autoimmune disorders (such as Graves' disease, polymyositis, and Guillain-Barré
 
 Renal impairment, including cases of acute renal failure and Fanconi syndrome (renal tubular injury with severe hypophosphatemia), has been reported with the use of tenofovir prodrugs in both animal toxicology studies and human trials.
 In clinical trials of FTC+TAF with EVG+COBI, there have been no cases of Fanconi syndrome or proximal renal tubulopathy (PRT).
-In clinical trials of FTC+TAF with EVG+COBI in treatment-naïve subjects and in virally suppressed subjects switched to FTC+TAF with EVG+COBI with eGFRs greater than 50 mL per minute, renal serious adverse events or discontinuations due to renal adverse reactions were encountered in less than 1% of participants treated with FTC+TAF with EVG+COBI.
-In a study of virally suppressed subjects with baseline eGFRs between 30 and 69 mL per minute treated with FTC+TAF with EVG+COBI for a median duration of 43 weeks, FTC+TAF with EVG+COBI was permanently discontinued due to worsening renal function in two of 80 (3%) subjects with a baseline eGFR between 30 and 50 mL per minute [see Adverse Reactions (6.1)].
+In clinical trials of FTC+TAF with EVG+COBI in treatment-naïve subjects and in virologically-suppressed subjects switched to FTC+TAF with EVG+COBI with eGFRs greater than 50 mL per minute, renal serious adverse events or discontinuations due to renal adverse reactions were encountered in less than 1% of participants treated with FTC+TAF with EVG+COBI.
+In a study of virologically-suppressed subjects with baseline eGFRs between 30 and 69 mL per minute treated with FTC+TAF with EVG+COBI for a median duration of 43 weeks, FTC+TAF with EVG+COBI was permanently discontinued due to worsening renal function in two of 80 (3%) subjects with a baseline eGFR between 30 and 50 mL per minute [see Adverse Reactions (6.1)].
 ODEFSEY is not recommended in patients with estimated creatinine clearance below 30 mL per minute because data in this population are insufficient.
 
 Patients taking tenofovir prodrugs who have impaired renal function and those taking nephrotoxic agents, including nonsteroidal anti-inflammatory drugs are at increased risk of developing renal-related adverse reactions.
 
-Estimated creatinine clearance, urine glucose and urine protein should be assessed before initiating ODEFSEY therapy and should be monitored during therapy in all patients.
-Serum phosphorus should be monitored in patients with chronic kidney disease because these patients are at greater risk of developing Fanconi syndrome on tenofovir prodrugs.
+It is recommended that serum creatinine, serum phosphorus, estimated creatinine clearance, urine glucose and urine protein be assessed before initiating ODEFSEY therapy and during therapy in all patients as clinically appropriate.
 Discontinue ODEFSEY in patients who develop clinically significant decreases in renal function or evidence of Fanconi syndrome.
 
 ## 5.9 Lactic Acidosis/Severe Hepatomegaly with Steatosis
 
 Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with the use of nucleoside analogs, including emtricitabine, a component of ODEFSEY, and tenofovir DF, another prodrug of tenofovir, alone or in combination with other antiretrovirals.
 Treatment with ODEFSEY should be suspended in any patient who develops clinical or laboratory findings suggestive of lactic acidosis or pronounced hepatotoxicity (which may include hepatomegaly and steatosis even in the absence of marked transaminase elevations).
-
-## 5.10 Bone Loss and Mineralization Defects
-
-Decrease in Bone Mineral Density (BMD):
-
-In animal toxicology studies and human clinical trials, TAF and tenofovir have been associated with decreases in BMD and increases in biochemical markers of bone metabolism suggestive of increased bone turnover.
-In clinical trials in HIV-1 infected treatment-naïve adults, a significant decline in BMD was observed in 15% of subjects treated with FTC+TAF with EVG+COBI [see Adverse Reactions (6.1)].
-The long-term clinical significance of these changes has not been established.
-
-Assessment of BMD should be considered for adults and pediatric patients treated with ODEFSEY who have a history of pathologic bone fracture or other risk factors for osteoporosis or bone loss.
-Calcium and vitamin D supplementation may be beneficial for all patients.
-If bone abnormalities are suspected then appropriate consultation should be obtained.
-
-Mineralization Defects:
-
-Cases of osteomalacia associated with proximal renal tubulopathy (PRT), manifested as bone pain or pain in extremities and which may contribute to fractures, have been reported in association with the use of TDF-containing products.
-Hypophosphatemia and osteomalacia secondary to PRT have occurred in patients at risk of renal dysfunction who present with persistent or worsening bone or muscle symptoms while receiving products containing TDF [see Warnings and Precautions (5.8)].
-While not observed in clinical studies of FTC+TAF with EVG+COBI, the risk of osteomalacia with ODEFSEY is not known.

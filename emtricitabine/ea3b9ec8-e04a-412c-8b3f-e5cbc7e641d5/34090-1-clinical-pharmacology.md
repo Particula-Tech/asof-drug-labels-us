@@ -22,10 +22,10 @@ The effect of FTC on the QT interval is not known.
 
 Absorption, Distribution, Metabolism, and Excretion
 
-The pharmacokinetic properties of the components of ODEFSEY are provided in Table 2.
-The multiple dose pharmacokinetic parameters of FTC, RPV and TAF and its metabolite tenofovir are provided in Table 3.
+The pharmacokinetic properties of the components of ODEFSEY are provided in Table 4.
+The multiple dose pharmacokinetic parameters of FTC, RPV and TAF and its metabolite tenofovir are provided in Table 5.
 
-Table 2 Pharmacokinetic Properties of the Components of ODEFSEY
+Table 4 Pharmacokinetic Properties of the Components of ODEFSEY
 
 |  | Rilpivirine | Emtricitabine | Tenofovir Alafenamide |
 | --- | --- | --- | --- |
@@ -46,7 +46,7 @@ Table 2 Pharmacokinetic Properties of the Components of ODEFSEY
 | % Of dose excreted in feces | 85 | 13.7 | 31.7 |
 | PBMCs = peripheral blood mononuclear cells; CES1 = carboxylesterase 1. |  |  |  |
 
-Table 3 Multiple Dose Pharmacokinetic Parameters of Emtricitabine, Rilpivirine, Tenofovir Alafenamide and its Metabolite Tenofovir Following Oral Administration with a Meal in HIV-Infected Adults
+Table 5 Multiple Dose Pharmacokinetic Parameters of Emtricitabine, Rilpivirine, Tenofovir Alafenamide and its Metabolite Tenofovir Following Oral Administration with a Meal in HIV-Infected Adults
 
 | Parameter Mean (CV%) | EmtricitabineFrom Intensive PK analysis in a phase 2 trial in HIV infected adults treated with FTC+TAF with EVG+COBI (n=19). | RilpivirineFrom Population PK analysis in a trial of treatment-naïve adults with HIV-1 infection treated with RPV (n=679). | Tenofovir AlafenamideFrom Population PK analysis in two trials of treatment-naïve adults with HIV-1 infection treated within EVG+COBI+FTC+TAF (n=539). | TenofovirFrom Population PK analysis in two trials of treatment-naïve adults with HIV-1 infection treated with EVG+COBI+FTC+TAF (n=841). |
 | --- | --- | --- | --- | --- |
@@ -62,9 +62,9 @@ Patients with Renal Impairment
 Rilpivirine: Population pharmacokinetic analysis indicated that RPV exposure was similar in HIV-1 infected subjects with eGFR 60 to 89 mL per minute by Cockcroft-Gault method relative to HIV-1 infected subjects with normal renal function.
 There is limited or no information regarding the pharmacokinetics of RPV in patients with moderate or severe renal impairment or in patients with end-stage renal disease [see Use in Specific Populations (8.6)].
 
-Tenofovir Alafenamide: The pharmacokinetics of FTC+TAF with EVG+COBI in HIV-1 infected subjects with renal impairment (eGFR 30 to 69 mL per minute by Cockcroft-Gault method) were evaluated within a subset of virologically-suppressed subjects in an open-label trial (Table 4).
+Tenofovir Alafenamide: The pharmacokinetics of FTC+TAF with EVG+COBI in HIV-1 infected subjects with renal impairment (eGFR 30 to 69 mL per minute by Cockcroft-Gault method) were evaluated within a subset of virologically-suppressed subjects in an open-label trial (Table 6).
 
-Table 4 Pharmacokinetics of the FTC, TAF, and a Metabolite of TAF (Tenofovir) in HIV-Infected Adults with Renal Impairment as Compared to Subjects with Normal Renal Function
+Table 6 Pharmacokinetics of the FTC, TAF, and a Metabolite of TAF (Tenofovir) in HIV-Infected Adults with Renal Impairment as Compared to Subjects with Normal Renal Function
 
 | Creatinine Clearance | ≥90 mL per minute (N=18)From a phase 2 trial in HIV-infected adults with normal renal function treated with FTC+TAF with EVG+COBI. | 60–89 mL per minute (N=11)These subjects had an eGFR ranging from 60 to 69 mL per minute. | 30–59 mL per minute (N=18) |
 | --- | --- | --- | --- |
@@ -79,7 +79,7 @@ Emtricitabine: The pharmacokinetics of FTC have not been studied in subjects wit
 
 Rilpivirine: In a study comparing 8 subjects with mild hepatic impairment (Child-Pugh score A) to 8 matched controls and 8 subjects with moderate hepatic impairment (Child-Pugh score B) to 8 matched controls, the multiple-dose exposure of RPV was 47% higher in subjects with mild hepatic impairment and 5% higher in subjects with moderate hepatic impairment [see Use in Specific Populations (8.7)].
 
-Tenofovir Alafenamide: Clinically relevant changes in tenofovir pharmacokinetics in subjects with hepatic impairment were not observed in subjects with mild to moderate (Child-Pugh Class A and B) hepatic impairment [see Use in Specific Populations (8.7)].
+Tenofovir Alafenamide: Clinically relevant changes in the pharmacokinetics of tenofovir alafenamide or its metabolite tenofovir were not observed in subjects with mild, moderate, (Child-Pugh A and B) or severe hepatic impairment (Child-Pugh C) [see Use in Specific Populations (8.7)].
 
 Hepatitis B and/or Hepatitis C Virus Coinfection
 
@@ -119,13 +119,13 @@ TAF is not an inhibitor of CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, or U
 TAF is a weak inhibitor of CYP3A in vitro.
 TAF is not an inhibitor or inducer of CYP3A in vivo.
 
-The drug interaction studies described in Tables 5–8 were conducted with ODEFSEY (FTC/RPV/TAF) or the components of ODEFSEY (FTC, RPV, or TAF) administered individually.
+The drug interaction studies described in Tables 7–10 were conducted with ODEFSEY (FTC/RPV/TAF) or the components of ODEFSEY (FTC, RPV, or TAF) administered individually.
 
-The effects of coadministered drugs on the exposures of RPV and TAF are shown in Tables 5 and 6, respectively.
-The effects of RPV and TAF on the exposure of coadministered drugs are shown in Tables 7 and 8, respectively.
+The effects of coadministered drugs on the exposures of RPV and TAF are shown in Tables 7 and 8, respectively.
+The effects of RPV and TAF on the exposure of coadministered drugs are shown in Tables 9 and 10, respectively.
 For information regarding clinical recommendations, see Drug Interactions (7).
 
-Table 5 Changes in Pharmacokinetic Parameters for RPV in the Presence of Coadministered Drugs in Healthy Subjects
+Table 7 Changes in Pharmacokinetic Parameters for RPV in the Presence of Coadministered Drugs in Healthy Subjects
 
 | Coadministered Drug (mg) | RPV (mg) | Cmax | AUC | Cmin |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -145,9 +145,10 @@ Table 5 Changes in Pharmacokinetic Parameters for RPV in the Presence of Coadmin
 | Rifampin | 600 once daily | 150 once daily | 16 | 0.31 (0.27, 0.36) | 0.20 (0.18, 0.23) | 0.11 (0.10, 0.13) |
 | Simeprevir | 25 once daily | 150 once daily | 23 | 1.04 (0.95, 1.30) | 1.12 (1.05, 1.19) | 1.25 (1.16, 1.35) |
 | Sildenafil | 50 single dose | 75 once daily | 16 | 0.92 (0.85, 0.99) | 0.98 (0.92, 1.05) | 1.04 (0.98, 1.09) |
+| Sofosbuvir/ velpatasvir | 400/100 once daily | 10 once dailyStudy conducted with FTC/RPV/TDF. | 24 | 0.93 (0.88,0.98) | 0.95 (0.90, 1.00) | 0.96 (0.90,1.03) |
 | CI=Confidence Interval; N=maximum number of subjects with data; NA=Not Available; ↔=no change |  |  |  |  |  |  |
 
-Table 6 Changes in Pharmacokinetic Parameters for TAF in the Presence of the Coadministered DrugAll interaction studies conducted in healthy volunteers. in Healthy Subjects
+Table 8 Changes in Pharmacokinetic Parameters for TAF in the Presence of the Coadministered DrugAll interaction studies conducted in healthy volunteers. in Healthy Subjects
 
 | Cmax | AUC | Cmin |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -156,7 +157,7 @@ Table 6 Changes in Pharmacokinetic Parameters for TAF in the Presence of the Coa
 | Ledipasvir/SofosbuvirStudy conducted with ODEFSEY (FTC/RPV/TAF). | 90/400 once daily | 25 once daily | 42 | 1.03 (0.94, 1.14) | 1.32 (1.25, 1.40) | NC |
 | CI=Confidence Interval; N=maximum number of subjects with data; NC=Not Calculated |  |  |  |  |  |  |
 
-Table 7 Changes in Pharmacokinetic Parameters for Coadministered Drugs in the Presence of RPV in Healthy Subjects
+Table 9 Changes in Pharmacokinetic Parameters for Coadministered Drugs in the Presence of RPV in Healthy Subjects
 
 | Coadministered Drug (mg) | RPV (mg) | Cmax | AUC | Cmin |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -170,27 +171,35 @@ Table 7 Changes in Pharmacokinetic Parameters for Coadministered Drugs in the Pr
 | Ethinylestradiol | 0.035 once daily | 25 once daily | 17 | 1.17 (1.06, 1.30) | 1.14 (1.10, 1.19) | 1.09 (1.03, 1.16) |
 | Norethindrone | 1 mg once daily | 0.94 (0.83, 1.06) | 0.89 (0.84, 0.94) | 0.99 (0.90, 1.08) |  |  |
 | Ketoconazole | 400 once daily | 150 once daily | 14 | 0.85 (0.80, 0.90) | 0.76 (0.70, 0.82) | 0.34 (0.25, 0.46) |
+| Ledipasvir | 90 once daily | 25 once dailyStudy conducted with ODEFSEY (FTC/RPV/TAF). | 41 | 1.01 (0.97, 1.05) | 1.02 (0.97, 1.06) | 1.02 (0.98, 1.07) |
+| Sofosbuvir | 400 once daily | 25 once daily | 41 | 0.96 (0.89, 1.04) | 1.05 (1.01, 1.09) | NA |
+| GS-331007The predominant circulating nucleoside metabolite of sofosbuvir. | 1.08 (1.05, 1.11) | 1.08 (1.06, 1.10) | 1.10 (1.07, 1.12) |  |  |  |
 | R(-) methadone | 60–100 once daily, individualized dose | 25 once daily | 13 | 0.86 (0.78, 0.95) | 0.84 (0.74, 0.95) | 0.78 (0.67, 0.91) |
 | S(+) methadone | 0.87 (0.78, 0.97) | 0.84 (0.74, 0.96) | 0.79 (0.67, 0.92) |  |  |  |
-| Metformin | 850 single dose | 25 once daily | 20 | 1.02 (0.95, 1.10) | 0.97 (0.90, 1.06)N (maximum number of subjects with data for AUC(0–∞)=15) | NA |
+| Metformin | 850 single dose | 25 once daily | 20 | 1.02 (0.95, 1.10) | 0.97 (0.90,1.06)N (maximum number of subjects with data for AUC(0–∞)=15) | NA |
 | Rifampin | 600 once daily | 150 once daily | 16 | 1.02 (0.93, 1.12) | 0.99 (0.92, 1.07) | NA |
 | 25-desacetylrifampin | 1.00 (0.87, 1.15) | 0.91 (0.77, 1.07) | NA |  |  |  |
 | Simeprevir | 150 once daily | 25 once daily | 21 | 1.10 (0.97, 1.26) | 1.06 (0.94, 1.19) | 0.96 (0.83, 1.11) |
 | Sildenafil | 50 single dose | 75 once daily | 16 | 0.93 (0.80, 1.08) | 0.97 (0.87, 1.08) | NA |
 | N-desmethyl-sildenafil | 0.90 (0.80, 1.02) | 0.92 (0.85, 0.99) | NA |  |  |  |
+| Sofosbuvir | 400 once daily | 25 once dailyStudy conducted with FTC/RPV/TDF. | 24 | 1.09 (0.95, 1.25) | 1.16 (1.10, 1.24) | NA |
+| GS-331007 | 0.96 (0.90, 1.01) | 1.04 (1.00, 1.07) | 1.12 (1.07, 1.17) |  |  |  |
+| Velpatasvir | 100 once daily | 25 once daily | 24 | 0.96 (0.85, 1.10) | 0.99 (0.88, 1.11) | 1.02 (0.91, 1.15) |
 | CI=Confidence Interval; N=maximum number of subjects with data; NA=Not Available |  |  |  |  |  |  |
 
-Table 8 Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of TAF in Healthy Subjects
+Table 10 Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of TAF in Healthy Subjects
 
 | Cmax | AUC | Cmin |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Coadministered Drug | Dose of Coadministered Drug (mg) | TAF (mg) | N | Mean Ratio of Coadministered Drug Pharmacokinetic Parameters (90% CI); No Effect = 1.00 |  |  |
-| Cobicistat | 150 once daily | 8 once daily | 14 | 1.06 (1.00, 1.12) | 1.09 (1.03, 1.15) | 1.11 (0.98, 1.25) |
-| MidazolamA sensitive CYP3A4 substrate. | 2.5 once daily, orally | 25 once daily | 18 | 1.02 (0.92, 1.13) | 1.12 (1.03, 1.22) | NC |
-| 1 once daily IV | 0.99 (0.89, 1.11) | 1.08 (1.04, 1.14) | NC |  |  |  |
-| LedipasvirStudy conducted with ODEFSEY (FTC/RPV/TAF). | 90/400 once daily | 25 once daily | 41 | 1.01 (0.97, 1.05) | 1.02 (0.97, 1.06) | NC |
+| MidazolamA sensitive CYP3A4 substrate. | 2.5 single dose, orally | 25 once daily | 18 | 1.02 (0.92, 1.13) | 1.13 (1.04, 1.23) | NC |
+| 1 single dose, IV | 0.99 (0.89, 1.11) | 1.08 (1.04, 1.13) | NC |  |  |  |
+| LedipasvirStudy conducted with ODEFSEY (FTC/RPV/TAF). | 90/400 once daily | 25 once daily | 41 | 1.01 (0.97, 1.05) | 1.02 (0.97, 1.06) | 1.02 (0.98,1.07) |
 | Sofosbuvir | 0.96 (0.89, 1.04) | 1.05 (1.01, 1.09) | NC |  |  |  |
-| GS-331007,The predominant circulating nucleoside metabolite of sofosbuvir. | 0.96 (0.89, 1.04) | 1.05 (1.01, 1.09) | NC |  |  |  |
+| GS-331007,The predominant circulating nucleoside metabolite of sofosbuvir. | 1.08 (1.05, 1.11) | 1.08 (1.06, 1.10) | 1.10 (1.07, 1.12) |  |  |  |
+| Norelgestromin | norgestimate 0.180/0.215/0.250 once daily/ethinyl estradiol 0.025 once daily | 25 once dailyStudy conducted with FTC/TAF. | 29 | 1.17 (1.07,1.26) | 1.12 (1.07, 1.17) | 1.16 (1.08,1.24) |
+| Norgestrel | 1.10 (1.02, 1.18) | 1.09 (1.01, 1.18) | 1.11 (1.03,1.20) |  |  |  |
+| Ethinyl estradiol | 1.22 (1.15, 1.29) | 1.11 (1.07, 1.16) | 1.02 (0.93,1.12) |  |  |  |
 | CI=Confidence Interval; N=maximum number of subjects with data; NC=Not Calculated |  |  |  |  |  |  |
 
 ## 12.4 Microbiology
@@ -204,7 +213,7 @@ Emtricitabine 5′-triphosphate is a weak inhibitor of mammalian DNA polymerases
 Rilpivirine: RPV is a diarylpyrimidine non-nucleoside reverse transcriptase inhibitor of HIV-1 and inhibits HIV-1 replication by non-competitive inhibition of HIV-1 RT.
 RPV does not inhibit the human cellular DNA polymerases α, β, and mitochondrial DNA polymerase γ.
 
-Tenofovir Alafenamide: TAF is a phosphonoamidate prodrug of tenofovir (2'-deoxyadenosine monophosphate analog).
+Tenofovir Alafenamide: TAF is a phosphonamidate prodrug of tenofovir (2'-deoxyadenosine monophosphate analog).
 Plasma exposure to TAF allows for permeation into cells and then TAF is intracellularly converted to tenofovir through hydrolysis by cathepsin A. Tenofovir is subsequently phosphorylated by cellular kinases to the active metabolite tenofovir diphosphate.
 Tenofovir diphosphate inhibits HIV-1 replication through incorporation into viral DNA by the HIV reverse transcriptase, which results in DNA chain termination.
 
@@ -271,6 +280,8 @@ Emtricitabine and Tenofovir Alafenamide: One subject was identified with emergen
 
 Rilpivirine: Through Week 48, 4 subjects who switched their protease inhibitor-based regimen to FTC/RPV/TDF (4 of 469 subjects, 0.9%) and 1 subject who maintained their regimen (1 of 159 subjects, 0.6%) developed genotypic and/or phenotypic resistance to a study drug.
 All 4 of the subjects who had resistance emergence on FTC/RPV/TDF had evidence of FTC resistance and 3 of the subjects had evidence of RPV resistance.
+
+ODEFSEY: Through Week 48, in subjects who switched to ODEFSEY from FTC/RPV/TDF or EFV/FTC/TDF (Trials 1216 (N=316) and 1160 (N=438), respectively), of seven subjects who developed virologic failure, three subjects had detectable NNRTI and/or NRTI resistance substitutions at virologic failure that were pre-existing in the baseline sample by proviral DNA sequencing; one of these subjects resuppressed while maintaining ODEFSEY.
 
 Cross-Resistance
 

@@ -4,20 +4,28 @@
 
 Drugs that Induce or Inhibit CYP3A Enzymes
 
-RPV is primarily metabolized by CYP3A, and drugs that induce or inhibit CYP3A may thus affect the clearance of RPV [see Contraindications (4) and Clinical Pharmacology (12.3)].
-Coadministration of RPV and drugs that induce CYP3A may result in decreased plasma concentrations of RPV and loss of virologic response and possible resistance to RPV or to the class of NNRTIs.
+RPV is primarily metabolized by CYP3A, and drugs that induce or inhibit CYP3A may affect the clearance of RPV [see Clinical Pharmacology (12.3)].
+Coadministration of RPV and drugs that induce CYP3A may result in decreased plasma concentrations of RPV and loss of virologic response and possible resistance to RPV or to the class of NNRTIs [see Contraindications (4), Warnings and Precautions (5.3), and Table 3].
+These drugs are contraindicated and include:
+
+- the anticonvulsants carbamazepine, oxcarbazepine, phenobarbital, phenytoin
+- the antimycobacterials rifampin and rifapentine
+- the glucocorticoid systemic dexamethasone (more than a single dose)
+- St. John's wort (Hypericum perforatum)
+
 Coadministration of RPV and drugs that inhibit CYP3A may result in increased plasma concentrations of RPV and possible adverse events.
 
 Drugs that Induce or Inhibit P-glycoprotein
 
 TAF, a component of ODEFSEY, is a substrate of P-gp, BCRP, OATP1B1, and OATP1B3.
-Drugs that strongly affect P-gp activity (e.g., cyclosporine) may lead to changes in TAF absorption (see Table 1).
+Drugs that strongly affect P-gp and BCRP activity may lead to changes in TAF absorption (see Table 3).
 Drugs that induce P-gp activity are expected to decrease the absorption of TAF, resulting in decreased plasma concentration of TAF, which may lead to loss of therapeutic effect of ODEFSEY and development of resistance.
-Coadministration of ODEFSEY with other drugs that inhibit P-gp may result in increased absorption and plasma concentrations of TAF and possible adverse events.
+Coadministration of ODEFSEY with other drugs that inhibit P-gp and BCRP may increase the absorption and plasma concentration of TAF.
 
 Drugs that Increase Gastric pH
 
-Coadministration of RPV with drugs that increase gastric pH (e.g., famotidine) may decrease plasma concentrations of RPV and lead to loss of virologic response and possible resistance to RPV or to the class of NNRTIs (see Table 1).
+Coadministration of RPV with drugs that increase gastric pH may decrease plasma concentrations of RPV and lead to loss of virologic response and possible resistance to RPV or to the class of NNRTIs.
+Use of RPV with proton pump inhibitors is contraindicated and use of RPV with H2-receptor antagonists requires staggered administration (see see Contraindications (4) and Table 3).
 
 ## 7.2 QT Prolonging Drugs
 
@@ -32,11 +40,11 @@ Some examples of drugs that are eliminated by active tubular secretion include, 
 
 ## 7.4 Established and Other Potentially Significant Drug Interactions
 
-Table 1 provides a listing of established or potentially clinically significant drug interactions with recommended steps to prevent or manage the drug interaction (the table is not all inclusive).
+Table 3 provides a listing of established or potentially clinically significant drug interactions with recommended steps to prevent or manage the drug interaction (the table is not all inclusive).
 The drug interactions described are based on studies conducted with either ODEFSEY, the components of ODEFSEY (FTC, RPV and TAF) as individual agents, or are predicted drug interactions that may occur with ODEFSEY.
-For pharmacokinetic data, see Tables 5−8 [see Clinical Pharmacology (12.3)].
+For pharmacokinetic data, see Tables 7–10 [see Clinical Pharmacology (12.3)].
 
-Table 1 Established and Other Potentially SignificantThis table is not all inclusive.
+Table 3 Established and Other Potentially SignificantThis table is not all inclusive.
 Drug Interactions
 
 | Concomitant Drug Class: Drug Name | Effect on ConcentrationIncrease=↑; Decrease=↓; No Effect=↔ | Clinical Comment |
@@ -50,4 +58,4 @@ Drug Interactions
 
 ## 7.5 Drugs Without Clinically Significant Interactions with ODEFSEY
 
-Based on drug interaction studies conducted with the fixed dose combination or components of ODEFSEY, no clinically significant drug interactions have been either observed or expected when ODEFSEY is combined with the following drugs: acetaminophen, atorvastatin, buprenorphine, chlorzoxazone, digoxin, ethinyl estradiol, ledipasvir, lorazepam, metformin, midazolam, naloxone, norbuprenorphine, norethindrone, norgestimate/ethinyl estradiol, sildenafil, simeprevir and sofosbuvir.
+Based on drug interaction studies conducted with the fixed dose combination or components of ODEFSEY, no clinically significant drug interactions have been either observed or expected when ODEFSEY is combined with the following drugs: acetaminophen, atorvastatin, buprenorphine, chlorzoxazone, digoxin, ethinyl estradiol, ledipasvir, lorazepam, metformin, midazolam, naloxone, norbuprenorphine, norethindrone, norgestimate/ethinyl estradiol, sildenafil, simeprevir, sofosbuvir, and velpatasvir.

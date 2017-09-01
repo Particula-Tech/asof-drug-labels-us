@@ -10,10 +10,13 @@ Healthcare providers are encouraged to register patients by calling the Antiretr
 Risk Summary
 
 There are insufficient human data on the use of ODEFSEY during pregnancy to inform a drug-associated risk of birth defects and miscarriage.
-Tenofovir alafenamide (TAF) and rilpivirine (RPV) use in women during pregnancy have not been evaluated; however, emtricitabine (FTC) use during pregnancy has been evaluated in a limited number of women reported to the Antiretroviral Pregnancy Registry.
-Available data from the APR show no difference in the risk of overall major birth defects for FTC (2.4%) compared with the background rate for major birth defects of 2.7% in a US reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP).
+Tenofovir alafenamide (TAF) use in women during pregnancy have not been evaluated; however, emtricitabine (FTC) and rilpivirine (RPV) use during pregnancy has been evaluated in a limited number of women reported to the APR.
+Available data from the APR show no difference in the risk of overall major birth defects for FTC and RPV compared with the background rate for major birth defects of 2.7% in a US reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP).
 The rate of miscarriage is not reported in the APR.
 The estimated background rate of miscarriage in the clinically recognized pregnancies in the U.S. general population is 15–20%.
+Methodological limitations of the APR include the use of MACDP as the external comparator group.
+The MACDP population is not disease-specific, evaluates women and infants from a limited geographic area, and does not include outcomes for births that occurred at <20 weeks gestation.
+
 In animal studies, no adverse developmental effects were observed when the components of ODEFSEY were administered separately during the period of organogenesis at exposures up to 60 and 108 times (mice and rabbits, respectively; FTC), 15 and 70 times (rats and rabbits, respectively; RPV) and equal to and 53 times (rats and rabbits, respectively; TAF) the exposure at the recommended daily dose of these components in ODEFSEY [see Data (8.1)].
 Likewise, no adverse developmental effects were seen when FTC was administered to mice and RPV was administered to rats through lactation at exposures up to approximately 60 and 63 times, respectively, the exposure at the recommended daily dose of these components in ODEFSEY.
 No adverse effects were observed in the offspring when TDF was administered through lactation at tenofovir exposures of approximately 14 times the exposure at the recommended daily dosage of ODEFSEY.
@@ -22,8 +25,11 @@ Data
 
 Human Data
 
-Emtricitabine: Based on prospective reports to the APR through July 2015 of 2933 exposures to FTC-containing regimens during pregnancy (including 1984 exposed in the first trimester and 949 exposed in the second/third trimester), there was no difference between FTC and overall birth defects compared with the background birth defect rate of 2.7% in the U.S. reference population of the MACDP.
-The prevalence of birth defects in live births was 2.4% (95% CI: 1.7% to 3.1%) with first trimester exposure to FTC-containing regimens and 2.1% (95% CI: 1.3% to 3.2%) with the second/third trimester exposure to FTC-containing regimens.
+Emtricitabine: Based on prospective reports to the APR of 3406 exposures to FTC-containing regimens during pregnancy (including 2326 exposed in the first trimester and 1080 exposed in the second/third trimester), there was no difference between FTC and overall birth defects compared with the background birth defect rate of 2.7% in the U.S. reference population of the MACDP.
+The prevalence of birth defects in live births was 2.3% (95% CI: 1.7% to 3.0%) with first trimester exposure to FTC-containing regimens and 2.0% (95% CI: 1.3% to 3.1%) with second/third trimester exposure to FTC-containing regimens.
+
+Rilpivirine: Based on prospective reports to the APR of 326 live births following exposures to RPV-containing regimens during pregnancy (including 202 exposed in the first trimester and 124 exposed in the second/third trimester), there was no difference in the rate of overall birth defects for RPV compared with the background rate of 2.7% for major birth defects in the U.S. reference population of the MACDP.
+The prevalence of birth defects in live births was 0.5% (95% CI: 0.0% to 2.7%) with first trimester exposure to RPV-containing regimens and 0.8% (95% CI: 0.0% to 4.4%) with second/third trimester exposure to RPV-containing regimens.
 
 Animal Data
 
@@ -47,20 +53,14 @@ Risk Summary
 
 The Centers for Disease Control and Prevention recommend that HIV-infected mothers not breastfeed their infants, to avoid risking postnatal transmission of HIV.
 
-FTC has been shown to be present in human breast milk; it is unknown if RPV and TAF are present in human breast milk.
-RPV is present in rat milk and tenofovir has been shown to be present in the milk of lactating rats and rhesus monkeys after administration of TDF [see Data (8.2)].
+Based on published data, FTC has been shown to be present in human breast milk; it is unknown if RPV and TAF are present in human breast milk.
+RPV is present in rat milk and tenofovir has been shown to be present in the milk of lactating rats and rhesus monkeys after administration of TDF [see Data].
 It is unknown if TAF is present in animal milk.
 
 It is not known if ODEFSEY affects milk production or has effects on the breastfed infant.
 Because of the potential for (1) HIV transmission (in HIV-negative infants), (2) developing viral resistance (in HIV-positive infants), and (3) adverse reactions in a breastfed infant similar to those seen in adults, instruct mothers not to breastfeed if they are receiving ODEFSEY.
 
 Data
-
-Human Data
-
-Emtricitabine: Samples of breast milk obtained from five HIV-1 infected mothers show that emtricitabine is present in human milk.
-Breastfeeding infants whose mothers are being treated with emtricitabine may be at risk for developing viral resistance to emtricitabine.
-Other emtricitabine-associated risks in infants breastfed by mothers being treated with emtricitabine are unknown.
 
 Animal Data
 
@@ -97,4 +97,4 @@ No dosage adjustment of ODEFSEY is recommended in patients with estimated creati
 ## 8.7 Hepatic Impairment
 
 No dosage adjustment of ODEFSEY is recommended in patients with mild (Child-Pugh Class A) or moderate (Child-Pugh Class B) hepatic impairment.
-ODEFSEY has not been studied in patients with severe hepatic impairment [see Clinical Pharmacology (12.3)].
+ODEFSEY has not been studied in patients with severe hepatic impairment (Child-Pugh Class C) [see Clinical Pharmacology (12.3)].

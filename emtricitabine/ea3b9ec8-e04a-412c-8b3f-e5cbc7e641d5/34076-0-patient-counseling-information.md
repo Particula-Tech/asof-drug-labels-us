@@ -41,11 +41,6 @@ Lactic Acidosis and Severe Hepatomegaly
 Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with use of drugs similar to ODEFSEY.
 Advise patients to stop taking ODEFSEY if they develop clinical symptoms suggestive of lactic acidosis or pronounced hepatotoxicity [see Warnings and Precautions (5.9)].
 
-Decrease in Bone Mineral Density
-
-Advise patients that decreases in bone mineral density have been observed with the use of drugs similar to ODEFSEY.
-Consider assessment of bone mineral density (BMD) in patients who have a history of pathologic bone fracture or other risk factors for osteoporosis or bone loss [see Warnings and Precautions (5.10)].
-
 Missed Dosage
 
 Inform patients that it is important to take ODEFSEY on a regular dosing schedule with a meal and to avoid missing doses, as it can result in development of resistance [see Dosage and Administration (2.2)].

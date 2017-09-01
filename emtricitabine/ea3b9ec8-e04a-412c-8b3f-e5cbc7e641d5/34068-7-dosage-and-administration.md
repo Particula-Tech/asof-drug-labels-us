@@ -4,7 +4,7 @@
 
 Prior to initiation of ODEFSEY, patients should be tested for hepatitis B virus infection [see Warnings and Precautions (5.1)].
 
-Estimated creatinine clearance, urine glucose, and urine protein should be assessed before initiating ODEFSEY therapy and should be monitored during therapy in all patients [see Warnings and Precautions (5.8)].
+It is recommended that serum creatinine, serum phosphorus, estimated creatinine clearance, urine glucose, and urine protein should be assessed before initiating ODEFSEY and during therapy in all patients as clinically appropriate [see Warnings and Precautions (5.8)].
 
 ## 2.2 Recommended Dosage
 
