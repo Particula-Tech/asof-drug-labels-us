@@ -3,7 +3,7 @@
 ## 10.1 Human Experience
 
 No case of overdose has been reported in clinical studies with DALIRESP.
-During the Phase I studies of DALIRESP, the following symptoms were observed at an increased rate after a single oral dose of 2500 mcg and a single dose of 5000 mcg: headache, gastrointestinal disorders, dizziness, palpitations, lightheadedness, clamminess and arterial hypotension.
+During the Phase I studies of DALIRESP, the following symptoms were observed at an increased rate after a single oral dose of 2500 mcg and a single dose of 5000 mcg: headache, gastrointestinal disorders, dizziness, palpitations, lightheadedness, clamminess, and arterial hypotension.
 
 ## 10.2 Management of Overdose
 

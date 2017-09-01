@@ -11,6 +11,7 @@ In 8 controlled clinical trials 5.9% (263) of patients treated with DALIRESP 500
 The most commonly reported psychiatric adverse reactions were insomnia, anxiety, and depression which were reported at higher rates in those treated with DALIRESP 500 mcg daily (2.4%, 1.4%, and 1.2% for DALIRESP versus 1.0%, 0.9%, and 0.9% for placebo, respectively) [see Adverse Reactions (6.1)].
 Instances of suicidal ideation and behavior, including completed suicide, have been observed in clinical trials.
 Three patients experienced suicide-related adverse reactions (one completed suicide and two suicide attempts) while receiving DALIRESP compared to one patient (suicidal ideation) who received placebo.
+One patient completed suicide while receiving DALIRESP in Trial 9 [see Clinical Studies (14.1)], which assessed the effect of adding roflumilast to a fixed-dose combination (FDC) of ICS/LABA on rates of exacerbations in COPD patients over 1 year of treatment.
 Cases of suicidal ideation and behavior, including completed suicide, have been observed in the post-marketing setting in patients with or without a history of depression.
 
 Before using DALIRESP in patients with a history of depression and/or suicidal thoughts or behavior, prescribers should carefully weigh the risks and benefits of treatment with DALIRESP in such patients.
@@ -31,4 +32,4 @@ If unexplained or clinically significant weight loss occurs, weight loss should 
 
 A major step in roflumilast metabolism is the N-oxidation of roflumilast to roflumilast N-oxide by CYP3A4 and CYP1A2.
 The administration of the cytochrome P450 enzyme inducer rifampicin resulted in a reduction in exposure, which may result in a decrease in the therapeutic effectiveness of DALIRESP.
-Therefore, the use of strong cytochrome P450 enzyme inducers (e.g. rifampicin, phenobarbital, carbamazepine, phenytoin) with DALIRESP is not recommended [see Drugs that Induce Cytochrome P450 (CYP) Enzymes (7.1) and Clinical Pharmacology (12.3)].
+Therefore, the use of strong cytochrome P450 enzyme inducers (e.g., rifampicin, phenobarbital, carbamazepine, phenytoin) with DALIRESP is not recommended [see Drug Interactions (7.1) and Clinical Pharmacology (12.3)].

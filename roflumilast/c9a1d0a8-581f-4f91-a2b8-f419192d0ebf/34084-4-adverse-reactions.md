@@ -10,7 +10,7 @@ The following adverse reactions are described in greater detail in other section
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 The safety data described below reflect exposure of 4438 patients to DALIRESP 500 mcg once daily in four 1-year placebo-controlled trials, two 6-month placebo-controlled trials, and two 6-month drug add-on trials [see Clinical Studies (14.1)].
-In these trials, 3136 and 1232 COPD patients were exposed to DALIRESP 500 mcg once daily for 6 months and 1-year, respectively.
+In these trials, 3136 and 1232 COPD patients were exposed to DALIRESP 500 mcg once daily for 6 months and 1 year, respectively.
 
 The population had a median age of 64 years (range 40-91), 73% were male, 92.9% were Caucasian, and had COPD with a mean pre-bronchodilator forced expiratory volume in one second (FEV1) of 8.9 to 89.1% predicted.
 In these trials, 68.5% of the patients treated with DALIRESP reported an adverse reaction compared with 65.3% treated with placebo.
@@ -43,7 +43,7 @@ Adverse reactions that occurred in the DALIRESP group at a frequency of 1 to 2% 
 
 Gastrointestinal disorders - abdominal pain, dyspepsia, gastritis, vomiting
 
-Infections and infestations - rhinitis, sinusitis, urinary tract infection,
+Infections and infestations - rhinitis, sinusitis, urinary tract infection
 
 Musculoskeletal and connective tissue disorders - muscle spasms
 
@@ -51,8 +51,10 @@ Nervous system disorders - tremor
 
 Psychiatric disorders - anxiety, depression
 
+The safety profile of roflumilast reported during Trial 9 was consistent with the key pivotal studies.
+
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified from spontaneous reports of DALIRESP received worldwide and have not been listed elsewhere.
 These adverse reactions have been chosen for inclusion due to a combination of seriousness, frequency of reporting or potential causal connection to DALIRESP.
-Because these adverse reactions were reported voluntarily from a population of uncertain size, it is not possible to estimate their frequency or establish a causal relationship to DALIRESP exposure: hypersensitivity reactions (including angioedema, urticaria and rash), gynecomastia.
+Because these adverse reactions were reported voluntarily from a population of uncertain size, it is not possible to estimate their frequency or establish a causal relationship to DALIRESP exposure: hypersensitivity reactions (including angioedema, urticaria, and rash), gynecomastia.

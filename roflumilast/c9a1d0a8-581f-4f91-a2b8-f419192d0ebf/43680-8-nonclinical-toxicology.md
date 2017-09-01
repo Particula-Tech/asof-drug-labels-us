@@ -11,7 +11,7 @@ Roflumilast tested positive in an in vivo mouse micronucleus test, but negative 
 Roflumilast N-oxide was negative in the Ames test and in vitro micronucleus test with V79 cells.
 
 In a human spermatogenesis study, roflumilast 500 mcg had no effects on semen parameters or reproductive hormones during the 3-month treatment period and the following 3-month off-treatment period.
-In a fertility study, roflumilast decreased fertility rates in male rats at 1.8-mg/kg/day (approximately 29 times the MRHD on a mg/m2 basis).
-These rats also showed increases in the incidence of tubular atrophy, degeneration in the testis and spermiogenic granuloma in the epididymides.
-No effect on male rat fertility rate or reproductive organ morphology was observed at 0.8 mg/kg/day (approximately 13 times the MRHD on a mg/m2 basis).
-No effect on female fertility was observed up to the highest roflumilast dose of 1.5 mg/kg/day in rats (approximately 24 times the MRHD on a mg/m2 basis).
+In a fertility study, roflumilast decreased fertility rates in rats at 1.8 mg/kg/day (approximately 29 times the MRHD on a mg/m2 basis).
+The male rats also showed increases in the incidence of tubular atrophy, degeneration in the testis and spermiogenic granuloma in the epididymides.
+No effect on rat fertility rate or male reproductive organ morphology was observed at 0.6 mg/kg/day (approximately 10 times the MRHD on a mg/m2 basis).
+In a female fertility study, no effect on fertility was observed up to the highest roflumilast dose of 1.5 mg/kg/day in rats (approximately 24 times the MRHD on a mg/m2 basis).
