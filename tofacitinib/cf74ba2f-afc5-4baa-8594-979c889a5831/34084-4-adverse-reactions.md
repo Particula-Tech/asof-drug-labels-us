@@ -147,7 +147,7 @@ Psychiatric disorders: Insomnia
 
 Nervous system disorders: Paresthesia
 
-Respiratory, thoracic and mediastinal disorders: Dyspnea, cough, sinus congestion
+Respiratory, thoracic and mediastinal disorders: Dyspnea, cough, sinus congestion, interstitial lung disease (some fatal)
 
 Gastrointestinal disorders: Abdominal pain, dyspepsia, vomiting, gastritis, nausea
 

@@ -18,9 +18,7 @@ Although a dose-response relationship was observed in Study 1, the proportion of
 In Study 2, a smaller proportion of patients achieved an ACR20 response in the placebo and XELJANZ 1 mg groups compared to patients treated with the other XELJANZ doses.
 However, there was no difference in the proportion of responders among patients treated with XELJANZ 3, 5, 10, 15 mg twice daily or 20 mg once daily doses.
 
-| Figure 4: Proportion of Patients with ACR20 Response at Month 3 in Dose-Ranging Studies 1 and 2 |
-| --- |
-| * XELJANZ twice daily dosing in mg, except for 20 mg which is once daily dosing in mg. PBO is placebo; ADA is adalimumab 40 mg subcutaneous injection every other week. |
+Figure 4: Proportion of Patients with ACR20 Response at Month 3 in Dose-Ranging Studies 1 and 2
 
 Study 1 was a dose-ranging monotherapy trial not designed to provide comparative effectiveness data and should not be interpreted as evidence of superiority to adalimumab.
 
@@ -96,7 +94,7 @@ Similar results were observed for XELJANZ in Studies I, II, III, V, and VI.
 
 Table 7: Components of ACR Response at Month 3
 
-| Component (mean) Data shown is mean (Standard Deviation) at Month 3. | Baseline | Month 3 | Baseline | Month 3 | Baseline | Month 3 |
+| Component (mean)Data shown is mean (Standard Deviation) at Month 3. | Baseline | Month 3 | Baseline | Month 3 | Baseline | Month 3 |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | Study IV |  |  |  |  |  |
 |  | XELJANZ 5 mg Twice Daily + MTX |  | XELJANZ 10 mgThe recommended dose of XELJANZ is 5 mg twice daily. Twice Daily + MTX |  | Placebo + MTX |  |
@@ -130,7 +128,7 @@ In the placebo plus MTX group, 74% of patients experienced no radiographic progr
 In Study VI, XELJANZ monotherapy inhibited the progression of structural damage compared to MTX at Months 6 and 12 as shown in Table 8.
 Analyses of erosion and joint space narrowing scores were consistent with the overall results.
 
-In the MTX group, 55% of patients experienced no radiographic progression at Month 6 compared to 73% and 77% of patients treated with XELJANZ 5 or 10 mg twice daily.
+In the MTX group, 55% of patients experienced no radiographic progression at Month 6 compared to 73% and 77% of patients treated with XELJANZ 5 or 10 mg twice daily
 
 Table 8: Radiographic Changes at Months 6 and 12
 

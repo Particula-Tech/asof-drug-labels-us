@@ -50,8 +50,7 @@ Coadministration of XELJANZ XR with a high-fat meal resulted in no changes in AU
 
 Distribution
 
-After intravenous administration, the volume of distribution is 87 L. The protein binding of tofacitinib is ~40%.
-Tofacitinib binds predominantly to albumin and does not appear to bind to α1-acid glycoprotein.
+After intravenous administration, the volume of distribution is 87 L. The protein binding of tofacitinib is ~40%.Tofacitinib binds predominantly to albumin and does not appear to bind to α1-acid glycoprotein.
 Tofacitinib distributes equally between red blood cells and plasma.
 
 Metabolism and Elimination
@@ -72,10 +71,11 @@ Specific Populations
 
 The effect of renal and hepatic impairment and other intrinsic factors on the pharmacokinetics of tofacitinib is shown in Figure 1.
 
-| Figure 1: Impact of Intrinsic Factors on Tofacitinib Pharmacokinetics |
-| --- |
-| * Supplemental doses are not necessary in patients after dialysis. |
-| Reference values for weight, age, gender, and race comparisons are 70 kg, 55 years, male, and White, respectively; reference groups for renal and hepatic impairment data are subjects with normal renal and hepatic function. |
+Figure 1: Impact of Intrinsic Factors on Tofacitinib Pharmacokinetics
+
+* Supplemental doses are not necessary in patients after dialysis.
+
+Reference values for weight, age, gender, and race comparisons are 70 kg, 55 years, male, and White, respectively; reference groups for renal and hepatic impairment data are subjects with normal renal and hepatic function.
 
 Drug Interactions
 
@@ -91,9 +91,10 @@ In vitro data indicate that the potential for tofacitinib to inhibit transporter
 
 Dosing recommendations for coadministered drugs following administration with XELJANZ/XELJANZ XR are shown in Figure 2.
 
-| Figure 2. Impact of Tofacitinib on PK of Other Drugs |
-| --- |
-| Note: Reference group is administration of concomitant medication alone; OCT = Organic Cationic Transporter; MATE = Multidrug and Toxic Compound Extrusion |
+Figure 2.
+Impact of Tofacitinib on PK of Other Drugs
+
+Note: Reference group is administration of concomitant medication alone; OCT = Organic Cationic Transporter; MATE = Multidrug and Toxic Compound Extrusion
 
 Potential for Other Drugs to Influence the PK of Tofacitinib
 
@@ -101,6 +102,7 @@ Since tofacitinib is metabolized by CYP3A4, interaction with drugs that inhibit 
 Inhibitors of CYP2C19 alone or P-glycoprotein are unlikely to substantially alter the PK of tofacitinib.
 Dosing recommendations for XELJANZ/XELJANZ XR for administration with CYP inhibitors or inducers are shown in Figure 3.
 
-| Figure 3. Impact of Other Drugs on PK of Tofacitinib |
-| --- |
-| Note: Reference group is administration of tofacitinib alone |
+Figure 3.
+Impact of Other Drugs on PK of Tofacitinib
+
+Note: Reference group is administration of tofacitinib alone

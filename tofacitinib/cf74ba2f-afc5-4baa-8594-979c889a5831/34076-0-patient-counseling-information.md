@@ -30,6 +30,8 @@ Pregnancy
 Inform patients that XELJANZ/XELJANZ XR should not be used during pregnancy unless clearly necessary, and advise patients to inform their doctors right away if they become pregnant while taking XELJANZ/XELJANZ XR.
 Inform patients that Pfizer has a registry for pregnant women who have taken XELJANZ/XELJANZ XR during pregnancy.
 Advise patients to contact the registry at 1-877-311-8972 to enroll [see Use in Specific Populations (8.1)].
+Women of reproductive potential should be advised to use effective contraception during treatment with XELJANZ/XELJANZ XR and for at least 4 weeks after the last dose [see Use in Specific Populations (8.3)].
+Inform patients that they should not breastfeed while taking XELJANZ/XELJANZ XR [see Use in Specific Populations (8.2)].
 
 Residual Tablet Shell
 

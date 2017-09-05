@@ -2,7 +2,7 @@
 
 XELJANZ/XELJANZ XR are formulated with the citrate salt of tofacitinib, a JAK inhibitor.
 
-Tofacitinib citrate is a white to off-white powder with the following chemical name: (3R,4R)-4-methyl-3-(methyl-7H-pyrrolo [2,3-d]pyrimidin-4-ylamino)-β-oxo-1-piperidinepropanenitrile, 2-hydroxy-1,2,3-propanetricarboxylate (1:1).
+Tofacitinib citrate is a white to off-white powder with the following chemical name: (3R,4R)-4-methyl-3-(methyl-7H-pyrrolo [2,3-d]pyrimidin-4-ylamino)-ß-oxo-1-piperidinepropanenitrile, 2-hydroxy-1,2,3-propanetricarboxylate (1:1).
 
 The solubility of tofacitinib citrate in water is 2.9 mg/mL.
 

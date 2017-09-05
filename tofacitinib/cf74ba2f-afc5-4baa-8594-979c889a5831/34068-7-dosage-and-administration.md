@@ -22,17 +22,17 @@ Patients treated with XELJANZ 5 mg twice daily may be switched to XELJANZ XR 11 
 
 ## 2.3 Dosage Modifications due to Drug Interactions
 
-- In patients receiving:
+- In patients receiving: the recommended dose is XELJANZ 5 mg once daily.
   - potent inhibitors of Cytochrome P450 3A4 (CYP3A4) (e.g., ketoconazole), or
-  - one or more concomitant medications that result in both moderate inhibition of CYP3A4 and potent inhibition of CYP2C19 (e.g., fluconazole), the recommended dose is XELJANZ 5 mg once daily.
+  - one or more concomitant medications that result in both moderate inhibition of CYP3A4 and potent inhibition of CYP2C19 (e.g., fluconazole),
 - Coadministration of potent inducers of CYP3A4 (e.g., rifampin) with XELJANZ/XELJANZ XR may result in loss of or reduced clinical response to XELJANZ/XELJANZ XR.
 - Coadministration of potent inducers of CYP3A4 with XELJANZ/XELJANZ XR is not recommended.
 
 ## 2.4 Dosage Modifications in Patients with Renal or Hepatic Impairment
 
-- In patients with:
+- In patients with: the recommended dose is XELJANZ 5 mg once daily.
   - moderate or severe renal insufficiency, or
-  - moderate hepatic impairment, the recommended dose is XELJANZ 5 mg once daily.
+  - moderate hepatic impairment,
 - Use of XELJANZ/XELJANZ XR in patients with severe hepatic impairment is not recommended.
 
 Table 1: Dose Adjustments for Lymphopenia
