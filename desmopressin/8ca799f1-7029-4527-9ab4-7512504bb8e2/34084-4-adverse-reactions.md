@@ -39,6 +39,8 @@ Desmopressin Acetate
 | Edema Eyes | 0 | 2 | 0 |
 | Lachrymation Disorder | 0 | 0 | 2 |
 
-Post Marketing: There have been rare reports of hyponatremic convulsions associated with concomitant use with the following medications: oxybutinin and imipramine.
+Postmarketing:There have been rare reports of hyponatremic convulsions associated with concomitant use with the following medications: oxybutinin and imipramine.
 
 See WARNINGS for the possibility of water intoxication and hyponatremia.
+
+To report SUSPECTED ADVERSE REACTIONS, contact Bausch + Lomb, a division of Valeant Pharmaceuticals North America LLC at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

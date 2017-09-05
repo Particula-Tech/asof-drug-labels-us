@@ -5,22 +5,23 @@
 Desmopressin acetate dosage must be determined for each individual patient and adjusted according to the diurnal pattern of response.
 Response should be estimated by two parameters: adequate duration of sleep and adequate, not excessive, water turnover.
 Patients with nasal congestion and blockage have often responded well to intranasal desmopressin acetate.
-The usual dosage range in adults is 10 mcg to 40 mcg (1spray to 4 sprays) intranasally daily, either as a single dose or divided into two or three doses.
-Most adults require 20 mcg daily in two divided doses.
+The usual dose range in adults is 10 mcg to 40 mcg (1 spray to 4 sprays) intranasally daily, either as a single dose or divided into two or three doses.
+Most adults require 0.2 mL daily in two divided doses.
 The morning and evening doses should be separately adjusted for an adequate diurnal rhythm of water turnover.
 For children aged 3 months to 12 years, the usual dosage range is 5 mcg to 30 mcg intranasally daily, either as a single dose or divided into two doses.
+The nasal spray pump can only deliver doses in multiples of 10 mcg (1 spray).
+Doses of 10 mcg (1 spray) to 30 mcg (3 sprays) can be delivered with the nasal spray pump.
 About 1/4 to 1/3 of patients can be controlled by a single daily dose of desmopressin acetate administered intranasally.
 Fluid restriction should be observed.
 (See WARNINGS, PRECAUTIONS, Pediatric Use and Geriatric Use.)
 
-The nasal spray pump can only deliver doses in multiples of 10 mcg (1 spray).
-Doses of 10 mcg (1 spray) to 30 mcg (3 sprays) can be delivered with the nasal spray pump.
+The nasal spray pump can only deliver doses of 0.1 mL (10 mcg) or multiples of 0.1 mL.
 If doses other than these are required, the rhinal tube delivery system may be used.
 The spray pump must be primed prior to the first use.
 To prime pump, press down five (5) times.
 The bottle will now deliver 10 mcg of drug per spray.
-Discard desmopressin acetate nasal spray solution after 50 sprays since the amount delivered thereafter per spray may be substantially less than 10 mcg of drug.
+Discard Desmopressin Acetate Nasal Spray Solution after 50 sprays since the amount delivered thereafter per spray may be substantially less than 10 mcg of drug.
 
 Geriatric Use: This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
-(See CLINICAL PHARMACOLOGY, Human Pharmacokinetics, CONTRAINDICATION, and PRECAUTIONS, Geriatric Use)
+(See CLINICAL PHARMACOLOGY, Human Pharmacokinetics, CONTRAINDICATIONS, and PRECAUTIONS, Geriatric Use.)

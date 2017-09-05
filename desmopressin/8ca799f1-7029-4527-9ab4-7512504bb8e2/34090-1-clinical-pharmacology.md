@@ -13,9 +13,9 @@ The change in structure of arginine vasopressin to desmopressin acetate has resu
 3.
 Desmopressin acetate administered intranasally has an antidiuretic effect about one-tenth that of an equivalent dose administered by injection.
 
-## Human Pharmacokinetics
+## Human Pharmacokinetics:
 
-Desmopressin acetate nasal spray solution is mainly excreted in the urine.
-A pharmacokinetic study conducted in healthy volunteers and patients with mild, moderate, and severe renal impairment (n=24, 6 subjects in each group) receiving single dose desmopressin acetate (2 mcg) injection demonstrated a difference in desmopressin acetate nasal spray solution terminal half-life.
+Desmopressin Acetate Nasal Spray Solution is mainly excreted in the urine.
+A pharmacokinetic study conducted in healthy volunteers and patients with mild, moderate, and severe renal impairment (n=24, 6 subjects in each group) receiving single dose desmopressin acetate (2 mcg) injection demonstrated a difference in Desmopressin Acetate Nasal Spray Solution terminal half-life.
 Terminal half-life significantly increased from 3 hours in normal healthy patients to 9 hours in patients with severe renal impairment.
-(See CONTRAINDICATION.)
+(See CONTRAINDICATIONS.)

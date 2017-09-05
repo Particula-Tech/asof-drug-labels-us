@@ -1,7 +1,7 @@
-# CONTRAINDICATION
+# CONTRAINDICATIONS
 
-Desmopressin acetate nasal spray solution is contraindicated in individuals with known hypersensitivity to desmopressin acetate or to any of the components of desmopressin acetate nasal spray solution.
+Desmopressin Acetate Nasal Spray Solution is contraindicated in individuals with known hypersensitivity to desmopressin acetate or to any of the components of Desmopressin Acetate Nasal Spray Solution.
 
-Desmopressin acetate nasal spray solution is contraindicated in patients with moderate to severe renal impairment (defined as a creatinine clearance below 50ml/min).
+Desmopressin Acetate Nasal Spray Solution is contraindicated in patients with moderate to severe renal impairment (defined as a creatinine clearance below 50 mL/min).
 
-Desmopressin acetate nasal spray solution is contraindicated in patients with hyponatremia or a history of hyponatremia.
+Desmopressin Acetate Nasal Spray Solution is contraindicated in patients with hyponatremia or a history of hyponatremia.
