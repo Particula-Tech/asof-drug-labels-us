@@ -60,12 +60,12 @@ Table 3: Common Adverse Reactions in Pooled Placebo-Controlled Trials in Adults 
 | Insomnia | 20% | 13% |
 | Agitation | 8% | 5% |
 | Libido Decreased | 6% | 2% |
-| Reproductive System and Breast Disorders |  |  |
+| Reproductive system and breast disorders |  |  |
 | Ejaculation failure(1) | 8% | 1% |
 | Erectile dysfunction(1) | 4% | 1% |
 | Ejaculation disorder(1) | 3% | 0% |
 | Male sexual dysfunction(1) | 2% | 0% |
-| Skin and Subcutaneous Tissue Disorders |  |  |
+| Skin and subcutaneous tissue disorders |  |  |
 | Hyperhidrosis | 7% | 3% |
 
 Adverse Reactions Leading to Discontinuation in Placebo-Controlled Clinical Trials
@@ -172,7 +172,7 @@ Bronchospasm, epistaxis, yawning
 
 Skin and Subcutaneous Tissue Disorders:
 
-Alopecia; cold sweat; dermatitis; dermatitis bullous; pruritus; purpura; erythematous, follicular, or maculopapular rash; urticarial
+Alopecia; cold sweat; dermatitis; dermatitis bullous; pruritus; purpura; erythematous, follicular, or maculopapular rash; urticaria
 
 Vascular Disorders:
 
@@ -214,6 +214,10 @@ Angioedema
 Metabolism and Nutrition Disorders
 
 Hyponatremia, hyperglycemia
+
+Musculoskeletal and Connective Tissue Disorders
+
+Trismus
 
 Nervous System Disorders
 

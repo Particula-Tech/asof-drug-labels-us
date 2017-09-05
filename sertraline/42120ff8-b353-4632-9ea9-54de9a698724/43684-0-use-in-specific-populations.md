@@ -117,7 +117,7 @@ Of the total number of patients in clinical studies of sertraline hydrochloride 
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be conservative, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 
-In 354 geriatric subjects treated with sertraline hydrochloride in MDD placebo-controlled trials, the overall profile of adverse reactions was generally similar to that shown in Table 3[See Adverse Reactions (6.1)], except for tinnitus, arthralgia with an incidence of at least 2% and at a rate greater than placebo in geriatric patients.
+In 354 geriatric subjects treated with sertraline hydrochloride in MDD placebo-controlled trials, the overall profile of adverse reactions was generally similar to that shown in Table 3 [See Adverse Reactions (6.1)], except for tinnitus, arthralgia with an incidence of at least 2% and at a rate greater than placebo in geriatric patients.
 
 SNRIs and SSRIs, including sertraline hydrochloride, have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse reaction [See Warnings and Precautions (5.8)].
 

@@ -50,4 +50,4 @@ NDC 68180-353-05 Bottles of 5000
 
 NDC 68180-353-11 Box containing 10 x 10's unit dose blisters
 
-Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
+Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].

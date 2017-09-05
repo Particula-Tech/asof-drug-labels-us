@@ -142,6 +142,24 @@ Study outcomes were assessed by the:
 1. (1) Liebowitz Social Anxiety Scale (LSAS), a 24-item clinician administered instrument that measures fear, anxiety, and avoidance of social and performance situations, and
 2. (2) Proportion of responders as defined by the Clinical Global Impression of Improvement (CGI-I) criterion of CGI-I < 2 (very much or much improved).
 
+Sertraline hydrochloride was statistically significantly more effective than placebo as measured by the LSAS and the percentage of responders.
+
+Study SAD-2 was a 20-week, flexible dose study that compared sertraline hydrochloride (50 to 200 mg/day), n=135, to placebo, n=69.
+Sertraline hydrochloride was titrated to the maximum tolerated dose in 50 mg increments every 3 weeks.
+Study outcome was assessed by the:
+
+1. (1) Duke Brief Social Phobia Scale (BSPS), a multi-item clinician-rated instrument that measures fear, avoidance and physiologic response to social or performance situations,
+2. (2) Marks Fear Questionnaire Social Phobia Subscale (FQ-SPS), a 5-item patient-rated instrument that measures change in the severity of phobic avoidance and distress, and
+3. (3) CGI-I responder criterion of < 2.
+
+Sertraline hydrochloride was shown to be statistically significantly more effective than placebo as measured by the BSPS total score and fear, avoidance and physiologic factor scores, as well as the FQ-SPS total score, and to have statistically significantly more responders than placebo as defined by the CGI-I.
+Subgroup analyses did not suggest differences in treatment outcome on the basis of gender.
+There was insufficient information to determine the effect of race or age on outcome.
+
+In Study SAD-3, patients meeting DSM-IV criteria for SAD who had responded while assigned to sertraline hydrochloride (CGI-I of 1 or 2) during a 20-week placebo-controlled trial on sertraline hydrochloride 50 to 200 mg/day were randomized to continuation of sertraline hydrochloride or to substitution of placebo for up to 24 weeks of observation for relapse.
+Relapse was defined as ≥ 2 point increase in the Clinical Global Impression Severity of Illness (CGI-S) score compared to baseline or study discontinuation due to lack of efficacy.
+Patients receiving sertraline hydrochloride continuation treatment experienced a statistically significantly lower relapse rate during this 24-week period than patients randomized to placebo substitution.
+
 ## 14.6 Premenstrual Dysphoric Disorder
 
 The effectiveness of sertraline hydrochloride for the treatment of PMDD was established in two double-blind, parallel group, placebo-controlled flexible dose trials (Studies PMDD-1 and PMDD-2) conducted over 3 menstrual cycles in adult female patients.

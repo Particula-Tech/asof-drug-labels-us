@@ -7,7 +7,8 @@ What is the most important information I should know about sertraline hydrochlor
 Sertraline hydrochloride tablets and other antidepressant medicines may cause serious side effects.
 Call your healthcare provider right away if you have any of the following symptoms, or call 911 if there is an emergency.
 
-1. Suicidal thoughts or actions:
+1.
+Suicidal thoughts or actions:
 
 - Sertraline hydrochloride tablets and other antidepressant medicines may increase suicidal thoughts or actions in some people 24 years of age and younger, especially within thefirst few months of treatment or when the dose is changed.
 - Depression or other serious mental illnesses are the most important causes of suicidal thoughts or actions.
@@ -28,8 +29,9 @@ Call your healthcare provider right away if you have any of the following sympto
 - trouble sleeping
 - other unusual changes in behavior or mood
 
-1. Serotonin Syndrome.
-   This condition can be life-threatening and symptoms may include:
+2.
+Serotonin Syndrome.
+This condition can be life-threatening and symptoms may include:
 
 - agitation, hallucinations, coma, or other changes in mental status
 - racing heartbeat, high or low blood pressure
@@ -38,35 +40,43 @@ Call your healthcare provider right away if you have any of the following sympto
 - sweating or fever
 - muscle rigidity
 
-1. Increased chance of bleeding: Sertraline hydrochloride tablets and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadin®, Jantoven®), a non-steroidal anti-inflammatory drug (NSAIDs, like ibuprofen or naproxen), or aspirin.
+3.
+Increased chance of bleeding: Sertraline hydrochloride tablets and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadin®, Jantoven®), a non-steroidal anti-inflammatory drug (NSAIDs, like ibuprofen or naproxen), or aspirin.
 
-1. Manic episodes.
-   Symptoms may include:
+4.
+Manic episodes.
+Symptoms may include:
 
 - greatly increased energy
 - racing thoughts
 - unusually grand ideas
 - severe trouble sleeping
 - reckless behavior
-- excessive happiness
-- talking more or faster
+- excessive happiness or irritability
+- talking more or faster than usual
 
-1. Seizures or convulsions.
+5.
+Seizures or convulsions.
 
-1. Glaucoma (angle-closure glaucoma).
-   Many antidepressant medicines including sertraline hydrochloride tablets may cause a certain type of eye problem called angle-closure glaucoma.
-   Call your healthcare provider if you have eye pain, changes in your vision, or swelling or redness in or around the eye.
-   Only some people are at risk for these problems.
-   You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
-2. Changes in appetite or weight.
-   Children and adolescents should have height and weight monitored during treatment.
-3. Low salt (sodium) levels in the blood.
-   Elderly people may be at greater risk for this.
-   Symptoms may include:
+6.
+Glaucoma (angle-closure glaucoma).
+Many antidepressant medicines including sertraline hydrochloride tablets may cause a certain type of eye problem called angle-closure glaucoma.
+Call your healthcare provider if you have eye pain, changes in your vision, or swelling or redness in or around the eye.
+Only some people are at risk for these problems.
+You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
+
+7.
+Changes in appetite or weight.
+Children and adolescents should have height and weight monitored during treatment.
+
+8.
+Low salt (sodium) levels in the blood.
+Elderly people may be at greater risk for this.
+Symptoms may include:
 
 - Headache
 - weakness or feeling unsteady
-- confusion, problems concentrating or thinking, or memory problems
+- confusion, problems concentrating or thinking, memory problems
 
 Do not stop sertraline hydrochloride tablets without first talking to your healthcare provider.
 Stopping sertraline hydrochloride tablets too quickly may cause serious symptoms including:
@@ -77,7 +87,7 @@ Stopping sertraline hydrochloride tablets too quickly may cause serious symptoms
 
 What are sertraline hydrochloride tablets?
 
-Sertraline hydrochloride tablet is a prescription medicine used to:
+Sertraline hydrochloride tablet is a prescription medicine used to treat:
 
 - Major Depressive Disorder (MDD)
 - Panic Disorder
@@ -231,4 +241,4 @@ United States
 
 MADE IN INDIA
 
-Revised: February 2017 ID#: 241364
+Revised: September 2017 ID#: 252898
