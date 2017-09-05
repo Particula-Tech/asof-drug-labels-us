@@ -2,11 +2,11 @@
 
 ## 14.1 Combination Adjuvant Therapy with Oxaliplatin and Infusional 5-fluorouracil/leucovorin in Patients with Colon Cancer
 
-An international, multicenter, randomized study compared the efficacy and evaluated the safety of Oxaliplatin in combination with an infusional schedule of 5-fluorouracil/leucovorin to infusional 5-fluorouracil/leucovorin alone, in patients with stage II (Dukes’ B2) or III (Dukes’ C) colon cancer who had undergone complete resection of the primary tumor.
+An international, multicenter, randomized study compared the efficacy and evaluated the safety of Oxaliplatin in combination with an infusional schedule of 5-fluorouracil/leucovorin to infusional 5-fluorouracil/leucovorin alone, in patients with stage II (Dukes' B2) or III (Dukes' C) colon cancer who had undergone complete resection of the primary tumor.
 The primary objective of the study was to compare the 3-year disease-free survival (DFS) in patients receiving Oxaliplatin and infusional 5-fluorouracil/leucovorin to those receiving 5-fluorouracil/leucovorin alone.
 Patients were to be treated for a total of 6 months (i.e., 12 cycles).
 A total of 2246 patients were randomized; 1123 patients per study arm.
-Patients in the study had to be between 18 and 75 years of age, have histologically proven stage II (T3-T4 N0 M0; Dukes’ B2) or III (any T N1-2 M0; Dukes’ C) colon carcinoma (with the inferior pole of the tumor above the peritoneal reflection, i.e., ≥15 cm from the anal margin) and undergone (within 7 weeks prior to randomization) complete resection of the primary tumor without gross or microscopic evidence of residual disease.
+Patients in the study had to be between 18 and 75 years of age, have histologically proven stage II (T3-T4 N0 M0; Dukes' B2) or III (any T N1-2 M0; Dukes' C) colon carcinoma (with the inferior pole of the tumor above the peritoneal reflection, i.e., ≥15 cm from the anal margin) and undergone (within 7 weeks prior to randomization) complete resection of the primary tumor without gross or microscopic evidence of residual disease.
 Patients had to have had no prior chemotherapy, immunotherapy or radiotherapy, and have an ECOG performance status of 0,1, or 2 (KPS ≥60%), absolute neutrophil count (ANC) >1.5x109/L, platelets ≥100x109/L, serum creatinine ≤1.25 x ULN total bilirubin <2 x ULN, AST/ALT <2 x ULN and carcino-embyrogenic antigen (CEA) <10 ng/mL.
 Patients with preexisting peripheral neuropathy (NCI grade ≥ 1) were ineligible for this trial.
 
@@ -85,13 +85,13 @@ Table 18 - Summary of DFS analysis - ITT analysis
 | Disease-free survival % [95% CI]* | 73.3 [70.7, 76.0] | 67.4 [64.6, 70.2] |  |  |  |  |  |  |  |  |  |
 | Hazard ratio [95% CI]** | 0.80 [0.68, 0.93] |  |  |  |  |  |  |  |  |  |  |
 | Stratified Logrank test | p=0.003 |  |  |  |  |  |  |  |  |  |  |
-| Stage III (Dukes’ C) |  |  |  |  |  |  |  |  |  |  |  |
+| Stage III (Dukes' C) |  |  |  |  |  |  |  |  |  |  |  |
 | N | 672 | 675 |  |  |  |  |  |  |  |  |  |
 | Number of events – relapse or death (%) | 226 (33.6) | 271 (40.1) |  |  |  |  |  |  |  |  |  |
 | Disease-free survival % [95% CI]* | 66.4 [62.7, 70.0] | 58.9 [55.2, 62.7] |  |  |  |  |  |  |  |  |  |
 | Hazard ratio [95% CI]** | 0.78 [0.65, 0.93] |  |  |  |  |  |  |  |  |  |  |
 | Logrank test | p=0.005 |  |  |  |  |  |  |  |  |  |  |
-| Stage II (Dukes’ B2) |  |  |  |  |  |  |  |  |  |  |  |
+| Stage II (Dukes' B2) |  |  |  |  |  |  |  |  |  |  |  |
 | N | 451 | 448 |  |  |  |  |  |  |  |  |  |
 | Number of events – relapse or death (%) | 78 (17.3) | 89 (19.9) |  |  |  |  |  |  |  |  |  |
 | Disease-free survival % [95% CI]* | 83.7 [80.2, 87.1] | 79.9 [76.2, 83.7] |  |  |  |  |  |  |  |  |  |
@@ -116,11 +116,11 @@ Table 19 - Summary of OS analysis - ITT analysis
 | N | 1123 | 1123 |  |  |  |  |  |  |  |  |  |  |  |  |
 | Number of death events (%) | 245 (21.8) | 283 (25.2) |  |  |  |  |  |  |  |  |  |  |  |  |
 | Hazard ratio* [95% CI] | 0.84 [0.71, 1.00] |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Stage III (Dukes’ C) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Stage III (Dukes' C) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | N | 672 | 675 |  |  |  |  |  |  |  |  |  |  |  |  |
 | Number of death events (%) | 182 (27.1) | 220 (32.6) |  |  |  |  |  |  |  |  |  |  |  |  |
 | Hazard ratio* [95% CI] | 0.80 [0.65, 0.97] |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Stage II (Dukes’ B2) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Stage II (Dukes' B2) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | N | 451 | 448 |  |  |  |  |  |  |  |  |  |  |  |  |
 | Number of death events (%) | 63 (14.0) | 63 (14.1) |  |  |  |  |  |  |  |  |  |  |  |  |
 | Hazard ratio* [95% CI] | 1.00 [0.70, 1.41] |  |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -217,8 +217,8 @@ The study was intended to be analyzed for response rate after 450 patients were 
 Survival will be subsequently assessed in all patients enrolled in the completed study.
 Accrual to this study is complete, with 821 patients enrolled.
 Patients in the study had to be at least 18 years of age, have unresectable, measurable, histologically proven colorectal adenocarcinoma, with a Karnofsky performance status >50%.
-Patients had to have SGOT(AST) and SGPT(ALT) ≤2x the institution’s upper limit of normal (ULN), unless liver metastases were present and documented at baseline by CT or MRI scan, in which case ≤5x ULN was permitted.
-Patients had to have alkaline phosphatase ≤2x the institution’s ULN, unless liver metastases were present and documented at baseline by CT or MRI scan, in which cases ≤5x ULN was permitted.
+Patients had to have SGOT(AST) and SGPT(ALT) ≤2x the institution's upper limit of normal (ULN), unless liver metastases were present and documented at baseline by CT or MRI scan, in which case ≤5x ULN was permitted.
+Patients had to have alkaline phosphatase ≤2x the institution's ULN, unless liver metastases were present and documented at baseline by CT or MRI scan, in which cases ≤5x ULN was permitted.
 Prior radiotherapy was permitted if it had been completed at least 3 weeks before randomization.
 The dosing regimens of the three arms of the study are presented in the table below.
 

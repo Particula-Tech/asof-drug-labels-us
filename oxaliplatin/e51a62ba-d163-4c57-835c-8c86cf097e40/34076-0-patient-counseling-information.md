@@ -9,4 +9,4 @@ Advise patients:
 - •To contact their physician if persistent vomiting, diarrhea, signs of dehydration, cough or breathing difficulties occur, or signs of allergic reaction appear.
 - •To exercise caution when driving and using machines.
   No studies on the effects of the ability to operate cars and machines have been performed; however, oxaliplatin treatment resulting in an increase risk of dizziness, nausea and vomiting, and other neurologic symptoms that affect gait and balance may lead to a minor or moderate influence on the ability to drive and use machines.
-- •Of the potential effects of vision abnormalities, in particular transient vision loss (reversible following therapy discontinuation), which may affect patients’ ability to drive and use machines.
+- •Of the potential effects of vision abnormalities, in particular transient vision loss (reversible following therapy discontinuation), which may affect patients' ability to drive and use machines.

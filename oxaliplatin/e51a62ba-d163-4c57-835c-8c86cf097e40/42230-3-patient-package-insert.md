@@ -38,7 +38,7 @@ Call your doctor right away if you have any of the following signs or symptoms o
 - •Sweating
 - •Chest pain
 
-See “What are the possible side effects of Oxaliplatin?” for information about other serious side effects.
+See "What are the possible side effects of Oxaliplatin?" for information about other serious side effects.
 
 What is Oxaliplatin?
 
@@ -118,7 +118,7 @@ What should I avoid while receiving Oxaliplatin?
 - •Oxaliplatin can cause dizziness, vision problems, or vision loss that can affect your ability to drive or use machines.
   You should not drive or operate machinery if you develop these symptoms while receiving Oxaliplatin.
 
-See “How can I reduce the side effects caused by cold temperatures?” for more information.
+See "How can I reduce the side effects caused by cold temperatures?" for more information.
 
 Talk with your doctor and nurse about your level of activity during treatment with Oxaliplatin.
 Follow their instructions.
@@ -127,7 +127,7 @@ What are the possible side effects of Oxaliplatin?
 
 Oxaliplatin can cause serious side effects, including:
 
-- •See “What is the most important information I should know about Oxaliplatin?”
+- •See "What is the most important information I should know about Oxaliplatin?"
 - •Nerve problems.
   Oxaliplatin can affect how your nerves work and make you feel.
   Nerve problems may happen with the first treatment or within two days after your treatment of Oxaliplatin.
@@ -139,7 +139,7 @@ Oxaliplatin can cause serious side effects, including:
   - otrouble breathing, swallowing, or saying words, jaw tightness, odd feelings in your tongue, or chest pressure
   - opain, tingling, burning (pins and needles, numb feeling) in your hands, feet, or around your mouth or throat, which may cause problems walking or performing activities of daily living.
 
-For information on ways to lessen or help with the nerve problems, see the end of this leaflet, “How can I reduce the side effects caused by cold temperatures?”
+For information on ways to lessen or help with the nerve problems, see the end of this leaflet, "How can I reduce the side effects caused by cold temperatures?"
 
 - •Reversible Posterior Leukoencephalopathy (RPLS).
   RPLS is a rare condition that affects the brain.
@@ -174,7 +174,7 @@ For information on ways to lessen or help with the nerve problems, see the end o
   Oxaliplatin can cause muscle damage (rhabdomyolysis) which can lead to death.
   Tell your doctor right away if you have muscle pain and swelling, along with weakness, fever, or red-brown urine.
 - •Harm to an unborn baby.
-  See “What should I tell my doctor before receiving Oxaliplatin?”
+  See "What should I tell my doctor before receiving Oxaliplatin?"
 
 The most common side effects of Oxaliplatin include:
 

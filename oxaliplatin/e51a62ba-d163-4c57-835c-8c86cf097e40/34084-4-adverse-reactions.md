@@ -444,7 +444,7 @@ Body as a whole: angioedema, anaphylactic shock
 
 Cardiovascular disorders: QT prolongation leading to ventricular arrhythmias including fatal Torsade de Pointes
 
-Central and peripheral nervous system disorders: loss of deep tendon reflexes, dysarthria, Lhermitte’s sign, cranial nerve palsies, fasciculations, convulsion, Reversible Posterior Leukoencephalopathy Syndrome (RPLS, also known as PRES).
+Central and peripheral nervous system disorders: loss of deep tendon reflexes, dysarthria, Lhermitte's sign, cranial nerve palsies, fasciculations, convulsion, Reversible Posterior Leukoencephalopathy Syndrome (RPLS, also known as PRES).
 
 Hearing and vestibular system disorders: deafness
 

@@ -52,7 +52,7 @@ Two partial responses were observed.
 The pharmacokinetic parameters of ultrafiltrable platinum have been evaluated in 105 pediatric patients during the first cycle.
 The mean clearance in pediatric patients estimated by the population pharmacokinetic analysis was 4.7 L/h.
 The inter-patient variability of platinum clearance in pediatric cancer patients was 41%.
-Mean platinum pharmacokinetic parameters in ultrafiltrate were Cmax of 0.75 ± 0.24 mcg/mL, AUC0-48 of 7.52 ± 5.07 mcg·h/mL and AUCinf of 8.83 ± 1.57 mcg·h/mL at 85 mg/m2 of oxaliplatin and Cmax of 1.10 ± 0.43 mcg/mL, AUC0-48 of 9.74 ± 2.52 mcg·h/mL and AUCinf of 17.3 ± 5.34 mcg·h/mL at 130 mg/m2 of oxaliplatin.
+Mean platinum pharmacokinetic parameters in ultrafiltrate were Cmax of 0.75 ± 0.24 mcg/mL, AUC0-48 of 7.52 ± 5.07 mcg∙h/mL and AUCinf of 8.83 ± 1.57 mcg∙h/mL at 85 mg/m2 of oxaliplatin and Cmax of 1.10 ± 0.43 mcg/mL, AUC0-48 of 9.74 ± 2.52 mcg∙h/mL and AUCinf of 17.3 ± 5.34 mcg∙h/mL at 130 mg/m2 of oxaliplatin.
 
 ## 8.5 Geriatric Use
 
