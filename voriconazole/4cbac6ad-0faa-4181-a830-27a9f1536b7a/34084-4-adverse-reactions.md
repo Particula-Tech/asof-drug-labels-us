@@ -24,7 +24,11 @@ Study 305 evaluated the effects of oral voriconazole (200 patients) and oral flu
 The rate of discontinuation from voriconazole study medication in Study 305 due to adverse events was 7% (14/200 patients).
 Laboratory test abnormalities for these studies are discussed under Clinical Laboratory Values below.
 
-Table 3:Treatment Emergent Adverse EventsRate ≥ 2% on Voriconazole or Adverse Events of Concern in All Therapeutic Studies Population, Studies 307/602-608 Combined, or Study 305.
+Table 3:
+
+Treatment Emergent Adverse Events
+
+Rate ≥ 2% on Voriconazole or Adverse Events of Concern in All Therapeutic Studies Population, Studies 307/602-608 Combined, or Study 305.
 Possibly Related to Therapy or Causality Unknown†
 
 |  | All Therapeutic Studies | Studies 307/602 and 608 (IV/ oral therapy) |  |  | Study 305 (oral therapy) |  |
@@ -146,7 +150,11 @@ In study 305, patients with esophageal candidiasis were randomized to either ora
 In study 307/602, patients with definite or probable invasive aspergillosis were randomized to either voriconazole or amphotericin B therapy.
 In study 608, patients with candidemia were randomized to either voriconazole or the regimen of amphotericin B followed by fluconazole.
 
-Table 4:Protocol 305 – Patients with Esophageal Candidiasis Clinically Significant Laboratory Test Abnormalities
+Table 4:
+
+Protocol 305 – Patients with Esophageal Candidiasis
+
+Clinically Significant Laboratory Test Abnormalities
 
 |  | Criteria* | Voriconazole | Fluconazole |
 | --- | --- | --- | --- |
@@ -160,7 +168,11 @@ Table 4:Protocol 305 – Patients with Esophageal Candidiasis Clinically Signifi
 | N=total number of patients with at least one observation of the given lab test while on study therapy |  |  |  |
 | ULN=upper limit of normal |  |  |  |
 
-Table 5:Protocol 307/602 – Primary Treatment of Invasive AspergillosisClinically Significant Laboratory Test Abnormalities
+Table 5:
+
+Protocol 307/602 – Primary Treatment of Invasive Aspergillosis
+
+Clinically Significant Laboratory Test Abnormalities
 
 |  | Criteria* | Voriconazole | Amphotericin B** |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -178,7 +190,11 @@ Table 5:Protocol 307/602 – Primary Treatment of Invasive AspergillosisClinical
 | ULN=upper limit of normal |  |  |  |  |  |  |  |
 | LLN=lower limit of normal |  |  |  |  |  |  |  |
 
-Table 6:Protocol 608 – Treatment of CandidemiaClinically Significant Laboratory Test Abnormalities
+Table 6:
+
+Protocol 608 – Treatment of Candidemia
+
+Clinically Significant Laboratory Test Abnormalities
 
 |  | Criteria* | Voriconazole | Amphotericin B followed by Fluconazole |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

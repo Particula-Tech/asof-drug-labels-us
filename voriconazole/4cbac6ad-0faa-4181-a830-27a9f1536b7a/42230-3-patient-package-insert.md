@@ -1,4 +1,4 @@
-# PATIENT INFORMATION
+FDA-Approved Patient Labeling
 
 Voriconazole Tablets
 
@@ -22,17 +22,18 @@ Do not take voriconazole tablets if you:
 - •are allergic to voriconazole or any of the ingredients in voriconazole tablets.
   See the end of this leaflet for a complete list of ingredients in voriconazole tablets.
 - •are taking any of the following medicines:
-- ocisapride (Propulsid®)
-- opimozide (Orap®)
-- oquinidine (like Quinaglute®)
-- osirolimus (Rapamune®)
-- orifampin (Rifadin®)
-- ocarbamazepine (Tegretol®)
-- olong-acting barbiturates like phenobarbital (Luminal®)
-- oritonavir (Norvir®)
-- orifabutin (Mycobutin®)
-- oergotamine, dihydroergotamine (ergot alkaloids)
-- oSt.
+- •cisapride (Propulsid®)
+- •pimozide (Orap®)
+- •quinidine (like Quinaglute®)
+- •sirolimus (Rapamune®)
+- •rifampin (Rifadin®)
+- •carbamazepine (Tegretol®)
+- •long-acting barbiturates like phenobarbital (Luminal®)
+- •efavirenz (Sustiva®)
+- •ritonavir (Norvir®)
+- •rifabutin (Mycobutin®)
+- •ergotamine, dihydroergotamine (ergot alkaloids)
+- •St.
   John’s Wort (herbal supplement)
 
 Ask your healthcare provider or pharmacist if you are not sure if you are taking any of the medicines listed above.
@@ -48,15 +49,14 @@ Before you take voriconazole tablets, tell your healthcare provider if you:
 - •have liver or kidney problems.
   Your healthcare provider may do blood tests to make sure you can take voriconazole tablets.
 - •have trouble digesting dairy products, lactose (milk sugar), or regular table sugar.
-  Voriconazole tablets tablets containlactose.
-  Voriconazole tablets liquid contains sucrose (table sugar).
+  Voriconazole tablets contain lactose.
 - •are pregnant or plan to become pregnant.
   Voriconazole tablets can harm your unborn baby.
   Talk to your healthcare provider if you are pregnant or plan to become pregnant.
   Women who can become pregnant should use effective birth control while taking voriconazole tablets.
 - •are breast-feeding or plan to breast-feed.
   It is not known if voriconazole passes into breast milk.
-  Talk to your healthcareprovider about the best way to feed your baby if you take voriconazole tablets.
+  Talk to your healthcare provider about the best way to feed your baby if you take voriconazole tablets.
 
 Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins and herbal supplements.
 
@@ -67,8 +67,8 @@ Keep a list of them to show your healthcare provider or pharmacist when you get 
 
 How should I take voriconazole tablets?
 
-- •Voriconazole may be prescribed to you as:
-- ovoriconazole tablets
+- •Voriconazole tablets may be prescribed to you as:
+- •voriconazole tablets
 - •Take voriconazole tablets exactly as your healthcare provider tells you to.
 - •Take voriconazole tablets at least 1 hour before or at least 1 hour after meals.
 - •If you take too much voriconazole, call your healthcare provider or go to the nearest hospital emergency room.
@@ -90,39 +90,39 @@ Voriconazole tablets may cause serious side effects including:
 
 - •liver problems.
   Symptoms of liver problems may include:
-- oitchy skin
-- oyellowing of your eyes
-- ofeeling very tired
-- oflu-like symptoms
-- onausea or vomiting
+- •itchy skin
+- •yellowing of your eyes
+- •feeling very tired
+- •flu-like symptoms
+- •nausea or vomiting
 - •vision changes.
   Symptoms of vision changes may include:
-- oblurred vision
-- ochanges in the way you see colors
-- osensitivity to light (photophobia)
+- •blurred vision
+- •changes in the way you see colors
+- •sensitivity to light (photophobia)
 - •serious heart problems.
   Voriconazole tablets may cause changes in your heart rate or rhythm, including your heart stopping (cardiac arrest).
 - •allergic reactions.
   Symptoms of an allergic reaction may include:
-- ofever
-- osweating
-- ofeels like your heart is beating fast (tachycardia)
-- ochest tightness
-- otrouble breathing
-- ofeel faint
-- onausea
-- oitching
-- oskin rash
+- •fever
+- •sweating
+- •feels like your heart is beating fast (tachycardia)
+- •chest tightness
+- •trouble breathing
+- •feel faint
+- •nausea
+- •itching
+- •skin rash
 - •kidney problems.
   Voriconazole tablets may cause new or worse problems with kidney function, including kidney failure.
   Your healthcare provider should check your kidney function while you are taking voriconazole tablets.
   Your healthcare provider will decide if you can keep taking voriconazole tablets.
 - •serious skin reactions.
   Symptoms of serious skin reactions may include:
-- orash or hives
-- omouth sores
-- oblistering or peeling of your skin
-- otrouble swallowing or breathing
+- •rash or hives
+- •mouth sores
+- •blistering or peeling of your skin
+- •trouble swallowing or breathing
 
 Call your healthcare provider or go to the nearest hospital emergency room right away if you have any of the symptoms listed above.
 
@@ -164,13 +164,11 @@ This Patient Information leaflet summarizes the most important information about
 If you would like more information, talk to your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about voriconazole tablets that is written for health professionals.
 
-For more information, contact Glenmark Pharmaceuticals Inc., USA at 1 (888) 721-7115.
-
 What are the ingredients of voriconazole tablets?
 
 Active ingredient: voriconazole
 
-Inactive ingredients: lactose monohydrate, pregelatinized starch, croscarmellose sodium, povidone, talc, magnesium stearate, and a coating containing hypromellose, titanium dioxide, lactose monohydrate, and triacetin.
+Inactive ingredients: croscarmellose sodium, a coating containing hypromellose, lactose, lactose monohydrate, magnesium stearate, monohydrate, povidone, pregelatinized starch, talc, titanium dioxide, and triacetin.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
@@ -187,4 +185,4 @@ Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430
 Questions?
 1 (888)721-7115 www.glenmarkpharma.com/usa
 
-July 2015
+November 2016

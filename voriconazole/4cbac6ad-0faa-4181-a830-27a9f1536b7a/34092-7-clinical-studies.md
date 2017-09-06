@@ -31,7 +31,9 @@ A benefit of voriconazole compared to amphotericin B on patient survival at Day 
 
 Table 12 also summarizes the response (success) based on mycological confirmation and species.
 
-Table 12:Overall Efficacy and Success by Species in the Primary Treatment of Acute Invasive Aspergillosis Study 307/602
+Table 12:
+
+Overall Efficacy and Success by Species in the Primary Treatment of Acute Invasive Aspergillosis Study 307/602
 
 |  | Voriconazole | Ampho Bc | Stratified Difference (95% CI) d |
 | --- | --- | --- | --- |
@@ -70,7 +72,9 @@ Patients had various underlying diseases and species other than A. fumigatus con
 
 For patients who were infected with a single pathogen and were refractory to, or intolerant of, other antifungal agents, the satisfactory response rates for voriconazole in studies 304 and 309/604 are presented in Table 13.
 
-Table 13:Combined Response Data in SalvagePatients with Single Aspergillus Species(Studies 304 and 309/604)
+Table 13:
+
+Combined Response Data in SalvagePatients with Single Aspergillus Species(Studies 304 and 309/604)
 
 |  | Success n/N |
 | --- | --- |
@@ -98,7 +102,9 @@ Patients who did not have a 12-week assessment for any reason were considered a 
 
 The overall clinical and mycological success rates by Candida species in Study 150-608 are presented in Table 14.
 
-Table 14:Overall Success Rates Sustained From EOT To The Fixed 12-Week Follow-Up Time Point By Baseline Pathogena,b
+Table 14:
+
+Overall Success Rates Sustained From EOT To The Fixed 12-Week Follow-Up Time Point By Baseline Pathogena,b
 
 | Baseline Pathogen | Clinical and Mycological Success (%) |  |
 | --- | --- | --- |
@@ -125,7 +131,9 @@ A successful response was defined as a normal endoscopy at EOT or at least a 1 g
 For patients in the Intent to Treat (ITT) population with only a baseline endoscopy, a successful response was defined as symptomatic cure or improvement at EOT compared to baseline.
 Voriconazole and fluconazole (200 mg once daily) showed comparable efficacy rates against esophageal candidiasis, as presented in Table 15.
 
-Table 15:Success Rates in Patients Treated for Esophageal Candidiasis
+Table 15:
+
+Success Rates in Patients Treated for Esophageal Candidiasis
 
 | Population | Voriconazole | Fluconazole | Difference % (95% CI)a |
 | --- | --- | --- | --- |
@@ -137,7 +145,9 @@ Table 15:Success Rates in Patients Treated for Esophageal Candidiasis
 
 Microbiologic success rates by Candida species are presented in Table 16.
 
-Table 16:Clinical and mycological outcome by baseline pathogen in patients with esophageal candidiasis (Study-150-305)
+Table 16:
+
+Clinical and mycological outcome by baseline pathogen in patients with esophageal candidiasis (Study-150-305)
 
 | Pathogena | Voriconazole |  | Fluconazole |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |

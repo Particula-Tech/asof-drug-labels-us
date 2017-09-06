@@ -32,7 +32,9 @@ The interindividual variability of voriconazole pharmacokinetics is high.
 Greater than proportional increase in exposure is observed with increasing dose.
 It is estimated that, on average, increasing the oral dose from 200 mg q12h to 300 mg q12h leads to an approximately 2.5-fold increase in exposure (AUCτ); similarly, increasing the intravenous dose from 3 mg/kg q12h to 4 mg/kg q12h produces an approximately 2.5-fold increase in exposure (Table 9).
 
-Table 9:Geometric Mean (%CV) Plasma Voriconazole Pharmacokinetic Parameters in Adults Receiving Different Dosing Regimens
+Table 9:
+
+Geometric Mean (%CV) Plasma Voriconazole Pharmacokinetic Parameters in Adults Receiving Different Dosing Regimens
 
 |  | 6 mg/kg IV (loading dose) | 3 mg/kg IV q12h | 4 mg/kg IV q12h | 400 mg Oral (loading dose) | 200 mg Oral q12h | 300 mg Oral q12h |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -353,16 +355,17 @@ The accumulation of 14 alpha-methyl sterols correlates with the subsequent loss 
 
 Drug Resistance
 
-Voriconazole drug resistance development has not been adequately studied in vitro against Candida, Aspergillus, Scedosporium and Fusarium species.
+A potential for development of resistance to voriconazole is well known.
+The mechanisms of resistance may include mutations in the gene ERG11 (encodes for the target enzyme, lanosterol 14-α-demethylase), upregulation of genes encoding the ATP-binding cassette efflux transporters i.e., Candida drug resistance (CDR) pumps and reduced access of the drug to the target, or some combination of those mechanisms.
 The frequency of drug resistance development for the various fungi for which this drug is indicated is not known.
 
 Fungal isolates exhibiting reduced susceptibility to fluconazole or itraconazole may also show reduced susceptibility to voriconazole, suggesting cross-resistance can occur among these azoles.
 The relevance of cross-resistance and clinical outcome has not been fully characterized.
 Clinical cases where azole cross-resistance is demonstrated may require alternative antifungal therapy.
 
-Activity In Vitro and In Vivo
+Antimicrobial Activity
 
-Voriconazole has been shown to be active against most strains of the following microorganisms, both in vitro and in clinical infections.
+Voriconazole has been shown to be active against most isolates of the following microorganisms, both in vitro and in clinical infections.
 
 Aspergillus fumigatus
 
@@ -387,17 +390,17 @@ Fusarium spp. including Fusarium solani
 Scedosporium apiospermum
 
 *In clinical studies, voriconazole MIC90 for C. glabrata baseline isolates was 4 mcg/mL; 13/50 (26%) C. glabrata baseline isolates were resistant (MIC ≥4 mcg/mL) to voriconazole.
-However, based on 1054 isolates tested in surveillance studies the MIC90 was 1 mcg/mL (see Table 12).
+However, based on 1054 isolates tested in surveillance studies the MIC90 was 1 mcg/mL.
 
 The following data are available, but their clinical significance is unknown.
-At least 90 percent of the following fungi exhibit in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for voriconazole against isolates of similar genus or organism group.
+At least 90 percent of the following fungi exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for voriconazole against isolates of similar genus or organism group.
 However, the effectiveness of voriconazole in treating clinical infections due to these fungi has not been established in adequate and well-controlled clinical trials:
 
 Candida lusitaniae
 
 Candida guilliermondii
 
-Susceptibility Testing Methods1,2
+Susceptibility Testing Methods1,2,3
 
 Aspergillus species and other filamentous fungi
 
@@ -405,47 +408,60 @@ No interpretive criteria have been established for Aspergillus species and other
 
 Candida species
 
-The interpretive standards for voriconazole against Candida species are applicable only to tests performed using Clinical Laboratory and Standards Institute (CLSI) microbroth dilution reference method M27 for MIC read at 48 hours or disk diffusion reference method M44 for zone diameter read at 24 hours.1,2
+The interpretive standards for voriconazole against Candida species are applicable only to tests performed using Clinical Laboratory and Standards Institute (CLSI) microbroth dilution reference method M27 for MIC read at 24 hours or disk diffusion reference method M44 for zone diameter read at 24 hours.1,2,3
 
-Broth Microdilution Techniques–Quantitative methods are used to determine antifungal (MICs).
+Dilution Techniques
+
+Quantitative methods are used to determine antifungal MICs.
 These MICs provide estimates of the susceptibility of Candida spp. to antifungal agents.
-MICs should be determined using a standardized procedure at 48 hours.1Standardized procedures are based on a microdilution method (broth) with standardized inoculum concentrations and standardized concentrations of voriconazole powder.
+The MICs should be determined using a standardized test method at 24 hours1,2 (broth dilution).
 The MIC values should be interpreted according to the criteria provided in Table 10.
 
-Diffusion Techniques–Qualitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of Candida spp. to an antifungal agent.
+Diffusion Techniques
+
+Qualitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of Candida spp. to an antifungal agent.
 One such standardized procedure requires the use of standardized inoculum concentrations.2 This procedure uses paper disks impregnated with 1 mcg of voriconazole to test the susceptibility of yeasts to voriconazole at 24 hours.
 Disk diffusion interpretive criteria are also provided in Table 10.
 
-Table 10: Susceptibility Interpretive Criteria for Voriconazole1,2
+Table 10:
 
-|  | Broth Microdilution at 48 hours (MIC in mcg/mL) |  |  | Disk Diffusion at 24 hours (Zone diameters in mm) |  |  |
+Susceptibility Interpretive Criteria for Voriconazole1,2,3
+
+|  | Broth Microdilution at 24 hours (MIC in mcg/mL) |  |  | Disk Diffusion at 24 hours* (Zone diameters in mm) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Susceptible (S) | Intermediate (I) | Resistant (R) | Susceptible (S) | Intermediate (I) | Resistant (R) |  |
-| Voriconazole | ≤1 | 2 | ≥4 | ≥17 | 14 to 16 | ≤13 |
+| C. albicans | ≤0.12 | 0.25-0.5 | ≥1 | ≥17 | 15 to 16 | ≤14 |
+| C. krusei | ≤0.5 | 1 | ≥2 | ≥15 | 13 to 14 | ≤12 |
+| C. parapsilosis | ≤0.12 | 0.25-0.5 | ≥1 | ≥17 | 15 to 16 | ≤14 |
+| C. tropicalis | ≤0.12 | 0.25-0.5 | ≥1 | ≥17 | 15 to 16 | ≤14 |
 
-NOTE: Shown are the breakpoints (mcg/mL) for voriconazole against Candida species.
+*The current data are insufficient to demonstrate a correlation between in vitro susceptibility testing and clinical outcome for C. glabrata and voriconazole.
 
-A report of Susceptible (S) indicates that the antimicrobial drug is likely to inhibit growth of the microorganism if the antimicrobial drug reaches the concentration usually achievable at the site of infection.
-A report of intermediate (I) indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
+A report of Susceptible (S) indicates that the antimicrobial drug is likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentration usually achievable at the site of infection.
+A report of Intermediate (I) indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
 This category implies possible clinical applicability in body sites where the drugs are physiologically concentrated or when a high dosage of drug is used.
 This category also provides a buffer zone that prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
 A report of Resistant (R) indicates that the antimicrobial is not likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentrations usually achievable at the infection site; other therapy should be selected.
 
-Quality Control
-
-Standardized susceptibility test procedures require the use of quality control organisms to ensure the accuracy of the technical aspects of the test procedures.
-Standard voriconazole powder and 1 mcg disks should provide the following range of values noted in Table 11.
+Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test1,2,3.
+Standard voriconazole powder should provide the following range of MIC values noted in Table 11.
+For the diffusion technique using the 1 mcg disk, the criteria in Table 11 should be achieved.
 
 NOTE: Quality control microorganisms are specific strains of organisms with intrinsic biological properties relating to resistance mechanisms and their genetic expression within fungi; the specific strains used for microbiological control are not clinically significant.
 
-Table 11:Acceptable Quality Control Ranges for Voriconazole to be used in Validation of Susceptibility Test Results
+Table 11:
 
-| QC Strain | Broth Microdilution (MIC in mcg/mL) at 48-hour | Disk Diffusion (Zone diameter in mm) at 24-hour |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Candida parapsilosis ATCC 22019 | 0.03 to 0.25 | 28 to 37 |  |  |  |  |  |  |  |
-| Candida krusei ATCC 6258 | 0.12 to 1 | 16 to 25 |  |  |  |  |  |  |  |
-| Candida albicans ATCC 90028 | * | 31 to 42 |  |  |  |  |  |  |  |
-| * Quality control ranges have not been established for this strain/antifungal agent combination due to their extensive interlaboratory variation during initial quality control studies. ATCC is a registered trademark of the American Type Culture Collection. |  |  |  |  |  |  |  |  |  |
+Acceptable Quality Control Ranges for Voriconazole to be used in Validation of Susceptibility Test Results
+
+| QC Strain | Broth Microdilution (MIC in mcg/mL) at 24-hour | Disk Diffusion (Zone diameter in mm) at 24-hour |
+| --- | --- | --- |
+| Candida parapsilosis ATCC 22019 | 0.016 to 0.12 | 28 to 37 |
+| Candida krusei ATCC 6258 | 0.06 to 0.5 | 16 to 25 |
+| Candida albicans ATCC 90028 | * | 31 to 42 |
+
+* Quality control ranges have not been established for this strain/antifungal agent combination due to their extensive interlaboratory variation during initial quality control studies.
+
+ATCC is a registered trademark of the American Type Culture Collection.
 
 ## 12.5 Pharmacogenomics
 

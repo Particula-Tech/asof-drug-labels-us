@@ -1,6 +1,8 @@
 # 7 DRUG INTERACTIONS
 
-Table 7:Effect of Other Drugs on Voriconazole Pharmacokinetics [see Clinical Pharmacology (12.3)]
+Table 7:
+
+Effect of Other Drugs on Voriconazole Pharmacokinetics [see Clinical Pharmacology (12.3)]
 
 | Drug/Drug Class (Mechanism of Interaction by the Drug) | Voriconazole Plasma Exposure (Cmax and AUCτ after 200 mg q12h) | Recommendations for Voriconazole Dosage Adjustment/Comments |
 | --- | --- | --- |
@@ -20,7 +22,9 @@ Table 7:Effect of Other Drugs on Voriconazole Pharmacokinetics [see Clinical Pha
 | ** Results based on in vivo clinical study following repeat oral dosing with 400 mg q12h for 1 day, then 200 mg q12h for at least 2 days voriconazole to healthy subjects |  |  |
 | *** Non-Nucleoside Reverse Transcriptase Inhibitors |  |  |
 
-Table 8: Effect of Voriconazole on Pharmacokinetics of Other Drugs [see Clinical Pharmacology (12.3)]
+Table 8:
+
+Effect of Voriconazole on Pharmacokinetics of Other Drugs [see Clinical Pharmacology (12.3)]
 
 | Drug/Drug Class (Mechanism of Interaction by Voriconazole) | Drug Plasma Exposure (Cmax and AUCτ) | Recommendations for Drug Dosage Adjustment/Comments |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -40,7 +44,7 @@ Table 8: Effect of Voriconazole on Pharmacokinetics of Other Drugs [see Clinical
 | Tacrolimus* (CYP3A4 Inhibition) | Significantly Increased | When initiating therapy with voriconazole in patients already receiving tacrolimus, reduce the tacrolimus dose to one- third of the starting dose and follow with frequent monitoring of tacrolimus blood levels. Increased tacrolimus levels have been associated with nephrotoxicity. When voriconazole is discontinued, tacrolimus concentrations must be frequently monitored and the dose increased as necessary. |  |  |  |
 | Phenytoin* (CYP2C9 Inhibition) | Significantly Increased | Frequent monitoring of phenytoin plasma concentrations and frequent monitoring of adverse effects related to phenytoin. |  |  |  |
 | Oral Contraceptives containing ethinyl estradiol and norethindrone (CYP3A4 Inhibition) ** | Increased | Monitoring for adverse events related to oral contraceptives is recommended during coadministration. |  |  |  |
-| Warfarin* (CYP2C9 Inhibition) | Prothrombin Time Significantly Increased | Monitor PT or other suitable anticoagulation tests. Adjustment of warfarin dosage may be needed. |  |  |  |
+| Warfarin* (CYP2C9 Inhibition) | Prothrombin Time Significantly Increased | Monitor PT or other suitable anti-coagulation tests. Adjustment of warfarin dosage may be needed. |  |  |  |
 | Omeprazole* (CYP2C19/3A4 Inhibition) | Significantly Increased | When initiating therapy with voriconazole in patients already receiving omeprazole doses of 40 mg or greater, reduce the omeprazole dose by one- half. The metabolism of other proton pump inhibitors that are CYP2C19 substrates may also be inhibited by voriconazole and may result in increased plasma concentrations of other proton pump inhibitors. |  |  |  |
 | Other HIV Protease Inhibitors (CYP3A4 Inhibition) | In Vivo Studies Showed No Significant Effects on Indinavir Exposure | No dosage adjustment for indinavir when coadministered with voriconazole |  |  |  |
 |  | In Vitro Studies Demonstrated Potential for Voriconazole to Inhibit Metabolism (Increased Plasma Exposure) | Frequent monitoring for adverse events and toxicity related to other HIV protease inhibitors |  |  |  |
