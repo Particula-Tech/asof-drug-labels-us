@@ -1,16 +1,34 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Miconazole
+## 7.1 Drugs Affecting Glucose Metabolism
+
+A number of medications affect glucose metabolism and may require GLUCOTROL XL dose adjustment and close monitoring for hypoglycemia or worsening glycemic control.
+
+The following are examples of medication that may increase the glucose lowering effect of GLUCOTROL XL, increase the susceptibility to and/or intensity of hypoglycemia: antidiabetic agents, ACE inhibitors, angiotensin II receptor blocking agents, disopyramide, fibrates, fluoxetine, monoamine oxidase inhibitors, pentoxifylline, pramlintide, propoxyphene, salicylates, somatostatin analogs (e.g., octreotide), sulfonamide antibiotics, nonsteroidal anti-inflammatory agents, chloramphenicol, probenecid, coumarins, voriconazole, H2 receptor antagonists, and quinolones.
+When these medications are administered to a patient receiving GLUCOTROL XL, monitor the patient closely for hypoglycemia.
+When these medications are discontinued from a patient receiving GLUCOTROL XL, monitor the patient closely for worsening glycemic control.
+
+The following are examples of medication that may reduce the glucose-lowering effect of GLUCOTROL XL, leading to worsening glycemic control: atypical antipsychotics (e.g., olanzapine and clozapine), corticosteroids, danazol, diuretics, estrogens, glucagon, isoniazid, niacin, oral contraceptives, phenothiazines, progestogens (e.g., in oral contraceptives), protease inhibitors, somatropin, sympathomimetic agents (e.g., albuterol, epinephrine, terbutaline), thyroid hormones, phenytoin, nicotinic acid, and calcium channel blocking drugs.
+When such drugs are administered to patients receiving GLUCOTROL XL, monitor the patients closely for worsening glycemic control.
+When these medications are discontinued from patients receiving GLUCOTROL XL, monitor the patient closely for hypoglycemia.
+
+Alcohol, beta-blockers, clonidine, and reserpine may lead to either potentiation or weakening of the glucose-lowering effect.
+Increased frequency of monitoring may be required when GLUCOTROL XL is co-administered with these drugs.
+
+The signs of hypoglycemia may be reduced or absent in patients taking sympatholytic drugs such as beta-blockers, clonidine, guanethidine, and reserpine.
+Increased frequency of monitoring may be required when GLUCOTROL XL is co-administered with these drugs.
+
+## 7.2 Miconazole
 
 Monitor patients closely for hypoglycemia when Glucotrol XL is co-administered with miconazole.
 A potential interaction between oral miconazole and oral hypoglycemic agents leading to severe hypoglycemia has been reported [see Clinical Phamacology (12.3)].
 
-## 7.2 Fluconazole
+## 7.3 Fluconazole
 
 Monitor patients closely for hypoglycemia when Glucotrol XL is co-administered with fluconazole.
 Concomitant treatment with fluconazole increases plasma concentrations of glipizide, which may lead to hypoglycemia [see Clinical Pharmacology (12.3)].
 
-## 7.3 Colesevelam
+## 7.4 Colesevelam
 
 GLUCOTROL XL should be administered at least 4 hours prior to the administration of colesevelam.
 Colesevelam can reduce the maximum plasma concentration and total exposure of glipizide when the two are coadministered [see Clinical Pharmacology (12.3)].

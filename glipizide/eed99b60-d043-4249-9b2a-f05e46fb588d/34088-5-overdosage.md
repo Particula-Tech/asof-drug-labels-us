@@ -1,6 +1,6 @@
 # 10 OVERDOSAGE
 
-Overdosage of sulfonylureas including glipizide can produce severe hypoglycemia.
+Overdosage of sulfonylureas including GLUCOTROL XL can produce severe hypoglycemia.
 Mild hypoglycemic symptoms without loss of consciousness or neurologic findings should be treated with oral glucose.
 Severe hypoglycemic reactions with coma, seizure, or other neurological impairment are medical emergencies requiring immediate treatment.
 The patient should be treated with glucagon or intravenous glucose.

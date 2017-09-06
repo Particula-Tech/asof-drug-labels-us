@@ -78,7 +78,7 @@ Miconazole
 
 A potential interaction between oral miconazole and oral glipizide leading to severe hypoglycemia has been reported.
 Whether this interaction also occurs with the intravenous, topical, or vaginal preparations of miconazole is not known.
-[see Drug Interactions (7.1)]
+[see Drug Interactions (7.2)]
 
 Fluconazole
 
@@ -86,11 +86,11 @@ Concomitant treatment with fluconazole increases plasma concentrations of glipiz
 The effect of concomitant administration of Diflucan® (fluconazole) and Glucotrol has been demonstrated in a placebo controlled crossover study in healthy volunteers.
 All subjects received Glucotrol alone and following treatment with 100 mg of Diflucan® as a single daily oral dose for 7 days.
 The mean percentage increase in the glipizide AUC after fluconazole administration was 56.9% (range: 35 to 81%).
-[see Drug Interactions (7.2)]
+[see Drug Interactions (7.3)]
 
 Colesevelam
 
 Colesevelam can reduce the maximum plasma concentration and total exposure of glipizide when the two are coadministered.
 In studies assessing the effect of colesevelam on the pharmacokinetics of glipizide ER in healthy volunteers, reductions in glipizide AUC0–∞ and Cmax of 12% and 13%, respectively were observed when colesevelam was coadministered with glipizide ER.
 When glipizide ER was administered 4 hours prior to colesevelam, there was no significant change in glipizide AUC0–∞ or Cmax, -4% and 0%, respectively.
-[see Drug Interactions (7.3)]
+[see Drug Interactions (7.4)]
