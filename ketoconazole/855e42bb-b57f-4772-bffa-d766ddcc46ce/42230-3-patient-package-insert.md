@@ -88,14 +88,14 @@ Inactive ingredients: dehydrated alcohol, ascorbic acid, butylated hydroxytoluen
 
 This Patient Information leaflet has been approved by the U.S. Food and Drug Administration.
 
-The Patient Information leaflet was last revised: September 2013.
+The Patient Information leaflet was last revised: May 2012
 
 Manufactured by DPT Laboratories, Ltd., San Antonio, TX 78215
 
-For Aqua Pharmaceuticals, West Chester, PA 19380
+For Aqua Pharmaceuticals, An Almirall Company Exton, PA 19341
 
-Revised 09/2013 140194 XOLEGEL is a registered trademark of Aqua Pharmaceuticals.
+Revised 06/2016 XOLEGEL is a registered trademark of Aqua Pharmaceuticals.
 
-© 2013 Aqua Pharmaceuticals
+© 2016 Aqua Pharmaceuticals
 
 AQUA PHARMACEUTICALS
