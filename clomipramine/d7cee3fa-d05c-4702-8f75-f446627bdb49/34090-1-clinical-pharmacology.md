@@ -22,7 +22,7 @@ At a dose of clomipramine hydrochloride capsules 200 mg, subjects who had a sing
 Distribution – CMI distributes into cerebrospinal fluid (CSF) and brain and into breast milk.
 DMI also distributes into CSF, with a mean CSF/plasma ratio of 2.6.
 The protein binding of CMI is approximately 97%, principally to albumin, and is independent of CMI concentration.
-The interaction between CMI and other highly protein-bound drugs has not been fully evaluated, but may be important (see PRECAUTIONS, Drug Interactions)
+The interaction between CMI and other highly protein-bound drugs has not been fully evaluated, but may be important (see PRECAUTIONS, Drug Interactions).
 
 Metabolism – CMI is extensively biotransformed to DMI and other metabolites and their glucuronide conjugates.
 DMI is pharmacologically active, but its effects on OCD behaviors are unknown.

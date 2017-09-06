@@ -90,6 +90,11 @@ Thus a causal association between clomipramine hydrochloride capsules treatment 
 
 Physicians should discuss with patients the risk of taking clomipramine hydrochloride capsules while engaging in activities in which sudden loss of consciousness could result in serious injury to the patient or others, e.g., the operation of complex machinery, driving, swimming, climbing.
 
+## DRESS
+
+Rare cases of drug rash with eosinophilia and systemic symptoms (DRESS) have been reported with the use of clomipramine.
+In the event of severe acute reactions such as DRESS, discontinue clomipramine therapy immediately and institute appropriate treatment.
+
 # PRECAUTIONS
 
 ## General
@@ -238,7 +243,7 @@ Clomipramine hydrochloride capsules should be used during pregnancy only if the 
 
 ## Nursing Mothers
 
-Clomipramine hydrochloride capsules have been found in human milk.
+Clomipramine hydrochloride has been found in human milk.
 Because of the potential for adverse reactions, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 
 ## Pediatric Use
