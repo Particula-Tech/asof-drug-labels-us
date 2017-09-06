@@ -231,6 +231,6 @@ For sirolimus oral tablets:
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-LAB-0621-3.0
+LAB-0621-4.0
 
-May 2015
+May 2017

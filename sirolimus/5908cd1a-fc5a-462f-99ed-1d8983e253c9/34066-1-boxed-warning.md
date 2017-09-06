@@ -1,4 +1,4 @@
-# BOX WARNING: IMMUNOSUPPRESSION, USE IS NOT RECOMMENDED IN LIVER OR LUNG TRANSPLANT PATIENTS
+# WARNING: IMMUNOSUPPRESSION, USE IS NOT RECOMMENDED IN LIVER OR LUNG TRANSPLANT PATIENTS
 
 - Increased susceptibility to infection and the possible development of lymphoma and other malignancies may result from immunosuppression
 
