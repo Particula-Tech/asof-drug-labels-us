@@ -20,5 +20,4 @@ Evacuate gastric contents and administer copious amounts of activated charcoal s
 Even in the conscious patient, cough and gag reflexes may be so depressed as to necessitate special attention to protection against aspiration of gastric contents and orally administered materials.
 Convulsions should be treated with a short-acting barbiturate given intravenously and carefully titrated for the smallest effective dosage.
 Intensive support of respiration and cardiovascular-renal function is an essential feature of the treatment of severe intoxication from overdosage.
-
 Do not use CNS stimulants.

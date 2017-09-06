@@ -20,7 +20,7 @@ If accidental ingestion occurs, seek medical attention immediately (see OVERDOSA
 
 Benzonatate is chemically related to anesthetic agents of the para-amino-benzoic acid class (e.g. procaine; tetracaine) and has been associated with adverse CNS effects possibly related to a prior sensitivity to related agents or interaction with concomitant medication.
 
-## Information for Patients:
+## Information for Patients
 
 Swallow Benzonatate Capsules whole.
 Do not break, chew, dissolve, cut, or crush Benzonatate Capsules.
@@ -40,15 +40,25 @@ Do not exceed a single dose of 200 mg and a total daily dosage of 600 mg.
 If you miss a dose of Benzonatate Capsules, skip that dose and take the next dose at the next scheduled time.
 Do not take 2 doses of Benzonatate Capsules at one time.
 
-Usage in Pregnancy: Pregnancy Category C. Animal reproduction studies have not been conducted with Benzonatate Capsules.
+### Usage in Pregnancy
+
+Pregnancy Category C.
+
+Animal reproduction studies have not been conducted with Benzonatate Capsules.
 It is also not known whether Benzonatate Capsules can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.
 Benzonatate Capsules should be given to a pregnant woman only if clearly needed.
 
-Nursing Mothers: It is not known whether this drug is excreted in human milk.
+## Nursing Mothers
+
+It is not known whether this drug is excreted in human milk.
 Because many drugs are excreted in human milk caution should be exercised when Benzonatate Capsule is administered to a nursing woman.
 
-Carcinogenesis, Mutagenesis, Impairment of Fertility: Carcinogenicity, mutagenicity, and reproduction studies have not been conducted with Benzonatate Capsules.
+## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Pediatric Use: Safety and effectiveness in children below the age of 10 have not been established.
+Carcinogenicity, mutagenicity, and reproduction studies have not been conducted with Benzonatate Capsules.
+
+## Pediatric Use
+
+Safety and effectiveness in children below the age of 10 have not been established.
 Accidental ingestion resulting in death has been reported in children below age 10.
 Keep out of reach of children.
