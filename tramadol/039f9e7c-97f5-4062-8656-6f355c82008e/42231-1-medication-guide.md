@@ -19,6 +19,12 @@ Important information about ULTRAM ER:
   Store ULTRAM ER away from children and in a safe place to prevent stealing or abuse.
   Selling or giving away ULTRAM ER is against the law.
 
+Important Information Guiding Use in Pediatric Patients
+
+- •Do not give ULTRAM ER to a child younger than 12 years of age.
+- •Do not give ULTRAM ER to a child younger than 18 years of age after surgery to remove the tonsils and/or adenoids.
+- •Avoid giving ULTRAM ER to children between 12 and 18 years of age who have risk factors for breathing problems such as obstructive sleep apnea, obesity, or underlying lung problems.
+
 Do not take ULTRAM ER if you have:
 
 - •severe asthma, trouble breathing, or other lung problems.
@@ -35,8 +41,7 @@ Tell your healthcare provider if you are:
 - •pregnant or planning to become pregnant.
   Prolonged use of ULTRAM ER during pregnancy can cause withdrawal symptoms in your newborn baby that could be life-threatening if not recognized and treated.
 - •breastfeeding.
-  Not recommended during treatment with ULTRAM ER.
-  It may harm your baby.
+  Not recommended - it may harm your baby.
 
 taking prescription or over-the-counter medicines, vitamins, or herbal supplements.
 Taking ULTRAM ER with certain other medicines can cause serious side effects that could lead to death.
@@ -76,7 +81,8 @@ Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 For more information go to dailymed.nlm.nih.gov or call1-800-321-4576.
 
-Manufactured by:Valeant Pharmaceuticals International, Inc., Steinbach, MB, R5G 1Z7, Canada and Distributed by: Janssen Pharmaceuticals, Inc., Titusville, NJ 08560 www.valeant.com
+Manufactured by: Valeant Pharmaceuticals International, Inc., Steinbach, MB, R5G 1Z7, Canada and Distributed by: Janssen Pharmaceuticals, Inc., Titusville, NJ 08560 www.valeant.com
 
 - This Medication Guide has been approved by the U.S. Food and Drug Administration.
-  Issued: 12/2016
+  Issued: 08/2017
+- Update p/n

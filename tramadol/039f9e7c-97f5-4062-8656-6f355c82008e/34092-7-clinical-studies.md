@@ -14,9 +14,9 @@ Between 51% and 59% of patients in the ULTRAM ER treatment groups completed the 
 Discontinuations due to adverse events were more common in the ULTRAM ER 200 mg, 300 mg and 400 mg treatment groups (20%, 27%, and 30% of discontinuations, respectively) compared to 14% of the patients treated with ULTRAM ER 100 mg and 10% of patients treated with placebo.
 
 Pain, as assessed by the WOMAC Pain subscale, was measured at 1, 2, 3, 6, 9, and 12 weeks and change from baseline assessed.
-A responder analysis based on the percent change in WOMAC Pain subscale demonstrated a statistically significant improvement in pain for the 100 mg and 200 mg treatment groups compared to placebo (see Figure 3).
+A responder analysis based on the percent change in WOMAC Pain subscale demonstrated a statistically significant improvement in pain for the 100 mg and 200 mg treatment groups compared to placebo (see Figure 2).
 
-Figure 3
+Figure 2
 
 Study 2: Osteoarthritis of the Knee
 
@@ -24,6 +24,6 @@ In one 12-week randomized, double-blind, placebo-controlled flexible-dosing tria
 Forty-nine percent of patients randomized to ULTRAM ER completed the study, while 52% of patients randomized to placebo completed the study.
 Most of the early discontinuations in the ULTRAM ER treatment group were due to adverse events, accounting for 27% of the early discontinuations in contrast to 7% of the discontinuations from the placebo group.
 Thirty-seven percent of the placebo-treated patients discontinued the study due to lack of efficacy compared to 15% of ULTRAM ER-treated patients.
-The ULTRAM ER group demonstrated a statistically significant decrease in the mean VAS score, and a statistically significant difference in the responder rate, based on the percent change from baseline in the VAS score, measured at 1, 2, 4, 8, and 12 weeks, between patients receiving ULTRAM ER and placebo (see Figure 4).
+The ULTRAM ER group demonstrated a statistically significant decrease in the mean VAS score, and a statistically significant difference in the responder rate, based on the percent change from baseline in the VAS score, measured at 1, 2, 4, 8, and 12 weeks, between patients receiving ULTRAM ER and placebo (see Figure 3).
 
-Figure 4
+Figure 3

@@ -41,6 +41,9 @@ Other opioid-induced effects may include a reduction in biliary and pancreatic s
 Tramadol produces peripheral vasodilation, which may result in orthostatic hypotension or syncope.
 Manifestations of histamine release and/or peripheral vasodilation may include pruritus, flushing, red eyes, sweating, and/or orthostatic hypotension.
 
+The effect of oral tramadol on the QTcF interval was evaluated in a double-blind, randomized, four-way crossover, placebo- and positive- (moxifloxacin) controlled study in 68 adult male and female healthy subjects.
+At a 600 mg/day dose (1.5-fold the maximum immediate-release daily dose), the study demonstrated no significant effect on the QTcF interval.
+
 ### Effects on the Endocrine System
 
 Opioids inhibit the secretion of adrenocorticotropic hormone (ACTH), cortisol, and luteinizing hormone (LH) in humans [see Adverse Reactions (6.2)].
@@ -76,12 +79,12 @@ The clinical significance of this finding has not been studied and is not known.
 
 Absorption
 
-In healthy subjects, the bioavailability of a ULTRAM ER 200 mg tablet administered once daily relative to a 50 mg immediate-release (IR) tablet (ULTRAM) administered every six hours was approximately 85to 90%.
+In healthy subjects, the bioavailability of a ULTRAM ER 200 mg tablet administered once daily relative to a 50 mg immediate-release (IR) tablet (ULTRAM) administered every six hours was approximately 85 to 90%.
 Consistent with the extended-release nature of the formulation, there is a lag time in drug absorption following ULTRAM ER administration.
-The mean peak plasma concentrations of tramadol and M1 after administration of ULTRAM ER tablets to healthy volunteers are attained at about 12 h and 15 h, respectively, after dosing (see Table 2 and Figure 2).
+The mean peak plasma concentrations of tramadol and M1 after administration of ULTRAM ER tablets to healthy volunteers are attained at about 12 h and 15 h, respectively, after dosing (see Table 3 and Figure 1).
 Following administration of the ULTRAM ER, steady-state plasma concentrations of both tramadol and M1 are achieved within four days with once daily dosing.
 
-The mean (%CV) pharmacokinetic parameter values for ULTRAM ER 200 mg administered once daily and tramadol HCl IR (ULTRAM) 50 mg administered every six hours are provided in Table 2.
+The mean (%CV) pharmacokinetic parameter values for ULTRAM ER 200 mg administered once daily and tramadol HCl IR (ULTRAM) 50 mg administered every six hours are provided in Table 3.
 
 Table 3: Mean (%CV) Steady-State Pharmacokinetic Parameter Values (n=32)
 
@@ -96,10 +99,7 @@ Table 3: Mean (%CV) Steady-State Pharmacokinetic Parameter Values (n=32)
 
 AUC0-24: Area Under the Curve in a 24-hour dosing interval; Cmax: Peak Concentration in a 24-hour dosing interval; Cmin: Trough Concentration in a 24-hour dosing interval; Tmax: Time to Peak Concentration
 
-Figure 2: Mean Steady-State Tramadol (a) and M1 (b) Plasma Concentrations on Day 8 Post Dose after Administration of 200 mg ULTRAM ER Once-Daily and 50 mg ULTRAM Every 6 Hours.
-
-1. 1.Tramadol
-2. 2.M1
+Figure 1: Mean Steady-State Tramadol (a) and M1 (b) Plasma Concentrations on Day 8 Post Dose after Administration of 200 mg ULTRAM ER Once-Daily and 50 mg ULTRAM Every 6 Hours.
 
 Food Effects
 
@@ -155,10 +155,10 @@ Dosage adjustment based on sex is not recommended.
 
 Age: Geriatric Population
 
-The effect of age on pharmacokinetics of CONZIP has not been studied.
-Healthy elderly subjects aged 65 to 75 years administered an immediate-release formulation of tramadol, have plasma concentrations and elimination half-lives comparable to those observed in healthy subjects less than 65 years of age.
+The effect of age on pharmacokinetics of ULTRAM ER has not been studied.
+Healthy elderly subjects aged 65 to 75 years administered an immediate-release formulation of tramadol, have plasma concentrations and elimination half-lives comparable to those observed in healthy subjects younger than 65 years of age.
 In subjects over 75 years, mean maximum plasma concentrations are elevated (208 vs. 162 ng/mL) and the mean elimination half-life is prolonged (7 vs. 6 hours) compared to subjects 65 to 75 years of age.
-Adjustment of the daily dose is recommended for patients older than 75 years [seeDosage and Administration (2.3)].
+Adjustment of the daily dose is recommended for patients older than 75 years [see Dosage and Administration (2.3)].
 
 Drug Interaction Studies
 
@@ -185,11 +185,11 @@ Coadministration of quinidine, a selective inhibitor of CYP2D6, with ULTRAM ER r
 The clinical consequences of these findings are unknown.
 
 To evaluate the effect of tramadol, a CYP2D6 substrate on quinidine, an in vitro drug interaction study in human liver microsomes was conducted.
-The results from this study indicate that tramadol has no effect on quinidine metabolism [see Warnings and Precautions (5.4), Drug Interactions (7)].
+The results from this study indicate that tramadol has no effect on quinidine metabolism [see Warnings and Precautions (5.5), Drug Interactions (7)].
 
 CYP3A4 Inhibitors and Inducers
 
-Since tramadol is also metabolized by CYP3A4, administration of CYP3A4 inhibitors, such as ketoconazole and erythromycin, or CYP3A4 inducers, such as rifampin and St. John’s Wort, with ULTRAM ER may affect the metabolism of tramadol leading to altered tramadol exposure [see Warnings and Precautions (5.4), Drug Interactions (7)].
+Since tramadol is also metabolized by CYP3A4, administration of CYP3A4 inhibitors, such as ketoconazole and erythromycin, or CYP3A4 inducers, such as rifampin and St. John’s Wort, with ULTRAM ER may affect the metabolism of tramadol leading to altered tramadol exposure [see Warnings and Precautions (5.5), Drug Interactions (7)].
 
 Cimetidine
 

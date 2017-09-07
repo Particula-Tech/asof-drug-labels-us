@@ -17,19 +17,24 @@ Accidental Ingestion
 Inform patients that accidental ingestion, especially by children, may result in respiratory depression or death [see Warnings and Precautions (5.2)].
 Instruct patients to take steps to store ULTRAM ER securely and to dispose of unused ULTRAM ER in accordance with the local state guidelines and/or regulations.
 
+Ultra-Rapid Metabolism of Tramadol and Other Risk Factors for Life-threatening Respiratory Depression in Children
+
+Advise caregivers that ULTRAM ER is contraindicated in children younger than 12 years of age and in children younger than 18 years of age following tonsillectomy and/or adenoidectomy.
+Advise caregivers of children 12 to18 years of age receiving ULTRAM ER to monitor for signs of respiratory depression [see Warnings and Precautions (5.3)].
+
 Interactions with Benzodiazepines and Other CNS Depressants
 
-Inform patients and caregivers that potentially fatal additive effects may occur if ULTRAM ER is used with benzodiazepines or other CNS depressants, including alcohol, and not to use these concomitantly unless supervised by a healthcare provider [see Warnings and Precautions (5.5), Drug Interactions (7)].
+Inform patients and caregivers that potentially fatal additive effects may occur if ULTRAM ER is used with benzodiazepines or other CNS depressants, including alcohol, and not to use these concomitantly unless supervised by a healthcare provider [see Warnings and Precautions (5.6), Drug Interactions (7)].
 
 Serotonin Syndrome
 
 Inform patients that tramadol could cause a rare but potentially life-threatening condition, particularly during concomitant use with serotonergic drugs.
 Warn patients of the symptoms of serotonin syndrome and to seek medical attention right away if symptoms develop.
-Instruct patients to inform their healthcare provider if they are taking, or plan to take serotonergic medications [see Warnings and Precautions (5.6), Drug Interactions (7)].
+Instruct patients to inform their healthcare provider if they are taking, or plan to take serotonergic medications [see Warnings and Precautions (5.7), Drug Interactions (7)].
 
 Seizures
 
-Inform patients that ULTRAM ER may cause seizures with concomitant use of serotonergic agents (including SSRIs, SNRIs, and triptans) or drugs that significantly reduce the metabolic clearance of tramadol [see Warnings and Precautions (5.7)].
+Inform patients that ULTRAM ER may cause seizures with concomitant use of serotonergic agents (including SSRIs, SNRIs, and triptans) or drugs that significantly reduce the metabolic clearance of tramadol [see Warnings and Precautions (5.8)].
 
 MAOI Interaction
 
@@ -40,7 +45,7 @@ Adrenal Insufficiency
 
 Inform patients that opioids could cause adrenal insufficiency, a potentially life-threatening condition.
 Adrenal insufficiency may present with non-specific symptoms and signs such as nausea, vomiting, anorexia, fatigue, weakness, dizziness, and low blood pressure.
-Advise patients to seek medical attention if they experience a constellation of these symptoms [see Warnings and Precautions (5.9)].
+Advise patients to seek medical attention if they experience a constellation of these symptoms [see Warnings and Precautions (5.10)].
 
 Important Administration Instructions
 
@@ -55,26 +60,26 @@ Instruct patients how to properly take ULTRAM ER, including the following:
 Hypotension
 
 Inform patients that ULTRAM ER may cause orthostatic hypotension and syncope.
-Instruct patients how to recognize symptoms of low blood pressure and how to reduce the risk of serious consequences should hypotension occur (e.g., sit or lie down, carefully rise from a sitting or lying position) [see Warnings and Precautions (5.11)].
+Instruct patients how to recognize symptoms of low blood pressure and how to reduce the risk of serious consequences should hypotension occur (e.g., sit or lie down, carefully rise from a sitting or lying position) [see Warnings and Precautions (5.12)].
 
 Anaphylaxis
 
 Inform patients that anaphylaxis has been reported with ingredients contained in ULTRAM ER.
-Advise patients how to recognize such a reaction and when to seek medical attention [see Contraindications (4), Adverse Reactions (6)].
+Advise patients how to recognize such a reaction and when to seek medical attention [see Contraindications (4), Warnings and Precautions (5.15), Adverse Reactions (6)].
 
 Pregnancy
 
 Neonatal Opioid Withdrawal Syndrome
 
-Inform female patients of reproductive potential that prolonged use of ULTRAM ER during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated [see Warnings and Precautions (5.3), Use in Specific Populations (8.1)].
+Inform female patients of reproductive potential that prolonged use of ULTRAM ER during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated [see Warnings and Precautions (5.4), Use in Specific Populations (8.1)].
 
 Embryo-Fetal Toxicity
 
-Inform female patients of reproductive potential that ULTRA ER can cause fetal harm and to inform their healthcare provider of a known or suspected pregnancy [see Use in Specific Populations (8.1)].
+Inform female patients of reproductive potential that ULTRAM ER can cause fetal harm and to inform their healthcare provider of a known or suspected pregnancy [see Use in Specific Populations (8.1)].
 
 Lactation
 
-Advise patients that breastfeeding is not recommended during treatment with ULTRA ER [see Use in Specific Populations (8.2)].
+Advise women that breastfeeding is not recommended during treatment with ULTRAM ER [see Use in Specific Populations (8.2)].
 
 Infertility
 
@@ -84,7 +89,7 @@ It is not known whether these effects on fertility are reversible [see Adverse R
 Driving or Operating Heavy Machinery
 
 Inform patients that ULTRAM ER may impair the ability to perform potentially hazardous activities such as driving a car or operating heavy machinery.
-Advise patients not to perform such tasks until they know how they will react to the medication [see Warnings and Precautions (5.5)].
+Advise patients not to perform such tasks until they know how they will react to the medication [see Warnings and Precautions (5.17)].
 
 Constipation
 
@@ -100,7 +105,7 @@ Manufactured by:
 
 Valeant Pharmaceuticals International, Inc.
 
-Steinbach, MB, R5G 1Z7
+Steinbach, MB R5G 1Z7
 
 Canada
 
@@ -112,5 +117,5 @@ Janssen Pharmaceuticals, Inc.
 
 Titusville, NJ 08560
 
-LB0047-05 Rev.
-12/2016
+Update p/n Rev.
+08/2017

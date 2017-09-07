@@ -4,9 +4,9 @@
 
 ULTRAM ER should be prescribed only by healthcare professionals who are knowledgeable in the use of potent opioids for the management of chronic pain.
 
-- •Do not use ULTRAM ER concomitantly with other tramadol products [see Warnings and Precautions (5.4), (5.12)].
+- •Do not use ULTRAM ER concomitantly with other tramadol products [see Warnings and Precautions (5.5), (5.13)].
 - •Do not administer ULTRAM ER at a dose exceeding 300 mg per day.
-- •Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5.5)].
+- •Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5.6)].
 - •Initiate the dosing regimen for each patient individually, taking into account the patient's severity of pain, patient response, prior analgesic treatment experience, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1)]
 - •Monitor patients closely for respiratory depression, especially within the first 24-72 hours of initiating therapy and following dosage increases with ULTRAM ER and adjust the dosage accordingly [see Warnings and Precautions (5.2)].
 - •Instruct patients to swallow ULTRAM ER tablets whole [see Patient Counseling Information (17)], and to take it with liquid.
@@ -51,4 +51,4 @@ Adjust the dosage to obtain an appropriate balance between management of pain an
 
 When a patient no longer requires therapy with ULTRAM ER, taper the dose gradually, by 25% to 50% every 2 to 4 days, while monitoring carefully for signs and symptoms of withdrawal.
 If the patient develops these signs or symptoms, raise the dose to the previous level and taper more slowly, either by increasing the interval between decreases, decreasing the amount of change in dose, or both.
-Do not abruptly discontinue ULTRAM ER [see Warnings and Precautions (5.15), Drug Abuse and Dependence (9.3)].
+Do not abruptly discontinue ULTRAM ER [see Warnings and Precautions (5.16), Drug Abuse and Dependence (9.3)].
