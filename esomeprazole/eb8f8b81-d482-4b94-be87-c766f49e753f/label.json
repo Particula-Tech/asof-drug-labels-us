@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA205563"
+  ],
+  "inn": "esomeprazole",
+  "labeler": "Lannett Company, Inc..",
+  "package_ndcs": [
+    "62175-820-32",
+    "62175-820-43",
+    "62175-820-46",
+    "62175-840-32",
+    "62175-840-43",
+    "62175-840-46"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, DELAYED RELEASE PELLETS",
+      "generic": "esomeprazole magnesium",
+      "name": "Esomeprazole Magnesium"
+    }
+  ],
+  "setid": "eb8f8b81-d482-4b94-be87-c766f49e753f",
+  "source": "dailymed"
+}
