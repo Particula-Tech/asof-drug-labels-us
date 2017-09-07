@@ -1,7 +1,5 @@
-# ADVERSE REACTIONS
-
-The most common adverse effects are gastrointestinal disturbances (nausea, vomiting, anorexia) and allergic skin reactions (such as rash and urticaria).
-FATALITIES ASSOCIATED WITH THE ADMINISTRATION OF SULFONAMIDES, ALTHOUGH RARE, HAVE OCCURRED DUE TO SEVERE REACTIONS, INCLUDING STEVENS-JOHNSON SYNDROME, TOXIC EPIDERMAL NECROLYSIS, FULMINANT HEPATIC NECROSIS, AGRANULOCYTOSIS, APLASTIC ANEMIA AND OTHER BLOOD DYSCRASIAS (SEE WARNINGSSECTION).
+ADVERSE REACTIONS: The most common adverse effects are gastrointestinal disturbances (nausea, vomiting, anorexia) and allergic skin reactions (such as rash and urticaria).
+FATALITIES ASSOCIATED WITH THE ADMINISTRATION OF SULFONAMIDES, ALTHOUGH RARE, HAVE OCCURRED DUE TO SEVERE REACTIONS, INCLUDING STEVENS-JOHNSON SYNDROME, TOXIC EPIDERMAL NECROLYSIS, FULMINANT HEPATIC NECROSIS, AGRANULOCYTOSIS, APLASTIC ANEMIA AND OTHER BLOOD DYSCRASIAS (SEE WARNINGS SECTION).
 
 Hematologic: Agranulocytosis, aplastic anemia, thrombocytopenia, leukopenia, neutropenia, hemolytic anemia, megaloblastic anemia, hypoprothrombinemia, methemoglobinemia, eosinophilia.
 
@@ -25,6 +23,6 @@ Diuresis and hypoglycemia have occurred rarely in patients receiving sulfonamide
 Musculoskeletal: Arthralgia and myalgia.
 Isolated cases of rhabdomyolysis have been reported with sulfamethoxazole and trimethoprim, mainly in AIDS patients.
 
-Respiratory: Cough, shortness of breath and pulmonary infiltrates (see WARNINGS).
+Respiratory: Cough, shortness of breath andR pulmonary infiltrates (see WARNINGS).
 
 Miscellaneous: Weakness, fatigue, insomnia.
