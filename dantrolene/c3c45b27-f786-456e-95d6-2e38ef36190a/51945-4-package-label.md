@@ -1,7 +1,5 @@
 # PRINCIPAL DISPLAY PANEL - 25 mg-100ct Bottle Label
 
-Impax Generics
-
 NDC 0115-4411-01
 
 Dantrolene Sodium Capsules
@@ -14,9 +12,9 @@ Rx only
 
 100 CAPSULES
 
-# PRINCIPAL DISPLAY PANEL - 50 mg-100ct Bottle Label
+Impax®
 
-Impax Generics
+# PRINCIPAL DISPLAY PANEL - 50 mg-100ct Bottle Label
 
 NDC 0115-4422-01
 
@@ -30,9 +28,9 @@ Rx Only
 
 100 CAPSULES
 
-# PRINCIPAL DISPLAY PANEL - 100 mg-100 ct Bottle Label
+Impax®
 
-Impax Generics
+# PRINCIPAL DISPLAY PANEL - 100 mg-100 ct Bottle Label
 
 NDC 0115-4433-01
 
@@ -45,3 +43,5 @@ PERIPHERAL SKELETAL MUSCLE RELAXANT
 Rx Only
 
 100 CAPSULES
+
+Impax®
