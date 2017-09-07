@@ -90,7 +90,7 @@ Adverse Reactions1Reported in ≥ 2% of Patients Treated with Rosuvastatin and >
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during postapproval use of rosuvastatin: arthralgia, fatal and non-fatal hepatic failure, hepatitis, jaundice, thrombocytopenia, depression, sleep disorders (including insomnia and nightmares), peripheral neuropathy and gynecomastia.
+The following adverse reactions have been identified during postapproval use of rosuvastatin: arthralgia, fatal and non-fatal hepatic failure, hepatitis, jaundice, thrombocytopenia, depression, sleep disorders (including insomnia and nightmares), peripheral neuropathy, interstitial lung disease and gynecomastia.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 There have been rare reports of immune-mediated necrotizing myopathy associated with statin use [see Warnings and Precautions (5.1)].
 There have been rare postmarketing reports of cognitive impairment (e.g., memory loss, forgetfulness, amnesia, memory impairment, confusion) associated with statin use.

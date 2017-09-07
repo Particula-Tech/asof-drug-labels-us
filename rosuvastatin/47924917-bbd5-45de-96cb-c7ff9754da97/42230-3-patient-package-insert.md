@@ -163,5 +163,5 @@ You can ask your pharmacist or doctor for information about rosuvastatin calcium
 
 CRESTOR is a trademark of the AstraZeneca group of companies.
 
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 090, India Revised: 07/2016 For more information, call Aurobindo Pharma USA, Inc. at 1-866-850-2876.
+Distributed by: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 09/2017 For more information, call Aurobindo Pharma USA, Inc. at 1-866-850-2876.
 This Patient Information has been approved by the U.S. Food and Drug Administration.
