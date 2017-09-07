@@ -1,5 +1,15 @@
-# Principal Display Panel
+# PRINCIPAL DISPLAY PANEL - 100 mg Capsule Bottle Label
 
-CSPC-NBP Pharmaceutical Co., Ltd.
+NDC 51224-010-50 Benzonatate Capsules USP 100 mg Rx only 100 CAPSULES
 
-NDC 51224-010-50 Benzonatate Capsules, USP 100 mg Rx only 100 Capsules
+tagiPHARMA That's A Good Idea
+
+CSPC ®
+
+# PRINCIPAL DISPLAY PANEL - 200 mg Capsule Bottle Label
+
+NDC 51224-001-50 Benzonatate Capsules USP 200 mg Rx only 100 CAPSULES
+
+tagiPHARMA That's A Good Idea
+
+CSPC ®

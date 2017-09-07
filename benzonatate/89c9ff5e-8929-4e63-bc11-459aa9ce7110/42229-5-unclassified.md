@@ -1,5 +1,5 @@
 Rev.
-2615
+2616
 
 Manufactured by: CSPC-NBP Pharmaceutical Co., Ltd. Shijiazhuang, Hebei, China, 052160
 
