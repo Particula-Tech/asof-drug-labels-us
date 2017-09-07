@@ -20,7 +20,7 @@ Novo Nordisk® is a registered trademark of Novo Nordisk A/S.
 
 Norditropin® and FlexPro® are registered trademarks of Novo Nordisk Health Care AG.
 
-© 2002-2016 Novo Nordisk Health Care AG
+© 2002-2017 Novo Nordisk Health Care AG
 
 For information contact:
 

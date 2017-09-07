@@ -34,7 +34,7 @@ The most frequent adverse events were the common infections of childhood, includ
 Cardiac disorders was the system organ class with the second most adverse events reported.
 However, congenital heart disease is an inherent component of Noonan syndrome, and there was no evidence of somatropin-induced ventricular hypertrophy or exacerbation of preexisting ventricular hypertrophy (as judged by echocardiography) during this study.
 Children who had baseline cardiac disease judged to be significant enough to potentially affect growth were excluded from the study; therefore the safety of Norditropin in children with Noonan syndrome and significant cardiac disease is not known.
-Among children who received 0.033 mg/kg/day, there was one adverse event of scoliosis; among children who received 0.066 mg/kg/day, there were four adverse events of scoliosis [see Warnings and Precautions (5.9)].
+Among children who received 0.033 mg/kg/day, there was one adverse event of scoliosis; among children who received 0.066 mg/kg/day, there were four adverse events of scoliosis [see Warnings and Precautions (5.11)].
 Mean serum IGF-I standard deviation score (SDS) levels did not exceed +1 in response to somatropin treatment.
 The mean serum IGF-I level was low at baseline and normalized during treatment.
 
@@ -42,9 +42,9 @@ Clinical Trials in Children with Turner Syndrome
 
 In two clinical studies wherein children with Turner syndrome were treated until final height with various doses of Norditropin as described inClinical Studies (14.2), the most frequently reported adverse events were common childhood diseases including influenza-like illness, otitis media, upper respiratory tract infection, otitis externa, gastroenteritis and eczema.
 Otitis media adverse events in Study 1 were most frequent in the highest dose groups (86.4% in the 0.045-0.067-0.089 mg/kg/day group vs. 78.3% in the 0.045-0.067 mg/kg/day group vs. 69.6% in the 0.045 mg/kg/day group) suggesting a possible dose-response relationship.
-Of note, approximately 40-50% of these otitis media adverse events were designated as “serious” [see Warnings and Precautions (5.10)].
+Of note, approximately 40-50% of these otitis media adverse events were designated as “serious” [see Warnings and Precautions (5.12)].
 No patients in either study developed clearcut overt diabetes mellitus; however, in Study 1, impaired fasting glucose at Month 48 was more frequent in patients in the 0.045-0.067 mg/kg/day group (n=4/18) compared with the 0.045 mg/kg/day group (n=1/20).
-Transient episodes of fasting blood sugars between 100 and 126 mg/dL, and, on occasion, exceeding 126 mg/dL also occurred more often with larger doses of Norditropin in both studies [see Warnings and Precautions (5.4) and Adverse Reactions (6.1)].
+Transient episodes of fasting blood sugars between 100 and 126 mg/dL, and, on occasion, exceeding 126 mg/dL also occurred more often with larger doses of Norditropin in both studies [see Warnings and Precautions (5.4) and Adverse Reactions (6)].
 Three patients withdrew from the 2 high dose groups in Study 1 because of concern about excessive growth of hands or feet.
 In addition, in Study 1, exacerbation of preexisting scoliosis was designated a serious adverse reaction in two patients in the 0.045 mg/kg/day group [see Warnings and Precautions (5.9)].
 
@@ -135,7 +135,7 @@ Amongst these patients, 165 had previously been treated with other somatropin fo
 ## 6.2 Post-Marketing Experience
 
 Because these adverse events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-The adverse events reported during post-marketing surveillance do not differ from those listed/discussed above in Sections 6.1 and 6.2 in children and adults.
+The adverse events reported during post-marketing surveillance do not differ from those listed/discussed above in Sections 6 and 6.1 in children and adults.
 
 Serious systemic hypersensitivity reactions including anaphylactic reactions and angioedema have been reported with postmarketing use of somatropin products [see Warnings and Precautions (5.6)].
 

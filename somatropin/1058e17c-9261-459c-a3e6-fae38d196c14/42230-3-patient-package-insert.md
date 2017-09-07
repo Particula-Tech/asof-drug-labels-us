@@ -2,7 +2,7 @@
 
 NORDITROPIN® (Nor-dee-tro-pin)
 
-[somatropin (rDNA origin) injection] for subcutaneous use
+(somatropin) injection for subcutaneous use
 
 What is Norditropin?
 
@@ -120,7 +120,7 @@ You can ask your pharmacist or healthcare provider for information about NORDITR
 
 What are the ingredients in Norditropin?
 
-Active ingredient: somatropin (rDNA origin)
+Active ingredient: somatropin
 
 Inactive ingredients: Histidine, Poloxamer 188, Phenol, Mannitol, HCl/NaOH (as needed) and Water for Injection
 
@@ -132,13 +132,13 @@ DK-2880 Bagsvaerd, Denmark
 
 This Patient Information has been approved by the U.S.Food and Drug Administration
 
-Revised: 12/2016
+Revised: 08/2017
 
 INSTRUCTIONS FOR USE
 
 Norditropin® (Nor-dee-tro-pin) FlexPro®
 
-(somatropin [rDNA origin] injection)
+(somatropin) injection
 
 5 mg/1.5 mL Pen
 
@@ -344,11 +344,11 @@ Figure O
   Put your used needles and Pen in a FDA-cleared sharps disposal container right away after use.
   Do not throw away (dispose of) loose needles and Pens in your household trash.
 - •If you do not have a FDA-cleared sharps disposal container, you may use a household container that is:
-  - •made of a heavy-duty plastic,
-  - •can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
-  - •upright and stable during use,
-  - •leak-resistant, and
-  - •properly labeled to warn of hazardous waste inside the container.
+  - made of a heavy-duty plastic,
+  - can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
+  - upright and stable during use,
+  - leak-resistant, and
+  - properly labeled to warn of hazardous waste inside the container.
 - •When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
   There may be state or local laws about how you should throw away used needles and Pens.
   For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA’s website at: http://www.fda.gov/safesharpsdisposal.
@@ -369,21 +369,15 @@ You must take care of your Norditropin FlexPro Pen:
   Clean the Norditropin FlexPro Pen with a mild detergent on a moistened cloth.
 - •Always keep your Pen and needles out of reach of others, especially children.
 
-This Patient Information and Instructions for Use has been approved by the U.S. Food and Drug Administration.
+This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Norditropin NordiFlex 30 mg
+PATENT Information: http://novonordisk-us.com/patients/products/product-patents.html
 
-US Patent Nos. 5,849,700; 5,849,704; 6,004,297; RE41956; RE43834 and other patents pending.
-
-Norditropin FlexPro
-
-US Patent Nos. 5,849,700; 5,849,704; 6,899,699; 7,686,786 and other patents pending.
-
-Norditropin®, FlexPro®, Norditropin NordiFlex® are registered trademarks of Novo Nordisk Health Care AG.
+Norditropin® and FlexPro® are registered trademarks of Novo Nordisk Health Care AG.
 
 Novo Nordisk® is a registered trademark of Novo Nordisk A/S.
 
-© 2004-2013 Novo Nordisk Health Care AG
+© 2004-2017 Novo Nordisk Health Care AG
 
 For further information contact:
 
@@ -405,13 +399,13 @@ DK-2880 Bagsvaerd
 
 Denmark
 
-Revised: 10/2013
+Revised: 08/2017
 
 INSTRUCTIONS FOR USE
 
 Norditropin® (Nor-dee-tro-pin) FlexPro®
 
-(somatropin [rDNA origin] injection)
+(somatropin) injection
 
 10 mg/1.5 mL Pen
 
@@ -620,11 +614,11 @@ Figure O
   Put your used needles and Pen in a FDA-cleared sharps disposal container right away after use.
   Do not throw away (dispose of) loose needles and Pens in your household trash.
 - •If you do not have a FDA-cleared sharps disposal container, you may use a household container that is:
-  - •made of a heavy-duty plastic,
-  - •can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
-  - •upright and stable during use,
-  - •leak-resistant, and
-  - •properly labeled to warn of hazardous waste inside the container.
+  - made of a heavy-duty plastic,
+  - can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
+  - upright and stable during use,
+  - leak-resistant, and
+  - properly labeled to warn of hazardous waste inside the container.
 - •When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
   There may be state or local laws about how you should throw away used needles and Pens.
   For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA’s website at: http://www.fda.gov/safesharpsdisposal.
@@ -645,21 +639,15 @@ You must take care of your Norditropin FlexPro Pen:
   Clean the Norditropin FlexPro Pen with a mild detergent on a moistened cloth.
 - •Always keep your Pen and needles out of reach of others, especially children.
 
-This Patient Information and Instructions for Use has been approved by the U.S. Food and Drug Administration.
+This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Norditropin NordiFlex 30 mg
+PATENT Information: http://novonordisk-us.com/patients/products/product-patents.html
 
-US Patent Nos. 5,849,700; 5,849,704; 6,004,297; RE41956; RE43834 and other patents pending.
-
-Norditropin FlexPro
-
-US Patent Nos. 5,849,700; 5,849,704; 6,899,699; 7,686,786 and other patents pending.
-
-Norditropin®, FlexPro®, Norditropin NordiFlex® are registered trademarks of Novo Nordisk Health Care AG.
+Norditropin® and FlexPro® are registered trademarks of Novo Nordisk Health Care AG.
 
 Novo Nordisk® is a registered trademark of Novo Nordisk A/S.
 
-© 2004-2013 Novo Nordisk Health Care AG
+© 2004-2017 Novo Nordisk Health Care AG
 
 For further information contact:
 
@@ -681,13 +669,13 @@ DK-2880 Bagsvaerd
 
 Denmark
 
-Revised: 10/2013
+Revised: 08/2017
 
 INSTRUCTIONS FOR USE
 
 Norditropin® (Nor-dee-tro-pin) FlexPro®
 
-(somatropin [rDNA origin] injection)
+(somatropin) injection
 
 15 mg/1.5 mL Pen
 
@@ -894,11 +882,11 @@ Figure O
   Put your used needles and Pen in a FDA-cleared sharps disposal container right away after use.
   Do not throw away (dispose of) loose needles and Pens in your household trash.
 - •If you do not have a FDA-cleared sharps disposal container, you may use a household container that is:
-  - •made of a heavy-duty plastic,
-  - •can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
-  - •upright and stable during use,
-  - •leak-resistant, and
-  - •properly labeled to warn of hazardous waste inside the container.
+  - made of a heavy-duty plastic,
+  - can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
+  - upright and stable during use,
+  - leak-resistant, and
+  - properly labeled to warn of hazardous waste inside the container.
 - •When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
   There may be state or local laws about how you should throw away used needles and Pens.
   For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA’s website at: http://www.fda.gov/safesharpsdisposal.
@@ -919,21 +907,15 @@ You must take care of your Norditropin FlexPro Pen:
   Clean the Norditropin FlexPro Pen with a mild detergent on a moistened cloth.
 - •Always keep your Pen and needles out of reach of others, especially children.
 
-This Patient Information and Instructions for Use has been approved by the U.S. Food and Drug Administration.
+This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Norditropin NordiFlex 30 mg
+PATENT Information: http://novonordisk-us.com/patients/products/product-patents.html
 
-US Patent Nos. 5,849,700; 5,849,704; 6,004,297; RE41956; RE43834 and other patents pending.
-
-Norditropin FlexPro
-
-US Patent Nos. 5,849,700; 5,849,704; 6,899,699; 7,686,786 and other patents pending.
-
-Norditropin®, FlexPro®, Norditropin NordiFlex® are registered trademarks of Novo Nordisk Health Care AG.
+Norditropin® and FlexPro® are registered trademarks of Novo Nordisk Health Care AG.
 
 Novo Nordisk® is a registered trademark of Novo Nordisk A/S.
 
-© 2004-2013 Novo Nordisk Health Care AG
+© 2004-2017 Novo Nordisk Health Care AG
 
 For further information contact:
 
@@ -955,11 +937,10 @@ DK-2880 Bagsvaerd
 
 Denmark
 
-Revised: 10/2013
+Revised: 08/2017
 
-| Norditropin®FlexPro®(Nor-dee-tro-pin)(somatropin [rDNA origin]injection)30 mg/3mLInstructionsfor use |  |
-| --- | --- |
 | Supplies you will need: • Norditropin FlexPro prefilled Pen • Novo Nordisk disposable needles up to a length of 8 mm • a sharps container |  |
+| --- | --- |
 | How to use your Norditropin FlexPro Pen |  |
 | 5 steps you should follow for a Norditropin injection: Step 1: Prepare your Norditropin FlexPro Pen Step 2: Check the Norditropin flow with each new Pen Step 3: Select your dose Step 4: Inject your dose Step 5: After your injection For further information about your Pen: Frequently Asked Questions Important information Patient Information |  |
 | Norditropin is for use under the skin only (subcutaneous). |  |
@@ -969,28 +950,28 @@ Revised: 10/2013
 | • When you are ready to take your injection, take a new disposable needle, and tear off the paper tab. • Push the needle straight onto the Pen. Turn the needle clockwise until it is on tight. See figure B. |  |
 | Always use a new needle for each injection. This reduces the risk of contamination, infection, leakage of Norditropin, and blocked needles leading to incorrect dosing. |  |
 | • Pull off the outer needle cap and dispose of it. See figure C. |  |
-| • Pull off the inner needle cap and dispose of it. See figure D. •A drop of Norditropin may appear at the needle tip. This is normal, but you must still check the Norditropin flow with each new Pen. See step 2. |  |
+| • Pull off the inner needle cap and dispose of it. See figure D. A drop of Norditropin may appear at the needle tip. This is normal, but you must still check the Norditropin flow with each new Pen. See step 2. |  |
 | Never use a bent or damaged needle. |  |
 | Step 2. Check the Norditropin flow with each new Pen |  |
-| •If your Pen is already in use, proceed to step 3. Before using a new Pen, check the Norditropin flow to make sure the growth hormone can flow through the Pen and needle. • Turn the dose selector clockwise one tick mark to select 0.1 mg. You will hear a faint click. See figure E. |  |
+| If your Pen is already in use, proceed to step 3. Before using a new Pen, check the Norditropin flow to make sure the growth hormone can flow through the Pen and needle. • Turn the dose selector clockwise one tick mark to select 0.1 mg. You will hear a faint click. See figure E. |  |
 | •One tick mark equals 0.1 mg in the dose counter. See figure F. |  |
 | • Hold the Pen with the needle pointing up. Press and hold in the dose button until the dose counter returns to 0. The 0 must line up with the dose pointer. See figure G. |  |
-| • Check that a drop of Norditropin appears at the needle tip. See figure H.•If no Norditropin appears, repeat step 2 up to 6 times. If you still do not see a drop of Norditropin, change the needle and repeat step 2 again. Do not use the Pen if a drop of Norditropin still does not appear after repeating step 2. Call Novo Nordisk at 1-888-668-6444 for help. |  |
+| • Check that a drop of Norditropin appears at the needle tip. See figure H.If no Norditropin appears, repeat step 2 up to 6 times.If you still do not see a drop of Norditropin, change the needle and repeat step 2 again.Do not use the Pen if a drop of Norditropin still does not appear after repeating step 2. Call Novo Nordisk at 1-888-668-6444 for help. |  |
 | Step 3. Select your dose |  |
-| • To start, check that the dose counter is set at 0. • Turn the dose selector clockwise to select the dose you need. See figure I. When you have selected your dose, you can proceed to step 4.•If there is not enough Norditropin left to select a full dose, see Frequently Asked Questions. |  |
-| •The dose counter shows the dose in mg. See figures J and K. Always use the dose counter to select the exact dose. Do not count the Pen clicks. Do not use the Pen scale. |  |
-| •If you select the wrong dose, you can turn the dose selector clockwise or counterclockwise to the correct dose. See figure L. The Pen clicks sound and feel differently when the dose selector is turned clockwise, counterclockwise, or if you accidentally force it past the number of mg left. |  |
+| • To start, check that the dose counter is set at 0. • Turn the dose selector clockwise to select the dose you need. See figure I. When you have selected your dose, you can proceed to step 4.If there is not enough Norditropin left to select a full dose, see Frequently Asked Questions. |  |
+| The dose counter shows the dose in mg. See figures J and K. Always use the dose counter to select the exact dose. Do not count the Pen clicks. Do not use the Pen scale. |  |
+| If you select the wrong dose, you can turn the dose selector clockwise or counterclockwise to the correct dose. See figure L. The Pen clicks sound and feel differently when the dose selector is turned clockwise, counterclockwise, or if you accidentally force it past the number of mg left. |  |
 | Step 4. Inject your dose |  |
 | • Norditropin can be injected under the skin (subcutaneously) of your hips, stomach area (abdomen), buttocks, upper legs (thighs), upper arms, or as otherwise instructed by your healthcare provider. Change the injection site every day. • Insert the needle into your skin as your healthcare provider has shown you. See figure M. Make sure you can see the dose counter. Do not cover it with your fingers. This could block the injection. |  |
-| • Press and hold down the dose button until the dose counter shows 0. See figure N. The 0 must line up with the dose pointer. You may then hear or feel a click. •Continue to hold the needle in your skin. •If 0 does not appear in the dose counter after continuously pressing the dose button, your needle may be blocked or damaged, see Frequently Asked Questions. |  |
+| • Press and hold down the dose button until the dose counter shows 0. See figure N. The 0 must line up with the dose pointer. You may then hear or feel a click. •Continue to hold the needle in your skin. If 0 does not appear in the dose counter after continuously pressing the dose button, your needle may be blocked or damaged, see Frequently Asked Questions. |  |
 | •Keep the needle in your skin after the dose counter has returned to 0. Count slowly to 6 to ensure that the full dose has been delivered. See figure O. |  |
-| • Carefully remove the needle from your skin. See figure P. If blood appears at the injection site, press lightly. Do not rub the area. •You may see a drop of Norditropin at the needle tip after injecting. This is normal and does not affect your dose. |  |
+| • Carefully remove the needle from your skin. See figure P. If blood appears at the injection site, press lightly. Do not rub the area. You may see a drop of Norditropin at the needle tip after injecting. This is normal and does not affect your dose. |  |
 | Step 5. After your injection |  |
 | • Carefully remove the needle from the Pen by turning counterclockwise. See figure Q. |  |
 | • Place the needle in a sharps container immediately to reduce the risk of needle sticks. See figure R. |  |
 | Do not try to put the needle caps back on. You may stick yourself with the needle. |  |
 | •Put the Pen cap on your Pen after each use to protect the Norditropin from direct light. See figure S. To store your Pen, see the Patient Information section. |  |
-| •Always dispose of the needle after each injection. Put the needle and any empty or discarded Pen still containing Norditropin in an FDA-cleared sharps disposal container. See figure T. For further information about safe sharps disposal, see Frequently Asked Questions. |  |
+| Always dispose of the needle after each injection. Put the needle and any empty or discarded Pen still containing Norditropin in an FDA-cleared sharps disposal container. See figure T. For further information about safe sharps disposal, see Frequently Asked Questions. |  |
 | Always remove the needle from your Pen. This reduces the risk of contamination, infection, leakage of Norditropin, and blocked needles leading to incorrect dosing. |  |
 | Frequently Asked QuestionsHow do I see how much Norditropin is left in my Pen? |  |
 | The Pen scale shows you approximately how much Norditropin is left in your Pen. See figure U below. |  |
@@ -1007,8 +988,8 @@ Revised: 10/2013
 | • Caregivers must be very careful when handling needles – to reduce the risk of needle sticks and cross-infection. • Always keep your Pen and needles out of reach of others, especially children. • Norditropin ® FlexPro ® 30 mg/3 mL Pen is not compatible with FlexPro ® PenMate ®. • To store your Pen, see How do I store Norditropin in the Patient Information. |  |
 | [Patient Information] |  |
 | www.novotraining.com/flexpro30/us01 |  |
-| This Patient Information and Instructions for Use have been approved by the U.S. Food and Drug Administration.Norditropin FlexPro US Patent Nos. 5,849,700; 5,849,704; 6,899,699; 7,686,786 and other patents pending.Norditropin® FlexPro®, and FlexPro® PenMate® are registered trademarks of Novo Nordisk Health Care AG.Novo Nordisk® is a registered trademark of Novo Nordisk A/S© 2004-2015 Novo Nordisk Health Care AGFor further information contact:Novo Nordisk Inc.800 Scudders Mill RoadPlainsboro, NJ 08536, USA1-888-668-6444norditropin-us.comManufactured by:Novo Nordisk A/SDK-2880 BagsvaerdDenmarkRevised 01/2015 |  |
-| INSTRUCTIONS FOR USENorditropin® (Nor-dee-tro-pin) FlexPro®(somatropin [rDNA origin] injection)Prefilled Pen with PenMate®Read this Instructions for Use before you start using your Pen with PenMate. •PenMate hides the needle when you inject your Norditropin growth hormone with Norditropin FlexPro 5 mg, 10 mg, and 15 mg Pens so that you cannot see it. Use your PenMate only after you have been trained by a healthcare provider. •Blind people or people with severe vision problems should only use the PenMate and Pen with help from another person with good eyesight who is trained to use the PenMate and Pen. •The figures in these instructions show PenMate being used with a Norditropin FlexPro 5 mg Pen and a NovoFine needle that is 8 mm long. Even if you are using a 10 mg or 15 mg Pen or a different needle that is 8 mm long the instructions are the same. •Do not share your Norditropin Pen and needles with another person. You may give another person an infection or get an infection from them. Supplies you will need to use your Pen with PenMate: •1 PenMate. See figure A.•1 Norditropin FlexPro Pen. See figure B. PenMate does not work with other injection devices.•1 disposable needle up to a length of 8 mm. See figure C. Needles are not included with your PenMate or Pen. •2 alcohol swabs. See figure C.•a sharps disposal container. See figure C. See ”How should I dispose of my Pen and needles” at the end of these instructions for information on how to dispose of used needles. Figure A |  |
+| This Instructions for Use has been approved by the U.S. Food and Drug Administration.PATENT Information: http://novonordisk-us.com/patients/products/product-patents.htmlNorditropin® and FlexPro® are registered trademarks of Novo Nordisk Health Care AG.Novo Nordisk® and PenMate® are registered trademarks of Novo Nordisk A/S.© 2004-2017 Novo Nordisk Health Care AGFor further information contact:Novo Nordisk Inc.800 Scudders Mill RoadPlainsboro, NJ 08536, USA1-888-668-6444norditropin-us.comManufactured by:Novo Nordisk A/SDK-2880 BagsvaerdDenmarkRevised 08/2017 |  |
+| INSTRUCTIONS FOR USENorditropin® (Nor-dee-tro-pin) FlexPro®(somatropin) injectionPrefilled Pen with PenMate®Read this Instructions for Use before you start using your Pen with PenMate. •PenMate hides the needle when you inject your Norditropin growth hormone with Norditropin FlexPro 5 mg, 10 mg, and 15 mg Pens so that you cannot see it. Use your PenMate only after you have been trained by a healthcare provider. •Blind people or people with severe vision problems should only use the PenMate and Pen with help from another person with good eyesight who is trained to use the PenMate and Pen. •The figures in these instructions show PenMate being used with a Norditropin FlexPro 5 mg Pen and a NovoFine needle that is 8 mm long. Even if you are using a 10 mg or 15 mg Pen or a different needle that is 8 mm long the instructions are the same. •Do not share your Norditropin Pen and needles with another person. You may give another person an infection or get an infection from them. Supplies you will need to use your Pen with PenMate: •1 PenMate. See figure A.•1 Norditropin FlexPro Pen. See figure B. PenMate does not work with other injection devices.•1 disposable needle up to a length of 8 mm. See figure C. Needles are not included with your PenMate or Pen. •2 alcohol swabs. See figure C.•a sharps disposal container. See figure C. See ”How should I dispose of my Pen and needles” at the end of these instructions for information on how to dispose of used needles. Figure A |  |
 
 Figure B
 
@@ -1377,17 +1358,23 @@ Novo Nordisk Inc.
 
 800 Scudders Mill Road
 
-Plainsboro, NJ 08536
+Plainsboro, NJ 08536, USA
 
-Visit norditropin.com
+Visit norditropin-us.com
 
 Or call: 1-888-668-6444
+
+PATENT Information: http://novonordisk-us.com/patients/products/product-patents.html
 
 Novo Nordisk®, PenMate® and NovoFine® are registered trademarks of Novo Nordisk A/S.
 
 Norditropin® and FlexPro® are registered trademarks of Novo Nordisk Health Care AG.
 
+© 2015-2017 Novo Nordisk A/S
+
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
+
+Manufactured by:
 
 Novo Nordisk A/S
 
@@ -1397,4 +1384,4 @@ DK-2880 Bagsværd
 
 Denmark
 
-Issued: June 2015
+Revised: 08/2017

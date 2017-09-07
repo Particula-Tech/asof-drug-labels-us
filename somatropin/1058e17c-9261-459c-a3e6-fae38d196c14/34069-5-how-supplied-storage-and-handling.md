@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Norditropin FlexPro prefilled pens [somatropin (rDNA origin) injection] 5 mg/1.5 mL, 10 mg/1.5 mL, 15 mg/1.5 mL, and 30 mg/3 mL:
+Norditropin FlexPro prefilled pens (somatropin) injection 5 mg/1.5 mL, 10 mg/1.5 mL, 15 mg/1.5 mL, and 30 mg/3 mL:
 
 Norditropin FlexPro is individually cartoned as 5 mg/1.5 mL, 10 mg/1.5 mL, 15 mg/1.5 mL or 30 mg/3 mL prefilled pens.
 

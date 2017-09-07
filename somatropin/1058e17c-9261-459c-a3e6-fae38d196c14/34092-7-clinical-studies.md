@@ -139,7 +139,7 @@ Two representative studies, one in adult onset (AO) GHD patients and a second in
 
 Study 1
 
-A single center, randomized, double-blind, placebo-controlled, parallel-group, six month clinical trial was conducted in 31 adults with AO GHD comparing the effects of Norditropin [somatropin (rDNA origin) for injection] and placebo on body composition.
+A single center, randomized, double-blind, placebo-controlled, parallel-group, six month clinical trial was conducted in 31 adults with AO GHD comparing the effects of Norditropin (somatropin) for injection and placebo on body composition.
 Patients in the active treatment arm were treated with Norditropin 0.017 mg/kg/day (not to exceed 1.33 mg/day).
 The changes from baseline in lean body mass (LBM) and percent total body fat (TBF) were measured by total body potassium (TBP) after 6 months.
 

@@ -2,7 +2,7 @@
 
 Norditropin® FlexPro®
 
-Somatropin (rDNA origin) injection
+(somatropin) injection
 
 5 mg/1.5 mL Prefilled Pen
 
@@ -26,7 +26,7 @@ List: 770421
 
 Norditropin® FlexPro®
 
-Somatropin (rDNA origin) injection
+(somatropin) injection
 
 10 mg/1.5 mL Prefilled Pen
 
@@ -50,7 +50,7 @@ List: 770521
 
 Norditropin® FlexPro®
 
-Somatropin (rDNA origin) injection
+(somatropin) injection
 
 15 mg/1.5 mL Prefilled Pen
 
@@ -74,7 +74,7 @@ List: 770821
 
 Norditropin® FlexPro®
 
-Somatropin (rDNA origin) injection
+(somatropin) injection
 
 30 mg / 3 mLPrefilled Pen
 
