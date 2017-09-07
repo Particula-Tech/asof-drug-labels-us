@@ -4,8 +4,6 @@ NDC 0004-0068-01
 
 Klonopin® (clonazepam)
 
-CIV
-
 0.5 mg
 
 Each tablet contains 0.5 mg clonazepam.
@@ -17,13 +15,13 @@ For additional Medication Guides call 1-877-436-3683 or visit www.gene.com/gene/
 
 Genentech
 
+10176218
+
 # PRINCIPAL DISPLAY PANEL - 1 mg Tablet Bottle Label
 
 NDC 0004-0058-01
 
 Klonopin® (clonazepam)
-
-CIV
 
 1 mg
 
@@ -36,13 +34,13 @@ For additional Medication Guides call 1-877-436-3683 or visit www.gene.com/gene/
 
 Genentech
 
+10176282
+
 # PRINCIPAL DISPLAY PANEL - 2 mg Tablet Bottle Label
 
 NDC 0004-0098-01
 
 Klonopin® (clonazepam)
-
-CIV
 
 2 mg
 
@@ -54,3 +52,5 @@ For additional Medication Guides call 1-877-436-3683 or visit www.gene.com/gene/
 100 tablets Rx only
 
 Genentech
+
+10176283

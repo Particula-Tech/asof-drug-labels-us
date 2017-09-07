@@ -10,4 +10,4 @@ Revised: December 2016
 
 © 2016 Genentech, Inc. All rights reserved.
 
-Representative sample of labeling (see HOW SUPPLIED section for complete listing):
+Representative sample of labeling (see the HOW SUPPLIED section for complete listing):

@@ -7,7 +7,7 @@ Because of these risks, reserve concomitant prescribing of benzodiazepines and o
 
 Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioids alone.
 If a decision is made to prescribe Klonopin concomitantly with opioids, prescribe the lowest effective dosages and minimum durations of concomitant use, and follow patients closely for signs and symptoms of respiratory depression and sedation.
-Advise both patients and caregivers about the risks of respiratory depression and sedation when Klonopin is used with opioids (see PRECAUTIONS: Information for Patients and PRECAUTIONS: Drug Interactions).
+Advise both patients and caregivers about the risks of respiratory depression and sedation when Klonopin is used with opioids (see PRECAUTIONS: Information for Patients) and PRECAUTIONS: Drug Interactions).
 
 ## Interference With Cognitive and Motor Performance
 
