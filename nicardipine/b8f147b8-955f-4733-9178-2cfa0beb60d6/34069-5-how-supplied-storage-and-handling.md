@@ -9,6 +9,8 @@ These are supplied in bottles of 90, 100, 500 and 1000.
 Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 Dispense contents in a tight, light-resistant container with a child-resistant closure.
 
+The brands listed are trademarks of their respective owners.
+
 Manufactured by
 
 Epic Pharma, LLC
@@ -17,8 +19,9 @@ Laurelton, NY 11413
 
 Manufactured in USA
 
-Revised December 2014
+Rev.
+08-2017-00
 
-MF501REV12/14
+MF501REV08/17
 
 OE1084
