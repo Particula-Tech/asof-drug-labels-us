@@ -1,11 +1,11 @@
-# Instructions for Use SOLIQUA™ 100/33 (So - lee - kwa) (insulin glargine and lixisenatide injection) for subcutaneous use
+# INSTRUCTIONS FOR USE SOLIQUA® 100/33 (So - lee - kwa) (insulin glargine and lixisenatide injection) for subcutaneous use
 
-Read these instructions carefully before using your SOLIQUA™ 100/33 pen.
+Read these instructions carefully before using your SOLIQUA 100/33 pen.
 
 Do not share your SOLIQUA 100/33 pen with other people, even if the needle has been changed.
 You may give other people a serious infection, or get a serious infection from them.
 
-SOLIQUA 100/33 is an injectable prescription medicine that contains 2 diabetes medicines, insulin glargine and lixisenatide in a SoloStar® pen.
+SOLIQUA 100/33 is an injectable prescription medicine that contains 2 diabetes medicines, insulin glargine and lixisenatide in a SoloStar pen.
 The drug combination in this pen is only for the daily injection of 15 to 60 units of SOLIQUA 100/33.
 Each unit dialed contains 1 unit insulin glargine and 0.33 mcg lixisenatide.
 
@@ -17,7 +17,7 @@ Important information
 - Always carry a spare pen and spare needles in case they are lost or stop working.
 - Do not reuse needles.
   Always use a new sterile needle for each injection.
-  This helps stop blocked needles, contamination and injection.
+  This helps stop blocked needles, contamination and infection.
   If you reuse needles, you might not get your dose (underdosing) or get too much (overdosing).
 - Do not use SOLIQUA 100/33 in an insulin pump or inject SOLIQUA 100/33 into your vein (intravenously) or muscle (intramuscularly).
 - Do not mix SOLIQUA 100/33 in any other type of insulin or liquid medicine prior to injection.
@@ -40,7 +40,7 @@ Supplies you will need:
 - 1 SOLIQUA 100/33 pen
 - 1 new sterile needle (see Step 2 "Attach a new needle")
 - 1 alcohol swab
-- a puncture-resistant container for used needles and pens (see "Throwing your pen away" at the end of these Instructions for Use)
+- a puncture-resistant container for used needles and pens (see "Throwing your pen away" at the end of this Instructions for Use)
 
 Places to inject
 
@@ -59,7 +59,7 @@ Cold medicine is more painful to inject.
 - 1BPull off the pen cap.
 
 - 1CCheck that the medicine is clear and to almost colorless.
-  - If you see small particles, return it to your pharmacy for a replacement
+  - If you see small particles, return it to your pharmacy for a replacement.
 
 - 1DWipe the rubber seal with an alcohol swab.
 
@@ -191,7 +191,7 @@ STEP 6: Remove the needle
   Turn your pen several times with your other hand to remove the needle.
   - Try again if the needle does not come off the first time.
 
-- 6CThrow away the used needle in a puncture-resistant container (see "Throwing your pen away" at the end of these Instructions for Use).
+- 6CThrow away the used needle in a puncture-resistant container (see "Throwing your pen away" at the end of this Instructions for Use).
 
 - 6DPut your pen cap back on.
   - Do not put the pen back in the refrigerator.
@@ -243,14 +243,14 @@ Throwing your pen away
   - properly labeled to warn of hazardous waste inside the container.
 - When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
   There may be state or local laws about how you should throw away used needles and syringes.
-  For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA's website at: http://www.fda.gov/safesharpsdisposal.
-
-sanofi-aventis U.S. LLC; Bridgewater, NJ 08807 A SANOFI COMPANY
-
-©2016 sanofi-aventis U.S. LLC
-
-SOLIQUA and SoloStar are trademarks of sanofi-aventis U.S. LLC.
+  For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA's website at: http://www.fda.gov/safesharpsdisposal
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Approved: November 2016
+sanofi-aventis U.S. LLC; Bridgewater, NJ 08807 A SANOFI COMPANY
+
+©2017 sanofi-aventis U.S. LLC
+
+SOLIQUA and SoloStar are trademarks of sanofi-aventis U.S. LLC.
+
+Approved: August 2017

@@ -3,7 +3,7 @@
 ## 5.1 Anaphylaxis and Serious Hypersensitivity Reactions
 
 In clinical trials of lixisenatide, a component of SOLIQUA 100/33, there have been cases of anaphylaxis (frequency of 0.1% or 10 cases per 10,000 patient-years) and other serious hypersensitivity reactions including angioedema.
-Severe, life-threatening, generalized allergy, including anaphylaxis, generalized skin reactions, angioedema, bronchospasm, hypotension, and shock can occur with insulins, including insulin glargine, a component of SOLIQUA 100/33 [see Adverse Reactions (6.1)].
+Severe, life-threatening, generalized allergic reactions, including anaphylaxis, generalized skin reactions, angioedema, bronchospasm, hypotension, and shock can occur with insulins, including insulin glargine, a component of SOLIQUA 100/33 [see Adverse Reactions (6.1)].
 
 Inform and closely monitor patients with a history of anaphylaxis or angioedema with another GLP-1 receptor agonist for allergic reactions, because it is unknown whether such patients will be predisposed to anaphylaxis with lixisenatide.
 SOLIQUA 100/33 is contraindicated in patients with known hypersensitivity to lixisenatide or insulin glargine [see Contraindications (4)].

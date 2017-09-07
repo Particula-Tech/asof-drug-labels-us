@@ -36,6 +36,8 @@ For these reasons, comparing rates of hypoglycemia in clinical trials for SOLIQU
 
 In the SOLIQUA 100/33 program, severe hypoglycemia was defined as an event requiring assistance of another person to actively administer carbohydrate, glucagon, or other resuscitative actions and documented symptomatic hypoglycemia was defined as an event with typical symptoms of hypoglycemia accompanied by a self-monitored plasma glucose value equal to or less than 70 mg/dL (see Table 4).
 
+No clinically important differences in risk of severe hypoglycemia between SOLIQUA 100/33 and comparators were observed in clinical trials.
+
 Table 4: Severe or Documented Symptomatic Hypoglycemic Episodes in SOLIQUA-Treated Patients with T2DM
 
 |  | SOLIQUA 100/33 Study A N=469 | SOLIQUA 100/33 Study B N=365 |
@@ -79,7 +81,7 @@ However, long-term glycemic control decreases the risk of diabetic retinopathy a
 
 Peripheral Edema
 
-Some patients taking insulin glargine, a component of SOLIQUA 100/30 have experienced sodium retention and edema, particularly if previously poor metabolic control is improved by intensified insulin therapy.
+Some patients taking insulin glargine, a component of SOLIQUA 100/33 have experienced sodium retention and edema, particularly if previously poor metabolic control is improved by intensified insulin therapy.
 
 Weight Gain
 
