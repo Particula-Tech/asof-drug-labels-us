@@ -5,8 +5,8 @@
 Risk Summary
 
 Available data do not reliably inform the association of ZOFRAN and adverse fetal outcomes.
-Published epidemiological studies on the association between ondansetron and fetal outcomes have reported inconsistent findings and have important methodological limitations hindering interpretation [see Data].
-Reproductive studies in rats and rabbits did not show evidence of harm to the fetus when ondansetron was administered during organogenesis at approximately 6 and 24 times the maximum recommended human oral dose of 24 mg/day, based on body surface area, respectively [see Data].
+Published epidemiological studies on the association between ondansetron and fetal outcomes have reported inconsistent findings and have important methodological limitations hindering interpretation (see Data).
+Reproductive studies in rats and rabbits did not show evidence of harm to the fetus when ondansetron was administered during organogenesis at approximately 6 and 24 times the maximum recommended human oral dose of 24 mg/day, based on body surface area, respectively (see Data).
 
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
 In the US general population, the estimated background risk of major birth defects and miscarriages in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.

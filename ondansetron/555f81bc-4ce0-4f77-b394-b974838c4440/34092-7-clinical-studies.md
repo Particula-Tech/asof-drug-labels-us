@@ -47,7 +47,7 @@ ZOFRAN 8 mg three times daily is not a recommended regimen for the treatment of 
 Treatment response was based on the total number of emetic episodes over the 3-day trial period.
 See Table 8 for the details of the dosage regimens studied and results of this trial.
 
-Table 8 - Emetic Episodes: Treatment Response after ZOFRAN Tablets Administered Twice a Day and Three Times a Day
+Table 8: Emetic Episodes - Treatment Response after ZOFRAN Tablets Administered Twice a Day and Three Times a Day
 
 |  | ZOFRAN Tablets |  |
 | --- | --- | --- |

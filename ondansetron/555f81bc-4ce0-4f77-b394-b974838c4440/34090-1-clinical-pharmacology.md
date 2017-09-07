@@ -89,7 +89,7 @@ However, the mean plasma clearance of ondansetron was reduced by about 50% in pa
 The reduction in clearance was variable and not consistent with an increase in half-life [see Use in Specific Populations (8.7)].
 
 Hepatic Impairment: In patients with mild-to-moderate hepatic impairment, clearance is reduced 2-fold and mean half-life is increased to 11.6 hours compared with 5.7 hours in healthy subjects.
-In patients with severe hepatic impairment (Child-Pugh score of 10 or greater), clearance is reduced 2- fold to 3- fold and apparent volume of distribution is increased with a resultant increase in half-life to 20 hours [see Dosage and Administration (2.2), Use in Specific Populations (8.6)].
+In patients with severe hepatic impairment (Child-Pugh score of 10 or greater), clearance is reduced 2-fold to 3-fold and apparent volume of distribution is increased with a resultant increase in half-life to 20 hours [see Dosage and Administration (2.2), Use in Specific Populations (8.6)].
 
 Drug Interaction Studies
 
