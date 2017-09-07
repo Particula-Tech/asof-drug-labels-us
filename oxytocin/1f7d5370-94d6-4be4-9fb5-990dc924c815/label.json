@@ -1,11 +1,19 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA018245"
+  ],
   "inn": "oxytocin",
-  "labeler": "Sandoz Pharmaceuticals Corporation",
+  "labeler": "Novartis Pharmaceuticals Corporation",
   "package_ndcs": [
     "0078-0060-04"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "syntocinon",
+      "name": "Syntocinon"
+    }
+  ],
   "setid": "1f7d5370-94d6-4be4-9fb5-990dc924c815",
   "source": "dailymed"
 }
