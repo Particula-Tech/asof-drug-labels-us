@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA208944"
+  ],
+  "inn": "amantadine",
+  "labeler": "Adamas Pharma, LLC",
+  "package_ndcs": [
+    "70482-085-60",
+    "70482-170-60"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, COATED PELLETS",
+      "generic": "amantadine",
+      "name": "GOCOVRI"
+    }
+  ],
+  "setid": "82ff865f-78f3-4c94-b6a9-727a54944b28",
+  "source": "dailymed"
+}
