@@ -44,16 +44,21 @@ Families and caregivers of patients being treated with antidepressants for major
 Such monitoring should include daily observation by families and caregivers.
 Prescriptions for bupropion hydrochloride extended-release tablets (XL) should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
 
-## 5.2 Neuropsychiatric Symptoms and Suicide Risk in Smoking Cessation Treatment
+## 5.2 Neuropsychiatric Adverse Events and Suicide Risk in Smoking Cessation Treatment
 
 Bupropion hydrochloride extended-release tablets (XL) are not approved for smoking cessation treatment; however, bupropion HCl sustained-release is approved for this use.
 Serious neuropsychiatric symptoms have been reported in patients taking bupropion for smoking cessation.
-These have included changes in mood (including depression and mania), psychosis, hallucinations, paranoia, delusions, homicidal ideation, hostility, agitation, aggression, anxiety, and panic, as well as suicidal ideation, suicide attempt, and completed suicide [see Boxed Warning and Adverse Reactions (6.2)].
-Observe patients for the occurrence of neuropsychiatric reactions.
-Instruct patients to contact a healthcare professional if such reactions occur.
+These postmarketing reports have included changes in mood (including depression and mania), psychosis, hallucinations, paranoia, delusions, homicidal ideation, aggression, hostility, agitation, anxiety, and panic, as well as suicidal ideation, suicide attempt, and completed suicide [see Adverse Reactions (6.2)].
+Some patients who stopped smoking may have been experiencing symptoms of nicotine withdrawal, including depressed mood.
+Depression, rarely including suicidal ideation, has been reported in smokers undergoing a smoking cessation attempt without medication.
+However, some of these adverse events occurred in patients taking bupropion who continued to smoke.
 
-In many of these cases, a causal relationship to bupropion treatment is not certain, because depressed mood can be a symptom of nicotine withdrawal.
-However, some of the cases occurred in patients taking bupropion who continued to smoke.
+Neuropsychiatric adverse events occurred in patients without and with pre-existing psychiatric disease; some patients experienced worsening of their psychiatric illnesses.
+Observe patients for the occurrence of neuropsychiatric adverse events.
+Advise patients and caregivers that the patient should stop taking bupropion hydrochloride extended-release tablets (XL) and contact a healthcare provider immediately if agitation, depressed mood, or changes in behavior or thinking that are not typical for the patient are observed, or if the patient develops suicidal ideation or suicidal behavior.
+The healthcare provider should evaluate the severity of the adverse events and the extent to which the patient is benefiting from treatment, and consider options including continued treatment under closer monitoring, or discontinuing treatment.
+In many postmarketing cases, resolution of symptoms after discontinuation of bupropion was reported.
+However, the symptoms persisted in some cases; therefore, ongoing monitoring and supportive care should be provided until symptoms resolve.
 
 ## 5.3 Seizure
 
@@ -132,3 +137,8 @@ In addition, there have been rare, spontaneous postmarketing reports of erythema
 Instruct patients to discontinue bupropion hydrochloride extended-release tablets (XL) and consult a health care provider if they develop an allergic or anaphylactoid/anaphylactic reaction (e.g., skin rash, pruritus, hives, chest pain, edema, and shortness of breath) during treatment.
 
 There are reports of arthralgia, myalgia, fever with rash and other symptoms of serum sickness suggestive of delayed hypersensitivity.
+
+## 5.9 Risk of Allergic Reactions due to Tartrazine
+
+This product contains FD&C Yellow No. 5 (tartrazine) which may cause allergic-type reactions (including bronchial asthma) in certain susceptible persons.
+Although the overall incidence of FD&C Yellow No. 5 (tartrazine) sensitivity in the general population is low, it is frequently seen in patients who also have aspirin hypersensitivity.

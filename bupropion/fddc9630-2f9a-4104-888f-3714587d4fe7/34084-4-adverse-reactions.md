@@ -3,7 +3,7 @@
 The following adverse reactions are discussed in greater detail in other sections of the labeling:
 
 - Suicidal thoughts and behaviors in children, adolescents, and young adults [see Warnings and Precautions (5.1)]
-- Neuropsychiatric symptoms and suicide risk in smoking cessation treatment [see Warnings and Precautions (5.2)]
+- Neuropsychiatric adverse events and suicide risk in smoking cessation treatment [see Warnings and Precautions (5.2)]
 - Seizure [see Warnings and Precautions (5.3)]
 - Hypertension [see Warnings and Precautions (5.4)]
 - Activation of mania or hypomania [see Warnings and Precautions (5.5)]
@@ -23,7 +23,7 @@ Adverse reactions that occurred in at least 5% of patients treated with bupropio
 
 400 mg/day of bupropion HCl sustained-release: abdominal pain, agitation, anxiety, dizziness, dry mouth, insomnia, myalgia, nausea, palpitation, pharyngitis, sweating, tinnitus, and urinary frequency.
 
-Bupropion hydrochloride extended-release tablets (XL) has been demonstrated to have similar bioavailability both to the immediate-release and sustained-release formulations of bupropion.
+Bupropion hydrochloride extended-release tablets (XL) have been demonstrated to have similar bioavailability both to the immediate-release and sustained-release formulations of bupropion.
 The information included under this subsection and under the subsection 6.2 is based primarily on data from controlled clinical trials with the sustained-release and extended release formulations of bupropion hydrochloride.
 
 Major Depressive Disorder
@@ -48,7 +48,7 @@ Reactions resulting in discontinuation, (in addition to those listed above for t
 Adverse Reactions Occurring at an Incidence of >1% in Patients Treated with Bupropion HCl Immediate-Release or Bupropion HCl Sustained-Release in MDD
 
 Table 3 summarizes the adverse reactions that occurred in placebo-controlled trials in patients treated with bupropion HCl sustained-release 300 mg/day and 400 mg/day.
-These include reactions that occurred in either the 300 mg or 400 mg group at an incidence of 1% or more and were more frequent than in the placebo group are included.
+These include reactions that occurred in either the 300 mg or 400 mg group at an incidence of 1% or more and were more frequent than in the placebo group.
 
 Table 3: Adverse Reactions in Placebo-Controlled Trials in Patients with MDD
 
