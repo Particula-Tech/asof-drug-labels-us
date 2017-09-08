@@ -1,19 +1,7 @@
-# PRINCIPAL DISPLAY PANEL – 10 mg Bottle
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
-reglan ® (metoclopramide tablets, USP) 10 mg
+Reglan® (metoclopramide) Tablets USP, 5 mg NDC 62559-165-01 Rx only 100 tablets
 
-NDC 62559-166-01
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
-Rx Only
-
-100 Tablets
-
-# PRINCIPAL DISPLAY PANEL – 5 mg Bottle
-
-reglan ® (metoclopramide tablets, USP) 5 mg
-
-NDC 62559-165-01
-
-Rx Only
-
-100 Tablets
+Reglan® (metoclopramide) Tablets USP, 10 mg NDC 62559-166-01 Rx only 100 tablets

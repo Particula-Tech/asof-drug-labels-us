@@ -1,12 +1,8 @@
 # WARNING: TARDIVE DYSKINESIA
 
-Treatment with metoclopramide can cause tardive dyskinesia, a serious movement disorder that is often irreversible.
-The risk of developing tardive dyskinesia increases with duration of treatment and total cumulative dose.
-
-Metoclopramide therapy should be discontinued in patients who develop signs or symptoms of tardive dyskinesia.
-There is no known treatment for tardive dyskinesia.
-In some patients, symptoms may lessen or resolve after metoclopramide treatment is stopped.
-
-Treatment with metoclopramide for longer than 12 weeks should be avoided in all but rare cases where therapeutic benefit is thought to outweigh the risk of developing tardive dyskinesia.
-
-See WARNINGS
+- •Reglan can cause tardive dyskinesia (TD), a serious movement disorder that is often irreversible.
+  There is no known treatment for TD.
+  The risk of developing TD increases with duration of treatment and total cumulative dosage [see Warnings and Precautions (5.1)].
+- •Discontinue Reglan in patients who develop signs or symptoms of TD.
+  In some patients, symptoms may lessen or resolve after Reglan is stopped [see Warnings and Precautions (5.1)].
+- •Avoid treatment with Reglan for longer than 12 weeks because of the increased risk of developing TD with longer-term use [see Warnings and Precautions (5.1) and Dosage and Administration (2.2, 2.3)].

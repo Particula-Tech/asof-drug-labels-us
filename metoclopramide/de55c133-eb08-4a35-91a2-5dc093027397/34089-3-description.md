@@ -1,22 +1,17 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
-For oral administration, reglan® tablets (metoclopramide tablets, USP) 10 mg are white, scored, capsule-shaped tablets engraved “REGLAN” on one side and “ANI 10” on the opposite side.
+Metoclopramide hydrochloride, the active ingredient of Reglan, is a dopamine-2 receptor antagonist.
+Metoclopramide hydrochloride (metoclopramide monohydrochloride monohydrate) is a white crystalline, odorless substance, freely soluble in water.
+Its chemical name is 4-amino-5-chloro-N-[2-(diethylamino)ethyl]-2-methoxy benzamide monohydrochloride monohydrate.
 
-Each tablet contains: Metoclopramide base..................................................
-10 mg (as the monohydrochloride monohydrate)
-
-Inactive Ingredients Magnesium Stearate, Mannitol, Microcrystalline Cellulose, Stearic Acid.
-
-reglan® tablets (metoclopramide tablets, USP) 5 mg are green, elliptical-shaped tablets engraved “REGLAN” over “5” on one side and “ANI” on the opposite side.
-
-Each tablet contains: Metoclopramide base....................................................
-5 mg (as the monohydrochloride monohydrate)
-
-Inactive Ingredients
-
-Corn starch, D&C Yellow 10 Aluminum Lake, FD&C Blue 1 Aluminum Lake, Lactose, Microcrystalline Cellulose, Silicon Dioxide, Stearic Acid.
-
-Metoclopramide hydrochloride is a white crystalline, odorless substance, freely soluble in water.
-Chemically, it is 4-amino-5-chloro-N-[2-(diethylamino)ethyl]-2-methoxy benzamide monohydrochloride monohydrate.
-Its molecular formula is C14H22ClN3O2•HCl•H2O.
+The molecular formula is C14H22ClN3O2•HCl•H2O.
 Its molecular weight is 354.3.
+The structural formula is:
+
+Reglan tablets are for oral administration.
+Reglan is available in 5 mg and 10 mg tablets.
+
+- •Each Reglan 5 mg tablet contains 5 mg metoclopramide (equivalent to 5.91 mg of metoclopramide hydrochloride USP).
+  Inactive ingredients consist of corn starch, D&C Yellow 10 Aluminum Lake, FD&C Blue 1 Aluminum Lake, lactose, microcrystalline cellulose, silicon dioxide, and stearic acid.
+- •Each Reglan 10 mg tablet contains 10 mg metoclopramide (equivalent to 11.82 mg metoclopramide hydrochloride USP).
+  Inactive ingredients consist of magnesium stearate, mannitol, microcrystalline cellulose, and stearic acid.
