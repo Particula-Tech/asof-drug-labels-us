@@ -21,7 +21,7 @@ Because the 150 mg cobicistat dose used in the STRIBILD fixed-dose combination t
 Effects on Serum Creatinine
 
 The effect of cobicistat on serum creatinine was investigated in a Phase 1 study in subjects with an eGFR of at least 80 mL per minute (N=18) and with an eGFR of 50 to 79 mL per minute (N=12).
-A statistically significant change of eGFRCG from baseline was observed after 7 days of treatment with cobicistat 150 mg among subjects with an eGFR of at least 80 mL per minute (-9.9 ± 13.1 mL/min) and subjects with an eGFR of 50 to 79 mL per minute (-11.9 ± 7.0 mL per minute).
+A statistically significant change of eGFRCG from baseline was observed after 7 days of treatment with cobicistat 150 mg among subjects with an eGFR of at least 80 mL per minute (−9.9 ± 13.1 mL/min) and subjects with an eGFR of 50 to 79 mL per minute (−11.9 ± 7.0 mL per minute).
 These decreases in eGFRCG were reversible after cobicistat was discontinued.
 The actual glomerular filtration rate, as determined by the clearance of probe drug iohexol, was not altered from baseline following treatment of cobicistat among subjects with an eGFR of at least 50 mL per minute, indicating cobicistat inhibits tubular secretion of creatinine, reflected as a reduction in eGFRCG, without affecting the actual glomerular filtration rate.
 
@@ -136,6 +136,7 @@ Table 9 Drug Interactions: Changes in Pharmacokinetic Parameters for Elvitegravi
 | 20 mL single dose given 4 hours after elvitegravir | 10 | 0.98 (0.88, 1.10) | 0.98 (0.91, 1.06) | 1.00 (0.90, 1.11) |  |  |  |
 | 20 mL single dose given 2 hours before elvitegravir | 11 | 0.82 (0.74, 0.91) | 0.85 (0.79, 0.91) | 0.90 (0.82, 0.99) |  |  |  |
 | 20 mL single dose given 2 hours after elvitegravir | 10 | 0.79 (0.71, 0.88) | 0.80 (0.75, 0.86) | 0.80 (0.73, 0.89) |  |  |  |
+| Atorvastatin | 10 mg single dose | 150 once dailyStudy conducted with GENVOYA (elvitegravir/cobicistat/emtricitabine/tenofovir alafenamide). | Cobicistat 150 once daily | 16 | 0.91 (0.85, 0.98) | 0.92 (0.87, 0.98) | 0.88 (0.81, 0.96) |
 | Carbamazepine | 200 mg twice daily | 150 once daily | Cobicistat 150 once daily | 12 | 0.55 (0.49, 0.61) | 0.31 (0.28, 0.33) | 0.03 (0.02, 0.04) |
 | Famotidine | 40 mg once daily given 12 hours after elvitegravir | 150 once daily | Cobicistat 150 once daily | 10 | 1.02 (0.89, 1.17) | 1.03 (0.95, 1.13) | 1.18 (1.05, 1.32) |
 | 40 mg once daily given simultaneously with elvitegravir | 16 | 1.00 (0.92, 1.10) | 1.03 (0.98, 1.08) | 1.07 (0.98, 1.17) |  |  |  |
@@ -146,6 +147,7 @@ Table 9 Drug Interactions: Changes in Pharmacokinetic Parameters for Elvitegravi
 | 20 mg once daily given 12 hours after elvitegravir | 11 | 1.03 (0.92, 1.15) | 1.05 (0.93, 1.18) | 1.10 (0.92, 1.32) |  |  |  |
 | Rifabutin | 150 mg once every other day | 150 once daily | Cobicistat 150 once daily | 12 | 0.91 (0.84, 0.99) | 0.79 (0.74, 0.85) | 0.33 (0.27, 0.40) |
 | Rosuvastatin | 10 mg single dose | 150 once daily | Cobicistat 150 once daily | 10 | 0.94 (0.83, 1.07) | 1.02 (0.91, 1.14) | 0.98 (0.83, 1.16) |
+| Sertraline | 50 mg single dose | 150 once daily | Cobicistat 150 once daily | 19 | 0.88 (0.82, 0.93) | 0.94 (0.89, 0.98) | 0.99 (0.93, 1.05) |
 | Sofosbuvir/Velpatasvir | 400/100 mg once daily | 150 once dailyStudy conducted with STRIBILD. | Cobicistat 150 once daily,Percent change of cobicistat PK parameters (90% CI) was1.11 (1.06, 1.17) for Cmax, 1.23 (1.17, 1.29) for AUC, and 1.71 (1.54, 1.90) for Cmin. | 24 | 0.93 (0.86, 1.00) | 0.93 (0.87, 0.99) | 0.97 (0.91, 1.04) |
 
 Table 10 Drug Interactions: Changes in Pharmacokinetic Parameters for Tenofovir DF in the Presence of the Coadministered DrugAll interaction studies conducted in healthy volunteers.
@@ -160,17 +162,18 @@ Table 11 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadminist
 | Cmax | AUC | Cmin |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Coadministered Drug | Dose of Coadministered Drug (mg) | Elvitegravir DoseNA=Not Applicable (mg) | Cobicistat Booster Dose (mg) | N | Mean Ratio of Coadministered Drug Pharmacokinetic ParametersNC=Not Calculated (90% CI); No Effect=1.00 |  |  |
+| Atorvastatin | 10 single dose | 150 once dailyStudy conducted with GENVOYA. | 150 once daily | 16 | 2.32 (1.91, 2.82) | 2.60 (2.31, 2.93) | NC |
 | Buprenorphine | 16–24 once daily | 150 once daily | 150 once daily | 17 | 1.12 (0.98, 1.27) | 1.35 (1.18, 1.55) | 1.66 (1.43, 1.93) |
 | Norbuprenorphine | 1.24 (1.03, 1.49) | 1.42 (1.22, 1.67) | 1.57 (1.31, 1.88) |  |  |  |  |
 | Carbamazepine | 200 twice daily | 150 once daily | 150 once daily | 12 | 1.40 (1.32, 1.49) | 1.43 (1.36, 1.52) | 1.51 (1.41, 1.62) |
 | Carbamazepine-10,11-epoxide | 0.73 (0.70, 0.78) | 0.65 (0.63, 0.66) | 0.59 (0.57, 0.61) |  |  |  |  |
 | Desipramine | 50 single dose | NA | 150 once daily | 8 | 1.24 (1.08, 1.44) | 1.65 (1.36, 2.02) | NC |
 | Digoxin | 0.5 single dose | NA | 150 once daily | 22 | 1.41 (1.29, 1.55) | 1.08 (1.00, 1.17) | NC |
-| Ledipasvir | 90/400 once daily | 150 once daily | Cobicistat 150 once daily | 29 | 1.63 (1.51, 1.75) | 1.78 (1.64, 1.94) | 1.91 (1.76, 2.08) |
+| Ledipasvir | 90/400 once daily | 150 once daily | 150 once daily | 29 | 1.63 (1.51, 1.75) | 1.78 (1.64, 1.94) | 1.91 (1.76, 2.08) |
 | Sofosbuvir | 1.33 (1.14, 1.56) | 1.36 (1.21, 1.52) | NA |  |  |  |  |
 | GS-331007The predominant circulating nucleoside metabolite of sofosbuvir. | 1.33 (1.22, 1.44) | 1.44 (1.41, 1.48) | 1.53 (1.47, 1.59) |  |  |  |  |
 | Naloxone | 4–6 once daily | 150 once daily | 150 once daily | 17 | 0.72 (0.61, 0.85) | 0.72 (0.59, 0.87) | NA |
-| Norgestimate/ethinyl estradiol | 0.180/0.215/ 0.250 norgestimate once daily | 150 once dailyStudy conducted with STRIBILD. | 150 once daily | 13 | 2.08 (2.00, 2.17) | 2.26 (2.15, 2.37) | 2.67 (2.43, 2.92) |
+| Norgestimate/ethinyl estradiol | 0.180/0.215/ 0.250 norgestimate once daily | 150 once daily Study conducted with STRIBILD. | 150 once daily | 13 | 2.08 (2.00, 2.17) | 2.26 (2.15, 2.37) | 2.67 (2.43, 2.92) |
 | 0.025 ethinyl estradiol once daily | 0.94 (0.86, 1.04) | 0.75 (0.69, 0.81) | 0.56 (0.52, 0.61) |  |  |  |  |
 | R-Methadone | 80–120 daily | 150 once daily | 150 once daily | 11 | 1.01 (0.91, 1.13) | 1.07 (0.96, 1.19) | 1.10 (0.95, 1.28) |
 | S-Methadone | 0.96 (0.87, 1.06) | 1.00 (0.89, 1.12) | 1.02 (0.89, 1.17) |  |  |  |  |
@@ -180,6 +183,7 @@ Table 11 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadminist
 | Rifabutin | 150 once every other day | 150 once daily | 150 once daily | 12 | 1.09 (0.98, 1.20)Comparison based on rifabutin 300 mg once daily. | 0.92 (0.83, 1.03) | 0.94 (0.85, 1.04) |
 | 25-O-desacetyl-rifabutin | 12 | 4.84 (4.09, 5.74) | 6.25 (5.08, 7.69) | 4.94 (4.04, 6.04) |  |  |  |
 | Rosuvastatin | 10 single dose | 150 once daily | 150 single dose | 10 | 1.89 (1.48, 2.42) | 1.38 (1.14, 1.67) | NC |
+| Sertraline | 50 single dose | 150 once daily | 150 once daily | 19 | 1.14 (0.94, 1.38) | 0.93 (0.77, 1.13) | NA |
 
 ## 12.4 Microbiology
 

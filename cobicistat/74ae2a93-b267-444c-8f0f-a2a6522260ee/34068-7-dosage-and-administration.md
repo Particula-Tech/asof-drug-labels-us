@@ -8,7 +8,7 @@ It is recommended that serum creatinine, serum phosphorous, estimated creatinine
 
 ## 2.2 Recommended Dosage
 
-STRIBILD is a four-drug fixed dose combination product containing 150 mg of elvitegravir, 150 of cobicistat, 200 mg of emtricitabine, and 300 mg of tenofovir DF.
+STRIBILD is a four-drug fixed dose combination product containing 150 mg of elvitegravir, 150 mg of cobicistat, 200 mg of emtricitabine, and 300 mg of tenofovir DF.
 The recommended dosage of STRIBILD is one tablet taken orally once daily with food in adults and pediatric patients 12 years of age and older with a body weight at least 35 kg (at least 77 lbs) and creatinine clearance greater than or equal to 70 mL per minute [see Clinical Pharmacology (12.3)].
 
 ## 2.3 Dosage Adjustment in Patients with Renal Impairment

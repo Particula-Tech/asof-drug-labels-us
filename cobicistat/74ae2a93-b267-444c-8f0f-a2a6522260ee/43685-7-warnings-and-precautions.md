@@ -7,7 +7,7 @@ STRIBILD is not approved for the treatment of chronic HBV infection, and the saf
 
 Severe acute exacerbations of hepatitis B (e.g., liver decompensated and liver failure) have been reported in patients who are coinfected with HBV and HIV-1 and have discontinued emtricitabine or tenofovir DF, two of the components of STRIBILD.
 Patients who are coinfected with HIV-1 and HBV should be closely monitored with both clinical and laboratory follow-up for at least several months after stopping treatment with STRIBILD.
-If appropriate, initiation of anti-hepatitis B therapy may be warranted, especially in patients with advanced liver disease or cirrhosis, since post-treatment exacerbation of hepatitis may lead to hepatic decompensation and liver failure.
+If appropriate, initiation of anti-hepatitis B therapy may be warranted, especially in patients with advanced liver disease or cirrhosis, since posttreatment exacerbation of hepatitis may lead to hepatic decompensation and liver failure.
 
 ## 5.2 New Onset or Worsening Renal Impairment
 
@@ -68,7 +68,7 @@ For more information, please consult the tenofovir DF prescribing information.
 
 The effects of tenofovir DF-associated changes in BMD and biochemical markers on long-term bone health and future fracture risk are unknown.
 Assessment of BMD should be considered for HIV-1 infected adult and pediatric patients who have a history of pathologic bone fracture or other risk factors for osteoporosis or bone loss.
-Although the effect of supplementation with calcium and vitamin D was not studied, such supplementation may be beneficial in all patients.
+Although the effect of supplementation with calcium and Vitamin D was not studied, such supplementation may be beneficial in all patients.
 If bone abnormalities are suspected, then appropriate consultation should be obtained.
 
 Mineralization Defects

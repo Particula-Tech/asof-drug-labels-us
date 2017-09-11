@@ -9,7 +9,7 @@ Healthcare providers are encouraged to register patients by calling the Antiretr
 
 Risk Summary
 
-Prospective pregnancy data from the Antiviral Pregnancy Registry (APR) are not sufficient to adequately assess the risk of birth defects of miscarriage.
+Prospective pregnancy data from the Antiviral Pregnancy Registry (APR) are not sufficient to adequately assess the risk of birth defects or miscarriage.
 However, elvitegravir, cobicistat, emtricitabine, and tenofovir DF use during pregnancy has been evaluated in a limited number of women as reported to the APR.
 Available data from the APR through January 2016 show no birth defects reported for elvitegravir or cobicistat, and no difference in the overall risk of major birth defects for emtricitabine or tenofovir DF compared with the background rate for major birth defects of 2.7% in a U.S. reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP) [see Data].
 

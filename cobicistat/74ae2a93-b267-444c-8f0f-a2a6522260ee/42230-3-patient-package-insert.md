@@ -178,14 +178,3 @@ Inactive ingredients: lactose monohydrate, microcrystalline cellulose, silicon d
 The tablets are film coated with a coating material containing indigo carmine (FD&C blue #2) aluminum lake, polyethylene glycol, polyvinyl alcohol, talc, titanium dioxide, and yellow iron oxide.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-
-Manufactured and distributed by: Gilead Sciences, Inc. Foster City, CA 94404
-
-Revised: May 2017
-
-© 2017 Gilead Sciences, Inc. All rights reserved.
-
-EMTRIVA, STRIBILD, TYBOST, VIREAD, and VITEKTA are trademarks of Gilead Sciences, Inc., or its related companies.
-All other trademarks referenced herein are the property of their respective owners.
-
-203100-GS-010
