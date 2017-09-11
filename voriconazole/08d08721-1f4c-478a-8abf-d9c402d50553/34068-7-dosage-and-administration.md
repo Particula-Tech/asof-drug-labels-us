@@ -6,7 +6,7 @@ VFEND I.V. for Injection requires reconstitution to 10 mg/mL and subsequent dilu
 
 Do not administer as an IV bolus injection.
 
-## 2.2 Use of VFEND I.V. With Other Parenteral Drug Products
+## 2.2 Use of VFEND I.V. with Other Parenteral Drug Products
 
 Blood products and concentrated electrolytes
 
@@ -27,7 +27,7 @@ If infused through a multiple-lumen catheter, TPN needs to be administered using
 Invasive aspergillosis and serious fungal infections due to Fusarium spp. and Scedosporium apiospermum
 
 See Table 1.
-Therapy must be initiated with the specified loading dose regimen of intravenous VFEND on Day 1 followed by the recommended maintenance dose regimen.
+Therapy must be initiated with the specified loading dose regimen of intravenous VFEND on Day 1 followed by the recommended maintenance dose (RMD) regimen.
 Intravenous treatment should be continued for at least 7 days.
 Once the patient has clinically improved and can tolerate medication given by mouth, the oral tablet form or oral suspension form of VFEND may be utilized.
 The recommended oral maintenance dose of 200 mg achieves a voriconazole exposure similar to 3 mg/kg IV; a 300 mg oral dose achieves an exposure similar to 4 mg/kg IV.
@@ -146,7 +146,7 @@ The mildly alkaline nature of this diluent caused slight degradation of VFEND af
 Although refrigerated storage is recommended following reconstitution, use of this diluent is not recommended as a precautionary measure.
 Compatibility with other concentrations is unknown.
 
-## 2.6 Use in Patients With Hepatic Impairment
+## 2.6 Use in Patients with Hepatic Impairment
 
 In the clinical program, patients were included who had baseline liver function tests (ALT, AST) up to 5 times the upper limit of normal.
 No dose adjustment is necessary in patients with this degree of abnormal liver function, but continued monitoring of liver function tests for further elevations is recommended [see Warnings and Precautions (5.9)].
@@ -155,9 +155,9 @@ It is recommended that the standard loading dose regimens be used but that the m
 
 VFEND has not been studied in patients with severe hepatic cirrhosis (Child-Pugh Class C) or in patients with chronic hepatitis B or chronic hepatitis C disease.
 VFEND has been associated with elevations in liver function tests and clinical signs of liver damage, such as jaundice, and should only be used in patients with severe hepatic impairment if the benefit outweighs the potential risk.
-Patients with hepatic insufficiency must be carefully monitored for drug toxicity.
+Patients with hepatic impairment must be carefully monitored for drug toxicity.
 
-## 2.7 Use in Patients With Renal Impairment
+## 2.7 Use in Patients with Renal Impairment
 
 The pharmacokinetics of orally administered VFEND are not significantly affected by renal impairment.
 Therefore, no adjustment is necessary for oral dosing in patients with mild to severe renal impairment [see Clinical Pharmacology (12.3)].
