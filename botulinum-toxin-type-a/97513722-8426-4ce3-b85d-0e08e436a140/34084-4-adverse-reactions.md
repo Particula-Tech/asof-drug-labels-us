@@ -280,6 +280,7 @@ Because adverse reactions are reported voluntarily from a population of uncertai
 
 The following adverse reactions have been identified during post-approval use of DYSPORT®: vertigo, photophobia, influenza-like illness, amyotrophy, burning sensation, facial paresis, hypoesthesia, erythema, and excessive granulation tissue.
 Hypersensitivity reactions including anaphylaxis have been reported.
+Dry eye was observed at <1% during clinical trials and has been reported in post-marketing surveillance in the treatment of glabellar lines.
 
 ## 6.3 Immunogenicity
 
