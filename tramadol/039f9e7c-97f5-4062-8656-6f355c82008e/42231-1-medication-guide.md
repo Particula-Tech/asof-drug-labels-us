@@ -19,11 +19,11 @@ Important information about ULTRAM ER:
   Store ULTRAM ER away from children and in a safe place to prevent stealing or abuse.
   Selling or giving away ULTRAM ER is against the law.
 
-Important Information Guiding Use in Pediatric Patients
+Important Information Guiding Use in Pediatric Patients:
 
 - •Do not give ULTRAM ER to a child younger than 12 years of age.
 - •Do not give ULTRAM ER to a child younger than 18 years of age after surgery to remove the tonsils and/or adenoids.
-- •Avoid giving ULTRAM ER to children between 12 and 18 years of age who have risk factors for breathing problems such as obstructive sleep apnea, obesity, or underlying lung problems.
+- •Avoid giving ULTRAM ER to children between 12 to 18 years of age who have risk factors for breathing problems such as obstructive sleep apnea, obesity, or underlying lung problems.
 
 Do not take ULTRAM ER if you have:
 
@@ -32,9 +32,11 @@ Do not take ULTRAM ER if you have:
 
 Before taking ULTRAM ER, tell your healthcare provider if you have a history of:
 
-- •head injury, seizures ● liver, kidney, thyroid problems
-- •problems urinating ● pancreas or gallbladder problems
+- •head injury, seizures
+- •problems urinating
 - •abuse of street or prescription drugs, alcohol addiction, or mental health problems.
+- •liver, kidney, thyroid problems
+- •pancreas or gallbladder problems
 
 Tell your healthcare provider if you are:
 
@@ -42,9 +44,8 @@ Tell your healthcare provider if you are:
   Prolonged use of ULTRAM ER during pregnancy can cause withdrawal symptoms in your newborn baby that could be life-threatening if not recognized and treated.
 - •breastfeeding.
   Not recommended - it may harm your baby.
-
-taking prescription or over-the-counter medicines, vitamins, or herbal supplements.
-Taking ULTRAM ER with certain other medicines can cause serious side effects that could lead to death.
+- •taking prescription or over-the-counter medicines, vitamins, or herbal supplements.
+  Taking ULTRAM ER with certain other medicines can cause serious side effects that could lead to death.
 
 When taking ULTRAM ER:
 
@@ -83,6 +84,7 @@ For more information go to dailymed.nlm.nih.gov or call1-800-321-4576.
 
 Manufactured by: Valeant Pharmaceuticals International, Inc., Steinbach, MB, R5G 1Z7, Canada and Distributed by: Janssen Pharmaceuticals, Inc., Titusville, NJ 08560 www.valeant.com
 
-- This Medication Guide has been approved by the U.S. Food and Drug Administration.
-  Issued: 08/2017
-- Update p/n
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
+Issued: 08/2017
+
+Update p/n

@@ -11,7 +11,7 @@ ULTRAM ER should be prescribed only by healthcare professionals who are knowledg
 - •Monitor patients closely for respiratory depression, especially within the first 24-72 hours of initiating therapy and following dosage increases with ULTRAM ER and adjust the dosage accordingly [see Warnings and Precautions (5.2)].
 - •Instruct patients to swallow ULTRAM ER tablets whole [see Patient Counseling Information (17)], and to take it with liquid.
   Crushing, chewing, splitting, or dissolving ULTRAM ER tablets will result in uncontrolled delivery of tramadol and can lead to overdose or death [see Warnings and Precautions (5.1)].
-- •ULTRAM ER may be taken without regard to food, It is recommended that ULTRAM ER be taken in a consistent manner [see Clinical Pharmacology (12.3)].
+- •ULTRAM ER may be taken without regard to food, It is recommended that ULTRAM ER be taken in a consistent manner [see Clinical Pharmacology(12.3)].
 
 ## 2.2 Initial Dosage
 

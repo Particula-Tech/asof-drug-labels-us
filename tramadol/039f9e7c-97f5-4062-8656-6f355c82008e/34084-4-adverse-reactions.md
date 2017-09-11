@@ -29,8 +29,22 @@ Table 1: Incidence (%) of patients with adverse reaction rates ≥ 5% from two 1
 
 | MedDRA Preferred Term | ULTRAM ER |  |  |  | Placebo |
 | --- | --- | --- | --- | --- | --- |
-| 100 mg (N=403) n (%) | 200 mg (N=400) n (%) | 300 mg (N=400) n (%) | 400 mg (N=202)n (%) | (N=406) n (%) |  |
-| Dizziness (not vertigo) Nausea Constipation Headache Somnolence Flushing Pruritus Vomiting Insomnia Dry Mouth Diarrhea Asthenia Postural hypotension Sweating increased Anorexia | 64 (16) 61 (15) 49 (12) 49 (12)33 (8) 31 (8) 25 (6) 20 (5) 26 (7)20 (5) 15 (4)14 (4) 7 (2) 6 (2) 3 (1) | 81 (20) 90 (23) 68 (17) 62 (16)45 (11) 40 (10) 34 (9) 29 (7) 32 (8)29 (7)27 (7)24 (6) 17 (4) 8 (2) 7 (2) | 90 (23) 102 (26) 85 (21) 46 (12) 29 (7) 35 (9) 30 (8) 34 (9) 36 (9) 39 (10) 37 (9) 26 (7) 8 (2) 15 (4) 21 (5) | 57 (28) 53 (26) 60 (30) 32 (16)41 (20) 32 (16) 24 (12) 19 (9) 22 (11)18 (9) 10 (5)13 (6) 11 (5) 13 (6) 12 (6) | 28 (7) 32 (8) 17 (4) 43 (11) 7 (2) 18 (4) 4 (1) 11 (3) 13 (3) 6 (2)17 (4) 7 (2) 9 (2) 1 (0) 1 (0) |
+| 100 mg (N=403) n (%) | 200 mg (N=400) n (%) | 300 mg (N=400) n (%) | 400 mg (N=202) n (%) | (N=406) n (%) |  |
+| Dizziness (not vertigo) | 64 (16) | 81 (20) | 90 (23) | 57 (28) | 28 (7) |
+| Nausea | 61 (15) | 90 (23) | 102 (26) | 53 (26) | 32 (8) |
+| Constipation | 49 (12) | 68 (17) | 85 (21) | 60 (30) | 17 (4) |
+| Headache | 49 (12) | 62 (16) | 46 (12) | 32 (16) | 43 (11) |
+| Somnolence | 33 (8) | 45 (11) | 29 (7) | 41 (20) | 7 (2) |
+| Flushing | 31 (8) | 40 (10) | 35 (9) | 32 (16) | 18 (4) |
+| Pruritus | 25 (6) | 34 (9) | 30 (8) | 24 (12) | 4 (1) |
+| Vomiting | 20 (5) | 29 (7) | 34 (9) | 19 (9) | 11 (3) |
+| Insomnia | 26 (7) | 32 (8) | 36 (9) | 22 (11) | 13 (3) |
+| Dry Mouth | 20 (5) | 29 (7) | 39 (10) | 18 (9) | 6 (2) |
+| Diarrhea | 15 (4) | 27 (7) | 37 (9) | 10 (5) | 17 (4) |
+| Asthenia | 14 (4) | 24 (6) | 26 (7) | 13 (6) | 7 (2) |
+| Postural hypotension | 7 (2) | 17 (4) | 8 (2) | 11 (5) | 9 (2) |
+| Sweating increased | 6 (2) | 8 (2) | 15 (4) | 13 (6) | 1 (0) |
+| Anorexia | 3 (1) | 7 (2) | 21 (5) | 12 (6) | 1 (0) |
 
 Adverse reactions With Incidence Rates of 1.0% to <5.0% During Clinical Trials
 

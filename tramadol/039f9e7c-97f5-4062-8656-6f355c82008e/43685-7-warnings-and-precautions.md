@@ -55,7 +55,7 @@ Risk factors include conditions associated with hypoventilation, such as postope
 
 Nursing Mothers
 
-Tramadol is subject to the same polymorphic metabolism as codeine, with ultra-rapid metabolizers of CYP2D6 substrates being potentially exposed to life-threatening levels of Odesmethyltramadol(M1).
+Tramadol is subject to the same polymorphic metabolism as codeine, with ultra-rapid metabolizers of CYP2D6 substrates being potentially exposed to life-threatening levels of O-desmethyltramadol(M1).
 At least one death was reported in a nursing infant who was exposed to high levels of morphine in breast milk because the mother was an ultra-rapid metabolizer of codeine.
 
 A baby nursing from an ultra-rapid metabolizer mother taking ULTRAM ER could potentially be exposed to high levels of M1, and experience life-threatening respiratory depression.
@@ -152,7 +152,7 @@ In tramadol overdose, naloxone administration may increase the risk of seizure.
   Consideration should be given to the use of non-narcotic analgesics in patients who are suicidal or depressed.
   [see Drug Abuse and Dependence (9.2)]
 - •Prescribe ULTRAM ER with caution for patients with a history of misuse and/or are currently taking CNS-active drugs including tranquilizers, or antidepressant drugs, or alcohol in excess, and patients who suffer from emotional disturbance or depression [see Drug Interactions (7)].
-- •Inform patients not to exceed the recommended dose and to limit their intake of alcohol [see Dosage andAdministration (2.1),Warnings and Precautions (5.6, 5.7, 5.13)].
+- •Inform patients not to exceed the recommended dose and to limit their intake of alcohol [see Dosage and Administration (2.1), Warnings and Precautions (5.6, 5.7, 5.13)].
 
 ## 5.10 Adrenal Insufficiency
 

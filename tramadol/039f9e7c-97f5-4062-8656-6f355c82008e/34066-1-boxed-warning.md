@@ -18,9 +18,9 @@ Accidental ingestion of even one dose of ULTRAM ER, especially by children, can 
 Ultra-Rapid Metabolism Of Tramadol And Other Risk Factors For Life-Threatening Respiratory Depression In Children
 
 Life-threatening respiratory depression and death have occurred in children who received tramadol.
-Some of the reported cases followed tonsillectomyand/or adenoidectomy; in at least one case, the child had evidence of beingan ultra-rapid metabolizer of tramadol due to a CYP2D6 polymorphism [see Warnings and Precautions (5.3)].
+Some of the reported cases followed tonsillectomy and/or adenoidectomy; in at least one case, the child had evidence of being an ultra-rapid metabolizer of tramadol due to a CYP2D6 polymorphism [see Warnings and Precautions (5.3)].
 ULTRAM ER is contraindicated in children younger than 12 years of age and in children younger than 18 years of age following tonsillectomy and/or adenoidectomy [see Contraindications (4)].
-Avoid the use of ULTRAM ER inadolescents 12 to 18 years of age who have other risk factors that may increase their sensitivity to the respiratory depressant effects of tramadol.
+Avoid the use of ULTRAM ER in adolescents 12 to 18 years of age who have other risk factors that may increase their sensitivity to the respiratory depressant effects of tramadol.
 [see Warnings and Precautions (5.3)]
 
 Neonatal Opioid Withdrawal Syndrome

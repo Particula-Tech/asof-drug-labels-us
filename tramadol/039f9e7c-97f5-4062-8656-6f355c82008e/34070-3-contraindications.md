@@ -1,6 +1,6 @@
 # 4 CONTRAINDICATIONS
 
-ULTRAM ER is contraindicated for:
+1. ULTRAM ER is contraindicated for:
 
 • all children younger than 12 years of age [see Warnings and Precautions (5.3)]
 

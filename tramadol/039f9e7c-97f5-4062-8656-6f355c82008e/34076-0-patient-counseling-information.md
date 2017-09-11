@@ -19,7 +19,7 @@ Instruct patients to take steps to store ULTRAM ER securely and to dispose of un
 
 Ultra-Rapid Metabolism of Tramadol and Other Risk Factors for Life-threatening Respiratory Depression in Children
 
-Advise caregivers that ULTRAM ER is contraindicated in children younger than 12 years of age and in children younger than 18 years of age following tonsillectomy and/or adenoidectomy.
+Advise caregivers that ULTRAM ER is contraindicated in children younger than 12 years of age and children younger than 18 years of age following tonsillectomy and/or adenoidectomy.
 Advise caregivers of children 12 to18 years of age receiving ULTRAM ER to monitor for signs of respiratory depression [see Warnings and Precautions (5.3)].
 
 Interactions with Benzodiazepines and Other CNS Depressants
@@ -38,8 +38,8 @@ Inform patients that ULTRAM ER may cause seizures with concomitant use of seroto
 
 MAOI Interaction
 
-- Inform patients not to take ULTRAM ER while using any drugs that inhibit monoamine oxidase.
-  Patients should not start MAOIs while taking ULTRAM ER [see Drug Interactions (7)].
+Inform patients not to take ULTRAM ER while using any drugs that inhibit monoamine oxidase.
+Patients should not start MAOIs while taking ULTRAM ER [see Drug Interactions (7)].
 
 Adrenal Insufficiency
 
