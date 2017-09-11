@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA207724"
+  ],
+  "inn": "progesterone",
+  "labeler": "Amneal Pharmaceuticals LLC",
+  "package_ndcs": [
+    "65162-807-10",
+    "65162-807-50",
+    "65162-808-10",
+    "65162-808-50"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "progesterone",
+      "name": "Progesterone"
+    }
+  ],
+  "setid": "4de0715d-a3b9-42fa-b4e4-6371151fd75c",
+  "source": "dailymed"
+}
