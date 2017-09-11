@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA209777"
+  ],
+  "inn": "oxycodone",
+  "labeler": "Daiichi Sankyo Inc.",
+  "package_ndcs": [
+    "65597-501-10",
+    "65597-502-10",
+    "65597-503-10"
+  ],
+  "products": [
+    {
+      "form": "TABLET, COATED",
+      "generic": "oxycodone hydrochloride",
+      "name": "Roxybond"
+    }
+  ],
+  "setid": "2d0eca5d-fe5f-410b-991e-5e365c173703",
+  "source": "dailymed"
+}

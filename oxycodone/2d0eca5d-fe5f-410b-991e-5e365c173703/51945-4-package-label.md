@@ -1,0 +1,5 @@
+# PRINCIPAL DISPLAY PANEL - NDC: 65597-501-10 - 5 mg 100-count Bottle Label
+
+# PRINCIPAL DISPLAY PANEL - NDC: 65597-502-10 - 15 mg 100-count Bottle Label
+
+# PRINCIPAL DISPLAY PANEL - NDC: 65597-503-10 - 30 mg 100-count Bottle Label
