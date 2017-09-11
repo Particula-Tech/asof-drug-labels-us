@@ -27,7 +27,7 @@ In patients taking coumarin anticoagulants and rosuvastatin calcium tablets conc
 
 ## 7.5 Niacin
 
-The risk of skeletal muscle effects maybe enhanced when rosuvastatin calcium tablets are used in combination withlipid-modifying doses (≥1 g/day) of niacin; caution should be used when prescribingwith rosuvastatin calcium tablets [seeWarnings and Precautions (5.1)].
+The risk of skeletal muscle effects may be enhanced when rosuvastatin calcium tablets are used in combination with lipid-modifying doses (≥1 g/day) of niacin; caution should be used when prescribing with rosuvastatin calcium tablets [see Warnings and Precautions (5.1)].
 
 ## 7.6 Fenofibrate
 

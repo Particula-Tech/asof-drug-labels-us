@@ -39,11 +39,12 @@ In pregnant rabbits given 0.3, 1, and 3 mg/kg/day of rosuvastatin from gestation
 
 ## 8.2 Lactation
 
-RiskSummary
+Risk Summary
 
-Rosuvastatin useis contraindicated during breastfeeding [seeContraindications (4)].
-Limited data indicatethat rosuvastatincalcium is present in human milk.There is no available information on the effects of the drug on the breastfedinfant or the effects of the drug on milk production.
-Because of the potentialfor serious adverse reactions in a breastfed infant, advise patients thatbreastfeeding is not recommended during treatment with rosuvastatin calcium.
+Rosuvastatin use is contraindicated during breastfeeding [see Contraindications (4)].
+Limited data indicate that rosuvastatin calcium is present in human milk.
+There is no available information on the effects of the drug on the breastfed infant or the effects of the drug on milk production.
+Because of the potential for serious adverse reactions in a breastfed infant, advise patients that breastfeeding is not recommended during treatment with rosuvastatin calcium.
 
 ## 8.3 Females and Males of Reproductive Potential
 
@@ -59,13 +60,14 @@ However, due to AstraZeneca’s marketing exclusivity rights, this drug product 
 
 ## 8.5 Geriatric Use
 
-Of the 10,275 patients in clinicalstudies with rosuvastatin calcium tablets, 3159 (31%) were 65 years and older,and 698 (6.8%) were 75 years and older.
-No overall differences in safety oreffectiveness were observed between these subjects and younger subjects, andother reported clinical experience has not identified differences in responsesbetween the elderly and younger patients, but greater sensitivity of some olderindividuals cannot be ruled out.Elderly patients are at higher risk ofmyopathy and rosuvastatin calcium tablets should be prescribed with caution inthe elderly [see Warnings and Precautions(5.1) andClinical Pharmacology (12.3)].
+Of the 10,275 patients in clinical studies with rosuvastatin calcium tablets, 3159 (31%) were 65 years and older, and 698 (6.8%) were 75 years and older.
+No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
+Elderly patients are at higher risk of myopathy and rosuvastatin calcium tablets should be prescribed with caution in the elderly [see Warnings and Precautions (5.1) andClinical Pharmacology (12.3)].
 
 ## 8.6 Renal Impairment
 
-Rosuvastatin exposure is not influencedby mild to moderate renal impairment (CLcr ≥30 mL/min/1.73 m2).
-Exposure to rosuvastatin is increased to aclinically significant extent in patients with severe renal impairment (CLcr<30 mL/min/1.73 m2) who are not receiving hemodialysis and doseadjustment is required [see Dosage and Administration(2.5), Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
+Rosuvastatin exposure is not influenced by mild to moderate renal impairment (CLcr ≥30 mL/min/1.73 m2).
+Exposure to rosuvastatin is increased to a clinically significant extent in patients with severe renal impairment (CLcr <30 mL/min/1.73 m2) who are not receiving hemodialysis and dose adjustment is required [see Dosage and Administration(2.5),Warnings and Precautions(5.1) and Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 
@@ -74,5 +76,5 @@ Chronic alcohol liver disease is known to increase rosuvastatin exposure; rosuva
 
 ## 8.8 Asian Patients
 
-Pharmacokinetic studies havedemonstrated an approximate 2-fold increase in median exposure to rosuvastatinin Asian subjects when compared with Caucasian controls.
-Rosuvastatin calciumtablets dosage should be adjusted in Asian patients [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
+Pharmacokinetic studies have demonstrated an approximate 2-fold increase in median exposure to rosuvastatin in Asian subjects when compared with Caucasian controls.
+Rosuvastatin calcium tablets dosage should be adjusted in Asian patients [see Dosage and Administration(2.3) and Clinical Pharmacology (12.3)].

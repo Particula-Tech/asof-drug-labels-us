@@ -1,5 +1,5 @@
 # 10 OVERDOSAGE
 
-There is no specific treatment in theevent of overdose.
-In the event of overdose, the patient should be treatedsymptomatically and supportive measures instituted as required.
-Hemodialysisdoes not significantly enhance clearance of rosuvastatin.
+There is no specific treatment in the event of overdose.
+In the event of overdose, the patient should be treated symptomatically and supportive measures instituted as required.
+Hemodialysis does not significantly enhance clearance of rosuvastatin.

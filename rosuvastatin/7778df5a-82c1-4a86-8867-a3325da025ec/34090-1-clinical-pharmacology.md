@@ -123,7 +123,7 @@ Effect of Rosuvastatin Coadministration on Systemic Exposure to Other Drugs
 |  | Name and D ose | Change in AUC | Change in C max |
 | 40 mg QD for 10 d a ys | W arfarin1 25 mg si n gle dose | R - W arfarin 1 (1-1.1)2 S - W arfarin 1.1 (1-1.1)2 | R - W arfarin 1 (0.9-1)2 S - W arfarin 1 (0.9-1.1)2 |
 | 40 mg QD for 12 d a ys | Di go xin 0.5 mg sin gle dose | 1 (0.9-1.2)2 | 1 (0.9-1.2)2 |
-| 40 mg QD for 28 d a ys | Oral Contra c eptive (ethi n yl est radiol 0.035 mg & n o r g estrel0.180, 0.215 and 0.250mg) QD for 21 Days | EE 1.3 (1.2-1.3)2 NG 1.3 (1.3-1.4)2 | EE1.3 (1.2-1.3)2 NG1.2 (1.1-1.3)2 |
+| 40 mg QD for 28 d a ys | Oral Contra c eptive (ethi n yl est radiol 0.035 mg & n o r g estrel 0.180, 0.215 and 0.250 mg) QD for 21 Days | EE 1.3 (1.2-1.3)2 NG 1.3 (1.3-1.4)2 | EE 1.3 (1.2-1.3)2 NG 1.2 (1.1-1.3)2 |
 
 EE = ethinyl estradiol, NG = norgestrel
 
