@@ -47,11 +47,11 @@ Table 2: Recommended Dose Modifications of Doxorubicin Hydrochloride Liposome In
 | Toxicity | Doxorubicin Hydrochloride Liposome Injection |
 | --- | --- |
 | Fever ≥38°C and ANC <1,000/mm3 | Withhold dose for this cycle if before Day 4;Decrease dose by 25%, if after Day 4 of previous cycle. |
-| On any day of drug administration after Day 1 of each cycle: Platelet count <25,000/mm3Hemoglobin <8 g/dLANC <500/mm3 Withhold dose for this cycle if before Day 4;Decrease dose by 25%, if after Day 4 of previous cycle AND if bortezomib is reduced for hematologic toxicity. |  |
+| On any day of drug administration after Day 1 of each cycle: Platelet count <25,000/mm3Hemoglobin <8 g/dLANC <500/mm3 | Withhold dose for this cycle if before Day 4;Decrease dose by 25%, if after Day 4 of previous cycle AND if bortezomib is reduced for hematologic toxicity |
 | Grade 3 or 4 non-hematologic drug related toxicity | Do not dose until recovered to Grade <2, then reduce dose by 25%. |
 
 For neuropathic pain or peripheral neuropathy, no dosage adjustments are required for doxorubicin hydrochloride liposome injection.
-Refer to bortezomib manufacturer's prescribing information.
+Refer to bortezomib manufacturer’s prescribing information.
 
 ## 2.6 Preparation and Administration
 

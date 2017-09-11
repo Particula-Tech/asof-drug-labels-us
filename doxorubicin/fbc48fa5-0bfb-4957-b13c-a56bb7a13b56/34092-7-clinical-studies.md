@@ -53,20 +53,24 @@ Table 10: Results of Efficacy AnalysesAnalysis based on investigators’ strata 
 ## 14.2 AIDS-Related Kaposi's Sarcoma
 
 Doxorubicin hydrochloride liposome injection was studied in an open-label, single-arm, multicenter study at a dose of 20 mg/m2 every 3 weeks, until disease progression or unacceptable toxicity (Trial 5).
+
 Data is described for a cohort of 77 patients retrospectively identified as having disease progression on prior systemic combination chemotherapy (at least two cycles of a regimen containing at least two of three treatments: bleomycin, vincristine or vinblastine, or doxorubicin) or as being intolerant to such therapy.
 Forty-nine of the 77 (64%) patients had received prior doxorubicin hydrochloride.
+
 The median time on study was 5.1 months (range 1 day to 15 months).
 The median cumulative dose of doxorubicin hydrochloride liposome injection was 154 mg/m2 (range 20 to 620 mg/m2).
 Among the 77 patients, mean age was 38 years (range 24 to 54); 87% were Caucasian, 5% Hispanic, 4% Black, and 4% Asian/Other/Unknown; median CD4 count was 10 cells/mm3; ACTG staging criteria were 78% poor risk for tumor burden, 96% poor risk for immune system, and 58% poor risk for systemic illness at baseline; and mean Karnofsky status score was 74%.
 All patients had cutaneous or subcutaneous lesions, 40% also had oral lesions, 26% pulmonary lesions, and 14% had lesions of the stomach/intestine.
+
 Two analyses of tumor response were used: one based on investigator assessment of changes in lesions based on modified ACTG criteria (partial response defined as no new lesions, sites of disease, or worsening edema; flattening of ≥50% of previously raised lesions or area of indicator lesions decreasing by ≥50%; and response lasting at least 21 days with no prior progression), and one based on changes in up to five prospectively indentified representative indicator lesions (partial response defined as flattening of ≥50% of previously raised indicator lesions, or >50% decrease in the area of indicator lesions and lasting at least 21 days with no prior progression).
+
 Of the 77 patients, 34 were evaluable for investigator assessment and 42 were evaluable for indicator lesion assessment; analyses of tumor responses are shown in Table 11.
 
 Table 11: Response in Patients with RefractoryPatients with disease that progressed on prior combination chemotherapy or who were intolerant to such therapy AIDS-Related Kaposi’s Sarcoma
 
 | Investigator Assessment | All Evaluable Patients (n=34) | Evaluable Patients Who Received Prior Doxorubicin (n=20) |
 | --- | --- | --- |
-| ResponseThere were no complete responses in this population |  |  |
+| ResponseThere were no complete responses in this population. |  |  |
 | Partial (PR) | 27 % | 30 % |
 | Stable | 29 % | 40 % |
 | Progression | 44 % | 30 % |
@@ -77,7 +81,7 @@ Table 11: Response in Patients with RefractoryPatients with disease that progres
 | Median | 43 | 53 |
 | Range | 15 to 133 | 15 to 109 |
 | Indicator Lesion Assessment | All Evaluable Patients (n=42) | Evaluable Patients Who Received Prior Doxorubicin (n=23) |
-| Response |  |  |
+| ResponseThere were no complete responses in this population. |  |  |
 | Partial (PR) | 48 % | 52 % |
 | Stable | 26 % | 30 % |
 | Progression | 26 % | 17 % |

@@ -70,7 +70,7 @@ Skin and Appendages: pruritus, skin discoloration, vesiculobullous rash, maculop
 Special Senses: conjunctivitis, taste perversion, dry eyes.
 Urinary: urinary tract infection, hematuria, vaginal moniliasis.
 Patients With AIDS-Related Kaposi's Sarcoma The safety data described is based on the experience reported in 753 patients with AIDS-related Kaposi’s sarcoma (KS) enrolled in four open-label, uncontrolled trials of doxorubicin hydrochloride liposome injection administered at doses ranging from 10 to 40 mg/m2 every 2 to 3 weeks.
-Demographics of the population were: median age 38.7 years (range 24 to 70)); 99% male; 88% Caucasian, 6% Hispanic, 4% Black, and 2% Asian/other/unknown.
+Demographics of the population were: median age 38.7 years (range 24 to 70); 99% male; 88% Caucasian, 6% Hispanic, 4% Black, and 2% Asian/other/unknown.
 The majority of patients were treated with 20 mg/m2 of doxorubicin hydrochloride liposome injection every 2 to 3 weeks with a median exposure of 4.2 months (range 1 day to 26.6 months).
 The median cumulative dose was 120 mg/m2 (range 3.3 to 798.6 mg/m2); 3% received cumulative doses of greater than 450 mg/m2.
 Disease characteristics were: 61% poor risk for KS tumor burden, 91% poor risk for immune system, and 47% poor risk for systemic illness; 36% were poor risk for all three categories; median CD4 count 21 cells/mm3 (51% less than 50 cells/mm3); mean absolute neutrophil count at study entry approximately 3,000 cells/mm3.
@@ -80,7 +80,7 @@ Tables 5 and 6 summarize adverse reactions reported in patients treated with dox
 
 Table 5: Hematologic Adverse Reactions Reported in Patients With AIDS-Related Kaposi’s Sarcoma
 
-|  | Patients With Refractory or Intolerant AIDS-Related Kaposi’s Sarcoma (n=74This includes a subset of subjects who were retrospectively identified as having disease progression on prior systemic combination chemotherapy (at least 2 cycles of a regimen containing at least 2 of 3 treatments: bleomycin, vincristine or vinblastine, or doxorubicin) or as being intolerant to such therapy.) | Total Patients With AIDS-Related Kaposi’s Sarcoma (n=720This includes only subjects with AIDS-KS who had available data from the 4 pooled trials.) |
+|  | Patients With Refractory or Intolerant AIDS-Related Kaposi’s Sarcoma (n=74This includes a subset of subjects who were retrospectively identified as having disease progression on prior systemic combination chemotherapy (at least 2 cycles of a regimen containing at least 2 of 3 treatments: bleomycin, vincristine or vinblastine, or doxorubicin) or as being intolerant to such therapy.) | Total Patients With AIDS-Related Kaposi’s Sarcoma (n=720This includes only subjects with AIDS-KS who had available adverse event data from the 4 pooled trials.) |
 | --- | --- | --- |
 | Neutropenia |  |  |
 | < 1,000/mm3 | 46% | 49% |
