@@ -8,7 +8,7 @@ The molecular weight of tramadol hydrochloride USP is 299.8.
 It is a white, bitter, crystalline and odorless powder that is readily soluble in water and ethanol and has a pKa of 9.41.
 The n-octanol/water log partition coefficient (logP) is 1.35 at pH 7.
 
-CONZIP capsules contain a total dose of tramadol hydrochloride 100, 200 and 300 mg in a combination of immediate-release and extended-release components.
+CONZIP capsules contain a total dose of tramadol hydrochloride 100, 200, and 300 mg in a combination of immediate-release and extended-release components.
 
 | Dosage | Immediate-release | Extended-release |
 | --- | --- | --- |

@@ -2,7 +2,7 @@ Principal Display Panel – 100 mg Bottle Label
 
 NDC 68025-071-30
 
-Conzip ®
+Conzip®
 
 (tramadol hydrochloride)
 
@@ -22,7 +22,7 @@ Principal Display Panel – 200 mg Bottle Label
 
 NDC 68025-072-30
 
-Conzip ®
+Conzip®
 
 (tramadol hydrochloride)
 
@@ -42,7 +42,7 @@ Principal Display Panel – 300 mg Bottle Label
 
 NDC 68025-073-30
 
-Conzip ®
+Conzip®
 
 (tramadol hydrochloride)
 

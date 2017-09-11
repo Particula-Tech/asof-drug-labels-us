@@ -42,6 +42,9 @@ Effects on the Cardiovascular System
 Tramadol produces peripheral vasodilation, which may result in orthostatic hypotension or syncope.
 Manifestations of histamine release and/or peripheral vasodilation may include pruritus, flushing, red eyes, sweating, and/or orthostatic hypotension.
 
+The effect of oral tramadol on the QTcF interval was evaluated in a double-blind, randomized, four-way crossover, placebo- and positive- (moxifloxacin) controlled study in 68 adult male and female healthy subjects.
+At a 600 mg/day dose (1.5-fold the maximum immediate-release daily dose), the study demonstrated no significant effect on the QTcF interval.
+
 Effects on the Endocrine System
 
 Opioids inhibit the secretion of adrenocorticotropic hormone (ACTH), cortisol, and luteinizing hormone (LH) in humans [see Adverse Reactions (6.2)].
@@ -158,16 +161,16 @@ Dosage adjustment based on sex is not recommended.
 Age: Geriatric Population
 
 The effect of age on pharmacokinetics of CONZIP has not been studied.
-Healthy elderly subjects aged 65 to 75 years administered an immediate-release formulation of tramadol, have plasma concentrations and elimination half-lives comparable to those observed in healthy subjects less than 65 years of age.
+Healthy elderly subjects aged 65 to 75 years administered an immediate-release formulation of tramadol, have plasma concentrations and elimination half-lives comparable to those observed in healthy subjects younger than 65 years of age.
 In subjects over 75 years, mean maximum plasma concentrations are elevated (208 vs. 162 ng/mL) and the mean elimination half-life is prolonged (7 vs. 6 hours) compared to subjects 65 to 75 years of age.
-Adjustment of the daily dose is recommended for patients older than 75 years [see Dosage And Administration (2.3)].
+Adjustment of the daily dose is recommended for patients older than 75 years [see Dosage and Administration (2.3)].
 
 Drug Interaction Studies
 
 Potential for Tramadol to Affect Other Drugs
 
 In vitro studies indicate that tramadol is unlikely to inhibit the CYP3A4-mediated metabolism of other drugs when tramadol is administered concomitantly at therapeutic doses.
-Tramadol does not appear to induce its own metabolism in humans, since observed maximal plasma concentrations after multiple oral doses are higher than expected based on single-dose data.'
+Tramadol does not appear to induce its own metabolism in humans, since observed maximal plasma concentrations after multiple oral doses are higher than expected based on single-dose data.
 
 Poor / Extensive Metabolizers, CYP2D6
 
@@ -188,11 +191,11 @@ The clinical consequences of these findings are unknown.
 
 To evaluate the effect of tramadol, a CYP2D6 substrate on quinidine, an in vitro drug interaction study in human liver microsomes was conducted.
 The results from this study indicate that tramadol has no effect on quinidine metabolism.
-[see Warnings and Precautions (5.1, 5.3), Drug Interactions (7)].
+[see Warnings and Precautions (5.1, 5.5), Drug Interactions (7)].
 
 CYP3A4 Inhibitors and Inducers
 
-Since tramadol is also metabolized by CYP3A4, administration of CYP3A4 inhibitors, such as ketoconazole and erythromycin, or CYP3A4 inducers, such as rifampin and St. John's Wort, with CONZIP may affect the metabolism of tramadol leading to altered tramadol exposure [see Warnings and Precautions (5.1, 5.3).
+Since tramadol is also metabolized by CYP3A4, administration of CYP3A4 inhibitors, such as ketoconazole and erythromycin, or CYP3A4 inducers, such as rifampin and St. John's Wort, with CONZIP may affect the metabolism of tramadol leading to altered tramadol exposure [see Warnings and Precautions (5.1, 5.5).
 Drug Interactions (7)].
 
 Cimetidine

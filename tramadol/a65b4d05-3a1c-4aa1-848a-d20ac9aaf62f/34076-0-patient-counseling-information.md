@@ -18,19 +18,24 @@ Inform patients that accidental ingestion, especially by children, may result in
 [see Warnings and Precautions (5.2)].
 Instruct patients to take steps to store CONZIP securely and to dispose of unused CONZIP in accordance with the local state guidelines and/or regulations.
 
+Ultra-Rapid Metabolism of Tramadol and Other Risk Factors for Life-threatening Respiratory Depression in Children
+
+Advise caregivers that CONZIP is contraindicated in all children younger than 12 years of age and in children younger than 18 years of age following tonsillectomy and/or adenoidectomy.
+Advise caregivers of children ages 12 to18 years of age receiving CONZIP to monitor for signs of respiratory depression [see Warnings and Precautions (5.3)].
+
 Interactions with Benzodiazepines and Other CNS Depressants
 
-Inform patients and caregivers that potentially fatal additive effects may occur if CONZIP is used with benzodiazepines or other CNS depressants, including alcohol, and not to use these concomitantly unless supervised by a healthcare provider [see Warnings and Precautions (5.5), Drug Interactions (7)].
+Inform patients and caregivers that potentially fatal additive effects may occur if CONZIP is used with benzodiazepines or other CNS depressants, including alcohol, and not to use these concomitantly unless supervised by a healthcare provider [see Warnings and Precautions (5.6), Drug Interactions (7)].
 
 Serotonin Syndrome
 
 Inform patients that tramadol could cause a rare but potentially life-threatening condition, particularly during concomitant use with serotonergic drugs.
 Warn patients of the symptoms of serotonin syndrome and to seek medical attention right away if symptoms develop.
-Instruct patients to inform their healthcare provider if they are taking, or plan to take serotonergic medications [see Warnings and Precautions (5.6), Drug Interactions (7)].
+Instruct patients to inform their healthcare provider if they are taking, or plan to take serotonergic medications [see Warnings and Precautions (5.7), Drug Interactions (7)].
 
 Seizures
 
-Inform patients that CONZIP may cause seizures with concomitant use of serotonergic agents (including SSRIs, SNRIs, and triptans) or drugs that significantly reduce the metabolic clearance of tramadol [see Warnings and Precautions (5.7)].
+Inform patients that CONZIP may cause seizures with concomitant use of serotonergic agents (including SSRIs, SNRIs, and triptans) or drugs that significantly reduce the metabolic clearance of tramadol [see Warnings and Precautions (5.8)].
 
 MAOI Interaction
 
@@ -41,7 +46,7 @@ Adrenal Insufficiency
 
 Inform patients that opioids could cause adrenal insufficiency, a potentially life-threatening condition.
 Adrenal insufficiency may present with non-specific symptoms and signs such as nausea, vomiting, anorexia, fatigue, weakness, dizziness, and low blood pressure.
-Advise patients to seek medical attention if they experience a constellation of these symptoms [see Warnings and Precautions (5.9)].
+Advise patients to seek medical attention if they experience a constellation of these symptoms [see Warnings and Precautions (5.10)].
 
 Important Administration Instructions
 
@@ -56,7 +61,7 @@ Instruct patients how to properly take CONZIP, including the following:
 Hypotension
 
 Inform patients that CONZIP may cause orthostatic hypotension and syncope.
-Instruct patients how to recognize symptoms of low blood pressure and how to reduce the risk of serious consequences should hypotension occur (e.g., sit or lie down, carefully rise from a sitting or lying position) [see Warnings and Precautions (5.11)].
+Instruct patients how to recognize symptoms of low blood pressure and how to reduce the risk of serious consequences should hypotension occur (e.g., sit or lie down, carefully rise from a sitting or lying position) [see Warnings and Precautions (5.12)].
 
 Anaphylaxis
 
@@ -67,7 +72,7 @@ Pregnancy
 
 Neonatal Opioid Withdrawal Syndrome
 
-Inform female patients of reproductive potential that prolonged use of CONZIP during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated [see Warnings and Precautions (5.3), Use in Specific Populations (8.1)].
+Inform female patients of reproductive potential that prolonged use of CONZIP during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated [see Warnings and Precautions (5.4), Use in Specific Populations (8.1)].
 
 Embryo-Fetal Toxicity
 
@@ -75,7 +80,7 @@ Inform female patients of reproductive potential that CONZIP can cause fetal har
 
 Lactation
 
-Advise patients that breastfeeding is not recommended during treatment with CONZIP [see Use in Specific Populations (8.2)].
+Advise women that breastfeeding is not recommended during treatment with CONZIP [see Use in Specific Populations (8.2)].
 
 Infertility
 
@@ -85,7 +90,7 @@ It is not known whether these effects on fertility are reversible [see Adverse R
 Driving or Operating Heavy Machinery
 
 Inform patients that CONZIP may impair the ability to perform potentially hazardous activities such as driving a car or operating heavy machinery.
-Advise patients not to perform such tasks until they know how they will react to the medication [see Warnings and Precautions (5.16)].
+Advise patients not to perform such tasks until they know how they will react to the medication [see Warnings and Precautions (5.17)].
 
 Constipation
 
@@ -100,7 +105,7 @@ Advise patients to throw the drug in the household trash following these steps.
 
 Manufactured by: Galephar P.R., Inc. Juncos, Puerto Rico 00777
 
-Distributed by: Vertical Pharmaceuticals, LLC Sayreville, NJ 08872, USA
+Distributed by: Vertical Pharmaceuticals, LLC Bridgewater, NJ 08807, USA
 
 Rev.
-12/2016
+08/2017

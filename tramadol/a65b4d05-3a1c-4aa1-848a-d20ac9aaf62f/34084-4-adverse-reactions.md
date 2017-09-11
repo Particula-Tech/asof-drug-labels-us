@@ -4,16 +4,17 @@ The following serious or otherwise important adverse reactions are described in 
 
 - Addiction, Abuse, and Misuse [see Warnings and Precautions (5.1)]
 - Life-Threatening Respiratory Depression [see Warnings and Precautions (5.2)]
-- Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.3)]
-- Interactions with Benzodiazepines and Other CNS Depressants [see Warnings and Precautions (5.5)]
-- Serotonin Syndrome [see Warnings and Precautions (5.6)]
-- Seizures [see Warnings and Precautions (5.7)]
-- Suicide [see Warnings and Precautions (5.8)]
-- Adrenal Insufficiency [see Warnings and Precautions (5.9)]
-- Severe Hypotension [see Warnings and Precautions (5.11)]
-- Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.13)]
-- Hypersensitivity Reactions [see Warnings and Precautions (5.14)]
-- Withdrawal [see Warnings and Precautions (5.15)]
+- Ultra-Rapid Metabolism of Tramadol and Other Risk Factors for Life-Threatening Respiratory Depression in Children [see Warnings and Precautions (5.3)]
+- Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.4)]
+- Interactions with Benzodiazepines and Other CNS Depressants [see Warnings and Precautions (5.6)]
+- Serotonin Syndrome [see Warnings and Precautions (5.7)]
+- Seizures [see Warnings and Precautions (5.8)]
+- Suicide [see Warnings and Precautions (5.9)]
+- Adrenal Insufficiency [see Warnings and Precautions (5.10)]
+- Severe Hypotension [see Warnings and Precautions (5.12)]
+- Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.14)]
+- Hypersensitivity Reactions [see Warnings and Precautions (5.15)]
+- Withdrawal [see Warnings and Precautions (5.16)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -108,3 +109,6 @@ Adrenal insufficiency: Cases of adrenal insufficiency have been reported with op
 Anaphylaxis: Anaphylaxis has been reported with ingredients contained in CONZIP.
 
 Androgen deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [see Clinical Pharmacology (12.2)].
+
+QT prolongation/torsade de pointes: Cases of QT prolongation and/or torsade de pointes have been reported with tramadol use.
+Many of these cases were reported in patients taking another drug labeled for QT prolongation, in patients with a risk factor for QT prolongation (e.g., hypokalemia), or in overdose setting.
