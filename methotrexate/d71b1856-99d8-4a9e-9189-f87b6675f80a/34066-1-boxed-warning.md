@@ -1,8 +1,6 @@
 # WARNINGS
 
-METHOTREXATE SHOULD BE USED ONLY BY PHYSICIANS WHOSE KNOWLEDGE AND EXPERIENCE INCLUDE THE USE OF ANTIMETABOLITE THERAPY.
-
-BECAUSE OF THE POSSIBILITY OF SERIOUS TOXIC REACTIONS (WHICH CAN BE FATAL):
+METHOTREXATE SHOULD BE USED ONLY BY PHYSICIANS WHOSE KNOWLEDGE AND EXPERIENCE INCLUDE THE USE OF ANTIMETABOLITE THERAPY BECAUSE OF THE POSSIBILITY OF SERIOUS TOXIC REACTIONS (WHICH CAN BE FATAL):
 
 METHOTREXATE SHOULD BE USED ONLY IN LIFE THREATENING NEOPLASTIC DISEASES, OR IN PATIENTS WITH PSORIASIS OR RHEUMATOID ARTHRITIS WITH SEVERE, RECALCITRANT, DISABLING DISEASE WHICH IS NOT ADEQUATELY RESPONSIVE TO OTHER FORMS OF THERAPY.
 
@@ -30,10 +28,10 @@ PATIENTS SHOULD BE INFORMED BY THEIR PHYSICIAN OF THE RISKS INVOLVED AND BE UNDE
 6. 6.Diarrhea and ulcerative stomatitis require interruption of therapy; otherwise, hemorrhagic enteritis and death from intestinal perforation may occur.
 7. 7.Malignant lymphomas, which may regress following withdrawal of methotrexate, may occur in patients receiving low-dose methotrexate and, thus, may not require cytotoxic treatment.
    Discontinue methotrexate first and, if the lymphoma does not regress, appropriate treatment should be instituted.
-8. 8.Like other cytoxic drugs, methotrexate may induce “tumor lysis syndrome” in patients with rapidly growing tumors.
+8. 8.Like other cytotoxic drugs, methotrexate may induce “tumor lysis syndrome” in patients with rapidly growing tumors.
    Appropriate supportive and pharmacologic measures may prevent or alleviate this complication.
 9. 9.Severe, occasionally fatal, skin reactions have been reported following single or multiple doses of methotrexate.
    Reactions have occurred within days of oral, intramuscular, intravenous, or intrathecal methotrexate administration.
-   Recovery has been reported with discontinuation of therapy (See PRECAUTIONS: Organ System Toxicity: Skin).
+   Recovery has been reported with discontinuation of therapy (See PRECAUTIONS:Organ System Toxicity: Skin).
 10. 10.Potentially fatal opportunistic infections, especially Pneumocystis carinii pneumonia, may occur with methotrexate therapy.
 11. 11.Methotrexate given concomitantly with radiotherapy may increase the risk of soft tissue necrosis and osteonecrosis.

@@ -4,6 +4,8 @@
 
 Methotrexate is indicated in the treatment of gestational choriocarcinoma, chorio-adenoma destruens and hydatidiform mole.
 
+Methotrexate is used in maintenance therapy in combination with other chemotherapeutic agents.
+
 Methotrexate is used alone or in combination with other anticancer agents in the treatment of breast cancer, epidermoid cancers of the head and neck, advanced mycosis fungoides (cutaneous T cell lymphoma) and lung cancer, particularly squamous cell and small cell types.
 Methotrexate is also used in combination with other chemotherapeutic agents in the treatment of advanced stage non-Hodgkin’s lymphomas.
 

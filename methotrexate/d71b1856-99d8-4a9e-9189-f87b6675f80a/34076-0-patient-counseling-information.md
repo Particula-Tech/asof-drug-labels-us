@@ -1,6 +1,6 @@
-# Patient Instructions
+# Patient INFORMATION
 
-Methotrexate Tablets USP, 2.5 mg (meth-oh-trek-seyt)
+Methotrexate Tablets USP (meth-oh-trek-seyt)
 
 Read the Patient Information that comes with methotrexate before you start using it and each time you get a refill.
 There may be new information.
@@ -8,7 +8,7 @@ This leaflet does not take the place of talking with your doctor about your cond
 
 What is the most important information I should know about methotrexate?
 
-- •Methotrexate can cause serious side effects that may be life-threatening (see “What are the possible side effects of methotrexate?”).
+- •Methotrexate can cause serious side effects that may be life-threatening (see “What are the possible or reasonably likely side effects of methotrexate?
   Most side effects can be found by medical tests before they become serious.
   Your doctor may do regular tests to check how methotrexate is affecting your body.
   It is important that you stay under a doctor's care while taking methotrexate.
@@ -39,7 +39,7 @@ Do not take methotrexate if:
 - •your bone marrow does not make enough blood cells, or if you have low white blood cell counts, low platelet counts, or serious anemia.
 - •you drink alcohol or have liver problems from alcohol abuse.
 - •you have chronic liver disease.
-- •you are allergic to methotrexate or any of the other ingredients in methotrexate.
+- •you are allergic to methotrexate or any of the ingredients in methotrexate.
   See the end of this leaflet for a complete list of ingredients in methotrexate.
 
 Before using methotrexate tell your doctor
@@ -49,11 +49,10 @@ Before using methotrexate tell your doctor
   - •have liver problems
   - •have fluid in your stomach area (ascites)
   - •have lung problems or fluid in your lungs (pleural effusion)
-
-about all the medicines you take including prescription and nonprescription medicines, vitamins and herbal supplements.
-Methotrexate and certain other medicines can affect each other and cause serious side effects.
-Do not start or change any medicines unless you have talked to your doctor and your doctor has told you it is safe.
-Know all the medicines that you take and keep a list of them with you at all times to show doctors and pharmacists.
+- •about all the medicines you take including prescription and nonprescription medicines, vitamins and herbal supplements.
+  Methotrexate and certain other medicines can affect each other and cause serious side effects.
+  Do not start or change any medicines unless you have talked to your doctor and your doctor has told you it is safe.
+  Know all the medicines that you take and keep a list of them with you at all times to show doctors and pharmacists.
 
 How should I take methotrexate?
 
@@ -89,7 +88,7 @@ Do not:
   Alcohol drinks, including beer and wine, may increase some of the side effects with methotrexate, including the chance of liver damage.
 - •take certain live virus vaccines.
 
-What are the possible side effects of methotrexate?
+What are the possible or reasonably likely side effects of methotrexate?
 
 Methotrexate can cause serious and life-threatening problems including (see “What is the most important information I should know about methotrexate?”):
 
@@ -121,6 +120,9 @@ If you have any questions about these or other side effects, talk to your doctor
 These are not all the side effects of methotrexate.
 Ask your doctor or pharmacist for more information.
 
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
+
 How should I store methotrexate?
 
 - •Store methotrexate at room temperature between 20˚ to 25˚C (68˚ to 77˚F).
@@ -128,9 +130,9 @@ How should I store methotrexate?
 - •Keep methotrexate away from light.
 - •Keep methotrexate and all medicines out of the reach of children.
 
-General information about methotrexate
+General information about methotrexate tablets
 
-Medicines are sometimes prescribed for conditions other than those described in patient information leaflets.
+Medicines are sometimes prescribed for purposes other than those listed in a Patient Information Leaflet.
 Do not use methotrexate for a condition for which it was not prescribed.
 Do not give methotrexate to other people, even if they have the same symptoms that you have.
 It may harm them.
@@ -141,11 +143,13 @@ You can ask your doctor or pharmacist for information about methotrexate that is
 
 For additional information, you may contact West-Ward Pharmaceuticals Corp. at 1-800-962-8364.
 
-What are the ingredients in methotrexate?
+What are the ingredients in methotrexate tablets?
 
 Active Ingredient: Methotrexate contains an amount of methotrexate sodium equivalent to 2.5 mg of methotrexate USP.
 
 Inactive Ingredients: lactose (anhydrous), magnesium stearate, pregelatinized starch, sodium hydroxide pellets, and sodium starch glycolate.
+
+This Patient Information has been approved by the U.S. Food and Drug Administration.
 
 Distr. by: West-Ward
 
@@ -153,6 +157,6 @@ Pharmaceuticals Corp.
 
 Eatontown, NJ 07724
 
-10004494/07
+10004494/08
 
-Revised March 2016
+Revised May 2016

@@ -12,7 +12,7 @@ In the oncology setting, concomitant treatment and the underlying disease make s
 
 Alimentary System: gingivitis, pharyngitis, stomatitis, anorexia, nausea, vomiting, diarrhea, hematemesis, melena, gastrointestinal ulceration and bleeding, enteritis, pancreatitis.
 
-Blood and Lymphatic System Disorders: suppressed hematopoiesis causing anemia, aplastic anemia, pancytopenia, leukopenia, and/or thrombocytopenia.
+Blood and Lymphatic System Disorders: suppressed hematopoiesis causing anemia, aplastic anemia, pancytopenia, leukopenia, neutropenia and/or thrombocytopenia, lymphadenopathy and lymphoproliferative disorders (including reversible).
 Hypogammaglobulinemia has been reported rarely.
 
 Cardiovascular: pericarditis, pericardial effusion, hypotension, and thromboembolic events (including arterial thrombosis, cerebral thrombosis, deep vein thrombosis, retinal vein thrombosis, thrombophlebitis, and pulmonary embolus).
@@ -20,9 +20,11 @@ Cardiovascular: pericarditis, pericardial effusion, hypotension, and thromboembo
 Central Nervous System: headaches, drowsiness, blurred vision, transient blindness, speech impairment including dysarthria and aphasia, hemiparesis, paresis and convulsions have also occurred following administration of methotrexate.
 Following low doses, there have been occasional reports of transient subtle cognitive dysfunction, mood alteration, unusual cranial sensations, leukoencephalopathy, or encephalopathy.
 
+Hepatobiliary: disorders, hepatotoxicity, acute hepatitis, chronic fibrosis and cirrhosis, decrease in serum albumin, liver enzyme elevations.
+
 Infection: There have been case reports of sometimes fatal opportunistic infections in patients receiving methotrexate therapy for neoplastic and non-neoplastic diseases.
 Pneumocystis carinii pneumonia was the most common opportunistic infection.
-Other reported infections include sepsis, nocardiosis, histoplasmosis, cryptococcosis, herpes zoster, H. simplex hepatitis, and disseminated H. simplex.
+There have also been reports of infections, pneumonia, sepsis, nocardiosis, histoplasmosis, cryptococcosis, herpes zoster, H. simplex hepatitis, and disseminated H. simplex.
 
 Musculoskeletal System: stress fracture.
 
@@ -59,7 +61,7 @@ There are no recent placebo-controlled trials in patients with psoriasis.
 There are two literature reports (Roenigk, 1969 and Nyfors, 1978) describing large series (n=204, 248) of psoriasis patients treated with methotrexate.
 Dosages ranged up to 25 mg per week and treatment was administered for up to four years.
 With the exception of alopecia, photosensitivity, and “burning of skin lesions” (each 3% to 10%), the adverse reaction rates in these reports were very similar to those in the rheumatoid arthritis studies.
-Rarely, painful plaque erosions may appear (Pearce, HP and Wilson, BB: Am Acad Dermatol 35:835-838, 1996).
+Rarely, painful plaque erosions may appear.
 
 ## Adverse Reactions in JRA Studies
 

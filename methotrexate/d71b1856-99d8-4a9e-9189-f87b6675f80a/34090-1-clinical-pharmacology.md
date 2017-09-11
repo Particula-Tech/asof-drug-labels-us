@@ -67,7 +67,7 @@ These polyglutamates act as inhibitors of dihydrofolate reductase and thymidylat
 Small amounts of methotrexate polyglutamates may remain in tissues for extended periods.
 The retention and prolonged drug action of these active metabolites vary among different cells, tissues and tumors.
 A small amount of metabolism to 7-hydroxymethotrexate may occur at doses commonly prescribed.
-
+Accumulation of this metabolite may become significant at the high doses used in osteogenic sarcoma.
 The aqueous solubility of 7-hydroxymethotrexate is 3 to 5 fold lower than the parent compound.
 Methotrexate is partially metabolized by intestinal flora after oral administration.
 
@@ -92,6 +92,11 @@ Methotrexate clearance rates vary widely and are generally decreased at higher d
 Delayed drug clearance has been identified as one of the major factors responsible for methotrexate toxicity.
 It has been postulated that the toxicity of methotrexate for normal tissues is more dependent upon the duration of exposure to the drug rather than the peak level achieved.
 When a patient has delayed drug elimination due to compromised renal function, a third space effusion, or other causes, methotrexate serum concentrations may remain elevated for prolonged periods.
+
+The potential for toxicity from high dose regimens or delayed excretion is reduced by the administration of leucovorin calcium during the final phase of methotrexate plasma elimination.
+
+Pharmacokinetic monitoring of methotrexate serum concentrations may help identify those patients at high risk for methotrexate toxicity and aid in proper adjustment of leucovorin dosing.
+Guidelines for monitoring serum methotrexate levels, and for adjustment of leucovorin dosing to reduce the risk of methotrexate toxicity, are provided below in DOSAGE AND ADMINISTRATION.
 
 Methotrexate has been detected in human breast milk.
 The highest breast milk to plasma concentration ratio reached was 0.08:1.

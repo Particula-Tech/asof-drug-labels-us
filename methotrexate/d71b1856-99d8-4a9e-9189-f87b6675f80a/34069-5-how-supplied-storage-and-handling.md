@@ -11,6 +11,6 @@ NDC 0054-4550-15: Bottle of 36 Tablets
 NDC 0054-4550-25: Bottle of 100 Tablets
 
 Dispense with a child-resistant closure in a well closed container, as defined in the USP/NF.
+
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
-Protect from light.

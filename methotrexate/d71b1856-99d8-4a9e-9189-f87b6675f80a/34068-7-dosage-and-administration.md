@@ -47,8 +47,7 @@ Lymphosarcomas in Stage III may respond to combined drug therapy with methotrexa
 Therapy with methotrexate as a single agent appears to produce clinical responses in up to 50% of patients treated.
 Dosage in early stages is usually 5 to 50 mg once weekly.
 Dose reduction or cessation is guided by patient response and hematologic monitoring.
-Methotrexate has also been administered twice weekly in doses ranging from 15 to 37.5 mg in patients who have responded poorly to weekly therapy.
-Combination chemotherapy regimens that include intravenous methotrexate administered at higher doses with leucovorin rescue have been utilized in advanced stages of the disease.
+Methotrexate has also been administered twice weekly in doses ranging from 15 to 37.5 mg in patients who have responded poorly to weekly therapy..
 
 ## Psoriasis, Rheumatoid Arthritis, and Juvenile Rheumatoid Arthritis
 
@@ -74,14 +73,13 @@ The optimal duration of therapy is unknown.
 Limited data available from long-term studies in adults indicate that the initial clinical improvement is maintained for at least two years with continued therapy.
 When methotrexate is discontinued, the arthritis usually worsens within 3 to 6 weeks.
 
-The patient should befully informed of the risks involved and should be under constant supervision of the physician(See Information for Patients under PRECAUTIONS).
+The patient should be fully informed of the risks involved and should be under constant supervision of the physician(See Information for Patients under PRECAUTIONS).
 Assessment of hematologic, hepatic, renal, and pulmonary function should be made by history, physical examination, and laboratory tests before beginning, periodically during, and before reinstituting methotrexate therapy (See PRECAUTIONS).
 Appropriate steps should be taken to avoid conception during methotrexate therapy (See PRECAUTIONS and CONTRAINDICATIONS).
 
-Weekly therapy may be instituted to provide doses over a range of 5 mg to 15 mg administered as a single weekly dose.
 All schedules should be continually tailored to the individual patient.
 An initial test dose may be given prior to the regular dosing schedule to detect any extreme sensitivity to adverse effects (See ADVERSE REACTIONS).
-Maximal myelosuppression usually occurs in seven to ten days.days.
+Maximal myelosuppression usually occurs in seven to ten days.
 
 ### Psoriasis
 
