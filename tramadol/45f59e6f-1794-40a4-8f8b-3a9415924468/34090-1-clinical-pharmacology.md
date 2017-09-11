@@ -37,6 +37,9 @@ Other opioid-induced effects may include a reduction in biliary and pancreatic s
 Tramadol produces peripheral vasodilation, which may result in orthostatic hypotension or syncope.
 Manifestations of peripheral vasodilation may include pruritus, flushing, red eyes, sweating and/or orthostatic hypotension.
 
+The effect of oral tramadol on the QTcF interval was evaluated in a double-blind, randomized, four-way crossover, placebo- and positive- (moxifloxacin) controlled study in 68 adult male and female healthy subjects.
+At a 600 mg/day dose (1.5-fold the maximum immediate-release daily dose), the study demonstrated no significant effect on the QTcF interval.
+
 ### Effects on the Endocrine System
 
 Opioids inhibit the secretion of adrenocorticotropic hormone (ACTH), cortisol, and luteinizing hormone (LH) in humans.

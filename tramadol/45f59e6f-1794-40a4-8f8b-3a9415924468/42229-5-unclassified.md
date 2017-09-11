@@ -8,4 +8,4 @@ Manufactured for:
 
 Janssen Pharmaceuticals, Inc. Titusville, New Jersey 08560
 
-© Janssen Pharmaceuticals, Inc. 2003 Revised 12/2016
+© Janssen Pharmaceuticals, Inc. 2003 Revised 08/2017

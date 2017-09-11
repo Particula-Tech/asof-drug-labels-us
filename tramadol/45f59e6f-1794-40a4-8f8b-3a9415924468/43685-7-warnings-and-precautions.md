@@ -33,6 +33,36 @@ Overestimating the ULTRAM dosage when converting patients from another opioid pr
 
 Accidental ingestion of even one dose of ULTRAM, especially by children, can result in respiratory depression and death due to an overdose of tramadol.
 
+## Ultra-Rapid Metabolism of Tramadol and Other Risk Factors for Life-threatening Respiratory Depression in Children
+
+Life-threatening respiratory depression and death have occurred in children who received tramadol.
+Tramadol and codeine are subject to variability in metabolism based upon CYP2D6 genotype (described below), which can lead to increased exposure to an active metabolite.
+Based upon postmarketing reports with tramadol or with codeine, children younger than 12 years of age may be more susceptible to the respiratory depressant effects of tramadol.
+Furthermore, children with obstructive sleep apnea who are treated with opioids for post-tonsillectomy and/or adenoidectomy pain may be particularly sensitive to their respiratory depressant effect.
+Because of the risk of life-threatening respiratory depression and death:
+
+- ULTRAM is contraindicated for all children younger than 12 years of age (see CONTRAINDICATIONS).
+- ULTRAM is contraindicated for post-operative management in pediatric patients younger than 18 years of age following tonsillectomy and/or adenoidectomy (see CONTRAINDICATIONS).
+- Avoid the use of ULTRAM in adolescents 12 to 18 years of age who have other risk factors that may increase their sensitivity to the respiratory depressant effects of tramadol unless the benefits outweigh the risks.
+  Risk factors include conditions associated with hypoventilation such as postoperative status, obstructive sleep apnea, obesity, severe pulmonary disease, neuromuscular disease, and concomitant use of other medications that cause respiratory depression.
+- As with adults, when prescribing opioids for adolescents, healthcare providers should choose the lowest effective dose for the shortest period of time and inform patients and caregivers about these risks and the signs of opioid overdose (see PRECAUTIONS/Pediatric Use, OVERDOSAGE).
+
+### Nursing Mothers
+
+Tramadol is subject to the same polymorphic metabolism as codeine, with ultra-rapid metabolizers of CYP2D6 substrates being potentially exposed to life-threatening levels of the active metabolite O-desmethyltramadol (M1).
+At least one death was reported in a nursing infant who was exposed to high levels of morphine in breast milk because the mother was an ultra-rapid metabolizer of codeine.
+A baby nursing from an ultra-rapid metabolizer mother taking ULTRAM could potentially be exposed to high levels of M1, and experience life-threatening respiratory depression.
+For this reason, breastfeeding is not recommended during treatment with ULTRAM (see PRECAUTIONS/Nursing Mothers).
+
+### CYP2D6 Genetic Variability: Ultra-rapid metabolizer
+
+Some individuals may be ultra-rapid metabolizers because of a specific CYP2D6 genotype (e.g., gene duplications denoted as *1/*1×N or *1/*2×N).
+The prevalence of this CYP2D6 phenotype varies widely and has been estimated at 1 to 10% for Whites (European, North American), 3 to 4% for Blacks (African Americans), 1 to 2% for East Asians (Chinese, Japanese, Korean), and may be greater than 10% in certain racial/ethnic groups (i.e., Oceanian, Northern African, Middle Eastern, Ashkenazi Jews, Puerto Rican).
+These individuals convert tramadol into its active metabolite, O-desmethyltramadol (M1), more rapidly and completely than other people.
+This rapid conversion results in higher than expected serum M1 levels.
+Even at labeled dosage regimens, individuals who are ultra- rapid metabolizers may have life-threatening or fatal respiratory depression or experience signs of overdose (such as extreme sleepiness, confusion, or shallow breathing) (see OVERDOSAGE).
+Therefore, individuals who are ultra-rapid metabolizers should not use ULTRAM.
+
 ## Neonatal Opioid Withdrawal Syndrome
 
 Prolonged use of ULTRAM during pregnancy can result in withdrawal in the neonate.
@@ -165,7 +195,7 @@ Monitor patients with biliary tract disease, including acute pancreatitis for wo
 Serious and rarely fatal anaphylactoid reactions have been reported in patients receiving therapy with ULTRAM.
 When these events do occur it is often following the first dose.
 Other reported allergic reactions include pruritus, hives, bronchospasm, angioedema, toxic epidermal necrolysis and Stevens-Johnson syndrome.
-Patients with a history of anaphylactoid reactions to codeine and other opioids may be at increased risk and therefore should not receive ULTRAM (see CONTRAINDICATIONS).
+Patients with a history of anaphylactoid reactions to tramadol and other opioids may be at increased risk and therefore should not receive ULTRAM (see CONTRAINDICATIONS).
 If anaphylaxis or other hypersensitivity occurs, stop administration of ULTRAM immediately, discontinue ULTRAM permanently, and do not rechallenge with any formulation of tramadol.
 Advise patients to seek immediate medical attention if they experience any symptoms of a hypersensitivity reaction.
 (see CONTRAINDICATIONS, PRECAUTIONS; Information for Patients)
@@ -213,9 +243,14 @@ Advise patients how to recognize respiratory depression and to seek medical atte
 Inform patients that accidental ingestion, especially by children, may result in respiratory depression or death (see WARNINGS).
 Instruct patients to take steps to store ULTRAM securely and to dispose of unused ULTRAM in accordance with the local state guidelines and/or regulations.
 
+### Ultra-Rapid Metabolism of Tramadol and Other Risk Factors for Life-threatening Respiratory Depression in Children
+
+Advise caregivers that ULTRAM is contraindicated in children younger than 12 years of age and in children younger than 18 years of age following tonsillectomy and/or adenoidectomy.
+Advise caregivers of children ages 12 to 18 years of age receiving ULTRAM to monitor for signs of respiratory depression (see WARNINGS).
+
 ### Interactions with Benzodiazepines and Other CNS Depressants
 
-Inform patients and caregivers that potentially fatal additive effects may occur if ULTRAM is used with benzodiazepines, CNS depressants, including alcohol, or some illicit drugs and not to use these concomitantly unless supervised by a health care provider (see WARNINGS, PRECAUTIONS; Drug Interactions).
+Inform patients and caregivers that potentially fatal additive effects may occur if ULTRAM is used with benzodiazepines, CNS depressants, including alcohol, or some illicit drugs and not to use these concomitantly unless supervised by a healthcare provider (see WARNINGS, PRECAUTIONS; Drug Interactions).
 
 ### Serotonin Syndrome
 
@@ -270,8 +305,7 @@ Inform female patients of reproductive potential that ULTRAM may cause fetal har
 
 ### Lactation
 
-Advise nursing mothers to monitor infants for increased sleepiness (more than usual), breathing difficulties, or limpness.
-Instruct nursing mothers to seek immediate medical care if they notice these signs (see PRECAUTIONS; Nursing Mothers).
+Advise women that breastfeeding is not recommended during treatment with ULTRAM (see PRECAUTIONS; Nursing Mothers).
 
 ### Infertility
 
@@ -472,13 +506,26 @@ Progeny of dams receiving oral (gavage) dose levels of 50 mg/kg 1.2 times the MR
 
 ## Nursing Mothers
 
+### Risk Summary
+
 ULTRAM is not recommended for obstetrical preoperative medication or for post-delivery analgesia in nursing mothers because its safety in infants and newborns has not been studied.
-Following a single IV 100 mg dose of tramadol, the cumulative excretion in breast milk within 16 hours postdose was 100 mcg of tramadol (0.1% of the maternal dose) and 27 mcg of M1.
 
-Because of the potential for serious adverse reactions, including excess sedation and respiratory depression in a breastfed infant, advise patients that breastfeeding is not recommended during treatment with ULTRAM.
+Tramadol and its metabolite, O-desmethyltramadol (M1), are present in human milk.
+There is no information on the effects of the drug on the breastfed infant or the effects of the drug on milk production.
+The M1 metabolite is more potent than tramadol in mu opioid receptor binding (see CLINICAL PHARMACOLOGY).
+Published studies have reported tramadol and M1 in colostrum with administration of tramadol to nursing mothers in the early post-partum period.
+Women who are ultra-rapid metabolizers of tramadol may have higher than expected serum levels of M1, potentially leading to higher levels of M1 in breast milk that can be dangerous in their breastfed infants.
+In women with normal tramadol metabolism, the amount of tramadol secreted into human milk is low and dose-dependent.
+Because of the potential for serious adverse reactions, including excess sedation and respiratory depression in a breastfed infant, advise patients that breastfeeding is not recommended during treatment with ULTRAM (see WARNINGS).
 
-Monitor infants exposed to ULTRAM through breast milk for excess sedation and respiratory depression.
+### Clinical Considerations
+
+If infants are exposed to ULTRAM through breast milk, they should be monitored for excess sedation and respiratory depression.
 Withdrawal symptoms can occur in breastfed infants when maternal administration of an opioid analgesic is stopped, or when breast-feeding is stopped.
+
+### Data
+
+Following a single IV 100 mg dose of tramadol, the cumulative excretion in breast milk within 16 hours post dose was 100 mcg of tramadol (0.1% of the maternal dose) and 27 mcg of M1.
 
 ## Females and Males of Reproductive Potential
 
@@ -489,8 +536,18 @@ It is not known whether these effects on fertility are reversible (see ADVERSE R
 
 ## Pediatric Use
 
-The safety and efficacy of ULTRAM in patients under 16 years of age have not been established.
-The use of ULTRAM in the pediatric population is not recommended.
+The safety and effectiveness of ULTRAM in pediatric patients have not been established.
+
+Life-threatening respiratory depression and death have occurred in children who received tramadol (see WARNINGS).
+In some of the reported cases, these events followed tonsillectomy and/or adenoidectomy, and one of the children had evidence of being an ultra-rapid metabolizer of tramadol (i.e., multiple copies of the gene for cytochrome P450 isoenzyme 2D6).
+Children with sleep apnea may be particularly sensitive to the respiratory depressant effects of tramadol.
+
+Because of the risk of life-threatening respiratory depression and death:
+
+- ULTRAM is contraindicated for all children younger than 12 years of age (see CONTRAINDICATIONS).
+- ULTRAM is contraindicated for post-operative management in pediatric patients younger than 18 years of age following tonsillectomy and/or adenoidectomy (see CONTRAINDICATIONS).
+- Avoid the use of ULTRAM in adolescents 12 to 18 years of age who have other risk factors that may increase their sensitivity to the respiratory depressant effects of tramadol unless the benefits outweigh the risks.
+  Risk factors include conditions associated with hypoventilation such as postoperative status, obstructive sleep apnea, obesity, severe pulmonary disease, neuromuscular disease, and concomitant use of other medications that cause respiratory depression.
 
 ## Geriatric Use
 

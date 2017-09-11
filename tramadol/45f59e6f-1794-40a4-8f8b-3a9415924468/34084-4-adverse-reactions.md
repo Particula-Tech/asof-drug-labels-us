@@ -4,6 +4,7 @@ The following serious adverse reactions are described, or described in greater d
 
 - Addiction, Abuse, and Misuse (see WARNINGS)
 - Life-Threatening Respiratory Depression (see WARNINGS)
+- Ultra-Rapid Metabolism of Tramadol and Other Risk Factors for Life-threatening Respiratory Depression in Children (see WARNINGS)
 - Neonatal Opioid Withdrawal Syndrome (see WARNINGS)
 - Interactions with Benzodiazepines or Other CNS Depressants (see WARNINGS)
 - Serotonin Syndrome (see WARNINGS)
@@ -114,3 +115,6 @@ Cases of adrenal insufficiency have been reported with opioid use, more often fo
 ### Androgen deficiency
 
 Cases of androgen deficiency have occurred with chronic use of opioids (see CLINICAL PHARMACOLOGY).
+
+QT prolongation/torsade de pointes: Cases of QT prolongation and/or torsade de pointes have been reported with tramadol use.
+Many of these cases were reported in patients taking another drug labeled for QT prolongation, in patients with a risk factor for QT prolongation (e.g., hypokalemia), or in the overdose setting.
