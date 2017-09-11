@@ -79,29 +79,21 @@ Specific Populations
 
 Patients with Hepatic Impairment
 
-Cobicistat is primarily metabolized and eliminated by the liver.
-A study of the pharmacokinetics of cobicistat was performed in non-HIV-1 infected subjects with moderate hepatic impairment.
 No clinically relevant differences in cobicistat pharmacokinetics were observed between subjects with moderate hepatic impairment (Child-Pugh Class B) and healthy subjects.
 The effect of severe hepatic impairment (Child-Pugh Class C) on the pharmacokinetics of cobicistat has not been studied [see Use in Specific Populations (8.7)].
 
 Patients with Renal Impairment
 
-A study of the pharmacokinetics of cobicistat was performed in non-HIV-1 infected subjects with severe renal impairment (estimated creatinine clearance below 30 mL/min).
-No clinically relevant differences in cobicistat pharmacokinetics were observed between subjects with severe renal impairment and healthy subjects [see Use in Specific Populations (8.6)].
+No clinically relevant differences in cobicistat pharmacokinetics were observed between subjects with severe renal impairment (estimated creatinine clearance below 30 mL/min) and healthy subjects [see Use in Specific Populations (8.6)].
 
-Race
+Race and Gender
 
-Population pharmacokinetic analysis of cobicistat in HIV-1 infected subjects indicated that race had no clinically relevant effect on the exposure of cobicistat.
-
-Gender
-
-No clinically relevant pharmacokinetic differences have been observed between men and women for cobicistat.
+No clinically relevant differences in the pharmacokinetics of cobicistat were observed based on race or gender.
 
 Assessment of Drug Interactions
 
-Drug interaction trials were not conducted for TYBOST coadministered with atazanavir or darunavir.
-
 Drug interaction trials were conducted with TYBOST (as a single entity) and desipramine, digoxin, and efavirenz.
+Drug interaction trials of TYBOST coadministered with atazanavir or darunavir included atorvastatin, drospirenone/ethinyl estradiol, and rosuvastatin.
 Drug interaction trials of TYBOST coadministered with elvitegravir included rosuvastatin and rifabutin.
 
 The effects of cobicistat on the exposure of coadministered drugs are shown in Table 9.
@@ -111,12 +103,20 @@ Please refer to the U.S. prescribing information for antiretroviral medications 
 
 Table 9 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministered Drugs in the Presence of CobicistatAll interaction studies conducted in healthy subjects.
 
-| Cmax | AUC | Ctau |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| Coadministered Drug | Dose of Coadministered Drug (mg) | TYBOST Dose (mg) | N | Mean Ratio of Coadministered Drug Pharmacokinetic Parameters (90% CI); No effect = 1.00 |  |  |
-| Desipramine | 50 single dose | 150 once daily | 8 | 1.24 (1.08, 1.44) | 1.65 (1.36, 2.02) | NCNC = Not Calculated. |
-| Digoxin | 0.5 single dose | 150 once daily | 22 | 1.41 (1.29, 1.55) | 1.08 (1.00, 1.17) | NC |
-| Efavirenz | 600 single dose | 150 once daily | 17 | 0.87 (0.80, 0.94) | 0.93 (0.89, 0.97) | NC |
+| Cmax | AUC |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Coadministered Drug | Dose of Coadministered Drug (mg) | TYBOST Dose (mg) | N | Mean Ratio of Coadministered Drug Pharmacokinetic Parameters (90% CI); No effect = 1.00 |  |
+| Atorvastatin | 10 single dose | 150 once daily | 16 | 18.85Study conducted in the presence of 300 mg atazanavir. (13.53, 26.27) | 9.22 (7.58, 11.22) |
+| 4.19Study conducted in the presence of 800 mg darunavir. (3.67, 4.78) | 3.90 (3.52, 4.32) |  |  |  |  |
+| Desipramine | 50 single dose | 150 once daily | 8 | 1.24 (1.08, 1.44) | 1.65 (1.36, 2.02) |
+| Digoxin | 0.5 single dose | 150 once daily | 22 | 1.41 (1.29, 1.55) | 1.08 (1.00, 1.17) |
+| Drospirenone/ethinyl estradiol | 3 drospirenone single dose | 150 once daily | 14 | 1.12 (1.05, 1.19) | 2.30 (2.00, 2.64) |
+| 0.02 ethinyl estradiol single dose | 0.82 (0.76, 0.89) | 0.78 (0.73, 0.85) |  |  |  |
+| 3 drospirenone single dose | 150 once daily | 15 | 1.15 (1.05, 1.26) | 1.58 (1.47, 1.71) |  |
+| 0.02 ethinyl estradiol single dose | 0.86 (0.77, 0.95) | 0.70 (0.63, 0.77) |  |  |  |
+| Efavirenz | 600 single dose | 150 once daily | 17 | 0.87 (0.80, 0.94) | 0.93 (0.89, 0.97) |
+| Rosuvastatin | 10 single dose | 150 once daily | 16 | 10.58 (8.72, 12.83) | 3.42 (2.87, 4.07) |
+| 3.77 (3.29, 4.32) | 1.93 (1.70, 2.20) |  |  |  |  |
 
 ## 12.4 Microbiology
 
