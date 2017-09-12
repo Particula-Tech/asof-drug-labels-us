@@ -37,3 +37,7 @@ Intravenous NAC may be administered when circumstances preclude oral administrat
 
 Vigorous supportive therapy is required in severe intoxication.
 Procedures to limit the continuing absorption of the drug must be readily performed since the hepatic injury is dose-dependent and occurs early in the course of intoxication.
+
+In an individual physically dependent on opioids, administration of the recommended usual dosage of the antagonist will precipitate an acute withdrawal syndrome.
+The severity of the withdrawal symptoms experienced will depend on the degree of physical dependence and the dose of the antagonist administered.
+If a decision is made to treat serious respiratory depression in the physically dependent patient, administration of the antagonist should be begun with care and by titration with smaller than usual doses of the antagonist.
