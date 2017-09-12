@@ -9,4 +9,4 @@ Rash, pruritus, dermatitis and worsening of psoriasis were reported in 1 to 10% 
 
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-The following adverse reactions associated with the use of Dovonex® Cream have been identified post-approval: contact dermatitis, including allergic contact dermatitis.
+The following adverse reactions associated with the use of Dovonex® Cream have been identified post-approval: contact dermatitis including allergic contact dermatitis.

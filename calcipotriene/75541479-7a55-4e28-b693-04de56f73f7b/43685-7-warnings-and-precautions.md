@@ -1,6 +1,6 @@
 # WARNINGS
 
-Contact dermatitis, including allergic contact dermatitis, has been observed with the use of Dovonex®.
+Contact dermatitis, including allergic contact dermatitis, has been observed with the use of Dovonex® Cream.
 
 # PRECAUTIONS
 
@@ -40,7 +40,7 @@ Studies in rats at doses up to 54 μg/kg/day (324 μg/m2/day) of calcipotriene i
 
 ## Pregnancy
 
-Teratogenic Effects: Pregnancy Category C
+Teratogenic Effects
 
 Studies of teratogenicity were done by the oral route where bioavailability is expected to be approximately 40-60% of the administered dose.
 Increased rabbit maternal and fetal toxicity was noted at 12 μg/kg/day (132 μg/m2/day).

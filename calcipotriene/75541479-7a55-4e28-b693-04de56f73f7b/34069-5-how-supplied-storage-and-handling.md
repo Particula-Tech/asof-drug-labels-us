@@ -2,6 +2,6 @@
 
 Dovonex® (calcipotriene) Cream, 0.005% is available in:
 
-60 gram aluminum tubes N 50222-260-06
+60 gram aluminum tubes ​NDC 50222-260-06
 
-120 gram aluminum tubes N 50222-260-12
+120 gram aluminum tubes ​NDC 50222-260-12

@@ -15,9 +15,9 @@ Not for Ophthalmic, Oral, or Intravaginal Use.
 
 Usual Dosage: Apply twice daily, or as directed by physician.
 See insert for complete information.
-Read all Panels.
 
 NET WT.
 120 g
 
-Store at controlled room temperature 15° C - 25° C (59° F - 77° F). Do not freeze
+Store at controlled room temperature 15°C - 25°C (59°F - 77°F).
+Do not freeze

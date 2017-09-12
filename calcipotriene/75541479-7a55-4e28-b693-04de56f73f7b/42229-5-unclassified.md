@@ -3,14 +3,14 @@ Rx only
 FOR TOPICAL DERMATOLOGIC USE ONLY.
 Not for Ophthalmic, Oral or Intravaginal Use.
 
-Manufactured by LEO Laboratories Ltd. Dublin, Ireland
+Manufactured by:
 
-Distributed by: LEO Pharma Inc. 1 Sylvan Way Parsippany, NJ 07054 USA 1-877-494-4536
+LEO Laboratories Ltd. Dublin 12, Ireland
 
-To report SUSPECT ADVERSE REACTIONS, contact LEO Pharma Inc at 1-877-494-4536 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch
+Distributed by:
 
-U.S. Patent No. RE39,706 E
+LEO Pharma Inc. Seven Giralda Farms Madison, NJ 07940, USA
 
-024609-00
+To report SUSPECTED ADVERSE REACTIONS, contact LEO Pharma Inc at 1-877-494-4536 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch
 
-Revised March 2015
+Revised 06/2017
