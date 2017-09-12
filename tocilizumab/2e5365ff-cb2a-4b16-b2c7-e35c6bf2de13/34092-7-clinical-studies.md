@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Rheumatoid Arthritis –Intravenous Administration
+## 14.1 Rheumatoid Arthritis—Intravenous Administration
 
 The efficacy and safety of intravenously administered ACTEMRA was assessed in five randomized, double-blind, multicenter studies in patients greater than 18 years with active rheumatoid arthritis diagnosed according to American College of Rheumatology (ACR) criteria.
 Patients had at least 8 tender and 6 swollen joints at baseline.
@@ -136,7 +136,7 @@ Other Health-Related Outcomes
 
 General health status was assessed by the Short Form Health Survey (SF-36) in Studies I – V. Patients receiving ACTEMRA demonstrated greater improvement from baseline compared to placebo in the Physical Component Summary (PCS), Mental Component Summary (MCS), and in all 8 domains of the SF-36.
 
-## 14.2 Rheumatoid Arthritis–Subcutaneous Administration
+## 14.2 Rheumatoid Arthritis—Subcutaneous Administration
 
 The efficacy and safety of subcutaneously administered ACTEMRA was assessed in two double-blind, controlled, multicenter studies in patients with active RA.
 One study (SC-I) was a non-inferiority study that compared the efficacy and safety of ACTEMRA 162 mg administered every week subcutaneously (SC) to 8 mg per kg intravenously every four weeks.
@@ -196,7 +196,7 @@ General health status was assessed by the SF-36 in Studies SC-I and SC-II.
 In Study SC-II, patients receiving ACTEMRA every other week demonstrated greater improvement from baseline compared to placebo in the PCS, MCS, and in all 8 domains of the SF-36.
 In Study SC-I, improvements in these scores were similar between ACTEMRA SC every week and ACTEMRA IV 8 mg/kg.
 
-## 14.3 Giant Cell Arteritis – Subcutaneous Administration
+## 14.3 Giant Cell Arteritis—Subcutaneous Administration
 
 The efficacy and safety of subcutaneously administered ACTEMRA was assessed in a single, randomized, double-blind, multicenter study in patients with active GCA.
 In Study WA28119, 251 screened patients with new-onset or relapsing GCA were randomized to one of four treatment arms.
@@ -228,7 +228,7 @@ Table 8 Efficacy Results from Study WA28119
 
 The estimated annual cumulative prednisone dose was lower in the two ACTEMRA dose groups (medians of 1887 mg and 2207 mg on ACTEMRA QW and Q2W, respectively) relative to the placebo arms (medians of 3804 mg and 3902 mg on placebo + 26 weeks prednisone and placebo + 52 weeks prednisone taper, respectively).
 
-## 14.4 Polyarticular Juvenile Idiopathic Arthritis-Intravenous Administration
+## 14.4 Polyarticular Juvenile Idiopathic Arthritis—Intravenous Administration
 
 The efficacy of ACTEMRA was assessed in a three-part study including an open-label extension in children 2 to 17 years of age with active polyarticular juvenile idiopathic arthritis (PJIA), who had an inadequate response to methotrexate or inability to tolerate methotrexate.
 Patients had at least 6 months of active disease (mean disease duration of 4.2 ± 3.7 years), with at least five joints with active arthritis (swollen or limitation of movement accompanied by pain and/or tenderness) and/or at least 3 active joints having limitation of motion (mean, 20 ± 14 active joints).
@@ -252,7 +252,7 @@ ACTEMRA treated patients experienced significantly fewer disease flares compared
 
 During the withdrawal phase (Part II), more patients treated with ACTEMRA showed JIA ACR 30/50/70 responses at Week 40 compared to patients withdrawn to placebo.
 
-## 14.5 Systemic Juvenile Idiopathic Arthritis-Intravenous Administration
+## 14.5 Systemic Juvenile Idiopathic Arthritis—Intravenous Administration
 
 The efficacy of ACTEMRA for the treatment of active SJIA was assessed in a 12-week randomized, double blind, placebo-controlled, parallel group, 2-arm study.
 Patients treated with or without MTX, were randomized (ACTEMRA:placebo = 2:1) to one of two treatment groups: 75 patients received ACTEMRA infusions every two weeks at either 8 mg per kg for patients at or above 30 kg or 12 mg per kg for patients less than 30 kg and 37 were randomized to receive placebo infusions every two weeks.
@@ -302,3 +302,14 @@ Health Related Outcomes
 
 Physical function and disability were assessed using the Childhood Health Assessment Questionnaire Disability Index (CHAQ-DI).
 Seventy-seven percent (58 out of 75) of patients in the ACTEMRA treatment group achieved a minimal clinically important improvement in CHAQ-DI (change from baseline of ≥ 0.13 units) at week 12 compared to 19% (7 out of 37) in the placebo treatment group.
+
+## 14.6 Cytokine Release Syndrome—Intravenous Administration
+
+The efficacy of ACTEMRA for the treatment of CRS was assessed in a retrospective analysis of pooled outcome data from clinical trials of CAR T-cell therapies for hematological malignancies.
+Evaluable patients had been treated with tocilizumab 8 mg/kg (12 mg/kg for patients < 30 kg) with or without additional high-dose corticosteroids for severe or life-threatening CRS; only the first episode of CRS was included in the analysis.
+The study population included 24 males and 21 females (total 45 patients) of median age 12 years (range, 3–23 years); 82% were Caucasian.
+The median time from start of CRS to first dose of tocilizumab was 4 days (range, 0–18 days).
+Resolution of CRS was defined as lack of fever and off vasopressors for at least 24 hours.
+Patients were considered responders if CRS resolved within 14 days of the first dose of tocilizumab, no more than 2 doses of tocilizumab were needed, and no drugs other than tocilizumab and corticosteroids were used for treatment.
+Thirty-one patients (69%; 95% CI: 53%–82%) achieved a response.
+Achievement of resolution of CRS within 14 days was confirmed in a second study using an independent cohort that included 15 patients (range: 9–75 years old) with CAR T cell-induced CRS.

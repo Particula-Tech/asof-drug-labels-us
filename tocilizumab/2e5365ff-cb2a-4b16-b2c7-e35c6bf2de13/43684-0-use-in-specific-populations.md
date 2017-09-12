@@ -55,12 +55,16 @@ ACTEMRA by intravenous use is indicated for the treatment of pediatric patients 
 
 - Active systemic juvenile idiopathic arthritis in patients 2 years of age and older
 - Active polyarticular juvenile idiopathic arthritis in patients 2 years of age and older
+- Severe or life-threatening CAR T cell-induced cytokine release syndrome (CRS) in patients 2 years of age and older.
 
-Safety and effectiveness of ACTEMRA in pediatric patients with conditions other than PJIA or SJIA have not been established.
+Safety and effectiveness of ACTEMRA in pediatric patients with conditions other than PJIA, SJIA or CRS have not been established.
 Children under the age of two have not been studied.
 SC administration has not been studied in pediatric patients.
 Testing of a murine analogue of tocilizumab did not exert toxicity in juvenile mice.
 In particular, there was no impairment of skeletal growth, immune function and sexual maturation.
+
+In the retrospective analysis of pooled outcome data for patients treated with ACTEMRA for CAR T cell-induced CRS, 25 patients were children (2 years up to 12 years of age), and 17 patients were adolescents (12 years up to 18 years of age).
+There were no differences between the pediatric patients and the adults for safety or efficacy.
 
 ## 8.5 Geriatric Use
 
@@ -68,6 +72,8 @@ Of the 2644 patients who received ACTEMRA in Studies I to V [see Clinical Studie
 Of the 1069 patients who received ACTEMRA-SC in studies SC-I and SC-II there were 295 patients 65 years of age and older, including 41 patients 75 years and older.
 The frequency of serious infection among ACTEMRA treated subjects 65 years of age and older was higher than those under the age of 65.
 As there is a higher incidence of infections in the elderly population in general, caution should be used when treating the elderly.
+
+Clinical studies that included ACTEMRA for CRS did not include sufficient numbers of patients aged 65 and over to determine whether they respond differently from younger patients.
 
 ## 8.6 Hepatic Impairment
 

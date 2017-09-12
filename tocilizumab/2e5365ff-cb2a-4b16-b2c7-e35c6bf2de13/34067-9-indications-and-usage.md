@@ -15,3 +15,7 @@ ACTEMRA® (tocilizumab) is indicated for the treatment of active polyarticular j
 ## 1.4 Systemic Juvenile Idiopathic Arthritis (SJIA)
 
 ACTEMRA® (tocilizumab) is indicated for the treatment of active systemic juvenile idiopathic arthritis in patients 2 years of age and older.
+
+## 1.5 Cytokine Release Syndrome (CRS)
+
+ACTEMRA® (tocilizumab) is indicated for the treatment of chimeric antigen receptor (CAR) T cell-induced severe or life-threatening cytokine release syndrome in adults and pediatric patients 2 years of age and older.

@@ -85,7 +85,7 @@ No accumulation for Cmax was observed.
 Systemic Juvenile Idiopathic Arthritis—Intravenous Administration
 
 The pharmacokinetics of tocilizumab were determined using a population pharmacokinetic analysis on a database composed of 75 patients with SJIA treated with 8 mg per kg (patients with a body weight at or above 30 kg) or 12 mg per kg (patients with a body weight less than 30 kg), given every 2 weeks.
-The estimated mean (± SD) AUC2 weeks, Cmax and Cmin of tocilizumab were 32200 ± 9960 mcg∙hr per mL, 245 ± 57.2 mcg per mL and 57.5 ± 23.3 mcg per mL, respectively.
+The estimated mean (± SD) AUC2weeks, Cmax and Cmin of tocilizumab were 32200 ± 9960 mcg∙hr per mL, 245 ± 57.2 mcg per mL and 57.5 ± 23.3 mcg per mL, respectively.
 The accumulation ratio for Cmin (week 12 over week 2) was 3.2 ± 1.3.
 Steady state was reached on or after week 12.
 Mean estimated tocilizumab exposure parameters were similar between the two dose groups defined by body weight.

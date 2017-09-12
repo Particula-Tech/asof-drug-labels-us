@@ -17,7 +17,7 @@ The risks and benefits of treatment should be considered prior to initiating ACT
 - who have resided or traveled in areas of endemic tuberculosis or endemic mycoses; or
 - with underlying conditions that may predispose them to infection.
 
-Closely monitor patients for the development of signs and symptoms of infection during and after treatment with ACTEMRA, as signs and symptoms of acute inflammation may be lessened due to suppression of the acute phase reactants [see Dosage and Administration (2.5), Adverse Reactions (6.1), and Patient Counseling Information (17)].
+Closely monitor patients for the development of signs and symptoms of infection during and after treatment with ACTEMRA, as signs and symptoms of acute inflammation may be lessened due to suppression of the acute phase reactants [see Dosage and Administration (2.6), Adverse Reactions (6.1), and Patient Counseling Information (17)].
 
 Hold ACTEMRA if a patient develops a serious infection, an opportunistic infection, or sepsis.
 A patient who develops a new infection during treatment with ACTEMRA should undergo a prompt and complete diagnostic workup appropriate for an immunocompromised patient, initiate appropriate antimicrobial therapy, and closely monitor the patient.
@@ -48,7 +48,7 @@ Promptly evaluate patients presenting with new onset abdominal symptoms for earl
 
 ## 5.3 Laboratory Parameters
 
-Approved Adult Indications
+Rheumatoid Arthritis and Giant Cell Arteritis
 
 Neutropenia
 
@@ -58,7 +58,7 @@ Infections have been uncommonly reported in association with treatment-related n
 - –It is not recommended to initiate ACTEMRA treatment in patients with a low neutrophil count, i.e., absolute neutrophil count (ANC) less than 2000 per mm3.
   In patients who develop an absolute neutrophil count less than 500 per mm3 treatment is not recommended.
 - –Monitor neutrophils 4 to 8 weeks after start of therapy and every 3 months thereafter [see Clinical Pharmacology (12.2)].
-  For recommended modifications based on ANC results see [Dosage and Administration (2.8)].
+  For recommended modifications based on ANC results see Dosage and Administration (2.9).
 
 Thrombocytopenia
 
@@ -68,7 +68,7 @@ Treatment-related reduction in platelets was not associated with serious bleedin
 - –It is not recommended to initiate ACTEMRA treatment in patients with a platelet count below 100,000 per mm3.
   In patients who develop a platelet count less than 50,000 per mm3 treatment is not recommended.
 - –Monitor platelets 4 to 8 weeks after start of therapy and every 3 months thereafter.
-  For recommended modifications based on platelet counts see [Dosage and Administration (2.8)].
+  For recommended modifications based on platelet counts see Dosage and Administration (2.9).
 
 Elevated Liver Enzymes
 
@@ -84,7 +84,7 @@ Elevations resolved when MTX and ACTEMRA were discontinued.
   In patients who develop elevated ALT or AST greater than 5× ULN treatment is not recommended.
 - –Monitor ALT and AST levels 4 to 8 weeks after start of therapy and every 3 months thereafter.
   When clinically indicated, other liver function tests such as bilirubin should be considered.
-  For recommended modifications based on transaminases see [Dosage and Administration (2.8)].
+  For recommended modifications based on transaminases [see Dosage and Administration (2.9)].
 
 Lipid Abnormalities
 
@@ -97,7 +97,7 @@ Polyarticular and Systemic Juvenile Idiopathic Arthritis
 
 A similar pattern of liver enzyme elevation, low neutrophil count, low platelet count and lipid elevations is noted with ACTEMRA treatment in the PJIA and SJIA populations.
 Monitor neutrophils, platelets, ALT and AST at the time of the second infusion and thereafter every 4 to 8 weeks for PJIA and every 2 to 4 weeks for SJIA.
-Monitor lipids as above for approved adult indications [see Dosage and Administration (2.8)].
+Monitor lipids as above for approved adult indications [see Dosage and Administration (2.9)].
 
 ## 5.4 Immunosuppression
 

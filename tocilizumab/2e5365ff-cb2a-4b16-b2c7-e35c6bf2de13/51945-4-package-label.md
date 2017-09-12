@@ -19,6 +19,8 @@ Rx only
 
 Genentech
 
+10175058
+
 # PRINCIPAL DISPLAY PANEL - 10 mL Vial Box
 
 NDC 50242-136-01
@@ -40,6 +42,8 @@ Rx only
 
 Genentech
 
+10175059
+
 # PRINCIPAL DISPLAY PANEL - 20 mL Vial Box
 
 NDC 50242-137-01
@@ -60,6 +64,8 @@ No Preservative
 Rx only
 
 Genentech
+
+10175060
 
 # PRINCIPAL DISPLAY PANEL - 0.9 mL Syringe Box
 

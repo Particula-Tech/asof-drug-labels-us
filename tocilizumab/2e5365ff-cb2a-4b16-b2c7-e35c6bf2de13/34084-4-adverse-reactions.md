@@ -1,5 +1,15 @@
 # 6 ADVERSE REACTIONS
 
+The following serious adverse reactions are described elsewhere in labeling:
+
+- Serious Infections [see Warnings and Precautions (5.1)]
+- Gastrointestinal Perforations [see Warnings and Precautions (5.2)]
+- Laboratory Parameters [see Warnings and Precautions (5.3)]
+- Immunosuppression [see Warnings and Precautions (5.4)]
+- Hypersensitivity Reactions, Including Anaphylaxis [see Warnings and Precautions (5.5)]
+- Demyelinating Disorders [see Warnings and Precautions (5.6)]
+- Active Hepatic Disease and Hepatic Impairment [see Warnings and Precautions (5.7)]
+
 Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not predict the rates observed in a broader patient population in clinical practice.
 
 ## 6.1 Clinical Trials Experience in Rheumatoid Arthritis Patients Treated with Intravenous ACTEMRA (ACTEMRA-IV)
@@ -115,13 +125,14 @@ In the all-exposure population, the elevations in lipid parameters remained cons
 
 Immunogenicity
 
+As with all therapeutic proteins, there is potential for immunogenicity.
+The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay.
+Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
+For these reasons, comparison of the incidence of antibodies to tocilizumab in the studies described below with the incidence of antibodies in other studies or to other products may be misleading.
+
 In the 24 week, controlled clinical studies, a total of 2876 patients have been tested for anti-tocilizumab antibodies.
 Forty-six patients (2%) developed positive anti-tocilizumab antibodies, of whom 5 had an associated, medically significant, hypersensitivity reaction leading to withdrawal.
 Thirty patients (1%) developed neutralizing antibodies.
-
-The data reflect the percentage of patients whose test results were positive for antibodies to tocilizumab in specific assays.
-The observed incidence of antibody positivity in an assay is highly dependent on several factors, including assay sensitivity and specificity, assay methodology, sample handling, timing of sample collection, concomitant medication, and underlying disease.
-For these reasons, comparison of the incidence of antibodies to tocilizumab with the incidence of antibodies to other products may be misleading.
 
 Malignancies
 
@@ -349,7 +360,13 @@ Elevation in LDL greater than 1.5× ULN – 2× ULN occurred in 1.9% of patients
 
 In the open label extension study over an average duration of 73 weeks of treatment, the pattern and incidence of elevations in lipid parameters remained consistent with the 12 week controlled study data.
 
-## 6.6 Postmarketing Experience
+## 6.6 Clinical Trials Experience in Patients with Cytokine Release Syndrome Treated with Intravenous ACTEMRA (ACTEMRA-IV)
+
+In a retrospective analysis of pooled outcome data from multiple clinical trials 45 patients were treated with tocilizumab 8 mg/kg (12 mg/kg for patients less than 30 kg) with or without additional high-dose corticosteroids for severe or life-threatening CAR T-cell-induced CRS.
+A median of 1 dose of tocilizumab (range, 1-4 doses) was administered.
+No adverse reactions related to tocilizumab were reported [see Clinical Studies (14.6)].
+
+## 6.7 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of intravenous ACTEMRA.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

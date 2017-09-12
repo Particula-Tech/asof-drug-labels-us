@@ -1,14 +1,16 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Medication Guide)
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Patient Counseling
 
-Advise patients and parents or guardians of minors with PJIA or SJIA of the potential benefits and risks of ACTEMRA.
-Physicians should instruct their patients to read the Medication Guide before starting ACTEMRA therapy.
+Advise patients and parents or guardians of minors with PJIA, SJIA, or CRS of the potential benefits and risks of ACTEMRA.
 
-- Infections: Inform patients that ACTEMRA may lower their resistance to infections.
-  Instruct the patient of the importance of contacting their doctor immediately when symptoms suggesting infection appear in order to assure rapid evaluation and appropriate treatment.
+Infections:
+
+Inform patients that ACTEMRA may lower their resistance to infections.
+Instruct the patient of the importance of contacting their doctor immediately when symptoms suggesting infection appear in order to assure rapid evaluation and appropriate treatment.
+
 - Gastrointestinal Perforation: Inform patients that some patients who have been treated with ACTEMRA have had serious side effects in the stomach and intestines.
   Instruct the patient of the importance of contacting their doctor immediately when symptoms of severe, persistent abdominal pain appear to assure rapid evaluation and appropriate treatment.
 - Hypersensitivity and Serious Allergic Reactions Assess patient suitability for home use for SC injection.
