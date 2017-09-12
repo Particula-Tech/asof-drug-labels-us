@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA205868"
+  ],
+  "inn": "lansoprazole",
+  "labeler": "Lifestar Pharma LLC.",
+  "package_ndcs": [
+    "70756-806-30",
+    "70756-807-30",
+    "70756-807-51",
+    "70756-807-90"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, DELAYED RELEASE",
+      "generic": "lansoprazole",
+      "name": "Lansoprazole"
+    }
+  ],
+  "setid": "afcc0f14-8b00-41ac-8e62-4094a15b959c",
+  "source": "dailymed"
+}
