@@ -17,4 +17,4 @@ Total daily dosage should not exceed 6 capsules.
 
 While not indicated for around-the-clock therapy, when a patient who has been taking Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules regularly and may be physically dependent no longer requires therapy with Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules, taper the dose gradually, by 25% to 50% every 2 to 4 days, while monitoring carefully for signs and symptoms of withdrawal.
 If the patient develops these signs or symptoms, raise the dose to the previous level and taper more slowly, either by increasing the interval between decreases, decreasing the amount of change in dose, or both.
-Do not abruptly discontinue Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules abruptly in a physically dependent patient [see Warnings and Precautions (5.15), Drug Abuse and Dependence (9.3)].
+Do not abruptly discontinue Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules in a physically dependent patient [see Warnings and Precautions (5.15), Drug Abuse and Dependence (9.3)].

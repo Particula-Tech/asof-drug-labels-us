@@ -52,28 +52,43 @@ Advise both patients and caregivers about the risks of respiratory depression an
 Advise patients not to drive or operate heavy machinery until the effects of concomitant use of the benzodiazepine or other CNS depressant have been determined.
 Screen patients for risk of substance use disorders, including opioid abuse and misuse, and warn them of the risk for overdose and death associated with the use of additional CNS depressants including alcohol and illicit drugs [see Drug Interactions (7), Patient Counseling Information (17)].
 
-## 5.4 Neonatal Opioid Withdrawal Syndrome
+## 5.4 Ultra-Rapid Metabolism of Codeine and Other Risk Factors for Life-threatening Respiratory Depression in Children
+
+Life-threatening respiratory depression and death have occurred in children who received codeine.
+Codeine is subject to variability in metabolism based upon CYP2D6 genotype (described below), which can lead to an increased exposure to the active metabolite morphine.
+Based upon postmarketing reports, children younger than 12 years of age appear to be more susceptible to the respiratory depressant effects of codeine, particularly if there are risk factors for respiratory depression.
+For example, many reported cases of death occurred in the postoperative period following tonsillectomy and/or adenoidectomy, and many of the children had evidence of being ultra-rapid metabolizers of codeine.
+Furthermore, children with obstructive sleep apnea who are treated with codeine for post-tonsillectomy and/or adenoidectomy pain may be particularly sensitive to its respiratory depressant effect.
+
+Because of the risk of life-threatening respiratory depression and death:
+
+- •Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules are contraindicated for all children younger than 12 years of age [see Contraindications (4)].
+- •Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules are contraindicated for post-operative management in pediatric patients younger than 18 years of age following tonsillectomy and/or adenoidectomy [see Contraindications (4)].
+- •Avoid the use of Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules in adolescents 12 to 18 years of age who have other risk factors that may increase their sensitivity to the respiratory depressant effects of codeine unless the benefits outweigh the risks.
+  Risk factors include conditions associated with hypoventilation, such as postoperative status, obstructive sleep apnea, obesity, severe pulmonary disease, neuromuscular disease, and concomitant use of other medications that cause respiratory depression.
+- •As with adults, when prescribing codeine for adolescents, healthcare providers should choose the lowest effective dose for the shortest period of time and inform patients and caregivers about these risks and the signs of morphine overdose [see Use in Specific Populations (8), Overdosage (10)].
+
+Nursing Mothers
+
+At least one death was reported in a nursing infant who was exposed to high levels of morphine in breast milk because the mother was an ultra-rapid metabolizer of codeine.
+Breastfeeding is not recommended during treatment with Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules [see Use in Specific Populations (8.2)].
+
+CYP2D6 Genetic Variability: Ultra-rapid metabolizer
+
+Some individuals may be ultra-rapid metabolizers because of a specific CYP2D6 genotype (gene duplications denoted as *1/*1xN or *1/*2xN).
+The prevalence of this CYP2D6 phenotype varies widely and has been estimated at 1 to 10% for Whites (European, North American), 3 to 4% for Blacks (African Americans), 1 to 2% for East Asians (Chinese, Japanese, Korean), and may be greater than 10% in certain racial/ethnic groups (i.e., Oceanian, Northern African, Middle Eastern, Ashkenazi Jews, Puerto Rican).
+
+These individuals convert codeine into its active metabolite, morphine, more rapidly and completely than other people.
+This rapid conversion results in higher than expected serum morphine levels.
+Even at labeled dosage regimens, individuals who are ultra-rapid metabolizers may have life-threatening or fatal respiratory depression or experience signs of overdose (such as extreme sleepiness, confusion, or shallow breathing) [see Overdosage (10)].
+Therefore, individuals who are ultra-rapid metabolizers should not use Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules.
+
+## 5.5 Neonatal Opioid Withdrawal Syndrome
 
 Prolonged use of Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules during pregnancy can result in withdrawal in the neonate.
 Neonatal opioid withdrawal syndrome, unlike opioid withdrawal syndrome in adults, may be life-threatening if not recognized and treated, and requires management according to protocols developed by neonatology experts.
 Observe newborns for signs of neonatal opioid withdrawal syndrome and manage accordingly.
 Advise pregnant women using opioids for a prolonged period of the risk of neonatal opioid withdrawal syndrome and ensure that appropriate treatment will be available [see Use in Specific Populations (8.1, 8.2), Patient Counseling Information (17)].
-
-## 5.5 Death Related to Ultra-Rapid Metabolism of Codeine to Morphine
-
-Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules are contraindicated for post-operative pain management in all pediatric patients undergoing tonsillectomy and/or adenoidectomy [see Contraindications (4)].
-
-Respiratory depression and death have occurred in children who received codeine in the post-operative period following tonsillectomy and/or adenoidectomy and had evidence of being ultra-rapid metabolizers of codeine (i.e., multiple copies of the gene for cytochrome P450 isoenzyme 2D6 or high morphine concentrations).
-Deaths have also occurred in nursing infants who were exposed to high levels of morphine in breast milk because their mothers were ultra-rapid metabolizers of codeine.
-
-Some individuals may be ultra-rapid metabolizers because of a specific CYP2D6 genotype (gene duplications denoted as *1/*1xN or *1/*2xN).
-The prevalence of this CYP2D6 phenotype varies widely and has been estimated at 0.5 to 1% in Chinese and Japanese, 0.5 to 1% in Hispanics, 1 to 10% in Caucasians, 3% in African Americans, and 16 to 28% in North Africans, Ethiopians, and Arabs.
-Data are not available for other ethnic groups.
-These individuals convert codeine into its active metabolite, morphine, more rapidly and completely than other people.
-This rapid conversion results in higher than expected serum morphine levels.
-Even at labeled dosage regimens, individuals who are ultra-rapid metabolizers may have life-threatening or fatal respiratory depression or experience signs of overdose (such as extreme sleepiness, confusion, or shallow breathing).
-
-Children with obstructive sleep apnea who are treated with codeine for post-tonsillectomy and/or adenoidectomy pain may be particularly sensitive to the respiratory depressant effects of codeine that has been rapidly metabolized to morphine.
 
 ## 5.6 Risks of Interactions with Drugs Affecting Cytochrome P450 Isoenzymes
 

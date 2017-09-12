@@ -5,8 +5,8 @@ The following serious adverse reactions are described, or described in greater d
 - •Addiction, Abuse, and Misuse [see Warnings and Precautions (5.1)]
 - •Life-Threatening Respiratory Depression [see Warnings and Precautions (5.2)]
 - •Interactions with Benzodiazepines and other CNS Depressants [see Warnings and Precautions (5.3)]
-- •Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.4)]
-- •Death Related to Ultra-Rapid Metabolism of Codeine to Morphine [see Warnings and Precautions (5.5)]
+- •Ultra-Rapid Metabolism of Codeine and Other Risk Factors for Life-Threatening Respiratory Depression in Children [see Warnings and Precautions (5.4)]
+- •Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.5)]
 - •Hepatotoxicity [see Warnings and Precautions (5.7)]
 - •Adrenal Insufficiency [see Warnings and Precautions (5.10)]
 - •Severe Hypotension [see Warnings and Precautions (5.11)]
@@ -19,7 +19,7 @@ The following serious adverse reactions are described, or described in greater d
 The following adverse reactions associated with the use of butalbital, acetaminophen, caffeine, and codeine phosphate were identified in clinical studies or postmarketing reports.
 Because some of these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-1. Frequently Observed
+Frequently Observed
 
 The most frequently reported adverse reactions were drowsiness, lightheadedness, dizziness, sedation, shortness of breath, nausea, vomiting, abdominal pain, and intoxicated feeling.
 

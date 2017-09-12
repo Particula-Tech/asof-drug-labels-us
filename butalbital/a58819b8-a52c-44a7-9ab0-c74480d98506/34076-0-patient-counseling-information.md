@@ -12,24 +12,19 @@ Life-Threatening Respiratory Depression
 Inform patients of the risk of life-threatening respiratory depression, including information that the risk is greatest when starting Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules or when the dosage is increased, and that it can occur even at recommended dosages [see Warnings and Precautions (5.2)].
 Advise patients how to recognize respiratory depression and to seek medical attention if breathing difficulties develop.
 
+Accidental Ingestion
+
+Inform patients that accidental ingestion, especially in children, may result in respiratory depression or death.
+Instruct patients to take steps to store Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules securely and to properly dispose of unused Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules in accordance with the local state guidelines and/or regulations [see Warnings and Precautions (5.2)].
+
 Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants (Including Alcohol)
 
 Inform patients and caregivers that potentially fatal additive effects may occur if Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules are used with benzodiazepines or other CNS depressants, including alcohol, and not to use these concomitantly unless supervised by a healthcare provider [see Warnings and Precautions (5.3), Drug Interactions (7)].
 
-Accidental Ingestion
+Ultra-Rapid Metabolism of Codeine and Other Risk Factors for Life-threatening Respiratory Depression in Children
 
-Inform patients that accidental ingestion, especially in children, may result in respiratory depression or death.
-Instruct patients to take steps to store Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules securely and to properly dispose of unused Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules in accordance with the local state guidelines and/or regulations.
-
-Ultra-Rapid Codeine Metabolizers
-
-Advise patients that some people have a genetic variation that results in codeine changing into morphine more rapidly and completely than other people.
-Most people are unaware of whether they are ultra-rapid codeine metabolizers or not.
-These higher-than-normal levels of morphine in the blood may lead to life-threatening or fatal respiratory depression or signs of overdose such as extreme sleepiness, confusion, or shallow breathing [see Warnings and Precautions (5.5)].
-
-Children with this genetic variation who were prescribed codeine after tonsillectomy and/or adenoidectomy for obstructive sleep apnea may be at greatest risk based on reports of several deaths in this population due to respiratory depression.
-Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules are contraindicated in all children who undergo tonsillectomy and/or adenoidectomy.
-Advise caregivers of children receiving Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules for other reasons to monitor for signs of respiratory depression.
+Advise caregivers that Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules are contraindicated in all children younger than 12 years of age and in children younger than 18 years of age following tonsillectomy and/or adenoidectomy.
+Advise caregivers of children 12-18 years of age receiving codeine to monitor for signs of respiratory depression [see Warnings and Precautions (5.4)].
 
 Serotonin Syndrome
 
@@ -53,7 +48,7 @@ Important Administration Instructions
 
 Instruct patients how to properly take Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules, including the following:
 
-- •To take the drug only for as long as it is prescribed, in the amounts prescribed, and no more frequently than prescribed [see Dosage and Administration (2.2)].
+- •To take the drug only for as long as it is prescribed, in the amounts prescribed, and no more frequently than prescribed [see Dosage and Administration (2.1, 2.2)].
 - •Do not take more than 4000 milligrams of acetaminophen per day and to call their healthcare provider if they took more than the recommended dose.
 
 Severe Hypotension
@@ -70,7 +65,7 @@ Pregnancy
 
 Neonatal Opioid Withdrawal Syndrome
 
-Inform female patients of reproductive potential that prolonged use of Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated [see Warnings and Precautions (5.4), Use in Specific Populations (8.1)].
+Inform female patients of reproductive potential that prolonged use of Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated [see Warnings and Precautions (5.5), Use in Specific Populations (8.1)].
 
 Embryo-Fetal Toxicity
 
@@ -78,10 +73,7 @@ Inform female patients of reproductive potential that Butalbital, Acetaminophen,
 
 Lactation
 
-Advise patients that nursing mothers taking codeine can have higher morphine levels in their breast milk if they are ultra-rapid metabolizers.
-These higher levels of morphine in breast milk may lead to life-threatening or fatal side effects in nursing babies.
-Advise nursing mothers to watch for signs of morphine toxicity in their infants which includes increased sleepiness (more than usual), difficulty breastfeeding, breathing difficulties, or limpness.
-Instruct nursing mothers to talk to the baby’s doctor immediately if they notice these signs and, if they cannot reach the doctor right away, to take the baby to an emergency room or call 911 (or local emergency services) [see Use in Specific Populations (8.2)].
+Advise women that breastfeeding is not recommended during treatment with Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules [see Use in Specific Populations (8.2)].
 
 Infertility
 
@@ -108,7 +100,7 @@ Distributed By: Actavis Pharma, Inc.
 
 Parsippany, NJ 07054
 
-©2016 Teva Pharmaceuticals USA, Inc. All rights reserved.
+©2017 Teva Pharmaceuticals USA, Inc. All rights reserved.
 
 Rev.
-12/2016
+8/2017

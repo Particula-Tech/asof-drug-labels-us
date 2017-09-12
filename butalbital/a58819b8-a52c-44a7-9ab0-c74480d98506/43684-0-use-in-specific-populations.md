@@ -4,7 +4,7 @@
 
 Risk Summary
 
-Prolonged use of opioid analgesics during pregnancy may cause neonatal opioid withdrawal syndrome.
+Prolonged use of opioid analgesics during pregnancy may cause neonatal opioid withdrawal syndrome [see Warnings and Precautions (5.5)].
 Available data with Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules in pregnant women are insufficient to inform a drug-associated risk for major birth defects and miscarriage.
 Animal reproduction studies have not been conducted with the combination of Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules or with butalbital alone.
 In animal reproduction studies, codeine administration during organogenesis has been shown to produce delayed ossification in the offspring of mice at 2.8 times maximum recommended human dose (MRHD) of 180 mg/day, embryolethal and fetotoxic effects in the offspring of rats and hamsters at approximately 4 to 6 times the MRHD, and cranial malformations/cranioschisis in the offspring of hamsters between 2 and 8 times the MRHD.
@@ -26,7 +26,7 @@ Prolonged use of opioid analgesics during pregnancy for medical or nonmedical pu
 
 Neonatal opioid withdrawal syndrome presents as irritability, hyperactivity and abnormal sleep pattern, high pitched cry, tremor, vomiting, diarrhea and failure to gain weight.
 The onset, duration, and severity of neonatal opioid withdrawal syndrome vary based on the specific opioid used, duration of use, timing and amount of last maternal use, and rate of elimination of the drug by the newborn.
-Observe newborns for symptoms of neonatal opioid withdrawal syndrome and manage accordingly [see Warnings and Precautions (5.4)].
+Observe newborns for symptoms of neonatal opioid withdrawal syndrome and manage accordingly [see Warnings and Precautions (5.5)].
 
 Labor or Delivery
 
@@ -90,19 +90,13 @@ In studies performed in adult animals, caffeine (as caffeine base) administered 
 
 Risk Summary
 
-Codeine is secreted into human milk.
+Codeine and its active metabolite, morphine, are present in human milk.
+There are published studies and cases that have reported excessive sedation, respiratory depression, and death in infants exposed to codeine via breast milk.
+Women who are ultra-rapid metabolizers of codeine achieve higher than expected serum levels of morphine, potentially leading to higher levels of morphine in breast milk that can be dangerous in their breastfed infants.
 In women with normal codeine metabolism (normal CYP2D6 activity), the amount of codeine secreted into human milk is low and dose-dependent.
-Despite the common use of codeine products to manage postpartum pain, reports of adverse events in infants are rare.
-However, some women are ultra-rapid metabolizers of codeine.
-These women achieve higher-than-expected serum levels of codeine's active metabolite, morphine, leading to higher-than-expected levels of morphine in breast milk and potentially dangerously high serum morphine levels in their breastfed infants.
-Therefore, maternal use of codeine can potentially lead to serious adverse reactions, including death, in nursing infants.
 
-The risk of infant exposure to codeine and morphine through breast milk should be weighed against the benefits of breastfeeding for both the mother and the baby.
-Caution should be exercised when codeine is administered to a nursing woman.
-If a codeine containing product is selected, the lowest dose should be prescribed for the shortest period of time to achieve the desired clinical effect.
-Mothers using codeine should be informed about when to seek immediate medical care and how to identify the signs and symptoms of neonatal toxicity, such as drowsiness or sedation, difficulty breastfeeding, breathing difficulties, and decreased tone, in their baby.
-Nursing mothers who are ultra-rapid metabolizers may also experience overdose symptoms such as extreme sleepiness, confusion, or shallow breathing.
-Prescribers should closely monitor mother-infant pairs and notify treating pediatricians about the use of codeine during breastfeeding [see Warnings and Precautions (5.4)].
+There is no information on the effects of the codeine on milk production.
+Because of the potential for serious adverse reactions, including excess sedation, respiratory depression, and death in a breastfed infant, advise patients that breastfeeding is not recommended during treatment with Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules [see Warnings and Precautions (5.4)].
 
 Acetaminophen is present in human milk in small quantities after oral administration.
 Based on data from more than 15 nursing mothers, the calculated infant daily dose of acetaminophen is approximately 1 to 2% of the maternal dose.
@@ -113,10 +107,8 @@ Because of potential for serious adverse reactions in nursing infants from Butal
 
 Clinical Considerations
 
-Infants exposed to Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules through breast milk should be monitored for excess sedation and respiratory depression.
-Withdrawal symptoms can occur in breastfed infants when maternal administration of an opioid analgesic is stopped, or when breastfeeding is stopped.
-
-Because of potential for serious adverse reactions in nursing infants from Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+If infants are exposed to Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules through breast milk, they should be monitored for excess sedation and respiratory depression.
+Withdrawal symptoms can occur in breastfed infants when maternal administration of an opioid analgesic is stopped, or when breast-feeding is stopped.
 
 ## 8.3 Females and Males of Reproductive Potential
 
@@ -129,11 +121,17 @@ Published literature indicates that acetaminophen affects sperm development in m
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness in pediatric patients have not been established.
+The safety and effectiveness of Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules in pediatric patients have not been established.
 
-Respiratory depression and death have occurred in children with obstructive sleep apnea who received codeine in the post-operative period following tonsillectomy and/or adenoidectomy and had evidence of being ultra-rapid metabolizers of codeine (i.e., multiple copies of the gene for cytochrome P450 isoenzyme 2D6 or high morphine concentrations).
-These children may be particularly sensitive to the respiratory depressant effects of codeine that has been rapidly metabolized to morphine.
-Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules are contraindicated for post-operative pain management in all pediatric patients undergoing tonsillectomy and/or adenoidectomy [see Contraindications (4)].
+Life-threatening respiratory depression and deaths have occurred in children who received codeine [see Warnings and Precautions (5.4)].
+In most of the reported cases, these events followed tonsillectomy and/or adenoidectomy, and many of the children had evidence of being ultra-rapid metabolizers of codeine (i.e., multiple copies of the gene for cytochrome P450 isoenzyme 2D6 or high morphine concentrations).
+Children with sleep apnea may be particularly sensitive to the respiratory depressant effects of codeine.
+Because of the risk of life-threatening respiratory depression and death:
+
+- •Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules are contraindicated for all children younger than 12 years of age [see Contraindications (4)].
+- •Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules are contraindicated for post-operative management in pediatric patients younger than 18 years of age following tonsillectomy and/or adenoidectomy [see Contraindications (4)].
+- •Avoid the use of Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules in adolescents 12 to 18 years of age who have other risk factors that may increase their sensitivity to the respiratory depressant effects of codeine unless the benefits outweigh the risks.
+  Risk factors include conditions associated with hypoventilation, such as postoperative status, obstructive sleep apnea, obesity, severe pulmonary disease, neuromuscular disease, and concomitant use of other medications that cause respiratory depression [see Warnings and Precautions (5.4)].
 
 ## 8.5 Geriatric Use
 
