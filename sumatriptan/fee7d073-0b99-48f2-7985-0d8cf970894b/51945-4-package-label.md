@@ -1,4 +1,4 @@
-Principal Display Panel
+PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0739-02
 
@@ -14,14 +14,14 @@ INJECTION
 
 For subcutaneous injection only.
 
-Rx only
-
 2 Single-Dose Syringe Cartridges
 
-10000000054701 Rev.
-4/08
+Rx only
 
-Principal Display Panel
+1. 10000000109572 Rev.
+   8/12
+
+PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0478-00
 
@@ -41,10 +41,10 @@ Rx only
 
 2 Single-Dose Syringe Cartridges
 
-10000000054708 Rev.
-4/08
+1. 10000000109517 Rev.
+   9/12
 
-Principal Display Panel
+PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0449-02
 
@@ -63,15 +63,20 @@ For subcutaneous injection only.
 Single-dose vial.
 Discard unused portion.
 
-5 Single-Dose Vials
-
 Rx only
 
-©2008, GlaxoSmithKline
+5 Single-Dose Vials
 
-10000000054384
+Do not use if the vial plastic overseal is missing or not securely fitted.
 
-Principal Display Panel
+Made in India
+
+©2016 GSK group of companies
+
+1. 10000000143924 Rev.
+   11/16
+
+PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0479-00
 
@@ -98,6 +103,11 @@ Injection
 
 Rx only
 
-©2008, GlaxoSmithKline
+Do not use if tamper-evident label is broken or missing.
 
-10000000054710
+Made in India
+
+©2017 the GSK group of companies
+
+1. 10000000145308 Rev.
+   1/17
