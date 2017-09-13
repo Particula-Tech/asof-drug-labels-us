@@ -190,12 +190,12 @@ Store DELESTROGEN at room temperature between 20° to 25°C (68° to 77°F).
 
 Manufactured by:
 
-Par Pharmaceutical Companies, Inc.
+Par Pharmaceutical, Inc.
 
-Spring Valley, NY 10977
+Chestnut Ridge, NY 10977
 
-Issued: 09/14
+Revised: 08/17
 
-OS110J-1-90-01
+OS110J-1-90-03
 
-3001078E
+3001078H
