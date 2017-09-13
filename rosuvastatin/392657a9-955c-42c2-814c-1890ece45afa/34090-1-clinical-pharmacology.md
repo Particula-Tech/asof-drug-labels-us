@@ -87,9 +87,9 @@ Effect of Rosuvastatin Coadministration on Systemic Exposure To Other Drugs
 | --- | --- | --- | --- |
 |  |  | Mean Ratio (ratio with/without coadministered drug)No Effect = 1.0 |  |
 |  | Name and Dose | Change in AUC | Change in Cmax |
-| 40 mg QD for 10 days | Warfarin125 mg single dose | R-Warfarin1.0(1.0-1.1)2S-Warfarin1.1(1.0-1.1)2 | R-Warfarin1.0(0.9-1.0)2S-Warfarin1.0(0.9-1.1)2 |
-| 40 mg QD for 12 days | Digoxin 0.5 mg single dose | 1.0(0.9-1.2)2 | 1.0(0.9-1.2)2 |
-| 40 mg QD for 28 days | Oral Contraceptive(ethinyl estradiol 0.035 mg & norgestrel 0.180, 0.215 and 0.250 mg) QD for 21 days | EE 1.3(1.2-1.3)2NG 1.3(1.3-1.4)2 | EE 1.3(1.2-1.3)2NG 1.2(1.1-1.3)2 |
+| 40 mg QD for 10 days | Warfarin125 mg single dose | R-Warfarin1.0(1.0 to 1.1)2S-Warfarin1.1(1.0 to 1.1)2 | R-Warfarin1.0(0.9 to 1.0)2S-Warfarin1.0(0.9 to 1.1)2 |
+| 40 mg QD for 12 days | Digoxin 0.5 mg single dose | 1.0(0.9 to 1.2)2 | 1.0(0.9 to 1.2)2 |
+| 40 mg QD for 28 days | Oral Contraceptive(ethinyl estradiol 0.035 mg & norgestrel 0.180, 0.215 and 0.250 mg) QD for 21 days | EE 1.3(1.2 to 1.3)2NG 1.3(1.3 to 1.4)2 | EE 1.3(1.2 to 1.3)2NG 1.2(1.1 to 1.3)2 |
 
 EE = ethinyl estradiol, NG = norgestrel 1.
 Clinically significant pharmacodynamic effects [see Warnings and Precautions (5.3)] 2.
