@@ -2,7 +2,7 @@
 
 The following adverse reactions are discussed in greater detail in other sections of the labeling:
 
-- Suicidal thoughts and behaviors in adolescents and young adults [see Boxed Warning, Warnings and Precautions (5.1)]
+- Suicidal thoughts and behaviors in adolescents and young adults [see Warnings and Precautions (5.1)]
 - Neuropsychiatric symptoms and suicide risk in smoking cessation treatment [see Boxed Warning, Warnings and Precautions (5.2)]
 - Seizure [see Warnings and Precautions (5.3)]
 - Hypertension [see Warnings and Precautions (5.4)]

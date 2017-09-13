@@ -6,7 +6,5 @@ APLENZIN® is a registered trademark of sanofi-aventis U.S. LLC.
 
 Dist. by: Impax Generics Hayward, CA 94544
 
-444-18 Rev.
-09/2016
-
-PHARMACIST – DETACH HERE AND GIVE MEDICATION GUIDE TO PATIENT.
+444-19 Rev.
+06/2017

@@ -80,7 +80,7 @@ In subjects with severe hepatic cirrhosis, significant alterations in the pharma
 Table 5.
 Pharmacokinetics of Bupropion and Metabolites in Patients with Severe Hepatic Cirrhosis: Ratio Relative to Healthy Matched Controls
 
-|  | Cmax | AUC | t½ | Tmax* |
+|  | Cmax | AUC | t½ | Tmax Difference. |
 | --- | --- | --- | --- | --- |
 | Bupropion | 1.69 | 3.12 | 1.43 | 0.5 h |
 | Hydroxybupropion | 0.31 | 1.28 | 3.88 | 19 h |
@@ -147,3 +147,5 @@ Concomitant use of bupropion with other drugs metabolized by CYP2D6 has not been
 Citalopram: Although citalopram is not primarily metabolized by CYP2D6, in one trial bupropion increased the Cmax and AUC of citalopram by 30% and 40%, respectively.
 
 Lamotrigine: Multiple oral doses of bupropion had no statistically significant effects on the single-dose pharmacokinetics of lamotrigine in 12 healthy volunteers.
+
+Digoxin: Literature data showed that digoxin exposure was decreased when a single oral dose of 0.5-mg digoxin was administered 24 hours after a single oral dose of extended-release 150-mg bupropion in healthy volunteers.

@@ -14,7 +14,7 @@ Efficacy of Immediate-Release Bupropion for the Treatment of Major Depressive Di
 
 | Primary Efficacy Measure: HDRS |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| Trial Number | Treatment Group | Mean Baseline Score (SD) | LS Mean Score at Endpoint Visit (SE) | Placebo subtracted DifferenceDifference (drug minus placebo) in least-squares estimates with respect to the primary efficacy parameter. For Trial 1, it refers to the mean score at the endpoint visit; for Trial 2 and 3, it refers to the mean change from baseline to the endpoint visit. (95% CI) |
+| Trial Number | Treatment Group | Mean Baseline Score (SD) | LS Mean Score at Endpoint Visit (SE) | Placebo subtracted DifferenceDifference (drug minus placebo) in least-squares estimates with respect to the primary efficacy parameter. For Trial 1, it refers to the mean score at the endpoint visit; for Trials 2 and 3, it refers to the mean change from baseline to the endpoint visit.(95% CI) |
 | Trial 1 | Immediate-Release Bupropion 300 600 mg/dayDoses that are demonstrated to be statistically significantly superior to placebo. (n = 48) | 28.5 (5.1) | 14.9 (1.3) | -4.7 (-8.8, -0.6) |
 | Placebo (n = 27) | 29.3 (7.0) | 19.6 (1.6) | -- |  |
 |  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Difference (95% CI) |
