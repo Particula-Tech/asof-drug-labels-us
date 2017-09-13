@@ -7,8 +7,8 @@ Avoid use of NSAIDs, including NAPRELAN, in pregnant women starting at 30 weeks 
 
 There are no adequate and well-controlled studies of NAPRELAN in pregnant women.
 Data from observational studies regarding potential embryofetal risks of NSAID use in women in the first or second trimesters of pregnancy are inconclusive.
-In the general U.S. population, all clinically recognized pregnancies, regardless of drug exposure, have a background rate of 2-4% for major malformations, and 15-20% for pregnancy loss.
-In animal reproduction studies in rats, rabbit, and mice no evidence of teratogenicity or fetal harm when naproxen was administered during the period of organogenesis at doses 0.13, 0.26, and 0.6 times the maximum recommended human daily dose of 1500 mg/day, respectively.
+In the general U.S. population, all clinically recognized pregnancies, regardless of drug exposure, have a background rate of 2 to 4% for major malformations, and 15 to 20% for pregnancy loss.
+In animal reproduction studies in rats, rabbit, and mice no evidence of teratogenicity or fetal harm when naproxen was administered during the period of organogenesis at doses 0.13, 0.26, and 0.6 times the maximum recommended human daily dose of 1,500 mg/day, respectively.
 Based on animal data, prostaglandins have been shown to have an important role in endometrial vascular permeability, blastocyst implantation, and decidualization.
 In animal studies, administration of prostaglandin synthesis inhibitors such as naproxen sodium resulted in increased pre- and post-implantation loss.
 
@@ -19,7 +19,7 @@ Data Human Data There is some evidence to suggest that when inhibitors of prosta
 Naproxen treatment given in late pregnancy to delay parturition has been associated with persistent pulmonary hypertension, renal dysfunction, and abnormal prostaglandin E levels in preterm infants.
 Because of the known effect of drugs of this class on the human fetal cardiovascular system (closure of the ductus arteriosus), use during third trimester should be avoided.
 
-Animal data Reproduction studies have been performed in rats at 20 mg/kg/day (0.13 times the maximum recommended human daily dose of 1500 mg/day based on body surface area comparison) rabbits at 20 mg/kg/day (0.26 times the maximum recommended human daily dose, based on body surface area comparison), and mice at 170 mg/kg/day (0.6 times the maximum recommended human daily dose based on body surface area comparison) with no evidence of impaired fertility or harm to the fetus due to the drug.
+Animal data Reproduction studies have been performed in rats at 20 mg/kg/day (0.13 times the maximum recommended human daily dose of 1,500 mg/day based on body surface area comparison) rabbits at 20 mg/kg/day (0.26 times the maximum recommended human daily dose, based on body surface area comparison), and mice at 170 mg/kg/day (0.6 times the maximum recommended human daily dose based on body surface area comparison) with no evidence of impaired fertility or harm to the fetus due to the drug.
 Based on animal data, prostaglandins have been shown to have an important role in endometrial vascular permeability, blastocyst implantation, and decidualization.
 In animal studies, administration of prostaglandin synthesis inhibitors such as naproxen sodium resulted in increased pre- and post-implantation loss.
 

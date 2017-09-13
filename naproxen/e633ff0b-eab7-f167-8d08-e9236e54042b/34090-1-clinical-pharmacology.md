@@ -33,7 +33,7 @@ Pharmacokinetic Parameters at Steady State Day 5 (Mean of 24 Subjects)
 | Tmax(hrs) | 3 | 1 | 1 - 4 | 5 | 2 | 2-10 |
 
 Absorption Naproxen itself is rapidly and completely absorbed from the GI tract with an in vivo bioavailability of 95%.
-Based on the pharmacokinetic profile, the absorption phase of NAPRELAN Tablets occurs in the first 4-6 hours after administration.
+Based on the pharmacokinetic profile, the absorption phase of NAPRELAN Tablets occurs in the first 4 to 6 hours after administration.
 This coincides with disintegration of the tablet in the stomach, the transit of the sustained release microparticles through the small intestine and into the proximal large intestine.
 An in vivo imaging study has been performed in healthy volunteers that confirms rapid disintegration of the tablet matrix and dispersion of the microparticles.
 
@@ -52,8 +52,8 @@ NAPRELAN Tablets exhibit similar dose proportional characteristics.
 Elimination Metabolism Naproxen is extensively metabolized to 6-0-desmethyl naproxen and both parent and metabolites do not induce metabolizing enzymes.
 
 Excretion The elimination half-life of NAPRELAN Tablets and conventional naproxen is approximately 15 hours.
-Steady state conditions are attained after 2-3 doses of NAPRELAN Tablets.
-Most of the drug is excreted in the urine, primarily as unchanged naproxen (less than 1%), 6-0-desmethyl naproxen (less than 1%) and their glucuronide or other conjugates (66-92%).
+Steady state conditions are attained after 2 to 3 doses of NAPRELAN Tablets.
+Most of the drug is excreted in the urine, primarily as unchanged naproxen (less than 1%), 6-0-desmethyl naproxen (less than 1%) and their glucuronide or other conjugates (66 to 92%).
 A small amount (<5%) of the drug is excreted in the feces.
 The rate of excretion has been found to coincide closely with the rate of clearance from the plasma.
 In patients with renal failure, metabolites may accumulate.

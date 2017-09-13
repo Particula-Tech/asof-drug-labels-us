@@ -1,7 +1,7 @@
 # 11 DESCRIPTION
 
 NAPRELAN (naproxen sodium) Controlled-Release Tablets is a nonsteroidal anti-inflammatory drug, available as controlled-release tablets in 375 mg, 500 mg, and 750 mg strengths for oral administration.
-The chemical name is 2-naphthaleneacetic acid, 6-methoxy-a-methyl-sodium salt, (S)-.
+The chemical name is 2-naphthaleneacetic acid, 6-methoxy-α-methyl-sodium salt, (S)-.
 The molecular weight is 252.24.
 Its molecular formula is C14H13NaO3, and it has the following chemical structure.
 

@@ -29,6 +29,6 @@ Alert patients that NSAIDs may be present in “over the counter” medications 
 
 Use of NSAIDS and Low-Dose Aspirin Inform patients not to use low-dose aspirin concomitantly with NAPRELAN until they talk to their healthcare provider [see Drug Interactions (7)].
 
-*Registered Trademark of Alvogen Pharma US, Inc. **Registered Trademark of Alkermes Pharma Ireland Limited ***Naprosyn® is a registered trademark of Syntex Pharmaceuticals International Limited
+All trademarks are the property of their respective owners.
 
-To request medical information or to report SUSPECTED ADVERSE REACTIONS, contact Alvogen, Inc. at 1-866-770-3024 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To request medical information or to report SUSPECTED ADVERSE REACTIONS, contact Almatica at 1-877-447-7979 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

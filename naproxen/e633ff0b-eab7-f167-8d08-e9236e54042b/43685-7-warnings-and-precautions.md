@@ -31,7 +31,7 @@ If NAPRELAN is used in patients with a recent MI, monitor patients for signs of 
 NSAIDs, including naproxen, cause serious gastrointestinal (GI) adverse events including inflammation, bleeding, ulceration, and perforation of the esophagus, stomach, small intestine, or large intestine, which can be fatal.
 These serious adverse events can occur at any time, with or without warning symptoms, in patients treated with NSAIDs.
 Only one in five patients who develop a serious upper GI adverse event on NSAID therapy is symptomatic.
-Upper GI ulcers, gross bleeding, or perforation caused by NSAIDs occurred in approximately 1% of patients treated for 3-6 months, and in about 2%-4% of patients treated for one year.
+Upper GI ulcers, gross bleeding, or perforation caused by NSAIDs occurred in approximately 1% of patients treated for 3 to 6 months, and in about 2% to 4% of patients treated for one year.
 However, even short-term NSAID therapy is not without risk.
 
 Risk Factors for GI Bleeding, Ulceration, and Perforation Patients with a prior history of peptic ulcer disease and/or GI bleeding who used NSAIDs had a greater than 10-fold increased risk for developing a GI bleed compared to patients without these risk factors.
@@ -41,7 +41,7 @@ Additionally, patients with advanced liver disease and/or coagulopathy are at in
 
 Strategies to Minimize the GI Risks in NSAID-treated patients:
 
-- Use the lowest effectivedosage for theshortest possible duration.
+- Use the lowest effectivedosage for the shortest possible duration.
 - Avoid administration of more than one NSAID at a time.
 - Avoid use in patients at higher risk unless benefits are expected to outweigh the increased risk of bleeding.
   For such patients, as well as those with active GI bleeding, consider alternate therapies other than NSAIDs.
@@ -80,13 +80,14 @@ If NAPRELAN is used in patients with severe heart failure, monitor patients for 
 ## 5.6 Renal Toxicity and Hyperkalemia
 
 Renal Toxicity Long-term administration of NSAIDs has resulted in renal papillary necrosis and other renal injury.
+
 Renal toxicity has also been seen in patients in whom renal prostaglandins have a compensatory role in the maintenance of renal perfusion.
 In these patients, administration of an NSAID may cause a dose-dependent reduction in prostaglandin formation and, secondarily, in renal blood flow, which may precipitate overt renal decompensation.
 Patients at greatest risk of this reaction are those with impaired renal function, dehydration, hypovolemia, heart failure, liver dysfunction, those taking diuretics and ACE inhibitors or ARBs, and the elderly.
 Discontinuation of NSAID therapy was usually followed by recovery to the pretreatment state.
 
 No information is available from controlled clinical studies regarding the use of NAPRELAN in patients with advanced renal disease.
-The renal effects of NAPRELAN may hasten the progression of renal dysfunction in patients with pre-existing renal disease.
+The renal effects of NAPRELAN may hasten the progression of renal dysfunction in patients with preexisting renal disease.
 
 Correct volume status in dehydrated or hypovolemic patients prior to initiating NAPRELAN.
 Monitor renal function in patients with renal or hepatic impairment, heart failure, dehydration, or hypovolemia during use of NAPRELAN [see Drug Interactions (7)].
@@ -124,7 +125,7 @@ Avoid use of NSAIDs, including NAPRELAN, in pregnant women starting at 30 weeks 
 ## 5.11 Hematologic Toxicity
 
 Anemia has occurred in NSAID-treated patients.
-This may be due to occult or gross blood loss, fluid retention, or an incompletely described effect upon erythropoiesis.
+This may be due to occult or gross blood loss, fluid retention, or an incompletely described effect on erythropoiesis.
 If a patient treated with NAPRELAN has any signs or symptoms of anemia, monitor hemoglobin or hematocrit.
 
 NSAIDs, including NAPRELAN, may increase the risk of bleeding events.
