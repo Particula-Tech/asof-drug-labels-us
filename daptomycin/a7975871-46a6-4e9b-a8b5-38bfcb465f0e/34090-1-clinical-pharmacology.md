@@ -13,9 +13,9 @@ The principal pharmacokinetic/pharmacodynamic parameter best associated with cli
 
 CUBICIN Administered over a 30-Minute Period in Adults
 
-The mean and standard deviation (SD) pharmacokinetic parameters of daptomycin at steady-state following intravenous (IV) administration of CUBICIN over a 30-minute period at 4 to 12 mg/kg q24h to healthy young adults are summarized in Table 9.
+The mean and standard deviation (SD) pharmacokinetic parameters of daptomycin at steady-state following intravenous (IV) administration of CUBICIN over a 30-minute period at 4 to 12 mg/kg q24h to healthy young adults are summarized in Table 11.
 
-Table 9: Mean (SD) Daptomycin Pharmacokinetic Parameters in Healthy Adult Volunteers at Steady-State
+Table 11: Mean (SD) Daptomycin Pharmacokinetic Parameters in Healthy Adult Volunteers at Steady-State
 
 | AUC0-24 (mcg∙h/mL) | t1/2 (h) | Vss (L/kg) | CLT (mL/h/kg) | Cmax (mcg/mL) |  |
 | --- | --- | --- | --- | --- | --- |
@@ -67,7 +67,7 @@ Specific Populations
 
 Renal Impairment
 
-Population-derived pharmacokinetic parameters were determined for infected adult patients (complicated skin and skin structure infections [cSSSI] and S. aureus bacteremia) and noninfected adult subjects with various degrees of renal function (Table 10).
+Population-derived pharmacokinetic parameters were determined for infected adult patients (complicated skin and skin structure infections [cSSSI] and S. aureus bacteremia) and noninfected adult subjects with various degrees of renal function (Table 12).
 Total plasma clearance (CLT), elimination half-life (t1/2), and volume of distribution at steady-state (Vss) in patients with cSSSI were similar to those in patients with S. aureus bacteremia.
 Following administration of CUBICIN 4 mg/kg q24h by IV infusion over a 30-minute period, the mean CLT was 9%, 22%, and 46% lower among subjects and patients with mild (CLCR 50–80 mL/min), moderate (CLCR 30–<50 mL/min), and severe (CLCR <30 mL/min) renal impairment, respectively, than in those with normal renal function (CLCR >80 mL/min).
 The mean steady-state systemic exposure (AUC), t1/2, and Vss increased with decreasing renal function, although the mean AUC for patients with CLCR 30–80 mL/min was not markedly different from the mean AUC for patients with normal renal function.
@@ -75,7 +75,7 @@ The mean AUC for patients with CLCR <30 mL/min and for patients on dialysis (CAP
 The mean Cmax ranged from 60 to 70 mcg/mL in patients with CLCR ≥30 mL/min, while the mean Cmax for patients with CLCR <30 mL/min ranged from 41 to 58 mcg/mL.
 After administration of CUBICIN 6 mg/kg q24h by IV infusion over a 30-minute period, the mean Cmax ranged from 80 to 114 mcg/mL in patients with mild to moderate renal impairment and was similar to that of patients with normal renal function.
 
-Table 10: Mean (SD) Daptomycin Population Pharmacokinetic Parameters Following Infusion of CUBICIN 4 mg/kg or 6 mg/kg to Infected Adult Patients and Noninfected Adult Subjects with Various Degrees of Renal Function
+Table 12: Mean (SD) Daptomycin Population Pharmacokinetic Parameters Following Infusion of CUBICIN 4 mg/kg or 6 mg/kg to Infected Adult Patients and Noninfected Adult Subjects with Various Degrees of Renal Function
 
 | t1/2Parameters obtained following a single dose from patients with complicated skin and skin structure infections and healthy subjects. (h) 4 mg/kg | Vss (L/kg) 4 mg/kg | CLT (mL/h/kg) 4 mg/kg | AUC0-∞ (mcg∙h/mL) 4 mg/kg | AUCssParameters obtained at steady-state from patients with S. aureus bacteremia. (mcg∙h/mL) 6 mg/kg | Cmin,ss (mcg/mL) 6 mg/kg |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -124,18 +124,32 @@ Body weight-normalized total body clearance and elimination half-life of daptomy
 
 A study was conducted to assess safety, efficacy, and pharmacokinetics of daptomycin in pediatric patients (1 to 17 years old, inclusive) with cSSSI caused by Gram-positive pathogens.
 Patients were enrolled into 4 age groups [see Clinical Studies (14.1)], and intravenous CUBICIN doses of 5 to 10 mg/kg once daily were administered.
-Following administration of multiple doses, daptomycin exposure (AUCss and Cmax,ss) was similar across different age groups after dose adjustment based on body weight and age (Table 11).
+Following administration of multiple doses, daptomycin exposure (AUCss and Cmax,ss) was similar across different age groups after dose adjustment based on body weight and age (Table 13).
 
-Table 11: Mean (SD) Daptomycin Population Pharmacokinetic Parameters in cSSSI Pediatric Patients
+Table 13: Mean (SD) Daptomycin Population Pharmacokinetic Parameters in cSSSI Pediatric Patients
 
-| Dose (mg/kg) | AUCss (mcg∙h/mL) | t1/2 (h) | Vss (mL) | CLT (mL/h/kg) | Cmax,ss (mcg/mL) |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| Age | Pharmacokinetic Parameters |  |  |  |  |  |
-| 12 to 17 years (N=6) | 5 | 434 (67.9) | 7.1 (0.9) | 8200 (3250) | 11.8 (2.15) | 76.4 (6.75) |
-| 7 to 11 years (N=2) | 7 | 543Mean is calculated from N=2 | 6.8 | 4470 | 13.2 | 92.4 |
-| 2 to 6 years (N=7) | 9 | 452 (93.1) | 4.6 (0.8) | 2750 (832) | 20.8 (4.29) | 90.3 (14.0) |
-| 1 to <2 years (N=27) | 10 | 462 (138) | 4.8 (0.6) | 1670 (446) | 23.1 (5.43) | 81.6 (20.7) |
-| AUCss, area under the concentration-time curve at steady state; CLT, clearance normalized to body weight; Vss, volume of distribution at steady state; t½, terminal half-life |  |  |  |  |  |  |
+| Dose (mg/kg) | Infusion Duration (min) | AUCss (mcg∙h/mL) | t1/2 (h) | Vss (mL) | CLT (mL/h/kg) | Cmax,ss (mcg/mL) |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Age | Pharmacokinetic Parameters |  |  |  |  |  |  |
+| 12 to 17 years (N=6) | 5 | 30 | 434 (67.9) | 7.1 (0.9) | 8200 (3250) | 11.8 (2.15) | 76.4 (6.75) |
+| 7 to 11 years (N=2) | 7 | 30 | 543Mean is calculated from N=2 | 6.8 | 4470 | 13.2 | 92.4 |
+| 2 to 6 years (N=7) | 9 | 60 | 452 (93.1) | 4.6 (0.8) | 2750 (832) | 20.8 (4.29) | 90.3 (14.0) |
+| 1 to less than 2 years (N=27) | 10 | 60 | 462 (138) | 4.8 (0.6) | 1670 (446) | 23.1 (5.43) | 81.6 (20.7) |
+| AUCss, area under the concentration-time curve at steady state; CLT, clearance normalized to body weight; Vss, volume of distribution at steady state; t½, terminal half-life |  |  |  |  |  |  |  |
+
+A study was conducted to assess safety, efficacy, and pharmacokinetics of daptomycin in pediatric patients with S. aureus bacteremia.
+Patients were enrolled into 3 age groups [see Clinical Studies (14.2)], and intravenous doses of 7 to 12 mg/kg once daily were administered.
+Following administration of multiple doses, daptomycin exposure (AUCss and Cmax,ss) was similar across different age groups after dose adjustment based on body weight and age (Table 14).
+
+Table 14: Mean (SD) of Daptomycin Pharmacokinetics in Bacteremia Pediatric Patients
+
+| Dose (mg/kg) | Infusion Duration (min) | AUCss (mcg∙h/mL) | t1/2 (h) | Vss (mL) | CLT (mL/h/kg) | Cmax,ss (mcg/mL) |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Age | Pharmacokinetic Parameters |  |  |  |  |  |  |
+| 12 to 17 years (N=13) | 7 | 30 | 656 (334) | 7.5 (2.3) | 6420 (1980) | 12.4 (3.9) | 104 (35.5) |
+| 7 to 11 years (N=19) | 9 | 30 | 579 (116) | 6.0 (0.8) | 4510 (1470) | 15.9 (2.8) | 104 (14.5) |
+| 2 to 6 years (N=19) | 12 | 60 | 620 (109) | 5.1 (0.6) | 2200 (570) | 19.9 (3.4) | 106 (12.8) |
+| AUCss, area under the concentration-time curve at steady state; CLT, clearance normalized to body weight; Vss, volume of distribution at steady state; t½, terminal half-life No patients 1 to <2 years of age were enrolled in the study. Simulation using a population pharmacokinetic model demonstrated that the AUCss of daptomycin in pediatric patients 1 to <2 years of age receiving 12 mg/kg once daily would be comparable to that in adult patients receiving 6 mg/kg once daily. |  |  |  |  |  |  |  |
 
 Drug-Drug Interactions
 
@@ -230,7 +244,7 @@ However, the efficacy of daptomycin in treating clinical infections due to these
 
 Susceptibility Test Methods
 
-When available, the clinical microbiology laboratory should provide cumulative reports of in vitro susceptibility test results for antimicrobial drugs used in local hospitals and practice areas as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
+When available, the clinical microbiology laboratory should provide the results of in vitro susceptibility test for antimicrobial drugs used in resident hospitals to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
 These reports should aid in the selection of an appropriate antibacterial drug for treatment.
 
 Dilution Techniques
@@ -238,15 +252,15 @@ Dilution Techniques
 Quantitative methods are used to determine antimicrobial MICs.
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
 The MICs should be determined using a standardized broth test method5,6 with the broth adjusted to a calcium content of 50 mg/L.
-The use of the agar dilution method is not recommended with daptomycin3.
-The MICs should be interpreted according to criteria provided in Table 12.
+The use of the agar dilution method is not recommended with daptomycin5.
+The MICs should be interpreted according to criteria provided in Table 15.
 
 Diffusion Techniques
 
 Quantitative methods that require measurement of zone diameters have not been shown to provide reproducible estimates of the susceptibility of bacteria to daptomycin.
 The use of the disk diffusion method is not recommended with daptomycin6,7.
 
-Table 12: Susceptibility Interpretive Criteria for Daptomycin
+Table 15: Susceptibility Interpretive Criteria for Daptomycin
 
 | S | I | R |  |
 | --- | --- | --- | --- |
@@ -261,9 +275,9 @@ A report of Susceptible (S) indicates that the antimicrobial drug is likely to i
 Quality Control
 
 Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test5,6.
-Standard daptomycin powder should provide the ranges of MIC values noted in Table 13.
+Standard daptomycin powder should provide the ranges of MIC values noted in Table 16.
 
-Table 13: Acceptable Quality Control Ranges for Daptomycin to Be Used in Validation of Susceptibility Test Results
+Table 16: Acceptable Quality Control Ranges for Daptomycin to Be Used in Validation of Susceptibility Test Results
 
 | Quality Control Strain | Broth Dilution MIC RangeThe quality control ranges for S. aureus and E. faecalis are applicable only to tests performed by broth dilution using Mueller-Hinton broth adjusted to a calcium content of 50 mg/L; the quality control range for Streptococcus pneumoniae is applicable only to tests performed by broth dilution using Mueller-Hinton broth adjusted to a calcium content of 50 mg/L, supplemented with 2 to 5% lysed horse blood, inoculated with a direct colony suspension and incubated in ambient air at 35ºC for 20 to 24 hours. (mcg/mL) |
 | --- | --- |
