@@ -7,81 +7,46 @@ pan toe’ pra zole soe’ dee um
 Read this Medication Guide before you start taking pantoprazole sodium delayed-release tablets and each time you get a refill.
 There may be new information.
 This information does not take the place of talking with your doctor about your medical condition or your treatment.
-
 What is the most important information I should know about pantoprazole sodium delayed-release tablets?
-
 Pantoprazole sodiumdelayed-release tablets may help your acid-related symptoms, but you could still have serious stomach problems.
 Talk with your doctor.
-
 Pantoprazole sodiumdelayed-release tablets can cause serious side effects, including: • A type of kidney problem (acute interstitial nephritis).
 Some people who take proton pump inhibitor (PPI) medicines, including pantoprazole sodium delayed-release tablets, may develop a kidney problem called acute interstitial nephritis that can happen at any time during treatment with pantoprazole sodium delayed-release tablets.
-Call your doctor if you have a decrease in the amount that you urinate or if you have blood in your urine.
-
-• Diarrhea.
+Call your doctor if you have a decrease in the amount that you urinate or if you have blood in your urine. • Diarrhea.
 Pantoprazole sodium delayed-release tablets may increase your risk of getting severe diarrhea.
 This diarrhea may be caused by an infection (Clostridium difficile) in your intestines.
-
 Call your doctor right away if you have watery stool, stomach pain, and fever that does not go away. • Bone fractures People who take multiple daily doses of PPI medicines for a long period of time (a year or longer) may have an increased risk offractures of the hip, wrist or spine.
 You should take pantoprazole sodium delayed-release tablets exactly as prescribed, at the lowest dose possible for your treatment and for the shortest time needed.
 Talk to your doctor about your risk of bone fracture if you take pantoprazole sodium delayed-release tablet. • Certain types of lupus erythematosus.
 Lupus erythematosus is an autoimmune disorder (the body’s immune cells attack other cells or organs in the body).
 Some people who take PPI medicines, including pantoprazole sodium delayed-release tablet, may develop certain types of lupus erythematosus or have worsening of the lupus they already have.
 Call your doctor right away if you have new or worsening joint pain or a rash on your cheeks or arms that gets worse in the sun.
-
 Pantoprazole sodium delayed-release tablets can have other serious side effects.
-See “What are the possible side effects of pantoprazole sodium delayed-release tablets?”
-
+See“What are the possible side effects of pantoprazole sodium delayed-release tablets?”
 What are pantoprazole sodium delayed-release tablets?
-
 Pantoprazole sodium delayed-release tablets are a prescription medicine called a proton pump inhibitor (PPI).
-
 Pantoprazole sodium delayed-release tablet reduces the amount of acid in your stomach.
-
-Pantoprazole sodium delayed-release tablets are used in adults:
-
-• for up to 8 weeks to heal acid-related damage to the lining of the esophagus (erosive esophagitis or EE) and to relieve symptoms caused by gastroesophageal reflux disease (GERD).
-If needed, your doctor may decide to prescribe another 8 weeks of pantoprazole sodium delayed-release tablet.
-
-• to maintain the healing of acid-related damage to the lining of the esophagus and help prevent return of heartburn symptoms caused by GERD.
+Pantoprazole sodium delayed-release tablets are used in adults: •for up to 8 weeks to heal acid-related damage to the lining of the esophagus (erosive esophagitis or EE) and to relieve symptoms caused by gastroesophageal reflux disease (GERD).
+If needed, your doctor may decide to prescribe another 8 weeks of pantoprazole sodium delayed-release tablet. • to maintain the healing of acid-related damage to the lining of the esophagus and help prevent return of heartburn symptoms caused by GERD.
 It is not known if pantoprazole sodium delayed-release tablet is safe and effective if used longer than 12 months (1 year).
-
 GERD happens when acid in your stomach backs up into the tube (esophagus) that connects your mouth to your stomach.
-This may cause a burning feeling in your chest or throat, sour taste, or burping.
-
-- for the long-term treatment of conditions where your stomach makes too much acid.
-
+This may cause a burning feeling in your chest or throat, sour taste, or burping. •for the long-term treatment of conditions where your stomach makes too much acid.
 This includes a rare condition called Zollinger-Ellison syndrome.
-
 Pantoprazole sodium delayed-release tablets are used in children 5 years of age and older for up to 8 weeks to heal acid-related damage to the lining of the esophagus (erosive esophagitis or EE) caused by GERD.
-
 It is not known if pantoprazole sodium delayed-release tablets are safe if used longer than 8 weeks in children.
 Pantoprazole sodium delayed-release tablets are not for use in children under 5 years of age.
-
 Who should not take pantoprazole sodiumdelayed-release tablets?
-
-Do not take pantoprazole sodium delayed-release tablets if you are:
-
-• allergic to pantoprazole sodium or any of the other ingredients in pantoprazole sodium delayed-release tablets.
-See the end of this Medication Guide for a complete list of ingredients in pantoprazole sodium delayed-release tablets.
-
-• allergic to any proton pump inhibitor (PPI) medicine.
-What should I tell my doctor before taking pantoprazole sodium delayed-release
-
-tablets?
-
+Do not take pantoprazole sodium delayed-release tablets if you are: • allergic to pantoprazole sodium or any of the other ingredients in pantoprazole sodium delayed-release tablets.
+See the end of this Medication Guide for a complete list of ingredients in pantoprazole sodium delayed-release tablets. • allergic to any proton pump inhibitor (PPI) medicine. • are taking a medicine that contains rilpivirine (EDURANT, COMPLERA, ODEFSEY) used to treat HIV-1 (Human Immunodeficiency Virus).
+What should I tell my doctor before taking pantoprazole sodium delayed-release tablets?
 Before taking pantoprazole sodiumdelayed-release tablets, tell your doctor if you:
 
-• have been told that you have low magnesium levels in your blood
-
-- have liver problems
-- have any other medical conditions
-- are pregnant or plan to become pregnant.
-  It is not known if pantoprazole sodium delayed-release tablets will harm your unborn baby.
-- are breastfeeding or plan to breastfeed.
-  Pantoprazole sodium may pass into your milk.
-  You and your doctor should decide if you will take pantoprazole sodium delayed-release tablets or breastfeed.
-  You hould not do both.
-  Talk with your doctor about the best way to feed your baby if you take pantoprazole sodium delayed-release tablets.
+•have been told that you have low magnesium levels in your blood • have any other medical conditions • are pregnant or plan to become pregnant.
+Pantoprazole sodium delayed-release tablets may harm your unborn baby. •are breastfeeding or plan to breastfeed.
+Pantoprazole sodium may pass into your milk.
+You and your doctor should decide if you will take pantoprazole sodium delayed-release tablets or breastfeed.
+You hould not do both.
+Talk with your doctor about the best way to feed your baby if you take pantoprazole sodium delayed-release tablets.
 
 Tell your doctor about all of the medicines you take, including prescription and non­prescription drugs, vitamins and herbal supplements.
 Pantoprazole sodium delayed-release tablets may affect how other medicines work, and other medicines may affect how pantoprazole sodium delayed-release tablets works.
@@ -98,7 +63,6 @@ Especially tell your doctor if you take:
 - mycophenolate mofetil (Cellcept)
 
 Ask your doctor or pharmacist for a list of these medicines, if you are not sure.
-
 Know the medicines that you take.
 Keep a list of them to show your doctor and pharmacist when you get a new medicine.
 
@@ -112,11 +76,7 @@ How should I take pantoprazole sodium delayed-release tablets?
   Do not take two doses to try to make up for a missed dose.
 - If you take too much pantoprazole sodium delayed-release tablets, call your doctor
 
-right away or go to the nearest hospital emergency room.
-
-- See the Instructions for Use at the end of this Medication Guide for detailed instructions about:
-
-• how to take pantoprazole sodium delayed-release tablets
+right away or go to the nearest hospital emergency room. • See the Instructions for Use at the end of this Medication Guide for detailed instructions about: • how to take pantoprazole sodium delayed-release tablets
 
 What are the possible side effects of pantoprazole sodium delayed-release tablets?
 
@@ -128,14 +88,11 @@ See “What is the most important information I should know about sodium delayed
 Pantoprazole sodium delayed-release tablets reduces the amount of acid in your stomach.
 Stomach acid is needed to absorb vitamin B-12 properly.
 
-Talk with your doctor about the possibility of vitamin B-12 deficiency if you have been on pantoprazole sodium delayed-release tablets for a long time (more than 3 years).
-
-• Low magnesium levels in your body.
+Talk with your doctor about the possibility of vitamin B-12 deficiency if you have been on pantoprazole sodium delayed-release tablets for a long time (more than 3 years). • Low magnesium levels in your body.
 This problem can be serious.
 Low magnesium can happen in some people who take a PPI medicine for at least 3 months.
 If low magnesium levels happen, it is usually after a year of treatment.
 You may or may not have symptoms of low magnesium.
-
 Tell your doctor right away if you have any of these symptoms:
 
 - seizures
@@ -160,9 +117,7 @@ The most common side effects with pantoprazole sodium delayed-release tablets in
 | • Upper respiratory infection • Headache • Fever • Diarrhea | • Vomiting • Rash • Stomach pain |
 | --- | --- |
 
-Other side effects:
-
-• Serious allergic reactions.
+Other side effects: • Serious allergic reactions.
 Tell your doctor if you get any of the following symptoms with pantoprazole sodium delayed-release tablets:
 
 - rash
@@ -194,7 +149,6 @@ Medicines are sometimes prescribed for purposes other than those listed in a Med
 Do not use pantoprazole sodium delayed-release tablets for a condition for which it was not prescribed.
 Do not give pantoprazole sodium delayed-release tablets to other people, even if they have the same symptoms you have.
 It may harm them.
-
 This Medication Guide summarizes the most important information about pantoprazole sodium delayed-release tablets.
 For more information, ask your doctor.
 You can ask your doctor or pharmacist for information that is written for healthcare professionals.
@@ -206,20 +160,12 @@ Active ingredient: pantoprazole sodium sesquihydrate USP
 Inactive ingredients: calcium stearate, ferric oxide yellow, hydroxy propyl cellulose, hypromellose, lactose monohydrate, methacrylic acid copolymer, polysorbate 80, propylene glycol, sodium carbonate anhydrous, sodium lauryl sulfate, titanium dioxide, and triethyl citrate.
 The tablets are imprinted with opacode black containing ammonium hydroxide, iron oxide black, propylene glycol and shellac.
 
-Instructions for Use
+Instructions for Use • You can take pantoprazole sodium delayed-release tablets with food or on an empty stomach. • Swallow pantoprazole sodium delayed-release tablets whole. • If you have trouble swallowing a pantoprazole sodium delayed-release 40 mg tablet, you can take two 20 mg tablets instead. • Do not split, chew, or crush pantoprazole sodium delayed-release tablets.
 
-• You can take pantoprazole sodium delayed-release tablets with food or on an empty stomach.
-
-• Swallow pantoprazole sodium delayed-release tablets whole.
-
-• If you have trouble swallowing a pantoprazole sodium delayed-release 40 mg tablet, you can take two 20 mg tablets instead.
-
-• Do not split, chew, or crush pantoprazole sodium delayed-release tablets.
-
-This Medication Guide has been approved by the U.S. Food and Drug Administration.
+This Medication Guide and Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
 Manufactured for: Camber Pharmaceuticals Inc. Piscataway, NJ 08854
 
 By: HETEROTM Hetero Labs Limited Unit V, Polepally, Jadcherla, Mahaboob Nagar – 509 301, India.
 
-Revised: December 2016
+Revised: August 2017

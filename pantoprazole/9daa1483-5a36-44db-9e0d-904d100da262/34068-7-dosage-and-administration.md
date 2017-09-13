@@ -30,7 +30,6 @@ Table 2: Administration Instructions
 | Delayed-Release Tablets | Oral | Swallowed whole, with or without food |
 
 * Patients should be cautioned that pantoprazole sodium delayed-release tablets should not be split, chewed, or crushed.
-
 Pantoprazole Sodium Delayed-Release Tablets should be swallowed whole, with or without food in the stomach.
 If patients are unable to swallow a 40 mg tablet, two 20 mg tablets may be taken.
 Concomitant administration of antacids does not affect the absorption of Pantoprazole Sodium Delayed-Release Tablets.

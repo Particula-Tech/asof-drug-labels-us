@@ -20,14 +20,14 @@ Patients should use the lowest dose and shortest duration of PPI therapy appropr
 
 ## 5.4 Bone Fracture
 
-Several published observational studies suggest that proton pump inhibitor (PPI) therapy may be associated with an increased risk for osteoporosis-related fractures of the hip, wrist, or spine.
+Several published observational studies suggest that PPI therapy may be associated with an increased risk for osteoporosis-related fractures of the hip, wrist, or spine.
 The risk of fracture was increased in patients who received high-dose, defined as multiple daily doses, and long-term PPI therapy (a year or longer).
 Patients should use the lowest dose and shortest duration of PPI therapy appropriate to the condition being treated.
 Patients at risk for osteoporosis-related fractures should be managed according to established treatment guidelines [see Dosage and Administration (2) and Adverse Reactions (6.2)].
 
 ## 5.5 Cutaneous and Systemic Lupus Erythematosus
 
-Cutaneous lupus erythematosus (CLE) and systemic lupus erythematosus (SLE) have been reported in patients taking PPIs, including pantoprazole.
+Cutaneous lupus erythematosus (CLE) and systemic lupus erythematosus (SLE) have been reported in patients taking PPIs, including pantoprazole sodium.
 These events have occurred as both new onset and an exacerbation of existing autoimmune disease.
 The majority of PPI-induced lupus erythematous cases were CLE.
 The most common form of CLE reported in patients treated with PPIs was subacute CLE (SCLE) and occurred within weeks to years after continuous drug therapy in patients ranging from infants to the elderly.
@@ -37,7 +37,7 @@ PPI associated SLE is usually milder than non-drug induced SLE.
 Onset of SLE typically occurred within days to years after initiating treatment primarily in patients ranging from young adults to the elderly.
 The majority of patients presented with rash; however, arthralgia and cytopenia were also reported.
 Avoid administration of PPIs for longer than medically indicated.
-If signs or symptoms consistent with CLE or SLE are noted in patients receiving pantoprazole sodium, discontinue the drug and refer the patient to the appropriate specialist for evaluation.
+If signs or symptoms consistent with CLE or SLE are noted in patients receiving pantoprazole sodium delayed-release tablets, discontinue the drug and refer the patient to the appropriate specialist for evaluation.
 Most patients improve with discontinuation of the PPI alone in 4 to 12 weeks.
 Serological testing (e.g.
 ANA) may be positive and elevated serological test results may take longer to resolve than clinical manifestations.
@@ -53,7 +53,6 @@ This diagnosis should be considered if clinical symptoms consistent with cyanoco
 Hypomagnesemia, symptomatic and asymptomatic, has been reported rarely in patients treated with PPIs for at least three months, in most cases after a year of therapy.
 Serious adverse events include tetany, arrhythmias, and seizures.
 In most patients, treatment of hypomagnesemia required magnesium replacement and discontinuation of the PPI.
-
 For patients expected to be on prolonged treatment or who take PPIs with medications such as digoxin or drugs that may cause hypomagnesemia (e.g., diuretics), health care professionals may consider monitoring magnesium levels prior to initiation of PPI treatment and periodically [see Adverse Reactions (6.2)].
 
 ## 5.8 Tumorigenicity
@@ -64,9 +63,9 @@ The relevance of these findings to tumor development in humans is unknown [see N
 
 ## 5.9 Interference with Urine Screen for THC
 
-See Drug Interactions (7.5)
+There have been reports of false positive urine screening tests for tetrahydrocannabinol (THC) in patients receiving PPIs, including pantoprazole sodium delayed-release tablets [see Drug Interactions (7)].
 
 ## 5.10 Concomitant Use of Pantoprazole Sodium with Methotrexate
 
 Literature suggests that concomitant use of PPIs with methotrexate (primarily at high dose; see methotrexate prescribing information) may elevate and prolong serum levels of methotrexate and/or its metabolite, possibly leading to methotrexate toxicities.
-In high-dose methotrexate administration, a temporary withdrawal of the PPI may be considered in some patients [see Drug Interactions (7.6)].
+In high-dose methotrexate administration, a temporary withdrawal of the PPI may be considered in some patients [see Drug Interactions (7)].
