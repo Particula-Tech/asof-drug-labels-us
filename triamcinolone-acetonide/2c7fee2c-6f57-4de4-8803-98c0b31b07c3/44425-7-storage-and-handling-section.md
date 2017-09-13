@@ -1,3 +1,3 @@
 # STORAGE
 
-Store at 20o - 25oC (68o- 77oF) [see USP Controlled Room Temperature]
+Store at room temperature 20 o - 25 oC (68 o- 77 oF) [see USP Controlled Room Temperature]
