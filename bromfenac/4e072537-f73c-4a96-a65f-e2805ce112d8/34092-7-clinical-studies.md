@@ -2,9 +2,9 @@
 
 ## 14.1 Ocular Inflammation and Pain
 
-Bromfenac 0.07% QD for the treatment of postoperative inflammation and reduction of ocular pain was evaluated in two multi-center, randomized, double-masked, parallel-group and placebo (vehicle)-controlled studies.
+Bromfenac 0.07% QD for the treatment of postoperative inflammation and reduction of ocular pain was evaluated in two multi-center, randomized, double-masked, parallel-group, and placebo (vehicle)-controlled studies.
 Patients undergoing cataract surgery self-administered bromfenac 0.07% or vehicle once daily, beginning 1 day prior to surgery, continuing on the morning of surgery and for 14 days after surgery.
-Complete clearance of ocular inflammation (0 cell and no flare) was assessed on Days 1, 3, 8 and 15 post-surgery using slit lamp biomicroscopy.
+Complete clearance of ocular inflammation (0 cell and no flare) was assessed on Days 1, 3, 8, and 15 postsurgery using slit lamp biomicroscopy.
 The pain score was self-reported.
 The primary efficacy endpoint was the proportion of subjects who had complete clearance of ocular inflammation by Day 15.
 In the intent-to-treat analyses from both assessments, complete clearance at Day 8 and Day 15, bromfenac 0.07% was superior to vehicle as shown in the following table.

@@ -6,4 +6,4 @@ PROLENSA (bromfenac ophthalmic solution) 0.07% is supplied in a white LDPE plast
 
 • 3 mL in a 7.5 mL container (NDC 24208-602-03)
 
-Storage: Store at 15º – 25ºC (59º – 77ºF).
+Storage: Store at 15º-25ºC (59º-77ºF).

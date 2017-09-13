@@ -18,4 +18,4 @@ Active: Each mL contains bromfenac sodium sesquihydrate 0.0805%, which is equiva
 
 Preservative: benzalkonium chloride 0.005%
 
-Inactives: boric acid, edetate disodium, povidone, sodium borate, sodium sulfite, tyloxapol, sodium hydroxide to adjust pH and water for injection, USP.
+Inactives: boric acid, edetate disodium, povidone, sodium borate, sodium sulfite, tyloxapol, sodium hydroxide to adjust pH, and water for injection, USP.

@@ -3,8 +3,8 @@
 ## 8.1 Pregnancy
 
 Treatment of rats at oral doses up to 0.9 mg/kg/day (systemic exposure 90 times the systemic exposure predicted from the recommended human ophthalmic dose [RHOD] assuming the human systemic concentration is at the limit of quantification) and rabbits at oral doses up to 7.5 mg/kg/day (150 times the predicted human systemic exposure) produced no treatment-related malformations in reproduction studies.
-However, embryo-fetal lethality and maternal toxicity were produced in rats and rabbits at 0.9 mg/kg/day and 7.5 mg/kg/day, respectively.
-In rats, bromfenac treatment caused delayed parturition at 0.3 mg/kg/day (30 times the predicted human exposure), and caused dystocia, increased neonatal mortality and reduced postnatal growth at 0.9 mg/kg/day.
+However, embryofetal lethality and maternal toxicity were produced in rats and rabbits at 0.9 mg/kg/day and 7.5 mg/kg/day, respectively.
+In rats, bromfenac treatment caused delayed parturition at 0.3 mg/kg/day (30 times the predicted human exposure), and caused dystocia, increased neonatal mortality, and reduced postnatal growth at 0.9 mg/kg/day.
 
 There are no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.

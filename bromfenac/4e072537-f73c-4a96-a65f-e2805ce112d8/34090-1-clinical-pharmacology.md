@@ -9,5 +9,5 @@ In studies performed in animal eyes, prostaglandins have been shown to produce d
 
 ## 12.3 Pharmacokinetics
 
-The plasma concentration of bromfenac following ocular administration of 0.07% PROLENSA (bromfenac ophthalmic solution) in humans is unknown.
+The plasma concentration of bromfenac following ocular administration of PROLENSA (bromfenac ophthalmic solution) 0.07% in humans is unknown.
 Based on the maximum proposed dose of one drop to each eye (0.035 mg) and PK information from other routes of administration, the systemic concentration of bromfenac is estimated to be below the limit of quantification (50 ng/mL) at steady-state in humans.
