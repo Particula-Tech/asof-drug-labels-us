@@ -1,12 +1,6 @@
 PACKAGE LABEL - PRINCIPAL DISPLAY - Indomethacin for Injection 1 mg Vial Label
 
-NDC 63323-659-09
-
-NP605903
-
-INDOMETHACIN FOR INJECTION
-
-1 mg/vial
+Indomethacin For Injection 1 mg per vial
 
 FOR THE PREPARATION OF INTRAVENOUS SOLUTIONS
 
@@ -16,13 +10,9 @@ Single Dose Vial - Discard unused portion
 
 PACKAGE LABEL - PRINCIPAL DISPLAY - Indomethacin for Injection 1 mg Carton Panel
 
-NDC 63323-659-09
+Indomethacin For Injection
 
-NP605903
-
-INDOMETHACIN FOR INJECTION
-
-1 mg/vial
+1 mg per vial
 
 For Intravenous Use Only
 
