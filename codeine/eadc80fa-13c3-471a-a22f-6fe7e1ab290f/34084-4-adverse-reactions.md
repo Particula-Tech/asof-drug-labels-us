@@ -6,15 +6,12 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - Addiction, Abuse, and Misuse (see WARNINGS)
 - Life-Threatening Respiratory Depression (see WARNINGS)
 - Neonatal Opioid Withdrawal Syndrome (see WARNINGS)
-- Ultra-rapid Metabolizers of Codeine and Other Risk Factors for Life-Threatening Respiratory Depression in Children (see WARNINGS)
+- Ultra-rapid Metabolizers of Codeine (see WARNINGS)
 - Interactions with CNS Depressants (see WARNINGS)
 - Severe Hypotension (see WARNINGS)
 - Gastrointestinal Adverse Reactions (see WARNINGS)
 - Seizures (see WARNINGS)
 - Withdrawal (see WARNINGS)
-
-The following adverse reactions associated with the use of codeine were identified in postmarketing reports.
-Because some of these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Serious adverse reactions associated with codeine are respiratory depression and, to a lesser degree, circulatory depression, respiratory arrest, shock, and cardiac arrest.
 

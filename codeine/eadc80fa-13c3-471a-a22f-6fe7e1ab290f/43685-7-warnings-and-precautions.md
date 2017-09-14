@@ -33,40 +33,28 @@ Overestimating the acetaminophen and codeine phosphate tablets dosage when conve
 
 Accidental ingestion of acetaminophen and codeine phosphate tablets, especially by children, can result in respiratory depression and death due to an overdose of codeine.
 
-Ultra-Rapid Metabolism of Codeine and Other Risk Factors for Life-Threatening Respiratory Depression in Children to Morphine
-
-Life-threatening respiratory depression and death have occurred in children who received codeine.
-Codeine is subject to variability in metabolism based upon CYP2D6 genotype (described below), which can lead to an increased exposure to the active metabolite morphine.
-Based upon post-marketing reports, children less than 12 years old appear to be more susceptible to the respiratory depressant effects of codeine, particularly if there are risk factors for respiratory depression.
-For example, many reported cases of death occurred in the post-operative period following tonsillectomy and/or adenoidectomy, and many of the children had evidence of being ultra-rapid metabolizers of codeine.
-Furthermore, children with obstructive sleep apnea who are treated with codeine for post-tonsillectomy and/or adenoidectomy pain may be particularly sensitive to its respiratory depressant effect.
-Because of the risk of life-threatening respiratory depression and death:
-
-- Acetaminophen and codeine phosphate tablets are contraindicated for all children younger than 12 years of age (see CONTRAINDICATIONS).
-- Acetaminophen and codeine phosphate tablets are contraindicated for post-operative management in pediatric patients younger than 18 years of age following tonsillectomy and/or adenoidectomy (see CONTRAINDICATIONS).
-- Avoid the use of acetaminophen and codeine phosphate tablets in adolescents 12 to 18 years of age who have other risk factors that may increase their sensitivity to the respiratory depressant effects of codeine unless the benefits outweigh the risks.
-  Risk factors include conditions associated with hypoventilation, such as postoperative status, obstructive sleep apnea, obesity, severe pulmonary disease, neuromuscular disease, and concomitant use of other medications that cause depression.
-- As with adults, when prescribing codeine for adolescents, healthcare providers should choose the lowest effective dose for the shortest period of time and inform patients and caregivers about these risks and the signs of morphine overdose (see OVERDOSAGE).
-
-Nursing Mothers
-
-At least one death was reported in a nursing infant who was exposed to high levels of morphine in breast milk because the mother was an ultra-rapid metabolizer of codeine.
-Breastfeeding is not recommended during treatment with acetaminophen and codeine phosphate tablets.
-
-CYP2D6 Genetic Variability: Ultra-rapid metabolizer Some individuals may be ultra-rapid metabolizers because of a specific CYP2D6 genotype (e.g., gene duplications denoted as *1/*1xN or *1/*2xN).
-The prevalence of this CYP2D6 phenotype varies widely and has been estimated at 1 to 10% for Whites (European, North American), 3 to 4% for Blacks (African Americans), 1 to 2% for East Asians (Chinese, Japanese, Korean), and may be greater than 10% in certain ethnic groups (i.e., Oceanian, Northern African, Middle Eastern, Ashkenazi Jews, Puerto Rican).These individuals convert codeine into its active metabolite, morphine, more rapidly and completely than other people.
-This rapid conversion results in higher than expected serum morphine levels.
-Even at labeled dosage regimens, individuals who are ultra-rapid metabolizers may have life-threatening or fatal respiratory depression or experience signs of overdose (such as extreme sleepiness, confusion, or shallow breathing) (see OVERDOSAGE).
-Therefore, individuals who are ultra-rapid metabolizers should not use codeine.
-
 Neonatal Opioid Withdrawal Syndrome
 
 Prolonged use of acetaminophen and codeine phosphate tablets during pregnancy can result in withdrawal in the neonate.
 Neonatal opioid withdrawal syndrome, unlike opioid withdrawal syndrome in adults, may be life-threatening if not recognized and treated, and requires management according to protocols developed by neonatology experts.
 Observe newborns for signs of neonatal opioid withdrawal syndrome and manage accordingly.
-Advise pregnant women using opioids for a prolonged period of the risk of neonatal opioid withdrawal syndrome and ensure that appropriate treatment will be available Prolonged use of acetaminophen and codeine phosphate tablets during pregnancy can result in withdrawal in the neonate.
-Neonatal opioid withdrawal syndrome, unlike opioid withdrawal syndrome in adults, may be life-threatening if not recognized and treated, and requires management according to protocols developed by neonatology experts.
-If opioid use is required for a prolonged period in a pregnant woman, advise the patient of the risk of neonatal opioid withdrawal syndrome and ensure that appropriate treatment will be available (see PRECAUTIONS, Information for Patients/Caregivers, Pregnancy).
+Advise pregnant women using opioids for a prolonged period of the risk of neonatal opioid withdrawal syndrome and ensure that appropriate treatment will be available (see PRECAUTIONS, Information for Patients/Caregivers and Pregnancy).
+
+Death Related to Ultra-Rapid Metabolism of Codeine to Morphine
+
+Codeine-containing products are contraindicated for post-operative pain management in all pediatric patients undergoing tonsillectomy and/or adenoidectomy (see CONTRAINDICATIONS).
+
+Respiratory depression and death have occurred in children who received codeine in the postoperative period following tonsillectomy and/or adenoidectomy and had evidence of being ultra-rapid metabolizers of codeine (i.e., multiple copies of the gene for cytochrome P450 isoenzyme 2D6 or high morphine concentrations).
+Deaths have also occurred in nursing infants who were exposed to high levels of morphine in breast milk because their mothers were ultra-rapid metabolizers of codeine (see PRECAUTIONS, Information for Patients/Caregivers and Nursing Mothers).
+
+Some individuals may be ultra-rapid metabolizers because of a specific CYP2D6 genotype (gene duplications denoted as *1/*1xN or *1/*2xN).
+The prevalence of this CYP2D6 phenotype varies widely and has been estimated at 0.5 to 1% in Chinese and Japanese, 0.5 to 1% in Hispanics, 1 to 10% in Caucasians, 3% in African Americans, and 16 to 28% in North Africans, Ethiopians, and Arabs.
+Data are not available for other ethnic groups.
+These individuals convert codeine into its active metabolite, morphine, more rapidly and completely than other people.
+This rapid conversion results in higher than expected serum morphine levels.
+Even at labeled dosage regimens, individuals who are ultra-rapid metabolizers may have life-threatening or fatal respiratory depression or experience signs of overdose (such as extreme sleepiness, confusion, or shallow breathing) (see OVERDOSAGE).
+
+Children with obstructive sleep apnea who are treated with codeine for post-tonsillectomy and/or adenoidectomy pain may be particularly sensitive to the respiratory depressant effects of codeine that has been rapidly metabolized to morphine.
 
 Risks of Interactions with Drugs Affecting Cytochrome P450 Isoenzymes
 
@@ -81,12 +69,6 @@ The concomitant use of acetaminophen and codeine phosphate tablets with all cyto
 This may be associated with a decrease in efficacy, and in some patients, may result in signs and symptoms of opioid withdrawal.
 
 Follow patients receiving acetaminophen and codeine phosphate tablets and any CYP3A4 inhibitor or inducer for signs and symptoms that may reflect opioid toxicity and opioid withdrawal when acetaminophen and codeine phosphate tablets are used in conjunction with inhibitors and inducers of CYP3A4 (see WARNINGS and PRECAUTIONS, Drug Interactions).
-
-If concomitant use of a CYP3A4 inhibitor is necessary or if a CYP3A4 inducer is discontinued, consider dosage reduction of acetaminophen and codeine phosphate tablets until stable drug effects are achieved.
-Monitor patients for respiratory depression and sedation at frequent intervals.
-
-If concomitant use of a CYP3A4 inducer is necessary or if a CYP3A4 inhibitor is discontinued, consider increasing the acetaminophen and codeine phosphate tablets dosage until stable drug effects are achieved.
-Monitor for signs of opioid withdrawal (see PRECAUTIONS, Drug Interactions).
 
 - Risks of Concomitant Use or Discontinuation of Cytochrome P450 2D6 Inhibitors
 
@@ -119,7 +101,7 @@ The use of acetaminophen and codeine phosphate tablets in patients with acute or
 
 Patients with Chronic Pulmonary Disease – Acetaminophen and codeine phosphate tablets-treated patients with significant chronic obstructive pulmonary disease or cor pulmonale, and those with a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression are at increased risk of decreased respiratory drive including apnea, even at recommended dosages of acetaminophen and codeine phosphate tablets (see WARNINGS, Life-Threatening Respiratory Depression).
 
-Elderly, Cachectic, or Debilitated Patients – Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients because they may have altered pharmacokinetics, including clearance, compared to younger, healthier patients (see WARNINGS, Life-Threatening Respiratory Depression).
+Elderly, Cachetic, or Debilitated Patients – Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients because they may have altered pharmacokinetics, including clearance, compared to younger, healthier patients (see WARNINGS, Life-Threatening Respiratory Depression).
 
 Monitor such patients closely, particularly when initiating and titrating acetaminophen and codeine phosphate tablets and when acetaminophen and codeine phosphate tablets are given concomitantly with other drugs that depress respiration (see WARNINGS, Life-Threatening Respiratory Depression).
 Alternatively, consider the use of non-opioid analgesics in these patients.
@@ -229,10 +211,7 @@ Accidental Ingestion – Inform patients that accidental ingestion, especially b
 Instruct patients to take steps to store acetaminophen and codeine phosphate tablets securely.
 Advise patients to properly dispose of the acetaminophen and codeine phosphate tablets in accordance with local state guidelines and/or regulations.
 
-Ultra-Rapid Metabolism of Codeine and Other Risk Factors for Life-Threatening Respiratory Depression in Children – Advise caregivers that acetaminophen and codeine phosphate tablets is contraindicated in all children younger than 12 years of age and in children younger than 18 years of age following tonsillectomy and/or adenoidectomy.
-Advise caregivers of children ages 12 to 18 years of age receiving codeine to monitor for signs of respiratory depression (see WARNINGS and PRECAUTIONS).
-
-Interactions with Benzodiazepines and Other CNS Depressants – Inform patients and caregivers that potentially fatal additive effects may occur if acetaminophen and codeine phosphate tablets are used with benzodiazepines or other CNS depressants, including alcohol, and not to use these drugs concomitantly unless supervised by a healthcare provider (see WARNINGS and PRECAUTIONS, Drug Interactions).
+Interactions with Benzodiazepines and Other CNS Depressants – Inform patients and caregivers that potentially fatal additive effects may occur if acetaminophen and codeine phosphate tablets are used with benzodiazepines or other CNS depressants, including alcohol, and not to use these drugs concomitantly unless supervised by a health care provider (see WARNINGS and PRECAUTIONS, Drug Interactions).
 
 Serotonin Syndrome – Inform patients that opioids could cause a rare but potentially life-threatening condition resulting from concomitant administration of serotonergic drugs.
 Warn patients of the symptoms and signs of serotonin syndrome, and to seek medical attention right away if symptoms develop.
@@ -246,11 +225,7 @@ Adrenal Insufficiency – Inform patients that opioids could cause adrenal insuf
 Adrenal insufficiency may present with non-specific symptoms and signs such as nausea, vomiting, anorexia, fatigue, weakness, dizziness, and low blood pressure.
 Advise patients to seek medical attention if they experience a constellation of these symptoms (see WARNINGS).
 
-Important Administration Instructions – Instruct patients how to properly take acetaminophen and codeine phosphate tablets (see DOSAGE AND ADMINISTRATION).
-
-- Advise patients not to adjust the dose of acetaminophen and codeine phosphate tablets without consulting a physician or other healthcare professional.
-- If patients have been receiving treatment with acetaminophen and codeine phosphate tablets for more than a few weeks and cessation of therapy is indicated, counsel them on the importance of safely tapering the dose and that abruptly discontinuing the medication could precipitate withdrawal symptoms.
-  Provide a dose schedule to accomplish a gradual discontinuation of the medication (see WARNINGS).
+Important Administration Instructions – Instruct patients how to properly take acetaminophen and codeine phosphate tablets (see DOSAGE and ADMINISTRATION).
 
 Maximum Daily Dose of Acetaminophen
 
@@ -269,16 +244,22 @@ Neonatal Opioid Withdrawal Syndrome – Inform female patients of reproductive p
 
 Embryo-Fetal Toxicity – Inform female patients of reproductive potential that acetaminophen and codeine phosphate tablets can cause fetal harm and to inform the prescriber of a known or suspected pregnancy (see PRECAUTIONS, Pregnancy).
 
-Lactation – Advise women that breastfeeding is not recommended during treatment with acetaminophen and codeine phosphate tablets.
+Lactation – Advise patients that nursing mothers taking codeine can have higher morphine levels in their breast milk if they are ultra-rapid metabolizers.
+These higher levels of morphine in breast milk may lead to life-threatening or fatal side effects in nursing babies.
+Advise nursing mothers to watch for signs of morphine toxicity in their infants which includes increased sleepiness (more than usual), difficulty breastfeeding, breathing difficulties, or limpness.
+Instruct nursing mothers to talk to the baby’s doctor immediately if they notice these signs and, if they cannot reach the doctor right away, to take the baby to an emergency room or call 911 (or local emergency services) (see PRECAUTIONS, Nursing Mothers).
 
 Infertility – Inform patients that chronic use of opioids may cause reduced fertility.
 It is not known whether these effects on fertility are reversible.
 
 Driving or Operating Heavy Machinery – Inform patients that acetaminophen and codeine phosphate tablets may impair the mental and/or physical abilities required for the performance of potentially hazardous tasks such as driving a car or operating machinery and to avoid such tasks while taking this product, until they know how they will react to the medication.
 
-Constipation
-
-Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention (see ADVERSE REACTIONS and CLINICAL PHARMACOLOGY).
+Ultra-Rapid Metabolism of Codeine – Advise patients that some people have a genetic variation that results in codeine changing into morphine more rapidly and completely than other people.
+Most people are unaware of whether they are an ultra-rapid codeine metabolizer or not.
+These higher-than-normal levels of morphine in the blood may lead to life-threatening or fatal respiratory depression or signs of overdose such as extreme sleepiness, confusion, or shallow breathing.
+Children with this genetic variation who were prescribed codeine after tonsillectomy and/or adenoidectomy for obstructive sleep apnea may be at greatest risk based on reports of several deaths in this population due to respiratory depression.
+Codeine-containing products are contraindicated in all children who undergo tonsillectomy and/or adenoidectomy.
+Advise caregivers of children receiving codeine-containing products for other reasons to monitor for signs of respiratory depression.
 
 Disposal of Unused Acetaminophen and Codeine Phosphate Tablets
 
@@ -292,37 +273,34 @@ Drug Interactions
 CYP2D6 Inhibitors
 
 Codeine is metabolized by CYP2D6 to form morphine.
-The concomitant use of acetaminophen and codeine phosphate tablets and CYP2D6 inhibitors (e.g., paroxetine, fluoxetine, bupropion, quinidine) can increase the plasma concentration of codeine, but can decrease the plasma concentration of active metabolite morphine, which could result in reduced analgesic efficacy or symptoms of opioid withdrawal, particularly when an inhibitor is added after a stable dose of acetaminophen and codeine phosphate tablets is achieved (see CLINICAL PHARMACOLOGY).
+The concomitant use of acetaminophen and codeine phosphate tablets and CYP2D6 inhibitors (e.g., paroxetine, fluoxetine, bupropion, quinidine) can increase the plasma concentration of codeine, but decreased the plasma concentration of active metabolite morphine, particularly when an inhibitor is added after a stable dose of acetaminophen and codeine phosphate tablets is achieved.
 
-After stopping a CYP2D6 inhibitor, as the effects of the inhibitor decline, the codeine plasma concentration will decrease but the active morphine plasma concentration will increase, which could increase or prolong adverse reactions and may cause potentially fatal respiratory depression (see CLINICAL PHARMACOLOGY).
+If concomitant use is necessary, consider dosage adjustment of acetaminophen and codeine phosphate tablets until stable drug effects are achieved.
 
-If concomitant use with a CYP2D6 inhibitor is necessary, or if a CYP2D6 inhibitor is discontinued after concomitant use, consider dosage adjustment of acetaminophen and codeine phosphate tablets and monitor patients closely at frequent intervals.
+After stopping a CYP2D6 inhibitor, as the effects of the inhibitor decline, the codeine plasma concentration will decrease but the morphine plasma concentration will increase.
+If a CYP2D6 inhibitor is discontinued, consider adjusting the acetaminophen and codeine phosphate tablets dosage until stable drug effects are achieved.
 
-If concomitant use with CYP2D6 inhibitors is necessary, follow the patient for reduced efficacy or signs and symptoms of opioid withdrawal and consider increasing the acetaminophen and codeine phosphate tablets as needed.
-
-After stopping use of a CYP2D6 inhibitor, consider reducing the acetaminophen and codeine phosphate tablets and monitor the patient for signs and symptoms of respiratory depression or sedation.
+If concomitant use is necessary or if a CYP2D6 inhibitor is discontinued after concomitant use, monitor patients closely at frequent intervals.
+If signs and symptoms of respiratory depression or sedation occur, consider reducing the acetaminophen and codeine phosphate tablets dosage until stable drug effects are achieved.
 
 CYP3A4 Inhibitors
 
-The concomitant use of acetaminophen and codeine phosphate tablets and CYP3A4 inhibitors such as macrolide antibiotics (e.g., erythromycin), azole-antifungal agents (e.g., ketoconazole), and protease inhibitors (e.g., ritonavir), may result in an increase in codeine plasma concentrations, which subsequently greater metabolism by cytochrome CYP2D6, resulting in greater morphine levels, which could increase or prolong adverse reactions and may cause potentially fatal respiratory depression, particularly when an inhibitor is added after a stable dose of acetaminophen and codeine phosphate tablets is achieved (see WARNINGS).
-
-After stopping a CYP3A4 inhibitor, as the effects of the inhibitor decline, it may result in lower codeine levels, greater norcodeine levels, and less metabolism via CYP2D6 with resultant lower morphine levels (see CLINICAL PHARMACOLOGY), resulting in decreased opioid efficacy or a withdrawal syndrome in patients who had developed physical dependence to codeine.
-
-If concomitant use of CYP3A4 inhibitor is necessary, consider dosage reduction of acetaminophen and codeine tablets until stable drug effects are achieved.
+The concomitant use of acetaminophen and codeine phosphate tablets and CYP3A4 inhibitors such as macrolide antibiotics (e.g., erythromycin), azole-antifungal agents (e.g., ketoconazole), and protease inhibitors (e.g., ritonavir), can increase the plasma concentration of codeine, resulting in increased or prolonged opioid effects, particularly when an inhibitor is added after a stable dose of acetaminophen and codeine phosphate tablets is achieved.
+If concomitant use is necessary, consider dosage reduction of acetaminophen and codeine phosphate tablets until stable drug effects are achieved.
 Monitor patients for respiratory depression and sedation at frequent intervals.
 
+After stopping a CYP3A4 inhibitor, as the effects of the inhibitor decline, the codeine plasma concentration will decrease resulting in decreased opioid efficacy or a withdrawal syndrome in patients who had developed physical dependence to codeine.
 If a CYP3A4 inhibitor is discontinued, consider increasing the acetaminophen and codeine phosphate tablets dosage until stable drug effects are achieved.
 Monitor for signs of opioid withdrawal.
 
 CYP3A4 Inducers
 
-The concomitant use of acetaminophen and codeine phosphate tablets and CYP3A4 inducers (e.g., rifampin, carbamazepine, phenytoin) can result in lower codeine levels, greater norcodeine levels, and less metabolism via 2D6 with resultant lower morphine levels (see CLINICAL PHARMACOLOGY), resulting in decreased efficacy or onset of a withdrawal syndrome in patients who have developed physical dependence (see WARNINGS).
+The concomitant use of acetaminophen and codeine phosphate tablets and CYP3A4 inducers (e.g., rifampin, carbamazepine, phenytoin) can decrease the plasma concentration of codeine, resulting in decreased efficacy or onset of a withdrawal syndrome in patients who have developed physical dependence to codeine.
+If concomitant use is necessary, consider increasing the acetaminophen and codeine phosphate tablets dosage until stable drug effects are achieved.
+Monitor for signs of opioid withdrawal.
 
-After stopping a CYP3A4 inducer, as the effects of the inducer decline, the codeine plasma concentration may increase, with subsequently greater metabolism by cytochrome CYP2D6, resulting in greater morphine levels (see CLINICAL PHARMACOLOGY), which could increase or prolong both the therapeutic effects and adverse reactions, and may cause serious respiratory depression.
-
-If concomitant use of a CYP3A4 inducer is necessary, follow the patient for reduced efficacy and signs of opioid withdrawal and consider increasing the acetaminophen and codeine phosphate tablets dosage as needed.
-
-If a CYP3A4 inducer is discontinued, consider acetaminophen and codeine phosphate tablets dosage reduction and monitor for signs of respiratory depression and sedation at frequent intervals.
+After stopping a CYP3A4 inducer, as the effects of the inducer decline, the codeine plasma concentration will increase, which could increase or prolong both the therapeutic effects and adverse reactions, and may cause serious respiratory depression.
+If a CYP3A4 inducer is discontinued, consider acetaminophen and codeine phosphate tablets dosage reduction and monitor for signs of respiratory depression.
 
 Benzodiazepines and Other Central Nervous System (CNS) Depressants
 
@@ -391,8 +369,8 @@ In contrast, there was no evidence of carcinogenic activity in male rats that re
 
 Mutagenesis – Codeine sulfate was not mutagenic in the in vitro bacterial reverse mutation assay or clastogenic in the in vitro Chinese hamster ovary cell chromosome aberration assay.
 
-In the published literature, acetaminophen has been reported to be clastogenic when administered at 1500 mg/kg/day to the rat model (3.6 times the MHDD, based on a body surface area comparison).
-In contrast, no clastogenicity was noted at a dose of 750 mg/kg/day (1.8 times the MHDD, based on a body surface area comparison), suggesting a threshold effect.
+In the published literature, acetaminophen has been reported to be clastogenic when administered at 1500 mg/kg/day to the rat model (3.6-times the MHDD, based on a body surface area comparison).
+In contrast, no clastogenicity was noted at a dose of 750 mg/kg/day (1.8-times the MHDD, based on a body surface area comparison), suggesting a threshold effect.
 
 Impairment of Fertility – No nonclinical fertility studies have been conducted with codeine or the combination of codeine and acetaminophen.
 
@@ -441,33 +419,33 @@ The effect of codeine, if any, on the later growth, development, and functional 
 
 Nursing Mothers
 
-Risk Summary Codeine and its active metabolite, morphine, are present in human milk.
-There are published studies and cases that have reported excessive sedation, respiratory depression, and death in infants exposed to codeine via breast milk.
-Women who are ultra-rapid metabolizers of codeine achieve higher than expected serum levels of morphine, potentially leading to higher levels of morphine in breast milk that can be dangerous in their breastfed infants.
+Codeine is secreted into human milk.
 In women with normal codeine metabolism (normal CYP2D6 activity), the amount of codeine secreted into human milk is low and dose-dependent.
-There is no information on the effects of the codeine on milk production.
-Because of the potential for serious adverse reactions, including excess sedation, respiratory depression, and death in a breastfed infant, advise patients that breastfeeding is not recommended during treatment with acetaminophen and codeine phosphate tablets (see WARNINGS and PRECAUTIONS).
+However, some women are ultra-rapid metabolizers of codeine.
+These women achieve higher-than-expected serum levels of codeine’s active metabolite, morphine, leading to higher-than-expected levels of morphine in breast milk and potentially dangerously high serum morphine levels in their breastfed infants.
+Therefore, maternal use of codeine can potentially lead to serious adverse reactions, including death, in nursing infants.
+
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for acetaminophen and codeine phosphate tablets and any potential adverse effects on the breastfed infant from acetaminophen and codeine phosphate tablets or from the underlying maternal condition.
+
+The risk of infant exposure to codeine and morphine through breast milk should be weighed against the benefits of breastfeeding for both the mother and baby.
+Caution should be exercised when codeine is administered to a nursing woman.
+If a codeine-containing product is selected, the lowest dose should be prescribed for the shortest period of time to achieve the desired clinical effect.
+Infants exposed to codeine phosphate through breast milk should be monitored for excess sedation and respiratory depression.
+Mothers using codeine should be informed about when to seek immediate medical care and how to identify the signs and symptoms of neonatal toxicity, such as drowsiness or sedation, difficulty breastfeeding, breathing difficulties, and decreased tone, in their baby.
+Nursing mothers who are ultra-rapid metabolizers may also experience overdose symptoms such as extreme sleepiness, confusion, or shallow breathing.
+Prescribers should closely monitor mother-infant pairs and notify treating pediatricians about the use of codeine during breastfeeding (see WARNINGS, Death Related to Ultra-Rapid Metabolism of Codeine to Morphine).
 
 Acetaminophen is excreted in breast milk in small amounts, but the significance of its effect on nursing infants is not known.
 Because of the potential for serious adverse reactions in nursing infants from acetaminophen, a decision should be made whether to discontinue nursing or discontinue the drug, taking into account the importance of the drug to the mother.
 
-Clinical Considerations If infants are exposed to acetaminophen and codeine phosphate tablets through breast milk, they should be monitored for excess sedation and respiratory depression.
+Infants exposed to acetaminophen and codeine phosphate tablets through breast milk should be monitored for excess sedation and respiratory depression.
 Withdrawal symptoms can occur in breastfed infants when maternal administration of an opioid analgesic is stopped, or when breast-feeding is stopped.
 
 Pediatric Use
 
-The safety and effectiveness of acetaminophen and codeine phosphate tablets in pediatric patients below the age of 18 have not been established.
-Life-threatening respiratory depression and death have occurred in children who received codeine (see WARNINGS and PRECAUTIONS).
-In most of the reported cases, these events followed tonsillectomy and/or adenoidectomy, and many of the children had evidence of being ultra-rapid metabolizers of codeine (i.e., multiple copies of the gene for cytochrome P450 isoenzyme 2D6 or high morphine concentrations).
-Children with sleep apnea may be particularly sensitive to the respiratory depressant effects of codeine.
-
-Because of the risk of life-threatening respiratory depression and death:
-
-- Acetaminophen and codeine phosphate tablets are contraindicated for all children younger than 12 years of age (see CONTRAINDICATIONS).
-- Acetaminophen and codeine phosphate tablets are contraindicated for post-operative management in pediatric patients younger than 18 years age following tonsillectomy and/or adenoidectomy (see CONTRAINDICATIONS).
-- Avoid the use of acetaminophen and codeine phosphate tablets in adolescents 12 to 18 years of age who have other risk factors that may increase their sensitivity to the respiratory depressant effects of codeine unless the benefits outweigh the risks.
-  Risk factors include conditions associated with hypoventilation, such as postoperative status, obstructive sleep apnea, obesity, severe pulmonary disease, neuromuscular disease, and concomitant use of other medications that cause respiratory depression.
-  (see WARNINGS and PRECAUTIONS).
+Respiratory depression and death have occurred in children with obstructive sleep apnea who received codeine in the post-operative period following tonsillectomy and/or adenoidectomy and had evidence of being ultra-rapid metabolizers of codeine (i.e., multiple copies of the gene for cytochrome P450 isoenzyme CYP2D6 or high morphine concentrations).
+These children may be particularly sensitive to the respiratory depressant effects of codeine that has been rapidly metabolized to morphine.
+Codeine-containing products are contraindicated for post-operative pain management in all pediatric patients undergoing tonsillectomy and/or adenoidectomy (see CONTRAINDICATIONS and WARNINGS).
 
 Geriatric Use
 

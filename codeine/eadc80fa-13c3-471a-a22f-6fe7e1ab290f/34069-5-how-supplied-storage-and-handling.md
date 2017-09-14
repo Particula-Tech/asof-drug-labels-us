@@ -30,11 +30,11 @@ Dispense in tight, light-resistant container as defined in the USP.
 
 Mallinckrodt, the “M” brand mark, the Mallinckrodt Pharmaceuticals logo and M are trademarks of a Mallinckrodt company.
 
-© 2017 Mallinckrodt.
+© 2016 Mallinckrodt.
 
 Mallinckrodt Inc. Hazelwood, MO 63042 USA
 
-Rev 07/2017
+Rev 11/2016
 
 Mallinckrodt™ Pharmaceuticals
 
