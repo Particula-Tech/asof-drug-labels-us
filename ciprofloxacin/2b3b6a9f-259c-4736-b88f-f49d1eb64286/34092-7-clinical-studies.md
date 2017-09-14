@@ -12,7 +12,7 @@ The Per Protocol population had a causative organism(s) with protocol specified 
 
 The clinical success and bacteriologic eradication rates in the Per Protocol population were similar between ciprofloxacin and the comparator group as shown below.
 
-Table 14: Clinical Success and Bacteriologic Eradication at Test of Cure (5 to 9 Days Post-Therapy)
+Table 16: Clinical Success and Bacteriologic Eradication at Test of Cure (5 to 9 Days Post-Therapy)
 
 |  | Ciprofloxacin | Comparator |
 | --- | --- | --- |

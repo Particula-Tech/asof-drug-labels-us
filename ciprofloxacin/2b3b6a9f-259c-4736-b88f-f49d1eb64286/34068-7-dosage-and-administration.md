@@ -5,6 +5,7 @@ Ciprofloxacin tablets should be administered orally as described in the appropri
 ## 2.1 Dosage in Adults
 
 The determination of dosage and duration for any particular patient must take into consideration the severity and nature of the infection, the susceptibility of the causative microorganism, the integrity of the patient’s host-defense mechanisms, and the status of renal and hepatic function.
+Ciprofloxacin tablets may be administered to adult patients when clinically indicated at the discretion of the physician.
 
 Table 1: Adult Dosage Guidelines
 
@@ -46,7 +47,7 @@ Table 3: Pediatric Dosage Guidelines
 
 | Infection | Dose | Frequency | Total Duration |
 | --- | --- | --- | --- |
-| Complicated Urinary Tract or Pyelonephritis (patients from 1 to 17 years of age) | 10 mg/kg to 20 mg/kg (maximum 750 mg per dose; not to be exceeded even in patients weighing more than 51 kg) | Every 12 hours | 10 to 21 days1 |
+| Complicated Urinary Tract or Pyelonephritis (patients from 1 to 17 years of age) | 10 mg/kg to 20 mg/kg (maximum 750 mg per dose; not to be exceeded even in patients weighing more than 51 kg). | Every 12 hours | 10 to 21 days1 |
 | Inhalational Anthrax (Post-Exposure)2 | 15 mg/kg (maximum 500 mg per dose) | Every 12 hours | 60 days |
 | Plague2,3 | 15 mg/kg (maximum 500 mg per dose) | Every 8 to 12 hours | 10 to 21 days |
 | 1. The total duration of therapy for cUTI and pyelonephritis in the clinical trial was determined by the physician. The mean duration of treatment was 11 days (range 10 to 21 days). 2. Begin drug administration as soon as possible after suspected or confirmed exposure. 3. Begin drug administration as soon as possible after suspected or confirmed exposure to Y. pestis. |  |  |  |

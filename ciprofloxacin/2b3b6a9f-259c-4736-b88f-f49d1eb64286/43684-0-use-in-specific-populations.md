@@ -34,7 +34,7 @@ Because of the potential risk of serious adverse reactions (including articular 
 ## 8.4 Pediatric Use
 
 Although effective in clinical trials, ciprofloxacin is not a drug of first choice in the pediatric population due to an increased incidence of adverse reactions compared to controls.
-Quinolones, including ciprofloxacin, cause arthropathy in juvenile animals [see Warnings and Precautions (5.12) and Nonclinical Toxicology (13.2)].
+Quinolones, including ciprofloxacin, cause arthropathy (arthralgia, arthritis), in juvenile animals [see Warnings and Precautions (5.12) and Nonclinical Toxicology (13.2)].
 Complicated Urinary Tract Infection and Pyelonephritis Ciprofloxacin is indicated for the treatment of cUTI and pyelonephritis due to Escherichia coli in pediatric patients 1 to 17 years of age.
 Although effective in clinical trials, ciprofloxacin is not a drug of first choice in the pediatric population due to an increased incidence of adverse reactions compared to the controls, including events related to joints and/or surrounding tissues [see Adverse Reactions (6.1) and Clinical Studies (14.1)].
 Inhalational Anthrax (Post-Exposure) Ciprofloxacin is indicated in pediatric patients from birth to 17 years of age, for inhalational anthrax (post-exposure).

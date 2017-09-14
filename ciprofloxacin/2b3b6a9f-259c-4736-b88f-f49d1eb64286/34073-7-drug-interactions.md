@@ -3,10 +3,9 @@
 Ciprofloxacin is an inhibitor of human cytochrome P450 1A2 (CYP1A2) mediated metabolism.
 Co­-administration of ciprofloxacin with other drugs primarily metabolized by CYP1A2 results in increased plasma concentrations of these drugs and could lead to clinically significant adverse events of the co-­administered drug.
 
-Table 9: Drugs That are Affected by and Affecting Ciprofloxacin
-
-| Drugs That are Affected by Ciprofloxacin |  |  |
+| Table 11: Drugs That are Affected by and Affecting Ciprofloxacin |  |  |
 | --- | --- | --- |
+| Drugs That are Affected by Ciprofloxacin |  |  |
 | Drug(s) | Recommendation | Comments |
 | Tizanidine | Contraindicated | Concomitant administration of tizanidine and ciprofloxacin is contraindicated due to the potentiation of hypotensive and sedative effects of tizanidine [see Contraindications (4.2)]. |
 | Theophylline | Avoid Use (Plasma Exposure Likely to be Increased and Prolonged) | Concurrent administration of ciprofloxacin with theophylline may result in increased risk of a patient developing central nervous system (CNS) or other adverse reactions. If concomitant use cannot be avoided, monitor serum levels of theophylline and adjust dosage as appropriate [see Warnings and Precautions (5.9)]. |
@@ -22,6 +21,7 @@ Table 9: Drugs That are Affected by and Affecting Ciprofloxacin
 | Sildenafil | Use with caution Two-fold increase in exposure | Monitor for sildenafil toxicity [see Clinical Pharmacology (12.3)]. |
 | Duloxetine | Avoid Use Five-fold increase in duloxetine exposure | If unavoidable, monitor for duloxetine toxicity |
 | Caffeine/Xanthine Derivatives | Use with caution Reduced clearance resulting in elevated levels and prolongation of serum half-life | Ciprofloxacin inhibits the formation of paraxanthine after caffeine administration (or pentoxifylline containing products). Monitor for xanthine toxicity and adjust dose as necessary. |
+| Zolpidem | Avoid Use | Co-administration with ciprofloxacin may increase blood levels of zolpidem, concurrent use is not recommended |
 | Drug(s) Affecting Pharmacokinetics of Ciprofloxacin |  |  |
 | Antacids, Sucralfate, Multivitamins and Other Products Containing Multivalent Cations (magnesium/aluminum antacids; polymeric phosphate binders (for example, sevelamer, lanthanum carbonate); sucralfate; Videx® (didanosine) chewable/ buffered tablets or pediatric powder; other highly buffered drugs; or products containing calcium, iron, or zinc and dairy products) | Ciprofloxacin should be taken at least two hours before or six hours after Multivalent cation-containing products administration [see Dosage and Administration (2.4)]. | Decrease ciprofloxacin absorption, resulting in lower serum and urine levels |
 | Probenecid | Use with caution (interferes with renal tubular secretion of ciprofloxacin and increases ciprofloxacin serum levels) | Potentiation of ciprofloxacin toxicity may occur. |

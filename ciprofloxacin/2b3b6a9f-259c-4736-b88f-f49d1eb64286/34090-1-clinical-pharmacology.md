@@ -7,11 +7,11 @@ Ciprofloxacin is a member of the fluoroquinolone class of antibacterial agents [
 ## 12.3 Pharmacokinetics
 
 Absorption The absolute bioavailability of ciprofloxacin when given as an oral tablet is approximately 70% with no substantial loss by first pass metabolism.
-Ciprofloxacin maximum serum concentrations and area under the curve are shown in the chart for the 250 mg to 1000 mg dose range (Table 10).
+Ciprofloxacin maximum serum concentrations (Cmax) and area under the curve (AUC) are shown in the chart for the 250 mg to 1000 mg dose range (Table 12).
 
-Table 10: Maximum Serum Concentrations and Areas Under the Curve
+Table 12: Ciprofloxacin Cmax and AUC Following Administration of Single Doses of Ciprofloxacin Tablets to Healthy Subjects
 
-| Dose (mg) | Maximum Serum Concentration (mcg/mL) | Area Under Curve (AUC) (mcg•hr/mL) |
+| Dose (mg) | Cmax (mcg/mL) | AUC (mcg•hr/mL) |
 | --- | --- | --- |
 | 250 | 1.2 | 4.8 |
 | 500 | 2.4 | 11.6 |
@@ -23,12 +23,12 @@ Mean concentrations 12 hours after dosing with 250, 500, or 750 mg are 0.1, 0.2,
 The serum elimination half-life in subjects with normal renal function is approximately 4 hours.
 Serum concentrations increase proportionately with doses up to 1000 mg.
 
-A 500 mg oral dose given every 12 hours has been shown to produce an area under the serum concentration time curve (AUC) equivalent to that produced by an intravenous infusion of 400 mg ciprofloxacin given over 60 minutes every 12 hours.
+A 500 mg oral dose given every 12 hours has been shown to produce an AUC equivalent to that produced by an intravenous infusion of 400 mg ciprofloxacin given over 60 minutes every 12 hours.
 A 750 mg oral dose given every 12 hours has been shown to produce an AUC at steady-state equivalent to that produced by an intravenous infusion of 400 mg given over 60 minutes every 8 hours.
 A 750 mg oral dose results in a Cmax similar to that observed with a 400 mg intravenous dose.
-A 250 mg oral dose given every 12 hours produces an AUC equivalent to that produced by an infusion of 200 mg ciprofloxacin given every 12 hours (Table 11).
+A 250 mg oral dose given every 12 hours produces an AUC equivalent to that produced by an infusion of 200 mg ciprofloxacin given every 12 hours (Table 13).
 
-Table 11: Steady-state Pharmacokinetic Parameters Following Multiple Oral and IV Doses
+Table 13: Steady-state Cmax and AUC of Ciprofloxacin Following Administration of Multiple Oral and IV Ciprofloxacin Doses to Healthy Subjects
 
 | Parameters | 500 mg | 400 mg | 750 mg | 400 mg |
 | --- | --- | --- | --- | --- |
@@ -121,13 +121,13 @@ Gram-negative bacteria Acinetobacter lwoffi Aeromonas hydrophila Edwardsiella ta
 These reports should aid the physician in selecting an antibacterial drug product for treatment.
 Dilution Techniques Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
-The MICs should be determined using a standardized test method (broth and/or agar).5,6,7 The MIC values should be interpreted according to criteria provided in Table 12.
+The MICs should be determined using a standardized test method (broth and/or agar).5,6,7 The MIC values should be interpreted according to criteria provided in Table 14.
 Diffusion Techniques Quantitative methods that require measurement of zone diameters can also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
 The zone size provides an estimate of the susceptibility of bacteria to antimicrobial compounds.
 The zone size should be determined using a standardized test method.6,7,8 This procedure uses paper disks impregnated with 5 mcg ciprofloxacin to test the susceptibility of bacteria to ciprofloxacin.
-The disc diffusion interpretive criteria are provided in Table 12.
+The disc diffusion interpretive criteria are provided in Table 14.
 
-Table 12: Susceptibility Test Interpretive Criteria for Ciprofloxacin
+Table 14: Susceptibility Test Interpretive Criteria for Ciprofloxacin
 
 |  | MIC (mcg/mL) |  |  | Zone Diameter (mm) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -154,10 +154,10 @@ A report of “Intermediate” indicates that the result should be considered eq
 This category implies possible clinical applicability in body sites where the drug is physiologically concentrated or in situations where high dosage of drug can be used.
 This category also provides a buffer zone that prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
 A report of “Resistant” indicates that the antimicrobial is not likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentrations usually achievable at the infection site; other therapy should be selected.
-Quality Control Standardized susceptibility test procedures require the use of laboratory controls to monitor the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test.5,6,7,8 Standard ciprofloxacin powder should provide the following range of MIC values noted in Table 13.
-For the diffusion technique using the ciprofloxacin 5 mcg disk the criteria in Table 13 should be achieved.
+Quality Control Standardized susceptibility test procedures require the use of laboratory controls to monitor the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test.5,6,7,8 Standard ciprofloxacin powder should provide the following range of MIC values noted in Table 15.
+For the diffusion technique using the ciprofloxacin 5 mcg disk the criteria in Table 15 should be achieved.
 
-Table 13: Acceptable Quality Control Ranges for Ciprofloxacin
+Table 15: Acceptable Quality Control Ranges for Ciprofloxacin
 
 | Bacteria | MIC range (mcg/mL) | Zone Diameter (mm) |
 | --- | --- | --- |

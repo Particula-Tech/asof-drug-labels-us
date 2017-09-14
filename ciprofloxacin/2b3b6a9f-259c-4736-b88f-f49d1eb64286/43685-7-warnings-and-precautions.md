@@ -31,7 +31,7 @@ Avoid fluoroquinolones, including ciprofloxacin, in patients who have previously
 
 ## 5.4 Central Nervous System Effects
 
-Fluoroquinolones, including ciprofloxacin, have been associated with an increased risk of central nervous system (CNS) effects, including. convulsions, increased intracranial pressure (including pseudotumor cerebri), and toxic psychosis ciprofloxacin may also cause central nervous system (CNS) events including: nervousness, agitation, insomnia, anxiety, nightmares, paranoia, dizziness, confusion, tremors, hallucinations, depression, and psychotic reactions have progressed to suicidal ideations/thoughts and self-injurious behavior such as attempted or completed suicide.
+Fluoroquinolones, including ciprofloxacin, have been associated with an increased risk of central nervous system (CNS) effects, including: convulsions, increased intracranial pressure (including pseudotumor cerebri), and toxic psychosis ciprofloxacin may also cause central nervous system (CNS) events including: nervousness, agitation, insomnia, anxiety, nightmares, paranoia, dizziness, confusion, tremors, hallucinations, depression, and psychotic reactions have progressed to suicidal ideations/thoughts and self-injurious behavior such as attempted or completed suicide.
 These reactions may occur following the first dose.
 Advise patients receiving ciprofloxacin to inform their healthcare provider immediately if these reactions occur, discontinue the drug, and institute appropriate care.
 Ciprofloxacin, like other fluoroquinolones, is known to trigger seizures or lower the seizure threshold.
@@ -127,7 +127,7 @@ Prescribing ciprofloxacin tablets in the absence of a proven or strongly suspect
 ## 5.15 Potential Risks with Concomitant Use of Drugs Metabolized by Cytochrome P450 1A2 Enzymes
 
 Ciprofloxacin is an inhibitor of the hepatic CYP1A2 enzyme pathway.
-Co-administration of ciprofloxacin and other drugs primarily metabolized by CYP1A2 (for example, theophylline, methylxanthines, caffeine, tizanidine, ropinirole, clozapine, olanzapine) results in increased plasma concentrations of the co-administered drug and could lead to clinically significant pharmacodynamic adverse reactions of the co-administered drug [see Drug Interactions (7) and Clinical Pharmacology (12.3)].
+Co-administration of ciprofloxacin and other drugs primarily metabolized by CYP1A2 (for example, theophylline, methylxanthines, caffeine, tizanidine, ropinirole, clozapine, olanzapine and zolpidem), results in increased plasma concentrations of the co-administered drug and could lead to clinically significant pharmacodynamic adverse reactions of the co-administered drug [see Drug Interactions (7) and Clinical Pharmacology (12.3)].
 
 ## 5.16 Interference with Timely Diagnosis of Syphilis
 

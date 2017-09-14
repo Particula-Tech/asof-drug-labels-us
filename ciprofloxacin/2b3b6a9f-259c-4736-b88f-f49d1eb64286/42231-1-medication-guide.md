@@ -136,34 +136,34 @@ Before you take ciprofloxacin tablets, tell your healthcare provider if you:
   You should not do both.
 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
-Ciprofloxacin tablets and other medicines can affect each other causing side effects.
-Especially tell your healthcare provider if you take:
 
-- a steroid medicine
-- an anti-psychotic medicine
-- a tricyclic antidepressant
-- a water pill (diuretic)
+- Ciprofloxacin tablets and other medicines can affect each other causing side effects.
+- Especially tell your healthcare provider if you take:
+  - a steroid medicine
+  - an anti-psychotic medicine
+  - a tricyclic antidepressant
+  - a water pill (diuretic)
   - theophylline (such as Theo-24®, Elixophyllin®, Theochron®, Uniphyl®, Theolair®)
   - a medicine to control your heart rate or rhythm (antiarrhythmics)
   - an oral anti-diabetes medicine
-    - phenytoin (Fosphenytoin Sodium®, Cerebyx®, Dilantin-125®, Dilantin®, Extended Phenytoin Sodium®, Prompt Phenytoin Sodium®, Phenytek®)
+  - phenytoin (Fosphenytoin Sodium®, Cerebyx®, Dilantin-125®, Dilantin®, Extended Phenytoin Sodium®, Prompt Phenytoin Sodium®, Phenytek®)
   - cyclosporine (Gengraf®, Neoral®, Sandimmune®, Sangcya®).
   - a blood thinner (such as warfarin, Coumadin®, Jantoven®)
-    - methotrexate (Trexall®)
+  - methotrexate (Trexall®)
   - ropinirole (Requip®)
   - clozapine (Clozaril®, Fazaclo® ODT®)
-    - a Non-Steroidal Anti-Inflammatory Drug (NSAID).
-      Many common medicines for pain relief are NSAIDs.
-      Taking an NSAID while you take ciprofloxacin tablets or other fluoroquinolones may increase your risk of central nervous system effects and seizures.
+  - a Non-Steroidal Anti-Inflammatory Drug (NSAID).
+    Many common medicines for pain relief are NSAIDs.
+    Taking an NSAID while you take ciprofloxacin tablets or other fluoroquinolones may increase your risk of central nervous system effects and seizures.
   - sildenafil (Viagra®, Revatio®)
-    - duloxetine
+  - duloxetine
   - products that contain caffeine
-    - probenecid (Probalan®, Col-probenecid®)
-      - certain medicines may keep ciprofloxacin tablets from working correctly.
-        Take ciprofloxacin tablets either 2 hours before or 6 hours after taking these medicines, vitamins, or supplements:
-        - an antacid, multivitamin, or other medicine or supplements that has magnesium, calcium, aluminum, iron, or zinc
-        - sucralfate (Carafate®)
-        - didanosine (Videx®, Videx EC®)
+  - probenecid (Probalan®, Col-probenecid®)
+- certain medicines may keep ciprofloxacin tablets from working correctly.
+  Take ciprofloxacin tablets either 2 hours before or 6 hours after taking these medicines, vitamins, or supplements:
+  - an antacid, multivitamin, or other medicine or supplements that has magnesium, calcium, aluminum, iron, or zinc
+  - sucralfate (Carafate®)
+  - didanosine (Videx®, Videx EC®)
 
 Ask your healthcare provider for a list of these medicines if you are not sure.
 Know the medicines you take.
@@ -285,7 +285,7 @@ General Information about the safe and effective use of ciprofloxacin tablets.
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use ciprofloxacin tablets for a condition for which it is not prescribed.
 Do not give ciprofloxacin tablets to other people, even if they have the same symptoms that you have.
-They may harm them.
+It may harm them.
 This Medication Guide summarizes the most important information about ciprofloxacin tablets.
 If you would like more information about ciprofloxacin tablets, talk with your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about ciprofloxacin tablets that is written for healthcare professionals.
@@ -294,4 +294,6 @@ What are the ingredients in ciprofloxacin tablets?
 Active ingredient: ciprofloxacin hydrochloride Inactive ingredients: colloidal silicon dioxide, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, povidone, sodium starch glycolate, and titanium dioxide.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 The brands listed are the trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
-Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 090, India Revised: 10/2016
+Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides
+
+Distributed by: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 038, India Revised: 09/2017
