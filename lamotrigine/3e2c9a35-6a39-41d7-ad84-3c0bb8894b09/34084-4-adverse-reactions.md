@@ -61,7 +61,7 @@ Adverse Reactions in Pooled, Placebo-Controlled, Adjunctive Trials in Patients w
 | Vascular disorder |  |  |
 | Hot flush | 2 | 0 |
 
-- aAdverse reactions that occurred in at least 2% of patients treated with LAMICTAL XR and at a greater incidence than placebo.
+1. a Adverse reactions that occurred in at least 2% of patients treated with LAMICTAL XR and at a greater incidence than placebo.
 
 Note: In these trials the incidence of nonserious rash was 2% for LAMICTAL XR and 3% for placebo.
 In clinical trials evaluating immediate-release lamotrigine, the rate of serious rash was 0.3% in adults on adjunctive therapy for epilepsy [see Boxed Warning].

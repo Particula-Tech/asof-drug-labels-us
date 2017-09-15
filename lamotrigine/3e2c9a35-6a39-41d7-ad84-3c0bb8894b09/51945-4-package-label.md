@@ -24,9 +24,7 @@ See prescribing information for dosage information.
 
 Do not use if printed safety seal under cap is broken or missing.
 
-Store at 25oC (77oF); excursions permitted to 15 oC to 30oC (59 oF to 86oF) [see USP Controlled Room Temperature].
-
-Visit www.LAMICTALXR.com
+Store at 25oC (77oF); excursions permitted to 15oC to 30oC (59oF to 86oF) [see USP Controlled Room Temperature].
 
 GlaxoSmithKline
 
@@ -35,9 +33,9 @@ RTP, NC 27709
 Made in India
 
 Rev.
-3/15
+5/17
 
-A133778
+10000000146294
 
 PRINCIPAL DISPLAY PANEL
 
@@ -65,9 +63,7 @@ See prescribing information for dosage information.
 
 Do not use if printed safety seal under cap is broken or missing.
 
-Store at 25oC (77oF); excursions permitted to 15 oC to 30oC (59 oF to 86oF) [see USP Controlled Room Temperature].
-
-Visit www.LAMICTALXR.com
+Store at 25oC (77oF); excursions permitted to 15oC to 30oC (59oF to 86oF) [see USP Controlled Room Temperature].
 
 GlaxoSmithKline
 
@@ -76,9 +72,9 @@ RTP, NC 27709
 Made in India
 
 Rev.
-3/15
+5/17
 
-A133779
+10000000146295
 
 PRINCIPAL DISPLAY PANEL
 
@@ -106,9 +102,7 @@ See prescribing information for dosage information.
 
 Do not use if printed safety seal under cap is broken or missing.
 
-Store at 25oC (77oF); excursions permitted to 15 oC to 30oC (59 oF to 86oF) [see USP Controlled Room Temperature].
-
-Visit www.LAMICTALXR.com
+Store at 25oC (77oF); excursions permitted to 15oC to 30oC (59oF to 86oF) [see USP Controlled Room Temperature].
 
 GlaxoSmithKline
 
@@ -117,9 +111,9 @@ RTP, NC 27709
 Made in India
 
 Rev.
-3/15
+4/17
 
-A133780
+10000000146292
 
 PRINCIPAL DISPLAY PANEL
 
@@ -147,9 +141,7 @@ See prescribing information for dosage information.
 
 Do not use if printed safety seal under cap is broken or missing.
 
-Store at 25oC (77oF); excursions permitted to 15 oC to 30oC (59 oF to 86oF) [see USP Controlled Room Temperature].
-
-Visit www.LAMICTALXR.com
+Store at 25oC (77oF); excursions permitted to 15oC to 30oC (59oF to 86oF) [see USP Controlled Room Temperature].
 
 GlaxoSmithKline
 
@@ -158,9 +150,9 @@ RTP, NC 27709
 Made in India
 
 Rev.
-3/15
+4/17
 
-A133781
+10000000146293
 
 PRINCIPAL DISPLAY PANEL
 
@@ -188,9 +180,7 @@ See prescribing information for dosage information.
 
 Do not use if printed safety seal under cap is broken or missing.
 
-Store at 25oC (77oF); excursions permitted to 15 oC to 30oC (59 oF to 86oF) [see USP Controlled Room Temperature].
-
-Visit www.LAMICTALXR.com
+Store at 25oC (77oF); excursions permitted to 15oC to 30oC (59oF to 86oF) [see USP Controlled Room Temperature].
 
 GlaxoSmithKline
 
@@ -199,9 +189,48 @@ RTP, NC 27709
 Made in India
 
 Rev.
-3/15
+4/17
 
-A133783
+10000000146235
+
+PRINCIPAL DISPLAY PANEL
+
+NDC 0173-0761-00
+
+LAMICTAL® XRTM
+
+(LAMOTRIGINE)
+
+EXTENDED- RELEASE TABLETS
+
+300 mg
+
+Once A Day
+
+Rx only
+
+CAUTION: Verify Product Dispensed
+
+30 tablets
+
+Dispense the accompanying Medication Guide to each patient.
+
+See prescribing information for dosage information.
+
+Do not use if printed safety seal under cap is broken or missing.
+
+Store at 25oC (77oF); excursions permitted to 15oC to 30oC (59oF to 86oF) [see USP Controlled Room Temperature].
+
+GlaxoSmithKline
+
+RTP, NC 27709
+
+Made in India
+
+Rev.
+5/17
+
+10000000146291
 
 PRINCIPAL DISPLAY PANEL
 
@@ -241,10 +270,16 @@ Dispense the accompanying Medication Guide to each patient.
 
 CAUTION: Verify Product Dispensed
 
-©2015, the GSK group of companies
+GlaxoSmithKline
 
-1. 10000000131958 Rev.
-   1/15
+Research Triangle Park, NC 27709
+
+Made in India
+
+©2017 the GSK group of companies
+
+1. 10000000146034 Rev.
+   5/17
 
 PRINCIPAL DISPLAY PANEL
 
@@ -288,10 +323,16 @@ Dispense the accompanying Medication Guide to each patient.
 
 CAUTION: Verify Product Dispensed
 
-©2015, the GSK group of companies
+GlaxoSmithKline
 
-1. 10000000131957 Rev.
-   1/15
+Research Triangle Park, NC 27709
+
+Made in India
+
+©2017 the GSK group of companies
+
+1. 10000000145981 Rev.
+   4/17
 
 PRINCIPAL DISPLAY PANEL
 
@@ -335,48 +376,13 @@ Dispense the accompanying Medication Guide to each patient.
 
 CAUTION: Verify Product Dispensed
 
-©2015, the GSK group of companies
-
-1. 10000000131959 Rev.
-   1/15
-
-PRINCIPAL DISPLAY PANEL
-
-NDC 0173-0761-00
-
-LAMICTAL® XRTM
-
-(LAMOTRIGINE)
-
-EXTENDED- RELEASE TABLETS
-
-300 mg
-
-Once A Day
-
-Rx only
-
-CAUTION: Verify Product Dispensed
-
-30 tablets
-
-Dispense the accompanying Medication Guide to each patient.
-
-See prescribing information for dosage information.
-
-Do not use if printed safety seal under cap is broken or missing.
-
-Store at 25oC (77oF); excursions permitted to 15oC to 30oC (59oF to 86oF) [see USP Controlled Room Temperature].
-
-Visit www.LAMICTALXR.com
-
 GlaxoSmithKline
 
-RTP, NC 27709
+Research Triangle Park, NC 27709
 
 Made in India
 
-Rev.
-3/15
+©2017 the GSK group of companies
 
-A133782
+1. 10000000145969 Rev.
+   4/17
