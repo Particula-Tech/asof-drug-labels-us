@@ -62,7 +62,7 @@ Azithromycin for oral suspension can be taken with or without food.
 | Dosing Calculated on 30 mg/kg as a single dose. |  |  |  |  |
 | Weight |  | 200 mg/5 mL | Total mL per Treatment Course | Total mg per Treatment Course |
 | Kg | Lbs. | 1 Day Regimen |  |  |
-| 5 | 11 | 3.75 mL; (3/4 tsp) | 3.75 mL | 150 mg |
+| 5 | 11 | 3.75 mL; (¾ tsp) | 3.75 mL | 150 mg |
 | 10 | 22 | 7.5 mL; (1½ tsp) | 7.5 mL | 300 mg |
 | 20 | 44 | 15 mL; (3 tsp) | 15 mL | 600 mg |
 | 30 | 66 | 22.5 mL; (4½ tsp) | 22.5 mL | 900 mg |

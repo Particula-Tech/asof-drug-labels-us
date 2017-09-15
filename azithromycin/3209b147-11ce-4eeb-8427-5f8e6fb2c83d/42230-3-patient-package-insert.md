@@ -1,6 +1,6 @@
 # Patient Information
 
-Azithromycin (a ZITH roe MYE sin)
+Azithromycin (ay zith″ roe mye′ sin)
 
 For Oral Suspension
 
@@ -152,9 +152,9 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store azithromycin for oral suspension?
 
-- •Store dry powder at 20° to 25°C (68° to 77°F).
+- •Store dry powder at 68° to 77°F (20° to 25°C).
   PROTECT FROM FREEZING.
-- •Store constituted suspension between 5° to 25°C (41° to 77°F) and discard when full dosing is completed.
+- •Store constituted suspension between 41° to 77°F (5° to 25°C) and discard when full dosing is completed.
 - •Keep azithromycin for oral suspension in a tightly closed container.
 - •Safely throw away any medicine that is out of date or no longer needed.
 
@@ -194,4 +194,4 @@ Teva Pharmaceuticals USA, Inc.
 North Wales, PA 19454
 
 Rev.
-D 2/2017
+E 7/2017
