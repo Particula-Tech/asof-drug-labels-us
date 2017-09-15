@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA009330"
+  ],
+  "inn": "digoxin",
+  "labeler": "Covis Pharma",
+  "package_ndcs": [
+    "70515-260-10",
+    "70515-262-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "digoxin",
+      "name": "LANOXIN"
+    }
+  ],
+  "setid": "9ec84cac-6ecc-43dc-8006-6ccc029e2707",
+  "source": "dailymed"
+}
