@@ -29,6 +29,7 @@ For best results, the canister should be at room temperature before use.
 Shake well for 5 seconds before using.
 
 Keep out of the reach of children.
+Avoid spraying in eyes.
 
 CONTENTS UNDER PRESSURE.
 

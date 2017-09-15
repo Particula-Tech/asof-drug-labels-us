@@ -77,7 +77,7 @@ Fetal and pup deaths occurred at doses approximately 1600 times the MRHDID and h
 
 In an embryo-fetal development study in pregnant rats dosed during the period of organogenesis from gestation days 6-15, no teratogenic, embryocidal or developmental effects were seen at doses up to 375 times the MRHDID (on a mcg/m2 basis with maternal inhalation doses up to 690 mcg/kg/day).
 
-In an embryo-fetal development study in Spregnant rabbits dosed during the period of organogenesis from gestation days 6-18, subcapsular cysts on the liver were observed in the fetuses at a dose 65,000 times the MRHDID (on a mcg/m2 basis with a maternal oral dose of 60,000 mcg/kg/day).
+In an embryo-fetal development study in pregnant rabbits dosed during the period of organogenesis from gestation days 6-18, subcapsular cysts on the liver were observed in the fetuses at a dose 65,000 times the MRHDID (on a mcg/m2 basis with a maternal oral dose of 60,000 mcg/kg/day).
 No teratogenic effects were observed at doses up to 3800 times the MRHDID (on a mcg/m2 basis at maternal oral doses up to 3500 mcg/kg/day).
 
 In a pre- and post-natal development study, pregnant female rats received formoterol at oral doses of 0, 210, 840, and 3400 mcg/kg/day from gestation day 6 through the lactation period.
@@ -89,7 +89,6 @@ There were no treatment-related effects on the physical, functional, and behavio
 Risk Summary
 
 There are no available data on the effects of SYMBICORT, budesonide or formoterol fumarate on the breastfed child or on milk production.
-
 Budesonide, like other inhaled corticosteroids, is present in human milk [see Data].
 There are no available data on the presence of formoterol fumarate in human milk.
 Formoterol fumarate is present in rat milk [see Data].
@@ -100,7 +99,7 @@ Data
 Human data with budesonide delivered via dry powder inhaler indicates that the total daily oral dose of budesonide available in breast milk to the infant is approximately 0.3% to 1% of the dose inhaled by the mother [see Clinical Pharmacology (12.3)].
 For SYMBICORT, the dose of budesonide available to the infant in breast milk, as a percentage of the maternal dose, would be expected to be similar.
 
-In the fertility and reproduction study in rats, plasma levels of formoterol were measured in pups on post natal day 15 [see Use in Specific Populations (8.1)].
+In the fertility and reproduction study in rats, plasma levels of formoterol were measured in pups on post-natal day 15 [see Use in Specific Populations (8.1)].
 It was estimated that the maximum plasma concentration that the pups received from the maternal animal, at the highest dose of 15 mg/kg, after nursing was 4.4% (0.24 nmol/L for a litter vs. 5.5 nmol/L for the mother).
 
 ## 8.4 Pediatric Use
@@ -133,7 +132,7 @@ To minimize the systemic effects of orally inhaled corticosteroids, including SY
 
 Of the total number of patients in asthma clinical studies treated with SYMBICORT twice daily, 149 were 65 years of age or older, of whom 25 were 75 years of age or older.
 
-In the COPD studies of 6 to 12 months duration, 349 patients treated with SYMBICORT 160/4.5 twice daily were 65 years old and above and of those, 73 patients were 75 years of age and older.
+In the COPD studies of 6 to 12 months duration, 810 patients treated with SYMBICORT 160/4.5, two inhalations twice daily were 65 years old and above and of those, 177 patients were 75 years of age and older.
 No overall differences in safety or effectiveness were observed between these patients and younger patients, and other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 
 As with other products containing beta2-agonists, special caution should be observed when using SYMBICORT in geriatric patients who have concomitant cardiovascular disease that could be adversely affected by beta2-agonists.

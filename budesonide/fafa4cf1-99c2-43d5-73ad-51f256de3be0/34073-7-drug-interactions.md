@@ -24,5 +24,5 @@ In this setting, cardioselective beta-blockers could be considered, although the
 
 ## 7.4 Diuretics
 
-The ECG changes and/or hypokalemia that may result from the administration of non−potassium-sparing diuretics (such as loop or thiazide diuretics) can be acutely worsened by beta-agonists, especially when the recommended dose of the beta-agonist is exceeded.
+The ECG changes and/or hypokalemia that may result from the administration of non-potassium-sparing diuretics (such as loop or thiazide diuretics) can be acutely worsened by beta-agonists, especially when the recommended dose of the beta-agonist is exceeded.
 Although the clinical significance of these effects is not known, caution is advised in the coadministration of SYMBICORT with non-potassium-sparing diuretics.

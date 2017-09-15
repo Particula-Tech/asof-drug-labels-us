@@ -5,15 +5,15 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 Asthma-Related Death: Inform patients with asthma that formoterol fumarate dihydrate, one of the active ingredients in SYMBICORT, increases the risk of asthma-related death and may increase the risk of asthma-related hospitalization in pediatric and adolescent patients.
 Also inform them that currently available data are inadequate to determine whether concurrent use of inhaled corticosteroids or other long-term asthma control drugs mitigates the increased risk of asthma-related death from LABA.
 
-Not for Acute Symptoms: Inform patients that SYMBICORT is not meant to relieve acute asthma symptoms or exacerbations of COPD and extra doses should not be used for that purpose.
+Not for Acute Symptoms: Inform patients that SYMBICORT is not meant to relieve acute symptoms of asthma or COPD and extra doses should not be used for that purpose.
 Advise patients to treat acute symptoms with an inhaled, short-acting beta2-agonist such as albuterol.
 Provide patients with such medication and instruct the patient in how it should be used.
 
 Instruct patients to seek medical attention immediately if they experience any of the following:
 
-- •Decreasing effectiveness of inhaled, short-acting beta2-agonists
-- •Need for more inhalations than usual of inhaled, short-acting beta2-agonists
-- •Significant decrease in lung function as outlined by the physician
+1. • Decreasing effectiveness of inhaled, short-acting beta 2 -agonists
+2. • Need for more inhalations than usual of inhaled, short-acting beta 2 -agonists
+3. • Significant decrease in lung function as outlined by the physician
 
 Tell patients they should not stop therapy with SYMBICORT without physician/provider guidance since symptoms may recur after discontinuation.
 

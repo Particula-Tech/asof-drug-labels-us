@@ -62,7 +62,7 @@ HPA-axis effects: Overall, no clinically important effects on HPA-axis, as measu
 
 Chronic Obstructive Pulmonary Disease
 
-Cardiovascular effects: In 2 clinical studies, 6 months and 12 months in duration including 3668 COPD patients, no clinically important differences were seen in pulse rate, blood pressure, potassium, and glucose between SYMBICORT, the individual components of SYMBICORT, and placebo [see Clinical Studies (14.2)].
+Cardiovascular effects: In two COPD lung function studies, 6 months and 12 months in duration including 3668 COPD patients, no clinically important differences were seen in pulse rate, blood pressure, potassium, and glucose between SYMBICORT, the individual components of SYMBICORT, and placebo [see Clinical Studies (14.2)].
 
 ECGs recorded at multiple clinic visits on treatment in both studies showed no clinically important differences for heart rate, PR interval, QRS duration, heart rate, signs of cardiac ischemia or arrhythmias between SYMBICORT 160/4.5 the monoproducts and placebo, all administered as 2 inhalations twice daily.
 Based on ECGs, 6 patients treated with SYMBICORT 160/4.5, 6 patients treated with formoterol 4.5 mcg, and 6 patients in the placebo group experienced atrial fibrillation or flutter that was not present at baseline.
@@ -72,7 +72,7 @@ In the 12-month study, 520 patients had evaluable continuous 24-hour ECG (Holter
 No clinically important differences in ventricular or supraventricular arrhythmias, ventricular or supraventricular ectopic beats, or heart rate were observed among the groups treated with SYMBICORT 160/4.5, formoterol or placebo taken as 2 inhalations twice daily.
 Based on ECG (Holter) monitoring, one patient on SYMBICORT 160/4.5, no patients on formoterol 4.5 mcg, and three patients in the placebo group experienced atrial fibrillation or flutter that was not present at baseline.
 
-HPA-axis effects: Twenty-four hour urinary cortisol measurements were collected in a pooled subset (n=616) of patients from two COPD studies.
+HPA-axis effects: Twenty-four hour urinary cortisol measurements were collected in a pooled subset (n=616) of patients from two COPD lung function studies.
 The data indicated approximately 30% lower mean 24-hour urinary free cortisol values following chronic administration (> 6 months) of SYMBICORT relative to placebo.
 SYMBICORT appeared to exhibit comparable cortisol suppression to budesonide 160 mcg alone or coadministration of budesonide 160 mcg and formoterol 4.5 mcg.
 For patients treated with SYMBICORT or placebo for up to 12 months, the percentage of patients who shifted from normal to low for this measure were generally comparable.
@@ -144,7 +144,7 @@ Budesonide systemic exposure was comparable between SYMBICORT pMDI and coadminis
 In the same study, an open-label group of moderate asthma patients also received the same higher dose of SYMBICORT.
 For budesonide, COPD patients exhibited 12% greater AUC and 10% lower Cmax compared to asthma patients.
 
-In the 6-month pivotal clinical study, steady-state pharmacokinetic data of budesonide was obtained in a subset of COPD patients with treatment arms of SYMBICORT pMDI 160/4.5, SYMBICORT pMDI 80/4.5, budesonide 160 mcg, budesonide 160 mcg and formoterol 4.5 mcg given together, all administered as 2 inhalations twice daily.
+In the 6-month pivotal lung function clinical study, steady-state pharmacokinetic data of budesonide was obtained in a subset of COPD patients with treatment arms of SYMBICORT pMDI 160/4.5, SYMBICORT pMDI 80/4.5, budesonide 160 mcg, budesonide 160 mcg and formoterol 4.5 mcg given together, all administered as 2 inhalations twice daily.
 Budesonide systemic exposure (AUC and Cmax) increased proportionally with doses from 80 mcg to 160 mcg and was generally similar between the 3 treatment groups receiving the same dose of budesonide (SYMBICORT pMDI 160/4.5, budesonide 160 mcg, budesonide 160 mcg and formoterol 4.5 mcg administered together).
 
 Formoterol
@@ -169,7 +169,7 @@ Formoterol exposure was slightly greater (~16-18%) from SYMBICORT pMDI compared 
 In the same study, an open label group of moderate asthma patients received the same dose of SYMBICORT.
 COPD patients exhibited 12-15% greater AUC and Cmax for formoterol compared to asthma patients.
 
-In the 6-month pivotal clinical study, steady-state pharmacokinetic data of formoterol was obtained in a subset of COPD patients with treatment arms of SYMBICORT pMDI 160/4.5, SYMBICORT pMDI 80/4.5, formoterol 4.5 mcg, budesonide 160 mcg and formoterol 4.5 mcg given together, all administered as 2 inhalations twice daily.
+In the 6-month pivotal lung function clinical study, steady-state pharmacokinetic data of formoterol was obtained in a subset of COPD patients with treatment arms of SYMBICORT pMDI 160/4.5, SYMBICORT pMDI 80/4.5, formoterol 4.5 mcg, budesonide 160 mcg and formoterol 4.5 mcg given together, all administered as 2 inhalations twice daily.
 The systemic exposure of formoterol as evidenced by AUC, was about 30% and 16% higher from SYMBICORT pMDI compared to formoterol alone treatment arm and coadministration of individual components of budesonide and formoterol treatment arm, respectively.
 
 Distribution Budesonide: The volume of distribution of budesonide was approximately 3 L/kg.

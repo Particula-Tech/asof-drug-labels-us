@@ -22,9 +22,7 @@ Mfd. for: AstraZeneca LP, Wilmington, DE 19850
 
 By: AstraZeneca Dunkerque Production
 
-Dunkerque, France
-
-Product of France
+Dunkerque, France Product of France
 
 AstraZeneca
 
@@ -52,8 +50,6 @@ Mfd. for: AstraZeneca LP, Wilmington, DE 19850
 
 By: AstraZeneca Dunkerque Production
 
-Dunkerque, France
-
-Product of France
+Dunkerque, France Product of France
 
 AstraZeneca

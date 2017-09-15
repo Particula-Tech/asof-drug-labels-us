@@ -48,9 +48,9 @@ Advise the patient to rinse his/her mouth with water without swallowing followin
 Physicians should remain vigilant for the possible development of pneumonia in patients with COPD as the clinical features of pneumonia and exacerbations frequently overlap.
 Lower respiratory tract infections, including pneumonia, have been reported following the inhaled administration of corticosteroids.
 
-In a 6-month study of 1,704 patients with COPD, there was a higher incidence of lung infections other than pneumonia (e.g., bronchitis, viral lower respiratory tract infections, etc.) in patients receiving SYMBICORT 160/4.5 (7.6%) than in those receiving SYMBICORT 80/4.5 (3.2%), formotero1 4.5 mcg (4.6%) or placebo (3.3%).
+In a 6-month lung function study of 1704 patients with COPD, there was a higher incidence of lung infections other than pneumonia (e.g., bronchitis, viral lower respiratory tract infections, etc.) in patients receiving SYMBICORT 160/4.5 (7.6%) than in those receiving SYMBICORT 80/4.5 (3.2%), formotero1 4.5 mcg (4.6%) or placebo (3.3%).
 Pneumonia did not occur with greater incidence in the SYMBICORT 160/4.5 group (1.1 %) compared with placebo (1.3%).
-In a 12-month study of 1,964 patients with COPD, there was also a higher incidence of lung infections other than pneumonia in patients receiving SYMBICORT 160/4.5 (8.1%) than in those receiving SYMBICORT 80/4.5 (6.9%), formoterol 4.5 mcg (7.1%) or placebo (6.2%).
+In a 12-month lung function study of 1964 patients with COPD, there was also a higher incidence of lung infections other than pneumonia in patients receiving SYMBICORT 160/4.5 (8.1%) than in those receiving SYMBICORT 80/4.5 (6.9%), formoterol 4.5 mcg (7.1%) or placebo (6.2%).
 Similar to the 6-month study, pneumonia did not occur with greater incidence in the SYMBICORT 160/4.5 group (4.0%) compared with placebo (5.0%).
 
 ## 5.6 Immunosuppression
@@ -80,20 +80,20 @@ Patients who have been previously maintained on 20 mg or more per day of prednis
 During this period of HPA suppression, patients may exhibit signs and symptoms of adrenal insufficiency when exposed to trauma, surgery, or infection (particularly gastroenteritis) or other conditions associated with severe electrolyte loss.
 Although SYMBICORT may provide control of asthma symptoms during these episodes, in recommended doses it supplies less than normal physiological amounts of glucocorticoid systemically and does NOT provide the mineralocorticoid activity that is necessary for coping with these emergencies.
 
-During periods of stress or a severe asthma attack, patients who have been withdrawn from systemic corticosteroids should be instructed to resume oral corticosteroids (in large doses) immediately and to contact their physicians for further instruction.
-These patients should also be instructed to carry a warning card indicating that they may need supplementary systemic corticosteroids during periods of stress or a severe asthma attack.
+During periods of stress, a severe asthma attack or a severe COPD exacerbation, patients who have been withdrawn from systemic corticosteroids should be instructed to resume oral corticosteroids (in large doses) immediately and to contact their physicians for further instruction.
+These patients should also be instructed to carry a warning card indicating that they may need supplementary systemic corticosteroids during periods of stress, a severe asthma attack, or a severe COPD exacerbation.
 
 Patients requiring oral corticosteroids should be weaned slowly from systemic corticosteroid use after transferring to SYMBICORT.
 Prednisone reduction can be accomplished by reducing the daily prednisone dose by 2.5 mg on a weekly basis during therapy with SYMBICORT.
-Lung function (mean forced expiratory volume in 1 second [FEV1] or morning peak expiratory flow [PEF], beta-agonist use, and asthma symptoms should be carefully monitored during withdrawal of oral corticosteroids.
-In addition to monitoring asthma signs and symptoms, patients should be observed for signs and symptoms of adrenal insufficiency, such as fatigue, lassitude, weakness, nausea and vomiting, and hypotension.
+Lung function (mean forced expiratory volume in 1 second [FEV1] or morning peak expiratory flow [PEF]), beta-agonist use, and asthma or COPD symptoms should be carefully monitored during withdrawal of oral corticosteroids.
+In addition, patients should be observed for signs and symptoms of adrenal insufficiency, such as fatigue, lassitude, weakness, nausea and vomiting, and hypotension.
 
 Transfer of patients from systemic corticosteroid therapy to inhaled corticosteroids or SYMBICORT may unmask conditions previously suppressed by the systemic corticosteroid therapy (e.g., rhinitis, conjunctivitis, eczema, arthritis, eosinophilic conditions).
 Some patients may experience symptoms of systemically active corticosteroid withdrawal (e.g., joint and/or muscular pain, lassitude, depression) despite maintenance or even improvement of respiratory function.
 
 ## 5.8 Hypercorticism and Adrenal Suppression
 
-Budesonide, a component of SYMBICORT, will often help control asthma symptoms with less suppression of HPA function than therapeutically equivalent oral doses of prednisone.
+Budesonide, a component of SYMBICORT, will often help control asthma and COPD symptoms with less suppression of HPA function than therapeutically equivalent oral doses of prednisone.
 Since budesonide is absorbed into the circulation and can be systemically active at higher doses, the beneficial effects of SYMBICORT in minimizing HPA dysfunction may be expected only when recommended dosages are not exceeded and individual patients are titrated to the lowest effective dose.
 
 Because of the possibility of systemic absorption of inhaled corticosteroids, patients treated with SYMBICORT should be observed carefully for any evidence of systemic corticosteroid effects.
@@ -134,7 +134,7 @@ Patients with major risk factors for decreased bone mineral content, such as pro
 Since patients with COPD often have multiple risk factors for reduced BMD, assessment of BMD is recommended prior to initiating SYMBICORT and periodically thereafter.
 If significant reductions in BMD are seen and SYMBICORT is still considered medically important for that patient's COPD therapy, use of medication to treat or prevent osteoporosis should be strongly considered.
 
-Effects of treatment with SYMBICORT 160/4.5, SYMBICORT 80/4.5, formoterol 4.5 mcg, or placebo on BMD was evaluated in a subset of 326 patients (females and males 41 to 88 years of age) with COPD in the 12-month study.
+Effects of treatment with SYMBICORT 160/4.5, SYMBICORT 80/4.5, formoterol 4.5 mcg, or placebo on BMD was evaluated in a subset of 326 patients (females and males 41 to 88 years of age) with COPD in the 12-month lung function study.
 BMD evaluations of the hip and lumbar spine regions were conducted at baseline and 52 weeks using dual energy x-ray absorptiometry (DEXA) scans.
 Mean changes in BMD from baseline to end of treatment were small (mean changes ranged from -0.01 - 0.01 g/cm2).
 ANCOVA results for total spine and total hip BMD based on the end of treatment time point showed that all geometric LS Mean ratios for the pairwise treatment group comparisons were close to 1, indicating that overall, BMD for total hip and total spine regions for the 12-month time point were stable over the entire treatment period.
@@ -150,7 +150,7 @@ To minimize the systemic effects of orally inhaled corticosteroids, including SY
 Glaucoma, increased intraocular pressure, and cataracts have been reported in patients with asthma and COPD following the long-term administration of inhaled corticosteroids, including budesonide, a component of SYMBICORT.
 Therefore, close monitoring is warranted in patients with a change in vision or with history of increased intraocular pressure, glaucoma, and/or cataracts.
 
-Effects of treatment with SYMBICORT 160/4.5, SYMBICORT 80/4.5, formoterol 4.5 mcg, or placebo on development of cataracts or glaucoma were evaluated in a subset of 461 patients with COPD in the 12-month study.
+Effects of treatment with SYMBICORT 160/4.5, SYMBICORT 80/4.5, formoterol 4.5 mcg, or placebo on development of cataracts or glaucoma were evaluated in a subset of 461 patients with COPD in the 12-month lung function study.
 Ophthalmic examinations were conducted at baseline, 24 weeks, and 52 weeks.
 There were 26 subjects (6%) with an increase in posterior subcapsular score from baseline to maximum value (>0.7) during the randomized treatment period.
 Changes in posterior subcapsular scores of >0.7 from baseline to treatment maximum occurred in 11 patients (9.0%) in the SYMBICORT 160/4.5 group, 4 patients (3.8%) in the SYMBICORT 80/4.5 group, 5 patients (4.2%) in the formoterol group, and 6 patients (5.2%) in the placebo group.

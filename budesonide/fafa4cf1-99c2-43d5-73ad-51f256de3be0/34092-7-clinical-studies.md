@@ -132,6 +132,8 @@ The proportion of patients with at least 0.5 points improvement from baseline to
 
 ## 14.2 Chronic Obstructive Pulmonary Disease
 
+Lung Function
+
 The efficacy of SYMBICORT 80/4.5 and SYMBICORT 160/4.5 in the maintenance treatment of airflow obstruction in COPD patients was evaluated in two randomized, double-blind, placebo-controlled multinational studies, conducted over 6 months (Study 1) and 12 months (Study 2), in a total of 3668 patients (2416 males and 1252 females).
 The majority of patients (93%) were Caucasian.
 All patients were required to be at least 40 years of age, with a FEV1 of less than or equal to 50% predicted, a clinical diagnosis of COPD with symptoms for at least 2 years, and a smoking history of at least 10 pack years, prior to entering the trial.
@@ -145,12 +147,12 @@ Study 1
 
 This was a 6-month, placebo-controlled study of 1704 COPD patients (mean % predicted FEV1 at baseline ranging from 33.5% -34.7%) conducted to demonstrate the efficacy and safety of SYMBICORT in the treatment of airflow obstruction in COPD.
 The patients were randomized to one of the following treatment groups: SYMBICORT 160/4.5 (n=277), SYMBICORT 80/4.5 (n=281), budesonide 160 mcg + formoterol 4.5 mcg (n=287), budesonide 160 mcg (n=275), formoterol 4.5 mcg (n=284), or placebo (n=300).
-Patients receiving SYMBICORT 160/4.5, two inhalations twice daily, had significantly greater mean improvements from baseline in pre-dose FEV1 averaged over the treatment period [0.08 L, 10.7%] compared with formoterol 4.5 mcg [0.04 L, 6.9%] and placebo [0.01 L, 2.2%] (See Figure 6).
+Patients receiving SYMBICORT 160/4.5, two inhalations twice daily, had significantly greater mean improvements from baseline in pre-dose FEV1 averaged over the treatment period [0.08 L, 10.7%] compared with formoterol 4.5 mcg [0.04 L, 6.9%] and placebo [0.01 L, 2.2%] (see Figure 6).
 Patients receiving SYMBICORT 80/4.5, two inhalations twice daily, did not have significantly greater improvement from baseline in the pre-dose FEV1 averaged over the treatment period compared with formoterol 4.5 mcg.
 
 Figure 6 Mean Percent Change From Baseline in Pre-dose FEV1 Over 6 months (Study 1)
 
-Patients receiving SYMBICORT 160/4.5, two inhalations twice daily, had significantly greater mean improvements from baseline in 1-hour post-dose FEV1 averaged over the treatment period [0.20 L, 22.6%], compared with budesonide 160 mcg [0.03 L, 4.9%] and placebo [0.03 L, 4.1%] (See Figure 7).
+Patients receiving SYMBICORT 160/4.5, two inhalations twice daily, had significantly greater mean improvements from baseline in 1-hour post-dose FEV1 averaged over the treatment period [0.20 L, 22.6%], compared with budesonide 160 mcg [0.03 L, 4.9%] and placebo [0.03 L, 4.1%] (see Figure 7).
 
 Figure 7 Mean Percent Change From Baseline in 1-hour Post-dose FEV1 Over 6 months (Study 1)
 
@@ -167,3 +169,48 @@ The median time to onset of bronchodilation, defined as an FEV1 increase of 15% 
 Maximum improvement (calculated as the average change from baseline at each timepoint) in FEV1 occurred at approximately 2 hours post-dose.
 
 In both Studies 1 and 2, improvements in secondary endpoints of morning and evening peak expiratory flow and reduction in rescue medication use were supportive of the efficacy of SYMBICORT 160/4.5.
+
+Exacerbations
+
+Studies 3 and 4 were primarily designed to evaluate the effect of SYMBICORT 160/4.5 on COPD exacerbations.
+
+Study 3
+
+This was a 6-month, active-control study conducted to evaluate the effect of SYMBICORT 160/4.5 compared to formoterol 4.5 mcg, each administered as 2 inhalations twice daily, on the rate of moderate and severe COPD exacerbations.
+COPD exacerbations were defined as worsening of 2 or more major symptoms (dyspnea, sputum volume, sputum color/purulence) or worsening of any 1 major symptom together with at least 1 of the minor symptoms: sore throat, colds (nasal discharge and/or nasal congestion), fever without other cause, increased cough or increased wheeze for at least 2 consecutive days.
+COPD exacerbations were considered of moderate severity if treatment of symptoms with systemic corticosteroids (≥3 days) and/or antibiotics were required, and were considered severe if hospitalization was required.
+The study randomized 1219 subjects to SYMBICORT 160/4.5 (606) and formoterol 4.5 mcg (613) of which 57% were male and 92% were Caucasian.
+They had a mean age of 64 years and a median smoking history of 39 pack years, with 46% identified as current smokers.
+At run-in, the mean post-bronchodilator % predicted normal FEV1 was 48.7% (range: 16.0% to 78.1%), and patients had a history of at least 1 COPD exacerbation in the previous year treated with systemic corticosteroids and/or hospitalization.
+All subjects were treated with SYMBICORT 160/4.5, two inhalations twice daily during a 4-week run-in period prior to being assigned trial treatment.
+
+Study 4
+
+This was a 12-month, active-control study which included 811 subjects treated with SYMBICORT 160/4.5 or formoterol 4.5 mcg, each administered as 2 inhalations twice daily.
+The study was conducted to evaluate for COPD exacerbation reduction in patients with COPD.
+COPD exacerbations were defined as worsening of COPD that required a course of oral steroids for treatment and/or hospitalization.
+This study randomized 407 subjects to SYMBICORT 160/4.5 and 404 to formoterol 4.5 mcg of which 61% were male and 83% were Caucasian.
+They had a mean age of 63 years and a median smoking history of 45 pack years, with 36% identified as current smokers.
+At run-in, the mean post-bronchodilator % predicted normal FEV1 was 37.8% (range: 11.75% to 76.50%), and a history of at least 1 COPD exacerbation in the previous year treated with systemic corticosteroids and/or antibiotics.
+
+In Study 3, subjects treated with SYMBICORT 160/4.5, two inhalations twice daily had a significantly lower annual rate of moderate/severe COPD exacerbations compared with formoterol 4.5 mcg with a reduction of 26% (95% CI: 9%, 39%).
+In Study 4, a significantly lower annual rate of exacerbations was also observed in subjects treated with SYMBICORT 160/4.5 compared with formoterol 4.5 mcg with a reduction of 35% (95% CI: 20%, 47%) (Table 6).
+
+Table 6 Chronic Obstructive Pulmonary Disease Exacerbations
+
+|  | n | Annual Rate Estimate | Rate ratio Symbicort 160/4.5 vs. Formoterol 4.5 mcg |  |
+| --- | --- | --- | --- | --- |
+| Treatment |  |  | Estimate | 95% CI |
+| Study 3 |  |  |  |  |
+| SYMBICORT 160/4.5 | 606 | 0.94 | 0.74 | 0.61, 0.91 |
+| Formoterol 4.5 mcg | 613 | 1.27 |  |  |
+| Study 4 |  |  |  |  |
+| SYMBICORT 160/4.5 | 404 | 0.68 | 0.65 | 0.53, 0.80 |
+| Formoterol 4.5 mcg | 403 | 1.05 |  |  |
+
+n – Number of patients included in efficacy analysis set.
+
+Health-related quality of life was measured using the St. George’s Respiratory Questionnaire (SGRQ) in both COPD exacerbation clinical studies.
+
+In Study 3, the SGRQ responder rates at 6-months (defined as an improvement in score of 4 or more as a threshold) were 40% and 33% for SYMBICORT 160/4.5 and formoterol 4.5 mcg, respectively, with an odds ratio of 1.5 (95% CI: 1.0, 2.0) for SYMBICORT 160/4.5 vs. formoterol 4.5 mcg.
+In Study 4, the responder rates at 12-months were 50% and 49% for SYMBICORT 160/4.5 and formoterol 4.5 mcg, respectively, with an odds ratio of 1.0 (95% CI: 0.8, 1,4) for SYMBICORT 160/4.5 vs. formoterol 4.5 mcg.

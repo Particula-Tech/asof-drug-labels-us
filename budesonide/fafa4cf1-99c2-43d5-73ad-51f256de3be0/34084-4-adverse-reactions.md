@@ -61,7 +61,10 @@ Common adverse reactions that occurred in patients treated with SYMBICORT 80/4.5
 
 ## 6.2 Clinical Trials Experience in Chronic Obstructive Pulmonary Disease
 
-The incidence of common adverse events in Table 2 below is based upon pooled data from two double-blind, placebo-controlled clinical studies (6 and 12 months in duration) in which 771 adult COPD patients (496 males and 275 females) 40 years of age and older were treated with SYMBICORT 160/4.5, two inhalations twice daily.
+The safety data described below reflect exposure to SYMBICORT 160/4.5 in 1783 patients.
+SYMBICORT 160/4.5 was studied in two placebo-controlled lung function studies (6 and 12 months in duration), and two active-controlled exacerbation studies (6 and 12 months in duration) in patients with COPD.
+
+The incidence of common adverse events in Table 2 below is based upon pooled data from two double-blind, placebo-controlled lung function clinical studies (6 and 12 months in duration) in which 771 adult COPD patients (496 males and 275 females) 40 years of age and older were treated with SYMBICORT 160/4.5, two inhalations twice daily.
 Of these patients 651 were treated for 6 months and 366 were treated for 12 months.
 The SYMBICORT group was composed of mostly Caucasian (93%) patients with a mean age of 63 years, and a mean percent predicted FEV1 at baseline of 33%.
 Control arms for comparison included 2 inhalations of budesonide HFA (MDI) 160 mcg, formoterol (DPI) 4.5 mcg or placebo (MDI and DPI) twice daily.
@@ -82,6 +85,8 @@ Table 2 Adverse reactions occurring at an incidence of ≥ 3% and more commonly 
 
 Lung infections other than pneumonia (mostly bronchitis) occurred in a greater percentage of subjects treated with SYMBICORT 160/4.5 compared with placebo (7.9% vs. 5.1%, respectively).
 There were no clinically important or unexpected patterns of abnormalities observed for up to 1 year in chemistry, haematology, ECG, ECG (Holter) monitoring, HPA-axis, bone mineral density and ophthalmology assessments.
+
+The safety findings from the two double-blind, active-controlled exacerbations studies (6 and 12 months in duration) in which 1012 adult COPD patients (616 males and 396 females) 40 years of age and older were treated with SYMBICORT 160/4.5, two inhalations twice daily were consistent with the lung function studies.
 
 ## 6.3 Postmarketing Experience
 

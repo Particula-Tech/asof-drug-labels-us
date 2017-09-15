@@ -16,8 +16,9 @@ Important Limitations of Use:
 
 ## 1.2 Maintenance Treatment of Chronic Obstructive Pulmonary Disease
 
-SYMBICORT 160/4.5 is indicated for the twice daily maintenance treatment of airflow obstruction in patients with chronic obstructive pulmonary disease (COPD) including chronic bronchitis and emphysema.
-SYMBICORT 160/4.5 is the only strength indicated for the treatment of airflow obstruction in COPD.
+SYMBICORT 160/4.5 is indicated for the twice daily maintenance treatment of airflow obstruction in patients with chronic obstructive pulmonary disease (COPD) including chronic bronchitis and/or emphysema.
+SYMBICORT 160/4.5 is also indicated to reduce exacerbations of COPD.
+SYMBICORT 160/4.5 is the only strength indicated for the treatment of COPD.
 
 Important Limitations of Use:
 
