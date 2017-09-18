@@ -1,12 +1,16 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
-The toxic levels for lithium are close to the therapeutic levels.
-It is therefore important that patients and their families be cautioned to watch for early symptoms and to discontinue the drug and inform the physician should they occur.
-Toxic symptoms are listed in detail under ADVERSE REACTIONS.
-Treatment No specific antidote for lithium poisoning is known.
-Early symptoms of lithium toxicity can usually be treated by reduction of cessation of dosage of the drug and resumption of the treatment at a lower dose after 24 to 48 hours.
+The toxic concentrations for lithium (≥ 1.5 mEq/L) are close to the therapeutic concentrations [see Warnings and Precautions (5.1)].
+At lithium concentrations greater than 3 mEq/L, patients may progress to seizures, coma, and irreversible brain damage.
+Treatment For current information on the management of poisoning or overdosage, contact the National Poison Control Center at 1­800-222-1222 or www.poison.org.
+No specific antidote for lithium poisoning is known.
+Early symptoms of lithium toxicity can usually be treated by reduction or cessation of dosage of the drug and resumption of the treatment at a lower dose after 24 to 48 hours.
 In severe cases of lithium poisoning, the first and foremost goal of treatment consists of elimination of this ion from the patient.
-Treatment is essentially the same as that used in barbiturate poisoning: 1) gastric lavage, 2) correction of fluid and electrolyte imbalance and 3) regulation of kidney functioning.
-Urea, mannitol, and aminophylline all produce significant increases in lithium excretion.
-Hemodialysis is an effective and rapid means of removing the ion from the severely toxic patient.
-Infection prophylaxis, regular chest X-rays, and preservation of adequate respiration are essential.
+Administration of gastric lavage should be performed, but use of activated charcoal is not recommended as it does not significantly absorb lithium ions.
+Hemodialysis is the treatment of choice as it is an effective and rapid means of removing lithium in patients with severe toxicity.
+As an alternative option, urea, mannitol and aminophylline can induce a significant increase in lithium excretion.
+Appropriate supportive care for the patient should be undertaken.
+In particular, patients with impaired consciousness should have their oral airway protected and it is critical to correct any volume depletion or electrolyte imbalance.
+Specifically, patients should be monitored to prevent hypernatremia while receiving normal saline and careful regulation of kidney function is of utmost importance.
+Serum lithium concentrations should be closely monitored as there may be a rebound in serum lithium concentrations as a result of delayed diffusion from the body tissues.
+Likewise, during the late recovery phase, lithium should be re- administered with caution taking into account the possible release of significant lithium stores in body tissues.
