@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA209482"
+  ],
+  "inn": "fluticasone",
+  "labeler": "GlaxoSmithKline LLC",
+  "package_ndcs": [
+    "0173-0887-10",
+    "0173-0887-14",
+    "0173-0887-61"
+  ],
+  "products": [
+    {
+      "form": "POWDER",
+      "generic": "fluticasone furoate, umeclidinium bromide and vilanterol trifenatate",
+      "name": "Trelegy Ellipta"
+    }
+  ],
+  "setid": "b5a81d5a-4648-4c7a-951d-33c014a63c7e",
+  "source": "dailymed"
+}
