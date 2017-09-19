@@ -8,9 +8,9 @@ If anuria or marked oliguria (urinary output <0.6 mL/kg/hr) is evident at the sc
 
 Dosage according to age is as follows:
 
-| AGE at 1stdose | DOSAGE (mg/kg) |  |  |
+| AGE at 1st dose | DOSAGE (mg/kg) |  |  |
 | --- | --- | --- | --- |
-| Less than 48 hours | 1st0.2 | 2nd0.1 | 3rd0.1 |
+| Less than 48 hours | 1st 0.2 | 2nd 0.1 | 3rd 0.1 |
 | 2 to 7 days | 0.2 | 0.2 | 0.2 |
 | Over 7 days | 0.2 | 0.25 | 0.25 |
 

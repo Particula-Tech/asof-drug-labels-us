@@ -2,7 +2,7 @@
 
 ## 6.1 Clinical Trials Experience
 
-In a double-blind, placebo-controlled trial of 405 premature infants weighing less than or equal to 1750 g with evidence of large ductal shunting, in those neonates treated with indomethacin (n=206), there was a statistically significantly greater incidence of bleeding problems, including gross or microscopic bleeding into the gastrointestinal tract, oozing from the skin after needle stick, pulmonary hemorrhage, and disseminated intravascular coagulopathy.
+In a double-blind, placebo-controlled trial of 405 premature infants weighing less than or equal to 1,750 g with evidence of large ductal shunting, in those neonates treated with indomethacin (n=206), there was a statistically significantly greater incidence of bleeding problems, including gross or microscopic bleeding into the gastrointestinal tract, oozing from the skin after needle stick, pulmonary hemorrhage, and disseminated intravascular coagulopathy.
 There was no statistically significant difference between treatment groups in intracranial hemorrhage.
 
 The neonates treated with Indomethacin for Injection had a significantly higher incidence of transient oliguria and elevations of serum creatinine (greater than or equal to 1.8 mg/dL) than did the neonates treated with placebo.
