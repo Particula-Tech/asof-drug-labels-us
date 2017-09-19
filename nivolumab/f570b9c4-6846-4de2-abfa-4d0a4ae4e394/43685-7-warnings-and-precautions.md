@@ -227,14 +227,14 @@ Encephalitis occurred in one patient receiving OPDIVO with ipilimumab (0.2%) aft
 
 ## 5.8 Other Immune-Mediated Adverse Reactions
 
-OPDIVO can cause other clinically significant immune-mediated adverse reactions.
+OPDIVO can cause other clinically significant and potentially fatal immune-mediated adverse reactions.
 Immune-mediated adverse reactions may occur after discontinuation of OPDIVO therapy.
 For any suspected immune-mediated adverse reactions, exclude other causes.
 Based on the severity of the adverse reaction, permanently discontinue or withhold OPDIVO, administer high-dose corticosteroids, and if appropriate, initiate hormone-replacement therapy.
 Upon improvement to Grade 1 or less, initiate corticosteroid taper and continue to taper over at least 1 month.
 Consider restarting OPDIVO after completion of corticosteroid taper based on the severity of the event [see Dosage and Administration (2.8)].
 
-Across clinical trials of OPDIVO administered as a single agent or in combination with ipilimumab, the following clinically significant immune-mediated adverse reactions occurred in less than 1.0% of patients receiving OPDIVO: uveitis, iritis, pancreatitis, facial and abducens nerve paresis, demyelination, polymyalgia rheumatica, autoimmune neuropathy, Guillain-Barré syndrome, hypopituitarism, systemic inflammatory response syndrome, gastritis, duodenitis, sarcoidosis, histiocytic necrotizing lymphadenitis (Kikuchi lymphadenitis), myositis, myocarditis, rhabdomyolysis, motor dysfunction, vasculitis, and myasthenic syndrome.
+Across clinical trials of OPDIVO administered as a single agent or in combination with ipilimumab, the following clinically significant immune-mediated adverse reactions, some with fatal outcome, occurred in less than 1.0% of patients receiving OPDIVO: myocarditis, rhabdomyolysis, myositis, uveitis, iritis, pancreatitis, facial and abducens nerve paresis, demyelination, polymyalgia rheumatica, autoimmune neuropathy, Guillain-Barré syndrome, hypopituitarism, systemic inflammatory response syndrome, gastritis, duodenitis, sarcoidosis, histiocytic necrotizing lymphadenitis (Kikuchi lymphadenitis), motor dysfunction, vasculitis, and myasthenic syndrome.
 
 ## 5.9 Infusion Reactions
 

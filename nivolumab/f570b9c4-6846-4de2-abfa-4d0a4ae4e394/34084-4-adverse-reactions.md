@@ -236,8 +236,8 @@ OPDIVO was discontinued in 11% of patients, and was delayed in 28% of patients f
 Serious adverse reactions occurred in 46% of patients receiving OPDIVO.
 The most frequent serious adverse reactions reported in at least 2% of patients receiving OPDIVO were pneumonia, pulmonary embolism, dyspnea, pyrexia, pleural effusion, pneumonitis, and respiratory failure.
 In CHECKMATE-057, in the OPDIVO arm, seven deaths were due to infection including one case of Pneumocystis jirovecii pneumonia, four were due to pulmonary embolism, and one death was due to limbic encephalitis.
-
 Across both trials, the most common adverse reactions (reported in at least 20% of patients) were fatigue, musculoskeletal pain, cough, dyspnea, and decreased appetite.
+
 Table 8 summarizes selected adverse reactions occurring more frequently in at least 10% of OPDIVO-treated patients.
 
 Table 8: Adverse Reactions Occurring in ≥10% of OPDIVO-Treated Patients and at a Higher Incidence than Docetaxel (Between Arm Difference of ≥5% [All Grades] or ≥2% [Grades 3-4]) (CHECKMATE-017 and CHECKMATE-057)
@@ -411,8 +411,7 @@ Table 12: Non-Laboratory Adverse Reactions Occurring in ≥10% of Patients with 
 | Neuropathy peripherali | 12 | <1 |
 | Injury, Poisoning and Procedural Complications |  |  |
 | Infusion-related reaction | 14 | <1 |
-| Toxicity was graded per NCI CTCAE v4. |  |  |
-| a Includes events occurring up to 30 days after last nivolumab dose, regardless of causality. After an immune-mediated adverse reaction, reactions following nivolumab rechallenge were included if they occurred up to 30 days after completing the initial nivolumab course. b Includes asthenia. c Includes colitis. d Includes abdominal discomfort and upper abdominal pain. e Includes nasopharyngitis, pharyngitis, rhinitis, and sinusitis. f Includes pneumonia bacterial, pneumonia mycoplasmal, pneumocystis jirovecii pneumonia. g Includes dermatitis, dermatitis acneiform, dermatitis exfoliative, and rash described as macular, papular, maculopapular, pruritic, exfoliative, or acneiform. h Includes back pain, bone pain, musculoskeletal chest pain, musculoskeletal discomfort, myalgia, neck pain, and pain in extremity. i Includes hyperesthesia, hypoesthesia, paresthesia, dysesthesia, peripheral motor neuropathy, peripheral sensory neuropathy, and polyneuropathy. These numbers are specific to treatment-emergent events. |  |  |
+| Toxicity was graded per NCI CTCAE v4. a Includes events occurring up to 30 days after last nivolumab dose, regardless of causality. After an immune-mediated adverse reaction, reactions following nivolumab rechallenge were included if they occurred up to 30 days after completing the initial nivolumab course. b Includes asthenia. c Includes colitis. d Includes abdominal discomfort and upper abdominal pain. e Includes nasopharyngitis, pharyngitis, rhinitis, and sinusitis. f Includes pneumonia bacterial, pneumonia mycoplasmal, pneumocystis jirovecii pneumonia. g Includes dermatitis, dermatitis acneiform, dermatitis exfoliative, and rash described as macular, papular, maculopapular, pruritic, exfoliative, or acneiform. h Includes back pain, bone pain, musculoskeletal chest pain, musculoskeletal discomfort, myalgia, neck pain, and pain in extremity. i Includes hyperesthesia, hypoesthesia, paresthesia, dysesthesia, peripheral motor neuropathy, peripheral sensory neuropathy, and polyneuropathy. These numbers are specific to treatment-emergent events. |  |  |
 
 Additional information regarding clinically important adverse reactions:
 
@@ -428,7 +427,7 @@ Twenty-eight patients (11%) had new-onset peripheral neuropathy, and 3 of 40 pat
 These adverse reactions were Grade 1 or 2, except for 1 Grade 3 event (<1%).
 The median time to onset was 50 (range: 1 to 309) days.
 
-Complications of allogeneic HSCT after OPDIVO: [see Warnings and Precautions (5.10)].
+Complications of allogeneic HSCT after OPDIVO:[see Warnings and Precautions (5.10)].
 
 Table 13 summarizes laboratory abnormalities that developed or worsened in at least 10% of patients with cHL.
 The most common (reported in at least 20%) treatment-emergent laboratory events included cytopenias, liver function abnormalities, and elevated lipase.

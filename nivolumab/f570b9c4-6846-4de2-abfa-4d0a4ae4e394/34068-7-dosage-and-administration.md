@@ -70,11 +70,10 @@ Table 1: Recommended Dose Modifications for OPDIVO
 | First occurrence | Withhold dosea |  |
 | Recurrence of same Grade 3 adverse reactions | Permanently discontinue |  |
 | Life-threatening or Grade 4 adverse reaction | Permanently discontinue |  |
+| Grade 3 myocarditis | Permanently discontinue |  |
 | Requirement for 10 mg per day or greater prednisone or equivalent for more than 12 weeks | Permanently discontinue |  |
 | Persistent Grade 2 or 3 adverse reactions lasting 12 weeks or longer | Permanently discontinue |  |
-
-*Toxicity was graded per National Cancer Institute Common Terminology Criteria for Adverse Events.
-Version 4.0 (NCI CTCAE v4). a Resume treatment when adverse reaction returns to Grade 0 or 1.
+| * Toxicity was graded per National Cancer Institute Common Terminology Criteria for Adverse Events. Version 4.0 (NCI CTCAE v4). a Resume treatment when adverse reaction returns to Grade 0 or 1. |  |  |
 
 ## 2.9 Preparation and Administration
 

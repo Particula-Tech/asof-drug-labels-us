@@ -396,8 +396,7 @@ Table 24: Efficacy Results in CHECKMATE-275
 | Complete Response Rate | 7 (2.6%) | 1 (0.7%) | 6 (4.8%) |
 | Partial Response Rate | 46 (17.0%) | 21 (14.4%) | 25 (20.2%) |
 | Median Duration of Responsea (months) (range) | 10.3 (1.9+, 12.0+) | 7.6 (3.7, 12.0+) | NE (1.9+, 12.0+) |
-
-a Estimated from the Kaplan-Meier Curve
+| a Estimated from the Kaplan-Meier Curve |  |  |  |
 
 ## 14.7 Microsatellite Instability-High (MSI-H) or Mismatch Repair Deficient (dMMR) Metastatic Colorectal Cancer
 
@@ -424,5 +423,4 @@ Table 25: Efficacy Results - CHECKMATE-142
 | Partial response (%) | 22 (30%) | 14 (26%) |
 | Duration of Response |  |  |
 | Median in months (range) | NR (1.4+, 26.5+) | NR (2.8+, 22.1+) |
-
-NR=Not Reached
+| NR=Not Reached |  |  |
