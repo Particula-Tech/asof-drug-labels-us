@@ -4,10 +4,10 @@
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-ORFADIN was studied in one open-label, uncontrolled study of 207 patients with HT-1, ages 0 to 21.7 years at enrollment (median age 9 months), who were diagnosed with HT-1 by the presence of succinylacetone in the urine or plasma.
+ORFADIN was studied in one open-label, uncontrolled study of 207 patients with HT-1, ages 0 to 22 years at enrollment (median age 9 months), who were diagnosed with HT-1 by the presence of succinylacetone in the urine or plasma.
 The starting dose of ORFADIN was 0.3 to 0.5 mg/kg twice daily, and the dose was increased in some patients to 1 mg/kg twice daily based on weight, biochemical, and enzyme markers.
-The recommended dose is 0.5 mg/kg to 1 mg/kg twice daily [see Dosage and Administration (2.1)].
-Median duration of treatment was 22.2 months (range 0.1 to 80 months).
+The recommended starting dosage of ORFADIN is 0.5 mg/kg twice daily [see Dosage and Administration (2.1)].
+Median duration of treatment was 22 months (range 0.1 to 80 months).
 
 The most serious adverse reactions reported during ORFADIN treatment were thrombocytopenia, leukopenia, porphyria, and ocular/visual complaints associated with elevated tyrosine levels [see Warnings and Precautions (5.1, 5.2)].
 Fourteen patients experienced ocular/visual events.
@@ -21,7 +21,7 @@ These complications of HT-1 were observed in patients treated with nitisinone fo
 
 The most common adverse reactions reported in the clinical trial are summarized in Table 1.
 
-TABLE 1 Most Common Adverse Reactions*
+TABLE 1 Most Common Adverse Reactions in Patients with HT-1 Treated with Nitisinone*
 
 | Elevated tyrosine levels Leukopenia Thrombocytopenia Conjunctivitis Corneal opacity Keratitis Photophobia Eye pain Blepharitis Cataracts Granulocytopenia Epistaxis Pruritus Exfoliative dermatitis Dry skin Maculopapular rash Alopecia | >10% 3% 3% 2% 2% 2% 2% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% |
 | --- | --- |
