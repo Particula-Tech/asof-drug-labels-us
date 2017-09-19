@@ -23,11 +23,11 @@ Manufactured for:
 
 TORRENT PHARMA INC., Basking Ridge, NJ 07920.
 
-8056366 Revised September 2015
+8064912 Revised September 2017
 
 PATIENT INFORMATION
 
-Sildenafil (sil DEN a fil) Tablets
+Sildenafil (sil DEN a fil) Tablets USP
 
 Read this Patient Information before you start taking sildenafil tablets and each time you get a refill.
 There may be new information.
@@ -61,7 +61,7 @@ Your heart has to work hard to pump blood into your lungs.
 Sildenafil tablets improve the ability to exercise and can slow down worsening changes in your physical condition.
 
 - Sildenafil tablets are not for use in children
-- Adding sildenafil tablets to another medication used to treat PAS, does not result in improvement in your ability to exercise.
+- Adding sildenafil tablets to another medication used to treat PAH, bosentan (Tracleer®) does not result in improvement in your ability to exercise.
 
 Sildenafil tablet contains the same medicine as sildenafil citrate tablets, 25 mg, 50 mg and 100 mg, which are used to treat erectile dysfunction (impotence).
 Do not take sildenafil tablets, 20 mg with sildenafil citrate tablets, 25 mg, 50 mg and 100 mg or other PDE-5 inhibitors.
@@ -171,6 +171,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store sildenafil tablets?
 
+- Sildenafil Tablets comes in child-resistant package.
 - Store sildenafil tablets at 20° to 25°C (68° to 77°F); excursions permitted between 15°C and 30°C (59°F and 86°F) [see USP Controlled Room Temperature].
 - Keep sildenafil tablets and all medicines away from children.
 
@@ -210,4 +211,4 @@ Manufactured for:
 
 TORRENT PHARMA INC., Basking Ridge, NJ 07920.
 
-8056368 Revised September 2015
+8064913 Revised September 2017

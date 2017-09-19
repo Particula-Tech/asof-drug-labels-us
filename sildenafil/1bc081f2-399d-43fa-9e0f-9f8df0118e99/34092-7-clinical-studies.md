@@ -69,3 +69,25 @@ Clinical Worsening Events in Study 2
 
 Improvements in WHO functional class for PAH were also demonstrated in subjects on sildenafil citrate compared to placebo.
 More than twice as many sildenafil citrate -treated patients (36%) as placebo-treated patients (14%) showed an improvement in at least one functional New York Heart Association (NYHA) class for PAH.
+
+Study 3 (REVATIO monotherapy (1 mg, 5 mg, and 20 mg three times a day))
+
+A randomized, double-blind, parallel dose study (Study 3) was planned in 219 patients with PAH.
+This study was prematurely terminated with 129 subjects enrolled.
+Patients were required to have a mPAP greater than or equal to 25 mmHg and a PCWP less than or equal to 15 mmHg at rest via right heart catheterization within 12 weeks before randomization, and a baseline 6-minute walk test distance greater than or equal to 100 meters and less than or equal to 450 meters (mean 345 meters).
+Patients were randomized to 1 of 3 doses of REVATIO: 1 mg, 5 mg, and 20 mg, three times a day.
+
+At baseline patients had PPH (74%) or secondary PAH (26%); WHO functional class II (57%), III (41%), or IV (2%); the mean age was 44 years; and 67% were female.
+The majority of subjects were Asian (67%), and 28% were Caucasian.
+
+The primary efficacy endpoint was the change from baseline at Week 12 (at least 4 hours after the last dose) in the 6-minute walk distance.
+Similar increases in walk distance (mean increase of 38 to 41 meters) were observed in the 5 and 20 mg dose groups.
+These increases were significantly better than those observed in the 1 mg dose group (Figure 12).
+
+Study 4 (Sildenafil citrate added to bosentan therapy – lack of effect on exercise capacity)
+
+A randomized, double-blind, placebo controlled study was conducted in 103 patients with PAH who were on bosentan therapy for a minimum of three months.
+The PAH patients included those with primary PAH, and PAH associated with CTD.
+Patients were randomized to placebo or sildenafil (20 mg three times a day) in combination with bosentan (62.5 to 125 mg twice a day).
+The primary efficacy endpoint was the change from baseline at Week 12 in 6MWD.
+The results indicate that there is no significant difference in mean change from baseline on 6MWD observed between sildenafil 20 mg plus bosentan and bosentan alone.

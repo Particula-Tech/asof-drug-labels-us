@@ -37,6 +37,8 @@ Changes from Baseline in Hemodynamic Parameters at Week 12 [mean (95% CI)] for t
 | mPAP = mean pulmonary arterial pressure; PVR= pulmonary vascular resistance; SVR = systemic vascular resistance; RAP = right atrial pressure; CO = cardiac output; HR = heart rate |  |  |
 | * The number of patients per treatment group varied slightly for each parameter due to missing assessments. |  |  |
 
+In another study evaluating lower doses of sildenafil 1 mg, 5 mg and 20 mg [Study 3 in Clinical Studies (14)], there were no significant differences in the effects on hemodynamic variables between doses.
+
 Effects of Sildenafil Citrate on Blood Pressure
 
 Single oral doses of sildenafil 100 mg administered to healthy volunteers produced decreases in supine blood pressure (mean maximum decrease in systolic/diastolic blood pressure of 8/5 mmHg).
@@ -135,7 +137,7 @@ Population pharmacokinetic analysis of data from patients in clinical trials ind
 Sildenafil exposure at a dose of 80 mg three times a day without concomitant medication is shown to be 5-fold the exposure at a dose of 20 mg three times a day.
 This concentration range covers the same increased sildenafil exposure observed in specifically-designed drug interaction studies with CYP3A inhibitors (except for potent inhibitors such as ketoconazole, itraconazole, and ritonavir).
 
-CYP3A4 inducers
+CYP3A4 inducers including bosentan
 
 Concomitant administration of potent CYP3A inducers is expected to cause substantial decreases in plasma levels of sildenafil.
 
