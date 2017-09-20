@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA209113"
+  ],
+  "inn": "oseltamivir",
+  "labeler": "Zydus Pharmaceuticals (USA) Inc.",
+  "package_ndcs": [
+    "70710-1165-6"
+  ],
+  "products": [
+    {
+      "form": "FOR SUSPENSION",
+      "generic": "oseltamivir phosphate",
+      "name": "Oseltamivir Phosphate"
+    }
+  ],
+  "setid": "432d9e7b-9cb2-4b7d-9fb2-015449096757",
+  "source": "dailymed"
+}
