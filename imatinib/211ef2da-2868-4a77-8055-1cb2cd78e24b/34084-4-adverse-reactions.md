@@ -14,6 +14,7 @@ The following serious adverse reactions are described elsewhere in the labeling:
 - Growth Retardation in Children and Adolescents [see Warnings and Precautions (5.11)]
 - Tumor Lysis Syndrome [see Warnings and Precautions (5.12)]
 - Impairments Related to Driving and Using Machinery [see Warnings and Precautions (5.13)]
+- Renal Toxicity [see Warnings and Precautions (5.14)]
 
 ## 6.1 Clinical Trials Experience
 

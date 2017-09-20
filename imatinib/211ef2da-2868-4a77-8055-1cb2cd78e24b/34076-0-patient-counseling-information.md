@@ -10,7 +10,7 @@ Advise patients to take Gleevec with a meal and a large glass of water [see Dosa
 Fluid Retention and Edema
 
 Inform patients of the possibility of developing edema and fluid retention.
-Advise patients to contact their health care provide if unexpected rapid weight gain occurs [see Warnings and Precautions (5.1)].
+Advise patients to contact their health care provider if unexpected rapid weight gain occurs [see Warnings and Precautions (5.1)].
 
 Hepatotoxicity
 
@@ -45,4 +45,4 @@ Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07
 
 © Novartis
 
-T2017-58
+T2017-92

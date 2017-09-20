@@ -101,3 +101,9 @@ Due to possible occurrence of TLS, correct clinically significant dehydration an
 Motor vehicle accidents have been reported in patients receiving Gleevec.
 Advise patients that they may experience side effects such as dizziness, blurred vision or somnolence during treatment with Gleevec.
 Recommend caution when driving a car or operating machinery.
+
+## 5.14 Renal Toxicity
+
+A decline in renal function may occur in patients receiving Gleevec.
+Median estimated glomerular filtration rate (eGFR) values in patients on Gleevec 400 mg daily for newly-diagnosed CML (four randomized trials) and malignant GIST (one single-arm trial) declined from a baseline value of 85 ml/min/1.73m2 (N=1190) to 75 ml/min/1.73m2 at 12 months (N=1082) and 69 ml/min/1.73m2 at 60 months (N=549).
+Evaluate renal function prior to initiating Gleevec and monitor during therapy, with attention to risk factors for renal dysfunction such as pre-existing renal impairment, diabetes mellitus, hypertension, and congestive heart failure.

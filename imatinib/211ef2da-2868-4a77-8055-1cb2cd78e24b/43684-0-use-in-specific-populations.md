@@ -6,7 +6,7 @@ Risk Summary
 
 Gleevec can cause fetal harm when administered to a pregnant woman based on human and animal data.
 There are no clinical studies regarding use of Gleevec in pregnant women.
-There have been post-market reports of spontaneous abortions and congenital anomalies from women who have been exposed to Gleevec during pregnancy.
+There have been postmarket reports of spontaneous abortions and congenital anomalies from women who have been exposed to Gleevec during pregnancy.
 Reproductive studies in rats have demonstrated that imatinib mesylate induced teratogenicity and increased incidence of congenital abnormalities following prenatal exposure to imatinib mesylate at doses equal to the highest recommended human dose of 800 mg/day based on body surface area.
 Advise women to avoid pregnancy when taking Gleevec.
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, apprise the patient of the potential hazard to the fetus.
@@ -42,14 +42,14 @@ Because of the potential for serious adverse reactions in breastfed infants from
 
 Human Data
 
-Based on data from three breastfeeding women taking Gleevec, the milk:plasma ratio is about 0.5 for imatinib and about 0.9 for the active metabolite.
+Based on data from 3 breastfeeding women taking Gleevec, the milk:plasma ratio is about 0.5 for imatinib and about 0.9 for the active metabolite.
 Considering the combined concentration of imatinib and active metabolite, a breastfed infant could receive up to 10% of the maternal therapeutic dose based on body weight.
 
 ## 8.3 Females and Males of Reproductive Potential
 
 Pregnancy Testing
 
-Human post-marketing reports and animal studies have shown Gleevec to be harmful to the developing fetus.
+Human postmarketing reports and animal studies have shown Gleevec to be harmful to the developing fetus.
 Test pregnancy status in females with reproductive potential prior to the initiation of treatment with Gleevec.
 
 Contraception

@@ -22,7 +22,7 @@ Unit Dose (blister pack of 30) ………………………NDC 0078-0649-30
 
 Storage and Handling
 
-Store at 25°C (77°F); excursions permitted to 15°C-30°C (59°F-86°F) [see USP Controlled Room Temperature].
+Store at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
 Protect from moisture.
 
 Dispense in a tight container, USP.
