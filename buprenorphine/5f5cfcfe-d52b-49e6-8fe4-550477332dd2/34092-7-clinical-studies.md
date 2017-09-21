@@ -12,14 +12,12 @@ Both protocols stipulated that first Day 1 dose would be given under supervision
 Subsequently, investigators were provided an option to give buprenorphine 6 mg or ZUBSOLV 4.2 mg as a single dose 1.5 hours after the second dose, or to divide the second dose of study medication into 3 separate dosing occasions of ZUBSOLV 1.4 mg/0.36 mg or generic buprenorphine 2 mg each, 1 to 2 hours between doses, if there was precipitated withdrawal after the first dose, as assessed by the investigator.
 The option to divide the second dose was used at the discretion of the investigators only rarely in Study 2 (5%), compared to more frequent use in Study 1 (22%).
 
-Results for Day 3 retention rate from each study are presented in Table 5.
+Results for Day 3 retention rate from each study are presented in Table 6.
 The lower rate of retention on Day 3 observed for ZUBSOLV in comparison to generic buprenorphine in Study 2 may be attributable to the infrequent use of divided dosing.
 
-Table 5.
-Retention at Day 3 (full analysis set)
-
-| Study 1 |  |  |  |
+| Table 6. Retention at Day 3 (full analysis set) |  |  |  |
 | --- | --- | --- | --- |
+| Study 1 |  |  |  |
 | Number in population | ZUBSOLV (N=383) | Generic BUP (N=375) | Overall (N=758) |
 | Retention at Day 3 | 357 (93%) | 344 (92%) | 701 (93%) |
 | Study 2 |  |  |  |

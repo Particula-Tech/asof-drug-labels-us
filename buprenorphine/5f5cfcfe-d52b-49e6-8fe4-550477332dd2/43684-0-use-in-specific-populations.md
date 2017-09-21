@@ -4,19 +4,20 @@
 
 Risk Summary
 
-The data on use of buprenorphine, the active ingredient in ZUBSOLV, in pregnancy, are limited; however, these data do not indicate an increased risk of major malformations specifically due to buprenorphine exposure.
+The data on use of buprenorphine, one of the active ingredients in ZUBSOLV, in pregnancy, are limited; however, these data do not indicate an increased risk of major malformations specifically due to buprenorphine exposure.
 There are limited data from randomized clinical trials in women maintained on buprenorphine that were not designed appropriately to assess the risk of major malformations [see Data].
 Observational studies have reported on congenital malformations among buprenorphine-exposed pregnancies, but were also not designed appropriately to assess the risk of congenital malformations specifically due to buprenorphine exposure [see Data].
 The extremely limited data on sublingual naloxone exposure in pregnancy are not sufficient to evaluate a drug-associated risk.
 
 Reproductive and developmental studies in rats and rabbits identified adverse events at clinically relevant and higher doses.
-Embryofetal death was observed in both rats and rabbits administered buprenorphine during the period of organogenesis at doses approximately 6 and 0.3 times, respectively, the human dose of buprenorphine.
-Pre-and postnatal development studies in rats demonstrated increased neonatal deaths at 0.3-times and above and dystocia at approximately 3-times the human dose of buprenorphine.
-No clear teratogenic effects were seen when buprenorphine was administered during organogenesis with a range of doses equivalent to or greater than the human dose of buprenorphine.
-However, increases in skeletal abnormalities were noted in rats administered buprenorphine daily during organogenesis at a dose in rabbits approximately 0.6-times and in rats approximately equal to the human dose of buprenorphine.
+Embryofetal death was observed in both rats and rabbits administered buprenorphine during the period of organogenesis at doses approximately 6 and 0.3 times, respectively, the human sublingual dose of 16 mg/day of buprenorphine.
+Pre- and post-natal development studies in rats demonstrated increased neonatal deaths at 0.3 times and above and dystocia at approximately 3 times the human sublingual dose of 16 mg/day of buprenorphine.
+No clear teratogenic effects were seen when buprenorphine was administered during organogenesis with a range of doses equivalent to or greater than the human sublingual dose of 16 mg/day of buprenorphine.
+However, increases in skeletal abnormalities were noted in rats and rabbits administered buprenorphine daily during organogenesis at doses approximately 0.6 and approximately equal to the human sublingual dose of 16 mg/day of buprenorphine, respectively.
 In a few studies, some events such as acephalus and omphalocele were also observed but these findings were not clearly treatment-related.
 
 The estimated background risk of major birth defects and miscarriage for the indicated population are unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 
 Clinical Considerations
@@ -28,12 +29,12 @@ In addition, untreated opioid addiction often results in continued or relapsing 
 
 Dose Adjustment during Pregnancy and the Postpartum Period
 
-Dosage adjustments of buprenorphine may be required during pregnancy, even if maintained on a stable dose prior to pregnancy.
+Dosage adjustments of buprenorphine may be required during pregnancy, even if the patient was maintained on a stable dose prior to pregnancy.
 Withdrawal signs and symptoms should be monitored closely and the dose adjusted as necessary.
 
 Fetal/neonatal Adverse Reactions
 
-Neonatal opioid withdrawal syndrome may occur in newborn infants of mothers who are receiving treatment with ZUBSOLV.
+Neonatal opioid withdrawal syndrome may occur in newborn infants of mothers who are receiving treatment with ZUBSOLV sublingual tablets.
 
 Neonatal opioid withdrawal syndrome presents as irritability, hyperactivity and abnormal sleep pattern, high pitched cry, tremor, vomiting, diarrhea, and/or failure to gain weight.
 Signs of neonatal withdrawal usually occur in the first days after birth.
@@ -55,7 +56,7 @@ Interpretation of data is complicated further by the lack of information on untr
 Rather, women on another form of opioid medication-assisted treatment, or women in the general population are generally used as the comparison group.
 However, women in these comparison groups may be different from women prescribed buprenorphine-containing products with respect to maternal factors that may lead to poor pregnancy outcomes.
 
-In a multicenter, double-blind, randomized, controlled trial (“MOTHER”) designed primarily to assess neonatal opioid withdrawal effects, opioid-dependent pregnant women were randomized to buprenorphine (n=86) or methadone (n=89) treatment, with enrollment at an average gestational age of 18.7 weeks in both groups.
+In a multicenter, double-blind, randomized, controlled trial [Maternal Opioid Treatment: Human Experimental Research (MOTHER)] designed primarily to assess neonatal opioid withdrawal effects, opioid-dependent pregnant women were randomized to buprenorphine (n=86) or methadone (n=89) treatment, with enrollment at an average gestational age of 18.7 weeks in both groups.
 A total of 28 of the 86 women in the buprenorphine group (33%) and 16 of the 89 women in the methadone group (18%) discontinued treatment before the end of pregnancy.
 
 Among women who remained in treatment until delivery, there was no difference between buprenorphine-treated and methadone-treated groups in the number of neonates requiring NOWS treatment or in the peak severity of NOWS.
@@ -67,23 +68,27 @@ Because of the imbalance in discontinuation rates between the buprenorphine and 
 Animal Data
 
 ZUBSOLV has been shown to have differences in bioavailability compared to other buprenorphine/naloxone-containing sublingual products.
-The exposure margins listed below are based on body surface area comparisons (mg/m2) to the recommended human sublingual dose of 16 mg buprenorphine via Suboxone, which is equivalent to a human sublingual dose of 11.4 mg buprenorphine via ZUBSOLV.
+The exposure margins listed below are based on body surface area comparisons (mg/m2) to the human sublingual dose of 16 mg buprenorphine via Suboxone, which is equivalent to a human sublingual dose of 11.4 mg buprenorphine via ZUBSOLV.
 
 Effects on embryo-fetal development were studied in Sprague-Dawley rats and Russian white rabbits following oral (1:1) and intramuscular (IM) (3:2) administration of mixtures of buprenorphine and naloxone during the period of organogenesis.
-Following oral administration to rats no teratogenic effects were observed at buprenorphine doses up to 250 mg/kg/day (estimated exposure approximately 150 times the human sublingual dose of 16 mg).
-Following oral administration to rabbits, no teratogenic effects were observed at buprenorphine doses up to 40 mg/kg/day (estimated exposure approximately 50 times, the human sublingual dose of 16 mg).
+Following oral administration to rats, no teratogenic effects were observed at buprenorphine doses up to 250 mg/kg/day (estimated exposure approximately 150 times the human sublingual dose of 16 mg) in the presence of maternal toxicity (mortality).
+Following oral administration to rabbits, no teratogenic effects were observed at buprenorphine doses up to 40 mg/kg/day (estimated exposure approximately 50 times the human sublingual dose of 16 mg) in the absence of clear maternal toxicity.
 No definitive drug-related teratogenic effects were observed in rats and rabbits at IM doses up to 30 mg/kg/day (estimated exposure approximately 20 times and 35 times, respectively, the human sublingual dose of 16 mg).
+Maternal toxicity resulting in mortality was noted in these studies in both rats and rabbits.
 Acephalus was observed in one rabbit fetus from the low-dose group and omphalocele was observed in two rabbit fetuses from the same litter in the mid-dose group; no findings were observed in fetuses from the high-dose group.
+Maternal toxicity was seen in the high-dose group but not at the lower doses where the findings were observed.
 Following oral administration of buprenorphine to rats, dose-related post-implantation losses, evidenced by increases in the numbers of early resorptions with consequent reductions in the numbers of fetuses, were observed at doses of 10 mg/kg/day or greater (estimated exposure approximately 6 times the human sublingual dose of 16 mg).
 In the rabbit, increased post-implantation losses occurred at an oral dose of 40 mg/kg/day.
 Following IM administration in the rat and the rabbit, post-implantation losses, as evidenced by decreases in live fetuses and increases in resorptions, occurred at 30 mg/kg/day.
+
 Buprenorphine was not teratogenic in rats or rabbits after IM or subcutaneous (SC) doses up to 5 mg/kg/day (estimated exposure was approximately 3 and 6 times, respectively, the human sublingual dose of 16 mg), after IV doses up to 0.8 mg/kg/day (estimated exposure was approximately 0.5 times and equal to, respectively, the human sublingual dose of 16 mg), or after oral doses up to 160 mg/kg/day in rats (estimated exposure was approximately 95 times the human sublingual dose of 16 mg) and 25 mg/kg/day in rabbits (estimated exposure was approximately 30 times the human sublingual dose of 16 mg).
 Significant increases in skeletal abnormalities (e.g., extra thoracic vertebra or thoraco-lumbar ribs) were noted in rats after SC administration of 1 mg/kg/day and up (estimated exposure was approximately 0.6 times the human sublingual dose of 16 mg), but were not observed at oral doses up to 160 mg/kg/day.
-Increases in skeletal abnormalities in rabbits after IM administration of 5 mg/kg/day (estimated exposure was approximately 6 times the human sublingual dose of 16 mg) or oral administration of 1 mg/kg/day or greater (estimated exposure was approximately equal to the human sublingual dose of 16 mg) were not statistically significant.
+Increases in skeletal abnormalities in rabbits after IM administration of 5 mg/kg/day (estimated exposure was approximately 6 times the human daily sublingual dose of 16 mg) in the absence of maternal toxicity or oral administration of 1 mg/kg/day or greater (estimated exposure was approximately equal to the human sublingual dose of 16 mg) were not statistically significant.
 
 In rabbits, buprenorphine produced statistically significant pre-implantation losses at oral doses of 1 mg/kg/day or greater and post-implantation losses that were statistically significant at IV doses of 0.2 mg/kg/day or greater (estimated exposure approximately 0.3 times the human sublingual dose of 16 mg).
+No maternal toxicity was noted at doses causing post-implantation loss in this study.
 
-Dystocia was noted in pregnant rats treated intramuscularly with buprenorphine 5 mg/kg/day (approximately 3 times the human sublingual dose of 16 mg) during gestation and lactation.
+Dystocia was noted in pregnant rats treated intramuscularly with buprenorphine from Gestation Day 14 through Lactation Day 21 at 5 mg/kg/day (approximately 3 times the human sublingual dose of 16 mg).
 Fertility, pre-, and post-natal development studies with buprenorphine in rats indicated increases in neonatal mortality after oral doses of 0.8 mg/kg/day and up (approximately 0.5 times the human sublingual dose of 16 mg), after IM doses of 0.5 mg/kg/day and up (approximately 0.3 times the human sublingual dose of 16 mg), and after SC doses of 0.1 mg/kg/day and up (approximately 0.06 times the human sublingual dose of 16 mg).
 An apparent lack of milk production during these studies likely contributed to the decreased pup viability and lactation indices.
 Delays in the occurrence of righting reflex and startle response were noted in rat pups at an oral dose of 80 mg/kg/day (approximately 50 times the human sublingual dose of 16 mg).
@@ -92,10 +97,9 @@ Delays in the occurrence of righting reflex and startle response were noted in r
 
 Risk Summary
 
-Based on two studies in 13 lactating women, maintained on buprenorphine treatment, buprenorphine and its metabolite norbuprenorphine were present in low levels in human milk and infant urine, and available data have not shown adverse reactions in breastfed infants.
+Based on two studies in 13 lactating women, maintained on buprenorphine treatment, buprenorphine and its metabolite norbuprenorphine were present in low levels in human milk and available data have not shown adverse reactions in breastfed infants.
 There are no data on the combination product buprenorphine/naloxone in breastfeeding, however oral absorption of naloxone is limited.
-Caution should be exercised when ZUBSOLV is administered to a nursing woman.
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for ZUBSOLV and any potential adverse effects on the breastfed child from the drug or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for ZUBSOLV sublingual tablet and any potential adverse effects on the breastfed child from the drug or from the underlying maternal condition.
 
 Clinical Considerations
 
@@ -107,7 +111,7 @@ Data were consistent from two studies (N=13) of breastfeeding infants whose moth
 
 In a study of six lactating women who were taking a median sublingual buprenorphine dose of 0.29 mg/kg/day 5 to 8 days after delivery, breast milk provided a median infant dose of 0.42 mcg/kg/day of buprenorphine and 0.33 mcg/kg/day of norbuprenorphine, equal to 0.2% and 0.12%, respectively, of the maternal weight-adjusted dose (relative dose/kg (%) of norbuprenorphine was calculated from the assumption that buprenorphine and norbuprenorphine are equipotent).
 
-Data from a study of seven lactating women who were taking a median sublingual buprenorphine dose of 7 mg/day an average of 1.12 months after delivery indicated that, the mean milk concentrations (Cavg) of buprenorphine and norbuprenorphine were 3.65 mcg/L and 1.94 mcg/L respectively.
+Data from a study of seven lactating women who were taking a median sublingual buprenorphine dose of 7 mg/day an average of 1.12 months after delivery indicated that the mean milk concentrations (Cavg) of buprenorphine and norbuprenorphine were 3.65 mcg/L and 1.94 mcg/L respectively.
 Based on the study data, and assuming milk consumption of 150 mL/kg/day, an exclusively breastfed infant would receive an estimated mean absolute infant dose (AID) of 0.55 mcg/kg/day of buprenorphine and 0.29 mcg/kg/day of norbuprenorphine, or a mean relative infant dose (RID) of 0.38% and 0.18%, respectively, of the maternal weight-adjusted dose.
 
 ## 8.3Females and Males of Reproductive Potential
@@ -115,7 +119,7 @@ Based on the study data, and assuming milk consumption of 150 mL/kg/day, an excl
 Infertility
 
 Chronic use of opioids may cause reduced fertility in females and males of reproductive potential.
-It is not known whether these effects on fertility are reversible [see Adverse Reactions (6.2)].
+It is not known whether these effects on fertility are reversible [see Adverse Reactions (6.2), Nonclinical Toxicology (13.1)].
 
 ## 8.4Pediatric Use
 
@@ -140,4 +144,4 @@ Buprenorphine/naloxone products should be avoided in patients with severe hepati
 ## 8.7Renal Impairment
 
 No differences in buprenorphine pharmacokinetics were observed between 9 dialysis-dependent and 6 normal patients following IV administration of 0.3 mg buprenorphine.
-The effects of renal failure on naloxone pharmacokinetics are unknown.
+The effects of renal failure on naloxone pharmacokinetics are unknown [see Clinical Pharmacology (12.3)].

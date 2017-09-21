@@ -1,4 +1,10 @@
-MEDICATION GUIDE ZUBSOLV® (Zub-solve) (buprenorphine and naloxone) Sublingual Tablet (CIII)
+MEDICATION GUIDE
+
+ZUBSOLV® (Zub-solve)
+
+(buprenorphine and naloxone)
+
+Sublingual Tablet (CIII)
 
 | IMPORTANT: Keep ZUBSOLV in a secure place away from children. Accidental use by a child is a medical emergency and can result in death. If a child accidentally uses ZUBSOLV, get emergency help right away. |
 | --- |
@@ -38,6 +44,7 @@ What is ZUBSOLV?
 - It is not known if ZUBSOLV is safe or effective in children.
 
 Who should not take ZUBSOLV?
+
 Do not take ZUBSOLV if you are allergic to buprenorphine or naloxone.
 
 What should I tell my doctor before taking ZUBSOLV?
@@ -102,10 +109,10 @@ How should I take ZUBSOLV?
   This could cause the tablet to break.
 - As soon as you remove your prescribed dose of ZUBSOLV from the blister pack: • Place the tablet under your tongue (See Figures D, E, and F). If more than 1 tablet is required, place the tablets in different places under your tongue at the same time.
 
-- Let the tablet dissolve completely.
-  ZUBSOLV usually dissolves in your mouth within 5 minutes.
-  If your mouth is dry, take a sip of water to moisten it.
-  Spit out or swallow the water and dry your hands if they are wet before you place the ZUBSOLV tablet under your tongue.
+• Let the tablet dissolve completely.
+ZUBSOLV usually dissolves in your mouth within 5 minutes.
+If your mouth is dry, take a sip of water to moisten it.
+Spit out or swallow the water and dry your hands if they are wet before you place the ZUBSOLV tablet under your tongue.
 
 - While ZUBSOLV is dissolving, do not chew or swallow the tablet because the medicine will not work as well.
 - Do not eat or drink anything until the ZUBSOLV tablet has completely dissolved.
@@ -202,6 +209,8 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Manufactured for Orexo US, Inc. by AAIPharma Services Corp. Wilmington, NC 28405 USA
 
-Distributed by Orexo US, Inc. Morristown, NJ 07960 USA ZUBSOLV is a licensed trademark of Orexo US, Inc.© 2016 Orexo US, Inc.
+Distributed by Orexo US, Inc. Morristown, NJ 07960 USA
+
+ZUBSOLV is a licensed trademark of Orexo US, Inc.© 2016 Orexo US, Inc.
 
 Printed in USA

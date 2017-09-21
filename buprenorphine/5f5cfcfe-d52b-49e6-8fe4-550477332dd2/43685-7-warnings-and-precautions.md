@@ -12,7 +12,7 @@ Multiple refills should not be prescribed early in treatment or without appropri
 Buprenorphine, particularly when taken by the IV route, in combination with benzodiazepines or other CNS depressants (including alcohol), has been associated with significant respiratory depression and death.
 Many, but not all, post-marketing reports regarding coma and death associated with the concomitant use of buprenorphine and benzodiazepines involved misuse by self-injection.
 Deaths have also been reported in association with concomitant administration of buprenorphine with other depressants such as alcohol or other CNS depressant drugs.
-Patients should be warned of the potential danger of self-administration of benzodiazepines or other depressants while under treatment with ZUBSOLV sublingual tablets [see Drug Interactions (7.3)].
+Patients should be warned of the potential danger of self-administration of benzodiazepines or other depressants while under treatment with ZUBSOLV sublingual tablets [see Drug Interactions (7)].
 
 In the case of overdose, the primary management should be the re-establishment of adequate ventilation with mechanical assistance of respiration, if required.
 Naloxone may be of value for the management of buprenorphine overdose.
@@ -23,7 +23,7 @@ ZUBSOLV sublingual tablets should be used with caution in patients with compromi
 ## 5.3CNS Depression
 
 Patients receiving buprenorphine in the presence of opioid analgesics, general anesthetics, benzodiazepines, phenothiazines, other tranquilizers, sedative/hypnotics, or other CNS depressants (including alcohol) may exhibit increased CNS depression.
-Consider dose reduction of CNS depressants, ZUBSOLV sublingual tablets, or both in situations of concomitant prescribing [see Drug Interactions (7.3)].
+Consider dose reduction of CNS depressants, ZUBSOLV sublingual tablets, or both in situations of concomitant prescribing [see Drug Interactions (7)].
 
 ## 5.4Unintentional Pediatric Exposure
 
@@ -40,14 +40,7 @@ Advise pregnant women receiving opioid addiction treatment with ZUBSOLV of the r
 This risk must be balanced against the risk of untreated opioid addiction which often results in continued or relapsing illicit opioid use and is associated with poor pregnancy outcomes.
 Therefore, prescribers should discuss the importance and benefits of management of opioid addiction throughout pregnancy.
 
-## 5.6Dependence
-
-Buprenorphine is a partial agonist at the mu-opioid receptor and chronic administration produces physical dependence of the opioid type, characterized by withdrawal signs and symptoms upon abrupt discontinuation or rapid taper.
-The withdrawal syndrome is typically milder than seen with full agonists and may be delayed in onset.
-Buprenorphine can be abused in a manner similar to other opioids.
-This should be considered when prescribing or dispensing buprenorphine in situations when the clinician is concerned about an increased risk of misuse, abuse, or diversion [see Drug Abuse and Dependence (9.3)].
-
-## 5.7Adrenal Insufficiency
+## 5.6Adrenal Insufficiency
 
 Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use.
 Presentation of adrenal insufficiency may include non-specific symptoms and signs including nausea, vomiting, anorexia, fatigue, weakness, dizziness, and low blood pressure.
@@ -56,6 +49,13 @@ If adrenal insufficiency is diagnosed, treat with physiologic replacement doses 
 Wean the patient off of the opioid to allow adrenal function to recover and continue corticosteroid treatment until adrenal function recovers.
 Other opioids may be tried as some cases reported use of a different opioid without recurrence of adrenal insufficiency.
 The information available does not identify any particular opioids as being more likely to be associated with adrenal insufficiency.
+
+## 5.7Dependence
+
+Buprenorphine is a partial agonist at the mu-opioid receptor and chronic administration produces physical dependence of the opioid type, characterized by withdrawal signs and symptoms upon abrupt discontinuation or rapid taper.
+The withdrawal syndrome is typically milder than seen with full agonists and may be delayed in onset.
+Buprenorphine can be abused in a manner similar to other opioids.
+This should be considered when prescribing or dispensing buprenorphine in situations when the clinician is concerned about an increased risk of misuse, abuse, or diversion [see Drug Abuse and Dependence (9.3)].
 
 ## 5.8Hepatitis, Hepatic Events
 

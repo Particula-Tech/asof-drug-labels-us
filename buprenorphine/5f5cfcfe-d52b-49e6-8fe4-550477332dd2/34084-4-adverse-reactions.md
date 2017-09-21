@@ -8,11 +8,9 @@ ZUBSOLV for use as initial treatment was evaluated in two clinical trials that h
 On the first day, subjects received an initial dose of ZUBSOLV 1.4 mg/0.36 mg or generic buprenorphine 2 mg, followed by ZUBSOLV 4.2 mg/1.08 mg or generic buprenorphine 6 mg 1.5 hours later.
 In total, safety data were available for 538 opioid-dependent subjects exposed to ZUBSOLV (buprenorphine/naloxone) sublingual tablets when used for initial treatment.
 
-Table 1.
-Adverse Reactions in ≥ 5% of Patients During the Induction Phase by System Organ Class and Preferred Term (Safety Population)
-
-| System Organ Class Preferred Term | ZUBSOLV (N=538) | Generic BUP (N=530) | Overall (N=1068) |
+| Table 1. Adverse Reactions in ≥ 5% of Patients During the Induction Phase by System Organ Class and Preferred Term (Safety Population) |  |  |  |
 | --- | --- | --- | --- |
+| System Organ Class Preferred Term | ZUBSOLV (N=538) | Generic BUP (N=530) | Overall (N=1068) |
 |  | N (%) |  |  |
 | Patients with any Adverse Reactions | 139 (26%) | 136 (26%) | 275 (26%) |
 | Gastrointestinal Disorders | 64 (12%) | 60 (11%) | 124 (12%) |
