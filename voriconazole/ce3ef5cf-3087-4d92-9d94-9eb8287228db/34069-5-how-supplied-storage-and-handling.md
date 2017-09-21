@@ -42,7 +42,7 @@ Only clear solutions without particles should be used [see Dosage and Administra
 VFEND Tablets should be stored at 15° – 30°C (59° – 86°F) [see USP Controlled Room Temperature].
 
 VFEND Powder for Oral Suspension should be stored at 2° – 8°C (36°– 46° F) (in a refrigerator) before reconstitution.
-The shelf-life of the powder for oral suspension is 18 months.
+The shelf-life of the powder for oral suspension is 24 months.
 
 The reconstituted suspension should be stored at 15° – 30°C (59° – 86°F) [see USP Controlled Room Temperature].
 Do not refrigerate or freeze.
