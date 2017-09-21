@@ -46,7 +46,7 @@ Lisinopril Tablets, USP 40 mg are white, round, convex tablets, debossed “4214
 - Bottles of 180: NDC 43547-419-18
 - Bottles of 500: NDC 43547-419-50
 - Bottles of 1000: NDC 43547-419-11
-- Bottles of 2500: NDC 43547-419-15
+- Bottles of 2500: NDC 43547-419-25
 
 Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 Protect from moisture, freezing and excessive heat.
