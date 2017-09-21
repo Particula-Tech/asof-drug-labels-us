@@ -13,7 +13,7 @@ Shake before use
 For Topical Use Only
 
 Net Wt.
-120g
+120g (2 bottles of 60 g)
 
 # PRINCIPAL DISPLAY PANEL - Carton Label 60g
 
