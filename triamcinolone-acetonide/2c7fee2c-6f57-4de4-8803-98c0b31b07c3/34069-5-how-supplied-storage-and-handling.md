@@ -16,4 +16,4 @@ Triderm (Triamcinolone Acetonide Cream USP), 0.5% is supplied in:
 
 15 grams tube NDC 0316-0175-15
 
-454 grams jar NDC 0136-0175-16
+454 grams jar NDC 0316-0175-16
