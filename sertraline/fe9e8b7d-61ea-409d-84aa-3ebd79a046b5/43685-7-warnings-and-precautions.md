@@ -92,3 +92,9 @@ False-positive urine immunoassay screening tests for benzodiazepines have been r
 This finding is due to lack of specificity of the screening tests.
 False-positive test results may be expected for several days following discontinuation of ZOLOFT.
 Confirmatory tests, such as gas chromatography/mass spectrometry, will help distinguish ZOLOFT from benzodiazepines [See Drug Interactions (7.3)].
+
+## 5.10 QTc Prolongation/Torsade de Pointes
+
+During post-marketing use of sertraline, cases of QTc prolongation and Torsade de Pointes (TdP) have been reported.
+The majority of reports occurred in patients with other risk factors for QTc prolongation/TdP.
+Therefore, ZOLOFT should be used with caution in patients with risk factors for QTc prolongation [See Clinically Significant Drug Interactions (7.1), Pharmacodynamics (12.2)].

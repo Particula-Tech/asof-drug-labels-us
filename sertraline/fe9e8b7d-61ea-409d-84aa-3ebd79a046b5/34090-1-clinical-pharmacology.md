@@ -16,6 +16,12 @@ Alcohol
 
 In healthy subjects, the acute cognitive and psychomotor effects of alcohol were not potentiated by ZOLOFT.
 
+Cardiac Electrophysiology
+
+In a dedicated thorough QTc study, conducted at steady state at supratherapeutic exposures in healthy volunteers (treated with 400 mg/day, twice the maximum recommended daily dose), the upper bound of the 2-sided 90% CI for the time matched Least Square mean difference of QTcF between sertraline and placebo (11.666 msec) was greater than the predefined threshold of 10 msec at the 4-hour postdose time point.
+Exposure-response analysis indicated a slightly positive relationship between QTcF and sertraline plasma concentrations [0.036 msec/(ng/mL); p<0.0001].
+Based on the exposure response model, the threshold for clinically significant prolongation of the QTcF (i.e., for predicted 90% CI to exceed 10 msec) is at least 2.6-fold greater than the average Cmax (86 ng/mL) following the highest recommended dose of sertraline (200 mg/day) [See Warnings and Precautions (5), Adverse Reactions (6), Drug Interactions (7), Overdosage (10)].
+
 ## 12.3 Pharmacokinetics
 
 Absorption
