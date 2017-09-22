@@ -39,7 +39,7 @@ This terminal phase probably represents saturable binding to ACE and is not prop
 Upon multiple dosing, lisinopril exhibits an effective half-life of 12 hours.
 Lisinopril does not appear to be bound to other serum proteins.
 Lisinopril does not undergo metabolism and is excreted unchanged entirely in the urine.
-Based on urinary recovery, the mean extent of absorption of lisinopril is approximately 25%, with large intersubject variability (6 to 60%) at all doses tested (5 to 80 mg).
+Based on urinary recovery, the mean extent of absorption of lisinopril is approximately 25%, with large intersubject variability (6% to 60%) at all doses tested (5 mg to 80 mg).
 The absolute bioavailability of lisinopril is reduced to 16% in patients with stable NYHA Class II to IV congestive heart failure, and the volume of distribution appears to be slightly smaller than that in normal subjects.
 The oral bioavailability of lisinopril in patients with acute myocardial infarction is similar to that in healthy volunteers.
 Impaired renal function decreases elimination of lisinopril, which is excreted principally through the kidneys, but this decrease becomes clinically important only when the glomerular filtration rate is below 30 mL/min.
@@ -49,7 +49,7 @@ Lisinopril can be removed by hemodialysis.
 Pediatric Patients:
 
 The pharmacokinetics of lisinopril were studied in 29 pediatric hypertensive patients between 6 years and 16 years with glomerular filtration rate > 30 mL/min/1.73 m2.
-After doses of 0.1 to 0.2 mg per kg, steady state peak plasma concentrations of lisinopril occurred within 6 hours and the extent of absorption based on urinary recovery was about 28%.
+After doses of 0.1 mg per kg to 0.2 mg per kg, steady state peak plasma concentrations of lisinopril occurred within 6 hours and the extent of absorption based on urinary recovery was about 28%.
 These values are similar to those obtained previously in adults.
 The typical value of lisinopril oral clearance (systemic clearance/absolute bioavailability) in a child weighing 30 kg is 10 L/h, which increases in proportion to renal function.
 In a multicenter, open-label pharmacokinetic study of daily oral lisinopril in 22 pediatric hypertensive patients with stable kidney transplant (ages 7 to 17 years; estimated glomerular filtration rate > 30 mL/min/1.73 m2), dose normalized exposures were in the range reported previously in children without a kidney transplant.

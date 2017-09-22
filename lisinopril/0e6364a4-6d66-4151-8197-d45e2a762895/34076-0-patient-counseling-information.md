@@ -14,4 +14,4 @@ Other causes of volume depletion such as vomiting or diarrhea may also lead to a
 Hyperkalemia: Tell patients not to use salt substitutes containing potassium without consulting their physician.
 Hypoglycemia: Tell diabetic patients treated with oral antidiabetic agents or insulin starting an ACE inhibitor to monitor for hypoglycaemia closely, especially during the first month of combined use [see Drug Interactions (7.2)].
 Leukopenia/Neutropenia: Tell patients to report promptly any indication of infection (e.g., sore throat, fever), which may be a sign of leukopenia/neutropenia.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 090, India Revised: 05/2016
+Distributed by: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 09/2017

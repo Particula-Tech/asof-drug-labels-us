@@ -7,7 +7,7 @@ Use of drugs that act on the renin-angiotensin system during the second and thir
 Most epidemiologic studies examining fetal abnormalities after exposure to antihypertensive use in the first trimester have not distinguished drugs affecting the renin-angiotensin system from other antihypertensive agents.
 When pregnancy is detected, discontinue lisinopril as soon as possible.
 The estimated background risk of major birth defects and miscarriage for the indicated population(s) are unknown.
-In the general U.S. population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+In the general U.S. population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 Clinical Considerations Disease-associated maternal and/or embryo/fetal risk Hypertension in pregnancy increases the maternal risk for pre-eclampsia, gestational diabetes, premature delivery, and delivery complications (e.g., need for cesarean section, and post-partum hemorrhage).
 Hypertension increases the fetal risk for intrauterine growth restriction and intrauterine death.
 Pregnant women with hypertension should be carefully monitored and managed accordingly.

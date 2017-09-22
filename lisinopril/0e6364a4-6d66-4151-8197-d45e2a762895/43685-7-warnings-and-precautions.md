@@ -10,8 +10,8 @@ When pregnancy is detected, discontinue lisinopril as soon as possible [see Use 
 
 ## 5.2 Angioedema and Anaphylactoid Reactions
 
-Patients taking concomitant mTOR inhibitor (e.g. temsirolimus, sirolimus, everolimus) therapy may be at increased risk for angioedema.
-[see Drug Interactions (7.7)].
+Patients taking concomitant mTOR inhibitor (e.g. temsirolimus, sirolimus, everolimus) therapy or a neprilysin inhibitor may be at increased risk for angioedema [see Drug Interactions (7.7, 7.8)].
+
 Angioedema Head and Neck Angioedema Angioedema of the face, extremities, lips, tongue, glottis and/or larynx, including some fatal reactions, have occurred in patients treated with angiotensin converting enzyme inhibitors, including lisinopril, at any time during treatment.
 Patients with involvement of the tongue, glottis or larynx are likely to experience airway obstruction, especially those with a history of airway surgery.
 Lisinopril should be promptly discontinued and appropriate therapy and monitoring should be provided until complete and sustained resolution of signs and symptoms of angioedema has occurred.
