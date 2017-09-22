@@ -1,4 +1,4 @@
-PATIENT INFORMATION COREG CR® (Co-REG)
+PATIENT INFORMATION COREG CR (Co-REG)
 
 (carvedilol phosphate)
 
@@ -54,9 +54,9 @@ Tell your doctor about all of your medical conditions, including if you:
   You and your doctor should talk about the best way to control your high blood pressure during pregnancy.
 - •are breastfeeding.
   It is not known if COREG CR passes into your breast milk.
-  You should not breastfeed while using COREG CR.
+  Talk with your doctor about the best way to feed your baby if you are taking COREG CR.
 
-Tell your doctor about all of the medicines you take including prescription and non-prescription medicines, vitamins, and herbal supplements.
+Tell your doctor about all of the medicines you take including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 COREG CR and certain other medicines can affect each other and cause serious side effects.
 COREG CR may affect the way other medicines work.
 Also, other medicines may affect how well COREG CR works.
@@ -135,8 +135,6 @@ It may harm them.
 This leaflet summarizes the most important information about COREG CR.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about COREG CR that is written for healthcare professionals.
-You can also find out more about COREG CR by visiting the website www.COREGCR.com or calling 1-888-825-5249.
-This call is free.
 What are the ingredients in COREG CR?
 
 Active ingredient: carvedilol phosphate
@@ -144,19 +142,19 @@ Active ingredient: carvedilol phosphate
 Inactive ingredients: crospovidone, hydrogenated castor oil, hydrogenated vegetable oil, magnesium stearate, methacrylic acid copolymers, microcrystalline cellulose, and povidone
 
 COREG CR capsules come in the following strengths: 10 mg, 20 mg, 40 mg, 80 mg.
-What is high blood pressure (hypertension)?Blood pressure is the force of blood in your blood vessels when your heart beats and when your heart rests.
+What is high blood pressure (hypertension)?
+
+Blood pressure is the force of blood in your blood vessels when your heart beats and when your heart rests.
 You have high blood pressure when the force is too much.
 High blood pressure makes the heart work harder to pump blood through the body and causes damage to blood vessels.
 COREG CR can help your blood vessels relax so your blood pressure is lower.
 Medicines that lower blood pressure may lower your chance of having a stroke or heart attack.
 
-COREG CR and COREG are registered trademarks of the GSK group of companies.
+COREG CR and COREG are trademarks owned by or licensed to the GSK group of companies.
 GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2015 the GSK group of companies.
-All rights reserved.
-October 2015
+©2017 the GSK group of companies or its licensor September 2017
 
-CCR:7PIL
+CCR:8PIL

@@ -23,6 +23,8 @@ Call 1-888-825-5249
 Each extended-release capsule contains 10 mg of carvedilol phosphate.
 Store at 25oC (77oF) [see USP].
 
+Do not accept if membrane seal under cap is missing or broken.
+
 Dosage: See prescribing information for complete dosing information.
 This extended-release capsule formulation differs in strength from COREG® tablets.
 
@@ -33,10 +35,10 @@ GlaxoSmithKline, RTP, NC 27709
 
 Made in Canada
 
-1. ©2014, the GSK group of companies Rev.
-   7/14
+1. ©2016 the GSK group of companies Rev.
+   12/16
 
-10000000127119
+10000000143784
 
 PRINICIPAL DISPLAY PANEL
 
@@ -63,6 +65,8 @@ Call 1-888-825-5249
 Each extended-release capsule contains 20 mg of carvedilol phosphate.
 Store at 25oC (77oF) [see USP].
 
+Do not accept if membrane seal under cap is missing or broken.
+
 Dosage: See prescribing information for complete dosing information.
 This extended-release capsule formulation differs in strength from COREG® tablets.
 
@@ -73,10 +77,10 @@ GlaxoSmithKline, RTP, NC 27709
 
 Made in Canada
 
-1. ©2014, the GSK group of companies Rev.
-   8/14
+1. ©2017 the GSK group of companies Rev.
+   1/17
 
-10000000127120
+10000000144411
 
 PRINICIPAL DISPLAY PANEL
 
@@ -103,6 +107,8 @@ Call 1-888-825-5249
 Each extended-release capsule contains 40 mg of carvedilol phosphate.
 Store at 25oC (77oF) [see USP].
 
+Do not accept if membrane seal under cap is missing or broken.
+
 Dosage: See prescribing information for complete dosing information.
 This extended-release capsule formulation differs in strength from COREG® tablets.
 
@@ -113,10 +119,10 @@ GlaxoSmithKline, RTP, NC 27709
 
 Made in Canada
 
-1. ©2014, the GSK group of companies Rev.
-   8/14
+1. ©2016 the GSK group of companies Rev.
+   12/16
 
-10000000127121
+10000000143783
 
 PRINICIPAL DISPLAY PANEL
 
@@ -143,6 +149,8 @@ Call 1-888-825-5249
 Each extended-release capsule contains 80 mg of carvedilol phosphate.
 Store at 25oC (77oF) [see USP].
 
+Do not accept if membrane seal under cap is missing or broken.
+
 Dosage: See prescribing information for complete dosing information.
 This extended-release capsule formulation differs in strength from COREG® tablets.
 
@@ -153,7 +161,7 @@ GlaxoSmithKline, RTP, NC 27709
 
 Made in Canada
 
-1. ©2014, the GSK group of companies Rev.
-   8/14
+1. ©2016 the GSK group of companies Rev.
+   12/16
 
-10000000127122
+10000000143785

@@ -16,10 +16,10 @@ The concentration-response relationship for β1‑blockade following administrat
 
 The mechanism by which β‑blockade produces an antihypertensive effect has not been established.
 
-β‑adrenoreceptor blocking activity has been demonstrated in animal and human studies showing that carvedilol (1) reduces cardiac output in normal subjects; (2) reduces exercise- and/or isoproterenol-induced tachycardia; and (3) reduces reflex orthostatic tachycardia.
+β‑adrenoreceptor blocking activity has been demonstrated in animal and human studies showing that carvedilol (1) reduces cardiac output in normal subjects, (2) reduces exercise- and/or isoproterenol-induced tachycardia, and (3) reduces reflex orthostatic tachycardia.
 Significant β‑adrenoreceptor blocking effect is usually seen within 1 hour of drug administration.
 
-α1‑adrenoreceptor blocking activity has been demonstrated in human and animal studies, showing that carvedilol (1) attenuates the pressor effects of phenylephrine; (2) causes vasodilation; and (3) reduces peripheral vascular resistance.
+α1‑adrenoreceptor blocking activity has been demonstrated in human and animal studies, showing that carvedilol (1) attenuates the pressor effects of phenylephrine, (2) causes vasodilation, and (3) reduces peripheral vascular resistance.
 These effects contribute to the reduction of blood pressure and usually are seen within 30 minutes of drug administration.
 
 Due to the α1‑receptor blocking activity of carvedilol, blood pressure is lowered more in the standing than in the supine position, and symptoms of postural hypotension (1.8%), including rare instances of syncope, can occur.
@@ -44,13 +44,13 @@ The absorption of carvedilol from COREG CR is slower and more prolonged compared
 Plasma concentrations of carvedilol increase in a dose-proportional manner over the dosage range of COREG CR 10 to 80 mg.
 Within-subject and between-subject variability for AUC and Cmax is similar for COREG CR and immediate-release carvedilol.
 
-#### Effect of Food
+#### Effect of Food:
 
 Administration of COREG CR with a high-fat meal resulted in increases (~20%) in AUC and Cmax compared with COREG CR administered with a standard meal.
 Decreases in AUC (27%) and Cmax (43%) were observed when COREG CR was administered in the fasted state compared with administration after a standard meal.
 COREG CR should be taken with food.
 
-In a trial with adult subjects, sprinkling the contents of the COREG CR capsule on applesauce did not appear to have a significant effect on overall exposure (AUC) compared with administration of the intact capsule following a standard meal but did result in a decrease in Cmax (18%).
+In a trial with adult subjects, sprinkling the contents of the COREG CR capsule on applesauce did not appear to have a significant effect on overall exposure (AUC) compared with administration of the intact capsule following a standard meal, but did result in a decrease in Cmax (18%).
 
 ### Distribution
 
@@ -111,7 +111,7 @@ Carvedilol is contraindicated in patients with severe liver impairment.
 
 No trials have been performed with COREG CR in subjects with renal impairment.
 Although carvedilol is metabolized primarily by the liver, plasma concentrations of carvedilol have been reported to be increased in patients with renal impairment after dosing with immediate-release carvedilol.
-Based on mean AUC data, approximately 40% to 50% higher plasma concentrations of carvedilol were observed in hypertensive subjects with moderate to severe renal impairment compared with a control group of hypertensive subjects with normal renal function.
+Based on mean AUC data, approximately 40% to 50% higher plasma concentrations of carvedilol were observed in subjects with hypertension and moderate to severe renal impairment compared with a control group of subjects with hypertension and normal renal function.
 However, the ranges of AUC values were similar for both groups.
 Changes in mean peak plasma levels were less pronounced, approximately 12% to 26% higher in subjects with impaired renal function.
 
@@ -133,7 +133,7 @@ In a pharmacokinetic trial conducted in 10 healthy male subjects, cimetidine (1,
 
 ### Digoxin
 
-Following concomitant administration of carvedilol (25 mg once daily) and digoxin (0.25 mg once daily) for 14 days, steady-state AUC and trough concentrations of digoxin were increased by 14% and 16%, respectively, in 12 hypertensive subjects [see Drug Interactions (7.4)].
+Following concomitant administration of carvedilol (25 mg once daily) and digoxin (0.25 mg once daily) for 14 days, steady-state AUC and trough concentrations of digoxin were increased by 14% and 16%, respectively, in 12 subjects with hypertension [see Drug Interactions (7.4)].
 
 ### Glyburide
 

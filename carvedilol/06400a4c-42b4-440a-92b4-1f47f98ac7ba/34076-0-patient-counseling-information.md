@@ -15,18 +15,17 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
 - •Diabetic patients should report any changes in blood sugar levels to their physician.
 - •Contact lens wearers may experience decreased lacrimation.
 
-COREG CR and COREG are registered trademarks of the GSK group of companies.
+COREG CR and COREG are trademarks owned by or licensed to the GSK group of companies.
 
-TOPROL-XL is a trademark of its respective owner and is not a trademark of the GSK group of companies.
+The other brand listed is a trademark owned by or licensed to its owner and is not owned by or licensed to the GSK group of companies.
 The maker of this brand is not affiliated with and does not endorse the GSK group of companies or its products.
 
 GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2015 the GSK group of companies.
-All rights reserved.
+©2017 GSK group of companies or its licensor.
 
-CCR:18PI
+CCR:19PI
 
 - PHARMACIST─DETACH HERE AND GIVE INSTRUCTIONS TO PATIENT

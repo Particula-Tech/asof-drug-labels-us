@@ -6,7 +6,7 @@ Therefore, the information included within this section is based on data from co
 ## 5.1 Cessation of Therapy
 
 Patients with coronary artery disease, who are being treated with COREG CR, should be advised against abrupt discontinuation of therapy.
-Severe exacerbation of angina and the occurrence of myocardial infarction and ventricular arrhythmias have been reported in angina patients following the abrupt discontinuation of therapy with β‑blockers.
+Severe exacerbation of angina and the occurrence of myocardial infarction and ventricular arrhythmias have been reported in patients with angina following the abrupt discontinuation of therapy with β‑blockers.
 The last 2 complications may occur with or without preceding exacerbation of the angina pectoris.
 As with other β‑blockers, when discontinuation of COREG CR is planned, the patients should be carefully observed and advised to limit physical activity to a minimum.
 COREG CR should be discontinued over 1 to 2 weeks whenever possible.
@@ -15,8 +15,8 @@ Because coronary artery disease is common and may be unrecognized, it may be pru
 
 ## 5.2 Bradycardia
 
-In clinical trials with immediate‑release carvedilol, bradycardia was reported in about 2% of hypertensive subjects, 9% of heart failure subjects, and 6.5% of myocardial infarction subjects with left ventricular dysfunction.
-Bradycardia was reported in 0.5% of subjects receiving COREG CR in a trial of heart failure subjects and myocardial infarction subjects with left ventricular dysfunction.
+In clinical trials with immediate‑release carvedilol, bradycardia was reported in about 2% of hypertensive subjects, 9% of subjects with heart failure, and 6.5% of subjects with myocardial infarction and left ventricular dysfunction.
+Bradycardia was reported in 0.5% of subjects receiving COREG CR in a trial of subjects with heart failure and subjects with myocardial infarction and left ventricular dysfunction.
 There were no reports of bradycardia in the clinical trial of COREG CR in hypertension.
 However, if pulse rate drops below 55 beats per minute, the dosage of COREG CR should be reduced.
 
@@ -31,7 +31,7 @@ In a trial comparing subjects with heart failure switched to COREG CR or maintai
 
 In the clinical trial of COREG CR in hypertensive subjects, syncope was reported in 0.3% of subjects receiving COREG CR compared with 0% of subjects receiving placebo.
 There were no reports of postural hypotension in this trial.
-Postural hypotension occurred in 1.8% and syncope in 0.1% of hypertensive subjects receiving immediate‑release carvedilol, primarily following the initial dose or at the time of dose increase and was a cause for discontinuation of therapy in 1% of subjects.
+Postural hypotension occurred in 1.8% and syncope in 0.1% of hypertensive subjects receiving immediate‑release carvedilol, primarily following the initial dose or at the time of dose increase, and was a cause for discontinuation of therapy in 1% of subjects.
 
 In the CAPRICORN trial of survivors of an acute myocardial infarction with left ventricular dysfunction, hypotension or postural hypotension occurred in 20.2% of subjects receiving carvedilol compared with 12.6% of placebo subjects.
 Syncope was reported in 3.9% and 1.9% of subjects, respectively.
@@ -52,7 +52,7 @@ Worsening heart failure observed during long‑term therapy is more likely to be
 
 ## 5.5 Non-allergic Bronchospasm
 
-Patients with bronchospastic disease (e.g., chronic bronchitis and emphysema) should, in general, not receive β‑blockers.
+Patients with bronchospastic disease (e.g., chronic bronchitis, emphysema) should, in general, not receive β‑blockers.
 COREG CR may be used with caution, however, in patients who do not respond to, or cannot tolerate, other antihypertensive agents.
 It is prudent, if COREG CR is used, to use the smallest effective dose, so that inhibition of endogenous or exogenous β‑agonists is minimized.
 
@@ -64,9 +64,9 @@ The dosing recommendations should be followed closely and the dose should be low
 
 In general, β‑blockers may mask some of the manifestations of hypoglycemia, particularly tachycardia.
 Nonselective β‑blockers may potentiate insulin‑induced hypoglycemia and delay recovery of serum glucose levels.
-Patients subject to spontaneous hypoglycemia, or diabetic patients receiving insulin or oral hypoglycemic agents, should be cautioned about these possibilities.
+Patients subject to spontaneous hypoglycemia or diabetic patients receiving insulin or oral hypoglycemic agents should be cautioned about these possibilities.
 
-In heart failure patients with diabetes, carvedilol therapy may lead to worsening hyperglycemia, which responds to intensification of hypoglycemic therapy.
+In patients with heart failure and diabetes, carvedilol therapy may lead to worsening hyperglycemia, which responds to intensification of hypoglycemic therapy.
 It is recommended that blood glucose be monitored when dosing with COREG CR is initiated, adjusted, or discontinued.
 Trials designed to examine the effects of carvedilol on glycemic control in patients with diabetes and heart failure have not been conducted.
 
@@ -86,7 +86,7 @@ In patients with these risk factors it is recommended that renal function be mon
 
 ## 5.9 Major Surgery
 
-Chronically administered beta-blocking therapy should not be routinely withdrawn prior to major surgery; however, the impaired ability of the heart to respond to reflex adrenergic stimuli may augment the risks of general anesthesia and surgical procedures.
+Chronically administered β-blocking therapy should not be routinely withdrawn prior to major surgery; however, the impaired ability of the heart to respond to reflex adrenergic stimuli may augment the risks of general anesthesia and surgical procedures.
 
 ## 5.10 Thyrotoxicosis
 
