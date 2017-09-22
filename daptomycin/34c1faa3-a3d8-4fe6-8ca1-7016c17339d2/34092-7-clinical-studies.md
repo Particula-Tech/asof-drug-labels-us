@@ -2,14 +2,14 @@
 
 ## 14.1 Complicated Skin and Skin Structure Infections
 
-Adults
+Adults with cSSSI
 
-Adult patients with clinically documented complicated skin and skin structure infections (cSSSI) (Table 15) were enrolled in two randomized, multinational, multicenter, investigator-blinded trials comparing CUBICIN (4 mg/kg IV q24h) with either vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 4 to 12 g IV per day).
+Adult patients with clinically documented complicated skin and skin structure infections (cSSSI) (Table 18) were enrolled in two randomized, multinational, multicenter, investigator-blinded trials comparing CUBICIN (4 mg/kg IV q24h) with either vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 4 to 12 g IV per day).
 Patients could switch to oral therapy after a minimum of 4 days of IV treatment if clinical improvement was demonstrated.
 Patients known to have bacteremia at baseline were excluded.
 Patients with creatinine clearance (CLCR) between 30 and 70 mL/min were to receive a lower dose of CUBICIN as specified in the protocol; however, the majority of patients in this subpopulation did not have the dose of CUBICIN adjusted.
 
-Table 15: Investigator's Primary Diagnosis in the cSSSI Trials in Adult Patients (Population: ITT)
+Table 18: Investigator's Primary Diagnosis in the cSSSI Trials in Adult Patients (Population: ITT)
 
 | Study 9801 N=264 / N=266 | Study 9901 N=270 / N=292 | Pooled N=534 / N=558 |  |
 | --- | --- | --- | --- |
@@ -30,9 +30,9 @@ Clinical success rates in the CE population were 76.0% (158/208) in patients tre
 In study 9901, clinical success rates in the ITT population were 80.4% (217/270) in patients treated with CUBICIN and 80.5% (235/292) in patients treated with comparator drugs.
 Clinical success rates in the CE population were 89.9% (214/238) in patients treated with CUBICIN and 90.4% (226/250) in patients treated with comparator drugs.
 
-The success rates by pathogen for microbiologically evaluable patients are presented in Table 16.
+The success rates by pathogen for microbiologically evaluable patients are presented in Table 19.
 
-Table 16: Clinical Success Rates by Infecting Pathogen in the cSSSI Trials in Adult Patients (Population: Microbiologically Evaluable)
+Table 19: Clinical Success Rates by Infecting Pathogen in the cSSSI Trials in Adult Patients (Population: Microbiologically Evaluable)
 
 | CUBICIN | ComparatorComparator: vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 4 to 12 g/day IV in divided doses). |  |
 | --- | --- | --- |
@@ -44,7 +44,7 @@ Table 16: Clinical Success Rates by Infecting Pathogen in the cSSSI Trials in Ad
 | Streptococcus dysgalactiae subsp. equisimilis | 8/8 (100%) | 9/11 (82%) |
 | Enterococcus faecalis (vancomycin-susceptible only) | 27/37 (73%) | 40/53 (76%) |
 
-Pediatric Patients (1 to 17 Years of Age)
+Pediatric Patients (1 to 17 Years of Age) with cSSSI
 
 The cSSSI pediatric trial was a single prospective multi-center, randomized, comparative trial.
 A total of 396 pediatric patients aged 1 to 17 years with cSSSI caused by Gram positive pathogens were enrolled into the study.
@@ -66,7 +66,7 @@ The clinical success rates determined at 7–14 days after last dose of therapy 
 
 ## 14.2 S. aureus Bacteremia/Endocarditis
 
-Adults
+Adults with S. aureus Bacteremia/Endocarditis
 
 The efficacy of CUBICIN in the treatment of adult patients with S. aureus bacteremia was demonstrated in a randomized, controlled, multinational, multicenter, open-label trial.
 In this trial, adult patients with at least one positive blood culture for S. aureus obtained within 2 calendar days prior to the first dose of study drug and irrespective of source were enrolled and randomized to either CUBICIN (6 mg/kg IV q24h) or standard of care [an anti-staphylococcal semi-synthetic penicillin 2 g IV q4h (nafcillin, oxacillin, cloxacillin, or flucloxacillin) or vancomycin 1 g IV q12h, each with initial gentamicin 1 mg/kg IV every 8 hours for first 4 days].
@@ -103,9 +103,9 @@ The coprimary efficacy endpoints in the trial were the Adjudication Committee su
 The overall Adjudication Committee success rates in the ITT population were 44.2% (53/120) in patients treated with CUBICIN and 41.7% (48/115) in patients treated with comparator (difference = 2.4% [95% CI −10.2, 15.1]).
 The success rates in the PP population were 54.4% (43/79) in patients treated with CUBICIN and 53.3% (32/60) in patients treated with comparator (difference = 1.1% [95% CI −15.6, 17.8]).
 
-Adjudication Committee success rates are shown in Table 17.
+Adjudication Committee success rates are shown in Table 20.
 
-Table 17: Adjudication Committee Success Rates at Test of Cure in the S. aureus Bacteremia/Endocarditis Trial in Adult Patients (Population: ITT)
+Table 20: Adjudication Committee Success Rates at Test of Cure in the S. aureus Bacteremia/Endocarditis Trial in Adult Patients (Population: ITT)
 
 | CUBICIN 6 mg/kg | ComparatorComparator: vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 2 g IV q4h), each with initial low-dose gentamicin. |  |  |
 | --- | --- | --- | --- |
@@ -135,3 +135,23 @@ The median time to clearance in patients with MSSA was 4 days and in patients wi
 Failure of treatment due to persisting or relapsing S. aureus infections was assessed by the Adjudication Committee in 19/120 (16%) CUBICIN-treated patients (12 with MRSA and 7 with MSSA) and 11/115 (10%) comparator-treated patients (9 with MRSA treated with vancomycin and 2 with MSSA treated with an anti-staphylococcal semi-synthetic penicillin).
 Among all failures, isolates from 6 CUBICIN-treated patients and 1 vancomycin-treated patient developed increasing MICs (reduced susceptibility) by central laboratory testing during or following therapy.
 Most patients who failed due to persisting or relapsing S. aureus infection had deep-seated infection and did not receive necessary surgical intervention [see Warnings and Precautions (5.7)].
+
+Pediatric Patients (1 to 17 Years of Age) with S. aureus Bacteremia
+
+The pediatric S. aureus bacteremia study was designed as a prospective multi-center, randomized, comparative trial to treat pediatric patients aged 1 to 17 years with bacteremia.
+Patients known to have endocarditis or pneumonia at baseline were excluded.
+Patients were enrolled in a stepwise approach into three age groups and given age-dependent doses of CUBICIN once daily for up to 42 days.
+The different age groups and doses evaluated were as follows: Adolescents (12 to 17 years, n=14 patients) treated with CUBICIN dosed at 7 mg/kg once daily, Children (7 to 11 years, n=19 patients) treated with CUBICIN dosed at 9 mg/kg once daily and Children (2 to 6 years, n=22 patients) treated with CUBICIN dosed at 12 mg/kg once daily.
+No patients 1 to <2 years of age were enrolled.
+
+Patients were randomized 2:1 to receive CUBICIN or a standard of care comparator, which included intravenous therapy with vancomycin, semi-synthetic penicillin, first generation cephalosporin or clindamycin.
+Patients could switch to oral therapy after clinical improvement was demonstrated (no minimum IV dosing was required).
+
+The primary objective of this study was to assess the safety of CUBICIN.
+The clinical outcome was determined by resolution or improvement of symptoms at test-of-cure (TOC) visit, 7 to 14 days after the last dose, which was assessed by the site level Blinded Evaluator.
+
+Of the 82 subjects randomized in the study, 81 subjects were treated with CUBICIN or comparator and included in the safety population, and 73 had a proven S. aureus bacteremia at Baseline.
+Of these, 51 subjects were randomized to the CUBICIN group and 22 subjects were randomized to the comparator group.
+The mean duration of IV therapy was 12 days, with a range of 1 to 44 days.
+Forty-eight subjects switched to oral therapy, and the mean duration of oral therapy was 21 days.
+The clinical success rates determined at 7 to 14 days after last dose of therapy (IV and oral) (TOC visit) were 88% (45/51) for CUBICIN and 77% (17/22) for comparator.

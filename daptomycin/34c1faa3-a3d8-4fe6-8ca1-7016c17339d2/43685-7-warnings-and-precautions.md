@@ -64,9 +64,9 @@ Failure of treatment due to persisting or relapsing S. aureus bacteremia/endocar
 ## 5.8 Decreased Efficacy in Patients with Moderate Baseline Renal Impairment
 
 Limited data are available from the two Phase 3 complicated skin and skin structure infection (cSSSI) trials regarding clinical efficacy of CUBICIN treatment in adult patients with creatinine clearance (CLCR) <50 mL/min; only 31/534 (6%) patients treated with CUBICIN in the intent-to-treat (ITT) population had a baseline CLCR <50 mL/min.
-Table 4 shows the number of adult patients by renal function and treatment group who were clinical successes in the Phase 3 cSSSI trials.
+Table 5 shows the number of adult patients by renal function and treatment group who were clinical successes in the Phase 3 cSSSI trials.
 
-Table 4: Clinical Success Rates by Renal Function and Treatment Group in Phase 3 cSSSI Trials in Adult Patients (Population: ITT)
+Table 5: Clinical Success Rates by Renal Function and Treatment Group in Phase 3 cSSSI Trials in Adult Patients (Population: ITT)
 
 | CUBICIN 4 mg/kg q24h | Comparator |  |
 | --- | --- | --- |
@@ -74,10 +74,10 @@ Table 4: Clinical Success Rates by Renal Function and Treatment Group in Phase 3
 | 50-70 mL/min | 25/38 (66%) | 30/48 (63%) |
 | 30-<50 mL/min | 7/15 (47%) | 20/35 (57%) |
 
-In a subgroup analysis of the ITT population in the Phase 3 S. aureus bacteremia/endocarditis trial, clinical success rates, as determined by a treatment-blinded Adjudication Committee [see Clinical Studies (14.2)], in the CUBICIN-treated adult patients were lower in patients with baseline CLCR <50 mL/min (see Table 5).
-A decrease of the magnitude shown in Table 5 was not observed in comparator-treated patients.
+In a subgroup analysis of the ITT population in the Phase 3 S. aureus bacteremia/endocarditis trial, clinical success rates, as determined by a treatment-blinded Adjudication Committee [see Clinical Studies (14.2)], in the CUBICIN-treated adult patients were lower in patients with baseline CLCR <50 mL/min (see Table 6).
+A decrease of the magnitude shown in Table 6 was not observed in comparator-treated patients.
 
-Table 5: Adjudication Committee Clinical Success Rates at Test of Cure by Baseline Creatinine Clearance and Treatment Subgroup in the S. aureus Bacteremia/Endocarditis Trial in Adult Patients (Population: ITT)
+Table 6: Adjudication Committee Clinical Success Rates at Test of Cure by Baseline Creatinine Clearance and Treatment Subgroup in the S. aureus Bacteremia/Endocarditis Trial in Adult Patients (Population: ITT)
 
 | Bacteremia | Right-Sided Infective Endocarditis | Bacteremia | Right-Sided Infective Endocarditis |  |
 | --- | --- | --- | --- | --- |

@@ -20,9 +20,9 @@ Complicated Skin and Skin Structure Infection Trials in Adults
 
 In Phase 3 complicated skin and skin structure infection (cSSSI) trials in adult patients, CUBICIN was discontinued in 15/534 (2.8%) patients due to an adverse reaction, while comparator was discontinued in 17/558 (3.0%) patients.
 
-The rates of the most common adverse reactions, organized by body system, observed in adult patients with cSSSI (receiving 4 mg/kg CUBICIN) are displayed in Table 6.
+The rates of the most common adverse reactions, organized by body system, observed in adult patients with cSSSI (receiving 4 mg/kg CUBICIN) are displayed in Table 7.
 
-Table 6: Incidence of Adverse Reactions that Occurred in ≥2% of Adult Patients in the CUBICIN Treatment Group and ≥ the Comparator Treatment Group in Phase 3 cSSSI Trials
+Table 7: Incidence of Adverse Reactions that Occurred in ≥2% of Adult Patients in the CUBICIN Treatment Group and ≥ the Comparator Treatment Group in Phase 3 cSSSI Trials
 
 | CUBICIN 4 mg/kg (N=534) | ComparatorComparator: vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 4 to 12 g/day IV in divided doses). (N=558) |  |
 | --- | --- | --- |
@@ -73,9 +73,9 @@ Comparator-treated patients received dual therapy that included initial gentamic
 Infections were reported during treatment and during early and late follow-up.
 Gram-negative infections included cholangitis, alcoholic pancreatitis, sternal osteomyelitis/mediastinitis, bowel infarction, recurrent Crohn's disease, recurrent line sepsis, and recurrent urosepsis caused by a number of different Gram-negative bacteria.
 
-The rates of the most common adverse reactions, organized by System Organ Class (SOC), observed in adult patients with S. aureus bacteremia/endocarditis (receiving 6 mg/kg CUBICIN) are displayed in Table 7.
+The rates of the most common adverse reactions, organized by System Organ Class (SOC), observed in adult patients with S. aureus bacteremia/endocarditis (receiving 6 mg/kg CUBICIN) are displayed in Table 8.
 
-Table 7: Incidence of Adverse Reactions that Occurred in ≥5% of Adult Patients in the CUBICIN Treatment Group and ≥ the Comparator Treatment Group in the S. aureus Bacteremia/Endocarditis Trial
+Table 8: Incidence of Adverse Reactions that Occurred in ≥5% of Adult Patients in the CUBICIN Treatment Group and ≥ the Comparator Treatment Group in the S. aureus Bacteremia/Endocarditis Trial
 
 | CUBICIN 6 mg/kg (N=120) | ComparatorComparator: vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 2 g IV q4h), each with initial low-dose gentamicin. (N=116) |  |
 | --- | --- | --- |
@@ -131,7 +131,7 @@ Skin and Subcutaneous Tissue Disorders: pruritus generalized, rash vesicular
 Other Trials in Adults
 
 In Phase 3 trials of community-acquired pneumonia (CAP) in adult patients, the death rate and rates of serious cardiorespiratory adverse events were higher in CUBICIN-treated patients than in comparator-treated patients.
-These differences were due to lack of therapeutic effectiveness of CUBICIN in the treatment of CAP in patients experiencing these adverse events [see Indications and Usage (1.3)].
+These differences were due to lack of therapeutic effectiveness of CUBICIN in the treatment of CAP in patients experiencing these adverse events [see Indications and Usage (1.4)].
 
 Laboratory Changes in Adults
 
@@ -140,9 +140,9 @@ Complicated Skin and Skin Structure Infection Trials in Adults
 In Phase 3 cSSSI trials of adult patients receiving CUBICIN at a dose of 4 mg/kg, elevations in CPK were reported as clinical adverse events in 15/534 (2.8%) CUBICIN-treated patients, compared with 10/558 (1.8%) comparator-treated patients.
 Of the 534 patients treated with CUBICIN, 1 (0.2%) had symptoms of muscle pain or weakness associated with CPK elevations to greater than 4 times the upper limit of normal (ULN).
 The symptoms resolved within 3 days and CPK returned to normal within 7 to 10 days after treatment was discontinued [see Warnings and Precautions (5.2)].
-Table 8 summarizes the CPK shifts from Baseline through End of Therapy in the cSSSI adult trials.
+Table 9 summarizes the CPK shifts from Baseline through End of Therapy in the cSSSI adult trials.
 
-Table 8: Incidence of CPK Elevations from Baseline during Therapy in Either the CUBICIN Treatment Group or the Comparator Treatment Group in Phase 3 cSSSI Adult Trials
+Table 9: Incidence of CPK Elevations from Baseline during Therapy in Either the CUBICIN Treatment Group or the Comparator Treatment Group in Phase 3 cSSSI Adult Trials
 
 | % | n | % | n | % | n | % | n |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -177,9 +177,9 @@ In the cSSSI study, CUBICIN was discontinued in 7/256 (2.7%) patients due to an 
 
 Most Common Adverse Reactions
 
-The rates of the most common adverse reactions, organized by body system, observed in these pediatric patients with cSSSI are displayed in Table 9.
+The rates of the most common adverse reactions, organized by body system, observed in these pediatric patients with cSSSI are displayed in Table 10.
 
-Table 9: Adverse Reactions that Occurred in ≥2% of Pediatric Patients in the CUBICIN Treatment-Arm and Greater Than or Equal to the Comparator Treatment-Arm in the cSSSI Pediatric Trial
+Table 10: Adverse Reactions that Occurred in ≥2% of Pediatric Patients in the CUBICIN Treatment-Arm and Greater Than or Equal to the Comparator Treatment-Arm in the cSSSI Pediatric Trial
 
 | Adverse Reaction | n (%) | n (%) |
 | --- | --- | --- |
@@ -198,6 +198,33 @@ Table 9: Adverse Reactions that Occurred in ≥2% of Pediatric Patients in the C
 | Headache | 7 (2.7) | 3 (2.3) |
 
 The safety profile in the clinical trial of cSSSI pediatric patients was similar to that observed in the cSSSI adult patients.
+
+S. aureus Bacteremia Trial in Pediatric Patients
+
+The safety of CUBICIN was evaluated in one clinical trial (in S. aureus bacteremia), which treated 55 pediatric patients with intravenous CUBICIN and 26 patients with comparator agents.
+Patients were given age-dependent doses once daily for a treatment period of up to 42 days (mean duration of IV treatment was 12 days).
+The doses by age group were as follows: 12 mg/kg for 1 to <6 years, 9 mg/kg for 7 to 11 years and 7 mg/kg for 12 to 17 years of age [see Clinical Studies (14)].
+Patients treated with CUBICIN were (69%) male and (31%) female.
+No patients 1 to <2 years of age were enrolled.
+
+Adverse Reactions Leading to Discontinuation
+
+In the bacteremia study, CUBICIN was discontinued in 3/55 (5.5%) patients due to an adverse reaction, while comparator was discontinued in 2/26 (7.7%) patients.
+
+Most Common Adverse Reactions
+
+The rates of the most common adverse reactions, organized by body system, observed in these pediatric patients with bacteremia are displayed in Table 11.
+
+Table 11: Incidence of Adverse Reactions that Occurred in ≥5% of Pediatric Patients in the CUBICIN Treatment-Arm and Greater Than or Equal to the Comparator Treatment-Arm in the Pediatric Bacteremia Trial
+
+| Adverse Reaction | n (%) | n (%) |
+| --- | --- | --- |
+|  | CUBICIN (N = 55) | Comparator (N = 26) |
+| Gastrointestinal disorders |  |  |
+| Vomiting | 6 (10.9) | 2 (7.7) |
+| Investigations |  |  |
+| Blood CPK increased | 4 (7.3) | 0 |
+| *Comparators included intravenous therapy with either vancomycin, cefazolin, or an anti-staphylococcal semi-synthetic penicillin (nafcillin, oxacillin or cloxacillin) |  |  |
 
 ## 6.2 Post-Marketing Experience
 

@@ -4,11 +4,15 @@
 
 CUBICIN® RF is indicated for the treatment of adult and pediatric patients (1 to 17 years of age) with complicated skin and skin structure infections (cSSSI) caused by susceptible isolates of the following Gram-positive bacteria: Staphylococcus aureus (including methicillin-resistant isolates), Streptococcus pyogenes, Streptococcus agalactiae, Streptococcus dysgalactiae subsp. equisimilis, and Enterococcus faecalis (vancomycin-susceptible isolates only).
 
-## 1.2 Staphylococcus aureus Bloodstream Infections (Bacteremia), Including Those with Right-Sided Infective Endocarditis, Caused by Methicillin-Susceptible and Methicillin-Resistant Isolates
+## 1.2 Staphylococcus aureus Bloodstream Infections (Bacteremia) in Adult Patients, Including Those with Right-Sided Infective Endocarditis, Caused by Methicillin-Susceptible and Methicillin-Resistant Isolates
 
-CUBICIN® RF is indicated for the treatment of adult patients with Staphylococcus aureus bloodstream infections (bacteremia), including those with right-sided infective endocarditis, caused by methicillin-susceptible and methicillin-resistant isolates.
+CUBICIN® RF is indicated for the treatment of adult patients with Staphylococcus aureus bloodstream infections (bacteremia), including adult patients with right-sided infective endocarditis, caused by methicillin-susceptible and methicillin-resistant isolates.
 
-## 1.3 Limitations of Use
+## 1.3 Staphylococcus aureus Bloodstream Infections (Bacteremia) in Pediatric Patients (1 to 17 Years of Age)
+
+CUBICIN® RF is indicated for the treatment of pediatric patients (1 to 17 years of age) with Staphylococcus aureus bloodstream infections (bacteremia).
+
+## 1.4 Limitations of Use
 
 CUBICIN RF is not indicated for the treatment of pneumonia.
 
@@ -18,7 +22,7 @@ CUBICIN has not been studied in patients with prosthetic valve endocarditis.
 
 CUBICIN RF is not recommended in pediatric patients younger than 1 year of age due to the risk of potential effects on muscular, neuromuscular, and/or nervous systems (either peripheral and/or central) observed in neonatal dogs [see Warnings and Precautions (5.5) and Nonclinical Toxicology (13.2)].
 
-## 1.4 Usage
+## 1.5 Usage
 
 Appropriate specimens for microbiological examination should be obtained in order to isolate and identify the causative pathogens and to determine their susceptibility to daptomycin.
 

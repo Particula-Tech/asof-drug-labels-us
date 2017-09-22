@@ -2,17 +2,17 @@
 
 ## 2.1 Important Administration Duration Instructions
 
-Adults:
+Adults
 
 Administer the appropriate volume of the reconstituted CUBICIN RF (concentration of 50 mg/mL) to adult patients intravenously either by injection over a two (2) minute period or by intravenous infusion over a thirty (30) minute period.
-[see Dosage and Administration (2.2, 2.6)].
+[see Dosage and Administration (2.2, 2.4, 2.7)].
 
-Pediatric Patients (1 to 17 Years of Age):
+Pediatric Patients (1 to 17 Years of Age)
 
 Unlike in adults, do NOT administer CUBICIN RF by injection over a two (2) minute period to pediatric patients.
 
-- Pediatric Patients 7 to 17 years of Age: Administer CUBICIN RF intravenously by infusion over a 30-minute period [see Dosage and Administration (2.3, 2.6)].
-- Pediatric Patients 1 to 6 years of Age: Administer CUBICIN RF intravenously by infusion over a 60-minute period [see Dosage and Administration (2.3, 2.6)].
+- Pediatric Patients 7 to 17 years of Age: Administer CUBICIN RF intravenously by infusion over a 30-minute period [see Dosage and Administration (2.3, 2.5, 2.7)].
+- Pediatric Patients 1 to 6 years of Age: Administer CUBICIN RF intravenously by infusion over a 60-minute period [see Dosage and Administration (2.3, 2.5, 2.7)].
 
 ## 2.2 Dosage in Adults for cSSSI
 
@@ -30,7 +30,7 @@ Table 1: Recommended Dosage of CUBICIN RF in Pediatric Patients (1 to 17 Years o
 | 12 to 17 years | 5 mg/kg once every 24 hours infused over 30 minutes | Up to 14 days |
 | 7 to 11 years | 7 mg/kg once every 24 hours infused over 30 minutes |  |
 | 2 to 6 years | 9 mg/kg once every 24 hours infused over 60 minutes |  |
-| 1 to < 2 years | 10 mg/kg once every 24 hours infused over 60 minutes |  |
+| 1 to less than 2 years | 10 mg/kg once every 24 hours infused over 60 minutes |  |
 
 ## 2.4 Dosage in Adult Patients with Staphylococcus aureus Bloodstream Infections (Bacteremia), Including Those with Right-Sided Infective Endocarditis, Caused by Methicillin-Susceptible and Methicillin-Resistant Isolates
 
@@ -38,15 +38,28 @@ Administer CUBICIN RF 6 mg/kg to adult patients intravenously once every 24 hour
 There are limited safety data for the use of CUBICIN for more than 28 days of therapy.
 In the Phase 3 trial, there were a total of 14 adult patients who were treated with CUBICIN for more than 28 days.
 
-## 2.5 Dosage in Patients with Renal Impairment
+## 2.5 Dosage in Pediatric Patients (1 to 17 Years of Age) with Staphylococcus aureus Bloodstream Infections (Bacteremia)
+
+The recommended dosage regimens based on age for pediatric patients with S. aureus bloodstream infections (bacteremia) are shown in Table 2.
+Administer CUBICIN RF intravenously in 0.9% sodium chloride injection once every 24 hours for up to 42 days.
+
+Table 2: Recommended Dosage of CUBICIN RF in Pediatric Patients (1 to 17 Years of Age) with S. aureus Bacteremia, Based on Age
+
+| Age group | DosageRecommended dosage is for pediatric patients (1 to 17 years of age) with normal renal function. Dosage adjustment for pediatric patients with renal impairment has not been established. | Duration of therapy |
+| --- | --- | --- |
+| 12 to 17 years | 7 mg/kg once every 24 hours infused over 30 minutes | Up to 42 days |
+| 7 to 11 years | 9 mg/kg once every 24 hours infused over 30 minutes |  |
+| 1 to 6 years | 12 mg/kg once every 24 hours infused over 60 minutes |  |
+
+## 2.6 Dosage in Patients with Renal Impairment
 
 Adult Patients:
 
 No dosage adjustment is required in adult patients with creatinine clearance (CLCR) greater than or equal to 30 mL/min.
-The recommended dosage regimen for CUBICIN RF in adult patients with CLCR less than 30 mL/min, including adult patients on hemodialysis or continuous ambulatory peritoneal dialysis (CAPD), is 4 mg/kg (cSSSI) or 6 mg/kg (S. aureus bloodstream infections) once every 48 hours (Table 2).
+The recommended dosage regimen for CUBICIN RF in adult patients with CLCR less than 30 mL/min, including adult patients on hemodialysis or continuous ambulatory peritoneal dialysis (CAPD), is 4 mg/kg (cSSSI) or 6 mg/kg (S. aureus bloodstream infections) once every 48 hours (Table 3).
 When possible, CUBICIN RF should be administered following the completion of hemodialysis on hemodialysis days [see Warnings and Precautions (5.2, 5.8), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
 
-Table 2: Recommended Dosage of CUBICIN RF in Adult Patients
+Table 3: Recommended Dosage of CUBICIN RF in Adult Patients
 
 | cSSSI | S. aureus Bloodstream Infections |  |
 | --- | --- | --- |
@@ -58,7 +71,7 @@ Pediatric Patients:
 
 The dosage regimen for CUBICIN RF in pediatric patients with renal impairment has not been established.
 
-## 2.6 Preparation and Administration of CUBICIN RF
+## 2.7 Preparation and Administration of CUBICIN RF
 
 There are two formulations of daptomycin that have differences concerning storage and reconstitution.
 Carefully follow the reconstitution and storage procedures in labeling.
@@ -94,7 +107,7 @@ Intravenous Injection over a period of 2 minutes
 
 Intravenous Infusion over a period of 30 minutes
 
-- For intravenous (IV) infusion over a period of 30 minutes in adult patients: The appropriate volume of the reconstituted CUBICIN RF (concentration of 50 mg/mL) should be further diluted, using aseptic technique, into a 50 mL IV infusion bag containing 0.9% sodium chloride injection.
+- For IV infusion over a period of 30 minutes in adult patients: The appropriate volume of the reconstituted CUBICIN RF (concentration of 50 mg/mL) should be further diluted, using aseptic technique, into a 50 mL IV infusion bag containing 0.9% sodium chloride injection.
 
 Pediatric Patients (1 to 17 Years of Age)
 
@@ -108,11 +121,11 @@ Intravenous Infusion over a period of 30 or 60 minutes
 
 No preservative or bacteriostatic agent is present in this product.
 Aseptic technique must be used in the preparation of final IV solution.
-Table 3 below provides in-use storage conditions for reconstituted CUBICIN RF in acceptable intravenous diluents in the syringe, vial and intravenous bag (for reconstitution and dilution).
+Table 4 below provides in-use storage conditions for reconstituted CUBICIN RF in acceptable intravenous diluents in the syringe, vial and intravenous bag (for reconstitution and dilution).
 Do not exceed the listed shelf-life of reconstituted and diluted solutions of CUBICIN RF.
 Discard unused portions of CUBICIN RF.
 
-Table 3: In-Use Storage Conditions for CUBICIN RF Once Reconstituted in Acceptable Intravenous Diluents
+Table 4: In-Use Storage Conditions for CUBICIN RF Once Reconstituted in Acceptable Intravenous Diluents
 
 | Room Temperature (20°C–25°C, 68°F–77°F) | Refrigerated (2°C–8°C, 36°F–46°F) |  |  |
 | --- | --- | --- | --- |
@@ -124,12 +137,12 @@ Table 3: In-Use Storage Conditions for CUBICIN RF Once Reconstituted in Acceptab
 | Intravenous Bag | Reconstitution: Sterile Water for Injection for immediate dilution with 0.9% sodium chloride injection | 19 Hours | 3 Days |
 | Reconstitution: Bacteriostatic Water for Injection for immediate dilution with 0.9% sodium chloride injection | 2 Days | 5 Days |  |
 
-## 2.7 Compatible Intravenous Solutions
+## 2.8 Compatible Intravenous Solutions
 
 Reconstituted CUBICIN RF is compatible with Sterile Water for Injection, Bacteriostatic Water for Injection, and 0.9% sodium chloride injection.
-[See Dosage and Administration (2.5).]
+[See Dosage and Administration (2.7).]
 
-## 2.8 Incompatibilities
+## 2.9 Incompatibilities
 
 CUBICIN RF is not compatible with dextrose-containing diluents.
 
