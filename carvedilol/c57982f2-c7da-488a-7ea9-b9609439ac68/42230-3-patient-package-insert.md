@@ -1,4 +1,4 @@
-PATIENT INFORMATION COREG® (Co-REG)
+PATIENT INFORMATION COREG (Co-REG)
 
 (carvedilol)
 
@@ -46,10 +46,10 @@ Tell your doctor about all of your medical conditions, including if you:
   You and your doctor should talk about the best way to control your high blood pressure during pregnancy.
 - •are breastfeeding.
   It is not known if COREG passes into your breast milk.
-  You should not breastfeed while using COREG.
+  Talk with your doctor about the best way to feed your baby if you are taking COREG.
 - •are scheduled for surgery and will be given anesthetic agents.
 - •are scheduled for cataract surgery and have taken or are currently taking COREG.
-- •are taking prescription or non-prescription medicines, vitamins, and herbal supplements.
+- •are taking prescription or over-the-counter medicines, vitamins, and herbal supplements.
   COREG and certain other medicines can affect each other and cause serious side effects.
   COREG may affect the way other medicines work.
   Also, other medicines may affect how well COREG works.
@@ -97,6 +97,7 @@ What are possible side effects of COREG?
 Other side effects of COREG include shortness of breath, weight gain, diarrhea, and fewer tears or dry eyes that become bothersome if you wear contact lenses.
 
 Call your doctor if you have any side effects that bother you or don’t go away.
+
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
@@ -117,8 +118,6 @@ It may harm them.
 This leaflet summarizes the most important information about COREG.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about COREG that is written for healthcare professionals.
-You can also find out more about COREG by visiting the website www.COREG.com or calling 1-888-825-5249.
-This call is free.
 
 What are the ingredients in COREG?
 
@@ -136,7 +135,7 @@ High blood pressure makes the heart work harder to pump blood through the body a
 COREG can help your blood vessels relax so your blood pressure is lower.
 Medicines that lower blood pressure may lower your chance of having a stroke or heart attack.
 
-COREG is a registered trademark of the GSK group of companies.
+COREG is a trademark owned by or licensed to the GSK group of companies.
 
 Manufactured for
 
@@ -144,9 +143,8 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2015 the GSK group of companies.
-All rights reserved.
+©2017 the GSK group of companies or its licensor.
 
-October 2015
+September 2017
 
-CRG:6PIL
+CRG:7PIL

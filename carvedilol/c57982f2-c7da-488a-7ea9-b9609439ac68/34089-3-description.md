@@ -5,7 +5,7 @@ It is (±)-1-(Carbazol-4-yloxy)-3-[[2-(o-methoxyphenoxy)ethyl]amino]-2-propanol.
 Carvedilol is a racemic mixture with the following structure:
 
 COREG is a white, oval, film-coated tablet containing 3.125 mg, 6.25 mg, 12.5 mg, or 25 mg of carvedilol.
-The 6.25-mg, 12.5-mg, and 25-mg tablets are TILTAB® tablets.
+The 6.25-mg, 12.5-mg, and 25-mg tablets are TILTAB tablets.
 Inactive ingredients consist of colloidal silicon dioxide, crospovidone, hypromellose, lactose, magnesium stearate, polyethylene glycol, polysorbate 80, povidone, sucrose, and titanium dioxide.
 
 Carvedilol is a white to off-white powder with a molecular weight of 406.5 and a molecular formula of C24H26N2O4.
