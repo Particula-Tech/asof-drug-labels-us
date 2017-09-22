@@ -24,20 +24,20 @@ Do not refrigerate.
 
 Instructions for Application
 
-- 1.Open pouch at tear mark.
-- 2.Carefully remove the patch.
-- 3.Bend both sides of clear peelable liner.
-- 4.Peel off one strip only of the clear liner.
-  Avoid touching the exposed sticky side of the patch.
-- 5.Apply sticky side of the patch to the chosen skin site.
-- 6.Remove remaining strip and press patch firmly in place with the palm of the hand.
-- 7.APPLY IMMEDIATELY UPON REMOVAL FROM POUCH.
+1. 1.Open pouch at tear mark.
+2. 2.Carefully remove the patch.
+3. 3.Bend both sides of clear peelable liner.
+4. 4.Peel off one strip only of the clear liner.
+   Avoid touching the exposed sticky side of the patch.
+5. 5.Apply sticky side of the patch to the chosen skin site.
+6. 6.Remove remaining strip and press patch firmly in place with the palm of the hand.
+7. 7.APPLY IMMEDIATELY UPON REMOVAL FROM POUCH.
 
 Mylan.com
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-M9102-93-30C:R6
+M9102:93:30C:R7
 
 # PRINCIPAL DISPLAY PANEL - 0.2 mg/hr
 
@@ -65,20 +65,20 @@ Do not refrigerate.
 
 Instructions for Application
 
-- 1.Open pouch at tear mark.
-- 2.Carefully remove the patch.
-- 3.Bend both sides of clear peelable liner.
-- 4.Peel off one strip only of the clear liner.
-  Avoid touching the exposed sticky side of the patch.
-- 5.Apply sticky side of the patch to the chosen skin site.
-- 6.Remove remaining strip and press patch firmly in place with the palm of the hand.
-- 7.APPLY IMMEDIATELY UPON REMOVAL FROM POUCH.
+1. 1.Open pouch at tear mark.
+2. 2.Carefully remove the patch.
+3. 3.Bend both sides of clear peelable liner.
+4. 4.Peel off one strip only of the clear liner.
+   Avoid touching the exposed sticky side of the patch.
+5. 5.Apply sticky side of the patch to the chosen skin site.
+6. 6.Remove remaining strip and press patch firmly in place with the palm of the hand.
+7. 7.APPLY IMMEDIATELY UPON REMOVAL FROM POUCH.
 
 Mylan.com
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-M9104-93-30C:R8
+M9104:93:30C:R9
 
 # PRINCIPAL DISPLAY PANEL - 0.4 mg/hr
 
@@ -106,20 +106,20 @@ Do not refrigerate.
 
 Instructions for Application
 
-- 1.Open pouch at tear mark.
-- 2.Carefully remove the patch.
-- 3.Bend both sides of clear peelable liner.
-- 4.Peel off one strip only of the clear liner.
-  Avoid touching the exposed sticky side of the patch.
-- 5.Apply sticky side of the patch to the chosen skin site.
-- 6.Remove remaining strip and press patch firmly in place with the palm of the hand.
-- 7.APPLY IMMEDIATELY UPON REMOVAL FROM POUCH.
+1. 1.Open pouch at tear mark.
+2. 2.Carefully remove the patch.
+3. 3.Bend both sides of clear peelable liner.
+4. 4.Peel off one strip only of the clear liner.
+   Avoid touching the exposed sticky side of the patch.
+5. 5.Apply sticky side of the patch to the chosen skin site.
+6. 6.Remove remaining strip and press patch firmly in place with the palm of the hand.
+7. 7.APPLY IMMEDIATELY UPON REMOVAL FROM POUCH.
 
 Mylan.com
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-M9112-93-30C:R8
+M9112:93:30C:R9
 
 # PRINCIPAL DISPLAY PANEL - 0.6 mg/hr
 
@@ -147,17 +147,17 @@ Do not refrigerate.
 
 Instructions for Application
 
-- 1.Open pouch at tear mark.
-- 2.Carefully remove the patch.
-- 3.Bend both sides of clear peelable liner.
-- 4.Peel off one strip only of the clear liner.
-  Avoid touching the exposed sticky side of the patch.
-- 5.Apply sticky side of the patch to the chosen skin site.
-- 6.Remove remaining strip and press patch firmly in place with the palm of the hand.
-- 7.APPLY IMMEDIATELY UPON REMOVAL FROM POUCH.
+1. 1.Open pouch at tear mark.
+2. 2.Carefully remove the patch.
+3. 3.Bend both sides of clear peelable liner.
+4. 4.Peel off one strip only of the clear liner.
+   Avoid touching the exposed sticky side of the patch.
+5. 5.Apply sticky side of the patch to the chosen skin site.
+6. 6.Remove remaining strip and press patch firmly in place with the palm of the hand.
+7. 7.APPLY IMMEDIATELY UPON REMOVAL FROM POUCH.
 
 Mylan.com
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-M9116-93-30C:R8
+M9116:93:30C:R9

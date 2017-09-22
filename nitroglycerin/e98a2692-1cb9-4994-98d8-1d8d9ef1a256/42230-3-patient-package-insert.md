@@ -24,7 +24,7 @@ How to apply the
 
 Nitroglycerin Transdermal Patch
 
-- 1.Each Nitroglycerin Transdermal Patch is individually sealed in a protective package.
+- •Each Nitroglycerin Transdermal Patch is individually sealed in a protective package.
   Open the pouch at the tear mark.
   Carefully remove the patch.
   The patch is printed with the wording ‘Nitroglycerin’ and the amount of nitroglycerin delivered each hour.
@@ -34,23 +34,24 @@ Nitroglycerin Transdermal Patch
   The slit should now be facing toward you.
   Rotate the patch as necessary to place the slit in an up and down position.
 
-- 2.Bend both sides of the clear peelable liner away from you at the slit.
+- •Bend both sides of the clear peelable liner away from you at the slit.
 
-- 3.Slowly peel off only one of the strips of the clear liner.
+- •Slowly peel off only one of the strips of the clear liner.
   Do not touch the exposed sticky side of the patch.
 
-- 4.Using the remaining strip as a “handle”, apply the exposed sticky side of the patch to the skin.
+- •Using the remaining strip as a “handle”, apply the exposed sticky side of the patch to the skin.
   Press the sticky side on the chosen skin site and smooth down.
 
-- 5.Fold back the unattached side of the patch.
+- •Fold back the unattached side of the patch.
   Grasp the remaining strip and remove it while applying the remainder of the patch to the skin.
   Press the patch on the skin and smooth down with the palm of your hand.
   Once the patch is in place, do not test the adhesion by pulling on it.
 
 - When Nitroglycerin Transdermal Patch is applied to your body, the nitroglycerin contained in the patch begins to flow from the adhesive surface through your skin at a uniform rate.
-- 6.After applying the patch, wash hands to remove any drug.
-- 7.At the time recommended by your doctor, remove and discard the patch.
-- 8.Place a new patch on a different skin site (following steps 1 through 6) according to your doctor’s instructions.
+
+- •After applying the patch, wash hands to remove any drug.
+- •At the time recommended by your doctor, remove and discard the patch.
+- •Place a new patch on a different skin site (following steps 1 through 6) according to your doctor’s instructions.
 
 Please note:
 
