@@ -14,4 +14,4 @@ Marketed by: Lilly USA, LLC Indianapolis, IN 46285, USA
 Copyright © 1996, 2017, Eli Lilly and Company.
 All rights reserved.
 
-GEM-0002-USPI-20170315
+GEM-0003-USPI-20170913
