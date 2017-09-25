@@ -5,7 +5,7 @@ Lotensin HCT has been evaluated for safety in over 2500 patients with hypertensi
 The reported side effects were generally mild and transient, and there was no relationship between side effects and age, sex, race, or duration of therapy.
 Discontinuation of therapy due to side effects was required in approximately 7% of U.S. patients treated with Lotensin HCT and in 4% of patients treated with placebo.
 
-The most common reasons for discontinuation of therapy with Lotensin HCT in U.S. studies were cough (1.0%; see PRECAUTIONS), "dizziness" (1.0%), headache (0.6%), and fatigue (0.6%).
+The most common reasons for discontinuation of therapy with Lotensin HCT in U.S. studies were cough (1.0%; see PRECAUTIONS), “dizziness” (1.0%), headache (0.6%), and fatigue (0.6%).
 
 The side effects considered possibly or probably related to study drug that occurred in U.S. placebo-controlled trials in more than 1% of patients treated with Lotensin HCT are shown in the table below.
 
@@ -13,7 +13,7 @@ The side effects considered possibly or probably related to study drug that occu
 | --- | --- | --- | --- | --- |
 |  | LOTENSIN HCT N = 665 |  | Placebo N = 235 |  |
 |  | N | % | N | % |
-| "Dizziness" | 41 | 6.3 | 8 | 3.4 |
+| “Dizziness” | 41 | 6.3 | 8 | 3.4 |
 | Fatigue | 34 | 5.2 | 6 | 2.6 |
 | Postural Dizziness | 23 | 3.5 | 1 | 0.4 |
 | Headache | 20 | 3.1 | 10 | 4.3 |
@@ -52,9 +52,9 @@ Respiratory: Upper respiratory infection*, epistaxis, bronchitis, rhinitis*, sin
 
 Other: Conjunctivitis, arthritis, urinary tract infection, alopecia, and urinary frequency*.
 
-## Post-Marketing Experience
+Post-Marketing Experience
 
-The following adverse reactions have been identified during post-approval use of either benazapril or hydrochlorothiazide.
+The following adverse reactions have been identified during post-approval use of either benazepril or hydrochlorothiazide.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to estimate their frequency or establish a causal relationship to drug exposure:
 
 Benazepril Stevens-Johnson syndrome, pancreatitis, hemolytic anemia, pemphigus, and thrombocytopenia, eosinophilic pneumonitis
@@ -77,7 +77,11 @@ Skin: Erythema multiforme including Stevens-Johnson syndrome, and exfoliative de
 
 ## Clinical Laboratory Test Findings
 
-Serum Electrolytes: See PRECAUTIONS.
+Serum Electrolytes: see PRECAUTIONS.
 
 Creatinine and BUN: Minor reversible increases in serum creatinine and BUN were observed in patients with essential hypertension treated with Lotensin HCT.
 Such increases occurred most frequently in patients with renal artery stenosis (see PRECAUTIONS).
+
+To report SUSPECTED ADVERSE REACTIONS, contact Validus Pharmaceuticals LLC at
+
+1-866-982-5438 (1-866-9VALIDUS) or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
