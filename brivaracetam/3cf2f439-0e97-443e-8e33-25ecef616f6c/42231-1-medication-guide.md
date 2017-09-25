@@ -32,7 +32,7 @@ Do not stop BRIVIACT without first talking to a healthcare provider.
 
 What is BRIVIACT?
 
-- BRIVIACT is a prescription medicine that is used with other medicines to treat partial-onset seizures in people 16 years of age and older with epilepsy.
+- BRIVIACT is a prescription medicine that can be used to treat partial-onset seizures in people 16 years of age and older with epilepsy.
   BRIVIACT may be given in the vein (intravenously) when BRIVIACT is not able to be taken by mouth.
 
 It is not known if BRIVIACT is safe and effective in children younger than 16 years of age.
@@ -150,10 +150,10 @@ Injection inactive ingredients: sodium acetate (trihydrate), glacial acetic acid
 
 Manufactured for UCB, Inc., Smyrna, GA 30080.
 
-BRIVIACT® is a registered trademark of the UCB Group of Companies. ©2016, UCB, Inc., Smyrna, GA 30080.
+BRIVIACT® is a registered trademark of the UCB Group of Companies. ©2017, UCB, Inc., Smyrna, GA 30080.
 All rights reserved.
 
 For more information, go to www.BRIVIACT.com or call 1-844-599-2273.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Issued: 03/2016
+Issued: 9/2017

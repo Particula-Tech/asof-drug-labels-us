@@ -22,6 +22,8 @@ At a dose 4 times the maximum recommended dose, BRIVIACT did not prolong the QT 
 BRIVIACT tablets, oral solution, and injection can be used interchangeably.
 Brivaracetam exhibits linear and time-independent pharmacokinetics at the approved doses.
 
+The pharmacokinetics of brivaracetam are similar when used as monotherapy or as adjunctive therapy for the treatment of partial-onset seizures.
+
 Absorption
 
 Brivaracetam is highly permeable and is rapidly and almost completely absorbed after oral administration.

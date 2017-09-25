@@ -2,41 +2,55 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C
+Pregnancy Exposure Registry
 
-There are no adequate and well-controlled studies in pregnant women.
-In animal studies, brivaracetam produced evidence of developmental toxicity at plasma exposures greater than clinical exposures.
-BRIVIACT should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to antiepileptic drugs (AEDs), such as BRIVIACT, during pregnancy.
+Encourage patients who are taking BRIVIACT during pregnancy to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry by calling the toll free number 1-888-233-2334 or visiting http://www.aedpregnancyregistry.org/.
+
+Risk Summary
+
+There are no adequate data on the developmental risks associated with use of BRIVIACT in pregnant women.
+In animal studies, brivaracetam produced evidence of developmental toxicity (increased embryofetal mortality and decreased fetal body weights in rabbits; decreased growth, delayed sexual maturation, and long-term neurobehavioral changes in rat offspring) at maternal plasma exposures greater than clinical exposures [see Data].
+
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+The background risk of major birth defects and miscarriage for the indicated population is unknown.
+
+Data
+
+Animal Data
 
 Oral administration of brivaracetam (0, 150, 300, or 600 mg/kg/day) to pregnant rats during the period of organogenesis did not produce any significant maternal or embryofetal toxicity.
-The highest dose tested was associated with maternal plasma exposures (area under the brivaracetam plasma concentration versus time curve, an exposure metric, AUC) approximately 30 times exposures in humans at the maximum recommended dose (MRD) of 200 mg/day.
+The highest dose tested was associated with maternal plasma exposures (AUC) approximately 30 times exposures in humans at the maximum recommended dose (MRD) of 200 mg/day.
+
 Oral administration of brivaracetam (0, 30, 60, 120, or 240 mg/kg/day) to pregnant rabbits during the period of organogenesis resulted in embryofetal mortality and decreased fetal body weights at the highest dose tested, which was also maternally toxic.
 The highest no-effect dose (120 mg/kg/day) was associated with maternal plasma exposures approximately 4 times human exposures at the MRD.
 
 When brivaracetam (0, 150, 300, or 600 mg/kg/day) was orally administered to rats throughout pregnancy and lactation, decreased growth, delayed sexual maturation (female), and long-term neurobehavioral changes were observed in the offspring at the highest dose.
 The highest no-effect dose (300 mg/kg/day) was associated with maternal plasma exposures approximately 7 times human exposures at the MRD.
 
-Pregnancy Registry
+Brivaracetam was shown to readily cross the placenta in pregnant rats after a single oral (5 mg/kg) dose of 14C-brivaracetam.
+From 1 hour post dose, radioactivity levels in fetuses, amniotic fluid, and placenta were similar to those measured in maternal blood.
 
-Physicians are advised to recommend that pregnant patients taking BRIVIACT enroll in the North American Antiepileptic Drug Pregnancy Registry.
-This can be done by calling the toll free number 1-888-233-2334, and must be done by patients themselves.
-Information on the registry can also be found at the website http://www.aedpregnancyregistry.org/.
+## 8.2 Lactation
 
-## 8.2 Labor and Delivery
+Risk Summary
 
-The effect of BRIVIACT on labor and delivery in humans is unknown.
+No data are available regarding the presence of brivaracetam in human milk, the effects on the breastfed infant, or the effects of the drug on milk production.
+Studies in lactating rats have shown excretion of brivaracetam or metabolites in milk [see Data].
 
-## 8.3 Nursing Mothers
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for BRIVIACT and any potential adverse effects on the breastfed infant from BRIVIACT or from the underlying maternal condition.
 
-It is not known whether BRIVIACT is excreted in human milk.
-Studies in rats have shown excretion of brivaracetam in milk.
-Because many drugs are excreted into human milk, a decision should be made whether to discontinue nursing or to discontinue BRIVIACT, taking into account the importance of the drug to the mother.
+Data
+
+Animal Data
+
+Following a single oral (5 mg/kg) dose of 14C-brivaracetam to lactating rats, radioactivity was secreted in milk and rapidly reached levels similar to those in plasma.
 
 ## 8.4 Pediatric Use
 
 Safety and effectiveness of BRIVIACT in adolescents 16 years of age have been established [see Clinical Studies (14)].
 
-Safety and effectiveness of BRIVIACT in patients less than 16 years of age have not been established.
+Safety and effectiveness in pediatric patients below the age of 16 years have not been established.
 
 The potential adverse effects of brivaracetam on postnatal growth and development were investigated in juvenile rats and dogs.
 Oral administration (0, 150, 300, or 600 mg/kg/day) to rats during the neonatal and juvenile periods of development resulted in increased mortality, decreased body weight gain, delayed male sexual maturation, and adverse neurobehavioral effects at the highest dose tested and decreased brain size and weight at all doses.

@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-The effectiveness of BRIVIACT as adjunctive therapy in partial-onset seizures with or without secondary generalization was established in 3 fixed-dose, randomized, double-blind, placebo-controlled, multicenter studies (Studies 1, 2, and 3), which included 1550 patients.
+The effectiveness of BRIVIACT in partial-onset seizures with or without secondary generalization was established in 3 fixed-dose, randomized, double-blind, placebo-controlled, multicenter studies (Studies 1, 2, and 3), which included 1550 patients.
 Patients enrolled had partial-onset seizures that were not adequately controlled with 1 to 2 concomitant antiepileptic drugs (AEDs).
 In each of these studies, 72% to 86% of patients were taking 2 or more concomitant AEDs with or without vagal nerve stimulation.
 The median baseline seizure frequency across the 3 studies was 9 seizures per 28 days.

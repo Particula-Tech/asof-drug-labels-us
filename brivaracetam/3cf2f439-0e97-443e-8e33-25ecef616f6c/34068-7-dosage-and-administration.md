@@ -2,6 +2,8 @@
 
 ## 2.1 Dosage Information
 
+Monotherapy or Adjunctive Therapy
+
 When initiating treatment, gradual dose escalation is not required.
 The recommended starting dosage is 50 mg twice daily (100 mg per day).
 Based on individual patient tolerability and therapeutic response, the dosage may be adjusted down to 25 mg twice daily (50 mg per day) or up to 100 mg twice daily (200 mg per day) [see Clinical Studies (14)].
