@@ -11,7 +11,7 @@ Mutagenicity Abacavir induced chromosomal aberrations both in the presence and a
 Abacavir was mutagenic in the absence of metabolic activation, although it was not mutagenic in the presence of metabolic activation in an L5178Y mouse lymphoma assay.
 Abacavir was clastogenic in males and not clastogenic in females in an in vivo mouse bone marrow micronucleus assay.
 Abacavir was not mutagenic in bacterial mutagenicity assays in the presence and absence of metabolic activation.
-Impairment of Fertility Abacavir did not affect male or female fertility in rats at a dose associated with exposures approximately 8 times higher than the exposure in humans at the dose of 600 mg.
+Impairment of Fertility Abacavir did not affect male or female fertility in rats at a dose associated with exposures (AUC) approximately 3.3 times (male) or 4.1 times (female) those in humans at the clinically recommended dose.
 
 ## 13.2 Animal Toxicologyand/or Pharmacology
 

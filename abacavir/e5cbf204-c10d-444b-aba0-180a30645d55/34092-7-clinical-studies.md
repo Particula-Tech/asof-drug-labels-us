@@ -2,7 +2,7 @@
 
 ## 14.1 Adults trials
 
-Therapy-naive Adults CNA30024 was a multicenter, double-blind, controlled trial in which 649 HIV-1-infected, therapy-naive adults were randomized and received either abacavir (300 mg twice daily), lamivudine (150 mg twice daily), and efavirenz (600 mg once daily); or zidovudine (300 mg twice daily), lamivudine (150 mg twice daily), and efavirenz (600 mg once daily).
+Therapy-Naive Adults CNA30024 was a multicenter, double-blind, controlled trial in which 649 HIV-1-infected, therapy-naive adults were randomized and received either abacavir (300 mg twice daily), lamivudine (150 mg twice daily), and efavirenz (600 mg once daily); or zidovudine (300 mg twice daily), lamivudine (150 mg twice daily), and efavirenz (600 mg once daily).
 The duration of double-blind treatment was at least 48 weeks.
 Trial participants were male (81%), white (51%), black (21%), and Hispanic (26%).
 The median age was 35 years; the median pretreatment CD4+ cell count was 264 cells per mm3, and median plasma HIV-1 RNA was 4.79 log10 copies per mL.
@@ -17,7 +17,7 @@ Outcomes of Randomized Treatment through Week 48 (CNA30024)
 | Discontinued due to adverse reactions | 14% | 16% |
 | Discontinued due to other reasonsc | 10% | 11% |
 
-a Subjects achieved and maintained confirmed HIV-1 RNA less than or equal to 50 copies per mL (less than 400 copies per mL) through Week 48 (Roche AMPLICOR Ultrasensitive HIV-1 MONITOR® standard test 1 PCR). b Includes viral rebound, insufficient viral response according to the investigator, and failure to achieve confirmed less than or equal to 50 copies per mL by Week 48. c Includes consent withdrawn, lost to follow up, protocol violations, those with missing data, clinical progression, and other.
+a Subjects achieved and maintained confirmed HIV-1 RNA less than or equal to 50 copies per mL (less than 400 copies per mL) through Week 48 (Roche AMPLICOR Ultrasensitive HIV-1 MONITOR® standard test 1.0 PCR). b Includes viral rebound, insufficient viral response according to the investigator, and failure to achieve confirmed less than or equal to 50 copies per mL by Week 48. c Includes consent withdrawn, lost to follow up, protocol violations, those with missing data, clinical progression, and other.
 After 48 weeks of therapy, the median CD4+ cell count increases from baseline were 209 cells per mm3 in the group receiving abacavir and 155 cells per mm3 in the zidovudine group.
 Through Week 48, 8 subjects (2%) in the group receiving abacavir (5 CDC classification C events and 3 deaths) and 5 subjects (2%) on the zidovudine arm (3 CDC classification C events and 2 deaths) experienced clinical disease progression.
 CNA3005 was a multicenter, double-blind, controlled trial in which 562 HIV-1-infected, therapy-naive adults were randomized to receive either abacavir (300 mg twice daily) plus COMBIVIR® (lamivudine 150 mg/zidovudine 300 mg twice daily), or indinavir (800 mg 3 times a day) plus COMBIVIR twice daily.
@@ -47,11 +47,11 @@ Proportions of Responders through Week 48 by Screening Plasma HIV-1 RNA Levels (
 
 In subjects with baseline viral load greater than 100,000 copies per mL, percentages of subjects with HIV-1 RNA levels less than 50 copies per mL were 31% in the group receiving abacavir versus 45% in the group receiving indinavir.
 Through Week 48, an overall mean increase in CD4+ cell count of about 150 cells per mm3 was observed in both treatment arms.
-Through Week 48, 9 subjects (3.4%) in the group receiving abacavir sulfate (6 CDC classification C events and 3 deaths) and 3 subjects (1.5%) in the group receiving indinavir (2 CDC classification C events and 1 death) experienced clinical disease progression.
+Through Week 48, 9 subjects (3.4%) in the group receiving abacavir (6 CDC classification C events and 3 deaths) and 3 subjects (1.5%) in the group receiving indinavir (2 CDC classification C events and 1 death) experienced clinical disease progression.
 CNA30021 was an international, multicenter, double-blind, controlled trial in which 770 HIV-1-infected, therapy-naive adults were randomized and received either abacavir 600 mg once daily or abacavir 300 mg twice daily, both in combination with lamivudine 300 mg once daily and efavirenz 600 mg once daily.
 The double-blind treatment duration was at least 48 weeks.
 Trial participants had a mean age of 37 years; were male (81%), white (54%), black (27%), and American Hispanic (15%).
-The median baseline CD4+ cell count was 262 cells per mm3 (range 21 to 918 cells per mm3) and the median baseline plasma HIV-1 RNA was 4.89 log10 copies per mL (range: 2.60 to 6.99 log10 copies per mL).
+The median baseline CD4+ cell count was 262 cells per mm3 (range: 21 to 918 cells per mm3) and the median baseline plasma HIV-1 RNA was 4.89 log10 copies per mL (range: 2.60 to 6.99 log10 copies per mL).
 The outcomes of randomized treatment are provided in Table 10.
 Table 10.
 Outcomes of Randomized Treatment through Week 48 (CNA30021)
@@ -63,21 +63,21 @@ Outcomes of Randomized Treatment through Week 48 (CNA30021)
 | Discontinued due to adverse reactions | 13% | 11% |
 | Discontinued due to other reasonsc | 11% | 13% |
 
-a Subjects achieved and maintained confirmed HIV-1 RNA less than 50 copies per mL (less than 400 copies per mL) through Week 48 (Roche AMPLICOR Ultrasensitive HIV-1 MONITOR standard test version 1). b Includes viral rebound, failure to achieve confirmed less than 50 copies per mL (less than 400 copies per mL) by Week 48, and insufficient viral load response. c Includes consent withdrawn, lost to follow up, protocol violations, clinical progression, and other.
+a Subjects achieved and maintained confirmed HIV-1 RNA less than 50 copies per mL (less than 400 copies per mL) through Week 48 (Roche AMPLICOR Ultrasensitive HIV-1 MONITOR standard test version 1.0). b Includes viral rebound, failure to achieve confirmed less than 50 copies per mL (less than 400 copies per mL) by Week 48, and insufficient viral load response. c Includes consent withdrawn, lost to follow up, protocol violations, clinical progression, and other.
 After 48 weeks of therapy, the median CD4+ cell count increases from baseline were 188 cells per mm3 in the group receiving abacavir 600 mg once daily and 200 cells per mm3 in the group receiving abacavir 300 mg twice daily.
 Through Week 48, 6 subjects (2%) in the group receiving abacavir 600 mg once daily (4 CDC classification C events and 2 deaths) and 10 subjects (3%) in the group receiving abacavir 300 mg twice daily (7 CDC classification C events and 3 deaths) experienced clinical disease progression.
 None of the deaths were attributed to trial medications.
 
 ## 14.2 Pediatric Trials
 
-Therapy-experienced Pediatric Subjects CNA3006 was a randomized, double-blind trial comparing abacavir 8 mg per kg twice daily plus lamivudine 4 mg per kg twice daily plus zidovudine 180 mg per m2 twice daily versus lamivudine 4 mg per kg twice daily plus zidovudine 180 mg per m2 twice daily.
+Therapy-Experienced Pediatric Subjects CNA3006 was a randomized, double-blind trial comparing abacavir 8 mg per kg twice daily plus lamivudine 4 mg per kg twice daily plus zidovudine 180 mg per m2 twice daily versus lamivudine 4 mg per kg twice daily plus zidovudine 180 mg per m2 twice daily.
 Two hundred and five therapy-experienced pediatric subjects were enrolled: female (56%), white (17%), black (50%), Hispanic (30%), median age of 5.4 years, baseline CD4+ cell percent greater than 15% (median = 27%), and median baseline plasma HIV-1 RNA of 4.6 log10 copies per mL.
 Eighty percent and 55% of subjects had prior therapy with zidovudine and lamivudine, respectively, most often in combination.
 The median duration of prior nucleoside analogue therapy was 2 years.
 At 16 weeks the proportion of subjects responding based on plasma HIV-1 RNA less than or equal to 400 copies per mL was significantly higher in subjects receiving abacavir plus lamivudine plus zidovudine compared with subjects receiving lamivudine plus zidovudine, 13% versus 2%, respectively.
-Median plasma HIV-1 RNA changes from baseline were -0.53 log10 copies/mL in the group receiving abacavir plus lamivudine plus zidovudine compared with -0.21 log10 copies per mL in the group receiving lamivudine plus zidovudine.
+Median plasma HIV-1 RNA changes from baseline were -0.53 log10 copies per mL in the group receiving abacavir plus lamivudine plus zidovudine compared with -0.21 log10 copies per mL in the group receiving lamivudine plus zidovudine.
 Median CD4+ cell count increases from baseline were 69 cells per mm3 in the group receiving abacavir plus lamivudine plus zidovudine and 9 cells per mm3 in the group receiving lamivudine plus zidovudine.
-Once-daily Dosing ARROW (COL105677) was a 5-year randomized, multicenter trial which evaluated multiple aspects of clinical management of HIV-1 infection in pediatric subjects.
+Once-Daily Dosing ARROW (COL105677) was a 5-year randomized, multicenter trial which evaluated multiple aspects of clinical management of HIV-1 infection in pediatric subjects.
 HIV-1–infected, treatment-naïve subjects aged 3 months to 17 years were enrolled and treated with a first-line regimen containing abacavir and lamivudine, dosed twice daily according to World Health Organization recommendations.
 After a minimum of 36 weeks of treatment, subjects were given the option to participate in Randomization 3 of the ARROW trial, comparing the safety and efficacy of once-daily dosing with twice-daily dosing of abacavir and lamivudine, in combination with a third antiretroviral drug, for an additional 96 weeks.
 Of the 1,206 original ARROW subjects, 669 participated in Randomization 3.
@@ -87,7 +87,7 @@ The differences between virologic responses in the two treatment arms were compa
 Table 11.
 Virologic Outcome of Randomized Treatment at Week 96a (ARROW Randomization 3)
 
-| Outcome | Abacavir plus Lamivudine Twice-daily Dosing (n = 333) | Abacavir plus Lamivudine Once-daily Dosing (n = 336) |
+| Outcome | Abacavir plus Lamivudine Twice-Daily Dosing (n = 333) | Abacavir plus Lamivudine Once-daily Dosing (n = 336) |
 | --- | --- | --- |
 | HIV-1 RNA <80 copies/mLb | 70% | 67% |
 | HIV-1 RNA ≥80 copies/mLc | 28% | 31% |
