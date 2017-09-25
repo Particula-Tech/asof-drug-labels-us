@@ -2,9 +2,7 @@ PRINCIPAL DISPLAY PANEL
 
 NDC 49702-211-20
 
-NDC 49702-211-20
-
-RETROVIR®
+RETROVIR
 
 (zidovudine)
 
@@ -37,8 +35,12 @@ Research Triangle Park, NC 27709
 
 Made in Canada
 
-10000000108120 Rev.
-7/12
+Trademark owned or licensed by ViiV Healthcare.
+
+Rev.
+6/17
+
+10000000146571
 
 PRINCIPAL DISPLAY PANEL
 
