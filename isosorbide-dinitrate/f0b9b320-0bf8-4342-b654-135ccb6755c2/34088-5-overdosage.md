@@ -1,6 +1,6 @@
 # OVERDOSAGE
 
-Hemodynamic Effects
+## Hemodynamic Effects
 
 The ill effects of isosorbide dinitrate overdose are generally the results of isosorbide dinitrate’s capacity to induce vasodilatation, venous pooling, reduced cardiac output, and hypotension.
 These hemodynamic changes may have protean manifestations, including increased intracranial pressure, with any or all of persistent throbbing headache, confusion, and moderate fever; vertigo; palpitations; visual disturbances; nausea and vomiting (possibly with colic and even bloody diarrhea); syncope (especially in the upright posture); air hunger and dyspnea, later followed by reduced ventilatory effort; diaphoresis, with the skin either flushed or cold and clammy; heart block and bradycardia; paralysis; coma; seizures; and death.
@@ -22,10 +22,10 @@ The use of epinephrine or other arterial vasoconstrictors in this setting is lik
 In patients with renal disease or congestive heart failure, therapy resulting in central volume expansion is not without hazard.
 Treatment of isosorbide dinitrate overdose in these patients may be subtle and difficult, and invasive monitoring may be required.
 
-Methemoglobinemia
+## Methemoglobinemia
 
 Nitrate ions liberated during metabolism of isosorbide dinitrate can oxidize hemoglobin into methemoglobin.
-Even in patients totally without cytochrome b5 reductase activity, however, and even assuming that the nitrate moieties of isosorbide dinitrate are quantitatively applied to oxidation of hemoglobin, about 1 mg/kg of isosorbide dinitrate should be required before any of these patients manifests clinically significant (≥10%) methemoglobinemia.
+Even in patients totally without cytochrome b5 reductase activity, however and even assuming that the nitrate moieties of isosorbide dinitrate are quantitatively applied to oxidation of hemoglobin, about 1 mg/kg of isosorbide dinitrate should be required before any of these patients manifests clinically significant (≥10%) methemoglobinemia.
 In patients with normal reductase function, significant production of methemoglobin should require even larger doses of isosorbide dinitrate.
 In one study in which 36 patients received 2 to 4 weeks of continuous nitroglycerin therapy at 3.1 to 4.4 mg/hr (equivalent, in total administered dose of nitrate ions, to 4.8 to 6.9 mg of bioavailable isosorbide dinitrate per hour), the average methemoglobin level measured was 0.2%; this was comparable to that observed in parallel patients who received placebo.
 

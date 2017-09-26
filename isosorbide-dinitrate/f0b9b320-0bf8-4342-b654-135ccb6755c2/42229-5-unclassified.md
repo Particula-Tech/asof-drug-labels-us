@@ -1,2 +1,4 @@
-ISOSORBIDE DINITRATE TABLETS, USP Rev.
-07/16 Rx Only
+Rev.
+07/16
+
+Rx Only
