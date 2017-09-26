@@ -9,7 +9,7 @@ Methylphenidate HCl is a central nervous system (CNS) stimulant.
 Methylphenidate is a racemic mixture comprised of the d- and l-isomers.
 The d-isomer is more pharmacologically active than the l-isomer.
 The mode of therapeutic action in ADHD is not known.
-Methylphenidate blocks the reuptake of norepinephrine and dopamine into the presynaptic neuron and increase the release of these monoamines into the extraneuronal space.
+Methylphenidate blocks the reuptake of norepinephrine and dopamine into the presynaptic neuron and increases the release of these monoamines into the extraneuronal space.
 
 ## 12.3 Pharmacokinetics
 
