@@ -40,8 +40,10 @@ Made in Canada
 
 EPIVIR is a registered trademark
 
-1. A126815 Rev.
-   7/14
+- Rev.
+  5/17
+
+1. 10000000146471
 
 PRINCIPAL DISPLAY PANEL
 
@@ -85,8 +87,10 @@ Made in Canada
 
 EPIVIR is a registered trademark
 
-1. A126816 Rev.
-   7/14
+Rev.
+5/17
+
+10000000146549
 
 PRINCIPAL DISPLAY PANEL
 
