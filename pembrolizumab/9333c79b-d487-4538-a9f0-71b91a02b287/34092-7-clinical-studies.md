@@ -76,7 +76,7 @@ Table 15: Efficacy Results in KEYNOTE-002
 | Progression, n (%) | 105 (58%) | 107 (59%) | 134 (75%) |
 | Death, n (%) | 24 (13%) | 19 (10%) | 21 (12%) |
 | Median in months (95% CI) | 2.9 (2.8, 3.8) | 2.9 (2.8, 4.7) | 2.7 (2.5, 2.8) |
-| P Value (stratified log-rank) | <0.001 | <0.001 | --- |
+| p-Value (stratified log-rank) | <0.001 | <0.001 | --- |
 | Hazard ratioHazard ratio (KEYTRUDA compared to chemotherapy) based on the stratified Cox proportional hazard model (95% CI) | 0.57 (0.45, 0.73) | 0.50 (0.39, 0.64) | --- |
 | Overall SurvivalWith additional follow-up of 18 months after the PFS analysis |  |  |  |
 | Deaths (%) | 123 (68%) | 117 (65%) | 128 (72%) |
@@ -139,7 +139,7 @@ Table 16: Efficacy Results in KEYNOTE-024
 | Number (%) of patients with event | 44 (29%) | 64 (42%) |
 | Median in months (95% CI) | NR (NR, NR) | NR (9.4, NR) |
 | Hazard ratio (95% CI) | 0.60 (0.41, 0.89) |  |
-| p-Value (stratified log-rank) | 0.005P-value is compared with 0.0118 of the allocated alpha for this interim analysis. |  |
+| p-Value (stratified log-rank) | 0.005p-Value is compared with 0.0118 of the allocated alpha for this interim analysis. |  |
 | Objective Response Rate |  |  |
 | ORR (95% CI) | 45% (37, 53) | 28% (21, 36) |
 | Complete response rate | 4% | 1% |
@@ -186,21 +186,21 @@ Table 17: Efficacy Results in Cohort G1 of KEYNOTE-021
 | Endpoint | KEYTRUDA Pemetrexed Carboplatin n=60 | Pemetrexed Carboplatin n=63 |
 | --- | --- | --- |
 | Overall Response Rate |  |  |
-| Overall Response Rate | 55% | 29% |
+| Overall response rate | 55% | 29% |
 | (95% CI) | (42, 68) | (18, 41) |
-| Complete Response | 0% | 0% |
-| Partial Response | 55% | 29% |
-| p-valueBased on Miettinen-Nurminen method stratified by PD-L1 status (TPS <1% vs. TPS ≥1%). | 0.0032 |  |
+| Complete response | 0% | 0% |
+| Partial response | 55% | 29% |
+| p-ValueBased on Miettinen-Nurminen method stratified by PD-L1 status (TPS <1% vs. TPS ≥1%). | 0.0032 |  |
 | Duration of Response |  |  |
 | % with duration ≥ 6 monthsBased on Kaplan-Meier estimation | 93% | 81% |
 | Range (months) | 1.4+ to 13.0+ | 1.4+ to 15.2+ |
 | PFS |  |  |
 | Number of events (%) | 23 (38%) | 33 (52%) |
-| Progressive Disease | 15 (25%) | 27 (43%) |
+| Progressive disease | 15 (25%) | 27 (43%) |
 | Death | 8 (13%) | 6 (10%) |
 | Median in months (95% CI) | 13.0 (8.3, NE) | 8.9 (4.4, 10.3) |
 | Hazard ratioBased on the Cox proportional hazard model stratified by PD-L1 status (TPS <1% vs. TPS ≥1%). (95% CI) | 0.53 (0.31, 0.91) |  |
-| p-valueBased on the log-rank test stratified by PD-L1 status (TPS <1% vs. TPS ≥1%). | 0.0205 |  |
+| p-ValueBased on the log-rank test stratified by PD-L1 status (TPS <1% vs. TPS ≥1%). | 0.0205 |  |
 | NE = not estimable |  |  |
 
 Exploratory analyses for ORR were conducted in subgroups defined by the stratification variable, PD-L1 tumor expression (TPS <1% and TPS ≥1%).
@@ -285,7 +285,7 @@ Among the 174 patients, the baseline characteristics were median age 60 years (3
 
 The ORR was 16% (95% CI: 11, 22) with a complete response rate of 5%.
 The median follow-up time was 8.9 months.
-Among the 28 responding patients, the median duration of response had not been reached (range 2.4+ to 27.7+ months), with 23 patients having responses of 6 months or longer.
+Among the 28 responding patients, the median duration of response had not been reached (range: 2.4+ to 27.7+ months), with 23 patients having responses of 6 months or longer.
 The ORR and duration of response were similar irrespective of dosage regimen (10 mg/kg every 2 weeks or 200 mg every 3 weeks) or HPV status.
 
 ## 14.4 Classical Hodgkin Lymphoma
@@ -297,7 +297,7 @@ Disease assessment was performed every 12 weeks.
 The major efficacy outcome measures (ORR, CRR, and duration of response) were assessed by blinded independent central review according to the 2007 revised International Working Group (IWG) criteria.
 
 Among the 210 patients, the baseline characteristics were: median age of 35 years (range: 18 to 76), 9% age 65 or older; 54% male; 88% White; 49% had an ECOG performance status (PS) of 0 and 51% had an ECOG PS of 1.
-The median number of prior lines of therapy administered for the treatment of cHL was 4 (range 1 to 12).
+The median number of prior lines of therapy administered for the treatment of cHL was 4 (range: 1 to 12).
 Fifty-eight percent were refractory to the last prior therapy, including 35% with primary refractory disease and 14% whose disease was chemo-refractory to all prior regimens.
 Sixty-one percent of patients had undergone prior auto-HSCT, 83% had received prior brentuximab vedotin and 36% of patients had prior radiation therapy.
 
@@ -309,9 +309,9 @@ Table 20: Efficacy Results in KEYNOTE-087
 | --- | --- |
 | Endpoint | N=210 |
 | Overall Response Rate |  |
-| ORR %, (95% CI) | 69% (62, 75) |
-| Complete Remission | 22% |
-| Partial Remission | 47% |
+| ORR (95% CI) | 69% (62, 75) |
+| Complete remission | 22% |
+| Partial remission | 47% |
 | Response Duration |  |
 | Median in months (range) | 11.1 (0.0+, 11.1) Based on patients (n=145) with a response by independent review |
 
@@ -344,8 +344,8 @@ Table 21: Efficacy Results in KEYNOTE-052
 | --- | --- |
 | Objective Response Rate |  |
 | ORR (95% CI) | 29% (24, 34) |
-| Complete Response Rate | 7% |
-| Partial Response Rate | 22% |
+| Complete response rate | 7% |
+| Partial response rate | 22% |
 | Duration of Response |  |
 | Median in months (range) | NR (1.4+, 17.8+) |
 | + Denotes ongoing |  |
@@ -393,8 +393,8 @@ Table 22: Efficacy Results in KEYNOTE-045
 | p-Value (stratified log-rank) | 0.833 |  |
 | Objective Response Rate |  |  |
 | ORR (95% CI) | 21% (16, 27) | 11% (8, 16) |
-| Complete Response Rate | 7% | 3% |
-| Partial Response Rate | 14% | 8% |
+| Complete response rate | 7% | 3% |
+| Partial response rate | 14% | 8% |
 | p-Value (Miettinen-Nurminen) | 0.002 |  |
 | Median duration of response in months (range) | NR (1.6+, 15.6+) | 4.3 (1.4+, 15.4+) |
 | + Denotes ongoing |  |  |
@@ -442,8 +442,8 @@ Table 24: Efficacy Results for Patients with MSI-H/dMMR Cancer
 | --- | --- |
 | Objective response rate |  |
 | ORR (95% CI) | 39.6% (31.7, 47.9) |
-| Complete response rate | 7.4 |
-| Partial response rate | 32.2 |
+| Complete response rate | 7.4% |
+| Partial response rate | 32.2% |
 | Response duration |  |
 | Median in months (range) | NR (1.6+, 22.7+) |
 | % with duration ≥6 months | 78% |
@@ -471,3 +471,28 @@ Table 25: Response by Tumor Type
 | Small cell lung cancer | 1 | CR |  | 8.9+ |
 | Renal cell cancer | 1 | PD |  |  |
 | CR = complete response PR = partial response SD = stable disease PD = progressive disease NE = not evaluable |  |  |  |  |
+
+## 14.7 Gastric Cancer
+
+The efficacy of KEYTRUDA was investigated in Study KEYNOTE-059 (NCT02335411), a multicenter, non-randomized, open-label multi-cohort trial that enrolled 259 patients with gastric or gastroesophageal junction (GEJ) adenocarcinoma who progressed on at least 2 prior systemic treatments for advanced disease.
+Previous treatment must have included a fluoropyrimidine and platinum doublet.
+HER2/neu positive patients must have previously received treatment with approved HER2/neu-targeted therapy.
+Patients with active autoimmune disease or a medical condition that required immunosuppression or with clinical evidence of ascites by physical exam were ineligible.
+
+Patients received KEYTRUDA 200 mg every 3 weeks until unacceptable toxicity or disease progression that was symptomatic, rapidly progressive, required urgent intervention, occurred with a decline in performance status, or was confirmed at least 4 weeks later with repeat imaging.
+Patients without disease progression were treated for up to 24 months.
+Assessment of tumor status was performed every 6 to 9 weeks.
+The major efficacy outcome measures were ORR according to RECIST 1.1, as assessed by blinded independent central review, and duration of response.
+
+Among the 259 patients, 55% (n = 143) had tumors that expressed PD-L1 with a combined positive score (CPS) of greater than or equal to 1 and microsatellite stable (MSS) tumor status or undetermined MSI or MMR status.
+PD-L1 status was determined using the PD-L1 IHC 22C3 pharmDx Kit.
+The baseline characteristics of these 143 patients were: median age 64 years (47% age 65 or older); 77% male; 82% White, 11% Asian; and ECOG PS of 0 (43%) and 1 (57%).
+Eighty-five percent had M1 disease and 7% had M0 disease.
+Fifty-one percent had two and 49% had three or more prior lines of therapy in the recurrent or metastatic setting.
+
+For the 143 patients, the ORR was 13.3% (95% CI: 8.2, 20.0); 1.4% had a complete response and 11.9% had a partial response.
+Among the 19 responding patients, the duration of response ranged from 2.8+ to 19.4+ months, with 11 patients (58%) having responses of 6 months or longer and 5 patients (26%) having responses of 12 months or longer.
+
+Among the 259 patients enrolled in KEYNOTE-059, 7 (3%) had tumors that were determined to be MSI-H.
+An objective response was observed in 4 patients, including 1 complete response.
+The duration of response ranged from 5.3+ to 14.1+ months.

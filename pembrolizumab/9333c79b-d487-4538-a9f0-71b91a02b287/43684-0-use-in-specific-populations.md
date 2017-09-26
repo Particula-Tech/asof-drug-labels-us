@@ -41,7 +41,7 @@ Advise females of reproductive potential to use effective contraception during t
 
 There is limited experience with KEYTRUDA in pediatric patients.
 In a study, 40 pediatric patients (16 children ages 2 years to less than 12 years and 24 adolescents ages 12 years to 18 years) with advanced melanoma, lymphoma, or PD-L1 positive advanced, relapsed, or refractory solid tumors were administered KEYTRUDA 2 mg/kg every 3 weeks.
-Patients received KEYTRUDA for a median of 3 doses (range 1-17 doses), with 34 patients (85%) receiving KEYTRUDA for 2 doses or more.
+Patients received KEYTRUDA for a median of 3 doses (range: 1-17 doses), with 34 patients (85%) receiving KEYTRUDA for 2 doses or more.
 The concentrations of pembrolizumab in pediatric patients were comparable to those observed in adult patients at the same dose regimen of 2 mg/kg every 3 weeks.
 
 The safety profile in these pediatric patients was similar to that seen in adults treated with pembrolizumab; toxicities that occurred at a higher rate (≥15% difference) in pediatric patients when compared to adults under 65 years of age were fatigue (45%), vomiting (38%), abdominal pain (28%), hypertransaminasemia (28%) and hyponatremia (18%).

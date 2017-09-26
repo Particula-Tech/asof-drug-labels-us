@@ -49,3 +49,10 @@ This indication is approved under accelerated approval based on tumor response r
 Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trials.
 
 Limitation of Use: The safety and effectiveness of KEYTRUDA in pediatric patients with MSI-H central nervous system cancers have not been established.
+
+## 1.7 Gastric Cancer
+
+KEYTRUDA is indicated for the treatment of patients with recurrent locally advanced or metastatic gastric or gastroesophageal junction adenocarcinoma whose tumors express PD-L1 [Combined Positive Score (CPS) ≥1] as determined by an FDA-approved test, with disease progression on or after two or more prior lines of therapy including fluoropyrimidine- and platinum-containing chemotherapy and if appropriate, HER2/neu-targeted therapy [see Clinical Studies (14.7)].
+
+This indication is approved under accelerated approval based on tumor response rate and durability of response.
+Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trials.
