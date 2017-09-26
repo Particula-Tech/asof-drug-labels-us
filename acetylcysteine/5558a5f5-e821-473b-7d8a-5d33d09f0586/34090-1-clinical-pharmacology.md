@@ -3,7 +3,7 @@
 The viscosity of pulmonary mucous secretions depends on the concentrations of mucoprotein and to a lesser extent deoxyribonucleic acid (DNA).
 The latter increases with increasing purulence owing to the presence of cellular debris.
 The mucolytic action of acetylcysteine is related to the sulfhydryl group in the molecule.
-This group probably “opens” disulfide linkages in mucous thereby lowering the viscosity.
+This group probably "opens" disulfide linkages in mucous thereby lowering the viscosity.
 The mucolytic activity of acetylcysteine is unaltered by the presence of DNA, and increases with increasing pH.
 Significant mucolysis occurs between pH 7 and 9.
 

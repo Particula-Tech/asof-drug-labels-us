@@ -17,7 +17,7 @@ When nebulized into a face mask, mouth piece or tracheostomy, 1 to 10 mL of the 
 
 Nebulization — Tent, Croupette
 
-In special circumstances it may be necessary to nebulize into a tent or Croupette, and this method of use must be individualized to take into account the available equipment and the patient’s particular needs.
+In special circumstances it may be necessary to nebulize into a tent or Croupette, and this method of use must be individualized to take into account the available equipment and the patient's particular needs.
 This form of administration requires very large volumes of the solution, occasionally as much as 300 mL during a single treatment period.
 
 If a tent or Croupette must be used, the recommended dose is the volume of acetylcysteine (using 10% or 20%) that will maintain a very heavy mist in the tent or Croupette for the desired period.
