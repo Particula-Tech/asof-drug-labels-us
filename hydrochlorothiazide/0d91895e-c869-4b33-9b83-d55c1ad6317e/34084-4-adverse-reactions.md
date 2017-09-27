@@ -113,18 +113,11 @@ The following adverse reactions have been identified during post-approval use of
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 Decisions to include these reactions in labeling are typically based on one or more of the following factors: (1) seriousness of the reaction, (2) frequency of reporting, or (3) strength of causal connection to AVALIDE.
 
-The following have been very rarely reported: urticaria, angioedema (involving swelling of the face, lips, pharynx, and/or tongue), hepatitis and tinnitus.
-Hyperkalemia has been rarely reported.
+The following have been very rarely reported with irbesartan and hydrochlorothiazide monotherapy: urticaria, jaundice, hepatitis, thrombocytopenia, and impaired renal function including renal failure.
 
-Very rare cases of jaundice have been reported with irbesartan.
+The following have been reported with irbesartan monotherapy: tinnitus, hyperkalemia, angioedema (involving swelling of the face, lips, pharynx, and/or tongue), and increased CPK.
 
-Cases of thrombocytopenia have been reported with irbesartan.
-
-Impaired renal function, including cases of renal failure in patients at risk, has been reported with irbesartan and AVALIDE.
-
-Cases of increased CPK have been reported in patients receiving angiotensin II receptor blockers.
-
-Cases of acute myopia and secondary angle-closure glaucoma have been reported with hydrochlorothiazide.
+The following have been reported with hydrochlorothiazide monotherapy: secondary acute angle-closure glaucoma and/or acute myopia.
 
 ## 6.3 Laboratory Abnormalities
 
