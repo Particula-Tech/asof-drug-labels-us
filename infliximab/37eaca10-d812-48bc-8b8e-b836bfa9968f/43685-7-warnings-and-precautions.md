@@ -13,7 +13,7 @@ The risks and benefits of treatment should be considered prior to initiating the
 
 - with chronic or recurrent infection;
 - who have been exposed to tuberculosis;
-- with a history of an opportunistic infection
+- with a history of an opportunistic infection;
 - who have resided or traveled in areas of endemic tuberculosis or endemic mycoses, such as histoplasmosis, coccidioidomycosis, or blastomycosis; or
 - with underlying conditions that may predispose them to infection.
 
@@ -48,7 +48,7 @@ When feasible, the decision to administer empiric antifungal therapy in these pa
 
 ## 5.2 Malignancies
 
-Malignancies, some fatal, have been reported among children, adolescents and young adults who received treatment with TNF blocking agents (initiation of therapy ≤ 18 years of age), including infliximab products.
+Malignancies, some fatal, have been reported among children, adolescents and young adults who received treatment with TNF blocking agents (initiation of therapy ≤18 years of age), including infliximab products.
 Approximately half of these cases were lymphomas, including Hodgkin's and non-Hodgkin's lymphoma.
 The other cases represented a variety of malignancies, including rare malignancies that are usually associated with immunosuppression and malignancies that are not usually observed in children and adolescents.
 The malignancies occurred after a median of 30 months (range 1 to 84 months) after the first dose of TNF blocker therapy.
@@ -65,16 +65,16 @@ Patients with Crohn's disease, rheumatoid arthritis or plaque psoriasis, particu
 Cases of acute and chronic leukemia have been reported with postmarketing TNF blocker use in rheumatoid arthritis and other indications.
 Even in the absence of TNF blocker therapy, patients with rheumatoid arthritis may be at a higher risk (approximately 2-fold) than the general population for the development of leukemia.
 
-Hepatosplenic T-cell lymphoma (HSTCL)
+Hepatosplenic T-cell Lymphoma (HSTCL)
 
 Postmarketing cases of hepatosplenic T-cell lymphoma (HSTCL), a rare type of T-cell lymphoma, have been reported in patients treated with TNF blockers, including infliximab products.
 These cases have had a very aggressive disease course and have been fatal.
-Almost all patients had received treatment with the immunosuppressants azathioprine or 6-mercaptopurine concomitantly with a TNF blocker at or prior to diagnosis.
+Almost all patients had received treatment with the immunosuppressants azathioprine or 6-mercaptopurine concomitantly with a TNF-blocker at or prior to diagnosis.
 The majority of reported cases have occurred in patients with Crohn's disease or ulcerative colitis and most were in adolescent and young adult males.
 It is uncertain whether the occurrence of HSTCL is related to TNF blockers or TNF blockers in combination with these other immunosuppressants.
 When treating patients, consideration of whether to use INFLECTRA alone or in combination with other immunosuppressants such as azathioprine or 6-mercaptopurine should take into account a possibility that there is a higher risk of HSTCL with combination therapy versus an observed increased risk of immunogenicity and hypersensitivity reactions with infliximab product monotherapy from the clinical trial data from studies with infliximab [see Warnings and Precautions (5.7) and Adverse Reactions (6.1)].
 
-Skin cancer
+Skin Cancer
 
 Melanoma and Merkel cell carcinoma have been reported in patients treated with TNF blocker therapy, including infliximab products [see Adverse Reactions (6.2)].
 Periodic skin examination is recommended for all patients, particularly those with risk factors for skin cancer.
@@ -127,7 +127,7 @@ The results of a randomized study evaluating the use of infliximab in patients w
 There have been post-marketing reports of worsening heart failure, with and without identifiable precipitating factors, in patients taking infliximab.
 There have also been rare postmarketing reports of new onset heart failure, including heart failure in patients without known pre-existing cardiovascular disease.
 Some of these patients have been under 50 years of age.
-If a decision is made to administer INFLECTRA to patients with heart failure, they should be closely monitored during therapy, and INFLECTRA should be discontinued if new or worsening symptoms of heart failure appear [see Contraindications (4)and Adverse Reactions (6.1)].
+If a decision is made to administer INFLECTRA to patients with heart failure, they should be closely monitored during therapy, and INFLECTRA should be discontinued if new or worsening symptoms of heart failure appear [see Contraindications (4) and Adverse Reactions (6.1)].
 
 ## 5.6 Hematologic Reactions
 
@@ -158,7 +158,7 @@ Prescribers should exercise caution in considering the use of INFLECTRA in patie
 
 ## 5.9 Use with Anakinra
 
-Serious infections and neutropenia were seen in clinical studies with concurrent use of anakinra and another TNFα-blocking agent, etanercept, with no added clinical benefit compared to etanercept alone.
+Serious infections and neutropenia were seen in clinical studies with concurrent use of anakinra and another TNFα blocking agent, etanercept, with no added clinical benefit compared to etanercept alone.
 Because of the nature of the adverse reactions seen with the combination of etanercept and anakinra therapy, similar toxicities may also result from the combination of anakinra and other TNFα blocking agents.
 Therefore, the combination of INFLECTRA and anakinra is not recommended.
 

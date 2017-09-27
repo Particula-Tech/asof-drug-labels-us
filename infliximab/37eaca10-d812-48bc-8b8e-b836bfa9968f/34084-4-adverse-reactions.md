@@ -7,10 +7,10 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 Adverse Reactions in Adults
 
 The data described herein reflect exposure to infliximab in 4779 adult patients (1304 patients with rheumatoid arthritis, 1106 patients with Crohn's disease, 202 with ankylosing spondylitis, 293 with psoriatic arthritis, 484 with ulcerative colitis, 1373 with plaque psoriasis, and 17 patients with other conditions), including 2625 patients exposed beyond 30 weeks and 374 exposed beyond 1 year.
-[For information on adverse reactions in pediatric patients see Adverse Reactions (6.1).]
-One of the most-common reasons for discontinuation of treatment was infusion-related reactions (e.g., dyspnea, flushing, headache and rash).
+[For information on adverse reactions in pediatric patients see Adverse Reactions (6.1)].
+One of the most common reasons for discontinuation of treatment was infusion-related reactions (e.g., dyspnea, flushing, headache and rash).
 
-Infusion-related reactions
+Infusion-related Reactions
 
 An infusion reaction was defined in clinical trials as any adverse event occurring during an infusion or within 1 hour after an infusion.
 In phase 3 clinical studies, 18% of patients treated with infliximab experienced an infusion reaction compared to 5% of placebo-treated patients.
@@ -24,12 +24,12 @@ Infliximab infusions beyond the initial infusion were not associated with a high
 The infusion reaction rates remained stable in psoriasis through 1 year in psoriasis Study I. In psoriasis Study II, the rates were variable over time and somewhat higher following the final infusion than after the initial infusion.
 Across the 3 psoriasis studies, the percent of total infusions resulting in infusion reactions (i.e., an adverse event occurring within 1 hour) was 7% in the 3 mg/kg group, 4% in the 5 mg/kg group, and 1% in the placebo group.
 
-Patients who became positive for antibodies to infliximab were more likely (approximately two- to three-fold) to have an infusion reaction than were those who were negative.
+Patients who became positive for antibodies to infliximab were more likely (approximately two to three-fold) to have an infusion reaction than were those who were negative.
 Use of concomitant immunosuppressant agents appeared to reduce the frequency of both antibodies to infliximab and infusion reactions [see Adverse Reactions (6.1) and Drug Interactions (7.4)].
 
 Infusion reactions following readministration
 
-In a clinical trial of patients with moderate to severe psoriasis designed to assess the efficacy of long-term maintenance therapy versus re-treatment with an induction regimen of infliximab following disease flare, 4% (8/219) of patients in the re-treatment therapy arm experienced serious infusion reactions versus < 1% (1/222) in the maintenance therapy arm.
+In a clinical trial of patients with moderate to severe psoriasis designed to assess the efficacy of long-term maintenance therapy versus re-treatment with an induction regimen of infliximab following disease flare, 4% (8/219) of patients in the re-treatment therapy arm experienced serious infusion reactions versus <1% (1/222) in the maintenance therapy arm.
 Patients enrolled in this trial did not receive any concomitant immunosuppressant therapy.
 In this study, the majority of serious infusion reactions occurred during the second infusion at Week 2.
 Symptoms included, but were not limited to, dyspnea, urticaria, facial edema, and hypotension.
@@ -71,8 +71,8 @@ Malignancies
 In controlled trials, more patients treated with infliximab developed malignancies than placebo-treated patients [see Warnings and Precautions (5.2)].
 
 In a randomized controlled clinical trial exploring the use of infliximab in patients with moderate to severe COPD who were either current smokers or ex-smokers, 157 patients were treated with infliximab at doses similar to those used in rheumatoid arthritis and Crohn's disease.
-Of these patients treated with infliximab, 9 developed a malignancy, including 1 lymphoma, for a rate of 7.67 cases per 100 patient-years of follow-up (median duration of follow-up 0.8 years; 95% confidence interval [CI] 3.51 - 14.56).
-There was 1 reported malignancy among 77 control patients for a rate of 1.63 cases per 100 patient-years of follow-up (median duration of follow-up 0.8 years; 95% CI 0.04 - 9.10).
+Of these patients treated with infliximab, 9 developed a malignancy, including 1 lymphoma, for a rate of 7.67 cases per 100 patient-years of follow-up (median duration of follow-up 0.8 years; 95% confidence interval [CI] 3.51 – 14.56).
+There was 1 reported malignancy among 77 control patients for a rate of 1.63 cases per 100 patient-years of follow-up (median duration of follow-up 0.8 years; 95% CI 0.04 – 9.10).
 The majority of the malignancies developed in the lung or head and neck.
 
 Patients with Heart Failure
@@ -88,7 +88,7 @@ Immunogenicity
 Treatment with infliximab products can be associated with the development of antibodies to infliximab.
 An enzyme immunoassay (EIA) method was originally used to measure anti-infliximab antibodies in clinical studies of REMICADE.
 The EIA method is subject to interference by serum infliximab, possibly resulting in an underestimation of the rate of patient antibody formation.
-A separate drug-tolerant electrochemiluminescence immunoassay (ECLIA) method for detecting antibodies to infliximab was subsequently developed and validated.
+A separate, drug-tolerant electrochemiluminescence immunoassay (ECLIA) method for detecting antibodies to infliximab was subsequently developed and validated.
 This method is 60-fold more sensitive than the original EIA.
 With the ECLIA method, all clinical samples can be classified as either positive or negative for antibodies to infliximab without the need for the inconclusive category.
 
@@ -97,11 +97,11 @@ A higher incidence of antibodies to infliximab was observed in Crohn's disease p
 In a study of psoriatic arthritis in which 191 patients received 5 mg/kg with or without MTX, antibodies to infliximab occurred in 15% of patients.
 The majority of antibody-positive patients had low titers.
 Patients who were antibody-positive were more likely to have higher rates of clearance, reduced efficacy and to experience an infusion reaction than were patients who were antibody negative.
-Antibody development was lower among rheumatoid arthritis and Crohn's disease patients receiving immunosuppressant therapies such as 6-mercaptopurine/azathioprine (6-MP/AZA) or MTX.
+Antibody development was lower among rheumatoid arthritis and Crohn's disease patients receiving immunosuppressant therapies such as 6-mercaptopurine /azathioprine (6-MP/AZA) or MTX.
 
 In the psoriasis Study II, which included both the 5 mg/kg and 3 mg/kg doses, antibodies were observed in 36% of patients treated with 5 mg/kg every 8 weeks for 1 year, and in 51% of patients treated with 3 mg/kg every 8 weeks for 1 year.
 In the psoriasis Study III, which also included both the 5 mg/kg and 3 mg/kg doses, antibodies were observed in 20% of patients treated with 5 mg/kg induction (weeks 0, 2 and 6), and in 27% of patients treated with 3 mg/kg induction.
-Despite the increase in antibody formation, the infusion reaction rates in Studies I and II in patients treated with 5 mg/kg induction followed by every 8 week maintenance for 1 year and in Study III in patients treated with 5 mg/kg induction (14.1% - 23.0%) and serious infusion reaction rates (<1%) were similar to those observed in other study populations.
+Despite the increase in antibody formation, the infusion reaction rates in Studies I and II in patients treated with 5 mg/kg induction followed by every 8 week maintenance for 1 year and in Study III in patients treated with 5 mg/kg induction (14.1% – 23.0%) and serious infusion reaction rates (<1%) were similar to those observed in other study populations.
 The clinical significance of apparent increased immunogenicity on efficacy and infusion reactions in psoriasis patients as compared to patients with other diseases treated with infliximab products over the long term is not known.
 
 The data reflect the percentage of patients whose test results were positive for antibodies to infliximab in an ELISA assay, and they are highly dependent on the sensitivity and specificity of the assay.
@@ -122,18 +122,12 @@ Table 1 Proportion of patients with elevated ALT in clinical trials
 | --- | --- | --- | --- | --- | --- | --- |
 |  | Proportion of patients with elevated ALT |  |  |  |  |  |
 |  | >1 to 3 × ULN |  | ≥3 × ULN |  | ≥5 × ULN |  |
-| Rheumatoid arthritisa | 24% | 34% | 3% | 4% | <1% | <1% |
-| Crohn's diseaseb | 34% | 39% | 4% | 5% | 0% | 2% |
-| Ulcerative colitisc | 12% | 17% | 1% | 2% | <1% | <1% |
-| Ankylosing spondylitisd | 15% | 51% | 0% | 10% | 0% | 4% |
-| Psoriatic arthritise | 16% | 50% | 0% | 7% | 0% | 2% |
-| Plaque psoriasis f | 24% | 49% | <1% | 8% | 0% | 3% |
-
-a Placebo patients received methotrexate while patients treated with infliximab received both infliximab and methotrexate.
-Median follow-up was 58 weeks. b Placebo patients in the 2 Phase 3 trials in Crohn's disease received an initial dose of 5 mg/kg infliximab at study start and were on placebo in the maintenance phase.
-Patients who were randomized to the placebo maintenance group and then later crossed over to infliximab are included in the infliximab group in ALT analysis.
-Median follow-up was 54 weeks. c Median follow-up was 30 weeks.
-Specifically, the median duration of follow-up was 30 weeks for placebo and 31 weeks for infliximab. d Median follow-up was 24 weeks for the placebo group and 102 weeks for infliximab group. e Median follow-up was 39 weeks for infliximab group and 18 weeks for the placebo group. f ALT values are obtained in 2 Phase 3 psoriasis studies with median follow-up of 50 weeks for infliximab and 16 weeks for placebo.
+| Rheumatoid arthritisPlacebo patients received methotrexate while patients treated with infliximab received both infliximab and methotrexate. Median follow-up was 58 weeks. | 24% | 34% | 3% | 4% | <1% | <1% |
+| Crohn's diseasePlacebo patients in the 2 Phase 3 trials in Crohn's disease received an initial dose of 5 mg/kg infliximab at study start and were on placebo in the maintenance phase. Patients who were randomized to the placebo maintenance group and then later crossed over to infliximab are included in the infliximab group in ALT analysis. Median follow-up was 54 weeks. | 34% | 39% | 4% | 5% | 0% | 2% |
+| Ulcerative colitisMedian follow-up was 30 weeks. Specifically, the median duration of follow-up was 30 weeks for placebo and 31 weeks for infliximab. | 12% | 17% | 1% | 2% | <1% | <1% |
+| Ankylosing spondylitisMedian follow-up was 24 weeks for the placebo group and 102 weeks for infliximab group. | 15% | 51% | 0% | 10% | 0% | 4% |
+| Psoriatic arthritisMedian follow-up was 39 weeks for infliximab group and 18 weeks for the placebo group. | 16% | 50% | 0% | 7% | 0% | 2% |
+| Plaque psoriasisALT values are obtained in 2 Phase 3 psoriasis studies with median follow-up of 50 weeks for infliximab and 16 weeks for placebo. | 24% | 49% | <1% | 8% | 0% | 3% |
 
 Adverse Reactions in Psoriasis Studies
 
@@ -181,7 +175,7 @@ Table 2 Adverse reactions occurring in 5% or more of patients receiving 4 or mor
 | Skin and appendages disorders |  |  |
 | Rash | 5% | 10% |
 | Pruritus | 2% | 7% |
-| Body as a whole-general disorders |  |  |
+| Body as a whole-general disorder |  |  |
 | Fatigue | 7% | 9% |
 | Pain | 7% | 8% |
 | Resistance mechanism disorders |  |  |
@@ -199,37 +193,22 @@ Table 2 Adverse reactions occurring in 5% or more of patients receiving 4 or mor
 The most common serious adverse reactions observed in clinical trials of infliximab were infections [see Adverse Reactions (6.1)].
 Other serious, medically relevant adverse reactions ≥0.2% or clinically significant adverse reactions by body system were as follows:
 
-Body as a whole: allergic reaction, edema
-
-Blood: pancytopenia
-
-Cardiovascular: hypotension
-
-Gastrointestinal: constipation, intestinal obstruction
-
-Central and Peripheral Nervous: dizziness
-
-Heart Rate and Rhythm: bradycardia
-
-Liver and Biliary: hepatitis
-
-Metabolic and Nutritional: dehydration
-
-Platelet, Bleeding and Clotting: thrombocytopenia
-
-Neoplasms: lymphoma
-
-Red Blood Cell: anemia, hemolytic anemia
-
-Resistance Mechanism: cellulitis, sepsis, serum sickness, sarcoidosis
-
-Respiratory: lower respiratory tract infection (including pneumonia), pleurisy, pulmonary edema
-
-Skin and Appendages: increased sweating
-
-Vascular (Extracardiac): thrombophlebitis
-
-White Cell and Reticuloendothelial: leukopenia, lymphadenopathy
+- Body as a whole: allergic reaction, edema
+- Blood: pancytopenia
+- Cardiovascular: hypotension
+- Gastrointestinal: constipation, intestinal obstruction
+- Central and Peripheral Nervous: dizziness
+- Heart Rate and Rhythm: bradycardia
+- Liver and Biliary: hepatitis
+- Metabolic and Nutritional: dehydration
+- Platelet, Bleeding and Clotting: thrombocytopenia
+- Neoplasms: lymphoma
+- Red Blood Cell: anemia, hemolytic anemia
+- Resistance Mechanism: cellulitis, sepsis, serum sickness, sarcoidosis
+- Respiratory: lower respiratory tract infection (including pneumonia), pleurisy, pulmonary edema
+- Skin and Appendages: increased sweating
+- Vascular (Extracardiac): thrombophlebitis
+- White Cell and Reticuloendothelial: leukopenia, lymphadenopathy
 
 Adverse Reactions in Pediatric Patients
 
@@ -258,9 +237,9 @@ Elevations of ALT up to 3 times the upper limit of normal (ULN) were seen in 18%
 Adverse reactions have been reported during post approval use of infliximab products in adult and pediatric patients.
 Because these events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-The following adverse reactions, some with fatal outcome, have been reported during postapproval use of infliximab products: neutropenia [see Warnings and Precautions (5.6)], interstitial lung disease (including pulmonary fibrosis/interstitial pneumonitis and very rare rapidly progressive disease), idiopathic thrombocytopenic purpura, thrombotic thrombocytopenic purpura, pericardial effusion, systemic and cutaneous vasculitis, erythema multiforme, Stevens-Johnson Syndrome, toxic epidermal necrolysis, peripheral demyelinating disorders (such as Guillain-Barré syndrome, chronic inflammatory demyelinating polyneuropathy, and multifocal motor neuropathy), new onset and worsening psoriasis (all subtypes including pustular, primarily palmoplantar), transverse myelitis, and neuropathies (additional neurologic reactions have also been observed) [see Warnings and Precautions (5.8)], acute liver failure, jaundice, hepatitis, and cholestasis [see Warnings and Precautions (5.4)], serious infections [see Warnings and Precautions (5.1)] and malignancies, including melanoma and Merkel cell carcinoma [see Warnings and Precautions (5.2)] and vaccine breakthrough infection including bovine tuberculosis (disseminated BCG infection) following vaccination in an infant exposed in utero to infliximab [see Warnings and precautions (5.14)].
+The following adverse reactions, some with fatal outcome, have been reported during postapproval use of infliximab products: neutropenia [see Warnings and Precautions (5.6)], interstitial lung disease (including pulmonary fibrosis/interstitial pneumonitis and very rare rapidly progressive disease), idiopathic thrombocytopenic purpura, thrombotic thrombocytopenic purpura, pericardial effusion, systemic and cutaneous vasculitis, erythema multiforme, Stevens-Johnson Syndrome, toxic epidermal necrolysis, peripheral demyelinating disorders (such as Guillain-Barré syndrome, chronic inflammatory demyelinating polyneuropathy, and multifocal motor neuropathy), new onset and worsening psoriasis (all subtypes including pustular, primarily palmoplantar), transverse myelitis, and neuropathies (additional neurologic reactions have also been observed) [see Warnings and Precautions (5.8)], acute liver failure, jaundice, hepatitis, and cholestasis [see Warnings and Precautions (5.4)], serious infections [see Warnings and Precautions (5.1)] and malignancies, including melanoma and Merkel cell carcinoma [see Warnings and Precautions (5.2)] and vaccine breakthrough infection including bovine tuberculosis (disseminated BCG infection) following vaccination in an infant exposed in utero to infliximab [see Warnings and Precautions (5.14)].
 
-Infusion-related reactions
+Infusion-related Reactions
 
 In postmarketing experience, cases of anaphylactic reactions, including laryngeal/pharyngeal edema and severe bronchospasm, and seizure have been associated with administration of infliximab products.
 

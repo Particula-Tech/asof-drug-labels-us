@@ -1,4 +1,4 @@
-# WARNING: SERIOUS INFECTIONS AND MALIGNANCY
+# WARNING: SERIOUS INFECTIONS and MALIGNANCY
 
 SERIOUS INFECTIONS
 
@@ -11,8 +11,7 @@ Reported infections include:
 
 - Active tuberculosis, including reactivation of latent tuberculosis.
   Patients with tuberculosis have frequently presented with disseminated or extrapulmonary disease.
-  Patients should be tested for latent tuberculosis before INFLECTRA use and during therapy.
-  1,2 Treatment for latent infection should be initiated prior to INFLECTRA use.
+  Patients should be tested for latent tuberculosis before INFLECTRA use and during therapy.1,2 Treatment for latent infection should be initiated prior to INFLECTRA use.
 - Invasive fungal infections, including histoplasmosis, coccidioidomycosis, candidiasis, aspergillosis, blastomycosis, and pneumocystosis.
   Patients with histoplasmosis or other invasive fungal infections may present with disseminated, rather than localized, disease.
   Antigen and antibody testing for histoplasmosis may be negative in some patients with active infection.

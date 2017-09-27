@@ -11,7 +11,7 @@ In the single-dose trial of 108 patients, 16% (4/25) of placebo patients achieve
 Additionally, 4% (1/25) of placebo patients and 48% (13/27) of patients receiving 5 mg/kg of infliximab achieved clinical remission (CDAI<150) at Week 4.
 
 In a multidose trial (ACCENT I [Study Crohn's I]), 545 patients received 5 mg/kg at Week 0 and were then randomized to one of three treatment groups; the placebo maintenance group received placebo at Weeks 2 and 6, and then every 8 weeks; the 5 mg/kg maintenance group received 5 mg/kg at Weeks 2 and 6, and then every 8 weeks; and the 10 mg/kg maintenance group received 5 mg/kg at Weeks 2 and 6, and then 10 mg/kg every 8 weeks.
-Patients in responses at Week 2 were randomized and analyzed separately from those not in response at Week 2.
+Patients in response at Week 2 were randomized and analyzed separately from those not in responses at Week 2.
 Corticosteroid taper was permitted after Week 6.
 
 At Week 2, 57% (311/545) of patients were in clinical response.
@@ -23,17 +23,14 @@ Table 3 Clinical remission and steroid withdrawal
 
 |  |  | 5 mg/kg | 10 mg/kg |
 | --- | --- | --- | --- |
-|  | Single 5-mg/kg Dosea | Three-Dose Inductionb |  |
-|  | Placebo Maintenance | Infliximab Maintenance q 8 wks |  |
-| Week 30 | 25/102 | 41/104 | 48/105 |
-| Clinical remission | 25% | 39% | 46% |
-| P-valuec |  | 0.022 | 0.001 |
+|  | Single 5-mg/kg DoseInfliximab at Week 0 | Three-Dose InductionInfliximab 5 mg/kg administered at Weeks 0, 2 and 6 |  |
+|  | Placebo Maintenance | Infliximab Maintenance q 8wks |  |
+| Week 30 |  |  |  |
+| Clinical remission | 25/102 25% | 41/104 39% | 48/105 46% |
+| P-valueP-values represent pairwise comparisons to placebo |  | 0.022 | 0.001 |
 | Week 54 |  |  |  |
-| Patients in remission able to discontinue corticosteroid used | 6/54 | 14/56 | 18/53 |
-|  | 11% | 25% | 34% |
-| P-valuec |  | 0.059 | 0.005 |
-
-a Infliximab at Week 0 b Infliximab 5 mg/kg administered at Weeks 0, 2 and 6 c P-values represent pairwise comparisons to placebo d Of those receiving corticosteroids at baseline
+| Patients in remission able to discontinue corticosteroid useOf those receiving corticosteroids at baseline | 6/54 11% | 14/56 25% | 18/53 34% |
+| P-value |  | 0.059 | 0.005 |
 
 Patients in infliximab maintenance groups (5 mg/kg and 10 mg/kg) had a longer time to loss of response than patients in the placebo maintenance group (Figure 1).
 At Weeks 30 and 54, significant improvement from baseline was seen among the 5 mg/kg and 10 mg/kg groups treated with infliximab compared to the placebo group in the disease-specific inflammatory bowel disease questionnaire (IBDQ), particularly the bowel and systemic components, and in the physical component summary score of the general health-related quality of life questionnaire SF-36.
@@ -104,26 +101,23 @@ At Week 54, the proportion of patients able to discontinue corticosteroids while
 
 Table 4 Response and remission in study peds Crohn's
 
-|  | Treatment Group | Treatment Group |
+|  | Every 8 Week Treatment Group | Every 12 Week Treatment Group |
 | --- | --- | --- |
 |  | 5 mg/kg Infliximab |  |
-|  | Every 8 Week | Every 12 Week |
 | Patients randomized | 52 | 51 |
-| Clinical Responsea |  |  |
-| Week 30 | 73%d | 47% |
-| Week 54 | 64%d | 33% |
-| Clinical Remissionb |  |  |
-| Week 30 | 60%c | 35% |
-| Week 54 | 56%d | 24% |
-
-a Defined as a decrease from baseline in the PCDAI score of ≥15 points and total score of ≤30 points. b Defined as a PCDAI score of ≤10 points. c P-value <0.05 d P-value <0.01
+| Clinical ResponseDefined as a decrease from baseline in the PCDAI score of ≥15 points and total score of ≤30 points. |  |  |
+| Week 30 | 73%P-value <0.01 | 47% |
+| Week 54 | 64% | 33% |
+| Clinical RemissionDefined as a PCDAI score of ≤10 points. |  |  |
+| Week 30 | 60%P-value <0.05 | 35% |
+| Week 54 | 56% | 24% |
 
 ## 14.3 Ulcerative Colitis
 
-The safety and efficacy of infliximab were assessed in 2 randomized, double-blind, placebo-controlled clinical studies in 728 patients with moderately to severely active ulcerative colitis (UC) (Mayo score 5 6 to 12 [of possible range 0 to 12], Endoscopy subscore ≥2) with an inadequate response to conventional oral therapies (Studies UC I and UC II).
+The safety and efficacy of infliximab were assessed in 2 randomized, double-blind, placebo-controlled clinical studies in 728 patients with moderately to severely active ulcerative colitis (UC) (Mayo score5 6 to 12 [of possible range 0 to 12], Endoscopy subscore ≥2) with an inadequate response to conventional oral therapies (Studies UC I and UC II).
 Concomitant treatment with stable doses of aminosalicylates, corticosteroids and/or immunomodulatory agents was permitted.
 Corticosteroid taper was permitted after Week 8.
-Patients were randomized at week 0 to receive either placebo, 5 mg/kg infliximab or 10 mg/kg infliximab at Weeks 0, 2, 6, and every 8 weeks thereafter through Week 46 in Study UC I, and at Weeks 0, 2, 6, and every 8 weeks thereafter through Week 22 in Study UC II.
+Patients were randomized at Week 0 to receive either placebo, 5 mg/kg infliximab or 10 mg/kg infliximab at Weeks 0, 2, 6, and every 8 weeks thereafter through Week 46 in Study UC I, and at Weeks 0, 2, 6, and every 8 weeks thereafter through Week 22 in Study UC II.
 In Study UC II, patients were allowed to continue blinded therapy to Week 46 at the investigator's discretion.
 
 Patients in Study UC I had failed to respond or were intolerant to oral corticosteroids, 6-MP, or AZA.
@@ -148,39 +142,33 @@ Table 5 Response, remission and mucosal healing in ulcerative colitis studies
 | --- | --- | --- | --- | --- | --- | --- |
 |  | Study UC I |  |  | Study UC II |  |  |
 | Patients randomized | 121 | 121 | 122 | 123 | 121 | 120 |
-| Clinical Responsea,d |  |  |  |  |  |  |
-| Week 8 | 37% | 69%* | 62%* | 29% | 65%* | 69%* |
-| Week 30 | 30% | 52%* | 51%** | 26% | 47%* | 60%* |
-| Week 54 | 20% | 45%* | 44%* | NA | NA | NA |
-| Sustained Responsed |  |  |  |  |  |  |
-| (Clinical response at both Week 8 and 30) | 23% | 49%* | 46%* | 15% | 41%* | 53%* |
-| (Clinical response at Weeks 8, 30, and 54) | 14% | 39%* | 37%* | NA | NA | NA |
-| Clinical Remissionb,d |  |  |  |  |  |  |
-| Week 8 | 15% | 39%* | 32%* | 6% | 34%* | 28%* |
-| Week 30 | 16% | 34%** | 37%* | 11% | 26%** | 36%* |
-| Week 54 | 17% | 35%** | 34%** | NA | NA | NA |
-| Sustained Remissiond |  |  |  |  |  |  |
-| (Clinical remission at both Week 8 and 30) | 8% | 23%** | 26%* | 2% | 15%* | 23%* |
-| (Clinical remission at Weeks 8, 30 and 54) | 7% | 20%** | 20%** | NA | NA | NA |
-| Mucosal Healingc,d |  |  |  |  |  |  |
-| Week 8 | 34% | 62%* | 59%* | 31% | 60%* | 62%* |
-| Week 30 | 25% | 50%* | 49%* | 30% | 46%** | 57%* |
-| Week 54 | 18% | 45%* | 47%* | NA | NA | NA |
-
-* P<0.001, ** P<0.01
-
-a Defined as a decrease from baseline in the Mayo score by ≥30% and ≥3 points, accompanied by a decrease in the rectal bleeding subscore of ≥1 or a rectal bleeding subscore of 0 or 1.
-(The Mayo score consists of the sum of four subscores: stool frequency, rectal bleeding, physician's global assessment and endoscopy findings.) b Defined as a Mayo score ≤2 points, no individual subscore >1. c Defined as a 0 or 1 on the endoscopy subscore of the Mayo score. d Patients who had a prohibited change in medication, had an ostomy or colectomy, or discontinued study infusions due to lack of efficacy are considered to not be in clinical response, clinical remission or mucosal healing from the time of the event onward.
+| Clinical ResponseDefined as a decrease from baseline in the Mayo score by ≥30% and ≥3 points, accompanied by a decrease in the rectal bleeding subscore of ≥1 or a rectal bleeding subscore of 0 or 1. (The Mayo score consists of the sum of four subscores: stool frequency, rectal bleeding, physician's global assessment and endoscopy findings.),Patients who had a prohibited change in medication, had an ostomy or colectomy, or discontinued study infusions due to lack of efficacy are considered to not be in clinical response, clinical remission or mucosal healing from the time of the event onward. |  |  |  |  |  |  |
+| Week 8 | 37% | 69%P<0.001, | 62% | 29% | 65% | 69% |
+| Week 30 | 30% | 52% | 51%P<0.01 | 26% | 47% | 60% |
+| Week 54 | 20% | 45% | 44% | NA | NA | NA |
+| Sustained Response |  |  |  |  |  |  |
+| (Clinical response at both Week 8 and 30) | 23% | 49% | 46% | 15% | 41% | 53% |
+| (Clinical response at both Week 8, 30 and 54) | 14% | 39% | 37% | NA | NA | NA |
+| Clinical RemissionDefined as a Mayo score ≤2 points, no individual subscore >1., |  |  |  |  |  |  |
+| Week 8 | 15% | 39% | 32% | 6% | 34% | 28% |
+| Week 30 | 16% | 34% | 37% | 11% | 26% | 36% |
+| Week 54 | 17% | 35% | 34% | NA | NA | NA |
+| Sustained Remission |  |  |  |  |  |  |
+| (Clinical remission at both Week 8 and 30) | 8% | 23% | 26% | 2% | 15% | 23% |
+| (Clinical remission at Weeks 8, 30 and 54) | 7% | 20% | 20% | NA | NA | NA |
+| Mucosal HealingDefined as a 0 or 1 on the endoscopy subscore of the Mayo score., |  |  |  |  |  |  |
+| Week 8 | 34% | 62% | 59% | 31% | 60% | 62% |
+| Week 30 | 25% | 50% | 49% | 30% | 46% | 57% |
+| Week 54 | 18% | 45% | 47% | NA | NA | NA |
 
 The improvement with infliximab was consistent across all Mayo subscores through Week 54 (Study UC I shown in Table 6; Study UC II through Week 30 was similar).
 
-Table 6 Proportion of patients in Study UC I with Mayo subscores indicating inactive or mild disease through Week 54
+Table 6 Proportion of patients in Study US I with Mayo subscores indicating inactive or mild disease through Week 54
 
-|  | (n=121) | (n=121) | (n=122) |
+|  | Placebo (n=121) | 5 mg/kg (n=121) | 10 mg/kg (n=122) |
 | --- | --- | --- | --- |
 |  | Study UC I |  |  |
 |  |  | Infliximab |  |
-|  | Placebo | 5 mg/kg | 10 mg/kg |
 | Stool frequency |  |  |  |
 | Baseline | 17% | 17% | 10% |
 | Week 8 | 35% | 60% | 58% |
@@ -211,7 +199,7 @@ Study RA I was a placebo-controlled study of 428 patients with active rheumatoid
 Patients enrolled had a median age of 54 years, median disease duration of 8.4 years, median swollen and tender joint count of 20 and 31 respectively, and were on a median dose of 15 mg/wk of MTX.
 Patients received either placebo + MTX or one of 4 doses/schedules of the infliximab + MTX: 3 mg/kg or 10 mg/kg infliximab by intravenous infusion at Weeks 0, 2 and 6 followed by additional infusions every 4 or 8 weeks in combination with MTX.
 
-Study RA II was a placebo-controlled study of 3 active treatment arms in 1004 MTX naive patients of 3 or fewer years' duration active rheumatoid arthritis.
+Study RA II was a placebo-controlled study of 3 active treatment arms in 1004 MTX naïve patients of 3 or fewer years' duration active rheumatoid arthritis.
 Patients enrolled had a median age of 51 years with a median disease duration of 0.6 years, median swollen and tender joint count of 19 and 31, respectively, and >80% of patients had baseline joint erosions.
 At randomization, all patients received MTX (optimized to 20 mg/wk by Week 8) and either placebo, 3 mg/kg or 6 mg/kg of infliximab at Weeks 0, 2, and 6 and every 8 weeks thereafter.
 
@@ -229,39 +217,34 @@ More patients treated with infliximab reached a major clinical response than pla
 
 Table 7 ACR response (percent of patients) for infliximab
 
-| Response | Placebo + MTX (n=88) | q 8 wks (n=86) | q 4 wks (n=86) | q 8 wks (n=87) | q 4 wks (n=81) |  | Placebo + MTX (n=274) | q 8 wks (n=351) | q 8 wks (n=355) |
+| Response | Placebo+MTX (n=88) | q8 wks (n=86) | q4 wks (n=86) | q8 wks (n=87) | q4 wks (n=81) |  | Placebo+MTX (n=274) | q8 wks (n=351) | q8 wks (n=355) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | Study RA I |  |  |  |  |  | Study RA II |  |  |
 |  |  | Infliximab + MTX |  |  |  |  |  | Infliximab + MTX |  |
 |  |  | 3 mg/kg |  | 10 mg/kg |  |  |  | 3 mg/kg | 6 mg/kg |
 | ACR 20 |  |  |  |  |  |  |  |  |  |
-| Week 30 | 20% | 50%a | 50%a | 52%a | 58%a |  | N/A | N/A | N/A |
-| Week 54 | 17% | 42% a | 48%a | 59% a | 59%a |  | 54% | 62%c | 66%a |
+| Week 30 | 20% | 50%P≤0.001 | 50% | 52% | 58% |  | N/A | N/A | N/A |
+| Week 54 | 17% | 42% | 48% | 59% | 59% |  | 54% | 62% P<0.05 | 66% |
 | ACR 50 |  |  |  |  |  |  |  |  |  |
-| Week 30 | 5% | 27%a | 29%a | 31%a | 26%a |  | N/A | N/A | N/A |
-| Week 54 | 9% | 21% c | 34%a | 40%a | 38%a |  | 32% | 46%a | 50%a |
+| Week 30 | 5% | 27% | 29% | 31% | 26% |  | N/A | N/A | N/A |
+| Week 54 | 9% | 21% | 34% | 40% | 38% |  | 32% | 46% | 50% |
 | ACR 70 |  |  |  |  |  |  |  |  |  |
-| Week 30 | 0% | 8%b | 11%b | 18% a | 11%a |  | N/A | N/A | N/A |
-| Week 54 | 2% | 11% c | 18%a | 26%a | 19%a |  | 21% | 33%b | 37%a |
-| Major clinical response# | 0% | 7%c | 8%b | 15%a | 6%c |  | 8% | 12% | 17%a |
-
-# A major clinical response was defined as a 70% ACR response for 6 consecutive months (consecutive visits spanning at least 26 weeks) through Week 102 for Study RA I and Week 54 for Study RA II. a P≤0.001 b P<0.01 c P<0.05
+| Week 30 | 0% | 8% P<0.01 | 11% | 18% | 11% |  | N/A | N/A | N/A |
+| Week 54 | 2% | 11% | 18% | 26% | 19% |  | 21% | 33% | 37% |
+| Major clinical responseA major clinical response was defined as a 70% ACR response for 6 consecutive months (consecutive visits spanning at least 26 weeks) through Week 102 for Study RA I and Week 54 for Study RA II. | 0% | 7% | 8% | 15% | 6% |  | 8% | 12% | 17% |
 
 Table 8 Components of ACR 20 at baseline and 54 weeks (Study RA I)
 
 | Parameter (medians) | Baseline | Week 54 | Baseline | Week 54 |
 | --- | --- | --- | --- | --- |
-|  | Placebo + MTX |  | Infliximab + MTXa |  |
-|  | (n=88) |  | (n=340) |  |
+|  | Placebo + MTX (n=88) |  | Infliximab + MTXAll doses/schedules of infliximab + MTX (n=340) |  |
 | No. of Tender Joints | 24 | 16 | 32 | 8 |
 | No. of Swollen Joints | 19 | 13 | 20 | 7 |
-| Painb | 6.7 | 6.1 | 6.8 | 3.3 |
-| Physician's Global Assessmentb | 6.5 | 5.2 | 6.2 | 2.1 |
-| Patient's Global Assessmentb | 6.2 | 6.2 | 6.3 | 3.2 |
-| Disability Index (HAQ-DI)c | 1.8 | 1.5 | 1.8 | 1.3 |
+| PainVisual Analog Scale (0=best, 10=worst) | 6.7 | 6.1 | 6.8 | 3.3 |
+| Physician's Global Assessment | 6.5 | 5.2 | 6.2 | 2.1 |
+| Patient's Global Assessment | 6.2 | 6.2 | 6.3 | 3.2 |
+| Disability Index (HAQ-DI)Health Assessment Questionnaire, measurement of 8 categories: dressing and grooming, arising, eating, walking, hygiene, reach, grip, and activities (0=best, 3=worst) | 1.8 | 1.5 | 1.8 | 1.3 |
 | CRP (mg/dL) | 3.0 | 2.3 | 2.4 | 0.6 |
-
-a All doses/schedules of infliximab + MTX b Visual Analog Scale (0=best, 10=worst) c Health Assessment Questionnaire, measurement of 8 categories: dressing and grooming, arising, eating, walking, hygiene, reach, grip, and activities (0=best, 3=worst)
 
 Radiographic Response
 
@@ -279,33 +262,32 @@ Fewer patients in infliximab + MTX groups (47%) developed erosions in uninvolved
 
 Table 9 Radiographic change from baseline to Week 54
 
-|  | Placebo + MTX (n=64) | 3 mg/kg q 8 wks (n=71) | 10 mg/kg q 8 wks (n=77) |  | Placebo + MTX (n=282) | 3 mg/kg q 8 wks (n=359) | 6 mg/kg q 8 wks (n=363) |
+|  | Placebo + MTX (n=64) | q8 wks (n=71) | q8 wks (n=77) |  | Placebo + MTX (n=282) | q8 wks (n=359) | q8 wks (n=363) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | Study RA I |  |  |  | Study RA II |  |  |
 |  |  | Infliximab + MTX |  |  |  | Infliximab + MTX |  |
+|  |  | 3 mg/kg | 10 mg/kg |  |  | 3 mg/kg | 6 mg/kg |
 | Total Score |  |  |  |  |  |  |  |
 | Baseline |  |  |  |  |  |  |  |
 | Mean | 79 | 78 | 65 |  | 11.3 | 11.6 | 11.2 |
 | Median | 55 | 57 | 56 |  | 5.1 | 5.2 | 5.3 |
 | Change from baseline |  |  |  |  |  |  |  |
-| Mean | 6.9 | 1.3a | 0.2a |  | 3.7 | 0.4a | 0.5a |
+| Mean | 6.9 | 1.3P<0.001 for each outcome against placebo. | 0.2 |  | 3.7 | 0.4 | 0.5 |
 | Median | 4.0 | 0.5 | 0.5 |  | 0.4 | 0.0 | 0.0 |
 | Erosion Score |  |  |  |  |  |  |  |
 | Baseline |  |  |  |  |  |  |  |
 | Mean | 44 | 44 | 33 |  | 8.3 | 8.8 | 8.3 |
 | Median | 25 | 29 | 22 |  | 3.0 | 3.8 | 3.8 |
 | Change from baseline |  |  |  |  |  |  |  |
-| Mean | 4.1 | 0.2a | 0.2a |  | 3.0 | 0.3a | 0.1a |
+| Mean | 4.1 | 0.2 | 0.2 |  | 3.0 | 0.3 | 0.1 |
 | Median | 2.0 | 0.0 | 0.5 |  | 0.3 | 0.0 | 0.0 |
 | JSN Score |  |  |  |  |  |  |  |
 | Baseline |  |  |  |  |  |  |  |
 | Mean | 36 | 34 | 31 |  | 3.0 | 2.9 | 2.9 |
 | Median | 26 | 29 | 24 |  | 1.0 | 1.0 | 1.0 |
 | Change from baseline |  |  |  |  |  |  |  |
-| Mean | 2.9 | 1.1a | 0.0a |  | 0.6 | 0.1a | 0.2 |
+| Mean | 2.9 | 1.1 | 0.0 |  | 0.6 | 0.1 | 0.2 |
 | Median | 1.5 | 0.0 | 0.0 |  | 0.0 | 0.0 | 0.0 |
-
-a P<0.001 for each outcome against placebo.
 
 Physical Function Response
 
@@ -322,8 +304,7 @@ No worsening in the SF-36 mental component summary score was observed.
 ## 14.5 Ankylosing Spondylitis
 
 The safety and efficacy of infliximab were assessed in a randomized, multicenter, double-blind, placebo-controlled study in 279 patients with active ankylosing spondylitis.
-Patients were between 18 and 74 years of age, and had ankylosing spondylitis as defined by the modified New York criteria for Ankylosing Spondylitis.
-4 Patients were to have had active disease as evidenced by both a Bath Ankylosing Spondylitis Disease Activity Index (BASDAI) score >4 (possible range 0–10) and spinal pain >4 (on a Visual Analog Scale [VAS] of 0–10).
+Patients were between 18 and 74 years of age, and had ankylosing spondylitis as defined by the modified New York criteria for Ankylosing Spondylitis.4 Patients were to have had active disease as evidenced by both a Bath Ankylosing Spondylitis Disease Activity Index (BASDAI) score >4 (possible range 0–10) and spinal pain >4 (on a Visual Analog Scale [VAS] of 0–10).
 Patients with complete ankylosis of the spine were excluded from study participation, and the use of Disease Modifying Anti-Rheumatic Drugs (DMARDs) and systemic corticosteroids were prohibited.
 Doses of 5 mg/kg of infliximab or placebo were administered intravenously at Weeks 0, 2, 6, 12 and 18.
 
@@ -333,27 +314,26 @@ Improvement was observed at Week 2 and maintained through Week 24 (Figure 3 and 
 Figure 3 Proportion of patients achieving ASAS 20 response
 
 At 24 weeks, the proportions of patients achieving a 50% and a 70% improvement in the signs and symptoms of ankylosing spondylitis, as measured by ASAS response criteria (ASAS 50 and ASAS 70, respectively), were 44% and 28%, respectively, for patients receiving infliximab, compared to 9% and 4%, respectively, for patients receiving placebo (P<0.001, infliximab vs. placebo).
-A low level of disease activity (defined as a value <20 [on a scale of 0–100 mm] in each of the 4 ASAS response parameters) was achieved in 22% of patients treated with infliximab vs. 1% in placebo-treated patients (P<0.001).
+A low level of disease activity (defined as a value <20 [on a scale of 0 – 100 mm] in each of the 4 ASAS response parameters) was achieved in 22% of patients treated with infliximab vs. 1% in placebo-treated patients (P<0.001).
 
 Table 10 Components of ankylosing spondylitis disease activity
 
-|  | Baseline | 24 Weeks | Baseline | 24 Weeks | P -value |
+|  | Baseline | 24 Weeks | Baseline | 24 Weeks | P-value |
 | --- | --- | --- | --- | --- | --- |
-|  | Placebo (n=78) |  | Infliximab 5mg/kg (n=201) |  |  |
-| ASAS 20 response Criteria (Mean) |  |  |  |  |  |
-| Patient Global Assessmenta | 6.6 | 6.0 | 6.8 | 3.8 | <0.001 |
-| Spinal paina | 7.3 | 6.5 | 7.6 | 4.0 | <0.001 |
-| BASFIb | 5.8 | 5.6 | 5.7 | 3.6 | <0.001 |
-| Inflammationc | 6.9 | 5.8 | 6.9 | 3.4 | <0.001 |
+|  | Placebo (n=78) |  | Infliximab 5 mg/kg (n=201) |  |  |
+| ASAS 20 response |  |  |  |  |  |
+| Criteria (Mean) |  |  |  |  |  |
+| Patient Global AssessmentMeasured on a VAS with 0="none" and 10="severe" | 6.6 | 6.0 | 6.8 | 3.8 | <0.001 |
+| Spinal pain | 7.3 | 6.5 | 7.6 | 4.0 | <0.001 |
+| BASFIBath Ankylosing Spondylitis Functional Index (BASFI), average of 10 questions | 5.8 | 5.6 | 5.7 | 3.6 | <0.001 |
+| InflammationInflammation, average of last 2 questions on the 6-question BASDAI | 6.9 | 5.8 | 6.9 | 3.4 | <0.001 |
 | Acute Phase Reactants |  |  |  |  |  |
-| Median CRPd (mg/dL) | 1.7 | 1.5 | 1.5 | 0.4 | <0.001 |
+| Median CRPCRP normal range 0–1.0 mg/dL (mg/dL) | 1.7 | 1.5 | 1.5 | 0.4 | <0.001 |
 | Spinal Mobility (cm, Mean) |  |  |  |  |  |
-| Modified Schober's teste | 4.0 | 5.0 | 4.3 | 4.4 | 0.75 |
-| Chest expansione | 3.6 | 3.7 | 3.3 | 3.9 | 0.04 |
-| Tragus to walle | 17.3 | 17.4 | 16.9 | 15.7 | 0.02 |
-| Lateral spinal flexione | 10.6 | 11.0 | 11.4 | 12.9 | 0.03 |
-
-a Measured on a VAS with 0="none" and 10="severe" b Bath Ankylosing Spondylitis Functional Index (BASFI), average of 10 questions c Inflammation, average of last 2 questions on the 6-question BASDAI d CRP normal range 0–1.0 mg/dL e Spinal mobility normal values: modified Schober's test: >4 cm; chest expansion:>6 cm; tragus to wall: <15 cm; lateral spinal flexion: >10 cm
+| Modified Schober's testSpinal mobility normal values: modified Schober's test: >4 cm; chest expansion:>6 cm; tragus to wall: <15 cm; lateral spinal flexion: >10 cm | 4.0 | 5.0 | 4.3 | 4.4 | 0.75 |
+| Chest expansion | 3.6 | 3.7 | 3.3 | 3.9 | 0.04 |
+| Tragus to wall | 17.3 | 17.4 | 16.9 | 15.7 | 0.02 |
+| Lateral spinal flexion | 10.6 | 11.0 | 11.4 | 12.9 | 0.03 |
 
 The median improvement from baseline in the general health-related quality-of-life questionnaire SF-36 physical component summary score at Week 24 was 10.2 for infliximab group vs. 0.8 for the placebo group (P<0.001).
 There was no change in the SF-36 mental component summary score in either infliximab group or the placebo group.
@@ -384,27 +364,23 @@ Similar ACR responses were observed in an earlier randomized, placebo-controlled
 
 Table 11 Components of ACR 20 and percentage of patients with 1 or more joints with dactylitis and percentage of patients with enthesopathy at baseline and Week 24
 
-|  | Baseline | Week 24 | Baseline | Week 24 |
+| Baseline | Week 24 | Baseline | Week 24 |  |
 | --- | --- | --- | --- | --- |
-|  | Placebo |  | Infliximab 5mg/kga |  |
-| Patients Randomized | (n=100) |  | (n=100) |  |
-| Parameter (medians) |  |  |  |  |
-| No. of Tender Jointsb | 24 | 20 | 20 | 6 |
-| No. of Swollen Jointsc | 12 | 9 | 12 | 3 |
-| Paind | 6.4 | 5.6 | 5.9 | 2.6 |
-| Physician's Global Assessmentd | 6.0 | 4.5 | 5.6 | 1.5 |
-| Patient's Global Assessmentd | 6.1 | 5.0 | 5.9 | 2.5 |
-| Disability Index (HAQ-DI)e | 1.1 | 1.1 | 1.1 | 0.5 |
-| CRP (mg/dL)f | 1.2 | 0.9 | 1.0 | 0.4 |
+| Patients Randomized | Placebo (n=100) |  | Infliximab 5mg/kgP<0.001 for percent change from baseline in all components of ACR 20 at Week 24, P<0.05 for % of patients with dactylitis, and P=0.004 for % of patients with enthesopathy at Week 24 (n=100) |  |
+| Parameter (medians) | 24 | 20 | 20 | 6 |
+| No. of Tender JointsScale 0–68 | 12 | 9 | 12 | 3 |
+| No. of Swollen JointsScale 0–66 | 6.4 | 5.6 | 5.9 | 2.6 |
+| PainVisual Analog Scale (0=best, 10=worst) | 6.0 | 4.5 | 5.6 | 1.5 |
+| Physician's Global Assessment | 6.1 | 5.0 | 5.9 | 2.5 |
+| Disability Index (HAQ-DI)Health Assessment Questionnaire, measurement of 8 categories: dressing and grooming, arising, eating, walking, hygiene, reach, grip, and activities (0=best, 3=worst) | 1.1 | 1.1 | 1.1 | 0.5 |
+| CRP (mg/dL)Normal range 0–0.6 mg/dL | 1.2 | 0.9 | 1.0 | 0.4 |
 | % Patients with 1 or more digits with dactylitis | 41 | 33 | 40 | 15 |
 | % Patients with enthesopathy | 35 | 36 | 42 | 22 |
-
-a P<0.001 for percent change from baseline in all components of ACR 20 at Week 24, P<0.05 for % of patients with dactylitis, and P=0.004 for % of patients with enthesopathy at Week 24 b Scale 0-68 c Scale 0-66 d Visual Analog Scale (0=best, 10=worst) e Health Assessment Questionnaire, measurement of 8 categories: dressing and grooming, arising, eating, walking, hygiene, reach, grip, and activities (0=best, 3=worst) f Normal range 0-0.6 mg/dL
 
 Improvement in Psoriasis Area and Severity Index (PASI) in psoriatic arthritis patients with baseline body surface area (BSA) ≥3% (n=87 placebo, n=83 infliximab) was achieved at Week 14, regardless of concomitant methotrexate use, with 64% of patients treated with infliximab achieving at least 75% improvement from baseline vs. 2% of placebo-treated patients; improvement was observed in some patients as early as Week 2.
 At 6 months, the PASI 75 and PASI 90 responses were achieved by 60% and 39%, respectively, of patients receiving infliximab compared to 1% and 0%, respectively, of patients receiving placebo.
 The PASI response was generally maintained through Week 54.
-[See also Clinical Studies (14.7)].
+[See also Clinical Studies (14.8)].
 
 Radiographic response
 
@@ -462,22 +438,20 @@ Overall lesions were graded with consideration to the percent of body involvemen
 Treatment success, defined as "clear" or "excellent," consisted of some residual pinkness or pigmentation to marked improvement (nearly normal skin texture; some erythema may be present).
 The results of these studies are presented in Table 12.
 
-Table 12 Psoriasis studies I, II, and III, Week 10 percentage of patients who achieved PASI 75 and percentage who achieved treatment "success" with Physician's Global Assessment
+Table 12 Psoriasis studies I, II, and III, Week 10 percentage of patients who achieved PASI75 and percentage who achieved treatment "success" with Physician's Global Assessment
 
 |  |  | 3 mg/kg | 5 mg/kg |
 | --- | --- | --- | --- |
 |  | Placebo | Infliximab |  |
-| Psoriasis Study I - patients randomizeda | 77 | --- | 301 |
-| PASI 75 | 2 (3%) | --- | 242 (80%)* |
-| sPGA | 3 (4%) | --- | 242 (80%)* |
-| Psoriasis Study II - patients randomizeda | 208 | 313 | 314 |
-| PASI 75 | 4 (2%) | 220 (70%)* | 237 (75%)* |
-| rPGA | 2 (1%) | 217 (69%)* | 234 (75%)* |
-| Psoriasis Study III - patients randomizedb | 51 | 99 | 99 |
-| PASI 75 | 3 (6%) | 71 (72%)* | 87 (88%)* |
-| sPGA | 5 (10%) | 71 (72%)* | 89 (90%)* |
-
-* P<0.001 compared with placebo a Patients with missing data at Week 10 were considered as nonresponders. b Patients with missing data at Week 10 were imputed by last observation.
+| Psoriasis Study I - patients randomizedPatients with missing data at Week 10 were considered as nonresponders. | 77 | --- | 301 |
+| PASI 75 | 2 (3%) | --- | 242 (80%)P<0.001 compared with placebo |
+| sPGA | 3 (4%) | --- | 242 (80%) |
+| Psoriasis Study II - patients randomized | 208 | 313 | 314 |
+| PASI 75 | 4 (2%) | 220 (70%) | 237 (75%) |
+| rPGA | 2 (1%) | 217 (69%) | 234 (75%) |
+| Psoriasis Study IIII - patients randomizedPatients with missing data at Week 10 were imputed by last observation. | 51 | 99 | 99 |
+| PASI 75 | 3 (6%) | 71 (72%) | 87 (88%) |
+| sPGA | 5 (10%) | 71 (72%) | 89 (90%) |
 
 In Study I, in the subgroup of patients with more extensive psoriasis who had previously received phototherapy, 85% of patients on 5 mg/kg infliximab achieved a PASI 75 at Week 10 compared with 4% of patients on placebo.
 
