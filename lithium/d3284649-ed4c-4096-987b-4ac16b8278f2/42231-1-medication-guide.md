@@ -2,7 +2,7 @@
 
 MEDICATION GUIDE
 
-Lithium (LITH-ee-əm) Carbonate Tablets
+Lithium (LITH-ee-əm) Carbonate Tablets, USP
 
 What is the most important information I should know about Lithium Carbonate Tablets?
 
