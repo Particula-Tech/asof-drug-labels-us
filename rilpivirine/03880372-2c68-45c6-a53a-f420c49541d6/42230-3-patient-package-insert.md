@@ -32,4 +32,4 @@
 | Active ingredient: rilpivirine. |
 | Inactive ingredients: croscarmellose sodium, lactose monohydrate, magnesium stearate, polysorbate 20, povidone K30 and silicified microcrystalline cellulose. The tablet coating contains hypromellose 2910 6 mPa.s, lactose monohydrate, PEG 3000, titanium dioxide, and triacetin. |
 | Product of Ireland Manufactured by: Janssen-Cilag SpA, Latina, Italy Manufactured for: Janssen Therapeutics, Division of Janssen Products, LP, Titusville NJ 08560 EDURANT® is a registered trademark of Johnson & Johnson © Janssen Products, LP 2011 |
-| This Patient Information has been approved by the U.S. Food and Drug Administration. Revised August 2015 |
+| This Patient Information has been approved by the U.S. Food and Drug Administration. Revised 9/2017 |
