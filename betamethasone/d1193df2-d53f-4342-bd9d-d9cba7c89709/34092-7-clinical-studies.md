@@ -12,13 +12,3 @@ In both trials, subjects were treated once daily for up to 4 weeks.
 Efficacy was assessed with treatment success defined as the proportion of subjects at Week 4 who were “Clear” or “Almost Clear” according to the IGA.
 Subjects with “Mild” disease at baseline were required to be “Clear” to be considered a treatment success.
 Table 1 presents the efficacy results for these trials.
-
-Table 1
-
-| Percentage of Subjects Achieving Treatment Success According to the Investigator’s Global Assessment of Disease Severity* |  |  |  |  |
-| --- | --- | --- | --- | --- |
-|  | Enstilar® Foam | Betamethasone dipropionate in vehicle | Calcipotriene in vehicle | Vehicle |
-| Trial OneWeek 4 | (N=100)45.0% | (N=101)30.7% | (N=101)14.9% | -- |
-| Trial TwoWeek 4 | (N=323)53.3% | -- | -- | (N=103)4.8% |
-
-*Subjects with “Mild” disease at baseline were required to be “Clear” to be considered a treatment success.

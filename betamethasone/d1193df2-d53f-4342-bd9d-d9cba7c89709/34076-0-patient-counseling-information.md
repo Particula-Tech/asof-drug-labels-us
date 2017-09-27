@@ -18,7 +18,11 @@ Inform patients of the following:
 
 Manufactured by:
 
-LEO Laboratories Ltd. 285 Cashel Road Dublin 12, Ireland
+LEO Laboratories Ltd.
+
+285 Cashel Road
+
+Dublin 12, Ireland
 
 or
 
@@ -34,6 +38,6 @@ Distributed by:
 
 LEO Pharma Inc.
 
-Seven Giralda Farms,
+Seven Giralda Farms
 
-Madison, NJ 07940
+Madison, NJ 07940, USA

@@ -31,8 +31,8 @@ Distributed by:
 
 LEO Pharma Inc.
 
-Seven Giralda Farms,
+Seven Giralda Farms
 
-Madison, NJ 07940
+Madison, NJ 07940, USA
 
-Issued: 11/2016
+Issued: 06/2017

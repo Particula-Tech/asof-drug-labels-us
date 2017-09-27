@@ -5,10 +5,10 @@
 Enstilar® Foam is a white to off-white opalescent liquid in a pressurized aluminum spray can with a continuous valve and actuator.
 At administration the product is a white to off-white foam after evaporation of the propellants.
 
-Enstilar® Foam is available in aluminum cans of:
+Enstilar® Foam is available as:
 
-- 1 x 60 g (NDC 50222-302-60)
-- 2 x 60 g (NDC 50222-302-66)
+- 60 g can (NDC 50222-302-60)
+- 120 g (2 cans of 60 g) (NDC 50222-302-66)
 
 ## 16.2 Storage
 

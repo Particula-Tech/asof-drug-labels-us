@@ -3,7 +3,7 @@
 Important information:
 
 Enstilar® Foam is for use on the skin only (topical use).
-Do not get Enstilar® Foam in your in your mouth, eyes, or vagina.
+Do not get Enstilar® Foam in your mouth, eyes, or vagina.
 
 There are other medicines that contain the same medicine that is in Enstilar® Foam and are used to treat plaque psoriasis.
 Do not use other products containing calcipotriene or a corticosteroid medicine with Enstilar® Foam without talking to your doctor first.
@@ -76,7 +76,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store Enstilar® Foam?
 
-- Store Enstilar® Foam at room temperature between 68° to 77°F (20° - 25°C).
+- Store Enstilar® Foam at room temperature between 68°F to 77°F (20°C to 25°C).
 - Do not expose Enstilar® Foam to heat or store at temperatures above 120°F (49°C).
 - Do not puncture or burn the Enstilar® Foam can.
 - Do not freeze Enstilar® Foam.
@@ -94,14 +94,14 @@ It may harm them.
 You can ask your doctor or pharmacist for information about Enstilar® Foam that is written for health professionals.
 
 What are the ingredients in Enstilar® Foam?
-Active ingredients: calcipotriene hydrate, betamethasone dipropionate.
+Active ingredients: calcipotriene hydrate and betamethasone dipropionate.
 Inactive ingredients: white petrolatum, polyoxypropylene stearyl ether, mineral oil, all-rac-alpha-tocopherol, and butylhydroxytoluene.
 
 Propellants: dimethyl ether and butane.
 
 Manufactured by: LEO Laboratories Ltd., 285 Cashel Road, Dublin 12, Ireland or Colep Laupheim GmbH & Co. KG, Fockestraße 12, 88471 Laupheim, Germany (DE)
 
-Distributed by: LEO Pharma Inc., Seven Giralda Farms, Madison, NJ 07940
+Distributed by: LEO Pharma Inc., Seven Giralda Farms, Madison, NJ 07940, USA
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-Issued: 11/2016
+Issued: 06/2017

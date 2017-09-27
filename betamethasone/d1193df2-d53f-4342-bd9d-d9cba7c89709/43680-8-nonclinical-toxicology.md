@@ -1,6 +1,6 @@
 # 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis, Mutagenesis,Impairment of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 When calcipotriene was applied topically to mice for up to 24 months at dosages of 3, 10 and 30 mcg/kg/day (corresponding to 9, 30 and 90 mcg/m2/day), no significant changes in tumor incidence were observed when compared to control.
 

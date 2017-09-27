@@ -5,7 +5,7 @@ It is intended for topical use only.
 
 Calcipotriene hydrate is a synthetic vitamin D3 analog.
 
-Chemically, calcipotriene hydrate is 9,10-secochola-5,7,10(19),22-tetraene-1,3,24-triol,24-cyclo-propyl-,monohydrate, (1α,3ß,5Z,7E,22E,24S) with the empirical formula C27H40O3,H20, a molecular weight of 430.6, and the following structural formula:
+Chemically, calcipotriene hydrate is 9,10-secochola-5,7,10(19),22-tetraene-1,3,24-triol,24-cyclo-propyl-,monohydrate, (1α,3ß,5Z,7E,22E,24S) with the empirical formula C27H40O3,H2O, a molecular weight of 430.6, and the following structural formula:
 
 Calcipotriene hydrate is a white to almost white, crystalline compound.
 
