@@ -9,12 +9,12 @@ Most subjects had disease of moderate severity at baseline.
 
 Efficacy was assessed as the proportion of subjects with absent or very mild disease according to the Investigator's Global Assessment of Disease Severity at end of treatment (4 weeks).
 "Absent" disease was defined as no evidence of redness, thickness, or scaling.
-"Very mild disease" was defined as controlled disease, but not entirely cleared: lesions with some discoloration with absolutely minimal thickness, i.e. the edges to the lesions(s) could just be felt.
+"Very mild disease" was defined as controlled disease, but not entirely cleared: lesions with some discoloration with absolutely minimal thickness, i.e. the edges to the lesion(s) could just be felt.
 Table 3 contains the response rates for this trial.
 
 Table 3
 
-Percentage of Subjects with Absent or Very Mild Disease According to the Investigator's Global Assessment of Disease Severity at End of Treatment (4 weeks).*
+Percentage of Subjects with Absent or Very Mild Disease According to the Investigator's Global Assessment of Disease Severity at End of Treatment (4 weeks)*
 
 |  | Taclonex® Ointment N = 490 | Calcipotriene N = 480 | Betamethasone dipropionate N = 476 | Vehicle N = 157 |
 | --- | --- | --- | --- | --- |

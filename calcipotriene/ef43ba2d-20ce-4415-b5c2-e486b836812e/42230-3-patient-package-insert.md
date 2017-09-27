@@ -134,14 +134,14 @@ Manufactured by:
 
 LEO Laboratories Ltd. (LEO Pharma)
 
-Dublin, Ireland
+Dublin 12, Ireland
 
 Distributed by:
 
 LEO Pharma Inc.
 
-Seven Giralda Farms, Madison, New Jersey 07940 USA
+Seven Giralda Farms
 
-1-877-494-4536
+Madison, NJ 07940 USA
 
-Revised: 01/2017
+Revised: 06/2017

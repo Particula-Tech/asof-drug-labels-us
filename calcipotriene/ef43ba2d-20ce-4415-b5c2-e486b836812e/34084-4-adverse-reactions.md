@@ -2,7 +2,7 @@
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-## 6.1 Clinical Study Experience
+## 6.1 Clinical Trials Experience
 
 Clinical Trials Conducted in Subjects 18 years and older with Plaque Psoriasis
 
@@ -20,8 +20,8 @@ Adverse Events Reported by ≥1% of Subjects by Preferred Term
 |  | Taclonex® Ointment N = 2448 | Calcipotriene N = 3197 | Betamethasone dipropionate N = 1164 | Vehicle N = 470 |
 | --- | --- | --- | --- | --- |
 | Any Adverse Event | 663 (27.1) | 1055 (33.0) | 329 (28.3) | 157 (33.4) |
-| Preferred Term | # of subjects (%) |  |  |  |
-| Pruritis | 75 (3.1) | 183 (5.7) | 38 (3.3) | 43 (9.1) |
+| Preferred Term |  | # of subjects (%) |  |  |
+| Pruritus | 75 (3.1) | 183 (5.7) | 38 (3.3) | 43 (9.1) |
 | Headache | 69 (2.8) | 75 (2.3) | 44 (3.8) | 12 (2.6) |
 | Nasopharyngitis | 56 (2.3) | 77 (2.4) | 34 (2.9) | 9 (1.9) |
 | Psoriasis | 30 (1.2) | 47 (1.5) | 14 (1.2) | 5 (1.1) |
@@ -40,8 +40,8 @@ Table 2 Lesional/Perilesional Adverse Events Reported by ≥1% of Subjects
 |  | Taclonex® Ointment N = 2448 | Calcipotriene N = 3197 | Betamethasone dipropionate N = 1164 | Vehicle N = 470 |
 | --- | --- | --- | --- | --- |
 | Any Adverse Event | 213 (8.7) | 419 (13.1) | 85 (7.3) | 76 (16.2) |
-| Preferred Term | # of subjects (%) |  |  |  |
-| Pruritis | 69 (2.8) | 170 (5.3) | 31 (2.7) | 41 (8.7) |
+| Preferred Term |  | # of subjects (%) |  |  |
+| Pruritus | 69 (2.8) | 170 (5.3) | 31 (2.7) | 41 (8.7) |
 | Rash scaly | 29 (1.2) | 38 (1.2) | 0 (0.0) | 0 (0.0) |
 | Application site pruritus | 12 (0.5) | 24 (0.8) | 10 (0.9) | 6 (1.3) |
 | Erythema | 9 (0.4) | 36 (1.1) | 2 (0.2) | 4 (0.9) |
@@ -57,7 +57,7 @@ The effects of Taclonex® Ointment on calcium metabolism were not studied and th
 The following adverse reactions were reported by 1% or more of the subjects: pruritus (7.2%), psoriasis (3.4%), skin atrophy (1.9%), folliculitis (1.4%), burning sensation (1.4%), skin depigmentation (1.4%), ecchymosis (1.0%), erythema (1.0%) and hand dermatitis (1.0%).
 One case of serious flare-up of psoriasis was reported.
 
-## 6.2 Post-marketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reactions associated with the use of Taclonex® Ointment have been identified post-approval: pustular psoriasis and rebound effect.
 

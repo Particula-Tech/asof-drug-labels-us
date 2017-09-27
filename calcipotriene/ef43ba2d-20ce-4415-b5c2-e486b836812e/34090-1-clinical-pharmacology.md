@@ -23,7 +23,7 @@ In Trial B, Taclonex® Ointment was evaluated in adult subjects with plaque psor
 One subject demonstrated adrenal suppression.
 
 In Trial C, HPA axis suppression was evaluated in adult subjects (N=32) with extensive plaque psoriasis involving at least 30% of the scalp and, in total, 15-30% of the body surface area.
-Treatment consited of once daily application of Talconex Scalp® Topical Suspension on the scalp in combination with Taclonex® Ointment on the body.
+Treatment consisted of once daily application of Taclonex Scalp® Topical Suspension on the scalp in combination with Taclonex® Ointment on the body.
 Adrenal suppression as indicated by a 30-minutes post-stimulation cortisol level < 18 mcg/dL was observed in 5 of 32 subjects (15.6%) after 4 weeks of treatment as per the recommended duration of use [see Dosage and Administration (2)].
 
 In Trial D, HPA axis suppression was evaluated in subjects 12 to 17 years (N=32) with plaque psoriasis of the body involving 5-30% of the body surface area.
@@ -48,7 +48,7 @@ The clinical significance of this finding is unknown.
 Absorption
 
 In Trial C described above, the systemic effect of Taclonex® Ointment in extensive plaque psoriasis was investigated.
-In this study, the serum levels of calcipotriene and betamethasone dipropionate and their major metabolites were measured after 4 weeks (maximum recommended duration of treatment) and also after 8 weeks of once daily application of Taclonex® Ointment on the body in combination with Taclonex Scalp® Topical Suspension on the scalp.
+In this trial, the serum levels of calcipotriene and betamethasone dipropionate and their major metabolites were measured after 4 weeks (maximum recommended duration of treatment) and also after 8 weeks of once daily application of Taclonex® Ointment on the body in combination with Taclonex Scalp® Topical Suspension on the scalp.
 Both calcipotriene and betamethasone dipropionate were below the lower limit of quantification in all serum samples of the 34 subjects evaluated.
 However, one major metabolite of calcipotriene (MC1080) was quantifiable in 10 of 34 (29.4%) subjects at week 4 and in five of 12 (41.7%) subjects at week 8.
 The major metabolite of betamethasone dipropionate, betamethasone 17-propionate (B17P) was also quantifiable in 19 of 34 (55.9%) subjects at week 4 and seven of 12 (58.3%) subjects at week 8.
