@@ -16,8 +16,6 @@ To date, epidemiologic studies and randomized controlled trials have been inconc
 Some studies, but not all, have reported an increased risk of MACE in association with use of testosterone replacement therapy in men.
 Patients should be informed of this possible risk when deciding whether to use or to continue to use DEPO-Testosterone (testosterone cypionate).
 
-## Abuse of Testosterone and Monitoring of Serum Testosterone Concentrations
-
 Testosterone has been subject to abuse, typically at doses higher than recommended for the approved indication and in combination with other anabolic androgenic steroids.
 Anabolic androgenic steroid abuse can lead to serious cardiovascular and psychiatric adverse reactions (see DRUG ABUSE AND DEPENDENCE).
 

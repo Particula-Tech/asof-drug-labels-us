@@ -3,4 +3,4 @@ For current full prescribing information, please visit www.pfizer.com
 
 Rx only
 
-LAB-0245-11.0 October 2016
+LAB-0245-12.0 September 2017
