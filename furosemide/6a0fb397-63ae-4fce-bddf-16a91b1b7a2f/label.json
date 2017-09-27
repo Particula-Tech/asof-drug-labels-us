@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "ANDA076796"
+  ],
+  "inn": "furosemide",
+  "labeler": "Solco Healthcare LLC",
+  "package_ndcs": [
+    "43547-401-10",
+    "43547-401-11",
+    "43547-401-51",
+    "43547-402-10",
+    "43547-402-11",
+    "43547-402-51",
+    "43547-403-10",
+    "43547-403-11",
+    "43547-403-50"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "furosemide",
+      "name": "Furosemide"
+    }
+  ],
+  "setid": "6a0fb397-63ae-4fce-bddf-16a91b1b7a2f",
+  "source": "dailymed"
+}
