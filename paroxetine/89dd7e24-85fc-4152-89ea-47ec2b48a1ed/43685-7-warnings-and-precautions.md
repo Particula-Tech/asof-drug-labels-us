@@ -5,7 +5,7 @@
 Patients with major depressive disorder (MDD), both adult and pediatric, may experience worsening of their depression and/or the emergence of suicidal ideation and behavior (suicidality) or unusual changes in behavior, whether or not they are taking antidepressant medications, and this risk may persist until significant remission occurs.
 Suicide is a known risk of depression and certain other psychiatric disorders, and these disorders themselves are the strongest predictors of suicide.
 There has been a long-standing concern, however, that antidepressants may have a role in inducing worsening of depression and the emergence of suicidality in certain patients during the early phases of treatment.
-Pooled analyses of short-term placebo-controlled trials of antidepressant drugs (SSRIs and others) showed that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18 to 24) with major depressive disorder (MDD) and other psychiatric disorders.
+Pooled analyses of short-term placebo-controlled trials of antidepressant drugs (SSRIs and others) showed that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18-24) with major depressive disorder (MDD) and other psychiatric disorders.
 Short-term studies did not show an increase in the risk of suicidality with antidepressants compared to placebo in adults beyond age 24; there was a reduction with antidepressants compared to placebo in adults aged 65 and older.
 
 The pooled analyses of placebo-controlled trials in children and adolescents with MDD, obsessive compulsive disorder (OCD), or other psychiatric disorders included a total of 24 short-term trials of 9 antidepressant drugs in over 4,400 patients.
@@ -21,9 +21,9 @@ Table 1
 | --- | --- |
 | Increases Compared to Placebo |  |
 | < 18 | 14 additional cases |
-| 18 to 24 | 5 additional cases |
+| 18-24 | 5 additional cases |
 | Decreases Compared to Placebo |  |
-| 25 to 64 | 1 fewer case |
+| 25-64 | 1 fewer case |
 | ≥ 65 | 6 fewer cases |
 
 No suicides occurred in any of the pediatric trials.
@@ -78,7 +78,7 @@ The pupillary dilation that occurs following use of many antidepressant drugs in
 ## Potential Interaction with Thioridazine
 
 Thioridazine administration alone produces prolongation of the QTc interval, which is associated with serious ventricular arrhythmias, such as torsades de pointes-type arrhythmias, and sudden death.
-This effect appears to be dose-related.
+This effect appears to be dose related.
 
 An in vivo study suggests that drugs which inhibit CYP2D6, such as paroxetine, will elevate plasma levels of thioridazine.
 Therefore, it is recommended that paroxetine not be used in combination with thioridazine (see CONTRAINDICATIONS and PRECAUTIONS).
@@ -99,7 +99,7 @@ The findings from these studies are summarized below:
   Of the 12 paroxetine-exposed infants with cardiovascular malformations, 9 had VSDs.
   This study also suggested an increased risk of overall major congenital malformations including cardiovascular defects for paroxetine (4% risk) compared to other (2% risk) antidepressants (OR 1.8; 95% confidence interval 1.2 to 2.8).
 - •Two large case-control studies using separate databases, each with > 9,000 birth defect cases and > 4,000 controls, found that maternal use of paroxetine during the first trimester of pregnancy was associated with a 2- to 3-fold increased risk of right ventricular outflow tract obstructions.
-  In one study the odds ratio was 2.5 (95% confidence interval, 1.0 to 6.0, seven exposed infants) and in the other study the odds ratio was 3.3 (95% confidence interval, 1.3 to 8.8, six exposed infants).
+  In one study the odds ratio was 2.5 (95% confidence interval, 1.0 to 6.0, 7 exposed infants) and in the other study the odds ratio was 3.3 (95% confidence interval, 1.3 to 8.8, 6 exposed infants).
 
 Other studies have found varying results as to whether there was an increased risk of overall, cardiovascular, or specific congenital malformations.
 A meta-analysis of epidemiological data over a 16-year period (1992 to 2008) on first trimester paroxetine use in pregnancy and congenital malformations included the above-noted studies in addition to others (n = 17 studies that included overall malformations and n = 14 studies that included cardiovascular malformations; n = 20 distinct studies).
@@ -129,7 +129,7 @@ These features are consistent with either a direct toxic effect of SSRIs and SNR
 It should be noted that, in some cases, the clinical picture is consistent with serotonin syndrome (see WARNINGS: Serotonin Syndrome).
 
 Infants exposed to SSRIs in pregnancy may have an increased risk for persistent pulmonary hypertension of the newborn (PPHN).
-PPHN occurs in 1 to 2 per 1,000 live births in the general population and is associated with substantial neonatal morbidity and mortality.
+PPHN occurs in 1-2 per 1,000 live births in the general population and is associated with substantial neonatal morbidity and mortality.
 Several recent epidemiologic studies suggest a positive statistical association between SSRI use (including paroxetine tablets) in pregnancy and PPHN.
 Other studies do not show a significant statistical association.
 
@@ -137,7 +137,7 @@ Physicians should also note the results of a prospective longitudinal study of 2
 Women who discontinued antidepressant medication during pregnancy showed a significant increase in relapse of their major depression compared to those women who remained on antidepressant medication throughout pregnancy.
 
 When treating a pregnant woman with paroxetine tablets, the physician should carefully consider both the potential risks of taking an SSRI, along with the established benefits of treating depression with an antidepressant.
-This decision can only be made on a case by case basis (see DOSAGE AND ADMINISTRATION and ADVERSE REACTIONS: Post-Marketing Reports).
+This decision can only be made on a case by case basis (see DOSAGE AND ADMINISTRATION and ADVERSE REACTIONS: Postmarketing Reports).
 
 # PRECAUTIONS
 
@@ -158,7 +158,7 @@ It should be discontinued in any patient who develops seizures.
 ### Discontinuation of Treatment with Paroxetine Tablets
 
 Recent clinical trials supporting the various approved indications for paroxetine tablets employed a taper-phase regimen, rather than an abrupt discontinuation of treatment.
-The taper-phase regimen used in GAD clinical trials involved an incremental decrease in the daily dose by 10 mg/day at weekly intervals.
+The taper-phase regimen used in GAD and PTSD clinical trials involved an incremental decrease in the daily dose by 10 mg/day at weekly intervals.
 When a daily dose of 20 mg/day was reached, patients were continued on this dose for 1 week before treatment was stopped.
 
 With this regimen in those studies, the following adverse events were reported at an incidence of 2% or greater for paroxetine tablets and were at least twice that reported for placebo: Abnormal dreams, paresthesia, and dizziness.
@@ -178,8 +178,8 @@ See also PRECAUTIONS: Pediatric Use, for adverse events reported upon discontinu
 
 Some studies have shown that the efficacy of tamoxifen, as measured by the risk of breast cancer relapse/mortality, may be reduced when co-prescribed with paroxetine as a result of paroxetine’s irreversible inhibition of CYP2D6 (see Drug Interactions).
 However, other studies have failed to demonstrate such a risk.
-It is uncertain whether the co-administration of paroxetine and tamoxifen has a significant adverse effect on the efficacy of tamoxifen.
-One study suggests that the risk may increase with longer duration of co-administration.
+It is uncertain whether the coadministration of paroxetine and tamoxifen has a significant adverse effect on the efficacy of tamoxifen.
+One study suggests that the risk may increase with longer duration of coadministration.
 When tamoxifen is used for the treatment or prevention of breast cancer, prescribers should consider using an alternative antidepressant with little or no CYP2D6 inhibition.
 
 ### Akathisia
@@ -202,7 +202,7 @@ Signs and symptoms associated with more severe and/or acute cases have included 
 ### Abnormal Bleeding
 
 SSRIs and SNRIs, including paroxetine, may increase the risk of bleeding events.
-Concomitant use of aspirin, non-steroidal anti-inflammatory drugs, warfarin, and other anticoagulants may add to this risk.
+Concomitant use of aspirin, nonsteroidal anti-inflammatory drugs, warfarin, and other anticoagulants may add to this risk.
 Case reports and epidemiological studies (case-control and cohort design) have demonstrated an association between use of drugs that interfere with serotonin reuptake and the occurrence of gastrointestinal bleeding.
 Bleeding events related to SSRIs and SNRIs use have ranged from ecchymoses, hematomas, epistaxis, and petechiae to life-threatening hemorrhages.
 Patients should be cautioned about the risk of bleeding associated with the concomitant use of paroxetine and NSAIDs, aspirin, or other drugs that affect coagulation.
@@ -293,7 +293,7 @@ There are no specific laboratory tests recommended.
 
 ### Tryptophan
 
-As with other serotonin reuptake inhibitors, an interaction between paroxetine and tryptophan may occur when they are co-administered.
+As with other serotonin reuptake inhibitors, an interaction between paroxetine and tryptophan may occur when they are coadministered.
 Adverse experiences, consisting primarily of headache, nausea, sweating, and dizziness, have been reported when tryptophan was administered to patients taking paroxetine tablets.
 Consequently, concomitant use of paroxetine tablets with tryptophan is not recommended (see WARNINGS: Serotonin Syndrome).
 
@@ -309,7 +309,7 @@ Due to the narrow therapeutic index of pimozide and its known ability to prolong
 
 ### Serotonergic Drugs
 
-Based on the mechanism of action of SNRIs and SSRIs, including paroxetine hydrochloride, and the potential for serotonin syndrome, caution is advised when paroxetine tablets are co-administered with other drugs that may affect the serotonergic neurotransmitter systems, such as triptans, lithium, fentanyl, tramadol, amphetamines, or St. John's Wort (see WARNINGS: Serotonin Syndrome).
+Based on the mechanism of action of SNRIs and SSRIs, including paroxetine hydrochloride, and the potential for serotonin syndrome, caution is advised when paroxetine tablets are coadministered with other drugs that may affect the serotonergic neurotransmitter systems, such as triptans, lithium, fentanyl, tramadol, amphetamines, or St. John's Wort (see WARNINGS: Serotonin Syndrome).
 
 The concomitant use of paroxetine tablets with MAOIs (including linezolid and intravenous methylene blue) is contraindicated (see CONTRAINDICATIONS).
 The concomitant use of paroxetine tablets with other SSRIs, SNRIs or tryptophan is not recommended (see PRECAUTIONS: Drug Interactions: Tryptophan).
@@ -325,7 +325,7 @@ Since there is little clinical experience, the concomitant administration of par
 
 ### Triptans
 
-There have been rare post-marketing reports of serotonin syndrome with the use of an SSRI and a triptan.
+There have been rare postmarketing reports of serotonin syndrome with the use of an SSRI and a triptan.
 If concomitant use of paroxetine tablets with a triptan is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see WARNINGS: Serotonin Syndrome).
 
 ### Drugs Affecting Hepatic Metabolism
@@ -335,24 +335,24 @@ The metabolism and pharmacokinetics of paroxetine may be affected by the inducti
 ### Cimetidine
 
 Cimetidine inhibits many cytochrome P450 (oxidative) enzymes.
-In a study where paroxetine tablets (30 mg once daily) was dosed orally for 4 weeks, steady-state plasma concentrations of paroxetine were increased by approximately 50% during co-administration with oral cimetidine (300 mg three times daily) for the final week.
+In a study where paroxetine tablets (30 mg once daily) was dosed orally for 4 weeks, steady-state plasma concentrations of paroxetine were increased by approximately 50% during coadministration with oral cimetidine (300 mg three times daily) for the final week.
 Therefore, when these drugs are administered concurrently, dosage adjustment of paroxetine tablets after the 20 mg starting dose should be guided by clinical effect.
 The effect of paroxetine on cimetidine’s pharmacokinetics was not studied.
 
 ### Phenobarbital
 
 Phenobarbital induces many cytochrome P450 (oxidative) enzymes.
-When a single oral 30 mg dose of paroxetine tablets were administered at phenobarbital steady-state (100 mg once daily for 14 days), paroxetine AUC and T1/2 were reduced (by an average of 25% and 38%, respectively) compared to paroxetine administered alone.
+When a single oral 30 mg dose of paroxetine tablets were administered at phenobarbital steady state (100 mg once daily for 14 days), paroxetine AUC and T1/2 were reduced (by an average of 25% and 38%, respectively) compared to paroxetine administered alone.
 The effect of paroxetine on phenobarbital pharmacokinetics was not studied.
 Since paroxetine tablets exhibit nonlinear pharmacokinetics, the results of this study may not address the case where the 2 drugs are both being chronically dosed.
-No initial dosage adjustment of paroxetine tablets are considered necessary when co-administered with phenobarbital; any subsequent adjustment should be guided by clinical effect.
+No initial dosage adjustment of paroxetine tablets are considered necessary when coadministered with phenobarbital; any subsequent adjustment should be guided by clinical effect.
 
 ### Phenytoin
 
-When a single oral 30 mg dose of paroxetine tablets were administered at phenytoin steady-state (300 mg once daily for 14 days), paroxetine AUC and T1/2 were reduced (by an average of 50% and 35%, respectively) compared to paroxetine tablets administered alone.
-In a separate study, when a single oral 300 mg dose of phenytoin was administered at paroxetine steady-state (30 mg once daily for 14 days), phenytoin AUC was slightly reduced (12% on average) compared to phenytoin administered alone.
+When a single oral 30 mg dose of paroxetine tablets were administered at phenytoin steady state (300 mg once daily for 14 days), paroxetine AUC and T1/2 were reduced (by an average of 50% and 35%, respectively) compared to paroxetine tablets administered alone.
+In a separate study, when a single oral 300 mg dose of phenytoin was administered at paroxetine steady state (30 mg once daily for 14 days), phenytoin AUC was slightly reduced (12% on average) compared to phenytoin administered alone.
 Since both drugs exhibit nonlinear pharmacokinetics, the above studies may not address the case where the 2 drugs are both being chronically dosed.
-No initial dosage adjustments are considered necessary when these drugs are co-administered; any subsequent adjustments should be guided by clinical effect (see ADVERSE REACTIONS: Post-Marketing Reports).
+No initial dosage adjustments are considered necessary when these drugs are coadministered; any subsequent adjustments should be guided by clinical effect (see ADVERSE REACTIONS: Postmarketing Reports).
 
 ### Drugs Metabolized by CYP2D6
 
@@ -361,22 +361,22 @@ Like other agents that are metabolized by CYP2D6, paroxetine may significantly i
 In most patients (> 90%), this CYP2D6 isozyme is saturated early during dosing with paroxetine tablets.
 In 1 study, daily dosing of paroxetine tablets (20 mg once daily) under steady-state conditions increased single dose desipramine (100 mg) Cmax, AUC, and T1/2 by an average of approximately 2-, 5-, and 3-fold, respectively.
 Concomitant use of paroxetine with risperidone, a CYP2D6 substrate has also been evaluated.
-In 1 study, daily dosing of paroxetine 20 mg in patients stabilized on risperidone (4 mg/day to 8 mg/day) increased mean plasma concentrations of risperidone approximately 4-fold, decreased 9-hydroxyrisperidone concentrations approximately 10%, and increased concentrations of the active moiety (the sum of risperidone plus 9-hydroxyrisperidone) approximately 1.4-fold.
-The effect of paroxetine on the pharmacokinetics of atomoxetine has been evaluated when both drugs were at steady-state.
+In 1 study, daily dosing of paroxetine 20 mg in patients stabilized on risperidone (4 to 8 mg/day) increased mean plasma concentrations of risperidone approximately 4-fold, decreased 9-hydroxyrisperidone concentrations approximately 10%, and increased concentrations of the active moiety (the sum of risperidone plus 9-hydroxyrisperidone) approximately 1.4-fold.
+The effect of paroxetine on the pharmacokinetics of atomoxetine has been evaluated when both drugs were at steady state.
 In healthy volunteers who were extensive metabolizers of CYP2D6, paroxetine 20 mg daily was given in combination with 20 mg atomoxetine every 12 hours.
-This resulted in increases in steady-state atomoxetine AUC values that were 6- to 8-fold greater and in atomoxetine Cmax values that were 3- to 4-fold greater than when atomoxetine was given alone.
+This resulted in increases in steady state atomoxetine AUC values that were 6- to 8-fold greater and in atomoxetine Cmax values that were 3- to 4-fold greater than when atomoxetine was given alone.
 Dosage adjustment of atomoxetine may be necessary and it is recommended that atomoxetine be initiated at a reduced dose when it is given with paroxetine.
 
 Concomitant use of paroxetine tablets with other drugs metabolized by cytochrome CYP2D6 has not been formally studied but may require lower doses than usually prescribed for either paroxetine tablets or the other drug.
 
-Therefore, co-administration of paroxetine tablets with other drugs that are metabolized by this isozyme, including certain drugs effective in the treatment of major depressive disorder (e.g., nortriptyline, amitriptyline, imipramine, desipramine, and fluoxetine), phenothiazines, risperidone, and Type 1C antiarrhythmics (e.g., propafenone, flecainide, and encainide), or that inhibit this enzyme (e.g., quinidine), should be approached with caution.
+Therefore, coadministration of paroxetine tablets with other drugs that are metabolized by this isozyme, including certain drugs effective in the treatment of major depressive disorder (e.g., nortriptyline, amitriptyline, imipramine, desipramine, and fluoxetine), phenothiazines, risperidone, and Type 1C antiarrhythmics (e.g., propafenone, flecainide, and encainide), or that inhibit this enzyme (e.g., quinidine), should be approached with caution.
 
-However, due to the risk of serious ventricular arrhythmias and sudden death potentially associated with elevated plasma levels of thioridazine, paroxetine and thioridazine should not be co-administered (see CONTRAINDICATIONS and WARNINGS).
+However, due to the risk of serious ventricular arrhythmias and sudden death potentially associated with elevated plasma levels of thioridazine, paroxetine and thioridazine should not be coadministered (see CONTRAINDICATIONS and WARNINGS).
 
 Tamoxifen is a pro-drug requiring metabolic activation by CYP2D6.
 Inhibition of CYP2D6 by paroxetine may lead to reduced plasma concentrations of an active metabolite (endoxifen) and hence reduced efficacy of tamoxifen (see PRECAUTIONS).
 
-At steady-state, when the CYP2D6 pathway is essentially saturated, paroxetine clearance is governed by alternative P450 isozymes that, unlike CYP2D6, show no evidence of saturation (see PRECAUTIONS: Drug Interactions: Tricyclic Antidepressants (TCAs)).
+At steady state, when the CYP2D6 pathway is essentially saturated, paroxetine clearance is governed by alternative P450 isozymes that, unlike CYP2D6, show no evidence of saturation (see PRECAUTIONS: Drug Interactions: Tricyclic Antidepressants (TCAs)).
 
 ### Drugs Metabolized by Cytochrome CYP3A4
 
@@ -386,8 +386,8 @@ Based on the assumption that the relationship between paroxetine’s in vitro Ki
 
 ### Tricyclic Antidepressants (TCAs)
 
-Caution is indicated in the co-administration of tricyclic antidepressants (TCAs) with paroxetine tablets, because paroxetine may inhibit TCA metabolism.
-Plasma TCA concentrations may need to be monitored, and the dose of TCA may need to be reduced, if a TCA is co-administered with paroxetine tablets (see PRECAUTIONS: Drugs Metabolized by Cytochrome CYP2D6).
+Caution is indicated in the coadministration of tricyclic antidepressants (TCAs) with paroxetine tablets, because paroxetine may inhibit TCA metabolism.
+Plasma TCA concentrations may need to be monitored, and the dose of TCA may need to be reduced, if a TCA is coadministered with paroxetine tablets (see PRECAUTIONS: Drugs Metabolized by Cytochrome CYP2D6).
 
 ### Drugs Highly Bound to Plasma Protein
 
@@ -397,8 +397,8 @@ Conversely, adverse effects could result from displacement of paroxetine by othe
 ### Drugs That Interfere with Hemostasis (e.g., NSAIDs, Aspirin, and Warfarin)
 
 Serotonin release by platelets plays an important role in hemostasis.
-Epidemiological studies of the case- control and cohort design that have demonstrated an association between use of psychotropic drugs that interfere with serotonin reuptake and the occurrence of upper gastrointestinal bleeding have also shown that concurrent use of an NSAID or aspirin may potentiate this risk of bleeding.
-Altered anticoagulant effects, including increased bleeding, have been reported when SSRIs or SNRIs are co-administered with warfarin.
+Epidemiological studies of the case-control and cohort design that have demonstrated an association between use of psychotropic drugs that interfere with serotonin reuptake and the occurrence of upper gastrointestinal bleeding have also shown that concurrent use of an NSAID or aspirin may potentiate this risk of bleeding.
+Altered anticoagulant effects, including increased bleeding, have been reported when SSRIs or SNRIs are coadministered with warfarin.
 Patients receiving warfarin therapy should be carefully monitored when paroxetine is initiated or discontinued.
 
 ### Alcohol
@@ -408,12 +408,12 @@ Although paroxetine tablets do not increase the impairment of mental and motor s
 ### Lithium
 
 A multiple-dose study has shown that there is no pharmacokinetic interaction between paroxetine tablets and lithium carbonate.
-However, due to the potential for serotonin syndrome, caution is advised when paroxetine tablets are co-administered with lithium.
+However, due to the potential for serotonin syndrome, caution is advised when paroxetine tablets are coadministered with lithium.
 
 ### Digoxin
 
-The steady-state pharmacokinetics of paroxetine was not altered when administered with digoxin at steady-state.
-Mean digoxin AUC at steady-state decreased by 15% in the presence of paroxetine.
+The steady-state pharmacokinetics of paroxetine was not altered when administered with digoxin at steady state.
+Mean digoxin AUC at steady state decreased by 15% in the presence of paroxetine.
 Since there is little clinical experience, the concurrent administration of paroxetine and digoxin should be undertaken with caution.
 
 ### Diazepam
@@ -423,13 +423,13 @@ The effects of paroxetine on diazepam were not evaluated.
 
 ### Procyclidine
 
-Daily oral dosing of paroxetine tablets (30 mg once daily) increased steady-state AUC0-24, Cmax, and Cmin values of procyclidine (5 mg oral once daily) by 35%, 37%, and 67%, respectively, compared to procyclidine alone at steady-state.
+Daily oral dosing of paroxetine tablets (30 mg once daily) increased steady-state AUC0-24, Cmax, and Cmin values of procyclidine (5 mg oral once daily) by 35%, 37%, and 67%, respectively, compared to procyclidine alone at steady state.
 If anticholinergic effects are seen, the dose of procyclidine should be reduced.
 
 ### Beta-Blockers
 
 In a study where propranolol (80 mg twice daily) was dosed orally for 18 days, the established steady-state plasma concentrations of propranolol were unaltered during co-administration with paroxetine tablets (30 mg once daily) for the final 10 days.
-The effects of propranolol on paroxetine have not been evaluated (see ADVERSE REACTIONS: Post-Marketing Reports).
+The effects of propranolol on paroxetine have not been evaluated (see ADVERSE REACTIONS: Postmarketing Reports).
 
 ### Theophylline
 
@@ -449,9 +449,9 @@ There are no clinical studies of the combined use of ECT and paroxetine tablets.
 
 ### Carcinogenesis
 
-Two year carcinogenicity studies were conducted in rodents given paroxetine in the diet at 1 mg/kg/day, 5 mg/kg/day, and 25 mg/kg/day (mice) and 1 mg/kg/day, 5 mg/kg/day, and 20 mg/kg/day (rats).
-These doses are up to 2.4 (mouse) and 3.9 (rat) times the MRHD for major depressive disorder, social anxiety disorder, and GAD on a mg/m2basis.
-Because the MRHD for major depressive disorder is slightly less than that for OCD (50 mg vs. 60 mg), the doses used in these carcinogenicity studies were only 2.0 (mouse) and 3.2 (rat) times the MRHD for OCD.
+Two year carcinogenicity studies were conducted in rodents given paroxetine in the diet at 1, 5, and 25 mg/kg/day (mice) and 1, 5, and 20 mg/kg/day (rats).
+These doses are up to 2.4 (mouse) and 3.9 (rat) times the MRHD for major depressive disorder, social anxiety disorder, GAD, and PTSD on a mg/m2basis.
+Because the MRHD for major depressive disorder is slightly less than that for OCD (50 mg versus 60 mg), the doses used in these carcinogenicity studies were only 2.0 (mouse) and 3.2 (rat) times the MRHD for OCD.
 There was a significantly greater number of male rats in the high-dose group with reticulum cell sarcomas (1/100, 0/50, 0/50, and 4/50 for control, low-, middle-, and high-dose groups, respectively) and a significantly increased linear trend across dose groups for the occurrence of lymphoreticular tumors in male rats.
 Female rats were not affected.
 Although there was a dose-related increase in the number of tumors in mice, there was no drug-related increase in the number of mice with tumors.
@@ -465,7 +465,7 @@ Paroxetine produced no genotoxic effects in a battery of 5 in vitro and 2 in viv
 
 Some clinical studies have shown that SSRIs (including paroxetine) may affect sperm quality during SSRI treatment, which may affect fertility in some men.
 
-A reduced pregnancy rate was found in reproduction studies in rats at a dose of paroxetine of 15 mg/kg/day, which is 2.9 times the MRHD for major depressive disorder, social anxiety disorder, and GAD or 2.4 times the MRHD for OCD on a mg/m2 basis.
+A reduced pregnancy rate was found in reproduction studies in rats at a dose of paroxetine of 15 mg/kg/day, which is 2.9 times the MRHD for major depressive disorder, social anxiety disorder, GAD, and PTSD or 2.4 times the MRHD for OCD on a mg/m2 basis.
 Irreversible lesions occurred in the reproductive tract of male rats after dosing in toxicity studies for 2 to 52 weeks.
 These lesions consisted of vacuolation of epididymal tubular epithelium at 50 mg/kg/day and atrophic changes in the seminiferous tubules of the testes with arrested spermatogenesis at 25 mg/kg/day (9.8 and 4.9 times the MRHD for major depressive disorder, social anxiety disorder, and GAD; 8.2 and 4.1 times the MRHD for OCD and PD on a mg/m2 basis).
 
@@ -497,7 +497,7 @@ Events reported upon discontinuation of treatment with paroxetine tablets in the
 
 ## Geriatric Use
 
-SSRIs and SNRIs, including paroxetine tablets, have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse event (see PRECAUTIONS:Hyponatremia).
+SSRIs and SNRIs, including paroxetine tablets, have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse event (see PRECAUTIONS: Hyponatremia).
 
 In worldwide premarketing clinical trials with paroxetine tablets, 17% of patients treated with paroxetine tablets (approximately 700) were 65 years of age or older.
 Pharmacokinetic studies revealed a decreased clearance in the elderly, and a lower starting dose is recommended; there were, however, no overall differences in the adverse event profile between elderly and younger patients, and effectiveness was similar in younger and older patients (see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION).

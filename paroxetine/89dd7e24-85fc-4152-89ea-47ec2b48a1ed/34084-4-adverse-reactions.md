@@ -2,33 +2,33 @@
 
 ## Associated With Discontinuation of Treatment
 
-Twenty percent (1,199/6,145) of patients treated with paroxetine tablets in worldwide clinical trials in major depressive disorder and 16.1% (84/522), 11.8% (64/542), 9.4% (44/469), and 10.7% (79/735) of patients treated with paroxetine tablets in worldwide trials in social anxiety disorder, OCD, panic disorder, and GAD, respectively, discontinued treatment due to an adverse event.
-The most common events (≥ 1%) associated with discontinuation and considered to be drug-related (i.e., those events associated with dropout at a rate approximately twice or greater for paroxetine tablets compared to placebo) included the following:
+Twenty percent (1,199/6,145) of patients treated with paroxetine tablets in worldwide clinical trials in major depressive disorder and 16.1% (84/522), 11.8% (64/542), 9.4% (44/469), 10.7% (79/735), and 11.7% (79/676) of patients treated with paroxetine tablets in worldwide trials in social anxiety disorder, OCD, panic disorder, GAD, and PTSD, respectively, discontinued treatment due to an adverse event.
+The most common events (≥ 1%) associated with discontinuation and considered to be drug related (i.e., those events associated with dropout at a rate approximately twice or greater for paroxetine tablets compared to placebo) included the following:
 
-|  | Major Depressive Disorder |  | OCD |  | Panic Disorder |  | Social Anxiety Disorder |  | Generalized Anxiety Disorder |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Paroxetine Tablets | Placebo | Paroxetine Tablets | Placebo | Paroxetine Tablets | Placebo | Paroxetine Tablets | Placebo | Paroxetine Tablets | Placebo |  |
-| CNS |  |  |  |  |  |  |  |  |  |  |
-| Somnolence | 2.3% | 0.7% | - |  | 1.9% | 0.3% | 3.4% | 0.3% | 2.0% | 0.2% |
-| Insomnia | - | - | 1.7% | 0% | 1.3% | 0.3% | 3.1% | 0% |  |  |
-| Agitation | 1.1% | 0.5% | - |  |  |  |  |  |  |  |
-| Tremor | 1.1% | 0.3% | - |  |  |  | 1.7% | 0% |  |  |
-| Anxiety | - | - | - |  |  |  | 1.1% | 0% |  |  |
-| Dizziness | - | - | 1.5% | 0% |  |  | 1.9% | 0% | 1.0% | 0.2% |
-| Gastrointestinal |  |  |  |  |  |  |  |  |  |  |
-| Constipation | - |  | 1.1% | 0% |  |  |  |  |  |  |
-| Nausea | 3.2% | 1.1% | 1.9% | 0% | 3.2% | 1.2% | 4.0% | 0.3% | 2.0% | 0.2% |
-| Diarrhea | 1.0% | 0.3% | - |  |  |  |  |  |  |  |
-| Dry mouth | 1.0% | 0.3% | - |  |  |  |  |  |  |  |
-| Vomiting | 1.0% | 0.3% | - |  |  |  | 1.0% | 0% |  |  |
-| Flatulence |  |  |  |  |  |  | 1.0% | 0.3% |  |  |
-| Other |  |  |  |  |  |  |  |  |  |  |
-| Asthenia | 1.6% | 0.4% | 1.9% | 0.4% |  |  | 2.5% | 0.6% | 1.8% | 0.2% |
-| Abnormal ejaculationIncidence corrected for gender. | 1.6% | 0% | 2.1% | 0% |  |  | 4.9% | 0.6% | 2.5% | 0.5% |
-| Sweating | 1.0% | 0.3% | - |  |  |  | 1.1% | 0% | 1.1% | 0.2% |
-| Impotence | - |  | 1.5% | 0% |  |  |  |  |  |  |
-| Libido Decreased |  |  |  |  |  |  | 1.0% | 0% |  |  |
-| Where numbers are not provided the incidence of the adverse events in patients treated with paroxetine tablets were not > 1% or was not greater than or equal to 2 times the incidence of placebo. |  |  |  |  |  |  |  |  |  |  |
+|  | Major Depressive Disorder |  | OCD |  | Panic Disorder |  | Social Anxiety Disorder |  | Generalized Anxiety Disorder |  | PTSD |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Paroxetine Tablets | Placebo | Paroxetine Tablets | Placebo | Paroxetine Tablets | Placebo | Paroxetine Tablets | Placebo | Paroxetine Tablets | Placebo | Paroxetine Tablets | Placebo |  |
+| CNS |  |  |  |  |  |  |  |  |  |  |  |  |
+| Somnolence | 2.3% | 0.7% | - |  | 1.9% | 0.3% | 3.4% | 0.3% | 2.0% | 0.2% | 2.8% | 0.6% |
+| Insomnia | - | - | 1.7% | 0% | 1.3% | 0.3% | 3.1% | 0% |  |  |  |  |
+| Agitation | 1.1% | 0.5% | - |  |  |  |  |  |  |  |  |  |
+| Tremor | 1.1% | 0.3% | - |  |  |  | 1.7% | 0% |  |  | 1.0% | 0.2% |
+| Anxiety | - | - | - |  |  |  | 1.1% | 0% |  |  |  |  |
+| Dizziness | - | - | 1.5% | 0% |  |  | 1.9% | 0% | 1.0% | 0.2% |  |  |
+| Gastrointestinal |  |  |  |  |  |  |  |  |  |  |  |  |
+| Constipation | - |  | 1.1% | 0% |  |  |  |  |  |  |  |  |
+| Nausea | 3.2% | 1.1% | 1.9% | 0% | 3.2% | 1.2% | 4.0% | 0.3% | 2.0% | 0.2% | 2.2% | 0.6% |
+| Diarrhea | 1.0% | 0.3% | - |  |  |  |  |  |  |  |  |  |
+| Dry mouth | 1.0% | 0.3% | - |  |  |  |  |  |  |  |  |  |
+| Vomiting | 1.0% | 0.3% | - |  |  |  | 1.0% | 0% |  |  |  |  |
+| Flatulence |  |  |  |  |  |  | 1.0% | 0.3% |  |  |  |  |
+| Other |  |  |  |  |  |  |  |  |  |  |  |  |
+| Asthenia | 1.6% | 0.4% | 1.9% | 0.4% |  |  | 2.5% | 0.6% | 1.8% | 0.2% | 1.6% | 0.2% |
+| Abnormal ejaculationIncidence corrected for gender. | 1.6% | 0% | 2.1% | 0% |  |  | 4.9% | 0.6% | 2.5% | 0.5% |  |  |
+| Sweating | 1.0% | 0.3% | - |  |  |  | 1.1% | 0% | 1.1% | 0.2% |  |  |
+| Impotence | - |  | 1.5% | 0% |  |  |  |  |  |  |  |  |
+| Libido Decreased |  |  |  |  |  |  | 1.0% | 0% |  |  |  |  |
+| Where numbers are not provided the incidence of the adverse events in patients treated with paroxetine tablets were not > 1% or was not greater than or equal to 2 times the incidence of placebo. |  |  |  |  |  |  |  |  |  |  |  |  |
 
 ## Commonly Observed Adverse Events
 
@@ -51,6 +51,10 @@ The most commonly observed adverse events associated with the use of paroxetine 
 ## Generalized Anxiety Disorder
 
 The most commonly observed adverse events associated with the use of paroxetine (incidence of 5% or greater and incidence for paroxetine tablets at least twice that for placebo, derived from Table 4) were: Asthenia, infection, constipation, decreased appetite, dry mouth, nausea, libido decreased, somnolence, tremor, sweating, and abnormal ejaculation.
+
+## Posttraumatic Stress Disorder
+
+The most commonly observed adverse events associated with the use of paroxetine (incidence of 5% or greater and incidence for paroxetine tablets at least twice that for placebo, derived from Table 4) were: Asthenia, sweating, nausea, dry mouth, diarrhea, decreased appetite, somnolence, libido decreased, abnormal ejaculation, female genital disorders, and impotence.
 
 ## Incidence in Controlled Clinical Trials
 
@@ -162,48 +166,49 @@ Treatment-Emergent Adverse Experience Incidence in Placebo-Controlled Clinical T
 |  | Urination Impaired | 3% | 0 | - | - | - | - |
 |  | Urinary Tract Infection | 2% | 1% | 2% | 1% | - | - |
 
-## Generalized Anxiety Disorder
+## Generalized Anxiety Disorder and Posttraumatic Stress Disorder
 
-Table 4 enumerates adverse events that occurred at a frequency of 2% or more among GAD patients on paroxetine tablets who participated in placebo-controlled trials of 8-weeks duration in which patients were dosed in a range of 10 mg/day to 50 mg/day.
+Table 4 enumerates adverse events that occurred at a frequency of 2% or more among GAD patients on paroxetine tablets who participated in placebo-controlled trials of 8-weeks duration in which patients were dosed in a range of 10 mg/day to 50 mg/day or among PTSD patients on paroxetine tablets who participated in placebo-controlled trials of 12-weeks duration in which patients were dosed in a range of 20 mg/day to 50 mg/day.
 
 Table 4.
-Treatment-Emergent Adverse Experience Incidence in Placebo-Controlled Clinical Trials for Generalized Anxiety DisorderEvents reported by at least 2% of GAD in patients treated with paroxetine tablets are included, except the following events which had an incidence on placebo ≥ paroxetine tablets [GAD]: Abdominal pain, back pain, trauma, dyspepsia, myalgia, and pharyngitis.
+Treatment-Emergent Adverse Experience Incidence in Placebo-Controlled Clinical Trials for Generalized Anxiety Disorder and Posttraumatic Stress DisorderEvents reported by at least 2% of GAD and PTSD in patients treated with paroxetine tablets are included, except the following events which had an incidence on placebo ≥ paroxetine tablets [GAD]: Abdominal pain, back pain, trauma, dyspepsia, myalgia, and pharyngitis.
+[PTSD]: Back pain, headache, anxiety, depression, nervousness, respiratory disorder, pharyngitis, and sinusitis.
 
-| Body System | Preferred Term | Generalized Anxiety Disorder |  |
-| --- | --- | --- | --- |
-| Paroxetine Tablets (n = 735) | Placebo (n = 529) |  |  |
-| Body as a Whole | Asthenia | 14% | 6% |
-|  | Headache | 17% | 14% |
-|  | Infection | 6% | 3% |
-|  | Abdominal Pain | - | - |
-|  | Trauma | - | - |
-| Cardiovascular | Vasodilation | 3% | 1% |
-| Dermatologic | Sweating | 6% | 2% |
-| Gastrointestinal | Nausea | 20% | 5% |
-|  | Dry Mouth | 11% | 5% |
-|  | Constipation | 10% | 2% |
-|  | Diarrhea | 9% | 7% |
-|  | Decreased Appetite | 5% | 1% |
-|  | Vomiting | 3% | 2% |
-|  | Dyspepsia | - | - |
-| Nervous System | Insomnia | 11% | 8% |
-|  | Somnolence | 15% | 5% |
-|  | Dizziness | 6% | 5% |
-|  | Tremor | 5% | 1% |
-|  | Nervousness | 4% | 3% |
-|  | Libido Decreased | 9% | 2% |
-|  | Abnormal Dreams | - | - |
-| Respiratory System | Respiraoty Disorder | 7% | 5% |
-|  | Sinusitis | 4% | 3% |
-|  | Yawn | 4% | - |
-| Special Senses | Abnormal Vision | 2% | 1% |
-| Urogenital System | Abnormal EjaculationPercentage corrected for gender. | 25% | 2% |
-|  | Femal Genital Disorder | 4% | 1% |
-|  | Impotence | 4% | 3% |
+| Body System | Preferred Term | Generalized Anxiety Disorder |  | Posttraumatic Stress Disorder |  |
+| --- | --- | --- | --- | --- | --- |
+| Paroxetine Tablets (n = 735) | Placebo (n = 529) | Paroxetine Tablets(n = 676) | Placebo(n = 504) |  |  |
+| Body as a Whole | Asthenia | 14% | 6% | 12% | 4% |
+|  | Headache | 17% | 14% | - | - |
+|  | Infection | 6% | 3% | 5% | 4% |
+|  | Abdominal Pain | - | - | 4% | 3% |
+|  | Trauma | - | - | 6% | 5% |
+| Cardiovascular | Vasodilation | 3% | 1% | 2% | 1% |
+| Dermatologic | Sweating | 6% | 2% | 5% | 1% |
+| Gastrointestinal | Nausea | 20% | 5% | 19% | 8% |
+|  | Dry Mouth | 11% | 5% | 10% | 5% |
+|  | Constipation | 10% | 2% | 5% | 3% |
+|  | Diarrhea | 9% | 7% | 11% | 5% |
+|  | Decreased Appetite | 5% | 1% | 6% | 3% |
+|  | Vomiting | 3% | 2% | 3% | 2% |
+|  | Dyspepsia | - | - | 5% | 3% |
+| Nervous System | Insomnia | 11% | 8% | 12% | 11% |
+|  | Somnolence | 15% | 5% | 16% | 5% |
+|  | Dizziness | 6% | 5% | 6% | 5% |
+|  | Tremor | 5% | 1% | 4% | 1% |
+|  | Nervousness | 4% | 3% | - | - |
+|  | Libido Decreased | 9% | 2% | 5% | 2% |
+|  | Abnormal Dreams | - | - | 3% | 2% |
+| Respiratory System | Respiraoty Disorder | 7% | 5% | - | - |
+|  | Sinusitis | 4% | 3% | - | - |
+|  | Yawn | 4% | - | 2% | < 1% |
+| Special Senses | Abnormal Vision | 2% | 1% | 3% | 1% |
+| Urogenital System | Abnormal EjaculationPercentage corrected for gender. | 25% | 2% | 13% | 2% |
+|  | Femal Genital Disorder | 4% | 1% | 5% | 1% |
+|  | Impotence | 4% | 3% | 9% | 1% |
 
 ## Dose Dependency of Adverse Events
 
-A comparison of adverse event rates in a fixed-dose study comparing 10 mg/day, 20 mg/day, 30 mg/day, and 40 mg/day of paroxetine tablets with placebo in the treatment of major depressive disorder revealed a clear dose dependency for some of the more common adverse events associated with use of paroxetine tablets, as shown in Table 5:
+A comparison of adverse event rates in a fixed-dose study comparing 10, 20, 30, and 40 mg/day of paroxetine tablets with placebo in the treatment of major depressive disorder revealed a clear dose dependency for some of the more common adverse events associated with use of paroxetine tablets, as shown in Table 5:
 
 Table 5.
 Treatment-Emergent Adverse Experience Incidence in a Dose-Comparison Trial in the Treatment of Major Depressive DisorderRule for including adverse events in table: Incidence at least 5% for 1 of paroxetine groups and ≥ twice the placebo incidence for at least 1 paroxetine group.
@@ -235,15 +240,17 @@ Treatment-Emergent Adverse Experience Incidence in a Dose-Comparison Trial in th
 | Impotence | 0.0% | 1.9% | 4.3% | 6.4% | 1.9% |
 | Male Genital Disorders | 0.0% | 3.8% | 8.7% | 6.4% | 3.7% |
 
-In a fixed-dose study comparing placebo and 20 mg, 40 mg, and 60 mg of paroxetine tablets in the treatment of OCD, there was no clear relationship between adverse events and the dose of paroxetine tablets to which patients were assigned.
+In a fixed-dose study comparing placebo and 20, 40, and 60 mg of paroxetine tablets in the treatment of OCD, there was no clear relationship between adverse events and the dose of paroxetine tablets to which patients were assigned.
 No new adverse events were observed in the group treated with 60 mg of paroxetine tablets compared to any of the other treatment groups.
 
-In a fixed-dose study comparing placebo and 10 mg, 20 mg, and 40 mg of paroxetine tablets in the treatment of panic disorder, there was no clear relationship between adverse events and the dose of paroxetine tablets to which patients were assigned, except for asthenia, dry mouth, anxiety, libido decreased, tremor, and abnormal ejaculation.
+In a fixed-dose study comparing placebo and 10, 20, and 40 mg of paroxetine tablets in the treatment of panic disorder, there was no clear relationship between adverse events and the dose of paroxetine tablets to which patients were assigned, except for asthenia, dry mouth, anxiety, libido decreased, tremor, and abnormal ejaculation.
 In flexible-dose studies, no new adverse events were observed in patients receiving 60 mg of paroxetine tablets compared to any of the other treatment groups.
 
-In a fixed-dose study comparing placebo and 20 mg, 40 mg, and 60 mg of paroxetine tablets in the treatment of social anxiety disorder, for most of the adverse events, there was no clear relationship between adverse events and the dose of paroxetine tablets to which patients were assigned.
+In a fixed-dose study comparing placebo and 20, 40, and 60 mg of paroxetine tablets in the treatment of social anxiety disorder, for most of the adverse events, there was no clear relationship between adverse events and the dose of paroxetine tablets to which patients were assigned.
 
-In a fixed-dose study comparing placebo and 20 mg and 40 mg of paroxetine tablets in the treatment of generalized anxiety disorder, for most of the adverse events, there was no clear relationship between adverse events and the dose of paroxetine tablets to which patients were assigned, except for the following adverse events: Asthenia, constipation, and abnormal ejaculation.
+In a fixed-dose study comparing placebo and 20 and 40 mg of paroxetine tablets in the treatment of generalized anxiety disorder, for most of the adverse events, there was no clear relationship between adverse events and the dose of paroxetine tablets to which patients were assigned, except for the following adverse events: Asthenia, constipation, and abnormal ejaculation.
+
+In a fixed-dose study comparing placebo and 20 and 40 mg of paroxetine tablets in the treatment of posttraumatic stress disorder, for most of the adverse events, there was no clear relationship between adverse events and the dose of paroxetine tablets to which patients were assigned, except for impotence and abnormal ejaculation.
 
 ### Adaptation to Certain Adverse Events
 
@@ -257,7 +264,7 @@ In particular, some evidence suggests that selective serotonin reuptake inhibito
 Reliable estimates of the incidence and severity of untoward experiences involving sexual desire, performance, and satisfaction are difficult to obtain, however, in part because patients and physicians may be reluctant to discuss them.
 Accordingly, estimates of the incidence of untoward sexual experience and performance cited in product labeling, are likely to underestimate their actual incidence.
 
-In placebo-controlled clinical trials involving more than 3,200 patients, the ranges for the reported incidence of sexual side effects in males and females with major depressive disorder, OCD, panic disorder, social anxiety disorder, and GAD are displayed in Table 6.
+In placebo-controlled clinical trials involving more than 3,200 patients, the ranges for the reported incidence of sexual side effects in males and females with major depressive disorder, OCD, panic disorder, social anxiety disorder, GAD, and PTSD are displayed in Table 6.
 
 Table 6.
 Incidence of Sexual Adverse Events in Controlled Clinical Trials
@@ -265,12 +272,12 @@ Incidence of Sexual Adverse Events in Controlled Clinical Trials
 |  | Paroxetine Tablets | Placebo |
 | --- | --- | --- |
 | n (males) | 1446 | 1042 |
-| Decreased Libido | 6% to 15% | 0% to 5% |
-| Ejaculatory Disturbance | 13% to 28% | 0% to 2% |
-| Impotence | 2% to 9% | 0% to 3% |
+| Decreased Libido | 6%-15% | 0%-5% |
+| Ejaculatory Disturbance | 13%-28% | 0%-2% |
+| Impotence | 2%-9% | 0%-3% |
 | n (females) | 1822 | 1340 |
-| Decreased Libido | 0% to 9% | 0% to 2% |
-| Orgasmic Disturbance | 2% to 9% | 0% to 1% |
+| Decreased Libido | 0%-9% | 0%-2% |
+| Orgasmic Disturbance | 2%-9% | 0%-1% |
 
 There are no adequate and well-controlled studies examining sexual dysfunction with paroxetine treatment.
 
@@ -291,17 +298,17 @@ In an analysis of ECGs obtained in 682 patients treated with paroxetine tablets 
 ### Liver Function Tests
 
 In placebo-controlled clinical trials, patients treated with paroxetine tablets exhibited abnormal values on liver function tests at no greater rate than that seen in placebo-treated patients.
-In particular, the paroxetine tablets vs. placebo comparisons for alkaline phosphatase, SGOT, SGPT, and bilirubin revealed no differences in the percentage of patients with marked abnormalities.
+In particular, the paroxetine tablets versus placebo comparisons for alkaline phosphatase, SGOT, SGPT, and bilirubin revealed no differences in the percentage of patients with marked abnormalities.
 
 ### Hallucinations
 
-In pooled clinical trials of immediate-release paroxetine hydrochloride, hallucinations were observed in 22 of 9,089 patients receiving drug and 4 of 3,187 patients receiving placebo.
+In pooled clinical trials of immediate-release paroxetine hydrochloride, hallucinations were observed in 22 of 9089 patients receiving drug and 4 of 3187 patients receiving placebo.
 
 ## Other Events Observed During the Premarketing Evaluation of Paroxetine Tablets
 
 During its premarketing assessment in major depressive disorder, multiple doses of paroxetine tablets were administered to 6,145 patients in phase 2 and 3 studies.
 The conditions and duration of exposure to paroxetine tablets varied greatly and included (in overlapping categories) open and double-blind studies, uncontrolled and controlled studies, inpatient and outpatient studies, and fixed-dose, and titration studies.
-During premarketing clinical trials in OCD, panic disorder, social anxiety disorder, and generalized anxiety disorder, 542, 469, 522, and 735 patients, respectively, received multiple doses of paroxetine tablets.
+During premarketing clinical trials in OCD, panic disorder, social anxiety disorder, generalized anxiety disorder, and posttraumatic stress disorder, 542, 469, 522, 735, and 676 patients, respectively, received multiple doses of paroxetine tablets.
 Untoward events associated with this exposure were recorded by clinical investigators using terminology of their own choosing.
 Consequently, it is not possible to provide a meaningful estimate of the proportion of individuals experiencing adverse events without first grouping similar types of untoward events into a smaller number of standardized event categories.
 
@@ -337,8 +344,8 @@ Special Senses: Frequent: Tinnitus; Infrequent: Abnormality of accommodation, co
 
 Urogenital System: Infrequent: Amenorrhea, breast pain, cystitis, dysuria, hematuria, menorrhagia, nocturia, polyuria, pyuria, urinary incontinence, urinary retention, urinary urgency, vaginitis; Rare: Abortion, breast atrophy, breast enlargement, endometrial disorder, epididymitis, female lactation, fibrocystic breast, kidney calculus, kidney pain, leukorrhea, mastitis, metrorrhagia, nephritis, oliguria, salpingitis, urethritis, urinary casts, uterine spasm, urolith, vaginal hemorrhage, vaginal moniliasis
 
-## Post-Marketing Reports
+## Postmarketing Reports
 
 Voluntary reports of adverse events in patients taking paroxetine tablets that have been received since market introduction and not listed above that may have no causal relationship with the drug include acute pancreatitis, elevated liver function tests (the most severe cases were deaths due to liver necrosis, and grossly elevated transaminases associated with severe liver dysfunction), Guillain-Barré syndrome, Stevens-Johnson syndrome, toxic epidermal necrolysis, priapism, syndrome of inappropriate ADH secretion, symptoms suggestive of prolactinemia and galactorrhea; extrapyramidal symptoms which have included akathisia, bradykinesia, cogwheel rigidity, dystonia, hypertonia, oculogyric crisis which has been associated with concomitant use of pimozide; tremor and trismus; status epilepticus, acute renal failure, pulmonary hypertension, allergic alveolitis, anaphylaxis, eclampsia, laryngismus, optic neuritis, porphyria, restless legs syndrome (RLS), ventricular fibrillation, ventricular tachycardia (including torsades de pointes), thrombocytopenia, hemolytic anemia, events related to impaired hematopoiesis (including aplastic anemia, pancytopenia, bone marrow aplasia, and agranulocytosis), vasculitic syndromes (such as Henoch-Schönlein purpura), and premature births in pregnant women.
-There has been a case report of an elevated phenytoin level after 4 weeks of paroxetine tablets and phenytoin co-administration.
+There has been a case report of an elevated phenytoin level after 4 weeks of paroxetine tablets and phenytoin coadministration.
 There has been a case report of severe hypotension when paroxetine tablets were added to chronic metoprolol treatment.

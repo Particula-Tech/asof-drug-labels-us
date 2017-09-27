@@ -16,14 +16,14 @@ NDC 0378-7002-93 bottles of 30 tablets
 
 NDC 0378-7002-10 bottles of 1000 tablets
 
-The 30 mg tablets are blue, film-coated, round, unscored tablets debossed with M over N3 on one side of the tablet andblank on the other side.
+The 30 mg tablets are blue, film-coated, round, unscored tablets debossed with M over N3 on one side of the tablet and blank on the other side.
 They are available as follows:
 
 NDC 0378-7003-93 bottles of 30 tablets
 
 NDC 0378-7003-10 bottles of 1000 tablets
 
-The 40 mg tablets are blue, film-coated, round, unscored tablets debossed with M over N4 on one side of the tablet andblank on the other side.
+The 40 mg tablets are blue, film-coated, round, unscored tablets debossed with M over N4 on one side of the tablet and blank on the other side.
 They are available as follows:
 
 NDC 0378-7004-93 bottles of 30 tablets

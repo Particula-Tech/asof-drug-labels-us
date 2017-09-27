@@ -15,7 +15,7 @@ Nevertheless, the physician who elects to use paroxetine tablets for extended pe
 ## Obsessive Compulsive Disorder
 
 Paroxetine tablets are indicated for the treatment of obsessions and compulsions in patients with obsessive compulsive disorder (OCD) as defined in the DSM-IV.
-The obsessions or compulsions cause marked distress, are time consuming, or significantly interfere with social or occupational functioning.
+The obsessions or compulsions cause marked distress, are time-consuming, or significantly interfere with social or occupational functioning.
 
 The efficacy of paroxetine tablets was established in two 12-week trials with obsessive compulsive outpatients whose diagnoses corresponded most closely to the DSM-IIIR category of obsessive compulsive disorder (see CLINICAL PHARMACOLOGY: Clinical Trials).
 
@@ -66,3 +66,16 @@ It must be associated with at least 3 of the following 6 symptoms: Restlessness 
 
 The efficacy of paroxetine tablets in maintaining a response in patients with Generalized Anxiety Disorder, who responded during an 8-week acute treatment phase while taking paroxetine tablets and were then observed for relapse during a period of up to 24 weeks, was demonstrated in a placebo-controlled trial (see CLINICAL PHARMACOLOGY: Clinical Trials).
 Nevertheless, the physician who elects to use paroxetine tablets for extended periods should periodically re-evaluate the long-term usefulness of the drug for the individual patient (see DOSAGE AND ADMINISTRATION).
+
+## Posttraumatic Stress Disorder
+
+Paroxetine tablets are indicated for the treatment of Posttraumatic Stress Disorder (PTSD).
+
+The efficacy of paroxetine tablets in the treatment of PTSD was established in two 12-week placebo-controlled trials in adults with PTSD (DSM-IV) (see CLINICAL PHARMACOLOGY: Clinical Trials).
+
+PTSD, as defined by DSM-IV, requires exposure to a traumatic event that involved actual or threatened death or serious injury, or threat to the physical integrity of self or others, and a response that involves intense fear, helplessness, or horror.
+Symptoms that occur as a result of exposure to the traumatic event include reexperiencing of the event in the form of intrusive thoughts, flashbacks, or dreams, and intense psychological distress and physiological reactivity on exposure to cues to the event; avoidance of situations reminiscent of the traumatic event, inability to recall details of the event, and/or numbing of general responsiveness manifested as diminished interest in significant activities, estrangement from others, restricted range of affect, or sense of foreshortened future; and symptoms of autonomic arousal including hypervigilance, exaggerated startle response, sleep disturbance, impaired concentration, and irritability or outbursts of anger.
+A PTSD diagnosis requires that the symptoms are present for at least a month and that they cause clinically significant distress or impairment in social, occupational, or other important areas of functioning.
+
+The efficacy of paroxetine tablets in longer-term treatment of PTSD, i.e., for more than 12 weeks, has not been systematically evaluated in placebo-controlled trials.
+Therefore, the physician who elects to prescribe paroxetine tablets for extended periods should periodically re-evaluate the long-term usefulness of the drug for the individual patient (see DOSAGE AND ADMINISTRATION).

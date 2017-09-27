@@ -114,6 +114,7 @@ Paroxetine tablets are also used to treat:
 - •Panic Disorder
 - •Social Anxiety Disorder
 - •Generalized Anxiety Disorder (GAD)
+- •Posttraumatic Stress Disorder (PTSD)
 
 Talk to your healthcare provider if you do not think that your condition is getting better with treatment using paroxetine tablets.
 
@@ -251,4 +252,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Revised: 1/2017 PXTT:R11mh
+Revised: 8/2017 PXTT:R12mh/MG:PXTT:R6mh
