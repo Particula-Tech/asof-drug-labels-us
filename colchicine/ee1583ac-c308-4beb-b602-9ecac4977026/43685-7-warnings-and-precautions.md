@@ -15,7 +15,7 @@ Because colchicine is a substrate for both the CYP3A4 metabolizing enzyme and th
 Inhibition of both CYP3A4 and P-gp by dual inhibitors such as clarithromycin has been reported to produce life-threatening or fatal colchicine toxicity due to significant increases in systemic colchicine levels.
 Therefore, concomitant use of colchicine capsules and inhibitors of CYP3A4 or P-glycoprotein should be avoided [See Drug Interactions (7)].
 If avoidance is not possible, reduced daily dose should be considered and the patient should be monitored closely for colchicine toxicity.
-Use of colchicine capsules in conjunction with drugs that inhibit both P-gp and CYP3A4 is contraindicated in patients with renal or hepatic impairment [See Contraindications (4)].
+Use of colchicine capsules in conjunction with drugs that inhibit both P-gp and CYP3A4 is contraindicated in patients with renal or hepatic impairment [See Contraindications(4)].
 
 ## 5.4 Neuromuscular Toxicity
 

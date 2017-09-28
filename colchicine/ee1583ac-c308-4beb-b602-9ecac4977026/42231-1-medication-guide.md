@@ -1,4 +1,6 @@
-Medication Guide Colchicine Capsules
+Medication Guide
+
+Colchicine Capsules
 
 What is the most important information I should know about colchicine capsules?
 
@@ -37,8 +39,7 @@ Before you take colchicine capsules, tell your healthcare provider:
   It is not known if colchicine capsules can harm your unborn baby.
   Talk to your healthcare provider if you are pregnant or plan to become pregnant.
 - if you are breastfeeding or plan to breastfeed.
-  Colchicine can pass into your breast milk and may harm your baby.
-  Talk to your healthcare provider about the best way to feed your baby if you take colchicine capsules.
+  Colchicine can pass into your breast milk and may harm your baby.Talk to your healthcare provider about the best way to feed your baby if you take colchicine capsules.
 
 Tell your healthcare provider about all the medicines you take, including prescription, over-the-counter medicines, vitamins, or herbal supplements.
 
@@ -46,7 +47,11 @@ Tell your healthcare provider about all the medicines you take, including prescr
 - Do not take colchicine capsules with other medicines unless your healthcare provider tells you to.
 - Know the medicines you take.
   Keep a list of your medicines with you to show your healthcare provider and pharmacist each time you get a new medicine.
-- Especially tell your healthcare provider if you take: ° medicines that may affect how your liver works (CYP3A4 inhibitors) ° cyclosporine (Neoral®, Gengraf®, Sandimmune®) ° cholesterol lowering medicines ° antibiotics
+- Especially tell your healthcare provider if you take:
+  - medicines that may affect how your liver works (CYP3A4 inhibitors)
+  - cyclosporine (Neoral®, Gengraf®, Sandimmune®)
+  - cholesterol lowering medicines
+  - antibiotics
 
 Ask your healthcare provider or pharmacist if you are not sure if you take any of the medicines listed above.
 This is not a complete list of all the medicines that can affect colchicine capsules.

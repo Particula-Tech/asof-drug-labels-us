@@ -22,7 +22,7 @@ Distribution
 
 Colchicine has a mean apparent volume of distribution in healthy young volunteers of approximately 5 to 8 L/kg.
 Colchicine binding to serum protein is about 39%, primarily to albumin.
-Colchicine crosses the placenta and distributes into breast milk [See Pregnancy (8.1) and Nursing Mothers (8.3)].
+Colchicine crosses the placenta and distributes into breast milk [See Pregnancy (8.1)and Nursing Mothers (8.3)].
 
 Metabolism
 
@@ -66,4 +66,4 @@ However, based on published case reports that indicate the presence of colchicin
 
 Co-administration of colchicine capsules with propafenone (a P-gp inhibitor) at 225 mg BID for 5 days, in a pharmacokinetic study in healthy volunteers, did not cause any changes in systemic levels of colchicine.
 This indicates that propafenone can be administered with colchicine capsules without any dose adjustment.
-However, these results should not be extrapolated to other P-gp inhibitors as colchicine is known to be a substrate for P-gp and case reports of colchicine toxicity associated with the co-administration of P-gp inhibitors such as cyclosporine have been published.
+However, these results should not be extrapolated to other P-gp inhibitors as colchicine is known to be a substrate for P‑gp and case reports of colchicine toxicity associated with the co-administration of P-gp inhibitors such as cyclosporine have been published.
