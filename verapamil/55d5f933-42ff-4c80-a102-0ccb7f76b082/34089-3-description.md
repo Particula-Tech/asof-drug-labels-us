@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-CALAN (verapamil HCl) is a calcium ion influx inhibitor (slow-channel blocker or calcium ion antagonist) available for oral administration in film-coated tablets containing 40 mg, 80 mg, or 120 mg of verapamil hydrochloride.
+CALAN (verapamil HCl) is a calcium ion influx inhibitor (slow-channel blocker or calcium ion antagonist) available for oral administration in film-coated tablets containing 80 mg or 120 mg of verapamil hydrochloride.
 
 The structural formula of verapamil HCl is:
 
