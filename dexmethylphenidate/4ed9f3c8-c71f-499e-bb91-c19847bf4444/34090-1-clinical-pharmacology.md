@@ -8,7 +8,7 @@ The mode of therapeutic action in Attention Deficit Hyperactivity Disorder (ADHD
 
 ## 12.2 Pharmacodynamics
 
-Effects on QT Interval The effect of Dexmethylphenidate Hydrochloride Extended-release Capsules on the QT interval was evaluated in a double-blind, placebo- and open label active (moxifloxacin)-controlled study following single doses of Dexmethylphenidate Hydrochloride Extended-release Capsules 40 mg in 75 healthy volunteers.
+Effects on QT Interval The effect of Dexmethylphenidate Hydrochloride Extended-release Capsules on the QT interval was evaluated in a double-blind, placebo- and open-label active (moxifloxacin)-controlled study following single doses of Dexmethylphenidate Hydrochloride Extended-release Capsules 40 mg in 75 healthy volunteers.
 ECGs were collected up to 12 h post-dose.
 Frederica’s method for heart rate correction was employed to derive the corrected QT interval (QTcF).
 The maximum mean prolongation of QTcF intervals was <5 ms, and the upper limit of the 90% confidence interval was below 10 ms for all time matched comparisons versus placebo.
@@ -16,15 +16,15 @@ This was below the threshold of clinical concern and there was no evident-exposu
 
 ## 12.3 Pharmacokinetics
 
-Absorption Dexmethylphenidate Hydrochloride Extended-release Capsules produces a bi-modal plasma concentration-time profile (i.e., two distinct peaks approximately 4 hours apart) when orally administered to healthy adults.
-The initial rate of absorption for Dexmethylphenidate Hydrochloride Extended-release Capsules is similar to that of Dexmethylphenidate Hydrochloride Tablets as shown by the similar rate parameters between the two formulations, i.e., first peak concentration (Cmax1), and time to the first peak (tmax1), which is reached in 1½ hours (typical range 1-4 hours).
-The mean time to the interpeak minimum (tminip) is slightly shorter, and time to the second peak (tmax2) is slightly longer for Dexmethylphenidate Hydrochloride Extended-release Capsules given once daily (about 6.5 hours, range 4.5-7 hours) compared to Dexmethylphenidate Hydrochloride Tablets given in two doses 4 hours apart (see Figure 1), although the ranges observed are greater for Dexmethylphenidate Hydrochloride Extended-release Capsules.
-Dexmethylphenidate Hydrochloride Extended-release Capsules given once daily exhibits a lower second peak concentration (Cmax2), higher interpeak minimum concentrations (Cminip), and fewer peak and trough fluctuations than Dexmethylphenidate Hydrochloride Tablets given in two doses given 4 hours apart.
+Absorption Dexmethylphenidate Hydrochloride Extended-release Capsules produces a bi-modal plasma concentration-time profile (i.e., 2 distinct peaks approximately 4 hours apart) when orally administered to healthy adults.
+The initial rate of absorption for Dexmethylphenidate Hydrochloride Extended-release Capsules is similar to that of Dexmethylphenidate Hydrochloride Tablets as shown by the similar rate parameters between the 2 formulations, i.e., first peak concentration (Cmax1), and time to the first peak (tmax1), which is reached in 1.5 hours (typical range 1-4 hours).
+The mean time to the interpeak minimum (tminip) is slightly shorter, and time to the second peak (tmax2) is slightly longer forDexmethylphenidate Hydrochloride Extended-release Capsules given once daily (about 6.5 hours, range 4.5-7 hours) compared to Dexmethylphenidate Hydrochloride Tablets given in 2 doses 4 hours apart (see Figure 1), although the ranges observed are greater for Dexmethylphenidate Hydrochloride Extended-release Capsules.
+Dexmethylphenidate Hydrochloride Extended-release Capsules given once daily exhibits a lower second peak concentration (Cmax2), higher interpeak minimum concentrations (Cminip), and fewer peak and trough fluctuations than Dexmethylphenidate Hydrochloride Tablets given in 2 doses given 4 hours apart.
 This is due to an earlier onset and more prolonged absorption from the delayed-release beads (see Figure 1).
-The AUC (exposure) after administration of Dexmethylphenidate Hydrochloride Extended-release Capsules given once daily is equivalent to the same total dose of Dexmethylphenidate Hydrochloride Tablets given in two doses 4 hours apart.
+The AUC (exposure) after administration of Dexmethylphenidate Hydrochloride Extended-release Capsules given once daily is equivalent to the same total dose of Dexmethylphenidate Hydrochloride Tablets given in 2 doses 4 hours apart.
 The variability in Cmax, Cmin, and AUC is similar between Dexmethylphenidate Hydrochloride Extended-release and Dexmethylphenidate Hydrochloride Tablets with approximately a 3-fold range in each.
 Radiolabeled racemic methylphenidate is well absorbed after oral administration with approximately 90% of the radioactivity recovered in urine.
-However, due to first pass metabolism the mean absolute bioavailability of dexmethylphenidate when administered in various formulations was 22-25%.
+However, due to first pass metabolism the mean absolute bioavailability of dexmethylphenidate when administered in various formulations was 22%-25%.
 Figure 1.
 Mean Dexmethylphenidate Plasma Concentration-Time Profiles After Administration of 1 x 20 mg Dexmethylphenidate Hydrochloride Extended-release (n=24) Capsules and 2 x 10 mg Dexmethylphenidate Hydrochloride Tablets (n=25)
 
@@ -45,7 +45,7 @@ The results are expected not to differ for Dexmethylphenidate Hydrochloride Exte
 
 For patients unable to swallow the capsule, the contents may be sprinkled on applesauce and administered [see Dosage and Administration (2)].
 
-Distribution The plasma protein binding of dexmethylphenidate is not known; racemic methylphenidate is bound to plasma proteins by 12-15%, independent of concentration.
+Distribution The plasma protein binding of dexmethylphenidate is not known; racemic methylphenidate is bound to plasma proteins by 12%-15%, independent of concentration.
 Dexmethylphenidate shows a volume of distribution of 2.65±1.11 L/kg.
 Plasma dexmethylphenidate concentrations decline monophasically following oral administration of Dexmethylphenidate Hydrochloride Extended-release Capsules.
 

@@ -83,4 +83,4 @@ Active Ingredient: dexmethylphenidate hydrochloride Inactive Ingredients: Sugar 
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by: Par Pharmaceutical Companies, Inc. Spring Valley, NY 10977 Under License from: Intellipharmaceutics Corp. Toronto, Ontario M9W 5X2 CANADA Revised: 05/2015
+Manufactured by: Par Pharmaceutical Chestnut Ridge, NY 10977 U.S.A Under License from: Intellipharmaceutics Corp. Toronto, Ontario M9W 5X2 CANADA Revised: 09/2017
