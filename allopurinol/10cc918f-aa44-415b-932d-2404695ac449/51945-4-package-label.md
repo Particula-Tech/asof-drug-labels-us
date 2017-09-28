@@ -8,7 +8,7 @@ equivalent to 500 mg allopurinol
 
 For Intravenous Infusion
 
-Rx only Single-Use Vial
+Rx only Single-Dose Vial
 
 Sterile
 
@@ -26,8 +26,8 @@ ALOPRIM® is a registered trademark of Mylan Teoranta
 
 Manufactured for: Mylan Institutional LLC Rockford, IL 61103 U.S.A.
 
-Made in U.S.A.
+Made in Italy
 
-MI:187:1C:R3
+MI:187:1C:R4
 
 Mylan.com
