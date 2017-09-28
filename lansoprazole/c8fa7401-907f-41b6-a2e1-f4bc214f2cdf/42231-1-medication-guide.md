@@ -113,11 +113,11 @@ How should I take lansoprazole delayed-release capsules?
 - •Do not change your dose or stop taking lansoprazole delayed-release capsules without talking to your doctor.
 - •You should take lansoprazole delayed-release capsules before eating.
 - •Lansoprazole delayed-release capsules:
-  - oYou should swallow lansoprazole delayed-release capsules whole.
-  - oDo not crush or chew lansoprazole delayed-release capsules.
-  - oIf you have trouble swallowing a whole capsule, you can open the capsule and take the contents with certain foods or juices.
+  - •You should swallow lansoprazole delayed-release capsules whole.
+  - •Do not crush or chew lansoprazole delayed-release capsules.
+  - •If you have trouble swallowing a whole capsule, you can open the capsule and take the contents with certain foods or juices.
     See the “Instructions for Use” at the end of this Medication Guide for instructions on how to take lansoprazole delayed-release capsules with certain foods and juices.
-  - oSee the “Instructions for Use” at the end of this Medication Guide for instructions on how to mix and give lansoprazole delayed-release capsules through a nasogastric tube.
+  - •See the “Instructions for Use” at the end of this Medication Guide for instructions on how to mix and give lansoprazole delayed-release capsules through a nasogastric tube.
 - •If you miss a dose, take it as soon as you remember.
   If it is almost time for your next dose, skip the missed dose.
   Just take the next dose at your regular time.
@@ -139,15 +139,15 @@ Lansoprazole delayed-release capsules can cause serious side effects, including:
   If low magnesium levels happen, it is usually after a year of treatment.
   You may or may not have symptoms of low magnesium.
 - Tell your doctor right away if you develop any of these symptoms:
-  1. •seizures
-  2. •dizziness
-  3. •abnormal or fast heartbeat
-  4. •jitteriness
-  5. •jerking movements or shaking (tremors)
-  6. •muscle weakness
-  7. •spasms of the hands and feet
-  8. •cramps or muscle aches
-  9. •spasm of the voice box
+  1. 1.seizures
+  2. 2.dizziness
+  3. 3.abnormal or fast heartbeat
+  4. 4.jitteriness
+  5. 5.jerking movements or shaking (tremors)
+  6. 6.muscle weakness
+  7. 7.spasms of the hands and feet
+  8. 8.cramps or muscle aches
+  9. 9.spasm of the voice box
 - Your doctor may check the level of magnesium in your body before you start taking lansoprazole delayed-release capsules, or during treatment; if you will be taking lansoprazole delayed-release capsules for a long period of time.
 
 The most common side effects of lansoprazole delayed-release capsules in adults and children include:
@@ -221,20 +221,20 @@ Lansoprazole Delayed-Release Capsules:
   3. 3.Swallow right away.
 - •Lansoprazole delayed-release capsule with certain juices:
 - You can only use apple juice, orange juice or tomato juice.
-  1. 1.Open the capsule.
-  2. 2.Sprinkle the pellets into 60 mL (about ¼ cup) of either apple juice, orange juice or tomato juice.
-  3. 3.Stir.
-  4. 4.Swallow right away.
-  5. 5.To make sure that the entire dose is taken, rinse the glass with ½ cup or more of juice to get out any leftover pellets.
+  1. 4.Open the capsule.
+  2. 5.Sprinkle the pellets into 60 mL (about ¼ cup) of either apple juice, orange juice or tomato juice.
+  3. 6.Stir.
+  4. 7.Swallow right away.
+  5. 8.To make sure that the entire dose is taken, rinse the glass with ½ cup or more of juice to get out any leftover pellets.
      Swallow the juice right away.
 - •Lansoprazole delayed-release capsule through a nasogastric tube (NG tube) 16 French or larger, as prescribed by your doctor:
 - You can only use apple juice.
-  1. 1.Open the capsule and empty the pellets into a syringe.
-  2. 2.Do not break or crush the pellets.
-  3. 3.Mix with 40 mL of apple juice.
+  1. 9.Open the capsule and empty the pellets into a syringe.
+  2. 10.Do not break or crush the pellets.
+  3. 11.Mix with 40 mL of apple juice.
      Do not use other liquids.
-  4. 4.Attach the syringe to the NG tube and give the medicine in the syringe through the NG tube into the stomach.
-  5. 5.After giving the pellets, flush the NG tube with more apple juice to clear the tube.
+  4. 12.Attach the syringe to the NG tube and give the medicine in the syringe through the NG tube into the stomach.
+  5. 13.After giving the pellets, flush the NG tube with more apple juice to clear the tube.
 
 Lansoprazole delayed-release capsules should not be used in foods or liquids not listed above.
 
