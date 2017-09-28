@@ -1,6 +1,6 @@
 # 17. PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Medication Guide).
+Advise the patient to read the FDA-approved patient labeling (Medication Guide)
 
 Dosing Instructions
 

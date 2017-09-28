@@ -1,4 +1,4 @@
-# 7. DRUG INTERACTIONS
+# 7.DRUG INTERACTIONS
 
 Colchicine is a substrate of the efflux transporter P-glycoprotein (P-gp), and the CYP3A4 metabolizing enzyme.
 Fatal drug interactions have been reported when colchicine is administered with clarithromycin, a dual inhibitor of CYP3A4 and P-glycoprotein.
@@ -31,4 +31,5 @@ Complaints of muscle pain or weakness could be an indication to check serum crea
 
 Four pharmacokinetic studies evaluated the effects of co-administration of voriconazole (200 mg BID), fluconazole (200 mg QD), cimetidine (800 mg BID), and propafenone (225 mg BID) on systemic levels of colchicine.
 Colchicine can be administered with these drugs at the tested doses without a need for dose adjustment.
-However, these results should not be extrapolated to other co-administered drugs [See Drug-Drug Interactions (7.1, 7.2) and Pharmacokinetics (12.3)].
+However, these results should not be extrapolated to other co-administered drugs.
+[See Drug-Drug Interactions (7.1, 7.2) and Pharmacokinetics (12.3)].

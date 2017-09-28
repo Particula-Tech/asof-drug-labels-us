@@ -1,4 +1,4 @@
-Medication Guide
+# Medication Guide
 
 MITIGARE® (mīt-ah-gär-ay) Capsules
 
@@ -39,8 +39,7 @@ Before you take MITIGARE®, tell your healthcare provider:
   It is not known if MITIGARE® can harm your unborn baby.
   Talk to your healthcare provider if you are pregnant or plan to become pregnant.
 - if you are breastfeeding or plan to breastfeed.
-  MITIGARE® can pass into your breast milk and may harm your baby.
-  Talk to your healthcare provider about the best way to feed your baby if you take MITIGARE®.
+  MITIGARE® can pass into your breast milk and may harm your baby.Talk to your healthcare provider about the best way to feed your baby if you take MITIGARE®.
 
 Tell your healthcare provider about all the medicines you take, including prescription, over-the-counter medicines, vitamins, or herbal supplements.
 
@@ -48,7 +47,6 @@ Tell your healthcare provider about all the medicines you take, including prescr
 - Do not take MITIGARE® with other medicines unless your healthcare provider tells you to.
 - Know the medicines you take.
   Keep a list of your medicines with you to show your healthcare provider and pharmacist each time you get a new medicine.
-
 - Especially tell your healthcare provider if you take:
   - medicines that may affect how your liver works (CYP3A4 inhibitors)
   - cyclosporine (Neoral®, Gengraf®, Sandimmune®)
@@ -74,20 +72,19 @@ What should I avoid while taking MITIGARE®?
 
 - Avoid eating grapefruit or drinking grapefruit juice while taking MITIGARE®.
   It can increase your chances of getting serious side effects.
-  - unusual bleeding or bruising
-  - increased infections
-  - weakness or fatigue
-  - muscle weakness or pain
-  - numbness or tingling in your fingers or toes
-  - pale or gray color to your lips, tongue, or palms of your hands
-  - severe diarrhea or vomiting
 
 What are the possible side effects of MITIGARE®?
-
-MITIGARE® can cause serious side effects or death.
-See “What is the most important information I should know about MITIGARE®?”
+MITIGARE® can cause serious side effects or death.See “What is the most important information I should know about MITIGARE®?”
 
 Get medical help right away, if you have:
+
+- unusual bleeding or bruising
+- increased infections
+- weakness or fatigue
+- muscle weakness or pain
+- numbness or tingling in your fingers or toes
+- pale or gray color to your lips, tongue, or palms of your hands
+- severe diarrhea or vomiting
 
 The most common side effects of MITIGARE® include abdominal pain, diarrhea, nausea, and vomiting.
 
