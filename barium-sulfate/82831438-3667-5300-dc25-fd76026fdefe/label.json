@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA208036"
+  ],
+  "inn": "barium-sulfate",
+  "labeler": "E-Z-EM Canada Inc",
+  "package_ndcs": [
+    "32909-717-01"
+  ],
+  "products": [
+    {
+      "form": "POWDER, FOR SUSPENSION",
+      "generic": "barium sulfate",
+      "name": "E-Z-Cat Dry"
+    }
+  ],
+  "setid": "82831438-3667-5300-dc25-fd76026fdefe",
+  "source": "dailymed"
+}
