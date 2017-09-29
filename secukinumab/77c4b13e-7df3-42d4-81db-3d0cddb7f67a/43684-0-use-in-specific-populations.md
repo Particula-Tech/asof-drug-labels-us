@@ -11,7 +11,7 @@ COSENTYX should be used during pregnancy only if the potential benefit justifies
 An embryofetal development study was performed in cynomolgus monkeys with secukinumab.
 No malformations or embryofetal toxicity were observed in fetuses from pregnant monkeys that were administered secukinumab weekly by the subcutaneous route during the period of organogenesis at doses up to 30 times the maximum recommended human dose (MRHD; on a mg/kg basis at a maternal dose of 150 mg/kg).
 
-A pre- and postnatal development toxicity study was performed in mice with a murine analog of secukinumab.
+A pre- and post-natal development toxicity study was performed in mice with a murine analog of secukinumab.
 No treatment related effects on functional, morphological or immunological development were observed in fetuses from pregnant mice that were administered the murine analog of secukinumab on gestation days 6, 11, and 17 and on postpartum days 4, 10, and 16 at doses up to 150 mg/kg/dose.
 
 ## 8.3 Nursing Mothers

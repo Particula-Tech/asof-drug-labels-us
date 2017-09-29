@@ -40,7 +40,7 @@ Clinical Response
 
 The results of Trials 1 and 2 are presented in Table 2.
 
-Table 2 Clinical Outcomes at Week 12 in Adults with Plaque Psoriasis in Trials 1 and 2
+Table 2: Clinical Outcomes at Week 12 in Adults with Plaque Psoriasis in Trials 1 and 2
 
 |  | Trial 1 |  |  | Trial 2 |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -50,7 +50,7 @@ Table 2 Clinical Outcomes at Week 12 in Adults with Plaque Psoriasis in Trials 1
 
 The results of Trials 3 and 4 are presented in Table 3.
 
-Table 3 Clinical Outcomes at Week 12 in Adults with Plaque Psoriasis in Trials 3 and 4
+Table 3: Clinical Outcomes at Week 12 in Adults with Plaque Psoriasis in Trials 3 and 4
 
 |  | Trial 3 |  |  | Trial 4 |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -95,7 +95,7 @@ Responses were seen regardless of prior anti-TNFα exposure.
 
 In patients with coexistent plaque psoriasis receiving COSENTYX (n=99), the skin lesions of psoriasis improved with treatment, relative to placebo, as measured by the Psoriasis Area Severity Index (PASI).
 
-Table 4 Responsesa in PsA1 Study at Week 16 and Week 24
+Table 4: Responsesa in PsA1 Study at Week 16 and Week 24
 
 |  | COSENTYX | COSENTYX | Placebo | Difference from placebo (95% CI) |  |
 | --- | --- | --- | --- | --- | --- |
@@ -114,13 +114,13 @@ Table 4 Responsesa in PsA1 Study at Week 16 and Week 24
 The percentage of patients achieving ACR20 response by visit is shown in Figure 1.
 Patients on placebo who received COSENTYX without a loading regimen achieved similar ACR20 responses over time (data not shown).
 
-Figure 1 Percent of Patients Achieving ACR 20 Responsea in PsA1 Study Through Week 24
+Figure 1: Percent of Patients Achieving ACR 20 Responsea in PsA1 Study Through Week 24
 
 a Patients who met escape criteria (less than 20% improvement in tender or swollen joint counts) at Week 16 were considered non-responders
 
 The improvements in the components of the ACR response criteria are shown in Table 5.
 
-Table 5 Mean Change from Baseline in ACR Components at Week 16 a (PsA1 Study)
+Table 5: Mean Change from Baseline in ACR Components at Week 16a (PsA1 Study)
 
 |  | COSENTYX 150 mg (N=100) | COSENTYX 300 mg (N=100) | Placebo (N=98) |
 | --- | --- | --- | --- |
@@ -173,7 +173,7 @@ Clinical Response
 In AS1, patients treated with 150 mg COSENTYX demonstrated greater improvements in ASAS20 and ASAS40 responses compared to placebo at Week 16 (Table 6).
 Responses were similar in patients regardless of concomitant therapies.
 
-Table 6 ASAS20 and ASAS40 Responses in All AS Patients at Week 16 in Study AS1
+Table 6: ASAS20 and ASAS40 Responses in All AS Patients at Week 16 in Study AS1
 
 |  | COSENTYX 150 mg (n = 72) | Placebo (n = 74) | Difference from placebo (95% CI) |
 | --- | --- | --- | --- |
@@ -182,7 +182,7 @@ Table 6 ASAS20 and ASAS40 Responses in All AS Patients at Week 16 in Study AS1
 
 The improvements in the main components of the ASAS20 response criteria and other measures of disease activity are shown in Table 7.
 
-Table 7 ASAS20 Components and Other Measures of Disease Activity at Week 16 (AS1 Study)
+Table 7: ASAS20 Components and Other Measures of Disease Activity at Week 16 (AS1 Study)
 
 |  | COSENTYX 150 mg (N = 72) |  | Placebo (N = 74) |  |
 | --- | --- | --- | --- | --- |
@@ -200,6 +200,6 @@ Table 7 ASAS20 Components and Other Measures of Disease Activity at Week 16 (AS1
 The percent of patients achieving ASAS20 responses by visit is shown in Figure 2.
 Patients on placebo who received COSENTYX without a loading regimen achieved similar ASAS20 responses over time (data not shown).
 
-Figure 2 ASAS20 Responses in all AS1 Study Patients Over Time Up to Week 16
+Figure 2: ASAS20 Responses in all AS1 Study Patients Over Time Up to Week 16
 
 COSENTYX treated patients showed improvement compared to placebo-treated patients in health-related quality of life as assessed by ASQoL at Week 16.

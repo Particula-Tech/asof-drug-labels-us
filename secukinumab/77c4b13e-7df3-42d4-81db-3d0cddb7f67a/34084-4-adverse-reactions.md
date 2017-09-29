@@ -20,7 +20,7 @@ In total, 2077 subjects were evaluated (691 to COSENTYX 300 mg group, 692 to COS
 
 Table 1 summarizes the adverse reactions that occurred at a rate of at least 1% and at a higher rate in the COSENTYX groups than the placebo group during the 12-week placebo-controlled period of the placebo-controlled trials.
 
-Table 1 Adverse Reactions Reported by Greater Than 1% of Subjects with Plaque Psoriasis Through Week 12 in Trials 1, 2, 3, and 4
+Table 1: Adverse Reactions Reported by Greater Than 1% of Subjects with Plaque Psoriasis Through Week 12 in Trials 1, 2, 3, and 4
 
 |  | COSENTYX |  |  |
 | --- | --- | --- | --- |
@@ -86,7 +86,7 @@ The safety profile observed in patients with ankylosing spondylitis treated with
 
 Similar to clinical trials in patients with psoriasis, there was an increased proportion of patients with infections in the COSENTYX groups (31%) compared to the placebo group (18%) [see Warnings and Precautions (5.1)].
 
-In the ankylosing spondylitis program, with 571 patients exposed to COSENTYX there were 8 cases of inflammatory bowel disease during the entire treatment period (5 Crohn’s (0.7 per 100 patient-years) and 3 ulcerative colitis (0.4 per 100 patient-years)).
+In the ankylosing spondylitis program, with 571 patients exposed to COSENTYX there were 8 cases of inflammatory bowel disease during the entire treatment period (5 Crohn’s (0.7 per 100 patient-years) and 3 ulcerative colitis (0.4 per 100 patient-years).
 During the placebo-controlled 16-week period, there were 2 Crohn’s disease exacerbations and 1 new onset ulcerative colitis case that was a serious adverse event in patients treated with COSENTYX compared to none of the patients treated with placebo.
 During the remainder of the study when all patients received COSENTYX, 1 patient developed Crohn’s disease, 2 patients had Crohn’s exacerbations, 1 patient developed ulcerative colitis, and 1 patient had an ulcerative colitis exacerbation [see Warnings and Precautions (5.3)].
 

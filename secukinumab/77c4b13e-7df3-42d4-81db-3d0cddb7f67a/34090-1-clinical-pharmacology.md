@@ -65,3 +65,9 @@ Age: Geriatric Population:
 
 Population pharmacokinetic analysis indicated that the clearance of secukinumab was not significantly influenced by age in adult subjects with plaque psoriasis, psoriatic arthritis and ankylosing spondylitis.
 Subjects who are 65 years or older had apparent clearance of secukinumab similar to subjects less than 65 years old.
+
+Drug Interactions
+
+Cytochrome P450 Substrates
+
+In subjects with plaque psoriasis, midazolam (CYP3A4 substrate) pharmacokinetics was similar when administered alone, or when administered following either a single or five weekly subcutaneous administrations of 300 mg secukinumab [see Drug interactions (7.3)].

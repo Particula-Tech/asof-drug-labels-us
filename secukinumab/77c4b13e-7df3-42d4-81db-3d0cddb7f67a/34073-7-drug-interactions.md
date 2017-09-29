@@ -1,7 +1,5 @@
 # 7 DRUG INTERACTIONS
 
-Drug interaction trials have not been conducted with COSENTYX.
-
 ## 7.1 Live Vaccines
 
 Patients treated with COSENTYX may not receive live vaccinations [see Warnings and Precautions (5.6)].
@@ -14,7 +12,8 @@ The clinical effectiveness of meningococcal and influenza vaccines has not been 
 
 ## 7.3 CYP450 Substrates
 
-A role for IL-17A in the regulation of CYP450 enzymes has not been reported.
 The formation of CYP450 enzymes can be altered by increased levels of certain cytokines (e.g., IL-1, IL-6, IL-10, TNFα, IFN) during chronic inflammation.
-Thus, COSENTYX, an antagonist of IL-17A, could normalize the formation of CYP450 enzymes.
-Upon initiation or discontinuation of COSENTYX in patients who are receiving concomitant CYP450 substrates, particularly those with a narrow therapeutic index, consider monitoring for therapeutic effect (e.g., for warfarin) or drug concentration (e.g., for cyclosporine) and consider dosage modification of the CYP450 substrate.
+
+Results from a drug-drug interaction study in subjects with moderate to severe psoriasis showed no clinically relevant interaction for drugs metabolized by CYP3A4.
+
+Upon initiation or discontinuation of COSENTYX in patients who are receiving concomitant CYP450 substrates, particularly those with a narrow therapeutic index, consider monitoring for therapeutic effect or drug concentration and consider dosage adjustment as needed [see Clinical Pharmacology (12.3)].
