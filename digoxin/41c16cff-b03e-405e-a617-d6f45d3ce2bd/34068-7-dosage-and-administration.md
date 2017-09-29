@@ -21,12 +21,11 @@ Recommended Digoxin Tablets Oral Loading Dose
 | --- | --- |
 | 5 to 10 years | 20 to 45 |
 | Adults and pediatric patients over 10 years | 10 to 15 |
-
-mcg = microgram
+| mcg = microgram |  |
 
 ## 2.3 Maintenance Dosing in Adults and Pediatric Patients Over 10 Years Old
 
-The maintenance dose is based on lean body weight, renal function, age, and concomitant products [see Clinical Pharmacology (12.3)].
+The maintenance dose is based on lean body weight, renal function, age, and concomitant products [see Clinical Pharmacology(12.3)12.3)].
 
 The recommended starting maintenance dose in adults and pediatric patients over 10 years old with normal renal function is given in Table 2.
 Doses may be increased every 2 weeks according to clinical response, serum drug levels, and toxicity.
@@ -37,8 +36,7 @@ Recommended Starting Digoxin Tablets Maintenance Dosage in Adults and Pediatric 
 | Age | Total Oral Maintenance Dose, mcg/kg/day (given once daily) |
 | --- | --- |
 | Adults and pediatric patients over 10 years | 3.4 to 5.1 |
-
-mcg = microgram
+| mcg = microgram |  |
 
 Table 3 provides the recommended (once daily) maintenance dose for adults and pediatric patients over 10 years old (to be given once daily) according to lean body weight and renal function.
 The doses are based on studies in adult patients with heart failure.
@@ -51,31 +49,20 @@ Reduce the dose of Digoxin Tablets in patients whose lean weight is an abnormall
 Table 3.
 Recommended Maintenance Dose (in micrograms given once daily) of Digoxin Tablets in Pediatric Patients Over 10 Years Old and Adults by Lean Body Weight and by Renal Functiona
 
-| Corrected Creatinine Clearanceb | Lean Body Weightd |  |  |  |  |  |  |  | Number of Days Before Steady State Achievedc |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | kg | 40 | 50 | 60 | 70 | 80 | 90 | 100 |  |
-| 10 mL/min |  | 62.5* | 125 | 125 | 187.5 | 187.5 | 187.5 | 250 | 19 |
-| 20 mL/min |  | 125 | 125 | 125 | 187.5 | 187.5 | 250 | 250 | 16 |
-| 30 mL/min |  | 125 | 125 | 187.5 | 187.5 | 250 | 250 | 312.5 | 14 |
-| 40 mL/min |  | 125 | 187.5 | 187.5 | 250 | 250 | 312.5 | 312.5 | 13 |
-| 50 mL/min |  | 125 | 187.5 | 187.5 | 250 | 250 | 312.5 | 312.5 | 12 |
-| 60 mL/min |  | 125 | 187.5 | 250 | 250 | 312.5 | 312.5 | 375 | 11 |
-| 70 mL/min |  | 187.5 | 187.5 | 250 | 250 | 312.5 | 375 | 375 | 10 |
-| 80 mL/min |  | 187.5 | 187.5 | 250 | 312.5 | 312.5 | 375 | 437.5 | 9 |
-| 90 mL/min |  | 187.5 | 250 | 250 | 312.5 | 375 | 437.5 | 437.5 | 8 |
-| 100 mL/min |  | 187.5 | 250 | 312.5 | 312.5 | 375 | 437.5 | 500 | 7 |
-
-a Doses are rounded to the nearest dose possible using whole and/or half digoxin tablets.
-Recommended doses approximately 30 percent lower than the calculated dose are designated with an *.
-Monitor digoxin levels in patients receiving these initial doses and increase dose if needed. b For adults, creatinine clearance was corrected to 70-kg body weight or 1.73 m2 body surface area.
-If only serum creatinine concentrations (Scr) are available, a corrected Ccr may be estimated in men as (140 – Age)/Scr.
-For women, this result should be multiplied by 0.85.
-For pediatric patients, the modified Schwartz equation may be used.
-The formula is based on height in cm and Scr in mg/dL where k is a constant.
-Ccr is corrected to 1.73 m2 body surface area.
-During the first year of life, the value of k is 0.33 for pre-term babies and 0.45 for term infants.
-The k is 0.55 for pediatric patients and adolescent girls and 0.7 for adolescent boys.
-GFR (mL/min/1.73 m2) = (k x Height)/Scr c If no loading dose administered. d The doses listed assume average body composition.
+| Corrected Creatinine Clearanceb | Lean Body Weightd |  |  |  |  |  |  |  | Number of Days Before Steady State Achievedc |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| kg | 40 | 50 | 60 | 70 | 80 | 90 | 100 |  |  |  |  |
+| 10 mL/min |  | 62.5* | 125 | 125 | 187.5 | 187.5 | 187.5 | 250 | 19 |  |  |
+| 20 mL/min |  | 125 | 125 | 125 | 187.5 | 187.5 | 250 | 250 | 16 |  |  |
+| 30 mL/min |  | 125 | 125 | 187.5 | 187.5 | 250 | 250 | 312.5 | 14 |  |  |
+| 40 mL/min |  | 125 | 187.5 | 187.5 | 250 | 250 | 312.5 | 312.5 | 13 |  |  |
+| 50 mL/min |  | 125 | 187.5 | 187.5 | 250 | 250 | 312.5 | 312.5 | 12 |  |  |
+| 60 mL/min |  | 125 | 187.5 | 250 | 250 | 312.5 | 312.5 | 375 | 11 |  |  |
+| 70 mL/min |  | 187.5 | 187.5 | 250 | 250 | 312.5 | 375 | 375 | 10 |  |  |
+| 80 mL/min |  | 187.5 | 187.5 | 250 | 312.5 | 312.5 | 375 | 437.5 | 9 |  |  |
+| 90 mL/min |  | 187.5 | 250 | 250 | 312.5 | 375 | 437.5 | 437.5 | 8 |  |  |
+| 100 mL/min |  | 187.5 | 250 | 312.5 | 312.5 | 375 | 437.5 | 500 | 7 |  |  |
+| a Doses are rounded to the nearest dose possible using whole and/or half digoxin tablets. Recommended doses approximately 30 percent lower than the calculated dose are designated with an *. Monitor digoxin levels in patients receiving these initial doses and increase dose if needed. b For adults, creatinine clearance was corrected to 70-kg body weight or 1.73 m2body surface area. If only serum creatinine concentrations (Scr) are available, a corrected Ccr may be estimated in men as (140 – Age)/Scr. For women, this result should be multiplied by 0.85. For pediatric patients, the modified Schwartz equation may be used. The formula is based on height in cm and Scr in mg/dL where k is a constant. Ccr is corrected to 1.73 m2 body surface area. During the first year of life, the value of k is 0.33 for pre-term babies and 0.45 for term infants. The k is 0.55 for pediatric patients and adolescent girls and 0.7 for adolescent boys. GFR (mL/min/1.73 m2) = (k x Height)/Scr c If no loading dose administered. d The doses listed assume average body composition. |  |  |  |  |  |  |  |  |  |  |  |
 
 ## 2.4 Maintenance Dosing in Pediatric Patients Less Than 10 Years Old
 
@@ -95,24 +82,20 @@ Table 5 provides average daily maintenance dose requirements for pediatric patie
 Table 5.
 Recommended Maintenance Dose (in micrograms given TWICE daily) of Digoxin Tablets in Pediatric Patients between 5 and 10 Years of Agea Based upon Lean Body Weight and Renal Functiona,b
 
-| Corrected Creatinine Clearancec | Lean Body Weight |  |  |  |  |  | Number of Days Before Steady State Achievedd |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|  | kg | 20 | 30 | 40 | 50 | 60 |  |
-| 10 mL/min |  | - | 62.5 | 62.5* | 125 | 125 | 19 |
-| 20 mL/min |  | 62.5 | 62.5 | 125 | 125 | 125 | 16 |
-| 30 mL/min |  | 62.5 | 62.5* | 125 | 125 | 187.5 | 14 |
-| 40 mL/min |  | 62.5 | 62.5* | 125 | 187.5 | 187.5 | 13 |
-| 50 mL/min |  | 62.5 | 125 | 125 | 187.5 | 187.5 | 12 |
-| 60 mL/min |  | 62.5 | 125 | 125 | 187.5 | 250 | 11 |
-| 70 mL/min |  | 62.5 | 125 | 187.5 | 187.5 | 250 | 10 |
-| 80 mL/min |  | 62.5* | 125 | 187.5 | 187.5 | 250 | 9 |
-| 90 mL/min |  | 62.5* | 125 | 187.5 | 250 | 250 | 8 |
-| 100 mL/min |  | 62.5* | 125 | 187.5 | 250 | 312.5 | 7 |
-
-a Recommended are doses to be given twice daily. b The doses are rounded to the nearest dose possible using whole and/or half digoxin tablets.
-Recommended doses approximately 30 percent lower than the calculated dose are designated with an *.
-Monitor digoxin levels in patients receiving these initial doses and increase dose if needed. c The modified Schwartz equation may be used to estimate creatinine clearance.
-See footnote b under Table 3. d If no loading dose administered.
+| Corrected Creatinine Clearancec | Lean Body Weight |  |  |  |  |  | Number of Days Before Steady State Achievedd |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| kg | 20 | 30 | 40 | 50 | 60 |  |  |  |  |
+| 10 mL/min |  | - | 62.5 | 62.5* | 125 | 125 | 19 |  |  |
+| 20 mL/min |  | 62.5 | 2.5 | 125 | 125 | 125 | 16 |  |  |
+| 30 mL/min |  | 62.5 | 62.5* | 125 | 125 | 187.5 | 14 |  |  |
+| 40 mL/min |  | 62.5 | 62.5* | 125 | 187.5 | 187.5 | 13 |  |  |
+| 50 mL/min |  | 62.5 | 125 | 125 | 187.5 | 187.5 | 12 |  |  |
+| 60 mL/min |  | 62.5 | 125 | 125 | 187.5 | 250 | 11 |  |  |
+| 70 mL/min |  | 62.5 | 125 | 187.5 | 187.5 | 250 | 10 |  |  |
+| 80 mL/min |  | 62.5* | 125 | 187.5 | 187.5 | 250 | 9 |  |  |
+| 90 mL/min |  | 62.5* | 125 | 187.5 | 250 | 250 | 8 |  |  |
+| 100 mL/min |  | 62.5* | 125 | 187.5 | 250 | 312.5 | 7 |  |  |
+| a Recommended are doses to be given twice daily. b The doses are rounded to the nearest dose possible using whole and/or half digoxin tablets. Recommended doses approximately 30 percent lower than the calculated dose are designated with an *. Monitor digoxin levels in patients receiving these initial doses and increase dose if needed. c The modified Schwartz equation may be used to estimate creatinine clearance. See footnote b under Table 3. d If no loading dose administered. |  |  |  |  |  |  |  |  |  |
 
 ## 2.5 Monitoring to Assess Safety, Efficacy, and Therapeutic Blood Levels
 

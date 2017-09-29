@@ -13,7 +13,7 @@ Therefore, drugs that induce/inhibit P-glycoprotein have the potential to alter 
 | Digoxin concentrations increased greater than 50% |  |  |  |
 | --- | --- | --- | --- |
 |  | Digoxin Serum Concentration Increase | Digoxin AUC Increase | Recommendations |
-| Amiodarone | 70% | NA | Measure serum digoxin concentrations before initiating concomitant drugs. Reduce digoxin concentrations by decreasing dose by approximately 30 to 50% or by modifying the dosing frequency and continue monitoring. |
+| Amiodarone | 70% | NA | Measure serum digoxin concentrations before initiating concomitant drugs. Reduce digoxin concentrations by decreasing dose by approximately 30-50% or by modifying the dosing frequency and continue monitoring. |
 | Captopril | 58% | 39% |  |
 | Clarithromycin | NA | 70% |  |
 | Dronedarone | NA | 150% |  |
@@ -29,7 +29,7 @@ Therefore, drugs that induce/inhibit P-glycoprotein have the potential to alter 
 | Tetracycline | 100% | NA |  |
 | Verapamil | 50 to 75% | NA |  |
 | Digoxin concentrations increased less than 50% |  |  |  |
-| Atorvastatin | 22% | 15% | Measure serum digoxin concentrations before initiating concomitant drugs. Reduce digoxin concentrations by decreasing the dose by approximately 15 to 30% or by modifying the dosing frequency and continue monitoring. |
+| Atorvastatin | 22% | 15% | Measure serum digoxin concentrations before initiating concomitant drugs. Reduce digoxin concentrations by decreasing the dose by approximately 15-30% or by modifying the dosing frequency and continue monitoring. |
 | Carvedilol | 16% | 14% |  |
 | Conivaptan | 33% | 43% |  |
 | Diltiazem | 20% | NA |  |
@@ -43,14 +43,13 @@ Therefore, drugs that induce/inhibit P-glycoprotein have the potential to alter 
 | Spironolactone | 25% | NA |  |
 | Telmisartan | 20 to 49% | NA |  |
 | Ticagrelor | 31% | 28% |  |
-| Tolvaptan | 30% | 20 % |  |
+| Tolvaptan | 30% | 20% |  |
 | Trimethoprim | 22 to 28% | NA |  |
 | Digoxin concentrations increased, but magnitude is unclear |  |  |  |
-| Alprazolam, azithromycin, cyclosporine, diclofenac, diphenoxylate, epoprostenol, esomeprazole, ibuprofen, ketoconazole, lansoprazole, metformin, omeprazole |  |  | Measure serum digoxin concentrations before initiating concomitant drugs. Continue monitoring and reduce digoxin dose as necessary. |
+| Alprazolam, azithromycin, cyclosporine, diclofenac, diphenoxylate, epoprostenol, esomeprazole, ibuprofen, ketoconazole, lansoprazole, metformin, omeprazole, |  |  | Measure serum digoxin concentrations before initiating concomitant drugs. Continue monitoring and reduce digoxin dose as necessary. |
 | Digoxin concentrations decreased |  |  |  |
-| Acarbose, activated charcoal, albuterol, antacids, certain cancer chemotherapy or radiation therapy, cholestyramine, colestipol, extenatide, kaolin-pectin, meals high in bran, metoclopramide, miglitol, neomycin, penicillamine, phenytoin, rifampin, St. John’s Wort, sucralfate and sulfasalazine |  |  | Measure serum digoxin concentrations before initiating concomitant drugs. Continue monitoring and increase digoxin dose by approximately 20 to 40 % as necessary. |
-
-NA =Not available/reported
+| Acarbose, activated charcoal, albuterol, antacids, certain cancer chemotherapy or radiation therapy, cholestyramine, colestipol, extenatide, kaolin-pectin, meals high in bran, metoclopramide, miglitol, neomycin, penicillamine, phenytoin, rifampin, St. John’s Wort, sucralfate and sulfasalazine |  |  | Measure serum digoxin concentrations before initiating concomitant drugs. Continue monitoring and increase digoxin dose by approximately 20-40% as necessary. |
+| NA = Not available/reported |  |  |  |
 
 ## 7.3 Potentially Significant Pharmacodynamic Drug Interactions
 

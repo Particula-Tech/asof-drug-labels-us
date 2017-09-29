@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C
+### Pregnancy Category C
 
 Digoxin Tablets should be given to a pregnant woman only if clearly needed.
 It is also not known whether digoxin can cause fetal harm when administered to a pregnant woman or can affect reproductive capacity.

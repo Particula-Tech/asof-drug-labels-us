@@ -1,7 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise patients that digoxin is used to treat heart failure and heart arrhythmias.
-
+- Advise patients that digoxin is used to treat heart failure and heart arrhythmias.
 - Instruct patients to take this medication as directed.
 - Advise patients that many drugs can interact with Digoxin Tablets.
   Instruct patients to inform their doctor and pharmacist if they are taking any over the counter medications, including herbal medication, or are started on a new prescription.
