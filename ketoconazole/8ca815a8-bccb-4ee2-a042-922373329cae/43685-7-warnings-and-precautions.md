@@ -1,6 +1,8 @@
 # WARNINGS
 
-Ketoconazole tablets USP, 200 mg should be used only when other effective antifungal therapy is not available or tolerated and the potential benefits are considered to outweigh the potential risks.
+Because of the serious adverse reactions that have been reported in association with ketoconazole, including fatal hepatotoxicity, ketoconazole tablets are not indicated for treatment of onychomycosis, cutaneous dermatophyte infections, or Candida infections.
+
+Ketoconazole tablets should be used only when other effective antifungal therapy is not available or tolerated and the potential benefits are considered to outweigh the potential risks.
 
 ## Hepatotoxicity
 
@@ -8,7 +10,7 @@ Serious hepatotoxicity, including cases with a fatal outcome or requiring liver 
 Some patients had no obvious risk factors for liver disease.
 Serious hepatotoxicity was reported both by patients receiving high doses for short treatment durations and by patients receiving low doses for long durations.
 
-The hepatic injury has usually, but not always, been reversible upon discontinuation of ketoconazole tablets treatment.
+The hepatic injury has usually, but not always, been reversible upon discontinuation of ketoconazole treatment.
 Cases of hepatitis have been reported in children.
 
 At baseline, obtain laboratory tests (such as SGGT, alkaline phosphatase, ALT, AST, total bilirubin (TBL), Prothrombin Time (PT), International Normalization Ratio (INR), and testing for viral hepatitides).
@@ -33,16 +35,16 @@ Ketoconazole can cause elevated plasma concentrations of these drugs which may p
 Ketoconazole tablets decrease adrenal corticosteroid secretion at doses of 400 mg and higher.
 This effect is not shared with other azoles.
 The recommended dose of 200 mg to 400 mg daily should not be exceeded.
-
 Adrenal function should be monitored in patients with adrenal insufficiency or with borderline adrenal function and in patients under prolonged periods of stress (major surgery, intensive care, etc.).
 
 ## Adverse Reactions Associated with Unapproved Uses
 
 Ketoconazole has been used in high doses for the treatment of advanced prostate cancer and for Cushing's syndrome when other treatment options have failed.
 The safety and effectiveness of ketoconazole have not been established in these settings and the use of ketoconazole for these indications is not approved by FDA.
-
 In a clinical trial involving 350 patients with metastatic prostatic cancer, eleven deaths were reported within two weeks of starting treatment with high doses of ketoconazole tablets (1200 mg/day).
 It is not possible to ascertain from the information available whether death was related to ketoconazole therapy or adrenal insufficiency in these patients with serious underlying disease.
+
+Hepatoxicity, including fatal cases and cases requiring liver transplantation, have been reported in patients who received ketoconazole for treatment of onychomycosis, cutaneous dermatophyte infections, or Candida infections.
 
 ## Hypersensitivity
 
@@ -106,6 +108,7 @@ When appropriate, ketoconazole plasma concentrations should be measured.
 Ketoconazole can inhibit the metabolism of drugs metabolized by CYP3A4 and can inhibit the drug transport by P-glycoprotein, which may result in increased plasma concentrations of these drugs and/or their active metabolite(s) when they are administered with ketoconazole.
 These elevated plasma concentrations may increase or prolong both therapeutic and adverse effects of these drugs.
 CYP3A4-metabolized drugs known to prolong the QT interval may be contraindicated with ketoconazole tablets, since the combination may lead to ventricular tachyarrhythmias, including occurrences of torsade de pointes, a potentially fatal arrhythmia.
+
 Examples of drugs that may have their plasma concentrations increased by ketoconazole presented by drug class with advice regarding coadministration with ketoconazole tablets:
 
 | Drug Class | Contraindicated | Not Recommended | Use with Caution | Comments |

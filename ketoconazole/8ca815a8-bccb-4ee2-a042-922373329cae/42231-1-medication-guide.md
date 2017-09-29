@@ -93,6 +93,7 @@ The most common side effects of ketoconazole tablets include nausea, headache, d
 
 These are not all the possible side effects of ketoconazole tablets.
 For more information, ask your healthcare provider or pharmacist.
+
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
@@ -121,8 +122,8 @@ Inactive ingredients: colloidal silicon dioxide, corn starch, lactose monohydrat
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration
 
-Mfd. by: Taro Pharmaceutical Industries Ltd., Haifa Bay, Israel 2624761
+Mfd. by: Taro Pharmaceutical Industries Ltd. Haifa Bay, Israel 2624761
 
-Dist. by: Taro Pharmaceuticals U.S.A., Inc., Hawthorne, NY 10532
+Dist. by: Taro Pharmaceuticals U.S.A., Inc. Hawthorne, NY 10532
 
-Revised: April 2014 MG79775-0414-4
+Revised: September 2017 MG79775-0917-5
