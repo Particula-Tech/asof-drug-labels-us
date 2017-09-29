@@ -62,9 +62,8 @@ It is not known whether these effects on fertility are reversible [see Adverse R
 ## 8.4 Pediatric Use
 
 The safety and effectiveness of tramadol hydrochloride extended-release tablets in pediatric patients have not been established.
-
 Life-threatening respiratory depression and death have occurred in children who received tramadol [see Warnings and Precautions (5.3)].
-In some of the reported cases, these events followed tonsillectomy and/or adenoidectomy, and one of the children had evidence of being an ultra-rapid metabolizer of tramadol (i.e., multiple copies of the gene for cytochrome P450 isoenzyme 2D6 or high morphine concentrations).
+In some of the reported cases, these events followed tonsillectomy and/or adenoidectomy, and one of the children had evidence of being an ultra-rapid metabolizer of tramadol (i.e., multiple copies of the gene for cytochrome P450 isoenzyme 2D6).
 Children with sleep apnea may be particularly sensitive to the respiratory depressant effects of tramadol.
 Because of the risk of life-threatening respiratory depression and death:
 

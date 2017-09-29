@@ -113,3 +113,5 @@ Adrenal insufficiency: Cases of adrenal insufficiency have been reported with op
 Anaphylaxis: Anaphylaxis has been reported with ingredients contained in tramadol hydrochloride extended-release tablets.
 
 Androgen deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [see Clinical Pharmacology (12.2)].
+QT prolongation/torsade de pointes: Cases of QT prolongation and/or torsade de pointes have been reported with tramadol use.
+Many of these cases were reported in patients taking another drug labeled for QT prolongation, in patients with a risk factor for QT prolongation (e.g., hypokalemia), or in overdose setting.

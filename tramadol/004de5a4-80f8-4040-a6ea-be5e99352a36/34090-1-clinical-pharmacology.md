@@ -28,6 +28,8 @@ Propulsive peristaltic waves in the colon are decreased, while tone may be incre
 Other opioid-induced effects may include a reduction in biliary and pancreatic secretions, spasm of sphincter of Oddi, and transient elevations in serum amylase.
 Effects on the Cardiovascular System Tramadol produces peripheral vasodilation, which may result in orthostatic hypotension or syncope.
 Manifestations of histamine release and/or peripheral vasodilation may include pruritus, flushing, red eyes, sweating, and/or orthostatic hypotension.
+The effect of oral tramadol on the QTcF interval was evaluated in a double-blind, randomized, four-way crossover, placebo-and positive-(moxifloxacin) controlled study in 68 adult male and female healthy subjects.
+At a 600 mg/day dose (1.5-fold the maximum immediate-release daily dose), the study demonstrated no significant effect on the QTcF interval.
 Effects on the Endocrine System Opioids inhibit the secretion of adrenocorticotropic hormone (ACTH), cortisol, and luteinizing hormone (LH) in humans [see Adverse Reactions (6.2)].
 They also stimulate prolactin, growth hormone (GH) secretion, and pancreatic secretion of insulin and glucagon.
 Chronic use of opioids may influence the hypothalamic-pituitary-gonadal axis, leading to androgen deficiency that may manifest as low libido, impotence, erectile dysfunction, amenorrhea, or infertility.
