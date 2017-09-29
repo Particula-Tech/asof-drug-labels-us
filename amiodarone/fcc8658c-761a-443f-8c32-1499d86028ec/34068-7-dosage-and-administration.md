@@ -88,8 +88,6 @@ Table 3: Y-SITE INJECTION INCOMPATIBILITY
 | Sodium Phosphates | D5W | 6 mg/mL |  |  |  |  |  |  |  |
 | D5W = Dextrose 5% in Sterile Water, NS = Normal Saline |  |  |  |  |  |  |  |  |  |
 
-Intravenous to Oral Transition
-
 Patients whose arrhythmias have been suppressed by amiodarone may be switched to oral amiodarone.
 The optimal dose for changing from intravenous to oral administration of amiodarone will depend on the dose of intravenous amiodarone already administered, as well as the bioavailability of oral amiodarone.
 When changing to oral amiodarone therapy, clinical monitoring is recommended, particularly for elderly patients.

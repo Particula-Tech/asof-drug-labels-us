@@ -21,9 +21,6 @@ Table 6: EFFECTS OF INTRAVENOUS AND ORAL AMIODARONE ON ELECTROPHYSIOLOGIC PARAME
 | Oral | ↑ | ↔ | ↑ | ↑ | ↔ | ↑ | ↑ | ↑ |
 | ↔ No change |  |  |  |  |  |  |  |  |
 
-At higher doses (> 10 mg/kg) of intravenous amiodarone, prolongation of the ERP RV and modest prolongation of the QRS have been seen.
-These differences between oral and IV administration suggest that the initial acute effects of intravenous amiodarone may be predominately focused on the AV node, causing an intranodal conduction delay and increased nodal refractoriness due to slow channel blockade (class IV activity) and noncompetitive adrenergic antagonism (class II activity).
-
 ## 12.2 Pharmacodynamics
 
 Intravenous amiodarone has been reported to produce negative inotropic and vasodilatory effects in animals and humans.
