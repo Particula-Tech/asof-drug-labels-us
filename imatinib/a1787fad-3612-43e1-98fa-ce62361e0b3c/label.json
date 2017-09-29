@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA204644"
+  ],
+  "inn": "imatinib",
+  "labeler": "Mylan Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "0378-2245-77",
+    "0378-2245-78",
+    "0378-2246-77",
+    "0378-2246-93"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "imatinib",
+      "name": "Imatinib Mesylate"
+    }
+  ],
+  "setid": "a1787fad-3612-43e1-98fa-ce62361e0b3c",
+  "source": "dailymed"
+}

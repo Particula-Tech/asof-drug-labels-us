@@ -1,0 +1,27 @@
+# 10 OVERDOSAGE
+
+Experience with doses greater than 800 mg is limited.
+Isolated cases of imatinib mesylate tablets overdose have been reported.
+In the event of overdosage, observe the patient and give appropriate supportive treatment.
+
+Adult Overdose:
+
+1,200 to 1,600 mg (Duration Varying Between 1 to 10 Days): Nausea, vomiting, diarrhea, rash erythema, edema, swelling, fatigue, muscle spasms, thrombocytopenia, pancytopenia, abdominal pain, headache, decreased appetite.
+
+1,800 to 3,200 mg (as High as 3,200 mg Daily for 6 Days): Weakness, myalgia, increased CPK, increased bilirubin, gastrointestinal pain.
+
+6,400 mg (Single Dose): One case in the literature reported one patient who experienced nausea, vomiting, abdominal pain, pyrexia, facial swelling, neutrophil count decreased, increase transaminases.
+
+8 to 10 g (Single Dose):Vomiting and gastrointestinal pain have been reported.
+
+A patient with myeloid blast crisis experienced Grade 1 elevations of serum creatinine, Grade 2 ascites and elevated liver transaminase levels, and Grade 3 elevations of bilirubin after inadvertently taking 1,200 mg of imatinib mesylate tablets daily for 6 days.
+Therapy was temporarily interrupted and complete reversal of all abnormalities occurred within 1 week.
+Treatment was resumed at a dose of 400 mg daily without recurrence of adverse reactions.
+Another patient developed severe muscle cramps after taking 1,600 mg of imatinib mesylate tablets daily for 6 days.
+Complete resolution of muscle cramps occurred following interruption of therapy and treatment was subsequently resumed.
+Another patient that was prescribed 400 mg daily, took 800 mg of imatinib mesylate tablets on Day 1 and 1,200 mg on Day 2.
+Therapy was interrupted, no adverse reactions occurred and the patient resumed therapy.
+
+Pediatric Overdose:
+
+One 3-year-old male exposed to a single dose of 400 mg experienced vomiting, diarrhea and anorexia and another 3-year-old male exposed to a single dose of 980 mg experienced decreased white blood cell count and diarrhea.
