@@ -17,9 +17,9 @@ Benazepril attenuates potassium loss caused by thiazide-type diuretics.
 
 Concomitant administration of benazepril and antidiabetic medicines (insulins, oral hypoglycemic agents) may increase the risk of hypoglycemia.
 
-## 7.3 Non-Steroidal Anti-Inflammatory Agents Including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors)
+## 7.3 Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors)
 
-In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDs, including selective COX-2 inhibitors, with ACE inhibitors, including benazepril, may result in deterioration of renal function, including possible acute renal failure.
+In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, coadministration of NSAIDs, including selective COX-2 inhibitors, with ACE inhibitors, including benazepril, may result in deterioration of renal function, including possible acute renal failure.
 These effects are usually reversible.
 Monitor renal function periodically in patients receiving benazepril and NSAID therapy.
 
@@ -32,7 +32,7 @@ Most patients receiving the combination of two RAS inhibitors do not obtain any 
 In general, avoid combined use of RAS inhibitors.
 Closely monitor blood pressure, renal function and electrolytes in patients on benazepril and other agents that affect the RAS.
 
-Do not co-administer aliskiren with benazepril in patients with diabetes.
+Do not coadminister aliskiren with benazepril in patients with diabetes.
 Avoid use of aliskiren with benazepril in patients with renal impairment (GFR <60 mL/min).
 
 ## 7.5 Mammalian Target of Rapamycin (mTOR) Inhibitors
@@ -46,6 +46,10 @@ Lithium toxicity has been reported in patients receiving lithium concomitantly w
 Lithium toxicity was usually reversible upon discontinuation of lithium or benazepril.
 Monitor serum lithium levels during concurrent use.
 
-## 7.7 Gold
+## 7.7 Neprilysin Inhibitor
+
+Patients taking concomitant neprilysin inhibitors may be at increased risk for angioedema [see Warnings and Precautions].
+
+## 7.8 Gold
 
 Nitritoid reactions (symptoms include facial flushing, nausea, vomiting and hypotension) have been reported rarely in patients on therapy with injectable gold (sodium aurothiomalate) and concomitant ACE inhibitor therapy.

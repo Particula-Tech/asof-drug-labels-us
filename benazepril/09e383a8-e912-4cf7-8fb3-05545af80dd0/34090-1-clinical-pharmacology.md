@@ -15,7 +15,6 @@ In animal studies, benazepril had no inhibitory effect on the vasopressor respon
 
 ACE is identical to kininase, an enzyme that degrades bradykinin.
 Whether increased levels of bradykinin, a potent vasodepressor peptide, play a role in the therapeutic effects of benazepril remains to be elucidated.
-
 While the mechanism through which benazepril lowers blood pressure is believed to be primarily suppression of the renin-angiotensin-aldosterone system, benazepril has an antihypertensive effect even in patients with low-renin hypertension.
 
 ## 12.2 Pharmacodynamics
@@ -23,7 +22,7 @@ While the mechanism through which benazepril lowers blood pressure is believed t
 Single and multiple doses of 10 mg or more of benazepril cause inhibition of plasma ACE activity by at least 80% to 90% for at least 24 hours after dosing.
 Pressor responses to exogenous angiotensin I were inhibited by 60% to 90% (up to 4 hours post-dose) at the 10 mg dose.
 
-Drug interactions
+Drug Interactions
 
 Benazepril has been used concomitantly with beta-adrenergic-blocking agents, calcium-channel-blocking agents, diuretics, digoxin, and hydralazine, without evidence of clinically important adverse interactions.
 Benazepril, like other ACE inhibitors, has had less than additive effects with beta-adrenergic blockers, presumably because both drugs lower blood pressure by inhibiting parts of the renin-angiotensin system.
@@ -53,7 +52,7 @@ Specific Populations
 Renal impairment
 
 The pharmacokinetics of systemic exposure to benazepril and benazeprilat in patients with mild-to-moderate renal insufficiency (creatinine clearance >30 mL/min) is similar to that in patients with normal renal function.
-In patients with creatinine clearance ≤30 mL/min, peak benazeprilat levels and the initial (alpha phase) half-life increase, and time to steady state may be delayed [see DOSAGE AND ADMINISTRATION (2)].
+In patients with creatinine clearance ≤30 mL/min, peak benazeprilat levels and the initial (alpha phase) half-life increase, and time to steady- state may be delayed [see DOSAGE AND ADMINISTRATION (2)].
 
 When dialysis was started 2 hours after ingestion of 10 mg of benazepril, approximately 6% of benazeprilat was removed in 4 hours of dialysis.
 The parent compound, benazepril, was not detected in the dialysate.
@@ -69,7 +68,7 @@ Likewise the administration of benazepril does not substantially affect the phar
 
 Pediatrics
 
-The pharmacokinetics of benazaprilat, evaluated in pediatric patients with hypertension following oral administration of a single dose is presented in table below.
+The pharmacokinetics of benazeprilat, evaluated in pediatric patients with hypertension following oral administration of a single dose is presented in table below.
 
 | Age group | Cmax (ng/mL) | Tmax* (h) | AUC0-inf (ng/mL*h) | CL/F/wt (L/h/Kg) | T1/2 (h) |
 | --- | --- | --- | --- | --- | --- |

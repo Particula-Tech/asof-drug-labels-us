@@ -18,8 +18,9 @@ Dermatologic: Stevens-Johnson syndrome, pemphigus, apparent hypersensitivity rea
 Gastrointestinal: Nausea, pancreatitis, constipation, gastritis, vomiting, and melena.
 Hematologic: Thrombocytopenia and hemolytic anemia.
 
-Neurologic/Psychiatric: Anxiety, decreased libido, hypertonia, insomnia, nervousness, and paresthesia
+Neurologic/Psychiatric: Anxiety, decreased libido, hypertonia, insomnia, nervousness, and paresthesia.
 
 Other: Fatigue, asthma, bronchitis, dyspnea, sinusitis, urinary tract infection, frequent urination, infection, arthritis, impotence, alopecia, arthralgia, myalgia, asthenia, sweating.
 
-Laboratory Abnormalities: Elevations of uric acid, blood glucose, serum bilirubin, and liver enzymes [see Warnings and Precautions (5.6)] have been reported, as have incidents of hyponatremia, electrocardiographic changes, eosinophilia, and proteinuria
+Laboratory Abnormalities: Elevations of uric acid, blood glucose, serum bilirubin, and liver enzymes [see WARNINGS AND PRECAUTIONS (5)] have been reported, as have incidents of hyponatremia, electrocardiographic changes, eosinophilia, and proteinuria.
+To report SUSPECTED ADVERSE REACTIONS, contact Aurobindo Pharma USA, Inc. at 1-866-850-2876 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

@@ -2,7 +2,7 @@
 
 ## 5.1 Fetal Toxicity
 
-PREGNANCY CATEGORY D
+Pregnancy Category D
 
 Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death.
 Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations.
@@ -19,10 +19,10 @@ Angioedema of the face, extremities, lips, tongue, glottis, and/or larynx includ
 Patients with involvement of the tongue, glottis or larynx are likely to experience airway obstruction, especially those with a history of airway surgery.
 Benazepril should be promptly discontinued and appropriate therapy and monitoring should be provided until complete and sustained resolution of signs and symptoms of angioedema has occurred.
 
-Patients with a history of angioedema unrelated to ACE inhibitor therapy may be at increased risk of angioedema while receiving an ACE inhibitor [see Contraindications (4)].
+Patients with a history of angioedema unrelated to ACE inhibitor therapy may be at increased risk of angioedema while receiving an ACE inhibitor [see CONTRAINDICATIONS (4)].
 ACE inhibitors have been associated with a higher rate of angioedema in Black than in non-Black patients.
 
-Patients receiving coadministration of ACE inhibitor and mTOR (mammalian target of rapamycin) inhibitor (e.g., temsirolimus, sirolimus, everolimus) therapy may be at increased risk for angioedema.
+Patients receiving coadministration of ACE inhibitor and mTOR (mammalian target of rapamycin) inhibitor (e.g., temsirolimus, sirolimus, everolimus) therapy or a neprilysin inhibitor may be at increased risk for angioedema [see Drug Interactions (7.7)].
 
 Intestinal Angioedema
 
@@ -67,7 +67,7 @@ If hypotension occurs, correct by volume expansion.
 ## 5.5 Hyperkalemia
 
 Serum potassium should be monitored periodically in patients receiving benazepril.
-Drugs that inhibit the renin angiotensin system can cause hyperkalemia.
+Drugs that inhibit the renin-angiotensin system can cause hyperkalemia.
 Risk factors for the development of hyperkalemia include renal insufficiency, diabetes mellitus, and the concomitant use of potassium-sparing diuretics, potassium supplements and/or potassium-containing salt substitutes [see Drug Interactions (7.1)].
 
 ## 5.6 Hepatic Failure
