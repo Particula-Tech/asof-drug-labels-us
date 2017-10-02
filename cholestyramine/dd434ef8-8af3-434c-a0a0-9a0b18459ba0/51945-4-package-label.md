@@ -10,9 +10,7 @@ NUTRASWEET®* BRAND SWEETENER
 
 Contains 231 g (168 g anhydrous cholestyramine resin)
 
-42 measured doses
-
-Rx only
+42 measured doses Rx only
 
 Scoop enclosed
 

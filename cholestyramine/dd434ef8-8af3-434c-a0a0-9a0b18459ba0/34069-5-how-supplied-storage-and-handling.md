@@ -7,6 +7,4 @@ Prevalite® (cholestyramine for oral suspension, USP) powder is available in car
 - NDC 0245-0036-60 Cartons of 60, 5.5 g packets
 - NDC 0245-0036-23 Cans, 231 g (42 doses)
 
-Store at 20° to 25°C (68° to 77°F).
-Excursions permitted to 15° to 30°C (59° to 86°F).
-[See USP Controlled Room Temperature.]
+Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [See USP Controlled Room Temperature].
