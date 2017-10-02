@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA209776"
+  ],
+  "inn": "meropenem",
+  "labeler": "The Medicines Company",
+  "package_ndcs": [
+    "65293-009-01",
+    "65293-009-06"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, FOR SOLUTION",
+      "generic": "meropenem-vaborbactam",
+      "name": "VABOMERE"
+    }
+  ],
+  "setid": "580db23f-c655-3049-e053-2a91aa0ad616",
+  "source": "dailymed"
+}
