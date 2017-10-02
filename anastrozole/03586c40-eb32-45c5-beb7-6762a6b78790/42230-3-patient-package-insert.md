@@ -7,9 +7,9 @@ Manufactured By:
 Intas Pharmaceuticals Limited, Plot No.: 457, 458, Village – Matoda, Bavla Road, Ta. - Sanand, Dist.- Ahmedabad – 382 210.
 India.
 
-10 1557 5 654728
+10 2311 0 677194
 
-Issued June 2014
+Issued July 2017
 
 Patient Information
 
@@ -158,6 +158,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 How should I store anastrozole tablets?
 
 - Store anastrozole tablets at room temperature between 68°F to 77°F (20°C to 25°C).
+  Preserve in tight container.
 - Keep anastrozole tablets and all medicines out of the reach of children.
 
 General information about the safe and effective use of anastrozole tablets.
@@ -169,6 +170,8 @@ It may harm them.
 
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about anastrozole tablets that is written for health professionals.
+
+For more information, visit www.accordhealthcare.us or call Accord Healthcare Inc. at 1-866-941-7875.
 
 What are the ingredients in anastrozole tablets?
 
@@ -187,6 +190,6 @@ Manufactured By:
 Intas Pharmaceuticals Limited, Plot No.: 457, 458, Village – Matoda, Bavla Road, Ta. - Sanand, Dist.- Ahmedabad – 382 210.
 India.
 
-10 1557 5 654728
+10 2311 0 677194
 
-Issued June 2014
+Issued July 2017
