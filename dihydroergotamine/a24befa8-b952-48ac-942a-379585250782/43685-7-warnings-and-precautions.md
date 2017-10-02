@@ -9,7 +9,7 @@ The use of potent CYP 3A4 inhibitors with dihydroergotamine should therefore be 
 Examples of some of the more potent CYP 3A4 inhibitors include: antifungals ketoconazole and itraconazole, the protease inhibitors ritonavir, nelfinavir, and indinavir, and macrolide antibiotics erythromycin, clarithromycin, and troleandomycin.
 Other less potent CYP 3A4 inhibitors should be administered with caution.
 Less potent inhibitors include saquinavir, nefazodone, fluconazole, grapefruit juice, fluoxetine, fluvoxamine, zileuton, and clotrimazole.
-These lists are not exhaustive, and the prescriber should consider the effects on CYP3A4 of other agents being considered for concomitant use with dihydroergotamine.
+These lists are not exhaustive, and the prescriber should consider the effects on CYP 3A4 of other agents being considered for concomitant use with dihydroergotamine.
 
 ## Fibrotic Complications
 
@@ -157,7 +157,7 @@ There was no evidence of impairment of fertility in rats given intranasal doses 
 
 ## Pregnancy
 
-### Pregnancy Category X
+### Pregnancy Category X.
 
 See CONTRAINDICATIONS.
 

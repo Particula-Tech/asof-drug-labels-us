@@ -8,9 +8,9 @@ The chemical structure is:
 
 Migranal® (dihydroergotamine mesylate, USP) Nasal Spray is provided for intranasal administration as a clear, colorless to faintly yellow solution in an amber glass vial containing:
 
-| dihydroergotamine mesylate, USP | 4.0 mg |
+| dihydroergotamine mesylate, USP………… | 4.0 mg |
 | --- | --- |
-| caffeine, anhydrous, USP | 10.0 mg |
-| dextrose, anhydrous, USP | 50.0 mg |
-| carbon dioxide, USP | qs |
-| purified water, USP | qs 1.0 mL |
+| caffeine, anhydrous, USP……………………. | 10.0 mg |
+| dextrose, anhydrous, USP…………………… | 50.0 mg |
+| carbon dioxide, USP………………………… | qs |
+| purified water, USP…………………………. | qs 1.0 mL |

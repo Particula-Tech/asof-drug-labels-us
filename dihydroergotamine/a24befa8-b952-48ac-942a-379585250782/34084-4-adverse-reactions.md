@@ -93,3 +93,5 @@ Because of their source (open and uncontrolled clinical use), whether or not eve
 There have been reports of pleural and retroperitoneal fibrosis in patients following prolonged daily use of injectable dihydroergotamine mesylate.
 Migranal® (dihydroergotamine mesylate, USP) Nasal Spray is not recommended for prolonged daily use.
 (See DOSAGE AND ADMINISTRATION)
+
+To report SUSPECTED ADVERSE REACTIONS, contact Valeant Pharmaceuticals North America LLC, at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

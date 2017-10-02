@@ -10,8 +10,8 @@ The safety of doses greater than 3.0 mg in a 24 hour period and 4.0 mg in a 7 da
 
 Migranal® (dihydroergotamine mesylate, USP) Nasal Spray, should not be used for chronic daily administration.
 
-Prior to administration, the pump must be primed (i.e., squeeze 4 times) before use.
-(See administration instructions) Once the nasal spray applicator has been prepared, it should be discarded (with any remaining drug in opened vial) after 8 hours.
+Prior to administration, the pump must be primed (i.e., squeeze 4 times) before use (see administration instructions).
+Once the nasal spray applicator has been prepared, it should be discarded (with any remaining drug in opened vial) after 8 hours.
 
 Prior to administration, the pump must be primed (i.e., squeeze 4 times) before use.
 (See administration instructions)

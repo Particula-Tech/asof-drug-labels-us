@@ -27,7 +27,7 @@ Do not use Migranal® (dihydroergotamine mesylate, USP) Nasal Spray if you:
 
 - •Are pregnant or nursing.
 - •have any disease affecting your heart, arteries, or circulation.
-- •are taking certain anti-HIV medications (protease inhibitors)
+- •are taking certain anti-HIV medications (protease inhibitors).
 - •are taking a macrolide antibiotic such as troleandomycin, clarithromycin or erythromycin.
 
 Important questions to consider before using Migranal® (dihydroergotamine mesylate, USP) Nasal Spray
@@ -55,7 +55,7 @@ If you answer YES to any of these questions or are unsure of the answer, you sho
 
 Serious or potentially life-threatening reductions in blood flow to the brain or extremities have been reported rarely due to interactions between Migranal® (dihydroergotamine mesylate, USP) Nasal Spray and protease inhibitors or macrolide antibiotics.
 
-REMEMBER TO TELL YOUR DOCTOR IF YOU HAVE ANSWERED YES TO ANY OF THESE QUESTIONS BEFORE YOU USE Migranal® (dihydroergotamine mesylate, USP) NASAL SPRAY.
+REMEMBER TO TELL YOUR DOCTOR IF YOU HAVE ANSWERED YES TO ANY OF THESE QUESTIONS BEFORE YOU USE Migranal® (dihydroergotamine mesylate, USP) Nasal Spray.
 
 Side Effects To Watch Out For
 
@@ -87,7 +87,7 @@ How to use the Migranal® (dihydroergotamine mesylate, USP) Nasal Spray
 
 1. 1.Use available training materials.
    1. •Read and follow the instructions in the administration instructions which are provided with the Migranal® (dihydroergotamine mesylate, USP) Nasal Spray package before attempting to use the product.
-   2. •If there are any questions concerning the use of your Migranal® (dihydroergotamine mesylate, USP) Nasal Spray, ask your doctor or pharmacist, or call the Migranal® (dihydroergotamine mesylate, USP) Nasal Spray Information Line at 1-888-MY-RELIEF (1-888-697-3543) for training in the use of the spray.
+   2. •If there are any questions concerning the use of your Migranal® (dihydroergotamine mesylate, USP) Nasal Spray, ask your doctor or pharmacist, or contact Valeant Pharmaceuticals North America LLC, at 1-800-321-4576.
 2. 2.Check the contents of the package:
    1. •8 Nasal Spray Vials
    2. •8 Nasal Sprayers
@@ -130,7 +130,7 @@ Answers to patients' questions about Migranal® (dihydroergotamine mesylate, USP
 
 What if I need help in using my Migranal® (dihydroergotamine mesylate, USP) Nasal Spray?
 
-If you have any questions or if you need help in opening, putting together, or using Migranal® (dihydroergotamine mesylate, USP) Nasal Spray, speak to your doctor or pharmacist, or call the Migranal® (dihydroergotamine mesylate, USP) Nasal Spray Information Line at 1-888-MY-RELIEF (1-888-697-3543) or visit www.migranal.com.
+If you have any questions or if you need help in opening, putting together, or using Migranal® (dihydroergotamine mesylate, USP) Nasal Spray, speak to your doctor or pharmacist, or contact Valeant Pharmaceuticals North America LLC, at 1-800-321-4576 or visit www.migranal.com.
 
 How much medication should I use and how often?
 
@@ -166,17 +166,20 @@ Do I need to sniff the medication when I spray it in my nostril?
 No, you should not sniff because Migranal® (dihydroergotamine mesylate, USP) Nasal Spray should remain in the nose so that it can be absorbed into the bloodstream through the lining of the nose.
 If you have any other unanswered questions about Migranal® (dihydroergotamine mesylate, USP) Nasal Spray, consult your doctor or pharmacist.
 
-Migranal® is a registered trademark of Valeant Pharmaceuticals North America LLC.
-All other trademarks are the properties of their respective owners.
+Trademark of Medical Economics Company, Inc.
 
 Manufactured for: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
-By: Mipharm, S.p.A.
+Manufactured by: Mipharm, S.p.A.
 Milan, Italy
 
-Made in Italy
+®/™ are trademarks of Valeant Pharmaceuticals International, Inc. or its affiliates.
+
+©Valeant Pharmaceuticals North America LLC
 
 www.migranal.com
 
 Rev.
-11/14 9433300 70010604
+08/17
+
+9603500 USA/933341

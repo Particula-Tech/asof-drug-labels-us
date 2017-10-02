@@ -12,4 +12,4 @@ The symptoms of an ergotamine overdose include the following: numbness, tingling
 In laboratory animals, significant lethality occurs when dihydroergotamine is given at I.V. doses of 44 mg/kg in mice, 130 mg/kg in rats, and 37 mg/kg in rabbits.
 
 Up-to-date information about the treatment of overdosage can often be obtained from a certified Regional Poison Control Center.
-Telephone numbers of certified Poison Control Centers are listed in the Physicians' Desk Reference® (PDR).Trademark of Medical Economics Company, Inc.
+Telephone numbers of certified Poison Control Centers are listed in the Physicians' Desk Reference (PDR).
