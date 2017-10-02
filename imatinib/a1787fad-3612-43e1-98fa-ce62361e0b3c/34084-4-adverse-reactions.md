@@ -14,7 +14,6 @@ The following serious adverse reactions are described elsewhere in the labeling:
 - •Growth Retardation in Children and Adolescents [see Warnings and Precautions (5.11)]
 - •Tumor Lysis Syndrome [see Warnings and Precautions (5.12)]
 - •Impairments Related to Driving and Using Machinery [see Warnings and Precautions (5.13)]
-- •Renal Toxicity [see Warnings and Precautions (5.14)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -28,7 +27,7 @@ Imatinib mesylate was discontinued due to drug-related adverse reactions in 4% o
 
 The most frequently reported drug-related adverse reactions were edema, nausea and vomiting, muscle cramps, musculoskeletal pain, diarrhea and rash (Table 2 and Table 3 for newly diagnosed CML, Table 4 for other CML patients).
 Edema was most frequently periorbital or in lower limbs and was managed with diuretics, other supportive measures, or by reducing the dose of imatinib mesylate [see Dosage and Administration (2.13)].
-The frequency of severe superficial edema was 1.5%-6%.
+The frequency of severe superficial edema was 1.5% to 6%.
 
 A variety of adverse reactions represent local or general fluid retention including pleural effusion, ascites, pulmonary edema and rapid weight gain with or without superficial edema.
 These reactions appear to be dose related, were more common in the blast crisis and accelerated phase studies (where the dose was 600 mg/day), and are more common in the elderly.
@@ -214,7 +213,7 @@ Table 7: Laboratory Abnormalities in Other CML Clinical Trials
 
 |  | Myeloid Blast Crisis(N = 260)600 mg N = 223400 mg N = 37% |  | Accelerated Phase(N = 235)600 mg N = 158400 mg N = 77% |  | Chronic Phase, IFN Failure(N = 532)400 mg% |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| CTC GradesCTC Grades: neutropenia (Grade 3 greater than or equal to 0.5-1.0 x 109/L, Grade 4 less than 0.5 x 109/L), thrombocytopenia (Grade 3 greater than or equal to 10-50 x 109/L, Grade 4 less than 10 x 109/L), anemia (hemoglobin greater than or equal to 65-80 g/L, Grade 4 less than 65 g/L), elevated creatinine (Grade 3 greater than 3-6 x upper limit normal range [ULN], Grade 4 greater than 6 x ULN), elevated bilirubin (Grade 3 greater than 3-10 x ULN, Grade 4 greater than 10 x ULN), elevated alkaline phosphatase (Grade 3 greater than 5-20 x ULN, Grade 4 greater than 20 x ULN), elevated SGOT or SGPT (Grade 3 greater than 5-20 x ULN, Grade 4 greater than 20 x ULN) | Grade 3 | Grade 4 | Grade 3 | Grade 4 | Grade 3 | Grade 4 |
+| CTC GradesCTC Grades: neutropenia (Grade 3 greater than or equal to 0.5 to 1.0 x 109/L, Grade 4 less than 0.5 x 109/L), thrombocytopenia (Grade 3 greater than or equal to 10 to 50 x 109/L, Grade 4 less than 10 x 109/L), anemia (hemoglobin greater than or equal to 65 g/L to 80 g/L, Grade 4 less than 65 g/L), elevated creatinine (Grade 3 greater than 3 to 6 x upper limit normal range [ULN], Grade 4 greater than 6 x ULN), elevated bilirubin (Grade 3 greater than 3 to 10 x ULN, Grade 4 greater than 10 x ULN), elevated alkaline phosphatase (Grade 3 greater than 5 to 20 x ULN, Grade 4 greater than 20 x ULN), elevated SGOT or SGPT (Grade 3 greater than 5 to 20 x ULN, Grade 4 greater than 20 x ULN) | Grade 3 | Grade 4 | Grade 3 | Grade 4 | Grade 3 | Grade 4 |
 | Hematology Parameters |  |  |  |  |  |  |
 | -- Neutropenia | 16 | 48 | 23 | 36 | 27 | 9 |
 | -- Thrombocytopenia | 30 | 33 | 31 | 13 | 21 | < 1 |
@@ -310,7 +309,7 @@ Clinically relevant or severe laboratory abnormalities in the 12 patients treate
 
 Table 11: Laboratory Abnormalities Reported in DFSP Patients in the Phase 2 Study
 
-| CTC GradesCTC Grades: neutropenia (Grade 3 greater than or equal to 0.5-1.0 x 109/L, Grade 4 less than 0.5 x 109/L), thrombocytopenia (Grade 3 greater than or equal to 10-50 x 109/L, Grade 4 less than 10 x 109/L), anemia (Grade 3 greater than or equal to 65-80 g/L, Grade 4 less than 65 g/L), elevated creatinine (Grade 3 greater than 3-6 x upper limit normal range [ULN], Grade 4 greater than 6 x ULN) | N = 12 |  |
+| CTC GradesCTC Grades: neutropenia (Grade 3 greater than or equal to 0.5 to 1.0 x 109/L, Grade 4 less than 0.5 x 109/L), thrombocytopenia (Grade 3 greater than or equal to 10 to 50 x 109/L, Grade 4 less than 10 x 109/L), anemia (Grade 3 greater than or equal to 65 g/L to 80 g/L, Grade 4 less than 65 g/L), elevated creatinine (Grade 3 greater than 3 to 6 x upper limit normal range [ULN], Grade 4 greater than 6 x ULN) | N = 12 |  |
 | --- | --- | --- |
 | Grade 3 % | Grade 4 % |  |
 | Hematology Parameters |  |  |
@@ -324,113 +323,113 @@ Table 11: Laboratory Abnormalities Reported in DFSP Patients in the Phase 2 Stud
 
 Cardiac Disorders:
 
-Estimated 1%-10%: palpitations, pericardial effusion
+Estimated 1% to 10%: palpitations, pericardial effusion
 
-Estimated 0.1%-1%: congestive cardiac failure, tachycardia, pulmonary edema
+Estimated 0.1% to 1%: congestive cardiac failure, tachycardia, pulmonary edema
 
-Estimated 0.01%-0.1%: arrhythmia, atrial fibrillation, cardiac arrest, myocardial infarction, angina pectoris
+Estimated 0.01% to 0.1%: arrhythmia, atrial fibrillation, cardiac arrest, myocardial infarction, angina pectoris
 
 Vascular Disorders:
 
-Estimated 1%-10%: flushing, hemorrhage
+Estimated 1% to 10%: flushing, hemorrhage
 
-Estimated 0.1%-1%: hypertension, hypotension, peripheral coldness, Raynaud’s phenomenon, hematoma, subdural hematoma
+Estimated 0.1% to 1%: hypertension, hypotension, peripheral coldness, Raynaud’s phenomenon, hematoma, subdural hematoma
 
 Investigations:
 
-Estimated 1%-10%: blood CPK increased, blood amylase increased
+Estimated 1% to 10%: blood CPK increased, blood amylase increased
 
-Estimated 0.1%-1%: blood LDH increased
+Estimated 0.1% to 1%: blood LDH increased
 
 Skin and Subcutaneous Tissue Disorders:
 
-Estimated 1%-10%: dry skin, alopecia, face edema, erythema, photosensitivity reaction, nail disorder, purpura
+Estimated 1% to 10%: dry skin, alopecia, face edema, erythema, photosensitivity reaction, nail disorder, purpura
 
-Estimated 0.1%-1%: exfoliative dermatitis, bullous eruption, psoriasis, rash pustular, contusion, sweating increased, urticaria, ecchymosis, increased tendency to bruise, hypotrichosis, skin hypopigmentation, skin hyperpigmentation, onychoclasis, folliculitis, petechiae, erythema multiforme
+Estimated 0.1% to 1%: exfoliative dermatitis, bullous eruption, psoriasis, rash pustular, contusion, sweating increased, urticaria, ecchymosis, increased tendency to bruise, hypotrichosis, skin hypopigmentation, skin hyperpigmentation, onychoclasis, folliculitis, petechiae, erythema multiforme
 
-Estimated 0.01%-0.1%: vesicular rash, Stevens-Johnson syndrome, acute generalized exanthematous pustulosis, acute febrile neutrophilic dermatosis (Sweet’s syndrome), nail discoloration, angioneurotic edema, leucocytoclastic vasculitis
+Estimated 0.01% to 0.1%: vesicular rash, Stevens-Johnson syndrome, acute generalized exanthematous pustulosis, acute febrile neutrophilic dermatosis (Sweet’s syndrome), nail discoloration, angioneurotic edema, leucocytoclastic vasculitis
 
 Gastrointestinal Disorders:
 
-Estimated 1%-10%: abdominal distention, gastroesophageal reflux, dry mouth, gastritis
+Estimated 1% to 10%: abdominal distention, gastroesophageal reflux, dry mouth, gastritis
 
-Estimated 0.1%-1%: gastric ulcer, stomatitis, mouth ulceration, eructation, melena, esophagitis, ascites, hematemesis, chelitis, dysphagia, pancreatitis
+Estimated 0.1% to 1%: gastric ulcer, stomatitis, mouth ulceration, eructation, melena, esophagitis, ascites, hematemesis, chelitis, dysphagia, pancreatitis
 
-Estimated 0.01%-0.1%: colitis, ileus, inflammatory bowel disease
+Estimated 0.01% to 0.1%: colitis, ileus, inflammatory bowel disease
 
 General Disorders and Administration Site Conditions:
 
-Estimated 1%-10%: weakness, anasarca, chills
+Estimated 1% to 10%: weakness, anasarca, chills
 
-Estimated 0.1%-1%: malaise
+Estimated 0.1% to 1%: malaise
 
 Blood and Lymphatic System Disorders:
 
-Estimated 1%-10%: pancytopenia, febrile neutropenia, lymphopenia, eosinophilia
+Estimated 1% to 10%: pancytopenia, febrile neutropenia, lymphopenia, eosinophilia
 
-Estimated 0.1%-1%: thrombocythemia, bone marrow depression, lymphadenopathy
+Estimated 0.1% to 1%: thrombocythemia, bone marrow depression, lymphadenopathy
 
-Estimated 0.01%-0.1%: hemolytic anemia, aplastic anemia
+Estimated 0.01% to 0.1%: hemolytic anemia, aplastic anemia
 
 Hepatobiliary Disorders:
 
-Estimated 0.1%-1%: hepatitis, jaundice
+Estimated 0.1% to 1%: hepatitis, jaundice
 
-Estimated 0.01%-0.1%: hepatic failure and hepatic necrosis1
+Estimated 0.01% to 0.1%: hepatic failure and hepatic necrosis1
 
 Immune System Disorders:
 
-Estimated 0.01%-0.1%: angioedema
+Estimated 0.01% to 0.1%: angioedema
 
 Infections and Infestations:
 
-Estimated 0.1%-1%: sepsis, herpes simplex, herpes zoster, cellulitis, urinary tract infection, gastroenteritis
+Estimated 0.1% to 1%: sepsis, herpes simplex, herpes zoster, cellulitis, urinary tract infection, gastroenteritis
 
-Estimated 0.01%-0.1%: fungal infection
+Estimated 0.01% to 0.1%: fungal infection
 
 Metabolism and Nutrition Disorders:
 
-Estimated 1%-10%: weight decreased, decreased appetite
+Estimated 1% to 10%: weight decreased, decreased appetite
 
-Estimated 0.1%-1%: dehydration, gout, increased appetite, hyperuricemia, hypercalcemia, hyperglycemia, hyponatremia, hyperkalemia, hypomagnesemia
+Estimated 0.1% to 1%: dehydration, gout, increased appetite, hyperuricemia, hypercalcemia, hyperglycemia, hyponatremia, hyperkalemia, hypomagnesemia
 
 Musculoskeletal and Connective Tissue Disorders:
 
-Estimated 1%-10%: joint swelling
+Estimated 1% to 10%: joint swelling
 
-Estimated 0.1%-1%: joint and muscle stiffness, muscular weakness, arthritis
+Estimated 0.1% to 1%: joint and muscle stiffness, muscular weakness, arthritis
 
 Nervous System/Psychiatric Disorders:
 
-Estimated 1%-10%: paresthesia, hypesthesia
+Estimated 1% to 10%: paresthesia, hypesthesia
 
-Estimated 0.1%-1%: syncope, peripheral neuropathy, somnolence, migraine, memory impairment, libido decreased, sciatica, restless leg syndrome, tremor
+Estimated 0.1% to 1%: syncope, peripheral neuropathy, somnolence, migraine, memory impairment, libido decreased, sciatica, restless leg syndrome, tremor
 
-Estimated 0.01%-0.1%: increased intracranial pressure1, confusional state, convulsions, optic neuritis
+Estimated 0.01% to 0.1%: increased intracranial pressure1, confusional state, convulsions, optic neuritis
 
 Renal and Urinary Disorders:
 
-Estimated 0.1%-1%: renal failure acute, urinary frequency increased, hematuria, renal pain
+Estimated 0.1% to 1%: renal failure acute, urinary frequency increased, hematuria, renal pain
 
 Reproductive System and Breast Disorders:
 
-Estimated 0.1%-1%: breast enlargement, menorrhagia, sexual dysfunction, gynecomastia, erectile dysfunction, menstruation irregular, nipple pain, scrotal edema
+Estimated 0.1% to 1%: breast enlargement, menorrhagia, sexual dysfunction, gynecomastia, erectile dysfunction, menstruation irregular, nipple pain, scrotal edema
 
 Respiratory, Thoracic and Mediastinal Disorders:
 
-Estimated 1%-10%: epistaxis
+Estimated 1% to 10%: epistaxis
 
-Estimated 0.1%-1%: pleural effusion
+Estimated 0.1% to 1%: pleural effusion
 
-Estimated 0.01%-0.1%: interstitial pneumonitis, pulmonary fibrosis, pleuritic pain, pulmonary hypertension, pulmonary hemorrhage
+Estimated 0.01% to 0.1%: interstitial pneumonitis, pulmonary fibrosis, pleuritic pain, pulmonary hypertension, pulmonary hemorrhage
 
 Eye, Ear and Labyrinth Disorders:
 
-Estimated 1%-10%: conjunctivitis, vision blurred, orbital edema, conjunctival hemorrhage, dry eye
+Estimated 1% to 10%: conjunctivitis, vision blurred, orbital edema, conjunctival hemorrhage, dry eye
 
-Estimated 0.1%-1%: vertigo, tinnitus, eye irritation, eye pain, scleral hemorrhage, retinal hemorrhage, blepharitis, macular edema, hearing loss, cataract
+Estimated 0.1% to 1%: vertigo, tinnitus, eye irritation, eye pain, scleral hemorrhage, retinal hemorrhage, blepharitis, macular edema, hearing loss, cataract
 
-Estimated 0.01%-0.1%: papilledema1, glaucoma
+Estimated 0.01% to 0.1%: papilledema1, glaucoma
 
 1Including some fatalities
 

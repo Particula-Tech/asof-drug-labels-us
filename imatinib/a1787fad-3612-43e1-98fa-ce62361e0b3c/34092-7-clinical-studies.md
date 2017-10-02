@@ -37,7 +37,7 @@ The probability of remaining progression free at 60 months was 95% for patients 
 
 A total of 71 (12.8%) and 85 (15.4%) patients died in the imatinib mesylate tablets and IFN+Ara-C group, respectively.
 At 84 months the estimated overall survival is 86.4% (83, 90) vs. 83.3% (80, 87) in the randomized imatinib mesylate tablets and the IFN+Ara-C group, respectively (p = 0.073 log-rank test).
-The hazard ratio is 0.750 with 95% CI 0.547-1.028.
+The hazard ratio is 0.750 with 95% CI 0.547 to 1.028.
 This time-to-event endpoint may be affected by the high crossover rate from IFN+Ara-C to imatinib mesylate tablets.
 Major cytogenetic response, hematologic response, evaluation of minimal residual disease (molecular response), time to accelerated phase or blast crisis and survival were main secondary endpoints.
 Response data are shown in Table 18.
@@ -51,7 +51,7 @@ Table 18: Response in Newly Diagnosed CML Study (84-Month Data)
 | Hematologic ResponseHematologic response criteria (all responses to be confirmed after greater than or equal to 4 weeks): WBC less than 10 x 109/L, platelet less than 450 x 109/L, myelocyte + metamyelocyte less than 5% in blood, no blasts and promyelocytes in blood, no extramedullary involvement. |  |  |
 | CHR Rate n (%) | 534 (96.6%)p less than 0.001, Fischer’s exact test | 313 (56.6%) |
 | [95% CI] | [94.7%, 97.9%] | [52.4%, 60.8%] |
-| Cytogenetic ResponseCytogenetic response criteria (confirmed after greater than or equal to 4 weeks): complete (0% Ph+ metaphases) or partial (1%-35%). A major response (0%-35%) combines both complete and partial responses. |  |  |
+| Cytogenetic ResponseCytogenetic response criteria (confirmed after greater than or equal to 4 weeks): complete (0% Ph+ metaphases) or partial (1% to 35%). A major response (0% to 35%) combines both complete and partial responses. |  |  |
 | Major Cytogenetic Response n (%) | 472 (85.4%) | 93 (16.8%) |
 | [95% CI] | [82.1%, 88.2%] | [13.8%, 20.2%] |
 | UnconfirmedUnconfirmed cytogenetic response is based on a single bone marrow cytogenetic evaluation, therefore unconfirmed complete or partial cytogenetic responses might have had a lesser cytogenetic response on a subsequent bone marrow evaluation. | 88.6% | 23.3% |
@@ -123,7 +123,7 @@ Hematologic response was achieved in 98% of patients with cytogenetic failure, 9
 ### Accelerated Phase
 
 235 patients with accelerated phase disease were enrolled.
-These patients met one or more of the following criteria: greater than or equal to 15% - less than 30% blasts in PB or BM; greater than or equal to 30% blasts + promyelocytes in PB or BM; greater than or equal to 20% basophils in PB; and less than 100 x 109/L platelets.
+These patients met one or more of the following criteria: greater than or equal to 15% to less than 30% blasts in PB or BM; greater than or equal to 30% blasts + promyelocytes in PB or BM; greater than or equal to 20% basophils in PB; and less than 100 x 109/L platelets.
 The first 77 patients were started at 400 mg, with the remaining 158 patients starting at 600 mg.
 
 Effectiveness was evaluated primarily on the basis of the rate of hematologic response, reported as either complete hematologic response, no evidence of leukemia (i.e., clearance of blasts from the marrow and the blood, but without a full peripheral blood recovery as for complete responses), or return to chronic phase CML.
@@ -150,11 +150,11 @@ Table 20: Response in CML Studies
 |  | Chronic Phase IFN Failure(N = 532)400 mg | Accelerated Phase(N = 235)600 mg N = 158400 mg N = 77 | Myeloid Blast Crisis(N = 260)600 mg N = 223400 mg N = 37 |
 | --- | --- | --- | --- |
 |  | % of patients [CI95%] |  |  |
-| Hematologic ResponseHematologic response criteria (all responses to be confirmed after greater than or equal to 4 weeks): CHR: Chronic phase study [WBC less than 10 x 109/L, platelet less than 450 x 109/L, myelocytes + metamyelocytes less than 5% in blood, no blasts and promyelocytes in blood, basophils less than 20%, no extramedullary involvement] and in the accelerated and blast crisis studies [ANC greater than or equal to 1.5 x 109/L, platelets greater than or equal to 100 x 109/L, no blood blasts, BM blasts less than 5% and no extramedullary disease] NEL: Same criteria as for CHR but ANC greater than or equal to 1 x 109/L and platelets greater than or equal to 20 x 109/L (accelerated and blast crisis studies) RTC: less than 15% blasts BM and PB, less than 30% blasts + promyelocytes in BM and PB, less than 20% basophils in PB, no extramedullary disease other than spleen and liver (accelerated and blast crisis studies). BM = bone marrow, PB = peripheral blood | 95% [92.3-96.3] | 71% [64.8-76.8] | 31% [25.2-36.8] |
+| Hematologic ResponseHematologic response criteria (all responses to be confirmed after greater than or equal to 4 weeks): CHR: Chronic phase study [WBC less than 10 x 109/L, platelet less than 450 x 109/L, myelocytes + metamyelocytes less than 5% in blood, no blasts and promyelocytes in blood, basophils less than 20%, no extramedullary involvement] and in the accelerated and blast crisis studies [ANC greater than or equal to 1.5 x 109/L, platelets greater than or equal to 100 x 109/L, no blood blasts, BM blasts less than 5% and no extramedullary disease] NEL: Same criteria as for CHR but ANC greater than or equal to 1 x 109/L and platelets greater than or equal to 20 x 109/L (accelerated and blast crisis studies) RTC: less than 15% blasts BM and PB, less than 30% blasts + promyelocytes in BM and PB, less than 20% basophils in PB, no extramedullary disease other than spleen and liver (accelerated and blast crisis studies). BM = bone marrow, PB = peripheral blood | 95% [92.3 to 96.3] | 71% [64.8 to 76.8] | 31% [25.2 to 36.8] |
 | Complete Hematologic Response (CHR) | 95% | 38% | 7% |
 | No Evidence of Leukemia (NEL) | Not applicable | 13% | 5% |
 | Return to Chronic Phase (RTC) | Not applicable | 20% | 18% |
-| Major Cytogenetic ResponseCytogenetic response criteria (confirmed after greater than or equal to 4 weeks): complete (0% Ph+ metaphases) or partial (1%-35%). A major response (0%-35%) combines both complete and partial responses. | 60% [55.3-63.8] | 21% [16.2-27.1] | 7% [4.5-11.2] |
+| Major Cytogenetic ResponseCytogenetic response criteria (confirmed after greater than or equal to 4 weeks): complete (0% Ph+ metaphases) or partial (1% to 35%). A major response (0% to 35%) combines both complete and partial responses. | 60% [55.3 to 63.8] | 21% [16.2 to 27.1] | 7% [4.5 to 11.2] |
 | (UnconfirmedUnconfirmed cytogenetic response is based on a single bone marrow cytogenetic evaluation, therefore unconfirmed complete or partial cytogenetic responses might have had a lesser cytogenetic response on a subsequent bone marrow evaluation.) | (65%) | (27%) | (15%) |
 | CompleteComplete cytogenetic response confirmed by a second bone marrow cytogenetic evaluation performed at least 1 month after the initial bone marrow study. (Unconfirmed) | 39% (47%) | 16% (20%) | 2% (7%) |
 
@@ -191,7 +191,7 @@ These patients had not previously received imatinib mesylate tablets and ranged 
 Patients were treated at doses of 260 mg/m2/day (n = 3), 340 mg/m2/day (n = 4), 440 mg/m2/day (n = 5) and 570 mg/m2/day (n = 2).
 In the 13 patients for whom cytogenetic data are available, 4 achieved a major cytogenetic response, 7 achieved a complete cytogenetic response, and 2 had a minimal cytogenetic response.
 
-In a second study, 2 of 3 patients with Ph+ chronic phase CML resistant to interferon-alpha therapy achieved a complete cytogenetic response at doses of 242 and 257 mg/m2/day.
+In a second study, 2 of 3 patients with Ph+ chronic phase CML resistant to interferon-alpha therapy achieved a complete cytogenetic response at doses of 242 mg/m2/day and 257 mg/m2/day.
 
 ## 14.3 Acute Lymphoblastic Leukemia
 

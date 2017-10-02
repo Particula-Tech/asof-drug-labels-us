@@ -16,7 +16,7 @@ The pharmacokinetics of imatinib mesylate tablets have been evaluated in studies
 
 ### Absorption and Distribution
 
-Imatinib is well absorbed after oral administration with Cmax achieved within 2-4 hours post-dose.
+Imatinib is well absorbed after oral administration with Cmax achieved within 2 to 4 hours post-dose.
 Mean absolute bioavailability is 98%.
 Mean imatinib AUC increases proportionally with increasing doses ranging from 25 mg to 1,000 mg.
 There is no significant change in the pharmacokinetics of imatinib on repeated dosing, and accumulation is 1.5- to 2.5-fold at steady state when imatinib mesylate tablets are dosed once-daily.
@@ -58,7 +58,7 @@ Dose reductions are necessary for patients with severe hepatic impairment [see D
 
 #### Renal Impairment
 
-The effect of renal impairment on the pharmacokinetics of imatinib was assessed in 59 cancer patients with varying degrees of renal impairment [see Use in Specific Populations (8.7)] at single and steady state imatinib doses ranging from 100 to 800 mg/day.
+The effect of renal impairment on the pharmacokinetics of imatinib was assessed in 59 cancer patients with varying degrees of renal impairment [see Use in Specific Populations (8.7)] at single and steady state imatinib doses ranging from 100 mg/day to 800 mg/day.
 The mean exposure to imatinib (dose normalized AUC) in patients with mild and moderate renal impairment increased 1.5- to 2-fold compared to patients with normal renal function.
 The AUCs did not increase for doses greater than 600 mg in patients with mild renal impairment.
 The AUCs did not increase for doses greater than 400 mg in patients with moderate renal impairment.
@@ -67,7 +67,7 @@ Dose reductions are necessary for patients with moderate and severe renal impair
 
 #### Pediatric Use
 
-As in adult patients, imatinib was rapidly absorbed after oral administration in pediatric patients, with a Cmax of 2-4 hours.
+As in adult patients, imatinib was rapidly absorbed after oral administration in pediatric patients, with a Cmax of 2 to 4 hours.
 Apparent oral clearance was similar to adult values (11.0 L/hr/m2 in children vs. 10.0 L/hr/m2 in adults), as was the half-life (14.8 hours in children vs. 17.1 hours in adults).
 Dosing in children at both 260 mg/m2 and 340 mg/m2 achieved an AUC similar to the 400 mg dose in adults.
 The comparison of AUC on Day 8 vs. Day 1 at 260 mg/m2 and 340 mg/m2 dose levels revealed a 1.5- and 2.2-fold drug accumulation, respectively, after repeated once-daily dosing.
@@ -83,7 +83,7 @@ The analysis confirmed that exposure of imatinib in pediatric patients receiving
 
 Pretreatment of healthy volunteers with multiple doses of rifampin followed by a single dose of imatinib mesylate tablets, increased imatinib mesylate tablets oral-dose clearance by 3.8-fold, which significantly (p less than 0.05) decreased mean Cmax and AUC.
 
-Similar findings were observed in patients receiving 400 to 1200 mg/day imatinib mesylate tablets concomitantly with enzyme-inducing anti-epileptic drugs (EIAED) (e.g., carbamazepine, oxcarbamazepine, phenytoin, fosphenytoin, phenobarbital, and primidone).
+Similar findings were observed in patients receiving 400 mg/day to 1200 mg/day imatinib mesylate tablets concomitantly with enzyme-inducing anti-epileptic drugs (EIAED) (e.g., carbamazepine, oxcarbamazepine, phenytoin, fosphenytoin, phenobarbital, and primidone).
 The mean dose normalized AUC for imatinib in the patients receiving EIAED’s decreased by 73% compared to patients not receiving EIAED.
 
 Concomitant administration of imatinib mesylate tablets and St. John’s Wort led to a 30% reduction in the AUC of imatinib.
@@ -114,6 +114,6 @@ No dose adjustment is necessary, however, caution is recommended when administer
 #### Interactions with Acetaminophen
 
 In vitro, imatinib mesylate tablets inhibit the acetaminophen O-glucuronidate pathway (Ki 58.5 μM).
-Coadministration of imatinib mesylate tablets (400 mg/day for 8 days) with acetaminophen (1000 mg single dose on day 8) in patients with CML did not result in any changes in the pharmacokinetics of acetaminophen.
+Coadministration of imatinib mesylate tablets (400 mg/day for eight days) with acetaminophen (1000 mg single dose on day eight) in patients with CML did not result in any changes in the pharmacokinetics of acetaminophen.
 Imatinib mesylate tablets pharmacokinetics were not altered in the presence of single-dose acetaminophen.
 There is no pharmacokinetic or safety data on the concomitant use of imatinib mesylate tablets at doses greater than 400 mg/day or the chronic use of concomitant acetaminophen and imatinib mesylate tablets.
