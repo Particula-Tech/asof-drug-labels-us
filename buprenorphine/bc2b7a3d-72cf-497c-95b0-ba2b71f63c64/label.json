@@ -1,0 +1,32 @@
+{
+  "application_numbers": [
+    "NDA207932"
+  ],
+  "inn": "buprenorphine",
+  "labeler": "BioDelivery Sciences International Inc",
+  "package_ndcs": [
+    "59385-021-01",
+    "59385-021-60",
+    "59385-022-01",
+    "59385-022-60",
+    "59385-023-01",
+    "59385-023-60",
+    "59385-024-01",
+    "59385-024-60",
+    "59385-025-01",
+    "59385-025-60",
+    "59385-026-01",
+    "59385-026-60",
+    "59385-027-01",
+    "59385-027-60"
+  ],
+  "products": [
+    {
+      "form": "FILM, SOLUBLE",
+      "generic": "buprenorphine hydrochloride",
+      "name": "BELBUCA"
+    }
+  ],
+  "setid": "bc2b7a3d-72cf-497c-95b0-ba2b71f63c64",
+  "source": "dailymed"
+}

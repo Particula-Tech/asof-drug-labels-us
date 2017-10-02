@@ -1,0 +1,119 @@
+# 2 DOSAGE AND ADMINISTRATION
+
+## 2.1 Important Dosage and Administration Instructions
+
+BELBUCA should be prescribed only by healthcare professionals who are knowledgeable in the use of potent opioids for the management of chronic pain.
+
+- Use the lowest effective dosage for the shortest duration consistent with individual patients treatment goals [see Warnings and Precautions (5)].
+- Initiate the dosing regimen for each patient individually, taking into account the patient's severity of pain, patient response, prior analgesic treatment experience, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1)].
+- Monitor patients closely for respiratory depression, especially within the first 24-72 hours of initiating therapy and following dosage increases with BELBUCA and adjust the dosage accordingly [see Warnings and Precautions (5.2)].
+
+BELBUCA buccal film is for oral buccal use only and is to be applied to the buccal mucosa every 12 hours.
+
+Instruct patients not to use BELBUCA if the pouch seal is broken or the buccal film is cut, damaged, or changed in any way and to avoid applying BELBUCA to areas of the mouth with any open sores or lesions.
+
+## 2.2 Initial Dosing
+
+Use of BELBUCA as the Initial Opioid Analgesic (opioid naïve patients) or in Patients who are not Opioid Tolerant (opioid-non-tolerant patients)
+
+Initiate treatment in opioid-naïve and opioid-non-tolerant patients with a 75 mcg film once daily or, if tolerated, every 12 hours (see Table 1) for at least 4 days, then increase dose to 150 mcg every 12 hours.
+Individual titration to a dose that provides adequate analgesia and minimizes adverse reactions should proceed in increments of 150 mcg every 12 hours, no more frequently than every 4 days.
+Doses up to 450 mcg every 12 hours were studied in opioid naïve patients in the clinical trials [see Clinical Studies (14)].
+
+Use of higher starting doses in patients who are not opioid tolerant may cause fatal respiratory depression [see Warnings and Precautions (5.2)].
+
+Conversion from Other Opioids to BELBUCA
+
+Discontinue all other around-the-clock opioid drugs when BELBUCA therapy is initiated.
+
+There is a potential for buprenorphine to precipitate withdrawal in patients who are already on opioids.
+To reduce the risk of opioid withdrawal, taper patients to no more than 30 mg oral morphine sulfate equivalents (MSE) daily before beginning BELBUCA.
+Following analgesic taper, base the starting dose on the patient's daily opioid dose prior to taper, as described in Table 1.
+Patients may require additional short-acting analgesics during the taper period and during titration.
+
+BELBUCA may not provide adequate analgesia for patients requiring greater than 160 mg oral MSE per day.
+Consider the use of an alternate analgesic.
+
+There is inter-patient variability in the relative potency of opioid drugs and opioid formulations.
+Therefore, a conservative approach is advised when determining the total daily dosage of BELBUCA.
+It is safer to underestimate a patient's 24 hour oral buprenorphine dosage and provide rescue medication (e.g., immediate-release opioid) than to overestimate the 24 hour buprenorphine dosage and manage an adverse reaction due to overdose.
+
+In a BELBUCA clinical trial with open-label titration period, patients were converted from their prior opioid to BELBUCA using Table 1 as a guide for the initial BELBUCA dose.
+
+Table 1: Initial BELBUCA Dose Based on Prior Opioid Expressed as Oral Morphine Sulfate Equivalents
+
+| Prior Daily Dose of Opioid Analgesic Before Taper to 30 mg Oral MSE | Initial BELBUCA Dose |
+| --- | --- |
+| Less than 30 mg oral MSE | BELBUCA 75 mcg once daily or every 12 hours |
+| 30 mg to 89 mg oral MSE | BELBUCA 150 mcg every 12 hours |
+| 90 mg to 160 mg oral MSE | BELBUCA 300 mcg every 12 hours |
+| Greater than 160 mg oral MSE | Consider alternate analgesic |
+
+BELBUCA doses of 600 mcg, 750 mcg, and 900 mcg are only for use following titration from lower doses of BELBUCA.
+Individual titration should proceed in increments of 150 mcg every 12 hours, no more frequently than every 4 days.
+
+Conversion from Methadone to BELBUCA
+
+Close monitoring is of particular importance when converting from methadone to other opioid agonists, including BELBUCA.
+The ratio between methadone and other opioid agonists may vary widely as a function of previous dose exposure.
+Methadone has a long half-life and can accumulate in the plasma.
+
+## 2.3 Titration and Maintenance of Therapy
+
+Individually titrate BELBUCA to a dose that provides adequate analgesia and minimizes adverse reactions Continually reevaluate patients receiving BELBUCA to assess the maintenance of pain control and the relative incidence of adverse reactions and monitor for the development of addiction, abuse, or misuse [see Warnings and Precautions (5.1)].
+Frequent communication is important among the prescriber, other members of the healthcare team, the patient, and the caregiver/family during periods of changing analgesic requirements, including initial titration.
+During chronic therapy, periodically reassess the continued need for opioid analgesics.
+
+Patients who experience breakthrough pain may require dosage adjustment of BELBUCA or may need rescue medication with an appropriate dose of an immediate-release analgesic.
+If the level of pain increases after dose stabilization, attempt to identify the source of increased pain before increasing the BELBUCA dose.
+
+The minimum titration interval of BELBUCA is 4 days, based on the pharmacokinetic profile and time to reach steady-state plasma levels [see Clinical Pharmacology (12.3)].
+Individual titration should proceed in increments of no more than 150 mcg every 12 hours.
+
+The maximum BELBUCA dose is 900 mcg every 12 hours.
+Do not exceed a dose of BELBUCA 900 mcg every 12 hours due to the potential for QTc interval prolongation[see Warnings and Precautions (5.7), Adverse Reactions (6.1), and Clinical Pharmacology (12.2)].
+If pain is not adequately managed on BELBUCA 900 mcg, consider an alternate analgesic.
+
+If unacceptable opioid-related adverse reactions are observed, adjust the dose to obtain an appropriate balance between the management of pain and opioid-related adverse reactions.
+
+## 2.4 Discontinuation of BELBUCA
+
+When a patient no longer requires therapy with BELBUCA, taper the dose gradually while monitoring carefully for signs and symptoms of withdrawal.
+If the patient develops these signs or symptoms, raise the dose to the previous level and taper more slowly, either by increasing the interval between decreases, decreasing the amount of change in dose, or both.
+Do not abruptly discontinue BELBUCA.
+
+## 2.5 Dosage Modifications in Patients with Severe Hepatic Impairment
+
+In patients with severe hepatic impairment (i.e., Child-Pugh C), reduce the starting dose and reduce the titration dose by half that of patients with normal liver function, from 150 mcg to 75 mcg [see Warnings and Precautions (5.11), Use in Special Populations (8.6), Clinical Pharmacology (12.3)].
+
+## 2.6 Dosage Modifications in Patients with Oral Mucositis
+
+In patients with known or suspected mucositis, reduce the starting dosage and titration incremental dosage by half compared to patients without mucositis [see Warnings and Precautions (5.15), Clinical Pharmacology (12.3)].
+
+## 2.7 Administration of BELBUCA
+
+BELBUCA should not be used if the package seal is broken or the film is cut, damaged, or changed in any way.
+
+First, the patient must use the tongue to wet the inside of the cheek or rinse the mouth with water to wet the area for placement of BELBUCA.
+BELBUCA is then applied immediately after removal from the individually sealed package.
+The yellow side of the BELBUCA film is placed against the inside of the cheek.
+The entire BELBUCA film is held in place with clean, dry fingers for 5 seconds and then left in place on the inside of the cheek until fully dissolved.
+
+BELBUCA adheres to the moist buccal mucosa and will completely dissolve after application, usually within 30 minutes.
+The film should not be manipulated with the tongue or finger(s) and eating food and drinking liquids should be avoided until the film has dissolved.
+
+A BELBUCA film, if chewed or swallowed, may result in lower peak concentrations and lower bioavailability than when used as directed.
+
+Demonstrate proper administration technique to the patient [see Patient Counseling Information (17)].
+
+## 2.8 Disposal Instructions
+
+Dispose of unused BELBUCA as soon as it is no longer needed.
+
+To dispose of unused BELBUCA film:
+
+1. Remove all BELBUCA films from their foil packages.
+2. Drop the BELBUCA films into toilet and flush.
+3. Discard foil packaging in trash.
+
+Do not flush BELBUCA down the toilet in the foil packages or cartons [see Patient Counseling Information (17)].
