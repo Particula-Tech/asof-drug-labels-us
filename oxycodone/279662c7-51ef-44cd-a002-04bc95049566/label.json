@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA209777"
+  ],
+  "inn": "oxycodone",
+  "labeler": "Inspirion Delivery Sciences Llc",
+  "package_ndcs": [
+    "69296-005-01",
+    "69296-006-01",
+    "69296-007-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET, COATED",
+      "generic": "oxycodone hydrochloride",
+      "name": "ROXYBOND"
+    }
+  ],
+  "setid": "279662c7-51ef-44cd-a002-04bc95049566",
+  "source": "dailymed"
+}
