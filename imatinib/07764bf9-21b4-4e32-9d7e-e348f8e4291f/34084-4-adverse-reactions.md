@@ -2,29 +2,31 @@
 
 The following serious adverse reactions are described elsewhere in the labeling:
 
-Fluid Retention and Edema [see Warnings and Precautions (5.1)]
+· Fluid Retention and Edema [see Warnings and Precautions (5.1)]
 
-Hematologic Toxicity [see Warnings and Precautions (5.2)]
+· Hematologic Toxicity [see Warnings and Precautions (5.2)]
 
-Congestive Heart Failure and Left Ventricular Dysfunction [see Warnings and Precautions (5.3)]
+· Congestive Heart Failure and Left Ventricular Dysfunction [see Warnings and Precautions (5.3)]
 
-Hepatotoxicity [see Warnings and Precautions (5.4)]
+· Hepatotoxicity [see Warnings and Precautions (5.4)]
 
-Hemorrhage [see Warnings and Precautions (5.5)]
+· Hemorrhage [see Warnings and Precautions (5.5)]
 
-Gastrointestinal Disorders [see Warnings and Precautions (5.6)]
+· Gastrointestinal Disorders [see Warnings and Precautions (5.6)]
 
-Hypereosinophilic Cardiac Toxicity [see Warnings and Precautions (5.7)]
+· Hypereosinophilic Cardiac Toxicity [see Warnings and Precautions (5.7)]
 
-Dermatologic Toxicities [see Warnings and Precautions (5.8)]
+· Dermatologic Toxicities [see Warnings and Precautions (5.8)]
 
-Hypothyroidism [see Warnings and Precautions (5.9)]
+· Hypothyroidism [see Warnings and Precautions (5.9)]
 
-Growth Retardation in Children and Adolescents [see Warnings and Precautions (5.11)]
+· Growth Retardation in Children and Adolescents [see Warnings and Precautions (5.11)]
 
-Tumor Lysis Syndrome [see Warnings and Precautions (5.12)]
+· Tumor Lysis Syndrome [see Warnings and Precautions (5.12)]
 
-Impairments Related to Driving and Using Machinery [see Warnings and Precautions (5.13)]
+· Impairments Related to Driving and Using Machinery [see Warnings and Precautions (5.13)]
+
+· Renal Toxicity [see Warnings and Precautions (5.14)]
 
 ## 6.1 Clinical Trials Experience
 

@@ -10,7 +10,7 @@ Advise patients to take imatinib mesylate tablets with a meal and a large glass 
 Fluid Retention and Edema
 
 Inform patients of the possibility of developing edema and fluid retention.
-Advise patients to contact their health care provide if unexpected rapid weight gain occurs [see Warnings and Precautions (5.1)].
+Advise patients to contact their health care provider if unexpected rapid weight gain occurs [see Warnings and Precautions (5.1)].
 
 Hepatotoxicity
 
@@ -53,7 +53,7 @@ Ranbaxy Pharmaceuticals Inc.
 
 Jacksonville, FL 32257 USA
 
-7569T03
+7569T04
 
 ISS.
-06/2017
+09/2017
