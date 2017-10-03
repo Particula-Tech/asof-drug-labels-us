@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "ANDA207792"
+  ],
+  "inn": "isotretinoin",
+  "labeler": "Amneal Pharmaceuticals LLC",
+  "package_ndcs": [
+    "69238-1017-1",
+    "69238-1017-3",
+    "69238-1174-1",
+    "69238-1174-3",
+    "69238-1175-1",
+    "69238-1175-3",
+    "69238-1176-1",
+    "69238-1176-3"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, LIQUID FILLED",
+      "generic": "isotretinoin",
+      "name": "Isotretinoin"
+    }
+  ],
+  "setid": "c2917c3d-3499-48a0-ba53-120cb979195d",
+  "source": "dailymed"
+}
