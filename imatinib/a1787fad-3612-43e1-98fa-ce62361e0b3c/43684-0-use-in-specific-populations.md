@@ -6,12 +6,12 @@
 
 Imatinib mesylate tablets can cause fetal harm when administered to a pregnant woman based on human and animal data.
 There are no clinical studies regarding use of imatinib mesylate tablets in pregnant women.
-There have been post-market reports of spontaneous abortions and congenital anomalies from women who have been exposed to imatinib mesylate tablets during pregnancy.
+There have been postmarket reports of spontaneous abortions and congenital anomalies from women who have been exposed to imatinib mesylate tablets during pregnancy.
 Reproductive studies in rats have demonstrated that imatinib mesylate induced teratogenicity and increased incidence of congenital abnormalities following prenatal exposure to imatinib mesylate at doses equal to the highest recommended human dose of 800 mg/day based on body surface area.
 Advise women to avoid pregnancy when taking imatinib mesylate tablets.
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, apprise the patient of the potential hazard to the fetus.
 
-The background risk of major birth defects and miscarriage for the indicated population is not known; however, in the U.S. general population, the estimated background risk of major birth defects of clinically recognized pregnancies is 2% to 4% and of miscarriage is 15% to 20%.
+The background risk of major birth defects and miscarriage for the indicated population is not known; however, in the U.S. general population, the estimated background risk of major birth defects of clinically recognized pregnancies is 2-4% and of miscarriage is 15%-20%.
 
 ### Data
 
@@ -42,7 +42,7 @@ Because of the potential for serious adverse reactions in breastfed infants from
 
 ### Human Data
 
-Based on data from three breastfeeding women taking imatinib mesylate tablets, the milk:plasma ratio is about 0.5 for imatinib and about 0.9 for the active metabolite.
+Based on data from 3 breastfeeding women taking imatinib mesylate tablets, the milk:plasma ratio is about 0.5 for imatinib and about 0.9 for the active metabolite.
 Considering the combined concentration of imatinib and active metabolite, a breastfed infant could receive up to 10% of the maternal therapeutic dose based on body weight.
 
 ## 8.3 Females and Males of Reproductive Potential
@@ -87,13 +87,13 @@ Table 16: Liver Function Classification
 
 | Liver Function Test | Normal(N = 14) | Mild(N = 30) | Moderate(N = 20) | Severe(N = 20) |
 | --- | --- | --- | --- | --- |
-| Total Bilirubin | less than or equal to ULN | greater than 1.0 to 1.5 times the ULN | greater than 1.5 to 3 times the ULN | greater than 3 to 10 times the ULN |
+| Total Bilirubin | less than or equal to ULN | greater than 1.0-1.5 times the ULN | greater than 1.5-3 times the ULN | greater than 3-10 times the ULN |
 | SGOT | less than or equal to ULN | greater than ULN (can be normal if Total Bilirubin is greater than ULN) | Any | Any |
 | ULN = upper limit of normal for the institution |  |  |  |  |
 
 ## 8.7 Renal Impairment
 
-The effect of renal impairment on the pharmacokinetics of imatinib was assessed in 59 patients with cancer and varying degrees of renal impairment at single and steady state imatinib doses ranging from 100 mg/day to 800 mg/day.
+The effect of renal impairment on the pharmacokinetics of imatinib was assessed in 59 patients with cancer and varying degrees of renal impairment at single and steady state imatinib doses ranging from 100 to 800 mg/day.
 The mean exposure to imatinib (dose normalized AUC) in patients with mild and moderate renal impairment increased 1.5- to 2-fold compared to patients with normal renal function.
 There are not sufficient data in patients with severe renal impairment [see Clinical Pharmacology (12.3)].
 Dose reductions are necessary for patients with moderate and severe renal impairment [see Dosage and Administration (2.12)].
@@ -102,7 +102,7 @@ Table 17: Renal Function Classification
 
 | Renal Dysfunction | Renal Function Tests |
 | --- | --- |
-| Mild | CrCL = 40 mL/min to 59 mL/min |
-| Moderate | CrCL = 20 mL/min to 39 mL/min |
+| Mild | CrCL = 40-59 mL/min |
+| Moderate | CrCL = 20-39 mL/min |
 | Severe | CrCL = less than 20 mL/min |
 | CrCL = Creatinine Clearance |  |
