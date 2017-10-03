@@ -23,6 +23,6 @@ You should not receive Morphine Sulfate Extended-release Capsules through a naso
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by UPSHER-SMITH LABORATORIES, INC. Maple Grove, MN 55369
+Manufactured by UPSHER-SMITH LABORATORIES, LLC Maple Grove, MN 55369
 
-Revised 1015
+Revised 0817

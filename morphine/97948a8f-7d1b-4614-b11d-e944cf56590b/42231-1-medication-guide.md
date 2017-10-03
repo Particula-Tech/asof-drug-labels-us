@@ -78,6 +78,6 @@ For Medication Guides, please visit www.upsher-smith.com or call 1-888-650-3789.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by UPSHER-SMITH LABORATORIES, INC. Maple Grove, MN 55369
+Manufactured by UPSHER-SMITH LABORATORIES, LLC Maple Grove, MN 55369
 
-Revised 1015
+Revised 0817

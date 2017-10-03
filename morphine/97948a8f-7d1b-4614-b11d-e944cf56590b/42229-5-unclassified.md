@@ -1,3 +1,3 @@
-Manufactured by UPSHER-SMITH LABORATORIES, INC. Maple Grove, MN 55369
+Manufactured by UPSHER-SMITH LABORATORIES, LLC Maple Grove, MN 55369
 
-Revised 1015
+Revised 0817
