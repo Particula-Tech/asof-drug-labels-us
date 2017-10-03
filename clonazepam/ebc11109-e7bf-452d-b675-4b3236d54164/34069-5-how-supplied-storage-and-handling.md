@@ -26,9 +26,8 @@ Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F).
 
 Manufactured For: Accord Healthcare, Inc., 1009, Slater Road, Suite 210-B, Durham, NC 27703, USA.
 
-Manufactured By: Intas Pharmaceuticals Limited, Plot No.: 457, 458, Village – Matoda, Bavla Road, Ta.- Sanand, Dist.- Ahmedabad – 382 210.
-India.
+Manufactured By: Intas Pharmaceuticals Limited, Ahmedabad -380 009, India.
 
-10 0533 0 667114
+10 0533 1 672637
 
-Issued April 2016
+Issued January 2017
