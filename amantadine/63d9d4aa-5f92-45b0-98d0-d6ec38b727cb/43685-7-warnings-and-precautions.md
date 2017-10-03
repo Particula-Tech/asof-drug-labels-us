@@ -117,7 +117,7 @@ Careful observation is required when amantadine hydrochloride is administered co
 Agents with anticholinergic properties may potentiate the anticholinergic-like side effects of amantadine.
 
 Coadministration of thioridazine has been reported to worsen the tremor in elderly patients with Parkinson's disease, however, it is not known if other phenothiazines produce a similar response.
-Coadministration of Dyazide (triamterene/hydrochlorothiazide) resulted in a higher plasma amantadine concentration in a 61-year-old man receiving amantadine hydrochloride 100 mgTID for Parkinson's disease.1 It is not known which of the components of Dyazide contributed to the observation or if related drugs produce a similar response.
+Coadministration of Dyazide (triamterene/hydrochlorothiazide) resulted in a higher plasma amantadine concentration in a 61-year-old man receiving amantadine hydrochloride 100 mg TID for Parkinson's disease.1 It is not known which of the components of Dyazide contributed to the observation or if related drugs produce a similar response.
 
 Coadministration of quinine or quinidine with amantadine was shown to reduce the renal clearance of amantadine by about 30%.
 

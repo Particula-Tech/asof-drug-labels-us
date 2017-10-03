@@ -2,6 +2,6 @@ Rx only
 
 Dyazide is a registered trademark of GlaxoSmithKline
 
-Manufactured by UPSHER-SMITH LABORATORIES, INC. Maple Grove, MN 55369
+Manufactured by UPSHER-SMITH LABORATORIES, LLC Maple Grove, MN 55369
 
-Revised 0217
+Revised 0817
