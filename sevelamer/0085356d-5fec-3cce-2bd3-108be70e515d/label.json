@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA206094"
+  ],
+  "inn": "sevelamer",
+  "labeler": "DR. REDDY'S LABORATORIES LIMITED",
+  "package_ndcs": [
+    "55111-789-27",
+    "55111-789-30",
+    "55111-789-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "sevelamer carbonate",
+      "name": "Sevelamer Carbonate"
+    }
+  ],
+  "setid": "0085356d-5fec-3cce-2bd3-108be70e515d",
+  "source": "dailymed"
+}
