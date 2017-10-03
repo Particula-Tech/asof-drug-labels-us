@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA209022"
+  ],
+  "inn": "fluticasone",
+  "labeler": "OptiNose US, Inc.",
+  "package_ndcs": [
+    "71143-375-01",
+    "71143-375-99"
+  ],
+  "products": [
+    {
+      "form": "SPRAY, METERED",
+      "generic": "fluticasone propionate",
+      "name": "XHANCE"
+    }
+  ],
+  "setid": "c79bbb9f-e483-4093-8c92-ea978e7bf278",
+  "source": "dailymed"
+}
