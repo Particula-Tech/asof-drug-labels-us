@@ -1,0 +1,11 @@
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
+
+Rx Only
+
+NDC 0574-0279-30
+
+Paroxetine Capsules
+
+7.5 mg per capsule
+
+30 CAPSULES

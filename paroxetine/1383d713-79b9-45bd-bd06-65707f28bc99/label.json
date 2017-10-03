@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA204516"
+  ],
+  "inn": "paroxetine",
+  "labeler": "Paddock Laboratories, LLC",
+  "package_ndcs": [
+    "0574-0279-30"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "paroxetine",
+      "name": "Paroxetine"
+    }
+  ],
+  "setid": "1383d713-79b9-45bd-bd06-65707f28bc99",
+  "source": "dailymed"
+}
