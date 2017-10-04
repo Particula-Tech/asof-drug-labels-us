@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA208791"
+  ],
+  "inn": "chloroprocaine",
+  "labeler": "Sintetica SA",
+  "package_ndcs": [
+    "68055-699-01",
+    "68055-699-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "chloroprocaine hydrochloride",
+      "name": "Clorotekal"
+    }
+  ],
+  "setid": "d26cf2ed-998d-47a6-b2a9-cb653cf97e4d",
+  "source": "dailymed"
+}
