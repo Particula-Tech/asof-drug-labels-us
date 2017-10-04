@@ -84,7 +84,7 @@ Peak plasma levels occur in 1 to 2 hours with a plasma half-life of 1.5 hours fo
 
 Gemfibrozil is completely absorbed after oral administration of gemfibrozil tablets, reaching peak plasma concentrations 1 to 2 hours after dosing.
 Gemfibrozil pharmacokinetics are affected by the timing of meals relative to time of dosing.
-In one study, both the rate and extent of absorption of the drug were significantly increased when administered 0.5 hour before meals.
+In one study (ref.4), both the rate and extent of absorption of the drug were significantly increased when administered 0.5 hour before meals.
 Average AUC was reduced by 14 to 44% when gemfibrozil was administered after meals compared to 0.5 hour before meals.
 In a subsequent study, rate of absorption of gemfibrozil was maximum when administered 0.5 hour before meals with the Cmax 50 to 60% greater than when given either with meals or fasting.
 In this study, there were no significant effects on AUC of timing of dose relative to meals (see DOSAGE AND ADMINISTRATION).

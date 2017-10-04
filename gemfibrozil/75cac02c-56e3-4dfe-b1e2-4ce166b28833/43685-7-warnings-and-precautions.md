@@ -54,7 +54,7 @@ If myositis is suspected or diagnosed, gemfibrozil therapy should be withdrawn.
 6.
 Cataracts - Subcapsular bilateral cataracts occurred in 10%, and unilateral in 6.3%, of male rats treated with gemfibrozil at 10 times the human dose.
 7.
-CYP2C8 substrates - Gemfibrozil, an inhibitor of CYP2C8, may increase exposure of CYP2C8 substrates when administered concomitantly (see PRECAUTIONS, Drug Interactions).
+CYP2C8 substrates - Gemfibrozil, a strong inhibitor of CYP2C8, may increase exposure of CYP2C8 substrates when administered concomitantly (see PRECAUTIONS, Drug Interactions).
 8.
 OATP1B1 substrates – Gemfibrozil is an inhibitor of organic anion-transporter polyprotein (OATP) 1B1 and may increase exposure of drugs that are substrates of OATP1B1 (e.g., atrasentan, atorvastatin, bosentan, ezetimibe, fluvastatin, glyburide, SN38 [active metabolite of irinotecan], rosuvastatin, pitavastatin, pravastatin, rifampin, valsartan, olmesartan).
 Therefore, dosing reductions of drugs that are substrates of OATP1B1 may be required when gemfibrozil is used concomitantly (see PRECAUTIONS, Drug Interactions).
@@ -88,7 +88,7 @@ FREQUENT PROTHROMBIN DETERMINATIONS ARE ADVISABLE UNTIL IT HAS BEEN DEFINITELY D
 
 ### (C) CYP2C8 Substrates:
 
-Gemfibrozil is an inhibitor of CYP2C8 and may increase exposure of drugs mainly metabolized by CYP2C8 (e.g., dabrafenib, loperamide, montelukast, paclitaxel, pioglitazone, rosiglitazone).
+Gemfibrozil is a strong inhibitor of CYP2C8 and may increase exposure of drugs mainly metabolized by CYP2C8 (e.g., dabrafenib, enzalutamide, loperamide, montelukast, paclitaxel, pioglitazone, rosiglitazone).
 Therefore, dosing reduction of drugs that are mainly metabolized by CYP2C8 enzyme may be required when gemfibrozil is used concomitantly (see WARNINGS).
 Repaglinide: In healthy volunteers, co-administration with gemfibrozil (600 mg twice daily for 3 days) resulted in an 8.1-fold (range 5.5- to 15.0- fold) higher repaglinide AUC and a 28.6-fold (range 18.5- to 80.1-fold) higher repaglinide plasma concentration 7 hours after the dose.
 In the same study, gemfibrozil (600 mg twice daily for 3 days) + itraconazole (200 mg in the morning and 100 mg in the evening at Day 1, then 100 mg twice daily at Day 2-3) resulted in a 19.4- (range 12.9- to 24.7-fold) higher repaglinide AUC and a 70.4-fold (range 42.9- to 119.2-fold) higher repaglinide plasma concentration 7 hours after the dose.
@@ -96,6 +96,12 @@ In addition, gemfibrozil alone or gemfibrozil + itraconazole prolonged the hypog
 Co-administration of gemfibrozil and repaglinide increases the risk of severe hypoglycemia and is contraindicated (see CONTRAINDICATIONS).
 Dasabuvir: Co-administration of gemfibrozil with dasabuvir increased dasabuvir AUC and Cmax (ratios: 11.3 and 2.01, respectively) due to CYP2C8 inhibition.
 Increased dasabuvir exposure may increase the risk of QT prolongation, therefore, coadministration of gemfibrozil with dasabuvir is contraindicated (see CONTRAINDICATIONS).
+
+Enzalutamide
+
+In healthy volunteers given a single 160 mg dose of enzalutamide after gemfibrozil 600 mg twice daily, the AUC of enzalutamide plus active metabolite (N-desmethyl enzalutamide) was increased by 2.2 fold and corresponding C was decreased by 16%.
+Increased enzalutamide exposure may increase the risk of seizures.
+If co-administration is considered necessary, the dose of enzalutamide should be reduced (see WARNINGS).
 
 ### (D) OATP1B1 substrates:
 

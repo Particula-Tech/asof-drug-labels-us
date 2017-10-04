@@ -1,4 +1,4 @@
-# Principal Display Panel Gemfibrozil Tablets USP, 600 mg - 30's Pack
+# Principal Display Panel Gemfibrozil Tablets USP, 600 mg - 60's Pack
 
 Rx Only NDC 16714-101-02 GEMFIBROZIL TABLETS USP, 600 mg 60 Tablets Northstarx TM Each tablet contains 600 mg of gemfibrozil USP.
 USUAL DOSAGE: See package outsert for full prescribing information.
@@ -11,4 +11,4 @@ Manufactured for: Northstar Rx LLC Memphis, TN38141 Toll-free: 1-800-206-7821 Ma
 Dhar, Madhya Pradesh, INDIA.
 Mfg.
 Lic.
-No.: 25/10/92 20614751 EM14725/b Rev 10/15
+No.: 25/10/92 20614751 EM 14725/c Rev 09/2016
