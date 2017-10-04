@@ -19,3 +19,9 @@ Do not use Gralise interchangeably with other gabapentin products Rx ONLY Dosage
 Store at 20°-25°C (68°-77°F); excursions permitted to 15°-30°C (59°-86°F) [see USP Controlled Room Temperature].
 Keep out of reach of children.
 Depomed®
+
+PRINCIPAL DISPLAY PANEL - 19 ct, 300 mg Tablets
+
+NDC 13913-004-91
+
+19 Tablets Physician Sample - Not for Resale ONCE-DAILY Gralise® (gabapentin) tablets 300 mg Attn HCP: Provide written instructions for patient by pulling out label ATTENTION: Distribute required medication guide to each patient Do not use Gralise interchangeably with other gabapentin products
