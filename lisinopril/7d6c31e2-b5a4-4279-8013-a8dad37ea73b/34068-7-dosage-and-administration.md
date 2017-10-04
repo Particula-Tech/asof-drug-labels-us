@@ -4,7 +4,7 @@
 
 Initial Therapy in adults: The recommended initial dose is 10 mg once a day.
 Dosage should be adjusted according to blood pressure response.
-The usual dosage range is 20 to 40 mg per day administered in a single daily dose.
+The usual dosage range is 20 mg to 40 mg per day administered in a single daily dose.
 Doses up to 80 mg have been used but do not appear to give greater effect.
 
 Use with Diuretics in Adults

@@ -10,8 +10,8 @@ When pregnancy is detected, discontinue lisinopril as soon as possible [see USE 
 
 ## 5.2 Angioedema and Anaphylactoid Reactions
 
-Patients taking concomitant mTOR inhibitor (e.g. temsirolimus, sirolimus, everolimus) therapy may be at increased risk for angioedema.
-[see DRUG INTERACTIONS (7.7)].
+Patients taking concomitant mTOR inhibitor (e.g. temsirolimus, sirolimus, everolimus) therapy or a neprilysin inhibitor may be at increased risk for angioedema.
+[see DRUG INTERACTIONS (7.7, 7.8)].
 
 Angioedema
 
