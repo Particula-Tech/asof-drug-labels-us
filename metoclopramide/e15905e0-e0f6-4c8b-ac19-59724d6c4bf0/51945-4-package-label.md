@@ -1,6 +1,6 @@
 # Package/Label Display Panel
 
-## Metoclopramide Tablets USP 5 mg, 100s Label Text
+## Metoclopramide Tablets USP 5 mg, 100s Label
 
 NDC 0093-2204-01
 
@@ -8,7 +8,7 @@ Metoclopramide
 
 Tablets, USP
 
-5 mg
+5mg
 
 PHARMACIST: Dispense the accompanying
 
@@ -22,7 +22,7 @@ TEVA
 
 # Package/Label Display Panel
 
-## Metoclopramide Tablets USP 10 mg, 100s Label Text
+## Metoclopramide Tablets USP 10mg, 100s Label Text
 
 NDC 0093-2203-01
 
