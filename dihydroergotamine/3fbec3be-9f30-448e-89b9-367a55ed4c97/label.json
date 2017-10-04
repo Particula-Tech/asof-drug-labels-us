@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA206621"
+  ],
+  "inn": "dihydroergotamine",
+  "labeler": "West-Ward Pharmaceuticals Corp",
+  "package_ndcs": [
+    "0143-9273-01",
+    "0143-9273-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "dihydroergotamine mesylate",
+      "name": "Dihydroergotamine Mesylate"
+    }
+  ],
+  "setid": "3fbec3be-9f30-448e-89b9-367a55ed4c97",
+  "source": "dailymed"
+}
