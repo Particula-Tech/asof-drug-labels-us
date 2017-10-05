@@ -12,7 +12,7 @@ In murine syngeneic tumor models, dual blockade of PD-1 and CTLA-4 resulted in i
 
 ## 12.2 Pharmacodynamics
 
-Based on dose/exposure efficacy and safety relationships, there are no clinically significant differences in safety and efficacy between a nivolumab dose of 240 mg or 3 mg/kg every 2 weeks in patients with melanoma, NSCLC, RCC, urothelial carcinoma, and MSI-H CRC.
+Based on dose/exposure efficacy and safety relationships, there are no clinically significant differences in safety and efficacy between a nivolumab dose of 240 mg or 3 mg/kg every 2 weeks in patients with melanoma, NSCLC, RCC, urothelial carcinoma, MSI-H CRC, and HCC.
 
 ## 12.3 Pharmacokinetics
 
@@ -35,6 +35,6 @@ Specific Populations: The population PK analysis suggested that the following fa
 Renal Impairment: The effect of renal impairment on the clearance of nivolumab was evaluated by a population PK analysis in patients with mild (eGFR 60 to 89 mL/min/1.73 m2; n=313), moderate (eGFR 30 to 59 mL/min/1.73 m2; n=140), or severe (eGFR 15 to 29 mL/min/1.73 m2; n=3) renal impairment.
 No clinically important differences in the clearance of nivolumab were found between patients with renal impairment and patients with normal renal function [see Use in Specific Populations (8.6)].
 
-Hepatic Impairment: The effect of hepatic impairment on the clearance of nivolumab was evaluated by population PK analyses in patients with mild hepatic impairment (total bilirubin [TB] less than or equal to the upper limit of normal [ULN] and AST greater than ULN or TB less than 1 to 1.5 times ULN and any AST; n=92).
-No clinically important differences in the clearance of nivolumab were found between patients with mild hepatic impairment and patients with normal hepatic function.
-Nivolumab has not been studied in patients with moderate (TB greater than 1.5 to 3 times ULN and any AST) or severe hepatic impairment (TB greater than 3 times ULN and any AST) [see Use in Specific Populations (8.7)].
+Hepatic Impairment: The effect of hepatic impairment on the clearance of nivolumab was evaluated by population PK analyses in patients with HCC (n=152) and in patients with other tumors (n=92) with mild hepatic impairment (total bilirubin [TB] less than or equal to the ULN and AST greater than ULN or TB greater than 1 to 1.5 times ULN and any AST) and in HCC patients with moderate hepatic impairment (TB greater than 1.5 to 3 times ULN and any AST; n=13).
+No clinically important differences in the clearance of nivolumab were found between patients with mild/moderate hepatic impairment and patients with normal hepatic function.
+Nivolumab has not been studied in patients with severe hepatic impairment (TB greater than 3 times ULN and any AST) [see Use in Specific Populations (8.7)].

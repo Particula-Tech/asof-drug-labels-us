@@ -21,7 +21,7 @@ The data in the Warnings and Precautions section reflect exposure to OPDIVO, as 
 In addition, clinically significant adverse reactions of OPDIVO administered with ipilimumab were evaluated in 407 patients with melanoma enrolled in CHECKMATE-067 (n=313) or a Phase 2 randomized study (n=94), administering OPDIVO with ipilimumab, supplemented by immune-mediated adverse reaction reports in ongoing clinical trials [see Warnings and Precautions (5.1, 5.8)].
 
 The data described below reflect exposure to OPDIVO as a single agent in CHECKMATE-037, CHECKMATE-066, and CHECKMATE-067, and to OPDIVO with ipilimumab in CHECKMATE-067, which are randomized, active-controlled trials conducted in patients with unresectable or metastatic melanoma.
-Also described below are single-agent OPDIVO data from CHECKMATE-017 and CHECKMATE-057, which are randomized trials in patients with metastatic NSCLC, CHECKMATE-025, which is a randomized trial in patients with advanced RCC, CHECKMATE-205 and CHECKMATE-039, which are open-label, multiple-cohort trials in patients with cHL, CHECKMATE-141, a randomized trial in patients with recurrent or metastatic SCCHN, and CHECKMATE-275, which is a single-arm trial in patients with urothelial carcinoma.
+Also described below are single-agent OPDIVO data from CHECKMATE-017 and CHECKMATE-057, which are randomized trials in patients with metastatic NSCLC, CHECKMATE-025, which is a randomized trial in patients with advanced RCC, CHECKMATE-205 and CHECKMATE-039, which are open-label, multiple-cohort trials in patients with cHL, CHECKMATE-141, a randomized trial in patients with recurrent or metastatic SCCHN, CHECKMATE-275, which is a single-arm trial in patients with urothelial carcinoma, and CHECKMATE-040, which is an open-label, multiple-cohort trial in patients with HCC.
 
 ### Unresectable or Metastatic Melanoma
 
@@ -374,13 +374,13 @@ Eleven patients died from causes other than disease progression: 3 from adverse 
 
 The most common adverse reactions (reported in at least 20%) among all patients were upper respiratory tract infection, fatigue, cough, diarrhea, pyrexia, musculoskeletal pain, rash, nausea, and pruritus.
 
-Table 12 summarizes the adverse reactions, excluding laboratory terms that occurred in at least 10% of patients in the safety population.
+Table 12 summarizes the adverse reactions, excluding laboratory terms, that occurred in at least 10% of patients in the safety population.
 
-Table 12: Non-Laboratory Adverse Reactions Occurring in ≥10% of Patients with cHL (CHECKMATE-205 and CHECKMATE-039)
+Table 12: Non-Laboratory Adverse Reactions Occurring in ≥10% of Patients with cHL(CHECKMATE-205 and CHECKMATE-039)
 
-| Adverse Reactiona | OPDIVO cHL Safety Population (n=266) |  |
+|  | OPDIVO cHL Safety Population (n=266) |  |
 | --- | --- | --- |
-| Percentage (%) |  |  |
+| Adverse Reactiona | Percentage (%) |  |
 | All Grades | Grades 3-4 |  |
 | General Disorders and Administration Site Conditions |  |  |
 | Fatigueb | 39 | 1.9 |
@@ -561,6 +561,16 @@ Table 15: Laboratory Abnormalities Worsening from Baseline Occurring in ≥10% o
 | Increased lipase | 20 | 7 |  |  |  |
 | Increased amylase | 18 | 4.4 |  |  |  |
 | a Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: range: 84 to 256 patients. |  |  |  |  |  |
+
+### Hepatocellular Carcinoma
+
+The safety of OPDIVO was evaluated in a 154-patient subgroup of patients with HCC and Child-Pugh A cirrhosis who progressed on or were intolerant to sorafenib enrolled in CHECKMATE-040, a multicenter, open-label trial.
+Patients were required to have an AST and ALT of no more than five times the upper limit of normal and total bilirubin of less than 3 mg/dL.
+The median duration of exposure to OPDIVO was 6 months.
+
+The toxicity profile observed in patients with advanced HCC was generally similar to that observed in patients with other cancers, with the exception of a higher incidence of elevations in transaminases and bilirubin levels.
+Treatment with OPDIVO resulted in treatment-emergent Grade 3 or 4 AST in 27 (18%) patients, Grade 3 or 4 ALT in 16 (11%) patients, and Grade 3 or 4 bilirubin in 11 (7%) patients.
+Immune-mediated hepatitis requiring systemic corticosteroids occurred in 8 (5%) patients.
 
 ## 6.2 Immunogenicity
 

@@ -53,7 +53,7 @@ No overall differences in safety or effectiveness were reported between elderly 
 In CHECKMATE-275 (Urothelial Cancer), 55% of patients were 65 years or older and 14% were 75 years or older.
 No overall differences in safety or effectiveness were reported between elderly patients and younger patients.
 
-CHECKMATE-037, CHECKMATE-205, CHECKMATE-039, CHECKMATE-141, and CHECKMATE-142 did not include sufficient numbers of patients aged 65 years and older to determine whether they respond differently from younger patients.
+CHECKMATE-037, CHECKMATE-205, CHECKMATE-039, CHECKMATE-141, and CHECKMATE-142, and CHECKMATE-040 did not include sufficient numbers of patients aged 65 years and older to determine whether they respond differently from younger patients.
 
 Of the 314 patients randomized to OPDIVO administered with ipilimumab in CHECKMATE-067, 41% were 65 years or older and 11% were 75 years or older.
 No overall differences in safety or effectiveness were reported between elderly patients and younger patients.
@@ -64,5 +64,5 @@ Based on a population pharmacokinetic analysis, no dose adjustment is recommende
 
 ## 8.7 Hepatic Impairment
 
-Based on a population pharmacokinetic analysis, no dose adjustment is recommended for patients with mild hepatic impairment.
-OPDIVO has not been studied in patients with moderate or severe hepatic impairment [see Clinical Pharmacology (12.3)].
+Based on a population pharmacokinetic analysis, no dose adjustment is recommended for patients with mild or moderate hepatic impairment.
+OPDIVO has not been studied in patients with severe hepatic impairment [see Clinical Pharmacology (12.3)].

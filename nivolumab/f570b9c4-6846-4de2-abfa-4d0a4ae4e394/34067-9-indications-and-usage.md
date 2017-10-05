@@ -49,3 +49,9 @@ OPDIVO is indicated for the treatment of adult and pediatric patients 12 years a
 
 This indication is approved under accelerated approval based on overall response rate and duration of response.
 Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trials.
+
+## 1.8 Hepatocellular Carcinoma
+
+OPDIVO is indicated for the treatment of patients with hepatocellular carcinoma (HCC) who have been previously treated with sorafenib.
+This indication is approved under accelerated approval based on tumor response rate and durability of response.
+Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trials [see Clinical Studies (14.8)].

@@ -10,7 +10,7 @@ The trial excluded patients with autoimmune disease, medical conditions requirin
 Tumor assessments were conducted 9 weeks after randomization then every 6 weeks for the first year, and every 12 weeks thereafter.
 
 Efficacy was evaluated in a single-arm, non-comparative, planned interim analysis of the first 120 patients who received OPDIVO in CHECKMATE-037 and in whom the minimum duration of follow-up was 6 months.
-The major efficacy outcome measures in this population were confirmed objective response rate (ORR) as measured by blinded independent central review using Response Evaluation Criteria in Solid Tumors (RECIST 1.1) and duration of response.
+The major efficacy outcome measures in this population were confirmed overall response rate (ORR) as measured by blinded independent central review using Response Evaluation Criteria in Solid Tumors (RECIST 1.1) and duration of response.
 
 Among the 120 patients treated with OPDIVO, the median age was 58 years (range: 25 to 88), 65% of patients were male, 98% were white, and the ECOG performance score was 0 (58%) or 1 (42%).
 Disease characteristics were M1c disease (76%), BRAF V600 mutation positive (22%), elevated LDH (56%), history of brain metastases (18%), and two or more prior systemic therapies for metastatic disease (68%).
@@ -18,7 +18,7 @@ Disease characteristics were M1c disease (76%), BRAF V600 mutation positive (22%
 The ORR was 32% (95% confidence interval [CI]: 23, 41), consisting of 4 complete responses and 34 partial responses in OPDIVO-treated patients.
 Of 38 patients with responses, 33 patients (87%) had ongoing responses with durations ranging from 2.6+ to 10+ months, which included 13 patients with ongoing responses of 6 months or longer.
 
-There were objective responses in patients with and without BRAF V600 mutation-positive melanoma.
+There were responses in patients with and without BRAF V600 mutation-positive melanoma.
 
 ### Previously Untreated Metastatic Melanoma
 
@@ -32,7 +32,7 @@ The trial excluded patients with ocular melanoma.
 Tumor assessments were conducted 9 weeks after randomization then every 6 weeks for the first year and then every 12 weeks thereafter.
 
 The major efficacy outcome measure was overall survival (OS).
-Additional outcome measures included investigator-assessed progression-free survival (PFS) and objective response rate (ORR) per RECIST v1.1.
+Additional outcome measures included investigator-assessed progression-free survival (PFS) and overall response rate (ORR) per RECIST v1.1.
 
 A total of 418 patients were randomized to OPDIVO (n=210) or dacarbazine (n=208).
 The median age was 65 years (range: 18 to 87), 59% were men, and 99.5% were white.
@@ -56,7 +56,7 @@ Table 16: Efficacy Results - CHECKMATE-066
 | Median, months (95% CI) | 5.1 (3.5, 10.8) | 2.2 (2.1, 2.4) |
 | Hazard ratio (95% CI)a | 0.43 (0.34, 0.56) |  |
 | p-valueb,c | <0.0001 |  |
-| Objective Response Rate | 34% | 9% |
+| Overall Response Rate | 34% | 9% |
 | (95% CI) | (28, 41) | (5, 13) |
 | Complete response rate | 4% | 1% |
 | Partial response rate | 30% | 8% |
@@ -100,7 +100,7 @@ Table 17: Efficacy Results in CHECKMATE-067
 | Hazard ratioa (vs. ipilimumab) | 0.42 | 0.57 |  |
 | (95% CI) | (0.34, 0.51) | (0.47, 0.69) |  |
 | p-valueb,c | <0.0001 | <0.0001 |  |
-| Confirmed Objective Response Rate | 50% | 40% | 14% |
+| Confirmed Overall Response Rate | 50% | 40% | 14% |
 | (95% CI) | (44, 55) | (34, 46) | (10, 18) |
 | p-valued | <0.0001 | <0.0001 |  |
 | Complete response | 8.9% | 8.5% | 1.9% |
@@ -155,7 +155,7 @@ Table 18: Efficacy Results in CHECKMATE-017
 | Median (months) (95% CI) | 9.2 (7.3, 13.3) | 6.0 (5.1, 7.3) |
 | Hazard ratio (95% CI)a | 0.59 (0.44, 0.79) |  |
 | p-valueb,c | 0.0002 |  |
-| Objective Response Rate | 27 (20%) | 12 (9%) |
+| Overall Response Rate | 27 (20%) | 12 (9%) |
 | (95% CI) | (14, 28) | (5, 15) |
 | p-value d | 0.0083 |  |
 | Complete response | 1 (0.7%) | 0 |
@@ -204,7 +204,7 @@ Table 19: Efficacy Results in CHECKMATE-057
 | Median (months) (95% CI) | 12.2 (9.7, 15.0) | 9.4 (8.0, 10.7) |
 | Hazard ratio (95% CI)a | 0.73 (0.60, 0.89) |  |
 | p-valueb,c | 0.0015 |  |
-| Objective Response Rate | 56 (19%) | 36 (12%) |
+| Overall Response Rate | 56 (19%) | 36 (12%) |
 | (95% CI) | (15, 24) | (9, 17) |
 | p-valued | 0.02 |  |
 | Complete response | 4 (1.4%) | 1 (0.3%) |
@@ -248,7 +248,7 @@ The major efficacy outcome measure was overall survival (OS).
 The trial demonstrated a statistically significant improvement in OS for patients randomized to OPDIVO as compared with everolimus at the prespecified interim analysis when 398 events were observed (70% of the planned number of events for final analysis) (Table 20 and Figure 10).
 OS benefit was observed regardless of PD-L1 expression level.
 
-Other endpoints include confirmed objective response rates, which are also presented in Table 20.
+Other endpoints include confirmed overall response rates, which are also presented in Table 20.
 
 Table 20: Efficacy Results - CHECKMATE-025
 
@@ -259,7 +259,7 @@ Table 20: Efficacy Results - CHECKMATE-025
 | Median survival in months (95% CI) | 25.0 (21.7, NE) | 19.6 (17.6, 23.1) |
 | Hazard ratio (95% CI)a | 0.73 (0.60, 0.89) |  |
 | p-valueb,c | 0.0018 |  |
-| Confirmed Objective Response Rate (95% CI) | 21.5% (17.6, 25.8) | 3.9% (2.2, 6.2) |
+| Confirmed Overall Response Rate (95% CI) | 21.5% (17.6, 25.8) | 3.9% (2.2, 6.2) |
 | Median duration of response in months (95% CI) | 23.0 (12.0, NE) | 13.7 (8.3, 21.9) |
 | Median time to onset of confirmed response in months (min, max) | 3.0 (1.4, 13.0) | 3.7 (1.5, 11.2) |
 | a Based on a stratified proportional hazards model. b Based on a stratified log-rank test. c p-value is compared with.0148 of the allocated alpha for this interim analysis. |  |  |
@@ -279,7 +279,7 @@ Patients received 3 mg/kg of OPDIVO administered intravenously over 60 minutes e
 A cycle consisted of one dose.
 Dose reduction was not permitted.
 
-Efficacy was evaluated by objective response rate (ORR) as determined by an independent radiographic review committee (IRRC).
+Efficacy was evaluated by overall response rate (ORR) as determined by an independent radiographic review committee (IRRC).
 Additional outcome measures included duration of response (DOR).
 
 Efficacy was evaluated in 95 patients in CHECKMATE-205 and CHECKMATE-039 combined who had failure of autologous HSCT and post-transplantation brentuximab vedotin.
@@ -293,7 +293,7 @@ Table 21: Efficacy in cHL after Autologous HSCT and Post-transplantation Brentux
 
 |  | CHECKMATE-205 and CHECKMATE-039 (n=95) |
 | --- | --- |
-| Objective Response Rate, n (%)a (95% CI) | 63 (66%)(56, 76) |
+| Overall Response Rate, n (%)a (95% CI) | 63 (66%)(56, 76) |
 | Complete Remission Rate (95% CI) | 6 (6%)(2, 13) |
 | Partial Remission Rate (95% CI) | 57 (60%)(49, 70) |
 | Duration of Response (months) Medianb (95% CI) Rangec | 13.1(9.5, NE)0+, 23.1+ |
@@ -313,7 +313,7 @@ Table 22: Efficacy in cHL after Autologous HSCT
 
 |  | CHECKMATE-205 and CHECKMATE-039 (n=258) |  |  |
 | --- | --- | --- | --- |
-| Objective Response Rate, n (%) (95% CI) | 179 (69%)(63, 75) |  |  |
+| Overall Response Rate, n (%) (95% CI) | 179 (69%)(63, 75) |  |  |
 | Complete Remission Rate (95% CI) | 37 (14%)(10, 19) |  |  |
 | Partial Remission Rate (95% CI) | 142 (55%)(49, 61) |  |  |
 | Duration of Response (months) Mediana,b (95% CI) Range | NE(12.0, NE)0+, 23.1+ |  |  |
@@ -369,7 +369,7 @@ In CHECKMATE-275 (NCT02387996), 270 patients with locally advanced or metastatic
 Patients were excluded for active brain or leptomeningeal metastases, active autoimmune disease, medical conditions requiring systemic immunosuppression, and ECOG performance status >1.
 Patients received an intravenous infusion of 3 mg/kg of OPDIVO every 2 weeks until unacceptable toxicity or either radiographic or clinical progression.
 Tumor response assessments were conducted every 8 weeks for the first 48 weeks and every 12 weeks thereafter.
-Major efficacy outcome measures included confirmed objective response rate (ORR) as assessed by independent radiographic review committee (IRRC) using Response Evaluation Criteria in Solid Tumors (RECIST v1.1) and duration of response (DOR).
+Major efficacy outcome measures included confirmed overall response rate (ORR) as assessed by independent radiographic review committee (IRRC) using Response Evaluation Criteria in Solid Tumors (RECIST v1.1) and duration of response (DOR).
 
 The median age was 66 years (range: 38 to 90), 78% were male, 86% of patients were white.
 Twenty-seven percent had non-bladder urothelial carcinoma and 84% had visceral metastases.
@@ -384,15 +384,14 @@ Tumor specimens were evaluated prospectively using the PD-L1 IHC 28-8 pharmDx as
 Of the 270 patients, 46% were defined as having PD-L1 expression of ≥1% (defined as ≥1% of tumor cells expressing PD-L1).
 The remaining 54% of patients, were classified as having PD-L1 expression of <1% (defined as <1% of tumor cells expressing PD-L1).
 Confirmed ORR in all patients and the two PD-L1 subgroups are summarized in Table 24.
-Median time to response was 1.9 months (range: 1.6 to 7.2).
+Median time to response was 1.9 months (range: 1.6-7.2).
 In 77 patients who received prior systemic therapy only in the neoadjuvant or adjuvant setting, the ORR was 23.4% (95% CI: 14.5%, 34.4%).
 
 Table 24: Efficacy Results in CHECKMATE-275
 
-|  | All Patients | PD-L1 <1% | PD-L1 ≥1% |
+|  | All PatientsN=270 | PD-L1 <1%N=146 | PD-L1 ≥1%N=124 |
 | --- | --- | --- | --- |
-|  | N=270 | N=146 | N=124 |
-| Confirmed Objective Response Rate, n (%) (95% CI) | 53 (19.6%)(15.1, 24.9) | 22 (15.1%)(9.7, 21.9) | 31 (25.0%)(17.7, 33.6) |
+| Confirmed Overall Response Rate, n (%) (95% CI) | 53 (19.6%)(15.1, 24.9) | 22 (15.1%)(9.7, 21.9) | 31 (25.0%)(17.7, 33.6) |
 | Complete Response Rate | 7 (2.6%) | 1 (0.7%) | 6 (4.8%) |
 | Partial Response Rate | 46 (17.0%) | 21 (14.4%) | 25 (20.2%) |
 | Median Duration of Responsea (months) (range) | 10.3 (1.9+, 12.0+) | 7.6 (3.7, 12.0+) | NE (1.9+, 12.0+) |
@@ -404,7 +403,7 @@ CHECKMATE-142 (NCT02060188) was a multicenter, open-label, single arm study cond
 Key eligibility criteria were at least one prior line of treatment for metastatic disease, ECOG 0 or 1, and absence of the following: active brain metastases, active autoimmune disease, or medical conditions requiring systemic immunosuppression.
 All patients received OPDIVO 3 mg/kg by intravenous infusion every 2 weeks until unacceptable toxicity or radiographic progression.
 Tumor assessments were conducted every 6 weeks for the first 24 weeks and every 12 weeks thereafter.
-Efficacy outcome measures included objective response rate (ORR) as assessed by independent radiographic review committee (IRRC) using Response Evaluation Criteria in Solid Tumors (RECIST v1.1) and duration of response (DOR).
+Efficacy outcome measures included overall response rate (ORR) as assessed by independent radiographic review committee (IRRC) using Response Evaluation Criteria in Solid Tumors (RECIST v1.1) and duration of response (DOR).
 
 A total of 74 patients were enrolled.
 The median age was 53 years (range: 26 to 79) with 23% ≥65 years of age and 5% ≥75 years of age, 59% were male and 88% were white.
@@ -417,10 +416,50 @@ Table 25: Efficacy Results - CHECKMATE-142
 
 |  | All Patients (n=74) | Prior Treatment with Fluoropyrimidine, Oxaliplatin, and Irinotecan (n=53) |
 | --- | --- | --- |
-| IRC-Confirmed Objective Response Rate, n (%) | 24 (32%) | 15 (28%) |
+| IRC-Confirmed Overall Response Rate, n (%) | 24 (32%) | 15 (28%) |
 | (95% CI) | (22, 44) | (17, 42) |
 | Complete response (%) | 2 (2.7%) | 1 (1.9%) |
 | Partial response (%) | 22 (30%) | 14 (26%) |
 | Duration of Response |  |  |
 | Median in months (range) | NR (1.4+, 26.5+) | NR (2.8+, 22.1+) |
 | NR=Not Reached |  |  |
+
+## 14.8 Hepatocellular Carcinoma
+
+The efficacy of OPDIVO was evaluated in a 154-patient subgroup of CHECKMATE-040 (NCT 01658878), a multicenter, open-label trial conducted in patients with hepatocellular carcinoma (HCC) who progressed on or were intolerant to sorafenib.
+Additional eligibility criteria included histologic confirmation of HCC and Child-Pugh Class A. The trial excluded patients with active autoimmune disease, brain metastasis, a history of hepatic encephalopathy, clinically significant ascites, infection with HIV, or active co-infection with hepatitis B virus (HBV) and hepatitis C virus (HCV) or HBV and hepatitis D virus (HDV); however, patients with only active HBV or HCV were eligible.
+Patients received OPDIVO 3 mg/kg by intravenous infusion every 2 weeks.
+Tumor assessments were conducted every 6 weeks for 48 weeks and every 12 weeks thereafter.
+
+The major efficacy outcome measure was confirmed overall response rate, as assessed by blinded independent central review using RECIST v1.1 and modified RECIST (mRECIST) for HCC.
+Duration of response was also assessed.
+
+A total of 154 patients received OPDIVO 3 mg/kg by intravenous infusion every 2 weeks.
+The median age was 63 years (range: 19 to 81), 77% were men, and 46% were White.
+Across the population, 31% had active HBV infection, 21% had active HCV infection, and 49% had no evidence of active HBV or HCV.
+The etiology for HCC was alcoholic liver disease in 18% and non-alcoholic liver disease in 6.5% of patients.
+Baseline ECOG performance status was 0 (65%) or 1 (35%).
+Child-Pugh class and score was A5 for 68%, A6 for 31%, and B7 for 1% of patients.
+Seventy-one percent (71%) of patients had extrahepatic spread, 29% had macrovascular invasion, and 37% had alfa-fetoprotein (AFP) levels ≥400 µg/L.
+Prior treatment history included surgical resection (66%), radiotherapy (24%), or locoregional treatment (58%).
+All patients had received prior sorafenib, of whom 36 (23%) were unable to tolerate sorafenib; 19% of patients had received 2 or more prior systemic therapies.
+
+Efficacy results are summarized in Table 26.
+
+Table 26: Efficacy Results in Trial CHECKMATE-040
+
+|  | OPDIVO (n=154) |
+| --- | --- |
+| BICR-Assessed Overall Response Ratea, n (%), RECIST v1.1 | 22 (14.3%) |
+| (95% CI)b | (9.2, 20.8) |
+| Complete response | 3 (1.9%) |
+| Partial response | 19 (12.3%) |
+| BICR-Assessed Duration of Response, RECIST v1.1 | (n=22) |
+| Range (months) | (3.2, 38.2+) |
+| % with duration ≥6 months | 91% |
+| % with duration ≥12 months | 55% |
+| BICR-Assessed Overall Response Ratea, n (%), mRECIST | 28 (18.2%) |
+| (95% CI)b | (12.4, 25.2) |
+| Complete response | 5 (3.2%) |
+| Partial response | 23 (14.9%) |
+| a Overall response rate confirmed by BICR. b Confidence interval is based on the Clopper and Pearson method. |  |

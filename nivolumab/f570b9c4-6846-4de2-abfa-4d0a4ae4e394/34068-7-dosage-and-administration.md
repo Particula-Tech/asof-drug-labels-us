@@ -32,7 +32,11 @@ The recommended dose of OPDIVO is 240 mg administered as an intravenous infusion
 
 The recommended dose of OPDIVO is 240 mg administered as an intravenous infusion over 60 minutes every 2 weeks until disease progression or unacceptable toxicity.
 
-## 2.8 Dose Modifications
+## 2.8 Recommended Dosage for HCC
+
+The recommended dose of OPDIVO is 240 mg administered as an intravenous infusion over 60 minutes every 2 weeks until disease progression or unacceptable toxicity.
+
+## 2.9 Dose Modifications
 
 Recommendations for OPDIVO modifications are provided in Table 1.
 When OPDIVO is administered in combination with ipilimumab, if OPDIVO is withheld, ipilimumab should also be withheld.
@@ -52,16 +56,18 @@ Table 1: Recommended Dose Modifications for OPDIVO
 | Grade 4 diarrhea or colitis | Permanently discontinue |  |
 | Pneumonitis | Grade 2 pneumonitis | Withhold dosea |
 | Grade 3 or 4 pneumonitis | Permanently discontinue |  |
-| Hepatitis | Aspartate aminotransferase (AST)/or alanine aminotransferase (ALT) more than 3 and up to 5 times the upper limit of normal or total bilirubin more than 1.5 and up to 3 times the upper limit of normal | Withhold dosea |
-| AST or ALT more than 5 times the upper limit of normal or total bilirubin more than 3 times the upper limit of normal | Permanently discontinue |  |
+| Hepatitis/non-HCCb | Aspartate aminotransferase (AST) or alanine aminotransferase (ALT) more than 3 and up to 5 times the upper limit of normal (ULN) or total bilirubin more than 1.5 and up to 3 times the ULN | Withhold dosea |
+| AST or ALT more than 5 times the ULN or total bilirubin more than 3 times the ULN | Permanently discontinue |  |
+| Hepatitis/HCCb | •If AST/ALT is within normal limits at baseline and increases to more than 3 and up to 5 times the ULN•If AST/ALT is more than 1 and up to 3 times ULN at baseline and increases to more than 5 and up to 10 times the ULN•If AST/ALT is more than 3 and up to 5 times ULN at baseline and increases to more than 8 and up to 10 times the ULN | Withhold dosec |
+| If AST or ALT increases to more than 10 times the ULN or total bilirubin increases to more than 3 times the ULN | Permanently discontinue |  |
 | Hypophysitis | Grade 2 or 3 hypophysitis | Withhold dosea |
 | Grade 4 hypophysitis | Permanently discontinue |  |
 | Adrenal Insufficiency | Grade 2 adrenal insufficiency | Withhold dosea |
 | Grade 3 or 4 adrenal insufficiency | Permanently discontinue |  |
 | Type 1 Diabetes Mellitus | Grade 3 hyperglycemia | Withhold dosea |
 | Grade 4 hyperglycemia | Permanently discontinue |  |
-| Nephritis and Renal Dysfunction | Serum creatinine more than 1.5 and up to 6 times the upper limit of normal | Withhold dosea |
-| Serum creatinine more than 6 times the upper limit of normal | Permanently discontinue |  |
+| Nephritis and Renal Dysfunction | Serum creatinine more than 1.5 and up to 6 times the ULN | Withhold dosea |
+| Serum creatinine more than 6 times the ULN | Permanently discontinue |  |
 | Skin | Grade 3 rash or suspected Stevens-Johnson syndrome (SJS) or toxic epidermal necrolysis (TEN) | Withhold dosea |
 | Grade 4 rash or confirmed SJS or TEN | Permanently discontinue |  |
 | Encephalitis | New-onset moderate or severe neurologic signs or symptoms | Withhold dosea |
@@ -73,9 +79,11 @@ Table 1: Recommended Dose Modifications for OPDIVO
 | Grade 3 myocarditis | Permanently discontinue |  |
 | Requirement for 10 mg per day or greater prednisone or equivalent for more than 12 weeks | Permanently discontinue |  |
 | Persistent Grade 2 or 3 adverse reactions lasting 12 weeks or longer | Permanently discontinue |  |
-| * Toxicity was graded per National Cancer Institute Common Terminology Criteria for Adverse Events. Version 4.0 (NCI CTCAE v4). a Resume treatment when adverse reaction returns to Grade 0 or 1. |  |  |
 
-## 2.9 Preparation and Administration
+* Toxicity was graded per National Cancer Institute Common Terminology Criteria for Adverse Events.
+Version 4.0 (NCI CTCAE v4). a Resume treatment when adverse reaction improves to Grade 0 or 1. b HCC: hepatocellular carcinoma. c Resume treatment when AST/ALT returns to baseline.
+
+## 2.10 Preparation and Administration
 
 Visually inspect drug product solution for particulate matter and discoloration prior to administration.
 OPDIVO is a clear to opalescent, colorless to pale-yellow solution.
