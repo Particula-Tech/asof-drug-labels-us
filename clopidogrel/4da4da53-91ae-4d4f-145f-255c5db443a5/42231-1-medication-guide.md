@@ -19,8 +19,8 @@ Clopidogrel tablets may not work as well in people who:
   Your doctor may change the medicine you take for stomach acid problems while you take clopidogrel tablets.
 
 2.
-Clopidogrel tablets ctan cause bleeding which can be serious and can some times lead to death.
-Clopidogrel tablets are blood thinner medicine that lowers the chance of blood clots forming in your body.
+Clopidogrel tablets tan cause bleeding which can be serious and can some times lead to death.
+Clopidogrel tablets are a blood thinner medicine that lowers the chance of blood clots forming in your body.
 While you take clopidogrel tablets:
 
 - you may bruise and bleed more easily
@@ -46,12 +46,13 @@ Clopidogrel tablets are prescription medicine used to treat people who have any 
 
 - chest pain due to heart problems
 - poor circulation in their legs (peripheral arterial disease)
-- a heart attack a stroke
+- a heart attack
+- a stroke
 
 Clopidogrel tablets are used alone or with aspirin to lower your chance of having another serious problem with your heart or blood vessels such as heart attack, stroke, or blood clot that can lead to death.
 
 Platelets are blood cells that help your blood clot normally.
-Clopidogrel tablets helps to prevent platelets from sticking together and forming a clot that can block an artery.
+Clopidogrel tablets help to prevent platelets from sticking together and forming a clot that can block an artery.
 
 It is not known if clopidogrel tablets are safe and effective in children.
 
@@ -113,7 +114,7 @@ How should I take clopidogrel tablets?
   If it is almost time for your next dose, skip the missed dose.
   Take the next dose at your regular time.
   Do not take 2 doses of clopidogrel tablets at the same time unless your doctor tells you to.
-- If you take too much clopidogrel tablets, call your doctor or go to the nearest emergency room right away.
+- If you take too much clopidogrel, call your doctor or go to the nearest emergency room right away.
 - Talk with your doctor about stopping your clopidogrel tablets before you have surgery.
   Your doctor may tell you to stop taking clopidogrel tablets at least 5 days before you have surgery to avoid excessive bleeding during surgery.
 
