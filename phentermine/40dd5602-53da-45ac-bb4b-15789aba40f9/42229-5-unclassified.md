@@ -49,8 +49,8 @@ Especially tell your healthcare provider if you take:
   Tell your healthcare provider if your menstrual bleeding changes while you are taking birth control pills and Qsymia.
 - Water pills (diuretics) such as hydrochlorothiazide (HCTZ)
 - Any medicines that impair or decrease your thinking, concentration, or muscle coordination
-- Carbonic anhydrase inhibitors [such as ZONEGRAN® (zonisamide), DIAMOX® (acetazolamide) or NEPTAZANE® (methazolamide)]
-- Seizure medicines such as Valproic acid (DEPAKENE® or DEPAKOTE®)
+- Carbonic anhydrase inhibitors [such as ZONEGRAN ® (zonisamide), DIAMOX ® (acetazolamide) or NEPTAZANE ® (methazolamide)]
+- Seizure medicines such as Valproic acid (DEPAKENE ® or DEPAKOTE ®)
 
 Ask your healthcare provider or pharmacist for a list of these medicines, if you are not sure.
 
@@ -87,7 +87,7 @@ If you take too much Qsymia, call your healthcare provider or go to the nearest 
 What should I avoid while taking Qsymia?
 
 - Do not get pregnant while taking Qsymia.
-  See "What is the most important information I should know about Qsymia."
+  See " What is the most important information I should know about Qsymia."
 - Do not drink alcohol while taking Qsymia.
   Qsymia and alcohol can affect each other causing side effects such as sleepiness or dizziness.
 - Do not drive a car or operate heavy machinery, or do other dangerous activities until you know how Qsymia affects you.
@@ -95,7 +95,7 @@ What should I avoid while taking Qsymia?
 
 What are the possible side effects of Qsymia?
 
-- See "What is the most important information I should know about Qsymia?" at the beginning of this Medication Guide
+- See " What is the most important information I should know about Qsymia?" at the beginning of this Medication Guide
 - Mood changes and trouble sleeping.
   Qsymia may cause depression or mood problems, and trouble sleeping.
   Tell your healthcare provider if symptoms occur.
@@ -105,7 +105,7 @@ What are the possible side effects of Qsymia?
 - Increases of acid in bloodstream (metabolic acidosis).
   If left untreated, metabolic acidosis can cause brittle or soft bones (osteoporosis, osteomalacia, osteopenia), kidney stones, can slow the rate of growth in children, and may possibly harm your baby if you are pregnant.
   Metabolic acidosis can happen with or without symptoms.
-  Sometimes people with metabolic acidosis will:Your healthcare provider should do a blood test to measure the level of acid in your blood before and during your treatment with Qsymia.
+  Sometimes people with metabolic acidosis will: Your healthcare provider should do a blood test to measure the level of acid in your blood before and during your treatment with Qsymia.
   - feel tired
   - not feel hungry (loss of appetite)
   - feel changes in heartbeat

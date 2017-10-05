@@ -23,7 +23,7 @@ Therefore, if Qsymia is used with alcohol or other CNS depressants, the patient 
 ## 7.4 Non-Potassium Sparing Diuretics
 
 Concurrent use of Qsymia with non-potassium sparing diuretics may potentiate the potassium-wasting action of these diuretics.
-Concomitant administration of hydrochlorothiazide alone with topiramate alone has been shown to increase the Cmax and AUC of topiramate by 27% and 29%, respectively.
+Concomitant administration of hydrochlorothiazide alone with topiramate alone has been shown to increase the C max and AUC of topiramate by 27% and 29%, respectively.
 When prescribing Qsymia in the presence of non-potassium-sparing medicinal products, patients should be monitored for hypokalemia [see Warnings and Precautions (5.17) and Clinical Pharmacology (12.3)].
 
 ## 7.5 Antiepileptic Drugs

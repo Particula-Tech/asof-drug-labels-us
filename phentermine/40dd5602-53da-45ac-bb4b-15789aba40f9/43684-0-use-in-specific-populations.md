@@ -39,7 +39,7 @@ Summary of Studies Evaluating the Association of Topiramate in Utero Exposure an
 | Estimated Increase in Risk | 95% CI | Estimated Increase in Risk | 95% CI |  |
 | --- | --- | --- | --- | --- |
 | Epidemiology Study | Oral clefts |  | Major Congenital Malformations |  |
-| Wolters KluwerSponsored by the maker of Qsymia | 1.47 | 0.36 – 6.06 | 1.12 | 0.81 – 1.55 |
+| Wolters Kluwer Sponsored by the maker of Qsymia | 1.47 | 0.36 – 6.06 | 1.12 | 0.81 – 1.55 |
 | FORTRESS | 2.22 | 0.78 – 6.36 | 1.21 | 0.99 – 1.47 |
 | Slone/CDC | 5.36 | 1.49 – 20.07 | 1.01 | 0.37 – 3.22 |
 | CI = confidence interval |  |  |  |  |

@@ -183,4 +183,4 @@ When prescribing Qsymia, patients should be monitored for hypokalemia [see Adver
 
 Qsymia was associated with changes in several clinical laboratory analytes in randomized, double-blind, placebo-controlled studies.
 
-Obtain a blood chemistry profile that includes bicarbonate, creatinine, potassium, and glucose at baseline and periodically during treatment [see Warnings and Precautions (5.7), (5.8), (5.9), and (5.17)].
+Obtain a blood chemistry profile that includes bicarbonate, creatinine, potassium, and glucose at baseline and periodically during treatment [s ee Warnings and Precautions (5.7), (5.8), (5.9), and (5.17)].

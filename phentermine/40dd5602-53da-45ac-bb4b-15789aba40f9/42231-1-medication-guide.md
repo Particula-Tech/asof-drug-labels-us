@@ -7,7 +7,7 @@ If you have any questions about Qsymia, talk to your healthcare provider or phar
 
 What is the most important information I should know about Qsymia?
 
-(For other side effects, also see "What are the possible side effects of Qsymia?")
+(For other side effects, also see " What are the possible side effects of Qsymia?")
 
 Qsymia can cause serious side effects, including:
 
@@ -15,7 +15,7 @@ Qsymia can cause serious side effects, including:
   If you take Qsymia during pregnancy, your baby has a higher risk for birth defects called cleft lip and cleft palate.
   These defects can begin early in pregnancy, even before you know you are pregnant.
   Women who are pregnant must not take Qsymia.
-  Women who can become pregnant should:If you become pregnant while taking Qsymia, stop taking Qsymia immediately, and tell your healthcare provider right away.
+  Women who can become pregnant should: If you become pregnant while taking Qsymia, stop taking Qsymia immediately, and tell your healthcare provider right away.
   Healthcare providers and patients should report all cases of pregnancy to:
   1. Have a negative pregnancy test before taking Qsymia and every month while taking Qsymia.
   2. Use effective birth control (contraception) consistently while taking Qsymia.

@@ -6,14 +6,14 @@ Qsymia contains phentermine hydrochloride, a sympathomimetic amine anorectic, an
 Phentermine Hydrochloride
 
 The chemical name of phentermine hydrochloride is α,α-dimethylphenethylamine hydrochloride.
-The molecular formula is C10H15N • HCl and its molecular weight is 185.7 (hydrochloride salt) or 149.2 (free base).
+The molecular formula is C 10H 15N • HCl and its molecular weight is 185.7 (hydrochloride salt) or 149.2 (free base).
 Phentermine hydrochloride is a white, odorless, hygroscopic, crystalline powder that is soluble in water, methanol, and ethanol.
 Its structural formula is:
 
 Topiramate
 
 Topiramate is 2,3:4,5-di-O-isopropylidene-β-D-fructopyranose sulfamate.
-The molecular formula is C12H21NO8S and its molecular weight is 339.4.
+The molecular formula is C 12H 21NO 8S and its molecular weight is 339.4.
 Topiramate is a white to off-white crystalline powder with a bitter taste.
 It is freely soluble in methanol and acetone, sparingly soluble in pH 9 to pH 12 aqueous solutions and slightly soluble in pH 1 to pH 8 aqueous solutions.
 Its structural formula is:

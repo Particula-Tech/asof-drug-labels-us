@@ -14,7 +14,7 @@ The following important adverse reactions are described below and elsewhere in t
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
 
-The data described herein reflects exposure to Qsymia in two, 1-year, randomized, double-blind, placebo-controlled, multicenter clinical trials, and two Phase 2 supportive trials in 2318 adult patients (936 [40.4%] patients with hypertension, 309 [13.3%] patients with type 2 diabetes, 808 [34.9%] patients with BMI greater than 40 kg/m2) exposed for a mean duration of 298 days.
+The data described herein reflects exposure to Qsymia in two, 1-year, randomized, double-blind, placebo-controlled, multicenter clinical trials, and two Phase 2 supportive trials in 2318 adult patients (936 [40.4%] patients with hypertension, 309 [13.3%] patients with type 2 diabetes, 808 [34.9%] patients with BMI greater than 40 kg/m 2) exposed for a mean duration of 298 days.
 
 Common Adverse Reactions: Adverse reactions occurring at a rate of greater than or equal to 5% and at a rate at least 1.5 times placebo include paraesthesia, dizziness, dysgeusia, insomnia, constipation, and dry mouth.
 
@@ -147,7 +147,7 @@ The most common adverse reactions that led to discontinuation of treatment are s
 Table 4.
 Adverse Reactions Greater Than or Equal To 1% Leading to Treatment Discontinuation (1-Year Clinical Trials)
 
-| Adverse Reaction Leading to Treatment Discontinuationgreater than or equal to 1% in any treatment group | Placebo (N=1561) % | Qsymia 3.75 mg/23 mg (N=240) % | Qsymia 7.5 mg/46 mg (N=498) % | Qsymia 15 mg/92 mg (N=1580) % |
+| Adverse Reaction Leading to Treatment Discontinuation greater than or equal to 1% in any treatment group | Placebo (N=1561) % | Qsymia 3.75 mg/23 mg (N=240) % | Qsymia 7.5 mg/46 mg (N=498) % | Qsymia 15 mg/92 mg (N=1580) % |
 | --- | --- | --- | --- | --- |
 | Vision blurred | 0.5 | 2.1 | 0.8 | 0.7 |
 | Headache | 0.6 | 1.7 | 0.2 | 0.8 |

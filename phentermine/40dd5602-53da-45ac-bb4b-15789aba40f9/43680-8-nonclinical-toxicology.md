@@ -36,7 +36,7 @@ Topiramate
 Topiramate, a component of Qsymia, causes developmental toxicity, including teratogenicity, in multiple animal species at clinically relevant doses.
 
 When oral doses of 20, 100, or 500 mg/kg were administered to pregnant mice during the period of organogenesis, the incidence of fetal malformations (primarily craniofacial defects) was increased at all doses.
-The low dose of topiramate in this study (20 mg/kg) is approximately 2 times the MRHD of topiramate in Qsymia 15 mg/92 mg on a mg/m2 basis.
+The low dose of topiramate in this study (20 mg/kg) is approximately 2 times the MRHD of topiramate in Qsymia 15 mg/92 mg on a mg/m 2 basis.
 Fetal body weights and skeletal ossification were reduced at 500 mg/kg in conjunction with decreased maternal body weight gain.
 
 In rat studies (oral doses of 20, 100, and 500 mg/kg or 0.2, 2.5, 30, and 400 mg/kg), the frequency of limb malformations (ectrodactyly, micromelia, and amelia) was increased among the offspring of dams treated with 400 mg/kg (34 times the MRHD of Qsymia based on AUC estimates) or greater during the organogenesis period of pregnancy.
