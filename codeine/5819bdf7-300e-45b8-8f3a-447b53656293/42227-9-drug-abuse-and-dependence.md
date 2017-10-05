@@ -21,7 +21,7 @@ Drug-seeking tactics include emergency calls or visits near the end of office ho
 Preoccupation with achieving adequate pain relief can be appropriate behavior in a patient with poor pain control.
 
 Abuse and addiction are separate and distinct from physical dependence and tolerance.
-Health care providers should be aware that addiction may not be accompanied by concurrent tolerance and symptoms of physical dependence in all addicts.
+Healthcare providers should be aware that addiction may not be accompanied by concurrent tolerance and symptoms of physical dependence in all addicts.
 In addition, abuse of opioids can occur in the absence of true addiction.
 
 Codeine sulfate tablets, like other opioids, can be diverted for non-medical use into illicit channels of distribution.

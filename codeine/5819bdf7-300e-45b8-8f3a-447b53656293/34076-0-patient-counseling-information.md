@@ -17,15 +17,10 @@ Inform patients that accidental ingestion, especially by children, may result in
 
 Instruct patients to take steps to store codeine sulfate securely and to properly dispose of unused codeine sulfate tablets in accordance with the local state guidelines and/or regulations.
 
-Ultra-Rapid Codeine Metabolizers
+Ultra-Rapid CodeineMetabolism of Codeine and Other Risk Factors for Life-Threatening Respiratory Depression in Children
 
-Advise patients that some people have a genetic variation that results in codeine changing into morphine more rapidly and completely than other people.
-Most people are unaware of whether they are ultra-rapid codeine metabolizers or not.
-These higher-than-normal levels of morphine in the blood may lead to life-threatening or fatal respiratory depression or signs of overdose such as extreme sleepiness, confusion, or shallow breathing [see Warnings and Precautions (5.4)].
-
-Children with this genetic variation who were prescribed codeine after tonsillectomy and/or adenoidectomy for obstructive sleep apnea may be at greatest risk based on reports of several deaths in this population due to respiratory depression.
-Codeine is contraindicated in all children who undergo tonsillectomy and/or adenoidectomy.
-Advise caregivers of children receiving codeine for other reasons to monitor for signs of respiratory depression.
+Advise caregivers that codeine sulfate tablets are contraindicated in all children younger than 12 years of age and in children younger than 18 years of age following tonsillectomy and/or adenoidectomy.
+Advise caregivers of children 12 to 18 years of age receiving codeine sulfate tablets to monitor for signs of respiratory depression [see Warnings and Precautions (5.3)].
 
 Interactions with Benzodiazepines and Other CNS Depressants
 
@@ -51,10 +46,9 @@ Important Administration Instructions
 
 Instruct patients how to properly take codeine sulfate tablets.
 
-• Advise patients not to adjust the dose of codeine sulfate tablets without consulting a physician or other healthcare professional.
-
-• If patients have been receiving treatment with codeine sulfate tablets for more than a few weeks and cessation of therapy is indicated, counsel them on the importance of safely tapering the dose and that abruptly discontinuing the medication could precipitate withdrawal symptoms.
-Provide a dose schedule to accomplish a gradual discontinuation of the medication [see Warnings and Precautions (5.14)].
+- Advise patients not to adjust the dose of codeine sulfate tablets without consulting a physician or other healthcare professional.
+- If patients have been receiving treatment with codeine sulfate tablets for more than a few weeks and cessation of therapy is indicated, counsel them on the importance of safely tapering the dose and that abruptly discontinuing the medication could precipitate withdrawal symptoms.
+  Provide a dose schedule to accomplish a gradual discontinuation of the medication [see Warnings and Precautions (5.14)].
 
 Hypotension
 
@@ -74,10 +68,7 @@ Embryo-Fetal Toxicity: Inform female patients of reproductive potential that cod
 
 Lactation
 
-Advise patients that nursing mothers taking codeine can have higher morphine levels in their breast milk if they are ultra- rapid metabolizers.
-These higher levels of morphine in breast milk may lead to life-threatening or fatal side effects in nursing babies.
-Advise nursing mothers to watch for signs of morphine toxicity in their infants which includes increased sleepiness (more than usual), difficulty breastfeeding, breathing difficulties, or limpness.
-Instruct nursing mothers to talk to the baby’s doctor immediately if they notice these signs and, if they cannot reach the doctor right away, to take the baby to an emergency room or call 911 (or local emergency services) [see Use in Specific Populations (8.2)].
+Advise women that breastfeeding is not recommended during treatment with codeine sulfate tablets [see Use in Specific Populations (8.2)].
 
 Infertility
 
@@ -102,7 +93,5 @@ Advise patients to throw the drug in the household trash following these steps.
 
 Distributed by: Lannett Company, Inc. Philadelphia, PA 19154
 
-Made in the USA
-
-CIB70490C Rev.
-02/2017
+CIB70490D Rev.
+09/2017

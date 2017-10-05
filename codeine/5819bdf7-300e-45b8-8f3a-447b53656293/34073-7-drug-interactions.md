@@ -15,8 +15,8 @@ Table 1: Clinically Significant Drug Interactions with Codeine Sulfate Tablets
 | Examples: | Rifampin, carbamazepine, phenytoin |
 | Inhibitors of CYP2D6 |  |
 | Clinical Impact: | Codeine is metabolized by CYP2D6 to form morphine. The concomitant use of codeine sulfate tablets and CYP2D6 inhibitors can increase the plasma concentration of codeine, but can decrease the plasma concentration of active metabolite morphine, which could result in reduced analgesic efficacy or symptoms of opioid withdrawal, particularly when an inhibitor is added after a stable dose of codeine sulfate tablets is achieved [see Clinical Pharmacology (12.3)]. After stopping a CYP2D6 inhibitor, as the effects of the inhibitor decline, the codeine plasma concentration will decrease but the active metabolite morphine plasma concentration will increase, which could increase or prolong adverse reactions and may cause potentially fatal respiratory depression [see Clinical Pharmacology (12.3)]. |
-| Intervention: | If concomitant use with a CYP2D6 inhibitor is necessary, or if a CYP2D6 inhibitor is discontinued after concomitant use, consider dosage adjustment of codeine sulfate tablet and monitor patients closely at frequent intervals. If concomitant use with CYP2D6 inhibitors is necessary, follow the patient for reduced efficacy or signs and symptoms of opioid withdrawal and consider increasing the codeine sulfate tablets as needed. After stopping use of a CYP2D6 inhibitor, consider reducing the codeine sulfate tablets and monitor the patient for signs and symptoms of respiratory depression or sedation. |
-| Examples | paroxetine, fluoxetine, bupropion, quinidine |
+| Intervention: | If concomitant use with a CYP2D6 inhibitor is necessary, or if a CYP2D6 inhibitor is discontinued after concomitant use, consider dosage adjustment of codeine sulfate tablets and monitor patients closely at frequent intervals. If concomitant use with CYP2D6 inhibitors is necessary, follow the patient for reduced efficacy or signs and symptoms of opioid withdrawal and consider increasing the codeine sulfate tablets as needed. After stopping use of a CYP2D6 inhibitor, consider reducing the codeine sulfate tablets and monitor the patient for signs and symptoms of respiratory depression or sedation. |
+| Examples | Paroxetine, fluoxetine, bupropion, quinidine |
 | Benzodiazepines and Other Central Nervous System (CNS) Depressants |  |
 | Clinical Impact: | Due to additive pharmacologic effect, the concomitant use of benzodiazepines or other CNS depressants, including alcohol, can increase the risk of hypotension, respiratory depression, profound sedation, coma, and death. |
 | Intervention: | Reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate. Limit dosages and durations to the minimum required. Follow patients closely for signs of respiratory depression and sedation [see Warnings and Precautions (5.6)]. |
@@ -28,11 +28,11 @@ Table 1: Clinically Significant Drug Interactions with Codeine Sulfate Tablets
 | Monoamine Oxidase Inhibitors (MAOIs) |  |
 | Clinical Impact: | MAOI interactions with opioids may manifest as serotonin syndrome or opioid toxicity (e.g., respiratory depression, coma) [see Warnings and Precautions (5.8)]. |
 | Intervention: | Do not use codeine sulfate tablets in patients taking MAOIs or within 14 days of stopping such treatment. If urgent use of an opioid is necessary, use test doses and frequent titration of small doses of other opioids (such as oxycodone, hydrocodone, oxymorphone, or buprenorphine) to treat pain while closely monitoring blood pressure and signs and symptoms of CNS and respiratory depression |
-| Examples: | phenelzine, tranylcypromine, linezolid |
+| Examples: | Phenelzine, tranylcypromine, linezolid |
 | Mixed Agonist/Antagonist and Partial Agonist Opioid Analgesics |  |
 | Clinical Impact: | May reduce the analgesic effect of codeine sulfate tablets and/or precipitate withdrawal symptoms. |
 | Intervention: | Avoid concomitant use. |
-| Examples: | butorphanol, nalbuphine, pentazocine, buprenorphine |
+| Examples: | Butorphanol, nalbuphine, pentazocine, buprenorphine |
 | Muscle Relaxants |  |
 | Clinical Impact: | Codeine may enhance the neuromuscular blocking action of skeletal muscle relaxants and produce an increased degree of respiratory depression. |
 | Intervention: | Monitor patients for signs of respiratory depression that may be greater than otherwise expected and decrease the dosage of codeine sulfate tablets and/or the muscle relaxant as necessary. |

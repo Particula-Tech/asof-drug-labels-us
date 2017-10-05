@@ -12,10 +12,12 @@ NDC 0527-1698-91: Unit-Dose, 25 Tablets per Blister Card, 4 Cards per Carton NDC
 
 NDC 0527-1699-01: Bottle of 100 Tablets Storage
 
-Store at 20° to 25°C (68° to 77°F).
+Store at 20° to 25°C (68° to 77°F), excursions permitted between 15° to 30°C (59° to 86°F).
 [See USP Controlled Room Temperature.]
-Protect from moisture and light.
-Dispense in well-closed container as defined in the USP/NF.
+
+Protect from moisture.
+
+Dispense in a tight, light-resistant container as defined in the USP/NF.
 
 Blisters are not child-resistant.
 Use child-resistant closure if dispensing to outpatient.

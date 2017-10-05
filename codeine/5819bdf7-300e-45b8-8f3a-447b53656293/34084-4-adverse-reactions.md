@@ -4,8 +4,8 @@ The following serious adverse reactions are described, or described in greater d
 
 - Addiction, Abuse, and Misuse [see Warnings and Precautions (5.1)]
 - Life-Threatening Respiratory Depression [see Warnings and Precautions (5.2)]
-- Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.3)]
-- Death Related to Ultra-rapid Metabolizers of Codeine [see Warnings and Precautions (5.4)]
+- Ultra-Rapid Metabolism of Codeine and Other Risk Factors for Life-Threatening Respiratory Depression in Children [see Warnings and Precautions (5.3)]
+- Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.4)]
 - Interactions with Benzodiazepines and Other CNS Depressants [see Warnings and Precautions (5.6)]
 - Adrenal Insufficiency [see Warnings and Precautions (5.9)]
 - Severe Hypotension [see Warnings and Precautions (5.10)]

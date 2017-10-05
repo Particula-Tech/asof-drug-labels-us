@@ -6,12 +6,12 @@ Pregnancy Category C
 
 Risk Summary
 
-Prolonged use of opioid analgesics during pregnancy may cause neonatal opioid withdrawal syndrome.
+Prolonged use of opioid analgesics during pregnancy may cause neonatal opioid withdrawal syndrome [see Warnings and Precautions (5.4)].
 Available data with codeine sulfate tablets are insufficient to inform a drug-associated risk for major birth defects and miscarriage.
 In animal reproduction studies, codeine administration during organogenesis has been shown to produce delayed ossification in the offspring of mice at 1.4 times maximum recommended human dose (MRHD) of 360 mg/day, embryolethal and fetotoxic effects in the offspring of rats and hamsters at approximately 2 to 3 times the MRHD, and cranial malformations/cranioschisis in the offspring of hamsters between 2 and 8 times the MRHD [see Data].
 
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
 Clinical Considerations
 
@@ -19,13 +19,12 @@ Fetal/Neonatal Adverse Reactions: Prolonged use of opioid analgesics during preg
 
 Neonatal opioid withdrawal syndrome presents as irritability, hyperactivity and abnormal sleep pattern, high pitched cry, tremor, vomiting, diarrhea, and failure to gain weight.
 The onset, duration, and severity of neonatal opioid withdrawal syndrome vary based on the specific opioid used, duration of use, timing and amount of last maternal use, and rate of elimination of the drug by the newborn.
-Observe newborns for symptoms of neonatal opioid withdrawal syndrome and manage accordingly [see Warnings and Precautions (5.3)].
+Observe newborns for symptoms of neonatal opioid withdrawal syndrome and manage accordingly [see Warnings and Precautions (5.4)].
 
 Labor or Delivery: Opioids cross the placenta and may produce respiratory depression and psycho-physiologic effects in neonates.
 An opioid antagonist, such as naloxone, must be available for reversal of opioid-induced respiratory depression in the neonate.
 Codeine sulfate tablets are not recommended for use in pregnant women during or immediately prior to labor, when other analgesic techniques are more appropriate.
 Opioid analgesics, including codeine sulfate tablets, can prolong labor through actions which temporarily reduce the strength, duration, and frequency of uterine contractions.
-
 However, this effect is not consistent and may be offset by an increased rate of cervical dilation, which tends to shorten labor.
 Monitor neonates exposed to opioid analgesics during labor for signs of excess sedation and respiratory depression.
 
@@ -50,25 +49,18 @@ This dose is 0.8 times the maximum recommended human dose of 360 mg/day on a bod
 
 Risk Summary
 
-Codeine is secreted into human milk.
+Codeine and its active metabolite, morphine, are present in human milk.
+There are published studies and cases that have reported excessive sedation, respiratory depression, and death in infants exposed to codeine via breast milk.
+Women who are ultra-rapid metabolizers of codeine achieve higher than expected serum levels of morphine, potentially leading to higher levels of morphine in breast milk that can be dangerous in their breastfed infants.
 In women with normal codeine metabolism (normal CYP2D6 activity), the amount of codeine secreted into human milk is low and dose-dependent.
-However, some women are ultra-rapid metabolizers of codeine.
-These women achieve higher-than-expected serum levels of codeine's active metabolite, morphine, leading to higher-than-expected levels of morphine in breast milk and potentially dangerously high serum morphine levels in their breastfed infants.
-Therefore, maternal use of codeine can potentially lead to serious adverse reactions, including death, in nursing infants.
 
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for codeine sulfate tablets and any potential adverse effects on the breastfed infant from codeine sulfate tablets or from the underlying maternal condition.
+There is no information on the effects of codeine on milk production.
+Because of the potential for serious adverse reactions, including excess sedation, respiratory depression, and death in a breastfed infant, advise patients that breastfeeding is not recommended during treatment with codeine sulfate tablets [see Warnings and Precautions (5.3)].
 
 Clinical Considerations
 
-The risk of infant exposure to codeine and morphine through breast milk should be weighed against the benefits of breastfeeding for both the mother and the baby.
-Caution should be exercised when codeine is administered to a nursing woman.
-If a codeine containing product is selected, the lowest dose should be prescribed for the shortest period of time to achieve the desired clinical effect.
-Infants exposed to codeine sulfate through breast milk should be monitored for excess sedation and respiratory depression.
-Mothers using codeine sulfate tablets should be informed about when to seek immediate medical care and how to identify the signs and symptoms of neonatal toxicity, such as drowsiness or sedation, difficulty breastfeeding, breathing difficulties, and decreased tone, in their baby.
-Nursing mothers who are ultra-rapid metabolizers may also experience overdose symptoms such as extreme sleepiness, confusion, or shallow breathing.
-Prescribers should closely monitor mother-infant pairs and notify treating pediatricians about the use of codeine during breast-feeding.
-
-Withdrawal symptoms can occur in breastfed infants when maternal administration of an opioid analgesic is stopped, or when breast-feeding is stopped.
+If infants are exposed to codeine sulfate tablets through breast milk, they should be monitored for excess sedation and respiratory depression.
+Withdrawal symptoms can occur in breastfed infants when maternal administration of an opioid analgesic is stopped, or when breastfeeding is stopped.
 
 ## 8.3 Females and Males of Reproductive Potential
 
@@ -79,11 +71,17 @@ It is not known whether these effects on fertility are reversible [see Adverse R
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness and the pharmacokinetics of codeine sulfate tablets in pediatric patients below the age of 18 have not been established.
+The safety and effectiveness of codeine sulfate tablets in pediatric patients have not been established.
 
-Respiratory depression and death have occurred in children with obstructive sleep apnea who received codeine sulfate tablets in the post-operative period following tonsillectomy and/or adenoidectomy and had evidence of being ultra-rapid metabolizers of codeine (i.e., multiple copies of the gene for cytochrome P450 isoenzyme 2D6 or high morphine concentrations).
-These children may be particularly sensitive to the respiratory depressant effects of codeine that has been rapidly metabolized to morphine.
-Codeine is contraindicated for post-operative pain management in all pediatric patients undergoing tonsillectomy and/or adenoidectomy [see Contraindications (4)].
+Life-threatening respiratory depression and death have occurred in children who received codeine [see Warnings and Precautions (5.3)].
+In most of the reported cases, these events followed tonsillectomy and/or adenoidectomy, and many of the children had evidence of being ultra-rapid metabolizers of codeine (i.e., multiple copies of the gene for cytochrome P450 isoenzyme 2D6 or high morphine concentrations).
+Children with sleep apnea may be particularly sensitive to the respiratory depressant effects of codeine.
+Because of the risk of life-threatening respiratory depression and death:
+
+- Codeine sulfate tablets are contraindicated for all children younger than 12 years of age [see Contraindications (4)].
+- Codeine sulfate tablets are contraindicated for post-operative management in pediatric patients younger than 18 years of age following tonsillectomy and/or adenoidectomy [see Contraindications (4)].
+- Avoid the use of codeine sulfate tablets in adolescents 12 to 18 years of age who have other risk factors that may increase their sensitivity to the respiratory depressant effects of codeine unless the benefits outweigh the risks.
+  Risk factors include conditions associated with hypoventilation, such as postoperative status, obstructive sleep apnea, obesity, severe pulmonary disease, neuromuscular disease, and concomitant use of other medications that cause respiratory depression [see Warnings and Precautions (5.3)].
 
 ## 8.5 Geriatric Use
 

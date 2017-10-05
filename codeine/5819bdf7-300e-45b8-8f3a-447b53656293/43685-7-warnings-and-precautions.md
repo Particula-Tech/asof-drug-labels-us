@@ -23,7 +23,7 @@ Contact local state professional licensing board or state controlled substances 
 Serious, life-threatening, or fatal respiratory depression has been reported with the use of opioids, even when used as recommended.
 Respiratory depression, if not immediately recognized and treated, may lead to respiratory arrest and death.
 Management of respiratory depression may include close observation, supportive measures, and use of opioid antagonists, depending on the patient’s clinical status [see Overdosage (10)].
-Carbon dioxide (CO2) retention from opioid- induced respiratory depression can exacerbate the sedating effects of opioids.
+Carbon dioxide (CO2) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.
 
 While serious, life-threatening, or fatal respiratory depression can occur at any time during the use of codeine sulfate tablets, the risk is greatest during the initiation of therapy or following a dosage increase.
 Monitor patients closely for respiratory depression, especially within the first 24 to 72 hours of initiating therapy with and following dosage increases of codeine sulfate tablets.
@@ -33,48 +33,66 @@ Overestimating the codeine sulfate tablets dosage when converting patients from 
 
 Accidental ingestion of even one dose of codeine sulfate tablets, especially by children, can result in respiratory depression and death due to an overdose of codeine.
 
-## 5.3 Neonatal Opioid Withdrawal Syndrome
+## 5.3 Ultra-Rapid Metabolism of Codeine and Other Risk Factors for Life-Threatening Respiratory Depression in Children
+
+Life-threatening respiratory depression and death have occurred in children who received codeine.
+Codeine is subject to variability in metabolism based upon CYP2D6 genotype (described below), which can lead to an increased exposure to the active metabolite morphine.
+Based upon post-marketing reports, children younger than 12 years old appear to be more susceptible to the respiratory depressant effects of codeine, particularly if there are risk factors for respiratory depression.
+For example, many reported cases of death occurred in the post-operative period following tonsillectomy and/or adenoidectomy, and many of the children had evidence of being ultra-rapid metabolizers of codeine.
+Furthermore, children with obstructive sleep apnea who are treated with codeine for post-tonsillectomy and/or adenoidectomy pain may be particularly sensitive to its respiratory depressant effect.
+Because of the risk of life-threatening respiratory depression and death:
+
+- Codeine sulfate tablets are contraindicated for all children younger than 12 years of age [see Contraindications (4)].
+- Codeine sulfate tablets are contraindicated for post-operative management in pediatric patients younger than 18 years of age following tonsillectomy and/or adenoidectomy [see Contraindications (4)].
+- Avoid the use of codeine sulfate tablets in adolescents 12 to 18 years of age who have other risk factors that may increase their sensitivity to the respiratory depressant effects of codeine unless the benefits outweigh the risks.
+  Risk factors include conditions associated with hypoventilation, such as postoperative status, obstructive sleep apnea, obesity, severe pulmonary disease, neuromuscular disease, and concomitant use of other medications that cause respiratory depression.
+  [see Warnings and Precautions (5.3)].
+- As with adults, when prescribing codeine for adolescents, healthcare providers should choose the lowest effective dose for the shortest period of time and inform patients and caregivers about these risks and the signs of morphine overdose [see Use in Specific Populations (8.4), Overdosage (10)].
+
+Nursing Mothers
+
+At least one death was reported in a nursing infant who was exposed to high levels of morphine in breast milk because the mother was an ultra-rapid metabolizer of codeine.
+Breastfeeding is not recommended during treatment with codeine sulfate tablets [see Use in Specific Populations (8.2)].
+
+CYP2D6 Genetic Variability: Ultra-Rapid Metabolizers
+
+Some individuals may be ultra-rapid metabolizers because of a specific CYP2D6 genotype (e.g., gene duplications denoted as *1/*1xN or *1/*2xN).
+The prevalence of this CYP2D6 phenotype varies widely and has been estimated at 1 to 10% for Whites (European, North American), 3 to 4% for Blacks (African Americans), 1 to 2% for East Asians (Chinese, Japanese, Korean), and may be greater than 10% in certain racial/ethnic groups (i.e., Oceanian, Northern African, Middle Eastern, Ashkenazi Jews, Puerto Rican).
+
+These individuals convert codeine into its active metabolite, morphine, more rapidly and completely than other people.
+This rapid conversion results in higher than expected serum morphine levels.
+Even at labeled dosage regimens, individuals who are ultra-rapid metabolizers may have life-threatening or fatal respiratory depression or experience signs of overdose (such as extreme sleepiness, confusion, or shallow breathing) [see Overdosage (10)].
+Therefore, individuals who are ultra-rapid metabolizers should not use codeine sulfate tablets.
+
+## 5.4 Neonatal Opioid Withdrawal Syndrome
 
 Prolonged use of codeine sulfate tablets during pregnancy can result in withdrawal in the neonate.
 Neonatal opioid withdrawal syndrome, unlike opioid withdrawal syndrome in adults, may be life-threatening if not recognized and treated, and requires management according to protocols developed by neonatology experts.
 Observe newborns for signs of neonatal opioid withdrawal syndrome and manage accordingly.
 Advise pregnant women using opioids for a prolonged period of the risk of neonatal opioid withdrawal syndrome and ensure that appropriate treatment will be available [see Use in Specific Populations (8.1), Patient Counseling Information (17)].
 
-## 5.4 Death Related to Ultra-Rapid Metabolism of Codeine to Morphine
-
-Codeine sulfate tablets are contraindicated for post-operative pain management in all pediatric patients undergoing tonsillectomy and/or adenoidectomy [see Contraindications (4)].
-
-Respiratory depression and death have occurred in children who received codeine in the post-operative period following tonsillectomy and/or adenoidectomy and had evidence of being ultra-rapid metabolizers of codeine (i.e., multiple copies of the gene for cytochrome P450 isoenzyme 2D6 or high morphine concentrations).
-Deaths have also occurred in nursing infants who were exposed to high levels of morphine in breast milk because their mothers were ultra-rapid metabolizers of codeine [see Use in Specific Populations (8.4)].
-
-Some individuals may be ultra-rapid metabolizers because of a specific CYP2D6 genotype (gene duplications denoted as *1/*1xN or *1/*2xN).
-The prevalence of this CYP2D6 phenotype varies widely and has been estimated at 0.5 to 1% in Chinese and Japanese, 0.5 to 1% in Hispanics, 1 to 10% in Caucasians, 3% in African Americans, and 16 to 28% in North Africans, Ethiopians, and Arabs.
-Data are not available for other ethnic groups.
-These individuals convert codeine into its active metabolite, morphine, more rapidly and completely than other people.
-This rapid conversion results in higher than expected serum morphine levels.
-Even at labeled dosage regimens, individuals who are ultra-rapid metabolizers may have life-threatening or fatal respiratory depression or experience signs of overdose (such as extreme sleepiness, confusion, or shallow breathing) [see Overdosage (10)].
-
-Children with obstructive sleep apnea who are treated with codeine for post-tonsillectomy and/or adenoidectomy pain may be particularly sensitive to the respiratory depressant effects of codeine that has been rapidly metabolized to morphine.
-
 ## 5.5 Risks of Interactions with Drugs Affecting Cytochrome P450 Isoenzymes
 
 The effects of concomitant use or discontinuation of cytochrome P450 3A4 inducers, 3A4 inhibitors, or 2D6 inhibitors with codeine are complex.
 Use of cytochrome P450 3A4 inducers, 3A4 inhibitors, or 2D6 inhibitors with codeine sulfate tablets requires careful consideration of the effects on the parent drug, codeine, and the active metabolite, morphine.
 
-- Cytochrome P450 3A4 InteractionThe concomitant use of codeine sulfate tablets with all cytochrome P450 3A4 inhibitors, such as macrolide antibiotics (e.g., erythromycin), azole-antifungal agents (e.g., ketoconazole), and protease inhibitors (e.g., ritonavir) or discontinuation of a cytochrome P450 3A4 inducer such as rifampin, carbamazepine, and phenytoin, may result in an increase in codeine plasma concentrations with subsequently greater metabolism by cytochrome P450 2D6, resulting in greater morphine levels, which could increase or prolong adverse reactions and may cause potentially fatal respiratory depression.
-  The concomitant use of codeine sulfate tablets with all cytochrome P450 3A4 inducers or discontinuation of a cytochrome P450 3A4 inhibitor may result in lower codeine levels, greater norcodeine levels, and less metabolism via 2D6 with resultant lower morphine levels.
-  This may be associated with a decrease in efficacy, and in some patients, may result in signs and symptoms of opioid withdrawal.
-  Follow patients receiving codeine sulfate tablets and any CYP3A4 inhibitor or inducer for signs and symptoms that may reflect opioid toxicity and opioid withdrawal when codeine sulfate tablets are used in conjunction with inhibitors and inducers of CYP3A4.
-  If concomitant use of a CYP3A4 inhibitor is necessary or if a CYP3A4 inducer is discontinued, consider dosage reduction of codeine sulfate tablets until stable drug effects are achieved.
-  Monitor patients for respiratory depression and sedation at frequent intervals.
-  If concomitant use of a CYP3A4 inducer is necessary or if a CYP3A4 inhibitor is discontinued, consider increasing the codeine sulfate tablets dosage until stable drug effects are achieved.
-  Monitor for signs of opioid withdrawal.
-  [Drug Interactions (7)].
-- Risks of Concomitant Use or Discontinuation of Cytochrome P450 2D6 Inhibitors The concomitant use of codeine sulfate tablets with all cytochrome P450 2D6 inhibitors (e.g., amiodarone, quinidine) may result in an increase in codeine plasma concentrations and a decrease in active metabolite morphine plasma concentration which could result in an analgesic efficacy reduction or symptoms of opioid withdrawal.
-  Discontinuation of a concomitantly used cytochrome P450 2D6 inhibitor may result in a decrease in codeine plasma concentration and an increase in active metabolite morphine plasma concentration which could increase or prolong adverse reactions and may cause potentially fatal respiratory depression.
-  Follow patients receiving codeine sulfate tablets and any CYP2D6 inhibitor for signs and symptoms that may reflect opioid toxicity and opioid withdrawal when codeine sulfate tablets are used in conjunction with inhibitors of CYP2D6.
-  If concomitant use with a CYP2D6 inhibitor is necessary, follow the patient for signs of reduced efficacy or opioid withdrawal and consider increasing the codeine sulfate tablets dosage.
-  After stopping use of a CYP2D6 inhibitor, consider reducing the codeine sulfate tablets dosage and follow the patient for signs and symptoms of respiratory depression or sedation [see Drug Interactions (7)].
+Cytochrome P450 3A4 Interaction
+
+The concomitant use of codeine sulfate tablets with all cytochrome P450 3A4 inhibitors, such as macrolide antibiotics (e.g., erythromycin), azole-antifungal agents (e.g., ketoconazole), and protease inhibitors (e.g., ritonavir) or discontinuation of a cytochrome P450 3A4 inducer such as rifampin, carbamazepine, and phenytoin, may result in an increase in codeine plasma concentrations with subsequently greater metabolism by cytochrome P450 2D6, resulting in greater morphine levels, which could increase or prolong adverse reactions and may cause potentially fatal respiratory depression.
+The concomitant use of codeine sulfate tablets with all cytochrome P450 3A4 inducers or discontinuation of a cytochrome P450 3A4 inhibitor may result in lower codeine levels, greater norcodeine levels, and less metabolism via 2D6 with resultant lower morphine levels.
+This may be associated with a decrease in efficacy, and in some patients, may result in signs and symptoms of opioid withdrawal.
+Follow patients receiving codeine sulfate tablets and any CYP3A4 inhibitor or inducer for signs and symptoms that may reflect opioid toxicity and opioid withdrawal when codeine sulfate tablets are used in conjunction with inhibitors and inducers of CYP3A4.
+If concomitant use of a CYP3A4 inhibitor is necessary or if a CYP3A4 inducer is discontinued, consider dosage reduction of codeine sulfate tablets until stable drug effects are achieved.
+Monitor patients for respiratory depression and sedation at frequent intervals.
+If concomitant use of a CYP3A4 inducer is necessary or if a CYP3A4 inhibitor is discontinued, consider increasing the codeine sulfate tablets dosage until stable drug effects are achieved.
+Monitor for signs of opioid withdrawal.
+[Drug Interactions (7)].
+
+Risks of Concomitant Use or Discontinuation of Cytochrome P450 2D6 Inhibitors The concomitant use of codeine sulfate tablets with all cytochrome P450 2D6 inhibitors (e.g., amiodarone, quinidine) may result in an increase in codeine plasma concentrations and a decrease in active metabolite morphine plasma concentration which could result in an analgesic efficacy reduction or symptoms of opioid withdrawal.
+Discontinuation of a concomitantly used cytochrome P450 2D6 inhibitor may result in a decrease in codeine plasma concentration and an increase in active metabolite morphine plasma concentration which could increase or prolong adverse reactions and may cause potentially fatal respiratory depression.
+Follow patients receiving codeine sulfate tablets and any CYP2D6 inhibitor for signs and symptoms that may reflect opioid toxicity and opioid withdrawal when codeine sulfate tablets are used in conjunction with inhibitors of CYP2D6.
+If concomitant use with a CYP2D6 inhibitor is necessary, follow the patient for signs of reduced efficacy or opioid withdrawal and consider increasing the codeine sulfate tablets dosage.
+After stopping use of a CYP2D6 inhibitor, consider reducing the codeine sulfate tablets dosage and follow the patient for signs and symptoms of respiratory depression or sedation [see Drug Interactions (7)].
 
 ## 5.6 Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants
 
@@ -154,7 +172,7 @@ Monitor patients with a history of seizure disorders for worsened seizure contro
 
 ## 5.14 Withdrawal
 
-Avoid the use of mixed agonist/antagonist (e.g., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including codeine sulfate tablets.
+Avoid the use of mixed agonist/antagonist (e.g, pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including codeine sulfate tablets.
 In these patients, mixed agonist/antagonist and partial agonist analgesics may reduce the analgesic effect and/or precipitate withdrawal symptoms [see Drug Interactions (7)].
 
 When discontinuing codeine sulfate tablets in a physically-dependent patient, gradually taper the dosage [see Dosage and Administration (2.4)].

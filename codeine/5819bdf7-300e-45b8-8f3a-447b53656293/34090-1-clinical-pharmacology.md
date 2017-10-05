@@ -63,19 +63,19 @@ Food Effect: When 60 mg codeine sulfate was administered 30 minutes after ingest
 Distribution
 
 Codeine has been reported to have an apparent volume of distribution of approximately 3 to 6 L/kg, indicating extensive distribution of the drug into tissues.
-Codeine has low plasma protein binding with about 7 to 25% of codeine bound to plasma proteins.
+Codeine has low plasma protein binding with about 7% to 25% of codeine bound to plasma proteins.
 
 Elimination
 
-Codeine is metabolized by conjugation to codeine-6-glucuronide (70 to 80%), by O-demethylation to morphine (5 to 10%), and by N-demethylation to norcodeine (~10%).
+Codeine is metabolized by conjugation to codeine-6-glucuronide (70% to 80%), by O-demethylation to morphine (5% to 10%), and by N-demethylation to norcodeine (~10%).
 Approximately 90% of the total dose of codeine is excreted through the kidneys.
 The plasma half-lives of codeine and its metabolites have been reported to be approximately 3 hours.
 
-Metabolism: About 70 to 80% of the administered dose of codeine is metabolized by conjugation with glucuronic acid to codeine-6-glucuronide (C6G) and via O-demethylation to morphine (about 5 to 10%) and N-demethylation to norcodeine (about 10%) respectively.
+Metabolism: About 70% to 80% of the administered dose of codeine is metabolized by conjugation with glucuronic acid to codeine-6-glucuronide (C6G) and via O-demethylation to morphine (about 5% to 10%) and N-demethylation to norcodeine (about 10%) respectively.
 UDP-glucuronosyltransferase (UGT) 2B7 and 2B4 are the major enzymes mediating glucurodination of codeine to C6G.
 Cytochrome P450 2D6 is the major enzyme responsible for conversion of codeine to morphine and P450 3A4 is the major enzyme mediating conversion of codeine to norcodeine.
 Morphine and norcodeine are further metabolized by conjugation with glucuronic acid.
-The glucuronide metabolites of morphine are morphine-3- glucuronide (M3G) and morphine-6-glucuronide (M6G).
+The glucuronide metabolites of morphine are morphine-3-glucuronide (M3G) and morphine-6-glucuronide (M6G).
 Morphine and M6G are known to have analgesic activity in humans.
 The analgesic activity of C6G in humans is unknown.
 Norcodeine and M3G are generally not considered to possess analgesic properties.
