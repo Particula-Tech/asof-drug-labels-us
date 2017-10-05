@@ -9,7 +9,7 @@ It is recommended that serum creatinine, serum phosphorus, estimated creatinine 
 ## 2.2 Recommended Dosage
 
 GENVOYA is a four-drug fixed dose combination product containing 150 mg of elvitegravir, 150 mg of cobicistat, 200 mg of emtricitabine, and 10 mg of tenofovir alafenamide (TAF).
-The recommended dosage of GENVOYA is one tablet taken orally once daily with food in adults and pediatric patients 12 years of age and older with body weight at least 35 kg and creatinine clearance greater than or equal to 30 mL per minute [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+The recommended dosage of GENVOYA is one tablet taken orally once daily with food in adults and pediatric patients with body weight at least 25 kg and creatinine clearance greater than or equal to 30 mL per minute [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
 ## 2.3 Not Recommended in Patients with Severe Renal Impairment
 

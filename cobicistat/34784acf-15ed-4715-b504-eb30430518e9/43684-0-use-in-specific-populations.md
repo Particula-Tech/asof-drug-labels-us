@@ -9,7 +9,7 @@ Healthcare providers are encouraged to register patients by calling the Antiretr
 
 Risk Summary
 
-Prospective pregnancy data from the Antiviral Pregnancy Registry (APR) are not sufficient to adequately assess the risk of birth defects of miscarriage.
+Prospective pregnancy data from the APR are not sufficient to adequately assess the risk of birth defects of miscarriage.
 TAF use in women during pregnancy has not been evaluated; however, elvitegravir, cobicistat, and emtricitabine use during pregnancy has been evaluated in a limited number of women as reported to the APR.
 Available data from the APR through January 2016 show no birth defects reported for elvitegravir or cobicistat, and no difference in the overall risk of major birth defects for emtricitabine compared with the background rate for major birth defects of 2.7% in a U.S. reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP) [see Data].
 In animal studies, no adverse developmental effects were observed when the components of GENVOYA were administered separately during the period of organogenesis at exposures up to 23 and 0.2 times (rat and rabbits, respectively: elvitegravir), 1.6 and 3.8 times (rats and rabbits, respectively: cobicistat), 60 and 108 times (mice and rabbits, respectively; emtricitabine) and equal to and 53 times (rats and rabbits, respectively; TAF) the exposure at the recommended daily dosage of these components in GENVOYA [see Data].
@@ -99,16 +99,20 @@ Tenofovir was excreted into the milk of lactating rhesus monkeys, following a si
 
 ## 8.4 Pediatric Use
 
-The efficacy and safety of GENVOYA for the treatment of HIV-1 infection was established in pediatric patients aged 12 years and older with body weight greater than or equal to 35 kg [see Dosage and Administration (2.2)].
-Use of GENVOYA in this age group is supported by studies in adults and by an open-label trial of 50 antiretroviral treatment-naïve HIV-1 infected pediatric subjects 12 to less than 18 years old receiving GENVOYA through Week 48 (Study 106).
-The safety and efficacy of GENVOYA in these subjects was similar to that in antiretroviral treatment-naïve adults [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.5)].
+The safety and effectiveness of GENVOYA for the treatment of HIV-1 infection was established in pediatric patients with body weight greater than or equal to 25 kg [see Indications and Usage (1) and Dosage and Administration (2.2)].
 
-Safety and effectiveness of GENVOYA in pediatric patients less than 12 years of age or less than 35 kg have not been established.
+Use of GENVOYA in pediatric patients between the ages of 12 to less than 18 years and weighing at least 35 kg is supported by studies in adults and by a study in antiretroviral treatment-naïve HIV-1 infected pediatric subjects ages 12 to less than 18 years and weighing at least 35 kg (cohort 1 of Study 106, N=50).
+The safety and efficacy of GENVOYA in these pediatric subjects was similar to that in adults [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.5)].
+
+Use of GENVOYA in pediatric patients weighing at least 25 kg is supported by studies in adults and by an open-label trial in virologically-suppressed pediatric subjects ages 6 to less than 12 years and weighing at least 25 kg, in which subjects were switched from their antiretroviral regimen to GENVOYA (cohort 2 of Study 106, N=23).
+The safety in these subjects through 24 weeks was similar to that in antiretroviral treatment-naïve adults with the exception of a decrease in mean change from baseline in CD4+ cell count [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.5)].
+
+Safety and effectiveness of GENVOYA in pediatric patients less than 25 kg have not been established.
 
 ## 8.5 Geriatric Use
 
 Clinical trials of GENVOYA included 97 subjects (80 receiving GENVOYA) aged 65 years and over.
-No differences in safety or efficacy have been observed between elderly subjects and those between 12 and less than 65 years of age.
+No differences in safety or efficacy have been observed between elderly subjects and adults between 18 and less than 65 years of age.
 
 ## 8.6 Renal Impairment
 

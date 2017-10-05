@@ -31,10 +31,10 @@ The actual glomerular filtration rate, as determined by the clearance of probe d
 
 Absorption, Distribution, Metabolism, and Excretion
 
-The pharmacokinetic (PK) properties of the components of GENVOYA are provided in Table 6.
-The multiple dose PK parameters of elvitegravir, cobicistat, emtricitabine, TAF and its metabolite tenofovir are provided in Table 7.
+The pharmacokinetic (PK) properties of the components of GENVOYA are provided in Table 7.
+The multiple dose PK parameters of elvitegravir, cobicistat, emtricitabine, TAF and its metabolite tenofovir are provided in Table 8.
 
-Table 6 Pharmacokinetic Properties of the Components of GENVOYA
+Table 7 Pharmacokinetic Properties of the Components of GENVOYA
 
 |  | Elvitegravir | Cobicistat | Emtricitabine | TAF |
 | --- | --- | --- | --- | --- |
@@ -55,9 +55,9 @@ Table 6 Pharmacokinetic Properties of the Components of GENVOYA
 | % Of dose excreted in feces | 94.8 | 86.2 | 13.7 | 31.7 |
 | PBMCs = peripheral blood mononuclear cells; CES1 = carboxylesterase 1. |  |  |  |  |
 
-Table 7 Multiple Dose Pharmacokinetic Parameters of Elvitegravir, Cobicistat, Emtricitabine, Tenofovir Alafenamide (TAF) and its Metabolite Tenofovir Following Oral Administration of GENVOYA with Food in HIV-Infected Adults
+Table 8 Multiple Dose Pharmacokinetic Parameters of Elvitegravir, Cobicistat, Emtricitabine, Tenofovir Alafenamide (TAF) and its Metabolite Tenofovir Following Oral Administration of GENVOYA with Food in HIV-Infected Adults
 
-| Parameter Mean (CV%) | ElvitegravirFrom Intensive PK analysis in Study 102, N=19 | Cobicistat | Emtricitabine | TAFFrom Population PK analysis in Studies 104 and 111, N=539 | TenofovirFrom Population PK analysis in Studies 104 and 111, N=841 |
+| Parameter Mean (CV%) | ElvitegravirFrom Intensive PK analysis in a Phase 2 trial in HIV infected adults, Study 102 (N=19). | Cobicistat | Emtricitabine | TAFFrom Population PK analysis in two trials of treatment-naïve adults with HIV-1 infection, Studies 104 and 111 (N=539). | TenofovirFrom Population PK analysis in two trials of treatment-naïve adults with HIV-1 infection, Studies 104 and 111 (N=841). |
 | --- | --- | --- | --- | --- | --- |
 | Cmax (microgram per mL) | 2.1 (33.7) | 1.5 (28.4) | 2.1 (20.2) | 0.16 (51.1) | 0.02 (26.1) |
 | AUCtau (microgram∙hour per mL) | 22.8 (34.7) | 9.5 (33.9) | 11.7 (16.6) | 0.21 (71.8) | 0.29 (27.4) |
@@ -68,9 +68,9 @@ Special Populations
 
 Patients with Renal Impairment
 
-The pharmacokinetics of GENVOYA in HIV-1 infected subjects with renal impairment (eGFR of 30 to 69 mL per minute by Cockcroft-Gault method) were evaluated in a subset of virologically suppressed subjects in an open-label trial, Study 112 (Table 8).
+The pharmacokinetics of GENVOYA in HIV-1 infected subjects with renal impairment (eGFR of 30 to 69 mL per minute by Cockcroft-Gault method) were evaluated in a subset of virologically suppressed subjects in an open-label trial, Study 112 (Table 9).
 
-Table 8 Pharmacokinetics of GENVOYA in HIV-Infected Adults with Renal Impairment as Compared to Subjects with Normal Renal Function
+Table 9 Pharmacokinetics of GENVOYA in HIV-Infected Adults with Renal Impairment as Compared to Subjects with Normal Renal Function
 
 | Creatinine Clearance | ≥90 mL per minute (N=18)From a Phase 2 study in HIV-infected adults with normal renal function. | 60–89 mL per minute (N=11)These subjects from Study 112 had an eGFR ranging from 60 to 69 mL per minute. | 30–59 mL per minute (N=18)Study 112. |
 | --- | --- | --- | --- |
@@ -100,7 +100,27 @@ Emtricitabine and Tenofovir Alafenamide (TAF): Pharmacokinetics of emtricitabine
 
 Pediatric Patients
 
-Exposures of TAF achieved in 24 pediatric subjects aged 12 to less than 18 years who received GENVOYA in Study 106 were decreased (23% for AUC) compared to exposures achieved in treatment-naïve adults following administration of GENVOYA, but were overall deemed acceptable based on exposure-response relationships; the other components of GENVOYA had similar exposures in adolescents compared to treatment-naïve adults [see Use in Specific Populations (8.4)].
+Mean exposures of elvitegravir, cobicistat, and TAF achieved in 24 pediatric subjects aged 12 to less than 18 years who received GENVOYA in Study 106 were decreased compared to exposures achieved in treatment-naïve adults following administration of GENVOYA, but were overall deemed acceptable based on exposure-response relationships; emtricitabine exposure in adolescents was similar to that in treatment-naïve adults (Table 10).
+
+Table 10 Multiple Dose Pharmacokinetic Parameters of Elvitegravir, Cobicistat, Emtricitabine, Tenofovir Alafenamide (TAF) and its Metabolite Tenofovir Following Oral Administration of GENVOYA in HIV-Infected Pediatric Subjects Aged 12 to less than 18 YearsFrom Intensive PK analysis in a trial in treatment-naïve pediatric subjects with HIV-1 infection, cohort 1 of Study 106 (N=24).
+
+| Parameter Mean (CV%) | Elvitegravir | Cobicistat | Emtricitabine | TAF | Tenofovir |
+| --- | --- | --- | --- | --- | --- |
+| Cmax (microgram per mL) | 2.2 (19.2) | 1.2 (35.0) | 2.3 (22.5) | 0.17 (64.4) | 0.02 (23.7) |
+| AUCtau (microgram∙hour per mL) | 23.8 (25.5) | 8.2N=23 (36.1) | 14.4 (23.9) | 0.20 (50.0) | 0.29 (18.8) |
+| Ctrough (microgram per mL) | 0.30 (81.0) | 0.03N=15 (180.0) | 0.10 (38.9) | NA | 0.01 (21.4) |
+| CV = Coefficient of Variation; NA = Not Applicable |  |  |  |  |  |
+
+Exposures of the components of GENVOYA achieved in 23 pediatric subjects between the ages of 6 to less than 12 years who received GENVOYA in Study 106 were higher (20 to 80% for AUC) than exposures achieved in adults following the administration of GENVOYA; however, the increase was not considered clinically significant (Table 11) [see Use in Specific Populations (8.4)].
+
+Table 11 Multiple Dose Pharmacokinetic Parameters of Elvitegravir, Cobicistat, Emtricitabine, Tenofovir Alafenamide (TAF) and its Metabolite Tenofovir Following Oral Administration of GENVOYA in HIV-Infected Pediatric Subjects Aged 6 to less than 12 YearsFrom Intensive PK analysis in a trial in virologically-suppressed pediatric subjects with HIV-1 infection, cohort 2 of Study 106 (N=23).
+
+| Parameter Mean (CV%) | Elvitegravir | Cobicistat | Emtricitabine | TAF | Tenofovir |
+| --- | --- | --- | --- | --- | --- |
+| Cmax (microgram per mL) | 3.1 (38.7) | 2.1 (46.7) | 3.4 (27.0) | 0.31 (61.2) | 0.03 (20.8) |
+| AUCtau (microgram∙hour per mL) | 33.8N=22 (57.8) | 15.9N=20 (51.7) | 20.6 (18.9) | 0.33 (44.8) | 0.44 (20.9) |
+| Ctrough (microgram per mL) | 0.37 (118.5) | 0.1 (168.7) | 0.11 (24.1) | NA | 0.02 (24.9) |
+| CV = Coefficient of Variation; NA = Not Applicable |  |  |  |  |  |
 
 Geriatric Patients
 
@@ -119,16 +139,16 @@ Drug Interaction Studies
 
 [see also Contraindications (4) and Drug Interactions (7)]
 
-The drug-drug interaction studies described in Tables 9–11 were conducted with GENVOYA, elvitegravir (coadministered with cobicistat or ritonavir), cobicistat administered alone, or TAF (administered alone or coadministered with emtricitabine).
+The drug-drug interaction studies described in Tables 12–14 were conducted with GENVOYA, elvitegravir (coadministered with cobicistat or ritonavir), cobicistat administered alone, or TAF (administered alone or coadministered with emtricitabine).
 
 As GENVOYA should not be administered with other antiretroviral medications, information regarding drug-drug interactions with other antiretrovirals agents is not provided.
 
-The effects of coadministered drugs on the exposure of elvitegravir are shown in Table 9.
-The effects of coadministered drugs on the exposure of TAF are shown in Table 10.
-The effects of GENVOYA or its components on the exposure of coadministered drugs are shown in Table 11.
+The effects of coadministered drugs on the exposure of elvitegravir are shown in Table 12.
+The effects of coadministered drugs on the exposure of TAF are shown in Table 13.
+The effects of GENVOYA or its components on the exposure of coadministered drugs are shown in Table 14.
 For information regarding clinical recommendations, see Drug Interactions (7).
 
-Table 9 Drug Interactions: Changes in Pharmacokinetic Parameters for Elvitegravir in the Presence of the Coadministered DrugAll interaction studies conducted in healthy volunteers.
+Table 12 Drug Interactions: Changes in Pharmacokinetic Parameters for Elvitegravir in the Presence of the Coadministered DrugAll interaction studies conducted in healthy volunteers.
 
 | Cmax | AUC | Cmin |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -150,7 +170,7 @@ Table 9 Drug Interactions: Changes in Pharmacokinetic Parameters for Elvitegravi
 | Sertraline | 50 single dose | 150 once daily | Cobicistat 150 once daily | 19 | 0.88 (0.82,0.93) | 0.94 (0.89,0.98) | 0.99 (0.93,1.05) |
 | Sofosbuvir/ Velpatasvir | 400/100 once daily | 150 once daily | Cobicistat 150 once daily | 24 | 0.87 (0.80,0.94) | 0.94 (0.88,1.00) | 1.08 (0.97,1.20) |
 
-Table 10 Drug Interactions: Changes in Pharmacokinetic Parameters for Tenofovir Alafenamide (TAF) in the Presence of the Coadministered DrugAll interaction studies conducted in healthy volunteers.
+Table 13 Drug Interactions: Changes in Pharmacokinetic Parameters for Tenofovir Alafenamide (TAF) in the Presence of the Coadministered DrugAll interaction studies conducted in healthy volunteers.
 
 | Cmax | AUC | Cmin |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -161,7 +181,7 @@ Table 10 Drug Interactions: Changes in Pharmacokinetic Parameters for Tenofovir 
 | Sofosbuvir/ Velpatasvir | 400/100 once daily | 10 once daily | 24 | 0.80 (0.68,0.94) | 0.87 (0.81,0.94) | NC |
 | NC = Not Calculated |  |  |  |  |  |  |
 
-Table 11 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of GENVOYA or the Individual ComponentsAll interaction studies conducted in healthy volunteers.
+Table 14 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of GENVOYA or the Individual ComponentsAll interaction studies conducted in healthy volunteers.
 
 | Cmax | AUC | Cmin |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |

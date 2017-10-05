@@ -16,7 +16,7 @@ The concomitant use of GENVOYA and other drugs may result in known or potentiall
 - Loss of therapeutic effect of GENVOYA and possible development of resistance.
 - Possible clinically significant adverse reactions from greater exposures of concomitant drugs.
 
-See Table 5 for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations.
+See Table 6 for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations.
 Consider the potential for drug interactions prior to and during GENVOYA therapy; review concomitant medications during GENVOYA therapy; and monitor for the adverse reactions associated with the concomitant drugs.
 
 ## 5.3 Immune Reconstitution Syndrome

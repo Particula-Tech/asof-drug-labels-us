@@ -8,7 +8,7 @@ Complete information regarding potential drug-drug interactions with other antir
 ## 7.2 Potential for GENVOYA to Affect Other Drugs
 
 Cobicistat, a component of GENVOYA, is an inhibitor of CYP3A and CYP2D6 and an inhibitor of the following transporters: P-glycoprotein (P-gp), BCRP, OATP1B1 and OATP1B3.
-Thus, coadministration of GENVOYA with drugs that are primarily metabolized by CYP3A or CYP2D6, or are substrates of P-gp, BCRP, OATP1B1 or OATP1B3 may result in increased plasma concentrations of such drugs (see Table 5).
+Thus, coadministration of GENVOYA with drugs that are primarily metabolized by CYP3A or CYP2D6, or are substrates of P-gp, BCRP, OATP1B1 or OATP1B3 may result in increased plasma concentrations of such drugs (see Table 6).
 Elvitegravir is a modest inducer of CYP2C9 and may decrease the plasma concentrations of CYP2C9 substrates.
 TAF is not an inhibitor of CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, or UGT1A1.
 TAF is a weak inhibitor of CYP3A in vitro.
@@ -19,12 +19,12 @@ TAF is not an inhibitor or inducer of CYP3A in vivo.
 Elvitegravir and cobicistat, components of GENVOYA, are metabolized by CYP3A.
 Cobicistat is also metabolized, to a minor extent, by CYP2D6.
 
-Drugs that induce CYP3A activity are expected to increase the clearance of elvitegravir and cobicistat, resulting in decreased plasma concentration of cobicistat, elvitegravir, and TAF, which may lead to loss of therapeutic effect of GENVOYA and development of resistance (see Table 5).
+Drugs that induce CYP3A activity are expected to increase the clearance of elvitegravir and cobicistat, resulting in decreased plasma concentration of cobicistat, elvitegravir, and TAF, which may lead to loss of therapeutic effect of GENVOYA and development of resistance (see Table 6).
 
-Coadministration of GENVOYA with other drugs that inhibit CYP3A may decrease the clearance and increase the plasma concentration of cobicistat (see Table 5).
+Coadministration of GENVOYA with other drugs that inhibit CYP3A may decrease the clearance and increase the plasma concentration of cobicistat (see Table 6).
 
 TAF, a component of GENVOYA, is a substrate of P-gp, BCRP, OATP1B1 and OATP1B3.
-Drugs that inhibit P-gp and/or BCRP, such as cobicistat, may increase the absorption of TAF (see Table 10).
+Drugs that inhibit P-gp and/or BCRP, such as cobicistat, may increase the absorption of TAF (see Table 13).
 However, when TAF is administered as a component of GENVOYA, its availability is increased by cobicistat and a further increase of TAF concentrations is not expected upon coadministration of an additional P-gp and/or BCRP inhibitor.
 Drugs that induce P-gp activity are expected to decrease the absorption of TAF, resulting in decreased plasma concentration of TAF.
 
@@ -35,11 +35,11 @@ Some examples of drugs that are eliminated by active tubular secretion include, 
 
 ## 7.5 Established and Other Potentially Significant Interactions
 
-Table 5 provides a listing of established or potentially clinically significant drug interactions.
+Table 6 provides a listing of established or potentially clinically significant drug interactions.
 The drug interactions described are based on studies conducted with either GENVOYA, the components of GENVOYA (elvitegravir, cobicistat, emtricitabine, and tenofovir alafenamide) as individual agents and/or in combination, or are predicted drug interactions that may occur with GENVOYA [for magnitude of interaction, see Clinical Pharmacology (12.3)].
 The table includes potentially significant interactions but is not all inclusive.
 
-Table 5 Established and Other Potentially SignificantThis table is not all inclusive.
+Table 6 Established and Other Potentially SignificantThis table is not all inclusive.
 Drug Interactions: Alteration in Dose or Regimen May Be Recommended Based on Drug Interaction Studies or Predicted Interaction
 
 | Concomitant Drug Class: Drug Name | Effect on Concentration↑ = Increase, ↓ = Decrease, ↔ = No Effect | Clinical Comment |

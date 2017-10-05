@@ -116,10 +116,39 @@ Table 4 Lipid Values, Mean Change from Baseline, Reported in Subjects Receiving 
 
 Clinical Trials in Pediatric Subjects:
 
-The safety of GENVOYA in HIV-1 infected, treatment-naïve pediatric subjects aged 12 to less than 18 years and weighing at least 35 kg (77 lbs) was evaluated through Week 48 in an open-label clinical trial (Study 106) [see Clinical Studies (14.5)].
-The safety profile in 50 adolescent subjects who received treatment with GENVOYA was similar to that in adults.
+Safety in Pediatric Patients
+
+The safety of GENVOYA in HIV-1 infected pediatric subjects was evaluated in treatment-naïve subjects between the ages of 12 to less than 18 years and weighing at least 35 kg (N=50) through Week 48 (cohort 1), and in virologically-suppressed subjects between the ages of 6 to less than 12 years and weighing at least 25 kg (N=23) through Week 24 (cohort 2) in an open-label clinical trial (Study 106) [see Clinical Studies (14.5)].
+With the exception of a decrease in the mean CD4+ cell count observed in cohort 2 of Study 106, the safety profile in pediatric subjects who received treatment with GENVOYA was similar to that in adults.
 One 13-year-old female subject developed unexplained uveitis while receiving GENVOYA that resolved and did not require discontinuation of GENVOYA.
 
-Among the 50 pediatric subjects receiving GENVOYA, mean BMD increased from baseline to Week 48, + 4.2% at the lumbar spine and + 1.3% for the total body less head.
-Mean changes from baseline BMD Z-scores were −0.07 for lumbar spine and −0.20 for total body less head at Week 48.
-One GENVOYA subject had significant (greater than or equal to 4%) lumbar spine BMD loss at Week 48.
+Bone Mineral Density Effects
+
+Cohort 1: Treatment-naïve adolescents (12 to less than 18 years; at least 35 kg)
+
+Among the subjects in cohort 1 receiving GENVOYA, mean BMD increased from baseline to Week 48, + 4.2% at the lumbar spine and + 1.3% for the total body less head (TBLH).
+Mean changes from baseline BMD Z-scores were −0.07 for lumbar spine and −0.20 for TBLH at Week 48.
+One GENVOYA subject had significant (at least 4%) lumbar spine BMD loss at Week 48.
+
+Cohort 2: Virologically-suppressed children (6 to less than 12 years; at least 25 kg)
+
+Among the subjects in cohort 2 receiving GENVOYA, mean BMD increased from baseline to Week 24, +2.9% at the lumbar spine and +1.7% for TBLH.
+Mean changes from baseline BMD Z-scores were -0.06 for lumbar spine and -0.18 for TBLH at Week 24.
+Two GENVOYA subjects had significant (at least 4%) lumbar spine BMD loss at Week 24.
+
+Change from Baseline in CD4+ cell counts
+
+Cohort 2: Virologically-suppressed children (6 to less than 12 years; at least 25 kg)
+
+Cohort 2 of Study 106 evaluated pediatric subjects (N=23) who were virologically-suppressed and who switched from their antiretroviral regimen to GENVOYA.
+Although all subjects had HIV-1 RNA < 50 copies/mL, there was a decrease from baseline in CD4+ cell count at Week 24.
+The mean baseline and mean change from baseline in CD4+ cell count and in CD4% from Week 2 to Week 24 are presented in Table 5.
+All subjects maintained their CD4+ cell counts above 400 cells/mm3 [see Pediatric Use (8.4) and Clinical Studies (14.5)].
+
+Table 5 Mean Change in CD4+ Count and Percentage from Baseline to Week 24 in Virologically-Suppressed Pediatric Patients from 6 to <12 Years Who Switched to GENVOYA
+
+| Week 2 | Week 4 | Week 12 | Week 24 |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | Baseline | Mean Change from Baseline |  |  |  |
+| CD4+ Cell Count (cells/mm3) | 966 (201.7)Mean (SD) | -162 | -125 | -162 | -150 |
+| CD4% | 40 (5.3) | +0.5% | -0.1% | -0.8% | -1.5% |
