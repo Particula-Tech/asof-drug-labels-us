@@ -9,4 +9,4 @@ Actual treatment and dosage should depend on the severity of the clinical situat
 Manufactured for: G.D.
 Searle LLC Division of Pfizer, Inc NY, NY 10017
 
-LAB-0268-9.0 October 2016
+LAB-0268-10.0 September 2017

@@ -196,6 +196,13 @@ Hypotension and bradyarrhythmias have been observed in patients receiving concur
 Sinus bradycardia resulting in hospitalization and pacemaker insertion has been reported in association with the use of clonidine concurrently with verapamil.
 Monitor heart rate in patients receiving concomitant verapamil and clonidine.
 
+#### Mammalian target of rapamycin (mTOR) inhibitors
+
+In a study of 25 healthy volunteers with co-administration of verapamil with sirolimus, whole blood sirolimus Cmax and AUC were increased 130% and 120%, respectively.
+Plasma S-(-) verapamil Cmax and AUC were both increased 50%.
+Co-administration of verapamil with everolimus in 16 healthy volunteers increased the Cmax and AUC of everolimus by 130% and 250%, respectively.
+With concomitant use of mTOR inhibitors (e.g., sirolimus, temsirolimus, and everolimus) and verapamil, consider appropriate dose reductions of both medications.
+
 ## Carcinogenesis, mutagenesis, impairment of fertility
 
 An 18-month toxicity study in rats, at a low multiple (6-fold) of the maximum recommended human dose, and not the maximum tolerated dose, did not suggest a tumorigenic potential.
