@@ -62,12 +62,8 @@ Little or no accumulation in plasma is expected for bendamustine administered on
 
 Renal Impairment
 
-In a population pharmacokinetic analysis of bendamustine in patients receiving 120 mg/m2 there was no meaningful effect of renal impairment (CrCL 40 - 80 mL/min, N=31) on the pharmacokinetics of bendamustine.
-Bendamustine has not been studied in patients with CrCL < 40 mL/min.
-
-These results are however limited, and therefore bendamustine should be used with caution in patients with mild or moderate renal impairment.
-Bendamustine should not be used in patients with CrCL < 40 mL/min.
-[see Use in Specific Populations (8.6)]
+In a population pharmacokinetic analysis of bendamustine in patients receiving 120 mg/m2 there was no meaningful effect of renal impairment (CrCL 30 - 80 mL/min, N=31) on the pharmacokinetics of bendamustine.
+Bendamustine has not been studied in patients with CrCL < 30 mL/min and should not be used in these patients.
 
 Hepatic Impairment
 

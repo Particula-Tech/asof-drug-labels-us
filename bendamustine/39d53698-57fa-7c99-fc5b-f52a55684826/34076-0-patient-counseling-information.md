@@ -41,9 +41,11 @@ Men receiving TREANDA should use reliable contraception for the same time period
 Advise patients to report pregnancy immediately.
 Advise patients to avoid nursing while receiving TREANDA [see Use in Specific Populations (8.1)].
 
-TRE-013
-
 Distributed By: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454 TREANDA is a trademark of Cephalon, Inc. or its affiliates.
 
-©2008-2016 Cephalon, Inc., a wholly-owned subsidiary of Teva Pharmaceutical Industries, Ltd. or its affiliates.
+©2008-2017 Cephalon, Inc., a wholly-owned subsidiary of Teva Pharmaceutical Industries, Ltd. or its affiliates.
+
+United States Patent Nos. 8436190, 8445524, 8609863, 8669279, 8791270, 8883836, 8895756, 9533955.
 All rights reserved.
+
+TRE-014

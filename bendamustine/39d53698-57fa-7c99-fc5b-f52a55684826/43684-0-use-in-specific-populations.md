@@ -67,14 +67,12 @@ Irrespective of age, all of the 176 patients experienced at least one adverse re
 ## 8.6 Renal Impairment
 
 No formal studies assessing the impact of renal impairment on the pharmacokinetics of bendamustine have been conducted.
-TREANDA should be used with caution in patients with mild or moderate renal impairment.
-TREANDA should not be used in patients with CrCL < 40 mL/min.
+TREANDA should not be used in patients with CrCL < 30 mL/min.
 [see Clinical Pharmacology (12.3)]
 
 ## 8.7 Hepatic Impairment
 
 No formal studies assessing the impact of hepatic impairment on the pharmacokinetics of bendamustine have been conducted.
-TREANDA should be used with caution in patients with mild hepatic impairment.
 TREANDA should not be used in patients with moderate (AST or ALT 2.5-10 X ULN and total bilirubin 1.5-3 X ULN) or severe (total bilirubin > 3 X ULN) hepatic impairment.
 [see Clinical Pharmacology (12.3)]
 
