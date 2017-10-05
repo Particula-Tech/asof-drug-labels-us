@@ -18,7 +18,7 @@ A total of 866 subjects received VEMLIDY 25 mg once daily [see Clinical Studies 
 The proportion of subjects who discontinued treatment with VEMLIDY or tenofovir disoproxil fumarate due to adverse reactions of any severity was 1.0% and 1.2%, respectively.
 Table 1 displays the frequency of the adverse reaction (all Grades) greater than or equal to 5% in the VEMLIDY group.
 
-Table 1 Adverse ReactionsFrequencies of adverse reactions are based on all treatment-emergent adverse events, regardless of relationship to study drug.
+Table 1 Adverse Reactions Frequencies of adverse reactions are based on all treatment-emergent adverse events, regardless of relationship to study drug.
 (All Grades) Reported in ≥5% of Subjects with Chronic HBV Infection and Compensated Liver Disease in Studies 108 and 110 (Week 48 analysis)
 
 |  | VEMLIDY (N=866) | Tenofovir Disoproxil Fumarate (N=432) |
@@ -49,7 +49,7 @@ The frequency of laboratory abnormalities (Grades 3–4) occurring in at least 2
 
 Table 2 Laboratory Abnormalities (Grades 3–4) Reported in ≥2% of Subjects with Chronic HBV Infection and Compensated Liver Disease in Studies 108 and 110 (Week 48 analysis)
 
-| Laboratory Parameter AbnormalityFrequencies are based on treatment-emergent laboratory abnormalities. | VEMLIDY (N=866) | Tenofovir Disoproxil Fumarate (N=432) |
+| Laboratory Parameter Abnormality Frequencies are based on treatment-emergent laboratory abnormalities. | VEMLIDY (N=866) | Tenofovir Disoproxil Fumarate (N=432) |
 | --- | --- | --- |
 | ALT (>5 × ULN) | 8% | 9% |
 | Glycosuria (≥3+) | 5% | 1% |
@@ -70,7 +70,7 @@ Changes from baseline in total cholesterol, HDL-cholesterol, LDL-cholesterol, tr
 
 Table 3 Lipid Abnormalities: Mean Change from Baseline in Lipid Parameters in Patients with Chronic HBV Infection and Compensated Liver Disease in Studies 108 and 110 (Week 48 Analysis)
 
-|  | mg/dL | ChangeThe change from baseline is the mean of within-subject changes from baseline for subjects with both baseline and Week 48 values. | mg/dL | Change |
+|  | mg/dL | Change The change from baseline is the mean of within-subject changes from baseline for subjects with both baseline and Week 48 values. | mg/dL | Change |
 | --- | --- | --- | --- | --- |
 |  | VEMLIDY (N=866) |  | Tenofovir Disoproxil Fumarate (N=432) |  |
 |  | Baseline | Week 48 | Baseline | Week 48 |

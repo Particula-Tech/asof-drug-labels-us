@@ -1,6 +1,6 @@
 PRINCIPAL DISPLAY PANEL - 25 mg Tablet Bottle Label
 
-NDC 61958-2301-1 30 tablets
+NDC 61958- 2301-1 30 tablets
 
 Vemlidy® (tenofovir alafenamide) tablets, 25 mg
 

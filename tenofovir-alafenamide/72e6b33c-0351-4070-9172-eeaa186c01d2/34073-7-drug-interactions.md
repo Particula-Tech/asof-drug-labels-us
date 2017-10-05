@@ -20,13 +20,13 @@ The drug interactions described are based on studies conducted with tenofovir al
 Information regarding potential drug-drug interactions with HIV antiretrovirals is not provided (see the prescribing information for emtricitabine/tenofovir alafenamide for interactions with HIV antiretrovirals).
 The table includes potentially significant interactions but is not all inclusive.
 
-Table 4 Established and Other Potentially Significant Drug InteractionsThis table is not all inclusive.
+Table 4 Established and Other Potentially Significant Drug Interactions This table is not all inclusive.
 
-| Concomitant Drug Class: Drug Name | Effect on Concentration↓ = decrease. | Clinical Comment |
+| Concomitant Drug Class: Drug Name | Effect on Concentration ↓ = decrease. | Clinical Comment |
 | --- | --- | --- |
-| Anticonvulsants: carbamazepineIndicates that a drug interaction study was conducted.P-gp inducer oxcarbazepine phenobarbital phenytoin | ↓ tenofovir alafenamide | When coadministered with carbamazepine, the tenofovir alafenamide dose should be increased to two tablets once daily. Coadministration of VEMLIDY with oxcarbazepine, phenobarbital, or phenytoin is not recommended. |
+| Anticonvulsants: carbamazepine Indicates that a drug interaction study was conducted.P-gp inducer oxcarbazepine phenobarbital phenytoin | ↓ tenofovir alafenamide | When coadministered with carbamazepine, the tenofovir alafenamide dose should be increased to two tablets once daily. Coadministration of VEMLIDY with oxcarbazepine, phenobarbital, or phenytoin is not recommended. |
 | Antimycobacterial: Rifabutin Rifampin Rifapentine | ↓ tenofovir alafenamide | Coadministration of VEMLIDY with rifabutin, rifampin or rifapentine is not recommended. |
-| Herbal Products: St. John's wort(Hypericum perforatum) | ↓ tenofovir alafenamide | Coadministration of VEMLIDY with St. John's wort is not recommended. |
+| Herbal Products: St. John's wort (Hypericum perforatum) | ↓ tenofovir alafenamide | Coadministration of VEMLIDY with St. John's wort is not recommended. |
 
 ## 7.4 Drugs without Clinically Significant Interactions with VEMLIDY
 
