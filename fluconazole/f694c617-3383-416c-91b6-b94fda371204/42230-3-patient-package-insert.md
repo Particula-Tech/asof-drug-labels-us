@@ -54,6 +54,7 @@ Therefore, tell your doctor about all the medicines you take including:
 - theophylline to control asthma
 - cisapride for heartburn
 - quinidine (used to correct disturbances in heart rhythm)
+- amiodarone (used for treating uneven heartbeats 'arrhythmias')
 - amitriptyline or nortriptyline for depression
 - pimozide for psychiatric illness
 - amphotericin B or voriconazole for fungal infections
@@ -151,4 +152,4 @@ You can ask your pharmacist or doctor for information about DIFLUCAN that is wri
 
 You can also visit the DIFLUCAN Internet site at www.diflucan.com.
 
-LAB-0380-6.0 March 2013
+LAB-0380-7.0 September 2017

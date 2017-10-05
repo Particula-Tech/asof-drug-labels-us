@@ -25,8 +25,11 @@ If this drug is used during pregnancy or if the patient becomes pregnant while t
 ## General
 
 Some azoles, including fluconazole, have been associated with prolongation of the QT interval on the electrocardiogram.
+Fluconazole causes QT prolongation via the inhibition of Rectifier Potassium Channel current (Ikr).
+The QT prolongation caused by other medicinal products (such as amiodarone) may be amplified via the inhibition of cytochrome P450 (CYP) 3A4 (see PRECAUTIONS, Drug Interactions).
 During post-marketing surveillance, there have been rare cases of QT prolongation and torsade de pointes in patients taking fluconazole.
 Most of these reports involved seriously ill patients with multiple confounding risk factors, such as structural heart disease, electrolyte abnormalities, and concomitant medications that may have been contributory.
+Patients with hypokalemia and advanced cardiac failure are at an increased risk for the occurrence of life-threatening ventricular arrhythmias and torsades de pointes.
 
 Fluconazole should be administered with caution to patients with these potentially proarrhythmic conditions.
 
@@ -57,7 +60,7 @@ The enzyme inhibiting effect of fluconazole persists 4–5 days after discontinu
 Clinically or potentially significant drug interactions between DIFLUCAN and the following agents/classes have been observed.
 These are described in greater detail below:
 
-Oral hypoglycemics Coumarin-type anticoagulants Phenytoin Cyclosporine Rifampin Theophylline Terfenadine Cisapride Astemizole Rifabutin Voriconazole Tacrolimus Short-acting benzodiazepines Tofacitinib Triazolam Oral Contraceptives Pimozide Quinidine Hydrochlorothiazide Alfentanil Amitriptyline, nortriptyline Amphotericin B Azithromycin Carbamazepine Calcium Channel Blockers Celecoxib Cyclophosphamide Fentanyl Halofantrine HMG-CoA reductase inhibitors Losartan Methadone Non-steroidal anti-inflammatory drugs Prednisone Saquinavir Sirolimus Vinca Alkaloids Vitamin A Zidovudine
+Oral hypoglycemics Coumarin-type anticoagulants Phenytoin Cyclosporine Rifampin Theophylline Terfenadine Cisapride Astemizole Rifabutin Voriconazole Tacrolimus Short-acting benzodiazepines Tofacitinib Triazolam Oral Contraceptives Pimozide Quinidine Hydrochlorothiazide Alfentanil Amiodarone Amitriptyline, nortriptyline Amphotericin B Azithromycin Carbamazepine Calcium Channel Blockers Celecoxib Cyclophosphamide Fentanyl Halofantrine HMG-CoA reductase inhibitors Losartan Methadone Non-steroidal anti-inflammatory drugs Prednisone Saquinavir Sirolimus Vinca Alkaloids Vitamin A Zidovudine
 
 ### Oral hypoglycemics
 
@@ -189,6 +192,11 @@ An effect of this magnitude should not necessitate a change in the fluconazole d
 A study observed a reduction in clearance and distribution volume as well as prolongation of T½ of alfentanil following concomitant treatment with fluconazole.
 A possible mechanism of action is fluconazole's inhibition of CYP3A4.
 Dosage adjustment of alfentanil may be necessary.
+
+### Amiodarone
+
+Concomitant administration of fluconazole with amiodarone may increase QT prolongation.
+Caution must be exercised if the concomitant use of fluconazole and amiodarone is necessary, notably with high-dose fluconazole (800 mg).
 
 ### Amitriptyline, nortriptyline
 
