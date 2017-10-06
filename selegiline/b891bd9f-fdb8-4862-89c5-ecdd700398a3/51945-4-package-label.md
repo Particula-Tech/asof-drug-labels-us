@@ -46,7 +46,7 @@ Mfd. for Somerset Pharmaceuticals, Inc. Morgantown, WV 26505 U.S.A.
 
 Rx only
 
-S033:93:30C:R9
+S033:93:30C:R10
 
 # PRINCIPAL DISPLAY PANEL - 9 mg/24 h
 
@@ -97,7 +97,7 @@ Mfd. for Somerset Pharmaceuticals, Inc. Morgantown, WV 26505 U.S.A.
 
 Rx only
 
-S044:93:30C:R9
+S044:93:30C:R10
 
 # PRINCIPAL DISPLAY PANEL - 12 mg/24 h
 
@@ -148,4 +148,4 @@ Mfd. for Somerset Pharmaceuticals, Inc. Morgantown, WV 26505 U.S.A.
 
 Rx only
 
-S055:93:30C:R9
+S055:93:30C:R10
