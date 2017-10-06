@@ -7,7 +7,3 @@ USUAL DOSAGE: See package insert.
 Protect from light.
 Store at 20° to 25° C (68° to 77° F) [See USP].
 Avoid freezing and excessive heat.
-
-# PRINCIPAL DISPLAY PANEL - Carton
-
-NDC 0143-9529-01 5 mL MULTIPLE DOSE VIAL FLUPHENAZINE DECANOATE INJECTION, USP 125 mg/5 mL (25 mg/mL) FOR INTRAMUSCULAR OR SUBCUTANEOUS USE Rx only
