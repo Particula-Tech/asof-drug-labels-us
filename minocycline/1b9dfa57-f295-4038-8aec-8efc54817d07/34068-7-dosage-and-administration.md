@@ -7,7 +7,7 @@ The following table shows tablet strength and body weight to achieve approximate
 
 Table 1: Dosing Table for SOLODYN
 
-| Patient's Weight (lbs.) | Patient's Weight (kg) | Tablet Strength (mg) | Actual mg/kg Dose |
+| Patient's Weight (lbs) | Patient's Weight (kg) | Tablet Strength (mg) | Actual Dose mg/kg |
 | --- | --- | --- | --- |
 | 99 – 109 | 45 – 49 | 45No longer distributed or sold by Valeant. | 1 – 0.92 |
 | 110 – 131 | 50 – 59 | 55 | 1.10 – 0.93 |

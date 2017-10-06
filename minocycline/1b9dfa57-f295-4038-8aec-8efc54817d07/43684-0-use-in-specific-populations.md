@@ -13,11 +13,11 @@ Minocycline, like other tetracycline-class drugs, crosses the placenta and may c
 Rare spontaneous reports of congenital anomalies including limb reduction have been reported with minocycline use in pregnancy in postmarketing experience.
 Only limited information is available regarding these reports; therefore, no conclusion on causal association can be established.
 
-Minocycline induced skeletal malformations (bent limb bones) in fetuses when administered to pregnant rats and rabbits in doses of 30 mg/kg/day and 100 mg/kg/day, respectively, (resulting in approximately 3 times and 2 times, respectively, the systemic exposure to minocycline observed in patients as a result of use of SOLODYN).
-Reduced mean fetal body weight was observed in studies in which minocycline was administered to pregnant rats at a dose of 10 mg/kg/day (which resulted in approximately the same level of systemic exposure to minocycline as that observed in patients who use SOLODYN).
+Minocycline- induced skeletal malformations (i.e., bent limb bones) in fetuses when administered to pregnant rats and rabbits in doses of 30 mg/kg/day and 100 mg/kg/day, respectively, resulting in approximately 3 times and 2 times, respectively, the systemic exposure to minocycline observed in patients as a result of use of SOLODYN.
+Reduced mean fetal body weight was observed in studies in which minocycline was administered to pregnant rats at a dose of 10 mg/kg/day, which resulted in approximately the same level of systemic exposure to minocycline as that observed in patients who use SOLODYN.
 
-Minocycline was assessed for effects on peri- and post-natal development of rats in a study that involved oral administration to pregnant rats from Day 6 of gestation through the period of lactation (postpartum Day 20), at dosages of 5, 10, or 50 mg/kg/day.
-In this study, body weight gain was significantly reduced in pregnant females that received 50 mg/kg/day (resulting in approximately 2.5 times the systemic exposure to minocycline observed in patients as a result of use of SOLODYN).
+Minocycline was assessed for effects on peri- and postnatal development of rats in a study that involved oral administration to pregnant rats from Day 6 of gestation through the period of lactation (postpartum Day 20) at dosages of 5, 10, or 50 mg/kg/day.
+In this study, body weight gain was significantly reduced in pregnant females that received 50 mg/kg/day, resulting in approximately 2.5 times the systemic exposure to minocycline observed in patients as a result of use of SOLODYN.
 No effects of treatment on the duration of the gestation period or the number of live pups born per litter were observed.
 Gross external anomalies observed in F1 pups (offspring of animals that received minocycline) included reduced body size, improperly rotated forelimbs, and reduced size of extremities.
 No effects were observed on the physical development, behavior, learning ability, or reproduction of F1 pups, and there was no effect on gross appearance of F2 pups (offspring of F1 animals).
@@ -25,7 +25,7 @@ No effects were observed on the physical development, behavior, learning ability
 ## 8.3 Nursing Mothers
 
 Tetracycline-class antibiotics are excreted in human milk.
-Because of the potential for serious adverse effects on bone and tooth development in nursing infants from the tetracycline-class antibiotics, a decision should be made whether to discontinue nursing or discontinue the drug, taking into account the importance of the drug to the mother [see Warnings and Precautions (5.1)].
+Because of the potential for serious adverse effects on bone and tooth development in nursing infants from tetracycline-class antibiotics, a decision should be made whether to discontinue nursing or discontinue the drug, taking into account the importance of the drug to the mother [see Warnings and Precautions (5.1)].
 
 ## 8.4 Pediatric Use
 

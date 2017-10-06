@@ -14,11 +14,11 @@ The concurrent use of tetracycline and methoxyflurane has been reported to resul
 
 ## 7.4 Antacids and Iron Preparations
 
-Absorption of tetracyclines is impaired by antacids containing aluminum, calcium or magnesium and iron-containing preparations.
+Absorption of tetracyclines is impaired by antacids containing aluminum, calcium, or magnesium and iron-containing preparations.
 
-## 7.5 Low Dose Oral Contraceptives
+## 7.5 Low-Dose Oral Contraceptives
 
-In a multi-center study to evaluate the effect of SOLODYN on low dose oral contraceptives, hormone levels over one menstrual cycle with and without SOLODYN 1 mg/kg once-daily were measured.
+In a multicenter study to evaluate the effect of SOLODYN on low-dose oral contraceptives, hormone levels over one menstrual cycle with and without SOLODYN 1 mg/kg once daily were measured.
 Based on the results of this trial, minocycline-related changes in estradiol, progestinic hormone, FSH and LH plasma levels, of breakthrough bleeding, or of contraceptive failure, cannot be ruled out.
 To avoid contraceptive failure, female patients are advised to use a second form of contraceptive during treatment with minocycline.
 

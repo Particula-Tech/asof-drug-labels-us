@@ -37,28 +37,28 @@ Before you take SOLODYN, tell your doctor if you:
 - • are pregnant or plan to become pregnant.
   SOLODYN may harm your unborn baby.
   Taking SOLODYN while you are pregnant may cause serious side effects on the growth of bone and teeth of your baby.
-  Talk to your doctor before taking SOLODYN if you plan to become pregnant, or if you are already taking SOLODYN and plan to become pregnant.
+  Talk to your doctor before taking SOLODYN if you plan to become pregnant or if you are already taking SOLODYN and plan to become pregnant.
   Stop taking SOLODYN and call your doctor right away if you become pregnant while taking SOLODYN.
 - • are breastfeeding or plan to breastfeed.
   SOLODYN passes into your milk and may harm your baby.
   You and your doctor should decide if you will take SOLODYN or breastfeed.
   You should not do both.
 
-Tell your doctor about all the other medicines you take including prescription and nonprescription medicines, vitamins and herbal supplements.
-SOLODYN® may affect the way other medicines work, and other medicines may affect how SOLODYN® works.
+Tell your doctor about all the other medicines you take including prescription and nonprescription medicines, vitamins, and herbal supplements.
+SOLODYN may affect the way other medicines work, and other medicines may affect how SOLODYN works.
 
 Especially tell your doctor if you take:
 
 - •birth control pills.
-  SOLODYN® may make your birth control pills less effective.
+  SOLODYNmay make your birth control pills less effective.
   You could become pregnant.
-  You should use a second form of birth control while taking SOLODYN®.
+  You should use a second form of birth control while taking SOLODYN.
 - •a blood thinner medicine.
 - •a penicillin antibiotic medicine.
-  SOLODYN® and penicillins should not be used together.
+  SOLODYNand penicillins should not be used together.
 - •antacids that contain aluminum, calcium, or magnesium or iron-containing products.
 - •an acne medicine that contains isotretinoin (Amnesteem, Claravis, Sotret).
-  SOLODYN® and isotretinoin should not be used together.
+  SOLODYN and isotretinoin should not be used together.
 
 Ask your doctor or pharmacist if you are not sure if your medicine is one that is listed above.
 
@@ -96,7 +96,7 @@ SOLODYN may cause serious side effects, including:
 - •Harm to an unborn baby.
   See "What should I tell my doctor before taking SOLODYN?"
 - •Permanent teeth discoloration.
-  SOLODYN may permanently turn a baby or child's teeth yellow-grey-brown during tooth development.
+  SOLODYN may permanently turn a baby’s or child's teeth yellow-grey-brown during tooth development.
   SOLODYN should not be used during tooth development.
   Tooth development happens in the last half of pregnancy, and from birth to 8 years of age.
   See "What should I tell my doctor before taking SOLODYN?"
@@ -124,7 +124,7 @@ SOLODYN may cause serious side effects, including:
   Tell your doctor right away if you get a fever, rash, joint pain, or body weakness.
   Your doctor may do tests to check your blood for immune system reactions.
 - •Serious rash and allergic reactions.
-  SOLODYN may cause a serious rash and allergic reactions that may affect parts of your body such as your liver, lungs, kidneys and heart.
+  SOLODYN may cause a serious rash and allergic reactions that may affect parts of your body such as your liver, lungs, kidneys, and heart.
   Sometimes these can lead to death.
 - • Stop taking SOLODYN and get medical help right away if you have any of these symptoms:
   - • skin rash, hives, sores in your mouth, or your skin blisters and peels
@@ -165,7 +165,7 @@ Keep SOLODYN and all medicines out of the reach of children.
 General information about SOLODYN
 
 Medicines are sometimes prescribed for purposes other than those listed in the Patient Information leaflet.
-Do notuse SOLODYN for a condition for which it was not prescribed.
+Do not use SOLODYN for a condition for which it was not prescribed.
 Do not give SOLODYN to other people, even if they have the same symptoms you have.
 It may harm them.
 
@@ -189,24 +189,19 @@ The 80 mg tablets also contain Opadry II Gray which contains: hypromellose type 
 
 The 105 mg tablets also contain Opadry II Purple which contains: hypromellose type 2910, lactose monohydrate, titanium dioxide, D&C Red #27, polyethylene glycol 3350, triacetin, and FD&C Blue #1.
 
-The 115 mg tablets also contain Opadry II Green which contains: hypromellose type 2910, lactose monohydrate NF, D&C Yellow #10, triacetin, FD&C Blue #1, titanium dioxide, FD&C Blue #2.
+The 115 mg tablets also contain Opadry II Green which contains: hypromellose type 2910, lactose monohydrate NF, D&C Yellow #10, triacetin, FD&C Blue #1, titanium dioxide, and FD&C Blue #2.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Revised: 06/2016
+Distributed by: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
-U.S. Patents 5,908,838; 7,790,705; 7,919,483; 8,252,776; 8,268,804; and other Patents Pending*
-
-*55 mg, 80 mg, and 105 mg are also covered by U.S. Patents 8,722,650
-
-*65 mg and 115 mg are also covered by U.S. Patent 9,119,793
+U.S. Patent Numbers: 5,908,838; 7,790,705; 7,919,483; 8,252,776; 8,268,804; 8,722,650 and 9,192,615
 
 ®/™ are trademarks of Valeant Pharmaceuticals International, Inc. or its affiliates.
 
 ©Valeant Pharmaceuticals North America LLC
 
-Manufactured for: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
+Rev.
+09/17
 
-By: WellSpring Pharma Services Inc. Oakville, Ontario L6H 1M5 Canada
-
-9387301
+9387304 N4605J

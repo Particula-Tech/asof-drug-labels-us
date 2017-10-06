@@ -12,8 +12,8 @@ The pharmacodynamics of SOLODYN for the treatment of acne are unknown.
 
 SOLODYN Tablets are not bioequivalent to non-modified release minocycline products.
 Based on pharmacokinetic studies in healthy adults, SOLODYN Tablets produce a delayed Tmax at 3.5–4.0 hours as compared to a non-modified release reference minocycline product (Tmax at 2.25–3 hours).
-At steady-state (Day 6), the mean AUC(0–24) and Cmax were 33.32 µg×hr/mL and 2.63 µg/mL for SOLODYN Tablets and 46.35 µg×hr/mL and 2.92 µg/mL for Minocin® capsules, respectively.
-These parameters are based on dose adjusted to 135 mg per day for both products.
+At steady-state (Day 6), the mean AUC(0–24) and Cmax were 33.32 mcg×hr/mL and 2.63 mcg/mL for SOLODYN Tablets and 46.35 mcg×hr/mL and 2.92 mcg/mL for Minocin® capsules, respectively.
+These parameters are based on dose adjusted to 135 mg/day for both products.
 
 A single-dose, four-way crossover study demonstrated that SOLODYN Tablets used in the study (45 mg, 90 mg, 135 mg) exhibited dose-proportional pharmacokinetics.
 In another single-dose, five-way crossover pharmacokinetic study, SOLODYN Tablets 55 mg, 80 mg, and 105 mg were shown to be dose-proportional to SOLODYN Tablets 90 mg and 135 mg.
