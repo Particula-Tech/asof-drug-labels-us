@@ -90,6 +90,50 @@ For in-institution use only
 
 100 Capsules UNIT DOSE
 
+# PRINCIPAL DISPLAY PANEL - 200 mg Capsule Sample Blister Pack
+
+ALWAYS DISPENSE WITH MEDICATION GUIDE
+
+CELEBREX® (CELECOXIB) CAPSULES
+
+200 mg
+
+1-800-249-2692 www.celebrex.com
+
+200 mg 200 mg 200 mg
+
+# PRINCIPAL DISPLAY PANEL - 200 mg Capsule Sample Blister Pack Carton
+
+NDC 0025-1525-99 Rx only
+
+PROFESSIONAL SAMPLE – NOT FOR SALE
+
+ALWAYS DISPENSE WITH MEDICATION GUIDE
+
+Contains: 1 blister x 3 capsules
+
+CELEBREX® (CELECOXIB) CAPSULES
+
+200 mg per capsule
+
+For patient information, please call 1-800-249-2692 or visit our web site at www.celebrex.com
+
+# PRINCIPAL DISPLAY PANEL - 200 mg Capsule Sample Blister Pack Box
+
+PROFESSIONAL SAMPLE – NOT FOR SALE
+
+ALWAYS DISPENSE WITH MEDICATION GUIDE
+
+Contains: 4 blisters x 3 capsules each
+
+NDC 0025-1525-96 Contains 4 of NDC 0025-1525-99
+
+CELEBREX® (CELECOXIB) CAPSULES
+
+200 mg per capsule Rx only
+
+For patient information, please call 1-800-249-2692 or visit our web site at www.celebrex.com
+
 # PRINCIPAL DISPLAY PANEL - 400 mg Bottle Label
 
 ALWAYS DISPENSE WITH MEDICATION GUIDE
