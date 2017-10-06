@@ -64,7 +64,7 @@ Advise patients to notify their healthcare provider if they become pregnant or i
 
 Precautions for Nursing Mothers
 
-Advise patients that bupropion hydrochloride extended-release tablets (SR) are present in human milk in small amounts.
+Advise patients that bupropion hydrochloride is present in human milk in small amounts.
 
 Storage Information
 

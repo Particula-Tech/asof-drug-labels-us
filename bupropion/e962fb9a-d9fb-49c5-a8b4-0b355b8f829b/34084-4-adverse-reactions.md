@@ -2,8 +2,8 @@
 
 The following adverse reactions are discussed in greater detail in other sections of the labeling:
 
-- Suicidal thoughts and behaviors in adolescents and young adults [see Warnings and Precautions (5.1)]
-- Neuropsychiatric symptoms and suicide risk in smoking cessation treatment [see Boxed Warning, Warnings and Precautions (5.2)]
+- Suicidal thoughts and behaviors in adolescents and young adults [see Boxed Warning, Warnings and Precautions (5.1)]
+- Neuropsychiatric symptoms and suicide risk in smoking cessation treatment [see Warnings and Precautions (5.2)]
 - Seizure [see Warnings and Precautions (5.3)]
 - Hypertension [see Warnings and Precautions (5.4)]
 - Activation of mania or hypomania [see Warnings and Precautions (5.5)]
@@ -53,10 +53,10 @@ Adverse Reactions Reported by at Least 1% of Subjects and at a Greater Frequency
 | Asthenia | 2% | 4% | 2% |
 | Chest pain | 3% | 4% | 1% |
 | Pain | 2% | 3% | 2% |
-| Fever | 1% | 2% | Adverse events occurring in greater than 0 but less than 0.5% of subjects. |
+| Fever | 1% | 2% | Hyphen denotes adverse events occurring in greater than 0 but less than 0.5% of subjects.- |
 | Cardiovascular |  |  |  |
 | Palpitation | 2% | 6% | 2% |
-| Flushing | 1% | 4% |  |
+| Flushing | 1% | 4% | - |
 | Migraine | 1% | 4% | 1% |
 | Hot flashes | 1% | 3% | 1% |
 | Digestive |  |  |  |
@@ -71,7 +71,7 @@ Adverse Reactions Reported by at Least 1% of Subjects and at a Greater Frequency
 | Myalgia | 2% | 6% | 3% |
 | Arthralgia | 1% | 4% | 1% |
 | Arthritis | 0% | 2% | 0% |
-| Twitch | 1% | 2% |  |
+| Twitch | 1% | 2% | - |
 | Nervous system |  |  |  |
 | Insomnia | 11% | 16% | 6% |
 | Dizziness | 7% | 11% | 5% |
@@ -81,7 +81,7 @@ Adverse Reactions Reported by at Least 1% of Subjects and at a Greater Frequency
 | Nervousness | 5% | 3% | 3% |
 | Somnolence | 2% | 3% | 2% |
 | Irritability | 3% | 2% | 2% |
-| Memory decreased |  | 3% | 1% |
+| Memory decreased | - | 3% | 1% |
 | Paresthesia | 1% | 2% | 1% |
 | Central nervous system stimulation | 2% | 1% | 1% |
 | Respiratory |  |  |  |
@@ -95,13 +95,13 @@ Adverse Reactions Reported by at Least 1% of Subjects and at a Greater Frequency
 | Urticaria | 2% | 1% | 0% |
 | Special senses |  |  |  |
 | Tinnitus | 6% | 6% | 2% |
-| Taste perversion | 2% | 4% |  |
+| Taste perversion | 2% | 4% | - |
 | Blurred vision or diplopia | 3% | 2% | 2% |
 | Urogenital |  |  |  |
 | Urinary frequency | 2% | 5% | 2% |
 | Urinary urgency |  | 2% | 0% |
-| Vaginal hemorrhageIncidence based on the number of female subjects. | 0% | 2% |  |
-| Urinary tract infection | 1% | 0% |  |
+| Vaginal hemorrhageIncidence based on the number of female subjects. | 0% | 2% | - |
+| Urinary tract infection | 1% | 0% | - |
 
 Other Adverse Reactions Observed During the Clinical Development of Bupropion
 
@@ -172,7 +172,7 @@ Colitis, esophagitis, gastrointestinal hemorrhage, gum hemorrhage, hepatitis, in
 
 ### Endocrine
 
-Hyperglycemia, hypoglycemia, and syndrome of inappropriate antidiuretic hormone.
+Hyperglycemia, hypoglycemia, hyponatremia, and syndrome of inappropriate antidiuretic hormone secretion.
 
 ### Hemic and Lymphatic
 
