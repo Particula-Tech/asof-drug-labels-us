@@ -10,9 +10,8 @@ Rx Only
 
 U.S. Patent 5,164,194
 
-Manufactured by: Patheon UK Ltd. Swindon, United Kingdom Distributed by:
-
-MEDA Pharmaceuticals® Meda Pharmaceuticals Inc. Somerset, New Jersey 08873-4120
+1. Manufactured by: Patheon UK Ltd. Swindon, United Kingdom Distributed by:
+2. MEDA Pharmaceuticals® Meda Pharmaceuticals Inc. Somerset, New Jersey 08873-4120
 
 Made in United Kingdom
 

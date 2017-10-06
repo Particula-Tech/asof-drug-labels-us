@@ -1,4 +1,4 @@
-# Package Label - Principal Display Panel – 6 mL-fill
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
 NDC 0037-7025-60
 
