@@ -10,6 +10,6 @@ Tablets, USP
 
 EXELAN PHARMACEUTICALS, INC.
 
-RX only
+Rx Only
 
 60 Tablets

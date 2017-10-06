@@ -4,10 +4,10 @@ Gemfibrozil Tablets, USP are indicated as adjunctive therapy to diet for:
 
 1.
 Treatment of adult patients with very high elevations of serum triglyceride levels (Types IV and V hyperlipidemia) who present a risk of pancreatitis and who do not respond adequately to a determined dietary effort to control them.
-Patients who present such risk typically have serum triglycerides over 2000 mg/dL and have elevations of VLDL-cholesterol as well as fasting chylomicrons (Type V hyperlipidemia).
-Subjects who consistently have total serum or plasma triglycerides below 1000 mg/dL are unlikely to present a risk of pancreatitis.
-Gemfibrozil therapy may be considered for those subjects with triglyceride elevations between 1000 and 2000 mg/dL who have a history of pancreatitis or of recurrent abdominal pain typical of pancreatitis.
-It is recognized that some Type IV patients with triglycerides under 1000 mg/dL may, through dietary or alcoholic indiscretion, convert to a Type V pattern with massive triglyceride elevations accompanying fasting chylomicronemia, but the influence of gemfibrozil therapy on the risk of pancreatitis in such situations has not been adequately studied.
+Patients who present such risk typically have serum triglycerides over 2,000 mg/dL and have elevations of VLDL-cholesterol as well as fasting chylomicrons (Type V hyperlipidemia).
+Subjects who consistently have total serum or plasma triglycerides below 1,000 mg/dL are unlikely to present a risk of pancreatitis.
+Gemfibrozil therapy may be considered for those subjects with triglyceride elevations between 1,000 and 2,000 mg/dL who have a history of pancreatitis or of recurrent abdominal pain typical of pancreatitis.
+It is recognized that some Type IV patients with triglycerides under 1,000 mg/dL may, through dietary or alcoholic indiscretion, convert to a Type V pattern with massive triglyceride elevations accompanying fasting chylomicronemia, but the influence of gemfibrozil therapy on the risk of pancreatitis in such situations has not been adequately studied.
 Drug therapy is not indicated for patients with Type I hyperlipoproteinemia, who have elevations of chylomicrons and plasma triglycerides, but who have normal levels of very low density lipoprotein (VLDL).
 Inspection of plasma refrigerated for 14 hours is helpful in distinguishing Types I, IV, and V hyperlipoproteinemia.
 
@@ -16,9 +16,8 @@ Reducing the risk of developing coronary heart disease only in Type IIb patients
 The National Cholesterol Education Program has defined a serum HDL-cholesterol value that is consistently below 35 mg/dL as constituting an independent risk factor for coronary heart disease.
 Patients with significantly elevated triglycerides should be closely observed when treated with gemfibrozil.
 In some patients with high triglyceride levels, treatment with gemfibrozil is associated with a significant increase in LDL-cholesterol.
-
 BECAUSE OF POTENTIAL TOXICITY SUCH AS MALIGNANCY, GALLBLADDER DISEASE, ABDOMINAL PAIN LEADING TO APPENDECTOMY AND OTHER ABDOMINAL SURGERIES, AN INCREASED INCIDENCE IN NON-CORONARY MORTALITY, AND THE 44% RELATIVE INCREASE DURING THE TRIAL PERIOD IN AGE-ADJUSTED ALL-CAUSE MORTALITY SEEN WITH THE CHEMICALLY AND PHARMACOLOGICALLY RELATED DRUG, CLOFIBRATE, THE POTENTIAL BENEFIT OF GEMFIBROZIL IN TREATING TYPE IIA PATIENTS WITH ELEVATIONS OF LDL-CHOLESTEROL ONLY IS NOT LIKELY TO OUTWEIGH THE RISKS.
-GEMFIBROZIL IS ALSO NOT INDICATED FOR THE TREATMENT OF PATIENTS WITH LOW HDL-CHOLESTEROLAS THEIR ONLY LIPID ABNORMALITY.
+GEMFIBROZIL IS ALSO NOT INDICATED FOR THE TREATMENT OF PATIENTS WITH LOW HDL-CHOLESTEROL AS THEIR ONLY LIPID ABNORMALITY.
 
 In a subgroup analysis of patients in the Helsinki Heart Study with above-median HDL-cholesterol values at baseline (greater than 46.4 mg/dL), the incidence of serious coronary events was similar for gemfibrozil and placebo subgroups (see Table I).
 
