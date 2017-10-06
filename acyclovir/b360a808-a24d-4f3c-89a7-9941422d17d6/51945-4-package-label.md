@@ -1,15 +1,16 @@
 # PRINCIPAL DISPLAY PANEL - 30 g Tube Carton
 
-30 g ACYCLOVIR OINTMENT 5%
+Net Wt.
+30 g
 
-Manufactured by: Valeant Pharmaceuticals International Inc., Laval, QC H7L 4A8 Canada
-
-Distributed by: Watson Pharma, Inc., Parsippany, NJ 07054 USA
-
-Made In Canada
+NDC 0591-1159-30 ACYCLOVIR OINTMENT 5%
 
 NDC 0591-1159-30
 
-Each gram contains acyclovir 50 mg in a polyethylene glycol base.
+FOR CUTANEOUS USE ONLY
+
+Each gram contains: 50 mg acyclovir in a polyethylene glycol base.
+
+Actavis
 
 Rx only

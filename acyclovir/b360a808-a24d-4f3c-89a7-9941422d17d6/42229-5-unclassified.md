@@ -1,10 +1,8 @@
-Rx only
-
 PRESCRIBING INFORMATION
 
 # VIROLOGY
 
-Mechanism of Antiviral Action: Acyclovir is a synthetic purine nucleoside analogue with in vitro and in vivo inhibitory activity against herpes simplex virus types 1 (HSV-1), 2 (HSV-2), and varicella-zoster virus (VZV).
+Mechanism of Antiviral Action: Acyclovir is a synthetic purine nucleoside analogue with in vitro and in vivo inhibitory activity against herpes simplex virus types 1 (HSV-1), 2 (HSV-2), and varicella zoster virus (VZV).
 
 The inhibitory activity of acyclovir is highly selective due to its affinity for the enzyme thymidine kinase (TK) encoded by HSV and VZV.
 This viral enzyme converts acyclovir into acyclovir monophosphate, a nucleotide analogue.
@@ -15,7 +13,7 @@ The greater antiviral activity of acyclovir against HSV compared to VZV is due t
 
 Antiviral Activities: The quantitative relationship between the in vitro susceptibility of herpes viruses to antivirals and the clinical response to therapy has not been established in humans, and virus sensitivity testing has not been standardized.
 Sensitivity testing results, expressed as the concentration of drug required to inhibit by 50% the growth of virus in cell culture (IC50), vary greatly depending upon a number of factors.
-Using plaque-reduction assays, the IC50 against herpes simplex virus isolates ranges from 0.02 to 13.5 mcg/mL for HSV-1 and from 0.01 to 9.9 mcg/mL for HSV-2.
+Using plaque-reduction assays, the IC50 against HSV isolates ranges from 0.02 to 13.5 mcg/mL for HSV-1 and from 0.01 to 9.9 mcg/mL for HSV-2.
 The IC50 for acyclovir against most laboratory strains and clinical isolates of VZV ranges from 0.12 to 10.8 mcg/mL.
 Acyclovir also demonstrates activity against the Oka vaccine strain of VZV with a mean IC50 of 1.35 mcg/mL.
 
@@ -25,13 +23,13 @@ While most of the acyclovir-resistant mutants isolated thus far from immunocompr
 TK-negative mutants may cause severe disease in infants and immunocompromised adults.
 The possibility of viral resistance to acyclovir should be considered in patients who show poor clinical response during therapy.
 
-Manufactured by: Valeant Pharmaceuticals International Inc. Laval, QC H7L 4A8 Canada
+Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
-Distributed by: Watson Pharma, Inc. Parsippany, NJ 07054 USA
+Manufactured by: Valeant Pharmaceuticals International, Inc. Laval, QC H7L 4A8, Canada
 
-ZOVIRAX® is a registered trademark of the GlaxoSmithKline group of companies and used under license by Valeant.
+ZOVIRAX is a registered trademark of the GlaxoSmithKline group of companies and used under license by Valeant.
 
 Rev.
-February 2014
+March 2017
 
-218920-1
+9510401 2000919B
