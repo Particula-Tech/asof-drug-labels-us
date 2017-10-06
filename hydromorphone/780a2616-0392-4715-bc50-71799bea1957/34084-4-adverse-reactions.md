@@ -5,10 +5,12 @@ The following serious adverse reactions are discussed elsewhere in the labeling:
 - •Addiction, Abuse, and Misuse [see Warnings and Precautions (5.1)]
 - •Life Threatening Respiratory Depression [see Warnings and Precautions (5.2)]
 - •Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.3)]
-- •Interactions with Other CNS Depressants [see Warnings and Precautions (5.4)]
-- •Hypotensive Effect [see Warnings and Precautions (5.7)]
-- •Gastrointestinal Effects [see Warnings and Precautions (5.9)]
-- •Seizures [see Warnings and Precautions (5.11)]
+- •Interactions with Benzodiazepine or Other CNS Depressants [see Warnings and Precautions (5.4)]
+- •Adrenal Insufficiency [see Warnings and Precautions (5.6)]
+- •Severe Hypotension [see Warnings and Precautions (5.7)]
+- •Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.9)]
+- •Seizures [see Warnings and Precautions (5.10)]
+- •Withdrawal [see Warnings and Precautions (5.11)]
 
 ## 6.1 Clinical Trial Experience
 
@@ -26,6 +28,69 @@ The overall incidence of adverse reactions in female patients was higher, with a
 A 12-week double-blind, placebo-controlled, randomized withdrawal study was conducted in opioid tolerant patients with moderate to severe low back pain [see Clinical Studies (14)].
 A total of 447 patients were enrolled into the open-label titration phase with 268 patients randomized into the double-blind treatment phase.
 The adverse reactions that were reported in at least 2% of the patients are contained in Table 2.
+
+Table 2.
+
+Number (%) of Patients with Adverse Reactions Reported in ≥ 2% of Patients with Moderate to Severe Low Back Pain During the Open-Label Titration Phase or Double-Blind Treatment Phase by Preferred Term
+
+| Preferred Term | Open-Label Titration Phase | Double-Blind Treatment Phase |  |
+| --- | --- | --- | --- |
+|  | Hydromorphone Hydrochloride Extended Release Tablets(N=447) | Hydromorphone Hydrochloride Extended Release Tablets(N=134) | Placebo(N=134) |
+| Constipation | 69 (15) | 10 (7) | 5 (4) |
+| Nausea | 53 (12) | 12 (9) | 10 (7) |
+| Somnolence | 39 (9) | 1 (1) | 0 (0) |
+| Headache | 35 (8) | 7 (5) | 10 (7) |
+| Vomiting | 29 (6) | 8 (6) | 6 (4) |
+| Pruritus | 21 (5) | 1 (1) | 0 (0) |
+| Dizziness | 17 (4) | 3 (2) | 2 (1) |
+| Insomnia | 13 (3) | 7 (5) | 5 (4) |
+| Dry Mouth | 13 (3) | 2 (1) | 0 (0) |
+| Edema Peripheral | 13 (3) | 3 (2) | 1 (1) |
+| Hyperhidrosis | 13 (3) | 2 (1) | 2 (1) |
+| Anorexia/Decreased Appetite | 10 (2) | 2 (1) | 0 (0) |
+| Arthralgia | 9 (2) | 8 (6) | 3 (2) |
+| Abdominal pain | 9 (2) | 4 (3) | 3 (2) |
+| Muscle Spasms | 5 (1) | 3 (2) | 1 (1) |
+| Weight Decreased | 3 (1) | 4 (3) | 3 (2) |
+
+The adverse reactions that were reported in at least 2% of the total treated patients (N=2,474) in the 14 chronic clinical trials are contained in Table 3.
+
+Table 3.
+
+Number (%) of Patients with Adverse Reactions Reported in ≥ 2% of Patients with Chronic Pain Receiving Hydromorphone Hydrochloride Extended Release Tablets in 14 Clinical Studies by Preferred Term
+
+| Preferred Term | All Patients (N=2,474) |
+| --- | --- |
+| Constipation | 765 (31) |
+| Nausea | 684 (28) |
+| Vomiting | 337 (14) |
+| Somnolence | 367 (15) |
+| Headache | 308 (12) |
+| Asthenia/Fatigue | 272 (11) |
+| Dizziness | 262 (11) |
+| Diarrhea | 201 (8) |
+| Pruritus | 193 (8) |
+| Insomnia | 161 (7) |
+| Hyperhidrosis | 143 (6) |
+| Edema Peripheral | 135 (5) |
+| Anorexia/Decreased Appetite | 139 (6) |
+| Dry Mouth | 121 (5) |
+| Abdominal Pain | 115 (5) |
+| Anxiety | 95 (4) |
+| Back Pain | 95 (4) |
+| Dyspepsia* | 88 (4) |
+| Depression | 81 (3) |
+| Dyspnea | 76 (3) |
+| Muscle Spasms | 74 (3) |
+| Arthralgia | 72 (3) |
+| Rash | 64 (3) |
+| Pain in Extremity | 63 (3) |
+| Pain | 58 (2) |
+| Drug Withdrawal Syndrome | 55 (2) |
+| Pyrexia | 52 (2) |
+| Fall | 51 (2) |
+| Chest Pain | 51 (2) |
+| * Reflux esophagitis, gastroesophageal reflux disease and Barrett’s esophagus were grouped and reported with dyspepsia |  |
 
 The following Adverse Reactions occurred in patients with an overall frequency of <2% and are listed in descending order within each System Organ Class:
 
@@ -51,9 +116,7 @@ Metabolism and nutrition disorders: dehydration, fluid retention, increased appe
 
 Musculoskeletal and connective tissue disorders: myalgia
 
-Nervous system disorders: tremor, sedation, hypoesthesia, paresthesia, disturbance in attention, memory impairment, dysarthria, syncope, balance disorder, dysgeusia, depressed level of consciousness, coordination abnormal, hyperesthesia, myoclonus, dyskinesia, crying, hyperreflexia, encephalopathy, cognitive disorder, convulsion, psychomotor hyperactivity
-
-Psychiatric disorders: confusional state, nervousness, restlessness, abnormal dreams, mood altered, hallucination, panic attack, euphoric mood, paranoia, dysphoria, listless, suicide ideation, libido decreased, aggression
+Nervous system disorders: tremor, sedation, hypoesthesia, paresthesia, disturbance in attention, memory impairment, dysarthria, syncope, balance disorder, dysgeusia, depressed level of consciousness, coordination abnormal, hyperesthesia, myoclonus, dyskinesia, crying, hyperreflexia, encephalopathy, cognitive disorder, convulsion, psychomotor hyperactivity Psychiatric disorders: confusional state, nervousness, restlessness, abnormal dreams, mood altered, hallucination, panic attack, euphoric mood, paranoia, dysphoria, listless, suicide ideation, libido decreased, aggression
 
 Renal and urinary disorders: dysuria, urinary retention, urinary frequency, urinary hesitation, micturition disorder
 
@@ -67,8 +130,13 @@ Vascular disorders: flushing, hypertension, hypotension
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use of hydromorphone hydrochloride extended release tablets:
+The following adverse reactions have been identified during post approval use of hydromorphone.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Immune system disorders: hypersensitivity
+Serotonin syndrome: Cases of serotonin syndrome, a potentially life-threatening condition, have been reported during concomitant use of opioids with serotonergic drugs [see Drug Interactions (7)].
 
-Skin and subcutaneous tissue disorders: angioedema, urticaria
+Adrenal insufficiency: Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use [see Warnings and Precautions (5.6)].
+
+Anaphylaxis: Anaphylactic reaction has been reported with ingredients contained in hydromorphone hydrochloride extended release tablets [see Contraindications (4) and Warnings and Precautions (5.12)].
+
+Androgen deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [see Clinical Pharmacology (12.2)].

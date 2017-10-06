@@ -20,4 +20,4 @@ Hydromorphone was not clastogenic in either the in vitro human lymphocyte chromo
 
 Impairment of Fertility
 
-Hydromorphone given orally to rats during the mating period caused a slight but statistically significant reduction in implantations at 6.25 mg/kg/day (~1.2 times the human exposure following to 32 mg/day).
+Reduced implantation sites and viable fetuses were noted at 2.1 times the human daily dose of 32 mg/day in a study in which female rats were treated orally with 1.75, 3.5, or 7 mg/kg/day hydromorphone hydrochloride (0.7, 1.4, or 2.8 times a human daily dose of 24 mg/day (HDD) based on body surface area) beginning 14 days prior to mating through Gestation Day 7 and male rats were treated with the same hydromorphone hydrochloride doses beginning 28 days prior to and throughout mating.

@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-Hydromorphone hydrochloride extended release tablets were investigated in a double-blind, placebo-controlled, randomized withdrawal study in opioid tolerant patients with moderate-to-severe low back pain.
+Hydromorphone hydrochloride extended release tablets were investigated in a double -blind, placebo-controlled, randomized withdrawal study in opioid tolerant patients with moderate-to-severe low back pain.
 Patients were considered opioid tolerant if they were currently on opioid therapy that was ≥ 60 mg/day of oral morphine equivalent for at least 2 months prior to screening.
 Patients entered an open-label conversion and titration phase with hydromorphone hydrochloride extended release tablets, were converted to a starting dose that was approximately 75% of their total daily morphine equivalent dose, and were dosed once daily until adequate pain control was achieved while exhibiting tolerable side effects.
 Supplemental immediate-release hydromorphone tablets were allowed throughout the study.
@@ -18,3 +18,7 @@ Hydromorphone hydrochloride extended release tablets provided superior analgesia
 There was a significant difference between the mean changes from Baseline to Week 12 or Final Visit in average weekly pain intensity Numeric Rating Scale (NRS) scores obtained from patient diaries between the two groups.
 The proportion of patients with various degrees of improvement from screening to Week 12 or Final Visit is shown in Figure 2.
 For this analysis, patients who discontinued treatment for any reason prior to Week 12 were assigned a value of zero improvement.
+
+Figure 2.
+
+Percent Reduction in Average Pain Intensity from Screening to Week 12 or Final Visit
