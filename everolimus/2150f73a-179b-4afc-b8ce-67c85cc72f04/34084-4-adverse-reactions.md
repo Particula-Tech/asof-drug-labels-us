@@ -5,7 +5,7 @@ The following serious adverse reactions are discussed in greater detail in anoth
 - Non-infectious pneumonitis [see Warnings and Precautions (5.1)].
 - Infections [see Warnings and Precautions (5.2)].
 - Angioedema with concomitant use of ACE inhibitors [see Warnings and Precautions (5.3)].
-- Oral ulceration [see Warnings and Precautions (5.4)].
+- Stomatitis [see Warnings and Precautions (5.4)].
 - Renal failure [see Warnings and Precautions (5.5)].
 - Impaired wound healing [see Warnings and Precautions (5.6)].
 
@@ -13,7 +13,7 @@ Because clinical trials are conducted under widely varying conditions, the adver
 
 ## 6.1 Clinical Study Experience in Advanced Hormone Receptor-Positive, HER2-Negative Breast Cancer
 
-The efficacy and safety of AFINITOR (10 mg/day) plus exemestane (25 mg/day) (n=485) versus placebo plus exemestane (25 mg/day) (n=239) was evaluated in a randomized, controlled trial in patients with advanced or metastatic hormone receptor-positive, HER2-negative breast cancer.
+The efficacy and safety of AFINITOR (10 mg/day) plus exemestane (25 mg/day) (n=485) versus placebo plus exemestane (25 mg/day) (n=239) was evaluated in a randomized, controlled trial (BOLERO-2) in patients with advanced or metastatic hormone receptor-positive, HER2-negative breast cancer.
 The median age of patients was 61 years (range 28-93 years), and 75% were Caucasian.
 Safety results are based on a median follow-up of approximately 13 months.
 
@@ -32,7 +32,7 @@ Table 2: Adverse Reactions Reported ≥10% of Patients with Advanced HR+ BC*
 
 |  | AFINITOR (10 mg/day) + exemestanea N=482 |  |  | Placebo + exemestanea N=238 |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | All grades | Grade 3 | Grade 4 | All grades | Grade 3 | Grade 4 |
+|  | All Grades | Grade 3 | Grade 4 | All Grades | Grade 3 | Grade 4 |
 |  | % | % | % | % | % | % |
 | Any adverse reaction | 100 | 41 | 9 | 90 | 22 | 5 |
 | Gastrointestinal disorders |  |  |  |  |  |  |
@@ -83,7 +83,7 @@ Table 3: Key Laboratory Abnormalities Reported in ≥10% of Patients with Advanc
 
 | Laboratory parameter | AFINITOR (10 mg/day) + exemestanea N=482 |  |  | Placebo + exemestanea N=238 |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | All grades | Grade 3 | Grade 4 | All grades | Grade 3 | Grade 4 |
+|  | All Grades | Grade 3 | Grade 4 | All Grades | Grade 3 | Grade 4 |
 |  | % | % | % | % | % | % |
 | Hematologyb |  |  |  |  |  |  |
 | Hemoglobin decreased | 68 | 6 | 0.6 | 40 | 0.8 | 0.4 |
@@ -102,14 +102,24 @@ Table 3: Key Laboratory Abnormalities Reported in ≥10% of Patients with Advanc
 | Creatinine increased | 24 | 2 | 0.2 | 13 | 0 | 0 |
 | Grading according to CTCAE Version 3.0 a Exemestane (25 mg/day) b Reflects corresponding adverse drug reaction reports of anemia, leukopenia, lymphopenia, neutropenia, and thrombocytopenia (collectively as pancytopenia), which occurred at lower frequency. |  |  |  |  |  |  |
 
+Topical Prophylaxis for Stomatitis
+
+In a single arm study (SWISH; N=92) in postmenopausal women with hormone receptor-positive, HER2-negative breast cancer beginning AFINITOR (10 mg/day) plus exemestane (25 mg/day), patients started dexamethasone 0.5mg/5mL alcohol-free mouthwash (10 mL swished for 2 minutes and spat, 4 times daily for 8 weeks) concurrently with AFINITOR and exemestane.
+No food or drink was to be consumed for at least 1 hour after swishing and spitting the dexamethasone mouthwash.
+The primary objective of this study was to assess the incidence of Grade ≥ 2 stomatitis within 8 weeks.
+The incidence of Grade ≥ 2 stomatitis within 8 weeks was 2%, which was lower than the 33% reported in the BOLERO-2 trial.
+The incidence of Grade 1 stomatitis was 19%.
+No cases of Grade 3 or 4 stomatitis were reported.
+Oral candidiasis was reported in 2% of patients in this study compared to 0.2% in the BOLERO-2 trial.
+
 ## 6.2 Clinical Study Experience in Advanced Neuroendocrine Tumors
 
 Advanced Pancreatic Neuroendocrine Tumors (PNET)
 
-In a randomized, controlled trial of AFINITOR (n=204) versus placebo (n=203) in patients with advanced PNET the median age of patients was 58 years (range 20-87), 79% were White, and 55% were male.
+In a randomized, controlled trial (RADIANT-3) of AFINITOR (n=204) versus placebo (n=203) in patients with advanced PNET the median age of patients was 58 years (range 20-87), 79% were White, and 55% were male.
 Patients on the placebo arm could cross over to open-label AFINITOR upon disease progression.
 
-The most common adverse reactions (incidence ≥30%) were stomatitis, rash, diarrhea, fatigue, edema, abdominal pain, nausea, fever, and headache.
+The most common adverse reactions (incidence ≥ 30%) were stomatitis, rash, diarrhea, fatigue, edema, abdominal pain, nausea, fever, and headache.
 The most common Grade 3-4 adverse reactions (incidence ≥ 5%) were stomatitis and diarrhea.
 The most common laboratory abnormalities (incidence ≥ 50%) were decreased hemoglobin, hyperglycemia, alkaline phosphatase increased, hypercholesterolemia, bicarbonate decreased, and increased aspartate transaminase (AST).
 The most common Grade 3-4 laboratory abnormalities (incidence ≥ 3%) were hyperglycemia, lymphopenia, decreased hemoglobin, hypophosphatemia, increased alkaline phosphatase, neutropenia, increased aspartate transaminase (AST), potassium decreased, and thrombocytopenia.
@@ -128,7 +138,7 @@ Table 4: Adverse Reactions Reported ≥10% of Patients with Advanced PNET
 
 |  | AFINITOR N=204 |  |  | Placebo N=203 |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | All grades | Grade 3 | Grade 4 | All grades | Grade 3 | Grade 4 |
+|  | All Grades | Grade 3 | Grade 4 | All Grades | Grade 3 | Grade 4 |
 |  | % | % | % | % | % | % |
 | Any adverse reaction | 100 | 49 | 13 | 98 | 32 | 8 |
 | Gastrointestinal disorders |  |  |  |  |  |  |
@@ -187,7 +197,7 @@ Table 5: Key Laboratory Abnormalities Reported in ≥10% of Patients with Advanc
 
 | Laboratory parameter | AFINITOR N=204 |  | Placebo N=203 |  |
 | --- | --- | --- | --- | --- |
-|  | All grades | Grade 3-4 | All grades | Grade 3-4 |
+|  | All Grades | Grade 3-4 | All Grades | Grade 3-4 |
 |  | % | % | % | % |
 | Hematology |  |  |  |  |
 | Hemoglobin decreased | 86 | 15 | 63 | 1 |
@@ -215,8 +225,8 @@ Table 5: Key Laboratory Abnormalities Reported in ≥10% of Patients with Advanc
 
 Unresectable, Locally Advanced or Metastatic, Well-Differentiated, Non-Functional Neuroendocrine Tumors of Gastrointestinal or Lung Origin
 
-In a randomized, controlled trial of AFINITOR (n=202 treated) versus placebo (n=98 treated) in patients with advanced non-functional NET of GI or lung origin, the median age of patients was 63 years (range 22-86), 76% were White, and 53% were female.
-The median duration of exposure to AFINITOR was 9.3 months; 64% of patients were treated for ≥6 months and 39% were treated for ≥12 months.
+In a randomized, controlled trial (RADIANT-4) of AFINITOR (n=202 treated) versus placebo (n=98 treated) in patients with advanced non-functional NET of GI or lung origin, the median age of patients was 63 years (range 22-86), 76% were White, and 53% were female.
+The median duration of exposure to AFINITOR was 9.3 months; 64% of patients were treated for ≥ 6 months and 39% were treated for ≥ 12 months.
 AFINITOR was discontinued for adverse reactions in 29% of patients, dose reduction or delay was required in 70% of AFINITOR-treated patients.
 
 Serious adverse reactions occurred in 42% of AFINITOR-treated patients and included 3 fatal events (cardiac failure, respiratory failure, and septic shock).
@@ -227,7 +237,7 @@ Table 6: Adverse Reactions in ≥10% of AFINITOR-Treated Patients with Non-Funct
 
 |  | AFINITOR N=202 |  |  | Placebo N=98 |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | All grades | Grade 3 | Grade 4 | All grades | Grade 3 | Grade 4 |
+|  | All Grades | Grade 3 | Grade 4 | All Grades | Grade 3 | Grade 4 |
 |  | % | % | % | % | % | % |
 | Any adverse reaction | 99 | 57 | 12 | 89 | 21 | 7 |
 | Gastrointestinal disorders |  |  |  |  |  |  |
@@ -262,7 +272,7 @@ Table 7: Laboratory Abnormalities in ≥10% of AFINITOR-Treated Patients with No
 
 |  | AFINITOR N=202 |  |  | Placebo N=98 |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | All grades | Grade 3 | Grade 4 | All grades | Grade 3 | Grade 4 |
+|  | All Grades | Grade 3 | Grade 4 | All Grades | Grade 3 | Grade 4 |
 |  | % | % | % | % | % | % |
 | Hematology |  |  |  |  |  |  |
 | Anemia | 81 | 5 | 0 | 41 | 2 | 0 |
@@ -273,7 +283,7 @@ Table 7: Laboratory Abnormalities in ≥10% of AFINITOR-Treated Patients with No
 | Clinical chemistry |  |  |  |  |  |  |
 | Hypercholesterolemia | 71 | 0 | 0 | 37 | 0 | 0 |
 | Elevated Aspartate transaminase (AST) | 57 | 1 | 1 | 34 | 2 | 0 |
-| Hyperglycemia(fasting) | 55 | 6 | 0 | 36 | 1 | 0 |
+| Hyperglycemia (fasting) | 55 | 6 | 0 | 36 | 1 | 0 |
 | Elevated Alanine transaminase (ALT) | 46 | 5 | 1 | 39 | 1 | 0 |
 | Hypophosphatemia | 43 | 4 | 0 | 15 | 2 | 0 |
 | Hypertriglyceridemia | 30 | 3 | 1 | 8 | 1 | 0 |
@@ -283,7 +293,7 @@ Table 7: Laboratory Abnormalities in ≥10% of AFINITOR-Treated Patients with No
 
 ## 6.3 Clinical Study Experience in Advanced Renal Cell Carcinoma
 
-The data described below reflect exposure to AFINITOR (n=274) and placebo (n=137) in a randomized, controlled trial in patients with metastatic renal cell carcinoma who received prior treatment with sunitinib and/or sorafenib.
+The data described below reflect exposure to AFINITOR (n=274) and placebo (n=137) in a randomized, controlled trial (RECORD-1) in patients with metastatic renal cell carcinoma who received prior treatment with sunitinib and/or sorafenib.
 The median age of patients was 61 years (range 27-85), 88% were Caucasian, and 78% were male.
 The median duration of blinded study treatment was 141 days (range 19-451 days) for patients receiving AFINITOR and 60 days (range 21-295 days) for those receiving placebo.
 
@@ -304,7 +314,7 @@ Table 8: Adverse Reactions Reported in at Least 10% of Patients with RCC and at 
 
 |  | AFINITOR 10 mg/day N=274 |  |  | Placebo N=137 |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | All grades | Grade 3 | Grade 4 | All grades | Grade 3 | Grade 4 |
+|  | All Grades | Grade 3 | Grade 4 | All Grades | Grade 3 | Grade 4 |
 |  | % | % | % | % | % | % |
 | Any adverse reaction | 97 | 52 | 13 | 93 | 23 | 5 |
 | Gastrointestinal disorders |  |  |  |  |  |  |
@@ -372,7 +382,7 @@ Table 9: Key Laboratory Abnormalities Reported in Patients with RCC at a Higher 
 
 | Laboratory parameter | AFINITOR 10 mg/day N=274 |  |  | Placebo N=137 |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | All grades | Grade 3 | Grade 4 | All grades | Grade 3 | Grade 4 |
+|  | All Grades | Grade 3 | Grade 4 | All Grades | Grade 3 | Grade 4 |
 |  | % | % | % | % | % | % |
 | Hematologya |  |  |  |  |  |  |
 | Hemoglobin decreased | 92 | 12 | 1 | 79 | 5 | <1 |
@@ -392,7 +402,7 @@ Table 9: Key Laboratory Abnormalities Reported in Patients with RCC at a Higher 
 
 ## 6.4 Clinical Study Experience in Renal Angiomyolipoma with Tuberous Sclerosis Complex
 
-The data described below are based on a randomized (2:1), double-blind, placebo-controlled trial of AFINITOR in 118 patients with renal angiomyolipoma as a feature of TSC (n=113) or sporadic lymphangioleiomyomatosis (n=5).
+The data described below are based on a randomized (2:1), double-blind, placebo-controlled trial (EXIST-2) of AFINITOR in 118 patients with renal angiomyolipoma as a feature of TSC (n=113) or sporadic lymphangioleiomyomatosis (n=5).
 The median age of patients was 31 years (range 18 to 61 years), 89% were Caucasian, and 34% were male.
 The median duration of blinded study treatment was 48 weeks (range 2 to 115 weeks) for patients receiving AFINITOR and 45 weeks (range 9 to 115 weeks) for those receiving placebo.
 
@@ -413,7 +423,7 @@ Table 10: Adverse Reactions Reported in ≥10% of AFINITOR-treated Patients with
 
 |  | AFINITOR N=79 |  |  | Placebo N=39 |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | All grades % | Grade 3 % | Grade 4 % | All grades % | Grade 3 % | Grade 4 % |
+|  | All Grades % | Grade 3 % | Grade 4 % | All Grades % | Grade 3 % | Grade 4 % |
 | Any adverse reaction | 100 | 25 | 5 | 97 | 8 | 5 |
 | Gastrointestinal disorders |  |  |  |  |  |  |
 | Stomatitisa | 78 | 6 | 0 | 23 | 0 | 0 |
@@ -440,7 +450,7 @@ Table 11: Key Laboratory Abnormalities Reported in AFINITOR-treated Patients wit
 
 |  | AFINITOR N=79 |  |  | Placebo N=39 |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | All grades % | Grade 3 % | Grade 4 % | All grades % | Grade 3 % | Grade 4 % |
+|  | All Grades % | Grade 3 % | Grade 4 % | All Grades % | Grade 3 % | Grade 4 % |
 | Hematology |  |  |  |  |  |  |
 | Anemia | 61 | 0 | 0 | 49 | 0 | 0 |
 | Leucopenia | 37 | 0 | 0 | 21 | 0 | 0 |
@@ -461,7 +471,7 @@ Updated safety information from 112 patients treated with AFINITOR for a median 
 
 ## 6.5 Clinical Study Experience in Subependymal Giant Cell Astrocytoma with Tuberous Sclerosis Complex
 
-The data described below are based on a randomized (2:1), double-blind, placebo-controlled trial (Study 1) of AFINITOR in 117 patients with subependymal giant cell astrocytoma (SEGA) and tuberous sclerosis complex (TSC).
+The data described below are based on a randomized (2:1), double-blind, placebo-controlled trial (EXIST-1) of AFINITOR in 117 patients with subependymal giant cell astrocytoma (SEGA) and tuberous sclerosis complex (TSC).
 The median age of patients was 9.5 years (range 0.8 to 26 years), 93% were Caucasian, and 57% were male.
 The median duration of blinded study treatment was 52 weeks (range 24 to 89 weeks) for patients receiving AFINITOR and 47 weeks (range 14 to 88 weeks) for those receiving placebo.
 
@@ -477,11 +487,11 @@ The most common adverse reaction leading to AFINITOR dose adjustment was stomati
 Table 12 compares the incidence of adverse reactions reported with an incidence of ≥10% for patients receiving AFINITOR and occurring more frequently with AFINITOR than with placebo.
 Laboratory abnormalities are described separately in Table 13.
 
-Table 12: Adverse Reactions Reported in ≥10% of AFINITOR-treated Patients with SEGA in Study 1
+Table 12: Adverse Reactions Reported in ≥ 10% of AFINITOR-treated Patients with SEGA in EXIST-1
 
 |  | AFINITOR N=78 |  |  | Placebo N=39 |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | All grades % | Grade 3 % | Grade 4 % | All grades % | Grade 3 % | Grade 4 % |
+|  | All Grades % | Grade 3 % | Grade 4 % | All Grades % | Grade 3 % | Grade 4 % |
 | Any adverse reaction | 97 | 36 | 3 | 92 | 23 | 3 |
 | Gastrointestinal disorders |  |  |  |  |  |  |
 | Stomatitisa | 62 | 9 | 0 | 26 | 3 | 0 |
@@ -507,11 +517,11 @@ For this same group of AFINITOR-treated females, the following menstrual abnorma
 
 The following additional adverse reactions occurred in less than 10% of AFINITOR-treated patients: nausea (8%), pain in extremity (8%), insomnia (6%), pneumonia (6%), epistaxis (5%), hypersensitivity (3%), increased blood luteinizing hormone (LH) levels (1%) and pneumonitis (1%).
 
-Table 13: Key Laboratory Abnormalities Reported in AFINITOR-treated Patients with SEGA in Study 1
+Table 13: Key Laboratory Abnormalities Reported in AFINITOR-treated Patients with SEGA in EXIST-1
 
 |  | AFINITOR N=78 |  |  | Placebo N=39 |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | All grades % | Grade 3 % | Grade 4 % | All grades % | Grade 3 % | Grade 4 % |
+|  | All Grades % | Grade 3 % | Grade 4 % | All Grades % | Grade 3 % | Grade 4 % |
 | Hematology |  |  |  |  |  |  |
 | Elevated partial thromboplastin time | 72 | 3 | 0 | 44 | 5 | 0 |
 | Neutropenia | 46 | 9 | 0 | 41 | 3 | 0 |

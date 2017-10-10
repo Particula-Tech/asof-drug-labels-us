@@ -7,11 +7,11 @@ Risk Summary
 Based on animal studies and the mechanism of action [see Clinical Pharmacology (12.1)], AFINITOR can cause fetal harm when administered to a pregnant woman.
 There are limited case reports of AFINITOR use in pregnant women.
 However, these reports are not sufficient to inform about risks of birth defects or miscarriage.
-In animal studies, everolimus caused embryo-fetal toxicities in rats when administered during the period of organogenesis at maternal exposures that were lower than human exposures at the recommended clinical dose of 10 mg daily [see Data].
+In animal studies, everolimus caused embryo-fetal toxicities in rats when administered during the period of organogenesis at maternal exposures that were lower than human exposures at the clinical dose of 10 mg daily [see Data].
 Advise pregnant women of the potential risk to the fetus.
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage is 2-4% and 15-20% of clinically recognized pregnancies, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage is 2%-4% and 15%-20% of clinically recognized pregnancies, respectively.
 
 Data
 
@@ -44,7 +44,11 @@ Contraception
 
 Females
 
-Advise female patients of reproductive potential to use effective contraception while using AFINITOR and for 8 weeks after ending treatment with AFINITOR [see Use in Specific Populations (8.1)].
+Advise female patients of reproductive potential to use effective contraception during treatment and for 8 weeks after the last dose of AFINITOR [see Use in Specific Populations (8.1)].
+
+Males
+
+Based on findings in animal reproduction studies, advise male patients with female partners of reproductive potential to use effective contraception during treatment and for 4 weeks after the last dose of AFINITOR [see Use in Specific Populations (8.1)].
 
 Infertility
 
@@ -55,7 +59,10 @@ Based on these clinical findings and findings in animals, female fertility may b
 
 Males
 
-AFINITOR treatment may impair fertility in male patients based on animal findings [see Nonclinical Toxicology (13.1)].
+Based on the clinical findings and findings in animals, AFINITOR treatment may impair fertility in male patients.
+Cases of reversible azoospermia have been reported in male patients taking AFINITOR.
+In male rats, sperm motility, sperm count, plasma testosterone levels and fertility were diminished at exposures (AUC) similar to those in patients receiving a dose of 10 mg daily.
+The fertility index in rats increased when everolimus administration was stopped for a 10-13 week recovery period [see Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
 
@@ -64,7 +71,7 @@ The safety and effectiveness of AFINITOR Tablets and AFINITOR DISPERZ have not b
 
 The effectiveness of AFINITOR in pediatric patients with SEGA was demonstrated in two clinical trials based on demonstration of durable objective response, as evidenced by reduction in SEGA tumor volume [see Clinical Studies (14.5)].
 
-Study 1 was a randomized, double-blind, multicenter trial comparing AFINITOR (n=78) to placebo (n=39) in pediatric and adult patients.
+EXIST-1 was a randomized, double-blind, multicenter trial comparing AFINITOR (n=78) to placebo (n=39) in pediatric and adult patients.
 The median age was 9.5 years (range 0.8 to 26 years).
 At the time of randomization, a total of 20 patients were <3 years of age, 54 patients were 3 to <12 years of age, 27 patients were 12 to <18 years of age, and 16 patients were ≥18 years of age.
 The overall nature, type, and frequency of adverse reactions across the age groups evaluated were similar, with the exception of a higher per patient incidence of infectious serious adverse events in patients <3 years of age.
@@ -72,30 +79,32 @@ A total of 6 of 13 patients (46%) <3 years of age had at least 1 serious adverse
 No patient in any age group discontinued AFINITOR due to infection [see Adverse Reactions (6.5)].
 Subgroup analyses showed reduction in SEGA volume with AFINITOR treatment in all pediatric age subgroups.
 
-Study 2 was an open-label, single-arm, single-center trial of AFINITOR (N=28) in patients aged ≥3 years; median age was 11 years (range 3 to 34 years).
+Study 2485 was an open-label, single-arm, single-center trial of AFINITOR (N=28) in patients aged ≥3 years; median age was 11 years (range 3 to 34 years).
 A total of 16 patients were 3 to <12 years, 6 patients were 12 to <18 years, and 6 patients were ≥ 18 years.
 The frequency of adverse reactions across the age groups was generally similar [see Adverse Reactions (6.5)].
 Subgroup analyses showed reductions in SEGA volume with AFINITOR treatment in all pediatric age subgroups.
 
-Although a conclusive determination cannot be made due to the limited number of patients and lack of a comparator arm in the open label follow-up periods of Study 1 and Study 2, AFINITOR did not appear to adversely impact growth and pubertal development in the 115 pediatric patients treated with AFINITOR for a median duration of 4.1 years.
+Although a conclusive determination cannot be made due to the limited number of patients and lack of a comparator arm in the open label follow-up periods of EXIST-1 and Study 2485, AFINITOR did not appear to adversely impact growth and pubertal development in the 115 pediatric patients treated with AFINITOR for a median duration of 4.1 years.
 
 Everolimus clearance normalized to body surface area was higher in pediatric patients than in adults with SEGA [see Clinical Pharmacology (12.3)].
 The recommended starting dose and subsequent requirement for therapeutic drug monitoring to achieve and maintain trough concentrations of 5 to 15 ng/mL are the same for adult and pediatric patients with SEGA [see Dosage and Administration (2.3, 2.4)].
 
+Co-administration of AFINITOR and dexamethasone alcohol-free oral solution has not been studied in pediatric patients [see Adverse Reactions (6.1)].
+
 ## 8.5 Geriatric Use
 
-In the randomized advanced hormone receptor positive, HER2-negative breast cancer study, 40% of AFINITOR-treated patients were ≥ 65 years of age, while 15% were 75 years and over.
+In the randomized advanced hormone receptor positive, HER2-negative breast cancer study (BOLERO-2), 40% of AFINITOR-treated patients were ≥ 65 years of age, while 15% were 75 years and over.
 No overall differences in effectiveness were observed between elderly and younger patients.
 The incidence of deaths due to any cause within 28 days of the last AFINITOR dose was 6% in patients ≥65 years of age compared to 2% in patients <65 years of age.
 Adverse reactions leading to permanent treatment discontinuation occurred in 33% of patients ≥65 years of age compared to 17% in patients <65 years of age [see Warnings and Precautions (5.7)].
 
 In two other randomized trials (advanced renal cell carcinoma and advanced neuroendocrine tumors of pancreatic origin), no overall differences in safety or effectiveness were observed between elderly and younger patients.
-In the randomized advanced RCC study, 41% of AFINITOR treated patients were ≥65 years of age, while 7% were 75 years and over.
-In the randomized advanced PNET study, 30% of AFINITOR-treated patients were ≥65 years of age, while 7% were 75 years and over.
+In the randomized advanced RCC study (RECORD-1), 41% of AFINITOR treated patients were ≥ 65 years of age, while 7% were 75 years and over.
+In the randomized advanced PNET study (RADIANT-3), 30% of AFINITOR-treated patients were ≥ 65 years of age, while 7% were 75 years and over.
 
 Other reported clinical experience has not identified differences in response between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out [see Clinical Pharmacology (12.3)].
 
-No dosage adjustment in initial dosing is required in elderly patients, but close monitoring and appropriate dose adjustments for adverse reactions is recommended [see Dosage and Administration (2.2), Clinical Pharmacology (12.3)].
+No dosage adjustment in initial dosing is required in elderly patients, but close monitoring and appropriate dose adjustments for adverse reactions is recommended [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
 
 ## 8.7 Renal Impairment
 

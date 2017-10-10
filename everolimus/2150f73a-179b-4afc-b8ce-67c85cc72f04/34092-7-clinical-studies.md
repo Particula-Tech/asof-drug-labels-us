@@ -2,7 +2,7 @@
 
 ## 14.1 Advanced Hormone Receptor-Positive, HER2-Negative Breast Cancer
 
-A randomized, double-blind, multicenter study of AFINITOR plus exemestane versus placebo plus exemestane was conducted in 724 postmenopausal women with estrogen receptor-positive, HER2/neu-negative advanced breast cancer with recurrence or progression following prior therapy with letrozole or anastrozole.
+A randomized, double-blind, multicenter study (BOLERO-2, NCT00863655) of AFINITOR plus exemestane versus placebo plus exemestane was conducted in 724 postmenopausal women with estrogen receptor-positive, HER2/neu-negative advanced breast cancer with recurrence or progression following prior therapy with letrozole or anastrozole.
 Randomization was stratified by documented sensitivity to prior hormonal therapy (yes versus no) and by the presence of visceral metastasis (yes versus no). Sensitivity to prior hormonal therapy was defined as either (1) documented clinical benefit (complete response [CR], partial response [PR], stable disease ≥ 24 weeks) to at least one prior hormonal therapy in the advanced setting or (2) at least 24 months of adjuvant hormonal therapy prior to recurrence.
 Patients were permitted to have received 0-1 prior lines of chemotherapy for advanced disease.
 
@@ -21,11 +21,11 @@ Objective response rate was 12.6% (95% CI: 9.8, 15.9) in the AFINITOR plus exeme
 There were 3 complete responses (0.6%) and 58 partial responses (12.0%) in the AFINITOR plus exemestane arm.
 There were no complete responses and 4 partial responses (1.7%) in the placebo plus exemestane arm.
 
-After a median follow-up of 39.3 months, there was no statistically significant difference in OS between the AFINITOR plus exemestane arm and the placebo plus exemestane arm [HR 0.89 (95% CI 0.73, 1.10)].
+After a median follow-up of 39.3 months, there was no statistically significant difference in OS between the AFINITOR plus exemestane arm and the placebo plus exemestane arm [HR 0.89 (95% CI: 0.73, 1.10)].
 
 Table 14: Progression-free Survival Results
 
-| Analysis | AFINITOR + exemestanea N = 485 | Placebo + exemestanea N = 239 | Hazard ratio | P-value |  |
+| Analysis | AFINITOR + exemestanea N = 485 | Placebo + exemestanea N = 239 | Hazard ratio | p-value |  |
 | --- | --- | --- | --- | --- | --- |
 | Median progression-free survival (months, 95% CI) |  |  |  |  |  |
 | Investigator radiological review | 7.8 (6.9 to 8.5) | 3.2 (2.8 to 4.1) | 0.45b (0.38 to 0.54) | <0.0001c |  |
@@ -40,7 +40,7 @@ Figure 1: Kaplan-Meier Progression-free Survival Curves (Investigator Radiologic
 
 Locally Advanced or Metastatic Advanced Pancreatic Neuroendocrine Tumors (PNET)
 
-A randomized, double-blind, multi-center trial of AFINITOR plus best supportive care (BSC) versus placebo plus BSC was conducted in patients with locally advanced or metastatic advanced pancreatic neuroendocrine tumors (PNET) and disease progression within the prior 12 months.
+A randomized, double-blind, multi-center trial (RADIANT-3, NCT00510068) of AFINITOR plus best supportive care (BSC) versus placebo plus BSC was conducted in patients with locally advanced or metastatic advanced pancreatic neuroendocrine tumors (PNET) and disease progression within the prior 12 months.
 Patients were stratified by prior cytotoxic chemotherapy (yes versus no) and by WHO performance status (0 versus 1 and 2).
 Treatment with somatostatin analogs was allowed as part of BSC.
 The primary endpoint for the trial was progression-free survival (PFS) evaluated by RECIST (Response Evaluation Criteria in Solid Tumors).
@@ -51,7 +51,7 @@ Patients were randomized 1:1 to receive either AFINITOR 10 mg/day (n=207) or pla
 Demographics were well balanced (median age 58 years, 55% male, 79% Caucasian).
 Of the 203 patients randomized to best supportive care, 172 patients (85%) received AFINITOR following documented radiologic progression.
 
-The trial demonstrated a statistically significant improvement in PFS (median 11.0 months versus 4.6 months), resulting in a 65% risk reduction in investigator-determined PFS (HR 0.35; 95%CI: 0.27 to 0.45; p<0.001) (see Table 15 and Figure 2).
+The trial demonstrated a statistically significant improvement in PFS (median 11.0 months versus 4.6 months), resulting in a 65% risk reduction in investigator-determined PFS (HR 0.35; 95% CI: 0.27 to 0.45; p<0.001) (see Table 15 and Figure 2).
 PFS improvement was observed across all patient subgroups, irrespective of prior somatostatin analog use.
 The PFS results by investigator radiological review, central radiological review and adjudicated radiological review are shown below in Table 15.
 
@@ -72,7 +72,7 @@ Overall survival was not statistically significantly different between study arm
 
 Unresectable, Locally Advanced or Metastatic, Well-Differentiated, Non-Functional Neuroendocrine Tumors of Gastrointestinal or Lung Origin
 
-A randomized, double-blind, multicenter study of AFINITOR plus best supportive care (BSC) versus placebo plus best supportive care was conducted in patients with unresectable, locally advanced or metastatic, well differentiated, non-functional neuroendocrine tumors (NET) of gastrointestinal (excluding pancreatic) or lung origin.
+A randomized, double-blind, multicenter study (RADIANT-4, NCT01524783) of AFINITOR plus best supportive care (BSC) versus placebo plus best supportive care was conducted in patients with unresectable, locally advanced or metastatic, well differentiated, non-functional neuroendocrine tumors (NET) of gastrointestinal (excluding pancreatic) or lung origin.
 The study required that patients had well-differentiated (low or intermediate grade) histology, no prior or current history of carcinoid symptoms, and evidence of disease progression within 6 months prior to randomization.
 Patients were randomized 2:1 to receive either AFINITOR 10 mg/day or placebo, and stratified by prior somatostatin analog (SSA) use (yes versus no), tumor origin and WHO performance status (0 versus 1).
 
@@ -104,13 +104,13 @@ Figure 3: Kaplan-Meier Progression-free Survival Curves
 Lack of Efficacy in Locally Advanced or Metastatic Functional Carcinoid Tumors
 
 The safety and effectiveness of AFINITOR in patients with locally advanced or metastatic functional carcinoid tumors have not been demonstrated.
-In a randomized (1:1), double-blind, multi-center trial in 429 patients with carcinoid tumors, AFINITOR plus depot octreotide (Sandostatin LAR®) was compared to placebo plus depot octreotide.
+In a randomized (1:1), double-blind, multi-center trial (RADIANT-2, NCT00412061) in 429 patients with carcinoid tumors, AFINITOR plus depot octreotide (Sandostatin LAR®) was compared to placebo plus depot octreotide.
 After documented radiological progression, patients on the placebo arm could receive AFINITOR; of those randomized to placebo, 143 (67%) patients received open-label AFINITOR plus depot octreotide.
 The study did not meet its primary efficacy endpoint of a statistically significant improvement in PFS and the final analysis of OS favored the placebo plus depot octreotide arm.
 
 ## 14.3 Advanced Renal Cell Carcinoma
 
-An international, multi-center, randomized, double-blind trial comparing AFINITOR 10 mg daily and placebo, both in conjunction with best supportive care, was conducted in patients with metastatic RCC whose disease had progressed despite prior treatment with sunitinib, sorafenib, or both sequentially.
+An international, multi-center, randomized, double-blind trial (RECORD-1, NCT00410124) comparing AFINITOR 10 mg daily and placebo, both in conjunction with best supportive care, was conducted in patients with metastatic RCC whose disease had progressed despite prior treatment with sunitinib, sorafenib, or both sequentially.
 Prior therapy with bevacizumab, interleukin 2, or interferon-α was also permitted.
 Randomization was stratified according to prognostic score1 and prior anticancer therapy.
 
@@ -127,7 +127,7 @@ Planned cross-over from placebo due to disease progression to open label AFINITO
 
 Table 17: Efficacy Results by Central Radiologic Review
 
-|  | AFINITOR N=277 | Placebo N=139 | Hazard Ratio (95% CI) | p-value a |
+|  | AFINITOR N=277 | Placebo N=139 | Hazard Ratio (95% CI) | p-valuea |
 | --- | --- | --- | --- | --- |
 | Median Progression-free Survival (95% CI) | 4.9 months (4.0 to 5.5) | 1.9 months (1.8 to 1.9) | 0.33 (0.25 to 0.43) | <0.0001 |
 | Objective Response Rate | 2% | 0% | n/a b | n/a b |
@@ -137,7 +137,7 @@ Figure 4: Kaplan-Meier Progression-free Survival Curves
 
 ## 14.4 Renal Angiomyolipoma with Tuberous Sclerosis Complex
 
-A randomized (2:1), double-blind, placebo-controlled trial of AFINITOR was conducted in 118 patients with renal angiomyolipoma as a feature of TSC (n=113) or sporadic lymphangioleiomyomatosis (n=5).
+A randomized (2:1), double-blind, placebo-controlled trial (EXIST-2, NCT00790400) of AFINITOR was conducted in 118 patients with renal angiomyolipoma as a feature of TSC (n=113) or sporadic lymphangioleiomyomatosis (n=5).
 
 The key eligibility requirements for this trial were at least one angiomyolipoma of ≥3 cm in longest diameter on CT/MRI based on local radiology assessment, no immediate indication for surgery, and age ≥18 years.
 Patients received daily oral AFINITOR 10 mg or matching placebo until disease progression or unacceptable toxicity.
@@ -187,8 +187,8 @@ No patient underwent a nephrectomy for angiomyolipoma progression and one patien
 
 ## 14.5 Subependymal Giant Cell Astrocytoma with Tuberous Sclerosis Complex
 
-Study 1 was a randomized (2:1), double-blind, placebo-controlled trial of AFINITOR conducted in 117 pediatric and adult patients with subependymal giant cell astrocytoma (SEGA) and tuberous sclerosis complex (TSC).
-Eligible patients had at least one SEGA lesion ≥1.0 cm in longest diameter on MRI based on local radiology assessment and one or more of the following: serial radiological evidence of SEGA growth, a new SEGA lesion ≥1 cm in longest diameter, or new or worsening hydrocephalus.
+A randomized (2:1), double-blind, placebo-controlled trial (EXIST-1, NCT00789828) of AFINITOR was conducted in 117 pediatric and adult patients with subependymal giant cell astrocytoma (SEGA) and tuberous sclerosis complex (TSC).
+Eligible patients had at least one SEGA lesion ≥ 1.0 cm in longest diameter on MRI based on local radiology assessment and one or more of the following: serial radiological evidence of SEGA growth, a new SEGA lesion ≥ 1 cm in longest diameter, or new or worsening hydrocephalus.
 Patients randomized to the treatment arm received AFINITOR tablets at a starting dose of 4.5 mg/m2 daily, with subsequent dose adjustments as needed to achieve and maintain everolimus trough concentrations of 5 to 15 ng/mL as tolerated.
 AFINITOR/matched placebo treatment continued until disease progression or unacceptable toxicity.
 MRI scans for disease assessment were obtained at baseline, 12, 24, and 48 weeks, and annually thereafter.
@@ -233,14 +233,14 @@ By four years after the last patient was enrolled, a total of 64 of the 111 pati
 The median time to SEGA response was 5.3 months (range: 2.5 to 33.1 months).
 Thirteen of the 111 patients treated with AFINITOR had documented disease progression by the end of the follow-up period and no patient required surgical intervention for SEGA during the course of the study.
 
-Study 2 was an open-label, single-arm trial conducted to evaluate the safety and antitumor activity of AFINITOR 3.0 mg/m2/orally once daily in patients with SEGA and TSC.
+Study 2485 (NCT00411619) was an open-label, single-arm trial conducted to evaluate the safety and antitumor activity of AFINITOR 3.0 mg/m2/orally once daily in patients with SEGA and TSC.
 Serial radiological evidence of SEGA growth was required for entry.
 Tumor assessments were performed every 6 months for 60 months after the last patient was enrolled or disease progression, whichever occurred earlier.
 The major efficacy outcome measure was the reduction in volume of the largest SEGA lesion with 6 months of treatment, as assessed via independent central radiology review.
-Progression was defined as an increase in volume of the largest SEGA lesion over baseline that was ≥25% over the nadir observed on study.
+Progression was defined as an increase in volume of the largest SEGA lesion over baseline that was ≥ 25% over the nadir observed on study.
 
-Study 2 enrolled 28 patients who received AFINITOR for a median duration of 5.7 years (range: 5 months to 6.9 years); 23 of 28 patients (82%) remained on AFINITOR for at least 5 years.
-Across the study population, the median age was 11 years (range 3-34), 61% male, 86% Caucasian.
+Study 2485 enrolled 28 patients who received AFINITOR for a median duration of 5.7 years (range: 5 months to 6.9 years); 23 of 28 patients (82%) remained on AFINITOR for at least 5 years.
+Across the study population, the median age was 11 years (range 3 to 34), 61% male, 86% Caucasian.
 
 At the primary analysis, 9 of 28 patients [32% (95% CI: 16% to 52%)] had an objective response at 6 months, defined as at least a 50% decrease in volume of the largest SEGA lesion.
 At the completion of the study, the median duration of durable response was 12 months (range 3 months to 6.3 years).

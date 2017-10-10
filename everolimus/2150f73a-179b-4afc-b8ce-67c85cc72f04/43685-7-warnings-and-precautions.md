@@ -45,11 +45,13 @@ Prophylaxis for PJP should be considered when concomitant use of corticosteroids
 Patients taking concomitant ACE inhibitor therapy may be at increased risk for angioedema (e.g., swelling of the airways or tongue, with or without respiratory impairment).
 In a pooled analysis of randomized double-blind oncology clinical trials, the incidence of angioedema in patients taking everolimus with an ACE inhibitor was 6.8% compared to 1.3% in the control arm with an ACE inhibitor.
 
-## 5.4 Oral Ulceration
+## 5.4 Stomatitis
 
-Mouth ulcers, stomatitis, and oral mucositis have occurred in patients treated with AFINITOR at an incidence ranging from 44%-78% across the clinical trial experience.
+Stomatitis, including mouth ulcers and oral mucositis, has occurred in patients treated with AFINITOR at an incidence ranging from 44%-78% across the clinical trial experience.
 Grade 3 or 4 stomatitis was reported in 4%-9% of patients [see Adverse Reactions (6.1, 6.2, 6.3, 6.4, 6.5)].
-In such cases, topical treatments are recommended, but alcohol-, hydrogen peroxide-, iodine-, or thyme- containing mouthwashes should be avoided as they may exacerbate the condition.
+Stomatitis most often occurs within the first 8 weeks of treatment.
+When starting AFINITOR, initiating dexamethasone alcohol-free oral solution as a swish and spit mouthwash reduces the incidence and severity of stomatitis [see Adverse Reactions (6.1) and Use in Specific Populations (8.4)].
+If stomatitis does occur, mouthwashes and/or other topical treatments are recommended, but alcohol-, hydrogen peroxide-, iodine-, or thyme- containing products should be avoided as they may exacerbate the condition [see Dosage and Administration (2.2)].
 Antifungal agents should not be used unless fungal infection has been diagnosed [see Drug Interactions (7.1)].
 
 ## 5.5 Renal Failure
@@ -64,7 +66,7 @@ Exercise caution with the use of AFINITOR in the peri-surgical period.
 
 ## 5.7 Geriatric Patients
 
-In the randomized advanced hormone receptor-positive, HER2-negative breast cancer study, the incidence of deaths due to any cause within 28 days of the last AFINITOR dose was 6% in patients ≥ 65 years of age compared to 2% in patients < 65 years of age.
+In the randomized advanced hormone receptor-positive, HER2-negative breast cancer study (BOLERO-2), the incidence of deaths due to any cause within 28 days of the last AFINITOR dose was 6% in patients ≥ 65 years of age compared to 2% in patients < 65 years of age.
 Adverse reactions leading to permanent treatment discontinuation occurred in 33% of patients ≥ 65 years of age compared to 17% in patients < 65 years of age.
 Careful monitoring and appropriate dose adjustments for adverse reactions are recommended [see Dosage and Administration (2.2), Use in Specific Populations (8.5)].
 
@@ -116,7 +118,8 @@ An accelerated vaccination schedule may be appropriate.
 ## 5.12 Embryo-Fetal Toxicity
 
 Based on animal studies and the mechanism of action [see Clinical Pharmacology (12.1)], AFINITOR can cause fetal harm when administered to a pregnant woman.
-In animal studies, everolimus caused embryo-fetal toxicities in rats when administered during the period of organogenesis at maternal exposures that were lower than human exposures at the recommended clinical dose of 10 mg daily.
+In animal studies, everolimus caused embryo-fetal toxicities in rats when administered during the period of organogenesis at maternal exposures that were lower than human exposures at the clinical dose of 10 mg daily.
 Advise pregnant women of the potential risk to a fetus.
 
-Advise female patients of reproductive potential to avoid becoming pregnant and to use effective contraception while using AFINITOR and for 8 weeks after ending treatment [see Use in Specific Populations (8.1, 8.3)].
+Advise female patients of reproductive potential to avoid becoming pregnant and to use effective contraception during treatment with AFINITOR and for 8 weeks after the last dose.
+Advise male patients with female partners of reproductive potential to use effective contraception during treatment with AFINITOR and for 4 weeks after the last dose [see Use in Specific Populations (8.1, 8.3)].

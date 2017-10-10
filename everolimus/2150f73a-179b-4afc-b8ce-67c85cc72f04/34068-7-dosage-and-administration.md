@@ -29,26 +29,36 @@ Table 1: AFINITOR Dose Adjustment and Management Recommendation for Adverse Reac
 
 | Adverse Reaction | Severitya | AFINITOR Dose Adjustmentb and Management Recommendations |
 | --- | --- | --- |
-| Non-infectious pneumonitis | Grade 1 Asymptomatic, radiographic findings only | No dose adjustment required. Initiate appropriate monitoring. |
-|  | Grade 2 Symptomatic, not interfering with ADLc | Consider interruption of therapy, rule out infection and consider treatment with corticosteroids until symptoms improve to ≤ Grade 1. Re-initiate AFINITOR at a lower dose. Discontinue treatment if failure to recover within 4 weeks. |
-|  | Grade 3 Symptomatic, interfering with ADLc; O2 indicated | Interrupt AFINITOR until symptoms resolve to ≤ Grade 1. Rule out infection, and consider treatment with corticosteroids. Consider re-initiating AFINITOR at a lower dose. If toxicity recurs at Grade 3, consider discontinuation. |
-|  | Grade 4 Life-threatening, ventilatory support indicated | Discontinue AFINITOR, rule out infection, and consider treatment with corticosteroids. |
-| Stomatitis | Grade 1 Minimal symptoms, normal diet | No dose adjustment required. Manage with non-alcoholic or salt water (0.9%) mouthwash several times a day. |
-|  | Grade 2 Symptomatic but can eat and swallow modified diet | Temporary dose interruption until recovery to Grade ≤1. Re-initiate AFINITOR at the same dose. If stomatitis recurs at Grade 2, interrupt dose until recovery to Grade ≤1. Re-initiate AFINITOR at a lower dose. Manage with topical analgesic mouth treatments (e.g., benzocaine, butyl aminobenzoate, tetracaine hydrochloride, menthol or phenol) with or without topical corticosteroids (i.e., triamcinolone oral paste).d |
-|  | Grade 3 Symptomatic and unable to adequately aliment or hydrate orally | Temporary dose interruption until recovery to Grade ≤1. Re-initiate AFINITOR at a lower dose. Manage with topical analgesic mouth treatments (i.e., benzocaine, butyl aminobenzoate, tetracaine hydrochloride, menthol or phenol) with or without topical corticosteroids (i.e., triamcinolone oral paste).d |
-|  | Grade 4 Symptoms associated with life-threatening consequences | Discontinue AFINITOR and treat with appropriate medical therapy. |
+| Non-infectious pneumonitis | Grade 1 Asymptomatic, clinical or diagnostic observations only; intervention not indicated | No dose adjustment required. Initiate appropriate monitoring. |
+|  | Grade 2 Symptomatic, medical intervention indicated; limiting instrumental ADLc | Consider interruption of therapy, rule out infection and consider treatment with corticosteroids until symptoms improve to Grade ≤ 1. Re-initiate treatment at a lower dose. Discontinue treatment if failure to recover within 4 weeks. |
+|  | Grade 3 Severe symptoms; limiting self-care ADLc; O2 indicated | Interrupt treatment until symptoms resolve to Grade ≤1. Rule out infection and consider treatment with corticosteroids. Consider re-initiating treatment at a lower dose. If toxicity recurs at Grade 3, consider discontinuation. |
+|  | Grade 4 Life-threatening respiratory compromise; urgent intervention indicated (e.g., tracheotomy or intubation) | Discontinue treatment, rule out infection, and consider treatment with corticosteroids. |
+| Stomatitis | Grade 1 Asymptomatic or mild symptoms | No dose adjustment required. Manage with non-alcoholic or salt water (0.9%) mouthwash several times a day. |
+|  | Grade 2 Moderate pain; not interfering with oral intake; modified diet indicated | Temporary dose interruption until recovery to Grade ≤1. Re-initiate treatment at the same dose. If stomatitis recurs at Grade 2, interrupt dose until recovery to Grade ≤1. Re-initiate treatment at a lower dose. Manage with topical analgesic mouth treatments (e.g., benzocaine, butyl aminobenzoate, tetracaine hydrochloride, menthol or phenol) with or without topical corticosteroids (i.e., triamcinolone oral paste)d. |
+|  | Grade 3 Severe pain; interfering with oral intake | Temporary dose interruption until recovery to Grade ≤ 1. Re-initiate treatment at a lower dose. Manage with topical analgesic mouth treatments (i.e., benzocaine, butyl aminobenzoate, tetracaine hydrochloride, menthol or phenol) with or without topical corticosteroids (i.e., triamcinolone oral paste)d. |
+|  | Grade 4 Life-threatening consequences; urgent intervention indicated | Discontinue treatment and treat with appropriate medical therapy. |
 | Other non-hematologic toxicities (excluding metabolic events) | Grade 1 | If toxicity is tolerable, no dose adjustment required. Initiate appropriate medical therapy and monitor. |
-|  | Grade 2 | If toxicity is tolerable, no dose adjustment required. Initiate appropriate medical therapy and monitor. If toxicity becomes intolerable, temporary dose interruption until recovery to Grade ≤1. Reinitiate AFINITOR at the same dose. If toxicity recurs at Grade 2, interrupt AFINITOR until recovery to Grade ≤1. Reinitiate AFINITOR at a lower dose. |
-|  | Grade 3 | Temporary dose interruption until recovery to Grade ≤1. Initiate appropriate medical therapy and monitor. Consider reinitiating AFINITOR at a lower dose. If toxicity recurs at Grade 3, consider discontinuation. |
-|  | Grade 4 | Discontinue AFINITOR and treat with appropriate medical therapy. |
+|  | Grade 2 | If toxicity is tolerable, no dose adjustment required. Initiate appropriate medical therapy and monitor. If toxicity becomes intolerable, temporary dose interruption until recovery to Grade ≤1. Re-initiate treatment at the same dose. If toxicity recurs at Grade 2, interrupt treatment until recovery to Grade ≤1. Re-initiate treatment at a lower dose. |
+|  | Grade 3 | Temporary dose interruption until recovery to Grade ≤ 1. Initiate appropriate medical therapy and monitor. Consider re-initiating treatment at a lower dose. If toxicity recurs at Grade 3, consider discontinuation. |
+|  | Grade 4 | Discontinue treatment and treat with appropriate medical therapy. |
 | Metabolic events (e.g. hyperglycemia, dyslipidemia) | Grade 1 | No dose adjustment required. Initiate appropriate medical therapy and monitor. |
 |  | Grade 2 | No dose adjustment required. Manage with appropriate medical therapy and monitor. |
-|  | Grade 3 | Temporary dose interruption. Reinitiate AFINITOR at a lower dose. Manage with appropriate medical therapy and monitor. |
-|  | Grade 4 | Discontinue AFINITOR and treat with appropriate medical therapy. |
-| a Severity grade description: 1 = mild symptoms; 2 = moderate symptoms; 3 = severe symptoms; 4 = life-threatening symptoms. |  |  |
+|  | Grade 3 | Temporary dose interruption. Re-initiate treatment at a lower dose. Manage with appropriate medical therapy and monitor. |
+|  | Grade 4 | Discontinue treatment and treat with appropriate medical therapy. |
+| Thrombocytopenia (platelet count decreased) | Grade 1 (< LLNe - 75,000/mm3; < LLNe - 75.0 x 109/L) | No dose adjustment required. |
+|  | Grade 2 (< 75,000 - 50,000/mm3; < 75.0 - 50.0 x 109/L) | Temporary dose interruption until recovery to Grade ≤ 1. Re-initiate treatment at the same dose. |
+|  | Grade 3 (< 50,000 - 25,000/mm3; < 50.0 - 25.0 x 109/L) OR Grade 4 (< 25,000/mm3; < 25.0 x 109/L) | Temporary dose interruption until recovery to Grade ≤ 1. Re-initiate treatment at a lower dose. |
+| Neutropenia (neutrophil count decreased) | Grade 1 (< LLNe – 1,500/mm3;; < LLNe – 1.5 x 109/L) OR Grade 2 (< 1,500 – 1,000/mm3; < 1.5 – 1.0 x 109/L) | No dose adjustment required. |
+|  | Grade 3 (< 1,000 - 500/mm3; < 1.0 - 0.5 x 109/L) | Temporary dose interruption until recovery to Grade ≤ 2. Re-initiate treatment at the same dose. |
+|  | Grade 4 (< 500/mm3; < 0.5 x 109/L) | Temporary dose interruption until recovery to Grade ≤ 2. Re-initiate treatment at a lower dose. |
+| Febrile neutropenia | Grade 3 ANCf < 1,000/mm3 with a single temperature of > 38.3ºC (101ºF) or a sustained temperature of ≥ 38ºC (100.4ºF) for more than one hour | Temporary dose interruption until recovery to Grade ≤ 2 and no fever. Re-initiate treatment at a lower dose. |
+|  | Grade 4 Life-threatening consequences; urgent intervention indicated | Discontinue treatment. |
+| a Severity grade description: 1 = mild symptoms; 2 = moderate symptoms; 3 = severe symptoms; 4 = life-threatening symptoms. Grading based on National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) v4.03. |  |  |
 | b If dose reduction is required, the suggested dose is approximately 50% lower than the dose previously administered. |  |  |
 | c Activities of daily living (ADL) |  |  |
 | d Avoid using agents containing alcohol, hydrogen peroxide, iodine, and thyme derivatives in management of stomatitis as they may worsen mouth ulcers. |  |  |
+| e Lower limit of normal (LLN) |  |  |
+| f Absolute Neutrophil Count (ANC) |  |  |
 
 Hepatic Impairment
 
@@ -148,7 +158,7 @@ Avoid the use of concomitant strong CYP3A4/PgP inducers (e.g., phenytoin, carbam
 For patients who require treatment with a strong CYP3A4/PgP inducer:
 
 - Double the dose of AFINITOR Tablets or AFINITOR DISPERZ and assess tolerability [see Dosage and Administration (2.3)].
-- Assess the everolimus trough concentration 2 weeks after doubling the dose and adjust the dose if necessary to maintain a trough concentration of 5 to 15 ng/mL [see Dosage and Administration (2.3, 2.4)].
+- Assess the everolimus trough concentration approximately 2 weeks after doubling the dose and adjust the dose if necessary to maintain a trough concentration of 5 to 15 ng/mL [see Dosage and Administration (2.3, 2.4)].
 - Return the AFINITOR Tablets or AFINITOR DISPERZ dose to that used prior to initiating the strong CYP3A4/PgP inducer if the strong inducer is discontinued, and assess the everolimus trough concentrations approximately 2 weeks later [see Dosage and Administration (2.3, 2.4)].
 
 Do not ingest foods or nutritional supplements (e.g., St. John’s Wort (Hypericum perforatum)) that are known to induce cytochrome P450 activity.

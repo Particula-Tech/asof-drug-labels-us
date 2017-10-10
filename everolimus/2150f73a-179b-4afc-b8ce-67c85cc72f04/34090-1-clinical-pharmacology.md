@@ -75,8 +75,7 @@ In a population pharmacokinetic analysis which included 170 patients with advanc
 Patients with Hepatic Impairment
 
 The safety, tolerability and pharmacokinetics of AFINITOR were evaluated in a single oral dose study of everolimus in subjects with impaired hepatic function relative to subjects with normal hepatic function.
-Compared to normal subjects (N=13), there was a 1.8-fold, 3.2-fold, and 3.6-fold increase in exposure (i.e.
-AUC) for subjects with mild (Child-Pugh class A, n=6), moderate (Child-Pugh class B, n=9), and severe (Child-Pugh class C, n=6) hepatic impairment, respectively.
+Compared to normal subjects (N=13), there was a 1.8-fold, 3.2-fold, and 3.6-fold increase in exposure (i.e., AUC) for subjects with mild (Child-Pugh class A, n=6), moderate (Child-Pugh class B, n=9), and severe (Child-Pugh class C, n=6) hepatic impairment, respectively.
 In another study, the average AUC of everolimus in eight subjects with moderate hepatic impairment (Child-Pugh class B) was twice that found in eight subjects with normal hepatic function.
 
 For advanced HR+ BC, advanced NET, advanced RCC, and renal angiomyolipoma with TSC patients with severe hepatic impairment, AFINITOR may be used at a reduced dose if the desired benefit outweighs the risk.

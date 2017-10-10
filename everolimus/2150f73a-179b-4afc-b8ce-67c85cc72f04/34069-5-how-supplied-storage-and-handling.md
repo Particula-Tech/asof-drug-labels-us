@@ -60,7 +60,7 @@ Blisters of 28 tablets…………………………………………………�
 
 Each carton contains 4 blister cards of 7 tablets each
 
-Store AFINITOR (everolimus) Tablets and AFINITOR DISPERZ (everolimus tablets for oral suspension) at 25°C (77°F); excursions permitted between 15°–30°C (59°–86°F).
+Store AFINITOR (everolimus) Tablets and AFINITOR DISPERZ (everolimus tablets for oral suspension) at 25°C (77°F); excursions permitted between 15°C to 30°C (59°F to 86°F).
 See USP Controlled Room Temperature.
 Store in the original container, protect from light and moisture.
 Keep this and all drugs out of the reach of children.

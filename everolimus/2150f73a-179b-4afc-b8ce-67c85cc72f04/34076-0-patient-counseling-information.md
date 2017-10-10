@@ -19,10 +19,10 @@ Angioedema with Concomitant use of Angiotensin-Converting Enzyme (ACE) Inhibitor
 Inform patients that they are more susceptible to angioedema if concomitantly taking angiotensin-converting enzyme (ACE) inhibitors.
 Patients should be aware of any signs or symptoms of angioedema and seek prompt medical attention [see Warnings and Precautions (5.3)].
 
-Oral Ulceration
+Stomatitis
 
-Inform patients of the possibility of developing mouth ulcers, stomatitis, and oral mucositis.
-In such cases, mouthwashes and/or topical treatments are recommended, but these should not contain alcohol, peroxide, iodine, or thyme [see Warnings and Precautions (5.4)].
+Inform patients of the possibility of developing stomatitis.
+In such cases, mouthwashes and/or other topical treatments are recommended, but these should not contain alcohol, peroxide, iodine, or thyme [see Dosage and Administration (2.2) and Warnings and Precautions (5.4)].
 
 Renal Failure
 
@@ -51,8 +51,9 @@ Embryo-Fetal Toxicity
 
 AFINITOR can cause fetal harm if taken during pregnancy.
 Advise a pregnant woman of the potential risk to a fetus.
-Advise females of reproductive potential to use effective contraception during treatment with AFINITOR, and for 8 weeks after the last dose.
-Advise patients to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions (5.12) and Use in Specific Populations (8.1, 8.3)].
+Advise females of reproductive potential to use effective contraception during treatment and for 8 weeks after the last dose of AFINITOR.
+Advise patients to inform their healthcare provider of a known or suspected pregnancy.
+Advise males with female partners of reproductive potential to use effective contraception during treatment and for 4 weeks after the last dose of AFINITOR [see Warnings and Precautions (5.12) and Use in Specific Populations (8.1, 8.3)].
 
 Lactation
 
@@ -64,7 +65,7 @@ Advise males and females of reproductive potential of the potential risk for imp
 
 Safe Handling Practices for AFINITOR DISPERZ
 
-Advise patients and their caregivers to read and carefully follow the FDA approved AFINITOR DISPERZ “Instructions for Use”.
+Advise patients and their caregivers to read and carefully follow the FDA approved AFINITOR DISPERZ “Instructions for Use."
 
 Dosing Instructions
 
@@ -81,4 +82,4 @@ Warn patients to not take 2 doses to make up for the one that they missed.
 
 Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
 
-T2016-51 June 2016
+T2017-97
