@@ -11,7 +11,7 @@ Administer AFREZZA at the beginning of the meal.
 
 Dosage adjustment may be needed when switching from another insulin to AFREZZA [see Warnings and Precautions (5.2)].
 
-Starting Mealtime Dose:
+Step 1: Starting Mealtime Dose
 
 - Insulin Naïve Individuals: Start on 4 units of AFREZZA at each meal.
 - Individuals Using Subcutaneous Mealtime (Prandial) Insulin: Determine the appropriate AFREZZA dose for each meal by converting from the injected dose using Figure 1.
@@ -19,10 +19,7 @@ Starting Mealtime Dose:
   Convert each estimated injected mealtime dose to an appropriate AFREZZA dose using Figure 1.
   Administer half of the total daily injected pre-mixed dose as an injected basal insulin dose.
 
-Figure 1.
-Mealtime AFREZZA Dose Conversion Table
-
-Mealtime Dose Adjustment
+Step 2: Mealtime Dose Adjustment
 
 Adjust the dosage of AFREZZA based on the individual's metabolic needs, blood glucose monitoring results and glycemic control goal.
 
@@ -30,6 +27,9 @@ Dosage adjustments may be needed with changes in physical activity, changes in m
 
 Carefully monitor blood glucose control in patients requiring high doses of AFREZZA.
 If, in these patients, blood glucose control is not achieved with increased AFREZZA doses, consider use of subcutaneous mealtime insulin.
+
+Figure 1.
+Mealtime AFREZZA Starting Dose Conversion Table
 
 ## 2.3 AFREZZA Administration for Doses Exceeding 12 units
 

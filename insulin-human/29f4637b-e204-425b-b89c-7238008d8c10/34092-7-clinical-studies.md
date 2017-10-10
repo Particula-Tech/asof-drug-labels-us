@@ -14,9 +14,9 @@ Following a 4-week basal insulin optimization period, 344 patients were randomiz
 Mealtime insulin doses were titrated to glycemic goals for the first 12 weeks and kept stable for the last 12 weeks of the study.
 At Week 24, treatment with basal insulin and mealtime AFREZZA provided a mean reduction in HbA1c that met the pre-specified non-inferiority margin of 0.4%.
 AFREZZA provided less HbA1c reduction than insulin aspart, and the difference was statistically significant.
-More subjects in the insulin aspart group achieved the HbA1c target of ≤7% (Table 4).
+More subjects in the insulin aspart group achieved the HbA1c target of ≤7% (Table 5).
 
-Table 4.
+Table 5.
 Results at Week 24 in an Active-Controlled Study of Mealtime AFREZZA plus Basal Insulin in Adults with Type 1 Diabetes
 
 | Efficacy Parameter | AFREZZA + Basal Insulin (N=174) | Insulin Aspart + Basal Insulin (N=170) |
@@ -39,9 +39,9 @@ A total of 479 adult patients with type 2 diabetes inadequately controlled on op
 Following a 6-week run-in period, 353 patients were randomized to AFREZZA (n=177) or an inhaled placebo powder without insulin (n=176).
 Insulin doses were titrated for the first 12 weeks and kept stable for the last 12 weeks of the study.
 OADs doses were kept stable.
-At Week 24, treatment with AFREZZA plus OADs provided a mean reduction in HbA1c that was statistically significantly greater compared to the HbA1c reduction observed in the placebo group (Table 5).
+At Week 24, treatment with AFREZZA plus OADs provided a mean reduction in HbA1c that was statistically significantly greater compared to the HbA1c reduction observed in the placebo group (Table 6).
 
-Table 5.
+Table 6.
 Results at Week 24 in a Placebo-Controlled Study of AFREZZA in Adults with Type 2 Diabetes Inadequately Controlled on Oral Antidiabetic Agents
 
 | Efficacy Parameter | AFREZZA + Oral Anti-Diabetic Agents (N=177) | Placebo + Oral Anti-Diabetic Agents (N=176) |

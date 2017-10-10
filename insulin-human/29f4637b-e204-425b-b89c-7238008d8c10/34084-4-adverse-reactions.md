@@ -11,7 +11,7 @@ The following serious adverse reactions are described below and elsewhere in the
 
 ## 6.1 Clinical Trials Experience
 
-Because clinical trials are conducted under widely varying designs, the incidence of adverse reactions reported in one clinical trial may not be easily compared to the incidence reported in another clinical trial, and may not reflect what is observed in clinical practice.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 The data described below reflect exposure of 3017 patients to AFREZZA and include 1026 patients with type 1 diabetes and 1991 patients with type 2 diabetes.
 The mean exposure duration was 8.17 months for the overall population and 8.16 months and 8.18 months for type 1 and 2 diabetes patients, respectively.
@@ -31,9 +31,9 @@ These adverse reactions were not present at baseline, occurred more commonly on 
 Table 1.
 Common Adverse Reactions in Patients with Type 2 Diabetes Mellitus (excluding Hypoglycemia) Treated with AFREZZA
 
-|  | (n = 290) | (n = 1991) | (n=1363) |
+| (n = 290) | (n = 1991) | (n=1363) |  |
 | --- | --- | --- | --- |
-|  | PlaceboCarrier particle without insulin was used as placebo | AFREZZA | Non-placebo comparators |
+|  | Placebo* | AFREZZA | Non-placebo comparators |
 | Cough | 19.7% | 25.6% | 5.4% |
 | Throat pain or irritation | 3.8% | 4.4% | 0.9% |
 | Headache | 2.8% | 3.1% | 1.8% |
@@ -41,6 +41,9 @@ Common Adverse Reactions in Patients with Type 2 Diabetes Mellitus (excluding Hy
 | Productive cough | 1.0% | 2.2% | 0.9% |
 | Fatigue | 0.7% | 2.0% | 0.6% |
 | Nausea | 0.3% | 2.0% | 1.0% |
+| *Carrier particle without insulin was used as placebo [see Description (11.1)] |  |  |  |
+
+​
 
 Table 2 shows common adverse reactions, excluding hypoglycemia, associated with the use of AFREZZA in the pool of active-controlled trials in type 1 diabetes patients.
 These adverse reactions were not present at baseline, occurred more commonly on AFREZZA than on comparator, and occurred in at least 2% of patients treated with AFREZZA.

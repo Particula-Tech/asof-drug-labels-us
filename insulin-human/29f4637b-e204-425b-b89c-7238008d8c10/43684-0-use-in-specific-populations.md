@@ -1,22 +1,56 @@
 # 8 USE IN SPECIFIC POPULATIONS
 
-## 8.1 Pregnancy Teratogenic Effects: Pregnancy Category C
+## 8.1 Pregnancy
 
-AFREZZA has not been studied in pregnant women.
-AFREZZA should not be used during pregnancy unless the potential benefit justifies the potential risk to the fetus.
+Risk Summary
 
-In pregnant rats given subcutaneous doses of 10, 30, and 100 mg/kg/day of carrier particles (vehicle without insulin) from gestation day 6 through 17 (organogenesis), no major malformations were observed at up to 100 mg/kg/day (a systemic exposure 14–21 times the human systemic exposure, resulting from the maximum recommended daily dose of 99 mg AFREZZA based on AUC).
+Limited available data with AFREZZA use in pregnant women are insufficient to determine drug-associated risks for adverse developmental outcomes.
+Available information from published studies with human insulin use during pregnancy has not reported a clear association with human insulin and adverse developmental outcomes (see Data).
+There are risks to the mother and fetus associated with poorly controlled diabetes in pregnancy (see Clinical Considerations).
+In animal reproduction studies, there were no adverse developmental outcomes with subcutaneous administration of carrier particles (vehicle without insulin) to pregnant rats during organogenesis at doses 14-21 times the maximum recommended daily dose (see Data).
 
-In pregnant rabbits given subcutaneous doses of 2, 10, and 100 mg/kg/day of carrier particles (vehicle without insulin) from gestation day 7 through 19 (organogenesis), adverse maternal effects were observed at all dose groups (at human systemic exposure following a 99 mg AFREZZA dose, based on AUC).
+The estimated background risk of major birth defects is 6-10% in women with pre-gestational diabetes with HbA1c >7 and has been reported to be as high as 20-25% in women with HbA1c >10.
+The estimated background risk of miscarriage for the indicated population is unknown.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 
-In pregnant rats given subcutaneous doses of 10, 30, and 100 mg/kg/day of carrier particles (vehicle without insulin) from gestation day 7 through lactation day 20 (weaning), decreased epididymis and testes weights, however, no decrease in fertility was noted, and impaired learning were observed in pups at ≥ 30 mg/kg/day (a systemic exposure 6 times human systemic exposure at the maximum daily AFREZZA dose of 99 mg based on AUC).
+Clinical Considerations
 
-## 8.3 Nursing Mothers
+Disease-associated maternal and/or embryo/fetal risk
 
-Many drugs are excreted in human milk.
-A study in rats indicated that the carrier is excreted in milk at approximately 10% of maternal exposure levels.
-It is therefore highly likely that the insulin and carrier in AFREZZA is excreted in human milk.
-A decision should be made whether to discontinue nursing or suspend use of the drug since AFREZZA has not been studied in lactating women.
+Poorly controlled diabetes in pregnancy increases the maternal risk for diabetic ketoacidosis, pre-eclampsia, spontaneous abortions, preterm delivery, stillbirth, and delivery complications.
+Poorly controlled diabetes increases the fetal risk for major birth defects, still birth, and macrosomia-related morbidity.
+
+Data
+
+Human Data
+
+There are limited data with AFREZZA use in pregnant women.
+Published data do not report a clear association with human insulin and major birth defects, miscarriage, or adverse maternal or fetal outcomes when human insulin is used during pregnancy.
+However, these studies cannot definitely establish the absence of any risk because of methodological limitations including small sample size and lack of blinding.
+
+Animal Data
+
+In pregnant rats given subcutaneous doses of 10, 30, and 100 mg/kg/day of carrier particles (vehicle without insulin) from gestation day 6 through 17 (organogenesis), no major malformations were observed at up to 100 mg/kg/day (a systemic exposure 14-21 times the human systemic exposure, resulting from the maximum recommended daily dose of 99 mg AFREZZA based on AUC).
+
+In pregnant rabbits given subcutaneousdoses of 2, 10, and 100 mg/kg/day of carrier particles (vehicle without insulin) from gestation day 7 through 19 (organogenesis), adverse maternal effects were observed at all dose groups (at human systemic exposure following a 99 mg AFREZZA dose, based on AUC).
+
+In pregnant rats given subcutaneous doses of 10, 30, and 100 mg/kg/day of carrier particles (vehicle without insulin) from gestation day 7 through lactation day 20 (weaning), decreased epididymis and testes weights, however, no decrease in fertility was noted, and impaired learning were observed in pups at ≥30 mg/kg/day (a systemic exposure 6 times human systemic exposure at the maximum daily AFREZZAdose of 99 mg based on AUC).
+
+## 8.2 Lactation
+
+Risk Summary
+
+There are no data on the presence of AFREZZA in human milk, the effects on the breastfed infant, or the effects on milk production.
+One small published study reported that exogenous insulin was present in human milk.
+No adverse effects in infants were noted.
+The carrier particles are present in rat milk (see Data).
+Potential adverse effects that are related to inhalational administration of AFREZZA are unlikely to be associated with potential exposure of AFREZZA through breast milk.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for AFREZZA and any potential adverse effects on the breastfed infant from AFREZZA or from the underlying maternal condition.
+
+Data
+
+Subcutaneous administration of the carrier particle in lactating rats resulted in excretion of the carrier particle in rat milk at levels that were approximately 10% of the maternal exposure.
+Given the results of the rat study, it is highly likely that the insulin and carrier in AFREZZA are excreted in human milk.
 
 ## 8.4 Pediatric Use
 

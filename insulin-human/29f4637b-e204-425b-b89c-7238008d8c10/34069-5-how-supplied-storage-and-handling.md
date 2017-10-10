@@ -19,7 +19,6 @@ AFREZZA is available in the following configurations:
 - NDC 47918-874-90, AFREZZA (insulin human) Inhalation Powder: 90 − 4 unit cartridges and 2 inhalers
 - NDC 47918-878-90, AFREZZA (insulin human) Inhalation Powder: 90 − 8 unit cartridges and 2 inhalers
 - NDC 47918-891-90, AFREZZA (insulin human) Inhalation Powder: 90 − 12 unit cartridges and 2 inhalers
-- NDC 47918-884-63, AFREZZA (insulin human) Inhalation Powder: 90 cartridges; 60 – 4 unit cartridges and 30 − 8 unit cartridges and 2 inhalers
 - NDC 47918-882-36, AFREZZA (insulin human) Inhalation Powder: 90 cartridges; 30 – 4 unit cartridges and 60 − 8 unit cartridges and 2 inhalers
 - NDC 47918-894-63, AFREZZA (insulin human) Inhalation Powder: 90 cartridges; 60 – 8 unit cartridges and 30 - 12 unit cartridges and 2 inhalers
 - NDC 47918-880-18, AFREZZA (insulin human) Inhalation Powder: 180 cartridges; 90 – 4 unit cartridges and 90 - 8 unit cartridges and 2 inhalers (Titration Pack)

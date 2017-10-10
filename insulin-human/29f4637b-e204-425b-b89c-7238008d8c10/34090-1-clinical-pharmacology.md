@@ -7,29 +7,48 @@ Insulin inhibits lipolysis in adipocytes, inhibits proteolysis, and enhances pro
 
 ## 12.2 Pharmacodynamics
 
-The pharmacodynamic profile for orally inhaled AFREZZA 8 units relative to subcutaneously administered insulin lispro 8 units from a study in 12 patients with type 1 diabetes is shown in Figure 3(A).
-The median time to maximum effect of AFREZZA (measured by the peak rate of glucose infusion) was approximately 53 minutes (standard deviation of 74 minutes) and the effect then declined to near baseline levels by about 160 minutes.
+The time course of insulin action (i.e., glucose lowering) may vary considerably in different individuals or within the same individual.
+The average pharmacodynamic profile [i.e., glucose lowering effect measured by glucose infusion rate (GIR) over time in a euglycemic clamp study] for a single 4, 12, and 48 unit dose of AFREZZA in 30 patients with type 1 diabetes is shown in Figure 3(A), and key characteristics surrounding the timing of the effects are described in Table 4:
 
-| Figure 3. Baseline-Corrected Glucose Infusion Rate (A) and Baseline-Corrected Serum Insulin Concentrations (B) after Administration of AFREZZA or Subcutaneous Insulin Lispro in Type 1 Diabetes PatientsDespite the faster absorption of insulin (PK) from Afrezza, the onset of activity (PD) was comparable to insulin lispro. |
-| --- |
+Table 4.
+Timing of insulin effect (i.e., mean pharmacodynamics effect) after administration for a single dose of 4, 12, and 48 units of AFREZZA in patients (N=30) with T1DM and corresponding to the data shown in Figure 3(A)
 
-In a study of 32 healthy subjects, the pharmacodynamic effect of AFREZZA, measured as area under the glucose infusion rate - time curve (AUC-GIR) from an euglycemic clamp, increased in a less than dose-proportional manner.
-This effect has been observed for subcutaneously administered insulins, but it is unknown if the diminishing pharmacodynamic benefit at higher dosage of AFREZZA parallels that which is seen with subcutaneously administered insulin.
+| Parameter for Insulin Effect | AFREZZA 4 units | AFREZZA 12 units | AFREZZA 48 units |
+| --- | --- | --- | --- |
+| Time to first measurable effect | ~12 minutes | ~12 minutes | ~12 minutes |
+| Time to peak effect | ~35 minutes | ~45 minutes | ~55 minutes |
+| Time for effect to return to baseline | ~90 minutes | ~180 minutes | ~270 minutes |
+
+Figure 3.
+Mean Insulin Effect (Baseline-Corrected Glucose Infusion Rate; A) and Pharmacokinetic (Baseline-Corrected Serum Insulin Concentrations; B) profiles after Administration of AFREZZA 4, 12, and 48 units in Type 1 Diabetes Patients (N=30)
+
+On average, the pharmacodynamics effect of AFREZZA, measured as area under the glucose infusion rate – time curve (AUC GIR) increased linearly with doses up to 48 units (106, 387, and 1581 mg/kg for 4, 12, and 48 units doses, respectively).
+
+Intrapatient variability in AUC GIR and GIRmax is approximately 28% (95% CI 21-42%) and 27% (95% CI 20-40%), respectively.
 
 ## 12.3 Pharmacokinetics
 
-The insulin contained in AFREZZA is regular human insulin.
-Following pulmonary absorption into systemic circulation, the metabolism and elimination are comparable to regular human insulin.
+Absorption
 
-Absorption: The pharmacokinetic profiles for orally inhaled AFREZZA 8 units relative to subcutaneously administered insulin lispro 8 units from a study in 12 patients with type 1 diabetes are shown in Figure 3(B).
-The maximum serum insulin concentration was reached by 12–15 minutes after inhalation of AFREZZA 8 units and serum insulin concentrations declined to baseline by approximately 180 minutes.
-However, the faster absorption of insulin from Afrezza [see Figure 3(B)] did not result in a faster onset of activity compared to insulin lispro [see Figure 3(A)].
+The pharmacokinetic profiles for orally inhaled AFREZZA 4, 12, and 48 units from a study in 30 patients with type 1 diabetes are shown in Figure 3(B).
+The time to maximum serum insulin concentration ranges from 10-20 minutes after oral inhalation of 4 to 48 units of AFREZZA.
+Serum insulin concentrations declined to baseline by approximately 60 to 240 minutes for these dose levels.
 
-Disposition: Systemic insulin disposition (median terminal half-life) following oral inhalation of AFREZZA 4 and 32 units was 28–39 minutes, and 145 minutes for subcutaneous regular human insulin 15 units.
+Disposition
+
+Systemic insulin disposition (apparent terminal half-life) following oral inhalation of 4 to 48 units of AFREZZA was 120-206 minutes.
+
+Variability
+
+Intrapatient variability in insulin exposure measured by AUC and Cmax is approximately 16% (95% CI 12-23%) and 21% (95% CI 16-30%), respectively.
+
+Metabolism and Elimination
+
+The metabolism and elimination of AFREZZA are comparable to regular human insulin.
 
 Carrier Particles
 
-Clinical pharmacology studies showed that carrier particles [see Description (11)] are not metabolized and are eliminated unchanged in the urine following the lung absorption.
+Clinical pharmacology studies showed that carrier particles [see Description (11.1)] are not metabolized and are eliminated unchanged in the urine following the lung absorption.
 Following oral inhalation of AFREZZA, a mean of 39% of the inhaled dose of carrier particles was distributed to the lungs and a mean of 7% of the dose was swallowed.
 The swallowed fraction was not absorbed from the GI tract and was eliminated unchanged in the feces.
 

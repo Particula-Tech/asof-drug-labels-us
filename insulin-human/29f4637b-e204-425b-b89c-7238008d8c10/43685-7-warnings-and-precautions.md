@@ -64,7 +64,7 @@ In patients with active lung cancer, a prior history of lung cancer, or in patie
 ## 5.6 Diabetic Ketoacidosis
 
 In clinical trials enrolling subjects with type 1 diabetes, diabetic ketoacidosis (DKA) was more common in subjects receiving AFREZZA (0.43%; n=13) than in subjects receiving comparators (0.14%; n=3).
-In patients at risk for DKA, such as those with an acute illness or infection, increase the frequency of glucose monitoring and consider delivery of insulin using an alternate route of administration if indicated [see Limitations of Use (1)].
+In patients at risk for DKA, such as those with an acute illness or infection, increase the frequency of glucose monitoring and consider delivery of insulin using an alternate route of administration if indicated [see Indications and Usage (1)].
 
 ## 5.7 Hypersensitivity Reactions
 

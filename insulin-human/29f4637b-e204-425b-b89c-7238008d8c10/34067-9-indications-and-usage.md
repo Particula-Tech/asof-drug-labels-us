@@ -2,7 +2,7 @@
 
 AFREZZA® is a rapid acting inhaled insulin indicated to improve glycemic control in adult patients with diabetes mellitus.
 
-Limitations of Use:
+Limitations of Use
 
 - AFREZZA is not a substitute for long-acting insulin.
   AFREZZA must be used in combination with long-acting insulin in patients with type 1 diabetes mellitus.
