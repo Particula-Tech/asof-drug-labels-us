@@ -13,7 +13,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 The data described below reflect exposure to CUVPOSA in 151 subjects, including 20 subjects who participated in an 8-week placebo-controlled study (Study 1) and 137 subjects who participated in a 24-week open-label study (six subjects who received CUVPOSA in the placebo-controlled study and 131 new subjects).
 
-Table 2 presents adverse reactions reported by ≥ 15% of CUVPOSA-treated subjects for the placebo-controlled clinical trial.
+Table 2 presents adverse reactions reported by ≥ 15% of CUVPOSA-treated subjects from the placebo-controlled clinical trial.
 
 Table 2: Adverse Reactions Occurring in ≥ 15% of CUVPOSA-Treated Subjects and at a Greater Frequency than Placebo in Study 1
 

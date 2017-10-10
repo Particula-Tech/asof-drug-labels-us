@@ -22,14 +22,14 @@ In the same analysis, population estimates of the apparent oral clearance (scale
 
 Absorption of CUVPOSA (fasting) was compared to that of a marketed glycopyrrolate oral tablet.
 The Cmax after oral solution administration was 23% lower compared to tablet administration and AUC0-inf was 28% lower after oral solution administration.
-Mean Cmax after oral solution administration in the fasting state was 0.318 ng/mL, and mean AUC0-24 was 1.74 ng.hr/mL.
+Mean Cmax after oral solution administration in the fasting state was 0.318 ng/mL, and mean AUC0-24 was 1.74 ng∙hr/mL.
 Mean time to maximum plasma concentration for CUVPOSA was 3.1 hours, and mean plasma half-life was 3.0 hours.
 
 In healthy adults, a high fat meal was shown to significantly affect the absorption of glycopyrrolate oral solution (10 mL, 1 mg/5 mL).
 The mean Cmax under fed high fat meal conditions was approximately 74% lower than the Cmax observed under fasting conditions.
 Similarly, mean AUC0-T was reduced by about 78% by the high fat meal compared with the fasting AUC0-T.
 A high fat meal markedly reduces the oral bioavailability of CUVPOSA.
-Therefore, CUVOPSA should be dosed at least one hour before or two hours after meals.
+Therefore, CUVPOSA should be dosed at least one hour before or two hours after meals.
 Pharmacokinetic results (mean ± SD) are described in Table 3.
 
 Table 3: Pharmacokinetic Parameters (mean±SD) for CUVPOSA, Fasting and Fed, in Healthy Adults
@@ -67,7 +67,7 @@ Population pharmacokinetic evaluation of adults and children administered IV or 
 
 Race
 
-The pharmacokinetics of glycopyrrolate by race have not been characterized.
+The pharmacokinetics of glycopyrrolate by race has not been characterized.
 
 Elderly
 

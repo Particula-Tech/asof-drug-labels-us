@@ -65,7 +65,7 @@ What should I avoid while taking CUVPOSA?
 - Avoid overheating.
   See "What are the possible side effects of CUVPOSA?"
 
-What are possible side effects of CUVPOSA?
+What are the possible side effects of CUVPOSA?
 
 CUVPOSA can cause serious side effects including:
 
@@ -75,7 +75,7 @@ CUVPOSA can cause serious side effects including:
   The dose of CUVPOSA may need to be decreased or stopped.
 - Diarrhea and intestinal blockage.
   Diarrhea can be an early symptom of a blockage in the intestine.
-  This is especially true if you child has a colostomy or ileostomy.
+  This is especially true if your child has a colostomy or ileostomy.
   Tell your doctor if your child has any diarrhea while taking CUVPOSA.
 - Problems with control of body temperature (overheating or heat stroke).
   CUVPOSA can cause your child to sweat less.
@@ -97,7 +97,7 @@ The most common side effects of CUVPOSA include:
 - headache
 - swollen sinuses (sinusitis)
 - upper respiratory tract infection
-- problem urinating, difficulty starting urination
+- problems urinating, difficulty starting urination
 
 Tell your doctor if your child has any side effect that concerns you or that does not go away.
 These are not all the possible side effects of CUVPOSA.
@@ -111,7 +111,7 @@ Store CUVPOSA between 68°F to 77°F (20°C to 25°C).
 
 Keep CUVPOSA out of the reach of children.
 
-General information and CUVPOSA:
+General information about CUVPOSA:
 
 Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
 Do not use CUVPOSA for a condition for which it was not prescribed.
@@ -136,6 +136,6 @@ Manufactured by: Mikart, Inc. Atlanta, GA 30318
 
 Manufactured for: Merz North America, Inc. Raleigh, NC 27615
 
-© 2016 Merz Pharmaceuticals, LLC CUVPOSA® is a registered trademark of Merz Pharmaceuticals, LLC
+© 2017 Merz Pharmaceuticals, LLC CUVPOSA® is a registered trademark of Merz Pharmaceuticals, LLC
 
-GLY-PPI-07 Rev 04/2016
+GLY-PPI-08 Rev 09/2017

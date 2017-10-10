@@ -27,7 +27,7 @@ Use CUVPOSA with caution in patients with conditions that are exacerbated by ant
 
 - Autonomic neuropathy
 - Renal disease
-- Ulcerative colitis – Large doses may suppress intestinal motility to the point of producing a paralytic ileus and for this reason may precipitate or aggravate "toxic megacolon", a serious complication of the disease.
+- Ulcerative colitis – Large doses may suppress intestinal motility to the point of producing a paralytic ileus and for this reason may precipitate or aggravate "toxic megacolon", a serious complication of the disease
 - Hyperthyroidism
 - Coronary heart disease, congestive heart failure, cardiac tachyarrhythmias, tachycardia, and hypertension
 - Hiatal hernia associated with reflux esophagitis, since anticholinergic drugs may aggravate this condition

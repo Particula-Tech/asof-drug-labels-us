@@ -11,13 +11,13 @@ The mTDS evaluations were recorded by parents/caregivers 3 times daily approxima
 
 Modified Teacher's Drooling Scale
 
-1= Dry: never drools 2= Mild: only the lips are wet; occasionally 3= Mild: only the lips are wet; frequently 4= Moderate: wet on lips and chin; occasionally 5= Moderate: wet on the lips and chin; frequently 6= Severe: drools to the extent that clothing becomes damp; occasionally 7= Severe: drools to the extent that clothing becomes damp; frequently 8= Profuse: clothing, hands, tray, and objects became wet; occasionally 9= Profuse: clothing, hands, tray, and objects became wet; frequently
+1= Dry: never drools 2= Mild: only the lips are wet; occasionally 3= Mild: only the lips are wet; frequently 4= Moderate: wet on the lips and chin; occasionally 5= Moderate: wet on the lips and chin; frequently 6= Severe: drools to the extent that clothing becomes damp; occasionally 7= Severe: drools to the extent that clothing becomes damp; frequently 8= Profuse: clothing, hands, tray, and objects become wet; occasionally 9= Profuse: clothing, hands, tray, and objects become wet; frequently
 
 Responders were defined as subjects with at least a 3-point reduction in mean daily mTDS scores from baseline to Week 8.
 Table 4 presents the proportion of responders at Week 8 and Figure 1 presents the mean mTDS values from baseline through Week 8.
 
 Table 4: Percentage of Responders at Week 8
 
-| CUVPOSA GROUP (N=20) | Placebo Group (N=18) |
+| CUVPOSA Group (N=20) | Placebo Group (N=18) |
 | --- | --- |
 | 15/20 (75%) | 2/18 (11%) |
