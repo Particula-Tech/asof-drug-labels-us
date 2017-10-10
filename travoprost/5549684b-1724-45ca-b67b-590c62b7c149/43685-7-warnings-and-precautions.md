@@ -8,13 +8,12 @@ Pigmentation is expected to increase as long as travoprost is administered.
 The pigmentation change is due to increased melanin content in the melanocytes rather than to an increase in the number of melanocytes.
 After discontinuation of travoprost, pigmentation of the iris is likely to be permanent, while pigmentation of the periorbital tissue and eyelash changes have been reported to be reversible in some patients.
 Patients who receive treatment should be informed of the possibility of increased pigmentation.
-The long term effects of increased pigmentation are not known.
+The long-term effects of increased pigmentation are not known.
 
 Iris color change may not be noticeable for several months to years.
 Typically, the brown pigmentation around the pupil spreads concentrically towards the periphery of the iris and the entire iris or parts of the iris become more brownish.
 Neither nevi nor freckles of the iris appear to be affected by treatment.
-While treatment with TRAVATAN Z® (travoprost ophthalmic solution) 0.004% can be continued in patients who develop noticeably increased iris pigmentation, these patients should be examined regularly.
-(see PATIENT COUNSELING INFORMATION, 17.1).
+While treatment with TRAVATAN Z® (travoprost ophthalmic solution) 0.004% can be continued in patients who develop noticeably increased iris pigmentation, these patients should be examined regularly [see Patient Counseling Information (17)].
 
 ## 5.2 Eyelash Changes
 
@@ -38,7 +37,7 @@ TRAVATAN Z® has not been evaluated for the treatment of angle-closure, inflamma
 ## 5.6 Bacterial Keratitis
 
 There have been reports of bacterial keratitis associated with the use of multiple-dose containers of topical ophthalmic products.
-These containers had been inadvertently contaminated by patients who, in most cases, had a concurrent corneal disease or a disruption of the ocular epithelial surface (see PATIENT COUNSELING INFORMATION, 17.3).
+These containers had been inadvertently contaminated by patients who, in most cases, had a concurrent corneal disease or a disruption of the ocular epithelial surface [see Patient Counseling Information (17)].
 
 ## 5.7 Use with Contact Lenses
 

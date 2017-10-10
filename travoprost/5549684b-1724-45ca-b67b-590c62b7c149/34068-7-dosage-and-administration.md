@@ -5,5 +5,5 @@ TRAVATAN Z® (travoprost ophthalmic solution) should not be administered more th
 
 Reduction of the intraocular pressure starts approximately 2 hours after the first administration with maximum effect reached after 12 hours.
 
-TRAVATAN Z® may be used concomitantly with other topical ophthalmic drug products to lower intraocular pressure.
-If more than one topical ophthalmic drug is being used, the drugs should be administered at least five (5) minutes apart.
+TRAVATAN Z® may be used concomitantly with other topical ophthalmic drug products to lower intraocular pressure (IOP).
+If more than one topical ophthalmic drug is being used, the drugs should be administered at least 5 minutes apart.
