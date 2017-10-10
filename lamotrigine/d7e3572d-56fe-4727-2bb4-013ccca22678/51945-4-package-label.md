@@ -10,9 +10,9 @@ TABLETS
 
 100 mg
 
-100 Tablets
-
 CAUTION: Verify Product Dispensed
+
+100 Tablets
 
 Dispense the accompanying Medication Guide to each patient.
 
@@ -20,7 +20,7 @@ Each scored tablet contains 100 mg of lamotrigine.
 
 See Prescribing Information for dosage information.
 
-Store at 25oC (77oF); excursions 15-30oC (59-86oF) [see USP Controlled Room Temperature] in a dry place and protect from light.
+Store at 25oC (77oF); excursions 15 to 30oC (59 to 86oF) [see USP Controlled Room Temperature] in a dry place and protect from light.
 
 Do not accept if printed seal under cap is missing or broken.
 
@@ -36,8 +36,8 @@ Made in India
 
 Rx only
 
-1. 10000000131787 Rev.
-   2/15
+1. 10000000146191 Rev.
+   5/17
 
 PRINCIPAL DISPLAY PANEL
 
@@ -92,9 +92,9 @@ TABLETS
 
 200 mg
 
-60 Tablets
-
 CAUTION: Verify Product Dispensed
+
+60 Tablets
 
 Dispense the accompanying Medication Guide to each patient.
 
@@ -102,7 +102,7 @@ Each scored tablet contains 200 mg of lamotrigine.
 
 See Prescribing Information for dosage information.
 
-Store at 25oC (77oF); excursions 15-30oC (59-86oF) [see USP Controlled Room Temperature] in a dry place and protect from light.
+Store at 25oC (77oF); excursions 15 to 30oC (59 to 86oF) [see USP Controlled Room Temperature] in a dry place and protect from light.
 
 Do not accept if printed seal under cap is missing or broken.
 
@@ -118,8 +118,8 @@ Made in India
 
 Rx only
 
-1. 10000000131789 Rev.
-   2/15
+1. 10000000146195 Rev.
+   4/17
 
 PRINCIPAL DISPLAY PANEL
 
@@ -149,20 +149,20 @@ Contains: 35 25-mg Tablets
 
 Please check with your physician about proper maintenance dose before week 5.
 
+Dispense the enclosed Medication Guide to each patient.
+
 Each LAMICTAL 25 tablet contains 25 mg of lamotrigine
 
 CAUTION: Verify Product Dispensed
-
-Dispense the enclosed Medication Guide to each patient.
 
 Do not use if blisters are torn, broken, or missing.
 
 Made in India
 
-©2015, the GSK group of companies
+©2017 the GSK group of companies
 
-1. 10000000132067 Rev.
-   2/15
+1. 10000000145889 Rev.
+   4/17
 
 PRINCIPAL DISPLAY PANEL
 
@@ -194,22 +194,22 @@ Contains: 84 25-mg Tablets
 
 Please check with your physician about proper maintenance dose before week 5.
 
+Dispense the enclosed Medication Guide to each patient.
+
 Each LAMICTAL 25 tablet contains 25 mg of lamotrigine
 
 Each LAMICTAL 100 tablet contains 100 mg of lamotrigine
 
 CAUTION: Verify Product Dispensed
 
-Dispense the enclosed Medication Guide to each patient.
-
 Do not use if blisters are torn, broken, or missing.
 
 Made in India
 
-©2015, the GSK group of companies
+©2017 the GSK group of companies
 
-1. 10000000132066 Rev.
-   2/15
+1. 10000000145890 Rev.
+   3/17
 
 PRINCIPAL DISPLAY PANEL
 
@@ -241,22 +241,22 @@ Contains: 42 25-mg Tablets
 
 Please check with your physician about proper maintenance dose before week 5.
 
+Dispense the enclosed Medication Guide to each patient.
+
 Each LAMICTAL 25 tablet contains 25 mg of lamotrigine
 
 Each LAMICTAL 100 tablet contains 100 mg of lamotrigine
 
 CAUTION: Verify Product Dispensed
 
-Dispense the enclosed Medication Guide to each patient.
-
 Do not use if blisters are torn, broken, or missing.
 
 Made in India
 
-©2015, the GSK group of companies
+©2017 the GSK group of companies
 
-1. 10000000132065 Rev.
-   2/15
+1. 10000000145911 Rev.
+   4/17
 
 PRINCIPAL DISPLAY PANEL
 
@@ -270,9 +270,9 @@ CHEWABLE DISPERSIBLE TABLETS
 
 2 mg
 
-30 Tablets
-
 CAUTION: Verify Product Dispensed
+
+30 Tablets
 
 Dispense the accompanying Medication Guide to each patient.
 
@@ -280,7 +280,7 @@ Each tablet contains 2 mg of lamotrigine.
 
 See Prescribing Information for dosage information.
 
-Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature] in a dry place.
+Store at 25°C (77°F); excursions permitted to 15 to 30°C (59 to 86°F) [see USP Controlled Room Temperature] in a dry place.
 
 Do not accept if printed seal under cap is missing or broken.
 
@@ -296,8 +296,8 @@ Made in India
 
 Rx only
 
-1. 10000000131783 Rev.
-   2/15
+1. 10000000146222 Rev.
+   4/17
 
 PRINCIPAL DISPLAY PANEL
 
@@ -311,9 +311,9 @@ CHEWABLE DISPERSIBLE TABLETS
 
 5 mg
 
-100 Tablets
-
 CAUTION: Verify Product Dispensed
+
+100 Tablets
 
 Dispense the accompanying Medication Guide to each patient.
 
@@ -321,7 +321,7 @@ Each tablet contains 5 mg of lamotrigine.
 
 See Prescribing Information for dosage information.
 
-Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature] in a dry place.
+Store at 25°C (77°F); excursions permitted to 15 to 30°C (59 to 86°F) [see USP Controlled Room Temperature] in a dry place.
 
 Do not accept if printed seal under cap is missing or broken.
 
@@ -337,8 +337,8 @@ Made in India
 
 Rx only
 
-1. 10000000131781 Rev.
-   2/15
+1. 10000000146144 Rev.
+   4/17
 
 PRINCIPAL DISPLAY PANEL
 
@@ -352,9 +352,9 @@ CHEWABLE DISPERSABLE TABLETS
 
 25 mg
 
-100 Tablets
-
 CAUTION: Verify Product Dispensed
+
+100 Tablets
 
 Dispense the accompanying Medication Guide to each patient.
 
@@ -362,7 +362,7 @@ Each tablet contains 25 mg of lamotrigine.
 
 See Prescribing Information for dosage information.
 
-Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature] in a dry place.
+Store at 25°C (77°F); excursions permitted to 15 to 30°C (59 to 86°F) [see USP Controlled Room Temperature] in a dry place.
 
 Do not accept if printed seal under cap is missing or broken.
 
@@ -378,8 +378,8 @@ Made in India
 
 Rx only
 
-1. 10000000131782 Rev.
-   2/15
+1. 10000000146159 Rev.
+   4/17
 
 PRINCIPAL DISPLAY PANEL
 
@@ -391,9 +391,9 @@ LAMICTAL ODT®
 
 ORALLY DISINTEGRATING TABLETS
 
-Maintenance Pack
-
 Rx only
+
+Maintenance Pack
 
 25 mg
 
@@ -409,10 +409,10 @@ CAUTION: Verify Product Dispensed
 
 Made in India
 
-©2015, the GSK group of companies
+©2017 the GSK group of companies
 
-1. 10000000132456 Rev.
-   2/15
+1. 10000000146533 Rev.
+   7/17
 
 PRINCIPAL DISPLAY PANEL
 
@@ -424,9 +424,9 @@ LAMICTAL ODT®
 
 ORALLY DISINTEGRATING TABLETS
 
-Maintenance Pack
-
 Rx only
+
+Maintenance Pack
 
 50 mg
 
@@ -442,10 +442,10 @@ CAUTION: Verify Product Dispensed
 
 Made in India
 
-©2015, the GSK group of companies
+©2017 the GSK group of companies
 
-1. 10000000132458 Rev.
-   2/15
+1. 10000000146531 Rev.
+   7/17
 
 PRINCIPAL DISPLAY PANEL
 
@@ -457,9 +457,9 @@ LAMICTAL ODT®
 
 ORALLY DISINTEGRATING TABLETS
 
-Maintenance Pack
-
 Rx only
+
+Maintenance Pack
 
 100 mg
 
@@ -475,10 +475,10 @@ CAUTION: Verify Product Dispensed
 
 Made in India
 
-©2015, the GSK group of companies
+©2017 the GSK group of companies
 
-1. 10000000132457 Rev.
-   2/15
+1. 10000000146532 Rev.
+   7/17
 
 PRINCIPAL DISPLAY PANEL
 
@@ -490,9 +490,9 @@ LAMICTAL ODT®
 
 ORALLY DISINTEGRATING TABLETS
 
-Maintenance Pack
-
 Rx only
+
+Maintenance Pack
 
 200 mg
 
@@ -508,10 +508,10 @@ CAUTION: Verify Product Dispensed
 
 Made in India
 
-©2015, the GSK group of companies
+©2017 the GSK group of companies
 
-1. 10000000132455 Rev.
-   2/15
+1. 10000000146534 Rev.
+   7/17
 
 PRINCIPAL DISPLAY PANEL
 
@@ -523,9 +523,9 @@ LAMICTAL ODT®
 
 ORALLY DISINTEGRATING TABLETS
 
-Patient Titration Kit
-
 RX only
+
+Patient Titration Kit
 
 For patients TAKING valproate*
 
@@ -547,14 +547,14 @@ Dispense the accompanying Medication Guide to each patient.
 
 CAUTION: Verify Product Dispensed
 
-GSK
+Do not use if blisters are torn, broken, or missing.
 
-Visit www.LAMICTALODT.com for more information.
+©2017 the GSK group of companies
 
 Rev.
-2/15
+7/17
 
-10000000132430
+10000000146500
 
 PRINCIPAL DISPLAY PANEL
 
@@ -566,9 +566,9 @@ LAMICTAL ODT®
 
 ORALLY DISINTEGRATING TABLETS
 
-Patient Titration Kit
-
 RX only
+
+Patient Titration Kit
 
 For patients TAKING carbamazepine, phenytoin, phenobarbital, or primidone, and NOT TAKING valproate*
 
@@ -590,14 +590,14 @@ Dispense the accompanying Medication Guide to each patient.
 
 CAUTION: Verify Product Dispensed
 
-GSK
+Do not use if blisters are torn, broken, or missing.
 
-Visit www.LAMICTALODT.com for more information.
+©2017 the GSK group of companies
 
 Rev.
-2/15
+7/17
 
-10000000132451
+10000000146535
 
 PRINCIPAL DISPLAY PANEL
 
@@ -609,9 +609,9 @@ LAMICTAL ODT®
 
 ORALLY DISINTEGRATING TABLETS
 
-Patient Titration Kit
-
 RX ONLY
+
+Patient Titration Kit
 
 For patients NOT TAKING carbamazepine, phenytoin, phenobarbital, primidone, or valproate*
 
@@ -634,11 +634,11 @@ Dispense the accompanying Medication Guide to each patient.
 
 CAUTION: Verify Product Dispensed
 
-GSK
+Do not use if blisters are torn, broken, or missing.
 
-Visit www.LAMICTALODT.com for more information
+©2017 the GSK group of companies
 
 Rev.
-2/15
+7/17
 
-10000000132453
+10000000146499

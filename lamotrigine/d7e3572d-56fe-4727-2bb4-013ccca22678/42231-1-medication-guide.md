@@ -30,32 +30,32 @@ Call your healthcare provider right away if you have any of the following:
 These symptoms may be the first signs of a serious skin reaction.
 A healthcare provider should examine you to decide if you should continue taking LAMICTAL.
 
-1. 1.Other serious reactions, including serious blood problems or liver problems.
+1. 2.Other serious reactions, including serious blood problems or liver problems.
    LAMICTAL can also cause other types of allergic reactions or serious problems that may affect organs and other parts of your body like your liver or blood cells.
    You may or may not have a rash with these types of reactions.
    Call your healthcare provider right away if you have any of these symptoms:
-2. 2.fever
-3. 3.frequent infections
-4. 4.severe muscle pain
-5. 5.swelling of your face, eyes, lips, or tongue
-6. 6.swollen lymph glands
-7. 7.unusual bruising or bleeding
-8. 8.weakness, fatigue
-9. 9.yellowing of your skin or the white part of your eyes
-10. 10.Like other antiepileptic drugs, LAMICTAL may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
+2. •fever
+3. •frequent infections
+4. •severe muscle pain
+5. •swelling of your face, eyes, lips, or tongue
+6. •swollen lymph glands
+7. •unusual bruising or bleeding
+8. •weakness, fatigue
+9. •yellowing of your skin or the white part of your eyes
+10. 3.Like other antiepileptic drugs, LAMICTAL may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
 11. Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
-12. 11.thoughts about suicide or dying
-13. 12.attempt to commit suicide
-14. 13.new or worse depression
-15. 14.new or worse anxiety
-16. 15.feeling agitated or restless
-17. 16.panic attacks
-18. 17.trouble sleeping (insomnia)
-19. 18.new or worse irritability
-20. 19.acting aggressive, being angry, or violent
-21. 20.acting on dangerous impulses
-22. 21.an extreme increase in activity and talking (mania)
-23. 22.other unusual changes in behavior or mood
+12. •thoughts about suicide or dying
+13. •attempt to commit suicide
+14. •new or worse depression
+15. •new or worse anxiety
+16. •feeling agitated or restless
+17. •panic attacks
+18. •trouble sleeping (insomnia)
+19. •new or worse irritability
+20. •acting aggressive, being angry, or violent
+21. •acting on dangerous impulses
+22. •an extreme increase in activity and talking (mania)
+23. •other unusual changes in behavior or mood
 
 Do not stop LAMICTAL without first talking to a healthcare provider.
 
@@ -68,7 +68,7 @@ How can I watch for early symptoms of suicidal thoughts and actions in myself or
 - •Pay attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
 - •Keep all follow-up visits with your healthcare provider as scheduled.
 - •Call your healthcare provider between visits as needed, especially if you are worried about symptoms.
-- •LAMICTAL may cause aseptic meningitis, a serious inflammation of the protective membrane that covers the brain and spinal cord.
+- 4.LAMICTAL may cause aseptic meningitis, a serious inflammation of the protective membrane that covers the brain and spinal cord.
 
 Call your healthcare provider right away if you have any of the following symptoms:
 
@@ -91,7 +91,7 @@ For more information ask your healthcare provider or pharmacist.
 Tell your healthcare provider if you have any side effect that bothers you.
 Be sure to read the section below entitled “What are the possible side effects of LAMICTAL?”
 
-1. 1.People prescribed LAMICTAL have sometimes been given the wrong medicine because many medicines have names similar to LAMICTAL, so always check that you receive LAMICTAL.
+1. 5.People prescribed LAMICTAL have sometimes been given the wrong medicine because many medicines have names similar to LAMICTAL, so always check that you receive LAMICTAL.
 
 Taking the wrong medication can cause serious health problems.
 When your healthcare provider gives you a prescription for LAMICTAL:

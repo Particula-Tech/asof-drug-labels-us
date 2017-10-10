@@ -153,8 +153,8 @@ Adverse Reactions in a Controlled Monotherapy Trial in Adult Patients with Parti
 1. a Adverse reactions that occurred in at least 5% of patients treated with LAMICTAL and at a greater incidence than valproate-treated patients.
 2. b Patients in this trial were converted to LAMICTAL or valproate monotherapy from adjunctive therapy with carbamazepine or phenytoin.
    Patients may have reported multiple adverse reactions during the trial; thus, patients may be included in more than 1 category.
-3. c Up to 500 mg/day.
-4. d 1,000 mg/day.
+3. cUp to 500 mg/day.
+4. d1,000 mg/day.
 
 Adverse reactions that occurred with a frequency of less than 5% and greater than 2% of patients receiving LAMICTAL and numerically more frequent than placebo were:
 
@@ -230,7 +230,7 @@ Adverse Reactions in Pooled, Placebo-Controlled Adjunctive Trials in Pediatric P
 | Male and female patients |  |  |
 | Urinary tract infection | 3 | 0 |
 
-1. a Adverse reactions that occurred in at least 2% of patients treated with LAMICTAL and at a greater incidence than placebo.
+1. aAdverse reactions that occurred in at least 2% of patients treated with LAMICTAL and at a greater incidence than placebo.
 
 Bipolar Disorder in Adults
 
