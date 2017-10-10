@@ -1,10 +1,10 @@
 Manufactured for: Casper Pharma LLC East Brunswick, NJ 08816
 
-Manufactured by: Aenova France SAS, (SkyePharma Production SAS) 38291 Saint-Quentin-Fallavier, France
+Manufactured by: SkyePharma Production SAS 38070 Saint-Quentin-Fallavier, France
 
-Made in France PIB01330-00
+Made in France PIB01330-01
 
-Issued: 07/2016
+Revised: 07/2017
 
 © Casper Pharma LLC.
 All rights reserved.
