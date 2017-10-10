@@ -1,0 +1,3 @@
+# 3 DOSAGE FORMS & STRENGTHS
+
+Oseltamivir Phosphate Capsules, USP: • 30-mg capsules (30 mg free base equivalent of the phosphate salt): Light yellow cap and light yellow body size ‘4’ hard gelatin capsules containing white to off white granules with “30mg” on cap and “M53” on body imprinted with blue ink. • 45-mg capsules (45 mg free base equivalent of the phosphate salt): Grey cap and grey body size ‘4’ hard gelatin capsules containing white to off white granules with “45mg” on cap and “M54” on body imprinted with blue ink. • 75-mg capsules (75 mg free base equivalent of the phosphate salt): Light yellow cap and grey body size ‘2’ hard gelatin capsules containing white to off white granules with “75mg” on cap and “M55” on body imprinted with blue ink.

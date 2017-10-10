@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA207211"
+  ],
+  "inn": "oseltamivir",
+  "labeler": "Macleods Pharmaceuticals Limited",
+  "package_ndcs": [
+    "33342-256-66",
+    "33342-257-66",
+    "33342-258-66"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "oseltamavir phosphate",
+      "name": "oseltamavir phosphate"
+    }
+  ],
+  "setid": "e9307620-36bd-46c2-a8b2-027d3fba87ba",
+  "source": "dailymed"
+}
