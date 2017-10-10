@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA074973"
+  ],
+  "inn": "trimethoprim",
+  "labeler": "Key Therapeutics, LLC",
+  "package_ndcs": [
+    "70868-120-16",
+    "70868-120-20"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "trimethoprim hydrochloride",
+      "name": "TRIMPEX"
+    }
+  ],
+  "setid": "e36bc14a-4abd-4d40-bad5-41caf4b63414",
+  "source": "dailymed"
+}
