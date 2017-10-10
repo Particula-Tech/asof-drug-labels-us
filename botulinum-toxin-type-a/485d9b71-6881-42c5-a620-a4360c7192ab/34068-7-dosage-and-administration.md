@@ -1,21 +1,23 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Instructions for Use
+## 2.1 Instructions for Safe Use
 
 The potency Units of BOTOX Cosmetic (onabotulinumtoxinA) for injection are specific to the preparation and assay method utilized.
-They are not interchangeable with other preparations of botulinum toxin products and, therefore, units of biological activity of BOTOX Cosmetic cannot be compared to nor converted into units of any other botulinum toxin products assessed with any other specific assay method [see Description (11)].
+They are not interchangeable with other preparations of botulinum toxin products and, therefore, units of biological activity of BOTOX Cosmetic cannot be compared to nor converted into units of any other botulinum toxin products assessed with any other specific assay method [see Warnings and Precautions (5.1) and Description (11)].
 
 Indication specific dosage and administration recommendations should be followed.
-In treating adult patients for one or more indications with BOTOX and BOTOX Cosmetic, the maximum cumulative dose should generally not exceed 360 Units, in a 3 month interval.
+In treating adult patients for one or more indications with BOTOX and BOTOX Cosmetic, the maximum cumulative dose should generally not exceed 400 Units, in a 3 month interval.
+
+The safety and effectiveness of dosing with BOTOX Cosmetic more frequently than every 3 months have not been clinically evaluated.
 
 The safe and effective use of BOTOX Cosmetic depends upon proper storage of the product, selection of the correct dose, and proper reconstitution and administration techniques.
-Physicians administering BOTOX Cosmetic must understand the relevant neuromuscular and structural anatomy of the area involved and any alterations to the anatomy due to prior surgical procedures and disease, especially when injecting near the lungs.
+Physicians administering BOTOX Cosmetic must understand the relevant neuromuscular and structural anatomy of the area involved and any alterations to the anatomy due to prior surgical procedures and disease.
 
 ## 2.2 Preparation and Dilution Technique
 
 BOTOX Cosmetic is supplied in single-use 50 Units and 100 Units per vial.
-Prior to intramuscular injection, reconstitute each vacuum-dried vial of BOTOX Cosmetic with sterile, preservative-free 0.9% Sodium Chloride Injection USP.
-Draw up the proper amount of diluent in the appropriate size needle and syringe to obtain a reconstituted solution at a concentration of 4 Units/0.1 mL and a total treatment dose of 20 Units in 0.5 mL for glabellar lines and 24 Units in 0.6 mL for lateral canthal lines (see Table 1).
+Prior to intramuscular injection, reconstitute each vacuum-dried vial of BOTOX Cosmetic with sterile, preservative-free 0.9% Sodium Chloride Injection USP (see Table 1).
+Draw up the proper amount of diluent in the appropriate size needle and syringe to obtain a reconstituted solution at a concentration of 4 Units/0.1 mL and a total treatment dose of 20 Units in 0.5 mL for glabellar lines, 24 Units in 0.6 mL for lateral canthal lines, and 40 Units in 1 mL for forehead lines and glabellar lines.
 Then slowly inject the diluent into the vial.
 Discard the vial if a vacuum does not pull the diluent into the vial.
 Gently mix BOTOX Cosmetic with the saline by rotating the vial.
@@ -38,7 +40,7 @@ Do not freeze reconstituted BOTOX Cosmetic.
 
 ## 2.3 Administration
 
-Draw at least 0.5 mL (for glabellar lines) or 0.6 mL (for lateral canthal lines) of the properly reconstituted toxin into the sterile syringe, preferably a tuberculin syringe and expel any air bubbles in the syringe barrel.
+Draw at least 0.5 mL (for glabellar lines), 0.6 mL (for lateral canthal lines), or 1 mL (for forehead lines treated in conjunction with glabellar lines) of the properly reconstituted toxin into the sterile syringe, preferably a tuberculin syringe and expel any air bubbles in the syringe barrel.
 Remove the needle used to reconstitute the product and attach a 30-33 gauge needle.
 Confirm the patency of the needle.
 
@@ -58,11 +60,10 @@ In order to reduce the complication of ptosis the following steps should be take
 - Ensure the injected volume/dose is accurate and where feasible kept to a minimum.
 - Do not inject toxin closer than 1 cm above the central eyebrow.
 
-Inject 4 Units/0.1 mL of reconstituted BOTOX Cosmetic intramuscularly into each of 5 sites, 2 in each corrugator muscle and 1 in the procerus muscle for a total dose of 20 Units (see Figure 1).
+Inject 4 Units (0.1 mL) of reconstituted BOTOX Cosmetic intramuscularly into each of 5 sites, 2 in each corrugator muscle and 1 in the procerus muscle for a total dose of 20 Units (see Figure 1).
 Typically the initial doses of reconstituted BOTOX Cosmetic induce chemical denervation of the injected muscles one to two days after injection, increasing in intensity during the first week.
 
 The duration of effect of BOTOX Cosmetic for glabellar lines is approximately 3-4 months.
-The safety and effectiveness of dosing with BOTOX Cosmetic more frequently than every 3 months have not been clinically evaluated.
 
 Figure 1:
 
@@ -82,4 +83,30 @@ Figure 2: Figure 3:
 
 For simultaneous treatment with glabellar lines, the dose is 24 Units for lateral canthal lines and 20 Units for glabellar lines (see Glabellar Lines Administration and Figure 1), with a total dose of 44 Units.
 
-The safety and effectiveness of dosing with BOTOX Cosmetic more frequently than every 3 months have not been clinically evaluated.
+Forehead Lines
+
+Forehead lines arise largely from the activity of the frontalis muscles.
+This muscle moves the brow superiorly, interacting with the procerus, orbicularis, corrugator, and depressor supercilli.
+Frontalis contraction causes brow elevation.
+The location, size, and use of the muscles vary markedly among individuals.
+
+Treat forehead lines in conjunction with glabellar lines (see Glabellar Lines Administration and Figure 1) to minimize the potential for brow ptosis.
+The recommended total dose for treatment of forehead lines (20 Units [0.5 mL]) in conjunction with glabellar lines (20 Units [0.5 mL]) is 40 Units (1mL).
+
+When identifying the location of the appropriate injection sites in the frontalis muscle, assess the overall relationship between the size of the subject's forehead, and the distribution of frontalis muscle activity.
+
+Locate the following horizontal treatment rows by light palpation of the forehead at rest and maximum eyebrow elevation:
+
+- Superior Margin of Frontalis Activity: approximately 1 cm above the most superior forehead crease
+- Lower Treatment Row: midway between the superior margin of frontalis activity and the eyebrow, at least 2 cm above the eyebrow
+- Upper Treatment Row: midway between the superior margin of frontalis activity and lower treatment row
+
+Inject 4 Units (0.1 mL) of reconstituted BOTOX Cosmetic into 5 sites in the frontalis muscle, for a total of 20 Units (0.5 mL).
+Place the 5 injections at the intersection of the horizontal treatment rows with the following vertical landmarks (see Figure 4):
+
+- On the lower treatment row at the midline of the face, and 0.5 – 1.5 cm medial to the palpated temporal fusion line (temporal crest); repeat for the other side.
+- On the upper treatment row, midway between the lateral and medial sites on the lower treatment row; repeat for the other side.
+
+Figure 4:
+
+For simultaneous treatment with lateral canthal lines, the total dose is 64 Units, comprised of 20 Units for forehead lines, 20 Units for glabellar lines, and 24 Units for lateral canthal lines (see Lateral Canthal Lines Administration and Figures 2 and 3).

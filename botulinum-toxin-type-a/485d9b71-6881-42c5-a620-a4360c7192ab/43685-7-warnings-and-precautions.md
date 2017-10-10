@@ -12,10 +12,10 @@ The symptoms are consistent with the mechanism of action of botulinum toxin and 
 These symptoms have been reported hours to weeks after injection.
 Swallowing and breathing difficulties can be life threatening and there have been reports of death related to spread of toxin effects.
 The risk of symptoms is probably greatest in children treated for spasticity but symptoms can also occur in adults treated for spasticity and other conditions, and particularly in those patients who have an underlying condition that would predispose them to these symptoms.
-In unapproved uses, including spasticity in children, and in approved indications, symptoms consistent with spread of toxin effect have been reported at doses comparable to or lower than doses used to treat cervical dystonia and upper limb spasticity.
+In unapproved uses, including spasticity in children, and in approved indications, symptoms consistent with spread of toxin effect have been reported at doses comparable to or lower than doses used to treat cervical dystonia and spasticity.
 Patients or caregivers should be advised to seek immediate medical care if swallowing, speech or respiratory disorders occur.
 
-No definitive serious adverse event reports of distant spread of toxin effect associated with dermatologic use of BOTOX/BOTOX Cosmetic at the labeled dose of 20 Units (for glabellar lines), 24 Units (for lateral canthal lines), 44 Units (for simultaneous treatment of lateral canthal lines and glabellar lines), or 100 Units (for severe primary axillary hyperhidrosis) have been reported.
+No definitive serious adverse event reports of distant spread of toxin effect associated with dermatologic use of BOTOX/BOTOX Cosmetic at the labeled dose of 20 Units (for glabellar lines), 24 Units (for lateral canthal lines), 40 Units (for forehead lines with glabellar lines), 44 Units (for simultaneous treatment of lateral canthal lines and glabellar lines), 64 Units (for simultaneous treatment of lateral canthal lines, glabellar lines, and forehead lines), or 100 Units (for severe primary axillary hyperhidrosis) have been reported.
 
 No definitive serious adverse event reports of distant spread of toxin effect associated with BOTOX for blepharospasm at the recommended dose (30 Units and below), strabismus, or chronic migraine at the labeled doses have been reported.
 
@@ -40,16 +40,16 @@ There have been reports following administration of BOTOX of adverse events invo
 Some of these patients had risk factors including pre-existing cardiovascular disease.
 Use caution when administering to patients with pre-existing cardiovascular disease.
 
-## 5.6 Pre-Existing Neuromuscular Disorders
+## 5.6 Increased Risk of Clinically Significant Effects with Pre-Existing Neuromuscular Disorders
 
 Individuals with peripheral motor neuropathic diseases, amyotrophic lateral sclerosis or neuromuscular junction disorders (e.g., myasthenia gravis or Lambert-Eaton syndrome) should be monitored when given botulinum toxin.
-Patients with neuromuscular disorders may be at increased risk of clinically significant effects including generalized muscle weakness, diplopia, ptosis, dysphonia, dysarthria, severe dysphagia and respiratory compromise from onabotulinumtoxinA [see Warnings and Precautions (5.7)].
+Patients with neuromuscular disorders may be at increased risk of clinically significant effects including generalized muscle weakness, diplopia, ptosis, dysphonia, dysarthria, severe dysphagia and respiratory compromise from onabotulinumtoxinA [see Warnings and Precautions (5.2, 5.7)].
 
 ## 5.7 Dysphagia and Breathing Difficulties
 
 Treatment with BOTOX and other botulinum toxin products can result in swallowing or breathing difficulties.
 Patients with pre-existing swallowing or breathing difficulties may be more susceptible to these complications.
-In most cases, this is a consequence of weakening of muscles in the area of injection that are involved in breathing or oropharyngeal muscles that control swallowing or breathing.[see Warnings and Precautions (5.2)].
+In most cases, this is a consequence of weakening of muscles in the area of injection that are involved in breathing or oropharyngeal muscles that control swallowing or breathing [see Warnings and Precautions (5.2)].
 
 Deaths as a complication of severe dysphagia have been reported after treatment with botulinum toxin.
 Dysphagia may persist for several months, and require use of a feeding tube to maintain adequate nutrition and hydration.
@@ -84,6 +84,6 @@ Covering the affected eye may alleviate these symptoms.
 ## 5.11 Human Albumin and Transmission of Viral Diseases
 
 This product contains albumin, a derivative of human blood.
-Based on effective donor screening and product manufacturing processes, it carries an extremely remote risk for transmission of viral diseases.
-A theoretical risk for transmission of Creutzfeldt-Jakob disease (CJD) is also considered extremely remote.
-No cases of transmission of viral diseases or CJD have ever been reported for albumin.
+Based on effective donor screening and product manufacturing processes, it carries an extremely remote risk for transmission of viral diseases and variant Creutzfeldt-Jakob disease (vCJD).
+There is a theoretical risk for transmission of Creutzfeldt-Jakob disease (CJD), but if that risk actually exists, the risk of transmission would also be considered extremely remote.
+No cases of transmission of viral diseases, CJD or vCJD have ever been identified for licensed albumin or albumin contained in other licensed products.

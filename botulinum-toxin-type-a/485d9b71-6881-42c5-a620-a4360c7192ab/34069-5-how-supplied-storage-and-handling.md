@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-BOTOX Cosmetic is supplied in a single-use vial in the following sizes:
+BOTOX Cosmetic (onabotulinumtoxinA) for injection is a vacuum-dried powder supplied in a single-use vial in the following sizes:
 
 50 Units: NDC 0023-3919-50
 

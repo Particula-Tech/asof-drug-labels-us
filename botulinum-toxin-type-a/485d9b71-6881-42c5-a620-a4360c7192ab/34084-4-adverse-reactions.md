@@ -24,7 +24,7 @@ Glabellar Lines
 
 Table 2 lists selected adverse reactions reported by ≥1% of BOTOX Cosmetic treated subjects (N=405) aged 18 to 75 who were evaluated in the randomized, placebo-controlled clinical studies to assess the use of BOTOX Cosmetic in the improvement of the appearance of glabellar lines.
 
-Table 2: Adverse Reactions Reported by ≥1% of the BOTOX Cosmetic treated Patients and More Frequent than in Placebo-treated Patients in Double-blind, Placebo-controlled Clinical Studies of Treatment of Glabellar Lines
+Table 2: Adverse Reactions Reported by ≥1% of BOTOX Cosmetic treated Subjects and More Frequent than in Placebo-treated Subjects in Double-blind, Placebo-controlled Clinical Studies of Treatment of Glabellar Lines
 
 | Adverse Reactions by System Organ Class | BOTOX Cosmetic (N=405) | Placebo (N=130) |
 | --- | --- | --- |
@@ -37,24 +37,38 @@ Lateral Canthal Lines
 
 Table 3 lists selected adverse reactions reported within 90 days following injection by ≥1% of BOTOX Cosmetic treated subjects (N=526) aged 18 to 75 who were evaluated in two randomized, double-blind, placebo-controlled clinical studies to assess the use of BOTOX Cosmetic in the improvement of the appearance of lateral canthal lines alone.
 
-Table 3: Adverse Reaction Reported by ≥1% of BOTOX Cosmetic treated Patients and More Frequent than in Placebo-treated Patients Within 90 Days, in Double-blind, Placebo-controlled Clinical Studies of Treatment of Lateral Canthal Lines
+Table 3: Adverse Reaction Reported by ≥1% of BOTOX Cosmetic treated Subjects and More Frequent than in Placebo-treated Subjects Within 90 Days, in Double-blind, Placebo-controlled Clinical Studies of Treatment of Lateral Canthal Lines
 
-| Adverse Reactions by System Organ Class | BOTOXCosmetic24 Units(N=526) | Placebo(N=530) |
+| Adverse Reactions by System Organ Class | BOTOX Cosmetic 24 Units(N=526) | Placebo(N=530) |
 | --- | --- | --- |
 | Eye disorders Eyelid edema | 5 (1%) | 0 (0%) |
+
+Forehead Lines
+
+Table 4 lists selected adverse reactions reported by ≥1% of BOTOX Cosmetic treated subjects (N=665) aged 18 to 77 who were evaluated in two randomized, double-blind, placebo-controlled clinical studies to assess the use of BOTOX Cosmetic in the improvement of the appearance of forehead lines with glabellar lines.
+
+Table 4: Adverse Reactions Reported by ≥1% of BOTOX Cosmetic treated Subjects and More Frequent than in Placebo-treated Subjects, in Double-blind, Placebo-controlled Clinical Studies of Treatment of Forehead Lines
+
+| Adverse Reactions by System Organ Class | BOTOX Cosmetic (20 Units forehead lines with 20 Units glabellar lines) (N=665) | Placebo (N=315) |
+| --- | --- | --- |
+| Nervous System Disorders Headache | 58 (9%) | 17 (5%) |
+| Eye Disorders Eyelid ptosis | 12 (2%) | 1 (0%) |
+| Skin and Subcutaneous Tissue Disorders Brow ptosis Skin tightness | 13 (2%) 10 (2%) | 0 (0%) 0 (0%) |
+
+There were no additional adverse drug reactions reported with the simultaneous treatment of forehead lines, glabellar lines, and lateral canthal lines.
 
 ## 6.2 Immunogenicity
 
 As with all therapeutic proteins, there is a potential for immunogenicity.
+The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay.
+Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
+For these reasons, comparison of the incidence of antibodies to BOTOX Cosmetic in the studies described below with the incidence of antibodies in other studies or to other products may be misleading.
 Treatment with botulinum toxins may result in the formation of neutralizing antibodies that may reduce the effectiveness of subsequent treatments by inactivating biological activity of the toxin.
 
 In three Lateral Canthal Line trials, 916 subjects (517 subjects at 24 Units and 399 subjects at 44 Units) treated with BOTOX Cosmetic had specimens analyzed for antibody formation.
 Among the 916 BOTOX Cosmetic treated subjects, 14 subjects (1.5%) developed binding antibodies and no subjects (0%) developed the presence of neutralizing antibodies.
 
 The data reflect the subjects whose test results were considered positive or negative for neutralizing activity to BOTOX Cosmetic in a mouse protection assay.
-The results of these tests are highly dependent on the sensitivity and specificity of the assay.
-Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
-For these reasons, comparison of the incidence of antibodies to BOTOX Cosmetic with the incidence of antibodies to other products may be misleading.
 
 The critical factors for neutralizing antibody formation have not been well characterized.
 The results from some studies suggest that botulinum toxin injections at more frequent intervals or at higher doses may lead to greater incidence of antibody formation.
