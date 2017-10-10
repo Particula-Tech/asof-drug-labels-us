@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA209933"
+  ],
+  "inn": "neostigmine",
+  "labeler": "Amphastar Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "0548-9601-00",
+    "0548-9601-01",
+    "0548-9602-00",
+    "0548-9602-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "neostigmine methylsulfate",
+      "name": "NEOSTIGMINE METHYLSULFATE"
+    }
+  ],
+  "setid": "e47a4a4c-0e7c-40b6-9950-5b3adadcac22",
+  "source": "dailymed"
+}
