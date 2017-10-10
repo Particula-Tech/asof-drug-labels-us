@@ -8,9 +8,9 @@ Drugs that are P-gp inducers in the intestine (e.g., rifampin or St. John's wort
 Information on potential drug interactions with SOVALDI is summarized in Table 6.
 The table is not all-inclusive [see Warnings and Precautions (5.2, 5.3) and Clinical Pharmacology (12.3)].
 
-Table 6 Potentially Significant Drug Interactions: Alteration in Dosage or Regimen May Be Recommended Based on Drug Interaction Studies or Predicted InteractionThis table is not all-inclusive.
+Table 6 Potentially Significant Drug Interactions: Alteration in Dosage or Regimen May Be Recommended Based on Drug Interaction Studies or Predicted Interaction This table is not all-inclusive.
 
-| Concomitant Drug Class: Drug Name | Effect on Concentration↓ = decrease. | Clinical Comment |
+| Concomitant Drug Class: Drug Name | Effect on Concentration ↓ = decrease. | Clinical Comment |
 | --- | --- | --- |
 | Antiarrhythmics: amiodarone | Effect on amiodarone and sofosbuvir concentrations unknown | Coadministration of amiodarone with a sofosbuvir-containing regimen may result in serious symptomatic bradycardia. The mechanism of this effect is unknown. Coadministration of amiodarone with SOVALDI is not recommended; if coadministration is required, cardiac monitoring is recommended [see Warnings and Precautions (5.2), Adverse Reactions (6.2)]. |
 | Anticonvulsants: Carbamazepine phenytoin phenobarbital oxcarbazepine | ↓ sofosbuvir ↓ GS-331007 | Coadministration of SOVALDI with carbamazepine, phenytoin, phenobarbital or oxcarbazepine is expected to decrease the concentration of sofosbuvir, leading to reduced therapeutic effect of SOVALDI. Coadministration is not recommended. |

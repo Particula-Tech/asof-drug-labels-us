@@ -18,9 +18,9 @@ Table 1 Recommended Treatment Regimen and Duration in Adult Patients with Genoty
 
 |  | Patient Population | Treatment Regimen and Duration |
 | --- | --- | --- |
-| Genotype 1 or 4 | Treatment-naïve without cirrhosis or with compensated cirrhosis (Child-Pugh A) | SOVALDI + peginterferon alfaSee peginterferon alfa prescribing information for dosage recommendation for patients with genotype 1 or 4 HCV. + ribavirinDosage of ribavirin is weight-based (<75 kg = 1000 mg and ≥75 kg = 1200 mg). The daily dosage of ribavirin is administered orally in two divided doses with food. Patients with renal impairment (CrCl ≤50 mL/min) require ribavirin dosage reduction; refer to ribavirin prescribing information. 12 weeks |
+| Genotype 1 or 4 | Treatment-naïve without cirrhosis or with compensated cirrhosis (Child-Pugh A) | SOVALDI + peginterferon alfa See peginterferon alfa prescribing information for dosage recommendation for patients with genotype 1 or 4 HCV. + ribavirin Dosage of ribavirin is weight-based (<75 kg = 1000 mg and ≥75 kg = 1200 mg). The daily dosage of ribavirin is administered orally in two divided doses with food. Patients with renal impairment (CrCl ≤50 mL/min) require ribavirin dosage reduction; refer to ribavirin prescribing information. 12 weeks |
 | Genotype 2 | Treatment-naïve and treatment-experienced without cirrhosis or with compensated cirrhosis (Child-Pugh A) | SOVALDI + ribavirin 12 weeks |
-| Genotype 3 | Treatment-naïve and treatment-experiencedTreatment-experienced patients have failed an interferon based regimen with or without ribavirin. without cirrhosis or with compensated cirrhosis (Child-Pugh A) | SOVALDI + ribavirin24 weeks |
+| Genotype 3 | Treatment-naïve and treatment-experienced Treatment-experienced patients have failed an interferon based regimen with or without ribavirin. without cirrhosis or with compensated cirrhosis (Child-Pugh A) | SOVALDI + ribavirin 24 weeks |
 
 Patients with Genotype 1 HCV Who are Ineligible to Receive an Interferon-Based Regimen
 
@@ -44,12 +44,12 @@ Table 2 Recommended Treatment Regimen and Duration in Pediatric Patients 12 Year
 
 |  | Patient Population | Treatment Regimen And Duration |
 | --- | --- | --- |
-| Genotype 2 | Treatment-naïve and treatment-experiencedTreatment-experienced patients have failed an interferon based regimen with or without ribavirin. without cirrhosis or with compensated cirrhosis (Child-Pugh A) | SOVALDI + ribavirinSee Table 3 for weight-based ribavirin dosing recommendations. 12 weeks |
+| Genotype 2 | Treatment-naïve and treatment-experienced Treatment-experienced patients have failed an interferon based regimen with or without ribavirin. without cirrhosis or with compensated cirrhosis (Child-Pugh A) | SOVALDI + ribavirin See Table 3 for weight-based ribavirin dosing recommendations. 12 weeks |
 | Genotype 3 | Treatment-naïve and treatment-experienced without cirrhosis or with compensated cirrhosis (Child-Pugh A) | SOVALDI + ribavirin 24 weeks |
 
 Table 3 Recommended Dosing for Ribavirin in Combination Therapy with SOVALDI for Pediatric Patients 12 Years of Age and Older or Weighing at Least 35 kg
 
-| Body Weight kg | Ribavirin Daily DosageThe daily dosage of ribavirin is weight-based and is administered orally in two divided doses with food. |
+| Body Weight kg | Ribavirin Daily Dosage The daily dosage of ribavirin is weight-based and is administered orally in two divided doses with food. |
 | --- | --- |
 | less than 47 | 15 mg/kg/day |
 | 47–49 | 600 mg/day |
@@ -70,4 +70,4 @@ If the other agents used in combination with SOVALDI are permanently discontinue
 
 ## 2.6 Severe Renal Impairment and End Stage Renal Disease
 
-No dosage recommendation can be given for patients with severe renal impairment (estimated Glomerular Filtration Rate [eGFR] less than 30 mL/min/1.73m2) or with end stage renal disease (ESRD) due to higher exposures (up to 20-fold) of the predominant sofosbuvir metabolite [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+No dosage recommendation can be given for patients with severe renal impairment (estimated Glomerular Filtration Rate [eGFR] less than 30 mL/min/1.73m 2) or with end stage renal disease (ESRD) due to higher exposures (up to 20-fold) of the predominant sofosbuvir metabolite [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
