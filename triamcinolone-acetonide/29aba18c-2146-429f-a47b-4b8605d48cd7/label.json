@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA208845"
+  ],
+  "inn": "triamcinolone-acetonide",
+  "labeler": "Flexion Therapeutics, Inc.",
+  "package_ndcs": [
+    "70801-001-01",
+    "70801-001-02",
+    "70801-002-01",
+    "70801-002-02",
+    "70801-003-01",
+    "70801-003-02"
+  ],
+  "products": [
+    {
+      "form": "KIT",
+      "generic": "triamcinolone acetonide extended-release injectable suspension",
+      "name": "Zilretta"
+    }
+  ],
+  "setid": "29aba18c-2146-429f-a47b-4b8605d48cd7",
+  "source": "dailymed"
+}
