@@ -7,24 +7,28 @@
   NORVIR tablets should be swallowed whole, and not chewed, broken or crushed.
   Take NORVIR with meals.
 - Patients may improve the taste of NORVIR oral solution by mixing with chocolate milk, Ensure®, or Advera® within one hour of dosing.
-- NORVIR oral powder should be mixed with soft food such as apple sauce or vanilla pudding, or mixed with liquid such as water, chocolate milk, or infant formula [see Dosage and Administration (2.4) and Instructions for Use].
+- NORVIR oral powder should be mixed with soft food such as apple sauce or vanilla pudding, or mixed with liquid such as water, chocolate milk, or infant formula [see Dosage and Administration (2.5) and Instructions for Use].
   The bitter aftertaste of NORVIR oral powder may be lessened if administered with food.
-
-Because NORVIR oral solution contains ethanol, it is not recommended for use with polyurethane feeding tubes due to potential incompatibility.
 
 General Dosing Guidelines
 
 Patients who take the 600 mg twice daily soft gel capsule NORVIR dose may experience more gastrointestinal side effects such as nausea, vomiting, abdominal pain or diarrhea when switching from the soft gel capsule to the tablet formulation because of greater maximum plasma concentration (Cmax) achieved with the tablet formulation relative to the soft gel capsule [see Clinical Pharmacology (12.3)].
 Patients should also be aware that these adverse events (gastrointestinal or paresthesias) may diminish as therapy is continued.
 
-## 2.2 Recommended Adult Dosage
+## 2.2 Administering Oral Solution by Feeding Tube
+
+Because NORVIR oral solution contains ethanol and propylene glycol, it is not recommended for use with polyurethane feeding tubes due to potential incompatibility.
+Feeding tubes that are compatible with ethanol and propylene glycol, such as silicone and polyvinyl chloride (PVC) feeding tubes, can be used for administration of NORVIR oral solution.
+Follow instructions for use of the feeding tube to administer the medicine.
+
+## 2.3 Recommended Adult Dosage
 
 Recommended Dosage for Treatment of HIV-1:
 
 The recommended dosage of NORVIR is 600 mg twice daily by mouth to be taken with meals.
 Use of a dose titration schedule may help to reduce treatment-emergent adverse events while maintaining appropriate ritonavir plasma levels.
 NORVIR should be started at no less than 300 mg twice daily and increased at 2 to 3 day intervals by 100 mg twice daily.
-The maximum dose of 600 mg twice daily should not be exceeded upon completion of the titration.
+The maximum dose of 600 mg twice daily should not be exceeded upon completion of the titration [see Dosage and Administration (2.6)].
 
 Pregnant Women
 
@@ -33,12 +37,12 @@ NORVIR oral solution contains the excipients ethanol (approx.
 43% v/v) and propylene glycol (approx.
 27% w/v) [see Use in Specific Populations (8.1)].
 
-## 2.3 Recommended Pediatric Dosage
+## 2.4 Recommended Pediatric Dosage
 
 NORVIR must be used in combination with other antiretroviral agents [see Dosage and Administration (2)].
 The recommended dosage of NORVIR in pediatric patients older than 1 month is 350 to 400 mg per m2 twice daily by mouth to be taken with meals and should not exceed 600 mg twice daily.
 NORVIR should be started at 250 mg per m2 twice daily and increased at 2 to 3 day intervals by 50 mg per m2 twice daily.
-If patients do not tolerate 400 mg per m2 twice daily due to adverse events, the highest tolerated dose may be used for maintenance therapy in combination with other antiretroviral agents, however, alternative therapy should be considered.
+If patients do not tolerate 400 mg per m2 twice daily due to adverse events, the highest tolerated dose may be used for maintenance therapy in combination with other antiretroviral agents, however, alternative therapy should be considered [see Dosage and Administration (2.6)].
 
 Pediatric Dosage Guidelines for Oral Solution
 
@@ -74,10 +78,7 @@ NORVIR oral powder should be used only for dosing increments of 100 mg.
 NORVIR powder should not be used for doses less than 100 mg or for incremental doses between 100 mg intervals.
 NORVIR oral solution is the preferred formulation for patients requiring doses less than 100 mg or incremental doses between 100 mg intervals.
 
-When NORVIR oral powder is used with other protease inhibitors (e.g. atazanavir, darunavir, fosamprenavir, or tipranavir), prescribers should consult the full prescribing information and clinical study information of these protease inhibitors [see Warnings and Precautions (5.1), and Drug Interactions (7)].
-When NORVIR oral powder is used as the sole protease inhibitor in a regimen, refer to Table 1 for dosing recommendations.
-
-## 2.4 Preparation of Norvir Oral Powder
+## 2.5 Preparation of Norvir Oral Powder
 
 For details on the preparation and administration of NORVIR oral powder (see Instructions for Use).
 NORVIR oral powder should only be used for dosing increments of 100 mg.
@@ -91,7 +92,7 @@ If not administered within 2 hours of preparation, the mixture should be discard
 The prescribed dose of NORVIR oral powder can be administered via a feeding tube after being mixed with water (see Instructions for Use).
 Follow the instructions for the feeding tube to administer the medicine.
 
-## 2.5 Dose Modification due to Drug Interaction
+## 2.6 Dose Modification due to Drug Interaction
 
 Dose reduction of NORVIR is necessary when used with other protease inhibitors: atazanavir, darunavir, fosamprenavir, saquinavir, and tipranavir.
 

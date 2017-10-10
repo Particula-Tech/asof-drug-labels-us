@@ -16,5 +16,6 @@ The following are the ingredients in the film coating: hypromellose, titanium di
 NORVIR oral solution is available for oral administration as 80 mg per mL of ritonavir in a peppermint and caramel flavored vehicle.
 Each 8-ounce bottle contains 19.2 grams of ritonavir.
 NORVIR oral solution also contains ethanol, water, polyoxyl 35 castor oil, propylene glycol, anhydrous citric acid to adjust pH, saccharin sodium, peppermint oil, creamy caramel flavoring, and FD&C Yellow No. 6.
+NORVIR oral solution contains approximately 43% (v/v) ethanol and approximately 27% (w/v) propylene glycol.
 
 NORVIR oral powder is beige/pale yellow to yellow and is available for oral administration as a packet containing 100 mg of ritonavir with the following inactive ingredients: copovidone, sorbitan monolaurate, and colloidal silicon dioxide.

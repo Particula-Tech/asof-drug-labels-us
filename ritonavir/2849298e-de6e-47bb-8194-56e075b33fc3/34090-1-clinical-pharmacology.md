@@ -115,7 +115,7 @@ For information about clinical recommendations see Table 5 in Drug Interactions 
 Table 7.
 Drug Interactions - Pharmacokinetic Parameters for Ritonavir in the Presence of the Co-administered Drug
 
-| Co-administered Drug | Dose of Co-administered Drug (mg) | Dose of NORVIR (mg) | N | AUC % (95% CI) | Cmax (95% CI) | Cmin (95% CI) |
+| Co- administered Drug | Dose of Co- administered Drug (mg) | Dose of NORVIR (mg) | N | AUC % (95% CI) | Cmax (95% CI) | Cmin (95% CI) |
 | --- | --- | --- | --- | --- | --- | --- |
 | Clarithromycin | 500 q12h, 4 d | 200 q8h, 4 d | 22 | ↑ 12% (2, 23%) | ↑ 15% (2, 28%) | ↑ 14% (-3, 36%) |
 | Didanosine | 200 q12h, 4 d | 600 q12h, 4 d | 12 | ↔ | ↔ | ↔ |

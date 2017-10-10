@@ -18,7 +18,7 @@ In animal reproduction studies, no evidence of adverse developmental outcomes wa
 During organogenesis in the rat and rabbit, systemic exposure (AUC) was approximately 1/3 lower than human exposure at the recommended daily dose.
 In the rat pre- and post-natal developmental study, maternal systemic exposure to ritonavir was approximately 1/2 of the exposure in humans at the recommended daily dose, based on a body surface area conversion factor [see Data].
 
-NORVIR oral solution is not recommended during pregnancy because there is no known safe level of ethanol exposure during pregnancy [see Clinical Considerations, Dosage and Administration (2.1) and Warnings and Precautions (5.2)].
+NORVIR oral solution is not recommended during pregnancy because there is no known safe level of ethanol exposure during pregnancy [see Clinical Considerations, Dosage and Administration (2.3) and Warnings and Precautions (5.2)].
 
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
@@ -28,7 +28,7 @@ Clinical Considerations
 
 Dose Adjustments During Pregnancy and the Postpartum Period
 
-NORVIR oral solution contains approx. 43% ethanol (v/v) and approx. 27% (w/v) propylene glycol and is not recommended during pregnancy because there is no known safe level of ethanol exposure during pregnancy [see Dosage and Administration (2.1) and Warnings and Precautions (5.2)].
+NORVIR oral solution contains approx. 43% ethanol (v/v) and approx. 27% (w/v) propylene glycol and is not recommended during pregnancy because there is no known safe level of ethanol exposure during pregnancy [see Dosage and Administration (2.3) and Warnings and Precautions (5.2)].
 
 Data
 
@@ -65,7 +65,7 @@ Because of the potential for (1) HIV transmission (in HIV-negative infants), (2)
 Contraception
 
 Use of NORVIR may reduce the efficacy of combined hormonal contraceptives.
-Advise patients using combined hormonal contraceptives to use an effective alternative contraceptive method or an additional barrier method of contraception [see Drug Interactions (7.3)].
+Advise patients using combined hormonal contraceptives to use an effective alternative contraceptive method or an additional barrier method of contraception [see Drug Interactions (7.2)].
 
 ## 8.4 Pediatric Use
 

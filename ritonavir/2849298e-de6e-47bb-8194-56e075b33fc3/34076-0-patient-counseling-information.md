@@ -21,7 +21,7 @@ General Information Dosing and Preparation Information
 Drug Interactions
 
 - NORVIR may interact with some drugs; therefore, patients should be advised to report to their doctor the use of any other prescription, non-prescription medication or herbal products, particularly St. John's Wort.
-- Instruct patients receiving combined hormonal contraception to use an effective alternative contraceptive method or an additional barrier method during therapy with NORVIR because hormonal levels may decrease [see Drug Interactions (7.3), Use in Specific Populations (8.3)].
+- Instruct patients receiving combined hormonal contraception to use an effective alternative contraceptive method or an additional barrier method during therapy with NORVIR because hormonal levels may decrease [see Drug Interactions (7.2), Use in Specific Populations (8.3)].
 
 Hepatotoxicity
 
@@ -50,7 +50,7 @@ Advise patients that treatment with NORVIR therapy can result in substantial inc
 
 Diabetes Mellitus/Hyperglycemia
 
-Advise patients that new onset of diabetes or exacerbation of pre-existing diabetes mellitus, and hyperglycemia have been reported and to notify their healthcare provider if they develop the signs and symptoms of diabetes mellitus including frequent urination, excessive thirst, extreme hunger or unusual weight loss and/or an increased blood sugar while on NORVIR as they may require a change in their diabetes treatment or new treatment [see Warnings and Precautions (5.7)].
+Advise patients that new onset of diabetes or exacerbation of pre-existing diabetes mellitus, and hyperglycemia have been reported and to notify their healthcare provider if they develop the signs and symptoms of diabetes mellitus including frequent urination, excessive thirst, extreme hunger or unusual weight loss and/or an increased blood sugar while on NORVIR as they may require a change in their diabetes treatment or new treatment [see Warnings and Precautions (5.8)].
 
 Immune Reconstitution Syndrome
 
@@ -66,7 +66,7 @@ Advise patients with hemophilia that they may experience increased bleeding when
 
 NORVIR Oral Solution Not Recommended During Pregnancy
 
-Advise pregnant women that use of NORVIR oral solution during pregnancy is not recommended due to its ethanol content [see Dosage and Administration (2.1) and Use in Specific Population (8.1)].
+Advise pregnant women that use of NORVIR oral solution during pregnancy is not recommended due to its ethanol content [see Dosage and Administration (2.3) and Use in Specific Population (8.1)].
 
 Pregnancy Exposure Registry
 
@@ -81,4 +81,4 @@ NORVIR tablets and oral solution are manufactured by: AbbVie Inc. North Chicago,
 NORVIR oral powder is manufactured for: AbbVie Inc. North Chicago, IL 60064 USA
 
 © 2017 AbbVie Inc. All rights reserved.
-03-B561
+03-B592
