@@ -14,6 +14,7 @@ The following serious adverse reactions are described elsewhere in the labeling:
 - •Growth Retardation in Children and Adolescents [see Warnings and Precautions (5.11)]
 - •Tumor Lysis Syndrome [see Warnings and Precautions (5.12)]
 - •Impairments Related to Driving and Using Machinery [see Warnings and Precautions (5.13)]
+- •Renal Toxicity [see Warnings and Precautions (5.14)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -75,11 +76,11 @@ Table 2: Adverse Reactions Regardless of Relationship to Study Drug Reported in 
 
 Table 3: Most Frequently Reported Non-hematologic Adverse Reactions (Regardless of Relationship to Study Drug) in Patients with Newly Diagnosed Ph+ CML-CP in the Imatinib Mesylate versus nilotinib Study (greater than or equal to 10% in Imatinib Mesylate 400 mg Once-Daily or nilotinib 300 mg Twice-Daily Groups) 60 Month AnalysisExcluding laboratory abnormalities
 
-|  |  |  | Patients with Newly Diagnosed Ph+ CML-CP |  |  |
+|  |  | Patients with Newly Diagnosed Ph+ CML-CP |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 |  |  | Imatinib Mesylate400 mg once daily | nilotinib 300 mg twice daily | Imatinib Mesylate400 mg once daily | nilotinib 300 mg twice daily |
 |  |  | N = 280 | N = 279 | N = 280 | N = 279 |
-| Body System and Preferred Term |  | All Grades (%) |  | CTC GradesNCI Common Terminology Criteria for Adverse Events, Version 3.0 ¾ (%) |  |
+| Body System and Preferred Term |  | All Grades (%) |  | CTC GradesNCI Common Terminology Criteria for Adverse Events, Version 3.0 3/4 (%) |  |
 | Skin and subcutaneous tissue disorders | Rash | 19 | 38 | 2 | < 1 |
 |  | Pruritus | 7 | 21 | 0 | < 1 |
 |  | Alopecia | 7 | 13 | 0 | 0 |
@@ -189,7 +190,7 @@ Table 5: Laboratory Abnormalities in Newly Diagnosed CML Clinical Trial (Imatini
 
 Table 6: Percent Incidence of Clinically Relevant Grade 3/4NCI Common Terminology Criteria for Adverse Events, version 3.0 Laboratory Abnormalities in the Newly Diagnosed CML Clinical Trial (Imatinib Mesylate versus nilotinib)
 
-|  | Imatinib Mesylate400 mg once-daily | nilotinib 300 mg twice-daily |
+|  | Imatinib Mesylate 400 mg once-daily | nilotinib 300 mg twice-daily |
 | --- | --- | --- |
 |  | N = 280 | N = 279 |
 |  | (%) | (%) |
@@ -248,7 +249,7 @@ No differences were seen that were related to race but the subsets were too smal
 Acute Lymphoblastic Leukemia The adverse reactions were similar for Ph+ ALL as for Ph+ CML.
 The most frequently reported drug-related adverse reactions reported in the Ph+ ALL studies were mild nausea and vomiting, diarrhea, myalgia, muscle cramps and rash.
 Superficial edema was a common finding in all studies and were described primarily as periorbital or lower limb edemas.
-These edemas were reported as Grade 3/4 events in 6.3% of the patients and may be managed with diuretics, other supportive measures, or in some patients by reducing the dose of imatinib mesylate
+These edemas were reported as Grade 3/4 events in 6.3% of the patients and may be managed with diuretics, other supportive measures, or in some patients by reducing the dose of imatinib mesylate.
 
 Myelodysplastic/Myeloproliferative Diseases Adverse reactions, regardless of relationship to study drug, that were reported in at least 10% of the patients treated with imatinib mesylate for MDS/MPD in the Phase 2 study, are shown in Table 9.
 
@@ -300,8 +301,8 @@ Table 11: Laboratory Abnormalities Reported in DFSP Patients in the Phase 2 Stud
 
 |  | N = 12 |  |
 | --- | --- | --- |
-| CTC GradesCTC Grades: neutropenia (Grade 3 greater than or equal to 0.5 to 1.0 x 109/L, Grade 4 less than 0.5 x 109/L), thrombocytopenia (Grade 3 greater than or equal to 10 to 50 x 109/L, Grade 4 less than 10 x 109/L), anemia (Grade 3 greater than or equal to 65 to 80 g/L, Grade 4 less than 65 g/L), elevated creatinine (Grade 3 greater than 3 to 6 x upper limit normal range [ULN], Grade 4 greater than 6 x ULN) | Grade 3 | Grade 4 |
-| Hematology Parameters | % | % |
+| CTC GradesCTC Grades: neutropenia (Grade 3 greater than or equal to 0.5 to 1.0 x 109/L, Grade 4 less than 0.5 x 109/L), thrombocytopenia (Grade 3 greater than or equal to 10 to 50 x 109/L, Grade 4 less than 10 x 109/L), anemia (Grade 3 greater than or equal to 65 to 80 g/L, Grade 4 less than 65 g/L), elevated creatinine (Grade 3 greater than 3 to 6 x upper limit normal range [ULN], Grade 4 greater than 6 x ULN) | Grade 3% | Grade 4% |
+| Hematology Parameters |  |  |
 | – Anemia | 17 | 0 |
 | – Thrombocytopenia | 17 | 0 |
 | – Neutropenia | 0 | 8 |

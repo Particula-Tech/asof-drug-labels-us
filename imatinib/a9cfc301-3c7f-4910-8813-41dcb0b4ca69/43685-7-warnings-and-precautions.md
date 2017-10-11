@@ -23,7 +23,7 @@ These generally occur within the first several months of therapy [see Dosage and
 
 Congestive heart failure and left ventricular dysfunction have been reported in patients taking imatinib mesylate.
 Cardiac adverse reactions were more frequent in patients with advanced age or co-morbidities including previous medical history of cardiac disease.
-In an international randomized Phase 3 study in 1,106 patients with newly diagnosed Ph+ CML in chronic phase, severe cardiac failure and left ventricular dysfunction were observed in 0.7% of patients taking imatinib mesylate compared to 0.9% of patients taking IFN + Ara-C.
+In an international randomized Phase 3 study in 1,106 patients with newly diagnosed Ph+ CML in chronic phase, severe cardiac failure and left ventricular dysfunction were observed in 0.7% of patients taking imatinib mesylate compared to 0.9% of patients taking IFN+Ara-C.
 In another randomized trial with newly diagnosed Ph+ CML patients in chronic phase that compared imatinib mesylate and nilotinib, cardiac failure was observed in 1.1% of patient in the imatinib mesylate arm and 2.2% of patients in the nilotinib 300 mg twice daily arm and severe (Grade 3 or 4) cardiac failure occurred in 0.7% of patients in each group.
 Carefully monitor patients with cardiac disease or risk factors for cardiac or history of renal failure.
 Evaluate and treat any patient with signs or symptoms consistent with cardiac or renal failure.
@@ -97,3 +97,9 @@ Due to possible occurrence of TLS, correct clinically significant dehydration an
 Motor vehicle accidents have been reported in patients receiving imatinib mesylate.
 Advise patients that they may experience side effects such as dizziness, blurred vision or somnolence during treatment with imatinib mesylate.
 Recommend caution when driving a car or operating machinery.
+
+## 5.14 Renal Toxicity
+
+A decline in renal function may occur in patients receiving imatinib mesylate.
+Median estimated glomerular filtration rate (eGFR) values in patients on imatinib mesylate 400 mg daily for newly-diagnosed CML (four randomized trials) and malignant GIST (one single-arm trial) declined from a baseline value of 85 ml/min/1.73m2 (N = 1190) to 75 ml/min/1.73m2 at 12 months (N = 1082) and 69 ml/min/1.73m2 at 60 months (N = 549).
+Evaluate renal function prior to initiating imatinib mesylate and monitor during therapy, with attention to risk factors for renal dysfunction such as preexisting renal impairment, diabetes mellitus, hypertension, and congestive heart failure.

@@ -114,6 +114,6 @@ No dose adjustment is necessary, however, caution is recommended when administer
 Interactions with Acetaminophen
 
 In vitro, imatinib mesylate inhibits the acetaminophen O-glucuronidate pathway (Ki 58.5 μM).
-Coadministration of imatinib mesylate (400 mg/day for eight days) with acetaminophen (1000 mg single dose on day eight) in patients with CML did not result in any changes in the pharmacokinetics of acetaminophen.
+Coadministration of imatinib mesylate (400 mg/day for 8 days) with acetaminophen (1000 mg single dose on day 8) in patients with CML did not result in any changes in the pharmacokinetics of acetaminophen.
 Imatinib mesylate pharmacokinetics were not altered in the presence of single-dose acetaminophen.
 There is no pharmacokinetic or safety data on the concomitant use of imatinib mesylate at doses greater than 400 mg/day or the chronic use of concomitant acetaminophen and imatinib mesylate.
