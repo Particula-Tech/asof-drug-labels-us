@@ -45,8 +45,7 @@ The Centers for Disease Control and Prevention recommend that HIV-infected mothe
 
 FTC has been shown to be present in human breast milk; it is not known if TAF is present in human breast milk [see Data (8.2)].
 Tenofovir has been shown to be present in the milk of lactating rats and rhesus monkeys after administration of TDF [see Data (8.2)].
-It is not known if TAF can be present in animal milk.
-While it is not known whether TAF is present in human breast milk, FTC has been shown to be present in human breast milk [see Data (8.2)].
+It is not known if TAF is present in animal milk.
 
 It is not known if DESCOVY affects milk production or has effects on the breastfed child.
 Because of the potential for: 1) HIV transmission (in HIV-negative infants); 2) developing viral resistance (in HIV-positive infants); and 3) adverse reactions in a breastfed infant similar to those seen in adults, instruct mothers not to breastfeed if they are receiving DESCOVY [see Data (8.2)].
@@ -67,16 +66,22 @@ Tenofovir was excreted into the milk of lactating monkeys following a single sub
 
 ## 8.4 Pediatric Use
 
-The efficacy and safety of DESCOVY, in combination with other antiretroviral agents, for the treatment of HIV-1 infection was established in pediatric patents aged 12 years old and older with body weight greater than or equal to 35 kg [see Dosage and Administration (2.2)].
-Use of DESCOVY in this age group is supported by adequate and well controlled studies of FTC+TAF with EVG+COBI in adults and by a 24-week open-label trial of 23 antiretroviral treatment-naïve HIV-1 infected pediatric subjects 12 to less than 18 years old (weighing at least 35 kg) treated with FTC+TAF with EVG+COBI.
-The safety and efficacy of FTC+TAF with EVG+COBI was similar to that of antiretroviral treatment-naïve HIV-1 infected adults on this regimen [see Clinical Pharmacology (12.3) and Clinical Studies (14)].
+The safety and effectiveness of DESCOVY, in combination with other antiretroviral agents, for the treatment of HIV-1 infection was established in pediatric patients with body weight greater than or equal to 25 kg [see Indication and Usage (1) and Dosage and Administration (2.2)].
 
-Safety and effectiveness of DESCOVY in pediatric patients less than 12 years of age or less than 35 kg have not been established.
+Use of DESCOVY in pediatric patients between the ages of 12 to less than 18 years weighing at least 35 kg is supported by adequate and well controlled studies of FTC+TAF with EVG+COBI in adults and by an open-label trial in antiretroviral treatment-naïve HIV-1 infected pediatric subjects ages 12 to less than 18 years and weighing at least 35 kg (N=50; cohort 1).
+The safety and efficacy of FTC+TAF with EVG+COBI in these pediatric subjects was similar to that of HIV-1 infected adults on this regimen [see Clinical Pharmacology (12.3) and Clinical Studies (14)].
+
+Use of DESCOVY in pediatric patients weighing at least 25 kg is supported by adequate and well controlled studies of FTC+TAF with EVG+COBI in adults and by an open-label trial in virologically-suppressed pediatric subjects between the ages of 6 to less than 12 years weighing at least 25 kg, in which subjects were switched from their antiretroviral regimen to FTC+TAF with EVG+COBI (N=23; cohort 2).
+The safety in these subjects through 24 weeks of FTC+TAF with EVG+COBI was similar to that of HIV-1 infected adults on this regimen, with the exception of a decrease in mean change from baseline in CD4+ cell count [see Adverse Reactions (6.1), Clinical Pharmacology (12.3) and Clinical Studies (14)].
+
+Safety and effectiveness of DESCOVY coadminstered with an HIV-1 protease inhibitor that is administered with either ritonavir or cobicistat have not been established in pediatric subjects weighing less than 35 kg [see Dosage and Administration (2.2)].
+
+Safety and effectiveness of DESCOVY in pediatric patients less than 25 kg have not been established.
 
 ## 8.5 Geriatric Use
 
 In clinical trials, 80 of the 97 subjects enrolled aged 65 years and over received FTC+TAF and EVG+COBI.
-No differences in safety or efficacy have been observed between elderly subjects and those between 12 and less than 65 years of age.
+No differences in safety or efficacy have been observed between elderly subjects and adults between 18 and less than 65 years of age.
 
 ## 8.6 Renal Impairment
 

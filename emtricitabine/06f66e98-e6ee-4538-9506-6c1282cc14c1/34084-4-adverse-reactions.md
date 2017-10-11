@@ -6,7 +6,6 @@ The following adverse reactions are discussed in other sections of the labeling:
 - Immune Reconstitution Syndrome [see Warnings and Precautions (5.2)].
 - New Onset or Worsening Renal Impairment [see Warnings and Precautions (5.3)].
 - Lactic Acidosis/Severe Hepatomegaly with Steatosis [see Warnings and Precautions (5.4)]
-- Bone Loss and Mineralization Defects [see Warnings and Precautions (5.5)].
 
 ## 6.1 Clinical Trials Experience
 
@@ -42,7 +41,35 @@ BMD declines of 7% or greater at the femoral neck were experienced by 1% of FTC+
 
 Adverse Reactions in Clinical Trials in Pediatric Subjects with HIV-1 Infection
 
-In a 24 week, open-label trial of 23 antiretroviral treatment-naïve HIV-1 infected pediatric subjects aged 12 to less than 18 years old (weighing at least 35 kg) who received FTC+TAF with EVG+COBI, the safety of this combination was similar to that of adults.
-Among these pediatric subjects, mean BMD increased from baseline to Week 24, +1.7% at the lumbar spine and +0.8% for the total body less head.
-Mean changes from baseline BMD Z-scores were −0.10 for lumbar spine and −0.11 for total body less head at Week 24.
-Two subjects had significant (greater than 4%) lumbar spine BMD loss at Week 24.
+In an open-label trial of antiretroviral treatment-naïve HIV-1 infected pediatric subjects between the ages of 12 to less than 18 years weighing at least 35 kg through 48 weeks (N=50; cohort 1) and virologically-suppressed subjects between the ages of 6 to less than 12 years weighing at least 25 kg (N=23; cohort 2) who received FTC+TAF with EVG+COBI through 24 weeks, with the exception of a decrease in the mean CD4+ cell count observed in cohort 2, the safety of this combination was similar to that of adults.
+
+Bone Mineral Density Effects
+
+Cohort 1: Treatment-naïve adolescents (12 to less than 18 years; at least 35 kg)
+
+Among the subjects in cohort 1 receiving FTC+TAF with EVG+COBI, mean BMD increased from baseline to Week 48, +4.2% at the lumbar spine and +1.3% for the total body less head (TBLH).
+Mean changes from baseline BMD Z-scores were −0.07 for lumbar spine and −0.20 for TBLH at Week 48.
+One subject had significant (at least 4%) lumbar spine BMD loss at Week 48.
+
+Cohort 2: Virologically-suppressed children (6 to less than 12 years; at least 25 kg)
+
+Among the subjects in cohort 2 receiving FTC+TAF with EVG+COBI, mean BMD increased from baseline to Week 24, +2.9% at the lumbar spine and +1.7% for TBLH.
+Mean changes from baseline BMD Z-scores were -0.06 for lumbar spine and -0.18 for TBLH at Week 24.
+Two subjects had significant (at least 4%) lumbar spine BMD loss at Week 24.
+
+Change from Baseline in CD4+ cell counts
+
+Cohort 2: Virologically-suppressed children (6 to less than 12 years; at least 25 kg)
+
+Cohort 2 evaluated pediatric subjects (N=23) who were virologically-suppressed and who switched from their antiretroviral regimen to FTC+TAF with EVG+COBI.
+Although all subjects had HIV-1 RNA < 50 copies/mL, there was a decrease from baseline in CD4+ cell count at Week 24.
+The mean baseline and mean change from baseline in CD4+ cell count and in CD4% from Week 2 to Week 24 are presented in Table 1.
+All subjects maintained their CD4+ cell counts above 400 cells/mm3 [see Use in Specific Populations (8.4)].
+
+Table 1 Mean Change in CD4+ Count and Percentage from Baseline to Week 24 in Virologically-Suppressed Pediatric Patients from 6 to <12 Years Who Switched to FTC+TAF with EVG+COBI
+
+| Week 2 | Week 4 | Week 12 | Week 24 |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | Baseline | Mean Change from Baseline |  |  |  |
+| CD4+ Cell Count (cells/mm3) | 966 (201.7)Mean (SD) | -162 | -125 | -162 | -150 |
+| CD4% | 40 (5.3) | +0.5% | -0.1% | -0.8% | -1.5% |

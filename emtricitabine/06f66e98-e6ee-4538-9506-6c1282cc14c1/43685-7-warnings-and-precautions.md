@@ -34,21 +34,3 @@ Discontinue DESCOVY in patients who develop clinically significant decreases in 
 
 Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with the use of nucleoside analogs, including emtricitabine, a component of DESCOVY, and tenofovir DF, another prodrug of tenofovir, alone or in combination with other antiretrovirals.
 Treatment with DESCOVY should be suspended in any patient who develops clinical or laboratory findings suggestive of lactic acidosis or pronounced hepatotoxicity (which may include hepatomegaly and steatosis even in the absence of marked transaminase elevations).
-
-## 5.5 Bone Loss and Mineralization Defects
-
-Decrease in Bone Mineral Density (BMD):
-
-In animal toxicology studies and human clinical trials, TAF and tenofovir have been associated with decreases in BMD and increases in biochemical markers of bone metabolism suggestive of increased bone turnover.
-In clinical trials in HIV-1 infected treatment-naïve adults, a significant decline in BMD was observed in 15% of subjects treated with FTC+TAF with EVG+COBI [see Adverse Reactions (6.1)].
-The long-term clinical significance of these changes has not been established.
-
-Assessment of BMD should be considered for adults and pediatric patients treated with DESCOVY who have a history of pathologic bone fracture or other risk factors for osteoporosis or bone loss.
-Calcium and vitamin D supplementation may be beneficial for all patients.
-If bone abnormalities are suspected, then appropriate consultation should be obtained.
-
-Mineralization Defects:
-
-Cases of osteomalacia associated with proximal renal tubulopathy, manifested as bone pain or pain in extremities and which may contribute to fractures, have been reported in association with the use of TDF-containing products.
-Hypophosphatemia and osteomalacia secondary to PRT have occurred in patients at risk of renal dysfunction who present with persistent or worsening bone or muscle symptoms while receiving products containing TDF [see Warnings and Precautions (5.3)].
-While not observed in clinical studies of DESCOVY, the risk of osteomalacia with DESCOVY is not known.

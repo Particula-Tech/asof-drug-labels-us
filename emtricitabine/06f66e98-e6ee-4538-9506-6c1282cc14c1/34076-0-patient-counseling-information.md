@@ -21,11 +21,6 @@ Lactic Acidosis and Severe Hepatomegaly
 Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with use of drugs similar to DESCOVY.
 Advise patients that they should stop DESCOVY if they develop clinical symptoms suggestive of lactic acidosis or pronounced hepatotoxicity [see Warnings and Precautions (5.4)].
 
-Decrease in Bone Mineral Density
-
-Advise patients that decreases in bone mineral density have been observed with the use of DESCOVY.
-Assessment of bone mineral density (BMD) should be considered in patients who have a history of pathologic bone fracture or other risk factors for osteoporosis or bone loss [see Warnings and Precautions (5.5)].
-
 Missed Dosage
 
 Inform patients that it is important to take DESCOVY on a regular dosing schedule with or without food and to avoid missing doses as it can result in development of resistance [see Dosage and Administration (2.2)].
