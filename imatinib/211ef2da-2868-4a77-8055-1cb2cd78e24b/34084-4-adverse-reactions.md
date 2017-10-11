@@ -117,8 +117,7 @@ Table 3: Most Frequently Reported Non-hematologic Adverse Reactions (Regardless 
 |  | Periorbital edema | 15 | <1 | 0 | 0 |
 | Psychiatric disorders | Insomnia | 9 | 11 | 0 | 0 |
 | Vascular disorder | Hypertension | 4 | 10 | <1 | 1 |
-
-aExcluding laboratory abnormalities bNCI Common Terminology Criteria for Adverse Events, Version 3.0
+| aExcluding laboratory abnormalities bNCI Common Terminology Criteria for Adverse Events, Version 3.0 |  |  |  |  |  |
 
 Table 4: Adverse Reactions Regardless of Relationship to Study Drug Reported in Other CML Clinical Trials (greater than or equal to 10% of All Patients in any Trial)(1)
 
@@ -292,7 +291,7 @@ Table 8: Adverse Reactions Reported More Frequently in Patients Treated with Stu
 | Myelosuppression |  |  |  |  |
 | Neutropenia (< 750/mcL) | 92 (100) | 63 (97) | 556 (71) | 218 (34) |
 | Thrombocytopenia (< 75,000/mcL) | 90 (92) | 63 (97) | 431 (55) | 329 (51) |
-| *Defined as the frequency of AEs per patient per treatment cycles that included Gleevec (includes patients with Ph+ ALL that received cycles with Gleevec **Defined as the frequency of AEs per patient per treatment cycles that did not include Gleevec (includes patients with Ph+ ALL that received cycles without Gleevec as well as all patients with Ph- ALL who did not receive Gleevec in any treatment cycle) |  |  |  |  |
+| *Defined as the frequency of AEs per patient per treatment cycles that included Gleevec (includes patients with Ph+ ALL that received cycles with Gleevec) **Defined as the frequency of AEs per patient per treatment cycles that did not include Gleevec (includes patients with Ph+ ALL that received cycles without Gleevec as well as all patients with Ph- ALL who did not receive Gleevec in any treatment cycle) |  |  |  |  |
 
 Adverse Reactions in Other Subpopulations
 
@@ -714,7 +713,7 @@ Respiratory, Thoracic and Mediastinal Disorders: acute respiratory failure1, int
 
 Gastrointestinal Disorders: ileus/intestinal obstruction, tumor hemorrhage/tumor necrosis, gastrointestinal perforation1 [see Warnings and Precautions (5.6)], diverticulitis, gastric antral vascular ectasia
 
-Skin and Subcutaneous Tissue Disorders: lichenoid keratosis, lichen planus, toxic epidermal necrolysis, palmar-plantar erythrodysesthesia syndrome, drug rash with eosinophilia and systemic symptoms (DRESS)
+Skin and Subcutaneous Tissue Disorders: lichenoid keratosis, lichen planus, toxic epidermal necrolysis, palmar-plantar erythrodysesthesia syndrome, drug rash with eosinophilia and systemic symptoms (DRESS), pseudoporphyria
 
 Musculoskeletal and Connective Tissue Disorders: avascular necrosis/hip osteonecrosis, rhabdomyolysis/myopathy, growth retardation in children, musculoskeletal pain upon treatment discontinuation (including myalgia, pain in extremity, arthalgia, bone pain)
 

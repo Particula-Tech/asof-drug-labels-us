@@ -61,7 +61,7 @@ Advise female patients of reproductive potential to use effective contraception 
 Infertility
 
 The risk of infertility in females or males of reproductive potential has not been studied in humans.
-In a rat study, the fertility in males and females was not affected [see Nonclincal Toxicology (13)].
+In a rat study, the fertility in males and females was not affected [see Nonclinical Toxicology (13)].
 
 ## 8.4 Pediatric Use
 

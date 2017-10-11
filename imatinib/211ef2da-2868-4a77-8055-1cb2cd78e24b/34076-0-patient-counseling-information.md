@@ -34,7 +34,7 @@ Pediatric
 
 Advise patients that growth retardation has been reported in children and pre-adolescents receiving Gleevec.
 The long term effects of prolonged treatment with Gleevec on growth in children are unknown.
-Therefore, closely monitor growth in children under Gleevec treatment [see Warnings and Precauttions (5.11)].
+Therefore, closely monitor growth in children under Gleevec treatment [see Warnings and Precautions (5.11)].
 
 Driving and Using Machines
 
@@ -45,4 +45,4 @@ Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07
 
 © Novartis
 
-T2017-92
+T2017-101
