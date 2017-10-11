@@ -61,7 +61,7 @@ Among 26 patients whose best response to an anthracycline had been progression, 
 ## 14.2 Adjuvant Treatment of Breast Cancer
 
 A multicenter, open-label, randomized trial (TAX316) evaluated the efficacy and safety of docetaxel for the adjuvant treatment of patients with axillary-node-positive breast cancer and no evidence of distant metastatic disease.
-After stratification according to the number of positive lymph nodes (1–3, 4+), 1491 patients were randomized to receive either docetaxel 75 mg/m2 administered 1-hour after doxorubicin 50 mg/m2 and cyclophosphamide 500 mg/m2 (TAC arm), or doxorubicin 50 mg/m2 followed by fluorouracil 500 mg/m2 and cyclosphosphamide 500 mg/m2 (FAC arm).
+After stratification according to the number of positive lymph nodes (1–3, 4+), 1491 patients were randomized to receive either docetaxel 75 mg/m2 administered 1-hour after doxorubicin 50 mg/m2 and cyclophosphamide 500 mg/m2 (TAC arm), or doxorubicin 50 mg/m2 followed by fluorouracil 500 mg/m2 and cyclophosphamide 500 mg/m2 (FAC arm).
 Both regimens were administered every 3 weeks for 6 cycles.
 Docetaxel was administered as a 1-hour infusion; all other drugs were given as intravenous bolus on day 1.
 In both arms, after the last cycle of chemotherapy, patients with positive estrogen and/or progesterone receptors received tamoxifen 20 mg daily for up to 5 years.

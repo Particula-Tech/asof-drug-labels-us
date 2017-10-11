@@ -6,7 +6,7 @@ Rx only
 
 NDC 0409-0366-01
 
-Docetaxel Injection, USP 20 mg/mL
+Docetaxel Injection 20 mg/mL
 
 Single use vial.
 Discard unused portion.
@@ -25,7 +25,7 @@ See package insert for complete instructions.
 
 NDC 0409-0366-01
 
-Docetaxel Injection, USP 20 mg/mL
+Docetaxel Injection 20 mg/mL
 
 For Intravenous Infusion only
 
@@ -44,7 +44,7 @@ Sterile
 
 NDC 0409-0367-01
 
-Docetaxel Injection, USP 80 mg/4 mL
+Docetaxel Injection 80 mg/4 mL
 
 (20 mg/mL)
 
@@ -64,7 +64,7 @@ See package insert for complete instructions.
 
 NDC 0409-0367-01
 
-Docetaxel Injection, USP 80 mg/4 mL
+Docetaxel Injection 80 mg/4 mL
 
 (20 mg/mL)
 
@@ -85,7 +85,7 @@ Sterile
 
 NDC 0409-0369-01
 
-Docetaxel Injection, USP 120 mg/6 mL
+Docetaxel Injection 120 mg/6 mL
 
 (20 mg/mL)
 
@@ -107,7 +107,7 @@ Sterile
 
 NDC 0409-0368-01
 
-Docetaxel Injection, USP 160 mg/8 mL
+Docetaxel Injection 160 mg/8 mL
 
 (20 mg/mL)
 
@@ -127,7 +127,7 @@ See package insert for complete instructions.
 
 NDC 0409-0368-01
 
-Docetaxel Injection, USP 160 mg/8 mL
+Docetaxel Injection 160 mg/8 mL
 
 (20 mg/mL)
 

@@ -6,18 +6,18 @@ Pregnancy Category D
 
 [See Warnings and Precautions (5.11).]
 
-Based on its mechanism of action and findings in animals, Docetaxel Injection, USP can cause fetal harm when administered to a pregnant woman.
-If Docetaxel Injection, USP is used during pregnancy, or if the patient becomes pregnant while receiving this drug, the patient should be apprised of the potential hazard to the fetus.
-Women of childbearing potential should be advised to avoid becoming pregnant during therapy with Docetaxel Injection, USP.
+Based on its mechanism of action and findings in animals, Docetaxel Injection can cause fetal harm when administered to a pregnant woman.
+If Docetaxel Injection is used during pregnancy, or if the patient becomes pregnant while receiving this drug, the patient should be apprised of the potential hazard to the fetus.
+Women of childbearing potential should be advised to avoid becoming pregnant during therapy with Docetaxel Injection.
 
-Docetaxel Injection, USP can cause fetal harm when administered to a pregnant woman.
+Docetaxel Injection can cause fetal harm when administered to a pregnant woman.
 Studies in both rats and rabbits at doses ≥0.3 and 0.03 mg/kg/day, respectively (about 1/50 and 1/300 the daily maximum recommended human dose on a mg/m2 basis), administered during the period of organogenesis, have shown that docetaxel is embryotoxic and fetotoxic (characterized by intrauterine mortality, increased resorption, reduced fetal weight, and fetal ossification delay).
 The doses indicated above also caused maternal toxicity.
 
 ## 8.3 Nursing Mothers
 
 It is not known whether docetaxel is excreted in human milk.
-Because many drugs are excreted in human milk, and because of the potential for serious adverse reactions in nursing infants from Docetaxel Injection, USP a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+Because many drugs are excreted in human milk, and because of the potential for serious adverse reactions in nursing infants from Docetaxel Injection a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 
 ## 8.4 Pediatric Use
 
@@ -95,7 +95,7 @@ Other reported clinical experience with this treatment regimen has not identifie
 
 ## 8.6 Hepatic Impairment
 
-Patients with bilirubin >ULN should not receive Docetaxel Injection, USP.
-Also, patients with AST and/or ALT >1.5 × ULN concomitant with alkaline phosphatase >2.5 × ULN should not receive Docetaxel Injection, USP [see Boxed Warning, Warnings and Precautions (5.2), Clinical Pharmacology (12.3)].
+Patients with bilirubin >ULN should not receive Docetaxel Injection.
+Also, patients with AST and/or ALT >1.5 × ULN concomitant with alkaline phosphatase >2.5 × ULN should not receive Docetaxel Injection [see Boxed Warning, Warnings and Precautions (5.2), Clinical Pharmacology (12.3)].
 
 The alcohol content of Docetaxel Injection should be taken into account when given to patients with hepatic impairment [see Warnings and Precautions (5.12)].

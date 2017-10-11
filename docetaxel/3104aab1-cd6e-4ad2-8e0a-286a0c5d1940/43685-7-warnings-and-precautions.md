@@ -17,18 +17,18 @@ Among patients who experienced treatment-related mortality at the 75 mg/m2 dose 
 
 ## 5.2 Hepatic Impairment
 
-Patients with combined abnormalities of transaminases and alkaline phosphatase should not be treated with Docetaxel Injection, USP [see Boxed Warning, Use in Specific Populations (8.6), Clinical Studies (14)].
+Patients with combined abnormalities of transaminases and alkaline phosphatase should not be treated with Docetaxel Injection [see Boxed Warning, Use in Specific Populations (8.6), Clinical Studies (14)].
 
 ## 5.3 Hematologic Effects
 
-Perform frequent peripheral blood cell counts on all patients receiving Docetaxel Injection, USP.
-Patients should not be retreated with subsequent cycles of Docetaxel Injection, USP until neutrophils recover to a level >1500 cells/mm3 and platelets recover to a level >100,000 cells/mm3.
+Perform frequent peripheral blood cell counts on all patients receiving Docetaxel Injection.
+Patients should not be retreated with subsequent cycles of Docetaxel Injection until neutrophils recover to a level >1500 cells/mm3 and platelets recover to a level >100,000 cells/mm3.
 
-A 25% reduction in the dose of Docetaxel Injection, USP is recommended during subsequent cycles following severe neutropenia (<500 cells/mm3) lasting 7 days or more, febrile neutropenia, or a grade 4 infection in a Docetaxel Injection, USP cycle [see Dosage and Administration (2.7)].
+A 25% reduction in the dose of Docetaxel Injection is recommended during subsequent cycles following severe neutropenia (<500 cells/mm3) lasting 7 days or more, febrile neutropenia, or a grade 4 infection in a Docetaxel Injection cycle [see Dosage and Administration (2.7)].
 
 Neutropenia (<2000 neutrophils/mm3) occurs in virtually all patients given 60 mg/m2 to 100 mg/m2 of docetaxel and grade 4 neutropenia (<500 cells/mm3) occurs in 85% of patients given 100 mg/m2 and 75% of patients given 60 mg/m2.
 Frequent monitoring of blood counts is, therefore, essential so that dose can be adjusted.
-Docetaxel Injection, USP should not be administered to patients with neutrophils <1500 cells/mm3.
+Docetaxel Injection should not be administered to patients with neutrophils <1500 cells/mm3.
 
 Febrile neutropenia occurred in about 12% of patients given 100 mg/m2 but was very uncommon in patients given 60 mg/m2.
 
@@ -42,17 +42,17 @@ Patients receiving TCF should be closely monitored during the first and subseque
 
 Patients should be observed closely for hypersensitivity reactions, especially during the first and second infusions.
 Severe hypersensitivity reactions characterized by generalized rash/erythema, hypotension and/or bronchospasm, or very rarely fatal anaphylaxis, have been reported in patients premedicated with 3 days of corticosteroids.
-Severe hypersensitivity reactions require immediate discontinuation of the Docetaxel Injection, USP infusion and aggressive therapy.
-Patients with a history of severe hypersensitivity reactions should not be rechallenged with Docetaxel Injection, USP.
+Severe hypersensitivity reactions require immediate discontinuation of the Docetaxel Injection infusion and aggressive therapy.
+Patients with a history of severe hypersensitivity reactions should not be rechallenged with Docetaxel Injection.
 
-Hypersensitivity reactions may occur within a few minutes following initiation of a Docetaxel Injection, USP infusion.
+Hypersensitivity reactions may occur within a few minutes following initiation of a Docetaxel Injection infusion.
 If minor reactions such as flushing or localized skin reactions occur, interruption of therapy is not required.
-All patients should be premedicated with an oral corticosteroid prior to the initiation of the infusion of Docetaxel Injection, USP [see Dosage and Administration (2.6)].
+All patients should be premedicated with an oral corticosteroid prior to the initiation of the infusion of Docetaxel Injection [see Dosage and Administration (2.6)].
 
 ## 5.5 Fluid Retention
 
 Severe fluid retention has been reported following docetaxel therapy.
-Patients should be premedicated with oral corticosteroids prior to each Docetaxel Injection, USP administration to reduce the incidence and severity of fluid retention [see Dosage and Administration (2.6)].
+Patients should be premedicated with oral corticosteroids prior to each Docetaxel Injection administration to reduce the incidence and severity of fluid retention [see Dosage and Administration (2.6)].
 Patients with pre-existing effusions should be closely monitored from the first dose for the possible exacerbation of the effusions.
 
 When fluid retention occurs, peripheral edema usually starts in the lower extremities and may become generalized with a median weight gain of 2 kg.
@@ -100,12 +100,12 @@ Symptoms of fatigue and weakness may last a few days up to several weeks and may
 
 ## 5.11 Use in Pregnancy
 
-Docetaxel Injection, USP can cause fetal harm when administered to a pregnant woman.
+Docetaxel Injection can cause fetal harm when administered to a pregnant woman.
 Docetaxel caused embryofetal toxicities including intrauterine mortality when administered to pregnant rats and rabbits during the period of organogenesis.
 Embryofetal effects in animals occurred at doses as low as 1/50 and 1/300 the recommended human dose on a body surface area basis.
-There are no adequate and well-controlled studies in pregnant women using Docetaxel Injection, USP.
-If Docetaxel Injection, USP is used during pregnancy, or if the patient becomes pregnant while receiving this drug, the patient should be apprised of the potential hazard to the fetus.
-Women of childbearing potential should be advised to avoid becoming pregnant during therapy with Docetaxel Injection, USP [see Use in Specific Populations (8.1)].
+There are no adequate and well-controlled studies in pregnant women using Docetaxel Injection.
+If Docetaxel Injection is used during pregnancy, or if the patient becomes pregnant while receiving this drug, the patient should be apprised of the potential hazard to the fetus.
+Women of childbearing potential should be advised to avoid becoming pregnant during therapy with Docetaxel Injection [see Use in Specific Populations (8.1)].
 
 ## 5.12 Alcohol Content
 
