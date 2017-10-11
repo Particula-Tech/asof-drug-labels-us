@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL - 2 mL Vial Label
 
-Single-dose Vial Preservative-Free
+2 mL Single-Dose Vial Preservative-Free
 
 NDC 0409-2305-17 Rx only
 
@@ -10,12 +10,15 @@ CIV
 
 2 mg / 2 mL (1 mg / mL)
 
+RL-6964
+
 FOR I.M. or I.V.
 Use.
 Discard unused portion.
+
 Hospira, Inc., Lake Forest, IL 60045 USA
 
-RL-3136
+RL-6964
 
 # PRINCIPAL DISPLAY PANEL - 2 mL Vial Carton
 
@@ -39,7 +42,7 @@ Hospira
 
 # PRINCIPAL DISPLAY PANEL - 1 mL Vial Label
 
-Single-dose Vial Preservative-Free
+1 mL Single-Dose Vial Preservative-Free
 
 NDC 0409-2308-01 Rx only
 
@@ -49,12 +52,13 @@ CIV
 
 5 mg / mL
 
+RL-6960
+
 FOR I.M. or I.V.
 Use.
 Discard unused portion.
-Hospira, Inc., Lake Forest, IL 60045 USA
 
-RL-2962
+Hospira, Inc., Lake Forest, IL 60045 USA
 
 Hospira
 
