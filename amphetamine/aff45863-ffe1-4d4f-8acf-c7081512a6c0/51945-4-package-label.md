@@ -16,10 +16,6 @@ Rx only
 
 Shire
 
-015924
-
-LOT EXP
-
 # PRINCIPAL DISPLAY PANEL - 10 mg Capsule Bottle Label
 
 NDC 54092-383-01
@@ -37,10 +33,6 @@ CII 100 Capsules
 Rx only
 
 Shire
-
-015925
-
-LOT EXP
 
 # PRINCIPAL DISPLAY PANEL - 15 mg Capsule Bottle Label
 
@@ -60,10 +52,6 @@ Rx only
 
 Shire
 
-015926
-
-LOT EXP
-
 # PRINCIPAL DISPLAY PANEL - 20 mg Capsule Bottle Label
 
 NDC 54092-387-01
@@ -81,10 +69,6 @@ CII 100 Capsules
 Rx only
 
 Shire
-
-015927
-
-LOT EXP
 
 # PRINCIPAL DISPLAY PANEL - 25 mg Capsule Bottle Label
 
@@ -104,10 +88,6 @@ Rx only
 
 Shire
 
-015928
-
-LOT EXP
-
 # PRINCIPAL DISPLAY PANEL - 30 mg Capsule Bottle Label
 
 NDC 54092-391-01
@@ -125,7 +105,3 @@ CII 100 Capsules
 Rx only
 
 Shire
-
-015929
-
-LOT EXP
