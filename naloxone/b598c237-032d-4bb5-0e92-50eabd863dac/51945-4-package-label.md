@@ -2,17 +2,19 @@ PRINCIPAL DISPLAY PANEL - 1 mL Cartridge Label
 
 1 mL Single-use Carpuject™ Sterile Cartridge Unit with Luer Lock
 
-NDC 0409-1782-03 Rx only
+Rx only NDC 0409-1782-03
 
 Naloxone Hydrochloride Injection, USP
 
-RL-5014
+RL-5579
 
 0.4 mg/mL PROTECT FROM LIGHT
 
 For Intravenous, Intramuscular or Subcutaneous Use
 
-Hospira, Inc., Lake Forest, IL 60045 USA Hospira
+Hospira, Inc., Lake Forest, IL 60045 USA
+
+Hospira
 
 PRINCIPAL DISPLAY PANEL - 1 mL Cartridge Box
 
@@ -26,9 +28,7 @@ Needle not included
 
 SLIM- PAK™ Tamper Detection Package
 
-Naloxone Hydrochloride Injection, USP
-
-0.4 mg/mL
+Naloxone Hydrochloride Injection, USP 0.4 mg/mL
 
 For Intravenous, Intramuscular or Subcutaneous Use
 
