@@ -5,8 +5,8 @@
 Grune and Stratton, pp.
 510-514, 1962.
 
-Hospira, Inc., Lake Forest, IL 60045 USA
+Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
-LAB-0948-1.0
+LAB-0948-2.0
 
-February, 2017
+9/2017
