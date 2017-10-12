@@ -50,7 +50,7 @@ After subcutaneous administration of insulin glargine/lixisenatide combinations,
 Exposure to insulin glargine ranged from 86% to 101% compared to administration of insulin glargine alone.
 
 After subcutaneous administration of insulin glargine/lixisenatide combinations, the median tmax of lixisenatide was in the range of 2.5 to 3.0 hours.
-There was a small decrease in Cmax of lixisenatide of 22–34% compared with separate simultaneous administration of insulin glargine and lixisenatide, which is not likely to be clinically significant.
+There was a small decrease in Cmax of lixisenatide of 22%–34% compared with separate simultaneous administration of insulin glargine and lixisenatide, which is not likely to be clinically significant.
 There are no clinically relevant differences in the rate of absorption when lixisenatide is administered subcutaneously in the abdomen, thigh, or arm.
 
 Distribution

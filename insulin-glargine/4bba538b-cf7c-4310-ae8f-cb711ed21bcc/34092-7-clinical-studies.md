@@ -8,10 +8,10 @@ This type 2 diabetes population had the following characteristics: Mean age was 
 At screening the mean duration of diabetes was approximately 12 years, the mean BMI was approximately 31 kg/m2, mean eGFR was 80.6 mL/min/1.73 m2 and 86.1% of patients had an eGFR ≥60 mL/min.
 
 After screening, eligible patients (n=1018) entered a 6-week run-in phase where patients remained on or were switched to insulin glargine 100 units/mL, if they were treated with another basal insulin, and had their insulin glargine dose titrated/stabilized while continuing metformin (if previously taken).
-The mean HbA1c decreased during run-in period from 8.5 to 8.1%.
+The mean HbA1c decreased during run-in period from 8.5% to 8.1%.
 Any other OADs were discontinued.
 
-At the end of the run-in period, patients with an HbA1c between 7 and 10%, FPG ≤140 mg/dL and insulin glargine daily dose of 20 to 50 units (mean of 35 units), were randomized to either SOLIQUA 100/33 (n=367) or insulin glargine 100 units/mL (n=369).
+At the end of the run-in period, patients with an HbA1c between 7% and 10%, FPG ≤140 mg/dL and insulin glargine daily dose of 20 to 50 units (mean of 35 units), were randomized to either SOLIQUA 100/33 (n=367) or insulin glargine 100 units/mL (n=369).
 
 SOLIQUA 100/33 and insulin glargine were to be titrated weekly to target a fasting plasma glucose goal of <100 mg/dL.
 The mean dose of insulin glargine at baseline was 35 units.
@@ -34,9 +34,9 @@ Table 5: Results of a 30-Week Study in Patients with Type 2 Diabetes Mellitus In
 | HbA1c (%) |  |  |
 | Baseline (mean; post run-in phase) | 8.1 | 8.1 |
 | End of study (mean) | 6.9 | 7.5 |
-| LS change from baseline (mean)Estimated using an ANCOVA with treatment, randomization strata, and country as fixed factors and baseline HbA1c as covariate. 20 (5.5%) patients in the SOLIQUA 100/33 arm and 10 (2.7%) of patients in the insulin glargine 100 units/mL arm had missing HbA1c measurement at Week 30. Missing measurements were imputed using multiple imputation with respective to the baseline value of the subject. | -1.1 | -0.6 |
+| LS change from baseline (mean)Estimated using an ANCOVA with treatment, randomization strata, and country as fixed factors and baseline HbA1c as covariate. 20 (5.5%) patients in the SOLIQUA 100/33 arm and 10 (2.7%) patients in the insulin glargine 100 units/mL arm had missing HbA1c measurement at Week 30. Missing measurements were imputed using multiple imputation with respect to the baseline value of the subject. | -1.1 | -0.6 |
 | Difference vs insulin glargine [95% confidence interval] | -0.5 [-0.6, -0.4] p<0.01; The trial was designed to show the contribution of the GLP-1 component to glucose lowering. The insulin glargine dose in this trial was capped at a maximum dose of 60 units and the dosing algorithm was selected to isolate the effect of the GLP-1 component. At the end of the trial, the doses of insulin glargine were equivalent between treatment groups. The mean final dose of SOLIQUA 100/33 and insulin glargine at week 30 was 46.7 units (for SOLIQUA 100/33: 46.7 units insulin glargine/15.6 mcg lixisenatide). The difference in effect observed in the trial may not necessarily reflect the effect that will be observed in the care setting where alternative insulin glargine dosage can be used. |  |
-| Patients [n (%)] reaching HbA1c <7% at week 30Patients with missing HbA1c measurement at Week 30 were considered as non-responders. | 201 (55.1%) | 108 (29.6%) |
+| Patients [n (%)] reaching HbA1c <7% at week 30Patients with missing HbA1c measurement at Week 30 were considered non-responders. | 201 (55.1%) | 108 (29.6%) |
 | Fasting Plasma Glucose (mg/dL) |  |  |
 | Baseline (mean) | 132.3 | 132.0 |
 | End of study (mean) | 121.9 | 120.5 |

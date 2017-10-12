@@ -17,7 +17,7 @@ Important information
 - Always carry a spare pen and spare needles in case they are lost or stop working.
 - Do not reuse needles.
   Always use a new sterile needle for each injection.
-  This helps stop blocked needles, contamination and infection.
+  This helps stop blocked needles, contamination, and infection.
   If you reuse needles, you might not get your dose (underdosing) or get too much (overdosing).
 - Do not use SOLIQUA 100/33 in an insulin pump or inject SOLIQUA 100/33 into your vein (intravenously) or muscle (intramuscularly).
 - Do not mix SOLIQUA 100/33 in any other type of insulin or liquid medicine prior to injection.
@@ -58,7 +58,7 @@ Cold medicine is more painful to inject.
 
 - 1BPull off the pen cap.
 
-- 1CCheck that the medicine is clear and to almost colorless.
+- 1CCheck that the medicine is clear and colorless to almost colorless.
   - If you see small particles, return it to your pharmacy for a replacement.
 
 - 1DWipe the rubber seal with an alcohol swab.
@@ -151,7 +151,7 @@ Units of medicine in your pen
 
 - This pen contains 300 units of SOLIQUA 100/33 and it is intended to be used for more than one dose.
 
-STEP 5: Inject your dose
+Step 5: Inject your dose
 
 If you find it hard to press the injection button in, do not force it as this may break your pen.
 See the section after Step 5E below for help.
@@ -177,7 +177,7 @@ If you find it hard to press the injection button in:
 - If you still find it hard to press in, get a new pen.
 - Do not use a syringe to remove medicine from your pen.
 
-STEP 6: Remove the needle
+Step 6: Remove the needle
 
 - Take care when handling needles to prevent needle-stick injury and cross-infection.
 - Do not put the inner needle cap back on.
@@ -198,7 +198,7 @@ STEP 6: Remove the needle
 
 Use by
 
-- Only use your pen for up to 14 days after its first use.
+- Only use your pen for up to 28 days after its first use.
 
 How to store your pen
 
@@ -210,7 +210,7 @@ Before first use
 
 After first use
 
-- Keep your pen at room temperature, below 86°F (30°C).
+- Keep your pen at room temperature, below 77°F (25°C).
 - Do not put your pen back in the refrigerator.
 - Do not store your pen with the needle attached.
 - Store the pen with your pen cap on.
@@ -247,10 +247,10 @@ Throwing your pen away
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-sanofi-aventis U.S. LLC; Bridgewater, NJ 08807 A SANOFI COMPANY
+sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY
 
-©2017 sanofi-aventis U.S. LLC
+© 2017 sanofi-aventis U.S. LLC
 
-SOLIQUA and SoloStar are trademarks of sanofi-aventis U.S. LLC.
+SOLIQUA and SoloStar are registered trademarks of sanofi-aventis U.S. LLC.
 
-Approved: August 2017
+Approved: October 2017

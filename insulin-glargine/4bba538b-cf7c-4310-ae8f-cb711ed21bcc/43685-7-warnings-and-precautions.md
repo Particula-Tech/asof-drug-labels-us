@@ -40,11 +40,11 @@ Administration of more than 60 units of SOLIQUA 100/33 daily can result in overd
 Do not exceed the 20 mcg maximum recommended dose of lixisenatide or use with other glucagon-like peptide-1 receptor agonists.
 
 Accidental mix-ups between insulin products have been reported.
-To avoid medication errors between SOLIQUA 100/33 (an insulin containing product) and other insulins, instruct patients to always check the insulin label before each injection.
+To avoid medication errors between SOLIQUA 100/33 (an insulin-containing product) and other insulins, instruct patients to always check the insulin label before each injection.
 
 ## 5.6 Hypoglycemia
 
-Hypoglycemia is the most common adverse reaction associated with insulin containing products, including SOLIQUA 100/33 [see Adverse Reactions (6.1)].
+Hypoglycemia is the most common adverse reaction associated with insulin-containing products, including SOLIQUA 100/33 [see Adverse Reactions (6.1)].
 Severe hypoglycemia can cause seizures, may be life-threatening or cause death.
 Hypoglycemia can impair concentration ability and reaction time; this may place an individual and others at risk in situations where these abilities are important (e.g., driving or operating other machinery).
 SOLIQUA 100/33 (an insulin-containing product), or any insulin, should not be used during episodes of hypoglycemia [see Contraindications (4)].
@@ -56,7 +56,7 @@ Risk Factors for Hypoglycemia
 
 The risk of hypoglycemia generally increases with intensity of glycemic control.
 The risk of hypoglycemia after an injection is related to the duration of action of the insulin and, in general, is highest when the glucose lowering effect of the insulin is maximal.
-As with all insulin containing preparations, the glucose lowering effect time course of SOLIQUA 100/33 may vary in different individuals or at different times in the same individual and depends on many conditions, including the area of injection as well as the injection-site blood supply and temperature [see Clinical Pharmacology (12.2)].
+As with all insulin-containing preparations, the glucose lowering effect time course of SOLIQUA 100/33 may vary in different individuals or at different times in the same individual and depends on many conditions, including the area of injection as well as the injection-site blood supply and temperature [see Clinical Pharmacology (12.2)].
 
 Other factors which may increase the risk of hypoglycemia include changes in meal pattern (e.g., macronutrient content or timing of meals), changes in level of physical activity, or changes to coadministered medication [see Drug Interactions (7.1)].
 Patients with renal or hepatic impairment may be at higher risk of hypoglycemia [see Use in Specific Populations (8.6, 8.7)].
@@ -84,8 +84,7 @@ SOLIQUA 100/33 is not recommended in patients with end-stage renal disease [see 
 Patients may develop antibodies to insulin and lixisenatide, components of SOLIQUA 100/33, following treatment.
 A pooled analysis of studies of lixisenatide-treated patients showed that 70% were antibody positive at Week 24.
 In the subset of patients (2.4%) with the highest antibody concentrations (>100 nmol/L), an attenuated glycemic response was observed.
-A higher incidence of allergic reactions and injection-site reactions occurred in antibody positive patients.
-[see Warnings and Precautions (5.1), Adverse Reactions (6.2)].
+A higher incidence of allergic reactions and injection-site reactions occurred in antibody positive patients [see Warnings and Precautions (5.1), Adverse Reactions (6.2)].
 
 If there is worsening glycemic control or failure to achieve targeted glycemic control, significant injection-site reactions or allergic reactions, alternative antidiabetic therapy should be considered.
 
@@ -97,9 +96,9 @@ Monitor potassium levels in patients at risk for hypokalemia if indicated (e.g.,
 
 ## 5.10 Fluid Retention and Heart Failure with Concomitant Use of PPAR-gamma Agonists
 
-Thiazolidinediones (TZDs), which are peroxisome proliferator-activated receptor (PPAR)-gamma agonists, can cause dose-related fluid retention, particularly when used in combination with insulin containing products, including SOLIQUA 100/33.
+Thiazolidinediones (TZDs), which are peroxisome proliferator-activated receptor (PPAR)-gamma agonists, can cause dose-related fluid retention, particularly when used in combination with insulin-containing products, including SOLIQUA 100/33.
 Fluid retention may lead to or exacerbate heart failure.
-Patients treated with insulin containing products, including SOLIQUA 100/33, and a PPAR-gamma agonist should be observed for signs and symptoms of heart failure.
+Patients treated with insulin-containing products, including SOLIQUA 100/33, and a PPAR-gamma agonist should be observed for signs and symptoms of heart failure.
 If heart failure develops, it should be managed according to current standards of care, and discontinuation or dose reduction of the PPAR-gamma agonist must be considered.
 
 ## 5.11 Macrovascular Outcomes

@@ -21,10 +21,10 @@ Discard after the expiration date printed on the label.
 SOLIQUA 100/33 should not be stored in the freezer and should not be allowed to freeze.
 Discard SOLIQUA 100/33 if it has been frozen.
 
-After first use, store at room temperature below 86°F (30°C).
+After first use, store at room temperature below 77°F (25°C).
 Replace the pen cap after each use to protect from light.
 
-Discard pen 14 days after first use.
+Discard pen 28 days after first use.
 
 Always remove the needle after each injection and store the SOLIQUA 100/33 pen without a needle attached.
 This prevents contamination and/or infection, or leakage of the SOLIQUA 100/33 pen, and will ensure accurate dosing.

@@ -18,7 +18,7 @@ Advise patients that they must never share a SOLIQUA 100/33 prefilled pen with a
 
 Hyperglycemia or Hypoglycemia
 
-Inform patients that hypoglycemia is the most common adverse reaction with insulin containing products.
+Inform patients that hypoglycemia is the most common adverse reaction with insulin-containing products.
 Inform patients of the symptoms of hypoglycemia.
 Inform patients that the ability to concentrate and react may be impaired as a result of hypoglycemia.
 This may present a risk in situations where these abilities are especially important, such as driving or operating other machinery.

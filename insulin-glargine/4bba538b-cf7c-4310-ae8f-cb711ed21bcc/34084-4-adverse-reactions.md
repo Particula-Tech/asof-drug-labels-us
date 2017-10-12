@@ -16,7 +16,7 @@ The safety of SOLIQUA 100/33 (n=834, with a mean treatment duration of 203 days)
 The studies had the following characteristics: mean age was approximately 59 years; approximately 50% were male, 90% were Caucasian, 6% were Black or African American and 18 % were Hispanic.
 The mean duration of diabetes was 10.3 years, mean HbA1c at screening for Study A was 8.2 and Study B 8.5.
 The mean BMI at baseline was 32 kg/m2.
-Baseline eGFR was ≥60 mL/min in 87.2% of the pooled study population and mean baseline eGFR was 83.0 ml/min/1.73m2.
+Baseline eGFR was ≥60 mL/min in 87.2% of the pooled study population and mean baseline eGFR was 83.0 mL/min/1.73 m2.
 
 Table 3: Adverse Reactions Occurring in ≥5% of SOLIQUA 100/33-Treated Patients with Type 2 Diabetes Mellitus from Two Pooled Clinical Trials
 
@@ -30,7 +30,7 @@ Table 3: Adverse Reactions Occurring in ≥5% of SOLIQUA 100/33-Treated Patients
 
 Hypoglycemia
 
-Hypoglycemia is the most commonly observed adverse reaction in patients using insulin, and insulin containing products including SOLIQUA 100/33 [see Warnings and Precautions (5.6)].
+Hypoglycemia is the most commonly observed adverse reaction in patients using insulin, and insulin-containing products including SOLIQUA 100/33 [see Warnings and Precautions (5.6)].
 The rates of reported hypoglycemia depend on the definition of hypoglycemia used, diabetes type, insulin dose, intensity of glucose control, background therapies, and other intrinsic and extrinsic patient factors.
 For these reasons, comparing rates of hypoglycemia in clinical trials for SOLIQUA 100/33 with the incidence of hypoglycemia for other products may be misleading and also, may not be representative of hypoglycemia rates that will occur in clinical practice.
 
@@ -67,7 +67,7 @@ Allergic reactions (such as anaphylactic reaction, angioedema and urticaria) adj
 
 Insulin glargine
 
-Severe, life-threatening, generalized allergy, including anaphylaxis, generalized skin reactions, angioedema, bronchospasm, hypotension, and shock may occur with any insulin, including SOLIQUA 100/33 and may be life threatening.
+Severe, life-threatening, generalized allergy, including anaphylaxis, generalized skin reactions, angioedema, bronchospasm, hypotension, and shock may occur with any insulin, including SOLIQUA 100/33, and may be life threatening.
 
 Injection-Site Reactions
 
@@ -85,7 +85,7 @@ Some patients taking insulin glargine, a component of SOLIQUA 100/33 have experi
 
 Weight Gain
 
-Weight gain can occur with insulin containing products, including SOLIQUA 100/33, and has been attributed to the anabolic effects of insulin.
+Weight gain can occur with insulin-containing products, including SOLIQUA 100/33, and has been attributed to the anabolic effects of insulin.
 
 ## 6.2 Immunogenicity
 

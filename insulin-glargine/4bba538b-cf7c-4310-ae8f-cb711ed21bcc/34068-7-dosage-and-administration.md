@@ -9,7 +9,7 @@ The following are important dosing information for SOLIQUA 100/33, a combination
 - In patients inadequately controlled on 30 to 60 units of basal insulin, the recommended starting dosage of SOLIQUA 100/33 is 30 units (30 units insulin glargine/10 mcg lixisenatide) given subcutaneously once daily.
 - Administer SOLIQUA 100/33 subcutaneously once a day within the hour prior to the first meal of the day.
 - The maximum dosage of SOLIQUA 100/33 is 60 units (60 units insulin glargine/20 mcg lixisenatide) [see Warnings and Precautions (5.5)].
-- The SOLIQUA 100/33 Pen delivers doses from 15 to 60 units in a single injection (see Table 1) [see Dosage and Administration (2.2)].
+- The SOLIQUA 100/33 pen delivers doses from 15 to 60 units in a single injection (see Table 1) [see Dosage and Administration (2.2)].
 - Use alternative antidiabetic products if patients require a SOLIQUA 100/33 daily dosage:
   - –below 15 units, or
   - –over 60 units
@@ -70,7 +70,7 @@ Table 1: Units of Insulin Glargine and Micrograms of Lixisenatide in Each Dosage
 
 ## 2.2 Titration of SOLIQUA 100/33
 
-- After starting with the recommended dosage of SOLIQUA 100/33, based upon prior insulin dose or lixisenatide use [see Dosage and Administration 2.1], titrate the dosage upwards or downwards by two to four units (see Table 2) every week based on the patient's metabolic needs, blood glucose monitoring results, and glycemic control goal until the desired fasting plasma glucose is achieved.
+- After starting with the recommended dosage of SOLIQUA 100/33, based upon prior insulin dose or lixisenatide use [see Dosage and Administration (2.1)], titrate the dosage upwards or downwards by two to four units (see Table 2) every week based on the patient's metabolic needs, blood glucose monitoring results, and glycemic control goal until the desired fasting plasma glucose is achieved.
   The dosage of SOLIQUA 100/33 is between 15 to 60 units (see Table 1).
 - To minimize the risk of hypoglycemia or hyperglycemia, additional titration may be needed with changes in physical activity, meal patterns (i.e., macronutrient content or timing of food intake), or renal or hepatic function; during acute illness; or when used with other medications [see Warnings and Precautions (5.4) and Drug Interactions (7)].
 
@@ -91,7 +91,7 @@ Do not administer an extra dose or increase the dose to make up for the missed d
 
 - The SOLIQUA 100/33 prefilled pen is for single-patient use only [see Warnings and Precautions (5.3)].
 - Train patients on proper use and injection technique before initiating SOLIQUA 100/33.
-- Always check the SOLIQUA 100/33 label before administration [see Warnings and Precautions (5.5)]
+- Always check the SOLIQUA 100/33 label before administration [see Warnings and Precautions (5.5)].
 - Visually inspect for particulate matter and discoloration prior to administration.
   Only use SOLIQUA 100/33 if the solution is clear and colorless to almost colorless.
 - Inject SOLIQUA 100/33 subcutaneously into the abdominal area, thigh, or upper arm.
