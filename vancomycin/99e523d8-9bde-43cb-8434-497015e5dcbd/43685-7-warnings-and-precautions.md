@@ -22,6 +22,8 @@ Vancomycin should be used with caution in patients with renal insufficiency beca
 
 Dosage of vancomycin must be adjusted for patients with renal dysfunction (see PRECAUTIONS and DOSAGE AND ADMINISTRATION).
 
+## Clostridium Difficile Associated Diarrhea (CDAD)
+
 Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including Vancomycin Injection, USP, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
@@ -32,6 +34,12 @@ Careful medical history is necessary since CDAD has been reported to occur over 
 
 If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
 Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
+
+## Hemorrhagic Occlusive Retinal Vasculitis (HORV)
+
+Hemorrhagic occlusive retinal vasculitis, including permanent loss of vision, occurred in patients receiving intracameral or intravitreal administration of vancomycin during or after cataract surgery.
+The safety and efficacy of vancomycin administered by the intracameral or the intravitreal route have not been established by adequate and well-controlled trials.
+Vancomycin is not indicated for prophylaxis of endophthalmitis.
 
 # PRECAUTIONS
 
