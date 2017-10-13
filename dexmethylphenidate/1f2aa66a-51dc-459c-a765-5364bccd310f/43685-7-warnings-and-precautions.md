@@ -66,7 +66,7 @@ Priapism was not reported with drug initiation but developed after some time on 
 Priapism has also appeared during a period of drug withdrawal (drug holidays or discontinuation).
 Patients who develop abnormally sustained or frequent and painful erections should seek immediate medical attention.
 
-Peripheral Vasculopathy, Including Raynaud’s phenomenon
+Peripheral Vasculopathy, Including Raynaud’s Phenomenon
 
 Stimulants, including dexmethylphenidate hydrochloride tablets, used to treat ADHD are associated with peripheral vasculopathy, including Raynaud’s phenomenon.
 Signs and symptoms are usually intermittent and mild; however, very rare sequelae include digital ulceration and/or soft tissue breakdown.
@@ -83,12 +83,16 @@ Use in Children Under 6 Years of Age
 
 Dexmethylphenidate hydrochloride tablets should not be used in children under 6 years, since safety and efficacy in this age group have not been established.
 
-| DRUG DEPENDENCE:Dexmethylphenidate hydrochloride tablets should be given cautiously to patients with a history of drug dependence or alcoholism. Chronic, abusive use can lead to marked tolerance and psychological dependence with varying degrees of abnormal behavior. Frank psychotic episodes can occur, especially with parenteral abuse. Careful supervision is required during drug withdrawal from abusive use since severe depression may occur. Withdrawal following chronic therapeutic use may unmask symptoms of the underlying disorder that may require follow-up. |
+| DRUG DEPENDENCE: Dexmethylphenidate hydrochloride tablets should be given cautiously to patients with a history of drug dependence or alcoholism. Chronic, abusive use can lead to marked tolerance and psychological dependence with varying degrees of abnormal behavior. Frank psychotic episodes can occur, especially with parenteral abuse. Careful supervision is required during drug withdrawal from abusive use since severe depression may occur. Withdrawal following chronic therapeutic use may unmask symptoms of the underlying disorder that may require follow-up. |
 | --- |
 
 # PRECAUTIONS
 
 Hematologic Monitoring
+
+Periodic CBC, differential, and platelet counts are advised during prolonged therapy.
+
+## Hematologic Monitoring
 
 Periodic CBC, differential, and platelet counts are advised during prolonged therapy.
 
@@ -105,12 +109,13 @@ Priapism
 Advise patients, caregivers, and family members of the possibility of painful or prolonged penile erections (priapism).
 Instruct the patient to seek immediate medical attention in the event of priapism.
 
-Circulation problems in fingers and toes [Peripheral vasculopathy, including Raynaud’s phenomenon]
+Circulation problems in fingers and toes [Peripheral vasculopathy, including Raynaud’s phenomenon]:
 
-- Instruct patients beginning treatment with dexmethylphenidate hydrochloride tablets about the risk of peripheral vasculopathy, including Raynaud’s Phenomenon, and in associated signs and symptoms: fingers or toes may feel numb, cool, painful, and/or may change color from pale, to blue, to red.
+- Instruct patients beginning treatment with dexmethylphenidate hydrochloride tablets about the risk of peripheral vasculopathy, including Raynaud’s phenomenon, and in associated signs and symptoms: fingers or toes may feel numb, cool, painful, and/or may change color from pale, to blue, to red.
 - Instruct patients to report to their physician any new numbness, pain, skin color change, or sensitivity to temperature in fingers or toes.
 - Instruct patients to call their physician immediately with any signs of unexplained wounds appearing on fingers or toes while taking dexmethylphenidate hydrochloride tablets.
-- Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients.
+
+Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients.
 
 ## Drug Interactions
 

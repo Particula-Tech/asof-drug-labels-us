@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-DEXMETHYLPHENIDATE HYDROCHLORIDE TABLETS
+DEXMETHYLPHENIDATE HYDROCHLORIDE TABLETS CII
 
 (dex-METH-il-FEN-i-date HYE-droe-KLOR-ide)
 
@@ -8,18 +8,18 @@ Read the Medication Guide that comes with Dexmethylphenidate Hydrochloride Table
 There may be new information.
 This Medication Guide does not take the place of talking to your doctor about your or your child’s treatment with Dexmethylphenidate Hydrochloride Tablets.
 
-| What is the most important information I should know about Dexmethylphenidate Hydrochloride Tablets? The following have been reported with use of dexmethylphenidate hydrochloride and other stimulant medicines. 1. Heart-related problems: sudden death in patients who have heart problems or heart defects stroke and heart attack in adults increased blood pressure and heart rate Tell your doctor if you or your child have any heart problems, heart defects, high blood pressure, or a family history of these problems. Your doctor should check you or your child carefully for heart problems before starting Dexmethylphenidate Hydrochloride Tablets. Your doctor should check your or your child’s blood pressure and heart rate regularly during treatment with Dexmethylphenidate Hydrochloride Tablets. Call your doctor right away if you or your child has any signs of heart problems such as chest pain, shortness of breath, or fainting while taking Dexmethylphenidate Hydrochloride Tablets. 2. Mental (Psychiatric) problems:All Patients new or worse behavior and thought problems new or worse bipolar illness new or worse aggressive behavior or hostility Children and Teenagers new psychotic symptoms (such as hearing voices, believing things that are not true, are suspicious) or new manic symptoms Tell your doctor about any mental problems you or your child have, or about a family history of suicide, bipolar illness, or depression. Call your doctor right away if you or your child have any new or worsening mental symptoms or problems while taking Dexmethylphenidate Hydrochloride Tablets, especially seeing or hearing things that are not real, believing things that are not real, or are suspicious. 3. Circulation problems in fingers and toes [Peripheral vasculopathy, including Raynaud’s phenomenon]: fingers or toes may feel numb, cool, painful, and/or may change color from pale, to blue, to red Tell your doctor if you have or your child has numbness, pain, skin color change, or sensitivity to temperature in the fingers or toes. Call your doctor right away if you have or your child has any signs of unexplained wounds appearing on fingers or toes while taking Dexmethylphenidate Hydrochloride Tablets. |
+| What is the most important information I should know about Dexmethylphenidate Hydrochloride Tablets?The following have been reported with use of dexmethylphenidate hydrochloride and other stimulant medicines. 1. Heart-related problems: sudden death in patients who have heart problems or heart defects stroke and heart attack in adults increased blood pressure and heart rate Tell your doctor if you or your child have any heart problems, heart defects, high blood pressure, or a family history of these problems. Your doctor should check you or your child carefully for heart problems before starting Dexmethylphenidate Hydrochloride Tablets. Your doctor should check your or your child’s blood pressure and heart rate regularly during treatment with Dexmethylphenidate Hydrochloride Tablets. Call your doctor right away if you or your child has any signs of heart problems such as chest pain, shortness of breath, or fainting while taking Dexmethylphenidate Hydrochloride Tablets. 2. Mental (Psychiatric) problems: All Patients new or worse behavior and thought problems new or worse bipolar illness new or worse aggressive behavior or hostility Children and Teenagers new psychotic symptoms (such as hearing voices, believing things that are not true, are suspicious) or new manic symptoms Tell your doctor about any mental problems you or your child have, or about a family history of suicide, bipolar illness, or depression. Call your doctor right away if you or your child have any new or worsening mental symptoms or problems while taking Dexmethylphenidate Hydrochloride Tablets, especially seeing or hearing things that are not real, believing things that are not real, or are suspicious. 3. Circulation problems in fingers and toes [Peripheral vasculopathy, including Raynaud’s phenomenon]: fingers or toes may feel numb, cool, painful, and/or may change color from pale, to blue, to red Tell your doctor if you have or your child has numbness, pain, skin color change, or sensitivity to temperature in the fingers or toes. Call your doctor right away if you have or your child has any signs of unexplained wounds appearing on fingers or toes while taking Dexmethylphenidate Hydrochloride Tablets |
 | --- |
 
 What Is Dexmethylphenidate Hydrochloride Tablets?
 
-Dexmethylphenidate Hydrochloride Tablets is a central nervous system stimulant prescription medicine.
+Dexmethylphenidate Hydrochloride Tablets are a central nervous system stimulant prescription medicine.
 It is used for the treatment of attention deficit and hyperactivity disorder (ADHD).
 Dexmethylphenidate Hydrochloride Tablets may help increase attention and decrease impulsiveness and hyperactivity in patients with ADHD.
 
 Dexmethylphenidate Hydrochloride Tablets should be used as a part of a total treatment program for ADHD that may include counseling or other therapies.
 
-| Dexmethylphenidate Hydrochloride Tablets is a federally controlled substance (CII) because it can be abused or lead to dependence. Keep Dexmethylphenidate Hydrochloride Tablets in a safe place to prevent misuse and abuse. Selling or giving away Dexmethylphenidate Hydrochloride Tablets may harm others, and is against the law. Tell your doctor if you or your child have (or have a family history of) ever abused or been dependent on alcohol, prescription medicines or street drugs. |
+| Dexmethylphenidate Hydrochloride Tablets are a federally controlled substance (CII) because it can be abused or lead to dependence. Keep Dexmethylphenidate Hydrochloride Tablets in a safe place to prevent misuse and abuse. Selling or giving away Dexmethylphenidate Hydrochloride Tablets may harm others, and is against the law. Tell your doctor if you or your child have (or have a family history of) ever abused or been dependent on alcohol, prescription medicines or street drugs. |
 | --- |
 
 Who should not take Dexmethylphenidate Hydrochloride Tablets?
@@ -45,7 +45,7 @@ Before starting Dexmethylphenidate Hydrochloride Tablets tell your or your child
 - seizures or have had an abnormal brain wave test (EEG)
 - circulation problems in fingers or toes
 
-Tell your doctor if you or your child is pregnant, planning to become pregnant, or breastfeeding.
+Tell your doctor if you or your child is pregnant, planning to become pregnant, or breast-feeding.
 
 Can Dexmethylphenidate Hydrochloride Tablets be taken with other medicines?
 
@@ -91,14 +91,15 @@ Other serious side effects include:
 - seizures, mainly in patients with a history of seizures
 - eyesight changes or blurred vision
 - painful and prolonged erections (priapism) have occurred with methylphenidate.
-  If you or your child develops priapism, seek medical help right away.
+  If you or your child develop priapism, seek medical help right away.
   Because of the potential for lasting damage, priapism should be evaluated by a doctor immediately.
 
 Common side effects include:
 
-| stomach ache | decreased appetite |
-| --- | --- |
-| nausea | fever |
+- stomach ache
+- nausea
+- decreased appetite
+- fever
 
 Talk to your doctor if you or your child has side effects that are bothersome or do not go away.
 
@@ -130,22 +131,12 @@ What are the ingredients in Dexmethylphenidate Hydrochloride Tablets?
 
 Active Ingredient: dexmethylphenidate hydrochloride
 
-Inactive Ingredients: lactose monohydrate, sodium starch glycolate, microcrystalline cellulose, magnesium stearate, and FD&C Blue No.1 aluminum lake (2.5 mg tablets), D&C Yellow Lake No.10 (5 mg tablets); the 10 mg tablet contains no dye
+Inactive Ingredients: lactose monohydrate, magnesium stearate, microcrystalline cellulose, sodium starch glycolate, and FD&C Blue No.1 aluminum lake (2.5 mg tablets), D&C Yellow Lake No. 10 (5 mg tablets); the 10 mg tablet contains no dye.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by:
+Manufactured by: Tris Pharma, Inc. Monmouth Junction, NJ 08852 www.trispharma.com
 
-Tris Pharma, Inc.
+LB8408
 
-Monmouth Junction, NJ 08852
-
-www.trispharma.com
-
-LB8408 -PI
-
-LB-8409 Medication Guide
-
-Rev 00
-
-10/2015
+Rev 01 10/2017

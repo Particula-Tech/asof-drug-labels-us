@@ -23,13 +23,15 @@ The most common reasons for discontinuation were twitching (described as motor o
 
 Adverse Events Occurring at an Incidence of 5% or More Among Dexmethylphenidate Hydrochloride-Treated Patients
 
-Table 1 enumerates treatment-emergent adverse events for 2, placebo-controlled, parallel group trials in children with ADHD at dexmethylphenidate hydrochloride doses of 5, 10, and 20 mg/day.
-The table includes only those events that occurred in 5% or more of patients treated with dexmethylphenidate hydrochloride where the incidence in patients treated with dexmethylphenidate hydrochloride was at least twice the incidence in placebo-treated patients.
+Table 1 enumerates treatment-emergent adverse events for 2, placebo-controlled, parallel group trials in children with ADHD at dexmethylphenidate hydrochloride doses of 5, 10, and
+
+20 mg/day.
+The table includes only those events that occurred in 5% or more of patients treated with Focalin where the incidence in patients treated with Focalin was at least twice the incidence in placebo-treated patients.
 The prescriber should be aware that these figures cannot be used to predict the incidence of adverse events in the course of usual medical practice where patient characteristics and other factors differ from those which prevailed in the clinical trials.
 Similarly, the cited frequencies cannot be compared with figures obtained from other clinical investigations involving different treatments, uses, and investigators.
 The cited figures, however, do provide the prescribing physician with some basis for estimating the relative contribution of drug and non-drug factors to the adverse event incidence rate in the population studied.
 
-Table 1: Treatment-Emergent Adverse Events1 Occurring During Double-Blind Treatment in Clinical Trials of Dexmethylphenidate Hydrochloride
+Table 1 Treatment-Emergent Adverse Events1 Occurring During Double-Blind Treatment in Clinical Trials of Dexmethylphenidate Hydrochloride
 
 | Body System | Preferred Term | DexmethylphenidateHydrochloride(n=79) | Placebo(n=82) |
 | --- | --- | --- | --- |
@@ -63,7 +65,7 @@ Gastrointestinal: nausea
 
 Immune: hypersensitivity reactions including skin rash, urticaria, fever, arthralgia, exfoliative dermatitis, erythema multiforme with histopathological findings of necrotizing vasculitis, and thrombocytopenic purpura
 
-Nervous System: dizziness, drowsiness, dyskinesia, headache, rare reports of Tourette’s syndrome, toxic psychosis
+Nervous System: dizziness, drowsiness, dyskinesia, headache, rare reports of Tourette’s syndrome, serotonin syndrome in combination with serotonergic drugs, toxic psychosis
 
 Vascular: blood pressure increased or decreased, cerebral arteritis and/or occlusion
 
@@ -71,7 +73,7 @@ Although a definite causal relationship has not been established, the following 
 
 Blood/lymphatic: leukopenia and/or anemia
 
-Hepatobiliary: abnormal liver function, ranging from transaminase elevation to hepatic coma
+Hepatobiliary: abnormal liver function, ranging from transaminase elevation to severe hepatic injury
 
 Psychiatric: transient depressed mood, aggressive behavior, libido changes
 
@@ -84,3 +86,5 @@ In a single report, a 10-year-old boy who had been taking methylphenidate for ap
 It is uncertain whether this case represented a drug-drug interaction, a response to either drug alone, or some other cause.
 
 In children, loss of appetite, abdominal pain, weight loss during prolonged therapy, insomnia, and tachycardia may occur more frequently; however, any of the other adverse reactions listed above may also occur.
+
+To report SUSPECTED ADVERSE REACTIONS, contact Tris Pharma, Inc., at (732) 940-0358 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

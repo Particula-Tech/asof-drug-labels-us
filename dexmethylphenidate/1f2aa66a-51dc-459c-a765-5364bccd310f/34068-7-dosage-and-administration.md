@@ -10,7 +10,7 @@ Patients New to Methylphenidate
 The recommended starting dose of dexmethylphenidate hydrochloride tablets for patients who are not currently taking racemic methylphenidate, or for patients who are on stimulants other than methylphenidate, is 5 mg/day (2.5 mg twice daily).
 
 Dosage may be adjusted in 2.5 to 5 mg increments to a maximum of 20 mg/day (10 mg twice daily).
-In general, dosage adjustments may proceed at approximately weekly intervals
+In general, dosage adjustments may proceed at approximately weekly intervals.
 
 Patients Currently Using Methylphenidate
 

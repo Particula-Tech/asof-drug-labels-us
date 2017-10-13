@@ -2,7 +2,7 @@
 
 Dexmethylphenidate hydrochloride tablets are indicated for the treatment of Attention Deficit Hyperactivity Disorder (ADHD).
 
-The efficacy of dexmethylphenidate hydrochloride tablets in the treatment of ADHD was established in 2 controlled trials of patients aged 6 to 17 years of age who met DSM-IV criteria for ADHD (see clinical studies).
+The efficacy of dexmethylphenidate hydrochloride tablets in the treatment of ADHD was established in 2 controlled trials of patients aged 6 to 17 years of age who met DSM-IV criteria for ADHD (see Clinical Studies).
 
 A diagnosis of ADHD (DSM-IV) implies the presence of hyperactive-impulsive or inattentive symptoms that cause impairment and were present before age 7 years.
 The symptoms must cause clinically significant impairment, e.g., in social, academic, or occupational functioning; and be present in 2 or more settings, e.g., school (or work) and at home.

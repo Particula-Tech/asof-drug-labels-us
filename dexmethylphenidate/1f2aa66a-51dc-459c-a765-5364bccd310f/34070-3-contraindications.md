@@ -7,7 +7,7 @@ Dexmethylphenidate hydrochloride tablets are contraindicated in patients with ma
 Hypersensitivity to Methylphenidate
 
 Dexmethylphenidate hydrochloride tablets are contraindicated in patients known to be hypersensitive to methylphenidate or other components of the product.
-Hypersensitivity reactions, including angioedema and anaphylactic reactions, have been observed in patients treated with methylphenidate [see ADVERSE REACTIONS].
+Hypersensitivity reactions, including angioedema and anaphylactic reactions, have been observed in patients treated with methylphenidate (see ADVERSE REACTIONS).
 
 Glaucoma
 

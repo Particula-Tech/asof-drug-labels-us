@@ -1,6 +1,6 @@
 # CLINICAL PHARMACOLOGY
 
-## Pharmacodynamics
+Pharmacodynamics
 
 Dexmethylphenidate hydrochloride is a central nervous system stimulant.
 Dexmethylphenidate hydrochloride, the more pharmacologically active enantiomer of the d-and l-enantiomers, is thought to block the reuptake of norepinephrine and dopamine into the presynaptic neuron and increase the release of these monoamines into the extraneuronal space.
@@ -14,7 +14,7 @@ Frederica’s method for heart rate correction was employed to derive the correc
 The maximum mean prolongation of QTcF intervals was <5 ms, and the upper limit of the 90% confidence interval was below 10 ms for all time matched comparisons versus placebo.
 This was below the threshold of clinical concern and there was no evident-exposure response relationship.
 
-## Pharmacokinetics
+Pharmacokinetics
 
 Absorption
 
@@ -22,7 +22,9 @@ Dexmethylphenidate hydrochloride is readily absorbed following oral administrati
 In patients with ADHD, plasma dexmethylphenidate concentrations increase rapidly, reaching a maximum in the fasted state at about 1 to 1.5 hours postdose.
 No differences in the pharmacokinetics of dexmethylphenidate hydrochloride were noted following single and repeated twice daily dosing, thus indicating no significant drug accumulation in children with ADHD.
 
-When given to children as capsules in single doses of 2.5 mg, 5 mg, and 10 mg, Cmax and AUC0-inf of dexmethylphenidate were proportional to dose.
+When given to children as capsules in single doses of 2.5 mg, 5 mg, and 10 mg, Cmax and
+
+AUC0-inf of dexmethylphenidate were proportional to dose.
 In the same study, plasma dexmethylphenidate levels were comparable to those achieved following single dl-threo-methylphenidate HCl doses given as capsules in twice the total mg amount (equimolar with respect to dexmethylphenidate hydrochloride).
 
 Food Effects
@@ -72,8 +74,7 @@ Since very little unchanged drug is excreted in the urine, renal insufficiency i
 
 Hepatic Insufficiency
 
-There is no experience with the use of dexmethylphenidate hydrochloride in patients with hepatic insufficiency.
-(see PRECAUTIONS, Drug Interactions)
+There is no experience with the use of dexmethylphenidate hydrochloride in patients with hepatic insufficiency (see PRECAUTIONS, Drug Interactions).
 
 Clinical Studies
 
@@ -88,9 +89,7 @@ Treatment was initiated with the lowest dose, and doses could be doubled at week
 The change from baseline to week 4 of the averaged score (an average of 2 ratings during the week) of the teacher’s version of the SNAP-ADHD Rating Scale, a scale for assessing ADHD symptoms, was the primary outcome.
 Patients treated with dexmethylphenidate hydrochloride showed a statistically significant improvement in symptom scores from baseline over patients who received placebo.
 
-Figure 1 Mean Change from Baseline in Teacher SNAP-ADHD Scores in a 4-week Double-Blind Placebo-Controlled Study of Dexmethylphenidate Hydrochloride*
-
-*Figure 1: Error bars represent the standard error of the mean.
+Figure 1 Mean Change from Baseline in Teacher SNAP-ADHD Scores in a 4-week Double-Blind Placebo-Controlled Study of Dexmethylphenidate Hydrochloride *
 
 The other study, involving n=75 patients, was a multicenter, placebo-controlled, double-blind, 2-week treatment withdrawal study in children who were responders during a 6-week, open label initial treatment period.
 Children took study medication twice a day separated by a 3.5 to 5.5 hour interval.
