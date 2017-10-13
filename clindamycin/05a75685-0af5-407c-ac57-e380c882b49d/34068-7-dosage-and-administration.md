@@ -81,19 +81,19 @@ For current information regarding compatibilities of clindamycin phosphate under
 
 ### Room Temperature
 
-6, 9 and 12 mg/mL (equivalent to clindamycin base) in dextrose injection 5%, sodium chloride injection 0.9%, or Lactated Ringers Injection in glass bottles or minibags, demonstrated physical and chemical stability for at least 16 days at 25°C.
-Also, 18 mg/mL (equivalent to clindamycin base) in dextrose injection 5%, in minibags, demonstrated physical and chemical stability for at least 16 days at 25°C.
+6, 9 and 12 mg/mL (equivalent to clindamycin base) in dextrose injection 5%, sodium chloride injection 0.9%, or Lactated Ringers Injection in glass bottles or MINI-BAG containers, demonstrated physical and chemical stability for at least 16 days at 25°C.
+Also, 18 mg/mL (equivalent to clindamycin base) in dextrose injection 5%, in MINI-BAG containers, demonstrated physical and chemical stability for at least 16 days at 25°C.
 
 ### Refrigeration
 
-6, 9 and 12 mg/mL (equivalent to clindamycin base) in dextrose injection 5%, sodium chloride injection 0.9%, or Lactated Ringers Injection in glass bottles or minibags, demonstrated physical and chemical stability for at least 32 days at 4°C.
+6, 9 and 12 mg/mL (equivalent to clindamycin base) in dextrose injection 5%, sodium chloride injection 0.9%, or Lactated Ringers Injection in glass bottles or MINI-BAG containers, demonstrated physical and chemical stability for at least 32 days at 4°C.
 
 IMPORTANT: This chemical stability information in no way indicates that it would be acceptable practice to use this product well after the preparation time.
 Good professional practice suggests that compounded admixtures should be administered as soon after preparation as is feasible.
 
 ### Frozen
 
-6, 9 and 12 mg/mL (equivalent to clindamycin base) in dextrose injection 5%, sodium chloride injection 0.9%, or Lactated Ringers Injection in minibags demonstrated physical and chemical stability for at least eight weeks at -10°C.
+6, 9 and 12 mg/mL (equivalent to clindamycin base) in dextrose injection 5%, sodium chloride injection 0.9%, or Lactated Ringers Injection in MINI-BAG containers demonstrated physical and chemical stability for at least eight weeks at -10°C.
 
 Frozen solutions should be thawed at room temperature and not refrozen.
 
