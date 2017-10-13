@@ -27,6 +27,10 @@ Immune Reconstitution Syndrome
 
 Advise patients to inform their healthcare provider immediately of any signs and symptoms of infection as inflammation from previous infection may occur soon after combination antiretroviral therapy, including when EPIVIR is started [see Warnings and Precautions (5.5)].
 
+Lower Virologic Suppression Rates and Increased Risk of Viral Resistance with Oral Solution
+
+Advise patients that an all-tablet regimen should be used when possible due to an increased rate of treatment failure among pediatric subjects who received EPIVIR oral solution concomitantly with other antiretroviral oral solutions [see Warnings and Precautions (5.6)].
+
 Redistribution/Accumulation of Body Fat
 
 Inform patients that redistribution or accumulation of body fat may occur in patients receiving antiretroviral therapy and that the cause and long‑term health effects of these conditions are not known at this time [see Warnings and Precautions (5.7)].
@@ -48,9 +52,9 @@ Missed Dosage
 Instruct patients that if they miss a dose of EPIVIR, to take it as soon as they remember.
 Advise patients not to double their next dose or take more than the prescribed dose [see Dosage and Administration (2)].
 
-EPIVIR and RETROVIR are registered trademarks of the ViiV Healthcare group of companies.
+EPIVIR and RETROVIR are trademarks owned by or licensed to the ViiV Healthcare group of companies.
 
-EPIVIR-HBV is a trademark licensed to the GSK group of companies.
+EPIVIR-HBV is a trademark owned by or licensed to the GSK group of companies.
 
 Manufactured for:
 
@@ -70,10 +74,9 @@ Shire Pharmaceuticals Group plc
 
 Basingstoke, UK
 
-©2016 the ViiV Healthcare group of companies.
-All rights reserved.
+©2017 ViiV Healthcare group of companies or its licensor.
 
-EPV:9PI
+EPV:10PI
 
 PHARMACIST-DETACH HERE AND GIVE INSTRUCTIONS TO PATIENT
 

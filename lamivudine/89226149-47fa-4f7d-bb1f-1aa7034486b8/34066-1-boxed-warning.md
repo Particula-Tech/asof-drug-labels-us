@@ -1,4 +1,4 @@
-# WARNING: LACTIC ACIDOSIS AND SEVERE HEPATOMEGALY, EXACERBATIONS OF HEPATITIS B, and DIFFERENT FORMULATIONS OF EPIVIR®
+# WARNING: LACTIC ACIDOSIS AND SEVERE HEPATOMEGALY, EXACERBATIONS OF HEPATITIS B, and DIFFERENT FORMULATIONS OF EPIVIR.
 
 Lactic Acidosis and Severe Hepatomegaly with Steatosis
 
@@ -13,5 +13,5 @@ If appropriate, initiation of anti-hepatitis B therapy may be warranted [see War
 
 Important Differences among Lamivudine-Containing Products
 
-EPIVIR tablets and oral solution (used to treat HIV-1 infection) contain a higher dose of the active ingredient (lamivudine) than EPIVIR-HBV® tablets and oral solution (used to treat chronic HBV infection).
+EPIVIR tablets and oral solution (used to treat HIV-1 infection) contain a higher dose of the active ingredient (lamivudine) than EPIVIR-HBV tablets and oral solution (used to treat chronic HBV infection).
 Patients with HIV-1 infection should receive only dosage forms appropriate for treatment of HIV-1 [see Warnings and Precautions (5.2)].
