@@ -6,4 +6,4 @@ Baxter and Galaxy are registered trademarks of Baxter International Inc.
 
 07-19-00-142
 
-Revised: 09/2017
+Revised: 10/2017
