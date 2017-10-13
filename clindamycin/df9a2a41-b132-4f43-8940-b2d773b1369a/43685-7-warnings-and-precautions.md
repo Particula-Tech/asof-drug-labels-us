@@ -83,9 +83,6 @@ In the presence of strong CYP3A4 inducers such as rifampicin, monitor for loss o
 
 In vitro studies indicate that clindamycin does not inhibit CYP1A2, CYP2C9, CYP2C19, CYP2E1 or CYP2D6 and only moderately inhibits CYP3A4.
 
-Antagonism has been demonstrated between clindamycin and erythromycin in vitro.
-Because of possible clinical significance, these two drugs should not be administered concurrently.
-
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Long-term studies in animals have not been performed with clindamycin to evaluate carcinogenic potential.
