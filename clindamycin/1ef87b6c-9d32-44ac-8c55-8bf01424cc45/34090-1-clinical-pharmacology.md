@@ -4,9 +4,9 @@
 
 ### Absorption
 
-Blood level studies comparing clindamycin palmitate HCI with clindamycin hydrochloride show that both drugs reach their peak active serum levels at the same time, indicating a rapid hydrolysis of the palmitate to the clindamycin.
+Blood level studies comparing clindamycin palmitate HCl with clindamycin hydrochloride show that both drugs reach their peak active serum levels at the same time, indicating a rapid hydrolysis of the palmitate to the clindamycin.
 
-Serum level studies with clindamycin palmitate HCI in normal pediatric patients weighing 50-100 lbs given 2, 3 or 4 mg/kg every 6 hours (8, 12 or 16 mg/kg/day) demonstrated mean peak clindamycin serum levels of 1.24, 2.25 and 2.44 mcg/mL respectively, one hour after the first dose.
+Serum level studies with clindamycin palmitate HCl in normal pediatric patients weighing 50-100 lbs given 2, 3 or 4 mg/kg every 6 hours (8, 12 or 16 mg/kg/day) demonstrated mean peak clindamycin serum levels of 1.24, 2.25 and 2.44 mcg/mL respectively, one hour after the first dose.
 By the fifth dose, the 6-hour serum concentration had reached equilibrium.
 Peak serum concentrations after this time would be about 2.46, 2.98 and 3.79 mcg/mL with doses of 8, 12 and 16 mg/kg/day, respectively.
 Serum levels have been uniform and predictable from person to person and dose to dose.
