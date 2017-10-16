@@ -1,5 +1,16 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-Morphine sulfate injection is contraindicated in those medical conditions which would preclude the administration of opioids by the intravenous route—allergy to morphine or other opiates, acute bronchial asthma, upper airway obstruction.
+Preservative-free morphine sulfate injection is contraindicated in patients with:
 
-Administration of morphine by the epidural or intrathecal route is contraindicated in the presence of infection at the injection site, anticoagulant therapy, bleeding diathesis, parenterally administered corticosteroids within a two week period or other concomitant drug therapy or medical condition which would contraindicate the technique of epidural or intrathecal analgesia.
+- Significant respiratory depression [see Warnings and Precautions (5.2)]
+- Acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment [see Warnings and Precautions (5.8)]
+- Concurrent use of monoamine oxidase inhibitors (MAOIs) or use of MAOIs within the last 14 days [see Warnings and Precautions (5.9)/Drug Interactions (7)]
+- Known or suspected gastrointestinal obstruction, including paralytic ileus [see Warnings and Precautions (5.13)]
+- Hypersensitivity to morphine (e.g., anaphylaxis) [See Adverse Reactions (6)]
+
+Neuraxial administration of preservative-free morphine sulfate injection is contraindicated in patients with:
+
+- Infection at the injection microinfusion site [see Warnings and Precautions (5.1)]
+- Concomitant anticoagulant therapy [see Warnings and Precautions (5.1)]
+- Uncontrolled bleeding diathesis [see Warnings and Precautions (5.1)]
+- The presence of any other concomitant therapy or medical condition which would render epidural or intrathecal administration of medication especially hazardous.

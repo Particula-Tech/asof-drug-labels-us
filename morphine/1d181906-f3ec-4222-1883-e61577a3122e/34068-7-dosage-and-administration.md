@@ -1,61 +1,66 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-Preservative-free morphine sulfate injection is intended for intravenous, epidural or intrathecal administration.
+## 2.1 Important Dosage and Administration Instructions
 
-Intravenous Administration
+Do Not Use Preservative-free morphine sulfate injection in Continuous Microinfusion Devices.
 
-Dosage: The initial dose of morphine sulfate should be 2 mg to 10 mg/70 kg of body weight.
-Patients under the age of 18; no information available.
+Preservative-free morphine sulfate injection should be administered by or under the direction of a physician experienced in the techniques of epidural or intrathecal administration and familiar with the patient management problems associated with epidural or intrathecal drug administration and the labeling, and should take place only in settings where adequate patient monitoring is possible.
+
+- Because of the risk of delayed respiratory depression, patients should be observed in a fully equipped and staffed environment for at least 24 hours.
+  Respiratory depression (both early and late onset) has occurred more frequently following intrathecal administration than epidural administration.
+- Because epidural administration has been associated with less potential for immediate or late adverse effects than intrathecal administration, the epidural route should be used whenever possible.
+- For safety reasons, it is recommended that administration of preservative-free morphine sulfate injection by the epidural or intrathecal routes be limited to the lumbar area.
+- Have resuscitative equipment and a specific antagonist (naloxone injection) immediately available for the management of respiratory depression as well as complications which might result from inadvertent intrathecal or intravascular injection (note: intrathecal dosage is usually 1/10 that of epidural dosage).
 
 Epidural Administration
 
-PRESERVATIVE-FREE MORPHINE SULFATE INJECTION SHOULD BE ADMINISTERED EPIDURALLY ONLY BY PHYSICIANS EXPERIENCED IN THE TECHNIQUES OF EPIDURAL ADMINISTRATION AND WHO ARE THOROUGHLY FAMILIAR WITH THE LABELING.
-IT SHOULD BE ADMINISTERED ONLY IN SETTINGS WHERE ADEQUATE PATIENT MONITORING IS POSSIBLE.
-RESUSCITATIVE EQUIPMENT AND A SPECIFIC ANTAGONIST (NALOXONE HYDROCHLORIDE INJECTION) SHOULD BE IMMEDIATELY AVAILABLE FOR THE MANAGEMENT OF RESPIRATORY DEPRESSION AS WELL AS COMPLICATIONS WHICH MIGHT RESULT FROM INADVERTENT INTRATHECAL OR INTRAVASCULAR INJECTION.
-(NOTE: INTRATHECAL DOSAGE IS USUALLY 1/10 THAT OF EPIDURAL DOSAGE) PATIENT MONITORING SHOULD BE CONTINUED FOR AT LEAST 24 HOURS AFTER EACH DOSE, SINCE DELAYED RESPIRATORY DEPRESSION MAY OCCUR.
+Verify proper placement of a needle or catheter in the epidural space before preservative-free morphine sulfate injection is injected.
 
-Proper placement of a needle or catheter in the epidural space should be verified before preservative-free morphine sulfate injection is injected.
-Acceptable techniques for verifying proper placement include: a) aspiration to check for absence of blood or cerebrospinal fluid, or b) administration of 5 mL (3 mL in obstetric patients) of UNPRESERVED 1.5% Lidocaine and Epinephrine (1:200,000) Injection and then observe the patient for lack of tachycardia (this indicates that vascular injection has not been made) and lack of sudden onset of segmental anesthesia (this indicates that intrathecal injection has not been made).
+Acceptable techniques for verifying proper placement include: a) aspiration to check for absence of blood or cerebrospinal fluid, or b) administration of 5 mL (3 mL in obstetric patients) of 1.5% PRESERVATIVE-FREE Lidocaine and Epinephrine (1:200,000) Injection and then observe the patient for lack of tachycardia (this indicates that vascular injection has not been made) and lack of sudden onset of segmental anesthesia (this indicates that intrathecal injection has not been made).
 
-Epidural Adult Dosage: Initial injection of 5 mg in the lumbar region may provide satisfactory pain relief for up to 24 hours.
+Safety and Handling Instructions
+
+Preservative-free morphine sulfate injection is supplied in sealed ampuls or vials.
+Accidental dermal exposure should be treated by the removal of any contaminated clothing and rinsing the affected area with water.
+
+Inspect parenteral drug products for particulate matter and discoloration prior to administration, whenever solution and container permit.
+Do not use if color is darker than pale yellow, if it is discolored in any other way, or if it contains a precipitate.
+
+Preservative-free morphine sulfate injection is intended for single use only.
+Protect from light, discard any unused portion.
+Do not heat-sterilize.
+
+## 2.2 Initial Dosage
+
+The starting dose of preservative-free morphine sulfate injection must be individualized.
+
+- Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5.3)].
+- Initiate the dosing regimen for each patient individually, taking into account the patient's severity of pain, patient response, prior analgesic treatment experience, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.3)].
+- Monitor patients closely for respiratory depression, especially within the first 24–72 hours of initiating therapy and following dosage increases with preservative-free morphine sulfate injection and adjust the dosage accordingly [see Warnings and Precautions (5.2)].
+
+## 2.3 Dosage for Intravenous Administration
+
+Adult Dosage: The initial dose of morphine should be 2 mg to 10 mg/70 kg of body weight.
+
+## 2.4 Dosage for Epidural Administration
+
+Adult Dosage: Initial injection of 5 mg in the lumbar region may provide satisfactory pain relief for up to 24 hours.
 If adequate pain relief is not achieved within one hour, careful administration of incremental doses of 1 to 2 mg at intervals sufficient to assess effectiveness may be given.
-No more than 10 mg/24 hr should be administered.
+Do not administer more than 10 mg per 24 hours.
 
-Thoracic administration has been shown to dramatically increase the incidence of early and late respiratory depression even at doses of 1 to 2 mg.
+## 2.5 Dosage for Intrathecal Administration
 
-For continuous infusion an initial dose of 2 to 4 mg/24 hours is recommended.
-Further doses of 1 to 2 mg may be given if pain relief is not achieved initially.
+Adult Dosage: Intrathecal dosage is usually 1/10 that of epidural dosage.
+A single injection of 0.2 to 1 mg may provide satisfactory pain relief for up to 24 hours.
+(Caution: this is only 0.4 to 2 mL of the 5 mg/10 mL container or 0.2 to 1 mL of the 10 mg/10 mL container of preservative-free morphine sulfate injection).
 
-Aged or debilitated patients—Administer with extreme caution (see PRECAUTIONS).
-Doses of less than 5 mg may provide satisfactory pain relief for up to 24 hours.
+- Do not inject intrathecally more than 2 mL of the 5 mg/10 mL container or 1 mL of the 10 mg/10 mL container.
+- Repeated intrathecal injections of preservative-free morphine sulfate injection are not recommended.
+  If pain recurs, consider alternative routes of administration
+- A constant intravenous infusion of naloxone, 0.6 mg/hr, for 24 hours after intrathecal injection may be used to reduce the incidence of potential side effects.
 
-Epidural Pediatric Use: No information on use in pediatric patients is available.
+## 2.6 Discontinuation of Preservative-Free Morphine Sulfate Injection
 
-Intrathecal Administration
-
-| NOTE: INTRATHECAL DOSAGE IS USUALLY 1/10 THAT OF EPIDURAL DOSAGE. |
-| --- |
-
-PRESERVATIVE-FREE MORPHINE SULFATE INJECTION SHOULD BE ADMINISTERED INTRATHECALLY ONLY BY PHYSICIANS EXPERIENCED IN THE TECHNIQUES OF INTRATHECAL ADMINISTRATION AND WHO ARE THOROUGHLY FAMILIAR WITH THE LABELING.
-IT SHOULD BE ADMINISTERED ONLY IN SETTINGS WHERE ADEQUATE PATIENT MONITORING IS POSSIBLE.
-RESUSCITATIVE EQUIPMENT AND A SPECIFIC ANTAGONIST (NALOXONE HYDROCHLORIDE INJECTION) SHOULD BE IMMEDIATELY AVAILABLE FOR THE MANAGEMENT OF RESPIRATORY DEPRESSION AS WELL AS COMPLICATIONS WHICH MIGHT RESULT FROM INADVERTENT INTRAVASCULAR INJECTION.
-PATIENT MONITORING SHOULD BE CONTINUED FOR AT LEAST 24 HOURS AFTER EACH DOSE, SINCE DELAYED RESPIRATORY DEPRESSION MAY OCCUR.
-RESPIRATORY DEPRESSION (BOTH EARLY AND LATE ONSET) HAS OCCURRED MORE FREQUENTLY FOLLOWING INTRATHECAL ADMINISTRATION.
-
-Intrathecal Adult Dosage: A single injection of 0.2 to 1 mg may provide satisfactory pain relief for up to 24 hours.
-(CAUTION: THIS IS ONLY 0.4 TO 2 ML OF THE 5 MG/10 ML CONTAINER OR 0.2 TO 1 ML OF THE 10 MG/10 ML CONTAINER OF PRESERVATIVE-FREE MORPHINE SULFATE INJECTION.)
-DO NOT INJECT INTRATHECALLY MORE THAN 2 ML OF THE 5 MG/10 ML CONTAINER OR 1 ML OF THE 10 MG/10 ML CONTAINER.
-USE IN THE LUMBAR AREA ONLY IS RECOMMENDED.
-Repeated intrathecal injections of preservative-free morphine sulfate injection are not recommended.
-A constant intravenous infusion of naloxone hydrochloride, 0.6 mg/hr, for 24 hours after intrathecal injection may be used to reduce the incidence of potential side effects.
-
-Aged or debilitated patients—Administer with extreme caution (see PRECAUTIONS).
-A lower dosage is usually satisfactory.
-
-Repeat Dosage: If pain recurs, alternative routes of administration should be considered, since experience with repeated doses of morphine by the intrathecal route is limited.
-
-Intrathecal Pediatric Use: No information on the use in pediatric patients is available.
-
-Parenteral drug products should be inspected for particulate matter and discoloration prior to administration, whenever solution and container permit.
-Do not administer unless solution is clear and container is undamaged.
-Discard unused portion.
+When a patient who has been treated with a regimen of opioid analgesics including preservative-free morphine sulfate injection regularly and may be physically dependent no longer requires therapy with preservative-free morphine sulfate injection, taper the dose gradually while monitoring carefully for signs and symptoms of withdrawal.
+If the patient develops these signs or symptoms, raise the dose to the previous level and taper more slowly, either by increasing the interval between decreases, decreasing the amount of change in dose, or both.
+Do not abruptly discontinue preservative-free morphine sulfate injection in a physically-dependent patient [see Warnings and Precautions (5.15), Drug Abuse and Dependence (9.3)].

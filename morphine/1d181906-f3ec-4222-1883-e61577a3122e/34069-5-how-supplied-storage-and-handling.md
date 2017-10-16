@@ -1,26 +1,25 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Preservative-free Morphine Sulfate Injection, USP is supplied in cartons of five 10 mL amber ampuls or vials as follows:
+Preservative-free morphine sulfate injection (morphine sulfate injection, USP) is a preservative-free solution, available as 5 mg/10 mL (0.5 mg/mL) and 10 mg/10 mL (1 mg/mL), in amber ampuls or vials, for single use administration.
 
-| List No. | Package | Concentration (mg/mL) | Total Morphine (mg/10 mL) |
-| --- | --- | --- | --- |
-| 4057 | Ampul | 0.5 | 5 |
-| 4058 | Ampul | 1 | 10 |
-| 3814 | Fliptop Vial | 0.5 | 5 |
-| 3815 | Fliptop Vial | 1 | 10 |
+| NDC 0409-4057-12 | 5 mg/10 mL (0.5 mg/mL) Single Use amber ampuls in cartons of 5 |
+| --- | --- |
+| NDC 0409-4058-12 | 10 mg/10 mL (1 mg/mL) Single Use amber ampuls in cartons of 5 |
+| NDC 0409-3814-12 | 5 mg/10 mL (0.5 mg/mL) Single Use fliptop vials in cartons of 5 |
+| NDC 0409-3815-12 | 10 mg/10 mL (1 mg/mL) Single Use fliptop vials in cartons of 5 |
 
-Contains no preservatives.
-Discard unused portion.
+Preservative-free morphine sulfate injection is supplied in sealed ampuls or vials.
+Accidental dermal exposure should be treated by the removal of any contaminated clothing and rinsing the affected area with water.
+
+PROTECT FROM LIGHT.
+Keep stored in carton until time of use.
+Store at 20°–25°C (68°–77°F), excursions permitted to 15°–30°C (59°–86°F) [See USP Controlled Room Temperature].
+DO NOT FREEZE.
+Preservative-free morphine sulfate injection contains no preservative or antioxidant.
+Each 10 mL ampul or vial of preservative-free morphine sulfate injection is intended for SINGLE USE ONLY.
+Discard any unused portion.
 Do not heat-sterilize.
 
-Store at 20 to 25°C (68 to 77°F).
-[See USP Controlled Room Temperature.]
-Protect from freezing.
-Protect from light.
-Store in carton until time of use.
+To report SUSPECTED ADVERSE REACTIONS, contact Hospira, Inc. at 1-800-441-4100, or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
-Revised: November, 2004
-
-©Hospira 2004 EN-0597 Printed in USA
-
-HOSPIRA, INC., LAKE FOREST, IL 60045 USA
+For Product Inquiry call 1-800-441-4100.

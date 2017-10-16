@@ -1,15 +1,3 @@
-Preservative-Free
+Hospira, Inc., Lake Forest, IL 60045 USA
 
-CII
-
-WARNING: MAY BE HABIT
-
-FORMING.
-
-Ampul
-
-Fliptop Vial
-
-Protect from light
-
-Rx only
+LAB-1038-1.0

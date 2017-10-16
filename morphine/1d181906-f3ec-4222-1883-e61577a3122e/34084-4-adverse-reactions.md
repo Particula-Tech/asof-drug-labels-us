@@ -1,28 +1,45 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-The most serious side effect is respiratory depression.
-Because of delay in maximum CNS effect with intravenously administered drug (30 min), rapid administration may result in overdosing.
-Bolus administration by the epidural or intrathecal route may result in early respiratory depression due to direct venous redistribution of morphine to the respiratory centers in the brain.
-Late (up to 24 hours) onset of acute respiratory depression has been reported with administration by the epidural or intrathecal route and is believed to be the result of rostral spread.
-Reports of respiratory depression following intrathecal administration have been more frequent, but the dosage used in most of these cases has been considerably higher than that recommended.
-This depression may be severe and could require intervention (see WARNINGS and OVERDOSAGE).
-Even without clinical evidence of ventilatory inadequacy, a diminished CO2 ventilation response may be noted for up to 22 hours following epidural or intrathecal administration.
+The following serious adverse reactions are described, or described in greater detail, in other sections:
 
-While low doses of intravenously administered morphine have little effect on cardiovascular stability, high doses are excitatory, resulting from sympathetic hyperactivity and an increase in circulating catecholamines.
-Excitation of the central nervous system resulting in convulsions may accompany high doses of morphine given intravenously.
-Dysphoric reactions may occur and toxic psychoses have been reported.
+- Addiction, Abuse, and Misuse [see Warnings and Precautions (5.3)]
+- Life-Threatening Respiratory Depression [see Warnings and Precautions (5.2)]
+- Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.4)]
+- Interactions with Benzodiazepines or Other CNS Depressants [see Warnings and Precautions (5.5)]
+- Myoclonic Activity [see Warnings and Precautions (5.6)]
+- Adrenal Insufficiency [see Warnings and Precautions (5.10)]
+- Severe Hypotension [see Warnings and Precautions (5.11)]
+- Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.13)]
+- Seizures [see Warnings and Precautions (5.14)]
+- Withdrawal [see Warnings and Precautions (5.15)]
+- Urinary Retention [see Warnings and Precautions (5.16)]
+- Orthostatic Hypotension [see Warnings and Precautions (5.17)]
 
-Epidural or intrathecal administration is accompanied by a high incidence of pruritus which is dose related but not confined to site of administration.
-Nausea and vomiting are frequently seen in patients following morphine administration.
-Urinary retention which may persist for 10 to 20 hours following single epidural or intrathecal administration has been reported in approximately 90% of males.
-Incidence is somewhat lower in females.
-Patients may require catheterization (see PRECAUTIONS).
-Pruritus, nausea/vomiting and urinary retention frequently can be alleviated by the intravenous administration of low doses of naloxone (0.2 mg).
+The following adverse reactions associated with the use of morphine were identified in clinical studies or postmarketing reports.
+Because some of these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Tolerance and dependence to chronically administered morphine, by whatever route, is known to occur (see DRUG ABUSE AND DEPENDENCE).
+The most serious adverse reactions encountered during administration of preservative-free morphine sulfate injection were respiratory depression and/or respiratory arrest.
 
-Miscellaneous side effects include constipation, headache, anxiety, depression of cough reflex, interference with thermal regulation and oliguria.
-Evidence of histamine release such as urticaria, wheals and/or local tissue irritation may occur.
+Cardiovascular System: While low doses of intravenously administered morphine have little effect on cardiovascular stability, high doses are excitatory, resulting from sympathetic hyperactivity and increase in circulating catecholamines.
 
-In general, side effects are amenable to reversal by narcotic antagonists.
-NALOXONE HYDROCHLORIDE INJECTION AND RESUSCITATIVE EQUIPMENT SHOULD BE IMMEDIATELY AVAILABLE FOR ADMINISTRATION IN CASE OF LIFE-THREATENING OR INTOLERABLE SIDE EFFECTS.
+Central Nervous System: myoclonus, seizures, dysphoric reactions, toxic psychosis, dizziness, euphoria, anxiety, confusion, headache.
+Lumbar puncture-type headache is encountered in a significant minority of cases for several days following intrathecal catheter implantation and generally responds to bed rest and/or other conventional therapy.
+
+Gastrointestinal System: Nausea, vomiting, constipation
+
+Skin: Generalized pruritus, urticaria, wheals, and/or local tissue irritation.
+Single-dose epidural or intrathecal administration is accompanied by a high incidence of dose-related generalized pruritus.
+
+Urinary System: Urinary retention, oliguria.
+
+Peripheral edema: There are several reports of peripheral edema
+
+Other: Other adverse reactions reported following morphine therapy include depression of cough reflex, interference with thermal regulation, peripheral edema.
+
+Serotonin syndrome: Cases of serotonin syndrome, a potentially life-threatening condition, have been reported during concomitant use of opioids with serotonergic drugs.
+
+Adrenal insufficiency: Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use.
+
+Anaphylaxis: Anaphylaxis has been reported with ingredients contained in preservative-free morphine sulfate injection.
+
+Androgen deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [see Clinical Pharmacology (12.2)].
