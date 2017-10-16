@@ -1,4 +1,4 @@
-# HOW SUPPLIED
+# HOW SUPPLIED/STORAGE AND HANDLING
 
 Vancomycin Hydrochloride for Injection, USP is supplied as a sterile powder in single-dose fliptop vials that contain the vancomycin equivalent of either 500 mg, 750 mg, or 1 g.
 

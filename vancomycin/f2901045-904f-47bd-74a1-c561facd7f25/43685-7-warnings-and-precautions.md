@@ -1,9 +1,19 @@
 # WARNINGS
 
+## Infusion Reactions
+
 Rapid bolus administration (e.g., over several minutes) may be associated with exaggerated hypotension, including shock and rarely cardiac arrest.
 
 Vancomycin hydrochloride for injection should be administered in a diluted solution over a period of not less than 60 minutes to avoid rapid-infusion-related reactions.
 Stopping the infusion usually results in prompt cessation of these reactions.
+
+## Nephrotoxicity
+
+Systemic vancomycin exposure may result in acute kidney injury (AKI).
+The risk of AKI increases as systemic exposure/serum levels increase.
+Monitor renal function in all patients, especially patients with underlying renal impairment, patients with co-morbidities that predispose to renal impairment, and patients receiving concomitant therapy with a drug known to be nephrotoxic.
+
+## Ototoxicity
 
 Ototoxicity has occurred in patients receiving vancomycin hydrochloride for injection.
 It may be transient or permanent.
@@ -25,16 +35,12 @@ Appropriate fluid and electrolyte management, protein supplementation, antibioti
 
 # PRECAUTIONS
 
-## General
-
 Clinically significant serum concentrations have been reported in some patients being treated for active C. difficile-induced pseudomembranous colitis after multiple oral doses of vancomycin.
 
 Prolonged use of vancomycin hydrochloride for injection may result in the overgrowth of nonsusceptible microorganisms.
 Careful observation of the patient is essential.
 If superinfection occurs during therapy, appropriate measures should be taken.
 In rare instances, there have been reports of pseudomembranous colitis due to C. difficile developing in patients who received intravenous vancomycin hydrochloride for injection.
-
-In order to minimize the risk of nephrotoxicity when treating patients with underlying renal dysfunction or patients receiving concomitant therapy with an aminoglycoside, serial monitoring of renal function should be performed and particular care should be taken in following appropriate dosing schedules (see DOSAGE AND ADMINISTRATION).
 
 Serial tests of auditory function may be helpful in order to minimize the risk of ototoxicity.
 
@@ -47,19 +53,19 @@ Thrombophlebitis may occur, the frequency and severity of which can be minimized
 
 There have been reports that the frequency of infusion-related events (including hypotension, flushing, erythema, urticaria, and pruritus) increases with the concomitant administration of anesthetic agents.
 Infusion-related events may be minimized by the administration of vancomycin as a 60-minute infusion prior to anesthetic induction.
-The safety and efficacy of vancomycin administered by the intrathecal (intralumbar or intraventricular) route or by the intraperitoneal route have not been established by adequate and well-controlled trials.
+The safety and efficacy of vancomycin administered by the intrathecal (intralumbar or intraventricular) route or by the intraperitoneal route have not been established by adequate and well controlled trials.
 
-Although the safety and efficacy of vancomycin by the intraperitoneal route have not been established, reports have revealed that administration of sterile vancomycin by the intraperitoneal route during continuous ambulatory peritoneal dialysis (CAPD) has resulted in a syndrome of chemical peritonitis.
-To date, this syndrome has ranged from a cloudy dialysate alone to a cloudy dialysate accompanied by variable degrees of abdominal pain and fever.
+Reports have revealed that administration of sterile vancomycin by the intraperitoneal route during continuous ambulatory peritoneal dialysis (CAPD) has resulted in a syndrome of chemical peritonitis.
+To date, this syndrome has ranged from cloudy dialysate alone to a cloudy dialysate accompanied by variable degrees of abdominal pain and fever.
 This syndrome appears to be short-lived after discontinuation of intraperitoneal vancomycin.
 
-Prescribing vancomycin hydrochloride for injection, USP in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
+Prescribing vancomycin hydrochloride for injection in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 
-## DRUG INTERACTIONS
+## Drug Interactions
 
-Concomitant administration of vancomycin and anesthetic agents has been associated with erythema and histamine-like flushing (see Pediatric Use under PRECAUTIONS) and anaphylactoid reactions (see ADVERSE REACTIONS).
+Concomitant administration of vancomycin and anesthetic agents has been associated with erythema and histamine-like flushing (see Pediatric Use - PRECAUTIONS) and anaphylactoid reactions (see ADVERSE REACTIONS).
 
-Concurrent and/or sequential systemic or topical use of other potentially neurotoxic and/or nephrotoxic drugs, such as amphotericin B, aminoglycosides, bacitracin, polymyxin B, colistin, viomycin, or cisplatin, when indicated, requires careful monitoring.
+Monitor renal function in patients receiving vancomycin and concurrent and/or sequential systemic or topical use of other potentially neurotoxic and/or nephrotoxic drugs, such as amphotericin B, aminoglycosides, bacitracin, polymixin B, colistin, viomycin, or cisplatin.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
@@ -68,9 +74,9 @@ No definitive fertility studies have been performed.
 
 ## Pregnancy
 
-Teratogenic Effects
+### Teratogenic Effects
 
-Pregnancy Category C
+#### Pregnancy Category C
 
 Animal reproduction studies have not been conducted with vancomycin.
 It is not known whether vancomycin can affect reproduction capacity.
@@ -99,10 +105,10 @@ Vancomycin dosage schedules should be adjusted in elderly patients (see DOSAGE A
 
 ## Information for Patients
 
-Patients should be counseled that antibacterial drugs including vancomycin hydrochloride for injection, USP should only be used to treat bacterial infections.
+Patients should be counseled that antibacterial drugs including vancomycin hydrochloride for injection should only be used to treat bacterial infections.
 They do not treat viral infections (e.g., the common cold).
-When vancomycin hydrochloride for injection, USP is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
-Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by vancomycin hydrochloride for injection, USP or other antibacterial drugs in the future.
+When vancomycin hydrochloride for injection is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
+Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by vancomycin hydrochloride for injection or other antibacterial drugs in the future.
 
 Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
 Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
