@@ -6,18 +6,14 @@
   "inn": "ondansetron",
   "labeler": "Hospira, Inc.",
   "package_ndcs": [
-    "0409-4755-01",
-    "0409-4755-02",
     "0409-4755-03",
-    "0409-4755-11",
-    "0409-4755-12",
     "0409-4755-18",
     "0409-4759-01"
   ],
   "products": [
     {
       "form": "INJECTION, SOLUTION",
-      "generic": "ondansetron hydrochloride",
+      "generic": "ondansetron",
       "name": "Ondansetron"
     }
   ],
