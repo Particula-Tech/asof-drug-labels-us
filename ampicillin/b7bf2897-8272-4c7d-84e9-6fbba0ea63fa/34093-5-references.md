@@ -16,4 +16,4 @@ Tes-Tape is a registered trademark of Eli Lilly Company.
 Distributed by: AuroMedics Pharma LLC 279 Princeton-Hightstown Rd.
 E. Windsor, NJ 08520
 
-Manufactured by: Aurobindo Pharma Limited Hyderabad - 500038 India Revised: August 2017
+Manufactured by: Aurobindo Pharma Limited Hyderabad - 500038 India Revised: October 2017

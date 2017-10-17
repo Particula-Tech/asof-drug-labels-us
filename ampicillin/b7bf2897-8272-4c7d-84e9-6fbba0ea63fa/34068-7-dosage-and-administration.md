@@ -42,6 +42,7 @@ A minimum of 10 days treatment is recommended for any infection caused by Group 
 
 Use only freshly prepared solutions.
 Intramuscular and intravenous injections should be administered within one hour after preparation since the potency may decrease significantly after this period.
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 For Intramuscular Use – Dissolve contents of a vial with the amount of Sterile Water for Injection, USP, or Bacteriostatic Water for Injection, USP, listed in the table below:
 
 | NDC | Label Claim | Recommended Amount of Diluent | Withdrawable Volume | Concentration (in mg/mL) |
@@ -54,6 +55,7 @@ For Intramuscular Use – Dissolve contents of a vial with the amount of Sterile
 While Ampicillin for Injection, USP, 1 g and 2 g, are primarily for intravenous use, they may be administered intramuscularly when the 250 mg or 500 mg vials are unavailable.
 In such instances, dissolve in 3.5 or 6.8 mL Sterile Water for Injection, USP, or Bacteriostatic Water for Injection, USP, respectively.
 The resulting solution will provide a concentration of 250 mg per mL.
+Bacteriostatic Water for Injection, USP is not to be used as a diluent when the product will be used in newborns.
 For Direct Intravenous Use – Add 5 mL Sterile Water for Injection, USP, or Bacteriostatic Water for Injection, USP to the 250 mg, and 500 mg vials and administer slowly over a 3- to 5-minute period.
 Ampicillin for Injection, USP, 1 g or 2 g may also be given by direct intravenous administration.
 Dissolve in 7.4 or 14.8 mL Sterile Water for Injection, USP, or Bacteriostatic Water for Injection, USP, respectively, and administer slowly over at least 10 to 15 minutes.
