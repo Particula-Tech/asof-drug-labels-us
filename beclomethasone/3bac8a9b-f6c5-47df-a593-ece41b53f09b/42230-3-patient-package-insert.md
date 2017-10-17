@@ -2,44 +2,38 @@ Attention Pharmacist: Detach “Patient Information and Instructions for Use” 
 
 Patient Information
 
-QVAR® (Kyü-vär)
+QVAR® (Kyu-var)
 
 (beclomethasone dipropionate HFA)
 
-Inhalation Aerosol
-
-For oral inhalation only
-
-Read this Patient Information before you start using QVAR and each time you get a refill.
-There may be new information.
-This information does not take the place of talking to your healthcare provider about your medical condition or your treatment.
+inhalation aerosol
 
 What is QVAR?
 
 QVAR is an inhaled prescription medicine used as a maintenance treatment for the prevention and control of asthma in people 5 years of age and older.
 
-- •QVAR is not used to treat sudden severe symptoms of asthma.
-- •QVAR should not be used as a rescue inhaler.
-- •It is not known if QVAR is safe and effective in children less than 5 years of age.
+- •QVAR is not used to relieve sudden breathing problems.
+
+It is not known if QVAR is safe and effective in children less than 5 years of age.
 
 Who should not use QVAR?
 
 Do not use QVAR:
 
-- •to treat sudden symptoms of severe asthma
+- •to treat sudden severe symptoms of asthma.
+- •as a rescue inhaler.
 - •if you are allergic to beclomethasone dipropionate or any of the ingredients in QVAR.
   See the end of this leaflet for a complete list of ingredients in QVAR.
 
 What should I tell my healthcare provider before using QVAR?
 
-Before you use QVAR, tell your healthcare provider if you:
+Before using QVAR, tell your healthcare provider about all of your medical conditions, including if you:
 
 - •are exposed to chickenpox or measles
-- •have or have had tuberculosis (TB) or any untreated fungal, bacterial or viral infections, or eye infections caused by herpes
-- •have osteoporosis
+- •have or have had tuberculosis (TB) or any untreated fungal, bacterial or viral infections, or eye infections caused by herpes.
+- •have weak bones (osteoporosis).
 - •have an immune system problem
-- •have or have had eye problems, such as blurred vision, increased pressure in your eye (glaucoma) or cataracts
-- •have any other medical problems
+- •have or have had eye problems, such as blurred vision, increased pressure in your eye (glaucoma), or cataracts.
 - •are pregnant or plan to become pregnant.
   It is not known if QVAR will harm your unborn baby.
 - •are breastfeeding or plan to breastfeed.
@@ -47,9 +41,6 @@ Before you use QVAR, tell your healthcare provider if you:
   Talk to your healthcare provider about the best way to feed your baby if you use QVAR.
 
 Tell your healthcare provider about all of the medications you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
-
-Know the medicines you take.
-Keep a list of them to show to your healthcare provider and pharmacist when you get a new medicine.
 
 How should I use QVAR?
 
@@ -69,7 +60,7 @@ Read the step-by-step instructions for using QVAR at the end of this Patient Inf
   Always have a rescue inhaler with you to treat sudden symptoms.
   Use your rescue inhaler if you have breathing problems between doses of QVAR.
   If you do not have a rescue inhaler, call your healthcare provider to have a rescue inhaler prescribed for you.
-- •Rinse your mouth with water after each dose of QVAR.
+- •Rinse your mouth with water without swallowing after each dose of QVAR.
   This will help lessen the chance of getting a yeast infection (thrush) in your mouth and throat.
 - •Do not spray QVAR in your face or eyes.
   If you accidentally get QVAR in your eyes, rinse your eyes with water and if redness or irritation continues, call your healthcare provider.
@@ -84,10 +75,10 @@ QVAR may cause serious side effects, including:
 
 - •fungal infections (thrush) in your mouth and throat.
   You may develop a yeast infection (Candida albicans) in your mouth and throat.Tell your healthcare provider if you have any redness or white colored patches in your mouth or throat.
-  Rinse your mouth after using QVAR to help prevent an infection in your mouth or throat.
+  Rinse your mouth with water without swallowing after using QVAR to help prevent an infection in your mouth or throat.
 - •worsening asthma or sudden asthma attacks.
   You should contact your healthcare provider right away if you do not get relief from your sudden asthma attacks, after using your rescue inhaler, during your treatment with QVAR.
-- •adrenal insufficiency.
+- •reduced adrenal function (adrenal insufficiency).
   Adrenal insufficiency that can lead to death can happen when you stop taking oral corticosteroid medicines and start using inhaled corticosteroid medicines.
   Adrenal insufficiency can also happen in people who take higher doses of QVAR than recommended over a long period of time.
   When your body is under stress such as from fever, trauma (such as a car accident), infection, or surgery, adrenal insufficiency can get worse.
@@ -119,7 +110,7 @@ QVAR may cause serious side effects, including:
   Children should have their growth checked regularly while using QVAR.
 - •lower bone density.
   This may be a problem for people who already have a higher chance for low bone density (osteoporosis).
-- •eye problems including glaucoma, cataracts or blurred vision.
+- •eye problems.
   If you have had glaucoma, cataracts or blurred vision in the past, you should have regular eye exams while using QVAR.
 
 The most common side effects of QVAR include:
@@ -157,11 +148,7 @@ Do not use QVAR for a condition for which it was not prescribed.
 Do not give QVAR to other people, even if they have the same symptoms that you have.
 It may harm them.
 
-This Patient Information leaflet summarizes the most important information about QVAR.
-If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about QVAR that is written for health professionals.
-
-For more information, go to www.QVAR.com or call 1-888-482-9522.
 
 What are the ingredients in QVAR?
 
@@ -169,15 +156,17 @@ Active ingredient: beclomethasone dipropionate
 
 Inactive ingredients: propellant HFA-134a and ethanol
 
-QVA PL-002
+For more information, go to www.QVAR.com or call 1-888-482-9522.
+
+QVAPL-003
 
 Instructions for Use
 
-QVAR (Kyü-vär)
+QVAR (Kyu-var)
 
 (beclomethasone dipropionate HFA)
 
-Inhalation Aerosol
+inhalation aerosol
 
 It is important that you read these instructions before using QVAR.
 
@@ -193,7 +182,7 @@ The parts of your QVAR:
 - oplastic actuator that sprays the medicine from the canister (See Figure A)
 
 1. Figure A
-2. •The inhaler has a protective dust cap that covers the mouthpiece of the actuator (See Figure A). The protective dust cap should be removed before use.
+2. •The inhaler has a cap that covers the mouthpiece of the actuator to protect it from dust (See Figure A). The cap should be removed before use.
    - •The inhaler comes with a dose counter located on the back of the actuator (See Figure B). The dose counter window will show you the number of actuations (puffs) of medicine remaining in units of 2.
      The inhaler contains “120” actuations (puffs).
 
@@ -243,7 +232,7 @@ If your healthcare provider has told you to take more than 1 inhalation per dose
 
 1. After using your QVAR inhaler:
 2. •Replace the cap over the mouthpiece right away after use.
-3. •You should rinse your mouth with water after you finish using QVAR.
+3. •You should rinse your mouth with water without swallowing after you finish using QVAR.
 4. •Clean the mouthpiece of your QVAR inhaler weekly with a clean, dry tissue or cloth.
 5. •Do not wash or put any part of your inhaler in water.
 
@@ -271,10 +260,8 @@ Developed And Manufactured By:
 
 © 2017 Teva Respiratory, LLC
 
-QVAR® is a registered trademark of IVAX LLC, a member of the TEVA Group.
+QVAR is a registered trademark of IVAX LLC, a member of the TEVA Group.
 
-QVA IFU-002
+QVAIFU-003
 
-PE3530
-
-Revised: 05/2017
+Revised: 09/2017

@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-The active component of QVAR 40 mcg Inhalation Aerosol and QVAR 80 mcg Inhalation Aerosol is beclomethasone dipropionate, USP, a corticosteroid having the chemical name 9-chloro-11ß,17,21-trihydroxy-16ß-methylpregna-1,4-diene-3,20-dione 17,21-dipropionate.
+The active component of QVAR 40 mcg inhalation aerosol and QVAR 80 mcg inhalation aerosol is beclomethasone dipropionate, USP, a corticosteroid having the chemical name 9-chloro-11ß,17,21-trihydroxy-16ß-methylpregna-1,4-diene-3,20-dione 17,21-dipropionate.
 Beclomethasone dipropionate (BDP) is a diester of beclomethasone, a synthetic corticosteroid chemically related to dexamethasone.
 Beclomethasone differs from dexamethasone in having a chlorine at the 9-alpha carbon in place of a fluorine, and in having a 16 beta-methyl group instead of a 16 alpha-methyl group.
 Beclomethasone dipropionate is a white to creamy white, odorless powder with a molecular formula of C28H37ClO7 and a molecular weight of 521.1.

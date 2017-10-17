@@ -30,28 +30,40 @@ Less than 1% of patients treated for one year with QVAR had an abnormal response
 Beclomethasone dipropionate (BDP) undergoes rapid and extensive conversion to beclomethasone-17-monopropionate (17-BMP) during absorption.
 The pharmacokinetics of 17-BMP has been studied in asthmatics given single doses.
 
-Absorption: The mean peak plasma concentration (Cmax) of BDP was 88 pg/ml at 0.5 hour after inhalation of 320 mcg using QVAR (4 actuations of the 80 mcg/actuation strength).
+Absorption
+
+The mean peak plasma concentration (Cmax) of BDP was 88 pg/ml at 0.5 hour after inhalation of 320 mcg using QVAR (4 actuations of the 80 mcg/actuation strength).
 The mean peak plasma concentration of the major and most active metabolite, 17-BMP, was 1419 pg/ml at 0.7 hour after inhalation of 320 mcg of QVAR.
 When the same nominal dose is provided by the two QVAR strengths (40 and 80 mcg/actuation), equivalent systemic pharmacokinetics can be expected.
 The Cmax of 17-BMP increased dose proportionally in the dose range of 80 and 320 mcg.
 
-Metabolism: Three major metabolites are formed via cytochrome P450-3A catalyzed biotransformation: beclomethasone-17-monopropionate (17-BMP), beclomethasone-21-monopropionate (21-BMP) and beclomethasone (BOH).
+Metabolism
+
+Three major metabolites are formed via cytochrome P450-3A catalyzed biotransformation: beclomethasone-17-monopropionate (17-BMP), beclomethasone-21-monopropionate (21-BMP) and beclomethasone (BOH).
 Lung slices metabolize BDP rapidly to 17-BMP and more slowly to BOH.
 17-BMP is the most active metabolite.
 
-Distribution: The in vitro protein binding for 17-BMP was reported to be 94-96% over the concentration range of 1000 to 5000 pg/mL.
+Distribution
+
+The in vitro protein binding for 17-BMP was reported to be 94-96% over the concentration range of 1000 to 5000 pg/mL.
 Protein binding was constant over the concentration range evaluated.
 There is no evidence of tissue storage of BDP or its metabolites.
 
-Elimination: The major route of elimination of inhaled BDP appears to be via hydrolysis.
+Elimination
+
+The major route of elimination of inhaled BDP appears to be via hydrolysis.
 More than 90% of inhaled BDP is found as 17-BMP in the systemic circulation.
 The mean elimination half-life of 17-BMP is 2.8 hours.
 Irrespective of the route of administration (injection, oral or inhalation), BDP and its metabolites are mainly excreted in the feces.
 Less than 10% of the drug and its metabolites are excreted in the urine.
 
-Special Populations: Formal pharmacokinetic studies using QVAR were not conducted in any special populations.
+Special Populations
 
-Pediatrics: The pharmacokinetics of 17-BMP, including dose and strength proportionalities, is similar in children and adults, although the exposure is highly variable.
+Formal pharmacokinetic studies using QVAR were not conducted in any special populations.
+
+Pediatrics
+
+The pharmacokinetics of 17-BMP, including dose and strength proportionalities, is similar in children and adults, although the exposure is highly variable.
 In 17 children (mean age 10 years), the Cmax of 17-BMP was 787 pg/ml at 0.6 hour after inhalation of 160 mcg (4 actuations of the 40 mcg/actuation strength of HFA beclomethasone dipropionate).
 The systemic exposure to 17-BMP from 160 mcg of HFA-BDP administered without a spacer was comparable to the systemic exposure to 17-BMP from 336 mcg CFC-BDP administered with a large volume spacer in 14 children (mean age 12 years).
 This implies that approximately twice the systemic exposure to 17-BMP would be expected for comparable mg doses of HFA-BDP without a spacer and CFC-BDP with a large volume spacer.

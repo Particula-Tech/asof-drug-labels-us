@@ -1,6 +1,6 @@
 # Package/Label Display Panel
 
-## QVAR®40mcg Inhalation Aerosol, 120 Metered Inhalations Carton Text
+## QVAR® (beclomethasone dipropionate HFA) 40mcg Inhalation Aerosol, 120 Metered Inhalations Carton Text
 
 NDC 59310-202-12
 
@@ -38,7 +38,7 @@ TEVA Respiratory
 
 # Package/Label Display Panel
 
-## QVAR®80mcg Inhalation Aerosol, 120 Metered Inhalations Carton Text
+## QVAR® (beclomethasone dipropionate HFA) 80mcg Inhalation Aerosol, 120 Metered Inhalations Carton Text
 
 NDC 59310-204-12
 

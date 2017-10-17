@@ -1,12 +1,10 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-Click here to enter Warnings and Precautions
-
 ## 5.1 Local Effects
 
 Localized infections with Candida albicans have occurred in the mouth and pharynx in some patients receiving QVAR.
 If oropharyngeal candidiasis develops, it should be treated with appropriate local or systemic (i.e., oral) antifungal therapy while still continuing with QVAR therapy, but at times therapy with QVAR may need to be temporarily interrupted under close medical supervision.
-Rinsing the mouth after inhalation is advised.
+Rinsing the mouth with water without swallowing after inhalation is advised.
 
 ## 5.2 Deterioration of Asthma and Acute Episodes
 
@@ -86,4 +84,4 @@ Patients with major risk factors for decreased bone mineral content, such as pro
 ## 5.10 Eye Disorders
 
 Glaucoma, increased intraocular pressure, blurred vision and cataracts have been reported following the use of long-term administration of inhaled corticosteroids.
-Therefore, close monitoring is warranted in patients with a change in vision or with a history of increased intraocular pressure, blurred vision, glaucoma, and/or cataracts while using QVAR.
+Therefore, close monitoring is warranted in patients with a change in vision or with a history of increased intraocular pressure, blurred vision, glaucoma and/or cataracts while using QVAR.
