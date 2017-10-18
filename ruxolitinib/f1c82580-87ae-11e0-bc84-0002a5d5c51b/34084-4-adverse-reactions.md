@@ -7,11 +7,11 @@ The following serious adverse reactions are discussed in greater detail in other
 - Symptom Exacerbation Following Interruption or Discontinuation of Treatment with Jakafi [see Warnings and Precautions (5.3)]
 - Non-Melanoma Skin Cancer [see Warnings and Precautions (5.4)]
 
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
-
 ## 6.1 Clinical Trials Experience in Myelofibrosis
 
-The safety of Jakafi was assessed in 617 patients in six clinical studies with a median duration of follow-up of 10.9 months, including 301 patients with myelofibrosis in two Phase 3 studies.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+The safety of Jakafi was assessed in 617 patients in six clinical studies with a median duration of follow-up of 10.9 months, including 301 patients with MF in two Phase 3 studies.
 
 In these two Phase 3 studies, patients had a median duration of exposure to Jakafi of 9.5 months (range 0.5 to 17 months), with 89% of patients treated for more than 6 months and 25% treated for more than 12 months.
 One hundred and eleven (111) patients started treatment at 15 mg twice daily and 190 patients started at 20 mg twice daily.
@@ -87,7 +87,7 @@ The incidence of Grade 2 cholesterol elevations was <1% for Jakafi with no Grade
 
 ## 6.2 Clinical Trial Experience in Polycythemia Vera
 
-In a randomized, open-label, active-controlled study, 110 patients with polycythemia vera resistant to or intolerant of hydroxyurea received Jakafi and 111 patients received best available therapy [see Clinical Studies (14.2)].
+In a randomized, open-label, active-controlled study, 110 patients with PV resistant to or intolerant of hydroxyurea received Jakafi and 111 patients received best available therapy [see Clinical Studies (14.2)].
 The most frequent adverse drug reaction was anemia.
 Table 12 presents the most frequent non-hematologic treatment emergent adverse events occurring up to Week 32.
 

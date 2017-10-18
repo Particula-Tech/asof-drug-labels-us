@@ -64,8 +64,8 @@ Discontinue Jakafi if there is no spleen size reduction or symptom improvement a
 
 ### 2.1.3 Dose Modifications for Hematologic Toxicity for Patients with Myelofibrosis Starting Treatment with Platelet Counts of 50 X 109/L to Less Than 100 X 109/L
 
-This section applies only to patients with platelet counts of 50 X 109/L to less than 100 X 109/L prior to any treatment with ruxolitinib.
-See Section 2.1.1 for dose modifications for hematological toxicity in patients whose platelet counts were 100 X 109/L or more prior to starting treatment with ruxolitinib.
+This section applies only to patients with platelet counts of 50 X 109/L to less than 100 X 109/L prior to any treatment with Jakafi.
+See Section 2.1.1 for dose modifications for hematological toxicity in patients whose platelet counts were 100 X 109/L or more prior to starting treatment with Jakafi.
 
 Treatment Interruption and Restarting Dosing
 
@@ -76,7 +76,7 @@ Restart dosing at the higher of 5 mg once daily or 5 mg twice daily below the la
 
 Dose Reductions
 
-Reduce the dose of ruxolitinib for platelet counts less than 35 X 109/L as described in Table 4.
+Reduce the dose of Jakafi for platelet counts less than 35 X 109/L as described in Table 4.
 
 Table 4: Myelofibrosis: Dosing Modifications for Thrombocytopenia for Patients with Starting Platelet Count of 50 X 109/L to Less Than 100 X 109/L
 
@@ -170,65 +170,67 @@ Consider dose increases in patients who meet all of the following conditions:
 3. Hemoglobin greater than or equal to 12 g/dL
 4. ANC greater than or equal to 1.5 X 109/L
 
-## 2.3 Dose Modification for Drug Interactions
+## 2.3 Dose Modifications for Concomitant Use with Strong CYP3A4 Inhibitors or Fluconazole
 
-Concomitant Use with Strong CYP3A4 Inhibitors or Fluconazole
+Modify the Jakafi dosage when coadministered with strong CYP3A4 inhibitors and fluconazole doses of less than or equal to 200 mg [see Drug Interactions (7)], according to Table 7.
 
-Modify the dose of Jakafi when given concomitantly with strong CYP3A4 inhibitors (such as but not limited to boceprevir, clarithromycin, conivaptan, grapefruit juice, indinavir, itraconazole, ketoconazole, lopinavir/ritonavir, mibefradil, nefazodone, nelfinavir, posaconazole, ritonavir, saquinavir, telaprevir, telithromycin, voriconazole) and fluconazole doses of less than or equal to 200 mg as follows [see Drug Interactions (7.1)], according to Table 7.
+Additional dose modifications should be made with frequent monitoring of safety and efficacy.
 
-Table 7: Dose Modification for Drug Interactions
+Avoid the use of fluconazole doses of greater than 200 mg daily with Jakafi.
 
-| Patients on concomitant strong CYP3A4 inhibitors or fluconazole doses of less than or equal to 200 mg | Recommended Dose Modification |
+Table 7: Dose Modifications for Concomitant Use of Strong CYP3A4 Inhibitors or Fluconazole
+
+| For patients coadministered strong CYP3A4 inhibitors or fluconazole doses of less than or equal to 200 mg | Recommended Dose Modification |
 | --- | --- |
-| Starting Dose for Patients with Myelofibrosis with a platelet count: |  |
+| Starting dose for patients with MF with a platelet count: |  |
 | Greater than or equal to 100 X 109/L | 10 mg twice daily |
 | 50 X 109/L to less than 100 X 109/L | 5 mg once daily |
-| Starting Dose for Patients with Polycythemia Vera | 5 mg twice daily |
-| All Patients on a Stable Dose of: |  |
+| Starting dose for patients with PV: | 5 mg twice daily |
+| If on stable dose for patients with PV: |  |
 | Greater than or equal to 10 mg twice daily | Decrease dose by 50% (round up to the closest available tablet strength) |
 | 5 mg twice daily | 5 mg once daily |
 | 5 mg once daily | Avoid strong CYP3A4 inhibitor or fluconazole treatment or interrupt Jakafi treatment for the duration of strong CYP3A4 inhibitor or fluconazole use |
 
-Avoid the use of fluconazole doses of greater than 200 mg daily concomitantly with Jakafi.
-
-Additional dose modifications should be made with careful monitoring of safety and efficacy.
-
-## 2.4 Organ Impairment
+## 2.4 Dose Modifications for Organ Impairment
 
 Renal Impairment
 
-Modify the dose of Jakafi accordingly in patients with moderate or severe renal impairment.
+Patients with Moderate or Severe Renal Impairment
 
-Table 8: Dosing for Renal Impairment
+Modify the Jakafi dosage for patients with moderate or severe renal impairment according to Table 8.
+
+Table 8: Dose Modifications for Renal Impairment
 
 | Renal Impairment Status | Platelet Count | Recommended Starting Dosage |
 | --- | --- | --- |
-| Patients with Myelofibrosis Moderate (CrCl 30–59 mL/min) or Severe (CrCl 15–29 mL/min) | Greater than 150 X 109/L | No dose modification needed |
-| 100 X 109/L - 150 X 109/L | 10 mg twice daily |  |
-| 50 - less than 100 X 109/L | 5 mg daily |  |
+| Patients with MF Moderate (CLcr 30 to 59 mL/min) or Severe (CLcr 15 to 29 mL/min) | Greater than 150 X 109/L | No dose modification needed |
+| 100 X 109/L to 150 X 109/L | 10 mg twice daily |  |
+| 50 to less than 100 X 109/L | 5 mg daily |  |
 | Less than 50 X 109/L | Avoid use [see Use in Specific Populations (8.6)] |  |
-| Patients with Polycythemia Vera Moderate (CrCl 30 59 mL/min) or Severe (CrCl 15 29 mL/min) | Any | 5 mg twice daily |
+| Patients with PV Moderate (CLcr 30 to 59 mL/min) or Severe (CLcr 15 to 29 mL/min) | Any | 5 mg twice daily |
 
-Patients on Dialysis
+Patients with End Stage Renal Disease on Dialysis
 
-The recommended starting dose for patients with myelofibrosis with end stage renal disease on dialysis is 15 mg once after a dialysis session for patients with a platelet count between 100 X 109/L and 200 X 109/L or 20 mg for patients with a platelet count of greater than 200 X 109/L.
-The recommended starting dose for patients with polycythemia vera with end stage renal disease on dialysis is 10 mg.
-Additional dose modifications should be made with frequent monitoring of safety and efficacy.
-Avoid use of Jakafi in patients with end stage renal disease (CrCl less than 15 mL/min) not requiring dialysis [see Use in Specific Populations (8.6)].
+The recommended starting dose for patients with MF with end stage renal disease (ESRD) on dialysis is 15 mg once after a dialysis session for patients with a platelet count between 100 X 109/L and 200 X 109/L or 20 mg once after a dialysis session for patients with a platelet count of greater than 200 X 109/L.
+
+The recommended starting dose for patients with PV with ESRD on dialysis is 10 mg.
+
+Make additional dose modifications with frequent monitoring of safety and efficacy.
+Avoid use of Jakafi in patients with ESRD (CLcr less than 15 mL/min) not requiring dialysis [see Use in Specific Populations (8.6)].
 
 Hepatic Impairment
 
-The dose of Jakafi should be reduced in patients with hepatic impairment.
+Modify the Jakafi dosage for patients with hepatic impairment according to Table 9.
 
-Table 9: Dosing for Hepatic Impairment
+Table 9: Dose Modifications for Hepatic Impairment
 
 | Hepatic Impairment Status | Platelet Count | Recommended Starting Dosage |
 | --- | --- | --- |
-| Patients with Myelofibrosis Mild, Moderate, or Severe (Child- Pugh categories A, B, C) | Greater than 150 X 109/L | No dose modification needed |
-| 100 X 109/L - 150 X 109/L | 10 mg twice daily |  |
-| 50 - less than 100 X 109/L | 5 mg daily |  |
+| Patients with MF Mild, Moderate, or Severe (Child- Pugh Class A, B, C) | Greater than 150 X 109/L | No dose modification needed |
+| 100 X 109/L to 150 X 109/L | 10 mg twice daily |  |
+| 50 to less than 100 X 109/L | 5 mg daily |  |
 | Less than 50 X 109/L | Avoid use [see Use in Specific Populations (8.7)] |  |
-| Patients with Polycythemia Vera Mild, Moderate, or Severe (Child- Pugh categories A, B, C) | Any | 5 mg twice daily |
+| Patients with PV Mild, Moderate, or Severe (Child- Pugh Class A, B, C) | Any | 5 mg twice daily |
 
 ## 2.5 Method of Administration
 

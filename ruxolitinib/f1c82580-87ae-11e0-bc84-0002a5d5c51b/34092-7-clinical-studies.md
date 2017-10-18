@@ -2,7 +2,7 @@
 
 ## 14.1 Myelofibrosis
 
-Two randomized Phase 3 studies (Studies 1 and 2) were conducted in patients with myelofibrosis (either primary myelofibrosis, post-polycythemia vera myelofibrosis or post-essential thrombocythemia-myelofibrosis).
+Two randomized Phase 3 studies (Studies 1 and 2) were conducted in patients with MF (either primary MF, post-polycythemia vera MF or post-essential thrombocythemia-MF).
 In both studies, patients had palpable splenomegaly at least 5 cm below the costal margin and risk category of intermediate 2 (2 prognostic factors) or high risk (3 or more prognostic factors) based on the International Working Group Consensus Criteria (IWG).
 
 The starting dose of Jakafi was based on platelet count.
@@ -13,7 +13,7 @@ Study 1
 
 Study 1 was a double-blind, randomized, placebo-controlled study in 309 patients who were refractory to or were not candidates for available therapy.
 The median age was 68 years (range 40 to 91 years) with 61% of patients older than 65 years and 54% were male.
-Fifty percent (50%) of patients had primary myelofibrosis, 31% had post-polycythemia vera myelofibrosis and 18% had post-essential thrombocythemia myelofibrosis.
+Fifty percent (50%) of patients had primary MF, 31% had post-polycythemia vera MF and 18% had post-essential thrombocythemia MF.
 Twenty-one percent (21%) of patients had red blood cell transfusions within 8 weeks of enrollment in the study.
 The median hemoglobin count was 10.5 g/dL and the median platelet count was 251 X 109/L.
 Patients had a median palpable spleen length of 16 cm below the costal margin, with 81% having a spleen length 10 cm or greater below the costal margin.
@@ -32,7 +32,7 @@ Patients were randomized 2:1 to Jakafi versus best available therapy.
 Best available therapy was selected by the investigator on a patient-by-patient basis.
 In the best available therapy arm, the medications received by more than 10% of patients were hydroxyurea (47%) and glucocorticoids (16%).
 The median age was 66 years (range 35 to 85 years) with 52% of patients older than 65 years and 57% were male.
-Fifty-three percent (53%) of patients had primary myelofibrosis, 31% had post-polycythemia vera myelofibrosis and 16% had post-essential thrombocythemia myelofibrosis.
+Fifty-three percent (53%) of patients had primary MF, 31% had post-polycythemia vera MF and 16% had post-essential thrombocythemia MF.
 Twenty-one percent (21%) of patients had red blood cell transfusions within 8 weeks of enrollment in the study.
 The median hemoglobin count was 10.4 g/dL and the median platelet count was 236 X 109/L.
 Patients had a median palpable spleen length of 15 cm below the costal margin, with 70% having a spleen length 10 cm or greater below the costal margin.
@@ -60,8 +60,8 @@ Table 14: Percent of Patients with Myelofibrosis Achieving 35% or Greater Reduct
 Figure 1 shows the percent change from baseline in spleen volume for each patient at Week 24 (Jakafi N=139, placebo N=106) or the last evaluation prior to Week 24 for patients who did not complete 24 weeks of randomized treatment (Jakafi N=16, placebo N=47).
 One (1) patient (placebo) with a missing baseline spleen volume is not included.
 
-In Study 1, myelofibrosis symptoms were a secondary endpoint and were measured using the modified Myelofibrosis Symptom Assessment Form (MFSAF) v2.0 diary.
-The modified MFSAF is a daily diary capturing the core symptoms of myelofibrosis (abdominal discomfort, pain under left ribs, night sweats, itching, bone/muscle pain and early satiety).
+In Study 1, MF symptoms were a secondary endpoint and were measured using the modified Myelofibrosis Symptom Assessment Form (MFSAF) v2.0 diary.
+The modified MFSAF is a daily diary capturing the core symptoms of MF (abdominal discomfort, pain under left ribs, night sweats, itching, bone/muscle pain and early satiety).
 Symptom scores ranged from 0 to 10 with 0 representing symptoms "absent" and 10 representing "worst imaginable" symptoms.
 These scores were added to create the daily total score, which has a maximum of 60.
 
@@ -81,6 +81,10 @@ Results are excluded for 5 patients with a baseline Total Symptom Score of zero,
 
 Figure 3 displays the proportion of patients with at least a 50% improvement in each of the individual symptoms that comprise the Total Symptom Score indicating that all 6 of the symptoms contributed to the higher Total Symptom Score response rate in the group treated with Jakafi.
 
+An exploratory analysis of patients receiving Jakafi also showed improvement in fatigue-related symptoms (i.e., tiredness, exhaustion, mental tiredness, and lack of energy) and associated impacts on daily activities (i.e., activity limitations related to work, self-care, and exercise) as measured by the PROMIS® Fatigue 7-item short form total score at Week 24.
+Patients who achieved a reduction of 4.5 points or more from baseline to Week 24 in the PROMIS® Fatigue total score were considered to have achieved a fatigue response.
+Fatigue response was reported in 35% of patients in the Jakafi group versus 14% of the patients in the placebo group.
+
 Overall survival was a secondary endpoint in both Study 1 and Study 2.
 Patients in the control groups were eligible for crossover in both studies, and the median times to crossover were 9 months in Study 1 and 17 months in Study 2.
 
@@ -88,8 +92,8 @@ Figure 4 and Figure 5 show Kaplan-Meier curves of overall survival at prospectiv
 
 ## 14.2 Polycythemia Vera
 
-Study 3 was a randomized, open-label, active-controlled Phase 3 study conducted in 222 patients with polycythemia vera.
-Patients had been diagnosed with polycythemia vera for at least 24 weeks, had an inadequate response to or were intolerant of hydroxyurea, required phlebotomy and exhibited splenomegaly.
+Study 3 was a randomized, open-label, active-controlled Phase 3 study conducted in 222 patients with PV.
+Patients had been diagnosed with PV for at least 24 weeks, had an inadequate response to or were intolerant of hydroxyurea, required phlebotomy and exhibited splenomegaly.
 All patients were required to demonstrate hematocrit control between 40-45% prior to randomization.
 The age ranged from 33 to 90 years with 30% of patients over 65 years of age and 66% were male.
 Patients had a median spleen volume as measured by MRI or CT of 1272 cm3 (range 254 cm3 to 5147 cm3) and median palpable spleen length below the costal margin was 7 cm.

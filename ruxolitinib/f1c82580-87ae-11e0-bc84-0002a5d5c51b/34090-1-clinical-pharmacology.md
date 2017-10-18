@@ -5,67 +5,99 @@
 Ruxolitinib, a kinase inhibitor, inhibits Janus Associated Kinases (JAKs) JAK1 and JAK2 which mediate the signaling of a number of cytokines and growth factors that are important for hematopoiesis and immune function.
 JAK signaling involves recruitment of STATs (signal transducers and activators of transcription) to cytokine receptors, activation and subsequent localization of STATs to the nucleus leading to modulation of gene expression.
 
-Myelofibrosis (MF) and polycythemia vera (PV) are myeloproliferative neoplasms (MPN) known to be associated with dysregulated JAK1 and JAK2 signaling.
-In a mouse model of JAK2V617F-positive MPN, oral administration of ruxolitinib prevented splenomegaly, preferentially decreased JAK2V617F mutant cells in the spleen and decreased circulating inflammatory cytokines (eg, TNF-α, IL-6).
+MF and PV are myeloproliferative neoplasms (MPN) known to be associated with dysregulated JAK1 and JAK2 signaling.
+In a mouse model of JAK2V617F-positive MPN, oral administration of ruxolitinib prevented splenomegaly, preferentially decreased JAK2V617F mutant cells in the spleen and decreased circulating inflammatory cytokines (e.g., TNF-α, IL-6).
 
 ## 12.2 Pharmacodynamics
 
-Ruxolitinib inhibits cytokine induced STAT3 phosphorylation in whole blood from healthy subjects and patients with MF and PV.
-Jakafi administration resulted in maximal inhibition of STAT3 phosphorylation 2 hours after dosing which returned to near baseline by 10 hours in both healthy subjects and patients with MF and PV.
+Jakafi inhibits cytokine induced STAT3 phosphorylation in whole blood from patients with MF and PV.
+Jakafi administration resulted in maximal inhibition of STAT3 phosphorylation 2 hours after dosing which returned to near baseline by 10 hours in patients with MF and PV.
+
+Cardiac Electrophysiology
+
+At a dose of 1.25 to 10 times the highest recommended starting dosage, Jakafi does not prolong the QT interval to any clinically relevant extent.
 
 ## 12.3 Pharmacokinetics
 
+Mean ruxolitinib Cmax and AUC increased proportionally over a single dose range of 5 mg to 200 mg.
+Mean ruxolitinib Cmax ranged from 205 nM to 7100 nM and AUC ranged from 862 nM*hr to 30700 nM*hr over a single dose range of 5 mg to 200 mg.
+
 Absorption
 
-In clinical studies, ruxolitinib is rapidly absorbed after oral Jakafi administration with maximal plasma concentration (Cmax) achieved within 1 to 2 hours post-dose.
-Based on a mass balance study in humans, oral absorption of ruxolitinib was estimated to be at least 95%.
-Mean ruxolitinib Cmax and total exposure (AUC) increased proportionally over a single dose range of 5 to 200 mg.
-There were no clinically relevant changes in the pharmacokinetics of ruxolitinib upon administration of Jakafi with a high-fat meal, with the mean Cmax moderately decreased (24%) and the mean AUC nearly unchanged (4% increase).
+Ruxolitinib achieves maximal plasma concentration (Cmax) within 1 hour to 2 hours post-dose.
+Oral absorption of ruxolitinib is estimated to be at least 95%.
+
+Food Effect
+
+No clinically relevant changes in the pharmacokinetics of ruxolitinib were observed upon administration of Jakafi with a high-fat, high-calorie meal (approximately 800 to 1000 calories of which 50% were derived from fat).
 
 Distribution
 
-The mean volume of distribution at steady-state is 72 L in patients with MF with an associated inter-subject variability of 29% and 75 L in patients with PV with an associated inter-subject variability of 23%.
-Binding to plasma proteins in vitro is approximately 97%, mostly to albumin.
+The mean volume of distribution at steady-state is 72 L (coefficient of variation [CV] 29%) in patients with MF and 75 L (23%) in patients with PV.
 
-Metabolism
-
-In vitro studies suggest that ruxolitinib is metabolized by CYP3A4 and to a lesser extent by CYP2C9.
+Binding to plasma proteins is approximately 97%, mostly to albumin.
 
 Elimination
 
-Following a single oral dose of [14C]-labeled ruxolitinib in healthy adult subjects, elimination was predominately through metabolism with 74% of radioactivity excreted in urine and 22% excretion via feces.
-Unchanged drug accounted for less than 1% of the excreted total radioactivity.
 The mean elimination half-life of ruxolitinib is approximately 3 hours and the mean half-life of ruxolitinib + metabolites is approximately 5.8 hours.
 
-Effects of Age, Gender, or Race
+Ruxolitinib clearance was 17.7 L/h in women and 22.1 L/h in men with MF (39% inter-subject variability).
 
-In healthy subjects, no significant differences in ruxolitinib pharmacokinetics were observed with regard to gender and race.
-In a population pharmacokinetic evaluation in patients with MF, no relationship was apparent between oral clearance and patient age or race, and in women, clearance was 17.7 L/h and in men, 22.1 L/h with 39% inter-subject variability.
-Clearance was 12.7 L/h in patients with PV, with a 42% inter-subject variability, and no relationship was apparent between oral clearance and gender, patient age or race in this patient population.
+Ruxolitinib clearance was 12.7 L/h in patients with PV (42% inter-subject variability).
+
+Metabolism
+
+Ruxolitinib is metabolized by CYP3A4 and to a lesser extent by CYP2C9.
+
+Excretion
+
+Following a single oral dose of radiolabeled ruxolitinib, elimination was predominately through metabolism with 74% of radioactivity excreted in urine and 22% excretion via feces.
+Unchanged drug accounted for less than 1% of the excreted total radioactivity.
+
+Specific Populations
+
+No clinically relevant differences in ruxolitinib pharmacokinetics were observed with regard to age, race, sex, or weight.
+
+Patients with Renal Impairment
+
+The safety and pharmacokinetics of single dose Jakafi (25 mg) were evaluated in a study in healthy subjects [CLcr 72 mL/min to 164 mL/min as estimated using Cockcroft-Gault] and in subjects with mild [CLcr 53 mL/min to 83 mL/min], moderate [CLcr 38 mL/min to 57 mL/min], or severe renal impairment [CLcr 15 mL/min to 51 mL/min].
+Additional subjects with ESRD requiring hemodialysis were also enrolled.
+
+The pharmacokinetics of ruxolitinib was similar in subjects with various degrees of renal impairment and in those with normal renal function, but the plasma AUC values of ruxolitinib metabolites increased with increasing severity of renal impairment.
+This was most marked in the subjects with ESRD requiring hemodialysis.
+The change in the pharmacodynamic marker, pSTAT3 inhibition, was consistent with the corresponding increase in metabolite exposure.
+Ruxolitinib is not removed by dialysis; however, the removal of some active metabolites by dialysis cannot be ruled out.
+
+Patients with Hepatic Impairment
+
+The safety and pharmacokinetics of single dose Jakafi (25 mg) were evaluated in a study in healthy subjects and in subjects with mild [Child-Pugh A], moderate [Child-Pugh B], or severe hepatic impairment [Child-Pugh C]. The mean AUC for ruxolitinib was increased by 87% in patients with mild impairment, 28% in patients with moderate impairment and 65% in patients with severe hepatic impairment compared to patients with normal hepatic function.
+The terminal elimination half-life was prolonged in patients with hepatic impairment compared to healthy subjects (4.1 hours to 5 hours versus 2.8 hours).
+The change in the pharmacodynamic marker, pSTAT3 inhibition, was consistent with the corresponding increase in ruxolitinib exposure except in the severe hepatic impairment cohort where the pharmacodynamic activity was more prolonged in some subjects than expected based on plasma concentrations of ruxolitinib.
 
 Drug Interactions
 
-Strong CYP3A4 inhibitors: In a trial of 16 healthy volunteers, a single dose of 10 mg of Jakafi was administered alone on Day 1 and a single dose of 10 mg of Jakafi was administered on Day 5 in combination with 200 mg of ketoconazole (a strong CYP3A4 inhibitor, given twice daily on Days 2 to 5).
-Ketoconazole increased ruxolitinib Cmax and AUC by 33% and 91%, respectively.
-Ketoconazole also prolonged ruxolitinib half-life from 3.7 to 6.0 hours [see Dosage and Administration (2.3) and Drug Interactions (7.1)].
+Fluconazole
 
-Fluconazole: Simulations using physiologically-based pharmacokinetic (PBPK) models suggested that fluconazole (a dual CYP3A4 and CYP2C9 inhibitor) increases steady state ruxolitinib AUC by approximately 100% to 300% following concomitant administration of 10 mg of Jakafi twice daily with 100 mg to 400 mg of fluconazole once daily, respectively [see Dosage and Administration (2.3) and Drug Interactions (7.1)].
+Simulations suggest that fluconazole (a dual CYP3A4 and CYP2C9 inhibitor) increases steady state ruxolitinib AUC by approximately 100% to 300% following concomitant administration of 10 mg of Jakafi twice daily with 100 mg to 400 mg of fluconazole once daily [see Dosage and Administration (2.3) and Drug Interactions (7)].
 
-Mild or moderate CYP3A4 inhibitors: In a trial of 15 healthy volunteers, a single dose of 10 mg of Jakafi was administered alone on Day 1 and a single dose of 10 mg of Jakafi was administered on Day 5 in combination with 500 mg of erythromycin (a moderate CYP3A4 inhibitor, given twice daily on Days 2 to 5).
-Erythromycin increased ruxolitinib Cmax and AUC by 8% and 27%, respectively [see Drug Interactions (7.1)].
+Strong CYP3A4 inhibitors
 
-CYP3A4 inducers: In a trial of 12 healthy volunteers, a single dose of 50 mg of Jakafi was administered alone on Day 1 and a single dose of 50 mg of Jakafi was administered on Day 13 in combination with 600 mg of rifampin (a strong CYP3A4 inducer, given once daily on Days 3 to 13).
-Rifampin decreased ruxolitinib Cmax and AUC by 32% and 61%, respectively.
-In addition, the relative exposure to ruxolitinib’s active metabolites increased approximately 100% [see Drug Interactions (7.1)].
+Ketoconazole (a strong CYP3A4 inhibitor) increased ruxolitinib Cmax by 33% and AUC by 91%.
+Ketoconazole also prolonged ruxolitinib half-life from 3.7 hours to 6 hours [see Dosage and Administration (2.3) and Drug Interactions (7)].
 
-In vitro studies: In vitro, ruxolitinib and its M18 metabolite do not inhibit CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6 or CYP3A4.
-Ruxolitinib is not an inducer of CYP1A2, CYP2B6 or CYP3A4 at clinically relevant concentrations.
+Moderate CYP3A4 inhibitors
 
-In vitro, ruxolitinib and its M18 metabolite do not inhibit the P-gp, BCRP, OATP1B1, OATP1B3, OCT1, OCT2, OAT1 or OAT3 transport systems at clinically relevant concentrations.
+Erythromycin (a moderate CYP3A4 inhibitor) increased ruxolitinib Cmax by 8% and AUC by 27% [see Drug Interactions (7)].
+
+Strong CYP3A4 inducers
+
+Rifampin (a strong CYP3A4 inducer) decreased ruxolitinib Cmax by 32% and AUC by 61%.
+The relative exposure to ruxolitinib’s active metabolites increased approximately 100% [see Drug Interactions (7)].
+
+In vitro studies
+
+Ruxolitinib and its M18 metabolite did not inhibit CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6 or CYP3A4.
+Ruxolitinib did not induce CYP1A2, CYP2B6 or CYP3A4 at clinically relevant concentrations.
+
+Ruxolitinib and its M18 metabolite did not inhibit the P-gp, BCRP, OATP1B1, OATP1B3, OCT1, OCT2, OAT1 or OAT3 transport systems at clinically relevant concentrations.
 Ruxolitinib is not a substrate for the P-gp transporter.
-
-## 12.4 Thorough QT Study
-
-The effect of single dose ruxolitinib 25 mg and 200 mg on QTc interval was evaluated in a randomized, placebo-, and active-controlled (moxifloxacin 400 mg) four-period crossover thorough QT study in 47 healthy subjects.
-In a study with demonstrated ability to detect small effects, the upper bound of the one-sided 95% confidence interval for the largest placebo adjusted, baseline-corrected QTc based on Fridericia correction method (QTcF) was below 10 ms, the threshold for regulatory concern.
-The dose of 200 mg is adequate to represent the high exposure clinical scenario.

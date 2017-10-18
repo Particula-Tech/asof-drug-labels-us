@@ -2,8 +2,8 @@
 
 ## 1.1 Myelofibrosis
 
-Jakafi is indicated for treatment of patients with intermediate or high-risk myelofibrosis, including primary myelofibrosis, post-polycythemia vera myelofibrosis and post-essential thrombocythemia myelofibrosis.
+Jakafi is indicated for treatment of patients with intermediate or high-risk myelofibrosis (MF), including primary MF, post-polycythemia vera MF and post-essential thrombocythemia MF.
 
 ## 1.2 Polycythemia Vera
 
-Jakafi is indicated for treatment of patients with polycythemia vera who have had an inadequate response to or are intolerant of hydroxyurea.
+Jakafi is indicated for treatment of patients with polycythemia vera (PV) who have had an inadequate response to or are intolerant of hydroxyurea.

@@ -1,17 +1,18 @@
 # 7. DRUG INTERACTIONS
 
-## 7.1 Drugs That Inhibit or Induce Cytochrome P450 Enzymes
+Fluconazole
 
-Ruxolitinib is metabolized by CYP3A4 and to a lesser extent by CYP2C9.
-
-CYP3A4 inhibitors: The Cmax and AUC of ruxolitinib increased 33% and 91%, respectively following concomitant administration with the strong CYP3A4 inhibitor ketoconazole in healthy subjects.
-Concomitant administration with mild or moderate CYP3A4 inhibitors did not result in an exposure change requiring intervention [see Pharmacokinetics (12.3)].
-
-When administering Jakafi with strong CYP3A4 inhibitors, consider dose reduction [see Dosage and Administration (2.3)].
-
-Fluconazole: The AUC of ruxolitinib is predicted to increase by approximately 100% to 300% following concomitant administration with the combined CYP3A4 and CYP2C9 inhibitor fluconazole at doses of 100 mg to 400 mg once daily, respectively [see Pharmacokinetics (12.3)].
-
+Concomitant administration of Jakafi with fluconazole doses greater than 200 mg daily may increase ruxolitinib exposure due to inhibition of both the CYP3A4 and CYP2C9 metabolic pathways [see Clinical Pharmacology (12.3)].
+Increased exposure may increase the risk of exposure-related adverse reactions.
 Avoid the concomitant use of Jakafi with fluconazole doses of greater than 200 mg daily [see Dosage and Administration (2.3)].
 
-CYP3A4 inducers: The Cmax and AUC of ruxolitinib decreased 32% and 61%, respectively, following concomitant administration with the strong CYP3A4 inducer rifampin in healthy subjects.
-No dose adjustment is recommended; however, monitor patients frequently and adjust the Jakafi dose based on safety and efficacy [see Pharmacokinetics (12.3)].
+Strong CYP3A4 inhibitors
+
+Concomitant administration of Jakafi with strong CYP3A4 inhibitors increases ruxolitinib exposure [see Clinical Pharmacology (12.3)].
+Increased exposure may increase the risk of exposure-related adverse reactions.
+Consider dose reduction when administering Jakafi with strong CYP3A4 inhibitors [see Dosage and Administration (2.3)].
+
+Strong CYP3A4 inducers
+
+Concomitant administration of Jakafi with strong CYP3A4 inducers may decrease ruxolitinib exposure [see Clinical Pharmacology (12.3)].
+No dose adjustment is recommended; however, monitor patients frequently and adjust the Jakafi dose based on safety and efficacy [see Clinical Pharmacology (12.3)].
