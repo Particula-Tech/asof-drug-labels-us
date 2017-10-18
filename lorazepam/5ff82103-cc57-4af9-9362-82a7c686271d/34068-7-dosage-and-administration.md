@@ -5,9 +5,9 @@
 An Intensol is a concentrated oral solution as compared to standard oral liquid medications.
 It is recommended that an Intensol be mixed with liquid or semi-solid food such as water, juices, soda or soda-like beverages, applesauce and puddings.
 
-Use only the calibrated dropper provided with this product.
-Draw into the dropper the amount prescribed for a single dose.
-Then squeeze the dropper contents into a liquid or semi-solid food.
+Use only the calibrated oral syringe provided with this product.
+Draw into the syringe the amount prescribed for a single dose.
+Then push the plunger on the syringe to add the contents into a liquid or semi-solid food.
 Stir the liquid or food gently for a few seconds.
 The Intensol formulation blends quickly and completely.
 The entire amount of the mixture, of drug and liquid or drug and food, should be consumed immediately.
@@ -18,7 +18,7 @@ For optimal results, dose, frequency of administration, and duration of therapy 
 
 The usual range is 2 mg/day to 6 mg/day given in divided doses, the largest dose being taken before bedtime, but the daily dosage may vary from 1 mg/day to 10 mg/day.
 
-For anxiety, most patients require an initial dose of 2 mg/day to 3 mg/day given b.i.d. or t.i.d.
+For anxiety, most patients require an initial dose of 2 mg/day to 3 mg/day given two times a day or three times a day.
 
 For insomnia due to anxiety or transient situational stress, a single daily dose of 2 mg to 4 mg may be given, usually at bedtime.
 

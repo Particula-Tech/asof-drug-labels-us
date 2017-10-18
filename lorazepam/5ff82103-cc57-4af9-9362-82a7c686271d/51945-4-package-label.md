@@ -1,1 +1,5 @@
-# Package/Label Display Panel
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
+
+NDC 0054-3532-44
+
+Rx only

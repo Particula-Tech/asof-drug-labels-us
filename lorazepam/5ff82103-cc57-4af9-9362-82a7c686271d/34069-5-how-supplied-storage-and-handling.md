@@ -4,4 +4,23 @@ Lorazepam Intensol™ Oral Concentrate USP
 
 The 2 mg per mL oral concentrate is supplied as a clear colorless solution.
 
-NDC 0054-3532-44: Bottle of 30 mL with calibrated dropper (graduations of 0.25 mL [0.5 mg], 0.5 mL [1 mg], 0.75 mL 1.5 [mg] and 1 mL [2 mg] on the dropper).
+NDC 0054-3532-44: Bottle of 30 mL with calibrated syringe (graduations 0.05 mL on the syringe).
+
+PROTECT FROM LIGHT
+
+Store at cold temperature.
+Refrigerate at 2° to 8°C (36° to 46°F)
+
+Dispense only in the bottle and only withthe calibrated oral syringe provided.
+
+Discard opened bottle after 90 days.
+
+Distr. by: West-Ward
+
+Pharmaceuticals Corp.
+
+Eatontown, NJ 07724
+
+4055805//06
+
+Revised February 2017
