@@ -30,7 +30,14 @@ Isolated cases of severe liver injury were identified in clinical trials.
 The elevation of liver laboratory values occurred approximately three months after initiation of PROMACTA.
 In all cases, the event resolved following PROMACTA discontinuation.
 
-## 5.3 Thrombotic/Thromboembolic Complications
+## 5.3 Increased Risk of Death and Progression of Myelodysplastic Syndromes (MDS) to Acute Myeloid Leukemia (AML)
+
+A randomized, double-blind, placebo-controlled, multicenter trial in patients with International Prognostic Scoring System (IPSS) intermediate-1, intermediate-2 or high risk MDS with thrombocytopenia, receiving azacitidine in combination with either PROMACTA (n=179) or placebo (n=177) was terminated due to lack of efficacy and safety reasons, including increased progression to AML.
+Patients received PROMACTA or placebo at a starting dose of 200 mg once daily, up to a maximum of 300 mg once daily, in combination with azacitidine for at least six cycles.
+The incidence of death (overall survival) was 32% (57/179) in the PROMACTA arm versus 29% (51/177) in the placebo arm (HR [95% CI] = 1.42 [0.97, 2.08], showing an increased relative risk of death in this trial by 42% in the PROMACTA arm).
+The incidence of progression to AML was 12% (21/179) in the PROMACTA arm versus 6% (10/177) in the placebo arm (HR [95% CI] = 2.66 [1.31, 5.41], showing an increased relative risk of progression to AML in this trial by 166% in the PROMACTA arm).
+
+## 5.4 Thrombotic/Thromboembolic Complications
 
 Thrombotic/thromboembolic complications may result from increases in platelet counts with PROMACTA.
 Reported thrombotic/thromboembolic complications included both venous and arterial events and were observed at low and at normal platelet counts.
@@ -49,7 +56,7 @@ Symptoms of PVT included abdominal pain, nausea, vomiting, and diarrhea.
 Five of the six patients in the group that received PROMACTA experienced a thrombotic complication within 30 days of completing treatment with PROMACTA and at a platelet count above 200 x 109/L.
 The risk of portal venous thrombosis was increased in thrombocytopenic patients with chronic liver disease treated with 75 mg of PROMACTA once daily for 2 weeks in preparation for invasive procedures.
 
-## 5.4 Cataracts
+## 5.5 Cataracts
 
 In the three controlled clinical trials in adults with chronic ITP, cataracts developed or worsened in 15 (7%) patients who received 50 mg of PROMACTA daily and 8 (7%) placebo-group patients.
 In the extension trial, cataracts developed or worsened in 11% of patients who underwent ocular examination prior to therapy with PROMACTA.

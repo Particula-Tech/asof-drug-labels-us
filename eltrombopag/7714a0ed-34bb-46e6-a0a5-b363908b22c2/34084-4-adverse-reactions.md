@@ -4,15 +4,16 @@ The following serious adverse reactions associated with PROMACTA are described i
 
 - Hepatic Decompensation in Patients with Chronic Hepatitis C [see Warnings and Precautions (5.1)]
 - Hepatotoxicity [see Warnings and Precautions (5.2)]
-- Thrombotic/Thromboembolic Complications [see Warnings and Precautions (5.3)]
-- Cataracts [see Warnings and Precautions (5.4)]
+- Increased Risk of Death and Progression of Myelodysplastic Syndromes to Acute Myeloid Leukemia [see Warnings and Precautions (5.3)]
+- Thrombotic/Thromboembolic Complications [see Warnings and Precautions (5.4)]
+- Cataracts [see Warnings and Precautions (5.5)]
 
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 Chronic Immune (Idiopathic) Thrombocytopenia: Adults: In clinical trials, hemorrhage was the most common serious adverse reaction and most hemorrhagic reactions followed discontinuation of PROMACTA.
-Other serious adverse reactions included thrombotic/thromboembolic complications [see Warnings and Precautions (5.3)].
+Other serious adverse reactions included thrombotic/thromboembolic complications [see Warnings and Precautions (5.4)].
 The data described below reflect exposure of PROMACTA to patients with chronic ITP aged 18 to 85 years, of whom 66% were female, in three placebo-controlled trials and one open-label extension trial [see Clinical Studies (14.1)].
 PROMACTA was administered to 330 patients for at least 6 months and 218 patients for at least 1 year.
 
@@ -71,7 +72,7 @@ Seventy-two percent of patients had preexisting risk factors, including corticos
 
 In clinical trials in patients with chronic ITP, one patient treated with PROMACTA (<1%) experienced drug-induced liver injury [see Warnings and Precautions (5.2)].
 
-In a placebo-controlled trial of PROMACTA in patients with chronic liver disease and thrombocytopenia not related to ITP, six patients treated with PROMACTA and one patient in the placebo group developed portal vein thromboses [see Warnings and Precautions (5.3)].
+In a placebo-controlled trial of PROMACTA in patients with chronic liver disease and thrombocytopenia not related to ITP, six patients treated with PROMACTA and one patient in the placebo group developed portal vein thromboses [see Warnings and Precautions (5.4)].
 
 Pediatric Patients: The data described below reflect median exposure to PROMACTA of 91 days for 107 pediatric patients (aged 1 to 17 years) with chronic ITP, of whom 53% were female, across the randomized phase of two placebo-controlled trials.
 

@@ -17,7 +17,7 @@ Eltrombopag did not affect male fertility in rats at doses up to 40 mg/kg/day, t
 
 Treatment-related cataracts were detected in rodents in a dose- and time-dependent manner.
 At greater than or equal to 6 times the human clinical exposure based on AUC in patients with ITP at 75 mg/day and 3 times the human clinical exposure based on AUC in patients with chronic hepatitis C at 100 mg/day, cataracts were observed in mice after 6 weeks and in rats after 28 weeks of dosing.
-At greater than or equal to 4 times the human clinical exposure based on AUC in patients with ITP at 75 mg/day and 2 times the human clinical exposure based on AUC in patients with chronic hepatitis C at 100 mg/day, cataracts were observed in mice after 13 weeks and in rats after 39 weeks of dosing [see Warnings and Precautions (5.4)].
+At greater than or equal to 4 times the human clinical exposure based on AUC in patients with ITP at 75 mg/day and 2 times the human clinical exposure based on AUC in patients with chronic hepatitis C at 100 mg/day, cataracts were observed in mice after 13 weeks and in rats after 39 weeks of dosing [see Warnings and Precautions (5.5)].
 
 Renal tubular toxicity was observed in studies up to 14 days in duration in mice and rats at exposures that were generally associated with morbidity and mortality.
 Tubular toxicity was also observed in a 2-year oral carcinogenicity study in mice at doses of 25, 75, and 150 mg/kg/day.

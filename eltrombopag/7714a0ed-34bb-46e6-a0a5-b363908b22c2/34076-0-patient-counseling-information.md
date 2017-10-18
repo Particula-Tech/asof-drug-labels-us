@@ -25,11 +25,11 @@ Risk of Bleeding Upon PROMACTA Discontinuation
 
 Thrombotic/Thromboembolic Complications
 
-- Advise patients that too much PROMACTA may result in excessive platelet counts and a risk for thrombotic/thromboembolic complications [see Warnings and Precautions (5.3)].
+- Advise patients that too much PROMACTA may result in excessive platelet counts and a risk for thrombotic/thromboembolic complications [see Warnings and Precautions (5.4)].
 
 Cataracts
 
-- Advise patients to have a baseline ocular examination prior to administration of PROMACTA and be monitored for signs and symptoms of cataracts during therapy [see Warnings and Precautions (5.4)].
+- Advise patients to have a baseline ocular examination prior to administration of PROMACTA and be monitored for signs and symptoms of cataracts during therapy [see Warnings and Precautions (5.5)].
 
 Drug Interactions
 

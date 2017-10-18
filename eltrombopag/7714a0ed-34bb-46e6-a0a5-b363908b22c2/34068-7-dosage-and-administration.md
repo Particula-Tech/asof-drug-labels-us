@@ -4,7 +4,7 @@
 
 Use the lowest dose of PROMACTA to achieve and maintain a platelet count greater than or equal to 50 x 109/L as necessary to reduce the risk for bleeding.
 Dose adjustments are based upon the platelet count response.
-Do not use PROMACTA to normalize platelet counts [see Warnings and Precautions (5.3)].
+Do not use PROMACTA to normalize platelet counts [see Warnings and Precautions (5.4)].
 In clinical trials, platelet counts generally increased within 1 to 2 weeks after starting PROMACTA and decreased within 1 to 2 weeks after discontinuing PROMACTA [see Clinical Studies (14.1)].
 
 Initial Dose Regimen: Adult and Pediatric Patients 6 Years and Older with ITP: Initiate PROMACTA at a dose of 50 mg once daily, except in patients who are of East Asian ancestry (such as Chinese, Japanese, Taiwanese, or Korean) or who have mild to severe hepatic impairment (Child-Pugh Class A, B, C).
@@ -48,7 +48,7 @@ Obtain CBCs with differentials, including platelet counts, weekly for at least 4
 
 Use the lowest dose of PROMACTA to achieve and maintain a platelet count necessary to initiate and maintain antiviral therapy with pegylated interferon and ribavirin.
 Dose adjustments are based upon the platelet count response.
-Do not use PROMACTA to normalize platelet counts [see Warnings and Precautions (5.3)].
+Do not use PROMACTA to normalize platelet counts [see Warnings and Precautions (5.4)].
 In clinical trials, platelet counts generally began to rise within the first week of treatment with PROMACTA [see Clinical Studies (14.2)].
 
 Initial Dose Regimen: Initiate PROMACTA at a dose of 25 mg once daily.
