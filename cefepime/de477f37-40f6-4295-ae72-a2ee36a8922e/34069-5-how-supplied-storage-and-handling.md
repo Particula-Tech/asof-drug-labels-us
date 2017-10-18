@@ -20,7 +20,7 @@ In the dry state store at 20° to 25°C (68° to 77°F); excursions permitted be
 
 Protect from light.
 Retain in carton until time of use.
+Discard unused portion.
 
 Sterile, Nonpyrogenic, Preservative-free.
-
 The container closure is not made with natural rubber latex.

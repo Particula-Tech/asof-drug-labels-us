@@ -12,6 +12,6 @@
 
 Brands listed are the trademarks of their respective owners.
 
-SAGENT® Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in Brazil ©2016 Sagent Pharmaceuticals, Inc. Revised: May 2016
+SAGENT® Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in Brazil ©2017 Sagent Pharmaceuticals, Inc. Revised: June 2017
 
 SAGENT Pharmaceuticals®

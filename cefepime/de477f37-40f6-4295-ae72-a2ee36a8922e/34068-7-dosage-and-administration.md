@@ -30,7 +30,7 @@ The usual recommended dosage in pediatric patients up to 40 kg in weight for dur
 - For moderate to severe pneumonia due to P. aeruginosa give 50 mg per kg per dose, every 8 hours.
 - 50 mg per kg per dose, every 8 hours for febrile neutropenic patients.
 
-## 2.3 Dosage Adjustments in Patients with Renal Impairment
+## 2.3 Dosage Adjustment in Patients with Renal Impairment
 
 Adult Patients
 
@@ -40,6 +40,8 @@ The recommended doses of cefepime for injection in patients with renal impairmen
 
 When only serum creatinine is available, the following formula (Cockcroft and Gault equation)4 may be used to estimate creatinine clearance.
 The serum creatinine should represent a steady state of renal function:
+
+Females: 0.85 x above value
 
 Table 2: Recommended Dosing Schedule for Cefepime for Injection in Adult Patients with Creatinine Clearance Less Than or Equal to 60 mL/min
 
@@ -68,13 +70,13 @@ Data in pediatric patients with impaired renal function are not available; howev
 
 Vials
 
-- Constitute the 1 gram or 2 gram vial, of cefepime for injection with the one of the following diluents:
+- Constitute the 1 gram or 2 grams vial, of cefepime for injection with the one of the following diluents:
   - Sterile Water for Injection
   - 0.9% Sodium Chloride Injection
   - 5% Dextrose Injection
   - 0.5% or 1% Lidocaine Hydrochloride Injection
   - Sterile Bacteriostatic Water for Injection with Parabens or Benzyl Alcohol
-- Dilute reconstituted solution with one of the following compatible infusion solutions prior to intravenous infusion (Refer to Table 3 below for the amount of diluent to be added to each vial):
+- Dilute the reconstituted solution with one of the following compatible infusion solutions prior to intravenous infusion (Refer to Table 3 below for the amount of diluent to be added to each vial and the amount of the reconstituted solution to be withdrawn):
   - 0.9% Sodium Chloride Injection
   - 5% and 10% Dextrose Injection
   - M/6 Sodium Lactate Injection
@@ -89,22 +91,20 @@ Vials
 
 ## 2.5 Preparation for Intramuscular Administration
 
-Constitute cefepime for injection vials 1 gram and 2 gram with one of the following diluents: Sterile Water for Injection, 0.9% Sodium Chloride, 5% Dextrose Injection, 0.5% or 1% Lidocaine Hydrochloride, or Sterile Bacteriostatic Water for Injection with Parabens or Benzyl Alcohol.
-Refer to Table 3 below for the amount of diluent to be added to each vial.
+Constitute cefepime for injection vials 1 gram and 2 grams with one of the following diluents: Sterile Water for Injection, 0.9% Sodium Chloride, 5% Dextrose Injection, 0.5% or 1% Lidocaine Hydrochloride, or Sterile Bacteriostatic Water for Injection with Parabens or Benzyl Alcohol.
+Refer to Table 3 below for the amount of diluent to be added to each vial and the amount of reconstituted volume to be withdrawn.
 
 Parenteral drugs should be inspected visually for particulate matter before administration.
 If particulate matter is evident in reconstituted fluids, the drug solution should be discarded.
 
-Table 3: Preparation of Constituted Solutions of Cefepime for Injection
+Table 3: Preparation of Reconstituted Solutions of Cefepime for Injection
 
-| Single-Dose Vials for Intravenous (IV)/ Intramuscular (IM) Administration | Amount of Diluent to be added (mL) | Approximate Available Volume (mL) | Approximate Cefepime Concentration (mg/mL) |
+| Single-Dose Vials for Intravenous (IV)/ Intramuscular (IM) Administration | Amount of Diluent to be added (mL) | Approximate Cefepime Concentration (mg/mL) | Amount of Reconstituted Volume to be Withdrawn (mL) |
 | --- | --- | --- | --- |
 | Cefepime vial content |  |  |  |
-| 500 mg (IV) | 5 | 5.6 | 100 |
-| 500 mg (IM) | 1.3 | 1.8 | 280 |
-| 1 g (IV) | 10 | 11.3 | 100 |
-| 1 g (IM) | 2.4 | 3.6 | 280 |
-| 2 g (IV) | 10 | 12.5 | 160 |
+| 1 g (IV) | 10 | 100 | 10.5 |
+| 1 g (IM) | 2.4 | 280 | 3.6 |
+| 2 g (IV) | 10 | 160 | 12.5 |
 
 ## 2.6 Compatibility and Stability
 

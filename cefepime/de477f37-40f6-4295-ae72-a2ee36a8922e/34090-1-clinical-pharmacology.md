@@ -17,11 +17,11 @@ Cefepime pharmacokinetics are linear over the range 250 mg to 2 g. There is no e
 
 Table 7: Mean Pharmacokinetic Parameters for Cefepime (±SD), Intravenous Administration
 
-| Cefepime for injection |  |  |  |
+| Cefepime for Injection |  |  |  |
 | --- | --- | --- | --- |
 | Parameter | 500 mg IV | 1 g IV | 2 g IV |
 | Cmax, mcg/mL | 39.1 (3.5) | 81.7 (5.1) | 163.9 (25.3) |
-| AUC, h•mcg/mL | 70.8 (6.7) | 148.5 (15.1) | 248.8 (30.6) |
+| AUC, h•mcg/mL | 70.8 (6.7) | 148.5 (15.1) | 284.8 (30.6) |
 | Number of subjects (male) | 9 | 9 | 9 |
 
 Pharmacokinetic parameters for cefepime following a single intramuscular injection are summarized in Table 8.
@@ -29,7 +29,7 @@ The pharmacokinetics of cefepime are linear over the range of 500 mg to 2 g intr
 
 Table 8: Mean Pharmacokinetic Parameters for Cefepime (±SD), Intramuscular Administration
 
-| Cefepime for injection |  |  |  |
+| Cefepime for Injection |  |  |  |
 | --- | --- | --- | --- |
 | Parameter | 500 mg IM | 1 g IM | 2 g IM |
 | Cmax, mcg/mL | 13.9 (3.4) | 29.6 (4.4) | 57.5 (9.5) |
@@ -146,7 +146,8 @@ The MIC should be interpreted according to criteria provided in Table 10.
 Diffusion techniques
 
 Quantitative methods that require measurement of zone diameters can also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
-The zone size should be determined using a standardized test method.2,3 This procedure uses paper discs impregnated with 30 mcg cefepime to test the susceptibility of microorganisms to cefepime.
+The zone size should be determined using a standardized test method2,3.
+This procedure uses paper discs impregnated with 30 mcg cefepime to test the susceptibility of microorganisms to cefepime.
 The disk diffusion interpretive criteria are provided in Table 10.
 
 Table 10: Susceptibility Test Interpretive Criteria for Cefepime¥
@@ -174,7 +175,8 @@ A report of Resistant (R) indicates that the antimicrobial drug is not likely to
 
 Quality Control
 
-Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individual performing the test.1,2,3 Standard cefepime powder should provide the following range of MIC values noted in Table 11.
+Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individual performing the test1,2,3.
+Standard cefepime powder should provide the following range of MIC values noted in Table 11.
 For the diffusion technique using the 30 mcg disc, the criteria in Table 11 should be achieved.
 
 Table 11: Acceptable Quality Control Ranges for Cefepime

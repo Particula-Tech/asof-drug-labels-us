@@ -1,8 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-The following adverse reactions are discussed in the Warnings and Precautions section and
-
-below:
+The following adverse reactions are discussed in the Warnings and Precautions section and below:
 
 - Hypersensitivity Reactions [see Warnings and Precautions (5.1)]
 - Neurotoxicity [see Warnings and Precautions (5.2)]
