@@ -34,4 +34,4 @@ Instruct patients not to remove ZOFRAN ODT tablets from the blister until just p
 
 Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
 
-T2017-90 August 2017
+T2017-104 October 2017
