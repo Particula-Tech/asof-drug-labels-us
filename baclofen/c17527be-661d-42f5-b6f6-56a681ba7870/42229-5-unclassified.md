@@ -1,5 +1,5 @@
 Rx only
 
-Manufactured for: QUALITEST PHARMACEUTICALS Huntsville, AL 35811
+Distributed by: Par Pharmaceutical Chestnut Ridge, NY 10977
 
-8181162 R10/12-R4
+8181162 Revised: 09/17 R5
