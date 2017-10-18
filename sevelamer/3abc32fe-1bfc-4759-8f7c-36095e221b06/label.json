@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA022127"
+  ],
+  "inn": "sevelamer",
+  "labeler": "Winthrop U.S.",
+  "package_ndcs": [
+    "0955-1050-27"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "sevelamer carbonate",
+      "name": "Sevelamer Carbonate"
+    }
+  ],
+  "setid": "3abc32fe-1bfc-4759-8f7c-36095e221b06",
+  "source": "dailymed"
+}
