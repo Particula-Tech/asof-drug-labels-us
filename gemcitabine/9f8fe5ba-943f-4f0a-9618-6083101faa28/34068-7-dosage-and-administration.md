@@ -10,14 +10,17 @@ Table 1: Dosage Reduction Guidelines for Gemcitabine for Injection, USP for Myel
 
 | Treatment Day | Absolute granulocyte count (x 106/L) |  | Platelet count (x 106/L) | % of full dose |
 | --- | --- | --- | --- | --- |
-| Day 1 | ≥1500 <1500 | and or | ≥100,000 <100,000 | 100% Delay Treatment Cycle |
-| Day 8 | ≥1500 1000 - 1499 <1000 | and or or | ≥100,000 75,000-99,999 <75,000 | 100% 50% Hold |
+| Day 1 | ≥1500 | and | ≥100,000 | 100% |
+|  | <1500 | or | <100,000 | Delay Treatment Cycle |
+| Day 8 | ≥1500 | and | ≥100,000 | 100% |
+|  | 1000 - 1499 | or | 75,000-99,999 | 50% |
+|  | <1000 | or | <75,000 | Hold |
 
 Table 2: Gemcitabine for Injection, USP Dose Modification for Myelosuppression in Previous Cycle In Ovarian Cancer
 
 | Occurrence | Myelosuppression During Treatment Cycle | Dose Modification |
 | --- | --- | --- |
-| Initial Occurrence | Absolute granulocyte count less than 500 x 106/L for more than 5 days Absolute granulocyte count less than 100 x 106/L for more than 3 days Febrile neutropenia Platelets less than 25,000x106/L Cycle delay of more than one week due to toxicity | Permanently reduce Gemcitabine for Injection, USP to 800 mg/m2 on Days 1 and 8 |
+| Initial Occurrence | Absolute granulocyte count less than 500 x 106/L for more than 5 days Absolute granulocyte count less than 100 x 106/L for more than 3 days Febrile neutropenia Platelets less than 25,000 x 106/L Cycle delay of more than one week due to toxicity | Permanently reduce Gemcitabine for Injection, USP to 800 mg/m2 on Days 1 and 8 |
 | Subsequent Occurrence | If any of the above toxicities occur after the initial dose reduction | Permanently reduce Gemcitabine for Injection, USP dose to 800 mg/m2 on Day 1 only |
 
 ## 2.2 Breast Cancer
@@ -70,7 +73,7 @@ Table 4: Recommended Dose Reductions for Gemcitabine for Injection, USP for Myel
 
 ## 2.5 Dose Modifications for Non-Hematologic Adverse Reactions
 
-Permanently discontinue Gemcitabine for Injection, USP for any of the following · Unexplained dyspnea or other evidence of severe pulmonary toxicity · Severe hepatic toxicity · Hemolytic-Uremic Syndrome · Capillary Leak Syndrome · Posterior reversible encephalopathy syndrome Withhold Gemcitabine for Injection, USP or reduce dose by 50% for other severe (Grade 3 or 4) non-hematological toxicity until resolved.
+Permanently discontinue Gemcitabine for Injection, USP for any of the following: •Unexplained dyspnea or other evidence of severe pulmonary toxicity •Severe hepatic toxicity •Hemolytic-uremic syndrome •Capillary leak syndrome •Posterior reversible encephalopathy syndrome Withhold Gemcitabine for Injection, USP or reduce dose by 50% for other severe (Grade 3 or 4) non-hematological toxicity until resolved.
 No dose modifications are recommended for alopecia, nausea, or vomiting.
 
 ## 2.6 Preparation and Administration Precautions
@@ -78,7 +81,7 @@ No dose modifications are recommended for alopecia, nausea, or vomiting.
 Exercise caution and wear gloves when preparing Gemcitabine for Injection, USP solutions.
 Immediately wash the skin thoroughly or rinse the mucosa with copious amounts of water if Gemcitabine for Injection, USP contacts the skin or mucus membranes.
 Death has occurred in animal studies due to dermal absorption.
-For further guidance on handling Gemcitabine for Injection, USP go to “OSHA Hazardous Drugs” (refer to antineoplastic weblinks including OSHA Technical Manual) at OSHA. http://www.osha.gov/SLTC/hazardousdrugs/index.html
+For further guidance on handling Gemcitabine for Injection, USP go to “OSHA Hazardous Drugs” (refer to antineoplastic weblinks including OSHA Technical Manual)at OSHA. http://www.osha.gov/SLTC/hazardousdrugs/index.html
 
 ## 2.7 Preparation for Intravenous Infusion Administration
 
