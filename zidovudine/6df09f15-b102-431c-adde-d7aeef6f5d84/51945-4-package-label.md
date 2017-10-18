@@ -85,7 +85,7 @@ PRINCIPAL DISPLAY PANEL
 
 NDC 49702-213-26
 
-RETROVIR®
+RETROVIR
 
 (zidovudine)
 
@@ -115,7 +115,11 @@ Hydrochloric acid and/or sodium hydroxide may have been added to adjust pH.
 
 Made in India
 
-©2016 the ViiV Healtchare group of companies
+©2017 the ViiV Healthcare group of companies or its licensor.
 
-1. 10000000144116 Rev.
-   10/16
+Trademark is owned by or licensed to the ViiV Healthcare group of companies.
+
+Do not accept if the vial plastic overseal is missing or not securely fitted.
+
+1. 10000000147416 Rev.
+   8/17
