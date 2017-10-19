@@ -1,14 +1,19 @@
 # ADVERSE REACTIONS
 
-At therapeutic doses, the following have been reported; they are listed in decreasing order of severity, but not of frequency:
+The following serious adverse reactions are described elsewhere in labeling:
 
-Nervous system: numbness of extremities, euphoria, depression, malaise/lethargy, confusion, sedation/drowsiness, dizziness, restlessness, headache.
+- Respiratory and/or CNS depression (see WARNINGS)
+- Anticholinergic and opioid-toxicities, including atroponism (see WARNINGS and PRECAUTIONS)
+- Dehydration and electrolyte imbalance (see WARNINGS)
+- GI Complications in patients with infectious diarrhea (see WARNINGS)
+- Toxic megacolon in patients with acute ulcerative colitis (see WARNINGS)
 
-Allergic: anaphylaxis, angioneurotic edema, urticaria, swelling of the gums, pruritus.
+At therapeutic doses of Lomotil, the following other adverse reactions have been reported; they are listed in decreasing order of severity, but not of frequency:
 
-Gastrointestinal system: toxic megacolon, paralytic ileus, pancreatitis, vomiting, nausea, anorexia, abdominal discomfort.
+Nervous system: numbness of extremities, euphoria, depression, malaise/lethargy, confusion, sedation/drowsiness, dizziness, restlessness, headache, hallucination
 
-The following atropine sulfate effects are listed in decreasing order of severity, but not of frequency: hyperthermia, tachycardia, urinary retention, flushing, dryness of the skin and mucous membranes.
-These effects may occur, especially in children.
+Allergic: anaphylaxis, angioneurotic edema, urticaria, swelling of the gums, pruritus
 
-THIS MEDICATION SHOULD BE KEPT IN A CHILD-RESISTANT CONTAINER AND OUT OF THE REACH OF CHILDREN SINCE AN OVERDOSAGE MAY RESULT IN SEVERE RESPIRATORY DEPRESSION AND COMA, POSSIBLY LEADING TO PERMANENT BRAIN DAMAGE OR DEATH.
+Gastrointestinal system: megacolon, paralytic ileus, pancreatitis, vomiting, nausea, anorexia, abdominal discomfort
+
+The following adverse reactions related to atropine sulfate are listed in decreasing order of severity, but not of frequency: hyperthermia, tachycardia, urinary retention, flushing, dryness of the skin and mucous membranes.

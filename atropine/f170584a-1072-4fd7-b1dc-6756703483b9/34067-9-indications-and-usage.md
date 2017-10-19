@@ -1,3 +1,3 @@
 # INDICATIONS AND USAGE
 
-Lomotil is effective as adjunctive therapy in the management of diarrhea.
+Lomotil is indicated as adjunctive therapy in the management of diarrhea in patients 13 years of age and older.

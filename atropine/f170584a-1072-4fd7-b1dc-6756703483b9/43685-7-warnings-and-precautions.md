@@ -1,54 +1,90 @@
 # WARNINGS
 
-LOMOTIL IS NOT AN INNOCUOUS DRUG AND DOSAGE RECOMMENDATIONS SHOULD BE STRICTLY ADHERED TO, ESPECIALLY IN CHILDREN.
-LOMOTIL IS NOT RECOMMENDED FOR CHILDREN UNDER 2 YEARS OF AGE.
-OVERDOSAGE MAY RESULT IN SEVERE RESPIRATORY DEPRESSION AND COMA, POSSIBLY LEADING TO PERMANENT BRAIN DAMAGE OR DEATH (SEE OVERDOSAGE).
-THEREFORE, KEEP THIS MEDICATION OUT OF THE REACH OF CHILDREN.
+## Respiratory and/or CNS Depression in Pediatric Patients Less Than 6 Years of Age
 
-THE USE OF LOMOTIL SHOULD BE ACCOMPANIED BY APPROPRIATE FLUID AND ELECTROLYTE THERAPY, WHEN INDICATED.
-IF SEVERE DEHYDRATION OR ELECTROLYTE IMBALANCE IS PRESENT, LOMOTIL SHOULD BE WITHHELD UNTIL APPROPRIATE CORRECTIVE THERAPY HAS BEEN INITIATED.
-DRUG-INDUCED INHIBITION OF PERISTALSIS MAY RESULT IN FLUID RETENTION IN THE INTESTINE, WHICH MAY FURTHER AGGRAVATE DEHYDRATION AND ELECTROLYTE IMBALANCE.
+Cases of severe respiratory depression and coma, leading to permanent brain damage or death have been reported in patients less than 6 years of age who received Lomotil.
+Lomotil is contraindicated in patients less than 6 years of age due to these risks (see CONTRAINDICATIONS).
 
-LOMOTIL SHOULD BE USED WITH SPECIAL CAUTION IN YOUNG CHILDREN BECAUSE THIS AGE GROUP MAY BE PREDISPOSED TO DELAYED DIPHENOXYLATE TOXICITY AND BECAUSE OF THE GREATER VARIABILITY OF RESPONSE IN THIS AGE GROUP.
+## Anticholinergic and Opioid-Toxicities
 
-Antiperistaltic agents may prolong and/or worsen diarrhea associated with organisms that penetrate the intestinal mucosa (toxigenic E. coli, Salmonella, Shigella), and pseudomembranous enterocolitis associated with broad-spectrum antibiotics.
-Antiperistaltic agents should not be used in these conditions.
+Toxicities associated with the atropine and diphenoxylate components of Lomotil have been reported.
+The initial presenting symptoms may be delayed by up to 30 hours due to prolonged gastric emptying time induced by diphenoxylate hydrochloride.
+Clinical presentations vary in terms of which toxicity (anticholinergic vs. opioid) will present first or predominate; non-specific findings have been reported and include symptoms such as drowsiness (see OVERDOSAGE).
+
+## Dehydration and Electrolyte Imbalance
+
+The use of Lomotil should be accompanied by appropriate fluid and electrolyte therapy, when indicated.
+If severe dehydration or electrolyte imbalance is present, Lomotil should be withheld until appropriate corrective therapy has been initiated.
+Drug-induced inhibition of peristalsis may result in fluid retention in the intestine, which may further aggravate dehydration and electrolyte imbalance.
+
+## Gastrointestinal Complications in Patients with Infectious Diarrhea
+
+Lomotil is contraindicated in patients with diarrhea associated with organisms that penetrate the GI mucosa (toxigenic E. coli, Salmonella, Shigella), and pseudomembranous enterocolitis (Clostridium difficile) associated with broad-spectrum antibiotics (see CONTRAINDICATIONS).
+Antiperistaltic agents, including Lomotil, slow gastrointestinal motility and may enhance bacterial overgrowth and the release of bacterial exotoxins.
+Lomotil has been reported to result in serious GI complications in patients with infectious diarrhea, including sepsis, prolonged and/or worsened diarrhea.
+Prolonged fever and the delay in the resolution of stool pathogens were reported in study of Shigellosis in adults who used Lomotil vs. placebo.
+
+## Toxic Megacolon in Patients with Acute Ulcerative Colitis
 
 In some patients with acute ulcerative colitis, agents that inhibit intestinal motility or prolong intestinal transit time have been reported to induce toxic megacolon.
 Consequently, patients with acute ulcerative colitis should be carefully observed and Lomotil therapy should be discontinued promptly if abdominal distention occurs or if other untoward symptoms develop.
 
+## Interaction with Meperidine Hydrocholoride
+
 Since the chemical structure of diphenoxylate hydrochloride is similar to that of meperidine hydrochloride, the concurrent use of Lomotil with monoamine oxidase (MAO) inhibitors may, in theory, precipitate hypertensive crisis.
+
+## Hepatorenal Disease
 
 Lomotil should be used with extreme caution in patients with advanced hepatorenal disease and in all patients with abnormal liver function since hepatic coma may be precipitated.
 
-Diphenoxylate hydrochloride may potentiate the action of barbiturates, tranquilizers, and alcohol.
+## Interaction with CNS Depressants
+
+Diphenoxylate hydrochloride may potentiate the action of other drugs that cause dizziness or drowsiness, including barbiturates, benzodiazepines and other sedatives/hypnotics, anxiolytics, and tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids, and alcohol.
 Therefore, the patient should be closely observed when any of these are used concomitantly.
 
 # PRECAUTIONS
 
-## General
+## Atropinism
 
-Since a subtherapeutic dose of atropine has been added to the diphenoxylate hydrochloride, consideration should be given to the precautions relating to the use of atropine.
-In children, Lomotil should be used with caution since signs of atropinism may occur even with recommended doses, particularly in patients with Down's syndrome.
+Since a subtherapeutic dose of atropine has been added to Lomotil, consideration should be given to the development of adverse reactions associated with of atropine (see WARNINGS).Lomotil has caused atropinism (hyperthermia, tachycardia, urinary retention, flushing, dryness of the skin and mucous membranes) particularly in pediatric patients with Down's syndrome.
+Lomotil is not indicated for use in pediatric patients (see CONTRAINDICATIONS and WARNINGS).
+Monitor patients for signs of atropinism.
 
-## Information For Patients
+## Information for patients
 
-INFORM THE PATIENT (PARENT OR GUARDIAN) NOT TO EXCEED THE RECOMMENDED DOSAGE AND TO KEEP LOMOTIL OUT OF THE REACH OF CHILDREN AND IN A CHILD-RESISTANT CONTAINER.
-INFORM THE PATIENT OF THE CONSEQUENCES OF OVERDOSAGE, INCLUDING SEVERE RESPIRATORY DEPRESSION AND COMA, POSSIBLY LEADING TO PERMANENT BRAIN DAMAGE OR DEATH.
-Lomotil may produce drowsiness or dizziness.
-The patient should be cautioned regarding activities requiring mental alertness, such as driving or operating dangerous machinery.
-Potentiation of the action of alcohol, barbiturates, and tranquilizers with concomitant use of Lomotil should be explained to the patient.
-The physician should also provide the patient with other information in this labeling, as appropriate.
+Advise patients:
 
-## Drug Interactions
+- Accidental ingestion of Lomotil in children, especially in those less than 6 years of age, may result in severe respiratory depression or coma.
+  Instruct patients to take steps to store Lomotil securely and out of reach of children, and to dispose of unused Lomotil (see WARNINGS).
+- To take Lomotil at the prescribed dosage.
+  Use of a higher than prescribed dosage may include opioid and/or anticholinergic effects (see OVERDOSAGE).
+  Report to a healthcare facility if they develop anticholinergic symptoms such as hyperthermia, flushing, tachycardia, tachypnea, hypotonia, lethargy, hallucinations, febrile convulsion, dry mouth, mydriasis or opioid symptoms such as progressive CNS and respiratory depression, miosis, seizures, or paralytic ileus.
+- Lomotil may produce drowsiness or dizziness.
+  Concomitant use of alcohol or other drugs that also cause CNS depression (e.g., barbiturates, benzodiazepines, opioids, buspirone, antihistamines, and muscle relaxants) may increase this effect.
+  Inform patients not to operate motor vehicles or other dangerous machinery until they are reasonably certain that Lomotil does not affect them adversely.
+- To use fluid and electrolyte therapy, if prescribed along with Lomotil, as instructed by their healthcare provider.
+- Clinical improvement of diarrhea is usually observed within 48 hours.
+  If clinical improvement is not seen within 10 days, discontinue Lomotil and contact their healthcare provider.
 
-Known drug interactions include barbiturates, tranquilizers, and alcohol.
-Lomotil may interact with MAO inhibitors (see Warnings).
+## Drug interactions
 
-In studies with male rats, diphenoxylate hydrochloride was found to inhibit the hepatic microsomal enzyme system at a dose of 2 mg/kg/day.
-Therefore, diphenoxylate has the potential to prolong the biological half-lives of drugs for which the rate of elimination is dependent on the microsomal drug metabolizing enzyme system.
+### Alcohol
 
-## Carcinogenesis, Mutagenesis, Impairment Of Fertility
+Alcohol may increase the CNS depressant effects of Lomotil and may cause drowsiness (see WARNINGS).
+Avoid concomitant use of Lomotil with alcohol.
+
+### Other Drugs that Cause CNS Depression
+
+The concurrent use of Lomotil with other drugs that cause CNS depression (e.g., barbiturates, benzodiazepines, opioids, buspirone, antihistamines, muscle relaxants), may potentiate the effects of Lomotil (see WARNINGS).
+Either Lomotil or the other interacting drug should be chosen, depending on the importance of the drug to the patient.
+If CNS-acting drugs cannot be avoided, monitor patients for CNS adverse reactions.
+
+### MAO Inhibitors
+
+Diphenoxylate may interact with monoamine oxidase inhibitors (MAOIs) and precipitate a hypertensive crisis.
+Avoid use of Lomotil in patients who take MAOIs and monitor for signs and symptoms of hypertensive crisis (headache, hyperthermia, hypertension).
+
+## Carcinogenesis, mutagenesis, impairment of fertility
 
 No long-term study in animals has been performed to evaluate carcinogenic potential.
 Diphenoxylate hydrochloride was administered to male and female rats in their diets to provide dose levels of 4 and 20 mg/kg/day throughout a three-litter reproduction study.
@@ -57,7 +93,7 @@ The relevance of this finding to usage of Lomotil in humans is unknown.
 
 ## Pregnancy
 
-Pregnancy Category C. Diphenoxylate hydrochloride has been shown to have an effect on fertility in rats when given in doses 50 times the human dose (see above discussion).
+Diphenoxylate hydrochloride has been shown to have an effect on fertility in rats when given in doses 50 times the human dose (see above discussion).
 Other findings in this study include a decrease in maternal weight gain of 30% at 20 mg/kg/day and of 10% at 4 mg/kg/day.
 At 10 times the human dose (4 mg/kg/day), average litter size was slightly reduced.
 
@@ -68,14 +104,17 @@ However, examination of the available fetuses did not reveal any indication of t
 There are no adequate and well-controlled studies in pregnant women.
 Lomotil should be used during pregnancy only if the anticipated benefit justifies the potential risk to the fetus.
 
-## Nursing Mothers
+## Nursing mothers
 
 Caution should be exercised when Lomotil is administered to a nursing woman, since the physicochemical characteristics of the major metabolite, diphenoxylic acid, are such that it may be excreted in breast milk and since it is known that atropine is excreted in breast milk.
 
-## Pediatric Use
+## Pediatric use
 
-Lomotil may be used as an adjunct to the treatment of diarrhea but should be accompanied by appropriate fluid and electrolyte therapy, if needed.
-LOMOTIL IS NOT RECOMMENDED FOR CHILDREN UNDER 2 YEARS OF AGE.
-Lomotil should be used with special caution in young children because of the greater variability of response in this age group.
-SeeWarnings and Dosage and Administration.
-In case of accidental ingestion by children, see Overdosage for recommended treatment.
+The safety and effectiveness of Lomotil have been established in pediatric patients 13 years of age and older as adjunctive therapy in the management of diarrhea.
+The safety and effectiveness of Lomotil have not been established in pediatric patients less than 13 years of age.
+
+Lomotil is contraindicated in pediatric patients less than 6 years of age due to the risks of severe respiratory depression and coma, possibly resulting in permanent brain damage or death (see CONTRAINDICATIONS).
+
+Lomotil has caused atropinism, particularly in pediatric patients with Down's syndrome (see PRECAUTIONS).
+
+In case of accidental ingestion of Lomotil by pediatric patients, see OVERDOSAGE for recommended treatment.

@@ -1,6 +1,6 @@
 # DRUG ABUSE AND DEPENDENCE
 
-## Controlled Substance
+## Controlled substance
 
 Lomotil is classified as a Schedule V controlled substance by federal regulation.
 Diphenoxylate hydrochloride is chemically related to the narcotic analgesic meperidine.

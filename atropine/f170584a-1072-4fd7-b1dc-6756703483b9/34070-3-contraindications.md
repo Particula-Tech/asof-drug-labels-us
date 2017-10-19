@@ -1,7 +1,8 @@
 # CONTRAINDICATIONS
 
-Lomotil is contraindicated in patients with
+Lomotil is contraindicated in:
 
-1. Known hypersensitivity to diphenoxylate or atropine.
-2. Obstructive jaundice.
-3. Diarrhea associated with pseudomembranous enterocolitis or enterotoxin-producing bacteria.
+- Pediatric patients less than 6 years of age due to the risks of respiratory and central nervous system (CNS) depression (see WARNINGS).
+- Patients with diarrhea associated with pseudomembranous enterocolitis (Clostridium difficile) or other enterotoxin-producing bacteria due to the risk of gastrointestinal (GI) complications, including sepsis (see WARNINGS).
+- Patients with known hypersensitivity to diphenoxylate or atropine.
+- Patients with obstructive jaundice.
