@@ -11,14 +11,14 @@ The risks and benefits of SPORANOX® use should be reassessed.
 ## Adverse Events Reported in Oropharyngeal or Esophageal Candidiasis Trials
 
 U.S. adverse experience data are derived from 350 immunocompromised patients (332 HIV seropositive/AIDS) treated for oropharyngeal or esophageal candidiasis.
-Table 2 below lists adverse events reported by at least 2% of patients treated with SPORANOX® Oral Solution in U.S. clinical trials.
+Table 5 below lists adverse events reported by at least 2% of patients treated with SPORANOX® Oral Solution in U.S. clinical trials.
 Data on patients receiving comparator agents in these trials are included for comparison.
 
-Table 2: Summary of Adverse Events Reported by ≥2% of SPORANOX® Treated Patients in U.S. Clinical Trials (Total)
+Table 5: Summary of Adverse Events Reported by ≥2% of SPORANOX® Treated Patients in U.S. Clinical Trials (Total)
 
-| Total (n = 350Of the 350 patients, 209 were treated for oropharyngeal candidiasis in controlled studies, 63 were treated for esophageal candidiasis in controlled studies and 78 were treated for oropharyngeal candidiasis in an open study.) % | All controlled studies (n = 272) % | Fluconazole (n = 125Of the 125 patients, 62 were treated for oropharyngeal candidiasis and 63 were treated for esophageal candidiasis.) % | Clotrimazole (n = 81All 81 patients were treated for oropharyngeal candidiasis.) % |  |
+| Body System/ Adverse Event | Total (n = 350Of the 350 patients, 209 were treated for oropharyngeal candidiasis in controlled studies, 63 were treated for esophageal candidiasis in controlled studies and 78 were treated for oropharyngeal candidiasis in an open study.) % | All controlled studies (n = 272) % | Fluconazole (n = 125Of the 125 patients, 62 were treated for oropharyngeal candidiasis and 63 were treated for esophageal candidiasis.) % | Clotrimazole (n = 81All 81 patients were treated for oropharyngeal candidiasis.) % |
 | --- | --- | --- | --- | --- |
-| Body System/ Adverse Event | Itraconazole |  |  |  |
+|  | Itraconazole |  |  |  |
 | Gastrointestinal disorders |  |  |  |  |
 | Nausea | 11 | 10 | 11 | 5 |
 | Diarrhea | 11 | 10 | 10 | 4 |
@@ -97,10 +97,10 @@ In addition, the following adverse drug reaction was reported in children only w
 
 ## Post-marketing Experience
 
-Adverse drug reactions that have been first identified during post-marketing experience with SPORANOX® (all formulations) are listed in the table below.
+Adverse drug reactions that have been first identified during post-marketing experience with SPORANOX® (all formulations) are listed in Table 6 below.
 Because these reactions are reported voluntarily from a population of uncertain size, reliably estimating their frequency or establishing a causal relationship to drug exposure is not always possible.
 
-Table 3: Postmarketing Reports of Adverse Drug Reactions
+Table 6: Postmarketing Reports of Adverse Drug Reactions
 
 | Blood and Lymphatic System Disorders: | Leukopenia, neutropenia, thrombocytopenia |
 | --- | --- |
