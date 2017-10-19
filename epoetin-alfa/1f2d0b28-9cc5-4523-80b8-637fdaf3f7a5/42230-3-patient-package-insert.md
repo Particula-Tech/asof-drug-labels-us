@@ -1,4 +1,4 @@
-# INSTRUCTIONS FOR USE
+Instructions for Use
 
 Epogen® (Ee-po-jen)
 
@@ -80,16 +80,12 @@ Do not shake Epogen.
 Gather the other supplies you will need for your injection (vial, syringe, alcohol wipes, cotton ball, and a puncture-proof container for throwing away the syringe and needle).
 See Figure 1.
 
-Figure 1
-
 5.
 Check the date on the Epogen vial to be sure that the drug has not expired.
 
 6.
 Wash your hands well with soap and water before preparing the medicine.
 See Figure 2.
-
-Figure 2
 
 7.
 Flip off the protective color cap on the top of the vial.
@@ -100,7 +96,7 @@ See Figures 3 and 4.
 8.
 Check the package containing the syringe.
 If the package has been opened or damaged, do not use that syringe.
-Throw away the syringe in the puncture-proof disposable container.
+Throw away the syringe in the puncture proof disposable container.
 If the syringe package is undamaged, open the package and remove the syringe.
 
 9.
@@ -180,6 +176,7 @@ Subcutaneous Route:
 - Dispose of the used syringe and needle as described below.
   Do not reuse syringes and needles.
 
+2.
 Intravenous Route:
 
 - Epogen can be injected in your vein through a special access port placed by your healthcare provider.

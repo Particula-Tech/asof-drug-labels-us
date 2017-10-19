@@ -1,5 +1,7 @@
 # 3DOSAGE FORMS AND STRENGTHS
 
-Single-dose vials: 2000, 3000, 4000, and 10,000 Units Epogen /1 mL
+Injection:
 
-Multiple-dose vials (contains benzyl alcohol): 20,000 Units Epogen /2 mL and 20,000 Units Epogen /1 mL
+○ 2,000 Units/mL, 3,000 Units/mL, 4,000 Units/mL, and 10,000 Units/mL of Epogen as a clear and colorless liquid in single-dose vials
+
+○ 20,000 Units/2 mL (10,000 Units/mL) and 20,000 Units /mL of Epogen as a clear and colorless liquid in multiple-dose vials (contains benzyl alcohol).

@@ -8,6 +8,4 @@ Epogen is contraindicated in patients with:
 
 Epogen from multiple-dose vials contains benzyl alcohol and is contraindicated in:
 
-- Neonates, infants, pregnant women, and nursing mothers.
-  Benzyl alcohol has been associated with serious adverse events and death, particularly in pediatric patients.
-  When therapy with Epogen is needed in neonates and infants, use single-dose vials; do not admix with bacteriostatic saline containing benzyl alcohol [see Use in Specific Populations (8.1, 8.3, 8.4)].
+- Neonates, infants, pregnant women, and lactating women [see Warnings and Precautions (5.9), Use in Specific Populations (8.1, 8.2, 8.4)].

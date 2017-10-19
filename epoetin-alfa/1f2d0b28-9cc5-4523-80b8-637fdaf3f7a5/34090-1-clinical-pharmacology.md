@@ -1,4 +1,4 @@
-# 12CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
 ## 12.1 Mechanism of Action
 
@@ -24,6 +24,6 @@ In anemic cancer patients, the average t1/2 was similar (40 hours with range of 
 After the 150 Units/kg 3 times weekly dosing, the values of Tmax and CL were similar (13.3 ± 12.4 vs. 14.2 ± 6.7 hours, and 20.2 ± 15.9 vs. 23.6 ± 9.5 mL/hr/kg) between week 1 when patients were receiving chemotherapy (n = 14) and week 3 when patients were not receiving chemotherapy (n = 4).
 Differences were observed after the 40,000 Units weekly dosing with longer Tmax (38 ± 18 hours) and lower CL (9.2 ± 4.7 mL/hr/kg) during week 1 when patients were receiving chemotherapy (n = 18) compared with those (22 ± 4.5 hours, 13.9 ± 7.6 mL/hr/kg, respectively) during week 3 when patients were not receiving chemotherapy (n = 7).
 
-The pharmacokinetic profile of Epogen in children and adolescents appeared similar to that of adults.
+The pharmacokinetic profile of Epogen in pediatric patients appeared similar to that of adults.
 
-The pharmacokinetics of Epogen has not been studied in patients with HIV infection.
+The pharmacokinetics of Epogen has not been studied in patients with HIV-infection.

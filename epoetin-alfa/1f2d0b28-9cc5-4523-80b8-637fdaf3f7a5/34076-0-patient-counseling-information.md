@@ -1,17 +1,14 @@
 # 17PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Medication Guide).
-
-Prior to treatment, inform patients of the risks and benefits of Epogen.
+Advise the patient to read the FDA-approved patient labeling (Medication Guide and Instructions for Use).
 
 Inform patients:
 
-- To read the Medication Guide.
 - Of the increased risks of mortality, serious cardiovascular reactions, thromboembolic reactions, stroke, and tumor progression [see Warnings and Precautions (5.1, 5.2)].
 - To undergo regular blood pressure monitoring, adhere to prescribed anti-hypertensive regimen and follow recommended dietary restrictions.
 - To contact their healthcare provider for new-onset neurologic symptoms or change in seizure frequency.
 - Of the need to have regular laboratory tests for hemoglobin.
-- Risks are associated with benzyl alcohol in neonates, infants, pregnant women, and nursing mothers [see Use in Specific Populations (8.1, 8.3, 8.4)].
+- Risks are associated with benzyl alcohol in neonates, infants, pregnant women, and lactating women [see Use in Specific Populations (8.1, 8.2, 8.4)].
 
 Instruct patients who self-administer Epogen of the:
 
@@ -21,8 +18,14 @@ Instruct patients who self-administer Epogen of the:
 
 Epogen® (epoetin alfa)
 
-Manufactured by: Amgen Inc. One Amgen Center Drive Thousand Oaks, CA 91320-1799 U.S.A. U.S. License Number 1080 Patent: http://pat.amgen.com/epogen/
+Manufactured by:
+
+Amgen Inc.
+
+Thousand Oaks, CA 91320-1799 U.S.A.
+
+U.S. License Number 1080
 
 ©1989-2017 Amgen Inc. All rights reserved.
 
-1xxxxxx- v31
+1xxxxxx- v32
