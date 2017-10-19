@@ -2,8 +2,6 @@
 
 Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
-## 17.1 Information for the Patient
-
 Physicians should discuss the following with their patients:
 
 - Nausea and vomiting are the most frequently occurring adverse reactions.
