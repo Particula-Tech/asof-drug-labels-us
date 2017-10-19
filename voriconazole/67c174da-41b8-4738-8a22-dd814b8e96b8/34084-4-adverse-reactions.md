@@ -4,16 +4,16 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 ## 6.1 Overview
 
-The most frequently reported adverse events (all causalities) in the therapeutic trials were visual disturbances (18.7%), fever (5.7%), nausea (5.4%), rash (5.3%), vomiting (4.4%), chills (3.7%), headache (3%), liver function test increased (2.7%), tachycardia (2.4%), hallucinations (2.4%).
+The most frequently reported adverse events (all causalities) in the therapeutic trials were visual disturbances (18.7%), fever (5.7%), nausea (5.4%), rash (5.3%), vomiting (4.4%), chills (3.7%), headache (3.0%), liver function test increased (2.7%), tachycardia (2.4%), hallucinations (2.4%).
 The treatment-related adverse events which most often led to discontinuation of voriconazole therapy were elevated liver function tests, rash, and visual disturbances [see Warnings and Precautions (5.2, 5.3) and Adverse Reactions (6.2, 6.3)].
 
 ## 6.2 Clinical Trial Experience in Adults
 
-The data described in Table 3 reflect exposure to voriconazole in 1,655 patients in the therapeutic studies.
+The data described in Table 3 reflect exposure to voriconazole in 1655 patients in the therapeutic studies.
 This represents a heterogeneous population, including immunocompromised patients, e.g., patients with hematological malignancy or HIV and non-neutropenic patients.
 This subgroup does not include healthy subjects and patients treated in the compassionate use and non-therapeutic studies.
-This patient population was 62% male, had a mean age of 46 years (range 11 to 90, including 51 patients aged 12 to 18 years) and was 78% White and 10% Black.
-Five hundred sixty one patients had a duration of voriconazole therapy of greater than 12 weeks, with 136 patients receiving voriconazole for over 6 months.
+This patient population was 62% male, had a mean age of 46 years (range 11-90, including 51 patients aged 12-18 years), and was 78% White and 10% Black.
+Five hundred sixty one patients had a duration of voriconazole therapy of greater than 12 weeks, with 136 patients receiving voriconazole for over six months.
 Table 3 includes all adverse events which were reported at an incidence of ≥ 2% during voriconazole therapy in the all therapeutic studies population, studies 307/602 and 608 combined, or study 305, as well as events of concern which occurred at an incidence of < 2%.
 
 In study 307/602, 381 patients (196 on voriconazole, 185 on amphotericin B) were treated to compare voriconazole to amphotericin B followed by other licensed antifungal therapy in the primary treatment of patients with acute invasive aspergillosis.
@@ -24,34 +24,33 @@ Study 305 evaluated the effects of oral voriconazole (200 patients) and oral flu
 The rate of discontinuation from voriconazole study medication in Study 305 due to adverse events was 7% (14/200 patients).
 Laboratory test abnormalities for these studies are discussed under Clinical Laboratory Values below.
 
-Table 3.
-Treatment Emergent Adverse Events: Rate ≥ 2% on Voriconazole or Adverse Events of Concern in All Therapeutic Studies Population, Studies 307/602-608 Combined, or Study 305.
+Table 3: Treatment Emergent Adverse Events Rate ≥ 2% on Voriconazole or Adverse Events of Concern in All Therapeutic Studies Population, Studies 307/602-608 Combined, or Study 305.
 Possibly Related to Therapy or Causality UnknownStudy 307/602: invasive aspergillosis; Study 608: candidemia; Study 305: esophageal candidiasis
 
 |  | All Therapeutic Studies | Studies 307/602 and 608 (IV/oral therapy) |  |  | Study 305 (oral therapy) |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| VoriconazoleN = 1,655 | VoriconazoleN = 468 | Ampho BAmphotericin B followed by other licensed antifungal therapyN = 185 | Ampho B→FluconazoleN = 131 | VoriconazoleN = 200 | FluconazoleN = 191 |  |
+| VoriconazoleN = 1655 | VoriconazoleN = 468 | Ampho BAmphotericin B followed by other licensed antifungal therapyN = 185 | Ampho B→FluconazoleN = 131 | VoriconazoleN = 200 | FluconazoleN = 191 |  |
 |  | N (%) | N (%) | N (%) | N (%) | N (%) | N (%) |
 | Special SensesSee Warnings and Precautions (5.3) |  |  |  |  |  |  |
 | Abnormal vision | 310 (18.7) | 63 (13.5) | 1 (0.5) | 0 | 31 (15.5) | 8 (4.2) |
-| Photophobia | 37 (2.2) | 8 (1.7) | 0 | 0 | 5 (2.5) | 2 (1) |
-| Chromatopsia | 20 (1.2) | 2 (0.4) | 0 | 0 | 2 (1) | 0 |
+| Photophobia | 37 (2.2) | 8 (1.7) | 0 | 0 | 5 (2.5) | 2 (1.0) |
+| Chromatopsia | 20 (1.2) | 2 (0.4) | 0 | 0 | 2 (1.0) | 0 |
 | Body as a Whole |  |  |  |  |  |  |
 | Fever | 94 (5.7) | 8 (1.7) | 25 (13.5) | 5 (3.8) | 0 | 0 |
 | Chills | 61 (3.7) | 1 (0.2) | 36 (19.5) | 8 (6.1) | 1 (0.5) | 0 |
-| Headache | 49 (3) | 9 (1.9) | 8 (4.3) | 1 (0.8) | 0 | 1 (0.5) |
+| Headache | 49 (3.0) | 9 (1.9) | 8 (4.3) | 1 (0.8) | 0 | 1 (0.5) |
 | Cardiovascular System |  |  |  |  |  |  |
 | Tachycardia | 39 (2.4) | 6 (1.3) | 5 (2.7) | 0 | 0 | 0 |
 | Digestive System |  |  |  |  |  |  |
-| Nausea | 89 (5.4) | 18 (3.8) | 29 (15.7) | 2 (1.5) | 2 (1) | 3 (1.6) |
-| Vomiting | 72 (4.4) | 15 (3.2) | 18 (9.7) | 1 (0.8) | 2 (1) | 1 (0.5) |
-| Liver function tests abnormal | 45 (2.7) | 15 (3.2) | 4 (2.2) | 1 (0.8) | 6 (3) | 2 (1) |
-| Cholestatic jaundice | 17 (1) | 8 (1.7) | 0 | 1 (0.8) | 3 (1.5) | 0 |
+| Nausea | 89 (5.4) | 18 (3.8) | 29 (15.7) | 2 (1.5) | 2 (1.0) | 3 (1.6) |
+| Vomiting | 72 (4.4) | 15 (3.2) | 18 (9.7) | 1 (0.8) | 2 (1.0) | 1 (0.5) |
+| Liver function tests abnormal | 45 (2.7) | 15 (3.2) | 4 (2.2) | 1 (0.8) | 6 (3.0) | 2 (1.0) |
+| Cholestatic jaundice | 17 (1.0) | 8 (1.7) | 0 | 1 (0.8) | 3 (1.5) | 0 |
 | Metabolic and Nutritional Systems |  |  |  |  |  |  |
-| Alkaline phosphatase increased | 59 (3.6) | 19 (4.1) | 4 (2.2) | 3 (2.3) | 10 (5) | 3 (1.6) |
+| Alkaline phosphatase increased | 59 (3.6) | 19 (4.1) | 4 (2.2) | 3 (2.3) | 10 (5.0) | 3 (1.6) |
 | Hepatic enzymes increased | 30 (1.8) | 11 (2.4) | 5 (2.7) | 1 (0.8) | 3 (1.5) | 0 |
-| SGOT increased | 31 (1.9) | 9 (1.9) | 0 | 1 (0.8) | 8 (4) | 2 (1) |
-| SGPT increased | 29 (1.8) | 9 (1.9) | 1 (0.5) | 2 (1.5) | 6 (3) | 2 (1) |
+| SGOT increased | 31 (1.9) | 9 (1.9) | 0 | 1 (0.8) | 8 (4.0) | 2 (1.0) |
+| SGPT increased | 29 (1.8) | 9 (1.9) | 1 (0.5) | 2 (1.5) | 6 (3.0) | 2 (1.0) |
 | Hypokalemia | 26 (1.6) | 3 (0.6) | 36 (19.5) | 16 (12.2) | 0 | 0 |
 | Bilirubinemia | 15 (0.9) | 5 (1.1) | 3 (1.6) | 2 (1.5) | 1 (0.5) | 0 |
 | Creatinine increased | 4 (0.2) | 0 | 59 (31.9) | 10 (7.6) | 1 (0.5) | 0 |
@@ -69,7 +68,7 @@ Voriconazole treatment-related visual disturbances are common.
 In therapeutic trials, approximately 21% of patients experienced abnormal vision, color vision change and/or photophobia.
 Visual disturbances may be associated with higher plasma concentrations and/or doses.
 
-There have been postmarketing reports of prolonged visual adverse events, including optic neuritis and papilledema [see Warnings and Precautions (5.3)].
+There have been post-marketing reports of prolonged visual adverse events, including optic neuritis and papilledema [see Warnings and Precautions (5.3)].
 
 The mechanism of action of the visual disturbance is unknown, although the site of action is most likely to be within the retina.
 In a study in healthy subjects investigating the effect of 28-day treatment with voriconazole on retinal function, voriconazole caused a decrease in the electroretinogram (ERG) waveform amplitude, a decrease in the visual field, and an alteration in color perception.
@@ -82,17 +81,17 @@ Fourteen days after end of dosing, ERG, visual fields and color perception retur
 Dermatological reactions were common in the patients treated with voriconazole.
 The mechanism underlying these dermatologic adverse events remains unknown.
 
-Serious cutaneous reactions, including Stevens-Johnson syndrome, toxic epidermal necrolysis and erythema multiforme have been reported during treatment with voriconazole.
-If a patient develops an exfoliative cutaneous reaction, voriconazole should be discontinued.
+Serious cutaneous reactions, including Stevens-Johnson syndrome, toxic epidermal necrolysis and erythema multiforme have been reported during treatment with voriconazole tablets.
+If a patient develops an exfoliative cutaneous reaction, voriconazole tablets should be discontinued.
 
-In addition, voriconazole has been associated with photosensitivity skin reactions.
-Patients should avoid strong, direct sunlight during voriconazole therapy.
+In addition, voriconazole tablets have been associated with photosensitivity skin reactions.
+Patients should avoid strong, direct sunlight during voriconazole tablets therapy.
 In patients with photosensitivity skin reactions, squamous cell carcinoma of the skin and melanoma have been reported during long-term therapy.
-If a patient develops a skin lesion consistent with squamous cell carcinoma or melanoma, voriconazole should be discontinued [see Warnings and Precautions (5.13)].
+If a patient develops a skin lesion consistent with squamous cell carcinoma or melanoma, voriconazole tablets should be discontinued [see Warnings and Precautions (5.13)].
 
 ### Less Common Adverse Events
 
-The following adverse events occurred in < 2% of all voriconazole-treated patients in all therapeutic studies (N = 1,655).
+The following adverse events occurred in < 2% of all voriconazole-treated patients in all therapeutic studies (N = 1655).
 This listing includes events where a causal relationship to voriconazole cannot be ruled out or those which may help the physician in managing the risks to the patients.
 The list does not include events included in Table 3 above and does not include every event reported in the voriconazole clinical program.
 
@@ -122,19 +121,19 @@ Urogenital: anuria, blighted ovum, creatinine clearance decreased, dysmenorrhea,
 
 ## 6.3 Clinical Laboratory Values
 
-The overall incidence of clinically significant transaminase abnormalities in all therapeutic studies was 12.4% (206/1,655) of patients treated with voriconazole.
+The overall incidence of clinically significant transaminase abnormalities in all therapeutic studies was 12.4% (206/1655) of patients treated with voriconazole.
 Increased incidence of liver function test abnormalities may be associated with higher plasma concentrations and/or doses.
 The majority of abnormal liver function tests either resolved during treatment without dose adjustment or following dose adjustment, including discontinuation of therapy.
 
 Voriconazole has been infrequently associated with cases of serious hepatic toxicity including cases of jaundice and rare cases of hepatitis and hepatic failure leading to death.
 Most of these patients had other serious underlying conditions.
 
-Liver function tests should be evaluated at the start of and during the course of voriconazole therapy.
-Patients who develop abnormal liver function tests during voriconazole therapy should be monitored for the development of more severe hepatic injury.
+Liver function tests should be evaluated at the start of and during the course of voriconazole tablets therapy.
+Patients who develop abnormal liver function tests during voriconazole tablets therapy should be monitored for the development of more severe hepatic injury.
 Patient management should include laboratory evaluation of hepatic function (particularly liver function tests and bilirubin).
-Discontinuation of voriconazole must be considered if clinical signs and symptoms consistent with liver disease develop that may be attributable to voriconazole [see Warnings and Precautions (5.2)].
+Discontinuation of voriconazole tablets must be considered if clinical signs and symptoms consistent with liver disease develop that may be attributable to voriconazole tablets [see Warnings and Precautions (5.2)].
 
-Acute renal failure has been observed in severely ill patients undergoing treatment with voriconazole.
+Acute renal failure has been observed in severely ill patients undergoing treatment with voriconazole tablets.
 Patients being treated with voriconazole are likely to be treated concomitantly with nephrotoxic medications and have concurrent conditions that may result in decreased renal function.
 It is recommended that patients are monitored for the development of abnormal renal function.
 This should include laboratory evaluation, particularly serum creatinine.
@@ -144,43 +143,40 @@ In study 305, patients with esophageal candidiasis were randomized to either ora
 In study 307/602, patients with definite or probable invasive aspergillosis were randomized to either voriconazole or amphotericin B therapy.
 In study 608, patients with candidemia were randomized to either voriconazole or the regimen of amphotericin B followed by fluconazole.
 
-Table 4.
-Protocol 305 - Patients with Esophageal Candidiasis Clinically Significant Laboratory Test Abnormalities
+Table 4: Protocol 305 - Patients with Esophageal Candidiasis Clinically Significant Laboratory Test Abnormalities
 
 |  | CriteriaWithout regard to baseline value | Voriconazole | Fluconazole |
 | --- | --- | --- | --- |
 |  |  | n/N (%) | n /N (%) |
 | T. Bilirubin | > 1.5 x ULN | 8/185 (4.3) | 7/186 (3.8) |
-| AST | > 3 x ULN | 38/187 (20.3) | 15/186 (8.1) |
-| ALT | > 3 x ULN | 20/187 (10.7) | 12/186 (6.5) |
-| Alk phos | > 3 x ULN | 19/187 (10.2) | 14/186 (7.5) |
+| AST | > 3.0 x ULN | 38/187 (20.3) | 15/186 (8.1) |
+| ALT | > 3.0 x ULN | 20/187 (10.7) | 12/186 (6.5) |
+| Alk phos | > 3.0 x ULN | 19/187 (10.2) | 14/186 (7.5) |
 | n = number of patients with a clinically significant abnormality while on study therapy N = total number of patients with at least one observation of the given lab test while on study therapy ULN = upper limit of normal |  |  |  |
 
-Table 5.
-Protocol 307/602 - Primary Treatment of Invasive Aspergillosis Clinically Significant Laboratory Test Abnormalities
+Table 5: Protocol 307/602 - Primary Treatment of Invasive Aspergillosis Clinically Significant Laboratory Test Abnormalities
 
 |  | CriteriaWithout regard to baseline value | Voriconazole | Amphotericin BAmphotericin B followed by other licensed antifungal therapy |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  | n/N (%) | n/N (%) |  |  |  |  |
 | T. Bilirubin | > 1.5 x ULN | 35/180 (19.4) | 46/173 (26.6) |  |  |  |  |
-| AST | > 3 x ULN | 21/180 (11.7) | 18/174 (10.3) |  |  |  |  |
-| ALT | > 3 x ULN | 34/180 (18.9) | 40/173 (23.1) |  |  |  |  |
-| Alk phos | > 3 x ULN | 29/181 (16) | 38/173 (22) |  |  |  |  |
+| AST | > 3.0 x ULN | 21/180 (11.7) | 18/174 (10.3) |  |  |  |  |
+| ALT | > 3.0 x ULN | 34/180 (18.9) | 40/173 (23.1) |  |  |  |  |
+| Alk phos | > 3.0 x ULN | 29/181 (16.0) | 38/173 (22.0) |  |  |  |  |
 | Creatinine | > 1.3 x ULN | 39/182 (21.4) | 102/177 (57.6) |  |  |  |  |
 | Potassium | < 0.9 x LLN | 30/181 (16.6) | 70/178 (39.3) |  |  |  |  |
 | N = number of patients with a clinically significant abnormality while on study therapy N = total number of patients with at least one observation of the given lab test while on study therapy ULN = upper limit of normal LLN = lower limit of normal |  |  |  |  |  |  |  |
 
-Table 6.
-Protocol 608 - Treatment of Candidemia Clinically Significant Laboratory Test Abnormalities
+Table 6: Protocol 608 - Treatment of Candidemia Clinically Significant Laboratory Test Abnormalities
 
 |  | CriteriaWithout regard to baseline value | Voriconazole | Amphotericin B followed by Fluconazole |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  | n/N (%) | n/N (%) |  |  |  |  |  |  |  |  |
-| T. Bilirubin | > 1.5 x ULN | 50/261 (19.2) | 31/115 (27) |  |  |  |  |  |  |  |  |
-| AST | > 3 x ULN | 40/261 (15.3) | 16/116 (13.8) |  |  |  |  |  |  |  |  |
-| ALT | > 3 x ULN | 22/261 (8.4) | 15/116 (12.9) |  |  |  |  |  |  |  |  |
-| Alk phos | > 3 x ULN | 59/261 (22.6) | 26/115 (22.6) |  |  |  |  |  |  |  |  |
-| Creatinine | > 1.3 x ULN | 39/260 (15) | 32/118 (27.1) |  |  |  |  |  |  |  |  |
+| T. Bilirubin | > 1.5 x ULN | 50/261 (19.2) | 31/115 (27.0) |  |  |  |  |  |  |  |  |
+| AST | > 3.0 x ULN | 40/261 (15.3) | 16/116 (13.8) |  |  |  |  |  |  |  |  |
+| ALT | > 3.0 x ULN | 22/261 (8.4) | 15/116 (12.9) |  |  |  |  |  |  |  |  |
+| Alk phos | > 3.0 x ULN | 59/261 (22.6) | 26/115 (22.6) |  |  |  |  |  |  |  |  |
+| Creatinine | > 1.3 x ULN | 39/260 (15.0) | 32/118 (27.1) |  |  |  |  |  |  |  |  |
 | Potassium | < 0.9 x LLN | 43/258 (16.7) | 35/118 (29.7) |  |  |  |  |  |  |  |  |
 | n = number of patients with a clinically significant abnormality while on study therapy N = total number of patients with at least one observation of the given lab test while on study therapy ULN = upper limit of normal LLN = lower limit of normal |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -191,4 +187,4 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 ### Skeletal
 
-Fluorosis and periostitis have been reported during long-term voriconazole therapy [see Warnings and Precautions (5.14)].
+fluorosis and periostitis have been reported during long-term voriconazole therapy [see Warnings and Precautions (5.14)].

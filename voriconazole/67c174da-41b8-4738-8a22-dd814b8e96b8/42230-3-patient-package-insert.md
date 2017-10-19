@@ -1,10 +1,8 @@
-# PATIENT INFORMATION
+# Patient Information
 
-VORICONAZOLE TABLETS (vor" i kon' a zole)
+Voriconazole Tablets (vor" i kon' a zole)
 
-50 mg and 200 mg
-
-Read the Patient Information that comes with voriconazole before you start taking it and each time you get a refill.
+Read the Patient Information that comes with voriconazole tablets before you start taking them and each time you get a refill.
 There may be new information.
 This information does not take the place of talking with your healthcare provider about your condition or treatment.
 
@@ -51,7 +49,7 @@ Before you take voriconazole tablets, tell your healthcare provider if you:
 - •have trouble digesting dairy products, lactose (milk sugar), or regular table sugar.
   Voriconazole tablets contain lactose.
 - •are pregnant or plan to become pregnant.
-  Voriconazole tablets can harm your unborn baby.
+  Voriconazole can harm your unborn baby.
   Talk to your healthcare provider if you are pregnant or plan to become pregnant.
   Women who can become pregnant should use effective birth control while taking voriconazole tablets.
 - •are breast-feeding or plan to breast-feed.
@@ -60,7 +58,7 @@ Before you take voriconazole tablets, tell your healthcare provider if you:
 
 Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins and herbal supplements.
 
-Voriconazole tablets may affect the way other medicines work, and other medicines may affect how voriconazole works.
+Voriconazole tablets may affect the way other medicines work, and other medicines may affect how voriconazole tablets work.
 
 Know what medicines you take.
 Keep a list of them to show your healthcare provider or pharmacist when you get a new medicine.
@@ -70,8 +68,8 @@ How should I take voriconazole tablets?
 - •Voriconazole may be prescribed to you as:
   - •Voriconazole tablets
 - •Take voriconazole tablets exactly as your healthcare provider tells you to.
-- •Take voriconazole tablets at least one hour before or at least one hour after meals.
-- •If you take too much voriconazole, call your healthcare provider or go to the nearest hospital emergency room.
+- •Take voriconazole tablets at least 1 hour before or at least 1 hour after meals.
+- •If you take too many voriconazole tablets, call your healthcare provider or go to the nearest hospital emergency room.
 
 What should I avoid while taking voriconazole tablets?
 
@@ -148,7 +146,6 @@ You may report side effects to FDA at 1-800-FDA-1088.
 How should I store voriconazole tablets?
 
 - •Store voriconazole tablets at room temperature, 20° to 25°C (68° to 77°F).
-  Do not refrigerate or freeze.
 - •Keep voriconazole tablets in a tightly closed container.
 - •Safely throw away medicine that is out of date or no longer needed.
 - •Keep voriconazole tablets, as well as all other medicines, out of the reach of children.
@@ -156,11 +153,11 @@ How should I store voriconazole tablets?
 General information about the safe and effective use of voriconazole tablets
 
 Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
-Do not use voriconazole for a condition for which it was not prescribed.
-Do not give voriconazole to other people, even if they have the same symptoms that you have.
-It may harm them.
+Do not use voriconazole tablets for a condition for which they were not prescribed.
+Do not give voriconazole tablets to other people, even if they have the same symptoms that you have.
+They may harm them.
 
-This Patient Information Leaflet summarizes the most important information about voriconazole tablets.
+This Patient Information leaflet summarizes the most important information about voriconazole tablets.
 If you would like more information, talk to your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about voriconazole tablets that is written for health professionals.
 
@@ -168,7 +165,7 @@ For more information, call Mylan Pharmaceuticals Inc. at 1-877-446-3679 (1-877-4
 
 What are the ingredients of voriconazole tablets?
 
-Active ingredient: voriconazole, USP
+Active ingredient: voriconazole
 
 Inactive ingredients: croscarmellose sodium, hypromellose, lactose monohydrate, magnesium stearate, povidone, pregelatinized starch (corn), titanium dioxide and triacetin.
 
@@ -178,8 +175,8 @@ The brands listed are trademarks of their respective owners.
 
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Manufactured by: Mylan Laboratories Limited Hyderabad — 500 034, India Code No.: MH/DRUGS/25/NKD/89
+Manufactured by: Mylan Laboratories Limited Hyderabad — 500 096, India
 
-75058692
+75063184
 
-REVISED MARCH 2016 MX:VORIC:R6
+Revised: 8/2017 MX:VORIC:R7

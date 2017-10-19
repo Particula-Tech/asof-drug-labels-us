@@ -17,13 +17,13 @@ Diagnosis of definite or probable invasive aspergillosis was made according to c
 
 Voriconazole was administered intravenously with a loading dose of 6 mg/kg every 12 hours for the first 24 hours followed by a maintenance dose of 4 mg/kg every 12 hours for a minimum of 7 days.
 Therapy could then be switched to the oral formulation at a dose of 200 mg q12h.
-Median duration of IV voriconazole therapy was 10 days (range 2 to 85 days).
-After IV voriconazole therapy, the median duration of PO voriconazole therapy was 76 days (range 2 to 232 days).
+Median duration of IV voriconazole therapy was 10 days (range 2-85 days).
+After IV voriconazole therapy, the median duration of PO voriconazole therapy was 76 days (range 2-232 days).
 
-Patients in the comparator group received conventional amphotericin B as a slow infusion at a daily dose of 1 to 1.5 mg/kg/day.
-Median duration of IV amphotericin therapy was 12 days (range 1 to 85 days).
+Patients in the comparator group received conventional amphotericin B as a slow infusion at a daily dose of 1.0-1.5 mg/kg/day.
+Median duration of IV amphotericin therapy was 12 days (range 1-85 days).
 Treatment was then continued with other licensed antifungal therapy (OLAT), including itraconazole and lipid amphotericin B formulations.
-Although initial therapy with conventional amphotericin B was to be continued for at least 2 weeks, actual duration of therapy was at the discretion of the investigator.
+Although initial therapy with conventional amphotericin B was to be continued for at least two weeks, actual duration of therapy was at the discretion of the investigator.
 Patients who discontinued initial randomized therapy due to toxicity or lack of efficacy were eligible to continue in the study with OLAT treatment.
 
 A satisfactory global response at 12 weeks (complete or partial resolution of all attributable symptoms, signs, radiographic/bronchoscopic abnormalities present at baseline) was seen in 53% of voriconazole treated patients compared to 32% of amphotericin B treated patients (Table 14).
@@ -31,15 +31,14 @@ A benefit of voriconazole compared to amphotericin B on patient survival at Day 
 
 Table 12 also summarizes the response (success) based on mycological confirmation and species.
 
-Table 12.
-Overall Efficacy and Success by Species in the Primary Treatment of Acute Invasive Aspergillosis Study 307/602
+Table 12: Overall Efficacy and Success by Species in the Primary Treatment of Acute Invasive Aspergillosis Study 307/602
 
 |  | Voriconazole | Ampho BAmphotericin B followed by other licensed antifungal therapy | StratifiedDifference (95% CI)Difference and corresponding 95% confidence interval are stratified by protocol |
 | --- | --- | --- | --- |
 |  | n/N (%) | n/N (%) |  |
 | Efficacy as Primary |  |  |  |
 | Therapy |  |  |  |
-| Satisfactory Global ResponseAssessed by independent Data Review Committee (DRC) | 76/144 (53) | 42/133 (32) | 21.8%(10.5%, 33%)p < 0.0001 |
+| Satisfactory Global ResponseAssessed by independent Data Review Committee (DRC) | 76/144 (53) | 42/133 (32) | 21.8%(10.5%, 33.0%)p < 0.0001 |
 | Survival at Day 84Proportion of subjects alive | 102/144 (71) | 77/133 (58) | 13.1% (2.1%, 24.2%) |
 | Success by Species |  |  |  |
 |  | Success n/N (%) |  |  |
@@ -66,8 +65,7 @@ Patients had various underlying diseases and species other than A. fumigatus con
 
 For patients who were infected with a single pathogen and were refractory to, or intolerant of, other antifungal agents, the satisfactory response rates for voriconazole in studies 304 and 309/604 are presented in Table 13.
 
-Table 13.
-Combined Response Data in Salvage Patients with Single Aspergillus Species (Studies 304 and 309/604)
+Table 13: Combined Response Data in Salvage Patients with Single Aspergillus Species (Studies 304 and 309/604)
 
 |  | Success n/N |
 | --- | --- |
@@ -86,7 +84,7 @@ Success was seen in 4/17 (24%) of these patients.
 Voriconazole was compared to the regimen of amphotericin B followed by fluconazole in Study 608, an open label, comparative study in nonneutropenic patients with candidemia associated with clinical signs of infection.
 Patients were randomized in 2:1 ratio to receive either voriconazole (n = 283) or the regimen of amphotericin B followed by fluconazole (n = 139).
 Patients were treated with randomized study drug for a median of 15 days.
-Most of the candidemia in patients evaluated for efficacy was caused by C. albicans (46%), followed by C. tropicalis (19%), C. parapsilosis (17%), C. glabrata (15%) and C. krusei (1%).
+Most of the candidemia in patients evaluated for efficacy was caused by C. albicans (46%), followed by C. tropicalis (19%), C. parapsilosis (17%), C. glabrata (15%), and C. krusei (1%).
 
 An independent Data Review Committee (DRC), blinded to study treatment, reviewed the clinical and mycological data from this study, and generated one assessment of response for each patient.
 A successful response required all of the following: resolution or improvement in all clinical signs and symptoms of infection, blood cultures negative for Candida, infected deep tissue sites negative for Candida or resolution of all local signs of infection, and no systemic antifungal therapy other than study drug.
@@ -95,8 +93,7 @@ Patients who did not have a 12-week assessment for any reason were considered a 
 
 The overall clinical and mycological success rates by Candida species in Study 150-608 are presented in Table 14.
 
-Table 14.
-Overall Success Rates Sustained From EOT to the Fixed 12 Week Follow-Up Time Point by Baseline PathogenA few patients had more than one pathogen at baseline.Patients who did not have a 12-week assessment for any reason were considered a treatment failure.
+Table 14: Overall Success Rates Sustained From EOT to the Fixed 12-Week Follow-Up Time Point by Baseline PathogenA few patients had more than one pathogen at baseline.Patients who did not have a 12-week assessment for any reason were considered a treatment failure.
 
 | Baseline Pathogen | Clinical and Mycological Success (%) |  |
 | --- | --- | --- |
@@ -121,18 +118,16 @@ A successful response was defined as a normal endoscopy at EOT or at least a 1 g
 For patients in the Intent to Treat (ITT) population with only a baseline endoscopy, a successful response was defined as symptomatic cure or improvement at EOT compared to baseline.
 Voriconazole and fluconazole (200 mg once daily) showed comparable efficacy rates against esophageal candidiasis, as presented in Table 15.
 
-Table 15.
-Success Rates in Patients Treated for Esophageal Candidiasis
+Table 15: Success Rates in Patients Treated for Esophageal Candidiasis
 
-| Population | Voriconazole | Fluconazole | Difference % (95% CI)Confidence Interval for the difference (Voriconazole – Fluconazole) in success rates. |
+| Population | Voriconazole | Fluconazole | Difference %(95% CI)Confidence Interval for the difference (Voriconazole – Fluconazole) in success rates. |
 | --- | --- | --- | --- |
-| PPPP (Per Protocol) patients had confirmation of Candida esophagitis by endoscopy, received at least 12 days of treatment, and had a repeat endoscopy at EOT (end of treatment). | 113/115 (98.2%) | 134/141 (95%) | 3.2 (-1.1, 7.5) |
-| ITTITT (Intent to Treat) patients without endoscopy or clinical assessment at EOT were treated as failures. | 175/200 (87.5%) | 171/191 (89.5%) | -2 (-8.3, 4.3) |
+| PPPP (Per Protocol) patients had confirmation of Candida esophagitis by endoscopy, received at least 12 days of treatment, and had a repeat endoscopy at EOT (end of treatment). | 113/115 (98.2%) | 134/141 (95.0%) | 3.2 (-1.1, 7.5) |
+| ITTITT (Intent to Treat) patients without endoscopy or clinical assessment at EOT were treated as failures. | 175/200 (87.5%) | 171/191 (89.5%) | -2.0 (-8.3, 4.3) |
 
 Microbiologic success rates by Candida species are presented in Table 16.
 
-Table 16.
-Clinical and Mycological Outcome by Baseline Pathogen in Patients with Esophageal Candidiasis (Study 150-305)
+Table 16: Clinical and Mycological Outcome by Baseline Pathogen in Patients with Esophageal Candidiasis (Study 150-305)
 
 | PathogenSome patients had more than one species isolated at baseline | Voriconazole |  | Fluconazole |  |
 | --- | --- | --- | --- | --- |
@@ -149,13 +144,13 @@ In pooled analyses of patients, voriconazole was shown to be effective against t
 ### Scedosporium apiospermum
 
 Successful response to voriconazole therapy was seen in 15 of 24 patients (63%).
-Three of these patients relapsed within 4 weeks, including one patient with pulmonary, skin and eye infections, one patient with cerebral disease, and one patient with skin infection.
-Ten patients had evidence of cerebral disease and six of these had a successful outcome (one relapse).
+Three of these patients relapsed within 4 weeks, including 1 patient with pulmonary, skin and eye infections, 1 patient with cerebral disease, and 1 patient with skin infection.
+Ten patients had evidence of cerebral disease and 6 of these had a successful outcome (1 relapse).
 In addition, a successful response was seen in 1 of 3 patients with mixed organism infections.
 
 ### Fusarium spp.
 
 Nine of 21 (43%) patients were successfully treated with voriconazole.
-Of these nine patients, three had eye infections, one had an eye and blood infection, one had a skin infection, one had a blood infection alone, two had sinus infections, and one had disseminated infection (pulmonary, skin, hepatosplenic).
-Three of these patients (one with disseminated disease, one with an eye infection and one with a blood infection) had Fusarium solani and were complete successes.
-Two of these patients relapsed, one with a sinus infection and profound neutropenia and one post surgical patient with blood and eye infections.
+Of these 9 patients, 3 had eye infections, 1 had an eye and blood infection, 1 had a skin infection, 1 had a blood infection alone, 2 had sinus infections, and 1 had disseminated infection (pulmonary, skin, hepatosplenic).
+Three of these patients (1 with disseminated disease, 1 with an eye infection and 1 with a blood infection) had Fusarium solani and were complete successes.
+Two of these patients relapsed, 1 with a sinus infection and profound neutropenia and 1 post surgical patient with blood and eye infections.
