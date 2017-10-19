@@ -2,17 +2,17 @@
 
 SPORANOX® (itraconazole) Capsules are indicated for the treatment of the following fungal infections in immunocompromised and non-immunocompromised patients:
 
-- 1.Blastomycosis, pulmonary and extrapulmonary
-- 2.Histoplasmosis, including chronic cavitary pulmonary disease and disseminated, non-meningeal histoplasmosis, and
-- 3.Aspergillosis, pulmonary and extrapulmonary, in patients who are intolerant of or who are refractory to amphotericin B therapy.
+1. Blastomycosis, pulmonary and extrapulmonary
+2. Histoplasmosis, including chronic cavitary pulmonary disease and disseminated, non-meningeal histoplasmosis, and
+3. Aspergillosis, pulmonary and extrapulmonary, in patients who are intolerant of or who are refractory to amphotericin B therapy.
 
 Specimens for fungal cultures and other relevant laboratory studies (wet mount, histopathology, serology) should be obtained before therapy to isolate and identify causative organisms.
 Therapy may be instituted before the results of the cultures and other laboratory studies are known; however, once these results become available, antiinfective therapy should be adjusted accordingly.
 
 SPORANOX® Capsules are also indicated for the treatment of the following fungal infections in non-immunocompromised patients:
 
-- 1.Onychomycosis of the toenail, with or without fingernail involvement, due to dermatophytes (tinea unguium), and
-- 2.Onychomycosis of the fingernail due to dermatophytes (tinea unguium).
+1. Onychomycosis of the toenail, with or without fingernail involvement, due to dermatophytes (tinea unguium), and
+2. Onychomycosis of the fingernail due to dermatophytes (tinea unguium).
 
 Prior to initiating treatment, appropriate nail specimens for laboratory testing (KOH preparation, fungal culture, or nail biopsy) should be obtained to confirm the diagnosis of onychomycosis.
 

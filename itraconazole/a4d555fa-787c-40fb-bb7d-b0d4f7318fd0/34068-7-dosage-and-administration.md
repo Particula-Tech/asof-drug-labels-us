@@ -29,15 +29,19 @@ Only the oral solution has been demonstrated effective for oral and/or esophagea
 
 ## Treatment of Onychomycosis
 
-Toenails with or without fingernail involvement: The recommended dose is 200 mg (2 capsules) once daily for 12 consecutive weeks.
+### Toenails with or without fingernail involvement
+
+The recommended dose is 200 mg (2 capsules) once daily for 12 consecutive weeks.
 
 ## Treatment of Onychomycosis
 
-Fingernails only: The recommended dosing regimen is 2 treatment pulses, each consisting of 200 mg (2 capsules) b.i.d.
+### Fingernails only
+
+The recommended dosing regimen is 2 treatment pulses, each consisting of 200 mg (2 capsules) b.i.d.
 (400 mg/day) for 1 week.
 The pulses are separated by a 3-week period without SPORANOX®.
 
-## Use in Patients with Renal Impairment:
+## Use in Patients with Renal Impairment
 
 Limited data are available on the use of oral itraconazole in patients with renal impairment.
 Caution should be exercised when this drug is administered in this patient population.

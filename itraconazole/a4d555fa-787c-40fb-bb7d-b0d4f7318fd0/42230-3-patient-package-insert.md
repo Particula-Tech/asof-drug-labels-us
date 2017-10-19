@@ -55,28 +55,32 @@ Never take SPORANOX® if you:
 - have had heart failure, including congestive heart failure.
 - are taking any of the medicines listed below.
   Dangerous or even life-threatening side effects could result:
+  - avanafil (such as Stendra™)
   - cisapride (such as Propulsid®)
   - colchicine (such as Colcrys™) [if you also have pre-existing kidney or liver impairment]
   - disopyramide (such as Norpace®)
   - dofetilide (such as Tikosyn™)
   - dronedarone (such as Multaq®)
+  - eliglustat (such as Cerdelga™) [if you know you do not break down drugs that are broken down by the enzyme CYP 2D6]
   - eplerenone (such as Inspra®)
   - ergot alkaloids (such as Migranal®, Ergonovine, Cafergot®, Methergine®)
   - felodipine (such as Plendil®)
   - fesoterodine (such as Toviaz®) [if you also have pre-existing kidney or liver impairment]
   - irinotecan (such as Camptosar®)
+  - isavuconazole (such as Cresemba®)
   - ivabradine (such as Corlanor®)
+  - lomitapide (such as Juxtapid™)
   - lovastatin (such as Mevacor®, Advicor®, Altocor™)
   - lurasidone (such as Latuda®)
   - methadone (such as Dolophine®)
   - midazolam (such as Versed®)
+  - naloxegol (such as Movantik®)
   - nisoldipine (such as Sular®)
   - pimozide (such as Orap®)
   - quinidine (such as Cardioquin®, Quinaglute®, Quinidex®)
   - ranolazine (such as Ranexa®)
   - simvastatin (such as Zocor®)
   - solifenacin (such as Vesicare®) [if you also have pre-existing kidney or liver impairment]
-  - telithromycin (such as Ketek®) [if you also have pre-existing kidney or liver impairment]
   - ticagrelor (such as Brilinta®)
   - triazolam (such as Halcion®)
 - have ever had an allergic reaction to itraconazole.
@@ -137,8 +141,8 @@ Looking at the back of the card, fold it back along the dashed line and peel awa
 | Take 2 SPORANOX® capsules twice a day for 1 week |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  | Day 1 |  | Day 2 |  | Day 3 |  | Day 4 |  | Day 5 |  | Day 6 |  | Day 7 |  |
 | Week 1 | // | // | // | // | // | // | // | // | // | // | // | // | // | // |
-| Week 2 | For the next 3 weeks, do not take any SPORANOX® capsules. |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Week 3 | Remember to get a refill before the end of Week 4 when your doctor prescribes another PulsePak®. |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Week 2 | For the next 3 weeks, do not take any SPORANOX® capsules. Remember to get a refill before the end of Week 4 when your doctor prescribes another PulsePak®. |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Week 3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Week 4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 WHAT ARE THE POSSIBLE SIDE EFFECTS OF SPORANOX®?
@@ -208,4 +212,4 @@ Titusville, NJ 08560
 
 © 2001 Janssen Pharmaceutical Companies
 
-Printed in USA/ Revised: 03/2017
+Printed in USA/ Revised: 10/2017
