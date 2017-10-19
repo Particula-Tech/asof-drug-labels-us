@@ -10,7 +10,7 @@ Most adverse events were mild and transient.
 
 ## Anesthesia and MAC Sedation in Adults
 
-The following estimates of adverse events for propofol injectable emulsion include data from clinical trials in general anesthesia/MAC sedation (N = 2889 adult patients).
+The following estimates of adverse events for propofol injectable emulsion include data from clinical trials in general anesthesia/MAC sedation (N = 2,889 adult patients).
 The adverse events listed below as probably causally related are those events in which the actual incidence rate in patients treated with propofol injectable emulsion was greater than the comparator incidence rate in these trials.
 Therefore, incidence rates for anesthesia and MAC sedation in adults generally represent estimates of the percentage of clinical trial patients which appeared to have probable causal relationship.
 
@@ -32,13 +32,13 @@ Therefore, incidence rates for ICU sedation generally represent estimates of the
 
 Incidence Greater Than 1% - Probably Causally Related
 
-|  | Anesthesia/MAC Sedation | ICU Sedation |
+| Cardiovascular: | Anesthesia/MAC Sedation | ICU Sedation |
 | --- | --- | --- |
-| Cardiovascular: | Bradycardia | Bradycardia |
+| Bradycardia | Bradycardia |  |
 | Arrhythmia [Peds: 1.2%] |  |  |
 | Tachycardia Nodal [Peds: 1.6%] |  |  |
 | Hypotension* [Peds: 17%] (see also CLINICAL PHARMACOLOGY) | Decreased Cardiac Output |  |
-|  | Hypertension [Peds: 8%] | Hypotension 26% |
+| Hypertension [Peds: 8%] | Hypotension 26% |  |
 | Central Nervous System: | Movement* [Peds: 17%] |  |
 | Injection Site: | Burning/Stinging or Pain, 17.6% [Peds: 10%] |  |
 | Metabolic/Nutritional: |  | Hyperlipemia* |
@@ -51,25 +51,25 @@ Incidence Less Than 1% - Probably Causally Related
 
 |  | Anesthesia/MAC Sedation | ICU Sedation |
 | --- | --- | --- |
-| Body as a Whole: | Anaphylaxis/Anaphylactoid Reaction Perinatal Disorder [Tachycardia] [Bigeminy] [Bradycardia] [Premature Ventricular Contractions] [Hemorrhage] [ECG Abnormal] [Arrhythmia Atrial] [Fever] [Extremities Pain] [Anticholinergic Syndrome] |  |
+| Body as a Whole: | Anaphylaxis/Anaphylactoid Reaction Perinatal Disorder Tachycardia Bigeminy Bradycardia Premature Ventricular Contractions Hemorrhage ECG Abnormal Arrhythmia Atrial Fever Extremities Pain Anticholinergic Syndrome |  |
 | Cardiovascular: | Premature Atrial Contractions, Syncope |  |
 | Central Nervous System: | Hypertonia/Dystonia, Paresthesia | Agitation |
-| Digestive: | [Hypersalivation] [Nausea] |  |
-| Hemic/Lymphatic: | [Leukocytosis] |  |
-| Injection Site: | [Phlebitis] [Pruritus] |  |
-| Metabolic: | [Hypomagnesemia] |  |
+| Digestive: | Hypersalivation Nausea |  |
+| Hemic/Lymphatic: | Leukocytosis |  |
+| Injection Site: | Phlebitis Pruritus |  |
+| Metabolic: | Hypomagnesemia |  |
 | Musculoskeletal: | Myalgia |  |
-| Nervous: | [Dizziness] [Agitation] [Chills] [Somnolence] [Delirium] |  |
-| Respiratory: | Wheezing [Cough] [Laryngospasm] [Hypoxia] | Decreased Lung Function |
+| Nervous: | Dizziness Agitation Chills Somnolence Delirium |  |
+| Respiratory: | Wheezing Cough Laryngospasm Hypoxia | Decreased Lung Function |
 | Skin and Appendages: | Flushing, Pruritus |  |
-| Special Senses: | Amblyopia [Vision Abnormal] |  |
+| Special Senses: | Amblyopia Vision Abnormal |  |
 | Urogenital: | Cloudy Urine | Green Urine |
 
 Incidence Less Than 1% - Causal Relationship Unknown
 
-|  | Anesthesia/MAC Sedation | ICU Sedation |
+| Body as a Whole: | Anesthesia/MAC Sedation | ICU Sedation |
 | --- | --- | --- |
-| Body as a Whole: | Asthenia, Awareness, Chest Pain, Extremities Pain, Fever, Increased Drug Effect, Neck Rigidity/Stiffness, Trunk Pain | Fever, Sepsis, Trunk Pain, Whole Body Weakness |
+| Asthenia, Awareness, Chest Pain, Extremities Pain, Fever, Increased Drug Effect, Neck Rigidity/Stiffness, Trunk Pain | Fever, Sepsis, Trunk Pain, Whole Body Weakness |  |
 | Cardiovascular: | Arrhythmia, Atrial Fibrillation, Atrioventricular Heart Block, Bigeminy, Bleeding, Bundle Branch Block, Cardiac Arrest, ECG Abnormal, Edema, Extrasystole, Heart Block, Hypertension, Myocardial Infarction, Myocardial Ischemia, Premature Ventricular Contractions, ST Segment Depression, Supraventricular Tachycardia, Tachycardia, Ventricular Fibrillation | Arrhythmia, Atrial Fibrillation, Bigeminy, Cardiac Arrest, Extrasystole, Right Heart Failure, Ventricular Tachycardia |
 | Central Nervous System: | Abnormal Dreams, Agitation, Amorous Behavior, Anxiety, Bucking/Jerking/ Thrashing, Chills/Shivering/Clonic/ Myoclonic Movement, Combativeness, Confusion, Delirium, Depression, Dizziness, Emotional Lability, Euphoria, Fatigue, Hallucinations, Headache, Hypotonia, Hysteria, Insomnia, Moaning, Neuropathy, Opisthotonos, Rigidity, Seizures, Somnolence, Tremor, Twitching | Chills/Shivering, Intracranial Hypertension, Seizures, Somnolence, Thinking Abnormal |
 | Digestive: | Cramping, Diarrhea, Dry Mouth, Enlarged Parotid, Nausea, Swallowing, Vomiting | Ileus, Liver Function Abnormal |
@@ -80,3 +80,5 @@ Incidence Less Than 1% - Causal Relationship Unknown
 | Skin and Appendages: | Conjunctival Hyperemia, Diaphoresis, Urticaria | Rash |
 | Special Senses: | Diplopia, Ear Pain, Eye Pain, Nystagmus, Taste Perversion, Tinnitus |  |
 | Urogenital: | Oliguria, Urine Retention | Kidney Failure |
+
+To report SUSPECTED ADVERSE REACTIONS, contact Sagent Pharmaceuticals, Inc. at 1-866-625-1618 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

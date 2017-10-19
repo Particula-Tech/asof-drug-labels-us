@@ -1,6 +1,6 @@
 # INDICATIONS AND USAGE
 
-Propofol injectable emulsion, USP is an IV sedative-hypnotic agent that can be used as described in the table below.
+Propofol injectable emulsion, USP is an IV general anesthetic and sedation drug that can be used as described in the table below.
 
 TABLE 3.
 Indications for Propofol Injectable Emulsion, USP
@@ -8,9 +8,9 @@ Indications for Propofol Injectable Emulsion, USP
 | Indication | Approved Patient Population |
 | --- | --- |
 | Initiation and maintenance of Monitored Anesthesia Care (MAC) sedation | Adults only |
-| Combined sedation and regional anesthesia | Adults only (See PRECAUTIONS.) |
-| Induction of General Anesthesia | Patients ≥ 3 years of age |
-| Maintenance of General Anesthesia | Patients ≥ 2 months of age |
+| Combined sedation and regional anesthesia | Adults only (see PRECAUTIONS) |
+| Induction of General Anesthesia | Patients greater than or equal to 3 years of age |
+| Maintenance of General Anesthesia | Patients greater than or equal to 2 months of age |
 | Intensive Care Unit (ICU) sedation of intubated, mechanically ventilated patients | Adults only |
 
 Safety, effectiveness and dosing guidelines for propofol injectable emulsion, USP have not been established for MAC Sedation in the pediatric population; therefore, it is not recommended for this use (see PRECAUTIONS, Pediatric Use).

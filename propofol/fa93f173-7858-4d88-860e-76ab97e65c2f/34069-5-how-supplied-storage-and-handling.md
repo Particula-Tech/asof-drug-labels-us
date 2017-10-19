@@ -2,9 +2,8 @@
 
 Propofol Injectable Emulsion, USP is available as follows:
 
-|  | Propofol Injectable Emulsion, USP |  |
+| NDC | Propofol Injectable Emulsion, USP (10 mg per mL) | Package Factor |
 | --- | --- | --- |
-| NDC | (10 mg per mL) | Package Factor |
 | 25021-608-20 | 200 mg per 20 mL Single-Patient Infusion Vial | 25 vials per carton |
 | 25021-608-50 | 500 mg per 50 mL Single-Patient Infusion Vial | 20 vials per carton |
 | 25021-608-51 | 1,000 mg per 100 mL Single-Patient Infusion Vial | 10 vials per carton |
@@ -22,9 +21,4 @@ Shake well before use.
 Discard unused portion.
 
 Sterile, Nonpyrogenic.
-
-SAGENT®
-
-Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in Italy ©2016 Sagent Pharmaceuticals, Inc.
-
-Revised: February 2016
+The container closure is not made with natural rubber latex.
