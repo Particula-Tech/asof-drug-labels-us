@@ -51,9 +51,9 @@ North Chicago, IL 60064, U.S.A.
 
 ©2017 AbbVie Inc.
 
-Revised: May 2017
+Revised: October 2017
 
-03-B526
+03-B600
 
 Administration Guide
 
@@ -99,6 +99,6 @@ North Chicago, IL 60064, U.S.A.
 
 ©2017 AbbVie Inc.
 
-Revised: May 2017
+Revised: October 2017
 
-03-B526
+03-B600

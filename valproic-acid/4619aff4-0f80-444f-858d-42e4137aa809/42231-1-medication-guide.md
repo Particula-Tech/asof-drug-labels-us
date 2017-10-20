@@ -251,6 +251,6 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 ©2017 AbbVie Inc.
 
-Revised: May 2017
+Revised: October 2017
 
-03-B526
+03-B600
