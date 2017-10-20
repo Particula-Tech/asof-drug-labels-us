@@ -11,7 +11,7 @@ Patients who are opioid-experienced are those receiving, for one week or longer,
 - Initiate the dosing regimen for each patient individually, taking into account the patient's severity of pain, patient response, prior analgesic treatment experience, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1)].
 - Monitor patients closely for respiratory depression, especially within the first 24-72 hours of initiating therapy and following dosage increases with BUTRANS [see Warnings and Precautions (5.2)].
 - Instruct patients not to use BUTRANS if the pouch seal is broken or the patch is cut, damaged, or changed in any way and not to cut BUTRANS.
-- Instruct patients to avoid exposing BUTRANS to external heat sources, hot water, or prolonged direct sunlight [see Warnings and Precautions (5.13)].
+- Instruct patients to avoid exposing BUTRANS to external heat sources, hot water, or prolonged direct sunlight [see Warnings and Precautions (5.14)].
 
 BUTRANS is for transdermal use (on intact skin) only.
 Each BUTRANS patch is intended to be worn for 7 days.
@@ -52,7 +52,7 @@ The minimum BUTRANS titration interval is 72 hours, based on the pharmacokinetic
 
 The maximum BUTRANS dose is 20 mcg/hour.
 Do not exceed a dose of one 20 mcg/hour BUTRANS system due to the risk of QTc interval prolongation.
-In a clinical trial, BUTRANS 40 mcg/hour (given as two BUTRANS 20 mcg/hour systems) resulted in prolongation of the QTc interval [see Warnings and Precautions (5.7), Clinical Pharmacology (12.2)]
+In a clinical trial, BUTRANS 40 mcg/hour (given as two BUTRANS 20 mcg/hour systems) resulted in prolongation of the QTc interval [see Warnings and Precautions (5.7), Clinical Pharmacology (12.2)].
 
 Patients who experience breakthrough pain may require dosage adjustment increase of BUTRANS, or may need rescue medication with an appropriate dose of an immediate-release analgesic.
 If the level of pain increases after dose stabilization, attempt to identify the source of increased pain before increasing the BUTRANS dose.
@@ -74,7 +74,7 @@ Do not abruptly discontinue BUTRANS.
 ## 2.5 Patients with Hepatic Impairment
 
 BUTRANS has not been evaluated in patients with severe hepatic impairment.
-As BUTRANS is only intended for 7-day application, consider use of an alternate analgesic that may permit more flexibility with the dosing in patients with severe hepatic impairment [see Warnings and Precautions (5.10), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)]
+As BUTRANS is only intended for 7-day application, consider use of an alternate analgesic that may permit more flexibility with the dosing in patients with severe hepatic impairment [see Warnings and Precautions (5.11), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)]
 
 ## 2.6 Administration of BUTRANS
 

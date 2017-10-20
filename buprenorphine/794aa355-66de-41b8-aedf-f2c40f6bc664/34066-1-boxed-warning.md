@@ -1,4 +1,4 @@
-# WARNING: ADDICTION, ABUSE, and MISUSE; LIFE-THREATENING RESPIRATORY DEPRESSION; ACCIDENTAL EXPOSURE; NEONATAL OPIOID WITHDRAWAL SYNDROME; and RISKS FROM CONCOMITANT USE WITH BENZODIAZEPINES OROTHER CNS DEPRESSANTS
+# WARNING: ADDICTION, ABUSE and MISUSE; LIFE-THREATENING RESPIRATORY DEPRESSION; ACCIDENTAL EXPOSURE; NEONATAL OPIOID WITHDRAWAL SYNDROME; and RISKS FROM CONCOMITANT USE WITH BENZODIAZEPINES OR OTHER CNS DEPRESSANTS
 
 Addiction, Abuse, and Misuse BUTRANS® exposes patients and other users to the risks of opioid addiction, abuse, and misuse, which can lead to overdose and death.
 Assess each patient’s risk prior to prescribing BUTRANS, and monitor all patients regularly for the development of these behaviors and conditions [see Warnings and Precautions (5.1) and Overdosage (10)].
@@ -12,4 +12,4 @@ Risks From Concomitant Use With Benzodiazepines Or Other CNS Depressants Concomi
 
 - Reserve concomitant prescribing of BUTRANS and benzodiazepines or other CNS depressants for use in patients for whom alternative treatment options are inadequate.
 - Limit dosages and durations to the minimum required.
-- Follow patients for signs and symptoms of respiratory depression and sedation
+- Follow patients for signs and symptoms of respiratory depression and sedation.

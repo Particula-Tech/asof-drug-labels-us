@@ -63,6 +63,9 @@ It is not known whether these effects on fertility are reversible [see Adverse R
 
 The safety and efficacy of BUTRANS in patients under 18 years of age has not been established.
 
+BUTRANS has been evaluated in an open-label clinical trial in pediatric patients.
+However, definitive conclusions are not possible because of the small sample size.
+
 ## 8.5 Geriatric Use
 
 Of the total number of subjects in the clinical trials (5,415), BUTRANS was administered to 1,377 patients aged 65 years and older.

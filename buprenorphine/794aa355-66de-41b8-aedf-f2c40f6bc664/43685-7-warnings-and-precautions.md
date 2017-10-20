@@ -130,7 +130,7 @@ Advise patients and their caregivers to avoid exposing the BUTRANS application s
 Advise patients against exposure of the BUTRANS application site and surrounding area to hot water or prolonged exposure to direct sunlight.
 There is a potential for temperature-dependent increases in buprenorphine released from the system resulting in possible overdose and death [see Patient Counseling Information (17)].
 
-## 5.14 Risks of Use in Patients with Fever
+## 5.14 Risk of Use in Patients with Fever
 
 Monitor patients wearing BUTRANS systems who develop fever or increased core body temperature due to strenuous exertion for opioid side effects and adjust the BUTRANS dose if signs of respiratory or central nervous system depression occur.
 

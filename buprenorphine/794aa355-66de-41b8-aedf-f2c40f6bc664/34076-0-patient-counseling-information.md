@@ -15,7 +15,7 @@ Interaction with Benzodiazepines and Other CNS Depressants Inform patients and c
 
 Interaction with Benzodiazepines Warn patients that it is extremely dangerous to self-administer benzodiazepines while taking BUTRANS, and warn patients to use benzodiazepines concurrently with BUTRANS only as directed by their physician [see Drug Interactions (7)].
 
-Serotonin Syndrome Inform patients that opioids could cause a rare but potentially life-threatening condition resulting from concomitant administration of serotonergic drugs.
+Serotonin Syndrome Inform patients that OPIOIDS could cause a rare but potentially life-threatening condition resulting from concomitant administration of serotonergic drugs.
 Warn patients of the symptoms of serotonin syndrome and to seek medical attention right away if symptoms develop.
 Instruct patients to inform their physicians if they are taking, or plan to take serotonergic medications [see Drug Interactions (7)].
 
