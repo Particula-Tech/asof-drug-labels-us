@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "ANDA207777"
+  ],
+  "inn": "aprepitant",
+  "labeler": "Glenmark Pharmaceuticals Inc., USA",
+  "package_ndcs": [
+    "68462-112-33",
+    "68462-583-11",
+    "68462-583-40",
+    "68462-583-85",
+    "68462-584-58",
+    "68462-584-76",
+    "68462-585-76"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "aprepitant",
+      "name": "Aprepitant"
+    },
+    {
+      "form": "KIT",
+      "generic": "aprepitant",
+      "name": "Aprepitant"
+    }
+  ],
+  "setid": "d72e0e10-4557-41b0-b65d-d395468cad19",
+  "source": "dailymed"
+}
