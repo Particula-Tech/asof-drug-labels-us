@@ -5,14 +5,14 @@
 | Color: | Light peach |
 | --- | --- |
 | Engraving: | XELODA on one side and 150 on the other |
-| 150 mg tablets are packaged in bottles of 60 (NDC 0004-1100-20). |  |
+| 150 mg tablets are packaged in bottles of 60 (NDC 0004-1100-20), individually packaged in a carton. |  |
 
 500 mg
 
 | Color: | Peach |
 | --- | --- |
 | Engraving: | XELODA on one side and 500 on the other |
-| 500 mg tablets are packaged in bottles of 120 (NDC 0004-1101-50). |  |
+| 500 mg tablets are packaged in bottles of 120 (NDC 0004-1101-50), individually packaged in a carton. |  |
 
 Storage and Handling
 

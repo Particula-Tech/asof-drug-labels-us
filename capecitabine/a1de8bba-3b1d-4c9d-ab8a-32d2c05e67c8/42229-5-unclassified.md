@@ -4,4 +4,4 @@ Genentech USA, Inc. A Member of the Roche Group 1 DNA Way South San Francisco, C
 
 XELODA® is a registered trademark of Hoffmann-La Roche, Inc.
 
-© 2016 Genentech, Inc. All rights reserved.
+© 2017 Genentech, Inc. All rights reserved.
