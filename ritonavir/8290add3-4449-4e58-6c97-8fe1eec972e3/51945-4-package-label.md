@@ -32,7 +32,9 @@ Rx only abbvie
 
 NDC 0074-3956-46
 
-Kaletra® Lopinavir and Ritonavir Oral Solution
+Kaletra®
+
+Lopinavir and Ritonavir Oral Solution
 
 80 mg /20 mg per mL
 

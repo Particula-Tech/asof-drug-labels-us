@@ -23,7 +23,7 @@ Postmarketing life-threatening cases of cardiac toxicity (including complete AV 
 KALETRA oral solution should not be used in preterm neonates in the immediate postnatal period because of possible toxicities.
 A safe and effective dose of KALETRA oral solution in this patient population has not been established.
 However, if the benefit of using KALETRA oral solution to treat HIV infection in infants immediately after birth outweighs the potential risks, infants should be monitored closely for increases in serum osmolality and serum creatinine, and for toxicity related to KALETRA oral solution including: hyperosmolality, with or without lactic acidosis, renal toxicity, CNS depression (including stupor, coma, and apnea), seizures, hypotonia, cardiac arrhythmias and ECG changes, and hemolysis.
-Total amounts of ethanol and propylene glycol from all medicines that are to be given to infants should be taken into account in order to avoid toxicity from these excipients [see Dosage and Administration (2.3) and Overdosage (10)].
+Total amounts of ethanol and propylene glycol from all medicines that are to be given to infants should be taken into account in order to avoid toxicity from these excipients [see Dosage and Administration (2.4) and Overdosage (10)].
 
 ## 5.3 Pancreatitis
 

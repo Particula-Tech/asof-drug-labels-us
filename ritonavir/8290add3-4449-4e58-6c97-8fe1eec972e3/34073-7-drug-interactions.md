@@ -1,7 +1,5 @@
 # 7 DRUG INTERACTIONS
 
-See also Contraindications (4), Warnings and Precautions (5.1), Clinical Pharmacology (12.3)
-
 ## 7.1 Potential for KALETRA to Affect Other Drugs
 
 Lopinavir/ritonavir is an inhibitor of CYP3A and may increase plasma concentrations of agents that are primarily metabolized by CYP3A.
@@ -21,7 +19,7 @@ Although not observed in the KALETRA/ketoconazole drug interaction study, co-adm
 ## 7.3 Established and Other Potentially Significant Drug Interactions
 
 Table 13 provides a listing of established or potentially clinically significant drug interactions.
-Alteration in dose or regimen may be recommended based on drug interaction studies or predicted interaction [see Clinical Pharmacology (12.3)] for magnitude of interaction.
+Alteration in dose or regimen may be recommended based on drug interaction studies or predicted interaction [see Contraindications (4), Warnings and Precautions (5.1), Clinical Pharmacology (12.3)] for magnitude of interaction.
 
 Table 13.
 Established and Other Potentially Significant Drug Interactions

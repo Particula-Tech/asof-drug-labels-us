@@ -8,9 +8,9 @@ Study 863 was a randomized, double-blind, multicenter trial comparing treatment 
 Patients had a mean age of 38 years (range: 19 to 84), 57% were Caucasian, and 80% were male.
 Mean baseline CD4+ cell count was 259 cells/mm3 (range: 2 to 949 cells/mm3) and mean baseline plasma HIV-1 RNA was 4.9 log10 copies/mL (range: 2.6 to 6.8 log10 copies/mL).
 
-Treatment response and outcomes of randomized treatment are presented in Table 18.
+Treatment response and outcomes of randomized treatment are presented in Table 22.
 
-Table 18.
+Table 22.
 Outcomes of Randomized Treatment Through Week 48 (Study 863)
 
 | Outcome | KALETRA+d4T+3TC (N = 326) | Nelfinavir+d4T+3TC (N = 327) |
@@ -23,9 +23,9 @@ Outcomes of Randomized Treatment Through Week 48 (Study 863)
 | 1 Patients achieved and maintained confirmed HIV-1 RNA < 400 copies/mL through Week 48. 2 Includes confirmed viral rebound and failure to achieve confirmed < 400 copies/mL through Week 48. 3 Includes lost to follow-up, patient's withdrawal, non-compliance, protocol violation and other reasons. Overall discontinuation through Week 48, including patients who discontinued subsequent to virologic failure, was 17% in the KALETRA arm and 24% in the nelfinavir arm. |  |  |
 
 Through 48 weeks of therapy, there was a statistically significantly higher proportion of patients in the KALETRA arm compared to the nelfinavir arm with HIV-1 RNA < 400 copies/mL (75% vs. 62%, respectively) and HIV-1 RNA < 50 copies/mL (67% vs. 52%, respectively).
-Treatment response by baseline HIV-1 RNA level subgroups is presented in Table 19.
+Treatment response by baseline HIV-1 RNA level subgroups is presented in Table 23.
 
-Table 19.
+Table 23.
 Proportion of Responders Through Week 48 by Baseline Viral Load (Study 863)
 
 | Baseline Viral Load (HIV-1 RNA copies/mL) | KALETRA +d4T+3TC |  |  | Nelfinavir +d4T+3TC |  |  |
@@ -49,9 +49,9 @@ Patients were administered emtricitabine 200 mg once daily and tenofovir DF 300 
 Mean age of patients enrolled was 39 years (range: 19 to 71); 75% were Caucasian, and 78% were male.
 Mean baseline CD4+ cell count was 216 cells/mm3 (range: 20 to 775 cells/mm3) and mean baseline plasma HIV-1 RNA was 5.0 log10 copies/mL (range: 1.7 to 7.0 log10 copies/mL).
 
-Treatment response and outcomes of randomized treatment through Week 48 are presented in Table 20.
+Treatment response and outcomes of randomized treatment through Week 48 are presented in Table 24.
 
-Table 20.
+Table 24.
 Outcomes of Randomized Treatment Through Week 48 (Study 730)
 
 | Outcome | KALETRA Once Daily + TDF + FTC (n = 333) | KALETRA Twice Daily + TDF + FTC (n = 331) |
@@ -74,9 +74,9 @@ Study 888 was a randomized, open-label, multicenter trial comparing treatment wi
 Patients had a mean age of 40 years (range: 18 to 74), 68% were Caucasian, and 86% were male.
 Mean baseline CD4+ cell count was 322 cells/mm3 (range: 10 to 1059 cells/mm3) and mean baseline plasma HIV-1 RNA was 4.1 log10 copies/mL (range: 2.6 to 6.0 log10 copies/mL).
 
-Treatment response and outcomes of randomized treatment through Week 48 are presented in Table 21.
+Treatment response and outcomes of randomized treatment through Week 48 are presented in Table 25.
 
-Table 21.
+Table 25.
 Outcomes of Randomized Treatment Through Week 48 (Study 888)
 
 | Outcome | KALETRA + nevirapine + NRTIs (n = 148) | Investigator-Selected Protease Inhibitor(s) + nevirapine + NRTIs (n = 140) |
@@ -101,9 +101,9 @@ Patients were administered at least two nucleoside/nucleotide reverse transcript
 Mean age of patients enrolled was 41 years (range: 21 to 73); 51% were Caucasian, and 66% were male.
 Mean baseline CD4+ cell count was 254 cells/mm3 (range: 4 to 952 cells/mm3) and mean baseline plasma HIV-1 RNA was 4.3 log10 copies/mL (range: 1.7 to 6.6 log10 copies/mL).
 
-Treatment response and outcomes of randomized treatment through Week 48 are presented in Table 22.
+Treatment response and outcomes of randomized treatment through Week 48 are presented in Table 26.
 
-Table 22.
+Table 26.
 Outcomes of Randomized Treatment Through Week 48 (Study 802)
 
 | Outcome | KALETRA Once Daily + NRTIs (n = 300) | KALETRA Twice Daily + NRTIs (n = 299) |
@@ -149,9 +149,7 @@ At entry, median (range) CD4+ percentage was 41 (16-59) with a median decrease o
 Twenty-one infants, between 6 weeks and 6 months of age, were enrolled at a median (range) age of 14.7 (6.9-25.7) weeks and 19 of 21 infants completed 24 weeks.
 At entry, median (range) HIV RNA level was 5.8 (3.7-6.9) log10 copies/mL.
 Ten of 21 infants had HIV RNA <400 copies/mL at Week 24.
-At entry, the median (range) CD4+ percentage was 32 (11-54) with a median increase of 4% (95% CI: -1, 9) from baseline to week 24 in 19 infants with available data.
-
-See Clinical Pharmacology (12.3) for pharmacokinetic results.
+At entry, the median (range) CD4+ percentage was 32 (11-54) with a median increase of 4% (95% CI: -1, 9) from baseline to week 24 in 19 infants with available data [see Clinical Pharmacology (12.3) for pharmacokinetic results].
 
 Study 940 was an open-label, multicenter trial evaluating the pharmacokinetic profile, tolerability, safety and efficacy of KALETRA oral solution containing lopinavir 80 mg/mL and ritonavir 20 mg/mL in 100 antiretroviral naïve (44%) and experienced (56%) pediatric patients.
 All patients were non-nucleoside reverse transcriptase inhibitor naïve.

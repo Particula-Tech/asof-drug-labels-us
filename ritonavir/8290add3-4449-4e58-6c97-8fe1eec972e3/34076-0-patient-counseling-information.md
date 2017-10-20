@@ -2,82 +2,71 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide)
 
-Patients or parents of patients should be informed that:
+General Administration Information [see Dosage and Administration (2)]:
 
-General Information
-
-They should pay special attention to accurate administration of their dose to minimize the risk of accidental overdose or underdose of KALETRA.
-
-They should inform their healthcare provider if their children’s weight changes in order to make sure that the child’s KALETRA dose is the correct one.
-
-They should take the prescribed dose of KALETRA as directed and to set up a daily routine in order to do so.
-
-KALETRA tablets may be taken with or without food.
-KALETRA oral solution should be taken with food to enhance absorption.
-
-Sustained decreases in plasma HIV-1 RNA have been associated with a reduced risk of progression to AIDS and death.
-Patients should remain under the care of a physician while using KALETRA.
-Patients should be advised to take KALETRA and other concomitant antiretroviral therapy every day as prescribed.
-KALETRA must always be used in combination with other antiretroviral drugs.
-Patients should not alter the dose or discontinue therapy without consulting with their doctor.
-If a dose of KALETRA is missed patients should take the dose as soon as possible and then return to their normal schedule.
-However, if a dose is skipped the patient should not double the next dose.
-The amount of HIV-1 virus in their blood may increase if the medicine is stopped for even a short time.
-The virus may become resistant to KALETRA and become harder to treat.
-
-KALETRA is not a cure for HIV-1 infection and patients may continue to experience illnesses associated with HIV-1 infection, including opportunistic infections.
-Patients should remain under the care of a physician when using KALETRA.
-
-Patients should be advised to avoid doing things that can spread HIV-1 infection to others.
-
-- Do not share needles or other injection equipment.
-- Do not share personal items that can have blood or body fluids on them, like toothbrushes and razor blades.
-- Do not have any kind of sex without protection.
-  Always practice safe sex by using a latex or polyurethane condom to lower the chance of sexual contact with semen, vaginal secretions, or blood.
-- Do not breastfeed.
-  Mothers with HIV-1 should not breastfeed because HIV-1 can be passed to the baby in the breast milk.
+- Advise patients to pay special attention to accurate administration of their dose to minimize the risk of accidental overdose or underdose of KALETRA.
+- Advise patients and caregivers that the oral solution should be administered using the calibrated dosing cup (supplied) or oral dosing syringe.
+- Advise caregivers to inform their healthcare provider if the child’s weight changes in order to make sure that the child’s KALETRA dose is adjusted as needed.
+- Inform patients and caregivers that KALETRA tablets may be taken with or without food but KALETRA oral solution should be taken with food to enhance absorption.
+- Advise patients to remain under the care of a healthcare provider while using KALETRA and to take KALETRA in combination with other antiretroviral drugs as prescribed.
+- Advise patients not to alter the dose or discontinue therapy without consulting with their healthcare provider.
+  If a dose of KALETRA is missed patients should take the dose as soon as possible and then return to their normal schedule.
+  However, if a dose is skipped the patient should not double the next dose.
+- Inform patients that it is important to take KALETRA on a regular dosing schedule as directed and to avoid missing doses as that can result in development of resistance.
+- Inform patients that there may be a greater chance of developing diarrhea with the once daily regimen as compared with the twice daily regimen.
+- Inform patients that Kaletra is not a cure for HIV-1 infection and that they may continue to experience illnesses associated with HIV-1 infection, including opportunistic infections.
 
 Drug Interactions
 
-KALETRA may interact with some drugs; therefore, patients should be advised to report to their doctor the use of any other prescription, non-prescription medication or herbal products, particularly St. John's Wort.
+Inform patients that KALETRA may interact with some drugs; therefore, patients should be advised to report to their healthcare provider the use of any prescription, non-prescription medication or herbal products such as St. John’s Wort [see Contraindications (4), Warnings and Precautions (5.1) and Drug Interactions (7)].
 
-KALETRA tablets can be taken at the same time as didanosine without food.
-Patients taking didanosine should take didanosine one hour before or two hours after KALETRA oral solution.
+Pancreatitis
 
-If they are receiving avanafil, sildenafil, tadalafil, or vardenafil for the treatment of erectile dysfunction, there may be an increased risk of associated adverse reactions including hypotension, visual changes, and sustained erection, and should promptly report any symptoms to their doctor.
-If they are currently using or planning to use avanafil or tadalafil (for the treatment of pulmonary arterial hypertension) they should ask their doctor about potential adverse reactions these medications may cause when taken with KALETRA.
-The doctor may choose not to keep them on avanafil, or may adjust the dose of tadalafil while initiating treatment with KALETRA.
+Advise patients that pancreatitis has been observed in patients receiving KALETRA and to alert their healthcare provider if they experience symptoms such as nausea, vomiting or abdominal pain [see Warnings and Precautions (5.3)].
 
-If they are receiving estrogen-based hormonal contraceptives, additional or alternate contraceptive measures should be used during therapy with KALETRA.
+Skin Rash
 
-If they are taking or before they begin using Serevent® (salmeterol) and KALETRA, they should talk to their doctor about problems these two medications may cause when taken together.
-The doctor may choose not to keep someone on Serevent® (salmeterol).
+Inform patients that skin rash ranging in severity from mild to toxic epidermal necrolysis (TEN), Stevens-Johnson syndrome, erythema multiforme, urticaria, and angioedema have been reported in patients receiving KALETRA or its components lopinavir and/or ritonavir.
+Advise patients to contact their healthcare provider if they develop a rash while taking KALETRA [see Adverse Reactions (6.1)].
 
-If they are taking or before they begin taking Advair® (salmeterol in combination with fluticasone propionate) and KALETRA, they should talk to their doctor about problems these two medications may cause when taken together.
-The doctor may choose not to keep someone on Advair® (salmeterol in combination with fluticasone propionate).
+Hepatotoxicity
 
-Potential Adverse Effects
-
-Skin rashes ranging in severity from mild to toxic epidermal necrolysis (TEN), Stevens-Johnson syndrome, erythema multiforme, urticaria, and angioedema have been reported in patients receiving KALETRA or its components lopinavir and/or ritonavir.
-Patients should be advised to contact their healthcare provider if they develop a rash while taking KALETRA.
-The healthcare provider will determine if treatment should be continued or an alternative antiretroviral regimen used.
-
-Patients should be advised that appropriate liver function testing will be conducted prior to initiating and during therapy with KALETRA.
 Pre-existing liver disease including Hepatitis B or C can worsen with use of KALETRA.
 This can be seen as worsening of transaminase elevations or hepatic decompensation.
-Patients should be advised that their liver function tests will need to be monitored closely especially during the first several months of KALETRA treatment and that they should notify their healthcare provider if they develop the signs and symptoms of worsening liver disease including loss of appetite, abdominal pain, jaundice, and itchy skin.
+Advise patients that their liver function tests will need to be monitored closely especially during the first several months of KALETRA treatment and that they should notify their healthcare provider if they develop the signs and symptoms of worsening liver disease including loss of appetite, abdominal pain, jaundice, and itchy skin [see Warnings and Precautions (5.4)].
 
-New onset of diabetes or exacerbation of pre-existing diabetes mellitus, and hyperglycemia have been reported during KALETRA use.
-Patients should be advised to notify their healthcare provider if they develop the signs and symptoms of diabetes mellitus including frequent urination, excessive thirst, extreme hunger or unusual weight loss and/or an increased blood sugar while on KALETRA as they may require a change in their diabetes treatment or new treatment.
+QT and PR Interval Prolongation
 
-KALETRA might produce changes in the electrocardiogram (e.g., PR and/or QT prolongation).
-Patients should consult their physician if they experience symptoms such as dizziness, lightheadedness, abnormal heart rhythm or loss of consciousness.
+Advise patients that KALETRA may produce changes in the electrocardiogram (e.g., PR and/or QT prolongation) and to consult their healthcare provider if they experience symptoms such as dizziness, lightheadedness, abnormal heart rhythm or loss of consciousness [see Warnings and Precautions (5.5, 5.6)].
 
-They should seek medical assistance immediately if they develop a sustained penile erection lasting more than 4 hours while taking KALETRA and a PDE 5 Inhibitor such as Viagra, Cialis or Levitra.
+Diabetes Mellitus/Hyperglycemia
 
-Redistribution or accumulation of body fat may occur in patients receiving antiretroviral therapy and that the cause and long term health effects of these conditions are not known at this time.
+Advise patients that new onset of diabetes or exacerbation of pre-existing diabetes mellitus, and hyperglycemia have been reported during KALETRA use.
+Advise patients to notify their healthcare provider if they develop the signs and symptoms of diabetes mellitus including frequent urination, excessive thirst, extreme hunger or unusual weight loss and/or an increased blood sugar while on KALETRA as they may require a change in their diabetes treatment or new treatment [see Warnings and Precautions (5.7)].
 
-Patients should be informed that there may be a greater chance of developing diarrhea with the once daily regimen as compared with the twice daily regimen.
+Immune Reconstitution Syndrome
+
+Advise patients that immune reconstitution syndrome has been reported in HIV-infected patients treated with combination antiretroviral therapy, including KALETRA [see Warnings and Precautions (5.8)].
+
+Lipid Disorders
+
+Advise patients that treatment with KALETRA therapy can result in substantial increases in the concentration of total cholesterol and triglycerides [see Warnings and Precautions (5.9)].
+
+Fat Redistribution
+
+Advise patients that redistribution or accumulation of body fat may occur in patients receiving antiretroviral therapy and that the cause and long term health effects of these conditions are not known at this time [see Warnings and Precautions (5.10)].
+
+Patients with Hemophilia
+
+Advise patients with hemophilia that they may experience increased bleeding when treated with protease inhibitors such as KALETRA [see Warnings and Precautions (5.11)].
+
+Pregnancy Exposure Registry
+
+Inform patients that there is an antiretroviral pregnancy registry that monitors fetal outcomes of pregnant women exposed to KALETRA [see Use in Specific Populations (8.1)].
+
+Lactation
+
+Instruct women with HIV-1 infection not to breastfeed because HIV-1 can be passed to the baby in breast milk [see Use in Specific Populations (8.2)].
 
 KALETRA Tablets, 200 mg lopinavir and 50 mg ritonavir
 
@@ -93,4 +82,4 @@ The brands listed are trademarks of their respective owners and are not trademar
 
 © 2017 AbbVie Inc. All rights reserved.
 
-03-B465
+03-B593

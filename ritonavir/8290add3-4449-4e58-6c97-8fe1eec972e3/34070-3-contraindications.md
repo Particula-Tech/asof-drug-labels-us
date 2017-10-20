@@ -6,9 +6,9 @@
 - KALETRA is contraindicated with drugs that are potent CYP3A inducers where significantly reduced lopinavir plasma concentrations may be associated with the potential for loss of virologic response and possible resistance and cross-resistance.
 
 Table 8.
-Drugs That are Contraindicated with KALETRA
+Drugs That Are Contraindicated With KALETRA
 
-| Drug Class | Drugs Within Class That are Contraindicated with KALETRA | Clinical Comments |
+| Drug Class | Drugs Within Class That Are Contraindicated With KALETRA | Clinical Comments |
 | --- | --- | --- |
 | Alpha 1- Adrenoreceptor Antagonist | Alfuzosin | Potentially increased alfuzosin concentrations can result in hypotension. |
 | Antianginal | Ranolazine | Potential for serious and/or life-threatening reactions. |
