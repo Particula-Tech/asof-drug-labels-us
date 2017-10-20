@@ -168,7 +168,7 @@ Dermatologic: Hair texture changes, hair color changes, photosensitivity, erythe
 
 Psychiatric: Emotional upset, psychosis, aggression, psychomotor hyperactivity, hostility, disturbance in attention, learning disorder, and behavioral deterioration.
 
-Neurologic: Paradoxical convulsion
+Neurologic: Paradoxical convulsion, parkinsonism
 
 There have been several reports of acute or subacute cognitive decline and behavioral changes (apathy or irritability) with cerebral pseudoatrophy on imaging associated with valproate therapy; both the cognitive/behavioral changes and cerebral pseudoatrophy reversed partially or fully after valproate discontinuation.
 
