@@ -18,8 +18,7 @@ Convulsions have been reported in association with tranexamic acid treatment, pa
 
 ## General
 
-The dose of CYKLOKAPRON Injection should be reduced in patients with renal insufficiency because of the risk of accumulation.
-(See DOSAGE AND ADMINISTRATION.)
+The dose of CYKLOKAPRON Injection should be reduced in patients with renal insufficiency because of the risk of accumulation (see DOSAGE AND ADMINISTRATION).
 
 Ureteral obstruction due to clot formation in patients with upper urinary tract bleeding has been reported in patients treated with CYKLOKAPRON.
 
