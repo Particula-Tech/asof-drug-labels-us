@@ -4,7 +4,9 @@ NDC 0009-0331-02
 
 Pfizer
 
-Cleocin HCl® clindamycin hydrochloride capsules, USP
+Cleocin HCl®
+
+clindamycin hydrochloride capsules, USP
 
 75 mg*
 
@@ -16,7 +18,9 @@ NDC 0009-0225-02
 
 Pfizer
 
-Cleocin HCl® clindamycin hydrochloride capsules, USP
+Cleocin HCl®
+
+clindamycin hydrochloride capsules, USP
 
 150 mg*
 
@@ -28,7 +32,9 @@ NDC 0009-0395-14
 
 Pfizer
 
-Cleocin HCl® clindamycin hydrochloride capsules, USP
+Cleocin HCl®
+
+clindamycin hydrochloride capsules, USP
 
 300 mg*
 
