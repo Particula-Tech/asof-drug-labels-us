@@ -75,11 +75,11 @@ There were also no detectable effects on the growth, development and subsequent 
 
 ### Teratogenic effects
 
-#### Pregnancy category C
+Pregnancy category C
 
 No teratogenic effects were seen in rats at oral doses of 0.15 to 5.0 mg/kg/day adapalene (up to 20 times the MRHD based on mg/m2 comparisons).
 However, adapalene administered orally at doses of ≥ 25 mg/kg, (100 times the MRHD for rats or 200 times MRHD for rabbits) has been shown to be teratogenic.
-Cutaneous teratology studies in rats and rabbits at doses of 0.6, 2.0, and 6.0 mg/kg/day (24 times the MRHD for rats or 48 times the MRHD for rabbits) exhibited no fetotoxicity and only minimal increases in supernumerary ribs in rats.
+Cutaneous teratology studies in rats and rabbits as doses of 0.6, 2.0, and 6.0 mg/kg/day (24 times MRHD for rats or 48 times the MRHD for rabbits) exhibited on fetotoxicity and only minimal increases in supernumerary ribs in rats.
 There are no adequate and well-controlled studies in pregnant women.
 Adapalene should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
@@ -94,5 +94,5 @@ Safety and effectiveness in pediatric patients below the age of 12 have not been
 
 ## Geriatric Use
 
-Clinical studies of Adapalene cream, 0.1% were conducted in patients 12 to 30 years of age with acne vulgaris and therefore did not include subjects 65 years and older to determine whether they respond differently than younger subjects.
+Clinical studies of Adapalene Cream, 0.1% were conducted in patients 12 to 30 years of age with acne vulgaris and therefore did not include subjects 65 years and older to determine whether they respond differently than younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.

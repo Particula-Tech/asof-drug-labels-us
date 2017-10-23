@@ -11,5 +11,5 @@ Although the exact mode of action of adapalene is unknown, it is suggested that 
 ## Pharmacokinetics
 
 Absorption of adapalene from Adapalene Cream, 0.1% through human skin is low.
-In a pharmacokinetic study with six acne patients treated once daily for 5 days with 2 grams of adapalene cream, 0.1% applied to 1000 cm2 of acne involved skin, there were no quantifiable amounts (limit of quantification = 0.35 ng/mL) of adapalene in the plasma samples from any patient.
+In a pharmacokinetic study with six acne patients treated once daily for 5 days with 2 grams of Adapalene Cream, 0.1% applied to 1000 cm2 of acne involved skin, there were no quantifiable amounts (limit of quantification = 0.35 ng/mL) of adapalene in the plasma samples from any patient.
 Excretion appears to be primarily by the biliary route.
