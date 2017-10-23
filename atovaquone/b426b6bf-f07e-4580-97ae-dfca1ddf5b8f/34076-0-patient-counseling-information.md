@@ -4,17 +4,16 @@ Administration Instructions
 
 Instruct patients to:
 
-- •Ensure the prescribed dose of MEPRON suspension is taken as directed.
-- •Take their daily doses of MEPRON suspension with food, as food will significantly improve the absorption of the drug.
-- •Shake MEPRON suspension gently before use each time.
+- •Ensure the prescribed dose of MEPRON oral suspension is taken as directed.
+- •Take their daily doses of MEPRON oral suspension with food, as food will significantly improve the absorption of the drug.
+- •Shake MEPRON oral suspension gently before use each time.
 
-MEPRON is a registered trademark of the GSK group of companies.
+Trademarks are owned or licensed to the GSK group of companies.
 
 GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2017 the GSK group of companies.
-All rights reserved.
+©2017 GSK group of companies or its licensor.
 
-MPR:6PI
+MPR:7PI

@@ -22,13 +22,13 @@ In a rat study (with doses of 10 and 250 mg/kg), atovaquone concentrations in th
 ## 8.4 Pediatric Use
 
 Evidence of safety and effectiveness in pediatric patients (aged 12 years and younger) has not been established.
-In a trial of MEPRON suspension administered once daily with food for 12 days to 27 HIV-1-infected, asymptomatic infants and children aged between 1 month and 13 years, the pharmacokinetics of atovaquone were age-dependent.
+In a trial of MEPRON oral suspension administered once daily with food for 12 days to 27 HIV-1-infected, asymptomatic infants and children aged between 1 month and 13 years, the pharmacokinetics of atovaquone were age-dependent.
 The average steady-state plasma atovaquone concentrations in the 24 subjects with available concentration data are shown in Table 5.
 
 Table 5.
 Average Steady-state Plasma Atovaquone Concentrations in Pediatric Subjects
 
-| Age | Dose of MEPRON Suspension |  |  |
+| Age | Dose of MEPRON Oral Suspension |  |  |
 | --- | --- | --- | --- |
 | 10 mg/kg | 30 mg/kg | 45 mg/kg |  |
 | Average Css in mcg/mL (mean ± SD) |  |  |  |

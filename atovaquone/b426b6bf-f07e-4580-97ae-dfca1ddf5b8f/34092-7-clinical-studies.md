@@ -2,11 +2,11 @@
 
 ## 14.1 Prevention of PCP
 
-The indication for prevention of PCP is based on the results of 2 clinical trials comparing MEPRON suspension with dapsone or aerosolized pentamidine in HIV-1-infected adolescent (aged 13 to 18 years) and adult subjects at risk of PCP (CD4 count <200 cells/mm3 or a prior episode of PCP) and unable to tolerate TMP‑SMX.
+The indication for prevention of PCP is based on the results of 2 clinical trials comparing MEPRON oral suspension with dapsone or aerosolized pentamidine in HIV-1-infected adolescent (aged 13 to 18 years) and adult subjects at risk of PCP (CD4 count <200 cells/mm3 or a prior episode of PCP) and unable to tolerate TMP‑SMX.
 
 Dapsone Comparative Trial
 
-This open-label trial enrolled 1,057 subjects, randomized to receive MEPRON suspension 1,500 mg once daily (n = 536) or dapsone 100 mg once daily (n = 521).
+This open-label trial enrolled 1,057 subjects, randomized to receive MEPRON oral suspension 1,500 mg once daily (n = 536) or dapsone 100 mg once daily (n = 521).
 The majority of subjects were white (64%), male (88%), and receiving prophylaxis for PCP at randomization (73%); the mean age was 38 years.
 Median follow-up was 24 months.
 Subjects randomized to the dapsone arm who were seropositive for Toxoplasma gondii and had a CD4 count <100 cells/mm3 also received pyrimethamine and folinic acid.
@@ -15,7 +15,7 @@ Mortality rates were similar.
 
 Aerosolized Pentamidine Comparative Trial
 
-This open‑label trial enrolled 549 subjects, randomized to receive MEPRON suspension 1,500 mg once daily (n = 175), MEPRON suspension 750 mg once daily (n = 188), or aerosolized pentamidine 300 mg once monthly (n = 186).
+This open‑label trial enrolled 549 subjects, randomized to receive MEPRON oral suspension 1,500 mg once daily (n = 175), MEPRON oral suspension 750 mg once daily (n = 188), or aerosolized pentamidine 300 mg once monthly (n = 186).
 The majority of subjects were white (79%), male (92%), and were primary prophylaxis patients at enrollment (58%); the mean age was 38 years.
 Median follow-up was 11.3 months.
 The results of the PCP event rates appear in Table 7.
@@ -26,16 +26,16 @@ Confirmed or Presumed/Probable PCP Events (As-Treated Analysis)a
 
 | Assessment | Trial 1 |  | Trial 2 |  |  |
 | --- | --- | --- | --- | --- | --- |
-| MEPRON Suspension1,500 mg/day(n = 527) | Dapsone100 mg/day(n = 510) | MEPRON Suspension750 mg/day(n = 188) | MEPRON Suspension1,500 mg/day(n = 172) | AerosolizedPentamidine300 mg/month(n = 169) |  |
+| MEPRON Oral Suspension1,500 mg/day(n = 527) | Dapsone100 mg/day(n = 510) | MEPRON Oral Suspension750 mg/day(n = 188) | MEPRON Oral Suspension1,500 mg/day(n = 172) | AerosolizedPentamidine300 mg/month(n = 169) |  |
 | % | 15 | 19 | 23 | 18 | 17 |
 | Relative Riskb(CI)c | 0.77(0.57, 1.04) |  | 1.47(0.86, 2.50) | 1.14(0.63, 2.06) |  |
 
-aThose events occurring during or within 30 days of stopping assigned treatment.
+a Those events occurring during or within 30 days of stopping assigned treatment.
 
-bRelative risk <1 favors MEPRON and values >1 favor comparator.
+b Relative risk <1 favors MEPRON and values >1 favor comparator.
 Trial results did not show superiority of MEPRON to the comparator.
 
-cThe confidence level of the interval for the dapsone comparative trial was 95% and for the pentamidine comparative trial was 97.5%.
+c The confidence level of the interval for the dapsone comparative trial was 95% and for the pentamidine comparative trial was 97.5%.
 
 An analysis of all PCP events (intent-to-treat analysis) for both trials showed results similar to those shown in Table 7.
 
@@ -45,7 +45,7 @@ The indication for treatment of mild‑to‑moderate PCP is based on the results
 Both trials were conducted with the tablet formulation using 750 mg three times daily.
 Results from these efficacy trials established a relationship between plasma atovaquone concentration and successful outcome.
 Successful outcome was defined as improvement in clinical and respiratory measures persisting at least 4 weeks after cessation of therapy.
-Comparative pharmacokinetic trials of the suspension and tablet formulations established the currently recommended suspension dose of 750 mg twice daily [see Clinical Pharmacology (12.3)].
+Comparative pharmacokinetic trials of the oral suspension and tablet formulations established the currently recommended oral suspension dose of 750 mg twice daily [see Clinical Pharmacology (12.3)].
 
 TMP‑SMX Comparative Trial
 
@@ -84,7 +84,7 @@ Outcome of Treatment for PCP-positive Subjects Enrolled in the TMP-SMX Comparati
 | -Unevaluable | 22 | 14% | 16 | 10% |
 | Required alternate PCP therapy during trial | 55 | 34% | 55 | 34% |
 
-aAs defined by the protocol and described in trial description above.
+a As defined by the protocol and described in trial description above.
 
 The failure rate due to lack of response was significantly higher for subjects receiving MEPRON, while the failure rate due to an adverse reaction was significantly higher for subjects receiving TMP‑SMX.
 

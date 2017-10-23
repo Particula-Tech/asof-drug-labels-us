@@ -12,38 +12,38 @@ Additionally, because many subjects who participated in clinical trials with MEP
 
 PCP Prevention Trials
 
-In 2 clinical trials, MEPRON suspension was compared with dapsone or aerosolized pentamidine in HIV-1-infected adolescent (13 to 18 years) and adult subjects at risk of PCP (CD4 count <200 cells/mm3 or a prior episode of PCP) and unable to tolerate TMP-SMX.
+In 2 clinical trials, MEPRON oral suspension was compared with dapsone or aerosolized pentamidine in HIV-1-infected adolescent (13 to 18 years) and adult subjects at risk of PCP (CD4 count <200 cells/mm3 or a prior episode of PCP) and unable to tolerate TMP-SMX.
 
 Dapsone Comparative Trial: In the dapsone comparative trial (n = 1,057), the majority of subjects were white (64%), male (88%), and receiving prophylaxis for PCP at randomization (73%); the mean age was 38 years.
-Subjects received MEPRON suspension 1,500 mg once daily (n = 536) or dapsone 100 mg once daily (n = 521); median durations of exposure were 6.7 and 6.5 months, respectively.
-Adverse reaction data were collected only for adverse reactions requiring discontinuation of treatment, which occurred at similar frequencies in subjects treated with MEPRON suspension or dapsone (Table 1).
-Among subjects taking neither dapsone nor atovaquone at enrollment (n = 487), adverse reactions requiring discontinuation of treatment occurred in 43% of subjects treated with dapsone and 20% of subjects treated with MEPRON suspension.
-Gastrointestinal adverse reactions (nausea, diarrhea, and vomiting) were more frequently reported in subjects treated with MEPRON suspension (Table 1).
+Subjects received MEPRON oral suspension 1,500 mg once daily (n = 536) or dapsone 100 mg once daily (n = 521); median durations of exposure were 6.7 and 6.5 months, respectively.
+Adverse reaction data were collected only for adverse reactions requiring discontinuation of treatment, which occurred at similar frequencies in subjects treated with MEPRON oral suspension or dapsone (Table 1).
+Among subjects taking neither dapsone nor atovaquone at enrollment (n = 487), adverse reactions requiring discontinuation of treatment occurred in 43% of subjects treated with dapsone and 20% of subjects treated with MEPRON oral suspension.
+Gastrointestinal adverse reactions (nausea, diarrhea, and vomiting) were more frequently reported in subjects treated with MEPRON oral suspension (Table 1).
 
 Table 1.
 Percentage (>2%) of Subjects with Selected Adverse Reactions Requiring Discontinuation of Treatment in the Dapsone Comparative PCP Prevention Trial
 
 | Adverse Reaction | All Subjects |  |
 | --- | --- | --- |
-| MEPRON Suspension1,500 mg/day(n = 536)% | Dapsone100 mg/day(n = 521)% |  |
+| MEPRON Oral Suspension1,500 mg/day(n = 536)% | Dapsone100 mg/day(n = 521)% |  |
 | Rash | 6.3 | 8.8 |
 | Nausea | 4.1 | 0.6 |
 | Diarrhea | 3.2 | 0.2 |
 | Vomiting | 2.2 | 0.6 |
 
 Aerosolized Pentamidine Comparative Trial: In the aerosolized pentamidine comparative trial (n = 549), the majority of subjects were white (79%), male (92%), and were primary prophylaxis patients at enrollment (58%); the mean age was 38 years.
-Subjects received MEPRON suspension once daily at a dose of 750 mg (n = 188) or 1,500 mg (n = 175) or received aerosolized pentamidine 300 mg every 4 weeks (n = 186); the median durations of exposure were 6.2, 6.0, and 7.8 months, respectively.
-Table 2 summarizes the clinical adverse reactions reported by ≥20% of the subjects receiving either the 1,500-mg dose of MEPRON suspension or aerosolized pentamidine.
+Subjects received MEPRON oral suspension once daily at a dose of 750 mg (n = 188) or 1,500 mg (n = 175) or received aerosolized pentamidine 300 mg every 4 weeks (n = 186); the median durations of exposure were 6.2, 6.0, and 7.8 months, respectively.
+Table 2 summarizes the clinical adverse reactions reported by ≥20% of the subjects receiving either the 1,500-mg dose of MEPRON oral suspension or aerosolized pentamidine.
 
-Rash occurred more often in subjects treated with MEPRON suspension (46%) than in subjects treated with aerosolized pentamidine (28%).
-Treatment‑limiting adverse reactions occurred in 25% of subjects treated with MEPRON suspension 1,500 mg once daily and in 7% of subjects treated with aerosolized pentamidine.
-The most frequent adverse reactions requiring discontinuation of dosing in the group receiving MEPRON suspension 1,500 mg once daily were rash (6%), diarrhea (4%), and nausea (3%).
+Rash occurred more often in subjects treated with MEPRON oral suspension (46%) than in subjects treated with aerosolized pentamidine (28%).
+Treatment‑limiting adverse reactions occurred in 25% of subjects treated with MEPRON oral suspension 1,500 mg once daily and in 7% of subjects treated with aerosolized pentamidine.
+The most frequent adverse reactions requiring discontinuation of dosing in the group receiving MEPRON oral suspension 1,500 mg once daily were rash (6%), diarrhea (4%), and nausea (3%).
 The most frequent adverse reaction requiring discontinuation of dosing in the group receiving aerosolized pentamidine was bronchospasm (2%).
 
 Table 2.
 Percentage (≥20%) of Subjects with Selected Adverse Reactions in the Aerosolized Pentamidine Comparative PCP Prevention Trial
 
-| Adverse Reaction | MEPRON Suspension1,500 mg/day(n = 175)% | Aerosolized Pentamidine(n = 186)% |
+| Adverse Reaction | MEPRON Oral Suspension1,500 mg/day(n = 175)% | Aerosolized Pentamidine(n = 186)% |
 | --- | --- | --- |
 | Diarrhea | 42 | 35 |
 | Rash | 39 | 28 |
@@ -52,7 +52,7 @@ Percentage (≥20%) of Subjects with Selected Adverse Reactions in the Aerosoliz
 | Fever | 25 | 18 |
 | Rhinitis | 24 | 17 |
 
-Other reactions occurring in ≥10% of subjects receiving the recommended dose of MEPRON suspension (1,500 mg once daily) included vomiting, sweating, flu syndrome, sinusitis, pruritus, insomnia, depression, and myalgia.
+Other reactions occurring in ≥10% of subjects receiving the recommended dose of MEPRON oral suspension (1,500 mg once daily) included vomiting, sweating, flu syndrome, sinusitis, pruritus, insomnia, depression, and myalgia.
 
 PCP Treatment Trials
 
@@ -65,7 +65,7 @@ Table 3 summarizes all clinical adverse reactions reported by ≥10% of the tria
 Nine percent of subjects who received MEPRON and 24% of subjects who received TMP‑SMX discontinued therapy due to an adverse reaction.
 Among the subjects who discontinued, 4% of subjects receiving MEPRON and 8% of subjects in the TMP-SMX group discontinued therapy due to rash.
 
-The incidence of adverse reactions with MEPRON suspension at the recommended dose (750 mg twice daily) was similar to that seen with the tablet formulation.
+The incidence of adverse reactions with MEPRON oral suspension at the recommended dose (750 mg twice daily) was similar to that seen with the tablet formulation.
 
 Table 3.
 Percentage (≥10%) of Subjects with Selected Adverse Reactions in the TMP-SMX Comparative PCP Treatment Trial
@@ -114,7 +114,7 @@ In this trial, elevated levels of amylase occurred in subjects (8% versus 4%) re
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use of MEPRON suspension.
+The following adverse reactions have been identified during post-approval use of MEPRON oral suspension.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Blood and Lymphatic System Disorders

@@ -2,9 +2,9 @@
 
 ## 5.1 Risk of Limited Oral Absorption
 
-Absorption of orally administered MEPRON suspension is limited but can be significantly increased when the drug is taken with food.
-Failure to administer MEPRON suspension with food may result in lower plasma atovaquone concentrations and may limit response to therapy.
-Consider therapy with other agents in patients who have difficulty taking MEPRON suspension with food or in patients who have gastrointestinal disorders that may limit absorption of oral medications [see Clinical Pharmacology (12.3)].
+Absorption of orally administered MEPRON oral suspension is limited but can be significantly increased when the drug is taken with food.
+Failure to administer MEPRON oral suspension with food may result in lower plasma atovaquone concentrations and may limit response to therapy.
+Consider therapy with other agents in patients who have difficulty taking MEPRON oral suspension with food or in patients who have gastrointestinal disorders that may limit absorption of oral medications [see Clinical Pharmacology (12.3)].
 
 ## 5.2 Hepatotoxicity
 
