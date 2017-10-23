@@ -1,4 +1,4 @@
-# Package/Label Display Panel – 15 g Carton
+# Package/Label Display Panel
 
 Rx Only
 
