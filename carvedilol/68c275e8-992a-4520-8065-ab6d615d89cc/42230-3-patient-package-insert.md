@@ -46,10 +46,10 @@ Tell your doctor about all of your medical conditions, including if you:
    You and your doctor should talk about the best way to control your high blood pressure during pregnancy.
 8. •are breastfeeding.
    It is not known if carvedilol passes into your breast milk.
-   You should not breastfeed while using carvedilol tablets.
+   Talk with your doctor about the best way to feed your baby if you are taking carvedilol tablets.
 9. •are scheduled for surgery and will be given anesthetic agents.
 10. •are scheduled for cataract surgery and have taken or are currently taking carvedilol tablets.
-11. •are taking prescription or non-prescription medicines, vitamins, and herbal supplements.
+11. •are taking prescription or over-the-counter medicines, vitamins, and herbal supplements.
     Carvedilol tablets and certain other medicines can affect each other and cause serious side effects.
     Carvedilol tablets may affect the way other medicines work.
     Also, other medicines may affect how well carvedilol tablets work.
@@ -118,8 +118,6 @@ They may harm them.
 This leaflet summarizes the most important information about carvedilol tablets.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about carvedilol tablets that is written for healthcare professionals.
-You can also find out more about carvedilol tablets by calling Teva Pharmaceuticals USA, Inc. at 1-888-838-2872.
-This call is free.
 
 What are the ingredients in carvedilol tablets USP?
 
@@ -139,9 +137,9 @@ Medicines that lower blood pressure may lower your chance of having a stroke or 
 
 Manufactured For:
 
-TEVA PHARMACEUTICALS USA, INC.
+Teva Pharmaceuticals USA, Inc.
 
 North Wales, PA 19454
 
 Rev.
-J 10/2015
+K 9/2017

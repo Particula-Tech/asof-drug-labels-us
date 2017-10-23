@@ -2,7 +2,7 @@
 
 ## 14.1 Heart Failure
 
-A total of 6,975 subjects with mild to severe heart failure were evaluated in placebo-controlled trials of carvedilol.
+A total of 6,975 subjects with mild-to-severe heart failure were evaluated in placebo-controlled trials of carvedilol.
 
 Mild-to-Moderate Heart Failure
 
@@ -59,7 +59,7 @@ The estimated mean survival was 8.0 years with carvedilol and 6.6 years with imm
 Table 3.
 Results of COMET
 
-| End point | CarvedilolN = 1,511 | MetoprololN = 1,518 | Hazard Ratio | (95% CI) |
+| End Point | Carvediloln = 1,511 | Metoprololn = 1,518 | Hazard Ratio | (95% CI) |
 | --- | --- | --- | --- | --- |
 | All-cause mortality | 34% | 40% | 0.83 | 0.74 to 0.93 |
 | Mortality + all hospitalization | 74% | 76% | 0.94 | 0.86 to 1.02 |
@@ -71,7 +71,7 @@ Thus, this trial extends the time over which carvedilol manifests benefits on su
 
 Severe Heart Failure (COPERNICUS)
 
-In a double-blind trial (COPERNICUS), 2,289 subjects with heart failure at rest or with minimal exertion and left ventricular ejection fraction less than 25% (mean 20%), despite digitalis (66%), diuretics (99%), and ACE inhibitors (89%) were randomized to placebo or carvedilol.
+In a double-blind trial (COPERNICUS), 2,289 subjects with heart failure at rest or with minimal exertion and left ventricular ejection fraction less than 25% (mean 20%), despite digitalis (66%), diuretics (99%), and ACE inhibitors (89%), were randomized to placebo or carvedilol.
 Carvedilol was titrated from a starting dose of 3.125 mg twice daily to the maximum tolerated dose or up to 25 mg twice daily over a minimum of 6 weeks.
 Most subjects achieved the target dose of 25 mg.
 The trial was conducted in Eastern and Western Europe, the United States, Israel, and Canada.
@@ -79,13 +79,13 @@ Similar numbers of subjects per group (about 100) withdrew during the titration 
 
 The primary end point of the trial was all-cause mortality, but cause-specific mortality and the risk of death or hospitalization (total, cardiovascular [CV], or heart failure [HF]) were also examined.
 The developing trial data were followed by a data monitoring committee, and mortality analyses were adjusted for these multiple looks.
-The trial was stopped after a median follow-up of 10 months because of an observed 35% reduction in mortality (from 19.7% per patient year on placebo to 12.8% on carvedilol, hazard ratio 0.65, 95% CI: 0.52 to 0.81, P = 0.0014, adjusted) (see Figure 1).
+The trial was stopped after a median follow-up of 10 months because of an observed 35% reduction in mortality (from 19.7% per patient-year on placebo to 12.8% on carvedilol; hazard ratio 0.65, 95% CI: 0.52 to 0.81, P = 0.0014, adjusted) (see Figure 1).
 The results of COPERNICUS are shown in Table 4.
 
 Table 4.
 Results of COPERNICUS Trial in Subjects With Severe Heart Failure
 
-| End point | Placebo(N = 1,133) | Carvedilol(N = 1,156) | Hazard Ratio(95% CI) | %Reduction | NominalP value |
+| End Point | Placebo(n = 1,133) | Carvedilol(n = 1,156) | Hazard Ratio(95% CI) | %Reduction | NominalP value |
 | --- | --- | --- | --- | --- | --- |
 | Mortality | 190 | 130 | 0.65 (0.52 to 0.81) | 35 | 0.00013 |
 | Mortality + all hospitalization | 507 | 425 | 0.76(0.67 to 0.87) | 24 | 0.00004 |
@@ -109,7 +109,7 @@ CAPRICORN was a double-blind trial comparing carvedilol and placebo in 1,959 sub
 Subjects given carvedilol received 6.25 mg twice daily, titrated as tolerated to 25 mg twice daily.
 Subjects had to have a systolic blood pressure greater than 90 mm Hg, a sitting heart rate greater than 60 beats per minute, and no contraindication to β-blocker use.
 Treatment of the index infarction included aspirin (85%), IV or oral β-blockers (37%), nitrates (73%), heparin (64%), thrombolytics (40%), and acute angioplasty (12%).
-Background treatment included ACE inhibitors or angiotensin receptor blockers (97%), anticoagulants (20%), lipid-lowering agents (23%), and diuretics (34%).
+Background treatment included ACE inhibitors or angiotensin-receptor blockers (97%), anticoagulants (20%), lipid-lowering agents (23%), and diuretics (34%).
 Baseline population characteristics included an average age of 63 years, 74% male, 95% Caucasian, mean blood pressure 121/74 mm Hg, 22% with diabetes, and 54% with a history of hypertension.
 Mean dosage achieved of carvedilol was 20 mg twice daily; mean duration of follow-up was 15 months.
 
@@ -123,7 +123,7 @@ A similar reduction in the risk of myocardial infarction was also observed in a 
 
 ## 14.3 Hypertension
 
-Carvedilol was studied in 2 placebo-controlled trials that utilized twice-daily dosing, at total daily doses of 12.5 to 50 mg.
+Carvedilol was studied in 2 placebo-controlled trials that utilized twice-daily dosing at total daily doses of 12.5 to 50 mg.
 In these and other trials, the starting dose did not exceed 12.5 mg.
 At 50 mg per day, carvedilol reduced sitting trough (12 hour) blood pressure by about 9/5.5 mm Hg; at 25 mg per day the effect was about 7.5/3.5 mm Hg.
 Comparisons of trough-to-peak blood pressure showed a trough-to-peak ratio for blood pressure response of about 65%.
@@ -136,7 +136,7 @@ The dose-related blood pressure response was accompanied by a dose-related incre
 
 ## 14.4 Hypertension With Type 2 Diabetes Mellitus
 
-In a double-blind trial (GEMINI), carvedilol, added to an ACE inhibitor or angiotensin receptor blocker, was evaluated in a population with mild-to-moderate hypertension and well-controlled type 2 diabetes mellitus.
+In a double-blind trial (GEMINI), carvedilol, added to an ACE inhibitor or angiotensin-receptor blocker, was evaluated in a population with mild-to-moderate hypertension and well-controlled type 2 diabetes mellitus.
 The mean HbA1c at baseline was 7.2%.
 Carvedilol was titrated to a mean dose of 17.5 mg twice daily and maintained for 5 months.
 Carvedilol had no adverse effect on glycemic control, based on HbA1c measurements (mean change from baseline of 0.02%, 95% CI: -0.06 to 0.10, P = NS) [see Warnings and Precautions (5.6)].

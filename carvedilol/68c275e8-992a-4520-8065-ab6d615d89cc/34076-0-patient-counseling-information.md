@@ -14,14 +14,16 @@ Patients taking carvedilol tablets should be advised of the following:
 7. •Diabetic patients should report any changes in blood sugar levels to their physician.
 8. •Contact lens wearers may experience decreased lacrimation.
 
+All brand names listed are the registered trademarks of their respective owners and are not trademarks of Teva Pharmaceuticals USA, Inc.
+
 Manufactured For:
 
-TEVA PHARMACEUTICALS USA, INC.
+Teva Pharmaceuticals USA, Inc.
 
 North Wales, PA 19454
 
 Rev.
-S 2/2016
+T 9/2017
 
 PHARMACIST - DETACH HERE AND GIVE INSTRUCTIONS TO PATIENT
 
