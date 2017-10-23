@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA021794"
+  ],
+  "inn": "dapsone",
+  "labeler": "Pacific Pharma",
+  "package_ndcs": [
+    "60758-670-30",
+    "60758-670-60",
+    "60758-670-90"
+  ],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "dapsone",
+      "name": "DAPSONE"
+    }
+  ],
+  "setid": "8dbe1a41-6d9d-414f-aa9c-09bd95857e2a",
+  "source": "dailymed"
+}
