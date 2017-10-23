@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA208751"
+  ],
+  "inn": "insulin-aspart",
+  "labeler": "Novo Nordisk",
+  "package_ndcs": [
+    "0169-3201-11",
+    "0169-3201-90",
+    "0169-3204-15",
+    "0169-3204-97"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "insulin aspart injection",
+      "name": "Fiasp"
+    }
+  ],
+  "setid": "834e7efc-393f-4c55-9125-628562a8a5cf",
+  "source": "dailymed"
+}

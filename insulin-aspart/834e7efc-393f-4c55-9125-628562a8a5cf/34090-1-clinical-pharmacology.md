@@ -1,0 +1,61 @@
+# 12 CLINICAL PHARMACOLOGY
+
+## 12.1 Mechanism of Action
+
+The primary activity of FIASP is the regulation of glucose metabolism.
+Insulins, including insulin aspart, the active ingredient in FIASP, exert their specific action through binding to insulin receptors.
+Receptor-bound insulin lowers blood glucose by facilitating cellular uptake of glucose into skeletal muscle and adipose tissue and by inhibiting the output of glucose from the liver.
+Insulin inhibits lipolysis in the adipocyte, inhibits proteolysis, and enhances protein synthesis.
+
+## 12.2 Pharmacodynamics
+
+The time course of insulin action (i.e., glucose lowering) may vary considerably in different individuals or within the same individual.
+The average pharmacodynamic profile [i.e., glucose lowering effect measured as glucose infusion rate (GIR) in a euglycemic clamp study] for subcutaneous administration of 0.1, 0.2, and 0.4 unit/kg of FIASP in 46 patients with Type 1 diabetes is shown in Figure 2 and key characteristics of the timing of the effect are described in Table 5 below.
+
+Table 5.
+Timing of insulin effect (i.e., mean pharmacodynamic effect) after subcutaneous administration of 0.1, 0.2 and 0.4 unit/kg of FIASP in patients (N=46) with Type 1 Diabetes and corresponding to the data shown in Figure 2
+
+| Parameter for Insulin Effect | FIASP0.1 unit/kg | FIASP0.2 unit/kg | FIASP0.4 unit/kg |
+| --- | --- | --- | --- |
+| Time to first measurable effect | ~20 minutes | ~17 minutes | ~16 minutes |
+| Time to peak effect | ~91 minutes | ~122 minutes | ~133 minutes |
+| Time for effect to return to baseline | ~5 hours | ~6 hours | ~7 hours |
+
+Figure 2.
+Mean insulin effect (i.e., mean pharmacodynamic effect) over time after subcutaneous administration of 0.1, 0.2 and 0.4 unit/kg of FIASP in patients (N=46) with Type 1 diabetes
+
+On average, the pharmacodynamic effects of FIASP, measured as area under the glucose infusion rate-time curve (AUCGIR), was 697 mg/kg, 1406 mg/kg, and 2427 mg/kg following administration of 0.1, 0.2, and 0.4 unit/kg of FIASP.
+
+The day-to-day variability in glucose-lowering-effect of FIASP within patients was ~18% for total glucose lowering (AUCGIR, 0-12h) and ~19% for maximum glucose lowering effect (GIRmax).
+
+## 12.3 Pharmacokinetics
+
+Absorption
+
+Pharmacokinetic results from a euglycemic clamp study in adult patients with type 1 diabetes (N=51) showed that insulin aspart appeared in the circulation ~2.5 minutes after administration of FIASP (Figure 3).
+Time to maximum insulin concentrations was achieved ~63 minutes after administration of FIASP.
+
+Figure 3.
+Mean Insulin Aspart Serum Concentration Profile in Adult Subjects with Type 1 Diabetes (N=51) following a single 0.2 unit/kg dose (subcutaneous) of FIASP
+
+Total insulin exposure and maximum insulin concentration increase proportionally with increasing subcutaneous dose of FIASP within the therapeutic dose range.
+
+Distribution
+
+Insulin aspart has a low binding affinity to plasma proteins (<10%), similar to that seen with regular human insulin.
+
+Elimination
+
+The apparent terminal half-life after subcutaneous administration of FIASP is about 1.1 hours.
+
+Specific Populations
+
+Age (18 to ≥65 years), gender, BMI, and race did not meaningfully affect the pharmacokinetics and pharmacodynamics of FIASP.
+
+Pregnant Women
+
+The effect of pregnancy on the pharmacokinetics and pharmacodynamics of FIASP has not been studied [see Use in Specific Populations (8.1)].
+
+Patients with Renal and Hepatic Impairment
+
+Based on studies conducted with insulin aspart, renal and hepatic impairment is not known to impact the pharmacokinetics of insulin aspart.
