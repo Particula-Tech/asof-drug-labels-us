@@ -10,7 +10,7 @@ Angina Dosages for the treatment of angina should be adjusted to each patient's 
 Individual patients may respond to higher doses of up to 540 mg once daily.
 When necessary, titration should be carried out over 7 to 14 days.
 
-## Concomitant use with Other Cardiovascular Agents
+## Concomitant Use with Other Cardiovascular Agents:
 
 1.
 Sublingual Nitroglycerin (NTG): May be taken as required to abort acute anginal attacks during diltiazem hydrochloride therapy.
@@ -28,7 +28,7 @@ Therefore, the dosage of diltiazem hydrochloride or the concomitant antihyperten
 Hypertensive or anginal patients who are treated with other formulations of diltiazem can safely be switched to diltiazem hydrochloride extended-release capsules at the nearest equivalent total daily dose.
 Subsequent titration to higher or lower doses may, however, be necessary and should be initiated as clinically indicated.
 
-## Sprinkling the Capsule Contents on Food
+## Sprinkling the Capsule Contents on Food:
 
 Diltiazem hydrochloride extended-release capsules may also be administered by carefully opening the capsule and sprinkling the capsule contents on a spoonful of applesauce.
 The applesauce should be swallowed immediately without chewing and followed with a glass of cool water to ensure complete swallowing of the capsule contents.

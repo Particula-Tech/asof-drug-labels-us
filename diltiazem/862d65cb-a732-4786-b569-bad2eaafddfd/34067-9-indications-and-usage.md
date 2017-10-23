@@ -3,7 +3,7 @@
 ## Hypertension
 
 Diltiazem hydrochloride extended-release capsules are indicated for the treatment of hypertension.
-It may be used alone or in combination with other antihypertensive medications.
+They may be used alone or in combination with other antihypertensive medications.
 
 ## Chronic Stable Angina
 

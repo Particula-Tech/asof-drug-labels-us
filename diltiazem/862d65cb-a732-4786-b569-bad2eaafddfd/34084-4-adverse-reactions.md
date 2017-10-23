@@ -1,6 +1,6 @@
 # ADVERSE REACTIONS
 
-Serious adverse reactions have been rare in studies with diltiazem hydrochloride extended-release capsules as well as with other diltiazem formulations.
+Serious adverse reactions have been rare in studies with diltiazem hydrochloride extended-release capsules, as well as with other diltiazem formulations.
 It should be recognized that patients with impaired ventricular function and cardiac conduction abnormalities have usually been excluded from these studies.
 A total of 256 hypertensives were treated for between 4 and 8 weeks; a total of 207 patients with chronic stable angina were treated for 3 weeks with doses of diltiazem hydrochloride extended-release capsules ranging from 120 to 540 mg once daily.
 Two patients experienced first-degree AV block at the 540 mg dose.
