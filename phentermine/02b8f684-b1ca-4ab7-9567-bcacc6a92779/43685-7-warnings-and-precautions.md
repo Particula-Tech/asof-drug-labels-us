@@ -8,10 +8,10 @@ Therefore, coadministration of phentermine and these drug products is not recomm
 
 ## 5.2 Primary Pulmonary Hypertension
 
-Primary Pulmonary Hypertension (PPH) – a rare, frequently fatal disease of the lungs – has been reported to occur in patients receiving a combination of phentermine with fenfluramine or dexfenfluramine.
+Primary Pulmonary Hypertension (PPH) – a rare, frequently fatal disease of the lungs has been reported to occur in patients receiving a combination of phentermine with fenfluramine or dexfenfluramine.
 The possibility of an association between PPH and the use of phentermine alone cannot be ruled out; there have been rare cases of PPH in patients who reportedly have taken phentermine alone.
 The initial symptom of PPH is usually dyspnea.
-Other initial symptoms include angina pectoris, syncope or lower extremity edema.
+Other initial symptoms may include angina pectoris, syncope or lower extremity edema.
 Patients should be advised to report immediately any deterioration in exercise tolerance.
 Treatment should be discontinued in patients who develop new, unexplained symptoms of dyspnea, angina pectoris, syncope or lower extremity edema, and patients should be evaluated for the possible presence of pulmonary hypertension.
 
@@ -31,7 +31,7 @@ Phentermine may impair the ability of the patient to engage in potentially hazar
 
 ## 5.6 Risk of Abuse and Dependence
 
-Phentermine is related chemically and pharmacologically to amphetamine (d- and d/l-amphetamine) and other related stimulant drugs have been extensively abused.
+Phentermine is related chemically and pharmacologically to amphetamine (d- and d/l-amphetamine) and to other related stimulant drugs that have been extensively abused.
 The possibility of abuse of phentermine should be kept in mind when evaluating the desirability of including a drug as part of a weight reduction program.
 See Drug Abuse and Dependence (9) and Overdosage (10).
 

@@ -2,9 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects
-
-Pregnancy category X
+Pregnancy Category X
 
 Phentermine is contraindicated during pregnancy because weight loss offers no potential benefit to a pregnant woman and may result in fetal harm.
 A minimum weight gain, and no weight loss, is currently recommended for all pregnant women, including those who are already overweight or obese, due to obligatory weight gain that occurs in maternal tissues during pregnancy.
