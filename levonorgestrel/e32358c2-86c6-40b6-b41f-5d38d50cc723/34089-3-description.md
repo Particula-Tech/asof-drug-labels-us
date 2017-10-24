@@ -1,10 +1,10 @@
 # 11 DESCRIPTION
 
-LILETTA (levonorgestrel-releasing intrauterine system) contains 52 mg of levonorgestrel, a progestin, and is intended to provide an initial release rate of 18.6 mcg/day of levonorgestrel.
+LILETTA (levonorgestrel-releasing intrauterine system) contains 52 mg of levonorgestrel, a progestin, and is intended to provide an initial release rate of 19.5 mcg/day of levonorgestrel.
 
 Levonorgestrel USP, (-)-13-ethyl-17-hydroxy-18,19-dinor-17α-pregn-4-en-20-yn-3-one, the active ingredient in LILETTA, has a molecular weight of 312.45, a molecular formula of C21H28O2, and the following structural formula:
 
-## 11.1 LILETTA
+## 11.1LILETTA
 
 LILETTA consists of a T-shaped polyethylene frame (T-frame) with a drug reservoir around the vertical stem (Figure 14).
 The T-frame has a loop at one end of the vertical stem and two horizontal arms at the other end.
@@ -15,15 +15,8 @@ A blue polypropylene monofilament removal thread is attached to an eyelet at the
 The polypropylene of the removal thread contains a copper-containing pigment as a colorant.
 The components of LILETTA, including its packaging, are not manufactured using natural rubber latex.
 
-Figure 14: Diagram of LILETTA
-
-| IUS Components – Unassembled | LILETTA IUS |
-| --- | --- |
-
-## 11.2 Inserter
+## 11.2Inserter
 
 The inserter device provided with LILETTA is a single-use, disposable, sterile insertion system (tube, flange, rod; Figure 15), partially preloaded with the IUS product for intrauterine administration.
 
 Once LILETTA has been inserted, the inserter is discarded.
-
-Figure 15: Diagram of Inserter

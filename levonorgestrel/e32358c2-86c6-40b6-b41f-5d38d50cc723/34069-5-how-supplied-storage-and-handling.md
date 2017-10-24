@@ -1,4 +1,4 @@
-# 16 HOW SUPPLIED/STORAGE AND HANDLING
+# 16HOW SUPPLIED/STORAGE AND HANDLING
 
 LILETTA (levonorgestrel-releasing intrauterine system), containing 52 mg levonorgestrel, is packaged together with an inserter in a peelable pouch, and is available in a carton of one sterile unit.
 NDC # 52544-035-54.
