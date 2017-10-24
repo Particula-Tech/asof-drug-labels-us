@@ -80,7 +80,7 @@ Neonatal Opioid Withdrawal Syndrome
 
 Advise women that if they are pregnant while being treated with PROBUPHINE, the baby may have signs of withdrawal at birth and that withdrawal is treatable [see Warnings and Precautions (5.5), Use in Specific Populations (8.1)].
 
-Embryofetal Toxicity
+Embryo Fetal Toxicity
 
 Advise women of childbearing potential who become pregnant or are planning to become pregnant to consult their healthcare provider regarding the possible effects of using PROBUPHINE during pregnancy [see Use in Specific Populations (8.1)].
 

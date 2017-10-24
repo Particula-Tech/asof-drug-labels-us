@@ -70,7 +70,7 @@ Unlike opioid withdrawal syndrome in adults, NOWS may be life-threatening if not
 Healthcare professionals should observe newborns for signs of NOWS and manage accordingly [see Use in Specific Populations (8.1)].
 
 Advise pregnant women receiving opioid addiction treatment with PROBUPHINE of the risk of neonatal opioid withdrawal syndrome and ensure that appropriate treatment will be available [see Use in Specific Populations 8.1].
-This risk must be balanced against the risk of untreated opioid addiction which often results in continued or relapsing illicit opioid use and is associated with poor pregnancy outcomes.
+This risk must be balanced against the risk of untreated opioid addiction, which often results in continued or relapsing illicit opioid use and is associated with poor pregnancy outcomes.
 Therefore, prescribers should discuss the importance and benefits of management of opioid addiction throughout pregnancy.
 
 ## 5.6. Adrenal Insufficiency

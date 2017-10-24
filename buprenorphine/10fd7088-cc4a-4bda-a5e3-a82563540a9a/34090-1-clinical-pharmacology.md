@@ -7,7 +7,7 @@ Buprenorphine is a partial agonist at the mu- opioid receptor and an antagonist 
 
 ## 12.2. Pharmacodynamics
 
-Four PROBUPHINE implants deliver circulating drug blood levels comparable to the average plasma concentrations observed following daily doses of:: 8 mg Subutex or Suboxone tablet equivalent.
+Four PROBUPHINE implants deliver circulating drug blood levels comparable to the average plasma concentrations observed following daily doses of 8 mg Subutex or Suboxone tablet equivalent.
 
 Subjective Effects
 

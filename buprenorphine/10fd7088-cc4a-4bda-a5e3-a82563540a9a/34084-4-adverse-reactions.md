@@ -78,7 +78,7 @@ Table 1: Adverse events (≥ 5% in the PROBUPHINE arm and more than in Placebo/S
 | Dizziness | 11 (4) | 7 (2) |
 | Somnolence | 9 (3) | 1 (0.3) |
 | Sedation | 3 (1) | 0 |
-| Paraesthesia | 2 (1) | 0 |
+| Paresthesia | 2 (1) | 0 |
 | PSYCHIATRIC DISORDERS |  |  |
 | DEPRESSED MOOD DISORDERS AND DISTURBANCES | 20 (6) | 13 (4) |
 | Depression | 20 (6) | 10 (3) |
