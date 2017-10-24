@@ -2,21 +2,27 @@
 
 Verapamil Hydrochloride Extended-Release Capsules, USP are available containing 120 mg, 180 mg or 240 mg of verapamil hydrochloride, USP.
 
-The 120 mg capsule is a bluish green opaque cap/white opaque body, hard-shell gelatin capsule filled with white to off-white beads.
+The 120 mg capsule is a hard-shell gelatin capsule with a bluish green opaque cap and white opaque body filled with white to off-white beads.
 The capsule is radially printed with MYLAN over 6320 in black ink on both the cap and the body.
 They are available as follows:
 
+NDC 0378-6320-77 bottles of 90 capsules
+
 NDC 0378-6320-01 bottles of 100 capsules
 
-The 180 mg capsule is a bluish green opaque cap/light green opaque body, hard-shell gelatin capsule filled with white to off-white beads.
+The 180 mg capsule is a hard-shell gelatin capsule with a bluish green opaque cap and light green opaque body filled with white to off-white beads.
 The capsule is radially printed with MYLAN over 6380 in black ink on both the cap and the body.
 They are available as follows:
 
+NDC 0378-6380-77 bottles of 90 capsules
+
 NDC 0378-6380-01 bottles of 100 capsules
 
-The 240 mg capsule is a bluish green opaque cap/bluish green opaque body, hard-shell gelatin capsule filled with white to off-white beads.
+The 240 mg capsule is a hard-shell gelatin capsule with a bluish green opaque cap and bluish green opaque body filled with white to off-white beads.
 The capsule is radially printed with MYLAN over 6440 in black ink on both the cap and the body.
 They are available as follows:
+
+NDC 0378-6440-77 bottles of 90 capsules
 
 NDC 0378-6440-01 bottles of 100 capsules
 
@@ -36,4 +42,4 @@ You may report side effects to Mylan Pharmaceuticals Inc. at 1-877-446-3679 (1-8
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Revised: 1/2017 CVERER:R14
+Revised: 10/2017 CVERER:R15

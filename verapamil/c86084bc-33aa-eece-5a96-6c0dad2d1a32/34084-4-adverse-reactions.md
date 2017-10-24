@@ -1,6 +1,6 @@
 # ADVERSE REACTIONS
 
-Serious adverse reactions are uncommon when verapamil hydrochloride therapy is initiated with upward dose titration within the recommended single and total daily dose.
+Serious adverse reactions are uncommon when verapamil HCl therapy is initiated with upward dose titration within the recommended single and total daily dose.
 See WARNINGS for discussion of heart failure, hypotension, elevated liver enzymes, AV block, and rapid ventricular response.
 Reversible (upon discontinuation of verapamil) non-obstructive, paralytic ileus has been infrequently reported in association with the use of verapamil.
 
@@ -17,7 +17,7 @@ In clinical trials involving 285 hypertensive patients on verapamil hydrochlorid
 | Sleep Disturbance | 1.4% |
 | Myalgia | 1.1% |
 
-In clinical trials of other formulations of verapamil hydrochloride (N = 4,954) the following reactions have occurred at rates greater than 1.0%:
+In clinical trials of other formulations of verapamil HCl (N = 4,954) the following reactions have occurred at rates greater than 1.0%:
 
 | Constipation | 7.3% |
 | --- | --- |
@@ -33,7 +33,7 @@ In clinical trials of other formulations of verapamil hydrochloride (N = 4,954) 
 | Headache | 2.2% |
 | Flushing | 0.6% |
 | Rash | 1.2% |
-| Elevated Liver Enzymes (See WARNINGS.) |  |
+| Elevated Liver Enzymes (see WARNINGS) |  |
 
 In clinical trials related to the control of ventricular response in digitalized patients who had atrial fibrillation or atrial flutter, ventricular rate below 50/min at rest occurred in 15% of patients and asymptomatic hypotension occurred in 5% of patients.
 
@@ -58,7 +58,7 @@ Urogenital: gynecomastia, impotence, increased urination, spotty menstruation.
 ## Treatment of Acute Cardiovascular Adverse Reactions
 
 The frequency of cardiovascular adverse reactions which require therapy is rare; hence, experience with their treatment is limited.
-Whenever severe hypotension or complete AV block occurs following oral administration of verapamil, the appropriate emergency measures should be applied immediately, e.g., intravenously administered isoproterenol hydrochloride, levarterenol bitartrate, atropine (all in the usual doses), or calcium gluconate (10% solution).
+Whenever severe hypotension or complete AV block occurs following oral administration of verapamil, the appropriate emergency measures should be applied immediately, e.g., intravenously administered isoproterenol HCl, levarterenol bitartrate, atropine (all in the usual doses), or calcium gluconate (10% solution).
 In patients with hypertrophic cardiomyopathy (IHSS), alpha-adrenergic agents (phenylephrine, metaraminol bitartrate or methoxamine) should be used to maintain blood pressure, and isoproterenol and levarterenol should be avoided.
 If further support is necessary, inotropic agents (dopamine or dobutamine) may be administered.
 Actual treatment and dosage should depend on the severity and the clinical situation and the judgment and experience of the treating physician.

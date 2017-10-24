@@ -2,31 +2,31 @@
 
 Verapamil hydrochloride extended-release capsules are a calcium ion influx inhibitor (slow channel blocker or calcium ion antagonist) which exerts its pharmacologic effects by modulating the influx of ionic calcium across the cell membrane of the arterial smooth muscle as well as in conductile and contractile myocardial cells.
 
-Normal sinus rhythm is usually not affected by verapamil hydrochloride.
-However in patients with sick sinus syndrome, verapamil hydrochloride may interfere with sinus node impulse generation and may induce sinus arrest or sinoatrial block.
+Normal sinus rhythm is usually not affected by verapamil HCl.
+However in patients with sick sinus syndrome, verapamil HCl may interfere with sinus node impulse generation and may induce sinus arrest or sinoatrial block.
 Atrioventricular block can occur in patients without preexisting conduction defects.
 (See WARNINGS.)
-Verapamil hydrochloride does not alter the normal atrial action potential or intraventricular conduction time, but depresses amplitude, velocity of depolarization and conduction in depressed atrial fibers.
-Verapamil hydrochloride may shorten the antegrade effective refractory period of accessory bypass tracts.
+Verapamil HCl does not alter the normal atrial action potential or intraventricular conduction time, but depresses amplitude, velocity of depolarization and conduction in depressed atrial fibers.
+Verapamil HCl may shorten the antegrade effective refractory period of accessory bypass tracts.
 Acceleration of ventricular rate and/or ventricular fibrillation has been reported in patients with atrial flutter or atrial fibrillation and a coexisting accessory AV pathway following administration of verapamil.
 (See WARNINGS.)
 
-Verapamil hydrochloride has a local anesthetic action that is 1.6 times that of procaine on an equimolar basis.
+Verapamil HCl has a local anesthetic action that is 1.6 times that of procaine on an equimolar basis.
 It is not known whether this action is important at the doses used in man.
 
 ## Mechanism of Action
 
 ### Essential Hypertension
 
-Verapamil hydrochloride exerts antihypertensive effects by decreasing systemic vascular resistance, usually without orthostatic decreases in blood pressure or reflex tachycardia; bradycardia (rate less than 50 beats/minute is uncommon).
-Verapamil hydrochloride regularly reduces arterial pressure at rest and at a given level of exercise by dilating peripheral arterioles and reducing the total peripheral resistance (afterload) against which the heart works.
+Verapamil HCl exerts antihypertensive effects by decreasing systemic vascular resistance, usually without orthostatic decreases in blood pressure or reflex tachycardia; bradycardia (rate less than 50 beats/minute is uncommon).
+Verapamil HCl regularly reduces arterial pressure at rest and at a given level of exercise by dilating peripheral arterioles and reducing the total peripheral resistance (afterload) against which the heart works.
 
 ## Pharmacokinetics and Metabolism
 
-With the immediate-release formulations, more than 90% of the orally administered dose is absorbed, and peak plasma concentrations of verapamil are observed 1 to 2 hours after dosing.
+With the immediate release formulations, more than 90% of the orally administered dose is absorbed, and peak plasma concentrations of verapamil are observed 1 to 2 hours after dosing.
 Because of rapid biotransformation of verapamil during its first pass through the portal circulation, the absolute bioavailability ranges from 20% to 35%.
 Chronic oral administration of the highest recommended dose (120 mg every 6 hours) resulted in plasma verapamil levels ranging from 125 to 400 ng/mL with higher values reported occasionally.
-A nonlinear correlation between the verapamil hydrochloride dose administered and verapamil plasma levels does exist.
+A nonlinear correlation between the verapamil HCl dose administered and verapamil plasma levels does exist.
 
 During initial dose titration with verapamil a relationship exists between verapamil plasma concentrations and the prolongation of the PR interval.
 However, during chronic administration this relationship may disappear.
@@ -35,7 +35,7 @@ The quantitative relationship between plasma verapamil concentrations and blood 
 In a multiple dose pharmacokinetic study, peak concentrations for a single daily dose of verapamil hydrochloride extended-release capsules 240 mg were approximately 65% of those obtained with an 80 mg t.i.d. dose of the conventional immediate-release tablets, and the 24 hour post-dose concentrations were approximately 30% higher.
 At a total daily dose of 240 mg, verapamil hydrochloride extended-release capsules were shown to have a similar extent of verapamil bioavailability based on the AUC-24 as that obtained with the conventional immediate-release tablets.
 In this same study verapamil hydrochloride extended-release capsules doses of 120 mg, 240 mg and 360 mg once daily were compared after multiple doses.
-The ratios of the verapamil and norverapamil AUCs for the verapamil hydrochloride extended-release capsules 120 mg, 240 mg and 360 mg once daily doses are 1 (565 ng•hr/mL):3 (1660 ng•hr/mL):5 (2729 ng•hr/mL) and 1 (621 ng•hr/mL):3 (1614 ng•hr/mL):4 (2535 ng•hr/mL), respectively, indicating that the AUC increased non-proportionately with increasing doses.
+The ratios of the verapamil and norverapamil AUCs for the verapamil hydrochloride extended-release capsules 120 mg, 240 mg and 360 mg once daily doses are 1 (565 ng•hr/mL):3 (1660 ng•hr/mL):5 (2729 ng•hr/mL) and 1 (621 ng•hr/mL):3 (1614 ng•hr/mL):4 (2535 ng•hr/mL) respectively, indicating that the AUC increased non-proportionately with increasing doses.
 
 Food does not affect the extent or rate of the absorption of verapamil from the controlled release verapamil hydrochloride extended-release capsule.
 The verapamil hydrochloride extended-release 240 mg capsule when administered with food had a Cmax of 77 ng/mL which occurred 9.0 hours after dosing, and an AUC(0-inf) of 1387 ng•hr/mL.
@@ -46,17 +46,17 @@ Comparative ratios (sprinkled/intact) of verapamil were 0.95, 1.02, and 1.01 for
 When the contents of the verapamil hydrochloride extended-release capsule were administered by sprinkling onto one tablespoonful of applesauce, the rate and extent of verapamil absorption were found to be bioequivalent to the same dose when administered as an intact capsule.
 Similar results were observed with norverapamil.
 
-The time to reach maximum verapamil concentrations (Tmax) with verapamil hydrochloride extended-release capsules have been found to be approximately 7 to 9 hours in each of the single dose (fasting), single dose (fed), the multiple dose (steady-state) studies and dose proportionality pharmacokinetic studies.
+The time to reach maximum verapamil concentrations (Tmax) with verapamil hydrochloride extended-release capsules have been found to be approximately 7-9 hours in each of the single dose (fasting), single dose (fed), the multiple dose (steady state) studies and dose proportionality pharmacokinetic studies.
 Similarly the apparent half-life (t1/2) has been found to be approximately 12 hours independent of dose.
 Aging may affect the pharmacokinetics of verapamil.
 Elimination half-life may be prolonged in the elderly.
 
-In healthy man, orally administered verapamil hydrochloride undergoes extensive metabolism in the liver.
+In healthy man, orally administered verapamil HCl undergoes extensive metabolism in the liver.
 Twelve metabolites have been identified in plasma; all except norverapamil are present in trace amounts only.
 Norverapamil can reach steady-state plasma concentrations approximately equal to those of verapamil itself.
 The biologic activity of norverapamil appears to be approximately 20% that of verapamil.
 
-Approximately 70% of an administered dose of verapamil hydrochloride is excreted as metabolites in the urine and 16% or more in the feces within 5 days.
+Approximately 70% of an administered dose of verapamil HCl is excreted as metabolites in the urine and 16% or more in the feces within 5 days.
 About 3% to 4% is excreted in the urine as unchanged drug.
 Approximately 90% is bound to plasma proteins.
 In patients with hepatic insufficiency, metabolism is delayed and elimination half-life prolonged up to 14 to 16 hours (see PRECAUTIONS), the volume of distribution is increased and plasma clearance reduced to about 30% of normal.
@@ -72,18 +72,18 @@ Verapamil AUCs were positively correlated (r = 0.71) to increased ethanol blood 
 
 ## Geriatric Use
 
-The pharmacokinetics of verapamil GITS were studied after 5 consecutive nights of dosing 180 mg in 30 healthy young (19 to 43 years) versus 30 healthy elderly (65 to 80 years) male and female subjects.
+The pharmacokinetics of verapamil GITS were studied after 5 consecutive nights of dosing 180 mg in 30 healthy young (19-43 years) versus 30 healthy elderly (65-80 years) male and female subjects.
 Older subjects had significantly higher mean verapamil Cmax, Cmin and AUC(0-24h) compared to younger subjects.
-Older subjects had mean AUCs that were approximately 1.7 to 2.0 times higher than those of younger subjects as well as a longer average verapamil t1/2 (approximately 20 hr vs 13 hr).
+Older subjects had mean AUCs that were approximately 1.7-2.0 times higher than those of younger subjects as well as a longer average verapamil t1/2 (approximately 20 hr vs 13 hr).
 
 ## Hemodynamics and Myocardial Metabolism
 
-Verapamil hydrochloride reduces afterload and myocardial contractility.
-Improved left ventricular diastolic function in patients with IHSS and those with coronary heart disease has also been observed with verapamil hydrochloride therapy.
-In most patients, including those with organic cardiac disease, the negative inotropic action of verapamil hydrochloride is countered by reduction of afterload and cardiac index is usually not reduced.
+Verapamil HCl reduces afterload and myocardial contractility.
+Improved left ventricular diastolic function in patients with IHSS and those with coronary heart disease has also been observed with verapamil HCl therapy.
+In most patients, including those with organic cardiac disease, the negative inotropic action of verapamil HCl is countered by reduction of afterload and cardiac index is usually not reduced.
 In patients with severe left ventricular dysfunction however, (e.g., pulmonary wedge pressure above 20 mmHg or ejection fraction lower than 30%), or in patients on beta-adrenergic blocking agents or other cardiodepressant drugs, deterioration of ventricular function may occur.
 (See PRECAUTIONS: Drug Interactions.)
 
 ## Pulmonary Function
 
-Verapamil hydrochloride does not induce broncho-constriction and hence, does not impair ventilatory function.
+Verapamil HCl does not induce broncho-constriction and hence, does not impair ventilatory function.

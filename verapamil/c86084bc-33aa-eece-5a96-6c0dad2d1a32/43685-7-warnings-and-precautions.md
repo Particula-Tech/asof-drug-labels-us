@@ -37,7 +37,7 @@ The effect of verapamil on AV conduction and the SA node may lead to asymptomati
 PR interval prolongation is correlated with verapamil plasma concentrations, especially during the early titration phase of therapy.
 Higher degrees of AV block, however, were infrequently (0.8%) observed.
 
-Marked first-degree block or progressive development to second- or third-degree AV block requires a reduction in dosage or, in rare instances, discontinuation of verapamil hydrochloride and institution of appropriate therapy depending upon the clinical situation.
+Marked first-degree block or progressive development to second- or third-degree AV block requires a reduction in dosage or, in rare instances, discontinuation of verapamil HCl and institution of appropriate therapy depending upon the clinical situation.
 
 ## Patients with Hypertrophic Cardiomyopathy (IHSS)
 
@@ -186,7 +186,7 @@ Variable results on clearance have been obtained in acute studies of healthy vol
 
 Grapefruit juice may significantly increase concentrations of verapamil.
 Grapefruit juice given to nine healthy volunteers increased S- and R-verapamil AUC(0-12) by 36% and 28%, respectively.
-Steady-state Cmax and Cmin of S-verapamil increased by 57% and 16.7%, respectively with grapefruit juice compared to control.
+Steady state Cmax and Cmin of S-verapamil increased by 57% and 16.7%, respectively with grapefruit juice compared to control.
 Similarly, Cmax and Cmin of R-verapamil increased by 40% and 13%, respectively.
 Grapefruit juice did not affect half-life, nor was there a significant change in AUC(0-12) ratio R/S compared to control.
 Grapefruit juice did not cause a significant difference in the PK of norverapamil.
@@ -229,7 +229,7 @@ It may be necessary to decrease the dose of verapamil and/or the dose of the neu
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 An 18-month toxicity study in rats, at a low multiple (6 fold) of the maximum recommended human dose, and not the maximum tolerated dose, did not suggest a tumorigenic potential.
-There was no evidence of a carcinogenic potential of verapamil administered in the diet of rats for two years at doses of 10 mg/kg per day, 35 mg/kg per day and 120 mg/kg per day or approximately 1 time, 3.5 times and 12 times, respectively, the maximum recommended human daily dose (480 mg per day or 9.6 mg/kg/day).
+There was no evidence of a carcinogenic potential of verapamil administered in the diet of rats for two years at doses of 10, 35 and 120 mg/kg per day or approximately 1 x, 3.5 x and 12 x, respectively, the maximum recommended human daily dose (480 mg per day or 9.6 mg/kg/day).
 
 Verapamil was not mutagenic in the Ames test in 5 test strains at 3 mg per plate, with or without metabolic activation.
 
@@ -250,7 +250,7 @@ Verapamil crosses the placental barrier and can be detected in umbilical vein bl
 ## Labor and Delivery
 
 It is not known whether the use of verapamil during labor or delivery has immediate or delayed adverse effects on the fetus, or whether it prolongs the duration of labor or increases the need for forceps delivery or other obstetric intervention.
-Such adverse experiences have not been reported in the literature, despite a long history of use of verapamil hydrochloride in Europe in the treatment of cardiac side effects of beta-adrenergic agonist agents used to treat premature labor.
+Such adverse experiences have not been reported in the literature, despite a long history of use of verapamil HCl in Europe in the treatment of cardiac side effects of beta-adrenergic agonist agents used to treat premature labor.
 
 ## Nursing Mothers
 

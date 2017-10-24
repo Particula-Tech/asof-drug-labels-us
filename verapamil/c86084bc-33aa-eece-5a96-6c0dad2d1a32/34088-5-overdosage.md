@@ -6,7 +6,7 @@ Reported effects include hypotension, bradycardia, cardiac conduction defects, a
 In addition, there have been literature reports of non-cardiogenic pulmonary edema in patients taking large overdoses of verapamil (up to approximately 9 g).
 
 In acute overdosage, gastrointestinal decontamination with cathartics and whole bowel irrigation should be considered.
-Calcium, inotropes (i.e., isoproterenol, dopamine, and glucagon), atropine, vasopressors (i.e., norepinephrine and epinephrine), and cardiac pacing have been used with variable results to reverse hypotension and myocardial depression.
+Calcium, inotropes (i.e., isoproterenol, dopamine, and glucagon), atropine, vasopressors (i.e., norepinephrine, and epinephrine), and cardiac pacing have been used with variable results to reverse hypotension and myocardial depression.
 In a few reported cases, overdose with calcium channel blockers that was initially refractory to atropine became more responsive to this treatment when the patients received large doses (close to 1 g/hour for more than 24 hours) of calcium chloride.
 Calcium chloride is preferred to calcium gluconate since it provides 3 times more calcium per volume.
 Asystole should be handled by the usual measures including cardiopulmonary resuscitation.
