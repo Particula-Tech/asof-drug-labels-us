@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA016151"
+  ],
+  "inn": "methenamine",
+  "labeler": "Alvogen Inc.",
+  "package_ndcs": [
+    "47781-577-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "methenamine hippurate",
+      "name": "Methenamine Hippurate"
+    }
+  ],
+  "setid": "bc95972d-3db2-122a-0d1c-d7080c251445",
+  "source": "dailymed"
+}
