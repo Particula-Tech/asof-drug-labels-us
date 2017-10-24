@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA018333"
+  ],
+  "inn": "sucralfate",
+  "labeler": "Greenstone LLC",
+  "package_ndcs": [
+    "59762-0401-1",
+    "59762-0401-5"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "sucralfate",
+      "name": "Sucralfate"
+    }
+  ],
+  "setid": "ae58c382-c1cf-4ebf-9c97-bdff0682df8b",
+  "source": "dailymed"
+}
