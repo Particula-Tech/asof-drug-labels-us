@@ -38,8 +38,9 @@ Daily Efficacy Measurements in Two 12-Week Clinical Trials (Combined Data)
 | 1.6b | 2.2 | 3.3 |  |  |
 | Asthma exacerbations (%) |  | 15 | 16 | 14 |
 
-1. a Statistically superior to placebo and albuterol (P <0.001).
-2. b Statistically superior to placebo (P <0.001).
+aStatistically superior to placebo and albuterol (P<0.001).
+
+bStatistically superior to placebo (P<0.001).
 
 Maintenance of efficacy for periods up to 1 year has been documented.
 

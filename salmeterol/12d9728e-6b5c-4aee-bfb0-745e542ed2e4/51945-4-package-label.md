@@ -22,10 +22,10 @@ Rx only
 
 Made in Singapore
 
-©2015, the GSK group of companies
+©2017 the GSK group of companies
 
-1. DEVCOMP-0004253 Rev.
-   8/15
+1. 10000000144242 Rev.
+   1/17
 
 PRINCIPAL DISPLAY PANEL
 
@@ -53,7 +53,7 @@ Rx only
 
 Made in Singapore
 
-©2015, the GSK group of companies
+©2017 the GSK group of companies
 
-1. DEVCOMP-0004252 Rev.
-   8/15
+1. 10000000144241 Rev.
+   1/17

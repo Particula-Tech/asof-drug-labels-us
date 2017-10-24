@@ -100,7 +100,7 @@ Adverse Reactions with SEREVENT DISKUS with ≥3% Incidence in U.S. Controlled C
 | Dizziness | 4 | 2 |
 | Average duration of exposure (days) | 138.5 | 128.9 |
 
-1. a Table 3 includes all events (whether considered drug-related or nondrug-related by the investigator) that occurred at a rate of greater than or equal to 3% in the group receiving SEREVENT DISKUS and were more common in the group receiving SEREVENT DISKUS than in the placebo group.
+aTable 3 includes all events (whether considered drug-related or nondrug-related by the investigator) that occurred at a rate of greater than or equal to 3% in the group receiving SEREVENT DISKUS and were more common in the group receiving SEREVENT DISKUS than in the placebo group.
 
 Additional Adverse Reactions
 

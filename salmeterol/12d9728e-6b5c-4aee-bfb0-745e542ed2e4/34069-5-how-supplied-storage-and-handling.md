@@ -5,7 +5,7 @@ The inhaler is packaged in a plastic-coated, moisture-protective foil pouch (NDC
 
 SEREVENT DISKUS is also supplied in an institutional pack containing 28 blisters (NDC 0173-0520-00).
 
-Store at room temperature between 68°F and 77°F) (20°C and 25°C); excursions permitted from 59°F to 86°F (15°C to 30°C) [See USP Controlled Room Temperature].
+Store at room temperature between 68°F and 77°F (20°C and 25°C); excursions permitted from 59°F to 86°F (15°C to 30°C) [See USP Controlled Room Temperature].
 Store in a dry place away from direct heat or sunlight.
 Keep out of reach of children.
 
