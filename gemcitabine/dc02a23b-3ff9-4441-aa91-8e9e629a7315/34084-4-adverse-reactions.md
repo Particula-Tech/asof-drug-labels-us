@@ -83,7 +83,7 @@ Early use of supportive care measures may help ameliorate these conditions.
 Edema - Edema (13%), peripheral edema (20%), and generalized edema (<1%) were reported.
 Less than 1% of patients discontinued due to edema.
 
-Flu-like Symptoms - “Flu syndrome” was reported for 19% of patients.
+Flu-like Symptoms - "Flu syndrome" was reported for 19% of patients.
 Individual symptoms of fever, asthenia, anorexia, headache, cough, chills, and myalgia were commonly reported.
 Fever and asthenia were also reported frequently as isolated symptoms.
 Insomnia, rhinitis, sweating, and malaise were reported infrequently.
