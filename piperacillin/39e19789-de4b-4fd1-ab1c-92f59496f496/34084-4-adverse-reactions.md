@@ -50,9 +50,8 @@ Table 4: Adverse Reactions from Piperacillin and Tazobactam for Injection Plus A
 | Vascular disorders Thrombophlebitis (1.3%) Hypotension (1.3%) |  |  |  |  |  |  |  |  |  |  |  |
 | a For adverse drug reactions that appeared in both studies the higher frequency is presented. |  |  |  |  |  |  |  |  |  |  |  |
 
-Pediatrics
-
-Studies of piperacillin and tazobactam in pediatric patients suggest a similar safety profile to that seen in adults.
+Other trials: Nephrotoxicity In a randomized, multicenter, controlled trial in 1200 adult critically ill patients, piperacillin/tazobactam was found to be a risk factor for renal failure (odds ratio 1.7, 95% CI 1.18 to 2.43), and associated with delayed recovery of renal function as compared to other beta-lactam antibacterial drugs.1 [see Warnings and Precautions (5.5)].
+Pediatrics Studies of piperacillin and tazobactam in pediatric patients suggest a similar safety profile to that seen in adults.
 In a prospective, randomized, comparative, open-label clinical trial of pediatric patients with severe intra-abdominal infections (including appendicitis and/or peritonitis), 273 patients were treated with piperacillin and tazobactam (112.5 mg/kg every 8 hours) and 269 patients were treated with cefotaxime (50 mg/kg) plus metronidazole (7.5 mg/kg) every 8 hours.
 In this trial, treatment-emergent adverse events were reported by 146 patients, 73 (26.7%) in the piperacillin and tazobactam group and 73 (27.1%) in the cefotaxime/metronidazole group.
 Six patients (2.2%) in the piperacillin and tazobactam group and 5 patients (1.9%) in the cefotaxime/metronidazole group discontinued due to an adverse event.

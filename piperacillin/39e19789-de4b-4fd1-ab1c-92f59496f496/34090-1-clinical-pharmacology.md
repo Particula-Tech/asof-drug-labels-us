@@ -155,20 +155,20 @@ Dilution Techniques:
 Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
 The MICs should be determined using a standardized procedure.
-Standardized procedures are based on a dilution method (broth or agar) or equivalent with standardized inoculum concentrations and standardized concentrations of piperacillin and tazobactam powders.1,2 MIC values should be determined using serial dilutions of piperacillin combined with a fixed concentration of 4 mcg/mL tazobactam.
+Standardized procedures are based on a dilution method (broth or agar) or equivalent with standardized inoculum concentrations and standardized concentrations of piperacillin and tazobactam powders.2,3 MIC values should be determined using serial dilutions of piperacillin combined with a fixed concentration of 4 mcg/mL tazobactam.
 The MIC values obtained should be interpreted according to criteria provided in Table 8.
 
 Diffusion Technique:
 
 Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
 The zone size provides an estimate of the susceptibility of bacteria to antimicrobial compounds.
-The zone size should be determined using a standardized test method1,3 and requires the use of standardized inoculum concentrations.
+The zone size should be determined using a standardized test method2,4 and requires the use of standardized inoculum concentrations.
 This procedure uses paper disks impregnated with 100 mcg of piperacillin and 10 mcg of tazobactam to test the susceptibility of microorganisms to piperacillin/tazobactam.
 The disk diffusion interpreted criteria are provided in Table 8.
 
 Anaerobic Techniques
 
-For anaerobic bacteria, the susceptibility to piperacillin/tazobactam can be determined by the reference agar dilution method.4
+For anaerobic bacteria, the susceptibility to piperacillin/tazobactam can be determined by the reference agar dilution method.5
 
 Table 8: Susceptibility Interpretive Criteria for Piperacillin/Tazobactam
 
@@ -191,7 +191,7 @@ A report of R (“Resistant”) indicates that the pathogen is not likely to be 
 
 Quality Control
 
-Standardized susceptibility test procedures require the use of quality controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test procedures.1,2,3,4 Standard piperacillin/tazobactam powder should provide the following ranges of values noted in Table 9.
+Standardized susceptibility test procedures require the use of quality controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test procedures.2,3,4,5 Standard piperacillin/tazobactam powder should provide the following ranges of values noted in Table 9.
 Quality control bacteria are specific strains of bacteria with intrinsic biological properties relating to resistance mechanisms and their genetic expression within the microorganism; the specific strains used for microbiological quality control are not clinically significant.
 
 Table 9: Acceptable Quality Control Ranges for Piperacillin/Tazobactam to Be Used in Validation of Susceptibility Test
