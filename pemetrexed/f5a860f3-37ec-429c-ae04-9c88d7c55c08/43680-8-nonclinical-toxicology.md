@@ -3,5 +3,6 @@
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 No carcinogenicity studies have been conducted with pemetrexed.
-Pemetrexed was clastogenic in the in vivo micronucleus assay in mouse bone marrow but was not mutagenic in multiple in vitro tests (Ames assay, CHO cell assay).
-Pemetrexed administered at i.v. doses of 0.1 mg/kg/day or greater to male mice (about 1/1666 the recommended human dose on a mg/m2 basis) resulted in reduced fertility, hypospermia, and testicular atrophy.
+Pemetrexed was clastogenic in an in vivo micronucleus assay in mouse bone marrow but was not mutagenic in multiple in vitro tests (Ames assay, Chinese Hamster Ovary cell assay).
+
+Pemetrexed administered intraperitoneally at doses of ≥0.1 mg/kg/day to male mice (approximately 0.006 times the recommended human dose based on BSA) resulted in reduced fertility, hypospermia, and testicular atrophy.

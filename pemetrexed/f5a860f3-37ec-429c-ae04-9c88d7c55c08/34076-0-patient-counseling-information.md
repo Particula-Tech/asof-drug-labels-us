@@ -1,17 +1,33 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Patient Labeling (PPI)
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
-Instruct patients to read the patient package insert before initiating ALIMTA.
+Premedication and Concomitant Medication: Instruct patients to take folic acid as directed and to keep appointments for vitamin B12 injections to reduce the risk of treatment-related toxicity.
+Instruct patients of the requirement to take corticosteroids to reduce the risks of treatment-related toxicity [see Dosage and Administration (2.4) and Warnings and Precautions (5.1)].
 
-- Instruct patients on the need for folic acid and vitamin B12 supplementation to reduce treatment-related hematologic and gastrointestinal toxicity and of the need for corticosteroids to reduce treatment-related dermatologic toxicity [see Dosage and Administration (2.3) and Warnings and Precautions (5.1)].
-- Inform patients of the risk of low blood cell counts and instruct them to immediately contact their physician for signs of infection, including fever, bleeding or symptoms of anemia.
-- Instruct patients to contact their physician if persistent vomiting, diarrhea, or signs of dehydration appear.
-- Instruct patients to inform their physician of all concomitant prescription or over-the-counter medications they are taking, particularly those for pain or inflammation such as non-steroidal anti-inflammatory drugs [see Drug Interactions (7.1)].
+Myelosuppression: Inform patients of the risk of low blood cell counts and instruct them to immediately contact their physician for signs of infection, fever, bleeding, or symptoms of anemia [see Warnings and Precautions (5.1)].
 
-Marketed by: Lilly USA, LLC Indianapolis, IN 46285, USA
+Renal Failure: Inform patients of the risks of renal failure, which may be exacerbated in patients with dehydration arising from severe vomiting or diarrhea.
+Instruct patients to immediately contact their healthcare provider for a decrease in urine output [see Warnings and Precautions (5.2)].
 
-Copyright © 2004, 2013, Eli Lilly and Company.
+Bullous and Exfoliative Skin Disorders: Inform patients of the risks of severe and exfoliative skin disorders.
+Instruct patients to immediately contact their healthcare provider for development of bullous lesions or exfoliation in the skin or mucous membranes [see Warnings and Precautions (5.3)].
+
+Interstitial Pneumonitis: Inform patients of the risks of pneumonitis.
+Instruct patients to immediately contact their healthcare provider for development of dyspnea or persistent cough [see Warnings and Precautions (5.4)].
+
+Radiation Recall: Inform patients who have received prior radiation of the risks of radiation recall.
+Instruct patients to immediately contact their healthcare provider for development of inflammation or blisters in an area that was previously irradiated [see Warnings and Precautions (5.5)].
+
+Increased Risk of Toxicity with Ibuprofen in Patients with Renal Impairment: Advise patients with mild to moderate renal impairment of the risks associated with concomitant ibuprofen use and instruct them to avoid use of all ibuprofen containing products for 2 days before, the day of, and 2 days following administration of ALIMTA [see Dosage and Administration (2.5), Warnings and Precautions (5.6), and Drug Interactions (7)].
+
+Embryo-Fetal Toxicity: Advise females of reproductive potential and males with female partners of reproductive potential of the potential risk to a fetus [see Warnings and Precautions (5.7) and Use in Specific Populations (8.1)].
+Advise females of reproductive potential to use effective contraception during treatment with ALIMTA and for 6 months after the final dose.
+Advise females to inform their prescriber of a known or suspected pregnancy.
+Advise males with female partners of reproductive potential to use effective contraception during treatment with ALIMTA and for 3 months after the final dose [see Warnings and Precautions (5.7) and Use in Specific Populations (8.3)].
+
+Lactation: Advise women not to breastfeed during treatment with ALIMTA and for 1 week after the final dose [see Use in Specific Populations (8.2)].
+
+Marketed by: Lilly USA, LLC Indianapolis, IN 46285, USA Copyright © 2004, 2017, Eli Lilly and Company.
 All rights reserved.
-
-PV 8927 AMP
+ALM-0001-USPI-20171011

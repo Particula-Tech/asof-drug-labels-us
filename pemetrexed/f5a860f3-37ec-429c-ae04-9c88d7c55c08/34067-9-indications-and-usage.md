@@ -1,22 +1,15 @@
 # 1 INDICATIONS AND USAGE
 
-## 1.1 Nonsquamous Non-Small Cell Lung Cancer – Combination with Cisplatin
+## 1.1 Non-Squamous Non-Small Cell Lung Cancer (NSCLC)
 
-ALIMTA® is indicated in combination with cisplatin therapy for the initial treatment of patients with locally advanced or metastatic nonsquamous non-small cell lung cancer.
+ALIMTA® is indicated for:
 
-## 1.2 Nonsquamous Non-Small Cell Lung Cancer – Maintenance
+- initial treatment of patients with locally advanced or metastatic, non-squamous, non-small cell lung cancer (NSCLC) in combination with cisplatin.
+- maintenance treatment of patients with locally advanced or metastatic, non-squamous NSCLC whose disease has not progressed after four cycles of platinum-based first-line chemotherapy, as a single agent.
+- treatment of patients with recurrent, metastatic non-squamous, NSCLC after prior chemotherapy, as a single agent.
 
-ALIMTA is indicated for the maintenance treatment of patients with locally advanced or metastatic nonsquamous non-small cell lung cancer whose disease has not progressed after four cycles of platinum-based first-line chemotherapy.
+Limitations of Use: ALIMTA is not indicated for the treatment of patients with squamous cell, non-small cell lung cancer [see Clinical Studies 14.1].
 
-## 1.3 Nonsquamous Non-Small Cell Lung Cancer – After Prior Chemotherapy
+## 1.2 Mesothelioma
 
-ALIMTA is indicated as a single-agent for the treatment of patients with locally advanced or metastatic nonsquamous non-small cell lung cancer after prior chemotherapy.
-
-## 1.4 Mesothelioma
-
-ALIMTA in combination with cisplatin is indicated for the treatment of patients with malignant pleural mesothelioma whose disease is unresectable or who are otherwise not candidates for curative surgery.
-
-## 1.5 Limitations of Use
-
-ALIMTA is not indicated for the treatment of patients with squamous cell non-small cell lung cancer.
-[see Clinical Studies (14.1, 14.2, 14.3)]
+ALIMTA is indicated, in combination with cisplatin, for the initial treatment of patients with malignant pleural mesothelioma whose disease is unresectable or who are otherwise not candidates for curative surgery.

@@ -1,3 +1,3 @@
 # 4 CONTRAINDICATIONS
 
-ALIMTA is contraindicated in patients who have a history of severe hypersensitivity reaction to pemetrexed.
+ALIMTA is contraindicated in patients with a history of severe hypersensitivity reaction to pemetrexed [see Adverse Reactions (6.1)].

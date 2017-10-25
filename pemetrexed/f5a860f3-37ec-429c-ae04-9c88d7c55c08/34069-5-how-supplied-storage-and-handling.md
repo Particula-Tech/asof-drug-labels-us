@@ -1,21 +1,17 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-## 16.1 How Supplied
+How Supplied
 
-ALIMTA, pemetrexed for injection, is available in sterile single-use vials containing 100 mg pemetrexed.
+ALIMTA, pemetrexed for injection, is a white-to-light yellow or green-yellow lyophilized powder supplied in single-dose vials for reconstitution for intravenous infusion.
 
-NDC 0002-7640-01 (VL7640): single-use vial with ivory flip-off cap individually packaged in a carton.
+NDC 0002-7640-01 (VL7640): Carton containing one (1) single-dose vial of 100 mg pemetrexed.
 
-ALIMTA, pemetrexed for injection, is available in sterile single-use vials containing 500 mg pemetrexed.
+NDC 0002-7623-01 (VL7623): Carton containing one (1) single-dose vial of 500 mg pemetrexed.
 
-NDC 0002-7623-01 (VL7623): single-use vial with ivory flip-off cap individually packaged in a carton.
+Storage and Handling
 
-## 16.2 Storage and Handling
+Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
 
-ALIMTA, pemetrexed for injection, should be stored at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
-
-Chemical and physical stability of reconstituted and infusion solutions of ALIMTA were demonstrated for up to 24 hours following initial reconstitution, when stored refrigerated, 2-8°C (36-46°F).
-When prepared as directed, reconstituted and infusion solutions of ALIMTA contain no antimicrobial preservatives.
-Discard unused portion [see Dosage and Administration (2.5)].
-
-ALIMTA is not light sensitive.
+ALIMTA is a cytotoxic drug.
+Follow applicable special handling and disposal procedures.
+[see References (15)]

@@ -1,18 +1,9 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)
+Effects of Ibuprofen on Pemetrexed
 
-Although ibuprofen (400 mg four times a day) can decrease the clearance of pemetrexed, it can be administered with ALIMTA in patients with normal renal function (creatinine clearance ≥80 mL/min).
-No dose adjustment of ALIMTA is needed with concomitant NSAIDs in patients with normal renal function [see Clinical Pharmacology (12.3)].
+Ibuprofen increases exposure (AUC) of pemetrexed [see Clinical Pharmacology (12.3)].
+In patients with creatinine clearance between 45 mL/min and 79 mL/min:
 
-Caution should be used when administering NSAIDs concurrently with ALIMTA to patients with mild to moderate renal insufficiency (creatinine clearance from 45 to 79 mL/min).
-NSAIDs with short elimination half-lives (e.g., diclofenac, indomethacin) should be avoided for a period of 2 days before, the day of, and 2 days following administration of ALIMTA.
-
-In the absence of data regarding potential interaction between ALIMTA and NSAIDs with longer half-lives (e.g., meloxicam, nabumetone), patients taking these NSAIDs should interrupt dosing for at least 5 days before, the day of, and 2 days following ALIMTA administration.
-If concomitant administration of NSAIDs is necessary, patients should be monitored closely for toxicity, especially myelosuppression, renal, and gastrointestinal toxicity.
-
-## 7.2 Nephrotoxic Drugs
-
-ALIMTA is primarily eliminated unchanged renally as a result of glomerular filtration and tubular secretion.
-Concomitant administration of nephrotoxic drugs could result in delayed clearance of ALIMTA.
-Concomitant administration of substances that are also tubularly secreted (e.g., probenecid) could potentially result in delayed clearance of ALIMTA.
+- Avoid administration of ibuprofen for 2 days before, the day of, and 2 days following administration of ALIMTA [see Dosage and Administration (2.5)].
+- Monitor patients more frequently for myelosuppression, renal, and gastrointestinal toxicity, if concomitant administration of ibuprofen cannot be avoided.

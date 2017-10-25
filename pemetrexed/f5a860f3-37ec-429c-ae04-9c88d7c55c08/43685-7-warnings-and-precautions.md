@@ -1,45 +1,55 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Requirement for Premedication and Concomitant Medication to Reduce Toxicity
+## 5.1 Myelosuppression and Increased Risk of Myelosuppression without Vitamin Supplementation
 
-Vitamin Supplementation
+ALIMTA can cause severe myelosuppression resulting in a requirement for transfusions and which may lead to neutropenic infection.
+The risk of myelosuppression is increased in patients who do not receive vitamin supplementation.
+In Study JMCH, incidences of Grade 3-4 neutropenia (38% versus 23%), thrombocytopenia (9% versus 5%), febrile neutropenia (9% versus 0.6%), and neutropenic infection (6% versus 0) were higher in patients who received ALIMTA plus cisplatin without vitamin supplementation as compared to patients who were fully supplemented with folic acid and vitamin B12 prior to and throughout ALIMTA plus cisplatin treatment.
 
-Prior to treatment with ALIMTA, initiate supplementation with oral folic acid and intramuscular vitamin B12 to reduce the severity of hematologic and gastrointestinal toxicity of ALIMTA [see Dosage and Administration (2.3)].
-Do not substitute oral vitamin B12 for intramuscular vitamin B12.
-In clinical studies, the incidence of the following Grade 3-4 toxicities were higher in patients with mesothelioma who were never supplemented as compared to patients who were fully supplemented with folic acid and vitamin B12 prior to and throughout ALIMTA treatment: neutropenia [38% versus 23%], thrombocytopenia [9% versus 5%], febrile neutropenia [9% versus 0.6%], and infection with neutropenia [6% versus.
-0].
+Initiate supplementation with oral folic acid and intramuscular vitamin B12 prior to the first dose of ALIMTA; continue vitamin supplementation during treatment and for 21 days after the last dose of ALIMTA to reduce the severity of hematologic and gastrointestinal toxicity of ALIMTA [see Dosage and Administration (2.4)].
+Obtain a complete blood count at the beginning of each cycle.
+Do not administer ALIMTA until the ANC is at least 1500 cells/mm3 and platelet count is at least 100,000 cells/mm3.
+Permanently reduce ALIMTA in patients with an ANC of less than 500 cells/mm3 or platelet count of less than 50,000 cells/mm3 in previous cycles [see Dosage and Administration (2.6)].
 
-Corticosteroids
+In Studies JMDB and JMCH, among patients who received vitamin supplementation, incidence of Grade 3-4 neutropenia was 15% and 23%, the incidence of Grade 3-4 anemia was 6% and 4%, and incidence of Grade 3-4 thrombocytopenia was 4% and 5%, respectively.
+In Study JMCH, 18% of patients in the ALIMTA arm required red blood cell transfusions compared to 7% of patients in the cisplatin arm [see Adverse Reactions (6.1)].
+In Studies JMEN, PARAMOUNT, and JMEI, where all patients received vitamin supplementation, incidence of Grade 3-4 neutropenia ranged from 3% to 5%, and incidence of Grade 3-4 anemia ranged from 3% to 5%.
 
-Administer dexamethasone the day before, the day of, and the day after ALIMTA administration [see Dosage and Administration (2.3)].
+## 5.2 Renal Failure
 
-## 5.2 Bone Marrow Suppression
+ALIMTA can cause severe, and sometimes fatal, renal toxicity.
+The incidences of renal failure in clinical studies in which patients received ALIMTA with cisplatin were: 2.1% in Study JMDB and 2.2% in Study JMCH.
+The incidence of renal failure in clinical studies in which patients received ALIMTA as a single agent ranged from 0.4% to 0.6% (Studies JMEN, PARAMOUNT, and JMEI [see Adverse Reactions (6.1)].
+Determine creatinine clearance before each dose and periodically monitor renal function during treatment with ALIMTA.
+Withhold ALIMTA in patients with a creatinine clearance of less than 45 mL/minute [see Dosage and Administration (2.3)].
 
-ALIMTA can suppress bone marrow function, as manifested by neutropenia, thrombocytopenia, and anemia (or pancytopenia) [see Adverse Reactions (6.1)]; myelosuppression is usually the dose-limiting toxicity.
-Dose reductions for subsequent cycles are based on nadir ANC, platelet count, and maximum nonhematologic toxicity seen in the previous cycle [see Dosage and Administration (2.4)].
+## 5.3 Bullous and Exfoliative Skin Toxicity
 
-## 5.3 Decreased Renal Function
+Serious and sometimes fatal, bullous, blistering and exfoliative skin toxicity, including cases suggestive of Stevens-Johnson Syndrome/Toxic epidermal necrolysis can occur with ALIMTA.
+Permanently discontinue ALIMTA for severe and life-threatening bullous, blistering or exfoliating skin toxicity.
 
-ALIMTA is primarily eliminated unchanged by renal excretion.
-No dosage adjustment is needed in patients with creatinine clearance ≥45 mL/min.
-Insufficient numbers of patients have been studied with creatinine clearance <45 mL/min to give a dose recommendation.
-Therefore, ALIMTA should not be administered to patients whose creatinine clearance is <45 mL/min [see Dosage and Administration (2.4)].
+## 5.4 Interstitial Pneumonitis
 
-One patient with severe renal impairment (creatinine clearance 19 mL/min) who did not receive folic acid and vitamin B12 died of drug-related toxicity following administration of ALIMTA alone.
+Serious interstitial pneumonitis, including fatal cases, can occur with ALIMTA treatment.
+Withhold ALIMTA for acute onset of new or progressive unexplained pulmonary symptoms such as dyspnea, cough, or fever pending diagnostic evaluation.
+If pneumonitis is confirmed, permanently discontinue ALIMTA.
 
-## 5.4 Use with Non-Steroidal Anti-Inflammatory Drugs (NSAIDs) with Mild to Moderate Renal Insufficiency
+## 5.5 Radiation Recall
 
-Caution should be used when administering NSAIDs concurrently with ALIMTA to patients with mild to moderate renal insufficiency (creatinine clearance from 45 to 79 mL/min) [see Drug Interactions (7.1)].
+Radiation recall can occur with ALIMTA in patients who have received radiation weeks to years previously.
+Monitor patients for inflammation or blistering in areas of previous radiation treatment.
+Permanently discontinue ALIMTA for signs of radiation recall.
 
-## 5.5 Required Laboratory Monitoring
+## 5.6 Increased Risk of Toxicity with Ibuprofen in Patients with Renal Impairment
 
-Obtain a complete blood count and renal function tests at the beginning of each cycle and as needed.
-Do not initiate a cycle of treatment unless the ANC is ≥1500 cells/mm3, the platelet count is ≥100,000 cells/mm3, and creatinine clearance is ≥45 mL/min [see Dosage and Administration (2.4)].
+Exposure to ALIMTA is increased in patients with mild to moderate renal impairment who take concomitant ibuprofen, increasing the risks of adverse reactions of ALIMTA.
+In patients with creatinine clearances between 45 mL/min and 79 mL/min, avoid administration of ibuprofen for 2 days before, the day of, and 2 days following administration of ALIMTA.
+If concomitant ibuprofen use cannot be avoided, monitor patients more frequently for ALIMTA adverse reactions, including myelosuppression, renal, and gastrointestinal toxicity [see Dosage and Administration (2.5), Drug Interactions (7), and Clinical Pharmacology (12.3)].
 
-## 5.6 Pregnancy Category D
+## 5.7 Embryo-Fetal Toxicity
 
-Based on its mechanism of action, ALIMTA can cause fetal harm when administered to a pregnant woman.
-Pemetrexed administered intraperitoneally to mice during organogenesis was embryotoxic, fetotoxic and teratogenic in mice at greater than 1/833rd the recommended human dose.
-If ALIMTA is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
-Women of childbearing potential should be advised to avoid becoming pregnant.
-Women should be advised to use effective contraceptive measures to prevent pregnancy during treatment with ALIMTA [see Use in Specific Populations (8.1)].
+Based on findings from animal studies and its mechanism of action, ALIMTA can cause fetal harm when administered to a pregnant woman.
+In animal reproduction studies, intravenous administration of pemetrexed to pregnant mice during the period of organogenesis was teratogenic, resulting in developmental delays and increased malformations at doses lower than the recommended human dose of 500 mg/m2.
+Advise pregnant women of the potential risk to the fetus.
+Advise females of reproductive potential to use effective contraception during treatment with ALIMTA and for 6 months after the final dose.
+Advise males with female partners of reproductive potential to use effective contraception during treatment with ALIMTA and for 3 months after the final dose [see Use in Specific Populations (8.1, 8.3) and Clinical Pharmacology (12.1)].
