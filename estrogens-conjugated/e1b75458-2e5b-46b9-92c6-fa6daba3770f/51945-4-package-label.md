@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 15 Tablet Blister Card
+# PRINCIPAL DISPLAY PANEL - 15 Tablet Blister Pack
 
 NDC 0008-1123-12
 
@@ -26,13 +26,13 @@ Distributed by Wyeth Pharmaceuticals Inc A subsidiary of Pfizer Inc Philadelphia
 
 Rx only
 
-PAA065927
+PAA086797
 
 LOT:
 
 EXP:
 
-# PRINCIPAL DISPLAY PANEL - 30 Tablet Blister Pouch
+# PRINCIPAL DISPLAY PANEL - 30 Tablet Blister Pack Pouch
 
 NDC 0008-1123-12
 
@@ -50,7 +50,7 @@ Dispense and store product in original package to protect from moisture.
 
 Package includes 2 blister cards containing 15 tablets each.
 
-# PRINCIPAL DISPLAY PANEL - 30 Tablet Carton
+# PRINCIPAL DISPLAY PANEL - 30 Tablet Blister Pack Pouch Carton
 
 NDC 0008-1123-12
 
