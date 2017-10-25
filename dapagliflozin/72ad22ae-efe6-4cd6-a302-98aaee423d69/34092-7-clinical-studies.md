@@ -2,7 +2,7 @@
 
 ## 14.1 Overview of Clinical Studies of FARXIGA for Type 2 Diabetes
 
-FARXIGA has been studied as monotherapy, in combination with metformin, pioglitazone, sulfonylurea (glimepiride), sitagliptin (with or without metformin), metformin plus a sulfonylurea, or insulin (with or without other oral antidiabetic therapy), and compared to a sulfonylurea (glipizide).
+FARXIGA has been studied as monotherapy, in combination with metformin, pioglitazone, sulfonylurea (glimepiride), sitagliptin (with or without metformin), metformin plus a sulfonylurea, or insulin (with or without other oral antidiabetic therapy), compared to a sulfonylurea (glipizide), and in combination with a GLP-1 receptor agonist (exenatide extended- release) added on to metformin.
 FARXIGA has also been studied in patients with type 2 diabetes and moderate renal impairment.
 
 Treatment with FARXIGA as monotherapy and in combination with metformin, glimepiride, pioglitazone, sitagliptin, or insulin produced statistically significant improvements in mean change from baseline at Week 24 in HbA1c compared to control.
@@ -288,6 +288,14 @@ Placebo-Controlled Studies of FARXIGA in Combination with Antidiabetic Agents
 | Baseline (mean) | 94.6 | 93.2 | 94.2 |
 | Change from baseline (adjusted mean) | −1.7 | −1.0 | 0.0 |
 | Difference from placebo (adjusted mean) (95% CI) | −1.7 (−2.2, −1.2) | −1.0 (−1.5, −0.5) |  |
+
+### Combination Therapy with Exenatide-Extended Release as Add-On to Metformin
+
+A total of 694 adult patients with type 2 diabetes and inadequate glycemic control (HbA1c ≥8.0 and ≤12.0%) on metformin, were evaluated in a 28-week double-blind, active-controlled study to compare FARXIGA in combination with exenatide extended-release (a GLP 1 receptor agonist) to FARXIGA alone and exenatide extended-release alone, as add- on to metformin (NCT02229396).
+Patients on metformin at a dose of at least 1,500 mg per day were randomized following a 1-week placebo lead in period to receive either FARXIGA 10 mg once daily (QD) in combination with exenatide extended-release 2 mg once weekly (QW), FARXIGA 10 mg QD, or exenatide extended–release 2 mg QW.
+
+At week 28, FARXIGA in combination with exenatide extended-release provided statistically significantly greater reductions in HbA1c (-1.77%) compared to FARXIGA alone (-1.32%, p=0.001) and exenatide extended-release alone (-1.42%, p=0.012).
+FARXIGA in combination with exenatide extended-release provided statistically significantly greater reductions in FPG (-57.35 mg/dL) compared to FARXIGA alone (-44.72 mg/dL, p=0.006) and exenatide extended-release alone (-40.53, p <0.001).
 
 ## 14.7 Use in Patients with Type 2 Diabetes and Renal Impairment
 

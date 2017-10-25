@@ -8,7 +8,7 @@ The following important adverse reactions are described below and elsewhere in t
 - •Urosepsis and Pyelonephritis [see Warnings and Precautions (5.4)]
 - •Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues [see Warnings and Precautions (5.5)]
 - •Genital Mycotic Infections [see Warnings and Precautions (5.6)]
-- •Increases in Low-Density Lipoprotein Cholesterol (LDL C) [see Warnings and Precautions (5.7)]
+- •Increases in Low-Density Lipoprotein Cholesterol (LDL-C) [see Warnings and Precautions (5.7)]
 - •Bladder Cancer [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trials Experience
@@ -189,6 +189,10 @@ Higher proportions of patients with marked laboratory abnormalities of hyperphos
 
 In the pool of 13 placebo-controlled studies, changes from baseline in mean lipid values were reported in FARXIGA-treated patients compared to placebo-treated patients.
 Mean percent changes from baseline at Week 24, were 0.0% versus 2.5% for total cholesterol and −1.0% versus 2.9% for LDL cholesterol, in the placebo and FARXIGA 10 mg groups, respectively.
+
+##### Decrease in Serum Bicarbonate
+
+In a study of concomitant therapy of FARXIGA 10 mg with exenatide extended-release (on a background of metformin), four patients (1.7%) on concomitant therapy had a serum bicarbonate value of less than or equal to 13 mEq/L compared to one each (0.4%) in the FARXIGA and exenatide-extended release treatment groups [see Warnings and Precautions (5.2)].
 
 ## 6.2 Postmarketing Experience
 

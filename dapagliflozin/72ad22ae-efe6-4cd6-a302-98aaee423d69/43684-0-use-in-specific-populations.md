@@ -2,37 +2,61 @@
 
 ## 8.1 Pregnancy
 
-### Pregnancy Category C
+### Risk Summary
 
-There are no adequate and well-controlled studies of FARXIGA in pregnant women.
-Based on results of reproductive and developmental toxicity studies in animals, dapagliflozin may affect renal development and maturation.
-In a juvenile rat study, increased incidence and/or severity of renal pelvic and tubular dilatations were evident at the lowest tested dose which was approximately 15 times clinical exposure from a 10 mg dose.
+Based on animal data showing adverse renal effects, FARXIGA is not recommended during the second and third trimesters of pregnancy.
 
-These outcomes occurred with drug exposures during periods of animal development that correlate with the late second and third trimesters of human pregnancy.
-During pregnancy, consider appropriate alternative therapies, especially during the second and third trimesters.
-FARXIGA should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Limited data with FARXIGA in pregnant women are not sufficient to determine drug-associated risk for major birth defects or miscarriage.
+There are risks to the mother and fetus associated with poorly controlled diabetes in pregnancy [see Clinical Considerations].
 
-In a juvenile toxicity study, when dapagliflozin was dosed directly to young rats from postnatal day (PND) 21 until PND 90 at doses of 1, 15, or 75 mg/kg/day, increased kidney weights and renal pelvic and tubular dilatations were reported at all levels.
-Exposure at the lowest tested dose was 15 times the maximum clinical dose, based on AUC.
-The renal pelvic and tubular dilatations observed in juvenile animals did not fully reverse within the approximate 1-month recovery period.
+In animal studies, adverse renal pelvic and tubule dilatations, that were not fully reversible, were observed in rats when dapagliflozin was administered during a period of renal development corresponding to the late second and third trimesters of human pregnancy, at all doses tested; the lowest of which provided an exposure 15-times the 10 mg clinical dose [see Data].
 
-In a prenatal and postnatal development study, maternal rats were dosed from gestation day 6 through lactation day 21 at doses of 1, 15, or 75 mg/kg/day, and pups were indirectly exposed in utero and throughout lactation.
-Increased incidence or severity of renal pelvic dilatation was observed in adult offspring of treated dams at 75 mg/kg/day (maternal and pup dapagliflozin exposures were 1415 times and 137 times, respectively, the human values at the clinical dose).
-Dose-related reductions in pup body weights were observed at doses ≥1 mg/kg/day (approximately ≥19 times the clinical dose).
-No adverse effects on developmental endpoints were noted at 1 mg/kg/day, or approximately 19 times the clinical dose.
+The estimated background risk of major birth defects is 6-10% in women with pre-gestational diabetes with a HbA1c greater than 7% and has been reported to be as high as 20 to 25% in women with HbA1c greater than 10%.
+The estimated background risk of miscarriage for the indicated population is unknown.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
-In embryo-fetal development studies in rats and rabbits, dapagliflozin was administered for intervals coinciding with the first trimester period of organogenesis in humans.
-No developmental toxicities were observed in rabbits at any dose tested.
-In rats, dapagliflozin was neither embryolethal nor teratogenic at doses up to 75 mg/kg/day or 1441 times the maximum clinical dose of 10 mg.
-At higher doses in rats, malformations of blood vessels, ribs, vertebra, manubria, and skeletal variations in fetuses at ≥150 mg/kg or 2344 times the 10 mg clinical dose were observed.
+Clinical Considerations
 
-## 8.3 Nursing Mothers
+Disease-associated maternal and/or embryo-fetal risk
+
+Poorly controlled diabetes in pregnancy increases the maternal risk for diabetic ketoacidosis, preeclampsia, spontaneous abortions, preterm delivery, still birth and delivery complications.
+Poorly controlled diabetes increases the fetal risk for major birth defects, stillbirth, and macrosomia related morbidity.
+
+Data
+
+Animal Data
+
+Dapagliflozin dosed directly to juvenile rats from postnatal day (PND) 21 until PND 90 at doses of 1, 15, or 75 mg/kg/day, increased kidney weights and increased the incidence of renal pelvic and tubular dilatations at all dose levels.
+Exposure at the lowest dose tested was 15-times the 10 mg clinical dose (based on AUC).
+The renal pelvic and tubular dilatations observed in juvenile animals did not fully reverse within a 1 month recovery period.
+
+In a prenatal and postnatal development study, dapagliflozin was administered to maternal rats from gestation day 6 through lactation day 21 at doses of 1, 15, or 75 mg/kg/day, and pups were indirectly exposed in utero and throughout lactation.
+Increased incidence or severity of renal pelvic dilatation was observed in 21-day-old pups offspring of treated dams at 75 mg/kg/day (maternal and pup dapagliflozin exposures were 1415-times and 137-times, respectively, the human values at the 10 mg clinical dose, based on AUC).
+Dose-related reductions in pup body weights were observed at greater or equal to 29-times the 10 mg clinical dose (based on AUC).
+No adverse effects on developmental endpoints were noted at 1 mg/kg/day (19-times the 10 mg clinical dose, based on AUC).
+
+In embryo-fetal development studies in rats and rabbits, dapagliflozin was administered throughout organogenesis, corresponding to the first trimester of human pregnancy.
+In rats, dapagliflozin was neither embryolethal nor teratogenic at doses greater than 75 mg/kg/day (1441-times the 10 mg clinical dose, based on AUC).
+Dose-related effects on the rat fetus (structural abnormalities and reduced body weight) occurred only at higher dosages, greater than 150 mg/kg (more than 2344-times the 10 mg clinical dose, based on AUC), which were associated with maternal toxicity.
+These outcomes occurred with drug exposure during periods of renal development in rats that corresponds to the late second and third trimester of human development.
+No developmental toxicities were observed in rabbits at doses up to 180 mg/kg/day (1191-times the 10 mg clinical dose, based on AUC).
+
+## 8.2 Lactation
+
+Risk Summary
+
+There is no information regarding the presence of dapagliflozin in human milk, the effects on the breastfed infant, or the effects on milk production.
+Dapagliflozin is present in the milk of lactating rats [see Data].
+However, due to species- specific differences in lactation physiology, the clinical relevance of these data are not clear.
+Since human kidney maturation occurs in utero and during the first 2 years of life when lactational exposure may occur, there may be risk to the developing human kidney.
+
+Because of the potential for serious adverse reactions in breastfed infants, advise women that use of FARXIGA is not recommended while breastfeeding.
+
+Data
 
 It is not known whether FARXIGA is excreted in human milk.
-Dapagliflozin is excreted in rat milk reaching levels 0.49 times that found in maternal plasma.
-Data in juvenile rats directly exposed to dapagliflozin showed risk to the developing kidney (renal pelvic and tubular dilatations) during maturation.
-Since human kidney maturation occurs in utero and during the first 2 years of life when lactational exposure may occur, there may be risk to the developing human kidney.
-Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from FARXIGA, a decision should be made whether to discontinue nursing or to discontinue FARXIGA, taking into account the importance of the drug to the mother.
+Dapagliflozin was present in rat milk at a milk/plasma ratio of 0.49 indicating that dapagliflozin and its metabolites are transferred into milk at a concentration that is approximately 50% of that in maternal plasma.
+Juvenile rats directly exposed to dapagliflozin showed risk to the developing kidney (renal pelvic and tubular dilatations) during maturation.
 
 ## 8.4 Pediatric Use
 

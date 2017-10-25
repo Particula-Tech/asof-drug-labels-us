@@ -48,7 +48,7 @@ Serious Urinary Tract Infections
 
 Inform patients of the potential for urinary tract infections, which may be serious.
 Provide them with information on the symptoms of urinary tract infections.
-Advise them to seek medical advice promptly if such symptoms occur[see Warnings and Precautions (5.4)].
+Advise them to seek medical advice promptly if such symptoms occur [see Warnings and Precautions (5.4)].
 
 Genital Mycotic Infections in Males (e.g., Balanitis)
 
@@ -64,6 +64,15 @@ Advise patients to immediately report any signs or symptoms suggesting allergic 
 Bladder Cancer
 
 Inform patients to promptly report any signs of macroscopic hematuria or other symptoms potentially related to bladder cancer.
+
+Pregnancy
+
+Advise pregnant patients of the potential risk to a fetus with treatment with FARXIGA.
+Instruct patients to immediately inform their healthcare provider if pregnant or planning to become pregnant [see Use in Specific Populations (8.1)].
+
+Lactation
+
+Advise patients that use of FARXIGA is not recommended while breastfeeding [see Use in Specific Populations (8.2)].
 
 Laboratory Tests
 

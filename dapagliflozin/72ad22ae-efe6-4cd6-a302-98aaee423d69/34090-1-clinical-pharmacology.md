@@ -109,7 +109,7 @@ Table 6: Effects of Coadministered Drugs on Dapagliflozin Systemic Exposure
 | Rifampin (600 mg once daily for 6 days) | 10 mg | ↓7% [↓22%, ↑11%] | ↓22% [↓27%, ↓17%] |
 | Nonsteroidal Anti-inflammatory Agent |  |  |  |
 | Mefenamic Acid (loading dose of 500 mg followed by 14 doses of 250 mg every 6 hours) | 10 mg | ↑13% [↑3%, ↑24%] | ↑51% [↑44%, ↑58%] |
-| ↔ = no change (geometric mean ratio of test:reference within 0.80 to 1.25); ↓ or ↑ = parameter was lower or higher, respectively, with coadministration compared to dapagliflozin administered alone (geometric mean ratio of test:reference was lower than 0.80 or higher than 1.25) |  |  |  |
+| ↔ = no change (geometric mean ratio of test: reference within 0.80 to 1.25); ↓ or ↑ = parameter was lower or higher, respectively, with coadministration compared to dapagliflozin administered alone (geometric mean ratio of test: reference was lower than 0.80 or higher than 1.25) |  |  |  |
 
 #### Effects of Dapagliflozin on Other Drugs
 

@@ -37,7 +37,7 @@ FARXIGA increases serum creatinine and decreases eGFR.
 Elderly patients and patients with impaired renal function may be more susceptible to these changes.
 Adverse reactions related to renal function can occur after initiating FARXIGA [see Adverse Reactions (6.1)].
 Renal function should be evaluated prior to initiation of FARXIGA and monitored periodically thereafter.
-Use of FARXIGA is not recommended in patients with an eGFR persistently between 30 and less than 60 mL/min/1.73 m2 and is contraindicated in patients with an eGFR less than 30 mL/min/1.73 m2[see Dosage and Administration (2.2),Contraindications (4), Use in Specific Populations (8.6)].
+Use of FARXIGA is not recommended in patients with an eGFR persistently between 30 and less than 60 mL/min/1.73 m2 and is contraindicated in patients with an eGFR less than 30 mL/min/1.73 m2 [see Dosage and Administration (2.2),Contraindications (4), Use in Specific Populations (8.6)].
 
 ## 5.4 Urosepsis and Pyelonephritis
 
@@ -75,4 +75,4 @@ In patients with prior history of bladder cancer, the benefits of glycemic contr
 
 ## 5.9 Macrovascular Outcomes
 
-There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with FARXIGA or any other antidiabetic drug.
+There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with FARXIGA.
