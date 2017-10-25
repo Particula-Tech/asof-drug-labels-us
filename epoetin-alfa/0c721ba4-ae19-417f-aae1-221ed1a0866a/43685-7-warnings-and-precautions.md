@@ -69,11 +69,12 @@ Four of these deaths occurred during the period of study drug administration and
 ## 5.2 Increased Mortality and/or Increased Risk of Tumor Progression or Recurrence in Patients With Cancer
 
 ESAs resulted in decreased locoregional control/progression-free survival (PFS) and/or overall survival (OS) (see Table 2).
+
 Adverse effects on PFS and/or OS were observed in studies of patients receiving chemotherapy for breast cancer (Studies 1, 2, and 4), lymphoid malignancy (Study 3), and cervical cancer (Study 5); in patients with advanced head and neck cancer receiving radiation therapy (Studies 6 and 7); and in patients with non-small cell lung cancer or various malignancies who were not receiving chemotherapy or radiotherapy (Studies 8 and 9).
 
 Table 2: Randomized, Controlled Studies With Decreased Survival and/or Decreased Locoregional Control
 
-| Study/Tumor/(n) | Hemoglobin Target | Achieved Hemoglobin (Median; Q1, Q3Q1=25th percentile Q3=75th percentile) | Primary Efficacy Outcome | Adverse Outcome for ESA-containing Arm |
+| Study/Tumor/(n) | Hemoglobin Target | Achieved Hemoglobin (Median; Q1, Q3Q1=25th percentile, Q3=75th percentile) | Primary Efficacy Outcome | Adverse Outcome for ESA- containing Arm |
 | --- | --- | --- | --- | --- |
 | Chemotherapy |  |  |  |  |
 | Study 1 Metastatic breast cancer (n=2098) | ≤12 g/dLThis study did not include a defined hemoglobin target. Doses were titrated to achieve and maintain the lowest hemoglobin level sufficient to avoid transfusion and not to exceed 12 g/dL. | 11.6 g/dL 10.7, 12.1 g/dL | Progression-free survival (PFS) | Decreased progression-free and overall survival |
@@ -108,7 +109,7 @@ The median survival was shorter in the darbepoetin alfa treatment group than in 
 
 Decreased Progression-free Survival and Overall Survival
 
-Study 1 was a randomized, open label, multicenter study in 2,098 anemic women with metastatic breast cancer, who received first line or second line chemotherapy.
+Study 1 was a randomized, open-label, multicenter study in 2,098 anemic women with metastatic breast cancer, who received first line or second line chemotherapy.
 This was a non-inferiority study designed to rule out a 15% risk increase in tumor progression or death of epoetin alfa plus standard of care (SOC) as compared with SOC alone.
 The median progression free survival (PFS) per investigator assessment of disease progression was 7.4 months in each arm (HR 1.09, 95% CI: 0.99, 1.20), indicating the study objective was not met.
 At the time of clinical data cutoff, 1337 deaths were reported.
@@ -132,7 +133,7 @@ Overall survival was significantly shorter in patients receiving epoetin beta (H
 
 Decreased Locoregional Control
 
-Study 7 was a randomized, open-label, controlled study conducted in 522 patients with primary squamous cell carcinoma of the head and neck receiving radiation therapy alone (no chemotherapy) who were randomized to receive darbepoetin alfa to maintain hemoglobin levels of 14 to15.5 g/dL or no darbepoetin alfa.
+Study 7 was a randomized, open-label, controlled study conducted in 522 patients with primary squamous cell carcinoma of the head and neck receiving radiation therapy alone (no chemotherapy) who were randomized to receive darbepoetin alfa to maintain hemoglobin levels of 14 to 15.5 g/dL or no darbepoetin alfa.
 An interim analysis performed on 484 patients demonstrated that locoregional control at 5 years was significantly shorter in patients receiving darbepoetin alfa (RR 1.44, 95% CI: 1.06, 1.96; p=0.02).
 Overall survival was shorter in patients receiving darbepoetin alfa (RR 1.28, 95% CI: 0.98, 1.68; p=0.08).
 
@@ -173,21 +174,30 @@ Do not switch patients to other ESAs.
 Serious allergic reactions, including anaphylactic reactions, angioedema, bronchospasm, skin rash, and urticaria may occur with PROCRIT.
 Immediately and permanently discontinue PROCRIT and administer appropriate therapy if a serious allergic or anaphylactic reaction occurs.
 
-## 5.8 Albumin (Human)
+## 5.8 Severe Cutaneous Reactions
+
+Blistering and skin exfoliation reactions including Erythema multiforme and Stevens-Johnson Syndrome (SJS)/Toxic Epidermal Necrolysis (TEN), have been reported in patients treated with ESAs (including PROCRIT) in the postmarketing setting.
+Discontinue PROCRIT therapy immediately if a severe cutaneous reaction, such as SJS/TEN, is suspected.
+
+## 5.9 Risk of Serious Adverse Reactions Due to Benzyl Alcohol Preservative
+
+PROCRIT from multiple-dose vials contains benzyl alcohol and is contraindicated for use in neonates, infants, pregnant women, and lactating women [see Contraindications (4)].
+In addition, do not mix PROCRIT with bacteriostatic saline (which also contains benzyl alcohol) when administering PROCRIT to these patient populations [see Dosage and Administration (2)].
+
+Serious and fatal reactions including "gasping syndrome" can occur in neonates and infants treated with benzyl alcohol-preserved drugs, including PROCRIT multiple-dose vials.
+The "gasping syndrome" is characterized by central nervous system depression, metabolic acidosis, and gasping respirations.
+There is a potential for similar risks to fetuses and infants exposed to benzyl alcohol in utero or in breast-fed milk, respectively.
+PROCRIT multiple-dose vials contain 11 mg of benzyl alcohol per mL.
+The minimum amount of benzyl alcohol at which serious adverse reactions may occur is not known [see Use in Specific Populations (8.1, 8.2, and 8.4)].
+
+## 5.10 Risk of Infectious Diseases Due to Albumin (Human) Content
 
 PROCRIT contains albumin, a derivative of human blood [see Description (11)].
 Based on effective donor screening and product manufacturing processes, it carries an extremely remote risk for transmission of viral diseases.
 A theoretical risk for transmission of Creutzfeldt-Jakob disease (CJD) also is considered extremely remote.
 No cases of transmission of viral diseases or CJD have ever been identified for albumin.
 
-## 5.9 Dialysis Management
+## 5.11 Dialysis Management
 
 Patients may require adjustments in their dialysis prescriptions after initiation of PROCRIT.
 Patients receiving PROCRIT may require increased anticoagulation with heparin to prevent clotting of the extracorporeal circuit during hemodialysis.
-
-## 5.10 Laboratory Monitoring
-
-Evaluate transferrin saturation and serum ferritin prior to and during PROCRIT treatment.
-Administer supplemental iron therapy when serum ferritin is less than 100 mcg/L or when serum transferrin saturation is less than 20% [see Dosage and Administration (2.1)].
-The majority of patients with CKD will require supplemental iron during the course of ESA therapy.
-Following initiation of therapy and after each dose adjustment, monitor hemoglobin weekly until the hemoglobin level is stable and sufficient to minimize the need for RBC transfusion.

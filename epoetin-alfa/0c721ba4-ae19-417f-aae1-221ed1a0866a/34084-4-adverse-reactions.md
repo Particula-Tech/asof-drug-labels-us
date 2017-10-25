@@ -8,6 +8,7 @@ The following serious adverse reactions are discussed in greater detail in other
 - Seizures [see Warnings and Precautions (5.4)]
 - PRCA [see Warnings and Precautions (5.6)]
 - Serious allergic reactions [see Warnings and Precautions (5.7)]
+- Severe Cutaneous Reactions [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trial Experience
 
@@ -59,18 +60,18 @@ Pediatric Patients
 
 In pediatric patients with CKD on dialysis, the pattern of adverse reactions was similar to that found in adults.
 
-Zidovudine-treated HIV-infected Patients
+Zidovudine-treated Patients with HIV-infection
 
-A total of 297 zidovudine-treated HIV-infected patients were studied in 4 placebo-controlled studies.
+A total of 297 zidovudine-treated patients with HIV-infection were studied in 4 placebo-controlled studies.
 A total of 144 (48%) patients were randomly assigned to receive PROCRIT and 153 (52%) patients were randomly assigned to receive placebo.
 PROCRIT was administered at doses between 100 and 200 Units/kg 3 times weekly subcutaneously for up to 12 weeks.
 
 For the combined PROCRIT treatment groups, a total of 141 (98%) men and 3 (2%) women between the ages of 24 and 64 years were enrolled.
 The racial distribution of the combined PROCRIT treatment groups was as follows: 129 (90%) white, 8 (6%) black, 1 (1%) Asian, and 6 (4%) other.
 
-In double-blind, placebo-controlled studies of 3 months duration involving approximately 300 zidovudine-treated HIV-infected patients, adverse reactions with an incidence of ≥ 1% in patients treated with PROCRIT were:
+In double-blind, placebo-controlled studies of 3 months duration involving approximately 300 zidovudine-treated patients with HIV-infection, adverse reactions with an incidence of ≥ 1% in patients treated with PROCRIT were:
 
-Table 5: Adverse Reactions in Zidovudine-treated HIV-infected Patients
+Table 5: Adverse Reactions in Zidovudine-treated Patients with HIV-infection
 
 | Adverse Reaction | PROCRIT (n=144) | Placebo (n=153) |
 | --- | --- | --- |
@@ -82,7 +83,7 @@ Table 5: Adverse Reactions in Zidovudine-treated HIV-infected Patients
 | Respiratory tract congestion | 1% | Not reported |
 | Pulmonary embolism | 1% | Not reported |
 
-Cancer Patients on Chemotherapy
+Patients with Cancer on Chemotherapy
 
 The data below were obtained in Study C1, a 16-week, double-blind, placebo-controlled study that enrolled 344 patients with anemia secondary to chemotherapy.
 There were 333 patients who were evaluable for safety; 168 of 174 patients (97%) randomized to PROCRIT received at least 1 dose of study drug, and 165 of 170 patients (97%) randomized to placebo received at least 1 placebo dose.
@@ -92,7 +93,7 @@ PROCRIT was administered once weekly for an average of 13 weeks at a dose of 20,
 
 The adverse reactions with a reported incidence of ≥ 5% in PROCRIT-treated patients that occurred at a higher frequency than in placebo-treated patients are shown in the table below:
 
-Table 6: Adverse Reactions in Cancer Patients
+Table 6: Adverse Reactions in Patients with Cancer
 
 | Adverse Reaction | PROCRIT (n=168) | Placebo (n=165) |
 | --- | --- | --- |
@@ -145,7 +146,7 @@ Table 7: Adverse Reactions in Surgery Patients
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post approval use of PROCRIT.
+The following adverse reactions have been identified during post-approval use of PROCRIT.
 
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
@@ -154,12 +155,13 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - Serious allergic reactions [see Warnings and Precautions (5.7)]
 - Injection site reactions, including irritation and pain
 - Porphyria
+- Severe Cutaneous Reactions [see Warnings and Precautions (5.8)]
 
 ## 6.3 Immunogenicity
 
 As with all therapeutic proteins, there is a potential for immunogenicity.
-Neutralizing antibodies to epoetin alfa that cross-react with endogenous erythropoietin and other ESAs can result in PRCA or severe anemia (with or without other cytopenias) [see Warnings and Precautions (5.6)].
-
-The incidence of antibody formation is highly dependent on the sensitivity and specificity of the assay.
+The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay.
 Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors, including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
-For these reasons, comparison of the incidence of antibodies to PROCRIT with the incidence of antibodies to other products may be misleading.
+For these reasons, comparison of the incidence of antibodies to epoetin alfa with the incidence of antibodies to other products may be misleading.
+
+Neutralizing antibodies to epoetin alfa that cross-react with endogenous erythropoietin and other ESAs can result in PRCA or severe anemia (with or without other cytopenias) [see Warnings and Precautions (5.6)].

@@ -6,7 +6,7 @@ Adult Patients on Dialysis
 
 Patients with chronic kidney disease on dialysis: ESA effects on rates of transfusion
 
-In clinical studies of CKD patients on dialysis, PROCRIT increased hemoglobin levels and decreased the need for RBC transfusion.
+In clinical studies of patients with CKD on dialysis, PROCRIT increased hemoglobin levels and decreased the need for RBC transfusion.
 Overall, more than 95% of patients were RBC transfusion-independent after receiving PROCRIT for 3 months.
 In clinical studies at starting doses of 50 to 150 Units/kg 3 times weekly, adult patients responded with an average rate of hemoglobin rise as presented in Table 8.
 
@@ -18,7 +18,7 @@ Table 8: Average Rate of Hemoglobin Rise in 2 Weeks
 | 100 Units/kg | 0.8 g/dL |
 | 150 Units/kg | 1.2 g/dL |
 
-The safety and efficacy of PROCRIT were evaluated in 13 clinical studies involving intravenous administration to a total of 1010 anemic patients on dialysis.
+The safety and efficacy of PROCRIT were evaluated in 13 clinical studies involving intravenous administration to a total of 1010 patients on dialysis with anemia.
 Overall, more than 90% of the patients treated with PROCRIT experienced improvement in hemoglobin concentrations.
 In the 3 largest of these clinical studies, the median maintenance dose necessary to maintain the hemoglobin between 10 to 12 g/dL was approximately 75 Units/kg 3 times weekly.
 More than 95% of patients were able to avoid RBC transfusions.
@@ -36,14 +36,14 @@ PROCRIT-treated patients experienced improvements in exercise tolerance and pati
 A multicenter, unit-dose study was also conducted in 119 patients receiving peritoneal dialysis who self-administered PROCRIT subcutaneously.
 Patients responded to PROCRIT administered subcutaneously in a manner similar to patients receiving intravenous administration.
 
-Pediatric Patients on Dialysis
+Pediatric Patients with CKD on Dialysis
 
-The safety and efficacy of PROCRIT were studied in a placebo-controlled, randomized study of 113 children with anemia (hemoglobin ≤ 9 g/dL) undergoing peritoneal dialysis or hemodialysis.
+The safety and efficacy of PROCRIT were studied in a placebo-controlled, randomized study of 113 pediatric patients with anemia (hemoglobin ≤ 9 g/dL) undergoing peritoneal dialysis or hemodialysis.
 The initial dose of PROCRIT was 50 Units/kg intravenously or subcutaneously 3 times weekly.
 The dose of study drug was titrated to achieve either a hemoglobin of 10 to 12 g/dL or an absolute increase in hemoglobin of 2 g/dL over baseline.
 
 At the end of the initial 12 weeks, a statistically significant rise in mean hemoglobin (3.1 g/dL vs. 0.3 g/dL) was observed only in the PROCRIT arm.
-The proportion of children achieving a hemoglobin of 10 g/dL, or an increase in hemoglobin of 2 g/dL over baseline, at any time during the first 12 weeks was higher in the PROCRIT arm (96% vs. 58%).
+The proportion of pediatric patients achieving a hemoglobin of 10 g/dL, or an increase in hemoglobin of 2 g/dL over baseline, at any time during the first 12 weeks was higher in the PROCRIT arm (96% vs. 58%).
 Within 12 weeks of initiating PROCRIT therapy, 92.3% of the pediatric patients were RBC transfusion independent as compared to 65.4% who received placebo.
 Among patients who received 36 weeks of PROCRIT, hemodialysis patients received a higher median maintenance dose [167 Units/kg/week (n=28) vs. 76 Units/kg/week (n=36)] and took longer to achieve a hemoglobin of 10 to 12 g/dL (median time to response 69 days vs. 32 days) than patients undergoing peritoneal dialysis.
 
@@ -60,15 +60,15 @@ In CHOIR, a randomized open-label study of 1432 patients with CKD not on dialysi
 In each trial, no benefits occurred for the cardiovascular or end-stage renal disease outcomes.
 In each trial, the potential benefit of ESA therapy was offset by worse cardiovascular safety outcomes resulting in an unfavorable benefit-risk profile [see Warnings and Precautions (5.1)].
 
-ESA Effects on rates of death and other serious cardiac adverse events
+ESA Effects on rates of death and other serious cardiac adverse reactions
 
 Three randomized outcome trials (Normal Hematocrit Study [NHS], Correction of Anemia with Epoetin Alfa in Chronic Kidney Disease [CHOIR], and Trial of Darbepoetin Alfa in Type 2 Diabetes and CKD [TREAT]) have been conducted in patients with CKD using Epogen/PROCRIT/Aranesp to target higher vs. lower hemoglobin levels.
 Though these trials were designed to establish a cardiovascular or renal benefit of targeting higher hemoglobin levels, in all 3 studies, patients randomized to the higher hemoglobin target experienced worse cardiovascular outcomes and showed no reduction in progression to ESRD.
 In each trial, the potential benefit of ESA therapy was offset by worse cardiovascular safety outcomes resulting in an unfavorable benefit-risk profile [see Warnings and Precautions (5.1)].
 
-## 14.2 Zidovudine-treated Patients With HIV Infection
+## 14.2 Zidovudine-treated Patients With HIV-infection
 
-The safety and efficacy of PROCRIT were evaluated in 4 placebo-controlled studies enrolling 297 anemic patients (hemoglobin < 10 g/dL) with HIV infection receiving concomitant therapy with zidovudine.
+The safety and efficacy of PROCRIT were evaluated in 4 placebo-controlled studies enrolling 297 anemic patients (hemoglobin < 10 g/dL) with HIV-infection receiving concomitant therapy with zidovudine.
 In the subgroup of patients (89/125 PROCRIT and 88/130 placebo) with pre-study endogenous serum erythropoietin levels ≤ 500 mUnits/mL, PROCRIT reduced the mean cumulative number of units of blood transfused per patient by approximately 40% as compared to the placebo group.
 Among those patients who required RBC transfusions at baseline, 43% of patients treated with PROCRIT versus 18% of placebo-treated patients were RBC transfusion-independent during the second and third months of therapy.
 PROCRIT therapy also resulted in significant increases in hemoglobin in comparison to placebo.
@@ -77,7 +77,7 @@ When examining the results according to the weekly dose of zidovudine received d
 Approximately 17% of the patients with endogenous serum erythropoietin levels ≤ 500 mUnits/mL receiving PROCRIT in doses from 100 to 200 Units/kg 3 times weekly achieved a hemoglobin of 12.7 g/dL without administration of RBC transfusions or significant reduction in zidovudine dose.
 In the subgroup of patients whose pre-study endogenous serum erythropoietin levels were > 500 mUnits/mL, PROCRIT therapy did not reduce RBC transfusion requirements or increase hemoglobin compared to the corresponding responses in placebo-treated patients.
 
-## 14.3 Cancer Patients on Chemotherapy
+## 14.3 Patients with Cancer on Chemotherapy
 
 The safety and effectiveness of PROCRIT was assessed in two multicenter, randomized (1:1), placebo-controlled, double-blind studies (Study C1 and Study C2) and a pooled analysis of six additional randomized (1:1), multicenter, placebo-controlled, double-blind studies.
 All studies were conducted in patients with anemia due to concomitantly administered cancer chemotherapy.
@@ -87,7 +87,7 @@ In the pooled analysis, efficacy was demonstrated by a reduction in the proporti
 
 Study C1
 
-Study C1 was conducted in anemic patients (hemoglobin < 11.5 g/dL for males; < 10.5 g/dL for females) with non-myeloid malignancies receiving myelosuppressive chemotherapy.
+Study C1 was conducted in patients with anemia (hemoglobin < 11.5 g/dL for males; < 10.5 g/dL for females) with non-myeloid malignancies receiving myelosuppressive chemotherapy.
 Randomization was stratified by type of malignancy (lung vs. breast vs. other), concurrent radiation therapy planned (yes or no), and baseline hemoglobin (< 9 g/dL vs. ≥ 9 g/dL); patients were randomized to epoetin alfa 40,000 Units (n=174) or placebo (n=170) as a weekly subcutaneous injection commencing on the first day of the chemotherapy cycle.
 
 Ninety-one percent of patients were white, 44% were male, and the median age of patients was 66 years (range: 20 to 88 years).
@@ -106,7 +106,7 @@ Table 9: Study C1: Proportion of Patients Transfused
 
 Study C2
 
-Study C2 was conducted in 222 anemic patients, ages 5 to 18, receiving chemotherapy for the treatment of various childhood malignancies.
+Study C2 was conducted in 222 patients with anemia, ages 5 to 18, receiving chemotherapy for the treatment of various childhood malignancies.
 Randomization was stratified by cancer type (solid tumors, Hodgkin's disease, acute lymphocytic leukemia, vs. non-Hodgkin's lymphoma); patients were randomized to receive epoetin alfa at 600 Units/kg maximum 40,000 Units (n=111) or placebo (n=111) as a weekly intravenous injection.
 
 Sixty-nine percent of patients were white, 55% were male, and the median age of patients was 12 years (range: 5 to 18 years).
