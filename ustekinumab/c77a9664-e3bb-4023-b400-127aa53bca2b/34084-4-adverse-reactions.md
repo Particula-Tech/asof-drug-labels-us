@@ -11,13 +11,13 @@ The following serious adverse reactions are discussed elsewhere in the label:
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Psoriasis
+Adult Subjects with Plaque Psoriasis
 
-The safety data reflect exposure to STELARA® in 3117 psoriasis subjects, including 2414 exposed for at least 6 months, 1855 exposed for at least one year, 1653 exposed for at least two years, 1569 exposed for at least three years, 1482 exposed for at least four years and 838 exposed for at least five years.
+The safety data reflect exposure to STELARA® in 3117 adult psoriasis subjects, including 2414 exposed for at least 6 months, 1855 exposed for at least one year, 1653 exposed for at least two years, 1569 exposed for at least three years, 1482 exposed for at least four years and 838 exposed for at least five years.
 
-Table 2 summarizes the adverse reactions that occurred at a rate of at least 1% and at a higher rate in the STELARA® groups than the placebo group during the placebo-controlled period of Ps STUDY 1 and Ps STUDY 2 [see Clinical Studies (14)].
+Table 4 summarizes the adverse reactions that occurred at a rate of at least 1% and at a higher rate in the STELARA® groups than the placebo group during the placebo-controlled period of Ps STUDY 1 and Ps STUDY 2 [see Clinical Studies (14)].
 
-Table 2: Adverse reactions reported by ≥1% of subjects through Week 12 in Ps STUDY 1 and Ps STUDY 2
+Table 4: Adverse Reactions Reported by ≥1% of Subjects through Week 12 in Ps STUDY 1 and Ps STUDY 2
 
 |  | Placebo | 45 mg | 90 mg |
 | --- | --- | --- | --- |
@@ -55,10 +55,15 @@ Non-melanoma skin cancer was reported in 1.5% of STELARA®-treated subjects (0.5
 The most frequently observed malignancies other than non-melanoma skin cancer during the clinical studies were: prostate, melanoma, colorectal and breast.
 Malignancies other than non-melanoma skin cancer in STELARA®-treated patients during the controlled and uncontrolled portions of studies were similar in type and number to what would be expected in the general U.S. population according to the SEER database (adjusted for age, gender and race).1
 
+Adolescent Subjects with Plaque Psoriasis
+
+The safety of STELARA® was assessed in a study of 110 subjects 12 to 17 years of age with moderate to severe plaque psoriasis.
+The safety profile in these subjects through Week 60 was similar to the safety profile from studies in adults with plaque psoriasis.
+
 Psoriatic Arthritis
 
 The safety of STELARA® was assessed in 927 patients in two randomized, double-blind, placebo-controlled studies in adult patients with active psoriatic arthritis (PsA).
-The overall safety profile of STELARA® in patients with PsA was consistent with the safety profile seen in psoriasis clinical studies.
+The overall safety profile of STELARA® in patients with PsA was consistent with the safety profile seen in adult psoriasis clinical studies.
 A higher incidence of arthralgia, nausea, and dental infections was observed in STELARA®-treated patients when compared with placebo-treated patients (3% vs. 1% for arthralgia and 3% vs. 1% for nausea; 1% vs. 0.6% for dental infections) in the placebo-controlled portions of the PsA clinical studies.
 
 Crohn's Disease
@@ -67,12 +72,12 @@ The safety of STELARA® was assessed in 1407 patients with moderately to severel
 These 1407 patients included 40 patients who received a prior investigational intravenous ustekinumab formulation but were not included in the efficacy analyses.
 In Studies CD-1 and CD-2 there were 470 patients who received STELARA® 6 mg/kg as a weight-based single intravenous induction dose and 466 who received placebo [see Dosage and Administration (2.3)].
 Patients who were responders in either Study CD-1 or CD-2 were randomized to receive a subcutaneous maintenance regimen of either 90 mg STELARA® every 8 weeks, or placebo for 44 weeks in Study CD-3.
-Patients in these 3 studies may have received other concomitant therapies including aminosalicylates, immunomodulatory agents [azathioprine (AZA), 6-mercaptopurine (6-MP), methotrexate (MTX)], oral corticosteroids (prednisone or budesonide), and/or antibiotics for their Crohn's disease [see Clinical Studies (14.3)].
+Patients in these 3 studies may have received other concomitant therapies including aminosalicylates, immunomodulatory agents [azathioprine (AZA), 6-mercaptopurine (6-MP), methotrexate (MTX)], oral corticosteroids (prednisone or budesonide), and/or antibiotics for their Crohn's disease [see Clinical Studies (14.4)].
 
-The overall safety profile of STELARA® was consistent with the safety profile seen in the psoriasis and psoriatic arthritis clinical studies.
-Common adverse reactions in Studies CD-1 and CD-2 and in Study CD-3 are listed in Tables 3 and 4, respectively.
+The overall safety profile of STELARA® was consistent with the safety profile seen in the adult psoriasis and psoriatic arthritis clinical studies.
+Common adverse reactions in Studies CD-1 and CD-2 and in Study CD-3 are listed in Tables 5 and 6, respectively.
 
-Table 3: Common adverse reactions through Week 8 in Studies CD-1 and CD-2 occurring in ≥3% of STELARA®-treated patients and higher than placebo
+Table 5: Common adverse reactions through Week 8 in Studies CD-1 and CD-2 occurring in ≥3% of STELARA®-treated patients and higher than placebo
 
 | N=466 | N=470 |  |
 | --- | --- | --- |
@@ -81,7 +86,7 @@ Table 3: Common adverse reactions through Week 8 in Studies CD-1 and CD-2 occurr
 
 Other less common adverse reactions reported in patients in Studies CD-1 and CD-2 included asthenia (1% vs 0.4%), acne (1% vs 0.4%), and pruritus (2% vs 0.4%).
 
-Table 4: Common adverse reactions through Week 44 in Study CD-3 occurring in ≥3% of STELARA®-treated patients and higher than placebo
+Table 6: Common adverse reactions through Week 44 in Study CD-3 occurring in ≥3% of STELARA®-treated patients and higher than placebo
 
 | N=133 | N=131 |  |
 | --- | --- | --- |
@@ -113,15 +118,17 @@ These patients were treated with oral antihistamines or corticosteroids and in b
 
 ## 6.2 Immunogenicity
 
-Approximately 6% of patients treated with STELARA® in psoriasis and psoriatic arthritis clinical studies developed antibodies to ustekinumab, which were generally low-titer.
+As with all therapeutic proteins, there is potential for immunogenicity.
+The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay.
+Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors, including assay methodology, sample handling, timing of sample collection, concomitant medications and underlying disease.
+For these reasons, comparison of the incidence of antibodies to ustekinumab in the studies described below with the incidence of antibodies to other products may be misleading.
+
+Approximately 6% of subjects treated with STELARA® in psoriasis and psoriatic arthritis clinical studies developed antibodies to ustekinumab, which were generally low-titer.
 In Crohn's disease clinical studies, less than 3% of patients treated with STELARA® developed antibodies to ustekinumab.
+In psoriasis clinical studies, antibodies to ustekinumab were associated with reduced serum ustekinumab concentrations and reduced efficacy.
 No apparent association between the development of antibodies to ustekinumab and the development of injection site reactions was seen.
 No ustekinumab-related serious hypersensitivity reactions were observed in psoriasis, psoriatic arthritis and Crohn's disease clinical studies.
 In psoriasis studies, the majority of patients who were positive for antibodies to ustekinumab had neutralizing antibodies.
-
-The data above reflect the percentage of subjects whose test results were positive for antibodies to ustekinumab and are highly dependent on the sensitivity and specificity of the assay.
-Additionally, the observed incidence of antibody positivity in an assay may be influenced by several factors, including sample handling, timing of sample collection, concomitant medications and underlying disease.
-For these reasons, comparison of the incidence of antibodies to ustekinumab with the incidence of antibodies to other products may be misleading.
 
 ## 6.3 Postmarketing Experience
 

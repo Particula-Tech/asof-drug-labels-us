@@ -16,17 +16,17 @@ In a small exploratory study, a decrease was observed in the expression of mRNA 
 
 Absorption
 
-In subjects with psoriasis, the median time to reach the maximum serum concentration (Tmax) was 13.5 days and 7 days, respectively, after a single subcutaneous administration of 45 mg (N=22) and 90 mg (N=24) of ustekinumab.
+In adult subjects with psoriasis, the median time to reach the maximum serum concentration (Tmax) was 13.5 days and 7 days, respectively, after a single subcutaneous administration of 45 mg (N=22) and 90 mg (N=24) of ustekinumab.
 In healthy subjects (N=30), the median Tmax value (8.5 days) following a single subcutaneous administration of 90 mg of ustekinumab was comparable to that observed in subjects with psoriasis.
 
-Following multiple subcutaneous doses of STELARA® in patients with psoriasis, the steady-state serum concentrations of ustekinumab were achieved by Week 28.
+Following multiple subcutaneous doses of STELARA® in adult subjects with psoriasis, steady-state serum concentrations of ustekinumab were achieved by Week 28.
 There was no apparent accumulation in serum ustekinumab concentration over time when given subcutaneously every 12 weeks.
 
-In patients with Crohn's disease, following the recommended intravenous induction dose, mean peak serum ustekinumab concentration was 125.2 ± 33.6 mcg/mL.
+In patients with Crohn's disease, following the recommended intravenous induction dose, mean ±SD peak serum ustekinumab concentration was 125.2 ± 33.6 mcg/mL.
 Starting at Week 8, the recommended subcutaneous maintenance dosing of 90 mg ustekinumab was administered every 8 weeks.
 Steady state ustekinumab concentration was achieved by the start of the second maintenance dose.
 There was no apparent accumulation in ustekinumab concentration over time when given subcutaneously every 8 weeks.
-Mean steady-state trough concentration was 2.51 ± 2.06 mcg/mL for 90 mg ustekinumab administered every 8 weeks.
+Mean ±SD steady-state trough concentration was 2.51 ± 2.06 mcg/mL for 90 mg ustekinumab administered every 8 weeks.
 
 Distribution
 
@@ -53,6 +53,11 @@ Age: Geriatric Population
 
 A population pharmacokinetic analysis (N=106/1937 patients with psoriasis greater than or equal to 65 years old) was performed to evaluate the effect of age on the pharmacokinetics of ustekinumab.
 There were no apparent changes in pharmacokinetic parameters (clearance and volume of distribution) in subjects older than 65 years old.
+
+Age: Pediatric Population
+
+Following multiple recommended doses of STELARA® in adolescent subjects 12 to 17 years of age with psoriasis, steady-state serum concentrations of ustekinumab were achieved by Week 28.
+At Week 28, the mean ±SD steady-state trough serum ustekinumab concentration was 0.54 ± 0.43 mcg/mL.
 
 Drug Interaction Studies
 

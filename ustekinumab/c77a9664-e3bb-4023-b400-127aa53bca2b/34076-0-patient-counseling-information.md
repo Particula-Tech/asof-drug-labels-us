@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Medication Guide and Instructions for Use)
+Advise the patient and/or caregiver to read the FDA-approved patient labeling (Medication Guide and Instructions for Use) before the patient starts using STELARA®, and each time the prescription is renewed, as there may be new information they need to know.
 
 Infections
 

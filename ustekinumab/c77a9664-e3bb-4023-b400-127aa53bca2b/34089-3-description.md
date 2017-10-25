@@ -5,7 +5,7 @@ Using DNA recombinant technology, ustekinumab is produced in a well characterize
 The manufacturing process contains steps for the clearance of viruses.
 Ustekinumab is comprised of 1326 amino acids and has an estimated molecular mass that ranges from 148,079 to 149,690 Daltons.
 
-STELARA® (ustekinumab) Injection is a sterile, preservative-free, colorless to slightly yellow solution that may contain a few small translucent or white particles with pH of 5.7– 6.3.
+STELARA® (ustekinumab) Injection is a sterile, preservative-free, colorless to light yellow solution and may contain a few small translucent or white particles with pH of 5.7– 6.3.
 
 STELARA® for Subcutaneous Use
 

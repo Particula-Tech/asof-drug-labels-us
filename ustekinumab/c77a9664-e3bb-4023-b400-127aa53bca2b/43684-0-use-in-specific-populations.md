@@ -47,7 +47,9 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of STELARA® in pediatric patients have not been established.
+The safety and effectiveness of STELARA® have been established in pediatric subjects 12 to 17 years old with moderate to severe plaque psoriasis.
+Use of STELARA® in this age group is supported by evidence from a multicenter, randomized, 60-week trial that included a 12-week, double-blind, placebo-controlled, parallel-group portion, in 110 pediatric subjects 12 years and older [see Adverse Reactions (6.1) and Clinical Studies (14.2)].
+The safety and effectiveness of STELARA® for pediatric patients less than 12 years of age have not been established.
 
 ## 8.5 Geriatric Use
 

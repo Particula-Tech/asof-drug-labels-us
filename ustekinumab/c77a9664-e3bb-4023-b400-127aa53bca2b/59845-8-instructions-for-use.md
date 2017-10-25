@@ -19,12 +19,13 @@ Important information:
   - If your dose is 45 mg, you will receive one 45 mg prefilled syringe.
   - If your dose is 90 mg, you will receive either one 90 mg prefilled syringe or two 45 mg prefilled syringes.
     If you receive two 45 mg prefilled syringes for a 90 mg dose, you will need to give yourself two injections, one right after the other.
-- Check the expiration date on the pre-filled syringe and carton.
+- Children 12 years of age and older with psoriasis who weigh 132 pounds or more may use a prefilled syringe.
+- Check the expiration date on the prefilled syringe and carton.
   If the expiration date has passed, do not use it.
   If the expiration date has passed call your doctor or pharmacist, or call 1-800-JANSSEN (1-800-526-7736) for help.
 - Make sure the syringe is not damaged.
 - The needle cover on the prefilled syringe contains latex.
-  Do not handle the needle cover on the STELARA prefilled syringe if you are sensitive to latex.
+  Do not handle the needle cover on the STELARA prefilled syringe if you are allergic to latex.
 - Check your prefilled syringe for any particles or discoloration.
   Your prefilled syringe should look clear and colorless to light yellow with few white particles.
 - Do not use if it is frozen, discolored, cloudy or has large particles.
@@ -52,9 +53,11 @@ Figure A
 
 Figure B
 
+To prevent premature activation of the needle safety guard, do not touch the NEEDLE GUARD ACTIVATION CLIPS at any time during use.
+
 Step 1: Prepare the injection.
 
-- Choose a well lit, clean, flat work surface.
+- Choose a well-lit, clean, flat work surface.
 - Wash your hands well with soap and warm water.
 - Hold the prefilled syringe with the covered needle pointing upward.
 
@@ -121,6 +124,11 @@ Figure H
   Do not rub the injection site.
   You may cover the injection site with a small adhesive bandage, if necessary.
 
+If your dose is 90 mg, you will receive either one 90 mg prefilled syringe or two 45 mg prefilled syringes.
+If you receive two 45 mg prefilled syringes for a 90 mg dose, you will need to give yourself a second injection right after the first.
+Repeat Steps 1–3 for the second injection using a new syringe.
+Choose a different site for the second injection.
+
 Step 4: Dispose of the syringe.
 
 - Put the syringe in a FDA-cleared sharps disposal container right away after use.
@@ -144,11 +152,11 @@ Prefilled Syringe Manufactured by: Janssen Biotech, Inc., Horsham, PA 19044, US 
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Issued 09/2016
+Revised: 10/2017
 
-© Janssen Biotech, Inc. 2012
+© 2012 Janssen Pharmaceutical Companies
 
-INSTRUCTIONS FOR USE STELARA (stel ar' a) (ustekinumab) Injection, for subcutaneous use
+INSTRUCTIONS FOR USE STELARA (stel ar' a) (ustekinumab) injection, for subcutaneous use
 
 Instructions for injecting STELARA from a vial.
 
@@ -166,8 +174,9 @@ Important information:
 
 - Before you start, check the carton to make sure that it is the right dose.
   You will have either 45 mg or 90 mg as prescribed by your doctor.
-  - If your dose is 45 mg you will receive one 45 mg vial.
+  - If your dose is 45 mg or less you will receive one 45 mg vial.
   - If your dose is 90 mg, you will receive two 45 mg vials and you will need to give yourself two injections, one right after the other.
+- Children 12 years of age and older weighing less than 132 pounds require a dose lower than 45 mg.
 - Check the expiration date on the vial and carton.
   If the expiration date has passed, do not use it.
   If the expiration date has passed, call your doctor or pharmacist, or call 1-800-JANSSEN (1-800-526-7736) for help.
@@ -180,7 +189,8 @@ Important information:
   If your vial has been shaken, do not use it.
   Get a new vial.
 - Do not use a STELARA vial more than one time, even if there is medicine left in the vial.
-  Throw away any unused STELARA after you give your injection.
+  After the cap is punctured, STELARA can become contaminated by harmful bacteria which could cause an infection if re-used.
+  Therefore, throw away any unused STELARA after you give your injection.
 - Safely throw away (dispose of) STELARA vials after use.
 - Do not re-use syringes or needles.
   See "Step 6: Dispose of needles and syringes."
@@ -203,7 +213,7 @@ Figure A
 
 Step 1: Prepare the injection.
 
-- Choose a well lit, clean, flat work surface.
+- Choose a well-lit, clean, flat work surface.
 - Wash your hands well with soap and warm water.
 
 Step 2: Prepare your injection site
@@ -329,6 +339,6 @@ Vial Manufactured by: Janssen Biotech, Inc., Horsham, PA 19044, US License No. 1
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Issued 11/2016
+Revised: 10/2017
 
-© 2012, 2016 Janssen Biotech, Inc.
+© 2012, 2016 Janssen Pharmaceutical Companies
