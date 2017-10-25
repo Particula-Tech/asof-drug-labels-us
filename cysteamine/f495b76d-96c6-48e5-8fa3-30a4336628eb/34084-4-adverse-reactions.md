@@ -33,7 +33,7 @@ Adverse reactions or intolerance leading to cessation of treatment occurred in 8
 
 Withdrawals due to intolerance, vomiting associated with medication, anorexia, lethargy, and fever appeared dose related, occurring more frequently in those patients receiving 1.95 grams/m2/day as compared to 1.30 grams/m2/day.
 
-|  | 1.30 (n = 42) % | 1.95 (n = 51) % |
+| 1.30 (n = 42) % | 1.95 (n = 51) % |  |
 | --- | --- | --- |
 |  | Dose in Grams/m2/day |  |
 | Vomiting Considered Related to Medicine | 31 | 67 |

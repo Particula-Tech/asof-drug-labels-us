@@ -58,7 +58,7 @@ Renal tubular function was not affected by treatment.
 
 Calculated creatinine clearances were evaluated for two groups of children, one with poor white cell cystine depletion and one with good white cell cystine depletion as shown in Table I. The final mean creatinine clearance of the good depletion group was 20.8 ml/min/1.73 m2 greater than the mean for the poor depletion group, despite the older mean age of the good depletion group.
 
-TABLE I CREATININE CLEARANCE CHANGES BY WHITE CELL CYSTINE DEPLETION
+TABLE 1: CREATININE CLEARANCE CHANGES BY WHITE CELL CYSTINE DEPLETION
 
 |  | Initial | Final | Initial | Final |
 | --- | --- | --- | --- | --- |

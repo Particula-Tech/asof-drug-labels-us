@@ -38,8 +38,8 @@ There have been reports of serious skin lesions in patients treated with high do
 These skin lesions are purplish hemorrhagic lesions over the elbow area on both arms and have been described as molluscoid pseudotumors.
 Skin striae, bone lesions (that have been described as osteopenia, compression fractures, scoliosis and genu valgum) along with leg pain and joint hyperextension may also be present.
 One patient with serious skin lesions subsequently died of acute cerebral ischemia with marked vasculopathy.
-Physicians should routinely monitor the skin and bones of patients receiving CYSTAGON.
-If similar skin or bone abnormalities appear, the dose of CYSTAGON should be reduced.
+Physicians should routinely monitor the skin and bones of patients receiving CYSTAGON®.
+If similar skin or bone abnormalities appear, the dose of CYSTAGON® should be reduced.
 
 ## Information for Patients and Parents and/or Guardians
 

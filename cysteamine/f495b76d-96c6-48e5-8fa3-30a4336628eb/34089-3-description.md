@@ -6,4 +6,4 @@ Cysteamine bitartrate is a highly water soluble white powder with a molecular we
 It has the following chemical structure:
 
 Each CYSTAGON® Capsule contains 50 mg or 150 mg of cysteamine free base as cysteamine bitartrate.
-CYSTAGON® Capsules contain the following inactive ingredients: ammonium hydroxide, black iron oxide, colloidal silicon dioxide, croscarmellose sodium, gelatin, magnesium stearate, microcrystalline cellulose, pharmaceutical glaze, pregelatinized starch, propylene glycol, silicon dioxide, sodium lauryl sulfate and titanium dioxide.
+CYSTAGON® Capsules contain the following inactive ingredients: ammonium hydroxide, black iron oxide, colloidal silicon dioxide, croscarmellose sodium, gelatin, magnesium stearate, microcrystalline cellulose, pharmaceutical glaze, pregelatinized starch, propylene glycol, sodium lauryl sulfate and titanium dioxide.
