@@ -8,23 +8,30 @@ Patients should be cautioned to avoid activities, such as driving or hazardous t
 
 ## General Precautions:
 
-1. A complete medical history and physical examination should be undertaken to exclude reversible causes of erectile dysfunction prior to the initiation of MUSE therapy.
+1. 1.A complete medical history and physical examination should be undertaken to exclude reversible causes of erectile dysfunction prior to the initiation of MUSE therapy.
    In addition, underlying disorders that might preclude the use of MUSE (see CONTRAINDICATIONS) should be sought.
-2. Cardiovascular effects: During in-clinic dosing, patients should be monitored for symptoms of hypotension, and the lowest effective dose of MUSE should be prescribed.
-3. Hematologic effects: Patients administering MUSE improperly may be at risk of urethral abrasion resulting in minor bleeding or spotting.
+2. 2.
+   Cardiovascular effects: During in-clinic dosing, patients should be monitored for symptoms of hypotension, and the lowest effective dose of MUSE should be prescribed.
+3. 3.
+   Hematologic effects: Patients administering MUSE improperly may be at risk of urethral abrasion resulting in minor bleeding or spotting.
    Patients on anticoagulant therapy or with bleeding disorders may be at higher risk of bleeding.
    Patients on anticoagulant therapy have been safely treated with MUSE; however, the risk/benefit ratio in these patients should be considered prior to prescribing MUSE.
-4. Resumption of sexual activity: Sexual intercourse is considered a vigorous physical activity, and it increases heart rate as well as cardiac work.
+4. 4.
+   Resumption of sexual activity: Sexual intercourse is considered a vigorous physical activity, and it increases heart rate as well as cardiac work.
    Physicians may want to examine the cardiac fitness of patients prior to treating erectile dysfunction.
-5. Priapism and prolonged erection: In clinical trials of MUSE, priapism (rigid erection lasting ≥6 hours) and prolonged erection (rigid erection lasting 4 hours and <6 hours) were reported infrequently (<0.1% and 0.3% of patients, respectively).
+5. 5.
+   Priapism and prolonged erection: In clinical trials of MUSE, priapism (rigid erection lasting ≥6 hours) and prolonged erection (rigid erection lasting 4 hours and <6 hours) were reported infrequently (<0.1% and 0.3% of patients, respectively).
    Nevertheless, these events are a potential risk of pharmacologic therapy and can cause penile injury.
    Physicians should lower the dose or consider discontinuing MUSE treatment in any patient who develops priapism or prolonged erection.
-6. Drug-Drug Interactions: Because there are low or undetectable (<2 picograms/mL) amounts of alprostadil found in the peripheral venous circulation following MUSE administration, systemic drug-drug interactions with MUSE are unlikely.
+6. 6.
+   Drug-Drug Interactions: Because there are low or undetectable (<2 picograms/mL) amounts of alprostadil found in the peripheral venous circulation following MUSE administration, systemic drug-drug interactions with MUSE are unlikely.
    Although formal studies have not been conducted, the concomitant use of MUSE and anti-hypertensive medications may increase the risk of hypotension.
    It is therefore advised that caution be used in the administration of MUSE to individuals on anti-hypertensive medications.
    In addition, the presence of medications in the circulation that attenuate erectile function may influence the response to MUSE.
-7. Drug-Device Interactions: Use of MUSE in patients with penile implants has not been studied.
-8. Sexual Preference: There is no experience in homosexual men and no experience with other than vaginal intercourse.
+7. 7.
+   Drug-Device Interactions: Use of MUSE in patients with penile implants has not been studied.
+8. 8.
+   Sexual Preference: There is no experience in homosexual men and no experience with other than vaginal intercourse.
 
 ## Information for Patients:
 

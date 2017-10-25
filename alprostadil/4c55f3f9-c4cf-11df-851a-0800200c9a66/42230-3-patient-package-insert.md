@@ -28,29 +28,29 @@ WHO SHOULD NOT USE MUSE?
 
 You should not use MUSE if you have any of the following:
 
-- Known hypersensitivity to alprostadil (the active medication in MUSE)
-- An abnormally formed penis
-- Have been advised not to undertake sexual activity
-- Conditions that might result in long-lasting erections, such as sickle cell anemia or trait, leukemia, or tumor of the bone marrow (multiple myeloma)
-- MUSE should not be used for sexual intercourse with a pregnant woman unless the couple uses a condom barrier.
+- • Known hypersensitivity to alprostadil (the active medication in MUSE)
+- • An abnormally formed penis
+- • Have been advised not to undertake sexual activity
+- • Conditions that might result in long-lasting erections, such as sickle cell anemia or trait, leukemia, or tumor of the bone marrow (multiple myeloma)
+- • MUSE should not be used for sexual intercourse with a pregnant woman unless the couple uses a condom barrier.
 
 WHAT ARE THE POSSIBLE SIDE EFFECTS OF MUSE?
 
 The most common side effects that have been observed using MUSE follow:
 
-- Aching in the penis, testicles, legs, and in the perineum (area between the penis and rectum)
-- Warmth or burning sensation in the urethra
-- Redness of the penis due to increased blood flow
-- Minor urethral bleeding or spotting due to improper administration.
+- • Aching in the penis, testicles, legs, and in the perineum (area between the penis and rectum)
+- • Warmth or burning sensation in the urethra
+- • Redness of the penis due to increased blood flow
+- • Minor urethral bleeding or spotting due to improper administration.
 
 Side effects reported less frequently:
 
-- Prolonged erection - PLEASE NOTE: IF YOUR ERECTION IS RIGID FOR MORE THAN 4 HOURS, CALL YOUR DOCTOR PROMPTLY.
-- Swelling of leg veins
-- Light-headedness/Dizziness
-- Fainting - PLEASE NOTE: AFTER USING MUSE, YOU SHOULD AVOID ACTIVITIES, SUCH AS DRIVING OR HAZARDOUS TASKS WHERE INJURY COULD RESULT IF DIZZINESS OR FAINTING WERE TO OCCUR.
+- • Prolonged erection - PLEASE NOTE: IF YOUR ERECTION IS RIGID FOR MORE THAN 4 HOURS, CALL YOUR DOCTOR PROMPTLY.
+- • Swelling of leg veins
+- • Light-headedness/Dizziness
+- • Fainting - PLEASE NOTE: AFTER USING MUSE, YOU SHOULD AVOID ACTIVITIES, SUCH AS DRIVING OR HAZARDOUS TASKS WHERE INJURY COULD RESULT IF DIZZINESS OR FAINTING WERE TO OCCUR.
   IN PATIENTS EXPERIENCING THESE SYMPTOMS, THE SYMPTOMS HAVE USUALLY OCCURRED DURING INITIATION OF THERAPY AND WITHIN ONE HOUR OF MUSE ADMINISTRATION.
-- Rapid pulse.
+- • Rapid pulse.
 
 If you have a history of fainting be sure to discuss this with your doctor prior to using MUSE.
 If you do experience dizziness or feel faint, this may be due to the lowering of your blood pressure.
@@ -101,48 +101,48 @@ Do not store in the trunk of a car or in baggage storage areas where MUSE may be
 
 HOW TO ADMINISTER MUSE:
 
-1. Immediately prior to administration, urinate and gently shake the penis several times to remove excess urine.
+1. 1.Immediately prior to administration, urinate and gently shake the penis several times to remove excess urine.
    A moist urethra makes administration of MUSE easier.
    The medicated pellet has been specially developed to dissolve in the small quantity of urine that remains in the urethra after urination.
-2. Open the foil pouch by tearing fully across from the notched edge (Fig.
+2. 2.Open the foil pouch by tearing fully across from the notched edge (Fig.
    2).
    Let the MUSE slide out of the pouch.
    Save the pouch for discarding the MUSE applicator later.
-3. To remove the protective cover from the applicator stem (Fig.
+3. 3.To remove the protective cover from the applicator stem (Fig.
    3), hold the body of the applicator with your thumb and forefinger.
    Twist the body and pull out the applicator from the cover, being careful not to push in or pull out the applicator button.
    Avoid touching the applicator stem and tip.
    Save the cover for discarding the MUSE applicator later.
-4. Visually inspect the MUSE.
+4. 4.Visually inspect the MUSE.
    The MUSE system is see-through, and you will be able to see the medicated pellet at the end of the stem.
    Make sure that the pellet is present before insertion (Fig.
    4).
-5. Hold the applicator in a way which is the most comfortable for you.
+5. 5.Hold the applicator in a way which is the most comfortable for you.
    (Fig.
    5a and 5b)
-6. Please review Figure 6a, the anatomy of the penis.While sitting or standing, whichever is more comfortable for you, take several seconds to gently and slowly stretch the penis upward to its full length, with gentle compression from top to bottom of the glans (Fig.
+6. 6.Please review Figure 6a, the anatomy of the penis.While sitting or standing, whichever is more comfortable for you, take several seconds to gently and slowly stretch the penis upward to its full length, with gentle compression from top to bottom of the glans (Fig.
    6b).
    This straightens and opens the urethra.
    Slowly insert the MUSE stem into the urethra up to the collar (Fig.
    6c).
    If you feel any discomfort or a pulling sensation, withdraw the applicator slightly and then gently reinsert.
-7. Gently and completely push down (Fig.
+7. 7.Gently and completely push down (Fig.
    7) the button at the top of the applicator until it stops.
    It is important to do this to ensure that the medicated pellet is completely released.
    Hold the applicator in this position for 5 seconds.
-8. Gently rock the applicator from side to side.
+8. 8.Gently rock the applicator from side to side.
    This will separate the medicated pellet from the applicator tip (Fig.
    8).
    If you apply too much pressure you may scratch the lining of the urethra causing it to bleed.
-9. Remove the applicator while keeping the penis upright.
-10. Visually inspect the applicator tip to see that the medication is no longer in the applicator.
+9. 9.Remove the applicator while keeping the penis upright.
+10. 10.Visually inspect the applicator tip to see that the medication is no longer in the applicator.
     Do not touch the stem.
     If you notice some residual medication in the end of the applicator, gently reinsert into the urethra and repeat steps 7, 8, and 9.
-11. Holding the penis upright and stretched to its full length, roll the penis firmly between your hands for at least 10 seconds.
+11. 11.Holding the penis upright and stretched to its full length, roll the penis firmly between your hands for at least 10 seconds.
     This will ensure that the medication is adequately distributed along the walls of the urethra (Fig.
     9).
     If you feel a burning sensation, it may help to continue to roll the penis for an additional 30 – 60 seconds or until the burning subsides.
-12. Remember, each MUSE is good for a single administration only.
+12. 12.Remember, each MUSE is good for a single administration only.
     Replace the cover on the MUSE applicator, place in the opened foil pouch, fold, and discard as normal household waste.
 
 After you have administered MUSE, it is important to sit, or preferably stand or walk about for 10 minutes while the erection is developing.
@@ -152,19 +152,19 @@ ADDITIONAL INFORMATION AND PRACTICAL TIPS
 
 Factors Which May Enhance Your Erection:
 
-- Being well rested and relaxed
-- Sexual foreplay with your partner or self-stimulation while sitting or standing
-- Pelvic exercises (for example, Kegel exercises) these consist of tightening and releasing your pelvic and buttock muscles.
+- • Being well rested and relaxed
+- • Sexual foreplay with your partner or self-stimulation while sitting or standing
+- • Pelvic exercises (for example, Kegel exercises) these consist of tightening and releasing your pelvic and buttock muscles.
   These are the muscles you use to stop urination
-- Various positions that may favor blood flow into the penis.
+- • Various positions that may favor blood flow into the penis.
   Please refer to the patient starter booklet and video for illustrative examples.
 
 Factors Which May Reduce Your Erection:
 
-- Anxiety, fatigue, tension, and too much alcohol
-- Lying on your back too soon after administration of MUSE may decrease blood flow to the penis and result in loss of erection
-- Urination or dribbling immediately following administration may result in loss of medication from the urethra
-- Using medications that contain decongestants, such as over-the-counter cold remedies, allergy, sinus medications, and appetite suppressants, may block the effect of MUSE.
+- • Anxiety, fatigue, tension, and too much alcohol
+- • Lying on your back too soon after administration of MUSE may decrease blood flow to the penis and result in loss of erection
+- • Urination or dribbling immediately following administration may result in loss of medication from the urethra
+- • Using medications that contain decongestants, such as over-the-counter cold remedies, allergy, sinus medications, and appetite suppressants, may block the effect of MUSE.
 
 COMMONLY ASKED QUESTIONS ABOUT MUSE
 
