@@ -21,7 +21,7 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 
 In a randomized, double-blind, multi-center, placebo-controlled, parallel-group, dose-ranging study, 234 patients with PAH, aged 1 to 17 years, body weight greater than or equal to 8 kg, were randomized, on the basis of body weight, to three dose levels of sildenafil citrate, or placebo, for 16 weeks of treatment.
 Most patients had mild to moderate symptoms at baseline: WHO Functional Class I (32%), II (51%), III (15%), or IV (0.4%).
-One-third of patients had primary PAH; two-thirds had secondary PAH (systemic-to-pulmonary shunt in 36%; surgical repair in 30%).
+One-third of patients had primary PAH; two-thirds had secondary PAH (systemic-to-pulmonary shunt in 37%; surgical repair in 30%).
 Sixty-two percent of patients were female.
 Drug or placebo was administered three times a day.
 

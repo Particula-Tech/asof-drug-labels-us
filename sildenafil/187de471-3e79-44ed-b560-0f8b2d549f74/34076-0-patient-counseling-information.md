@@ -10,13 +10,10 @@ See FDA-approved patient labeling (Patient Information).
 - Advise patients to seek prompt medical attention in the event of sudden decrease or loss of hearing while taking sildenafil citrate.
   These events may be accompanied by tinnitus and dizziness.
 
-This product’s label may have been updated.
-For current full prescribing information, please visit www.amneal.com
+Manufactured by: Amneal Pharmaceuticals Pvt.
+Ltd. Ahmedabad 382220, INDIA
 
-Manufactured by: Amneal Pharmaceuticals Co. (I) Pvt.
-Ltd. Ahmedabad, INDIA 382220
-
-Distributed by: Amneal Pharmaceuticals Glasgow, KY 42141
+Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-03-2015-00
+09-2017-04

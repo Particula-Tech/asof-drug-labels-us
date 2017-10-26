@@ -1,6 +1,6 @@
 # PATIENT INFORMATION
 
-Sildenafil (sil-DEN-a-fil) Tablets
+Sildenafil (sil-DEN-a-fil) Tablets, USP
 
 Read this Patient Information before you start taking sildenafil tablets and each time you get a refill.
 There may be new information.
@@ -9,7 +9,7 @@ If you have any questions about sildenafil tablets, ask your doctor or pharmacis
 
 What is the most important information I should know about sildenafil tablets?
 
-Never take sildenafil tablets with any nitrate medicines.
+Never take sildenafil tablets with any nitrate or guanylate cyclase stimulator medicines.
 Your blood pressure could drop quickly to an unsafe level.
 Nitrate medicines include:
 
@@ -18,7 +18,11 @@ Nitrate medicines include:
 - Isosorbide mononitrate or dinitrate
 - Street drugs called “poppers” (amyl nitrate or nitrite)
 
-Ask your doctor or pharmacist if you are not sure if you are taking a nitrate medicine.
+Guanylate cyclase stimulators include:
+
+- Riociguat (Adempas)
+
+Ask your doctor or pharmacist if you are not sure if you are taking a nitrate or a guanylate cyclase stimulator medicine.
 
 What are sildenafil tablets?
 
@@ -40,6 +44,8 @@ Do not take sildenafil tablets if you:
 
 - take nitrate medicines.
   See “What is the most important information I should know about sildenafil tablets?”
+- take guanylate cyclase stimulator medicines.
+  See “What is the most important information I should know about sildenafil tablets?”
 - are allergic to sildenafil or any other ingredient in sildenafil tablets.
   See “What are the ingredients in sildenafil tablets?” at the end of this leaflet.
 
@@ -60,13 +66,15 @@ Tell your doctor about all of your medical conditions, including if you
 - are breastfeeding.
   It is not known if sildenafil citrate passes into your breast milk or if it could harm your baby.
 
-Tell your doctor about all of the medicines you take, including prescription and nonprescription medicines, vitamins, and herbal products.
+Tell your doctor about all of the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal products.
 Sildenafil tablets and certain other medicines can cause side effects if you take them together.
 The doses of some of your medicines may need to be adjusted while you take sildenafil tablets.
 
 Especially tell your doctor if you take
 
 - Nitrate medicines.
+  See “What is the most important information I should know about sildenafil tablets?”
+- Riociguat (Adempas).
   See “What is the most important information I should know about sildenafil tablets?”
 - Ritonavir (Norvir®) or other medicines used to treat HIV infection
 - Ketoconazole (Nizoral®)
@@ -108,7 +116,8 @@ What are the possible side effects of sildenafil tablets?
 - heart attack, stroke, irregular heartbeats, and death.
   Most of these happened in men who already had heart problems.
 - erections that last several hours.
-  Tell your doctor right away if you have an erection that lasts more than 4 hours.
+  If you have an erection that lasts more than 4 hours, get medical help right away.
+  If it is not treated right away, priapism can permanently damage your penis.
 
 The most common side effects with sildenafil tablets include:
 
@@ -137,6 +146,7 @@ It could harm them.
 This patient leaflet summarizes the most important information about sildenafil tablets.
 If you would like more information about sildenafil tablets, talk with your doctor.
 You can ask your doctor or pharmacist for information about sildenafil tablets that is written for health professionals.
+
 For more information go to www.amneal.com or call 1-877-835-5472.
 
 What are the ingredients in sildenafil tablets?
@@ -150,10 +160,10 @@ For current full prescribing information, please visit www.amneal.com
 
 This Patient Information has been approved by the U.S. Food and Drug Administration
 
-Manufactured by: Amneal Pharmaceuticals Co. (I) Pvt.
-Ltd. Ahmedabad, INDIA 382220
+Manufactured by: Amneal Pharmaceuticals Pvt.
+Ltd. Ahmedabad 382220, INDIA
 
-Distributed by: Amneal Pharmaceuticals Glasgow, KY 42141
+Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-03-2015-00
+09-2017-04

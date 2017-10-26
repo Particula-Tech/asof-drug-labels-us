@@ -118,7 +118,7 @@ In vitro studies
 Sildenafil metabolism is principally mediated by the CYP3A (major route) and CYP2C9 (minor route) cytochrome P450 isoforms.
 Therefore, inhibitors of these isoenzymes may reduce sildenafil clearance and inducers of these isoenzymes may increase sildenafil clearance.
 
-Sildenafil is a weak inhibitor of the cytochrome P450 isoforms 1A2, 2C9, 2C19, 2D6, 2E1 and 3A (IC50 greater than150 μM).
+Sildenafil is a weak inhibitor of the cytochrome P450 isoforms 1A2, 2C9, 2C19, 2D6, 2E1 and 3A (IC50 greater than 150 μM).
 Sildenafil is not expected to affect the pharmacokinetics of compounds which are substrates of these CYP enzymes at clinically relevant concentrations.
 
 In vivo studies
@@ -145,7 +145,7 @@ Population pharmacokinetic analysis of data from patients in clinical trials ind
 
 Epoprostenol
 
-The mean reduction of sildenafil (80 mg TID three times a day) bioavailability due to when co-administeredationofwith epoprostenol was 28%, resulting in about 22% lower mean average steady-state concentrations.
+The mean reduction of sildenafil (80 mg three times a day) bioavailability when co-administered with epoprostenol was 28%, resulting in about 22% lower mean average steady-state concentrations.
 Therefore, the slight decrease of sildenafil exposure in the presence of epoprostenol is not considered clinically relevant.
 The effect of sildenafil on epoprostenol pharmacokinetics is not known.
 

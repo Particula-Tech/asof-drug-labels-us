@@ -64,9 +64,7 @@ Clinical Worsening Events in Study 2
 | Death, n | 3 | 4 | 0 | 0 |
 | Lung Transplantation, n | 1 | 1 | 0 | 0 |
 | Hospitalization due to PAH, n | 9 | 11 | 8 | 8 |
-| Clinical deterioration resulting in: |  |  |  |  |
-| Change of Epoprostenol Dose, n | 9 | 16 | 0 | 2 |
-| Initiation of Bosentan, n | 1 | 1 | 0 | 0 |
+| Clinical deterioration resulting in: Change of Epoprostenol Dose, n Initiation of Bosentan, n | 9 1 | 16 1 | 0 0 | 2 0 |
 | Proportion Worsened 95% Confidence Interval | 0.187 (0.12 to 0.26) |  | 0.062 (0.02 to 0.10) |  |
 
 Figure 11.

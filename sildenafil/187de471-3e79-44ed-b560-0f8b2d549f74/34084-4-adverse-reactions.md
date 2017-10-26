@@ -20,9 +20,6 @@ The overall frequency of discontinuation in sildenafil citrate-treated patients 
 In Study 1, the adverse reactions that were reported by at least 3% of sildenafil citrate-treated patients (20 mg three times a day) and were more frequent in sildenafil citrate-treated patients than in placebo-treated patients are shown in Table 1.
 Adverse reactions were generally transient and mild to moderate in nature.
 
-In Study 1, the adverse reactions that were reported by at least 3% of sildenafil citrate-treated patients (20 mg TID) and were more frequent in sildenafil citrate-treated patients than in placebo-treated patients are shown in Table 1.
-Adverse reactions were generally transient and mild to moderate in nature.
-
 Table 1.
 Most Common Adverse Reactions in Patients with PAH in Study 1 (More Frequent in Sildenafil Citrate-Treated Patients than Placebo-Treated Patients and Incidence ≥3% in Sildenafil Citrate-Treated Patients)
 
@@ -50,7 +47,7 @@ The incidence of retinal hemorrhage with sildenafil citrate 20 mg three times a 
 The incidence of eye hemorrhage at both 20 mg three times a day and at all doses studied was 1.4% for sildenafil citrate versus 1.4% for placebo.
 The patients experiencing these reactions had risk factors for hemorrhage including concurrent anticoagulant therapy.
 
-In a placebo-controlled fixed dose titration study (Study 2) of sildenafil citrate (starting with recommended dose of 20 mg three times a day and increased to 40 mg three times a day and then 80 mg three times a day) as an adjunct to intravenous epoprostenol in patients with PAH, the adverse reactions that were more frequent in the sildenafil citrate + epoprostenol group than in the epoprostenol group (greater than 6% difference) are shown in Table 2 [see Clinical Studies (14)].
+In a placebo-controlled fixed dose titration study (Study 2) of sildenafil citrate (starting with recommended dose of 20 mg and increased to 40 mg and then 80 mg all three times a day) as an adjunct to intravenous epoprostenol in patients with PAH, the adverse reactions that were more frequent in the sildenafil citrate + epoprostenol group than in the epoprostenol group (greater than 6% difference) are shown in Table 2 [see Clinical Studies (14)].
 
 Table 2.
 Adverse Reactions (%) in patients with PAH in Study 2 (incidence in Sildenafil citrate + Epoprostenol group at least 6% greater than Epoprostenol group)
@@ -64,8 +61,7 @@ Adverse Reactions (%) in patients with PAH in Study 2 (incidence in Sildenafil c
 | Diarrhea | 25 | 18 | 7 |
 | Nausea | 25 | 18 | 7 |
 | Nasal congestion | 9 | 2 | 7 |
-
-^includes peripheral edema
+| ^includes peripheral edema |  |  |  |
 
 ## 6.2 Postmarketing Experience
 
@@ -83,3 +79,7 @@ It is not possible to determine whether these events are related directly to sil
 Nervous system
 
 Seizure, seizure recurrence
+
+Ophthalmologic
+
+NAION [see Warnings and Precautions (5.5) and Patient Counseling Information (17)].

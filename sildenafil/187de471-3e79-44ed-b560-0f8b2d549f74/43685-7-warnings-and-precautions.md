@@ -31,9 +31,13 @@ The safety of sildenafil citrate is unknown in patients with bleeding disorders 
 When used to treat erectile dysfunction, non-arteritic anterior ischemic optic neuropathy (NAION), a cause of decreased vision including permanent loss of vision, has been reported postmarketing in temporal association with the use of phosphodiesterase type 5 (PDE-5) inhibitors, including sildenafil.
 Most, but not all, of these patients had underlying anatomic or vascular risk factors for developing NAION, including but not necessarily limited to: low cup to disc ratio (“crowded disc”), age over 50, diabetes, hypertension, coronary artery disease, hyperlipidemia and smoking.
 Based on published literature, the annual incidence of NAION is 2.5 to 11.8 cases per 100,000 males aged ≥ 50 per year in the general population.
-An observational study evaluated whether recent, episodic use of PDE5 inhibitors (as a class), typical of erectile dysfunction treatment, was associated with acute onset of NAION.
-The results suggest an approximately 2-fold increase in the risk of NAION within 5 half-lives of PDE5 inhibitor use.
-It is not possible to determine whether these events are related directly to the use of PDE-5 inhibitors, to the patient’s underlying vascular risk factors or anatomical defects, to a combination of these factors, or to other factors.
+
+An observational case-crossover study evaluated the risk of NAION when PDE-5 inhibitor use, as a class, occurred immediately before NAION onset (within 5 half-lives), compared to PDE-5 inhibitor use in a prior time period.
+The results suggest an approximate 2-fold increase in the risk of NAION, with a risk estimate of 2.15 (95% CI 1.06, 4.34).
+A similar study reported a consistent result, with a risk estimate of 2.27 (95% CI 0.99, 5.20).
+Other risk factors for NAION, such as the presence of “crowded” optic disc, may have contributed to the occurrence of NAION in these studies.
+
+Neither the rare postmarketing reports, nor the association of PDE-5 inhibitor use and NAION in the observational studies, substantiate a causal relationship between PDE-5 inhibitor use and NAION [see Adverse Reactions (6.2)].
 
 Advise patients to seek immediate medical attention in the event of a sudden loss of vision in one or both eyes while taking PDE-5 inhibitors, including sildenafil citrate.
 Physicians should also discuss the increased risk of NAION with patients who have already experienced NAION in one eye, including whether such individuals could be adversely affected by use of vasodilators, such as PDE-5 inhibitors.
@@ -50,7 +54,7 @@ It is not possible to determine whether these reported events are related direct
 
 Advise patients to seek prompt medical attention in the event of sudden decrease or loss of hearing while taking PDE-5 inhibitors, including sildenafil citrate.
 
-## 5.7 Combination with other PDE-5 inhibitors
+## 5.7 Combination with other PDE-5 Inhibitors
 
 Sildenafil is also marketed as VIAGRA®.
 The safety and efficacy of combinations of sildenafil citrate with VIAGRA or other PDE-5 inhibitors have not been studied.
