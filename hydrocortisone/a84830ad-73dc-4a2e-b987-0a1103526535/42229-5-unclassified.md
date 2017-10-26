@@ -1,5 +1,5 @@
-# Rx Only
+# For external use only
 
-For External Use Only
+Not for ophthalmic use
 
-Not For Ophthalmic Use
+Rx Only

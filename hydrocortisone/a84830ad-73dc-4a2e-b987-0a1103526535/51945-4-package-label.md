@@ -1,77 +1,72 @@
-# 1oz Label
+# Hydrocortisone Cream USP, 1% - 1oz Label
 
 NDC 0316-0186-01
 
 Rx Only
 
-HYDROCORTISONE CREAM USP, 1%
+Hydrocortisone Cream USP, 1%
 
-For External Use Only.
+Warning: Keep out of reach of children.
 
-Not for Ophthalmic Use.
+For external use only.
 
-1oz (28.4 g)
+Not for ophthalmic use.
 
-See crimp of tube for Expiration Date and Batch Number.
+1oz (28.4 grams)
 
-Store at controlled room temperature 15o - 30oC (59o - 86oF).
+Each gram contains: 10 mg Hydrocortisone USP in a cream base consisting of purified water, cetyl alcohol, glycerin, stearyl alcohol, propylene glycol, sodium lauryl sulfate, cetyl palmitate and sorbic acid.
 
-Each gram contains 10 mg Hydrocortisone USP in a cream base consisting of purified water, cetyl alcohol, glycerin, stearyl alcohol, propylene glycol, sodium lauryl sulfate, cetyl palmitate, sorbic acid.
+Usual Dosage: 2 to 4 applications daily.
+See package insert for full prescribing information.
 
-TO OPEN: Use cap to puncture seal.
+TO OPEN: Use cap to pucture seal.
+IMPORTANT: Do not use if seal has been puctured or is not visible.
 
-IMPORTANT: Do not use if seal has been punctured or is not visible.
+Store at 20o-25oC (68o-77oF)[see USP Controlled Room Temperature].
 
-DIRECTIONS: Apply as a thin film to the affected areas 2 to 4 time daily.
-See insert for full prescribing information.
-
-WARNING: Keep Out Of Reach Of Children.
+See crimp of tube for Lot Number and Expiration Date.
 
 Manufactured and Distributed by:
 
-CROWN LABORATORIES, INC.
+Crown Laboratories, Inc.,
 
 Johnson City, TN 37604
 
-P6300.00
+P6302.00
 
-# 1oz Carton
+# Hydrocortisone Cream USP, 1% -1oz Carton
 
 NDC 0316-0186-01
 
 Rx Only
 
-HYDROCORTISONE CREAM USP, 1%
+Hydrocortisone Cream USP, 1%
 
-1oz (28.4 g)
+Warning: Keep out of reach of children.
 
-CONTAINS: Each gram contains 10 mg Hydrocortisone USP in a cream base consisting of purified water, cetyl alcohol, glycerin, stearyl alcohol, propylene glycol, sodium lauryl sulfate, cetyl palmitate, sorbic acid.
+For external use only.
 
-DIRECTIONS: Apply as a thin film to the affected areas 2 to 4 time daily.
-See insert for full prescribing information.
+Not for ophthalmic use.
 
-IMPORTANT: The opening of this product is covered by a metal tamper-resistent seal.
-If this seal has been punctured or is not visible, do not use and return to place of purchase.
+1oz (28.4 grams)
 
-TO OPEN: To puncture the seal, reverse the cap and place the puncture-top onto the tube.
-Push down firmly until seal is open.
+Each gram contains: 10 mg Hydrocortisone USP in a cream base consisting of purified water, cetyl alcohol, glycerin, stearyl alcohol, propylene glycol, sodium lauryl sulfate, cetyl palmitate and sorbic acid.
 
-TO CLOSE: screw the cap back onto the tube.
+Directions for puncturing tube seal: Remove cap.
+Turn cap upside down and place puncture tip onto tube.
+Push cap until tube end is punctured.
 
-WARNING: Keep Out Of Reach Of Children.
+Screw cap back on to reseal tube.
 
-FOR EXTERNAL USE ONLY.
+Store at 20o-25oC (68o-77oF)[see USP Controlled Room Temperature].
 
-NOT FOR OPHTHALMIC USE.
+Usual Dosage: 2 to 4 applications daily.
+See package insert for full prescribing information.
 
-See end of carton for Expiration Date and Batch Number
-
-Store at Controlled Room Temperature 15o - 30oC (59o - 86oF).
+See end of carton for Lot Number and Expiration Date.
 
 Manufactured and Distributed by:
 
-CROWN LABORATORIES, INC.
+Crown Laboratories, Inc., Johnson City, TN 37604
 
-Johnson City, TN 37604
-
-P6304.00
+P6304.01

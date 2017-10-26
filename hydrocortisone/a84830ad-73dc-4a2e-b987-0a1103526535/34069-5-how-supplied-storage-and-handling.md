@@ -2,14 +2,12 @@
 
 Hydrocortisone Cream USP, 1% is supplied in:
 
-1 ounce (28.4g) NDC 0316-0186-01
+1 ounce (28.4 grams) tube NDC 0316-0186-01
 
-3 ounce (85.2g) NDC 0316-0186-03
-
-Manufactured and Distributed by: Crown Laboratories, INC., Johnson City, Tennessee 37604
+Manufactured and Distributed by: Crown Laboratories, Inc., Johnson City, Tennessee 37604
 
 PRINTED IN USA
 
-P6306.00
+​Revised June 2015
 
-Revised: Dec 2014
+P6306.01

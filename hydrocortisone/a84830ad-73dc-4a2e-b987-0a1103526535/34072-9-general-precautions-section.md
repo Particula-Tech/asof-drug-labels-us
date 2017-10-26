@@ -1,4 +1,4 @@
-# PRECAUTIONS
+# Precautions
 
 General
 
