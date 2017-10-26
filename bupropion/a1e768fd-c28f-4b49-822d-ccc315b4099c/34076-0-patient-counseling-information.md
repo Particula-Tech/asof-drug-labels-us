@@ -2,9 +2,9 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-Inform patients, their families, and their caregivers about the benefits and risks associated with treatment with bupropion hydrochloride extended-release tablets (XL) and should counsel them in its appropriate use.
+Inform patients, their families, and their caregivers about the benefits and risks associated with treatment with bupropion hydrochloride extended-release tablets (XL) and counsel them in its appropriate use.
 
-A patient Medication Guide about “Antidepressant Medicines, Depression and Other Serious Mental Illnesses, and Suicidal Thoughts or Actions”, “Quitting smoking, Quit-smoking Medications, Changes in Thinking and Behavior, Depression, and Suicidal Thoughts or Actions,” and “What other important information should I know about bupropion hydrochloride extended-release tablets (XL)?” is available for bupropion hydrochloride extended-release tablets (XL).
+A patient Medication Guide about “Antidepressant Medicines, Depression and Other Serious Mental Illnesses, and Suicidal Thoughts or Actions,” “Quitting Smoking, Quit-Smoking Medications, Changes in Thinking and Behavior, Depression, and Suicidal Thoughts or Actions,” and “What Other Important Information Should I Know About Bupropion Hydrochloride Extended-Release Tablets (XL)?” is available for bupropion hydrochloride extended-release tablets (XL).
 Instruct patients, their families, and their caregivers to read the Medication Guide and assist them in understanding its contents.
 Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
 The complete text of the Medication Guide is reprinted at the end of this document.
@@ -18,12 +18,11 @@ Advise families and caregivers of patients to observe for the emergence of such 
 Such symptoms should be reported to the patient’s prescriber or health professional, especially if they are severe, abrupt in onset, or were not part of the patient’s presenting symptoms.
 Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication.
 
-Neuropsychiatric Symptoms and Suicide Risk in Smoking Cessation Treatment
+Neuropsychiatric Adverse Events and Suicide Risk in Smoking Cessation Treatment
 
-Although bupropion hydrochloride extended-release tablets (XL) are not indicated for smoking cessation treatment, it contains the same active ingredient as ZYBAN®which is approved for this use.
-Advise patients, families and caregivers that quitting smoking, with or without ZYBAN, may trigger nicotine withdrawal symptoms (e.g. including depression or agitation), or worsen pre-existing psychiatric illness.
-Some patients have experienced changes in mood (including depression and mania), psychosis, hallucinations, paranoia, delusions, homicidal ideation, aggression, anxiety, and panic, as well as suicidal ideation, suicide attempt, and completed suicide when attempting to quit smoking while taking ZYBAN.
-If patients develop agitation, hostility, depressed mood, or changes in thinking or behavior that are not typical for them, or if patients develop suicidal ideation or behavior, they should be urged to report these symptoms to their healthcare provider immediately.
+Although bupropion hydrochloride extended-release tablets (XL) are not indicated for smoking cessation treatment, it contains the same active ingredient as ZYBAN® which is approved for this use.
+Inform patients that some patients have experienced changes in mood (including depression and mania), psychosis, hallucinations, paranoia, delusions, homicidal ideation, aggression, hostility, agitation, anxiety, and panic, as well as suicidal ideation and suicide when attempting to quit smoking while taking bupropion.
+Instruct patients to discontinue bupropion hydrochloride extended-release tablets (XL) and contact a healthcare professional if they experience such symptoms [see Warnings and Precautions (5.2) and Adverse Reactions (6.2)].
 
 Severe Allergic Reactions
 
@@ -35,10 +34,10 @@ Instruct patients to discontinue and not restart bupropion hydrochloride extende
 Advise patients that the excessive use or the abrupt discontinuation of alcohol, benzodiazepines, antiepileptic drugs, or sedatives/hypnotics can increase the risk of seizure.
 Advise patients to minimize or avoid the use of alcohol.
 
-Angle Closure Glaucoma
+Angle-Closure Glaucoma
 
-Patients should be advised that taking bupropion hydrochloride extended-release tablets (XL) can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle closure glaucoma.
-Pre-existing glaucoma is almost always open-angle glaucoma because angle closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
+Patients should be advised that taking bupropion hydrochloride extended-release tablets (XL) can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle-closure glaucoma.
+Pre-existing glaucoma is almost always open-angle glaucoma because angle-closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
 Open-angle glaucoma is not a risk factor for angle closure glaucoma.
 Patients may wish to be examined to determine whether they are susceptible to angle closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible [see Warnings and Precautions (5.7)].
 
@@ -79,4 +78,4 @@ Manufactured by: Actavis Laboratories FL, Inc. Fort Lauderdale, FL 33314 USA
 
 Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
-Revised: April 2016
+Revised: September 2017

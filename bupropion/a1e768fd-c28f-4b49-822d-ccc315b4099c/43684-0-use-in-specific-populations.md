@@ -18,7 +18,7 @@ Consider the risk of untreated depression when discontinuing or changing treatme
 
 Human Data
 
-Data from international bupropion Pregnancy registry (675 first trimester exposures) and a retrospective cohort study using the United Healthcare database (1,213 first trimester exposures) did not show an increased risk for malformations overall.
+Data from an international bupropion Pregnancy Registry (675 first trimester exposures) and a retrospective cohort study using the United Healthcare database (1,213 first trimester exposures) did not show an increased risk for malformations overall.
 
 No increased risk for cardiovascular malformations overall has been observed after bupropion exposure during the first trimester.
 The prospectively observed rate of cardiovascular malformations in pregnancies with exposure to bupropion in the first trimester from the international Pregnancy Registry was 1.3% (9 cardiovascular malformations/675 first-trimester maternal bupropion exposures), which is similar to the background rate of cardiovascular malformations (approximately 1%).
@@ -54,8 +54,8 @@ When considering the use of bupropion hydrochloride extended-release tablets (XL
 
 ## 8.5 Geriatric Use
 
-Of the approximately 6000 patients who participated in clinical trials with bupropion hydrochloride sustained-release tablets (depression and smoking cessation studies), 275 were greater than or equal to 65 years old and 47 were greater than or equal to 75 years old.
-In addition, several hundred patients greater than or equal to 65 years of age participated in clinical trials using the immediate-release formulation of bupropion hydrochloride (depression studies).
+Of the approximately 6000 patients who participated in clinical trials with bupropion hydrochloride sustained-release tablets (depression and smoking cessation studies), 275 were ≥65 years old and 47 were ≥75 years old.
+In addition, several hundred patients ≥65 years of age participated in clinical trials using the immediate-release formulation of bupropion hydrochloride (depression studies).
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects.
 Reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 
@@ -65,7 +65,7 @@ Because elderly patients are more likely to have decreased renal function, it ma
 
 ## 8.6 Renal Impairment
 
-Consider a reduced dose and/or dosing frequency of bupropion hydrochloride extended-release tablets (XL) in patients with renal impairment (Glomerular Filtration Rate: less than 90 mL/min).
+Consider a reduced dose and/or dosing frequency of bupropion hydrochloride extended-release tablets (XL) in patients with renal impairment (glomerular filtration rate: <90 mL/min).
 Bupropion and its metabolites are cleared renally and may accumulate in such patients to a greater extent than usual.
 Monitor closely for adverse reactions that could indicate high bupropion or metabolite exposures [see Dosage and Administration (2.7) and Clinical Pharmacology (12.3)].
 

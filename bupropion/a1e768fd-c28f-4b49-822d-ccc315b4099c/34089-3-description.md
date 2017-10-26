@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Bupropion hydrochloride extended-release tablets (XL), an antidepressant of the aminoketone class, is chemically unrelated to tricyclic, tetracyclic, selective serotonin re-uptake inhibitor, or other known antidepressant agents.
+Bupropion hydrochloride extended-release tablets (XL), an antidepressant of the aminoketone class, is chemically unrelated to tricyclic, tetracyclic, selective serotonin reuptake inhibitor, or other known antidepressant agents.
 Its structure closely resembles that of diethylpropion; it is related to phenylethylamines.
 It is designated as (±)-1-(3-chorophenyl)-2-[(1,1-dimethylethyl)amino]-1propanone hydrochloride.
 The molecular weight is 276.2.
