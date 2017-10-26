@@ -24,7 +24,7 @@ Store at 20° to 25°C (68° to 77°F).
 
 Discard unused portion.
 
-MI:251:25C:R4
+MI:251:25C:R5
 
 Manufactured for: Mylan Institutional LLC Rockford, IL 61103 U.S.A.
 
