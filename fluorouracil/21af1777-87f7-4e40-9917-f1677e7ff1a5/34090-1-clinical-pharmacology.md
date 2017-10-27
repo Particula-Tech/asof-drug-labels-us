@@ -1,20 +1,21 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-There is evidence that the metabolism of fluorouracil in the anabolic pathway blocks the methylation reaction of deoxyuridylic acid to thymidylic acid.
-In this manner, fluorouracil interferes with the synthesis of deoxyribonucleic acid (DNA) and to a lesser extent inhibits the formation of ribonucleic acid (RNA).
-Since DNA and RNA are essential to cell division and growth, the effect of fluorouracil may be to create a thymine deficiency which provokes unbalanced growth and death of the cell.
-The effects of DNA and RNA deprivation are most marked on those cells which grow more rapidly and which take up fluorouracil at a more rapid rate.
+## 12.1 Mechanism of Action
 
-Following intravenous injection, fluorouracil distributes into tumors, intestinal mucosa, bone marrow, liver and other tissues throughout the body.
-In spite of its limited lipid solubility, fluorouracil diffuses readily across the blood-brain barrier and distributes into cerebrospinal fluid and brain tissue.
+Fluorouracil is a nucleoside metabolic inhibitor that interferes with the synthesis of deoxyribonucleic acid (DNA) and to a lesser extent inhibits the formation of ribonucleic acid (RNA); these affect rapidly growing cells and may lead to cell death.
+Fluorouracil is converted to three main active metabolites: 5-fluoro-2′-deoxyuridine-5′-monophosphate (FdUMP), 5-fluorouridine-5′- triphosphate (FUTP) and 5-fluoro-2′-deoxyuridine-5′-triphosphate (FdUTP).
+These metabolites have several effects including the inhibition of thymidylate synthase by FdUMP, incorporation of FUTP into RNA and incorporation of FdUTP into DNA.
 
-Seven to 20 percent of the parent drug is excreted unchanged in the urine in 6 hours; of this, over 90% is excreted in the first hour.
+## 12.3 Pharmacokinetics
+
+Distribution
+
+Following bolus intravenous injection, fluorouracil distributes throughout the body including the intestinal mucosa, bone marrow, liver, cerebrospinal fluid and brain tissue.
+
+Elimination
+
+Following bolus intravenous injection, 5 – 20 % of the parent drug is excreted unchanged in the urine in six hours.
 The remaining percentage of the administered dose is metabolized, primarily in the liver.
-The catabolic metabolism of fluorouracil results in degradation products (e.g., CO2, urea and α-fluoro-ß-alanine) which are inactive.
-The inactive metabolites are excreted in the urine over the next 3 to 4 hours.
-When fluorouracil is labeled in the six carbon position, thus preventing the 14C metabolism to CO2, approximately 90% of the total radioactivity is excreted in the urine.
-When fluorouracil is labeled in the two carbon position, approximately 90% of the total radioactivity is excreted in expired CO2.
-Ninety percent of the dose is accounted for during the first 24 hours following intravenous administration.
+The metabolites of fluorouracil (e.g., urea and α-fluoro-ß-alanine) are excreted in the urine over 3 to 4 hours.
 
-Following intravenous administration of fluorouracil, the mean half-life of elimination from plasma is approximately 16 minutes, with a range of 8 to 20 minutes, and is dose dependent.
-No intact drug can be detected in the plasma 3 hours after an intravenous injection.
+Following bolus intravenous injection of fluorouracil, as a single agent, the elimination half-life increased with dose from 8 to 20 minutes.
