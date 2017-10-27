@@ -162,9 +162,9 @@ Especially tell your healthcare provider if you take:
   See “What is the most important information I should know about moxifloxacin hydrochloride tablets?”
 - Certain medicines may keep moxifloxacin hydrochloride tablets from working correctly.
   Take moxifloxacin hydrochloride tablets either 4 hours before or 8 hours after taking these products:
-- An antacid, multivitamin, or other product that has magnesium, aluminum, iron, or zinc
-- Sucralfate (Carafate®)
-- Didanosine oral suspension or solution
+  - An antacid, multivitamin, or other product that has magnesium, aluminum, iron, or zinc
+  - Sucralfate (Carafate®)
+  - Didanosine oral suspension or solution
 
 Ask your healthcare provider if you are not sure if any of your medicines are listed above.
 
@@ -185,12 +185,12 @@ How should I take moxifloxacin hydrochloride tablets?
 
 - Do not skip any doses, or stop taking moxifloxacin hydrochloride tablets even if you begin to feel better, until you finish your prescribed treatment, unless:
 
-- You have tendon effects (see “What is the most important information I should know about moxifloxacin hydrochloride tablets?”).
-  - You have nerve problems.
-    See “What is the most important information I should know about moxifloxacin hydrochloride tablets?”
-  - You have central nervous system problems.
-    See “What is the most important information I should know about moxifloxacin hydrochloride tablets?”
-  - You have a serious allergic reaction (see “What are the possible side effects of moxifloxacin hydrochloride tablets?”), or your healthcare provider tells you to stop.
+- You have tendon effects (see “What is the most important information I should know about moxifloxacin hydrochloride tablets?”)
+- You have nerve problems.
+  See “What is the most important information I should know about moxifloxacin hydrochloride tablets?”
+- You have central nervous system problems.
+  See “What is the most important information I should know about moxifloxacin hydrochloride tablets?”
+- You have a serious allergic reaction (see “What are the possible side effects of moxifloxacin hydrochloride tablets?”), or your healthcare provider tells you to stop.
 
 - This will help make sure that all of the bacteria are killed and lower the chance that the bacteria will become resistant to moxifloxacin hydrochloride tablets.
   If this happens, moxifloxacin hydrochloride tablets and other antibiotic medicines may not work in the future.
@@ -228,9 +228,9 @@ Serious allergic reactions
   - Throat tightness, hoarseness
   - Rapid heartbeat
   - Faint
-    - Yellowing of the skin or eyes.
-      Stop taking moxifloxacin hydrochloride tablets and tell your healthcare provider right away if you get yellowing of your skin or white part of your eyes, or if you have dark urine.
-      These can be signs of a serious reaction to moxifloxacin hydrochloride tablets (a liver problem).
+  - Yellowing of the skin or eyes.
+    Stop taking moxifloxacin hydrochloride tablets and tell your healthcare provider right away if you get yellowing of your skin or white part of your eyes, or if you have dark urine.
+    These can be signs of a serious reaction to moxifloxacin hydrochloride tablets (a liver problem).
 
 Skin rash
 
@@ -300,6 +300,6 @@ What are the ingredients in moxifloxacin hydrochloride tablets?
 All brands listed are the trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt)-509302 India
+Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides Distributed by: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India
 
-Revised: 01/2017
+Revised: 06/2017
