@@ -3,10 +3,12 @@
 ## 5.1 Urinary Retention
 
 Administer GELNIQUE with caution in patients with clinically significant bladder outflow obstruction because of the risk of urinary retention.
+[see Contraindications (4)]
 
 ## 5.2 Use in Patients with Gastrointestinal Disorders
 
 Administer GELNIQUE with caution to patients with gastrointestinal obstructive disorders because of the risk of gastric retention.
+[see Contraindications (4)]
 
 GELNIQUE, like other anticholinergic drugs, may decrease gastrointestinal motility and should be used with caution in patients with conditions such as ulcerative colitis or intestinal atony.
 GELNIQUE should be used with caution in patients who have gastroesophageal reflux and/or who are concurrently taking drugs (such as bisphosphonates) that can cause or exacerbate esophagitis.
@@ -28,6 +30,7 @@ A variety of CNS anticholinergic effects have been reported, including headache,
 Patients should be monitored for signs of anticholinergic CNS effects, particularly after beginning treatment.
 Advise patients not to drive or operate heavy machinery until they know how GELNIQUE affects them.
 If a patient experiences anticholinergic CNS effects, drug discontinuation should be considered.
+[See Adverse Reactions (6.1, 6.2)]
 
 ## 5.6 Skin Transference
 
@@ -40,6 +43,7 @@ Patients should wash their hands immediately after application of GELNIQUE.
 GELNIQUE is an alcohol-based gel and is therefore flammable.
 Avoid open fire or smoking until gel has dried.
 
-## 5.8 Myasthenia Gravis
+## 5.8 Exacerbation of Symptoms of Myasthenia Gravis
 
-Administer GELNIQUE with caution in patients with myasthenia gravis, a disease characterized by decreased cholinergic activity at the neuromuscular junction.
+Avoid use of GELNIQUE in patients with myasthenia gravis, a disease characterized by decreased cholinergic activity at the neuromuscular junction.
+If experiencing exacerbation of symptoms of myasthenia gravis, oxybutynin- containing product should be discontinued and appropriate therapy promptly provided.

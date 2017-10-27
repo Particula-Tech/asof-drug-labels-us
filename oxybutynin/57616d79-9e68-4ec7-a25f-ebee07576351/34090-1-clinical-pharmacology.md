@@ -78,7 +78,3 @@ Geriatric: Available data suggest that there are no significant differences in t
 Pediatric: The pharmacokinetics of oxybutynin and N-desethyloxybutynin have not been evaluated in individuals younger than 18 years of age [see Use in Specific Populations (8.4)].
 
 Gender: Available data suggest that there are no significant differences in the pharmacokinetics of oxybutynin based on gender in healthy volunteers following administration of GELNIQUE.
-
-Renal Impairment: The effect of renal impairment on the pharmacokinetics of GELNIQUE has not been studied.
-
-Hepatic Impairment: The effect of hepatic impairment on the pharmacokinetics of GELNIQUE has not been studied.

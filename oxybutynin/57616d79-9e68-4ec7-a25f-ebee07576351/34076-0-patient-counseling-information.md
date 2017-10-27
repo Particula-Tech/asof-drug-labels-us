@@ -24,6 +24,6 @@ Patients should be informed that anticholinergic (antimuscarinic) agents, such a
   Patients should be advised to exercise caution in decisions to engage in potentially dangerous activities until GELNIQUE’s effects have been determined.
 - Drowsiness that may be worsened by alcohol.
 
-Distributed By: Allergan USA, Inc. Irvine, CA 92612 © 2016 Allergan.
+Distributed By: Allergan USA, Inc. Irvine, CA 92612 © 2017 Allergan.
 All rights reserved.
 Gelnique® is a registered trademark of Allergan Sales, LLC.

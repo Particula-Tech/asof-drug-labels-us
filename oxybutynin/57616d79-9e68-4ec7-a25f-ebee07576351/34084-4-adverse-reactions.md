@@ -42,4 +42,4 @@ Two of these 9 patients experienced application site reactions of severe intensi
 The following adverse reactions have been identified during post approval use of GELNIQUE.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Nervous System Disorders: dizziness, somnolence, confusion Psychiatric Disorders: hallucinations
+Nervous System Disorders: Memory impairment, dizziness, somnolence, confusion Psychiatric Disorders: Delirium, hallucinations

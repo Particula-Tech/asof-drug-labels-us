@@ -2,15 +2,10 @@ FDA-Approved Patient Labeling
 
 PATIENT INFORMATION
 
-GELNIQUE [Gel-nēk] (oxybutynin chloride) 10% gel Topical
+GELNIQUE [JEL NEEK] (oxybutynin chloride) 10% gel Topical
 
 IMPORTANT: For use on the skin only (topical).
 Do not use GELNIQUE in or near your eyes, nose, or mouth.
-
-Read the Patient Information that comes with GELNIQUE before you start using it and each time you get a refill.
-There may be new information.
-This leaflet does not take the place of talking with your healthcare provider about your medical condition or your treatment.
-If you do not understand the information, or have any questions about GELNIQUE, talk with your healthcare provider or pharmacist.
 
 What is GELNIQUE?
 
@@ -18,35 +13,34 @@ GELNIQUE is a prescription medicine used to treat the symptoms of overactive bla
 
 - Urge urinary incontinence (a strong need to urinate with leaking or wetting accidents).
 - Urgency (a strong need to urinate right away).
-- Frequency (urinating often).
+- Frequency (need to urinate often).
 
-Who should not use GELNIQUE?
+Do not use GELNIQUE if:
 
-Do not use GELNIQUE if you have:
+- your bladder does not empty or does not empty completely when you urinate (urinary retention).
+- your stomach empties slowly or incompletely after a meal (gastric retention).
+- you have uncontrolled narrow-angle glaucoma (high pressure in your eye).
+  Tell your doctor if you have glaucoma or a family history of glaucoma.
+- you are allergic to oxybutynin or any of the ingredients in GELNIQUE.
+  See the end of this Patient Information leaflet for a complete list of ingredients in GELNIQUE.
 
-- Urinary retention.
-  Your bladder does not empty or does not empty completely when you urinate.
-- Gastric retention.
-  Your stomach empties slowly or incompletely after a meal.
-- Uncontrolled narrow-angle glaucoma (high pressure in your eye).
-- An allergy to oxybutynin or the inactive ingredients in GELNIQUE.
-  (See the end of this Patient Information leaflet for a complete list of ingredients in GELNIQUE).
-
-What should I tell my healthcare provider before using GELNIQUE?
-
-Before you use GELNIQUE, tell your healthcare provider if you:
+Before using GELNIQUE, tell your healthcare provider about all of your medical conditions, including, if you:
 
 - have problems emptying your bladder completely
-- have stomach problems including: o constipation or difficulty emptying your bowels o ulcerative colitis (inflamed bowels) o gastric reflux disease or esophagitis (inflammation of the tube between your mouth and stomach)
-- have Myasthenia Gravis (generalized muscle weakness)
+- have a gastrointestinal obstruction (blockage in the digestive system)
+- have constipation or difficulty emptying your bowels o have ulcerative colitis (inflamed bowels) o have gastroesophageal reflux disease or esophagitis (inflamed esophagus, the tube between your mouth and stomach)
+- have Myasthenia Gravis (condition that causes muscle weakness)
 - are pregnant or plan to become pregnant
 - are breastfeeding or plan to breastfeed
-- use medicines called “bisphosphonates” to treat osteoporosis
-- use medicines called “anticholinergic”
+- medicines called “bisphosphonates” to treat osteoporosis
+- medicines called “anticholinergics”
 
-Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
+Especially tell your doctor if you take:
 
-Know the medicines you take.
+Ask your doctor or pharmacist for a list of these medicines if you are not sure if you take any of these medicines.
+
+Know the medicines you take including prescription and non-prescription medicines, vitamins, and herbal supplements.
+
 Keep a list of them and show it to your healthcare provider and pharmacist when you get a new medicine.
 
 How should I use GELNIQUE?
@@ -165,11 +159,9 @@ Do not use GELNIQUE for a condition for which it was not prescribed.
 Do not give GELNIQUE to other people, even if they have the same symptoms you have.
 It may harm them.
 
-This Patient Information leaflet summarizes the most important information about GELNIQUE.
-If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about GELNIQUE that is written for health professionals.
 
-For more information about GELNIQUE call 1-800-433-8871 or go to www.GELNIQUE.com
+For more information about GELNIQUE call 1-800-678-1605 or go to www.GELNIQUE.com
 
 What are the ingredients of GELNIQUE?
 
@@ -177,12 +169,12 @@ Active Ingredient: oxybutynin chloride
 
 Inactive Ingredients: alcohol, USP; glycerin, USP; hydroxypropyl cellulose, NF; sodium hydroxide, NF; and purified water, USP.
 
-This Patient Information has been approved by the U.S Food and Drug Administration.
+This Patient Information has been approved by the U.S. Food and Drug Administration.
 
 Distributed By: Allergan USA, Inc. Irvine, CA 92612
 
-© 2016 Allergan.
+© 2017 Allergan.
 All rights reserved.
 Gelnique® is a registered trademark of Allergan Sales, LLC.
 
-Revised: 03/2016
+Revised: 10/2017
