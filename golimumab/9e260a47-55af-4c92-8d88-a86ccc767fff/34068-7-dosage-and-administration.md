@@ -1,11 +1,12 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Rheumatoid Arthritis
+## 2.1 Dosage in Rheumatoid Arthritis, Psoriatic Arthritis, and Ankylosing Spondylitis
 
 The SIMPONI ARIA dosage regimen is 2 mg per kg given as an intravenous infusion over 30 minutes at weeks 0 and 4, then every 8 weeks thereafter.
 
-SIMPONI ARIA should be given in combination with methotrexate.
-Other non-biologic DMARDs, corticosteroids, nonsteroidal anti-inflammatory drugs (NSAIDs), and/or analgesics may be continued during treatment with SIMPONI ARIA.
+For patients with rheumatoid arthritis (RA), SIMPONI ARIA should be given in combination with methotrexate.
+For patients with psoriatic arthritis (PsA) or ankylosing spondylitis (AS), SIMPONI ARIA may be given with or without methotrexate or other non-biologic Disease-modifying Antirheumatic Drugs (DMARDs).
+Corticosteroids, nonsteroidal anti-inflammatory drugs (NSAIDs), and/or analgesics may be continued during treatment with SIMPONI ARIA.
 
 The efficacy and safety of switching between intravenous and subcutaneous formulations and routes of administration have not been established.
 

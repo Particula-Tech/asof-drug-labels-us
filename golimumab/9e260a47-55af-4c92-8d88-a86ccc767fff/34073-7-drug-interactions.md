@@ -2,15 +2,17 @@
 
 ## 7.1 Methotrexate
 
-SIMPONI ARIA should be used with MTX [see Clinical Studies (14)].
-Following IV administration, concomitant administration of methotrexate decreases the clearance of SIMPONI ARIA by approximately 9% based on population PK analysis.
-In addition, concomitant administration of methotrexate decreases the SIMPONI ARIA clearance by reducing the development of anti-golimumab antibodies.
+SIMPONI ARIA should be used with MTX for the treatment of RA [see Clinical Studies (14.1)].
+Following IV administration, concomitant administration of methotrexate decreases the clearance of SIMPONI ARIA by approximately 9% based on population pharmacokinetics (PK) analysis.
+In addition, concomitant administration of methotrexate decreases the SIMPONI ARIA clearance by reducing the development of antibodies to golimumab.
 
-## 7.2 Biologic Products for RA
+SIMPONI ARIA may be used with or without MTX for the treatment of PsA or AS [see Clinical Studies (14.2 and 14.3) and Clinical Pharmacology (12.3)].
 
-An increased risk of serious infections has been seen in clinical RA studies of other TNF-blockers used in combination with anakinra or abatacept, with no added benefit; therefore, use of SIMPONI ARIA with other biologic products, including abatacept or anakinra is not recommended [see Warnings and Precautions (5.6 and 5.7)].
+## 7.2 Biologic Products for RA, PsA and/or AS
+
+An increased risk of serious infections has been seen in clinical RA studies of other TNF-blockers used in combination with anakinra or abatacept, with no added benefit; therefore, use of SIMPONI ARIA with other biologic products, including abatacept or anakinra, is not recommended [see Warnings and Precautions (5.6 and 5.7)].
 A higher rate of serious infections has also been observed in RA patients treated with rituximab who received subsequent treatment with a TNF-blocker.
-The concomitant use of SIMPONI ARIA with biologics approved to treat RA is not recommended because of the possibility of an increased risk of infection.
+The concomitant use of SIMPONI ARIA with biologics approved to treat RA, PsA or AS is not recommended because of the possibility of an increased risk of infection.
 
 ## 7.3 Live Vaccines/Therapeutic Infectious Agents
 

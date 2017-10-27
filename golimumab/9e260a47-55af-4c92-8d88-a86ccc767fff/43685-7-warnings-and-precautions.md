@@ -106,12 +106,12 @@ Cases of worsening congestive heart failure (CHF) and new onset CHF have been re
 Some cases had a fatal outcome.
 In several exploratory trials of other TNF-blockers in the treatment of CHF, there were greater proportions of TNF-blocker treated patients who had CHF exacerbations requiring hospitalization or increased mortality.
 SIMPONI ARIA has not been studied in patients with a history of CHF and SIMPONI ARIA should be used with caution in patients with CHF.
-If a decision is made to administer SIMPONI ARIA to RA patients with CHF, these patients should be closely monitored during therapy, and SIMPONI ARIA should be discontinued if new or worsening symptoms of CHF appear.
+If a decision is made to administer SIMPONI ARIA to patients with CHF, these patients should be closely monitored during therapy, and SIMPONI ARIA should be discontinued if new or worsening symptoms of CHF appear.
 
 ## 5.4 Demyelinating Disorders
 
-Use of TNF-blockers, of which SIMPONI ARIA is a member, has been associated with rare cases of new onset or exacerbation of central nervous system (CNS) demyelinating disorders, including multiple sclerosis (MS) and peripheral demyelinating disorders, including Guillain-Barré syndrome.
-Cases of central demyelination, MS, optic neuritis, and peripheral demyelinating polyneuropathy have rarely been reported in patients treated with the subcutaneous formulation of golimumab.
+Use of TNF-blockers, including SIMPONI ARIA, has been associated with rare cases of new onset or exacerbation of central nervous system (CNS) demyelinating disorders, including multiple sclerosis (MS), and peripheral demyelinating disorders, including Guillain-Barré syndrome.
+Cases of central demyelination, MS, optic neuritis, and peripheral demyelinating polyneuropathy have rarely been reported in patients treated with golimumab.
 Prescribers should exercise caution in considering the use of TNF-blockers, including SIMPONI ARIA, in patients with central or peripheral nervous system demyelinating disorders.
 Discontinuation of SIMPONI ARIA should be considered if these disorders develop.
 
