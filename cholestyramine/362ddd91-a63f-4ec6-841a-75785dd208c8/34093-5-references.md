@@ -19,9 +19,8 @@
 
 Distributed by:
 
-PAR PHARMACEUTICAL COMPANIES, INC.
+PAR PHARMACEUTICAL
 
-Spring Valley, NY 10977
+Chestnut Ridge, NY 10977
 
-| Revised: 05/06 | OS466-65-1-02 |
-| --- | --- |
+R04/16
