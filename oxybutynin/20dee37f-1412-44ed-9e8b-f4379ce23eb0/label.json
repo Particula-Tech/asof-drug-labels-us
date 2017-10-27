@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA021351"
+  ],
+  "inn": "oxybutynin",
+  "labeler": "Allergan, Inc.",
+  "package_ndcs": [
+    "0023-6153-08"
+  ],
+  "products": [
+    {
+      "form": "PATCH",
+      "generic": "oxybutynin",
+      "name": "OXYTROL"
+    }
+  ],
+  "setid": "20dee37f-1412-44ed-9e8b-f4379ce23eb0",
+  "source": "dailymed"
+}
