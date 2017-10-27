@@ -39,6 +39,6 @@ Manufactured by: Patheon Softgels Inc. High Point, NC 27265
 
 Manufactured for: AbbVie Inc. North Chicago, IL 60064, U.S.A.
 
-1248A00 08/17 August, 2017
+1248A00 08/17-(R5) August, 2017
 
 © 2017 AbbVie Inc.

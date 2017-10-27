@@ -16,4 +16,4 @@
 
 This Patient Information has been approved by the U.S. Food and Revised: August, 2017 Drug Administration.
 
-1248A99 08/17
+1248A99 08/17-(R4)
