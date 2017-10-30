@@ -1,7 +1,6 @@
 # 11 DESCRIPTION
 
 Paricalcitol USP, the active ingredient in paricalcitol capsules, is a synthetically manufactured, metabolically active vitamin D analog of calcitriol with modifications to the side chain (D2) and the A (19-nor) ring.
-Paricalcitol capsules are indicated for the prevention and treatment of secondary hyperparathyroidism in chronic kidney disease.
 Paricalcitol capsules are available as hard gelatin capsules for oral administration containing 1 microgram, 2 micrograms or 4 micrograms of paricalcitol.
 Each capsule also contains butylated hydroxytoluene, dehydrated ethanol, medium chain triglycerides and polyoxyl 35 castor oil.
 The medium chain triglycerides are fractionated from coconut oil or palm kernel oil.
