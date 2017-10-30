@@ -1,6 +1,6 @@
-# MEDICATION GUIDE
+# Medication Guide
 
-DESVENLAFAXINE extended-release tablets Read this Medication Guide before you start taking desvenlafaxine and each time you get a refill.
+DESVENLAFAXINE extended-release tablets (des VEN la FAX een) Read this Medication Guide before you start taking desvenlafaxine and each time you get a refill.
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your medical condition or treatment.
 Antidepressant Medicines, Depression and Other Serious Mental Illnesses, and Suicidal Thoughts or Actions Talk to your healthcare provider about: • all risks and benefits of treatment with antidepressant medicines • all treatment choices for depression or other serious mental illness What is the most important information I should know about antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions?
@@ -50,7 +50,7 @@ Desvenlafaxine can pass into your breast milk and may harm your baby.
 Talk with your healthcare provider about the best way to feed your baby if you take desvenlafaxine.
 Serotonin syndrome Rare, but potentially life-threatening conditions called serotonin syndrome can happen when medicines such as desvenlafaxine are taken with certain other medicines.
 Serotonin syndrome can cause serious changes in how your brain, muscles, heart and blood vessels, and digestive system work.
-Especially tell your healthcare provider if you take the following: • medicines to treat migraine headaches known as triptans • medicines used to treat mood, anxiety, psychotic, or thought disorders, including tricyclics, lithium, selective serotonin reuptake inhibitors (SSRIs), serotonin norepinephrine reuptake inhibitors (SNRIs), or other dopamine antagonists, such as metoclopramide • silbutramine • tramadol • St. John’s Wort • MAOIs (including linezolid, an antibiotic and intravenous methylene blue) • tryptophan supplements Ask your healthcare provider if you are not sure if you are taking any of these medicines.
+Especially tell your healthcare provider if you take the following: • amphetamines • medicines to treat migraine headaches known as triptans • medicines used to treat mood, anxiety, psychotic, or thought disorders, including tricyclics, lithium, selective serotonin reuptake inhibitors (SSRIs), serotonin norepinephrine reuptake inhibitors (SNRIs), or other dopamine antagonists, such as metoclopramide • silbutramine • tramadol • St. John’s Wort • MAOIs (including linezolid, an antibiotic and intravenous methylene blue) • tryptophan supplements Ask your healthcare provider if you are not sure if you are taking any of these medicines.
 Before you take desvenlafaxine with any of these medicines, talk to your healthcare provider about serotonin syndrome.
 See “What are the possible side effects of desvenlafaxine?”
 Do not take desvenlafaxine extended-release tablets with other medicines containing venlafaxine or desvenlafaxine.
@@ -140,5 +140,7 @@ What are the ingredients in desvenlafaxine extended-release tablets?
 Active ingredient: desvenlafaxine Inactive ingredients: For the 50 mg tablet, alginic acid, citric acid monohydrate powder, hypromellose, microcrystalline cellulose, povidone, talc, magnesium stearate and film coating, which consist of hypromellose, titanium dioxide, polyethylene glycol, talc, and iron oxide red.
 For the 100 mg tablet, alginic acid, citric acid monohydrate powder, hypromellose, microcrystalline cellulose, povidone, talc, magnesium stearate and film coating, which consist of hypromellose, titanium dioxide, polyethylene glycol, iron oxide red, and iron oxide black.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Manufactured for: Ranbaxy Pharmaceuticals Inc. Jacksonville, FL 32257 USA by: Alembic Pharmaceuticals Limited (Formulation Division), Village Panelav, P. O. Tajpura, Near Baska, Taluka-Halol, Panchmahal, Gujarat, India.
-Revised: 10/2016
+Manufactured by: Alembic Pharmaceuticals Limited (Formulation Division), Village Panelav, P. O. Tajpura, Near Baska, Taluka-Halol, Panchmahal, Gujarat, India.
+Distributed by: Sun Pharmaceutical Industries, Inc. Cranbury, NJ 08512 USA
+
+Revised: 10/2017

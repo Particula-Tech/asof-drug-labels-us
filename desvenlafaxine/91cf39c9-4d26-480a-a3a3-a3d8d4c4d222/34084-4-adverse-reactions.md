@@ -105,7 +105,7 @@ Table 3: Sexual Function Adverse Reactions (≥2% in Menor Womenin any Desvenlaf
 | Women only |  |  |  |  |  |
 | Anorgasmia | 0 | 1 | 1 | 0 | 3 |
 
-Other adverse reactions observed in premarketing and postmarketingclinical studies
+Other adverse reactions observed in premarketing and postmarketing clinical studies
 
 Other infrequent adverse reactions, not described elsewhere in the label, occurring at an incidence of < 2% in MDD patients treated with desvenlafaxine were:
 
@@ -204,3 +204,4 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Skin and subcutaneous tissue disorders –Stevens-Johnson syndrome.
 Gastrointestinal system – Acute pancreatitis.
+Cardiovascular system – Takotsubo cardiomyopathy.
