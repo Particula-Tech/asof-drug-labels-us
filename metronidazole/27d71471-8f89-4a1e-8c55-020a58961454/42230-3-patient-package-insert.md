@@ -72,5 +72,7 @@ UPSHER-SMITH LABORATORIES, LLC
 
 Maple Grove, MN 55369
 
+© 2017 Upsher-Smith Laboratories, LLC
+
 Rev.
-D 2/2017
+D 6/2017
