@@ -20,7 +20,7 @@ Therefore, monitor renal function and blood pressure periodically in patients re
 Hydrochlorothiazide Administration of a non-steroidal anti-inflammatory agent, including a selective COX‑2 inhibitor, can reduce the diuretic, natriuretic, and antihypertensive effects of diuretics.
 Therefore, when MICARDIS HCT and non-steroidal anti-inflammatory agents including selective COX‑2 inhibitors are used concomitantly, observe closely to determine if the desired effect of the diuretic is obtained.
 
-## 7.4 Dual Blockade of the Renin-Angiotensin-Aldosterone System and Changes in Renal Function
+## 7.4 Dual Blockade of the Renin-Aldosterone System and Changes in Renal Function
 
 Dual blockade of the renin-angiotensin-aldosterone system with angiotensin blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and renal impairment.
 The ONTARGET trial enrolled 25,620 patients ≥55 years old with atherosclerotic disease or diabetes with end-organ damage, randomizing them to telmisartan (ARB) only, ramipril (ACE inhibitor) only, or the combination, and followed them for a median of 56 months.
