@@ -9,7 +9,7 @@ Aprepitant is a white to off-white crystalline solid, with a molecular weight of
 It is practically insoluble in water.
 Aprepitant is sparingly soluble in ethanol and isopropyl acetate and slightly soluble in acetonitrile.
 
-Each aprepitant capsule for oral administration contains either 40 mg, 80 mg or 125 mg of aprepitant and the following inactive ingredients: hydroxypropyl cellulose, microcrystalline cellulose, sodium lauryl sulfate and sucrose.
+Each aprepitant capsule, USP for oral administration contains either 40 mg, 80 mg or 125 mg of aprepitant and the following inactive ingredients: hydroxypropyl cellulose, microcrystalline cellulose, sodium lauryl sulfate and sucrose.
 
 The aprepitant capsule shell for 40 mg and 80 mg consists of gelatin and titanium dioxide.
 

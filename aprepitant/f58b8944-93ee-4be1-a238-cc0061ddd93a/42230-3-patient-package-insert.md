@@ -116,4 +116,4 @@ Sandoz Inc., Princeton, NJ 08540
 
 Product of India
 
-Rev.: July 2016
+Rev.: June 2017

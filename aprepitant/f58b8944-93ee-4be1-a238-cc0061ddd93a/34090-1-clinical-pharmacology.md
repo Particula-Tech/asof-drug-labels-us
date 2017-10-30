@@ -46,7 +46,7 @@ Distribution
 Aprepitant is greater than 95% bound to plasma proteins.
 The mean apparent volume of distribution at steady state (Vdss) was approximately 70 L in humans.
 
-Aprepitant crosses the blood brain barrier in humans [see CLINICAL PHARMACOLOGY (12.1)].
+Aprepitant crosses the blood brain barrier in humans [see Clinical Pharmacology (12.1)].
 
 Elimination
 
@@ -75,18 +75,18 @@ Age: Geriatric Population
 
 Following oral administration of a single 125-mg dose of aprepitant on Day 1 and 80 mg once daily on Days 2 through 5 (2 additional days of dosing compared to the recommended duration), the AUC0-24hr of aprepitant was 21% higher on Day 1 and 36% higher on Day 5 in elderly (65 years and older) relative to younger adults.
 The Cmax was 10% higher on Day 1 and 24% higher on Day 5 in elderly relative to younger adults.
-These differences are not considered clinically meaningful [see USE IN SPECIFIC POPULATIONS (8.5)].
+These differences are not considered clinically meaningful [see Use in Specific Populations (8.5)].
 
 Sex
 
-Following oral administration of a single dose of aprepitant ranging from 40 mg to 375 mg (3 times the maximum recommended dose), the AUC0-24hr and Cmax are 14% and 22% higher in females as compared with males.
+Following oral administration of a single dose of aprepitant ranging from 40 mg to 375 mg (3 times the maximum recommended dose), the AUC0-24hr and Cmax are 9% and 17% higher in females as compared with males.
 The half-life of aprepitant is 25% lower in females as compared with males and Tmax occurs at approximately the same time.
 These differences are not considered clinically meaningful.
 
 Race/Ethnicity
 
-Following oral administration of a single dose of aprepitant ranging from 40 mg to 375 mg (3 times the maximum recommended dose), the AUC0-24hr and Cmax are approximately 42% and 29% higher in Hispanics as compared with Caucasians.
-The AUC0-24hr and Cmax were 62% and 41% higher in Asians as compared to Caucasians.
+Following oral administration of a single dose of aprepitant ranging from 40 mg to 375 mg (3 times the maximum recommended dose), the AUC0-24hr and Cmax are approximately 27% and 19% higher in Hispanics as compared with Caucasians.
+The AUC0-24hr and Cmax were 74% and 47% higher in Asians as compared to Caucasians.
 There was no difference in AUC0-24hr or Cmax between Caucasians and Blacks.
 These differences are not considered clinically meaningful.
 
@@ -97,17 +97,17 @@ A single 240-mg dose of aprepitant (approximately 1.9 times the maximum recommen
 In patients with severe renal impairment, the AUC0-∞ of total aprepitant (unbound and protein bound) decreased by 21% and Cmax decreased by 32%, relative to healthy subjects (creatinine clearance greater than 80 mL/min estimated by Cockcroft-Gault method).
 In patients with ESRD undergoing hemodialysis, the AUC0-∞ of total aprepitant decreased by 42% and Cmax decreased by 32%.
 Due to modest decreases in protein binding of aprepitant in patients with renal disease, the AUC of pharmacologically active unbound drug was not significantly affected in patients with renal impairment compared with healthy subjects.
-Hemodialysis conducted 4 or 48 hours after dosing had no significant effect on the pharmacokinetics of aprepitant; less than 0.2% of the dose was recovered in the dialysate [see USE IN SPECIFIC POPULATIONS (8.6)].
+Hemodialysis conducted 4 or 48 hours after dosing had no significant effect on the pharmacokinetics of aprepitant; less than 0.2% of the dose was recovered in the dialysate [see Use in Specific Populations (8.6)].
 
 Hepatic Impairment
 
 Following administration of a single 125-mg dose of aprepitant on Day 1 and 80 mg once daily on Days 2 and 3 to patients with mild hepatic impairment (Child-Pugh score 5 to 6), the AUC0-24hr of aprepitant was 11 % lower on Day 1 and 36% lower on Day 3, as compared with healthy subjects given the same regimen.
 In patients with moderate hepatic impairment (Child-Pugh score 7 to 9), the AUC0-24hr of aprepitant was 10% higher on Day 1 and 18% higher on Day 3, as compared with healthy subjects given the same regimen.
-These differences in AUC0-24hr are not considered clinically meaningful.There are no clinical or pharmacokinetic data in patients with severe hepatic impairment (Child-Pugh score greater than 9) [see USE IN SPECIFIC POPULATIONS (8.7)].
+These differences in AUC0-24hr are not considered clinically meaningful.There are no clinical or pharmacokinetic data in patients with severe hepatic impairment (Child-Pugh score greater than 9) [see Use in Specific Populations(8.7)].
 
 Body Mass Index (BMI)
 
-For every 5 kg/m2 increase in BMI, AUC0-24hr and Cmax of aprepitant decrease by 11%.
+For every 5 kg/m2 increase in BMI, AUC0-24hr and Cmax of aprepitant decrease by 9% and 10%.
 BMI of subjects in the analysis ranged from 18 kg/m2 to 36 kg/m2.
 This change is not considered clinically meaningful.
 
@@ -120,17 +120,17 @@ Aprepitant is a substrate, a weak-to-moderate (dose-dependent) inhibitor, and an
 Aprepitant is also an inducer of CYP2C9.
 Aprepitant is unlikely to interact with drugs that are substrates for the P-glycoprotein transporter.
 
-Effects of Aprepitant on the Pharmacokinetics of Other Agents
+Effects of Aprepitant on the Pharmacokinetics of Other Drugs
 
 CYP3A4 substrates (i.e., midazolam)
 
-Interactions between aprepitant and coadministered midazolam are listed in Table 10 (increase is indicated as “↑”, decrease as “↓”, no change as “↔”).
+Interactions between aprepitant and coadministered midazolam are listed in Table 12 (increase is indicated as “↑”, decrease as “↓”, no change as “↔”).
 
-Table 10 Pharmacokinetic Interaction Data for Aprepitant and Coadministered Midazolam
+Table 12 Pharmacokinetic Interaction Data for Aprepitant and Coadministered Midazolam
 
 | Dosage of Aprepitant | Dosage of Midazolam | Observed Drug Interactions |
 | --- | --- | --- |
-| aprepitant 125 mg on Day 1 and 80 mg on Days 2 to 5 | oral 2 mg single dose on Days 1 and 5 | midazolam AUC ↑ 2.3-fold on Day 1 and ↑ 3.3-fold on Day 5 [see DRUG INTERACTIONS (7.1)] |
+| aprepitant 125 mg on Day 1 and 80 mg on Days 2 to 5 | oral 2 mg single dose on Days 1 and 5 | midazolam AUC ↑ 2.3-fold on Day 1 and ↑ 3.3-fold on Day 5 [see Drug Interactions (7.1)] |
 | aprepitant 125 mg on Day 1 and 80 mg on Days 2 and 3 | intravenous 2 mg prior to 3-day regimen of aprepitant and on Days 4, 8 and 15 | midazolam AUC ↑ 25% on Day 4, AUC ↓ 19% on Day 8 and AUC ↓ 4% on Day 15 |
 | aprepitant 125 mg | intravenous 2 mg given 1 hour after aprepitant | midazolam AUC ↑ 1.5-fold |
 | aprepitant 40 mg | oral 2 mg | midazolam AUC ↑ 1.2-fold on Day 1 |
@@ -141,7 +141,7 @@ Corticosteroids
 
 Dexamethasone
 
-Aprepitant, when given as a regimen of 125 mg on Day 1 and 80 mg/day on Days 2 through 5, coadministered with 20-mg dexamethasone on Day 1 and 8-mg dexamethasone on Days 2 through 5, increased the AUC of dexamethasone by 2.2-fold on Days 1 and 5 [see DOSAGE AND ADMINISTRATION (2.1)].
+Aprepitant, when given as a regimen of 125 mg on Day 1 and 80 mg/day on Days 2 through 5, coadministered with 20-mg dexamethasone on Day 1 and 8-mg dexamethasone on Days 2 through 5, increased the AUC of dexamethasone by 2.2-fold on Days 1 and 5 [see Dosage and Administration (2.1)].
 A single dose of aprepitant (40 mg) when coadministered with a single dose of dexamethasone 20 mg, increased the AUC of dexamethasone by 1.45-fold, which is not considered clinically significant.
 
 Methylprednisolone
@@ -161,15 +161,15 @@ In a pharmacokinetic study, aprepitant (125-mg/80-mg regimen) did not influence 
 
 Oral contraceptives
 
-When aprepitant was administered as a 3-day regimen (125-mg/80-mg/80-mg) with ondansetron and dexamethasone, and coadministered with an oral contraceptive containing ethinyl estradiol and norethindrone, the trough concentrations of both ethinyl estradiol and norethindrone were reduced by as much as 64% for 3 weeks post-treatment [see WARNINGS AND PRECAUTIONS (5.3)].
+When aprepitant was administered as a 3-day regimen (125-mg/80-mg/80-mg) with ondansetron and dexamethasone, and coadministered with an oral contraceptive containing ethinyl estradiol and norethindrone, the trough concentrations of both ethinyl estradiol and norethindrone were reduced by as much as 64% for 3 weeks post-treatment [see Warnings and Precautions (5.3)].
 
 When a daily dosage of an oral contraceptive containing ethinyl estradiol and norgestimate was administered on Days 1 through 21, and aprepitant 40 mg was given on Day 8, the AUC of ethinyl estradiol decreased by 4% and by 29% on Day 8 and Day 12, respectively, while the AUC of norelgestromin increased by 18% on Day 8 and decreased by 10% on Day 12.
-In addition, the trough concentrations of ethinyl estradiol and norelgestromin on Days 8 through 21 were generally lower following coadministration of the oral contraceptive with aprepitant 40 mg on Day 8 compared to the trough levels following administration of the oral contraceptive alone [see WARNINGS AND PRECAUTIONS (5.3)].
+In addition, the trough concentrations of ethinyl estradiol and norelgestromin on Days 8 through 21 were generally lower following coadministration of the oral contraceptive with aprepitant 40 mg on Day 8 compared to the trough levels following administration of the oral contraceptive alone [see Drug Interactions(7.1)].
 
 CYP2C9 substrates (e.g., warfarin)
 
 A single 125-mg dose of aprepitant was administered on Day 1 and 80 mg/day on Days 2 and 3 to healthy subjects who were stabilized on chronic warfarin therapy.
-Although there was no effect of aprepitant on the plasma AUC of R(+) or S(-) warfarin determined on Day 3, there was a 34% decrease in S(-) warfarin trough concentration accompanied by a 14% decrease in the prothrombin time (reported as International Normalized Ratio or INR) 5 days after completion of dosing with aprepitant [see WARNINGS AND PRECAUTIONS (5.2)].
+Although there was no effect of aprepitant on the plasma AUC of R(+) or S(-) warfarin determined on Day 3, there was a 34% decrease in S(-) warfarin trough concentration accompanied by a 14% decrease in the prothrombin time (reported as International Normalized Ratio or INR) 5 days after completion of dosing with aprepitant [see Drug Interactions(7.1)].
 
 Tolbutamide
 
@@ -187,20 +187,20 @@ Aprepitant is unlikely to interact with drugs that are substrates for the P‑gl
 
 In clinical drug interaction studies, aprepitant did not have clinically important effects on the pharmacokinetics of ondansetron, granisetron, or hydrodolasetron (the active metabolite of dolasetron).
 
-Effect of Other Agents on the Pharmacokinetics of Aprepitant
+Effect of Other Drugs on the Pharmacokinetics of Aprepitant
 
 Ketoconazole
 
-When a single 125-mg dose of aprepitant was administered on Day 5 of a 10-day regimen of 400 mg/day of ketoconazole, a strong CYP3A4 inhibitor, the AUC of aprepitant increased approximately 5-fold and the mean terminal half-life of aprepitant increased approximately 3-fold [see DRUG INTERACTIONS (7.2)].
+When a single 125-mg dose of aprepitant was administered on Day 5 of a 10-day regimen of 400 mg/day of ketoconazole, a strong CYP3A4 inhibitor, the AUC of aprepitant increased approximately 5-fold and the mean terminal half-life of aprepitant increased approximately 3-fold [see Drug Interactions (7.2)].
 
 Rifampin
 
-When a single 375-mg dose of aprepitant (3 times the maximum recommended dose) was administered on Day 9 of a 14-day regimen of 600 mg/day of rifampin, a strong CYP3A4 inducer, the AUC of aprepitant decreased approximately 11-fold and the mean terminal half-life decreased approximately 3-fold [see DRUG INTERACTIONS (7.2)].
+When a single 375-mg dose of aprepitant (3 times the maximum recommended dose) was administered on Day 9 of a 14-day regimen of 600 mg/day of rifampin, a strong CYP3A4 inducer, the AUC of aprepitant decreased approximately 11-fold and the mean terminal half-life decreased approximately 3-fold [see Drug Interactions (7.2)].
 
 Diltiazem
 
 In patients with mild to moderate hypertension, administration of aprepitant once daily, as a tablet formulation comparable to 230 mg of the capsule formulation (approximately 1.8 times the recommended dose), with diltiazem 120 mg 3 times daily for 5 days, resulted in a 2-fold increase of aprepitant AUC and a simultaneous 1.7-fold increase of diltiazem AUC.
-These pharmacokinetic effects did not result in clinically meaningful changes in ECG, heart rate or blood pressure beyond those changes induced by diltiazem alone [see DRUG INTERACTIONS (7.2)].
+These pharmacokinetic effects did not result in clinically meaningful changes in ECG, heart rate or blood pressure beyond those changes induced by diltiazem alone [see Drug Interactions (7.2)].
 
 Paroxetine
 

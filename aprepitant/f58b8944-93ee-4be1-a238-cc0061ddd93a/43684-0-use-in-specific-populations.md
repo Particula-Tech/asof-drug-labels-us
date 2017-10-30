@@ -4,16 +4,17 @@
 
 Risk Summary
 
-- There are no available data on aprepitant use in pregnant women to inform the drug associated risk.
-  In animal reproduction studies, no evidence of teratogenicity was seen in rats and rabbits with oral administration of aprepitant during organogenesis at exposures 1.5 times the adult human exposure at the 125-mg/80-mg/80-mg aprepitant regimen [see Data].
+There are insufficient data on use of aprepitant in pregnant women to inform a drug associated risk.
+In animal reproduction studies, no adverse developmental effects were observed in rats or rabbits exposed during the period of organogenesis to systemic drug levels (AUC) approximately 1.5 times the adult human exposure at the 125-mg/80-mg/80-mg aprepitant regimen [see Data].
 
+The estimated background risk of major birth defects and miscarriage for the indicated populations is unknown.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
 Data
 
 Animal Data
 
-In embryofetal development studies in rats and rabbits, aprepitant was administered during the period of organogenesis at oral doses up to 1000 mg/kg twice daily (rats) and up to the maximum tolerated dose of 25 mg/kg/day (rabbits).
+In embryofetal development studies in rats and rabbits, aprepitant was administered during the period of organogenesis at oral doses up to 1000 mg/kg twice daily in rats and up to the maximum tolerated dose of 25 mg/kg/day in rabbits.
 No embryofetal lethality or malformations were observed at any dose levels in either species.
 The exposures (AUC) in pregnant rats at 1000 mg/kg twice daily and in pregnant rabbits at 125 mg/kg/day were approximately 1.5 times the adult exposure at the 125-mg/80‑mg/80-mg aprepitant regimen.
 Aprepitant crosses the placenta in rats and rabbits.
@@ -25,6 +26,13 @@ Aprepitant crosses the placenta in rats and rabbits.
 Lactation studies have not been conducted to assess the presence of aprepitant in human milk, the effects on the breastfed infant, or the effects on milk production.
 Aprepitant is present in rat milk.
 The development and health benefits of breastfeeding should be considered along with the mother’s clinical need for aprepitant and any potential adverse effects on the breastfed infant from aprepitant or from the underlying maternal condition.
+
+## 8.3 Females and Males of Reproductive Potential
+
+Contraception
+
+Upon administration of aprepitant, the efficacy of hormonal contraceptives may be reduced.
+Advise females of reproductive potential using hormonal contraceptives to use an effective alternative or back-up non-hormonal contraceptive (such as condoms and spermicides) during treatment with aprepitant and for 1 month following the last dose [see Drug Interactions (7.1), Clinical Pharmacology (12.3)].
 
 ## 8.4 Pediatric Use
 
@@ -51,7 +59,7 @@ However, due to Merck Sharp & Dohme Corp’s marketing exclusivity rights, this 
 Of the 544 adult cancer patients treated with aprepitant in CINV clinical studies, 31% were aged 65 and over, while 5% were aged 75 and over.
 Of the 1120 adult cancer patients treated with aprepitant in PONV clinical studies, 7% were aged 65 and over, while 2% were aged 75 and over.
 Other reported clinical experience with aprepitant has not identified differences in responses between elderly and younger patients.
-In general, use caution when dosing elderly patients as they have a greater frequency of decreased hepatic, renal or cardiac function and concomitant disease or other drug therapy [see CLINICAL PHARMACOLOGY (12.3)].
+In general, use caution when dosing elderly patients as they have a greater frequency of decreased hepatic, renal or cardiac function and concomitant disease or other drug therapy [see Clinical Pharmacology (12.3)].
 
 ## 8.6 Patients With Renal Impairment
 
@@ -63,4 +71,4 @@ No dosage adjustment is necessary for patients with any degree of renal impairme
 The pharmacokinetics of aprepitant in patients with mild and moderate hepatic impairment were similar to those of healthy subjects with normal hepatic function.
 No dosage adjustment is necessary for patients with mild to moderate hepatic impairment (Child-Pugh score 5 to 9).
 There are no clinical or pharmacokinetic data in patients with severe hepatic impairment (Child-Pugh score greater than 9).
-Therefore, additional monitoring for adverse reactions in these patients may be warranted when aprepitant is administered [see CLINICAL PHARMACOLOGY (12.3)].
+Therefore, additional monitoring for adverse reactions in these patients may be warranted when aprepitant is administered [see Clinical Pharmacology (12.3)].

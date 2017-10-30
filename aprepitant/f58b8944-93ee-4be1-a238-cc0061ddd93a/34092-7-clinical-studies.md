@@ -5,7 +5,7 @@
 Oral administration of aprepitant in combination with ondansetron and dexamethasone (aprepitant regimen) has been shown to prevent acute and delayed nausea and vomiting associated with HEC including high-dose cisplatin, and nausea and vomiting associated with MEC.
 
 In Studies 1 and 2, both multicenter, randomized, parallel, double-blind, controlled clinical studies in adults, aprepitant in combination with ondansetron and dexamethasone was compared with standard therapy (ondansetron and dexamethasone alone) in patients receiving a chemotherapy regimen that included cisplatin greater than 50 mg/m2 (mean cisplatin dose = 80.2 mg/m2).
-See Table 11.
+See Table 13.
 
 In these studies, 95% of the patients in the aprepitant group received a concomitant chemotherapeutic agent in addition to protocol-mandated cisplatin.
 The most common chemotherapeutic agents and the number of aprepitant patients exposed follows: etoposide (106), fluorouracil (100), gemcitabine (89), vinorelbine (82), paclitaxel (52), cyclophosphamide (50), doxorubicin (38), docetaxel (11).
@@ -14,20 +14,20 @@ Of the 550 patients who were randomized to receive the aprepitant regimen, 42% w
 The aprepitant-treated patients in these clinical studies ranged from 14 to 84 years of age, with a mean age of 56 years.
 A total of 170 patients were 65 years or older, with 29 patients being 75 years or older.
 
-Table 11 HEC Treatment Regimens – Studies 1 and 2**
+Table 13 HEC Treatment Regimens – Studies 1 and 2**
 
 |  | Day 1 | Day 2 | Day 3 | Day 4 |
 | --- | --- | --- | --- | --- |
 | CINV Aprepitant Regimen |  |  |  |  |
 | Oral aprepitantAprepitant was administered 1 hour prior to chemotherapy treatment on Day 1 and in the morning on Days 2 and 3. | 125 mg | 80 mg | 80 mg | none |
-| Oral DexamethasoneDexamethasone was administered 30 minutes prior to chemotherapy treatment on Day 1 and in the morning on Days 2 through 4. The 12 mg dose of dexamethasone on Day 1 reflects a dosage adjustment to account for a drug interaction with the aprepitant regimen [see CLINICAL PHARMACOLOGY (12.3)]. | 12 mg | 8 mg | 8 mg | 8 mg |
+| Oral DexamethasoneDexamethasone was administered 30 minutes prior to chemotherapy treatment on Day 1 and in the morning on Days 2 through 4. The 12 mg dose of dexamethasone on Day 1 reflects a dosage adjustment to account for a drug interaction with the aprepitant regimen [seeClinical Pharmacology(12.3)]. | 12 mg | 8 mg | 8 mg | 8 mg |
 | Ondansetron | 5-HT3 antagonistOndansetron 32 mg intravenous was used in the clinical trials of aprepitant. Although this dose was used in clinical trials, this is no longer the currently recommended dose. Refer to the ondansetron prescribing information for the current recommended dose. | none | none | none |
 | CINV Standard Therapy |  |  |  |  |
 | Oral Dexamethasone | 20 mg | 8 mg twice daily | 8 mg twice daily | 8 mg twice daily |
 | Ondansetron | 5-HT3 antagonist | none | none | none |
 | ** Aprepitant placebo and dexamethasone placebo were used to maintain blinding. |  |  |  |  |
 
-The antiemetic activity of aprepitant was evaluated during the acute phase (0 to 24 hours postcisplatin treatment), the delayed phase (25 to 120 hours post-cisplatin treatment) and overall (0 to 120 hours post-cisplatin treatment) in Cycle 1.
+The antiemetic activity of aprepitant was evaluated during the acute phase (0 to 24 hours post-cisplatin treatment), the delayed phase (25 to 120 hours post-cisplatin treatment) and overall (0 to 120 hours post-cisplatin treatment) in Cycle 1.
 Efficacy was based on evaluation of the following endpoints in which emetic episodes included vomiting, retching, or dry heaves:
 
 Primary endpoint
@@ -41,11 +41,11 @@ Other prespecified endpoints
 - •no nausea (maximum VAS less than 5 mm on a 0 to 100 mm scale)
 - •no significant nausea (maximum VAS less than 25 mm on a 0 to 100 mm scale)
 
-A summary of the key study results from each individual study analysis is shown in Table 12.
+A summary of the key study results from each individual study analysis is shown in Table 14.
 In both studies, a statistically significantly higher proportion of patients receiving the aprepitant regimen in Cycle 1 had a complete response in the overall phase (primary endpoint), compared with patients receiving standard therapy.
 A statistically significant difference in complete response in favor of the aprepitant regimen was also observed when the acute phase and the delayed phase were analyzed separately.
 
-Table 12 Percent of Patients Receiving HEC Responding by Treatment Group and Phase — Cycle 1
+Table 14 Percent of Patients Receiving HEC Responding by Treatment Group and Phase — Cycle 1
 
 |  | Study 1 |  |  | Study 2 |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -89,7 +89,7 @@ Antiemetic effectiveness for the patients receiving the aprepitant regimen was m
 Aprepitant was studied in two randomized, double-blind, parallel-group studies (Studies 3 and 4) in adult patients receiving MEC.
 
 In Study 3, in breast cancer patients, aprepitant in combination with ondansetron and dexamethasone was compared with standard therapy (ondansetron and dexamethasone) in patients receiving a MEC regimen that included cyclophosphamide 750 to 1500 mg/m2; or cyclophosphamide 500 to 1500 mg/m2 and doxorubicin (less than or equal to 60 mg/m2) or epirubicin (less than or equal to 100 mg/m2).
-See Table 13.
+See Table 15.
 
 In this study, the most common combinations were cyclophosphamide + doxorubicin (61%); and cyclophosphamide + epirubicin + fluorouracil (22%).
 
@@ -97,13 +97,13 @@ Of the 438 patients who were randomized to receive the aprepitant regimen, 99.5%
 Of these, approximately 80% were White, 8% Black, 8% Asian, 4% Hispanic, and less than 1% Other.
 The aprepitant-treated patients in this clinical study ranged from 25 to 78 years of age, with a mean age of 53 years; 70 patients were 65 years or older, with 12 patients being over 74 years.
 
-Table 13 MEC Treatment Regimens – Studies 3 and 4**
+Table 15 MEC Treatment Regimens – Studies 3 and 4**
 
 |  | Day 1 | Day 2 | Day 3 |
 | --- | --- | --- | --- |
 | CINV Aprepitant Regimen |  |  |  |
 | Oral AprepitantAprepitant was administered 1 hour prior to chemotherapy treatment on Day 1 and in the mornings on Days 2 and 3. | 125 mg | 80 mg | 80 mg |
-| Oral Dexamethasone | 12 mgDexamethasone was administered 30 minutes prior to chemotherapy treatment on Day 1. The 12 mg dose of dexamethasone on Day 1 reflects a dosage adjustment to account for a drug interaction with the aprepitant regimen [see CLINICAL PHARMACOLOGY (12.3)]. | none | none |
+| Oral Dexamethasone | 12 mgDexamethasone was administered 30 minutes prior to chemotherapy treatment on Day 1. The 12 mg dose of dexamethasone on Day 1 reflects a dosage adjustment to account for a drug interaction with the aprepitant regimen [see Clinical Pharmacology (12.3)]. | none | none |
 | Oral Ondansetron | 8 mg x 2 dosesThe first ondansetron dose was administered 30 to 60 minutes prior to chemotherapy treatment on Day 1 and the second dose was administered 8 hours after first ondansetron dose. | none | none |
 | CINV Standard Therapy |  |  |  |
 | Oral Dexamethasone | 20 mg | none | none |
@@ -124,12 +124,12 @@ Other prespecified endpoints
 - •complete protection (defined as no emetic episodes, no use of rescue therapy, and a maximum nausea visual analogue scale [VAS] score less than 25 mm on a 0 to 100 mm scale)
 - •complete response during the acute and delayed phases.
 
-A summary of the key results from Study 3 is shown in Table 14.
+A summary of the key results from Study 3 is shown in Table 16.
 In Study 3, a statistically significantly (p=0.015) higher proportion of patients receiving the aprepitant regimen (51%) in Cycle 1 had a complete response (primary endpoint) during the overall phase compared with patients receiving standard therapy (42%).
 The difference between treatment groups was primarily driven by the “No Emesis Endpoint”, a principal component of this composite primary endpoint.
 In addition, a higher proportion of patients receiving the aprepitant regimen in Cycle 1 had a complete response during the acute (0-24 hours) and delayed (25 to 120 hours) phases compared with patients receiving standard therapy; however, the treatment group differences failed to reach statistical significance, after multiplicity adjustments.
 
-- Table 14 Percent of Patients Receiving MEC Responding by Treatment Group and Phase — Cycle 1 of Study 3
+- Table 16 Percent of Patients Receiving MEC Responding by Treatment Group and Phase — Cycle 1 of Study 3
 
 | ENDPOINTS | Aprepitant Regimen (N=433)N: Number of patients included in the primary analysis of complete response.% | Standard Therapy (N=424)% | p-Value |
 | --- | --- | --- | --- |
@@ -154,7 +154,7 @@ In Study 3, patients receiving MEC were permitted to continue into the Multiple-
 The antiemetic effect for patients receiving the aprepitant regimen was maintained during all cycles.
 
 In Study 4, aprepitant in combination with ondansetron and dexamethasone was compared with a standard therapy (ondansetron and dexamethasone alone) in patients receiving a MEC regimen that included any intravenous dose of oxaliplatin, carboplatin, epirubicin, idarubicin, ifosfamide, irinotecan, daunorubicin, doxorubicin; cyclophosphamide intravenous (less than 1500 mg/m2); or cytarabine intravenous (greater than 1 g/m2).
-See Table 13.
+See Table 15.
 Patients receiving the aprepitant regimen were receiving chemotherapy for a variety of tumor types including 50% with breast cancer, 21% with gastrointestinal cancers including colorectal cancer, 13% with lung cancer and 6% with gynecological cancers.
 
 Of the 430 patients who were randomized to receive the aprepitant regimen, 76% were women and 24% were men.
@@ -164,17 +164,17 @@ The aprepitant-treated patients in this clinical study ranged from 22 to 85 year
 
 The antiemetic activity of aprepitant was evaluated based on no vomiting (with or without rescue therapy) in the overall period (0 to 120 hours post-chemotherapy) and complete response (defined as no vomiting and no use of rescue therapy) in the overall period.
 
-A summary of the key results from Study 4 is shown in Table 15.
+A summary of the key results from Study 4 is shown in Table 17.
 In Study 4, a statistically significantly higher proportion of patients receiving the aprepitant regimen (76%) in Cycle 1 had no vomiting during the overall phase compared with patients receiving standard therapy (62%).
 In addition, a higher proportion of patients receiving the aprepitant regimen (69%) in Cycle 1 had a complete response in the overall phase (0-120 hours) compared with patients receiving standard therapy (56%).
 In the acute phase (0 to 24 hours following initiation of chemotherapy), a higher proportion of patients receiving aprepitant compared to patients receiving standard therapy were observed to have no vomiting (92% and 84%, respectively) and complete response (89% and 80%, respectively).
 In the delayed phase (25 to 120 hours following initiation of chemotherapy), a higher proportion of patients receiving aprepitant compared to patients receiving standard therapy were observed to have no vomiting (78% and 67%, respectively) and complete response (71% and 61%, respectively).
 
 In a subgroup analysis by tumor type, a numerically higher proportion of patients receiving aprepitant were observed to have no vomiting and complete response compared to patients receiving standard therapy.
-For gender, the difference in complete response rates between the aprepitant and standard regimen groups was 14% in females (64.5% and 50.3%, respectively) and 4% in males (82.2% and 78.2%, respectively) during the overall phase.
-A similar difference for gender was observed for the no vomiting endpoint.
+For sex, the difference in complete response rates between the aprepitant and standard regimen groups was 14% in females (64.5% and 50.3%, respectively) and 4% in males (82.2% and 78.2%, respectively) during the overall phase.
+A similar difference for sex was observed for the no vomiting endpoint.
 
-Table 15 Percent of Patients Receiving MEC Responding by Treatment Group — Cycle 1 of Study 4
+Table 17 Percent of Patients Receiving MEC Responding by Treatment Group — Cycle 1 of Study 4
 
 | ENDPOINTS | Aprepitant Regimen (N=430)* % | Standard Therapy (N=418)* % | p-Value |
 | --- | --- | --- | --- |
@@ -194,7 +194,7 @@ Study 7 was a multinational study including the U.S., whereas, Study 8 was condu
 In the two studies, patients were randomized to receive 40-mg aprepitant, 125-mg aprepitant, or 4-mg ondansetron as a single dose.
 Aprepitant was given orally with 50 mL of water 1 to 3 hours before anesthesia.
 Ondansetron was given intravenously immediately before induction of anesthesia.
-A comparison between the aprepitant 125-mg dose did not demonstrate any additional clinical benefit over the 40-mg dose and is not a recommended dosage regimen [see DOSAGE AND ADMINISTRATION (2.2)].
+A comparison between the aprepitant 125-mg dose did not demonstrate any additional clinical benefit over the 40-mg dose and is not a recommended dosage regimen [see Dosage and Administration (2.2)].
 
 Of the 564 patients who received 40-mg aprepitant, 92% were women and 8% were men; of these, 58% were White, 13% Hispanic American, 7% Multi-Racial, 14% Black, 6% Asian, and 2% Other.
 The age of patients treated with 40-mg aprepitant ranged from 19 to 84 years, with a mean age of 46.1 years.
@@ -212,9 +212,9 @@ Efficacy measures in Study 7 included
 
 A closed testing procedure was applied to control the type I error for the primary endpoints.
 
-The results of the primary and secondary endpoints for 40-mg aprepitant and 4-mg ondansetron are described in Table 18:
+The results of the primary and secondary endpoints for 40-mg aprepitant and 4-mg ondansetron are described in Table 20:
 
-Table 18 Response Rates for Select Efficacy Endpoints (Modified-Intention-to-Treat Population) – Study 7
+Table 20 Response Rates for Select Efficacy Endpoints (Modified-Intention-to-Treat Population) – Study 7
 
 | Treatment | n/m (%) | Aprepitant vs Ondansetron |  |  |
 | --- | --- | --- | --- | --- |
@@ -252,7 +252,7 @@ Study 8 failed to satisfy its primary hypothesis that aprepitant is superior to 
 
 The study demonstrated that 40-mg aprepitant had a clinically meaningful effect with respect to the secondary endpoint "no vomiting" during the first 24 hours after surgery and was associated with a 16% improvement over ondansetron for the no vomiting endpoint.
 
-1. Table 19 Response Rates for Select Efficacy Endpoints (Modified-Intention-to-Treat Population) – Study 8
+1. Table 21 Response Rates for Select Efficacy Endpoints (Modified-Intention-to-Treat Population) – Study 8
 
 | Treatment | n/m (%) | Aprepitant vs Ondansetron |  |  |
 | --- | --- | --- | --- | --- |

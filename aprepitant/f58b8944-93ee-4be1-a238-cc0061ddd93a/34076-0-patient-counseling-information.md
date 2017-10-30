@@ -9,16 +9,16 @@ Advise patients to stop taking aprepitant and seek immediate medical attention i
 
 Drug Interactions
 
-Advise patients to discuss all medications they are taking, including other prescription, non‑prescription medication or herbal products [see Contraindications (4), Warnings and Precautions(5.1)].
+Advise patients to discuss all medications they are taking, including other prescription, non‑prescription medication or herbal products [see Contraindications (4), Warnings and Precautions (5.1)].
 
 Warfarin
 
-Instruct patients on chronic warfarin therapy to follow instructions from their healthcare provider regarding blood draws to monitor their INR during the 2-week period, particularly at 7 to 10 days, following initiation of the 3-day regimen of aprepitant 125 mg/80 mg with each chemotherapy cycle, or following administration of a single 40-mg dose of aprepitant for the prevention of postoperative nausea and vomiting.
+Instruct patients on chronic warfarin therapy to follow instructions from their healthcare provider regarding blood draws to monitor their INR during the 2-week period, particularly at 7 to 10 days, following initiation of the 3-day regimen of aprepitant with each chemotherapy cycle, or following administration of a single 40-mg dose of aprepitant for the prevention of postoperative nausea and vomiting [see Warnings and Precautions (5.2)].
 
 Hormonal Contraceptives
 
 Advise patients that administration of aprepitant may reduce the efficacy of hormonal contraceptives.
-Instruct patients to use alternative or back-up methods of contraception during treatment with aprepitant and for 1 month following the last dose of aprepitant.
+Instruct patients to use effective alternative or back-up methods of contraception (such as condoms and spermicides) during treatment with aprepitant and for 1 month following the last dose of aprepitant [see Warnings and Precautions (5.3), Use in Specific Populations (8.3)].
 
 The brands listed are the registered trademarks of their respective owners and are not trademarks of Sandoz Inc.
 
@@ -32,4 +32,4 @@ Sandoz Inc., Princeton, NJ 08540
 
 Product of India
 
-Rev.: July 2016
+Rev.: June 2017

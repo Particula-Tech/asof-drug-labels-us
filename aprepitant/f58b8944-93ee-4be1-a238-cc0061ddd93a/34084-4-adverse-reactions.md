@@ -4,18 +4,18 @@
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-The overall safety of aprepitant was evaluated in approximately 6500 individuals.
+The overall safety of aprepitant was evaluated in approximately 6,800 individuals.
 
 Adverse Reactions in Adults in the Prevention of Nausea and Vomiting Associated with HEC and MEC
 
-In 2 active-controlled, double-blind clinical trials in patients receiving highly emetogenic chemotherapy (HEC) (Studies 1 and 2), aprepitant in combination with ondansetron and dexamethasone (aprepitant regimen) was compared to ondansetron and dexamethasone alone (standard therapy) [see CLINICAL STUDIES (14.1)].
+In 2 active-controlled, double-blind clinical trials in patients receiving highly emetogenic chemotherapy (HEC) (Studies 1 and 2), aprepitant in combination with ondansetron and dexamethasone (aprepitant regimen) was compared to ondansetron and dexamethasone alone (standard therapy) [see Clinical Studies (14.1)].
 
-In 2 active-controlled clinical trials in patients receiving moderately emetogenic chemotherapy (MEC) (Studies 3 and 4), aprepitant in combination with ondansetron and dexamethasone (aprepitant regimen) was compared to ondansetron and dexamethasone alone (standard therapy) [see CLINICAL STUDIES (14.2)].The most common adverse reaction reported in patients who received MEC in pooled Studies 3 and 4 was dyspepsia (6% versus 4%).
+In 2 active-controlled clinical trials in patients receiving moderately emetogenic chemotherapy (MEC) (Studies 3 and 4), aprepitant in combination with ondansetron and dexamethasone (aprepitant regimen) was compared to ondansetron and dexamethasone alone (standard therapy) [see Clinical Studies (14.2)].The most common adverse reaction reported in patients who received MEC in pooled Studies 3 and 4 was dyspepsia (6% versus 4%).
 
 Across these 4 studies there were 1412 patients treated with the aprepitant regimen during Cycle 1 of chemotherapy and 1099 of these patients continued into the Multiple-Cycle extension for up to 6 cycles of chemotherapy.
-The most common adverse reactions reported in patients who received HEC and MEC in pooled Studies 1, 2, 3 and 4 are listed in Table 3.
+The most common adverse reactions reported in patients who received HEC and MEC in pooled Studies 1, 2, 3 and 4 are listed in Table 5.
 
-| Table 3 Most Common Adverse Reactions in Patients Receiving HEC and MEC from a Pooled Analysis of HEC and MEC StudiesReported in ≥3% of patients treated with the aprepitant regimen and at a greater incidence than standard therapy |  |  |
+| Table 5 Most Common Adverse Reactions in Patients Receiving HEC and MEC from a Pooled Analysis of HEC and MEC StudiesReported in ≥3% of patients treated with the aprepitant regimen and at a greater incidence than standard therapy |  |  |
 | --- | --- | --- |
 |  | Aprepitant, ondansetron,and dexamethasoneAprepitant regimen(N=1412) | Ondansetronand dexamethasoneStandard therapy(N=1396) |
 | fatigue | 13% | 12% |
@@ -28,9 +28,9 @@ The most common adverse reactions reported in patients who received HEC and MEC 
 | dehydration | 3% | 2% |
 | alanine aminotransferase increased | 3% | 2% |
 
-In a pooled analysis of the HEC and MEC studies, less common adverse reactions reported in patients treated with the aprepitant regimen are listed in Table 4.
+In a pooled analysis of the HEC and MEC studies, less common adverse reactions reported in patients treated with the aprepitant regimen are listed in Table 6.
 
-| Table 4 Less Common Adverse Reactions in Aprepitant-Treated Patients from a Pooled Analysis of HEC and MEC StudiesReported in > 0.5% of patients treated with the aprepitant regimen, at a greater incidence than standard therapy and not previously described in Table 3. |  |
+| Table 6 Less Common Adverse Reactions in Aprepitant-Treated Patients from a Pooled Analysis of HEC and MEC StudiesReported in > 0.5% of patients treated with the aprepitant regimen, at a greater incidence than standard therapy and not previously described in Table 3. |  |
 | --- | --- |
 | Infection and Infestations | oral candidiasis, pharyngitis |
 | Blood and the Lymphatic System Disorders | anemia, febrile neutropenia, neutropenia, thrombocytopenia |
@@ -54,13 +54,13 @@ Adverse reactions in the Multiple-Cycle extensions of HEC and MEC studies for up
 
 Adverse Reactions in Adult Patients in the Prevention of PONV
 
-In 2 active-controlled, double-blind clinical studies in patients receiving general anesthesia (Studies 7 and 8), 40-mg oral aprepitant was compared to 4-mg intravenous ondansetron [see CLINICAL STUDIES (14.4)].
+In 2 active-controlled, double-blind clinical studies in patients receiving general anesthesia (Studies 7 and 8), 40-mg oral aprepitant was compared to 4-mg intravenous ondansetron [see Clinical Studies (14.4)].
 
 There were 564 patients treated with aprepitant and 538 patients treated with ondansetron.
 
-The most common adverse reactions reported in patients treated with aprepitant for PONV in pooled Studies 7 and 8 are listed in Table 6.
+The most common adverse reactions reported in patients treated with aprepitant for PONV in pooled Studies 7 and 8 are listed in Table 8.
 
-- Table 6 Most Common Adverse Reactions in Aprepitant-Treated Patients in a Pooled Analysis of PONV Studies*
+- Table 8 Most Common Adverse Reactions in Aprepitant-Treated Patients in a Pooled Analysis of PONV Studies*
 
 |  | Aprepitant 40 mg(N = 564) | Ondansetron(N = 538) |
 | --- | --- | --- |
@@ -69,9 +69,9 @@ The most common adverse reactions reported in patients treated with aprepitant f
 
 *Reported in ≥3% of patients treated with the Aprepitant 40 mg and at a greater incidence than ondansetron.
 
-In a pooled analysis of PONV studies, less common adverse reactions reported in patients treated with aprepitant are listed in Table 7.
+In a pooled analysis of PONV studies, less common adverse reactions reported in patients treated with aprepitant are listed in Table 9.
 
-- Table 7 Less Common Adverse Reactions in Aprepitant-Treated Patients in a Pooled Analysis of PONV Studies*
+- Table 9 Less Common Adverse Reactions in Aprepitant-Treated Patients in a Pooled Analysis of PONV Studies*
 
 | Infections and Infestations | postoperative infection |
 | --- | --- |
@@ -108,7 +108,7 @@ Pruritus, rash, urticaria, Stevens-Johnson syndrome/toxic epidermal necrolysis.
 
 Immune system disorders
 
-Hypersensitivity reactions including anaphylactic reactions [see CONTRAINDICATIONS (4)].
+Hypersensitivity reactions including anaphylactic reactions [seeContraindications (4)].
 
 Nervous system disorders
 
