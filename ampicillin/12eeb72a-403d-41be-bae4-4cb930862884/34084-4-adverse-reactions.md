@@ -39,22 +39,24 @@ Urinalysis: Presence of RBC's and hyaline casts in urine.
 
 ## Postmarketing Experience
 
-In addition to adverse reactions reported from clinical trials, the following have been identified during post-marketing use of UNASYN or other products containing ampicillin.
+In addition to adverse reactions reported from clinical trials, the following have been identified during post-marketing use of ampicillin sodium/sulbactam sodium or other products containing ampicillin.
 Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made.
-These events have been chosen for inclusion due to a combination of their seriousness, frequency, or potential causal connection to UNASYN.
+These events have been chosen for inclusion due to a combination of their seriousness, frequency, or potential causal connection to ampicillin sodium/sulbactam sodium.
 
 Blood and Lymphatic System Disorders: Hemolytic anemia, thrombocytopenic purpura, and agranulocytosis have been reported.
 These reactions are usually reversible on discontinuation of therapy and are believed to be hypersensitivity phenomena.
 Some individuals have developed positive direct Coombs Tests during treatment with UNASYN, as with other beta-lactam antibacterials.
 
-Gastrointestinal Disorders: Cholestatic hepatitis, cholestasis, hyperbilirubinemia, jaundice, abnormal hepatic function, gastritis, stomatitis, black "hairy" tongue and Clostridium difficile associated diarrhea (see CONTRAINDICATIONS and WARNINGS sections).
+Gastrointestinal Disorders: Abdominal pain, cholestatic hepatitis, cholestasis, hyperbilirubinemia, jaundice, abnormal hepatic function, melena, gastritis, stomatitis, dyspepsia, black "hairy" tongue and Clostridium difficile associated diarrhea (see CONTRAINDICATIONS and WARNINGS sections).
 
-General Disorders and Administration Site Conditions: Injection site reaction
+General Disorders and Administration Site Conditions: Fatigue, malaise, and injection site reaction
 
-Immune System Disorders: Serious and fatal hypersensitivity (anaphylactic) reactions (See WARNINGS section).
+Immune System Disorders: Serious and fatal hypersensitivity (anaphylactic) reactions (See WARNINGS section), anaphylactic shock.
 
-Nervous System Disorders: Convulsion
+Nervous System Disorders: Headache, convulsion, dizziness, somnolence, and sedation
 
 Renal and Urinary Disorders: Tubulointerstitial nephritis
 
-Skin and Subcutaneous Tissue Disorders: Toxic epidermal necrolysis, Stevens-Johnson syndrome, and acute generalized exanthematous pustulosis (AGEP), urticaria, erythema multiforme, and exfoliative dermatitis (see CONTRAINDICATIONS and WARNINGS sections).
+Respiratory, Thoracic and Mediastinal Disorders: Dyspnea
+
+Skin and Subcutaneous Tissue Disorders: Toxic epidermal necrolysis, Stevens-Johnson syndrome, angioedema, Acute generalized exanthematous pustulosis (AGEP), erythema multiforme, exfoliative dermatitis, urticaria, and dermatitis (see CONTRAINDICATIONS and WARNINGS sections).
