@@ -5,4 +5,4 @@ Dilute to an appropriate volume with dextrose or saline.
 Please refer to the Package Insert for full prescribing information.
 Store at 20-25ºC (68-77ºF); excursions permitted 15-30ºC (59-86ºF).
 Store vials in carton until use.
-Manufactured by: AAIPharma Services Charleston, SC 29405, U.S.A. For: Recordati Rare Diseases Inc. Lebanon, NJ 08833, U.S.A. ® Trademark of Recordati Rare Diseases Inc. PC-4478B Lot: Exp.:
+Manufactured by: Alcami Carolinas Corporation Charleston, SC 29405, U.S.A. For: Recordati Rare Diseases Inc. Lebanon, NJ 08833, U.S.A. ® Trademark of Recordati Rare Diseases Inc. PC-4478E
