@@ -54,7 +54,7 @@ However, due to Roche Palo Alto LLC’s marketing exclusivity rights, this drug 
 
 ## 2.5 Dosage Recommendation for Adult Patients with Renal Impairment
 
-Serum creatinine levels or creatinine clearance should be monitored regularly during treatment.
+Serum creatinine levels or estimated creatinine clearance should be monitored regularly during treatment.
 Dosage recommendations for adult patients with reduced renal function are provided in Table 2.
 For adult patients on hemodialysis (CrCl less than 10 mL/min), a dose recommendation for valganciclovir tablets cannot be given [see Use in Specific Populations (8.5, 8.6), Clinical Pharmacology (12.3)].
 
@@ -85,7 +85,7 @@ Dosing in pediatric patients with renal impairment can be done using the recomme
 
 Caution should be exercised in the handling of valganciclovir tablets USP.
 Tablets should not be broken or crushed.
-Because valganciclovir is considered a potential teratogen and carcinogen in humans, caution should be observed in handling broken tablets, [see Warnings and Precautions (5.3, 5.4)].
+Because valganciclovir is considered a potential teratogen and carcinogen in humans, caution should be observed in handling broken tablets, [see Warnings and Precautions (5.4, 5.5)].
 Avoid direct contact with broken or crushed tablets with skin or mucous membranes.
 If such contact occurs, wash thoroughly with soap and water, and rinse eyes thoroughly with plain water.
 
