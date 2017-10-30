@@ -1,28 +1,20 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-17.1 General
-
-Patients’ caregivers should be informed that the effects of ibuprofen on infants’ neurodevelopmental outcome, growth and disease process with prematurity have not been assessed in long-term studies.
-
-17.2 Infection
+Infection
 
 Ibuprofen Lysine may alter signs of infection.
-Patients’ caregivers should be informed that the infant will be carefully monitored for any signs of infection.
+Patients’ caregivers should be informed to monitor the infant for any signs of infection.
 
-17.3 Platelet Aggregation
+Platelet Aggregation
 
-Patients’ caregivers should be informed that like other NSAIDS, Ibuprofen Lysine can inhibit clot formation therefore their infant will be monitored for any signs of bleeding.
+Patients’ caregivers should be informed that like other NSAIDS, Ibuprofen Lysine can inhibit clot formation therefore their infant should be monitored for any signs of bleeding.
 
-17.4 Bilirubin Displacement
+Administration
 
-Patients’ caregivers should be informed that the infants’ blood will be tested for increased levels of total bilirubin.
+Patients’ caregivers should be informed that the infants’ skin and tissues should be monitored as leakage from administration may be irritating to tissue.
 
-17.5 Administration
-
-Patients’ caregivers should be informed that the infants’ skin and tissues will be monitored as leakage from administration may be irritating to tissue.
-
-Manufactured by: AAIPharma Services, Charleston, SC 29405, U.S.A.
+Manufactured by: Alcami Carolinas Corporation, Charleston, SC 29405, U.S.A.
 
 For: Prasco Laboratories, Mason, OH 45040, U.S.A.
 
-Revised: January 2016 PC4826B
+PC4826C
