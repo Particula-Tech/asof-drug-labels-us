@@ -5,20 +5,6 @@ Sirolimus tablets are to be administered orally once daily, consistently with or
 Tablets should not be crushed, chewed or split.
 Patients unable to take the tablets should be prescribed the solution and instructed in its use.
 
-The initial dose of sirolimus tablets should be administered as soon as possible after transplantation.
-It is recommended that sirolimus tablets be taken 4 hours after administration of cyclosporine oral solution (MODIFIED) and or/cyclosporine capsules (MODIFIED) [see Drug Interactions (7.2)].
-
-Frequent sirolimus tablets dose adjustments based on non-steady-state sirolimus concentrations can lead to overdosing or underdosing because sirolimus has a long half-life.
-Once sirolimus tablets maintenance dose is adjusted, patients should continue on the new maintenance dose for at least 7 to 14 days before further dosage adjustment with concentration monitoring.
-In most patients, dose adjustments can be based on simple proportion: new sirolimus tablets dose = current dose x (target concentration/current concentration).
-A loading dose should be considered in addition to a new maintenance dose when it is necessary to increase sirolimus trough concentrations: sirolimus tablets loading dose = 3 x (new maintenance dose - current maintenance dose).
-The maximum sirolimus tablets dose administered on any day should not exceed 40 mg.
-If an estimated daily dose exceeds 40 mg due to the addition of a loading dose, the loading dose should be administered over 2 days.
-Sirolimus trough concentrations should be monitored at least 3 to 4 days after a loading dose(s).
-
-Two milligrams (2 mg) of sirolimus oral solution have been demonstrated to be clinically equivalent to 2 mg sirolimus tablets; hence, are interchangeable on a mg-to-mg basis.
-However, it is not known if higher doses of sirolimus oral solution are clinically equivalent to higher doses of sirolimus tablets on a mg-to-mg basis [see Clinical Pharmacology (12.3)].
-
 ## 2.1 General Dosing Guidance for Renal Transplant Patients
 
 The initial dose of sirolimus tablets should be administered as soon as possible after transplantation.
@@ -32,7 +18,7 @@ The maximum sirolimus tablets dose administered on any day should not exceed 40 
 If an estimated daily dose exceeds 40 mg due to the addition of a loading dose, the loading dose should be administered over 2 days.
 Sirolimus trough concentrations should be monitored at least 3 to 4 days after a loading dose(s).
 
-Two milligrams (2 mg) of sirolimus oral solution have been demonstrated to be clinically equivalent to 2 mg sirolimus tablets; hence, are interchangeable on a mg-to-mg basis.
+Two milligrams (2 mg) of sirolimus oral solution have been demonstrated to be clinically equivalent to 2 mg sirolimus tablets; hence, at this dose these two formulations are interchangeable.
 However, it is not known if higher doses of sirolimus oral solution are clinically equivalent to higher doses of sirolimus tablets on a mg-to-mg basis [see Clinical Pharmacology (12.3)].
 
 ## 2.2 Renal Transplant Patients at Low- to Moderate-Immunologic Risk
@@ -90,7 +76,7 @@ The loading dose should be 3 mg/m2.
 ## 2.7 Patients with Hepatic Impairment
 
 It is recommended that the maintenance dose of sirolimus tablets be reduced by approximately one third in patients with mild or moderate hepatic impairment and by approximately one half in patients with severe hepatic impairment.
-It is not necessary to modify the sirolimus tablets loading dose [see Clinical Pharmacology (12.3)].
+It is not necessary to modify the sirolimus tablets loading dose [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
 
 ## 2.8 Patients with Renal Impairment
 

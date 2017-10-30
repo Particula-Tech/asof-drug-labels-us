@@ -26,7 +26,7 @@ Therapeutic drug monitoring should be used to maintain sirolimus drug levels wit
 
 Sirolimus pharmacokinetics activity have been determined following oral administration in healthy subjects, pediatric patients, hepatically impaired patients, and renal transplant patients.
 
-The pharmacokinetic parameters of sirolimus in low- to moderate-immunologic risk adult renal transplant patients following multiple dosing with sirolimus 2 mg daily, in combination with cyclosporine and corticosteroids, is summarized in the following table.
+The pharmacokinetic parameters of sirolimus in low- to moderate-immunologic risk adult renal transplant patients following multiple dosing with sirolimus 2 mg daily, in combination with cyclosporine and corticosteroids, is summarized in Table 4.
 
 TABLE 4: MEAN ± SD STEADY STATE SIROLIMUS PHARMACOKINETIC PARAMETERS IN LOW- TO MODERATE-IMMUNOLOGIC RISK ADULT RENAL TRANSPLANT PATIENTS FOLLOWING SIROLIMUS 2 MG DAILYa, b
 
@@ -121,7 +121,7 @@ As the severity of hepatic impairment increased, there were steady increases in 
 
 The maintenance dose of sirolimus should be reduced by approximately one third in patients with mild-to-moderate hepatic impairment and by approximately one half in patients with severe hepatic impairment [see Dosage and Administration (2.5)].
 It is not necessary to modify the sirolimus loading dose in patients with mild, moderate, and severe hepatic impairment.
-Therapeutic drug monitoring is necessary in all patients with hepatic impairment [see Dosage and Administration (2.3)].
+Therapeutic drug monitoring is necessary in all patients with hepatic impairment [see Dosage and Administration (2.7)].
 
 Renal Impairment
 
@@ -135,7 +135,7 @@ Sirolimus pharmacokinetic data were collected in concentration-controlled trials
 The target ranges for trough concentrations were either 10 to 20 ng/mL for the 21 children receiving tablets, or 5 to 15 ng/mL for the one child receiving oral solution.
 The children aged 6 to 11 years (n = 8) received mean ± SD doses of 1.75 ± 0.71 mg/day (0.064 ± 0.018 mg/kg, 1.65 ± 0.43 mg/m2).
 The children aged 12 to18 years (n = 14) received mean ± SD doses of 2.79 ± 1.25 mg/day (0.053 ± 0.0150 mg/kg, 1.86 ± 0.61 mg/m2).
-At the time of sirolimus blood sampling for pharmacokinetic evaluation, the majority (80%) of these pediatric patients received the sirolimus dose at 16 hours after the once-daily cyclosporine dose.
+At the time of sirolimus blood sampling for pharmacokinetic evaluation, the majority (80%) of these pediatric patients received the sirolimus dose at 16 hours after the once-daily cyclosporine dose.See Table 6 below.
 
 TABLE 6: SIROLIMUS PHARMACOKINETIC PARAMETERS (MEAN ± SD) IN PEDIATRIC RENAL TRANSPLANT PATIENTS (MULTIPLE-DOSE CONCENTRATION CONTROL) a,b
 
@@ -150,7 +150,7 @@ b: As measured by Liquid Chromatographic/Tandem Mass Spectrometric Method (LC/MS
 
 c: Oral-dose clearance adjusted by either body weight (kg) or body surface area (m2).
 
-The table below summarizes pharmacokinetic data obtained in pediatric dialysis patients with chronically impaired renal function.
+Table 7 below summarizes pharmacokinetic data obtained in pediatric dialysis patients with chronically impaired renal function.
 
 TABLE 7: SIROLIMUS PHARMACOKINETIC PARAMETERS (MEAN ± SD) IN PEDIATRIC PATIENTS WITH END-STAGE KIDNEY DISEASE MAINTAINED ON HEMODIALYSIS OR PERITONEAL DIALYSIS (1, 3, 9, 15 mg/m2 SINGLE DOSE)*
 
@@ -234,21 +234,21 @@ Drugs Which May be Co-administered Without Dose Adjustment
 Clinically significant pharmacokinetic drug-drug interactions were not observed in studies of drugs listed below.
 Sirolimus and these drugs may be co-administered without dose adjustments.
 
-Acyclovir
+• Acyclovir
 
-Atorvastatin
+• Atorvastatin
 
-Digoxin
+• Digoxin
 
-Glyburide
+• Glyburide
 
-Nifedipine
+• Nifedipine
 
-Norgestrel/ethinyl estradiol (Lo/Ovral®)
+• Norgestrel/ethinyl estradiol (Lo/Ovral®)
 
-Prednisolone
+• Prednisolone
 
-Sulfamethoxazole/trimethoprim (Bactrim®)
+• Sulfamethoxazole/trimethoprim (Bactrim®)
 
 Other Drug-Drug Interactions
 
@@ -281,5 +281,5 @@ Grapefruit juice must not be taken with sirolimus [see Drug Interactions (7.3)].
 
 Drug-Herb Interactions
 
-St. John's Wort (hypericum perforatum) induces CYP3A4 and P-gp.
+St. John's Wort (Hypericum perforatum) induces CYP3A4 and P-gp.
 Since sirolimus is a substrate for both cytochrome CYP3A4 and P-gp, there is the potential that the use of St. John's Wort in patients receiving sirolimus could result in reduced sirolimus concentrations [see Drug Interactions (7.4)].

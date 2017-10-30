@@ -10,7 +10,7 @@ Study 1 was conducted in the United States at 38 sites.
 Seven hundred nineteen (719) patients were enrolled in this trial and randomized following transplantation; 284 were randomized to receive sirolimus oral solution 2 mg/day; 274 were randomized to receive sirolimus oral solution 5 mg/day, and 161 to receive azathioprine 2 to 3 mg/kg/day.
 Study 2 was conducted in Australia, Canada, Europe, and the United States, at a total of 34 sites.
 Five hundred seventy-six (576) patients were enrolled in this trial and randomized before transplantation; 227 were randomized to receive sirolimus oral solution 2 mg/day; 219 were randomized to receive sirolimus oral solution 5 mg/day, and 130 to receive placebo.
-In both studies, the use of antilymphocyte antibody induction therapy was prohibited.
+In both studies, the use of anti-lymphocyte antibody induction therapy was prohibited.
 In both studies, the primary efficacy endpoint was the rate of efficacy failure in the first 6 months after transplantation.
 Efficacy failure was defined as the first occurrence of an acute rejection episode (confirmed by biopsy), graft loss, or death.
 
@@ -190,8 +190,8 @@ b: All patients received corticosteroids.
 
 c: Randomization occurred at 3 months ± 2 weeks.
 
-Patients receiving renal allografts with ≥ 4 HLA mismatches experienced significantly higher rates of acute rejection following randomization to the cyclosporine withdrawal group, compared with patients who continued cyclosporine (15.3% vs. 3%).
-Patients receiving renal allografts with ≤ 3 HLA mismatches demonstrated similar rates of acute rejection between treatment groups (6.8% vs. 7.7%) following randomization.
+Patients receiving renal allografts with ≥ 4 HLA mismatches experienced significantly higher rates of acute rejection following randomization to the cyclosporine withdrawal group, compared with patients who continued cyclosporine (15.3% versus 3%).
+Patients receiving renal allografts with ≤ 3 HLA mismatches demonstrated similar rates of acute rejection between treatment groups (6.8% versus 7.7%) following randomization.
 
 The following table summarizes the mean calculated GFR in Study 3 (cyclosporine withdrawal study).
 
@@ -251,7 +251,7 @@ The incidence of biopsy-confirmed acute rejection was17.4% and the majority of t
 
 Conversion from calcineurin inhibitors (CNI) to sirolimus was assessed in maintenance renal transplant patients 6 months to 10 years post-transplant (Study 5).
 This study was a randomized, multicenter, controlled trial conducted at 111 centers globally, including US and Europe, and was intended to show that renal function was improved by conversion from CNI to sirolimus.
-Eight hundred thirty (830) patients were enrolled and stratified by baseline calculated glomerular filtration rate (GFR, 20 to 40 mL/min vs. greater than 40 mL/min).
+Eight hundred thirty (830) patients were enrolled and stratified by baseline calculated glomerular filtration rate (GFR, 20 to 40 mL/min versus greater than 40 mL/min).
 In this trial there was no benefit associated with conversion with regard to improvement in renal function and a greater incidence of proteinuria in the sirolimus conversion arm.
 In addition, enrollment of patients with baseline calculated GFR less than 40 mL/min was discontinued due to a higher rate of serious adverse events, including pneumonia, acute rejection, graft loss and death [see Adverse Reactions (6.4)].
 
@@ -276,8 +276,8 @@ The rates of pneumonia were significantly higher for the sirolimus conversion gr
 While the mean and median values for urinary protein to creatinine ratio were similar between treatment groups at baseline, significantly higher mean and median levels of urinary protein excretion were seen in the sirolimus conversion arm at 1 year and at 2 years, as shown in the table below [see Warnings and Precautions (5.9)].
 In addition, when compared to patients who continued to receive calcineurin inhibitors, a higher percentage of patients had urinary protein to creatinine ratios > 1 at 1 and 2 years after sirolimus conversion.
 This difference was seen in both patients who had a urinary protein to creatinine ratio ≤ 1 and those who had a protein to creatinine ratio > 1 at baseline.
-More patients in the sirolimus conversion group developed nephrotic range proteinuria, as defined by a urinary protein to creatinine ratio > 3.5 (46/482 [9.5%] vs. 9/239 [3.8%]), even when the patients with baseline nephrotic range proteinuria were excluded.
-The rate of nephrotic range proteinuria was significantly higher in the sirolimus conversion group compared to the calcineurin inhibitor continuation group with baseline urinary protein to creatinine ratio > 1 (13/29 vs. 1/14), excluding patients with baseline nephrotic range proteinuria.
+More patients in the sirolimus conversion group developed nephrotic range proteinuria, as defined by a urinary protein to creatinine ratio > 3.5 (46/482 [9.5%] versus 9/239 [3.8%]), even when the patients with baseline nephrotic range proteinuria were excluded.
+The rate of nephrotic range proteinuria was significantly higher in the sirolimus conversion group compared to the calcineurin inhibitor continuation group with baseline urinary protein to creatinine ratio > 1 (13/29 versus 1/14), excluding patients with baseline nephrotic range proteinuria.
 
 TABLE 18: MEAN AND MEDIAN VALUES FOR URINARY PROTEIN TO CREATININE RATIO (mg/mg) BETWEEN TREATMENT GROUPS AT BASELINE, 1 AND 2 YEARS IN THE STRATUM WITH BASELINE CALCULATED GFR > 40 mL/min
 

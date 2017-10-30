@@ -2,6 +2,8 @@
 
 Sirolimus Tablets
 
+(sir-OH-li-mus)
+
 What is the most important information I should know about sirolimus?
 
 Sirolimus can cause serious side effects, including:
@@ -206,8 +208,6 @@ Imprinting ink opacode red (S-1-15052) contains, ammonium hydroxide, FD&C Red # 
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-To reorder additional Medication Guides, contact Dr. Reddy's customer service at 1-866-733-3952.
-
 Rx Only
 
 Manufactured by:
@@ -216,4 +216,8 @@ Dr. Reddy’s Laboratories Limited
 
 Visakhapatnam – 530 046 INDIA
 
-Revised: 1215
+Revised: 0417
+
+Dispense with Medication Guide available at:
+
+www.drreddys.com/medguide/sirolimustabs.pdf

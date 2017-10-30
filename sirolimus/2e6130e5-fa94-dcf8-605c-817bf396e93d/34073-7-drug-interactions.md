@@ -16,7 +16,7 @@ Alternative agents with lesser interaction potential with sirolimus should be co
 
 Because grapefruit juice inhibits the CYP3A4-mediated metabolism of sirolimus, it must not be taken with sirolimus [see Clinical Pharmacology (12.3)].
 
-## 7.4 Inducers or Inhibitors of CYP3A4 and P-gp
+## 7.4 Weak and Moderate Inducers or Inhibitors of CYP3A4 and P-gp
 
 Exercise caution when using sirolimus with drugs or agents that are modulators of CYP3A4 and P-gp.
 The dosage of sirolimus and/or the co-administered drug may need to be adjusted [see Clinical Pharmacology (12.3)].
