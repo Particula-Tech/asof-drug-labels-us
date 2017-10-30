@@ -1,5 +1,7 @@
-Distributed by UPSHER-SMITH LABORATORIES, INC. Maple Grove, MN 55369
+Distributed by UPSHER-SMITH LABORATORIES, LLC Maple Grove, MN 55369
 
 MADE IN CANADA
 
-Revised 0916
+Vogelxo is a registered trademark of Upsher-Smith Laboratories, LLC.
+
+Revised 0817

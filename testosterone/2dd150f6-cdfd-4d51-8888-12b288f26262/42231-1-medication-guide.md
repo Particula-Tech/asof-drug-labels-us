@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-VOGELXO ™ (voh-JELKS-oh), CIII
+VOGELXO® (voh-JELKS-oh), CIII
 
 (testosterone) gel
 
@@ -194,7 +194,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store Vogelxo?
 
-- Store Vogelxo between 68ºF to 77ºF (20ºC to 25ºC).
+- Store Vogelxo between 68º to 77ºF (20º to 25ºC).
 - Safely throw away used Vogelxo containers in household trash.
   Be careful to prevent accidental exposure of children or pets.
 - Keep Vogelxo away from fire.
@@ -222,8 +222,10 @@ Inactive ingredients: carbomer copolymer Type B, carbomer homopolymer Type C, di
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Distributed by UPSHER-SMITH LABORATORIES, INC. Maple Grove, MN 55369
+For Medication Guides, please visit www.upsher-smith.com or call 1-888-650-3789.
+
+Distributed by UPSHER-SMITH LABORATORIES, LLC Maple Grove, MN 55369
 
 MADE IN CANADA
 
-Revised 0515
+Revised 0817
