@@ -12,6 +12,12 @@ SOOLANTRA cream was more effective than vehicle cream on the co-primary efficacy
 
 Table 1: Co-Primary Efficacy Results at Week 12
 
+|  | Study 1 | Study 2 |
+| --- | --- | --- |
+|  | SOOLANTRA Vehicle Cream (N=451) Cream (N=232) | SOOLANTRA Vehicle Cream (N=459) Cream (N=229) |
+| Investigator Global Assessment: Number (%) of Subjects Clear or Almost Clear | 173 (38.4%) 27 (11.6%) | 184 (40.1%) 43 (18.8%) |
+| Inflammatory Lesion Counts: Mean Absolute (%) Change from Baseline | 20.5 (64.9%) 12.0 (41.6%) | 22.2 (65.7%) 13.4 (43.4%) |
+
 Figures 1 and 2: IGA Success Rates Over Time
 
 Figures 3 and 4: Mean Absolute Change in Inflammatory Lesion Counts from Baseline Over Time
