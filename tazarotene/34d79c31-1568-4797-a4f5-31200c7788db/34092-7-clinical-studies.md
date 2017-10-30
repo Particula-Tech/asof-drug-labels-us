@@ -14,7 +14,7 @@ Insufficient number of non-white subjects (Asian, Hispanic, or other) were studi
 
 Percentage of Subjects with Improvement in Fine Wrinkling after 24 Weeks of Treatment
 
-|  | Tazorotene Cream, 0.1% N=283 | Vehicle N=280 | Tazorotene Cream, 0.1% N=284 | Vehicle N=284 |
+|  | Tazarotene Cream, 0.1% N=283 | Vehicle N=280 | Tazarotene Cream, 0.1% N=284 | Vehicle N=284 |
 | --- | --- | --- | --- | --- |
 |  | Trial 1 |  | Trial 2 |  |
 | 2 or more Grades Improvement | 5% | 1% | 13% | 5% |
@@ -26,7 +26,7 @@ Fine Wrinkling was graded on a 5-point scale (0=none, 1=minimal, 2=mild, 3=moder
 
 Percentage of Subjects with Improvement in Mottled Hyperpigmentation after 24 Weeks of Treatment
 
-|  | Tazorotene Cream, 0.1% N=283 | Vehicle N=280 | Tazorotene Cream, 0.1% N=284 | Vehicle N=284 |
+|  | Tazarotene Cream, 0.1% N=283 | Vehicle N=280 | Tazarotene Cream, 0.1% N=284 | Vehicle N=284 |
 | --- | --- | --- | --- | --- |
 |  | Trial 1 |  | Trial 2 |  |
 | 2 or more Grades Improvement | 17% | 1% | 28% | 10% |

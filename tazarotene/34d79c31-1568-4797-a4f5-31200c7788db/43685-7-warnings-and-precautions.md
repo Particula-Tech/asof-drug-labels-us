@@ -19,11 +19,10 @@ Advise females of reproductive potential to use effective contraception during t
 
 ## 5.2 Local Irritation and Hypersensitivity Reactions
 
-Local tolerability reactions and hypersensitivity adverse reactions have been observed with topical tazarotene.
+Local tolerability reactions (including blistering and skin desquamation) and hypersensitivity adverse reactions (including urticaria) have been observed with topical tazarotene.
 Application of tazarotene cream may cause excessive irritation in the skin of certain sensitive individuals.
 Some individuals may experience excessive pruritus, burning, skin redness, or peeling.
 If these adverse reactions occur, discontinue the medication until the integrity of the skin is restored, or reduce the dosing to an interval the patient can tolerate.
-However, efficacy at reduced frequency of application has not been established.
 Closely monitor the frequency of application by carefully observing the therapeutic response and skin tolerance.
 
 Avoid concomitant use of topical medications and cosmetics that have a strong drying effect.

@@ -6,7 +6,7 @@ Risk Summary
 
 Based on data from animal reproduction studies, retinoid pharmacology, and the potential for systemic absorption, tazarotene cream may cause fetal harm when administered to a pregnant female and is contraindicated during pregnancy.
 Safety in pregnant females has not been established.
-The potential risk to the fetus outweighs the potential benefit to the mother from tazarotene cream during pregnancy; therefore, tazarotene cream should be discontinued as soon as pregnancy is recognized [see Contraindications (4.1), Warnings and Precautions (5.1), Clinical Pharmacology (12.3)].
+The potential risk to the fetus outweighs the potential benefit to the mother from tazarotene cream during pregnancy; therefore, tazarotene cream should be discontinued as soon as pregnancy is recognized [see Contraindications (4), Warnings and Precautions (5.1), Clinical Pharmacology (12.3)].
 Limited case reports of pregnancy in females enrolled in clinical trials for tazarotene cream have not established a clear association with tazarotene and major birth defects or miscarriage risk.
 Because the exact timing and extent of exposure in relation to the gestational age are not certain, the significance of these findings is unknown.
 
