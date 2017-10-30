@@ -7,7 +7,7 @@ The healing rates at Weeks 4 and 8 were evaluated and are shown in the Table 9:
 
 Table 9: Erosive Esophagitis Healing Rate (Life-Table Analysis)
 
-| Study | No. of Patients | Treatment Groups | Week 4 | Week 8 | Significance Levellog-rank test vs. omeprazole 20 mg. |
+| Study | No. of Patients | Treatment Groups | Week 4 | Week 8 | Significance Level log-rank test vs. omeprazole 20 mg. |
 | --- | --- | --- | --- | --- | --- |
 | 1 | 588 | NEXIUM 20 mg | 68.7% | 90.6% | N.S. |
 |  | 588 | Omeprazole 20 mg | 69.5% | 88.3% |  |
@@ -18,6 +18,7 @@ Table 9: Erosive Esophagitis Healing Rate (Life-Table Analysis)
 |  | 572 | Omeprazole 20 mg | 68.6% | 89.8% |  |
 | 4 | 1216 | NEXIUM 40 mg | 81.7% | 93.7% | p < 0.001 |
 |  | 1209 | Omeprazole 20 mg | 68.7% | 84.2% |  |
+| N.S. = not significant (p > 0.05). |  |  |  |  |  |
 
 In these same studies of patients with erosive esophagitis, sustained heartburn resolution and time to sustained heartburn resolution were evaluated and are shown in the Table 10:
 
@@ -35,6 +36,7 @@ Table 10: Sustained ResolutionDefined as 7 consecutive days with no heartburn re
 |  | 551 | Omeprazole 20 mg | 65.5% | 73.1% |  |
 | 4 | 1187 | NEXIUM 40 mg | 67.6% | 75.1% | p <0.001 |
 |  | 1188 | Omeprazole 20 mg | 62.5% | 70.8% |  |
+| N.S. = not significant (p>0.05). |  |  |  |  |  |
 
 In these four studies, the range of median days to the start of sustained resolution (defined as 7 consecutive days with no heartburn) was 5 days for NEXIUM 40 mg, 7 to 8 days for NEXIUM 20 mg and 7 to 9 days for omeprazole 20 mg.
 
