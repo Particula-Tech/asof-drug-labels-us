@@ -52,11 +52,11 @@ Risk Reduction of Rebleeding of Gastric or Duodenal Ulcers in Adults
 The data described below reflect exposure to NEXIUM I.V. for Injection in 375 patients.
 NEXIUM I.V. for Injection was studied in a placebo-controlled trial.
 Patients were randomized to receive NEXIUM I.V. for Injection (n=375) or placebo (n=389).
-The population was 18 to 98 years old; 68% Male, 87% Caucasian, 1% Black, 7% Asian, 4% other, who presented with endoscopically confirmed gastric or duodenal ulcer bleeding.
+The population was 18 to 98 years old; 68% Male, 87% Caucasian, 1% Black, 7% Asian, 4% Other, who presented with endoscopically confirmed gastric or duodenal ulcer bleeding.
 Following endoscopic hemostasis, patients received either 80 mg esomeprazole as an intravenous infusion over 30 minutes followed by a continuous infusion of 8 mg per hour or placebo for a total treatment duration of 72 hours.
 After the initial 72-hour period, all patients received oral proton pump inhibitor (PPI) for 27 days.
 
-Table 3: Incidence (%) of Adverse Reactions that Occurred in Greater than 1% of Patients within 72 Hours After Start of TreatmentIncidence ≥1% in the esomeprazole group and greater than placebo group safety population
+Table 3: Incidence (%) of Adverse Reactions that Occurred in Greater than 1% of Patients within 72 Hours after Start of TreatmentIncidence ≥1% in the esomeprazole group and greater than placebo group safety population
 
 |  | Number (%) of patients |  |
 | --- | --- | --- |
