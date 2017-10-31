@@ -32,6 +32,8 @@ sublingual tablets, USP
 
 Rx only
 
+GTIN: 00359762492111
+
 # PRINCIPAL DISPLAY PANEL - 0.4 mg Bottle Label
 
 ALWAYS DISPENSE WITH PATIENT PACKAGE INSERT
@@ -66,6 +68,8 @@ sublingual tablets, USP
 
 Rx only
 
+GTIN: 00359762330413
+
 # PRINCIPAL DISPLAY PANEL - 0.6 mg Bottle Label
 
 ALWAYS DISPENSE WITH PATIENT PACKAGE INSERT
@@ -99,3 +103,5 @@ sublingual tablets, USP
 0.6 mg
 
 Rx only
+
+GTIN: 00359762048912
