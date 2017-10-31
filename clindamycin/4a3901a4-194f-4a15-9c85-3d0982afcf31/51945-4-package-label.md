@@ -26,9 +26,7 @@ Cleocin T® clindamycin phosphate topical solution, USP
 
 Solution for topical use only
 
-30 mL
-
-Rx only
+30 mL Rx only
 
 # PRINCIPAL DISPLAY PANEL - Pledget Packet
 
