@@ -7,6 +7,6 @@ Chemically, tacrolimus is designated as [3S-[3R*[E(1S*,3S*,4S*)],4S*,5R*,8S*,9E,
 
 It has the following structural formula:
 
-Tacrolimus has an empirical formula of C44H69NO12 •H2O and a formula weight of 822.03.
+Tacrolimus has a molecular formula of C44H69NO12 •H2O and a formula weight of 822.03.
 
 Each gram of tacrolimus ointment contains (w/w) either 0.03% or 0.1% of tacrolimus in a base of mineral oil, paraffin, propylene carbonate, white petrolatum and white wax.

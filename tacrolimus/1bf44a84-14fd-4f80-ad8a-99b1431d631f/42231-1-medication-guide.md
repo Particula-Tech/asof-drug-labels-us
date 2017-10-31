@@ -144,6 +144,8 @@ Active Ingredient: tacrolimus, either 0.03% or 0.1%
 
 Inactive Ingredients: mineral oil, paraffin, propylene carbonate, white petrolatum and white wax.
 
-E. FOUGERA & CO. A division of Fougera PHARMACEUTICALS INC. Melville, New York 11747
+E. FOUGERA & CO. A division of
 
-46160664A R05/15 #234
+Fougera PHARMACEUTICALS INC. Melville, New York 11747
+
+46160664B R06/16 #234

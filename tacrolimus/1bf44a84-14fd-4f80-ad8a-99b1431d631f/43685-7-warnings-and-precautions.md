@@ -10,8 +10,7 @@ Therefore:
 - •Tacrolimus ointment should not be used in immunocompromised adults and children.
 - •If signs and symptoms of atopic dermatitis do not improve within 6 weeks, patients should be re-examined by their healthcare provider and their diagnosis be confirmed (see PRECAUTIONS: General).
 - •The safety of tacrolimus ointment has not been established beyond one year of non-continuous use.
-
-(See CLINICAL PHARMACOLOGY, boxed WARNINGS, INDICATIONS AND USAGE, and DOSAGE AND ADMINISTRATION).
+- (See CLINICAL PHARMACOLOGY, boxed WARNINGS, INDICATIONS AND USAGE, and DOSAGE AND ADMINISTRATION).
 
 # PRECAUTIONS
 
