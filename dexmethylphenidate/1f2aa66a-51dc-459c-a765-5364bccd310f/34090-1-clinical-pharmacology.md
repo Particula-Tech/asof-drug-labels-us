@@ -22,9 +22,7 @@ Dexmethylphenidate hydrochloride is readily absorbed following oral administrati
 In patients with ADHD, plasma dexmethylphenidate concentrations increase rapidly, reaching a maximum in the fasted state at about 1 to 1.5 hours postdose.
 No differences in the pharmacokinetics of dexmethylphenidate hydrochloride were noted following single and repeated twice daily dosing, thus indicating no significant drug accumulation in children with ADHD.
 
-When given to children as capsules in single doses of 2.5 mg, 5 mg, and 10 mg, Cmax and
-
-AUC0-inf of dexmethylphenidate were proportional to dose.
+When given to children as capsules in single doses of 2.5 mg, 5 mg, and 10 mg, Cmax and AUC0-inf of dexmethylphenidate were proportional to dose.
 In the same study, plasma dexmethylphenidate levels were comparable to those achieved following single dl-threo-methylphenidate HCl doses given as capsules in twice the total mg amount (equimolar with respect to dexmethylphenidate hydrochloride).
 
 Food Effects
