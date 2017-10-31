@@ -28,7 +28,7 @@ NDC 0168-0056-15
 
 FOUGERA®
 
-1. BETAMETHASONE DIPROPIONATE OINTMENT USP, 0.05% (Potency expressed as betamethasone)
+- BETAMETHASONE DIPROPIONATE OINTMENT USP, 0.05% (Potency expressed as betamethasone)
 
 Rx only
 
