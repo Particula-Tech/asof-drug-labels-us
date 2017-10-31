@@ -6,7 +6,7 @@ The following serious adverse reactions are described below and elsewhere in lab
 - Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.3)]
 - Bone Fracture [see Warnings and Precautions (5.4)]
 - Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.5)]
-- Cyanocobalamin (Vitamin B-12) Deficiency [see Warnings and Precautions (5.6)]
+- Cyanocobalamin (Vitamin B12) Deficiency [see Warnings and Precautions (5.6)]
 - Hypomagnesemia [see Warnings and Precautions (5.7)]
 
 ## 6.1 Clinical Trials Experience
@@ -21,7 +21,7 @@ The following adverse reactions were reported by the treating physician to have 
 Table 1.
 Incidence of Possibly or Probably Treatment-Related Adverse Reactions in Short-Term, Placebo-Controlled PREVACID Studies
 
-| Body System/Adverse Event | PREVACID (N= 2768) % | Placebo (N= 1023) % |
+| Body System/ Adverse Reaction | PREVACID (N= 2768) % | Placebo (N= 1023) % |
 | --- | --- | --- |
 | Body as a Whole |  |  |
 | Abdominal Pain | 2.1 | 1.2 |
@@ -31,11 +31,11 @@ Incidence of Possibly or Probably Treatment-Related Adverse Reactions in Short-T
 | Nausea | 1.3 | 1.2 |
 
 Headache was also seen at greater than 1% incidence but was more common on placebo.
-The incidence of diarrhea was similar between patients who received placebo and patients who received 15 mg and 30 mg of PREVACID, but higher in the patients who received 60 mg of PREVACID (2.9%, 1.4%, 4.2%, and 7.4%, respectively).
+The incidence of diarrhea was similar between patients who received placebo and patients who received 15 and 30 mg of PREVACID, but higher in the patients who received 60 mg of PREVACID (2.9, 1.4, 4.2, and 7.4%, respectively).
 
 The most commonly reported possibly or probably treatment-related adverse event during maintenance therapy was diarrhea.
 
-In the risk reduction study of PREVACID for NSAID-associated gastric ulcers, the incidence of diarrhea for patients treated with PREVACID, misoprostol, and placebo was 5%, 22%, and 3%, respectively.
+In the risk reduction study of PREVACID for NSAID-associated gastric ulcers, the incidence of diarrhea for patients treated with PREVACID, misoprostol, and placebo was 5, 22, and 3%, respectively.
 
 Another study for the same indication, where patients took either a COX-2 inhibitor or lansoprazole and naproxen, demonstrated that the safety profile was similar to the prior study.
 Additional reactions from this study not previously observed in other clinical trials with PREVACID included contusion, duodenitis, epigastric discomfort, esophageal disorder, fatigue, hunger, hiatal hernia, hoarseness, impaired gastric emptying, metaplasia, and renal impairment.
@@ -68,12 +68,12 @@ Urogenital System – abnormal menses, breast enlargement, breast pain, breast t
 
 ## 6.2 Postmarketing Experience
 
-Additional adverse experiences have been reported since PREVACID has been marketed.
-The majority of these cases are foreign-sourced and a relationship to PREVACID has not been established.
+Additional adverse experiences have been reported since PREVACID and PREVACID SoluTab have been marketed.
+The majority of these cases are foreign-sourced and a relationship to PREVACID or PREVACID SoluTab has not been established.
 Because these reactions were reported voluntarily from a population of unknown size, estimates of frequency cannot be made.
 These events are listed below by COSTART body system.
 
-Body as a Whole – anaphylactic/anaphylactoid reactions, systemic lupus erythematosus; Digestive System – hepatotoxicity, pancreatitis, vomiting; Hemic and Lymphatic System – agranulocytosis, aplastic anemia, hemolytic anemia, leukopenia, neutropenia, pancytopenia, thrombocytopenia, and thrombotic thrombocytopenic purpura; Infections and Infestations – Clostridium difficile associated diarrhea; Metabolism and Nutritional Disorders – hypomagnesemia; Musculoskeletal System – bone fracture, myositis; Skin and Appendages – severe dermatologic reactions including erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis (some fatal), cutaneous lupus erythematosus; Special Senses – speech disorder; Urogenital System – interstitial nephritis, urinary retention.
+Body as a Whole – anaphylactic/anaphylactoid reactions, systemic lupus erythematosus; Digestive System – hepatotoxicity, pancreatitis, vomiting; Hemic and Lymphatic System – agranulocytosis, aplastic anemia, hemolytic anemia, leukopenia, neutropenia, pancytopenia, thrombocytopenia, and thrombotic thrombocytopenic purpura; Infections and Infestations – Clostridium difficile-associated diarrhea; Metabolism and Nutritional Disorders – hypomagnesemia; Musculoskeletal System – bone fracture, myositis; Skin and Appendages – severe dermatologic reactions including erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis (some fatal), cutaneous lupus erythematosus; Special Senses – speech disorder; Urogenital System – interstitial nephritis, urinary retention.
 
 ## 6.3 Combination Therapy with Amoxicillin and Clarithromycin
 
@@ -83,7 +83,7 @@ Adverse reactions that have occurred have been limited to those that had been pr
 Triple Therapy: PREVACID/amoxicillin/clarithromycin
 
 The most frequently reported adverse reactions for patients who received triple therapy for 14 days were diarrhea (7%), headache (6%), and taste perversion (5%).
-There were no statistically significant differences in the frequency of reported adverse reactions between the 10- and 14-day triple therapy regimens.
+There were no statistically significant differences in the frequency of reported adverse reactions between the 10 and 14 day triple therapy regimens.
 No treatment-emergent adverse reactions were observed at significantly higher rates with triple therapy than with any dual therapy regimen.
 
 Dual Therapy: PREVACID/amoxicillin
@@ -91,7 +91,7 @@ Dual Therapy: PREVACID/amoxicillin
 The most frequently reported adverse reactions for patients who received PREVACID three times daily plus amoxicillin three times daily dual therapy were diarrhea (8%) and headache (7%).
 No treatment-emergent adverse reactions were observed at significantly higher rates with PREVACID three times daily plus amoxicillin three times daily dual therapy than with PREVACID alone.
 
-For information about adverse reactions with antibacterial agents (amoxicillin and clarithromycin) indicated in combination with PREVACID, refer to the ADVERSE REACTIONS section of their prescribing information.
+For information about adverse reactions with antibacterial agents (amoxicillin and clarithromycin) indicated in combination with PREVACID or PREVACID SoluTab, refer to the Adverse Reactions section of their prescribing information.
 
 ## 6.4 Laboratory Values
 
@@ -106,4 +106,4 @@ None of these patients who received PREVACID reported jaundice at any time durin
 
 In clinical trials using combination therapy with PREVACID plus amoxicillin and clarithromycin, and PREVACID plus amoxicillin, no increased laboratory abnormalities particular to these drug combinations were observed.
 
-For information about laboratory value changes with antibacterial agents (amoxicillin and clarithromycin) indicated in combination with PREVACID, refer to the ADVERSE REACTIONS section of their prescribing information.
+For information about laboratory value changes with antibacterial agents (amoxicillin and clarithromycin) indicated in combination with PREVACID or PREVACID SoluTab, refer to the Adverse Reactions section of their prescribing information.
