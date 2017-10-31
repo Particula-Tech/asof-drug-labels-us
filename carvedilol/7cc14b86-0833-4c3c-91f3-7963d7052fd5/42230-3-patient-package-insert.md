@@ -48,10 +48,10 @@ Tell your doctor about all of your medical conditions, including if you:
   You and your doctor should talk about the best way to control your high blood pressure during pregnancy.
 - are breastfeeding.
   It is not known if carvedilol passes into your breast milk.
-  You should not breastfeed while using carvedilol tablets.
+  Talk with your doctor about the best way to feed your baby if you are taking carvedilol tablets.
 - are scheduled for surgery and will be given anesthetic agents.
 - are scheduled for cataract surgery and have taken or are currently taking carvedilol tablets.
-- are taking prescription or non-prescription medicines, vitamins, and herbal supplements.
+- are taking prescription or over-the-counter medicines, vitamins, and herbal supplements.
   Carvedilol tablets and certain other medicines can affect each other and cause serious side effects.
   Carvedilol tablets may affect the way other medicines work.
   Also, other medicines may affect how well carvedilol tablets work.
@@ -110,7 +110,7 @@ How should I store carvedilol tablets?
 - Safely, throw away carvedilol tablets that are out of date or no longer needed.
 - Keep carvedilol tablets and all medicines out of the reach of children.
 
-General information about carvedilol tablets
+General Information about carvedilol tablets
 
 Medicines are sometimes prescribed for conditions other than those described in patient information leaflets.
 Do not use carvedilol tablets for a condition for which it was not prescribed.
@@ -120,8 +120,6 @@ They may harm them.
 This leaflet summarizes the most important information about carvedilol tablets.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about carvedilol tablets that is written for healthcare professionals.
-You can also find out more about carvedilol tablets by calling 1-866-850-2876.
-This call is free.
 
 What are the ingredients in carvedilol tablets?
 
@@ -139,6 +137,7 @@ High blood pressure makes the heart work harder to pump blood through the body a
 Carvedilol tablets can help your blood vessels relax so your blood pressure is lower.
 Medicines that lower blood pressure may lower your chance of having a stroke or heart attack.
 
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810
+The brands listed are trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
+Distributed by: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810
 
-Manufactured by: Aurobindo Pharma Limited Hyderabad–500 090, India Revised: 01/2016
+Manufactured by: Aurobindo Pharma Limited Hyderabad - 500 038, India Revised: 10/2017

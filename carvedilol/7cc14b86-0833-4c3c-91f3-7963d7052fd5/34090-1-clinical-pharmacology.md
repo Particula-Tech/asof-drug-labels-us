@@ -18,7 +18,7 @@ Initial effects on cardiac output, stroke volume index, and systemic vascular re
 These trials measured hemodynamic effects again at 12 to 14 weeks.
 Carvedilol significantly reduced systemic blood pressure, pulmonary artery pressure, right atrial pressure, systemic vascular resistance, and heart rate, while stroke volume index was increased.
 
-Among 839 subjects with NYHA class II to III heart failure treated for 26 to 52 weeks in 4 US placebo-controlled trials, average left ventricular ejection fraction (EF) measured by radionuclide ventriculography increased by 9 EF units (%) in subjects receiving carvedilol and by 2 EF units in placebo subjects at a target dose of 25 to 50 mg twice daily.
+Among 839 subjects with NYHA class II to III heart failure treated for 26 to 52 weeks in 4 U.S. placebo-controlled trials, average left ventricular ejection fraction (EF) measured by radionuclide ventriculography increased by 9 EF units (%) in subjects receiving carvedilol and by 2 EF units in placebo subjects at a target dose of 25 to 50 mg twice daily.
 The effects of carvedilol on ejection fraction were related to dose.
 Doses of 6.25 mg twice daily, 12.5 mg twice daily, and 25 mg twice daily were associated with placebo-corrected increases in EF of 5 EF units, 6 EF units, and 8 EF units, respectively; each of these effects were nominally statistically significant.
 
@@ -30,10 +30,10 @@ Hypertension
 
 The mechanism by which β-blockade produces an antihypertensive effect has not been established.
 
-β-adrenoreceptor blocking activity has been demonstrated in animal and human studies showing that carvedilol (1) reduces cardiac output in normal subjects; (2) reduces exercise- and/or isoproterenol-induced tachycardia; and (3) reduces reflex orthostatic tachycardia.
+β-adrenoreceptor blocking activity has been demonstrated in animal and human studies showing that carvedilol (1) reduces cardiac output in normal subjects, (2) reduces exercise- and/or isoproterenol-induced tachycardia, and (3) reduces reflex orthostatic tachycardia.
 Significant β-adrenoreceptor blocking effect is usually seen within 1 hour of drug administration.
 
-α1-adrenoreceptor blocking activity has been demonstrated in human and animal studies, showing that carvedilol (1) attenuates the pressor effects of phenylephrine; (2) causes vasodilation; and (3) reduces peripheral vascular resistance.
+α1-adrenoreceptor blocking activity has been demonstrated in human and animal studies, showing that carvedilol (1) attenuates the pressor effects of phenylephrine, (2) causes vasodilation, and (3) reduces peripheral vascular resistance.
 These effects contribute to the reduction of blood pressure and usually are seen within 30 minutes of drug administration.
 
 Due to the α1-receptor blocking activity of carvedilol, blood pressure is lowered more in the standing than in the supine position, and symptoms of postural hypotension (1.8%), including rare instances of syncope, can occur.
@@ -80,7 +80,7 @@ Plasma clearance ranges from 500 to 700 mL/min.
 Heart Failure
 
 Steady-state plasma concentrations of carvedilol and its enantiomers increased proportionally over the 6.25- to 50- mg dose range in subjects with heart failure.
-Compared with healthy subjects, heart failure subjects had increased mean AUC and Cmax values for carvedilol and its enantiomers, with up to 50% to 100% higher values observed in 6 subjects with NYHA class IV heart failure.
+Compared with healthy subjects, subjects with heart failure had increased mean AUC and Cmax values for carvedilol and its enantiomers, with up to 50% to 100% higher values observed in 6 subjects with NYHA class IV heart failure.
 The mean apparent terminal elimination half-life for carvedilol was similar to that observed in healthy subjects.
 
 Geriatric
@@ -95,7 +95,7 @@ Carvedilol is contraindicated in patients with severe liver impairment.
 Renal Impairment
 
 Although carvedilol is metabolized primarily by the liver, plasma concentrations of carvedilol have been reported to be increased in patients with renal impairment.
-Based on mean AUC data, approximately 40% to 50% higher plasma concentrations of carvedilol were observed in hypertensive subjects with moderate to severe renal impairment compared with a control group of hypertensive subjects with normal renal function.
+Based on mean AUC data, approximately 40% to 50% higher plasma concentrations of carvedilol were observed in subjects with hypertension and moderate to severe renal impairment compared with a control group of subjects with hypertension and normal renal function.
 However, the ranges of AUC values were similar for both groups.
 Changes in mean peak plasma levels were less pronounced, approximately 12% to 26% higher in subjects with impaired renal function.
 
@@ -115,7 +115,7 @@ In a pharmacokinetic trial conducted in 10 healthy male subjects, cimetidine (1,
 
 Digoxin
 
-Following concomitant administration of carvedilol (25 mg once daily) and digoxin (0.25 mg once daily) for 14 days, steady-state AUC and trough concentrations of digoxin were increased by 14% and 16%, respectively, in 12 hypertensive subjects [see Drug Interactions (7.4)].
+Following concomitant administration of carvedilol (25 mg once daily) and digoxin (0.25 mg once daily) for 14 days, steady-state AUC and trough concentrations of digoxin were increased by 14% and 16%, respectively, in 12 subjects with hypertension [see Drug Interactions (7.4)].
 
 Glyburide
 

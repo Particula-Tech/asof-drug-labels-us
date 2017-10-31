@@ -2,7 +2,7 @@
 
 ## 1.1 Heart Failure
 
-Carvedilol tablets are indicated for the treatment of mild-to-severe chronic heart failure of ischemic or cardiomyopathic origin, usually in addition to diuretics, ACE inhibitors, and digitalis, to increase survival and, also, to reduce the risk of hospitalization [see Drug Interactions (7.4) and Clinical Studies (14.1)].
+Carvedilol tablets are indicated for the treatment of mild-to-severe chronic heart failure of ischemic or cardiomyopathic origin, usually in addition to diuretics, ACE inhibitors, and digitalis, to increase survival and, also, to reduce the risk of hospitalization [see Drug Interactions (7.4), Clinical Studies (14.1)].
 
 ## 1.2 Left Ventricular Dysfunction following Myocardial Infarction
 
