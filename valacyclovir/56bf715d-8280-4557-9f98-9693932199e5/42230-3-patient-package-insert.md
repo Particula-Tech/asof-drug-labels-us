@@ -1,4 +1,6 @@
-PATIENT INFORMATION VALACYCLOVIR TABLETS, USP 500 mg and 1 gram (val″ ay sye′ kloe vir hye″ droe klor′ ide)
+# PATIENT INFORMATION
+
+VALACYCLOVIR TABLETS, USP 500 mg and 1 gram (val″ ay sye′ kloe vir hye″ droe klor′ ide)
 
 Read the Patient Information that comes with valacyclovir tablets before you start using it and each time you get a refill.
 There may be new information.

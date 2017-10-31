@@ -4,8 +4,6 @@ NDC 0378-4275-93
 
 Valacyclovir Tablets, USP 500 mg
 
-PHARMACIST: Dispense the Patient Information Leaflet provided separately to each patient.
-
 Rx only 30 Tablets
 
 Each film-coated tablet contains valacyclovir hydrochloride, USP equivalent to 500 mg of valacyclovir.
@@ -17,13 +15,15 @@ Keep this and all medication out of the reach of children.
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
 
+Do not use if safety seal under cap is broken or missing.
+
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Made in India
 
 Mylan.com
 
-RMX4275H4
+RMX4275H5
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
@@ -37,8 +37,6 @@ NDC 0378-4276-93
 
 Valacyclovir Tablets, USP 1 gram
 
-PHARMACIST: Dispense the Patient Information Leaflet provided separately to each patient.
-
 Rx only 30 Tablets
 
 Each film-coated tablet contains valacyclovir hydrochloride, USP equivalent to 1 gram of valacyclovir.
@@ -50,13 +48,15 @@ Keep this and all medication out of the reach of children.
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
 
+Do not use if safety seal under cap is broken or missing.
+
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Made in India
 
 Mylan.com
 
-RMX4276H4
+RMX4276H5
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 

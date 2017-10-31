@@ -103,17 +103,29 @@ Mean (±SD) Plasma Acyclovir Pharmacokinetic Parameter Estimates Following First
 When valacyclovir is coadministered with antacids, cimetidine and/or probenicid, digoxin or thiazide diuretics in patients with normal renal function, the effects are not considered to be of clinical significance (see below).
 Therefore, when valacyclovir is coadministered with these drugs in patients with normal renal function, no dosage adjustment is recommended.
 
-Antacids: The pharmacokinetics of acyclovir after a single dose of valacyclovir (1 gram) was unchanged by coadministration of a single dose of antacids (Al3+ or Mg++).
+#### Antacids
 
-Cimetidine: Acyclovir Cmax and AUC following a single dose of valacyclovir (1 gram) increased by 8% and 32%, respectively, after a single dose of cimetidine (800 mg).
+The pharmacokinetics of acyclovir after a single dose of valacyclovir (1 gram) was unchanged by coadministration of a single dose of antacids (Al3+ or Mg++).
 
-Cimetidine Plus Probenecid: Acyclovir Cmax and AUC following a single dose of valacyclovir (1 gram) increased by 30% and 78%, respectively, after a combination of cimetidine and probenecid, primarily due to a reduction in renal clearance of acyclovir.
+#### Cimetidine
 
-Digoxin: The pharmacokinetics of digoxin were not affected by coadministration of valacyclovir 1 gram 3 times daily, and the pharmacokinetics of acyclovir after a single dose of valacyclovir (1 gram) was unchanged by coadministration of digoxin (2 doses of 0.75 mg).
+Acyclovir Cmax and AUC following a single dose of valacyclovir (1 gram) increased by 8% and 32%, respectively, after a single dose of cimetidine (800 mg).
 
-Probenecid: Acyclovir Cmax and AUC following a single dose of valacyclovir (1 gram) increased by 22% and 49%, respectively, after probenecid (1 gram).
+#### Cimetidine Plus Probenecid
 
-Thiazide Diuretics: The pharmacokinetics of acyclovir after a single dose of valacyclovir (1 gram) was unchanged by coadministration of multiple doses of thiazide diuretics.
+Acyclovir Cmax and AUC following a single dose of valacyclovir (1 gram) increased by 30% and 78%, respectively, after a combination of cimetidine and probenecid, primarily due to a reduction in renal clearance of acyclovir.
+
+#### Digoxin
+
+The pharmacokinetics of digoxin were not affected by coadministration of valacyclovir 1 gram 3 times daily, and the pharmacokinetics of acyclovir after a single dose of valacyclovir (1 gram) was unchanged by coadministration of digoxin (2 doses of 0.75 mg).
+
+#### Probenecid
+
+Acyclovir Cmax and AUC following a single dose of valacyclovir (1 gram) increased by 22% and 49%, respectively, after probenecid (1 gram).
+
+#### Thiazide Diuretics
+
+The pharmacokinetics of acyclovir after a single dose of valacyclovir (1 gram) was unchanged by coadministration of multiple doses of thiazide diuretics.
 
 ## 12.4 Microbiology
 
