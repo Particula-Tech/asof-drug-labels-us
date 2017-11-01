@@ -32,11 +32,11 @@ Manifestations of histamine release and/or peripheral vasodilation may include p
 
 Effects on the Endocrine System
 
-Opioids inhibit the secretion of adrenocorticotropic hormone (ACTH), cortisol, and luteinizing hormone (LH) in humans [see Adverse Reactions].
-They also stimulate prolactin, growth hormone (GH) secretion, and pancreatic secretion of insulin and glucagon.
+Opioids inhibit the secretion of adrenocorticotropic hormone (ACTH), cortisol, and luteinizing hormone (LH) in humans [see ADVERSE REACTIONS].
+They also stimulate prolactin, growth hormone (GH) secretion, and pancreatic secretion of insulin and glucagon
 
 Chronic use of opioids may influence the hypothalamic-pituitary-gonadal axis, leading to androgen deficiency that may manifest as low libido, impotence, erectile dysfunction, amenorrhea, or infertility.
-The causal role of opioids in the clinical syndrome of hypogonadism is unknown because the various medical, physical, lifestyle, and psychological stressors that may influence gonadal hormone levels have not been adequately controlled for in studies conducted to date [see Adverse Reactions].
+The causal role of opioids in the clinical syndrome of hypogonadism is unknown because the various medical, physical, lifestyle, and psychological stressors that may influence gonadal hormone levels have not been adequately controlled for in studies conducted to date [see ADVERSE REACTIONS].
 
 Effects on the Immune System
 
@@ -47,12 +47,12 @@ Overall, the effects of opioids appear to be modestly immunosuppressive.
 Concentration–Efficacy Relationships
 
 The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with potent agonist opioids.
-The minimum effective analgesic concentration of codeine for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration].
+The minimum effective analgesic concentration of codeine for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see DOSAGE AND ADMINISTRATION].
 
 Concentration–Adverse Reaction Relationships
 
 There is a relationship between increasing codeine plasma concentration and increasing frequency of dose-related opioid adverse reactions such as nausea, vomiting, CNS effects, and respiratory depression.
-In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration].
+In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see DOSAGE AND ADMINISTRATION].
 
 ## Pharmacokinetics
 
@@ -62,12 +62,12 @@ Codeine
 
 Codeine is rapidly absorbed from the gastrointestinal tract.
 It is rapidly distributed from the intravascular spaces to the various body tissues, with preferential uptake by parenchymatous organs such as the liver, spleen and kidney.
-Codeine crosses the blood-brain barrier, and is found in fetal tissue and breast milk.
+Codeine crosses the blood- brain barrier, and is found in fetal tissue and breast milk.
 The plasma concentration does not correlate with brain concentration or relief of pain.
 Codeine is about 7-25% bound to plasma proteins and does not accumulate in body tissues.
 
 About 70 to 80% of the administered dose of codeine is metabolized by conjugation with glucuronic acid to codeine-6-glucuronide (C6G) and via O-demethylation to morphine (about 5 to 10%) and N-demethylation to norcodeine (about 10%) respectively.
-UDP-glucuronosyltransferase (UGT) 2B7 and 2B4 are the major enzymes mediating glucurodination of codeine to C6G.
+UDP- glucuronosyltransferase (UGT) 2B7 and 2B4 are the major enzymes mediating glucurodination of codeine to C6G.
 Cytochrome P450 2D6 is the major enzyme responsible for conversion of codeine to morphine and P450 3A4 is the major enzyme mediating conversion of codeine to norcodeine.
 Morphine and norcodeine are further metabolized by conjugation with glucuronic acid.
 The glucuronide metabolites of morphine are morphine-3-glucuronide (M3G) and morphine-6-glucuronide (M6G).
@@ -92,4 +92,4 @@ Acetaminophen is primarily metabolized in the liver by first-order kinetics and 
 The principal cytochrome P450 isoenzyme involved appears to be CYP2E1, with CYP1A2 and CYP3A4 as additional pathways.
 Approximately 85% of an oral dose appears in the urine within 24 hours of administration, most as the glucuronide conjugate, with small amounts of other conjugates and unchanged drug.
 
-See OVERDOSAGEfor toxicity information.
+See OVERDOSAGE for toxicity information.

@@ -1,25 +1,26 @@
 # ADVERSE REACTIONS
 
-The following adverse reactions have been identified during post approval use of Acetaminophen and Codeine Phosphate Oral Solution.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+The following serious adverse reactions are described, or described in greater detail, in other sections:
 
 - Addiction, Abuse, and Misuse [see WARNINGS]
 - Life-Threatening Respiratory Depression [see WARNINGS]
+- Ultra-Rapid Metabolism of Codeine and Other Risk Factors for Life-Threatening Respiratory Depression in Children [see WARNINGS]
 - Neonatal Opioid Withdrawal Syndrome [see WARNINGS]
-- Ultra-rapid Metabolizers of Codeine [see WARNINGS]
 - Interactions with CNS Depressants [see WARNINGS]
 - Severe Hypotension [see WARNINGS]
 - Gastrointestinal Adverse Reactions [see WARNINGS]
 - Seizures [see WARNINGS]
 - Withdrawal [see WARNINGS]
 
+The following adverse reactions associated with the use of codeine were identified in postmarketing reports.
+Because some of these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 Serious adverse reactions associated with codeine are respiratory depression and, to a lesser degree, circulatory depression, respiratory arrest, shock, and cardiac arrest.
 
 The most frequently observed adverse reactions with codeine administration include drowsiness, lightheadedness, dizziness, sedation, shortness of breath, nausea, vomiting, sweating, and constipation.
 
 Other adverse reactions include allergic reactions, euphoria, dysphoria, abdominal pain, pruritis, rash, thrombocytopenia, and agranulocytosis.
 
-Other less frequently observed adverse reactions expected from opioid analgesics, including Acetaminophen and Codeine Phosphate Oral Solution:
+Other less frequently observed adverse reactions expected from opioid analgesics, including acetaminophen and codeine phosphate oral solution:
 
 Cardiovascular system: faintness, flushing, hypotension, palpitations, syncope
 
@@ -31,5 +32,5 @@ Skin and Appendages: rash, sweating, urticarial
 
 - Serotonin syndrome: Cases of serotonin syndrome, a potentially life-threatening condition, have been reported during concomitant use of opioids with serotonergic drugs.
 - Adrenal insufficiency: Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use.
-- Anaphylaxis: Anaphylaxis has been reported with ingredients contained in Acetaminophen and Codeine Phosphate Oral Solution.
-- Androgen deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [see Clinical Pharmacology].
+- Anaphylaxis: Anaphylaxis has been reported with ingredients contained in acetaminophen and codeine phosphate oral solution.
+- Androgen deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [see CLINICAL PHARMACOLOGY].

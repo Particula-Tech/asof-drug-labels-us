@@ -3,24 +3,26 @@
 ### CYP2D6 Inhibitors
 
 Codeine is metabolized by CYP2D6 to form morphine.
-The concomitant use of Acetaminophen and Codeine Phosphate Oral Solution and CYP2D6 inhibitors (e.g., paroxetine, fluoxetine, bupropion, quinidine) can increase the plasma concentration of codeine, but decrease the plasma concentration of active metabolite morphine, particularly when an inhibitor is added after a stable dose of Acetaminophen and Codeine Phosphate Oral Solution is achieved.
+The concomitant use of acetaminophen and codeine phosphate oral solution and CYP2D6 inhibitors (e.g., paroxetine, fluoxetine, bupropion, quinidine) can increase the plasma concentration of codeine, but can decrease the plasma concentration of active metabolite morphine, which could result in reduced analgesic efficacy or symptoms of opioid withdrawal, particularly when an inhibitor is added after a stable dose of acetaminophen and codeine phosphate oral solution is achieved [see CLINICAL PHARMACOLOGY].
 
-If concomitant use is necessary, consider dosage adjustment of Acetaminophen and Codeine Phosphate Oral Solution until stable drug effects are achieved.
+After stopping a CYP2D6 inhibitor, as the effects of the inhibitor decline, the codeine plasma concentration will decrease but the active metabolite morphine plasma concentration will increase, which could increase or prolong adverse reactions and may cause potentially fatal respiratory depression [see CLINICAL PHARMACOLOGY].
 
-After stopping a CYP2D6 inhibitor, as the effects of the inhibitor decline, the codeine plasma concentration will decrease but the morphine plasma concentration will increase.
-If a CYP2D6 inhibitor is discontinued, consider adjusting the Acetaminophen and Codeine Phosphate Oral Solution dosage until stable drug achieved.
+If concomitant use with a CYP2D6 inhibitor is necessary, or if a CYP2D6 inhibitor is discontinued after concomitant use, consider dosage adjustment of acetaminophen and codeine phosphate oral solution and monitor patients closely at frequent intervals.
 
-If concomitant use is necessary or if a CYP2D6 inhibitor is discontinued after concomitant use, monitor patients closely at frequent intervals.
-If signs and symptoms of respiratory depression or sedation occur, consider reducing the Acetaminophen and Codeine Phosphate Oral Solution dosage until stable drug effects are achieved.
+If concomitant use with CYP2D6 inhibitors is necessary, follow the patient for reduced efficacy or signs and symptoms of opioid withdrawal and consider increasing the acetaminophen and codeine phosphate oral solution as needed.
+
+After stopping use of a CYP2D6 inhibitor, consider reducing the acetaminophen and codeine phosphate oral solution and monitor the patient for signs and symptoms of respiratory depression or sedation.
 
 ### CYP3A4 Inhibitors
 
-The concomitant use of Acetaminophen and Codeine Phosphate Oral Solution and CYP3A4 inhibitors such as macrolide antibiotics (e.g., erythromycin), azole-antifungal agents (e.g. ketoconazole), and protease inhibitors (e.g., ritonavir), can increase the plasma concentration of codeine, resulting in increased or prolonged opioid effects, particularly when an inhibitor is added after a stable dose of Acetaminophen and Codeine Phosphate Oral Solution is achieved.
-If concomitant use is necessary, consider dosage reduction of Acetaminophen and Codeine Phosphate Oral Solution until stable drug effects are achieved.
+The concomitant use of acetaminophen and codeine phosphate oral solution and CYP3A4 inhibitors, such as macrolide antibiotics (e.g., erythromycin), azole-antifungal agents (e.g. ketoconazole), and protease inhibitors (e.g., ritonavir), may result in an increase in codeine plasma concentrations, with subsequently greater metabolism by cytochrome CYP2D6, resulting in greater morphine levels, which could increase or prolong adverse reactions and may cause potentially fatal respiratory depression, particularly when an inhibitor is added after a stable dose of acetaminophen and codeine phosphate oral solution is achieved [see WARNINGS].
+
+After stopping a CYP3A4 inhibitor, as the effects of the inhibitor decline, it may result in lower codeine levels, greater norcodeine levels, and less metabolism via CYP2D6 with resultant lower morphine levels [see CLINICAL PHARMACOLOGY], resulting in decreased opioid efficacy or a withdrawal syndrome in patients who had developed physical dependence to codeine.
+
+If concomitant use of CYP3A4 inhibitor is necessary, consider dosage reduction of acetaminophen and codeine phosphate oral solution until stable drug effects are achieved.
 Monitor patients for respiratory depression and sedation at frequent intervals.
 
-After stopping a CYP3A4 inhibitor, as the effects of the inhibitor decline, the codeine plasma concentration will decrease resulting in decreased opioid efficacy or a withdrawal syndrome in patients who had developed physical dependence to codeine.
-If a CYP3A4 inhibitor is discontinued, consider increasing the Acetaminophen and Codeine Phosphate Oral Solution dosage until stable drug effects are achieved.
+If a CYP3A4 inhibitor is discontinued, consider increasing the acetaminophen and codeine phosphate oral solution dosage until stable drug effects are achieved.
 Monitor for signs of opioid withdrawal.
 
 ### CYP3A4 Inducers
@@ -42,29 +44,30 @@ Follow patients closely for signs of respiratory depression and sedation [see WA
 
 ### Serotonergic Drugs
 
-The concomitant use of opioids with other drugs that affect the serotonergic neurotransmitter system, such as selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that effect the serotonin neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), and monoamine oxidase (MAO) inhibitors (those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue), has resulted in serotonin syndrome [see PRECAUTIONS; Information for Patients].
+The concomitant use of opioids with other drugs that affect the serotonergic neurotransmitter system has resulted in serotonin syndrome.
+Examples of these drugs include, selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that effect the serotonin neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), and monoamine oxidase (MAO) inhibitors (used to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue) [see PRECAUTIONS; Information for Patients].
 
 If concomitant use is warranted, carefully observe the patient, particularly during treatment initiation and dose adjustment.
-Discontinue Acetaminophen and Codeine Phosphate Oral Solution if serotonin syndrome is suspected.
+Discontinue acetaminophen and codeine phosphate oral solution if serotonin syndrome is suspected.
 
 ### Monoamine Oxidase Inhibitors (MAOIs)
 
-The concomitant use of opioids and MAOIs, such as phenelzine, tranylcypromine, linezolid, may manifest as serotonin syndrome or opioid toxicity
+The concomitant use of opioids and MAOIs, such as phenelzine, tranylcypromine, linezolid, may manifest as serotonin syndrome or opioid toxicity.
 
-Advise patients taking Acetaminophen and Codeine Phosphate Oral Solution not to use MAOIs or within 14 days of stopping such treatment.
+Advise patients taking acetaminophen and codeine phosphate oral solution not to use MAOIs or within 14 days of stopping such treatment.
 If urgent use of an opioid is necessary, use test doses and frequent titration of small doses of other opioids (such as oxycodone, hydrocodone, oxymorphone, hydrocodone, or buprenorphine) to treat pain while closely monitoring blood pressure and signs and symptoms of CNS and respiratory depression.
 
 ### Mixed Agonist/Antagonist and Partial Agonist Opioid Analgesics
 
-The concomitant use of opioids with other opioid analgesics, such as butorphanol, nalbuphine, pentazocine, may reduce the analgesic effect of Acetaminophen and Codeine Phosphate Oral Solution and/or precipitate withdrawal symptoms.
+The concomitant use of opioids with other opioid analgesics, such as butorphanol, nalbuphine, pentazocine, may reduce the analgesic effect of acetaminophen and codeine phosphate oral solution and/or precipitate withdrawal symptoms.
 
 Advise patient to avoid concomitant use of these drugs.
 
 ### Muscle Relaxants
 
-Acetaminophen and Codeine Phosphate Oral Solution may enhance the neuromuscular blocking action of skeletal muscle relaxants and produce an increased degree of respiratory depression.
+Acetaminophen and codeine phosphate oral solution may enhance the neuromuscular blocking action of skeletal muscle relaxants and produce an increased degree of respiratory depression.
 
-If concomitant use is warranted, monitor patients for signs of respiratory depression that may be greater than otherwise expected and decrease the dosage of Acetaminophen and Codeine Phosphate Oral Solution and/or the muscle relaxant as necessary.
+If concomitant use is warranted, monitor patients for signs of respiratory depression that may be greater than otherwise expected and decrease the dosage of acetaminophen and codeine phosphate oral solution and/or the muscle relaxant as necessary.
 
 ### Diuretics
 
@@ -76,7 +79,7 @@ If concomitant use is warranted, monitor patients for signs of diminished diures
 
 The concomitant use of anticholinergic drugs may increase risk of urinary retention and/or severe constipation, which may lead to paralytic ileus.
 
-If concomitant use is warranted, monitor patients for signs of urinary retention or reduced gastric motility when Acetaminophen and Codeine Phosphate Oral Solution is used concomitantly with anticholinergic drugs.
+If concomitant use is warranted, monitor patients for signs of urinary retention or reduced gastric motility when acetaminophen and codeine phosphate oral solution is used concomitantly with anticholinergic drugs.
 
 ## Drug/Laboratory Test Interactions
 
@@ -122,3 +125,80 @@ The clinical significance of these findings is not known.
 
 Chronic use of opioids may cause reduced fertility in females and males of reproductive potential.
 It is not known whether these effects on fertility are reversible [see ADVERSE REACTIONS].
+
+## PREGNANCY
+
+### Teratogenic Effects: Pregnancy Category C
+
+Codeine
+
+A study in rats and rabbits reported no teratogenic effect of codeine administered during the period of organogenesis in doses ranging from 5 to 120 mg/kg.
+In the rat, doses at the 120 mg/kg level, in the toxic range for the adult animal, were associated with an increase in embryo resorption at the time of implantation.
+In another study a single 100 mg/kg subcutaneous dose of codeine administered to pregnant mice reportedly resulted in delayed ossification in the offspring.
+
+There are no adequate and well-controlled studies in pregnant women. acetaminophen and codeine phosphate oral solution should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+
+### Nonteratogenic Effects
+
+Fetal/Neonatal Adverse Reactions
+
+Prolonged use of opioid analgesics during pregnancy for medical or nonmedical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
+
+Neonatal opioid withdrawal syndrome presents as irritability, hyperactivity and abnormal sleep pattern, high pitched cry, tremor, vomiting, diarrhea and failure to gain weight.
+The onset, duration, and severity of neonatal opioid withdrawal syndrome vary based on the specific opioid used, duration of use, timing and amount of last maternal use, and rate of elimination of the drug by the newborn.
+Observe newborns for symptoms of neonatal opioid withdrawal syndrome and manage accordingly [see WARNINGS].
+
+### Labor or Delivery
+
+Opioids cross the placenta and may produce respiratory depression and psycho-physiologic effects in neonates.
+An opioid antagonist, such as naloxone, must be available for reversal of opioid-induced respiratory depression in the neonate.
+Acetaminophen and codeine phosphate oral solution is not recommended for use in pregnant women during or immediately prior to labor, when other analgesic techniques are more appropriate.
+Opioid analgesics, including acetaminophen and codeine phosphate oral solution, and can prolong labor through actions which temporarily reduce the strength, duration, and frequency of uterine contractions.
+However, this effect is not consistent and may be offset by an increased rate of cervical dilation, which tends to shorten labor.
+Monitor neonates exposed to opioid analgesics during labor for signs of excess sedation and respiratory depression.
+
+Narcotic analgesics should be avoided during labor if delivery of a premature infant is anticipated.
+If the mother has received narcotic analgesics during labor, newborn infants should be observed closely for signs of respiratory depression.
+Resuscitation may be required [see OVERDOSAGE].
+The effect of codeine, if any, on the later growth, development, and functional maturation of the child is unknown.
+
+## NURSING MOTHERS
+
+Codeine and its active metabolite, morphine, are present in human milk.
+There are published studies and cases that have reported excessive sedation, respiratory depression, and death in infants exposed to codeine via breast milk.
+Women who are ultra-rapid metabolizers of codeine achieve higher than expected serum levels of morphine, potentially leading to higher levels of morphine in breast milk that can be dangerous in their breastfed infants.
+In women with normal codeine metabolism (normal CYP2D6 activity), the amount of codeine secreted into human milk is low and dose-dependent.
+
+There is no information on the effects of the codeine on milk production.
+Because of the potential for serious adverse reactions, including excess sedation, respiratory depression, and death in a breastfed infant, advise patients that breastfeeding is not recommended during treatment with acetaminophen and codeine phosphate oral solution [see WARNINGS].
+
+Acetaminophen is excreted in breast milk in small amounts, but the significance of its effect on nursing infants is not known.
+Because of the potential for serious adverse reactions in nursing infants from acetaminophen, a decision should be made whether to discontinue nursing or discontinue the drug, taking into account the importance of the drug to the mother.
+
+Clinical Considerations If infants are exposed to acetaminophen and codeine phosphate oral solution through breast milk, they should be monitored for excess sedation and respiratory depression.
+Withdrawal symptoms can occur in breastfed infants when maternal administration of an opioid analgesic is stopped, or when breast-feeding is stopped.
+
+## Pediatric Use
+
+The safety and effectiveness of acetaminophen and codeine phosphate oral solution in pediatric patients below the age of 18 have not been established.
+
+Life-threatening respiratory depression and death have occurred in children who received codeine [see WARNINGS].
+In most of the reported cases, these events followed tonsillectomy and/or adenoidectomy, and many of the children had evidence of being ultra- rapid metabolizers of codeine (i.e., multiple copies of the gene for cytochrome P450 isoenzyme 2D6 or high morphine concentrations).
+Children with sleep apnea may be particularly sensitive to the respiratory depressant effects of codeine.
+Because of the risk of life-threatening respiratory depression and death:
+
+- Acetaminophen and codeine phosphate oral solution is contraindicated for all children younger than 12 years of age [see CONTRAINDICATIONS].
+- Acetaminophen and codeine phosphate oral solution is contraindicated for post- operative management in pediatric patients younger than 18 years of age following tonsillectomy and/or adenoidectomy [see CONTRAINDICATIONS].
+- Avoid the use of acetaminophen and codeine phosphate oral solution in adolescents 12 to 18 years of age who have other risk factors that may increase their sensitivity to the respiratory depressant effects of codeine unless the benefits outweigh the risks.
+  Risk factors include conditions associated with hypoventilation, such as postoperative status, obstructive sleep apnea, obesity, severe pulmonary disease, neuromuscular disease, and concomitant use of other medications that cause respiratory depression [see WARNINGS].
+
+## Geriatric Use
+
+Elderly patients (aged 65 years or older) may have increased sensitivity to acetaminophen and codeine phosphate oral solution.
+In general, use caution when selecting a dosage for an elderly patient, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function and of concomitant disease or other drug therapy.
+
+Respiratory depression is the chief risk for elderly patients treated with opioids, and has occurred after large initial doses were administered to patients who were not opioid- tolerant or when opioids were co-administered with other agents that depress respiration.
+Titrate the dosage of acetaminophen and codeine phosphate oral solution slowly in geriatric patients and monitor closely for signs of central nervous system and central nervous system depression [see WARNINGS].
+
+These drugs are known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
+Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.

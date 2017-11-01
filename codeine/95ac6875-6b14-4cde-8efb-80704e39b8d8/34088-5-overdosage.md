@@ -21,27 +21,28 @@ Clinical and laboratory evidence of hepatic toxicity may not be apparent until 4
 
 ### Codeine
 
-In case of codeine overdose, priorities are the reestablishment of a patent and protected airway and institution of assisted or controlled ventilation, if needed.
+In case of overdose, priorities are the reestablishment of a patent and protected airway and institution of assisted or controlled ventilation, if needed.
 Employ other supportive measures (including oxygen and vasopressors) in the management of circulatory shock and pulmonary edema as indicated.
 Cardiac arrest or serious arrhythmias will require advanced life-support measures.
 
 The opioid antagonists, naloxone or nalmefene, are specific antidotes to respiratory depression resulting from opioid overdose.
-For clinically significant respiratory or circulatory depression secondary to Acetaminophen and Codeine Phosphate Oral Solution overdose, administer an opioid antagonist.
-Only administer opioid antagonists in the presence of clinically significant respiratory, circulatory and/or central nervous system depression secondary to codeine overdose.
-In patients who are physically dependent on any opioid agonist including Acetaminophen and Codeine Phosphate Oral Solution, an abrupt or complete reversal of opioid effects may precipitate an acute withdrawal syndrome.
-The severity of the withdrawal syndrome produced will depend on the degree of physical dependence and the dose of the antagonist administered.
-Please see the prescribing information for the specific opioid antagonist for details of their proper use.
+For clinically significant respiratory or circulatory depression secondary to acetaminophen and codeine phosphate oral solution overdose, administer an opioid antagonist.
+Opioid antagonists should not be administered in the absence of clinically significant respiratory or circulatory depression secondary to codeine overdose.
 
-Because the duration of opioid reversal is expected to be less than the duration of action of Acetaminophen and Codeine Phosphate Oral Solution, carefully monitor the patient until spontaneous respiration is reliably reestablished.
+Because the duration of opioid reversal is expected to be less than the duration of action of acetaminophen and codeine phosphate oral solution, carefully monitor the patient until spontaneous respiration is reliably reestablished.
 If the response to an opioid antagonist is suboptimal or only brief in nature, administer additional antagonist as directed by the product’s prescribing information.
+
+In an individual physically dependent on opioids, administration of the recommended usual dosage of the antagonist will precipitate an acute withdrawal syndrome.
+The severity of the withdrawal symptoms experienced will depend on the degree of physical dependence and the dose of the antagonist administered.
+If a decision is made to treat serious respiratory depression in the physically dependent patient, administration of the antagonist should be begun with care and by titration with smaller than usual doses of the antagonist.
 
 ### Acetaminophen
 
-Gastric decontamination with activated charcoal should be administered just prior to N-acetylcysteine (NAC) to decrease systemic absorption if acetaminophen ingestion is known or suspected to have occurred within a few hours of presentation.
+Gastric decontamination with activated charcoal should be administered just prior to N- acetylcysteine (NAC) to decrease systemic absorption if acetaminophen ingestion is known or suspected to have occurred within a few hours of presentation.
 
 Serum acetaminophen levels should be obtained immediately if the patient presents 4 hours or more after ingestion to assess potential risk of hepatotoxicity; acetaminophen levels drawn less than 4 hours post-ingestion may be misleading.
 To obtain the best possible outcome, NAC should be administered as soon as possible where impending or evolving liver injury is suspected.
 Intravenous NAC may be administered when circumstances preclude oral administration.
 
 Vigorous supportive therapy is required in severe intoxication.
-Procedures to limit the continuing absorption of the drug must be readily performed since the hepatic injury is dose-dependent and occurs early in the course of intoxication.
+Procedures to limit the continuing absorption of the drug must be readily performed since the hepatic injury is dose- dependent and occurs early in the course of intoxication.
