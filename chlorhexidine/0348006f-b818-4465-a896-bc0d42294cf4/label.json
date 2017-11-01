@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA074291"
+  ],
+  "inn": "chlorhexidine",
+  "labeler": "Lyne Laboratories, Inc.",
+  "package_ndcs": [
+    "0374-5080-01",
+    "0374-5080-02"
+  ],
+  "products": [
+    {
+      "form": "RINSE",
+      "generic": "chlorhexidine gluconate",
+      "name": "CHLORHEXIDINE GLUCONATE"
+    }
+  ],
+  "setid": "0348006f-b818-4465-a896-bc0d42294cf4",
+  "source": "dailymed"
+}
