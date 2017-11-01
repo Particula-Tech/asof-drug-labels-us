@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA208823"
+  ],
+  "inn": "oseltamivir",
+  "labeler": "Alvogen Inc.",
+  "package_ndcs": [
+    "47781-384-26"
+  ],
+  "products": [
+    {
+      "form": "POWDER, FOR SUSPENSION",
+      "generic": "oseltamivir phosphate",
+      "name": "Oseltamivir Phosphate for Oral Suspension"
+    }
+  ],
+  "setid": "82df3237-636b-7bf9-3ba0-2b476e74bf4c",
+  "source": "dailymed"
+}
