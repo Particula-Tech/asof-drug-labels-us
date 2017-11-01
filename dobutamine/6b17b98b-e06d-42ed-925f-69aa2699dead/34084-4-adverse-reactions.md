@@ -2,7 +2,7 @@
 
 ## Increased Heart Rate, Blood Pressure, and Ventricular Ectopic Activity
 
-A 10 to 20-mm Hg increase in systolic blood pressure and an increase in heart rate of 5 to 15 beats/minute have been noted in most patients (see Warnings regarding exaggerated chronotropic and pressor effects).
+A 10 to 20-mm Hg increase in systolic blood pressure and an increase in heart rate of 5 to 15 beats/minute have been noted in most patients (see WARNINGS regarding exaggerated chronotropic and pressor effects).
 Approximately 5% of adult patients have had increased premature ventricular beats during infusions.
 These effects are dose related.
 

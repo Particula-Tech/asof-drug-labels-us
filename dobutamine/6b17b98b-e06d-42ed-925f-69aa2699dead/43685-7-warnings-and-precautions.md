@@ -65,8 +65,6 @@ Studies to evaluate the carcinogenic or mutagenic potential of dobutamine or the
 
 ### Pregnancy
 
-#### Pregnancy Category B
-
 Reproduction studies performed in rats and rabbits have revealed no evidence of harm to the fetus due to dobutamine.
 The drug, however, has not been administered to pregnant women and should be used only when the expected benefits clearly outweigh the potential risks to the fetus.
 
