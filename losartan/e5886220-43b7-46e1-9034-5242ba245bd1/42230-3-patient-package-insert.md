@@ -12,7 +12,7 @@ This leaflet does not take the place of talking with your doctor about your cond
 
 What is the most important information I should know about losartan potassium tablets?
 
-- Losartan potassium tabletscan cause harm or death to an unborn baby.
+- Losartan potassium tablets can cause harm or death to an unborn baby.
 - Talk to your doctor about other ways to lower your blood pressure if you plan to become pregnant.
 - If you get pregnant while taking losartan potassium tablets, tell your doctor right away.
 
@@ -123,7 +123,7 @@ How do I store losartan potassium tablets?
 
 - Store losartan potassium tablets tablets at 59°F to 86°F (15°C to 30°C).
 - Keep losartan potassium tablets in a tightly closed container that protects the medicine from light.
-- Keep losartan potassium tabletsand all medicines out of the reach of children.
+- Keep losartan potassium tablets and all medicines out of the reach of children.
 
 General information about losartan potassium tablets
 

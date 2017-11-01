@@ -4,7 +4,7 @@ Losartan potassium is an angiotensin II receptor blocker acting on the AT1 recep
 
 Its empirical formula is C22H22ClKN6O, and its structural formula is:
 
-Losartan potassium is a white to off-white amorphous powder with a molecular weight of 461.01.
+Losartan potassium is a white to off-white powder with a molecular weight of 461.01.
 It is freely soluble in water, soluble in alcohols, and slightly soluble in common organic solvents, such as acetonitrile and methyl ethyl ketone.
 Oxidation of the 5-hydroxymethyl group on the imidazole ring results in the active metabolite of losartan.
 
