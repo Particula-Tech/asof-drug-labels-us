@@ -11,3 +11,7 @@ Soliris is indicated for the treatment of patients with atypical hemolytic uremi
 Limitation of Use
 
 Soliris is not indicated for the treatment of patients with Shiga toxin E. coli related hemolytic uremic syndrome (STEC-HUS).
+
+## 1.3 Generalized Myasthenia Gravis (gMG)
+
+Soliris is indicated for the treatment of adult patients with generalized Myasthenia Gravis (gMG) who are anti-acetylcholine receptor (AchR) antibody positive.

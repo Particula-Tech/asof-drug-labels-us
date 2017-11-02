@@ -3,31 +3,44 @@
 ## 12.1 Mechanism of Action
 
 Eculizumab, the active ingredient in Soliris, is a monoclonal antibody that specifically binds to the complement protein C5 with high affinity, thereby inhibiting its cleavage to C5a and C5b and preventing the generation of the terminal complement complex C5b-9.
-Soliris inhibits terminal complement mediated intravascular hemolysis in PNH patients and complement-mediated thrombotic microangiopathy (TMA) in patients with aHUS.
 
-A genetic mutation in patients with PNH leads to the generation of populations of abnormal RBCs (known as PNH cells) that are deficient in terminal complement inhibitors, rendering PNH RBCs sensitive to persistent terminal complement-mediated destruction.
-The destruction and loss of these PNH cells (intravascular hemolysis) results in low RBC counts (anemia), and also fatigue, difficulty in functioning, pain, dark urine, shortness of breath, and blood clots.
+Soliris inhibits terminal complement-mediated intravascular hemolysis in PNH patients and complement-mediated thrombotic microangiopathy (TMA) in patients with aHUS.
 
-In aHUS, impairment in the regulation of complement activity leads to uncontrolled terminal complement activation, resulting in platelet activation, endothelial cell damage and thrombotic microangiopathy.
+The precise mechanism by which eculizumab exerts its therapeutic effect in gMG patients is unknown, but is presumed to involve reduction of terminal complement complex C5b-9 deposition at the neuromuscular junction.
 
 ## 12.2 Pharmacodynamics
 
-In the PNH placebo-controlled clinical study, Soliris when administered as recommended reduced hemolysis as shown by the reduction of serum LDH levels from 2200 ± 1034 U/L (mean ± SD) at baseline to 700 ± 388 U/L by week one and maintained the effect through the end of the study at week 26 (327 ± 433 U/L).
-In the single arm clinical study, Soliris maintained this effect through 52 weeks [see Clinical Studies (14)].
+In the placebo-controlled clinical study (PNH Study 1), Soliris when administered as recommended reduced serum LDH levels from 2200 ± 1034 U/L (mean ± SD) at baseline to 700 ± 388 U/L by week one and maintained the effect through the end of the study at week 26 (327 ± 433 U/L) in patients with PNH.
+In the single arm clinical study (PNH Study 2), the effect was maintained through week 52 [see Clinical Studies (14)].
+
+In patients with PNH, aHUS, and gMG, free C5 concentrations of < 0.5 mcg/mL was correlated with complete blockade of terminal complement activity.
 
 ## 12.3 Pharmacokinetics
 
-A population PK analysis with a standard 1-compartmental model was conducted on the multiple dose PK data from 40 PNH patients receiving the recommended Soliris regimen [see Dosage and Administration (2.1)].
-In this model, the clearance of Soliris for a typical PNH patient weighing 70 kg was 22 mL/hr and the volume of distribution was 7.7 L. The half-life was 272 ± 82 hrs (mean ± SD).
-The mean observed peak and trough serum concentrations of Soliris by week 26 were 194 ± 76 mcg/mL and 97 ± 60 mcg/mL, respectively.
+Following intravenous maintenance doses of 900 mg once every 2 weeks in patients with PNH, the week 26 observed mean ± SD serum eculizumab maximum concentration (Cmax) was 194 ± 76 mcg/mL and the trough concentration (Ctrough) was 97 ± 60 mcg/mL.
+Following intravenous maintenance doses of 1200 mg once every 2 weeks in patients with aHUS, the week 26 observed mean ± SD Ctrough was 242 ± 101 mcg/mL.
+Following intravenous maintenance doses of 1200 mg once every 2 weeks in patients with gMG, the week 26 observed mean ± SD Cmax was 783 ± 288 mcg/mL and the Ctrough was 341 ± 172 mcg/mL.
 
-A second population PK analysis with a standard 1 compartmental model was conducted on the multiple dose PK data from 57 aHUS patients receiving the recommended Soliris regimen in studies 1, 2 and 3.
-In this model, the clearance of Soliris for a typical aHUS patient weighing 70 kg was 14.6 mL/hr and the volume of distribution was 6.14 L. The elimination half-life was 291 h (approximately 12.1 days).
+Steady state was achieved 4 weeks after starting eculizumab treatment, with accumulation ratio of approximately 2-fold in all studied indications.
+Population pharmacokinetic analyses showed that eculizumab pharmacokinetics were dose-linear and time-independent over the 600 mg to 1200 mg dose range, with inter-individual variability of 21% to 38%.
 
-The clearance and half-life of eculizumab were also evaluated during plasma exchange interventions.
-Plasma exchange increased the clearance of eculizumab to 3660 mL/hr and reduced the half-life to 1.26 hours.
-Supplemental dosing is recommended when Soliris is administered to aHUS patients receiving plasma infusion or exchange [see Dosage and Administration (2.2)].
+Distribution
 
-Dedicated studies have not been conducted to evaluate the PK of Soliris in special patient populations identified by gender, race, age (geriatric), or the presence of renal or hepatic impairment.
-Pediatric and adolescent patients (less than 18 years of age) and patients with renal impairment were included in the aHUS clinical studies [see Clinical Studies (14)].
-Population PK analysis showed age, gender, race, and renal function do not influence the PK of eculizumab.
+The eculizumab volume of distribution for a typical 70 kg patient was 5 L to 8 L.
+
+Elimination
+
+The half-life of eculizumab was approximately 270 h to 375 h.
+
+Plasma exchange or infusion increased the clearance of eculizumab by approximately 250-fold and reduced the half-life to 1.26 h. Supplemental dosing is recommended when Soliris is administered to patients receiving plasma exchange or infusion [see Dosage and Administration (2.
+4)].
+
+Specific Populations
+
+Age, Sex, and Race:
+
+The pharmacokinetics of eculizumab were not affected by age (2 months to 85 years), sex, or race.
+
+Renal Impairment:
+
+Renal function did not affect the pharmacokinetics of eculizumab in PNH (creatinine clearance of 8 mL/min to 396 mL/min calculated using Cockcroft-Gault formula), aHUS (estimated glomerular filtration rate [eGFR] of 5 mL/min/1.73 m2 to105 mL/min/1.73 m2 using the Modification of Diet in Renal Disease [MDRD] formula), or gMG patients (eGFR of 44 mL/min/1.73 m2 to 168 mL/min/1.73 m2 using MDRD formula).

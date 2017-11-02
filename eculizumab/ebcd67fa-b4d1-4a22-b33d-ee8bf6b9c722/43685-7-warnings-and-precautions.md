@@ -2,7 +2,8 @@
 
 ## 5.1 Serious Meningococcal Infections
 
-Life-threatening and fatal meningococcal infections have occurred in patients treated with Soliris.The use of Soliris increases a patient's susceptibility to serious meningococcal infections (septicemia and/or meningitis).
+Life-threatening and fatal meningococcal infections have occurred in patients treated with Soliris.
+The use of Soliris increases a patient's susceptibility to serious meningococcal infections (septicemia and/or meningitis).
 
 Vaccinate for meningococcal disease according to the most current Advisory Committee on Immunization Practices (ACIP) recommendations for patients with complement deficiencies.
 Revaccinate patients in accordance with ACIP recommendations, considering the duration of Soliris therapy.
@@ -27,9 +28,9 @@ Discontinue Soliris in patients who are undergoing treatment for serious meningo
 Because of the risk of meningococcal infections, Soliris is available only through a restricted program under a Risk Evaluation and Mitigation Strategy (REMS).
 Under the Soliris REMS, prescribers must enroll in the program.
 
-Prescribers must counsel patients about the risk of meningococcal infection, provide the patients with the REMS educational materials, and ensure patients are vaccinated with a meningococcal vaccine.
+Prescribers must counsel patients about the risk of meningococcal infection, provide the patients with the REMS educational materials, and ensure patients are vaccinated with meningococcal vaccine(s).
 
-Enrollment in the Soliris REMS program and additional information are available by telephone: 1-888-SOLIRIS (1-888-765-4747) or at solirisrems.com.
+Enrollment in the Soliris REMS program and additional information are available by telephone: 1-888-SOLIRIS (1-888-765-4747) or at www.solirisrems.com.
 
 ## 5.3 Other Infections
 
@@ -39,7 +40,7 @@ Children treated with Soliris may be at increased risk of developing serious inf
 Administer vaccinations for the prevention of Streptococcus pneumoniae and Haemophilus influenza type b (Hib) infections according to ACIP guidelines.
 Use caution when administering Soliris to patients with any systemic infection [see Warnings and Precautions (5.1)].
 
-## 5.4 Monitoring Disease Manifestations After Soliris Discontinuation
+## 5.4 Monitoring Disease Manifestations after Soliris Discontinuation
 
 Treatment Discontinuation for PNH
 
@@ -63,6 +64,6 @@ Therefore, treatment with Soliris should not alter anticoagulant management.
 
 ## 5.6 Infusion Reactions
 
-As with all protein products, administration of Soliris may result in infusion reactions, including anaphylaxis or other hypersensitivity reactions.
+Administration of Soliris may result in infusion reactions, including anaphylaxis or other hypersensitivity reactions.
 In clinical trials, no patients experienced an infusion reaction which required discontinuation of Soliris.
 Interrupt Soliris infusion and institute appropriate supportive measures if signs of cardiovascular instability or respiratory compromise occur.
