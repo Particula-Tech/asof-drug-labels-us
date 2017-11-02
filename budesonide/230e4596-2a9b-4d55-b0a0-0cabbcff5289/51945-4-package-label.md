@@ -2,16 +2,14 @@
 
 NDC 65649-651-03
 
-UCERIS® rectal foam
-
-(budesonide) 2mg/actuation
+UCERIS® (budesonide) rectal foam 2mg/actuation
 
 Rx ONLY
 
-# PACKAGE LABEL – PRINCIPAL DISPLAY - UCERIS® rectal foam 2 MG Canister Label
+For rectal administration only, as directed by a physician.
+Shake well before using.
 
-NDC 65649-651-02
+Each canister contains 14 metered doses.
+Net weight 33.4 g per canister.
 
-UCERIS® (budesonide) rectal foam 2mg/actuation
-
-Rx only
+SALIX Pharmaceuticals
