@@ -18,7 +18,9 @@ Cleocin Phosphate® clindamycin injection, USP 300 mg/2 mL* (150 mg/mL)
 
 For intramuscular or intravenous use
 
-Pfizer Injectables Rx only
+Pfizer Injectables
+
+Rx only
 
 # PRINCIPAL DISPLAY PANEL - 600 mg/4 mL Vial Label
 
@@ -40,7 +42,9 @@ Cleocin Phosphate® clindamycin injection, USP 600 mg/4 mL* (150 mg/mL)
 
 For intramuscular or intravenous use
 
-Pfizer Injectables Rx only
+Pfizer Injectables
+
+Rx only
 
 # PRINCIPAL DISPLAY PANEL - 900 mg/6 mL Vial Label
 
@@ -62,7 +66,9 @@ Cleocin Phosphate® clindamycin injection, USP 900 mg/6 mL* (150 mg/mL)
 
 For intramuscular or intravenous use
 
-Pfizer Injectables Rx only
+Pfizer Injectables
+
+Rx only
 
 # PRINCIPAL DISPLAY PANEL - 9,000 mg/60 mL Vial Bulk Label
 
