@@ -6,6 +6,6 @@ Each ampule also contains 18.9 mg sodium chloride, 18.3 mg sodium citrate, 0.58 
 Sodium hydroxide and hydrochloric acid may be added to adjust pH between 6.0 and 7.2.
 
 Treprostinil is (1R,2R,3aS,9aS)-[[2,3,3a,4,9,9a-hexahydro-2-hydroxy-1-[(3S)-3-hydroxyoctyl]-1H-benz[f]inden-5-yl]oxy]acetic acid.
-Treprostinil has a molecular weight of 390.51 and a molecular formula of C23H34O5.
+Treprostinil has a molecular weight of 390.52 and a molecular formula of C23H34O5.
 
 The structural formula of treprostinil is:

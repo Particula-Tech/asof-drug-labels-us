@@ -37,7 +37,7 @@ Four of the metabolites are products of oxidation of the 3-hydroxyloctyl side ch
 
 The elimination of treprostinil (following subcutaneous administration of treprostinil) is biphasic, with a terminal elimination half-life of approximately 4 hours using a two compartment model.
 
-Special Populations
+Specific Populations
 
 Hepatic Insufficiency
 

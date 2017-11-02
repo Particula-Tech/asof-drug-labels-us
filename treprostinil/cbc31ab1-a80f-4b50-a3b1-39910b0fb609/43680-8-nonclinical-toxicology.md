@@ -14,16 +14,6 @@ The exposures, when based on AUC, obtained at the highest dose levels used in ma
 
 Treprostinil diolamine was tested in vivo in a rat micronucleus assay and did not induce an increased incidence of micronucleated polychromatic erythrocytes.
 
-## 13.3 Developmental Toxicity
-
-In pregnant rats, continuous sc infusions of treprostinil sodium during organogenesis and late gestational development, at rates as high as 900 ng treprostinil/kg/min (about 117 times the recommended starting human sc infusion rate and about 16 times the average rate achieved in clinical trials, on a ng/m2 basis), resulted in no evidence of harm to the fetus.
-In pregnant rabbits, effects of continuous sc infusions of treprostinil during organogenesis were limited to an increased incidence of fetal skeletal variations (bilateral full rib or right rudimentary rib on lumbar vertebra 1) associated with maternal toxicity (reduction in body weight and food consumption) at an infusion rate of 150 ng treprostinil/kg/min (about 41 times the starting human sc infusion rate and 5 times the average rate achieved in clinical trials, on a ng/m2 basis).
-
-In studies with treprostinil diolamine, no adverse effect doses for fetal viability / growth, fetal development (teratogenicity), and postnatal development were determined in rats.
-In pregnant rats, no evidence of harm to the fetus was observed following oral administration of treprostinil diolamine at the highest dose tested (20 mg/kg/day), which represents about 154 and 1479 times the human exposure, when based on Cmax and AUC following a single dose of 54 mcg, respectively.
-In pregnant rabbits, external fetal and soft tissue malformations and fetal skeletal malformation occurred.
-The dose at which no adverse effects were seen (0.5 mg/kg/day) represents about 9 and 145 times the human exposure, when based on Cmax and AUC following a single dose of 54 mcg, respectively.
-
 ## 13.4 Inhalational Toxicity
 
 Rats and dogs that received daily administrations of treprostinil by inhalation for 3 months developed respiratory tract lesions (respiratory epithelial degeneration, goblet cell hyperplasia/hypertrophy, epithelial ulceration, squamous epithelial degeneration and necrosis, and lung hemorrhage).

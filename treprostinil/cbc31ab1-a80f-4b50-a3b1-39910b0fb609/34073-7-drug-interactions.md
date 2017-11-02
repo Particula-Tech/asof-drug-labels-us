@@ -1,28 +1,14 @@
 # 7 DRUG INTERACTIONS
 
-Pharmacokinetic/pharmacodynamic interaction studies have not been conducted with inhaled treprostinil (Tyvaso); however, some of such studies have been conducted with orally (treprostinil diolamine) and subcutaneously administered treprostinil (Remodulin®).
-
-Pharmacodynamics
-
-## 7.1 Antihypertensive Agents or Other Vasodilators
-
-Concomitant administration of Tyvaso with diuretics, antihypertensive agents or other vasodilators may increase the risk of symptomatic hypotension.
-
-## 7.2 Anticoagulants
-
-Since treprostinil inhibits platelet aggregation, there may be an increased risk of bleeding, particularly among patients receiving anticoagulants.
-
-Pharmacokinetics
-
-## 7.3 Bosentan
+## 7.1 Bosentan
 
 In a human pharmacokinetic study conducted with bosentan (250 mg/day) and an oral formulation of treprostinil (treprostinil diolamine), no pharmacokinetic interactions between treprostinil and bosentan were observed.
 
-## 7.4 Sildenafil
+## 7.2 Sildenafil
 
 In a human pharmacokinetic study conducted with sildenafil (60 mg/day) and an oral formulation of treprostinil (treprostinil diolamine), no pharmacokinetic interactions between treprostinil and sildenafil were observed.
 
-## 7.5 Effect of Cytochrome P450 Inhibitors and Inducers
+## 7.3 Effect of Cytochrome P450 Inhibitors and Inducers
 
 In vitro studies of human hepatic microsomes showed that treprostinil does not inhibit cytochrome P450 (CYP) isoenzymes CYP1A2, CYP2A6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP2E1 and CYP3A.
 Additionally, treprostinil does not induce cytochrome P450 isoenzymes CYP1A2, CYP2B6, CYP2C9, CYP2C19, and CYP3A.
@@ -31,7 +17,7 @@ Human pharmacokinetic studies with an oral formulation of treprostinil (treprost
 Co-administration of the CYP2C8 enzyme inducer rifampin decreases exposure to treprostinil.
 It is unclear if the safety and efficacy of treprostinil by the inhalation route are altered by inhibitors or inducers of CYP2C8 [see Warnings and Precautions (5.5)].
 
-## 7.6 Effect of Other Drugs on Treprostinil
+## 7.4 Effect of Other Drugs on Treprostinil
 
 Drug interaction studies have been carried out with treprostinil (oral or subcutaneous) co-administered with acetaminophen (4 g/day), warfarin (25 mg/day), and fluconazole (200 mg/day), respectively in healthy volunteers.
 These studies did not show a clinically significant effect on the pharmacokinetics of treprostinil.

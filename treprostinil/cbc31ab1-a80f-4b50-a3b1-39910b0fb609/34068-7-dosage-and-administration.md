@@ -5,6 +5,7 @@
 Tyvaso is intended for oral inhalation using the Tyvaso Inhalation System, which consists of an ultrasonic, pulsed delivery device and its accessories.
 
 Tyvaso is dosed in 4 separate, equally spaced treatment sessions per day, during waking hours.
+Each treatment session will take 2 to 3 minutes.
 The treatment sessions should be approximately 4 hours apart.
 
 Initial Dosage:
@@ -14,7 +15,7 @@ If 3 breaths are not tolerated, reduce to 1 or 2 breaths and subsequently increa
 
 Maintenance Dosage:
 
-Dosage should be increased by an additional 3 breaths at approximately 1-2 week intervals, if tolerated, until the target dose of 9 breaths (54 mcg of treprostinil) is reached per treatment session, 4 times daily.
+Dosage should be increased by an additional 3 breaths per treatment session at approximately 1- to 2- week intervals, if tolerated, until the target dose of 9 breaths (54 mcg of treprostinil) is reached, 4 times daily.
 If adverse effects preclude titration to target dose, Tyvaso should be continued at the highest tolerated dose.
 
 If a scheduled treatment session is missed or interrupted, therapy should be resumed as soon as possible at the usual dose.

@@ -21,8 +21,8 @@ Each ampule contains 1.74 mg treprostinil (0.6 mg per mL)] and accessories.
 
 Tyvaso 4 Pack Carton with one foil pouch containing four 2.9 mL ampules.
 Each ampule contains 1.74 mg treprostinil (0.6 mg per mL).
-(NDC 66302-206-03).
+(NDC 66302-206-03)
 
 Tyvaso Inhalation System Institutional Starter Kit containing a 4 ampule carton of Tyvaso [one foil pouch containing four 2.9 mL ampules.
 Each ampule contains 1.74 mg treprostinil (0.6 mg per mL)] and the Tyvaso Inhalation System.
-(NDC 66302-206-04).
+(NDC 66302-206-04)

@@ -2,22 +2,40 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category B
+Risk Summary
 
-There are no adequate and well controlled studies with Tyvaso in pregnant women.
-Animal reproduction studies have not been conducted with treprostinil administered by the inhalation route.
-However, studies in pregnant rabbits using continuous subcutaneous (sc) infusions of treprostinil sodium at infusion rates higher than the recommended human sc infusion rate resulted in an increased incidence of fetal skeletal variations associated with maternal toxicity.
-Also, a study in pregnant rabbits administered oral treprostinil diolamine at exposures higher than those in humans resulted in external fetal and soft tissue malformations and fetal skeletal malformations [see Nonclinical Toxicology (13.3)].
+Limited case reports of treprostinil use in pregnant women are insufficient to inform a drug-associated risk of adverse developmental outcomes.
+However, there are risks to the mother and the fetus associated with pulmonary arterial hypertension (see Clinical Considerations).
+In animal studies, no adverse reproductive and developmental effects were seen for treprostinil at ≥9 and ≥145 times the human exposure when based on Cmax and AUC following a single treprostinil dose of 54 mcg, respectively.
+
+The estimated background risk of major birth defects and miscarriage for the indicated populations is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+
+Clinical Considerations
+
+Disease-associated maternal and embryo-fetal risk
+
+Pulmonary arterial hypertension is associated with an increased risk of maternal and fetal mortality.
+
+Data
+
+Animal reproduction studies have been conducted with treprostinil via continuous subcutaneous administration and with treprostinil diolamine administered orally.
+In pregnant rats, continuous subcutaneous infusions of treprostinil during organogenesis and late gestational development, at doses as high as 900 ng treprostinil/kg/min (about 117 times the starting human subcutaneous infusion rate, on a ng/m2 basis and about 16 times the average rate achieved in clinical trials), resulted in no evidence of harm to the fetus.
+In pregnant rabbits, effects of continuous subcutaneous infusions of treprostinil during organogenesis were limited to an increased incidence of fetal skeletal variations (bilateral full rib or right rudimentary rib on lumbar 1) associated with maternal toxicity (reduction in body weight and food consumption) at a dose of 150 ng treprostinil/kg/min (about 41 times the starting human subcutaneous infusion rate, on a ng/m2 basis, and 5 times the average rate used in clinical trials).
+In rats, continuous subcutaneous infusion of treprostinil from implantation to the end of lactation, at doses of up to 450 ng treprostinil/kg/min, did not affect the growth and development of offspring.
+In studies with orally administered treprostinil diolamine, no adverse effect doses for fetal viability / growth, fetal development (teratogenicity), and postnatal development were determined in rats.
+In pregnant rats, no evidence of harm to the fetus was observed following oral administration of treprostinil diolamine at the highest dose tested (20 mg/kg/day), which represents about 154 and 1479 times the human exposure, when based on Cmax and AUC following a single Tyvaso dose of 54 mcg, respectively.
+In pregnant rabbits, external fetal and soft tissue malformations and fetal skeletal malformation occurred.
+The dose at which no adverse effects were seen (0.5 mg/kg/day) represents about 9 and 145 times the human exposure, when based on Cmax and AUC following a single Tyvaso dose of 54 mcg, respectively.
+No treprostinil treatment-related effects on labor and delivery were seen in animal studies.
 Animal reproduction studies are not always predictive of human response.
 
-## 8.2 Labor and Delivery
+## 8.2 Lactation
 
-No treprostinil treatment-related effects on labor and delivery were seen in animal studies.
-The effect of treprostinil on labor and delivery in humans is unknown.
+Risk Summary
 
-## 8.3 Nursing Mothers
-
-It is not known whether treprostinil is excreted in human milk.
+There are no data on the presence of treprostinil in human milk, the effects on the breastfed infant, or the effects on milk production.
 
 ## 8.4 Pediatric Use
 
