@@ -1,6 +1,6 @@
 # CLINICAL PHARMACOLOGY
 
-Chlorthalidone is an oral diuretic with prolonged action (48–72 hours) and low toxicity.
+Chlorthalidone is an oral diuretic with prolonged action (48-72 hours) and low toxicity.
 The major portion of the drug is excreted unchanged by the kidneys.
 The diuretic effect of the drug occurs in approximately 2.6 hours and continues for up to 72 hours.
 The mean half-life following a 50 to 200 mg dose is 40 hours.
@@ -12,4 +12,4 @@ Data are not available regarding percentage of dose as unchanged drug and metabo
 
 The drug produces copious diuresis with greatly increased excretion of sodium and chloride.
 At maximal therapeutic dosage, chlorthalidone is approximately equal in its diuretic effect to comparable maximal therapeutic doses of benzothiadiazine diuretics.
-The site of action appears to be the cortical diluting segment of the ascending limb of Henle's loop of the nephron.
+The site of action appears to be the cortical diluting segment of the ascending limb of Henle’s loop of the nephron.

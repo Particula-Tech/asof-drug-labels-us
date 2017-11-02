@@ -8,7 +8,7 @@ Central Nervous System Reactions: dizziness, vertigo, paresthesias, headache, xa
 
 Hematologic Reactions: leukopenia, agranulocytosis, thrombocytopenia, aplastic anemia.
 
-Dermatologic-Hypersensitivity Reactions: purpura, photosensitivity, rash, urticaria, necrotizing angiitis (vasculitis, cutaneous vasculitis), Lyell's syndrome (toxic epidermal necrolysis).
+Dermatologic-Hypersensitivity Reactions: purpura, photosensitivity, rash, urticaria, necrotizing angiitis (vasculitis, cutaneous vasculitis), Lyell’s syndrome (toxic epidermal necrolysis).
 
 Cardiovascular Reactions: orthostatic hypotension may occur and may be aggravated by alcohol, barbiturates, or narcotics.
 

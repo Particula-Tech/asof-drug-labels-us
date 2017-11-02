@@ -6,6 +6,6 @@ After passage to the liver, some of the drug enters the general circulation, whi
 In the general circulation, it is distributed widely to the tissue, but is taken up in highest concentrations by the kidneys, where amounts have been found 72 hours after ingestion, long after it has disappeared from other tissues.
 The drug is excreted unchanged in the urine.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505
+Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-REVISED MARCH 2006 CHTL:R15
+Revised: 10/2017 CHTL:R16
