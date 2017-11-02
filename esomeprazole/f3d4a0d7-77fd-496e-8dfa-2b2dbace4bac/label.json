@@ -1,0 +1,28 @@
+{
+  "application_numbers": [
+    "ANDA208333"
+  ],
+  "inn": "esomeprazole",
+  "labeler": "Ascend Laboratories, LLC",
+  "package_ndcs": [
+    "67877-478-05",
+    "67877-478-10",
+    "67877-478-30",
+    "67877-478-38",
+    "67877-478-90",
+    "67877-479-05",
+    "67877-479-10",
+    "67877-479-30",
+    "67877-479-38",
+    "67877-479-90"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, DELAYED RELEASE",
+      "generic": "esomeprazole magnesium",
+      "name": "Esomeprazole magnesium"
+    }
+  ],
+  "setid": "f3d4a0d7-77fd-496e-8dfa-2b2dbace4bac",
+  "source": "dailymed"
+}
