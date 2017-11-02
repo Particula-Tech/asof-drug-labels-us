@@ -57,6 +57,14 @@ In addition to adverse reactions reported from clinical trials, the following ad
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 These events have been chosen for inclusion due to either their seriousness, frequency of reporting, or causal connection to INCRUSE ELLIPTA or a combination of these factors.
 
+Eye Disorders
+
+Eye pain, glaucoma, vision blurred.
+
 Immune System Disorders
 
 Hypersensitivity reactions, including anaphylaxis, angioedema, pruritus, and urticaria.
+
+Renal and Urinary Disorders
+
+Dysuria, urinary retention.
