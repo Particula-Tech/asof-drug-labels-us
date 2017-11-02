@@ -1,4 +1,4 @@
-# Calcipotriene Ointment - 60g carton
+# Calcipotriene Ointment, 0.005% - 60 g carton
 
 PRASCO
 
@@ -11,7 +11,7 @@ Calcipotriene Ointment, 0.005%
 
 Rx only
 
-# Calcipotriene Ointment - 120g carton
+# Calcipotriene Ointment, 0.005% - 120 g carton
 
 PRASCO
 

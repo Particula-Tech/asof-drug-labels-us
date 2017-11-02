@@ -1,7 +1,7 @@
-Manufactured by: LEO Laboratories Ltd., Dublin, Ireland
-
 Manufactured for: Prasco Laboratories, Mason, OH 45040 USA
 
-U.S. Patent No. 4,866,048
+Manufactured by: LEO Laboratories Ltd., Dublin 12, Ireland
 
-Revised March 2015
+To report SUSPECTED ADVERSE REACTIONS, contact LEO Pharma Inc. at 1-877-494-4536 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+
+Revised 06/2017
