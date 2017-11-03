@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA201889"
+  ],
+  "inn": "rasagiline",
+  "labeler": "Ascend Laboratories, LLC",
+  "package_ndcs": [
+    "67877-259-30",
+    "67877-260-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "rasagiline",
+      "name": "Rasagiline"
+    }
+  ],
+  "setid": "5dfeec8f-f4f3-4e06-915e-3244467516a6",
+  "source": "dailymed"
+}
