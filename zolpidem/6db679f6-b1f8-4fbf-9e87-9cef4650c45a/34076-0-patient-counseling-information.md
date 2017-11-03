@@ -50,11 +50,11 @@ Somerset, NJ 08873
 
 Manufactured for:
 
-GAVIS Pharmaceuticals, LLC
+Lupin Pharmaceuticals, Inc.
 
-Somerset, NJ 08873
+Baltimore, MD 21202
 
-PI7610000202
+PI7610000203
 
 Rev.
-06/2016
+09/2016
