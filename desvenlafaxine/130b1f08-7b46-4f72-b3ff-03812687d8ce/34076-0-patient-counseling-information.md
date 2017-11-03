@@ -82,6 +82,6 @@ Distributed by: Pernix Therapeutics, LLC
 
 Morristown, NJ 07960
 
-Revised 10/2016
+Revised 10/2017
 
-OS374-01-84-03 PC 4623HP
+OS374-01-84-03 PC 4623JP

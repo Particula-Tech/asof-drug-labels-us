@@ -39,7 +39,7 @@ Call a healthcare provider right away if you have any of the following symptoms,
 | • new or worse depression | • acting aggressive, being angry, or violent |
 | • new or worse anxiety | • acting on dangerous impulses |
 | • feeling very agitated or restless | • an extreme increase in activity and talking (mania) |
-| • panic attacks | • other unusual changes in behavior or mood |
+| • panic attacks | •other unusual changes in behavior or mood |
 
 ### What else do I need to know about antidepressant medicines?
 
@@ -105,6 +105,7 @@ Especially tell your healthcare provider if you take the following:
 - medicines used to treat mood, anxiety, psychotic, or thought disorders, including tricyclics, lithium, selective serotonin reuptake inhibitors (SSRIs), serotonin norepinephrine reuptake inhibitors (SNRIs), or other dopamine antagonists, such as metoclopramide
 - silbutramine
 - tramadol
+- amphetamines
 - St. John’s Wort
 - MAOIs (including linezolid, an antibiotic and intravenous methylene blue)
 - tryptophan supplements
@@ -255,6 +256,6 @@ Distributed by: Pernix Therapeutics, LLC
 
 Morristown, NJ 07960
 
-Revised 07/2016
+Revised 08/2017
 
-MG 374-01-84-03 PC 4623GM
+MG 374-01-84-03 PC 4623HM
