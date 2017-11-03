@@ -2,7 +2,7 @@ PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0600-02
 
-Flovent®Diskus® 50 mcg
+FloventDiskus 50 mcg
 
 (fluticasone propionate inhalation powder, 50 mcg)
 
@@ -18,20 +18,20 @@ Rx only
 
 50 mcg
 
-1 Diskus® Inhalation Device Containing 1 Foil Strip of 60 Blisters
+1 DiskusInhalation Device Containing 1 Foil Strip of 60 Blisters
 
 Made in Singapore
 
-©2016 the GSK group of companies
+©2017 GSK group of companies or its licensor.
 
-1. 10000000143414 Rev.
-   9/16
+1. 10000000147987 Rev.
+   10/17
 
 PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0602-02
 
-Flovent®Diskus® 100 mcg
+Flovent Diskus 100 mcg
 
 (fluticasone propionate inhalation powder, 100 mcg)
 
@@ -47,20 +47,20 @@ Rx only
 
 100 mcg
 
-1 Diskus® Inhalation Device Containing 1 Foil Strip of 60 Blisters
+1 Diskus Inhalation Device Containing 1 Foil Strip of 60 Blisters
 
 Made in Singapore
 
-©2016 the GSK group of companies
+©2017 GSK group of companies or its licensor.
 
-1. 10000000143415 Rev.
-   9/16
+1. 10000000147988 Rev.
+   10/17
 
 PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0601-02
 
-Flovent®Diskus® 250 mcg
+FloventDiskus 250 mcg
 
 (fluticasone propionate inhalation powder, 250 mcg)
 
@@ -80,7 +80,7 @@ Rx only
 
 Made in Singapore
 
-©2016 the GSK group of companies
+©2017 GSK group of companies or its licensor.
 
-1. 10000000143416 Rev.
-   9/16
+1. 10000000147989 Rev.
+   10/17
