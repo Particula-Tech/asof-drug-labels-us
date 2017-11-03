@@ -10,13 +10,16 @@ The administration of intravenous Dantrium to human volunteers is associated wit
 
 The following adverse reactions are in approximate order of severity:
 
-- There are rare reports of pulmonary edema developing during the treatment of malignant hyperthermia crisis in which the diluent volume and mannitol needed to deliver i.v. dantrolene possibly contributed.
-- There have been reports of thrombophlebitis following administration of intravenous dantrolene; actual incidence figures are not available.
-  Tissue necrosis secondary to extravasation has been reported.
-- There have been rare reports of urticaria and erythema possibly associated with the administration of i.v.
-  Dantrium.
-  There has been one case of anaphylaxis.
-- Injection site reactions (pain, erythema, swelling), commonly due to extravasation, have been reported.
+There are rare reports of pulmonary edema developing during the treatment of malignant hyperthermia crisis in which the diluent volume and mannitol needed to deliver i.v. dantrolene possibly contributed.
+
+There have been reports of thrombophlebitis following administration of intravenous dantrolene; actual incidence figures are not available.
+Tissue necrosis secondary to extravasation has been reported.
+
+There have been rare reports of urticaria and erythema possibly associated with the administration of i.v.
+Dantrium.
+There has been one case of anaphylaxis.
+
+Injection site reactions (pain, erythema, swelling), commonly due to extravasation, have been reported.
 
 None of the serious reactions occasionally reported with long-term oral Dantrium use, such as hepatitis, seizures, and pleural effusion with pericarditis, have been reasonably associated with short-term Dantrium Intravenous therapy.
 
