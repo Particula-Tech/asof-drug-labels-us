@@ -3,7 +3,7 @@
 Trimethoprim is rapidly absorbed following oral administration.
 It exists in the blood as unbound, protein-bound, and metabolized forms.
 Ten to twenty percent of trimethoprim is metabolized, primarily in the liver; the remainder is excreted unchanged in the urine.
-The principal metabolites of trimethoprim are the 1- and 3-oxides and the 3’- and 4’-hydroxy derivatives.
+The principal metabolites of trimethoprim are the 1- and 3-oxides and the 3'- and 4'-hydroxy derivatives.
 The free form is considered to be the therapeutically active form.
 Approximately 44% of trimethoprim is bound to plasma proteins.
 
@@ -12,6 +12,7 @@ A single 200 mg dose will result in serum levels approximately twice as high.
 The half-life of trimethoprim ranges from 8 to 10 hours.
 However, patients with severely impaired renal function exhibit an increase in the half-life of trimethoprim, which requires either dosage regimen adjustment or not using the drug in such patients (see DOSAGE AND ADMINISTRATION).
 During a 13 week study of trimethoprim administered at a daily dosage of 200 mg (50 mg q.i.d.), the mean minimum steady-state concentration of the drug was 1.1 mcg/mL.
+
 Steady-state concentrations were achieved within 2 to 3 days of chronic administration and were maintained throughout the experimental period.
 
 Excretion of trimethoprim is primarily by the kidneys through glomerular filtration and tubular secretion.
@@ -22,96 +23,88 @@ After oral administration, 50% to 60% of trimethoprim is excreted in the urine w
 
 Since normal vaginal and fecal flora are the source of most pathogens causing urinary tract infections, it is relevant to consider the distribution of trimethoprim into these sites.
 Concentrations of trimethoprim in vaginal secretions are consistently greater than those found simultaneously in the serum, being typically 1.6 times the concentrations of simultaneously obtained serum samples.
-Sufficient trimethoprim is excreted in the feces to markedly reduce or eliminate trimethoprim susceptible organisms from the fecal flora.
+Sufficient trimethoprim is excreted in the feces to markedly reduce or eliminate trimethoprim-susceptible organisms from the fecal flora.
 
 Trimethoprim also passes the placental barrier and is excreted in human milk.
 
-Microbiology
+## Microbiology
+
+Mechanism of Action
 
 Trimethoprim blocks the production of tetrahydrofolic acid from dihydrofolic acid by binding to and reversibly inhibiting the required enzyme, dihydrofolate reductase.
-This binding is much stronger for the bacterial enzyme than for the corresponding mammalian enzyme.
+This binding is very much stronger for the bacterial enzyme than for the corresponding mammalian enzyme.
 Thus, trimethoprim selectively interferes with bacterial biosynthesis of nucleic acids and proteins.
 
-In vitro serial dilution tests have shown that the spectrum of antibacterial activity of trimethoprim includes the common urinary tract pathogens with the exception of Pseudomonas aeruginosa.
+Resistance
 
-The dominant non-Enterobacteriaceae fecal organisms, Bacteroides spp. and Lactobacillus spp., are not susceptible to trimethoprim concentrations obtained with the recommended dosage.
+Resistance to trimethoprim may be conferred by a variety of mechanisms including cell wall impermeability, overproduction of the chromosomal dihydrofolate reductase (DHFR) enzyme, production of a resistant chromosomal DHFR enzyme or production of a plasmid-mediated trimethoprim-resistant DHFR enzyme.
+Acinetobacter baumannii/Acinetobacter calcoaceticus complex, Burkholderia cepacia complex, Pseudomonas aeruginosa, Stenotrophomonas maltophilia are intrinsically resistant to trimethoprim.
+Non-Enterobacteriaceae fecal organisms, Bacteroides spp. and Lactobacillus spp. are not susceptible to trimethoprim at the concentrations obtained with the recommended dosage.
+Enterococcus spp, (E. faecalis, E. faecium, E. gallinarum/E. casseliflavus) may appear active in vitro to trimethoprim but are not effective clinically and should not be reported as susceptible.
+Moraxella catarrhalis isolates were found consistently resistant to trimethoprim.
+
+Antimicrobial Activity
 
 Trimethoprim has been shown to be active against most strains of the following microorganisms, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section.
 
-Aerobic gram-positive microorganisms
+Aerobic gram-positive bacteria
 
 Staphylococcus species (coagulase-negative strains, including S. saprophyticus)
 
-Aerobic gram-negative microorganisms
+Aerobic gram-negative bacteria
 
 Enterobacter species
 
 Escherichia coli
 
-Kiebsiella pneumoniae
+Klebsiella pneumoniae
 
 Proteus mirabilis
 
-Susceptibility Testing Methods
+Susceptibility Test Methods
+
+When available, the clinical microbiology laboratory should provide cumulative reports of in vitro susceptibility test results for antimicrobial drugs used in local hospitals and practice areas to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
+These reports should aid the physician in selecting an antibacterial drug for treatment.
 
 Dilution techniques
 
-Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
-These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
-The MICs should be determined using a standardized procedure.
-Standardized procedures are based on a dilution method1 (broth or agar) or equivalent with standardized inoculum concentrations and standardized concentrations of trimethoprim powder.
-The MIC values should be interpreted according to the following criteria:
-
-For testing Enterobacteriaceae and Staphylococcus spp.:
-
-| MIC (mcg/mL) | Interpretation |
-| --- | --- |
-| ≤ 8 | Susceptible (S) |
-| ≥ 16 | Resistant (R) |
-
-A report of "Susceptible" indicates that the pathogen is likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable.
-A report of "Intermediate" indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
-This category implies possible clinical applicability in body sites where the drug is physiologically concentrated or in situations where high dosage of drug can be used.
-This category also provides a buffer zone which prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
-A report of “Resistant" indicates that the pathogen is not likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable; other therapy should be selected.
-
-Standardized susceptibility test procedures require the use of laboratory control microorganisms to control the technical aspects of the laboratory procedures.
-Standard trimethoprima powder should provide the following MIC values:
-
-| Microorganism |  | MIC (mcg/mL) |
-| --- | --- | --- |
-| Escherichia coli | ATCC 25922 | 0.5 to 2.0 |
-| Staphylococcus aureus | ATCC 29213 | 1.0 to 4.0 |
-
-a Very medium-dependent
+Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MIC's).
+These MIC's provide estimates of the susceptibility of bacteria to antimicrobial compounds.
+The MIC's should be determined using a standardized procedure (broth and/or agar)1,7.
+The MIC values should be interpreted according to the criteria provided in Table 1.
 
 Diffusion techniques
 
-Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
-One such standardized procedure2 requires the use of standardized inoculum concentrations.
-This procedure uses paper disks impregnated with 5 mcg trimethoprim to test the susceptibility of microorganisms to trimethoprim.
+Quantitative methods that require measurement of zone diameters can also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
+The zone size should be determined using a standardized test method.2,7 This procedure uses paper disks impregnated with 5 mcg trimethoprim to test the susceptibility of bacteria to trimethoprim.
+The disc diffusion breakpoints are provided in Table 1.
 
-Reports from the laboratory providing results of the standard single-disk susceptibility test with a 5 mcg trimethoprim disk should be interpreted according to the following criteria:
+| Table 1. Susceptibility Test Interpretive Criteria for Trimethoprim |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Pathogen | Minimum Inhibitory Concentrations (mcg) |  |  | Zone Diameters (mm) |  |  |
+| S | I | R | S | I | R |  |
+| Enterobacteriaceae | ≤ 8 | - | ≥ 16 | ≥ 16 | 11-15 | ≤ 10 |
+| Coagulase negative staphylococci (including S. saprophyticus) | ≤ 8 | - | ≥ 16 | ≥ 16 | 11-15 | ≤ 10 |
 
-For testing Enterobacteriaceae and Staphylococcus spp.:
+A report of Susceptible (S) indicates that the antimicrobial drug is likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentration usually achievable at the site of infection.
+A report of Intermediate (I) indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
+This category implies possible clinical applicability in body sites where the drug is physiologically concentrated or in situations where a high dosage of the drug can be used.
+This category also provides a buffer zone that prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
+A report of Resistant (R) indicates that the antimicrobial drug is not likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentration usually achievable at the infection site; other therapy should be selected.
 
-| Zone Diameter (mm) | Interpretation |
-| --- | --- |
-| ≥ 16 | Susceptible (S) |
-| 11 to 15 | Intermediate (I) |
-| ≤ 10 | Resistant (R) |
+Quality Control
 
-Interpretation should be as stated above for results using dilution techniques.
-Interpretation involves correlation of the diameter obtained in the disk test with the MIC of trimethoprim.
+Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test 1,2,7.
+Standard trimethoprim powder should provide the following range of MIC values noted in Table 2.
+For the diffusion technique using the 5 mcg disk, the criteria in Table 2 should be achieved.
 
-As with standardized dilution techniques, diffusion methods require the use of the laboratory control microorganisms that are used to control the technical aspects of the laboratory procedures.
-For the diffusion technique, the 5 mcg trimethoprimb disk should provide the following zone diameters in these laboratory test quality control stains:
-
-| Microorganism |  | Zone Diameter (mm) |
+| Table 2: Quality Control Parameters for Trimethoprim |  |  |
 | --- | --- | --- |
-| Escherichia coli | ATCC 25922 | 21 to 28 |
-| Staphylococcus aureus | ATCC 29923 | 19 to 26 |
-
-- b Mueller-Hinton agar should be checked for excessive levels of thymidine.
-  To determine whether Mueller-Hinton medium has sufficiently low levels of thymidine and thymine, Enterococcus faecalis (ATCC 29212 or ATCC 33186) may be tested with trimethoprim/sulfamethoxazole disks.
-  A zone of inhibition ≥ 20 mm that is essentially free of fine colonies indicates a sufficiently low level of thymidine and thymine.
+| QC Strain | Minimum Inhibitory Concentrations (mcg/mL) | Zone Diameters (mm) |
+| Enterococcus faecalis ATCC 29212 | 0.12 - 0.5 | -- |
+| Escherichia coli ATCC 25922 | 0.5 - 2 | 21 - 28 |
+| Haemophilus influenzae ATCC 49247 | 0.06 - 0.5 | 27 - 33 |
+| Staphylococcus aureus ATCC 29213 | 1 - 4 | -- |
+| Staphylococcus aureus ATCC 25923 | -- | 19 - 26 |
+| Streptococcus pneumoniae ATCC 49619 | 1 - 4 | -- |
+| Pseudomonas aeruginosa ATCC 27853 | > 64 | -- |

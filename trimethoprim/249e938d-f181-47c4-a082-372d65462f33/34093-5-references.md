@@ -1,18 +1,14 @@
 # REFERENCES
 
 1.
-National Committee for Clinical Laboratory Standards.
-Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria that Grow Aerobically.
-3 ed.;Approved Standard.
-NCCLS
-
-Document M7-A4, Vol. 17, No. 2, NCCLS, Wayne, PA, January, 1997.
+Clinical and Laboratory Standards Institute (CLSI).
+Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria that Grow Aerobically; Approved Standard-Tenth Edition.
+CLSI document M07-A10 [2015], Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA.
 
 2.
-National Committee for Clinical Laboratory Standards.
-Performance Standards for Antimicrobial Disk Susceptibility Tests.
-Sixth Edition.
-Approved Standard NCCLS Document M2-A6, Vol. 17, No. 1, NCCLS, Wayne, PA, January, 1997.
+Clinical and Laboratory Standards Institute (CLSI).
+Performance Standards for Antimicrobial Disk Diffusion Susceptibility Tests; Approved Standard-Twelfth Edition.
+CLSI document M02 A12 [2015], Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA.
 
 3.
 Brumfitt W, Pursell R. Trimethoprim-sulfamethoxazole in the treatment of bacteriuria in women.
@@ -20,8 +16,8 @@ J Infect Dis.
 1973;128(suppl): S657-S663.
 
 4.
-Lacey RW, Simpson MHC, Fawcett C, et al. Comparison of single-dose trimethoprim with a five-day course for the treatment of urinary tract infections in the elderly.
-Age and Ageing 10: 179-185, 1981.
+Lacey RW, Simpson MHC, Fawcett C, et al. Comparison of single-dose trimethoprim with a five- day course for the treatment of urinary tract infections in the elderly.
+Age and Ageing 10: 179 185, 1981.
 
 5.
 Ewer TC, Bailey RR, Gilchrist NL, et al. Comparative study of norfloxacin and trimethoprim for the treatment of elderly patients with urinary tract infection.
@@ -32,20 +28,27 @@ Marinella MA.
 Trimethoprim-induced hyperkalemia: An analysis of reported cases.
 Gerontology 45: 209-212, 1999.
 
+7.
+Clinical and Laboratory Standards Institute (CLSI).
+Performance Standards for Antimicrobial Susceptibility Testing; Twenty-sixth Informational Supplement, CLSI document M100-S26 [2016], Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA.
+
+Laboratory Standards Institute.
+Performance Standards for Antimicrobial Susceptibility Testing; Twenty-Second Informational Supplement.
+CLSI Document M100-S22, Vol. 32, No. 3, CLSI, Wayne, PA, January, 2012.
+
 Manufactured By:
 
-NOVEL LABORATORIES, INC.
-
-400 Campus Drive
+Novel Laboratories, Inc.
 
 Somerset, NJ 08873
 
-Distributed by:
+Manufactured for:
 
-GAVIS Pharmaceuticals, LLC
+Lupin Pharmaceuticals, Inc.
 
-Somerset, NJ 08873
+Baltimore, MD 21202
 
-GIN-330-00
+PI3300000204
 
-Rev: 02/2011
+Rev.
+09/2017
