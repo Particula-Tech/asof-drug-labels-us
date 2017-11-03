@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA074290"
+  ],
+  "inn": "etoposide",
+  "labeler": "West-Ward Pharmaceuticals Corp",
+  "package_ndcs": [
+    "0143-9510-01",
+    "0143-9511-01",
+    "0143-9512-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "etoposide",
+      "name": "Etoposide"
+    }
+  ],
+  "setid": "6dfedeff-a807-4405-a482-2f7109ad31c9",
+  "source": "dailymed"
+}
