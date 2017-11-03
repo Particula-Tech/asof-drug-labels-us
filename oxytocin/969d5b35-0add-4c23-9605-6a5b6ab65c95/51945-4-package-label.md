@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 1mL Label
+# PRINCIPAL DISPLAY PANEL - 1 mL Vial Label
 
 NDC 42023-116-25
 
@@ -12,10 +12,8 @@ NDC 42023-116-02
 
 Pitocin® (Oxytocin Injection, USP) Synthetic
 
-100 units/10 mL
+100 units/10 mL (10 units/mL)
 
-(10 units/mL)
+For Intravenous Infusion or Intramuscular Injection
 
-For Intravenous Infusion
-
-or Intramuscular Injection 10 mL Multiple Dose Vial
+10 mL Multiple Dose Vial

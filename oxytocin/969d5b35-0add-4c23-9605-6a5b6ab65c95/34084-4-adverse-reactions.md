@@ -28,4 +28,4 @@ The following adverse reactions have been reported in the fetus or neonate:
 | Neonatal seizures have been reported with the use of Pitocin. |  |
 
 For medical advice about adverse reactions contact your medical professional.
-To report SUSPECTED ADVERSE REACTIONS, contact Par Pharmaceutical, Inc. at 1-800-828-9393 or FDA at 1-800-FDA-1088 (1-800-332-1088) or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Par Pharmaceutical at 1-800-828-9393 or FDA at 1-800-FDA-1088 (1-800-332-1088) or www.fda.gov/medwatch.

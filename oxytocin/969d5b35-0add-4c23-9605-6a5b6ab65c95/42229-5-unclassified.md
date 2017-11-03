@@ -1,13 +1,13 @@
 Rx only.
 
-Manufactured by:
+Distributed by:
 
-Par Pharmaceutical Companies, Inc.
+Par Pharmaceutical
 
-Spring Valley, NY 10977
+Chestnut Ridge, NY 10977
 
-I01/15
+R04/16
 
-OS116J-01-90-01
+OS116J-01-90-02
 
-3000791F
+3000791G
