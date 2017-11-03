@@ -1,33 +1,27 @@
 # PRINCIPAL DISPLAY PANEL - 20 mL Vial Label
 
-20 mL Single-dose Fliptop Vial
+NDC 0409-2344-68 Rx only
+
+20 mL Single-Dose Fliptop Vial
 
 DOBUTamine Injection, USP
 
-250 mg Per 20 mL
+250 mg / 20 mL (12.5 mg/mL)
 
 MUST BE DILUTED PRIOR TO USE.
-FOR I.V.
-USE ONLY.
-
-Rx only
-
-HOSPIRA, INC., LAKE FOREST, IL 60045 USA
+FOR INTRAVENOUS USE ONLY.
 
 # PRINCIPAL DISPLAY PANEL - 20 mL Vial Tray
 
-20 mL Single-dose 10 Fliptop Vials
+NDC 0409-2344-88 20 mL Single-Dose
 
-NDC 0409-2344-88
+Rx only 10 Fliptop Vials
 
 DOBUTamine Injection, USP
 
-250 mg Per 20 mL
-
-Rx only
+250 mg/20 mL (12.5 mg/mL)
 
 MUST BE DILUTED PRIOR TO USE.
-FOR I.V.
-USE ONLY.
+FOR INTRAVENOUS USE ONLY.
 
-Hospira, Inc., Lake Forest, IL 60045 USA NOVAPLUS®
+NOVAPLUS®

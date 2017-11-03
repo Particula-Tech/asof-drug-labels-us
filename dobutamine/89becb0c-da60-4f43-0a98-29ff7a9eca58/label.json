@@ -5,13 +5,14 @@
   "inn": "dobutamine",
   "labeler": "Hospira, Inc.",
   "package_ndcs": [
+    "0409-2344-68",
     "0409-2344-88"
   ],
   "products": [
     {
       "form": "INJECTION, SOLUTION, CONCENTRATE",
-      "generic": "dobutamine hydrochloride",
-      "name": "DOBUTamine Hydrochloride"
+      "generic": "dobutamine",
+      "name": "DOBUTAMINE"
     }
   ],
   "setid": "89becb0c-da60-4f43-0a98-29ff7a9eca58",
