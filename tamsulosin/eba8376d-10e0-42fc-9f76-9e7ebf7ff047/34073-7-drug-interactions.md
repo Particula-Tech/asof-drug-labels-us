@@ -3,7 +3,7 @@
 There have been no drug interaction trials using JALYN.
 The following sections reflect information available for the individual components.
 
-## 7.1 Cytochrome P450 3A Inhibitors
+## 7.1 Cytochrome P450 Inhibition
 
 Dutasteride
 

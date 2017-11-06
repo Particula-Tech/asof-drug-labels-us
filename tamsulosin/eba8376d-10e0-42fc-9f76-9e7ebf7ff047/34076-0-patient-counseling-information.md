@@ -8,6 +8,10 @@ Inform patients about the possible occurrence of symptoms related to orthostatic
 Caution patients starting treatment with JALYN to avoid situations where injury could result should syncope occur (e.g., driving, operating machinery, performing hazardous tasks).
 Advise patients to sit or lie down at the first signs of orthostatic hypotension [see Warnings and Precautions (5.1)].
 
+Drug Interactions
+
+Advise patients that JALYN should not be used in combination with strong inhibitors of CYP3A4 [see Warnings and Precautions (5.2), Drug Interactions (7.1)].
+
 PSA Monitoring
 
 Inform patients that JALYN reduces serum PSA levels by approximately 50% within 3 to 6 months of therapy, although it may vary for each individual.
@@ -41,16 +45,15 @@ Serum levels of dutasteride are detectable for 4 to 6 months after treatment end
 
 Intraoperative Floppy Iris Syndrome (IFIS)
 
-Advise patients considering cataract surgery to tell their ophthalmologist that they take or have taken JALYN, an alpha adrenergic antagonist-containing product [see Warnings and Precautions (5.9)].
+Advise patients considering cataract or glaucoma surgery to tell their ophthalmologist that they take or have taken JALYN, an alpha adrenergic antagonist-containing product [see Warnings and Precautions (5.9)].
 
-JALYN and AVODART are trademarks of the GSK group of companies.
+JALYN and AVODART are trademarks owned by or licensed to the GSK group of companies.
 
-The other brands listed are trademarks of their respective owners and are not trademarks of the GSK group of companies.
-The makers of these brands are not affiliated with and do not endorse the GSK group of companies or its products.
+The other brand listed is a trademark owned by or licensed to its respective owner and is not a trademark owned by or licensed to the GSK group of companies.
+The maker of this brand is not affiliated with and does not endorse the GSK group of companies or its products.
 
 Manufactured for: GlaxoSmithKline Research Triangle Park, NC 27709
 
-©2015, the GSK group of companies.
-All rights reserved.
+©2017 GSK group of companies or its licensor.
 
-JLN:10PI
+JLN:11PI

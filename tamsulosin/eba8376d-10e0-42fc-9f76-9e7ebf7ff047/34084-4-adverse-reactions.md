@@ -2,7 +2,7 @@
 
 ## 6.1 Clinical Trials Experience
 
-There have been no clinical trials conducted with JALYN; however, the clinical efficacy and safety of coadministered dutasteride and tamsulosin, which are individual components of JALYN, have been evaluated in a multicenter, randomized, double-blind, parallel group trial (the Combination with Alpha-Blocker Therapy, or CombAT, trial).
+The clinical efficacy and safety of coadministered dutasteride and tamsulosin, which are individual components of JALYN, have been evaluated in a multicenter, randomized, double-blind, parallel group trial (the Combination with Alpha-Blocker Therapy, or CombAT, trial).
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trial of another drug and may not reflect the rates observed in practice.
 
 - •The most common adverse reactions reported in subjects receiving coadministered dutasteride and tamsulosin were impotence, decreased libido, breast disorders (including breast enlargement and tenderness), ejaculation disorders, and dizziness.
@@ -46,7 +46,7 @@ Adverse Reactions Reported over a 48-Month Period in ≥1% of Subjects and More 
 | Dutasteride | 0.5% | 0.3% | 0.1% | <0.1% | <0.1% |
 | Tamsulosin | 0.9% | 0.5% | 0.4% | <0.1% | 0.0% |
 
-aCoadministration = AVODART® 0.5 mg once daily plus tamsulosin 0.4 mg once daily.
+aCoadministration = AVODART 0.5 mg once daily plus tamsulosin 0.4 mg once daily.
 
 bIncludes anorgasmia, retrograde ejaculation, semen volume decreased, orgasmic sensation decreased, orgasm abnormal, ejaculation delayed, ejaculation disorder, ejaculation failure, and premature ejaculation.
 
@@ -104,7 +104,7 @@ The following adverse reactions have been identified during post-approval use of
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 These reactions have been chosen for inclusion due to a combination of their seriousness, frequency of reporting, or potential causal connection to drug exposure.
 
-Dutasteride:
+Dutasteride
 
 Immune System Disorders: Hypersensitivity reactions, including rash, pruritus, urticaria, localized edema, serious skin reactions, and angioedema.
 
@@ -114,7 +114,7 @@ Psychiatric Disorders: Depressed mood.
 
 Reproductive System and Breast Disorders: Testicular pain and testicular swelling.
 
-Tamsulosin:
+Tamsulosin
 
 Immune System Disorders: Hypersensitivity reactions, including rash, urticaria, pruritus, angioedema, and respiratory problems have been reported with positive rechallenge in some cases.
 
@@ -131,4 +131,4 @@ Respiratory: Epistaxis.
 Vascular Disorders: Hypotension.
 
 Ophthalmologic Disorders: Blurred vision, visual impairment.
-During cataract surgery, a variant of small pupil syndrome known as Intraoperative Floppy Iris Syndrome (IFIS) associated with alpha-adrenergic-antagonist therapy [see Warnings and Precautions (5.9)].
+During cataract and glaucoma surgery, a variant of small pupil syndrome known as Intraoperative Floppy Iris Syndrome (IFIS) associated with alpha-adrenergic-antagonist therapy [see Warnings and Precautions (5.9)].

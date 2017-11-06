@@ -11,9 +11,9 @@ Strong Inhibitors of CYP3A4
 
 Tamsulosin-containing products, including JALYN, should not be coadministered with strong CYP3A4 inhibitors (e.g., ketoconazole) as this can significantly increase tamsulosin exposure [see Drug Interactions (7.1), Clinical Pharmacology (12.3)].
 
-Inhibitors of CYP2D6 and Moderate Inhibitors of CYP3A4
+Moderate Inhibitors of CYP3A4, Inhibitors of CYP2D6, or a Combination of Both CYP3A4 and CYP2D6 Inhibitors
 
-Tamsulosin-containing products, including JALYN, should be used with caution when coadministered with moderate inhibitors of CYP3A4 (e.g., erythromycin), strong (e.g., paroxetine) or moderate (e.g., terbinafine) inhibitors of CYP2D6, or in patients known to be poor metabolizers of CYP2D6, as there is a potential for significant increase in tamsulosin exposure [see Drug Interactions (7.1), Clinical Pharmacology (12.3)].
+Tamsulosin-containing products, including JALYN, should be used with caution when coadministered with moderate inhibitors of CYP3A4 (e.g., erythromycin), strong (e.g., paroxetine) or moderate (e.g., terbinafine) inhibitors of CYP2D6, a combination of both CYP3A4 and CYP2D6 inhibitors, or in patients known to be poor metabolizers of CYP2D6, as there is a potential for significant increase in tamsulosin exposure [see Drug Interactions (7.1), Clinical Pharmacology (12.3)].
 
 Cimetidine
 
@@ -52,7 +52,7 @@ If clinicians elect to use percent free PSA as an aid in the detection of prosta
 ## 5.4 Increased Risk of High-grade Prostate Cancer
 
 In men aged 50 to 75 years with a prior negative biopsy for prostate cancer and a baseline PSA between 2.5 ng/mL and 10.0 ng/mL taking dutasteride in the 4-year Reduction by Dutasteride of Prostate Cancer Events (REDUCE) trial, there was an increased incidence of Gleason score 8 to 10 prostate cancer compared with men taking placebo (dutasteride 1.0% versus placebo 0.5%) [see Indications and Usage (1.2), Adverse Reactions (6.1)].
-In a 7-year placebo-controlled clinical trial with another 5-alpha-reductase inhibitor (finasteride 5 mg, PROSCAR®), similar results for Gleason score 8 to 10 prostate cancer were observed (finasteride 1.8% versus placebo 1.1%).
+In a 7-year placebo-controlled clinical trial with another 5-alpha-reductase inhibitor (finasteride 5 mg, PROSCAR), similar results for Gleason score 8 to 10 prostate cancer were observed (finasteride 1.8% versus placebo 1.1%).
 
 5-alpha-reductase inhibitors may increase the risk of development of high-grade prostate cancer.
 Whether the effect of 5-alpha-reductase inhibitors to reduce prostate volume or trial-related factors impacted the results of these trials has not been established.
@@ -80,7 +80,7 @@ The purpose of this deferred period is to prevent administration of dutasteride 
 
 ## 5.9 Intraoperative Floppy Iris Syndrome
 
-Intraoperative Floppy Iris Syndrome (IFIS) has been observed during cataract surgery in some patients on or previously treated with alpha-adrenergic antagonists, including tamsulosin, which is a component of JALYN.
+Intraoperative Floppy Iris Syndrome (IFIS) has been observed during cataract and glaucoma surgery in some patients on or previously treated with alpha-adrenergic antagonists, including tamsulosin, which is a component of JALYN.
 
 Most reports were in patients taking the alpha-adrenergic antagonist when IFIS occurred, but in some cases, the alpha-adrenergic antagonist had been stopped prior to surgery.
 In most of these cases, the alpha-adrenergic antagonist had been stopped recently prior to surgery (2 to 14 days), but in a few cases, IFIS was reported after the patients had been off the alpha-adrenergic antagonist for a longer period (5 weeks to 9 months).
@@ -88,8 +88,8 @@ IFIS is a variant of small pupil syndrome and is characterized by the combinatio
 The patient’s ophthalmologist should be prepared for possible modifications to their surgical technique, such as the utilization of iris hooks, iris dilator rings, or viscoelastic substances.
 
 IFIS may increase the risk of eye complications during and after the operation.
-The benefit of stopping alpha-adrenergic antagonist therapy prior to cataract surgery has not been established.
-The initiation of therapy with tamsulosin in patients for whom cataract surgery is scheduled is not recommended.
+The benefit of stopping alpha-adrenergic antagonist therapy prior to cataract or glaucoma surgery has not been established.
+The initiation of therapy with tamsulosin in patients for whom cataract or glaucoma surgery is scheduled is not recommended.
 
 ## 5.10 Sulfa Allergy
 

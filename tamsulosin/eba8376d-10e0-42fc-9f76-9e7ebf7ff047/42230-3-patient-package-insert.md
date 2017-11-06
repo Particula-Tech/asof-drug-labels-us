@@ -1,6 +1,6 @@
 PATIENT INFORMATION
 
-JALYN® [JAY-lin]
+JALYN [JAY-lin]
 
 (dutasteride and tamsulosin hydrochloride)
 
@@ -30,7 +30,7 @@ Do Not Take JALYN if you are:
 - •allergic to dutasteride, tamsulosin, or any of the ingredients in JALYN.
   See the end of this leaflet for a complete list of ingredients in JALYN.
 - •taking another medicine that contains an alpha-blocker.
-- •allergic to other 5-alpha-reductase inhibitors, for example, PROSCAR® (finasteride) Tablets.
+- •allergic to other 5-alpha-reductase inhibitors, for example, PROSCAR (finasteride) Tablets.
 
 What should I tell my healthcare provider before taking JALYN?
 
@@ -38,7 +38,7 @@ Before you take JALYN, tell your healthcare provider if you:
 
 - •have a history of low blood pressure
 - •take medicines to treat high blood pressure
-- •plan to have cataract surgery
+- •plan to have cataract or glaucoma surgery
 - •have liver problems
 - •are allergic to sulfa medications
 - •have any other medical conditions
@@ -88,9 +88,9 @@ JALYN may cause serious side effects, including:
 Get medical help right away if you have these serious allergic reactions.
 
 - •Higher chance of a more serious form of prostate cancer.
-- •Eye problems during cataract surgery.
-  During cataract surgery, a condition called Intraoperative Floppy Iris Syndrome (IFIS) can happen if you take or have taken JALYN in the past.
-  If you need to have cataract surgery, tell your surgeon if you take or have taken JALYN.
+- •Eye problems during cataract or glaucoma surgery.
+  During cataract or glaucoma surgery, a condition called Intraoperative Floppy Iris Syndrome (IFIS) can happen if you take or have taken JALYN in the past.
+  If you need to have cataract or glaucoma surgery, tell your surgeon if you take or have taken JALYN.
 - •A painful erection that will not go away.
   Rarely, JALYN can cause a painful erection (priapism), which cannot be relieved by having sex.
   If this happens, get medical help right away.
@@ -160,16 +160,15 @@ These 2 medications work in different ways to improve symptoms of BPH.
 Dutasteride shrinks the enlarged prostate and tamsulosin relaxes muscles in the prostate and neck of the bladder.
 These 2 medications, when used together, can improve symptoms of BPH better than either medication when used alone.
 
-JALYN is a registered trademark of the GSK group of companies.
+JALYN is a trademark owned by or licensed to the GSK group of companies.
 
-The other brands listed are trademarks of their respective owners and are not trademarks of the GSK group of companies.
-The makers of these brands are not affiliated with and do not endorse the GSK group of companies or its products.
+The other brand listed is a trademark owned by or licensed to its respective owner and is not a trademark owned by or licensed to the GSK group of companies.
+The maker of this brand is not affiliated with and does not endorse the GSK group of companies or its products.
 
 Manufactured for: GlaxoSmithKline Research Triangle Park, NC 27709
 
-©2015, the GSK group of companies.
-All rights reserved.
+©2017 GSK group of companies or its licensor.
 
-January 2015
+11/2017
 
-JLN:9PIL
+JLN:10PIL
