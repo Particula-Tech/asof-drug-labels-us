@@ -20,7 +20,7 @@ Inform postmenopausal women of the importance of reporting abnormal vaginal blee
 
 Distributed by: Allergan USA, Inc. Irvine, CA 92612
 
-© 2016 Allergan.
+© 2017 Allergan.
 All rights reserved.
 
-Femring® is a registered trademark of Allergan Pharmaceuticals International Limited
+FEMRING® is a registered trademark of Allergan Pharmaceuticals International Limited

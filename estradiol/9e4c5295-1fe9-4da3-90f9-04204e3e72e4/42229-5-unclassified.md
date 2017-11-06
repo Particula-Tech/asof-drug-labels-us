@@ -67,9 +67,9 @@ This Patient Information and Instructions for Use have been approved by the U.S.
 
 Distributed by: Allergan USA, Inc. Irvine, CA 92612
 
-© 2016 Allergan.
+© 2017 Allergan.
 All rights reserved.
 
-Femring® is a registered trademark of Allergan Pharmaceuticals International Limited
+FEMRING® is a registered trademark of Allergan Pharmaceuticals International Limited
 
-Revised: 08/2017
+Revised: 11/2017

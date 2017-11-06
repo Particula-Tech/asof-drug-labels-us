@@ -128,7 +128,7 @@ These are not all the possible side effects of Femring.
 For more information, ask your healthcare provider or pharmacist.
 Tell your healthcare provider if you have any side effects that bother you or does not go away.
 
-You may report side effects to Allergan at 1-800-433-8871 or to FDA at 1-800-FDA-1088.
+You may report side effects to Allergan at 1-800-678-1605 or to FDA at 1-800-FDA-1088.
 
 What can I do to lower my chances of a serious side effect with Femring?
 
@@ -161,7 +161,7 @@ Call your health care provider right away if you have unusual vaginal bleeding.
 This leaflet summarizes the most important information about Femring.
 If you would like more information, talk with your healthcare provider or pharmacist.
 You can ask for information about Femring that is written for health professionals.
-You can get more information by calling the toll free number 1-800-433-8871.
+You can get more information by calling the toll free number 1-800-678-1605.
 
 What are the ingredients in Femring?
 
