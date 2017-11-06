@@ -8,9 +8,7 @@ Revatio® (sildenafil) tablets
 
 20 mg*
 
-90 Tablets
-
-Rx only
+90 Tablets Rx only
 
 # PRINCIPAL DISPLAY PANEL - 10 mg/12.5 mL Vial Label
 
