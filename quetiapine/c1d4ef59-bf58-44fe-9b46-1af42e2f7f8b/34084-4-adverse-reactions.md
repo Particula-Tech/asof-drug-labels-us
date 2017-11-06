@@ -28,10 +28,10 @@ Because clinical studies are conducted under widely varying conditions, adverse 
 
 Adults:
 
-The information below is derived from a clinical trial database for quetiapine fumarate consisting of over 4300 patients.
-This database includes 698 patients exposed to quetiapine fumarate for the treatment of bipolar depression, 405 patients exposed to quetiapine fumarate for the treatment of acute bipolar mania (monotherapy and adjunct therapy), 646 patients exposed to quetiapine fumarate for the maintenance treatment of bipolar I disorder as adjunct therapy, and approximately 2600 patients and/or normal subjects exposed to 1 or more doses of quetiapine fumarate for the treatment of schizophrenia.
+The information below is derived from a clinical trial database for quetiapine fumarate consisting of over 4,300 patients.
+This database includes 698 patients exposed to quetiapine fumarate for the treatment of bipolar depression, 405 patients exposed to quetiapine fumarate for the treatment of acute bipolar mania (monotherapy and adjunct therapy), 646 patients exposed to quetiapine fumarate for the maintenance treatment of bipolar I disorder as adjunct therapy, and approximately 2,600 patients and/or normal subjects exposed to 1 or more doses of quetiapine fumarate for the treatment of schizophrenia.
 
-Of these approximately 4300 subjects, approximately 4000 (2300 in schizophrenia, 405 in acute bipolar mania, 698 in bipolar depression, and 646 for the maintenance treatment of bipolar I disorder) were patients who participated in multiple dose effectiveness trials, and their experience corresponded to approximately 2400 patient-years.
+Of these approximately 4,300 subjects, approximately 4,000 (2,300 in schizophrenia, 405 in acute bipolar mania, 698 in bipolar depression, and 646 for the maintenance treatment of bipolar I disorder) were patients who participated in multiple dose effectiveness trials, and their experience corresponded to approximately 2,400 patient-years.
 The conditions and duration of treatment with quetiapine fumarate varied greatly and included (in overlapping categories) open-label and double-blind phases of studies, inpatients and outpatients, fixed-dose and dose-titration studies, and short-term or longer-term exposure.
 Adverse reactions were assessed by collecting adverse events, results of physical examinations, vital signs, weights, laboratory analyses, ECGs, and results of ophthalmologic examinations.
 
@@ -227,7 +227,7 @@ The use of concomitant anticholinergic medications was infrequent and similar ac
 
 Children and Adolescents
 
-The information below is derived from a clinical trial database for quetiapine fumarate consisting of over 1000 pediatric patients.
+The information below is derived from a clinical trial database for quetiapine fumarate consisting of over 1,000 pediatric patients.
 This database includes 677 patients exposed to quetiapine fumarate for the treatment of schizophrenia and 393 children and adolescents (10 to 17 years old) exposed to quetiapine fumarate for the treatment of acute bipolar mania.
 
 Adverse Reactions Associated with Discontinuation of Treatment in Short-Term, Placebo-Controlled Trials
@@ -268,7 +268,7 @@ Table 13: Adverse Reaction Incidence in a 6-Week Placebo-Controlled Clinical Tri
 | Arthralgia | 1% | 3% | 0% |
 | Asthenia | 1% | 3% | 1% |
 | Back Pain | 1% | 3% | 0% |
-| Dyspnoea | 0% | 3% | 0% |
+| Dyspnea | 0% | 3% | 0% |
 | Abdominal Pain | 3% | 1% | 0% |
 | Anorexia | 3% | 1% | 0% |
 | Tooth Abscess | 3% | 1% | 0% |
@@ -353,11 +353,11 @@ Table 16: Adverse Reactions Associated with Extrapyramidal Symptoms in a Placebo
 
 Other Adverse Reactions Observed During the Pre-Marketing Evaluation of Quetiapine Fumarate
 
-Following is a list of COSTART terms that reflect treatment-emergent adverse reactions as defined in the introduction to the ADVERSE REACTIONS section reported by patients treated with quetiapine fumarate at multiple doses ≥ 75 mg/day during any phase of a trial within the premarketing database of approximately 2200 patients treated for schizophrenia.
+Following is a list of COSTART terms that reflect treatment-emergent adverse reactions as defined in the introduction to the ADVERSE REACTIONS section reported by patients treated with quetiapine fumarate at multiple doses ≥ 75 mg/day during any phase of a trial within the premarketing database of approximately 2,200 patients treated for schizophrenia.
 All reported reactions are included except those already listed in the tables or elsewhere in labeling, those reactions for which a drug cause was remote, and those reaction terms which were so general as to be uninformative.
 It is important to emphasize that, although the reactions reported occurred during treatment with quetiapine fumarate, they were not necessarily caused by it.
 
-Reactions are further categorized by body system and listed in order of decreasing frequency according to the following definitions: frequent adverse reactions are those occurring in at least 1/100 patients (only those not already listed in the tabulated results from placebo-controlled trials appear in this listing); infrequent adverse reactions are those occurring in 1/100 to 1/1000 patients; rare reactions are those occurring in fewer than 1/1000 patients.
+Reactions are further categorized by body system and listed in order of decreasing frequency according to the following definitions: frequent adverse reactions are those occurring in at least 1/100 patients (only those not already listed in the tabulated results from placebo-controlled trials appear in this listing); infrequent adverse reactions are those occurring in 1/100 to 1/1,000 patients; rare reactions are those occurring in fewer than 1/1,000 patients.
 
 Nervous System: Infrequent: abnormal dreams, dyskinesia, thinking abnormal, tardive dyskinesia, vertigo, involuntary movements, confusion, amnesia, psychosis, hallucinations, hyperkinesia, libido increased*, urinary retention, incoordination, paranoid reaction, abnormal gait, myoclonus, delusions, manic reaction, apathy, ataxia, depersonalization, stupor, bruxism, catatonic reaction, hemiplegia; Rare: aphasia, buccoglossal syndrome, choreoathetosis, delirium, emotional lability, euphoria, libido decreased*, neuralgia, stuttering, subdural hematoma.
 
@@ -391,7 +391,7 @@ Laboratory Changes:
 
 Neutrophil Counts
 
-Adults: In placebo-controlled monotherapy clinical trials involving 3368 patients on quetiapine fumarate and 1515 on placebo, the incidence of at least one occurrence of neutrophil count <1.0 x 109/L among patients with a normal baseline neutrophil count and at least one available follow up laboratory measurement was 0.3% (10/2967) in patients treated with quetiapine fumarate, compared to 0.1% (2/1349) in patients treated with placebo [see Warnings and Precautions (5.10)].
+Adults: In placebo-controlled monotherapy clinical trials involving 3,368 patients on quetiapine fumarate and 1,515 on placebo, the incidence of at least one occurrence of neutrophil count <1.0 x 109/L among patients with a normal baseline neutrophil count and at least one available follow up laboratory measurement was 0.3% (10/2,967) in patients treated with quetiapine fumarate, compared to 0.1% (2/1,349) in patients treated with placebo [see Warnings and Precautions (5.10)].
 
 Transaminase Elevations
 
@@ -403,8 +403,8 @@ In bipolar depression trials, the proportions of patients with transaminase elev
 
 Decreased Hemoglobin
 
-Adults: In short-term placebo-controlled trials, decreases in hemoglobin to ≤ 13 g/dL males, ≤ 12 g/dL females on at least one occasion occurred in 8.3% (594/7155) of quetiapine-treated patients compared to 6.2% (219/3536) of patients treated with placebo.
-In a database of controlled and uncontrolled clinical trials, decreases in hemoglobin to ≤ 13 g/dL males, ≤ 12 g/dL females on at least one occasion occurred in 11% (2277/20729) of quetiapine-treated patients.
+Adults: In short-term placebo-controlled trials, decreases in hemoglobin to ≤ 13 g/dL males, ≤ 12 g/dL females on at least one occasion occurred in 8.3% (594/7,155) of quetiapine-treated patients compared to 6.2% (219/3,536) of patients treated with placebo.
+In a database of controlled and uncontrolled clinical trials, decreases in hemoglobin to ≤ 13 g/dL males, ≤ 12 g/dL females on at least one occasion occurred in 11% (2,277/20,729) of quetiapine-treated patients.
 
 Interference with Urine Drug Screens
 

@@ -23,11 +23,11 @@ The pooled analyses of placebo-controlled trials in adults with MDD or other psy
 There was considerable variation in risk of suicidality among drugs, but a tendency toward an increase in the younger patients for almost all drugs studied.
 There were differences in absolute risk of suicidality across the different indications, with the highest incidence in MDD.
 The risk differences (drug vs. placebo), however, were relatively stable within age strata and across indications.
-These risk differences (drug-placebo difference in the number of cases of suicidality per 1000 patients treated) are provided in Table 2.
+These risk differences (drug-placebo difference in the number of cases of suicidality per 1,000 patients treated) are provided in Table 2.
 
-Table 2: Drug-Placebo Difference in Number of Cases of Suicidality per 1000 Patients Treated
+Table 2: Drug-Placebo Difference in Number of Cases of Suicidality per 1,000 Patients Treated
 
-| Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1000 Patients Treated |
+| Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1,000 Patients Treated |
 | --- | --- |
 |  | Increases Compared to Placebo |
 | <18 | 14 additional cases |
@@ -106,8 +106,8 @@ Adults:
 | Table 3: Fasting Glucose - Proportion of Patients Shifting to ≥126 mg/dL in Short-Term (≤12 weeks) Placebo-Controlled StudiesIncludes quetiapine fumarate and quetiapine fumarate extended-release data. |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | LaboratoryAnalyte | Category Change(At Least Once)from Baseline | Treatment Arm | N | Patientsn (%) |
-| Fasting Glucose | Normal to High(<100 mg/dL to ≥126 mg/dL) | Quetiapine | 2907 | 71 (2.4%) |
-| Placebo | 1346 | 19 (1.4%) |  |  |
+| Fasting Glucose | Normal to High(<100 mg/dL to ≥126 mg/dL) | Quetiapine | 2,907 | 71 (2.4%) |
+| Placebo | 1,346 | 19 (1.4%) |  |  |
 | Borderline to High | Quetiapine | 572 | 67 (11.7%) |  |
 | (≥100 mg/dL and <126 mg/dL to ≥126 mg/dL) | Placebo | 279 | 33 (11.8%) |  |
 
@@ -252,7 +252,7 @@ However, some patients may require treatment with quetiapine fumarate despite th
 ## 5.7 Hypotension
 
 Quetiapine may induce orthostatic hypotension associated with dizziness, tachycardia and, in some patients, syncope, especially during the initial dose-titration period, probably reflecting its α1-adrenergic antagonist properties.
-Syncope was reported in 1% (28/3265) of the patients treated with quetiapine fumarate, compared with 0.2% (2/954) on placebo and about 0.4% (2/527) on active control drugs.
+Syncope was reported in 1% (28/3,265) of the patients treated with quetiapine fumarate, compared with 0.2% (2/954) on placebo and about 0.4% (2/527) on active control drugs.
 Orthostatic hypotension, dizziness, and syncope may lead to falls.
 
 Quetiapine fumarate should be used with particular caution in patients with known cardiovascular disease (history of myocardial infarction or ischemic heart disease, heart failure or conduction abnormalities), cerebrovascular disease or conditions which would predispose patients to hypotension (dehydration, hypovolemia and treatment with antihypertensive medications).
@@ -281,7 +281,7 @@ Possible risk factors for leukopenia/neutropenia include pre-existing low white 
 Patients with a pre-existing low WBC or a history of drug induced leukopenia/neutropenia should have their complete blood count (CBC) monitored frequently during the first few months of therapy and should discontinue quetiapine fumarate at the first sign of a decline in WBC in absence of other causative factors.
 
 Patients with neutropenia should be carefully monitored for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur.
-Patients with severe neutropenia (absolute neutrophil count <1000/mm3) should discontinue quetiapine fumarate and have their WBC followed until recovery.
+Patients with severe neutropenia (absolute neutrophil count <1,000/mm3) should discontinue quetiapine fumarate and have their WBC followed until recovery.
 
 ## 5.11 Cataracts
 
@@ -304,7 +304,7 @@ Caution should also be exercised when quetiapine is prescribed in patients with 
 
 ## 5.13 Seizures
 
-During clinical trials, seizures occurred in 0.5% (20/3490) of patients treated with quetiapine fumarate compared to 0.2% (2/954) on placebo and 0.7% (4/527) on active control drugs.
+During clinical trials, seizures occurred in 0.5% (20/3,490) of patients treated with quetiapine fumarate compared to 0.2% (2/954) on placebo and 0.7% (4/527) on active control drugs.
 As with other antipsychotics, quetiapine fumarate should be used cautiously in patients with a history of seizures or with conditions that potentially lower the seizure threshold, e.g., Alzheimer’s dementia.
 Conditions that lower the seizure threshold may be more prevalent in a population of 65 years or older.
 
@@ -320,10 +320,10 @@ Therefore, both TSH and free T4, in addition to clinical assessment, should be m
 In the mania adjunct studies, where quetiapine fumarate was added to lithium or divalproex, 12% (24/196) of quetiapine fumarate treated patients compared to 7% (15/203) of placebo-treated patients had elevated TSH levels.
 Of the quetiapine fumarate treated patients with elevated TSH levels, 3 had simultaneous low free T4 levels (free T4 <0.8 LLN).
 
-About 0.7% (26/3489) of quetiapine fumarate patients did experience TSH increases in monotherapy studies.
+About 0.7% (26/3,489) of quetiapine fumarate patients did experience TSH increases in monotherapy studies.
 Some patients with TSH increases needed replacement thyroid treatment.
 
-In all quetiapine trials, the incidence of significant shifts in thyroid hormones and TSH were1: decrease in free T4 (free T4 <0.8 LLN), 2.0% (357/17513); decrease in total T4, 4.0% (75/1861); decrease in free T3, 0.4% (53/13766); decrease in total T3, 2.0% (26/1312), and increase in TSH, 4.9% (956/19412).
+In all quetiapine trials, the incidence of significant shifts in thyroid hormones and TSH were1: decrease in free T4 (free T4 <0.8 LLN), 2.0% (357/17,513); decrease in total T4, 4.0% (75/1,861); decrease in free T3, 0.4% (53/13,766); decrease in total T3, 2.0% (26/1,312), and increase in TSH, 4.9% (956/19,412).
 In eight patients, where TBG was measured, levels of TBG were unchanged.
 
 Table 8 shows the incidence of these shifts in short-term placebo-controlled clinical trials.
@@ -332,9 +332,9 @@ Table 8 shows the incidence of these shifts in short-term placebo-controlled cli
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Total T4 |  | Free T4 |  | Total T3 |  | Free T3 |  | TSH |  |
 | Quetiapine | Placebo | Quetiapine | Placebo | Quetiapine | Placebo | Quetiapine | Placebo | Quetiapine | Placebo |
-| 3.4%(37/1097) | 0.6%(4/651) | 0.7%(52/7218) | 0.1%(4/3668) | 0.5%(2/369) | 0.0%(0/113) | 0.2%(11/5673) | 0.0%(1/2679) | 3.2%(240/7587) | 2.7%(105/3912) |
+| 3.4%(37/1,097) | 0.6%(4/651) | 0.7%(52/7,218) | 0.1%(4/3,668) | 0.5%(2/369) | 0.0%(0/113) | 0.2%(11/5,673) | 0.0%(1/2,679) | 3.2%(240/7,587) | 2.7%(105/3,912) |
 
-In short-term placebo-controlled monotherapy trials, the incidence of reciprocal, shifts in T3 and TSH was 0.0% for both quetiapine (1/4800) and placebo (0/2190) and for T4 and TSH the shifts were 0.1% (7/6154) for quetiapine versus 0.0% (1/3007) for placebo.
+In short-term placebo-controlled monotherapy trials, the incidence of reciprocal, shifts in T3 and TSH was 0.0% for both quetiapine (1/4,800) and placebo (0/2,190) and for T4 and TSH the shifts were 0.1% (7/6,154) for quetiapine versus 0.0% (1/3,007) for placebo.
 
 Children and Adolescents:
 
@@ -343,7 +343,7 @@ Of the quetiapine fumarate treated patients with elevated TSH levels, 1 had simu
 
 ## 5.15 Hyperprolactinemia
 
-Adults: During clinical trials with quetiapine, the incidence of shifts in prolactin levels to a clinically significant value occurred in 3.6% (158/4416) of patients treated with quetiapine compared to 2.6% (51/1968) on placebo.
+Adults: During clinical trials with quetiapine, the incidence of shifts in prolactin levels to a clinically significant value occurred in 3.6% (158/4,416) of patients treated with quetiapine compared to 2.6% (51/1,968) on placebo.
 
 Children and Adolescents:
 
@@ -383,6 +383,6 @@ Quetiapine fumarate and other antipsychotic drugs should be used cautiously in p
 ## 5.19 Discontinuation Syndrome
 
 Acute withdrawal symptoms, such as insomnia, nausea, and vomiting have been described after abrupt cessation of atypical antipsychotic drugs, including quetiapine fumarate.
-In short-term placebo-controlled, monotherapy clinical trials with quetiapine fumarate extended-release that included a discontinuation phase which evaluated discontinuation symptoms, the aggregated incidence of patients experiencing one or more discontinuation symptoms after abrupt cessation was 12.1% (241/1993) for quetiapine fumarate extended-release and 6.7% (71/1065) for placebo.
+In short-term placebo-controlled, monotherapy clinical trials with quetiapine fumarate extended-release that included a discontinuation phase which evaluated discontinuation symptoms, the aggregated incidence of patients experiencing one or more discontinuation symptoms after abrupt cessation was 12.1% (241/1,993) for quetiapine fumarate extended-release and 6.7% (71/1,065) for placebo.
 The incidence of the individual adverse events (i.e., insomnia, nausea, headache, diarrhea, vomiting, dizziness and irritability) did not exceed 5.3% in any treatment group and usually resolved after 1 week post-discontinuation.
 Gradual withdrawal is advised.

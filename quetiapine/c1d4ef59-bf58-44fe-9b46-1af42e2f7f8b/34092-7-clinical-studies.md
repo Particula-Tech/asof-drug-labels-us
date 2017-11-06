@@ -122,7 +122,7 @@ Bipolar Disorder, Depressive Episodes
 
 Adults
 
-The efficacy of quetiapine fumarate for the acute treatment of depressive episodes associated with bipolar disorder was established in 2 identically designed 8-week, randomized, double-blind, placebo-controlled studies (N=1045) (studies 5 and 6 in Table 21).
+The efficacy of quetiapine fumarate for the acute treatment of depressive episodes associated with bipolar disorder was established in 2 identically designed 8-week, randomized, double-blind, placebo-controlled studies (N=1,045) (studies 5 and 6 in Table 21).
 These studies included patients with either bipolar I or II disorder and those with or without a rapid cycling course.
 Patients randomized to quetiapine fumarate were administered fixed doses of either 300 mg or 600 mg once daily.
 
@@ -150,7 +150,7 @@ Table 21: Depressive Episodes Associated with Bipolar Disorder
 
 Maintenance Treatment as an Adjunct to Lithium or Divalproex
 
-The efficacy of quetiapine fumarate in the maintenance treatment of bipolar I disorder was established in 2 placebo-controlled trials in patients (n=1326) who met DSM-IV criteria for bipolar I disorder (studies 7 and 8 in Figures 1 and 2).
+The efficacy of quetiapine fumarate in the maintenance treatment of bipolar I disorder was established in 2 placebo-controlled trials in patients (n=1,326) who met DSM-IV criteria for bipolar I disorder (studies 7 and 8 in Figures 1 and 2).
 The trials included patients whose most recent episode was manic, depressed, or mixed, with or without psychotic features.
 In the open-label phase, patients were required to be stable on quetiapine fumarate plus lithium or divalproex for at least 12 weeks in order to be randomized.
 On average, patients were stabilized for 15 weeks.

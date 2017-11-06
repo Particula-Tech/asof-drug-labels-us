@@ -80,7 +80,7 @@ The pharmacokinetics of the active metabolite, norquetiapine, were similar betwe
 
 ## 8.5 Geriatric Use
 
-Of the approximately 3700 patients in clinical studies with quetiapine fumarate, 7% (232) were 65 years of age or over.
+Of the approximately 3,700 patients in clinical studies with quetiapine fumarate, 7% (232) were 65 years of age or over.
 In general, there was no indication of any different tolerability of quetiapine fumarate in the elderly compared to younger adults.
 Nevertheless, the presence of factors that might decrease pharmacokinetic clearance, increase the pharmacodynamic response to quetiapine fumarate, or cause poorer tolerance or orthostasis, should lead to consideration of a lower starting dose, slower titration, and careful monitoring during the initial dosing period in the elderly.
 The mean plasma clearance of quetiapine fumarate was reduced by 30% to 50% in elderly patients when compared to younger patients [see Clinical Pharmacology (12.3) and Dosage and Administration (2.3)].

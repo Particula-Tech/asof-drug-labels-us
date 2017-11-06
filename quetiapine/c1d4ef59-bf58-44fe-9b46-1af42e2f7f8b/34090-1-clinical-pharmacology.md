@@ -12,8 +12,8 @@ Quetiapine fumarate’s antagonism of adrenergic α1 receptors may explain the o
 
 ## 12.2 Pharmacodynamics
 
-Quetiapine fumarate is an antagonist at multiple neurotransmitter receptors in the brain: serotonin 5HT1A and 5HT2 (IC50s=717 & 148nM, respectively), dopamine D1 and D2 (IC50s=1268 & 329nM, respectively), histamine H1 (IC50=30nM), and adrenergic α1 and α2 receptors (IC50s=94 & 271nM, respectively).
-Quetiapine fumarate has no appreciable affinity at cholinergic muscarinic and benzodiazepine receptors (IC50s>5000 nM).
+Quetiapine fumarate is an antagonist at multiple neurotransmitter receptors in the brain: serotonin 5HT1A and 5HT2 (IC50s=717 & 148nM, respectively), dopamine D1 and D2 (IC50s=1,268 & 329nM, respectively), histamine H1 (IC50=30nM), and adrenergic α1 and α2 receptors (IC50s=94 & 271nM, respectively).
+Quetiapine fumarate has no appreciable affinity at cholinergic muscarinic and benzodiazepine receptors (IC50s>5,000 nM).
 
 Effect on QT Interval
 
@@ -116,5 +116,5 @@ Table 18: The Effect of Quetiapine on the Pharmacokinetics of Other Drugs
 | Coadministereddrug | Coadministereddrug | Quetiapine |  |
 | Lorazepam | 2 mg, single dose | 250 mg threetimes daily | Oral clearance of lorazepam reduced by 20% |
 | Divalproex | 500 mg twice daily | 150 mgtwice daily | Cmax and AUC of free valproic acid at steady-state was decreased by 10 to 12% |
-| Lithium | Up to 2400 mg/day given in twice daily doses | 250 mg threetimes daily | No effect on steady state pharmacokinetics of lithium |
+| Lithium | Up to 2,400 mg/day given in twice daily doses | 250 mg threetimes daily | No effect on steady state pharmacokinetics of lithium |
 | Antipyrine | 1 g, single dose | 250 mg threetimes daily | No effect on clearance of antipyrine or urinary recovery of its metabolites |
