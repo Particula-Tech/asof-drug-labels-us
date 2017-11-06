@@ -16,7 +16,7 @@ Small amounts of unchanged methocarbamol also are excreted in the urine.
 
 #### Elderly
 
-The mean (± SD) elimination half-life of methocarbamol in elderly healthy volunteers (mean (± SD) age, 69 (± 4) years) was slightly prolonged compared to a younger (mean (± SD) age, 53.3 (± 8.8) years), healthy population (1.5 (± 0.4) hours versus 1.1 (± 0.27) hour, respectively).
+The mean (± SD) elimination half-life of methocarbamol in elderly healthy volunteers (mean (± SD) age, 69 (± 4) years) was slightly prolonged compared to a younger (mean (± SD) age, 53.3 (± 8.8) years), healthy population (1.5 (± 0.4) hours versus 1.1 (± 0.27) hours, respectively).
 The fraction of bound methocarbamol was slightly decreased in the elderly versus younger volunteers (41 to 43% versus 46 to 50%, respectively).
 
 #### Renally Impaired

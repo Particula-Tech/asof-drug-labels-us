@@ -37,6 +37,7 @@ An additional 10 mL or 20 mL may be added to the infusion bottle so that a total
 This procedure should be repeated every six hours until conditions allow for the insertion of a nasogastric tube.
 Crushed methocarbamol tablets suspended in water or saline may then be given through this tube.
 Total daily oral doses up to 24 grams may be required as judged by patient response.
+
 For pediatric patients: A minimum initial dose of 15 mg/kg or 500 mg/m2 is recommended.
 This dosage may be repeated every six hours, if required.
 The total dose should not exceed 1.8 g/m2 for 3 consecutive days.

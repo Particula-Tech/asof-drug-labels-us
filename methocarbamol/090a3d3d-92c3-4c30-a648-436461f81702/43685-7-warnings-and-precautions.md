@@ -11,10 +11,6 @@ Therefore, ROBAXIN Injectable should not be used in women who are or may become 
 Methocarbamol may impair mental and/or physical abilities required for performance of hazardous tasks, such as operating machinery or driving a motor vehicle.
 Patients should be cautioned about operating machinery, including automobiles, until they are reasonably certain that methocarbamol therapy does not adversely affect their ability to engage in such activities.
 
-## Use in Patients with Hypersensitivity to Latex
-
-The vial stopper contains dry natural rubber that may cause hypersensitivity reactions when handled by or when the product is injected in persons with known or possible latex sensitivity.
-
 # PRECAUTIONS
 
 ## General
@@ -49,7 +45,7 @@ Therefore, methocarbamol should be used with caution in patients with myasthenia
 
 Methocarbamol may cause a color interference in certain screening tests for 5‑hydroxyindoleacetic acid (5-HIAA) using nitrosonaphthol reagent and in screening tests for urinary vanillylmandelic acid (VMA) using the Gitlow method.
 
-## Carcinogenesis and Mutagenesis and Impairment of Fertility
+## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Long-term studies to evaluate the carcinogenic potential of methocarbamol have not been performed.
 No studies have been conducted to assess the effect of methocarbamol on mutagenesis or its potential to impair fertility.
