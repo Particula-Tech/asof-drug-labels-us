@@ -4,7 +4,7 @@
 
 An increased risk of serious infections was seen in clinical studies of other TNFα-blocking agents used in combination with anakinra or abatacept, with no added clinical benefit.
 Because of the nature of the adverse reactions seen with these combinations with TNF-blocker therapy, similar toxicities may also result from the combination of anakinra or abatacept with other TNFα-blocking agents.
-Therefore, the combination of REMICADE and anakinra or abatacept is not recommended [see Warnings and Precautions (5.9 and 5.10)].
+Therefore, the combination of REMICADE and anakinra or abatacept is not recommended [see Warnings and Precautions (5.10 and 5.11)].
 
 ## 7.2 Use with Tocilizumab
 
@@ -12,7 +12,7 @@ The use of tocilizumab in combination with biological DMARDs such as TNF antagon
 
 ## 7.3 Use with Other Biological Therapeutics
 
-The combination of REMICADE with other biological therapeutics used to treat the same conditions as REMICADE is not recommended [see Warnings and Precautions (5.11)].
+The combination of REMICADE with other biological therapeutics used to treat the same conditions as REMICADE is not recommended [see Warnings and Precautions (5.12)].
 
 ## 7.4 Methotrexate (MTX) and Other Concomitant Medications
 
@@ -37,6 +37,6 @@ Upon initiation or discontinuation of REMICADE in patients being treated with CY
 ## 7.7 Live Vaccines/Therapeutic Infectious Agents
 
 It is recommended that live vaccines not be given concurrently with REMICADE.
-It is also recommended that live vaccines not be given to infants after in utero exposure to infliximab for at least 6 months following birth [see Warnings and Precautions (5.14)].
+It is also recommended that live vaccines not be given to infants after in utero exposure to infliximab for at least 6 months following birth [see Warnings and Precautions (5.15)].
 
-It is recommended that therapeutic infectious agents not be given concurrently with REMICADE [see Warnings and Precautions (5.14)].
+It is recommended that therapeutic infectious agents not be given concurrently with REMICADE [see Warnings and Precautions (5.15)].

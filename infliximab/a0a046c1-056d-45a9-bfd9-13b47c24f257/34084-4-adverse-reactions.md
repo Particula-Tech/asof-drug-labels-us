@@ -2,7 +2,7 @@
 
 ## 6.1 Clinical Trials Experience
 
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in clinical trials of a drug cannot be directly compared to rates in clinical trials of another drug and may not predict the rates observed in broader patient populations in clinical practice.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 Adverse Reactions in Adults
 
@@ -24,10 +24,10 @@ REMICADE infusions beyond the initial infusion were not associated with a higher
 The infusion reaction rates remained stable in psoriasis through 1 year in psoriasis Study I. In psoriasis Study II, the rates were variable over time and somewhat higher following the final infusion than after the initial infusion.
 Across the 3 psoriasis studies, the percent of total infusions resulting in infusion reactions (i.e., an adverse event occurring within 1 hour) was 7% in the 3 mg/kg group, 4% in the 5 mg/kg group, and 1% in the placebo group.
 
-Patients who became positive for antibodies to infliximab were more likely (approximately two- to three-fold) to have an infusion reaction than were those who were negative.
+Patients who became positive for antibodies to infliximab were more likely (approximately two-to three-fold) to have an infusion reaction than were those who were negative.
 Use of concomitant immunosuppressant agents appeared to reduce the frequency of both antibodies to infliximab and infusion reactions [see Adverse Reactions (6.1) and Drug Interactions (7.4)].
 
-Infusion reactions following re-administration
+Infusion Reactions Following Re-administration
 
 In a clinical trial of patients with moderate to severe psoriasis designed to assess the efficacy of long-term maintenance therapy versus re-treatment with an induction regimen of REMICADE following disease flare, 4% (8/219) of patients in the re-treatment therapy arm experienced serious infusion reactions versus <1% (1/222) in the maintenance therapy arm.
 Patients enrolled in this trial did not receive any concomitant immunosuppressant therapy.
@@ -112,13 +112,13 @@ For these reasons, comparison of the incidence of antibodies to infliximab with 
 
 Hepatotoxicity
 
-Severe liver injury, including acute liver failure and autoimmune hepatitis, has been reported rarely in patients receiving REMICADE [see Warnings and Precautions (5.4)].
+Severe liver injury, including acute liver failure and autoimmune hepatitis, has been reported in patients receiving REMICADE [see Warnings and Precautions (5.4)].
 Reactivation of hepatitis B virus has occurred in patients receiving TNF-blocking agents, including REMICADE, who are chronic carriers of this virus [see Warnings and Precautions (5.3)].
 
 In clinical trials in rheumatoid arthritis, Crohn's disease, ulcerative colitis, ankylosing spondylitis, plaque psoriasis, and psoriatic arthritis, elevations of aminotransferases were observed (ALT more common than AST) in a greater proportion of patients receiving REMICADE than in controls (Table 1), both when REMICADE was given as monotherapy and when it was used in combination with other immunosuppressive agents.
 In general, patients who developed ALT and AST elevations were asymptomatic, and the abnormalities decreased or resolved with either continuation or discontinuation of REMICADE, or modification of concomitant medications.
 
-Table 1 Proportion of patients with elevated ALT in clinical trials
+Table 1: Proportion of patients with elevated ALT in clinical trials
 
 | Placebo | REMICADE | Placebo | REMICADE | Placebo | REMICADE |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -133,7 +133,7 @@ Table 1 Proportion of patients with elevated ALT in clinical trials
 
 Adverse Reactions in Psoriasis Studies
 
-During the placebo-controlled portion across the 3 clinical trials up to week 16, the proportion of patients who experienced at least 1 serious adverse reaction (SAE; defined as resulting in death, life threatening, requires hospitalization, or persistent or significant disability/incapacity) was 0.5% in the 3 mg/kg REMICADE group, 1.9% in the placebo group, and 1.6% in the 5 mg/kg REMICADE group.
+During the placebo-controlled portion across the 3 clinical trials up to Week 16, the proportion of patients who experienced at least 1 serious adverse reaction (SAE; defined as resulting in death, life threatening, requires hospitalization, or persistent or significant disability/incapacity) was 0.5% in the 3 mg/kg REMICADE group, 1.9% in the placebo group, and 1.6% in the 5 mg/kg REMICADE group.
 
 Among patients in the 2 Phase 3 studies, 12.4% of patients receiving REMICADE 5 mg/kg every 8 weeks through 1 year of maintenance treatment experienced at least 1 SAE in Study I. In Study II, 4.1% and 4.7% of patients receiving REMICADE 3 mg/kg and 5 mg/kg every 8 weeks, respectively, through 1 year of maintenance treatment experienced at least 1 SAE.
 
@@ -157,12 +157,12 @@ Adverse reactions reported in ≥5% of all patients with rheumatoid arthritis re
 The types and frequencies of adverse reactions observed were similar in REMICADE-treated rheumatoid arthritis, ankylosing spondylitis, psoriatic arthritis, plaque psoriasis and Crohn's disease patients except for abdominal pain, which occurred in 26% of REMICADE-treated patients with Crohn's disease.
 In the Crohn's disease studies, there were insufficient numbers and duration of follow-up for patients who never received REMICADE to provide meaningful comparisons.
 
-Table 2 Adverse reactions occurring in 5% or more of patients receiving 4 or more infusions for rheumatoid arthritis
+Table 2: Adverse reactions occurring in 5% or more of patients receiving 4 or more infusions for rheumatoid arthritis
 
-|  | (n=350) | (n=1129) |
+| Average weeks of follow-up | 59 | 66 |
 | --- | --- | --- |
 |  | Placebo | REMICADE |
-| Average weeks of follow-up | 59 | 66 |
+|  | (n=350) | (n=1129) |
 | Gastrointestinal |  |  |
 | Nausea | 20% | 21% |
 | Abdominal pain | 8% | 12% |
@@ -263,21 +263,22 @@ There were higher proportions of patients with serious adverse events (40% vs. 1
 While the proportion of patients with infections was also higher in the younger age group (60% vs. 49%), for serious infections, the proportions were similar in the two age groups (13% in the 6 to 11 year age group vs. 11% in the 12 to 17 year age group).
 Overall proportions of adverse reactions, including infusion reactions, were similar between the 6 to 11 and 12 to 17 year age groups (13%).
 
-## 6.2 Post-marketing Experience
+## 6.2 Postmarketing Experience
 
-Adverse reactions have been reported during post approval use of REMICADE in adult and pediatric patients.
-Because these events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to REMICADE exposure.
+Adverse reactions have been identified during post approval use of REMICADE in adult and pediatric patients.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-The following adverse reactions, some with fatal outcome, have been reported during post-approval use of REMICADE: neutropenia [see Warnings and Precautions (5.6)], interstitial lung disease (including pulmonary fibrosis/interstitial pneumonitis and very rare rapidly progressive disease), idiopathic thrombocytopenic purpura, thrombotic thrombocytopenic purpura, pericardial effusion, systemic and cutaneous vasculitis, erythema multiforme, Stevens-Johnson Syndrome, toxic epidermal necrolysis, peripheral demyelinating disorders (such as Guillain-Barré syndrome, chronic inflammatory demyelinating polyneuropathy, and multifocal motor neuropathy), new onset and worsening psoriasis (all subtypes including pustular, primarily palmoplantar), transverse myelitis, and neuropathies (additional neurologic reactions have also been observed) [see Warnings and Precautions (5.8)], acute liver failure, jaundice, hepatitis, and cholestasis [see Warnings and Precautions (5.4)], serious infections [see Warnings and Precautions (5.1)], malignancies, including melanoma and Merkel cell carcinoma [see Warnings and Precautions (5.2)] and vaccine breakthrough infection including bovine tuberculosis (disseminated BCG infection) following vaccination in an infant exposed in utero to infliximab [see Warnings and Precautions (5.14)].
+The following adverse reactions, some with fatal outcome, have been reported during post-approval use of REMICADE: neutropenia [see Warnings and Precautions (5.6)], agranulocytosis (including infants exposed in utero to infliximab), interstitial lung disease (including pulmonary fibrosis/interstitial pneumonitis and rapidly progressive disease), idiopathic thrombocytopenic purpura, thrombotic thrombocytopenic purpura, pericardial effusion, systemic and cutaneous vasculitis, erythema multiforme, Stevens-Johnson Syndrome, toxic epidermal necrolysis, peripheral demyelinating disorders (such as Guillain-Barré syndrome, chronic inflammatory demyelinating polyneuropathy, and multifocal motor neuropathy), new onset and worsening psoriasis (all subtypes including pustular, primarily palmoplantar), transverse myelitis, and neuropathies (additional neurologic reactions have also been observed) [see Warnings and Precautions (5.9)], acute liver failure, jaundice, hepatitis, and cholestasis [see Warnings and Precautions (5.4)], serious infections [see Warnings and Precautions (5.1)], malignancies, including melanoma, Merkel cell carcinoma, and cervical cancer [see Warnings and Precautions (5.2)] and vaccine breakthrough infection including bovine tuberculosis (disseminated BCG infection) following vaccination in an infant exposed in utero to infliximab [see Warnings and Precautions (5.15)].
 
 Infusion-related Reactions
 
 In post-marketing experience, cases of anaphylactic reactions, including laryngeal/pharyngeal edema and severe bronchospasm, and seizure have been associated with REMICADE administration.
 
-Cases of myocardial ischemia/infarction and transient visual loss have also been rarely reported in association with REMICADE during or within 2 hours of infusion.
+Cases of transient visual loss have been reported in association with REMICADE during or within 2 hours of infusion.
+Cerebrovascular accidents, myocardial ischemia/infarction (some fatal), and arrhythmia occurring within 24 hours of initiation of infusion have also been reported [see Warnings and Precautions (5.8)].
 
 Adverse Reactions in Pediatric Patients
 
 The following serious adverse reactions have been reported in the post-marketing experience in children: infections (some fatal) including opportunistic infections and tuberculosis, infusion reactions, and hypersensitivity reactions.
 
-Serious adverse reactions in the post-marketing experience with REMICADE in the pediatric population have also included malignancies, including hepatosplenic T-cell lymphomas [see Boxed WARNINGS and Warnings and Precautions (5.2)], transient hepatic enzyme abnormalities, lupus-like syndromes, and the development of autoantibodies.
+Serious adverse reactions in the post-marketing experience with REMICADE in the pediatric population have also included malignancies, including hepatosplenic T-cell lymphomas [see Boxed Warning and Warnings and Precautions (5.2)], transient hepatic enzyme abnormalities, lupus-like syndromes, and the development of autoantibodies.

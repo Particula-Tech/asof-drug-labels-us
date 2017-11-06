@@ -12,12 +12,13 @@ Doses up to 40 mg/kg were shown to produce no adverse effects in animal reproduc
 As with other IgG antibodies, infliximab crosses the placenta.
 Infliximab has been detected in the serum of infants up to 6 months following birth.
 Consequently, these infants may be at increased risk of infection, including disseminated infection which can become fatal.
-At least a six month waiting period following birth is recommended before the administration of live vaccines (e.g., BCG vaccine or other live vaccines, such as the rotavirus vaccine) to these infants [see Warnings and Precautions (5.14)].
+At least a six month waiting period following birth is recommended before the administration of live vaccines (e.g., BCG vaccine or other live vaccines, such as the rotavirus vaccine) to these infants [see Warnings and Precautions (5.15)].
+Cases of agranulocytosis in infants exposed in utero have also been reported [see Adverse Reactions (6.2)].
 
 ## 8.3 Nursing Mothers
 
 It is not known whether REMICADE is excreted in human milk or absorbed systemically after ingestion.
-Because many drugs and immunoglobulins are excreted in human milk, and because of the potential for adverse reactions in nursing infants from REMICADE, women should not breast-feed their infants while taking REMICADE.
+Because many drugs and immunoglobulins are excreted in human milk, and because of the potential for adverse reactions in nursing infants from REMICADE, women should not breastfeed their infants while taking REMICADE.
 A decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 
 ## 8.4 Pediatric Use
@@ -27,7 +28,7 @@ However, REMICADE has not been studied in children with Crohn's disease or ulcer
 
 Pediatric Crohn's Disease
 
-REMICADE is indicated for reducing signs and symptoms and inducing and maintaining clinical remission in pediatric patients with moderately to severely active Crohn's disease who have had an inadequate response to conventional therapy [see Boxed Warnings, Warnings and Precautions (5), Indications and Usage (1.2), Dosage and Administration (2.2), Clinical Studies (14.2) and Adverse Reactions (6.1)].
+REMICADE is indicated for reducing signs and symptoms and inducing and maintaining clinical remission in pediatric patients with moderately to severely active Crohn's disease who have had an inadequate response to conventional therapy [see Boxed Warning, Warnings and Precautions (5), Indications and Usage (1.2), Dosage and Administration (2.2), Clinical Studies (14.2) and Adverse Reactions (6.1)].
 
 REMICADE has been studied only in combination with conventional immunosuppressive therapy in pediatric Crohn's disease.
 The longer term (greater than 1 year) safety and effectiveness of REMICADE in pediatric Crohn's disease patients have not been established in clinical trials.
@@ -73,7 +74,7 @@ Other notable infections included primary varicella infection in 1 patient and h
 
 ## 8.5 Geriatric Use
 
-In rheumatoid arthritis and plaque psoriasis clinical trials, no overall differences were observed in effectiveness or safety in 181 patients with rheumatoid arthritis and 75 patients with plaque psoriasis, aged 65 or older who received REMICADE, compared to younger patients - although the incidence of serious adverse reactions in patients aged 65 or older was higher in both REMICADE and control groups compared to younger patients.
+In rheumatoid arthritis and plaque psoriasis clinical trials, no overall differences were observed in effectiveness or safety in 181 patients with rheumatoid arthritis and 75 patients with plaque psoriasis, aged 65 or older who received REMICADE, compared to younger patients-although the incidence of serious adverse reactions in patients aged 65 or older was higher in both REMICADE and control groups compared to younger patients.
 In Crohn's disease, ulcerative colitis, ankylosing spondylitis and psoriatic arthritis studies, there were insufficient numbers of patients aged 65 and over to determine whether they respond differently from patients aged 18 to 65.
 There is a greater incidence of infections in the elderly population in general.
 The incidence of serious infections in REMICADE-treated patients 65 years and older was greater than in those under 65 years of age; therefore caution should be used in treating the elderly [see Adverse Reactions (6.1)].

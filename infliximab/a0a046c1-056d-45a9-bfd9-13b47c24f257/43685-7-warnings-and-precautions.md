@@ -23,7 +23,6 @@ Cases of reactivation of tuberculosis or new tuberculosis infections have been o
 Cases of active tuberculosis have also occurred in patients being treated with REMICADE during treatment for latent tuberculosis.
 
 Patients should be evaluated for tuberculosis risk factors and tested for latent infection prior to initiating REMICADE and periodically during therapy.
-
 Treatment of latent tuberculosis infection prior to therapy with TNF blocking agents has been shown to reduce the risk of tuberculosis reactivation during therapy.
 Induration of 5 mm or greater with tuberculin skin testing should be considered a positive test result when assessing if treatment for latent tuberculosis is needed prior to initiating REMICADE, even for patients previously vaccinated with Bacille Calmette-Guérin (BCG).
 
@@ -49,7 +48,7 @@ When feasible, the decision to administer empiric antifungal therapy in these pa
 
 ## 5.2 Malignancies
 
-Malignancies, some fatal, have been reported among children, adolescents and young adults who received treatment with TNF-blocking agents (initiation of therapy ≤ 18 years of age), including REMICADE.
+Malignancies, some fatal, have been reported among children, adolescents and young adults who received treatment with TNF-blocking agents (initiation of therapy ≤18 years of age), including REMICADE.
 Approximately half of these cases were lymphomas, including Hodgkin's and non-Hodgkin's lymphoma.
 The other cases represented a variety of malignancies, including rare malignancies that are usually associated with immunosuppression and malignancies that are not usually observed in children and adolescents.
 The malignancies occurred after a median of 30 months (range 1 to 84 months) after the first dose of TNF blocker therapy.
@@ -66,7 +65,7 @@ Patients with Crohn's disease, rheumatoid arthritis or plaque psoriasis, particu
 Cases of acute and chronic leukemia have been reported with postmarketing TNF-blocker use in rheumatoid arthritis and other indications.
 Even in the absence of TNF blocker therapy, patients with rheumatoid arthritis may be at a higher risk (approximately 2-fold) than the general population for the development of leukemia.
 
-Hepatosplenic T-cell lymphoma (HSTCL)
+Hepatosplenic T-cell Lymphoma (HSTCL)
 
 Postmarketing cases of hepatosplenic T-cell lymphoma (HSTCL), a rare type of T-cell lymphoma, have been reported in patients treated with TNF blockers including REMICADE.
 These cases have had a very aggressive disease course and have been fatal.
@@ -75,10 +74,16 @@ The majority of reported REMICADE cases have occurred in patients with Crohn's d
 It is uncertain whether the occurrence of HSTCL is related to TNF-blockers or TNF-blockers in combination with these other immunosuppressants.
 When treating patients, consideration of whether to use REMICADE alone or in combination with other immunosuppressants such as azathioprine or 6-mercaptopurine should take into account a possibility that there is a higher risk of HSTCL with combination therapy versus an observed increased risk of immunogenicity and hypersensitivity reactions with REMICADE monotherapy from the clinical trial data [see Warnings and Precautions (5.7) and Adverse Reactions (6.1)].
 
-Skin cancer
+Skin Cancer
 
 Melanoma and Merkel cell carcinoma have been reported in patients treated with TNF blocker therapy, including REMICADE [see Adverse Reactions (6.2)].
 Periodic skin examination is recommended for all patients, particularly those with risk factors for skin cancer.
+
+Cervical Cancer
+
+A population-based retrospective cohort study using data from Swedish national health registries found a 2 to 3 fold increase in the incidence of invasive cervical cancer in women with rheumatoid arthritis treated with infliximab compared to biologics-naïve patients or the general population, particularly those over 60 years of age.
+A causal relationship between infliximab and cervical cancer cannot be excluded.
+Periodic screening should continue in women treated with REMICADE [see Adverse Reactions (6.2)].
 
 Other Malignancies
 
@@ -113,7 +118,7 @@ Therefore, prescribers should exercise caution when considering resumption of TN
 
 ## 5.4 Hepatotoxicity
 
-Severe hepatic reactions, including acute liver failure, jaundice, hepatitis and cholestasis, have been reported rarely in postmarketing data in patients receiving REMICADE.
+Severe hepatic reactions, including acute liver failure, jaundice, hepatitis and cholestasis, have been reported in postmarketing data in patients receiving REMICADE.
 Autoimmune hepatitis has been diagnosed in some of these cases.
 Severe hepatic reactions occurred between 2 weeks to more than 1 year after initiation of REMICADE; elevations in hepatic aminotransferase levels were not noted prior to discovery of the liver injury in many of these cases.
 Some of these cases were fatal or necessitated liver transplantation.
@@ -126,7 +131,7 @@ In clinical trials, mild or moderate elevations of ALT and AST have been observe
 REMICADE has been associated with adverse outcomes in patients with heart failure, and should be used in patients with heart failure only after consideration of other treatment options.
 The results of a randomized study evaluating the use of REMICADE in patients with heart failure (NYHA Functional Class III/IV) suggested higher mortality in patients who received 10 mg/kg REMICADE, and higher rates of cardiovascular adverse events at doses of 5 mg/kg and 10 mg/kg.
 There have been post-marketing reports of worsening heart failure, with and without identifiable precipitating factors, in patients taking REMICADE.
-There have also been rare post-marketing reports of new onset heart failure, including heart failure in patients without known pre-existing cardiovascular disease.
+There have also been post-marketing reports of new onset heart failure, including heart failure in patients without known pre-existing cardiovascular disease.
 Some of these patients have been under 50 years of age.
 If a decision is made to administer REMICADE to patients with heart failure, they should be closely monitored during therapy, and REMICADE should be discontinued if new or worsening symptoms of heart failure appear [see Contraindications (4) and Adverse Reactions (6.1)].
 
@@ -141,7 +146,7 @@ Discontinuation of REMICADE therapy should be considered in patients who develop
 ## 5.7 Hypersensitivity
 
 REMICADE has been associated with hypersensitivity reactions that vary in their time of onset and required hospitalization in some cases.
-Most hypersensitivity reactions, which include urticaria, dyspnea, and/or hypotension, have occurred during or within 2 hours of REMICADE infusion.
+Most hypersensitivity reactions, which include anaphylaxis, urticaria, dyspnea, and/or hypotension, have occurred during or within 2 hours of REMICADE infusion.
 
 However, in some cases, serum sickness-like reactions have been observed in patients after initial REMICADE therapy (i.e., as early as after the second dose), and when REMICADE therapy was reinstituted following an extended period without REMICADE treatment.
 Symptoms associated with these reactions include fever, rash, headache, sore throat, myalgias, polyarthralgias, hand and facial edema and/or dysphagia.
@@ -154,37 +159,44 @@ In rheumatoid arthritis, Crohn's disease and psoriasis clinical trials, re-admin
 In general, the benefit-risk of re-administration of REMICADE after a period of no-treatment, especially as a re-induction regimen given at weeks 0, 2 and 6, should be carefully considered.
 In the case where REMICADE maintenance therapy for psoriasis is interrupted, REMICADE should be reinitiated as a single dose followed by maintenance therapy.
 
-## 5.8 Neurologic Reactions
+## 5.8 Cardiovascular and Cerebrovascular Reactions During and After Infusion
 
-REMICADE and other agents that inhibit TNF have been associated in rare cases with CNS manifestation of systemic vasculitis, seizure and new onset or exacerbation of clinical symptoms and/or radiographic evidence of central nervous system demyelinating disorders, including multiple sclerosis and optic neuritis, and peripheral demyelinating disorders, including Guillain-Barré syndrome.
+Serious cerebrovascular accidents, myocardial ischemia/infarction (some fatal), hypotension, hypertension, and arrhythmias have been reported during and within 24 hours of initiation of REMICADE infusion.
+Cases of transient visual loss have been reported during or within 2 hours of infusion of REMICADE.
+Monitor patients during infusion and if serious reaction occurs, discontinue infusion.
+Further management of reactions should be dictated by signs and symptoms [See Adverse Reactions (6)].
+
+## 5.9 Neurologic Reactions
+
+REMICADE and other agents that inhibit TNF have been associated with CNS manifestation of systemic vasculitis, seizure and new onset or exacerbation of clinical symptoms and/or radiographic evidence of central nervous system demyelinating disorders, including multiple sclerosis and optic neuritis, and peripheral demyelinating disorders, including Guillain-Barré syndrome.
 Prescribers should exercise caution in considering the use of REMICADE in patients with these neurologic disorders and should consider discontinuation of REMICADE if these disorders develop.
 
-## 5.9 Use with Anakinra
+## 5.10 Use with Anakinra
 
 Serious infections and neutropenia were seen in clinical studies with concurrent use of anakinra and another TNFα-blocking agent, etanercept, with no added clinical benefit compared to etanercept alone.
 Because of the nature of the adverse reactions seen with the combination of etanercept and anakinra therapy, similar toxicities may also result from the combination of anakinra and other TNFα-blocking agents.
 Therefore, the combination of REMICADE and anakinra is not recommended.
 
-## 5.10 Use with Abatacept
+## 5.11 Use with Abatacept
 
 In clinical studies, concurrent administration of TNF-blocking agents and abatacept have been associated with an increased risk of infections including serious infections compared with TNF-blocking agents alone, without increased clinical benefit.
 Therefore, the combination of REMICADE and abatacept is not recommended [see Drug Interactions (7.1)].
 
-## 5.11 Concurrent Administration with other Biological Therapeutics
+## 5.12 Concurrent Administration with Other Biological Therapeutics
 
 There is insufficient information regarding the concomitant use of REMICADE with other biological therapeutics used to treat the same conditions as REMICADE.
 The concomitant use of REMICADE with these biologics is not recommended because of the possibility of an increased risk of infection [see Drug Interactions (7.3)].
 
-## 5.12 Switching between Biological Disease-Modifying Antirheumatic Drugs (DMARDs)
+## 5.13 Switching Between Biological Disease-Modifying Antirheumatic Drugs (DMARDs)
 
 Care should be taken when switching from one biologic to another, since overlapping biological activity may further increase the risk of infection.
 
-## 5.13 Autoimmunity
+## 5.14 Autoimmunity
 
-Treatment with REMICADE may result in the formation of autoantibodies and, rarely, in the development of a lupus-like syndrome.
+Treatment with REMICADE may result in the formation of autoantibodies and in the development of a lupus-like syndrome.
 If a patient develops symptoms suggestive of a lupus-like syndrome following treatment with REMICADE, treatment should be discontinued [see Adverse Reactions (6.1)].
 
-## 5.14 Live Vaccines/Therapeutic Infectious Agents
+## 5.15 Live Vaccines/Therapeutic Infectious Agents
 
 In patients receiving anti-TNF therapy, limited data are available on the response to vaccination with live vaccines or on the secondary transmission of infection by live vaccines.
 Use of live vaccines can result in clinical infections, including disseminated infections.

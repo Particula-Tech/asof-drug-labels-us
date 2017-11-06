@@ -19,22 +19,23 @@ At Week 30, a significantly greater proportion of these patients in the 5 mg/kg 
 
 Additionally, a significantly greater proportion of patients in the 5 mg/kg and 10 mg/kg REMICADE maintenance groups were in clinical remission and were able to discontinue corticosteroid use compared to patients in the placebo maintenance group at Week 54 (Table 3).
 
-Table 3 Clinical remission and steroid withdrawal
+Table 3: Clinical remission and steroid withdrawal
 
-|  | 5 mg/kg | 10 mg/kg |  |
+|  |  | 5 mg/kg | 10 mg/kg |
 | --- | --- | --- | --- |
 |  | Single 5-mg/kg DoseREMICADE at Week 0 | Three-Dose InductionREMICADE 5 mg/kg administered at Weeks 0, 2 and 6 |  |
-|  | Placebo Maintenance | REMICADE Maintenance q 8 wks |  |
+|  | Placebo Maintenance | REMICADE Maintenance q8 wks |  |
 | Week 30 | 25/102 | 41/104 | 48/105 |
 | Clinical remission | 25% | 39% | 46% |
 | P-valueP-values represent pairwise comparisons to placebo |  | 0.022 | 0.001 |
-| Week 54 |  |  |  |
-| Patients in remission able to | 6/54 | 14/56 | 18/53 |
-| discontinue corticosteroid useOf those receiving corticosteroids at baseline | 11% | 25% | 34% |
+| Week 54 | 6/54 | 14/56 | 18/53 |
+| Patients in remission able to discontinue corticosteroid useOf those receiving corticosteroids at baseline | 11% | 25% | 34% |
 | P-value |  | 0.059 | 0.005 |
 
 Patients in the REMICADE maintenance groups (5 mg/kg and 10 mg/kg) had a longer time to loss of response than patients in the placebo maintenance group (Figure 1).
 At Weeks 30 and 54, significant improvement from baseline was seen among the 5 mg/kg and 10 mg/kg REMICADE-treated groups compared to the placebo group in the disease-specific inflammatory bowel disease questionnaire (IBDQ), particularly the bowel and systemic components, and in the physical component summary score of the general health-related quality of life questionnaire SF-36.
+
+Figure 1: Kaplan-Meier estimate of the proportion of patients who had not lost response through Week 54
 
 In a subset of 78 patients who had mucosal ulceration at baseline and who participated in an endoscopic substudy, 13 of 43 patients in the REMICADE maintenance group had endoscopic evidence of mucosal healing compared to 1 of 28 patients in the placebo group at Week 10.
 Of the REMICADE-treated patients showing mucosal healing at Week 10, 9 of 12 patients also showed mucosal healing at Week 54.
@@ -70,6 +71,8 @@ Patients randomized to REMICADE maintenance had a longer time to loss of fistula
 At Week 54, 38% (33/87) of REMICADE-treated patients had no draining fistulas compared with 22% (20/90) of placebo-treated patients (P=0.02).
 Compared to placebo maintenance, patients on REMICADE maintenance had a trend toward fewer hospitalizations.
 
+Figure 2: Life table estimates of the proportion of patients who had not lost fistula response through Week 54
+
 Patients who achieved a fistula response and subsequently lost response were eligible to receive REMICADE maintenance therapy at a dose that was 5 mg/kg higher than the dose to which they were randomized.
 Of the placebo maintenance patients, 66% (25/38) responded to 5 mg/kg REMICADE, and 57% (12/21) of REMICADE maintenance patients responded to 10 mg/kg.
 
@@ -96,7 +99,7 @@ At both Week 30 and Week 54, the proportion of patients in clinical remission wa
 For patients in Study Peds Crohn's receiving corticosteroids at baseline, the proportion of patients able to discontinue corticosteroids while in remission at Week 30 was 46% for the every 8-week maintenance group and 33% for the every 12-week maintenance group.
 At Week 54, the proportion of patients able to discontinue corticosteroids while in remission was 46% for the every 8-week maintenance group and 17% for the every 12-week maintenance group.
 
-Table 4 Response and remission in study peds Crohn's
+Table 4: Response and remission in study peds Crohn's
 
 |  | Treatment Group | Treatment Group |
 | --- | --- | --- |
@@ -134,7 +137,7 @@ Of patients on corticosteroids at baseline, greater proportions of patients in t
 In Study UC I, this effect was maintained through Week 54 (21% in REMICADE treatment groups vs. 9% in placebo group).
 The REMICADE-associated response was generally similar in the 5 mg/kg and 10 mg/kg dose groups.
 
-Table 5 Response, remission and mucosal healing in ulcerative colitis studies
+Table 5: Response, remission and mucosal healing in ulcerative colitis studies
 
 |  | Placebo | 5 mg/kg REMICADE | 10 mg/kg REMICADE | Placebo | 5 mg/kg REMICADE | 10 mg/kg REMICADE |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -145,14 +148,14 @@ Table 5 Response, remission and mucosal healing in ulcerative colitis studies
 | Week 30 | 30% | 52% | 51%P<0.01 | 26% | 47% | 60% |
 | Week 54 | 20% | 45% | 44% | NA | NA | NA |
 | Sustained Response |  |  |  |  |  |  |
-| (Clinical response at both Week 8 and 30) | 23% | 49% | 46% | 15% | 41% | 53% |
+| (Clinical response at both Weeks 8 and 30) | 23% | 49% | 46% | 15% | 41% | 53% |
 | (Clinical response at Weeks 8, 30, and 54) | 14% | 39% | 37% | NA | NA | NA |
 | Clinical RemissionDefined as a Mayo score ≤2 points, no individual subscore >1., |  |  |  |  |  |  |
 | Week 8 | 15% | 39% | 32% | 6% | 34% | 28% |
 | Week 30 | 16% | 34% | 37% | 11% | 26% | 36% |
 | Week 54 | 17% | 35% | 34% | NA | NA | NA |
 | Sustained Remission |  |  |  |  |  |  |
-| (Clinical remission at both Week 8 and 30) | 8% | 23% | 26% | 2% | 15% | 23% |
+| (Clinical remission at both Weeks 8 and 30) | 8% | 23% | 26% | 2% | 15% | 23% |
 | (Clinical remission at Weeks 8, 30 and 54) | 7% | 20% | 20% | NA | NA | NA |
 | Mucosal HealingDefined as a 0 or 1 on the endoscopy subscore of the Mayo score., |  |  |  |  |  |  |
 | Week 8 | 34% | 62% | 59% | 31% | 60% | 62% |
@@ -161,7 +164,7 @@ Table 5 Response, remission and mucosal healing in ulcerative colitis studies
 
 The improvement with REMICADE was consistent across all Mayo subscores through Week 54 (Study UC I shown in Table 6; Study UC II through Week 30 was similar).
 
-Table 6 Proportion of patients in Study UC I with Mayo subscores indicating inactive or mild disease through Week 54
+Table 6: Proportion of patients in Study UC I with Mayo subscores indicating inactive or mild disease through Week 54
 
 |  | (n=121) | (n=121) | (n=122) |
 | --- | --- | --- | --- |
@@ -192,7 +195,7 @@ Table 6 Proportion of patients in Study UC I with Mayo subscores indicating inac
 ## 14.4 Pediatric Ulcerative Colitis
 
 The safety and effectiveness of REMICADE for reducing signs and symptoms and inducing and maintaining clinical remission in pediatric patients aged 6 years and older with moderately to severely active ulcerative colitis who have had an inadequate response to conventional therapy are supported by evidence from adequate and well-controlled studies of REMICADE in adults.
-Additional safety and pharmacokinetic data were collected in an open-label pediatric UC trial in 60 pediatric patients aged 6 through 17 years (median age 14.5 years) with moderately to severely active ulcerative colitis (Mayo score of 6 to 12; Endoscopic subscore ≥ 2) and an inadequate response to conventional therapies.
+Additional safety and pharmacokinetic data were collected in an open-label pediatric UC trial in 60 pediatric patients aged 6 through 17 years (median age 14.5 years) with moderately to severely active ulcerative colitis (Mayo score of 6 to 12; Endoscopic subscore ≥2) and an inadequate response to conventional therapies.
 At baseline, the median Mayo score was 8, 53% of patients were receiving immunomodulator therapy (6-MP/AZA/MTX), and 62% of patients were receiving corticosteroids (median dose 0.5 mg/kg/day in prednisone equivalents).
 Discontinuation of immunomodulators and corticosteroid taper were permitted after Week 0.
 
@@ -201,7 +204,7 @@ Patients who did not respond to REMICADE at Week 8 received no further REMICADE 
 At Week 8, 45 patients were randomized to a maintenance regimen of 5 mg/kg REMICADE given either every 8 weeks through Week 46 or every 12 weeks through Week 42.
 Patients were allowed to change to a higher dose and/or more frequent administration schedule if they experienced loss of response.
 
-Clinical response at Week 8 was defined as a decrease from baseline in the Mayo score by ≥ 30% and ≥ 3 points, including a decrease in the rectal bleeding subscore by ≥ 1 points or achievement of a rectal bleeding subscore of 0 or 1.
+Clinical response at Week 8 was defined as a decrease from baseline in the Mayo score by ≥30% and ≥3 points, including a decrease in the rectal bleeding subscore by ≥1 points or achievement of a rectal bleeding subscore of 0 or 1.
 
 Clinical remission at Week 8 was measured by the Mayo score, defined as a Mayo score of ≤2 points with no individual subscore >1.
 Clinical remission was also assessed at Week 8 and Week 54 using the Pediatric Ulcerative Colitis Activity Index (PUCAI)6 score and was defined by a PUCAI score of <10 points.
@@ -234,7 +237,7 @@ At randomization, all patients received MTX (optimized to 20 mg/wk by Week 8) an
 
 Data on use of REMICADE without concurrent MTX are limited [see Adverse Reactions (6.1)].
 
-Clinical response
+Clinical Response
 
 In Study RA I, all doses/schedules of REMICADE + MTX resulted in improvement in signs and symptoms as measured by the American College of Rheumatology response criteria (ACR 20) with a higher percentage of patients achieving an ACR 20, 50 and 70 compared to placebo + MTX (Table 7).
 This improvement was observed at Week 2 and maintained through Week 102.
@@ -244,30 +247,31 @@ More patients treated with REMICADE reached a major clinical response than place
 In Study RA II, after 54 weeks of treatment, both doses of REMICADE + MTX resulted in statistically significantly greater response in signs and symptoms compared to MTX alone as measured by the proportion of patients achieving ACR 20, 50 and 70 responses (Table 7).
 More patients treated with REMICADE reached a major clinical response than placebo-treated patients (Table 7).
 
-Table 7 ACR response (percent of patients)
+Table 7: ACR response (percent of patients)
 
-| Response | Placebo + MTX (n=88) | q 8 wks (n=86) | q 4 wks (n=86) | q 8 wks (n=87) | q 4 wks (n=81) |  | Placebo + MTX (n=274) | q 8 wks (n=351) | q 8 wks (n=355) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Study RA I |  |  |  |  |  | Study RA II |  |  |
-|  |  | REMICADE + MTX |  |  |  |  |  | REMICADE + MTX |  |
-|  |  | 3 mg/kg |  | 10 mg/kg |  |  |  | 3 mg/kg | 6 mg/kg |
-| ACR 20 |  |  |  |  |  |  |  |  |  |
-| Week 30 | 20% | 50%P≤ 0.001 | 50% | 52% | 58% |  | N/A | N/A | N/A |
-| Week 54 | 17% | 42% | 48% | 59% | 59% |  | 54% | 62%P<0.05 | 66% |
-| ACR 50 |  |  |  |  |  |  |  |  |  |
-| Week 30 | 5% | 27% | 29% | 31% | 26% |  | N/A | N/A | N/A |
-| Week 54 | 9% | 21% | 34% | 40% | 38% |  | 32% | 46% | 50% |
-| ACR 70 |  |  |  |  |  |  |  |  |  |
-| Week 30 | 0% | 8%P<0.01 | 11% | 18% | 11% |  | N/A | N/A | N/A |
-| Week 54 | 2% | 11% | 18% | 26% | 19% |  | 21% | 33% | 37% |
-| Major clinical responseA major clinical response was defined as a 70% ACR response for 6 consecutive months (consecutive visits spanning at least 26 weeks) through week 102 for Study RA I and week 54 for Study RA II. | 0% | 7% | 8% | 15% | 6% |  | 8% | 12% | 17% |
+|  | (n=88) | (n=86) | (n=86) | (n=87) | (n=81) | (n=274) | (n=351) | (n=355) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Study RA I |  |  |  |  | Study RA II |  |  |
+|  |  | REMICADE + MTX |  |  |  |  | REMICADE + MTX |  |
+|  |  | 3 mg/kg |  | 10 mg/kg |  |  | 3 mg/kg | 6 mg/kg |
+| Response | Placebo + MTX | q8 wks | q4 wks | q8 wks | q4 wks | Placebo + MTX | q8 wks | q8 wks |
+| ACR 20 |  |  |  |  |  |  |  |  |
+| Week 30 | 20% | 50%P≤0.001 | 50% | 52% | 58% | N/A | N/A | N/A |
+| Week 54 | 17% | 42% | 48% | 59% | 59% | 54% | 62%P<0.05 | 66% |
+| ACR 50 |  |  |  |  |  |  |  |  |
+| Week 30 | 5% | 27% | 29% | 31% | 26% | N/A | N/A | N/A |
+| Week 54 | 9% | 21% | 34% | 40% | 38% | 32% | 46% | 50% |
+| ACR 70 |  |  |  |  |  |  |  |  |
+| Week 30 | 0% | 8%P<0.01 | 11% | 18% | 11% | N/A | N/A | N/A |
+| Week 54 | 2% | 11% | 18% | 26% | 19% | 21% | 33% | 37% |
+| Major clinical responseA major clinical response was defined as a 70% ACR response for 6 consecutive months (consecutive visits spanning at least 26 weeks) through Week 102 for Study RA I and Week 54 for Study RA II. | 0% | 7% | 8% | 15% | 6% | 8% | 12% | 17% |
 
-Table 8 Components of ACR 20 at baseline and 54 weeks (Study RA I)
+Table 8: Components of ACR 20 at baseline and 54 weeks (Study RA I)
 
-| Parameter (medians) | Baseline | Week 54 | Baseline | Week 54 |
+|  | Baseline | Week 54 | Baseline | Week 54 |
 | --- | --- | --- | --- | --- |
 |  | Placebo + MTX |  | REMICADE + MTXAll doses/schedules of REMICADE + MTX |  |
-|  | (n=88) |  | (n=340) |  |
+| Parameter (medians) | (n=88) |  | (n=340) |  |
 | No. of Tender Joints | 24 | 16 | 32 | 8 |
 | No. of Swollen Joints | 19 | 13 | 20 | 7 |
 | PainVisual Analog Scale (0=best, 10=worst) | 6.7 | 6.1 | 6.8 | 3.3 |
@@ -276,7 +280,7 @@ Table 8 Components of ACR 20 at baseline and 54 weeks (Study RA I)
 | Disability Index (HAQ-DI)Health Assessment Questionnaire, measurement of 8 categories: dressing and grooming, arising, eating, walking, hygiene, reach, grip, and activities (0=best, 3=worst) | 1.8 | 1.5 | 1.8 | 1.3 |
 | CRP (mg/dL) | 3.0 | 2.3 | 2.4 | 0.6 |
 
-Radiographic response
+Radiographic Response
 
 Structural damage in both hands and feet was assessed radiographically at Week 54 by the change from baseline in the van der Heijde-modified Sharp (vdH-S) score, a composite score of structural damage that measures the number and size of joint erosions and the degree of joint space narrowing in hands/wrists and feet.3
 
@@ -286,39 +290,41 @@ The inhibition of progression of structural damage was observed at 54 weeks (Tab
 In Study RA II, >90% of patients had at least 2 evaluable X-rays.
 Inhibition of progression of structural damage was observed at Weeks 30 and 54 (Table 9) in the REMICADE + MTX groups compared to MTX alone.
 Patients treated with REMICADE + MTX demonstrated less progression of structural damage compared to MTX alone, whether baseline acute-phase reactants (ESR and CRP) were normal or elevated: patients with elevated baseline acute-phase reactants treated with MTX alone demonstrated a mean progression in vdH-S score of 4.2 units compared to patients treated with REMICADE + MTX who demonstrated 0.5 units of progression; patients with normal baseline acute phase reactants treated with MTX alone demonstrated a mean progression in vdH-S score of 1.8 units compared to REMICADE + MTX who demonstrated 0.2 units of progression.
-Of patients receiving REMICADE + MTX, 59% had no progression (vdH-S score ≤ 0 unit) of structural damage compared to 45% of patients receiving MTX alone.
+Of patients receiving REMICADE + MTX, 59% had no progression (vdH-S score ≤0 unit) of structural damage compared to 45% of patients receiving MTX alone.
 In a subset of patients who began the study without erosions, REMICADE + MTX maintained an erosion-free state at 1 year in a greater proportion of patients than MTX alone, 79% (77/98) vs. 58% (23/40), respectively (P<0.01).
 Fewer patients in the REMICADE + MTX groups (47%) developed erosions in uninvolved joints compared to MTX alone (59%).
 
-Table 9 Radiographic change from baseline to Week 54
+Table 9: Radiographic change from baseline to Week 54
 
-|  | Placebo + MTX (n=64) | 3 mg/kg q 8 wks (n=71) | 10 mg/kg q 8 wks (n=77) |  | Placebo + MTX (n=282) | 3 mg/kg q 8 wks (n=359) | 6 mg/kg q 8 wks (n=363) |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Study RA I |  |  |  | Study RA II |  |  |
-|  |  | REMICADE + MTX |  |  |  | REMICADE + MTX |  |
-| Total Score |  |  |  |  |  |  |  |
-| Baseline |  |  |  |  |  |  |  |
-| Mean | 79 | 78 | 65 |  | 11.3 | 11.6 | 11.2 |
-| Median | 55 | 57 | 56 |  | 5.1 | 5.2 | 5.3 |
-| Change from baseline |  |  |  |  |  |  |  |
-| Mean | 6.9 | 1.3P<0.001 for each outcome against placebo. | 0.2 |  | 3.7 | 0.4 | 0.5 |
-| Median | 4.0 | 0.5 | 0.5 |  | 0.4 | 0.0 | 0.0 |
-| Erosion Score |  |  |  |  |  |  |  |
-| Baseline |  |  |  |  |  |  |  |
-| Mean | 44 | 44 | 33 |  | 8.3 | 8.8 | 8.3 |
-| Median | 25 | 29 | 22 |  | 3.0 | 3.8 | 3.8 |
-| Change from baseline |  |  |  |  |  |  |  |
-| Mean | 4.1 | 0.2 | 0.2 |  | 3.0 | 0.3 | 0.1 |
-| Median | 2.0 | 0.0 | 0.5 |  | 0.3 | 0.0 | 0.0 |
-| JSN Score |  |  |  |  |  |  |  |
-| Baseline |  |  |  |  |  |  |  |
-| Mean | 36 | 34 | 31 |  | 3.0 | 2.9 | 2.9 |
-| Median | 26 | 29 | 24 |  | 1.0 | 1.0 | 1.0 |
-| Change from baseline |  |  |  |  |  |  |  |
-| Mean | 2.9 | 1.1 | 0.0 |  | 0.6 | 0.1 | 0.2 |
-| Median | 1.5 | 0.0 | 0.0 |  | 0.0 | 0.0 | 0.0 |
+|  | (n=64) | (n=71) | (n=77) | (n=282) | (n=359) | (n=363) |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Study RA I |  |  | Study RA II |  |  |
+|  |  | REMICADE + MTX |  |  | REMICADE + MTX |  |
+|  |  | 3 mg/kg | 10 mg/kg |  | 3 mg/kg | 6 mg/kg |
+|  | Placebo + MTX | q8 wks | q8 wks | Placebo + MTX | q8 wks | q8 wks |
+| Total Score |  |  |  |  |  |  |
+| Baseline |  |  |  |  |  |  |
+| Mean | 79 | 78 | 65 | 11.3 | 11.6 | 11.2 |
+| Median | 55 | 57 | 56 | 5.1 | 5.2 | 5.3 |
+| Change from baseline |  |  |  |  |  |  |
+| Mean | 6.9 | 1.3P<0.001 for each outcome against placebo. | 0.2 | 3.7 | 0.4 | 0.5 |
+| Median | 4.0 | 0.5 | 0.5 | 0.4 | 0.0 | 0.0 |
+| Erosion Score |  |  |  |  |  |  |
+| Baseline |  |  |  |  |  |  |
+| Mean | 44 | 44 | 33 | 8.3 | 8.8 | 8.3 |
+| Median | 25 | 29 | 22 | 3.0 | 3.8 | 3.8 |
+| Change from baseline |  |  |  |  |  |  |
+| Mean | 4.1 | 0.2 | 0.2 | 3.0 | 0.3 | 0.1 |
+| Median | 2.0 | 0.0 | 0.5 | 0.3 | 0.0 | 0.0 |
+| JSN Score |  |  |  |  |  |  |
+| Baseline |  |  |  |  |  |  |
+| Mean | 36 | 34 | 31 | 3.0 | 2.9 | 2.9 |
+| Median | 26 | 29 | 24 | 1.0 | 1.0 | 1.0 |
+| Change from baseline |  |  |  |  |  |  |
+| Mean | 2.9 | 1.1 | 0.0 | 0.6 | 0.1 | 0.2 |
+| Median | 1.5 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 
-Physical function response
+Physical Function Response
 
 Physical function and disability were assessed using the Health Assessment Questionnaire (HAQ-DI) and the general health-related quality of life questionnaire SF-36.
 
@@ -340,15 +346,18 @@ Doses of REMICADE 5 mg/kg or placebo were administered intravenously at Weeks 0,
 At 24 weeks, improvement in the signs and symptoms of ankylosing spondylitis, as measured by the proportion of patients achieving a 20% improvement in ASAS response criteria (ASAS 20), was seen in 60% of patients in the REMICADE-treated group vs. 18% of patients in the placebo group (p<0.001).
 Improvement was observed at Week 2 and maintained through Week 24 (Figure 3 and Table 10).
 
+Figure 3: Proportion of patients achieving ASAS 20 response
+
 At 24 weeks, the proportions of patients achieving a 50% and a 70% improvement in the signs and symptoms of ankylosing spondylitis, as measured by ASAS response criteria (ASAS 50 and ASAS 70, respectively), were 44% and 28%, respectively, for patients receiving REMICADE, compared to 9% and 4%, respectively, for patients receiving placebo (P<0.001, REMICADE vs. placebo).
 A low level of disease activity (defined as a value <20 [on a scale of 0–100 mm] in each of the 4 ASAS response parameters) was achieved in 22% of REMICADE-treated patients vs. 1% in placebo-treated patients (P<0.001).
 
-Table 10 Components of ankylosing spondylitis disease activity
+Table 10: Components of ankylosing spondylitis disease activity
 
 |  | Baseline | 24 Weeks | Baseline | 24 Weeks | P-value |
 | --- | --- | --- | --- | --- | --- |
 |  | Placebo (n=78) |  | REMICADE 5 mg/kg (n=201) |  |  |
-| ASAS 20 response Criteria (Mean) |  |  |  |  |  |
+| ASAS 20 response |  |  |  |  |  |
+| Criteria (Mean) |  |  |  |  |  |
 | Patient Global AssessmentMeasured on a VAS with 0="none" and 10="severe" | 6.6 | 6.0 | 6.8 | 3.8 | <0.001 |
 | Spinal pain | 7.3 | 6.5 | 7.6 | 4.0 | <0.001 |
 | BASFIBath Ankylosing Spondylitis Functional Index (BASFI), average of 10 questions | 5.8 | 5.6 | 5.7 | 3.6 | <0.001 |
@@ -376,7 +385,7 @@ At Week 16, placebo patients with <10% improvement from baseline in both swollen
 At Week 24, all placebo-treated patients crossed over to REMICADE induction.
 Dosing continued for all patients through Week 46.
 
-Clinical response
+Clinical Response
 
 Treatment with REMICADE resulted in improvement in signs and symptoms, as assessed by the ACR criteria, with 58% of REMICADE-treated patients achieving ACR 20 at Week 14, compared with 11% of placebo-treated patients (P<0.001).
 The response was similar regardless of concomitant use of methotrexate.
@@ -388,7 +397,7 @@ Compared to placebo, treatment with REMICADE resulted in improvements in the com
 The clinical response was maintained through Week 54.
 Similar ACR responses were observed in an earlier randomized, placebo-controlled study of 104 psoriatic arthritis patients, and the responses were maintained through 98 weeks in an open-label extension phase.
 
-Table 11 Components of ACR 20 and percentage of patients with 1 or more joints with dactylitis and percentage of patients with enthesopathy at baseline and Week 24
+Table 11: Components of ACR 20 and percentage of patients with 1 or more joints with dactylitis and percentage of patients with enthesopathy at baseline and Week 24
 
 |  | Baseline | Week 24 | Baseline | Week 24 |
 | --- | --- | --- | --- | --- |
@@ -408,9 +417,9 @@ Table 11 Components of ACR 20 and percentage of patients with 1 or more joints w
 Improvement in Psoriasis Area and Severity Index (PASI) in psoriatic arthritis patients with baseline body surface area (BSA) ≥3% (n=87 placebo, n=83 REMICADE) was achieved at Week 14, regardless of concomitant methotrexate use, with 64% of REMICADE-treated patients achieving at least 75% improvement from baseline vs. 2% of placebo-treated patients; improvement was observed in some patients as early as Week 2.
 At 6 months, the PASI 75 and PASI 90 responses were achieved by 60% and 39%, respectively, of patients receiving REMICADE compared to 1% and 0%, respectively, of patients receiving placebo.
 The PASI response was generally maintained through Week 54.
-[See also Clinical Studies (14.8)].
+[see Clinical Studies (14.8)].
 
-Radiographic response
+Radiographic Response
 
 Structural damage in both hands and feet was assessed radiographically by the change from baseline in the van der Heijde-Sharp (vdH-S) score, modified by the addition of hand DIP joints.
 The total modified vdH-S score is a composite score of structural damage that measures the number and size of joint erosions and the degree of joint space narrowing (JSN) in the hands and feet.
@@ -420,7 +429,7 @@ The patients in the REMICADE group demonstrated continued inhibition of structur
 Most patients showed little or no change in the vdH-S score during this 12-month study (median change of 0 in both patients who initially received REMICADE or placebo).
 More patients in the placebo group (12%) had readily apparent radiographic progression compared with the REMICADE group (3%).
 
-Physical function
+Physical Function
 
 Physical function status was assessed using the HAQ Disability Index (HAQ-DI) and the SF-36 Health Survey.
 REMICADE-treated patients demonstrated significant improvement in physical function as assessed by HAQ-DI (median percent improvement in HAQ-DI score from baseline to Week 14 and 24 of 43% for REMICADE-treated patients vs 0% for placebo-treated patients).
@@ -466,14 +475,14 @@ Overall lesions were graded with consideration to the percent of body involvemen
 Treatment success, defined as "clear" or "excellent," consisted of some residual pinkness or pigmentation to marked improvement (nearly normal skin texture; some erythema may be present).
 The results of these studies are presented in Table 12.
 
-Table 12 Psoriasis studies I, II, and III, Week 10 percentage of patients who achieved PASI 75 and percentage who achieved treatment "success" with Physician's Global Assessment
+Table 12: Psoriasis studies I, II, and III, Week 10 percentage of patients who achieved PASI 75 and percentage who achieved treatment "success" with Physician's Global Assessment
 
 |  |  | 3 mg/kg | 5 mg/kg |
 | --- | --- | --- | --- |
 |  | Placebo | REMICADE |  |
-| Psoriasis Study I - patients randomizedPatients with missing data at Week 10 were considered as nonresponders. | 77 | --- | 301 |
-| PASI 75 | 2 (3%) | --- | 242 (80%)P<0.001 compared with placebo |
-| sPGA | 3 (4%) | --- | 242 (80%) |
+| Psoriasis Study I - patients randomizedPatients with missing data at Week 10 were considered as nonresponders. | 77 | — | 301 |
+| PASI 75 | 2 (3%) | — | 242 (80%)P<0.001 compared with placebo |
+| sPGA | 3 (4%) | — | 242 (80%) |
 | Psoriasis Study II - patients randomized | 208 | 313 | 314 |
 | PASI 75 | 4 (2%) | 220 (70%) | 237 (75%) |
 | rPGA | 2 (1%) | 217 (69%) | 234 (75%) |
@@ -489,7 +498,7 @@ In Study II, among patients with more extensive psoriasis who had failed or were
 Maintenance of response was studied in a subset of 292 and 297 REMICADE-treated patients in the 3 mg/kg and 5 mg/kg groups; respectively, in Study II.
 Stratified by PASI response at Week 10 and investigational site, patients in the active treatment groups were re-randomized to either a scheduled or as needed maintenance (PRN) therapy, beginning on Week 14.
 
-The groups that received a maintenance dose every 8 weeks appear to have a greater percentage of patients maintaining a PASI 75 through week 50 as compared to patients who received the as-needed or PRN doses, and the best response was maintained with the 5 mg/kg every 8-week dose.
+The groups that received a maintenance dose every 8 weeks appear to have a greater percentage of patients maintaining a PASI 75 through Week 50 as compared to patients who received the as-needed or PRN doses, and the best response was maintained with the 5 mg/kg every 8-week dose.
 These results are shown in Figure 4.
 At Week 46, when REMICADE serum concentrations were at trough level, in the every 8-week dose group, 54% of patients in the 5 mg/kg group compared to 36% in the 3 mg/kg group achieved PASI 75.
 The lower percentage of PASI 75 responders in the 3 mg/kg every 8-week dose group compared to the 5 mg/kg group was associated with a lower percentage of patients with detectable trough serum infliximab levels.
@@ -497,5 +506,7 @@ This may be related in part to higher antibody rates [see Adverse Reactions (6.1
 In addition, in a subset of patients who had achieved a response at Week 10, maintenance of response appears to be greater in patients who received REMICADE every 8 weeks at the 5 mg/kg dose.
 Regardless of whether the maintenance doses are PRN or every 8 weeks, there is a decline in response in a subpopulation of patients in each group over time.
 The results of Study I through Week 50 in the 5 mg/kg every 8 weeks maintenance dose group were similar to the results from Study II.
+
+Figure 4: Proportion of patients achieving ≥75% improvement in PASI from baseline through Week 50; patients randomized at Week 14
 
 Efficacy and safety of REMICADE treatment beyond 50 weeks have not been evaluated in patients with plaque psoriasis.

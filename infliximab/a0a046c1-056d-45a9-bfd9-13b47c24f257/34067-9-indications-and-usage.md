@@ -33,4 +33,4 @@ REMICADE is indicated for reducing signs and symptoms of active arthritis, inhib
 ## 1.8 Plaque Psoriasis
 
 REMICADE is indicated for the treatment of adult patients with chronic severe (i.e., extensive and/or disabling) plaque psoriasis who are candidates for systemic therapy and when other systemic therapies are medically less appropriate.
-REMICADE should only be administered to patients who will be closely monitored and have regular follow-up visits with a physician [see Boxed Warnings, Warnings and Precautions (5)].
+REMICADE should only be administered to patients who will be closely monitored and have regular follow-up visits with a physician [see Boxed Warning, Warnings and Precautions (5)].
