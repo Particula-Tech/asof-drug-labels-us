@@ -88,4 +88,4 @@ Dysuria, urinary retention.
 
 Respiratory, Thoracic, and Mediastinal Disorders
 
-Paradoxical bronchospasm.
+Dysphonia, paradoxical bronchospasm.

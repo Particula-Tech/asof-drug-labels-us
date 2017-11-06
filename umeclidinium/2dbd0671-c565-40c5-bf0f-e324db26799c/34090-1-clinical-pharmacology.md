@@ -14,7 +14,7 @@ Umeclidinium is a long-acting antimuscarinic agent, which is often referred to a
 It has similar affinity to the subtypes of muscarinic receptors M1 to M5.
 In the airways, it exhibits pharmacological effects through inhibition of M3 receptor at the smooth muscle leading to bronchodilation.
 The competitive and reversible nature of antagonism was shown with human and animal origin receptors and isolated organ preparations.
-In preclinical in vitro as well as in vivo studies, prevention of methacholine and acetylcholine-induced bronchoconstrictive effects was dose-dependent and lasted longer than 24 hours.
+In preclinical in vitro as well as in vivo studies, prevention of methacholine- and acetylcholine-induced bronchoconstrictive effects was dose-dependent and lasted longer than 24 hours.
 The clinical relevance of these findings is unknown.
 The bronchodilation following inhalation of umeclidinium is predominantly a site-specific effect.
 
@@ -27,7 +27,7 @@ The clinical relevance of this in vitro finding is unknown.
 Although beta2-receptors are the predominant adrenergic receptors in bronchial smooth muscle and beta1-receptors are the predominant receptors in the heart, there are also beta2-receptors in the human heart comprising 10% to 50% of the total beta-adrenergic receptors.
 The precise function of these receptors has not been established, but they raise the possibility that even highly selective beta2-agonists may have cardiac effects.
 
-The pharmacologic effects of beta2-adrenergic agonist drugs, including vilanterol, are at least in part attributable to stimulation of intracellular adenyl cyclase, the enzyme that catalyzes the conversion of adenosine triphosphate (ATP) to cyclic-3’,5’-adenosine monophosphate (cyclic AMP).
+The pharmacologic effects of beta2-adrenergic agonist drugs, including vilanterol, are at least in part attributable to stimulation of intracellular adenyl cyclase, the enzyme that catalyzes the conversion of adenosine triphosphate (ATP) to cyclic-3′,5′-adenosine monophosphate (cyclic AMP).
 Increased cyclic AMP levels cause relaxation of bronchial smooth muscle and inhibition of release of mediators of immediate hypersensitivity from cells, especially from mast cells.
 
 ## 12.2 Pharmacodynamics

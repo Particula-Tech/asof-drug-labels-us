@@ -19,7 +19,7 @@ Instruct patients to seek medical attention immediately if they experience any o
 - •Need for more inhalations than usual of inhaled, short-acting beta2-agonists
 - •Significant decrease in lung function as outlined by the physician
 
-Tell patients they should not stop therapy with ANORO ELLIPTA without physician/provider guidance since symptoms may recur after discontinuation.
+Tell patients they should not stop therapy with ANORO ELLIPTA without healthcare provider guidance since symptoms may recur after discontinuation.
 
 Do Not Use Additional Long-acting Beta2-agonists
 
@@ -40,12 +40,12 @@ Inform patients of adverse effects associated with beta2-agonists, such as palpi
 Worsening of Narrow-Angle Glaucoma
 
 Instruct patients to be alert for signs and symptoms of acute narrow-angle glaucoma (e.g., eye pain or discomfort, blurred vision, visual halos or colored images in association with red eyes from conjunctival congestion and corneal edema).
-Instruct patients to consult a physician immediately if any of these signs or symptoms develops.
+Instruct patients to consult a healthcare provider immediately if any of these signs or symptoms develops.
 
 Worsening of Urinary Retention
 
 Instruct patients to be alert for signs and symptoms of urinary retention (e.g., difficulty passing urine, painful urination).
-Instruct patients to consult a physician immediately if any of these signs or symptoms develops.
+Instruct patients to consult a healthcare provider immediately if any of these signs or symptoms develops.
 
 ANORO and ELLIPTA are registered trademarks of the GSK group of companies.
 
@@ -58,4 +58,4 @@ Research Triangle Park, NC 27709
 ©2017 the GSK group of companies.
 All rights reserved.
 
-ANR:4PI
+ANR:5PI

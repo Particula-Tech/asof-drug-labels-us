@@ -19,9 +19,7 @@ Federal Law requires the dispensing of ANORO ELLIPTA with the Medication Guide i
 
 1 ELLIPTA® Inhaler containing 30 doses (60 blisters total)
 
-Made in UK
+©2017 the GSK group of companies
 
-©2016 the GSK group of companies
-
-1. 10000000142557 Rev.
-   8/16
+1. 10000000146542 Rev.
+   6/17

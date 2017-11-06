@@ -69,7 +69,7 @@ Least Squares Mean Change from Baseline in Trough FEV1 (mL) at Day 169 in the In
 
 n = Number in intent-to-treat population.
 
-1. a The umeclidinium and vilanterol comparators used the same inhaler and excipients as ANORO ELLIPTA.
+aThe umeclidinium and vilanterol comparators used the same inhaler and excipients as ANORO ELLIPTA.
 
 Trial 2 had a similar study design as Trial 1 but evaluated umeclidinium/vilanterol 125 mcg/25 mcg, umeclidinium 125 mcg, vilanterol 25 mcg, and placebo.
 Results for umeclidinium/vilanterol 125 mcg/25 mcg in Trial 2 were similar to those observed for ANORO ELLIPTA in Trial 1.

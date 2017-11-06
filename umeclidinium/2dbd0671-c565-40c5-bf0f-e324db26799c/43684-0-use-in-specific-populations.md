@@ -6,7 +6,7 @@ Teratogenic Effects
 
 Pregnancy Category C. There are no adequate and well-controlled trials of ANORO ELLIPTA or its individual components, umeclidinium and vilanterol, in pregnant women.
 Because animal reproduction studies are not always predictive of human response, ANORO ELLIPTA should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
-Women should be advised to contact their physicians if they become pregnant while taking ANORO ELLIPTA.
+Women should be advised to contact their healthcare providers if they become pregnant while taking ANORO ELLIPTA.
 
 Umeclidinium: There was no evidence of teratogenic effects in rats and rabbits at approximately 50 and 200 times, respectively, the MRHDID (maximum recommended human daily inhaled dose) in adults (on an AUC basis at maternal inhaled doses up to 278 mcg/kg/day in rats and at maternal subcutaneous doses up to 180 mcg/kg/day in rabbits).
 
