@@ -7,5 +7,3 @@ Store at controlled room temperature 15°–25°C (59°–77°F).
 Protect from light and moisture.
 
 Keep out of reach of children.
-
-For more information call 1-800-667-8570.

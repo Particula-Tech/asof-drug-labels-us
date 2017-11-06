@@ -1,6 +1,4 @@
-# PATIENT INFORMATION
-
-Itraconazole Capsules 100 mg
+# PATIENT INFORMATION Itraconazole Capsules 100 mg
 
 This summary contains important information about Itraconazole.
 This information is for patients who have been prescribed Itraconazole to treat fungal nail infections.
@@ -57,28 +55,32 @@ Never take Itraconazole if you:
 - have had heart failure, including congestive heart failure.
 - are taking any of the medicines listed below.
   Dangerous or even life-threatening side effects could result:
+  - avanafil (such as Stendra™)
   - cisapride (such as Propulsid®)
   - colchicine (such as Colcrys™) [if you also have pre-existing kidney or liver impairment]
   - disopyramide (such as Norpace®)
   - dofetilide (such as Tikosyn™)
   - dronedarone (such as Multaq®)
+  - eliglustat (such as Cerdelga™) [if you know you do not break down drugs that are broken down by the enzyme CYP 2D6]
   - eplerenone (such as Inspra®)
   - ergot alkaloids (such as Migranal®, Ergonovine, Cafergot®, Methergine®)
   - felodipine (such as Plendil®)
   - fesoterodine (such as Toviaz®) [if you also have pre-existing kidney or liver impairment]
   - irinotecan (such as Camptosar®)
+  - isavuconazole (such as Cresemba®)
   - ivabradine (such as Corlanor®)
+  - lomitapide (such as Juxtapid™)
   - lovastatin (such as Mevacor®, Advicor®, Altocor™)
   - lurasidone (such as Latuda®)
   - methadone (such as Dolophine®)
   - midazolam (such as Versed®)
+  - naloxegol (such as Movantik®)
   - nisoldipine (such as Sular®)
   - pimozide (such as Orap®)
   - quinidine (such as Cardioquin®, Quinaglute®, Quinidex®)
   - ranolazine (such as Ranexa®)
   - simvastatin (such as Zocor®)
   - solifenacin (such as Vesicare®) [if you also have pre-existing kidney or liver impairment]
-  - telithromycin (such as Ketek®) [if you also have pre-existing kidney or liver impairment]
   - ticagrelor (such as Brilinta®)
   - triazolam (such as Halcion®)
 - have ever had an allergic reaction to itraconazole.
@@ -190,7 +192,7 @@ You can ask your doctor or pharmacist for information about Itraconazole that is
 
 This patient information has been approved by the U.S. Food and Drug Administration.
 
-Revised: October 2016
+Revised: 10/2017
 
 Product of Ireland
 

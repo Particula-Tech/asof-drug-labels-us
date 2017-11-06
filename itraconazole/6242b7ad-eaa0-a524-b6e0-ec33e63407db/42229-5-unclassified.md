@@ -1,8 +1,6 @@
-PATRIOT Pharmaceuticals
+For more information call 1-800-667-8570.
 
-Itraconazole Capsules
-
-Revised: March 2017
+Revised: 10/2017
 
 Product of Ireland
 
