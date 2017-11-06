@@ -30,4 +30,4 @@ Withdrawal-Emergent Hyperpyrexia and Confusion Tell patients to contact their he
 Missing Dose Instruct patients to take rasagiline tablets as prescribed.
 If a dose is missed, the patient should not double-up the dose of rasagiline tablets.
 The next dose should be taken at the usual time on the following day.
-Manufactured by: Alkem Laboratories Limited Mumbai 400 013, INDIA Distributed by: Ascend Laboratories, LLC Parsippany, NJ 07054 Revised date: Febraury,2017 PT 1464
+Manufactured by: Alkem Laboratories Limited Mumbai 400 013, INDIA Distributed by: Ascend Laboratories, LLC Parsippany, NJ 07054 Revised Date: September, 2017 PT 1464-01

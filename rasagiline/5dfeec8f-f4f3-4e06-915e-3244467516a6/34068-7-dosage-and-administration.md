@@ -2,7 +2,7 @@
 
 ## 2.1 General Dosing Recommendations
 
-When rasagiline tablets are prescribed as monotherapy patients may start rasagiline at the recommended dose of 1 mg administered orally once daily.
+When rasagiline tablets are prescribed as monotherapy or as adjunct therapy in patients not taking levodopa, patients may start rasagiline at the recommended dose of 1 mg administered orally once daily.
 
 In patients taking levodopa, with or without other PD drugs (e.g., dopamine agonist, amantadine, anticholinergics), the recommended initial dose of rasagiline tablets are 0.5 mg once daily.
 If the patient tolerates the daily 0.5 mg dose, but a sufficient clinical response is not achieved, the dose may be increased to 1 mg once daily.

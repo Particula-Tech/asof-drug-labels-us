@@ -55,6 +55,7 @@ Patients with mild hepatic impairment should be given the dose of rasagiline 0.5
 In Study 3, the incidence of orthostatic hypotension consisting of a systolic blood pressure decrease (> 30 mm Hg) or a diastolic blood pressure decrease (> 20 mm Hg) after standing was 13% with rasagiline (1 mg/day) compared to 9% with placebo [see Adverse Reactions (6.1)].
 At the 1 mg dose, the frequency of orthostatic hypotension (at any time during the study) was approximately 44% for rasagiline vs 33% for placebo for mild to moderate systolic blood pressure decrements (> 20 mm Hg), 40% for rasagiline vs 33% for placebo for mild to moderate diastolic blood pressure decrements (> 10 mm Hg), 7% for rasagiline vs 3% for placebo for severe systolic blood pressure decrements (> 40 mm Hg), and 9% for rasagiline vs 6% for placebo for severe diastolic blood pressure decrements (≥ 20 mm Hg).
 There was also an increased risk for some of these abnormalities at the lower 0.5 mg daily dose and for an individual patient having mild to moderate or severe orthostatic hypotension for both systolic and diastolic blood pressure.
+In Study 2 where rasagiline was given as an adjunct therapy in patients not taking concomitant levodopa, there were 5 reports of orthostatic hypotension in patients taking rasagiline 1 mg (3.1%) and 1 report in patients taking placebo (0.6%) [see Adverse Reactions(6.1)].
 Clinical trial data further suggest that orthostatic hypotension occurs most frequently in the first two months of rasagiline treatment and tends to decrease over time.
 Some patients treated with rasagiline experienced a mildly increased risk for significant decreases in blood pressure unrelated to standing but while supine.
 The risk for post-treatment hypotension (e.g., systolic < 90 or diastolic < 50 mm Hg) combined with a significant decrease from baseline (e.g., systolic > 30 or diastolic > 20 mm Hg) was higher for rasagiline 1 mg (3.2%) compared to placebo (1.3%).
@@ -72,6 +73,8 @@ Decreasing the dose of levodopa may mitigate this side effect [see Adverse React
 
 In the monotherapy study (Study 1), the incidence of hallucinations reported as an adverse event was 1.3% in patients treated with rasagiline 1 mg and 0.7% in patients treated with placebo.
 In Study 1, the incidence of hallucinations reported as an adverse reaction and leading to drug discontinuation and premature withdrawal was 1.3% in patients treated with rasagiline 1 mg and 0% in placebo-treated patients.
+When studied as an adjunct therapy without levodopa (Study 2), hallucinations were reported as an adverse reaction in 1.2% of patients treated with 1 mg/day rasagiline and 1.8% of patients treated with placebo.
+Hallucinations led to drug discontinuation and premature withdrawal from the clinical trial in 0.6% of patients treated with rasagiline 1 mg/day and in none of the placebo-treated patients.
 
 When studied as an adjunct to levodopa (Study 3), the incidence of hallucinations was approximately 5% in patients treated with rasagiline 0.5 mg/day, 4% in patients treated with rasagiline 1 mg/day, and 3% in patients treated with placebo.
 The incidence of hallucinations leading to drug discontinuation and premature withdrawal was about 1% in patients treated with 0.5 mg rasagiline and 1 mg rasagiline/day, and 0% in placebo-treated patients [see Adverse Reactions (6.1)].

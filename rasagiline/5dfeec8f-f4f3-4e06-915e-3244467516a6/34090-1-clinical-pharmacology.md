@@ -52,11 +52,11 @@ Gender The pharmacokinetic profile of rasagiline is similar in men and women.
 Drug-Drug Interactions
 
 Drug-Drug Interactions Levodopa A study in Parkinson’s disease patients, in which the effect of levodopa/carbidopa (LD/CD) on rasagiline pharmacokinetics at steady state was investigated, showed that the pharmacokinetics of rasagiline were not affected by concomitant administration of LD/CD.
-Effect of Other Drugs on the Metabolism of rasagiline In vitro metabolism studies showed that CYP1A2 was the major enzyme responsible for the metabolism of rasagiline.
+Effect of Other Drugs on the Metabolism of Rasagiline In vitro metabolism studies showed that CYP1A2 was the major enzyme responsible for the metabolism of rasagiline.
 There is the potential for inhibitors of this enzyme to alter rasagiline clearance when coadministered [see Dosage and Administration (2.2) and Warnings and Precautions (5.4)].
 Ciprofloxacin: When ciprofloxacin, an inhibitor of CYP1A2, was administered to healthy volunteers (n=12) at 500 mg (BID) with rasagiline at 2 mg/day, the AUC of rasagiline increased by 83% and there was no change in the elimination half life [see Dosage and Administration (2.2) and Warnings and Precautions (5.4)].
 Theophylline: Coadministration of rasagiline 1 mg/day and theophylline, a substrate of CYP1A2, up to 500 mg twice daily to healthy subjects (n=24) did not affect the pharmacokinetics of either drug.
 Antidepressants: Severe CNS toxicity (occasionally fatal) associated with hyperpyrexia as part of a serotonin syndrome, has been reported with combined treatment of an antidepressant (e.g., from one of many classes including tricyclic or tetracyclic antidepressants, SSRIs, SNRIs, triazolopyridine antidepressants) and nonselective MAOI or a selective MAO-B inhibitor [see Warnings and Precautions (5.2)].
-Effect of rasagiline on Other Drugs No additional in vivo trials have investigated the effect of rasagiline on other drugs metabolized by the cytochrome P450 enzyme system.
+Effect of Rasagiline on Other Drugs No additional in vivo trials have investigated the effect of rasagiline on other drugs metabolized by the cytochrome P450 enzyme system.
 In vitro studies showed that rasagiline at a concentration of 1 mcg/ml (equivalent to a level that is 160 times the average Cmax ~ 5.9 to 8.5 ng/mL in Parkinson’s disease patients after 1 mg rasagiline multiple dosing) did not inhibit cytochrome P450 isoenzymes, CYP1A2, CYP2A6, CYP2C9, CYP2C19, CYP2D6, CYP2E1, CYP3A4 and CYP4A.
-These results indicate that rasagiline is unlikely to cause any clinically significant interference with substrates of these enzymes.
+These results indicate that rasagiline is unlikely to cause any clinically significant interference with substrates of these enzyme.
