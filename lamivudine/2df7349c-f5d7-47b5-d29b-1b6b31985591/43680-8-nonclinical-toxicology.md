@@ -9,7 +9,7 @@ Long-term carcinogenicity studies with lamivudine in mice and rats showed no evi
 Mutagenesis
 
 Lamivudine was mutagenic in an L5178Y mouse lymphoma assay and clastogenic in a cytogenetic assay using cultured human lymphocytes.
-Lamivudine was not mutagenic in a microbial mutagenicity assay, in an in vitro cell transformation assay in a rat micronucleus test, in a rat bone marrow cytogenetic assay, and in an assay for unscheduled DNA synthesis in rat liver.
+Lamivudine was not mutagenic in a microbial mutagenicity assay, in an in vitro cell transformation assay, in a rat micronucleus test, in a rat bone marrow cytogenetic assay, and in an assay for unscheduled DNA synthesis in rat liver.
 
 Impairment of Fertility
 

@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Clinical Studies of EPIVIR-HBV in Adult Patients
+## 14.1 Adult Subjects
 
 The safety and efficacy of EPIVIR-HBV 100 mg once daily versus placebo were evaluated in 3 controlled trials in subjects with compensated chronic hepatitis B virus infection.
 All subjects were aged 16 years or older and had chronic hepatitis B virus infection (serum HBsAg-positive for at least 6 months) accompanied by evidence of HBV replication (serum HBeAg-positive and positive for serum HBV DNA) and persistently elevated ALT levels and/or chronic inflammation on liver biopsy compatible with a diagnosis of chronic viral hepatitis.
@@ -33,14 +33,14 @@ HBeAg Seroconvertersa at Week 52 among Adult Subjects Receiving EPIVIR-HBV 100 m
 | Seroconverters | 17% | 6% | 16% | 4% | 15% | 13% |  |  |  |  |  |  |  |
 | a Three-component seroconversion was defined as Week 52 values showing loss of HBeAg, gain of HBeAb, and reduction of HBV DNA to below the solution-hybridization assay limit. Subjects with negative baseline HBeAg or HBV DNA assay were excluded from the analysis. |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-Normalization of serum ALT levels was more frequent with treatment of EPIVIR-HBV compared with placebo in Trials 1-3.
+Normalization of serum ALT levels was more frequent with treatment of EPIVIR-HBV compared with placebo in Trials 1, 2, and 3.
 
 The majority of subjects treated with EPIVIR-HBV showed a decrease of HBV DNA to below the assay limit early in the course of therapy.
 However, reappearance of assay-detectable HBV DNA during treatment with EPIVIR-HBV was observed in approximately one-third of subjects after this initial response.
 
-## 14.2 Clinical Studies of EPIVIR-HBV in Pediatric Subjects
+## 14.2 Pediatric Subjects
 
-The safety and efficacy of EPIVIR-HBV were evaluated in a double-blind clinical trial in 286 subjects aged from 2 to 17 years, who were randomized (2:1) to receive 52 weeks of EPIVIR-HBV (3 mg per kg once daily to a maximum of 100 mg once daily) or placebo.
+The safety and efficacy of EPIVIR-HBV were evaluated in a double-blind clinical trial in 286 subjects aged 2 to 17 years, who were randomized (2:1) to receive 52 weeks of EPIVIR-HBV (3 mg per kg once daily to a maximum of 100 mg once daily) or placebo.
 All subjects had compensated chronic hepatitis B accompanied by evidence of hepatitis B virus replication (positive serum HBeAg and positive for serum HBV DNA by a research branched-chain DNA assay) and persistently elevated serum ALT levels.
 The combination of loss of HBeAg and reduction of HBV DNA to below the assay limit of the research assay, evaluated at Week 52, was observed in 23% of subjects treated with EPIVIR-HBV and 13% of placebo-treated subjects.
 Normalization of serum ALT was achieved and maintained to Week 52 more frequently in subjects treated with EPIVIR-HBV compared with placebo (55% versus 13%).

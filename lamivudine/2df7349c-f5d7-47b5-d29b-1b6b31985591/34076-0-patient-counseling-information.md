@@ -2,7 +2,7 @@
 
 Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
-Lactic Acidosis and Severe Hepatomegaly
+Lactic Acidosis and Severe Hepatomegaly with Steatosis
 
 Advise patients that lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with use of EPIVIR-HBV.
 Advise patients to contact their healthcare provider immediately and stop EPIVIR-HBV if they develop clinical symptoms suggestive of lactic acidosis or pronounced hepatotoxicity [see Warnings and Precautions (5.1)].
@@ -28,6 +28,12 @@ Hepatitis B Transmission
 
 Advise patients that treatment with EPIVIR‑HBV has not been shown to reduce the risk of transmission of HBV to others through sexual contact or blood contamination.
 
+Drug Interactions
+
+Inform patients that EPIVIR-HBV may interact with some drugs; therefore, patients should be advised to report to their healthcare provider the use of any prescription, non-prescription medication or herbal products.
+Advise patients to avoid chronic use of sorbitol-containing prescription and over-the-counter medicines when possible.
+Taking EPIVIR-HBV with chronically administered sorbitol-containing medicines may decrease the concentrations of lamivudine [see Drug Interactions (7.2)].
+
 Sucrose Content of EPIVIR-HBV Oral Solution
 
 Advise diabetic patients that each 20‑mL dose of EPIVIR‑HBV oral solution contains 4 grams of sucrose (1 mL = 200 mg of sucrose) [see Description (11)].
@@ -51,4 +57,4 @@ Manufactured under agreement from Shire Pharmaceuticals Group plc Basingstoke, U
 
 ©2017 GSK group of companies or its licensor.
 
-EPH:4PI
+EPH:5PI

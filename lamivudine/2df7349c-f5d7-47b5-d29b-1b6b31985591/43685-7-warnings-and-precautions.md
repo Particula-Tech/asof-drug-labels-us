@@ -2,17 +2,18 @@
 
 ## 5.1 Lactic Acidosis and Severe Hepatomegaly with Steatosis
 
-Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with the use of nucleoside analogues alone or in combination, including EPIVIR-HBV and other antiretrovirals.
+Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with the use of nucleoside analogues and other antiretrovirals.
 A majority of these cases have been in women.
 Obesity and prolonged nucleoside exposure may be risk factors.
-Most of these reports have described patients receiving nucleoside analogues for treatment of HIV infection, but there have been reports of lactic acidosis in patients receiving lamivudine for hepatitis B. Particular caution should be exercised when administering EPIVIR-HBV to any patient with known risk factors for liver disease; however, cases have also been reported in patients with no known risk factors.
+Most of these reports have described patients receiving nucleoside analogues for treatment of HIV infection, but there have been reports of lactic acidosis in patients receiving lamivudine for hepatitis B. Caution should be exercised when administering EPIVIR-HBV to any patient with known risk factors for liver disease; however, cases also have been reported in patients with no known risk factors.
 Treatment with EPIVIR-HBV should be suspended in any patient who develops clinical or laboratory findings suggestive of lactic acidosis or pronounced hepatotoxicity (which may include hepatomegaly and steatosis even in the absence of marked transaminase elevations).
 
-## 5.2 Exacerbation of Hepatitis after Discontinuation of Treatment
+## 5.2 Exacerbations of Hepatitis after Discontinuation of Treatment
 
-Clinical and laboratory evidence of exacerbations of hepatitis have occurred after discontinuation of EPIVIR-HBV (these have been primarily detected by serum ALT elevations, in addition to the re-emergence of HBV DNA commonly observed after stopping treatment; see Table 4 for more information regarding frequency of posttreatment ALT elevations) [see Adverse Reactions (6.1)].
+Clinical and laboratory evidence of exacerbations of hepatitis have occurred after discontinuation of lamivudine.
+These exacerbations have been detected primarily by serum ALT elevations in addition to re-emergence of HBV DNA commonly observed after stopping treatment; see Table 4 for more information regarding frequency of posttreatment ALT elevations [see Adverse Reactions (6.1)].
 Although most events appear to have been self-limited, fatalities have been reported in some cases.
-The causal relationship of hepatitis exacerbation after discontinuation of EPIVIR-HBV has not been clearly established.
+The causal relationship to discontinuation of lamivudine treatment is unknown.
 Patients should be closely monitored with both clinical and laboratory follow-up for at least several months after stopping treatment with EPIVIR-HBV.
 There is insufficient evidence to determine whether re-initiation of EPIVIR-HBV alters the course of posttreatment exacerbations of hepatitis.
 

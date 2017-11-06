@@ -4,16 +4,16 @@
 
 HIV counseling and testing should be offered to all patients before beginning treatment with EPIVIR-HBV and periodically during treatment because of the risk of emergence of resistant-HIV-1 and limitation of treatment options if EPIVIR-HBV is prescribed to treat chronic hepatitis B infection in a patient who has unrecognized HIV-1 infection or acquires HIV-1 infection during treatment [see Warnings and Precautions (5.3)].
 
-## 2.2 Dosage in Adult Patients
+## 2.2 Recommended Dosage for Adult Patients
 
 The recommended oral dosage of EPIVIR‑HBV is 100 mg once daily.
 
-## 2.3 Dosage in Pediatric Patients
+## 2.3 Recommended Dosage for Pediatric Patients
 
 The recommended oral dosage of EPIVIR‑HBV for pediatric patients aged 2 to 17 years is 3 mg per kg once daily up to a maximum daily dosage of 100 mg.
 The oral solution formulation should be prescribed for patients requiring a dosage less than 100 mg or if unable to swallow tablets.
 
-## 2.4 Dosage Adjustment in Adult Patients with Renal Impairment
+## 2.4 Patients with Renal Impairment
 
 Dosage recommendations for adult patients with reduced renal function are provided in Table 1 [see Clinical Pharmacology (12.3)].
 

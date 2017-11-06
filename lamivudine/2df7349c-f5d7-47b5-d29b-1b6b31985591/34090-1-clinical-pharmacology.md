@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Lamivudine is an antiviral agent [see Microbiology (12.4)].
+Lamivudine is an antiviral agent with activity against HBV [see Microbiology (12.4)].
 
 ## 12.3 Pharmacokinetics
 
@@ -20,19 +20,20 @@ After oral administration of lamivudine once daily to HBV-infected adults, the A
 
 Absolute bioavailability in 12 adult subjects was 86% ± 16% (mean ± SD) for the 150-mg tablet and 87% ± 13% for the 10-mg per mL oral solution.
 
-Effects of Food on Oral Absorption: The 100-mg tablet was administered orally to 24 healthy subjects on 2 occasions, once in the fasted state and once with food (standard meal: 967 kcal; 67 grams fat, 33 grams protein, 58 grams carbohydrate).
+Effects of Food on Oral Absorption: EPIVIR-HBV tablets and oral solution may be administered with or without food.
+The 100-mg tablet was administered orally to 24 healthy subjects on 2 occasions, once in the fasted state and once with food (standard meal: 967 kcal; 67 grams fat, 33 grams protein, 58 grams carbohydrate).
 There was no significant difference in systemic exposure (AUC) in the fed and fasted states.
 
-Distribution: The apparent volume of distribution after IV administration of lamivudine to 20 asymptomatic HIV-1-infected subjects was 1.3 ± 0.4 L per kg, suggesting that lamivudine distributes into extravascular spaces.
+Distribution: The apparent volume of distribution after IV administration of lamivudine to 20 HIV-1-infected subjects was 1.3 ± 0.4 L per kg, suggesting that lamivudine distributes into extravascular spaces.
 Volume of distribution was independent of dose and did not correlate with body weight.
 
-Binding of lamivudine to human plasma proteins is less than 36% and independent of dose.
+Binding of lamivudine to human plasma proteins is less than 36%.
 In vitro studies showed that over the concentration range of 0.1 to 100 mcg per mL, the amount of lamivudine associated with erythrocytes ranged from 53% to 57% and was independent of concentration.
 
 Metabolism: Metabolism of lamivudine is a minor route of elimination.
-In humans, the only known metabolite of lamivudine is the trans-sulfoxide metabolite.
-In 9 healthy subjects receiving 300 mg of lamivudine as single oral doses, a total of 4.2% (range: 1.5% to 7.5%) of the dose was excreted as the trans-sulfoxide metabolite in the urine, the majority of which was excreted in the first 12 hours.
-Serum concentrations of the trans-sulfoxide metabolite have not been determined.
+In humans, the only known metabolite of lamivudine is the trans-sulfoxide metabolite (approximately 5% of an oral dose after 12 hours).
+Serum concentrations of this metabolite have not been determined.
+Lamivudine is not significantly metabolized by cytochrome P450 enzymes.
 
 Elimination: The majority of lamivudine is eliminated unchanged in urine by active organic cationic secretion.
 In 9 healthy subjects given a single 300-mg oral dose of lamivudine, renal clearance was 199.7 ± 56.9 mL per min (mean ± SD).
@@ -42,12 +43,12 @@ In most single-dose trials in HIV-1-infected subjects, HBV-infected subjects, or
 In HIV-1-infected subjects, total clearance was 398.5 ± 69.1 mL per min (mean ± SD).
 Oral clearance and elimination half-life were independent of dose and body weight over an oral dosing range of 0.25 to 10 mg per kg.
 
-Special Populations
+Specific Populations
 
-Adults with Renal Impairment: The pharmacokinetic properties of lamivudine have been determined in healthy subjects and in subjects with impaired renal function, with and without hemodialysis (Table 5).
+Patients with Renal Impairment: The pharmacokinetic properties of lamivudine have been determined in healthy adults and in adults with impaired renal function, with and without hemodialysis (Table 5).
 
 Table 5.
-Pharmacokinetic Parameters (Mean ± SD) Dose-Normalized to a Single 100-mg Oral Dose of Lamivudine in Subjects with Varying Degrees of Renal Function
+Pharmacokinetic Parameters (Mean ± SD) Dose-Normalized to a Single 100-mg Oral Dose of Lamivudine in Adults with Varying Degrees of Renal Function
 
 | Parameter | Creatinine Clearance Criterion(Number of Subjects) |  |  |
 | --- | --- | --- | --- |
@@ -57,8 +58,6 @@ Pharmacokinetic Parameters (Mean ± SD) Dose-Normalized to a Single 100-mg Oral 
 | AUC (mcg•h/mL) | 5.28 ± 1.01 | 14.67 ± 3.74 | 27.33 ± 6.56 |
 | Cl/F (mL/min) | 326.4 ± 63.8 | 120.1 ± 29.5 | 64.5 ± 18.3 |
 
-Exposure (AUC), Cmax, and half-life increased with diminishing renal function (as expressed by creatinine clearance).
-Apparent total oral clearance (Cl/F) of lamivudine decreased as creatinine clearance decreased.
 Tmax was not significantly affected by renal function.
 Based on these observations, it is recommended that the dosage of lamivudine be modified in patients with renal impairment [see Dosage and Administration (2.4)].
 
@@ -66,15 +65,13 @@ Hemodialysis increases lamivudine clearance from a mean of 64 to 88 mL per min; 
 Continuous ambulatory peritoneal dialysis and automated peritoneal dialysis have negligible effects on lamivudine clearance.
 Therefore, it is recommended, following correction of dose for creatinine clearance, that no additional dose modification be made after routine hemodialysis or peritoneal dialysis.
 
-It is not known whether lamivudine can be removed by continuous (24-hour) hemodialysis.
+The effects of renal impairment on lamivudine pharmacokinetics in pediatric patients with chronic hepatitis B is not known.
 
-Pediatric Patients with Renal Impairment: The effect of renal impairment on lamivudine pharmacokinetics in pediatric patients with chronic hepatitis B is not known.
-
-Adults with Hepatic Impairment: The pharmacokinetic properties of lamivudine in adults with hepatic impairment are shown in Table 6.
+Patients with Hepatic Impairment: The pharmacokinetic properties of lamivudine in adults with hepatic impairment are shown in Table 6.
 Subjects were stratified by severity of hepatic impairment.
 
 Table 6.
-Pharmacokinetic Parameters (Mean ± SD) Dose-Normalized to a Single 100-mg Dose of Lamivudine in Subjects with Normal or Impaired Hepatic Function
+Pharmacokinetic Parameters (Mean ± SD) Dose-Normalized to a Single 100-mg Dose of Lamivudine in Adults with Normal or Impaired Hepatic Function
 
 | Parameter | Normal(n = 8) | Impairmenta |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -87,62 +84,71 @@ Pharmacokinetic Parameters (Mean ± SD) Dose-Normalized to a Single 100-mg Dose 
 | a Hepatic impairment assessed by aminopyrine breath test. |  |  |  |  |  |  |  |
 
 Pharmacokinetic parameters were not altered by diminishing hepatic impairment.
-Therefore, no dose adjustment for lamivudine is required for patients with impaired hepatic function.
 Safety and efficacy of EPIVIR-HBV have not been established in the presence of decompensated liver disease [see Indications and Usage (1)].
 
-Adults Post-Hepatic Transplant: Fourteen HBV-infected subjects received liver transplant following lamivudine therapy and completed pharmacokinetic assessments at enrollment, 2 weeks after 100-mg once-daily dosing (pre-transplant), and 3 months following transplant; there were no significant differences in pharmacokinetic parameters.
+Patients Post-Hepatic Transplant: Fourteen HBV-infected adult subjects received liver transplant following lamivudine therapy and completed pharmacokinetic assessments at enrollment, 2 weeks after 100-mg once-daily dosing (pre-transplant), and 3 months following transplant; there were no significant differences in pharmacokinetic parameters.
 The overall exposure of lamivudine is primarily affected by renal impairment; consequently, transplant patients with renal impairment had generally higher exposure than patients with normal renal function.
 Safety and efficacy of EPIVIR-HBV have not been established in this population [see Indications and Usage (1)].
 
-Pregnancy: The pharmacokinetics of lamivudine in patients with HBV or HIV-1 infection and in healthy volunteers were similar at similar doses.
+Pregnant Women: The pharmacokinetics of lamivudine in patients with HBV or HIV-1 infection and in healthy volunteers were similar at similar doses.
 Lamivudine pharmacokinetics were studied in 36 pregnant women with HIV during 2 clinical trials conducted in South Africa (3 to 6 times the recommended daily dosage for HBV).
 Lamivudine pharmacokinetics in pregnant women were similar to those seen in non-pregnant adults and in postpartum women.
 Lamivudine concentrations were generally similar in maternal, neonatal, and umbilical cord serum samples.
 
-Pediatric Subjects: Lamivudine pharmacokinetics were evaluated in a 28-day dose-ranging trial in 53 pediatric subjects with chronic hepatitis B. Subjects aged 2 to 12 years were randomized to receive lamivudine 0.35 mg per kg twice daily, 3 mg per kg once daily, 1.5 mg per kg twice daily, or 4 mg per kg twice daily.
+Pediatric Patients: Lamivudine pharmacokinetics were evaluated in a 28-day dose-ranging trial in 53 pediatric subjects with chronic hepatitis B. Subjects aged 2 to 12 years were randomized to receive lamivudine 0.35 mg per kg twice daily, 3 mg per kg once daily, 1.5 mg per kg twice daily, or 4 mg per kg twice daily.
 Subjects aged 13 to 17 years received lamivudine 100 mg once daily.
 Lamivudine Tmax was 0.5 to 1 hour.
 In general, both Cmax and exposure (AUC) showed dose proportionality in the dosing range studied.
 Weight-corrected oral clearance was highest at age 2 and declined from 2 to 12 years, where values were then similar to those seen in adults.
 A dose of 3 mg per kg given once daily produced a steady-state lamivudine AUC (mean 5,953 ng•hour per mL ± 1,562 SD) similar to that associated with a dose of 100 mg per day in adults.
 
-Gender: There are no significant gender differences in lamivudine pharmacokinetics.
+Geriatric Patients: The pharmacokinetics of lamivudine after administration of EPIVIR-HBV to subjects over 65 years have not been studied [see Use in Specific Populations (8.5)].
 
-Race: There are no significant racial differences in lamivudine pharmacokinetics.
+Male and Female Patients: There are no significant or clinically relevant gender differences in lamivudine pharmacokinetics.
 
-Drug Interactions
+Racial Groups: There are no significant or clinically relevant racial differences in lamivudine pharmacokinetics.
 
-Interferon Alfa: Multiple doses of lamivudine and a single dose of interferon were coadministered to 19 healthy male subjects in a pharmacokinetics trial.
-Results indicated a 10% reduction in lamivudine AUC, but no change in interferon pharmacokinetic parameters when the 2 drugs were given in combination.
-All other pharmacokinetic parameters (Cmax, Tmax, and t½) were unchanged.
-There was no significant pharmacokinetic interaction between lamivudine and interferon alfa in this trial.
+Drug Interaction Studies
+
+Effect of Lamivudine on the Pharmacokinetics of Other Agents: Based on in vitro study results, lamivudine at therapeutic drug exposures is not expected to affect the pharmacokinetics of drugs that are substrates of the following transporters: organic anion transporter polypeptide 1B1/3 (OATP1B1/3), breast cancer resistance protein (BCRP), P-glycoprotein (P-gp), multidrug and toxin extrusion protein 1 (MATE1), MATE2-K, organic cation transporter 1 (OCT1), OCT2 or OCT3.
+
+Effect of Other Agents on the Pharmacokinetics of Lamivudine: Lamivudine is a substrate of MATE1, MATE2-K, and OCT2 in vitro.
+Trimethoprim (an inhibitor of these drug transporters) has been shown to increase lamivudine plasma concentrations.
+This interaction is not considered clinically significant, and no dose adjustment of lamivudine is needed.
+
+Lamivudine is a substrate of P-gp and BCRP; however, considering its absolute bioavailability (87%), it is unlikely that these transporters play a significant role in the absorption of lamivudine.
+Therefore, coadministration of drugs that are inhibitors of these efflux transporters is unlikely to affect the disposition and elimination of lamivudine.
+
+Interferon Alfa: There was no significant pharmacokinetic interaction between lamivudine and interferon alfa in a trial of 19 healthy male subjects.
 
 Ribavirin: In vitro data indicate ribavirin reduces phosphorylation of lamivudine, stavudine, and zidovudine.
 However, no pharmacokinetic (e.g., plasma concentrations or intracellular triphosphorylated active metabolite concentrations) or pharmacodynamic (e.g., loss of HIV-1/HCV virologic suppression) interaction was observed when ribavirin and lamivudine (n = 18), stavudine (n = 10), or zidovudine (n = 6) were coadministered as part of a multi-drug regimen to HIV‑1/HCV co-infected subjects.
 
-Trimethoprim/Sulfamethoxazole: Lamivudine and trimethoprim/sulfamethoxazole (TMP/SMX) were coadministered to 14 HIV-positive subjects in a single-center, open-label, randomized, crossover trial.
+Sorbitol (Excipient): Lamivudine and sorbitol solutions were coadministered to 16 healthy adult subjects in an open-label, randomized sequence, 4-period, crossover trial.
+Each subject received a single 300-mg dose of lamivudine oral solution alone or coadministered with a single dose of 3.2 grams, 10.2 grams, or 13.4 grams of sorbitol in solution.
+Coadministration of lamivudine with sorbitol resulted in dose-dependent decreases of 20%, 39%, and 44% in the AUC(0-24), 14%, 32%, and 36% in the AUC(∞), and 28%, 52%, and 55% in the Cmax of lamivudine.
+
+Trimethoprim/Sulfamethoxazole: Lamivudine and trimethoprim/sulfamethoxazole (TMP/SMX) were coadministered to 14 HIV-1-positive subjects in a single-center, open-label, randomized, crossover trial.
 Each subject received treatment with a single 300-mg dose of lamivudine and TMP 160 mg/SMX 800 mg once a day for 5 days with concomitant administration of lamivudine 300 mg with the fifth dose in a crossover design.
-Coadministration of TMP/SMX with lamivudine resulted in an increase of 44% ± 23% (mean ± SD) in lamivudine AUC, a decrease of 29% ± 13% in lamivudine oral clearance, and a decrease of 30% ± 36% in lamivudine renal clearance.
+Coadministration of TMP/SMX with lamivudine resulted in an increase of 43% ± 23% (mean ± SD) in lamivudine AUC∞, a decrease of 29% ± 13% in lamivudine oral clearance, and a decrease of 30% ± 36% in lamivudine renal clearance.
 The pharmacokinetic properties of TMP and SMX were not altered by coadministration with lamivudine.
 
-Zidovudine: Lamivudine and zidovudine were coadministered to 12 asymptomatic HIV-positive adult subjects in a single-center, open-label, randomized, crossover trial.
-No significant differences were observed in AUC or total clearance for lamivudine or zidovudine when the 2 drugs were administered together.
-Coadministration of lamivudine with zidovudine resulted in an increase of 39% ± 62% (mean ± SD) in Cmax of zidovudine.
+Zidovudine: No clinically significant alterations in lamivudine or zidovudine pharmacokinetics were observed in 12 asymptomatic HIV-1‑infected adult subjects given a single dose of zidovudine (200 mg) in combination with multiple doses of lamivudine (300 mg every 12 hours).
 
 ## 12.4 Microbiology
 
 Mechanism of Action
 
 Lamivudine is a synthetic nucleoside analogue.
-Intracellularly, lamivudine is phosphorylated to its active 5′-triphosphate metabolite, lamivudine triphosphate, 3TC-TP.
-The principal mode of action of 3TC-TP is the inhibition of the RNA- and DNA-dependent polymerase activities of HBV reverse transcriptase (rt) via DNA chain termination after incorporation of the nucleotide analogue into viral DNA.
-3TC-TP is a weak inhibitor of mammalian α, β, and γ-DNA polymerases.
+Intracellularly, lamivudine is phosphorylated to its active 5′-triphosphate metabolite, lamivudine triphosphate (3TC-TP).
+The principal mode of action of 3TC-TP is inhibition of the RNA- and DNA-dependent polymerase activities of HBV reverse transcriptase (rt) via DNA chain termination after incorporation of the nucleotide analogue.
 
 Antiviral Activity
 
 Activity of lamivudine against HBV in cell culture was assessed in HBV DNA-transfected 2.2.15 cells, HB611 cells, and infected human primary hepatocytes.
-EC50 values (the concentration of drug needed to reduce the level of extracellular HBV DNA by 50%) varied from 0.01 μM (2.3 ng per mL) to 5.6 μM (1.3 mcg per mL) depending upon the duration of exposure of cells to lamivudine, the cell model system, and the protocol used.
+EC50 values (the concentration of drug needed to reduce the level of extracellular HBV DNA by 50%) varied from 0.01 microM (2.3 ng per mL) to 5.6 microM (1.3 mcg per mL) depending upon the duration of exposure of cells to lamivudine, the cell model system, and the protocol used.
 See the EPIVIR prescribing information for information regarding activity of lamivudine against HIV.
+The anti-HBV activity of lamivudine in combination with tenofovir in cell culture was not antagonistic.
 
 Resistance
 
@@ -168,6 +174,6 @@ For a subgroup that remained on therapy with EPIVIR-HBV in a follow-up trial, YM
 
 Cross-Resistance
 
-HBV containing lamivudine resistance-associated substitutions (rtL180M, rtM204I, rtM204V, rtL180M and rtM204V, rtV173L and rtL180M and rtM204V) retain susceptibility to adefovir dipivoxil but have reduced susceptibility to entecavir (30-fold) and telbivudine (greater than 100-fold).
+HBV containing lamivudine resistance-associated substitutions (rtL180M, rtM204I, rtM204V, rtL180M and rtM204V, rtV173L and rtL180M and rtM204V) retain susceptibility to adefovir dipivoxil but have reduced susceptibility to entecavir (greater than 30-fold) and telbivudine (greater than 100-fold).
 The lamivudine resistance-associated substitution rtA181T results in diminished response to adefovir and telbivudine.
-Similarly, HBV with entecavir resistance-associated substitutions (I169T/M250V and T184G/S202I) have greater than 1,000-fold reductions in susceptibility to lamivudine.
+Similarly, HBV with entecavir resistance-associated substitutions (rtI169T/rtM250V and rtT184G/rtS202I) have greater than 1,000-fold reductions in susceptibility to lamivudine.
