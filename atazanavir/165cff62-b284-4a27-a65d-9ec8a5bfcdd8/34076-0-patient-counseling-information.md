@@ -18,11 +18,15 @@ Advise patients that if signs or symptoms of severe skin reactions or hypersensi
 ### Hyperbilirubinemia
 
 Inform patients that asymptomatic elevations in indirect bilirubin have occurred in patients receiving REYATAZ.
-This may be accompanied by yellowing of the skin or whites of the eyes and alternative antiretroviral therapy may be considered if the patient has cosmetic concerns [see Warnings and Precautions (5.3)].
+This may be accompanied by yellowing of the skin or whites of the eyes and alternative antiretroviral therapy may be considered if the patient has cosmetic concerns [see Warnings and Precautions (5.8)].
 
 ### Patients with Phenylketonuria
 
-Advise caregivers of patients with phenylketonuria that REYATAZ oral powder contains phenylalanine [see Warnings and Precautions (5.4)].
+Advise caregivers of patients with phenylketonuria that REYATAZ oral powder contains phenylalanine [see Warnings and Precautions (5.3)].
+
+### Chronic Kidney Disease
+
+Inform patients that treatment with REYATAZ may lead to the development of chronic kidney disease, and to maintain adequate hydration while taking REYATAZ [see Warnings and Precautions (5.5)].
 
 ### Nephrolithiasis and Cholelithiasis
 
@@ -36,11 +40,11 @@ REYATAZ may lead to significant interaction with some drugs; therefore, advise p
 
 Immune Reconstitution Syndrome
 
-Advise patients to inform their healthcare provider immediately of any symptoms of infection, as in some patients with advanced HIV infection (AIDS), signs and symptoms of inflammation from previous infections may occur soon after anti-HIV treatment is started [see Warnings and Precautions (5.9)].
+Advise patients to inform their healthcare provider immediately of any symptoms of infection, as in some patients with advanced HIV infection (AIDS), signs and symptoms of inflammation from previous infections may occur soon after anti-HIV treatment is started [see Warnings and Precautions (5.10)].
 
 ### Fat Redistribution
 
-Inform patients that redistribution or accumulation of body fat may occur in patients receiving antiretroviral therapy including protease inhibitors and that the cause and long-term health effects of these conditions are not known at this time [see Warnings and Precautions (5.10)].
+Inform patients that redistribution or accumulation of body fat may occur in patients receiving antiretroviral therapy including protease inhibitors and that the cause and long-term health effects of these conditions are not known at this time [see Warnings and Precautions (5.11)].
 
 ### Dosing Instructions
 

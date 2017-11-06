@@ -73,7 +73,7 @@ Before you prepare a dose of REYATAZ oral powder mixed with food, gather the fol
 | •Place the tip of the syringe into the powder and infant formula mixture in the medicine cup (see Figure S). | Figure S |
 | •Slowly pull back on the plunger and draw up 10 mL of the mixture (see Figure T). | Figure T |
 | Step 8. Place the tip of the oral dosing syringe in your baby’s mouth along the inner cheek on either the right or left side (see Figure U). Slowly push on the plunger to give your baby all of the REYATAZ oral powder and infant formula mixture. •Draw up any remaining mixture with the oral dosing syringe and repeat until all of the mixture has been given to the baby. | Figure U |
-| Step 9. To make sure there is no mixture left in the medicine cup or syringe: •Repeat Step 1 above to add 10 mL more infant formula to the medicine cup•Stir with a small spoon.•Then repeat Steps 7 through 8 above. |  |
+| Step 9. To make sure there is no mixture left in the medicine cup or syringe: •Repeat Step 1 above to add 10 mL more infant formula to the medicine cup.•Stir with a small spoon.•Then repeat Steps 7 through 8 above. |  |
 | To make sure that your baby gets all of the medicine, do not give REYATAZ oral powder in a baby bottle. |  |
 | Step 10. Give your baby ritonavir as prescribed right after taking REYATAZ oral powder. |  |
 | Step 11. Remove the plunger from the oral dosing syringe. Wash the medicine cup, spoon, and oral dosing syringe. Allow the medicine cup, spoon, and oral dosing syringe to dry. Throw away the paper towel and clean the work surface. |  |
@@ -90,7 +90,5 @@ How should I store REYATAZ oral powder?
 
 Distributed by: Bristol-Myers Squibb Company Princeton, NJ 08543 USA
 
-Product of Ireland
-
-| 1341313A3 | Revised: May 2017 |
+| [print code] | Revised: October 2017 |
 | --- | --- |

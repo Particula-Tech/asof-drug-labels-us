@@ -4,7 +4,7 @@ Human experience of acute overdose with REYATAZ is limited.
 Single doses up to 1200 mg (three times the 400 mg maximum recommended dose) have been taken by healthy volunteers without symptomatic untoward effects.
 A single self-administered overdose of 29.2 g of REYATAZ in an HIV-infected patient (73 times the 400-mg recommended dose) was associated with asymptomatic bifascicular block and PR interval prolongation.
 These events resolved spontaneously.
-At REYATAZ doses resulting in high atazanavir exposures, jaundice due to indirect (unconjugated) hyperbilirubinemia (without associated liver function test changes) or PR interval prolongation may be observed [see Warnings and Precautions (5.1, 5.3) and Clinical Pharmacology (12.2)].
+At REYATAZ doses resulting in high atazanavir exposures, jaundice due to indirect (unconjugated) hyperbilirubinemia (without associated liver function test changes) or PR interval prolongation may be observed [see Warnings and Precautions (5.1, 5.8) and Clinical Pharmacology (12.2)].
 
 Treatment of overdosage with REYATAZ should consist of general supportive measures, including monitoring of vital signs and ECG, and observations of the patient’s clinical status.
 If indicated, elimination of unabsorbed atazanavir should be achieved by emesis or gastric lavage.

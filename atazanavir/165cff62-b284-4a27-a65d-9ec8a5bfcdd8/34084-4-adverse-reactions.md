@@ -4,12 +4,13 @@ The following adverse reactions are discussed in greater detail in other section
 
 - •cardiac conduction abnormalities [see Warnings and Precautions (5.1)]
 - •rash [see Warnings and Precautions (5.2)]
-- •hyperbilirubinemia [see Warnings and Precautions (5.3)]
+- •hyperbilirubinemia [see Warnings and Precautions (5.8)]
+- •chronic kidney disease [see Warnings and Precautions (5.5)]
 - •nephrolithiasis and cholelithiasis [see Warnings and Precautions (5.6)]
 
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
-
 ## 6.1 Clinical Trial Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 ### Adverse Reactions in Treatment-Naive Adult Patients
 
@@ -85,7 +86,7 @@ Table 10: Grade 3–4 Laboratory Abnormalities Reported in ≥2% of Adult Treatm
 
 |  |  | 96 weeksbREYATAZ 300 mg with ritonavir 100 mg (once daily) and tenofovir DF with emtricitabinec | 96 weeksblopinavir 400 mg with ritonavir 100 mg (twice daily) and tenofovir DF with emtricitabinec |
 | --- | --- | --- | --- |
-| Variable | Limitc | (n=441) | (n=437) |
+| Variable | Limitd | (n=441) | (n=437) |
 | Chemistry | High |  |  |
 | SGOT/AST | ≥5.1 × ULN | 3% | 1% |
 | SGPT/ALT | ≥5.1 × ULN | 3% | 2% |
@@ -210,18 +211,18 @@ All other Grade 3–4 laboratory abnormalities occurred with a frequency of less
 
 ### Adverse Reactions in Patients Co-Infected with Hepatitis B and/or Hepatitis C Virus
 
-In study AI424-138, 60 patients treated with REYATAZ/ritonavir 300 mg/100 mg once daily, and 51 patients treated with lopinavir/ritonavir 400 mg/100 mg twice daily, each with fixed dose tenofovir DF-emtricitabine, were seropositive for hepatitis B and/or C at study entry.
+In Study AI424-138, 60 patients treated with REYATAZ/ritonavir 300 mg/100 mg once daily, and 51 patients treated with lopinavir/ritonavir 400 mg/100 mg twice daily, each with fixed dose tenofovir DF-emtricitabine, were seropositive for hepatitis B and/or C at study entry.
 ALT levels >5 times ULN developed in 10% (6/60) of the REYATAZ/ritonavir-treated patients and 8% (4/50) of the lopinavir/ritonavir-treated patients.
 AST levels >5 times ULN developed in 10% (6/60) of the REYATAZ/ritonavir-treated patients and none (0/50) of the lopinavir/ritonavir-treated patients.
 
-In study AI424-045, 20 patients treated with REYATAZ/ritonavir 300 mg/100 mg once daily, and 18 patients treated with lopinavir/ritonavir 400 mg/100 mg twice daily, were seropositive for hepatitis B and/or C at study entry.
+In Study AI424-045, 20 patients treated with REYATAZ/ritonavir 300 mg/100 mg once daily, and 18 patients treated with lopinavir/ritonavir 400 mg/100 mg twice daily, were seropositive for hepatitis B and/or C at study entry.
 ALT levels >5 times ULN developed in 25% (5/20) of the REYATAZ/ritonavir-treated patients and 6% (1/18) of the lopinavir/ritonavir-treated patients.
 AST levels >5 times ULN developed in 10% (2/20) of the REYATAZ/ritonavir-treated patients and 6% (1/18) of the lopinavir/ritonavir-treated patients.
 
-In studies AI424-008 and AI424-034, 74 patients treated with 400 mg of REYATAZ once daily, 58 who received efavirenz, and 12 who received nelfinavir were seropositive for hepatitis B and/or C at study entry.
+In Studies AI424-008 and AI424-034, 74 patients treated with 400 mg of REYATAZ once daily, 58 who received efavirenz, and 12 who received nelfinavir were seropositive for hepatitis B and/or C at study entry.
 ALT levels >5 times ULN developed in 15% of the REYATAZ-treated patients, 14% of the efavirenz-treated patients, and 17% of the nelfinavir-treated patients.
 AST levels >5 times ULN developed in 9% of the REYATAZ-treated patients, 5% of the efavirenz-treated patients, and 17% of the nelfinavir-treated patients.
-Within REYATAZ and control regimens, no difference in frequency of bilirubin elevations was noted between seropositive and seronegative patients [see Warnings and Precautions (5.3)].
+Within REYATAZ and control regimens, no difference in frequency of bilirubin elevations was noted between seropositive and seronegative patients [see Warnings and Precautions (5.8)].
 
 ## 6.2 Postmarketing Experience
 
@@ -236,12 +237,12 @@ Gastrointestinal System: pancreatitis
 
 Hepatic System: hepatic function abnormalities
 
-Hepatobiliary Disorders: cholelithiasis [see Warnings and Precautions (5.5)], cholecystitis, cholestasis
+Hepatobiliary Disorders: cholelithiasis [see Warnings and Precautions (5.6)], cholecystitis, cholestasis
 
-Metabolic System and Nutrition Disorders: diabetes mellitus, hyperglycemia [see Warnings and Precautions (5.8)]
+Metabolic System and Nutrition Disorders: diabetes mellitus, hyperglycemia [see Warnings and Precautions (5.9)]
 
 Musculoskeletal System: arthralgia
 
-Renal System: nephrolithiasis [see Warnings and Precautions (5.6)], interstitial nephritis
+Renal System: nephrolithiasis [see Warnings and Precautions (5.6)], interstitial nephritis, granulomatous interstitial nephritis, chronic kidney disease [see Warnings and Precautions (5.5)]
 
 Skin and Appendages: alopecia, maculopapular rash [see Contraindications (4) and Warnings and Precautions (5.2)], pruritus, angioedema

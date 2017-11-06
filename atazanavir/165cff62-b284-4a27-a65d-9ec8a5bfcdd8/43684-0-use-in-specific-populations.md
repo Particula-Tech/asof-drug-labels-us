@@ -24,13 +24,13 @@ Dose Adjustments during Pregnancy and the Postpartum Period
   - •For treatment-experienced pregnant women during the second or third trimester, when REYATAZ is coadministered with either an H2-receptor antagonist or tenofovir DF, REYATAZ 400 mg with ritonavir 100 mg once daily is recommended.
     There are insufficient data to recommend a REYATAZ dose for use with both an H2-receptor antagonist and tenofovir DF in treatment-experienced pregnant women.
 - •No dosage adjustment is required for postpartum patients.
-  However, patients should be closely monitored for adverse events because atazanavir exposures could be higher during the first 2 months after delivery [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
+  However, patients should be closely monitored for adverse events because atazanavir exposures could be higher during the first 2 months after delivery [see Dosage and Administration (2.6) and Clinical Pharmacology (12.3)].
 
 #### Maternal Adverse Reactions
 
 Cases of lactic acidosis syndrome, sometimes fatal, and symptomatic hyperlactatemia have occurred in pregnant women using REYATAZ in combination with nucleoside analogues, which are associated with an increased risk of lactic acidosis syndrome.
 
-Hyperbilirubinemia occurs frequently in patients who take REYATAZ [see Warnings and Precautions (5.3)], including pregnant women [see Data].
+Hyperbilirubinemia occurs frequently in patients who take REYATAZ [see Warnings and Precautions (5.8)], including pregnant women [see Data].
 
 Advise pregnant women of the potential risks of lactic acidosis syndrome and hyperbilirubinemia.
 
@@ -88,7 +88,7 @@ All REYATAZ contraindications, warnings, and precautions apply to pediatric pati
 
 The safety, pharmacokinetic profile, and virologic response of REYATAZ in pediatric patients at least 3 months of age and older weighing at least 5 kg were established in three open-label, multicenter clinical trials: PACTG 1020A, AI424-451, and AI424-397 [see Clinical Pharmacology (12.3) and Clinical Studies (14.3)].
 The safety profile in pediatric patients was generally similar to that observed in adults [see Adverse Reactions (6.1)].
-See Dosage and Administration (2.3, 2.4) for dosing recommendations for the use of REYATAZ capsules and REYATAZ oral powder in pediatric patients.
+See Dosage and Administration (2.4, 2.5) for dosing recommendations for the use of REYATAZ capsules and REYATAZ oral powder in pediatric patients.
 
 ## 8.5 Geriatric Use
 
@@ -103,9 +103,9 @@ There were no clinically significant pharmacokinetic differences observed due to
 
 ## 8.7 Impaired Renal Function
 
-REYATAZ is not recommended for use in HIV-treatment-experienced patients with end stage renal disease managed with hemodialysis [see Dosage and Administration (2.6) and Clinical Pharmacology (12.3)].
+REYATAZ is not recommended for use in HIV-treatment-experienced patients with end-stage renal disease managed with hemodialysis [see Dosage and Administration (2.7) and Clinical Pharmacology (12.3)].
 
 ## 8.8 Impaired Hepatic Function
 
 REYATAZ is not recommended for use in patients with severe hepatic impairment.
-REYATAZ/ritonavir is not recommended in patients with any degree of hepatic impairment [see Dosage and Administration (2.7) and Clinical Pharmacology (12.3)].
+REYATAZ/ritonavir is not recommended in patients with any degree of hepatic impairment [see Dosage and Administration (2.8) and Clinical Pharmacology (12.3)].
