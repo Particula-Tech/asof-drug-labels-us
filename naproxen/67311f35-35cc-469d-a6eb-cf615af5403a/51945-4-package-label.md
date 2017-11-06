@@ -8,6 +8,8 @@ Treximet® sumatriptan/naproxen sodium Tablets
 
 Do not repackage; dispense and store in original container.
 
+Dispense the accompanying Medication Guide to each patient.
+
 9 Tablets Visit TREXIMET.com
 
 # PRINCIPAL DISPLAY PANEL - 10 mg/60 mg Tablet Bottle Label
@@ -19,5 +21,7 @@ Treximet® sumatriptan/naproxen sodium Tablets
 10 mg/60 mg
 
 Do not repackage; dispense and store in original container.
+
+Dispense the accompanying Medication Guide to each patient.
 
 9 Tablets Visit TREXIMET.com
