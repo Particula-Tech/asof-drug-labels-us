@@ -10,17 +10,16 @@ The drug substance is the sodium salt.
 The average molecular weight is about 4500 daltons.
 The molecular weight distribution is:
 
-<2000 daltons ≤20%
-
-2000 to 8000 daltons ≥68%
-
->8000 daltons ≤18%
+|  | <2000 daltons | ≤20% |
+| --- | --- | --- |
+|  | 2000 to 8000 daltons | ≥68% |
+|  | >8000 daltons | ≤18% |
 
 STRUCTURAL FORMULA
 
-| R | XX = Percent of polysaccharide chain containing 1,6 anhydro derivative on the reducing end.= 15 to 25% |  | n= 0 to 20 |
+| R | XX = Percent of polysaccharide chain containing 1,6 anhydro derivative on the reducing end=15 to 25% |  | n=0 to 20 |
 | --- | --- | --- | --- |
-|  | 100 - X | H | n =1 to 21 |
+|  | 100-X | H | n=1 to 21 |
 
 Lovenox 100 mg/mL Concentration contains 10 mg enoxaparin sodium (approximate anti-Factor Xa activity of 1000 IU [with reference to the W.H.O.
 First International Low Molecular Weight Heparin Reference Standard]) per 0.1 mL Water for Injection.
