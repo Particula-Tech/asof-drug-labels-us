@@ -1,0 +1,25 @@
+{
+  "application_numbers": [
+    "NDA022210"
+  ],
+  "inn": "pancrelipase",
+  "labeler": "Allergan, Inc.",
+  "package_ndcs": [
+    "0023-6110-01",
+    "0023-6111-01",
+    "0023-6112-01",
+    "0023-6113-01",
+    "0023-6114-01",
+    "0023-6115-01",
+    "0023-6116-01"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, DELAYED RELEASE",
+      "generic": "pancrelipase lipase, pancrelipase protease, pancrelipase amylase",
+      "name": "Zenpep"
+    }
+  ],
+  "setid": "f439e3a8-d60e-45f2-899c-d9be9b048b2d",
+  "source": "dailymed"
+}
