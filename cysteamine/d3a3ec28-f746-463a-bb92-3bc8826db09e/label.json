@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA203389"
+  ],
+  "inn": "cysteamine",
+  "labeler": "Horizon Pharma Inc.",
+  "package_ndcs": [
+    "75987-100-04",
+    "75987-101-08"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, DELAYED RELEASE PELLETS",
+      "generic": "cysteamine bitartrate",
+      "name": "PROCYSBI"
+    }
+  ],
+  "setid": "d3a3ec28-f746-463a-bb92-3bc8826db09e",
+  "source": "dailymed"
+}
