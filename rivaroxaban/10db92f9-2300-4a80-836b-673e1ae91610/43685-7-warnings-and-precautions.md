@@ -4,7 +4,7 @@
 
 Premature discontinuation of any oral anticoagulant, including XARELTO, in the absence of adequate alternative anticoagulation increases the risk of thrombotic events.
 An increased rate of stroke was observed during the transition from XARELTO to warfarin in clinical trials in atrial fibrillation patients.
-If XARELTO is discontinued for a reason other than pathological bleeding or completion of a course of therapy, consider coverage with another anticoagulant [see Dosage and Administration (2.3, 2.7) and Clinical Studies (14.1)].
+If XARELTO is discontinued for a reason other than pathological bleeding or completion of a course of therapy, consider coverage with another anticoagulant [see Dosage and Administration (2.3, 2.8) and Clinical Studies (14.1)].
 
 ## 5.2 Risk of Bleeding
 
@@ -32,8 +32,8 @@ The use of other procoagulant reversal agents like activated prothrombin complex
 
 When neuraxial anesthesia (spinal/epidural anesthesia) or spinal puncture is employed, patients treated with anticoagulant agents for prevention of thromboembolic complications are at risk of developing an epidural or spinal hematoma which can result in long-term or permanent paralysis [see Boxed Warning].
 
-To reduce the potential risk of bleeding associated with the concurrent use of rivaroxaban and epidural or spinal anesthesia/analgesia or spinal puncture, consider the pharmacokinetic profile of rivaroxaban [see Clinical Pharmacology (12.3)].
-Placement or removal of an epidural catheter or lumbar puncture is best performed when the anticoagulant effect of rivaroxaban is low; however, the exact timing to reach a sufficiently low anticoagulant effect in each patient is not known.
+To reduce the potential risk of bleeding associated with the concurrent use of XARELTO and epidural or spinal anesthesia/analgesia or spinal puncture, consider the pharmacokinetic profile of XARELTO [see Clinical Pharmacology (12.3)].
+Placement or removal of an epidural catheter or lumbar puncture is best performed when the anticoagulant effect of XARELTO is low; however, the exact timing to reach a sufficiently low anticoagulant effect in each patient is not known.
 
 An indwelling epidural or intrathecal catheter should not be removed before at least 2 half-lives have elapsed (i.e., 18 hours in young patients aged 20 to 45 years and 26 hours in elderly patients aged 60 to 76 years), after the last administration of XARELTO [see Clinical Pharmacology (12.3)].
 The next XARELTO dose should not be administered earlier than 6 hours after the removal of the catheter.
@@ -48,23 +48,23 @@ If signs or symptoms of spinal hematoma are suspected, initiate urgent diagnosis
 Nonvalvular Atrial Fibrillation
 
 Periodically assess renal function as clinically indicated (i.e., more frequently in situations in which renal function may decline) and adjust therapy accordingly [see Dosage and Administration (2.4)].
-Consider dose adjustment or discontinuation of XARELTO in patients who develop acute renal failure while on XARELTO [see Use in Specific Populations (8.7)].
+Consider dose adjustment or discontinuation of XARELTO in patients who develop acute renal failure while on XARELTO [see Use in Specific Populations (8.6)].
 
 Treatment of Deep Vein Thrombosis (DVT), Pulmonary Embolism (PE), and Reduction in the Risk of Recurrence of DVT and of PE
 
-Avoid the use of XARELTO in patients with CrCl <30 mL/min due to an expected increase in rivaroxaban exposure and pharmacodynamic effects in this patient population [see Use in Specific Populations (8.7)].
+Avoid the use of XARELTO in patients with CrCl <30 mL/min due to an expected increase in rivaroxaban exposure and pharmacodynamic effects in this patient population [see Use in Specific Populations (8.6)].
 
 Prophylaxis of Deep Vein Thrombosis Following Hip or Knee Replacement Surgery
 
 Avoid the use of XARELTO in patients with CrCl <30 mL/min due to an expected increase in rivaroxaban exposure and pharmacodynamic effects in this patient population.
 Observe closely and promptly evaluate any signs or symptoms of blood loss in patients with CrCl 30 to 50 mL/min.
-Patients who develop acute renal failure while on XARELTO should discontinue the treatment [see Use in Specific Populations (8.7)].
+Patients who develop acute renal failure while on XARELTO should discontinue the treatment [see Use in Specific Populations (8.6)].
 
 ## 5.5 Use in Patients with Hepatic Impairment
 
 No clinical data are available for patients with severe hepatic impairment.
 
-Avoid use of XARELTO in patients with moderate (Child-Pugh B) and severe (Child-Pugh C) hepatic impairment or with any hepatic disease associated with coagulopathy since drug exposure and bleeding risk may be increased [see Use in Specific Populations (8.8)].
+Avoid use of XARELTO in patients with moderate (Child-Pugh B) and severe (Child-Pugh C) hepatic impairment or with any hepatic disease associated with coagulopathy since drug exposure and bleeding risk may be increased [see Use in Specific Populations (8.7)].
 
 ## 5.6 Use with P-gp and Strong CYP3A4 Inhibitors or Inducers
 

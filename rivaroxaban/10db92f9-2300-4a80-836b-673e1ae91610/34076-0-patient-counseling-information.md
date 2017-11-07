@@ -7,9 +7,10 @@ Instructions for Patient Use
 - Advise patients to take XARELTO only as directed.
 - Remind patients to not discontinue XARELTO without first talking to their healthcare professional.
 - Advise patients with atrial fibrillation to take XARELTO once daily with the evening meal.
-- Advise patients with DVT and/or PE to take XARELTO 15 mg or 20 mg tablets with food at approximately the same time every day [see Dosage and Administration (2.5)].
-- Advise patients who cannot swallow the tablet whole to crush XARELTO and combine with a small amount of applesauce followed by food [see Dosage and Administration (2.9)].
-- For patients requiring an NG tube or gastric feeding tube, instruct the patient or caregiver to crush the XARELTO tablet and mix it with a small amount of water before administering via the tube [see Dosage and Administration (2.9)].
+- Advise patients for initial treatment of DVT and/or PE to take XARELTO 15 mg or 20 mg tablets with food at approximately the same time every day [see Dosage and Administration (2.5)].
+- Advise patients who are at a continued risk of recurrent DVT and/or PE after at least 6 months of initial treatment, to take XARELTO 10 mg once daily with or without food [see Dosage and Administration (2.6)].
+- Advise patients who cannot swallow the tablet whole to crush XARELTO and combine with a small amount of applesauce followed by food [see Dosage and Administration (2.10)].
+- For patients requiring an NG tube or gastric feeding tube, instruct the patient or caregiver to crush the XARELTO tablet and mix it with a small amount of water before administering via the tube [see Dosage and Administration (2.10)].
 - If a dose is missed, advise the patient to take XARELTO as soon as possible on the same day and continue on the following day with their recommended daily dose regimen.
 
 Bleeding Risks
@@ -32,10 +33,10 @@ Pregnancy and Pregnancy-Related Hemorrhage
 - Advise patients to inform their physician immediately if they become pregnant or intend to become pregnant during treatment with XARELTO [see Use in Specific Populations (8.1)].
 - Advise pregnant women receiving XARELTO to immediately report to their physician any bleeding or symptoms of blood loss [see Warnings and Precautions (5.7)].
 
-Nursing
+Lactation
 
-Advise patients to discuss with their physician if they are nursing or intend to nurse during anticoagulant treatment [see Use in Specific Populations (8.3)].
+Advise patients to discuss with their physician the benefits and risks of XARELTO for the mother and for the child if they are nursing or intend to nurse during anticoagulant treatment [see Use in Specific Populations (8.2)].
 
-Females of Reproductive Potential
+Females and Males of Reproductive Potential
 
-Advise patients who can become pregnant to discuss pregnancy planning with their physician [see Use in Specific Populations (8.6)].
+Advise patients who can become pregnant to discuss pregnancy planning with their physician [see Use in Specific Populations (8.3)].

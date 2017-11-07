@@ -2,10 +2,10 @@
 
 ## 14.1 Stroke Prevention in Nonvalvular Atrial Fibrillation
 
-The evidence for the efficacy and safety of XARELTO was derived from ROCKET AF, a multi-national, double-blind study comparing XARELTO (at a dose of 20 mg once daily with the evening meal in patients with CrCl >50 mL/min and 15 mg once daily with the evening meal in patients with CrCl 30 to 50 mL/min) to warfarin (titrated to INR 2.0 to 3.0) to reduce the risk of stroke and non-central nervous system (CNS) systemic embolism in patients with nonvalvular atrial fibrillation (AF).
+The evidence for the efficacy and safety of XARELTO was derived from Rivaroxaban Once-daily oral direct factor Xa inhibition Compared with vitamin K antagonist for the prevention of stroke and Embolism Trial in Atrial Fibrillation (ROCKET AF) [NCT00403767], a multi-national, double-blind study comparing XARELTO (at a dose of 20 mg once daily with the evening meal in patients with CrCl >50 mL/min and 15 mg once daily with the evening meal in patients with CrCl 30 to 50 mL/min) to warfarin (titrated to INR 2.0 to 3.0) to reduce the risk of stroke and non-central nervous system (CNS) systemic embolism in patients with nonvalvular atrial fibrillation (AF).
 Patients had to have one or more of the following additional risk factors for stroke:
 
-- a prior stroke (ischemic or unknown type), transient ischemic attack (TIA) or non‑CNS systemic embolism, or
+- a prior stroke (ischemic or unknown type), transient ischemic attack (TIA) or non-CNS systemic embolism, or
 - 2 or more of the following risk factors:
   - age ≥75 years,
   - hypertension,
@@ -58,11 +58,11 @@ During the 28 days following the end of the study, there were 22 strokes in the 
 Few patients in ROCKET AF underwent electrical cardioversion for atrial fibrillation.
 The utility of XARELTO for preventing post-cardioversion stroke and systemic embolism is unknown.
 
-## 14.2 Treatment of Deep Vein Thrombosis (DVT), Pulmonary Embolism (PE), and Reduction in the Risk of Recurrence of DVT and of PE
+## 14.2 Treatment of Deep Vein Thrombosis (DVT) and/or Pulmonary Embolism (PE)
 
 EINSTEIN Deep Vein Thrombosis and EINSTEIN Pulmonary Embolism Studies
 
-XARELTO for the treatment of DVT and/or PE and for the reduction in the risk of recurrence of DVT and of PE was studied in EINSTEIN DVT and EINSTEIN PE, multi-national, open-label, non-inferiority studies comparing XARELTO (at an initial dose of 15 mg twice daily with food for the first three weeks, followed by XARELTO 20 mg once daily with food) to enoxaparin 1 mg/kg twice daily for at least five days with VKA and then continued with VKA only after the target INR (2.0–3.0) was reached.
+XARELTO for the treatment of DVT and/or PE was studied in EINSTEIN DVT [NCT00440193] and EINSTEIN PE [NCT00439777], multi-national, open-label, non-inferiority studies comparing XARELTO (at an initial dose of 15 mg twice daily with food for the first three weeks, followed by XARELTO 20 mg once daily with food) to enoxaparin 1 mg/kg twice daily for at least five days with VKA and then continued with VKA only after the target INR (2.0–3.0) was reached.
 Patients who required thrombectomy, insertion of a caval filter, or use of a fibrinolytic agent and patients with creatinine clearance <30 mL/min, significant liver disease, or active bleeding were excluded from the studies.
 The intended treatment duration was 3, 6, or 12 months based on investigator's assessment prior to randomization.
 
@@ -108,40 +108,44 @@ Figure 6: Time to First Occurrence of the Composite of Recurrent DVT or Non-fata
 
 Figure 7: Time to First Occurrence of the Composite of Recurrent DVT or Non-fatal or Fatal PE by Treatment Group (Intent-to-Treat Population) – EINSTEIN PE Study
 
-EINSTEIN Extension Study
+## 14.3 Reduction in the Risk of Recurrence of DVT and/or PE
 
-XARELTO for reduction in the risk of recurrence of DVT and of PE was studied in the EINSTEIN Extension study, a multi-national, double-blind, superiority study comparing XARELTO (20 mg once daily with food) to placebo in patients who had completed 6 to 14 months of treatment for DVT and/or PE following the acute event.
-The intended treatment duration was 6 or 12 months based on investigator's assessment prior to randomization.
+EINSTEIN CHOICE Study
 
-A total of 1196 patients were randomized and followed on study treatment for a mean of 190 days for both XARELTO and placebo treatment groups.
-The mean age was approximately 58 years.
-The population was 58% male, 78% Caucasian, 8% Asian and about 2% Black.
-Aspirin was taken as on-treatment concomitant antithrombotic medication by approximately 12% of patients in both treatment groups.
-In the EINSTEIN Extension study about 60% of patients had a history of proximal index DVT without PE event and 29% of patients had a PE without symptomatic DVT event.
-About 59% of patients had an idiopathic DVT/PE.
-Other risk factors included previous episode of DVT/PE (16%), immobilization (14%), known thrombophilic conditions (8%), or active cancer (5%).
+XARELTO for reduction in the risk of recurrence of DVT and of PE was evaluated in the EINSTEIN CHOICE study [NCT02064439], a multi-national, double-blind, superiority study comparing XARELTO (10 or 20 mg once daily with food) to 100 mg acetylsalicylic acid (aspirin) once daily in patients who had completed 6 to 12 months of anticoagulant treatment for DVT and/or PE following the acute event.
+The intended treatment duration in the study was up to 12 months.
+Patients with an indication for continued therapeutic-dose anticoagulation were excluded.
 
-In the EINSTEIN Extension study XARELTO was demonstrated to be superior to placebo for the primary composite endpoint of time to first occurrence of recurrent DVT or non-fatal or fatal PE [HR (95% CI): 0.18 (0.09, 0.39)].
+Because the benefit-risk assessment favored the 10 mg dose versus aspirin compared to the 20 mg dose versus aspirin, only the data concerning the 10 mg dose is discussed below.
+
+A total of 2275 patients were randomized and followed on study treatment for a mean of 290 days for the XARELTO and aspirin treatment groups.
+The mean age was approximately 59 years.
+The population was 56% male, 70% Caucasian, 14% Asian and 3% Black.
+In the EINSTEIN CHOICE study, 51% of patients had DVT only, 33% had PE only, and 16% had PE and DVT combined.
+Other risk factors included idiopathic VTE (43%), previous episode of DVT/PE (17%), recent surgery or trauma (12%), prolonged immobilization (10%), use of estrogen containing drugs (5%), known thrombophilic conditions (6%), Factor V Leiden gene mutation (4%), or active cancer (3%).
+
+In the EINSTEIN CHOICE study, XARELTO 10 mg was demonstrated to be superior to aspirin 100 mg for the primary composite endpoint of time to first occurrence of recurrent DVT or non-fatal or fatal PE.
 
 Table 10 displays the overall results for the primary composite endpoint and its components.
 
-Table 10: Primary Composite Endpoint ResultsFor the primary efficacy analysis, all confirmed events were considered from randomization up to the end of intended treatment duration (6 or 12 months) irrespective of the actual treatment duration. in EINSTEIN Extension Study – Intent-to-Treat Population
+Table 10: Primary Composite Endpoint and its Components ResultsFor the primary efficacy analysis, all confirmed events were considered from randomization up to the end of intended treatment duration (12 months) irrespective of the actual treatment duration.
+The individual component of the primary endpoint represents the first occurrence of the event. in EINSTEIN CHOICE Study – Full Analysis Set
 
-| Event | XARELTO 20 mg N=602 n (%) | Placebo N=594 n (%) | XARELTO vs. Placebo Hazard Ratio (95% CI) |
+| Event | XARELTO 10 mg N=1,127 n (%) | Acetylsalicylic Acid (Aspirin) 100 mg N=1,131 n (%) | XARELTO 10 mg vs. Aspirin 100 mg Hazard Ratio (95% CI) |
 | --- | --- | --- | --- |
-| Primary Composite Endpoint | 8 (1.3) | 42 (7.1) | 0.18 (0.09, 0.39) p-value = <0.0001 |
-| Death (PE) | 0 | 1 (0.2) |  |
-| Death (PE cannot be excluded) | 1 (0.2) | 0 |  |
-| Symptomatic recurrent PE | 2 (0.3) | 13 (2.2) |  |
-| Symptomatic recurrent DVT | 5 (0.8) | 31 (5.2) |  |
+| Primary Composite Endpoint | 13 (1.2) | 50 (4.4) | 0.26 (0.14, 0.47) p<0.0001 |
+| Symptomatic recurrent DVT | 8 (0.7) | 29 (2.6) |  |
+| Symptomatic recurrent PE | 5 (0.4) | 19 (1.7) |  |
+| Death (PE) | 0 | 1 (<0.1) |  |
+| Death (PE cannot be excluded) | 0 | 1 (<0.1) |  |
 
 Figure 8 is a plot of the time from randomization to the occurrence of the first primary efficacy endpoint event in the two treatment groups.
 
-Figure 8: Time to First Occurrence of the Composite of Recurrent DVT or Non-fatal or Fatal PE by Treatment Group (Intent-to-Treat Population) – EINSTEIN Extension Study
+Figure 8: Time to First Occurrence of the Composite of Recurrent DVT or Non-fatal or Fatal PE by Treatment Group (Full Analysis Set) – EINSTEIN CHOICE Study
 
-## 14.3 Prophylaxis of Deep Vein Thrombosis Following Hip or Knee Replacement Surgery
+## 14.4 Prophylaxis of Deep Vein Thrombosis Following Hip or Knee Replacement Surgery
 
-XARELTO was studied in 9011 patients (4487 XARELTO-treated, 4524 enoxaparin-treated patients) in the RECORD 1, 2, and 3 studies.
+XARELTO was studied in 9011 patients (4487 XARELTO-treated, 4524 enoxaparin-treated patients) in the REgulation of Coagulation in ORthopedic Surgery to Prevent DVT and PE, Controlled, Double-blind, Randomized Study of BAY 59-7939 in the Extended Prevention of VTE in Patients Undergoing Elective Total Hip or Knee Replacement (RECORD 1, 2, and 3) [NCT00329628, NCT00332020, NCT00361894] studies.
 
 The two randomized, double-blind, clinical studies (RECORD 1 and 2) in patients undergoing elective total hip replacement surgery compared XARELTO 10 mg once daily starting at least 6 to 8 hours (about 90% of patients dosed 6 to 10 hours) after wound closure versus enoxaparin 40 mg once daily started 12 hours preoperatively.
 In RECORD 1 and 2, a total of 6727 patients were randomized and 6579 received study drug.

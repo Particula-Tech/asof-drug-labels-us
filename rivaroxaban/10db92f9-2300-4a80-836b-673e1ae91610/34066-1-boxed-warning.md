@@ -3,7 +3,7 @@
 A. Premature discontinuation of XARELTO increases the risk of thrombotic events
 
 Premature discontinuation of any oral anticoagulant, including XARELTO, increases the risk of thrombotic events.
-If anticoagulation with XARELTO is discontinued for a reason other than pathological bleeding or completion of a course of therapy, consider coverage with another anticoagulant [see Dosage and Administration (2.3, 2.7), Warnings and Precautions (5.1), and Clinical Studies (14.1)].
+If anticoagulation with XARELTO is discontinued for a reason other than pathological bleeding or completion of a course of therapy, consider coverage with another anticoagulant [see Dosage and Administration (2.3, 2.8), Warnings and Precautions (5.1), and Clinical Studies (14.1)].
 
 B. Spinal/epidural hematoma
 

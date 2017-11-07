@@ -14,9 +14,9 @@ XARELTO is indicated for the treatment of deep vein thrombosis (DVT).
 
 XARELTO is indicated for the treatment of pulmonary embolism (PE).
 
-## 1.4 Reduction in the Risk of Recurrence of Deep Vein Thrombosis and of Pulmonary Embolism
+## 1.4 Reduction in the Risk of Recurrence of Deep Vein Thrombosis and/or Pulmonary Embolism
 
-XARELTO is indicated for the reduction in the risk of recurrence of deep vein thrombosis and of pulmonary embolism following initial 6 months treatment for DVT and/or PE.
+XARELTO is indicated for the reduction in the risk of recurrence of DVT and/or PE in patients at continued risk for recurrent DVT and/or PE after completion of initial treatment lasting at least 6 months.
 
 ## 1.5 Prophylaxis of Deep Vein Thrombosis Following Hip or Knee Replacement Surgery
 

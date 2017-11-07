@@ -10,8 +10,8 @@ The following adverse reactions are also discussed in other sections of the labe
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-During clinical development for the approved indications, 16326 patients were exposed to XARELTO.
-These included 7111 patients who received XARELTO 15 mg or 20 mg orally once daily for a mean of 19 months (5558 for 12 months and 2512 for 24 months) to reduce the risk of stroke and systemic embolism in nonvalvular atrial fibrillation (ROCKET AF); 4728 patients who received either XARELTO 15 mg orally twice daily for three weeks followed by 20 mg orally once daily (EINSTEIN DVT, EINSTEIN PE) or 20 mg orally once daily (EINSTEIN Extension) to treat DVT, PE, and to reduce the risk of recurrence of DVT and of PE; and 4487 patients who received XARELTO 10 mg orally once daily for prophylaxis of DVT following hip or knee replacement surgery (RECORD 1–3).
+During clinical development for the approved indications, 18560 patients were exposed to XARELTO.
+These included 7111 patients who received XARELTO 15 mg or 20 mg orally once daily for a mean of 19 months (5558 for 12 months and 2512 for 24 months) to reduce the risk of stroke and systemic embolism in nonvalvular atrial fibrillation (ROCKET AF); 6962 patients who received XARELTO 15 mg orally twice daily for three weeks followed by 20 mg orally once daily to treat DVT or PE (EINSTEIN DVT, EINSTEIN PE), 10 mg or 20 mg orally once daily (EINSTEIN Extension, EINSTEIN CHOICE) to reduce the risk of recurrence of DVT and/or PE; and 4487 patients who received XARELTO 10 mg orally once daily for prophylaxis of DVT following hip or knee replacement surgery (RECORD 1–3).
 
 Hemorrhage
 
@@ -47,7 +47,7 @@ Note: The figure above presents effects in various subgroups all of which are ba
 The 95% confidence limits that are shown do not take into account how many comparisons were made, nor do they reflect the effect of a particular factor after adjustment for all other factors.
 Apparent homogeneity or heterogeneity among groups should not be over-interpreted.
 
-Treatment of Deep Vein Thrombosis (DVT), Pulmonary Embolism (PE), and to Reduce the Risk of Recurrence of DVT and of PE
+Treatment of Deep Vein Thrombosis (DVT) and/or Pulmonary Embolism (PE)
 
 EINSTEIN DVT and EINSTEIN PE Studies
 
@@ -75,25 +75,28 @@ Although a patient may have had 2 or more events, the patient is counted only on
 | Clinically relevant non-major bleeding | 357 (8.6) | 357 (8.7) |
 | Any bleeding | 1169 (28.3) | 1153 (28.0) |
 
-EINSTEIN Extension Study
+Reduction in the Risk of Recurrence of DVT and/or PE
 
-In the EINSTEIN Extension clinical study, the most frequent adverse reactions associated with permanent drug discontinuation were bleeding events, with incidence rates of 1.8% for XARELTO vs. 0.2% for placebo treatment groups.
-The mean duration of treatment was 190 days for both XARELTO and placebo treatment groups.
+EINSTEIN CHOICE Study
 
-Table 3 shows the number of patients experiencing bleeding events in the EINSTEIN Extension study.
+In the EINSTEIN CHOICE clinical study, the most frequent adverse reactions associated with permanent drug discontinuation were bleeding events, with incidence rates of 1% for XARELTO 10 mg, 2% for XARELTO 20 mg, and 1% for acetylsalicylic acid (aspirin) 100 mg.
+The mean duration of treatment was 293 days for XARELTO 10 mg-treated patients and 286 days for aspirin 100 mg-treated patients.
+
+Table 3 shows the number of patients experiencing bleeding events in the EINSTEIN CHOICE study.
 
 Table 3: Bleeding EventsBleeding event occurred after the first dose and up to 2 days after the last dose of study drug.
-Although a patient may have had 2 or more events, the patient is counted only once in a category. in EINSTEIN Extension Study
+Although a patient may have had 2 or more events, the patient is counted only once in a category. in EINSTEIN CHOICE
 
-| Parameter | XARELTOTreatment schedule: XARELTO 20 mg once daily; matched placebo once daily 20 mg N=598 n (%) | Placebo N=590 n (%) |
+| Parameter | XARELTOTreatment schedule: XARELTO 10 mg once daily or aspirin 100 mg once daily. 10 mg N=1127 n (%) | Acetylsalicylic Acid (aspirin) 100 mg N=1131 n (%) |
 | --- | --- | --- |
-| Major bleeding eventThere were no fatal or critical organ bleeding events. | 4 (0.7) | 0 |
-| Decrease in Hb ≥2 g/dL | 4 (0.7) | 0 |
-| Transfusion of ≥2 units of whole blood or packed red blood cells | 2 (0.3) | 0 |
-| Gastrointestinal | 3 (0.5) | 0 |
-| Menorrhagia | 1 (0.2) | 0 |
-| Clinically relevant non-major bleeding | 32 (5.4) | 7 (1.2) |
-| Any bleeding | 104 (17.4) | 63 (10.7) |
+| Major bleeding event | 5 (0.4) | 3 (0.3) |
+| Fatal bleeding | 0 | 1 (<0.1) |
+| Non-fatal critical organ bleeding | 2 (0.2) | 1 (<0.1) |
+| Non-fatal non-critical organ bleedingMajor bleeding which is not fatal or in a critical organ, but resulting in a decrease in Hb ≥ 2 g/dL and/or transfusion of ≥ 2 units of whole blood or packed red blood cells. | 3 (0.3) | 1 (<0.1) |
+| Clinically relevant non-major (CRNM) bleedingBleeding which was clinically overt, did not meet the criteria for major bleeding, but was associated with medical intervention, unscheduled contact with a physician, temporary cessation of treatment, discomfort for the patient, or impairment of activities of daily life. | 22 (2.0) | 20 (1.8) |
+| Any bleeding | 151 (13.4) | 138 (12.2) |
+
+In the EINSTEIN CHOICE study, there was an increased incidence of bleeding, including major and CRNM bleeding in the XARELTO 20 mg group compared to the XARELTO 10 mg or aspirin 100 mg groups.
 
 Prophylaxis of Deep Vein Thrombosis Following Hip or Knee Replacement Surgery
 
@@ -132,36 +135,35 @@ Following XARELTO treatment, the majority of major bleeding complications (≥60
 
 Other Adverse Reactions
 
-Non-hemorrhagic adverse reactions reported in ≥1% of XARELTO-treated patients in the EINSTEIN Extension study are shown in Table 5.
+Non-hemorrhagic adverse reactions reported in ≥1% of XARELTO-treated patients in the EINSTEIN DVT and EINSTEIN PE studies are shown in Table 5.
 
-Table 5: Other Adverse ReactionsAdverse reaction (with Relative Risk >1.5 for XARELTO versus placebo) occurred after the first dose and up to 2 days after the last dose of study drug.
-Incidences are based on the number of patients, not the number of events.
-Although a patient may have had 2 or more clinical adverse reactions, the patient is counted only once in a category.
-The same patient may appear in different categories.
-Reported by ≥1% of XARELTO-Treated Patients in EINSTEIN Extension Study
+Table 5: Other Adverse ReactionsAdverse reaction with Relative Risk >1.5 for XARELTO versus comparator Reported by ≥1% of XARELTO-Treated Patients in EINSTEIN DVT and EINSTEIN PE Studies
 
-| System Organ Class Preferred Term | XARELTO N=598 n (%) | Placebo N=590 n (%) |
+| Body System Adverse Reaction |  |  |
 | --- | --- | --- |
+| EINSTEIN DVT Study | XARELTO 20 mg N=1718 n (%) | Enoxaparin/VKA N=1711 n (%) |
 | Gastrointestinal disorders |  |  |
-| Abdominal pain upper | 10 (1.7) | 1 (0.2) |
-| Dyspepsia | 8 (1.3) | 4 (0.7) |
-| Toothache | 6 (1.0) | 0 |
+| Abdominal pain | 46 (2.7) | 25 (1.5) |
 | General disorders and administration site conditions |  |  |
-| Fatigue | 6 (1.0) | 3 (0.5) |
-| Infections and infestations |  |  |
-| Sinusitis | 7 (1.2) | 3 (0.5) |
-| Urinary tract infection | 7 (1.2) | 3 (0.5) |
+| Fatigue | 24 (1.4) | 15 (0.9) |
 | Musculoskeletal and connective tissue disorders |  |  |
-| Back pain | 22 (3.7) | 7 (1.2) |
-| Osteoarthritis | 10 (1.7) | 5 (0.8) |
-| Respiratory, thoracic and mediastinal disorders |  |  |
-| Oropharyngeal pain | 6 (1.0) | 2 (0.3) |
+| Back pain | 50 (2.9) | 31 (1.8) |
+| Muscle spasm | 23 (1.3) | 13 (0.8) |
+| Nervous system disorders |  |  |
+| Dizziness | 38 (2.2) | 22 (1.3) |
+| Psychiatric disorders |  |  |
+| Anxiety | 24 (1.4) | 11 (0.6) |
+| Depression | 20 (1.2) | 10 (0.6) |
+| Insomnia | 28 (1.6) | 18 (1.1) |
+| EINSTEIN PE Study | XARELTO 20 mg N=2412 n (%) | Enoxaparin/VKA N=2405 n (%) |
+| Skin and subcutaneous tissue disorders |  |  |
+| Pruritus | 53 (2.2) | 27 (1.1) |
 
 Non-hemorrhagic adverse reactions reported in ≥1% of XARELTO-treated patients in RECORD 1–3 studies are shown in Table 6.
 
 Table 6: Other Adverse Drug ReactionsAdverse reaction occurring any time following the first dose of double-blind medication, which may have been prior to administration of active drug, until two days after the last dose of double-blind study medication Reported by ≥1% of XARELTO-Treated Patients in RECORD 1–3 Studies
 
-| System/Organ Class Adverse Reaction | XARELTO 10 mg N=4487 n (%) | EnoxaparinIncludes the placebo-controlled period of RECORD 2, enoxaparin dosing was 40 mg once daily (RECORD 1–3) N=4524 n (%) |
+| Body System Adverse Reaction | XARELTO 10 mg N=4487 n (%) | EnoxaparinIncludes the placebo-controlled period of RECORD 2, enoxaparin dosing was 40 mg once daily (RECORD 1–3) N=4524 n (%) |
 | --- | --- | --- |
 | Injury, poisoning and procedural complications |  |  |
 | Wound secretion | 125 (2.8) | 89 (2.0) |
@@ -178,7 +180,7 @@ Other clinical trial experience: In an investigational study of acute medically 
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use of rivaroxaban.
+The following adverse reactions have been identified during post-approval use of XARELTO.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Blood and lymphatic system disorders: agranulocytosis, thrombocytopenia
