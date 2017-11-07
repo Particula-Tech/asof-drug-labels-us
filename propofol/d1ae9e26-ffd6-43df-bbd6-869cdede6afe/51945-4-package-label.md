@@ -12,9 +12,9 @@ For Intravenous Administration
 
 20 mL - For Single Patient Use Only
 
-Shake Well Before Using
+SHAKE WELL BEFORE USING Mfd. for: Fresenius Kabi USA, LLC Lake Zurich, IL 60047 Made in Sweden
 
-PACKAGE LABEL - PRINCIPAL DISPLAY - Diprivan ® 20 mL Vial Carton Panel
+PACKAGE LABEL - PRINCIPAL DISPLAY - Diprivan® 20 mL Vial Carton Panel
 
 NDC 63323-269-94
 
@@ -26,8 +26,8 @@ DIPRIVAN® (Propofol) INJECTABLE EMULSION, USP
 
 For Intravenous Administration
 
-Shake Well Before Using
+SHAKE WELL BEFORE USING
 
 Ten 20 mL vials
 
-For Single Patient Use Only
+For Single Patient Use Only Sterile, nonpyrogenic
