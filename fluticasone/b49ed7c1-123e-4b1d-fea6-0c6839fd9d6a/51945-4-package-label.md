@@ -2,7 +2,7 @@ PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0718-20
 
-Flovent® HFA 44 mcg
+Flovent HFA 44 mcg
 
 (fluticasone propionate 44 mcg)
 
@@ -17,22 +17,22 @@ Each actuation of the inhaler delivers 50 mcg of fluticasone propionate from the
 Rx only
 
 Net Wt.
-10.6g
+10.6 g
 
 120 Metered Actuations
 
 Made in UK
 
-©2016 the GSK group of companies
+©2017 GSK group of companies or its licensor.
 
-1. 62000000008771 Rev.
-   5/16
+1. 62000000016774 Rev.
+   9/17
 
 PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0719-20
 
-Flovent® HFA 110 mcg
+Flovent HFA 110 mcg
 
 (fluticasone propionate 110 mcg)
 
@@ -53,16 +53,16 @@ Net Wt.
 
 Made in Singapore
 
-©2016 the GSK group of companies
+©2017 GSK group of companies or its licensor.
 
-1. 62000000008737 Rev.
-   5/16
+1. 62000000016788 Rev.
+   9/17
 
 PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0720-20
 
-Flovent® HFA 220 mcg
+Flovent HFA 220 mcg
 
 (fluticasone propionate 220 mcg)
 
@@ -85,7 +85,7 @@ Net Wt.
 
 Made in Singapore
 
-©2016 the GSK group of companies
+©2017 GSK group of companies or its licensor.
 
-1. 62000000008704 Rev.
-   5/16
+1. 62000000016790 Rev.
+   9/17
