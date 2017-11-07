@@ -34,9 +34,6 @@ The decrease in sitting blood pressure was most notable approximately 1–2 hour
 Similar effects on blood pressure were noted with 25 mg, 50 mg and 100 mg of VIAGRA, therefore the effects are not related to dose or plasma levels within this dosage range.
 Larger effects were recorded among patients receiving concomitant nitrates [see Contraindications (4.1)].
 
-| Figure 1: Mean Change from Baseline in Sitting Systolic Blood Pressure, Healthy Volunteers. |
-| --- |
-
 Effects of VIAGRA on Blood Pressure When Nitroglycerin is Subsequently Administered: Based on the pharmacokinetic profile of a single 100 mg oral dose given to healthy normal volunteers, the plasma levels of sildenafil at 24 hours post dose are approximately 2 ng/mL (compared to peak plasma levels of approximately 440 ng/mL).
 In the following patients: age >65 years, hepatic impairment (e.g., cirrhosis), severe renal impairment (e.g., creatinine clearance <30 mL/min), and concomitant use of erythromycin or strong CYP3A4 inhibitors, plasma levels of sildenafil at 24 hours post dose have been found to be 3 to 8 times higher than those seen in healthy volunteers.
 Although plasma levels of sildenafil at 24 hours post dose are much lower than at peak concentration, it is unknown whether nitrates can be safely co-administered at this time point [see Contraindications (4.1)].
@@ -185,9 +182,6 @@ It is eliminated predominantly by hepatic metabolism (mainly CYP3A4) and is conv
 Both sildenafil and the metabolite have terminal half lives of about 4 hours.
 
 Mean sildenafil plasma concentrations measured after the administration of a single oral dose of 100 mg to healthy male volunteers is depicted below:
-
-| Figure 5: Mean Sildenafil Plasma Concentrations in Healthy Male Volunteers. |
-| --- |
 
 Absorption and Distribution: VIAGRA is rapidly absorbed.
 Maximum observed plasma concentrations are reached within 30 to 120 minutes (median 60 minutes) of oral dosing in the fasted state.

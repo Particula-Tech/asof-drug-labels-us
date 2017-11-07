@@ -118,7 +118,6 @@ It is not possible to determine whether these reported events are related direct
 Ocular: diplopia, temporary vision loss/decreased vision, ocular redness or bloodshot appearance, ocular burning, ocular swelling/pressure, increased intraocular pressure, retinal edema, retinal vascular disease or bleeding, and vitreous traction/detachment.
 
 Non-arteritic anterior ischemic optic neuropathy (NAION), a cause of decreased vision including permanent loss of vision, has been reported rarely post-marketing in temporal association with the use of phosphodiesterase type 5 (PDE5) inhibitors, including VIAGRA.
-Most, but not all, of these patients had underlying anatomic or vascular risk factors for developing NAION, including but not necessarily limited to: low cup to disc ratio ("crowded disc"), age over 50, diabetes, hypertension, coronary artery disease, hyperlipidemia and smoking.
-It is not possible to determine whether these events are related directly to the use of PDE5 inhibitors, to the patient's underlying vascular risk factors or anatomical defects, to a combination of these factors, or to other factors [see Warnings and Precautions (5.3) and Patient Counseling Information (17)].
+Most, but not all, of these patients had underlying anatomic or vascular risk factors for developing NAION, including but not necessarily limited to: low cup to disc ratio ("crowded disc"), age over 50, diabetes, hypertension, coronary artery disease, hyperlipidemia and smoking [see Warnings and Precautions (5.3) and Patient Counseling Information (17)].
 
 Urogenital: prolonged erection, priapism [see Warnings and Precautions (5.2) and Patient Counseling Information (17)], and hematuria.

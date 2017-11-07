@@ -1,4 +1,6 @@
-# Patient Information VIAGRA® (vi-AG-rah) (sildenafil citrate) Tablets
+# Patient Information
+
+VIAGRA® (vi-AG-rah) (sildenafil citrate) Tablets
 
 What is the most important information I should know about VIAGRA?
 
@@ -107,6 +109,7 @@ Rarely reported side effects include:
   If it is not treated right away, priapism can permanently damage your penis.
 - sudden vision loss in one or both eyes.
   Sudden vision loss in one or both eyes can be a sign of a serious eye problem called non-arteritic anterior ischemic optic neuropathy (NAION).
+  It is uncertain whether PDE5 inhibitors directly cause the vision loss.
   Stop taking VIAGRA and call your healthcare provider right away if you have sudden vision loss in one or both eyes.
 - sudden hearing decrease or hearing loss.
   Some people may also have ringing in their ears (tinnitus) or dizziness.
@@ -164,11 +167,11 @@ Inactive ingredients: microcrystalline cellulose, anhydrous dibasic calcium phos
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-September 2015
-
 This product's label may have been updated.
 For current full prescribing information, please visit www.pfizer.com.
 
 Viagra (sildenafil citrate), Revatio (sildenafil), Cardura (doxazosin mesylate), and Minipress (prazosin HCl) are registered trademarks of Pfizer Inc.
 
-LAB-0220-10.0
+LAB-0220-11.0
+
+Revised: 08/2017

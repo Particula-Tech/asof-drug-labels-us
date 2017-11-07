@@ -26,8 +26,8 @@ The titration studies, in which most patients received 100 mg, showed similar re
 Figure 6 shows that regardless of the baseline levels of function, subsequent function in patients treated with VIAGRA was better than that seen in patients treated with placebo.
 At the same time, on-treatment function was better in treated patients who were less impaired at baseline.
 
-| Figure 6. Effect of VIAGRA and Placebo on Maintenance of Erection by Baseline Score. |
-| --- |
+| Figure 6. Effect of VIAGRA and Placebo on Maintenance of Erection by Baseline Score. |  |
+| --- | --- |
 
 The frequency of patients reporting improvement of erections in response to a global question in four of the randomized, double-blind, parallel, placebo-controlled fixed dose studies (1797 patients) of 12 to 24 weeks duration is shown in Figure 7.
 These patients had erectile dysfunction at baseline that was characterized by median categorical scores of 2 (a few times) on principal IIEF questions.
@@ -35,7 +35,7 @@ Erectile dysfunction was attributed to organic (58%; generally not characterized
 Sixty-three percent, 74%, and 82% of the patients on 25 mg, 50 mg and 100 mg of VIAGRA, respectively, reported an improvement in their erections, compared to 24% on placebo.
 In the titration studies (n=644) (with most patients eventually receiving 100 mg), results were similar.
 
-| Overall treatment p<0.0001 |  |
+|  | Overall treatment p<0.0001 |
 | --- | --- |
 | Figure 7. Percentage of Patients Reporting an Improvement in Erections. |  |
 

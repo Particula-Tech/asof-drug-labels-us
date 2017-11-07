@@ -6,7 +6,7 @@ Nitrates
 
 Physicians should discuss with patients the contraindication of VIAGRA with regular and/or intermittent use of nitric oxide donors, such as organic nitrates or organic nitrites in any form [see Contraindications (4.1)].
 
-## Guanylate Cyclase (GC) Stimulators
+Guanylate Cyclase (GC) Stimulators
 
 Physicians should discuss with patients the contraindication of VIAGRA with use of guanylate cyclase stimulators such as riociguat [see Contraindications (4.3)].
 
@@ -25,7 +25,6 @@ Sudden Loss of Vision
 
 Physicians should advise patients to stop use of all PDE5 inhibitors, including VIAGRA, and seek medical attention in the event of a sudden loss of vision in one or both eyes.
 Such an event may be a sign of non-arteritic anterior ischemic optic neuropathy (NAION), a cause of decreased vision including possible permanent loss of vision, that has been reported rarely post-marketing in temporal association with the use of all PDE5 inhibitors.
-It is not possible to determine whether these events are related directly to the use of PDE5 inhibitors or to other factors.
 Physicians should discuss with patients the increased risk of NAION in individuals who have already experienced NAION in one eye.
 Physicians should also discuss with patients the increased risk of NAION among the general population in patients with a "crowded" optic disc, although evidence is insufficient to support screening of prospective users of PDE5 inhibitor, including VIAGRA, for this uncommon condition [see Warnings and Precautions (5.3) and Adverse Reactions (6.2)].
 
