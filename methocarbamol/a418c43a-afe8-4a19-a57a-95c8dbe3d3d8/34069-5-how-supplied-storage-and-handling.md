@@ -8,7 +8,7 @@ Not made with natural rubber latex.
 
 To report SUSPECTED ADVERSE REACTIONS, contact West-Ward Pharmaceuticals Corp. at 1-877-845-0689 or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
-For Product Inquiry call 1-877-845-6089.
+For Product Inquiry call 1-877-845-0689.
 
 Manufactured by:
 
