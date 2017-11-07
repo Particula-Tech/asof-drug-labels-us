@@ -1,11 +1,11 @@
 # Patient Information
 
-Retin-A Micro® (ret-in-A MY-kroe) (tretinoin) Gel microsphere, 0.1%, 0.08% and 0.04% for topical use
+Retin-A Micro® (ret-in-A MY-kroe) (tretinoin) Gel microsphere, 0.1%, 0.08%, 0.06%, and 0.04% for topical use
 
 Important information: Retin-A Micro is for use on skin only.
 Do not get Retin-A Micro in your eyes, mouth, vagina or the corners of your nose.
 
-What is Retin-A Micro®?
+What is Retin-A Micro?
 
 Retin-A Micro is a prescription medicine used on the skin (topical) to treat acne.
 Acne is a condition in which the skin has blackheads, whiteheads, and other pimples.
@@ -16,7 +16,7 @@ It is not known if Retin-A Micro is safe and effective in children under 12 year
 
 What should I tell my doctor before using Retin-A Micro?
 
-Before using Retin-A Micro, tell your doctor if you:
+Before using Retin-A Micro, tell your doctor about all of your medical conditions, including if you:
 
 - •have a skin condition called eczema.
 - •have a sunburn.
@@ -27,7 +27,7 @@ Before using Retin-A Micro, tell your doctor if you:
 - •are breastfeeding or plan to breastfeed.
   It is not known if Retin-A Micro passes into your breast milk.
 
-Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins, herbal supplements, and any skin products that you use.
+Tell your doctor about all of the medicines you take, including prescription and over-the-counter medicines, vitamins, herbal supplements, and any skin products that you use.
 
 Especially tell your doctor if you use any other medicines to treat your acne, including medicated cleansers or soaps.
 Using other topical acne products may increase the irritation of your skin when used with Retin-A Micro.
@@ -41,9 +41,9 @@ How should I use Retin-A Micro?
 - •Your doctor may change your dose of Retin-A Micro if you have skin irritation.
 - •Before you apply Retin-A Micro, gently wash the affected skin area with a mild, non-medicated soap.
   Rinse and pat your skin dry.
-- •Apply Retin-A Micro, 1 time a day in the evening, or as prescribed by your doctor.
+- •Apply Retin-A Micro 1 time a day in the evening, or as prescribed by your doctor.
 - •Do not use more Retin-A Micro than you need to cover the affected area and do not apply Retin-A Micro more than 1 time a day.
-  Using too much Retin-A Micro or using it too often will not give you faster or better results and you may get skin redness, peeling, or discomfort.
+  Using too much Retin-A Micro or using it too often will not give you faster or better results, and you may get skin redness, peeling, or discomfort.
 - •You may have a brief feeling of warmth or slight stinging after applying Retin-A Micro.
 - •You may use moisturizers and cosmetics.
 - •Early in your treatment, you may get new pimples.
@@ -143,7 +143,6 @@ names are trademarks of their respective owners.
 
 © Valeant Pharmaceuticals North America LLC
 
-9454703 50105472D
+9612500 20002065A
 
-Rev.
-09/2016
+Revised - 10/2017

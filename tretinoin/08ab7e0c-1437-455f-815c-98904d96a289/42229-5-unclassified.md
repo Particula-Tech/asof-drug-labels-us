@@ -15,7 +15,4 @@ Any other product/brand names are trademarks of their respective owners.
 
 ©Valeant Pharmaceuticals North America LLC
 
-945703 50105472D
-
-Rev.
-09/2016
+9612500 20002065A

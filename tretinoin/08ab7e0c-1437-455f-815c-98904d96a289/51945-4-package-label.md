@@ -13,11 +13,26 @@ VALEANT
 NET WT.
 50 g
 
-# PRINCIPAL DISPLAY PANEL - 0.1% 50 g Carton
+# PRINCIPAL DISPLAY PANEL - 0.06% 50 g Carton
 
-NDC 0187-5140-50
+NDC 0187-5146-50
 
-RETIN-A MICRO® (tretinoin gel) microsphere 0.1%
+RETIN-A MICRO® (tretinoin) Gel microsphere 0.06%
+
+PUMP
+
+For Topical Use Only Rx only
+
+VALEANT
+
+NET WT.
+50 g
+
+# PRINCIPAL DISPLAY PANEL - 0.04% 50 g Carton
+
+NDC 0187-5144-50
+
+RETIN-A MICRO® (tretinoin gel) microsphere 0.04%
 
 PUMP
 
@@ -28,11 +43,11 @@ VALEANT
 Net Wt.
 50g
 
-# PRINCIPAL DISPLAY PANEL - 0.04% 50 g Carton
+# PRINCIPAL DISPLAY PANEL - 0.1% 50 g Carton
 
-NDC 0187-5144-50
+NDC 0187-5140-50
 
-RETIN-A MICRO® (tretinoin gel) microsphere 0.04%
+RETIN-A MICRO® (tretinoin gel) microsphere 0.1%
 
 PUMP
 
