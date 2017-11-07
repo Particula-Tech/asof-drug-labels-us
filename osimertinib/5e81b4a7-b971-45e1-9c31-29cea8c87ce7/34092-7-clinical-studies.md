@@ -8,10 +8,10 @@ All patients were required to have EGFR T790M mutation-positive NSCLC identified
 A total of 419 patients were randomized 2:1 to receive TAGRISSO (n=279) or platinum-based doublet chemotherapy (n=140).
 Randomization was stratified by ethnicity (Asian vs. non-Asian).
 Patients in the TAGRISSO arm received TAGRISSO 80 mg orally once daily until intolerance to therapy, disease progression, or investigator determination that the patient was no longer benefiting from treatment.
-Patients in the chemotherapy arm received pemetrexed 500 mg/m2 with carboplatin AUC5 or pemetrexed 500mg/m2 with cisplatin 75 mg/m2) on Day 1 of every 21-day cycle for up to 6 cycles.
+Patients in the chemotherapy arm received pemetrexed 500 mg/m2 with carboplatin AUC5 or pemetrexed 500mg/m2 with cisplatin 75 mg/m2 on Day 1 of every 21-day cycle for up to 6 cycles.
 Patients whose disease had not progressed after four cycles of platinum-based chemotherapy could have received pemetrexed maintenance therapy (pemetrexed 500 mg/m2 on Day 1 of every 21-day cycle).
 
-The major efficacy outcome measure was progression free survival (PFS) according to Response Evaluation Criteria in Solid Tumors (RECIST v1.1) by investigator assessment.
+The major efficacy outcome measure was progression-free survival (PFS) according to Response Evaluation Criteria in Solid Tumors (RECIST v1.1) by investigator assessment.
 Additional efficacy outcome measures included objective response rate (ORR), duration of response (DoR), and overall survival (OS).
 Patients randomized to the chemotherapy arm who had radiological progression according to both investigator and blinded independent central review (BICR) were permitted to cross over to receive treatment with TAGRISSO.
 
@@ -22,28 +22,29 @@ Forty-two percent (42%) of patients had metastatic bone disease.
 In AURA3, there was a statistically significant improvement in PFS in the patients randomized to TAGRISSO compared to chemotherapy (See Table 4 and Figure 1).
 Overall survival data were not mature at the time of the PFS analysis.
 
-Table 4 AURA3 Efficacy Results According to Investigator Assessment
+Table 4.
+AURA3 Efficacy Results According to Investigator Assessment
 
 | Efficacy Parameter | TAGRISSO(N=279) | Chemotherapy(N=140) |
 | --- | --- | --- |
 | Progression-Free Survival |  |  |
-| Number of Events (%) | 140 (50) | 110 (79) |
+| Number of events (%) | 140 (50) | 110 (79) |
 | Progressive disease | 129 (46) | 104 (74) |
-| DeathWithout documented radiological disease progression | 11 (4) | 6(4) |
-| Median PFS in Months (95% CI) | 10.1 (8.3, 12.3) | 4.4 (4.2, 5.6) |
-| Hazard Ratio (95% CI) | 0.30 (0.23, 0.41) |  |
-| P-valueStratified by ethnicity (Asian vs. non-Asian)Stratified log-rank test | <0.001 |  |
+| DeathWithout documented radiological disease progression | 11 (4) | 6 (4) |
+| Median PFS in months (95% CI) | 10.1 (8.3, 12.3) | 4.4 (4.2, 5.6) |
+| Hazard Ratio (95% CI)Stratified by ethnicity (Asian vs. non-Asian)Pike estimator | 0.30 (0.23, 0.41) |  |
+| P-valueStratified log-rank test | <0.001 |  |
 | Objective Response RateConfirmed |  |  |
 | Objective Response Rate | 65% | 29% |
-| (95% CI)Chi-square test | (59%, 70%) | 21%, 37%) |
+| (95% CI)Chi-square test | (59%, 70%) | (21%, 37%) |
 | Complete response | 1% | 1% |
 | Partial response | 63% | 27% |
 | P-value | <0.001 |  |
 | Duration of Response (DoR) |  |  |
-| Median Duration of Response in Months (95% CI) | 11.0 (8.6, 12.6) | 4.2 (3.0, 5.9) |
+| Median Duration of Response in months (95% CI) | 11.0 (8.6, 12.6) | 4.2 (3.0, 5.9) |
 
 Figure 1.
-Kaplan-Meier Curves of PFS by Investigator Assessment in AURA#
+Kaplan-Meier Curves of PFS by Investigator Assessment in AURA3
 
 In a sensitivity analysis of PFS according to blinded independent central review, median PFS was 11 months in the TAGRISSO arm compared to 4.2 months in the chemotherapy arm (HR 0.28; 95% CI: 0.20, 0.38).
 
@@ -56,13 +57,14 @@ CNS Efficacy by BICR in Patients with Measurable CNS Lesions at Baseline Brain S
 
 | Efficacy Parameter | TAGRISSON=30 | ChemotherapyN=16 |
 | --- | --- | --- |
-| CNS Objective Response RateNRNot ReachedBased on confirmed response. |  |  |
+| CNS Objective Response RateAccording to RECIST v1.1.Based on confirmed response. |  |  |
 | CNS Objective Response Rate | 57% | 25% |
 | (95% CI) | (37%, 75%) | (7%, 52%) |
 | Complete response | 7% | 0% |
 | Partial response | 50% | 25% |
-| CNS Duration of ResponseBased on patients with response only; DoR definedas the time from the date of first documented response (complete response or partial response) until progression or death event. |  |  |
-| Median Duration of Response, Months (Range) | NR (1.4, 12.5) | 7.%2(1.4, 5.7) |
+| CNS Duration of ResponseBased on patients with response only; DoR defined as the time from the date of first documented response (complete response or partial response) until progression or death event. |  |  |
+| Median Duration of Response, Months(Range) | NR (1.4, 12.5) | 5.7 (1.4, 5.7) |
+| NR Not Reached |  |  |
 
 Pretreated T790M Positive NSCLC Patients – AURA Extension and AURA2
 
@@ -79,9 +81,10 @@ Somatic EGFR mutations in addition to T790M were exon 19 deletion (68%), L858R (
 Efficacy results by BICR from AURA Extension and AURA2 are summarized in Table 6.
 The majority (96%) of patients with confirmed objective responses had ongoing responses ranging from 1.1 to 5.6 months after a median duration of follow-up of 4.2 months for AURA Extension and 4.0 months for AURA2.
 
-Table 6 Efficacy Results by BICR in AURA Extension and AURA2
+Table 6.
+Efficacy Results by BICR in AURA Extension and AURA2
 
-| Efficacy Parameter | Study 1 (N=201) | Study 2 (N=210) | OverallPooled analysis of AURA Extension and AURA2.(N=411) |
+| Efficacy Parameter | Study 1 (N=201) | Study 2 (N=210) | OverallPooled analysis of AURA Extension and AURA2(N=411) |
 | --- | --- | --- | --- |
 | Objective Response RateObjective response rate according to RECIST v1.1. (95% CI) | 57% (50, 64) | 61% (54, 68) | 59%(54, 64) |
 | Complete Response | 0 | 1% | 0.5% |

@@ -12,8 +12,9 @@ QTc Interval Prolongation
 Inform patients of symptoms that may be indicative of significant QTc prolongation including dizziness, lightheadedness, and syncope.
 Advise patients to report these symptoms and to inform their physician about the use of any heart or blood pressure medications [see Warnings and Precautions (5.2)].
 
-- •TAGRISSO can cause changes in cardiomyopathy.
-  Advise patients to immediately report any signs or symptoms of heart failure to their healthcare provider [see Warnings and Precautions (5.3)].
+- •TAGRISSO can cause cardiomyopathy.
+  Advise patients to immediately report any signs or symptoms
+- •of heart failure to their healthcare provider [see Warnings and Precautions (5.3)].
 
 Keratitis
 

@@ -4,11 +4,12 @@
 
 Osimertinib is a kinase inhibitor of the epidermal growth factor receptor (EGFR), which binds irreversibly to certain mutant forms of EGFR (T790M, L858R, and exon 19 deletion) at approximately 9-fold lower concentrations than wild-type.
 Two pharmacologically-active metabolites (AZ7550 and AZ5104 circulating at approximately 10% of the parent) with similar inhibitory profiles to osimertinib have been identified in the plasma after oral administration of osimertinib.
-AZ7550 showed a similar potency to osimertinib, while AZ5104 showed greater potency against exon 19 deletion and T790M mutants (approximately 8-fold) and wild-type (approximately 15-fold) EGFR. _12.3_Pharmacokinetics_1In vitro, osimertinib also inhibited the activity of HER2, HER3, HER4, ACK1, and BLK at clinically relevant concentrations.
+AZ7550 showed a similar potency to osimertinib, while AZ5104 showed greater potency against exon 19 deletion and T790M mutants (approximately 8-fold) and wild-type (approximately 15-fold) EGFR.
+In vitro, osimertinib also inhibited the activity of HER2, HER3, HER4, ACK1, and BLK at clinically relevant concentrations.
 
 In cultured cells and animal tumor implantation models, osimertinib exhibited anti-tumor activity against NSCLC lines harboring EGFR-mutations (T790M/L858R, L858R, T790M/exon 19 deletion, and exon 19 deletion) and, to a lesser extent, wild-type EGFR amplifications.
 Osimertinib distributed to the brain in multiple animal species (monkey, rat, and mouse) with brain to plasma AUC ratios of approximately 2 following oral dosing.
-These data are consistent with observations of tumor regression and increased survival in osimertinib- versus control-treated animals in a pre-clinical mutant-EGFR intracranial mouse metastasis xenograft model (PC9; exon 19 del)..
+These data are consistent with observations of tumor regression and increased survival in osimertinib- versus control-treated animals in a pre-clinical mutant-EGFR intracranial mouse metastasis xenograft model (PC9; exon 19 del).
 
 ## 12.2 Pharmacodynamics
 
@@ -35,7 +36,7 @@ Following administration of a 20 mg TAGRISSO tablet with a high-fat, high-calori
 
 Distribution
 
-The mean volume of distribution at steady-state (Vss/F) of osimertinib was 997 L. Plasma protein binding of osimertinib is likely high based on its physiochemical properties.
+The mean volume of distribution at steady-state (Vss/F) of osimertinib was 997 L. Plasma protein binding of osimertinib was 95%.
 
 Elimination
 

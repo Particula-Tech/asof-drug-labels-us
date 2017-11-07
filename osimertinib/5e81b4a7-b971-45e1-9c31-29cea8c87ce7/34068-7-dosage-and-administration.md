@@ -28,18 +28,18 @@ The resulting 30 mL liquid should be administered as per the nasogastric tube in
 
 Adverse Reactions
 
-Table 1 Recommended Dose Modifications for TAGRISSO
+Table 1.
+Recommended Dose Modifications for TAGRISSO
 
-| Target Organ | Adverse Reactiona | Dose Modification |
+| Target Organ | Adverse ReactionAdverse reactions graded by the National Cancer Institute Common Terminology Criteria for Adverse Events version 4.0 (NCI CTCAE v4.0). | Dose Modification |
 | --- | --- | --- |
 | Pulmonary | Interstitial lung disease (ILD)/Pneumonitis | Permanently discontinue TAGRISSO. |
-| Cardiac | QTc† interval greater than 500 msec on at least 2 separate ECGsb | Withhold TAGRISSO until QTc interval is less than 481 msec or recovery to baseline if baseline QTc is greater than or equal to 481 msec, then resume at 40 mg dose. |
+| Cardiac | QTcQTc = QT interval corrected for heart rate interval greater than 500 msec on at least 2 separate ECGsECGs = Electrocardiograms | Withhold TAGRISSO until QTc interval is less than 481 msec or recovery to baseline if baseline QTc is greater than or equal to 481 msec, then resume at 40 mg dose. |
 | QTc interval prolongation with signs/symptoms of life-threatening arrhythmia | Permanently discontinue TAGRISSO. |  |
 | Symptomatic congestive heart failure or asymptomatic left ventricular dysfunction that persists ≥4 weeks | Permanently discontinue TAGRISSO. |  |
 | Other | Adverse reaction of Grade 3 or greater severity | Withhold TAGRISSO for up to 3 weeks. |
 | If improvement to Grade 0-2 within 3 weeks | Resume at 80 mg or 40 mg daily. |  |
 | If no improvement within 3 weeks | Permanently discontinue TAGRISSO. |  |
-| a Adverse reactions graded by the National Cancer Institute Common Terminology Criteria for Adverse Events version 4.0 (NCI CTCAE v4.0). b ECGs = Electrocardiograms † QTc = QT interval corrected for heart rate |  |  |
 
 Drug Interactions
 

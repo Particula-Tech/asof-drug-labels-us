@@ -6,7 +6,7 @@ The following information for ILD/ Pneumonitis, QTc Interval Prolongation, Cardi
 
 Interstitial lung disease (ILD)/pneumonitis occurred in 3.5% (n=29) of TAGRISSO-treated patients (n=833); 0.6% (n=5) of cases were fatal.
 
-Withhold TAGRISSO and promptly investigate for ILD in patients who presents with worsening of respiratory symptoms which may be indicative of ILD (e.g., dyspnea, cough and fever).
+Withhold TAGRISSO and promptly investigate for ILD in patients who present with worsening of respiratory symptoms which may be indicative of ILD (e.g., dyspnea, cough and fever).
 Permanently discontinue TAGRISSO if ILD is confirmed [see Dosage and Administration (2.4) and Adverse Reactions (6)].
 
 ## 5.2 QTc Interval Prolongation
@@ -21,7 +21,7 @@ Permanently discontinue TAGRISSO in patients who develop QTc interval prolongati
 
 ## 5.3 Cardiomyopathy
 
-Across clinical trials, cardiomyopathy (defined as cardiac failure, congestive heart failure, pulmonary edema or decreased ejection fraction) occurred in 1.9% (n=16) of 833 TAGRISSO-treated patients; 0.1% (n=1) of cases were fatal.
+Across clinical trials, cardiomyopathy (defined as cardiac failure, congestive heart failure, pulmonary edema or decreased ejection fraction) occurred in 1.9% (n=16) of 833 TAGRISSO-treated patients: 0.1% (n=1) of cases were fatal.
 
 Left Ventricular Ejection Fraction (LVEF) decline greater than or equal to 10% and a drop to less than 50% occurred in 4.0% (26/655) of patients who had baseline and at least one follow-up LVEF assessment.
 
@@ -31,7 +31,7 @@ For symptomatic congestive heart failure or persistent, asymptomatic LV dysfunct
 
 ## 5.4 Keratitis
 
-Keratitis was reported in 0.7% (n=6) of 833 patients treated with TAGRISSO in clinical.
+Keratitis was reported in 0.7% (n=6) of 833 patients treated with TAGRISSO in clinical trials.
 Promptly refer patients with signs and symptoms suggestive of keratitis (such as eye inflammation, lacrimation, light sensitivity, blurred vision, eye pain and/or red eye) to an ophthalmologist.
 
 ## 5.5 Embryo-Fetal Toxicity

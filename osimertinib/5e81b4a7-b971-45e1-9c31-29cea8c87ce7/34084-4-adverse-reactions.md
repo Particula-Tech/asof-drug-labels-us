@@ -39,7 +39,8 @@ The most frequent adverse reaction leading to discontinuation of TAGRISSO was IL
 Tables 2 and 3 summarize common adverse reactions and laboratory abnormalities which occurred in TAGRISSO-treated patients in AURA3.
 AURA3 was not designed to demonstrate a statistically significant reduction in adverse reaction rates for TAGRISSO, or for the control arm, for any adverse reaction listed in Tables 2 and 3.
 
-Table 2 Adverse Reactions Reported in ≥10% of Patients Receiving TAGRISSO in AURA3
+Table 2.
+Adverse Reactions Occurring in ≥10% of Patients Receiving TAGRISSO in AURA3
 
 | Adverse Reaction | TAGRISSO(N=279) |  |  | Chemotherapy(Pemetrexed/Cisplatin orPemetrexed/Carboplatin)(N=136) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -63,15 +64,16 @@ Table 2 Adverse Reactions Reported in ≥10% of Patients Receiving TAGRISSO in A
 | Back pain | 10 |  | 0.4 | 9 |  | 0.7 |
 | General Disorders and Administration Site Conditions |  |  |  |  |  |  |
 | FatigueIncludes fatigue, asthenia. | 22 | 1.8 |  | 40 | 5.1 |  |
+| *NCI CTCAE v4.0 |  |  |  |  |  |  |
 
-Table 3 Common Laboratory Abnormalities (>20% for all NCI CTCAE Grades) in AURA3
+Table 3.
+Common Laboratory Abnormalities (>20% for all NCI CTCAE Grades) in AURA3
 
 | Laboratory Abnormality | TAGRISSO(N=279) |  | Chemotherapy (Pemetrexed/Cisplatin or Pemetrexed/Carboplatin)(N=131Based on the number of patients with available follow-up laboratory data) |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Change from Baseline All Grades(%) | Change from Baseline to Grade 3 or Grade 4(%) | Change from BaselineAll Grades(%) |  | Change from Baseline to Grade 3 or Grade 4(%) |  |
-| Hematologic |  |  |  |  |  |
 | Leukopenia | 61 | 1.1 |  | 75 | 5.3 |
-| Lymphopenia | 61 | 1.1 |  | 75 | 5.3 |
+| Lymphopenia | 63 | 8.2 |  | 61 | 9.9 |
 | Thrombocytopenia | 46 | 0.7 |  | 48 | 7.4 |
 | Neutropenia | 27 | 2.2 |  | 49 | 12 |
 
