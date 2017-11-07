@@ -34,7 +34,7 @@ Therefore, there was no evidence of significant QTc prolongation in this study.
 Overview
 
 Bioavailability of KEPPRA XR tablets is similar to that of the immediate-release KEPPRA tablets.
-The pharmacokinetics (AUC and Cmax) were shown to be dose proportional after single dose administration of 1000 mg, 2000 mg, and 3000 mg extended-release levetiracetam.
+The pharmacokinetics (AUC and C max) were shown to be dose proportional after single dose administration of 1000 mg, 2000 mg, and 3000 mg extended-release levetiracetam.
 Plasma half-life of extended-release levetiracetam is approximately 7 hours.
 
 Levetiracetam is almost completely absorbed after oral administration.
@@ -53,10 +53,10 @@ Extended-release levetiracetam peak plasma concentrations occur in about 4 hours
 The time to peak plasma concentrations is about 3 hours longer with extended-release levetiracetam than with immediate-release tablets.
 
 Single administration of two 500 mg extended-release levetiracetam tablets once daily produced comparable maximal plasma concentrations and area under the plasma concentration versus time as did the administration of one 500 mg immediate-release tablet twice daily in fasting conditions.
-After multiple dose extended-release levetiracetam tablets intake, extent of exposure (AUC0-24) was similar to extent of exposure after multiple dose immediate-release tablets intake.
-Cmax and Cmin were lower by 17% and 26% after multiple dose extended-release levetiracetam tablets intake in comparison to multiple dose immediate-release tablets intake.
+After multiple dose extended-release levetiracetam tablets intake, extent of exposure (AUC 0-24) was similar to extent of exposure after multiple dose immediate-release tablets intake.
+C max and C min were lower by 17% and 26% after multiple dose extended-release levetiracetam tablets intake in comparison to multiple dose immediate-release tablets intake.
 Intake of a high fat, high calorie breakfast before the administration of extended-release levetiracetam tablets resulted in a higher peak concentration, and longer median time to peak.
-The median time to peak (Tmax) was 2 hours longer in the fed state.
+The median time to peak (T max) was 2 hours longer in the fed state.
 
 Two 750 mg extended-release levetiracetam tablets were bioequivalent to a single administration of three 500 mg extended-release levetiracetam tablets.
 
@@ -92,7 +92,7 @@ Pediatric Patients
 
 An open label, multicenter, parallel-group, two-arm study was conducted to evaluate the pharmacokinetics of KEPPRA XR in pediatric patients (13 to 16 years old) and in adults (18 to 55 years old) with epilepsy.
 KEPPRA XR oral tablets (1000 mg to 3000 mg) were administered once daily with a minimum of 4 days and a maximum of 7 days of treatment to 12 pediatric patients and 13 adults in the study.
-Dose-normalized steady-state exposure parameters, Cmax and AUC, were comparable between pediatric and adult patients.
+Dose-normalized steady-state exposure parameters, C max and AUC, were comparable between pediatric and adult patients.
 
 Pregnancy
 
@@ -100,7 +100,7 @@ KEPPRA XR levels may decrease during pregnancy.
 
 Gender
 
-Extended-release levetiracetam Cmax was 21-30% higher and AUC was 8-18% higher in women (N=12) compared to men (N=12).
+Extended-release levetiracetam C max was 21-30% higher and AUC was 8-18% higher in women (N=12) compared to men (N=12).
 However, clearances adjusted for body weight were comparable.
 
 Race
@@ -131,7 +131,7 @@ No dose adjustment is needed for patients with hepatic impairment.
 Drug Interactions
 
 In vitro data on metabolic interactions indicate that levetiracetam is unlikely to produce, or be subject to, pharmacokinetic interactions.
-Levetiracetam and its major metabolite, at concentrations well above Cmax levels achieved within the therapeutic dose range, are neither inhibitors of, nor high affinity substrates for, human liver cytochrome P450 isoforms, epoxide hydrolase or UDP-glucuronidation enzymes.
+Levetiracetam and its major metabolite, at concentrations well above C max levels achieved within the therapeutic dose range, are neither inhibitors of, nor high affinity substrates for, human liver cytochrome P450 isoforms, epoxide hydrolase or UDP-glucuronidation enzymes.
 In addition, levetiracetam does not affect the in vitro glucuronidation of valproic acid.
 
 Potential pharmacokinetic interactions of or with levetiracetam were assessed in clinical pharmacokinetic studies (phenytoin, valproate, warfarin, digoxin, oral contraceptive, probenecid) and through pharmacokinetic screening with immediate-release KEPPRA tablets in the placebo-controlled clinical studies in epilepsy patients.
@@ -172,6 +172,6 @@ Coadministration of warfarin did not affect the pharmacokinetics of levetiraceta
 Probenecid
 
 Probenecid, a renal tubular secretion blocking agent, administered at a dose of 500 mg four times a day, did not change the pharmacokinetics of levetiracetam 1000 mg twice daily.
-Cssmax of the metabolite, ucb L057, was approximately doubled in the presence of probenecid while the fraction of drug excreted unchanged in the urine remained the same.
+C ssmax of the metabolite, ucb L057, was approximately doubled in the presence of probenecid while the fraction of drug excreted unchanged in the urine remained the same.
 Renal clearance of ucb L057 in the presence of probenecid decreased 60%, probably related to competitive inhibition of tubular secretion of ucb L057.
 The effect of immediate-release KEPPRA tablets on probenecid was not studied.

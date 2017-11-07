@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-KEPPRA XR® (KEPP-ruh XR) (levetiracetam) extended-release tablets
+KEPPRA XR ® (KEPP-ruh XR) (levetiracetam) extended-release tablets
 
 Read this Medication Guide before you start taking KEPPRA XR and each time you get a refill.
 There may be new information.
@@ -106,7 +106,7 @@ KEPPRA XR may make you dizzy or sleepy.
 
 What are the possible side effects of KEPPRA XR?
 
-- See "What is the most important information I should know about KEPPRA XR?"
+- See " What is the most important information I should know about KEPPRA XR?"
 
 KEPPRA XR can cause serious side effects.
 

@@ -149,25 +149,36 @@ Antiepileptic drugs, including KEPPRA XR, should be withdrawn gradually to minim
 ## 5.8 Hematologic Abnormalities
 
 KEPPRA XR can cause hematologic abnormalities.
-Hematologic abnormalities occurred in clinical trials and included decreases in white blood cell (WBC) and neutrophil counts, decreases in red blood cell (RBC) counts, hemoglobin, and hematocrit, and increases in eosinophil counts.
-Cases of agranulocytosis, leukopenia, neutropenia, pancytopenia, and thrombocytopenia have also been reported in the postmarketing setting.
+Hematologic abnormalities occurred in clinical trials and included decreases in white blood cell (WBC), neutrophil, and red blood cell (RBC) counts; decreases in hemoglobin and hematocrit; and increases in eosinophil counts.
+Cases of agranulocytosis, pancytopenia, and thrombocytopenia have also been reported in the postmarketing setting.
 A complete blood count is recommended in patients experiencing significant weakness, pyrexia, recurrent infections, or coagulation disorders.
 
-In controlled trials of immediate-release KEPPRA tablets in patients experiencing partial onset seizures, minor, but statistically significant, decreases compared to placebo in total mean RBC count (0.03 × 106/mm3), mean hemoglobin (0.09 g/dL), and mean hematocrit (0.38%), were seen in immediate-release KEPPRA-treated patients.
+In controlled trials of immediate-release KEPPRA tablets in patients experiencing partial onset seizures, minor, but statistically significant, decreases compared to placebo in total mean RBC count (0.03 × 10 /mm), mean hemoglobin (0.09 g/dL), and mean hematocrit (0.38%), were seen in immediate-release KEPPRA-treated patients.
+In controlled trials of immediate-release KEPPRA tablets in patients experiencing partial onset seizures, minor, but statistically significant, decreases compared to placebo in total mean RBC count (0.03 × 10 6/mm 3), mean hemoglobin (0.09 g/dL), and mean hematocrit (0.38%), were seen in immediate-release KEPPRA-treated patients.
 
-A total of 3.2% of KEPPRA-treated and 1.8% of placebo-treated patients had at least one possibly significant (≤2.8 × 109/L) decreased WBC, and 2.4% of KEPPRA-treated and 1.4% of placebo-traeted patients had at least one possibly significant (≤1.0 × 109/L) decreased neutrophil count.
+A total of 3.2% of KEPPRA-treated and 1.8% of placebo-treated patients had at least one possibly significant (≤2.8 × 10 /L) decreased WBC, and 2.4% of KEPPRA-treated and 1.4% of placebo-traeted patients had at least one possibly significant (≤1.0 × 10 /L) decreased neutrophil count.
+Of the KEPPRA-treated patients with a low neutrophil count, all but one rose towards or to baseline with continued treatment.
+No patient was discontinued secondary to low neutrophil counts.
+A total of 3.2% of KEPPRA-treated and 1.8% of placebo-treated patients had at least one possibly significant (≤2.8 × 10 9/L) decreased WBC, and 2.4% of KEPPRA-treated and 1.4% of placebo-traeted patients had at least one possibly significant (≤1.0 × 10 9/L) decreased neutrophil count.
 Of the KEPPRA-treated patients with a low neutrophil count, all but one rose towards or to baseline with continued treatment.
 No patient was discontinued secondary to low neutrophil counts.
 
 In pediatric patients (4 to <16 years of age), statistically significant decreases in WBC and neutrophil counts were seen in patients treated with immediate-release KEPPRA, as compared to placebo.
-The mean decreases from baseline in the immediate-release KEPPRA group were -0.4 × 109/L and -0.3 × 109/L, respectively, whereas there were small increases in the placebo group.
+The mean decreases from baseline in the immediate-release KEPPRA group were -0.4 × 10 /L and -0.3 × 10 /L, respectively, whereas there were small increases in the placebo group.
+A significant increase in mean relative lymphocyte counts was observed in 1.7% of patients treated with immediate-release KEPPRA compared to a decrease of 4% in patients on placebo.
+In pediatric patients (4 to <16 years of age), statistically significant decreases in WBC and neutrophil counts were seen in patients treated with immediate-release KEPPRA, as compared to placebo.
+The mean decreases from baseline in the immediate-release KEPPRA group were -0.4 × 10 9/L and -0.3 × 10 9/L, respectively, whereas there were small increases in the placebo group.
 A significant increase in mean relative lymphocyte counts was observed in 1.7% of patients treated with immediate-release KEPPRA compared to a decrease of 4% in patients on placebo.
 
 In the controlled pediatric trial, a possibly clinically significant abnormal low WBC value was observed in 3% of patients treated with immediate-release KEPPRA, compared to no patients on placebo.
 However, there was no apparent difference between treatment groups with respect to neutrophil count.
 No patient was discontinued secondary to low WBC or neutrophil counts.
+In the controlled pediatric trial, a possibly clinically significant abnormal low WBC value was observed in 3% of patients treated with immediate-release KEPPRA, compared to no patients on placebo.
+However, there was no apparent difference between treatment groups with respect to neutrophil count.
+No patient was discontinued secondary to low WBC or neutrophil counts.
 
-In the controlled pediatric cognitive and neuropsychological safety study, two subjects (6.1%) in the placebo group and 5 subjects (8.6%) in the immediate-release KEPPRA-treated group had high eosinophil count values that were possibly clinically significant (≥10% or ≥0.7×109/L).
+In the controlled pediatric cognitive and neuropsychological safety study, two subjects (6.1%) in the placebo group and 5 subjects (8.6%) in the immediate-release KEPPRA-treated group had high eosinophil count values that were possibly clinically significant (≥10% or ≥0.7×10 /L).
+In the controlled pediatric cognitive and neuropsychological safety study, two subjects (6.1%) in the placebo group and 5 subjects (8.6%) in the immediate-release KEPPRA-treated group had high eosinophil count values that were possibly clinically significant (≥10% or ≥0.7×10 9/L).
 
 ## 5.9 Seizure Control During Pregnancy
 

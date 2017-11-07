@@ -20,13 +20,13 @@ To do this, an estimate of the patient's creatinine clearance (CLcr) in mL/min m
 
 Then CLcr is adjusted for body surface area (BSA) as follows:
 
-| CLcr (mL/min/1.73m2)= | CLcr (mL/min) | × 1.73 |
+| CLcr (mL/min/1.73m 2)= | CLcr (mL/min) | × 1.73 |
 | --- | --- | --- |
-| BSA subject (m2) |  |  |
+| BSA subject (m 2) |  |  |
 
 Table 1: Dosage Adjustment Regimen for Adult Patients with Renal Impairment
 
-| Group | Creatinine Clearance (mL/min/1.73m2) | Dosage (mg) | Frequency |
+| Group | Creatinine Clearance (mL/min/1.73m 2) | Dosage (mg) | Frequency |
 | --- | --- | --- | --- |
 | Normal | > 80 | 1000 to 3000 | Every 24 hours |
 | Mild | 50 – 80 | 1000 to 2000 | Every 24 hours |
