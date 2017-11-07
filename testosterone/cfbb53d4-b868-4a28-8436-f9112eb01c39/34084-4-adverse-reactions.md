@@ -21,4 +21,6 @@ Allergic: Hypersensitivity, including skin manifestations and anaphylactoid reac
 
 Vascular disorders: Venous thromboembolism.
 
+Special senses: Rare cases of central serous chorioretinopathy (CSCR).
+
 Miscellaneous: Inflammation and pain at the site of intramuscular injection.
