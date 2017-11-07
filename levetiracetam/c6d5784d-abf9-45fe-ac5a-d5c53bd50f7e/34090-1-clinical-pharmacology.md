@@ -30,7 +30,7 @@ Therefore, there was no evidence of significant QTc prolongation in this study.
 
 ## 12.3 Pharmacokinetics
 
-Equivalent doses of intravenous (IV) levetiracetam and oral levetiracetam result in equivalent Cmax, Cmin, and total systemic exposure to levetiracetam when the IV levetiracetam is administered as a 15-minute infusion.
+Equivalent doses of intravenous (IV) levetiracetam and oral levetiracetam result in equivalent C max, C min, and total systemic exposure to levetiracetam when the IV levetiracetam is administered as a 15-minute infusion.
 
 The pharmacokinetics of levetiracetam have been studied in healthy adult subjects, adults and pediatric patients with epilepsy, elderly subjects, and subjects with renal and hepatic impairment.
 
@@ -51,10 +51,10 @@ Distribution
 
 The equivalence of levetiracetam injection and the oral formulation was demonstrated in a bioavailability study of 17 healthy volunteers.
 In this study, levetiracetam 1500 mg was diluted in 100 mL 0.9% sterile saline solution and was infused over 15 minutes.
-The selected infusion rate provided plasma concentrations of levetiracetam at the end of the infusion period similar to those achieved at Tmax after an equivalent oral dose.
+The selected infusion rate provided plasma concentrations of levetiracetam at the end of the infusion period similar to those achieved at T max after an equivalent oral dose.
 It is demonstrated that levetiracetam 1500 mg intravenous infusion is equivalent to levetiracetam 3 × 500 mg oral tablets.
 The time independent pharmacokinetic profile of levetiracetam was demonstrated following 1500 mg intravenous infusion for 4 days with BID dosing.
-The AUC(0-12) at steady-state was equivalent to AUCinf following an equivalent single dose.
+The AUC (0-12) at steady-state was equivalent to AUC inf following an equivalent single dose.
 
 Levetiracetam and its major metabolite are less than 10% bound to plasma proteins; clinically significant interactions with other drugs through competition for protein binding sites are therefore unlikely.
 
@@ -86,13 +86,13 @@ This is most likely due to the decrease in renal function in these subjects.
 
 Pediatric Patients
 
-- Intravenous FormulationA population pharmacokinetic analysis for the intravenous formulation was conducted in 49 pediatric patients (1 month to < 16 years of age) weighing 3-79 kg.
+- Intravenous Formulation A population pharmacokinetic analysis for the intravenous formulation was conducted in 49 pediatric patients (1 month to < 16 years of age) weighing 3-79 kg.
   Patients received levetiracetam as a 15-minute IV infusion at doses between 14 mg/kg/day and 60 mg/kg/day twice daily.
   Plasma concentrations and model derived steady-state exposure AUC (0-12) were within the range of the exposure observed in pediatric patients receiving equivalent doses of the oral solution.
 - Oral Formulations Pharmacokinetics of levetiracetam were evaluated in 24 pediatric patients (age 6-12 years) after single oral dose (20 mg/kg) of the immediate release formulation of KEPPRA.
   The body weight adjusted apparent clearance of levetiracetam was approximately 40% higher than in adults.
   A repeat dose pharmacokinetic study was conducted in pediatric patients (age 4-12 years) at doses of 20 mg/kg/day, 40 mg/kg/day, and 60 mg/kg/day of the immediate release formulation of KEPPRA.
-  The evaluation of the pharmacokinetic profile of levetiracetam and its metabolite (ucb L057) in 14 pediatric patients demonstrated rapid absorption of levetiracetam at all doses, with a Tmax of about 1 hour and a t1/2 of 5 hours across all dosing levels.
+  The evaluation of the pharmacokinetic profile of levetiracetam and its metabolite (ucb L057) in 14 pediatric patients demonstrated rapid absorption of levetiracetam at all doses, with a T max of about 1 hour and a t 1/2 of 5 hours across all dosing levels.
   The pharmacokinetics of levetiracetam in pediatric patients was linear between 20 to 60 mg/kg/day.
   The potential interaction of levetiracetam with other AEDs was also evaluated in these patients.
   Levetiracetam had no significant effect on the plasma concentrations of carbamazepine, valproic acid, topiramate or lamotrigine.
@@ -107,7 +107,7 @@ Levetiracetam levels may decrease during pregnancy.
 
 Gender
 
-Levetiracetam Cmax and AUC were 20% higher in women (N=11) compared to men (N=12).
+Levetiracetam C max and AUC were 20% higher in women (N=11) compared to men (N=12).
 However, clearances adjusted for body weight were comparable.
 
 Race
@@ -134,7 +134,7 @@ No dose adjustment is needed for patients with hepatic impairment.
 Drug Interactions
 
 In vitro data on metabolic interactions indicate that levetiracetam is unlikely to produce, or be subject to, pharmacokinetic interactions.
-Levetiracetam and its major metabolite, at concentrations well above Cmax levels achieved within the therapeutic dose range, are neither inhibitors of, nor high affinity substrates for, human liver cytochrome P450 isoforms, epoxide hydrolase or UDP-glucuronidation enzymes.
+Levetiracetam and its major metabolite, at concentrations well above C max levels achieved within the therapeutic dose range, are neither inhibitors of, nor high affinity substrates for, human liver cytochrome P450 isoforms, epoxide hydrolase or UDP-glucuronidation enzymes.
 In addition, levetiracetam does not affect the in vitro glucuronidation of valproic acid.
 
 Potential pharmacokinetic interactions of or with levetiracetam were assessed in clinical pharmacokinetic studies (phenytoin, valproate, warfarin, digoxin, oral contraceptive, probenecid) and through pharmacokinetic screening in the placebo-controlled clinical studies in epilepsy patients.
@@ -180,6 +180,6 @@ Coadministration of warfarin did not affect the pharmacokinetics of levetiraceta
 Probenecid
 
 Probenecid, a renal tubular secretion blocking agent, administered at a dose of 500 mg four times a day, did not change the pharmacokinetics of levetiracetam 1000 mg twice daily.
-Cssmax of the metabolite, ucb L057, was approximately doubled in the presence of probenecid while the fraction of drug excreted unchanged in the urine remained the same.
+C ssmax of the metabolite, ucb L057, was approximately doubled in the presence of probenecid while the fraction of drug excreted unchanged in the urine remained the same.
 Renal clearance of ucb L057 in the presence of probenecid decreased 60%, probably related to competitive inhibition of tubular secretion of ucb L057.
 The effect of KEPPRA on probenecid was not studied.

@@ -2,7 +2,7 @@
 
 KEPPRA injection is an antiepileptic drug available as a clear, colorless, sterile solution (100 mg/mL) for intravenous administration.
 
-The chemical name of levetiracetam, a single enantiomer, is (-)-(S)-α-ethyl-2-oxo-1-pyrrolidine acetamide, its molecular formula is C8H14N2O2 and its molecular weight is 170.21.
+The chemical name of levetiracetam, a single enantiomer, is (-)-(S)-α-ethyl-2-oxo-1-pyrrolidine acetamide, its molecular formula is C 8H 14N 2O 2 and its molecular weight is 170.21.
 Levetiracetam is chemically unrelated to existing antiepileptic drugs (AEDs).
 It has the following structural formula:
 

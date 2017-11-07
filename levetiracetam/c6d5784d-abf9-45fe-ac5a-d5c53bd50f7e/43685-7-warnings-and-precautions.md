@@ -85,30 +85,30 @@ Antiepileptic drugs, including KEPPRA, should be withdrawn gradually to minimize
 ## 5.7 Hematologic Abnormalities
 
 KEPPRA can cause hematologic abnormalities.
-Hematologic abnormalities occurred in clinical trials and included decreases in white blood cell (WBC) and neutrophil counts, decreases in red blood cells count (RBC), hemoglobin, and hematocrit, and increases in eosinophil counts.
-Cases of agranulocytosis, leukopenia, neutropenia, pancytopenia, and thrombocytopenia have also been reported in the postmarketing setting.
+Hematologic abnormalities occurred in clinical trials and included decreases in white blood cell (WBC), neutrophil, and red blood cells counts (RBC); decreases in hemoglobin and hematocrit; and increases in eosinophil counts.
+Cases of agranulocytosis, pancytopenia, and thrombocytopenia have been reported in the postmarketing setting.
 A complete blood count is recommended in patients experiencing significant weakness, pyrexia, recurrent infections, or coagulation disorders.
 
 Partial Onset Seizures
 
 Adults
 
-In controlled clinical studies using an oral formulation of KEPPRA in adult patients with partial onset seizures, minor but statistically significant decreases compared to placebo in total mean RBC (0.03 × 106/mm3), mean hemoglobin (0.09 g/dL), and mean hematocrit (0.38%), were seen in KEPPRA-treated patients.
+In controlled clinical studies using an oral formulation of KEPPRA in adult patients with partial onset seizures, minor but statistically significant decreases compared to placebo in total mean RBC (0.03 × 10 6/mm 3), mean hemoglobin (0.09 g/dL), and mean hematocrit (0.38%), were seen in KEPPRA-treated patients.
 
-A total of 3.2% of KEPPRA-treated and 1.8% of placebo-treated patients had at least one possibly significant (≤2.8 × 109/L) decreased WBC, and 2.4% of KEPPRA-treated and 1.4% of placebo-treated patients had at least one possibly significant (≤1.0 × 109/L) decreased neutrophil count.
+A total of 3.2% of KEPPRA-treated and 1.8% of placebo-treated patients had at least one possibly significant (≤2.8 × 10 9/L) decreased WBC, and 2.4% of KEPPRA-treated and 1.4% of placebo-treated patients had at least one possibly significant (≤1.0 × 10 9/L) decreased neutrophil count.
 Of the KEPPRA-treated patients with a low neutrophil count, all but one rose towards or to baseline with continued treatment.
 No patient was discontinued secondary to low neutrophil counts.
 
 Pediatric Patients 4 Years to < 16 Years
 
 In a controlled study in pediatric patients age 4 years to <16 years, statistically significant decreases in WBC and neutrophil counts were seen in KEPPRA-treated patients, as compared to placebo.
-The mean decreases from baseline in the KEPPRA-treated group were -0.4 × 109/L and -0.3 × 109/L, respectively, whereas there were small increases in the placebo group.
+The mean decreases from baseline in the KEPPRA-treated group were -0.4 × 10 9/L and -0.3 × 10 9/L, respectively, whereas there were small increases in the placebo group.
 Mean relative lymphocyte counts increased by 1.7% in KEPPRA-treated patients, compared to a decrease of 4% in placebo-treated patients (statistically significant).
 
 More KEPPRA-treated patients had a possibly clinically significant abnormally low WBC value (3% of KEPPRA-treated patients versus 0% of placebo-treated patients); however, there was no apparent difference between treatment groups with respect to neutrophil count (5% on KEPPRA versus 4.2% on placebo).
 No patient was discontinued because of low WBC or neutrophil count.
 
-In a randomized, double-blind, placebo-controlled study to assess the neurocognitive and behavioral effects of an oral formulation of KEPPRA as adjunctive therapy in pediatric patients (4 to 16 years of age), 5 patients (8.6%) in the KEPPRA-treated group and two patients (6.1%) in the placebo-treated group had high eosinophil count values that were possibly clinically significant (≥10% or ≥0.7×109/L).
+In a randomized, double-blind, placebo-controlled study to assess the neurocognitive and behavioral effects of an oral formulation of KEPPRA as adjunctive therapy in pediatric patients (4 to 16 years of age), 5 patients (8.6%) in the KEPPRA-treated group and two patients (6.1%) in the placebo-treated group had high eosinophil count values that were possibly clinically significant (≥10% or ≥0.7×10 9/L).
 
 ## 5.8 Increase in Blood Pressure
 
