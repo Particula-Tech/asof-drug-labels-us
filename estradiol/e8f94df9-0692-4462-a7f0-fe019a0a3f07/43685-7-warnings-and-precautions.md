@@ -82,6 +82,18 @@ The use of estrogen plus progestin has been reported to result in an increase in
 All women should receive yearly breast examinations by a healthcare provider and perform monthly breast self-examinations.
 In addition, mammography examinations should be scheduled based on patient age, risk factors, and prior mammogram results.
 
+### c. Ovarian cancer
+
+The CE/MPA substudy of WHI reported that estrogen plus progestin increased the risk of ovarian cancer.
+After an average follow-up of 5.6 years, the relative risk for ovarian cancer for CE/MPA versus placebo was 1.58 (95% confidence interval 0.77 – 3.24) but was not statistically significant.
+The absolute risk for CE/MPA versus placebo was 4.2 versus 2.7 cases per 10,000 women-years.
+
+A meta-analysis of 17 prospective and 35 retrospective epidemiology studies found that women who used hormonal therapy for menopausal symptoms had an increased risk for ovarian cancer.
+The primary analysis, using case-control comparisons, included 12,110 cancer cases from the 17 prospective studies.
+The relative risks associated with current use of hormonal therapy was 1.41 (95% confidence interval [CI] 1.32 to 1.50); there was no difference in the risk estimates by duration of the exposure (less than 5 years [median of 3 years] vs. greater than 5 years [median of 10 years] of use before the cancer diagnosis).
+The relative risk associated with combined current and recent use (discontinued use within 5 years before cancer diagnosis) was 1.37 (95% CI 1.27-1.48), and the elevated risk was significant for both estrogen-alone and estrogen plus progestin products.
+The exact duration of hormone therapy use associated with an increased risk of ovarian cancer, however, is unknown.
+
 ## 3. Dementia
 
 In the Women's Health Initiative Memory Study (WHIMS), 4,532 generally healthy postmenopausal women 65 years of age and older were studied, of whom 35% were 70 to 74 years of age and 18% were 75 or older.
@@ -150,36 +162,24 @@ Because estrogens may cause some degree of fluid retention, patients with condit
 
 Estrogens should be used with caution in individuals with severe hypocalcemia.
 
-### 8. Ovarian cancer
-
-The CE/MPA substudy of WHI reported that estrogen plus progestin increased the risk of ovarian cancer.
-After an average follow-up of 5.6 years, the relative risk for ovarian cancer for CE/MPA versus placebo was 1.58 (95% confidence interval 0.77 – 3.24) but was not statistically significant.
-The absolute risk for CE/MPA versus placebo was 4.2 versus 2.7 cases per 10,000 women-years.
-
-A meta-analysis of 17 prospective and 35 retrospective epidemiology studies found that women who used hormonal therapy for menopausal symptoms had an increased risk for ovarian cancer.
-The primary analysis, using case-control comparisons, included 12,110 cancer cases from the 17 prospective studies.
-The relative risks associated with current use of hormonal therapy was 1.41 (95% confidence interval [CI] 1.32 to 1.50); there was no difference in the risk estimates by duration of the exposure (less than 5 years [median of 3 years] vs. greater than 5 years [median of 10 years] of use before the cancer diagnosis).
-The relative risk associated with combined current and recent use (discontinued use within 5 years before cancer diagnosis) was 1.37 (95% CI 1.27-1.48), and the elevated risk was significant for both estrogen-alone and estrogen plus progestin products.
-The exact duration of hormone therapy use associated with an increased risk of ovarian cancer, however, is unknown.
-
-### 9. Exacerbation of endometriosis
+### 8. Exacerbation of endometriosis
 
 Endometriosis may be exacerbated with administration of estrogens.
 A few cases of malignant transformation of residual endometrial implants have been reported in women treated post-hysterectomy with estrogen alone therapy.
 For patients known to have residual endometriosis post-hysterectomy, the addition of progestin should be considered.
 
-### 10. Exacerbation of other conditions
+### 9. Exacerbation of other conditions
 
 Estrogens may cause an exacerbation of asthma, diabetes mellitus, epilepsy, migraine or porphyria, systemic lupus erythematosus, and hepatic hemangiomas and should be used with caution in women with these conditions.
 
-### 11. Hypercoagulability
+### 10. Hypercoagulability
 
 Some studies have shown that women taking estrogen replacement therapy have hypercoagulability, primarily related to decreased antithrombin activity.
 This effect appears dose- and duration-dependent and is less pronounced than that associated with oral contraceptive use.
 Also, postmenopausal women tend to have increased coagulation parameters at baseline compared to premenopausal women.
 There is some suggestion that low dose postmenopausal mestranol may increase the risk of thromboembolism, although the majority of studies (of primarily conjugated estrogens users) report no such increase.
 
-### 12. Uterine bleeding and mastodynia
+### 11. Uterine bleeding and mastodynia
 
 Certain patients may develop undesirable manifestations of estrogenic stimulation, such as abnormal uterine bleeding and mastodynia.
 
