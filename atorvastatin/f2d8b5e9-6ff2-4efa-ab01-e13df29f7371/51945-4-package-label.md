@@ -1,6 +1,6 @@
 # Package/Label Display Panel
 
-NDC 50228-152-90
+NDC 50228-451-90
 
 Atorvastatin Calcium
 
@@ -14,7 +14,7 @@ PHARMACIST: Dispense the accompanying Patient Information to each patient.
 
 ScieGen Pharmaceuticals Inc.
 
-NDC 50228-152-10
+NDC 50228-451-10
 
 Atorvastatin Calcium
 
@@ -28,7 +28,7 @@ PHARMACIST: Dispense the accompanying Patient Information to each patient.
 
 ScieGen Pharmaceuticals Inc.
 
-NDC 50228-153-91
+NDC 50228-452-91
 
 Atorvastatin Calcium
 
@@ -42,7 +42,7 @@ PHARMACIST: Dispense the accompanying Patient Information to each patient.
 
 ScieGen Pharmaceuticals Inc.
 
-NDC 50228-153-06
+NDC 50228-452-06
 
 Atorvastatin Calcium
 
@@ -56,7 +56,7 @@ PHARMACIST: Dispense the accompanying Patient Information to each patient.
 
 ScieGen Pharmaceuticals Inc.
 
-NDC 50228-154-91
+NDC 50228-453-91
 
 Atorvastatin Calcium
 
@@ -70,7 +70,7 @@ PHARMACIST: Dispense the accompanying Patient Information to each patient.
 
 ScieGen Pharmaceuticals Inc.
 
-NDC 50228-154-11
+NDC 50228-453-11
 
 Atorvastatin Calcium
 
@@ -84,7 +84,7 @@ PHARMACIST: Dispense the accompanying Patient Information to each patient.
 
 ScieGen Pharmaceuticals Inc.
 
-NDC 50228-155-90
+NDC 50228-454-90
 
 Atorvastatin Calcium
 
@@ -98,7 +98,7 @@ PHARMACIST: Dispense the accompanying Patient Information to each patient.
 
 ScieGen Pharmaceuticals Inc.
 
-NDC 50228-155-05
+NDC 50228-454-05
 
 Atorvastatin Calcium
 
