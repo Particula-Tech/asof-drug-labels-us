@@ -95,7 +95,7 @@ ULN = upper limit of normal for the institution
 ## 8.7 Renal Impairment
 
 The effect of renal impairment on the pharmacokinetics of imatinib was assessed in 59 patients with cancer and varying degrees of renal impairment at single and steady state imatinib doses ranging from 100 to 800 mg/day.
-The mean exposure to imatinib (dose normalized AUC) in patients with mild and moderate renal impairment increased 1.5- to 2-fold compared to patients with normal renal function.
+The mean exposure to imatinib (dose normalized AUC) in patients with mild and moderate renal impairment increased 1.5 to 2 fold compared to patients with normal renal function.
 There are not sufficient data in patients with severe renal impairment [see Clinical Pharmacology (12.3)].
 Dose reductions are necessary for patients with moderate and severe renal impairment [see Dosage and Administration (2.12)].
 

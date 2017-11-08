@@ -2,10 +2,10 @@
 
 Dosing and Administration
 
-Advise patients to take imatinib mesylate exactly as prescribed, not to change their dose or to stop taking imatinib mesylate unless they are told to do so by their doctor.
-If the patient missed a dose of imatinib mesylate, the patient should take the next scheduled dose at its regular time.
+Advise patients to take imatinib mesylate tablets exactly as prescribed, not to change their dose or to stop taking imatinib mesylate tablets unless they are told to do so by their doctor.
+If the patient missed a dose of imatinib mesylate tablets, the patient should take the next scheduled dose at its regular time.
 The patient should not take two doses at the same time.
-Advise patients to take imatinib mesylate with a meal and a large glass of water [see Dosage and Administration (2.1)].
+Advise patients to take imatinib mesylate tablets with a meal and a large glass of water [see Dosage and Administration (2.1)].
 
 Fluid Retention and Edema
 
@@ -20,29 +20,29 @@ Advise patients to immediately contact their health care provider if signs of li
 Pregnancy and Breastfeeding
 
 Advise patients to inform their doctor if they are or think they may be pregnant.
-Advise women of reproductive potential to avoid becoming pregnant while taking imatinib mesylate.
-Female patients of reproductive potential taking imatinib mesylate should use highly effective contraception during treatment and for fourteen days after stopping treatment with imatinib mesylate [see Use in Specific Populations (8.3)].
+Advise women of reproductive potential to avoid becoming pregnant while taking imatinib mesylate tablets.
+Female patients of reproductive potential taking imatinib mesylate tablets should use highly effective contraception during treatment and for fourteen days after stopping treatment with imatinib mesylate tablets [see Use in Specific Populations (8.3)].
 Avoid breastfeeding during treatment and for 1 month after the last dose [see Use in Specific Populations (8.2)].
 
 Drug Interactions
 
-Imatinib mesylate and certain other medicines such as warfarin, erythromycin, and phenytoin, including over-the-counter medications such as herbal products, can interact with each other.
+Imatinib mesylate tablets and certain other medicines such as warfarin, erythromycin, and phenytoin, including over-the-counter medications such as herbal products, can interact with each other.
 Advise patients to tell their doctor if they are taking or plan to take iron supplements.
-Avoid grapefruit juice and other foods known to inhibit CYP3A4 while taking imatinib mesylate [see Drug Interactions (7)].
+Avoid grapefruit juice and other foods known to inhibit CYP3A4 while taking imatinib mesylate tablets [see Drug Interactions (7)].
 
 Pediatric
 
-Advise patients that growth retardation has been reported in children and pre-adolescents receiving imatinib mesylate.
-The long term effects of prolonged treatment with imatinib mesylate on growth in children are unknown.
-Therefore, closely monitor growth in children under imatinib mesylate treatment [see Warnings and Precautions (5.11)].
+Advise patients that growth retardation has been reported in children and pre-adolescents receiving imatinib mesylate tablets.
+The long term effects of prolonged treatment with imatinib mesylate tablets on growth in children are unknown.
+Therefore, closely monitor growth in children under imatinib mesylate tablet treatment [see Warnings and Precautions (5.11)].
 
 Driving and Using Machines
 
-Advise patients that they may experience side effects such as dizziness, blurred vision or somnolence during treatment with imatinib mesylate.
+Advise patients that they may experience side effects such as dizziness, blurred vision or somnolence during treatment with imatinib mesylate tablets.
 Therefore, caution patients about driving a car or operating machinery [see Warnings and Precautions (5.13)].
 
 Manufactured In Israel By: Teva Pharmaceutical Ind.
 Ltd. Jerusalem, 9777402, Israel Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
 Rev.
-J 9/2017
+K 10/2017

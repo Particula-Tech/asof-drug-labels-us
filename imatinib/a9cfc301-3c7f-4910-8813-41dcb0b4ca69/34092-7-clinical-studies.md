@@ -29,7 +29,7 @@ Progression was defined as any of the following events: progression to accelerat
 The protocol specified that the progression analysis would compare the intent to treat (ITT) population: patients randomized to receive imatinib mesylate were compared with patients randomized to receive IFN.
 Patients that crossed over prior to progression were not censored at the time of cross-over, and events that occurred in these patients following cross-over were attributed to the original randomized treatment.
 The estimated rate of progression-free survival at 84 months in the ITT population was 81.2% [95% CI: 78, 85] in the imatinib mesylate arm and 60.6% [56, 65] in the IFN arm (p less than 0.0001, log-rank test), (Figure 1).
-With 7 years follow up there were 93 (16.8%) progression events in the imatinib mesylate arm: 37(6.7%) progression to AP/BC, 31(5.6%) loss of MCyR, 15 (2.7%) loss of CHR or increase in WBC and 10 (1.8%) CML unrelated deaths.
+With 7 years follow up there were 93 (16.8%) progression events in the imatinib mesylate arm: 37 (6.7%) progression to AP/BC, 31 (5.6%) loss of MCyR, 15 (2.7%) loss of CHR or increase in WBC and 10 (1.8%) CML unrelated deaths.
 In contrast, there were 165 (29.8%) events in the IFN+Ara-C arm of which 130 occurred during first-line treatment with IFN-Ara-C.
 The estimated rate of patients free of progression to accelerated phase (AP) or blast crisis (BC) at 84 months was 92.5% [90, 95] in the imatinib mesylate arm compared to the 85.1%, [82, 89] (p less than or equal to 0.001) in the IFN arm, (Figure 2).
 The annual rates of any progression events have decreased with time on therapy.
@@ -41,10 +41,10 @@ The hazard ratio is 0.750 with 95% CI 0.547 to 1.028.
 This time-to-event endpoint may be affected by the high crossover rate from IFN+Ara-C to imatinib mesylate.
 Major cytogenetic response, hematologic response, evaluation of minimal residual disease (molecular response), time to accelerated phase or blast crisis and survival were main secondary endpoints.
 Response data are shown in Table 18.
-Complete hematologic response, major cytogenetic response and complete cytogenetic response were also statistically significantly higher in the imatinib mesylate arm compared to the IFN + Ara-C arm (no cross-over data considered for evaluation of responses).
+Complete hematologic response, major cytogenetic response and complete cytogenetic response were also statistically significantly higher in the imatinib mesylate arm compared to the IFN+Ara-C arm (no cross-over data considered for evaluation of responses).
 Median time to CCyR in the 454 responders was 6 months (range 2 to 64 months, 25th to 75th percentiles = 3 to 11 months) with 10% of responses seen only after 22 months of therapy.
 
-Table 18: Response in Newly Diagnosed CML Study (84-Month Data)
+Table 18: Response in Newly Diagnosed CML Study (84 Month Data)
 
 | (Best Response Rate) | Imatinib Mesylaten = 553 | IFN+Ara–Cn = 553 |
 | --- | --- | --- |
@@ -69,7 +69,6 @@ There was no apparent change from baseline in median index for patients treated 
 
 An open-label, multicenter, randomized trial (imatinib mesylate versus nilotinib) was conducted to determine the efficacy of imatinib mesylate versus nilotinib in adult patients with cytogenetically confirmed, newly diagnosed Ph+ CML-CP.
 Patients were within 6 months of diagnosis and were previously untreated for CML-CP, except for hydroxyurea and/or anagrelide.
-
 Efficacy was based on a total of 846 patients: 283 patients in the imatinib mesylate 400 mg once daily group, 282 patients in the nilotinib 300 mg twice daily group, 281 patients in the nilotinib 400 mg twice daily group.
 
 Median age was 46 years in the imatinib mesylate group and 47 years in both nilotinib groups, with 12%, 13%, and 10% of patients greater than or equal to 65 years of age in imatinib mesylate 400 mg once-daily, nilotinib 300 mg twice-daily and nilotinib 400 mg twice-daily treatment groups, respectively.

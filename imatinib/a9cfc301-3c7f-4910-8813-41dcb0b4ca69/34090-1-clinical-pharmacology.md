@@ -59,7 +59,7 @@ Dose reductions are necessary for patients with severe hepatic impairment [seeDo
 Renal Impairment
 
 The effect of renal impairment on the pharmacokinetics of imatinib was assessed in 59 cancer patients with varying degrees of renal impairment [see Use in Specific Populations (8.7)] at single and steady state imatinib doses ranging from 100 to 800 mg/day.
-The mean exposure to imatinib (dose normalized AUC) in patients with mild and moderate renal impairment increased 1.5- to 2-fold compared to patients with normal renal function.
+The mean exposure to imatinib (dose normalized AUC) in patients with mild and moderate renal impairment increased 1.5 to 2 fold compared to patients with normal renal function.
 The AUCs did not increase for doses greater than 600 mg in patients with mild renal impairment.
 The AUCs did not increase for doses greater than 400 mg in patients with moderate renal impairment.
 Two patients with severe renal impairment were dosed with 100 mg/day and their exposures were similar to those seen in patients with normal renal function receiving 400 mg/day.
@@ -70,7 +70,7 @@ Pediatric Use
 As in adult patients, imatinib was rapidly absorbed after oral administration in pediatric patients, with a Cmax of 2 to 4 hours.
 Apparent oral clearance was similar to adult values (11.0 L/hr/m2 in children vs. 10.0 L/hr/m2 in adults), as was the half-life (14.8 hours in children vs. 17.1 hours in adults).
 Dosing in children at both 260 mg/m2 and 340 mg/m2 achieved an AUC similar to the 400 mg dose in adults.
-The comparison of AUC on Day 8 vs. Day 1 at 260 mg/m2 and 340 mg/m2 dose levels revealed a 1.5- and 2.2-fold drug accumulation, respectively, after repeated once-daily dosing.
+The comparison of AUC on Day 8 vs. Day 1 at 260 mg/m2 and 340 mg/m2 dose levels revealed a 1.5 and 2.2 fold drug accumulation, respectively, after repeated once-daily dosing.
 Mean imatinib AUC did not increase proportionally with increasing dose.
 
 Based on pooled population pharmacokinetic analysis in pediatric patients with hematological disorders (CML, Ph+ ALL, or other hematological disorders treated with imatinib), clearance of imatinib increases with increasing body surface area (BSA).
@@ -99,7 +99,7 @@ Grapefruit juice may also increase plasma concentrations of imatinib and should 
 
 Interactions with Drugs Metabolized by CYP3A4
 
-Imatinib mesylate increases the mean Cmax and AUC of simvastatin (CYP3A4 substrate) 2- and 3.5-fold, respectively, suggesting an inhibition of the CYP3A4 by imatinib mesylate.
+Imatinib mesylate increases the mean Cmax and AUC of simvastatin (CYP3A4 substrate) 2 and 3.5 fold, respectively, suggesting an inhibition of the CYP3A4 by imatinib mesylate.
 Particular caution is recommended when administering imatinib mesylate with CYP3A4 substrates that have a narrow therapeutic window (e.g., alfentanil, cyclosporine, diergotamine, ergotamine, fentanyl, pimozide, quinidine, sirolimus or tacrolimus).
 
 Imatinib mesylate will increase plasma concentration of other CYP3A4 metabolized drugs (e.g., triazolo-benzodiazepines, dihydropyridine calcium channel blockers, certain HMG-CoA reductase inhibitors, etc.).
