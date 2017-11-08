@@ -5,13 +5,10 @@
   "inn": "estradiol",
   "labeler": "Vertical Pharmaceuticals, LLC",
   "package_ndcs": [
-    "68025-065-01",
     "68025-065-07",
     "68025-065-30",
-    "68025-066-01",
     "68025-066-07",
     "68025-066-30",
-    "68025-067-01",
     "68025-067-07",
     "68025-067-30"
   ],
@@ -19,7 +16,7 @@
     {
       "form": "GEL",
       "generic": "estradiol",
-      "name": "DiviGel"
+      "name": "DIVIGEL"
     }
   ],
   "setid": "59e610dc-883e-4f07-9ec6-a5841b0bf9fb",

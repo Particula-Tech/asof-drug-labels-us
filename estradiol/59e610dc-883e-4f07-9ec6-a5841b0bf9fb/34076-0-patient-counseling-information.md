@@ -31,12 +31,20 @@ Step 2: Sit in a comfortable position.
 
 Step 3: Cut or tear the Divigel packet as shown in Figure A.
 
+Figure A
+
 Step 4: Using your thumb and index finger, squeeze the entire contents of the packet onto the skin of the upper thigh as shown in Figure B.
 
+Figure B
+
 Step 5: Gently spread the gel in a thin layer on your upper thigh over an area of about 5 by 7 inches, or two palm prints as shown in Figure C. It is not necessary to massage or rub in Divigel.
+
+Figure C
 
 Step 6: Allow the gel to dry completely before dressing.
 
 Step 7: Dispose of the empty Divigel packet in the trash.
 
 Step 8: Wash your hands with soap and water immediately after applying Divigel to remove any remaining gel and reduce the chance of transferring Divigel to other people.
+
+125140-08 Revised 11/2017
