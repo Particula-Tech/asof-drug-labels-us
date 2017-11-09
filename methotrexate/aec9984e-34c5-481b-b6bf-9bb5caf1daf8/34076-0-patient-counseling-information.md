@@ -60,11 +60,15 @@ Advise females not to breastfeed during therapy with XATMEP [see Use in Specific
 
 Proper Storage and Disposal
 
-Advise patients to store XATMEP either refrigerated (2°C to 8°C/36°F to 46°F) or at room temperature (20°C to 25°C/68°F to 77°F) for up to 60 days; excursions permitted to 15°C to 30°C (59°F to 86°F).
+Advise patients to store XATMEP either refrigerated (2°C to 8°C/36°F to 46°F) or at room temperature (20°C to 25°C/68°F to 77°F).
+If stored at room temperature, discard after 60 days.
+Excursions permitted to 15°C to 30°C (59°F to 86°F).
 Inform patients and caregivers of the need for proper storage and disposal of dispensing bottles and dosing devices [see References (15)].
 
 Manufactured For:
 
 Silvergate Pharmaceuticals, Inc. 6251 Greenwood Plaza Blvd, Ste 101 Greenwood Village, CO 80111
 
-MTX-1704b
+US Patent 9,259,427
+
+MTX-1711
