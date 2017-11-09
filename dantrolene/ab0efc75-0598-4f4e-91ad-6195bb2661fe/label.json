@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA204762"
+  ],
+  "inn": "dantrolene",
+  "labeler": "West-Ward Pharmaceuticals Corp",
+  "package_ndcs": [
+    "0143-9297-01",
+    "0143-9297-06"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, FOR SOLUTION",
+      "generic": "dantrolene",
+      "name": "Dantrolene"
+    }
+  ],
+  "setid": "ab0efc75-0598-4f4e-91ad-6195bb2661fe",
+  "source": "dailymed"
+}
