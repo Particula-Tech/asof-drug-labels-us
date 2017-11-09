@@ -27,7 +27,7 @@ Data
 Animal Data
 
 No evidence of teratogenicity or other embryo/fetal toxicity was found when pregnant rats and rabbits were treated orally with amlodipine maleate at doses up to 10 mg amlodipine/kg/day (approximately 10 and 20 times the MRHD based on body surface area, respectively) during their respective periods of major organogenesis.
-However for rats, litter size was significantly decreased (by about 50%) and the number of intrauterine deaths was significantly increased (about 5-fold)in rats receiving amlodipine maleate at a dose equivalent to 10 mg amlodipine/kg/day for 14 days before mating and throughout mating and gestation.
+However for rats, litter size was significantly decreased (by about 50%) and the number of intrauterine deaths was significantly increased (about 5-fold) in rats receiving amlodipine maleate at a dose equivalent to 10 mg amlodipine/kg/day for 14 days before mating and throughout mating and gestation.
 Amlodipine maleate has been shown to prolong both the gestation period and the duration of labor in rats at this dose.
 
 ## 8.2 Lactation

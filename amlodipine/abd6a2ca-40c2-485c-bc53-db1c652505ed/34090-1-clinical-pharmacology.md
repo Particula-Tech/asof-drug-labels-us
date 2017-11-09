@@ -77,6 +77,8 @@ However, strong inhibitors of CYP3A (e.g., itraconazole, clarithromycin) may inc
 
 Impact of amlodipine on other drugs
 
+Amlodipine is a weak inhibitor of CYP3A and may increase exposure to CYP3A substrates.
+
 Co-administered amlodipine does not affect the exposure to atorvastatin, digoxin, ethanol and the warfarin prothrombin response time.
 
 Simvastatin: Co-administration of multiple doses of 10 mg of amlodipine with 80 mg simvastatin resulted in a 77% increase in exposure to simvastatin compared to simvastatin alone [see Drug Interactions (7.2)].

@@ -94,4 +94,4 @@ It may harm them.
 
 You can ask your pharmacist or doctor for information about NORVASC, or you can visit the Pfizer website at www.pfizer.com or call 1-800-438-1985.
 
-LAB-0015-10.0 March 2017
+LAB-0015-10.0 Revised March 2017
