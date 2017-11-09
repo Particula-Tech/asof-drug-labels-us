@@ -25,6 +25,7 @@ In moderate to severe conditions, for hospitalized or adequate­ly supervised pa
 Increase dosage gradually until symptoms are con­trolled or side effects become bothersome.
 When dosage is increased by small increments every 2 or 3 days, side effects either do not occur or are easily controlled.
 Some patients respond satisfactorily on 50 to 75mg daily.
+
 In more severe dis­turbances, optimum dosage is usually 100 to 150mg daily.
 
 DOSAGE AND ADMINISTRATION--CHILDREN
@@ -56,5 +57,5 @@ Oral Dosage: More than 1 day’s therapy is seldom necessary.
 Children with schizophrenia: Oral Dosage: For children 2 to 12 years, starting dosage is 21/2 mg 2 or 3 times daily.
 Do not give more than 10 mg the first day.
 Then increase dosage according to patient’s response.
-FOR AGES 2 to 5, total daily dosage usually does not exceed 20mg.
-FOR AGES 6 to 12, total daily dosage usually does not exceed 25mg.
+FOR AGES 2 to 5, total daily dosage usually does not exceed 20 mg.
+FOR AGES 6 to 12, total daily dosage usually does not exceed 25 mg.
