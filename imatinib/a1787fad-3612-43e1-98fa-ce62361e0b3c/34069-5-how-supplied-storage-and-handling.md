@@ -7,14 +7,10 @@ They are available as follows:
 
 NDC 0378-2245-77 bottles of 90 tablets
 
-NDC 0378-2245-78 bottles of 120 tablets
-
 The 400 mg tablets are brown-orange, film-coated, oval, scored tablets debossed with MYLAN on one side of the tablet and I on the left of the score and 400 on the right of the score on the other side.
 They are available as follows:
 
 NDC 0378-2246-93 bottles of 30 tablets
-
-NDC 0378-2246-77 bottles of 90 tablets
 
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]

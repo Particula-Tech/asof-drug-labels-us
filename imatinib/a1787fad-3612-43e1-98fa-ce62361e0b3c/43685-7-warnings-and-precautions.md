@@ -101,5 +101,5 @@ Recommend caution when driving a car or operating machinery.
 ## 5.14 Renal Toxicity
 
 A decline in renal function may occur in patients receiving imatinib mesylate.
-Median estimated glomerular filtration rate (eGFR) values in patients on imatinib mesylate 400 mg daily for newly-diagnosed CML (four randomized trials) declined from a baseline value of 85 ml/min/1.73m2 (N = 1190) to 75 ml/min/1.73m2 at 12 months (N = 1082) and 69 ml/min/1.73m2 at 60 months (N = 549).
+Median estimated glomerular filtration rate (eGFR) values in patients on imatinib mesylate tablets 400 mg daily for newly-diagnosed CML (four randomized trials) declined from a baseline value of 85 ml/min/1.73m2 (N = 1190) to 75 ml/min/1.73m2 at 12 months (N = 1082) and 69 ml/min/1.73m2 at 60 months (N = 549).
 Evaluate renal function prior to initiating imatinib mesylate and monitor during therapy, with attention to risk factors for renal dysfunction such as pre-existing renal impairment, diabetes mellitus, hypertension, and congestive heart failure.

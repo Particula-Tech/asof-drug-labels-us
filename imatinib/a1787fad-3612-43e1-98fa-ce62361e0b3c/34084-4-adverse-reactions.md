@@ -74,11 +74,11 @@ Table 2: Adverse Reactions Regardless of Relationship to Study Drug Reported in 
 | Constipation | 11.4 | 14.4 | 0.7 | 0.2 |
 | Sinusitis | 11.4 | 6.0 | 0.2 | 0.2 |
 
-Table 3: Most Frequently Reported Non-hematologic Adverse Reactions (Regardless of Relationship to Study Drug) in Patients with Newly Diagnosed Ph+ CML-CP in the Imatinib Mesylate versus Nilotinib Study (Greater Than or Equal to 10% in Imatinib Mesylate 400 mg Once-Daily or Nilotinib 300 mg Twice-Daily Groups) 60-Month AnalysisExcluding laboratory abnormalities
+Table 3: Most Frequently Reported Non-hematologic Adverse Reactions (Regardless of Relationship to Study Drug) in Patients with Newly Diagnosed Ph+ CML-CP in the Imatinib Mesylate versus Nilotinib Study (Greater Than or Equal to 10% in Imatinib Mesylate Tablets 400 mg Once-Daily or Nilotinib 300 mg Twice-Daily Groups) 60-Month AnalysisExcluding laboratory abnormalities
 
 | Body System and Preferred Term |  | Patients with Newly Diagnosed Ph+ CML-CP |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Imatinib Mesylate 400 mg once-daily N = 280 | Nilotinib 300 mg twice-daily N = 279 | Imatinib Mesylate 400 mg once-daily N = 280 | Nilotinib 300 mg twice-daily N = 279 |  |  |
+| Imatinib Mesylate Tablets 400 mg once-daily N = 280 | Nilotinib 300 mg twice-daily N = 279 | Imatinib Mesylate Tablets 400 mg once-daily N = 280 | Nilotinib 300 mg twice-daily N = 279 |  |  |
 | All Grades (%) |  | CTC GradesNCI Common Terminology Criteria for Adverse Events, Version 3.03/4 (%) |  |  |  |
 | Skin and subcutaneous tissue disorders | Rash | 19 | 38 | 2 | < 1 |
 | Pruritus | 7 | 21 | 0 | < 1 |  |
@@ -189,7 +189,7 @@ Table 5: Laboratory Abnormalities in Newly Diagnosed CML Clinical Trial (Imatini
 
 Table 6: Percent Incidence of Clinically Relevant Grade 3/4NCI Common Terminology Criteria for Adverse Events, version 3.0 Laboratory Abnormalities in the Newly Diagnosed CML Clinical Trial (Imatinib Mesylate versus Nilotinib)
 
-|  | Imatinib Mesylate 400 mgonce-dailyN = 280(%) | Nilotinib 300 mgtwice-dailyN = 279(%) |
+|  | Imatinib Mesylate Tablets 400 mgonce-dailyN = 280(%) | Nilotinib 300 mgtwice-dailyN = 279(%) |
 | --- | --- | --- |
 | Hematologic Parameters |  |  |
 | Thrombocytopenia | 9 | 10 |
@@ -453,7 +453,7 @@ Respiratory, Thoracic and Mediastinal Disorders: acute respiratory failure1, int
 
 Gastrointestinal Disorders: ileus/intestinal obstruction, tumor hemorrhage/tumor necrosis, gastrointestinal perforation1 [see Warnings and Precautions (5.6)], diverticulitis, gastric antral vascular ectasia
 
-Skin and Subcutaneous Tissue Disorders: lichenoid keratosis, lichen planus, toxic epidermal necrolysis, palmar-plantar erythrodysesthesia syndrome, drug rash with eosinophilia and systemic symptoms (DRESS)
+Skin and Subcutaneous Tissue Disorders: lichenoid keratosis, lichen planus, toxic epidermal necrolysis, palmar-plantar erythrodysesthesia syndrome, drug rash with eosinophilia and systemic symptoms (DRESS), pseudoporphyria
 
 Musculoskeletal and Connective Tissue Disorders: avascular necrosis/hip osteonecrosis, rhabdomyolysis/myopathy, growth retardation in children, musculoskeletal pain upon treatment discontinuation (including myalgia, pain in extremity, arthralgia, bone pain)
 
