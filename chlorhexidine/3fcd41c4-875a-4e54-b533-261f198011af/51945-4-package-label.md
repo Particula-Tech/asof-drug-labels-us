@@ -1,8 +1,12 @@
-Principal Display Panel – Bottle Label
+Principal Display Panel – Peridex Bottle Label
 
-NDC 48878-0620-1 Peridex™
+NDC 48878-0620-1
 
-(CHLORHEXIDINE GLUCONATE 0.12%) ORAL Rinse
+Peridex™
+
+(CHLORHEXIDINE GLUCONATE 0.12%)
+
+ORAL RINSE
 
 DIRECTIONS FOR USE: Fill cap to the “fill line” (15 ml).
 Swish in mouth undiluted for 30 seconds, then spit out.
@@ -15,13 +19,17 @@ Rx only
 
 KEEP OUT OF REACH OF CHILDREN
 
-PLACE DISPENSING INFORMATION HERE
-
 Dispense in bottle as provided or in amber glass
 
-REF 12132 1 Pint (473ml)
+REF 12132
 
 3M ESPE I.D.
-No. 70-2010-5520-2
+No.
+
+70-2010-5520-2
+
+PERIDEX16LBLDL
+
+1 Pint (473ml)
 
 3M ESPE

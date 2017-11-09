@@ -26,8 +26,8 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 STORE at 20°C to 25°C (68°F to 77°F), excursions permitted to 15°C to 30°C (59°F to 86°F) [See USP controlled room temperature].
 
-Revised: October/2015
+Revised: October/2017
 
 Made in U.S.A. for: 3M ESPE Dental Products 2510 Conway Avenue St. Paul, MN 55144-1000 U.S.A.
 
-© 3M 2015
+© 3M 2017
