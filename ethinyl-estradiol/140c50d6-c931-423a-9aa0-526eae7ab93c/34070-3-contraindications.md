@@ -19,3 +19,4 @@ Oral contraceptives should not be used in women who currently have the following
 - •Hepatic adenomas or carcinomas
 - •Known or suspected pregnancy
 - •Hypersensitivity to any component of this product
+- •Are receiving Hepatitis C drug combinations containing ombitasvir/paritaprevir/ritonavir, with or without dasabuvir, due to the potential for ALT elevations (see WARNINGS, Risk of Liver Enzyme Elevations with Concomitant Hepatitis C Treatment).

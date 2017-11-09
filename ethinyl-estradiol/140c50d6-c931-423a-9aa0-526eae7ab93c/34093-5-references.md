@@ -242,7 +242,7 @@
 97. 97.Brown KS, Armstrong IC, Wang A, Walker JR, Noveck RJ, Swearingen D, Allison M, Kissling JC, Kisicki J, Salazar D. Effect of the bile acid sequestrant colesevelam on the pharmacokinetics of pioglitazone, repaglinide, estrogen estradiol, norethindrone, levothyroxine, and glyburide.
     J Clin Pharmacol 2010;50:554–565.
 
-TEVA PHARMACEUTICALS USA, INC. North Wales, PA 19454
+Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
 1. Rev.
-   D 11/2015
+   E 8/2017

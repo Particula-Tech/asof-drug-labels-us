@@ -10,11 +10,11 @@ When taking Nortrel 1/35 (norethindrone and ethinyl estradiol tablets) (21) Day 
 If the period begins on Sunday, the first "active" tablet should be taken that day.
 Take one active tablet daily for 21 days.
 For subsequent cycles, no tablets are taken for 7 days, then a tablet is taken the next day (Sunday).
-For the first cycle of a Sunday Start regimen, another method of contraception such as a condom or spermicide should be used until after the first 7 consecutive days of administration.
+For the first cycle of a Sunday Start regimen, another method of contraception, such as a condom or spermicide, should be used until after the first 7 consecutive days of administration.
 
 If the patient misses one (1) “active” tablet in Weeks 1, 2, or 3, the tablet should be taken as soon as she remembers.
 If the patient misses two (2) “active” tablets in Week 1 or Week 2, the patient should take two (2) tablets the day she remembers and two (2) tablets the next day; and then continue taking one (1) tablet a day until she finishes the pack.
-The patient should be instructed to use a back-up method of birth control such as a condom or spermicide if she has sex in the seven (7) days after missing pills.
+The patient should be instructed to use a back-up method of birth control, such as a condom or spermicide, if she has sex in the seven (7) days after missing pills.
 If the patient misses two (2) “active” tablets in the third week or misses three (3) or more “active” tablets in a row, the patient should continue taking one tablet every day until Sunday.
 On Sunday the patient should throw out the rest of the pack and start a new pack that same day.
 The patient should be instructed to use a back-up method of birth control if she has sex in the seven (7) days after missing pills.
@@ -29,7 +29,7 @@ The dosage regimen then continues with 7 days of no medication, followed by 21 d
 
 If the patient misses one (1) “active” tablet in Weeks 1, 2, or 3, the tablet should be taken as soon as she remembers.
 If the patient misses two (2) “active” tablets in Week 1 or Week 2, the patient should take two (2) tablets the day she remembers and two (2) tablets the next day; and then continue taking one (1) tablet a day until she finishes the pack.
-The patient should be instructed to use a back-up method of birth control such as a condom or spermicide if she has sex in the seven (7) days after missing pills.
+The patient should be instructed to use a back-up method of birth control, such as a condom or spermicide, if she has sex in the seven (7) days after missing pills.
 If the patient misses two (2) “active” tablets in the third week or misses three (3) or more “active” tablets in a row, the patient should throw out the rest of the pack and start a new pack that same day.
 The patient should be instructed to use a back-up method of birth control if she has sex in the seven (7) days after missing pills.
 

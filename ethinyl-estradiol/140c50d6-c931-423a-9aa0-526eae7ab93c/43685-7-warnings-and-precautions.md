@@ -31,7 +31,7 @@ Smoking in combination with oral contraceptive use has been shown to contribute 
 
 Figure 1: Circulatory Disease Mortality Rates per 100,000 Woman-Years by Age, Smoking Status and Oral Contraceptive Use
 
-Oral contraceptives may compound the effects of well-known risk factors, such as hypertension, diabetes, hyperlipidemias, age and obesity.13 In particular, some progestogens are known to decrease HDL cholesterol and cause glucose intolerance, while estrogens may create a state of hyperinsulinism.14-18 Oral contraceptives have been shown to increase blood pressure among users (see Section 9 in WARNINGS).
+Oral contraceptives may compound the effects of well-known risk factors, such as hypertension, diabetes, hyperlipidemias, age and obesity.13 In particular, some progestogens are known to decrease HDL cholesterol and cause glucose intolerance, while estrogens may create a state of hyperinsulinism.14-18 Oral contraceptives have been shown to increase blood pressure among users (see Section 10 in WARNINGS).
 Similar effects on risk factors have been associated with an increased risk of heart disease.
 Oral contraceptives must be used with caution in women with cardiovascular disease risk factors.
 
@@ -116,13 +116,19 @@ Indirect calculations have estimated the attributable risk to be in the range of
 Studies from Britain have shown an increased risk of developing hepatocellular carcinoma in long-term (>8 years) oral contraceptive users.
 However, these cancers are extremely rare in the U.S. and the attributable risk (the excess incidence) of liver cancers in oral contraceptive users approaches less than one per million users.
 
-## 5. Ocular Lesions
+## 5. Risk of Liver Enzyme Elevations with Concomitant Hepatitis C Treatment
+
+During clinical trials with the Hepatitis C combination drug regimen that contains ombitasvir/paritaprevir/ritonavir, with or without dasabuvir, ALT elevations greater than 5 times the upper limit of normal (ULN), including some cases greater than 20 times the ULN, were significantly more frequent in women using ethinyl estradiol-containing medications such as COCs.
+Discontinue Nortrel prior to starting therapy with the combination drug regimen ombitasvir/paritaprevir/ritonavir, with or without dasabuvir (see CONTRAINDICATIONS).
+Nortrel can be restarted approximately 2 weeks following completion of treatment with the combination drug regimen.
+
+## 6. Ocular Lesions
 
 There have been clinical case reports of retinal thrombosis associated with the use of oral contraceptives.
 Oral contraceptives should be discontinued if there is unexplained partial or complete loss of vision; onset of proptosis or diplopia; papilledema; or retinal vascular lesions.
 Appropriate diagnostic and therapeutic measures should be undertaken immediately.
 
-## 6. Oral Contraceptive Use Before or During Early Pregnancy
+## 7. Oral Contraceptive Use Before or During Early Pregnancy
 
 Extensive epidemiological studies have revealed no increased risk of birth defects in women who have used oral contraceptives prior to pregnancy.56,57 The majority of recent studies also do not indicate a teratogenic effect, particularly in so far as cardiac anomalies and limb reduction defects are concerned, 55,56,58,59 when taken inadvertently during early pregnancy.
 
@@ -133,18 +139,18 @@ It is recommended that for any patient who has missed two consecutive periods, p
 If the patient has not adhered to the prescribed schedule, the possibility of pregnancy should be considered at the time of the first missed period.
 Oral contraceptive use should be discontinued if pregnancy is confirmed.
 
-## 7. Gallbladder Disease
+## 8. Gallbladder Disease
 
 Earlier studies have reported an increased lifetime relative risk of gallbladder surgery in users of oral contraceptives and estrogens.60,61 More recent studies, however, have shown that the relative risk of developing gallbladder disease among oral contraceptive users may be minimal.62-64 The recent findings of minimal risk may be related to the use of oral contraceptive formulations containing lower hormonal doses of estrogens and progestogens.
 
-## 8. Carbohydrate and Lipid Metabolic Effects
+## 9. Carbohydrate and Lipid Metabolic Effects
 
 Oral contraceptives have been shown to cause a decrease in glucose tolerance in a significant percentage of users.17 This effect has been shown to be directly related to estrogen dose.65 Progestogens increase insulin secretion and create insulin resistance, this effect varying with different progestational agents.17,66 However, in the non-diabetic woman, oral contraceptives appear to have no effect on fasting blood glucose.67 Because of these demonstrated effects, prediabetic and diabetic women in particular should be carefully monitored while taking oral contraceptives.
 
 A small proportion of women will have persistent hypertriglyceridemia while on the pill.
 As discussed earlier (see WARNINGS 1a and 1d), changes in serum triglycerides and lipoprotein levels have been reported in oral contraceptive users.
 
-## 9. Elevated Blood Pressure
+## 10. Elevated Blood Pressure
 
 Women with significant hypertension should not be started on hormonal contraception.92 An increase in blood pressure has been reported in women taking oral contraceptives68 and this increase is more likely in older oral contraceptive users69 and with extended duration of use.61 Data from the Royal College of General Practitioners12 and subsequent randomized trials have shown that the incidence of hypertension increases with increasing progestational activity.
 
@@ -154,11 +160,11 @@ In general, women who develop hypertension during hormonal contraceptive therapy
 If other contraceptive methods are not suitable, hormonal contraceptive therapy may continue combined with antihypertensive therapy.
 Regular monitoring of BP throughout hormonal contraceptive therapy is recommended.96 For most women, elevated blood pressure will return to normal after stopping oral contraceptives, and there is no difference in the occurrence of hypertension between former and never users.68-71
 
-## 10. Headache
+## 11. Headache
 
 The onset or exacerbation of migraine or development of headache with a new pattern which is recurrent, persistent or severe requires discontinuation of oral contraceptives and evaluation of the cause.
 
-## 11. Bleeding Irregularities
+## 12. Bleeding Irregularities
 
 Breakthrough bleeding and spotting are sometimes encountered in patients on oral contraceptives, especially during the first three months of use.
 Nonhormonal causes should be considered and adequate diagnostic measures taken to rule out malignancy or pregnancy in the event of breakthrough bleeding, as in the case of any abnormal vaginal bleeding.
@@ -167,7 +173,7 @@ In the event of amenorrhea, pregnancy should be ruled out.
 
 Some women may encounter post-pill amenorrhea or oligomenorrhea, especially when such a condition was preexistent.
 
-## 12. Ectopic Pregnancy
+## 13. Ectopic Pregnancy
 
 Ectopic as well as intrauterine pregnancy may occur in contraceptive failures.
 
@@ -215,22 +221,26 @@ Consult the labeling of concurrently-used drugs to obtain further information ab
 
 Effects of Other Drugs on Combined Hormonal Contraceptives
 
-Substances decreasing the plasma concentrations of COCs and potentially diminishing the efficacy of COCs:
+Substances decreasing the plasma concentrations of COCs and potentially diminishing the efficacy of COCs
 
 Drugs or herbal products that induce certain enzymes, including cytochrome P450 3A4 (CYP3A4), may decrease the plasma concentrations of COCs and potentially diminish the effectiveness of CHCs or increase breakthrough bleeding.
 Some drugs or herbal products that may decrease the effectiveness of hormonal contraceptives include phenytoin, barbiturates, carbamazepine, bosentan, felbamate, griseofulvin, oxcarbazepine, rifampicin, topiramate, rifabutin, rufinamide, aprepitant, and products containing St. John’s wort.
 Interactions between hormonal contraceptives and other drugs may lead to breakthrough bleeding and/or contraceptive failure.
 Counsel women to use an alternative method of contraception or a back-up method when enzyme inducers are used with CHCs, and to continue back-up contraception for 28 days after discontinuing the enzyme inducer to ensure contraceptive reliability.
 
-Substances increasing the plasma concentrations of COCs:
+Substances increasing the plasma concentrations of COCs
 
 Co-administration of atorvastatin or rosuvastatin and certain COCs containing EE increase AUC values for EE by approximately 20-25%.
 Ascorbic acid and acetaminophen may increase plasma EE concentrations, possibly by inhibition of conjugation.
 CYP3A4 inhibitors such as itraconazole, voriconazole, fluconazole, grapefruit juice, or ketoconazole may increase plasma hormone concentrations.
 
-Human immunodeficiency virus (HIV)/ Hepatitis C virus (HCV) protease inhibitors and non-nucleoside reverse transcriptase inhibitors:
+Human immunodeficiency virus (HIV)/ Hepatitis C virus (HCV) protease inhibitors and non-nucleoside reverse transcriptase inhibitors
 
 Significant changes (increase or decrease) in the plasma concentrations of estrogen and/or progestin have been noted in some cases of co-administration with HIV protease inhibitors (decrease [e.g., nelfinavir, ritonavir, darunavir/ritonavir, (fos)amprenavir/ritonavir, lopinavir/ritonavir, and tipranavir/ritonavir] or increase [e.g., indinavir and atazanavir/ritonavir]) /HCV protease inhibitors (decrease [e.g., boceprevir and telaprevir]) or with non-nucleoside reverse transcriptase inhibitors (decrease [e.g., nevirapine] or increase [e.g., etravirine]).
+
+Concomitant Use with HCV Combination Therapy – Liver Enzyme Elevation
+
+Do not co-administer Nortrel with HCV drug combinations containing ombitasvir/ paritaprevir/ritonavir, with or without dasabuvir, due to potential for ALT elevations (see WARNINGS, Risk of Liver Enzyme Elevations with Concomitant Hepatitis C Treatment).
 
 Colesevelam: Colesevelam, a bile acid sequestrant, given together with a combination oral hormonal contraceptive, has been shown to significantly decrease the AUC of EE.
 A drug interaction between the contraceptive and colesevelam was decreased when the two drug products were given 4 hours apart.
@@ -264,11 +274,7 @@ See WARNINGS.
 
 ## 11. Pregnancy
 
-### Teratogenic Effects
-
-Pregnancy Category X.
-
-See CONTRAINDICATIONS and WARNINGS.
+Pregnancy Category X. See CONTRAINDICATIONS and WARNINGS.
 
 ## 12. Nursing Mothers
 

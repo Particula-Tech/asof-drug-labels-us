@@ -360,6 +360,8 @@ For example, you should not take the pill if you have any of the following condi
 - •Unexplained vaginal bleeding (until a diagnosis is reached by your healthcare professional)
 - •Yellowing of the whites of the eyes or of the skin (jaundice) during pregnancy or during previous use of the pill
 - •Liver tumor (benign or cancerous)
+- •Take any Hepatitis C drug combination containing ombitasvir/paritaprevir/ ritonavir, with or without dasabuvir.
+  This may increase levels of the liver enzyme “alanine aminotransferase” (ALT) in the blood.
 - •Known or suspected pregnancy
 - •Valvular heart disease with complications
 - •Severe hypertension
@@ -394,7 +396,6 @@ RISKS OF TAKING ORAL CONTRACEPTIVES
 Risk of developing blood clots
 
 Blood clots and blockage of blood vessels are one of the most serious side effects of taking oral contraceptives and can cause death or serious disability.
-The risk of developing blood clots is not affected by how long you use the medicine.
 Serious blood clots can happen especially if you smoke, are obese, or are older than 35 years of age.
 Serious blood clots are more likely to happen when you:
 
@@ -832,7 +833,7 @@ They are:
 - •acute pelvic inflammatory disease may occur less frequently
 - •oral contraceptive use may provide some protection against developing two forms of cancer: cancer of the ovaries and cancer of the lining of the uterus.
 
-If you want more information about birth control pills, ask your healthcare professional.
+If you want more information about birth control pills, ask your healthcare professional or pharmacist.
 They have a more technical leaflet called the Professional Labeling, which you may wish to read.
 
 Call your doctor for medical advice about side effects.
@@ -844,7 +845,7 @@ KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.
 
 All brand names listed are the registered trademarks of their respective owners and are not trademarks of Teva Pharmaceuticals USA.
 
-TEVA PHARMACEUTICALS USA, INC. North Wales, PA 19454
+Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
 Rev.
-E 2/2016
+F 8/2017
