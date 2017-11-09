@@ -109,13 +109,13 @@ When your healthcare provider gives you a prescription for Lamotrigine tablets:
 The wording describes the actual tablet shape, size, color and printing that is on each strength of Lamotrigine tablets.
 Immediately call your pharmacist if you receive a Lamotrigine tablet that does not look like one of the tablets described below, as you may have received the wrong medication.
 
-25 mg - Round, white to off white tablets, debossed with ‘J’ and ‘245’ on one side and scoreline on the other side
+25 mg - Round, white to off-white tablets, debossed with ‘J 245’ on one side and scored on the other side
 
-100 mg - Round, white to off white tablets, debossed with ‘J’ and ‘246’ on one side and scoreline on the other side
+100 mg - Round, white to off-white tablets, debossed with ‘J 246’ on one side and scored on the other side
 
-150 mg - Round, white to off white tablets, debossed with ‘J’ and ‘247’ on one side and scoreline on the other side
+150 mg - Round, white to off-white tablets, debossed with ‘J 247’ on one side and scored on the other side
 
-200 mg - Round, white to off white tablets, debossed with ‘J’ and ‘248’ on one side and scoreline on the other side
+200 mg - Round, white to off-white tablets, debossed with ‘J 248’ on one side and scored on the other side
 
 What are Lamotrigine tablets?
 
@@ -252,4 +252,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 *DEPAKENE and *DEPAKOTE are registered trademarks of Abbott Laboratories.
 
-Manufactured by: Jubilant Cadista Pharmaceuticals Inc. Salisbury, MD 21801, USA 0245/MG Rev. # 10/2015.
+Manufactured by: Jubilant Cadista Pharmaceuticals Inc. Salisbury, MD 21801, USA 0245/MG Rev. # 06/2017.

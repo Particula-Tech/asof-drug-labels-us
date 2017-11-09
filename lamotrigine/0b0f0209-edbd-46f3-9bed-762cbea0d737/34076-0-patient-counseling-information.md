@@ -40,4 +40,4 @@ Refer the patient to the Medication Guide that provides description of the Lamot
 
 Manufactured By:
 
-Jubilant Cadista Pharmaceuticals Inc. Salisbury, MD 21801, USA Rev. # 10/2016.
+Jubilant Cadista Pharmaceuticals Inc. Salisbury, MD 21801, USA Rev. # 06/2017.
