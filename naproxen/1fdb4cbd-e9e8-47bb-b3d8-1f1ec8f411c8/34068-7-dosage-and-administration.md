@@ -1,57 +1,54 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE & ADMINISTRATION
 
-Carefully consider the potential benefits and risks of naproxen and other treatment options before deciding to use naproxen tablets.
-Use the lowest effective dose for the shortest duration consistent with individual patient treatment goals (see WARNINGS; Gastrointestinal Bleeding, Ulceration, and Perforation).
+2.1 General Dosing Instructions
 
-After observing the response to initial therapy with naproxen tablets, the dose and frequency should be adjusted to suit an individual patient's needs.
+Carefully consider the potential benefits and risks of Naproxen Tablet and other treatment options before deciding to use naproxen tablets.
+Use the lowest effective dose for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5)].
 
-Different dose strengths and formulations (i.e., tablets, suspension) of the drug are not necessarily bioequivalent.
-This difference should be taken into consideration when changing formulation.
+After observing the response to initial therapy with Naproxen Tablets, the dose and frequency should be adjusted to suit an individual patients needs.
 
-Although naproxen tablets, naproxen suspension, naproxen delayed-released tablets, and naproxen sodium tablets all circulate in the plasma as naproxen, they have pharmacokinetic differences that may affect onset of action.
-Onset of pain relief can begin within 1 hour in patients taking naproxen.
-The recommended strategy for initiating therapy is to choose a formulation and a starting dose likely to be effective for the patient and then adjust the dosage based on observation of benefit and/or adverse events.
-A lower dose should be considered in patients with renal or hepatic impairment or in elderly patients (see WARNINGS; Hepatotoxicity, and Renal Toxicity and Hyperkalemia, and PRECAUTIONS; Geriatric use).
+Naproxen-containing products such as naproxen tablet and other naproxen products should not be used concomitantly since they all circulate in the plasma as the naproxen anion.
 
-Geriatric Patients
+2.2 Rheumatoid Arthritis, Osteoarthritis and Ankylosing Spondylitis
 
-Studies indicate that although total plasma concentration of naproxen is unchanged, the unbound plasma fraction of naproxen is increased in the elderly.
-Caution is advised when high doses are required and some adjustment of dosage may be required in elderly patients.
-As with other drugs used in the elderly, it is prudent to use the lowest effective dose.
+The recommended dosages for Naproxen Tablets are shown in table 1.
 
-Patients With Moderate to Severe Renal Impairment
+Table 1: Recommended dosages for Naproxen Tablets
 
-Naproxen-containing products are not recommended for use in patients with moderate to severe and severe renal impairment (creatinine clearance < 30 mL/min) (see WARNINGS: Renal Effects).
+| Naproxen Tablets, USP | 250 mg | twice daily |
+| --- | --- | --- |
+| 375 mg | twice daily |  |
+| 500 mg | twice daily |  |
 
-Rheumatoid Arthritis, Osteoarthritis and Ankylosing Spondylitis
-
-The recommended dose is 250 mg, 375 mg, or 500 mg twice daily.
 During long-term administration, the dose of naproxen may be adjusted up or down depending on the clinical response of the patient.
 A lower daily dose may suffice for long-term administration.
 The morning and evening doses do not have to be equal in size and the administration of the drug more frequently than twice daily is not necessary.
 
+The morning and evening doses do not have to be equal in size and administration of the drug more frequently than twice daily does not generally make a difference in response.
+
 In patients who tolerate lower doses well, the dose may be increased to naproxen 1500 mg/day for limited periods of up to 6 months when a higher level of anti-inflammatory/analgesic activity is required.
 When treating such patients with naproxen 1500 mg/day, the physician should observe sufficient increased clinical benefits to offset the potential increased risk.
-The morning and evening doses do not have to be equal in size and administration of the drug more frequently than twice daily does not generally make a difference in response (see CLINICAL PHARMACOLOGY).
 
-Juvenile Arthritis
+2.3 Polyarticular Juvenile Idiopathic Arthritis
 
-Naproxen Tablets may not allow for the flexible dose titration needed in pediatric patients with juvenile arthritis.
-A liquid formulation may be more appropriate.
-In pediatric patients, doses of 5 mg/kg/day produced plasma levels of naproxen similar to those seen in adults taking 500 mg of naproxen (see Clinical Pharmacology).
+Naproxen solid-oral dosage forms may not allow for the flexible dose titration needed in pediatric patients with polyarticular juvenile idiopathic arthritis.
+A liquid formulation may be more appropriate for weight-based dosing and due to the need for dose flexibility in children.
+
+In pediatric patients, doses of 5 mg/kg/day produced plasma levels of naproxen similar to those seen in adults taking 500 mg of naproxen [see Clinical Pharmacology (12)].
 The recommended total daily dose of naproxen is approximately 10 mg/kg given in 2 divided doses.
-One-half of the 250 mg tablet will be needed for dosing lower-weight children.
-Dosing with Naproxen Tablets is not appropriate for children weighing less than 25 kilograms.
-The recommended total daily dose of naproxen is approximately 10 mg/kg given in 2 divided doses (i.e., 5 mg/kg given twice a day).
-Naproxen tablets are not well suited to this dosage so use of naproxen oral suspension is recommended for this indication.
+Dosing with Naproxen Tablets is not appropriate for children weighing less than 50 kilograms.
 
-Management of Pain, Primary Dysmenorrhea, and Acute Tendonitis and Bursitis
+2.4 Management of Pain, Primary Dysmenorrhea, and Acute Tendonitis and Bursitis
 
-Because the sodium salt of naproxen is more rapidly absorbed, naproxen sodium is recommended for the management of acute painful conditions when prompt onset of pain relief is desired.
-Naproxen may also be used.
-The recommended starting dose of naproxen is 500 mg, followed by 500 mg every 12 hours or 250 mg every 6 to 8 hours as required.
-The initial total daily dose should not exceed 1250 mg of naproxen.
+Naproxen Tablets may also be used.
+The recommended starting dose of Naproxen Tablets is 500 mg, followed by 250 mg (one half of a 500 mg Naproxen tablet) every 6 to 8 hours as required.
+The total daily dose should not exceed 1250 mg of naproxen.
 
-Acute Gout
+2.5 Acute Gout
 
-The recommended starting dose is 750 mg of naproxen followed by 250 mg every 8 hours until the attack has subsided.
+The recommended starting dose is 750 mg (one and one-half tablets) of Naproxen Tablets followed by 250 mg (one-half tablet) every 8 hours until the attack has subsided.
+
+2.6 Non-Interchangeability with Other Formulations of Naproxen
+
+Different dose strengths and formulations (e.g., tablets) of naproxen are not interchangeable.
+This difference should be taken into consideration when changing strengths or formulations.

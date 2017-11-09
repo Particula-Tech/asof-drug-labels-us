@@ -1,15 +1,16 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
 Symptoms following acute NSAID overdosages have been typically limited to lethargy, drowsiness, nausea, vomiting, and epigastric pain, which have been generally reversible with supportive care.
 Gastrointestinal bleeding has occurred.
-Hypertension, acute renal failure, respiratory depression, and coma have occurred, but were rare.
+Hypertension, acute renal failure, respiratory depression, and coma have occurred, but were rare [see Warnings and Precautions (5.1, 5.2)].
 Because naproxen sodium may be rapidly absorbed, high and early blood levels should be anticipated.
 A few patients have experienced convulsions, but it is not clear whether or not these were drug-related.
 It is not known what dose of the drug would be life threatening.
-(see WARNINGS; Cardiovascular Thrombotic Events, Gastrointestinal Bleeding, Ulceration, and Perforation, Hypertension, Renal Toxicity and Hyperkalemia).
+[see Warnings and Precautions (5.1, 5.2, 5.4, 5.6)].
+
 Manage patients with symptomatic and supportive care following an NSAID overdosage.
 There are no specific antidotes.
-Hemodialysis does not decrease the plasma concentration of naproxen because of the high degree of its protein binding.
-Consider emesis and/or activated charcoal (60 to 100 g in adults, 1 to 2 g/kg of body weight in pediatric patients) and/or osmotic cathartic in symptomatic patients seen within four hours of ingestion or in patients with a large overdosage (5 to 10 times the recommended dosage).
-Forced diuresis, alkalinization of urine, hemodialysis, or hemoperfusion may not be useful due to high protein binding.
+Consider emesis and/or activated charcoal (60 to 100 grams in adults, 1 to 2 grams per kg of body weight in pediatric patients) and/or osmotic cathartic in symptomatic patients seen within four hours of ingestion or in patients with a large overdosage (5 to 10 times the recommended dosage).
+Forced diuresis, alkalinization of urine, haemodialysis, or hemoperfusion may not be useful due to high protein binding.
+
 For additional information about overdosage treatment contact a poison control center (1-800-222-1222).

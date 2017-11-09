@@ -1,4 +1,4 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 Naproxen Tablets
 
@@ -25,20 +25,3 @@ Packaged in light-resistant bottles of 30 and 1000.
 
 Store at 20°-25°C (68°-77°F) excursions permitted to 15°-30°C (59°-86°F) in well-closed containers [see USP Controlled Room Temperature].
 Dispense in light-resistant containers.
-Rx only
-
-Manufactured for:
-
-Time-Cap Labs, Inc.
-
-7 Michael Avenue, Farmingdale, NY 11735, USA
-
-Manufactured by:
-
-Marksans Pharma Ltd.
-
-Plot No. L-82, L-83, Verna Indl.
-Estate, Goa-403 722, India
-
-Iss.
-05/16
