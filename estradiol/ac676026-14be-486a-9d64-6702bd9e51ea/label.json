@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA020655"
+  ],
+  "inn": "estradiol",
+  "labeler": "Allergan, Inc.",
+  "package_ndcs": [
+    "0023-5885-12",
+    "0023-5886-15",
+    "0023-5887-17",
+    "0023-5888-11"
+  ],
+  "products": [
+    {
+      "form": "PATCH",
+      "generic": "estradiol transdermal system",
+      "name": "Alora"
+    }
+  ],
+  "setid": "ac676026-14be-486a-9d64-6702bd9e51ea",
+  "source": "dailymed"
+}
