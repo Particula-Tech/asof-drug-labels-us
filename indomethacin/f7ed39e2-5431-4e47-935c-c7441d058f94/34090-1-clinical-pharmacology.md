@@ -1,41 +1,60 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-Indomethacin is a non-steroidal anti-inflammatory drug (NSAID) that exhibits antipyretic and analgesic properties.
-Its mode of action, like that of other anti-inflammatory drugs, is not known.
-However, its therapeutic action is not due to pituitary-adrenal stimulation.
+## 12.1 Mechanism of Action
+
+Indomethacin has analgesic, anti-inflammatory, and antipyretic properties.
+
+The mechanism of action of indomethacin capsules, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2).
 
 Indomethacin is a potent inhibitor of prostaglandin synthesis in vitro.
-Concentrations are reached during therapy which have been demonstrated to have an effect in vivo as well.
+Indomethacin concentrations reached during therapy have produced in vivo effects.
 Prostaglandins sensitize afferent nerves and potentiate the action of bradykinin in inducing pain in animal models.
-Moreover, prostaglandins are known to be among the mediators of inflammation.
-Since indomethacin is an inhibitor of prostaglandin synthesis, its mode of action may be due to a decrease of prostaglandins in peripheral tissues.
+Prostaglandins are mediators of inflammation.
+Because indomethacin is an inhibitor of prostaglandin synthesis, its mode of action may be due to a decrease of prostaglandins in peripheral tissues.
 
-Indomethacin has been shown to be an effective anti-inflammatory agent, appropriate for long-term use in rheumatoid arthritis, ankylosing spondylitis, and osteoarthritis.
+## 12.3 Pharmacokinetics
 
-Indomethacin affords relief of symptoms; it does not alter the progressive course of the underlying disease.
-
-Indomethacin suppresses inflammation in rheumatoid arthritis as demonstrated by relief of pain, and reduction of fever, swelling and tenderness.
-Improvement in patients treated with indomethacin for rheumatoid arthritis has been demonstrated by a reduction in joint swelling, average number of joints involved, and morning stiffness; by increased mobility as demonstrated by a decrease in walking time; and by improved functional capability as demonstrated by an increase in grip strength.
-Indomethacin may enable the reduction of steroid dosage in patients receiving steroids for the more severe forms of rheumatoid arthritis.
-In such instances the steroid dosage should be reduced slowly and the patients followed very closely for any possible adverse effects.
-
-Indomethacin has been reported to diminish basal and CO2 stimulated cerebral blood flow in healthy volunteers following acute oral and intravenous administration.
-In one study, after one week of treatment with orally administered indomethacin, this effect on basal cerebral blood flow had disappeared.
-The clinical significance of this effect has not been established.
-
-Indomethacin capsules have been found effective in relieving the pain, reducing the fever, swelling, redness, and tenderness of acute gouty arthritis (see INDICATIONS AND USAGE).
+Absorption
 
 Following single oral doses of indomethacin capsules 25 mg or 50 mg, indomethacin is readily absorbed, attaining peak plasma concentrations of about 1 and 2 mcg/mL, respectively, at about 2 hours.
 Orally administered indomethacin capsules are virtually 100% bioavailable, with 90% of the dose absorbed within 4 hours.
-A single 50 mg dose of indomethacin oral suspension was found to be bioequivalent to a 50 mg indomethacin capsule when each was administered with food.
+A single 50 mg dose of indomethacin oral suspension was found to be bioequivalent to a 50 mg indomethacin capsules when each was administered with food.
+With a typical therapeutic regimen of 25 or 50 mg three times a day, the steady-state plasma concentrations of indomethacin are an average 1.4 times those following the first dose.
 
-Indomethacin is eliminated via renal excretion, metabolism, and biliary excretion.
-Indomethacin undergoes appreciable enterohepatic circulation.
-The mean half-life of indomethacin is estimated to be about 4.5 hours.
-With a typical therapeutic regimen of 25 mg or 50 mg t.i.d., the steady-state plasma concentrations of indomethacin are an average 1.4 times those following the first dose.
+Distribution
 
-Indomethacin exists in the plasma as the parent drug and its desmethyl, desbenzoyl, and desmethyl-desbenzoyl metabolites, all in the unconjugated form.
-About 60% of an oral dosage is recovered in urine as drug and metabolites (26% as indomethacin and its glucuronide), and 33% is recovered in feces (1.5% as indomethacin).
+Indomethacin is highly bound to protein in plasma (about 99%) over the expected range of therapeutic plasma concentrations.
+Indomethacin has been found to cross the blood-brain barrier and the placenta, and appears in breast milk.
 
-About 99% of indomethacin is bound to protein in plasma over the expected range of therapeutic plasma concentrations.
-Indomethacin has been found to cross the blood-brain barrier and the placenta.
+Elimination
+
+1. Metabolism
+2. Indomethacin exists in the plasma as the parent drug and its desmethyl, desbenzoyl, and desmethyldesbenzoyl metabolites, all in the unconjugated form.
+   Appreciable formation of glucuronide conjugates of each metabolite and of indomethacin are formed.
+
+1. Excretion
+2. Indomethacin is eliminated via renal excretion, metabolism, and biliary excretion.
+   Indomethacin undergoes appreciable enterohepatic circulation.
+   About 60% of an oral dose is recovered in urine as drug and metabolites (26% as indomethacin and its glucuronide), and 33% is recovered in feces (1.5% as indomethacin).
+   The mean half-life of indomethacin is estimated to be about 4.5 hours.
+
+Specific Populations
+
+1. Pediatric: The pharmacokinetics of indomethacin capsules has not been investigated in pediatric patients.
+
+1. Race: Pharmacokinetic differences due to race have not been identified.
+
+1. Hepatic Impairment: The pharmacokinetics of indomethacin capsules has not been investigated in patients with hepatic impairment.
+
+1. Renal Impairment: The pharmacokinetics of indomethacin capsules has not been investigated in patients with renal impairment [see Warnings and Precautions (5.6)].
+
+Drug Interaction Studies
+
+1. Aspirin:
+2. In a study in normal volunteers, it was found that chronic concurrent administration of 3.6 g of aspirin per day decreases indomethacin blood levels approximately 20% [see Drug Interactions (7)].
+3. When NSAIDs were administered with aspirin, the protein binding of NSAIDs were reduced, although the clearance of free NSAID was not altered.
+   The clinical significance of this interaction is not known.
+   See Table 2 for clinically significant drug interactions of NSAIDs with aspirin [see Drug Interactions (7)].
+
+1. Diflunisal:
+2. In normal volunteers receiving indomethacin, the administration of diflunisal decreased the renal clearance and significantly increased the plasma levels of indomethacin [see Drug Interactions (7)].

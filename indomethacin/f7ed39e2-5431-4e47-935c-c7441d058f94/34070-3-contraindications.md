@@ -1,8 +1,8 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-Indomethacin is contraindicated in patients with known hypersensitivity to indomethacin or the excipients (see DESCRIPTION).
+Indomethacin capsules are contraindicated in the following patients:
 
-Indomethacin should not be given to patients who have experienced asthma, urticaria, or allergic-type reactions after taking aspirin or other NSAIDs.
-Severe, rarely fatal, anaphylactic/anaphylactoid reactions to NSAIDs have been reported in such patients (see WARNINGS: Anaphylactic/Anaphylactoid Reactions, and PRECAUTIONS: General: Preexisting Asthma).
-
-Indomethacin is contraindicated for the treatment of perioperative pain in the setting of coronary artery bypass graft (CABG) surgery (see WARNINGS).
+- •Known hypersensitivity (e.g., anaphylactic reactions and serious skin reactions) to indomethacin or any components of the drug product [see Warnings and Precautions (5.7, 5.9)].
+- •History of asthma, urticaria, or other allergic-type reactions after taking aspirin or other NSAIDs.
+  Severe, sometimes fatal, anaphylactic reactions to NSAIDs have been reported in such patients [see Warnings and Precautions (5.7, 5.8)].
+- •In the setting of coronary artery bypass graft (CABG) surgery [see Warnings and Precautions (5.1)].
