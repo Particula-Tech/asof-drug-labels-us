@@ -1,4 +1,4 @@
-# 14. CLINICAL STUDIES
+# 14 CLINICAL STUDIES
 
 ## 14.1 Effects in Hypertension
 
@@ -61,9 +61,9 @@ Effects on Primary Endpoint of Amlodipine Besylate versus Placebo across Sub-Gro
 Table 1 below summarizes the significant composite endpoint and clinical outcomes from the composites of the primary endpoint.
 The other components of the primary endpoint including cardiovascular death, resuscitated cardiac arrest, myocardial infarction, hospitalization for heart failure, stroke/TIA, or peripheral vascular disease did not demonstrate a significant difference between amlodipine besylate and placebo.
 
-Table 1Incidence of Significant Clinical Outcomes for CAMELOT
+Table 1 Incidence of Significant Clinical Outcomes for CAMELOT
 
-| Clinical Outcomes N (%) | Amlodipine Besylate (N = 663) | Placebo (N = 655) | Risk Reduction (p-value) |
+| HClinical Outcomes N (%) | Amlodipine Besylate (N = 663) | Placebo (N = 655) | Risk Reduction (p-value) |
 | --- | --- | --- | --- |
 | Composite CV Endpoint | 110 (16.6) | 151 (23.1) | 31 % (0.003) |
 | Hospitalization for Angina* | 51 (7.7) | 84 (12.8) | 42% (0.002) |

@@ -2,8 +2,6 @@ Manufactured by:
 
 Cadila Healthcare Ltd.
 
-Ahmedabad, India
+India
 
-Revision No: 12/11
-
-Rev.: 12/12/2011
+Rev.: 04/17

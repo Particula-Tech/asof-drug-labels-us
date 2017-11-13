@@ -1,3 +1,7 @@
-# 3. DOSAGE FORMS AND STRENGTHS
+# 3 DOSAGE FORMS AND STRENGTHS
 
-2.5 mg, 5 mg, and 10 mg Tablets
+Amlodipine Besylate Tablets, USP equivalent to 2.5 mg of amlodipine are supplied as white to off-white, round, flat, radial-edged tablets debossed with 'Z' on one side and '7' on the other side.
+
+Amlodipine Besylate Tablets, USP equivalent to 5 mg of amlodipine are supplied as white to off-white, round, flat, radial-edged tablets debossed with 'Z', '3' on one side and plain on the other side.
+
+Amlodipine Besylate Tablets, USP equivalent to 10 mg of amlodipine are supplied as white to off-white, round, flat, radial-edged tablets debossed with 'Z', '5' on one side and plain on the other side.

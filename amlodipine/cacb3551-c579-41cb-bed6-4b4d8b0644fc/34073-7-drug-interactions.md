@@ -1,59 +1,27 @@
-# 7. DRUG INTERACTIONS
+# 7 DRUG INTERACTIONS
 
-## 7.1 IN VITRO DATA
+## 7.1 Impact of Other Drugs on Amlodipine
 
-In vitro data indicate that amlodipine besylate has no effect on the human plasma protein binding of digoxin, phenytoin, warfarin, and indomethacin.
+CYP3A Inhibitors
 
-## 7.2 Cimetidine
+Co-administration with CYP3A inhibitors (moderate and strong) results in increased systemic exposure to amlodipine and may require dose reduction.
+Monitor for symptoms of hypotension and edema when amlodipine is co-administered with CYP3A inhibitors to determine the need for dose adjustment [see Clinical Pharmacology (12.3)].
 
-Coadministration of amlodipine besylate with cimetidine did not alter the pharmacokinetics of amlodipine.
+CYP3A Inducers
 
-## 7.3 Grapefruit Juice
+No information is available on the quantitative effects of CYP3A inducers on amlodipine.
+Blood pressure should be closely monitored when amlodipine is co-administered with CYP3A inducers.
 
-Coadministration of 240 mL of grapefruit juice with a single oral dose of amlodipine 10 mg in 20 healthy volunteers had no significant effect on the pharmacokinetics of amlodipine.
+Sildenafil Monitor for hypotension when sildenafil is co-administered with amlodipine [see Clinical Pharmacology (12.2)].
 
-## 7.4 Magnesium and Aluminum Hydroxide Antacid
+## 7.2 Impact of Amlodipine on Other Drugs
 
-Coadministration of a magnesium and aluminum hydroxide antacid with a single dose of amlodipine had no significant effect on the pharmacokinetics of amlodipine.
+Simvastatin
 
-## 7.5 Sildenafil
+Co-administration of simvastatin with amlodipine increases the systemic exposure of simvastatin.
+Limit the dose of simvastatin in patients on amlodipine to 20 mg daily [see Clinical Pharmacology (12.3)].
 
-A single 100 mg dose of sildenafil in subjects with essential hypertension had no effect on the pharmacokinetic parameters of amlodipine.
-When amlodipine and sildenafil were used in combination, each agent independently exerted its own blood pressure lowering effect.
+Immunosuppressants
 
-## 7.6 Atorvastatin
-
-Coadministration of multiple 10 mg doses of amlodipine with 80 mg of atorvastatin resulted in no significant change in the steady-state pharmacokinetic parameters of atorvastatin.
-
-## 7.7 Simvastatin
-
-Coadministration of multiple doses of 10 mg of amlodipine with 80 mg simvastatin resulted in a 77 % increase in exposure to simvastatin compared to simvastatin alone.
-Limit the dose of simvastatin in patients on amlodipine to 20 mg daily.
-
-## 7.8 Digoxin
-
-Coadministration of amlodipine with digoxin did not change serum digoxin levels or digoxin renal clearance in normal volunteers.
-
-## 7.9 Ethanol (Alcohol)
-
-Single and multiple 10 mg doses of amlodipine had no significant effect on the pharmacokinetics of ethanol.
-
-## 7.10 Warfarin
-
-Coadministration of amlodipine with warfarin did not change the warfarin prothrombin response time.
-
-## 7.11 CYP3A4 Inhibitors
-
-Coadministration of a 180 mg daily dose of diltiazem with 5 mg amlodipine in elderly hypertensive patients resulted in a 60% increase in amlodipine systemic exposure.
-Erythromycin coadministration in healthy volunteers did not significantly change amlodipine systemic exposure.
-However, strong inhibitors of CYP3A4 (e.g., ketoconazole, itraconazole, ritonavir) may increase the plasma concentrations of amlodipine to a greater extent.
-Monitor for symptoms of hypotension and edema when amlodipine is coadministered with CYP3A4 inhibitors.
-
-## 7.12 CYP3A4 Inducers
-
-No information is available on the quantitative effects of CYP3A4 inducers on amlodipine.
-Blood pressure should be closely monitored when amlodipine is coadministered with CYP3A4 inducers.
-
-## 7.13 Drug/Laboratory Test Interactions
-
-None known.
+Amlodipine may increase the systemic exposure of cyclosporine or tacrolimus when co-administered.
+Frequent monitoring of trough blood levels of cyclosporine and tacrolimus is recommended and adjust the dose when appropriate [see Clinical Pharmacology (12.3)].

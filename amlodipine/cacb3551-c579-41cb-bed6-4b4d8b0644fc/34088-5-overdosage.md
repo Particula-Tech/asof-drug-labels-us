@@ -1,4 +1,4 @@
-# 10. OVERDOSAGE
+# 10 OVERDOSAGE
 
 Overdosage might be expected to cause excessive peripheral vasodilation with marked hypotension and possibly a reflex tachycardia.
 In humans, experience with intentional overdosage of amlodipine besylate is limited.

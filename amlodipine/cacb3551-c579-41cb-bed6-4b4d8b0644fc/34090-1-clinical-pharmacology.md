@@ -1,4 +1,4 @@
-# 12. CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
 ## 12.1 Mechanism of Action
 
@@ -50,7 +50,11 @@ Similar results were obtained in patients receiving amlodipine besylate and conc
 In clinical studies in which amlodipine besylate was administered in combination with beta-blockers to patients with either hypertension or angina, no adverse effects on electrocardiographic parameters were observed.
 In clinical trials with angina patients alone, amlodipine besylate therapy did not alter electrocardiographic intervals or produce higher degrees of AV blocks.
 
-## 12.3 Pharmacokinetics and Metabolism
+Drug interactions
+
+Sildenafil: When amlodipine and sildenafil were used in combination, each agent independently exerted its own blood pressure lowering effect [see Drug Interactions (7.1)].
+
+## 12.3 Pharmacokinetics
 
 After oral administration of therapeutic doses of amlodipine besylate, absorption produces peak plasma concentrations between 6 and 12 hours.
 Absolute bioavailability has been estimated to be between 64 and 90%.
@@ -66,6 +70,39 @@ Patients with renal failure may therefore receive the usual initial dose.
 
 Elderly patients and patients with hepatic insufficiency have decreased clearance of amlodipine with a resulting increase in AUC of approximately 40 to 60%, and a lower initial dose may be required.
 A similar increase in AUC was observed in patients with moderate to severe heart failure.
+
+Drug interactions
+
+In vitro data indicate that amlodipine has no effect on the human plasma protein binding of digoxin, phenytoin, warfarin, and indomethacin.
+
+Impact of other drugs on amlodipine
+
+Co-administered cimetidine, magnesium-and aluminum hydroxide antacids, sildenafil, and grapefruit juice have no impact on the exposure to amlodipine.
+
+CYP3A inhibitors
+
+Co-administration of a 180 mg daily dose of diltiazem with 5 mg amlodipine in elderly hypertensive patients resulted in a 60% increase in amlodipine systemic exposure.
+Erythromycin co-administration in healthy volunteers did not significantly change amlodipine systemic exposure.
+However, strong inhibitors of CYP3A (e.g., itraconazole, clarithromycin) may increase the plasma concentrations of amlodipine to a greater extent [see Drug Interactions (7.1)].
+
+Impact of amlodipine on other drugs
+
+Co-administered amlodipine does not affect the exposure to atorvastatin, digoxin, ethanol and the warfarin prothrombin response time.
+
+Simvastatin
+
+Co-administration of multiple doses of 10 mg of amlodipine with 80 mg simvastatin resulted in a 77% increase in exposure to simvastatin compared to simvastatin alone [see Drug Interactions (7.2)].
+
+Cyclosporine
+
+A prospective study in renal transplant patients (N=11) showed on an average of 40% increase in trough cyclosporine levels when concomitantly treated with amlodipine [see Drug Interactions (7.2)].
+
+Tacrolimus
+
+A prospective study in healthy Chinese volunteers (N=9) with CYP3A5 expressers showed a 2.5-to 4-fold increase in tacrolimus exposure when concomitantly administered with amlodipine compared to tacrolimus alone.
+This finding was not observed in CYP3A5 non-expressers (N= 6).
+However, a 3-fold increase in plasma exposure to tacrolimus in a renal transplant patient (CYP3A5 non-expresser) upon initiation of amlodipine for the treatment of post-transplant hypertension resulting in reduction of tacrolimus dose has been reported.
+Irrespective of the CYP3A5 genotype status, the possibility of an interaction cannot be excluded with these drugs [see Drug Interactions (7.2)].
 
 ## 12.4 Pediatric Patients
 

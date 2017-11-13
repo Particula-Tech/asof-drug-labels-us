@@ -2,30 +2,24 @@
 
 NDC 65841-620-01 in bottle of 100 tablets
 
-Amlodipine Besylate Tablets, 2.5 mg
+Amlodipine Besylate Tablets USP, 2.5 mg
 
 Rx only
 
 100 tablets
-
-ZYDUS
 
 NDC 65841-621-01 in bottle of 100 tablets
 
-Amlodipine Besylate Tablets, 5 mg
+Amlodipine Besylate Tablets USP, 5 mg
 
 Rx only
 
 100 tablets
-
-ZYDUS
 
 NDC 65841-622-01 in bottle of 100 tablets
 
-Amlodipine Besylate Tablets, 10 mg
+Amlodipine Besylate Tablets USP, 10 mg
 
 Rx only
 
 100 tablets
-
-ZYDUS

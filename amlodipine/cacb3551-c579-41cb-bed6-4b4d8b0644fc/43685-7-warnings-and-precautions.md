@@ -1,4 +1,4 @@
-# 5. WARNINGS AND PRECAUTIONS
+# 5 WARNINGS AND PRECAUTIONS
 
 ## 5.1 Hypotension
 
@@ -9,10 +9,6 @@ Because of the gradual onset of action, acute hypotension is unlikely.
 
 Worsening angina and acute myocardial infarction can develop after starting or increasing the dose of amlodipine besylate tablets, particularly in patients with severe obstructive coronary artery disease.
 
-## 5.3 Beta-Blocker Withdrawal
-
-Amlodipine besylate is not a beta-blocker and therefore gives no protection against the dangers of abrupt beta-blocker withdrawal; any such withdrawal should be by gradual reduction of the dose of beta-blocker.
-
-## 5.4 Patients with Hepatic Failure
+## 5.3 Patients with Hepatic Failure
 
 Because amlodipine besyaate is extensively metabolized by the liver and the plasma elimination half-life (t1/2) is 56 hours in patients with impaired hepatic function, titrate slowly when administering amlodipine besylate to patients with severe hepatic impairment.
