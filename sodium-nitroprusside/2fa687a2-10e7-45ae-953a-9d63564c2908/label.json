@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA209493"
+  ],
+  "inn": "sodium-nitroprusside",
+  "labeler": "Amneal Biosciences LLC",
+  "package_ndcs": [
+    "70121-1189-1"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "sodium nitroprusside",
+      "name": "Sodium nitroprusside"
+    }
+  ],
+  "setid": "2fa687a2-10e7-45ae-953a-9d63564c2908",
+  "source": "dailymed"
+}
