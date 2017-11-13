@@ -2,13 +2,13 @@
 
 The following adverse reactions are described elsewhere in other sections of the prescribing information:
 
-- Hypotension [see Warnings and Precautions (5.1)]
-- Liver Injury [see Warnings and Precautions (5.2)]
-- Sedation [see Warnings and Precautions (5.3)]
-- Hallucinosis/Psychotic-Like Symptoms [see Warnings and Precautions (5.4)]
-- Hypersensitivity Reactions [see Warnings and Precautions (5.6)]
+- •Hypotension [see Warnings and Precautions (5.1)]
+- •Liver Injury [see Warnings and Precautions (5.2)]
+- •Sedation [see Warnings and Precautions (5.3)]
+- •Hallucinosis/Psychotic-Like Symptoms [see Warnings and Precautions (5.4)]
+- •Hypersensitivity Reactions [see Warnings and Precautions (5.6)]
 
-6.1 Clinical Trials Experience
+## 6.1 Clinical Trials Experience
 
 Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in clinical practice.
 
@@ -25,10 +25,10 @@ These events appeared to be dose related.
 
 Table 1 lists signs and symptoms that were reported in greater than 2% of patients in three multiple dose, placebo-controlled studies who received Tizanidine Tablets, USP where the frequency in the Tizanidine Tablets, USP group was greater than the placebo group.
 For comparison purposes, the corresponding frequency of the event (per 100 patients) among placebo treated patients is also provided.
+Table 1: Multiple Dose, Placebo-Controlled Studies—Frequent (>2%) Adverse Reactions Reported for Which Tizanidine Tablets, USP Incidence is Greater than Placebo
 
 | Event | Placebo N = 261 % | Tizanidine Tablets, USP N = 264 % |
 | --- | --- | --- |
-| Table 1: Multiple Dose, Placebo-Controlled Studies—Frequent (>2%) Adverse Reactions Reported for Which Tizanidine Tablets, USP Incidence is Greater than Placebo |  |  |
 | Dry mouth | 10 | 49 |
 | Somnolence | 10 | 48 |
 | Asthenia* | 16 | 41 |
@@ -47,16 +47,15 @@ For comparison purposes, the corresponding frequency of the event (per 100 patie
 | Pharyngitis | 1 | 3 |
 | Rhinitis | 2 | 3 |
 
-* (weakness, fatigue, and/or tiredness)
-
-In the single dose, placebo-controlled study involving 142 patients with spasticity due to multiple sclerosis (Study 1) [see Clinical Studies (14)], the patients were specifically asked if they had experienced any of the four most common adverse reactions: dry mouth, somnolence (drowsiness), asthenia (weakness, fatigue and/or tiredness) and dizziness.
+* (weakness, fatigue, and/or tiredness) In the single dose, placebo-controlled study involving 142 patients with spasticity due to multiple sclerosis (Study 1) [see Clinical Studies (14)], the patients were specifically asked if they had experienced any of the four most common adverse reactions: dry mouth, somnolence (drowsiness), asthenia (weakness, fatigue and/or tiredness) and dizziness.
 In addition, hypotension and bradycardia were observed.
 The occurrence of these reactions is summarized in Table 2.
 Other events were, in general, reported at a rate of 2% or less.
 
+Table 2: Single Dose, Placebo-Controlled Study—Common Adverse Reactions Reported
+
 | Event | Placebo N = 48 % | Tizanidine Tablets, USP, 8 mg, N = 45 % | Tizanidine Tablets, USP, 16 mg, N = 49 % |
 | --- | --- | --- | --- |
-| Table 2: Single Dose, Placebo-Controlled Study—Common Adverse Reactions Reported |  |  |  |
 | Somnolence | 31 | 78 | 92 |
 | Dry mouth | 35 | 76 | 88 |
 | Asthenia* | 40 | 67 | 78 |
@@ -66,7 +65,7 @@ Other events were, in general, reported at a rate of 2% or less.
 
 * (weakness, fatigue, and/or tiredness)
 
-6.2 Post-Marketing Experience
+## 6.2 Post-Marketing Experience
 
 The following adverse reactions have been identified during post approval use of Tizanidine Tablets, USP.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
@@ -77,14 +76,14 @@ The following adverse reactions have been identified as occurring in the post ma
 Based on the information provided regarding these reactions, a causal relationship with Tizanidine Tablets, USP cannot be entirely excluded.
 The events are listed in order of decreasing clinical significance; severity in the post marketing setting is not reported.
 
-- Stevens Johnson Syndrome
-- Anaphylactic Reaction
-- Exfoliative Dermatitis
-- Ventricular Tachycardia
-- Hepatitis
-- Convulsion
-- Depression
-- Arthralgia
-- Paresthesia
-- Rash
-- Tremor
+- •Stevens Johnson Syndrome
+- •Anaphylactic Reaction
+- •Exfoliative Dermatitis
+- •Ventricular Tachycardia
+- •Hepatitis
+- •Convulsion
+- •Depression
+- •Arthralgia
+- •Paresthesia
+- •Rash
+- •Tremor

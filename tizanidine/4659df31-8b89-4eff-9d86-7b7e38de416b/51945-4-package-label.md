@@ -1,8 +1,8 @@
-# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
-
-Tizanidine Tablets, USP 2 mg
+# PRINCIPAL DISPLAY PANEL - 2 mg Tablet Bottle Label
 
 NDC 57664-502-89
+
+Tizanidine Tablets, USP
 
 Rx Only
 
@@ -10,9 +10,11 @@ Rx Only
 
 ALKALOIDA Chemical Company Zrt.
 
-Tizanidine Tablets, USP 4 mg
+# PRINCIPAL DISPLAY PANEL - 4 mg Tablet Bottle Label
 
 NDC 57664-503-89
+
+Tizanidine Tablets, USP
 
 Rx Only
 

@@ -4,7 +4,7 @@
 
 Tizanidine is a central alpha-2-adrenergic receptor agonist and presumably reduces spasticity by increasing presynaptic inhibition of motor neurons.
 The effects of tizanidine are greatest on polysynaptic pathways.
-The overall effect of these actions is thought to reduce facilitation of spinal motor neurons.
+The effect of these actions is thought to reduce facilitation of spinal motor neurons.
 
 ## 12.3 Pharmacokinetics
 
@@ -30,7 +30,7 @@ Consequently when each was administered with food, the amount absorbed from the 
 Administration of the capsule contents sprinkled on applesauce was not bioequivalent to administration of an intact capsule under fasting conditions.
 Administration of the capsule contents on applesauce resulted in a 15%–20% increase in Cmax and AUC of tizanidine and a 15 minute decrease in the median lag time and time to peak concentration compared to administration of an intact capsule while fasting.
 
-Figure 1: Mean Tizanidine Concentration vs. Time Profiles For Tizanidine Tablets, USPand Capsules (2 × 4 mg) Under Fasted and Fed Conditions
+Figure 1: Mean Tizanidine Concentration vs. Time Profiles For Tizanidine Tablets, USP and Capsules (2 × 4 mg) Under Fasted and Fed Conditions
 
 Metabolism and Excretion
 

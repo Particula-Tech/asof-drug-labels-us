@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-16.2 Tizanidine Tablets, USP Tablets
+## 16.2 Tizanidine Tablets, USP
 
 Tizanidine Tablets, USP 2 mg are available as; white to off-white, round, flat beveled, uncoated tablets debossed with product code “502” on one side, and bisecting score on the other.
 

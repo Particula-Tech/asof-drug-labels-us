@@ -1,6 +1,8 @@
-# 2 DOSAGE & ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-2.1 Dosing Information Tizanidine Tablets, USP tablets may be prescribed with or without food.
+## 2.1 Dosing Information
+
+Tizanidine Tablets, USP tablets may be prescribed with or without food.
 Once the formulation has been selected and the decision to take with or without food has been made, this regimen should not be altered.
 
 Food has complex effects on tizanidine pharmacokinetics, which differ with the different formulations.
@@ -16,13 +18,13 @@ Dosage can be gradually increased by 2 mg to 4 mg at each dose, with 1 to 4 days
 The total daily dose should not exceed 36 mg.
 Single doses greater than 16 mg have not been studied.
 
-2.2 Dosing in Patients with Renal Impairment
+## 2.2 Dosing in Patients with Renal Impairment
 
 Tizanidine Tablets, USP should be used with caution in patients with renal insufficiency (creatinine clearance < 25 mL/min), as clearance is reduced by more than 50%.
 In these patients, during titration, the individual doses should be reduced.
 If higher doses are required, individual doses rather than dosing frequency should be increased [see Warnings and Precautions (5.7)].
 
-2.3 Dosing in Patients with Hepatic Impairment
+## 2.3 Dosing in Patients with Hepatic Impairment
 
 Tizanidine Tablets, USP should be used with caution in patients with any hepatic impairment.
 In these patients, during titration, the individual doses should be reduced.
@@ -30,6 +32,6 @@ If higher doses are required, individual doses rather than dosing frequency shou
 Monitoring of aminotransferase levels is recommended for baseline and 1 month after maximum dose is achieved, or if hepatic injury is suspected.
 [see Use in Specific Populations (8.7)]
 
-2.4 Drug Discontinuation
+## 2.4 Drug Discontinuation
 
 If therapy needs to be discontinued, particularly in patients who have been receiving high doses (20 mg to 36 mg daily) for long periods (9 weeks or more) or who may be on concomitant treatment with narcotics, the dose should be decreased slowly (2 mg to 4 mg per day) to minimize the risk of withdrawal and rebound hypertension, tachycardia, and hypertonia [see Drug Abuse and Dependence (9.3)].
