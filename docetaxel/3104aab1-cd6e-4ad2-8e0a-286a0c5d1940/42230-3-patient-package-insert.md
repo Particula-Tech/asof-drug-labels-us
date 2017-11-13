@@ -128,4 +128,4 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 Manufactured by: Zydus Hospira Oncology Private Ltd., Gujarat, India Distributed by: Hospira, Inc., Lake Forest, IL 60045 USA Made in India GUJ-DRUGS/G/28/1267
 
-LAB-0906-6.0 Revised: 9/2017
+LAB-0906-7.0 Revised: 11/2017

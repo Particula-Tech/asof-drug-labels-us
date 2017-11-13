@@ -9,7 +9,7 @@ Docetaxel (trihydrate) is a white to almost-white powder with an empirical formu
 It is highly lipophilic and practically insoluble in water.
 
 Docetaxel Injection, USP is a clear, pale yellow to brownish-yellow solution.
-Docetaxel Injection, USP is sterile, non-pyrogenic and is available in single use vials containing 20 mg (1 mL) docetaxel (anhydrous), and multi-use vials containing 80 mg (4 mL), 120 mg (6 mL), or 160 mg (8 mL) docetaxel (anhydrous).
+Docetaxel Injection, USP is sterile, non-pyrogenic and is available in single use vials containing 20 mg (1 mL) docetaxel (anhydrous), and multi-use vials containing 80 mg (4 mL) or 160 mg (8 mL) docetaxel (anhydrous).
 
 Each mL contains 20 mg docetaxel (anhydrous), 520 mg Polysorbate 80 NF, 7 mg Citric Acid Monohydrate USP, and 395 mg Dehydrated Alcohol USP.
 

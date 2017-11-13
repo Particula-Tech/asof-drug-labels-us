@@ -77,28 +77,6 @@ Caution: Cytotoxic Agent
 Check concentration prior to preparation.
 See package insert for complete instructions.
 
-# PRINCIPAL DISPLAY PANEL - 6 mL Vial Label
-
-6 mL Multi-use Vial
-
-Sterile
-
-NDC 0409-0369-01
-
-Docetaxel Injection 120 mg/6 mL
-
-(20 mg/mL)
-
-For Intravenous Infusion only
-
-Rx only
-
-Ready to add to infusion solution.
-Check concentration prior to preparation.
-See package insert for complete instructions.
-
-# 434446
-
 # PRINCIPAL DISPLAY PANEL - 8 mL Vial Label
 
 8 mL Multi-use Vial
