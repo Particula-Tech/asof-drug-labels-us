@@ -8,7 +8,7 @@ In most cases, the compression resolves following delivery.
 Reinitiation of bromocriptine treatment has been reported to produce improvement in the visual fields of patients in whom nerve compression has occurred during pregnancy.
 The safety of bromocriptine treatment during pregnancy to the mother and fetus has not been established.
 
-Bromocriptine mesylate has been associated with somnolence, and episodes of sudden sleep onset, particularly in patients with Parkinson's disease.
+Bromocriptine mesylate has been associated with somnolence, and episodes of sudden sleep onset, particularly in patients with Parkinson’s disease.
 Sudden onset of sleep during daily activities, in some cases without awareness or warning signs, has been reported.
 Patients must be informed of this and advised not to drive or operate machines during treatment with bromocriptine.
 Patients who have experienced somnolence and/or an episode of sudden sleep onset must not drive or operate machines.
@@ -29,7 +29,7 @@ Cases of acute myocardial infarction have also been reported.
 Although a causal relationship between bromocriptine administration and hypertension, seizures, strokes, and myocardial infarction in post-partum women has not been established, use of the drug in patients with uncontrolled hypertension is not recommended.
 In patients being treated for hyperprolactinemia bromocriptine should be withdrawn when pregnancy is diagnosed (see PRECAUTIONS, Hyperprolactinemic States).
 In the event that bromocriptine is reinstituted to control a rapidly expanding macroadenoma (see PRECAUTIONS, Hyperprolactinemic States) and a patient experiences a hypertensive disorder of pregnancy, the benefit of continuing bromocriptine must be weighed against the possible risk of its use during a hypertensive disorder of pregnancy.
-When bromocriptine is being used to treat acromegaly or Parkinson's disease in patients who subsequently become pregnant, a decision should be made as to whether the therapy continues to be medically necessary or can be withdrawn.
+When bromocriptine is being used to treat acromegaly or Parkinson’s disease in patients who subsequently become pregnant, a decision should be made as to whether the therapy continues to be medically necessary or can be withdrawn.
 If it is continued, the drug should be withdrawn in those who may experience hypertensive disorders of pregnancy (including eclampsia, preeclampsia, or pregnancy-induced hypertension) unless withdrawal of bromocriptine is considered to be medically contraindicated.
 Because of the possibility of an interaction between bromocriptine and other ergot alkaloids, the concomitant use of these medications is not recommended.
 Periodic monitoring of the blood pressure, particularly during the first weeks of therapy is prudent.
@@ -53,7 +53,7 @@ Safety and efficacy of bromocriptine have not been established in patients with 
 Care should be exercised when administering bromocriptine mesylate therapy concomitantly with other medications known to lower blood pressure.
 
 The drug should be used with caution in patients with a history of psychosis or cardiovascular disease.
-If acromegalic patients or patients with prolactinoma or Parkinson's disease are being treated with bromocriptine during pregnancy, they should be cautiously observed, particularly during the post-partum period if they have a history of cardiovascular disease.
+If acromegalic patients or patients with prolactinoma or Parkinson’s disease are being treated with bromocriptine during pregnancy, they should be cautiously observed, particularly during the post-partum period if they have a history of cardiovascular disease.
 
 Patients with rare hereditary problems of galactose intolerance, severe lactase deficiency or glucose-galactose malabsorption should not take this medicine.
 
@@ -103,7 +103,7 @@ Hallucinations usually resolve with dosage reduction; occasionally, discontinuat
 Rarely, after high doses, hallucinations have persisted for several weeks following discontinuation of bromocriptine.
 
 Postmarketing reports suggest that patients treated with anti-Parkinson medications can experience intense urges to gamble, increased sexual urges, intense urges to spend money uncontrollably, and other intense urges.
-Patients may be unable to control these urges while taking one or more of the medications that are generally used for the treatment of Parkinson's disease and that increase central dopaminergic tone, including bromocriptine mesylate.
+Patients may be unable to control these urges while taking one or more of the medications that are generally used for the treatment of Parkinson’s disease and that increase central dopaminergic tone, including bromocriptine mesylate.
 In some cases, although not all, these urges were reported to have stopped when the dose was reduced or the medication was discontinued.
 Because patients may not recognize these behaviors as abnormal it is important for prescribers to specifically ask patients or their caregivers about the development of new or increased gambling urges, sexual urges, uncontrolled spending or other urges while being treated with bromocriptine mesylate.
 Physicians should consider dose reduction or stopping the medication if a patient develops such urges while taking bromocriptine mesylate.
@@ -112,8 +112,8 @@ As with levodopa, caution should be exercised when administering bromocriptine t
 
 Retroperitoneal fibrosis has been reported in a few patients receiving long-term therapy (2-10 years) with bromocriptine mesylate in doses ranging from 30-140 mg daily.
 
-Epidemiological studies have shown that patients with Parkinson's disease have a higher risk (2-approximately 6-fold higher) of developing melanoma than the general population.
-Whether the increased risk observed was due to Parkinson's disease or other factors, such as drugs used to treat Parkinson's disease, is unclear.
+Epidemiological studies have shown that patients with Parkinson’s disease have a higher risk (2-approximately 6-fold higher) of developing melanoma than the general population.
+Whether the increased risk observed was due to Parkinson’s disease or other factors, such as drugs used to treat Parkinson’s disease, is unclear.
 For the reasons stated above, patients and providers are advised to monitor for melanomas frequently and on a regular basis when using bromocriptine mesylate for any indication.
 Ideally, periodic skin examinations should be performed by appropriately qualified individuals (e.g. dermatologists).
 
@@ -123,7 +123,7 @@ A symptom complex resembling the neuroleptic malignant syndrome (characterized b
 ## Information for Patients:
 
 During clinical trials, dizziness, drowsiness, faintness, fainting, and syncope have been reported early in the course of bromocriptine therapy.
-In post-marketing reports, bromocriptine has been associated with somnolence, and episodes of sudden sleep onset, particularly in patients with Parkinson's disease.
+In post-marketing reports, bromocriptine has been associated with somnolence, and episodes of sudden sleep onset, particularly in patients with Parkinson’s disease.
 Sudden onset of sleep during daily activities, in some cases without awareness or warning signs, has been reported very rarely.
 All patients receiving bromocriptine should be cautioned with regard to engaging in activities requiring rapid and precise responses, such as driving an automobile or operating machinery.
 Patients being treated with bromocriptine mesylate and presenting with somnolence and/or sudden sleep episodes must be advised not to drive or engage in activities where impaired alertness may put themselves or others at risk of serious injury or death (e.g., operating machines).
@@ -144,7 +144,7 @@ Compounds in these categories result in a decreased efficacy of bromocriptine: p
 Bromocriptine is a substrate of CYP3A4.
 Caution should therefore be used when coadministering drugs which are strong inhibitors of this enzyme (such as azole antimycotics, HIV protease inhibitors).
 The concomitant use of macrolide antibiotics such as erythromycin was shown to increase the plasma levels of bromocriptine (mean AUC and Cmax values increased 3.7-fold and 4.6-fold, respectively).1 The concomitant treatment of acromegalic patients with bromocriptine and octreotide led to increased plasma levels of bromocriptine (bromocriptine AUC increased about 38%).4 Concomitant use of bromocriptine mesylate with other ergot alkaloids is not recommended.
-Dose adjustment may be necessary in those cases where high doses of bromocriptine are being used (such as Parkinson's disease indication).
+Dose adjustment may be necessary in those cases where high doses of bromocriptine are being used (such as Parkinson’s disease indication).
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility:
 

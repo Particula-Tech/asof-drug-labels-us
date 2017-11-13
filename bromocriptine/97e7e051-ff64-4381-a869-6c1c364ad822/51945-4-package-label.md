@@ -7,5 +7,3 @@ Bromocriptine Mesylate Capsules USP, 5 mg
 Rx only
 
 100 Capsules
-
-ZYDUS

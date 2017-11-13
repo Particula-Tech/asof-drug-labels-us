@@ -1,8 +1,8 @@
 # ADVERSE REACTIONS
 
-## Hyperprolactinemic Indications:
+## Adverse Reactions from Clinical Trials
 
-Adverse Reactions from Clinical Trials
+Hyperprolactinemic Indications
 
 The incidence of adverse effects is quite high (69%) but these are generally mild to moderate in degree.
 Therapy was discontinued in approximately 5% of patients because of adverse effects.
@@ -25,7 +25,7 @@ Rarely (less than 1%) hair loss, alcohol potentiation, faintness, lightheadednes
 
 In clinical trials in which bromocriptine was administered with concomitant reduction in the dose of levodopa/carbidopa, the most common newly appearing adverse reactions were: nausea, abnormal involuntary movements, hallucinations, confusion, "on-off" phenomenon, dizziness, drowsiness, faintness/ fainting, vomiting, asthenia, abdominal discomfort, visual disturbance, ataxia, insomnia, depression, hypotension, shortness of breath, constipation, and vertigo.
 
-Less common adverse reactions which may be encountered include: anorexia, anxiety, blepharospasm, dry mouth, dysphagia, edema of the feet and ankles, erythromelalgia, epileptiform seizure, fatigue, headache, lethargy, mottling of skin, nasal stuffiness, nervousness, nightmares, paresthesia, skin rash, urinary frequency, urinary incontinence, urinary retention, and rarely, signs and symptoms of ergotism such as tingling of fingers, cold feet, numbness, muscle cramps of feet and legs or exacerbation of Raynaud's Syndrome.
+Less common adverse reactions which may be encountered include: anorexia, anxiety, blepharospasm, dry mouth, dysphagia, edema of the feet and ankles, erythromelalgia, epileptiform seizure, fatigue, headache, lethargy, mottling of skin, nasal stuffiness, nervousness, nightmares, paresthesia, skin rash, urinary frequency, urinary incontinence, urinary retention, and rarely, signs and symptoms of ergotism such as tingling of fingers, cold feet, numbness, muscle cramps of feet and legs or exacerbation of Raynaud’s Syndrome.
 
 Abnormalities in laboratory tests may include elevations in blood urea nitrogen, SGOT, SGPT, GGPT, CPK, alkaline phosphatase and uric acid, which are usually transient and not of clinical significance.
 

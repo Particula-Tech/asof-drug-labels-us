@@ -9,7 +9,7 @@ These actions, characteristic of those produced by dopamine, are inhibited by do
 
 Bromocriptine mesylate is a nonhormonal, nonestrogenic agent that inhibits the secretion of prolactin in humans, with little or no effect on other pituitary hormones, except in patients with acromegaly, where it lowers elevated blood levels of growth hormone in the majority of patients.
 
-Bromocriptine mesylate produces its therapeutic effect in the treatment of Parkinson's disease, a clinical condition characterized by a progressive deficiency in dopamine synthesis in the substantia nigra, by directly stimulating the dopamine receptors in the corpus striatum.
+Bromocriptine mesylate produces its therapeutic effect in the treatment of Parkinson’s disease, a clinical condition characterized by a progressive deficiency in dopamine synthesis in the substantia nigra, by directly stimulating the dopamine receptors in the corpus striatum.
 In contrast, levodopa exerts its therapeutic effect only after conversion to dopamine by the neurons of the substantia nigra, which are known to be numerically diminished in this patient population.
 
 Clinical Studies
@@ -68,8 +68,6 @@ The effect of liver impairment on the PK of bromocriptine mesylate and its metab
 Since bromocriptine mesylate is mainly eliminated by metabolism, liver impairment may increase the plasma levels of bromocriptine, therefore, caution may be necessary (see PRECAUTIONS, general).
 
 The effect of age, race, and gender on the pharmacokinetics of bromocriptine and its metabolites has not been evaluated.
-
-_______________________________________________________________________
 
 1 Nelson, M. et. al. (1990).
 Pharmacokinetic evaluation of erythromycin and caffeine administered with bromocriptine.

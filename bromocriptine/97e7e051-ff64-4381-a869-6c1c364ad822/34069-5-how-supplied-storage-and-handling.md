@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Bromocriptine Mesylate Capsules USP, 5 mg are white to off-white powder filled in size "3" empty hard gelatin capsules with tan colored cap printed with "ZA 17" in black ink and white colored body printed with "5 mg" in black ink and are supplied as follows:
+Bromocriptine Mesylate Capsules USP, 5 mg are white to off-white powder filled in size "3" empty Cellulose capsules with tan colored cap printed with "ZA 17" in black ink and white colored body printed with "5 mg" in black ink and are supplied as follows:
 
 NDC 65841-654-06 in bottle of 30 capsules
 
@@ -21,6 +21,4 @@ Cadila Healthcare Ltd.
 
 Ahmedabad, India
 
-Rev.: 12/12
-
-Revision Date: 2012/12/04
+Rev.: 02/17
