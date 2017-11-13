@@ -1,0 +1,63 @@
+# 7 DRUG INTERACTIONS
+
+## 7.1 Potential for Other Drugs to Affect PREVYMIS
+
+Letermovir is a substrate of organic anion-transporting polypeptide 1B1/3 (OATP1B1/3) transporters.
+Co-administration of PREVYMIS with drugs that are inhibitors of OATP1B1/3 transporters may result in increases in letermovir plasma concentrations (Table 3).
+
+## 7.2 Potential for PREVYMIS to Affect Other Drugs
+
+Co-administration of PREVYMIS with midazolam results in increased midazolam plasma concentrations, indicating that letermovir is a moderate inhibitor of CYP3A [see Clinical Pharmacology (12.3)].
+Co-administration of PREVYMIS with drugs that are CYP3A substrates may result in clinically relevant increases in the plasma concentrations of co-administered CYP3A substrates (Table 3) [see Contraindications (4) and Warnings and Precautions (5.1)].
+
+Letermovir is an inhibitor of OATP1B1/3 transporters.
+Co-administration of PREVYMIS with drugs that are substrates of OATP1B1/3 transporters may result in a clinically relevant increase in plasma concentrations of co-administered OATP1B1/3 substrates (Table3).
+
+The magnitude of CYP3A- and OATP1B1/3-mediated drug interactions on co-administered drugs may be different when PREVYMIS is co-administered with cyclosporine.
+See the prescribing information for cyclosporine for information on drug interactions with cyclosporine.
+
+## 7.3 Established and Other Potentially Significant Drug Interactions
+
+If dose adjustments of concomitant medications are made due to treatment with PREVYMIS, doses should be readjusted after treatment with PREVYMIS is completed.
+
+Table 3 provides a listing of established or potentially clinically significant drug interactions.
+The drug interactions described are based on studies conducted with PREVYMIS or are predicted drug interactions that may occur with PREVYMIS [see Contraindications (4), Warnings and Precautions (5.1), and Clinical Pharmacology (12.3)].
+
+Table 3: Potentially Significant Drug Interactions: Alteration in Dose May Be Recommended Based on Results from Drug Interaction Studies or Predicted InteractionsThis table is not all inclusive.
+(Information in the Table Applies to Co-administration of PREVYMIS and the Concomitant Drug without Cyclosporine, Unless Otherwise Indicated)
+
+| Concomitant Drug Class and/or Clearance Pathway: Drug Name | Effect on Concentration↓ =decrease, ↑=increase | Clinical Comments |
+| --- | --- | --- |
+| Anti-arrhythmic agents |  |  |
+| amiodarone | ↑ amiodarone | Close clinical monitoring for adverse events related to amiodarone is recommended during co-administration. Frequently monitor amiodarone concentrations when amiodarone is co-administered with PREVYMIS. |
+| Anticoagulants |  |  |
+| warfarin | ↓ warfarin | When PREVYMIS is co-administered with warfarin, frequently monitor International Normalized Ratio (INR)Refer to the respective prescribing information.. |
+| Anticonvulsants |  |  |
+| phenytoin | ↓ phenytoin | When PREVYMIS is co-administered with phenytoin, frequently monitor phenytoin concentrations. |
+| Antidiabetic agents |  |  |
+| Examples: glyburide, repaglinide, rosiglitazone | ↑ glyburide ↑ repaglinide ↑ rosiglitazone | When PREVYMIS is co-administered with glyburide, repaglinide, or rosiglitazone, frequently monitor glucose concentrations. When PREVYMIS is co-administered with cyclosporine, use of repaglinide is not recommended. |
+| Antifungals |  |  |
+| voriconazoleThese interactions have been studied [see Clinical Pharmacology (12.3)]. | ↓ voriconazole | If concomitant administration of voriconazole is necessary, closely monitor for reduced effectiveness of voriconazole. |
+| Antimycobacterial |  |  |
+| rifampin | ↓ letermovir | Co-administration of PREVYMIS and rifampin is not recommended. |
+| Antipsychotics |  |  |
+| pimozide | ↑ pimozide | Co-administration is contraindicated due to risk of QT prolongation and torsades de pointes [see Contraindications (4)]. |
+| Ergot alkaloids |  |  |
+| ergotamine, dihydroergotamine | ↑ ergotamine, dihydroergotamine | Co-administration is contraindicated due to risk of ergotism [see Contraindications (4)]. |
+| HMG-CoA Reductase Inhibitors |  |  |
+| atorvastatin | ↑ atorvastatin | When PREVYMIS is co-administered with atorvastatin, do not exceed an atorvastatin dosage of 20 mg daily. Closely monitor patients for myopathy and rhabdomyolysis. When PREVYMIS is co-administered with cyclosporine, use of atorvastatin is not recommended. |
+| pitavastatin, simvastatin | ↑ HMG-CoA reductase inhibitors | Co-administration of PREVYMIS and pitavastatin or simvastatin is not recommended. When PREVYMIS is co-administered with cyclosporine, use of either pitavastatin or simvastatin is contraindicated due to significantly increased pitavastatin or simvastatin concentrations and risk of myopathy or rhabdomyolysis [see Contraindications (4)]. |
+| fluvastatin, lovastatin, pravastatin, rosuvastatin | ↑ HMG-CoA reductase inhibitors | When PREVYMIS is co-administered with these statins, a statin dosage reduction may be necessary. Closely monitor patients for myopathy and rhabdomyolysis. When PREVYMIS is co-administered with cyclosporine, use of lovastatin is not recommended. When PREVYMIS is co-administered with cyclosporine, refer to the statin prescribing information for specific statin dosing recommendations. |
+| Immunosuppressants |  |  |
+| cyclosporine | ↑ cyclosporine ↑ letermovir | Decrease the dosage of PREVYMIS to 240 mg once daily [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)]. Frequently monitor cyclosporine whole blood concentrations during treatment and after discontinuation of PREVYMIS and adjust the dose of cyclosporine accordingly. |
+| sirolimus | ↑ sirolimus | When PREVYMIS is co-administered with sirolimus, frequently monitor sirolimus whole blood concentrations during treatment and after discontinuation of PREVYMIS and adjust the dose of sirolimus accordingly. When PREVYMIS is co-administered with cyclosporine and sirolimus, refer to the sirolimus prescribing information for specific sirolimus dosing recommendations. |
+| tacrolimus | ↑ tacrolimus | Frequently monitor tacrolimus whole blood concentrations during treatment and after discontinuation of PREVYMIS and adjust the dose of tacrolimus accordingly. |
+| Proton pump inhibitors |  |  |
+| omeprazole | ↓omeprazole | Clinical monitoring and dose adjustment may be needed. |
+| pantoprazole | ↓ pantoprazole | Clinical monitoring and dose adjustment may be needed. |
+| CYP3A Substrates |  |  |
+| Examples: alfentanil, fentanyl, midazolam, and quinidine | ↑ CYP3A substrate | When PREVYMIS is co-administered with a CYP3A substrate, refer to the prescribing information for dosing of the CYP3A substrate with a moderate CYP3A inhibitor. When PREVYMIS is co-administered with cyclosporine, the combined effect on CYP3A substrates may be similar to a strong CYP3A inhibitor. Refer to the prescribing information for dosing of the CYP3A substrate with a strong CYP3A inhibitor. CYP3A substrates pimozide and ergot alkaloids are contraindicated [see Contraindications (4)]. |
+
+## 7.4 Drugs without Clinically Significant Interactions with PREVYMIS
+
+No clinically significant interactions were observed in clinical drug-drug interaction studies of letermovir and acyclovir, digoxin, mycophenolate mofetil, posaconazole, ethinyl estradiol, and levonorgestrel.
