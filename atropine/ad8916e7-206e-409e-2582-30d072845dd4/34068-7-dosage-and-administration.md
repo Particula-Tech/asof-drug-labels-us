@@ -4,6 +4,7 @@
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 Do not administer unless solution is clear and seal is intact.
+Each syringe is intended for single dose only.
 Discard unused portion.
 
 Intravenous administration is usually preferred, but subcutaneous, intramuscular, and endotracheal administration are possible.
@@ -25,3 +26,7 @@ Table 1: Recommended Dosage
 
 Dosing in pediatric populations has not been well studied.
 Usual initial dose is 0.01 to 0.03 mg/kg.
+
+## 2.4 Dosing in Patients with Coronary Artery Disease
+
+Limit the total dose of atropine sulfate to 0.03 mg/kg to 0.04 mg/kg [see Warnings and Precautions (5.1)].

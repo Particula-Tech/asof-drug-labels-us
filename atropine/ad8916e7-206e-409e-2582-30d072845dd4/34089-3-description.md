@@ -4,7 +4,7 @@ Atropine Sulfate Injection, USP is a sterile, nonpyrogenic isotonic solution of 
 It is administered parenterally by subcutaneous, intramuscular or intravenous injection.
 
 Each milliliter (mL) contains 0.1 mg (adult strength) or 0.05 mg (pediatric strength) of atropine sulfate monohydrate equivalent to 0.083 mg (adult strength) or 0.042 mg (pediatric strength) of atropine, and sodium chloride, 9 mg.
-May contain sodium hydroxide and/or sulfuric acid for pH adjustment 0.308 mOsmol/mL (calc.). pH 4.2 (3.0 to 6.5).
+May contain sodium hydroxide and/or sulfuric acid for pH adjustment 0.308 mOsmol/mL (calc.). pH (3.0 to 6.5).
 
 Sodium chloride added to render the solution isotonic for injection of the active ingredient is present in amounts insufficient to affect serum electrolyte balance of sodium (Na+) and chloride (Cl-) ions.
 
