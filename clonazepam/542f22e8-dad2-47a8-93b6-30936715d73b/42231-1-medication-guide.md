@@ -1,13 +1,11 @@
-# Medication Guide
+# MEDICATION GUIDE
 
-KLONOPIN® (KLON-oh-pin) (clonazepam) Tablets
+KLONOPIN® (KLON-oh-pin) (clonazepam) tablets, for oral use,
 
 CIV
 
 What is the most important information I should know about KLONOPIN?
 
-- Do not stop taking KLONOPIN without first talking to your healthcare provider.
-  Stopping KLONOPIN suddenly can cause serious side effects.
 - KLONOPIN is a benzodiazepine medicine.
   Benzodiazepines can cause severe drowsiness, breathing problems (respiratory depression), coma, and death when taken with opioid medicines.
 - KLONOPIN can make you sleepy or dizzy and can slow your thinking and motor skills.
@@ -17,8 +15,7 @@ What is the most important information I should know about KLONOPIN?
 - Do not drink alcohol or take other drugs that may make you sleepy or dizzy while taking KLONOPIN until you talk to your healthcare provider.
   When taken with alcohol or drugs that cause sleepiness or dizziness, KLONOPIN may make your sleepiness or dizziness worse.
 - Like other antiepileptic drugs, KLONOPIN may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
-
-Call your healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
+  Call your healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
 
 | thoughts about suicide or dyingnew or worse anxietytrouble sleeping (insomnia)acting on dangerous impulses | attempts to commit suicidefeeling agitated or restlessnew or worse irritabilityan extreme increase in activity and talking (mania) | new or worse depressionpanic attacksacting aggressive, being angry, or violentother unusual changes in behavior or mood |
 | --- | --- | --- |
@@ -36,20 +33,6 @@ If you have suicidal thoughts or actions, your healthcare provider may check for
 - Do not stop KLONOPIN without first talking to a healthcare provider.
   - Stopping KLONOPIN suddenly can cause serious problems.
     Stopping KLONOPIN suddenly can cause seizures that will not stop (status epilepticus).
-- KLONOPIN may harm your unborn or developing baby.
-  - If you take KLONOPIN during pregnancy, your baby is at risk for serious birth defects.
-    These defects can happen as early as in the first month of pregnancy, even before you know you are pregnant.
-    Birth defects may occur even in children born to women who are not taking any medicines and do not have other risk factors.
-  - Children born to mothers receiving benzodiazepine medications (including KLONOPIN) late in pregnancy may be at some risk of experiencing breathing problems, feeding problems, hypothermia, and withdrawal symptoms.
-  - Tell your healthcare provider right away if you become pregnant while taking KLONOPIN.
-    You and your healthcare provider should decide if you will take KLONOPIN while you are pregnant.
-  - If you become pregnant while taking KLONOPIN, talk to your healthcare provider about registering with the North American Antiepileptic Drug Pregnancy Registry.
-    You can register by calling 1-888-233-2334.
-    The purpose of this registry is to collect information about the safety of antiepileptic drugs during pregnancy.
-  - KLONOPIN can pass into breast milk.
-    Talk to your healthcare provider about the best way to feed your baby if you take KLONOPIN.
-    You and your healthcare provider should decide if you will take KLONOPIN or breast feed.
-    You should not do both.
 - KLONOPIN can cause abuse and dependence.
   - Do not stop taking KLONOPIN all of a sudden.
     Stopping KLONOPIN suddenly can cause seizures that do not stop, hearing or seeing things that are not there (hallucinations), shaking, and stomach and muscle cramps.
@@ -70,6 +53,8 @@ KLONOPIN is a prescription medicine used alone or with other medicines to treat:
 
 It is not known if KLONOPIN is safe or effective in treating panic disorder in children younger than 18 years old.
 
+Who should not take KLONOPIN?
+
 Do not take KLONOPIN if you:
 
 - are allergic to benzodiazepines
@@ -78,11 +63,24 @@ Do not take KLONOPIN if you:
 
 Ask your healthcare provider if you are not sure if you have any of the problems listed above.
 
-Before you take KLONOPIN,tell your healthcare provider about all your medical conditions, including if you:
+Before you take KLONOPIN, tell your healthcare provider if you:
 
 - have liver or kidney problems
 - have lung problems (respiratory disease)
 - have or have had depression, mood problems, or suicidal thoughts or behavior
+- have any other medical problems
+- are pregnant or plan to become pregnant.
+  It is not known if KLONOPIN can harm your unborn baby.
+  Tell your healthcare provider right away if you become pregnant while taking KLONOPIN.
+  You and your healthcare provider will decide if you should take KLONOPIN while you are pregnant.
+  - Studies in pregnant animals have shown harmful effects of benzodiazepine medications (including the active ingredient in KLONOPIN) on the developing fetus.
+  - Children born to mothers receiving benzodiazepine medications (including KLONOPIN) late in pregnancy may be at some risk of experiencing breathing problems, feeding problems, hypothermia, and withdrawal symptoms.
+  - If you become pregnant while taking KLONOPIN, talk to your healthcare provider about registering with the North American Antiepileptic Drug Pregnancy Registry.
+    You can register by calling 1-888-233-2334.
+    The purpose of this registry is to collect information about the safety of antiepileptic drugs during pregnancy.
+- are breastfeeding or plan to breastfeed.
+  KLONOPIN can pass into breast milk.
+  You and your healthcare provider should decide how you will feed your baby while you take KLONOPIN.
 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 
@@ -92,7 +90,8 @@ Do not start or stop other medicines without talking to your healthcare provider
 How should I take KLONOPIN?
 
 - Take KLONOPIN exactly as your healthcare provider tells you.
-  KLONOPIN is available as a tablet.
+  If you take KLONOPIN for seizures, your healthcare provider may change the dose until you are taking the right amount of medicine to control your symptoms.
+- KLONOPIN is available as a tablet.
 - Do not stop taking KLONOPIN without first talking to your healthcare provider.
   Stopping KLONOPIN suddenly can cause serious problems.
 - KLONOPIN tablets should be taken with water and swallowed whole.
@@ -148,7 +147,7 @@ Tablets:
 - 1 mg tablets contain lactose, magnesium stearate, microcrystalline cellulose, corn starch, FD&C Blue No. 1 Lake and FD&C Blue No. 2 Lake
 - 2 mg tablets contain lactose, magnesium stearate, microcrystalline cellulose, corn starch
 
-Revised: December 2016
+Revised: October 2017
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
@@ -156,6 +155,6 @@ Distributed by:
 
 Genentech USA, Inc. A Member of the Roche Group 1 DNA Way South San Francisco, CA 94080-4990
 
-© 2016 Genentech, Inc. All rights reserved.
+© 2017 Genentech, Inc. All rights reserved.
 
 For more information, go to www.gene.com/patients/medicines//klonopin. or call 1-877-436-3683

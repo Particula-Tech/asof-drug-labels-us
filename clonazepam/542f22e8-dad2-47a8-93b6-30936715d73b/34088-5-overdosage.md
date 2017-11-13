@@ -2,7 +2,7 @@
 
 ## Human Experience
 
-Symptoms of clonazepam overdosage, like those produced by other CNS depressants, include somnolence, confusion, coma and diminished reflexes.
+Symptoms of clonazepam overdosage, like those produced by other CNS depressants, include somnolence, confusion, coma, and diminished reflexes.
 
 ## Overdose Management
 
