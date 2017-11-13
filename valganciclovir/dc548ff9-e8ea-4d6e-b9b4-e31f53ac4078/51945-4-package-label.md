@@ -16,7 +16,7 @@ CAUTION: Strict adherence to dosage recommendations is essential to avoid overdo
 
 Genentech
 
-10167864
+10179152
 
 # PRINCIPAL DISPLAY PANEL - 50 mg/1 mL Bottle Carton
 
@@ -28,6 +28,10 @@ Valcyte® (valganciclovir hydrochloride) for oral solution
 
 Each mL of constituted oral solution contains 50 mg valganciclovir free base.
 
-100 mL (3.4 fl oz) Rx only
+100 mL (3.4 fl oz)
+
+Rx only
 
 Genentech
+
+10179149

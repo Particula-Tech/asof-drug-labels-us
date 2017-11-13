@@ -118,7 +118,7 @@ Table 15 Results of Drug Interaction Studies with Ganciclovir: Effects of Coadmi
 | 5 mg/kg IV once daily | 11 | No effect on ganciclovir PK parameters observed |  |
 | Probenecid 500 mg every 6 hours | 1000 mg every 8 hours | 10 | AUC ↑ 53 ± 91% (range: -14% to 299%) Ganciclovir renal clearance ↓ 22 ± 20% (range: -54% to -4%) |
 
-Table 16 Results of Drug Interaction Studies with Ganciclovir: Effects of Ganciclovir on Pharmacokinetic Parameters of Coadministered Drug
+Table16 Results of Drug Interaction Studies with Ganciclovir: Effects of Ganciclovir on Pharmacokinetic Parameters of Coadministered Drug
 
 | Coadministered Drug | Ganciclovir Dosage | N | Coadministered Drug Pharmacokinetic (PK) Parameter |
 | --- | --- | --- | --- |
