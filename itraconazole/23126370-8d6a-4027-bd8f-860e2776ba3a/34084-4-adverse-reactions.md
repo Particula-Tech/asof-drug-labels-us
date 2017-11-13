@@ -15,7 +15,7 @@ Treatment was discontinued in 10.5% of patients due to adverse events.
 The median duration before discontinuation of therapy was 81 days (range: 2 to 776 days).
 The table lists adverse events reported by at least 1% of patients.
 
-Table 2: Clinical Trials of Systemic Fungal Infections: Adverse Events Occurring with an Incidence of Greater than or Equal to 1%
+Table 3: Clinical Trials of Systemic Fungal Infections: Adverse Events Occurring with an Incidence of Greater than or Equal to 1%
 
 | Body System/Adverse Event | Incidence (%) (N=602) |
 | --- | --- |
@@ -40,7 +40,7 @@ Patients in these trials were on a continuous dosing regimen of 200 mg once dail
 
 The following adverse events led to temporary or permanent discontinuation of therapy.
 
-Table 3: Clinical Trials of Onychomycosis of the Toenail: Adverse Events Leading to Temporary or Permanent Discontinuation of Therapy
+Table 4: Clinical Trials of Onychomycosis of the Toenail: Adverse Events Leading to Temporary or Permanent Discontinuation of Therapy
 
 | Adverse Event |  | Incidence (%) Itraconazole (N=112) |
 | --- | --- | --- |
@@ -63,7 +63,7 @@ Patients in these trials were on a dosing regimen consisting of two 1-week treat
 
 The following adverse events led to temporary or permanent discontinuation of therapy.
 
-Table 4: Clinical Trials of Onychomycosis of the Fingernail: Adverse Events Leading to Temporary or Permanent Discontinuation of Therapy
+Table 5: Clinical Trials of Onychomycosis of the Fingernail: Adverse Events Leading to Temporary or Permanent Discontinuation of Therapy
 
 | Adverse Event |  | Incidence (%) Itraconazole (N=37) |
 | --- | --- | --- |
@@ -101,7 +101,7 @@ Post-marketing Experience
 Adverse drug reactions that have been first identified during post-marketing experience with itraconazole(all formulations) are listed in the table below.
 Because these reactions are reported voluntarily from a population of uncertain size, reliably estimating their frequency or establishing a causal relationship to drug exposure is not always possible.
 
-Table 5: Postmarketing Reports of Adverse Drug Reactions
+Table 6: Postmarketing Reports of Adverse Drug Reactions
 
 | Blood and Lymphatic System Disorders: | Leukopenia, neutropenia, thrombocytopenia |
 | --- | --- |

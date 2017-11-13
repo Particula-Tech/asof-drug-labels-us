@@ -69,7 +69,7 @@ Hepatic Impairment:
 
 Itraconazole is predominantly metabolized in the liver.
 A pharmacokinetic study was conducted in 6 healthy and 12 cirrhotic subjects who were administered a single 100-mg dose of itraconazole as capsule.
-A statistically significant reduction in mean Cmax (47%) and a twofold increase in the elimination half-life (37 ± 17 hours vs. 16 ± 5 hours) of itraconazole were noted in cirrhotic subjects compared with healthy subjects.
+A statistically significant reduction in mean Cmax (47%) and a twofold increase in the elimination half-life (37±17 hours vs. 16±5 hours) of itraconazole were noted in cirrhotic subjects compared with healthy subjects.
 However, overall exposure to itraconazole, based on AUC, was similar in cirrhotic patients and in healthy subjects.
 Data are not available in cirrhotic patients during long-term use of itraconazole.
 (See CONTRAINDICATIONS, PRECAUTIONS: Drug Interactions and DOSAGE AND ADMINISTRATION.)
@@ -89,7 +89,7 @@ In vitro studies have demonstrated that itraconazole inhibits the cytochrome P45
 
 Activity In Vitro and in Clinical Infections:
 
-Itraconazole exhibits in vitro activity against Blastomyces dermatitidis, Histoplasma capsulatum, Histoplasma duboisii, Aspergillus flavus, Aspergillus fumigatus, and Trichophyton species (See INDICATIONS AND USAGE, Description of Clinical Studies).
+Itraconazole exhibits in vitro activity against Blastomyces dermatitidis, Histoplasma capsulatum, Histoplasma duboisii, Aspergillus flavus, Aspergillus fumigatus, and Trichophyton species (See INDICATIONS AND USAGE: Description of Clinical Studies).
 
 Correlation between minimum inhibitory concentration (MIC) results in vitro and clinical outcome has yet to be established for azole antifungal agents.
 

@@ -33,9 +33,9 @@ Toenails with or without fingernail involvement: The recommended dose is 200 mg 
 
 Treatment of Onychomycosis:
 
-Fingernails only: The recommended dosing regimen is two treatment courses, each consisting of 200 mg (2 capsules) b.i.d.
+Fingernails only: The recommended dosing regimen is two treatment pulses, each consisting of 200 mg (2 capsules) b.i.d.
 (400 mg/day) for 1 week.
-The courses are separated by a 3-week period without itraconazole.
+The pulses are separated by a 3-week period without itraconazole.
 
 Use in Patients with Renal Impairment:
 

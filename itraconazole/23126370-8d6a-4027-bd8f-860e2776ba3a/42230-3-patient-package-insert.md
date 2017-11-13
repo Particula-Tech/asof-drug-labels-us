@@ -39,7 +39,8 @@ We do not know if itraconazole works in children with fungal nail infections or 
 Itraconazole comes in the form of capsules and liquid (oral solution).
 The capsule and liquid forms work differently, so you should not use one in place of the other.
 This Patient Information discusses only the capsule form of itraconazole.
-You will get these capsules in a medicine bottle.
+You will get these capsules in a medicine bottle or carton or 7 Day Treatment Pack.
+The 7 Day Treatment Pack contains 28 capsules for treatment of your fungal nail infection.
 
 Itraconazole goes into your bloodstream and travels to the source of the infection underneath the nail so that it can fight the infection there.
 Improved nails may not be obvious for several months after the treatment period is finished because it usually takes about 6 months to grow a new fingernail and 12 months to grow a new toenail.
@@ -59,12 +60,14 @@ Never take itraconazole if you:
 - are taking any of the medicines listed below.
   Dangerous or even life-threatening side effects could result:
 
-•cisapride (such as Propulsid®) •colchicine (such as Colcrys™) [if you also have pre-existing kidney or liver impairment] •disopyramide (such as Norpace®) •dofetilide (such as Tikosyn™) •dronedarone (such as Multaq®) •eplerenone (such as Inspra®) •ergot alkaloids (such as Migranal®, Ergonovine, Cafergot®, Methergine®) •felodipine (such as Plendil®) •fesoterodine (such as Toviaz®) [if you also have pre-existing kidney or liver impairment] •irinotecan (such as Camptosar®) • ivabradine (such as Corlanor ®) •lovastatin (such as Mevacor®, Advicor®, Altocor™) •lurasidone (such as Latuda®) •methadone (such as Dolophine®) •midazolam (such as Versed®) •nisoldipine (such as Sular®) •pimozide (such as Orap®) •quinidine (such as Cardioquin®, Quinaglute®, Quinidex®) •ranolazine (such as Ranexa®) •simvastatin (such as Zocor®) •solifenacin (such as Vesicare®) [if you also have pre-existing kidney or liver impairment] •telithromycin (such as Ketek®) [if you also have pre-existing kidney or liver impairment] •ticagrelor (such as Brilinta®) •triazolam (such as Hacion®)
+• avanafil (such as StendraTM)
+
+•cisapride (such as Propulsid®) •colchicine (such as Colcrys™) [if you also have pre-existing kidney or liver impairment] •disopyramide (such as Norpace®) •dofetilide (such as Tikosyn™) •dronedarone (such as Multaq®) • eliglustat (such as CerdelgaTM) [if you know you do not break down drugs that are broken down by the enzyme CYP 2D6] •eplerenone (such as Inspra®) •ergot alkaloids (such as Migranal®, Ergonovine, Cafergot®, Methergine®) •felodipine (such as Plendil®) •fesoterodine (such as Toviaz®) [if you also have pre-existing kidney or liver impairment] •irinotecan (such as Camptosar®) • isavuconazole (such as Cresemba®) • ivabradine (such as Corlanor ®) • lomitapide (such as JuxtapidTM) •lovastatin (such as Mevacor®, Advicor®, Altocor™) •lurasidone (such as Latuda®) •methadone (such as Dolophine®) •midazolam (such as Versed®) • naloxegol (such as Movantik®) •nisoldipine (such as Sular®) •pimozide (such as Orap®) •quinidine (such as Cardioquin®, Quinaglute®, Quinidex®) •ranolazine (such as Ranexa®) •simvastatin (such as Zocor®) •solifenacin (such as Vesicare®) [if you also have pre-existing kidney or liver impairment] •telithromycin (such as Ketek®) [if you also have pre-existing kidney or liver impairment] •ticagrelor (such as Brilinta®) •triazolam (such as Hacion®)
 
 · have ever had an allergic reaction to itraconazole
 
 Taking itraconazole with certain other medicines may lead to serious or life-threatening medical problems.
-Tell your doctor and pharmacist the name of all the prescription and non-prescription medicines you are taking, including dietary supplements and herbal remedies..
+Tell your doctor and pharmacist the name of all the prescription and non-prescription medicines you are taking, including dietary supplements and herbal remedies.
 Your doctor will decide if itraconazole is the right treatment for you.
 
 WHAT SHOULD I KNOW ABOUT ITRACONAZOLE AND PREGNANCY OR BREAST FEEDING?
@@ -81,8 +84,8 @@ HOW SHOULD I TAKE ITRACONAZOLE CAPSULES?
 Always take itraconazole capsules during or right after a full meal.
 
 Your doctor will decide the right dose for you.
-Depending on your infection, you will take itraconazole once a day for 12 weeks, or twice a day for 1 week in a dosing schedule.
-You will receive a bottle of capsules.
+Depending on your infection, you will take itraconazole once a day for 12 weeks, or twice a day for 1 week in a “pulse” dosing schedule.
+You will receive either a bottle of capsules or a carton of capsules or a 7 Day Treatment Pack.
 Do not skip any doses.
 Be sure to finish all your itraconazole as prescribed by your doctor.
 
@@ -92,6 +95,26 @@ Itraconazole can sometimes cause dizziness or blurred/double vision.
 If you have these symptoms, do not drive or use machines.
 
 If you forget to take or miss doses of itraconazole, ask your doctor what you should do with the missed doses.
+THE ITRACONAZOLE 7 DAY TREATMENT PACK If you use the 7 Day Treatment Pack, you will take itraconazole for 1 week and then take no itraconazole for the next 3 weeks before repeating the 1-week treatment.
+This is called “pulse dosing.”
+The itraconazole 7 Day Treatment Pack contains enough medicine for one “pulse” (1 week of treatment).
+
+The itraconazole 7 Day Treatment Pack comes with special instructions.
+It contains 7 blisters and each blister contains 4 capsules. • Take 2 capsules in the morning and 2 capsules in the evening.
+This means you will take 4 capsules a day for 7 days.
+At the end of 7 days, you will have taken all of the capsules in the 7 Day Treatment Pack. • After you finish the 7 Day Treatment Pack, do not take any itraconazole for the next 3 weeks.
+Even though you are not taking any capsules during this time, itraconazole keeps working inside your nails to help fight the fungal infection. • You will need more than one “pulse” to treat your fungal nail infection.
+When your doctor prescribes another pulse treatment, be sure to get your refill before the end of week 4.
+
+| Itraconazole Pulse Dosing |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Take 2 Itraconazole Capsules twice a day for 1 week |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | Day 1 |  | Day 2 |  | Day 3 |  | Day 4 |  | Day 5 |  | Day 6 |  | Day 7 |  |
+|  |  | AM | PM | AM | PM | AM | PM | AM | PM | AM | PM | AM | PM | AM | PM |
+| Week 1 |  | // | // | // | // | // | // | // | // | // | // | // | // | // | // |
+| Week 2 |  | For the next 3 weeks, do not take any Itraconazole Capsules. |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Week 3 |  | Remember to get a refill before the end of Week 4 when your doctor prescribes another 7 Day Treatment Pack. |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Week 4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 WHAT ARE THE POSSIBLE SIDE EFFECTS OF ITRACONAZOLE?
 
@@ -125,7 +148,7 @@ HOW SHOULD I STORE ITRACONAZOLE?
 
 Keep all medicines, including itraconazole, out of the reach of children.
 
-Store itraconazole capsules at room temperature in a dry place away from light.
+Store itraconazole capsules and 7 Day Treatment Pack at room temperature in a dry place away from light.
 
 GENERAL ADVICE ABOUT ITRACONAZOLE
 
@@ -148,4 +171,4 @@ Manufactured by: Alembic Pharmaceuticals Limited (Formulation Division), Panelav
 
 Manufactured for: Alembic Pharmaceuticals, Inc. 750 Route 202, Bridgewater, NJ 08807 USA
 
-Revised: 04/2017
+Revised: 10/2017
