@@ -1,6 +1,6 @@
 # 10 OVERDOSAGE
 
-Experience in patients taking very high doses of PROTONIX (> 240 mg) is limited.
+Experience in patients taking very high doses of PROTONIX (greater than 240 mg) is limited.
 Spontaneous post-marketing reports of overdose are generally within the known safety profile of PROTONIX.
 
 Pantoprazole is not removed by hemodialysis.

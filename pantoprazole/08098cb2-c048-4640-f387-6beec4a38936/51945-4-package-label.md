@@ -26,38 +26,6 @@ Protonix® (pantoprazole sodium) delayed-release tablets
 
 90 Tablets Rx only
 
-# PRINCIPAL DISPLAY PANEL - 40 mg Tablet Sample Blister Pack
-
-NDC 0008-0841-17
-
-PROTONIX® 40 mg
-
-(pantoprazole sodium)
-
-Delayed-Release Tablets
-
-5 tablets each containing 40 mg pantoprazole
-
-Visit www.protonix.com for more information.
-
-Rx only
-
-# PRINCIPAL DISPLAY PANEL - 40 mg Tablet Sample Carton
-
-NDC 0008-0841-17
-
-PROFESSIONAL SAMPLE – NOT FOR SALE
-
-PROTONIX® 40 mg
-
-(pantoprazole sodium)
-
-Delayed-Release Tablets
-
-www.protonix.com
-
-Rx only
-
 # PRINCIPAL DISPLAY PANEL - 40 mg Granule Packet
 
 NDC 0008-0844-01

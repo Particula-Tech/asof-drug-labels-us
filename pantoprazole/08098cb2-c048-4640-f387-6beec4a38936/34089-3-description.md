@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-The active ingredient in PROTONIX (pantoprazole sodium) For Delayed-Release Oral Suspension and PROTONIX (pantoprazole sodium) Delayed-Release Tablets is a substituted benzimidazole, sodium 5-(difluoromethoxy)-2-[[(3,4-dimethoxy-2-pyridinyl)methyl] sulfinyl]-1H-benzimidazole sesquihydrate, a compound that inhibits gastric acid secretion.
+The active ingredient in PROTONIX (pantoprazole sodium) For Delayed-Release Oral Suspension and PROTONIX (pantoprazole sodium) Delayed-Release Tablets, a PPI, is a substituted benzimidazole, sodium 5-(difluoromethoxy)-2-[[(3,4-dimethoxy-2-pyridinyl)methyl] sulfinyl]-1H-benzimidazole sesquihydrate, a compound that inhibits gastric acid secretion.
 Its empirical formula is C16H14F2N3NaO4S × 1.5 H2O, with a molecular weight of 432.4.
 The structural formula is:
 
@@ -12,10 +12,9 @@ The stability of the compound in aqueous solution is pH-dependent.
 The rate of degradation increases with decreasing pH.
 At ambient temperature, the degradation half-life is approximately 2.8 hours at pH 5 and approximately 220 hours at pH 7.8.
 
-PROTONIX (pantoprazole sodium) is supplied as a for delayed-release oral suspension, available in one strength (40 mg), and as a delayed-release tablet, available in two strengths (20 mg and 40 mg).
+PROTONIX is supplied as a for delayed-release oral suspension in unit dose packets, available in one strength (40 mg) pantoprazole, (equivalent to 45.1 mg of pantoprazole sodium), and as a delayed-release tablet, available in two strengths 20 mg pantoprazole (equivalent to 22.56 mg of pantoprazole sodium) and 40 mg pantoprazole (equivalent to 45.1 mg of pantoprazole sodium).
 
-Each PROTONIX (pantoprazole sodium) Delayed-Release Tablet contains 45.1 mg or 22.56 mg of pantoprazole sodium sesquihydrate (equivalent to 40 mg or 20 mg pantoprazole, respectively) with the following inactive ingredients: calcium stearate, crospovidone, hypromellose, iron oxide, mannitol, methacrylic acid copolymer, polysorbate 80, povidone, propylene glycol, sodium carbonate, sodium lauryl sulfate, titanium dioxide, and triethyl citrate.
+PROTONIX Delayed-Release Tablets contain the following inactive ingredients: calcium stearate, crospovidone, hypromellose, iron oxide, mannitol, methacrylic acid copolymer, polysorbate 80, povidone, propylene glycol, sodium carbonate, sodium lauryl sulfate, titanium dioxide, and triethyl citrate.
 PROTONIX Delayed-Release Tablets (40 mg and 20 mg) complies with USP dissolution test 2.
 
-PROTONIX (pantoprazole sodium) For Delayed-Release Oral Suspension, 40 mg, contains the active ingredient pantoprazole sodium sesquihydrate in the form of enteric-coated granules in unit dose packets.
-Each unit dose packet contains enteric-coated granules containing 45.1 mg pantoprazole sodium sesquihydrate (equivalent to 40 mg of pantoprazole) with the following inactive ingredients: crospovidone, hypromellose, methacrylic acid copolymer, microcrystalline cellulose, polysorbate 80, povidone, sodium carbonate, sodium lauryl sulfate, talc, titanium dioxide, triethyl citrate, and yellow ferric oxide.
+PROTONIX For Delayed-Release Oral Suspension contains the following inactive ingredients: crospovidone, hypromellose, methacrylic acid copolymer, microcrystalline cellulose, polysorbate 80, povidone, sodium carbonate, sodium lauryl sulfate, talc, titanium dioxide, triethyl citrate, and yellow ferric oxide.

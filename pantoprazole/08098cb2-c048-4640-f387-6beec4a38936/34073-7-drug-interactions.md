@@ -1,36 +1,24 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Interference with Antiretroviral Therapy
+Table 4 includes drugs with clinically important drug interactions and interaction with diagnostics when administered concomitantly with PROTONIX and instructions for preventing or managing them.
 
-Concomitant use of atazanavir or nelfinavir with proton pump inhibitors is not recommended.
-Co-administration of atazanavir or nelfinavir with proton pump inhibitors is expected to substantially decrease atazanavir or nelfinavir plasma concentrations and may result in a loss of therapeutic effect and development of drug resistance.
+Consult the labeling of concomitantly used drugs to obtain further information about interactions with PPIs.
 
-## 7.2 Coumarin Anticoagulants
+Table 4: Clinically relevant Interactions Affecting Drugs Co-Administered with PROTONIX and Interaction with Diagnostics
 
-There have been postmarketing reports of increased INR and prothrombin time in patients receiving proton pump inhibitors, including PROTONIX, and warfarin concomitantly.
-Increases in INR and prothrombin time may lead to abnormal bleeding and even death.
-Patients treated with proton pump inhibitors and warfarin concomitantly should be monitored for increases in INR and prothrombin time.
-
-## 7.3 Clopidogrel
-
-Concomitant administration of pantoprazole and clopidogrel in healthy subjects had no clinically important effect on exposure to the active metabolite of clopidogrel or clopidogrel-induced platelet inhibition [see Clinical Pharmacology (12.3)].
-No dose adjustment of clopidogrel is necessary when administered with an approved dose of PROTONIX.
-
-## 7.4 Drugs for Which Gastric pH Can Affect Bioavailability
-
-Due to its effects on gastric acid secretion, pantoprazole can reduce the absorption of drugs where gastric pH is an important determinant of their bioavailability.
-Like with other drugs that decrease the intragastric acidity, the absorption of drugs such as ketoconazole, ampicillin esters, atazanavir, iron salts, erlotinib, and mycophenolate mofetil (MMF) can decrease.
-
-Co-administration of pantoprazole in healthy subjects and in transplant patients receiving MMF has been reported to reduce the exposure to the active metabolite, mycophenolic acid (MPA), possibly due to a decrease in MMF solubility at an increased gastric pH.
-The clinical relevance of reduced MPA exposure on organ rejection has not been established in transplant patients receiving PROTONIX and MMF.
-Use PROTONIX with caution in transplant patients receiving MMF [see Clinical Pharmacology (12.3)].
-
-## 7.5 False Positive Urine Tests for THC
-
-There have been reports of false positive urine screening tests for tetrahydrocannabinol (THC) in patients receiving proton pump inhibitors.
-An alternative confirmatory method should be considered to verify positive results.
-
-## 7.6 Methotrexate
-
-Case reports, published population pharmacokinetic studies, and retrospective analyses suggest that concomitant administration of PPIs and methotrexate (primarily at high dose; see methotrexate prescribing information) may elevate and prolong serum levels of methotrexate and/or its metabolite hydroxymethotrexate.
-However, no formal drug interaction studies of Methotrexate with PPIs have been conducted [see Warnings and Precautions (5.10)].
+| Antiretrovirals |  |
+| --- | --- |
+| Clinical Impact: | The effect of PPIs on antiretroviral drugs is variable. The clinical importance and the mechanisms behind these interactions are not always known. Decreased exposure of some antiretroviral drugs (e.g., rilpivirine atazanavir, and nelfinavir) when used concomitantly with PROTONIX may reduce antiviral effect and promote the development of drug resistance.Increased exposure of other antiretroviral drugs (e.g., saquinavir) when used concomitantly with PROTONIX may increase toxicity.There are other antiretroviral drugs which do not result in clinically relevant interactions with pantoprazole sodium. |
+| Intervention: | Rilpivirine-containing products: Concomitant use with PROTONIX is contraindicated [see Contraindications (4)]. Atazanavir: See prescribing information for atazanavir for dosing information. Nelfinavir: Avoid concomitant use with PROTONIX. See prescribing information for nelfinavir. Saquinavir: See the prescribing information for saquinavir for monitoring of potential saquinavir-related toxicities. Other antiretrovirals: See prescribing information for specific antiretroviral drugs. |
+| Warfarin |  |
+| Clinical Impact: | Increased INR and prothrombin time in patients receiving PPIs, including pantoprazole sodium, and warfarin concomitantly. Increases in INR and prothrombin time may lead to abnormal bleeding and even death. |
+| Intervention: | Monitor INR and prothrombin time and adjust the dose of warfarin, if needed, to maintain the target INR range. |
+| Methotrexate |  |
+| Clinical Impact: | Concomitant use of pantoprazole sodium with methotrexate (primarily at high dose) may elevate and prolong serum concentrations of methotrexate and/or its metabolite hydroxymethotrexate, possibly leading to methotrexate toxicities. No formal drug interaction studies of high-dose methotrexate with PPIs have been conducted [see Warnings and Precautions (5.10)]. |
+| Intervention: | A temporary withdrawal of PROTONIX may be considered in some patients receiving high-dose methotrexate. |
+| Drugs Dependent on Gastric pH for Absorption (e.g., iron salts, erlotinib, dasatinib, nilotinib, mycophenolate mofetil, ketoconazole) |  |
+| Clinical Impact: | Pantoprazole sodium can reduce the absorption of other drugs due to its effect on reducing intragastric acidity |
+| Intervention: | Mycophenolate mofetil (MMF): Co-administration of pantoprazole sodium in healthy subjects and in transplant patients receiving MMF has been reported to reduce the exposure to the active metabolite, mycophenolic acid (MPA), possibly due to a decrease in MMF solubility at an increased gastric pH. The clinical relevance of reduced MPA exposure on organ rejection has not been established in transplant patients receiving Pantoprazole Sodium for Injection and MMF. Use PROTONIX with caution in transplant patients receiving MMF [see Clinical Pharmacology (12.3)]. See the prescribing information for other drugs dependent on gastric pH for absorption. |
+| False Positive Urine Tests for THC |  |
+| Clinical Impact: | There have been reports of false positive urine screening tests for tetrahydrocannabinol (THC) in patients receiving PPIs, including PROTONIX [see Warnings and Precautions (5.9)]. |
+| Intervention: | An alternative confirmatory method should be considered to verify positive results. |

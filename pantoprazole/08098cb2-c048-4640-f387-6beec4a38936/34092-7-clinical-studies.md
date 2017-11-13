@@ -8,14 +8,14 @@ Adult Patients
 
 A US multicenter, double-blind, placebo-controlled study of PROTONIX 10 mg, 20 mg, or 40 mg once daily was conducted in 603 patients with reflux symptoms and endoscopically diagnosed EE of grade 2 or above (Hetzel-Dent scale).
 In this study, approximately 25% of enrolled patients had severe EE of grade 3, and 10% had grade 4.
-The percentages of patients healed (per protocol, n = 541) in this study are shown in Table 7.
+The percentages of patients healed (per protocol, n = 541) in this study are shown in Table 8.
 
-Table 7: Erosive Esophagitis Healing Rates (Per Protocol)
+Table 8: Erosive Esophagitis Healing Rates (Per Protocol)
 
 | Week | 10 mg daily (n = 153) | 20 mg daily (n = 158) | 40 mg daily (n = 162) | (n = 68) |
 | --- | --- | --- | --- | --- |
 |  |  | PROTONIX |  | Placebo |
-| 4 | 45.6%(p < 0.001) PROTONIX versus placebo | 58.4%(p < 0.05) versus 10 mg PROTONIX | 75.0%(p < 0.05) versus 10 mg or 20 mg PROTONIX | 14.3% |
+| 4 | 45.6%(p < 0.001) PROTONIX versus placebo | 58.4%(p < 0.05) versus 10 mg or 20 mg PROTONIX | 75.0%(p < 0.05) versus 10 mg PROTONIX | 14.3% |
 | 8 | 66.0% | 83.5% | 92.6% | 39.7% |
 
 In this study, all PROTONIX treatment groups had significantly greater healing rates than the placebo group.
@@ -26,9 +26,9 @@ A significantly greater proportion of patients taking PROTONIX 40 mg experienced
 Patients taking PROTONIX consumed significantly fewer antacid tablets per day than those taking placebo.
 
 PROTONIX 40 mg and 20 mg once daily were also compared with nizatidine 150 mg twice daily in a US multicenter, double-blind study of 243 patients with reflux symptoms and endoscopically diagnosed EE of grade 2 or above.
-The percentages of patients healed (per protocol, n = 212) are shown in Table 8.
+The percentages of patients healed (per protocol, n = 212) are shown in Table 9.
 
-Table 8: Erosive Esophagitis Healing Rates (Per Protocol)
+Table 9: Erosive Esophagitis Healing Rates (Per Protocol)
 
 | Week | 20 mg daily (n = 72) | 40 mg daily (n = 70) | 150 mg twice daily (n = 70) |
 | --- | --- | --- | --- |
@@ -53,10 +53,10 @@ All 4 patients with EE were healed (Hetzel-Dent score of 0 or 1) at 8 weeks.
 
 Two independent, multicenter, randomized, double-blind, comparator-controlled trials of identical design were conducted in adult GERD patients with endoscopically confirmed healed erosive esophagitis to demonstrate efficacy of PROTONIX in long-term maintenance of healing.
 The two US studies enrolled 386 and 404 patients, respectively, to receive either 10 mg, 20 mg, or 40 mg of PROTONIX Delayed-Release Tablets once daily or 150 mg of ranitidine twice daily.
-As demonstrated in Table 9, PROTONIX 40 mg and 20 mg were significantly superior to ranitidine at every timepoint with respect to the maintenance of healing.
+As demonstrated in Table 10, PROTONIX 40 mg and 20 mg were significantly superior to ranitidine at every timepoint with respect to the maintenance of healing.
 In addition, PROTONIX 40 mg was superior to all other treatments studied.
 
-Table 9: Long-Term Maintenance of Healing of Erosive Gastroesophageal Reflux Disease (GERD Maintenance): Percentage of Patients Who Remained Healed
+Table 10: Long-Term Maintenance of Healing of Erosive Gastroesophageal Reflux Disease (GERD Maintenance): Percentage of Patients Who Remained Healed
 
 |  | PROTONIX 20 mg daily | PROTONIX 40 mg daily | Ranitidine 150 mg twice daily |
 | --- | --- | --- | --- |
@@ -73,9 +73,9 @@ Table 9: Long-Term Maintenance of Healing of Erosive Gastroesophageal Reflux Dis
 | Note: PROTONIX 10 mg was superior (p < 0.05) to ranitidine in Study 2, but not Study 1. |  |  |  |
 
 PROTONIX 40 mg was superior to ranitidine in reducing the number of daytime and nighttime heartburn episodes from the first through the twelfth month of treatment.
-PROTONIX 20 mg, administered once daily, was also effective in reducing episodes of daytime and nighttime heartburn in one trial, as presented in Table 10.
+PROTONIX 20 mg, administered once daily, was also effective in reducing episodes of daytime and nighttime heartburn in one trial, as presented in Table 11.
 
-Table 10: Number of Episodes of Heartburn (mean ± SD)
+Table 11: Number of Episodes of Heartburn (mean ± SD)
 
 |  |  | PROTONIX 40 mg daily | Ranitidine 150 mg twice daily |
 | --- | --- | --- | --- |

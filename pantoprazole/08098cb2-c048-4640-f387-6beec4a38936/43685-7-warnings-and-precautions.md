@@ -21,14 +21,14 @@ Patients should use the lowest dose and shortest duration of PPI therapy appropr
 
 ## 5.4 Bone Fracture
 
-Several published observational studies suggest that proton pump inhibitor (PPI) therapy may be associated with an increased risk for osteoporosis-related fractures of the hip, wrist, or spine.
+Several published observational studies suggest that PPI therapy may be associated with an increased risk for osteoporosis-related fractures of the hip, wrist, or spine.
 The risk of fracture was increased in patients who received high-dose, defined as multiple daily doses, and long-term PPI therapy (a year or longer).
 Patients should use the lowest dose and shortest duration of PPI therapy appropriate to the condition being treated.
 Patients at risk for osteoporosis-related fractures should be managed according to established treatment guidelines [see Dosage and Administration (2) and Adverse Reactions (6.2)].
 
 ## 5.5 Cutaneous and Systemic Lupus Erythematosus
 
-Cutaneous lupus erythematosus (CLE) and systemic lupus erythematosus (SLE) have been reported in patients taking PPIs, including pantoprazole.
+Cutaneous lupus erythematosus (CLE) and systemic lupus erythematosus (SLE) have been reported in patients taking PPIs, including pantoprazole sodium.
 These events have occurred as both new onset and an exacerbation of existing autoimmune disease.
 The majority of PPI-induced lupus erythematous cases were CLE.
 
@@ -68,14 +68,9 @@ The relevance of these findings to tumor development in humans is unknown [see N
 
 ## 5.9 Interference with Urine Screen for THC
 
-See Drug Interactions (7.5).
+There have been reports of false positive urine screening tests for tetrahydrocannabinol (THC) in patients receiving PPIs, including PROTONIX [see Drug Interactions (7)].
 
 ## 5.10 Concomitant Use of PROTONIX with Methotrexate
 
 Literature suggests that concomitant use of PPIs with methotrexate (primarily at high dose; see methotrexate prescribing information) may elevate and prolong serum levels of methotrexate and/or its metabolite, possibly leading to methotrexate toxicities.
-In high-dose methotrexate administration, a temporary withdrawal of the PPI may be considered in some patients [see Drug Interactions (7.6)].
-
-## 5.11 Interference with Laboratory Tests
-
-Use of PPIs, including pantoprazole, may increase chromogranin A (CgA) levels which may interfere with investigations for neuroendocrine tumors.
-To avoid this interference, PPI treatment should be stopped 14 days before CgA measurements.
+In high-dose methotrexate administration, a temporary withdrawal of the PPI may be considered in some patients [see Drug Interactions (7)].
