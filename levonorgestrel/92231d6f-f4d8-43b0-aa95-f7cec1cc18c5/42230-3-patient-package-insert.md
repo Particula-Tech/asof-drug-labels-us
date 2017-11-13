@@ -84,9 +84,9 @@ Do not use Mirena if you:
 - •Have had a serious pelvic infection in the past 3 months after a pregnancy
 - •Can get infections easily.
   For example, if you have:
-  - oMore than one sexual partner or your partner has more than one partner
-  - oProblems with your immune system
-  - oIntravenous drug abuse.
+  - •More than one sexual partner or your partner has more than one partner
+  - •Problems with your immune system
+  - •Intravenous drug abuse.
 - •Have or suspect you might have cancer of the uterus or cervix
 - •Have bleeding from the vagina that has not been explained
 - •Have liver disease or liver tumor
