@@ -7,5 +7,3 @@ Anastrozole Tablets, 1 mg
 Rx only
 
 30 tablets
-
-ZYDUS

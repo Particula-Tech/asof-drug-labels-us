@@ -1,10 +1,8 @@
-# 7. DRUG INTERACTIONS
+# 7 DRUG INTERACTIONS
 
 ## 7.1 Tamoxifen
 
-Co-administration of anastrozole and tamoxifen in breast cancer patients reduced
-
-anastrozole plasma concentration by 27%.
+Co-administration of anastrozole and tamoxifen in breast cancer patients reduced anastrozole plasma concentration by 27%.
 However, the coadministration of anastrozole and tamoxifen did not affect the pharmacokinetics of tamoxifen or N-desmethyltamoxifen.
 At a median follow-up of 33 months, the combination of anastrozole tablets and tamoxifen did not demonstrate any efficacy benefit when compared with tamoxifen in all patients as well as in the hormone receptor-positive subpopulation.
 This treatment arm was discontinued from the trial [see CLINICAL STUDIES (14.1)].

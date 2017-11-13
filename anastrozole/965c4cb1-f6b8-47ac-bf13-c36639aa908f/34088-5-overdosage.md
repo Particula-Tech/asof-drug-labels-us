@@ -1,4 +1,4 @@
-# 10. OVERDOSAGE
+# 10 OVERDOSAGE
 
 Clinical trials have been conducted with anastrozole tablets, up to 60 mg in a single dose given to healthy male volunteers and up to 10 mg daily given to postmenopausal women with advanced breast cancer; these dosages were tolerated.
 A single dose of anastrozole tablets that results in life-threatening symptoms has not been established.

@@ -1,6 +1,6 @@
-# 13. NONCLINICAL TOXICOLOGY
+# 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis, Mutagenesis, Impairment Of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 A conventional carcinogenesis study in rats at doses of 1.0 to 25 mg/kg/day (about 10 to 243 times the daily maximum recommended human dose on a mg/m2 basis) administered by oral gavage for up to 2 years revealed an increase in the incidence of hepatocellular adenoma and carcinoma and uterine stromal polyps in females and thyroid adenoma in males at the high dose.
 A dose-related increase was observed in the incidence of ovarian and uterine hyperplasia in females.
@@ -14,7 +14,7 @@ At 50 mg/kg/day, plasma AUC levels in mice were 35 to 40 times higher than the l
 Anastrozole tablets has not been shown to be mutagenic in in vitro tests (Ames and E. coli bacterial tests, CHO-K1 gene mutation assay) or clastogenic either in vitro (chromosome aberrations in human lymphocytes) or in vivo (micronucleus test in rats).
 
 Oral administration of anastrozole to female rats (from 2 weeks before mating to pregnancy day 7) produced significant incidence of infertility and reduced numbers of viable pregnancies at 1 mg/kg/day (about 10 times the recommended human dose on a mg/m2 basis and 9 times higher than the AUC0-24 hr found in postmenopausal volunteers at the recommended dose).
-Pre-implantation loss of ova or fetus was increased at doses equal to or greater than 0.02 mg/kg/day (about one-fifth the recommended human dose on a mg/m2 basis).
+Pre-implantation loss of ova or fetus was increased at doses equal to or greater than 0.02 mg/kg/day (about one-fifth the recommended human dose on a mg/m2basis).
 Recovery of fertility was observed following a 5-week non-dosing period which followed 3 weeks of dosing.
 It is not known whether these effects observed in female rats are indicative of impaired fertility in humans.
 
@@ -22,7 +22,7 @@ Multiple-dose studies in rats administered anastrozole for 6 months at doses equ
 In addition, hyperplastic uteri were observed in 6-month studies in female dogs administered doses equal to or greater than 1 mg/kg/day (which produced plasma anastrozole Cssmax and AUC0-24 hr that were 22 times and 16 times higher than the respective values found in postmenopausal women at the recommended dose).
 It is not known whether these effects on the reproductive organs of animals are associated with impaired fertility in premenopausal women.
 
-## 13.2 Animal Toxicology And/Or Pharmacology
+## 13.2 ANIMAL PHARMACOLOGY AND OR TOXICOLOGY
 
 Reproductive Toxicology
 

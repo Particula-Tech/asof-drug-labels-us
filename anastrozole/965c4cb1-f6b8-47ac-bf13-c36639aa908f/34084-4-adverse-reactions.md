@@ -1,9 +1,9 @@
-# 6. ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
 Serious adverse reactions with anastrozole tablets occurring in less than 1 in 10,000 patients, are: 1) skin reactions such as lesions, ulcers, or blisters; 2) allergic reactions with swelling of the face, lips, tongue, and/or throat.
 This may cause difficulty in swallowing and/or breathing; and 3) changes in blood tests of the liver function, including inflammation of the liver with symptoms that may include a general feeling of not being well, with or without jaundice, liver pain or liver swelling [see ADVERSE REACTIONS (6.2)].
 
-Common adverse reactions (occurring with an incidence of >10%) in women taking anastrozole tablets included: hot flashes, asthenia, arthritis, pain, arthralgia, pharyngitis, hypertension, depression, nausea and vomiting, rash, osteoporosis, fractures, back pain, insomnia, pain, headache, bone pain, peripheral edema, increased cough, dyspnea, pharyngitis and lymphedema.
+Common adverse reactions (occurring with an incidence of ≥ 10%) in women taking anastrozole tablets included: hot flashes, asthenia, arthritis, pain, arthralgia, hypertension, depression, nausea and vomiting, rash, osteoporosis, fractures, back pain, insomnia, headache, bone pain, peripheral edema, increased cough, dyspnea, pharyngitis and lymphedema.
 
 In the ATAC trial, the most common reported adverse reaction (>0.1%) leading to discontinuation of therapy for both treatment groups was hot flashes, although there were fewer patients who discontinued therapy as a result of hot flashes in the anastrozole tablets group.
 
@@ -18,11 +18,11 @@ The median duration of adjuvant treatment for safety evaluation was 59.8 months 
 
 Adverse reactions occurring with an incidence of at least 5% in either treatment group during treatment or within 14 days of the end of treatment are presented in Table 1.
 
-Table 1 Adverse reactions occurring with an incidence of at least 5% in eithertreatment group during treatment, or within 14 days of the end of treatment in the ATAC trial*
+Table 1 Adverse reactions occurring with an incidence of at least 5% in either treatment group during treatment, or within 14 days of the end of treatment in the ATAC trial*
 
-| Body system and adverse reactions by COSTART† preferred term | Anastrozole Tablets 1 mg | Tamoxifen 20 mg |
+| Body system and adverse reactions by COSTART† preferred term‡ | Anastrozole Tablets 1 mg | Tamoxifen 20 mg |
 | --- | --- | --- |
-|  | (N‡ = 3092) | (N‡ = 3094) |
+|  | (N§ = 3092) | (N§ = 3094) |
 | Body as a whole |  |  |
 | Asthenia | 575 (19) | 544 (18) |
 | Pain | 533 (17) | 485 (16) |
@@ -85,24 +85,28 @@ Table 1 Adverse reactions occurring with an incidence of at least 5% in eithertr
 | Vulvovaginitis | 194 (6) | 150 (5) |
 | Vaginal Hemorrhage¶ | 122 (4) | 180 (6) |
 | Vaginitis | 125 (4) | 158 (5) |
-| *The combination arm was discontinued due to lack of efficacy benefit at 33 months of follow-up. †COSTART Coding Symbols for Thesaurus of Adverse Reaction Terms. ‡A patient may have had more than 1 adverse reaction, including more than 1 adverse reaction in the same body system. §N=Number of patients receiving the treatment. ¶Vaginal Hemorrhage without further diagnosis. |  |  |
+| *The combination arm was discontinued due to lack of efficacy benefit at 33 months of follow-up. |  |  |
+| †COSTART Coding Symbols for Thesaurus of Adverse Reaction Terms. |  |  |
+| ‡A patient may have had more than 1 adverse reaction, including more than 1 adverse reaction in the same body system. |  |  |
+| §N=Number of patients receiving the treatment. |  |  |
+| ¶Vaginal Hemorrhage without further diagnosis. |  |  |
 
 Certain adverse reactions and combinations of adverse reactions were prospectively specified for analysis, based on the known pharmacologic properties and side effect profiles of the two drugs (see Table 2).
 
-Table 2Number of Patients with Pre-specified Adverse Reactions in ATAC TrialPatients with multiple events in the same category are counted only once in that category.
+Table 2 Number of Patients with Pre-specified Adverse Reactions in ATAC Trial Percentages calculated based upon the numbers of patients with an intact uterus at baseline
 
 |  | Anastrozole Tablets | Tamoxifen | Odds-ratio | 95% CI |
 | --- | --- | --- | --- | --- |
 |  | N=3092 | N=3094 |  |  |
 |  | (%) | (%) |  |  |
 | Hot Flashes | 1104 (36) | 1264 (41) | 0.80 | 0.73 - 0.89 |
-| Musculoskeletal EventsRefers to joint symptoms, including joint disorder, arthritis, arthrosis and arthralgia. | 1100 (36) | 911 (29) | 1.32 | 1.19 - 1.47 |
+| Musculoskeletal Events Patients with multiple events in the same category are counted only once in that category. | 1100 (36) | 911 (29) | 1.32 | 1.19 - 1.47 |
 | Fatigue/Asthenia | 575 (19) | 544 (18) | 1.07 | 0.94 - 1.22 |
 | Mood Disturbances | 597 (19) | 554 (18) | 1.10 | 0.97 - 1.25 |
 | Nausea and Vomiting | 393 (13) | 384 (12) | 1.03 | 0.88 - 1.19 |
 | All Fractures | 315 (10) | 209 (7) | 1.57 | 1.30 - 1.88 |
 | Fractures of Spine, Hip, or Wrist | 133 (4) | 91 (3) | 1.48 | 1.13 - 1.95 |
-| Wrist/Colles’ fractures | 67 (2) | 50 (2) |  |  |
+| Wrist/Colles' fractures | 67 (2) | 50 (2) |  |  |
 | Spine fractures | 43 (1) | 22 (1) |  |  |
 | Hip fractures | 28 (1) | 26 (1) |  |  |
 | Cataracts | 182 (6) | 213 (7) | 0.85 | 0.69 - 1.04 |
@@ -112,7 +116,7 @@ Table 2Number of Patients with Pre-specified Adverse Reactions in ATAC TrialPati
 | Venous Thromboembolic events | 87 (3) | 140 (5) | 0.61 | 0.47 - 0.80 |
 | Deep Venous Thromboembolic Events | 48 (2) | 74 (2) | 0.64 | 0.45 - 0.93 |
 | Ischemic Cerebrovascular Event | 62 (2) | 88 (3) | 0.70 | 0.50 - 0.97 |
-| Endometrial CancerPercentages calculated based upon the numbers of patients with an intact uterus at baseline | 4 (0.2) | 13 (0.6) | 0.31 | 0.10 - 0.94 |
+| Endometrial Cancer Refers to joint symptoms, including joint disorder, arthritis, arthrosis and arthralgia. | 4 (0.2) | 13 (0.6) | 0.31 | 0.10 - 0.94 |
 
 Ischemic Cardiovascular Events
 
@@ -142,7 +146,7 @@ Cholesterol
 During the ATAC trial, more patients receiving anastrozole tablets were reported to have an elevated serum cholesterol compared to patients receiving tamoxifen (9% versus 3.5%, respectively).
 
 A post-marketing trial also evaluated any potential effects of anastrozole tablets on lipid profile.
-In the primary analysis population for lipids (anastrozole tablets alone), there was no clinically significant change in LDL-C from baseline to 12 months and HDL-C from baseline to 12 months
+In the primary analysis population for lipids (anastrozole tablets alone), there was no clinically significant change in LDL-C from baseline to 12 months and HDL-C from baseline to 12 months.
 
 In secondary population for lipids (anastrozole tablets + risedronate), there also was no clinically significant change in LDL-C and HDL-C from baseline to 12 months.
 
@@ -166,8 +170,10 @@ Patients receiving anastrozole tablets had a lower incidence of hot flashes, vag
 
 10 year median follow-up Safety Results from the ATAC Trial
 
-- Results are consistent with the previous analyses.
-- Serious adverse reactions were similar between anastrozole (50 %) and tamoxifen (51 %).
+Results are consistent with the previous analyses.
+
+Serious adverse reactions were similar between anastrozole (50 %) and tamoxifen (51 %).
+
 - Cardiovascular events were consistent with the known safety profiles of anastrozole and tamoxifen.
 - The cumulative incidences of all first fractures (both serious and non-serious, occurring either during or after treatment) was higher in the anastrozole group (15 %) compared to the tamoxifen group (11 %).
   This increased first fracture rate during treatment did not continue in the post-treatment follow-up period.
@@ -185,7 +191,7 @@ Table 3 Adverse Reactions Occurring with an Incidence of at Least 5% in Trials 0
 | Body system Adverse ReactionA patient may have had more than 1 adverse event. | Number (%) of subjects |  |
 | --- | --- | --- |
 |  | Anastrozole Tablets | Tamoxifen |
-|  | (n=506) | (n=511) |
+|  | (N=506) | (N=511) |
 | Whole body |  |  |
 | Asthenia | 83 (16) | 81 (16) |
 | Pain | 70 (14) | 73 (14) |
@@ -206,7 +212,7 @@ Table 3 Adverse Reactions Occurring with an Incidence of at Least 5% in Trials 0
 | Anorexia | 26 (5) | 46 (9) |
 | Metabolic and Nutritional |  |  |
 | Peripheral edema | 51 (10) | 41 (8) |
-| Muscoloskeletal |  |  |
+| Musculoskeletal |  |  |
 | Bone pain | 54 (11) | 52 (10) |
 | Nervous |  |  |
 | Dizziness | 30 (6) | 22 (4) |
@@ -233,7 +239,7 @@ Table 4 Number of Patients with Pre-specified Adverse Reactions in Trials 0030 a
 | --- | --- | --- |
 |  | Anastrozole Tablets | NOLVADEX®$ |
 |  | 1 mg | 20 mg |
-|  | (n=506) | (n=511) |
+|  | (N=506) | (N=511) |
 |  | n (%) | n (%) |
 | Depression | 23 (5) | 32 (6) |
 | Tumor Flare | 15 (3) | 18 (4) |
@@ -256,10 +262,10 @@ Adverse reactions reported in greater than 5% of the patients in any of the trea
 
 Table 5 Number (N) and Percentage of Patients with Adverse Reactions in Trials 0004 and 0005
 
-| Adverse ReactionA patient may have had more then one adverse reaction. | Anastrozole Tablets |  | Anastrozole Tablets |  | Megestrol Acetate |  |
+| Adverse ReactionA patient may have had more than one adverse reaction. | Anastrozole Tablets |  | Anastrozole Tablets |  | Megestrol Acetate |  |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 1 mg |  | 10 mg |  | 160 mg |  |
-|  | (n=262) |  | (n=246) |  | (n=253) |  |
+|  | (N=262) |  | (N=246) |  | (N=253) |  |
 |  | n | % | n | % | n | % |
 | Asthenia | 42 | (16) | 33 | (13) | 47 | (19) |
 | Nausea | 41 | (16) | 48 | (20) | 28 | (11) |
@@ -335,11 +341,11 @@ Table 6 Number (n) and Percentage of Patients with Pre-specified Adverse Reactio
 
 ## 6.2 Post-Marketing Experience
 
-Hepatobiliary events including increases in alkaline phosphatase, alanine aminotransferase, aspartate aminotransferase have been reported (>1% and <10%) and gamma-GT, bilirubin and hepatitis have been reported (>0.1% and <1%) in patients receiving anastrozole tablets.
+These adverse reactions are reported voluntarily from a population of uncertain size.
+Therefore, it is not always possible to estimate reliably their frequency or establish a causal relationship to drug exposure.
+The following have been reported in post-approval use of anastrozole tablets
 
-Anastrozole tablets may also be associated with rash including cases of mucocutaneous disorders such as erythema multiforme and Stevens-Johnson syndrome.
-
-Cases of allergic reactions including angioedema, urticaria and anaphylaxis have been reported in patients receiving anastrozole tablets.
-[see CONTRAINDICATIONS (4.2)]
-
-Trigger finger has been reported (>0.1% and <1%) in patients receiving anastrozole tablets.
+- Hepatobiliary events including increases in alkaline phosphatase, alanine aminotransferase, aspartate aminotransferase, gamma-GT, and bilirubin; hepatitis
+- Rash including cases of mucocutaneous disorders such as erythema multiforme and Stevens-Johnson syndrome
+- Cases of allergic reactions including angioedema, urticaria and anaphylaxis [see CONTRAINDICATIONS (4.2)]
+- Myalgia, trigger finger and hypercalcemia (with or without an increase in parathyroid hormone)

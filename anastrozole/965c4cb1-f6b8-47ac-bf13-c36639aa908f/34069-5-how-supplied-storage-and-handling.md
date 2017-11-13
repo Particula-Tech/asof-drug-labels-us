@@ -1,6 +1,6 @@
-# 16. HOW SUPPLIED/STORAGE AND HANDLING
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Anastrozole Tablets, 1 mg are white, biconvex, round coated tablets, debossed with ‘A7’ on one side and plain on other side and are supplied as follows:
+Anastrozole Tablets, 1 mg are white, biconvex, round coated tablets, debossed with 'A7' on one side and plain on other side and are supplied as follows:
 
 NDC 65841-743-06 in bottle of 30 tablets (unit-of-use package)
 

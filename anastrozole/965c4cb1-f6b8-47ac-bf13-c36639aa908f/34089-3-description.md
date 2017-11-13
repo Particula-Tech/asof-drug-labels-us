@@ -1,4 +1,4 @@
-# 11. DESCRIPTION
+# 11 DESCRIPTION
 
 Anastrozole tablets for oral administration contain 1 mg of anastrozole, a non-steroidal aromatase inhibitor.
 It is chemically described as 1,3-Benzenediacetonitrile, a, a, a', a'-tetramethyl-5-(1H-1,2,4-triazol-1-ylmethyl).
