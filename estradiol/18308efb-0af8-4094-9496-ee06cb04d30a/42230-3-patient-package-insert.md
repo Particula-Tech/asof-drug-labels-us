@@ -244,7 +244,7 @@ The remaining components of the system are pharmacologically inactive.
 
 T2004-68
 
-REV: AUGUST 2017 101985-3
+REV: AUGUST 2004 101985-3
 
 Distributed by:
 

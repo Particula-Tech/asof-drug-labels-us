@@ -12,7 +12,7 @@ The 0.0375-mg dose was superior to placebo in reducing both the frequency and se
 The following doses of Vivelle: 0.0375 mg, 0.05 mg, 0.075 mg, and 0.1 mg, are effective for the control of vasomotor symptoms.
 
 Efficacy and safety of the Vivelle system in the prevention of postmenopausal osteoporosis have been studied in a 2-year double-blind, randomized, placebo-controlled, parallel group study.
-A total of 261 hysterectomized (161) and non-hysterectomized (100), surgically or naturally menopausal women (within five years of menopause), with no evidence of osteoporosis (lumbar spine bone mineral density within two standard deviations of average peak bone mass, i.e., =0.827 g/cm2) were enrolled in this study; 194 patients were randomized to one of the four doses of Vivelle (0.1, 0.05, 0.0375, or 0.025 mg/day) and 67 patients to placebo.
+A total of 261 hysterectomized (161) and non-hysterectomized (100), surgically or naturally menopausal women (within five years of menopause), with no evidence of osteoporosis (lumbar spine bone mineral density within two standard deviations of average peak bone mass, i.e., at least 0.827 g/cm2) were enrolled in this study; 194 patients were randomized to one of the four doses of Vivelle (0.1, 0.05, 0.0375, or 0.025 mg/day) and 67 patients to placebo.
 Over two years, study systems were applied to the buttock or the abdomen twice a week.
 Non-hysterectomized women received oral medroxyprogesterone acetate (2.5 mg/day) throughout the study.
 

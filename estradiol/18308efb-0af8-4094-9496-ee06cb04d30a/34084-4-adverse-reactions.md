@@ -7,7 +7,7 @@ The adverse reaction information from clinical trials does, however, provide a b
 
 The following adverse events have been reported with Vivelle therapy:
 
-Table 3 Summary of Most Frequently Reported Adverse Experiences/Medical Events Regardless of Relationship Reported at a Frequency =5%
+Table 3 Summary of Most Frequently Reported Adverse Experiences/Medical Events Regardless of Relationship Reported at a Frequency at least 5%
 
 |  | Vivelle 0.025 mg/ day† (N=47) N (%) | Vivelle 0.0375 mg/ day† (N=130 N (%) | Vivelle 0.05 mg/ day† (N=103) N (%) | Vivelle 0.075 mg/ day† (N=46) N (%) | Vivelle 0.1 mg/ day† (N=132) N (%) | Placebo (N=157) N (%) |
 | --- | --- | --- | --- | --- | --- | --- |
