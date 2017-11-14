@@ -2,14 +2,14 @@ Manufactured by:
 
 Cadila Healthcare Ltd.
 
-Ahmedabad, India
+India
+
+Rev.: 09/17
 
 Manufactured by:
 
 Cadila Healthcare Ltd.
 
-Baddi, India
+India
 
-Rev.: 02/12
-
-Revision Date: 2012/02/22
+Rev.: 09/17

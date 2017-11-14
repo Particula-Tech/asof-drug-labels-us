@@ -2,7 +2,7 @@
 
 NDC 65841-616-01 in bottle of 100 Tablets
 
-Carvedilol Tablets, 3.125 mg
+Carvedilol Tablets USP, 3.125 mg
 
 Rx only
 
@@ -10,7 +10,7 @@ Rx only
 
 NDC 65841-617-01 in bottle of 100 Tablets
 
-Carvedilol Tablets, 6.25 mg
+Carvedilol Tablets USP, 6.25 mg
 
 Rx only
 
@@ -18,7 +18,7 @@ Rx only
 
 NDC 65841-618-01 in bottle of 100 Tablets
 
-Carvedilol Tablets, 12.5 mg
+Carvedilol Tablets USP, 12.5 mg
 
 Rx only
 
@@ -26,7 +26,7 @@ Rx only
 
 NDC 65841-619-01 in bottle of 100 Tablets
 
-Carvedilol Tablets,25 mg
+Carvedilol Tablets USP, 25 mg
 
 Rx only
 
