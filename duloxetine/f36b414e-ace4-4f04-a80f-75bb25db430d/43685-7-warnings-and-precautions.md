@@ -1,6 +1,6 @@
-# 5. WARNINGS AND PRECAUTIONS
+# 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Suicidal Thoughts and Behaviors in Adolescents and Young Adults
+## 5.1 Suicidal Thoughts and Behaviors in Children, Adolescents, and Young Adults
 
 Patients with major depressive disorder (MDD), both adult and pediatric, may experience worsening of their depression and/or the emergence of suicidal ideation and behavior (suicidality) or unusual changes in behavior, whether or not they are taking antidepressant medications, and this risk may persist until significant remission occurs.
 Suicide is a known risk of depression and certain other psychiatric disorders, and these disorders themselves are the strongest predictors of suicide.
@@ -13,7 +13,7 @@ The pooled analyses of placebo-controlled trials in children and adolescents wit
 The pooled analyses of placebo-controlled trials in adults with MDD or other psychiatric disorders included a total of 295 short-term trials (median duration of 2 months) of 11 antidepressant drugs in over 77,000 patients.
 There was considerable variation in risk of suicidality among drugs, but a tendency toward an increase in the younger patients for almost all drugs studied.
 There were differences in absolute risk of suicidality across the different indications, with the highest incidence in MDD.
-The risk of differences (drug vs. placebo), however, were relatively stable within age strata and across indications.
+The risk of differences (drug vs placebo), however, were relatively stable within age strata and across indications.
 These risk differences (drug-placebo difference in the number of cases of suicidality per 1000 patients treated) are provided in Table 1.
 
 Table 1
@@ -25,7 +25,7 @@ Table 1
 | 18 to 24 | 5 additional cases |
 |  | Decreases Compared to Placebo |
 | 25 to 64 | 1 fewer case |
-| ≥ 65 | 6 fewer cases |
+| ≥65 | 6 fewer cases |
 
 No suicides occurred in any of the pediatric trials.
 There were suicides in the adult trials, but the number was not sufficient to reach any conclusion about drug effect on suicide.
@@ -38,9 +38,9 @@ All patients being treated with antidepressants for any indication should be mon
 The following symptoms, anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, and mania, have been reported in adult and pediatric patients being treated with antidepressants for major depressive disorder as well as for other indications, both psychiatric and nonpsychiatric.
 Although a causal link between the emergence of such symptoms and either the worsening of depression and/or the emergence of suicidal impulses has not been established, there is concern that such symptoms may represent precursors to emerging suicidality.
 
-Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients whose depression is persistently worse, or who are experiencing emergent suicidality or symptoms that might be precursors to worsening depression or suicidality, especially if these symptoms are severe, abrupt in onset, or were not part of the patient’s presenting symptoms.
+Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients whose depression is persistently worse, or who are experiencing emergent suicidality or symptoms that might be precursors to worsening depression or suicidality, especially if these symptoms are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
 
-If the decision has been made to discontinue treatment, medication should be tapered, as rapidly as is feasible, but with recognition that discontinuation can be associated with certain symptoms [see DOSAGE AND ADMINISTRATION (2.4) and WARNINGS AND PRECAUTIONS (5.7) for descriptions of the risks of discontinuation of duloxetine].
+If the decision has been made to discontinue treatment, medication should be tapered, as rapidly as is feasible, but with recognition that discontinuation can be associated with certain symptoms [see Dosage and Administration (2.7) and Warnings and Precautions (5.7) for descriptions of the risks of discontinuation of duloxetine].
 
 Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to health care providers.
 Such monitoring should include daily observation by families and caregivers.
@@ -64,23 +64,32 @@ Cases of cholestatic jaundice with minimal elevation of transaminase levels have
 Other postmarketing reports indicate that elevated transaminases, bilirubin, and alkaline phosphatase have occurred in patients with chronic liver disease or cirrhosis.
 
 Duloxetine increased the risk of elevation of serum transaminase levels in development program clinical trials.
-Liver transaminase elevations resulted in the discontinuation of 0.3% (89/29,435) of duloxetine-treated patients.
+Liver transaminase elevations resulted in the discontinuation of 0.3% (92/34,756) of duloxetine-treated patients.
 In most patients, the median time to detection of the transaminase elevation was about two months.
-In placebo-controlled trials in any indication, for patients with normal and abnormal baseline ALT values, elevation of ALT > 3 times the upper limit of normal occurred in 1.37% (132/9611) of duloxetine-treated patients compared to 0.49% (35/7182) of placebo-treated patients.
-In placebo-controlled studies using a fixed dose design, there was evidence of a dose response relationship for ALT and AST elevation of > 3 times the upper limit of normal and > 5 times the upper limit of normal, respectively.
+In adult placebo-controlled trials in any indication, for patients with normal and abnormal baseline ALT values, elevation of ALT > 3 times the upper limit of normal occurred in 1.25% (144/11,496) of duloxetine-treated patients compared to 0.45% (39/8716) of placebo- treated patients.
+In adult placebo-controlled studies using a fixed dose design, there was evidence of a dose response relationship for ALT and AST elevation of > 3 times the upper limit of normal and > 5 times the upper limit of normal, respectively.
 
 Because it is possible that duloxetine and alcohol may interact to cause liver injury or that duloxetine may aggravate preexisting liver disease, duloxetine should not be prescribed to patients with substantial alcohol use or evidence of chronic liver disease.
 
-## 5.3 Orthostatic Hypotension and Syncope
+## 5.3 Orthostatic Hypotension, Falls and Syncope
 
-Orthostatic hypotension and syncope have been reported with therapeutic doses of duloxetine.
+Orthostatic hypotension, falls and syncope have been reported with therapeutic doses of duloxetine.
 Syncope and orthostatic hypotension tend to occur within the first week of therapy but can occur at any time during duloxetine treatment, particularly after dose increases.
-The risk of blood pressure decreases may be greater in patients taking concomitant medications that induce orthostatic hypotension (such as antihypertensives) or are potent CYP1A2 inhibitors [see WARNINGS AND PRECAUTIONS (5.11) and DRUG INTERACTIONS (7.1)] and in patients taking duloxetine at doses above 60 mg daily.
-Consideration should be given to discontinuing duloxetine in patients who experience symptomatic orthostatic hypotension and/or syncope during duloxetine therapy.
+
+The risk of falling appears to be related to the degree of orthostatic decrease in blood pressure as well as other factors that may increase the underlying risk of falls.
+
+In an analysis of patients from all placebo-controlled trials, patients treated with duloxetine reported a higher rate of falls compared to patients treated with placebo.
+Risk appears to be related to the presence of orthostatic decrease in blood pressure.
+The risk of blood pressure decreases may be greater in patients taking concomitant medications that induce orthostatic hypotension (such as antihypertensives) or are potent CYP1A2 inhibitors [see Warnings and Precautions (5.12) and Drug Interactions (7.1)] and in patients taking duloxetine at doses above 60 mg daily.
+Consideration should be given to dose reduction or discontinuation of duloxetine in patients who experience symptomatic orthostatic hypotension, falls and/or syncope during duloxetine therapy.
+
+Risk of falling also appeared to be proportional to a patient's underlying risk for falls and appeared to increase steadily with age.
+As elderly patients tend to have a higher underlying risk for falls due to a higher prevalence of risk factors such as use of multiple medications, medical comorbidities and gait disturbances, the impact of increasing age by itself is unclear.
+Falls with serious consequences including bone fractures and hospitalizations have been reported [see Adverse Reactions (6.10) and Patient Counseling Information (17)].
 
 ## 5.4 Serotonin Syndrome
 
-The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including duloxetine, alone but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, and St. John's Wort) and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
+The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including duloxetine, alone but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, and St. John's Wort) and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
 
 Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
 Patients should be monitored for the emergence of serotonin syndrome.
@@ -90,16 +99,15 @@ Duloxetine should also not be started in a patient who is being treated with MAO
 All reports with methylene blue that provided information on the route of administration involved intravenous administration in the dose range of 1 mg/kg to 8 mg/kg.
 No reports involved the administration of methylene blue by other routes (such as oral tablets or local tissue injection) or at lower doses.
 There may be circumstances when it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking duloxetine.
-Duloxetine should be discontinued before initiating treatment with the MAOI [see DOSAGE AND ADMINISTRATION (2.5, 2.6), and CONTRAINDICATIONS (4.1)].
+Duloxetine should be discontinued before initiating treatment with the MAOI [see Dosage and Administration (2.8, 2.9), and Contraindications (4)].
 
-If concomitant use of duloxetine with other serotonergic drugs including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan and St. John's Wort is clinically warranted, patients should be made aware of a potential increased risk for serotonin syndrome, particularly during treatment initiation and dose increases.
+If concomitant use of duloxetine with other serotonergic drugs including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, amphetamines, and St. John's Wort is clinically warranted, patients should be made aware of a potential increased risk for serotonin syndrome, particularly during treatment initiation and dose increases.
 Treatment with duloxetine and any concomitant serotonergic agents, should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
 
 ## 5.5 Abnormal Bleeding
 
 SSRIs and SNRIs, including duloxetine, may increase the risk of bleeding events.
 Concomitant use of aspirin, nonsteroidal anti-inflammatory drugs, warfarin, and other anti-coagulants may add to this risk.
-
 Case reports and epidemiological studies (case-control and cohort design) have demonstrated an association between use of drugs that interfere with serotonin reuptake and the occurrence of gastrointestinal bleeding.
 Bleeding events related to SSRIs and SNRIs use have ranged from ecchymoses, hematomas, epistaxis, and petechiae to life-threatening hemorrhages.
 
@@ -116,7 +124,7 @@ Duloxetine should be discontinued at the first appearance of blisters, peeling r
 ## 5.7 Discontinuation of Treatment with Duloxetine
 
 Discontinuation symptoms have been systematically evaluated in patients taking duloxetine.
-Following abrupt or tapered discontinuation in placebo-controlled clinical trials, the following symptoms occurred at 1% or greater and at a significantly higher rate in duloxetine-treated patients compared to those discontinuing from placebo: dizziness, headache, nausea, diarrhea, paresthesia, irritability, vomiting, insomnia, anxiety, hyperhidrosis, and fatigue.
+Following abrupt or tapered discontinuation in adult placebo-controlled clinical trials, the following symptoms occurred at 1% or greater and at a significantly higher rate in duloxetine-treated patients compared to those discontinuing from placebo: dizziness, headache, nausea, diarrhea, paresthesia, irritability, vomiting, insomnia, anxiety, hyperhidrosis, and fatigue.
 
 During marketing of other SSRIs and SNRIs (serotonin and norepinephrine reuptake inhibitors), there have been spontaneous reports of adverse events occurring upon discontinuation of these drugs, particularly when abrupt, including the following: dysphoric mood, irritability, agitation, dizziness, sensory disturbances (e.g., paresthesias such as electric shock sensations), anxiety, confusion, headache, lethargy, emotional lability, insomnia, hypomania, tinnitus, and seizures.
 Although these events are generally self-limiting, some have been reported to be severe.
@@ -124,31 +132,35 @@ Although these events are generally self-limiting, some have been reported to be
 Patients should be monitored for these symptoms when discontinuing treatment with duloxetine.
 A gradual reduction in the dose rather than abrupt cessation is recommended whenever possible.
 If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment, then resuming the previously prescribed dose may be considered.
-Subsequently, the physician may continue decreasing the dose but at a more gradual rate [see DOSAGE AND ADMINISTRATION (2.4)].
+Subsequently, the physician may continue decreasing the dose but at a more gradual rate [see Dosage and Administration (2.7)].
 
 ## 5.8 Activation of Mania/Hypomania
 
-In placebo-controlled trials in patients with major depressive disorder, activation of mania or hypomania was reported in 0.1% (2/2489) of duloxetine-treated patients and 0.1% (1/1625) of placebo-treated patients.
-No activation of mania or hypomania was reported in GAD placebo-controlled trials.
+In adult placebo-controlled trials in patients with major depressive disorder, activation of mania or hypomania was reported in 0.1% (4/3779) of duloxetine-treated patients and 0.04% (1/2536) of placebo-treated patients.
+No activation of mania or hypomania was reported in GAD or chronic musculoskeletal pain placebo-controlled trials.
 Activation of mania or hypomania has been reported in a small proportion of patients with mood disorders who were treated with other marketed drugs effective in the treatment of major depressive disorder.
 As with these other agents, duloxetine should be used cautiously in patients with a history of mania.
 
-## 5.9 Seizures
+## 5.9 Angle-Closure Glaucoma
+
+The pupillary dilation that occurs following use of many antidepressant drugs including duloxetine may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
+
+## 5.10 Seizures
 
 Duloxetine has not been systematically evaluated in patients with a seizure disorder, and such patients were excluded from clinical studies.
-In placebo-controlled clinical trials, seizures/convulsions occurred in 0.03% (3/10,524) of patients treated with duloxetine and 0.01% (1/7699) of patients treated with placebo.
+In adult placebo-controlled clinical trials, seizures/convulsions occurred in 0.02% (3/12,722) of patients treated with duloxetine and 0.01% (1/9513) of patients treated with placebo.
 Duloxetine should be prescribed with care in patients with a history of a seizure disorder.
 
-## 5.10 Effect on Blood Pressure
+## 5.11 Effect on Blood Pressure
 
-In placebo-controlled clinical trials across indications from baseline to endpoint, duloxetine treatment was associated with mean increases of 0.5 mm Hg in systolic blood pressure and 0.8 mm Hg in diastolic blood pressure compared to mean decreases of 0.6 mm Hg systolic and 0.4 mm Hg diastolic in placebo-treated patients.
+In adult placebo-controlled clinical trials across indications from baseline to endpoint, duloxetine treatment was associated with mean increases of 0.5 mm Hg in systolic blood pressure and 0.8 mm Hg in diastolic blood pressure compared to mean decreases of 0.6 mm Hg systolic and 0.3 mm Hg diastolic in placebo-treated patients.
 There was no significant difference in the frequency of sustained (3 consecutive visits) elevated blood pressure.
 In a clinical pharmacology study designed to evaluate the effects of duloxetine on various parameters, including blood pressure at supratherapeutic doses with an accelerated dose titration, there was evidence of increases in supine blood pressure at doses up to 200 mg twice daily.
 At the highest 200 mg twice daily dose, the increase in mean pulse rate was 5 to 6.8 beats and increases in mean blood pressure were 4.7 to 6.8 mm Hg (systolic) and 4.5 to 7 mm Hg (diastolic) up to 12 hours after dosing.
 
-Blood pressure should be measured prior to initiating treatment and periodically measured throughout treatment [see ADVERSE REACTIONS (6.7)].
+Blood pressure should be measured prior to initiating treatment and periodically measured throughout treatment [see Adverse Reactions (6.7)].
 
-## 5.11 Clinically Important Drug Interactions
+## 5.12 Clinically Important Drug Interactions
 
 Both CYP1A2 and CYP2D6 are responsible for duloxetine metabolism.
 
@@ -156,11 +168,11 @@ Potential for Other Drugs to Affect Duloxetine
 
 CYP1A2 Inhibitors
 
-Coadministration of duloxetine with potent CYP1A2 inhibitors should be avoided [see DRUG INTERACTIONS (7.1)].
+Coadministration of duloxetine with potent CYP1A2 inhibitors should be avoided [see Drug Interactions (7.1)].
 
 CYP2D6 Inhibitors
 
-Because CYP2D6 is involved in duloxetine metabolism, concomitant use of duloxetine with potent inhibitors of CYP2D6 would be expected to, and does, result in higher concentrations (on average of 60%) of duloxetine [see DRUG INTERACTIONS (7.2)].
+Because CYP2D6 is involved in duloxetine metabolism, concomitant use of duloxetine with potent inhibitors of CYP2D6 would be expected to, and does, result in higher concentrations (on average of 60%) of duloxetine [see Drug Interactions (7.2)].
 
 Potential for Duloxetine to Affect Other Drugs
 
@@ -168,32 +180,32 @@ Drugs Metabolized by CYP2D6
 
 Coadministration of duloxetine with drugs that are extensively metabolized by CYP2D6 and that have a narrow therapeutic index, including certain antidepressants (tricyclic antidepressants [TCAs], such as nortriptyline, amitriptyline, and imipramine), phenothiazines and Type 1C antiarrhythmics (e.g., propafenone, flecainide), should be approached with caution.
 Plasma TCA concentrations may need to be monitored and the dose of the TCA may need to be reduced if a TCA is coadministered with duloxetine.
-Because of the risk of serious ventricular arrhythmias and sudden death potentially associated with elevated plasma levels of thioridazine, duloxetine and thioridazine should not be coadministered [see DRUG INTERACTIONS (7.9)].
+Because of the risk of serious ventricular arrhythmias and sudden death potentially associated with elevated plasma levels of thioridazine, duloxetine and thioridazine should not be coadministered [see Drug Interactions (7.9)].
 
 Other Clinically Important Drug Interactions
 
 Alcohol
 
 Use of duloxetine concomitantly with heavy alcohol intake may be associated with severe liver injury.
-For this reason, duloxetine should not be prescribed for patients with substantial alcohol use [see WARNINGS AND PRECAUTIONS (5.2) and DRUG INTERACTIONS (7.15)].
+For this reason, duloxetine should not be prescribed for patients with substantial alcohol use [see Warnings and Precautions (5.2) and Drug Interactions (7.15)].
 
 CNS Acting Drugs
 
-Given the primary CNS effects of duloxetine, it should be used with caution when it is taken in combination with or substituted for other centrally acting drugs, including those with a similar mechanism of action [see WARNINGS AND PRECAUTIONS (5.11) and DRUG INTERACTIONS (7.16)].
+Given the primary CNS effects of duloxetine, it should be used with caution when it is taken in combination with or substituted for other centrally acting drugs, including those with a similar mechanism of action [see Warnings and Precautions (5.12) and Drug Interactions (7.16)].
 
-## 5.12 Hyponatremia
+## 5.13 Hyponatremia
 
 Hyponatremia may occur as a result of treatment with SSRIs and SNRIs, including duloxetine.
 In many cases, this hyponatremia appears to be the result of the syndrome of inappropriate antidiuretic hormone secretion (SIADH).
-Cases with serum sodium lower than 110 mmol/Lhave been reported and appeared to be reversible when duloxetine was discontinued.
+Cases with serum sodium lower than 110 mmol/L have been reported and appeared to be reversible when duloxetine was discontinued.
 Elderly patients may be at greater risk of developing hyponatremia with SSRIs and SNRIs.
-Also, patients taking diuretics or who are otherwise volume depleted may be at greater risk [see USE IN SPECIFIC POPULATIONS (8.5)].
+Also, patients taking diuretics or who are otherwise volume depleted may be at greater risk [see Use in Specific Populations (8.5)].
 Discontinuation of duloxetine should be considered in patients with symptomatic hyponatremia and appropriate medical intervention should be instituted.
 
 Signs and symptoms of hyponatremia include headache, difficulty concentrating, memory impairment, confusion, weakness, and unsteadiness, which may lead to falls.
 More severe and/or acute cases have been associated with hallucination, syncope, seizure, coma, respiratory arrest, and death.
 
-## 5.13 Use in Patients with Concomitant Illness
+## 5.14 Use in Patients with Concomitant Illness
 
 Clinical experience with duloxetine in patients with concomitant systemic illnesses is limited.
 There is no information on the effect that alterations in gastric motility may have on the stability of duloxetine's enteric coating.
@@ -203,28 +215,24 @@ Caution is advised in using duloxetine in patients with conditions that may slow
 Duloxetine has not been systematically evaluated in patients with a recent history of myocardial infarction or unstable coronary artery disease.
 Patients with these diagnoses were generally excluded from clinical studies during the product's premarketing testing.
 
-Hepatic Insufficiency
+Hepatic Impairment
 
-Duloxetine should ordinarily not be used in patients with hepatic insufficiency [see DOSAGE AND ADMINISTRATION (2.3), WARNINGS AND PRECAUTIONS (5.2), and USE IN SPECIFIC POPULATIONS (8.9)].
+Avoid use in patients with chronic liver disease or cirrhosis [see Dosage and Administration (2.6), Warnings and Precautions (5.2), and Use in Specific Populations (8.9)].
 
 Severe Renal Impairment
 
-Duloxetine should ordinarily not be used in patients with end-stage renal disease or severe renal impairment (creatinine clearance < 30 mL/min).
-Increased plasma concentration of duloxetine, and especially of its metabolites, occur in patients with end-stage renal disease (requiring dialysis) [see DOSAGE AND ADMINISTRATION (2.3) and USE IN SPECIFIC POPULATIONS (8.10)].
-
-Controlled Narrow-Angle Glaucoma
-
-In clinical trials, duloxetine was associated with an increased risk of mydriasis; therefore, it should be used cautiously in patients with controlled narrow-angle glaucoma [see CONTRAINDICATIONS (4.2)].
+Avoid use in patients with severe renal impairment, GFR < 30 mL/min.
+Increased plasma concentration of duloxetine, and especially of its metabolites, occur in patients with end-stage renal disease (requiring dialysis) [see Dosage and Administration (2.6) and Use in Specific Populations (8.10)].
 
 Glycemic Control in Patients with Diabetes
 
 As observed in DPNP trials, duloxetine treatment worsens glycemic control in some patients with diabetes.
 In three clinical trials of duloxetine for the management of neuropathic pain associated with diabetic peripheral neuropathy, the mean duration of diabetes was approximately 12 years, the mean baseline fasting blood glucose was 176 mg/dL, and the mean baseline hemoglobin A1c (HbA1c) was 7.8%.
-In the 12 week acute treatment phase of these studies, duloxetine was associated with a small increase in mean fasting blood glucose as compared to placebo.
+In the 12-week acute treatment phase of these studies, duloxetine was associated with a small increase in mean fasting blood glucose as compared to placebo.
 In the extension phase of these studies, which lasted up to 52 weeks, mean fasting blood glucose increased by 12 mg/dL in the duloxetine group and decreased by 11.5 mg/dL in the routine care group.
 HbA1c increased by 0.5% in the duloxetine and by 0.2% in the routine care groups.
 
-## 5.14 Urinary Hesitation and Retention
+## 5.15 Urinary Hesitation and Retention
 
 Duloxetine is in a class of drugs known to affect urethral resistance.
 If symptoms of urinary hesitation develop during treatment with duloxetine, consideration should be given to the possibility that they might be drug-related.
@@ -232,6 +240,6 @@ If symptoms of urinary hesitation develop during treatment with duloxetine, cons
 In post marketing experience, cases of urinary retention have been observed.
 In some instances of urinary retention associated with duloxetine use, hospitalization and/or catheterization has been needed.
 
-## 5.15 Laboratory Tests
+## 5.16 Laboratory Tests
 
 No specific laboratory tests are recommended.

@@ -1,16 +1,16 @@
-# 7. DRUG INTERACTIONS
+# 7 DRUG INTERACTIONS
 
 Both CYP1A2 and CYP2D6 are responsible for duloxetine metabolism.
 
 ## 7.1 Inhibitors of CYP1A2
 
 When duloxetine 60 mg was coadministered with fluvoxamine 100 mg, a potent CYP1A2 inhibitor, to male subjects (n=14) duloxetine AUC was increased approximately 6-fold, the Cmax was increased about 2.5-fold, and duloxetine t1/2 was increased approximately 3-fold.
-Other drugs that inhibit CYP1A2 metabolism include cimetidine and quinolone antimicrobials such as ciprofloxacin and enoxacin [see WARNINGS AND PRECAUTIONS (5.11)].
+Other drugs that inhibit CYP1A2 metabolism include cimetidine and quinolone antimicrobials such as ciprofloxacin and enoxacin [see Warnings and Precautions (5.12)].
 
 ## 7.2 Inhibitors of CYP2D6
 
 Concomitant use of duloxetine (40 mg once daily) with paroxetine (20 mg once daily) increased the concentration of duloxetine AUC by about 60%, and greater degrees of inhibition are expected with higher doses of paroxetine.
-Similar effects would be expected with other potent CYP2D6 inhibitors (e.g., fluoxetine, quinidine) [see WARNINGS AND PRECAUTIONS (5.11)].
+Similar effects would be expected with other potent CYP2D6 inhibitors (e.g., fluoxetine, quinidine) [see Warnings and Precautions (5.12)].
 
 ## 7.3 Dual Inhibition of CYP1A2 and CYP2D6
 
@@ -21,9 +21,9 @@ Concomitant administration of duloxetine 40 mg twice daily with fluvoxamine 100 
 Serotonin release by platelets plays an important role in hemostasis.
 Epidemiological studies of the case-control and cohort design that have demonstrated an association between use of psychotropic drugs that interfere with serotonin reuptake and the occurrence of upper gastrointestinal bleeding have also shown that concurrent use of an NSAID or aspirin may potentiate this risk of bleeding.
 Altered anticoagulant effects, including increased bleeding, have been reported when SSRIs or SNRIs are coadministered with warfarin.
-Concomitant administration of warfarin (2 to 9 mg once daily) under steady state conditions with duloxetine 60 or 120 mg once daily for up to 14 days in healthy subjects (n = 15) did not significantly change INR from baseline (mean INR changes ranged from 0.05 to +0.07).
+Concomitant administration of warfarin (2 to 9 mg once daily) under steady state conditions with duloxetine 60 or 120 mg once daily for up to 14 days in healthy subjects (n=15) did not significantly change INR from baseline (mean INR changes ranged from 0.05 to +0.07).
 The total warfarin (protein bound plus free drug) pharmacokinetics (AUCτ,ss, Cmax,ss or tmax,ss) for both R- and S-warfarin were not altered by duloxetine.
-Because of the potential effect of duloxetine on platelets, patients receiving warfarin therapy should be carefully monitored when duloxetine is initiated or discontinued [see WARNINGS AND PRECAUTIONS (5.5)].
+Because of the potential effect of duloxetine on platelets, patients receiving warfarin therapy should be carefully monitored when duloxetine is initiated or discontinued [see Warnings and Precautions (5.5)].
 
 ## 7.5 Lorazepam
 
@@ -40,7 +40,7 @@ In extremely acidic conditions, duloxetine, unprotected by the enteric coating, 
 Caution is advised in using duloxetine in patients with conditions that may slow gastric emptying (e.g., some diabetics).
 Drugs that raise the gastrointestinal pH may lead to an earlier release of duloxetine.
 However, coadministration of duloxetine with aluminum- and magnesium-containing antacids (51 mEq) or duloxetine with famotidine, had no significant effect on the rate or extent of duloxetine absorption after administration of a 40 mg oral dose.
-It is unknown whether the concomitant administration of proton pump inhibitors affects duloxetine absorption [see WARNINGS AND PRECAUTIONS (5.13)].
+It is unknown whether the concomitant administration of proton pump inhibitors affects duloxetine absorption [see Warnings and Precautions (5.14)].
 
 ## 7.8 Drugs Metabolized by CYP1A2
 
@@ -51,12 +51,12 @@ Duloxetine is an inhibitor of the CYP1A2 isoform in in vitro studies, and in two
 ## 7.9 Drugs Metabolized by CYP2D6
 
 Duloxetine is a moderate inhibitor of CYP2D6.
-When duloxetine was administered (at a dose of 60 mg BID) in conjunction with a single 50 mg dose of desipramine, a CYP2D6 substrate, the AUC of desipramine increased 3-fold [see WARNINGS AND PRECAUTIONS (5.11)].
+When duloxetine was administered (at a dose of 60 mg twice daily) in conjunction with a single 50 mg dose of desipramine, a CYP2D6 substrate, the AUC of desipramine increased 3-fold [see Warnings and Precautions (5.12)].
 
 ## 7.10 Drugs Metabolized by CYP2C9
 
 Results of in vitro studies demonstrate that duloxetine does not inhibit activity.
-In a clinical study, the pharmacokinetics of S-warfarin, a CYP2C9 substrate, were not significantly affected by duloxetine [see DRUG INTERACTIONS (7.4)].
+In a clinical study, the pharmacokinetics of S-warfarin, a CYP2C9 substrate, were not significantly affected by duloxetine [see Drug Interactions (7.4)].
 
 ## 7.11 Drugs Metabolized by CYP3A
 
@@ -70,24 +70,24 @@ Inhibition of the metabolism of CYP2C19 substrates is therefore not anticipated,
 
 ## 7.13 Monoamine Oxidase Inhibitors (MAOIs)
 
-[see DOSAGE AND ADMINISTRATION (2.5, 2.6), CONTRAINDICATIONS (4.1), and WARNINGS AND PRECAUTIONS (5.4)].
+[See Dosage and Administration (2.8, 2.9), Contraindications (4), and Warnings and Precautions (5.4)].
 
 ## 7.14 Serotonergic Drugs
 
-[see DOSAGE AND ADMINISTRATION (2.5, 2.6), CONTRAINDICATIONS (4.1), and WARNINGS AND PRECAUTIONS (5.4)].
+[See Dosage and Administration (2.8, 2.9), Contraindications (4), and Warnings and Precautions (5.4)].
 
 ## 7.15 Alcohol
 
 When duloxetine and ethanol were administered several hours apart so that peak concentrations of each would coincide, duloxetine did not increase the impairment of mental and motor skills caused by alcohol.
 
 In the duloxetine clinical trials database, three duloxetine-treated patients had liver injury as manifested by ALT and total bilirubin elevations, with evidence of obstruction.
-Substantial intercurrent ethanol use was present in each of these cases, and this may have contributed to the abnormalities seen [see WARNINGS AND PRECAUTIONS (5.2 and 5.11)].
+Substantial intercurrent ethanol use was present in each of these cases, and this may have contributed to the abnormalities seen [see Warnings and Precautions (5.2, 5.12)].
 
 ## 7.16 CNS Drugs
 
-[see WARNINGS AND PRECAUTIONS (5.11)].
+[See Warnings and Precautions (5.12)].
 
 ## 7.17 Drugs Highly Bound to Plasma Protein
 
 Because duloxetine is highly bound to plasma protein, administration of duloxetine to a patient taking another drug that is highly protein bound may cause increased free concentrations of the other drug, potentially resulting in adverse reactions.
-However, coadministration of duloxetine (60 or 120 mg) with warfarin (2 to 9 mg), a highly protein-bound drug, did not result in significant changes in INR and in the pharmacokinetics of either total S-or total R-warfarin (protein bound plus free drug) [see DRUG INTERACTIONS (7.4)].
+However, coadministration of duloxetine (60 or 120 mg) with warfarin (2 to 9 mg), a highly protein-bound drug, did not result in significant changes in INR and in the pharmacokinetics of either total S-or total R-warfarin (protein bound plus free drug) [see Drug Interactions (7.4)].

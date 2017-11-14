@@ -1,97 +1,79 @@
-# 2. DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-Duloxetine delayed-release capsules should be swallowed whole and should not be chewed or crushed, nor should the capsule be opened and its contents sprinkled on food or mixed with liquids.
+Swallow duloxetine delayed-release capsules whole.
+Do not chew or crush.
+Do not open the capsule and sprinkle its contents on food or mix with liquids.
 All of these might affect the enteric coating.
 Duloxetine delayed-release capsules can be given without regard to meals.
+If a dose of duloxetine is missed, take the missed dose as soon as it is remembered.
+If it is almost time for the next dose, skip the missed dose and take the next dose at the regular time.
+Do not take two doses of duloxetine at the same time.
 
-## 2.1 Initial Treatment
+## 2.1 Dosage for Treatment of Major Depressive Disorder
 
-Major Depressive Disorder
-
-Duloxetine should be administered at a total dose of 40 mg/day (given as 20 mg twice daily) to 60 mg/day (given either once daily or as 30 mg twice daily).
+Administer duloxetine at a total dose of 40 mg/day (given as 20 mg twice daily) to 60 mg/day (given either once daily or as 30 mg twice daily).
 For some patients, it may be desirable to start at 30 mg once daily for 1 week, to allow patients to adjust to the medication before increasing to 60 mg once daily.
 While a 120 mg/day dose was shown to be effective, there is no evidence that doses greater than 60 mg/day confer any additional benefits.
-The safety of doses above 120 mg/day has not been adequately evaluated [see CLINICAL STUDIES (14.1)].
+The safety of doses above 120 mg/day has not been adequately evaluated.
+Periodically reassess to determine the need for maintenance treatment and the appropriate dose for such treatment [see Clinical Studies (14.1)].
 
-Generalized Anxiety Disorder
+## 2.2 Dosage for Treatment of Generalized Anxiety Disorder
 
-For most patients, the recommended starting dose for duloxetine is 60 mg administered once daily.
+Adults
+
+For most patients, initiate duloxetine 60 mg once daily.
 For some patients, it may be desirable to start at 30 mg once daily for 1 week, to allow patients to adjust to the medication before increasing to 60 mg once daily.
 While a 120 mg once daily dose was shown to be effective, there is no evidence that doses greater than 60 mg/day confer additional benefit.
-Nevertheless, if a decision is made to increase the dose beyond 60 mg once daily, dose increases should be in increments of 30 mg once daily.
-The safety of doses above 120 mg once daily has not been adequately evaluated [see CLINICAL STUDIES (14.2)].
+Nevertheless, if a decision is made to increase the dose beyond 60 mg once daily, increase dose in increments of 30 mg once daily.
+The safety of doses above 120 mg once daily has not been adequately evaluated.
+Periodically reassess to determine the continued need for maintenance treatment and the appropriate dose for such treatment [see Clinical Studies (14.2)].
 
-Diabetic Peripheral Neuropathic Pain
+Pediatric use information for patients ages 7 to 17 years is approved for Eli Lilly and Company, Inc.'s CYMBALTA® (duloxetine) delayed-release capsules.
+However, due to Eli Lilly and Company, Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
-The recommended dose for duloxetine is 60 mg administered once daily.
-There is no evidence that doses higher than 60 mg confer additional significant benefit and the higher dose is clearly less well tolerated [see (CLINICAL STUDIES 14.3)].
+## 2.3 Dosage for Treatment of Diabetic Peripheral Neuropathic Pain
+
+Administer duloxetine 60 mg once daily.
+There is no evidence that doses higher than 60 mg confer additional significant benefit and the higher dose is clearly less well tolerated [see Clinical Studies (14.3)].
 For patients for whom tolerability is a concern, a lower starting dose may be considered.
 
-Since diabetes is frequently complicated by renal disease, a lower starting dose and gradual increase in dose should be considered for patients with renal impairment [see DOSAGE AND ADMINISTRATION (2.3), USE IN SPECIFIC POPULATIONS (8.10), and CLINICAL PHARMACOLOGY (12.3)].
+Since diabetes is frequently complicated by renal disease, consider a lower starting dose and gradual increase in dose for patients with renal impairment [see Dosage and Administration (2.6), Use in Specific Populations (8.10), and Clinical Pharmacology (12.3)].
 
-## 2.2 Maintenance/Continuation/Extended Treatment
+## 2.5 Dosage for Treatment of Chronic Musculoskeletal Pain
 
-Major Depressive Disorder
+Administer duloxetine 60 mg once daily.
+Begin treatment at 30 mg for one week, to allow patients to adjust to the medication before increasing to 60 mg once daily.
+There is no evidence that higher doses confer additional benefit, even in patients who do not respond to a 60 mg dose, and higher doses are associated with a higher rate of adverse reactions [see Clinical Studies (14.5)].
 
-It is generally agreed that acute episodes of major depression require several months or longer of sustained pharmacologic therapy.
-Duloxetine should be administered at a total dose of 60 mg once daily.
-Patients should be periodically reassessed to determine the need for maintenance treatment and the appropriate dose for such treatment [see CLINICAL STUDIES (14.1)].
+## 2.6 Dosing in Special Populations
 
-Generalized Anxiety Disorder
+Hepatic Impairment
 
-It is generally agreed that episodes of generalized anxiety disorder require several months or longer of sustained pharmacological therapy.
-Maintenance of efficacy in GAD was demonstrated with duloxetine as monotherapy.
-Duloxetine should be administered in a dose range of 60 to 120 mg once daily.
-Patients should be periodically reassessed to determine the continued need for maintenance treatment and the appropriate dose for such treatment [see CLINICAL STUDIES (14.2)].
-
-Diabetic Peripheral Neuropathic Pain
-
-As the progression of diabetic peripheral neuropathy is highly variable and management of pain is empirical, the effectiveness of duloxetine must be assessed individually.
-Efficacy beyond 12 weeks has not been systematically studied in placebo-controlled trials.
-
-## 2.3 Dosing in Special Populations
-
-Hepatic Insufficiency
-
-It is recommended that duloxetine should ordinarily not be administered to patients with any hepatic insufficiency [see WARNINGS AND PRECAUTIONS (5.13) and USE IN SPECIFIC POPULATIONS (8.9)].
+Avoid use in patients with chronic liver disease or cirrhosis [see Warnings and Precautions (5.14) and Use in Specific Populations (8.9)].
 
 Severe Renal Impairment
 
-Duloxetine is not recommended for patients with end-stage renal disease or severe renal impairment (estimated creatinine clearance < 30 mL/min) [see WARNINGS AND PRECAUTIONS (5.13) and USE IN SPECIFIC POPULATIONS (8.10)].
+Avoid use in patients with severe renal impairment, GFR < 30 mL/min [see Warnings and Precautions (5.14) and Use in Specific Populations (8.10)].
 
-Elderly Patients
+## 2.7 Discontinuing Duloxetine
 
-No dose adjustment is recommended for elderly patients on the basis of age.
-As with any drug, caution should be exercised in treating the elderly.
-When individualizing the dosage in elderly patients, extra care should be taken when increasing the dose [see USE IN SPECIFIC POPULATIONS (8.5)].
+Adverse reactions after discontinuation of duloxetine, after abrupt or tapered discontinuation, include: dizziness, headache, nausea, diarrhea, paresthesia, irritability, vomiting, insomnia, anxiety, hyperhidrosis, and fatigue.
+A gradual reduction in dosage rather than abrupt cessation is recommended whenever possible [see Warnings and Precautions (5.7)].
 
-Pregnant Women
-
-There are no adequate and well-controlled studies in pregnant women; therefore, duloxetine should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus [see USE IN SPECIFIC POPULATIONS (8.1)].
-
-Nursing Mothers
-
-Because the safety of duloxetine in infants is not known, nursing while on duloxetine is not recommended [see USE IN SPECIFIC POPULATIONS (8.3)].
-
-## 2.4 Discontinuing Duloxetine
-
-Symptoms associated with discontinuation of duloxetine and other SSRIs and SNRIs have been reported.
-A gradual reduction in the dose rather than abrupt cessation is recommended whenever possible [see WARNINGS AND PRECAUTIONS (5.7)].
-
-## 2.5 Switching a Patient To or From a Monoamine Oxidase Inhibitor (MAOI) Intended to Treat Psychiatric Disorders
+## 2.8 Switching a Patient to or from a Monoamine Oxidase Inhibitor (MAOI) Intended to Treat Psychiatric Disorders
 
 At least 14 days should elapse between discontinuation of an MAOI intended to treat psychiatric disorders and initiation of therapy with duloxetine.
-Conversely, at least 5 days should be allowed after stopping duloxetine before starting an MAOI intended to treat psychiatric disorders [see CONTRAINDICATIONS (4.1)].
+Conversely, at least 5 days should be allowed after stopping duloxetine before starting an MAOI intended to treat psychiatric disorders [see Contraindications (4)].
 
-## 2.6 Use of Duloxetine with Other MAOIs such as Linezolid or Methylene Blue
+## 2.9 Use of Duloxetine with Other MAOIs such as Linezolid or Methylene Blue
 
 Do not start duloxetine in a patient who is being treated with linezolid or intravenous methylene blue because there is an increased risk of serotonin syndrome.
-In a patient who requires more urgent treatment of a psychiatric condition, other interventions, including hospitalization, should be considered [see CONTRAINDICATIONS (4.1)].
+In a patient who requires more urgent treatment of a psychiatric condition, other interventions, including hospitalization, should be considered [see Contraindications (4)].
 
 In some cases, a patient already receiving duloxetine therapy may require urgent treatment with linezolid or intravenous methylene blue.
 If acceptable alternatives to linezolid or intravenous methylene blue treatment are not available and the potential benefits of linezolid or intravenous methylene blue treatment are judged to outweigh the risks of serotonin syndrome in a particular patient, duloxetine should be stopped promptly, and linezolid or intravenous methylene blue can be administered.
 The patient should be monitored for symptoms of serotonin syndrome for 5 days or until 24 hours after the last dose of linezolid or intravenous methylene blue, whichever comes first.
-Therapy with duloxetine may be resumed 24 hours after the last dose of linezolid or intravenous methylene blue [see WARNINGS AND PRECAUTIONS (5.4)].
+Therapy with duloxetine may be resumed 24 hours after the last dose of linezolid or intravenous methylene blue [see Warnings and Precautions (5.4)].
 
 The risk of administering methylene blue by non-intravenous routes (such as oral tablets or by local injection) or in intravenous doses much lower than 1 mg/kg with duloxetine is unclear.
-The clinician should, nevertheless, be aware of the possibility of emergent symptoms of serotonin syndrome with such use [see WARNINGS AND PRECAUTIONS (5.4)].
+The clinician should, nevertheless, be aware of the possibility of emergent symptoms of serotonin syndrome with such use [see Warnings and Precautions (5.4)].

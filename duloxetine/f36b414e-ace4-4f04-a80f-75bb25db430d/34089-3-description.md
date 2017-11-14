@@ -1,4 +1,4 @@
-# 11. DESCRIPTION
+# 11 DESCRIPTION
 
 Duloxetine hydrochloride is a selective serotonin and norepinephrine reuptake inhibitor (SSNRI) for oral administration.
 Its chemical designation is (+)-(S)-N-methyl-γ-(1- naphthyloxy)-2-thiophenepropylamine hydrochloride.
@@ -11,5 +11,5 @@ Each capsule contains enteric-coated pellets of 22.4 mg or 33.7 mg or 67.3 mg of
 These enteric-coated pellets are designed to prevent degradation of the drug in the acidic environment of the stomach.
 In addition, each capsule contains following inactive ingredients: FD&C blue # 1, gelatin, hypromellose, hypromellose phthalate, sodium lauryl sulfate, sucrose, sugar spheres, talc, titanium dioxide and triethyl citrate.
 Sugar spheres contain corn starch and sucrose.
-Additionally each 20 mg capsule shell contains D&C yellow # 10 and FD&C yellow # 6, each 30 mg capsule shell contains D&C yellow # 10, FD&C red # 40 and FD&C yellow # 6 and each 60 mg capsule shell contains FD&C red# 40.
-Each capsule shell is imprinted with golden pharmaceutical ink which contains following inactive ingredients: butyl alcohol, dehydrated alcohol, isopropyl alcohol, propylene glycol, shellac, strong ammonia solution and yellow iron oxide.
+Additionally each 20 mg capsule shell contains D&C yellow # 10 and FD&C yellow # 6, each 30 mg capsule shell contains D&C yellow # 10, FD&C red # 40 and FD&C yellow # 6 and each 60 mg capsule shell contains FD&C red # 40.
+Each capsule shell is printed with golden pharmaceutical ink which contains the following inactive ingredients: butyl alcohol, dehydrated alcohol, isopropyl alcohol, propylene glycol, shellac, strong ammonia solution and yellow iron oxide.

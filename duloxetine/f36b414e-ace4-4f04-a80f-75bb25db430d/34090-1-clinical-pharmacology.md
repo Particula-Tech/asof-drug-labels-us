@@ -1,4 +1,4 @@
-# 12. CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
 ## 12.1 Mechanism of Action
 
@@ -24,9 +24,9 @@ Absorption and Distribution
 Orally administered duloxetine hydrochloride is well absorbed.
 There is a median 2 hour lag until absorption begins (Tlag), with maximal plasma concentrations (Cmax) of duloxetine occurring 6 hours post dose.
 Food does not affect the Cmax of duloxetine, but delays the time to reach peak concentration from 6 to 10 hours and it marginally decreases the extent of absorption (AUC) by about 10%.
-There is a 3 hour delay in absorption and a one-third increase in apparent clearance of duloxetine after an evening dose as compared to a morning dose.
+There is a 3 hour delay in absorption and a one- third increase in apparent clearance of duloxetine after an evening dose as compared to a morning dose.
 
-The apparent volume of distribution averages about 1640 L. Duloxetine is highly bound (> 90%) to proteins in human plasma, binding primarily to albumin and a1-acid glycoprotein.
+The apparent volume of distribution averages about 1640 L. Duloxetine is highly bound (>90%) to proteins in human plasma, binding primarily to albumin and α1-acid glycoprotein.
 The interaction between duloxetine and other highly protein bound drugs has not been fully evaluated.
 Plasma protein binding of duloxetine is not affected by renal or hepatic impairment.
 
@@ -40,4 +40,7 @@ Metabolites found in plasma include 4-hydroxy duloxetine glucuronide and 5-hydro
 Many additional metabolites have been identified in urine, some representing only minor pathways of elimination.
 Only trace (< 1% of the dose) amounts of unchanged duloxetine are present in the urine.
 Most (about 70%) of the duloxetine dose appears in the urine as metabolites of duloxetine; about 20% is excreted in the feces.
-Duloxetine undergoes extensive metabolism, but the he major circulating metabolites have not been shown to contribute significantly to the pharmacologic activity of duloxetine.
+Duloxetine undergoes extensive metabolism, but the major circulating metabolites have not been shown to contribute significantly to the pharmacologic activity of duloxetine.
+
+Pediatric use information for patients ages 7 to 17 years is approved for Eli Lilly and Company, Inc.'s CYMBALTA® (duloxetine) delayed-release capsules.
+However, due to Eli Lilly and Company, Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
