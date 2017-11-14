@@ -6,13 +6,13 @@ Like other antihypertensive agents, guanfacine should be used with caution in pa
 
 ### Sedation
 
-Guanfacine, like other orally active central α2 adrenergic agonists, causes sedation or drowsiness, especially when beginning therapy.
+Guanfacine, like other orally active central α 2 adrenergic agonists, causes sedation or drowsiness, especially when beginning therapy.
 These symptoms are dose-related (see ADVERSE REACTIONS).
 When guanfacine is used with other centrally active depressants (such as phenothiazines, barbiturates, or benzodiazepines), the potential for additive sedative effects should be considered.
 
 ### Rebound
 
-Abrupt cessation of therapy with orally active central α2 adrenergic agonists may be associated with increases (from depressed on-therapy levels) in plasma and urinary catecholamines, symptoms of “nervousness and anxiety” and, less commonly, increases in blood pressure to levels significantly greater than those prior to therapy.
+Abrupt cessation of therapy with orally active central α 2 adrenergic agonists may be associated with increases (from depressed on-therapy levels) in plasma and urinary catecholamines, symptoms of “nervousness and anxiety” and, less commonly, increases in blood pressure to levels significantly greater than those prior to therapy.
 
 ## Information for Patients
 

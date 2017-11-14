@@ -1,6 +1,6 @@
 # CLINICAL PHARMACOLOGY
 
-Guanfacine hydrochloride is an orally active antihypertensive agent whose principal mechanism of action appears to be stimulation of central α2-adrenergic receptors.
+Guanfacine hydrochloride is an orally active antihypertensive agent whose principal mechanism of action appears to be stimulation of central α 2-adrenergic receptors.
 By stimulating these receptors, guanfacine reduces sympathetic nerve impulses from the vasomotor center to the heart and blood vessels.
 This results in a decrease in peripheral vascular resistance and a reduction in heart rate.
 
