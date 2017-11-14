@@ -1,7 +1,7 @@
-© 2003, 2007, 2015 Novartis
+© 2003, 2007, 2015, 2017 Alcon, Inc.
 
-9012504-1115
+Distributed by: Alcon Laboratories, Inc. Fort Worth, Texas 76134
 
-Revised: December 2015
+Alcon® A Novartis company
 
-Alcon® a Novartis company ALCON LABORATORIES, INC. Fort Worth, Texas 76134 USA Printed in USA
+T2017-108 November 2017

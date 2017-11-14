@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-MAXIDEX® 0.1% (dexamethasone ophthalmic suspension) is an adrenocortical steroid prepared as a sterile topical ophthalmic suspension.
+MAXIDEX® (dexamethasone ophthalmic suspension) 0.1% is an adrenocortical steroid prepared as a sterile topical ophthalmic suspension.
 The active ingredient is represented by the chemical structure:
 
 Chemical name: Pregna-1,4-diene-3,20-dione,9-fluoro-11,17,21-trihydroxy-16-methyl-,(11β,16α)-.

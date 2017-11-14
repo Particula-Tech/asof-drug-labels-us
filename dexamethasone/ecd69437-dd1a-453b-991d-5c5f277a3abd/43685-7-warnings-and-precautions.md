@@ -2,8 +2,8 @@
 
 Prolonged use may result in ocular hypertension and/or glaucoma, with damage to the optic nerve, defects in visual acuity and fields of vision, and posterior subcapsular cataract formation.
 Prolonged use may suppress the host response and thus increase the hazard of secondary ocular infections.
+In acute purulent conditions or parasitic infections of the eye, corticosteroids may mask infection or enhance existing infection.
 In those diseases causing thinning of the cornea or sclera, perforations have been known to occur with the use of topical corticosteroids.
-In acute purulent conditions of the eye, corticosteroids may mask infection or enhance existing infection.
 If these products are used for 10 days or longer, intraocular pressure should be routinely monitored even though it may be difficult in children and uncooperative patients.
 
 Employment of corticosteroid medication in the treatment of herpes simplex other than epithelial herpes simplex keratitis, in which it is contraindicated, requires great caution; periodic slit-lamp microscopy is essential.
@@ -12,7 +12,7 @@ Employment of corticosteroid medication in the treatment of herpes simplex other
 
 ## General
 
-FOR TOPICAL OPHTHALMIC USE ONLY.
+FOR TOPICAL OPHTHALMIC USE.
 The possibility of persistent fungal infections of the cornea should be considered after prolonged corticosteroid dosing.
 
 ## Information for Patients
@@ -27,13 +27,13 @@ Long-term animal studies have not been performed to evaluate the carcinogenic po
 
 ## Pregnancy
 
-Pregnancy Category C. Dexamethasone has been shown to be teratogenic in mice and rabbits following topical ophthalmic application in multiples of the therapeutic dose.
-
+Dexamethasone has been shown to be teratogenic in mice and rabbits following topical ophthalmic application in multiples of the therapeutic dose.
 In the mouse, corticosteroids produce fetal resorptions and a specific abnormality, cleft palate.
 In the rabbit, corticosteroids have produced fetal resorptions and multiple abnormalities involving the head, ears, limbs, palate, etc.
 
-There are no adequate or well-controlled studies in pregnant women.
 MAXIDEX® (dexamethasone ophthalmic suspension) should be used during pregnancy only if the potential benefit to the mother justifies the potential risk to the embryo or fetus.
+There are no adequate or well-controlled studies in pregnant women.
+However, prolonged or repeated corticoid use during pregnancy has been associated with an increased risk of intra-uterine growth retardation.
 Infants born of mothers who have received substantial doses of corticosteroids during pregnancy should be observed carefully for signs of hypoadrenalism.
 
 ## Nursing Mothers
@@ -44,7 +44,8 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 
 ## Pediatric Use
 
-Safety and effectiveness in pediatric patients have not been established.
+The safety and effectiveness of MAXIDEX have been established in the pediatric patients.
+Use of MAXIDEX in all pediatric age groups is supported by evidence from adequate and well-controlled studies of MAXIDEX in adults with safety data from additional adequate and well controlled trials in pediatric patients.
 
 ## Geriatric Use
 

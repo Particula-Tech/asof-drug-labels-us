@@ -4,6 +4,6 @@ MAXIDEX® (dexamethasone ophthalmic suspension) in plastic DROP-TAINER® dispens
 
 5 mL NDC 0998-0615-05
 
-STORAGE: Store upright at 8°-25°C (46°-77°F).
+STORAGE: Store upright at 8°C to 25°C (46°F-77°F).
 
 Rx Only
