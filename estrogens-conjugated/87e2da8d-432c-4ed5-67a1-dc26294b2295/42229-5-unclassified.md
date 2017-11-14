@@ -109,7 +109,7 @@ Each Premarin Intravenous (conjugated estrogens, USP) for injection package prov
 |  | This product's label may have been updated. For current full prescribing information, please visit www.pfizer.com. |  |
 | --- | --- | --- |
 
-LAB-0505-2.0 06/2012
+LAB-0505-3.0 Rev 11/2017
 
 What is Premarin Intravenous?
 
@@ -217,4 +217,4 @@ Each Premarin Intravenous (conjugated estrogens, USP) for injection package prov
 |  | This product's label may have been updated. For current full prescribing information, please visit www.pfizer.com. |  |
 | --- | --- | --- |
 
-LAB-0518-2.0 06/2012
+LAB-0518-2.0 Rev 06/2012
