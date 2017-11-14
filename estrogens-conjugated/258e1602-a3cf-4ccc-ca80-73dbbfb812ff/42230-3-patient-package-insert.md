@@ -164,4 +164,4 @@ For current full prescribing information, please visit www.pfizer.com.
 
 LAB- 0515-4.0
 
-December/2014
+Rev- December/2014
