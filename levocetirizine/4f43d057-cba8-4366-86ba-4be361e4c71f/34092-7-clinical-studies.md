@@ -17,7 +17,7 @@ These trials were 4 weeks in duration and included patients with perennial aller
 In these trials, each of the three doses of levocetirizine dihydrochloride demonstrated greater decrease in the reflective total symptom score than placebo and the difference was statistically significant for all three doses in the two studies.
 Results for one of these trials are shown in Table 4.
 
-Table 4: Mean Reflective Total Symptom ScoreTotal symptom score is the sum of individual symptoms of sneezing, rhinorrhea, nasal pruritus, and ocular pruritus as assessed by patients on a 0 to 3 categorical severity scale. in Allergic Rhinitis Dose-Ranging Trials
+Table 4 Mean Reflective Total Symptom ScoreTotal symptom score is the sum of individual symptoms of sneezing, rhinorrhea, nasal pruritus, and ocular pruritus as assessed by patients on a 0 to 3 categorical severity scale. in Allergic Rhinitis Dose-Ranging Trials
 
 | Treatment | N | Baseline | On Treatment Adjusted Mean | Difference From Placebo |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -33,9 +33,9 @@ Another trial conducted over a 6 month treatment period assessed efficacy at 4 w
 Levocetirizine dihydrochloride 5 mg demonstrated a greater decrease from baseline in the reflective total symptom score than placebo and the difference from placebo was statistically significant.
 Results of the former are shown in Table 5.
 
-Table 5: Mean Reflective Total Symptom ScoreTotal symptom score is the sum of individual symptoms of sneezing, rhinorrhea, nasal pruritus, and ocular pruritus as assessed by patients on a 0 to 3 categorical severity scale. in Allergic Rhinitis Trials
+Table 5 Mean Reflective Total Symptom ScoreTotal symptom score is the sum of individual symptoms of sneezing, rhinorrhea, nasal pruritus, and ocular pruritus as assessed by patients on a 0 to 3 categorical severity scale. in Allergic Rhinitis Trials
 
-| Treatment | N | Baseline | On Treatment Adjusted Mean | Difference from Placebo |  |  |
+| Treatment | N | Baseline | On Treatment Adjusted Mean | Difference From Placebo |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Estimate | 95% CI | p-value |  |  |  |  |
 | Perennial Allergic Rhinitis Trial – Reflective total symptom score |  |  |  |  |  |  |
@@ -74,9 +74,9 @@ Levocetirizine dihydrochloride 5 mg demonstrated a greater decrease from baselin
 Duration of pruritus, number and size of wheals, and instantaneous pruritus severity score also showed significant improvement over placebo.
 The significant improvement in the instantaneous pruritus severity score over placebo confirmed end of dosing interval efficacy (see Table 6).
 
-Table 6: Mean Reflective Pruritus Severity Score in Chronic Idiopathic Urticaria Trials
+Table 6 Mean Reflective Pruritus Severity Score in Chronic Idiopathic Urticaria Trials
 
-| Treatment | N | Baseline | On Treatment Adjusted Mean | Difference from Placebo |  |  |  |
+| Treatment | N | Baseline | On Treatment Adjusted Mean | Difference From Placebo |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Estimate | 95% CI |  | p-value |  |  |  |  |
 | Dose Ranging Trial – Reflective pruritus severity score |  |  |  |  |  |  |  |

@@ -26,7 +26,7 @@ Somnolence with levocetirizine dihydrochloride showed dose ordering between test
 
 Table 1 lists adverse reactions that were reported in greater than or equal to 2% of subjects aged 12 years and older exposed to levocetirizine dihydrochloride 2.5 mg or 5 mg in eight placebo-controlled clinical trials and that were more common with levocetirizine dihydrochloride than placebo.
 
-Table 1: Adverse Reactions Reported in ≥ 2%Rounded to the closest unit percentage of Subjects Aged 12 Years and Older Exposed to Levocetirizine Dihydrochloride 2.5 mg or 5 mg Once Daily in Placebo-Controlled Clinical Trials 1 to 6 Weeks in Duration
+Table 1 Adverse Reactions Reported in ≥ 2%Rounded to the closest unit percentage of Subjects Aged 12 Years and Older Exposed to Levocetirizine Dihydrochloride 2.5 mg or 5 mg Once Daily in Placebo-Controlled Clinical Trials 1 to 6 Weeks in Duration
 
 | Adverse Reactions | Levocetirizine Dihydrochloride 2.5 mg (n = 421) | Levocetirizine Dihydrochloride 5 mg (n = 1070) | Placebo (n = 912) |
 | --- | --- | --- | --- |
@@ -44,7 +44,7 @@ A total of 243 pediatric patients 6 to 12 years of age received levocetirizine d
 The mean age of the patients was 9.8 years, 79 (32%) were 6 to 8 years of age, and 50% were Caucasian.
 Table 2 lists adverse reactions that were reported in greater than or equal to 2% of subjects aged 6 to 12 years exposed to levocetirizine dihydrochloride 5 mg in placebo-controlled clinical trials and that were more common with levocetirizine dihydrochloride than placebo.
 
-Table 2: Adverse Reactions Reported in ≥ 2%Rounded to the closest unit percentage of Subjects Aged 6 to 12 Years Exposed to Levocetirizine Dihydrochloride 5 mg Once Daily in Placebo-Controlled Clinical Trials 4 and 6 Weeks in Duration
+Table 2 Adverse Reactions Reported in ≥ 2%Rounded to the closest unit percentage of Subjects Aged 6 to 12 Years Exposed to Levocetirizine Dihydrochloride 5 mg Once Daily in Placebo-Controlled Clinical Trials 4 and 6 Weeks in Duration
 
 | Adverse Reactions | Levocetirizine Dihydrochloride 5 mg (n = 243) | Placebo (n = 240) |
 | --- | --- | --- |
@@ -59,7 +59,7 @@ A total of 114 pediatric patients 1 to 5 years of age received levocetirizine di
 The mean age of the patients was 3.8 years, 32% were 1 to 2 years of age, 71% were Caucasian and 18% were Black.
 Table 3 lists adverse reactions that were reported in greater than or equal to 2% of subjects aged 1 to 5 years exposed to levocetirizine dihydrochloride 1.25 mg twice daily in the placebo-controlled safety trial and that were more common with levocetirizine dihydrochloride than placebo.
 
-Table 3: Adverse Reactions Reported in ≥ 2%Rounded to the closest unit percentage of Subjects Aged 1 to 5 Years Exposed to Levocetirizine Dihydrochloride 1.25 mg Twice Daily in a 2 Week Placebo-Controlled Clinical Trial
+Table 3 Adverse Reactions Reported in ≥ 2%Rounded to the closest unit percentage of Subjects Aged 1 to 5 Years Exposed to Levocetirizine Dihydrochloride 1.25 mg Twice Daily in a 2 Week Placebo-Controlled Clinical Trial
 
 | Adverse Reactions | Levocetirizine Dihydrochloride 1.25 mg Twice Daily (n = 114) | Placebo (n = 59) |
 | --- | --- | --- |
@@ -102,7 +102,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - •Metabolism and nutrition disorders: increased appetite
 - •Musculoskeletal, connective tissues, and bone disorders: arthralgia, myalgia
 - •Nervous system disorders: dizziness, dysgeusia, febrile seizure, movement disorders (including dystonia and oculogyric crisis), paraesthesia, seizure (reported in subjects with and without a known seizure disorder), tremor
-- •Psychiatric disorders: aggression and agitation, depression, hallucinations, insomnia, suicidal ideation
+- •Psychiatric disorders: aggression and agitation, depression, hallucinations, insomnia, nightmare, suicidal ideation
 - •Renal and urinary disorders: dysuria, urinary retention
 - •Respiratory, thoracic, and mediastinal disorders: dyspnea
 - •Skin and subcutaneous tissue disorders: angioedema, fixed drug eruption, pruritus, rash and urticaria

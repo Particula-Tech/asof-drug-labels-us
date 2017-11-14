@@ -15,8 +15,8 @@ In children 6 to 11 years of age the recommended dose is 2.5 mg once daily in th
 In children 6 months to 5 years of age, the recommended dose is 1.25 mg once daily in the evening.
 Advise patients to not ingest more than the recommended dose of levocetirizine dihydrochloride tablets because of the increased risk of somnolence at higher doses.
 
-Manufactured In Israel By: Teva Pharmaceutical Ind.
-Ltd. Jerusalem, 9777402, Israel Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
+Manufactured In Croatia By: Pliva Hrvatska d.o.o.
+Zagreb, Croatia Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
 Rev.
-O 7/2017
+P 10/2017
