@@ -6,8 +6,11 @@ NDC 65841-633-01 in bottles of 100 tablets
 
 NDC 65841-633-05 in bottles of 500 tablets
 
-NDC 65841- 633-30 in unit-dose blister cartons of 100 (10 x 10) unit dose tablets
+NDC 65841-633-77 in unit-dose blister cartons of 100 (10 x 10) unit dose tablets
 
 Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 
 Dispense in a tight, light-resistant container as defined in the USP/NF.
+Keep out of the reach of children.
+
+Do not crush or divide hydroxychloroquine sulfate film-coated tablets (see DOSAGE AND ADMINISTRATION).

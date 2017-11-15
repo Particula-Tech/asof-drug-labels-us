@@ -7,5 +7,3 @@ Hydroxychloroquine Sulfate Tablets USP, 200 mg
 Rx only
 
 100 tablets
-
-ZYDUS
