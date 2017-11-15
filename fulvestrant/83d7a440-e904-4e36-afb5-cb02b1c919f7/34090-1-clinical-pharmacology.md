@@ -23,10 +23,10 @@ These effects on the ER pathway were also associated with a decrease in Ki67 lab
 
 Absorption:
 
-The single dose and multiple dose PK parameters for the 500 mg dosing regimen with an additional dose (AD) at Day 15 are reported in Table 7.
+The single dose and multiple dose PK parameters for the 500 mg dosing regimen with an additional dose (AD) at Day 15 are reported in Table 9.
 The additional dose of FASLODEX given two weeks after the initial dose allows for steady state concentrations to be reached within the first month of dosing.
 
-Table 7: Summary of Fulvestrant Pharmacokinetic Parameters [gMean (CV%)] in Postmenopausal Advanced Breast Cancer Patients after Intramuscular Administration 500 mg + AD Dosing Regimen
+Table 9: Summary of Fulvestrant Pharmacokinetic Parameters [gMean (CV%)] in Postmenopausal Advanced Breast Cancer Patients after Intramuscular Administration 500 mg + AD Dosing Regimen
 
 |  |  | Cmax (ng/mL) | Cmin (ng/mL) | AUC (ng.hr/mL) |
 | --- | --- | --- | --- | --- |
@@ -77,4 +77,4 @@ There are no known drug-drug interactions.
 Fulvestrant does not significantly inhibit any of the major CYP isoenzymes, including CYP 1A2, 2C9, 2C19, 2D6, and 3A4 in vitro, and studies of co-administration of fulvestrant with midazolam indicate that therapeutic doses of fulvestrant have no inhibitory effects on CYP 3A4 or alter blood levels of drug metabolized by that enzyme.
 Although fulvestrant is partly metabolized by CYP 3A4, a clinical study with rifampin, an inducer of CYP 3A4, showed no effect on the pharmacokinetics of fulvestrant.
 Also results from a healthy volunteer study with ketoconazole, a potent inhibitor of CYP 3A4, indicated that ketoconazole had no effect on the pharmacokinetics of fulvestrant and dosage adjustment is not necessary in patients co-prescribed CYP 3A4 inhibitors or inducers [see Drug Interactions (7)].
-Data from a clinical trial in patients with breast cancer showed that there was no clinically relevant drug interaction between fulvestrant and palbociclib when the two drugs were co-administered.
+Data from a clinical trial in patients with breast cancer showed that there was no clinically relevant drug interaction when fulvestrant is co-administered with palbociclib or abemaciclib.

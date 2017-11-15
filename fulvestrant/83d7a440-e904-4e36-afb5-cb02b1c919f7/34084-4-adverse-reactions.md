@@ -13,7 +13,7 @@ Because clinical trials are conducted under widely varying conditions, the adver
 
 Monotherapy
 
-Comparison of FASLODEX 500 mg and FASLODEX 250 mg
+Comparison of FASLODEX 500 mg and FASLODEX 250 mg (CONFIRM)
 
 The following adverse reactions (ARs) were calculated based on the safety analysis of CONFIRM comparing the administration of FASLODEX 500 mg intramuscularly once a month with FASLODEX 250 mg intramuscularly once a month.
 The most frequently reported adverse reactions in the fulvestrant 500 mg group were injection site pain (11.6% of patients), nausea (9.7% of patients) and bone pain (9.4% of patients); the most frequently reported adverse reactions in the fulvestrant 250 mg group were nausea (13.6% of patients), back pain (10.7% of patients) and injection site pain (9.1% of patients).
@@ -22,30 +22,29 @@ Table 1 lists adverse reactions reported with an incidence of 5% or greater, reg
 
 Table 1: Adverse Reactions in CONFIRM (≥5% in Either Treatment Group)
 
-| Body Systemand Adverse Reaction | Number (%) of Patients |  |
+| Body Systemand Adverse Reaction | Fulvestrant 500 mg N=361% | Fulvestrant 250 mgN=374% |
 | --- | --- | --- |
-| Fulvestrant 500 mg N=361 | Fulvestrant 250 mgN=374 |  |
 | Body as a Whole |  |  |
-| Injection Site PainIncluding more severe injection site related sciatica, neuralgia, neuropathic pain, and peripheral neuropathy. | 42 (11.6) | 34 (9.1) |
-| Headache | 28 (7.8) | 25 (6.7) |
-| Back Pain | 27 (7.5) | 40 (10.7) |
-| Fatigue | 27 (7.5) | 24 (6.4) |
-| Pain in Extremity | 25 (6.9) | 26 (7.0) |
-| Asthenia | 21 (5.8) | 23 (6.1) |
+| Injection Site PainIncluding more severe injection site related sciatica, neuralgia, neuropathic pain, and peripheral neuropathy. | 12 | 9 |
+| Headache | 8 | 7 |
+| Back Pain | 8 | 11 |
+| Fatigue | 8 | 6 |
+| Pain in Extremity | 7 | 7 |
+| Asthenia | 6 | 6 |
 | Vascular System |  |  |
-| Hot Flash | 24 (6.6) | 22 (5.9) |
+| Hot Flash | 7 | 6 |
 | Digestive System |  |  |
-| Nausea | 35 (9.7) | 51 (13.6) |
-| Vomiting | 22 (6.1) | 21 (5.6) |
-| Anorexia | 22 (6.1) | 14 (3.7) |
-| Constipation | 18 (5.0) | 13 (3.5) |
+| Nausea | 10 | 14 |
+| Vomiting | 6 | 6 |
+| Anorexia | 6 | 4 |
+| Constipation | 5 | 4 |
 | Musculoskeletal System |  |  |
-| Bone Pain | 34 (9.4) | 28 (7.5) |
-| Arthralgia | 29 (8.0) | 29 (7.8) |
-| Musculoskeletal Pain | 20 (5.5) | 12 (3.2) |
+| Bone Pain | 9 | 8 |
+| Arthralgia | 8 | 8 |
+| Musculoskeletal Pain | 6 | 3 |
 | Respiratory System |  |  |
-| Cough | 19 (5.3) | 20 (5.3) |
-| Dyspnea | 16 (4.4) | 19 (5.1) |
+| Cough | 5 | 5 |
+| Dyspnea | 4 | 5 |
 
 In the pooled safety population (N=1127) from clinical trials comparing FASLODEX 500 mg to FASLODEX 250 mg, post-baseline increases of ≥1 CTC grade in either AST, ALT, or alkaline phosphatase were observed in >15% of patients receiving FASLODEX.
 Grade 3-4 increases were observed in 1-2% of patients.
@@ -67,28 +66,28 @@ Table 2: Adverse Reactions in FALCON
 
 | Adverse Reactions | FASLODEX 500 mgN=228 |  | Anastrozole 1 mgN=232 |  |
 | --- | --- | --- | --- | --- |
-| All Grades | Grade 3 or 4 | All Grades | Grade 3 or 4 |  |
+| All Grades% | Grade 3 or 4% | All Grades% | Grade 3 or 4% |  |
 | Vascular disorders |  |  |  |  |
-| Hot flash | 26 (11.4%) | 0 | 24 (10.3%) | 0 |
+| Hot flash | 11 | 0 | 10 | 0 |
 | Gastrointestinal disorders |  |  |  |  |
-| Nausea | 24 (10.5%) | 0 | 24 (10.3%) | 1 (0.4%) |
-| Diarrhea | 14 (6.1%) | 0 | 13 (5.6%) | 1 (0.4%) |
+| Nausea | 11 | 0 | 10 | <1 |
+| Diarrhea | 6 | 0 | 6 | <1 |
 | Musculoskeletal and connective tissue disorders |  |  |  |  |
-| Arthralgia | 38 (16.7%) | 0 | 24 (10.3%) | 0 |
-| Myalgia | 16 (7.0%) | 0 | 8 (3.4%) | 0 |
-| Pain in extremity | 13 (5.7%) | 0 | 10 (4.3%) | 0 |
-| Back pain | 21 (9.2%) | 1 (0.4%) | 14 (6%) | 0 |
+| Arthralgia | 17 | 0 | 10 | 0 |
+| Myalgia | 7 | 0 | 3 | 0 |
+| Pain in extremity | 6 | 0 | 4 | 0 |
+| Back pain | 9 | <1 | 6 | 0 |
 | General disorders and administration site conditions |  |  |  |  |
-| Fatigue | 26 (11.4%) | 1 (0.4%) | 16 (6.9%) | 1 (0.4%) |
+| Fatigue | 11 | <1 | 7 | <1 |
 
-Table 3: Laboratory Abnormalities in FALCONIn the FALCON, post-baseline increases of ≥1 CTC grade in either AST, ALT, or alkaline phosphatase were observed in >10% of patients receiving FASLODEX.
+Table 3: Laboratory Abnormalities in FALCONIn FALCON, post-baseline increases of ≥1 CTC grade in either AST, ALT, or alkaline phosphatase were observed in >10% of patients receiving FASLODEX.
 Grade 3-4 increases were observed in 1%-3% of patients.
 
 | Laboratory Parameters | FASLODEX 500 mgN=228 |  | Anastrozole 1mgN=232 |  |
 | --- | --- | --- | --- | --- |
-| All Grades | Grade 3 or 4 | All Grades | Grade 3 or 4 |  |
-| Alanine aminotransferase increased (ALT) | 16 (7%) | 3 (1.3%) | 7 (3%) | 0 |
-| Aspartate aminotransferase increased (AST) | 12 (5.3%) | 3 (1.3%) | 8 (3.4%) | 1 (0.4%) |
+| All Grades% | Grade 3 or 4% | All Grades% | Grade 3 or 4% |  |
+| Alanine aminotransferase increased (ALT) | 7 | 1 | 3 | 0 |
+| Aspartate aminotransferase increased (AST) | 5 | 1 | 3 | <1 |
 
 Comparison of FASLODEX 250 mg and Anastrozole 1 mg in Combined Trials (Studies 0020 and 0021)
 
@@ -102,50 +101,50 @@ Table 4: Adverse Reactions in Studies 0020 and 0021 (≥5% from Combined Data)
 
 | Body System and Adverse Reaction | FASLODEX 250 mg N=423 (%) | Anastrozole 1 mg N=423 (%) |
 | --- | --- | --- |
-| Body as a Whole | 68.3 | 67.6 |
-| Asthenia | 22.7 | 27.0 |
-| Pain | 18.9 | 20.3 |
-| Headache | 15.4 | 16.8 |
-| Back Pain | 14.4 | 13.2 |
-| Abdominal Pain | 11.8 | 11.6 |
-| Injection Site PainIncluding more severe injection site related sciatica, neuralgia, neuropathic pain, and peripheral neuropathy. All patients on FASLODEX received injections, but only those anastrozole patients who were in Study 0021 received placebo injections. | 10.9 | 6.6 |
-| Pelvic Pain | 9.9 | 9.0 |
-| Chest Pain | 7.1 | 5.0 |
-| Flu Syndrome | 7.1 | 6.4 |
-| Fever | 6.4 | 6.4 |
-| Accidental Injury | 4.5 | 5.7 |
-| Cardiovascular System | 30.3 | 27.9 |
-| Vasodilatation | 17.7 | 17.3 |
-| Digestive System | 51.5 | 48.0 |
-| Nausea | 26.0 | 25.3 |
-| Vomiting | 13.0 | 11.8 |
-| Constipation | 12.5 | 10.6 |
-| Diarrhea | 12.3 | 12.8 |
-| Anorexia | 9.0 | 10.9 |
-| Hemic and Lymphatic Systems | 13.7 | 13.5 |
-| Anemia | 4.5 | 5.0 |
-| Metabolic and Nutritional Disorders | 18.2 | 17.7 |
-| Peripheral Edema | 9.0 | 10.2 |
-| Musculoskeletal System | 25.5 | 27.9 |
-| Bone Pain | 15.8 | 13.7 |
-| Arthritis | 2.8 | 6.1 |
-| Nervous System | 34.3 | 33.8 |
-| Dizziness | 6.9 | 6.6 |
-| Insomnia | 6.9 | 8.5 |
-| Paresthesia | 6.4 | 7.6 |
-| Depression | 5.7 | 6.9 |
-| Anxiety | 5.0 | 3.8 |
-| Respiratory System | 38.5 | 33.6 |
-| Pharyngitis | 16.1 | 11.6 |
-| Dyspnea | 14.9 | 12.3 |
-| Cough Increased | 10.4 | 10.4 |
-| Skin and Appendages | 22.2 | 23.4 |
-| Rash | 7.3 | 8.0 |
-| Sweating | 5.0 | 5.2 |
-| Urogenital System | 18.2 | 14.9 |
-| Urinary Tract Infection | 6.1 | 3.5 |
+| Body as a Whole | 68 | 68 |
+| Asthenia | 23 | 27 |
+| Pain | 19 | 20 |
+| Headache | 15 | 17 |
+| Back Pain | 14 | 13 |
+| Abdominal Pain | 12 | 12 |
+| Injection Site PainIncluding more severe injection site related sciatica, neuralgia, neuropathic pain, and peripheral neuropathy. All patients on FASLODEX received injections, but only those anastrozole patients who were in Study 0021 received placebo injections. | 11 | 7 |
+| Pelvic Pain | 10 | 9 |
+| Chest Pain | 7 | 5 |
+| Flu Syndrome | 7 | 6 |
+| Fever | 6 | 6 |
+| Accidental Injury | 5 | 6 |
+| Cardiovascular System | 30 | 28 |
+| Vasodilatation | 18 | 17 |
+| Digestive System | 52 | 48 |
+| Nausea | 26 | 25 |
+| Vomiting | 13 | 12 |
+| Constipation | 13 | 11 |
+| Diarrhea | 12 | 13 |
+| Anorexia | 9 | 11 |
+| Hemic and Lymphatic Systems | 14 | 14 |
+| Anemia | 5 | 5 |
+| Metabolic and Nutritional Disorders | 18 | 18 |
+| Peripheral Edema | 9 | 10 |
+| Musculoskeletal System | 26 | 28 |
+| Bone Pain | 16 | 14 |
+| Arthritis | 3 | 6 |
+| Nervous System | 34 | 34 |
+| Dizziness | 7 | 7 |
+| Insomnia | 7 | 9 |
+| Paresthesia | 6 | 8 |
+| Depression | 6 | 7 |
+| Anxiety | 5 | 4 |
+| Respiratory System | 39 | 34 |
+| Pharyngitis | 16 | 12 |
+| Dyspnea | 15 | 12 |
+| Cough Increased | 10 | 10 |
+| Skin and Appendages | 22 | 23 |
+| Rash | 7 | 8 |
+| Sweating | 5 | 5 |
+| Urogenital System | 18 | 15 |
+| Urinary Tract Infection | 6 | 4 |
 
-Combination Therapy with Palbociclib
+Combination Therapy with Palbociclib (PALOMA-3)
 
 The safety of FASLODEX 500 mg plus palbociclib 125 mg/day versus FASLODEX plus placebo was evaluated in PALOMA-3.
 The data described below reflect exposure to FASLODEX plus palbociclib in 345 out of 517 patients with HR-positive, HER2-negative advanced or metastatic breast cancer who received at least 1 dose of treatment in PALOMA-3.
@@ -164,10 +163,9 @@ Adverse reactions reported in patients who received FASLODEX plus palbociclib in
 
 Table 5: Adverse Reactions in PALOMA-3
 
-| % | % | % | % | % | % |  |
+| All Grades % | Grade 3 % | Grade 4 % | All Grades % | Grade 3 % | Grade 4 % |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Adverse Reaction | FASLODEX plus palbociclib (N=345) |  |  | FASLODEX plus placebo (N=172) |  |  |
-| All Grades | Grade 3 | Grade 4 | All Grades | Grade 3 | Grade 4 |  |
 | Infections and infestations |  |  |  |  |  |  |
 | InfectionsMost common infections (>1%) include: nasopharyngitis, upper respiratory infection, urinary tract infection, influenza, bronchitis, rhinitis, conjunctivitis, pneumonia, sinusitis, cystitis, oral herpes, respiratory tract infection. | 47 | 3 | 1 | 31 | 3 | 0 |
 | Blood and lymphatic system disorders |  |  |  |  |  |  |
@@ -189,7 +187,7 @@ Table 5: Adverse Reactions in PALOMA-3
 | Epistaxis | 7 | 0 | 0 | 2 | 0 | 0 |
 | Gastrointestinal disorders |  |  |  |  |  |  |
 | Nausea | 34 | 0 | 0 | 28 | 1 | 0 |
-| Stomatitis Stomatitis includes: aphthous stomatitis, cheilitis, glossitis, glossodynia, mouth ulceration, mucosal inflammation, oral pain, oropharyngeal discomfort, oropharyngeal pain, stomatitis. | 28 | 1 | 0 | 13 | 0 | 0 |
+| StomatitisStomatitis includes: aphthous stomatitis, cheilitis, glossitis, glossodynia, mouth ulceration, mucosal inflammation, oral pain, oropharyngeal discomfort, oropharyngeal pain, stomatitis. | 28 | 1 | 0 | 13 | 0 | 0 |
 | Diarrhea | 24 | 0 | 0 | 19 | 1 | 0 |
 | Constipation | 20 | 0 | 0 | 16 | 0 | 0 |
 | Vomiting | 19 | 1 | 0 | 15 | 1 | 0 |
@@ -201,19 +199,96 @@ Table 5: Adverse Reactions in PALOMA-3
 | Fatigue | 41 | 2 | 0 | 29 | 1 | 0 |
 | Pyrexia | 13 | <1 | 0 | 5 | 0 | 0 |
 | Asthenia | 8 | 0 | 0 | 5 | 1 | 0 |
+| Grading according to CTCAE 4.0.CTCAE=Common Terminology Criteria for Adverse Events; N=number of patients; N/A=not applicable. |  |  |  |  |  |  |
 
 Table 6: Laboratory Abnormalities in PALOMA-3
 
-| All Grades | Grade 3 | Grade 4 | All Grades | Grade 3 | Grade 4 |  |
+| All Grades % | Grade 3 % | Grade 4 % | All Grades % | Grade 3 % | Grade 4 % |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Laboratory Abnormality | FASLODEX plus palbociclib (N=345) |  |  | FASLODEX plus placebo (N=172) |  |  |
-| % | % | % | % | % | % |  |
 | WBC decreased | 99 | 45 | 1 | 26 | 0 | 1 |
 | Neutrophils decreased | 96 | 56 | 11 | 14 | 0 | 1 |
 | Anemia | 78 | 3 | 0 | 40 | 2 | 0 |
 | Platelets decreased | 62 | 2 | 1 | 10 | 0 | 0 |
 
-1. N=number of patients; WBC=white blood cells.
+N=number of patients; WBC=white blood cells.
+
+Combination Therapy with Abemaciclib (MONARCH 2)
+
+The safety of FASLODEX (500 mg) plus abemaciclib (150 mg twice daily) versus FASLODEX plus placebo was evaluated in MONARCH 2.
+The data described below reflect exposure to FASLODEX in 664 patients with HR-positive, HER2-negative advanced breast cancer who received at least one dose of FASLODEX plus abemaciclib or placebo in MONARCH 2.
+
+Median duration of treatment was 12 months for patients receiving FASLODEX plus abemaciclib and 8 months for patients receiving FASLODEX plus placebo.
+
+Dose reductions due to an adverse reaction occurred in 43% of patients receiving FASLODEX plus abemaciclib.
+Adverse reactions leading to dose reductions ≥5% of patients were diarrhea and neutropenia.
+Abemaciclib dose reduction due to diarrhea of any grade occurred in 19% of patients receiving FASLODEX plus abemaciclib compared to 0.4% of patients receiving FASLODEX plus placebo.
+Abemaciclib dose reductions due to neutropenia of any grade occurred in 10% of patients receiving FASLODEX plus abemaciclib compared to no patients receiving FASLODEX plus placebo.
+
+Permanent study treatment discontinuation due to an adverse event was reported in 9% of patients receiving FASLODEX plus abemaciclib and in 3% of patients receiving FASLODEX plus placebo.
+Adverse reactions leading to permanent discontinuation for patients receiving FASLODEX plus abemaciclib were infection (2%), diarrhea (1%), hepatotoxicity (1%), fatigue (0.7%), nausea (0.2%), abdominal pain (0.2%), acute kidney injury (0.2%), and cerebral infarction (0.2%).
+
+Deaths during treatment or during the 30-day follow up, regardless of causality, were reported in 18 cases (4%) of FASLODEX plus abemaciclib treated patients versus 10 cases (5%) of FASLODEX plus placebo treated patients.
+Causes of death for patients receiving FASLODEX plus abemaciclib included: 7 (2%) patient deaths due to underlying disease, 4 (0.9%) due to sepsis, 2 (0.5%) due to pneumonitis, 2 (0.5%) due to hepatotoxicity, and one (0.2%) due to cerebral infarction.
+
+The most common adverse reactions reported (≥20%) in the FASLODEX plus abemaciclib arm were diarrhea, fatigue, neutropenia, nausea, infections, abdominal pain, anemia, leukopenia, decreased appetite, vomiting, and headache (Table 7).
+The most frequently reported (≥5%) Grade 3 or 4 adverse reactions were neutropenia, diarrhea, leukopenia, anemia, and infections.
+
+Table 7: Adverse Reactions ≥10% of Patients Receiving FASLODEX Plus Abemaciclib and ≥2% Higher Than FASLODEX Plus Placebo in MONARCH 2
+
+|  | FASLODEX plus AbemaciclibN=441 |  |  | FASLODEX plus PlaceboN=223 |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | All Grades% | Grade3% | Grade 4% | All Grades% | Grade3% | Grade 4% |
+| Gastrointestinal Disorders |  |  |  |  |  |  |
+| Diarrhea | 86 | 13 | 0 | 25 | <1 | 0 |
+| Nausea | 45 | 3 | 0 | 23 | 1 | 0 |
+| Abdominal painIncludes abdominal pain, abdominal pain upper, abdominal pain lower, abdominal discomfort, abdominal tenderness. | 35 | 2 | 0 | 16 | 1 | 0 |
+| Vomiting | 26 | <1 | 0 | 10 | 2 | 0 |
+| Stomatitis | 15 | <1 | 0 | 10 | 0 | 0 |
+| Infections and Infestations |  |  |  |  |  |  |
+| InfectionsIncludes upper respiratory tract infection, urinary tract infection, lung infection, pharyngitis, conjunctivitis, sinusitis, vaginal infection, sepsis. | 43 | 5 | <1 | 25 | 3 | <1 |
+| Blood and Lymphatic System Disorders |  |  |  |  |  |  |
+| NeutropeniaIncludes neutropenia, neutrophil count decreased. | 46 | 24 | 3 | 4 | 1 | <1 |
+| AnemiaIncludes anemia, hematocrit decreased, hemoglobin decreased, red blood cell count decreased. | 29 | 7 | <1 | 4 | 1 | 0 |
+| LeukopeniaIncludes leukopenia, white blood cell count decreased. | 28 | 9 | <1 | 2 | 0 | 0 |
+| ThrombocytopeniaIncludes platelet count decreased, thrombocytopenia. | 16 | 2 | 1 | 3 | 0 | <1 |
+| General Disorders and Administration Site Conditions |  |  |  |  |  |  |
+| FatigueIncludes asthenia, fatigue. | 46 | 3 | 0 | 32 | <1 | 0 |
+| Edema peripheral | 12 | 0 | 0 | 7 | 0 | 0 |
+| Pyrexia | 11 | <1 | <1 | 6 | <1 | 0 |
+| Metabolism and Nutrition Disorders |  |  |  |  |  |  |
+| Decreased appetite | 27 | 1 | 0 | 12 | <1 | 0 |
+| Respiratory, Thoracic and Mediastinal Disorders |  |  |  |  |  |  |
+| Cough | 13 | 0 | 0 | 11 | 0 | 0 |
+| Skin and Subcutaneous Tissue Disorders |  |  |  |  |  |  |
+| Alopecia | 16 | 0 | 0 | 2 | 0 | 0 |
+| Pruritus | 13 | 0 | 0 | 6 | 0 | 0 |
+| Rash | 11 | 1 | 0 | 4 | 0 | 0 |
+| Nervous System Disorders |  |  |  |  |  |  |
+| Headache | 20 | 1 | 0 | 15 | <1 | 0 |
+| Dysgeusia | 18 | 0 | 0 | 3 | 0 | 0 |
+| Dizziness | 12 | 1 | 0 | 6 | 0 | 0 |
+| Investigations |  |  |  |  |  |  |
+| Alanine aminotransferase increased | 13 | 4 | <1 | 5 | 2 | 0 |
+| Aspartate aminotransferase increased | 12 | 2 | 0 | 7 | 3 | 0 |
+| Creatinine increased | 12 | <1 | 0 | <1 | 0 | 0 |
+| Weight decreased | 10 | <1 | 0 | 2 | <1 | 0 |
+
+Additional adverse reactions in MONARCH 2 include venous thromboembolic events (deep vein thrombosis, pulmonary embolism, cerebral venous sinus thrombosis, subclavian vein thrombosis, axillary vein thrombosis, and DVT inferior vena cava), which were reported in 5% of patients treated with FASLODEX plus abemaciclib as compared to 0.9% of patients treated with FASLODEX plus placebo.
+
+Table 8: Laboratory Abnormalities ≥10% in Patients Receiving FASLODEX Plus Abemaciclib and ≥2% Higher Than FASLODEX Plus Placebo in MONARCH 2
+
+|  | All Grades % | Grade 3 % | Grade 4 % | All Grades % | Grade 3 % | Grade 4 % |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Fulvestrant plus Abemaciclib N=441 |  |  | Fulvestrant plus Placebo N=223 |  |  |
+| Creatinine increased | 98 | 1 | 0 | 74 | 0 | 0 |
+| White blood cell decreased | 90 | 23 | <1 | 33 | <1 | 0 |
+| Neutrophil count decreased | 87 | 29 | 4 | 30 | 4 | <1 |
+| Anemia | 84 | 3 | 0 | 33 | <1 | 0 |
+| Lymphocyte count decreased | 63 | 12 | <1 | 32 | 2 | 0 |
+| Platelet count decreased | 53 | <1 | 1 | 15 | 0 | 0 |
+| Alanine aminotransferase increased | 41 | 4 | <1 | 32 | 1 | 0 |
+| Aspartate aminotransferase increased | 37 | 4 | 0 | 25 | 4 | <1 |
 
 ## 6.2 Postmarketing Experience
 

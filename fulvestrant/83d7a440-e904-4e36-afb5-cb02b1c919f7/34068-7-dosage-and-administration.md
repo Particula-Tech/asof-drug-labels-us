@@ -4,16 +4,21 @@
 
 Monotherapy
 
-The recommended dose is 500 mg to be administered intramuscularly into the buttocks (gluteal area) slowly (1 - 2 minutes per injection) as two 5 mL injections, one in each buttock, on days 1, 15, 29 and once monthly thereafter [see Clinical Studies (14)].
+The recommended dose of FASLODEX is 500 mg to be administered intramuscularly into the buttocks (gluteal area) slowly (1 - 2 minutes per injection) as two 5 mL injections, one in each buttock, on days 1, 15, 29 and once monthly thereafter [see Clinical Studies (14)].
 
-Combination Therapy with Palbociclib
+Combination Therapy
 
-When FASLODEX is used in combination with palbociclib, the recommended dose is 500 mg to be administered intramuscularly into the buttocks (gluteal area) slowly (1 - 2 minutes per injection) as two 5 mL injections, one in each buttock, on days 1, 15, 29 and once monthly thereafter.
-The recommended dose of palbociclib is a 125 mg capsule taken orally once daily for 21 consecutive days followed by 7 days off treatment to comprise a complete cycle of 28 days.
+When FASLODEX is used in combination with palbociclib or abemaciclib, the recommended dose of FASLODEX is 500 mg to be administered intramuscularly into the buttocks (gluteal area) slowly (1 - 2 minutes per injection) as two 5 mL injections, one in each buttock, on days 1, 15, 29 and once monthly thereafter.
+
+When FASLODEX is used in combination with palbociclib, the recommended dose of palbociclib is a 125 mg capsule taken orally once daily for 21 consecutive days followed by 7 days off treatment to comprise a complete cycle of 28 days.
 Palbociclib should be taken with food.
-Please refer to the full prescribing information of palbociclib.
+Please refer to the Full Prescribing Information for palbociclib.
 
-Pre/perimenopausal women treated with the combination FASLODEX plus palbociclib should be treated with luteinizing hormone-releasing hormone (LHRH) agonists according to current clinical practice standards [see Clinical Studies (14)].
+When FASLODEX is used in combination with abemaciclib, the recommended dose of abemaciclib is 150 mg orally, twice daily.
+Abemaciclib may be taken with or without food.
+Please refer to the Full Prescribing Information for abemaciclib.
+
+Pre/perimenopausal women treated with the combination of FASLODEX plus palbociclib or abemaciclib should be treated with luteinizing hormone-releasing hormone (LHRH) agonists according to current clinical practice standards [see Clinical Studies (14)].
 
 ## 2.2 Dose Modification
 
@@ -25,10 +30,11 @@ A dose of 250 mg is recommended for patients with moderate hepatic impairment (C
 
 FASLODEX has not been evaluated in patients with severe hepatic impairment (Child-Pugh class C) [see Warnings and Precautions (5.2) and Use in Specific Populations (8.6)].
 
-Combination Therapy with Palbociclib
+Combination Therapy
 
-When FASLODEX is used in combination with palbociclib, refer to monotherapy dose modification instructions for FASLODEX.
-Refer to the full prescribing information of palbociclib for its dose modification, management of toxicities, and for use with concomitant medication.
+When FASLODEX is used in combination with palbociclib or abemaciclib refer to monotherapy dose modification instructions for FASLODEX.
+
+Refer to the Full Prescribing Information of co-administered palbociclib or abemaciclib for dose modification guidelines in the event of toxicities, for use with concomitant medications, and other relevant safety information.
 
 ## 2.3 Administration Technique
 
@@ -54,8 +60,6 @@ For each syringe:
 1. 7.Attach the safety needle to the syringe tip (Luer-Lok).
    Twist needle until firmly seated (see Figure 3).
    Confirm that the needle is locked to the Luer connector before moving or tilting the syringe out of the vertical plane to avoid spillage of syringe contents.
-
-Figure 3
 
 1. For Administration:
 2. 8.Pull shield straight off needle to avoid damaging needle point.

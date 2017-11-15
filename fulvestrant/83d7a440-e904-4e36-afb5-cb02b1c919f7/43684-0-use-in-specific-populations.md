@@ -29,9 +29,9 @@ Fulvestrant was associated with an increased incidence of fetal variations in ra
 
 Risk Summary
 
-There is no information regarding the presence of fulvestrant in human milk, nor of its effects on milk production or breast-fed infant.
+There is no information regarding the presence of fulvestrant in human milk, nor of its effects on milk production or breastfed infant.
 Fulvestrant can be detected in rat milk [see Data].
-Because of the potential for serious adverse reactions in breast-fed infants from FASLODEX, advise a lactating woman not to breast-feed during treatment with FASLODEX and for one year after the final dose.
+Because of the potential for serious adverse reactions in breastfed infants from FASLODEX, advise a lactating woman not to breastfeed during treatment with FASLODEX and for one year after the final dose.
 
 Data
 
@@ -77,7 +77,7 @@ The effect of FASLODEX on bone mineral density in children has not been studied 
 
 Eight patients (27%) experienced adverse reactions that were considered possibly related to FASLODEX.
 These included injection site reactions (inflammation, pain, hematoma, pruritus, rash), abdominal pain, contusion, tachycardia, hot flash, extremity pain, and vomiting.
-Nine (30.0%) patients reported an SAE, none of which were considered related to FASLODEX.
+Nine (30%) patients reported an SAE, none of which were considered related to FASLODEX.
 No patients discontinued study treatment due to an AE and no patients died.
 
 Pharmacokinetics
