@@ -53,25 +53,25 @@ XTAMPZA ER resisted attempts to pass the melted capsule contents or the microsph
 
 Pharmacokinetic Studies
 
-The pharmacokinetic profile of manipulated XTAMPZA ER capsule contents (36 mg; [equivalent to 40 mg oxycodone HCl]) was characterized following oral (two studies) and intranasal (two studies) administration.
+The pharmacokinetic profile of manipulated XTAMPZA ER capsule contents (36 mg; [equivalent to 40 mg oxycodone HCl]) was characterized following oral (three studies) and intranasal (two studies) administration.
 The studies were conducted in a randomized, cross-over design.
 In studies assessing manipulation by crushing, the most effective crushing method identified in previous in vitro studies was applied to the product(s).
 
 Oral Pharmacokinetic Studies, Manipulated and Intact XTAMPZA ER
 
-The effect of two types of product manipulation (crushing and chewing) on XTAMPZA ER pharmacokinetics was measured in two studies.
+The effect of two types of product manipulation (crushing and chewing) on XTAMPZA ER pharmacokinetics was measured in three studies.
 
-In Oral Pharmacokinetic Study 1, XTAMPZA ER capsule contents were crushed or chewed prior to oral administration in healthy, naltrexone blocked volunteers.
-The two comparators in this study were intact XTAMPZA ER capsules and an immediate-release solution of oxycodone.
+In one oral pharmacokinetic study, XTAMPZA ER capsule contents were crushed or chewed prior to oral administration in healthy, naltrexone-blocked volunteers.
+The two comparators in this study were intact XTAMPZA ER capsules and an immediate-release solution of oxycodone at an equivalent dose.
 
-In Oral Pharmacokinetic Study 2, XTAMPZA ER capsule contents were crushed prior to oral administration in healthy, naltrexone-blocked volunteers.
-The comparators in this study included intact XTAMPZA ER capsules and crushed immediate-release oxycodone tablets.
+In two oral pharmacokinetic studies, XTAMPZA ER capsule contents were crushed prior to oral administration in healthy, naltrexone-blocked volunteers.
+The comparators in these studies included intact XTAMPZA ER capsules, intact and crushed reformulated OXYCONTIN (oxycodone hydrochloride) extended-release tablets at an equivalent dose, and crushed immediate-release oxycodone tablets at an equivalent dose.
 
-The pharmacokinetic data displayed in Table 3 illustrate the findings from these two studies.
-Collectively, the data from the two studies demonstrated that crushing or chewing XTAMPZA ER prior to administration did not increase the maximum observed plasma concentration (Cmax) or total exposure (AUC0-INF) relative to dosing the intact product under fed conditions.
-Relative to immediate-release oxycodone, the Cmax for all XTAMPZA ER treatments was significantly lower and the Tmax significantly longer, consistent with an extended-release profile.
+The data displayed in Table 3 illustrate the findings from the oral pharmacokinetic studies (data were similar for the two oral pharmacokinetic studies comparing XTAMPZA ER to OXYCONTIN).
+Collectively, the data demonstrated that crushing or chewing XTAMPZA ER prior to administration did not increase the maximum observed plasma concentration (Cmax) or total exposure (AUC0-INF) relative to dosing the intact product under fed conditions.
+Relative to immediate-release oxycodone and crushed reformulated OXYCONTIN (oxycodone hydrochloride) extended-release tablets, the Cmax for all XTAMPZA ER treatments was lower and the Tmax longer, consistent with an extended-release profile.
 
-Table 3: Oxycodone Pharmacokinetic Parameters, Administration of Manipulated Capsule Contents and Intact Capsules (36 mg)
+Table 3: Oxycodone Pharmacokinetic Parameters, Administration of Manipulated and Intact Dosage Forms (36mg of XTAMPZA ER or equivalent)
 
 |  | Cmax (ng/mL) | Tmax (hr) | AUC0-INF (hr∙ng/mL) |
 | --- | --- | --- | --- |
@@ -83,6 +83,8 @@ Table 3: Oxycodone Pharmacokinetic Parameters, Administration of Manipulated Cap
 |  | Oral Pharmacokinetic Study 2 |  |  |
 | Intact XTAMPZA ER Capsules (fed) | 67.5 (17.6) | 3.5 (1.25 – 6.0) | 581 (138) |
 | Crushed XTAMPZA ER Capsule Contents (fed) | 62.9 (12.6) | 4.0 (2.0 – 7.0) | 597 (149) |
+| Intact reformulated OXYCONTIN (oxycodone hydrochloride) extended-release tablets (fed) | 64.9 (13.8) | 5.0 (2.0-10.0) | 611 (145) |
+| Crushed reformulated OXYCONTIN (oxycodone hydrochloride) extended-release tablets (fed) | 78.4 (12.9) | 1.75 (0.5-5.0) | 587 (132) |
 | Crushed Immediate-Release Oxycodone Tablets (fed) | 79.4 (17.1) | 1.75 (0.5-4.0) | 561 (146) |
 | Values shown for Cmax and AUC0-INF are mean (standard deviation); values shown for Tmax are median (minimum-maximum). |  |  |  |
 
@@ -90,16 +92,16 @@ Nasal Pharmacokinetic Studies
 
 The pharmacokinetic profile following intranasal administration of crushed XTAMPZA ER capsule contents was characterized in two clinical studies.
 
-In Nasal Pharmacokinetic Study 1, XTAMPZA ER capsule contents were crushed and intranasally administered by non-dependent, naltrexone-blocked subjects with a history of nasal abuse of opioids.
+In Nasal Pharmacokinetic Study 1, XTAMPZA ER capsule contents (36 mg) were crushed and intranasally administered by non-dependent, naltrexone-blocked subjects with a history of nasal abuse of opioids.
 The two comparators in this study were intact XTAMPZA ER capsules (oral) and oxycodone HCl powder (intranasal) at an equivalent dose.
 
-In Nasal Pharmacokinetic Study 2, XTAMPZA ER capsule contents were crushed and intranasally administered by non-dependent subjects with a history of nasal abuse of opioids.
+In Nasal Pharmacokinetic Study 2, XTAMPZA ER capsule contents (36 mg) were crushed and intranasally administered by non-dependent subjects with a history of nasal abuse of opioids.
 The two comparators in this study were intact XTAMPZA ER capsules (oral) and crushed oxycodone immediate-release tablets (intranasal) at an equivalent dose.
 
 The results of Nasal Pharmacokinetic Studies 1 and 2 are comparable and both studies demonstrated that intranasal administration of crushed XTAMPZA ER capsule contents did not result in higher peak plasma concentration (Cmax) or shorter time to peak concentration (Tmax) than taking XTAMPZA ER orally.
 The data from Nasal Pharmacokinetic Study 2 are displayed in Table 4 to represent these findings.
 
-Table 4: Pharmacokinetic Parameters, Nasal Pharmacokinetic Study 2:
+Table 4: Oxycodone Pharmacokinetic Parameters, Nasal Pharmacokinetic Study 2:
 
 | Treatment | Cmax (ng/mL) | Tmax (hr) | AUC0-INF (hr∙ng/mL) |
 | --- | --- | --- | --- |
@@ -110,29 +112,33 @@ Table 4: Pharmacokinetic Parameters, Nasal Pharmacokinetic Study 2:
 
 Clinical Studies
 
-Oral Abuse Potential Study:
+Oral Abuse Potential Studies:
 
-In the Oral Abuse Potential Study, a randomized, double-blind, active- and placebo-controlled, single-dose, six-way crossover pharmacodynamic study, 61 recreational opioid users with a history of oral drug abuse received orally administered active and placebo treatment.
-The six treatment arms were intact XTAMPZA ER (36 mg, fed and fasted); chewed XTAMPZA ER (36 mg, fed and fasted); crushed immediate-release oxycodone HCl in water (40 mg, fasted, equivalent to 36 mg of XTAMPZA ER), and placebo.
-Data for chewed XTAMPZA ER and crushed IR oxycodone in the fasted state are described below.
+The oral abuse potential of chewed XTAMPZA ER was evaluated in two studies.
+
+In a randomized, double-blind, active- and placebo-controlled, single-dose, six-way crossover pharmacodynamic study, 52 non-dependent recreational opioid users received orally-administered active and placebo treatment.
+The six treatment arms were intact XTAMPZA ER (36 mg, fed and fasted); chewed XTAMPZA ER (36 mg, fed and fasted); crushed immediate-release (IR) oxycodone HCl in solution (40 mg, fasted, equivalent to 36 mg of XTAMPZA ER), and placebo.
+Data for chewed and intact XTAMPZA ER and crushed IR oxycodone in the fasted state are described below.
 
 Drug Liking was measured on a bipolar 100-point Visual Analog Scale (VAS) where 50 represents a neutral response, 0 represents maximum disliking, and 100 represents maximum liking.
 Response to whether the subject would take the study drug again was also measured on a bipolar 100-point VAS where 50 represents a neutral response, 0 represents the strongest negative response (e.g., 'definitely would not take drug again'), and 100 represents the strongest positive response (e.g., 'definitely would take drug again').
 
-Thirty-eight subjects completed the study.
-The results are summarized in Table 5.
-The oral administration of chewed and intact XTAMPZA ER in the fasted state was associated with statistically lower mean Drug Liking scores compared with crushed immediate-release oxycodone.
-However, the differences for XTAMPZA ER chewed and intact compared with crushed immediate-release oxycodone for the Take Drug Again scores were small and not statistically significant.
+Fifty-two subjects completed the study, and the results are summarized in Table 5.
+The oral administration of chewed and intact XTAMPZA ER in the fasted state was associated with statistically lower mean Drug Liking and Take Drug Again VAS scores compared with crushed immediate-release oxycodone.
+In addition, the Drug Liking and Take Drug Again scores were similar for XTAMPZA ER taken in the intact and chewed states.
 
 Table 5: Summary of Maximum Drug Liking and Take Drug Again (Emax) Following Oral Administration
 
 |  |  | XTAMPZA ER Intact (Fasted) | XTAMPZA ER Chewed (Fasted) | Crushed IR Oxycodone (Fasted) | Placebo |
 | --- | --- | --- | --- | --- | --- |
-| Drug LikingBipolar scale (0=maximum negative response, 50=neutral response, 100=maximum positive response) (Emax) | Mean (SEM) | 68.8 (2.11) | 73.4 (2.26) | 81.8 (1.86) | 54.9 (1.37) |
-| Median (Range) | 72 (50-89) | 76 (50-95) | 83 (50-99) | 51 (50-84) |  |
-| Take Drug Again (Emax) | Mean (SEM) | 70.2 (2.59) | 73.7 (2.42) | 75.4 (2.72) | 52.7 (2.17) |
-| Median (Range) | 69 (50-98) | 74 (50-98) | 76 (37-100) | 50 (3-95) |  |
-| Emax = maximum (peak) effect; ER = extended-release; IR = immediate-release; VAS = visual analogue scale; SEM= standard error of the mean. |  |  |  |  |  |
+| Drug LikingBipolar scale (0=maximum negative response, 50=neutral response, 100=maximum positive response) (Emax) | Mean (SD) | 73.9 (15.10) | 73.3 (14.93) | 86.40 (12.01) | 55.8 (9.94) |
+| Median (Range) | 73.5 (50-100) | 73.5 (50-100) | 88.5 (52-100) | 50.0 (50-86) |  |
+| Take Drug Again (Emax) | Mean (SD) | 77.98 (21.07) | 77.85 (18.30) | 87.69 (12.90) | 50.79 (21.41) |
+| Median (Range) | 80.5 (1-100) | 81.5 (50-100) | 90.5 (50-100) | 50.0 (0-100) |  |
+| Emax = maximum (peak) effect; ER = extended-release; IR = immediate-release; VAS = visual analogue scale; SD=Standard Deviation. |  |  |  |  |  |
+
+A prior, similarly-designed study was also conducted to evaluate the oral abuse potential of chewed XTAMPZA ER.
+Although the oral administration of chewed and intact XTAMPZA ER in the fasted state was associated with statistically lower mean Drug Liking scores compared with crushed immediate-release oxycodone, the results for Take Drug Again showed small differences that were not statistically significant.
 
 Nasal Abuse Potential Study:
 
@@ -147,28 +153,26 @@ Table 6: Summary of Maximum Drug Liking and Take Drug Again (Emax) Following Int
 
 |  |  | XTAMPZA ER Intranasal | Crushed IR Oxycodone Intranasal | Placebo |
 | --- | --- | --- | --- | --- |
-| Drug LikingBipolar scale (0=maximum negative response, 50=neutral response, 100=maximum positive response). (Emax) | Mean (SEM) | 61.8 (2.6) | 82.7 (1.8) | 54.5 (2.0) |
+| Drug LikingBipolar scale (0=maximum negative response, 50=neutral response, 100=maximum positive response). (Emax) | Mean (SD) | 61.81 (15.64) | 82.72 (10.95) | 54.5 (11.77) |
 | Median (Range) | 59.5 (16-94) | 84 (60-100) | 51 (28-93) |  |
-| Take Drug Again (Emax) | Mean (SEM) | 47.7 (4.6) | 71.4 (3.9) | 45.9 (2.9) |
+| Take Drug Again (Emax) | Mean (SD) | 47.67 (27.84) | 71.36 (23.49) | 45.92 (17.50) |
 | Median (Range) | 50 (0-100) | 78.5 (18-100) | 50 (0-97) |  |
-| Emax = maximum (peak) effect; ER = extended-release; IR = immediate-release; VAS = visual analogue scale; SEM = Standard error of the mean. |  |  |  |  |
+| Emax = maximum (peak) effect; ER = extended-release; IR = immediate-release; VAS = visual analogue scale; SD=Standard Deviation. |  |  |  |  |
 
 Figure 1 demonstrates a comparison of Drug Liking for intranasal administration of crushed XTAMPZA ER compared to crushed immediate-release oxycodone in subjects who received both treatments (N=36).
 The Y-axis represents the percent of subjects attaining a percent reduction in drug liking for XTAMPZA ER vs. immediate-release oxycodone greater than or equal to the value on the X-axis.
 Approximately 92% (n = 33) of subjects had some reduction in drug liking with XTAMPZA ER relative to crushed immediate-release oxycodone HCl.
-78% (n = 28) of subjects had a reduction of at least 30% in drug liking with XTAMPZA ER compared to crushed immediate-release oxycodone HCl, and approximately 58% (n = 21) of subjects had a reduction of at least 50% in drug liking with XTAMPZA ER compared to crushed immediate-release oxycodone HCl.
+Approximately 78% (n = 28) of subjects had a reduction of at least 30% in drug liking with XTAMPZA ER compared to crushed immediate-release oxycodone HCl, and approximately 58% (n = 21) of subjects had a reduction of at least 50% in drug liking with XTAMPZA ER compared to crushed immediate-release oxycodone HCl.
 
-Figure 1: Percent Reduction Profiles for Emax of Drug Liking VAS for Crushed XTAMPZA ER vs. Crushed Immediate-release Oxycodone, N=36 Following Intranasal Administration
+Figure 1: Percent Reduction Profiles for Emax of Drug Liking VAS for Crushed XTAMPZA ER vs. Crushed Immediate-release Oxycodone, N=36 Following Intranasal Administration.
 
 Summary
 
 The in vitro data demonstrate that XTAMPZA ER has physicochemical properties expected to make abuse by injection difficult.
-The data from pharmacokinetic and human abuse potential studies, along with support from the in vitro data, also indicate that XTAMPZA ER has physicochemical properties that are expected to reduce abuse via the intranasal route.
-The data from the oral pharmacokinetic studies of manipulated XTAMPZA ER demonstrated a lack of dose dumping with no increase in oxycodone levels compared to intact XTAMPZA ER.
-Although the results of the oral human abuse potential study showed a difference in the Drug Liking endpoint, there was no statistically significant reduction in the response to Take Drug Again.
-Therefore, it cannot be concluded that XTAMPZA ER has physicochemical properties that are expected to reduce abuse via the oral route.
+The data from pharmacokinetic and human abuse potential studies, along with support from the in vitro data, also indicate that XTAMPZA ER has physicochemical properties that are expected to reduce abuse via the oral and intranasal routes.
+The data from the oral pharmacokinetic studies of crushed or chewed XTAMPZA ER demonstrated a lack of dose dumping with no increase in oxycodone levels compared to intact XTAMPZA ER.
 
-However, abuse of XTAMPZA ER by injection and by the nasal route of administration, as well as by the oral route is still possible.
+However, abuse of XTAMPZA ER by injection and by the oral and nasal routes of administration is still possible.
 
 Additional data, including epidemiological data, when available, may provide further information on the impact of the current formulation of XTAMPZA ER on the abuse liability of the drug.
 Accordingly, this section may be updated in the future as appropriate.

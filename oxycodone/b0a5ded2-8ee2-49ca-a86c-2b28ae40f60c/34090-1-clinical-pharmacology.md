@@ -159,7 +159,7 @@ Drug Interaction Studies
 CYP3A4 Inhibitors
 
 CYP3A4 is the major enzyme involved in noroxycodone formation.
-Co-administration of OXYCONTIN (10 mg single dose) and the CYP3A4 inhibitor ketoconazole (200 mg BID) increased oxycodone AUC and Cmax by 170% and 100%, respectively [see Drug Interactions (7)].
+Co-administration of a 10 mg single dose of oxycodone extended –release tablet and the CYP3A4 inhibitor ketoconazole (200 mg BID) increased oxycodone AUC and Cmax by 170% and 100%, respectively [see Drug Interactions (7)].
 
 CYP3A4 Inducers
 

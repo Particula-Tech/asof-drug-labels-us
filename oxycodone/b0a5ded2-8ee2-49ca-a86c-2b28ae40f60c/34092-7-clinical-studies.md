@@ -21,4 +21,4 @@ The figure is cumulative, so that patients whose change from screening is, for e
 Patients who did not complete the study were classified as non-responders.
 Treatment with XTAMPZA ER resulted in a higher proportion of responders, defined as patients with at least a 30% and 50% improvement as compared to placebo.
 
-Figure 2: Responder Analysis for Pain Intensity: Percent Reduction/Improvement (Intent-to-Treat Population
+Figure 2: Responder Analysis for Pain Intensity: Percent Reduction/Improvement (Intent-to-Treat Population)

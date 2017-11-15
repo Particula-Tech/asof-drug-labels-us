@@ -5,8 +5,6 @@ The capsules contain microspheres formulated with oxycodone base and are supplie
 The capsule strengths describe the amount of oxycodone base per capsule.
 The structural formula for oxycodone is as follows:
 
-C18H21NO4 MW 315.37 g/mol
-
 The chemical name is 4,5 α-Epoxy-14-hydroxy-3-methoxy-17-methylmorphinan-6-one.
 
 Oxycodone base is a white, odorless crystalline powder derived from the opium alkaloid, thebaine.

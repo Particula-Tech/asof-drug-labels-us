@@ -96,5 +96,3 @@ Advise patients of the potential for severe constipation, including management i
 Disposal of Unused XTAMPZA ER
 
 Advise patients to flush the unused capsules down the toilet when XTAMPZA ER is no longer needed.
-
-Healthcare professionals can telephone Collegium Pharmaceutical's Medical Affairs Department (1-855-331-5615) for information on this product.

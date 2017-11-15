@@ -1,6 +1,4 @@
-# Instructions for Use
-
-XTAMPZA® ER (ex tamp' zah ee ar) (oxycodone) extended-release capsules, CII
+Instructions for Use XTAMPZA® ER (ex tamp' zah ee ar) (oxycodone) extended-release capsules, CII
 
 Always take XTAMPZA ER with approximately the same amount of food.
 If you cannot swallow XTAMPZA ER capsules, tell your healthcare provider.

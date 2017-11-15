@@ -90,7 +90,7 @@ Patients who experience breakthrough pain may require a dose increase of XTAMPZA
 If the level of pain increases after dose stabilization, attempt to identify the source of increased pain before increasing the XTAMPZA ER dose.
 Because steady-state plasma concentrations are approximated in 1 to 2 days, XTAMPZA ER dosage may be adjusted every 1 to 2 days.
 If unacceptable opioid-related adverse reactions are observed, the subsequent dose may be reduced.
-Adjust the dose to obtain an appropriate balance between management of pain and opioid-related adverse reactions.
+Adjust the dose to obtain an appropriate balance between management of pain and opioid- related adverse reactions.
 
 There are no well-controlled clinical studies evaluating the safety and efficacy with dosing more frequently than every 12 hours.
 As a guideline, the total daily oxycodone dose usually can be increased by 25% to 50% of the current dose, each time an increase is clinically indicated.
