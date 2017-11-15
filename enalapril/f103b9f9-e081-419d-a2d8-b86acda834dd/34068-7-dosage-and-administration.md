@@ -18,8 +18,8 @@ Concomitant administration of enalapril maleate with potassium supplements, pota
 
 ## Dosage Adjustment in Hypertensive Patients with Renal Impairment
 
-The usual dose of enalapril is recommended for patients with a creatinine clearance >30 mL/min (serum creatinine of up to approximately 3 mg/dL).
-For patients with creatinine clearance ≤30 mL/min (serum creatinine ≥ 3 mg/dL), the first dose is 2.5 mg once daily.
+The usual dose of enalapril is recommended for patients with a creatinine clearance more than 30 mL/min (serum creatinine of up to approximately 3 mg/dL).
+For patients with creatinine clearance less than or equal to 30 mL/min (serum creatinine more than or equal to 3 mg/dL), the first dose is 2.5 mg once daily.
 The dosage may be titrated upward until blood pressure is controlled or to a maximum of 40 mg daily.
 
 | Renal Status | Creatinine-Clearance mL/min | Initial Dose mg/day |
@@ -63,7 +63,7 @@ The usual recommended starting dose is 0.08 mg/kg (up to 5 mg) once daily.
 Dosage should be adjusted according to blood pressure response.
 Doses above 0.58 mg/kg (or in excess of 40 mg) have not been studied in pediatric patients (see CLINICAL PHARMACOLOGY, Clinical Pharmacology in Pediatric Patients).
 
-Enalapril maleate is not recommended in neonates and in pediatric patients with glomerular filtration rate <30 mL/min/1.73 m2, as no data are available.
+Enalapril maleate is not recommended in neonates and in pediatric patients with glomerular filtration rate less than 30 mL/min/1.73 m2, as no data are available.
 
 ## Preparation of Suspension (for 200 mL of a 1.0 mg/mL suspension)
 
@@ -71,5 +71,5 @@ Add 50 mL of Bicitra®Registered trademark of Alza Corporation to a polyethylene
 Let concentrate stand for 60 minutes.
 Following the 60-minute hold time, shake the concentrate for an additional minute.
 Add 150 mL of Ora-Sweet SF™Trademark of Paddock Laboratories, Inc. to the concentrate in the PET bottle and shake the suspension to disperse the ingredients.
-The suspension should be refrigerated at 2-8°C (36-46°F) and can be stored for up to 30 days.
+The suspension should be refrigerated at 2 to 8°C (36 to 46°F) and can be stored for up to 30 days.
 Shake the suspension before each use.
