@@ -1,11 +1,11 @@
 # 5. WARNINGS AND PRECAUTIONS
 
-Gonal-f® RFF Redi-ject™ should only be used by physicians who are experienced in infertility treatment.
-Gonal-f® RFF Redi-ject™ contains a gonadotropic substance capable of causing Ovarian Hyperstimulation Syndrome (OHSS) in women with or without pulmonary or vascular complications [see Warnings and Precautions (5.2, 5.3, 5.4, 5.5)] and multiple births [see Warnings and Precautions (5.6)].
+Gonal-f® RFF Redi-ject® should only be used by physicians who are experienced in infertility treatment.
+Gonal-f® RFF Redi-ject® contains a gonadotropic substance capable of causing Ovarian Hyperstimulation Syndrome (OHSS) in women with or without pulmonary or vascular complications [see Warnings and Precautions (5.2, 5.3, 5.4, 5.5)] and multiple births [see Warnings and Precautions (5.6)].
 Gonadotropin therapy requires the availability of appropriate monitoring facilities [see Warnings and Precautions (5.11)].
 The lowest effective dose should be used.
 
-Careful attention should be given to the diagnosis of infertility and the selection of candidates for Gonal-f® RFF Redi-ject™ therapy [see Indications and Usage (1.1, 1.2) and Dosage and Administration (2.2, 2.3)].
+Careful attention should be given to the diagnosis of infertility and the selection of candidates for Gonal-f® RFF Redi-ject® therapy [see Indications and Usage (1.1, 1.2) and Dosage and Administration (2.2, 2.3)].
 
 ## 5.1 Hypersensitivity Reactions and Anaphylaxis
 
@@ -15,10 +15,10 @@ If an anaphylactic or other serious allergic reaction occurs, initiate appropria
 
 ## 5.2 Abnormal Ovarian Enlargement
 
-In order to minimize the hazards associated with abnormal ovarian enlargement that may occur with Gonal-f® RFF Redi-ject™ therapy, treatment should be individualized and the lowest effective dose should be used [see Dosage and Administration (2.2, 2.3)].
+In order to minimize the hazards associated with abnormal ovarian enlargement that may occur with Gonal-f® RFF Redi-ject® therapy, treatment should be individualized and the lowest effective dose should be used [see Dosage and Administration (2.2, 2.3)].
 Use of ultrasound monitoring of ovarian response and/or measurement of serum estradiol levels is important to minimize the risk of ovarian stimulation [see Warnings and Precautions (5.11)].
 
-If the ovaries are abnormally enlarged on the last day of Gonal-f® RFF Redi-ject™ therapy, hCG should not be administered in order to reduce the chance of developing Ovarian Hyperstimulation Syndrome (OHSS) [see Warnings and Precautions (5.3)].
+If the ovaries are abnormally enlarged on the last day of Gonal-f® RFF Redi-ject® therapy, hCG should not be administered in order to reduce the chance of developing Ovarian Hyperstimulation Syndrome (OHSS) [see Warnings and Precautions (5.3)].
 Intercourse should be prohibited in women with significant ovarian enlargement after ovulation because of the danger of hemoperitoneum resulting from rupture of ovarian cysts [see Warnings and Precautions (5.3)].
 
 ## 5.3 Ovarian Hyperstimulation Syndrome (OHSS)
@@ -82,7 +82,7 @@ Multi-fetal gestation and births have been reported with all gonadotropin therap
 
 During clinical trials with Gonal-f® RFF, multiple births occurred in 20% of live births in women receiving therapy for ovulation induction and 35.1 % of live births in women undergoing ART.
 
-The woman and her partner should be advised of the potential risk of multi-fetal gestation and birth before beginning therapy with Gonal-f® RFF Redi-ject™.
+The woman and her partner should be advised of the potential risk of multi-fetal gestation and birth before beginning therapy with Gonal-f® RFF Redi-ject®.
 
 ## 5.7 Congenital Malformations
 
@@ -107,7 +107,7 @@ There have been infrequent reports of ovarian neoplasms, both benign and maligna
 
 ## 5.11 Laboratory Tests
 
-In most instances, treatment of women with Gonal-f® RFF Redi-ject™ will result only in follicular growth and maturation.
+In most instances, treatment of women with Gonal-f® RFF Redi-ject® will result only in follicular growth and maturation.
 In the absence of an endogenous LH surge, hCG is given when monitoring of the woman indicates that sufficient follicular development has occurred.
 This may be estimated by ultrasound alone or in combination with measurement of serum estradiol levels.
 The combination of both ultrasound and serum estradiol measurement are useful for monitoring follicular growth and maturation, timing of the ovulatory trigger, detecting ovarian enlargement and minimizing the risk of the OHSS and multiple gestation.

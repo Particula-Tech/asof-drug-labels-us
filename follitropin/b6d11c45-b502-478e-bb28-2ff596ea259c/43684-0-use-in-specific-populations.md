@@ -15,7 +15,7 @@ This toxicity was not observed in dams and offspring dosed at a level 5 times th
 ## 8.3 Nursing Mothers
 
 It is not known whether this drug is excreted in human milk.
-Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in the nursing infant from Gonal-f® RFF Redi-ject™, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in the nursing infant from Gonal-f® RFF Redi-ject®, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 
 ## 8.4 Pediatric Use
 
@@ -23,4 +23,4 @@ Safety and effectiveness in pediatric patients have not been established.
 
 ## 8.6 Renal and Hepatic Insufficiency
 
-Safety, efficacy, and pharmacokinetics of Gonal-f® RFF Redi-ject™ in women with renal or hepatic insufficiency have not been established.
+Safety, efficacy, and pharmacokinetics of Gonal-f® RFF Redi-ject® in women with renal or hepatic insufficiency have not been established.
