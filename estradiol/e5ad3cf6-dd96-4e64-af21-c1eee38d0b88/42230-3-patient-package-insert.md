@@ -174,7 +174,7 @@ Vagifem® is a registered trademark owned by Novo Nordisk Health Care AG.
 
 © 2003-2017 Novo Nordisk
 
-Date of Issue: 3/2017
+Date of Issue: 11/2017
 
 For information contact:
 

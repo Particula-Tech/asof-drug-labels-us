@@ -123,7 +123,7 @@ Results of the CE plus MPA substudy, which included 16,608 women (average 63 yea
 These results reflect centrally adjudicated data after an average follow-up of 5.6 years.
 
 Table 8: Relative and Absolute Risk Seen in the Estrogen Plus Progestin Substudy of WHI at an Average of 5.6 YearsAdapted from numerous WHI publications.
-WHI publications can be viewed at www.nhlbi.nih.gov/whi,Results are based on centrally adjudicated data.
+WHI publications can be viewed at www.nhlbi.nih.gov/whi.,Results are based on centrally adjudicated data.
 
 | Event | Relative RiskCE/MPA vs Placebo(95% nCINominal confidence intervals unadjusted for multiple looks and multiple comparisons.) | CE/MPAn=8,506 | Placebon=8,102 |
 | --- | --- | --- | --- |
