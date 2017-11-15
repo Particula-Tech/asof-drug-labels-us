@@ -27,6 +27,6 @@ EPANED is a registered trademark of Silvergate Pharmaceuticals, Inc. Vasotec is 
 
 Manufactured For: Silvergate Pharmaceuticals, Inc. 6251 Greenwood Plaza Blvd., Suite 101 Greenwood Village, CO 80111
 
-U. S. Patent 9669008
+U. S. Patents 9669008, 9808442
 
-EOS-1706
+EOS-1711
