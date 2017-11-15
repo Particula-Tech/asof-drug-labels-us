@@ -1,41 +1,26 @@
-PACKAGE LABEL - PRINCIPAL DISPLAY - Dexamethasone 1 mL Vial Label
-
-NDC 63323-165-01
-
-16501
+PACKAGE LABEL - PRINCIPAL DISPLAY - Dexamethasone 4 mg per 1 mL Vial Label
 
 Dexamethasone Sodium Phosphate Injection, USP
 
-equivalent to
-
 4 mg per mL
 
-Dexamethasone Phosphate
-
-For IM or IV Use, See Insert For Other Routes
+For IM or IV Use.
+See insert for other routes.
+Sterile.
 
 1 mL
 
-Rx only
-
-Sterile, Nonpyrogenic
-
-PACKAGE LABEL - PRINCIPAL DISPLAY - Dexamethasone 1 mL Tray Label
-
-NDC 63323-165-01
+Single Dose Vial Rx only
 
 16501
 
+PACKAGE LABEL - PRINCIPAL DISPLAY - Dexamethasone 4 mg per 1 mL Tray Label NDC 63323-165-01
+
 Dexamethasone Sodium Phosphate Injection, USP
 
-equivalent to
+4 mg per mL*
 
-4 mg per mL
+For intramuscular or intravenous use.
+See insert for other routes.
 
-Dexamethasone Phosphate
-
-For IM or IV Use, See Insert For Other Routes
-
-1 mL
-
-Rx only
+25 X 1 mL Rx only

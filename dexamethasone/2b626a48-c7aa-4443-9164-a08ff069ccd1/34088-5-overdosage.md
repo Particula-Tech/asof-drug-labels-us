@@ -1,4 +1,4 @@
-# OVERDOSAGE
+# OVERDOSAGE:
 
 Reports of acute toxicity and/or death following overdosage of glucocorticoids are rare.
 In the event of overdosage, no specific antidote is available; treatment is supportive and symptomatic.

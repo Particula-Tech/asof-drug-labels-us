@@ -1,4 +1,4 @@
-# CLINICAL PHARMACOLOGY
+# CLINICAL PHARMACOLOGY:
 
 Dexamethasone sodium phosphate has a rapid onset but short duration of action when compared with less soluble preparations.
 Because of this, it is suitable for the treatment of acute disorders responsive to adrenocortical steroid therapy.

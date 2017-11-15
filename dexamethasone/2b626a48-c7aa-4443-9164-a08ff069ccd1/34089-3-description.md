@@ -1,4 +1,4 @@
-# DESCRIPTION
+# DESCRIPTION:
 
 Dexamethasone sodium phosphate is a water-soluble inorganic ester of dexamethasone.
 It occurs as a white or slightly yellow crystalline powder, is odorless or has a slight odor of alcohol, is exceedingly hygroscopic and is freely soluble in water.

@@ -1,6 +1,6 @@
-# DOSAGE AND ADMINISTRATION
+# DOSAGE AND ADMINISTRATION:
 
-Dexamethasone sodium phosphate injection, 4 mg/mL – For intravenous, intramuscular, intra-articular, intralesional, and soft tissue injection.
+Dexamethasone sodium phosphate injection, 4 mg per mL– For intravenous, intramuscular, intra-articular, intralesional, and soft tissue injection.
 
 Dexamethasone sodium phosphate injection can be given directly from the vial, or it can be added to Sodium Chloride Injection or Dextrose Injection and administered by intravenous drip.
 
@@ -11,7 +11,7 @@ Since infusion solutions generally do not contain preservatives, mixtures should
 
 DOSAGE REQUIREMENTS ARE VARIABLE AND MUST BE INDIVIDUALIZED ON THE BASIS OF THE DISEASE AND THE RESPONSE OF THE PATIENT.
 
-## Intravenous and Intramuscular Injection
+## Intravenous and Intramuscular Injection:
 
 The initial dosage of dexamethasone sodium phosphate injection varies from 0.5 to 9 mg a day depending on the disease being treated.
 In less severe diseases doses lower than 0.5 mg may suffice, while in severe diseases doses higher than 9 mg may be required.
@@ -39,8 +39,8 @@ The following dosages of dexamethasone sodium phosphate injection have been sugg
 | --- | --- |
 | Cavanagh1 | 3 mg/kg of body weight per 24 hours by constant intravenous infusion after an initial intravenous injection of 20 mg |
 | Dietzman2 | 2 to 6 mg/kg of body weight as a single intravenous injection |
-| Frank3 | 40 mg initially followed by repeatintravenous injection every 4 to 6 hours while shock persists |
-| Oaks4 | 40 mg initially followed by repeatintravenous injection every 2 to 6 hours while shock persists |
+| Frank3 | 40 mg initially followed by repeat intravenous injection every 4 to 6 hours while shock persists |
+| Oaks4 | 40 mg initially followed by repeat intravenous injection every 2 to 6 hours while shock persists |
 | Schumer5 | 1 mg/kg of body weight as a single intravenous injection |
 
 Administration of high dose corticosteroid therapy should be continued only until the patient’s condition has stabilized and usually not longer than 48 to 72 hours.
@@ -57,7 +57,7 @@ For palliative management of patients with recurrent or inoperable brain tumors,
 
 In acute, self-limited allergic disorders or acute exacerbations of chronic allergic disorders, the following dosage schedule combining parenteral and oral therapy is suggested:
 
-Dexamethasone sodium phosphate injection, 4 mg/mL: first day, 1 or 2 mL (4 or 8 mg), intramuscularly.
+Dexamethasone sodium phosphate injection, 4 mg per mL: first day, 1 or 2 mL (4 or 8 mg), intramuscularly.
 
 Dexamethasone tablets, 0.75 mg: second and third days, 4 tablets in two divided doses each day; fourth day, 2 tablets in two divided doses; fifth and sixth days, 1 tablet each day; seventh day, no treatment; eighth day, follow-up visit.
 
@@ -73,10 +73,10 @@ Frequent intra-articular injection may result in damage to joint tissues.
 
 Some of the usual single doses are:
 
-| Site of Injection | Amount ofDexamethasonePhosphate (mg) |
+| Site of Injection | Amount of Dexamethasone Phosphate (mg) |
 | --- | --- |
-| Large Joints(e.g., Knee) | 2 to 4 |
-| Small Joints(e.g., Interphalangeal,Temporomandibular) | 0.8 to 1 |
+| Large Joints (e.g., Knee) | 2 to 4 |
+| Small Joints (e.g., Interphalangeal, Temporomandibular) | 0.8 to 1 |
 | Bursae | 2 to 3 |
 | Tendon Sheaths | 0.4 to 1 |
 | Soft Tissue Infiltration | 2 to 6 |

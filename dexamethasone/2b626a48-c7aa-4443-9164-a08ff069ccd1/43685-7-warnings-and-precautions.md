@@ -1,4 +1,4 @@
-# WARNINGS
+# WARNINGS:
 
 Because rare instances of anaphylactoid reactions have occurred in patients receiving parenteral corticosteroid therapy, appropriate precautionary measures should be taken prior to administration, especially when the patient has a history of allergy to any drug.
 Anaphylactoid and hypersensitivity reactions have been reported for dexamethasone sodium phosphate (see ADVERSE REACTIONS).
@@ -70,7 +70,7 @@ Infants born of mothers who have received substantial doses of corticosteroids d
 Corticosteroids appear in breast milk and could suppress growth, interfere with endogenous corticosteroid production, or cause other unwanted effects.
 Mothers taking pharmacologic doses of corticosteroids should be advised not to nurse.
 
-# PRECAUTIONS
+# PRECAUTIONS:
 
 This product, like many other steroid formulations, is sensitive to heat.
 Therefore, it should not be autoclaved when it is desirable to sterilize the exterior of the vial.

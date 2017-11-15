@@ -1,4 +1,4 @@
-# REFERENCES
+# REFERENCES:
 
 1. Cavanagh, D.; Singh, K.B.: Endotoxin shock in pregnancy and abortion, in: “Corticosteroids in the Treatment of Shock”, Schumer, W.; Nyhus, L.M., Editors, Urbana, University of Illinois Press, 1970, pp.
    86-96.
