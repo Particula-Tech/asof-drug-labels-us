@@ -8,7 +8,7 @@ It has not been established that the primary action of such drugs in treating ob
 
 ## 12.2 Pharmacodynamics
 
-Typical of amphetamines include central nervous system stimulation and elevation of blood pressure.
+Typical actions of amphetamines include central nervous system stimulation and elevation of blood pressure.
 Tachyphylaxis and tolerance have been demonstrated with all drugs of this class in which these phenomena have been looked for.
 
 ## 12.3 Pharmacokinetics
@@ -19,10 +19,9 @@ Specific Populations
 
 Renal Impairment
 
-Phentermine was not studied in patients with renal impairment.
-The literature reported cumulative urinary excretion of phentermine under uncontrolled urinary pH conditions is 62% to 85%.
-Exposure increases can be expected in patients with renal impairment.
-Use caution when administering phentermine to patients with renal impairment.
+Cumulative urinary excretion of phentermine under uncontrolled urinary pH conditions was 62% to 85%.
+
+Systemic exposure of phentermine may increase up to 91%, 45%, and 22% in patients with severe, moderate, and mild renal impairment, respectively [see Dosage and Administration (2.2) and Use in Specific Populations (8.6)].
 
 Drug Interactions
 

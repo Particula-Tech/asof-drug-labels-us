@@ -7,4 +7,20 @@ Below is a chart of body mass index (BMI) based on various heights and weights.
 BMI is calculated by taking the patient's weight, in kilograms (kg), divided by the patient's height, in meters (m), squared.
 Metric conversions are as follows: pounds ÷ 2.2 = kg; inches × 0.0254 = meters.
 
+BODY MASS INDEX (BMI), kg/m2
+
+| 5'0" | 5'3" | 5'6" | 5'9" | 6'0" | 6'3" |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Weight (pounds) | Height (feet, inches) |  |  |  |  |  |
+| 140 | 27 | 25 | 23 | 21 | 19 | 18 |
+| 150 | 29 | 27 | 24 | 22 | 20 | 19 |
+| 160 | 31 | 28 | 26 | 24 | 22 | 20 |
+| 170 | 33 | 30 | 28 | 25 | 23 | 21 |
+| 180 | 35 | 32 | 29 | 27 | 25 | 23 |
+| 190 | 37 | 34 | 31 | 28 | 26 | 24 |
+| 200 | 39 | 36 | 32 | 30 | 27 | 25 |
+| 210 | 41 | 37 | 34 | 31 | 29 | 26 |
+| 220 | 43 | 39 | 36 | 33 | 30 | 28 |
+| 230 | 45 | 41 | 37 | 34 | 31 | 29 |
+
 The limited usefulness of agents of this class, including phentermine, [see Clinical Pharmacology (12.1, 12.2)] should be measured against possible risk factors inherent in their use such as those described below.

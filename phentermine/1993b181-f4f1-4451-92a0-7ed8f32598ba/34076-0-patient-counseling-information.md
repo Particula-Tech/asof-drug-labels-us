@@ -2,7 +2,7 @@
 
 Patients must be informed that phentermine hydrochloride is a short-term (a few weeks) adjunct in a regimen of weight reduction based on exercise, behavioral modification and caloric restriction in the management of exogenous obesity, and that coadministration of phentermine with other drugs for weight loss is not recommended [see Indications and Usage (1) and Warnings and Precautions (5.1)].
 
-Patients must be instructed on how much phentermine to take, and when and how to take it [see Dosage and Administration (3)].
+Patients must be instructed on how much phentermine to take, and when and how to take it [see Dosage and Administration (2)].
 
 Advise pregnant women and nursing mothers not to use phentermine [see Use in Specific Populations (8.1, 8.3)].
 
@@ -24,5 +24,3 @@ The patients must also be informed about
 
 Tell patients to keep phentermine in a safe place to prevent theft, accidental overdose, misuse or abuse.
 Selling or giving away phentermine may harm others and is against the law.
-
-Regitine® is a registered trademark of CIBA PHARMACEUTICAL PRODUCTS, INC.

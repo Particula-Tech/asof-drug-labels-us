@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-Exogenous Obesity
+## 2.1 Exogenous Obesity
 
 Dosage should be individualized to obtain an adequate response with the lowest effective dose.
 
@@ -11,3 +11,8 @@ For some patients, half tablet (18.75 mg) daily may be adequate, while in some c
 Phentermine is not recommended for use in pediatric patients ≤ 16 years of age.
 
 Late evening medication should be avoided because of the possibility of resulting insomnia.
+
+## 2.2 Dosage in Patients With Renal Impairment
+
+The recommended maximum dosage of phentermine is 15 mg daily for patients with severe renal impairment (eGFR 15 to 29 mL/min/1.73m2).
+Avoid use of phentermine in patients with eGFR less than 15 mL/min/1.73m2 or end-stage renal disease requiring dialysis [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
