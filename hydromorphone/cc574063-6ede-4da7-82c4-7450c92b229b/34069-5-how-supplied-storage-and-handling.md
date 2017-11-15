@@ -1,4 +1,4 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 Hydromorphone Hydrochloride Tablets USP
 
@@ -23,16 +23,3 @@ Storage
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
 Dispense in a tight, light-resistant, child-resistant container as defined in the USP/NF.
-
-Protect from light.
-
-A schedule CS-II Narcotic.
-DEA Order Form is Required.
-
-Distr. by: West-Ward Pharmaceuticals Corp.
-
-Eatontown, NJ 07724
-
-10007362/02
-
-Revised March 2016
