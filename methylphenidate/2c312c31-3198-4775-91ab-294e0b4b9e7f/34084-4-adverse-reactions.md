@@ -115,7 +115,7 @@ Investigations: blood pressure increased
 
 Nervous System Disorders: convulsion, dyskinesia, lethargy, somnolence, serotonin syndrome in combination with serotonergic drugs
 
-Psychiatric Disorders: transient depressed mood, hallucination, nervousness, libido changes
+Psychiatric Disorders: depression, hallucination, nervousness, libido changes
 
 Skin and Subcutaneous Tissue Disorders: alopecia
 
