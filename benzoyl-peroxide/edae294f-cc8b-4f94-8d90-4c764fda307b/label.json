@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA050819"
+  ],
+  "inn": "benzoyl-peroxide",
+  "labeler": "Oceanside Pharmaceuticals",
+  "package_ndcs": [
+    "68682-132-50"
+  ],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "clindamycin phosphate and benzoyl peroxide",
+      "name": "Clindamycin Phosphate and Benzoyl Peroxide"
+    }
+  ],
+  "setid": "edae294f-cc8b-4f94-8d90-4c764fda307b",
+  "source": "dailymed"
+}
