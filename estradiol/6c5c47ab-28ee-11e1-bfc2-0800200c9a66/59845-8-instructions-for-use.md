@@ -72,4 +72,4 @@ This Patient Information and Instructions for Use have been approved by the U.S 
 
 Manufactured by: Noven Pharmaceuticals Inc. Miami, FL 33186
 
-Approved 09/2014
+Approved 11/2017
