@@ -7,22 +7,22 @@
   "labeler": "Genentech, Inc.",
   "package_ndcs": [
     "50242-121-01",
-    "50242-121-02",
-    "50242-121-03",
-    "50242-122-03",
+    "50242-121-87",
     "50242-122-05",
+    "50242-122-06",
+    "50242-122-86",
     "50242-123-01"
   ],
   "products": [
     {
       "form": "CAPSULE",
       "generic": "pirfenidone",
-      "name": "Esbriet"
+      "name": "ESBRIET"
     },
     {
       "form": "TABLET, COATED",
       "generic": "pirfenidone",
-      "name": "Esbriet"
+      "name": "ESBRIET"
     }
   ],
   "setid": "2e8c3537-36d7-4de5-9b5c-7a624b9a9e6e",

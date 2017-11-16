@@ -16,6 +16,7 @@ ESBRIET capsules:
 ESBRIET film-coated tablets:
 
 - NDC 50242-122-05, carton containing 3 bottles, each containing ninety 267 mg tablets (270 tablets total) with a child-resistant closure
+- NDC 50242-122-06, carton containing 1 bottle containing 270 tablets, 267 mg each, with a child-resistant closure
 - NDC 50242-123-01, carton containing 1 bottle containing ninety 801 mg tablets, with a child-resistant closure
 
 Store at 25°C (77°F); excursions permitted to 15–30°C (59–86°F) (see USP Controlled Room Temperature).
