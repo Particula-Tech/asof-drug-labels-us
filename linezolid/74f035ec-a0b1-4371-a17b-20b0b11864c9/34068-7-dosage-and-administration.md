@@ -1,0 +1,28 @@
+# 2 DOSAGE AND ADMINISTRATION
+
+## 2.1 General Dosage and Administration
+
+The recommended dosage for linezolid tablets for the treatment of infections is described in Table 1.
+
+Table 1.
+Dosage Guidelines for Linezolid Tablets
+
+| Infection* | Dosage and Route of Administration |  | Recommended Duration of Treatment (consecutive days) |
+| --- | --- | --- | --- |
+|  | Pediatric Patients† (Birth through 11 Years of Age) | Adults and Adolescents (12 Years and Older) |  |
+| Nosocomial pneumonia | 10 mg/kg oral‡ every 8 hours | 600 mg oral‡ every 12 hours | 10 to 14 |
+| Community-acquired pneumonia, including concurrent bacteremia |  |  |  |
+| Complicated skin and skin structure infections |  |  |  |
+| Vancomycin-resistant Enterococcus faecium infections, including concurrent bacteremia | 10 mg/kg oral‡ every 8 hours | 600 mg oral‡ every 12 hours | 14 to 28 |
+| Uncomplicated skin and skin structure infections | less than 5 yrs: 10 mg/kg oral‡ every 8 hours 5 to 11 yrs: 10 mg/kg oral‡ every 12 hours | Adults: 400 mg oral‡ every 12 hours Adolescents: 600 mg oral‡ every 12 hours | 10 to 14 |
+
+* Due to the designated pathogens [see Indications and Usage (1)]
+
+†Neonates less than 7 days: Most pre-term neonates less than 7 days of age (gestational age less than 34 weeks) have lower systemic linezolid clearance values and larger AUC values than many full-term neonates and older infants.
+These neonates should be initiated with a dosing regimen of 10 mg/kg every 12 hours.
+Consideration may be given to the use of 10 mg/kg every 8 hours regimen in neonates with a sub-optimal clinical response.
+All neonatal patients should receive 10 mg/kg every 8 hours by 7 days of life [see Use in Specific Populations (8.4) and Clinical Pharmacology (12.3)].
+
+‡ Oral dosing using linezolid tablets [see How Supplied/Storage and Handling (16)].
+
+No dose adjustment is necessary when switching from intravenous to oral administration.

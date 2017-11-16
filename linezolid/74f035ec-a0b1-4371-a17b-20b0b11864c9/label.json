@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA205233"
+  ],
+  "inn": "linezolid",
+  "labeler": "Alembic Pharmaceuticals Limited",
+  "package_ndcs": [
+    "46708-183-20",
+    "46708-183-30",
+    "46708-183-31",
+    "46708-183-91"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "linezolid",
+      "name": "Linezolid"
+    }
+  ],
+  "setid": "74f035ec-a0b1-4371-a17b-20b0b11864c9",
+  "source": "dailymed"
+}
