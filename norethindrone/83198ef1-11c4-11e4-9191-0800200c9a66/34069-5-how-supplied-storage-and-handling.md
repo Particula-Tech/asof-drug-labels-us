@@ -14,7 +14,7 @@ CombiPatch estradiol/NETA transdermal delivery system is available in:
 Storage Conditions
 
 Prior to dispensing to the patient, store refrigerated 2°C to 8°C (36°F to 46°F).
-After dispensing to the patient, CombiPatch can be stored at room temperature between 20ºC to 25ºC (66ºF to 77ºF) for up to 6 months.
+After dispensing to the patient, CombiPatch can be stored at room temperature between 66°F to 77°F (20°C to 25°C) for up to 6 months.
 For the Pharmacist: When CombiPatch is dispensed to the patient, place an expiration date on the label.
 The date should not exceed either 6 months from the date of sale or the expiration date, whichever comes first.
 

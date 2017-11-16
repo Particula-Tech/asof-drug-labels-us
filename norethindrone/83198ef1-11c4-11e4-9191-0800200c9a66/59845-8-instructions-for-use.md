@@ -70,4 +70,4 @@ For more information call 1-800-455-8070 or visit www.combipatch.com.
 
 © 2004, 2014, 2015 Noven Pharmaceuticals, Inc.
 
-102538 05/2015
+102538 08/2017

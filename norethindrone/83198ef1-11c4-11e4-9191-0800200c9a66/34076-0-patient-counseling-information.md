@@ -178,4 +178,4 @@ Active Ingredients: estradiol and norethindrone acetate
 
 Inactive Ingredients: acrylic adhesive, silicone adhesive, oleic acid NF, povidone USP, dipropylene glycol, polyester release protective liner
 
-102538 05/2015
+102538 08/2017
