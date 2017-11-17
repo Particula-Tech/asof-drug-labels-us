@@ -16,9 +16,9 @@ The risk of suicidal thoughts or behavior was generally consistent among drugs i
 The finding of increased risk with AEDs of varying mechanisms of action and across a range of indications suggests that the risk applies to all AEDs used for any indication.
 The risk did not vary substantially by age (5-100 years) in the clinical trials analyzed.
 
-Table 1 shows absolute and relative risk by indication for all evaluated AEDs.
+Table 2 shows absolute and relative risk by indication for all evaluated AEDs.
 
-Table 1 Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
+Table 2: Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
 
 | Indication | Placebo Patients with Events Per 1000 Patients | Drug Patients with Events Per 1000 Patients | Relative Risk: Incidence of Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events Per 1000 Patients |
 | --- | --- | --- | --- | --- |
@@ -40,19 +40,20 @@ Behaviors of concern should be reported immediately to healthcare providers.
 
 VIMPAT may cause dizziness and ataxia.
 
-In patients with partial-onset seizures taking 1 to 3 concomitant AEDs, dizziness was experienced by 25% of patients randomized to the recommended doses (200 to 400 mg/day) of VIMPAT (compared with 8% of placebo patients) and was the adverse event most frequently leading to discontinuation (3%).
+In adult patients with partial-onset seizures taking 1 to 3 concomitant AEDs, dizziness was experienced by 25% of patients randomized to the recommended doses (200 to 400 mg/day) of VIMPAT (compared with 8% of placebo patients) and was the adverse event most frequently leading to discontinuation (3%).
 Ataxia was experienced by 6% of patients randomized to the recommended doses (200 to 400 mg/day) of VIMPAT (compared to 2% of placebo patients).
 The onset of dizziness and ataxia was most commonly observed during titration.
 There was a substantial increase in these adverse events at doses higher than 400 mg/day [see Adverse Reactions (6.1)].
+Dizziness and ataxia were also observed in pediatric clinical trials.
 
 ## 5.3 Cardiac Rhythm and Conduction Abnormalities
 
 PR interval prolongation
 
-Dose-dependent prolongations in PR interval with VIMPAT have been observed in clinical studies in patients and in healthy volunteers [see Clinical Pharmacology (12.2)].
-In adjunctive clinical trials in patients with partial-onset epilepsy, asymptomatic first-degree atrioventricular (AV) block was observed as an adverse reaction in 0.4% (4/944) of patients randomized to receive VIMPAT and 0% (0/364) of patients randomized to receive placebo.
-In clinical trials in patients with diabetic neuropathy, asymptomatic first-degree AV block was observed as an adverse reaction in 0.5% (5/1023) of patients receiving VIMPAT and 0% (0/291) of patients receiving placebo.
-Second degree and complete AV block have been reported in patients in pain studies and in patients with seizures.
+Dose-dependent prolongations in PR interval with VIMPAT have been observed in clinical studies in adult patients and in healthy volunteers [see Clinical Pharmacology (12.2)].
+In adjunctive clinical trials in adult patients with partial-onset seizures, asymptomatic first-degree atrioventricular (AV) block was observed as an adverse reaction in 0.4% (4/944) of patients randomized to receive VIMPAT and 0% (0/364) of patients randomized to receive placebo.
+In clinical trials in adult patients with diabetic neuropathy, for which VIMPAT is not indicated, asymptomatic first-degree AV block was observed as an adverse reaction in 0.5% (5/1023) of patients receiving VIMPAT and 0% (0/291) of patients receiving placebo.
+Second degree and complete AV block have been reported in patients with seizures.
 When VIMPAT is given with other drugs that prolong the PR interval, further PR prolongation is possible.
 
 VIMPAT should be used with caution in patients with known conduction problems (e.g., marked first-degree AV block, second-degree or higher AV block and sick sinus syndrome without pacemaker), sodium channelopathies (e.g., Brugada Syndrome), on concomitant medications that prolong PR interval, or with severe cardiac disease such as myocardial ischemia or heart failure, or structural heart disease.
@@ -63,19 +64,19 @@ There were two postmarketing reports of third degree AV block in patients with s
 
 Atrial fibrillation and Atrial flutter
 
-In the short-term investigational trials of VIMPAT in epilepsy patients, there were no cases of atrial fibrillation or flutter.
-Both atrial fibrillation and atrial flutter have been reported in open label epilepsy trials and in postmarketing experience.
-In patients with diabetic neuropathy, 0.5% of patients treated with VIMPAT experienced an adverse reaction of atrial fibrillation or atrial flutter, compared to 0% of placebo-treated patients.
+In the short-term investigational trials of VIMPAT in adult patients with partial-onset seizures there were no cases of atrial fibrillation or flutter.
+Both atrial fibrillation and atrial flutter have been reported in open label partial-onset seizure trials and in postmarketing experience.
+In adult patients with diabetic neuropathy, 0.5% of patients treated with VIMPAT experienced an adverse reaction of atrial fibrillation or atrial flutter, compared to 0% of placebo-treated patients.
 VIMPAT administration may predispose to atrial arrhythmias (atrial fibrillation or flutter), especially in patients with diabetic neuropathy and/or cardiovascular disease.
 
 ## 5.4 Syncope
 
-In the short-term controlled trials of VIMPAT in epilepsy patients with no significant system illnesses, there was no increase in syncope compared to placebo.
-In the short-term controlled trials of VIMPAT in patients with diabetic neuropathy, 1.2% of patients who were treated with VIMPAT reported an adverse reaction of syncope or loss of consciousness, compared to 0% of placebo-treated patients with diabetic neuropathy.
+In the short-term controlled trials of VIMPAT in adult patients with partial-onset seizures with no significant system illnesses, there was no increase in syncope compared to placebo.
+In the short-term controlled trials in adult patients with diabetic neuropathy, for which VIMPAT is not indicated, 1.2% of patients who were treated with VIMPAT reported an adverse reaction of syncope or loss of consciousness, compared with 0% of placebo-treated patients with diabetic neuropathy.
 Most of the cases of syncope were observed in patients receiving doses above 400 mg/day.
 The cause of syncope was not determined in most cases.
 However, several were associated with either changes in orthostatic blood pressure, atrial flutter/fibrillation (and associated tachycardia), or bradycardia.
-Cases of syncope have also been observed in open-label clinical epilepsy studies.
+Cases of syncope have also been observed in open-label clinical partial-onset seizure studies in adult and pediatric patients.
 These cases were associated with a history of risk factors for cardiac disease and the use of drugs that slow AV conduction.
 
 ## 5.5 Withdrawal of Antiepileptic Drugs (AEDs)
@@ -84,7 +85,7 @@ As with all AEDs, VIMPAT should be withdrawn gradually (over a minimum of 1 week
 
 ## 5.6 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multi-Organ Hypersensitivity
 
-One case of symptomatic hepatitis and nephritis was observed among 4011 subjects exposed to VIMPAT during clinical development.
+One case of symptomatic hepatitis and nephritis was observed among 4011 adult subjects exposed to VIMPAT during clinical development.
 The event occurred in a healthy volunteer, 10 days after stopping VIMPAT treatment.
 The subject was not taking any concomitant medication and potential known viral etiologies for hepatitis were ruled out.
 The subject fully recovered within a month, without specific treatment.
@@ -100,7 +101,9 @@ It is important to note that early manifestations of hypersensitivity (e.g., fev
 If such signs or symptoms are present, the patient should be evaluated immediately.
 VIMPAT should be discontinued if an alternative etiology for the signs or symptoms cannot be established.
 
-## 5.7 Phenylketonurics
+## 5.7 Risks in Patients with Phenylketonuria
 
+Phenylalanine can be harmful in patients with phenylketonuria (PKU).
 VIMPAT oral solution contains aspartame, a source of phenylalanine.
 A 200 mg dose of VIMPAT oral solution (equivalent to 20 mL) contains 0.32 mg of phenylalanine.
+Before prescribing VIMPAT oral solution to a patient with PKU, consider the combined daily amount of phenylalanine from all sources, including VIMPAT oral solution.

@@ -2,73 +2,88 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C
+Pregnancy Exposure Registry
+
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to antiepileptic drugs (AEDs), such as VIMPAT, during pregnancy.
+Encourage women who are taking VIMPAT during pregnancy to enroll in the North American Antiepileptic Drug (NAAED) pregnancy registry by calling 1-888-233-2334 or visiting http://www.aedpregnancyregistry.org/.
+
+Risk Summary
+
+There are no adequate data on the developmental risks associated with the use of VIMPAT in pregnant women.
 
 Lacosamide produced developmental toxicity (increased embryofetal and perinatal mortality, growth deficit) in rats following administration during pregnancy.
 Developmental neurotoxicity was observed in rats following administration during a period of postnatal development corresponding to the third trimester of human pregnancy.
-These effects were observed at doses associated with clinically relevant plasma exposures.
+These effects were observed at doses associated with clinically relevant plasma exposures (see Data).
+
+In the U.S. general population the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+The background risk of major birth defects and miscarriage for the indicated population is unknown.
+
+Data
+
+Animal Data
+
+Oral administration of lacosamide to pregnant rats (20, 75, or 200 mg/kg/day) and rabbits (6.25, 12.5, or 25 mg/kg/day) during the period of organogenesis did not produce any effects on the incidences of fetal structural abnormalities.
+However, the maximum doses evaluated were limited by maternal toxicity in both species and embryofetal death in rats.
+These doses were associated with maternal plasma lacosamide exposures (AUC) approximately 2 and 1 times (rat and rabbit, respectively) that in humans at the maximum recommended human dose (MRHD) of 400 mg/day.
+
+In two studies in which lacosamide (25, 70, or 200 mg/kg/day and 50, 100, or 200 mg/kg/day) was orally administered to rats throughout pregnancy and lactation, increased perinatal mortality and decreased body weights in the offspring were observed at the highest dose tested.
+The no-effect dose for pre- and postnatal developmental toxicity in rats (70 mg/kg/day) was associated with a maternal plasma lacosamide AUC similar to that in humans at the MRHD.
+
+Oral administration of lacosamide (30, 90, or 180 mg/kg/day) to rats during the neonatal and juvenile periods of development resulted in decreased brain weights and long-term neurobehavioral changes (altered open field performance, deficits in learning and memory).
+The early postnatal period in rats is generally thought to correspond to late pregnancy in humans in terms of brain development.
+The no-effect dose for developmental neurotoxicity in rats was associated with a plasma lacosamide AUC less than that in humans at the MRHD.
+
+In Vitro Data
 
 Lacosamide has been shown in vitro to interfere with the activity of collapsin response mediator protein-2 (CRMP-2), a protein involved in neuronal differentiation and control of axonal outgrowth.
-Potential related adverse effects on CNS development cannot be ruled out.
+Potential adverse effects on CNS development related to this activity cannot be ruled out.
 
-There are no adequate and well-controlled studies in pregnant women.
-VIMPAT should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+## 8.2 Lactation
 
-Oral administration of lacosamide to pregnant rats (20, 75, or 200 mg/kg/day) and rabbits (6.25, 12.5, or 25 mg/kg/day) during the period of organogenesis did not produce any teratogenic effects.
-However, the maximum doses evaluated were limited by maternal toxicity in both species and embryofetal death in rats.
-These doses were associated with maternal plasma lacosamide exposures [area under the plasma-time concentration curve; (AUC)] ≈2 and 1 times (rat and rabbit, respectively) that in humans at the maximum recommended human dose (MRHD) of 400 mg/day.
+Risk Summary
 
-When lacosamide (25, 70, or 200 mg/kg/day) was orally administered to rats throughout gestation, parturition, and lactation, increased perinatal mortality and decreased body weights were observed in the offspring at the highest dose.
-The no-effect dose for pre- and post-natal developmental toxicity in rats (70 mg/kg/day) was associated with a maternal plasma lacosamide AUC approximately equal to that in humans at the MRHD.
+There are no data on the presence of lacosamide in human milk, the effects on the breastfed infant, or the effects on milk production.
+Studies in lactating rats have shown excretion of lacosamide and/or its metabolites in milk.
 
-Oral administration of lacosamide (30, 90, or 180 mg/kg/day) to rats during the neonatal and juvenile periods of postnatal development resulted in decreased brain weights and long-term neurobehavioral changes (altered open field performance, deficits in learning and memory).
-The early postnatal period in rats is generally thought to correspond to late pregnancy in humans in terms of brain development.
-The no-effect dose for developmental neurotoxicity in rats was associated with a plasma lacosamide AUC approximately 0.5 times that in humans at the MRHD.
-
-Pregnancy Registry
-
-Physicians are advised to recommend that pregnant patients taking VIMPAT enroll in the North American Antiepileptic Drug (NAAED) pregnancy registry.
-This can be done by calling the toll free number 1-888-233-2334, and must be done by patients themselves.
-Information on the registry can also be found at the website http://www.aedpregnancyregistry.org/.
-
-## 8.2 Labor and Delivery
-
-The effects of VIMPAT on labor and delivery in pregnant women are unknown.
-In a pre- and post-natal study in rats, there was a tendency for prolonged gestation in all lacosamide treated groups at plasma exposures (AUC) at or below the plasma AUC in humans at the maximum recommended human dose of 400 mg/day.
-
-## 8.3 Nursing Mothers
-
-Studies in lactating rats have shown that lacosamide and/or its metabolites are excreted in milk.
-It is not known whether VIMPAT is excreted in human milk.
-Because many drugs are excreted into human milk, a decision should be made whether to discontinue nursing or to discontinue VIMPAT, taking into account the importance of the drug to the mother.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for VIMPAT and any potential adverse effects on the breastfed infant from VIMPAT or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of VIMPAT in pediatric patients less than 17 years of age have not been established.
+Safety and effectiveness of VIMPAT tablets and oral solution have been established in pediatric patients 4 to less than 17 years of age.
+Use of VIMPAT in this age group is supported by evidence from adequate and well-controlled studies of VIMPAT in adults with partial-onset seizures, pharmacokinetic data from adult and pediatric patients, and safety data in 328 pediatric patients 4 to less than 17 years of age [see Adverse Reactions (6.1) and Clinical Pharmacology (12.3)].
+
+Safety of VIMPAT injection in pediatric patients has not been established.
+
+Safety and effectiveness in pediatric patients below the age of 4 years have not been established.
+
+Animal Data
 
 Lacosamide has been shown in vitro to interfere with the activity of collapsin response mediator protein-2 (CRMP-2), a protein involved in neuronal differentiation and control of axonal outgrowth.
 Potential related adverse effects on CNS development cannot be ruled out.
-Administration of lacosamide to rats during the neonatal and juvenile periods of postnatal development resulted in decreased brain weights and long-term neurobehavioral changes (altered open field performance, deficits in learning and memory).
-The no-effect dose for developmental neurotoxicity in rats was associated with a plasma lacosamide exposure (AUC) approximately 0.5 times the human plasma AUC at the maximum recommended human dose of 400 mg/day.
+Administration of lacosamide to rats during the neonatal and juvenile periods of postnatal development (approximately equivalent to neonatal through adolescent development in humans) resulted in decreased brain weights and long-term neurobehavioral changes (altered open field performance, deficits in learning and memory).
+The no-effect dose for developmental neurotoxicity in rats was associated with a plasma lacosamide exposure (AUC) less than that in humans at the maximum recommended human dose of 400 mg/day.
 
 ## 8.5 Geriatric Use
 
-There were insufficient numbers of elderly patients enrolled in partial-onset seizure trials (n=18) to adequately assess the effectiveness of VIMPAT in this population.
+There were insufficient numbers of elderly patients enrolled in partial-onset seizure trials (n=18) to adequately determine whether they respond differently from younger patients.
 
 No VIMPAT dose adjustment based on age is necessary.
-In elderly patients, dose titration should be performed with caution [see Dosage and Administration (2.2), Clinical Pharmacology (12.3)].
+In elderly patients, dose titration should be performed with caution, usually starting at the lower end of the dosing range, reflecting the greater frequency of decreased hepatic function, decreased renal function, increased cardiac conduction abnormalities or polypharmacy [see Dosage and Administration (2.1, 2.3, 2.4), Clinical Pharmacology (12.3)].
 
 ## 8.6 Renal Impairment
 
-A maximum dose of 300 mg per day is recommended for patients with severe renal impairment (CLCR≤30 mL/min) and in patients with endstage renal disease.
+Based on data in adults, no dose adjustment is necessary in adult and pediatric patients with mild to moderate renal impairment (CL CR ≥30 mL/min).
+In adult and pediatric patients with severe renal impairment (CL CR <30 mL/min) and in those with end-stage renal disease, a reduction of 25% of the maximum dosage is recommended [see Dosage and Administration (2.3), Clinical Pharmacology (12.3)].
+
+In all patients with renal impairment, dose titration should be performed with caution.
+
 VIMPAT is effectively removed from plasma by hemodialysis.
 Dosage supplementation of up to 50% following hemodialysis should be considered.
-In all renally impaired patients, dose titration should be performed with caution [see Dosage and Administration (2.3), Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 
-Patients with mild to moderate hepatic impairment should be observed closely during dose titration.
-A maximum dose of 300 mg per day is recommended for patients with mild to moderate hepatic impairment.
+Based on data in adults, for adult and pediatric patients with mild to moderate hepatic impairment, a reduction of 25% of the maximum dosage is recommended.
+Patients with mild to moderate hepatic impairment should be observed closely during dose titration [see Dosage and Administration (2.4), Clinical Pharmacology (12.3)].
+
 The pharmacokinetics of lacosamide has not been evaluated in severe hepatic impairment.
-VIMPAT use is not recommended in patients with severe hepatic impairment [see Dosage and Administration (2.4), Clinical Pharmacology (12.3)].
-Patients with co-existing hepatic and renal impairment should be monitored closely during dose titration.
+VIMPAT use is not recommended in patients with severe hepatic impairment.

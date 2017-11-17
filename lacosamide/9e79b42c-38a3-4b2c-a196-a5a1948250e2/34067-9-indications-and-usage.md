@@ -1,5 +1,5 @@
 # 1 INDICATIONS AND USAGE
 
-VIMPAT is indicated in patients 17 years and older with partial-onset seizures as monotherapy or adjunctive therapy.
+VIMPAT is indicated for the treatment of partial-onset seizures in patients 4 years of age and older.
 
-VIMPAT injection for intravenous use is an alternative when oral administration is temporarily not feasible.
+As the safety of VIMPAT injection in pediatric patients has not been established, VIMPAT injection is indicated for the treatment of partial-onset seizures only in adult patients (17 years of age and older).
