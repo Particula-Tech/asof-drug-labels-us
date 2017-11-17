@@ -1,4 +1,4 @@
-# 2. DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
 ## 2.1 Dosage in Adult Patients with Normal Renal Function
 
@@ -7,24 +7,24 @@ The usual dose of levofloxacin tablets is 250 mg, 500 mg, or 750 mg administered
 These recommendations apply to patients with creatinine clearance ≥ 50 mL/min.
 For patients with creatinine clearance < 50 mL/min, adjustments to the dosing regimen are required [see Dosage and Administration (2.3)].
 
-Table 1Dosage in Adult Patients with Normal Renal Function (creatinine clearance ≥ 50 mL/min)
+Table 1 Dosage in Adult Patients with Normal Renal Function (creatinine clearance ≥ 50 mL/min)
 
 | Type of Infection* | Dosed Every 24 hours | Duration (days)† |
 | --- | --- | --- |
 | Nosocomial Pneumonia | 750 mg | 7 to 14 |
 | Community Acquired Pneumonia‡ | 500 mg | 7 to 14 |
 | Community Acquired Pneumonia§ | 750 mg | 5 |
-| Acute Bacterial Sinusitis | 750 mg | 5 |
-|  | 500 mg | 10 to 14 |
-| Acute Bacterial Exacerbation of Chronic Bronchitis | 500 mg | 7 |
 | Complicated Skin and Skin Structure Infections (SSSI) | 750 mg | 7 to 14 |
 | Uncomplicated SSSI | 500 mg | 7 to 10 |
 | Chronic Bacterial Prostatitis | 500 mg | 28 |
+| Inhalational Anthrax (Post-Exposure), adult and pediatric patients > 50 kgÞ, ß Pediatric patients < 50 kg and ≥ 6 months of ageÞ, ß | 500 mg see Table 2 below (2.2) | 60 ß 60 ß |
+| Plague, adult and pediatric patients > 50 kgà Pediatric patients < 50 kg and ≥ 6 months of age | 500 mg see Table 2 below (2.2) | 10 to 14 10 to 14 |
 | Complicated Urinary Tract Infection (cUTI) or Acute Pyelonephritis (AP)¶ | 750 mg | 5 |
 | Complicated Urinary Tract Infection (cUTI) or Acute Pyelonephritis (AP)# | 250 mg | 10 |
 | Uncomplicated Urinary Tract Infection | 250 mg | 3 |
-| Inhalational Anthrax (Post-Exposure), adult and pediatric patients > 50 kg Þ,ß Pediatric patients < 50 kg and ≥ 6 months of ageÞ,ß | 500 mg see Table 2 below (2.2) | 60ß 60ß |
-| Plague, adult and pediatric patients > 50 kga Pediatric patients < 50 kg and ≥ 6 months of age | 500 mg See Table 2 below (2.2) | 10 to 14 10 to 14 |
+| Acute Bacterial Exacerbation of Chronic Bronchitis (ABECB) | 500 mg | 7 |
+| Acute Bacterial Sinusitis (ABS) | 750 mg | 5 |
+|  | 500 mg | 10 to 14 |
 | *Due to the designated pathogens [see Indications and Usage (1)]. |  |  |
 | †Sequential therapy (intravenous to oral) may be instituted at the discretion of the physician. |  |  |
 | ‡Due to methicillin-susceptible Staphylococcus aureus, Streptococcus pneumoniae (including multi-drug-resistant isolates [MDRSP]), Haemophilus influenzae, Haemophilus parainfluenzae, Klebsiella pneumoniae, Moraxella catarrhalis, Chlamydophila pneumoniae, Legionella pneumophila, or Mycoplasma pneumoniae [see Indications and Usage (1.2)]. |  |  |
@@ -33,30 +33,31 @@ Table 1Dosage in Adult Patients with Normal Renal Function (creatinine clearance
 | #This regimen is indicated for cUTI due to Enterococcus faecalis, Enterococcus cloacae, Escherichia coli, Klebsiella pneumoniae, Proteus mirabilis, Pseudomonas aeruginosa; and for AP due to E. coli. |  |  |
 | ÞDrug administration should begin as soon as possible after suspected or confirmed exposure to aerosolized |  |  |
 | B. anthracis. This indication is based on a surrogate endpoint. Levofloxacin plasma concentrations achieved in humans are reasonably likely to predict clinical benefit [see Clinical Studies (14.9)]. |  |  |
-| ßThe safety of levofloxacin tablets in adults for durations of therapy beyond 28 days or in pediatric patients for durations beyond 14 days has not been studied. An increased incidence of musculoskeletal adverse events compared to controls has been observed in pediatric patients [see Warnings and Precautions (5.10), Use in Specific Populations (8.4), and Clinical Studies (14.9)] Prolonged levofloxacin tablets therapy should only be used when the benefit outweighs the risk. |  |  |
-| aDrug administration should begin as soon as possible after suspected or confirmed exposure to Yersinia pestis. Higher doses of levofloxacin tablet typically used for treatment of pneumonia can be used for treatment of plague, if clinically indicated. |  |  |
+| ßThe safety of levofloxacin tabletsin adults for durations of therapy beyond 28 days or in pediatric patients for durations beyond 14 days has not been studied. An increased incidence of musculoskeletal adverse events compared to controls has been observed in pediatric patients [see Warnings and Precautions (5.10), Use in Specific Populations (8.4), and Clinical Studies (14.9)] Prolonged levofloxacin tabletstherapy should only be used when the benefit outweighs the risk. |  |  |
+| a Drug administration should begin as soon as possible after suspected or confirmed exposure to Yersinia pestis. Higher doses of levofloxacin tablet typically used for treatment of pneumonia can be used for treatment of plague, if clinically indicated. |  |  |
 
 ## 2.2 Dosage in Pediatric Patients
 
 The dosage in pediatric patients ≥ 6 months of age is described below in Table 2.
 
-Table 2Dosage in Pediatric Patients ≥ 6 months of age
+Table 2 Dosage in Pediatric Patients ≥ 6 months of age
 
 | Type of Infection* | Dose | Freq. Once every | Duration† |
 | --- | --- | --- | --- |
-| Inhalational Anthrax (post-exposure)‡,§ Pediatric patients > 50 kg Pediatric patients < 50 kg and ≥ 6 months of age | 500 mg 8 mg/kg (not to exceed 250 mg per dose) | 24 hr 12 hr | 60 days§ 60 days§ |
+| Inhalational Anthrax (post-exposure)‡,§ Pediatric patients > 50 kg | 500 mg | 24 hr | 60 days§ |
+| Pediatric patients < 50 kg and ≥ 6 months of age | 8 mg/kg (not to exceed 250 mg per dose) | 12 hr | 60 days§ |
 | Plague¶ |  |  |  |
 | Pediatric patients > 50 kg | 500 mg | 24 hr | 10 to 14 days |
 | Pediatric patients < 50 kg and ≥ 6 months of age | 8 mg/kg (not to exceed 250 mg per dose) | 12 hr | 10 to 14 days |
-| *Due to Bacillus anthracis [see Indications and Usage (1.13)] and Yersinia pestis [see Indications and Usage (1.14)]. |  |  |  |
+| * Due to Bacillus anthracis [see Indications and Usage (1.13)] and Yersinia pestis [see Indications and Usage (1.14)]. |  |  |  |
 | †Sequential therapy (intravenous to oral) may be instituted at the discretion of the physician. |  |  |  |
 | ‡Drug administration should begin as soon as possible after suspected or confirmed exposure to aerosolized B. anthracis. This indication is based on a surrogate endpoint. Levofloxacin plasma concentrations achieved in humans are reasonably likely to predict clinical benefit [see Clinical Studies (14.9)] |  |  |  |
-| §The safety of levofloxacin tablets in pediatric patients for durations of therapy beyond 14 days has not been studied. An increased incidence of musculoskeletal adverse events compared to controls has been observed in pediatric patients [see Warnings and Precautions (5.10), Use in Specific Populations (8.4), and Clinical Studies (14.9)]. Prolonged levofloxacin tablets therapy should only be used when the benefit outweighs the risk. |  |  |  |
+| §The safety of levofloxacin tabletsin pediatric patients for durations of therapy beyond 14 days has not been studied. An increased incidence of musculoskeletal adverse events compared to controls has been observed in pediatric patients [see Warnings and Precautions (5.10), Use in Specific Populations (8.4), and Clinical Studies (14.9)]. Prolonged levofloxacin tabletstherapy should only be used when the benefit outweighs the risk. |  |  |  |
 | ¶Drug administration should begin as soon as possible after suspected or confirmed exposure to Yersinia pestis. |  |  |  |
 
 ## 2.3 Dosage Adjustment in Adults with Renal Impairment
 
-Administer levofloxacin tabletswith caution in the presence of renal insufficiency.
+Administer levofloxacin tablets with caution in the presence of renal insufficiency.
 Careful clinical observation and appropriate laboratory studies should be performed prior to and during therapy since elimination of levofloxacin may be reduced.
 
 No adjustment is necessary for patients with a creatinine clearance ≥ 50 mL/min.
@@ -65,7 +66,7 @@ In patients with impaired renal function (creatinine clearance < 50 mL/min), adj
 
 Table 3 shows how to adjust dose based on creatinine clearance.
 
-Table 3Dosage Adjustment in Adult Patients with Renal Impairment (creatinine clearance < 50 mL/min)
+Table 3 Dosage Adjustment in Adult Patients with Renal Impairment (creatinine clearance < 50 mL/min)
 
 | Dosage in Normal Renal Function Every 24 hours | Creatinine Clearance 20 to 49 mL/min | Creatinine Clearance 10 to 19 mL/min | Hemodialysis or Chronic Ambulatory Peritoneal Dialysis (CAPD) |
 | --- | --- | --- | --- |
@@ -77,7 +78,7 @@ Table 3Dosage Adjustment in Adult Patients with Renal Impairment (creatinine cle
 
 Levofloxacin Tablets
 
-Levofloxacin tablets should be administered at least two hours before or two hours after antacids containing magnesium, aluminum, as well as sucralfate, metal cations such as iron, and multivitamin preparations with zinc or didanosine chewable/buffered tablets or the pediatric powder for oral solution [see Drug Interactions (7.1) and Patient Counseling Information (17.2)].
+Levofloxacin tablets should be administered at least two hours before or two hours after antacids containing magnesium, aluminum, as well as sucralfate, metal cations such as iron, and multivitamin preparations with zinc or didanosine chewable/buffered tablets [see Drug Interactions (7.1) and Patient Counseling Information (17.2)].
 
 ## 2.5 Administration Instructions
 

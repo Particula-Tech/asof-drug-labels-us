@@ -1,18 +1,6 @@
-# 1. INDICATIONS AND USAGE
-
-To reduce the development of drug-resistant bacteria and maintain the effectiveness of levofloxacin tablets and other antibacterial drugs, levofloxacin tablets should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
-When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy.
-In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy.
+# 1 INDICATIONS AND USAGE
 
 Levofloxacin tablets are indicated for the treatment of adults (≥ 18 years of age) with mild, moderate, and severe infections caused by susceptible isolates of the designated microorganisms in the conditions listed in this section.
-
-Culture and Susceptibility Testing
-
-Appropriate culture and susceptibility tests should be performed before treatment in order to isolate and identify organisms causing the infection and to determine their susceptibility to levofloxacin [see Microbiology (12.4)].
-Therapy with levofloxacin tablets may be initiated before results of these tests are known; once results become available, appropriate therapy should be selected.
-
-As with other drugs in this class, some isolates of Pseudomonas aeruginosa may develop resistance fairly rapidly during treatment with levofloxacin tablets.
-Culture and susceptibility testing performed periodically during therapy will provide information about the continued susceptibility of the pathogens to the antimicrobial agent and also the possible emergence of bacterial resistance.
 
 ## 1.1 Nosocomial Pneumonia
 
@@ -24,58 +12,78 @@ Where Pseudomonas aeruginosa is a documented or presumptive pathogen, combinatio
 
 Levofloxacin tablet is indicated for the treatment of community-acquired pneumonia due to methicillin-susceptible Staphylococcus aureus, Streptococcus pneumoniae (including multi-drug-resistant Streptococcus pneumoniae [MDRSP]), Haemophilus influenzae, Haemophilus parainfluenzae, Klebsiella pneumoniae, Moraxella catarrhalis, Chlamydophila pneumoniae, Legionella pneumophila, or Mycoplasma pneumoniae [see Dosage and Administration (2.1) and Clinical Studies (14.2)].
 
-MDRSP isolates are isolates resistant to two or more of the following antibacterials: penicillin (MIC ≥ 2 mcg/mL), 2nd generation cephalosporins, e.g., cefuroxime, macrolides, tetracyclines and trimethoprim/sulfamethoxazole.
+MDRSP isolates are isolates resistant to two or more of the following antibacterials: penicillin (MIC ≥ 2 mcg/mL), 2ndgeneration cephalosporins, e.g., cefuroxime, macrolides, tetracyclines and trimethoprim/sulfamethoxazole.
 
-## 1.3 Community-Acquired Pneumonia: 5 day Treatment Regimen
+## 1.3 Community-Acquired Pneumonia: 5-day Treatment Regimen
 
 Levofloxacin tablet is indicated for the treatment of community-acquired pneumonia due to Streptococcus pneumoniae (excluding multi-drug-resistant isolates [MDRSP]), Haemophilus influenzae, Haemophilus parainfluenzae, Mycoplasma pneumoniae, or Chlamydophila pneumoniae [see Dosage and Administration (2.1) and Clinical Studies (14.3)].
 
-## 1.4 Acute Bacterial Sinusitis: 5 day and 10 to 14 day Treatment Regimens
-
-Levofloxacin tablet is indicated for the treatment of acute bacterial sinusitis due to Streptococcus pneumoniae, Haemophilus influenzae, or Moraxella catarrhalis [see Clinical Studies (14.4)].
-
-## 1.5 Acute Bacterial Exacerbation of Chronic Bronchitis
-
-Levofloxacin tablet is indicated for the treatment of acute bacterial exacerbation of chronic bronchitis due to methicillin-susceptible Staphylococcus aureus, Streptococcus pneumoniae, Haemophilus influenzae, Haemophilus parainfluenzae, or Moraxella catarrhalis.
-
-## 1.6 Complicated Skin and Skin Structure Infections
+## 1.4 Complicated Skin and Skin Structure Infections
 
 Levofloxacin tablet is indicated for the treatment of complicated skin and skin structure infections due to methicillin-susceptible Staphylococcus aureus, Enterococcus faecalis, Streptococcus pyogenes, or Proteus mirabilis [see Clinical Studies (14.5)].
 
-## 1.7 Uncomplicated Skin and Skin Structure Infections
+## 1.5 Uncomplicated Skin and Skin Structure Infections
 
 Levofloxacin tablet is indicated for the treatment of uncomplicated skin and skin structure infections (mild to moderate) including abscesses, cellulitis, furuncles, impetigo, pyoderma, wound infections, due to methicillin-susceptible Staphylococcus aureus, or Streptococcus pyogenes.
 
-## 1.8 Chronic Bacterial Prostatitis
+## 1.6 Chronic Bacterial Prostatitis
 
 Levofloxacin tablet is indicated for the treatment of chronic bacterial prostatitis due to Escherichia coli, Enterococcus faecalis, or methicillin-susceptible Staphylococcus epidermidis [see Clinical Studies (14.6)].
 
-## 1.9 Complicated Urinary Tract Infections: 5 day Treatment Regimen
+## 1.7 Inhalational Anthrax (Post-Exposure)
+
+Levofloxacin tablet is indicated for inhalational anthrax (post-exposure) to reduce the incidence or progression of disease following exposure to aerosolized Bacillus anthracis.
+The effectiveness of levofloxacin tablet is based on plasma concentrations achieved in humans, a surrogate endpoint reasonably likely to predict clinical benefit.
+Levofloxacin tablet has not been tested in humans for the post-exposure prevention of inhalation anthrax.
+The safety of levofloxacin tablets in adults for durations of therapy beyond 28 days or in pediatric patients for durations of therapy beyond 14 days has not been studied.
+Prolonged levofloxacin tablets therapy should only be used when the benefit outweighs the risk [see Dosage and Administration (2.1, 2.2) and Clinical Studies (14.9)].
+
+## 1.8 Plague
+
+Levofloxacin tablet, USP is indicated for treatment of plague, including pneumonic and septicemic plague, due to Yersinia pestis (Y. pestis) and prophylaxis for plague in adults and pediatric patients, 6 months of age and older.
+Efficacy studies of Levofloxacin tablets could not be conducted in humans with plague for ethical and feasibility reasons.
+Therefore, approval of this indication was based on an efficacy study conducted in animals [see Dosage and Administration (2.1, 2.2) and Clinical Studies (14.10)].
+
+## 1.9 Complicated Urinary Tract Infections: 5-day Treatment Regimen
 
 Levofloxacin tablet is indicated for the treatment of complicated urinary tract infections due to Escherichia coli, Klebsiella pneumoniae, or Proteus mirabilis [see Clinical Studies (14.7)].
 
-## 1.10 Complicated Urinary Tract Infections: 10 day Treatment Regimen
+## 1.10 Complicated Urinary Tract Infections: 10-day Treatment Regimen
 
 Levofloxacin tablet is indicated for the treatment of complicated urinary tract infections (mild to moderate) due to Enterococcus faecalis, Enterobacter cloacae, Escherichia coli, Klebsiella pneumoniae, Proteus mirabilis, or Pseudomonas aeruginosa [see Clinical Studies (14.8)].
 
-## 1.11 Acute Pyelonephritis: 5 or 10 day Treatment Regimen
+## 1.11 Acute Pyelonephritis: 5 or 10-day Treatment Regimen
 
 Levofloxacin tablet is indicated for the treatment of acute pyelonephritis caused by Escherichia coli, including cases with concurrent bacteremia [see Clinical Studies (14.7, 14.8)].
 
 ## 1.12 Uncomplicated Urinary Tract Infections
 
-Levofloxacin tabletis indicated for the treatment of uncomplicated urinary tract infections (mild to moderate) due to Escherichia coli, Klebsiella pneumoniae, or Staphylococcus saprophyticus.
+Levofloxacin tablet is indicated for the treatment of uncomplicated urinary tract infections (mild to moderate) due to Escherichia coli, Klebsiella pneumoniae, or Staphylococcus saprophyticus.
 
-## 1.13 Inhalational Anthrax (Post-Exposure)
+Because fluoroquinolones, including levofloxacin, have been associated with serious adverse reactions [see Warnings and Precautions (5.1-5.14)] and for some patients uncomplicated urinary tract infection is self-limiting, reserve levofloxacin for treatment of uncomplicated urinary tract infections in patients who have no alternative treatment options.
 
-Levofloxacin tabletis indicated for inhalational anthrax (post-exposure) to reduce the incidence or progression of disease following exposure to aerosolized Bacillus anthracis.
-The effectiveness of levofloxacin tablet is based on plasma concentrations achieved in humans, a surrogate endpoint reasonably likely to predict clinical benefit.
-Levofloxacin tablethas not been tested in humans for the post-exposure prevention of inhalation anthrax.
-The safety of levofloxacin tabletsin adults for durations of therapy beyond 28 days or in pediatric patients for durations of therapy beyond 14 days has not been studied.
-Prolonged levofloxacin tabletstherapy should only be used when the benefit outweighs the risk [see Dosage and Administration (2.1, 2.2) and Clinical Studies (14.9)].
+## 1.13 Acute Bacterial Exacerbation of Chronic Bronchitis
 
-## 1.14 Plague
+Levofloxacin tablet is indicated for the treatment of acute bacterial exacerbation of chronic bronchitis (ABECB) due to methicillin-susceptible Staphylococcus aureus, Streptococcus pneumoniae, Haemophilus influenzae, Haemophilus parainfluenzae, or Moraxella catarrhalis.
 
-Levofloxacin tablet is indicated for treatment of plague, including pneumonic and septicemic plague, due to Yersinia pestis (Y. pestis) and prophylaxis for plague in adults and pediatric patients, 6 months of age and older.
-Efficacy studies of Levofloxacin tablets could not be conducted in humans with plague for ethical and feasibility reasons.
-Therefore, approval of this indication was based on an efficacy study conducted in animals [see Dosage and Administration (2.1, 2.2) and Clinical Studies (14.10)].
+Because fluoroquinolones, including levofloxacin, have been associated with serious adverse reactions [see Warnings and Precautions (5.1-5.14)] and for some patients ABECB is self-limiting, reserve levofloxacin for treatment of ABECB in patients who have no alternative treatment options.
+
+## 1.14 Acute Bacterial Sinusitis: 5-day and 10-14 day Treatment Regimens
+
+Levofloxacin tablet is indicated for the treatment of acute bacterial sinusitis (ABS) due to Streptococcus pneumoniae, Haemophilus influenzae, or Moraxella catarrhalis [see Clinical Studies (14.4)].
+
+Because fluoroquinolones, including levofloxacin, have been associated with serious adverse reactions [see Warnings and Precautions (5.1-5.14)] and for some patients ABS is self-limiting, reserve levofloxacin for treatment of ABS in patients who have no alternative treatment options.
+
+## 1.15 Usage
+
+To reduce the development of drug-resistant bacteria and maintain the effectiveness of levofloxacin and other antibacterial drugs, levofloxacin should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
+When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy.
+In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy.
+
+Culture and susceptibility testing
+
+Appropriate culture and susceptibility tests should be performed before treatment in order to isolate and identify organisms causing the infection and to determine their susceptibility to levofloxacin [see Microbiology (12.4)].
+Therapy with levofloxacin may be initiated before results of these tests are known; once results become available, appropriate therapy should be selected.
+
+As with other drugs in this class, some isolates of Pseudomonas aeruginosa may develop resistance fairly rapidly during treatment with levofloxacin.
+Culture and susceptibility testing performed periodically during therapy will provide information about the continued susceptibility of the pathogens to the antimicrobial agent and also the possible emergence of bacterial resistance.

@@ -1,6 +1,6 @@
-# 11. DESCRIPTION
+# 11 DESCRIPTION
 
-Levofloxacin tablets are a synthetic broad spectrum antibacterial agent for oral administration.
+Levofloxacin is a synthetic broad-spectrum antibacterial agent for oral administration.
 Chemically, levofloxacin, a chiral fluorinated carboxyquinolone, is the pure (-)-(S)-enantiomer of the racemic drug substance ofloxacin.
 The chemical name is (-)-(S)-9-fluoro-2,3-dihydro-3-methyl-10-(4-methyl-1-piperazinyl)-7-oxo-7H-pyrido[1,2,3-de]-1,4-benzoxazine-6-carboxylic acid hemihydrate.
 
@@ -8,8 +8,8 @@ Figure 1
 
 The Chemical Structure of Levofloxacin
 
-Its molecular formula is C18H20FN3O4 • ½ H2O and its molecular weight is 370.38.
-Levofloxacin is a pale yellow to yellow coloured crystalline solid.
+Its molecular formula is C18H20FN3O4 • ½ H2O and the molecular weight is 370.38.
+Levofloxacin, USP is a light yellowish–white to yellow–white crystals or crystalline powder.
 The molecule exists as a zwitterion at the pH conditions in the small intestine.
 
 The data demonstrate that from pH 0.6 to 5.8, the solubility of levofloxacin is essentially constant (approximately 100 mg/mL).
@@ -24,5 +24,7 @@ Al+3> Cu+2> Zn+2> Mg+2> Ca+2.
 
 Excipients and Description of Dosage Forms
 
-Each levofloxacin tablet intended for oral administration contains levofloxacin hemihydrate equivalent to 250 mg or 500 mg or 750 mg of levofloxacin.
+Each levofloxacin tablet, USP intended for oral administration contains levofloxacin hemihydrate equivalent to 250 mg or 500 mg or 750 mg of levofloxacin.
 In addition, each tablet contains the following inactive ingredients: crospovidone, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol 6000, talc and titanium dioxide.
+
+The product meets USP Dissolution Test 2.
