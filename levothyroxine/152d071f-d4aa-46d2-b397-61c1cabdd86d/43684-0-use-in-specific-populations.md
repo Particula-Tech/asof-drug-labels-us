@@ -9,7 +9,7 @@ Therefore, pregnant patients who develop myxedema should be treated with Levothy
 ## 8.2 Labor and Delivery
 
 Patients in labor who develop myxedema have not been reported in the literature.
-However, patients should be treated with Levothyroxine Sodium for Injection as the risk of non-treatment is associated with a high probability of significant morbidity or mortality to the maternal patient and the fetus.
+However, patients should be treated with Levothyroxine Sodium for Injection as the risk of nontreatment is associated with a high probability of significant morbidity or mortality to the maternal patient and the fetus.
 
 ## 8.3 Nursing Mothers
 

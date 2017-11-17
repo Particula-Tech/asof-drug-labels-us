@@ -21,7 +21,7 @@ Therefore, cautious use, including doses in the lower end of the recommended ran
 
 Reconstitute the lyophilized Levothyroxine Sodium for Injection by aseptically adding 5 mL of 0.9% Sodium Chloride Injection, USP only.
 Shake vial to ensure complete mixing.
-The resultant solution will have a final concentration of approximately 20 mcg per mL and 100 mcg per mL for the 100 mcg and 500 mcg vials, respectively.
+The resultant solution will have a final concentration of approximately 20 mcg per mL, and 100 mcg per mL for the 100 mcg and 500 mcg vials, respectively.
 Reconstituted drug product is preservative free and is stable for 4 hours.
 Discard any unused portion.
 DO NOT ADD LEVOTHYROXINE SODIUM FOR INJECTION TO OTHER IV FLUIDS.

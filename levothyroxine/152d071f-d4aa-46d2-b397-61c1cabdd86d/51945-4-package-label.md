@@ -1,44 +1,42 @@
 Manufactured by:
 
-Fresenius Kabi USA, LLC
+Fresenius Kabi
 
 Lake Zurich, IL 60047
 
-451354
+www.fresenius-kabi.us
 
-Issued: August 2013
+451354A
 
-PACKAGE LABEL - PRINCIPAL DISPLAY - Levothyroxine 100 mcg Single Use Vial Label
+Revised: June 2017
 
-NDC 63323-649-94
+PACKAGE LABEL - PRINCIPAL DISPLAY - Levothyroxine 100 mcg Single Dose Vial Label
 
-PRX506107
+NDC 63323-649-94 PRX506107
 
 Levothyroxine Sodium for Injection
 
-100 mcg/vial
+100 mcg per vial
 
 For Intravenous Use
 
-Single Use Vial
+Single Dose Vial
 
 Discard any unused portion.
 
 Rx only
 
-PACKAGE LABEL - PRINCIPAL DISPLAY - Levothyroxine 100 mcg Single Use Vial Carton Panel
+PACKAGE LABEL - PRINCIPAL DISPLAY - Levothyroxine 100 mcg Single Dose Vial Carton Panel
 
-NDC 63323-649-94
-
-PRX506107
+NDC 63323-649-94 PRX506107
 
 Levothyroxine Sodium for Injection
 
-100 mcg/vial
+100 mcg per vial
 
 For Intravenous Use
 
-Single Use Vial
+Single Dose Vial
 
 Discard any unused portion.
 

@@ -4,10 +4,10 @@
 
 Levothyroxine Sodium for Injection is available in two dosage strengths.
 
-| Product No. | NDC No. | Strength | ReconstitutedConcentration |
+| Product No. | NDC No. | Strength | Reconstituted Concentration |
 | --- | --- | --- | --- |
-| PRX506107 | 63323-649-94 | 100 mcg/vial | 20 mcg/mL |
-| PRX506248 | 63323-648-94 | 500 mcg/vial | 100 mcg/mL |
+| PRX506107 | 63323-649-94 | 100 mcg per vial | 20 mcg per mL |
+| PRX506248 | 63323-648-94 | 500 mcg per vial | 100 mcg per mL |
 
 ## 16.2 Storage and Handling
 
@@ -17,4 +17,4 @@ Discard any unused portion.
 
 This container closure is not made with natural rubber latex.
 
-PREMIERPro™Rx is a trademark of Premier, Inc., used under license.
+PREMIERProRx® is a registered trademark of Premier Healthcare Alliance, L.P., used under license.

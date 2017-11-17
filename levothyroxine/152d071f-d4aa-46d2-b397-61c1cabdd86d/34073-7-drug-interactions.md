@@ -39,4 +39,4 @@ Thyroid hormones may increase the risk of coronary insufficiency when sympathomi
 Changes in thyroxine binding globulin (TBG) concentration must be considered when interpreting levothyroxine and triiodothyronine values, which necessitates measurement and evaluation of unbound (free) hormone and/or determination of the free levothyroxine index.
 Pregnancy, infectious hepatitis, estrogens, estrogen containing oral contraceptives, and acute intermittent porphyria increase TBG concentrations.
 Decreases in TBG concentrations are observed in nephrosis, severe hypoproteinemia, severe liver disease, acromegaly, and after androgen or corticosteroid therapy.
-Familial hyper or hypo thyroxine binding globulinemias have been described, with the incidence of TBG deficiency approximating 1 in 9000.
+Familial hyper or hypo thyroxine binding globulinemias have been described, with the incidence of TBG deficiency approximating 1 in 9,000.
