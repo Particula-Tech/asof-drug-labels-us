@@ -27,7 +27,7 @@ Patients were approximately equally divided between ibuprofen, piroxicam, and na
 The 200-mcg dose caused a marked, statistically significant reduction in gastric ulcers in both studies.
 The lower dose was somewhat less effective, with a significant result in only one of the studies.
 
-[No. of patients with ulcer(s) (%)]
+Reduction of Risk of Gastric Ulcers Induced by Ibuprofen, Piroxicam, or Naproxen [No. of patients with ulcer(s) (%)]
 
 |  | Therapy | Duration |  |  |
 | --- | --- | --- | --- | --- |
@@ -44,8 +44,7 @@ The lower dose was somewhat less effective, with a significant result in only on
 | Misoprostol Tablets 200 mcg q.i.d. (n=139) | 2 (1.4) | 1 (0.7) | 0 | 3 (2.2)* |
 | Misoprostol Tablets 100 mcg q.i.d. (n=143) | 5 (3.5) | 3 (2.1) | 2 (1.4) | 10 (7.0)* |
 | Placebo (n=138) | 17 (12.3) | 6 (4.3) | 7 (5.1) | 30 (21.7) |
-| * Statistically significantly different from placebo at the 5% level. |  |  |  |  |
-| ** Combined data from Study No. 1 and Study No. 2. |  |  |  |  |
+| * Statistically significantly different from placebo at the 5% level. ** Combined data from Study No. 1 and Study No. 2. |  |  |  |  |
 
 In these trials there were no significant differences between Misoprostol Tablets and placebo in relief of day or night abdominal pain.
 No effect of Misoprostol Tablets in reducing the risk of duodenal ulcers was demonstrated, but relatively few duodenal lesions were seen.

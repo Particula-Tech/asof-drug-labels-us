@@ -33,7 +33,7 @@ Misoprostol given for 1 week had no effect on the steady state pharmacokinetics 
 The serum protein binding of misoprostol acid is less than 90% and is concentration-independent in the therapeutic range.
 
 After a single oral dose of misoprostol to nursing mothers, misoprostol acid was excreted in breast milk.
-The maximum concentration of misoprostol acid in expressed breast milk was achieved within 1 hour after dosing and was 7.6 pg/mL (CV 37%) and 20.9 pg/ml (CV 62%) after single 200 mg and 600 mg misoprostol administration, respectively.
+The maximum concentration of misoprostol acid in expressed breast milk was achieved within 1 hour after dosing and was 7.6 pg/mL (CV 37%) and 20.9 pg/ml (CV 62%) after single 200 µg and 600 µg misoprostol administration, respectively.
 The misoprostol acid concentrations in breast milk declined to < 1 pg/ml at 5 hours post-dose.
 
 ## Pharmacodynamics

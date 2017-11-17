@@ -11,5 +11,5 @@ In such patients, Misoprostol Tablets may be prescribed if the patient
 
 - has had a negative serum pregnancy test within 2 weeks prior to beginning therapy.
 - is capable of complying with effective contraceptive measures.
-- has received both oral and written warnings of the hazards of misoprostol tablets, the risk of possible contraception failure, and the danger to other women of childbearing potential should the drug be taken by mistake.
+- has received both oral and written warnings of the hazards of Misoprostol Tablets, the risk of possible contraception failure, and the danger to other women of childbearing potential should the drug be taken by mistake.
 - will begin Misoprostol Tablets only on the second or third day of the next normal menstrual period.
