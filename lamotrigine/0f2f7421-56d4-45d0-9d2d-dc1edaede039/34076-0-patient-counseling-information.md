@@ -1,62 +1,64 @@
-# 17. PATIENT COUNSELING INFORMATION
+# 17 PATIENT COUNSELING INFORMATION
 
-See Medication Guide that accompanies the product.
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-## 17.1 Rash
+Rash
 
-Prior to initiation of treatment with lamotrigine, the patient should be instructed that a rash or other signs or symptoms of hypersensitivity (e.g., fever, lymphadenopathy) may herald a serious medical event and that the patient should report any such occurrence to a physician immediately.
+Prior to initiation of treatment with lamotrigine, inform patients that a rash or other signs or symptoms of hypersensitivity (e.g., fever, lymphadenopathy) may herald a serious medical event and instruct them to report any such occurrence to their healthcare providers immediately.
 
-## 17.2 Suicidal Thinking and Behavior
+Multiorgan Hypersensitivity Reactions, Blood Dyscrasias, and Organ Failure
 
-Patients, their caregivers, and families should be counseled that AEDs, including lamotrigine, may increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
-Behaviors of concern should be reported immediately to healthcare providers.
+Inform patients that multiorgan hypersensitivity reactions and acute multiorgan failure may occur with lamotrigine.
+Isolated organ failure or isolated blood dyscrasias without evidence of multiorgan hypersensitivity may also occur.
+Instruct patients to contact their healthcare providers immediately if they experience any signs or symptoms of these conditions [see WARNINGS AND PRECAUTIONS (5.2, 5.3)].
 
-## 17.3 Worsening of Seizures
+Suicidal Thinking and Behavior
 
-Patients should be advised to notify their physician if worsening of seizure control occurs.
+Inform patients, their caregivers, and families that AEDs, including lamotrigine, may increase the risk of suicidal thoughts and behavior.
+Instruct them to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts or behavior or thoughts about self-harm.
+Instruct them to immediately report behaviors of concern to their healthcare providers.
 
-## 17.4 CNS Adverse Effects
+Worsening of Seizures
 
-Patients should be advised that lamotrigine may cause dizziness, somnolence, and other symptoms and signs of central nervous system (CNS) depression.
-Accordingly, they should be advised neither to drive a car nor to operate other complex machinery until they have gained sufficient experience on lamotrigine to gauge whether or not it adversely affects their mental and/or motor performance.
+Instruct patients to notify their healthcare providers if worsening of seizure control occurs.
 
-## 17.5 Blood Dyscrasias and/or Acute Multiorgan Failure
+Central Nervous System Adverse Effects
 
-Patients should be advised of the possibility of blood dyscrasias and/or acute multiorgan failure and to contact their physician immediately if they experience any signs or symptoms of these conditions [see Warnings and Precautions (5.3, 5.4)].
+Inform patients that lamotrigine may cause dizziness, somnolence, and other symptoms and signs of central nervous system depression.
+Accordingly, instruct them neither to drive a car nor to operate other complex machinery until they have gained sufficient experience on lamotrigine to gauge whether or not it adversely affects their mental and/or motor performance.
 
-## 17.6 Pregnancy
+Pregnancy and Nursing
 
-Patients should be advised to notify their physicians if they become pregnant or intend to become pregnant during therapy.
-Patients should be advised to notify their physicians if they intend to breastfeed or are breastfeeding an infant.
+Instruct patients to notify their healthcare providers if they become pregnant or intend to become pregnant during therapy and if they intend to breastfeed or are breast-feeding an infant.
 
-Patients should also be encouraged to enroll in the NAAED Pregnancy Registry if they become pregnant.
+Encourage patients to enroll in the NAAED Pregnancy Registry if they become pregnant.
 This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
 To enroll, patients can call the toll-free number 1-888-233-2334 [see USE IN SPECIFIC POPULATIONS (8.1)].
 
-## 17.7 Oral Contraceptive Use
+Inform patients who intend to breastfeed that lamotrigine is present in breast milk and advise them to monitor their child for potential adverse effects of this drug.
+Discuss the benefits and risks of continuing breast-feeding.
 
-Women should be advised to notify their physician if they plan to start or stop use of oral contraceptives or other female hormonal preparations.
-Starting estrogen-containing oral contraceptives may significantly decrease lamotrigine plasma levels and stopping estrogen-containing oral contraceptives (including the "pill-free" week) may significantly increase lamotrigine plasma levels [see WARNINGS AND PRECAUTIONS (5.9), CLINICAL PHARMACOLOGY (12.3)].
-Women should also be advised to promptly notify their physician if they experience adverse reactions or changes in menstrual pattern (e.g., break-through bleeding) while receiving lamotrigine in combination with these medications.
+Oral Contraceptive Use
 
-## 17.8 Discontinuing Lamotrigine
+Instruct women to notify their healthcare providers if they plan to start or stop use of oral contraceptives or other female hormonal preparations.
+Starting estrogen-containing oral contraceptives may significantly decrease lamotrigine plasma levels and stopping estrogen-containing oral contraceptives (including the pill-free week) may significantly increase lamotrigine plasma levels [see WARNINGS AND PRECAUTIONS (5.7), CLINICAL PHARMACOLOGY (12.3)].
+Also instruct women to promptly notify their healthcare providers if they experience adverse reactions or changes in menstrual pattern (e.g., break-through bleeding) while receiving lamotrigine in combination with these medications.
 
-Patients should be advised to notify their physician if they stop taking lamotrigine for any reason and not to resume lamotrigine without consulting their physician.
+Discontinuing Lamotrigine
 
-## 17.9 Aseptic Meningitis
+Instruct patients to notify their healthcare providers if they stop taking lamotrigine for any reason and not to resume lamotrigine without consulting their healthcare providers.
 
-Patients should be advised that lamotrigine may cause aseptic meningitis.
-Patients should be advised to notify their physician immediately if they develop signs and symptoms of meningitis such as headache, fever, nausea, vomiting, stiff neck, rash, abnormal sensitivity to light, myalgia, chills, confusion, or drowsiness while taking lamotrigine.
+Aseptic Meningitis
 
-## 17.10 Potential Medication Errors
+Inform patients that lamotrigine may cause aseptic meningitis.
+Instruct them to notify their healthcare providers immediately if they develop signs and symptoms of meningitis such as headache, fever, nausea, vomiting, stiff neck, rash, abnormal sensitivity to light, myalgia, chills, confusion, or drowsiness while taking lamotrigine.
 
-Medication errors involving lamotrigine have occurred.
-Medication errors may also occur between the different formulations of lamotrigine.
-To reduce the potential of medication errors, write and say lamotrigine clearly.
-Depictions of the lamotrigine tablets and lamotrigine tablets (chewable, dispersible) can be found in the Medication Guide that accompanies the product to highlight the distinctive markings, colors, and shapes that serve to identify the different presentations of the drug and thus may help reduce the risk of medication errors.
-To avoid a medication error of using the wrong drug or formulation, patients should be strongly advised to visually inspect their tablets to verify that they are lamotrigine, as well as the correct formulation of lamotrigine, each time they fill their prescription [see DOSAGE FORMS AND STRENGTHS (3.1, 3.2), HOW SUPPLIED/STORAGE AND HANDLING (16)].
+Potential Medication Errors
 
-## 17.11 Phenylketonurics:
+To avoid a medication error of using the wrong drug or formulation, strongly advise patients to visually inspect their tablets to verify that they are lamotrigine, as well as the correct formulation of lamotrigine, each time they fill their prescription [see Dosage Forms and Strengths (3.1, 3.2), How Supplied/Storage and Handling (16)].
+Refer the patient to the Medication Guide that provides depictions of the lamotrigine tablets, chewable dispersible tablets, and orally disintegrating tablets.
+
+Phenylketonurics:
 
 Phenylalanine is a component of aspartame.
-Each lamotrigine tablet (chewable, dispersible), 5 mg and 25 mg contains 0.7 mg of phenylalanine.
+Each lamotrigine tablet (chewable, dispersible) 5 mg and 25 mg contains 0.7 mg of phenylalanine.

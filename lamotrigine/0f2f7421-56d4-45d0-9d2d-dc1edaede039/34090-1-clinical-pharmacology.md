@@ -1,4 +1,4 @@
-# 12. CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
 ## 12.1 Mechanism of Action
 
@@ -10,19 +10,12 @@ The relevance of these models to human epilepsy, however, is not known.
 One proposed mechanism of action of lamotrigine, the relevance of which remains to be established in humans, involves an effect on sodium channels.
 In vitro pharmacological studies suggest that lamotrigine inhibits voltage-sensitive sodium channels, thereby stabilizing neuronal membranes and consequently modulating presynaptic transmitter release of excitatory amino acids (e.g., glutamate and aspartate).
 
-Although the relevance for human use is unknown, the following data characterize the performance of lamotrigine in receptor binding assays.
-Lamotrigine had a weak inhibitory effect on the serotonin 5-HT3 receptor (IC50 = 18 μM).
-It does not exhibit high affinity binding (IC50>100 μM) to the following neurotransmitter receptors: adenosine A1 and A2; adrenergic α1, α2, and β; dopamine D1 and D2; γ-aminobutyric acid (GABA) A and B; histamine H1; kappa opioid; muscarinic acetylcholine; and serotonin 5-HT2.
-Studies have failed to detect an effect of lamotrigine on dihydropyridine-sensitive calcium channels.
-It had weak effects at sigma opioid receptors (IC50 = 145 μM).
-Lamotrigine did not inhibit the uptake of norepinephrine, dopamine, or serotonin, (IC50>200 μM) when tested in rat synaptosomes and/or human platelets in vitro.
-
 Effect of Lamotrigine on N-Methyl d-Aspartate-Receptor Mediated Activity
 
 Lamotrigine did not inhibit N-methyl d-aspartate (NMDA)-induced depolarizations in rat cortical slices or NMDA-induced cyclic GMP formation in immature rat cerebellum, nor did lamotrigine displace compounds that are either competitive or noncompetitive ligands at this glutamate receptor complex (CNQX, CGS, TCHP).
 The IC50 for lamotrigine effects on NMDA-induced currents (in the presence of 3 μM of glycine) in cultured hippocampal neurons exceeded 100 μM.
 
-The mechanisms by which lamotrigine exerts its therapeutic action in Bipolar Disorder have not been established.
+The mechanisms by which lamotrigine exerts its therapeutic action in bipolar disorder have not been established.
 
 ## 12.2 Pharmacodynamics
 
@@ -48,42 +41,40 @@ It has been found in the uveal tract up to 52 weeks after a single dose in roden
 Cardiovascular
 
 In dogs, lamotrigine is extensively metabolized to a 2-N-methyl metabolite.
-This metabolite causes dose-dependent prolongations of the PR interval, widening of the QRS complex, and, at higher doses, complete AV conduction block.
+This metabolite causes dose-dependent prolongation of the PR interval, widening of the QRS complex, and, at higher doses, complete AV conduction block.
 Similar cardiovascular effects are not anticipated in humans because only trace amounts of the 2-N-methyl metabolite (<0.6% of lamotrigine dose) have been found in human urine [see CLINICAL PHARMACOLOGY (12.3)].
-However, it is conceivable that plasma concentrations of this metabolite could be increased in patients with a reduced capacity to glucuronidate lamotrigine (e.g., in patients with liver disease).
+However, it is conceivable that plasma concentrations of this metabolite could be increased in patients with a reduced capacity to glucuronidate lamotrigine (e.g., in patients with liver disease, patients taking concomitant medications that inhibit glucuronidation).
 
 ## 12.3 Pharmacokinetics
 
-The pharmacokinetics of lamotrigine have been studied in patients with epilepsy, healthy young and elderly volunteers, and volunteers with chronic renal failure.
-Lamotrigine pharmacokinetic parameters for adult and pediatric patients and healthy normal volunteers are summarized in Tables 14 and 16.
+The pharmacokinetics of lamotrigine have been studied in subjects with epilepsy, healthy young and elderly volunteers, and volunteers with chronic renal failure.
+Lamotrigine pharmacokinetic parameters for adult and pediatric subjects and healthy normal volunteers are summarized in Tables 14 and 16.
 
-Table 14 MeanThe majority of parameter means determined in each study had coefficients of variation between 20% and 40% for half-life and Cl/F and between 30% and 70% for Tmax.
-The overall mean values were calculated from individual study means that were weighted based on the number of volunteers/patients in each study.
-The numbers in parentheses below each parameter mean represent the range of individual volunteer/patient values across studies.
-Pharmacokinetic Parameters in Healthy Volunteers and Adult Patients With Epilepsy
+Table 14 Mean Pharmacokinetic ParametersCarbamazepine, phenytoin, phenobarbital and primidone have been shown to increase the apparent clearance of lamotrigine.
+Estrogen-containing oral contraceptives and other drugs, such as rifampin and protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir that induce lamotrigine glucuronidation have also been shown to increase the apparent clearance of lamotrigine [see DRUG INTERACTIONS (7)]. in Healthy Volunteers and Adult Subjects with Epilepsy
 
-| Adult Study Population | Number of Subjects | Tmax: Time of Maximum Plasma Concentration (hr) | t½: Elimination Half-life (hr) | Cl/F: Apparent Plasma Clearance (mL/min/kg) |
+| Adult Study Population | Number of Subjects | Tmax: Time of Maximum Plasma Concentration (h) | t½: Elimination Half-life (h) | CL/F: Apparent Plasma Clearance (mL/min/kg) |
 | --- | --- | --- | --- | --- |
 | Healthy volunteers taking no other medications: |  |  |  |  |
-| Single-dose Lamotrigine | 179 | 2.2 (0.25-12.0) | 32.8 (14.0-103.0) | 0.44 (0.12-1.10) |
-| Multiple-dose Lamotrigine | 36 | 1.7 (0.5-4.0) | 25.4 (11.6-61.6) | 0.58 (0.24-1.15) |
+| Single-dose Lamotrigine | 179 | 2.2 (0.25 to 12) | 32.8 (14 to 103) | 0.44 (0.12 to 1.10) |
+| Multiple-dose Lamotrigine | 36 | 1.7 (0.5 to 4) | 25.4 (11.6 to 61.6) | 0.58 (0.24 to 1.15) |
 | Healthy volunteers taking valproate: |  |  |  |  |
-| Single-dose Lamotrigine | 6 | 1.8 (1.0-4.0) | 48.3 (31.5-88.6) | 0.30 (0.14-0.42) |
-| Multiple-dose Lamotrigine | 18 | 1.9 (0.5-3.5) | 70.3 (41.9-113.5) | 0.18 (0.12-0.33) |
-| Patients with epilepsy taking valproate only: |  |  |  |  |
-| Single-dose Lamotrigine | 4 | 4.8 (1.8-8.4) | 58.8 (30.5-88.8) | 0.28 (0.16-0.40) |
-| Patients with epilepsy taking carbamazepine, phenytoin, Phenobarbital, or primidoneCarbamazepine, phenobarbital, phenytoin, and primidone have been shown to increase the apparent clearance of lamotrigine. Estrogen-containing oral contraceptives and other drugs such as rifampin that induce lamotrigine glucuronidation have also been shown to increase the apparent clearance of lamotrigine [see DRUG INTERACTIONS (7)]. plus valproate: |  |  |  |  |
-| Single-dose Lamotrigine | 25 | 3.8 (1.0-10.0) | 27.2 (11.2-51.6) | 0.53 (0.27-1.04) |
-| Patients with epilepsy taking carbamazepine, phenytoin, Phenobarbital, or primidone: |  |  |  |  |
-| Single-dose Lamotrigine | 24 | 2.3 (0.5-5.0) | 14.4 (6.4-30.4) | 1.10 (0.51-2.22) |
-| Multiple-dose Lamotrigine | 17 | 2.0 (0.75-5.93) | 12.6 (7.5-23.1) | 1.21 (0.66-1.82) |
+| Single-dose Lamotrigine | 6 | 1.8 (1 to 4) | 48.3 (31.5 to 88.6) | 0.30 (0.14 to 0.42) |
+| Multiple-dose Lamotrigine | 18 | 1.9 (0.5 to 3.5) | 70.3 (41.9 to 113.5) | 0.18 (0.12 to 0.33) |
+| Subjects with epilepsy taking valproate only: |  |  |  |  |
+| Single-dose Lamotrigine | 4 | 4.8 (1.8 to 8.4) | 58.8 (30.5 to 88.8) | 0.28 (0.16 to 0.40) |
+| Subjects with epilepsy taking carbamazepine, phenytoin, Phenobarbital, or primidoneb plus valproate: |  |  |  |  |
+| Single-dose Lamotrigine | 25 | 3.8 (1 to 10) | 27.2 (11.2 to 51.6) | 0.53 (0.27 to 1.04) |
+| Subjects with epilepsy taking carbamazepine, phenytoin, Phenobarbital, or primidoneThe majority of parameter means determined in each study had coefficients of variation between 20% and 40% for half-life and CL/F and between 30% and 70% for Tmax. The overall mean values were calculated from individual study means that were weighted based on the number of volunteers/ Subjects in each study. The numbers in parentheses below each parameter mean represent the range of individual volunteer/ subject values across studies.: |  |  |  |  |
+| Single-dose Lamotrigine | 24 | 2.3 (0.5 to 5) | 14.4 (6.4 to 30.4) | 1.10 (0.51 to 2.22) |
+| Multiple-dose Lamotrigine | 17 | 2 (0.75 to 5.93) | 12.6 (7.5 to 23.1) | 1.21 (0.66 to 1.82) |
 
 Absorption
 
 Lamotrigine is rapidly and completely absorbed after oral administration with negligible first-pass metabolism (absolute bioavailability is 98%).
 The bioavailability is not affected by food.
 Peak plasma concentrations occur anywhere from 1.4 to 4.8 hours following drug administration.
-The lamotrigine tablets (chewable, dispersible) were found to be equivalent, whether they were administered as dispersed in water, chewed and swallowed, or swallowed as whole, to the lamotrigine compressed tablets in terms of rate and extent of absorption.
+The lamotrigine tablets (chewable, dispersible)were found to be equivalent, whether administered as dispersed in water, chewed and swallowed, or swallowed whole, to the lamotrigine compressed tablets in terms of rate and extent of absorption.
 
 Dose Proportionality
 
@@ -100,7 +91,7 @@ Protein Binding
 Data from in vitro studies indicate that lamotrigine is approximately 55% bound to human plasma proteins at plasma lamotrigine concentrations from 1 to 10 mcg/mL (10 mcg/mL is 4 to 6 times the trough plasma concentration observed in the controlled efficacy trials).
 Because lamotrigine is not highly bound to plasma proteins, clinically significant interactions with other drugs through competition for protein binding sites are unlikely.
 The binding of lamotrigine to plasma proteins did not change in the presence of therapeutic concentrations of phenytoin, phenobarbital, or valproate.
-Lamotrigine did not displace other AEDs (carbamazepine, phenytoin, phenobarbital) from protein binding sites.
+Lamotrigine did not displace other AEDs (carbamazepine, phenytoin, phenobarbital) from protein-binding sites.
 
 Metabolism
 
@@ -112,51 +103,61 @@ Enzyme Induction
 
 The effects of lamotrigine on the induction of specific families of mixed-function oxidase isozymes have not been systematically evaluated.
 
-Following multiple administrations (150 mg twice daily) to normal volunteers taking no other medications, lamotrigine induced its own metabolism, resulting in a 25% decrease in t½ and a 37% increase in Cl/F at steady state compared with values obtained in the same volunteers following a single dose.
-Evidence gathered from other sources suggests that self-induction by lamotrigine may not occur when lamotrigine is given as adjunctive therapy in patients receiving enzyme-inducing drugs such as carbamazepine, phenytoin, phenobarbital, primidone, or drugs such as rifampin that induce lamotrigine glucuronidation (see DRUG INTERACTIONS (7)].
+Following multiple administrations (150 mg twice daily) to normal volunteers taking no other medications, lamotrigine induced its own metabolism, resulting in a 25% decrease in t½ and a 37% increase in CL/F at steady state compared with values obtained in the same volunteers following a single dose.
+Evidence gathered from other sources suggests that self-induction by lamotrigine may not occur when lamotrigine is given as adjunctive therapy in patients receiving enzyme-inducing drugs such as carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir that induce lamotrigine glucuronidation (see DRUG INTERACTIONS (7)].
 
 Elimination
 
-The elimination half-life and apparent clearance of lamotrigine following administration of lamotrigine to adult patients with epilepsy and healthy volunteers is summarized in Table 14.
+The elimination half-life and apparent clearance of lamotrigine following oral administration of lamotrigine to adult subjects with epilepsy and healthy volunteers is summarized in Table 14.
 Half-life and apparent oral clearance vary depending on concomitant AEDs.
 
 Drug Interactions
 
-The apparent clearance of lamotrigine is affected by the coadministration of certain medications [see WARNINGS AND PRECAUTIONS (5.9, 5.13), DRUG INTERACTIONS (7)].
+The apparent clearance of lamotrigine is affected by the coadministration of certain medications [see WARNINGS AND PRECAUTIONS (5.7, 5.11), DRUG INTERACTIONS (7)].
 
 The net effects of drug interactions with lamotrigine are summarized in Tables 13 and 15, followed by details of the drug interaction studies below.
 
-Table 15 Summary of Drug Interactions With Lamotrigine
+Table 15 Summary of Drug Interactions with Lamotrigine
 
 | Drug | Drug Plasma Concentration with Adjunctive Lamotriginea | Lamotrigine Plasma Concentration with Adjunctive Drugsb |
 | --- | --- | --- |
 | Oral contraceptives (e.g., ethinylestradiol/levonorgestrel)c | ↔d | ↓ |
+| Aripiprazole | Not assessed | ↔e |
+| Atazanavir/ritonavir | ↔f | ↓ |
 | Bupropion | Not assessed | ↔ |
-| Carbamazepine (CBZ) | ↔ | ↓ |
-| CBZ epoxidee | ? |  |
+| Carbamazepine | ↔ | ↓ |
+| Carbamazepine epoxideg | ? |  |
 | Felbamate | Not assessed | ↔ |
 | Gabapentin | Not assessed | ↔ |
 | Levetiracetam | ↔ | ↔ |
 | Lithium | ↔ | Not assessed |
-| Olanzapine | ↔ | ↔f |
+| Lopinavir/ritonavir | ↔e | ↓ |
+| Olanzapine | ↔ | ↔e |
 | Oxcarbazepine | ↔ | ↔ |
-| 10-monohydroxy oxcarbazepine metaboliteg | ↔ |  |
+| 10-Monohydroxy oxcarbazepine metaboliteh | ↔ |  |
 | Phenobarbital/primidone | ↔ | ↓ |
-| Phenytoin (PHT) | ↔ | ↓ |
+| Phenytoin | ↔ | ↓ |
 | Pregabalin | ↔ | ↔ |
 | Rifampin | Not assessed | ↓ |
-| Topiramate | ↔h | ↔ |
+| Risperidone | ↔ | Not assessed |
+| 9-hydroxyrisperidonei | ↔ |  |
+| Topiramate | ↔j | ↔ |
 | Valproate | ↓ | ↑ |
-| Valproate + PHT and/or CBZ | Not assessed | ↔ |
+| Valproate + phenytoin and/or carbamazepine | Not assessed | ↔ |
 | Zonisamide | Not assessed | ↔ |
-| aFrom adjunctive clinical trials and volunteer studies. |  |  |
-| bNet effects were estimated by comparing the mean clearance values obtained in adjunctive clinical trials and volunteer studies. |  |  |
-| cThe effect of other hormonal contraceptive preparations or hormone replacement therapy on the pharmacokinetics of lamotrigine has not been systematically evaluated in clinical trials, although the effect may be similar to that seen with the ethinylestradiol/levonorgestrel combinations. |  |  |
+| aFrom adjunctive clinical trials and volunteer trials. |  |  |
+| bNet effects were estimated by comparing the mean clearance values obtained in adjunctive |  |  |
+| clinical trials and volunteer trials. |  |  |
+| cThe effect of other hormonal contraceptive preparations or hormone replacement therapy on the pharmacokinetics of lamotrigine has not been systematically evaluated in clinical trials, although the effect may be similar to that seen with the ethinylestradiol/levonorgestrel |  |  |
+| combinations. |  |  |
 | dModest decrease in levonorgestrel. |  |  |
-| eNot administered, but an active metabolite of carbamazepine. |  |  |
-| fSlight decrease, not expected to be clinically relevant. |  |  |
-| gNot administered, but an active metabolite of oxcarbazepine. |  |  |
-| hSlight increase not expected to be clinically relevant. |  |  |
+| eSlight decrease, not expected to be clinically meaningful. |  |  |
+| fCompared with historical controls. |  |  |
+| gNot administered, but an active metabolite of carbamazepine. |  |  |
+| hNot administered, but an active metabolite of oxcarbazepine. |  |  |
+| iNot administered, but an active metabolite of risperidone. |  |  |
+| jSlight increase, not expected to be clinically meaningful. |  |  |
+| Summary of Drug Interactions with Lamotrigine: |  |  |
 | ↔ = No significant effect. |  |  |
 | ? = Conflicting data. |  |  |
 
@@ -165,8 +166,8 @@ Estrogen-Containing Oral Contraceptives
 In 16 female volunteers, an oral contraceptive preparation containing 30 mcg ethinylestradiol and 150 mcg levonorgestrel increased the apparent clearance of lamotrigine (300 mg/day) by approximately 2-fold with mean decreases in AUC of 52% and in Cmax of 39%.
 In this study, trough serum lamotrigine concentrations gradually increased and were approximately 2-fold higher on average at the end of the week of the inactive hormone preparation compared with trough lamotrigine concentrations at the end of the active hormone cycle.
 
-Gradual transient increases in lamotrigine plasma levels (approximate 2-fold increase) occurred during the week of inactive hormone preparation ("pill-free" week) for women not also taking a drug that increased the clearance of lamotrigine (carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin that induce lamotrigine glucuronidation (see DRUG INTERACTIONS (7)).
-The increase in lamotrigine plasma levels will be greater if the dose of lamotrigine is increased in the few days before or during the "pill-free" week.
+Gradual transient increases in lamotrigine plasma levels (approximate 2-fold increase) occurred during the week of inactive hormone preparation (pill-free week) for women not also taking a drug that increased the clearance of lamotrigine (carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir that induce lamotrigine glucuronidation) [see DRUG INTERACTIONS (7)].
+The increase in lamotrigine plasma levels will be greater if the dose of lamotrigine is increased in the few days before or during the pill-free week.
 Increases in lamotrigine plasma levels could result in dose-dependent adverse reactions.
 
 In the same study, coadministration of lamotrigine (300 mg/day) in 16 female volunteers did not affect the pharmacokinetics of the ethinylestradiol component of the oral contraceptive preparation.
@@ -187,6 +188,17 @@ The effect of other hormonal contraceptive preparations or hormone replacement t
 It has been reported that ethinylestradiol, not progestogens, increased the clearance of lamotrigine up to 2-fold, and the progestin-only pills had no effect on lamotrigine plasma levels.
 Therefore, adjustments to the dosage of lamotrigine in the presence of progestogens alone will likely not be needed.
 
+Aripiprazole
+
+In 18 patients with bipolar disorder on a stable regimen of 100 to 400 mg/day of lamotrigine, the lamotrigine AUC and Cmax were reduced by approximately 10% in patients who received aripiprazole 10 to 30 mg/day for 7 days, followed by 30 mg/day for an additional 7 days.
+This reduction in lamotrigine exposure is not considered clinically meaningful.
+
+Atazanavir/Ritonavir
+
+In a study in healthy volunteers, daily doses of atazanavir/ritonavir (300 mg/100 mg) reduced the plasma AUC and Cmax of lamotrigine (single 100 mg dose) by an average of 32% and 6%, respectively, and shortened the elimination half-lives by 27%.
+In the presence of atazanavir/ritonavir (300 mg/100 mg), the metabolite-to-lamotrigine ratio was increased from 0.45 to 0.71 consistent with induction of glucuronidation.
+The pharmacokinetics of atazanavir/ritonavir were similar in the presence of concomitant lamotrigine to the historical data of the pharmacokinetics in the absence of lamotrigine.
+
 Bupropion
 
 The pharmacokinetics of a 100 mg single dose of lamotrigine in healthy volunteers (n = 12) were not changed by coadministration of bupropion sustained-release formulation (150 mg twice daily) starting 11 days before lamotrigine.
@@ -203,7 +215,7 @@ The addition of carbamazepine decreases lamotrigine steady-state concentrations 
 
 Felbamate
 
-In a study of 21 healthy volunteers, coadministration of felbamate (1,200 mg twice daily) with lamotrigine (100 mg twice daily for 10 days) appeared to have no clinically relevant effects on the pharmacokinetics of lamotrigine.
+In a trial in 21 healthy volunteers, coadministration of felbamate (1,200 mg twice daily) with lamotrigine (100 mg twice daily for 10 days) appeared to have no clinically relevant effects on the pharmacokinetics of lamotrigine.
 
 Folate Inhibitors
 
@@ -212,7 +224,7 @@ Prescribers should be aware of this action when prescribing other medications th
 
 Gabapentin
 
-Based on a retrospective analysis of plasma levels in 34 patients who received lamotrigine both with and without gabapentin, gabapentin does not appear to change the apparent clearance of lamotrigine.
+Based on a retrospective analysis of plasma levels in 34 subjects who received lamotrigine both with and without gabapentin, gabapentin does not appear to change the apparent clearance of lamotrigine.
 
 Levetiracetam
 
@@ -223,18 +235,23 @@ Lithium
 
 The pharmacokinetics of lithium were not altered in healthy subjects (n = 20) by coadministration of lamotrigine (100 mg/day) for 6 days.
 
+Lopinavir/Ritonavir
+
+The addition of lopinavir (400 mg twice daily)/ritonavir (100 mg twice daily) decreased the AUC, Cmax, and elimination half-life of lamotrigine by approximately 50% to 55.4% in 18 healthy subjects.
+The pharmacokinetics of lopinavir/ritonavir were similar with concomitant lamotrigine, compared with that in historical controls.
+
 Olanzapine
 
 The AUC and Cmax of olanzapine were similar following the addition of olanzapine (15 mg once daily) to lamotrigine (200 mg once daily) in healthy male volunteers (n = 16) compared with the AUC and Cmax in healthy male volunteers receiving olanzapine alone (n = 16).
 
-In the same study, the AUC and Cmax of lamotrigine were reduced on average by 24% and 20%, respectively, following the addition of olanzapine to lamotrigine in healthy male volunteers compared with those receiving lamotrigine alone.
-This reduction in lamotrigine plasma concentrations is not expected to be clinically relevant.
+In the same trial, the AUC and Cmax of lamotrigine were reduced on average by 24% and 20%, respectively, following the addition of olanzapine to lamotrigine in healthy male volunteers compared with those receiving lamotrigine alone.
+This reduction in lamotrigine plasma concentrations is not expected to be clinically meaningful.
 
 Oxcarbazepine
 
 The AUC and Cmax of oxcarbazepine and its active 10-monohydroxy oxcarbazepine metabolite were not significantly different following the addition of oxcarbazepine (600 mg twice daily) to lamotrigine (200 mg once daily) in healthy male volunteers (n = 13) compared with healthy male volunteers receiving oxcarbazepine alone (n = 13).
 
-In the same study, the AUC and Cmax of lamotrigine were similar following the addition of oxcarbazepine (600 mg twice daily) to lamotrigine in healthy male volunteers compared with those receiving lamotrigine alone.
+In the same trial, the AUC and Cmax of lamotrigine were similar following the addition of oxcarbazepine (600 mg twice daily) to lamotrigine in healthy male volunteers compared with those receiving lamotrigine alone.
 Limited clinical data suggest a higher incidence of headache, dizziness, nausea, and somnolence with coadministration of lamotrigine and oxcarbazepine compared with lamotrigine alone or oxcarbazepine alone.
 
 Phenobarbital, Primidone
@@ -255,6 +272,11 @@ Rifampin
 
 In 10 male volunteers, rifampin (600 mg/day for 5 days) significantly increased the apparent clearance of a single 25 mg dose of lamotrigine by approximately 2-fold (AUC decreased by approximately 40%).
 
+Risperidone
+
+In a 14 healthy volunteers study, multiple oral doses of lamotrigine 400 mg daily had no clinically significant effect on the single-dose pharmacokinetics of risperidone 2 mg and its active metabolite 9-OH risperidone.
+Following the coadministration of risperidone 2 mg with lamotrigine, 12 of the 14 volunteers reported somnolence compared with 1 out of 20 when risperidone was given alone, and none when lamotrigine was administered alone.
+
 Topiramate
 
 Topiramate resulted in no change in plasma concentrations of lamotrigine.
@@ -266,11 +288,11 @@ When lamotrigine was administered to healthy volunteers (n = 18) receiving valpr
 However, adding lamotrigine to the existing therapy did not cause a change in valproate plasma concentrations in either adult or pediatric patients in controlled clinical trials.
 
 The addition of valproate increased lamotrigine steady-state concentrations in normal volunteers by slightly more than 2-fold.
-In one study, maximal inhibition of lamotrigine clearance was reached at valproate doses between 250 and 500 mg/day and did not increase as the valproate dose was further increased.
+In 1 trial, maximal inhibition of lamotrigine clearance was reached at valproate doses between 250 and 500 mg/day and did not increase as the valproate dose was further increased.
 
 Zonisamide
 
-In a study of 18 patients with epilepsy, coadministration of zonisamide (200 to 400 mg/day) with lamotrigine (150 to 500 mg/day for 35 days) had no significant effect on the pharmacokinetics of lamotrigine.
+In a study in 18 patients with epilepsy, coadministration of zonisamide (200 to 400 mg/day) with lamotrigine (150 to 500 mg/day for 35 days) had no significant effect on the pharmacokinetics of lamotrigine.
 
 Known Inducers or Inhibitors of Glucuronidation
 
@@ -279,57 +301,62 @@ Since lamotrigine is metabolized predominately by glucuronic acid conjugation, d
 
 Other
 
-Results of in vitro experiments suggest that clearance of lamotrigine is unlikely to be reduced by concomitant administration of amitriptyline, clonazepam, clozapine, fluoxetine, haloperidol, lorazepam, phenelzine, risperidone, sertraline, or trazodone).
+In vitro assessment of the inhibitory effect of lamotrigine at OCT2 demonstrate that lamotrigine, but not the N(2)-glucuronide metabolite, is an inhibitor of OCT2 at potentially clinically relevant concentrations, with IC50 value of 53.8 μM [see Drug Interactions (7)].
+
+Results of in vitro experiments suggest that clearance of lamotrigine is unlikely to be reduced by concomitant administration of amitriptyline, clonazepam, clozapine, fluoxetine, haloperidol, lorazepam, phenelzine, sertraline, or trazodone.
 
 Results of in vitro experiments suggest that lamotrigine does not reduce the clearance of drugs eliminated predominantly by CYP2D6.
 
-Special Populations
+Specific Populations
 
-Patients With Renal Impairment
+Renal Impairment
 
 Twelve volunteers with chronic renal failure (mean creatinine clearance: 13 mL/min; range: 6 to 23) and another 6 individuals undergoing hemodialysis were each given a single 100 mg dose of lamotrigine.
-The mean plasma half-lives determined in the study were 42.9 hours (chronic renal failure), 13.0 hours (during hemodialysis), and 57.4 hours (between hemodialysis) compared with 26.2 hours in healthy volunteers.
+The mean plasma half-lives determined in the study were 42.9 hours (chronic renal failure), 13 hours (during hemodialysis), and 57.4 hours (between hemodialysis) compared with 26.2 hours in healthy volunteers.
 On average, approximately 20% (range: 5.6 to 35.1) of the amount of lamotrigine present in the body was eliminated by hemodialysis during a 4-hour session [see DOSAGE AND ADMINISTRATION (2.1)].
 
 Hepatic Disease
 
-The pharmacokinetics of lamotrigine following a single 100 mg dose of lamotrigine were evaluated in 24 subjects with mild, moderate, and severe hepatic impairment (Child-Pugh Classification system) and compared with 12 subjects without hepatic impairment.
-The patients with severe hepatic impairment were without ascites (n = 2) or with ascites (n = 5).
-The mean apparent clearances of lamotrigine in patients with mild (n = 12), moderate (n = 5), severe without ascites (n = 2), and severe with ascites (n = 5) liver impairment were 0.30 ± 0.09, 0.24 ± 0.1, 0.21 ± 0.04, and 0.15 ± 0.09 mL/min/kg, respectively, as compared with 0.37 ± 0.1 mL/min/kg in the healthy controls.
-Mean half-lives of lamotrigine in patients with mild, moderate, severe without ascites, and severe with ascites hepatic impairment were 46 ± 20, 72 ± 44, 67 ± 11, and 100 ± 48 hours, respectively, as compared with 33 ± 7 hours in healthy controls [see DOSAGE AND ADMINISTRATION (2.1)].
+The pharmacokinetics of lamotrigine following a single 100 mg dose of lamotrigine were evaluated in 24 subjects with mild, moderate, and severe hepatic impairment (Child-Pugh classification system) and compared with 12 subjects without hepatic impairment.
+The subjects with severe hepatic impairment were without ascites (n = 2) or with ascites (n = 5).
+The mean apparent clearances of lamotrigine in subjects with mild (n = 12), moderate (n = 5), severe without ascites (n = 2), and severe with ascites (n = 5) liver impairment were 0.30 ± 0.09, 0.24 ± 0.1, 0.21 ± 0.04, and 0.15 ± 0.09 mL/min/kg, respectively, as compared with 0.37 ± 0.1 mL/min/kg in the healthy controls.
+Mean half-lives of lamotrigine in subjects with mild, moderate, severe without ascites, and severe with ascites hepatic impairment were 46 ± 20, 72 ± 44, 67 ± 11, and 100 ± 48 hours, respectively, as compared with 33 ± 7 hours in healthy controls [see DOSAGE AND ADMINISTRATION (2.1)].
 
 Age
 
-Pediatric Patients
+Pediatric Subjects
 
-The pharmacokinetics of lamotrigine following a single 2 mg/kg dose were evaluated in 2 studies of pediatric patients (n = 29 for patients 10 months to 5.9 years of age and n = 26 for patients 5 to 11 years of age).
-Forty-three patients received concomitant therapy with other AEDs and 12 patients received lamotrigine as monotherapy.
+The pharmacokinetics of lamotrigine following a single 2 mg/kg dose were evaluated in 2 studies in pediatric subjects (n = 29 for subjects aged 10 months to 5.9 years and n = 26 for subjects aged 5 to 11 years).
+Forty-three subjects received concomitant therapy with other AEDs and 12 subjects received lamotrigine as monotherapy.
 Lamotrigine pharmacokinetic parameters for pediatric patients are summarized in Table 16.
 
-Population pharmacokinetic analyses involving patients 2 to 18 years of age demonstrated that lamotrigine clearance was influenced predominantly by total body weight and concurrent AED therapy.
+Population pharmacokinetic analyses involving subjects aged 2 to 18 years demonstrated that lamotrigine clearance was influenced predominantly by total body weight and concurrent AED therapy.
 The oral clearance of lamotrigine was higher, on a body weight basis, in pediatric patients than in adults.
-Weight-normalized lamotrigine clearance was higher in those subjects weighing less than 30 kg, compared with those weighing greater than 30 kg.
+Weight-normalized lamotrigine clearance was higher in those subjects weighing less than 30 kg compared with those weighing greater than 30 kg.
 Accordingly, patients weighing less than 30 kg may need an increase of as much as 50% in maintenance doses, based on clinical response, as compared with subjects weighing more than 30 kg being administered the same AEDs [see DOSAGE AND ADMINISTRATION (2.2)].
 These analyses also revealed that, after accounting for body weight, lamotrigine clearance was not significantly influenced by age.
 Thus, the same weight-adjusted doses should be administered to children irrespective of differences in age.
 Concomitant AEDs which influence lamotrigine clearance in adults were found to have similar effects in children.
 
-Table 16 Mean Pharmacokinetic Parameters in Pediatric Patients With Epilepsy
+Table 16 Mean Pharmacokinetic Parameters in Pediatric Subjectswith Epilepsy
 
-| Pediatric Study Population | Number of Subjects | Tmax (hr) | t½(hr) | Cl/F (mL/min/kg) |
+| Pediatric Study Population | Number of Subjects | Tmax (h) | t½ (h) | CL/F (mL/min/kg) |
 | --- | --- | --- | --- | --- |
-| Ages 10 months-5.3 years |  |  |  |  |
-| Patients taking carbamazepine, phenytoin, phenobarbital, or primidoneCarbamazepine, phenobarbital, phenytoin, and primidone have been shown to increase the apparent clearance of lamotrigine. Estrogen-containing oral contraceptives and rifampin have also been shown to increase the apparent clearance of lamotrigine [see Drug Interactions (7)]. | 10 | 3.0 (1.0-5.9) | 7.7 (5.7-11.4) | 3.62 (2.44-5.28) |
-| Patients taking AEDs with no known effect on the apparent clearance of lamotrigine | 7 | 5.2 (2.9-6.1) | 19.0 (12.9-27.1) | 1.2 (0.75-2.42) |
-| Patients taking valproate only | 8 | 2.9 (1.0-6.0) | 44.9 (29.5-52.5) | 0.47 (0.23-0.77) |
-| Ages 5-11 years |  |  |  |  |
-| Patients taking carbamazepine, phenytoin, phenobarbital, or primidone | 7 | 1.6 (1.0-3.0) | 7.0 (3.8-9.8) | 2.54 (1.35-5.58) |
-| Patients taking carbamazepine, phenytoin, phenobarbital, or primidone plus valproate | 8 | 3.3 (1.0-6.4) | 19.1 (7.0-31.2) | 0.89 (0.39-1.93) |
-| Patients taking valproate onlyTwo subjects were included in the calculation for mean Tmax. | 3 | 4.5 (3.0-6.0) | 65.8 (50.7-73.7) | 0.24 (0.21-0.26) |
-| Ages 13-18 years |  |  |  |  |
-| Patients taking carbamazepine, phenytoin, phenobarbital, or primidone | 11 | Parameter not estimated. |  | 1.3 |
-| Patients taking carbamazepine, phenytoin, phenobarbital, or primidone plus valproate | 8 |  |  | 0.5 |
-| Patients taking valproate only | 4 |  |  | 0.3 |
+| Ages 10 months to 5.3 years |  |  |  |  |
+| Subjects taking carbamazepine, phenytoin, phenobarbital, or primidonea | 10 | 3 (1 to 5.9) | 7.7 (5.7 to 11.4) | 3.62 (2.44 to 5.28) |
+| Subjects taking antiepileptic drugs with no known effect on the apparent clearance of lamotrigine | 7 | 5.2 (2.9 to 6.1) | 19 (12.9 to 27.1) | 1.2 (0.75 to 2.42) |
+| Subjects taking valproate only | 8 | 2.9 (1 to 6) | 44.9 (29.5 to 52.5) | 0.47 (0.23 to 0.77) |
+| Ages 5 to 11 years |  |  |  |  |
+| Subjects taking carbamazepine, phenytoin, phenobarbital, or primidonea | 7 | 1.6 (1 to 3) | 7 (3.8 to 9.8) | 2.54 (1.35 to 5.58) |
+| Subjects taking carbamazepine, phenytoin, phenobarbital, or primidonea plus valproate | 8 | 3.3 (1 to 6.4) | 19.1 (7 to 31.2) | 0.89 (0.39 to 1.93) |
+| Subjects taking valproate onlyb | 3 | 4.5 (3 to 6) | 65.8 (50.7 to 73.7) | 0.24 (0.21 to 0.26) |
+| Ages 13 to 18 years |  |  |  |  |
+| Subjects taking carbamazepine, phenytoin, phenobarbital, or primidonea | 11 | ___c | ___c | 1.3 |
+| Subjects taking carbamazepine, phenytoin, phenobarbital, or primidonea plus valproate | 8 | ___c | ___c | 0.5 |
+| Subjects taking valproate only | 4 | ___c | ___c | 0.3 |
+| a Carbamazepine, phenytoin, phenobarbital, and primidone have been shown to increase the apparent clearance of lamotrigine. Estrogen-containing oral contraceptives, rifampin, and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir have also been shown to increase the apparent clearance of lamotrigine [see Drug Interactions (7)]. |  |  |  |  |
+| b Two subjects were included in the calculation for mean Tmax. |  |  |  |  |
+| c Parameter not estimated. |  |  |  |  |
 
 Elderly
 
@@ -339,7 +366,7 @@ The mean half-life of lamotrigine in these subjects was 31.2 hours (range: 24.5 
 Gender
 
 The clearance of lamotrigine is not affected by gender.
-However, during dose escalation of lamotrigine in one clinical trial in patients with epilepsy on a stable dose of valproate (n = 77), mean trough lamotrigine concentrations, unadjusted for weight, were 24% to 45% higher (0.3 to 1.7 mcg/mL) in females than in males.
+However, during dose escalation of lamotrigine in 1 clinical trial in patients with epilepsy on a stable dose of valproate (n = 77), mean trough lamotrigine concentrations unadjusted for weight were 24% to 45% higher (0.3 to 1.7 mcg/mL) in females than in males.
 
 Race
 

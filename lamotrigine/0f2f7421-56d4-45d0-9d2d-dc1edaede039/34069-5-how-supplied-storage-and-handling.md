@@ -1,8 +1,8 @@
-# 16. HOW SUPPLIED/STORAGE AND HANDLING
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 Lamotrigine Tablets
 
-Lamotrigine Tablets, 25 mg are white to off-white, round, flat, beveled-edged tablets with bisect on one side; one side of the bisect is debossed with logo of "ZC" and other side is debossed with "79" and other side is plain and are supplied as follows:
+Lamotrigine Tablets USP, 25 mg are white to off-white, round, flat, beveled-edged tablets with bisect on one side; one side of the bisect is debossed with logo of "ZC" and other side is debossed with "79" and other side is plain and are supplied as follows:
 
 NDC 65841-682-11 in bottles of 25 tablets
 
@@ -14,7 +14,7 @@ NDC 65841-682-05 in bottles of 500 tablets
 
 NDC 65841-682-10 in bottles of 1000 tablets
 
-Lamotrigine Tablets, 50 mg are white to off-white, round, flat, beveled-edged tablets with bisect on one side; one side of the bisect is debossed with logo of "ZC" and other side is debossed with "90" and other side is plain and are supplied as follows:
+Lamotrigine Tablets USP, 50 mg are white to off-white, round, flat, beveled-edged tablets with bisect on one side; one side of the bisect is debossed with logo of "ZC" and other side is debossed with "90" and other side is plain and are supplied as follows:
 
 NDC 65841-683-16 in bottles of 90 tablets
 
@@ -24,7 +24,7 @@ NDC 65841-683-05 in bottles of 500 tablets
 
 NDC 65841-683-10 in bottles of 1000 tablets
 
-Lamotrigine Tablets, 100 mg are white to off-white, round, flat, beveled-edged tablets with bisect on one side; one side of the bisect is debossed with logo of "ZC" and other side is debossed with "80"and other side is plain and are supplied as follows:
+Lamotrigine Tablets USP, 100 mg are white to off-white, round, flat, beveled-edged tablets with bisect on one side; one side of the bisect is debossed with logo of "ZC" and other side is debossed with "80"and other side is plain and are supplied as follows:
 
 NDC 65841-684-16 in bottles of 90 tablets
 
@@ -34,7 +34,7 @@ NDC 65841-684-05 in bottles of 500 tablets
 
 NDC 65841-684-10 in bottles of 1000 tablets
 
-Lamotrigine Tablets, 150 mg are white to off-white, round, flat, beveled-edged tablets with bisect on one side; one side of the bisect is debossed with logo of "ZC" and other side is debossed with "81" and other side is plain and are supplied as follows:
+Lamotrigine Tablets USP, 150 mg are white to off-white, round, flat, beveled-edged tablets with bisect on one side; one side of the bisect is debossed with logo of "ZC" and other side is debossed with "81" and other side is plain and are supplied as follows:
 
 NDC 65841-685-14 in bottles of 60 tablets
 
@@ -42,7 +42,7 @@ NDC 65841-685-16 in bottles of 90 tablets
 
 NDC 65841-685-05 in bottles of 500 tablets
 
-Lamotrigine Tablets, 200 mg are white to off-white, round, flat, beveled-edged tablets with bisect on one side; one side of the bisect is debossed with logo of "ZC" and other side is debossed with "82" and other side is plain and are supplied as follows:
+Lamotrigine Tablets USP, 200 mg are white to off-white, round, flat, beveled-edged tablets with bisect on one side; one side of the bisect is debossed with logo of "ZC" and other side is debossed with "82" and other side is plain and are supplied as follows:
 
 NDC 65841-686-14 in bottles of 60 tablets
 
@@ -50,7 +50,7 @@ NDC 65841-686-16 in bottles of 90 tablets
 
 NDC 65841-686-05 in bottles of 500 tablets
 
-Lamotrigine Tablets, 250 mg are white to off-white, round, flat, beveled-edged tablets with bisect on one side; one side of the bisect is debossed with logo of "ZC" and other side is debossed with "91"and other side is plain and are supplied as follows:
+Lamotrigine Tablets USP, 250 mg are white to off-white, round, flat, beveled-edged tablets with bisect on one side; one side of the bisect is debossed with logo of "ZC" and other side is debossed with "91"and other side is plain and are supplied as follows:
 
 NDC 65841-687-14 in bottles of 60 tablets
 
