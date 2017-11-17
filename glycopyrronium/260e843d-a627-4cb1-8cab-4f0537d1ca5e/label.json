@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA207923"
+  ],
+  "inn": "glycopyrronium",
+  "labeler": "Sunovion Pharmacueticals Inc.",
+  "package_ndcs": [
+    "63402-815-01",
+    "63402-815-02",
+    "63402-815-12",
+    "63402-815-60"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "glycopyrrolate",
+      "name": "SEEBRI NEOHALER"
+    }
+  ],
+  "setid": "260e843d-a627-4cb1-8cab-4f0537d1ca5e",
+  "source": "dailymed"
+}
