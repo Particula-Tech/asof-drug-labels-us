@@ -1,5 +1,5 @@
-# 15. REFERENCES
+# 15 REFERENCES
 
-1. National Committee for Clinical Laboratory Standards.
-   Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria That Grow Aerobically –Fifth Edition.
-   Approved Standard NCCLS Document M7-A5, Vol, 20, No. 2, NCCLS, Wayne, PA, January 2000.
+1. Clinical and Laboratory Standards Institute (CLSI).
+   Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria That Grow Aerobically; Approved Standard—Tenth Edition.
+   CLSI Document M07-A10, Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania, 19087, USA 2015.

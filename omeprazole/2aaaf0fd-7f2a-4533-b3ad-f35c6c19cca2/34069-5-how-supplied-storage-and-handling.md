@@ -1,4 +1,4 @@
-# 16. HOW SUPPLIED/STORAGE AND HANDLING
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 Omeprazole Delayed-release Capsules, USP 10 mg are white to off-white free flowing pellets filled in size '3' hard gelatin capsules with amethyst purple- colored cap printed with "ZA-09"in black ink & white body printed with "10 mg" in black ink, complies with USP dissolution test 2 and are supplied as follows:
 
@@ -24,7 +24,7 @@ NDC 65841-760-05 in bottles of 500 capsules
 
 NDC 65841-760-10 in bottles of 1000 capsules
 
-Omeprazole Delayed-release Capsules USP, 40 mg are off-white to pale brown free flowing pellets filled in size'1' hard gelatin capsules with Amethyst purple colored cap printed with "ZA-11" in black ink & white body printed with "40 mg" in black ink, complies with USP dissolution test 2 and are supplied as follows:
+Omeprazole Delayed-release Capsules USP, 40 mg are off-white to pale brown free flowing pellets filled in size '1' hard gelatin capsules with amethyst purple colored cap printed with "ZA-11" in black ink & white body printed with "40 mg" in black ink, complies with USP dissolution test 2 and are supplied as follows:
 
 NDC 65841-761-06 in bottles of 30 capsules
 

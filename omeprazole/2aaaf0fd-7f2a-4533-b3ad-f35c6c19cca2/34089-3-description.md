@@ -1,6 +1,6 @@
-# 11. DESCRIPTION
+# 11 DESCRIPTION
 
-The active ingredient in omeprazole delayed-release capsules is a substituted benzimidazole, 5-methoxy-2-[[(4-methoxy-3, 5-dimethyl-2-pyridinyl) methyl] sulfinyl]1H-benzimidazole, a compound that inhibits gastric acid secretion.
+The active ingredient in omeprazole delayed-release capsules is a substituted benzimidazole, 5-methoxy-2-[[(4-methoxy-3, 5-dimethyl-2-pyridinyl) methyl] sulfinyl] -1H-benzimidazole, a compound that inhibits gastric acid secretion.
 Its molecular formula is C17H19N3O3S, with a molecular weight of 345.42.
 The structural formula is:
 
