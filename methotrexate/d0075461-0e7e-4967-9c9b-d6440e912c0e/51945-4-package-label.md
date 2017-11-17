@@ -126,22 +126,6 @@ This carton contains 4 pre-assembled 0.50 mL pre-filled Rasuvo auto-injectors.
 FOR SUBCUTANEOUS USE ONLY See full prescribing information for dosage and administration.
 Read enclosed patient package insert carefully before using.
 
-# PRINCIPAL DISPLAY PANEL - 27.5 mg Auto-Injector Carton
-
-NDC 59137-545-04 Rx only
-
-27.5 mg
-
-Rasuvo® methotrexate injection
-
-Rasuvo® (methotrexate) injection
-
-27.5 mg per 0.55 mL
-
-This carton contains 4 pre-assembled 0.55 mL pre-filled Rasuvo auto-injectors.
-FOR SUBCUTANEOUS USE ONLY See full prescribing information for dosage and administration.
-Read enclosed patient package insert carefully before using.
-
 # PRINCIPAL DISPLAY PANEL - 30 mg Auto-Injector Carton
 
 NDC 59137-550-04 Rx only
