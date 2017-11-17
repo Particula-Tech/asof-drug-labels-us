@@ -5,9 +5,9 @@ Manufactured for:
 
 MEDIMETRIKS PHARMACEUTICALS, INC.
 
-363 Route 46 West, Fairfield, NJ 07004-2402 USA www.medimetriks.com
+383 Route 46 West, Fairfield, NJ 07004-2402 USA www.medimetriks.com
 
-Manufactured by: IGI Laboratories, Inc., Buena, NJ 08310
+Manufactured by: Teligent Pharma, Inc., Buena, NJ 08310
 
-IP027 Iss.
-8/12
+IP027-R2 Rev.
+11/16

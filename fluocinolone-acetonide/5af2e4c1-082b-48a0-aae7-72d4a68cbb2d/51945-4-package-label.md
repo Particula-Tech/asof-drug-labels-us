@@ -1,41 +1,36 @@
-# PRINCIPAL DISPLAY PANEL - 6 x 3 g Tube Carton
-
-NDC 43538-900-99
-
-SAMPLE.
-NOT FOR SALE.
-6 Tubes (Net wt.
-3 g Each)
+# PRINCIPAL DISPLAY PANEL - 120 g Tube Carton
 
 Rx Only
 
-SYNALAR® (FLUOCINOLONE ACETONIDE) CREAM 0.025%
+NDC 43538-900-12
 
-FORMULA: Fluocinolone acetonide 0.25 mg/g in a water-washable aqueous base of butylated hydroxytoluene, cetyl alcohol, citric acid, edetate disodium, methylparaben and propylparaben (preservatives), mineral oil, polyoxyl 20 cetostearyl ether, propylene glycol, simethicone, stearyl alcohol, water (purified) and white beeswax.
+SYNALAR® (fluocinolone acetonide) Cream, 0.025%
 
-SEE PACKAGE INSERT FOR FULL PRESCRIBING INFORMATION.
+For Topical Use Only Not For Ophthalmic Use
 
-STORE AT ROOM TEMPERATURE 15-25°C (59-77°F); AVOID FREEZING AND EXCESSIVE HEAT ABOVE 40°C (104°F).
+120 g
+
+MEDIMETRIKS PHARMACEUTICALS, INC.
 
 # PRINCIPAL DISPLAY PANEL - Kit Carton
 
 NDC 43538-901-12
 
-Rx Only
-
-SYNALAR® (FLUOCINOLONE ACETONIDE) CREAM 0.025%
-
-Cream KIT
+For Topical Use Only Not For Ophthalmic Use
 
 120 g
 
-FOR TOPICAL USE ONLY NOT FOR OPHTHALMIC USE
+Rx Only
+
+SYNALAR® (fluocinolone acetonide) Cream, 0.025%
+
+Cream KIT
 
 KIT CONTAINS:
 
-1 - SYNALAR® (FLUOCINOLONE ACETONIDE) CREAM 0.025% 120 g Tube
+1 - SYNALAR® (fluocinolone acetonide) Cream, 0.025% 120 g Tube
 
-1 - Keradan™ Cream Net wt.
+1 - Keradan® Cream Net wt.
 9 oz.
 (255 g) Tube
 
