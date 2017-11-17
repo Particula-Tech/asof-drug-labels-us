@@ -16,8 +16,8 @@ Prophylactic administration of folic acid is recommended [see Warnings and Preca
 
 Monitor for the following and reduce the dose or discontinue hydroxyurea accordingly:
 
-- Myelosuppression [see Warnings and Precautions (5.1)].
-- Cutaneous vasculitis [see Warnings and Precautions (5.4)]
+- •Myelosuppression [see Warnings and Precautions (5.1)].
+- •Cutaneous vasculitis [see Warnings and Precautions (5.4)]
 
 Monitor blood counts at least once a week during hydroxyurea therapy.
 Severe anemia must be corrected before initiating therapy with hydroxyurea.
