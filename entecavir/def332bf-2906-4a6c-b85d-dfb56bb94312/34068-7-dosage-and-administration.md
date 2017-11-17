@@ -12,8 +12,22 @@ Decompensated Liver Disease The recommended dose of entecavir tablets for chroni
 
 ## 2.3 Recommended Dosage in Pediatric Patients
 
-Pediatric use information is approved for Bristol-Myers Squibb Company’s entecavir tablets.
-However, due to Bristol-Myers Squibb Company’s marketing exclusivity rights, this drug product is not labeled with that information.
+Table 1 describes the recommended dose of entecavir tablets for pediatric patients 2 years of age or older and weighing at least 10 kg.
+The oral solution should be used for patients with body weight up to 30 kg.
+
+| Table 1: Dosing Schedule for Pediatric Patients |  |  |
+| --- | --- | --- |
+|  | Recommended Once-Daily Dose of Oral Solution (mL) |  |
+| Body Weight (kg) | Treatment-Naïve Patientsa | Lamivudine-Experienced Patientsb |
+| 10 to 11 | 3 | 6 |
+| greater than 11 to 14 | 4 | 8 |
+| greater than 14 to 17 | 5 | 10 |
+| greater than 17 to 20 | 6 | 12 |
+| greater than 20 to 23 | 7 | 14 |
+| greater than 23 to 26 | 8 | 16 |
+| greater than 26 to 30 | 9 | 18 |
+| greater than 30 | 10 | 20 |
+| a Children with body weight greater than 30 kg should receive 10 mL (0.5 mg) of oral solution or one 0.5 mg tablet once daily. b Children with body weight greater than 30 kg should receive 20 mL (1 mg) of oral solution or one 1 mg tablet once daily. |  |  |
 
 ## 2.4 Renal Impairment
 
@@ -30,8 +44,7 @@ The once-daily dosing regimens are preferred.
 | Less than 10 Hemodialysisb or CAPD | 0.5 mg every 7 days | 1 mg every 7 days |
 | b If administered on a hemodialysis day, administer entecavir tablets after the hemodialysis session. |  |  |
 
-Pediatric use information is approved for Bristol-Myers Squibb Company’s entecavir tablets.
-However, due to Bristol-Myers Squibb Company’s marketing exclusivity rights, this drug product is not labeled with that information.
+Although there are insufficient data to recommend a specific dose adjustment of entecavir tablets in pediatric patients with renal impairment, a reduction in the dose or an increase in the dosing interval similar to adjustments for adults should be considered.
 
 ## 2.5 Hepatic Impairment
 

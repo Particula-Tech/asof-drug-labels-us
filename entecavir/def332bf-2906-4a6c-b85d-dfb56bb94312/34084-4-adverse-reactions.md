@@ -109,8 +109,11 @@ Liver Transplant Recipients Among 65 subjects receiving entecavir in an open-lab
 
 ## 6.2 Clinical Trial Experience in Pediatric Subjects
 
-Pediatric use information is approved for Bristol-Myers Squibb Company’s entecavir tablets.
-However, due to Bristol-Myers Squibb Company’s marketing exclusivity rights, this drug product is not labeled with that information.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+The safety of entecavir in pediatric subjects 2 to less than 18 years of age is based on two ongoing clinical trials in subjects with chronic HBV infection (one Phase 2 pharmacokinetic trial [AI463028] and one Phase 3 trial [AI463189]).
+These trials provide experience in 168 HBeAg-positive subjects treated with entecavir for a median duration of 72 weeks.
+The adverse reactions observed in pediatric subjects who received treatment with entecavir were consistent with those observed in clinical trials of entecavir in adults.
+Adverse drug reactions reported in greater than 1% of pediatric subjects included abdominal pain, rash events, poor palatability (“product taste abnormal”), nausea, diarrhea, and vomiting.
 
 ## 6.3 Postmarketing Experience
 

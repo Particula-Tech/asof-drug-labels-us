@@ -1,6 +1,6 @@
 # Patient Information
 
-Entecavir Tablets (en-TEK-a-vir) Read this Patient Information before you start taking entecavir tablets and each time you get a refill.
+Entecavir Tablets USP (en-Tek'a vir) Read this Patient Information before you start taking entecavir tablets and each time you get a refill.
 There may be new information.
 This information does not take the place of talking with your healthcare provider about your medical condition or treatment.
 What is the most important information I should know about Entecavir Tablets?
@@ -47,7 +47,7 @@ Call your healthcare provider right away if you get any of the following signs o
 
 You may be more likely to get lactic acidosis or serious liver problems if you are female, very overweight, or have been taking nucleoside analogue medicines, like entecavir tablets, for a long time.
 What are Entecavir Tablets?
-Entecavir tablets are a prescription medicine used to treat chronic hepatitis B virus (HBV) in adults who have active liver disease.
+Entecavir tablets are a prescription medicine used to treat chronic hepatitis B virus (HBV) in adults and children 2 years of age and older who have active liver disease.
 
 - Entecavir tablets will not cure HBV.
 - Entecavir tablets may lower the amount of HBV in the body.
@@ -56,8 +56,6 @@ Entecavir tablets are a prescription medicine used to treat chronic hepatitis B 
 - It is not known whether entecavir tablets will reduce your chances of getting liver cancer or liver damage (cirrhosis), which may be caused by chronic HBV infection.
 - It is not known if entecavir tablets are safe and effective for use in children less than 2 years of age.
 
-Pediatric use information is approved for Bristol-Myers Squibb Company's entecavir tablets.
-However, due to Bristol-Myers Squibb Company's marketing exclusivity rights, this drug product is not labeled with that information.
 What should I tell my healthcare provider before taking Entecavir Tablets?
 Before you take entecavir tablets, tell your healthcare provider if you:
 
@@ -139,4 +137,5 @@ For more information, call Aurobindo Pharma USA, Inc. at 1-866-850-2876.
 What are the ingredients in Entecavir Tablets?
 Active ingredient: entecavir Inactive ingredients in entecavir tablets: crospovidone, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, and titanium dioxide.
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt)-509302 India Revised: April 2016
+
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 11/2017

@@ -169,5 +169,16 @@ In this cohort of entecavir subjects, 31 (40%) subjects achieved HBV DNA <300 co
 
 ## 14.2 Outcomes in Pediatric Subjects
 
-Pediatric use information is approved for Bristol-Myers Squibb Company’s entecavir tablets.
-However, due to Bristol-Myers Squibb Company’s marketing exclusivity rights, this drug product is not labeled with that information.
+The pharmacokinetics, safety and antiviral activity of entecavir in pediatric subjects were initially assessed in Study AI463028.
+Twenty-four treatment-naïve and 19 lamivudine experienced HBeAg-positive pediatric subjects 2 to less than 18 years of age with compensated CHB and elevated ALT were treated with entecavir 0.015 mg/kg (up to 0.5 mg) or 0.03 mg/kg (up to 1 mg) once daily.
+Fifty-eight percent (14/24) of treatment-naïve subjects and 47% (9/19) of lamivudine-experienced subjects achieved HBV DNA <50 IU/mL at Week 48 and ALT normalized in 83% (20/24) of treatment-naïve and 95% (18/19) of lamivudine-experienced subjects.
+
+Safety and antiviral efficacy were confirmed in Study AI463189, an ongoing study of entecavir among 180 nucleoside-inhibitor-treatment-naïve pediatric subjects 2 to less than 18 years of age with HBeAg-positive chronic hepatitis B infection, compensated liver disease, and elevated ALT.
+Subjects were randomized 2:1 to receive blinded treatment with entecavir 0.015 mg/kg up to 0.5 mg/day (N=120) or placebo (N=60).
+The randomization was stratified by age group (2 to 6 years; >6 to 12 years; and >12 to <18 years).
+Baseline demographics and HBV disease characteristics were comparable between the 2 treatment arms and across age cohorts.
+At study entry, the mean HBV DNA was 8.1 log10 IU/mL and mean ALT was 103 U/L.
+The primary efficacy endpoint was a composite of HBeAg seroconversion and serum HBV DNA <50 IU/mL at Week 48.assessed in the first 123 subjects reaching 48 weeks of blinded treatment.
+Twenty-four percent (20/82) of subjects in the entecavir-treated group and 2% (1/41) of subjects in the placebo-treated group met the primary endpoint.
+Forty-six percent (38/82) of entecavir -treated subjects and 2% (1/41) of placebo-treated subjects achieved HBV DNA <50 IU/mL at Week 48.
+ALT normalization occurred in 67% (55/82) of entecavir-treated subjects and 22% (9/41) of placebo-treated subjects; 24% (20/82) of entecavir-treated subjects and 12% (5/41) of placebo-treated subjects had HBeAg seroconversion.
