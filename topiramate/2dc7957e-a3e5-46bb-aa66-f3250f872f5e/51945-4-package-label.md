@@ -4,7 +4,7 @@
 
 NDC 17772-101-01
 
-Trokendi XR™ (topiramate) extended-release capsules
+Trokendi XR ™ (topiramate) extended-release capsules
 
 Once daily.
 
@@ -15,7 +15,7 @@ Do not open, crush, chew, or sprinkle capsule contents on food.
 
 ATTENTION PHARMACIST: Dispense the Accompanying Medication Guide to Each Patient
 
-Supernus®
+Supernus ®
 
 Rx only
 
@@ -25,7 +25,7 @@ Rx only
 
 NDC 17772-102-01
 
-Trokendi XR™ (topiramate) extended-release capsules
+Trokendi XR ™ (topiramate) extended-release capsules
 
 Once daily.
 
@@ -36,7 +36,7 @@ Do not open, crush, chew, or sprinkle capsule contents on food.
 
 ATTENTION PHARMACIST: Dispense the Accompanying Medication Guide to Each Patient
 
-Supernus®
+Supernus ®
 
 Rx only
 
@@ -46,7 +46,7 @@ Rx only
 
 NDC 17772-103-01
 
-Trokendi XR™ (topiramate) extended-release capsules
+Trokendi XR ™ (topiramate) extended-release capsules
 
 Once daily.
 
@@ -57,7 +57,7 @@ Do not open, crush, chew, or sprinkle capsule contents on food.
 
 ATTENTION PHARMACIST: Dispense the Accompanying Medication Guide to Each Patient
 
-Supernus®
+Supernus ®
 
 Rx only
 
@@ -67,7 +67,7 @@ Rx only
 
 NDC 17772-104-01
 
-Trokendi XR™ (topiramate) extended-release capsules
+Trokendi XR ™ (topiramate) extended-release capsules
 
 Once daily.
 
@@ -78,6 +78,6 @@ Do not open, crush, chew, or sprinkle capsule contents on food.
 
 ATTENTION PHARMACIST: Dispense the Accompanying Medication Guide to Each Patient
 
-Supernus®
+Supernus ®
 
 Rx only

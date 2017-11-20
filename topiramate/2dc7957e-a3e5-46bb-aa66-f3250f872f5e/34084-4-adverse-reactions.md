@@ -16,8 +16,8 @@ The following serious adverse reactions are discussed in more detail in other se
 - Paresthesia [see Warnings and Precautions (5.13)]
 
 The data described in the following sections were obtained using immediate-release topiramate tablets in studies of patients with epilepsy.
-TROKENDI XR® has not been studied in a randomized, placebo-controlled Phase III clinical study in the epilepsy patient population.
-However, it is expected that TROKENDI XR® would produce a similar adverse reaction profile as immediate-release topiramate.
+TROKENDI XR ® has not been studied in a randomized, placebo-controlled Phase III clinical study in the epilepsy patient population.
+However, it is expected that TROKENDI XR ® would produce a similar adverse reaction profile as immediate-release topiramate.
 
 ## 6.1 Clinical Trials Experience
 
@@ -50,7 +50,7 @@ The adverse reactions in the controlled trial (Study 1) that occurred most commo
 Approximately 14% of the 77 pediatric patients in the 400 mg per day group who received topiramate as monotherapy in the controlled clinical trial discontinued therapy due to adverse reactions.
 The most common (≥ 2% more frequent than in the 50 mg per day group) adverse reactions resulting in discontinuation in this trial were difficulty with concentration/attention, fever, flushing, and confusion.
 
-Table 3: Incidence (%) of Adverse Reaction in the Monotherapy Epilepsy Trial in AdultsValues represent the percentage of patients reporting a given adverse reaction.
+Table 3: Incidence (%) of Adverse Reaction in the Monotherapy Epilepsy Trial in Adults Values represent the percentage of patients reporting a given adverse reaction.
 Patients may have reported more than one adverse reaction during the study and can be included in more than one adverse reaction category Where Incidence Was at Least 2% in the 400 mg/day Immediate-Release Topiramate Group and Greater Than the Rate in the 50 mg/day Immediate-Release Topiramate Group
 
 | Adverse Reaction | (N=160) | (N=159) |
@@ -114,7 +114,7 @@ Patients may have reported more than one adverse reaction during the study and c
 | Dysuria | 0 | 2 |
 | Micturition Frequency | 0 | 2 |
 
-Table 4: Incidence (%) of Adverse Reactions in the Monotherapy Epilepsy Trial in Pediatric Patients (Ages 6 to Less Than 16 Years)Values represent the percentage of patients reporting a given adverse event.
+Table 4: Incidence (%) of Adverse Reactions in the Monotherapy Epilepsy Trial in Pediatric Patients (Ages 6 to Less Than 16 Years) Values represent the percentage of patients reporting a given adverse event.
 Patients may have reported more than one adverse event during the study and can be included in more than one adverse event category Where Incidence Was at Least 2% in the 400 mg/day Immediate-Release Topiramate Group and Greater than the Rate in the 50 mg/day Immediate-Release Topiramate Group
 
 | Adverse Reaction | (N=74) | (N=77) |
@@ -144,7 +144,7 @@ Patients may have reported more than one adverse event during the study and can 
 | Personality Disorder (Behavior Problems) | 0 | 3 |
 | Red Blood Cell Disorders |  |  |
 | Anemia | 1 | 3 |
-| Reproductive Disorders, FemaleN with Reproductive Disorders, Female-Incidence calculated relative to the number of females; Pediatric TPM 50 mg n=40; Pediatric TPM 400 mg n=33 |  |  |
+| Reproductive Disorders, Female N with Reproductive Disorders, Female-Incidence calculated relative to the number of females; Pediatric TPM 50 mg n=40; Pediatric TPM 400 mg n=33 |  |  |
 | Intermenstrual Bleeding | 0 | 3 |
 | Resistance Mechanism Disorders |  |  |
 | Infection | 3 | 8 |
@@ -190,7 +190,7 @@ Other Adverse Reactions Observed During Double-Blind Epilepsy Adjunctive Therapy
 
 Other adverse reactions that occurred in more than 1% of adults treated with 200 mg to 400 mg of topiramate in placebo-controlled epilepsy trials but with equal or greater frequency in the placebo group were headache, injury, anxiety, rash, pain, convulsions aggravated, coughing, fever, diarrhea, vomiting, muscle weakness, insomnia, personality disorder, dysmenorrhea, upper respiratory tract infection, and eye pain.
 
-Table 5: Incidence (%) of Adverse Reactions in Placebo-Controlled, Adjunctive Epilepsy Trials in AdultsPatients in these adjunctive trials were receiving 1 to 2 concomitant antiepileptic drugs in addition to topiramate or placebo,Values represent the percentage of patients reporting a given reaction.
+Table 5: Incidence (%) of Adverse Reactions in Placebo-Controlled, Adjunctive Epilepsy Trials in Adults Patients in these adjunctive trials were receiving 1 to 2 concomitant antiepileptic drugs in addition to topiramate or placebo,Values represent the percentage of patients reporting a given reaction.
 Patient may have reported more than one adverse reaction during the study and can be included in more than one adverse reaction category.,Adverse reactions reported by at least 1% of patients in the topiramate 200 mg to 400 mg per day group and more common than in the placebo group
 
 | Adverse Reaction | (N=291) | (N=183) | (N=414) |
@@ -345,7 +345,7 @@ Patients may have reported more than one adverse reaction during the study and c
 | Diplopia | 0 | 2 |
 | Vision abnormal | 0 | 2 |
 
-Table 7: Incidence (%) of Dose-Related Adverse Reactions From Placebo-Controlled, Adjunctive Trials in Adults With Partial Onset Seizures (Studies 2 through 7)Dose-response studies were not conducted for other adult indications or for pediatric indications
+Table 7: Incidence (%) of Dose-Related Adverse Reactions From Placebo-Controlled, Adjunctive Trials in Adults With Partial Onset Seizures (Studies 2 through 7) Dose-response studies were not conducted for other adult indications or for pediatric indications
 
 | (N=216) | (N=45) | (N=68) | (N=414) |  |
 | --- | --- | --- | --- | --- |
@@ -362,7 +362,7 @@ Table 7: Incidence (%) of Dose-Related Adverse Reactions From Placebo-Controlled
 | Mood Problems | 2 | 0 | 6 | 9 |
 | Weight Decrease | 3 | 4 | 9 | 13 |
 
-Table 8: Incidence (%) of Adverse Reaction in Placebo-Controlled, Adjunctive Epilepsy Trial in Pediatric Patients (Ages 2 Years to 16 Years)Patients in these adjunctive trials were receiving 1 to 2 concomitant antiepileptic drugs in addition to topiramate or placebo,Values represent the percentage of patients reporting a given adverse reaction.
+Table 8: Incidence (%) of Adverse Reaction in Placebo-Controlled, Adjunctive Epilepsy Trial in Pediatric Patients (Ages 2 Years to 16 Years) Patients in these adjunctive trials were receiving 1 to 2 concomitant antiepileptic drugs in addition to topiramate or placebo,Values represent the percentage of patients reporting a given adverse reaction.
 Patients may have reported more than one adverse reaction during the study and can be included in more than one adverse reaction category,Reactions that occurred in at least 1% of topiramate-treated patients and occurred more frequently in topiramate-treated than placebo-treated patients (Study 8)
 
 | Adverse Reaction | (N=101) | (N=98) |
@@ -460,7 +460,7 @@ Most adverse reactions occurred more frequently during the titration period than
 The most common (≥5% more frequent than placebo) adverse reactions associated with the use of the 100 mg topiramate dose in controlled, migraine clinical trials of predominantly adults were paresthesia, anorexia, weight decrease, taste perversion, diarrhea, difficulty with memory, hypoesthesia, and nausea.
 Table 9 includes those adverse reactions reported for patients in the placebo-controlled trials where the incidence in any immediate-release topiramate group was at least 2% and was greater than that for placebo patients.
 
-Table 9: Incidence (%) of Adverse Reactions in Placebo-Controlled, Migraine Trials Where Incidence Was ≥ 2% in Any Immediate-release Topiramate Group and Greater than the Rate in Placebo PatientsIncludes 35 adolescent patients age 12 to 15 yearsValues represent the percentage of patients reporting a given reaction.
+Table 9: Incidence (%) of Adverse Reactions in Placebo-Controlled, Migraine Trials Where Incidence Was ≥ 2% in Any Immediate-release Topiramate Group and Greater than the Rate in Placebo Patients Includes 35 adolescent patients age 12 to 15 yearsValues represent the percentage of patients reporting a given reaction.
 Patients may have reported more than one adverse reaction during the study and can be included in more than one adverse reaction category.
 Blurred vision was the most common term considered as vision abnormal.
 Blurred vision was an included term that accounted for more than 50% of reactions coded as vision abnormal, a preferred term
@@ -556,7 +556,7 @@ Table 10 shows adverse reactions that were dose-dependent.
 Several central nervous system adverse reactions, including some that represented cognitive dysfunction, were dose-related.
 The most common dose-related adverse reactions (treatment difference ≥5% for the 100 mg dose) were: paresthesia, nausea, anorexia, difficulty with memory, diarrhea, weight decrease, and hypoesthesia.
 
-Table 10: Incidence (%) of Dose-Related Adverse Reactions From Placebo-Controlled, Migraine TrialsIncludes 35 adolescent patients age 12 to <16 yearsThe incidence of adverse reactions in the 200mg per day group was greater than or equal to 2% than the incidence in both the placebo group and the 50 mg per day group
+Table 10: Incidence (%) of Dose-Related Adverse Reactions From Placebo-Controlled, Migraine Trials Includes 35 adolescent patients age 12 to <16 yearsThe incidence of adverse reactions in the 200mg per day group was greater than or equal to 2% than the incidence in both the placebo group and the 50 mg per day group
 
 | Adverse Reaction | (N=445) % | (N=235) % | (N=386) % | (N=514) % |
 | --- | --- | --- | --- | --- |
@@ -593,7 +593,7 @@ Table 11 shows adverse reactions from the adolescent pivotal trial (Study 3) dem
 Table 11 also shows adverse reactions in adolescents in the controlled migraine trials when the incidence in an immediate-release topiramate dose group was at least 5% or higher than the incidence of placebo.
 Many adverse reactions shown in Table 11 indicated a dose-dependent relationship.
 
-Table 11: Incidence (%) of Adverse Reactions in at Least 5% or Greater than the Placebo Incidence of Adolescents (12 – 17 Years) in any Immediate-Release Topiramate Group in Pooled Double-Blind Migraine Prophylaxis Studies35 adolescent patients aged 12 to <16 years were also included in adverse reaction assessment for adults (Tables 9 and10)Incidence is based on the number of subjects experiencing at least 1 adverse event, not the number of events.
+Table 11: Incidence (%) of Adverse Reactions in at Least 5% or Greater than the Placebo Incidence of Adolescents (12 – 17 Years) in any Immediate-Release Topiramate Group in Pooled Double-Blind Migraine Prophylaxis Studies 35 adolescent patients aged 12 to <16 years were also included in adverse reaction assessment for adults (Tables 9 and10)Incidence is based on the number of subjects experiencing at least 1 adverse event, not the number of events.
 
 | Body System/ Adverse Reaction | Placebo (N=45) % | 50 mg/day (N=46) % | 100 mg/day (N=48) % | 200 mg/day (N=13) % |
 | --- | --- | --- | --- | --- |
@@ -655,7 +655,7 @@ Topiramate decreases serum bicarbonate [see Warnings and Precautions (5.4)]
 Topiramate treatment with or without concomitant valproic acid (VPA) can cause hyperammonemia with or without encephalopathy [see Warnings and Precautions (5.10)].
 
 Immediate-release topiramate treatment was associated with changes in several clinical laboratory analytes in randomized, double-blind, placebo-controlled studies.
-Similar effects should be anticipated with use of TROKENDI XR®.
+Similar effects should be anticipated with use of TROKENDI XR ®.
 
 Epilepsy
 

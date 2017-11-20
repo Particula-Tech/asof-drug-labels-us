@@ -1,8 +1,8 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-## 16.1 TROKENDI XR® Capsules
+## 16.1 TROKENDI XR ® Capsules
 
-TROKENDI XR® (topiramate) extended-release capsules are available as extended-release capsules in the following strengths and colors:
+TROKENDI XR ® (topiramate) extended-release capsules are available as extended-release capsules in the following strengths and colors:
 
 Bottles
 
@@ -26,5 +26,5 @@ Blister package
 
 ## 16.2 Storage and Handling
 
-TROKENDI XR® (topiramate) extended-release capsules should be stored in well closed containers at controlled room temperature [25°C (77°F); excursions 15°C-30°C (59°F-86°F)].
+TROKENDI XR ® (topiramate) extended-release capsules should be stored in well closed containers at controlled room temperature [25°C (77°F); excursions 15°C-30°C (59°F-86°F)].
 Protect from moisture and light.

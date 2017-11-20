@@ -2,7 +2,7 @@
 
 ## 7.1 Alcohol
 
-Alcohol use is contraindicated within 6 hours prior to and 6 hours after TROKENDI XR® administration [see Contraindications (4) and Warnings and Precautions (5.5)].
+Alcohol use is contraindicated within 6 hours prior to and 6 hours after TROKENDI XR ® administration [see Contraindications (4) and Warnings and Precautions (5.5)].
 
 ## 7.2 Oral Contraceptives
 
@@ -11,7 +11,7 @@ However, norethindrone exposure was not significantly affected.
 
 In another pharmacokinetic interaction study in healthy volunteers with a concomitantly administered combination oral contraceptive product containing 1 mg norethindrone (NET) plus 35 mcg ethinyl estradiol (EE), topiramate, given in the absence of other medications at doses of 50 to 200 mg per day, was not associated with statistically significant changes in mean exposure to either component of the oral contraceptive.
 
-The possibility of decreased contraceptive efficacy and increased breakthrough bleeding should be considered in patients taking combination oral contraceptive products with TROKENDI XR®.
+The possibility of decreased contraceptive efficacy and increased breakthrough bleeding should be considered in patients taking combination oral contraceptive products with TROKENDI XR ®.
 Patients taking estrogen-containing contraceptives should be asked to report any change in their bleeding patterns.
 Contraceptive efficacy can be decreased even in the absence of breakthrough bleeding [see Clinical Pharmacology (12.3)].
 
@@ -26,7 +26,7 @@ It may be prudent to examine blood ammonia levels in patients in whom the onset 
 Numerous AEDs are substrates of the CYP enzyme system.
 In vitro studies indicate that topiramate does not inhibit enzyme activity for CYP1A2, CYP2A6, CYP2B6, CYP2C9, CYP2D6, CYP2E1, and CYP3A4/5 isozymes.
 In vitro studies indicate that immediate-release topiramate is a mild inhibitor of CYP2C19 and a mild inducer of CYP3A4.
-The same drug interactions can be expected with the use of TROKENDI XR®.
+The same drug interactions can be expected with the use of TROKENDI XR ®.
 
 ## 7.4 CNS Depressants
 
@@ -36,14 +36,14 @@ Concomitant administration of topiramate with other CNS depressant drugs or alco
 ## 7.5 Other Carbonic Anhydrase Inhibitors
 
 Concomitant use of topiramate, a carbonic anhydrase inhibitor, with any other carbonic anhydrase inhibitor (e.g., zonisamide, acetazolamide or dichlorphenamide), may increase the severity of metabolic acidosis and may also increase the risk of kidney stone formation.
-Patient should be monitored for the appearance or worsening of metabolic acidosis when TROKENDI XR® is given concomitantly with another carbonic anhydrase inhibitor [see Clinical Pharmacology (12.3)].
+Patient should be monitored for the appearance or worsening of metabolic acidosis when TROKENDI XR ® is given concomitantly with another carbonic anhydrase inhibitor [see Clinical Pharmacology (12.3)].
 
 ## 7.6 Metformin
 
 Topiramate treatment can frequently cause metabolic acidosis, a condition for which the use of metformin is contraindicated.
-The concomitant use of TROKENDI XR® and metformin is contraindicated in patients with metabolic acidosis [see Clinical Pharmacology (12.3)].
+The concomitant use of TROKENDI XR ® and metformin is contraindicated in patients with metabolic acidosis [see Clinical Pharmacology (12.3)].
 
 ## 7.7 Lithium
 
 In patients, there was an observed increase in systemic exposure of lithium following topiramate doses of up to 600 mg per day.
-Lithium levels should be monitored when co-administered with high-dose TROKENDI XR® [see Clinical Pharmacology (12.3)].
+Lithium levels should be monitored when co-administered with high-dose TROKENDI XR ® [see Clinical Pharmacology (12.3)].

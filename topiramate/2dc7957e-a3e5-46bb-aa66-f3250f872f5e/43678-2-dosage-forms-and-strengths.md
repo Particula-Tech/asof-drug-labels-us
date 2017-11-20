@@ -1,6 +1,6 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-TROKENDI XR® (topiramate) extended-release capsules are available in the following strengths and colors:
+TROKENDI XR ® (topiramate) extended-release capsules are available in the following strengths and colors:
 
 25 mg: Size 2 capsules, light green opaque body/yellow opaque cap (printed "SPN" on the cap, "25" on the body)
 
