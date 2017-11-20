@@ -226,6 +226,8 @@ Effects of CADUET on Other Drugs
 
 Amlodipine:
 
+Amlodipine is a weak inhibitor of CYP3A and may increase exposure to CYP3A substrates.
+
 In vitro data indicate that amlodipine has no effect on the human plasma protein binding of digoxin, phenytoin, warfarin, and indomethacin.
 
 Co-administered amlodipine does not affect the exposure to atorvastatin, digoxin, ethanol and the warfarin prothrombin response time.
