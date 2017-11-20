@@ -2,9 +2,9 @@
 
 NDC 0069-4004-05
 
-Single-Dose Rx only
+Single-Dose Discard unused portion
 
-Discard unused portion
+Rx only
 
 DOXOrubicin HCl Injection, USP
 
@@ -36,9 +36,9 @@ PREMIERProRx®
 
 NDC 0069-4015-10
 
-Single-Dose Rx only
+Single-Dose Discard unused portion
 
-Discard unused portion
+Rx only
 
 DOXOrubicin HCl Injection, USP
 
@@ -72,9 +72,9 @@ PREMIERProRx®
 
 NDC 0069-4026-25
 
-Single-Dose Rx only
+Single-Dose Discard unused portion
 
-Discard unused portion
+Rx only
 
 DOXOrubicin HCl Injection, USP
 
