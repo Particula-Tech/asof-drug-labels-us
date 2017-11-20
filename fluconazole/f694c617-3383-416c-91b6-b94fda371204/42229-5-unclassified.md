@@ -1,1 +1,1 @@
-LAB-0099-22.0 September 2017
+LAB-0099-23.0 November 2017
