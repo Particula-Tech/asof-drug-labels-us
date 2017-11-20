@@ -24,7 +24,7 @@ Probenecid should not be co-administered with piperacillin and tazobactam for in
 
 ## 7.3 Vancomycin
 
-A limited number of retrospective studies have detected an increased incidence of acute kidney injury in patients concomitantly administered piperacillin/tazobactam and vancomycin as compared to vancomycin alone.
+Studies have detected an increased incidence of acute kidney injury in patients concomitantly administered piperacillin/tazobactam and vancomycin as compared to vancomycin alone [see Warnings and Precautions (5.5)].
 Monitor kidney function in patients concomitantly administered with piperacillin/tazobactam and vancomycin.
 
 No pharmacokinetic interactions have been noted between piperacillin/tazobactam and vancomycin.
@@ -54,4 +54,4 @@ Cross-reactions with non-Aspergillus polysaccharides and polyfuranoses with the 
 Therefore, positive test results in patients receiving piperacillin/tazobactam should be interpreted cautiously and confirmed by other diagnostic methods.
 
 As with other penicillins, the administration of piperacillin and tazobactam for injection may result in a false-positive reaction for glucose in the urine using a copper-reduction method (CLINITEST®).
-It is recommended that glucose tests based on enzymatic glucose oxidase reactions be used
+It is recommended that glucose tests based on enzymatic glucose oxidase reactions be used.

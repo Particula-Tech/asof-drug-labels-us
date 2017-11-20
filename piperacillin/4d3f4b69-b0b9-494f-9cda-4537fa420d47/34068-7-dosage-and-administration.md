@@ -17,10 +17,10 @@ Treatment with the aminoglycoside should be continued in patients from whom P. a
 
 ## 2.3 Renal Impairment
 
-In patients with renal impairment (creatinine clearance ≤ 40 mL/min) and dialysis patients (hemodialysis and CAPD), the intravenous dose of piperacillin and tazobactam for injection should be reduced to the degree of actual renal function impairment.
+In patients with renal impairment (creatinine clearance ≤40 mL/min) and dialysis patients (hemodialysis and CAPD), the intravenous dose of piperacillin and tazobactam for injection should be reduced to the degree of actual renal function impairment.
 The recommended daily doses of piperacillin and tazobactam for injection for patients with renal impairment are as follows:
 
-Table 1: Recommended Dosing of Piperacillin and Tazobactam for Injection in Patients with Normal Renal Function and Renal ‑ Impairment (As total grams piperacillin/tazobactam)
+1. Table 1 Recommended Dosing of Piperacillin and Tazobactam for Injection in Patients with Normal Renal Function and Renal Impairment (As total grams piperacillin/tazobactam)
 
 | Renal Function (creatinine clearance, mL/min) | All Indications (except nosocomial pneumonia) | Nosocomial Pneumonia |
 | --- | --- | --- |
@@ -118,17 +118,17 @@ Piperacillin and tazobactam for injection and aminoglycosides should be reconsti
 
 In circumstances where co-administration via Y-site is necessary, Y-site infusion only with the following aminoglycosides under the following conditions:
 
-Table 2: Compatibility with Aminoglycosides
+Table 2 Compatibility with Aminoglycosides
 
 | Aminoglycoside | Piperacillin and Tazobactam for Injection Dose (grams) | Piperacillin and Tazobactam for Injection Diluent VolumeDiluent volumes apply to single dose vials (mL) | Aminoglycoside Concentration RangeThe concentration ranges in Table 2 are based on administration of the aminoglycoside in divided doses (10 to 15 mg/kg/day in two daily doses for amikacin and 3 to 5 mg/kg/day in three daily doses for gentamicin). Administration of amikacin or gentamicin in a single daily dose or in doses exceeding those stated above via Y-site with piperacillin and tazobactam for injection has not been evaluated. See package insert for each aminoglycoside for complete Dosage and Administration instructions. (mg/mL) | Acceptable Diluents |
 | --- | --- | --- | --- | --- |
-| Amikacin | 2.25, 3.375, 4.5 | 50, 100, 150 | 1.75 – 7.5 | 0.9% sodium chloride or 5% dextrose |
-| Gentamicin | 2.25, 3.375, 4.5 | 50, 100, 150 | 0.7 – 3.32 | 0.9% sodium chloride or 5% dextrose |
+| Amikacin | 2.253.3754.5 | 50100150 | 1.75 – 7.5 | 0.9% sodium chloride or 5% dextrose |
+| Gentamicin | 2.253.3754.5 | 50100150 | 0.7 – 3.32 | 0.9% sodium chloride or 5% dextrose |
 
-Only the concentration and diluents for amikacin or gentamicin with the dosages of piperacillin and tazobactam for injection listed above have been established as compatible for coadministration via Y-site infusion.
-Simultaneous coadministration via Y-site infusion in any manner other than listed above may result in inactivation of the aminoglycoside by piperacillin and tazobactam for injection.
+Only the concentration and diluents for amikacin or gentamicin with the dosages of piperacillin and tazobactam for injection listed above have been established as compatible for co-administration via Y-site infusion.
+Simultaneous co-administration via Y-site infusion in any manner other than listed above may result in inactivation of the aminoglycoside by piperacillin and tazobactam for injection.
 
-Piperacillin and tazobactam for injection is not compatible with tobramycin for simultaneous coadministration via Y-site infusion.
+Piperacillin and tazobactam for injection is not compatible with tobramycin for simultaneous co-administration via Y-site infusion.
 Compatibility of piperacillin and tazobactam for injection with other aminoglycosides has not been established.
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.

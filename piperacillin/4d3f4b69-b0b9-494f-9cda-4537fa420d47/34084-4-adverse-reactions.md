@@ -8,7 +8,7 @@ During the initial clinical investigations, 2621 patients worldwide were treated
 In the key North American monotherapy clinical trials (n=830 patients), 90% of the adverse events reported were mild to moderate in severity and transient in nature.
 However, in 3.2% of the patients treated worldwide, piperacillin and tazobactam for injection was discontinued because of adverse events primarily involving the skin (1.3%), including rash and pruritus; the gastrointestinal system (0.9%), including diarrhea, nausea, and vomiting; and allergic reactions (0.5%).
 
-Table 3: Adverse Reactions from Piperacillin and Tazobactam for Injection Monotherapy Clinical Trials
+Table 3 Adverse Reactions from Piperacillin and Tazobactam for Injection Monotherapy Clinical Trials
 
 | System Organ Class Adverse Reaction |
 | --- |
@@ -54,11 +54,11 @@ Nosocomial Pneumonia Trials
 Two trials of nosocomial lower respiratory tract infections were conducted.
 In one study, 222 patients were treated with piperacillin and tazobactam for injection in a dosing regimen of 4.5 g every 6 hours in combination with an aminoglycoside and 215 patients were treated with imipenem/cilastatin (500 mg/500 mg q6h) in combination with an aminoglycoside.
 In this trial, treatment-emergent adverse events were reported by 402 patients, 204 (91.9%) in the piperacillin/tazobactam group and 198 (92.1%) in the imipenem/cilastatin group.
-Twenty-five (11%) patients in the piperacillin/tazobactam group and 14 (6.5%) in the imipenem/cilastatin group (p > 0.05) discontinued treatment due to an adverse event.
+Twenty-five (11%) patients in the piperacillin/tazobactam group and 14 (6.5%) in the imipenem/cilastatin group (p >0.05) discontinued treatment due to an adverse event.
 
 The second trial used a dosing regimen of 3.375 g given every 4 hours with an aminoglycoside.
 
-Table 4: Adverse Reactions from Piperacillin and Tazobactam Injection Plus Aminoglycoside Clinical TrialsFor adverse drug reactions that appeared in both studies the higher frequency is presented.
+Table 4 Adverse Reactions from Piperacillin and Tazobactam Injection Plus Aminoglycoside Clinical TrialsFor adverse drug reactions that appeared in both studies the higher frequency is presented.
 
 | System Organ Class Adverse Reaction |
 | --- |
@@ -104,6 +104,10 @@ Table 4: Adverse Reactions from Piperacillin and Tazobactam Injection Plus Amino
 | Thrombophlebitis (1.3%) |
 | Hypotension (1.3%) |
 
+Other Trials: Nephrotoxicity
+
+In a randomized, multicenter, controlled trial in 1200 adult critically ill patients, piperacillin/tazobactam was found to be a risk factor for renal failure (odds ratio 1.7, 95% CI 1.18 to 2.43), and associated with delayed recovery of renal function as compared to other betalactam antibacterial drugs.1[see Warnings and Precautions (5.5)].
+
 Pediatrics
 
 Studies of piperacillin and tazobactam for injection in pediatric patients suggest a similar safety profile to that seen in adults.
@@ -129,7 +133,7 @@ Additional laboratory events include abnormalities in electrolytes (i.e., increa
 ## 6.2 Post-Marketing Experience
 
 In addition to the adverse drug reactions identified in clinical trials in Table 3 and Table 4, the following adverse reactions have been identified during postapproval use of piperacillin and tazobactam for injection.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish causal relationship to drug exposure.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Hepatobiliary–hepatitis, jaundice
 
@@ -149,4 +153,4 @@ The following adverse reaction has also been reported for piperacillin for injec
 
 Skeletal–prolonged muscle relaxation [see Drug Interactions (7.5)].
 
-Post-marketing experience with piperacillin and tazobactam for injection in pediatric patients suggests a similar safety profile to that seen in adults
+Post-marketing experience with piperacillin and tazobactam for injection in pediatric patients suggests a similar safety profile to that seen in adults.

@@ -17,4 +17,4 @@ Each vial contains 9.39 mEq (216 mg) of sodium.
 
 Supplied 10 per box – NDC 0409-3390-04
 
-Piperacillin and tazobactam for injection, USP vials should be stored at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature] prior to reconstitution.
+Piperacillin and tazobactam for injection, USP vials should be stored at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature] prior to reconstitution.

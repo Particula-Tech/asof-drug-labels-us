@@ -12,19 +12,19 @@ The pharmacodynamic parameter for piperacillin/tazobactam that is most predictiv
 
 The mean and coefficients of variation (CV%) for the pharmacokinetic parameters of piperacillin and tazobactam after multiple intravenous doses are summarized in Table 6.
 
-Table 6: Mean (CV%) Piperacillin and Tazobactam PK Parameters
+Table 6 Mean (CV%) Piperacillin and Tazobactam PK Parameters
 
 | Piperacillin |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Piperacillin/ Tazobactam DosePiperacillin and tazobactam were given in combination, infused over 30 minutes. | Cmax mcg/mL | AUCNumbers in parentheses are coefficients of variation (CV%). mcg•h/mL | CL mL/min | V L | T1/2 h | CLR mL/min |
-| 2.25 g | 134 | 131 (14) | 257 | 17.4 | 0.79 | -‑ |
+| 2.25 g | 134 | 131 (14) | 257 | 17.4 | 0.79 | - |
 | 3.375 g | 242 | 242 (10) | 207 | 15.1 | 0.84 | 140 |
-| 4.5 g | 298 | 322 (16) | 210 | 15.4 | 0.84 | -- |
+| 4.5 g | 298 | 322 (16) | 210 | 15.4 | 0.84 | - |
 | Tazobactam |  |  |  |  |  |  |
 | Piperacillin/ Tazobactam Dose | Cmax mcg/mL | AUC mcg•h/mL | CL mL/min | V L | T1/2 h | CLR mL/min |
-| 2.25 g | 15 | 16 (21) | 258 | 17 | 0.77 | -‑ |
+| 2.25 g | 15 | 16 (21) | 258 | 17 | 0.77 | - |
 | 3.375 g | 24 | 25 (8) | 251 | 14.8 | 0.68 | 166 |
-| 4.5 g | 34 | 39.8 (15) | 206 | 14.7 | 0.82 | -‑ |
+| 4.5 g | 34 | 39.8 (15) | 206 | 14.7 | 0.82 | - |
 
 Peak plasma concentrations of piperacillin and tazobactam are attained immediately after completion of an intravenous infusion of piperacillin and tazobactam for injection.
 Piperacillin plasma concentrations, following a 30-minute infusion of piperacillin and tazobactam for injection, were similar to those attained when equivalent doses of piperacillin were administered alone.
@@ -40,9 +40,9 @@ Piperacillin and tazobactam are widely distributed into tissues and body fluids 
 Mean tissue concentrations are generally 50% to 100% of those in plasma.
 Distribution of piperacillin and tazobactam into cerebrospinal fluid is low in subjects with non-inflamed meninges, as with other penicillins (see Table 7).
 
-Table 7: Piperacillin/Tazobactam Concentrations in Selected Tissues and Fluids after Single 4 g/0.5 g 30-min IV Infusion of Piperacillin and Tazobactam for Injection
+1. Table 7 Piperacillin/Tazobactam Concentrations in Selected Tissues and Fluids after Single 4 g/0.5 g 30-min IV Infusion of Piperacillin and Tazobactam for Injection
 
-| Tissue or Fluid | NEach subject provided a single sample. | Sampling periodTime from the start of the infusion (h) | Mean PIP Concentration Range (mg/L) | Tissue: Plasma Range | Tazo Concentration Range (mg/L) | Tazo Tissue: Plasma Range |
+| Tissue or Fluid | NEach subject provided a single sample. | Sampling periodTime from the start of the infusion. (h) | Mean PIP Concentration Range (mg/L) | Tissue: Plasma Range | Tazo Concentration Range (mg/L) | Tazo Tissue: Plasma Range |
 | --- | --- | --- | --- | --- | --- | --- |
 | Skin | 35 | 0.5 – 4.5 | 34.8 – 94.2 | 0.6 – 1.1 | 4 – 7.7 | 0.49 – 0.93 |
 | Fatty Tissue | 37 | 0.5 – 4.5 | 4 – 10.1 | 0.097 – 0.115 | 0.7 – 1.5 | 0.1 – 0.13 |
@@ -117,7 +117,7 @@ In vitro, piperacillin is active against a variety of Gram-positive and Gram-neg
 Tazobactam sodium has little clinically relevant in vitro activity against bacteria due to its reduced affinity to penicillin-binding proteins.
 It is, however, a β-lactamase inhibitor of the Molecular class A enzymes, including Richmond-Sykes class III (Bush class 2b & 2b') penicillinases and cephalosporinases.
 It varies in its ability to inhibit class II and IV (2a & 4) penicillinases.
-Tazobactam does not induce chromosomally‑mediated β-lactamases at tazobactam concentrations achieved with the recommended dosage regimen.
+Tazobactam does not induce chromosomally mediated β-lactamases at tazobactam concentrations achieved with the recommended dosage regimen.
 
 Spectrum of Activity
 
@@ -204,32 +204,32 @@ Dilution Techniques:
 Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
 The MICs should be determined using a standardized procedure.
-Standardized procedures are based on a dilution method (broth or agar) or equivalent with standardized inoculum concentrations and standardized concentrations of piperacillin and tazobactam powders.1,2 MIC values should be determined using serial dilutions of piperacillin combined with a fixed concentration of 4 μg/mL tazobactam.
+Standardized procedures are based on a dilution method (broth or agar) or equivalent with standardized inoculum concentrations and standardized concentrations of piperacillin and tazobactam powders.2,3 MIC values should be determined using serial dilutions of piperacillin combined with a fixed concentration of 4 mcg/mL tazobactam.
 The MIC values obtained should be interpreted according to criteria provided in Table 8.
 
 Diffusion Technique:
 
 Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
 The zone size provides an estimate of the susceptibility of bacteria to antimicrobial compounds.
-The zone size should be determined using a standardized test method1,3 and requires the use of standardized inoculum concentrations.
+The zone size should be determined using a standardized test method2,4 and requires the use of standardized inoculum concentrations.
 This procedure uses paper disks impregnated with 100 mcg of piperacillin and 10 mcg of tazobactam to test the susceptibility of microorganisms to piperacillin/tazobactam.
 The disk diffusion interpreted criteria are provided in Table 8.
 
 Anaerobic Techniques
 
-For anaerobic bacteria, the susceptibility to piperacillin/tazobactam can be determined by the reference agar dilution method.4
+For anaerobic bacteria, the susceptibility to piperacillin/tazobactam can be determined by the reference agar dilution method.5
 
-Table 8: Susceptibility Interpretive Criteria for Piperacillin/Tazobactam
+Table 8 Susceptibility Interpretive Criteria for Piperacillin/Tazobactam
 
 | Pathogen | S | I | R | S | I | R |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | Susceptibility Test Result Interpretive Criteria |  |  |  |  |  |
 |  | Minimal Inhibitory Concentration (MIC in mcg/mL) |  |  | Disk Diffusion (Zone Diameter in mm) |  |  |
-| Enterobacteriaceae | ≤ 16 | 32 – 64 | ≥ 128 | ≥ 21 | 18 – 20 | ≤ 17 |
-| Acinetobacter baumannii | ≤ 16 | 32 – 64 | ≥ 128 | ≥ 21 | 18 – 20 | ≤ 17 |
-| Haemophilus influenzaeThese interpretive criteria for Haemophilus influenzae are applicable only to tests performed using Haemophilus Test Medium inoculated with a direct colony suspension and incubated at 35°C in ambient air for 20 to 24 hours. Note: Susceptibility of staphylococci to piperacillin/tazobactam may be deduced from testing only penicillin and either cefoxitin or oxacillin. | ≤ 1 | - | ≥ 2 | ≥ 21 | - | - |
-| Pseudomonas aeruginosa | ≤ 16 | 32 – 64 | ≥ 128 | ≥ 21 | 15 – 20 | ≤ 14 |
-| Bacteroides fragilis group | ≤ 32 | 64 | ≥ 128 | - | - | - |
+| Enterobacteriaceae | ≤16 | 32 – 64 | ≥128 | ≥21 | 18 – 20 | ≤17 |
+| Acinetobacter baumannii | ≤16 | 32 – 64 | ≥128 | ≥21 | 18 – 20 | ≤17 |
+| Haemophilus influenzaeThese interpretive criteria for Haemophilus influenzae are applicable only to tests performed using Haemophilus Test Medium inoculated with a direct colony suspension and incubated at 35°C in ambient air for 20 to 24 hours. Note: Susceptibility of staphylococci to piperacillin/tazobactam may be deduced from testing only penicillin and either cefoxitin or oxacillin. | ≤1 | - | ≥2 | ≥21 | - | - |
+| Pseudomonas aeruginosa | ≤16 | 32 – 64 | ≥128 | ≥21 | 15 – 20 | ≤14 |
+| Bacteroides fragilis group | ≤32 | 64 | ≥128 | - | - | - |
 
 A report of S (“Susceptible”) indicates that the pathogen is likely to be inhibited if the antimicrobial compound in the blood reaches the concentration at the infection site necessary to inhibit growth of the pathogen.
 A report of I (“Intermediate”) indicates that the results should be considered equivocal, and if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
@@ -239,10 +239,10 @@ A report of R (“Resistant”) indicates that the pathogen is not likely to be 
 
 Quality Control
 
-Standardized susceptibility test procedures require the use of quality controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test procedures.1,2,3,4 Standard piperacillin/tazobactam powder should provide the following ranges of values noted in Table 9.
+Standardized susceptibility test procedures require the use of quality controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test procedures.2,3,4,5 Standard piperacillin/tazobactam powder should provide the following ranges of values noted in Table 9.
 Quality control bacteria are specific strains of bacteria with intrinsic biological properties relating to resistance mechanisms and their genetic expression within the microorganism; the specific strains used for microbiological quality control are not clinically significant.
 
-Table 9: Acceptable Quality Control Ranges for Piperacillin/Tazobactam to Be Used in Validation of Susceptibility Test
+1. Table 9 Acceptable Quality Control Ranges for Piperacillin/Tazobactam to Be Used in Validation of Susceptibility Test
 
 | QC Strain | Minimum Inhibitory Concentration Range (MIC in mcg/mL) | Disk Diffusion Zone Diameter Ranges in mm |
 | --- | --- | --- |

@@ -26,14 +26,21 @@ Periodic assessment of hematopoietic function should be performed, especially wi
 
 As with other penicillins, patients may experience neuromuscular excitability or convulsions if higher than recommended doses are given intravenously (particularly in the presence of renal failure).
 
-## 5.5 Electrolyte Effects
+## 5.5 Nephrotoxicity in Critically ill Patients
+
+The use of Piperacillin and tazobactam for injection was found to be an independent risk factor for renal failure and was associated with delayed recovery of renal function as compared to other beta-lactam antibacterial drugs in a randomized, multicenter, controlled trial in critically ill patients [see Adverse Reactions (6.1)].
+Based on this study, alternative treatment options should be considered in the critically ill population.
+If alternative treatment options are inadequate or unavailable, monitor renal function during treatment with Piperacillin and tazobactam for injection [see Dosage and Administration (2.3)].
+Combined use of piperacillin/tazobactam and vancomycin may be associated with an increased incidence of acute kidney injury [see Drug Interactions (7.3)].
+
+## 5.6 Electrolyte Effects
 
 Piperacillin and tazobactam for injection contains a total of 2.35 mEq (54 mg) of Na+ (sodium) per gram of piperacillin in the combination product.
 This should be considered when treating patients requiring restricted salt intake.
 
 Periodic electrolyte determinations should be performed in patients with low potassium reserves, and the possibility of hypokalemia should be kept in mind with patients who have potentially low potassium reserves and who are receiving cytotoxic therapy or diuretics.
 
-## 5.6 Clostridium difficile Associated Diarrhea
+## 5.7 Clostridium difficile Associated Diarrhea
 
 Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including piperacillin and tazobactam for injection, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
@@ -46,6 +53,6 @@ Careful medical history is necessary since CDAD has been reported to occur over 
 If CDAD is suspected or confirmed, ongoing antibacterial drug use not directed against C. difficile may need to be discontinued.
 Appropriate fluid and electrolyte management, protein supplementation, antibacterial treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
-## 5.7 Development of Drug-Resistant Bacteria
+## 5.8 Development of Drug-Resistant Bacteria
 
 Prescribing piperacillin and tazobactam for injection in the absence of a proven or strongly suspected bacterial infection is unlikely to provide benefit to the patient and increases the risk of development of drug-resistant bacteria.
