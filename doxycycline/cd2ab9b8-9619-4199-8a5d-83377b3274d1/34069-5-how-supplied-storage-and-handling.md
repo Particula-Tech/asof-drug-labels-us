@@ -18,10 +18,14 @@ Bottles of 100 tablets: NDC 68303-710-10
 Doxycycline hyclate delayed-release tablets, USP, 150 mg are white, rectangular dual-scored tablets containing yellow pellets and debossed with "D|I|I" on one face and dual-scored on the other.
 Each tablet contains specially coated pellets of doxycycline hyclate equivalent to 150 mg of doxycycline.
 
+Bottles of 30 tablets: NDC 68308-715-30
+
 Bottles of 100 tablets: NDC 68303-715-10
 
 Doxycycline hyclate delayed-release tablets, USP, 200 mg are white, oval scored tablets containing yellow pellets and debossed with "D|D" on one face and plain on the other.
 Each tablet contains specially coated pellets of doxycycline hyclate equivalent to 200 mg of doxycycline.
+
+Bottles of 30 tablets: NDC 68308-716-30
 
 Bottles of 60 tablets: NDC 68303-716-60
 
