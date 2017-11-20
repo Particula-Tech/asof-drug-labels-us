@@ -1,23 +1,24 @@
 # WARNINGS
 
-## Risks from Concomitant Use With Opioids
+## Risks from Concomitant Use With Opioids:
 
 Concomitant use of benzodiazepines, including clonazepam, and opioids may result in profound sedation, respiratory depression, coma, and death.
 Because of these risks, reserve concomitant prescribing of benzodiazepines and opioids for use in patients for whom alternative treatment options are inadequate.
 
 Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioids alone.
 If a decision is made to prescribe clonazepam concomitantly with opioids, prescribe the lowest effective dosages and minimum durations of concomitant use, and follow patients closely for signs and symptoms of respiratory depression and sedation.
-Advise both patients and caregivers about the risks of respiratory depression and sedation when clonazepam is used with opioids [see PRECAUTIONS, Information for Patients].
+Advise both patients and caregivers about the risks of respiratory depression and sedation when clonazepam is used with opioids.
+(see PRECAUTIONS: Information for Patients and PRECAUTIONS: Drug Interactions).
 
 ## Interference With Cognitive and Motor Performance:
 
 Since clonazepam produces CNS depression, patients receiving this drug should be cautioned against engaging in hazardous occupations requiring mental alertness, such as operating machinery or driving a motor vehicle.
 They should also be warned about the concomitant use of alcohol or other CNS-depressant drugs during clonazepam therapy [see PRECAUTIONS, Drug Interactions and Information for Patients].
 
-Suicidal Behavior and Ideation: Antiepileptic drugs (AEDs) including Clonazepam, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
-Patients treated with any AED for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or unusual changes in mood or behavior.
+Suicidal Behavior and Ideation:Antiepileptic drugs (AEDs),including Clonazepam, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
+Patients treated with any AED for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
 
-Pooled analyses of 199 placebo-controlled clinical trials (mono-and adjunctive therapy) of 11 different AEDs showed that patients randomized to one of the AEDs had approximately twice the risk (adjusted Relative Risk 1.8, 95% CI: 1.2, 2.7) of suicidal thinking or behavior compared to patients randomized to placebo.
+Pooled analyses of 199 placebo-controlled clinical trials (mono- and adjunctive therapy) of 11 different AEDs showed that patients randomized to one of the AEDs had approximately twice the risk (adjusted Relative Risk 1.8, 95% CI: 1.2, 2.7) of suicidal thinking or behavior compared to patients randomized to placebo.
 In these trials, which had a median treatment duration of 12 weeks, the estimated incidence rate of suicidal behavior or ideation among 27,863 AED-treated patients was 0.43% compared to 0.24% among 16,029 placebo-treated patients, representing an increase of approximately one case of suicidal thinking or behavior for every 530 patients treated.
 There were four suicides in drug-treated patients in the trials and none in placebo-treated patients, but the number is too small to allow any conclusion about drug effect on suicide.
 
@@ -122,7 +123,14 @@ Metabolites of clonazepam are excreted by the kidneys; to avoid their excess acc
 
 Clonazepam may produce an increase in salivation.
 This should be considered before giving the drug to patients who have difficulty handling secretions.
-Because of this and the possibility of respiratory depression, clonazepam should be used with caution in patients with chronic respiratory diseases.
+
+Respiratory Compromise:
+
+Clonazepam should be used with caution in patients with compromised respiratory function.
+
+Porphyria:
+
+Clonazepam may have a porphyrogenic effect and should be used with care in patients with porphyria.
 
 ## Information for Patients:
 
@@ -132,7 +140,7 @@ Physicians are advised to discuss the following issues with patients for whom th
 
 ### Risks from Concomitant Use With Opioids
 
-Inform patients and caregivers that potentially fatal additive effects may occur if clonazepam is used with opioids and not to use such drugs concomitantly unless supervised by a health care provider [see Warnings and Precautions; Drug Interactions].
+Inform patients and caregivers that potentially fatal additive effects may occur if clonazepam is used with opioids and not to use such drugs concomitantly unless supervised by a health care provider (see WARNINGS: Risks from Concomitant Use With Opioids and PRECAUTIONS: Drug Interactions).
 
 ### Dose Changes:
 
@@ -149,10 +157,10 @@ Behaviors of concern should be reported immediately to healthcare providers.
 
 ### Pregnancy:
 
-Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy with clonazepam [see WARNINGS,Pregnancy Risks].
+Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy with clonazepam (see WARNINGS:Pregnancy Risks).
 Patients should be encouraged to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant.
 This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
-To enroll, patients can call the toll free number 1-888-233-2334 [see PRECAUTIONS, Pregnancy].
+To enroll, patients can call the toll free number 1-888-233-2334 (see PRECAUTIONS: Pregnancy).
 
 ### Nursing:
 
@@ -173,17 +181,17 @@ Each orally disintegrating tablet contains 0.56 mg phenylalanine.
 
 ## Drug Interactions:
 
-### Effect of Clonazepam on the Pharmacokinetics of Other Drugs:
-
-Clonazepam does not appear to alter the pharmacokinetics of phenytoin, carbamazepine or phenobarbital.
-The effect of clonazepam on the metabolism of other drugs has not been investigated.
-
 ### Effect of Concomitant Use of Benzodiazepine and Opioids:
 
 The concomitant use of benzodiazepines and opioids increases the risk of respiratory depression because of actions at different receptor sites in the CNS that control respiration.
 Benzodiazepines interact at GABAA sites, and opioids interact primarily at mu receptors.
 When benzodiazepines and opioids are combined, the potential for benzodiazepines to significantly worsen opioid-related respiratory depression exists.
-Limit dosage and duration of concomitant use of benzodiazepines and opioids, and follow patients closely for respiratory depression and sedation.
+Limit dosage and duration of concomitant use of benzodiazepines and opioids, and follow patients closely for respiratory depression and sedation
+
+### Effect of Clonazepam on the Pharmacokinetics of Other Drugs:
+
+Clonazepam does not appear to alter the pharmacokinetics of phenytoin, carbamazepine or phenobarbital.
+The effect of clonazepam on the metabolism of other drugs has not been investigated.
 
 ### Effect of Other Drugs on the Pharmacokinetics of Clonazepam:
 
@@ -211,7 +219,7 @@ In a two-generation fertility study in which clonazepam was given orally to rats
 
 ### Teratogenic Effects:
 
-Pregnancy Category D [see WARNINGS, Pregnancy Risks].
+Pregnancy Category D [see WARNINGS: Pregnancy Risks].
 
 To provide information regarding the effects of in utero exposure to clonazepam, physicians are advised to recommend that pregnant patients taking clonazepam enroll in the NAAED Pregnancy Registry.
 This can be done by calling the toll free number 1-888-233-2334, and must be done by patients themselves.

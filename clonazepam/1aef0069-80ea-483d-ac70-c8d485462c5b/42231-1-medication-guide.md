@@ -2,15 +2,6 @@
 
 CLONAZEPAM ODT (kloe naz e pam) Orally Disintegrating Tablet (ODT), C-IV
 
-Phenylketonurics: Each clonazepam orally disintegrating tablet contains 0.56 mg phenylalanine (a component of aspartame).
-
-Read this Medication Guide before you start taking Clonazepam Orally Disintegrating Tablets and each time you get a refill.
-There may be new information.
-This information does not take the place of talking to your healthcare provider about your medical condition or treatment.
-
-Clonazepam can cause serious side effects.
-Because stopping clonazepam suddenly can also cause serious problems, do not stop taking clonazepam without talking to your healthcare provider first.
-
 What is the most important information I should know about CLONAZEPAM ODT?
 
 - Do not stop taking CLONAZEPAM ODT without first talking to your healthcare provider.
@@ -27,20 +18,20 @@ What is the most important information I should know about CLONAZEPAM ODT?
   When taken with alcohol or drugs that cause sleepiness or dizziness, CLONAZEPAM ODT may make your sleepiness or dizziness worse.
 - Like other antiepileptic drugs, CLONAZEPAM ODT may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
 
-Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
+Call your healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
 
 - thoughts about suicide or dying
 - attempt to commit suicide
-- new or worse depression
-- new or worse anxiety
+- ·new or worse depression
+- ·new or worse anxiety
 - feeling agitated or restless
 - panic attacks
 - trouble sleeping (insomnia)
-- new or worse irritability
+- ·new or worse irritability
 - acting aggressive, being angry, or violent
 - acting on dangerous impulses
 - an extreme increase in activity and talking (mania)
-- other unusual changes in behavior or mood
+- ·other unusual changes in behavior or mood
 
 How can I watch for early symptoms of suicidal thoughts and actions?
 
@@ -121,7 +112,7 @@ How should I take CLONAZEPAM ODT?
 - Do not stop taking CLONAZEPAM ODT without first talking to your healthcare provider.
   Stopping CLONAZEPAM ODT suddenly can cause serious problems.
 - CLONAZEPAM ODT can be taken with or without water.
-  - Do not open the pouch until you are ready to take CLONAZEPAM ODT
+  - Do not open the pouch until you are ready to take CLONAZEPAM ODT.
   - After opening the pouch, peel back the foil on the blister pack.
   - Do not push the orally disintegrating tablet through the foil.
   - After opening the blister pack, with dry hands, take the orally disintegrating tablet and place it in your mouth.
@@ -134,7 +125,7 @@ What should I avoid while taking CLONAZEPAM ODT?
 - CLONAZEPAM ODT can slow your thinking and motor skills.
   Do not drive, operate heavy machinery, or do other dangerous activities until you know how CLONAZEPAM ODT affects you.
 - Do not drink alcohol or take other medicines that may make you sleepy or dizzy while taking CLONAZEPAM ODT until you talk to your healthcare provider.
-  When taken with alcohol or medicines that cause sleepiness or dizziness, CLONAZEPAM ODT may make your sleepiness or dizziness worse.
+  When taken with alcohol or medicines that cause sleepiness or dizziness, CLONAZEPAM ODT may make your sleepiness or dizziness much worse.
 
 What are the possible side effects of CLONAZEPAM ODT?
 
@@ -145,15 +136,14 @@ Call your healthcare provider right away if your seizures get worse while taking
 
 The most common side effects of CLONAZEPAM ODT include:
 
-- Drowsiness
-- Problems with walking and coordination
-- Dizziness
-- Depression
-- Fatigue
-- Problems with memory
+- drowsiness
+- problems with walking and coordination
+- dizziness
+- depression
+- fatigue
+- problems with memory
 
 These are not all the possible side effects of CLONAZEPAM ODT.
-
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088 or Par Pharmaceutical at www.parpharm.com or call 1-800-828-9393.
 
@@ -197,4 +187,4 @@ Chestnut Ridge, NY 10977
 
 For additional copies of this Medication Guide, visit www.parpharm.com or call 1-800-828-9393
 
-Revised: 09/2016
+Revised: 11/2017 OS306-02-1-10

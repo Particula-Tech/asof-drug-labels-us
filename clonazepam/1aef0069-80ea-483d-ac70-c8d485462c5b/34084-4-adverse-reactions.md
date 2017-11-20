@@ -7,14 +7,7 @@ The adverse experiences for clonazepam are provided separately for patients with
 The most frequently occurring side effects of clonazepam are referable to CNS depression.
 Experience in treatment of seizures has shown that drowsiness has occurred in approximately 50% of patients and ataxia in approximately 30%.
 In some cases, these may diminish with time; behavior problems have been noted in approximately 25% of patients.
-Others, listed by system, are:
-
-Neurologic: Abnormal eye movements, aphonia, choreiform movements, coma, diplopia, dysarthria, dysdiadochokinesis, “glassy-eyed” appearance, headache, hemiparesis, hypotonia, nystagmus, respiratory depression, slurred speech, tremor, vertigo
-
-Psychiatric: Confusion, depression, amnesia, hallucinations, hysteria, increased libido, insomnia, psychosis (the behavior effects are more likely to occur in patients with a history of psychiatric disturbances).
-The following paradoxical reactions have been observed: excitability, irritability, aggressive behavior, agitation, nervousness, hostility, anxiety, sleep disturbances, nightmares and vivid dreams
-
-Respiratory: Chest congestion, rhinorrhea, shortness of breath, hypersecretion in upper respiratory passages
+Others, listed by system, including those identified during postapproval use of Clonazepam are:
 
 Cardiovascular: Palpitations
 
@@ -24,13 +17,20 @@ Gastrointestinal: Anorexia, coated tongue, constipation, diarrhea, dry mouth, en
 
 Genitourinary: Dysuria, enuresis, nocturia, urinary retention
 
+Hematopoietic: Anemia, leukopenia, thrombocytopenia, eosinophilia
+
+Hepatic: Hepatomegaly, transient elevations of serum transaminases and alkaline phosphatase
+
 Musculoskeletal: Muscle weakness, pains
 
 Miscellaneous: Dehydration, general deterioration, fever, lymphadenopathy, weight loss or gain
 
-Hematopoietic: Anemia, leukopenia, thrombocytopenia, eosinophilia
+Neurologic: Abnormal eye movements, aphonia, choreiform movements, coma, diplopia, dysarthria, dysdiadochokinesis, “glassy-eyed” appearance, headache, hemiparesis, hypotonia, nystagmus, respiratory depression, slurred speech, tremor, vertigo
 
-Hepatic: Hepatomegaly, transient elevations of serum transaminases and alkaline phosphatase
+Psychiatric: Confusion, depression, amnesia, hallucinations, hysteria, increased libido, insomnia, psychosis (the behavior effects are more likely to occur in patients with a history of psychiatric disturbances).
+The following paradoxical reactions have been observed: excitability, irritability, aggressive behavior, agitation, nervousness, hostility, anxiety, sleep disturbances, nightmares and vivid dreams
+
+Respiratory: Chest congestion, rhinorrhea, shortness of breath, hypersecretion in upper respiratory passages
 
 ## Panic Disorder:
 
@@ -50,7 +50,7 @@ The most common events (≥1%) associated with discontinuation and a dropout rat
 
 Table 2 Most Common Adverse Events (≥1%) Associated with Discontinuation of Treatment
 
-| Adverse Event | clonazepam(n=574) | Placebo(n=294) |
+| Adverse Event | clonazepam (N=574) | Placebo (N=294) |
 | --- | --- | --- |
 | Somnolence | 7% | 1% |
 | Depression | 4% | 1% |
@@ -73,7 +73,7 @@ Table 3 Treatment-Emergent Adverse Event Incidence in 6- to 9- Week Placebo-Cont
 | Clonazepam Maximum Daily Dose |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Adverse Event by Body System | <1mg | 1-<2mg | 2-<3mg |  | ≥3mg | All Clonazepam Groups | Placebo |
-| n=96 | n=129 | n=113 |  | n=235 | n=574 | n=294 |  |
+| n=96 | n=129 | n=113 |  | n=235 | N=574 | N=294 |  |
 | % | % | % |  | % | % | % |  |
 | Central & Peripheral Nervous System |  |  |  |  |  |  |  |
 | Somnolence† | 26 | 35 | 50 | 36 |  | 37 | 10 |
@@ -126,7 +126,7 @@ Table 3 Treatment-Emergent Adverse Event Incidence in 6- to 9- Week Placebo-Cont
 Table 4.
 Incidence of Most Commonly Observed Adverse Events* in Acute Therapy in Pool of 6- to 9-Week Trials
 
-| Adverse Event | Clonazepam (n=574) | Placebo (n=294) |
+| Adverse Event | Clonazepam (N=574) | Placebo (N=294) |
 | --- | --- | --- |
 | Somnolence | 37% | 10% |
 | Depression | 7% | 1% |

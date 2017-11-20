@@ -12,10 +12,14 @@ Clonazepam Orally Disintegrating Tablets USP, 2 mg are white, round, flat-faced,
 
 Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [See USP Controlled Room Temperature].
 
+Rx only
+
+Manufactured by:
+
 PAR PHARMACEUTICAL
 
 Chestnut Ridge, NY 10977
 
-Revised: 09/2016
+Revised:11/2017
 
-OS306-02-1-09
+OS306-02-1-10
