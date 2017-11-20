@@ -3,12 +3,12 @@
 Most adverse effects have been mild and transient.
 
 The frequency estimates in the following table were derived from controlled studies in hypertensive patients in which adverse reactions were either volunteered by the patient (U.S. studies) or elicited, e.g., by checklist (foreign studies).
-The reported frequency of elicited adverse effects was higher for both atenolol and placebo-treated patients than when these reactions were volunteered.
-Where frequency of adverse effects of atenolol and placebo is similar, causal relationship to atenolol is uncertain.
+The reported frequency of elicited adverse effects was higher for both atenolol tablets and placebo-treated patients than when these reactions were volunteered.
+Where frequency of adverse effects of atenolol tablets and placebo is similar, causal relationship to atenolol tablets is uncertain.
 
-|  | Atenolol (n = 164) % | Placebo (n = 206) % | Atenolol (n = 399) % | Placebo (n = 407) % |
-| --- | --- | --- | --- | --- |
 |  | Volunteered (U.S. Studies) |  | Total-Volunteered and Elicited (Foreign + U.S. Studies) |  |
+| --- | --- | --- | --- | --- |
+|  | Atenolol (n = 164) % | Placebo (n = 206) % | Atenolol (n = 399) % | Placebo (n = 407) % |
 | CARDIOVASCULAR |  |  |  |  |
 | Bradycardia | 3 | 0 | 3 | 0 |
 | Cold Extremities | 0 | 0.5 | 12 | 5 |
@@ -17,7 +17,7 @@ Where frequency of adverse effects of atenolol and placebo is similar, causal re
 | CENTRAL NERVOUS SYSTEM/NEUROMUSCULAR |  |  |  |  |
 | Dizziness | 4 | 1 | 13 | 6 |
 | Vertigo | 2 | 0.5 | 2 | 0.2 |
-| Light-Headedness | 1 | 0 | 3 | 0.7 |
+| Light-headedness | 1 | 0 | 3 | 0.7 |
 | Tiredness | 0.6 | 0.5 | 26 | 13 |
 | Fatigue | 3 | 1 | 6 | 5 |
 | Lethargy | 1 | 0 | 3 | 0.7 |
@@ -33,7 +33,7 @@ Where frequency of adverse effects of atenolol and placebo is similar, causal re
 
 ## Acute Myocardial Infarction
 
-In a series of investigations in the treatment of acute myocardial infarction, bradycardia and hypotension occurred more commonly, as expected for any beta-blocker, in atenolol-treated patients than in control patients.
+In a series of investigations in the treatment of acute myocardial infarction, bradycardia and hypotension occurred more commonly, as expected for any beta blocker, in atenolol-treated patients than in control patients.
 However, these usually responded to atropine and/or to withholding further dosage of atenolol.
 The incidence of heart failure was not increased by atenolol.
 Inotropic agents were infrequently used.
@@ -72,26 +72,26 @@ Reasons for Reduced Dosage
 |  | I.V. Atenolol ReducedDose (< 5 mg)Full dosage was 10 mg and some patients received less than 10 mg but more than 5 mg. |  | Oral Partial Dose |  |
 | --- | --- | --- | --- | --- |
 | Hypotension/Bradycardia | 105 | (1.3%) | 1168 | (14.5%) |
-| Cardiogenic Shock | 4 | (0.04%) | 35 | (0.44%) |
-| Reinfarction | 0 | (0%) | 5 | (0.06%) |
-| Cardiac Arrest | 5 | (0.06%) | 28 | (0.34%) |
-| Heart Block (> first degree) | 5 | (0.06%) | 143 | (1.7%) |
-| Cardiac Failure | 1 | (0.01%) | 233 | (2.9%) |
-| Arrhythmias | 3 | (0.04%) | 22 | (0.27%) |
-| Bronchospasm | 1 | (0.01%) | 50 | (0.62%) |
+| Cardiogenic Shock | 4 | (.04%) | 35 | (.44%) |
+| Reinfarction | 0 | (0%) | 5 | (.06%) |
+| Cardiac Arrest | 5 | (.06%) | 28 | (.34%) |
+| Heart Block (> first degree) | 5 | (.06%) | 143 | (1.7%) |
+| Cardiac Failure | 1 | (.01%) | 233 | (2.9%) |
+| Arrhythmias | 3 | (.04%) | 22 | (.27%) |
+| Bronchospasm | 1 | (.01%) | 50 | (.62%) |
 
-During post-marketing experience with atenolol, the following have been reported in temporal relationship to the use of the drug: elevated liver enzymes and/or bilirubin, hallucinations, headache, impotence, Peyronie's disease, postural hypotension which may be associated with syncope, psoriasiform rash or exacerbation of psoriasis, psychoses, purpura, reversible alopecia, thrombocytopenia, visual disturbances, sick sinus syndrome and dry mouth.
-Atenolol, like other beta-blockers, has been associated with the development of antinuclear antibodies (ANA), lupus syndrome and Raynaud's phenomenon.
+During postmarketing experience with atenolol tablets, the following have been reported in temporal relationship to the use of the drug: elevated liver enzymes and/or bilirubin, hallucinations, headache, impotence, Peyronie’s disease, postural hypotension which may be associated with syncope, psoriasiform rash or exacerbation of psoriasis, psychoses, purpura, reversible alopecia, thrombocytopenia, visual disturbance, sick sinus syndrome, and dry mouth.
+Atenolol tablets, like other beta blockers, has been associated with the development of antinuclear antibodies (ANA), lupus syndrome and Raynaud’s phenomenon.
 
 ## Potential Adverse Effects
 
-In addition, a variety of adverse effects have been reported with other beta-adrenergic blocking agents, and may be considered potential adverse effects of atenolol.
+In addition, a variety of adverse effects have been reported with other beta-adrenergic blocking agents, and may be considered potential adverse effects of atenolol tablets.
 
 Hematologic: Agranulocytosis.
 
-Allergic: Fever, combined with aching and sore throat, laryngospasm and respiratory distress.
+Allergic: Fever, combined with aching and sore throat, laryngospasm, and respiratory distress.
 
-Central Nervous System: Reversible mental depression progressing to catatonia; an acute reversible syndrome characterized by disorientation of time and place; short-term memory loss; emotional lability with slightly clouded sensorium; and decreased performance on neuropsychometrics.
+Central Nervous System: Reversible mental depression progressing to catatonia; an acute reversible syndrome characterized by disorientation of time and place; short-term memory loss; emotional lability with slightly clouded sensorium; and, decreased performance on neuropsychometrics.
 
 Gastrointestinal: Mesenteric arterial thrombosis, ischemic colitis.
 
@@ -103,5 +103,5 @@ Discontinuance of the drug should be considered if any such reaction is not othe
 Patients should be closely monitored following cessation of therapy.
 (See DOSAGE AND ADMINISTRATION.)
 
-The oculomucocutaneous syndrome associated with the beta-blocker practolol has not been reported with atenolol.
-Furthermore, a number of patients who had previously demonstrated established practolol reactions were transferred to atenolol therapy with subsequent resolution or quiescence of the reaction.
+The oculomucocutaneous syndrome associated with the beta blocker practolol has not been reported with atenolol tablets.
+Furthermore, a number of patients who had previously demonstrated established practolol reactions were transferred to atenolol tablets therapy with subsequent resolution or quiescence of the reaction.

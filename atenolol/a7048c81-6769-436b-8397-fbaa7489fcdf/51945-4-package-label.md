@@ -1,10 +1,10 @@
-PRINCIPAL DISPLAY PANEL - 25 mg
+# PRINCIPAL DISPLAY PANEL - 25 mg
 
-NDC 0378-0218-01
+NDC 0378-0218-77
 
 Atenolol Tablets, USP 25 mg
 
-Rx only 100 Tablets
+Rx only 90 Tablets
 
 Each tablet contains: Atenolol, USP 25 mg
 
@@ -24,15 +24,15 @@ Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Mylan.com
 
-RM0218A4
+RM0218MM
 
-PRINCIPAL DISPLAY PANEL - 50 mg
+# PRINCIPAL DISPLAY PANEL - 50 mg
 
-NDC 0378-0231-01
+NDC 0378-0231-77
 
 Atenolol Tablets, USP 50 mg
 
-Rx only 100 Tablets
+Rx only 90 Tablets
 
 Each tablet contains: Atenolol, USP 50 mg
 
@@ -52,15 +52,15 @@ Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Mylan.com
 
-RM0231A11
+RM0231MM
 
-PRINCIPAL DISPLAY PANEL - 100 mg
+# PRINCIPAL DISPLAY PANEL - 100 mg
 
-NDC 0378-0757-93
+NDC 0378-0757-77
 
 Atenolol Tablets, USP 100 mg
 
-Rx only 30 Tablets
+Rx only 90 Tablets
 
 Each tablet contains: Atenolol, USP 100 mg
 
@@ -80,4 +80,4 @@ Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Mylan.com
 
-RM0757H2
+RM0757MM
