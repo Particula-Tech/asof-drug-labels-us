@@ -46,4 +46,4 @@ An open-label, non-randomized, parallel group clinical study was conducted to ev
 Subjects were categorized into 3 groups based on the Child-Pugh classification score: healthy volunteers, mild hepatic impairment (Class A: 5–6 points), and moderate hepatic impairment (Class B: 7–9 points).
 Mild and moderate hepatic impairment do not influence the pharmacokinetics of deferiprone and deferiprone 3-O-glucuronide.
 One subject with moderate hepatic impairment experienced a serious adverse event of acute liver and renal injury.
-The pharmacokinetics of deferiprone and deferiprone 3‑O‑glucuronide have not been evaluated in patients with severe hepatic impairment (Child Pugh Class C; 10‑15 points).
+The pharmacokinetics of deferiprone and deferiprone 3‑O‑glucuronide have not been evaluated in patients with severe hepatic impairment (Child Pugh Class C: 10‑15 points).

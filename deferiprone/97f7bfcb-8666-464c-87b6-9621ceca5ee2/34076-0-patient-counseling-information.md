@@ -22,5 +22,5 @@ See FDA-Approved Patient Labeling (Medication Guide, Instructions for Use)
   Advise patients to immediately notify their physician if they become pregnant, or if they plan to become pregnant during therapy.
 - Inform patients that they should not breast feed while taking FERRIPROX.
 
-Distributed by ApoPharma USA, Inc., Rockville, MD, United States of America, 20850.
+Distributed by ApoPharma USA, Inc., Weston, FL, United States of America, 33326.
 Manufactured by Apotex Inc., Toronto, Ontario, Canada, M9L 1T9.

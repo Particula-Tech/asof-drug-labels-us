@@ -61,6 +61,6 @@ This Instructions for Use has been approved by the U.S. Food and Drug Administra
 
 | Distributed by: |  | Manufactured by: |
 | --- | --- | --- |
-| ApoPharma USA, Inc., Rockville, MD, United States of America, 20850. |  | Apotex Inc., Toronto, Ontario, Canada, M9L 1T9. |
+| ApoPharma USA, Inc., Weston, FL, United States of America, 33326. |  | Apotex Inc., Toronto, Ontario, Canada, M9L 1T9. |
 
-Issued 09/2015
+Issued 05/2017
