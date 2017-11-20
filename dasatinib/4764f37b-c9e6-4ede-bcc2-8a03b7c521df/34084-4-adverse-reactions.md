@@ -2,7 +2,7 @@
 
 The following adverse reactions are discussed in greater detail in other sections of the labeling:
 
-- •Myelosuppression [see Dosage and Administration (2.3) and Warnings and Precautions (5.1)].
+- •Myelosuppression [see Dosage and Administration (2.5) and Warnings and Precautions (5.1)].
 - •Bleeding-related events [see Warnings and Precautions (5.2)].
 - •Fluid retention [see Warnings and Precautions (5.3)].
 - •Cardiovascular events [see Warnings and Precautions (5.4)].
@@ -10,40 +10,50 @@ The following adverse reactions are discussed in greater detail in other section
 - •QT prolongation [see Warnings and Precautions (5.6)].
 - •Severe dermatologic reactions [see Warnings and Precautions (5.7)].
 - •Tumor lysis syndrome [see Warnings and Precautions (5.8)].
-- •Embryo-fetal toxicity [see Warnings and Precautions (5.9)].
+- •Effects on growth and development in pediatric patients [see Warnings and Precautions (5.10)].
+
+## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The data described below reflect exposure to SPRYCEL at all doses tested in clinical studies including 324 patients with newly diagnosed chronic phase CML and in 2388 patients with imatinib-resistant or -intolerant chronic or advanced phase CML or Ph+ ALL.
-The median duration of therapy in 2712 SPRYCEL-treated patients was 19.2 months (range 0–93.2 months).
+The data described below reflect exposure to SPRYCEL at all doses tested in clinical studies (n=2809), including 324 adult patients with newly diagnosed chronic phase CML, 2388 adult patients with imatinib-resistant or -intolerant chronic or advanced phase CML or Ph+ ALL, and 97 pediatric patients with chronic phase CML.
+The median duration of therapy in a total of 2712 adult patients was 19.2 months (range 0 to 93.2 months).
 In a randomized trial in patients with newly diagnosed chronic phase CML, the median duration of therapy was approximately 60 months.
-The median duration of therapy in 1618 patients with chronic phase CML was 29 months (range 0–92.9 months).
+The median duration of therapy in 1618 adult patients with chronic phase CML was 29 months (range 0 to 92.9 months).
 
-The median duration of therapy in 1094 patients with advanced phase CML or Ph+ ALL was 6.2 months (range 0–93.2 months).
+The median duration of therapy in 1094 adult patients with advanced phase CML or Ph+ ALL was 6.2 months (range 0 to 93.2 months).
 
-In the overall population of 2712 SPRYCEL-treated patients, 88% of patients experienced adverse reactions at some time and 19% experienced adverse reactions leading to treatment discontinuation.
+In two non-randomized trials in 97 pediatric patients with chronic phase CML (51 patients newly diagnosed and 46 patients resistant or intolerant to previous treatment with imatinib), the median duration of therapy was 51.1 months (range 1.9 to 99.6 months).
 
-In the randomized trial in patients with newly diagnosed chronic phase CML, drug was discontinued for adverse reactions in 16% of SPRYCEL-treated patients with a minimum of 60 months of follow-up.
+In the overall population of 2712 adult patients, 88% of patients experienced adverse reactions at some time and 19% experienced adverse reactions leading to treatment discontinuation.
+
+In the randomized trial in adult patients with newly diagnosed chronic phase CML, drug was discontinued for adverse reactions in 16% of patients with a minimum of 60 months of follow-up.
 After a minimum of 60 months of follow-up, the cumulative discontinuation rate was 39%.
-Among the 1618 SPRYCEL-treated patients with chronic phase CML, drug-related adverse events leading to discontinuation were reported in 329 (20.3%) patients; among the 1094 SPRYCEL-treated patients with advanced phase CML or Ph+ ALL, drug-related adverse events leading to discontinuation were reported in 191 (17.5%) patients.
+Among the 1618 patients with chronic phase CML, drug-related adverse reactions leading to discontinuation were reported in 329 (20.3%) patients; among the 1094 patients with advanced phase CML or Ph+ ALL, drug-related adverse reactions leading to discontinuation were reported in 191 (17.5%) patients.
 
-Adverse reactions reported in ≥10% of patients, and other adverse reactions of interest, in a randomized trial in patients with newly diagnosed chronic phase CML at a median follow-up of approximately 60 months are presented in Table 2.
+Among the 97 pediatric subjects, drug-related adverse reactions leading to discontinuation were reported in 1 patient (1%).
 
-Adverse reactions reported in ≥10% of patients treated at the recommended dose of 100 mg once daily (n=165), and other adverse reactions of interest, in a randomized dose-optimization trial of patients with chronic phase CML resistant or intolerant to prior imatinib therapy at a median follow-up of approximately 84 months are presented in Table 4.
+Adverse reactions reported in ≥10% of adult patients, and other adverse reactions of interest, in a randomized trial in patients with newly diagnosed chronic phase CML at a median follow-up of approximately 60 months are presented in Table 5.
 
-Drug-related serious adverse events (SAEs) were reported for 16.7% of SPRYCEL-treated patients in the randomized trial of patients with newly diagnosed chronic phase CML.
+Adverse reactions reported in ≥10% of adult patients treated at the recommended dose of 100 mg once daily (n=165), and other adverse reactions of interest, in a randomized dose-optimization trial of patients with chronic phase CML resistant or intolerant to prior imatinib therapy at a median follow-up of approximately 84 months are presented in Table 7.
+
+Adverse reactions reported in ≥10% of pediatric patients at a median follow-up of approximately 51.1 months are presented in Table 10.
+
+Drug-related serious adverse reactions (SARs) were reported for 16.7% of adult patients in the randomized trial of patients with newly diagnosed chronic phase CML.
 Serious adverse reactions reported in ≥5% of patients included pleural effusion (5%).
 
-Drug-related SAEs were reported for 26.1% of patients treated at the recommended dose of 100 mg once daily in the randomized dose-optimization trial of patients with chronic phase CML resistant or intolerant to prior imatinib therapy.
+Drug-related SARs were reported for 26.1% of patients treated at the recommended dose of 100 mg once daily in the randomized dose-optimization trial of adult patients with chronic phase CML resistant or intolerant to prior imatinib therapy.
 Serious adverse reactions reported in ≥5% of patients included pleural effusion (10%).
 
-## 6.1 Chronic Myeloid Leukemia (CML)
+Drug-related SARs were reported for 14.4% of pediatric patients.
 
-Adverse reactions (excluding laboratory abnormalities) that were reported in at least 10% of patients are shown in Table 2 for newly diagnosed patients with chronic phase CML and Tables 4 and 6 for CML patients with resistance or intolerance to prior imatinib therapy.
+### Chronic Myeloid Leukemia (CML)
 
-Table 2: Adverse Reactions Reported in ≥10% of Patients with Newly Diagnosed Chronic Phase CML (minimum of 60 months follow-up)
+Adverse reactions (excluding laboratory abnormalities) that were reported in at least 10% of adult patients are shown in Table 5 for newly diagnosed patients with chronic phase CML and Tables 7 and 10 for CML patients with resistance or intolerance to prior imatinib therapy.
 
-| Preferred Term | Percent (%) of Patients |  |  |  |
+Table 5: Adverse Reactions Reported in ≥10% of Adult Patients with Newly Diagnosed Chronic Phase CML (minimum of 60 months follow-up)
+
+| Adverse Reaction | Percent (%) of Patients |  |  |  |
 | --- | --- | --- | --- | --- |
 |  | All Grades |  | Grade 3/4 |  |
 |  | SPRYCEL (n=258) | Imatinib (n=258) | SPRYCEL (n=258) | Imatinib (n=258) |
@@ -72,11 +82,11 @@ Table 2: Adverse Reactions Reported in ≥10% of Patients with Newly Diagnosed C
 | Muscle spasms | 5 | 21 | 0 | <1 |
 | a Includes cardiac failure acute, cardiac failure congestive, cardiomyopathy, diastolic dysfunction, ejection fraction decreased, and left ventricular dysfunction. b Includes erythema, erythema multiforme, rash, rash generalized, rash macular, rash papular, rash pustular, skin exfoliation, and rash vesicular. c Adverse reaction of special interest with <10% frequency. d Includes conjunctival hemorrhage, ear hemorrhage, ecchymosis, epistaxis, eye hemorrhage, gingival bleeding, hematoma, hematuria, hemoptysis, intra-abdominal hematoma, petechiae, scleral hemorrhage, uterine hemorrhage, and vaginal hemorrhage. |  |  |  |  |
 
-A comparison of cumulative rates of adverse reactions reported in ≥10% of patients with minimum follow-up of 1 and 5 years in a randomized trial of newly diagnosed patients with chronic phase CML treated with SPRYCEL are shown in Table 3.
+A comparison of cumulative rates of adverse reactions reported in ≥10% of patients with minimum follow-up of 1 and 5 years in a randomized trial of newly diagnosed patients with chronic phase CML treated with SPRYCEL are shown in Table 6.
 
-Table 3: Adverse Reactions Reported in ≥10% of Patients with Newly Diagnosed Chronic Phase CML in the SPRYCEL-Treated Arm (n=258)
+Table 6: Adverse Reactions Reported in ≥10% of Adult Patients with Newly Diagnosed Chronic Phase CML in the SPRYCEL-Treated Arm (n=258)
 
-| Preferred Term | Percent (%) of Patients |  |  |  |  |  |  |  |  |
+| Adverse Reaction | Percent (%) of Patients |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | Minimum of 1 Year Follow-up |  | Minimum of 5 Years Follow-up |  |  |  |  |  |  |
 |  | All Grades | Grade 3/4 | All Grades | Grade 3/4 |  |  |  |  |  |
@@ -99,13 +109,13 @@ Table 3: Adverse Reactions Reported in ≥10% of Patients with Newly Diagnosed C
 
 At 60 months, there were 26 deaths in dasatinib-treated patients (10.1%) and 26 deaths in imatinib-treated patients (10.1%); 1 death in each group was assessed by the investigator as related to study therapy.
 
-Table 4: Adverse Reactions Reported in ≥10% of Patients with Chronic Phase CML Resistant or Intolerant to Prior Imatinib Therapy (minimum of 84 months follow-up)
+Table 7: Adverse Reactions Reported in ≥10% of Adult Patients with Chronic Phase CML Resistant or Intolerant to Prior Imatinib Therapy (minimum of 84 months follow-up)
 
 | Percent (%) of Patients |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | 100 mg Once Daily |  |  |  |  |  |  |  |  |  |  |  |
 |  | Chronic (n=165) |  |  |  |  |  |  |  |  |  |  |  |
-| Preferred Term | All Grades | Grade 3/4 |  |  |  |  |  |  |  |  |  |  |
+| Adverse Reaction | All Grades | Grade 3/4 |  |  |  |  |  |  |  |  |  |  |
 | Fluid retention | 48 | 7 |  |  |  |  |  |  |  |  |  |  |
 | Superficial localized edema | 22 | 0 |  |  |  |  |  |  |  |  |  |  |
 | Pleural effusion | 28 | 5 |  |  |  |  |  |  |  |  |  |  |
@@ -130,14 +140,14 @@ Table 4: Adverse Reactions Reported in ≥10% of Patients with Chronic Phase CML
 | Constipation | 10 | 1 |  |  |  |  |  |  |  |  |  |  |
 | a Includes drug eruption, erythema, erythema multiforme, erythrosis, exfoliative rash, generalized erythema, genital rash, heat rash, milia, rash, rash erythematous, rash follicular, rash generalized, rash macular, rash maculopapular, rash papular, rash pruritic, rash pustular, skin exfoliation, skin irritation, urticaria vesiculosa, and rash vesicular. |  |  |  |  |  |  |  |  |  |  |  |  |
 
-Cumulative rates of selected adverse reactions that were reported over time in patients treated with the 100 mg once daily recommended starting dose in a randomized dose-optimization trial of imatinib-resistant or -intolerant patients with chronic phase CML are shown in Table 5.
+Cumulative rates of selected adverse reactions that were reported over time in patients treated with the 100 mg once daily recommended starting dose in a randomized dose-optimization trial of imatinib-resistant or -intolerant patients with chronic phase CML are shown in Table 8.
 
-Table 5: Selected Adverse Reactions Reported in Dose Optimization Trial (Imatinib-Intolerant or -Resistant Chronic Phase CML)a
+Table 8: Selected Adverse Reactions Reported in Adult Dose Optimization Trial (Imatinib-Intolerant or -Resistant Chronic Phase CML)a
 
 | Percent (%) of Patients |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | Minimum of 2 Years Follow-up |  | Minimum of 5 Years Follow-up |  | Minimum of 7 Years Follow-up |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Preferred Term | All Grades | Grade 3/4 | All Grades | Grade 3/4 | All Grades | Grade 3/4 |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Adverse Reaction | All Grades | Grade 3/4 | All Grades | Grade 3/4 | All Grades | Grade 3/4 |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Diarrhea | 27 | 2 | 28 | 2 | 28 | 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Fluid retention | 34 | 4 | 42 | 6 | 48 | 7 |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Superficial edema | 18 | 0 | 21 | 0 | 22 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -149,13 +159,13 @@ Table 5: Selected Adverse Reactions Reported in Dose Optimization Trial (Imatini
 | Gastrointestinal bleeding | 2 | 1 | 2 | 1 | 2 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | a Randomized dose-optimization trial results reported in the recommended starting dose of 100 mg once daily (n=165) population. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-Table 6: Adverse Reactions Reported in ≥10% of Patients with Advanced Phase CML Resistant or Intolerant to Prior Imatinib Therapy
+Table 9: Adverse Reactions Reported in ≥10% of Adult Patients with Advanced Phase CML Resistant or Intolerant to Prior Imatinib Therapy
 
 | Percent (%) of Patients |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | 140 mg Once Daily |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  | Accelerated (n=157) |  | Myeloid Blast (n=74) |  | Lymphoid Blast (n=33) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Preferred Term | All Grades | Grade 3/4 | All Grades | Grade 3/4 | All Grades | Grade 3/4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Adverse Reaction | All Grades | Grade 3/4 | All Grades | Grade 3/4 | All Grades | Grade 3/4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Fluid retention | 35 | 8 | 34 | 7 | 21 | 6 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Superficial localized edema | 18 | 1 | 14 | 0 | 3 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Pleural effusion | 21 | 7 | 20 | 7 | 21 | 6 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -180,22 +190,37 @@ Table 6: Adverse Reactions Reported in ≥10% of Patients with Advanced Phase CM
 | Febrile neutropenia | 4 | 4 | 12 | 12 | 12 | 12 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | a Includes ventricular dysfunction, cardiac failure, cardiac failure congestive, cardiomyopathy, congestive cardiomyopathy, diastolic dysfunction, ejection fraction decreased, and ventricular failure. b Includes drug eruption, erythema, erythema multiforme, erythrosis, exfoliative rash, generalized erythema, genital rash, heat rash, milia, rash, rash erythematous, rash follicular, rash generalized, rash macular, rash maculopapular, rash papular, rash pruritic, rash pustular, skin exfoliation, skin irritation, urticaria vesiculosa, and rash vesicular. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-### Laboratory Abnormalities
+Table 10: Adverse Reactions Reported in ≥10% of Dasatinib-Treated Pediatric Patients (n=97)
+
+| Adverse Reaction | Percent (%) of Patients |  |
+| --- | --- | --- |
+|  | All Grades | Grade 3/4 |
+| Headache | 28 | 3 |
+| Nausea | 20 | 0 |
+| Diarrhea | 21 | 0 |
+| Skin rash | 19 | 0 |
+| Vomiting | 13 | 0 |
+| Pain in extremity | 19 | 1 |
+| Abdominal pain | 16 | 0 |
+| Fatigue | 10 | 0 |
+| Arthralgia | 10 | 1 |
+
+#### Laboratory Abnormalities
 
 Myelosuppression was commonly reported in all patient populations.
-The frequency of Grade 3 or 4 neutropenia, thrombocytopenia, and anemia was higher in patients with advanced phase CML than in chronic phase CML (Tables 7 and 8).
+The frequency of Grade 3 or 4 neutropenia, thrombocytopenia, and anemia was higher in patients with advanced phase CML than in chronic phase CML (Tables 11 and 12).
 Myelosuppression was reported in patients with normal baseline laboratory values as well as in patients with pre-existing laboratory abnormalities.
 
-In patients who experienced severe myelosuppression, recovery generally occurred following dose interruption or reduction; permanent discontinuation of treatment occurred in 2% of patients in a randomized trial of patients with newly diagnosed chronic phase CML and 5% of patients with resistance or intolerance to prior imatinib therapy [see Warnings and Precautions (5.1)].
+In patients who experienced severe myelosuppression, recovery generally occurred following dose interruption or reduction; permanent discontinuation of treatment occurred in 2% of adult patients with newly diagnosed chronic phase CML and 5% of adult patients with resistance or intolerance to prior imatinib therapy [see Warnings and Precautions (5.1)].
 
 Grade 3 or 4 elevations of transaminases or bilirubin and Grade 3 or 4 hypocalcemia, hypokalemia, and hypophosphatemia were reported in patients with all phases of CML but were reported with an increased frequency in patients with myeloid or lymphoid blast phase CML.
 Elevations in transaminases or bilirubin were usually managed with dose reduction or interruption.
-Patients developing Grade 3 or 4 hypocalcemia during the course of SPRYCEL therapy often had recovery with oral calcium supplementation.
+Patients developing Grade 3 or 4 hypocalcemia during SPRYCEL therapy often had recovery with oral calcium supplementation.
 
-Laboratory abnormalities reported in patients with newly diagnosed chronic phase CML are shown in Table 7.
+Laboratory abnormalities reported in adult patients with newly diagnosed chronic phase CML are shown in Table 11.
 There were no discontinuations of SPRYCEL therapy in this patient population due to biochemical laboratory parameters.
 
-Table 7: CTC Grade 3/4 Laboratory Abnormalities in Patients with Newly Diagnosed Chronic Phase CML (minimum of 60 months follow-up)
+Table 11: CTC Grade 3/4 Laboratory Abnormalities in Adult Patients with Newly Diagnosed Chronic Phase CML (minimum of 60 months follow-up)
 
 |  | Percent (%) of Patients |  |
 | --- | --- | --- |
@@ -214,9 +239,9 @@ Table 7: CTC Grade 3/4 Laboratory Abnormalities in Patients with Newly Diagnosed
 | Elevated Creatinine | 1 | 1 |
 | CTC grades: neutropenia (Grade 3 ≥0.5–<1.0 × 109/L, Grade 4 <0.5 × 109/L); thrombocytopenia (Grade 3 ≥25–<50 × 109/L, Grade 4 <25 × 109/L); anemia (hemoglobin Grade 3 ≥65–<80 g/L, Grade 4 <65 g/L); elevated creatinine (Grade 3 >3–6 × upper limit of normal range (ULN), Grade 4 >6 × ULN); elevated bilirubin (Grade 3 >3–10 × ULN, Grade 4 >10 × ULN); elevated SGOT or SGPT (Grade 3 >5–20 × ULN, Grade 4 >20 × ULN); hypocalcemia (Grade 3 <7.0–6.0 mg/dL, Grade 4 <6.0 mg/dL); hypophosphatemia (Grade 3 <2.0–1.0 mg/dL, Grade 4 <1.0 mg/dL); hypokalemia (Grade 3 <3.0–2.5 mmol/L, Grade 4 <2.5 mmol/L). |  |  |
 
-Laboratory abnormalities reported in patients with CML resistant or intolerant to imatinib who received the recommended starting doses of SPRYCEL are shown by disease phase in Table 8.
+Laboratory abnormalities reported in patients with CML resistant or intolerant to imatinib who received the recommended starting doses of SPRYCEL are shown by disease phase in Table 12.
 
-Table 8: CTC Grade 3/4 Laboratory Abnormalities in Clinical Studies of CML: Resistance or Intolerance to Prior Imatinib Therapy
+Table 12: CTC Grade 3/4 Laboratory Abnormalities in Clinical Studies of CML in Adults: Resistance or Intolerance to Prior Imatinib Therapy
 
 |  | Percent (%) of Patients |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -237,9 +262,11 @@ Table 8: CTC Grade 3/4 Laboratory Abnormalities in Clinical Studies of CML: Resi
 | Elevated Creatinine | 0 | 2 | 8 | 0 |  |  |  |
 | CTC grades: neutropenia (Grade 3 ≥0.5–<1.0 × 109/L, Grade 4 <0.5 × 109/L); thrombocytopenia (Grade 3 ≥25–<50 × 109/L, Grade 4 <25 × 109/L); anemia (hemoglobin Grade 3 ≥65–<80 g/L, Grade 4 <65 g/L); elevated creatinine (Grade 3 >3–6 × upper limit of normal range (ULN), Grade 4 >6 × ULN); elevated bilirubin (Grade 3 >3–10 × ULN, Grade 4 >10 × ULN); elevated SGOT or SGPT (Grade 3 >5–20 × ULN, Grade 4 >20 × ULN); hypocalcemia (Grade 3 <7.0–6.0 mg/dL, Grade 4 <6.0 mg/dL); hypophosphatemia (Grade 3 <2.0–1.0 mg/dL, Grade 4 <1.0 mg/dL); hypokalemia (Grade 3 <3.0–2.5 mmol/L, Grade 4 <2.5 mmol/L). * Hematology parameters for 100 mg once-daily dosing in chronic phase CML reflects 60-month minimum follow-up. |  |  |  |  |  |  |  |
 
-Among chronic phase CML patients with resistance or intolerance to prior imatinib therapy, cumulative Grade 3 or 4 cytopenias were similar at 2 and 5 years including: neutropenia (36% vs 36%), thrombocytopenia (23% vs 24%), and anemia (13% vs 13%).
+Among adult patients with chronic phase CML with resistance or intolerance to prior imatinib therapy, cumulative Grade 3 or 4 cytopenias were similar at 2 and 5 years including: neutropenia (36% vs 36%), thrombocytopenia (23% vs 24%), and anemia (13% vs 13%).
 
-## 6.2 Philadelphia Chromosome-Positive Acute Lymphoblastic Leukemia (Ph+ ALL)
+In the pediatric studies, the rates of laboratory abnormalities were consistent with the known profile for laboratory parameters in adults.
+
+### Philadelphia Chromosome-Positive Acute Lymphoblastic Leukemia (Ph+ ALL) in Adults
 
 A total of 135 patients with Ph+ ALL were treated with SPRYCEL in clinical studies.
 The median duration of treatment was 3 months (range 0.03–31 months).
@@ -248,14 +275,14 @@ The most frequently reported adverse reactions included fluid retention events, 
 Hemorrhage (19%), pyrexia (17%), rash (16%), and dyspnea (16%) were also frequently reported.
 Serious adverse reactions reported in ≥5% of patients included pleural effusion (11%), gastrointestinal bleeding (7%), febrile neutropenia (6%), and infection (5%).
 
-## 6.3 Additional Pooled Data From Clinical Trials
+## 6.2 Additional Pooled Data from Clinical Trials
 
-The following additional adverse reactions were reported in patients in SPRYCEL CML and Ph+ ALL clinical studies at a frequency of ≥10%, 1%–<10%, 0.1%–<1%, or <0.1%.
-These events are included on the basis of clinical relevance.
+The following additional adverse reactions were reported in adult and pediatric patients (n=2809) in SPRYCEL CML and Ph+ ALL clinical studies at a frequency of ≥10%, 1%–<10%, 0.1%–<1%, or <0.1%.
+These adverse reactions are included based on clinical relevance.
 
 Gastrointestinal Disorders: 1%–<10% – mucosal inflammation (including mucositis/stomatitis), dyspepsia, abdominal distension, constipation, gastritis, colitis (including neutropenic colitis), oral soft tissue disorder; 0.1%–<1% – ascites, dysphagia, anal fissure, upper gastrointestinal ulcer, esophagitis, pancreatitis, gastroesophageal reflux disease; <0.1% – protein losing gastroenteropathy, ileus, acute pancreatitis, anal fistula.
 
-General Disorders and Administration-Site Conditions: ≥10% – peripheral edema, face edema; 1%–<10% – asthenia, chest pain, chills; 0.1%–<1% – malaise, other superficial edema; <0.1% – gait disturbance.
+General Disorders and Administration-Site Conditions: ≥10% – peripheral edema, face edema; 1%–<10% – asthenia, chest pain, chills; 0.1%–<1% – malaise, other superficial edema, peripheral swelling; <0.1% – gait disturbance.
 
 Skin and Subcutaneous Tissue Disorders: 1%–<10% – alopecia, acne, dry skin, hyperhidrosis, urticaria, dermatitis (including eczema); 0.1%–<1% – pigmentation disorder, skin ulcer, bullous conditions, photosensitivity, nail disorder, neutrophilic dermatosis, panniculitis, palmar-plantar erythrodysesthesia syndrome, hair disorder; <0.1% – leukocytoclastic vasculitis, skin fibrosis.
 
@@ -265,7 +292,7 @@ Nervous System Disorders: 1%–<10% – neuropathy (including peripheral neuropa
 
 Blood and Lymphatic System Disorders: 0.1%–<1% – lymphadenopathy, lymphopenia; <0.1% – aplasia pure red cell.
 
-Musculoskeletal and Connective Tissue Disorders: 1%–<10% – muscular weakness, musculoskeletal stiffness; 0.1%–<1% – rhabdomyolysis, tendonitis, muscle inflammation, osteonecrosis, arthritis.
+Musculoskeletal and Connective Tissue Disorders: 1%–<10% – muscular weakness, musculoskeletal stiffness; 0.1%–<1% – rhabdomyolysis, tendonitis, muscle inflammation, osteonecrosis, arthritis; <0.1% – epiphyses delayed fusion (reported at 1%–<10% in the pediatric studies), growth retardation (reported at 1%–<10% in the pediatric studies).
 
 Investigations: 1%–<10% – weight increased, weight decreased; 0.1%–<1% – blood creatine phosphokinase increased, gamma-glutamyltransferase increased.
 
@@ -275,7 +302,7 @@ Metabolism and Nutrition Disorders: 1%–<10% – appetite disturbances, hyperur
 
 Cardiac Disorders: 1%–<10% – arrhythmia (including tachycardia), palpitations; 0.1%–<1% – angina pectoris, cardiomegaly, pericarditis, ventricular arrhythmia (including ventricular tachycardia), electrocardiogram T-wave abnormal, troponin increased; <0.1% – cor pulmonale, myocarditis, acute coronary syndrome, cardiac arrest, electrocardiogram PR prolongation, coronary artery disease, pleuropericarditis.
 
-Eye Disorders: 1%–<10% – visual disorder (including visual disturbance, vision blurred, and visual acuity reduced), dry eye; 0.1%–<1% – conjunctivitis, visual impairment, photophobia, lacrimation increased.
+Eye Disorders: 1%–<10% – visual disorder (including visual disturbance, vision blurred, and visual acuity reduced), dry eye; 0.1%–<1% – conjunctivitis, visual impairment, lacrimation increased, <0.1% – photophobia.
 
 Vascular Disorders: 1%–<10% – flushing, hypertension; 0.1%–<1% – hypotension, thrombophlebitis, thrombosis; <0.1% – livedo reticularis, deep vein thrombosis, embolism.
 
@@ -297,7 +324,7 @@ Immune System Disorders: 0.1%–<1% – hypersensitivity (including erythema nod
 
 Endocrine Disorders: 0.1%–<1% – hypothyroidism; <0.1% – hyperthyroidism, thyroiditis.
 
-## 6.4 Postmarketing Experience
+## 6.3 Postmarketing Experience
 
 The following additional adverse reactions have been identified during post approval use of SPRYCEL.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

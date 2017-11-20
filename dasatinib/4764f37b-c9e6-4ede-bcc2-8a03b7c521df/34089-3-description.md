@@ -8,5 +8,6 @@ Dasatinib has the following chemical structure:
 
 Dasatinib is a white to off-white powder.
 The drug substance is insoluble in water and slightly soluble in ethanol and methanol.
+
 SPRYCEL tablets are white to off-white, biconvex, film-coated tablets containing dasatinib, with the following inactive ingredients: lactose monohydrate, microcrystalline cellulose, croscarmellose sodium, hydroxypropyl cellulose, and magnesium stearate.
 The tablet coating consists of hypromellose, titanium dioxide, and polyethylene glycol.

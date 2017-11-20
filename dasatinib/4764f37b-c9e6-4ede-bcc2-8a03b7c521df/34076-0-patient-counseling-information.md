@@ -12,7 +12,19 @@ Patients should be informed of the possibility of developing low blood cell coun
 
 ### Fluid Retention
 
-Patients should be informed of the possibility of developing fluid retention (swelling, weight gain, dry cough, chest pain on respiration, or shortness of breath) and to seek medical attention promptly if those symptoms arise [see Warnings and Precautions (5.3)].
+Patients should be informed of the possibility of developing fluid retention (swelling, weight gain, dry cough, chest pain on respiration, or shortness of breath) and advised to seek medical attention promptly if those symptoms arise [see Warnings and Precautions (5.3)].
+
+Pulmonary Arterial Hypertension
+
+Patients should be informed of the possibility of developing pulmonary arterial hypertension (dyspnea, fatigue, hypoxia, and fluid retention) and advised to seek medical attention promptly if those symptoms arise [see Warnings and Precautions (5.5)].
+
+Tumor Lysis Syndrome
+
+Patients should be informed to immediately report and seek medical attention for any symptoms such as nausea, vomiting, weakness, edema, shortness of breath, muscle cramps, and seizures, which may indicate tumor lysis syndrome [see Warnings and Precautions (5.8)].
+
+Growth and Development in Pediatric Patients
+
+Pediatric patients and their caregivers should be informed of the possibility of developing bone growth abnormalities, bone pain, or gynecomastia and advised to seek medical attention promptly if those symptoms arise [see Warnings and Precautions (5.10)].
 
 ### Embryo-Fetal Toxicity
 
@@ -28,6 +40,8 @@ Patients should be informed of the possibility of developing fluid retention (sw
 
 Patients should be informed that they may experience nausea, vomiting, or diarrhea with SPRYCEL.
 If these symptoms are bothersome or persistent, they should seek medical attention.
+
+Advise patients using antacids to avoid taking SPRYCEL and antacids less than 2 hours apart [see Drug Interactions (7.1)].
 
 ### Pain
 
@@ -53,5 +67,3 @@ Patients should be informed that SPRYCEL contains 135 mg of lactose monohydrate 
 If the patient misses a dose of SPRYCEL, the patient should take the next scheduled dose at its regular time.
 The patient should not take two doses at the same time.
 Distributed by: Bristol-Myers Squibb Company Princeton, NJ 08543 USA
-
-1360013A1

@@ -11,7 +11,7 @@ Skeletal malformations were observed in a limited number of surviving rat and ra
 These findings occurred at dasatinib plasma concentrations below those in humans receiving therapeutic doses of dasatinib [see Data].
 Advise a pregnant woman of the potential risk to a fetus.
 
-The estimated background risk in the U.S. general population of major birth defects is 2%-4% and of miscarriage is 15%-20% of clinically recognized pregnancies.
+The estimated background risk in the U.S. general population of major birth defects is 2% to 4% and of miscarriage is 15% to 20% of clinically recognized pregnancies.
 
 ### Clinical Considerations
 
@@ -41,9 +41,9 @@ In a pre- and postnatal development study in rats, administration of dasatinib f
 
 ### Risk Summary
 
-No data are available regarding the presence of dasatinib in human milk, the effects of the drug on the breastfed infant, or the effects of the drug on milk production.
+No data are available regarding the presence of dasatinib in human milk, the effects of the drug on the breastfed child, or the effects of the drug on milk production.
 However, dasatinib is present in the milk of lactating rats.
-Because of the potential for serious adverse reactions in nursing infants from SPRYCEL, breastfeeding is not recommended during treatment with SPRYCEL and for 2 weeks after the final dose.
+Because of the potential for serious adverse reactions in nursing children from SPRYCEL, breastfeeding is not recommended during treatment with SPRYCEL and for 2 weeks after the final dose.
 
 ## 8.3 Females and Males of Reproductive Potential
 
@@ -60,23 +60,15 @@ Based on animal data, dasatinib may result in damage to female and male reproduc
 
 ## 8.4 Pediatric Use
 
-The safety and efficacy of SPRYCEL in patients less than 18 years of age have not been established.
+The safety and efficacy of SPRYCEL in 97 pediatric patients with chronic phase CML were evaluated in two pediatric studies (a Phase I, open-label, non-randomized dose-ranging trial and a Phase II, open-label, non-randomized trial).
+Fifty-one patients (exclusively from the Phase II trial) were newly diagnosed with chronic phase CML and 46 patients (17 from the Phase I trial and 29 from the Phase II trial) were resistant or intolerant to previous treatment with imatinib.
+The majority of patients were treated with SPRYCEL tablets 60 mg/m2 once daily (maximum dose of 100 mg once daily for patients with high BSA).
+Patients were treated until disease progression or unacceptable toxicity.
+The safety profile of dasatinib in pediatric subjects was comparable to that reported in studies in adult subjects with chronic phase CML.
+Monitor bone growth and development in pediatric patients [see Warnings and Precautions (5.10)].
 
 ## 8.5 Geriatric Use
 
 No differences in confirmed Complete Cytogenetic Response (cCCyR) and MMR were observed between older and younger patients.
 Of the 2712 patients in clinical studies of SPRYCEL, 617 (23%) were 65 years of age and older, and 123 (5%) were 75 years of age and older.
 While the safety profile of SPRYCEL in the geriatric population was similar to that in the younger population, patients aged 65 years and older are more likely to experience the commonly reported adverse reactions of fatigue, pleural effusion, diarrhea, dyspnea, cough, lower gastrointestinal hemorrhage, and appetite disturbance, and more likely to experience the less frequently reported adverse reactions of abdominal distention, dizziness, pericardial effusion, congestive heart failure, hypertension, pulmonary edema, and weight decrease, and should be monitored closely.
-
-## 8.6 Hepatic Impairment
-
-The effect of hepatic impairment on the pharmacokinetics of dasatinib was evaluated in healthy volunteers with normal liver function and patients with moderate (Child-Pugh class B) and severe (Child-Pugh class C) hepatic impairment.
-Compared to the healthy volunteers with normal hepatic function, the dose-normalized pharmacokinetic parameters were decreased in the patients with hepatic impairment.
-
-No dosage adjustment is necessary in patients with hepatic impairment [see Clinical Pharmacology (12.3)].
-Caution is recommended when administering SPRYCEL to patients with hepatic impairment.
-
-## 8.7 Renal Impairment
-
-There are currently no clinical studies with SPRYCEL in patients with impaired renal function.
-Less than 4% of dasatinib and its metabolites are excreted via the kidney.

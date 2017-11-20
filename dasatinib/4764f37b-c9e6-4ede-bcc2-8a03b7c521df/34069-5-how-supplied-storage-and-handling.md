@@ -2,9 +2,9 @@
 
 ## 16.1 How Supplied
 
-SPRYCEL® (dasatinib) tablets are available as described in Table 13.
+SPRYCEL® (dasatinib) tablets are available as described in Table 18.
 
-Table 13: SPRYCEL Trade Presentations
+Table 18: SPRYCEL Trade Presentations
 
 | NDC Number | Strength | Description | Tablets per Bottle |
 | --- | --- | --- | --- |
@@ -22,8 +22,9 @@ SPRYCEL tablets should be stored at 20°C to 25°C (68°F to 77°F); excursions 
 ## 16.3 Handling and Disposal
 
 SPRYCEL is an antineoplastic product.
-Follow special handling and disposal procedures.
+Follow special handling and disposal procedures.1
 
-SPRYCEL tablets consist of a core tablet (containing the active drug substance), surrounded by a film coating to prevent exposure of pharmacy and clinical personnel to the active drug substance.
-However, if tablets are inadvertently crushed or broken, pharmacy and clinical personnel should wear disposable chemotherapy gloves.
 Personnel who are pregnant should avoid exposure to crushed or broken tablets.
+
+SPRYCEL tablets consist of a core tablet, surrounded by a film coating to prevent exposure of healthcare professionals to the active substance.
+The use of latex or nitrile gloves for appropriate disposal when handling tablets that are inadvertently crushed or broken is recommended, to minimize the risk of dermal exposure.
