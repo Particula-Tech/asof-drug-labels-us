@@ -38,6 +38,6 @@ Perrigo®
 
 Minneapolis, MN 55427
 
-6X200 RC J3
+6X200 RC J4
 
-Rev 08-17 C
+Rev 11-17 D

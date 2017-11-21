@@ -89,7 +89,7 @@ Relative and Absolute Risk Seen in the Estrogen Alone Substudy of WHIa
 | Deep vein thrombosisc,d | 1.47 (1.06-2.06) | 23 | 15 |
 | Pulmonary embolismc | 1.37 (0.90-2.07) | 14 | 10 |
 | Invasive breast cancerc | 0.80 (0.62-1.04) | 28 | 34 |
-| Colorectal cancerc | 1.08 (0.75-1.55) | 17 | 16 |
+| Colorectal cancere | 1.08 (0.75-1.55) | 17 | 16 |
 | Hip facturec | 0.65 (0.45-0.94) | 12 | 19 |
 | Vertebral fracturesc,d | 0.64 (0.44-0.93) | 11 | 18 |
 | Lower arm/wrist fracturesc,d | 0.58 (0.47-0.72) | 35 | 59 |
@@ -142,7 +142,7 @@ Relative and Absolute Risk Seen in the Estrogen Plus Progestin Substudy of WHI a
 | Event | Relative Risk CE/MPA vs. Placebo(95%) nCIc) | CE/MPA(n = 8,506) | Placebo(n = 8,102) |
 | --- | --- | --- | --- |
 | Absolute Risk per10,000 Women-Years |  |  |  |
-| CHD eventsNon-fatal MICHD death | 1.23 (0.99-1.53)1.28 (1.00-1.63)1.10 (0.70-1.75) | 41318 | 34258 |
+| CHD eventsNon-fatal MICHD deathc | 1.23 (0.99-1.53)1.28 (1.00-1.63)1.10 (0.70-1.75) | 41318 | 34258 |
 | All strokesIschemic stroke | 1.31 (1.03-1.68)1.44 (1.09-1.90) | 3326 | 2518 |
 | Deep vein thrombosisd | 1.95 (1.43-2.67) | 26 | 13 |
 | Pulmonary embolism | 2.13 (1.45-3.11) | 18 | 8 |

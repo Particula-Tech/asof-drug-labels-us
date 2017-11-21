@@ -11,6 +11,6 @@ The structural formula is:
 Each metered-dose pump contains 8.1 mL and is designed to deliver 56 sprays of 90 mcL each after priming.
 One spray of Evamist contains 1.53 mg estradiol.
 The metered-dose pump should be held upright and vertical for spraying.
-Before a new applicator is used for the first time, the pump should be primed by spraying 3 times into the cover.
+Before a new applicator is used for the first time, the pump should be primed by spraying 3 times with the cover on.
 
 One, two or three sprays are applied daily each morning to adjacent non-overlapping 20 cm2 areas on the inner surface of the arm between the elbow and the wrist and allowed to dry.

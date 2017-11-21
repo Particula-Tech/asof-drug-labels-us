@@ -1,3 +1,5 @@
+WARNING: ENDOMETRIAL CANCER, CARDIOVASCULAR DISORDERS, BREAST CANCER, PROBABLE DEMENTIA, AND UNINTENTIONAL SECONDARY EXPOSURE TO ESTROGEN
+
 Estrogen-Alone Therapy
 
 Endometrial Cancer
@@ -8,7 +10,7 @@ Adequate diagnostic measures, including directed and random endometrial sampling
 
 Cardiovascular Disorders and Probable Dementia
 
-Estrogen-alone therapy should not be used for the prevention of cardiovascular disease or dementia [see Warnings and Precautions (5.1, 5.3, and Clinical Studies (14.2, 14.3].
+Estrogen-alone therapy should not be used for the prevention of cardiovascular disease or dementia [see Warnings and Precautions (5.1, 5.3), and Clinical Studies (14.2, 14.3)].
 
 The Women’s Health Initiative (WHI) estrogen-alone substudy reported increased risks of stroke and deep vein thrombosis (DVT) in postmenopausal women (50 to 79 years of age) during 7.1 years of treatment with daily oral conjugated estrogens (CE) [0.625 mg]-alone, relative to placebo [see Warnings and Precautions (5.1), and Clinical Studies (14.2)].
 
