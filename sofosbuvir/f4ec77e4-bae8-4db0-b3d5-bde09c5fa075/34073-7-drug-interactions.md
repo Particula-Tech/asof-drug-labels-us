@@ -12,6 +12,9 @@ Ledipasvir is an inhibitor of the drug transporters P-gp and breast cancer resis
 Ledipasvir and sofosbuvir are substrates of drug transporters P-gp and BCRP while GS-331007 is not.
 P-gp inducers (e.g., rifampin or St. John's wort) may decrease ledipasvir and sofosbuvir plasma concentrations, leading to reduced therapeutic effect of HARVONI, and the use with P-gp inducers is not recommended with HARVONI [see Warnings and Precautions (5.3)].
 
+Fluctuations in INR values may occur in patients receiving warfarin concomitant with HCV treatment, including treatment with HARVONI.
+Frequent monitoring of INR values is recommended during treatment and post-treatment follow-up.
+
 ## 7.2 Established and Potentially Significant Drug Interactions
 
 Table 5 provides a listing of established or potentially clinically significant drug interactions.
@@ -37,6 +40,7 @@ Table 5 Potentially Significant Drug Interactions: Alteration in Dose or Regimen
 | HCV Products: simeprevir | ↑ ledipasvir ↑ simeprevir | Concentrations of ledipasvir and simeprevir are increased when simeprevir is coadministered with ledipasvir. Coadministration of HARVONI with simeprevir is not recommended. |
 | Herbal Supplements: St. John's wort (Hypericum perforatum) | ↓ ledipasvir ↓ sofosbuvir | Coadministration of HARVONI with St. John's wort, a P-gp inducer, is not recommended [see Warnings and Precautions (5.3)]. |
 | HMG-CoA Reductase Inhibitors: rosuvastatin | ↑ rosuvastatin | Coadministration of HARVONI with rosuvastatin may significantly increase the concentration of rosuvastatin which is associated with increased risk of myopathy, including rhabdomyolysis. Coadministration of HARVONI with rosuvastatin is not recommended. |
+| atorvastatin | ↑ atorvastatin | Coadministration of HARVONI with atorvastatin may be associated with increased risk of myopathy, including rhabdomyolysis. Monitor closely for HMG-CoA reductase inhibitor-associated adverse reactions, such as myopathy and rhabdomyolysis. |
 | tenofovir DF = tenofovir disoproxil fumarate |  |  |
 
 ## 7.3 Drugs without Clinically Significant Interactions with HARVONI
