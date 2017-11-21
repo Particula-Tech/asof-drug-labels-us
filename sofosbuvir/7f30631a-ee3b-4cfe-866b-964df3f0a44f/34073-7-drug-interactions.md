@@ -14,6 +14,9 @@ EPCLUSA may be coadministered with P-gp, BCRP, and CYP inhibitors.
 Velpatasvir is an inhibitor of drug transporters P-gp, breast cancer resistance protein (BCRP), OATP1B1, OATP1B3, and OATP2B1.
 Coadministration of EPCLUSA with drugs that are substrates of these transporters may increase the exposure of such drugs.
 
+Fluctuations in INR values may occur in patients receiving warfarin concomitant with HCV treatment, including treatment with EPCLUSA.
+Frequent monitoring of INR values is recommended during treatment and post-treatment follow-up.
+
 ## 7.3 Established and Potentially Significant Drug Interactions
 
 Table 2 provides a listing of established or potentially clinically significant drug interactions.
@@ -37,7 +40,7 @@ Table 2 Potentially Significant Drug Interactions: Alteration in Dose or Regimen
 | tipranavir/ritonavir | ↓ sofosbuvir ↓ velpatasvir | Coadministration is not recommended. |
 | Herbal Supplements: St. John's wort (Hypericum perforatum) | ↓ sofosbuvir ↓ velpatasvir | Coadministration is not recommended. |
 | HMG-CoA Reductase Inhibitors: rosuvastatin | ↑ rosuvastatin | Coadministration of EPCLUSA with rosuvastatin may significantly increase the concentration of rosuvastatin, which is associated with increased risk of myopathy, including rhabdomyolysis. Rosuvastatin may be administered with EPCLUSA at a dose that does not exceed 10 mg. |
-| atorvastatin | ↑ atorvastatin | Coadministration of EPCLUSA with atorvastatin is expected to increase the concentrations of atorvastatin, which is associated with increased risk of myopathy, including rhabdomyolysis. Monitor closely for HMG-CoA reductase inhibitor-associated adverse reactions, such as myopathy and rhabdomyolysis. |
+| atorvastatin | ↑ atorvastatin | Coadministration of EPCLUSA with atorvastatin may be associated with increased risk of myopathy, including rhabdomyolysis. Monitor closely for HMG-CoA reductase inhibitor-associated adverse reactions, such as myopathy and rhabdomyolysis. |
 | DF = disoproxil fumarate. |  |  |
 
 ## 7.4 Drugs without Clinically Significant Interactions with EPCLUSA
