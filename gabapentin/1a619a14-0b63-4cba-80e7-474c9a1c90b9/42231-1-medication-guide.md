@@ -4,16 +4,9 @@ Gabapentin Capsules, USP
 
 (gab'' a pen' tin)
 
-Read the Medication Guide before you start taking gabapentin capsules and each time you get a refill.
-There may be new information.
-This information does not take the place of talking to your healthcare provider about your medical condition or treatment.
-
 What is the most important information I should know about gabapentin capsules?
-
 Do not stop taking gabapentin capsules without first talking to your healthcare provider.
-
 Stopping gabapentin capsules suddenly can cause serious problems.
-
 Gabapentin capsules can cause serious side effects including:
 
 1.
@@ -96,7 +89,7 @@ Before taking gabapentin capsules, tell your healthcare provider if you:
   It is not known if gabapentin capsules can harm your unborn baby.
   Tell your healthcare provider right away if you become pregnant while taking gabapentin capsules.
   You and your healthcare provider will decide if you should take gabapentin capsules while you are pregnant.
-  - If you become pregnant while taking gabapentin capsules, talk to your healthcare provider about registering with the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
+  - Pregnancy Registry: If you become pregnant while taking gabapentin capsules, talk to your healthcare provider about registering with the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
     The purpose of this registry is to collect information about the safety of antiepileptic drugs during pregnancy.
     You can enroll in this registry by calling 1-888-233-2334.
 - are breast-feeding or plan to breast-feed.
@@ -172,7 +165,7 @@ General information about the safe and effective use of gabapentin capsules
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use gabapentin capsules for a condition for which it was not prescribed.
 Do not give gabapentin capsules to other people, even if they have the same symptoms that you have.
-They may harm them.
+It may harm them.
 
 This Medication Guide summarizes the most important information about gabapentin capsules.
 If you would like more information, talk with your healthcare provider.
@@ -192,4 +185,4 @@ The capsules are printed with edible ink containing black iron oxide and shellac
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 * All brands listed are the trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
-Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 090, India Revised: 04/2017
+Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides Distributed by: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 11/2017

@@ -67,7 +67,7 @@ Epilepsy with Partial Onset Seizures (Adjunctive Therapy)
 
 The most common adverse reactions with gabapentin in combination with other antiepileptic drugs in patients >12 years of age, not seen at an equivalent frequency among placebo-treated patients, were somnolence, dizziness, ataxia, fatigue, and nystagmus.
 
-The most common adverse reactions with gabapentin in combination with other antiepileptic drugs in pediatric patients 3 to 12 years of age, not seen at an equal frequency among placebo-treated patients, were viral infection, fever, nausea and/or vomiting, somnolence, and hostility [see Warnings and Precautions (5.5)].
+The most common adverse reactions with gabapentin in combination with other antiepileptic drugs in pediatric patients 3 to 12 years of age, not seen at an equal frequency among placebo-treated patients, were viral infection, fever, nausea and/or vomiting, somnolence, and hostility [see Warnings and Precautions (5.7)].
 
 Approximately 7% of the 2074 patients >12 years of age and approximately 7% of the 449 pediatric patients 3 to 12 years of age who received gabapentin in premarketing clinical trials discontinued treatment because of an adverse reaction.
 The adverse reactions most commonly associated with withdrawal in patients >12 years of age were somnolence (1.2%), ataxia (0.8%), fatigue (0.6%), nausea and/or vomiting (0.6%), and dizziness (0.6%).

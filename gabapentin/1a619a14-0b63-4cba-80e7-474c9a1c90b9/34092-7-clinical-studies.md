@@ -26,7 +26,9 @@ The reduction in weekly mean pain scores was seen by Week 1 in both studies, and
 Comparable treatment effects were observed in all active treatment arms.
 Pharmacokinetic/pharmacodynamic modeling provided confirmatory evidence of efficacy across all doses.
 Figures 1 and 2 show pain intensity scores over time for Studies 1 and 2.
-The proportion of responders (those patients reporting at least 50% improvement in endpoint pain score compared with baseline) was calculated for each study (Figure 3).
+Figure 1.
+Weekly Mean Pain Scores (Observed Cases in ITT Population): Study 1 Figure 2.
+Weekly Mean Pain Scores (Observed Cases in ITT Population): Study 2 The proportion of responders (those patients reporting at least 50% improvement in endpoint pain score compared to baseline) was calculated for each study (Figure 3).
 Figure 3.
 Proportion of Responders (patients with ≥50% reduction in pain score) at Endpoint: Controlled PHN Studies
 
@@ -36,7 +38,7 @@ The effectiveness of gabapentin as adjunctive therapy (added to other antiepilep
 Evidence of effectiveness was obtained in three trials conducted in 705 patients (age 12 years and above) and one trial conducted in 247 pediatric patients (3 to 12 years of age).
 The patients enrolled had a history of at least 4 partial seizures per month in spite of receiving one or more antiepileptic drugs at therapeutic levels and were observed on their established antiepileptic drug regimen during a 12-week baseline period (6 weeks in the study of pediatric patients).
 In patients continuing to have at least 2 (or 4 in some studies) seizures per month, gabapentin or placebo was then added on to the existing therapy during a 12-week treatment period.
-Effectiveness was assessed primarily on the basis of the percent of patients with a 50% or greater reduction in seizure frequency from baseline to treatment (the “responder rate”) and a derived measure called response ratio, a measure of change defined as (T -B)/(T + B), in which B is the patient’s baseline seizure frequency and T is the patient’s seizure frequency during treatment.
+Effectiveness was assessed primarily on the basis of the percent of patients with a 50% or greater reduction in seizure frequency from baseline to treatment (the “responder rate”) and a derived measure called response ratio, a measure of change defined as (T - B)/(T + B), in which B is the patient’s baseline seizure frequency and T is the patient’s seizure frequency during treatment.
 Response ratio is distributed within the range -1 to +1.
 A zero value indicates no change while complete elimination of seizures would give a value of -1; increased seizure rates would give positive values.
 A response ratio of -0.33 corresponds to a 50% reduction in seizure frequency.
@@ -63,7 +65,9 @@ Within each study, the results did not show a consistently increased response to
 However, looking across studies, a trend toward increasing efficacy with increasing dose is evident (see Figure 4).
 
 Figure 4.
-Responder Rate in Patients Receiving Gabapentin Expressed as a Difference from Placebo by Dose and Study: Adjunctive Therapy Studies in Patients ≥12 Years of Age with Partial Seizures In the figure, treatment effect magnitude, measured on the Y axis in terms of the difference in the proportion of gabapentin and placebo-assigned patients attaining a 50% or greater reduction in seizure frequency from baseline, is plotted against the daily dose of gabapentin administered (X axis).
+Responder Rate in Patients Receiving Gabapentin Expressed as a Difference from Placebo by Dose and Study: Adjunctive Therapy Studies in Patients ≥12 Years of Age with Partial Seizures
+
+In the figure, treatment effect magnitude, measured on the Y axis in terms of the difference in the proportion of gabapentin and placebo-assigned patients attaining a 50% or greater reduction in seizure frequency from baseline, is plotted against the daily dose of gabapentin administered (X axis).
 Although no formal analysis by gender has been performed, estimates of response (Response Ratio) derived from clinical trials (398 men, 307 women) indicate no important gender differences exist.
 There was no consistent pattern indicating that age had any effect on the response to gabapentin.
 There were insufficient numbers of patients of races other than Caucasian to permit a comparison of efficacy among racial groups.
