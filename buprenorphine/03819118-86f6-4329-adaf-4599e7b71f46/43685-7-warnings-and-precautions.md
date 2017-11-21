@@ -12,7 +12,7 @@ Multiple refills should not be prescribed early in treatment or without appropri
 Buprenorphine, particularly when taken by the IV route, in combination with benzodiazepines or other CNS depressants (including alcohol), has been associated with significant respiratory depression and death.
 Many, but not all postmarketing reports regarding coma and death associated with the concomitant use of buprenorphine and benzodiazepines involved misuse by self-injection.
 Deaths have also been reported in association with concomitant administration of buprenorphine with other depressants such as alcohol or other CNS depressant drugs.
-Patients should be warned of the potential danger of self-administration of benzodiazepines or other depressants while under treatment with Buprenorphine Sublingual Tablets [see Drug Interactions (7.3)].
+Patients should be warned of the potential danger of self-administration of benzodiazepines or other depressants while under treatment with Buprenorphine Sublingual Tablets [see Drug Interactions (7)].
 
 In the case of overdose, the primary management should be the re-establishment of adequate ventilation with mechanical assistance of respiration, if required.
 Naloxone may be of value for the management of buprenorphine overdose.
@@ -23,7 +23,7 @@ Buprenorphine Sublingual Tablets should be used with caution in patients with co
 ## 5.3 CNS Depression
 
 Patients receiving buprenorphine in the presence of opioid analgesics, general anesthetics, benzodiazepines, phenothiazines, other tranquilizers, sedative/hypnotics or other CNS depressants (including alcohol) may exhibit increased CNS depression.
-Consider dose reduction of CNS depressants, Buprenorphine Sublingual Tablets, or both in situations of concomitant prescription [see Drug Interactions (7.3)].
+Consider dose reduction of CNS depressants, Buprenorphine Sublingual Tablets, or both in situations of concomitant prescribing [see Drug Interactions (7)].
 
 ## 5.4 Unintentional Pediatric Exposure
 
@@ -73,7 +73,7 @@ Depending on the case, Buprenorphine Sublingual Tablets may need to be carefully
 ## 5.9 Allergic Reactions
 
 Cases of hypersensitivity to buprenorphine products have been reported both in clinical trials and in the postmarketing experience.
-Cases of bronchospasm, angioneutrotic edema, and anaphylactic shock have been reported.
+Cases of bronchospasm, angioneurotic edema, and anaphylactic shock have been reported.
 The most common signs and symptoms include rashes, hives, and pruritus.
 A history of hypersensitivity to buprenorphine is a contraindication to the use of Buprenorphine Sublingual Tablets.
 
@@ -90,7 +90,7 @@ Buprenorphine Sublingual Tablets are not appropriate as an analgesic.
 
 In a pharmacokinetic study, buprenorphine plasma levels were found to be higher and the half-life was found to be longer in subjects with moderate and severe hepatic impairment, but not in subjects with mild hepatic impairment.
 
-For patients with severe hepatic impairment, a dose adjustment is recommended, and patients with moderate or severe hepatic impairment should be monitored for signs and symptoms of toxicity or overdose caused by increased levels of buprenorphine [see Dosage and Administration (2.5) and Use in Specific Populations (8.6)].
+For patients with severe hepatic impairment, a dose adjustment is recommended, and patients with moderate or severe hepatic impairment should be monitored for signs and symptoms of toxicity or overdose caused by increased levels of buprenorphine [see Dosage and Administration (2.6) and Use in Specific Populations (8.6)].
 
 ## 5.13 Impairment of Ability to Drive or Operate Machinery
 

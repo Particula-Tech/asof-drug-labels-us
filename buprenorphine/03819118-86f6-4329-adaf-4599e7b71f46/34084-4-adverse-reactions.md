@@ -2,7 +2,9 @@
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-## 6.1 Adverse Events in Clinical Trials
+## 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 The safety of Buprenorphine Sublingual Tablets was supported by clinical trials using Buprenorphine Sublingual Tablets, buprenorphine and naloxone sublingual tablet and other trials using buprenorphine sublingual solutions.
 In total, safety data were available from 3214 opioid-dependent subjects exposed to buprenorphine at doses in the range used in treatment of opioid addiction.
@@ -11,8 +13,7 @@ Few differences in adverse event profile were noted between Buprenorphine Sublin
 
 The following adverse events were reported to occur by at least 5% of patients in a 4-week study (Table 1).
 
-Table 1.
-Adverse Events ≥5% by Body System and Treatment Group in a 4-week Study
+Table 1 Adverse Events ≥ 5% by Body System and Treatment Group in a 4-week Study
 
 |  | N (%) | N (%) |
 | --- | --- | --- |
@@ -37,14 +38,13 @@ Adverse Events ≥5% by Body System and Treatment Group in a 4-week Study
 | Insomnia | 22 (21.4%) | 17 (15.9%) |
 | Respiratory System |  |  |
 | Rhinitis | 10 (9.7%) | 14 (13.1%) |
-| Skin And Appendages |  |  |
+| Skin and Appendages |  |  |
 | Sweating | 13 (12.6%) | 11 (10.3%) |
 
 The adverse event profile of buprenorphine was also characterized in the dose-controlled study of buprenorphine solution, over a range of doses in four months of treatment.
 Table 2 shows adverse events reported by at least 5% of subjects in any dose group in the dose-controlled study.
 
-Table 2.
-Adverse Events (≥5%) by Body System and Treatment Group in a 16-week Study
+Table 2 Adverse Events (≥ 5%) by Body System and Treatment Group in a 16-week Study
 
 | Body System /Adverse Event (COSTART Terminology) | Buprenorphine Dose* |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -88,7 +88,10 @@ Adverse Events (≥5%) by Body System and Treatment Group in a 16-week Study
 | "Low" dose (4 mg solution) approximates a 6 mg tablet dose "Moderate" dose (8 mg solution) approximates a 12 mg tablet dose |  |  |  |  |  |
 | "High" dose (16 mg solution) approximates a 24 mg tablet dose |  |  |  |  |  |
 
-## 6.2 Adverse Events - Postmarketing Experience with Buprenorphine Sublingual Tablets
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post approval use of buprenorphine.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 The most frequently reported postmarketing adverse events with buprenorphine not observed in clinical trials, excluding drug exposure during pregnancy, was drug misuse or abuse.
 

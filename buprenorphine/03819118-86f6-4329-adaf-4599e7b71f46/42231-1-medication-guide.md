@@ -1,13 +1,11 @@
-MEDICATION GUIDE
+# MEDICATION GUIDE
 
 BUPRENORPHINE (bue" pre nor' feen) SUBLINGUAL TABLETS CIII
-
-Rx Only
 
 | IMPORTANT: Keep Buprenorphine Sublingual Tablets in a secure place away from children. Accidental use by a child is a medical emergency and can result in death. If a child accidentally uses Buprenorphine Sublingual Tablets, get emergency help right away. |
 | --- |
 
-Read this Medication Guide before you start taking Buprenorphine Sublingual Tablets and each time you get a refill.
+Read this Medication Guide that comes with Buprenorphine Sublingual Tablets before you start taking it and each time you get a refill.
 There may be new information.
 This Medication Guide does not take the place of talking to your doctor.
 Talk to your doctor or pharmacist if you have questions about Buprenorphine Sublingual Tablets.
@@ -18,13 +16,16 @@ What is the most important information I should know about Buprenorphine Subling
 
 - Buprenorphine Sublingual Tablets can cause serious and life-threatening breathing problems.
   Call your doctor right away or get emergency help if: ○ You feel faint, dizzy or confused ○ Your breathing gets much slower than is normal for you These can be signs of an overdose or other serious problems.
+- Do not switch from Buprenorphine Sublingual Tablets to other medicines that contain buprenorphine without talking with your doctor.
+  The amount of buprenorphine in a dose of Buprenorphine Sublingual Tablets may not be the same as the amount of buprenorphine in other medicines that contain buprenorphine.
+  Your doctor will prescribe a starting dose of Buprenorphine Sublingual Tablets that may be different than other buprenorphine containing medicines you may have been taking.
 
 - Buprenorphine Sublingual Tablets contain an opioid that can cause physical dependence. ○ Do not stop taking Buprenorphine Sublingual Tablets without talking to your doctor.
   You could become sick with uncomfortable withdrawal signs and symptoms because your body has become used to this medicine ○ Physical dependence is not the same as drug addiction} ○ Buprenorphine Sublingual Tablets are not for occasional or “as needed” use
-- An overdose, and even death, can happen if you take benzodiazepines, sedatives, tranquilizers, or alcohol while using Buprenorphine Sublingual Tablets.
+- An overdose, and even death, can happen if you take benzodiazepines, sedatives, tranquilizers, antidepressants, or alcohol while using Buprenorphine Sublingual Tablets.
   Ask your doctor what you should do if you are taking one of these.
 - Call a doctor or get emergency help right away if you: ○ Feel sleepy and uncoordinated ○ Have blurred vision ○ Have slurred speech ○ Cannot think well or clearly ○ Have slowed reflexes and breathing
-- Do not inject (“shoot-up”) Buprenorphine Sublingual Tablets. ○ Injecting this medicine may cause life-threatening infections and other serious health problems. ○ Injecting Buprenorphine Sublingual Tablets may cause serious withdrawal symptoms such as pain, cramps, vomiting, diarrhea, anxiety, sleep problems and cravings.
+- Do not inject (“shoot-up”) Buprenorphine Sublingual Tablets. ○ Injecting this medicine may cause life-threatening infections and other serious health problems. ○ Injecting this medicine may cause serious withdrawal symptoms such as pain, cramps, vomiting, diarrhea, anxiety, sleep problems, and cravings.
 - In an emergency, have family members tell the emergency department staff that you are physically dependent on an opioid and are being treated with Buprenorphine Sublingual Tablets.
 
 What areBuprenorphine Sublingual Tablets?
@@ -45,12 +46,12 @@ What should I tell my doctor before taking Buprenorphine Sublingual Tablets?
 Buprenorphine Sublingual Tablets may not be right for you.
 Before taking Buprenorphine Sublingual Tablets, tell your doctor if you:
 
+- Have liver or kidney problems
 - Have trouble breathing or lung problems
 - Have an enlarged prostate gland (men)
 - Have a head injury or brain problem
 - Have problems urinating
 - Have a curve in your spine that affects your breathing
-- Have liver or kidney problems
 - Have gallbladder problems
 - Have adrenal gland problems
 - Have Addison’s disease
@@ -62,17 +63,17 @@ Before taking Buprenorphine Sublingual Tablets, tell your doctor if you:
   If you take Buprenorphine Sublingual Tablets while pregnant, your baby may have symptoms of opioid withdrawal or respiratory depression at birth.
   Talk to your doctor if you are pregnant or plan to become pregnant.
 - Are breastfeeding or plan to breastfeed.
-  Buprenorphine hydrochloride can pass into your milk and may harm the baby.
+  Buprenorphine hydrochloride can pass into your milk and may harm your baby.
   Talk to your doctor about the best way to feed your baby if you take Buprenorphine Sublingual Tablets.
-  Breastfeeding is not recommended while taking Buprenorphine Sublingual Tablets.
+  Monitor your baby for increased sleepiness and breathing problems.
 
-Tell your doctor about all the medicines you take, including prescription and nonprescription medicines, vitamins and herbal supplements.
+Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 Buprenorphine Sublingual Tablets may affect the way other medicines work, and other medicines may affect how Buprenorphine Sublingual Tablets work.
 Some medicines may cause serious or life-threatening medical problems when taken with Buprenorphine Sublingual Tablets.
 
 Sometimes the doses of certain medicines and Buprenorphine Sublingual Tablets may need to be changed if used together.
 Do not take any medicine while using Buprenorphine Sublingual Tablets until you have talked with your doctor.
-Your doctor will tell you if it is safe to take other medicines while you are using Buprenorphine Sublingual Tablets.
+Your doctor will tell you if it is safe to take other medicines while you are taking Buprenorphine Sublingual Tablets.
 
 Be especially careful about taking other medicines that may make you sleepy, such as pain medicines, tranquilizers, sleeping pills, anxiety medicines or antihistamines.
 
@@ -121,7 +122,7 @@ Buprenorphine Sublingual Tablets can cause serious side effects including:
   Call your doctor right away if you notice any of these signs of liver problems: Your skin or the white part of your eyes turning yellow (jaundice), urine turning dark, stools turning light in color, you have less of an appetite, or you have stomach (abdominal) pain or nausea.
   Your doctor should do tests before you start taking and while you take Buprenorphine Sublingual Tablets.
 - Allergic reaction.
-  You may have a rash, hives, swelling of your face, wheezing, or loss of blood pressure and consciousness.
+  You may have a rash, hives, swelling of the face, wheezing, or loss of blood pressure and consciousness.
   Call a doctor or get emergency help right away.
 - Opioid withdrawal.
   This can include: shaking, sweating more than normal, feeling hot or cold more than normal, runny nose, watery eyes, goose bumps, diarrhea, vomiting and muscle aches.
@@ -131,14 +132,24 @@ Buprenorphine Sublingual Tablets can cause serious side effects including:
 
 Common side effects of Buprenorphine Sublingual Tablets include:
 
-- Headache
 - Nausea
 - Vomiting
-- Increased sweating
-- Constipation
 - Drug withdrawal syndrome
+- Headache
+- Sweating
+- Numb mouth
+- Constipation
+- Swollen and/or painful tongue
+- The inside of your mouth is more red than normal
+- Intoxication (feeling lightheaded or drunk)
+- Disturbance in attention
+- Irregular heart beat (palpitations)
 - Decrease in sleep (insomnia)
-- Pain
+- Blurred vision
+- Back pain
+- Fainting
+- Dizziness
+- Sleepiness
 
 Tell your doctor about any side effect that bothers you or that does not go away.
 
@@ -150,18 +161,18 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store Buprenorphine Sublingual Tablets?
 
-- Store Buprenorphine Sublingual Tablets between 59°F and 86°F (15°C to 30°C).
+- Store Buprenorphine Sublingual Tablets at room temperature between 68°F and 77°F (20°C to 25°C).
 - Keep Buprenorphine Sublingual Tablets in a safe place, out of the sight and reach of children.
 
 How should I dispose of unused Buprenorphine Sublingual Tablets?
 
 - Dispose of unused Buprenorphine Sublingual Tablets as soon as you no longer need them.
-- Flush unused tablets down the toilet.
+- Unused tablets should be flushed down the toilet.
 
 General information about the safe and effective use of Buprenorphine Sublingual Tablets
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
-Do not use Buprenorphine Sublingual Tablets for a condition for which they were not prescribed.
+Do not take Buprenorphine Sublingual Tablets for a condition for which they were not prescribed.
 Do not give Buprenorphine Sublingual Tablets to other people, even if they have the same symptoms you have.
 It may harm them and it is against the law.
 
@@ -172,6 +183,7 @@ You can ask your doctor or pharmacist for information that is written for health
 For more information, call Actavis at 1-800-432-8534.
 
 What are the ingredients in Buprenorphine Sublingual Tablets?
+
 Active Ingredient: buprenorphine hydrochloride, USP
 
 Inactive Ingredients: citric acid anhydrous, crospovidone, FD&C yellow #6 HT aluminum lake, lactose monohydrate, magnesium stearate, mannitol, pregelatinized starch (maize), povidone, sodium citrate dihydrate.
@@ -184,4 +196,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 40-9095
 
-(MG 41-1125/1116)
+(MG 41-1125/0917)
