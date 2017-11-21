@@ -5,7 +5,7 @@ Although the primary mechanism of this action is inhibition of ovulation, other 
 
 ## Pharmacokinetics
 
-The pharmacokinetics of norethindrone acetate and ethinyl estradiol tablets have not been characterized; however, the following pharmacokinetic information regarding norethindrone acetate and ethinyl estradiol is taken from the literature.
+The pharmacokinetics of Junel have not been characterized; however, the following pharmacokinetic information regarding norethindrone acetate and ethinyl estradiol is taken from the literature.
 
 ## Absorption
 
@@ -15,7 +15,7 @@ Norethindrone acetate and ethinyl estradiol are subject to first-pass metabolism
 ## Distribution
 
 Volume of distribution of norethindrone and ethinyl estradiol ranges from 2 to 4 L/kg (1-3).
-Plasma protein binding of both steroids is extensive (>95%); norethindrone binds to both albumin and sex hormone binding globulin, whereas ethinyl estradiol binds only to albumin (4).
+Plasma protein binding of both steroids is extensive (greater than 95%); norethindrone binds to both albumin and sex hormone binding globulin, whereas ethinyl estradiol binds only to albumin (4).
 
 ## Metabolism
 
@@ -36,18 +36,18 @@ Plasma clearance values for norethindrone and ethinyl estradiol are similar (app
 
 ## Special Population
 
-### Race
+### Race:
 
-The effect of race on the disposition of norethindrone acetate and ethinyl estradiol tablets has not been evaluated.
+The effect of race on the disposition of Junel has not been evaluated.
 
 ### Renal Insufficiency
 
-The effect of renal disease on the disposition of norethindrone acetate and ethinyl estradiol tablets has not been evaluated.
+The effect of renal disease on the disposition of Junel has not been evaluated.
 In premenopausal women with chronic renal failure undergoing peritoneal dialysis who received multiple doses of an oral contraceptive containing ethinyl estradiol and norethindrone, plasma ethinyl estradiol concentrations were higher and norethindrone concentrations were unchanged compared to concentrations in premenopausal women with normal renal function.
 
 ### Hepatic Insufficiency
 
-The effect of hepatic disease on the disposition of norethindrone acetate and ethinyl estradiol tablets has not been evaluated.
+The effect of hepatic disease on the disposition of Junel has not been evaluated.
 However, ethinyl estradiol and norethindrone may be poorly metabolized in patients with impaired liver function.
 
 ## Drug-Drug Interactions
