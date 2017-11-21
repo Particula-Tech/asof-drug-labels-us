@@ -1,208 +1,220 @@
 # 6 ADVERSE REACTIONS
 
+The following serious adverse reactions are described below and elsewhere in the labeling:
+
+- Suicidal Thoughts and Behaviors in Children, Adolescents and Young Adults [see Boxed Warning and Warnings and Precautions (5.1)]
+- Hepatotoxicity [see Warnings and Precautions (5.2)]
+- Orthostatic Hypotension, Falls and Syncope [see Warnings and Precautions (5.3)]
+- Serotonin Syndrome [see Warnings and Precautions (5.4)]
+- Abnormal Bleeding [see Warnings and Precautions (5.5)]
+- Severe Skin Reactions [see Warnings and Precautions (5.6)]
+- Discontinuation of Treatment with Duloxetine Delayed-Release Capsules [see Warnings and Precautions (5.7)]
+- Activation of Mania/Hypomania [see Warnings and Precautions (5.8)]
+- Angle-Closure Glaucoma [see Warnings and Precautions (5.9)]
+- Seizures [see Warnings and Precautions (5.10)]
+- Effect on Blood Pressure [see Warnings and Precautions (5.11)]
+- Clinically Important Drug Interactions [see Warnings and Precautions (5.12)]
+- Hyponatremia [see Warnings and Precautions (5.13)]
+- Urinary Hesitation and Retention [see Warnings and Precautions (5.15)]
+
 ## 6.1 Clinical Trial Data Sources
 
-The data described below reflect exposure to duloxetine in placebo-controlled trials for MDD (N=2489), GAD (N=910), OA (N=239), CLBP (N=600), DPNP (N=906), and FM (N=876).
-The population studied was 17 to 91 years of age; 65.5%, 62.5%, 61.5%, 42.9%, and 94.9% female; and 86.5%, 81.2%, 86.2 %, 74.0%, and 88% Caucasian for MDD, GAD, OA, and CLBP, DPNP and FM, respectively.
-Most patients received doses of a total of 60 to 120 mg per day [see Clinical Studies (14)].
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 The stated frequencies of adverse reactions represent the proportion of individuals who experienced, at least once, a treatment-emergent adverse reaction of the type listed.
 A reaction was considered treatment-emergent if it occurred for the first time or worsened while receiving therapy following baseline evaluation.
 Reactions reported during the studies were not necessarily caused by the therapy, and the frequencies do not reflect investigator impression (assessment) of causality.
 
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+Adults - The data described below reflect exposure to duloxetine delayed-release capsules in placebo-controlled trials for MDD (N=3779), GAD (N=1018), OA (N=503), CLBP (N=600), DPNP (N=906), and FM (N=1294).
+The population studied was 17 to 89 years of age; 65.7%, 60.8%, 60.6%, 42.9%, and 94.4% female; and 81.8%, 72.6%, 85.3%, 74.0%, and 85.7% Caucasian for MDD, GAD, OA and CLBP, DPNP, and FM, respectively.
+Most patients received doses of a total of 60 to 120 mg per day [see Clinical Studies (14)].
 
-## 6.2 Adverse Reactions Reported as Reasons for Discontinuation of Treatment in Placebo-Controlled Trials
+Information describing two additional clinical studies in which efficacy was not demonstrated in patients ages 7 to 17 years is approved for Eli Lilly and Company, Inc.’s CYMBALTA® (duloxetine) delayed-release capsules.
+Other pediatric use information for patients ages 7 to 17 years is approved for Eli Lilly and Company, Inc.'s CYMBALTA® (duloxetine) delayed-release capsules.
+However, due to Eli Lilly and Company, Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
-Major Depressive Disorder - Approximately 9% (209/2327) of the patients who received duloxetine in placebo-controlled trials for MDD discontinued treatment due to an adverse reaction, compared with 4.7% (68/1460) of the patients receiving placebo.
-Nausea (duloxetine 1.3%, placebo 0.5%) was the only common adverse reaction reported as a reason for discontinuation and considered to be drug-related (i.e., discontinuation occurring in at least 1% of the duloxetine-treated patients and at a rate of at least twice that of placebo).
+## 6.2 Adverse Reactions Reported as Reasons for Discontinuation of Treatment in Adult Placebo-Controlled Trials
 
-Generalized Anxiety Disorder - Approximately 15.3% (102/668) of the patients who received duloxetine in placebo-controlled trials for GAD discontinued treatment due to an adverse reaction, compared with 4.0% (20/495) for placebo.
-Common adverse reactions reported as a reason for discontinuation and considered to be drug-related (as defined above) included nausea (duloxetine 3.7%, placebo 0.2%), and vomiting (duloxetine 1.3%, placebo 0.0%), and dizziness (duloxetine 1.0%, placebo 0.2%).
+Major Depressive Disorder - Approximately 8.4% (319/3779) of the patients who received duloxetine delayed-release capsules in placebo-controlled trials for MDD discontinued treatment due to an adverse reaction, compared with 4.6% (117/2536) of the patients receiving placebo.
+Nausea (duloxetine delayed-release capsules 1.1%, placebo 0.4%) was the only common adverse reaction reported as a reason for discontinuation and considered to be drug-related (i.e., discontinuation occurring in at least 1% of the duloxetine delayed-release capsule-treated patients and at a rate of at least twice that of placebo).
 
-Diabetic Peripheral Neuropathic Pain - Approximately 12.9% (117/906) of the patients who received duloxetine in placebo-controlled trials for DPNP discontinued treatment due to an adverse reaction, compared with 5.1% (23/448) for placebo.
-Common adverse reactions reported as a reason for discontinuation and considered to be drug-related (as defined above) included nausea (duloxetine 3.5%, placebo 0.7%), dizziness (duloxetine 1.2%, placebo 0.4%), and somnolence (duloxetine 1.1%, placebo 0.0%).
+Generalized Anxiety Disorder - Approximately 13.7% (139/1018) of the patients who received duloxetine delayed-release capsules in placebo-controlled trials for GAD discontinued treatment due to an adverse reaction, compared with 5.0% (38/767) for placebo.
+Common adverse reactions reported as a reason for discontinuation and considered to be drug-related (as defined above) included nausea (duloxetine delayed-release capsules 3.3%, placebo 0.4%), and dizziness (duloxetine delayed-release capsules 1.3%, placebo 0.4%).
 
-Fibromyalgia - Approximately 19.6% (172/876) of the patients who received duloxetine in 3 to 6 month placebo-controlled trials for FM discontinued treatment due to an adverse reaction, compared with 11.8% (63/535) for placebo.
-Common adverse reactions reported as a reason for discontinuation and considered to be drug-related (as defined above) included nausea (duloxetine 1.9%, placebo 0.7%), somnolence (duloxetine 1.5%, placebo 0.0%), and fatigue (duloxetine 1.3%, placebo 0.2%).
+Diabetic Peripheral Neuropathic Pain - Approximately 12.9% (117/906) of the patients who received duloxetine delayed-release capsules in placebo-controlled trials for DPNP discontinued treatment due to an adverse reaction, compared with 5.1% (23/448) for placebo.
+Common adverse reactions reported as a reason for discontinuation and considered to be drug-related (as defined above) included nausea (duloxetine delayed-release capsules 3.5%, placebo 0.7%), dizziness (duloxetine delayed-release capsules 1.2%, placebo 0.4%), and somnolence (duloxetine delayed-release capsules 1.1%, placebo 0.0%).
 
-Chronic Pain due to Osteoarthritis — Approximately 16.3% (39/239) of the patients who received duloxetine in 13-week, placebo-controlled trials for chronic pain due to OA discontinued treatment due to an adverse reaction, compared with 5.6% (14/248) for placebo.
-Common adverse reactions reported as a reason for discontinuation and considered to be drug-related (as defined above) included nausea (duloxetine 2.9%, placebo 0.8%) and asthenia (duloxetine 1.3%, placebo 0.0%).
+Fibromyalgia - Approximately 17.5% (227/1294) of the patients who received duloxetine delayed-release capsules in 3 to 6 month placebo-controlled trials for FM discontinued treatment due to an adverse reaction, compared with 10.1% (96/955) for placebo.
+Common adverse reactions reported as a reason for discontinuation and considered to be drug-related (as defined above) included nausea (duloxetine delayed-release capsules 2.0%, placebo 0.5%), headache (duloxetine delayed-release capsules 1.2%, placebo 0.3%), somnolence (duloxetine delayed-release capsules 1.1%, placebo 0.0%), and fatigue (duloxetine delayed-release capsules 1.1%, placebo 0.1%).
 
-Chronic Low Back Pain — Approximately 16.5% (99/600) of the patients who received duloxetine in 13-week, placebo-controlled trials for CLBP discontinued treatment due to an adverse reaction, compared with 6.3% (28/441) for placebo.
-Common adverse reactions reported as a reason for discontinuation and considered to be drug-related (as defined above) included nausea (duloxetine 3.0%, placebo 0.7%), and somnolence (duloxetine 1.0%, placebo 0.0%).
+Chronic Pain due to Osteoarthritis - Approximately 15.7% (79/503) of the patients who received duloxetine delayed-release capsules in 13-week, placebo-controlled trials for chronic pain due to OA discontinued treatment due to an adverse reaction, compared with 7.3% (37/508) for placebo.
+Common adverse reactions reported as a reason for discontinuation and considered to be drug-related (as defined above) included nausea (duloxetine delayed-release capsules 2.2%, placebo 1.0%).
 
-## 6.3 Most Common Adverse Reactions
+Chronic Low Back Pain - Approximately 16.5% (99/600) of the patients who received duloxetine delayed-release capsules in 13-week, placebo-controlled trials for CLBP discontinued treatment due to an adverse reaction, compared with 6.3% (28/441) for placebo.
+Common adverse reactions reported as a reason for discontinuation and considered to be drug-related (as defined above) included nausea (duloxetine delayed-release capsules 3.0%, placebo 0.7%), and somnolence (duloxetine delayed-release capsules 1.0%, placebo 0.0%).
 
-Pooled Trials for all Approved Indications - The most commonly observed adverse reactions in duloxetine delayed-release-treated patients (incidence of at least 5% and at least twice the incidence in placebo patients) were nausea, dry mouth, somnolence, constipation, decreased appetite, and hyperhidrosis.
+## 6.3 Most Common Adult Adverse Reactions
 
-Diabetic Peripheral Neuropathic Pain - The most commonly observed adverse reactions in duloxetine delayed-release-treated patients (as defined above) were nausea, somnolence, decreased appetite, constipation, hyperhidrosis, and dry mouth.
+Pooled Trials for all Approved Indications - The most commonly observed adverse reactions in duloxetine delayed-release capsule-treated patients (incidence of at least 5% and at least twice the incidence in placebo patients) were nausea, dry mouth, somnolence, constipation, decreased appetite, and hyperhidrosis.
 
-Fibromyalgia - The most commonly observed adverse reactions in duloxetine delayed-release-treated patients (as defined above) were nausea, dry mouth, constipation, somnolence, decreased appetite, hyperhidrosis, and agitation.
+Diabetic Peripheral Neuropathic Pain - The most commonly observed adverse reactions in duloxetine delayed-release capsule-treated patients (as defined above) were nausea, somnolence, decreased appetite, constipation, hyperhidrosis, and dry mouth.
 
-Chronic Pain due to Osteoarthritis - The most commonly observed adverse reactions in duloxetine delayed-release-treated patients (as defined above) were nausea, fatigue, and constipation.
+Fibromyalgia - The most commonly observed adverse reactions in duloxetine delayed-release capsule-treated patients (as defined above) were nausea, dry mouth, constipation, somnolence, decreased appetite, hyperhidrosis, and agitation.
 
-Chronic Low Back Pain - The most commonly observed adverse reactions in duloxetine delayed-release-treated patients (as defined above) were nausea, dry mouth, insomnia, somnolence, constipation, dizziness, and fatigue.
+Chronic Pain due to Osteoarthritis - The most commonly observed adverse reactions in duloxetine delayed-release capsule-treated patients (as defined above) were nausea, fatigue, constipation, dry mouth, insomnia, somnolence, and dizziness.
 
-## 6.4 Adverse Reactions Occurring at an Incidence of 5% or More Among Duloxetine-Treated Patients in Placebo-Controlled Trials
+Chronic Low Back Pain - The most commonly observed adverse reactions in duloxetine delayed-release capsule-treated patients (as defined above) were nausea, dry mouth, insomnia, somnolence, constipation, dizziness, and fatigue.
 
-Table 2 gives the incidence of treatment-emergent adverse reactions in placebo-controlled trials for approved indications that occurred in 5% or more of patients treated with duloxetine and with an incidence greater than placebo.
+## 6.4 Adverse Reactions Occurring at an Incidence of 5% or More Among Duloxetine Delayed-Release Capsule-Treated Patients in Adult Placebo-Controlled Trials
 
-Table 2: Treatment-Emergent Adverse Reactions: Incidence of 5% or More in Placebo-Controlled Trials of Approved Indicationsa
+Table 2 gives the incidence of treatment-emergent adverse reactions in placebo-controlled trials for approved indications that occurred in 5% or more of patients treated with duloxetine delayed-release capsules and with an incidence greater than placebo.
+
+Table 2: Treatment-Emergent Adverse Reactions: Incidence of 5% or More and Greater than Placebo in Placebo-Controlled Trials of Approved Indicationsa
 
 |  | Percentage of Patients Reporting Reaction |  |
 | --- | --- | --- |
-| Adverse Reaction | Duloxetine Delayed-Release | Placebo |
-|  | (N=6020) | (N=3962) |
-| Nausea | 24 | 8 |
-| Headache | 14 | 13 |
+| Adverse Reaction | Duloxetine Delayed-Release Capsules | Placebo |
+|  | (N=8100) | (N=5655) |
+| Nauseac | 23 | 8 |
+| Headache | 14 | 12 |
 | Dry mouth | 13 | 5 |
-| Fatigueb | 10 | 5 |
-| Somnolencec,e | 10 | 3 |
-| Insomniac,d | 10 | 6 |
-| Dizziness | 10 | 5 |
-| Constipationc | 10 | 4 |
-| Diarrhea | 9 |  |
-| Decreased appetitec,f | 8 | 2 |
-| Hyperhidrosis | 7 | 2 |
+| Somnolencee | 10 | 3 |
+| Fatigueb,c | 9 | 5 |
+| Insomniad | 9 | 5 |
+| Constipationc | 9 | 4 |
+| Dizzinessc | 9 | 5 |
+| Diarrhea | 9 | 6 |
+| Decreased appetitec | 7 | 2 |
+| Hyperhidrosisc | 6 | 1 |
+| Abdominal painf | 5 | 4 |
 | a The inclusion of an event in the table is determined based on the percentages before rounding; however, the percentages displayed in the table are rounded to the nearest integer. |  |  |
 | b Also includes asthenia. |  |  |
 | c Events for which there was a significant dose-dependent relationship in fixed-dose studies, excluding three MDD studies which did not have a placebo lead-in period or dose titration. |  |  |
-| d Also includes middle insomnia, early morning awakening, and initial insomnia. |  |  |
+| d Also includes initial insomnia, middle insomnia, and early morning awakening. |  |  |
 | e Also includes hypersomnia and sedation. |  |  |
-| f Also includes anorexia. |  |  |
+| f Also includes abdominal discomfort, abdominal pain lower, abdominal pain upper, abdominal tenderness, and gastrointestinal pain. |  |  |
 
-## 6.5 Adverse Reactions Occurring at an Incidence of 2% or More Among Duloxetine-Treated Patients in Placebo-Controlled Trials
+## 6.5 Adverse Reactions Occurring at an Incidence of 2% or More Among Duloxetine Delayed-Release Capsule-Treated Patients in Adult Placebo-Controlled Trials
 
-Pooled MDD and GAD Trials - Table 3 gives the incidence of treatment-emergent adverse reactions in MDD and GAD placebo-controlled trials for approved indications that occurred in 2% or more of patients treated with duloxetine and with an incidence greater than placebo.
+Pooled MDD and GAD Trials - Table 3 gives the incidence of treatment-emergent adverse reactions in MDD and GAD placebo-controlled trials for approved indications that occurred in 2% or more of patients treated with duloxetine delayed-release capsules and with an incidence greater than placebo.
 
-Table 3: Treatment-Emergent Adverse Reactions: Incidence of 2% or More in MDD and GAD Placebo-Controlled Trialsa
+Table 3: Treatment-Emergent Adverse Reactions: Incidence of 2% or More and Greater than Placebo in MDD and GAD Placebo-Controlled Trialsa
 
 |  | Percentage of Patients Reporting Reaction |  |
 | --- | --- | --- |
-| System Organ Class / Adverse Reaction | Duloxetine Delayed-Release | Placebo |
-|  | (N=2995) | (N=1955) |
+| System Organ Class / Adverse Reaction | Duloxetine Delayed-Release Capsules | Placebo |
+|  | (N=4797) | (N=3303) |
 | Cardiac Disorders |  |  |
-| Palpitations | 2 | 2 |
+| Palpitations | 2 | 1 |
 | Eye Disorders |  |  |
-| Vision blurred | 3 | 2 |
+| Vision blurred | 3 | 1 |
 | Gastrointestinal Disorders |  |  |
-| Nausea | 25 | 9 |
-| Dry mouth | 15 | 6 |
-| Diarrhea | 10 | 7 |
-| Constipationb | 10 | 4 |
-| Abdominal painc | 4 | 4 |
-| Vomiting | 5 | 2 |
+| Nauseac | 23 | 8 |
+| Dry mouth | 14 | 6 |
+| Constipationc | 9 | 4 |
+| Diarrhea | 9 | 6 |
+| Abdominal paind | 5 | 4 |
+| Vomiting | 4 | 2 |
 | General Disorders and Administration Site Conditions |  |  |
-| Fatigued | 10 | 6 |
-| Investigations |  |  |
-| Weight decreasedb | 2 | <1 |
+| Fatiguee | 9 | 5 |
 | Metabolism and Nutrition Disorders |  |  |
-| Decreased appetitee | 7 | 2 |
+| Decreased appetitec | 6 | 2 |
 | Nervous System Disorders |  |  |
-| Dizziness | 10 | 6 |
-| Somnolencef | 10 | 4 |
-| Tremor | 3 | <1 |
+| Headache | 14 | 14 |
+| Dizzinessc | 9 | 5 |
+| Somnolencef | 9 | 3 |
+| Tremor | 3 | 1 |
 | Psychiatric Disorders |  |  |
-| Insomniag | 10 | 6 |
-| Agitationh | 5 | 3 |
+| Insomniag | 9 | 5 |
+| Agitationh | 4 | 2 |
 | Anxiety | 3 | 2 |
-| Libido decreasedi | 4 | 1 |
-| Orgasm abnormalb,j | 3 | <1 |
-| Abnormal dreamsk | 2 | 1 |
 | Reproductive System and Breast Disorders |  |  |
-| Erectile dysfunctionl | 4 | 1 |
-| Ejaculation delayedb,l | 3 | <1 |
-| Ejaculation disorderl,m | 2 | <1 |
+| Erectile dysfunction | 4 | 1 |
+| Ejaculation delayedc | 2 | 1 |
+| Libido decreasedi | 3 | 1 |
+| Orgasm abnormalj | 2 | <1 |
 | Respiratory, Thoracic, and Mediastinal Disorders |  |  |
 | Yawning | 2 | <1 |
 | Skin and Subcutaneous Tissue Disorders |  |  |
 | Hyperhidrosis | 6 | 2 |
-| Vascular Disorders |  |  |
-| Hot flush | 2 | <1 |
 | a The inclusion of an event in the table is determined based on the percentages before rounding; however, the percentages displayed in the table are rounded to the nearest integer. |  |  |
-| b Events for which there was a significant dose-dependent relationship in fixed-dose studies, excluding three MDD studies which did not have a placebo lead-in period or dose titration. |  |  |
-| c Also includes abdominal pain upper, abdominal pain lower, abdominal tenderness, abdominal discomfort, and gastrointestinal pain |  |  |
-| d Also includes asthenia |  |  |
-| e Also includes anorexia |  |  |
+| c Events for which there was a significant dose-dependent relationship in fixed-dose studies, excluding three MDD studies which did not have a placebo lead-in period or dose titration. |  |  |
+| d Also includes abdominal pain upper, abdominal pain lower, abdominal tenderness, abdominal discomfort, and gastrointestinal pain |  |  |
+| e Also includes asthenia |  |  |
 | f Also includes hypersomnia and sedation |  |  |
-| g Also includes middle insomnia, early morning awakening and initial insomnia |  |  |
-| h Also includes feeling jittery, nervousness, restlessness, tension and psychomotor agitation |  |  |
+| g Also includes initial insomnia, middle insomnia, and early morning awakening |  |  |
+| hAlso includes feeling jittery, nervousness, restlessness, tension and psychomotor hyperactivity |  |  |
 | i Also includes loss of libido |  |  |
 | j Also includes anorgasmia |  |  |
-| k Also includes nightmare |  |  |
-| l Male patients only |  |  |
-| m Also includes ejaculation failure and ejaculation dysfunction |  |  |
 
-DPNP, FM, OA, and CLBP - Table 4 gives the incidence of treatment-emergent adverse events that occurred in 2% or more of patients treated with duloxetine delayed-release (determined prior to rounding) in the premarketing acute phase of DPNP, FM, OA, and CLBP placebo-controlled trials and with an incidence greater than placebo.
+DPNP, FM, OA, and CLBP - Table 4 gives the incidence of treatment-emergent adverse events that occurred in 2% or more of patients treated with duloxetine delayed-release capsules (determined prior to rounding) in the premarketing acute phase of DPNP, FM, OA, and CLBP placebo-controlled trials and with an incidence greater than placebo.
 
-Table 4: Treatment-Emergent Adverse Reactions: Incidence of 2% or More in DPNP, FM, OA, and CLBP Placebo-Controlled Trialsa
+Table 4: Treatment-Emergent Adverse Reactions: Incidence of 2% or More and Greater than Placebo in DPNP, FM, OA, and CLBP Placebo-Controlled Trialsa
 
 |  | Percentage of Patients Reporting Reaction |  |
 | --- | --- | --- |
-| System Organ Class / Adverse Reaction | Duloxetine Delayed-Release | Placebo |
-|  | (N=2621) | (N=1672) |
+| System Organ Class / Adverse Reaction | Duloxetine Delayed-Release Capsules | Placebo |
+|  | (N=3303) | (N=2352) |
 | Gastrointestinal Disorders |  |  |
 | Nausea | 23 | 7 |
 | Dry Mouthb | 11 | 3 |
 | Constipationb | 10 | 3 |
-| Diarrhea | 9 | 6 |
-| Abdominal Painc | 6 | 5 |
+| Diarrhea | 9 | 5 |
+| Abdominal Painc | 5 | 4 |
 | Vomiting | 3 | 2 |
-| Dyspepsiad | 2 | 1 |
-| General Disorders and Administration Site Conditions |  |  |
-| Fatiguee | 11 | 5 |
+| Dyspepsia | 2 | 1 |
+| General Disorders and Administration Site |  |  |
+| Conditions |  |  |
+| Fatigued | 11 | 5 |
 | Infections and Infestations |  |  |
-| Nasopharyngitis | 5 | 4 |
-| Upper Respiratory Tract Infection | 4 | 4 |
-| Influenza | 3 | 2 |
+| Nasopharyngitis | 4 | 4 |
+| Upper Respiratory Tract Infection | 3 | 3 |
+| Influenza | 2 | 2 |
 | Metabolism and Nutrition Disorders |  |  |
-| Decreased Appetiteb,f | 9 | 1 |
+| Decreased Appetiteb | 8 | 1 |
 | Musculoskeletal and Connective Tissue |  |  |
-| Musculoskeletal Painb,g | 4 | 4 |
-| Muscle Spasms | 3 | 2 |
+| Musculoskeletal Paine | 3 | 3 |
+| Muscle Spasms | 2 | 2 |
 | Nervous System Disorders |  |  |
-| Headache | 13 | 9 |
-| Somnolenceb,h | 12 | 3 |
-| Dizziness | 10 | 5 |
-| Paraesthesiai | 2 | 2 |
+| Headache | 13 | 8 |
+| Somnolenceb,f | 11 | 3 |
+| Dizziness | 9 | 5 |
+| Paraesthesiag | 2 | 2 |
 | Tremorb | 2 | <1 |
 | Psychiatric Disorders |  |  |
-| Insomniab,j | 10 | 6 |
-| Agitationk | 3 | <1 |
+| Insomniab,h | 10 | 5 |
+| Agitationi | 3 | 1 |
 | Reproductive System and Breast Disorders |  |  |
-| Erectile Dysfunctionb,l | 4 | <1 |
-| Ejaculation Disorderm | 2 | <1 |
+| Erectile Dysfunctionb | 4 | <1 |
+| Ejaculation Disorderj | 2 | <1 |
 | Respiratory, Thoracic, and Mediastinal Disorders |  |  |
-| Cough | 3 | 2 |
-| Oropharyngeal Painb | 2 | 2 |
+| Cough | 2 | 2 |
 | Skin and Subcutaneous Tissue Disorders |  |  |
 | Hyperhidrosis | 6 | 1 |
 | Vascular Disorders |  |  |
-| Flushingn | 3 | 1 |
+| Flushingk | 3 | 1 |
+| Blood pressure increasedl | 2 | 1 |
 | a The inclusion of an event in the table is determined based on the percentages before rounding; however, the percentages displayed in the table are rounded to the nearest integer. |  |  |
 | b Incidence of 120 mg/day is significantly greater than the incidence for 60 mg/day. |  |  |
 | c Also includes abdominal discomfort, abdominal pain lower, abdominal pain upper, abdominal tenderness and gastrointestinal pain |  |  |
-| d Also includes stomach discomfort |  |  |
-| e Also includes asthenia |  |  |
-| f Also includes anorexia |  |  |
-| g Also includes myalgia and neck pain |  |  |
-| h Also includes hypersomnia and sedation |  |  |
-| i Also includes hypoaesthesia, hypoaesthesia facial and paraesthesia oral |  |  |
-| j Also includes middle insomnia, early morning awakening and initial insomnia |  |  |
-| k Also includes feeling jittery, nervousness, restlessness, tension and psychomotor hyperactivity |  |  |
-| l Male patients only (N=885 for duloxetine, 494 for placebo) |  |  |
-| m Male patients only (N=885 for duloxetine, 494 for placebo). Also includes ejaculation failure |  |  |
-| n Also includes hot flush |  |  |
+| d Also includes asthenia |  |  |
+| e Also includes myalgia and neck pain |  |  |
+| f Also includes hypersomnia and sedation |  |  |
+| g Also includes hypoaesthesia, hypoaesthesia facial, genital hypoaesthesia and paraesthesia oral |  |  |
+| h Also includes initial insomnia, middle insomnia, and early morning awakening. |  |  |
+| i Also includes feeling jittery, nervousness, restlessness, tension and psychomotor hyperactivity |  |  |
+| j Also includes ejaculation failure |  |  |
+| k Also includes hot flush |  |  |
+| l Also includes blood pressure diastolic increased, blood pressure systolic increased, diastolic hypertension, essential hypertension, hypertension, hypertensive crisis, labile hypertension, orthostatic hypertension, secondary hypertension, and systolic hypertension |  |  |
 
-## 6.6 Effects on Male and Female Sexual Function
+## 6.6 Effects on Male and Female Sexual Function in Adults
 
 Changes in sexual desire, sexual performance and sexual satisfaction often occur as manifestations of psychiatric disorders or diabetes, but they may also be a consequence of pharmacologic treatment.
 Because adverse sexual reactions are presumed to be voluntarily underreported, the Arizona Sexual Experience Scale (ASEX), a validated measure designed to identify sexual side effects, was used prospectively in 4 MDD placebo-controlled trials.
-In these trials, as shown in Table 5 below, patients treated with duloxetine delayed-release experienced significantly more sexual dysfunction, as measured by the total score on the ASEX, than did patients treated with placebo.
+In these trials, as shown in Table 5 below, patients treated with duloxetine delayed-release capsules experienced significantly more sexual dysfunction, as measured by the total score on the ASEX, than did patients treated with placebo.
 Gender analysis showed that this difference occurred only in males.
-Males treated with duloxetine delayed-release experienced more difficulty with ability to reach orgasm (ASEX Item 4) than males treated with placebo.
-Females did not experience more sexual dysfunction on duloxetine delayed-release than on placebo as measured by ASEX total score.
+Males treated with duloxetine delayed-release capsules experienced more difficulty with ability to reach orgasm (ASEX Item 4) than males treated with placebo.
+Females did not experience more sexual dysfunction on duloxetine delayed-release capsules than on placebo as measured by ASEX total score.
 Negative numbers signify an improvement from a baseline level of dysfunction, which is commonly seen in depressed patients.
 Physicians should routinely inquire about possible sexual side effects.
 
@@ -210,49 +222,42 @@ Table 5: Mean Change in ASEX Scores by Gender in MDD Placebo-Controlled Trials
 
 |  | Male Patientsa |  | Female Patientsa |  |
 | --- | --- | --- | --- | --- |
-|  | Duloxetine |  | Duloxetine |  |
-|  | Delayed-Release | Placebo | Delayed-Release | Placebo |
+|  | Duloxetine Delayed-Release Capsules | Placebo | Duloxetine Delayed-Release Capsules | Placebo |
 |  | (n=175) | (n=83) | (n=241) | (n=126) |
 | ASEX Total (Items 1 to 5) | 0.56b | -1.07 | -1.15 | -1.07 |
 | Item 1 - Sex drive | -0.07 | -0.12 | -0.32 | -0.24 |
 | Item 2 - Arousal | 0.01 | -0.26 | -0.21 | -0.18 |
-| Item 3 - Ability to achieve erection (men); | 0.03 | -0.25 | -0.17 | -0.18 |
-| Lubrication (women) |  |  |  |  |
+| Item 3 - Ability to achieve erection | 0.03 | -0.25 | -0.17 | -0.18 |
+| (men); Lubrication (women) |  |  |  |  |
 | Item 4 - Ease of reaching orgasm | 0.40c | -0.24 | -0.09 | -0.13 |
 | Item 5 - Orgasm satisfaction | 0.09 | -0.13 | -0.11 | -0.17 |
 | a n=Number of patients with non-missing change score for ASEX total |  |  |  |  |
 | b p=0.013 versus placebo |  |  |  |  |
 | c p<0.001 versus placebo |  |  |  |  |
 
-## 6.7 Vital Sign Changes
+## 6.7 Vital Sign Changes in Adults
 
-In placebo-controlled clinical trials across approved indications for change from baseline to endpoint, duloxetine treatment was associated with mean increases of 0.07 mm Hg in systolic blood pressure and 0.62 mm Hg in diastolic blood pressure compared to mean decreases of 1.31 mm Hg systolic and 0.73 mm Hg diastolic in placebo-treated patients.
-There was no significant difference in the frequency of sustained (3 consecutive visits) elevated blood pressure [see Warnings and Precautions (5.3 and 5.11)].
+In placebo-controlled clinical trials across approved indications for change from baseline to endpoint, duloxetine delayed-release capsules treatment was associated with mean increases of 0.23 mm Hg in systolic blood pressure and 0.73 mm Hg in diastolic blood pressure compared to mean decreases of 1.09 mm Hg systolic and 0.55 mm Hg diastolic in placebo-treated patients.
+There was no significant difference in the frequency of sustained (3 consecutive visits) elevated blood pressure [see Warnings and Precautions (5.3, 5.11)].
 
-Duloxetine treatment, for up to 26 weeks in placebo-controlled trials across approved indications, typically caused a small increase in heart rate for change from baseline to endpoint compared to placebo of up to 1.40 beats per minute.
+Duloxetine delayed-release capsules treatment, for up to 26 weeks in placebo-controlled trials across approved indications, typically caused a small increase in heart rate for change from baseline to endpoint compared to placebo of up to 1.37 beats per minute (increase of 1.20 beats per minute in duloxetine delayed-release capsule-treated patients, decrease of 0.17 beats per minute in placebo-treated patients).
 
-## 6.8 Weight Changes
+## 6.8 Laboratory Changes in Adults
 
-In placebo-controlled clinical trials, MDD and GAD patients treated with duloxetine delayed-release for up to 10 weeks experienced a mean weight loss of approximately 0.5 kg, compared with a mean weight gain of approximately 0.2 kg in placebo-treated patients.
-In studies of DPNP, FM, OA, and CLBP, patients treated with duloxetine delayed-release for up to 26 weeks experienced a mean weight loss of approximately 0.6 kg compared with a mean weight gain of approximately 0.2 kg in placebo-treated patients.
-In one long-term fibromyalgia 60-week uncontrolled study, duloxetine patients had a mean weight increase of 0.7 kg.
-In one long-term CLBP 54-week study (13-week, placebo-controlled acute phase and 41-week, uncontrolled extension phase), duloxetine patients had a mean weight decrease of 0.6 kg in 13 weeks of acute phase compared to study entry, then a mean weight increase of 1.4 kg in 41 weeks of extension phase compared to end of acute phase.
+Duloxetine delayed-release capsules treatment in placebo-controlled clinical trials across approved indications, was associated with small mean increases from baseline to endpoint in ALT, AST, CPK, and alkaline phosphatase; infrequent, modest, transient, abnormal values were observed for these analytes in duloxetine delayed-release capsule-treated patients when compared with placebo-treated patients [see Warnings and Precautions (5.2)].
+High bicarbonate, cholesterol, and abnormal (high or low) potassium, were observed more frequently in duloxetine delayed-release capsule-treated patients compared to placebo.
 
-## 6.9 Laboratory Changes
+## 6.9 Electrocardiogram Changes in Adults
 
-Duloxetine delayed-release treatment in placebo-controlled clinical trials across approved indications, was associated with small mean increases from baseline to endpoint in ALT, AST, CPK, and alkaline phosphatase; infrequent, modest, transient, abnormal values were observed for these analytes in duloxetine delayed-release-treated patients when compared with placebo-treated patients [see Warnings and Precautions (5.2)].
-
-## 6.10 Electrocardiogram Changes
-
-The effect of duloxetine 160 mg and 200 mg administered twice daily to steady state was evaluated in a randomized, double-blinded, two-way crossover study in 117 healthy female subjects.
+The effect of duloxetine delayed-release capsules 160 mg and 200 mg administered twice daily to steady state was evaluated in a randomized, double-blinded, two-way crossover study in 117 healthy female subjects.
 No QT interval prolongation was detected.
-Duloxetine appears to be associated with concentration-dependent but not clinically meaningful QT shortening.
+Duloxetine delayed-release capsules appear to be associated with concentration-dependent but not clinically meaningful QT shortening.
 
-## 6.11 Other Adverse Reactions Observed During the Premarketing and Postmarketing Clinical Trial Evaluation of Duloxetine
+## 6.10 Other Adverse Reactions Observed During the Premarketing and Postmarketing Clinical Trial Evaluation of Duloxetine Delayed-Release Capsules in Adults
 
-Following is a list of treatment-emergent adverse reactions reported by patients treated with duloxetine in clinical trials.
-In clinical trials of all indications, 29,435 patients were treated with duloxetine.
-Of these, 30.4% (8953) took duloxetine for at least 6 months, and 14.7% (4317) for at least one year.
+Following is a list of treatment-emergent adverse reactions reported by patients treated with duloxetine delayed-release capsules in clinical trials.
+In clinical trials of all indications, 34,756 patients were treated with duloxetine delayed-release capsules.
+Of these, 26.9% (9337) took duloxetine delayed-release capsules for at least 6 months, and 12.4% (4317) for at least one year.
 The following listing is not intended to include reactions (1) already listed in previous tables or elsewhere in labeling, (2) for which a drug cause was remote, (3) which were so general as to be uninformative, (4) which were not considered to have significant clinical implications, or (5) which occurred at a rate equal to or less than placebo.
 
 Reactions are categorized by body system according to the following definitions: frequent adverse reactions are those occurring in at least 1/100 patients; infrequent adverse reactions are those occurring in 1/100 to 1/1000 patients; rare reactions are those occurring in fewer than 1/1000 patients.
@@ -263,37 +268,96 @@ Ear and Labyrinth Disorders - Frequent: vertigo; Infrequent: ear pain and tinnit
 
 Endocrine Disorders - Infrequent: hypothyroidism.
 
-Eye Disorders - Frequent: vision blurred; Infrequent: diplopia, and visual disturbance.
+Eye Disorders - Frequent: vision blurred; Infrequent: diplopia, dry eye, and visual impairment.
 
-Gastrointestinal Disorders - Frequent: flatulence; Infrequent: eructation, gastritis, halitosis, and stomatitis; Rare: gastric ulcer, hematochezia, and melena.
+Gastrointestinal Disorders - Frequent: flatulence; Infrequent: dysphagia, eructation, gastritis, gastrointestinal hemorrhage, halitosis, and stomatitis; Rare: gastric ulcer.
 
-General Disorders and Administration Site Conditions - Frequent: chills/rigors; Infrequent: feeling abnormal, feeling hot and/or cold, malaise, and thirst; Rare: gait disturbance.
+General Disorders and Administration Site Conditions - Frequent: chills/rigors; Infrequent: falls, feeling abnormal, feeling hot and/or cold, malaise, and thirst; Rare: gait disturbance.
 
 Infections and Infestations - Infrequent: gastroenteritis and laryngitis.
 
-Investigations - Frequent: weight increased; Infrequent: blood cholesterol increased.
+Investigations - Frequent: weight increased, weight decreased; Infrequent: blood cholesterol increased.
 
 Metabolism and Nutrition Disorders - Infrequent: dehydration and hyperlipidemia; Rare: dyslipidemia.
 
 Musculoskeletal and Connective Tissue Disorders - Frequent: musculoskeletal pain; Infrequent: muscle tightness and muscle twitching.
 
-Nervous System Disorders - Frequent: dysgeusia, lethargy, and parasthesia/hypoesthesia; Infrequent: disturbance in attention, dyskinesia, myoclonus, and poor quality sleep; Rare: dysarthria.
+Nervous System Disorders - Frequent: dysgeusia, lethargy, and paraesthesia/hypoesthesia; Infrequent:
+
+disturbance in attention, dyskinesia, myoclonus, and poor quality sleep; Rare: dysarthria.
 
 Psychiatric Disorders - Frequent: abnormal dreams and sleep disorder; Infrequent: apathy, bruxism, disorientation/confusional state, irritability, mood swings, and suicide attempt; Rare: completed suicide.
 
-Renal and Urinary Disorders - Infrequent: dysuria, micturition urgency, nocturia, polyuria, and urine odor abnormal.
+Renal and Urinary Disorders - Frequent: urinary frequency; Infrequent: dysuria, micturition urgency, nocturia, polyuria, and urine odor abnormal.
 
-Reproductive System and Breast Disorders - Frequent: anorgasmia/orgasm abnormal; Infrequent: menopausal symptoms, and sexual dysfunction.
+Reproductive System and Breast Disorders - Frequent: anorgasmia/orgasm abnormal; Infrequent: menopausal symptoms, sexual dysfunction, and testicular pain; Rare: menstrual disorder.
 
-Respiratory, Thoracic and Mediastinal Disorders - Frequent: yawning; Infrequent: throat tightness.
+Respiratory, Thoracic and Mediastinal Disorders - Frequent: yawning, oropharyngeal pain; Infrequent: throat tightness.
 
-Skin and Subcutaneous Tissue Disorders - Infrequent: cold sweat, dermatitis contact, erythema, increased tendency to bruise, night sweats, and photosensitivity reaction; Rare: ecchymosis.
+Skin and Subcutaneous Tissue Disorders - Frequent: pruritus; Infrequent: cold sweat, dermatitis contact, erythema, increased tendency to bruise, night sweats, and photosensitivity reaction; Rare: ecchymosis.
 
 Vascular Disorders - Frequent: hot flush; Infrequent: flushing, orthostatic hypotension, and peripheral coldness.
 
+## 6.11 Adverse Reactions Observed in Children and Adolescent Placebo-Controlled Clinical Trials
+
+The adverse drug reaction profile observed in pediatric clinical trials (children and adolescents) was consistent with the adverse drug reaction profile observed in adult clinical trials.
+The specific adverse drug reactions observed in adult patients can be expected to be observed in pediatric patients (children and adolescents) [see Adverse Reactions (6.5)].
+
+The most common (greater than or equal to 5% and twice placebo) adverse reactions observed in pediatric clinical trials include: nausea, diarrhea, decreased weight, and dizziness.
+
+Table 6 provides the incidence of treatment-emergent adverse reactions in pediatric placebo-controlled trials that occurred in greater than 2% of patients treated with duloxetine delayed-release capsules and with an incidence greater than placebo.
+
+Table 6: Treatment-Emergent Adverse Reactions: Incidence of 2% or More and Greater than Placebo in three 10-week Pediatric Placebo-Controlled Trialsa
+
+|  | Percentage of Pediatric Patients Reporting Reaction |  |
+| --- | --- | --- |
+| System Organ Class/Adverse Reaction | Duloxetine Delayed-Release Capsules | Placebo |
+|  | (N=476) | (N=362) |
+| Gastrointestinal Disorders |  |  |
+| Nausea | 18 | 8 |
+| Abdominal Painb | 13 | 10 |
+| Vomiting | 9 | 4 |
+| Diarrhea | 6 | 3 |
+| Dry Mouth | 2 | 1 |
+| General Disorders and Administration Site Conditions |  |  |
+| Fatiguec | 7 | 5 |
+| Investigations |  |  |
+| Decreased Weightd | 14 | 6 |
+| Metabolism and Nutrition Disorders |  |  |
+| Decreased Appetite | 10 | 5 |
+| Nervous System Disorders |  |  |
+| Headache | 18 | 13 |
+| Somnolencee | 11 | 6 |
+| Dizziness | 8 | 4 |
+| Psychiatric Disorders |  |  |
+| Insomniaf | 7 | 4 |
+| Respiratory, Thoracic, and Mediastinal Disorders |  |  |
+| Oropharyngeal Pain | 4 | 2 |
+| Cough | 3 | 1 |
+| a The inclusion of an event in the table is determined based on the percentages before rounding; however, the percentages displayed in the table are rounded to the nearest integer. |  |  |
+| b Also includes abdominal pain upper, abdominal pain lower, abdominal tenderness, abdominal discomfort, and gastrointestinal pain. |  |  |
+| c Also includes asthenia. |  |  |
+| d Frequency based on weight measurement meeting potentially clinically significant threshold of greater than or equal to 3.5% weight loss (N=467 duloxetine delayed-release capsules; N=354 Placebo). |  |  |
+| e Also includes hypersomnia and sedation. |  |  |
+| f Also includes initial insomnia, insomnia, middle insomnia, and terminal insomnia. |  |  |
+
+Other adverse reactions that occurred at an incidence of less than 2% but were reported by more duloxetine delayed-release capsule-treated patients than placebo treated patients and are associated duloxetine delayed-release capsules treatment: abnormal dreams (including nightmare), anxiety, flushing (including hot flush), hyperhidrosis, palpitations, pulse increased, and tremor.
+
+Discontinuation-emergent symptoms have been reported when stopping duloxetine delayed-release capsules.
+The most commonly reported symptoms following discontinuation of duloxetine delayed-release capsules in pediatric clinical trials have included headache, dizziness, insomnia, and abdominal pain [see Warnings and Precautions (5.7) and Adverse Reactions (6.2)].
+
+Growth (Height and Weight) - Decreased appetite and weight loss have been observed in association with the use of SSRIs and SNRIs.
+In studies up to 9 months, duloxetine delayed-release capsule-treated pediatric patients experienced an increase in height of 1.7 cm on average (2.2 cm increase in children [7 to 11 years of age] and 1.3 cm increase in adolescents [12 to 17 years of age]).
+While height increase was observed during these studies, a mean decrease of 1% in height percentile was observed (decrease of 2% in children [7 to 11 years of age] and increase of 0.3% in adolescents [12 to 17 years of age]).
+Weight and height should be monitored regularly in children and adolescents treated with duloxetine delayed-release capsules.
+
+Information describing two additional clinical studies in which efficacy was not demonstrated in patients ages 7 to 17 years is approved for Eli Lilly and Company, Inc.’s CYMBALTA® (duloxetine) delayed-release capsules.
+Other pediatric use information for patients ages 7 to 17 years is approved for Eli Lilly and Company, Inc.'s CYMBALTA® (duloxetine) delayed-release capsules.
+However, due to Eli Lilly and Company, Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+
 ## 6.12 Postmarketing Spontaneous Reports
 
-The following adverse reactions have been identified during postapproval use of duloxetine delayed-release.
+The following adverse reactions have been identified during post approval use of duloxetine delayed-release capsules.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Adverse reactions reported since market introduction that were temporally related to duloxetine therapy and not mentioned elsewhere in labeling include: anaphylactic reaction, aggression and anger (particularly early in treatment or after treatment discontinuation), angioneurotic edema, angle-closure glaucoma, extrapyramidal disorder, galactorrhea, gynecological bleeding, hallucinations, hyperglycemia, hyperprolactinemia, hypersensitivity, hypertensive crisis, muscle spasm, rash, restless legs syndrome, seizures upon treatment discontinuation, supraventricular arrhythmia, tinnitus (upon treatment discontinuation), trismus, and urticaria.
+Adverse reactions reported since market introduction that were temporally related to duloxetine delayed-release capsules therapy and not mentioned elsewhere in labeling include: acute pancreatitis, anaphylactic reaction, aggression and anger (particularly early in treatment or after treatment discontinuation), angioneurotic edema, angle-closure glaucoma, colitis (microscopic or unspecified), cutaneous vasculitis (sometimes associated with systemic involvement), extrapyramidal disorder, galactorrhea, gynecological bleeding, hallucinations, hyperglycemia, hyperprolactinemia, hypersensitivity, hypertensive crisis, muscle spasm, rash, restless legs syndrome, seizures upon treatment discontinuation, supraventricular arrhythmia, tinnitus (upon treatment discontinuation), trismus, and urticaria.

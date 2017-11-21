@@ -4,9 +4,9 @@
 
 In animal studies, duloxetine did not demonstrate barbiturate-like (depressant) abuse potential.
 
-While duloxetine delayed-release has not been systematically studied in humans for its potential for abuse, there was no indication of drug-seeking behavior in the clinical trials.
+While duloxetine delayed-release capsules have not been systematically studied in humans for their potential for abuse, there was no indication of drug-seeking behavior in the clinical trials.
 However, it is not possible to predict on the basis of premarketing experience the extent to which a CNS active drug will be misused, diverted, and/or abused once marketed.
-Consequently, physicians should carefully evaluate patients for a history of drug abuse and follow such patients closely, observing them for signs of misuse or abuse of duloxetine delayed-release (e.g., development of tolerance, incrementation of dose, drug-seeking behavior).
+Consequently, physicians should carefully evaluate patients for a history of drug abuse and follow such patients closely, observing them for signs of misuse or abuse of duloxetine delayed-release capsules (e.g., development of tolerance, incrementation of dose, drug-seeking behavior).
 
 ## 9.3 Dependence
 

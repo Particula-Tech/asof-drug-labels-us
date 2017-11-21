@@ -1,6 +1,6 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Suicidal Thoughts and Behaviors in Adolescents and Young Adults
+## 5.1 Suicidal Thoughts and Behaviors in Children, Adolescents, and Young Adults
 
 Patients with major depressive disorder (MDD), both adult and pediatric, may experience worsening of their depression and/or the emergence of suicidal ideation and behavior (suicidality) or unusual changes in behavior, whether or not they are taking antidepressant medications, and this risk may persist until significant remission occurs.
 Suicide is a known risk of depression and certain other psychiatric disorders, and these disorders themselves are the strongest predictors of suicide.
@@ -40,177 +40,186 @@ Although a causal link between the emergence of such symptoms and either the wor
 
 Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients whose depression is persistently worse, or who are experiencing emergent suicidality or symptoms that might be precursors to worsening depression or suicidality, especially if these symptoms are severe, abrupt in onset, or were not part of the patient’s presenting symptoms.
 
-If the decision has been made to discontinue treatment, medication should be tapered, as rapidly as is feasible, but with recognition that discontinuation can be associated with certain symptoms [see Dosage and Administration (2.4) and Warnings and Precautions (5.7) for descriptions of the risks of discontinuation of Duloxetine Delayed-Release].
+If the decision has been made to discontinue treatment, medication should be tapered, as rapidly as is feasible, but with recognition that discontinuation can be associated with certain symptoms [see Dosage and Administration (2.7) and Warnings and Precautions (5.7) for descriptions of the risks of discontinuation of duloxetine delayed-release capsules].
 
 Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to health care providers.
 Such monitoring should include daily observation by families and caregivers.
-Prescriptions for duloxetine delayed-release should be written for the smallest quantity of capsules consistent with good patient management, in order to reduce the risk of overdose.
+Prescriptions for duloxetine delayed-release capsulesshould be written for the smallest quantity of capsules consistent with good patient management, in order to reduce the risk of overdose.
 
 Screening Patients for Bipolar Disorder - A major depressive episode may be the initial presentation of bipolar disorder.
 It is generally believed (though not established in controlled trials) that treating such an episode with an antidepressant alone may increase the likelihood of precipitation of a mixed/manic episode in patients at risk for bipolar disorder.
 Whether any of the symptoms described above represent such a conversion is unknown.
 However, prior to initiating treatment with an antidepressant, patients with depressive symptoms should be adequately screened to determine if they are at risk for bipolar disorder; such screening should include a detailed psychiatric history, including a family history of suicide, bipolar disorder, and depression.
-It should be noted that duloxetine delayed-release is not approved for use in treating bipolar depression.
+It should be noted that duloxetine delayed-release capsules are not approved for use in treating bipolar depression.
 
 ## 5.2 Hepatotoxicity
 
-There have been reports of hepatic failure, sometimes fatal, in patients treated with duloxetine delayed-release.
+There have been reports of hepatic failure, sometimes fatal, in patients treated with duloxetine delayed-release capsules.
 These cases have presented as hepatitis with abdominal pain, hepatomegaly, and elevation of transaminase levels to more than twenty times the upper limit of normal with or without jaundice, reflecting a mixed or hepatocellular pattern of liver injury.
-Duloxetine delayed-release should be discontinued in patients who develop jaundice or other evidence of clinically significant liver dysfunction and should not be resumed unless another cause can be established.
+Duloxetine delayed-release capsules should be discontinued in patients who develop jaundice or other evidence of clinically significant liver dysfunction and should not be resumed unless another cause can be established.
 
 Cases of cholestatic jaundice with minimal elevation of transaminase levels have also been reported.
 Other postmarketing reports indicate that elevated transaminases, bilirubin, and alkaline phosphatase have occurred in patients with chronic liver disease or cirrhosis.
 
-Duloxetine delayed-release increased the risk of elevation of serum transaminase levels in development program clinical trials.
-Liver transaminase elevations resulted in the discontinuation of 0.3% (89/29,435) of duloxetine delayed-release-treated patients.
+Duloxetine delayed-release capsules increased the risk of elevation of serum transaminase levels in development program clinical trials.
+Liver transaminase elevations resulted in the discontinuation of 0.3% (92/34,756) of duloxetine delayed-release capsule-treated patients.
 In most patients, the median time to detection of the transaminase elevation was about two months.
-In placebo-controlled trials in any indication, for patients with normal and abnormal baseline ALT values, elevation of ALT >3 times the upper limit of normal occurred in 1.37% (132/9611) of duloxetine delayed-release-treated patients compared to 0.49% (35/7182) of placebo-treated patients.
-In placebo-controlled studies using a fixed dose design, there was evidence of a dose response relationship for ALT and AST elevation of >3 times the upper limit of normal and >5 times the upper limit of normal, respectively.
+In adult placebo-controlled trials in any indication, for patients with normal and abnormal baseline ALT values, elevation of ALT greater than 3 times the upper limit of normal occurred in 1.25% (144/11,496) of duloxetine delayed-release capsule-treated patients compared to 0.45% (39/8716) of placebo-treated patients.
+In adult placebo-controlled studies using a fixed dose design, there was evidence of a dose response relationship for ALT and AST elevation of greater than 3 times the upper limit of normal and greater than 5 times the upper limit of normal, respectively.
 
-Because it is possible that duloxetine and alcohol may interact to cause liver injury or that duloxetine may aggravate pre-existing liver disease, duloxetine delayed-release should not be prescribed to patients with substantial alcohol use or evidence of chronic liver disease.
+Because it is possible that duloxetine delayed-release capsules and alcohol may interact to cause liver injury or that duloxetine delayed-release capsules may aggravate pre-existing liver disease, duloxetine delayed-release capsules should not be prescribed to patients with substantial alcohol use or evidence of chronic liver disease.
 
-## 5.3 Orthostatic Hypotension and Syncope
+## 5.3 Orthostatic Hypotension, Falls and Syncope
 
-Orthostatic hypotension and syncope have been reported with therapeutic doses of duloxetine.
-Syncope and orthostatic hypotension tend to occur within the first week of therapy but can occur at any time during duloxetine treatment, particularly after dose increases.
-The risk of blood pressure decreases may be greater in patients taking concomitant medications that induce orthostatic hypotension (such as antihypertensives) or are potent CYP1A2 inhibitors [see Warnings and Precautions (5.12) and Drug Interactions (7.1)] and in patients taking duloxetine at doses above 60 mg daily.
-Consideration should be given to discontinuing duloxetine in patients who experience symptomatic orthostatic hypotension and/or syncope during duloxetine therapy.
+Orthostatic hypotension, falls and syncope have been reported with therapeutic doses of duloxetine delayed-release capsules.
+Syncope and orthostatic hypotension tend to occur within the first week of therapy but can occur at any time during duloxetine delayed-release capsules treatment, particularly after dose increases.
+The risk of falling appears to be related to the degree of orthostatic decrease in blood pressure as well as other factors that may increase the underlying risk of falls.
+
+In an analysis of patients from all placebo-controlled trials, patients treated with duloxetine delayed-release capsules reported a higher rate of falls compared to patients treated with placebo.
+Risk appears to be related to the presence of orthostatic decrease in blood pressure.
+The risk of blood pressure decreases may be greater in patients taking concomitant medications that induce orthostatic hypotension (such as antihypertensives) or are potent CYP1A2 inhibitors [seeWarnings and Precautions (5.12) and Drug Interactions (7.1)] and in patients taking duloxetine delayed-release capsules at doses above 60 mg daily.
+Consideration should be given to dose reduction or discontinuation of duloxetine delayed-release capsules in patients who experience symptomatic orthostatic hypotension, falls and/or syncope during duloxetine delayed-release capsules therapy.
+
+Risk of falling also appeared to be proportional to a patient’s underlying risk for falls and appeared to increase steadily with age.
+As elderly patients tend to have a higher underlying risk for falls due to a higher prevalence of risk factors such as use of multiple medications, medical comorbidities and gait disturbances, the impact of increasing age by itself is unclear.
+Falls with serious consequences including bone fractures and hospitalizations have been reported [see Adverse Reactions (6.10) and Patient Counseling Information (17)].
 
 ## 5.4 Serotonin Syndrome
 
-The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including duloxetine delayed-release, alone but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, and St. John’s Wort) and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
+The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including duloxetine delayed-release capsules, alone but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, and St. John’s Wort) and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
 
 Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
 Patients should be monitored for the emergence of serotonin syndrome.
 
-The concomitant use of duloxetine delayed-release with MAOIs intended to treat psychiatric disorders is contraindicated.
-Duloxetine delayed-release should also not be started in a patient who is being treated with MAOIs such as linezolid or intravenous methylene blue.
+The concomitant use of duloxetine delayed-release capsules with MAOIs intended to treat psychiatric disorders is contraindicated.
+Duloxetine delayed-release capsules should also not be started in a patient who is being treated with MAOIs such as linezolid or intravenous methylene blue.
 All reports with methylene blue that provided information on the route of administration involved intravenous administration in the dose range of 1 mg/kg to 8 mg/kg.
 No reports involved the administration of methylene blue by other routes (such as oral tablets or local tissue injection) or at lower doses.
-There may be circumstances when it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking duloxetine delayed-release.
-Duloxetine delayed-release should be discontinued before initiating treatment with the MAOI [see Dosage and Administration (2.5, 2.6), and Contraindications (4.1)].
+There may be circumstances when it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking duloxetine delayed-release capsules.
+Duloxetine delayed-release capsules should be discontinued before initiating treatment with the MAOI [see Dosage and Administration (2.8, 2.9), and Contraindications (4)].
 
-If concomitant use of duloxetine delayed-release with other serotonergic drugs including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan and St. John’s Wort is clinically warranted, patients should be made aware of a potential increased risk for serotonin syndrome, particularly during treatment initiation and dose increases.
-Treatment with duloxetine delayed-release and any concomitant serotonergic agents, should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
+If concomitant use of duloxetine delayed-release capsules with other serotonergic drugs including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan and St. John’s Wort is clinically warranted, patients should be made aware of a potential increased risk for serotonin syndrome, particularly during treatment initiation and dose increases.
+Treatment with duloxetine delayed-release capsules and any concomitant serotonergic agents, should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
 
 ## 5.5 Abnormal Bleeding
 
-SSRIs and SNRIs, including duloxetine, may increase the risk of bleeding events.
+SSRIs and SNRIs, including duloxetine delayed-release capsules, may increase the risk of bleeding events.
 Concomitant use of aspirin, nonsteroidal anti-inflammatory drugs, warfarin, and other anti-coagulants may add to this risk.
 Case reports and epidemiological studies (case-control and cohort design) have demonstrated an association between use of drugs that interfere with serotonin reuptake and the occurrence of gastrointestinal bleeding.
 Bleeding events related to SSRIs and SNRIs use have ranged from ecchymoses, hematomas, epistaxis, and petechiae to life-threatening hemorrhages.
 
-Patients should be cautioned about the risk of bleeding associated with the concomitant use of duloxetine and NSAIDs, aspirin, or other drugs that affect coagulation.
+Patients should be cautioned about the risk of bleeding associated with the concomitant use of duloxetine delayed-release capsules and NSAIDs, aspirin, or other drugs that affect coagulation.
 
 ## 5.6 Severe Skin Reactions
 
-Severe skin reactions, including erythema multiforme and Stevens-Johnson Syndrome (SJS), can occur with duloxetine delayed-release.
-The reporting rate of SJS associated with duloxetine delayed-release use exceeds the general population background incidence rate for this serious skin reaction (1 to 2 cases per million person years).
+Severe skin reactions, including erythema multiforme and Stevens-Johnson Syndrome (SJS), can occur with duloxetine delayed-release capsules.
+The reporting rate of SJS associated with duloxetine delayed-release capsules use exceeds the general population background incidence rate for this serious skin reaction (1 to 2 cases per million person years).
 The reporting rate is generally accepted to be an underestimate due to underreporting.
 
-Duloxetine delayed-release should be discontinued at the first appearance of blisters, peeling rash, mucosal erosions, or any other sign of hypersensitivity if no other etiology can be identified.
+Duloxetine delayed-release capsules should be discontinued at the first appearance of blisters, peeling rash, mucosal erosions, or any other sign of hypersensitivity if no other etiology can be identified.
 
-## 5.7 Discontinuation of Treatment with Duloxetine Delayed-Release
+## 5.7 Discontinuation of Treatment with Duloxetine Delayed-Release Capsules
 
-Discontinuation symptoms have been systematically evaluated in patients taking duloxetine.
-Following abrupt or tapered discontinuation in placebo-controlled clinical trials, the following symptoms occurred at 1% or greater and at a significantly higher rate in duloxetine-treated patients compared to those discontinuing from placebo: dizziness, headache, nausea, diarrhea, paresthesia, irritability, vomiting, insomnia, anxiety, hyperhidrosis, and fatigue.
+Discontinuation symptoms have been systematically evaluated in patients taking duloxetine delayed-release capsules.
+Following abrupt or tapered discontinuation in adult placebo-controlled clinical trials, the following symptoms occurred at 1% or greater and at a significantly higher rate in duloxetine delayed-release capsule-treated patients compared to those discontinuing from placebo: dizziness, headache, nausea, diarrhea, paresthesia, irritability, vomiting, insomnia, anxiety, hyperhidrosis, and fatigue.
 
 During marketing of other SSRIs and SNRIs (serotonin and norepinephrine reuptake inhibitors), there have been spontaneous reports of adverse events occurring upon discontinuation of these drugs, particularly when abrupt, including the following: dysphoric mood, irritability, agitation, dizziness, sensory disturbances (e.g., paresthesias such as electric shock sensations), anxiety, confusion, headache, lethargy, emotional lability, insomnia, hypomania, tinnitus, and seizures.
 Although these events are generally self-limiting, some have been reported to be severe.
 
-Patients should be monitored for these symptoms when discontinuing treatment with duloxetine delayed-release.
+Patients should be monitored for these symptoms when discontinuing treatment with duloxetine delayed-release capsules.
 A gradual reduction in the dose rather than abrupt cessation is recommended whenever possible.
 If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment, then resuming the previously prescribed dose may be considered.
-Subsequently, the physician may continue decreasing the dose but at a more gradual rate [see Dosage and Administration (2.4)].
+Subsequently, the physician may continue decreasing the dose but at a more gradual rate [see Dosage and Administration (2.7)].
 
 ## 5.8 Activation of Mania/Hypomania
 
-In placebo-controlled trials in patients with major depressive disorder, activation of mania or hypomania was reported in 0.1% (2/2489) of duloxetine-treated patients and 0.1% (1/1625) of placebo-treated patients.
-No activation of mania or hypomania was reported in GAD, fibromyalgia, or chronic musculoskeletal pain placebo-controlled trials.
+In adult placebo-controlled trials in patients with major depressive disorder, activation of mania or hypomania was reported in 0.1% (4/3779) of duloxetine delayed-release capsule-treated patients and 0.04% (1/2536) of placebo-treated patients.
+No activation of mania or hypomania was reported in DPNP, GAD, fibromyalgia, or chronic musculoskeletal pain placebo-controlled trials.
 Activation of mania or hypomania has been reported in a small proportion of patients with mood disorders who were treated with other marketed drugs effective in the treatment of major depressive disorder.
-As with these other agents, duloxetine delayed-release should be used cautiously in patients with a history of mania.
+As with these other agents, duloxetine delayed-release capsules should be used cautiously in patients with a history of mania.
 
 ## 5.9 Angle-Closure Glaucoma
 
-Angle-Closure Glaucoma — The pupillary dilation that occurs following use of many antidepressant drugs including duloxetine delayed-release may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
+The pupillary dilation that occurs following use of many antidepressant drugs including duloxetine delayed-release capsules may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
 
 ## 5.10 Seizures
 
-Duloxetine has not been systematically evaluated in patients with a seizure disorder, and such patients were excluded from clinical studies.
-In placebo-controlled clinical trials, seizures/convulsions occurred in 0.03% (3/10,524) of patients treated with duloxetine and 0.01% (1/7699) of patients treated with placebo.
-Duloxetine delayed-release should be prescribed with care in patients with a history of a seizure disorder.
+Duloxetine delayed-release capsules have not been systematically evaluated in patients with a seizure disorder, and such patients were excluded from clinical studies.
+In adult placebo-controlled clinical trials, seizures/convulsions occurred in 0.02% (3/12,722) of patients treated with duloxetine delayed-release capsules and 0.01% (1/9513) of patients treated with placebo.
+Duloxetine delayed-release capsules should be prescribed with care in patients with a history of a seizure disorder.
 
 ## 5.11 Effect on Blood Pressure
 
-In placebo-controlled clinical trials across indications from baseline to endpoint, duloxetine treatment was associated with mean increases of 0.5 mm Hg in systolic blood pressure and 0.8 mm Hg in diastolic blood pressure compared to mean decreases of 0.6 mm Hg systolic and 0.4 mm Hg diastolic in placebo-treated patients.
+In adult placebo-controlled clinical trials across indications from baseline to endpoint, duloxetine delayed-release capsules treatment was associated with mean increases of 0.5 mm Hg in systolic blood pressure and 0.8 mm Hg in diastolic blood pressure compared to mean decreases of 0.6 mm Hg systolic and 0.3 mm Hg diastolic in placebo-treated patients.
 There was no significant difference in the frequency of sustained (3 consecutive visits) elevated blood pressure.
-In a clinical pharmacology study designed to evaluate the effects of duloxetine on various parameters, including blood pressure at supratherapeutic doses with an accelerated dose titration, there was evidence of increases in supine blood pressure at doses up to 200 mg twice daily.
+In a clinical pharmacology study designed to evaluate the effects of duloxetine delayed-release capsules on various parameters, including blood pressure at supratherapeutic doses with an accelerated dose titration, there was evidence of increases in supine blood pressure at doses up to 200 mg twice daily.
 At the highest 200 mg twice daily dose, the increase in mean pulse rate was 5.0 to 6.8 beats and increases in mean blood pressure were 4.7 to 6.8 mm Hg (systolic) and 4.5 to 7 mm Hg (diastolic) up to 12 hours after dosing.
+
 Blood pressure should be measured prior to initiating treatment and periodically measured throughout treatment [see Adverse Reactions (6.7)].
 
 ## 5.12 Clinically Important Drug Interactions
 
-Both CYP1A2 and CYP2D6 are responsible for duloxetine metabolism.
+Both CYP1A2 and CYP2D6 are responsible for duloxetine delayed-release metabolism.
 
-Potential for Other Drugs to Affect Duloxetine Delayed-Release
+Potential for Other Drugs to Affect Duloxetine Delayed-Release Capsules
 
-CYP1A2 Inhibitors - Coadministration of duloxetine delayed-release with potent CYP1A2 inhibitors should be avoided [see Drug Interactions (7.1)].
+CYP1A2 Inhibitors - Coadministration of duloxetine delayed-release capsules with potent CYP1A2 inhibitors should be avoided [see Drug Interactions (7.1)].
 
-CYP2D6 Inhibitors - Because CYP2D6 is involved in duloxetine metabolism, concomitant use of duloxetine with potent inhibitors of CYP2D6 would be expected to, and does, result in higher concentrations (on average of 60%) of duloxetine [see Drug Interactions (7.2)].
+CYP2D6 Inhibitors - Because CYP2D6 is involved in duloxetine delayed-release capsules metabolism, concomitant use of duloxetine delayed-release capsules with potent inhibitors of CYP2D6 would be expected to, and does, result in higher concentrations (on average of 60%) of duloxetine delayed-release capsules [see Drug Interactions (7.2)].
 
-Potential for Duloxetine Delayed-Release to Affect Other Drugs
+Potential for Duloxetine Delayed-Release Capsules to Affect Other Drugs
 
-Drugs Metabolized by CYP2D6 - Coadministration of duloxetine delayed-release with drugs that are extensively metabolized by CYP2D6 and that have a narrow therapeutic index, including certain antidepressants (tricyclic antidepressants [TCAs], such as nortriptyline, amitriptyline, and imipramine), phenothiazines and Type 1C antiarrhythmics (e.g., propafenone, flecainide), should be approached with caution.
-Plasma TCA concentrations may need to be monitored and the dose of the TCA may need to be reduced if a TCA is coadministered with duloxetine delayed-release.
-Because of the risk of serious ventricular arrhythmias and sudden death potentially associated with elevated plasma levels of thioridazine, duloxetine delayed-release and thioridazine should not be coadministered [see Drug Interactions (7.9)].
+Drugs Metabolized by CYP2D6 - Coadministration of duloxetine delayed-release capsules with drugs that are extensively metabolized by CYP2D6 and that have a narrow therapeutic index, including certain antidepressants (tricyclic antidepressants [TCAs], such as nortriptyline, amitriptyline, and imipramine), phenothiazines and Type 1C antiarrhythmics (e.g., propafenone, flecainide), should be approached with caution.
+Plasma TCA concentrations may need to be monitored and the dose of the TCA may need to be reduced if a TCA is coadministered with duloxetine delayed-release capsules.
+Because of the risk of serious ventricular arrhythmias and sudden death potentially associated with elevated plasma levels of thioridazine, duloxetine delayed-release capsules and thioridazine should not be coadministered [see Drug Interactions (7.9)].
 
 Other Clinically Important Drug Interactions
 
-Alcohol - Use of duloxetine delayed-release concomitantly with heavy alcohol intake may be associated with severe liver injury.
-For this reason, duloxetine delayed-release should not be prescribed for patients with substantial alcohol use [see Warnings and Precautions (5.2) and Drug Interactions (7.15)].
+Alcohol - Use of duloxetine delayed-release capsules concomitantly with heavy alcohol intake may be associated with severe liver injury.
+For this reason, duloxetine delayed-release capsules should not be prescribed for patients with substantial alcohol use [see Warnings and Precautions (5.2) and Drug Interactions (7.15)].
 
-CNS Acting Drugs - Given the primary CNS effects of duloxetine delayed-release, it should be used with caution when it is taken in combination with or substituted for other centrally acting drugs, including those with a similar mechanism of action [see Warnings and Precautions (5.12) and Drug Interactions (7.16)].
+CNS Acting Drugs - Given the primary CNS effects of duloxetine delayed-release capsules, it should be used with caution when it is taken in combination with or substituted for other centrally acting drugs, including those with a similar mechanism of action [see Warnings and Precautions (5.12) and Drug Interactions (7.16)].
 
 ## 5.13 Hyponatremia
 
-Hyponatremia may occur as a result of treatment with SSRIs and SNRIs, including duloxetine delayed-release.
+Hyponatremia may occur as a result of treatment with SSRIs and SNRIs, including duloxetine delayed-release capsules.
 In many cases, this hyponatremia appears to be the result of the syndrome of inappropriate antidiuretic hormone secretion (SIADH).
-Cases with serum sodium lower than 110 mmol/L have been reported and appeared to be reversible when duloxetine delayed-release was discontinued.
+Cases with serum sodium lower than 110 mmol/L have been reported and appeared to be reversible when duloxetine delayed-release capsules were discontinued.
 Elderly patients may be at greater risk of developing hyponatremia with SSRIs and SNRIs.
 Also, patients taking diuretics or who are otherwise volume depleted may be at greater risk [see Use in Specific Populations (8.5)].
-Discontinuation of duloxetine delayed-release should be considered in patients with symptomatic hyponatremia and appropriate medical intervention should be instituted.
+Discontinuation of duloxetine delayed-release capsules should be considered in patients with symptomatic hyponatremia and appropriate medical intervention should be instituted.
 
 Signs and symptoms of hyponatremia include headache, difficulty concentrating, memory impairment, confusion, weakness, and unsteadiness, which may lead to falls.
 More severe and/or acute cases have been associated with hallucination, syncope, seizure, coma, respiratory arrest, and death.
 
 ## 5.14 Use in Patients with Concomitant Illness
 
-Clinical experience with duloxetine delayed-release in patients with concomitant systemic illnesses is limited.
-There is no information on the effect that alterations in gastric motility may have on the stability of duloxetine delayed-release’s enteric coating.
-In extremely acidic conditions, duloxetine delayed-release, unprotected by the enteric coating, may undergo hydrolysis to form naphthol.
-Caution is advised in using duloxetine delayed-release in patients with conditions that may slow gastric emptying (e.g., some diabetics).
+Clinical experience with duloxetine delayed-release capsules in patients with concomitant systemic illnesses is limited.
+There is no information on the effect that alterations in gastric motility may have on the stability of duloxetine delayed-release capsules enteric coating.
+In extremely acidic conditions, duloxetine delayed-release capsules, unprotected by the enteric coating, may undergo hydrolysis to form naphthol.
+Caution is advised in using duloxetine delayed-release capsules in patients with conditions that may slow gastric emptying (e.g., some diabetics).
 
-Duloxetine delayed-release has not been systematically evaluated in patients with a recent history of myocardial infarction or unstable coronary artery disease.
+Duloxetine delayed-release capsules have not been systematically evaluated in patients with a recent history of myocardial infarction or unstable coronary artery disease.
 Patients with these diagnoses were generally excluded from clinical studies during the product’s premarketing testing.
 
-Hepatic Insufficiency - Duloxetine delayed-release should ordinarily not be used in patients with hepatic insufficiency [see Dosage and Administration (2.3), Warnings and Precautions (5.2), and Use in Specific Populations (8.9)].
+Hepatic Impairment - Avoid use in patients with chronic liver disease or cirrhosis [see Dosage and Administration (2.6), Warnings and Precautions (5.2), and Use in Specific Populations (8.9)].
 
-Severe Renal Impairment - Duloxetine delayed-release should ordinarily not be used in patients with end-stage renal disease or severe renal impairment (creatinine clearance <30 mL/min).
-Increased plasma concentration of duloxetine, and especially of its metabolites, occur in patients with end-stage renal disease (requiring dialysis) [see Dosage and Administration (2.3) and Use in Specific Populations (8.10)].
+Severe Renal Impairment - Avoid use in patients with severe renal impairment, GFR less than 30 mL/min.
+Increased plasma concentration of duloxetine delayed-release capsules, and especially of its metabolites, occur in patients with end-stage renal disease (requiring dialysis) [see Dosage and Administration (2.6) and Use in Specific Populations (8.10)].
 
-Glycemic Control in Patients with Diabetes - As observed in DPNP trials, duloxetine delayed-release treatment worsens glycemic control in some patients with diabetes.
-In three clinical trials of duloxetine delayed-release for the management of neuropathic pain associated with diabetic peripheral neuropathy, the mean duration of diabetes was approximately 12 years, the mean baseline fasting blood glucose was 176 mg/dL, and the mean baseline hemoglobin A1c (HbA1c) was 7.8%.
-In the 12-week acute treatment phase of these studies, duloxetine delayed-release was associated with a small increase in mean fasting blood glucose as compared to placebo.
-In the extension phase of these studies, which lasted up to 52 weeks, mean fasting blood glucose increased by 12 mg/dL in the duloxetine delayed-release group and decreased by 11.5 mg/dL in the routine care group.
-HbA1c increased by 0.5% in the duloxetine delayed-release and by 0.2% in the routine care groups.
+Glycemic Control in Patients with Diabetes - As observed in DPNP trials, duloxetine delayed-release capsules treatment worsens glycemic control in some patients with diabetes.
+In three clinical trials of duloxetine delayed-release capsules for the management of neuropathic pain associated with diabetic peripheral neuropathy, the mean duration of diabetes was approximately 12 years, the mean baseline fasting blood glucose was 176 mg/dL, and the mean baseline hemoglobin A1c (HbA1c) was 7.8%.
+In the 12-week acute treatment phase of these studies, duloxetine delayed-release capsules were associated with a small increase in mean fasting blood glucose as compared to placebo.
+In the extension phase of these studies, which lasted up to 52 weeks, mean fasting blood glucose increased by 12 mg/dL in the duloxetine delayed-release capsule group and decreased by 11.5 mg/dL in the routine care group.
+HbA1c increased by 0.5% in the duloxetine delayed-release capsule group and by 0.2% in the routine care groups.
 
 ## 5.15 Urinary Hesitation and Retention
 
-Duloxetine delayed-release is in a class of drugs known to affect urethral resistance.
-If symptoms of urinary hesitation develop during treatment with duloxetine delayed-release, consideration should be given to the possibility that they might be drug-related.
+Duloxetine delayed-release capsules are in a class of drugs known to affect urethral resistance.
+If symptoms of urinary hesitation develop during treatment with duloxetine delayed-release capsules, consideration should be given to the possibility that they might be drug-related.
 
 In postmarketing experience, cases of urinary retention have been observed.
-In some instances of urinary retention associated with duloxetine use, hospitalization and/or catheterization has been needed.
+In some instances of urinary retention associated with duloxetine delayed-release capsule use, hospitalization and/or catheterization has been needed.
 
 ## 5.16 Laboratory Tests
 

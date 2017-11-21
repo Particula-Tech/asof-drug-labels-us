@@ -1,6 +1,6 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Duloxetine hydrochloride, USP is available as delayed-release capsules:
+Duloxetine delayed-release capsules, USP are available as:
 
 20 mg opaque blue capsules imprinted with “ 2890”
 

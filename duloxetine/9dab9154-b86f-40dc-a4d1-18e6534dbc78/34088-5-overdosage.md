@@ -2,12 +2,12 @@
 
 ## 10.1 Signs and Symptoms
 
-In postmarketing experience, fatal outcomes have been reported for acute overdoses, primarily with mixed overdoses, but also with duloxetine only, at doses as low as 1000 mg.
+In postmarketing experience, fatal outcomes have been reported for acute overdoses, primarily with mixed overdoses, but also with duloxetine only, at doses as low as 1,000 mg.
 Signs and symptoms of overdose (duloxetine alone or with mixed drugs) included somnolence, coma, serotonin syndrome, seizures, syncope, tachycardia, hypotension, hypertension, and vomiting.
 
 ## 10.2 Management of Overdose
 
-There is no specific antidote to duloxetine delayed-release, but if serotonin syndrome ensues, specific treatment (such as with cyproheptadine and/or temperature control) may be considered.
+There is no specific antidote to duloxetine delayed-release capsules, but if serotonin syndrome ensues, specific treatment (such as with cyproheptadine and/or temperature control) may be considered.
 In case of acute overdose, treatment should consist of those general measures employed in the management of overdose with any drug.
 
 An adequate airway, oxygenation, and ventilation should be assured, and cardiac rhythm and vital signs should be monitored.
@@ -19,7 +19,7 @@ Administration of activated charcoal has been shown to decrease AUC and Cmax by 
 Due to the large volume of distribution of this drug, forced diuresis, dialysis, hemoperfusion, and exchange transfusion are unlikely to be beneficial.
 
 In managing overdose, the possibility of multiple drug involvement should be considered.
-A specific caution involves patients who are taking or have recently taken duloxetine delayed-release and might ingest excessive quantities of a TCA.
+A specific caution involves patients who are taking or have recently taken duloxetine delayed-release capsules and might ingest excessive quantities of a TCA.
 In such a case, decreased clearance of the parent tricyclic and/or its active metabolite may increase the possibility of clinically significant sequelae and extend the time needed for close medical observation [see Warnings and Precautions (5.4) and Drug Interactions (7)].
-The physician should consider contacting a poison control center for additional information on the treatment of any overdose.
+The physician should consider contacting a poison control center (1-800-222-1222 or www.poison.org) for additional information on the treatment of any overdose.
 Telephone numbers for certified poison control centers are listed in the Physicians’ Desk Reference (PDR).
