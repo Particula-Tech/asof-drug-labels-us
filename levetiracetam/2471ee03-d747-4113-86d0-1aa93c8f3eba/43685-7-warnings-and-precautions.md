@@ -113,9 +113,9 @@ Antiepileptic drugs, including levetiracetam, should be withdrawn gradually to m
 ## 5.8 Hematologic Abnormalities
 
 Levetiracetam can cause hematologic abnormalities.
-Hematologic abnormalities occurred in clinical trials and included decreases in red blood cell (RBC) counts, hemoglobin, and hematocrit, and increases in eosinophil counts.
-Decreased white blood cell (WBC) and neutrophil counts also occurred in clinical trials.
-Cases of agranulocytosis have been reported in the postmarketing setting.
+Hematologic abnormalities occurred in clinical trials and included decreases in white blood cell (WBC), neutrophil, and red blood cell (RBC) counts; decreases in hemoglobin and hematocrit; and increases in eosinophil counts.
+Cases of agranulocytosis, pancytopenia, and thrombocytopenia have been reported in the postmarketing setting.
+A complete blood count is recommended in patients experiencing significant weakness, pyrexia, recurrent infections, or coagulation disorders.
 
 Partial Onset Seizures Adults Minor, but statistically significant, decreases compared to placebo in total mean RBC count (0.03 x 106/mm3), mean hemoglobin (0.09 g/dL), and mean hematocrit (0.38%), were seen in levetiracetam-treated patients in controlled trials.
 A total of 3.2% of levetiracetam-treated and 1.8% of placebo-treated patients had at least one possibly significant (≤2.8 x 109/L) decreased WBC, and 2.4% of levetiracetam-treated and 1.4% of placebo-treated patients had at least one possibly significant (≤1 x 109/L) decreased neutrophil count.

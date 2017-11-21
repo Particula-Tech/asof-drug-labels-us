@@ -33,14 +33,6 @@ To enroll, patients can call the toll free number 1-888-233-2334 [see Use in Spe
 
 Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides
 
-Manufactured for:
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India
 
-Aurobindo Pharma USA, Inc.
-
-2400 Route 130 North
-
-Dayton, NJ 08810
-
-Manufactured by: Aurobindo Pharma Limited Hyderabad-500 090, India
-
-Revised: 06/2017
+Revised: 11/2017
