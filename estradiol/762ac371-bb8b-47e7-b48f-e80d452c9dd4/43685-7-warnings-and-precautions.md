@@ -88,8 +88,13 @@ Ovarian Cancer
 
 The WHI estrogen plus progestin substudy reported a statistically non-significant increase in the risk of ovarian cancer.
 After an average follow-up of 5.6 years, the relative risk for ovarian cancer for CE plus MPA versus placebo was 1.58 (95 percent CI, 0.77-3.24).
-The absolute risk for CE plus MPA versus placebo was 4 versus 3 cases per 10,000 women-years.7 In some epidemiologic studies, the use of estrogen plus progestin and estrogen-only products, in particular for 5 or more years, has been associated with an increased risk of ovarian cancer.
-However, the duration of exposure associated with increased risk is not consistent across all epidemiologic studies, and some report no association.
+The absolute risk for CE plus MPA versus placebo was 4 versus 3 cases per 10,000 women-years.7
+
+A meta-analysis of 17 prospective and 35 retrospective epidemiology studies found that women who used hormonal therapy for menopausal symptoms had an increased risk for ovarian cancer.
+The primary analysis, using case-control comparisons, included 12,110 cancer cases from the 17 prospective studies.
+The relative risks associated with current use of hormonal therapy was 1.41 (95% confidence interval [CI] 1.32 to 1.50); there was no difference in the risk estimates by duration of the exposure (less than 5 years [median of 3 years] vs. greater than 5 years [median 10 years] of use before the cancer diagnosis).
+The relative risk associated with combined current and recent use (discontinued use within 5 years before cancer diagnosis) was 1.37 (95% CI 1.27 – 1.48), and the elevated risk was significant for both estrogen-alone and estrogen plus progestin products.
+The exact duration of hormone therapy use associated with an increased risk of ovarian cancer, however, is unknown.
 
 ## 5.3 Probable Dementia
 
@@ -122,7 +127,7 @@ Retinal vascular thrombosis has been reported in patients receiving estrogens.
 Discontinue medication pending examination if there is sudden partial or complete loss of vision or a sudden onset of proptosis, diplopia, or migraine.
 If examination reveals papilledema or retinal vascular lesions, estrogens should be permanently discontinued.
 
-## 5.7 Addition of a Progestin when a Woman has not had a Hysterectomy
+## 5.7 Addition of a Progestin When a Woman Has Not Had a Hysterectomy
 
 Studies of the addition of a progestin for 10 or more days of a cycle of estrogen administration, or daily with estrogen in a continuous regimen, have reported a lowered incidence of endometrial hyperplasia than would be induced by estrogen treatment alone.
 Endometrial hyperplasia may be a precursor to endometrial cancer.

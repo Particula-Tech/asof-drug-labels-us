@@ -8,7 +8,7 @@ Read this Patient Information before you start using EstroGel, and each time you
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your menopausal symptoms or your treatment.
 
-| What is the most important information I should know about EstroGel (an estrogen hormone)? •Using estrogen-alone may increase your chance of getting cancer of the uterus (womb). Report any unusual vaginal bleeding right away while you are using EstroGel. Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb). Your healthcare provider should check any unusual vaginal bleeding to find out the cause. •Do not use estrogen-alone to prevent heart disease, heart attacks, strokes or dementia (decline in brain function).•Using estrogen-alone may increase your chances of getting strokes and blood clots.•Using estrogen-alone may increase your chance of getting dementia, based on a study of women 65 years of age or older.•Do not use estrogens with progestins to prevent heart disease, heart attack, strokes or dementia.•Using estrogens with progestins may increase your chances of getting heart attacks, strokes, breast cancer, or blood clots.•Using estrogens with progestins may increase your chance of getting dementia, based on a study of women 65 years of age or older.•You and your healthcare provider should talk regularly about whether you still need treatment with EstroGel. |
+| What is the most important information I should know about EstroGel (an estrogen hormone)?•Using estrogen-alone may increase your chance of getting cancer of the uterus (womb). Report any unusual vaginal bleeding right away while you are using EstroGel. Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb). Your healthcare provider should check any unusual vaginal bleeding to find out the cause.•Do not use estrogen-alone to prevent heart disease, heart attacks, strokes or dementia (decline in brain function).•Using estrogen-alone may increase your chances of getting strokes and blood clots.•Using estrogen-alone may increase your chance of getting dementia, based on a study of women 65 years of age or older.•Do not use estrogens with progestins to prevent heart disease, heart attack, strokes or dementia.•Using estrogens with progestins may increase your chances of getting heart attacks, strokes, breast cancer, or blood clots.•Using estrogens with progestins may increase your chance of getting dementia, based on a study of women 65 years of age or older.•You and your healthcare provider should talk regularly about whether you still need treatment with EstroGel. |
 | --- |
 
 What is EstroGel?
@@ -77,37 +77,37 @@ Side effects are grouped by how serious they are and how often they happen when 
 
 Serious, but less common side effects include:
 
-- •heart attack
-- •stroke
-- •blood clots
-- •dementia
-- •breast cancer
-- •cancer of the lining of the uterus (womb)
-- •cancer of the ovary
-- •high blood pressure
-- •high blood glucose
-- •gallbladder disease
-- •liver problems
-- •changes in your thyroid hormone levels
-- •enlargement of benign tumors (“fibroids”)
+- •Heart attack
+- •Stroke
+- •Blood clots
+- •Dementia
+- •Breast cancer
+- •Cancer of the lining of the uterus (womb)
+- •Cancer of the ovary
+- •High blood pressure
+- •High blood glucose
+- •Gallbladder disease
+- •Liver problems
+- •Changes in your thyroid hormone levels
+- •Enlargement of benign tumors (“fibroids”)
 
 Call your healthcare provider right away if you get any of the following warning signs or any other unusual symptoms that concern you:
 
-- •new breast lumps
-- •unusual vaginal bleeding
-- •changes in vision or speech
-- •sudden new severe headaches
-- •severe pains in your chest or legs with or without shortness of breath, weakness and fatigue
+- •New breast lumps
+- •Unusual vaginal bleeding
+- •Changes in vision or speech
+- •Sudden new severe headaches
+- •Severe pains in your chest or legs with or without shortness of breath, weakness and fatigue
 
 Less serious, but common side effects include:
 
-- •headache
-- •breast pain
-- •stomach or abdominal cramps, bloating
-- •nausea and vomiting
-- •hair loss
-- •fluid retention
-- •vaginal yeast infection
+- •Headache
+- •Breast pain
+- •Stomach or abdominal cramps, bloating
+- •Nausea and vomiting
+- •Hair loss
+- •Fluid retention
+- •Vaginal yeast infection
 
 These are not all of the possible side effects of EstroGel.
 For more information, ask your healthcare provider or pharmacist.
@@ -162,13 +162,8 @@ Figure A
 
 EstroGel is supplied in a metered-dose pump that delivers a measured amount of estradiol to your skin each time you press the pump.
 
-EstroGel is available in 2 sizes:
+EstroGel is available in a 50-gram canister.
 
-- •a 50-gram canister
-- •a 25-gram canister
-
-Your healthcare provider will prescribe the size canister that is right for you.
-The instructions below are the same for both canister sizes.
 Step 1.
 Priming the EstroGel pump
 
@@ -232,10 +227,6 @@ Throwing away used EstroGel canisters
   After you have first primed your canister and used 32 doses, you will need to throw away the canister.
   Do not use the canister for more than 32 doses even though the canister may not be completely empty.
   You may not get the correct dose.
-- •The EstroGel 25-gram canister contains enough medicine to allow for priming your canister with 3 full pump depressions and delivery of 14 daily doses.
-  After you have first primed your canister and used 14 doses, you will need to throw away the canister.
-  Do not use the canister for more than 14 doses even though the canister may not be completely empty.
-  You may not get the correct dose.
 
 This Patient Information and Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
@@ -245,14 +236,14 @@ ASCEND Therapeutics® US, LLC
 
 Herndon, VA 20170
 
-By DPT Laboratories
+By DPT Laboratories Ltd.
 
 San Antonio, TX 78215
 
-129911Rev082014
+129911Rev082017
 
 Utilizes EHG® Technology
 
-©2014 ASCEND Therapeutics® US, LLC
+©2017 ASCEND Therapeutics® US, LLC
 
-Revised: 8/2014
+Revised: 8/2017

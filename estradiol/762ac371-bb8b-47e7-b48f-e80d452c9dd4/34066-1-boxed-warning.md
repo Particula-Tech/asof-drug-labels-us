@@ -6,7 +6,7 @@ Endometrial Cancer
 
 There is an increased risk of endometrial cancer in a woman with a uterus who uses unopposed estrogens.
 Adding a progestin to estrogen therapy has been shown to reduce the risk of endometrial hyperplasia, which may be a precursor to endometrial cancer.
-Adequate diagnostic measures, including directed or random endometrial sampling when indicated, should be undertaken to rule out malignancy in postmenopausal women with undiagnosed, persistent or recurring abnormal genital bleeding [see Warnings and Precautions (5.2)].
+Adequate diagnostic measures, including directed or random endometrial sampling when indicated, should be undertaken to rule out malignancy in postmenopausal women with undiagnosed, persistent, or recurring abnormal genital bleeding [see Warnings and Precautions (5.2)].
 
 Cardiovascular Disorders and Probable Dementia
 

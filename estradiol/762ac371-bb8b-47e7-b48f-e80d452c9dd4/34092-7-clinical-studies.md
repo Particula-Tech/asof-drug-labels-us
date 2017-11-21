@@ -57,7 +57,7 @@ WHI publications can be viewed at www.nhlbi.nih.gov/whi.
 For those outcomes included in the WHI “global index” that reached statistical significance, the absolute excess risk per 10,000 women-years in the group treated with CE-alone was 12 more strokes, while the absolute risk reduction per 10,000 women‑years was 7 fewer hip fractures.9 The absolute excess risk of events included in the "global index" was a non-significant 5 events per 10,000 women-years.
 There was no difference between the groups in terms of all-cause mortality.
 
-No overall difference for primary CHD events (nonfatal MI, silent MI and CHD death) and invasive breast cancer in women receiving CE-alone compared with placebo was reported in final centrally adjudicated results from the estrogen-alone substudy, after an average follow-up of 7.1 years.
+No overall difference for primary CHD events (nonfatal MI, silent MI, and CHD death) and invasive breast cancer in women receiving CE-alone compared with placebo was reported in final centrally adjudicated results from the estrogen-alone substudy, after an average follow-up of 7.1 years.
 See Table 3.
 
 Centrally adjudicated results for stroke events from the estrogen-alone substudy, after an average follow-up of 7.1 years, reported no significant difference in the distribution of stroke subtype or severity, including fatal strokes, in women receiving estrogen-alone compared to placebo.
