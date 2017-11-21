@@ -12,6 +12,6 @@ NDC 24208-816-05, 5 mL in a 7.5 mL capacity bottle.
 
 ## Storage:
 
-Store at 15-25°C (59-77°F).
+Store at 15° to 25°C (59° to 77°F).
 Avoid Freezing.
 Protect from light.

@@ -55,7 +55,7 @@ Put the cap back on the bottle and close.
 
 How should I store TIMOPTIC-XE?
 
-- •Store TIMOPTIC-XE at room temperature between 59°F to 77°F (20°C to 25°C) in an upright position.
+- •Store TIMOPTIC-XE at room temperature between 59°F to 77°F (15°C to 25°C) in an upright position.
 - •Do not freeze TIMOPTIC-XE.
 - •Keep TIMOPTIC-XE out of light.
 
@@ -66,12 +66,12 @@ You can ask your pharmacist or doctor for more information about TIMOPTIC-XE tha
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Distributed by: Bausch + Lomb, a division of Valeant Pharmaceuticals North America LLC, Bridgewater, NJ 08807 USA
+Distributed by: Bausch + Lomb, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
 TIMOPTIC and TIMOPTIC-XE are trademarks of Valeant Pharmaceuticals International, Inc. or its affiliates.
 
 © Bausch & Lomb Incorporated.
 
-Revised: October 2015
+Revised: 04/2016
 
 9447300
