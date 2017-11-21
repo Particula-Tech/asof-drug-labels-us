@@ -27,9 +27,8 @@ The mechanism for this effect is unknown.
 Coadministration of amiodarone with SOVALDI is not recommended.
 For patients taking amiodarone who have no other alternative, viable treatment options and who will be coadministered SOVALDI:
 
-- Counsel patients about the risk of serious symptomatic bradycardiaCounsel patients about the risk of serious symptomatic bradycardia
+- Counsel patients about the risk of serious symptomatic bradycardia
 - Cardiac monitoring in an in-patient setting for the first 48 hours of coadministration is recommended, after which outpatient or self-monitoring of the heart rate should occur on a daily basis through at least the first 2 weeks of treatment.
-  Cardiac monitoring in an in-patient setting for the first 48 hours of coadministration is recommended, after which outpatient or self-monitoring of the heart rate should occur on a daily basis through at least the first 2 weeks of treatment.
 
 Patients who are taking SOVALDI who need to start amiodarone therapy due to no other alternative, viable treatment options should undergo similar cardiac monitoring as outlined above.
 
