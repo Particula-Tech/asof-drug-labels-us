@@ -18,6 +18,9 @@ Velpatasvir is also an inhibitor of OATP2B1.
 Coadministration of VOSEVI with drugs that are substrates of these transporters may alter the exposure of such drugs.
 Coadministration of VOSEVI with BCRP substrates (e.g., methotrexate, mitoxantrone, imatinib, irinotecan, lapatinib, rosuvastatin, sulfasalazine, topotecan) is not recommended [see Clinical Pharmacology (12.3)].
 
+Fluctuations in INR values may occur in patients receiving warfarin concomitant with HCV treatment, including treatment with VOSEVI.
+Frequent monitoring of INR values is recommended during treatment and post-treatment follow-up.
+
 ## 7.3 Established and Potentially Significant Drug Interactions
 
 Table 3 provides a listing of established or potentially clinically significant drug interactions.
@@ -25,7 +28,7 @@ The drug interactions described are based on studies conducted with either VOSEV
 
 Table 3 Potentially Significant Drug Interactions: Alteration in Dose or Regimen May Be Recommended Based on Drug Interaction Studies or Predicted InteractionThis table is not all inclusive.
 
-| Concomitant Drug Class: Drug Name | Effect on Concentration↓ = decrease, ↑ = increase | Clinical Effect/Recommendation |
+| Concomitant Drug Class: Drug Name | Effect on Concentration↓ = decrease, ↑ = increase. | Clinical Effect/Recommendation |
 | --- | --- | --- |
 | Acid Reducing Agents: |  |  |
 |  | ↓ velpatasvir | Velpatasvir solubility decreases as pH increases. Drugs that increase gastric pH are expected to decrease concentration of velpatasvir. |

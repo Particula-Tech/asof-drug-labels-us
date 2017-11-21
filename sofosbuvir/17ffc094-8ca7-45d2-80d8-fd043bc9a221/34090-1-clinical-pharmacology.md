@@ -67,15 +67,15 @@ Geriatric Patients: Population pharmacokinetic analysis in HCV-infected subjects
 
 Patients with Renal Impairment:
 
-The pharmacokinetics of sofosbuvir were studied in HCV negative subjects with mild (eGFR between 50 to less than 80 mL/min/1.73 m2), moderate (eGFR between 30 to less than 50 mL/min/1.73 m2), severe renal impairment (eGFR less than 30 mL/min/1.73 m2), and subjects with ESRD requiring hemodialysis following a single 400 mg dose of sofosbuvir.
+The pharmacokinetics of sofosbuvir were studied in HCV-negative subjects with mild (eGFR between 50 to less than 80 mL/min/1.73 m2), moderate (eGFR between 30 to less than 50 mL/min/1.73 m2), severe renal impairment (eGFR less than 30 mL/min/1.73 m2), and subjects with ESRD requiring hemodialysis following a single 400 mg dose of sofosbuvir.
 Relative to subjects with normal renal function (eGFR greater than 80 mL/min/1.73 m2), the sofosbuvir AUC0–inf was 61%, 107%, and 171% higher in subjects with mild, moderate, and severe renal impairment, while the GS-331007 AUC0–inf was 55%, 88%, and 451% higher, respectively.
 In subjects with ESRD, relative to subjects with normal renal function, sofosbuvir and GS-331007 AUC0–inf was 28% and 1280% higher when sofosbuvir was dosed 1 hour before hemodialysis compared with 60% and 2070% higher when sofosbuvir was dosed 1 hour after hemodialysis, respectively.
 A 4-hour hemodialysis session removed approximately 18% of administered dose of sofosbuvir [see Dosage and Administration (2.3) and Use in Specific Populations (8.6)].
 
-The pharmacokinetics of velpatasvir were studied with a single dose of 100 mg velpatasvir in HCV negative subjects with severe renal impairment (eGFR less than 30 mL/min by Cockcroft-Gault).
+The pharmacokinetics of velpatasvir were studied with a single dose of 100 mg velpatasvir in HCV-negative subjects with severe renal impairment (eGFR less than 30 mL/min by Cockcroft-Gault).
 No clinically relevant differences in velpatasvir pharmacokinetics were observed between healthy subjects and subjects with severe renal impairment.
 
-The pharmacokinetics of voxilaprevir were studied with a single dose of 100 mg voxilaprevir in HCV negative subjects with severe renal impairment (eGFR < 30 mL/min by Cockcroft-Gault).
+The pharmacokinetics of voxilaprevir were studied with a single dose of 100 mg voxilaprevir in HCV-negative subjects with severe renal impairment (eGFR < 30 mL/min by Cockcroft-Gault).
 No clinically relevant differences in voxilaprevir pharmacokinetics were observed between healthy subjects and subjects with severe renal impairment.
 
 Patients with Hepatic Impairment:
@@ -120,7 +120,7 @@ Table 6 Drug Interactions: Changes in Pharmacokinetic Parameters for Sofosbuvir,
 
 | N | Component | Cmax | AUC | Cmin |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Co-administered Drug |  | Sofosbuvir (SOF)/ Velpatasvir (VEL)/Voxilaprevir (VOX) |  |  | Geometric Mean Ratio (90% CI) of Sofosbuvir, GS-331007, Velpatasvir, and Voxilaprevir PK With/Without Coadministered Drug No Effect=1.00 |  |  |  |
+| Coadministered Drug |  | Sofosbuvir (SOF)/ Velpatasvir (VEL)/Voxilaprevir (VOX) |  |  | Geometric Mean Ratio (90% CI) of Sofosbuvir, GS-331007, Velpatasvir, and Voxilaprevir PK With/Without Coadministered Drug No Effect=1.00 |  |  |  |
 | Drug | Dosage (mg) | Active Component | Dosage (mg) |  |  |  |  |  |
 | Atazanavir + ritonavir | 300 + 100 single dose | SOF/VEL/VOX | 400/100/100 single dose | 15 | sofosbuvir | 1.29 (1.09, 1.52) | 1.40 (1.25, 1.57) | NA |
 | GS-331007 | 1.05 (0.99, 1.12) | 1.25 (1.16, 1.36) | NA |  |  |  |  |  |
@@ -137,10 +137,10 @@ Table 6 Drug Interactions: Changes in Pharmacokinetic Parameters for Sofosbuvir,
 | Dolutegravir | 50 once daily | SOF/VEL | 400/100 once daily | 24 | sofosbuvir | 0.88 (0.80, 0.98) | 0.92 (0.85, 0.99) | NA |
 | GS-331007 | 1.01 (0.93, 1.10) | 0.99 (0.97, 1.01) | 0.99 (0.97, 1.01) |  |  |  |  |  |
 | velpatasvir | 0.94 (0.86, 1.02) | 0.91 (0.84, 0.98) | 0.88 (0.82, 0.94) |  |  |  |  |  |
-| Efavirenz/emtricitabine/tenofovir DFAdministered as ATRIPLA® (efavirenz, emtricitabine and tenofovir DF fixed-dose combination). | 600/200/300 once daily | SOF/VEL | 400/100 once daily | 14 | sofosbuvir | 1.38 (1.14, 1.67) | 0.97 (0.83, 1.14) | NA |
+| Efavirenz/emtricitabine/tenofovir DFAdministered as ATRIPLA® (efavirenz, emtricitabine, and tenofovir DF fixed-dose combination). | 600/200/300 once daily | SOF/VEL | 400/100 once daily | 14 | sofosbuvir | 1.38 (1.14, 1.67) | 0.97 (0.83, 1.14) | NA |
 | GS-331007 | 0.86 (0.80, 0.93) | 0.90 (0.85, 0.96) | 1.01 (0.95, 1.07) |  |  |  |  |  |
 | velpatasvir | 0.53 (0.43, 0.64) | 0.47 (0.39, 0.57) | 0.43 (0.36, 0.52) |  |  |  |  |  |
-| Elvitegravir/cobicistat/ emtricitabine/tenofovir alafenamideAdministered as GENVOYA® (elvitegravir, cobicistat, emtricitabine and tenofovir alafenamide fixed-dose combination). | 150/150/200/ 10 once daily | SOF/VEL/VOX + VOX | 400/100/100 + 100 once daily | 29 | sofosbuvir | 1.27 (1.09, 1.48) | 1.22 (1.12, 1.32) | NA |
+| Elvitegravir/cobicistat/ emtricitabine/tenofovir alafenamideAdministered as GENVOYA® (elvitegravir, cobicistat, emtricitabine, and tenofovir alafenamide fixed-dose combination). | 150/150/200/ 10 once daily | SOF/VEL/VOX + VOX | 400/100/100 + 100 once daily | 29 | sofosbuvir | 1.27 (1.09, 1.48) | 1.22 (1.12, 1.32) | NA |
 | GS-331007 | 1.28 (1.25, 1.32) | 1.43 (1.39, 1.47) | NA |  |  |  |  |  |
 | velpatasvir | 0.96 (0.89, 1.04) | 1.16 (1.06, 1.27) | 1.46 (1.30, 1.64) |  |  |  |  |  |
 | voxilaprevir | 1.92 (1.63, 2.26) | 2.71 (2.30, 3.19) | 4.50 (3.68, 5.50) |  |  |  |  |  |
@@ -168,12 +168,13 @@ Table 6 Drug Interactions: Changes in Pharmacokinetic Parameters for Sofosbuvir,
 
 No effect on the pharmacokinetic parameters of sofosbuvir, GS-331007, velpatasvir, or voxilaprevir was observed with the combination of emtricitabine, rilpivirine, and tenofovir alafenamide; famotidine; gemfibrozil; or the combination of raltegravir, emtricitabine, and tenofovir DF.
 
-Table 7 Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of Sofosbuvir, Velpatasvir, Voxilaprevir, or VOSEVIAll interaction studies conducted in healthy volunteers
+Table 7 Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of Sofosbuvir, Velpatasvir, Voxilaprevir, or VOSEVIAll interaction studies conducted in healthy volunteers.
 
 | N | Cmax | AUC | Cmin |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Co-administered Drug |  | Sofosbuvir (SOF)/ Velpatasvir (VEL)/Voxilaprevir (VOX) |  |  | Geometric Mean Ratio (90% CI) of Coadministered Drug PK With/Without Sofosbuvir, Velpatasvir, Voxilaprevir, or VOSEVI No Effect=1.00 |  |  |
+| Coadministered Drug |  | Sofosbuvir (SOF)/ Velpatasvir (VEL)/Voxilaprevir (VOX) |  |  | Geometric Mean Ratio (90% CI) of Coadministered Drug PK With/Without Sofosbuvir, Velpatasvir, Voxilaprevir, or VOSEVI No Effect=1.00 |  |  |
 | Drug | Dosage (mg) | Active Component | Dosage (mg) |  |  |  |  |
+| Atorvastatin | 40 single dose | SOF/VEL | 400/100 once daily | 26 | 1.68 (1.49, 1.89) | 1.54 (1.45, 1.64) | NA |
 | Cyclosporine | 600 single dose | SOF | 400 single dose | 19 | 1.06 (0.94, 1.18) | 0.98 (0.85, 1.14) | NA |
 | VEL | 100 single dose | 12 | 0.92 (0.82, 1.02) | 0.88 (0.78, 1.00) | NA |  |  |
 | VOX | 100 single dose | 24 | 0.95 (0.88, 1.03) | 0.94 (0.84, 1.06) | NA |  |  |
@@ -183,10 +184,10 @@ Table 7 Changes in Pharmacokinetic Parameters for Coadministered Drug in the Pre
 | emtricitabine 200 once daily | 0.88 (0.82, 0.94) | 0.99 (0.96, 1.03) | 1.20 (1.15, 1.26) |  |  |  |  |
 | tenofovir DF 300 once daily | 1.48 (1.36, 1.61) | 1.39 (1.32, 1.46) | 1.47 (1.38, 1.56) |  |  |  |  |
 | Digoxin | 0.25 single dose | VEL | 100 once daily | 21 | 1.88 (1.71, 2.08) | 1.34 (1.13, 1.60) | NA |
-| Efavirenz/emtricitabine/tenofovir DFAdministered as ATRIPLA (efavirenz, emtricitabine and tenofovir DF fixed-dose combination). | efavirenz 600 once daily | SOF/VEL | 400/100 once daily | 15 | 0.81 (0.74, 0.89) | 0.85 (0.80, 0.91) | 0.90 (0.85, 0.95) |
+| Efavirenz/emtricitabine/tenofovir DFAdministered as ATRIPLA (efavirenz, emtricitabine, and tenofovir DF fixed-dose combination). | efavirenz 600 once daily | SOF/VEL | 400/100 once daily | 15 | 0.81 (0.74, 0.89) | 0.85 (0.80, 0.91) | 0.90 (0.85, 0.95) |
 | emtricitabine 200 once daily | 1.07 (0.98, 1.18) | 1.07 (1.00, 1.14) | 1.10 (0.97, 1.25) |  |  |  |  |
 | tenofovir DF 300 once daily | 1.77 (1.53, 2.04) | 1.81 (1.68, 1.94) | 2.21 (2.00, 2.43) |  |  |  |  |
-| Elvitegravir/cobicistat/ emtricitabine/tenofovir alafenamideAdministered as GENVOYA (elvitegravir, cobicistat, emtricitabine and tenofovir alafenamide fixed-dose combination). | elvitegravir 150 once daily | SOF/VEL/VOX + VOX | 400/100/100 + 100 once daily | 29 | 0.79 (0.75, 0.85) | 0.94 (0.88, 1.00) | 1.32 (1.17, 1.49) |
+| Elvitegravir/cobicistat/ emtricitabine/tenofovir alafenamideAdministered as GENVOYA (elvitegravir, cobicistat, emtricitabine, and tenofovir alafenamide fixed-dose combination). | elvitegravir 150 once daily | SOF/VEL/VOX + VOX | 400/100/100 + 100 once daily | 29 | 0.79 (0.75, 0.85) | 0.94 (0.88, 1.00) | 1.32 (1.17, 1.49) |
 | cobicistat 150 once daily | 1.23 (1.18, 1.28) | 1.50 (1.44, 1.58) | 3.50 (3.01, 4.07) |  |  |  |  |
 | emtricitabine 200 once daily | 0.87 (0.84, 0.91) | 0.96 (0.94, 0.99) | 1.14 (1.09, 1.20) |  |  |  |  |
 | tenofovir alafenamide 10 once daily | 0.79 (0.68, 0.92) | 0.93 (0.85, 1.01) | NA |  |  |  |  |
@@ -194,12 +195,12 @@ Table 7 Changes in Pharmacokinetic Parameters for Coadministered Drug in the Pre
 | rilpivirine 25 once daily | 0.79 (0.74, 0.84) | 0.80 (0.76, 0.85) | 0.82 (0.77, 0.87) |  |  |  |  |
 | tenofovir alafenamide 25 once daily | 1.32 (1.17, 1.48) | 1.52 (1.43, 1.61) | NA |  |  |  |  |
 | Pravastatin | 40 single dose | SOF/VEL/VOX + VOX | 400/100/100 + 100 once daily | 19 | 1.89 (1.53, 2.34) | 2.16 (1.79, 2.60) | NA |
-| Rosuvastatin | 10 single dose | SOF/VEL/VOX + VOX | 400/100/100 + 100 once daily | 19 | 18.88 (16.23, 21.96) | 7.39 (6.68 8.18) | NA |
+| Rosuvastatin | 10 single dose | SOF/VEL/VOX + VOX | 400/100/100 + 100 once daily | 19 | 18.88 (16.23, 21.96) | 7.39 (6.68, 8.18) | NA |
 | Raltegravir + emtricitabine/tenofovir DF | emtricitabine 200 once daily | SOF/VEL | 400/100 once daily | 30 | 1.08 (1.04, 1.12) | 1.05 (1.03, 1.07) | 1.02 (0.97, 1.08) |
 | tenofovir DF 300 once daily | 1.46 (1.39, 1.54) | 1.40 (1.34, 1.45) | 1.70 (1.61, 1.79) |  |  |  |  |
 | raltegravir 400 twice daily | 1.03 (0.74, 1.43) | 0.97 (0.73, 1.28) | 0.79 (0.42, 1.48) |  |  |  |  |
 | Tacrolimus | 5 single dose | SOF | 400 once daily | 16 | 0.73 (0.59, 0.90) | 1.09 (0.84, 1.40) | NA |
-| NA = not available/not applicable |  |  |  |  |  |  |  |
+| NA = not available/not applicable. |  |  |  |  |  |  |  |
 
 No effect on the pharmacokinetic parameters of the following coadministered drugs was observed with VOSEVI (ethinyl estradiol/norgestimate) or its components sofosbuvir/velpatasvir (dolutegravir) or sofosbuvir (methadone).
 

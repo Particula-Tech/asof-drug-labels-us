@@ -3,7 +3,7 @@
 ## 5.1 Risk of Hepatitis B Virus Reactivation in Patients Coinfected with HCV and HBV
 
 Hepatitis B virus (HBV) reactivation has been reported in HCV/HBV coinfected patients who were undergoing or had completed treatment with HCV direct-acting antivirals, and who were not receiving HBV antiviral therapy.
-Some cases have resulted in fulminant hepatitis, hepatic failure and death.
+Some cases have resulted in fulminant hepatitis, hepatic failure, and death.
 Cases have been reported in patients who are HBsAg positive and also in patients with serologic evidence of resolved HBV infection (i.e., HBsAg negative and anti-HBc positive).
 HBV reactivation has also been reported in patients receiving certain immunosuppressant or chemotherapeutic agents; the risk of HBV reactivation associated with treatment with HCV direct-acting antivirals may be increased in these patients.
 

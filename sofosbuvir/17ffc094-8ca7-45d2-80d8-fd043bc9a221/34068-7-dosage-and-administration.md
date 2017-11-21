@@ -15,7 +15,7 @@ Table 1 Recommended Treatment Regimen and Duration in Adults Without Cirrhosis o
 | Genotype | Patients Previously Treated with an HCV Regimen Containing: | VOSEVI Duration |
 | --- | --- | --- |
 | 1, 2, 3, 4, 5, or 6 | An NS5A inhibitorIn clinical trials, prior NS5A inhibitor experience included daclatasvir, elbasvir, ledipasvir, ombitasvir, or velpatasvir. | 12 weeks |
-| 1a or 3 | Sofosbuvir without an NS5A inhibitorIn clinical trials, prior treatment experience included sofosbuvir with or without any of the following: peginterferon alfa/ribavirin, ribavirin, HCV NS3/4A protease inhibitor (boceprevir, simeprevir or telaprevir). | 12 weeks |
+| 1a or 3 | Sofosbuvir without an NS5A inhibitorIn clinical trials, prior treatment experience included sofosbuvir with or without any of the following: peginterferon alfa/ribavirin, ribavirin, HCV NS3/4A protease inhibitor (boceprevir, simeprevir, or telaprevir). | 12 weeks |
 
 ## 2.3 No Dosage Recommendations in Severe Renal Impairment and End Stage Renal Disease
 
