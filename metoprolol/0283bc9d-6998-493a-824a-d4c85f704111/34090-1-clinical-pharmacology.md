@@ -23,16 +23,16 @@ The precise mechanism of action of Lopressor in patients with suspected or defin
 ## Pharmacodynamics
 
 Relative beta1 selectivity is demonstrated by the following: (1) In healthy subjects, Lopressor is unable to reverse the beta2-mediated vasodilating effects of epinephrine.
-This contrasts with the effect of nonselective (beta1 plus beta2) beta blockers, which completely reverse the vasodilating effects of epinephrine.
-(2) In asthmatic patients, Lopressor reduces FEV1 and FVC significantly less than a nonselective beta blocker, propranolol, at equivalent beta1-receptor blocking doses.
+This contrasts with the effect of nonselective (beta1 plus beta2) beta-blockers, which completely reverse the vasodilating effects of epinephrine.
+(2) In asthmatic patients, Lopressor reduces FEV1 and FVC significantly less than a nonselective beta-blocker, propranolol, at equivalent beta1-receptor blocking doses.
 
-Lopressor has no intrinsic sympathomimetic activity, and membrane-stabilizing activity is detectable only at doses much greater than required for beta blockade.
+Lopressor has no intrinsic sympathomimetic activity, and membrane-stabilizing activity is detectable only at doses much greater than required for beta-blockade.
 Animal and human experiments indicate that Lopressor slows the sinus rate and decreases AV nodal conduction.
 
 Significant beta-blocking effect (as measured by reduction of exercise heart rate) occurs within 1 hour after oral administration, and its duration is dose-related.
 For example, a 50% reduction of the maximum effect after single oral doses of 20, 50, and 100 mg occurred at 3.3, 5.0, and 6.4 hours, respectively, in normal subjects.
 After repeated oral dosages of 100 mg twice daily, a significant reduction in exercise systolic blood pressure was evident at 12 hours.
-When the drug was infused over a 10-minute period, in normal volunteers, maximum beta blockade was achieved at approximately 20 minutes.
+When the drug was infused over a 10-minute period, in normal volunteers, maximum beta-blockade was achieved at approximately 20 minutes.
 Equivalent maximal beta-blocking effect is achieved with oral and intravenous doses in the ratio of approximately 2.5:1.
 
 There is a linear relationship between the log of plasma levels and reduction of exercise heart rate.
@@ -42,7 +42,7 @@ Because of variable plasma levels attained with a given dose and lack of a consi
 In several studies of patients with acute myocardial infarction, intravenous followed by oral administration of Lopressor caused a reduction in heart rate, systolic blood pressure and cardiac output.
 Stroke volume, diastolic blood pressure and pulmonary artery end diastolic pressure remained unchanged.
 
-In patients with angina pectoris, plasma concentration measured at 1 hour is linearly related to the oral dose within the range of 50-400 mg.
+In patients with angina pectoris, plasma concentration measured at 1 hour is linearly related to the oral dose within the range of 50 to 400 mg.
 Exercise heart rate and systolic blood pressure are reduced in relation to the logarithm of the oral dose of metoprolol.
 The increase in exercise capacity and the reduction in left ventricular ischemia are also significantly related to the logarithm of the oral dose.
 
@@ -65,10 +65,10 @@ Elimination: Elimination of Lopressor is mainly by biotransformation in the live
 The mean elimination half-life of metoprolol is 3 to 4 hours; in poor CYP2D6 metabolizers the half-life may be 7 to 9 hours.
 Approximately 95% of the dose can be recovered in urine.
 In most subjects (extensive metabolizers), less than 5% of an oral dose and less than 10% of an intravenous dose are excreted as unchanged drug in the urine.
-In poor metabolizers, up to 30% or 40% of oral or intravenous doses, respectively, may be excreted unchanged; the rest is excreted by the kidneys as metabolites that appear to have no beta blocking activity.
+In poor metabolizers, up to 30% or 40% of oral or intravenous doses, respectively, may be excreted unchanged; the rest is excreted by the kidneys as metabolites that appear to have no beta-blocking activity.
 The renal clearance of the stereo-isomers does not exhibit stereo-selectivity in renal excretion.
 
-## Special populations
+Special populations
 
 Geriatric patients: The geriatric population may show slightly higher plasma concentrations of metoprolol as a combined result of a decreased metabolism of the drug in elderly population and a decreased hepatic blood flow.
 However, this increase is not clinically significant or therapeutically relevant.
@@ -82,18 +82,18 @@ The elimination half-life of metoprolol is considerably prolonged, depending on 
 
 Hypertension
 
-In controlled clinical studies, Lopressor has been shown to be an effective antihypertensive agent when used alone or as concomitant therapy with thiazide-type diuretics, at dosages of 100-450 mg daily.
+In controlled clinical studies, Lopressor has been shown to be an effective antihypertensive agent when used alone or as concomitant therapy with thiazide-type diuretics, at dosages of 100 to 450 mg daily.
 In controlled, comparative, clinical studies, Lopressor has been shown to be as effective an antihypertensive agent as propranolol, methyldopa, and thiazide-type diuretics, to be equally effective in supine and standing positions.
 
 Angina Pectoris
 
 In controlled clinical trials, Lopressor, administered two or four times daily, has been shown to be an effective antianginal agent, reducing the number of angina attacks and increasing exercise tolerance.
-The dosage used in these studies ranged from 100-400 mg daily.
+The dosage used in these studies ranged from 100 to 400 mg daily.
 A controlled, comparative, clinical trial showed that Lopressor was indistinguishable from propranolol in the treatment of angina pectoris.
 
 Myocardial Infarction
 
-In a large (1,395 patients randomized), double-blind, placebo-controlled clinical study, Lopressor was shown to reduce 3-month mortality by 36% in patients with suspected or definite myocardial infarction.
+In a large (1395 patients randomized), double-blind, placebo-controlled clinical study, Lopressor was shown to reduce 3-month mortality by 36% in patients with suspected or definite myocardial infarction.
 
 Patients were randomized and treated as soon as possible after their arrival in the hospital, once their clinical condition had stabilized and their hemodynamic status had been carefully evaluated.
 Subjects were ineligible if they had hypotension, bradycardia, peripheral signs of shock, and/or more than minimal basal rales as signs of congestive heart failure.
@@ -102,10 +102,10 @@ Oral maintenance therapy with Lopressor or placebo was then continued for 3 mont
 After this double-blind period, all patients were given Lopressor and followed up to 1 year.
 
 The median delay from the onset of symptoms to the initiation of therapy was 8 hours in both the Lopressor- and placebo-treatment groups.
-Among patients treated with Lopressor, there were comparable reductions in 3-month mortality for those treated early (≤8 hours) and those in whom treatment was started later.
+Among patients treated with Lopressor, there were comparable reductions in 3-month mortality for those treated early (≤ 8 hours) and those in whom treatment was started later.
 Significant reductions in the incidence of ventricular fibrillation and in chest pain following initial intravenous therapy were also observed with Lopressor and were independent of the interval between onset of symptoms and initiation of therapy.
 
 In this study, patients treated with metoprolol received the drug both very early (intra-venously) and during a subsequent 3-month period, while placebo patients received no beta-blocker treatment for this period.
 The study thus was able to show a benefit from the overall metoprolol regimen but cannot separate the benefit of very early intravenous treatment from the benefit of later beta-blocker therapy.
 Nonetheless, because the overall regimen showed a clear beneficial effect on survival without evidence of an early adverse effect on survival, one acceptable dosage regimen is the precise regimen used in the trial.
-Because the specific benefit of very early treatment remains to be defined however, it is also reasonable to administer the drug orally to patients at a later time as is recommended for certain other beta blockers.
+Because the specific benefit of very early treatment remains to be defined however, it is also reasonable to administer the drug orally to patients at a later time as is recommended for certain other beta-blockers.

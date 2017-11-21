@@ -11,8 +11,7 @@ Headache, nightmares, and insomnia have also been reported.
 
 Cardiovascular: Shortness of breath and bradycardia have occurred in approximately 3 of 100 patients.
 Cold extremities; arterial insufficiency, usually of the Raynaud type; palpitations; congestive heart failure; peripheral edema; and hypotension have been reported in about 1 of 100 patients.
-Gangrene in patients with pre-existing severe peripheral circulatory disorders has also been reported very rarely.
-(See CONTRAINDICATIONS, WARNINGS, and PRECAUTIONS.)
+Gangrene in patients with pre-existing severe peripheral circulatory disorders has also been reported very rarely (see CONTRAINDICATIONS, WARNINGS, and PRECAUTIONS).
 
 Respiratory: Wheezing (bronchospasm) and dyspnea have been reported in about 1 of 100 patients (see WARNINGS).
 Rhinitis has also been reported.
@@ -33,7 +32,7 @@ There have been rare reports of reversible alopecia, agranulocytosis, and dry ey
 Discontinuation of the drug should be considered if any such reaction is not otherwise explicable.
 There have been very rare reports of weight gain, arthritis, and retroperitoneal fibrosis (relationship to Lopressor has not been definitely established).
 
-The oculomucocutaneous syndrome associated with the beta blocker practolol has not been reported with Lopressor.
+The oculomucocutaneous syndrome associated with the beta-blocker practolol has not been reported with Lopressor.
 
 ## Myocardial Infarction
 
@@ -44,10 +43,10 @@ Cardiovascular: In the randomized comparison of Lopressor and placebo described 
 
 |  | Lopressor® | Placebo |
 | --- | --- | --- |
-| Hypotension (systolic BP <90 mmHg) | 27.4% | 23.2% |
-| Bradycardia (heart rate <40 beats/min) | 15.9% | 6.7% |
+| Hypotension (systolic BP < 90 mm Hg) | 27.4% | 23.2% |
+| Bradycardia (heart rate < 40 beats/min) | 15.9% | 6.7% |
 | Second- or third-degree heart block | 4.7% | 4.7% |
-| First-degree heart block (P-R ≥0.26 sec) | 5.3% | 1.9% |
+| First-degree heart block (P-R ≥ 0.26 sec) | 5.3% | 1.9% |
 | Heart failure | 27.5% | 29.6% |
 
 Respiratory: Dyspnea of pulmonary origin has been reported in fewer than 1 of 100 patients.
@@ -72,5 +71,7 @@ Hypersensitive Reactions: Fever combined with aching and sore throat, laryngospa
 
 ## Postmarketing Experience
 
-The following adverse reactions have been reported during postapproval use of Lopressor: confusional state, an increase in blood triglycerides and a decrease in High Density Lipoprotein (HDL).
+The following adverse reactions have been reported during post-approval use of Lopressor: confusional state, an increase in blood triglycerides and a decrease in High Density Lipoprotein (HDL).
 Because these reports are from a population of uncertain size and are subject to confounding factors, it is not possible to reliably estimate their frequency.
+
+To report SUSPECTED ADVERSE REACTIONS, contact Validus Pharmaceuticals LLC at 1-866-982-5438 (1-866-9VALIDUS) or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

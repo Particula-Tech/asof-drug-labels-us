@@ -2,15 +2,50 @@
 
 Heart Failure
 
-Beta blockers, like Lopressor, can cause depression of myocardial contractility and may precipitate heart failure and cardiogenic shock.
+Beta-blockers, like Lopressor, can cause depression of myocardial contractility and may precipitate heart failure and cardiogenic shock.
 If signs or symptoms of heart failure develop, treat the patient according to recommended guidelines.
 It may be necessary to lower the dose of Lopressor or to discontinue it.
+
+| Ischemic Heart Disease Do not abruptly discontinue Lopressor therapy in patients with coronary artery disease. Severe exacerbation of angina, myocardial infarction and ventricular arrhythmias have been reported in patients with coronary artery disease following the abrupt discontinuation of therapy with beta-blockers. When discontinuing chronically administered Lopressor, particularly in patients with coronary artery disease, the dosage should be gradually reduced over a period of 1 to 2 weeks and the patient should be carefully monitored. If angina markedly worsens or acute coronary insufficiency develops, Lopressor administration should be reinstated promptly, at least temporarily, and other measures appropriate for the management of unstable angina should be taken. Patients should be warned against interruption or discontinuation of therapy without the physician’s advice. Because coronary artery disease is common and may be unrecognized, it may be prudent not to discontinue Lopressor therapy abruptly even in patients treated only for hypertension. |
+| --- |
+
+## Use During Major Surgery
+
+Chronically administered beta-blocking therapy should not be routinely withdrawn prior to major surgery; however, the impaired ability of the heart to respond to reflex adrenergic stimuli may augment the risks of general anesthesia and surgical procedures.
+
+## Bradycardia
+
+Bradycardia, including sinus pause, heart block, and cardiac arrest have occurred with the use of Lopressor.
+Patients with first-degree atrioventricular block, sinus node dysfunction, or conduction disorders may be at increased risk.
+Monitor heart rate and rhythm in patients receiving Lopressor.
+If severe bradycardia develops, reduce or stop Lopressor.
+
+## Exacerbation of Bronchospastic Disease
+
+Patients with bronchospastic disease, should in general, not receive beta-blockers, including Lopressor.
+Because of its relative beta1 selectivity, however, Lopressor may be used in patients with bronchospastic disease who do not respond to, or cannot tolerate, other antihypertensive treatment.
+Because beta1 selectivity is not absolute use the lowest possible dose of Lopressor and consider administering Lopressor in smaller doses three times daily, instead of larger doses two times daily, to avoid the higher plasma levels associated with the longer dosing interval (see DOSAGE AND ADMINISTRATION).
+Bronchodilators, including beta2 agonists, should be readily available or administered concomitantly.
+
+## Diabetes and Hypoglycemia
+
+Beta-blockers may mask tachycardia occurring with hypoglycemia, but other manifestations such as dizziness and sweating may not be significantly affected.
+
+## Pheochromocytoma
+
+If Lopressor is used in the setting of pheochromocytoma, it should be given in combination with an alpha blocker, and only after the alpha blocker has been initiated.
+Administration of beta- blockers alone in the setting of pheochromocytoma has been associated with a paradoxical increase in blood pressure due to the attenuation of beta-mediated vasodilatation in skeletal muscle.
+
+## Thyrotoxicosis
+
+Lopressor may mask certain clinical signs (e.g., tachycardia) of hyperthyroidism.
+Avoid abrupt withdrawal of beta blockade, which might precipitate a thyroid storm.
 
 # PRECAUTIONS
 
 Risk of Anaphylactic Reactions
 
-While taking beta blockers, patients with a history of severe anaphylactic reaction to a variety of allergens may be more reactive to repeated challenge, either accidental, diagnostic, or therapeutic.
+While taking beta-blockers, patients with a history of severe anaphylactic reaction to a variety of allergens may be more reactive to repeated challenge, either accidental, diagnostic, or therapeutic.
 Such patients may be unresponsive to the usual doses of epinephrine used to treat allergic reaction.
 
 ## Information for Patients
@@ -27,7 +62,7 @@ Catecholamine-depleting drugs: Catecholamine-depleting drugs (e.g., reserpine) m
 Observe patients treated with Lopressor plus a catecholamine depletor for evidence of hypotension or marked bradycardia, which may produce vertigo, syncope, or postural hypotension.
 In addition, possibly significant hypertension may theoretically occur up to 14 days following discontinuation of the concomitant administration with an irreversible MAO inhibitor.
 
-Digitalis glycosides and beta blockers: Both digitalis glycosides and beta blockers slow atrioventricular conduction and decrease heart rate.
+Digitalis glycosides and beta-blockers: Both digitalis glycosides and beta-blockers slow atrioventricular conduction and decrease heart rate.
 Concomitant use can increase the risk of bradycardia.
 Monitor heart rate and PR interval.
 
@@ -35,13 +70,13 @@ Calcium channel blockers: Concomitant administration of a beta-adrenergic antago
 
 CYP2D6 Inhibitors: Potent inhibitors of the CYP2D6 enzyme may increase the plasma concentration of Lopressor which would mimic the pharmacokinetics of CYP2D6 poor metabolizer (see Pharmacokinetics section).
 Increase in plasma concentrations of metoprolol would decrease the cardioselectivity of metoprolol.
-Known clinically significant potent inhibitors of CYP2D6 are antidepressants such as fluvoxamine, fluoxetine, paroxetine, sertraline,bupropion, clomipramine, and desipramine; antipsychotics such as chlorpromazine, fluphenazine, haloperidol, and thioridazine; antiarrhythmics such as quinidine or propafenone; antiretrovirals such as ritonavir; antihistamines such as diphenhydramine; antimalarials such as hydroxychloroquine or quinidine; antifungals such as terbinafine.
+Known clinically significant potent inhibitors of CYP2D6 are antidepressants such as fluvoxamine, fluoxetine, paroxetine, sertraline, bupropion, clomipramine, and desipramine; antipsychotics such as chlorpromazine, fluphenazine, haloperidol, and thioridazine; antiarrhythmics such as quinidine or propafenone; antiretrovirals such as ritonavir; antihistamines such as diphenhydramine; antimalarials such as hydroxychloroquine or quinidine; antifungals such as terbinafine.
 
 Hydralazine: Concomitant administration of hydralazine may inhibit presystemic metabolism of metoprolol leading to increased concentrations of metoprolol.
 
 Alpha-adrenergic agents: Antihypertensive effect of alpha-adrenergic blockers such as guanethidine, betanidine, reserpine, alpha-methyldopa or clonidine may be potentiated by beta-blockers including Lopressor.
-Beta- adrenergic blockers may also potentiate the postural hypotensive effect of the first dose of prazosin, probably by preventing reflex tachycardia.
-On the contrary, beta adrenergic blockers may also potentiate the hypertensive response to withdrawal of clonidine in patients receiving concomitant clonidine and beta-adrenergic blocker.
+Beta-adrenergic blockers may also potentiate the postural hypotensive effect of the first dose of prazosin, probably by preventing reflex tachycardia.
+On the contrary, beta-adrenergic blockers may also potentiate the hypertensive response to withdrawal of clonidine in patients receiving concomitant clonidine and beta-adrenergic blocker.
 If a patient is treated with clonidine and Lopressor concurrently, and clonidine treatment is to be discontinued, stop Lopressor several days before clonidine is withdrawn.
 Rebound hypertension that can follow withdrawal of clonidine may be increased in patients receiving concurrent beta-blocker treatment.
 
@@ -65,7 +100,7 @@ Embryotoxicity and/or fetotoxicity in rats and rabbits were noted starting at do
 High doses were associated with some maternal toxicity, and growth delay of the offspring in utero, which was reflected in minimally lower weights at birth.
 The oral NOAELs for embryo-fetal development in mice, rats, and rabbits were considered to be 25, 200, and 12.5 mg/kg.
 This corresponds to dose levels that are approximately 0.3, 4, and 0.5 times, respectively, when based on surface area, the maximum human oral dose (8 mg/kg/day) of metoprolol tartrate.
-Metoprolol tartrate has been associated with reversible adverse effects on spermatogenesis starting at oral dose levels of 3.5 mg/kg in rats (a dose that is only 0.1-times the human dose, when based on surface area), although other studies have shown no effect of metoprolol tartrate on reproductive performance in male rats.
+Metoprolol tartrate has been associated with reversible adverse effects on spermatogenesis starting at oral dose levels of 3.5 mg/kg in rats (a dose that is only 0.1 times the human dose, when based on surface area), although other studies have shown no effect of metoprolol tartrate on reproductive performance in male rats.
 
 ## Pregnancy Category C
 
@@ -85,7 +120,7 @@ Because animal reproduction studies are not always predictive of human response,
 Lopressor is excreted in breast milk in a very small quantity.
 An infant consuming 1 liter of breast milk daily would receive a dose of less than 1 mg of the drug.
 
-Fertility
+## Fertility
 
 The effects of Lopressor on the fertility of human have not been studied.
 

@@ -1,28 +1,26 @@
 # HOW SUPPLIED
 
-Lopressor® Tablets
+Lopressor Tablets
 
-metoprolol tartrate tablets, USP
+metoprolol tartrate USP Tablets
 
 Tablets 50 mg – capsule-shaped, biconvex, pink, scored (imprinted LOPRESSOR on one side and 458 twice on the scored side)
 
-Bottles of 100 NDC 30698-458-01
+Bottles of 100………………………………………….………NDC 30698-458-01
 
 Tablets 100 mg – capsule-shaped, biconvex, light blue, scored (imprinted LOPRESSOR on one side and 459 twice on the scored side)
 
-Bottles of 100 NDC 30698-459-01
+Bottles of 100………………………………………………….NDC 30698-459-01
 
-Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
+Storage: Store at 77°F (25°C); excursions permitted to 59° to 86°F (15° to 30°C) [See USP Controlled Room Temperature].
 Protect from moisture and heat.
 
-Dispense in tight, light-resistant container (USP).
+Dispense in a tight, light-resistant container (USP).
 
-To report SUSPECTED ADVERSE REACTIONS, contact Validus Pharmaceuticals, LLC at --9VALIDUS (1-866-982-5438) or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch
+Manufactured for and Distributed by: Validus Pharmaceuticals LLC 119 Cherry Hill Road, Suite 310 Parsippany, NJ 07054 info@validuspharma.com www.validuspharma.com 1-866-982-5438 (1-866-9VALIDUS)
 
-Distributed by: Validus Pharmaceuticals, LLC Parsippany, New Jersey 07054 info@validuspharma.com www.validuspharma.com 1-866-9VALIDUS
+Product of Spain
 
-© 2015 Validus Pharmaceuticals, LLC
+© 2017 Validus Pharmaceuticals LLC
 
-August 2015
-
-60025-00
+60025-01September 2017

@@ -8,7 +8,7 @@ Lopressor tablets should be taken with or immediately following meals.
 The usual initial dosage of Lopressor tablets is 100 mg daily in single or divided doses, whether used alone or added to a diuretic.
 Increase the dosage at weekly (or longer) intervals until optimum blood pressure reduction is achieved.
 In general, the maximum effect of any given dosage level will be apparent after 1 week of therapy.
-The effective dosage range of Lopressor tablets is 100-450 mg per day.
+The effective dosage range of Lopressor tablets is 100 to 450 mg per day.
 Dosages above 450 mg per day have not been studied.
 While once-daily dosing is effective and can maintain a reduction in blood pressure throughout the day, lower doses (especially 100 mg) may not maintain a full effect at the end of the 24-hour period, and larger or more frequent daily doses may be required.
 This can be evaluated by measuring blood pressure near the end of the dosing interval to determine whether satisfactory control is being maintained throughout the day.
@@ -20,9 +20,9 @@ The dosage of Lopressor tablets should be individualized.
 Lopressor tablets should be taken with or immediately following meals.
 
 The usual initial dosage of Lopressor tablets is 100 mg daily, given in two divided doses. gradually increase the dosage at weekly intervals until optimum clinical response has been obtained or there is pronounced slowing of the heart rate.
-The effective dosage range of Lopressor tablets is 100-400 mg per day.
+The effective dosage range of Lopressor tablets is 100 to 400 mg per day.
 Dosages above 400 mg per day have not been studied.
-If treatment is to be discontinued, gradually decrease the dosage over a period of 1-2 weeks (see WARNINGS).
+If treatment is to be discontinued, gradually decrease the dosage over a period of 1 to 2 weeks (see WARNINGS).
 
 ## Myocardial Infarction
 
@@ -38,11 +38,9 @@ Thereafter, the maintenance dosage is 100 mg twice daily (see Late Treatment bel
 Start patients who appear not to tolerate the full intravenous dose on Lopressor tablets either 25 mg or 50 mg every 6 hours (depending on the degree of intolerance) 15 minutes after the last intravenous dose or as soon as their clinical condition allows.
 In patients with severe intolerance, discontinue Lopressor (see WARNINGS).
 
-## Late Treatment:
-
-Start patients with contraindications to treatment during the early phase of suspected or definite myocardial infarction, patients who appear not to tolerate the full early treatment, and patients in whom the physician wishes to delay therapy for any other reason on Lopressor tablets, 100 mg twice daily, as soon as their clinical condition allows.
+Late Treatment: Start patients with contraindications to treatment during the early phase of suspected or definite myocardial infarction, patients who appear not to tolerate the full early treatment, and patients in whom the physician wishes to delay therapy for any other reason on Lopressor tablets, 100 mg twice daily, as soon as their clinical condition allows.
 Continue therapy for at least 3 months.
-Although the efficacy of Lopressor beyond 3 months has not been conclusively established, data from studies with other beta blockers suggest that treatment should be continued for 1-3 years.
+Although the efficacy of Lopressor beyond 3 months has not been conclusively established, data from studies with other beta-blockers suggest that treatment should be continued for 1 to 3 years.
 
 ## Special populations
 
@@ -54,7 +52,7 @@ Renal impairment: No dose adjustment of Lopressor is required in patients with r
 Hepatic impairment: Lopressor blood levels are likely to increase substantially in patients with hepatic impairment.
 Therefore, Lopressor should be initiated at low doses with cautious gradual dose titration according to clinical response.
 
-Geriatric patients (>65 years): In general, use a low initial starting dose in elderly patients given their greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+Geriatric patients (> 65 years): In general, use a low initial starting dose in elderly patients given their greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 
 ## Method of administration:
 
