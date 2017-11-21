@@ -36,7 +36,7 @@ Table 5 Includes clinically significant drug interactions with BELBUCA.
 | Diuretics |  |
 | Clinical Impact: | Opioids can reduce the efficacy of diuretics by inducing the release of antidiuretic hormone. |
 | Intervention: | Monitor patients for signs of diminished diuresis and/or effects on blood pressure and increase the dosage of the diuretic as needed. |
-| Anticholinergic Drugs |  |
+| � Anticholinergic Drugs |  |
 | Clinical Impact: | The concomitant use of anticholinergic drugs may increase the risk of urinary retention and/or severe constipation, which may lead to paralytic ileus. |
 | Intervention: | Monitor patients for signs of urinary retention or reduced gastric motility when BELBUCA is used concomitantly with anticholinergic drugs. |
 | Antiretrovirals: Nucleoside reverse transcriptase inhibitors (NRTIs) |  |

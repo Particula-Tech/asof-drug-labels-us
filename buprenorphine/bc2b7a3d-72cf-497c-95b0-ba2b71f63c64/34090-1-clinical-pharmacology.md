@@ -65,19 +65,19 @@ In opioid-tolerant patients, the situation may be altered by the development of 
 
 Absorption
 
-Systemic plasma levels of buprenorphine increased in a linear manner (Cmax and AUC) over the single dose range of 75 to 1200 mcg as shown in Table 7.
+Systemic plasma levels of buprenorphine increased in a linear manner (C max and AUC) over the single dose range of 75 to 1200 mcg as shown in Table 7.
 The absolute bioavailability of BELBUCA ranged from 46 to 65%.
 
 Table 7: Mean (± SD) BELBUCA Pharmacokinetic Parameters
 
-| Regimen | Dosage (mcg) | Cmax (ng/mL) | AUC0-t (h∙ng/mL) | AUC0-∞ (h∙ng/mL) | TmaxTmax values reported as median and range (hr) |
+| Regimen | Dosage (mcg) | C max (ng/mL) | AUC 0-t (h∙ng/mL) | AUC0-∞ (h∙ng/mL) | T maxT max values reported as median and range (hr) |
 | --- | --- | --- | --- | --- | --- |
 | Single Dose | 75 | 0.17±0.30 | 0.46±0.22 | 0.63±0.24 | 3.00 (1.50-4.00) |
 | 300 | 0.47±0.47 | 2.00±0.68 | 2.3±0.68 | 2.50 (0.50-4.00) |  |
 | 1200 | 1.43±0.45 | 9.6±2.9 | 10.5±3.32 | 3.00 (1.00-4.00) |  |
 
-Following the multiple dose administration (60 to 240 mcg every 12 hours) of BELBUCA, apparent steady-state buprenorphine plasma concentrations were achieved prior to the 6th dose.
-Buprenorphine steady-state Cmax and AUC increased proportional to dose.
+Following the multiple dose administration (60 to 240 mcg every 12 hours) of BELBUCA, apparent steady-state buprenorphine plasma concentrations were achieved prior to the 6 th dose.
+Buprenorphine steady-state C max and AUC increased proportional to dose.
 
 Systemic exposure to buprenorphine from BELBUCA film was reduced by 23-27% by the ingestion of liquids (cold, hot and room temperature water) during film administration; additionally coadministration with low pH liquid, such as decaffeinated cola, decreased buprenorphine exposure from BELBUCA by approximately 37%.
 The consumption of liquids should be avoided until the buccal film has completely dissolved [see Dosage and Administration (2.7)].
@@ -138,23 +138,23 @@ Buprenorphine and norbuprenorphine plasma levels did not increase in mild or mod
 
 In another pharmacokinetic study, the disposition of buprenorphine was determined after administering a 2.0/0.5 mg buprenorphine/naloxone sublingual tablet in subjects with varied degrees of hepatic impairment as indicated by Child-Pugh criteria.
 The disposition of buprenorphine in patients with hepatic impairment was compared to disposition in subjects with normal hepatic function.
-In subjects with mild hepatic impairment, the changes in mean Cmax, AUC0-last, and half-life values of buprenorphine were not clinically significant.
+In subjects with mild hepatic impairment, the changes in mean C max, AUC 0-last, and half-life values of buprenorphine were not clinically significant.
 No dose adjustment is needed in patients with mild hepatic impairment.
 
-For subjects with moderate and severe hepatic impairment, mean Cmax, AUC0-last, and half-life values of buprenorphine were increased [see Dosage and Administration (2.5), Warnings and Precautions (5.10), and Use in Specific Populations (8.6)].
+For subjects with moderate and severe hepatic impairment, mean C max, AUC 0-last, and half-life values of buprenorphine were increased [see Dosage and Administration (2.5), Warnings and Precautions (5.10), and Use in Specific Populations (8.6)].
 
 Table 8.
 Changes in Pharmacokinetic Parameters in Subjects With Moderate and Severe Hepatic Impairment
 
 | Hepatic Impairment | PK Parameters | Increase in buprenorphine compared to healthy subjects |
 | --- | --- | --- |
-| Moderate | Cmax | 8% |
-| AUC0-last | 64% |  |
+| Moderate | C max | 8% |
+| AUC 0-last | 64% |  |
 | Half-life | 35% |  |
-| Severe | Cmax | 72% |
-| AUC0-last | 181% |  |
+| Severe | C max | 72% |
+| AUC 0-last | 181% |  |
 | Half-life | 57% |  |
 
 Oral Mucositis
 
-In an open-label pharmacokinetic study in 6 cancer patients with Grade 3 mucositis, buprenorphine was absorbed more rapidly from BELBUCA resulting in a higher Cmax (~79%) and AUC (~56%) compared to age- and gender-matched healthy control patients [see Dosage and Administration (2.6), Warnings and Precautions (5.15)].
+In an open-label pharmacokinetic study in 6 cancer patients with Grade 3 mucositis, buprenorphine was absorbed more rapidly from BELBUCA resulting in a higher C max (~79%) and AUC (~56%) compared to age- and gender-matched healthy control patients [see Dosage and Administration (2.6), Warnings and Precautions (5.15)].

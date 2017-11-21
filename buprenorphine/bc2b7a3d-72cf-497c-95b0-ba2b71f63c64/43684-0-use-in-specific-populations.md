@@ -39,7 +39,7 @@ Data
 
 Animal Data
 
-The exposure margins listed below are based on body surface area comparisons (mg/m2) to MRHD of 1.8 mg buprenorphine via BELBUCA.
+The exposure margins listed below are based on body surface area comparisons (mg/m 2) to MRHD of 1.8 mg buprenorphine via BELBUCA.
 
 Following oral administration to rats no teratogenic effects were observed at buprenorphine doses up to 250 mg/kg/day (estimated exposure approximately 1351 times the MRHD of 1.8 mg).
 Following oral administration to rabbits, no teratogenic effects were observed at buprenorphine doses up to 40 mg/kg/day (estimated exposure approximately 432 times the MRHD of 1.8 mg).

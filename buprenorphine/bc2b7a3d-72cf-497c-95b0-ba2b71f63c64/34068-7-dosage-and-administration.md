@@ -9,7 +9,9 @@ BELBUCA should be prescribed only by healthcare professionals who are knowledgea
 - Monitor patients closely for respiratory depression, especially within the first 24-72 hours of initiating therapy and following dosage increases with BELBUCA and adjust the dosage accordingly [see Warnings and Precautions (5.2)].
 
 BELBUCA buccal film is for oral buccal use only and is to be applied to the buccal mucosa every 12 hours.
+BELBUCA buccal film is for oral buccal use only and is to be applied to the buccal mucosa every 12 hours.
 
+Instruct patients not to use BELBUCA if the pouch seal is broken or the buccal film is cut, damaged, or changed in any way and to avoid applying BELBUCA to areas of the mouth with any open sores or lesions.
 Instruct patients not to use BELBUCA if the pouch seal is broken or the buccal film is cut, damaged, or changed in any way and to avoid applying BELBUCA to areas of the mouth with any open sores or lesions.
 
 ## 2.2 Initial Dosing
@@ -116,4 +118,4 @@ To dispose of unused BELBUCA film:
 2. Drop the BELBUCA films into toilet and flush.
 3. Discard foil packaging in trash.
 
-Do not flush BELBUCA down the toilet in the foil packages or cartons [see Patient Counseling Information (17)].
+Do not flush BELBUCA down the toilet in the foil packages or cartons [s ee Patient Counseling Information (17)].

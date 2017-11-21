@@ -6,15 +6,24 @@ BELBUCA contains buprenorphine, a Schedule III controlled substance.
 As an opioid, BELBUCA exposes users to the risks of addiction, abuse, and misuse [see Drug Abuse and Dependence (9)].
 
 Although the risk of addiction in any individual is unknown, it can occur in patients appropriately prescribed BELBUCA.
+Addiction can occur at recommended dosages and if the drug is misused or abused.Although the risk of addiction in any individual is unknown, it can occur in patients appropriately prescribed BELBUCA.
 Addiction can occur at recommended dosages and if the drug is misused or abused.
 
 Assess each patient's risk for opioid addiction, abuse, or misuse prior to prescribing BELBUCA and monitor all patients receiving BELBUCA for the development of these behaviors and conditions.
 Risks are increased in patients with a personal or family history of substance abuse (including drug or alcohol abuse or addiction) or mental illness (e.g., major depression).
 The potential for these risks should not, however, prevent the proper management of pain in any given patient.
 Patients at increased risk may be prescribed opioids such as BELBUCA, but use in such patients necessitates intensive counseling about the risks and proper use of BELBUCA, along with intensive monitoring for signs of addiction, abuse, or misuse.
+Assess each patient's risk for opioid addiction, abuse, or misuse prior to prescribing BELBUCA and monitor all patients receiving BELBUCA for the development of these behaviors and conditions.
+Risks are increased in patients with a personal or family history of substance abuse (including drug or alcohol abuse or addiction) or mental illness (e.g., major depression).
+The potential for these risks should not, however, prevent the proper management of pain in any given patient.
+Patients at increased risk may be prescribed opioids such as BELBUCA, but use in such patients necessitates intensive counseling about the risks and proper use of BELBUCA, along with intensive monitoring for signs of addiction, abuse, or misuse.
 
-Abuse or misuse of BELBUCA by swallowing may cause choking, overdose, and death [see Overdosage (10)].
+Abuse or misuse of BELBUCA by swallowing may cause choking, overdose, and death Abuse or misuse of BELBUCA by swallowing may cause choking, overdose, and death [see Overdosage (10)].
 
+Opioids are sought by drug abusers and people with addiction disorders and are subject to criminal diversion.
+Consider these risks when prescribing or dispensing BELBUCA.
+Strategies to reduce the risk include prescribing the drug in the smallest appropriate quantity and advising the patient on the proper disposal of unused drug.
+Contact local state professional licensing board or state controlled substances authority for information on how to prevent and detect abuse or diversion of this product.
 Opioids are sought by drug abusers and people with addiction disorders and are subject to criminal diversion.
 Consider these risks when prescribing or dispensing BELBUCA.
 Strategies to reduce the risk include prescribing the drug in the smallest appropriate quantity and advising the patient on the proper disposal of unused drug [see Patient Counseling Information (17)].
@@ -25,7 +34,7 @@ Contact local state professional licensing board or state controlled substances 
 Serious, life-threatening, or fatal respiratory depression has been reported with the use of opioids, even when used as recommended.
 Respiratory depression, if not immediately recognized and treated, may lead to respiratory arrest and death.
 Management of respiratory depression may include close observation, supportive measures, and use of opioid antagonists, depending on the patient's clinical status [see Overdosage (10)].
-Carbon dioxide (CO2) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.
+Carbon dioxide (CO 2) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.
 
 While serious, life-threatening or fatal respiratory depression can occur at any time during the use of BELBUCA, the risk is greatest during initiation of therapy or following a dosage increase.
 Monitor patients closely for respiratory depression when initiating therapy with BELBUCA and following a dosage increases.
@@ -63,7 +72,7 @@ Screen patients for risk of substance use disorders, including opioid abuse and 
 
 The use of BELBUCA in patients with acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment is contraindicated.
 
-Patients with Chronic Pulmonary Disease:BELBUCA-treated patients with significant chronic obstructive pulmonary disease or cor pulmonale, and those with substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression are at increased risk of decreased respiratory drive, including apnea, even at recommended dosages of BELBUCA [see Warnings and Precautions (5.2)].
+Patients with Chronic Pulmonary Disease: BELBUCA-treated patients with significant chronic obstructive pulmonary disease or cor pulmonale, and those with substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression are at increased risk of decreased respiratory drive, including apnea, even at recommended dosages of BELBUCA [see Warnings and Precautions (5.2)].
 
 Elderly, Cachectic, or Debilitated Patients: Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients as they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients.
 
@@ -97,7 +106,7 @@ Avoid the use of BELBUCA in patients with circulatory shock.
 
 ## 5.9 Risks of Use in Patients with Increased Intracranial Pressure, Brain Tumors, Head Injury, or Impaired Consciousness
 
-In patients who may be susceptible to the intracranial effects of CO2 retention (e.g., those with evidence of increased intracranial pressure or brain tumors), BELBUCA may reduce respiratory drive, and the resultant CO2 retention can further increase intracranial pressure.
+In patients who may be susceptible to the intracranial effects of CO 2 retention (e.g., those with evidence of increased intracranial pressure or brain tumors), BELBUCA may reduce respiratory drive, and the resultant CO 2 retention can further increase intracranial pressure.
 Monitor such patients for signs of sedation and respiratory depression, particularly when initiating therapy with BELBUCA.
 
 Opioids may also obscure the clinical course in a patient with a head injury.

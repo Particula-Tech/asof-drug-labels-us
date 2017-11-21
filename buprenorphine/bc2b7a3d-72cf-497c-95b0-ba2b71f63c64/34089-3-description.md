@@ -7,7 +7,7 @@ The yellow side of the buccal film is applied to the inside of the cheek where i
 The chemical name of buprenorphine hydrochloride is 6,14-ethenomorphinan-7-methanol, 17-(cyclopropylmethyl)- α-(1,1-dimethylethyl)-4, 5-epoxy-18,19-dihydro-3-hydroxy-6-methoxy-α-methyl-, hydrochloride, [5α, 7α, (S)].
 The structural formula is:
 
-The molecular weight of buprenorphine hydrochloride is 504.10; the empirical formula is C29H41NO4∙HCl.
+The molecular weight of buprenorphine hydrochloride is 504.10; the empirical formula is C 29H 41NO 4∙HCl.
 Buprenorphine hydrochloride occurs as a white or off white crystalline powder.
 It is sparingly soluble in water, freely soluble in methanol, soluble in alcohol, and practically insoluble in cyclohexane.
 The pKa is 8.5 for the amine function and 10.0 for the phenol function.
@@ -18,7 +18,7 @@ Unique identifiers and film size for each strength are listed in Table 6.
 
 Table 6: BELBUCA Identifier & Size
 
-| Buprenorphine Strength (mcg) | BELBUCA Identifier | Film Size (cm2) |
+| Buprenorphine Strength (mcg) | BELBUCA Identifier | Film Size (cm 2) |
 | --- | --- | --- |
 | 75 | E0 | 1.215 |
 | 150 | E1 | 2.431 |
