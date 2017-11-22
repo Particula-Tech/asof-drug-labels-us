@@ -3,10 +3,10 @@
 The following serious adverse reactions are described below and elsewhere in labeling:
 
 - •Acute Interstitial Nephritis [see Warnings and Precautions (5.2)]
-- •Clostridium difficile Associated Diarrhea [see Warnings and Precautions (5.3)]
+- •Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.3)]
 - •Bone Fracture [see Warnings and Precautions (5.4)]
 - •Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.5)]
-- •Cyanocobalamin (Vitamin B-12) Deficiency [see Warnings and Precautions (5.6)]
+- •Cyanocobalamin (Vitamin B12) Deficiency [see Warnings and Precautions (5.6)]
 - •Hypomagnesemia [see Warnings and Precautions (5.7)]
 
 ## 6.1 Clinical Trials Experience
@@ -21,7 +21,7 @@ The following adverse reactions were reported by the treating physician to have 
 Table 1.
 Incidence of Possibly or Probably Treatment-Related Adverse Reactions in Short-Term, Placebo-Controlled Lansoprazole Studies
 
-| Body System/ Adverse Event | Lansoprazole | Placebo |
+| Body System/ Adverse Reaction | Lansoprazole | Placebo |
 | --- | --- | --- |
 | (N = 2768) | (N = 1023) |  |
 | % | % |  |
@@ -33,11 +33,11 @@ Incidence of Possibly or Probably Treatment-Related Adverse Reactions in Short-T
 | Nausea | 1.3 | 1.2 |
 
 Headache was also seen at greater than 1% incidence but was more common on placebo.
-The incidence of diarrhea was similar between patients who received placebo and patients who received 15 mg and 30 mg of lansoprazole, but higher in the patients who received 60 mg of lansoprazole (2.9%, 1.4%, 4.2%, and 7.4%, respectively).
+The incidence of diarrhea was similar between patients who received placebo and patients who received 15 and 30 mg of lansoprazole, but higher in the patients who received 60 mg of lansoprazole (2.9, 1.4, 4.2, and 7.4%, respectively).
 
 The most commonly reported possibly or probably treatment-related adverse event during maintenance therapy was diarrhea.
 
-In the risk reduction study of lansoprazole for NSAID-associated gastric ulcers, the incidence of diarrhea for patients treated with lansoprazole, misoprostol, and placebo was 5%, 22%, and 3%, respectively.
+In the risk reduction study of lansoprazole for NSAID-associated gastric ulcers, the incidence of diarrhea for patients treated with lansoprazole, misoprostol, and placebo was 5, 22, and 3%, respectively.
 
 Another study for the same indication, where patients took either a COX-2 inhibitor or lansoprazole and naproxen, demonstrated that the safety profile was similar to the prior study.
 Additional reactions from this study not previously observed in other clinical trials with lansoprazole included contusion, duodenitis, epigastric discomfort, esophageal disorder, fatigue, hunger, hiatal hernia, hoarseness, impaired gastric emptying, metaplasia, and renal impairment.
@@ -75,9 +75,9 @@ The majority of these cases are foreign-sourced and a relationship to lansoprazo
 Because these reactions were reported voluntarily from a population of unknown size, estimates of frequency cannot be made.
 These events are listed below by COSTART body system.
 
-Body as a Whole - anaphylactic/anaphylactoid reactions; systemic lupus erythematosus; Digestive System - hepatotoxicity, pancreatitis, vomiting; Hemic and Lymphatic System - agranulocytosis, aplastic anemia, hemolytic anemia, leukopenia, neutropenia, pancytopenia, thrombocytopenia, and thrombotic thrombocytopenic purpura; Infections and Infestations – Clostridium difficile associated diarrhea; Metabolism and Nutritional Disorders - hypomagnesemia; Musculoskeletal System - bone fracture, myositis; Skin and Appendages - severe dermatologic reactions including erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis (some fatal); cutaneous lupus erythematosus; Special Senses - speech disorder; Urogenital System - interstitial nephritis, urinary retention.
+Body as a Whole - anaphylactic/anaphylactoid reactions; systemic lupus erythematosus; Digestive System - hepatotoxicity, pancreatitis, vomiting; Hemic and Lymphatic System - agranulocytosis, aplastic anemia, hemolytic anemia, leukopenia, neutropenia, pancytopenia, thrombocytopenia, and thrombotic thrombocytopenic purpura; Infections and Infestations – Clostridium difficile-associated diarrhea; Metabolism and Nutritional Disorders - hypomagnesemia; Musculoskeletal System - bone fracture, myositis; Skin and Appendages - severe dermatologic reactions including erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis (some fatal); cutaneous lupus erythematosus; Special Senses - speech disorder; Urogenital System - interstitial nephritis, urinary retention.
 
-## 6.3 Combination Therapy With Amoxicillin and Clarithromycin
+## 6.3 Combination Therapy with Amoxicillin and Clarithromycin
 
 In clinical trials using combination therapy with lansoprazole plus amoxicillin and clarithromycin, and lansoprazole plus amoxicillin, no adverse reactions peculiar to these drug combinations were observed.
 Adverse reactions that have occurred have been limited to those that had been previously reported with lansoprazole, amoxicillin, or clarithromycin.
@@ -93,7 +93,7 @@ Dual Therapy: Lansoprazole/amoxicillin
 The most frequently reported adverse reactions for patients who received lansoprazole three times daily plus amoxicillin three times daily dual therapy were diarrhea (8%) and headache (7%).
 No treatment-emergent adverse reactions were observed at significantly higher rates with lansoprazole three times daily plus amoxicillin three times daily dual therapy than with lansoprazole alone.
 
-For information about adverse reactions with antibacterial agents (amoxicillin and clarithromycin) indicated in combination with lansoprazole delayed-release capsules, refer to the ADVERSE REACTIONS section of their prescribing information.
+For information about adverse reactions with antibacterial agents (amoxicillin and clarithromycin) indicated in combination with lansoprazole, refer to the Adverse Reactions section of their prescribing information.
 
 ## 6.4 Laboratory Values
 
@@ -108,4 +108,4 @@ None of these patients who received lansoprazole reported jaundice at any time d
 
 In clinical trials using combination therapy with lansoprazole plus amoxicillin and clarithromycin, and lansoprazole plus amoxicillin, no increased laboratory abnormalities particular to these drug combinations were observed.
 
-For information about laboratory value changes with antibacterial agents (amoxicillin and clarithromycin) indicated in combination with lansoprazole delayed-release capsules, refer to the ADVERSE REACTIONS section of their prescribing information.
+For information about laboratory value changes with antibacterial agents (amoxicillin and clarithromycin) indicated in combination with lansoprazole, refer to the Adverse Reactions section of their prescribing information.

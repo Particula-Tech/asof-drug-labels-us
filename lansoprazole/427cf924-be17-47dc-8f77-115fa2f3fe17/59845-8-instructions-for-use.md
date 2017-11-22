@@ -1,55 +1,60 @@
 # INSTRUCTIONS FOR USE
 
-Lansoprazole (lan-SOH-prə-zohl) Delayed-Release Capsules USP
+Lansoprazole (lan-SOH-prə-zohl) Delayed-Release Capsules USP, for oral use
 
-Lansoprazole Delayed-Release Capsules
+Important:
 
-- 
-  - •Swallow lansoprazole delayed-release capsules whole.
-    Do not crush or chew them.
-  - •You should take lansoprazole delayed-release capsules before eating.
-- •Lansoprazole Delayed-Release Capsules with certain food:
+- •Take lansoprazole delayed-release capsules before meals.
+- •Do not crush or chew lansoprazole delayed-release capsules.
+- •Lansoprazole delayed-release capsules should only be used with the foods and juices listed below.
 
-You can only use applesauce, ENSURE® pudding, cottage cheese, yogurt or strained pears.
+Lansoprazole delayed-release capsules
+
+Taking lansoprazole delayed-release capsules with certain foods:
+
+You can only use applesauce, ENSURE pudding, cottage cheese, yogurt or strained pears.
 
 1. 1.Open the capsule.
-2. 2.Sprinkle the granules on 1 tablespoon of either applesauce, ENSURE® pudding, cottage cheese, yogurt or strained pears.
+2. 2.Sprinkle the granules on 1 tablespoon of applesauce, ENSURE pudding, cottage cheese, yogurt or strained pears.
 3. 3.Swallow right away.
-4. •Lansoprazole Delayed-Release Capsules with certain juices:
+
+Taking lansoprazole delayed-release capsules with certain juices:
 
 You can only use apple juice, orange juice or tomato juice.
 
 1. 1.Open the capsule.
-2. 2.Sprinkle the granules into 60 mL (about ¼ cup) of either apple juice, orange juice or tomato juice.
+2. 2.Sprinkle the granules into 60 mL (about ¼ cup) of apple juice, orange juice or tomato juice.
 3. 3.Stir.
 4. 4.Swallow right away.
-5. 5.To make sure that the entire dose is taken, rinse the glass with 1/2 cup or more of juice to get out any leftover granules.
-   Swallow the juice right away.
+5. 5.To make sure that the entire dose is taken, add 1/2 cup or more of juice to the glass, stir and swallow right away.
 
-Lansoprazole Delayed-Release Capsules through a nasogastric tube (NG tube) 16 French or larger, as prescribed by your doctor:
+Giving lansoprazole delayed-release capsules through a nasogastric tube (NG tube) size 16 French or larger:
 
 You can only use apple juice.
 
-1. 1.Open the capsule and empty the granules into a syringe.
-2. 2.Do not break or crush the granules.
-3. 3.Mix with 40 mL of apple juice.
-   Do not use other liquids.
-4. 4.Attach the syringe to the NG tube and give the medicine in the syringe through the NG tube into the stomach.
-5. 5.After giving the granules, flush the NG tube with more apple juice to clear the tube.
-
-Lansoprazole delayed-release capsules should not be used in foods or liquids not listed above.
+1. 1.Place 40 mL of apple juice into a clean container.
+2. 2.Open the capsule and empty the granules into the container of apple juice.
+3. 3.Use a catheter-tip syringe to draw up the apple juice and granule mixture.
+4. 4.Gently mix the catheter-tip syringe to keep the granules from settling.
+5. 5.Attach the catheter-tip syringe to the NG tube.
+6. 6.Give the mixture right away through the NG tube that goes into the stomach.
+   Do not save the apple juice and granule mixture for later use.
+7. 7.Refill the catheter-tip syringe with 40 mL of apple juice and mix gently.
+   Flush the NG tube with apple juice.
 
 How should I store lansoprazole delayed-release capsules?
 
-- •Store lansoprazole delayed-release capsules at room temperature between 20° to 25°C (68° to 77°F).
+- •Store lansoprazole delayed-release capsules at room temperature between 68°F to 77°F (20°C to 25°C).
 
 Keep lansoprazole delayed-release capsules and all medicines out of the reach of children.
 
-All brand names listed are the registered trademarks of their respective owners and are not trademarks of Teva Pharmaceuticals USA, Inc.
-
 This Instruction for Use has been approved by the U.S. Food and Drug Administration.
 
-Manufactured For: TEVA PHARMACEUTICALS USA, INC. North Wales, PA 19454
+Manufactured For:
+
+Teva Pharmaceuticals USA, Inc.
+
+North Wales, PA 19454
 
 Rev.
-B 1/2015
+C 10/2017

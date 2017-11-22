@@ -1,26 +1,20 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-Lansoprazole delayed-release capsules are available in 15 mg and 30 mg strengths.
-Directions for use specific to the route and available methods of administration for this dosage form are presented below.
-Lansoprazole delayed-release capsules should be taken before eating.
-Lansoprazole delayed-release capsules SHOULD NOT BE CRUSHED OR CHEWED.
-In the clinical trials, antacids were used concomitantly.
-
-## 2.1 Recommended Dose
+## 2.1 Recommended Adult Dosage by Indication
 
 | Indication | Recommended Dose | Frequency |
 | --- | --- | --- |
 | Duodenal Ulcers |  |  |
 | Short-Term Treatment | 15 mg | Once daily for 4 weeks |
 | Maintenance of Healed | 15 mg | Once daily |
-| H. pylori Eradication to Reduce the Risk of Duodenal Ulcer RecurrencePlease refer to amoxicillin and clarithromycin full prescribing information for CONTRAINDICATIONS and WARNINGS, and for information regarding dosing in elderly and renally-impaired patients. |  |  |
+| Eradication of H. pylori to Reduce the Risk of Duodenal Ulcer RecurrencePlease refer to amoxicillin and clarithromycin full prescribing information, Contraindications and Warnings and Precautions sections, and for information regarding dosing in elderly and renally-impaired patients. |  |  |
 | Triple Therapy: |  |  |
-| Lansoprazole Delayed-Release Capsules | 30 mg | Twice daily (q12h) for 10 or 14 days |
-| Amoxicillin | 1 gram | Twice daily (q12h) for 10 or 14 days |
-| Clarithromycin | 500 mg | Twice daily (q12h) for 10 or 14 days |
+| Lansoprazole | 30 mg | Twice daily for 10 or 14 days |
+| Amoxicillin | 1 gram | Twice daily for 10 or 14 days |
+| Clarithromycin | 500 mg | Twice daily for 10 or 14 days |
 | Dual Therapy: |  |  |
-| Lansoprazole Delayed-Release Capsules | 30 mg | Three times daily (q8h) for 14 days |
-| Amoxicillin | 1 gram | Three times daily (q8h) for 14 days |
+| Lansoprazole | 30 mg | Three times daily for 14 days |
+| Amoxicillin | 1 gram | Three times daily for 14 days |
 | Benign Gastric Ulcer |  |  |
 | Short-Term Treatment | 30 mg | Once daily for up to 8 weeks |
 | NSAID-associated Gastric Ulcer |  |  |
@@ -29,52 +23,62 @@ In the clinical trials, antacids were used concomitantly.
 | Gastroesophageal Reflux Disease (GERD) |  |  |
 | Short-Term Treatment of Symptomatic GERD | 15 mg | Once daily for up to 8 weeks |
 | Short-Term Treatment of Erosive Esophagitis | 30 mg | Once daily for up to 8 weeksFor patients who do not heal with lansoprazole delayed-release capsules for eight weeks (5 to 10%), it may be helpful to give an additional eight weeks of treatment. If there is a recurrence of erosive esophagitis, an additional eight week course of lansoprazole delayed-release capsules may be considered. |
-| Pediatric |  |  |
-| (1 to 11 years of age) |  |  |
+| Maintenance of Healing of Erosive Esophagitis | 15 mg | Once dailyControlled studies did not extend beyond 12 months. |
+| Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome | 60 mg | Once dailyVaries with individual patient. Recommended adult starting dose is 60 mg once daily. Doses should be adjusted to individual patient needs and should continue for as long as clinically indicated. Dosages up to 90 mg twice daily have been administered. Daily dose of greater than 120 mg should be administered in divided doses. Some patients with Zollinger-Ellison syndrome have been treated continuously with lansoprazole for more than four years. |
+
+## 2.2 Recommended Pediatric Dosage by Indication
+
+| Indication | Recommended Dose | Frequency |
+| --- | --- | --- |
+| Pediatric (1 to 11 years of age) |  |  |
 | Short-Term Treatment of Symptomatic GERD and Short-Term Treatment of Erosive Esophagitis |  |  |
 | ≤ 30 kg | 15 mg | Once daily for up to 12 weeksThe lansoprazole dose was increased (up to 30 mg twice daily) in some pediatric patients after two or more weeks of treatment if they remained symptomatic. For pediatric patients unable to swallow an intact capsule please see Administration Options. |
 | > 30 kg | 30 mg | Once daily for up to 12 weeks |
-| (12 to 17 years of age) |  |  |
+
+| Indication | Recommended Dose | Frequency |
+| --- | --- | --- |
+| Pediatric (12 to 17 years of age) |  |  |
 | Short-Term Treatment of Symptomatic GERD |  |  |
-| Nonerosive GERD | 15 mg | Once daily for up to 8 weeks |
+| Non-erosive GERD | 15 mg | Once daily for up to 8 weeks |
 | Erosive Esophagitis | 30 mg | Once daily for up to 8 weeks |
-| Maintenance of Healing of Erosive Esophagitis | 15 mg | Once dailyControlled studies did not extend beyond 12 months. |
-| Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome | 60 mg | Once dailyVaries with individual patient. Recommended adult starting dose is 60 mg once daily. Doses should be adjusted to individual patient needs and should continue for as long as clinically indicated. Dosages up to 90 mg twice daily have been administered. Daily dose of greater than 120 mg should be administered in divided doses. Some patients with Zollinger-Ellison Syndrome have been treated continuously with lansoprazole for more than four years. |
 
-Patients should be instructed that if a dose is missed, it should be taken as soon as possible.
-However, if the next scheduled dose is due, the patient should not take the missed dose, and should be instructed to take the next dose on time.
-Patients should be instructed not to take two doses at one time to make up for a missed dose.
+## 2.3 Hepatic Impairment
 
-## 2.2 Special Populations
+The recommended dosage is 15 mg orally daily in patients with severe liver impairment (Child-Pugh C) [see Use in Specific Populations (8.6)].
 
-Renal impairment patients and geriatric patients do not require dosage adjustment.
-However, consider dose adjustment in patients with severe liver impairment [see Use in Specific Populations (8.5, 8.6 and 8.7)].
+## 2.4 Important Administration Information
 
-## 2.3 Important Administration Information
+- •Take lansoprazole delayed-release capsules before meals.
+- •Do not crush or chew lansoprazole delayed-release capsules.
+- •Take lansoprazole delayed-release capsules at least 30 minutes prior to sucralfate [see Drug Interactions (7)].
+- •Antacids may be used concomitantly with lansoprazole delayed-release capsules.
+- •Missed doses: If a dose is missed, administer as soon as possible.
+  However, if the next scheduled dose is due, do not take the missed dose, and take the next dose on time.
+  Do not take two doses at one time to make up for a missed dose.
+- Lansoprazole Delayed-Release Capsules
+- •Swallow whole; do not chew.
+- •For patients who have difficulty swallowing capsules, lansoprazole delayed-release capsules can be opened and administered orally or via a nasogastric tube in the soft foods or liquids specified below.
+- •Administration of lansoprazole delayed-release capsules in foods or liquids other than those discussed below have not been studied clinically and therefore are not recommended.
 
-Administration Options
+Administration in Soft Foods (applesauce, ENSURE pudding, cottage cheese, yogurt or strained pears):
 
-Lansoprazole Delayed-Release Capsules - Oral Administration
+1. 1.Open capsule.
+2. 2.Sprinkle intact granules on one tablespoon of either applesauce, ENSURE pudding, cottage cheese, yogurt or strained pears.
+3. 3.Swallow immediately.
 
-- •Lansoprazole delayed-release capsules should be swallowed whole.
-- •Alternatively, for patients who have difficulty swallowing capsules, lansoprazole delayed-release capsules can be opened and administered as follows:
-  - •Open capsule.
-  - •Sprinkle intact granules on one tablespoon of either applesauce, ENSURE® pudding, cottage cheese, yogurt or strained pears.
-  - •Swallow immediately.
-- •Lansoprazole delayed-release capsules may also be emptied into a small volume of either apple juice, orange juice or tomato juice and administered as follows:
-  - •Open capsule.
-  - •Sprinkle intact granules into a small volume of either apple juice, orange juice or tomato juice (60 mL - approximately two ounces).
-  - •Mix briefly.
-  - •Swallow immediately.
-  - •To ensure complete delivery of the dose, the glass should be rinsed with two or more volumes of juice and the contents swallowed immediately.
+Administration in Liquids (apple juice, orange juice or tomato juice):
 
-Lansoprazole Delayed-Release Capsules - Nasogastric Tube (≥ 16 French) Administration
+1. 1.Open capsule.
+2. 2.Sprinkle intact granules into a small volume of either apple juice, orange juice or tomato juice (60 mL – approximately two ounces).
+3. 3.Mix briefly.
+4. 4.Swallow immediately.
+5. 5.To ensure complete delivery of the dose, rinse the glass with two or more volumes of juice and swallow the contents immediately.
 
-- •For patients who have a nasogastric tube in place, lansoprazole delayed-release capsules can be administered as follows:
-  - •Open capsule.
-  - •Mix intact granules into 40 mL of apple juice.
-    DO NOT USE OTHER LIQUIDS.
-  - •Inject through the nasogastric tube into the stomach.
-  - •Flush with additional apple juice to clear the tube.
+Administration with Apple Juice Through a Nasogastric Tube (≥ 16 French)
 
-USE IN OTHER FOODS AND LIQUIDS HAS NOT BEEN STUDIED CLINICALLY AND IS THEREFORE NOT RECOMMENDED.
+1. 1.Open capsule.
+2. 2.Sprinkle intact granules into 40 mL of apple juice.
+3. 3.Mix briefly.
+4. 4.Using a catheter tipped syringe, draw up the mixture.
+5. 5.Inject through the nasogastric tube into the stomach.
+6. 6.Flush with additional apple juice to clear the tube.
