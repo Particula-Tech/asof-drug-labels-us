@@ -11,34 +11,32 @@ Patients were randomized to receive Plavix (300-mg loading dose followed by 75 m
 Patients also received aspirin (75–325 mg once daily) and other standard therapies such as heparin.
 The use of GPIIb/IIIa inhibitors was not permitted for three days prior to randomization.
 
-The patient population was largely White (82%) and included 38% women, and 52% age ≥ 65 years of age.
+The patient population was largely White (82%) and included 38% women, and 52% age ≥65 years of age.
 Only about 20% of patients underwent revascularization during the initial hospitalization and few underwent emergent or urgent revascularization.
 
-The number of patients experiencing the primary outcome (CV death, MI, or stroke) was 582 (9.3%) in the Plavix-treated group and 719 (11.4%) in the placebo-treated group, a 20% relative risk reduction (95% CI of 10%–28%; p < 0.001) for the Plavix-treated group (see Table 4).
+The number of patients experiencing the primary outcome (CV death, MI, or stroke) was 582 (9.3%) in the Plavix-treated group and 719 (11.4%) in the placebo-treated group, a 20% relative risk reduction (95% CI of 10%–28%; p <0.001) for the Plavix-treated group (see Table 4).
 
 Table 4: Outcome Events in the CURE Primary Analysis
 
 |  | (n=6259) | (n=6303) |  |
 | --- | --- | --- | --- |
 | Outcome | Plavix (+ aspirin)Other standard therapies were used as appropriate. | Placebo (+ aspirin) | Relative Risk Reduction (%) (95% CI) |
-| Primary outcome (Cardiovascular death, MI, stroke) | 582 (9.3%) | 719 (11.4%) | 20% (10.3, 27.9) p < 0.001 |
-| All Individual Outcome Events:The individual components do not represent a breakdown of the primary and co-primary outcomes, but rather the total number of subjects experiencing an event during the course of the study. |  |  |  |
+| Primary outcome (Cardiovascular death, MI, stroke) | 582 (9.3%) | 719 (11.4%) | 20% (10.3, 27.9) p <0.001 |
+| All Individual Outcome Events:The individual components do not represent a breakdown of the primary and coprimary outcomes, but rather the total number of subjects experiencing an event during the course of the study. |  |  |  |
 | CV death | 318 (5.1%) | 345 (5.5%) | 7% (-7.7, 20.6) |
 | MI | 324 (5.2%) | 419 (6.6%) | 23% (11.0, 33.4) |
 | Stroke | 75 (1.2%) | 87 (1.4%) | 14% (-17.7, 36.6) |
 
 Most of the benefit of Plavix occurred in the first two months, but the difference from placebo was maintained throughout the course of the trial (up to 12 months) (see Figure 2).
 
-| Figure 2: Cardiovascular Death, Myocardial Infarction, and Stroke in the CURE Study |
-| --- |
+Figure 2: Cardiovascular Death, Myocardial Infarction, and Stroke in the CURE Study
 
 The effect of Plavix did not differ significantly in various subgroups, as shown in Figure 3.
-The benefits associated with Plavix were independent of the use of other acute and long-term cardiovascular therapies, including heparin/LMWH, intravenous glycoprotein IIb/IIIa (GPIIb/IIIa) inhibitors, lipid-lowering drugs, beta-blockers, and ACE-inhibitors.
+The benefits associated with Plavix were independent of the use of other acute and long-term cardiovascular therapies, including heparin/LMWH, intravenous glycoprotein IIb/IIIa (GPIIb/IIIa) inhibitors, lipid-lowering drugs, beta-blockers, and ACE inhibitors.
 The efficacy of Plavix was observed independently of the dose of aspirin (75–325 mg once daily).
-The use of oral anticoagulants, non-study antiplatelet drugs, and chronic NSAIDs was not allowed in CURE.
+The use of oral anticoagulants, nonstudy antiplatelet drugs, and chronic NSAIDs was not allowed in CURE.
 
-| Figure 3: Hazard Ratio for Patient Baseline Characteristics and On-Study Concomitant Medications/Interventions for the CURE Study |
-| --- |
+Figure 3: Hazard Ratio for Patient Baseline Characteristics and On-Study Concomitant Medications/Interventions for the CURE Study
 
 The use of Plavix in CURE was associated with a decrease in the use of thrombolytic therapy (71 patients [1.1%] in the Plavix group, 126 patients [2.0%] in the placebo group; relative risk reduction of 43%), and GPIIb/IIIa inhibitors (369 patients [5.9%] in the Plavix group, 454 patients [7.2%] in the placebo group, relative risk reduction of 18%).
 The use of Plavix in CURE did not affect the number of patients treated with CABG or PCI (with or without stenting), (2253 patients [36.0%] in the Plavix group, 2324 patients [36.9%] in the placebo group; relative risk reduction of 4.0%).
@@ -51,7 +49,7 @@ Patients were randomized to receive Plavix (75 mg once daily) or placebo, in com
 
 The primary endpoints were death from any cause and the first occurrence of re-infarction, stroke or death.
 
-The patient population was 28% women and 58% age ≥ 60 years (26% age ≥ 70 years).
+The patient population was 28% women and 58% age ≥60 years (26% age ≥70 years).
 Fifty-five percent (55%) of patients received thrombolytics and only 3% underwent PCI.
 
 As shown in Table 5 and Figure 4 and Figure 5 below, Plavix significantly reduced the relative risk of death from any cause by 7% (p=0.029), and the relative risk of the combination of re-infarction, stroke or death by 9% (p=0.002).
@@ -60,10 +58,10 @@ Table 5: Outcome Events in COMMIT
 
 | Event | Plavix (+ aspirin) (N=22961) | Placebo (+ aspirin) (N=22891) | Odds ratio (95% CI) | p-value |
 | --- | --- | --- | --- | --- |
-| Composite endpoint: Death, MI, or Stroke9 patients (2 clopidogrel and 7 placebo) suffered both a non-fatal stroke and a non-fatal MI. | 2121 (9.2%) | 2310 (10.1%) | 0.91 (0.86, 0.97) | 0.002 |
+| Composite endpoint: Death, MI, or Stroke9 patients (2 clopidogrel and 7 placebo) suffered both a nonfatal stroke and a nonfatal MI. | 2121 (9.2%) | 2310 (10.1%) | 0.91 (0.86, 0.97) | 0.002 |
 | Death | 1726 (7.5%) | 1845 (8.1%) | 0.93 (0.87, 0.99) | 0.029 |
-| Non-fatal MINon-fatal MI and non-fatal stroke exclude patients who died (of any cause). | 270 (1.2%) | 330 (1.4%) | 0.81 (0.69, 0.95) | 0.011 |
-| Non-fatal Stroke | 127 (0.6%) | 142 (0.6%) | 0.89 (0.70, 1.13) | 0.33 |
+| Nonfatal MINonfatal MI and nonfatal stroke exclude patients who died (of any cause). | 270 (1.2%) | 330 (1.4%) | 0.81 (0.69, 0.95) | 0.011 |
+| Nonfatal Stroke | 127 (0.6%) | 142 (0.6%) | 0.89 (0.70, 1.13) | 0.33 |
 
 | Figure 4: Cumulative Event Rates for Death in the COMMIT StudyAll treated patients received aspirin. |
 | --- |
@@ -71,13 +69,13 @@ Table 5: Outcome Events in COMMIT
 | Figure 5: Cumulative Event Rates for the Combined Endpoint Re-Infarction, Stroke or Death in the COMMIT Study All treated patients received aspirin. |
 | --- |
 
-The effect of Plavix did not differ significantly in various pre-specified subgroups as shown in Figure 6.
+The effect of Plavix did not differ significantly in various prespecified subgroups as shown in Figure 6.
 The effect was also similar in non-prespecified subgroups including those based on infarct location, Killip class or prior MI history.
 Such subgroup analyses should be interpreted cautiously.
 
-| Figure 6: Effects of Adding Plavix to Aspirin on the Combined Primary Endpoint across Baseline and Concomitant Medication Subgroups for the COMMIT Study |
-| --- |
-| * CI is 95% for Overall row only |
+Figure 6: Effects of Adding Plavix to Aspirin on the Combined Primary Endpoint across Baseline and Concomitant Medication Subgroups for the COMMIT Study
+
+* CI is 95% for Overall row only
 
 ## 14.2 Recent Myocardial Infarction, Recent Stroke, or Established Peripheral Arterial Disease
 
@@ -92,24 +90,22 @@ Deaths not easily attributable to nonvascular causes were all classified as vasc
 
 Table 6: Outcome Events in the CAPRIE Primary Analysis
 
-| Patients | n=9599 | n=9586 |
+| Patients | Plavix n=9599 | Aspirin n=9586 |
 | --- | --- | --- |
-|  | Plavix | aspirin |
 | Ischemic stroke (fatal or not) | 438 (4.6%) | 461 (4.8%) |
 | MI (fatal or not) | 275 (2.9%) | 333 (3.5%) |
 | Other vascular death | 226 (2.4%) | 226 (2.4%) |
 | Total | 939 (9.8%) | 1020 (10.6%) |
 
 As shown in Table 6, Plavix was associated with a lower incidence of outcome events, primarily MI.
-The overall relative risk reduction (9.8% vs. 10.6%) was 8.7%, p=0.045.
+The overall relative risk reduction (9.8% vs 10.6%) was 8.7%, p=0.045.
 Similar results were obtained when all-cause mortality and all-cause strokes were counted instead of vascular mortality and ischemic strokes (risk reduction 6.9%).
 In patients who survived an on-study stroke or myocardial infarction, the incidence of subsequent events was lower in the Plavix group.
 
 The curves showing the overall event rate are shown in Figure 7.
 The event curves separated early and continued to diverge over the 3-year follow-up period.
 
-| Figure 7: Fatal or Non-Fatal Vascular Events in the CAPRIE Study |
-| --- |
+Figure 7: Fatal or Nonfatal Vascular Events in the CAPRIE Study
 
 The statistical significance favoring Plavix over aspirin was marginal (p=0.045).
 However, because aspirin is itself effective in reducing cardiovascular events in patients with recent myocardial infarction or stroke, the effect of Plavix is substantial.
@@ -120,8 +116,7 @@ Nonetheless this difference may be a chance occurrence because the CAPRIE trial 
 The benefit was most apparent in patients who were enrolled because of peripheral arterial disease and less apparent in stroke patients.
 In patients who were enrolled in the trial on the sole basis of a recent myocardial infarction, Plavix was not numerically superior to aspirin.
 
-| Figure 8: Hazard Ratio and 95% CI by Baseline Subgroups in the CAPRIE Study |
-| --- |
+Figure 8: Hazard Ratio and 95% CI by Baseline Subgroups in the CAPRIE Study
 
 ## 14.3 No Demonstrated Benefit of Plavix plus Aspirin in Patients with Multiple Risk Factors or Established Vascular Disease
 

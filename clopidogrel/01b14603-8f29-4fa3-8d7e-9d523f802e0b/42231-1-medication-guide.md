@@ -170,7 +170,7 @@ Active ingredient: clopidogrel bisulfate
 
 Inactive ingredients:
 
-Tablet: hydrogenated castor oil, hydroxypropylcellulose, mannitol, microcrystalline cellulose, polyethylene glycol 6000
+Tablet: hydrogenated castor oil, hydroxypropyl cellulose, mannitol, microcrystalline cellulose, polyethylene glycol 6000
 
 Film coating: ferric oxide, hypromellose 2910, lactose monohydrate, titanium dioxide, triacetin, Carnauba wax
 

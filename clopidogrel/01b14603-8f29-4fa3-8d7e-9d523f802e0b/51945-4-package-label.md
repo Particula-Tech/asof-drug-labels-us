@@ -1,4 +1,4 @@
-PRINCIPAL DISPLAY PANEL - 75 mg 500 Tablet Bottle Label
+# PRINCIPAL DISPLAY PANEL - 75 mg 500 Tablet Bottle Label
 
 List: No. 1171-50
 

@@ -12,7 +12,7 @@ Advise patients that they:
 
 - will bruise and bleed more easily
 - will take longer than usual to stop bleeding
-- must report any unanticipated, prolonged, or excessive bleeding, or blood in their stool or urine [see Warnings and Precautions (5.2)].
+- must report any unanticipated, prolonged, or excessive bleeding, or blood in their stool or urine [see Warnings and Precautions (5.2)]
 
 Thrombotic Thrombocytopenic Purpura
 
