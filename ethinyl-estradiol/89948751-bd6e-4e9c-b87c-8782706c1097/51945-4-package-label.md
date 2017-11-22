@@ -1,13 +1,17 @@
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
-Norethindrone Acetate and Ethinyl Estradiol Tablets USP, 1 mg /0.02 mg
-
-An oral contraceptive
-
 NDC 0378-7280-53
 
-Carton x 3 pouches each containing 21 tablets
+Rx only
 
-NDC 0378-7280-98
+Norethindrone Acetate and
 
-Carton x 5 pouches each containing 21 tablets
+Ethinyl Estradiol Tablets, USP
+
+1 mg/0.02 mg
+
+This product (like all oral contraceptives) is intended to prevent pregnancy.
+
+It does not protect against HIV infection (AIDS) and other sexually transmitted diseases.
+
+3 pouches, each pouch contains one blister pack of 21 tablets

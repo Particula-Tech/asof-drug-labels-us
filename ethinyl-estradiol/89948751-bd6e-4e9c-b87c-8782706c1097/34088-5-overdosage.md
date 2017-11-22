@@ -9,18 +9,18 @@ The following non-contraceptive health benefits related to the use of oral contr
 
 Effects on menses:
 
-- Increased menstrual cycle regularity.
-- Decreased blood loss and decreased incidence of iron deficiency anemia.
-- Decreased incidence of dysmenorrhea.
+- •Increased menstrual cycle regularity.
+- •Decreased blood loss and decreased incidence of iron deficiency anemia.
+- •Decreased incidence of dysmenorrhea.
 
 Effects related to inhibition of ovulation:
 
-- Decreased incidence of functional ovarian cysts.
-- Decreased incidence of ectopic pregnancies.
+- •Decreased incidence of functional ovarian cysts.
+- •Decreased incidence of ectopic pregnancies.
 
 Effects from long-term use:
 
-- Decreased incidence of fibroadenomas and fibrocystic disease of the breast.
-- Decreased incidence of acute pelvic inflammatory disease.
-- Decreased incidence of endometrial cancer.
-- Decreased incidence of ovarian cancer
+- •Decreased incidence of fibroadenomas and fibrocystic disease of the breast.
+- •Decreased incidence of acute pelvic inflammatory disease.
+- •Decreased incidence of endometrial cancer.
+- •Decreased incidence of ovarian cancer

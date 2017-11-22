@@ -16,9 +16,9 @@ For the majority of women, oral contraceptives can be taken safely.
 But there are some women who are at high risk of developing certain serious diseases that can be life-threatening or may cause temporary or permanent disability.
 The risks associated with taking oral contraceptives increase significantly if you:
 
-- Smoke
-- Have high blood pressure, diabetes, high cholesterol
-- Have or have had clotting disorders, heart attack, stroke, angina pectoris, cancer of the breast or sex organs, jaundice, or malignant or benign liver tumors.
+- •Smoke
+- •Have high blood pressure, diabetes, high cholesterol
+- •Have or have had clotting disorders, heart attack, stroke, angina pectoris, cancer of the breast or sex organs, jaundice, or malignant or benign liver tumors.
 
 You should not take the pill if you suspect you are pregnant or have unexplained vaginal bleeding.
 
@@ -66,12 +66,12 @@ INSTRUCTIONS TO PATIENT
 
 TABLET BLISTER PACK
 
-The norethindrone acetate and ethinyl estradiol tablet, USP blister pack has been designed to make oral contraceptive dosing as easy and as convenient as possible.
+The norethindrone acetate and ethinyl estradiol tablet blister pack has been designed to make oral contraceptive dosing as easy and as convenient as possible.
 The tablets are arranged in three rows of seven tablets each, with the days of the week appearing on the tablet blister pack above the first row of tablets.
 
 | If your TABLET BLISTER PACK contains: | You are taking: |
 | --- | --- |
-| 21 white to off-white tablets | Norethindrone Acetate and Ethinyl Estradiol Tablets USP, 1 mg/0.02 mg |
+| 21 white to off-white tablets | Norethindrone acetate and ethinyl estradiol tablets, 1 mg/0.02 mg |
 
 Each white to off-white tablet contains 1 mg norethindrone acetate and 0.02 mg ethinyl estradiol.
 
@@ -143,7 +143,7 @@ ALSO FIND:
 
 3) the week numbers as shown in the following picture:
 
-Norethindrone Acetate and Ethinyl Estradiol Tablets USP, 1 mg/0.02 mg contain: ALL WHITE TO OFF-WHITE PILLS.
+Norethindrone acetate and ethinyl estradiol tablets, 1 mg/0.02 mg contain: ALL WHITE TO OFF-WHITE PILLS.
 
 4.
 BE SURE YOU HAVE READY AT ALL TIMES:
@@ -314,15 +314,17 @@ For example, you should not take the pill if you are pregnant or think you may b
 
 You should also not use the pill if you have any of the following conditions:
 
-- A history of heart attack or stroke
-- Blood clots in the legs (thrombophlebitis), lungs (pulmonary embolism), or eyes
-- A history of blood clots in the deep veins of your legs
-- Chest pain (angina pectoris)
-- Known or suspected breast cancer or cancer of the lining of the uterus, cervix or vagina
-- Unexplained vaginal bleeding (until a diagnosis is reached by your doctor)
-- Yellowing of the whites of the eyes or of the skin (jaundice) during pregnancy or during previous use of the pill
-- Liver tumor (benign or cancerous)
-- Known or suspected pregnancy
+- •A history of heart attack or stroke
+- •Blood clots in the legs (thrombophlebitis), lungs (pulmonary embolism), or eyes
+- •A history of blood clots in the deep veins of your legs
+- •Chest pain (angina pectoris)
+- •Known or suspected breast cancer or cancer of the lining of the uterus, cervix or vagina
+- •Unexplained vaginal bleeding (until a diagnosis is reached by your doctor)
+- •Yellowing of the whites of the eyes or of the skin (jaundice) during pregnancy or during previous use of the pill
+- •Liver tumor (benign or cancerous)
+- •Take any Hepatitis C drug combination containing ombitasvir/paritaprevir/ritonavir, with or without dasabuvir.
+  This may increase levels of the liver enzyme “alanine aminotransferase” (ALT) in the blood.
+- •Known or suspected pregnancy
 
 Tell your healthcare provider if you have ever had any of these conditions.
 Your healthcare provider can recommend a safer method of birth control.
@@ -331,14 +333,14 @@ OTHER CONSIDERATIONS BEFORE TAKING ORAL CONTRACEPTIVES
 
 Tell your healthcare provider if you have:
 
-- Breast nodules, fibrocystic disease of the breast, an abnormal breast x-ray or mammogram
-- Diabetes
-- Elevated cholesterol or triglycerides
-- High blood pressure
-- Migraine or other headaches or epilepsy
-- Mental depression
-- Gallbladder, heart, or kidney disease
-- History of scanty or irregular menstrual periods
+- •Breast nodules, fibrocystic disease of the breast, an abnormal breast x-ray or mammogram
+- •Diabetes
+- •Elevated cholesterol or triglycerides
+- •High blood pressure
+- •Migraine or other headaches or epilepsy
+- •Mental depression
+- •Gallbladder, heart, or kidney disease
+- •History of scanty or irregular menstrual periods
 
 Women with any of these conditions should be checked often by their healthcare provider if they choose to use oral contraceptives.
 
@@ -402,10 +404,10 @@ ANNUAL NUMBER OF BIRTH-RELATED OR METHOD-RELATED DEATHS ASSOCIATED WITH CONTROL 
 
 | Method of control and outcome | 15 to 19 | 20 to 24 | 25 to 29 | 30 to 34 | 35 to 39 | 40 to 44 |
 | --- | --- | --- | --- | --- | --- | --- |
-| No fertility control methods* | 7 | 7.4 | 9.1 | 14.8 | 25.7 | 28.2 |
+| No fertility control methods | 7.0 | 7.4 | 9.1 | 14.8 | 25.7 | 28.2 |
 | Oral contraceptives non-smoker** | 0.3 | 0.5 | 0.9 | 1.9 | 13.8 | 31.6 |
 | Oral contraceptives smoker** | 2.2 | 3.4 | 6.6 | 13.5 | 51.1 | 117.2 |
-| IUD** | 0.8 | 0.8 | 1 | 1 | 1.4 | 1.4 |
+| IUD** | 0.8 | 0.8 | 1.0 | 1.0 | 1.4 | 1.4 |
 | Condom* | 1.1 | 1.6 | 0.7 | 0.2 | 0.3 | 0.4 |
 | Diaphragm/ spermicide* | 1.9 | 1.2 | 1.2 | 1.3 | 2.2 | 2.8 |
 | Periodic abstinence* | 2.5 | 1.6 | 1.6 | 1.7 | 2.9 | 3.6 |
@@ -428,15 +430,15 @@ WARNING SIGNALS
 
 If any of these adverse effects occur while you are taking oral contraceptives, call your doctor immediately:
 
-- Sharp chest pain, coughing of blood, or sudden shortness of breath (indicating a possible clot in the lung)
-- Pain in the calf (indicating a possible clot in the leg)
-- Crushing chest pain or heaviness in the chest (indicating a possible heart attack)
-- Sudden severe headache or vomiting, dizziness or fainting, disturbances of vision or speech, weakness, or numbness in an arm or leg (indicating a possible stroke)
-- Sudden partial or complete loss of vision (indicating a possible clot in the eye)
-- Breast lumps (indicating possible breast cancer or fibrocystic disease of the breast; ask your doctor or healthcare provider to show you how to examine your breasts)
-- Severe pain or tenderness in the stomach area (indicating a possibly ruptured liver tumor)
-- Difficulty in sleeping, weakness, lack of energy, fatigue, or change in mood (possibly indicating severe depression)
-- Jaundice or a yellowing of the skin or eyeballs, accompanied frequently by fever, fatigue, loss of appetite, dark colored urine, or light colored bowel movements (indicating possible liver problems)
+- •Sharp chest pain, coughing of blood, or sudden shortness of breath (indicating a possible clot in the lung)
+- •Pain in the calf (indicating a possible clot in the leg)
+- •Crushing chest pain or heaviness in the chest (indicating a possible heart attack)
+- •Sudden severe headache or vomiting, dizziness or fainting, disturbances of vision or speech, weakness, or numbness in an arm or leg (indicating a possible stroke)
+- •Sudden partial or complete loss of vision (indicating a possible clot in the eye)
+- •Breast lumps (indicating possible breast cancer or fibrocystic disease of the breast; ask your doctor or healthcare provider to show you how to examine your breasts)
+- •Severe pain or tenderness in the stomach area (indicating a possibly ruptured liver tumor)
+- •Difficulty in sleeping, weakness, lack of energy, fatigue, or change in mood (possibly indicating severe depression)
+- •Jaundice or a yellowing of the skin or eyeballs, accompanied frequently by fever, fatigue, loss of appetite, dark colored urine, or light colored bowel movements (indicating possible liver problems)
 
 SIDE EFFECTS OF ORAL CONTRACEPTIVES
 
@@ -525,12 +527,12 @@ INSTRUCTIONS TO PATIENT
 
 TABLET BLISTER PACK
 
-The norethindrone acetate and ethinyl estradiol tablet, USP blister pack has been designed to make oral contraceptive dosing as easy and as convenient as possible.
+The norethindrone acetate and ethinyl estradiol tablet, blister pack has been designed to make oral contraceptive dosing as easy and as convenient as possible.
 The tablets are arranged in three rows of seven tablets each, with the days of the week appearing on the tablet blister pack above the first row of tablets.
 
 | If your TABLET BLISTER PACK contains: | You are taking: |
 | --- | --- |
-| 21 white to off-white tablets | Norethindrone Acetate and Ethinyl Estradiol Tablets USP, 1 mg/0.02 mg |
+| 21 white to off-white tablets | Norethindrone acetate and ethinyl estradiol tablets, 1 mg/0.02 mg |
 
 Each white to off-white tablet contains 1 mg norethindrone acetate and 0.02 mg ethinyl estradiol.
 
@@ -602,7 +604,7 @@ ALSO FIND:
 
 3) the week numbers as shown in the following picture:
 
-Norethindrone Acetate and Ethinyl Estradiol Tablets USP, 1 mg/0.02 mg will contain: ALL WHITE TO OFF-WHITE PILLS.
+Norethindrone acetate and ethinyl estradiol tablets, 1 mg/0.02 mg will contain: ALL WHITE TO OFF-WHITE PILLS.
 
 4.
 BE SURE YOU HAVE READY AT ALL TIMES:
@@ -762,14 +764,14 @@ HEALTH BENEFITS FROM ORAL CONTRACEPTIVES
 In addition to preventing pregnancy, use of oral contraceptives may provide certain benefits.
 They are:
 
-- Menstrual cycles may become more regular.
-- Blood flow during menstruation may be lighter and less iron may be lost.
+- •Menstrual cycles may become more regular.
+- •Blood flow during menstruation may be lighter and less iron may be lost.
   Therefore, anemia due to iron deficiency is less likely to occur.
-- Pain or other symptoms during menstruation may be encountered less frequently.
-- Ectopic (tubal) pregnancy may occur less frequently.
-- Noncancerous cysts or lumps in the breast may occur less frequently.
-- Acute pelvic inflammatory disease may occur less frequently.
-- Oral contraceptive use may provide some protection against developing two forms of cancer: cancer of the ovaries and cancer of the lining of the uterus.
+- •Pain or other symptoms during menstruation may be encountered less frequently.
+- •Ectopic (tubal) pregnancy may occur less frequently.
+- •Noncancerous cysts or lumps in the breast may occur less frequently.
+- •Acute pelvic inflammatory disease may occur less frequently.
+- •Oral contraceptive use may provide some protection against developing two forms of cancer: cancer of the ovaries and cancer of the lining of the uterus.
 
 If you want more information about birth control pills, ask your doctor or pharmacist.
 They have a more technical leaflet called the "Physician Insert", which you may wish to read.
@@ -803,12 +805,14 @@ Morgantown, WV 26505 U.S.A.
 
 Manufactured by:
 
-Famy Care Limited
+Mylan Laboratories Limited
 
-Ahmedabad - 382 213, Gujarat, India
+Ahmedabad - 382 213, India
 
-200004554
+Code No.: GUJ-DRUGS/G/28/1297
 
-FC:OT:7280:R1
+200013000-001
 
-JULY 2013
+Revised: 9/2017
+
+FC:OT:7280:R4

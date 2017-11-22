@@ -102,10 +102,10 @@ TABLE III: ANNUAL NUMBER OF BIRTH-RELATED OR METHOD-RELATED DEATHS ASSOCIATED WI
 
 | Method of control and outcome | 15 to 19 | 20 to 24 | 25 to 29 | 30 to 34 | 35 to 39 | 40 to 44 |
 | --- | --- | --- | --- | --- | --- | --- |
-| No fertility control methods* | 7 | 7.4 | 9.1 | 14.8 | 25.7 | 28.2 |
+| No fertility control methods | 7.0 | 7.4 | 9.1 | 14.8 | 25.7 | 28.2 |
 | Oral contraceptives non-smoker** | 0.3 | 0.5 | 0.9 | 1.9 | 13.8 | 31.6 |
 | Oral contraceptives smoker** | 2.2 | 3.4 | 6.6 | 13.5 | 51.1 | 117.2 |
-| IUD** | 0.8 | 0.8 | 1 | 1 | 1.4 | 1.4 |
+| IUD** | 0.8 | 0.8 | 1.0 | 1.0 | 1.4 | 1.4 |
 | Condom* | 1.1 | 1.6 | 0.7 | 0.2 | 0.3 | 0.4 |
 | Diaphragm/ spermicide* | 1.9 | 1.2 | 1.2 | 1.3 | 2.2 | 2.8 |
 | Periodic abstinence* | 2.5 | 1.6 | 1.6 | 1.7 | 2.9 | 3.6 |
@@ -140,13 +140,20 @@ Studies from Britain have shown an increased risk of developing hepatocellular c
 However, these cancers are extremely rare in the U.S., and the attributable risk (the excess incidence) of liver cancers in oral contraceptive users approaches less than one per million users.
 
 5.
+Risk of Liver Enzyme Elevations with Concomitant Hepatitis C Treatment
+
+During clinical trials with the Hepatitis C combination drug regimen that contains ombitasvir/paritaprevir/ritonavir, with or without dasabuvir, ALT elevations greater than 5 times the upper limit of normal (ULN), including some cases greater than 20 times the ULN, were significantly more frequent in women using ethinyl estradiol-containing medications such as COCs.
+Discontinue norethindrone acetate and ethinyl estradiol tablets prior to starting therapy with the combination drug regimen ombitasvir/paritaprevir/ritonavir, with or without dasabuvir [see Contraindications (4)].
+Norethindrone acetate and ethinyl estradiol tablets can be restarted approximately 2 weeks following completion of treatment with the combination drug regimen.
+
+6.
 Ocular Lesions
 
 There have been clinical case reports of retinal thromobosis associated with the use of oral contraceptives.
 Oral contraceptives should be discontinued if there is unexplained partial or complete loss of vision; onset of proptosis or diplopia; papilledema; or retinal vascular lesions.
 Appropriate diagnostic and therapeutic measures should be undertaken immediately.
 
-6.
+7.
 Oral Contraceptive Use Before and During Early Pregnancy
 
 Extensive epidemiological studies have revealed no increased risk of birth defects in women who have used oral contraceptives prior to pregnancy (61 to 63).
@@ -159,14 +166,14 @@ It is recommended that for any patient who has missed two consecutive periods, p
 If the patient has not adhered to the prescribed schedule, the possibility of pregnancy should be considered at the time of the first missed period.
 Oral contraceptive use should be discontinued if pregnancy is confirmed.
 
-7.
+8.
 Gallbladder Disease
 
 Earlier studies have reported an increased lifetime relative risk of gallbladder surgery in users of oral contraceptives and estrogens (66, 67).
 More recent studies, however, have shown that the relative risk of developing gallbladder disease among oral contraceptive users may be minimal (68 to 70).
 The recent findings of minimal risk may be related to the use of oral contraceptive formulations containing lower hormonal doses of estrogens and progestogens.
 
-8.
+9.
 Carbohydrate and Lipid Metabolic Effects
 
 Oral contraceptives have been shown to cause glucose intolerance in a significant percentage of users (23).
@@ -178,7 +185,7 @@ Because of these demonstrated effects, prediabetic and diabetic women should be 
 A small proportion of women will have persistent hypertriglyceridemia while on the pill.
 As discussed earlier (see WARNINGS 1a. and 1d.), changes in serum triglycerides and lipoprotein levels have been reported in oral contraceptive users.
 
-9.
+10.
 Elevated Blood Pressure
 
 An increase in blood pressure has been reported in women taking oral contraceptives (74) and this increase is more likely in older oral contraceptive users (75) and with continued use (74).
@@ -188,12 +195,12 @@ Women with a history of hypertension or hypertension-related diseases or renal d
 If women elect to use oral contraceptives, they should be monitored closely, and if significant elevation of blood pressure occurs, oral contraceptives should be discontinued.
 For most women, elevated blood pressure will return to normal after stopping oral contraceptives (75), and there is no difference in the occurrence of hypertension among ever and never users (74,76,77).
 
-10.
+11.
 Headache
 
 The onset or exacerbation of migraine or development of headache with a new pattern which is recurrent, persistent, or severe requires discontinuation of oral contraceptives and evaluation of the cause.
 
-11.
+12.
 Bleeding Irregularities
 
 Breakthrough bleeding and spotting are sometimes encountered in patients on oral contraceptives, especially during the first three months of use.
@@ -271,6 +278,10 @@ However, clinical pharmacokinetic studies have not demonstrated any consistent e
 Atorvastatin:
 
 Coadministration of atorvastatin and an oral contraceptive increased AUC values for norethindrone and ethinyl estradiol by approximately 30% and 20%, respectively.
+
+Concomitant Use with HCV Combination Therapy:
+
+Liver Enzyme Elevation Do not co-administer norethindrone acetate and ethinyl estradiol tablets with HCV drug combinations containing ombitasvir/paritaprevir/ritonavir, with or without dasabuvir, due to potential for ALT elevations (see Warnings, RISK OF LIVER ENZYME ELEVATIONS WITH CONCOMITANT HEPATITIS C TREATMENT).
 
 Other:
 

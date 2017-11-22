@@ -13,8 +13,8 @@ The possibility of ovulation and conception prior to initiation of use should be
 
 Dosage and Administration for 21-Day Dosage Regimen
 
-To achieve maximum contraceptive effectiveness, norethindrone acetate and ethinyl estradiol tablets, USP must be taken exactly as directed and at intervals not exceeding 24 hours.
-Norethindrone acetate and ethinyl estradiol tablets, USP provides the patient with a convenient tablet schedule of "3 weeks on - 1 week off."
+To achieve maximum contraceptive effectiveness, norethindrone acetate and ethinyl estradiol tablets must be taken exactly as directed and at intervals not exceeding 24 hours.
+Norethindrone acetate and ethinyl estradiol tablets provides the patient with a convenient tablet schedule of “3 weeks on - 1 week off.”
 Two dosage regimens are described, one of which may be more convenient or suitable than the other for an individual patient.
 For the initial cycle of therapy, the patient begins her tablets according to the Day-1 Start or Sunday-Start regimen.
 With either regimen, the patient takes one tablet daily for 21 consecutive days followed by one week of no tablets.
@@ -46,44 +46,44 @@ If a patient forgets to take one or more tablets, the following is suggested:
 
 One tablet is missed
 
-- take tablet as soon as remembered
-- take next tablet at the regular time
+- •take tablet as soon as remembered
+- •take next tablet at the regular time
 
 Two consecutive tablets are missed (week 1 or week 2)
 
-- take two tablets as soon as remembered
-- take two tablets the next day
-- use another birth control method for seven days following the missed tablets
+- •take two tablets as soon as remembered
+- •take two tablets the next day
+- •use another birth control method for seven days following the missed tablets
 
 Two consecutive tablets are missed (week 3)
 
 Sunday-Start Regimen:
 
-- take one tablet daily until Sunday
-- discard remaining tablets
-- start new pack of tablets immediately (Sunday)
-- use another birth control method for seven days following the missed tablets
+- •take one tablet daily until Sunday
+- •discard remaining tablets
+- •start new pack of tablets immediately (Sunday)
+- •use another birth control method for seven days following the missed tablets
 
 Day-1 Start Regimen:
 
-- discard remaining tablets
-- start new pack of tablets that same day
-- use another birth control method for seven days following the missed tablets
+- •discard remaining tablets
+- •start new pack of tablets that same day
+- •use another birth control method for seven days following the missed tablets
 
 Three (or more) consecutive tablets are missed
 
 Sunday-Start Regimen:
 
-- take one tablet daily until Sunday
-- discard remaining tablets
-- start new pack of tablets immediately (Sunday)
-- use another birth control method for seven days following the missed tablets
+- •take one tablet daily until Sunday
+- •discard remaining tablets
+- •start new pack of tablets immediately (Sunday)
+- •use another birth control method for seven days following the missed tablets
 
 Day-1 Start Regimen:
 
-- discard remaining tablets
-- start new pack of tablets that same day
-- use another birth control method for seven days following the missed tablets
+- •discard remaining tablets
+- •start new pack of tablets that same day
+- •use another birth control method for seven days following the missed tablets
 
 The possibility of ovulation occurring increases with each successive day that scheduled tablets are missed.
 While there is little likelihood of ovulation occurring if only one tablet is missed, the possibility of spotting or bleeding is increased.
