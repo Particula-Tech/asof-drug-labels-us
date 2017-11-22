@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA210192"
+  ],
+  "inn": "dolutegravir",
+  "labeler": "ViiV Healthcare Company",
+  "package_ndcs": [
+    "49702-242-13"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "dolutegravir sodium and rilpivirine hydrochloride",
+      "name": "Juluca"
+    }
+  ],
+  "setid": "806653d1-bf35-4924-b999-ad5d21821cc1",
+  "source": "dailymed"
+}
