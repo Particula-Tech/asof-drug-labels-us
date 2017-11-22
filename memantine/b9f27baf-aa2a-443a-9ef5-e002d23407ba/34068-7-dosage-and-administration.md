@@ -7,7 +7,8 @@ The dosage shown to be effective in controlled clinical trials is 20 mg/day.
 
 NAMENDA can be taken with or without food.
 If a patient misses a single dose of NAMENDA, that patient should not double up on the next dose.
-The next dose should be taken as scheduled.If a patient fails to take NAMENDA for several days, dosing may need to be resumed at lower doses and retitrated as described above.
+The next dose should be taken as scheduled.
+If a patient fails to take NAMENDA for several days, dosing may need to be resumed at lower doses and retitrated as described above.
 
 Do not mix NAMENDA oral solution with any other liquid.
 The oral solution is administered with a dosing device that comes with the drug and consists of a syringe, syringe adaptor cap, tubing and other supplies a patient needs to administer the drug.

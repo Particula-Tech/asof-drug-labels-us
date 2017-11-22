@@ -38,10 +38,9 @@ You will need the following supplies:
 
 This Patient Information and Instructions for Use have been approved by the U.S. Food and Drug Administration.
 
-Manufactured for: Forest Pharmaceuticals, Inc. Subsidiary of Forest Laboratories, Inc. St. Louis, MO 63045
+Distributed by: Allergan USA, Inc. Irvine, CA 92612 Licensed from Merz Pharmaceuticals GmbH
 
-Manufactured by: Forest Laboratories Ireland Ltd
+Revised August 2016
 
-Licensed from Merz Pharmaceuticals GmbH
-
-Revised October 2013
+© 2016 Allergan.
+All rights reserved

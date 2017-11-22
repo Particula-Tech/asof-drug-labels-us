@@ -114,4 +114,4 @@ This Patient Information leaflet summarizes the most important information about
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about NAMENDA that was written for healthcare professionals.
 
-For more information about NAMENDA, go to www.namenda.com, or call Forest Laboratories, Inc. at 1-800-678-1605.
+For more information about NAMENDA, go to www.namenda.com, or call Allergan at 1-800-678-1605.

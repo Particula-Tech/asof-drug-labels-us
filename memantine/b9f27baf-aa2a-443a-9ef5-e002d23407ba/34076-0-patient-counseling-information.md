@@ -15,10 +15,9 @@ Patients/caregivers should be instructed on how to use the NAMENDA Oral Solution
 They should be made aware of the patient instruction sheet that is enclosed with the product.
 Patients/caregivers should be instructed to address any questions on the usage of the solution to their physician or pharmacist.
 
-Manufactured for: Forest Pharmaceuticals, Inc. Subsidiary of Forest Laboratories, Inc. St. Louis, MO 63045
-
-Manufactured by: Forest Laboratories Ireland Ltd
+Distributed by: Allergan USA, Inc. Irvine, CA 92612
 
 Licensed from Merz Pharmaceuticals GmbH
 
-© 2005-2012 Forest Laboratories, Inc.
+© 2017 Allergan.
+All rights reserved
