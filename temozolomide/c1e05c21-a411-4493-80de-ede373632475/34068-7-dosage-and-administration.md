@@ -11,7 +11,7 @@ No dose reductions are recommended during the concomitant phase; however, dose i
 The temozolomide dose should be continued throughout the 42-day concomitant period up to 49 days if all of the following conditions are met: absolute neutrophil count greater than or equal to 1.5 × 109/L, platelet count greater than or equal to 100 × 109/L, common toxicity criteria (CTC) nonhematological toxicity less than or equal to Grade 1 (except for alopecia, nausea, and vomiting).
 During treatment a complete blood count should be obtained weekly.
 Temozolomide dosing should be interrupted or discontinued during concomitant phase according to the hematological and nonhematological toxicity criteria as noted in Table 1.
-Pneumocystis pneumonia (PCP)prophylaxis is required during the concomitant administration of temozolomide and radiotherapy, and should be continued in patients who develop lymphocytopenia until recovery from lymphocytopenia (CTC Grade less than or equal to 1).
+Pneumocystis pneumonia (PCP) prophylaxis is required during the concomitant administration of temozolomide and radiotherapy, and should be continued in patients who develop lymphocytopenia until recovery from lymphocytopenia (CTC Grade less than or equal to 1).
 
 TABLE 1: Temozolomide Dosing Interruption or Discontinuation During Concomitant Radiotherapy and Temozolomide
 
@@ -23,7 +23,7 @@ TABLE 1: Temozolomide Dosing Interruption or Discontinuation During Concomitant 
 
 Maintenance Phase: Cycle 1: Four weeks after completing the temozolomide + RT phase, temozolomide is administered for an additional 6 cycles of maintenance treatment.
 Dosage in Cycle 1 (maintenance) is 150 mg/m2 once daily for 5 days followed by 23 days without treatment.
-Cycles 2 to 6: At the start of Cycle 2, the dose can be escalated to 200 mg/m2, if the CTC nonhematologic toxicity for Cycle 1 is Grade less than or equal to 2 (except for alopecia, nausea, and vomiting), absolute neutrophil count (ANC) is greater than or equal to 1.5 × 109 /L, and the platelet count is greater than or equal to 100 × 109/L.
+Cycles 2 to 6: At the start of Cycle 2, the dose can be escalated to 200 mg/m2, if the CTC nonhematologic toxicity for Cycle 1 is Grade less than or equal to 2 (except for alopecia, nausea, and vomiting), absolute neutrophil count (ANC) is greater than or equal to 1.5 × 109/L, and the platelet count is greater than or equal to 100 × 109/L.
 The dose remains at 200 mg/m2 per day for the first 5 days of each subsequent cycle except if toxicity occurs.
 If the dose was not escalated at Cycle 2, escalation should not be done in subsequent cycles.
 Dose Reduction or Discontinuation During Maintenance: Dose reductions during the maintenance phase should be applied according to Tables 2 and 3.

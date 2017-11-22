@@ -1,8 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Patient Labeling (Patient Information).
-
-## 17.1 Information for the Patient
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
 Physicians should discuss the following with their patients:
 
@@ -51,7 +49,7 @@ What should I tell my doctor before taking temozolomide capsules?
 
 Tell your doctor about all your medical conditions, including if you:
 
-- are allergic to dacarbazine (DTIC), or have had a severe allergic reaction to temozolomide capsules.
+- are allergic to dacarbazine (DTIC) or have had a severe allergic reaction to temozolomide capsules.
   See "Who should not take temozolomide capsules?"
 - have kidney problems
 - have liver problems
@@ -271,7 +269,8 @@ Temozolomide is administered orally at 75 mg/m2 daily for 42 days concomitant wi
 No dose reductions are recommended; however, dose interruptions may occur based on patient tolerance.
 The temozolomide dose can be continued throughout the 42-day concomitant period up to 49 days if all of the following conditions are met: absolute neutrophil count greater than or equal to 1.5 × 109/L, platelet count greater than or equal to 100 ×109/L, common toxicity criteria (CTC) nonhematological toxicity less than or equal to Grade 1 (except for alopecia, nausea, and vomiting).
 During treatment a complete blood count should be obtained weekly.
-Temozolomide dosing should be interrupted or discontinued during concomitant phase according to the hematological and nonhematological toxicity criteria as noted in Table 2.Pneumocystis pneumonia (PCP) prophylaxis is required during the concomitant administration of temozolomide and radiotherapy, and should be continued in patients who develop lymphocytopenia until recovery from lymphocytopenia (CTC grade less than or equal to 1).
+Temozolomide dosing should be interrupted or discontinued during concomitant phase according to the hematological and nonhematological toxicity criteria as noted in Table 2.
+Pneumocystis pneumonia (PCP) prophylaxis is required during the concomitant administration of temozolomide and radiotherapy, and should be continued in patients who develop lymphocytopenia until recovery from lymphocytopenia (CTC grade less than or equal to 1).
 
 TABLE 2: Temozolomide Dosing Interruption or Discontinuation During Concomitant Radiotherapy and Temozolomide
 
@@ -347,6 +346,7 @@ Imprinting ink colors vary based on the dosage strength.
 | 250 mg | Black |
 
 The 5 mg, 20 mg, 100 mg, 140 mg, 180 mg, and 250 mg capsule strengths are available in 5 count, 14 count and 20 count bottle packs and 5 count and 20 count blister packs.
+The 5 mg, 20 mg, 100 mg, 140 mg, and 180 mg capsule strengths are also available in 15 count blister packs.
 How is temozolomide dispensed?
 Each strength of temozolomide must be dispensed in its original package (one strength per one container).
 Follow the instructions below: Based on the dose prescribed, determine the number of each strength of temozolomide capsules needed for the full 42 or 5 day cycle as prescribed by the physician.
@@ -358,7 +358,6 @@ Temozolomide can be ordered from your wholesaler.
 It is important to understand if temozolomide is being used as part of a 42 day regimen or as part of a 5 day course.
 Remember to order enough temozolomide for the appropriate cycle.
 For example: a 5 day course of 360 mg/day would require the following to be ordered: two 5 count packages of 180 mg capsules. a 42 day course of 140 mg/day would require the following to be ordered: three 14 count packages of 140 mg capsules.
-
 For examples of other dosing regimens, please refer to the full Prescribing Information (Table 6).
 
 | Temozolomide Product | NDC Number |
@@ -384,20 +383,25 @@ For examples of other dosing regimens, please refer to the full Prescribing Info
 | 250 mg capsules (20 count) | 47335-893-87 |
 | Blister Packs |  |
 | 5 mg capsules (5 count) | 47335-890-74 |
+| 5 mg capsules (15 count) | 47335-890-72 |
 | 5 mg capsules (20 count) | 47335-890-75 |
 | 20 mg capsules (5 count) | 47335-891-74 |
+| 20 mg capsules (15 count) | 47335-891-72 |
 | 20 mg capsules (20 count) | 47335-891-75 |
 | 100 mg capsules (5 count) | 47335-892-74 |
+| 100 mg capsules (15 count) | 47335-892-72 |
 | 100 mg capsules (20 count) | 47335-892-75 |
 | 140 mg capsules (5 count) | 47335-929-74 |
+| 140 mg capsules (15 count) | 47335-929-72 |
 | 140 mg capsules (20 count) | 47335-929-75 |
 | 180 mg capsules (5 count) | 47335-930-74 |
+| 180 mg capsules (15 count) | 47335-930-72 |
 | 180 mg capsules (20 count) | 47335-930-75 |
 | 250 mg capsules (5 count) | 47335-893-74 |
 | 250 mg capsules (20 count) | 47335-893-75 |
 
 KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.
 
-Distributed by: Sun Pharmaceutical Industries, Inc. Cranbury, NJ 08512 Manufactured by Sun Pharmaceutical Industries Ltd. Halol-Baroda Highway, Halol-389 350, Gujarat, India.
+Distributed by: Sun Pharmaceutical Industries, Inc. Cranbury, NJ 08512 Manufactured by: Sun Pharmaceutical Industries Ltd. Halol-Baroda Highway, Halol-389 350, Gujarat, India.
 ISS.
-09/2015 PJPI0494A
+11/2017 PJPI0494C

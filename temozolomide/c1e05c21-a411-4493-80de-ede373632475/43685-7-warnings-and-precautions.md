@@ -22,7 +22,7 @@ However, all patients receiving temozolomide, particularly patients receiving st
 
 For the concomitant treatment phase with RT, a complete blood count should be obtained prior to initiation of treatment and weekly during treatment.
 For the 28-day treatment cycles, a complete blood count should be obtained prior to treatment on Day 1 and on Day 22 (21 days after the first dose) of each cycle.
-Blood counts should be performed weekly until recovery if the ANC falls below 1.5 × 109/L and the platelet count falls below 100 × 109/L [see Recommended Dosing and Dose Modification Guidelines (2.1)].
+Blood counts should be performed weekly until recovery if the ANC falls below 1.5 × 109/L and the platelet count falls below 100 × 109/L [see Dosage and Administration (2.1)].
 
 ## 5.5 Hepatotoxicity
 

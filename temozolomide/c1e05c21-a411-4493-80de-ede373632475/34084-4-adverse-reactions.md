@@ -3,7 +3,7 @@
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
-Newly Diagnosed Glioblastoma Multiforme: During the concomitant phase (temozolomide + radiotherapy), adverse reactions including thrombocytopenia, nausea, vomiting, anorexia, and constipation were more frequent in the temozolomide +RT arm.
+Newly Diagnosed Glioblastoma Multiforme: During the concomitant phase (temozolomide + radiotherapy), adverse reactions including thrombocytopenia, nausea, vomiting, anorexia, and constipation were more frequent in the temozolomide + RT arm.
 The incidence of other adverse reactions was comparable in the two arms.
 The most common adverse reactions across the cumulative temozolomide experience were alopecia, nausea, vomiting, anorexia, headache, and constipation (see Table 7).
 Forty-nine percent (49%) of patients treated with temozolomide reported one or more severe or life-threatening reactions, most commonly fatigue (13%), convulsions (6%), headache (5%), and thrombocytopenia (5%).
@@ -15,7 +15,7 @@ TABLE 7: Number (%) of Patients with Adverse Reactions: All and Severe/Life Thre
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | All |  | Grade ≥3 |  | All |  | Grade ≥3 |  | All |  | Grade ≥3 |  |  |
 | Subjects Reporting any Adverse Reaction | 258 | (91) | 74 | (26) | 266 | (92) | 80 | (28) | 206 | (92) | 82 | (37) |
-| Body as a Whole –General Disorders |  |  |  |  |  |  |  |  |  |  |  |  |
+| Body as a Whole – General Disorders |  |  |  |  |  |  |  |  |  |  |  |  |
 | Anorexia | 25 | (9) | 1 | (<1) | 56 | (19) | 2 | (1) | 61 | (27) | 3 | (1) |
 | Dizziness | 10 | (4) | 0 |  | 12 | (4) | 2 | (1) | 12 | (5) | 0 |  |
 | Fatigue | 139 | (49) | 15 | (5) | 156 | (54) | 19 | (7) | 137 | (61) | 20 | (9) |
@@ -57,7 +57,7 @@ TABLE 7: Number (%) of Patients with Adverse Reactions: All and Severe/Life Thre
 | Taste Perversion | 6 | (2) | 0 |  | 18 | (6) | 0 |  | 11 | (5) | 0 |  |
 
 RT+TMZ = radiotherapy plus temozolomide; NOS = not otherwise specified.
-Note:Grade 5 (fatal) adverse reactions are included in the Grade ≥3 column.
+Note: Grade 5 (fatal) adverse reactions are included in the Grade ≥3 column.
 Myelosuppression (neutropenia and thrombocytopenia), which is a known dose-limiting toxicity for most cytotoxic agents, including temozolomide, was observed.
 When laboratory abnormalities and adverse reactions were combined, Grade 3 or Grade 4 neutrophil abnormalities including neutropenic reactions were observed in 8% of the patients, and Grade 3 or Grade 4 platelet abnormalities, including thrombocytopenic reactions, were observed in 14% of the patients treated with temozolomide.
 Refractory Anaplastic Astrocytoma: Tables 8 and 9 show the incidence of adverse reactions in the 158 patients in the anaplastic astrocytoma study for whom data are available.
@@ -159,6 +159,6 @@ Dermatologic disorders: Toxic epidermal necrolysis and Stevens-Johnson syndrome 
 Erythema multiforme, which resolved after discontinuation of temozolomide and, in some cases, recurred upon rechallenge.
 Hematopoietic disorders: Prolonged pancytopenia, which may result in aplastic anemia and fatal outcomes [see Warnings and Precautions (5.1)].
 Hepatobiliary disorders: Fatal and severe hepatotoxicity, elevation of liver enzymes, hyperbilirubinemia, cholestasis, and hepatitis [see Warnings and Precautions (5.5)].
-Infections and infestations: Opportunistic infections including Pneumocystis pneumonia (PCP) [see Warnings and Precautions (5.3)], primary and reactivated cytomegalovirus (CMV), and reactivation of hepatitis B infections including some cases with fatal outcomes.
+Infections and infestations: Serious opportunistic infections, including some cases with fatal outcomes, can occur with bacterial, viral (primary and reactivated), fungal, and protozoan organisms.
 Pulmonary disorders: Interstitial pneumonitis, pneumonitis, alveolitis, and pulmonary fibrosis.
 Endocrine disorders: Diabetes insipidus

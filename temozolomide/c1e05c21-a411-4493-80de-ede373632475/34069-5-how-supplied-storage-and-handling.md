@@ -23,7 +23,7 @@ NDC 47335-890-21
 Bottles of 20’s with Child Resistant Cap…………..
 NDC 47335-890-87
 
-Unit-dose blister pack of 5 (1 × 5)... …….……….…NDC 47335-890-74
+Unit-dose blister pack of 5 (1 × 5)... …….……….…NDC 47335-890-74 Unit-dose blister pack of 15 (3 × 5)... …….……….…NDC 47335-890-72
 
 Unit-dose blister pack of 20 (4 × 5)... …….……..…NDC 47335-890-75
 
@@ -37,7 +37,8 @@ NDC 47335-891-21
 Bottles of 20’s with Child Resistant Cap…………… NDC 47335-891-87
 
 Unit-dose blister pack of 5 (1 × 5)... …….………….
-NDC 47335-891-74
+NDC 47335-891-74 Unit-dose blister pack of 15 (3 × 5)... …….………….
+NDC 47335-891-72
 
 Unit-dose blister pack of 20 (4 × 5)... …….………...
 NDC 47335-891-75
@@ -52,7 +53,8 @@ NDC 47335-892-21
 Bottles of 20’s with Child Resistant Cap…………..
 NDC 47335-892-87
 
-Unit-dose blister pack of 5 (1 × 5)... …….……….…NDC 47335-892-74
+Unit-dose blister pack of 5 (1 × 5)... …….……….…NDC 47335-892-74 Unit-dose blister pack of 15 (3 × 5)... …….………….
+NDC 47335-892-72
 
 Unit-dose blister pack of 20 (4 × 5)... …….………...NDC 47335-892-75
 
@@ -65,7 +67,8 @@ NDC 47335-929-21
 
 Bottles of 20’s with Child Resistant Cap…………… NDC 47335-929-87
 
-Unit-dose blister pack of 5 (1 × 5)... …….…………..NDC 47335-929-74
+Unit-dose blister pack of 5 (1 × 5)... …….…………..NDC 47335-929-74 Unit-dose blister pack of 15 (3 × 5)... …….………….
+NDC 47335-929-72
 
 Unit-dose blister pack of 20 (4 × 5)... …….…………NDC 47335-929-75
 
@@ -78,7 +81,8 @@ NDC 47335-930-21
 
 Bottles of 20’s with Child Resistant Cap…………… NDC 47335-930-87
 
-Unit-dose blister pack of 5 (1 × 5)... …….…………..NDC 47335-930-74
+Unit-dose blister pack of 5 (1 × 5)... …….…………..NDC 47335-930-74 Unit-dose blister pack of 15 (3 × 5)... …….………….
+NDC 47335-930-72
 
 Unit-dose blister pack of 20 (4 × 5)... …….…………NDC 47335-930-75
 
