@@ -14,14 +14,14 @@ What should I tell my healthcare provider before using Atralin?
 
 Before using Atralin, tell your healthcare provider about all of your medical conditions, including if you:
 
-- 1.are allergic to fish.
+- •are allergic to fish.
   Atralin contains fish proteins.
   Tell your healthcare provider if you get hives or itching during treatment with Atralin.
-- 2.have a skin condition called eczema
-- 3.have a sunburn
-- 4.are pregnant or plan to become pregnant.
+- •have a skin condition called eczema
+- •have a sunburn
+- •are pregnant or plan to become pregnant.
   It is not known if Atralin will harm your unborn baby.
-- 5.are breastfeeding or plan to breastfeed.
+- •are breastfeeding or plan to breastfeed.
   It is not known if Atralin passes into your breast milk.
 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, herbal supplements, and any skin products that you use.
@@ -31,27 +31,27 @@ Using other topical acne products may increase the irritation of your skin when 
 
 How should I use Atralin?
 
-- 1.Use Atralin exactly as your healthcare provider tells you to use it.
-- 2.Before you apply Atralin, gently wash the affected skin area with a mild, non-medicated soap.
+- •Use Atralin exactly as your healthcare provider tells you to use it.
+- •Before you apply Atralin, gently wash the affected skin area with a mild, non-medicated soap.
   Rinse and pat your skin dry.
-- 3.Apply Atralin 1 time a day before bedtime.
-- 4.Apply a thin layer of Atralin to cover the affected skin areas.
+- •Apply Atralin 1 time a day before bedtime.
+- •Apply a thin layer of Atralin to cover the affected skin areas.
   Gently rub Atralin into your skin.
-- 5.Do not use more Atralin than you need to cover the affected area and do not apply Atralin more than 1 time a day.
+- •Do not use more Atralin than you need to cover the affected area and do not apply Atralin more than 1 time a day.
   Using too much Atralin may irritate or increase the irritation of your skin, and will not give faster or better results.
-- 6.You may use moisturizers and cosmetics.
+- •You may use moisturizers and cosmetics.
 
 What should I avoid while using Atralin?
 
-- 1.Avoid washing your skin too often and scrubbing the affected skin area.
-- 2.You should avoid sunlamps, tanning beds, and ultraviolet light during treatment with Atralin.
-- 3.Minimize exposure to sunlight.
-- 4.If you have to be in the sunlight or are sensitive to sunlight, use a sunscreen with a SPF (sun protection factor) of 15 or more and wear protective clothing, and a wide brimmed hat to cover the treated areas.
-- 5.If you do get sunburned, stop using Atralin until your skin has healed and is back to normal.
-- 6.Cold weather and wind may irritate skin treated with Atralin.
+- •Avoid washing your skin too often and scrubbing the affected skin area.
+- •You should avoid sunlamps, tanning beds, and ultraviolet light during treatment with Atralin.
+- •Minimize exposure to sunlight.
+- •If you have to be in the sunlight or are sensitive to sunlight, use a sunscreen with a SPF (sun protection factor) of 15 or more and wear protective clothing, and a wide brimmed hat to cover the treated areas.
+- •If you do get sunburned, stop using Atralin until your skin has healed and is back to normal.
+- •Cold weather and wind may irritate skin treated with Atralin.
   Skin treated with Atralin may dry out or get wind burned more easily.
   Talk to your healthcare provider about ways to manage skin irritation.
-- 7.Avoid contact with the peels of limes.
+- •Avoid contact with the peels of limes.
 
 What are the possible side effects of Atralin?
 
@@ -67,8 +67,8 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How do I store Atralin?
 
-- 1.Store Atralin at room temperature, 68°F to 77°F (20°C to 25°C).
-- 2.Protect from freezing.
+- •Store Atralin at room temperature, 68°F to 77°F (20°C to 25°C).
+- •Protect from freezing.
 
 Keep Atralin and all medicines out of the reach of children.
 
