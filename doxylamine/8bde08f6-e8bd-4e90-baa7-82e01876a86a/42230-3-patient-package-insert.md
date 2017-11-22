@@ -100,7 +100,7 @@ What are the ingredients in DICLEGIS?
 
 Active ingredient: doxylamine succinate (an antihistamine) and pyridoxine hydrochloride (vitamin B6)
 
-Inactive ingredients: ammonium hydroxide, n-butanol, carnauba wax powder, colloidal silicon dioxide, croscarmellose sodium, D&C Red#27, denatured alcohol, FD&C Blue #2, hypromellose, isopropyl alcohol, magnesium stearate, magnesium trisilicate, methacrylic acid copolymer, microcrystalline cellulose 102, PEG 8000, polysorbate 80, propylene glycol, shellac glaze, simethicone, sodium bicarbonate, sodium lauryl sulfate, talc, titanium dioxide, triethyl citrate.
+Inactive ingredients: ammonium hydroxide, n-butanol, carnauba wax powder, colloidal silicon dioxide, croscarmellose sodium, D&C Red#27, denatured alcohol, FD&C Blue #2, hypromellose, isopropyl alcohol, magnesium stearate, magnesium trisilicate, methacrylic acid copolymer, microcrystalline cellulose 102, PEG 400, PEG 8000, polysorbate 80, propylene glycol, shellac glaze, simethicone, sodium bicarbonate, sodium lauryl sulfate, talc, titanium dioxide, triethyl citrate.
 
 Distributed by: Duchesnay USA, Inc., Bryn Mawr, PA, 19010,
 
