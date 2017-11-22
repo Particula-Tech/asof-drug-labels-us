@@ -57,3 +57,178 @@ This Instructions for Use has been approved by the U.S. Food and Drug Administra
 Manufactured by: Janssen Biotech, Inc. Horsham, PA 19044 US License No. 1864
 
 Approved: September 2015
+
+Instructions for Use SIMPONI® (SIM-po-nee) (golimumab) Prefilled Syringe
+
+Important
+
+SIMPONI comes as a single-dose prefilled syringe containing one 50 mg or one 100 mg dose.
+Each SIMPONI prefilled syringe can only be used one time.
+Throw the used prefilled syringe away (See Step 3) after one dose, even if there is medicine left in it.
+Do not reuse your SIMPONI prefilled syringe.
+
+If your healthcare provider decides that you or a caregiver may be able to give your injections of SIMPONI at home, you should receive training on the right way to prepare and inject SIMPONI using the prefilled syringe before attempting to inject.
+Do not try to inject yourself until you have been shown the right way to give the injections by your healthcare provider.
+
+Read this Instructions for Use before using your SIMPONI prefilled syringe and each time you get a refill.
+There may be new information.
+This leaflet does not take the place of talking with your healthcare provider about your medical condition or your treatment.
+
+The SIMPONI prefilled syringe is intended for injection under the skin, not into the muscle or vein.
+After injection, the needle will retract into the body of the device and lock into place.
+
+Storage information
+
+Store in refrigerator at 36° to 46°F (2° to 8°C).
+Do not freeze SIMPONI prefilled syringe.
+
+Keep SIMPONI prefilled syringe and all medicines out of reach of children.
+
+Do not shake your SIMPONI prefilled syringe.
+
+Keep SIMPONI prefilled syringe in the original carton to protect from light and physical damage.
+
+Prefilled syringe parts
+
+Before use
+
+After use
+
+| You will need these supplies: 1 SIMPONI prefilled syringe |
+| --- |
+| Not provided in the SIMPONI prefilled syringe carton: 1 Alcohol swab1 Cotton ball or gauze pad1 Adhesive bandage1 Sharps container (See Step 3) |
+
+Inspect carton
+
+Remove your SIMPONI prefilled syringe carton from the refrigerator.
+
+Keep the prefilled syringe in the carton and let it sit on a flat surface at room temperature for at least 30 minutes before use.
+
+Do not warm the prefilled syringe any other way.
+
+Check the expiration date ('EXP') on the back panel of the carton.
+
+Do not use your prefilled syringe if the expiration date has passed.
+
+Do not inject SIMPONI if the perforations on the carton are broken.
+Call your healthcare provider or pharmacist for a refill.
+
+Choose injection site
+
+Select from the following areas for your injection:
+
+- Front of thighs (recommended)
+- Lower stomach area (lower abdomen), except for a 2-inch area right around your navel (belly-button)
+- Back of upper arms (only if someone else is giving you the injection)
+
+Choose a different site within your preferred area for each injection.
+
+Do not inject into skin that is tender, bruised, red, hard, thick or scaly.
+
+Do not inject into areas with scars or stretch marks.
+
+Clean injection site
+
+Wash your hands well with soap and warm water.
+
+Wipe your chosen injection site with an alcohol swab and allow it to dry.
+
+Do not touch, fan, or blow on the injection site after you have cleaned it.
+
+Inspect liquid
+
+Take your SIMPONI prefilled syringe out of the carton.
+
+Check the SIMPONI prefilled syringe liquid in the viewing window.
+It should be clear to slightly yellow and may contain tiny white or clear particles.
+You may also see one or more air bubbles.
+This is normal.
+
+Do not inject if the liquid is cloudy or discolored, or has large particles.
+Call your healthcare provider or pharmacist for a refill.
+
+Remove needle cover
+
+Hold your prefilled syringe by the body and pull needle cover straight off.
+It is normal to see a drop of liquid.
+
+Inject SIMPONI within 5 minutes of removing the needle cover.
+
+Do not put needle cover back on, as this may damage the needle or cause a needle stick injury.
+
+Do not touch needle or let it touch any surface.
+
+Do not use a SIMPONI prefilled syringe if it is dropped.
+Call your healthcare provider or pharmacist for a refill.
+
+Position fingers and insert needle
+
+Place your thumb, index and middle fingers directly under the finger flange, as shown.
+
+Do not touch plunger or area above finger flange as this may cause the needle safety device to activate.
+
+Use your other hand to pinch skin at the injection site.
+Position syringe at about a 45 degree angle to the skin.
+
+It is important to pinch enough skin to inject under the skin and not into the muscle.
+
+Insert needle with a quick, dart-like motion.
+
+Release pinch and reposition hand
+
+Use your free hand to grasp the body of the prefilled syringe.
+
+Press plunger
+
+Place thumb from the opposite hand on the plunger and press the plunger all the way down until it stops.
+
+Release pressure from plunger
+
+The safety guard will cover the needle and lock into place, removing the needle from your skin.
+
+Dispose of your prefilled syringe
+
+Put your used SIMPONI prefilled syringe in an FDA-cleared sharps disposal container right away after use.
+
+Do not throw away (dispose of) your SIMPONI prefilled syringe in your household trash.
+
+Do not recycle your used sharps disposal container.
+
+For more information, see "How should I dispose of the used prefilled syringe?"
+
+Check injection site
+
+There may be a small amount of blood or liquid at the injection site.
+Hold pressure over your skin with a cotton ball or gauze pad until any bleeding stops.
+
+Do not rub the injection site.
+
+If needed, cover injection site with a bandage.
+
+Need help?
+
+Call your healthcare provider to talk about any questions you may have.
+For additional assistance or to share your feedback call 800-JANSSEN (800-526-7736).
+
+How should I dispose of the used prefilled syringe?
+
+If you do not have an FDA-cleared sharps disposal container, you may use a household container that is:
+
+- made of a heavy-duty plastic
+- can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out
+- upright and stable during use
+- leak-resistant
+- properly labeled to warn of hazardous waste inside the container
+
+When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
+There may be state or local laws about how you should throw away used needles and syringes.
+
+For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA's website at: www.fda.gov/safesharpsdisposal
+
+This Instructions for Use has been approved by the U.S. Food and Drug Administration.
+
+Manufactured by: Janssen Biotech, Inc. Horsham, PA 19044 US License No. 1864
+
+Approved: November 2017
+
+janssen
