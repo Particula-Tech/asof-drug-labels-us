@@ -3,12 +3,6 @@
 Otrexup contains methotrexate in a preservative-free sterile solution for a single subcutaneous injection.
 Otrexup is available in the following strengths and configurations.
 
-Otrexup (methotrexate) injection 7.5 mg/0.4 mL
-
-- Carton of 1 NDC 54436-075-01
-- Carton of 4 NDC 54436-075-04
-  - Otrexup NDC 54436-075-02
-
 Otrexup (methotrexate) injection 10 mg/0.4 mL
 
 - Carton of 1 NDC 54436-010-01

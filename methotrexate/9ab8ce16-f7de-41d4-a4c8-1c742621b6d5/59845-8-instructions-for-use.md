@@ -24,7 +24,7 @@ Check the Liquid
 Choose an Injection Site
 
 - Otrexup should be injected into the stomach (abdomen) or thigh.
-  Do not inject Otrexup within 2 inches of the belly button (navel) (see Figure D)
+  Do not inject Otrexup within 2 inches of the belly button (navel) (See Figure D)
 - Do not inject Otrexup in the arms or any other areas of the body.
 - Do not inject Otrexup in areas where the skin is tender, bruised, red, scaly, hard, or has scars or stretch marks.
 - Wipe the area with an alcohol swab.
@@ -41,7 +41,7 @@ Step 1: Remove Cap (marked 1)
 - Do not touch the needle end with your hands or fingers.
   This could inject the medicine into your hand.
 - Do not replace the cap after it has been removed.
-- After the cap is removed Otrexup must be used or disposed of safely (see step 5).
+- After the cap is removed Otrexup must be used or disposed of safely (See step 5).
 
 STEP 2: Remove the Safety Clip (marked 2)
 
@@ -97,6 +97,6 @@ This Instructions for Use has been approved by the U.S. Food and Drug Administra
 Mfd.
 For Antares Pharma, Inc. Ewing, NJ 08628
 
-3/2016
+12/2016
 
-PII-13-001 V06
+PII-13-001 V08

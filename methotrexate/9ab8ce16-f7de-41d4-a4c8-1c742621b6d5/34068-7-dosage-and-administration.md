@@ -4,8 +4,8 @@
 
 Otrexup is a single-dose auto-injector for once-weekly subcutaneous use only [see Warnings and Precautions (5.5)].
 Administer Otrexup in the abdomen or the thigh.
-Otrexup is available in the following dosage strengths: 7.5, 10, 12.5, 15, 17.5, 20, 22.5 and 25 mg.
-Use another formulation of methotrexate for alternative dosing in patients who require oral, intramuscular, intravenous, intra-arterial, or intrathecal dosing, doses less than 7.5 mg per week, doses more than 25 mg per week, high-dose regimens, or dose adjustments between the available doses.
+Otrexup is available in the following dosage strengths: 10, 12.5, 15, 17.5, 20, 22.5 and 25 mg.
+Use another formulation of methotrexate for alternative dosing in patients who require oral, intramuscular, intravenous, intra-arterial, or intrathecal dosing, doses less than 10 mg per week, doses more than 25 mg per week, high-dose regimens, or dose adjustments between the available doses.
 
 ## 2.2 Rheumatoid Arthritis including Polyarticular Juvenile Idiopathic Arthritis
 
