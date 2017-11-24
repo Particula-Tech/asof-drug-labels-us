@@ -62,7 +62,7 @@ The efficacy of imatinib mesylate was similar in older and younger patients.
 The effect of hepatic impairment on the pharmacokinetics of both imatinib and its major metabolite, CGP74588, was assessed in 84 patients with cancer with varying degrees of hepatic impairment at imatinib doses ranging from 100 mg to 800 mg.
 
 Mild and moderate hepatic impairment do not influence exposure to imatinib and CGP74588.
-In patients with severe hepatic impairment, the imatinib Cmax and AUC increased by 63% and 45% and the CGP74588 Cmax and AUC increased by 56% and 55%, relative to patients with normal hepatic function [see Pharmacokinetics (12.3)].
+In patients with severe hepatic impairment, the imatinib Cmax and area under curve (AUC) increased by 63% and 45% and the CGP74588 Cmax and AUC increased by 56% and 55%, relative to patients with normal hepatic function [see Clinical Pharmacology (12.3)].
 Reduce the dose by 25% for patients with severe hepatic impairment [see Dosage and Administration (2.12)].
 
 Table 16: Liver Function Classification
@@ -83,9 +83,9 @@ Dose reductions are necessary for patients with moderate and severe renal impair
 
 Table 17: Renal Function Classification
 
-| Renal Dysfunction |  | Renal Function Tests |
+| Renal Dysfunction | Renal Function Tests |  |
 | --- | --- | --- |
-| Mild |  | CrCL = 40-59 mL/min |
-| Moderate |  | CrCL = 20-39 mL/min |
-| Severe |  | CrCL = less than 20 mL/min |
+| Mild | CrCL = 40-59 mL/min |  |
+| Moderate | CrCL = 20-39 mL/min |  |
+| Severe | CrCL = less than 20 mL/min |  |
 | CrCL = Creatinine Clearance |  |  |

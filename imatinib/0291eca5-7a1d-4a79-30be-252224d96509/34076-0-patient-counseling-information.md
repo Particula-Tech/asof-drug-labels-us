@@ -8,7 +8,7 @@ The patient should not take two doses at the same time.
 Advise patients to take imatinib mesylate tablets with a meal and a large glass of water [see Dosage and Administration (2.1)].
 
 Fluid Retention and Edema Inform patients of the possibility of developing edema and fluid retention.
-Advise patients to contact their health care provide if unexpected rapid weight gain occurs [see Warnings and Precautions (5.1)].
+Advise patients to contact their health care provider if unexpected rapid weight gain occurs [see Warnings and Precautions (5.1)].
 
 Hepatotoxicity Inform patients of the possibility of developing liver function abnormalities and serious hepatic toxicity.
 Advise patients to immediately contact their health care provider if signs of liver failure occur, including jaundice, anorexia, bleeding or bruising [see Warnings and Precautions (5.4)].
@@ -34,3 +34,10 @@ Driving and Using Machines Advise patients that they may experience side effects
 Therefore, caution patients about driving a car or operating machinery [see Warnings and Precautions (5.13)].
 
 APOTEX INC. Imatinib Mesylate Tablets 100 mg and 400 mg
+
+| Manufactured by | Manufactured for |
+| --- | --- |
+| Apotex Inc. | Apotex Corp. |
+| Toronto, Ontario Canada M9L 1T9 | Weston Florida USA 33326 |
+
+Revised: October 2017 Revision: 16

@@ -28,7 +28,7 @@ The main circulating active metabolite in humans is the N-demethylated piperazin
 It shows in vitro potency similar to the parent imatinib.
 The plasma AUC for this metabolite is about 15% of the AUC for imatinib.
 The plasma protein binding of N-demethylated metabolite CGP74588 is similar to that of the parent compound.
-Human liver microsome studies demonstrated that imatinib mesylate is a potent competitive inhibitor of CYP2C9, CYP2D6, and CYP3A4/5 with Ki values of 27, 7.5, and 8 microM, respectively.
+Human liver microsome studies demonstrated that imatinib mesylate is a potent competitive inhibitor of CYP2C9, CYP2D6, and CYP3A4/5 with Ki values of 27, 7.5, and 8 mcM, respectively.
 
 Excretion Imatinib elimination is predominately in the feces, mostly as metabolites.
 Based on the recovery of compound(s) after an oral 14C-labeled dose of imatinib, approximately 81% of the dose was eliminated within 7 days, in feces (68% of dose) and urine (13% of dose).
@@ -75,7 +75,7 @@ The mean dose normalized AUC for imatinib in the patients receiving EIAED’s de
 Concomitant administration of imatinib mesylate tablets and St. John’s Wort led to a 30% reduction in the AUC of imatinib.
 
 Consider alternative therapeutic agents with less enzyme induction potential in patients when rifampin or other CYP3A4 inducers are indicated.
-Imatinib mesylate tablets doses up to 1200 mg/day (600 mg BID) have been given to patients receiving concomitant strong CYP3A4 inducers [see Dosage and Administration (2.12)].
+Imatinib mesylate tablets doses up to 1200 mg/day (600 mg twice daily) have been given to patients receiving concomitant strong CYP3A4 inducers [see Dosage and Administration (2.12)].
 
 Agents Inhibiting CYP3A Metabolism There was a significant increase in exposure to imatinib (mean Cmax and AUC increased by 26% and 40%, respectively) in healthy subjects when imatinib mesylate tablets were coadministered with a single dose of ketoconazole (a CYP3A4 inhibitor).
 Caution is recommended when administering imatinib mesylate tablets with strong CYP3A4 inhibitors (e.g., ketoconazole, itraconazole, clarithromycin, atazanavir, indinavir, nefazodone, nelfinavir, ritonavir, saquinavir, telithromycin, and voriconazole).

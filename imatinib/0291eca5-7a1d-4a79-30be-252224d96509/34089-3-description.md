@@ -5,8 +5,8 @@ Imatinib mesylate film-coated tablets contain imatinib mesylate equivalent to 10
 Imatinib mesylate is designated chemically as 4-[(4-Methyl-1-piperazinyl)methyl]-N-[4-methyl-3-[[4-(3-pyridinyl)-2-pyrimidinyl]amino]-phenyl]benzamide methanesulfonate and its structural formula is:
 
 Imatinib mesylate is a white to off-white crystalline powder.
-Its molecular formula is C29H31N7O • CH4SO3 and its molecular weight is 589.7.
+Its molecular formula is C29H31N7O • CH4SO3 and its molecular weight is 589.7 g/mol.
 Imatinib mesylate is freely soluble in water and freely to sparingly soluble in methanol.
 
 Inactive Ingredients: colloidal silicon dioxide (NF); crospovidone (NF); and magnesium stearate (NF).
-Tablet coating: hypromellose (USP); hydroxypropyl cellulose, red ferric oxide (NF); yellow ferric oxide (NF); and polyethylene glycol (NF).
+Tablet coating: ferric oxide red (NF); ferric oxide yellow (NF); hypromellose (USP); hydroxypropyl cellulose, and polyethylene glycol (NF).

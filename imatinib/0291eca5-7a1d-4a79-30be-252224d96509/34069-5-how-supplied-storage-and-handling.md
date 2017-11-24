@@ -16,13 +16,10 @@ Bottles of 30 tablets………………………………..…..NDC 60505-2901-3
 
 Storage and Handling
 
-Store at 20º to 25ºC (68º to 77ºF); excursions permitted from 15 to 30ºC (59 to 86ºF) [see USP Controlled Room Temperature].
+Store at 20ºC to 25ºC (68ºF to 77ºF); excursions permitted from 15°C to 30ºC (59°F to 86ºF) [see USP Controlled Room Temperature].
 Protect from moisture.
 
 Dispense in a tight container, USP.
-
-Imatinib mesylate is an antineoplastic product.
-Follow special handling and disposal procedures.1
 
 Imatinib mesylate tablets should not be crushed.
 Direct contact of crushed tablets with the skin or mucous membranes should be avoided.
