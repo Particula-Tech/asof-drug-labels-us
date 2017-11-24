@@ -1,230 +1,180 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-During its premarketing assessment, multiple doses of sertraline hydrochloride were administered to over 4000 adult subjects as of February 18, 2000.
-The conditions and duration of exposure to sertraline hydrochloride varied greatly, and included (in overlapping categories) clinical pharmacology studies, open and double-blind studies, uncontrolled and controlled studies, inpatient and outpatient studies, fixed-dose and titration studies, and studies for multiple indications, including major depressive disorder and PMDD.
+The following adverse reactions are described in more detail in other sections of the prescribing information:
 
-Untoward events associated with this exposure were recorded by clinical investigators using terminology of their own choosing.
-Consequently, it is not possible to provide a meaningful estimate of the proportion of individuals experiencing adverse events without first grouping similar types of untoward events into a smaller number of standardized event categories.
+- Hypersensitivity reactions to sertraline [See Contraindications (4)]
+- QT prolongation and ventricular arrhythmias when taken with pimozide [See Contraindications (4)]
+- Suicidal thoughts and behaviors [See Warnings and Precautions (5.1)]
+- Serotonin syndrome [See Contraindications (4), Warnings and Precautions (5.2), Drug Interactions (7.1)]
+- Increased risk of bleeding [See Warnings and Precautions (5.3)]
+- Activation of mania/hypomania [See Warnings and Precautions (5.4)]
+- Discontinuation syndrome [See Warnings and Precautions (5.5)]
+- Seizures [See Warnings and Precautions (5.6)]
+- Angle-closure glaucoma [See Warnings and Precautions (5.7)]
+- Hyponatremia [See Warnings and Precautions (5.8)]
 
-In the tabulations that follow, a World Health Organization dictionary of terminology has been used to classify reported adverse events.
-The frequencies presented, therefore, represent the proportion of the over 4000 adult individuals exposed to multiple doses of sertraline hydrochloride who experienced a treatment-emergent adverse event of the type cited on at least one occasion while receiving sertraline hydrochloride.
-An event was considered treatment-emergent if it occurred for the first time or worsened while receiving therapy following baseline evaluation.
-It is important to emphasize that events reported during therapy were not necessarily caused by it.
+## 6.1 Clinical Trials Experience
 
-The prescriber should be aware that the figures in the tables and tabulations cannot be used to predict the incidence of side effects in the course of usual medical practice where patient characteristics and other factors differ from those that prevailed in the clinical trials.
-Similarly, the cited frequencies cannot be compared with figures obtained from other clinical investigations involving different treatments, uses, and investigators.
-The cited figures, however, do provide the prescribing physician with some basis for estimating the relative contribution of drug and nondrug factors to the side effect incidence rate in the population studied.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Incidence in Placebo-Controlled Trials– Table 2 enumerates the most common treatment-emergent adverse events associated with the use of Sertraline hydrochloride (incidence of at least 5% for Sertraline hydrochloride and at least twice that for placebo within at least one of the indications) for the treatment of adult patients with major depressive disorder/other*, OCD, panic disorder, PTSD, PMDD and social anxiety disorder in placebo-controlled clinical trials.
-Most patients in major depressive disorder/other*, OCD, panic disorder, PTSD and social anxiety disorder studies received doses of 50 to 200 mg/day.
-Patients in the PMDD study with daily dosing throughout the menstrual cycle received doses of 50 to 150 mg/day, and in the PMDD study with dosing during the luteal phase of the menstrual cycle received doses of 50 to 100 mg/day.
-Table 3 enumerates treatment-emergent adverse events that occurred in 2% or more of adult patients treated with Sertraline hydrochloride and with incidence greater than placebo who participated in controlled clinical trials comparing Sertraline hydrochloride with placebo in the treatment of major depressive disorder/other*, OCD, panic disorder, PTSD, PMDD and social anxiety disorder.
-Table 3 provides combined data for the pool of studies that are provided separately by indication in Table 2.
+The data described below are from randomized, double-blind, placebo-controlled trials of sertraline (mostly 50 mg to 200 mg per day) in 3,066 adults diagnosed with MDD, OCD, PD, PTSD, SAD, and PMDD.
+These 3,066 patients exposed to sertraline for 8 to12 weeks represent 568 patient-years of exposure.
+The mean age was 40 years; 57% were females and 43% were males.
 
-TABLE 2 MOST COMMON TREATMENT-EMERGENT ADVERSE EVENTS: INCIDENCE IN PLACEBO-CONTROLLED CLINICAL TRIALS
+The most common adverse reactions (≥5% and twice placebo) in all pooled placebo-controlled clinical trials of all sertraline -treated patients with MDD, OCD, PD, PTSD, SAD and PMDD were nausea, diarrhea/loose stool, tremor, dyspepsia, decreased appetite, hyperhidrosis, ejaculation failure, and decreased libido (see Table 3).
+The following are the most common adverse reactions in trials of sertraline (≥5% and twice placebo) by indication that were not mentioned previously.
 
-| Percentage of Patients Reporting Event |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Major Depressive Disorder/Other* |  | OCD |  | Panic Disorder |  | PTSD |  |
-| Body System/Adverse Event | Sertraline (N=861) | Placebo (N=853) | Sertraline (N=533) | Placebo (N=373) | Sertraline (N=430) | Placebo (N=275) | Sertraline (N=374) | Placebo (N=376) |
-| Autonomic Nervous System Disorders |  |  |  |  |  |  |  |  |
-| Ejaculation Failure(1) | 7 | <1 | 17 | 2 | 19 | 1 | 11 | 1 |
-| Mouth Dry | 16 | 9 | 14 | 9 | 15 | 10 | 11 | 6 |
-| Sweating Increased | 8 | 3 | 6 | 1 | 5 | 1 | 4 | 2 |
-| Center. & Peripheral. Nervous. System Disorders |  |  |  |  |  |  |  |  |
-| Somnolence | 13 | 6 | 15 | 8 | 15 | 9 | 13 | 9 |
-| Tremor | 11 | 3 | 8 | 1 | 5 | 1 | 5 | 1 |
-| Dizziness | 12 | 7 | 17 | 9 | 10 | 10 | 8 | 5 |
-| General |  |  |  |  |  |  |  |  |
-| Fatigue | 11 | 8 | 14 | 10 | 11 | 6 | 10 | 5 |
-| Pain | 1 | 2 | 3 | 1 | 3 | 3 | 4 | 6 |
-| Malaise | <1 | 1 | 1 | 1 | 7 | 14 | 10 | 10 |
-| Gastrointestinal Disorders |  |  |  |  |  |  |  |  |
-| Abdominal Pain | 2 | 2 | 5 | 5 | 6 | 7 | 6 | 5 |
-| Anorexia | 3 | 2 | 11 | 2 | 7 | 2 | 8 | 2 |
-| Constipation | 8 | 6 | 6 | 4 | 7 | 3 | 3 | 3 |
-| Diarrhea/Loose Stools | 18 | 9 | 24 | 10 | 20 | 9 | 24 | 15 |
-| Dyspepsia | 6 | 3 | 10 | 4 | 10 | 8 | 6 | 6 |
-| Nausea | 26 | 12 | 30 | 11 | 29 | 18 | 21 | 11 |
-| Psychiatric Disorders |  |  |  |  |  |  |  |  |
-| Agitation | 6 | 4 | 6 | 3 | 6 | 2 | 5 | 5 |
-| Insomnia | 16 | 9 | 28 | 12 | 25 | 18 | 20 | 11 |
-| Libido Decreased | 1 | <1 | 11 | 2 | 7 | 1 | 7 | 2 |
-| Percentage of Patients Reporting Event |  |  |  |  |  |  |  |  |
-|  | PMDD Daily Dosing |  |  | PMDD Luteal Phase Dosing(2) |  |  | Social Anxiety Disorder |  |
-| Body System/Adverse Event | Sertraline (N=121) | Placebo (N=122) |  | Sertraline (N=136) | Placebo (N=127) |  | Sertraline (N=344) | Placebo (N=268) |
-| Autonomic Nervous System Disorders |  |  |  |  |  |  |  |  |
-| Ejaculation Failure(1) | N/A | N/A |  | N/A | N/A |  | 14 | - |
-| Mouth Dry | 6 | 3 |  | 10 | 3 |  | 12 | 4 |
-| Sweating Increased | 6 | <1 |  | 3 | 0 |  | 11 | 2 |
-| Center. & Peripheral. Nervous. System Disorders |  |  |  |  |  |  |  |  |
-| Somnolence | 7 | <1 |  | 2 | 0 |  | 9 | 6 |
-| Tremor | 2 | 0 |  | <1 | <1 |  | 9 | 3 |
-| Dizziness | 6 | 3 |  | 7 | 5 |  | 14 | 6 |
-| General |  |  |  |  |  |  |  |  |
-| Fatigue | 16 | 7 |  | 10 | <1 |  | 12 | 6 |
-| Pain | 6 | <1 |  | 3 | 2 |  | 1 | 3 |
-| Malaise | 9 | 5 |  | 7 | 5 |  | 8 | 3 |
-| Gastrointestinal Disorders |  |  |  |  |  |  |  |  |
-| Abdominal Pain | 7 | <1 |  | 3 | 3 |  | 5 | 5 |
-| Anorexia | 3 | 2 |  | 5 | 0 |  | 6 | 3 |
-| Constipation | 2 | 3 |  | 1 | 2 |  | 5 | 3 |
-| Diarrhea/Loose Stools | 13 | 3 |  | 13 | 7 |  | 21 | 8 |
-| Dyspepsia | 7 | 2 |  | 7 | 3 |  | 13 | 5 |
-| Nausea | 23 | 9 |  | 13 | 3 |  | 22 | 8 |
-| Psychiatric Disorders |  |  |  |  |  |  |  |  |
-| Agitation | 2 | <1 |  | 1 | 0 |  | 4 | 2 |
-| Insomnia | 17 | 11 |  | 12 | 10 |  | 25 | 10 |
-| Libido Decreased | 11 | 2 |  | 4 | 2 |  | 9 | 3 |
-| *Major depressive disorder and other premarketing controlled trials. |  |  |  |  |  |  |  |  |
-| (1)Primarily ejaculatory delay. Denominator used was for male patients only (N=271 sertraline hydrochloride major depressive disorder/other*; N=271 placebo major depressive disorder/other*; N=296 sertraline hydrochloride OCD; N=219 placebo OCD; N=216 sertraline hydrochloride panic disorder; N=134 placebo panic disorder; N=130 sertraline hydrochloride PTSD; N=149 placebo PTSD; No male patients in PMDD studies; N=205 sertraline hydrochloride social anxiety disorder; N=153 placebo social anxiety disorder). |  |  |  |  |  |  |  |  |
-| (2)The luteal phase and daily dosing PMDD trials were not designed for making direct comparisons between the two dosing regimens. Therefore, a comparison between the two dosing regimens of the PMDD trials of incidence rates shown in Table 2 should be avoided. |  |  |  |  |  |  |  |  |
+- MDD: somnolence;
+- OCD: insomnia, agitation;
+- PD: constipation, agitation;
+- PTSD: fatigue;
+- PMDD: somnolence, dry mouth, dizziness, fatigue, and abdominal pain;
+- SAD: insomnia, dizziness, fatigue, dry mouth, malaise.
 
-TABLE 3 TREATMENT-EMERGENT ADVERSE EVENTS: INCIDENCE IN PLACEBO-CONTROLLED CLINICAL TRIALSPercentage of Patients Reporting Event Major Depressive Disorder/Other*, OCD, Panic Disorder, PTSD, PMDD and Social Anxiety Disorder combined
+Table 3: Common Adverse Reactions in Pooled Placebo-Controlled Trials in Adults with MDD, OCD, PD, PTSD, SAD, and PMDD*
 
-| Body System/Adverse Event** | Sertraline (N=2799) | Placebo (N=2394) |
+|  | Sertraline (N=3066) | Placebo (N=2293) |
 | --- | --- | --- |
-| Autonomic Nervous System Disorders |  |  |
-| Ejaculation Failure (1) | 14 | 1 |
-| Mouth Dry | 14 | 8 |
-| Sweating Increased | 7 | 2 |
-| Center. & Periph. Nerv. System Disorders |  |  |
-| Somnolence | 13 | 7 |
-| Dizziness | 12 | 7 |
-| Headache | 25 | 23 |
-| Paresthesia | 2 | 1 |
-| Tremor | 8 | 2 |
-| Disorders of Skin and Appendages |  |  |
-| Rash | 3 | 2 |
+| Cardiac disorders |  |  |
+| Palpitations | 4% | 2% |
+| Eye disorders |  |  |
+| Visual impairment | 4% | 2% |
 | Gastrointestinal Disorders |  |  |
-| Anorexia | 6 | 2 |
-| Constipation | 6 | 4 |
-| Diarrhea/Loose Stools | 20 | 10 |
-| Dyspepsia | 8 | 4 |
-| Nausea | 25 | 11 |
-| Vomiting | 4 | 2 |
-| General |  |  |
-| Fatigue | 12 | 7 |
+| Nausea | 26% | 12% |
+| Diarrhea/Loose Stools | 20% | 10% |
+| Dry mouth | 14% | 9% |
+| Dyspepsia | 8% | 4% |
+| Constipation | 6% | 4% |
+| Vomiting | 4% | 1% |
+| General disorders and administration site conditions |  |  |
+| Fatigue | 12% | 8% |
+| Metabolism and nutrition disorders |  |  |
+| Decreased appetite | 7% | 2% |
+| Nervous system disorders |  |  |
+| Dizziness | 12% | 8% |
+| Somnolence | 11% | 6% |
+| Tremor | 9% | 2% |
 | Psychiatric Disorders |  |  |
-| Agitation | 5 | 3 |
-| Anxiety | 4 | 3 |
-| Insomnia | 21 | 11 |
-| Libido Decreased | 6 | 2 |
-| Nervousness | 5 | 4 |
-| Special Senses |  |  |
-| Vision Abnormal | 3 | 2 |
-| (1) Primarily ejaculatory delay. Denominator used was for male patients only (N=1118 Sertraline hydrochloride; N=926 placebo). |  |  |
-| *Major depressive disorder and other premarketing controlled trials. |  |  |
-| **Included are events reported by at least 2% of patients taking Sertraline hydrochloride except the following events, which had an incidence on placebo greater than or equal to Sertraline hydrochloride: abdominal pain, back pain, flatulence, malaise, pain, pharyngitis, respiratory disorder, upper respiratory tract infection. |  |  |
+| Insomnia | 20% | 13% |
+| Agitation | 8% | 5% |
+| Libido Decreased | 6% | 2% |
+| Reproductive system and breast disorders |  |  |
+| Ejaculation failure (1) | 8% | 1% |
+| Erectile dysfunction (1) | 4% | 1% |
+| Ejaculation disorder (1) | 3% | 0% |
+| Male sexual dysfunction (1) | 2% | 0% |
+| Skin and subcutaneous tissue disorders |  |  |
+| Hyperhidrosis | 7% | 3% |
 
-Associated with Discontinuation in Placebo-Controlled Clinical Trials
+(1) Denominator used was for male patients only (n=1316 sertraline; n=973 placebo).
 
-Table 4 lists the adverse events associated with discontinuation of Sertraline hydrochloride treatment (incidence at least twice that for placebo and at least 1% for Sertraline hydrochloride in clinical trials) in major depressive disorder/other*, OCD, panic disorder, PTSD, PMDD, and social anxiety disorder.
+* Adverse reactions that occurred greater than 2% in sertraline -treated patients and at least 2% greater in sertraline -treated patients than placebo-treated patients.
 
-TABLE 4 MOST COMMON ADVERSE EVENTS ASSOCIATED WITH DISCONTINUATION IN PLACEBO-CONTROLLED CLINICAL TRIALS
+Adverse Reactions Leading to Discontinuation in Placebo-Controlled Clinical Trials
 
-| Adverse Event | Major Depressive Disorder/Other*, OCD, panic Disorder, PSTD, PMDD and Social Anxiety Disorder combined (N=2799) | Major Depressive Disorder/ Other* (N=861) | OCD (N=533) | Panic Disorder (N=430) | PTSD (N=374) | PMDD Daily Dosing (N=121) | PMDD Luteal Phase Dosing (N=136) | Social Anxiety Disorder (N=344) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Abdominal Pain | – | – | – | – | – | – | – | 1% |
-| Agitation | – | 1% | – | 2% | – | – | – | – |
-| Anxiety | – | – | – | – | – | – | – | 2% |
-| Diarrhea/ Loose Stools | 2% | 2% | 2% | 1% | – | 2% | – | – |
-| Dizziness | – | – | 1% | – | – | – | – | – |
-| Dry Mouth | – | 1% | – | – | – | – | – | – |
-| Dyspepsia | – | – | – | 1% | – | – | – | – |
-| Ejaculation Failure(1) | 1% | 1% | 1% | 2% | – | N/A | N/A | 2% |
-| Fatigue | – | – | – | – | – | – | – | 2% |
-| Headache | 1% | 2% | – | – | 1% | – | – | 2% |
-| Hot Flushes | – | – | – | – | – | – | 1% | – |
-| Insomnia | 2% | 1% | 3% | 2% | – | – | 1% | 3% |
-| Nausea | 3% | 4% | 3% | 3% | 2% | 2% | 1% | 2% |
-| Nervousness | – | – | – | – | – | 2% | – | – |
-| Palpitation | – | – | – | – | – | – | 1% | – |
-| Somnolence | 1% | 1% | 2% | 2% | – | – | – | – |
-| Tremor | – | 2% | – | – | – | – | – | – |
-| (1)Primarily ejaculatory delay. Denominator used was for male patients only (N=271 major depressive disorder/other*; N=296 OCD; N=216 panic disorder; N=130 PTSD; No male patients in PMDD studies; N=205 social anxiety disorder). |  |  |  |  |  |  |  |  |
-| *Major depressive disorder and other premarketing controlled trials. |  |  |  |  |  |  |  |  |
+In all placebo-controlled studies in patients with MDD, OCD, PD, PTSD, SAD and PMDD, 368 (12%) of the 3,066 patients who received sertraline discontinued treatment due to an adverse reaction, compared with 93 (4%) of the 2,293 placebo-treated patients.
+In placebo-controlled studies, the following were the common adverse reactions leading to discontinuation in sertraline -treated patients:
 
-Male and Female Sexual Dysfunction with SSRIs
+- MDD, OCD, PD, PTSD, SAD and PMDD: nausea (3%), diarrhea (2%), agitation (2%), and insomnia (2%).
+- MDD (>2% and twice placebo): decreased appetite, dizziness, fatigue, headache, somnolence, tremor, and vomiting.
+- OCD: somnolence.
+- PD: nervousness and somnolence.
 
-Although changes in sexual desire, sexual performance and sexual satisfaction often occur as manifestations of a psychiatric disorder, they may also be a consequence of pharmacologic treatment.
-In particular, some evidence suggests that selective serotonin reuptake inhibitors (SSRIs) can cause such untoward sexual experiences.
-Reliable estimates of the incidence and severity of untoward experiences involving sexual desire, performance and satisfaction are difficult to obtain, however, in part because patients and physicians may be reluctant to discuss them.
-Accordingly, estimates of the incidence of untoward sexual experience and performance cited in product labeling, are likely to underestimate their actual incidence.
+Male and Female Sexual Dysfunction
 
-Table 5 below displays the incidence of sexual side effects reported by at least 2% of patients taking Sertraline hydrochloride in placebo-controlled trials.
+Although changes in sexual desire, sexual performance and sexual satisfaction often occur as manifestations of a psychiatric disorder, they may also be a consequence of SSRI treatment.
+However, reliable estimates of the incidence and severity of untoward experiences involving sexual desire, performance and satisfaction are difficult to obtain, in part because patients and healthcare providers may be reluctant to discuss them.
+Accordingly, estimates of the incidence of untoward sexual experience and performance cited in labeling may underestimate their actual incidence.
 
-TABLE 5
+Table 4 below displays the incidence of sexual adverse reactions reported by at least 2% of sertraline-treated patients and twice placebo from pooled placebo-controlled trials.
+For men and all indications, the most common adverse reactions (>2% and twice placebo) included: ejaculation failure, decreased libido, erectile dysfunction, ejaculation disorder, and male sexual dysfunction.
+For women, the most common adverse reaction (≥2% and twice placebo) was decreased libido.
 
-| Adverse Event | Sertraline | Placebo |
+Table 4: Most Common Sexual Adverse Reactions (≥2% and twice placebo) in Men or Women from Sertraline Pooled Controlled Trials in Adults with MDD, OCD, PD, PTSD, SAD, and PMDD
+
+|  | Sertraline | Placebo |
 | --- | --- | --- |
-| Ejaculation failure*(primarily delayed ejaculation) | 14% | 1% |
-| Decreased libido** | 6% | 1% |
-| *Denominator used was for male patients only (N=1118 Sertraline hydrochloride; N=926 placebo) |  |  |
-| **Denominator used was for male and female patients (N=2799 Sertraline hydrochloride; N=2394 placebo) |  |  |
+| Men only | (N=1316) | (N=973) |
+| Ejaculation failure | 8% | 1% |
+| Libido decreased | 7% | 2% |
+| Erectile dysfunction | 4% | 1% |
+| Ejaculation disorder | 3% | 0% |
+| Male sexual dysfunction | 2% | 0% |
+| Women only | (N=1750) | (N=1320) |
+| Libido decreased | 4% | 2% |
 
-There are no adequate and well-controlled studies examining sexual dysfunction with sertraline treatment.
+Adverse Reactions in Pediatric Patients
 
-Priapism has been reported with all SSRIs.
+In 281 pediatric patients treated with sertraline in placebo-controlled studies, the overall profile of adverse reactions was generally similar to that seen in adult studies.
+Adverse reactions that do not appear in Table 3 (most common adverse reactions in adults) yet were reported in at least 2% of pediatric patients and at a rate of at least twice the placebo rate include fever, hyperkinesia, urinary incontinence, aggression, epistaxis, purpura, arthralgia, decreased weight, muscle twitching, and anxiety.
 
-While it is difficult to know the precise risk of sexual dysfunction associated with the use of SSRIs, physicians should routinely inquire about such possible side effects.
+Other Adverse Reactions Observed During the Premarketing Evaluation of Sertraline
 
-Other Adverse Events in Pediatric Patients–In over 600 pediatric patients treated with Sertraline hydrochloride, the overall profile of adverse events was generally similar to that seen in adult studies.
-However, the following adverse events, from controlled trials, not appearing in Tables 2 and 3, were reported at an incidence of at least 2% and occurred at a rate of at least twice the placebo rate (N=281 patients treated with Sertraline hydrochloride): fever, hyperkinesia, urinary incontinence, aggressive reaction, sinusitis, epistaxis and purpura.
+Other infrequent adverse reactions, not described elsewhere in the prescribing information, occurring at an incidence of < 2% in patients treated with sertraline were:
 
-Other Events Observed During the Premarketing Evaluation of Sertraline hydrochloride–Following is a list of treatment-emergent adverse events reported during premarketing assessment of Sertraline hydrochloride in clinical trials (over 4000 adult subjects) except those already listed in the previous tables or elsewhere in labeling.
+Cardiac disorders – tachycardia
 
-In the tabulations that follow, a World Health Organization dictionary of terminology has been used to classify reported adverse events.
-The frequencies presented, therefore, represent the proportion of the over 4000 adult individuals exposed to multiple doses of Sertraline hydrochloride who experienced an event of the type cited on at least one occasion while receiving Sertraline hydrochloride.
-All events are included except those already listed in the previous tables or elsewhere in labeling and those reported in terms so general as to be uninformative and those for which a causal relationship to Sertraline hydrochloride treatment seemed remote.
-It is important to emphasize that although the events reported occurred during treatment with Sertraline hydrochloride, they were not necessarily caused by it.
+Ear and labyrinth disorders – tinnitus
 
-Events are further categorized by body system and listed in order of decreasing frequency according to the following definitions: frequent adverse events are those occurring on one or more occasions in at least 1/100 patients; infrequent adverse events are those occurring in 1/100 to 1/1000 patients; rare events are those occurring in fewer than 1/1000 patients.
-Events of major clinical importance are also described in the PRECAUTIONS section.
+Endocrine disorders - hypothyroidism
 
-Autonomic Nervous System Disorders–Frequent: impotence; Infrequent: flushing, increased saliva, cold clammy skin, mydriasis; Rare: pallor, glaucoma, priapism, vasodilation.
+Eye disorders -mydriasis, blurred vision
 
-Body as a Whole–General Disorders–Rare: allergic reaction, allergy.
+Gastrointestinal disorders - hematochezia, melena, rectal hemorrhage
 
-Cardiovascular–Frequent: palpitations, chest pain; Infrequent: hypertension, tachycardia, postural dizziness, postural hypotension, periorbital edema, peripheral edema, hypotension, peripheral ischemia, syncope, edema, dependent edema; Rare: precordial chest pain, substernal chest pain, aggravated hypertension, myocardial infarction, cerebrovascular disorder.
+General disorders and administration site conditions - edema, gait disturbance, irritability, pyrexia
 
-Central and Peripheral Nervous System Disorders–Frequent: hypertonia, hypoesthesia; Infrequent: twitching, confusion, hyperkinesia, vertigo, ataxia, migraine, abnormal coordination, hyperesthesia, leg cramps, abnormal gait, nystagmus, hypokinesia; Rare: dysphonia, coma, dyskinesia, hypotonia, ptosis, choreoathetosis, hyporeflexia.
+Hepatobiliary disorders - elevated liver enzymes
 
-Disorders of Skin and Appendages–Infrequent: pruritus, acne, urticaria, alopecia, dry skin, erythematous rash, photosensitivity reaction, maculopapular rash; Rare: follicular rash, eczema, dermatitis, contact dermatitis, bullous eruption, hypertrichosis, skin discoloration, pustular rash.
+Immune system disorders - anaphylaxis
 
-Endocrine Disorders–Rare: exophthalmos, gynecomastia.
+Metabolism and nutrition disorders - diabetes mellitus, hypercholesterolemia, hypoglycemia, increased appetite
 
-Gastrointestinal Disorders–Frequent: appetite increased; Infrequent: dysphagia, tooth caries aggravated, eructation, esophagitis, gastroenteritis; Rare: melena, glossitis, gum hyperplasia, hiccup, stomatitis, tenesmus, colitis, diverticulitis, fecal incontinence, gastritis, rectum hemorrhage, hemorrhagic peptic ulcer, proctitis, ulcerative stomatitis, tongue edema, tongue ulceration.
+Musculoskeletal and connective tissue disorders – arthralgia, muscle spasms, tightness, or twitching
 
-General–Frequent: back pain, asthenia, malaise, weight increase; Infrequent: fever, rigors, generalized edema; Rare: face edema, aphthous stomatitis.
+Nervous system disorders - ataxia, coma, convulsion, decreased alertness, hypoesthesia, lethargy, psychomotor hyperactivity, syncope
 
-Hearing and Vestibular Disorders–Rare: hyperacusis, labyrinthine disorder.
+Psychiatric disorders - aggression, bruxism, confusional state, euphoric mood, hallucination
 
-Hematopoietic and Lymphatic–Rare: anemia, anterior chamber eye hemorrhage.
+Renal and urinary disorders - hematuria
 
-Liver and Biliary System Disorders–Rare: abnormal hepatic function.
+Reproductive system and breast disorders - galactorrhea, priapism, vaginal hemorrhage
 
-Metabolic and Nutritional Disorders–Infrequent: thirst; Rare: hypoglycemia, hypoglycemia reaction.
+Respiratory, thoracic and mediastinal disorders - bronchospasm, epistaxis, yawning
 
-Musculoskeletal System Disorders–Frequent: myalgia; Infrequent: arthralgia, dystonia,
+Skin and subcutaneous tissue disorders - alopecia; cold sweat; dermatitis; dermatitis bullous; pruritus; purpura; erythematous, follicular, or maculopapular rash; urticaria
 
-arthrosis, muscle cramps, muscle weakness.
+Vascular disorders - hemorrhage, hypertension, vasodilation
 
-Psychiatric Disorders–Frequent: yawning, other male sexual dysfunction, other female sexual dysfunction; Infrequent: depression, amnesia, paroniria, teeth-grinding, emotional lability, apathy, abnormal dreams, euphoria, paranoid reaction, hallucination, aggressive reaction, aggravated depression, delusions; Rare: withdrawal syndrome, suicide ideation, libido increased, somnambulism, illusion.
+## 6.2 Postmarketing Experience
 
-Reproductive–Infrequent: menstrual disorder, dysmenorrhea, intermenstrual bleeding, vaginal hemorrhage, amenorrhea, leukorrhea; Rare: female breast pain, menorrhagia, balanoposthitis, breast enlargement, atrophic vaginitis, acute female mastitis.
+The following adverse reactions have been identified during postapproval use of sertraline.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Respiratory System Disorders–Frequent: rhinitis; Infrequent: coughing, dyspnea, upper respiratory tract infection, epistaxis, bronchospasm, sinusitis; Rare: hyperventilation, bradypnea, stridor, apnea, bronchitis, hemoptysis, hypoventilation, laryngismus, laryngitis.
+Bleeding or clotting disorders - increased coagulation times (altered platelet function)
 
-Special Senses–Frequent: tinnitus; Infrequent: conjunctivitis, earache, eye pain, abnormal accommodation; Rare: xerophthalmia, photophobia, diplopia, abnormal lacrimation, scotoma, visual field defect.
+Cardiac disorders – AV block, bradycardia, atrial arrhythmias, QT-interval prolongation, ventricular tachycardia (including Torsade de Pointes)
 
-Urinary System Disorders–Infrequent: micturition frequency, polyuria, urinary retention, dysuria, nocturia, urinary incontinence; Rare: cystitis, oliguria, pyelonephritis, hematuria, renal pain, strangury.
+Endocrine disorders -gynecomastia, hyperprolactinemia, menstrual irregularities, SIADH
 
-Laboratory Tests–In man, asymptomatic elevations in serum transaminases (SGOT [or AST] and SGPT [or ALT]) have been reported infrequently (approximately 0.8%) in association with sertraline hydrochloride administration.
-These hepatic enzyme elevations usually occurred within the first 1 to 9 weeks of drug treatment and promptly diminished upon drug discontinuation.
+Eye disorders - blindness, optic neuritis, cataract
 
-Sertraline hydrochloride therapy was associated with small mean increases in total cholesterol (approximately 3%) and triglycerides (approximately 5%), and a small mean decrease in serum uric acid (approximately 7%) of no apparent clinical importance.
+Hepatobiliary disorders – severe liver events (including hepatitis, jaundice, liver failure with some fatal outcomes), pancreatitis
 
-The safety profile observed with Sertraline hydrochloride treatment in patients with major depressive disorder, OCD, panic disorder, PTSD, PMDD and social anxiety disorder is similar.
+Hemic and Lymphatic – agranulocytosis, aplastic anemia and pancytopenia, leukopenia, thrombocytopenia, lupus-like syndrome, serum sickness
 
-Other Events Observed During the Postmarketing Evaluation of Sertraline hydrochloride –Reports of adverse events temporally associated with Sertraline hydrochloride that have been received since market introduction, that are not listed above and that may have no causal relationship with the drug, include the following: acute renal failure, anaphylactoid reaction, angioedema, blindness, optic neuritis, cataract, increased coagulation times, bradycardia, AV block, atrial arrhythmias, QT-interval prolongation, ventricular tachycardia (including torsade de pointes-type arrhythmias), hypothyroidism, agranulocytosis, aplastic anemia and pancytopenia, leukopenia, thrombocytopenia, lupus-like syndrome, serum sickness, hyperglycemia, galactorrhea, hyperprolactinemia, extrapyramidal symptoms, oculogyric crisis, psychosis, pulmonary hypertension, severe skin reactions, which potentially can be fatal, such as Stevens-Johnson syndrome, vasculitis, photosensitivity and other severe cutaneous disorders, rare reports of pancreatitis, and liver events—clinical features (which in the majority of cases appeared to be reversible with discontinuation of sertraline hydrochloride) occurring in one or more patients include: elevated enzymes, increased bilirubin, hepatomegaly, hepatitis, jaundice, abdominal pain, vomiting, liver failure and death.
+Immune system disorders - angioedema
+
+Metabolism and nutrition disorders – hyponatremia, hyperglycemia Musculoskeletal and connective tissue disorders - trismus Nervous system disorders -serotonin syndrome, extrapyramidal symptoms (including akathisia and dystonia), oculogyric crisis
+
+Psychiatric disorders – psychosis, enuresis, paroniria
+
+Renal and urinary disorders - acute renal failure
+
+Respiratory, thoracic and mediastinal
+
+disorders - pulmonary hypertension
+
+Skin and subcutaneous tissue disorders - photosensitivity skin reaction and other severe cutaneous reactions, which potentially can be fatal, such as Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN)
+
+Vascular disorders - cerebrovascular spasm (including reversible cerebral vasoconstriction syndrome and Call-Fleming syndrome), vasculitis

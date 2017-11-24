@@ -1,53 +1,13 @@
-# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+# PACKAGE LABEL-PRINCIPAL DISPLAY PANEL
 
-NDC 69097-833-02 Rx ONLY
+NDC 69097-833-02 Rx Only Sertraline Tablets, USP 25 mg PHARMACIST: Dispense the Medication Guide provided separately to each patient 30 Tablets Cipla USA, Inc. Ascent Pharmaceuticals, Inc.
 
-Sertraline
+NDC 69097-833-02 Rx Only Sertraline Tablets, USP 25 mg PHARMACIST: Dispense the Medication Guide provided separately to each patient 30 Tablets Cipla USA, Inc. InvaGen Pharmaceuticals, Inc.
 
-Tablets, USP 25 mg
+NDC 69097-834-02 Rx Only Sertraline Tablets, USP 50 mg PHARMACIST: Dispense the Medication Guide provided separately to each patient 30 Tablets Cipla USA, Inc. Ascent Pharmaceuticals, Inc.
 
-PHARMACIST:
+NDC 69097-834-02 Rx Only Sertraline Tablets, USP 50 mg PHARMACIST: Dispense the Medication Guide provided separately to each patient 30 Tablets Cipla USA, Inc. InvaGen Pharmaceuticals, Inc.
 
-Dispense the Medication Guide
+NDC 69097-835-02 Rx Only Sertraline Tablets, USP 100 mg PHARMACIST: Dispense the Medication Guide provided separately to each patient 30 Tablets Cipla USA, Inc. Ascent Pharmaceuticals, Inc.
 
-provided separately to each patient
-
-30 Tablets
-
-Cipla
-
-NDC 69097-834-02 Rx ONLY
-
-Sertraline
-
-Tablets, USP
-
-50 mg
-
-PHARMACIST:
-
-Dispense the Medication Guide
-
-provided separately to each patient
-
-30 Tablets
-
-Cipla
-
-NDC 69097-835-02 Rx ONLY
-
-Sertraline
-
-Tablets, USP
-
-100 mg
-
-PHARMACIST:
-
-Dispense the Medication Guide
-
-provided separately to each patient
-
-30 Tablets
-
-Cipla
+NDC 69097-835-02 Rx Only Sertraline Tablets, USP 100 mg PHARMACIST: Dispense the Medication Guide provided separately to each patient 30 Tablets Cipla USA, Inc. InvaGen Pharmaceuticals, Inc.
