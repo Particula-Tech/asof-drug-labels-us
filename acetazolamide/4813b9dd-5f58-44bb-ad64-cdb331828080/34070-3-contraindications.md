@@ -1,0 +1,5 @@
+# CONTRAINDICATIONS
+
+Acetazolamide therapy is contraindicated in situations in which sodium and/or potassium blood serum levels are depressed, in cases of marked kidney and liver disease or dysfunction, in suprarenal gland failure, and in hyperchloremic acidosis.
+It is contraindicated in patients with cirrhosis because of the risk of development of hepatic encephalopathy.
+Long-term administration of acetazolamide is contraindicated in patients with chronic non-congestive angle-closure glaucoma since it may permit organic closure of the angle to occur while the worsening glaucoma is masked by lowered intraocular pressure.

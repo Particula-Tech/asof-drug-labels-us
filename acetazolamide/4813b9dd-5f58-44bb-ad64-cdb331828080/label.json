@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA209734"
+  ],
+  "inn": "acetazolamide",
+  "labeler": "Strides Shasun Limited",
+  "package_ndcs": [
+    "64380-833-06",
+    "64380-833-46",
+    "64380-834-06",
+    "64380-834-46"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "acetazolamide",
+      "name": "Acetazolamide"
+    }
+  ],
+  "setid": "4813b9dd-5f58-44bb-ad64-cdb331828080",
+  "source": "dailymed"
+}
