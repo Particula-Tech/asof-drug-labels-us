@@ -5,7 +5,7 @@ Less than 1% of patients discontinued from the studies due to blurred vision.
 
 The frequency of patients reporting burning and stinging upon instillation was comparable between TIMOPTIC-XE and TIMOPTIC (approximately one in eight patients).
 
-Adverse experiences reported in 1-5% of patients were:
+1. Adverse experiences reported in 1-5% of patients were:
 
 | Ocular: | Pain, conjunctivitis, discharge (e.g., crusting), foreign body sensation, itching and tearing; |
 | --- | --- |

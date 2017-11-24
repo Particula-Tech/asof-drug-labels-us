@@ -5,18 +5,23 @@ INSTRUCTIONS FOR USE
 Please follow these instructions carefully when using TIMOPTIC-XERegistered trademark of ATON PHARMA, INC. COPYRIGHT © 2012 ATON PHARMA, INC. All rights reserved.
 Use TIMOPTIC-XE as prescribed by your doctor.
 
-1. If you use other topically applied ophthalmic medications, they should be administered at least 10 minutes before or after TIMOPTIC-XE.
-2. Wash hands before each use.
-3. Before using the medication for the first time, be sure the Safety Strip on the front of the bottle is unbroken.
+1. 1.If you use other topically applied ophthalmic medications, they should be administered at least 10 minutes before or after TIMOPTIC-XE.
+2. 2.Wash hands before each use.
+3. 3.Before using the medication for the first time, be sure the Safety Strip on the front of the bottle is unbroken.
    A gap between the bottle and the cap is normal for an unopened bottle.
-4. Tear off the safety strip to break the seal.
-5. Invert the closed bottle and shake ONCE before each use.
+4. 
+5. 4.Tear off the safety strip to break the seal.
+6. 
+7. 5.Invert the closed bottle and shake ONCE before each use.
    (It is not necessary to shake the bottle more than once.)
-6. To open the bottle, unscrew the cap by turning as indicated by the arrows on the top of the cap.
+8. 6.To open the bottle, unscrew the cap by turning as indicated by the arrows on the top of the cap.
    Do not pull the cap directly up and away from the bottle.
    Pulling the cap directly up will prevent your dispenser from operating properly.
-7. Tilt your head back and pull your lower eyelid down slightly to form a pocket between your eyelid and your eye.
-8. Invert the bottle, and press lightly with the thumb or index finger over the "Finger Push Area" (as shown) until a single drop is dispensed into the eye as directed by your doctor.
+9. 
+10. 7.Tilt your head back and pull your lower eyelid down slightly to form a pocket between your eyelid and your eye.
+11. 
+12. 8.Invert the bottle, and press lightly with the thumb or index finger over the "Finger Push Area" (as shown) until a single drop is dispensed into the eye as directed by your doctor.
+13. 
 
 DO NOT TOUCH YOUR EYE OR EYELID WITH THE DROPPER TIP.
 
@@ -24,15 +29,15 @@ OPHTHALMIC MEDICATIONS, IF HANDLED IMPROPERLY, CAN BECOME CONTAMINATED BY COMMON
 SERIOUS DAMAGE TO THE EYE AND SUBSEQUENT LOSS OF VISION MAY RESULT FROM USING CONTAMINATED OPHTHALMIC MEDICATIONS.
 IF YOU THINK YOUR MEDICATION MAY BE CONTAMINATED, OR YOU DEVELOP AN EYE INFECTION, CONTACT YOUR DOCTOR IMMEDIATELY CONCERNING CONTINUED USE OF THIS BOTTLE.
 
-- 9.If drop dispensing is difficult after opening for the first time, replace the cap on the bottle and tighten (DO NOT OVERTIGHTEN) and then remove by turning the cap in the opposite direction as indicated by the arrows on the top of the cap.
-- 10.Repeat steps 7 & 8 with the other eye if instructed to do so by your doctor.
-- 11.Replace the cap by turning until it is firmly touching the bottle.
-  The arrow on the left side of the cap must be aligned with the arrow on the left side of the bottle label for proper closure.
-  Do not overtighten or you may damage the bottle and cap.
-- 12.The dispenser tip is designed to provide a single drop; therefore, do NOT enlarge the hole of the dispenser tip
-- 13.After you have used all doses, there will be some TIMOPTIC-XE left in the bottle.
-  You should not be concerned since an extra amount of TIMOPTIC-XE has been added and you will get the full amount of TIMOPTIC-XE that your doctor prescribed.
-  Do not attempt to remove excess medicine from the bottle.
+1. 1.If drop dispensing is difficult after opening for the first time, replace the cap on the bottle and tighten (DO NOT OVERTIGHTEN) and then remove by turning the cap in the opposite direction as indicated by the arrows on the top of the cap.
+2. 2.Repeat steps 7 & 8 with the other eye if instructed to do so by your doctor.
+3. 3.Replace the cap by turning until it is firmly touching the bottle.
+   The arrow on the left side of the cap must be aligned with the arrow on the left side of the bottle label for proper closure.
+   Do not overtighten or you may damage the bottle and cap.
+4. 4.The dispenser tip is designed to provide a single drop; therefore, do NOT enlarge the hole of the dispenser tip
+5. 5.After you have used all doses, there will be some TIMOPTIC-XE left in the bottle.
+   You should not be concerned since an extra amount of TIMOPTIC-XE has been added and you will get the full amount of TIMOPTIC-XE that your doctor prescribed.
+   Do not attempt to remove excess medicine from the bottle.
 
 WARNING: Keep out of reach of children.
 
