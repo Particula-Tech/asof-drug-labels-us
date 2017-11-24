@@ -27,4 +27,4 @@ In such a case, accumulation of the parent tricyclic and/or an active metabolite
 
 In managing overdosage, consider the possibility of multiple drug involvement.
 The physician should consider contacting a poison control center for additional information on the treatment of any overdose.
-Telephone numbers for certified poison control centers are listed in the Physicians’ Desk Reference (PDR).
+Telephone numbers for certified poison control centers are listed in the Physicians' Desk Reference (PDR).

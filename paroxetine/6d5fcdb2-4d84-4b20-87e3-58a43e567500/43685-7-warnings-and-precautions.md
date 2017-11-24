@@ -39,7 +39,7 @@ Although a causal link between the emergence of such symptoms and either the wor
 
 Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients whose depression is persistently worse, or who are experiencing emergent suicidality or symptoms that might be precursors to worsening depression or suicidality, especially if these symptoms are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
 
-If the decision has been made to discontinue treatment, medication should be tapered, as rapidly as is feasible, but with recognition that abrupt discontinuation can be associated with certain symptoms (see PRECAUTIONSand DOSAGE AND ADMINISTRATION: Discontinuation of Treatment With Paroxetine), for a description of the risks of discontinuation of paroxetine).
+If the decision has been made to discontinue treatment, medication should be tapered, as rapidly as is feasible, but with recognition that abrupt discontinuation can be associated with certain symptoms (see PRECAUTIONS and DOSAGE AND ADMINISTRATION: Discontinuation of Treatment With Paroxetine), for a description of the risks of discontinuation of paroxetine).
 
 Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to health care providers.
 Such monitoring should include daily observation by families and caregivers.
@@ -53,32 +53,25 @@ Whether any of the symptoms described above represent such a conversion is unkno
 However, prior to initiating treatment with an antidepressant, patients with depressive symptoms should be adequately screened to determine if they are at risk for bipolar disorder; such screening should include a detailed psychiatric history, including a family history of suicide, bipolar disorder, and depression.
 It should be noted that paroxetine tablets are not approved for use in treating bipolar depression.
 
-## Potential for Interaction with Monoamine Oxidase Inhibitors:
+## Serotonin Syndrome
 
-In patients receiving another serotonin reuptake inhibitor drug in combination with a monoamine oxidase inhibitor (MAOI), there have been reports of serious, sometimes fatal, reactions including hyperthermia, rigidity, myoclonus, autonomic instability with possible rapid fluctuations of vital signs, and mental status changes that include extreme agitation progressing to delirium and coma.
-These reactions have also been reported in patients who have recently discontinued that drug and have been started on an MAOI.
-Some cases presented with features resembling neuroleptic malignant syndrome.
-While there are no human data showing such an interaction with paroxetine tablets, limited animal data on the effects of combined use of paroxetine and MAOIs suggest that these drugs may act synergistically to elevate blood pressure and evoke behavioral excitation.
-Therefore, it is recommended that paroxetine tablets not be used in combination with an MAOI, (including linezolid, an antibiotic which is a reversible non-selective MAOI), and methylthioninium chloride [methylene blue]), or within 14 days of discontinuing treatment with an MAOI.
-(see CONTRAINDICATIONS).
-At least 2 weeks should be allowed after stopping paroxetine tablets before starting an MAOI.
+The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including paroxetine, alone but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, and St. John's Wort) and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
 
-## Serotonin Syndrome:
+Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
+Patients should be monitored for the emergence of serotonin syndrome.
 
-Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-like Reactions:
+The concomitant use of paroxetine with MAOIs intended to treat psychiatric disorders is contraindicated.
+Paroxetine should also not be started in a patient who is being treated with MAOIs such as linezolid or intravenous methylene blue.
+All reports with methylene blue that provided information on the route of administration involved intravenous administration in the dose range of 1 mg/kg to 8 mg/kg.
+No reports involved the administration of methylene blue by other routes (such as oral tablets or local tissue injection) or at lower doses.
+There may be circumstances when it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking paroxetine.
+Paroxetine should be discontinued before initiating treatment with the MAOI (see CONTRAINDICATIONS and DOSAGE AND ADMINISTRATION).
 
-The development of a potentially life-threatening serotonin syndrome or Neuroleptic Malignant Syndrome (NMS)-like reactions have been reported with SNRIs and SSRIs alone, including treatment with paroxetine, but particularly with concomitant use of serotonergic drugs (including triptans) with drugs which impair metabolism of serotonin (including MAOIs), or with antipsychotics or other dopamine antagonists.
-Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination) and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
-Serotonin syndrome, in its most severe form can resemble neuroleptic malignant syndrome, which includes hyperthermia, muscle rigidity, autonomic instability with possible rapid fluctuation of vital signs, and mental status changes.
-Patients should be monitored for the emergence of serotonin syndrome or NMS-like signs and symptoms.
+If concomitant use of paroxetine with certain other serotonergic drugs, i.e., triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, amphetamines, and St. John's Wort is clinically warranted, be aware of a potential increased risk for serotonin syndrome, particularly during treatment initiation and dose increases.
 
-The concomitant use of paroxetine with MAOIs intended to treat depression is contraindicated.
+Treatment with paroxetine and any concomitant serotonergic agents should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
 
-If concomitant treatment of paroxetine with a 5-hydroxytryptamine receptor agonist (triptan) is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases.
-
-The concomitant use of paroxetine with serotonin precursors (such as tryptophan) is not recommended.
-
-Treatment with paroxetine and any concomitant serotonergic or antidopaminergic agents, including antipsychotics, should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
+Angle-Closure Glaucoma: The pupillary dilation that occurs following use of many antidepressant drugs including paroxetine may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
 
 ## Potential Interaction with Thioridazine:
 
@@ -88,7 +81,7 @@ This effect appears to be dose related.
 An in vivo study suggests that drugs which inhibit CYP2D6, such as paroxetine, will elevate plasma levels of thioridazine.
 Therefore, it is recommended that paroxetine not be used in combination with thioridazine (see CONTRAINDICATIONS and PRECAUTIONS).
 
-## Usage in Pregnancy:
+## Usage in Pregnancy
 
 ## Teratogenic Effects:
 
@@ -131,21 +124,22 @@ Neonates exposed to paroxetine tablets and other SSRIs or serotonin and norepine
 Such complications can arise immediately upon delivery.
 Reported clinical findings have included respiratory distress, cyanosis, apnea, seizures, temperature instability, feeding difficulty, vomiting, hypoglycemia, hypotonia, hypertonia, hyperreflexia, tremor, jitteriness, irritability, and constant crying.
 These features are consistent with either a direct toxic effect of SSRIs and SNRIs or, possibly, a drug discontinuation syndrome.
-It should be noted that, in some cases, the clinical picture is consistent with serotonin syndrome (see WARNINGS —Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-like Reactions).
+It should be noted that, in some cases, the clinical picture is consistent with serotonin syndrome (see WARNINGS— Serotonin Syndrome).
 
-Infants exposed to SSRIs in late pregnancy may have an increased risk for persistent pulmonary hypertension of the newborn (PPHN).
+Infants exposed to SSRIs in pregnancy may have an increased risk for persistent pulmonary hypertension of the newborn (PPHN).
 PPHN occurs in 1 – 2 per 1,000 live births in the general population and is associated with substantial neonatal morbidity and mortality.
-In a retrospective case-control study of 377 women whose infants were born with PPHN and 836 women whose infants were born healthy, the risk for developing PPHN was approximately sixfold higher for infants exposed to SSRIs after the 20th week of gestation compared to infants who had not been exposed to antidepressants during pregnancy.
-There is currently no corroborative evidence regarding the risk for PPHN following exposure to SSRIs in pregnancy; this is the first study that has investigated the potential risk.
-The study did not include enough cases with exposure to individual SSRIs to determine if all SSRIs posed similar levels of PPHN risk.
-There have also been postmarketing reports of premature births in pregnant women exposed to paroxetine or other SSRIs.
+Several recent epidemiologic studies suggest a positive statistical association between SSRI use (including paroxetine) in pregnancy and PPHN.
+Other studies do not show a significant statistical association.
 
-When treating a pregnant woman with paroxetine during the third trimester, the physician should carefully consider both the potential risks and benefits of treatment (see DOSAGE AND ADMINISTRATION).
-Physicians should note that in a prospective longitudinal study of 201 women with a history of major depression who were euthymic at the beginning of pregnancy, women who discontinued antidepressant medication during pregnancy were more likely to experience a relapse of major depression than women who continued antidepressant medication.
+Physicians should also note the results of a prospective longitudinal study of 201 pregnant women with a history of major depression, who were either on antidepressants or had received antidepressants less than 12 weeks prior to their last menstrual period, and were in remission.
+Women who discontinued antidepressant medication during pregnancy showed a significant increase in relapse of their major depression compared to those women who remained on antidepressant medication throughout pregnancy.
+
+When treating a pregnant woman with paroxetine, the physician should carefully consider both the potential risks of taking an SSRI, along with the established benefits of treating depression with an antidepressant.
+This decision can only be made on a case by case basis (see DOSAGE AND ADMINISTRATION and ADVERSE REACTIONS: Postmarketing Reports).
 
 # PRECAUTIONS
 
-## General:
+## General
 
 ## Activation of Mania Hypomania
 
@@ -162,7 +156,7 @@ It should be discontinued in any patient who develops seizures.
 ## Discontinuation of Treatment with Paroxetine Tablets:
 
 Recent clinical trials supporting the various approved indications for paroxetine tablets employed a taper-phase regimen, rather than an abrupt discontinuation of treatment.
-The taper-phase regimen used in GAD clinical trials involved an incremental decrease in the daily dose by 10 mg/day at weekly intervals.
+The taper-phase regimen used in GAD and PTSD clinical trials involved an incremental decrease in the daily dose by 10 mg/day at weekly intervals.
 When a daily dose of 20 mg/day was reached, patients were continued on this dose for 1 week before treatment was stopped.
 
 With this regimen in those studies, the following adverse events were reported at an incidence of 2% or greater for paroxetine tablets and were at least twice that reported for placebo: Abnormal dreams, paresthesia, and dizziness.
@@ -178,9 +172,9 @@ Subsequently, the physician may continue decreasing the dose but at a more gradu
 
 See also PRECAUTIONS—Pediatric Use, for adverse events reported upon discontinuation of treatment with paroxetine tablets in pediatric patients.
 
-## Tamoxifen
+## Tamoxifen:
 
-Some studies have shown that the efficacy of tamoxifen, as measured by the risk of breast cancer relapse/mortality, may be reduced when co-prescribed with paroxetine as a result of paroxetine’s irreversible inhibition of CYP2D6 (see DRUG INTERACTIONS).
+Some studies have shown that the efficacy of tamoxifen, as measured by the risk of breast cancer relapse/mortality, may be reduced when co-prescribed with paroxetine as a result of paroxetine's irreversible inhibition of CYP2D6 (see DRUG INTERACTIONS).
 However, other studies have failed to demonstrate such a risk.
 It is uncertain whether the coadministration of paroxetine and tamoxifen has a significant adverse effect on the efficacy of tamoxifen.
 One study suggests that the risk may increase with longer duration of coadministration.
@@ -227,7 +221,7 @@ A few cases of acute angle closure glaucoma associated with paroxetine therapy h
 As mydriasis can cause acute angle closure in patients with narrow angle glaucoma, caution should be used when paroxetine tablets are prescribed for patients with narrow angle glaucoma.
 
 Paroxetine tablets have not been evaluated or used to any appreciable extent in patients with a recent history of myocardial infarction or unstable heart disease.
-Patients with these diagnoses were excluded from clinical studies during the product’s premarket testing.
+Patients with these diagnoses were excluded from clinical studies during the product's premarket testing.
 Evaluation of electrocardiograms of 682 patients who received paroxetine tablets in double-blind, placebo-controlled trials, however, did not indicate that paroxetine tablets are associated with the development of significant ECG abnormalities.
 Similarly, paroxetine tablets do not cause any clinically important changes in heart rate or blood pressure.
 
@@ -237,10 +231,16 @@ A lower starting dose should be used in such patients (see DOSAGE AND ADMINISTRA
 ## Information for Patients:
 
 Paroxetine should not be chewed or crushed, and should be swallowed whole.
+
 Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of paroxetine and triptans, tramadol, or other serotonergic agents.
 
+Patients should be advised that taking paroxetine tablets can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle closure glaucoma.
+Pre-existing glaucoma is almost always open-angle glaucoma because angle closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
+Open-angle glaucoma is not a risk factor for angle closure glaucoma.
+Patients may wish to be examined to determine whether they are susceptible to angle closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible.
+
 Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with paroxetine tablets and should counsel them in its appropriate use.
-A patient Medication Guide about "Antidepressant Medicines, Depression and other Serious Mental Illnesses, and Suicidal Thoughts or Actions" is available for paroxetine tablets.
+A patient Medication Guide is available for paroxetine tablets.
 The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
 Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
 The complete text of the Medication Guide is reprinted at the end of this document.
@@ -251,7 +251,7 @@ Patients should be advised of the following issues and asked to alert their pres
 
 Patients, their families, and their caregivers should be encouraged to be alert to the emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania, other unusual changes in behavior, worsening of depression, and suicidal ideation, especially early during antidepressant treatment and when the dose is adjusted up or down.
 Families and caregivers of patients should be advised to look for the emergence of such symptoms on a day-to-day basis, since changes may be abrupt.
-Such symptoms should be reported to the patient’s prescriber or health professional, especially if they are severe, abrupt in onset, or were not part of the patient’s presenting symptoms.
+Such symptoms should be reported to the patient's prescriber or health professional, especially if they are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
 Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication.
 
 ## Drugs That Interfere with Hemostasis (e.g.,NSAIDs, Aspirin and Warfarin):
@@ -277,7 +277,7 @@ Although paroxetine tablets have not been shown to increase the impairment of me
 
 ## Pregnancy:
 
-Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy (see WARNINGS — Usage in Pregnancy: Teratogenic and Nonteratogenic Effects).
+Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy (see WARNINGS — Usage in Pregnancy: Teratogenic Effectsand Nonteratogenic Effects).
 
 ## Nursing:
 
@@ -287,13 +287,13 @@ Patients should be advised to notify their physician if they are breastfeeding a
 
 There are no specific laboratory tests recommended.
 
-## Drug Interactions:
+## Drug Interactions
 
 ## Tryptophan:
 
-As with other serotonin reuptake inhibitors, and interaction between paroxetine and tryptophan may occur when they are coadministered.
+As with other serotonin reuptake inhibitors, an interaction between paroxetine and tryptophan may occur when they are coadministered.
 Adverse experiences, consisting primarily of headache, nausea, sweating, and dizziness, have been reported when tryptophan was administered to patients taking paroxetine tablets.
-Consequently, concomitant use of paroxetine tablets with tryptophan is not recommended (see WARNINGS-Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-like Reactions).
+Consequently, concomitant use of paroxetine tablets with tryptophan is not recommended (see WARNINGS-Serotonin Syndrome).
 
 ## Monoamine Oxidase Inhibitors:
 
@@ -307,9 +307,10 @@ Due to the narrow therapeutic index of pimozide and its known ability to prolong
 
 ## Serotonergic Drugs:
 
-Based on the mechanism of action of SNRIs and SSRIs, including paroxetine hydrochloride, and the potential for serotonin syndrome, caution is advised when paroxetine is coadministered with other drugs that may affect the serotonergic neurotransmitter systems, such as triptans, lithium, fentanyl, tramadol, or St. John’s Wort (see WARNINGS — Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-like Reactions).
-The concomitant use of paroxetine with MAOIs (including linezolid and methylene blue) is contraindicated (see CONTRAINDICATIONS).
-The concomitant use of paroxetine with other SSRIs, SNRIs or tryptophan is not recommended (see PRECAUTIONS — Drug Interactions Tryptophan).
+Based on the mechanism of action of SNRIs and SSRIs, including paroxetine hydrochloride, and the potential for serotonin syndrome, caution is advised when paroxetine is coadministered with other drugs that may affect the serotonergic neurotransmitter systems, such as triptans, lithium, fentanyl, tramadol, amphetamines, or St. John's Wort (see WARNINGS — Serotonin Syndrome).
+
+The concomitant use of paroxetine with MAOIs (including linezolid and intravenous methylene blue) is contraindicated (see CONTRAINDICATIONS).
+The concomitant use of paroxetine with other SSRIs, SNRIs or tryptophan is not recommended (see PRECAUTIONS —Drug Interactions Tryptophan).
 
 ## Thioridazine:
 
@@ -323,7 +324,7 @@ Since there is little clinical experience, the concomitant administration of par
 ## Triptans:
 
 There have been rare postmarketing reports of serotonin syndrome with the use of an SSRI and a triptan.
-If concomitant use of paroxetine with a triptan is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see WARNINGS — Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-like Reactions).
+If concomitant use of paroxetine with a triptan is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see WARNINGS — Serotonin Syndrome).
 
 ## Drugs Affecting Hepatic Metabolism:
 
@@ -334,7 +335,7 @@ The metabolism and pharmacokinetics of paroxetine may be affected by the inducti
 Cimetidine inhibits many cytochrome P450 (oxidative) enzymes.
 In a study where paroxetine tablets (30 mg once daily) were dosed orally for 4 weeks, steady-state plasma concentrations of paroxetine were increased by approximately 50% during coadministration with oral cimetidine (300 mg three times daily) for the final week.
 Therefore, when these drugs are administered concurrently, dosage adjustment of paroxetine tablets after the 20-mg starting dose should be guided by clinical effect.
-The effect of paroxetine on cimetidine’s pharmacokinetics was not studied.
+The effect of paroxetine on cimetidine's pharmacokinetics was not studied.
 
 ## Phenobarbital:
 
@@ -368,18 +369,18 @@ Concomitant use of paroxetine tablets with other drugs metabolized by cytochrome
 
 Therefore, coadministration of paroxetine tablets with other drugs that are metabolized by this isozyme, including certain drugs effective in the treatment of major depressive disorder (e.g., nortriptyline, amitriptyline, imipramine, desipramine, and fluoxetine), phenothiazines, risperidone, and Type 1C antiarrhythmics (e.g., propafenone, flecainide, and encainide), or that inhibit this enzyme (e.g., quinidine), should be approached with caution.
 
-However, due to the risk of serious ventricular arrhythmias and sudden death potentially associated with elevated plasma levels of thioridazine, paroxetine and thioridazine should not be coadministered (see CONTRAINDICATIONSand WARNINGS).
+However, due to the risk of serious ventricular arrhythmias and sudden death potentially associated with elevated plasma levels of thioridazine, paroxetine and thioridazine should not be coadministered (see CONTRAINDICATIONS and WARNINGS).
 
 Tamoxifen is a pro-drug requiring metabolic activation by CYP2D6.
-Inhibition of CYP2D6 by paroxetine may lead to reduced plasma concentrations of an active metabolite and hence reduced efficacy of tamoxifen.
+Inhibition of CYP2D6 by paroxetine may lead to reduced plasma concentrations of an active metabolite (endoxifen) and hence reduced efficacy of tamoxifen (see PRECAUTIONS).
 
-At steady state, when the CYP2D6 pathway is essentially saturated, paroxetine clearance is governed by alternative P450 is ozymes that, unlike CYP2D6, show no evidence of saturation (see PRECAUTIONS – Tricyclic Antidepressants [TCAs]).
+At steady state, when the CYP2D6 pathway is essentially saturated, paroxetine clearance is governed by alternative P450 isozymes that, unlike CYP2D6, show no evidence of saturation (see PRECAUTIONS – Tricyclic Antidepressants [TCAs]).
 
 ## Drugs Metabolized by Cytochrome CYP3A4:
 
 An in vivo interaction study involving the coadministration under steady-state conditions of paroxetine and terfenadine, a substrate for cytochrome CYP3A4, revealed no effect of paroxetine on terfenadine pharmacokinetics.
 In addition, in vitro studies have shown ketoconazole, a potent inhibitor of CYP3A4 activity, to be at least 100 times more potent than paroxetine as an inhibitor of the metabolism of several substrates for this enzyme, including terfenadine, astemizole, cisapride, triazolam, and cyclosporine.
-Based on the assumption that the relationship between paroxetine’s in vitro Ki and its lack of effect on terfenadine’s in vivo clearance predicts its effect on other CYP3A4 substrates, paroxetine’s extent of inhibition of CYP3A4 activity is not likely to be of clinical significance.
+Based on the assumption that the relationship between paroxetine's in vitro Ki and its lack of effect on terfenadine's in vivo clearance predicts its effect on other CYP3A4 substrates, paroxetine's extent of inhibition of CYP3A4 activity is not likely to be of clinical significance.
 
 ## Tricyclic Antidepressants (TCAs):
 
@@ -447,7 +448,7 @@ There are no clinical studies of the combined use of ECT and paroxetine tablets.
 Carcinogenesis:
 
 Two-year carcinogenicity studies were conducted in rodents given paroxetine in the diet at 1, 5, and 25 mg/kg/day (mice) and 1, 5, and 20 mg/kg/day (rats).
-These doses are up to 2.4 (mouse) and 3.9 (rat) times the MRHD for major depressive disorder, social anxiety disorder, and GAD on a mg/m2 basis.
+These doses are up to 2.4 (mouse) and 3.9 (rat) times the MRHD for major depressive disorder, social anxiety disorder, GAD and PTSD on a mg/m2 basis.
 Because the MRHD for major depressive disorder is slightly less than that for OCD (50 mg versus 60 mg), the doses used in these carcinogenicity studies were only 2.0 (mouse) and 3.2 (rat) times the MRHD for OCD.
 There was a significantly greater number of male rats in the high-dose group with reticulum cell sarcomas (1/100, 0/50, 0/50, and 4/50 for control, low-, middle-, and high-dose groups, respectively) and a significantly increased linear trend across dose groups for the occurrence of lymphoreticular tumors in male rats.
 Female rats were not affected.
@@ -462,13 +463,13 @@ Paroxetine produced no genotoxic effects in a battery of 5 in vitro and 2 in viv
 
 Some clinical studies have shown that SSRIs (including paroxetine) may affect sperm quality during SSRI treatment, which may affect fertility in some men.
 
-A reduced pregnancy rate was found in reproduction studies in rats at a dose of paroxetine of 15 mg/kg/day, which is 2.9 times the MRHD for major depressive disorder, social anxiety disorder, and GAD or 2.4 times the MRHD for OCD on a mg/m2 basis.
+A reduced pregnancy rate was found in reproduction studies in rats at a dose of paroxetine of 15 mg/kg/day, which is 2.9 times the MRHD for major depressive disorder, social anxiety disorder, GAD and PTSD or 2.4 times the MRHD for OCD on a mg/m2 basis.
 Irreversible lesions occurred in the reproductive tract of male rats after dosing in toxicity studies for 2 to 52 weeks.
 These lesions consisted of vacuolation of epididymal tubular epithelium at 50 mg/kg/day and atrophic changes in the seminiferous tubules of the testes with arrested spermatogenesis at 25 mg/kg/day (9.8 and 4.9 times the MRHD for major depressive disorder, social anxiety disorder, and GAD; 8.2 and 4.1 times the MRHD for OCD and PD on a mg/m2 basis).
 
 ## Pregnancy:
 
-Pregnancy Category D. see WARNINGS ─ Usage in Pregnancy: Teratogenic and Nonteratogenic Effects.
+Pregnancy Category D. see WARNINGS ─ Usage in Pregnancy: Teratogenic Effectsand Nonteratogenic Effects.
 
 ## Labor and Delivery:
 

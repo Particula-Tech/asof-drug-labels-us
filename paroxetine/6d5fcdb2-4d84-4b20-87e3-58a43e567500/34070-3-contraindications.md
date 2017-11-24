@@ -1,6 +1,9 @@
 # CONTRAINDICATIONS
 
-Paroxetine tablets should not be used in patients taking monoamine oxidase inhibitors (MAOIs), including linezolid (an antibiotic which is a reversible non-selective MAOI) and methylthioninium chloride (methylene blue), or within 2 weeks of stopping treatment with MAOIs (see WARNINGS).
+The use of MAOIs intended to treat psychiatric disorders with paroxetine tablets or within 14 days of stopping treatment with paroxetine tablets is contraindicated because of an increased risk of serotonin syndrome.
+The use of paroxetine tablets within 14 days of stopping an MAOI intended to treat psychiatric disorders is also contraindicated (see WARNINGS and DOSAGE AND ADMINISTRATION).
+
+Starting paroxetine tablets in a patient who is being treated with MAOIs such as linezolid or intravenous methylene blue is also contraindicated because of an increased risk of serotonin syndrome (see WARNINGS and DOSAGE AND ADMINISTRATION).
 
 Concomitant use with thioridazine is contraindicated (see WARNINGS and PRECAUTIONS).
 

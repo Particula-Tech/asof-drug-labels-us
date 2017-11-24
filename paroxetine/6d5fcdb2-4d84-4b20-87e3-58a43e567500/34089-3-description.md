@@ -5,7 +5,7 @@ It is the hydrochloride salt of a phenylpiperidine compound identified chemicall
 The molecular weight is 374.8 (329.4 as free base).
 The structural formula of paroxetine hydrochloride hemihydrate is:
 
-Paroxetine hydrochloride hemihydrate is an odorless, white to off-white crystalline powder, having a melting point range of 120° to 138°C.
+Paroxetine hydrochloride, USP is an odorless, white to off-white crystalline powder, having a melting point range of 120° to 138°C.
 It is freely soluble in methanol, soluble in ethanol, sparingly soluble in dichloromethane and slightly soluble in water.
 
 Each paroxetine tablet, USP intended for oral administration contains paroxetine hydrochloride hemihydrate equivalent to 10 mg or 20 mg or 30 mg or 40 mg of paroxetine.

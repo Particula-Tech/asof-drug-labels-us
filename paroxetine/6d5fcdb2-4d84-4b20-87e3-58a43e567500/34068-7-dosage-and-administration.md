@@ -85,13 +85,28 @@ Dose changes should occur in 10 mg/day increments and at intervals of at least 1
 Systematic evaluation of continuing paroxetine tablets for periods of up to 24 weeks in patients with Generalized Anxiety Disorder who had responded while taking paroxetine tablets during an 8-week acute treatment phase has demonstrated a benefit of such maintenance (see CLINICAL PHARMACOLOGY — Clinical Trials).
 Nevertheless, patients should be periodically reassessed to determine the need for maintenance treatment.
 
+## Posttraumatic Stress Disorder:
+
+Usual Initial Dosage:
+
+Paroxetine tablets should be administered as a single daily dose with or without food, usually in the morning.
+The recommended starting dosage and the established effective dosage is 20 mg/day.
+In 1 clinical trial, the effectiveness of paroxetine tablets was demonstrated in patients dosed in a range of 20 to 50 mg/day.
+However, in a fixed dose study, there was not sufficient evidence to suggest a greater benefit for a dose of 40 mg/day compared to 20 mg/day.
+Dose changes, if indicated, should occur in 10 mg/day increments and at intervals of at least 1 week.
+
+Maintenance Therapy:
+
+There is no body of evidence available to answer the question of how long the patient treated with paroxetine tablets should remain on it.
+Although the efficacy of paroxetine tablets beyond 12 weeks of dosing has not been demonstrated in controlled clinical trials, PTSD is recognized as a chronic condition, and it is reasonable to consider continuation of treatment for a responding patient.
+Dosage adjustments should be made to maintain the patient on the lowest effective dosage, and patients should be periodically reassessed to determine the need for continued treatment.
+
 ## Special Populations:
 
 Treatment of Pregnant Women During the Third Trimester:
 
 Neonates exposed to paroxetine tablets and other SSRIs or SNRIs, late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding (see WARNINGS: Usage in Pregnancy).
 When treating pregnant women with paroxetine during the third trimester, the physician should carefully consider the potential risks and benefits of treatment.
-The physician may consider tapering paroxetine in the third trimester.
 
 ## Dosage for Elderly or Debilitated Patients, and Patients with Severe Renal or Hepatic Impairment:
 
@@ -99,10 +114,23 @@ The recommended initial dose is 10 mg/day for elderly patients, debilitated pati
 Increases may be made if indicated.
 Dosage should not exceed 40 mg/day.
 
-## Switching Patients to or from a Monoamine Oxidase Inhibitor:
+## Switching a Patient to or from a Monoamine Oxidase Inhibitor (MAOI) Intended To Treat Psychiatric Disorders:
 
-At least 14 days should elapse between discontinuation of an MAOI and initiation of therapy with paroxetine tablets.
-Similarly, at least 14 days should be allowed after stopping paroxetine tablets before starting an MAOI.
+At least 14 days should elapse between discontinuation of an MAOI intended to treat psychiatric disorders and initiation of therapy with paroxetine tablets.
+Conversely, at least 14 days should be allowed after stopping paroxetine tablets before starting an MAOI intended to treat psychiatric disorders (see CONTRAINDICATIONS).
+
+Use of Paroxetine Tablets With Other MAOIs Such as Linezolid or Methylene Blue:
+
+Do not start paroxetine tablets in a patient who is being treated with linezolid or intravenous methylene blue because there is increased risk of serotonin syndrome.
+In a patient who requires more urgent treatment of a psychiatric condition, other interventions, including hospitalization, should be considered (see CONTRAINDICATIONS).
+
+In some cases, a patient already receiving therapy with paroxetine tablets may require urgent treatment with linezolid or intravenous methylene blue.
+If acceptable alternatives to linezolid or intravenous methylene blue treatment are not available and the potential benefits of linezolid or intravenous methylene blue treatment are judged to outweigh the risks of serotonin syndrome in a particular patient, paroxetine tablets should be stopped promptly, and linezolid or methylene blue can be administered.
+The patient should be monitored for symptoms of serotonin syndrome for 2 weeks or until 24 hours after the last dose of linezolid or intravenous methylene blue, whichever comes first.
+Therapy with paroxetine tablets may be resumed 24 hours after the last dose of linezolid or intravenous methylene blue (see WARNINGS).
+
+The risk of administering methylene blue by non-intravenous routes (such as oral tablets or by local injection) or in intravenous doses much lower than 1 mg/kg with paroxetine is unclear.
+The clinician should, nevertheless, be aware of the possibility of emergent symptoms of serotonin syndrome with such use (see WARNINGS).
 
 ## Discontinuation of Treatment with Paroxetine Tablets:
 

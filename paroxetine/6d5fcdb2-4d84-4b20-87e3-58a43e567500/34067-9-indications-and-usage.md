@@ -64,5 +64,18 @@ Paroxetine tablets, USP have not been studied in children or adolescents with Ge
 Generalized Anxiety Disorder (DSM-IV) is characterized by excessive anxiety and worry (apprehensive expectation) that is persistent for at least 6 months and which the person finds difficult to control.
 It must be associated with at least 3 of the following 6 symptoms: Restlessness or feeling keyed up or on edge, being easily fatigued, difficulty concentrating or mind going blank, irritability, muscle tension, sleep disturbance.
 
-The efficacy of paroxetine tablets, USP in maintaining a response in patients with Generalized Anxiety Disorder, who responded during an 8-week acute treatment phase while taking paroxetine tablets, USP and were then observed for relapse during a period of up to 24 weeks, was demonstrated in a placebocontrolled trial (see CLINICAL PHARMACOLOGY —Clinical Trials).
+The efficacy of paroxetine tablets, USP in maintaining a response in patients with Generalized Anxiety Disorder, who responded during an 8-week acute treatment phase while taking paroxetine tablets, USP and were then observed for relapse during a period of up to 24 weeks, was demonstrated in a placebo-controlled trial (see CLINICAL PHARMACOLOGY —Clinical Trials).
 Nevertheless, the physician who elects to use paroxetine tablets, USP for extended periods should periodically re-evaluate the long-term usefulness of the drug for the individual patient (see DOSAGE AND ADMINISTRATION).
+
+## Posttraumatic Stress Disorder:
+
+Paroxetine tablets, USP are indicated for the treatment of Posttraumatic Stress Disorder (PTSD).
+
+The efficacy of paroxetine tablets, USP in the treatment of PTSD was established in two 12-week placebo-controlled trials in adults with PTSD (DSM-IV) (see CLINICAL PHARMACOLOGY: Clinical Trials).
+
+PTSD, as defined by DSM-IV, requires exposure to a traumatic event that involved actual or threatened death or serious injury, or threat to the physical integrity of self or others, and a response that involves intense fear, helplessness, or horror.
+Symptoms that occur as a result of exposure to the traumatic event include re-experiencing of the event in the form of intrusive thoughts, flashbacks, or dreams, and intense psychological distress and physiological reactivity on exposure to cues to the event; avoidance of situations reminiscent of the traumatic event, inability to recall details of the event, and/or numbing of general responsiveness manifested as diminished interest in significant activities, estrangement from others, restricted range of affect, or sense of foreshortened future; and symptoms of autonomic arousal including hypervigilance, exaggerated startle response, sleep disturbance, impaired concentration, and irritability or outbursts of anger.
+A PTSD diagnosis requires that the symptoms are present for at least a month and that they cause clinically significant distress or impairment in social, occupational, or other important areas of functioning.
+
+The efficacy of paroxetine tablets, USP in longer-term treatment of PTSD, i.e., for more than 12 weeks, has not been systematically evaluated in placebo-controlled trials.
+Therefore, the physician who elects to prescribe paroxetine tablets, USP for extended periods should periodically re-evaluate the long-term usefulness of the drug for the individual patient (see DOSAGE AND ADMINISTRATION).

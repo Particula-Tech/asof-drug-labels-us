@@ -2,12 +2,12 @@
 
 ## Pharmacodynamics:
 
-The efficacy of paroxetine in the treatment of major depressive disorder, social anxiety disorder, obsessive compulsive disorder (OCD), panic disorder (PD), and generalized anxiety disorder (GAD) is presumed to be linked to potentiation of serotonergic activity in the central nervous system resulting from inhibition of neuronal reuptake of serotonin (5-hydroxy-tryptamine, 5-HT).
+The efficacy of paroxetine in the treatment of major depressive disorder, social anxiety disorder, obsessive compulsive disorder (OCD), panic disorder (PD), generalized anxiety disorder (GAD) and posttraumatic stress disorder (PTSD) is presumed to be linked to potentiation of serotonergic activity in the central nervous system resulting from inhibition of neuronal reuptake of serotonin (5-hydroxy-tryptamine, 5-HT).
 Studies at clinically relevant doses in humans have demonstrated that paroxetine blocks the uptake of serotonin into human platelets.
 In vitro studies in animals also suggest that paroxetine is a potent and highly selective inhibitor of neuronal serotonin reuptake and has only very weak effects on norepinephrine and dopamine neuronal reuptake.
 In vitro radioligand binding studies indicate that paroxetine has little affinity for muscarinic, alpha1-, alpha2-, beta-adrenergic-, dopamine (D2)-, 5-HT1-, 5-HT2-, and histamine (H1)-receptors; antagonism of muscarinic, histaminergic, and alpha1-adrenergic receptors has been associated with various anticholinergic, sedative, and cardiovascular effects for other psychotropic drugs.
 
-Because the relative potencies of paroxetine’s major metabolites are at most 1/50 of the parent compound, they are essentially inactive.
+Because the relative potencies of paroxetine's major metabolites are at most 1/50 of the parent compound, they are essentially inactive.
 
 ## Pharmacokinetics:
 
@@ -55,9 +55,9 @@ The role of this enzyme in paroxetine metabolism also suggests potential drug-dr
 Approximately 64% of a 30-mg oral solution dose of paroxetine was excreted in the urine with 2% as the parent compound and 62% as metabolites over a 10-day post-dosing period.
 About 36% was excreted in the feces (probably via the bile), mostly as metabolites and less than 1% as the parent compound over the 10-day post-dosing period.
 
-## Other Clinical Pharmacology Information:
+## Other Clinical Pharmacology Information
 
-## Specific Populations:
+## Specific Populations
 
 ## Renal and Liver Disease:
 
@@ -77,7 +77,7 @@ Therefore the initial dosage in the elderly should be reduced (see DOSAGE AND AD
 In vitro drug interaction studies reveal that paroxetine inhibits CYP2D6.
 Clinical drug interaction studies have been performed with substrates of CYP2D6 and show that paroxetine can inhibit the metabolism of drugs metabolized by CYP2D6 including desipramine, risperidone, and atomoxetine (see PRECAUTIONS ─ Drug Interactions).
 
-## Clinical Trials:
+## Clinical Trials
 
 ## Major Depressive Disorder:
 
@@ -173,3 +173,25 @@ In a longer-term trial, 566 patients meeting DSM-IV criteria for Generalized Anx
 Response during the single-blind phase was defined by having a decrease of ≥ 2 points compared to baseline on the CGI-Severity of Illness scale, to a score of ≤ 3.
 Relapse during the double-blind phase was defined as an increase of ≥ 2 points compared to baseline on the CGI-Severity of Illness scale to a score of ≥ 4, or withdrawal due to lack of efficacy.
 Patients receiving continued paroxetine tablets experienced a significantly lower relapse rate over the subsequent 24 weeks compared to those receiving placebo.
+
+## Posttraumatic Stress Disorder:
+
+The effectiveness of paroxetine tablets in the treatment of Posttraumatic Stress Disorder (PTSD) was demonstrated in two 12-week, multicenter, placebo-controlled studies (Studies 1 and 2) of adult outpatients who met DSM-IV criteria for PTSD.
+The mean duration of PTSD symptoms for the 2 studies combined was 13 years (ranging from.1 year to 57 years).
+The percentage of patients with secondary major depressive disorder or non-PTSD anxiety disorders in the combined 2 studies was 41% (356 out of 858 patients) and 40% (345 out of 858 patients), respectively.
+Study outcome was assessed by (i) the Clinician-Administered PTSD Scale Part 2 (CAPS-2) score and (ii) the Clinical Global Impression-Global Improvement Scale (CGI-I).
+The CAPS-2 is a multi-item instrument that measures 3 aspects of PTSD with the following symptom clusters: Reexperiencing/intrusion, avoidance/numbing and hyperarousal.
+The 2 primary outcomes for each trial were (i) change from baseline to endpoint on the CAPS-2 total score (17 items), and (ii) proportion of responders on the CGI-I, where responders were defined as patients having a score of 1 (very much improved) or 2 (much improved).
+
+Study 1 was a 12-week study comparing fixed paroxetine doses of 20 mg or 40 mg/day to placebo.
+Doses of 20 mg and 40 mg of paroxetine tablets were demonstrated to be significantly superior to placebo on change from baseline for the CAPS-2 total score and on proportion of responders on the CGI-I.
+There was not sufficient evidence in this study to suggest a greater benefit for the 40 mg/day dose compared to the 20 mg/day dose.
+
+Study 2 was a 12-week flexible-dose study comparing paroxetine (20 to 50 mg daily) to placebo.
+Paroxetine tablets were demonstrated to be significantly superior to placebo on change from baseline for the CAPS-2 total score and on proportion of responders on the CGI-I.
+
+A third study, also a flexible-dose study comparing paroxetine (20 to 50 mg daily) to placebo, demonstrated paroxetine tablets to be significantly superior to placebo on change from baseline for CAPS2 total score, but not on proportion of responders on the CGI-I.
+
+The majority of patients in these trials were women (68% women: 377 out of 551 subjects in Study 1 and 66% women: 202 out of 303 subjects in Study 2).
+Subgroup analyses did not indicate differences in treatment outcomes as a function of gender.
+There were an insufficient number of patients who were 65 years and older or were non-Caucasian to conduct subgroup analyses on the basis of age or race, respectively.
