@@ -14,7 +14,7 @@ For Intravenous Administration
 
 Shake Well Before Using
 
-PACKAGE LABEL - PRINCIPAL DISPLAY - Diprivan ® 20 mL Vial Carton Panel
+PACKAGE LABEL - PRINCIPAL DISPLAY - Diprivan® 20 mL Vial Carton Panel
 
 NDC 63323-269-37
 
