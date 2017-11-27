@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-TRIUMEQ is an HIV-1 antiviral agent [see Microbiology (12.4)].
+TRIUMEQ is an HIV‑1 antiretroviral agent [see Microbiology (12.4)].
 
 ## 12.2 Pharmacodynamics
 
@@ -13,7 +13,7 @@ Neither the effects of abacavir nor lamivudine as single entities or the combina
 
 In a randomized, placebo-controlled, cross-over trial, 42 healthy subjects received single-dose oral administrations of placebo, dolutegravir 250‑mg suspension (exposures approximately 3–fold of the 50-mg once-daily dose at steady state), and moxifloxacin 400 mg (active control) in random sequence.
 After baseline and placebo adjustment, the maximum mean QTc change based on Fridericia correction method (QTcF) for dolutegravir was 2.4 msec (1-sided 95% upper CI: 4.9 msec).
-Dolutegravir did not prolong the QTc interval over 24 hours postdose.
+Dolutegravir did not prolong the QTc interval over 24 hours’ post-dose.
 
 Effects on Renal Function
 
@@ -32,12 +32,12 @@ After oral administration of a single dose of 600 mg of abacavir in 20 subjects,
 Binding of abacavir to human plasma proteins is approximately 50% and was independent of concentration.
 Total blood and plasma drug-related radioactivity concentrations are identical, demonstrating that abacavir readily distributes into erythrocytes.
 The primary routes of elimination of abacavir are metabolism by alcohol dehydrogenase to form the 5′-carboxylic acid and glucuronyl transferase to form the 5′-glucuronide.
-In single-dose trials, the observed elimination half-life (t1/2) was 1.54 ± 0.63 hours.
+In single-dose trials, the observed elimination half-life (t½) was 1.54 ± 0.63 hours.
 After intravenous administration, total clearance was 0.80 ± 0.24 L per hour per kg (mean ± SD).
 
 Dolutegravir: Following oral administration of dolutegravir, peak plasma concentrations were observed 2 to 3 hours postdose.
 With once-daily dosing, pharmacokinetic steady state is achieved within approximately 5 days with average accumulation ratios for AUC, Cmax, and C24 h ranging from 1.2 to 1.5.
-Dolutegravir is a P-glycoprotein substrate in vitro.
+Dolutegravir is a P-gp substrate in vitro.
 The absolute bioavailability of dolutegravir has not been established.
 Dolutegravir is highly bound (greater than or equal to 98.9%) to human plasma proteins based on in vivo data and binding is independent of plasma concentration of dolutegravir.
 The apparent volume of distribution (Vd/F) following 50-mg once-daily administration is estimated at 17.4 L based on a population pharmacokinetic analysis.
@@ -79,29 +79,43 @@ Overall, when compared with fasted conditions, administration of TRIUMEQ to heal
 Lamivudine exposures were not affected by food.
 With a high-fat meal, the Cmax of abacavir decreased 23% and the Cmax and AUC of dolutegravir increased 37% and 48%, respectively.
 
-Special Populations
+Specific Populations
 
-Renal Impairment: The effect of renal impairment on the combination of abacavir, dolutegravir, and lamivudine has not been evaluated (see the U.S. prescribing information for the individual abacavir, dolutegravir and lamivudine components).
+Patients with Renal Impairment: The effect of renal impairment on the combination of abacavir, dolutegravir, and lamivudine has not been evaluated (see the U.S. prescribing information for the individual abacavir, dolutegravir and lamivudine components).
 
-Hepatic Impairment: The effect of hepatic impairment on the combination of abacavir, dolutegravir, and lamivudine has not been evaluated (see the U.S. prescribing information for the individual abacavir, dolutegravir and lamivudine components).
+Patients with Hepatic Impairment: The effect of hepatic impairment on the combination of abacavir, dolutegravir, and lamivudine has not been evaluated (see the U.S. prescribing information for the individual abacavir, dolutegravir, and lamivudine components).
 
-Pediatric Patients: The pharmacokinetics of the combination of abacavir, dolutegravir, and lamivudine in pediatric subjects have not been established.
+Pediatric Patients: The pharmacokinetics for the individual components of TRIUMEQ (abacavir, dolutegravir, and lamivudine) have been evaluated in pediatric subjects
+
+Dolutegravir: The pharmacokinetics of dolutegravir in HIV-1–infected children (n = 14) weighing at least 40 kg were similar to those observed in HIV-1–infected adults who received dolutegravir 50 mg once daily (Table 7) [see Clinical Studies (14.2)].
+
+Table 7.
+Dolutegravir Steady-State Pharmacokinetic Parameters in Pediatric Subjects
+
+| Weight (n) | Dose of TIVICAY | Dolutegravir Pharmacokinetic Parameter EstimatesGeometric Mean (%CV) |  |  |
+| --- | --- | --- | --- | --- |
+| Cmax(mcg/mL) | AUC(0-24)(mcg.h/mL) | C24(mcg/mL) |  |  |
+| ≥40 kg (n = 14) | 50 mg once daily | 3.89 (43) | 50.1 (53) | 0.99 (66) |
+
+Abacavir and Lamivudine: The pharmacokinetic data for abacavir and lamivudine once daily following administration of EPZICOM in pediatric subjects weighing at least 40 kg are limited.
+The dosing recommendations in this population are based on the safety and efficacy established in a controlled trial conducted using either the combination of EPIVIR and ZIAGEN or EPZICOM.
+Refer to the prescribing information for EPIVIR and ZIAGEN for pharmacokinetic information on the individual products in pediatric patients [see Dosage and Administration (2.2), Clinical Studies (14.2)].
 
 Geriatric Patients: Population analyses using pooled pharmacokinetic data from adult trials indicated age had no clinically relevant effect on the pharmacokinetics of dolutegravir.
 The pharmacokinetics of abacavir or lamivudine have not been studied in subjects older than 65 years.
 
-Gender: There are no significant or clinically relevant gender differences in the pharmacokinetics of the individual components (dolutegravir, abacavir, or lamivudine) based on the available information that was analyzed for each of the individual components.
+Male and Female Patients: There are no significant or clinically relevant gender differences in the pharmacokinetics of the individual components (dolutegravir, abacavir, or lamivudine) based on the available information that was analyzed for each of the individual components.
 
-Race: There are no significant or clinically relevant racial differences in pharmacokinetics of the individual components (dolutegravir, abacavir, or lamivudine) based on the available information that was analyzed for each of the individual components.
+Racial Groups: There are no significant or clinically relevant racial differences in pharmacokinetics of the individual components (dolutegravir, abacavir, or lamivudine) based on the available information that was analyzed for each of the individual components.
 
-Drug Interactions
+Drug Interaction Studies
 
 The drug interaction trials described were conducted with dolutegravir, abacavir, and/or lamivudine as single entities; no drug interaction trials have been conducted using the combination of abacavir, dolutegravir, and lamivudine.
 No clinically significant drug interactions are expected between dolutegravir, abacavir, and lamivudine.
 
 Dosing recommendations as a result of established and other potentially significant drug-drug interactions with dolutegravir or abacavir are provided in Section 7.3 [see Drug Interactions (7)].
 
-Table 7.
+Table 8.
 Summary of Effect of Dolutegravir on the Pharmacokinetics of Coadministered Drugs
 
 | Coadministered Drug(s)and Dose(s) | Dose of Dolutegravir | n | Geometric Mean Ratio (90% CI) of Pharmacokinetic Parameters of Coadministered Drug with/without Dolutegravir No Effect = 1.00 |  |  |
@@ -119,7 +133,7 @@ Summary of Effect of Dolutegravir on the Pharmacokinetics of Coadministered Drug
 
 a The number of subjects represents the maximum number of subjects that were evaluated.
 
-Table 8.
+Table 9.
 Summary of Effect of Coadministered Drugs on the Pharmacokinetics of Dolutegravir
 
 | Coadministered Drug(s)and Dose(s) | Dose of Dolutegravir | n | Geometric Mean Ratio (90% CI) of Dolutegravir Pharmacokinetic Parameters with/without Coadministered Drugs No Effect = 1.00 |  |  |
@@ -132,13 +146,13 @@ Summary of Effect of Coadministered Drugs on the Pharmacokinetics of Dolutegravi
 | Etravirine 200 mg twice daily | 50 mg once daily | 16 | 0.48 (0.43 to 0.54) | 0.29 (0.26 to 0.34) | 0.12 (0.09 to 0.16) |
 | Etravirine + darunavir/ritonavir 200 mg + 600/100 mg twice daily | 50 mg once daily | 9 | 0.88 (0.78 to 1.00) | 0.75 (0.69 to 0.81) | 0.63 (0.52 to 0.76) |
 | Etravirine + lopinavir/ritonavir 200 mg + 400/100 mg twice daily | 50 mg once daily | 8 | 1.07 (1.02 to 1.13) | 1.11 (1.02 to 1.20) | 1.28 (1.13 to 1.45) |
-| Fosamprenavir/ritonavir 700 mg/100 mg twice daily | 50 mg once daily | 12 | 0.76 (0.63 to 0.92) | 0.65 (0.54 to 0.78) | 0.51 (0.41 to 0.63) |
+| Fosamprenavir/ritonavir 700 mg /100 mg twice daily | 50 mg once daily | 12 | 0.76 (0.63 to 0.92) | 0.65 (0.54 to 0.78) | 0.51 (0.41 to 0.63) |
 | Lopinavir/ritonavir 400/100 mg twice daily | 30 mg once daily | 15 | 1.00 (0.94 to 1.07) | 0.97 (0.91 to 1.04) | 0.94 (0.85 to 1.05) |
 | Rilpivirine 25 mg once daily | 50 mg once daily | 16 | 1.13 (1.06 to 1.21) | 1.12 (1.05 to 1.19) | 1.22 (1.15 to 1.30) |
 | Tenofovir 300 mg once daily | 50 mg once daily | 15 | 0.97 (0.87 to 1.08) | 1.01 (0.91 to 1.11) | 0.92(0.82 to 1.04) |
 | Tipranavir/ritonavir 500/200 mg twice daily | 50 mg once daily | 14 | 0.54 (0.50 to 0.57) | 0.41 (0.38 to 0.44) | 0.24 (0.21 to 0.27) |
-| Antacid (Maalox®) simultaneous administration | 50 mg single dose | 16 | 0.28 (0.23 to 0.33) | 0.26 (0.22 to 0.32) | 0.26 (0.21 to 0.31) |
-| Antacid (Maalox®) 2 h after dolutegravir | 50 mg single dose | 16 | 0.82 (0.69 to 0.98) | 0.74 (0.62 to 0.90) | 0.70 (0.58 to 0.85) |
+| Antacid (MAALOX) simultaneous administration | 50 mg single dose | 16 | 0.28 (0.23 to 0.33) | 0.26 (0.22 to 0.32) | 0.26 (0.21 to 0.31) |
+| Antacid (MAALOX) 2 h after dolutegravir | 50 mg single dose | 16 | 0.82 (0.69 to 0.98) | 0.74 (0.62 to 0.90) | 0.70 (0.58 to 0.85) |
 | Boceprevir 800 mg every 8 h | 50 mg once daily | 13 | 1.05 (0.96 to 1.15) | 1.07 (0.95 to 1.20) | 1.08 (0.91 to 1.28) |
 | Calcium carbonate 1,200 mg simultaneous administration (fasted) | 50 mg single dose | 12 | 0.63 (0.50 to 0.81) | 0.61 (0.47 to 0.80) | 0.61 (0.47 to 0.80) |
 | Calcium carbonate 1,200 mg simultaneous administration (fed) | 50 mg single dose | 11 | 1.07 (0.83 to 1.38) | 1.09 (0.84 to 1.43) | 1.08 (0.81 to 1.42) |
@@ -148,7 +162,7 @@ Summary of Effect of Coadministered Drugs on the Pharmacokinetics of Dolutegravi
 | Ferrous fumarate 324 mg simultaneous administration (fasted) | 50 mg single dose | 11 | 0.43 (0.35 to 0.52) | 0.46 (0.38 to 0.56) | 0.44 (0.36 to 0.54) |
 | Ferrous fumarate 324 mg simultaneous administration (fed) | 50 mg single dose | 11 | 1.03 (0.84 to 1.26) | 0.98 (0.81 to 1.20) | 1.00 (0.81 to 1.23) |
 | Ferrous fumarate 324 mg 2 h after dolutegravir | 50 mg single dose | 10 | 0.99 (0.81 to 1.21) | 0.95 (0.77 to 1.15) | 0.92 (0.74 to 1.13) |
-| Multivitamin (One-A-Day®) simultaneous administration | 50 mg single dose | 16 | 0.65 (0.54 to 0.77) | 0.67 (0.55 to 0.81) | 0.68 (0.56 to 0.82) |
+| Multivitamin (One-A-Day) simultaneous administration | 50 mg single dose | 16 | 0.65 (0.54 to 0.77) | 0.67 (0.55 to 0.81) | 0.68 (0.56 to 0.82) |
 | Omeprazole 40 mg once daily | 50 mg single dose | 12 | 0.92 (0.75 to 1.11) | 0.97 (0.78 to 1.20) | 0.95 (0.75 to 1.21) |
 | Prednisone 60 mg once daily with taper | 50 mg once daily | 12 | 1.06 (0.99 to 1.14) | 1.11 (1.03 to 1.20) | 1.17 (1.06 to 1.28) |
 | Rifampina 600 mg once daily | 50 mg twice daily | 11 | 0.57 (0.49 to 0.65) | 0.46 (0.38 to 0.55) | 0.28 (0.23 to 0.34) |
@@ -172,7 +186,7 @@ Methadone: In a trial of 11 HIV‑1‑infected subjects receiving methadone-main
 The addition of methadone has no clinically significant effect on the pharmacokinetic properties of abacavir.
 
 Ribavirin: In vitro data indicate ribavirin reduces phosphorylation of lamivudine, stavudine, and zidovudine.
-However, no pharmacokinetic (e.g., plasma concentrations or intracellular triphosphorylated active metabolite concentrations) or pharmacodynamic (e.g., loss of HIV-1/HCV virologic suppression) interaction was observed when ribavirin and lamivudine (n = 18), stavudine (n = 10), or zidovudine (n = 6) were coadministered as part of a multi-drug regimen to HIV-1/HCV co-infected subjects [see Warnings and Precautions (5.4)].
+However, no pharmacokinetic (e.g., plasma concentrations or intracellular triphosphorylated active metabolite concentrations) or pharmacodynamic (e.g., loss of HIV-1/HCV virologic suppression) interaction was observed when ribavirin and lamivudine (n = 18), stavudine (n = 10), or zidovudine (n = 6) were coadministered as part of a multi-drug regimen to HIV-1/HCV co-infected subjects [see Warnings and Precautions (5.7)].
 
 Abacavir, Lamivudine, Zidovudine: Fifteen HIV‑1-infected subjects were enrolled in a crossover-designed drug interaction trial evaluating single doses of abacavir (600 mg), lamivudine (150 mg), and zidovudine (300 mg) alone or in combination.
 Analysis showed no clinically relevant changes in the pharmacokinetics of abacavir with the addition of lamivudine or zidovudine or the combination of lamivudine and zidovudine.
@@ -180,17 +194,17 @@ Lamivudine exposure (AUC decreased 15%) and zidovudine exposure (AUC increased 1
 
 Lamivudine and Zidovudine: No clinically significant alterations in lamivudine or zidovudine pharmacokinetics were observed in 12 asymptomatic HIV‑1-infected adult patients given a single dose of zidovudine (200 mg) in combination with multiple doses of lamivudine (300 mg every 12 hours).
 
-The effects of other coadministered drugs on abacavir or lamivudine are provided in Table 9.
+The effects of other coadministered drugs on abacavir or lamivudine are provided in Table 10.
 
-Table 9.
+Table 10.
 Effect of Coadministered Drugs on Abacavir or Lamivudine
 
 | Coadministered Drug and Dose | Drug and Dose | n | Concentrations of Abacavir or Lamivudine |  | Concentration of Coadministered Drug |
 | --- | --- | --- | --- | --- | --- |
 | AUC | Variability |  |  |  |  |
-| Ethanol0.7 g/kg | AbacavirSingle 600 mg | 24 | ↑41% | 90% CI:35% to 48% | ↔a |
-| Nelfinavir750 mg every 8 h x 7 to 10 days | LamivudineSingle 150 mg | 11 | ↑10% | 95% CI:1% to 20% | ↔ |
-| Trimethoprim 160 mg/Sulfamethoxazole800 mg daily x 5 days | LamivudineSingle 300 mg | 14 | ↑43% | 90% CI:32% to 55% | ↔ |
+| Ethanol 0.7 g/kg | AbacavirSingle 600 mg | 24 | ↑41% | 90% CI:35% to 48% | ↔a |
+| Nelfinavir 750 mg every 8 h x 7 to 10 days | LamivudineSingle 150 mg | 11 | ↑10% | 95% CI:1% to 20% | ↔ |
+| Trimethoprim 160 mg/ Sulfamethoxazole 800 mg daily x 5 days | LamivudineSingle 300 mg | 14 | ↑43% | 90% CI:32% to 55% | ↔ |
 
 ↑ = Increase; ↔ = no significant change; AUC = area under the concentration versus time curve; CI = Confidence interval.
 
@@ -241,7 +255,7 @@ Amino acid substitutions E92Q, G118R, S153F or Y, G193E or R263K emerged in diff
 
 Abacavir and Lamivudine: HIV-1 isolates with reduced susceptibility to the combination of abacavir and lamivudine have been selected in cell culture with amino acid substitutions K65R, L74V, Y115F, and M184V/I in HIV-1 RT.
 M184V or I substitutions resulted in high-level resistance to lamivudine and approximately 2-fold decrease in susceptibility to abacavir.
-Substitutions K65R, L74M or Y115F with M184V or I conferred a 7- to 8-fold reduction in abacavir susceptibility, and combinations of three substitutions were required to confer more than an 8-fold reduction in susceptibility.
+Substitutions K65R, L74M, or Y115F with M184V or I conferred a 7- to 8-fold reduction in abacavir susceptibility, and combinations of three substitutions were required to confer more than an 8-fold reduction in susceptibility.
 
 Resistance in Clinical Subjects
 

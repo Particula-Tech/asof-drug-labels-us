@@ -6,7 +6,7 @@ TRIUMEQ contains an INSTI (dolutegravir) and 2 nucleoside analogues (abacavir an
 
 Each film-coated tablet contains abacavir sulfate equivalent to 600 mg of abacavir, dolutegravir sodium equivalent to 50 mg of dolutegravir, and 300 mg of lamivudine.
 TRIUMEQ tablets are purple, biconvex, oval, debossed with “572 Trı” on one side and contain the inactive ingredients D-mannitol, magnesium stearate, microcrystalline cellulose, povidone, and sodium starch glycolate.
-The tablet film-coating (OPADRY® II Purple 85F90057) contains the inactive ingredients iron oxide black, iron oxide red, macrogol/PEG, polyvinyl alcohol-part hydrolyzed, talc, and titanium oxide.
+The tablet film-coating (OPADRY II Purple 85F90057) contains the inactive ingredients iron oxide black, iron oxide red, macrogol/PEG, polyvinyl alcohol-part hydrolyzed, talc, and titanium oxide.
 
 Abacavir Sulfate
 

@@ -4,20 +4,20 @@ The following adverse reactions are discussed in other sections of the labeling:
 
 - •Serious and sometimes fatal hypersensitivity reaction [see Boxed Warning, Warnings and Precautions (5.1)].
 - •Lactic acidosis and severe hepatomegaly with steatosis [see Boxed Warning, Warnings and Precautions (5.2)].
-- •Effects on serum liver biochemistries in patients with hepatitis B or C co-infection [see Warnings and Precautions (5.3)].
-- •Exacerbations of hepatitis B [see Boxed Warning, Warnings and Precautions (5.3)].
-- •Hepatic decompensation in patients co-infected with HIV-1 and Hepatitis C [see Warnings and Precautions (5.4)].
-- •Immune reconstitution syndrome [see Warnings and Precautions (5.5)].
-- •Fat redistribution [see Warnings and Precautions (5.6)].
-- •Myocardial infarction [see Warnings and Precautions (5.7)].
+- •Hepatotoxicity [see Warnings and Precautions (5.3)].
+- •Exacerbations of hepatitis B [see Boxed Warning, Warnings and Precautions (5.5)].
+- •Hepatic decompensation in patients co-infected with HIV-1 and Hepatitis C [see Warnings and Precautions (5.7)].
+- •Immune reconstitution syndrome [see Warnings and Precautions (5.8)].
+- •Fat redistribution [see Warnings and Precautions (5.9)].
+- •Myocardial infarction [see Warnings and Precautions (5.10)].
 
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-Serious and Fatal Abacavir-Associated Hypersensitivity Reactions
+Clinical Trials in Adults
 
-In clinical trials, serious and sometimes fatal hypersensitivity reactions have occurred with abacavir, a component of TRIUMEQ [see Boxed Warning, Warnings and Precautions (5.1)].
+Serious and Fatal Abacavir-Associated Hypersensitivity Reactions: In clinical trials, serious and sometimes fatal hypersensitivity reactions have occurred with abacavir, a component of TRIUMEQ [see Boxed Warning, Warnings and Precautions (5.1)].
 These reactions have been characterized by 2 or more of the following signs or symptoms: (1) fever; (2) rash; (3) gastrointestinal symptoms (including nausea, vomiting, diarrhea, or abdominal pain); (4) constitutional symptoms (including generalized malaise, fatigue, or achiness); (5) respiratory symptoms (including dyspnea, cough, or pharyngitis).
 Almost all abacavir hypersensitivity reactions include fever and/or rash as part of the syndrome.
 
@@ -27,17 +27,13 @@ Physical findings have included lymphadenopathy, mucous membrane lesions (conjun
 There were reports of erythema multiforme.
 Laboratory abnormalities included elevated liver chemistries, elevated creatine phosphokinase, elevated creatinine, and lymphopenia and abnormal chest x‑ray findings (predominantly infiltrates, which were localized).
 
-Serious Dolutegravir Hypersensitivity Reactions
-
-In clinical trials, hypersensitivity reactions have occurred with dolutegravir, a component of TRIUMEQ [see Warnings and Precautions (5.1)].
+Serious Dolutegravir Hypersensitivity Reactions: In clinical trials, hypersensitivity reactions have occurred with dolutegravir, a component of TRIUMEQ [see Warnings and Precautions (5.1)].
 These hypersensitivity reactions have been characterized by rash, constitutional findings, and sometimes organ dysfunction, including liver injury.
 
-Additional Treatment-Emergent Adverse Drug Reactions (ADRs) with Use of TRIUMEQ
-
-The safety assessment of TRIUMEQ is primarily based on the analyses of data from a randomized, international, multicenter, double-blind, active-controlled trial, SINGLE (ING114467) and supported by data in treatment-experienced, INSTI-naïve subjects from SAILING (ING111762) and by data from other treatment-naïve trials.
+Additional Treatment-Emergent Adverse Drug Reactions (ADRs) with Use of TRIUMEQ: The safety assessment of TRIUMEQ is primarily based on the analyses of data from a randomized, international, multicenter, double-blind, active-controlled trial, SINGLE (ING114467) and supported by data in treatment-experienced, INSTI-naïve subjects from SAILING (ING111762) and by data from other treatment-naïve trials.
 See full prescribing information for TIVICAY.
 
-Treatment-Naïve Subjects: In SINGLE, 833 adult subjects were randomized and received at least one dose of either dolutegravir (TIVICAY) 50 mg with fixed-dose abacavir and lamivudine (EPZICOM®) once daily (n = 414) or fixed-dose efavirenz/emtricitabine/tenofovir (ATRIPLA®) once daily (n = 419) (study treatment was blinded through Week 96 and open-label from Week 96 through Week 144).
+Treatment-Naïve Subjects: In SINGLE, 833 adult subjects were randomized and received at least one dose of either dolutegravir (TIVICAY) 50 mg with fixed-dose abacavir and lamivudine (EPZICOM) once daily (n = 414) or fixed-dose efavirenz/emtricitabine/tenofovir (ATRIPLA) once daily (n = 419) (study treatment was blinded through Week 96 and open-label from Week 96 through Week 144).
 Through 144 weeks, the rate of adverse events leading to discontinuation was 4% in subjects receiving TIVICAY + EPZICOM and 14% in subjects receiving ATRIPLA once daily.
 
 Treatment-emergent ADRs of moderate to severe intensity observed in at least 2% of subjects in either treatment arm of SINGLE are provided in Table 2.
@@ -73,9 +69,7 @@ See full prescribing information for TIVICAY.
 
 The ADRs observed in the subset of subjects who received TIVICAY + EPZICOM were generally consistent with those seen in the overall treatment-naïve patient population.
 
-Less Common Adverse Reactions Observed in Clinical Trials
-
-The following adverse reactions occurred in less than 2% of treatment-naïve or treatment-experienced subjects in any one trial.
+Less Common Adverse Reactions Observed in Clinical Trials: The following adverse reactions occurred in less than 2% of treatment-naïve or treatment-experienced subjects in any one trial.
 These events have been included because of their seriousness and/or assessment of potential causal relationship.
 
 Gastrointestinal Disorders: Abdominal pain, abdominal distention, abdominal discomfort, dyspepsia, flatulence, gastroesophageal reflux disease, upper abdominal pain, vomiting.
@@ -88,9 +82,9 @@ Metabolism and Nutrition Disorders: Anorexia, hypertriglyceridemia.
 
 Musculoskeletal Disorders: Arthralgia, myositis.
 
-Nervous: Somnolence.
+Nervous System Disorders: Somnolence.
 
-Psychiatric: Suicidal ideation, attempt, behavior, or completion.
+Psychiatric Disorders: Suicidal ideation, attempt, behavior, or completion.
 These events were observed primarily in subjects with a pre-existing history of depression or other psychiatric illness.
 Nightmare and sleep disorder.
 
@@ -98,9 +92,7 @@ Renal and Urinary Disorders: Renal impairment.
 
 Skin and Subcutaneous Tissue Disorders: Pruritus.
 
-Laboratory Abnormalities
-
-Treatment-Naïve Subjects: Selected laboratory abnormalities (Grades 2 to 4) with a worsening grade from baseline and representing the worst-grade toxicity in at least 2% of subjects in SINGLE are presented in Table 3.
+Laboratory Abnormalities: Treatment-Naïve Subjects: Selected laboratory abnormalities (Grades 2 to 4) with a worsening grade from baseline and representing the worst-grade toxicity in at least 2% of subjects in SINGLE are presented in Table 3.
 The mean change from baseline observed for selected lipid values is presented in Table 4.
 
 Table 3.
@@ -140,13 +132,11 @@ Mean Change from Baseline in Fasted Lipid Values in Treatment-Naïve Subjects in
 | Triglycerides (mg/dL) | 13.6 | 31.9 |
 
 a Subjects on lipid-lowering agents at baseline were excluded from these analyses (TIVICAY + EPZICOM n = 30 and ATRIPLA n = 27).
-Seventy-two subjects initiated a lipid-lowering agent post-baseline; their last fasted on-treatment values (prior to starting the agent) were used regardless if they discontinued the agent (TIVICAY + EPZICOM n = 36 and ATRIPLA: n = 36).
+Seventy-two subjects initiated a lipid-lowering agent post-baseline; their last fasted on-treatment values (prior to starting the agent) were used regardless if they discontinued the agent (TIVICAY + EPZICOM: n = 36 and ATRIPLA: n = 36).
 
 Treatment-Experienced Subjects: Laboratory abnormalities observed in SAILING were generally similar compared with observations seen in the treatment-naïve trials.
 
-Hepatitis C Virus Co-infection
-
-In SINGLE, the pivotal Phase 3 trial, subjects with hepatitis C virus co-infection were permitted to enroll provided that baseline liver chemistry tests did not exceed 5 times the upper limit of normal; subjects with hepatitis B co-infection were excluded.
+Hepatitis C Virus Co-infection: In SINGLE, the pivotal Phase 3 trial, subjects with hepatitis C virus co-infection were permitted to enroll provided that baseline liver chemistry tests did not exceed 5 times the upper limit of normal; subjects with hepatitis B co-infection were excluded.
 Overall, the safety profile in subjects with hepatitis C virus co-infection was similar to that observed in subjects without hepatitis C co-infection, although the rates of AST and ALT abnormalities were higher in the subgroup with hepatitis C virus co-infection for both treatment groups.
 Grades 2 to 4 ALT abnormalities in hepatitis C co-infected compared with HIV mono-infected subjects receiving TRIUMEQ were observed in 15% and 2% (vs.
 24% and 4% of subjects treated with ATRIPLA) (Week 96 analysis), respectively [see Warnings and Precautions (5.3)].
@@ -157,10 +147,25 @@ Increases in serum creatinine occurred within the first 4 weeks of treatment and
 In SINGLE, a mean change from baseline of 0.14 mg per dL (range: -0.25 mg per dL to 0.81 mg per dL) was observed after 144 weeks of treatment.
 Creatinine increases were similar in treatment-experienced subjects.
 
-Abacavir and Lamivudine
-
-Laboratory abnormalities observed in clinical trials of ZIAGEN (in combination with other antiretroviral treatment) were anemia, neutropenia, liver function test abnormalities, and elevations of CPK, blood glucose, and triglycerides.
+Abacavir and Lamivudine: Laboratory abnormalities observed in clinical trials of ZIAGEN (in combination with other antiretroviral treatment) were anemia, neutropenia, liver function test abnormalities, and elevations of CPK, blood glucose, and triglycerides.
 Additional laboratory abnormalities observed in clinical trials of EPIVIR (in combination with other antiretroviral treatment) were thrombocytopenia and elevated levels of bilirubin, amylase, and lipase.
+
+Clinical Trials Experience in Pediatric Subjects
+
+Abacavir and Lamivudine: The safety of once-daily compared with twice-daily dosing of abacavir and lamivudine, administered as either single products or as EPZICOM, was assessed in the ARROW trial (n = 336).
+Primary safety assessment in the ARROW (COL105677) trial was based on Grade 3 and Grade 4 adverse events.
+One event of Grade 4 hepatitis in the once-daily cohort was considered as uncertain causality by the investigator and all other Grade 3 or 4 adverse events were considered not related by the investigator.
+No additional safety issues were identified in pediatric subjects compared with historical data in adults.
+
+Dolutegravir: IMPAACT P1093 is a 48-week multicenter, open-label, non-comparative trial of approximately 160 HIV‑1‑infected pediatric subjects aged 4 weeks to less than 18 years, of which, 23 treatment-experienced, INSTI-naïve subjects aged 12 to less than 18 years were enrolled [see Use in Specific Populations (8.4), Clinical Studies (14.2)].
+
+The ADR profile was similar to that for adults.
+Grade 2 ADRs reported by more than one subject were decreased neutrophil count (n = 2).
+No Grade 3 or 4 ADRs were reported.
+No ADRs led to discontinuation.
+The Grade 3 laboratory abnormalities reported in 1 subject each were elevated total bilirubin, elevated lipase, and decreased white blood cell count.
+There was one Grade 4 decreased neutrophil count.
+The changes in mean serum creatinine were similar to those observed in adults.
 
 ## 6.2 Postmarketing Experience
 
@@ -183,6 +188,10 @@ Blood and Lymphatic Systems
 
 Aplastic anemia, anemia (including pure red cell aplasia and severe anemias progressing on therapy), lymphadenopathy, splenomegaly.
 
+Hepatobiliary Disorders
+
+Acute liver failure, liver transplant.
+
 Hypersensitivity
 
 Sensitization reactions (including anaphylaxis), urticaria [see Warnings and Precautions (5.1), Adverse Reactions (6.1)].
@@ -198,6 +207,10 @@ CPK elevation, muscle weakness, myalgia, rhabdomyolysis.
 Nervous
 
 Paresthesia, peripheral neuropathy, seizures.
+
+Psychiatric
+
+Anxiety.
 
 Respiratory
 

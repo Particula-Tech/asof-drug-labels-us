@@ -7,7 +7,7 @@ Screen for the HLA‑B*5701 allele prior to initiating therapy with TRIUMEQ [see
 ## 2.2 Recommended Dosage
 
 TRIUMEQ is a fixed-dose combination product containing 600 mg of abacavir, 50 mg of dolutegravir, and 300 mg of lamivudine.
-The recommended dosage regimen of TRIUMEQ in adults is one tablet once daily orally with or without food.
+The recommended dosage regimen of TRIUMEQ in adults and in pediatric patients weighing at least 40 kg is one tablet once daily orally with or without food.
 
 ## 2.3 Dosage Recommendation with Certain Concomitant Medications
 

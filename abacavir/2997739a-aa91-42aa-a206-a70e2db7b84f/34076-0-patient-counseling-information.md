@@ -4,8 +4,7 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Drug Interactions
 
-Do not coadminister TRIUMEQ with dofetilide (TIKOSYN®) because the interaction between dofetilide and dolutegravir can result in potentially life-threatening adverse events [see Contraindications (4)].
-Patients should be advised to report to their healthcare provider the use of any other prescription or nonprescription medication or herbal products.
+TRIUMEQ may interact with many drugs; therefore, advise patients to report to their healthcare provider the use of any other prescription or nonprescription medication or herbal products, including St. John’s wort [see Contraindications (4), Drug Interactions (7)].
 
 Hypersensitivity Reaction
 
@@ -24,69 +23,60 @@ Inform patients:
 - •to not restart TRIUMEQ or any other abacavir‑containing product without medical consultation and only if medical care can be readily accessed by the patient or others.
 - •to not restart TRIUMEQ or any other dolutegravir-containing product following a hypersensitivity reaction to TRIUMEQ.
 
-Related Products that are Not Recommended
-
-Inform patients that they should not take TRIUMEQ with ATRIPLA, COMBIVIR®, COMPLERA®, DUTREBIS™, EMTRIVA®, EPIVIR, EPIVIR‑HBV, EPZICOM, STRIBILD®, TRIZIVIR, TRUVADA®, or ZIAGEN.
-
 Lactic Acidosis/Hepatomegaly
 
 Inform patients that some HIV medicines, including TRIUMEQ, can cause a rare, but serious condition called lactic acidosis with liver enlargement (hepatomegaly) [see Boxed Warning, Warnings and Precautions (5.2)].
 
-Patients with Hepatitis B or C Co-infection
+Hepatotoxicity
 
-Patients with underlying hepatitis B or C may be at increased risk for worsening or development of transaminase elevations with use of TRIUMEQ and advise patients to have laboratory testing before and during therapy [see Warnings and Precautions (5.3)].
+Inform patients that hepatotoxicity has been reported with dolutegravir, a component of TRIUMEQ [see Warnings and Precautions (5.3), Adverse Reactions (6.1)].
+Inform patients that monitoring for hepatotoxicity during therapy with TRIUMEQ is recommended.
+
+Posttreatment Exacerbations of Hepatitis in Patients with Hepatitis B Co-infection
 
 Advise patients co‑infected with HIV‑1 and HBV that worsening of liver disease has occurred in some cases when treatment with lamivudine was discontinued.
-Advise patients to discuss any changes in regimen with their physician [see Warnings and Precautions (5.3)].
+Advise patients to discuss any changes in regimen with their physician [see Warnings and Precautions (5.4)].
 
-Inform patients with HIV‑1/HCV co-infection that hepatic decompensation (some fatal) has occurred in HIV‑1/HCV co-infected patients receiving combination antiretroviral therapy for HIV‑1 and interferon alfa with or without ribavirin [see Warnings and Precautions (5.4)].
+Use with Interferon- and Ribavirin‑Based Regimens in Patients with Hepatitis C Co-infection
+
+Inform patients with HIV‑1/HCV co-infection that hepatic decompensation (some fatal) has occurred in HIV‑1/HCV co-infected patients receiving combination antiretroviral therapy for HIV‑1 and interferon alfa with or without ribavirin [see Warnings and Precautions (5.7)].
 
 Immune Reconstitution Syndrome
 
-In some patients with advanced HIV infection, signs and symptoms of inflammation from previous infections may occur soon after anti-HIV treatment is started.
-It is believed that these symptoms are due to an improvement in the body's immune response, enabling the body to fight infections that may have been present with no obvious symptoms.
-Advise patients to inform their healthcare provider immediately of any symptoms of infection [see Warnings and Precautions (5.5)].
+Advise patients to inform their healthcare provider immediately of any signs and symptoms of infection as inflammation from previous infection may occur soon after combination antiretroviral therapy, including when TRIUMEQ is started [see Warnings and Precautions (5.8)].
 
 Redistribution/Accumulation of Body Fat
 
-Inform patients that redistribution or accumulation of body fat may occur in patients receiving antiretroviral therapy and that the cause and long-term health effects of these conditions are not known at this time [see Warnings and Precautions (5.6)].
+Inform patients that redistribution or accumulation of body fat may occur in patients receiving antiretroviral therapy and that the cause and long-term health effects of these conditions are not known at this time [see Warnings and Precautions (5.9)].
 
-Information about HIV‑1 Infection
+Pregnancy Registry
 
-TRIUMEQ is not a cure for HIV‑1 infection and patients may continue to experience illnesses associated with HIV‑1 infection, including opportunistic infections.
-Patients must remain on continuous HIV therapy to control HIV‑1infection and decrease HIV-related illness.
-Inform patients that sustained decreases in plasma HIV RNA have been associated with a reduced risk of progression to AIDS and death.
+Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to TRIUMEQ during pregnancy [see Use in Specific Populations (8.1)].
 
-Advise patients to remain under the care of a physician when using TRIUMEQ.
+Lactation
 
-Advise patients to take all HIV medications exactly as prescribed.
+Instruct women with HIV-1 infection not to breastfeed because HIV-1 can be passed to the baby in the breast milk [see Use in Specific Populations (8.2)].
 
-Advise patients to avoid doing things that can spread HIV‑1 infection to others.
+Missed Dose
 
-Advise patients not to re-use or share needles or other injection equipment.
+Instruct patients that if they miss a dose of TRIUMEQ, to take it as soon as they remember.
+Advise patients not to double their next dose or take more than the prescribed dose [see Dosage and Administration (2)].
 
-Advise patients not to share personal items that can have blood or body fluids on them, like toothbrushes and razor blades.
+Availability of Medication Guide
 
-Advise patients to always practice safer sex by using a latex or polyurethane condom to lower the chance of sexual contact with semen, vaginal secretions, or blood.
-
-Female patients should be advised not to breastfeed because it is not known if TRIUMEQ can be passed to your baby in your breast milk and whether it could harm your baby.
-Mothers with HIV‑1 should not breastfeed because HIV-1 can be passed to the baby in the breast milk.
-
-Instruct patients to read the Medication Guide before starting TRIUMEQ and to reread it each time the prescription is renewed.
+Instruct patients to read the Medication Guide before starting TRIUMEQ and to re-read it each time the prescription is renewed.
 Instruct patients to inform their physician or pharmacist if they develop any unusual symptom, or if any known symptom persists or worsens.
 
-Instruct patients that if they miss a dose, they should take it as soon as they remember.
-If they do not remember until it is within 4 hours of the time for the next dose, they should be instructed to skip the missed dose and go back to the regular schedule.
-Patients should not double their next dose or take more than the prescribed dose.
+Storage
 
 Instruct patients to store TRIUMEQ in the original package, protect from moisture, and keep the bottle tightly closed.
 Do not remove desiccant.
 
-COMBIVIR, EPIVIR, EPZICOM, TIVICAY, TRIUMEQ, TRIZIVIR, and ZIAGEN are registered trademarks of the ViiV Healthcare group of companies.
+EPIVIR, EPZICOM, TIVICAY, TRIUMEQ, and ZIAGEN are trademarks owned by or licensed to the ViiV Healthcare group of companies.
 
-EPIVIR-HBV is a registered trademark of the GSK group of companies.
+EPIVIR-HBV is a trademark owned by or licensed to the GSK group of companies.
 
-The other brands listed are trademarks of their respective owners and are not trademarks of the ViiV Healthcare group of companies.
+The other brands listed are trademarks owned by or licensed to their respective owners and are not owned by or licensed to the ViiV Healthcare group of companies.
 The makers of these brands are not affiliated with and do not endorse the ViiV Healthcare group of companies or its products.
 
 Manufactured for:
@@ -107,7 +97,6 @@ Shire Pharmaceuticals Group plc
 
 Basingstoke, UK
 
-©2017 the ViiV Healthcare group of companies.
-All rights reserved.
+©201x ViiV Healthcare group of companies or its licensor.
 
-TRM:5PI
+TRM:xPI

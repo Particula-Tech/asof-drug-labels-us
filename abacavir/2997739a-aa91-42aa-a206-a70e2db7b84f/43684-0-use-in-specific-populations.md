@@ -2,57 +2,86 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C. There are no adequate and well‑controlled trials in pregnant women.
-Reproduction studies with the components of TRIUMEQ have been performed in animals (see Dolutegravir, Abacavir, and Lamivudine sections below).
-Animal reproduction studies are not always predictive of human response.
-TRIUMEQ should be used during pregnancy only if the potential benefit outweigh the risks.
+Pregnancy Exposure Registry
 
-Antiretroviral Pregnancy Registry
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to TRIUMEQ during pregnancy.
+Healthcare providers are encouraged to register patients by calling the Antiretroviral Pregnancy Registry (APR) 1‑800‑258‑4263.
 
-To monitor maternal‑fetal outcomes of pregnant women exposed to TRIUMEQ or other antiretroviral agents, an Antiretroviral Pregnancy Registry has been established.
-Physicians are encouraged to register patients by calling 1‑800‑258‑4263.
+Risk Summary
 
-Animal Data
+There are insufficient human data on the use of TRIUMEQ during pregnancy to inform a drug-associated risk of birth defects and miscarriage.
+Given the limited number of pregnancies exposed to dolutegravir-based regimens reported to the APR, no definitive conclusions can be drawn on the safety of TRIUMEQ in pregnancy, and continued monitoring is ongoing through the APR.
 
-Dolutegravir: Reproduction studies performed in rats and rabbits at doses up to 50 times the human dose of 50 mg once daily have revealed no evidence of impaired fertility or harm to the fetus due to dolutegravir.
+Available data from the APR show no difference in the overall risk of birth defects for abacavir or lamivudine compared with the background rate for birth defects of 2.7% in the Metropolitan Atlanta Congenital Defects Program (MACDP) reference population (see Data).
+The APR uses the MACDP as the U.S. reference population for birth defects in the general population.
+The MACDP evaluates women and infants from a limited geographic area and does not include outcomes for births that occurred at less than 20 weeks’ gestation.
+The rate of miscarriage is not reported in the APR.
+The estimated background rate of miscarriage in clinically recognized pregnancies in the U.S. general population is 15% to 20%.
+The background risk for major birth defects and miscarriage for the indicated population is unknown.
 
-Oral administration of dolutegravir to pregnant rats at doses up to 1,000 mg per kg daily, approximately 50 times the 50-mg once-daily human clinical exposure based on AUC, from days 6 to 17 of gestation did not elicit maternal toxicity, developmental toxicity, or teratogenicity.
+In animal reproduction studies, no evidence of adverse developmental outcomes was observed with dolutegravir (see Data).
+During organogenesis in the rat and rabbit and a rat pre/postnatal developmental study, systemic exposures (AUC) to dolutegravir were less than (rabbits) and approximately 50 times (rats) the exposure in humans at the recommended human dose (RHD).
+Oral administration of abacavir to pregnant rats during organogenesis resulted in fetal malformations and other embryonic and fetal toxicities at exposures 35 times the human exposure (AUC) at the RHD.
+No adverse developmental effects were observed following oral administration of abacavir to pregnant rabbits during organogenesis at exposures approximately 9 times the human exposure (AUC) at the RHD.
+Oral administration of lamivudine to pregnant rabbits during organogenesis resulted in embryolethality at a human exposure (AUC) similar to the RHD; however, no adverse development effects were observed with oral administration of lamivudine to pregnant rats during organogenesis at plasma concentrations (Cmax) 35 times the RHD (see Data).
 
-Oral administration of dolutegravir to pregnant rabbits at doses up to 1,000 mg per kg daily, approximately 0.74 times the 50-mg once-daily human clinical exposure based on AUC, from days 6 to 18 of gestation did not elicit developmental toxicity or teratogenicity.
-In rabbits, maternal toxicity (decreased food consumption, scant/no feces/urine, suppressed body weight gain) was observed at 1,000 mg per kg.
+Data
 
-Abacavir: Studies in pregnant rats showed that abacavir is transferred to the fetus through the placenta.
-Fetal malformations (increased incidences of fetal anasarca and skeletal malformations) and developmental toxicity (depressed fetal body weight and reduced crown‑rump length) were observed in rats at a dose which produced 28 times the human exposure for a dose of 600 mg based on AUC.
-Embryonic and fetal toxicities (increased resorptions, decreased fetal body weights) and toxicities to the offspring (increased incidence of stillbirth and lower body weights) occurred at half of the above-mentioned dose in separate fertility studies conducted in rats.
-In the rabbit, no developmental toxicity and no increases in fetal malformations occurred at doses that produced 7 times the human exposure at the recommended dose based on AUC.
+Human Data: Abacavir: Based on prospective reports to the APR of over 2,000 exposures to abacavir during pregnancy resulting in live births (including over 1,000 exposed in the first trimester), there was no difference between the overall risk of birth defects for abacavir compared with the background birth defect rate of 2.7% in the U.S. reference population of the MACDP.
+The prevalence of defects in live births was 2.9% (95% CI: 2.0% to 4.1%) following first trimester exposure to abacavir-containing regimens and 2.7% (95% CI: 1.9% to 3.7%) following second/third trimester exposure to abacavir-containing regimens.
 
-Lamivudine: Studies in pregnant rats showed that lamivudine is transferred to the fetus through the placenta.
-Reproduction studies with orally administered lamivudine have been performed in rats and rabbits at doses producing plasma levels up to approximately 32 times the human exposure for a dose of 300 mg.
-No evidence of teratogenicity due to lamivudine was observed.
-Evidence of early embryolethality was seen in the rabbit at exposure levels similar to those observed in humans, but there was no indication of this effect in the rat at plasma levels up to 32 times those in humans.
+Abacavir has been shown to cross the placenta and concentrations in neonatal plasma at birth were essentially equal to those in maternal plasma at delivery [see Clinical Pharmacology (12.3)].
 
-## 8.3 Nursing Mothers
+Lamivudine: Based on prospective reports to the APR of over 11,000 exposures to lamivudine during pregnancy resulting in live births (including over 4,500 exposed in the first trimester), there was no difference between the overall risk of birth defects for lamivudine compared with the background birth defect rate of 2.7% in the U.S. reference population of the MACDP.
+The prevalence of birth defects in live births was 3.1% (95% CI: 2.6% to 3.6%) following first trimester exposure to lamivudine-containing regimens and 2.8% (95% CI: 2.5%, 3.3%) following second/third trimester exposure to lamivudine-containing regimens.
+
+Lamivudine pharmacokinetics were studied in pregnant women during 2 clinical trials conducted in South Africa.
+The trials assessed pharmacokinetics in 16 women at 36 weeks’ gestation using 150 mg lamivudine twice daily with zidovudine, 10 women at 38 weeks’ gestation using 150 mg lamivudine twice daily with zidovudine, and 10 women at 38 weeks’ gestation using lamivudine 300 mg twice daily without other antiretrovirals.
+These trials were not designed or powered to provide efficacy information.
+Lamivudine concentrations were generally similar in maternal, neonatal, and umbilical cord serum samples.
+In a subset of subjects, amniotic fluid specimens were collected following natural rupture of membranes and confirmed that lamivudine crosses the placenta in humans.
+Based on limited data at delivery, median (range) amniotic fluid concentrations of lamivudine were 3.9 (1.2 to 12.8)–fold greater compared with paired maternal serum concentration (n = 8).
+
+Animal Data: Dolutegravir: Dolutegravir was administered orally to pregnant rats and rabbits (up to 1,000 mg per kg per day) on gestation Days 6 to 17 and 6 to 18, respectively, and to rats on gestation Day 6 to lactation/post-partum Day 20.
+No adverse effects on embryo-fetal (rats and rabbits) or pre/post-natal (rats) development were observed up to the highest dose tested.
+During organogenesis, systemic exposures (AUC) to dolutegravir in rabbits were less than the exposure in humans at the RHD and in rats were approximately 50 times the exposure in humans at the RHD.
+In the rat pre/post-natal development study, decreased body weight of the developing offspring was observed during lactation at a maternally toxic dose (approximately 50 times human exposure at the RHD).
+
+Abacavir: Abacavir was administered orally to pregnant rats (at 100, 300, and 1,000 mg per kg per day) and rabbits (at 125, 350, or 700 mg per kg per day) during organogenesis (on gestation Days 6 through 17 and 6 through 20, respectively).
+Fetal malformations (increased incidences of fetal anasarca and skeletal malformations) or developmental toxicity (decreased fetal body weight and crown‑rump length) were observed in rats at doses up to 1,000 mg per kg per day, resulting in exposures approximately 35 times the human exposure (AUC) at the RHD.
+No developmental effects were observed in rats at 100 mg per kg per day, resulting in exposures (AUC) 3.5 times the human exposure at the recommended daily dose.
+In a fertility and early embryo-fetal development study conducted in rats (at 60, 160, or 500 mg per kg per day), embryonic and fetal toxicities (increased resorptions, decreased fetal body weights) or toxicities to the offspring (increased incidence of stillbirth and lower body weights) occurred at doses up to 500 mg per kg per day.
+No developmental effects were observed in rats at 60 mg per kg per day, resulting in exposures (AUC) approximately 4 times the human exposure at the RHD.
+Studies in pregnant rats showed that abacavir is transferred to the fetus through the placenta.
+In pregnant rabbits, no developmental toxicities and no increases in fetal malformations occurred at up to the highest dose evaluated, resulting in exposures (AUC) approximately 9 times the human exposure at the RHD.
+
+Lamivudine: Lamivudine was administered orally to pregnant rats (at 90, 600, and 4,000 mg per kg per day) and rabbits (at 90, 300 and 1,000 mg per kg per day and at 15, 40, and 90 mg per kg per day) during organogenesis (on gestation Days 7 through 16 [rat] and 8 through 20 [rabbit]).
+No evidence of fetal malformations due to lamivudine was observed in rats and rabbits at doses producing plasma concentrations (Cmax) approximately 35 times higher than human exposure at the RHD.
+Evidence of early embryolethality was seen in the rabbit at systemic exposures (AUC) similar to those observed in humans, but there was no indication of this effect in the rat at plasma concentrations (Cmax) 35 times higher than human exposure at the RHD.
+Studies in pregnant rats showed that lamivudine is transferred to the fetus through the placenta.
+In the fertility/pre- and postnatal development study in rats, lamivudine was administered orally at doses of 180, 900, and 4,000 mg per kg per day (from prior to mating through postnatal Day 20).
+In the study, development of the offspring, including fertility and reproductive performance, were not affected by the maternal administration of lamivudine.
+
+## 8.2 Lactation
 
 The Centers for Disease Control and Prevention recommend that HIV‑1‑infected mothers in the United States not breastfeed their infants to avoid risking postnatal transmission of HIV‑1 infection.
+Abacavir and lamivudine are present in human milk.
+When administered to lactating rats, dolutegravir was present in milk (see Data).
+There is no information on the effects of TRIUMEQ or its components on the breastfed infant or the effects of the drug on milk production.
+Because of the potential for (1) HIV‑1 transmission (in HIV-negative infants), (2) developing viral resistance (in HIV-positive infants), and (3) serious adverse reactions in a breastfed infant, instruct mothers not to breastfeed if they are receiving TRIUMEQ.
 
-Because of both the potential for HIV‑1 transmission and the potential for serious adverse reactions in nursing infants, instruct mothers not to breastfeed.
+Data
 
-Dolutegravir
-
-Studies in lactating rats and their offspring indicate that dolutegravir was present in rat milk.
-It is not known whether dolutegravir is excreted in human breast milk.
-
-Abacavir
-
-Abacavir is excreted in the milk of lactating rats.
-
-Lamivudine
-
-Lamivudine is excreted in human breast milk.
+Animal Data: Dolutegravir was the primary drug-related component excreted into the milk of lactating rats following a single oral dose of 50 mg per kg on lactation Day 10, with milk concentrations of up to approximately 1.3 times that of maternal plasma concentrations observed 8 hours’ post-dose.
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of TRIUMEQ in pediatric patients have not been established [see Clinical Pharmacology (12.3)].
+The clinical data supporting use of TRIUMEQ in HIV-1 infected pediatric patients weighing at least 40 kg is derived from the following previously conducted pediatric trials using the individual components of TRIUMEQ:
+
+- •The safety and efficacy of once-daily abacavir and lamivudine were established with a randomized, multicenter trial (ARROW [COL105677]) in HIV-1–infected, treatment-naïve subjects aged 3 months to 17 years with a first-line regimen containing abacavir and lamivudine, using either the combination of EPIVIR and ZIAGEN or EPZICOM [see Adverse Reactions (6.2), Clinical Studies (14.2)].
+- •The safety and antiviral activity (efficacy) of dolutegravir was established through a 48-week, open-label, multicenter, dose-finding clinical trial (IMPAACT P1093), in which treatment-experienced, INSTI-naïve, HIV-1–infected subjects aged 6 to less than 18 years were treated with dolutegravir (TIVICAY) plus optimized background therapy [see Adverse Reactions (6.2), Clinical Pharmacology (12.3), Clinical Studies (14.2)].
+
+TRIUMEQ is a fixed-dose combination tablet which cannot be adjusted for patients weighing less than 40 kg [see Clinical Pharmacology (12.3)].
 
 ## 8.5 Geriatric Use
 

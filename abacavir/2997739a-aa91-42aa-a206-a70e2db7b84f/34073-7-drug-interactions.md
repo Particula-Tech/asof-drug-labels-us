@@ -2,14 +2,14 @@
 
 ## 7.1 Effect of Dolutegravir on the Pharmacokinetics of Other Agents
 
-In vitro, dolutegravir inhibited the renal organic cation transporters, OCT2 (IC50 = 1.93 microM) and multidrug and toxin extrusion transporter (MATE) 1 (IC50 = 6.34 microM).
+In vitro, dolutegravir inhibited the renal organic cation transporters (OCT)2 (IC50 = 1.93 microM) and multidrug and toxin extrusion transporter (MATE)1 (IC50 = 6.34 microM).
 In vivo, dolutegravir inhibits tubular secretion of creatinine by inhibiting OCT2 and potentially MATE1.
 Dolutegravir may increase plasma concentrations of drugs eliminated via OCT2 or MATE1 (dofetilide and metformin) [see Contraindications (4), Drug Interactions (7.3)].
 
 In vitro, dolutegravir inhibited the basolateral renal transporters, organic anion transporter (OAT) 1 (IC50 = 2.12 microM) and OAT3 (IC50 = 1.97 microM).
 However, in vivo, dolutegravir did not alter the plasma concentrations of tenofovir or para-amino hippurate, substrates of OAT1 and OAT3.
 
-In vitro, dolutegravir did not inhibit (IC50 greater than 50 microM) the following: cytochrome P450 (CYP)1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP3A, UGT1A1, UGT2B7, P-glycoprotein (P-gp), breast cancer resistance protein (BCRP), bile salt export pump (BSEP), organic anion transporter polypeptide (OATP)1B1, OATP1B3, OCT1, or multidrug resistance protein (MRP)2, or MRP4.
+In vitro, dolutegravir did not inhibit (IC50 greater than 50 microM) the following: cytochrome P450 (CYP)1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP3A, uridine diphosphate (UDP)-glucuronosyl transferase (UGT)1A1, UGT2B7, P-glycoprotein (P-gp), breast cancer resistance protein (BCRP), bile salt export pump (BSEP), organic anion transporter polypeptide (OATP)1B1, OATP1B3, OCT1, or multidrug resistance protein (MRP)2, or MRP4.
 In vitro, dolutegravir did not induce CYP1A2, CYP2B6, CYP3A4.
 Based on these data and the results of drug interaction trials, dolutegravir is not expected to affect the pharmacokinetics of drugs that are substrates of these enzymes or transporters.
 
@@ -26,7 +26,7 @@ Coadministration of dolutegravir and other drugs that inhibit these enzymes may 
 
 Etravirine significantly reduced plasma concentrations of dolutegravir, but the effect of etravirine was mitigated by coadministration of lopinavir/ritonavir or darunavir/ritonavir, and is expected to be mitigated by atazanavir/ritonavir (Table 5) [see Drug Interactions (7.3), Clinical Pharmacology (12.3)].
 
-In vitro, dolutegravir was not a substrate of OATP1B1, or OATP1B3.
+In vitro, dolutegravir was not a substrate of OATP1B1 or OATP1B3.
 
 Darunavir/ritonavir, lopinavir/ritonavir, rilpivirine, tenofovir, boceprevir, daclatasvir, prednisone, rifabutin, and omeprazole had no clinically significant effect on the pharmacokinetics of dolutegravir.
 
@@ -36,7 +36,7 @@ There were no drug-drug interaction trials conducted with the abacavir, dolutegr
 
 Information regarding potential drug interactions with dolutegravir (Table 5) and abacavir are provided below.
 These recommendations are based on either drug interaction trials or predicted interactions due to the expected magnitude of interaction and potential for serious adverse events or loss of efficacy.
-[See Clinical Pharmacology (12.3).]
+[See Contraindications (4), Clinical Pharmacology (12.3).]
 
 Table 5.
 Established and Other Potentially Significant Drug Interactions for Dolutegravir: Alterations in Dose May Be Recommended Based on Drug Interaction Trials or Predicted Interactions
@@ -44,6 +44,7 @@ Established and Other Potentially Significant Drug Interactions for Dolutegravir
 | Concomitant Drug Class: Drug Name | Effect on Concentration | Clinical Comment |
 | --- | --- | --- |
 | HIV-1 Antiviral Agents |  |  |
+| Antiarrhythmic: Dofetilide | ↑Dofetilide | Coadministration is contraindicated with TRIUMEQ [see Contraindications (4)]. |
 | Non-nucleoside reverse transcriptase inhibitor:Etravirinea | ↓Dolutegravir | Use of TRIUMEQ with etravirine without coadministration of atazanavir/ritonavir, darunavir/ritonavir, or lopinavir/ritonavir is not recommended. |
 | Non-nucleoside reverse transcriptase inhibitor:Efavirenza | ↓Dolutegravir | Adjust dolutegravir dose to 50 mg twice daily. An additional 50-mg dose of dolutegravir should be taken, separated by 12 hours from TRIUMEQ. |
 | Non-nucleoside reverse transcriptase inhibitor:Nevirapine | ↓Dolutegravir | Avoid coadministration with TRIUMEQ because there are insufficient data to make dosing recommendations. |
@@ -56,7 +57,7 @@ Established and Other Potentially Significant Drug Interactions for Dolutegravir
 | Metformina | ↑Metformin | With concomitant use, limit the total daily dose of metformin to 1,000 mg either when starting metformin or TRIUMEQ. When stopping TRIUMEQ, the metformin dose may require an adjustment. Monitoring of blood glucose when initiating concomitant use and after withdrawal of TRIUMEQ is recommended. |
 | Rifampina | ↓Dolutegravir | Adjust dolutegravir dose to 50 mg twice daily. An additional 50-mg dose of dolutegravir should be taken, separated by 12 hours from TRIUMEQ. |
 
-aSee Clinical Pharmacology (12.3) Table 8 or Table 9 for magnitude of interaction.
+a See Clinical Pharmacology (12.3) Table 8 or Table 9 for magnitude of interaction.
 
 Methadone
 

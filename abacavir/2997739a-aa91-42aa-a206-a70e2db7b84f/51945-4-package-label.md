@@ -2,7 +2,7 @@ PRINICPAL DISPLAY PANEL
 
 NDC 49702-231-13
 
-Triumeq®
+Triumeq
 
 (abacavir, dolutegravir, and lamivudine)
 
@@ -28,7 +28,7 @@ Rx only
 
 30 Tablets
 
-©2016 the ViiV Healthcare group of companies.
+©2017 ViiV Healthcare group of companies or its licensor.
 
-1. 10000000143471 Rev.
-   11/16
+1. 10000000147131 Rev.
+   8/17
