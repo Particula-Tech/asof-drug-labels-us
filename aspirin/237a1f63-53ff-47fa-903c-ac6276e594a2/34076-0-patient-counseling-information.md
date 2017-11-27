@@ -209,28 +209,11 @@ Inactive Ingredients:acacia, alginic acid, anhydrous lactose, colloidal silicon 
 
 Each capsule shell contains gelatin, sodium lauryl sulfate, FD&C Red 40, FD&C Yellow 6, shellac, potassium hydroxide, red iron oxide, yellow iron oxide, titanium dioxide, black iron oxide and water.
 
-Dist. by:
+Dist. by: Par Pharmaceutical Chestnut Ridge, NY 10977 U.S.A.
 
-Par Pharmaceutical
-
-Chestnut Ridge, NY 10977 U.S.A.
-
-Mfg. by:
-
-Par Formulations Private Limited,
-
-1/58, Pudupakkam,
-
-Kelambakkam - 603 103.
-
+Mfg. by: Par Formulations Private Limited, 9/215, Pudupakkam, Kelambakkam - 603 103.
 Made in India
 
 Mfg.
 Lic.
-No.: TN00002121
-
-OS007-01-74-01
-
-SE7527/00
-
-I09/16
+No.: TN00002121 OS007-01-74-02 Revised: 04/2017
