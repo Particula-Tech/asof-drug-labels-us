@@ -4,7 +4,7 @@
 
 PREMARIN (conjugated estrogens) Vaginal Cream—Each gram contains 0.625 mg conjugated estrogens, USP.
 
-Combination package: Each contains a net wt of 1.06 oz (30 g) tube with plastic applicator(s) calibrated in 0.5 g increments to a maximum of 2 g (NDC 0046-0872-21).
+Combination package: Each contains a net wt. of 1.06 oz (30 g) tube with plastic applicator(s) calibrated in 0.5 g increments to a maximum of 2 g (NDC 0046-0872-21).
 
 ## 16.2 Storage and Handling
 

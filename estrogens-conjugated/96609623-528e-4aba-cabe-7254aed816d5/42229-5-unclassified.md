@@ -1,12 +1,4 @@
-LAB-0498-5.0
-
-FDA-Approved Patient Labeling
-
-PREMARIN® (prem-uh-rin) (Conjugated estrogens) Vaginal Cream
-
-Read this PATIENT INFORMATION before you start using PREMARIN Vaginal Cream and read what you get each time you refill your PREMARIN Vaginal Cream prescription.
-There may be new information.
-This information does not take the place of talking to your healthcare provider about your menopausal symptoms or your treatment.
+LAB-0498-6.0
 
 What is PREMARIN Vaginal Cream?
 
@@ -94,7 +86,7 @@ Serious, but less common side effects include:
 - Enlargement of benign tumors of the uterus ("fibroids")
 - Severe allergic reaction
 
-Call your healthcare provider right away if you get any of the following warning signed or any other unusual symptoms that concern you:
+Call your healthcare provider right away if you get any of the following warning signs or any other unusual symptoms that concern you:
 
 - New breast lumps
 - Unusual vaginal bleeding
@@ -154,4 +146,4 @@ Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (5
 This product's label may have been updated.
 For current full prescribing information, please visit www.pfizer.com.
 
-LAB-0519-4.0 12/2015
+LAB-0519-5.0 Rev 11/2017
