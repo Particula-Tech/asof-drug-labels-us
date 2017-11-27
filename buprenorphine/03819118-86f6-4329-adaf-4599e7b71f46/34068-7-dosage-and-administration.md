@@ -1,13 +1,5 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-Buprenorphine Sublingual Tablets are administered sublingually as a single daily dose.
-Buprenorphine Sublingual Tablets contain no naloxone HCl and is preferred for use only during induction.
-Following induction, Buprenorphine and Naloxone Sublingual Film or Buprenorphine and Naloxone Sublingual Tablet is preferred due to the presence of naloxone when clinical use includes unsupervised administration.
-The use of Buprenorphine Sublingual Tablets for unsupervised administration should be limited to those patients who cannot tolerate Buprenorphine and Naloxone Sublingual Film or Buprenorphine and Naloxone Sublingual Tablet; for example, those patients who have been shown to be hypersensitive to naloxone.
-
-Medication should be prescribed in consideration of the frequency of visits.
-Provision of multiple refills is not advised early in treatment or without appropriate patient follow-up visits.
-
 ## 2.1 Important Dosage and Administration Instructions
 
 Buprenorphine Sublingual Tablets are administered sublingually as a single daily dose.
@@ -87,7 +79,7 @@ Continuation or modification of pharmacotherapy should be based on the healthcar
 
 If treatment goals are not being achieved, the healthcare provider should re-evaluate the appropriateness of continuing the current treatment.
 
-## 2.6 Unstable Patients
+## 2.6 Patients with Hepatic Impairment
 
 Severe hepatic impairment: Consider reducing the starting and titration incremental dose by half compared to patients with normal liver function, and monitor for signs and symptoms of toxicity or overdose caused by increased levels of buprenorphine.
 
@@ -109,4 +101,4 @@ Patients who continue to misuse, abuse, or divert buprenorphine products or othe
 
 The decision to discontinue therapy with buprenorphine and naloxone or buprenorphine after a period of maintenance should be made as part of a comprehensive treatment plan.
 Advise patients of the potential to relapse to illicit drug use following discontinuation of opioid agonist/partial agonist medication-assisted treatment.
-Taper patients to reduce the occurrence of withdrawal signs and symptoms [See Warnings and Precautions (5.7)].
+Taper patients to reduce the occurrence of withdrawal signs and symptoms [see Warnings and Precautions (5.7)].

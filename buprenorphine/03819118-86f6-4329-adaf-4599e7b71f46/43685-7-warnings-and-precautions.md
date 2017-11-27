@@ -7,23 +7,37 @@ Prescribe and dispense buprenorphine with appropriate precautions to minimize ri
 Clinical monitoring appropriate to the patient’s level of stability is essential.
 Multiple refills should not be prescribed early in treatment or without appropriate patient follow-up visits [see Drug Abuse and Dependence (9.2)].
 
-## 5.2 Respiratory Depression
+## 5.2 Risk of Respiratory and Central Nervous System (CNS) Depression
 
-Buprenorphine, particularly when taken by the IV route, in combination with benzodiazepines or other CNS depressants (including alcohol), has been associated with significant respiratory depression and death.
-Many, but not all postmarketing reports regarding coma and death associated with the concomitant use of buprenorphine and benzodiazepines involved misuse by self-injection.
-Deaths have also been reported in association with concomitant administration of buprenorphine with other depressants such as alcohol or other CNS depressant drugs.
-Patients should be warned of the potential danger of self-administration of benzodiazepines or other depressants while under treatment with Buprenorphine Sublingual Tablets [see Drug Interactions (7)].
+Buprenorphine has been associated with life-threatening respiratory depression and death.
+Many, but not all, postmarketing reports regarding coma and death involved misuse by self-injection or were associated with the concomitant use of benzodiazepines or other CNS depressants, including alcohol.
+Warn patients of the potential danger of self-administration of benzodiazepines or other CNS depressants while under treatment with Buprenorphine Sublingual Tablets [see Warnings and Precautions (5.3), Drug Interactions (7)].
 
-In the case of overdose, the primary management should be the re-establishment of adequate ventilation with mechanical assistance of respiration, if required.
-Naloxone may be of value for the management of buprenorphine overdose.
-Higher than normal doses and repeated administration may be necessary.
+Use Buprenorphine Sublingual Tablets with caution in patients with compromised respiratory function (e.g., chronic obstructive pulmonary disease, cor pulmonale, decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression).
 
-Buprenorphine Sublingual Tablets should be used with caution in patients with compromised respiratory function (e.g., chronic obstructive pulmonary disease, cor pulmonale, decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression).
+## 5.3 Managing Risks from Concomitant Use of Benzodiazepines or Other CNS Depressants
 
-## 5.3 CNS Depression
+Concomitant use of buprenorphine and benzodiazepines or other CNS depressants increases the risk of adverse reactions including overdose and death.
+Medication-assisted treatment of opioid use disorder, however, should not be categorically denied to patients taking these drugs.
+Prohibiting or creating barriers to treatment can pose an even greater risk of morbidity and mortality due to the opioid use disorder alone.
 
-Patients receiving buprenorphine in the presence of opioid analgesics, general anesthetics, benzodiazepines, phenothiazines, other tranquilizers, sedative/hypnotics or other CNS depressants (including alcohol) may exhibit increased CNS depression.
-Consider dose reduction of CNS depressants, Buprenorphine Sublingual Tablets, or both in situations of concomitant prescribing [see Drug Interactions (7)].
+As a routine part of orientation to buprenorphine treatment, educate patients about the risks of concomitant use of benzodiazepines, sedatives, opioid analgesics, and alcohol.
+
+Develop strategies to manage use of prescribed or illicit benzodiazepines or other CNS depressants at initiation of buprenorphine treatment, or if it emerges as a concern during treatment.
+Adjustments to induction procedures and additional monitoring may be required.
+There is no evidence to support dose limitations or arbitrary caps of buprenorphine as a strategy to address benzodiazepine use in buprenorphine-treated patients.
+However, if a patient is sedated at the time of buprenorphine dosing, delay or omit the buprenorphine dose if appropriate.
+
+Cessation of benzodiazepines or other CNS depressants is preferred in most cases of concomitant use.
+In some cases, monitoring in a higher level of care for taper may be appropriate.
+In others, gradually tapering a patient off of a prescribed benzodiazepine or other CNS depressant or decreasing to the lowest effective dose may be appropriate.
+
+For patients in buprenorphine treatment, benzodiazepines are not the treatment of choice for anxiety or insomnia.
+Before co-prescribing benzodiazepines, ensure that patients are appropriately diagnosed and consider alternative medications and non-pharmacologic treatments to address anxiety or insomnia.
+Ensure that other healthcare providers prescribing benzodiazepines or other CNS depressants are aware of the patient’s buprenorphine treatment and coordinate care to minimize the risks associated with concomitant use.
+
+In addition, take measures to confirm that patients are taking their medications as prescribed and are not diverting or supplementing with illicit drugs.
+Toxicology screening should test for prescribed and illicit benzodiazepines [see Drug Interactions (7)].
 
 ## 5.4 Unintentional Pediatric Exposure
 
@@ -73,7 +87,7 @@ Depending on the case, Buprenorphine Sublingual Tablets may need to be carefully
 ## 5.9 Allergic Reactions
 
 Cases of hypersensitivity to buprenorphine products have been reported both in clinical trials and in the postmarketing experience.
-Cases of bronchospasm, angioneurotic edema, and anaphylactic shock have been reported.
+Cases of bronchospasm, angioneutrotic edema, and anaphylactic shock have been reported.
 The most common signs and symptoms include rashes, hives, and pruritus.
 A history of hypersensitivity to buprenorphine is a contraindication to the use of Buprenorphine Sublingual Tablets.
 

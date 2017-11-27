@@ -5,8 +5,8 @@ Advise patients to read the FDA-approved patient labeling (Medication Guide).
 Safe Use Before initiating treatment with Buprenorphine Sublingual Tablets, explain the points listed below to caregivers and patients.
 Instruct patients to read the Medication Guide each time Buprenorphine Sublingual Tablets are dispensed because new information may be available.
 
-- Warn patients that it is extremely dangerous to self-administer non-prescribed benzodiazepines or other CNS depressants (including alcohol) while taking Buprenorphine Sublingual Tablets.
-  Caution patients prescribed benzodiazepines or other CNS depressants to use them only as directed by their healthcare providers [see Warnings and Precautions (5.2), Drug Interactions (7)].
+- Inform patients and caregivers that potentially fatal additive effects may occur if Buprenorphine Sublingual Tablets are used with benzodiazepines or other CNS depressants, including alcohol.
+  Counsel patients that such medications should not be used concomitantly unless supervised by a healthcare provider [see Warnings and Precautions (5.2, 5.3), Drug Interactions (7)].
 - Advise patients that Buprenorphine Sublingual Tablets contains an opioid that can be a target for people who abuse prescription medications or street drugs and to keep their tablets in a safe place, and to protect them from theft.
 - Instruct patients to keep Buprenorphine Sublingual Tablets in a secure place, out of the sight and reach of children.
   Accidental or deliberate ingestion by a child may cause respiratory depression that can result in death.
@@ -42,4 +42,4 @@ Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
 40-9095
 
-Revised – September 2017
+Revised – October 2017

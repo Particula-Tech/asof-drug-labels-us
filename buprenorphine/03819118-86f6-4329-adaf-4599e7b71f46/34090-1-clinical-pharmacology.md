@@ -46,8 +46,6 @@ Plasma levels of buprenorphine increased with the sublingual dose of Buprenorphi
 There was wide inter-patient variability in the sublingual absorption of buprenorphine, but within subjects the variability was low.
 Both Cmax and AUC of buprenorphine increased in a linear fashion with the increase in dose (in the range of 4 mg to 16 mg), although the increase was not directly dose-proportional.
 
-.
-
 Table 4 Pharmacokinetic Parameters of Buprenorphine and Norbuprenorphine After the Sublingual Administration of Buprenorphine Sublingual Tablets
 
 | Dose | Analyte | Mean SD | Cmax (ng/mL) | Tmax (h) | AUCinf (h•ng/mL) | t1/2 (h) |
@@ -114,5 +112,7 @@ Table 5 Changes in Buprenorphine Pharmacokinetic Parameters in Subjects with Mod
 |  | AUC0-last | 181% |
 |  | Half-life | 57% |
 
-HCV infection: In subjects with HCV infection but no sign of hepatic impairment, the changes in the mean Cmax, AUC0-last, and half-life values of buprenorphine were not clinically significant in comparison to healthy subjects without HCV infection.
+HCV infection
+
+In subjects with HCV infection but no sign of hepatic impairment, the changes in the mean Cmax, AUC0-last, and half-life values of buprenorphine were not clinically significant in comparison to healthy subjects without HCV infection.
 No dose adjustment is needed in patients with HCV infection.
