@@ -207,7 +207,7 @@ Disclaimer: Other brands listed are the registered trademarks of their respectiv
 
 This Medication Guide has been approved by the US Food and Drug Administration.
 
-Revised: April 2017
+Revised: June 2017
 
 Manufactured by
 
