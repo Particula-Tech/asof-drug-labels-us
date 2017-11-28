@@ -40,15 +40,25 @@ Adults and children: 150 to 200 mg/kg/day in equally divided doses every 3 to 4 
 (Treatment may be initiated with intravenous drip therapy and continued with intramuscular injections.)
 The doses for other infections may be given by either the intravenous or intramuscular route.
 
+Neonates (less than or equal to 28 days of postnatal age): Dosage should be based on Gestational age and Postnatal age according to Table 3.
+
+1. Table 3: Dosage in Neonates (less than or equal to 28 days of postnatal age) for Bacterial Meningitis and Septicemia
+
+| Gestational age (weeks) | Postnatal age (days) | Dosage |
+| --- | --- | --- |
+| less than or equal to 34less than or equal to 34greater than 34 | less than or equal to 7greater than or equal to 8 and less than 28less than or equal to 28 | 100 mg/kg/day in equally divided doses every 12 hours150 mg/kg/day in equally divided doses every 12 hours150 mg/kg/day in equally divided doses every 8 hours |
+
 ## Septicemia.
 
 Adults and children: 150 to 200 mg/kg/day.
 Start with intravenous administration for at least three days and continue with the intramuscular route every 3 to 4 hours.
 
+Neonates (less than or equal to 28 days of postnatal age): Dosage should be based on Gestational age and Postnatal age according to Table 3 (above).
+
 Treatment of all infections should be continued for a minimum of 48 to 72 hours beyond the time that the patient becomes asymptomatic or evidence of bacterial eradication has been obtained.
 A minimum of 10-days treatment is recommended for any infection caused by Group A beta-hemolytic streptococci to help prevent the occurrence of acute rheumatic fever or acute glomerulonephritis.
 
-## For Administration by Intravenous Infusion
+## DIRECTIONS FOR USE For Administration by Intravenous Infusion
 
 Reconstitute as directed below (Directions for Proper Use of Pharmacy Bulk Package) prior to diluting with an intravenous solution.
 
@@ -60,19 +70,19 @@ Stability studies on ampicillin sodium at several concentrations in various intr
 | --- | --- | --- |
 | Diluent | Concentrations | Stability Periods |
 | Sterile Water for Injection | up to 30 mg/mL | 8 hours |
-| Sodium Chloride Injection, USP 0.9% | up to 30 mg/mL | 8 hours |
-| 5% Dextrose in Water | 10 to 20 mg/mL | 1 hour |
-| 5% Dextrose in Water | up to 2 mg/mL | 2 hours |
-| 5% Dextrose in 0.45% NaCl Inj. | up to 2 mg/mL | 2 hours |
-| Lactated Ringer’s Solution | up to 30 mg/mL | 8 hours |
+| 0.9% Sodium Chloride Injection, USP | up to 30 mg/mL | 8 hours |
+| 5% Dextrose Injection, USP | 10 to 20 mg/mL | 1 hour |
+| 5% Dextrose Injection, USP | up to 2 mg/mL | 2 hours |
+| 5% Dextrose and 0.45% Sodium Chloride Injection, USP | up to 2 mg/mL | 2 hours |
+| Lactated Ringer’s Injection, USP | up to 30 mg/mL | 8 hours |
 | Refrigerated (4°C) |  |  |
 | Sterile Water for Injection | 30 mg/mL | 48 hours |
 | Sterile Water for Injection | up to 20 mg/mL | 72 hours |
-| Sodium Chloride Injection, USP, 0.9% | 30 mg/mL | 24 hours |
-| Sodium Chloride Injection, USP, 0.9% | up to 20 mg/mL | 48 hours |
-| Lactated Ringer’s Solution | up to 30 mg/mL | 24 hours |
-| 5% Dextrose in Water | up to 20 mg/mL | 1 hour |
-| 5% Dextrose in 0.45% NaCl Inj. | up to 10 mg/mL | 1 hour |
+| 0.9% Sodium Chloride Injection, USP | 30 mg/mL | 24 hours |
+| 0.9% Sodium Chloride Injection, USP | up to 20 mg/mL | 48 hours |
+| Lactated Ringer’s Injection, USP | up to 30 mg/mL | 24 hours |
+| 5% Dextrose Injection, USP | up to 20 mg/mL | 1 hour |
+| 5% Dextrose and 0.45% Sodium Chloride Injection, USP | up to 10 mg/mL | 1 hour |
 
 Only those solutions listed above should be used for the intravenous infusion of Ampicillin for Injection, USP.
 The concentrations should fall within the range specified.
@@ -80,10 +90,11 @@ The drug concentration and the rate and volume of the infusion should be adjuste
 
 ## Directions for Proper Use of Pharmacy Bulk Package
 
-This glass Pharmacy Bulk Package bottle contains 10 grams Ampicillin and is designed for use in the pharmacy in preparing IV admixtures.
+This Pharmacy Bulk Package glass bottle contains ampicillin sodium equivalent to 10 grams of ampicillin.
+It is designed for use in the pharmacy in preparing IV admixtures using aseptic technique in a laminar flow hood.
 
 a) Add 94 mL Sterile Water for Injection, USP.
-The resulting soluton will contain 100 milligrams ampicillin activity per mL, and is stable up to one hour at room temperature.
+The resulting soluton will contain 100 milligrams ampicillin activity per mL, and is stable up to ONE HOUR at room temperature.
 
 b) Dilute further within ONE HOUR to a concentration of 5 mg to 10 mg per mL.
 See TABLE for suitable fluid.
@@ -96,10 +107,12 @@ Use of a syringe and needle is not recommended as it may cause leakage.
 
 d) After entry, use entire contents of Pharmacy Bulk Package bottle promptly.
 The entire contents of the Pharmacy Bulk Package bottle must be dispensed within ONE HOUR of reconstitution.
-This time limit should begin with the introduction of solvent in the Pharmacy Bulk Package Bottle.
+This time limit should begin with the introduction of solvent or diluent into the Pharmacy Bulk Package Bottle.
 
 e) The hanger label on the Pharmacy Bulk Package provides a suitable hanging device while dispensing contents.
 If the Pharmacy Bulk Package does not have a hanger label, a plastic bail band will provide a suitable hanging device.
 
 Use of this product is restricted to a suitable work area, such as a laminar flow hood.
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
+
+CAUTION: Not to be dispensed as a unit.

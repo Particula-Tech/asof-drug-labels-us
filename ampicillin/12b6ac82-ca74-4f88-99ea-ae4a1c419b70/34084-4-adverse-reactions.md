@@ -33,4 +33,6 @@ Anemia, thrombocytopenia, thrombocytopenic
 purpura, eosinophilia, leukopenia, and agranulocytosis have been reported during therapy with the penicillins.
 These reactions are usually reversible on discontinuation of therapy and are believed to be hypersensitivity phenomena.
 
-To report SUSPECTED ADVERSE REACTIONS, contact WG Critical Care, LLC at 1-866-562-4708 or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch for voluntary reporting of adverse reactions.
+Central Nervous System
+
+Seizures

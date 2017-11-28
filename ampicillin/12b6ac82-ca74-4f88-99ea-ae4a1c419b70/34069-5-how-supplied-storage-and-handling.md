@@ -33,9 +33,13 @@ Clinical and Laboratory Standards Institute (CLSI).
 Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria that Grow Aerobically; Approved Standard - Tenth Edition.
 CLSI document M07-A10, Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA, 2015.
 
-CLINITEST® is a registered trademark of Siemans Healthcare Diagnostics LLC.
+To report SUSPECTED ADVERSE REACTIONS, contact WG Critical Care, LLC at 1-866-562-4708 or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch for voluntary reporting of adverse reactions.
 
-CLINISTIX® is a registered trademark of Bayer Healthcare LLC.
+Clinitest is a registered trademark of Miles, Inc.
+
+Clinistix is a registered trademark of Bayer Corporation.
+
+Tes-Tape is a registered trademark of Eli Lilly Company.
 
 Manufactured for:
 
@@ -43,6 +47,7 @@ WG Critical Care, LLC
 
 Paramus, NJ 07652
 
-08/2015
+Rev.
+11/2017
 
-INS15792 06
+INS15792 07

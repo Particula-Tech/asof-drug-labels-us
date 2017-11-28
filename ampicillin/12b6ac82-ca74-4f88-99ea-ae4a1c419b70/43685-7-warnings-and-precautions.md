@@ -10,7 +10,7 @@ If an allergic reaction occurs, the drug should be discontinued and appropriate 
 
 SERIOUS ANAPHYLACTOID REACTIONS REQUIRE IMMEDIATE EMERGENCY TREATMENT WITH EPINEPHRINE, OXYGEN, INTRAVENOUS STEROIDS, AND AIRWAY MANAGEMENT, INCLUDING INTUBATION, SHOULD ALSO BE ADMINISTERED AS INDICATED.
 
-Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including ampicillin, and may range in severity from mild diarrhea to fatal colitis.
+Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including Ampicillin for Injection, USP, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
 C. difficile produces toxins A and B which contribute to the development of CDAD.
@@ -62,8 +62,8 @@ It is not known whether this potentiation of ampicillin rashes is due to allopur
 
 ## Drug/Laboratory Test Interactions
 
-With high urine concentrations of ampicillin, false-positive glucose reactions may occur if Clinitest®, Benedict’s Solution, or Fehling’s Solution are used.
-Therefore, it is recommended that glucose tests based on enzymatic glucose oxidase reactions (such as Clinistix® or Tes-Tape) be used.
+With high urine concentrations of ampicillin, false-positive glucose reactions may occur if Clinitest, Benedict’s Solution, or Fehling’s Solution are used.
+Therefore, it is recommended that glucose tests based on enzymatic glucose oxidase reactions (such as Clinistix or Tes-Tape) be used.
 
 ## Carcinogenesis, Mutagenesis, and Impairment of Fertility
 
@@ -88,4 +88,4 @@ Therefore, caution should be exercised when ampicillin-class antibacterials are 
 
 ## Pediatric Use
 
-Guidelines for the administration of these drugs to children are presented in DOSAGE AND ADMINISTRATION.
+Guidelines for the administration of these drugs to children, including neonates are presented in DOSAGE AND ADMINISTRATION.
