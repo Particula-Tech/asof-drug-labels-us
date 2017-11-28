@@ -6,4 +6,13 @@ Mean baseline lesion counts were 20 and 21 for ORACEA and placebo subject groups
 
 At Week 16, subjects in the ORACEA group were evaluated using coprimary endpoints of mean reduction in lesion counts and a dichotomized static Investigator’s Global Assessment of Clear or Almost Clear (defined as 1 to 2 small papules or pustules) when compared to the placebo group in both Phase 3 trials.
 
+Table 3: Clinical Results of ORACEA versus Placebo
+
+|  | Study 1 |  | Study 2 |  |
+| --- | --- | --- | --- | --- |
+|  | ORACEA | Placebo | ORACEA | Placebo |
+|  | 40 mg N=127 | N=124 | 40 mg N=142 | N=144 |
+| Mean Change in Lesion Count from Baseline | - 11.8 | - 5.9 | - 9.5 | - 4.3 |
+| No. (%) of Subjects Clear or Almost Clear in the IGA Investigator's Global Assessment | 39 (30.7%) | 24 (19.4%) | 21 (14.8%) | 9 (6.3%) |
+
 Subjects treated with ORACEA did not demonstrate significant improvement in erythema when compared to those treated with placebo.

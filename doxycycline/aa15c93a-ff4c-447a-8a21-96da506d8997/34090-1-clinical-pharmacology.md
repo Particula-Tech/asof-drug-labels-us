@@ -10,6 +10,14 @@ ORACEA capsules are not bioequivalent to other doxycycline products.
 The pharmacokinetics of doxycycline following oral administration of ORACEA was investigated in 2 volunteer studies involving 61 adults.
 Pharmacokinetic parameters for ORACEA following single oral doses and at steady-state in healthy subjects are presented in Table 2.
 
+Table 2.
+Pharmcokinetic Parameters [Mean (± SD)] for ORACEA
+
+|  | N | Cmax Mean (ng/mL) | Tmax Median (hr) | AU0-∞ (ng●hr/mL) | t½ (hr) |
+| --- | --- | --- | --- | --- | --- |
+| Single Dose 40 mg capsules | 30 | 510 ± 220.7 | 3.00 (1.0 - 4.1) | 9227 ± 3212.8 | 21.2 ± 7.6 |
+| Steady-State Day 7 40 mg capsules | 31 | 600 ± 194.2 | 2.00 (1.0 - 4.0) | 7543 ± 2443.9 | 23.2 ± 6.2 |
+
 Absorption: In a single-dose food-effect study involving administration of ORACEA to healthy volunteers, concomitant administration with a 1000 calorie, high-fat, high-protein meal that included dairy products, resulted in a decrease in the rate and extent of absorption (Cmax and AUC) by about 45% and 22%, respectively, compared to dosing under fasted conditions.
 This decrease in systemic exposure can be clinically significant, and therefore if ORACEA is taken close to meal times, it is recommended that it be taken at least one hour prior to or two hours after meals.
 
@@ -26,7 +34,7 @@ Special Populations
 
 Geriatric: Doxycycline pharmacokinetics have not been evaluated in geriatric patients.
 
-Pediatric: Doxycycline pharmacokinetics have not been evaluated in pediatric patients [see Warnings and Precautions (5.1)].
+Pediatric: Doxycycline pharmacokinetics have not been evaluated in pediatric patients [see Warnings and Precautions (5.1)]
 
 Gender: The pharmacokinetics of ORACEA were compared in 16 male and 14 female subjects under fed and fasted conditions.
 While female subjects had a higher Cmax and AUC than male subjects, these differences were thought to be due to differences in body weight/lean body mass.
@@ -38,7 +46,7 @@ Hemodialysis does not alter the serum half-life of doxycycline.
 
 Hepatic Insufficiency: Doxycycline pharmacokinetics have not been evaluated in patients with hepatic insufficiency.
 
-Gastric Insufficiency: In a study in healthy volunteers (N=24) the bioavailability of doxycycline is reported to be reduced at high pH.
+Gastric Insufficiency:In a study in healthy volunteers (N=24) the bioavailability of doxycycline is reported to be reduced at high pH.
 This reduced bioavailability may be clinically significant in patients with gastrectomy, gastric bypass surgery or who are otherwise deemed achlorhydric.
 
 Drug Interactions: [see Drug Interactions (7)].
