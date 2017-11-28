@@ -1,0 +1,47 @@
+# 17 PATIENT COUNSELING INFORMATION
+
+Adverse Reactions
+
+Advise patients to report to their healthcare provider if they experience any signs or symptoms consistent with:
+
+• Hypersensitivity and Severe Skin Reactions [see Warnings and Precautions (5.2)]
+
+• Injection Site Reactions [see Warnings and Precautions (5.3)]
+
+• Acute Interstitial Nephritis [see Warnings and Precautions (5.4)]
+
+• Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.5)]
+
+• Bone Fracture [see Warnings and Precautions (5.6)]
+
+• Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.7)]
+
+• Hepatic Effects [see Warnings and Precautions (5.8)]
+
+• Hypomagnesemia [see Warnings and Precautions (5.9)]
+
+Drug Interactions
+
+Advise patients to report to their healthcare provider before they start treatment with any of the following:
+
+• Rilpivirine-containing products [see Contraindications (4)].
+
+• High-dose methotrexate [see Warnings and Precautions (5.11)].
+
+Pregnancy
+
+Advise a pregnant woman of the potential risk to a fetus.
+Advise females of reproductive potential to inform their prescriber of a known or suspected pregnancy [see Use in Specific Populations (8.1)].
+
+Manufactured by: HIKMA FARMACÊUTICA (PORTUGAL), S.A.
+Estrada do Rio da Mό, 8, 8A e 8B – Fervença – 2705-906 Terrugem SNT, PORTUGAL
+
+Distributed by: WEST-WARD A HIKMA COMPANY Eatontown, NJ 07724 USA
+
+NOVAPLUS is a registered trademark of Vizient, Inc.
+
+NOVAPLUS®
+
+October 2017
+
+PIN485-NOV/1

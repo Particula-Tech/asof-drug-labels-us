@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA209463"
+  ],
+  "inn": "pantoprazole",
+  "labeler": "West-Ward Pharmaceuticals Corp",
+  "package_ndcs": [
+    "0143-9300-01",
+    "0143-9300-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "pantoprazole sodium",
+      "name": "Pantoprazole Sodium"
+    }
+  ],
+  "setid": "1e102c44-232b-4aaf-b457-2a740c47193a",
+  "source": "dailymed"
+}
