@@ -1,0 +1,33 @@
+# 7 DRUG INTERACTIONS
+
+## 7.1 Drug-Drug Interactions
+
+Anticoagulants
+
+Altered coagulation parameters and/or bleeding have been reported in patients taking Capecitabine Tablets, USP concomitantly with coumarin-derivative anticoagulants such as warfarin and phenprocoumon [see Boxed Warning].
+These events occurred within several days and up to several months after initiating Capecitabine Tablets, USP therapy and, in a few cases, within 1 month after stopping Capecitabine Tablets, USP.
+These events occurred in patients with and without liver metastases.
+In a drug interaction study with single-dose warfarin administration,there was a significant increase in the mean AUC of S-warfarin [see Clinical Pharmacology (12.3)].
+The maximum observed INR value increased by 91%.
+This interaction is probably due to an inhibition of cytochrome P450 2C9 by capecitabine and/or its metabolites.
+
+Phenytoin
+
+The level of phenytoin should be carefully monitored in patients taking Capecitabine Tablets, USP and phenytoin dose may need to be reduced [see Dosage and Administration (2.3)].
+Postmarketing reports indicate that some patients receiving Capecitabine Tablets, USP and phenytoin had toxicity associated with elevated phenytoin levels.Formal drug-drug interaction studies with phenytoin have not been conducted, but the mechanism of interaction is presumed to be inhibition of the CYP2C9 isoenzyme by capecitabine and/or its metabolites.
+
+Leucovorin
+
+The concentration of 5-fluorouracil is increased and its toxicity may be enhanced by leucovorin.
+Deaths from severe enterocolitis, diarrhea, and dehydration have been reported in elderly patients receiving weekly leucovorin and fluorouracil.
+
+CYP2C9 substrates
+
+Other than warfarin, no formal drug-drug interaction studies between Capecitabine Tablets, USP and other CYP2C9 substrates have been conducted.
+Care should be exercised when Capecitabine Tablets, USP is coadministered with CYP2C9 substrates.
+
+## 7.2 Drug-Food Interaction
+
+Food was shown to reduce both the rate and extent of absorption of capecitabine [see Clinical Pharmacology (12.3)].
+In all clinical trials, patients were instructed to administer Capecitabine Tablets, USP within 30 minutes after a meal.
+It is recommended Capecitabine Tablets, USP be administered with food [see Dosage and Administration (2)]

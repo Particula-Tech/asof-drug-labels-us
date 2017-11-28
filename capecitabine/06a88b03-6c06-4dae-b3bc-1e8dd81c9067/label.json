@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA207652"
+  ],
+  "inn": "capecitabine",
+  "labeler": "Ascend Laboratories, LLC",
+  "package_ndcs": [
+    "67877-458-12",
+    "67877-458-30",
+    "67877-458-60",
+    "67877-459-12",
+    "67877-459-30",
+    "67877-459-60"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "capecitabine",
+      "name": "Capecitabine"
+    }
+  ],
+  "setid": "06a88b03-6c06-4dae-b3bc-1e8dd81c9067",
+  "source": "dailymed"
+}
