@@ -9,17 +9,24 @@ Clinical status, including liver aminotransferases, should be monitored and appr
 Delay in stopping treatment with TIVICAY or other suspect agents after the onset of hypersensitivity may result in a life-threatening reaction.
 TIVICAY is contraindicated in patients who have experienced a previous hypersensitivity reaction to dolutegravir.
 
-## 5.2 Effects on Serum Liver Biochemistries in Patients with Hepatitis B or C Co-infection
+## 5.2 Hepatotoxicity
 
+Hepatic adverse events have been reported in patients receiving a dolutegravir-containing regimen.
 Patients with underlying hepatitis B or C may be at increased risk for worsening or development of transaminase elevations with use of TIVICAY [see Adverse Reactions (6.1)].
-In some cases the elevations in transaminases were consistent with immune reconstitution syndrome or hepatitis B reactivation particularly in the setting where anti-hepatitis therapy was withdrawn.
-Appropriate laboratory testing prior to initiating therapy and monitoring for hepatotoxicity during therapy with TIVICAY are recommended in patients with underlying hepatic disease such as hepatitis B or C.
+In some cases, the elevations in transaminases were consistent with immune reconstitution syndrome or hepatitis B reactivation particularly in the setting where anti-hepatitis therapy was withdrawn.
+Cases of hepatic toxicity, including elevated serum liver biochemistries, hepatitis, and acute liver failure have been reported in patients receiving a dolutegravir-containing regimen without pre-existing hepatic disease or other identifiable risk factors.
+Drug-induced liver injury leading to liver transplant has been reported with TRIUMEQ (abacavir, dolutegravir, and lamivudine).
+Monitoring for hepatotoxicity is recommended.
 
-## 5.3 Fat Redistribution
+## 5.3 Risk of Adverse Reactions or Loss of Virologic Response Due to Drug Interactions
 
-Redistribution/accumulation of body fat, including central obesity, dorsocervical fat enlargement (buffalo hump), peripheral wasting, facial wasting, breast enlargement, and “cushingoid appearance” have been observed in patients receiving antiretroviral therapy.
-The mechanism and long-term consequences of these events are currently unknown.
-A causal relationship has not been established.
+The concomitant use of TIVICAY and other drugs may result in known or potentially significant drug interactions, some of which may lead to [see Contraindications (4), Drug Interactions (7.3)]:
+
+- •Loss of therapeutic effect of TIVICAY and possible development of resistance.
+- •Possible clinically significant adverse reactions from greater exposures of concomitant drugs.
+
+For concomitant drugs for which the interaction can be mitigated, please see Table 6 for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations.
+Consider the potential for drug interactions prior to and during therapy with TIVICAY; review concomitant medications during therapy with TIVICAY; and monitor for the adverse reactions associated with the concomitant drugs.
 
 ## 5.4 Immune Reconstitution Syndrome
 

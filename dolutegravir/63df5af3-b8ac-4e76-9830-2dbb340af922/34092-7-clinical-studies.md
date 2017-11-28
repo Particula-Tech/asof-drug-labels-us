@@ -1,9 +1,26 @@
 # 14 CLINICAL STUDIES
 
-The efficacy of TIVICAY is based on analyses of data from 3 trials, SPRING-2 (ING113086), SINGLE (ING114467), and FLAMINGO (ING114915), in treatment-naïve, HIV‑1‑infected subjects (n = 2,125); one trial, SAILING (ING111762), in treatment-experienced, INSTI-naïve HIV‑1‑infected subjects (n = 715); and from VIKING-3 (ING112574) trial in INSTI-experienced HIV‑1‑infected subjects (n = 183).
-The use of TIVICAY in pediatric patients aged 6 years and older is based on evaluation of safety, pharmacokinetics, and efficacy in a multicenter, open-label trial in subjects without INSTI resistance.
+## 14.1 Description of Clinical Studies
 
-## 14.1 Adult Subjects
+The efficacy and safety of TIVICAY were evaluated in the studies summarized in Table 13.
+
+Table 13.
+Trials Conducted with TIVICAY in HIV‑1‑Infected Subjects
+
+| Population | Trial | Trial Arms | Timepoint (Week) |
+| --- | --- | --- | --- |
+| Adults: |  |  |  |
+| Treatment-naïve | SPRING-2 (ING113086) (NCT01227824) | TIVICAY + 2 NRTIs (n = 403)Raltegravir +3 NRTIs (n = 405) | 96 |
+| SINGLE (ING114467) (NCT01263015) | TIVICAY + EPZICOM (n = 414)ATRIPLA (n = 419) | 144 |  |
+| FLAMINGO (ING114915) (NCT01449929) | TIVICAY + NRTI BR (n = 243)Darunavir/ritonavir + NRTI BR (n = 242) | 96 |  |
+| Treatment-experienced, INSTI-naïve | SAILING (ING111762) (NCT01231516) | TIVICAY + BR (n = 354)Raltegravir + BR (n = 361) | 48 |
+| INSTI-experienced | VIKING-3 (ING112574)(NCT01328041) | TIVICAY + OBT (n = 183) | 48 |
+| Virologically suppressed | SWORD-1 (NCT02429791)SWORD-2 (NCT02422797) | Pooled presentationTIVICAY + Rilpivirine (n = 513)CAR (n = 511) | 48 |
+| Pediatrics: 6 years and older without INSTI resistance | IMPAACT P1093 (NCT01302847) | TIVICAY + BR (n = 46) | 48 |
+
+BR = Background regimen; CAR = Current antiretroviral regimen; OBT = Optimized background therapy
+
+## 14.2 Adult Subjects
 
 Treatment-Naïve Subjects
 
@@ -14,10 +31,10 @@ At baseline, the median age of subjects was 36 years, 13% female, 15% non-white,
 In SINGLE, 833 subjects were randomized and received at least 1 dose of either TIVICAY 50 mg once daily with fixed-dose abacavir sulfate and lamivudine (EPZICOM) or fixed-dose efavirenz/emtricitabine/tenofovir (ATRIPLA).
 At baseline, the median age of subjects was 35 years, 16% female, 32% non-white, 7% had hepatitis C co-infection (hepatitis B virus co-infection was excluded), 4% were CDC Class C (AIDS), 32% had HIV-1 RNA greater than 100,000 copies per mL, and 53% had CD4+ cell count less than 350 cells per mm3; these characteristics were similar between treatment groups.
 
-Outcomes for SPRING-2 (Week 96 analysis) and SINGLE (Week 144 open-label phase analysis which followed the Week 96 double-blind phase) are provided in Table 13.
+Outcomes for SPRING-2 (Week 96 analysis) and SINGLE (Week 144 open-label phase analysis which followed the Week 96 double-blind phase) are provided in Table 14.
 Side-by-side tabulation is to simplify presentation; direct comparisons across trials should not be made due to differing trial designs.
 
-Table 13.
+Table 14.
 Virologic Outcomes of Randomized Treatment in SPRING-2 at Week 96 and SINGLE at Week 144 (Snapshot Algorithm)
 
 |  | SPRING-2 Week 96 |  | SINGLE Week 144 |  |
@@ -46,18 +63,18 @@ Virologic Outcomes of Randomized Treatment in SPRING-2 at Week 96 and SINGLE at 
 | White | 83% | 78% | 72% | 71% |
 | African-American/African Heritage/Other | 77% | 75% | 71% | 47% |
 
-aAdjusted for pre-specified stratification factors.
+a Adjusted for pre-specified stratification factors.
 
-bIncludes subjects who discontinued due to an adverse event or death at any time point if this resulted in no virologic data on treatment during the analysis window.
+b Includes subjects who discontinued due to an adverse event or death at any time point if this resulted in no virologic data on treatment during the analysis window.
 
-cOther includes reasons such as withdrew consent, loss to follow-up, moved, and protocol deviation.
+c Other includes reasons such as withdrew consent, loss to follow-up, moved, and protocol deviation.
 
-dThe primary endpoint was assessed at Week 48 and the virologic success rate was 88% in the group receiving TIVICAY and 86% in the raltegravir group, with a treatment difference of 2.6% and 95% CI of (-1.9%, 7.2%).
+d The primary endpoint was assessed at Week 48 and the virologic success rate was 88% in the group receiving TIVICAY and 86% in the raltegravir group, with a treatment difference of 2.6% and 95% CI of (-1.9%, 7.2%).
 
-eThe primary endpoint was assessed at Week 48 and the virologic success rate was 88% in the group receiving TIVICAY and 81% in the ATRIPLA group, with a treatment difference of 7.4% and 95% CI of (2.5%, 12.3%).
+e The primary endpoint was assessed at Week 48 and the virologic success rate was 88% in the group receiving TIVICAY and 81% in the ATRIPLA group, with a treatment difference of 7.4% and 95% CI of (2.5%, 12.3%).
 
 SPRING-2: Virologic outcomes were also comparable across baseline characteristics including CD4+ cell count, age, and use of EPZICOM or TRUVADA as NRTI background regimen.
-The median change in CD4+ cell counts from baseline were 276 cells per mm3 in the group receiving TIVICAY and 264 cells per mm3 for the raltegravir group at 96 weeks.
+The median change in CD4+ cell counts from baseline was 276 cells per mm3 in the group receiving TIVICAY and 264 cells per mm3 for the raltegravir group at 96 weeks.
 
 There was no treatment-emergent resistance to dolutegravir or to the NRTI background.
 
@@ -78,13 +95,13 @@ No treatment-emergent primary resistance substitutions were observed in either t
 
 Treatment-Experienced, Integrase Strand Transfer Inhibitor-Naïve Subjects
 
-In the international, multicenter, double-blind trial (SAILING), 719 HIV‑1‑ infected, antiretroviral treatment-experienced adults were randomized and received either TIVICAY 50 mg once daily or raltegravir 400 mg twice daily with investigator-selected background regimen consisting of up to 2 agents, including at least 1 fully active agent.
+In the international, multicenter, double-blind trial (SAILING), 719 HIV‑1‑infected, antiretroviral treatment-experienced adults were randomized and received either TIVICAY 50 mg once daily or raltegravir 400 mg twice daily with investigator-selected background regimen consisting of up to 2 agents, including at least 1 fully active agent.
 There were 715 subjects included in the efficacy and safety analyses.
 At baseline, the median age was 43 years, 32% were female, 50% non-white, 16% had hepatitis B and/or C virus co-infection, 46% were CDC Class C (AIDS), 20% had HIV-1 RNA greater than 100,000 copies per mL, and 72% had CD4+ cell count less than 350 cells per mm3; these characteristics were similar between treatment groups.
 All subjects had at least 2-class antiretroviral treatment resistance, and 49% of subjects had at least 3-class antiretroviral treatment resistance at baseline.
-Week 48 outcomes for SAILING are shown in Table 14.
+Week 48 outcomes for SAILING are shown in Table 15.
 
-Table 14.
+Table 15.
 Virologic Outcomes of Randomized Treatment in SAILING at 48 Weeks (Snapshot Algorithm)
 
 |  | TIVICAY 50 mg Once Daily + BRa(n = 354) | Raltegravir 400 mg Twice Daily + BRa(n = 361) |
@@ -112,12 +129,12 @@ Virologic Outcomes of Randomized Treatment in SAILING at 48 Weeks (Snapshot Algo
 | White | 75% | 71% |
 | African-American/African Heritage/Other | 67% | 57% |
 
-aBR = Background regimen.
+a BR = Background regimen.
 Background regimen was restricted to less than or equal to 2 antiretroviral treatments with at least 1 fully active agent.
 
-bAdjusted for pre-specified stratification factors.
+b Adjusted for pre-specified stratification factors.
 
-cOther includes reasons such as withdrew consent, loss to follow-up, moved, and protocol deviation.
+c Other includes reasons such as withdrew consent, loss to follow-up, moved, and protocol deviation.
 
 Treatment differences were maintained across the baseline characteristics including CD4+ cell count and age.
 
@@ -136,9 +153,9 @@ Mean reduction from baseline in HIV-1 RNA at Day 8 (primary endpoint) was 1.4 lo
 Response at Week 48 was affected by baseline INSTI substitutions [see Microbiology (12.4)].
 
 After the functional monotherapy phase, subjects had the opportunity to re-optimize their background regimen when possible.
-Week 48 virologic outcomes for VIKING-3 are shown in Table 15.
+Week 48 virologic outcomes for VIKING-3 are shown in Table 16.
 
-Table 15.
+Table 16.
 Virologic Outcomes of Treatment of VIKING-3 at 48 Weeks (Snapshot Algorithm)
 
 |  | TIVICAY 50 mg Twice Daily + OBT(n = 183) |
@@ -159,7 +176,17 @@ Subjects harboring virus with Q148 and with additional Q148-associated secondary
 
 The median change in CD4+ cell count from baseline was 80 cells per mm3 at Week 48.
 
-## 14.2 Pediatric Subjects
+Virologically Suppressed Subjects
+
+SWORD-1 and SWORD-2 are identical 148-week, Phase 3, randomized, multicenter, parallel-group, non-inferiority trials.
+A total of 1,024 adult HIV–1-infected subjects who were on a stable suppressive antiretroviral regimen (containing 2 NRTIs plus either an INSTI, an NNRTI, or a PI) for at least 6 months (HIV-1 RNA less than 50 copies per mL), with no history of treatment failure and no known substitutions associated with resistance to dolutegravir or rilpivirine received treatment in the trials.
+Subjects were randomized 1:1 to continue their current antiretroviral regimen or be switched to TIVICAY 50 mg plus rilpivirine 25 mg administered once daily.
+The primary efficacy endpoint for the SWORD trial was the proportion of subjects with plasma HIV-1 RNA less than 50 copies per mL at Week 48.
+The proportion of subjects with HIV-1 RNA less than 50 copies per mL at Week 48 was 95% for both treatment groups; treatment difference and 95% CI was -0.2% (-3.0%, 2.5%).
+The proportion of subjects with HIV-1 RNA greater than or equal to 50 copies per mL (virologic failure) at Week 48 was 0.6% and 1.2% for the dolutegravir plus rilpivirine treatment group and the current antiretroviral regimen treatment groups, respectively; treatment difference and 95% CI was -0.6% (-1.7%, 0.6%).
+Refer to the Prescribing Information for JULUCA (dolutegravir and rilpivirine) tablet for complete virologic outcome information.
+
+## 14.3 Pediatric Subjects
 
 IMPAACT P1093 is a Phase 1/2, 48-week, multicenter, open-label trial to evaluate the pharmacokinetic parameters, safety, tolerability, and efficacy of TIVICAY in combination treatment regimens in HIV‑1‑infected infants, children, and adolescents.
 Subjects were stratified by age, enrolling adolescents first (Cohort 1: aged 12 to less than 18 years) and then younger children (Cohort 2A: aged 6 to less than 12 years).

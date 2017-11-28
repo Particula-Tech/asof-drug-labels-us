@@ -2,18 +2,15 @@
 
 ## 12.1 Mechanism of Action
 
-Dolutegravir is an HIV-1 antiviral agent [see Microbiology (12.4)].
+Dolutegravir is an HIV-1 antiretroviral agent [see Microbiology (12.4)].
 
 ## 12.2 Pharmacodynamics
-
-In a randomized, dose-ranging trial, HIV‑1‑infected subjects treated with dolutegravir monotherapy demonstrated rapid and dose-dependent antiviral activity with mean declines from baseline to Day 11 in HIV-1 RNA of 1.5, 2.0, and 2.5 log10 for dolutegravir 2 mg, 10 mg, and 50 mg once daily, respectively.
-This antiviral response was maintained for 3 to 4 days after the last dose in the 50-mg group.
 
 Effects on Electrocardiogram
 
 In a randomized, placebo-controlled, cross-over trial, 42 healthy subjects received single-dose oral administrations of placebo, dolutegravir 250-mg suspension (exposures approximately 3–fold of the 50-mg once-daily dose at steady state), and moxifloxacin 400 mg (active control) in random sequence.
 After baseline and placebo adjustment, the maximum mean QTc change based on Fridericia correction method (QTcF) for dolutegravir was 2.4 msec (1-sided 95% upper CI: 4.9 msec).
-TIVICAY did not prolong the QTc interval over 24 hours postdose.
+TIVICAY did not prolong the QTc interval over 24 hours` post-dose.
 
 Effects on Renal Function
 
@@ -26,7 +23,6 @@ Neither dose of dolutegravir had a significant effect on the actual glomerular f
 The pharmacokinetic properties of dolutegravir have been evaluated in healthy adult subjects and HIV‑1–infected adult subjects.
 Exposure to dolutegravir was generally similar between healthy subjects and HIV‑1–infected subjects.
 The non-linear exposure of dolutegravir following 50 mg twice daily compared with 50 mg once daily in HIV‑1–infected subjects (Table 7) was attributed to the use of metabolic inducers in the background antiretroviral regimens of subjects receiving dolutegravir 50 mg twice daily in clinical trials.
-TIVICAY was administered without regard to food in these trials.
 
 Table 7.
 Dolutegravir Steady-State Pharmacokinetic Parameter Estimates in HIV‑1–Infected Adults
@@ -37,9 +33,9 @@ Dolutegravir Steady-State Pharmacokinetic Parameter Estimates in HIV‑1–Infec
 | Cmax (mcg/mL) | 3.67 (20) | 4.15 (29) |
 | Cmin (mcg/mL) | 1.11 (46) | 2.12 (47) |
 
-aBased on population pharmacokinetic analyses using data from SPRING-1 and SPRING-2.
+a Based on population pharmacokinetic analyses using data from SPRING-1 and SPRING-2.
 
-bBased on population pharmacokinetic analyses using data from VIKING (ING112961) and VIKING-3.
+b Based on population pharmacokinetic analyses using data from VIKING (ING112961) and VIKING-3.
 
 Absorption
 
@@ -50,9 +46,7 @@ Dolutegravir plasma concentrations increased in a less than dose-proportional ma
 Dolutegravir is a P‑gp substrate in vitro.
 The absolute bioavailability of dolutegravir has not been established.
 
-Effects of Food on Oral Absorption
-
-TIVICAY may be taken with or without food.
+Effect of Food: TIVICAY may be taken with or without food.
 Food increased the extent of absorption and slowed the rate of absorption of dolutegravir.
 Low-, moderate-, and high-fat meals increased dolutegravir AUC(0-∞) by 33%, 41%, and 66%; increased Cmax by 46%, 52%, and 67%; and prolonged Tmax to 3, 4, and 5 hours from 2 hours under fasted conditions, respectively.
 
@@ -64,42 +58,21 @@ The apparent volume of distribution (Vd/F) following 50-mg once-daily administra
 Cerebrospinal Fluid (CSF): In 12 treatment-naïve subjects on dolutegravir 50 mg daily plus abacavir/lamivudine, the median dolutegravir concentration in CSF was 13.2 ng per mL (range: 3.74 ng per mL to 18.3 ng per mL) 2 to 6 hours postdose after 16 weeks of treatment.
 The clinical relevance of this finding has not been established.
 
-Metabolism and Elimination
-
-Dolutegravir is primarily metabolized via UGT1A1 with some contribution from CYP3A.
-After a single oral dose of [14C] dolutegravir, 53% of the total oral dose was excreted unchanged in feces.
-Thirty-one percent of the total oral dose was excreted in urine, represented by an ether glucuronide of dolutegravir (18.9% of total dose), a metabolite formed by oxidation at the benzylic carbon (3.0% of total dose), and its hydrolytic N-dealkylation product (3.6% of total dose).
-Renal elimination of unchanged drug was low (less than 1% of the dose).
+Elimination
 
 Dolutegravir has a terminal half-life of approximately 14 hours and an apparent clearance (CL/F) of 1.0 L per hour based on population pharmacokinetic analyses.
 
+Metabolism: Dolutegravir is primarily metabolized via UGT1A1 with some contribution from CYP3A.
+
 Polymorphisms in Drug‑Metabolizing Enzymes: In a meta-analysis of healthy subject trials, subjects with UGT1A1 (n = 7) genotypes conferring poor dolutegravir metabolism had a 32% lower clearance of dolutegravir and 46% higher AUC compared with subjects with genotypes associated with normal metabolism via UGT1A1 (n = 41).
+
+Excretion: After a single oral dose of [14C] dolutegravir, 53% of the total oral dose was excreted unchanged in feces.
+Thirty-one percent of the total oral dose was excreted in urine, represented by an ether glucuronide of dolutegravir (18.9% of total dose), a metabolite formed by oxidation at the benzylic carbon (3.0% of total dose), and its hydrolytic N-dealkylation product (3.6% of total dose).
+Renal elimination of unchanged drug was low (less than 1% of the dose).
 
 Specific Populations
 
-Hepatic Impairment: Dolutegravir is primarily metabolized and eliminated by the liver.
-In a trial comparing 8 subjects with moderate hepatic impairment (Child-Pugh Score B) with 8 matched healthy controls, exposure of dolutegravir from a single 50-mg dose was similar between the 2 groups.
-No dosage adjustment is necessary for patients with mild to moderate hepatic impairment (Child-Pugh Score A or B). The effect of severe hepatic impairment (Child-Pugh Score C) on the pharmacokinetics of dolutegravir has not been studied.
-Therefore, TIVICAY is not recommended for use in patients with severe hepatic impairment.
-
-HBV/HCV Co-infection: Population analyses using pooled pharmacokinetic data from adult trials indicated no clinically relevant effect of HCV co-infection on the pharmacokinetics of dolutegravir.
-There were limited data on HBV co-infection.
-
-Renal Impairment: Renal clearance of unchanged drug is a minor pathway of elimination for dolutegravir.
-In a trial comparing 8 subjects with severe renal impairment (CrCl less than 30 mL per min) with 8 matched healthy controls, AUC, Cmax, and C24 of dolutegravir were decreased by 40%, 23%, and 43%, respectively, compared with those in matched healthy subjects.
-The cause of this decrease is unknown.
-Population pharmacokinetic analysis using data from SAILING and VIKING-3 trials indicated that mild and moderate renal impairment had no clinically relevant effect on the exposure of dolutegravir.
-No dosage adjustment is necessary for treatment-naïve or treatment-experienced and INSTI-naïve patients with mild, moderate, or severe renal impairment or for INSTI-experienced patients (with certain INSTI-associated resistance substitutions or clinically suspected INSTI resistance) with mild or moderate renal impairment.
-Caution is warranted for INSTI-experienced patients (with certain INSTI-associated resistance substitutions or clinically suspected INSTI resistance [see Microbiology (12.4)]) with severe renal impairment, as the decrease in dolutegravir concentrations may result in loss of therapeutic effect and development of resistance to TIVICAY or other coadministered antiretroviral agents.
-Dolutegravir has not been studied in patients requiring dialysis.
-
-Gender: Population analyses using pooled pharmacokinetic data from adult trials indicated gender had no clinically relevant effect on the exposure of dolutegravir.
-
-Race: Population analyses using pooled pharmacokinetic data from adult trials indicated race had no clinically relevant effect on the pharmacokinetics of dolutegravir.
-
-Geriatric Patients: Population analyses using pooled pharmacokinetic data from adult trials indicated age had no clinically relevant effect on the pharmacokinetics of dolutegravir.
-
-Pediatric Patients: The pharmacokinetics of dolutegravir in HIV‑1–infected children (n = 17) weighing at least 30 kg were similar to those observed in HIV‑1–infected adults who received dolutegravir 50 mg once daily (Table 8) [see Clinical Studies (14.2)].
+Pediatric Patients: The pharmacokinetics of dolutegravir in HIV‑1–infected children (n = 17) weighing at least 30 kg (dosed by weight bands, receiving either 35 mg or 50 mg) were similar to those observed in HIV‑1–infected adults who received dolutegravir 50 mg once daily (Table 8) [see Clinical Studies (14.2)].
 
 Table 8.
 Dolutegravir Steady-State Pharmacokinetic Parameters in Pediatric Subjects
@@ -110,12 +83,24 @@ Dolutegravir Steady-State Pharmacokinetic Parameters in Pediatric Subjects
 | ≥40 kg (n = 14) | 50 mgonce daily | 3.89 (43) | 50.1 (53) | 0.99 (66) |
 | ≥30 to <40 kg (n = 3) | 35 mgonce daily | 4.40 (54) | 64.6 (64) | 1.33 (93) |
 
-Population pharmacokinetic analyses demonstrate comparable exposures in children, at least 30 kg, dosed by weight-bands (35 mg or 50 mg of dolutegravir) to that observed in adults.
+Geriatric Patients: Population pharmacokinetic analysis indicated age had no clinically relevant effect on the pharmacokinetics of dolutegravir.
 
-Drug Interactions
+Patients with Hepatic Impairment: In a trial comparing 8 subjects with moderate hepatic impairment (Child-Pugh Score B) with 8 matched healthy controls, exposure of dolutegravir from a single 50-mg dose was similar between the 2 groups.
+The effect of severe hepatic impairment (Child-Pugh Score C) on the pharmacokinetics of dolutegravir has not been studied.
+
+Patients with Renal Impairment: In a trial comparing 8 subjects with severe renal impairment (CrCl less than 30 mL per min) with 8 matched healthy controls, AUC, Cmax, and C24 of dolutegravir were lower by 40%, 23%, and 43%, respectively, compared with those in matched healthy subjects.
+Population pharmacokinetic analysis using data from SAILING and VIKING-3 trials indicated that mild and moderate renal impairment had no clinically relevant effect on the exposure of dolutegravir.
+Dolutegravir has not been studied in patients requiring dialysis.
+
+HBV or HCV Co-infected Patients: Population analyses using pooled pharmacokinetic data from adult trials indicated no clinically relevant effect of HCV co-infection on the pharmacokinetics of dolutegravir.
+There were limited data on HBV co-infection.
+
+Gender and Race: Population analyses using pooled pharmacokinetic data from adult trials indicated gender and race had no clinically relevant effect on the exposure of dolutegravir.
+
+Drug Interaction Studies
 
 Drug interaction trials were performed with TIVICAY and other drugs likely to be coadministered or commonly used as probes for pharmacokinetic interactions.
-As dolutegravir is not expected to affect the pharmacokinetics of other drugs dependent on hepatic metabolism (Table 9) [see Drug Interactions (7.1)], the primary focus of these drug interaction trials was to evaluate the effect of coadministered drug on dolutegravir (Table 10).
+The effects of dolutegravir on the exposure of coadministered drugs are summarized in Table 9 and the effects of coadministered drugs on the exposure of dolutegravir are summarized in Table 10.
 
 Dosing or regimen recommendations as a result of established and other potentially significant drug-drug interactions with TIVICAY are provided in Table 6 [see Dosage and Administration (2.1), Drug Interactions (7.3)].
 
@@ -126,14 +111,19 @@ Summary of Effect of Dolutegravir on the Pharmacokinetics of Coadministered Drug
 | --- | --- | --- | --- | --- | --- |
 | Cmax | AUC | Cτ or C24 |  |  |  |
 | Daclatasvir 60 mg once daily | 50 mg once daily | 12 | 1.03 (0.84 to 1.25) | 0.98 (0.83 to 1.15) | 1.06 (0.88 to 1.29) |
+| Elbasvir 50 mg once daily | 50 mgsingle dose | 12 | 0.97(0.89, 1.05) | 0.98(0.93, 1.04) | 0.98(0.93, 1.03) |
 | Ethinyl estradiol 0.035 mg | 50 mg twice daily | 15 | 0.99 (0.91 to 1.08) | 1.03 (0.96 to 1.11) | 1.02 (0.93 to 1.11) |
+| Grazoprevir 200 mg once daily | 50 mgsingle dose | 12 | 0.64(0.44, 0.93) | 0.81(0.67, 0.97) | 0.86(0.79, 0.93) |
 | Metformin 500 mg twice daily | 50 mg once daily | 15a | 1.66 (1.53 to 1.81) | 1.79 (1.65 to 1.93) | _ |
 | Metformin 500 mg twice daily | 50 mg twice daily | 15a | 2.11 (1.91 to 2.33) | 2.45 (2.25 to 2.66) | _ |
 | Methadone 16 to 150 mg | 50 mg twice daily | 11 | 1.00 (0.94 to 1.06) | 0.98 (0.91 to 1.06) | 0.99 (0.91 to 1.07) |
 | Midazolam 3 mg | 25 mg once daily | 10 | _ | 0.95 (0.79 to 1.15) | _ |
 | Norelgestromin 0.25 mg | 50 mg twice daily | 15 | 0.89 (0.82 to 0.97) | 0.98 (0.91 to 1.04) | 0.93 (0.85 to 1.03) |
 | Rilpivirine 25 mg once daily | 50 mg once daily | 16 | 1.10 (0.99 to 1.22) | 1.06 (0.98 to 1.16) | 1.21 (1.07 to 1.38) |
+| Sofosbuvir 400 mg once daily Metabolite (GS-331007) | 50 mgonce daily | 24 | 0.88(0.80, 0.98) | 0.92 (0.85, 0.99) | NA |
+| 1.01(0.93, 1.10) | 0.99(0.97, 1.01) | 0.99(0.97, 1.01) |  |  |  |
 | Tenofovir disoproxil fumarate 300 mg once daily | 50 mg once daily | 15 | 1.09 (0.97 to 1.23) | 1.12 (1.01 to 1.24) | 1.19 (1.04 to 1.35) |
+| Velpatasvir 100 mg once daily | 50 mgonce daily | 24 | 0.94 (0.86, 1.02) | 0.91(0.84, 0.98) | 0.88(0.82, 0.94) |
 
 a The number of subjects represents the maximum number of subjects that were evaluated.
 
@@ -147,6 +137,7 @@ Summary of Effect of Coadministered Drugs on the Pharmacokinetics of Dolutegravi
 | Atazanavir/ritonavir 300/100 mg once daily | 30 mg once daily | 12 | 1.34 (1.25 to 1.42) | 1.62 (1.50 to 1.74) | 2.21 (1.97 to 2.47) |
 | Darunavir/ritonavir 600/100 mg twice daily | 30 mg once daily | 15 | 0.89 (0.83 to 0.97) | 0.78 (0.72 to 0.85) | 0.62 (0.56 to 0.69) |
 | Efavirenz 600 mg once daily | 50 mg once daily | 12 | 0.61 (0.51 to 0.73) | 0.43 (0.35 to 0.54) | 0.25 (0.18 to 0.34) |
+| Elbasvir/grazoprevir 50/200 mg once daily | 50 mgsingle dose | 12 | 1.22(1.05, 1.40) | 1.16(1.00, 1.34) | 1.14(0.95, 1.36) |
 | Etravirine 200 mg twice daily | 50 mg once daily | 16 | 0.48 (0.43 to 0.54) | 0.29 (0.26 to 0.34) | 0.12 (0.09 to 0.16) |
 | Etravirine + darunavir/ritonavir 200 mg + 600/100 mg twice daily | 50 mg once daily | 9 | 0.88 (0.78 to 1.00) | 0.75 (0.69 to 0.81) | 0.63 (0.52 to 0.76) |
 | Etravirine + lopinavir/ritonavir 200 mg + 400/100 mg twice daily | 50 mg once daily | 8 | 1.07 (1.02 to 1.13) | 1.11 (1.02 to 1.20) | 1.28 (1.13 to 1.45) |
@@ -155,9 +146,8 @@ Summary of Effect of Coadministered Drugs on the Pharmacokinetics of Dolutegravi
 | Rilpivirine 25 mg once daily | 50 mg once daily | 16 | 1.13 (1.06 to 1.21) | 1.12 (1.05 to 1.19) | 1.22 (1.15 to 1.30) |
 | Tenofovir 300 mg once daily | 50 mg once daily | 15 | 0.97 (0.87 to 1.08) | 1.01 (0.91 to 1.11) | 0.92(0.82 to 1.04) |
 | Tipranavir/ritonavir 500/200 mg twice daily | 50 mg once daily | 14 | 0.54 (0.50 to 0.57) | 0.41 (0.38 to 0.44) | 0.24 (0.21 to 0.27) |
-| Antacid (Maalox®) simultaneous administration | 50 mg single dose | 16 | 0.28 (0.23 to 0.33) | 0.26 (0.22 to 0.32) | 0.26 (0.21 to 0.31) |
-| Antacid (Maalox®) 2 h after dolutegravir | 50 mg single dose | 16 | 0.82 (0.69 to 0.98) | 0.74 (0.62 to 0.90) | 0.70 (0.58 to 0.85) |
-| Boceprevir 800 mg every 8 hours | 50 mg once daily | 13 | 1.05 (0.96 to 1.15) | 1.07 (0.95 to 1.20) | 1.08 (0.91 to 1.28) |
+| Antacid (MAALOX) simultaneous administration | 50 mg single dose | 16 | 0.28 (0.23 to 0.33) | 0.26 (0.22 to 0.32) | 0.26 (0.21 to 0.31) |
+| Antacid (MAALOX) 2 h after dolutegravir | 50 mg single dose | 16 | 0.82 (0.69 to 0.98) | 0.74 (0.62 to 0.90) | 0.70 (0.58 to 0.85) |
 | Calcium carbonate 1,200 mg simultaneous administration (fasted) | 50 mg single dose | 12 | 0.63 (0.50 to 0.81) | 0.61 (0.47 to 0.80) | 0.61 (0.47 to 0.80) |
 | Calcium carbonate 1,200 mg simultaneous administration (fed) | 50 mg single dose | 11 | 1.07 (0.83 to 1.38) | 1.09 (0.84 to 1.43) | 1.08 (0.81 to 1.42) |
 | Calcium carbonate 1,200 mg 2 h after dolutegravir | 50 mg single dose | 11 | 1.00 (0.78 to 1.29) | 0.94 (0.72 to 1.23) | 0.90 (0.68 to 1.19) |
@@ -166,18 +156,18 @@ Summary of Effect of Coadministered Drugs on the Pharmacokinetics of Dolutegravi
 | Ferrous fumarate 324 mg simultaneous administration (fasted) | 50 mg single dose | 11 | 0.43 (0.35 to 0.52) | 0.46 (0.38 to 0.56) | 0.44 (0.36 to 0.54) |
 | Ferrous fumarate 324 mg simultaneous administration (fed) | 50 mg single dose | 11 | 1.03 (0.84 to 1.26) | 0.98 (0.81 to 1.20) | 1.00 (0.81 to 1.23) |
 | Ferrous fumarate 324 mg 2 h after dolutegravir | 50 mg single dose | 10 | 0.99 (0.81 to 1.21) | 0.95 (0.77 to 1.15) | 0.92 (0.74 to 1.13) |
-| Multivitamin (One-A-Day®) simultaneous administration | 50 mg single dose | 16 | 0.65 (0.54 to 0.77) | 0.67 (0.55 to 0.81) | 0.68 (0.56 to 0.82) |
+| Multivitamin (One-A-Day) simultaneous administration | 50 mg single dose | 16 | 0.65 (0.54 to 0.77) | 0.67 (0.55 to 0.81) | 0.68 (0.56 to 0.82) |
 | Omeprazole 40 mg once daily | 50 mg single dose | 12 | 0.92 (0.75 to 1.11) | 0.97 (0.78 to 1.20) | 0.95 (0.75 to 1.21) |
 | Prednisone 60 mg once daily with taper | 50 mg once daily | 12 | 1.06 (0.99 to 1.14) | 1.11 (1.03 to 1.20) | 1.17 (1.06 to 1.28) |
 | Rifampina 600 mg once daily | 50 mg twice daily | 11 | 0.57 (0.49 to 0.65) | 0.46 (0.38 to 0.55) | 0.28 (0.23 to 0.34) |
 | Rifampinb 600 mg once daily | 50 mg twice daily | 11 | 1.18 (1.03 to 1.37) | 1.33 (1.15 to 1.53) | 1.22 (1.01 to 1.48) |
 | Rifabutin 300 mg once daily | 50 mg once daily | 9 | 1.16 (0.98 to 1.37) | 0.95 (0.82 to 1.10) | 0.70 (0.57 to 0.87) |
 
-aComparison is rifampin taken with dolutegravir 50 mg twice daily compared with dolutegravir 50 mg twice daily.
+a Comparison is rifampin taken with dolutegravir 50 mg twice daily compared with dolutegravir 50 mg twice daily.
 
-bComparison is rifampin taken with dolutegravir 50 mg twice daily compared with dolutegravir 50 mg once daily.
+b Comparison is rifampin taken with dolutegravir 50 mg twice daily compared with dolutegravir 50 mg once daily.
 
-cThe number of subjects represents the maximum number of subjects that were evaluated.
+c The number of subjects represents the maximum number of subjects that were evaluated.
 
 ## 12.4 Microbiology
 
@@ -218,10 +208,16 @@ The change in dolutegravir phenotypic susceptibility for these 5 subject isolate
 One subject isolate had pre-existing raltegravir resistance substitutions E138A, G140S, and Q148H at baseline and had additional emergent INSTI-resistance substitutions T97A and E138A/T with a corresponding 148-fold reduction in dolutegravir susceptibility at failure.
 In the comparator raltegravir arm, 21 of 49 (43%) subjects with post-baseline resistance data had evidence of emergent INSTI-resistance substitutions (L74M, E92Q, T97A, E138Q, G140S/A, Y143R/C, Q148H/R, V151I, N155H, E157Q, and G163K/R) and raltegravir phenotypic resistance.
 
-Treatment-Experienced, Integrase Strand Transfer Inhibitor-Experienced Subjects: VIKING-3 examined the efficacy of dolutegravir 50 mg twice daily plus optimized background therapy in subjects with prior or current virologic failure on an INSTI- (elvitegravir or raltegravir) containing regimen.
+Virologically Suppressed Subjects: SWORD-1 and SWORD-2 are identical trials in virologically suppressed subjects receiving 2 NRTIs plus either an INSTI, an NNRTI, or a PI, that switched to dolutegravir plus rilpivirine (n = 513) or remained on their current antiviral regimen (n = 511).
+Two subjects in each treatment arm had confirmed virologic failure at any time through Week 48.
+The 2 subjects in the dolutegravir/rilpivirine arm had detectable resistance substitutions at rebound.
+One subject had the NNRTI-resistance-associated substitution K101K/E with no decreased susceptibility to rilpivirine (fold-change = 1.2) at Week 36, had no INSTI resistance-associated substitutions or decreased susceptibility to dolutegravir (fold-change less than 2), and had HIV-1 RNA less than 50 copies per mL at the withdrawal visit.
+The other subject had the dolutegravir resistance-associated substitution G193E at baseline (by exploratory HIV proviral DNA archive sequencing) and at Week 24 (by conventional sequencing) without decreased susceptibility to dolutegravir (fold-change = 1.02) at Week 24.
+No resistance-associated substitutions were observed for the other 2 subjects in the comparative current antiretroviral regimen arm.
 
-In VIKING-4 (ING116529),30 subjects with current virological failure on an INSTI-containing regimen and genotypic evidence of INSTI-resistance substitutions at screening were randomized to receive either dolutegravir 50 mg twice daily or placebo with the current failing regimen for 7 days and then all subjects received open-label dolutegravir plus optimized background regimen from Day 8.
-Virologic responses at Week 48 by baseline genotypic and phenotypic INSTI-resistance categories and the INSTI resistance-associated substitutions that emerged on dolutegravir treatment in VIKING-4 were consistent with those seen in VIKING-3.
+Treatment-Experienced, Integrase Strand Transfer Inhibitor-Experienced Subjects: VIKING-3 examined the efficacy of dolutegravir 50 mg twice daily plus optimized background therapy in subjects with prior or current virologic failure on an INSTI- (elvitegravir or raltegravir) containing regimen.
+Use of TIVICAY in INSTI-experienced patients should be guided by the number and type of baseline INSTI substitutions.
+The efficacy of TIVICAY 50 mg twice daily is reduced in patients with an INSTI-resistance Q148 substitution plus 2 or more additional INSTI-resistance substitutions, including T66A, L74I/M, E138A/K/T, G140S/A/C, Y143R/C/H, E157Q, G163S/E/K/Q, or G193E/R.
 
 Response by Baseline Genotype
 
@@ -241,12 +237,12 @@ Response by Baseline Integrase Genotype in Subjects with Prior Experience to an 
 | Q148H/R + G140S/A/C without additional INSTI-resistance substitutionb | 61% (17/28) |
 | Q148H/R + ≥2 INSTI-resistance substitutionsb,c | 29% (6/21) |
 
-aIncludes INSTI-resistance substitutions Y143R/C/H and N155H.
+a Includes INSTI-resistance substitutions Y143R/C/H and N155H.
 
-bINSTI-resistance substitutions included T66A, L74I/M, E138A/K/T, G140S/A/C, Y143R/C/H, E157Q, G163S/E/K/Q, or G193E/R.
+b INSTI-resistance substitutions included T66A, L74I/M, E138A/K/T, G140S/A/C, Y143R/C/H, E157Q, G163S/E/K/Q, or G193E/R.
 Two additional subjects had baseline genotypes of Q148Q/R plus L74L/I/M (virologic failure) and Q148R plus E138K (responder).
 
-cThe most common pathway with Q148H/R + greater than or equal to 2 INSTI-resistance substitutions had Q148+G140+E138 substitutions (n = 16).
+c The most common pathway with Q148H/R + greater than or equal to 2 INSTI-resistance substitutions had Q148+G140+E138 substitutions (n = 16).
 
 Response by Baseline Phenotype
 
@@ -275,6 +271,9 @@ Substitutions E92Q, Y143R or C/H, S147G, V151A, and E157E/Q each emerged in 1 to
 At failure, the median dolutegravir fold-change from reference was 61-fold (range: 0.75 to 209) for isolates with emergent INSTI-resistance substitutions (n = 33).
 
 Resistance to one or more background drugs in the dolutegravir twice-daily regimen also emerged in 49% (19 of 39) subjects in the Week 48 resistance analysis.
+
+In VIKING-4 (ING116529), 30 subjects with current virological failure on an INSTI-containing regimen and genotypic evidence of INSTI-resistance substitutions at screening were randomized to receive either dolutegravir 50 mg twice daily or placebo with the current failing regimen for 7 days and then all subjects received open-label dolutegravir plus optimized background regimen from Day 8.
+Virologic responses at Week 48 by baseline genotypic and phenotypic INSTI-resistance categories and the INSTI resistance-associated substitutions that emerged on dolutegravir treatment in VIKING-4 were consistent with those seen in VIKING-3.
 
 Cross-Resistance
 

@@ -4,24 +4,21 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
 
 Drug Interactions
 
-TIVICAY is contraindicated with dofetilide because interactions between these drugs can result in potentially life-threatening adverse events [see Contraindications (4)].
+TIVICAY may interact with other drugs; therefore, advise patients to report to their healthcare provider the use of any other prescription or nonprescription medication or herbal products, including St. John’s wort [see Contraindications (4), Drug Interactions (7)].
 
 Hypersensitivity Reactions
 
 Advise patients to immediately contact their healthcare provider if they develop rash.
 Instruct patients to immediately stop taking TIVICAY and other suspect agents, and seek medical attention if they develop a rash associated with any of the following symptoms, as it may be a sign of a more serious reaction such as severe hypersensitivity: fever; generally ill feeling; extreme tiredness; muscle or joint aches; blisters or peeling of the skin; oral blisters or lesions; eye inflammation; facial swelling; swelling of the eyes, lips, tongue, or mouth; breathing difficulty; and/or signs and symptoms of liver problems (e.g., yellowing of the skin or whites of the eyes, dark or tea-colored urine, pale-colored stools or bowel movements, nausea, vomiting, loss of appetite, or pain, aching, or sensitivity on the right side below the ribs) [see Warnings and Precautions (5.1)].
 
-Effects on Serum Liver Biochemistries in Patients with Hepatitis B or C Co-infection
+Hepatotoxicity
 
-Advise patients that it is recommended to have laboratory testing before and during therapy as patients with underlying hepatitis B or C may be at increased risk for worsening or development of transaminase elevations with use of TIVICAY [see Warnings and Precautions (5.2)].
-
-Fat Redistribution
-
-Inform patients that redistribution or accumulation of body fat may occur in patients receiving antiretroviral therapy and that the cause and long‑term health effects of these conditions are not known at this time [see Warnings and Precautions (5.3)].
+Inform patients that hepatotoxicity has been reported with dolutegravir [see Warnings and Precautions (5.2)].
+Advise patients that laboratory monitoring for hepatoxicity during therapy with TIVICAY is recommended, especially for patients with liver disease, such as hepatitis B or C.
 
 Immune Reconstitution Syndrome
 
-Advise patients to inform their healthcare provider immediately of any signs or symptoms of infection as inflammation from previous infection may occur soon after combination antiretroviral therapy, including when TIVICAY is started [see Warnings and Precautions (5.4)].
+Advise patients to inform their healthcare provider immediately of any signs or symptoms of infection as inflammation from previous infection may occur soon after combination antiretroviral therapy, including when TIVICAY is started [see Warnings and Precautions (5.3)].
 
 Pregnancy Registry
 
@@ -41,9 +38,9 @@ Storage
 Instruct patients to store the TIVICAY 10-mg tablets in the original package, keep the bottle tightly closed, and protect from moisture.
 Do not remove desiccant [see How Supplied/Storage and Handling (16)].
 
-TIVICAY and EPZICOM are registered trademarks of the ViiV Healthcare group of companies.
+TIVICAY, EPZICOM, JULUCA, and TRIUMEQ are trademarks owned by or licensed to the ViiV Healthcare group of companies.
 
-The other brands listed are trademarks of their respective owners and are not trademarks of the ViiV Healthcare group of companies.
+The other brands listed are trademarks owned by or licensed to their respective owners and are not owned by or licensed to the ViiV Healthcare group of companies.
 The makers of these brands are not affiliated with and do not endorse the ViiV Healthcare group of companies or its products.
 
 Manufactured for:
@@ -58,7 +55,8 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2017 the ViiV Healthcare group of companies.
-All rights reserved.
+©2017 ViiV Healthcare group of companies or its licensor.
 
-TVC:8PI
+TVC:9PI
+
+PHARMACIST‑DETACH HERE AND GIVE INSTRUCTIONS TO PATIENT _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _

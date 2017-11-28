@@ -13,9 +13,6 @@ In vitro, dolutegravir did not inhibit (IC50 greater than 50 microM) the followi
 In vitro, dolutegravir did not induce CYP1A2, CYP2B6, or CYP3A4.
 Based on these data and the results of drug interaction trials, dolutegravir is not expected to affect the pharmacokinetics of drugs that are substrates of these enzymes or transporters.
 
-In drug interaction trials, dolutegravir did not have a clinically relevant effect on the pharmacokinetics of the following drugs: daclatasvir, tenofovir, methadone, midazolam, rilpivirine, and oral contraceptives containing norgestimate and ethinyl estradiol.
-Using cross-study comparisons to historical pharmacokinetic data for each interacting drug, dolutegravir did not appear to affect the pharmacokinetics of the following drugs: atazanavir, darunavir, efavirenz, etravirine, fosamprenavir, lopinavir, ritonavir, and boceprevir.
-
 ## 7.2 Effect of Other Agents on the Pharmacokinetics of Dolutegravir
 
 Dolutegravir is metabolized by UGT1A1 with some contribution from CYP3A.
@@ -26,9 +23,7 @@ Coadministration of dolutegravir and other drugs that inhibit these enzymes may 
 
 Etravirine significantly reduced plasma concentrations of dolutegravir, but the effect of etravirine was mitigated by coadministration of lopinavir/ritonavir or darunavir/ritonavir, and is expected to be mitigated by atazanavir/ritonavir (Table 6) [see Drug Interactions (7.3), Clinical Pharmacology (12.3)].
 
-In vitro, dolutegravir was not a substrate of OATP1B1, or OATP1B3.
-
-Darunavir/ritonavir, lopinavir/ritonavir, rilpivirine, tenofovir, boceprevir, daclatasvir, prednisone, rifabutin, and omeprazole had no clinically significant effect on the pharmacokinetics of dolutegravir.
+In vitro, dolutegravir was not a substrate of OATP1B1 or OATP1B3.
 
 ## 7.3 Established and Other Potentially Significant Drug Interactions
 
@@ -47,6 +42,7 @@ Established and Other Potentially Significant Drug Interactions: Alterations in 
 | Non-nucleoside reverse transcriptase inhibitor:Nevirapine | ↓Dolutegravir | Avoid coadministration with nevirapine because there are insufficient data to make dosing recommendations. |
 | Protease inhibitor:Fosamprenavir/ritonaviraTipranavir/ritonavira | ↓Dolutegravir | Adjust dose of TIVICAY to 50 mg twice daily for treatment-naïve and treatment-experienced, INSTI-naïve adult patients. In pediatric patients, increase the weight-based dose to twice daily (Table 2).Use alternative combinations that do not include metabolic inducers where possible for INSTI-experienced patients with certain INSTI-associated resistance substitutions or clinically suspected INSTI resistance.b |
 | Other Agents |  |  |
+| Dofetilide | ↑Dofetilide | Coadministration is contraindicated with TIVICAY [see Contraindications (4)]. |
 | Carbamazepinea | ↓Dolutegravir | Adjust dose of TIVICAY to 50 mg twice daily in treatment-naïve or treatment-experienced, INSTI-naïve adult patients. In pediatric patients, increase the weight-based dose to twice daily (Table 2).Use alternative treatment that does not include carbamazepine where possible for INSTI-experienced patients with certain INSTI-associated resistance substitutions or clinically suspected INSTI resistance.b |
 | Oxcarbazepine Phenytoin Phenobarbital St. John’s wort (Hypericum perforatum) | ↓Dolutegravir | Avoid coadministration with TIVICAY because there are insufficient data to make dosing recommendations. |
 | Medications containing polyvalent cations (e.g., Mg or Al):Cation-containing antacidsa or laxatives Sucralfate Buffered medications | ↓Dolutegravir | Administer TIVICAY 2 hours before or 6 hours after taking medications containing polyvalent cations. |
@@ -57,3 +53,7 @@ Established and Other Potentially Significant Drug Interactions: Alterations in 
 a See Clinical Pharmacology (12.3) Table 9 or Table 10 for magnitude of interaction.
 
 b The lower dolutegravir exposures observed in INSTI-experienced patients (with certain INSTI-associated resistance substitutions or clinically suspected INSTI resistance [see Microbiology (12.4)]) upon coadministration with certain inducers may result in loss of therapeutic effect and development of resistance to TIVICAY or other coadministered antiretroviral agents.
+
+## 7.4 Drugs without Clinically Significant Interactions with Dolutegravir
+
+Based on drug interaction trial results, the following drugs can be coadministered with dolutegravir without a dose adjustment: atazanavir/ritonavir, darunavir/ritonavir, daclatasvir, elbasvir/grazoprevir, methadone, midazolam, omeprazole, oral contraceptives containing norgestimate and ethinyl estradiol, prednisone, rifabutin, rilpivirine, sofosbuvir/velpatasvir, and tenofovir [see Clinical Pharmacology (12.3)].
