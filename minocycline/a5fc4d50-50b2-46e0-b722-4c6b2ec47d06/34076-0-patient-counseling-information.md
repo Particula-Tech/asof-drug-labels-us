@@ -1,6 +1,8 @@
 # PATIENT INFORMATION
 
-Minocycline Hydrochloride Capsules 50, 75 and 100 mg
+Minocycline (mye-no-SYE-kleen) Hydrochloride Capsules
+
+50, 75 and 100 mg
 
 Read the Patient Information that comes with minocycline hydrochloride capsules before you or a family member starts taking it and each time you get a refill.
 There may be new information.
@@ -13,7 +15,7 @@ Minocycline hydrochloride capsules are used to treat certain infections caused b
 These include infections of the skin, respiratory tract, urinary tract, some sexually transmitted diseases, and others.
 Minocycline hydrochloride capsules may be used along with other treatments for severe acne.
 
-Sometimes, other germs, called viruses cause infections.
+Sometimes other germs, called viruses, cause infections.
 The common cold is a virus.
 Minocycline hydrochloride, like other antibiotics, does not treat viruses.
 
@@ -28,13 +30,13 @@ Minocycline hydrochloride capsules are not recommended for pregnant women or chi
 
 1. Minocycline hydrochloride capsules may harm an unborn baby
 2. Minocycline hydrochloride capsules may permanently turn a baby's or child's teeth yellow-gray-brown during tooth development.
-   Tooth development happens in the last half of pregnancy and birth to age 8 year.
+   Tooth development happens in the last half of pregnancy and birth to age 8 years.
 
 What should I tell my doctor before starting minocycline hydrochloride capsules?
 
 Tell your doctor about all of your medical conditions, including if you:
 
-- have liver or kidney problems
+- have liver or kidney problems.
 
 - are pregnant or planning to become pregnant.
   Minocycline hydrochloride may harm your unborn baby.
@@ -44,7 +46,7 @@ Tell your doctor about all of your medical conditions, including if you:
   Minocycline hydrochloride passes into your milk and may harm your baby.
   You should decide whether to use minocycline hydrochloride capsules or breastfeed, but not both.
 
-Tell your doctor about all the medicines you are taking including prescription and nonprescription medications, vitamins, and herbal supplements.
+Tell your doctor about all the medicines you are taking including prescription and non-prescription medications, vitamins, and herbal supplements.
 Minocycline hydrochloride capsules and other medicines may interact.
 Especially tell your doctor if you take:
 
@@ -54,9 +56,9 @@ Especially tell your doctor if you take:
   The dose of your blood thinner may have to be lowered.
 - a penicillin antibiotic medicine.
   Minocycline hydrochloride capsules and penicillins should not be used together.
-- Migraine medicines called ergot alkaloids
-- An acne medicine called isotretinoin (Accutane, Amnesteem, Claravis, Sotret)
-- Antacids that contain aluminum, calcium, or magnesium, or iron-containing products.
+- migraine medicines called ergot alkaloids.
+- an acne medicine called isotretinoin (Accutane, Amnesteem, Claravis, Sotret).
+- antacids that contain aluminum, calcium, or magnesium, or iron-containing products.
 
 Know the medicines you take, keep a list of them to show your doctor and pharmacist each time you get a new medicine.
 
@@ -72,11 +74,11 @@ How should I take minocycline hydrochloride capsules?
   Your esophagus is the tube that connects your mouth to your stomach.
 - Minocycline hydrochloride capsules may be taken with or without food.
   If you forget to take minocycline hydrochloride capsules, take it as soon as you remember.
-- If you take too much minocycline hydrochloride capsules, call your doctor or poison control center right away.
+- If you take too many minocycline hydrochloride capsules, call your doctor or poison control center right away.
 
 What are the possible side effects of minocycline hydrochloride capsules?
 
-Minocycline hydrochloride capsules may cause serious side effects.
+Minocycline hydrochloride may cause serious side effects.
 Stop minocycline hydrochloride capsules and call your doctor if you have:
 
 - watery diarrhea
@@ -88,8 +90,9 @@ Stop minocycline hydrochloride capsules and call your doctor if you have:
 - rash
 - joint pain
 - feeling very tired
+- swollen lymph nodes
 
-Minocycline hydrochloride capsules may also cause:
+Minocycline hydrochloride may also cause:
 
 - central nervous system effects.
   Symptoms include light-headedness, dizziness, and a spinning feeling (vertigo).
@@ -103,8 +106,8 @@ Minocycline hydrochloride capsules may also cause:
 These are not all the side effects with minocycline hydrochloride capsules.
 Ask your doctor or pharmacist for more information.
 
-Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
+CALL YOUR DOCTOR FOR MEDICAL ADVICE ABOUT SIDE EFFECTS.
+YOU MAY REPORT SIDE EFFECTS TO THE FDA AT 1-800-FDA-1088.
 
 How should I store minocycline hydrochloride capsules?
 
@@ -122,20 +125,22 @@ It may harm them.
 This Patient Information leaflet summarizes the most important information about minocycline hydrochloride.
 If you would like more information, talk with your doctor.
 
-Your doctor or pharmacist can give you information about minocycline hydrochloride that is written for health care professionals.
-For more information, you can also call Watson Laboratories, Inc. at 1-800-272-5525
+Your doctor or pharmacist can give you information about minocycline hydrochloride that is written for healthcare professionals.
+For more information, you can also call Actavis at 1-800-272-5525.
 
 What are the ingredients in minocycline hydrochloride capsules?
 
-Active ingredient: minocycline hydrochloride, 50 mg, 75 mg and 100 mg.
+Active ingredient: minocycline hydrochloride, 50 mg, 75 mg and 100 mg
 
 Inactive ingredients: magnesium stearate and starch (corn).
 
 The 50 mg, 75 mg, and 100 mg capsule shells contain: D&C Red No. 28, D&C Yellow No. 10, gelatin, silicon dioxide, sodium lauryl sulfate and titanium dioxide.
 The 100 mg capsule shell also contains black iron oxide.
 
-Manufactured by: Watson Pharma Private Ltd. Verna, Salcette Goa 403 722 INDIA
+Brands listed are the trademarks of their respective owners.
 
-Distributed by: Watson Pharma, Inc. Parsippany, NJ 07054 USA
+Manufactured by: Watson Pharma Private Limited Verna, Salcette Goa 403 722 INDIA
 
-Revised: July 2014
+Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
+
+Revised: November 2017

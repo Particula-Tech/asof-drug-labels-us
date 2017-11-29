@@ -1,15 +1,19 @@
 # REFERENCES
 
-- Ref1.
-  National Committee for Clinical Laboratory Standards, Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria that Grow Aerobically – Fourth Edition; Approved Standard.
-  NCCLS Document M7-A4, Vol. 17, No. 2, NCCLS, 940 West Valley Road, Suite 1400, Wayne, PA, January 1997.
-- Ref2.
-  National Committee for Clinical Laboratory Standards, Performance Standards for Antimicrobial Disks Susceptibility Tests – Sixth Edition; Approved Standard NCCLS Document M2-A6, Vol. 17, No. 1, NCCLS, 940 West Valley Road, Suite 1400, Wayne, PA, January 1997.
-- Ref3.
-  National Committee for Clinical Laboratory Standards, Performance Standards for Antimicrobial Susceptibility Testing – Eighth Edition; Approved Standard NCCLS Document M100-S8, Vol. 18, No. 1, NCCLS, 940 West Valley Road, Suite 1400, Wayne, PA, January 1998.
+1. Clinical and Laboratory Standards Institute (CLSI).
+   Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria that Grow Aerobically; Approved Standard-Tenth Edition; CLSI Document M07-A10[2015].
+   Clinical and Laboratory Standards, 940 West Valley Rd., Suite 2500, Wayne, PA 19087-1898.
+2. Clinical and Laboratory Standards Institute (CLSI).
+   Performance Standards for Antimicrobial Disk Susceptibility Tests; Approved Standard-Twelfth Edition; CLSI Document M02-A12 [2015].
+   Clinical and Laboratory Standards, 940 West Valley Rd., Suite 2500, Wayne, PA 19087-1898.
+3. Clinical and Laboratory Standards Institute (CLSI).
+   Performance Standards for Antimicrobial Susceptibility Testing; Twenty-seventh Informational Supplement.
+   Document M100-S27 [2017], Clinical and Laboratory Standards, 940 West Valley Rd., Suite 2500, Wayne, PA 19087-1898.
 
-Manufactured by: Watson Pharma Private Ltd. Verna, Salcette Goa 403 722 INDIA
+Brands listed are the trademarks of their respective owners.
 
-Distributed by: Watson Pharma, Inc. Parsippany, NJ 07054 USA
+Manufactured by: Watson Pharma Private Limited Verna, Salcette Goa 403 722 INDIA
 
-Revised: July 2014
+Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
+
+Revised: November 2017
