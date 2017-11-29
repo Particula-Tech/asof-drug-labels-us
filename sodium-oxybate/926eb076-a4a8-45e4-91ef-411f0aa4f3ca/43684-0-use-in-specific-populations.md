@@ -2,30 +2,41 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C
+Risk Summary
 
-There are no adequate and well-controlled studies in pregnant women.
-Xyrem should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+There are no adequate data on the developmental risk associated with the use of sodium oxybate in pregnant women.
+Oral administration of sodium oxybate to pregnant rats (150, 350, or 1,000 mg/kg/day) or rabbits (300, 600, or 1,200 mg/kg/day) throughout organogenesis produced no clear evidence of developmental toxicity; however, oral administration to rats throughout pregnancy and lactation resulted in increased stillbirths and decreased offspring postnatal viability and growth, at a clinically relevant dose [see Data].
+
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+The background risk of major birth defects and miscarriage for the indicated population is unknown.
+
+Clinical Considerations
+
+Labor or Delivery
+
+Xyrem has not been studied in labor or delivery.
+In obstetric anesthesia using an injectable formulation of sodium oxybate, newborns had stable cardiovascular and respiratory measures but were very sleepy, causing a slight decrease in Apgar scores.
+There was a fall in the rate of uterine contractions 20 minutes after injection.
+Placental transfer is rapid and gamma hydroxybutyrate (GHB) has been detected in newborns at delivery after intravenous administration of GHB to mothers.
+Subsequent effects of sodium oxybate on later growth, development, and maturation in humans are unknown.
+
+Data
+
+Animal Data
+
 Oral administration of sodium oxybate to pregnant rats (150, 350, or 1,000 mg/kg/day) or rabbits (300, 600, or 1,200 mg/kg/day) throughout organogenesis produced no clear evidence of developmental toxicity.
 The highest doses tested in rats and rabbits were approximately 1 and 3 times, respectively, the maximum recommended human dose (MRHD) of 9 g per night on a body surface area (mg/m2) basis.
 
 Oral administration of sodium oxybate (150, 350, or 1,000 mg/kg/day) to rats throughout pregnancy and lactation resulted in increased stillbirths and decreased offspring postnatal viability and body weight gain at the highest dose tested.
 The no-effect dose for pre- and post-natal developmental toxicity in rats is less than the MRHD on a mg/m2 basis.
 
-## 8.2 Labor and Delivery
+## 8.2 Lactation
 
-Xyrem has not been studied in labor or delivery.
-In obstetric anesthesia using an injectable formulation of sodium oxybate, newborns had stable cardiovascular and respiratory measures but were very sleepy, causing a slight decrease in Apgar scores.
-There was a fall in the rate of uterine contractions 20 minutes after injection.
-Placental transfer is rapid, but umbilical vein levels of sodium oxybate were no more than 25% of the maternal concentration.
-No sodium oxybate was detected in the infant’s blood 30 minutes after delivery.
-Elimination curves of sodium oxybate between a 2-day-old infant and a 15-year-old patient were similar.
-Subsequent effects of sodium oxybate on later growth, development, and maturation in humans are unknown.
+Risk Summary
 
-## 8.3 Nursing Mothers
-
-It is not known whether sodium oxybate is excreted in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when Xyrem is administered to a nursing woman.
+GHB is excreted in human milk after oral administration of sodium oxybate.
+There is insufficient information on the risk to a breastfed infant, and there is insufficient information on milk production in nursing mothers.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for Xyrem and any potential adverse effects on the breastfed infant from Xyrem or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 

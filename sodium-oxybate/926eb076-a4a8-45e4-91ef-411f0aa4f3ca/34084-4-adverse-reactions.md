@@ -35,7 +35,7 @@ Table 3 lists adverse reactions that occurred at a frequency of 2% or more in an
 Adverse reactions are summarized by dose at onset.
 Nearly all patients in these studies initiated treatment at 4.5 g per night.
 In patients who remained on treatment, adverse reactions tended to occur early and to diminish over time.
-Table 3 Adverse Reactions Occurring in ≥2% of Patients and More Frequently with Xyrem than Placebo in Three Controlled Trials (N1, N3, N4) by Body System and Dose at Onset
+Table 3 Adverse Reactions Occurring in ≥ 2% of Patients and More Frequently with Xyrem than Placebo in Three Controlled Trials (N1, N3, N4) by Body System and Dose at Onset
 
 | System Organ Class/MedDRA Preferred Term | Placebo (n=213) % | Xyrem 4.5g (n=185) % | Xyrem 6g (n=258) % | Xyrem 9g (n=178) % |
 | --- | --- | --- | --- | --- |
@@ -47,13 +47,13 @@ Table 3 Adverse Reactions Occurring in ≥2% of Patients and More Frequently wit
 | Abdominal pain upper | 2 | 3 | 1 | 2 |
 | Dry mouth | 2 | 1 | 2 | 1 |
 | GENERAL DISORDERS AND ADMINISTRATIVE SITE CONDITIONS |  |  |  |  |
-| Pain | 1 | 1 | < 1 | 3 |
-| Feeling drunk | 1 | 0 | < 1 | 3 |
+| Pain | 1 | 1 | <1 | 3 |
+| Feeling drunk | 1 | 0 | <1 | 3 |
 | Edema peripheral | 1 | 3 | 0 | 0 |
 | MUSCULOSKELETAL AND CONNECTIVE TISSUE DISORDERS |  |  |  |  |
 | Pain in extremity | 1 | 3 | 1 | 1 |
 | Cataplexy | 1 | 1 | 1 | 2 |
-| Muscle spasms | 2 | 2 | < 1 | 2 |
+| Muscle spasms | 2 | 2 | <1 | 2 |
 | NERVOUS SYSTEM DISORDERS |  |  |  |  |
 | Dizziness | 4 | 9 | 11 | 15 |
 | Somnolence | 4 | 1 | 3 | 8 |
@@ -64,7 +64,7 @@ Table 3 Adverse Reactions Occurring in ≥2% of Patients and More Frequently wit
 | PSYCHIATRIC DISORDERS |  |  |  |  |
 | Disorientation | 1 | 1 | 2 | 3 |
 | Anxiety | 1 | 1 | 1 | 2 |
-| Irritability | 1 | 0 | < 1 | 3 |
+| Irritability | 1 | 0 | <1 | 3 |
 | Sleep walking | 0 | 0 | 0 | 3 |
 | RENAL AND URINARY DISORDERS |  |  |  |  |
 | Enuresis | 1 | 3 | 3 | 7 |
@@ -80,6 +80,7 @@ In controlled trials in narcolepsy, discontinuations of treatment due to adverse
 
 ## 6.2 Postmarketing Experience
 
-The following additional adverse reactions that have a likely causal relationship to Xyrem exposure have been identified during postmarketing use of Xyrem.
-These adverse reactions include: arthralgia, decreased appetite, fall, fluid retention, hangover, headache, hypersensitivity, hypertension, increased libido, memory impairment, nocturia, panic attack, vision blurred, and weight decreased.
-Because these reactions are reported voluntarily, it is not always possible to reliably estimate their frequency.
+The following adverse reactions have been identified during postapproval use of Xyrem.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure:
+
+1. arthralgia, decreased appetite, fall, fluid retention, hangover, headache, hypersensitivity, hypertension, memory impairment, nocturia, panic attack, vision blurred, and weight decreased.

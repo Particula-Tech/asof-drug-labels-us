@@ -174,7 +174,7 @@ Active Ingredients: sodium oxybate
 Inactive Ingredients: purified water and malic acid
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Distributed By: Jazz Pharmaceuticals, Inc. Palo Alto, CA 94304 Revised: April 2015
+Distributed By: Jazz Pharmaceuticals, Inc. Palo Alto, CA 94304 Revised: 11/2017
 
 ## Instructions for Use
 

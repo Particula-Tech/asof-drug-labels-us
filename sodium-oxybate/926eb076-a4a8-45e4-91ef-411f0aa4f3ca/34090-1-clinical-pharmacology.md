@@ -4,30 +4,30 @@
 
 Xyrem is a CNS depressant.
 The mechanism of action of Xyrem in the treatment of narcolepsy is unknown.
-Sodium oxybate is the sodium salt of gamma hydroxybutyrate, an endogenous compound and metabolite of the neurotransmitter GABA.
+Sodium oxybate is the sodium salt of gamma hydroxybutyrate (GHB), an endogenous compound and metabolite of the neurotransmitter GABA.
 It is hypothesized that the therapeutic effects of Xyrem on cataplexy and excessive daytime sleepiness are mediated through GABAB actions at noradrenergic and dopaminergic neurons, as well as at thalamocortical neurons.
 
 ## 12.3 Pharmacokinetics
 
-### Pharmacokinetics of sodium oxybate are nonlinear and are similar following single or repeat dosing.
+Pharmacokinetics of GHB are nonlinear and are similar following single or repeat dosing of Xyrem.
 
 Absorption
 
-Following oral administration, sodium oxybate is absorbed rapidly across the clinical dose range, with an absolute bioavailability of about 88%.
+Following oral administration of Xyrem, GHB is absorbed rapidly across the clinical dose range, with an absolute bioavailability of about 88%.
 The average peak plasma concentrations (Cmax) following administration of each of the two 2.25 g doses given under fasting conditions 4 hours apart were similar.
 The average time to peak plasma concentration (Tmax) ranged from 0.5 to 1.25 hours.
-Following oral administration, the plasma levels of sodium oxybate increased more than dose-proportionally, with blood levels increasing 3.7‐fold as total daily dose is doubled from 4.5 g to 9 g. Single doses greater than 4.5 g have not been studied.
-Administration of Xyrem immediately after a high-fat meal resulted in delayed absorption (average Tmax increased from 0.75 hr to 2 hr) and a reduction in Cmax by a mean of 59% and of systemic exposure (AUC) by 37%.
+Following oral administration of Xyrem, the plasma levels of GHB increased more than dose-proportionally, with blood levels increasing 3.7‐fold as total daily dose is doubled from 4.5 g to 9 g. Single doses greater than 4.5 g have not been studied.
+Administration of Xyrem immediately after a high-fat meal resulted in delayed absorption (average Tmax increased from 0.75 hr to 2 hr) and a reduction in Cmax of GHB by a mean of 59% and of systemic exposure (AUC) by 37%.
 
 Distribution
 
-Sodium oxybate is a hydrophilic compound with an apparent volume of distribution averaging 190 mL/kg to 384 mL/kg.
-At sodium oxybate concentrations ranging from 3 mcg/mL to 300 mcg/mL, less than 1% is bound to plasma proteins.
+GHB is a hydrophilic compound with an apparent volume of distribution averaging 190 mL/kg to 384 mL/kg.
+At GHB concentrations ranging from 3 mcg/mL to 300 mcg/mL, less than 1% is bound to plasma proteins.
 
 Metabolism
 
-Animal studies indicate that metabolism is the major elimination pathway for sodium oxybate, producing carbon dioxide and water via the tricarboxylic acid (Krebs) cycle and secondarily by beta-oxidation.
-The primary pathway involves a cytosolic NADP+-linked enzyme, GHB dehydrogenase, that catalyzes the conversion of sodium oxybate to succinic semialdehyde, which is then biotransformed to succinic acid by the enzyme succinic semialdehyde dehydrogenase.
+Animal studies indicate that metabolism is the major elimination pathway for GHB, producing carbon dioxide and water via the tricarboxylic acid (Krebs) cycle and secondarily by beta-oxidation.
+The primary pathway involves a cytosolic NADP+-linked enzyme, GHB dehydrogenase, that catalyzes the conversion of GHB to succinic semialdehyde, which is then biotransformed to succinic acid by the enzyme succinic semialdehyde dehydrogenase.
 Succinic acid enters the Krebs cycle where it is metabolized to carbon dioxide and water.
 A second mitochondrial oxidoreductase enzyme, a transhydrogenase, also catalyzes the conversion to succinic semialdehyde in the presence of α-ketoglutarate.
 An alternate pathway of biotransformation involves β-oxidation via 3,4-dihydroxybutyrate to carbon dioxide and water.
@@ -35,25 +35,25 @@ No active metabolites have been identified.
 
 Elimination
 
-The clearance of sodium oxybate is almost entirely by biotransformation to carbon dioxide, which is then eliminated by expiration.
+The clearance of GHB is almost entirely by biotransformation to carbon dioxide, which is then eliminated by expiration.
 On average, less than 5% of unchanged drug appears in human urine within 6 to 8 hours after dosing.
 Fecal excretion is negligible.
-Sodium oxybate has an elimination half-life of 0.5 to 1 hour.
+GHB has an elimination half-life of 0.5 to 1 hour.
 
 ### Specific Populations
 
 Geriatric
 
 There is limited experience with Xyrem in the elderly.
-Results from a pharmacokinetic study (n=20) in another studied population indicate that the pharmacokinetic characteristics of sodium oxybate are consistent among younger (age 48 to 64 years) and older (age 65 to 75 years) adults.
+Results from a pharmacokinetic study (n=20) in another studied population indicate that the pharmacokinetic characteristics of GHB are consistent among younger (age 48 to 64 years) and older (age 65 to 75 years) adults.
 
 Pediatric
 
-The pharmacokinetics of sodium oxybate in patients younger than 18 years of age have not been studied.
+The pharmacokinetics of GHB in patients younger than 18 years of age have not been studied.
 
 Gender
 
-In a study of 18 female and 18 male healthy adult volunteers, no gender differences were detected in the pharmacokinetics of sodium oxybate oral solution following a single oral dose of 4.5 g.
+In a study of 18 female and 18 male healthy adult volunteers, no gender differences were detected in the pharmacokinetics of GHB following a single Xyrem oral dose of 4.5 g.
 
 Race
 
@@ -65,7 +65,7 @@ No pharmacokinetic study in patients with renal impairment has been conducted.
 
 Hepatic Impairment
 
-The pharmacokinetics of Xyrem in 16 cirrhotic patients, half without ascites (Child’s Class A) and half with ascites (Child’s Class C), were compared to the kinetics in 8 subjects with normal hepatic function after a single oral dose of 25 mg/kg.
+The pharmacokinetics of GHB in 16 cirrhotic patients, half without ascites (Child’s Class A) and half with ascites (Child’s Class C), were compared to the kinetics in 8 subjects with normal hepatic function after a single Xyrem oral dose of 25 mg/kg.
 AUC values were double in the cirrhotic patients, with apparent oral clearance reduced from 9.1 mL/min/kg in healthy adults to 4.5 and 4.1 mL/min/kg in Class A and Class C patients, respectively.
 Elimination half-life was significantly longer in Class C and Class A patients than in control patients (mean t1/2 of 59 and 32 minutes, respectively, versus 22 minutes).
 The starting dose of Xyrem should be reduced by one-half in patients with liver impairment [see Dosage and Administration (2.3); Use in Specific Populations (8.6)].
@@ -76,16 +76,16 @@ Studies in vitro with pooled human liver microsomes indicate that sodium oxybate
 
 Drug interaction studies in healthy adults (age 18 to 50 years) were conducted with Xyrem and divalproex sodium, diclofenac, and ibuprofen:
 
-- •Divalproex sodium: Co-administration of Xyrem (6 g per day as two equal doses of 3 grams dosed four hours apart) with divalproex sodium (valproic acid, 1250 mg per day) increased mean systemic exposure to sodium oxybate as shown by AUC by approximately 25%, while Cmax was comparable.
+- •Divalproex sodium: Co-administration of Xyrem (6 g per day as two equal doses of 3 grams dosed four hours apart) with divalproex sodium (valproic acid, 1250 mg per day) increased mean systemic exposure to GHB as shown by AUC by approximately 25%, while Cmax was comparable.
   Co-administration did not appear to affect the pharmacokinetics of valproic acid.
   A greater impairment on some tests of attention and working memory was observed with co-administration of both drugs than with either drug alone [see Drug Interactions (7.2) and Dosage and Administration (2.4)].
-- •Diclofenac: Co-administration of Xyrem (6 g per day as two equal doses of 3 grams dosed four hours apart) with diclofenac (50 mg/dose twice per day) showed no significant differences in systemic exposure to sodium oxybate.
+- •Diclofenac: Co-administration of Xyrem (6 g per day as two equal doses of 3 grams dosed four hours apart) with diclofenac (50 mg/dose twice per day) showed no significant differences in systemic exposure to GHB.
   Co-administration did not appear to affect the pharmacokinetics of diclofenac.
-- •Ibuprofen: Co-administration of Xyrem (6 g per day as two equal doses of 3 grams dosed four hours apart) with ibuprofen (800 mg/dose four times per day also dosed four hours apart) resulted in comparable systemic exposure to sodium oxybate as shown by plasma Cmax and AUC values.
+- •Ibuprofen: Co-administration of Xyrem (6 g per day as two equal doses of 3 grams dosed four hours apart) with ibuprofen (800 mg/dose four times per day also dosed four hours apart) resulted in comparable systemic exposure to GHB as shown by plasma Cmax and AUC values.
   Co-administration did not affect the pharmacokinetics of ibuprofen.
 
-Drug interaction studies in healthy adults demonstrated no pharmacokinetic interactions between sodium oxybate and protriptyline hydrochloride, zolpidem tartrate, and modafinil.
+Drug interaction studies in healthy adults demonstrated no pharmacokinetic interactions between Xyrem and protriptyline hydrochloride, zolpidem tartrate, and modafinil.
 Also, there were no pharmacokinetic interactions with the alcohol dehydrogenase inhibitor fomepizole.
 However, pharmacodynamic interactions with these drugs cannot be ruled out.
-Alteration of gastric pH with omeprazole produced no significant change in the oxybate kinetics.
-In addition, drug interaction studies in healthy adults demonstrated no pharmacokinetic or clinically significant pharmacodynamic interactions between sodium oxybate and the SNRI duloxetine HCl.
+Alteration of gastric pH with omeprazole produced no significant change in the pharmacokinetics of GHB.
+In addition, drug interaction studies in healthy adults demonstrated no pharmacokinetic or clinically significant pharmacodynamic interactions between Xyrem and duloxetine HCl.
