@@ -27,4 +27,4 @@ Similar effects have also been seen with calcitriol.
 
 ## 5.4 Aluminum Overload and Toxicity
 
-Aluminum-containing preparations (e.g. antacids, phosphate binders) should not be administered chronically with paricalcitol, as increased blood levels of aluminum and aluminum bone toxicity may occur.
+Aluminum-containing preparations (e.g., antacids, phosphate binders) should not be administered chronically with paricalcitol, as increased blood levels of aluminum and aluminum bone toxicity may occur.
