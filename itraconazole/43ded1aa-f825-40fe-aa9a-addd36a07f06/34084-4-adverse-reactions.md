@@ -14,7 +14,7 @@ U.S. adverse experience data are derived from 350 immunocompromised patients (33
 Table 2 below lists adverse events reported by at least 2% of patients treated with itraconazole oral solution in U.S. clinical trials.
 Data on patients receiving comparator agents in these trials are included for comparison.
 
-Table 2: Summary of Adverse Events Reported by ≥2% of ItraconazoleTreated Patients in U.S. Clinical Trials (Total)
+Table 2: Summary of Adverse Events Reported by ≥2% of Itraconazole Treated Patients in U.S. Clinical Trials (Total)
 
 | Body System/ Adverse Event | Itraconazole |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -59,7 +59,7 @@ Edema, hypokalemia and menstrual disorders have been reported in clinical trials
 
 Adverse Events Reported from Other Clinical Trials
 
-A comparative clinical trial in patients who received intravenous itraconazole followed by itraconazole oral solution or received Amphotericin B reported the following adverse events in the itraconazole intravenous/ itraconazole oral solution treatment arm which are not listed above in the subsection “Adverse Events Reported in Oropharnyngeal or Esophageal Candidiasis Trials” or listed below as postmarketing reports of adverse drug reactions: serum creatinine increased, blood urea nitrogen increased, renal function abnormal, hypocalcemia, hypomagnesemia, hypophosphatemia, hypotension, tachycardia and pulmonary infiltration.
+A comparative clinical trial in patients who received intravenous itraconazole followed by itraconazole oral solution or received Amphotericin B reported the following adverse events in the itraconazole intravenous/ itraconazole oral solution treatment arm which are not listed above in the subsection “Adverse Events Reported in Oropharyngeal or Esophageal Candidiasis Trials” or listed below as postmarketing reports of adverse drug reactions: serum creatinine increased, blood urea nitrogen increased, renal function abnormal, hypocalcemia, hypomagnesemia, hypophosphatemia, hypotension, tachycardia and pulmonary infiltration.
 
 In addition, the following adverse drug reactions were reported in patients who participated in itraconazole oral solution clinical trials:
 

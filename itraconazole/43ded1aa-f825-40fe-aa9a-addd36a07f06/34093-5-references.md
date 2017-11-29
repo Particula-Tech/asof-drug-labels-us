@@ -9,9 +9,13 @@
    CLSI document M27-S4.
    Clinical and Laboratory Standards Institute, 940 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087 USA, 2012.
 
-Manufactured by: Amneal Pharmaceuticals Branchburg, NJ 08876
+Manufactured by: Amneal Pharmaceuticals, LLC Branchburg, NJ 08876
 
-Distributed by: Amneal Pharmaceuticals Glasgow, KY 42141
+Distributed by:
+
+Amneal Pharmaceuticals, LLC
+
+Glasgow, KY 42141
 
 Rev.
-09-2015-02
+08-2017-02

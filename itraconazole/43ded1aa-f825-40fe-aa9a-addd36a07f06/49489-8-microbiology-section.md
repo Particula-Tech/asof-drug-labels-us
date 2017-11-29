@@ -8,7 +8,7 @@ Drug Resistance:
 
 Isolates from several fungal species with decreased susceptibility to itraconazole have been isolated in vitro and from patients receiving prolonged therapy.
 
-Candida krusei,Candida glabrata and Candida tropicalis are generally the least susceptible Candida species, with some isolates showing unequivocal resistance to itraconazole in vitro.
+Candida krusei, Candida glabrata and Candida tropicalis are generally the least susceptible Candida species, with some isolates showing unequivocal resistance to itraconazole in vitro.
 
 Itraconazole is not active against Zygomycetes (e.g., Rhizopus spp., Rhizomucor spp., Mucor spp. and Absidia spp.), Fusarium spp., Scedosporium spp. and Scopulariopsis spp.
 
@@ -52,10 +52,11 @@ The MIC values should be interpreted according to the criteria provided in Table
 | S | I | R |  |
 | Candida albicans | ≤ 0.125 | 0.25 to 0.5 | ≥ 1 |
 
-* A report of “Susceptible” indicates that the antimicrobial drug is likely to inhibit growth of the microorganism if the antimicrobial drug reaches the concentration usually achievable at the site of infection.
-A report of Intermediate (I) category implies that an infection due to the isolate may be appropriately treated in the body sites where the drugs are physiologically concentrated or when a high dosage of drug is used.
-The Intermediate category is sometimes called Susceptible-Dose Dependent (SDD) and both categories are equivalent for itraconazole.
-
+* A report of Susceptible (S) indicates that the antimicrobial drug is likely to inhibit growth of the microorganism if the antimicrobial drug reaches the concentration usually achievable at the site of infection.
+A report of Intermediate (I) category indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
+This category implies possible clinical applicability in the body sites where the drug is physiologically concentrated or in situations where a high dosage of drug can be used.
+This category also provides a buffer zone that prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
+The intermediate category is sometimes called Susceptible-Dose Dependent (SDD) and both categories are equivalent for itraconazole.
 A report of Resistant (R) indicates that the antimicrobial is not likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentration usually achievable at the infection site; other therapy should be selected.
 
 Quality Control

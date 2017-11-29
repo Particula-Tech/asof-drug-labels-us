@@ -76,7 +76,7 @@ In a healthy volunteer study of itraconazole intravenous infusion, transient, as
 If signs or symptoms of congestive heart failure appear during administration of itraconazole oral solution, monitor carefully and consider other treatment alternatives which may include discontinuation of itraconazole oral solution administration.
 (See BOXED WARNING, CONTRAINDICATIONS, WARNINGS, PRECAUTIONS: Drug Interactions and ADVERSE REACTIONS: Post-marketing Experience for more information.)
 
-### Cystic Fibrosis::
+### Cystic Fibrosis:
 
 Seventeen cystic fibrosis patients, ages 7 to 28 years old, were administered itraconazole oral solution 2.5 mg/kg b.i.d. for 14 days in a pharmacokinetic study.
 Sixteen patients completed the study.
