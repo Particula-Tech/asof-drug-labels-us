@@ -92,7 +92,7 @@ Other serious ARs consisted of sinusitis, abdominal pain, decreased body mass in
 
 Seven patients were withdrawn from the study because of ARs: 5 (12%) in the low dose group (ulcerative colitis, adenovirus infection, sclerosing cholangitis, pancreatitis) and 2 (5%) in the high dose group (increased amylase and increased lipase, upper abdominal pain).
 
-In general, the nature and severity of reactions in the pediatric population was similar to those reported in adult populations of patients with ulcerative colitis. ​​​​​​​​​​​​​ Maintenance of Remission of Ulcerative Colitis in Adults
+In general, the nature and severity of reactions in the pediatric population was similar to those reported in adult populations of patients with ulcerative colitis. ​​​​​​​​​​​​​Maintenance of Remission of Ulcerative Colitis in Adults
 
 In a 6-month placebo-controlled maintenance trial involving 264 patients (Study 4) 177 of whom were randomized to mesalamine delayed-release tablets, six (3.4%) of the patients using mesalamine delayed-release tablets discontinued therapy because of adverse reactions, as compared to four (4.6%) of patients using placebo [see Clinical Studies (14.2)].
 The average age of patients in Study 4 was 42 years and 55% of patients were male.
