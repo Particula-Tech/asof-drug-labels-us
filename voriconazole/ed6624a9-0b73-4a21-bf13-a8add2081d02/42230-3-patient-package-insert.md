@@ -175,15 +175,25 @@ For current full prescribing information, please visit www.amneal.com or call 1-
 
 What are the ingredients of voriconazole oral suspension?
 
-Active ingredient: voriconazole, USP
+Active ingredient: Voriconazole, USP
 
 Inactive ingredients:
 
-Voriconazole oral suspension: anhydrous citric acid, colloidal silicon dioxide, natural and artificial orange flavor, sodium benzoate powder, sodium citrate, sucrose, titanium dioxide and xanthan gum
+Voriconazole oral suspension: anhydrous citric acid, colloidal silicon dioxide, natural and artificial orange flavor, sodium benzoate, sodium citrate, sucrose, titanium dioxide and xanthan gum
 
 *Trademarks are the property of their respective owners.
 
-Distributed by: Amneal Pharmaceuticals Bridgewater, NJ 08807
+Manufactured by:
+
+Amneal Pharmaceuticals LLC
+
+Branchburg, NJ 08876
+
+Distributed by:
+
+Amneal Pharmaceuticals LLC
+
+Glasgow, KY 42141
 
 Rev.
-04-2016-00
+08-2017-01

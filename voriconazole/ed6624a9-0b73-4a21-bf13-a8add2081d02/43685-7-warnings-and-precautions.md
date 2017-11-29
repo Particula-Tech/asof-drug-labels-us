@@ -2,8 +2,8 @@
 
 ## 5.1 Drug Interactions
 
-See Table 6 for a listing of drugs that may significantly alter voriconazole concentrations.
-Also, see Table 7 for a listing of drugs that may interact with voriconazole resulting in altered pharmacokinetics or pharmacodynamics of the other drug [see Contraindications (4) and Drug Interactions (7)].
+See Table 7 for a listing of drugs that may significantly alter voriconazole concentrations.
+Also, see Table 8 for a listing of drugs that may interact with voriconazole resulting in altered pharmacokinetics or pharmacodynamics of the other drug [see Contraindications (4) and Drug Interactions (7)].
 
 ## 5.2 Hepatic Toxicity
 
@@ -26,10 +26,9 @@ If treatment continues beyond 28 days, visual function including visual acuity, 
 
 Voriconazole can cause fetal harm when administered to a pregnant woman.
 
-In animals, voriconazole administration was associated with teratogenicity, embryotoxicity, increased gestational length, dystocia and embryomortality.
-Please refer to section 8.1 (Use in Pregnancy) for additional details.
+In animals, voriconazole administration was associated with teratogenicity, embryotoxicity, increased gestational length, dystocia and embryomortality [see Use in Specific Populations (8.1)].
 
-If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be informed of the potential hazard to the fetus.
+If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, inform the patient of the potential hazard to the fetus.
 
 ## 5.6 Arrhythmias and QT Prolongation
 
@@ -57,8 +56,8 @@ Patient management should include laboratory evaluation of renal (particularly s
 
 It is recommended that the standard loading dose regimens be used but that the maintenance dose be halved in patients with mild to moderate hepatic cirrhosis (Child-Pugh Class A and B) receiving voriconazole [see Clinical Pharmacology (12.3) and Dosage and Administration (2.7)].
 
-Voriconazole has not been studied in patients with severe cirrhosis (Child-Pugh Class C). Voriconazole has been associated with elevations in liver function tests and clinical signs of liver damage, such as jaundice, and should only be used in patients with severe hepatic insufficiency if the benefit outweighs the potential risk.
-Patients with hepatic insufficiency must be carefully monitored for drug toxicity.
+Voriconazole has not been studied in patients with severe cirrhosis (Child-Pugh Class C). Voriconazole has been associated with elevations in liver function tests and clinical signs of liver damage, such as jaundice, and should only be used in patients with severe hepatic impairment if the benefit outweighs the potential risk.
+Patients with hepatic impairment must be carefully monitored for drug toxicity.
 
 ## 5.10 Patients With Renal Impairment
 
@@ -84,7 +83,7 @@ Serious exfoliative cutaneous reactions, such as Stevens-Johnson syndrome, have 
 If a patient develops an exfoliative cutaneous reaction, voriconazole should be discontinued.
 
 Voriconazole has been associated with photosensitivity skin reaction.
-Patients, including children should avoid exposure to direct sunlight during voriconazole treatment and should use measures such as protective clothing and sunscreen with high sun protection factor (SPF).
+Patients, including children, should avoid exposure to direct sunlight during voriconazole treatment and should use measures such as protective clothing and sunscreen with high sun protection factor (SPF).
 If phototoxic reactions occur, the patient should be referred to a dermatologist and voriconazole discontinuation should be considered.
 If voriconazole is continued despite the occurrence of phototoxicity-related lesions, dermatologic evaluation should be performed on a systematic and regular basis to allow early detection and management of premalignant lesions.
 Squamous cell carcinoma of the skin and melanoma have been reported during long-term voriconazole therapy in patients with photosensitivity skin reactions.

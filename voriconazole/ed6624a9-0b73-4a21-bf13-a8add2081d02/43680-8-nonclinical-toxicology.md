@@ -9,10 +9,6 @@ Mice were given oral doses of 10, 30 or 100 mg/kg voriconazole, or 0.1, 0.4, or 
 In mice, hepatocellular adenomas were detected in males and females and hepatocellular carcinomas were detected in males at 1.4 times the RMD of voriconazole.
 
 Voriconazole demonstrated clastogenic activity (mostly chromosome breaks) in human lymphocyte cultures in vitro.
-Voriconazole was not genotoxic in the Ames assay, CHO assay, the mouse micronucleus assay or the DNA repair test (Unscheduled DNA Synthesis assay).
+Voriconazole was not genotoxic in the Ames assay, CHO HGPRT assay, the mouse micronucleus assay or the in vivo DNA repair test (Unscheduled DNA Synthesis assay).
 
 Voriconazole administration induced no impairment of male or female fertility in rats dosed at 50 mg/kg, or 1.6 times the RMD (recommended maintenance dose).
-
-## 13.2 Teratogenic Effects
-
-Pregnancy category D [see Warnings and Precautions (5.4) and Use in Specific Populations (8.1)].

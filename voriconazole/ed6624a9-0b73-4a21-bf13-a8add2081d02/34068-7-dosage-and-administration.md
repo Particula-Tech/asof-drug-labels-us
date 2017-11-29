@@ -2,14 +2,14 @@
 
 ## 2.1 Instructions for Use in All Patients
 
-Voriconazole for oral suspension, 40 mg/mL should be taken at least one hour before or after a meal.
+Voriconazole for oral suspension should be taken at least one hour before or after a meal.
 
 ## 2.3 Recommended Dosing in Adults
 
 Invasive aspergillosis and serious fungal infections due to Fusarium spp. and Scedosporium apiospermum
 
 See Table 1.
-Therapy must be initiated with the specified loading dose regimen of intravenous voriconazole on Day 1 followed by the recommended maintenance dose regimen.
+Therapy must be initiated with the specified loading dose regimen of intravenous voriconazole on Day 1 followed by the recommended maintenance dose (RMD) regimen.
 Intravenous treatment should be continued for at least 7 days.
 Once the patient has clinically improved and can tolerate medication given by mouth, the oral tablet form or oral suspension form of voriconazole may be utilized.
 The recommended oral maintenance dose of 200 mg achieves a voriconazole exposure similar to 3 mg/kg IV; a 300 mg oral dose achieves an exposure similar to 4 mg/kg IV.
@@ -53,12 +53,12 @@ If patient is unable to tolerate 300 mg orally every 12 hours, reduce the oral m
 
 If patient is unable to tolerate 4 mg/kg IV q12h, reduce the intravenous maintenance dose to 3 mg/kg q12h.
 
-The maintenance dose of voriconazole, USP should be increased when co-administered with phenytoin or efavirenz [see Drug Interactions (7)].
+The maintenance dose of voriconazole should be increased when co-administered with phenytoin or efavirenz [see Drug Interactions (7)].
 
-The maintenance dose of voriconazole, USP should be reduced in patients with mild to moderate hepatic impairment, Child-Pugh Class A and B [see Dosage and Administration (2.7)].
+The maintenance dose of voriconazole should be reduced in patients with mild to moderate hepatic impairment, Child-Pugh Class A and B [see Dosage and Administration (2.7)].
 There are no PK data to allow for dosage adjustment recommendations in patients with severe hepatic impairment (Child-Pugh Class C).
 
-Duration of therapy should be based on the severity of the patient’s underlying disease, recovery from immunosuppression and clinical response.
+Duration of therapy should be based on the severity of the patient’s underlying disease, recovery from immunosuppression, and clinical response.
 
 ## 2.6 Oral Suspension
 
@@ -69,7 +69,7 @@ Add 46 mL of water to the bottle.
 Shake the closed bottle vigorously for about 1 minute.
 Remove child-resistant cap and push bottle adaptor into the neck of the bottle.
 Replace the cap.
-Write the date of expiration of the reconstituted suspension on the bottle label (the shelf-life of the reconstituted suspension is 14 days at controlled room temperature 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F)).
+Write the date of expiration of the reconstituted suspension on the bottle label (the shelf-life of the reconstituted suspension is 14 days at controlled room temperature 20° to 25°C (68° to 77°F); excursions permitted between 15° to 30°C (59° to 86°F)).
 
 Instructions for use
 
@@ -78,7 +78,7 @@ The reconstituted oral suspension should only be administered using the oral dis
 
 Incompatibilities
 
-Voriconazole for oral suspension and the 40 mg/mL reconstituted oral suspension should not be mixed with any other medication or additional flavoring agent.
+Voriconazole for Oral Suspension and the 40 mg/mL reconstituted oral suspension should not be mixed with any other medication or additional flavoring agent.
 It is not intended that the suspension be further diluted with water or other vehicles.
 
 ## 2.7 Use in Patients With Hepatic Impairment
@@ -88,19 +88,19 @@ No dose adjustment is necessary in patients with this degree of abnormal liver f
 
 It is recommended that the standard loading dose regimens be used but that the maintenance dose be halved in patients with mild to moderate hepatic cirrhosis (Child-Pugh Class A and B) [see Clinical Pharmacology (12.3)].
 
-Voriconazole for oral suspension, 40 mg/mL has not been studied in patients with severe hepatic cirrhosis (Child-Pugh Class C) or in patients with chronic hepatitis B or chronic hepatitis C disease.
-Voriconazole for oral suspension, 40 mg/mL has been associated with elevations in liver function tests and clinical signs of liver damage, such as jaundice, and should only be used in patients with severe hepatic impairment if the benefit outweighs the potential risk.
-Patients with hepatic insufficiency must be carefully monitored for drug toxicity.
+Voriconazole for oral suspension has not been studied in patients with severe hepatic cirrhosis (Child-Pugh Class C) or in patients with chronic hepatitis B or chronic hepatitis C disease.
+Voriconazole for oral suspension has been associated with elevations in liver function tests and clinical signs of liver damage, such as jaundice, and should only be used in patients with severe hepatic impairment if the benefit outweighs the potential risk.
+Patients with hepatic impairment must be carefully monitored for drug toxicity.
 
 ## 2.8 Use in Patients With Renal Impairment
 
-The pharmacokinetics of orally administered voriconazole for oral suspension, 40 mg/mL are not significantly affected by renal impairment.
+The pharmacokinetics of orally administered voriconazole for oral suspension is not significantly affected by renal impairment.
 Therefore, no adjustment is necessary for oral dosing in patients with mild to severe renal impairment [see Clinical Pharmacology (12.3)].
 
 In patients with moderate or severe renal impairment (creatinine clearance <50 mL/min), accumulation of the intravenous vehicle, SBECD, occurs.
 Oral voriconazole should be administered to these patients, unless an assessment of the benefit/risk to the patient justifies the use of intravenous voriconazole.
 Serum creatinine levels should be closely monitored in these patients, and, if increases occur, consideration should be given to changing to oral voriconazole therapy [see Warnings and Precautions (5.10)].
 
-Voriconazole, USP is hemodialyzed with clearance of 121 mL/min.
+Voriconazole is hemodialyzed with clearance of 121 mL/min.
 The intravenous vehicle, SBECD, is hemodialyzed with clearance of 55 mL/min.
-A 4-hour hemodialysis session does not remove a sufficient amount of voriconazole, USP to warrant dose adjustment.
+A 4-hour hemodialysis session does not remove a sufficient amount of voriconazole to warrant dose adjustment.

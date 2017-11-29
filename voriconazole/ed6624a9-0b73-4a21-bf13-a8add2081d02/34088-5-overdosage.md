@@ -9,7 +9,3 @@ There is no known antidote to voriconazole.
 Voriconazole is hemodialyzed with clearance of 121 mL/min.
 The intravenous vehicle, SBECD, is hemodialyzed with clearance of 55 mL/min.
 In an overdose, hemodialysis may assist in the removal of voriconazole and SBECD from the body.
-
-The minimum lethal oral dose in mice and rats was 300 mg/kg (equivalent to 4 and 7 times the recommended maintenance dose (RMD), based on body surface area).
-At this dose, clinical signs observed in both mice and rats included salivation, mydriasis, titubation (loss of balance while moving), depressed behavior, prostration, partially closed eyes and dyspnea.
-Other signs in mice were convulsions, corneal opacification and swollen abdomen.

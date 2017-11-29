@@ -2,22 +2,37 @@
 
 ## 12.1 Mechanism of Action
 
-Voriconazole is an antifungal drug [see Microbiology (12.4)]
+Voriconazole is an antifungal drug [see Microbiology (12.4)].
+
+## 12.2 Pharmacodynamics
+
+Exposure-Response Relationship For Efficacy and Safety
+
+In 10 clinical trials (N=1121), the median values for the average and maximum voriconazole plasma concentrations in individual patients across these studies was 2.51 mcg/mL (inter-quartile range 1.21 to 4.44 mcg/mL) and 3.79 mcg/mL (inter-quartile range 2.06 to 6.31 mcg/mL), respectively.
+A pharmacokinetic-pharmacodynamic analysis of patient data from 6 of these 10 clinical trials (N=280) could not detect a positive association between mean, maximum or minimum plasma voriconazole concentration and efficacy.
+However, pharmacokinetic/ pharmacodynamic analyses of the data from all 10 clinical trials identified positive associations between plasma voriconazole concentrations and rate of both liver function test abnormalities and visual disturbances [see Adverse Reactions (6)].
+
+Cardiac Electrophysiology
+
+A placebo-controlled, randomized, crossover study to evaluate the effect on the QT interval of healthy male and female subjects was conducted with three single oral doses of voriconazole and ketoconazole.
+Serial ECGs and plasma samples were obtained at specified intervals over a 24-hour post dose observation period.
+The placebo-adjusted mean maximum increases in QTc from baseline after 800, 1200, and 1600 mg of voriconazole and after ketoconazole 800 mg were all <10 msec.
+Females exhibited a greater increase in QTc than males, although all mean changes were <10 msec.
+Age was not found to affect the magnitude of increase in QTc.
+No subject in any group had an increase in QTc of ≥ 60 msec from baseline.
+No subject experienced an interval exceeding the potentially clinically relevant threshold of 500 msec.
+However, the QT effect of voriconazole combined with drugs known to prolong the QT interval is unknown [see Contraindications (4) and Drug Interactions (7)].
 
 ## 12.3 Pharmacokinetics
 
-General Pharmacokinetic Characteristics
-
 The pharmacokinetics of voriconazole have been characterized in healthy subjects, special populations and patients.
-
-During oral administration of 200 mg or 300 mg twice daily for 14 days in patients at risk of aspergillosis (mainly patients with malignant neoplasms of lymphatic or hematopoietic tissue), the observed pharmacokinetic characteristics were similar to those observed in healthy subjects.
 
 The pharmacokinetics of voriconazole are non-linear due to saturation of its metabolism.
 The interindividual variability of voriconazole pharmacokinetics is high.
 Greater than proportional increase in exposure is observed with increasing dose.
-It is estimated that, on average, increasing the oral dose from 200 mg q12h to 300 mg q12h leads to an approximately 2.5-fold increase in exposure (AUCτ); similarly, increasing the intravenous dose from 3 mg/kg q12h to 4 mg/kg q12h produces an approximately 2.5-fold increase in exposure (Table 8).
+It is estimated that, on average, increasing the oral dose from 200 mg q12h to 300 mg q12h leads to an approximately 2.5-fold increase in exposure (AUCτ); similarly, increasing the intravenous dose from 3 mg/kg q12h to 4 mg/kg q12h produces an approximately 2.5-fold increase in exposure (Table 9).
 
-Table 8:
+Table 9:
 
 Geometric Mean (%CV) Plasma Voriconazole Pharmacokinetic Parameters in Adults Receiving Different Dosing Regimens
 
@@ -33,14 +48,12 @@ Note: Parameters were estimated based on non-compartmental analysis from 5 pharm
 AUC12 = area under the curve over 12 hour dosing interval, Cmax = maximum plasma concentration, Cmin = minimum plasma concentration.
 CV = coefficient of variation.
 
-Sparse plasma sampling for pharmacokinetics was conducted in the therapeutic studies in patients aged 12 to 18 years.
-In 11 adolescent patients who received a mean voriconazole maintenance dose of 4 mg/kg IV, the median of the calculated mean plasma concentrations was 1.60 mcg/mL (inter-quartile range 0.28 to 2.73 mcg/mL).
-In 17 adolescent patients for whom mean plasma concentrations were calculated following a mean oral maintenance dose of 200 mg q12h, the median of the calculated mean plasma concentrations was 1.16 mcg/mL (inter-quartile range 0.85 to 2.14 mcg/mL).
-
 When the recommended intravenous loading dose regimen is administered to healthy subjects, plasma concentrations close to steady-state are achieved within the first 24 hours of dosing (eg, 6 mg/kg IV q12h on day 1 followed by 3 mg/kg IV q12h).
 Without the loading dose, accumulation occurs during twice-daily multiple dosing with steady-state plasma voriconazole concentrations being achieved by day 6 in the majority of subjects.
 
-Absorption – The pharmacokinetic properties of voriconazole are similar following administration by the intravenous and oral routes.
+Absorption
+
+The pharmacokinetic properties of voriconazole are similar following administration by the intravenous and oral routes.
 Based on a population pharmacokinetic analysis of pooled data in healthy subjects (N=207), the oral bioavailability of voriconazole is estimated to be 96% (CV 13%).
 Bioequivalence was established between the 200 mg tablet and the 40 mg/mL oral suspension when administered as a 400 mg q12h loading dose followed by a 200 mg q12h maintenance dose.
 
@@ -49,46 +62,37 @@ When multiple doses of voriconazole are administered with high-fat meals, the me
 
 In healthy subjects, the absorption of voriconazole is not affected by co-administration of oral ranitidine, cimetidine, or omeprazole, drugs that are known to increase gastric pH.
 
-Distribution – The volume of distribution at steady-state for voriconazole is estimated to be 4.6 L/kg, suggesting extensive distribution into tissues.
-Plasma protein binding is estimated to be 58% and was shown to be independent of plasma concentrations achieved following single and multiple oral doses of 200 mg or 300 mg (approximate range: 0.9 to 15 mcg/mL).
-Varying degrees of hepatic and renal insufficiency do not affect the protein binding of voriconazole.
+Distribution
 
-Metabolism – In vitro studies showed that voriconazole is metabolized by the human hepatic cytochrome P450 enzymes, CYP2C19, CYP2C9 and CYP3A4 [see Drug Interactions (7)].
+The volume of distribution at steady-state for voriconazole is estimated to be 4.6 L/kg, suggesting extensive distribution into tissues.
+Plasma protein binding is estimated to be 58% and was shown to be independent of plasma concentrations achieved following single and multiple oral doses of 200 mg or 300 mg (approximate range: 0.9 to 15 mcg/mL).
+Varying degrees of hepatic and renal impairment do not affect the protein binding of voriconazole.
+
+Elimination
+
+Metabolism
+
+In vitro studies showed that voriconazole is metabolized by the human hepatic cytochrome P450 enzymes, CYP2C19, CYP2C9 and CYP3A4 [see Drug Interactions (7)].
 
 In vivo studies indicated that CYP2C19 is significantly involved in the metabolism of voriconazole.
-This enzyme exhibits genetic polymorphism.
-For example, 15% to 20% of Asian populations may be expected to be poor metabolizers.
-For Caucasians and Blacks, the prevalence of poor metabolizers is 3% to 5%.
-Studies conducted in Caucasian and Japanese healthy subjects have shown that poor metabolizers have, on average, 4-fold higher voriconazole exposure (AUCτ) than their homozygous extensive metabolizer counterparts.
-Subjects who are heterozygous extensive metabolizers have, on average, 2-fold higher voriconazole exposure than their homozygous extensive metabolizer counterparts.
+This enzyme exhibits genetic polymorphism [see Clinical Pharmacology (12.5)].
 
 The major metabolite of voriconazole is the N-oxide, which accounts for 72% of the circulating radiolabelled metabolites in plasma.
 Since this metabolite has minimal antifungal activity, it does not contribute to the overall efficacy of voriconazole.
 
-Excretion – Voriconazole is eliminated via hepatic metabolism with less than 2% of the dose excreted unchanged in the urine.
+Excretion
+
+Voriconazole is eliminated via hepatic metabolism with less than 2% of the dose excreted unchanged in the urine.
 After administration of a single radiolabelled dose of either oral or IV voriconazole, preceded by multiple oral or IV dosing, approximately 80% to 83% of the radioactivity is recovered in the urine.
 The majority (>94%) of the total radioactivity is excreted in the first 96 hours after both oral and intravenous dosing.
 
 As a result of non-linear pharmacokinetics, the terminal half-life of voriconazole is dose dependent and therefore not useful in predicting the accumulation or elimination of voriconazole.
 
-Pharmacokinetic-Pharmacodynamic Relationships
+Specific Populations
 
-Clinical Efficacy and Safety – In 10 clinical trials, the median values for the average and maximum voriconazole plasma concentrations in individual patients across these studies (N=1121) was 2.51 mcg/mL (inter-quartile range 1.21 to 4.44 mcg/mL) and 3.79 mcg/mL (inter-quartile range 2.06 to 6.31 mcg/mL), respectively.
-A pharmacokinetic-pharmacodynamic analysis of patient data from 6 of these 10 clinical trials (N=280) could not detect a positive association between mean, maximum or minimum plasma voriconazole concentration and efficacy.
-However, pharmacokinetic/pharmacodynamic analyses of the data from all 10 clinical trials identified positive associations between plasma voriconazole concentrations and rate of both liver function test abnormalities and visual disturbances [see Adverse Reactions (6)].
+Male and Female Patients
 
-Electrocardiogram – A placebo-controlled, randomized, crossover study to evaluate the effect on the QT interval of healthy male and female subjects was conducted with three single oral doses of voriconazole and ketoconazole.
-Serial ECGs and plasma samples were obtained at specified intervals over a 24-hour post dose observation period.
-The placebo-adjusted mean maximum increases in QTc from baseline after 800, 1200 and 1600 mg of voriconazole and after ketoconazole 800 mg were all <10 msec.
-Females exhibited a greater increase in QTc than males, although all mean changes were <10 msec.
-Age was not found to affect the magnitude of increase in QTc.
-No subject in any group had an increase in QTc of ≥60 msec from baseline.
-No subject experienced an interval exceeding the potentially clinically relevant threshold of 500 msec.
-However, the QT effect of voriconazole combined with drugs known to prolong the QT interval is unknown [see Contraindications (4) and Drug Interactions (7)].
-
-Pharmacokinetics in Special Populations
-
-Gender – In a multiple oral dose study, the mean Cmax and AUCτ for healthy young females were 83% and 113% higher, respectively, than in healthy young males (18 to 45 years), after tablet dosing.
+In a multiple oral dose study, the mean Cmax and AUCτ for healthy young females were 83% and 113% higher, respectively, than in healthy young males (18 to 45 years), after tablet dosing.
 In the same study, no significant differences in the mean Cmax and AUCτ were observed between healthy elderly males and healthy elderly females (>65 years).
 In a similar study, after dosing with the oral suspension, the mean AUC for healthy young females was 45% higher than in healthy young males whereas the mean Cmax was comparable between genders.
 The steady-state trough voriconazole concentrations (Cmin) seen in females were 100% and 91% higher than in males receiving the tablet and the oral suspension, respectively.
@@ -97,28 +101,35 @@ In the clinical program, no dosage adjustment was made on the basis of gender.
 The safety profile and plasma concentrations observed in male and female subjects were similar.
 Therefore, no dosage adjustment based on gender is necessary.
 
-Geriatric – In an oral multiple dose study the mean Cmax and AUCτ in healthy elderly males (≥65 years) were 61% and 86% higher, respectively, than in young males (18 to 45 years).
+Geriatric Patients
+
+In an oral multiple dose study the mean Cmax and AUCτ in healthy elderly males (≥65 years) were 61% and 86% higher, respectively, than in young males (18 to 45 years).
 No significant differences in the mean Cmax and AUCτ were observed between healthy elderly females (≥65 years) and healthy young females (18 to 45 years).
 
 In the clinical program, no dosage adjustment was made on the basis of age.
 An analysis of pharmacokinetic data obtained from 552 patients from 10 voriconazole clinical trials showed that the median voriconazole plasma concentrations in the elderly patients (>65 years) were approximately 80% to 90% higher than those in the younger patients (≤65 years) after either IV or oral administration.
 However, the safety profile of voriconazole in young and elderly subjects was similar and, therefore, no dosage adjustment is necessary for the elderly [see Use in Special Populations (8.5)].
 
-Pediatric – A population pharmacokinetic analysis was conducted on pooled data from 35 immunocompromised pediatric patients aged 2 to <12 years old who were included in two pharmacokinetic studies of intravenous voriconazole (single dose and multiple dose).
-Twenty-four of these patients received multiple intravenous maintenance doses of 3 mg/kg and 4 mg/kg.
-A comparison of the pediatric and adult population pharmacokinetic data revealed that the predicted average steady-state plasma concentrations were similar at the maintenance dose of 4 mg/kg every 12 hours in children and 3 mg/kg every 12 hours in adults (medians of 1.19 mcg/mL and 1.16 mcg/mL in children and adults, respectively) [see Use in Specific Populations (8.4)].
+Pediatric Patients
 
-Hepatic Impairment – After a single oral dose (200 mg) of voriconazole in 8 patients with mild (Child-Pugh Class A) and 4 patients with moderate (Child-Pugh Class B) hepatic insufficiency, the mean systemic exposure (AUC) was 3.2-fold higher than in age and weight matched controls with normal hepatic function.
+Sparse plasma sampling for pharmacokinetics was conducted in the therapeutic studies in patients aged 12 to 18 years.
+In 11 adolescent patients who received a mean voriconazole maintenance dose of 4 mg/kg IV, the median of the calculated mean plasma concentrations was 1.60 mcg/mL (inter-quartile range 0.28 to 2.73 mcg/mL).
+In 17 adolescent patients for whom mean plasma concentrations were calculated following a mean oral maintenance dose of 200 mg every 12h, the median of the calculated mean plasma concentrations was 1.16 mcg/mL (inter-quartile range 0.85 to 2.14 mcg/mL).
+
+Patients with Hepatic Impairment
+
+After a single oral dose (200 mg) of voriconazole in 8 patients with mild (Child-Pugh Class A) and 4 patients with moderate (Child-Pugh Class B) hepatic impairment, the mean systemic exposure (AUC) was 3.2-fold higher than in age and weight matched controls with normal hepatic function.
 There was no difference in mean peak plasma concentrations (Cmax) between the groups.
-When only the patients with mild (Child-Pugh Class A) hepatic insufficiency were compared to controls, there was still a 2.3-fold increase in the mean AUC in the group with hepatic insufficiency compared to controls.
+When only the patients with mild (Child-Pugh Class A) hepatic impairment were compared to controls, there was still a 2.3-fold increase in the mean AUC in the group with hepatic impairment compared to controls.
 
 In an oral multiple dose study, AUCτ was similar in 6 subjects with moderate hepatic impairment (Child-Pugh Class B) given a lower maintenance dose of 100 mg twice daily compared to 6 subjects with normal hepatic function given the standard 200 mg twice daily maintenance dose.
 The mean peak plasma concentrations (Cmax) were 20% lower in the hepatically impaired group.
 
-It is recommended that the standard loading dose regimens be used but that the maintenance dose be halved in patients with mild to moderate hepatic cirrhosis (Child-Pugh Class A and B) receiving voriconazole.
 No pharmacokinetic data are available for patients with severe hepatic cirrhosis (Child-Pugh Class C) [see Dosage and Administration (2.7)].
 
-Renal Impairment – In a single oral dose (200 mg) study in 24 subjects with normal renal function and mild to severe renal impairment, systemic exposure (AUC) and peak plasma concentration (Cmax) of voriconazole were not significantly affected by renal impairment.
+Patients with Renal Impairment
+
+In a single oral dose (200 mg) study in 24 subjects with normal renal function and mild to severe renal impairment, systemic exposure (AUC) and peak plasma concentration (Cmax) of voriconazole were not significantly affected by renal impairment.
 Therefore, no adjustment is necessary for oral dosing in patients with mild to severe renal impairment.
 
 In a multiple dose study of IV voriconazole (6 mg/kg IV loading dose x 2, then 3 mg/kg IV x 5.5 days) in 7 patients with moderate renal dysfunction (creatinine clearance 30 to 50 mL/min), the systemic exposure (AUC) and peak plasma concentrations (Cmax) were not significantly different from those in 6 subjects with normal renal function.
@@ -126,17 +137,19 @@ In a multiple dose study of IV voriconazole (6 mg/kg IV loading dose x 2, then 3
 However, in patients with moderate renal dysfunction (creatinine clearance 30 to 50 mL/min), accumulation of the intravenous vehicle, SBECD, occurs.
 The mean systemic exposure (AUC) and peak plasma concentrations (Cmax) of SBECD were increased 4-fold and almost 50%, respectively, in the moderately impaired group compared to the normal control group.
 
-Intravenous voriconazole should be avoided in patients with moderate or severe renal impairment (creatinine clearance <50 mL/min), unless an assessment of the benefit/risk to the patient justifies the use of intravenous voriconazole [see Dosage and Administration (2.8)].
-
 A pharmacokinetic study in subjects with renal failure undergoing hemodialysis showed that voriconazole is dialyzed with clearance of 121 mL/min.
 The intravenous vehicle, SBECD, is hemodialyzed with clearance of 55 mL/min.
-A 4-hour hemodialysis session does not remove a sufficient amount of voriconazole to warrant dose adjustment.
+A 4-hour hemodialysis session does not remove a sufficient amount of voriconazole to warrant dose adjustment [see Dosage and Administration (2.8)].
 
-Drug Interactions
+Patients at Risk of Aspergillosis
+
+The observed voriconazole pharmacokinetics in patients at risk of aspergillosis (mainly patients with malignant neoplasms of lymphatic or hematopoietic tissue) were similar to healthy subjects.
+
+Drug Interaction Studies
 
 Effects of Other Drugs on Voriconazole
 
-Voriconazole is metabolized by the human hepatic cytochrome P450 enzymes CYP2C19, CYP2C9 and CYP3A4.
+Voriconazole is metabolized by the human hepatic cytochrome P450 enzymes CYP2C19, CYP2C9, and CYP3A4.
 Results of in vitro metabolism studies indicate that the affinity of voriconazole is highest for CYP2C19, followed by CYP2C9, and is appreciably lower for CYP3A4.
 Inhibitors or inducers of these three enzymes may increase or decrease voriconazole systemic exposure (plasma concentrations), respectively.
 
@@ -158,7 +171,7 @@ In contrast, co-administration of single oral doses of St. John’s Wort and vor
 Because long-term use of St. John’s Wort could lead to reduced voriconazole exposure, concomitant use of voriconazole with St. John’s Wort is contraindicated [see Contraindications (4)].
 
 Carbamazepine and long-acting barbiturates (potent CYP450 inducers) – Although not studied in vitro or in vivo, carbamazepine and long-acting barbiturates (e.g., phenobarbital, mephobarbital) are likely to significantly decrease plasma voriconazole concentrations.
-Co-administration of voriconazole with carbamazepine or long-acting barbiturates is contraindicated [see Contraindications (4) and Warnings and Precautions (5.1)].
+Co-administration of voriconazole with carbamazepine or long-acting barbiturates is contraindicated [see Contraindications (4)and Warnings and Precautions (5.1)].
 
 Significant drug interactions that may require voriconazole dosage adjustment, or frequent monitoring of voriconazole-related adverse events/toxicity:
 
@@ -178,7 +191,7 @@ The effects of voriconazole on the pharmacokinetics of either erythromycin or az
 
 Effects of Voriconazole on Other Drugs
 
-In vitro studies with human hepatic microsomes show that voriconazole inhibits the metabolic activity of the cytochrome P450 enzymes CYP2C19, CYP2C9 and CYP3A4.
+In vitro studies with human hepatic microsomes show that voriconazole inhibits the metabolic activity of the cytochrome P450 enzymes CYP2C19, CYP2C9, and CYP3A4.
 In these studies, the inhibition potency of voriconazole for CYP3A4 metabolic activity was significantly less than that of two other azoles, ketoconazole and itraconazole.
 In vitro studies also show that the major metabolite of voriconazole, voriconazole N-oxide, inhibits the metabolic activity of CYP2C9 and CYP3A4 to a greater extent than that of CYP2C19.
 Therefore, there is potential for voriconazole and its major metabolite to increase the systemic exposure (plasma concentrations) of other drugs metabolized by these CYP450 enzymes.
@@ -243,7 +256,7 @@ It is recommended that dose adjustment of the statin be considered during co-adm
 Increased statin concentrations in plasma have been associated with rhabdomyolysis [see Warnings and Precautions (5.1)].
 
 Benzodiazepines (CYP3A4 substrates) – Although not studied clinically, voriconazole has been shown to inhibit midazolam metabolism in vitro (human liver microsomes).
-Therefore, voriconazole is likely to increase the plasma concentrations of benzodiazepines that are metabolized by CYP3A4 (e.g., midazolam, triazolam and alprazolam) and lead to a prolonged sedative effect.
+Therefore, voriconazole is likely to increase the plasma concentrations of benzodiazepines that are metabolized by CYP3A4 (e.g., midazolam, triazolam, and alprazolam) and lead to a prolonged sedative effect.
 It is recommended that dose adjustment of the benzodiazepine be considered during co-administration [see Warnings and Precautions (5.1)].
 
 Calcium Channel Blockers (CYP3A4 substrates) – Although not studied clinically, voriconazole has been shown to inhibit felodipine metabolism in vitro (human liver microsomes).
@@ -251,11 +264,11 @@ Therefore, voriconazole may increase the plasma concentrations of calcium channe
 Frequent monitoring for adverse events and toxicity related to calcium channel blockers is recommended during co-administration.
 Dose adjustment of the calcium channel blocker may be needed [see Warnings and Precautions (5.1)].
 
-Sulfonylureas (CYP2C9 substrates) – Although not studied in vitro or in vivo, voriconazole may increase plasma concentrations of sulfonylureas (e.g., tolbutamide, glipizide and glyburide) and therefore cause hypoglycemia.
+Sulfonylureas (CYP2C9 substrates) – Although not studied in vitro or in vivo, voriconazole may increase plasma concentrations of sulfonylureas (e.g., tolbutamide, glipizide, and glyburide) and therefore cause hypoglycemia.
 Frequent monitoring of blood glucose and appropriate adjustment (i.e., reduction) of the sulfonylurea dosage is recommended during co-administration [see Warnings and Precautions (5.1)].
 
 Vinca Alkaloids (CYP3A4 substrates) – Although not studied in vitro or in vivo, voriconazole may increase the plasma concentrations of the vinca alkaloids (e.g., vincristine and vinblastine) and lead to neurotoxicity.
-Therefore, it is recommended that dose adjustment of the vinca alkaloid be considered [see Warnings and Precautions (5.1)].
+Therefore, reserve azole antifungals, including voriconazole, for patients receiving a vinca alkaloid, including vincristine, who have no alternative antifungal treatment options [see Warnings and Precautions (5.1)].
 
 Non-Steroidal Anti-Inflammatory Drugs (NSAIDs; CYP2C9 substrates): In two independent published studies, single doses of ibuprofen (400 mg) and diclofenac (50 mg) were co-administered with the last dose of voriconazole (400 mg q12h on Day 1, followed by 200 mg q12h on Day 2).
 Voriconazole increased the mean Cmax and AUC of the pharmacologically active isomer, S (+)-ibuprofen by 20% and 100%, respectively.
@@ -294,7 +307,7 @@ Co-administration of voriconazole 400 mg q12h with efavirenz 300 mg q24h, decrea
 Co-administration of standard doses of voriconazole and efavirenz (400 mg q24h or higher) is contraindicated.
 
 Voriconazole may be co-administered with efavirenz if the voriconazole maintenance dose is increased to 400 mg q12h and the efavirenz dose is decreased to 300 mg q24h.
-When treatment with voriconazole is stopped, the initial dosage of efavirenz should be restored [see Dosage and Administration (2.4), Contraindication (4) and Drug Interactions (7)].
+When treatment with voriconazole is stopped, the initial dosage of efavirenz should be restored [see Dosage and Administration (2.4), Contraindication (4), and Drug Interactions (7)].
 
 Phenytoin (CYP2C9 substrate and potent CYP450 inducer) – Repeat dose administration of phenytoin (300 mg once daily) decreased the steady-state Cmax and AUCτ of orally administered voriconazole (200 mg q12h x 14 days) by an average of 50% and 70%, respectively, in healthy subjects.
 Administration of a higher voriconazole dose (400 mg q12h x 7 days) with phenytoin (300 mg once daily) resulted in comparable steady-state voriconazole Cmax and AUCτ estimates as compared to when voriconazole was given at 200 mg q12h without phenytoin.
@@ -339,22 +352,23 @@ Dose adjustments are required when voriconazole is co-administered with efaviren
 
 Mechanism of Action
 
-Voriconazole is an azole antifungal agent.
+Voriconazole is an azole antifungal drug.
 The primary mode of action of voriconazole is the inhibition of fungal cytochrome P-450-mediated 14 alpha-lanosterol demethylation, an essential step in fungal ergosterol biosynthesis.
 The accumulation of 14 alpha-methyl sterols correlates with the subsequent loss of ergosterol in the fungal cell wall and may be responsible for the antifungal activity of voriconazole.
 
 Drug Resistance
 
-Voriconazole drug resistance development has not been adequately studied in vitro against Candida, Aspergillus, Scedosporium and Fusarium species.
+A potential for development of resistance to voriconazole is well known.
+The mechanisms of resistance may include mutations in the gene ERG11 (encodes for the target enzyme, lanosterol 14-α-demethylase), upregulation of genes encoding the ATP-binding cassette efflux transporters i.e., Candida drug resistance (CDR) pumps and reduced access of the drug to the target, or some combination of those mechanisms.
 The frequency of drug resistance development for the various fungi for which this drug is indicated is not known.
 
 Fungal isolates exhibiting reduced susceptibility to fluconazole or itraconazole may also show reduced susceptibility to voriconazole, suggesting cross-resistance can occur among these azoles.
 The relevance of cross-resistance and clinical outcome has not been fully characterized.
 Clinical cases where azole cross-resistance is demonstrated may require alternative antifungal therapy.
 
-Activity In Vitro and In Vivo
+Antimicrobial Activity
 
-Voriconazole has been shown to be active against most strains of the following microorganisms, both in vitro and in clinical infections.
+Voriconazole has been shown to be active against most isolates of the following microorganisms, both in vitro and in clinical infections.
 
 Aspergillus fumigatus
 
@@ -379,17 +393,18 @@ Fusarium spp. including Fusarium solani
 Scedosporium apiospermum
 
 * In clinical studies, voriconazole MIC90 for C. glabrata baseline isolates was 4 mcg/mL; 13/50 (26%) C. glabrata baseline isolates were resistant (MIC ≥4 mcg/mL) to voriconazole.
-However, based on 1054 isolates tested in surveillance studies the MIC90 was 1 mcg/mL (see Table 9).
+However, based on 1054 isolates tested in surveillance studies the MIC90 was 1 mcg/mL (see Table 12).
 
 The following data are available, but their clinical significance is unknown.
 
-Voriconazole exhibits in vitro minimal inhibitory concentrations (MICs) of 1 mcg/mL or less against most (≥90%) isolates of the following microorganisms; however, the safety and effectiveness of voriconazole in treating clinical infections due to these Candida species have not been established in adequate and well-controlled clinical trials:
+At least 90 percent of the following fungi exhibit an in vitro minimum inhibitory concentrations (MIC) less than or equal to the susceptible breakpoint for voriconazole against isolates of similar genus or organism group.
+However, the effectiveness of voriconazole in treating clinical infections due to these fungi has not been established in adequate and well-controlled clinical trials:
 
 Candida lusitaniae
 
 Candida guilliermondii
 
-Susceptibility Testing Methods1,2
+Susceptibility Testing Methods1,2,3
 
 Aspergillus species and other filamentous fungi
 
@@ -397,45 +412,62 @@ No interpretive criteria have been established for Aspergillus species and other
 
 Candida species
 
-The interpretive standards for voriconazole against Candida species are applicable only to tests performed using Clinical Laboratory and Standards Institute (CLSI) microbroth dilution reference method M27 for MIC read at 48 hours or disk diffusion reference method M44 for zone diameter read at 24 hours.1,2
+The interpretive standards for voriconazole against Candida species are applicable only to tests performed using Clinical Laboratory and Standards Institute (CLSI) microbroth dilution reference method M27 for MIC read at 24 hours or disk diffusion reference method M44 for zone diameter read at 24 hours.1,2,3
 
-Broth Microdilution Techniques – Quantitative methods are used to determine antifungal minimum inhibitory concentrations (MICs).
+Dilution Techniques
+
+Quantitative methods are used to determine antifungal MICs.
 These MICs provide estimates of the susceptibility of Candida spp. to antifungal agents.
-MICs should be determined using a standardized procedure at 48 hours.1 Standardized procedures are based on a microdilution method (broth) with standardized inoculum concentrations and standardized concentrations of voriconazole powder.
-The MIC values should be interpreted according to the criteria provided in Table 9.
+The MICs should be determined using a standardized test method at 24 hours1,2 (broth dilution).
+The MIC values should be interpreted according to the criteria provided in Table 10.
 
-Diffusion Techniques – Qualitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of Candida spp. to an antifungal agent.
+Diffusion Techniques
+
+Qualitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of Candida spp. to an antifungal agent.
 One such standardized procedure requires the use of standardized inoculum concentrations.2 This procedure uses paper disks impregnated with 1 mcg of voriconazole to test the susceptibility of yeasts to voriconazole at 24 hours.
-Disk diffusion interpretive criteria are also provided in Table 9.
+Disk diffusion interpretive criteria are also provided in Table 10.
 
-Table 9: Susceptibility Interpretive Criteria for Voriconazole1,2
+Table 10: Susceptibility Interpretive Criteria for Voriconazole1,2,3
 
-|  | Broth Microdilution at 48 hours (MIC in mcg/mL) |  |  | Disk Diffusion at 24 hours (Zone diameters in mm) |  |  |
+| Susceptibility Interpretive Criteria for Voriconazole1,2,3 Broth Microdilution at 24 hours (MIC in mcg/mL) |  |  |  | Disk Diffusion at 24 hours* (Zone diameters in mm) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | Susceptible (S) | Intermediate (I) | Resistant (R) | Susceptible (S) | Intermediate (I) | Resistant (R) |
-| Voriconazole | ≤1 | 2 | ≥4 | ≥17 | 14 to 16 | ≤13 |
+| Susceptible (S) | Intermediate (I) | Resistant (R) |  | Susceptible (S) | Intermediate (I) | Resistant (R) |
+| C. albicans | ≤ 0.12 | 0.25 to 0.5 | ≥1 | ≥17 | 15 to 16 | ≤ 14 |
+| C. krusei | ≤0.5 | 1 | ≥2 | ≥15 | 13 to 14 | ≤ 12 |
+| C.parapsilosis | ≤0.12 | 0.25 to 0.5 | ≥1 | ≥17 | 15 to 16 | ≤ 14 |
+| C. tropicalis | ≤0.12 | 0.25 to 0.5 | ≥1 | ≥17 | 15 to 16 | ≤ 14 |
+| * The current data are insufficient to demonstrate a correlation between in vitro susceptibility testing and clinical outcome for C. glabrata and voriconazole. |  |  |  |  |  |  |
 
-NOTE: Shown are the breakpoints (mcg/mL) for voriconazole against Candida species.
-
-A report of Susceptible (S) indicates that the antimicrobial drug is likely to inhibit growth of the microorganism if the antimicrobial drug reaches the concentration usually achievable at the site of infection.
-A report of Intermediate (I) implies that an infection due to the isolate may be appropriately treated in body sites where the drugs are physiologically concentrated or when a high dosage of drug is used.
+A report of Susceptible (S) indicates that the pathogen if the antimicrobial drug reaches the concentration usually achievable at the site of infection.
+A report of Intermediate (I) indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
+This category implies possible clinical applicability in body sites where the drugs are physiologically concentrated or when a high dosage of drug is used.
+This category also provides a buffer zone that prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
 A report of Resistant (R) indicates that the antimicrobial is not likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentrations usually achievable at the infection site; other therapy should be selected.
 
 Quality Control
 
-Standardized susceptibility test procedures require the use of quality control organisms to ensure the accuracy of the technical aspects of the test procedures.
-Standard voriconazole powder and 1 mcg disks should provide the following range of values noted in Table 10.
+Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test1,2,3.
+Standard voriconazole powder should provide the following range of MIC values noted in Table 11.
+For the diffusion technique using the 1 mcg disk, the criteria in Table 11 should be achieved.
 
 NOTE: Quality control microorganisms are specific strains of organisms with intrinsic biological properties relating to resistance mechanisms and their genetic expression within fungi; the specific strains used for microbiological control are not clinically significant.
 
-Table 10: Acceptable Quality Control Ranges for Voriconazole to be used in Validation of Susceptibility Test Results
+Table 11: Acceptable Quality Control Ranges for Voriconazole to be used in Validation of Susceptibility Test Results
 
-| QC Strain | Broth Microdilution (MIC in mcg/mL) at 48-hour | Disk Diffusion (Zone diameter in mm) at 24-hour |
+| QC Strain | Broth Microdilution (MIC in mcg/mL) at 24-hour | Disk Diffusion (Zone diameter in mm) at 24-hour |
 | --- | --- | --- |
-| Candida parapsilosis ATCC 22019 | 0.03 to 0.25 | 28 to 37 |
-| Candida krusei ATCC 6258 | 0.12 to 1 | 16 to 25 |
+| Candida parapsilosis ATCC 22019 | 0.016 to 0.12 | 28 to 37 |
+| Candida krusei ATCC 6258 | 0.06 to 0.5 | 16 to 25 |
 | Candida albicans ATCC 90028 | * | 31 to 42 |
 
 * Quality control ranges have not been established for this strain/antifungal agent combination due to their extensive interlaboratory variation during initial quality control studies.
 
 ATCC is a registered trademark of the American Type Culture Collection.
+
+## 12.5 Pharmacogenomics
+
+CYP2C19, significantly involved in the metabolism of voriconazole, exhibits genetic polymorphism.
+Approximately 15 % to 20% of Asian populations may be expected to be poor metabolizers.
+For Caucasians and Blacks, the prevalence of poor metabolizers is 3 % to 5%.
+Studies conducted in Caucasian and Japanese healthy subjects have shown that poor metabolizers have, on average, 4-fold higher voriconazole exposure (AUCτ) than their homozygous extensive metabolizer counterparts.
+Subjects who are heterozygous extensive metabolizers have, on average, 2-fold higher voriconazole exposure than their homozygous extensive metabolizer counterparts [see Clinical Pharmacology (12.3)].
