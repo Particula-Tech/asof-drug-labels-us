@@ -15,9 +15,9 @@
    Doxycycline; LactMed Record Number: 100; [about 3 screens].
    Available from: http://toxnet.nlm.nih.gov/newtoxnet/lactmed.htm
 5. Clinical and Laboratory Standards Institute (CLSI).
-   Performance Standards for Antimicrobial Susceptibility Testing; Twenty-sixth Edition.
-   CLSI Supplement M100S.
-   Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA, 2016.
+   Performance Standards for Antimicrobial Susceptibility Testing; Twenty-sevent Informational Supplement.
+   CLSI document M100S.
+   Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA, 2017.
 6. Clinical and Laboratory Standards Institute (CLSI).
    Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria that Grow Aerobically; Approved Standard – Tenth Edition.
    CLSI document M07-A10, Clinical Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA, 2015.

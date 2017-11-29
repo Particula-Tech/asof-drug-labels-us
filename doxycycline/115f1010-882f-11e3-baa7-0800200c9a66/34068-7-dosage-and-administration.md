@@ -20,7 +20,7 @@
   2. Uncomplicated urethral, endocervical, or rectal infection caused by Chlamydia trachomatis: 100 mg by mouth twice-a-day for 7 days.
   3. Uncomplicated gonococcal infections in adults (except anorectal infections in men): 100 mg, by mouth, twice-a-day for 7 days.
      As an alternate single visit dose, administer 300 mg stat followed in one hour by a second 300 mg dose.
-  4. Nongonococcal urethritis (NGU) caused by C. trachomatis and U. urealyticum: 100 mg by mouth twice a day for 7 days.
+  4. Nongonococcal urethritis (NGU) caused by C. trachomatis and U. urealyticum: 100 mg by mouth twice-a-day for 7 days.
   5. Syphilis – early: Patients who are allergic to penicillin should be treated with doxycycline 100 mg by mouth twice-a-day for 2 weeks.
   6. Syphilis of more than one year’s duration: Patients who are allergic to penicillin should be treated with doxycycline 100 mg by mouth twice-a-day for 4 weeks.
   7. Acute epididymo-orchitis caused by N. gonorrhoeae: 100 mg by mouth, twice-a-day for at least 10 days.

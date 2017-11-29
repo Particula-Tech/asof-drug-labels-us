@@ -29,4 +29,4 @@ AQUA PHARMACEUTICALS an Almirall company
 Manufactured by Catalent Pharma Solutions, Winchester, KY 40391 For Aqua Pharmaceuticals, an Almirall Company Exton, PA 19341
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-Revised: 04/2016 Rx only
+Revised: 10/2017 Rx only
