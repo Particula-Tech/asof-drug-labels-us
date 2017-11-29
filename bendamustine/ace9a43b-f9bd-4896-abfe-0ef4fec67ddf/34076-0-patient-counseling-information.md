@@ -21,11 +21,11 @@ They should be instructed to report shortness of breath, significant fatigue, bl
   Advise patients to report pregnancy immediately.
   Advise patients to avoid nursing while receiving BENDEKA (bendamustine hydrochloride) [see Use in Specific Populations (8.1) and (8.2)]
 
-BEN-003
+BEN-005
 
 Distributed By: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
 Rev.
-02/2017
+09/2017
 
 All rights reserved.

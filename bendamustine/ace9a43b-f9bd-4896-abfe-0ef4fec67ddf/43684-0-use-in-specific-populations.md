@@ -84,9 +84,7 @@ No clinically significant differences between genders were seen in the overall i
 
 Chronic Lymphocytic Leukemia
 
-In the randomized CLL clinical study, the overall response rate (ORR) for men (n=97)
-
-and women (n=56) in the bendamustine hydrochloride group was 60% and 57%, respectively.
+In the randomized CLL clinical study, the overall response rate (ORR) for men (n=97) and women (n=56) in the bendamustine hydrochloride group was 60% and 57%, respectively.
 The ORR for men (n=90) and women (n=58) in the chlorambucil group was 24% and 28%, respectively.
 In this study, the median progression-free survival for men was 19 months in the bendamustine hydrochloride treatment group and 6 months in the chlorambucil treatment group.
 For women, the median progression-free survival was 13 months in the bendamustine hydrochloride treatment group and 8 months in the chlorambucil treatment group.

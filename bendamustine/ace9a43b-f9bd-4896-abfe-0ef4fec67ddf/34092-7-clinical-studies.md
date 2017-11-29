@@ -70,4 +70,4 @@ Table 6: Efficacy Data for NHL*
 | Duration of Response (DR) |  |
 | Median, months (95% CI) | 9.2 months (7.1, 10.8) |
 | CI = confidence interval |  |
-| *IRC assessment was based on modified International Working Group response criteria (IWG-RC)2. Modifications to IWG-RC specified that a persistently positive bone marrow in patients who met all other criteria for CR would be scored as PR. Bone marrow sample lengths were not required to be ≥20 mm. |  |
+| *IRC assessment was based on modified International Working Group response criteria (IWG-RC). Modifications to IWG-RC specified that a persistently positive bone marrow in patients who met all other criteria for CR would be scored as PR. Bone marrow sample lengths were not required to be ≥20 mm. |  |
