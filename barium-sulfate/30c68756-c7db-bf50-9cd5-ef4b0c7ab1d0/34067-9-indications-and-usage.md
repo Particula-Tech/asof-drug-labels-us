@@ -1,3 +1,3 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-For use in opacifying residual stool in the colon in CT Colonography.
+TAGITOL V is indicated for use in adult patients for use in computed tomography (CT) colonography as a fecal tagging agent.

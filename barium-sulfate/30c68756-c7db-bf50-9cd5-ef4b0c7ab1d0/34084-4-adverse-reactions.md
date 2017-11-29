@@ -1,5 +1,7 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-Adverse reactions, such as nausea, vomiting, diarrhea and abdominal cramping, accompanying the use of barium sulfate formulations are infrequent and usually mild.
-Severe reactions (approximately 1 in 1,000,000) and fatalities (approximately 1 in 10,000,000) have occurred.
-Procedural complications are rare, but may include aspiration pneumonitis, barium impaction, granuloma formation, intravasation, embolization and peritonitis following intestinal perforation, vasovagal and syncopal episodes, and fatalities.
+The following adverse reactions have been identified from spontaneous reporting or clinical studies of barium sulfate administered orally.
+Because the reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or to establish a causal relationship to drug exposure:
+
+- Nausea, vomiting, diarrhea and abdominal cramping
+- Serious adverse reactions and fatalities include aspiration pneumonitis, barium sulfate impaction, intestinal perforation with consequent peritonitis and granuloma formation, vasovagal and syncopal episodes.

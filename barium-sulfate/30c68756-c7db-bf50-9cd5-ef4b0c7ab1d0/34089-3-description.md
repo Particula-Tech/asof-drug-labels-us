@@ -1,11 +1,6 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
-TAGITOL™ V is a barium sulfate suspension 40% w/v, 30% w/w for oral administration.
-Each 100 mL contains 40 g barium sulfate.
-Barium sulfate, due to its high molecular density is opaque to x-rays and therefore, acts as a positive contrast agent for radiographic studies.
-The active ingredient is barium sulfate and its structural formula is BaSO4.
-Barium sulfate occurs as a fine, white, odorless, tasteless, bulky powder which is free from grittiness.
-Its aqueous suspensions are neutral to litmus.
-It is practically insoluble in water, solutions of acids and alkalies, and organic solvents.
+TAGITOL V (barium sulfate) is a radiographic contrast agent that is supplied as a 40% w/v, off-white to lightly colored, free-flowing, ready-to-use suspension with an apple aroma for oral administration.
+The active ingredient barium sulfate is designated chemically as BaSO4 with a molecular weight of 233.4 g/mol and the following chemical structure:
 
-Inactive Ingredients: artificial and natural apple flavor, carboxymethylcellulose sodium, citric acid, glycerin, maltodextrin, natural gum, polysorbate 80, potassium sorbate, purified water, saccharin sodium, simethicone emulsion, sodium benzoate, sodium citrate and xylitol.
+TAGITOL V contains the following excipients: carboxymethylcellulose sodium, citric acid, glycerin, maltodextrin, natural and artificial apple flavor, polysorbate 80, potassium sorbate, purified water, saccharin sodium, simethicone emulsion, sodium benzoate, sodium citrate, xanthan gum, and xylitol.

@@ -1,59 +1,31 @@
-# WARNINGS
+# 5 WARNINGS AND PRECAUTIONS
 
-Rarely, severe and occasionally fatal allergic reactions have been reported following administration of barium sulfate contrast agents.
-Such a reaction can occur up to 60 minutes following administration.
-Allergic reactions are more likely to occur in individuals with a history of allergic reactions to barium sulfate products.
+## 5.1 Hypersensitivity Reactions
 
-# PRECAUTIONS
+Barium sulfate preparations contain a number of excipients, including natural and artificial flavors and may induce serious hypersensitivity reactions.
+The manifestations include hypotension, bronchospasm and other respiratory impairments, dermal reactions including rashes, urticaria and itching.
+A history of bronchial asthma, atopy, or a previous reaction to a contrast agent may increase the risk for hypersensitivity reactions.
+Emergency equipment and trained personnel should be immediately available for treatment of a hypersensitivity reaction.
 
-## General
+## 5.2 Intra-abdominal Barium Leakage
 
-Diagnostic procedures which involve the use of radiopaque contrast agents should be carried out under the direction of personnel with the requisite training and with a thorough knowledge of the particular procedure to be performed.
-A history of bronchial asthma, atopy, as evidenced by hay fever and eczema, or a previous reaction to a contrast agent, warrant special attention.
-Caution should be exercised with the use of radiopaque media in severely debilitated patients and in those with marked hypertension or advanced cardiac disease.
-Ingestion of barium is not recommended in patients with a history of food aspiration.
-If barium studies are required in these patients or in patients in whom integrity of the swallowing mechanism is unknown, proceed with caution.
-If barium is aspirated into the larynx, further administration should be immediately discontinued, and a physician consulted.
+The use of TAGITOL V is contraindicated in patients at high risk of perforation of the GI tract [see Contraindications (4)].
+Administration of TAGITOL V may result in leakage of barium from the GI tract in the presence of conditions that increase the risk of perforation such as carcinomas, GI fistula, inflammatory bowel disease, gastric or duodenal ulcer, appendicitis, or diverticulitis, and in patients with a severe stenosis at any level of the gastrointestinal tract, especially if it is distal to the stomach.
+The barium leakage has been associated with peritonitis and granuloma formation.
 
-## Information for Patients
+## 5.3 Delayed Gastrointestinal Transit and Obstruction
 
-Before administration of this product, patients receiving barium sulfate diagnostic agents should be instructed to:
+Orally administered barium sulfate may accumulate proximal to a constricting lesion of the colon, causing obstruction or impaction with development of baroliths (inspissated barium associated with feces) and may lead to abdominal pain, appendicitis, bowel obstruction, or rarely perforation.
+Patients with the following conditions are at higher risk for developing obstruction or baroliths: severe stenosis at any level of the GI tract, impaired gastrointestinal motility, electrolyte imbalance, dehydration, on a low residue diet, on medications that delay GI motility, constipation, cystic fibrosis, Hirschsprung disease, and the elderly.
+To reduce the risk of delayed GI transit and obstruction, patients should maintain adequate hydration following a barium sulfate procedure.
 
-1. Inform their physician if they are pregnant.
-2. Inform their physician if they are allergic to any drugs or food, or if they have had any prior reactions to barium sulfate products or other contrast agents used in x-ray procedures (see PRECAUTIONS-General).
-3. Inform their physician about any other medications they are currently taking.
-4. Seek immediate medical attention if they experience an allergic reaction after using this product.
+## 5.4 Aspiration Pneumonitis
 
-## Drug Interactions
+The use of TAGITOL V is contraindicated in patients at high risk of aspiration [see Contraindications (4)].
+Oral administration of barium is associated with aspiration pneumonitis, especially in patients with a history of food aspiration or with compromised swallowing mechanism.
+Vomiting following oral administration of barium sulfate may lead to aspiration pneumonitis.
 
-The presence of barium sulfate formulations in the GI tract may alter the absorption of therapeutic agents taken concomitantly.
-In order to minimize any potential change in absorption, the separate administration of barium sulfate from that of other agents should be considered.
+## 5.5 Systemic Embolization
 
-## Usage in Pregnancy
-
-Radiation is known to cause harm to the unborn fetus exposed in utero.
-
-Therefore, radiographic procedures should only be used when, in the judgement of the physician, its use is deemed essential to the welfare of the pregnant patient.
-
-## Nursing Mothers
-
-Barium sulfate products may be used during lactation.
-
-# ALLERGIC REACTIONS
-
-Due to the increased likelihood of allergic reactions in atopic patients, it is important that a complete history of known and suspected allergies as well as allergic-like symptoms, e.g., rhinitis, bronchial asthma, eczema and urticaria, must be obtained prior to any medical procedure utilizing these products.
-A mild allergic reaction would most likely include generalized pruritus, erythema or urticaria (approximately 1 in 250,000).
-Such reactions will generally respond to an antihistamine such as 50 mg of diphenhydramine or its equivalent.
-In the rarer, more serious reactions (approximately 1 in 1,000,000) laryngeal edema, bronchospasm or hypotension could develop.
-Severe reactions which may require emergency measures are often characterized by peripheral vasodilation, hypotension, reflex tachycardia, dyspnea, agitation, confusion and cyanosis, progressing to unconsciousness.
-All of the allergic symptoms mentioned above can occur as either an immediate or delayed (up to 24 hours) reactions.
-Treatment should be initiated immediately with 0.3 to 0.5 cc of 1:1000 epinephrine subcutaneously.
-If bronchospasm predominates, 0.25 to 0.50 grams of intravenous aminophylline should be given slowly.
-Appropriate vasopressors might be required.
-Adrenocorticosteroids, even if given intravenously, exert no significant effect on the acute allergic reactions for a few hours.
-The administration of these agents should not be regarded as emergency measures for the treatment of allergic reactions.
-
-Apprehensive patients may develop weakness, pallor, tinnitus, diaphoresis and bradycardia following the administration of any diagnostic agent.
-Such reactions are usually non-allergic in nature and are best treated by having the patient lie flat for an additional 10 to 30 minutes under observation.
-
-All E-Z-EM barium sulfate contrast and barium contrast delivery systems are latex-free.
+Barium sulfate products may occasionally intravasate into the venous drainage of the large bowel and enter the circulation as a "barium embolus" leading to potentially fatal complications which include systemic and pulmonary embolism, disseminated intravascular coagulation, septicemia and prolonged severe hypotension.
+Although this complication is exceedingly uncommon after oral administration of barium sulfate products, monitor patients for potential intravasation when administering barium sulfate.
