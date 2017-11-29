@@ -17,7 +17,7 @@ The malformation rates among live-born babies exposed to ciprofloxacin and to fl
 No specific patterns of congenital abnormalities were found.
 The study did not reveal any clear adverse reactions due to in utero exposure to ciprofloxacin.
 
-No differences in the rates of prematurity, spontaneous abortions, or birth weight were seen in women exposed to ciprofloxacin during pregnancy.2, 3 However, these small postmarketing epidemiology studies, of which most experience is from short term, first trimester exposure, are insufficient to evaluate the risk for less common defects or to permit reliable and definitive conclusions regarding the safety of ciprofloxacin in pregnant women and their developing fetuses.
+No differences in the rates of prematurity, spontaneous abortions, or birth weight were seen in women exposed to ciprofloxacin during pregnancy.2,3 However, these small postmarketing epidemiology studies, of which most experience is from short term, first trimester exposure, are insufficient to evaluate the risk for less common defects or to permit reliable and definitive conclusions regarding the safety of ciprofloxacin in pregnant women and their developing fetuses.
 
 Reproduction studies have been performed in rats and mice using oral doses up to 100 mg/kg (0.6 and 0.3 times the maximum daily human dose based upon body surface area, respectively) and have revealed no evidence of harm to the fetus due to ciprofloxacin.
 In rabbits, oral ciprofloxacin dose levels of 30 and 100 mg/kg (approximately 0.4- and 1.3-times the highest recommended therapeutic dose based upon body surface area) produced gastrointestinal toxicity resulting in maternal weight loss and an increased incidence of abortion, but no teratogenicity was observed at either dose level.
@@ -32,7 +32,7 @@ Because of the potential risk of serious adverse reactions (including articular 
 ## 8.4 Pediatric Use
 
 Although effective in clinical trials, ciprofloxacin is not a drug of first choice in the pediatric population due to an increased incidence of adverse reactions compared to controls.
-Quinolones, including ciprofloxacin, cause arthropathy in juvenile animals [see Warnings and Precautions (5.12) and Nonclinical Toxicology (13.2)].
+Quinolones, including ciprofloxacin, cause arthropathy (arthralgia, arthritis), in juvenile animals [see Warnings and Precautions (5.12) and Nonclinical Toxicology (13.2)].
 
 Complicated Urinary Tract Infection and Pyelonephritis
 
@@ -57,9 +57,9 @@ Geriatric patients are at increased risk for developing severe tendon disorders 
 This risk is further increased in patients receiving concomitant corticosteroid therapy.
 Tendinitis or tendon rupture can involve the Achilles, hand, shoulder, or other tendon sites and can occur during or after completion of therapy; cases occurring up to several months after fluoroquinolone treatment have been reported.
 Caution should be used when prescribing ciprofloxacin to elderly patients especially those on corticosteroids.
-Patients should be informed of this potential adverse reaction and advised to discontinue ciprofloxacin tablets and contact their healthcare provider if any symptoms of tendinitis or tendon rupture occur [see Boxed Warning, Warnings and Precautions (5.2), and Adverse Reactions (6.2)].
+Patients should be informed of this potential adverse reaction and advised to discontinue ciprofloxacin and contact their healthcare provider if any symptoms of tendinitis or tendon rupture occur [see Boxed Warning, Warnings and Precautions (5.2), and Adverse Reactions (6.2)].
 
-In a retrospective analysis of 23 multiple-dose controlled clinical trials of ciprofloxacin encompassing over 3500 ciprofloxacin-treated patients, 25% of patients were greater than or equal to 65 years of age and 10% were greater than or equal to 75 years of age.
+In a retrospective analysis of 23 multiple-dose controlled clinical trials of ciprofloxacin encompassing over 3,500 ciprofloxacin-treated patients, 25% of patients were greater than or equal to 65 years of age and 10% were greater than or equal to 75 years of age.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals on any drug therapy cannot be ruled out.
 Ciprofloxacin is known to be substantially excreted by the kidney, and the risk of adverse reactions may be greater in patients with impaired renal function.
 No alteration of dosage is necessary for patients greater than 65 years of age with normal renal function.

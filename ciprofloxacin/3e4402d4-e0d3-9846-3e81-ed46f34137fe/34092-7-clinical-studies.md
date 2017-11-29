@@ -12,7 +12,7 @@ The Per Protocol population had a causative organism(s) with protocol specified 
 
 The clinical success and bacteriologic eradication rates in the Per Protocol population were similar between ciprofloxacin and the comparator group as shown below.
 
-| Table 14: Clinical Success and Bacteriologic Eradication at Test of Cure (5 to 9 Days Post-Therapy) |  |  |
+| Table 16: Clinical Success and Bacteriologic Eradication at Test of Cure (5 to 9 Days Post-Therapy) |  |  |
 | --- | --- | --- |
 |  | Ciprofloxacin | Comparator |
 | Randomized Patients | 337 | 352 |
@@ -42,7 +42,7 @@ In the animals studied, mean serum concentrations of ciprofloxacin achieved at e
 Mean steady-state trough concentrations at 12 hours post-dose ranged from 0.12 mcg/mL to 0.19 mcg/mL.10 Mortality due to anthrax for animals that received a 30-day regimen of oral ciprofloxacin beginning 24 hours post-exposure was significantly lower (1/9), compared to the placebo group (9/10) [p= 0.001].
 The one ciprofloxacin-treated animal that died of anthrax did so following the 30-day drug administration period.11
 
-More than 9300 persons were recommended to complete a minimum of 60 days of antibacterial prophylaxis against possible inhalational exposure to B. anthracis during 2001.
+More than 9,300 persons were recommended to complete a minimum of 60 days of antibacterial prophylaxis against possible inhalational exposure to B. anthracis during 2001.
 Ciprofloxacin was recommended to most of those individuals for all or part of the prophylaxis regimen.
 Some persons were also given anthrax vaccine or were switched to alternative antibacterial drugs.
 No one who received ciprofloxacin or other therapies as prophylactic treatment subsequently developed inhalational anthrax.
@@ -52,7 +52,8 @@ The number of persons who received ciprofloxacin as all or part of their post-ex
 
 A placebo-controlled animal study in African green monkeys exposed to an inhaled mean dose of 110 LD50 (range 92 to 127 LD50) of Yersinia pestis (CO92 strain) was conducted.
 The minimal inhibitory concentration (MIC) of ciprofloxacin for the Y. pestis strain used in this study was 0.015 mcg/mL.
-Mean peak serum concentrations of ciprofloxacin achieved at the end of a single 60 minute infusion were 3.49 ± mcg/mL 0.55 mcg/mL, 3.91 mcg/mL ± 0.58 mcg/mL and 4.03 mcg/mL ± 1.22 mcg/mL on Day 2, Day 6 and Day 10 of treatment in African green monkeys, respectively All trough concentrations (Day 2, Day 6 and Day 10) were less than 0.5 mcg /mL.
+Mean peak serum concentrations of ciprofloxacin achieved at the end of a single 60 minute infusion were 3.49 ± mcg/mL 0.55 mcg/mL, 3.91 mcg/mL ± 0.58 mcg/mL and 4.03 mcg/mL ± 1.22 mcg/mL on Day 2, Day 6 and Day 10 of treatment in African green monkeys, respectively.
+All trough concentrations (Day 2, Day 6 and Day 10) were less than 0.5 mcg /mL.
 Animals were randomized to receive either a 10-day regimen of intravenous ciprofloxacin 15 mg/kg, or placebo beginning when animals were found to be febrile (a body temperature greater than 1.5°C over baseline for two hours), or at 76 hours post-challenge, whichever occurred sooner.
 Mortality in the ciprofloxacin group was significantly lower (1/10) compared to the placebo group (2/2) [difference: -90.0%, 95% exact confidence interval: -99.8% to -5.8%].
 The one ciprofloxacin-treated animal that died did not receive the proposed dose of ciprofloxacin due to a failure of the administration catheter.

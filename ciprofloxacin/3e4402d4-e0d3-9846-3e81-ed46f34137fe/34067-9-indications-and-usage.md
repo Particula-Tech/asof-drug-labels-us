@@ -51,7 +51,7 @@ Ciprofloxacin tablets are not a drug of first choice in the treatment of presume
 
 Ciprofloxacin tablets are indicated for the treatment of acute exacerbations of chronic bronchitis (AECB) caused by Moraxella catarrhalis.
 
-Because fluoroquinolones, including ciprofloxacin, have been associated with serious adverse reactions [see Warnings and Precautions (5.1 to 5.15)] and for some patients AECB is self-limiting, reserve ciprofloxacin for treatment of AECB in patients who have no alternative treatment options.
+Because fluoroquinolones, including ciprofloxacin tablets, have been associated with serious adverse reactions [see Warnings and Precautions (5.1 to 5.15)] and for some patients AECB is self-limiting, reserve ciprofloxacin tablets for treatment of AECB in patients who have no alternative treatment options.
 
 ## 1.11 Urinary Tract Infections
 
@@ -63,7 +63,7 @@ Acute Uncomplicated Cystitis
 
 Ciprofloxacin tablets are indicated in adult female patients for treatment of acute uncomplicated cystitis caused by Escherichia coli or Staphylococcus saprophyticus.
 
-Because fluoroquinolones, including ciprofloxacin, have been associated with serious adverse reactions [see Warnings and Precautions (5.1 to 5.15)] and for some patients acute uncomplicated cystitis is self-limiting, reserve ciprofloxacin for treatment of acute uncomplicated cystitis in patients who have no alternative treatment options.
+Because fluoroquinolones, including ciprofloxacin tablets, have been associated with serious adverse reactions [see Warnings and Precautions (5.1 to 5.15)] and for some patients acute uncomplicated cystitis is self-limiting, reserve ciprofloxacin tablets for treatment of acute uncomplicated cystitis in patients who have no alternative treatment options.
 
 Complicated Urinary Tract Infection and Pyelonephritis in Pediatric Patients
 
@@ -76,11 +76,11 @@ Ciprofloxacin, like other fluoroquinolones, is associated with arthropathy and h
 
 Ciprofloxacin tablets are indicated in adult patients for treatment of acute sinusitis caused by Haemophilus influenzae, Streptococcus pneumoniae, or Moraxella catarrhalis.
 
-Because fluoroquinolones, including ciprofloxacin, have been associated with serious adverse reactions [see Warnings and Precautions (5.1 to 5.15)] and for some patients acute sinusitis is self-limiting, reserve ciprofloxacin for treatment of acute sinusitis in patients who have no alternative treatment options.
+Because fluoroquinolones, including ciprofloxacin tablets, have been associated with serious adverse reactions [see Warnings and Precautions (5.1 to 5.15)] and for some patients acute sinusitis is self-limiting, reserve ciprofloxacin tablets for treatment of acute sinusitis in patients who have no alternative treatment options.
 
 ## 1.13 Usage
 
-To reduce the development of drug-resistant bacteria and maintain the effectiveness of ciprofloxacin and other antibacterial drugs, ciprofloxacin tablets should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
+To reduce the development of drug-resistant bacteria and maintain the effectiveness of ciprofloxacin tablets and other antibacterial drugs, ciprofloxacin tablets should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
 When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy.
 In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy.
 

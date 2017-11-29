@@ -1,11 +1,12 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Ciprofloxacin tablets, USP are available as round, white to off-white film-coated tablets containing 250 mg ciprofloxacin.
-The 250 mg tablet is coded with on one side and on the other side.
-Ciprofloxacin tablets, USP are also available as capsule shaped, white to off-white film-coated tablets containing 500 mg or 750 mg ciprofloxacin.
-The 500 mg tablet is coded with “CR 500” on one side and on the reverse side.
-The 750 mg tablet is coded with “CR 750” on one side and on the reverse side.
-Ciprofloxacin tablets, USP 250 mg, 500 mg, and 750 mg are available in the following pack types.
+Ciprofloxacin tablets USP, 250 mg are available as white to off-white, round, biconvex film-coated tablets, with “”on one side and on the other side containing 250 mg ciprofloxacin.
+
+Ciprofloxacin tablets USP, 500 mg are available as white to off-white, capsule shaped, biconvex film-coated tablets, with “”on one side and “CR 500” on the other side containing 500 mg ciprofloxacin.
+
+Ciprofloxacin tablets USP, 750 mg are available as white to off-white, capsule shaped, biconvex film-coated tablets, with “”on one side and “CR 750” on the other side containing 750 mg ciprofloxacin.
+
+Ciprofloxacin tablets USP, 250 mg, 500 mg, and 750 mg are available in the following pack types.
 
 |  | Strength | NDC Code |
 | --- | --- | --- |

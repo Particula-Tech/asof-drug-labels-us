@@ -5,22 +5,23 @@ Ciprofloxacin tablets should be administered orally as described in the appropri
 ## 2.1 Dosage in Adults
 
 The determination of dosage and duration for any particular patient must take into consideration the severity and nature of the infection, the susceptibility of the causative microorganism, the integrity of the patient’s host-defense mechanisms, and the status of renal and hepatic function.
+Ciprofloxacin tablets may be administered to adult patients when clinically indicated at the discretion of the physician.
 
 Table 1: Adult Dosage Guidelines
 
 | Infection | Dose | Frequency | Usual Durations1 |
 | --- | --- | --- | --- |
-| Skin and Skin Structure | 500–750 mg | every 12 hours | 7 to 14 days |
-| Bone and Joint | 500–750 mg | every 12 hours | 4 to 8 weeks |
-| Complicated Intra–Abdominal2 | 500 mg | every 12 hours | 7 to 14 days |
+| Skin and Skin Structure | 500 to 750 mg | every 12 hours | 7 to 14 days |
+| Bone and Joint | 500 to 750 mg | every 12 hours | 4 to 8 weeks |
+| Complicated Intra-Abdominal2 | 500 mg | every 12 hours | 7 to 14 days |
 | Infectious Diarrhea | 500 mg | every 12 hours | 5 to 7 days |
 | Typhoid Fever | 500 mg | every 12 hours | 10 days |
 | Uncomplicated Urethral and Cervical Gonococcal Infections | 250 mg | single dose | single dose |
 | Inhalational anthrax (post­exposure)3 | 500 mg | every 12 hours | 60 days |
-| Plague3 | 500–750 mg | every 12 hours | 14 days |
+| Plague3 | 500 to 750 mg | every 12 hours | 14 days |
 | Chronic Bacterial Prostatitis | 500 mg | every 12 hours | 28 days |
-| Lower Respiratory Tract Infections | 500–750 mg | every 12 hours | 7 to 14 days |
-| Urinary Tract Infections | 250–500 mg | every 12 hours | 7 to 14 days |
+| Lower Respiratory Tract Infections | 500 to 750 mg | every 12 hours | 7 to 14 days |
+| Urinary Tract Infections | 250 to 500 mg | every 12 hours | 7 to 14 days |
 | Acute Uncomplicated Cystitis | 250 mg | every 12 hours | 3 days |
 | Acute Sinusitis | 500 mg | every 12 hours | 10 days |
 | 1. Generally ciprofloxacin should be continued for at least 2 days after the signs and symptoms of infection have disappeared, except for inhalational anthrax (post-exposure). |  |  |  |
@@ -33,7 +34,7 @@ Patients whose therapy is started with ciprofloxacin IV may be switched to cipro
 
 Table 2: Equivalent AUC Dosing Regimens
 
-| Ciprofloxacin Oral Dosage | Equivalent Ciprofloxacin IV Dosage |
+| Ciprofloxacin Tablets Oral Dosage | Equivalent Ciprofloxacin IV Dosage |
 | --- | --- |
 | 250 mg Tablet every 12 hours | 200 mg intravenous every 12 hours |
 | 500 mg Tablet every 12 hours | 400 mg intravenous every 12 hours |
@@ -42,7 +43,7 @@ Table 2: Equivalent AUC Dosing Regimens
 ## 2.2 Dosage in Pediatric Patients
 
 Dosing and initial route of therapy (that is, IV or oral) for cUTI or pyelonephritis should be determined by the severity of the infection.
-Ciprofloxacin should be administered as described in Table 3.
+Ciprofloxacin tablets should be administered as described in Table 3.
 
 Table 3: Pediatric Dosage Guidelines
 
@@ -50,12 +51,12 @@ Table 3: Pediatric Dosage Guidelines
 | --- | --- | --- | --- |
 |  | 10 mg/kg to 20 mg/kg |  |  |
 | Complicated Urinary Tract or | (maximum 750 mg per dose; not to be |  |  |
-| Pyelonephritis | exceeded even in patients weighing more | Every 12 hours | 10–21 days1 |
+| Pyelonephritis | exceeded even in patients weighing more | Every 12 hours | 10 to 21 days1 |
 | (patients from 1 to 17 years of age) | than 51 kg) |  |  |
 | Inhalational Anthrax | 15 mg/kg |  |  |
-| (Post­Exposure)2 | (maximum 500 mg per dose) | Every 12 hours | 60 days |
+| (Post-­Exposure)2 | (maximum 500 mg per dose) | Every 12 hours | 60 days |
 | Plague2,3 | 15 mg/kg | Every 8 to 12 |  |
-|  | (maximum 500 mg per dose) | hours | 10–21 days |
+|  | (maximum 500 mg per dose) | hours | 10 to 21 days |
 | 1. The total duration of therapy for cUTI and pyelonephritis in the clinical trial was determined by the physician. The mean duration of treatment was 11 days (range 10 to 21 days). |  |  |  |
 | 2. Begin drug administration as soon as possible after suspected or confirmed exposure. |  |  |  |
 | 3. Begin drug administration as soon as possible after suspected or confirmed exposure to Y. pestis. |  |  |  |
@@ -72,9 +73,9 @@ Table 4: Recommended Starting and Maintenance Doses for Adult Patients with Impa
 | Creatinine Clearance (mL/min) | Dose |
 | --- | --- |
 | > 50 | See Usual Dosage. |
-| 30–50 | 250–500 mg every12 hours |
-| 5–29 | 250–500 mg every 18 hours |
-| Patients on hemodialysis or Peritoneal dialysis | 250–500 mg every 24 hours (after dialysis) |
+| 30 to 50 | 250 to 500 mg every 12 hours |
+| 5 to 29 | 250 to 500 mg every 18 hours |
+| Patients on hemodialysis or Peritoneal dialysis | 250 to 500 mg every 24 hours (after dialysis) |
 
 When only the serum creatinine concentration is known, the following formulas may be used to estimate creatinine clearance:
 

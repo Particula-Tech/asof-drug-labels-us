@@ -2,4 +2,6 @@
 
 ## 3.1 Tablets
 
-• 250 mg round, white to off-white film-coated, coded with on one side and on the other side. • 500 mg, capsule shaped, white to off-white film-coated, coded with “CR 500” on one side and on the reverse side. • 750 mg, capsule shaped, white to off-white film-coated, coded with “CR 750” on one side and on the reverse side.
+- 250 mg, white to off-white, round, biconvex film-coated tablets, with “”on one side and on the other side.
+- 500 mg, white to off-white, capsule shaped, biconvex film-coated tablets, with “”on one side and “CR 500” on the other side.
+- 750 mg, white to off-white, capsule shaped, biconvex film-coated tablets, with “”on one side and “CR 750” on the other side.

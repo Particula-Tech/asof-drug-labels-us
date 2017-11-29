@@ -11,22 +11,22 @@
    Eur J Obstet Gynecol Reprod Biol.
    1996;69:83-89.
 5. Clinical and Laboratory Standards Institute (CLSI).
-   Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria That Grow Aerobically; Approved Standard–9th Edition.
-   CLSI Document M7-A9 [2012].
+   Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria That Grow Aerobically; Approved Standard–Tenth Edition.
+   CLSI Document M7-A10 [2015].
    Clinical and Laboratory Standards Institute, 950 West Valley Rd., Suite 2500, Wayne, PA.
    19087-1898.
 6. Clinical and Laboratory Standards Institute (CLSI).
-   Performance Standards for Antimicrobial Susceptibility Testing; 24th Informational Supplement.
-   CLSI Document M100 S24 [2014].
+   Performance Standards for Antimicrobial Susceptibility Testing; Twenty-seventh Informational Supplement.
+   CLSI Document M100 S27 [2017].
    Clinical and Laboratory Standards Institute, 950 West Valley Rd., Suite 2500, Wayne, PA.
    19087-1898.
 7. Clinical and Laboratory Standards Institute (CLSI).
-   Methods for Antimicrobial Dilution and Disk Susceptibility Testing of Infrequently Isolated or Fastidious Bacteria; Approved Guideline–2nd Edition.
-   CLSI Document M45-A2 [2010].
+   Methods for Antimicrobial Dilution and Disk Susceptibility Testing of Infrequently Isolated or Fastidious Bacteria; Approved Guideline–Third Edition.
+   CLSI Document M45-A3 [2016].
    Clinical and Laboratory Standards Institute, 950 West Valley Rd., Suite 2500, Wayne, PA.
    19087-1898.
-8. Clinical and Laboratory Standards Institute (CLSI), Performance Standards for Antimicrobial Disk Susceptibility Tests; Approved Standard–11th Edition.
-   CLSI Document M2-A11[2012].
+8. Clinical and Laboratory Standards Institute (CLSI), Performance Standards for Antimicrobial Disk Susceptibility Tests; Approved Standard–Twelfth Edition.
+   CLSI Document M2-A12 [2015].
    Clinical and Laboratory Standards Institute, 950 West Valley Rd., Suite 2500, Wayne, PA.
    19087-1898.
 9. CReport presented at the FDA’s Anti-Infective Drug and Dermatological Drug Product’s Advisory Committee meeting, March 31, 1993, Silver Spring, MD.

@@ -10,7 +10,7 @@ Inform patients of the following serious adverse reactions that have been associ
 
 - Disabling and potentially irreversible serious adverse reactions that may occur together: Inform patients that disabling and potentially irreversible serious adverse reactions, including tendinitis and tendon rupture, peripheral neuropathies, and central nervous system effects, have been associated with use of ciprofloxacin tablets and may occur together in the same patient.
   Inform patients to stop taking ciprofloxacin tablets immediately if they experience an adverse reaction and to call their healthcare provider.
-- Tendinitis and tendon rupture: Instruct patients to contact their healthcare provider if they experience pain, swelling, or inflammation of a tendon, or weakness or inability to use one of their joints; rest and refrain from exercise; and discontinue ciprofloxacin tablets treatment.
+- Tendinitis and tendon rupture: Instruct patients to contact their healthcare provider if they experience pain, swelling, or inflammation of a tendon, or weakness or inability to use one of their joints; rest and refrain from exercise; and discontinue ciprofloxacin treatment.
   Symptoms may be irreversible.
   The risk of severe tendon disorder with fluoroquinolones is higher in older patients usually over 60 years of age, in patients taking corticosteroid drugs, and in patients with kidney, heart or lung transplants.
 - Peripheral Neuropathies: Inform patients that peripheral neuropathies have been associated with ciprofloxacin use, symptoms may occur soon after initiation of therapy and may be irreversible.
@@ -74,4 +74,4 @@ Manufactured by: Watson Pharma Private Limited Verna, Salcette Goa 403 722 INDIA
 
 Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
-Revised: August 2016
+Revised: November 2017

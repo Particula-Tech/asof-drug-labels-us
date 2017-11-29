@@ -7,7 +7,7 @@ Commonly seen adverse reactions include tendinitis, tendon rupture, arthralgia, 
 These reactions can occur within hours to weeks after starting ciprofloxacin.
 Patients of any age or without pre-existing risk factors have experienced these adverse reactions [see Warnings and Precautions (5.2, 5.3, 5.4)].
 
-Discontinue ciprofloxacin tablets immediately at the first signs or symptoms of any serious adverse reaction.
+Discontinue ciprofloxacin immediately at the first signs or symptoms of any serious adverse reaction.
 In addition, avoid the use of fluoroquinolones, including ciprofloxacin, in patients who have experienced any of these serious adverse reactions associated with fluoroquinolones.
 
 ## 5.2 Tendinitis and Tendon Rupture
@@ -20,34 +20,35 @@ Tendinitis and tendon rupture can occur bilaterally.
 The risk of developing fluoroquinolone-associated tendinitis and tendon rupture is increased in patients over 60 years of age, in patients taking corticosteroid drugs, and in patients with kidney, heart or lung transplants.
 Other factors that may independently increase the risk of tendon rupture include strenuous physical activity, renal failure, and previous tendon disorders such as rheumatoid arthritis.
 Tendinitis and tendon rupture have also occurred in patients taking fluoroquinolones who do not have the above risk factors.
-Discontinue ciprofloxacin tablets immediately if the patient experiences pain, swelling, inflammation or rupture of a tendon.
+Discontinue ciprofloxacin immediately if the patient experiences pain, swelling, inflammation or rupture of a tendon.
 Avoid fluoroquinolones, including ciprofloxacin, in patients who have a history of tendon disorders or have experienced tendinitis or tendon rupture [see Adverse Reactions (6.2)].
 
 ## 5.3 Peripheral Neuropathy
 
-Fluoroquinolones, including ciprofloxacin tablets, have been associated with an increased risk of peripheral neuropathy.
+Fluoroquinolones, including ciprofloxacin, have been associated with an increased risk of peripheral neuropathy.
 Cases of sensory or sensorimotor axonal polyneuropathy affecting small and/or large axons resulting in paresthesias, hypoesthesias, dysesthesias and weakness have been reported in patients receiving fluoroquinolones, including ciprofloxacin.
 Symptoms may occur soon after initiation of ciprofloxacin and may be irreversible in some patients [see Warnings and Precautions (5.1) and Adverse Reactions (6.1, 6.2)].
 
-Discontinue ciprofloxacin tablets immediately if the patient experiences symptoms of peripheral neuropathy including pain, burning, tingling, numbness, and/or weakness, or other alterations in sensations including light touch, pain, temperature, position sense and vibratory sensation, and/or motor strength in order to minimize the development of an irreversible condition.
+Discontinue ciprofloxacin immediately if the patient experiences symptoms of peripheral neuropathy including pain, burning, tingling, numbness, and/or weakness, or other alterations in sensations including light touch, pain, temperature, position sense and vibratory sensation, and/or motor strength in order to minimize the development of an irreversible condition.
 Avoid fluoroquinolones, including ciprofloxacin, in patients who have previously experienced peripheral neuropathy [see Adverse Reactions (6.1, 6.2)].
 
 ## 5.4 Central Nervous System Effects
 
-Fluoroquinolones, including ciprofloxacin, have been associated with an increased risk of central nervous system (CNS) effects, including. convulsions, increased intracranial pressure (including pseudotumor cerebri), and toxic psychosis ciprofloxacin may also cause central nervous system (CNS) events including: nervousness, agitation, insomnia, anxiety, nightmares, paranoia, dizziness, confusion, tremors, hallucinations, depression, and psychotic reactions have progressed to suicidal ideations/thoughts and self-injurious behavior such as attempted or completed suicide.
+Fluoroquinolones, including ciprofloxacin, have been associated with an increased risk of central nervous system (CNS) effects, including: convulsions, increased intracranial pressure (including pseudotumor cerebri), and toxic psychosis.
+Ciprofloxacin may also cause central nervous system (CNS) events including: nervousness, agitation, insomnia, anxiety, nightmares, paranoia, dizziness, confusion, tremors, hallucinations, depression, and psychotic reactions have progressed to suicidal ideations/thoughts and self-injurious behavior such as attempted or completed suicide.
 These reactions may occur following the first dose.
 Advise patients receiving ciprofloxacin to inform their healthcare provider immediately if these reactions occur, discontinue the drug, and institute appropriate care.
 Ciprofloxacin, like other fluoroquinolones, is known to trigger seizures or lower the seizure threshold.
 As with all fluoroquinolones, use ciprofloxacin with caution in epileptic patients and patients with known or suspected CNS disorders that may predispose to seizures or lower the seizure threshold (for example, severe cerebral arteriosclerosis, previous history of convulsion, reduced cerebral blood flow, altered brain structure, or stroke), or in the presence of other risk factors that may predispose to seizures or lower the seizure threshold (for example, certain drug therapy, renal dysfunction).
 Use ciprofloxacin when the benefits of treatment exceed the risks, since these patients are endangered because of possible undesirable CNS side effects.
 Cases of status epilepticus have been reported.
-If seizures occur, discontinue ciprofloxacin tablets [see Adverse Reactions (6.1) and Drug Interactions (7)].
+If seizures occur, discontinue ciprofloxacin [see Adverse Reactions (6.1) and Drug Interactions (7)].
 
 ## 5.5 Exacerbation of Myasthenia Gravis
 
-Fluoroquinolones, including ciprofloxacin tablets, have neuromuscular blocking activity and may exacerbate muscle weakness in patients with myasthenia gravis.
+Fluoroquinolones, including ciprofloxacin, have neuromuscular blocking activity and may exacerbate muscle weakness in patients with myasthenia gravis.
 Postmarketing serious adverse reactions, including deaths and requirement for ventilatory support, have been associated with fluoroquinolone use in patients with myasthenia gravis.
-Avoid ciprofloxacin tablets in patients with known history of myasthenia gravis [see Adverse Reactions (6.2)].
+Avoid ciprofloxacin in patients with known history of myasthenia gravis [see Adverse Reactions (6.2)].
 
 ## 5.6 Other Serious and Sometimes Fatal Adverse Reactions
 
@@ -62,7 +63,7 @@ Clinical manifestations may include one or more of the following:
 - Hepatitis; jaundice; acute hepatic necrosis or failure;
 - Anemia, including hemolytic and aplastic; thrombocytopenia, including thrombotic thrombocytopenic purpura; leukopenia; agranulocytosis; pancytopenia; and/or other hematologic abnormalities.
 
-Discontinue ciprofloxacin tablets immediately at the first appearance of a skin rash, jaundice, or any other sign of hypersensitivity and supportive measures instituted [see Adverse Reactions (6.1, 6.2)].
+Discontinue ciprofloxacin immediately at the first appearance of a skin rash, jaundice, or any other sign of hypersensitivity and supportive measures instituted [see Adverse Reactions (6.1, 6.2)].
 
 ## 5.7 Hypersensitivity Reactions
 
@@ -79,7 +80,7 @@ The pattern of injury can be hepatocellular, cholestatic, or mixed.
 Most patients with fatal outcomes were older than 55 years old.
 In the event of any signs and symptoms of hepatitis (such as anorexia, jaundice, dark urine, pruritus, or tender abdomen), discontinue treatment immediately.
 
-There can be a temporary increase in transaminases, alkaline phosphatase, or cholestatic jaundice, especially in patients with previous liver damage, who are treated with ciprofloxacin tablets [see Adverse Reactions (6.2, 6.3)].
+There can be a temporary increase in transaminases, alkaline phosphatase, or cholestatic jaundice, especially in patients with previous liver damage, who are treated with ciprofloxacin [see Adverse Reactions (6.2, 6.3)].
 
 ## 5.9 Serious Adverse Reactions with Concomitant Theophylline
 
@@ -124,7 +125,7 @@ Related quinolone-class drugs also produce erosions of cartilage of weight-beari
 
 Moderate to severe photosensitivity/phototoxicity reactions, the latter of which may manifest as exaggerated sunburn reactions (for example, burning, erythema, exudation, vesicles, blistering, edema) involving areas exposed to light (typically the face, “V” area of the neck, extensor surfaces of the forearms, dorsa of the hands), can be associated with the use of quinolones including ciprofloxacin after sun or UV light exposure.
 Therefore, avoid excessive exposure to these sources of light.
-Discontinue ciprofloxacin tablets if phototoxicity occurs [see Adverse Reactions (6.1)].
+Discontinue ciprofloxacin if phototoxicity occurs [see Adverse Reactions (6.1)].
 
 ## 5.14 Development of Drug Resistant Bacteria
 
@@ -133,7 +134,7 @@ Prescribing ciprofloxacin tablets in the absence of a proven or strongly suspect
 ## 5.15 Potential Risks with Concomitant Use of Drugs Metabolized by Cytochrome P450 1A2 Enzymes
 
 Ciprofloxacin is an inhibitor of the hepatic CYP1A2 enzyme pathway.
-Coadministration of ciprofloxacin and other drugs primarily metabolized by CYP1A2 (for example, theophylline, methylxanthines, caffeine, tizanidine, ropinirole, clozapine, olanzapine) results in increased plasma concentrations of the coadministered drug and could lead to clinically significant pharmacodynamic adverse reactions of the coadministered drug [see Drug Interactions (7) and Clinical Pharmacology (12.3)].
+Coadministration of ciprofloxacin and other drugs primarily metabolized by CYP1A2 (for example, theophylline, methylxanthines, caffeine, tizanidine, ropinirole, clozapine, olanzapine and zolpidem), results in increased plasma concentrations of the coadministered drug and could lead to clinically significant pharmacodynamic adverse reactions of the coadministered drug [see Drug Interactions (7) and Clinical Pharmacology (12.3)].
 
 ## 5.16 Interference with Timely Diagnosis of Syphilis
 

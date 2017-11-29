@@ -26,7 +26,7 @@ During clinical investigations with oral and parenteral ciprofloxacin, 49,038 pa
 
 The most frequently reported adverse reactions, from clinical trials of all formulations, all dosages, all drug-therapy durations, and for all indications of ciprofloxacin therapy were nausea (2.5%), diarrhea (1.6%), liver function tests abnormal (1.3%), vomiting (1%), and rash (1%).
 
-| Table 6: Medically Important Adverse Reactions That Occurred In less than 1% of Ciprofloxacin Patients |  |
+| Table 8: Medically Important Adverse Reactions That Occurred In less than 1% of Ciprofloxacin Patients |  |
 | --- | --- |
 | System Organ Class | Adverse Reactions |
 | Body as a Whole | Headache |
@@ -62,8 +62,7 @@ The most frequently reported adverse reactions, from clinical trials of all form
 |  | Migraine |
 | Gastrointestinal | Intestinal Perforation |
 |  | Gastrointestinal Bleeding |
-|  | Cholestatic |
-|  | Jaundice |
+|  | Cholestatic Jaundice |
 |  | Hepatitis |
 |  | Pancreatitis |
 | Hemic/Lymphatic | Petechia |
@@ -98,7 +97,7 @@ The most frequently reported adverse reactions, from clinical trials of all form
 |  | Hearing Loss |
 |  | Bad Taste |
 
-In randomized, double-blind controlled clinical trials comparing ciprofloxacin tablets [500 mg two times daily (twice daily)] to cefuroxime axetil (250 mg to 500 mg twice daily) and to clarithromycin (500 mg twice daily) in patients with respiratory tract infections, ciprofloxacin demonstrated a CNS adverse reaction profile comparable to the control drugs.
+In randomized, double-blind controlled clinical trials comparing ciprofloxacin tablets [500 mg twice daily] to cefuroxime axetil (250 mg to 500 mg twice daily) and to clarithromycin (500 mg twice daily) in patients with respiratory tract infections, ciprofloxacin demonstrated a CNS adverse reaction profile comparable to the control drugs.
 
 Pediatric Patients
 
@@ -112,9 +111,9 @@ All musculoskeletal adverse reactions occurring by 6 weeks resolved (clinical re
 Radiological evaluations were not routinely used to confirm resolution of the adverse reactions.
 Ciprofloxacin-treated patients were more likely to report more than one adverse reaction and on more than one occasion compared to control patients.
 The rate of musculoskeletal adverse reactions was consistently higher in the ciprofloxacin group compared to the control group across all age subgroups.
-At the end of 1 year, the rate of these adverse reactions reported at any time during that period was 13.7% (46/335) in the ciprofloxacin-treated group versus 9.5% (33/349) in the comparator-treated patients (Table 7).
+At the end of 1 year, the rate of these adverse reactions reported at any time during that period was 13.7% (46/335) in the ciprofloxacin-treated group versus 9.5% (33/349) in the comparator-treated patients (Table 9).
 
-Table 7: Musculoskeletal Adverse Reactions1 as Assessed by the IPSC
+Table 9: Musculoskeletal Adverse Reactions1 as Assessed by the IPSC
 
 |  | Ciprofloxacin | Comparator |
 | --- | --- | --- |
@@ -153,9 +152,9 @@ In addition to the adverse reactions reported in pediatric patients in clinical 
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been reported from worldwide marketing experience with fluoroquinolones, including ciprofloxacin.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure (Table 8).
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure (Table 10).
 
-Table 8: Postmarketing Reports of Adverse Drug Reactions
+Table 10: Postmarketing Reports of Adverse Drug Reactions
 
 | System Organ Class | Adverse Reactions |
 | --- | --- |
@@ -184,8 +183,7 @@ Table 8: Postmarketing Reports of Adverse Drug Reactions
 | Psychiatric Disorders | Agitation |
 |  | Confusion |
 |  | Delirium |
-| Skin/Hypersensitivity | Acute generalize exanthematous pustulosis |
-|  | (AGEP) |
+| Skin/Hypersensitivity | Acute generalize exanthematous pustulosis (AGEP) |
 |  | Fixed eruption |
 |  | Serum sickness-like reaction |
 | Special Senses | Anosmia |
@@ -197,10 +195,10 @@ Table 8: Postmarketing Reports of Adverse Drug Reactions
 
 Changes in laboratory parameters while on ciprofloxacin are listed below:
 
-Hepatic –Elevations of ALT (SGPT), AST (SGOT), alkaline phosphatase, LDH, serum bilirubin.
+Hepatic–Elevations of ALT (SGPT), AST (SGOT), alkaline phosphatase, LDH, serum bilirubin.
 
 Hematologic–Eosinophilia, leukopenia, decreased blood platelets, elevated blood platelets, pancytopenia.
 
 Renal–Elevations of serum creatinine, BUN, crystalluria, cylindruria, and hematuria have been reported.
 
-Other changes occurring were: elevation of serum gammaglutamyl transferase, elevation of serum amylase, reduction in blood glucose, elevated uric acid, decrease in hemoglobin, anemia, bleeding diathesis, increase in blood monocytes, and leukocytosis.
+Other changes occurring were: elevation of serum gamma glutamyl transferase, elevation of serum amylase, reduction in blood glucose, elevated uric acid, decrease in hemoglobin, anemia, bleeding diathesis, increase in blood monocytes, and leukocytosis.

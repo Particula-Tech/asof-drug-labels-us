@@ -1,4 +1,6 @@
-Medication Guide Ciprofloxacin (sipʺ roe flox'a sin) Tablets for oral use
+# Medication Guide
+
+Ciprofloxacin (sipʺ roe flox' a sin) Tablets, USP for oral use
 
 Read this Medication Guide before you start taking ciprofloxacin tablets and each time you get a refill.
 There may be new information.
@@ -16,14 +18,10 @@ Tendon rupture or swelling of the tendon (tendinitis).
 
 - Tendon problems can happen in people of all ages who take ciprofloxacin tablets.
   Tendons are tough cords of tissue that connect muscles to bones.
-  Symptoms of tendon problems may include: ○ pain ○ swelling ○ tears and swelling of the tendons including the back of the ankle (Achilles), shoulder, hand, or other tendon sites.
-
+  Symptoms of tendon problems may include: ○ Pain, swelling, tears and swelling of the tendons including the back of the ankle (Achilles), shoulder, hand, or other tendon sites.
 - The risk of getting tendon problems while you take ciprofloxacin tablets is higher if you: ○ are over 60 years of age ○ are taking steroids (corticosteroids) ○ have had a kidney, heart or lung transplant
-
 - Tendon problems can happen in people who do not have the above risk factors when they take ciprofloxacin tablets.
-
 - Other reasons that can increase your risk of tendon problems can include: ○ physical activity or exercise ○ kidney failure ○ tendon problems in the past, such as in people with rheumatoid arthritis (RA)
-
 - Stop taking ciprofloxacin tablets immediately and get medical help right away at the first sign of tendon pain, swelling or inflammation.
 
 The most common area of pain and swelling is the Achilles tendon at the back of your ankle.
@@ -36,7 +34,7 @@ This can also happen with other tendons.
 2.
 Changes in sensation and possible nerve damage (Peripheral Neuropathy).
 Damage to the nerves in arms, hands, legs, or feet can happen in people who take fluoroquinolones, including ciprofloxacin tablets.
-Stop taking ciprofloxacin tablets immediately and talk to your healthcare provider right away if you get any of the following symptoms of peripheral neuropathy in your arms, hands, legs, or
+Stop taking ciprofloxacin tablets immediately and talk to your healthcare provider right away if you get any of the following symptoms of peripheral neuropathy in your arms, hands, legs, or feet:
 
 | pain | numbness |
 | --- | --- |
@@ -108,9 +106,9 @@ Before you take ciprofloxacin tablets, tell your healthcare provider if you:
 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 
-Ciprofloxacin tablets and other medicines can affect each other causing side effects.
+• Ciprofloxacin tablets and other medicines can affect each other causing side effects.
 
-Especially tell your healthcare provider if you take:
+• Especially tell your healthcare provider if you take:
 
 - a steroid medicine
 - an anti-psychotic medicine
@@ -131,9 +129,14 @@ Especially tell your healthcare provider if you take:
 - sildenafil (Viagra®, Revatio®)
 - duloxetine
 - products that contain caffeine
-- probenecid (Probalan®, Col-probenecid ®)
-- certain medicines may keep ciprofloxacin tablets from working correctly.
-  Take ciprofloxacin tablets either 2 hours before or 6 hours after taking these medicines, vitamins, or supplements: ○ an antacid, multivitamin, or other medicine or supplements that has magnesium, calcium, aluminum, iron, or zinc ○ sucralfate (Carafate®) ○ didanosine (Videx®, Videx EC®)
+- probenecid (Probalan®, Col-probenecid®)
+
+• Certain medicines may keep ciprofloxacin tablets from working correctly.
+Take ciprofloxacin tablets either 2 hours before or 6 hours after taking these medicines, vitamins, or supplements:
+
+- an antacid, multivitamin, or other medicine or supplements that has magnesium, calcium, aluminum, iron, or zinc
+- sucralfate (Carafate®)
+- didanosine (Videx®, Videx EC®)
 
 Ask your healthcare provider for a list of these medicines if you are not sure.
 
@@ -143,7 +146,7 @@ Keep a list of them to show your healthcare provider and pharmacist when you get
 How should I take ciprofloxacin tablets?
 
 - Take ciprofloxacin tablets exactly as your healthcare provider tells you to take them.
-- Your healthcare provider will tell you how much ciprofloxacin to take and when to take it.
+- Your healthcare provider will tell you how many ciprofloxacin tablets to take and when to take them.
 - Take ciprofloxacin tablets in the morning and evening at about the same time each day.
   Swallow the tablet whole.
   Do not split, crush or chew the tablet.
@@ -155,10 +158,10 @@ How should I take ciprofloxacin tablets?
   See “What is the most important information I should know about ciprofloxacin tablets?” ○ you have nerve problems.
   See “What is the most important information I should know about ciprofloxacin tablets?” ○ you have central nervous system problems.
   See “What is the most important information I should know about ciprofloxacin tablets?” ○ you have a serious allergic reaction.
-  See “What are the possible side effects of ciprofloxacin tablets?” ○ your healthcare provider tells you to stop taking ciprofloxacin tablets.
+  See “What are the possible side effects of ciprofloxacin tablets?” ○ your healthcare provider tells you to stop taking ciprofloxacin tablets
 
-Taking all of your ciprofloxacin tablet doses will help make sure that all of the bacteria are killed.
-Taking all of your ciprofloxacin tablet doses will help lower the chance that the bacteria will become resistant to ciprofloxacin tablets.
+Taking all of your ciprofloxacin tablets doses will help make sure that all of the bacteria are killed.
+Taking all of your ciprofloxacin tablets doses will help lower the chance that the bacteria will become resistant to ciprofloxacin tablets.
 If you become resistant to ciprofloxacin tablets, ciprofloxacin tablets and other antibacterial medicines may not work for you in the future.
 
 - If you take too many ciprofloxacin tablets, call your healthcare provider or get medical help right away.
@@ -179,10 +182,10 @@ Ciprofloxacin tablets may cause serious side effects, including:
 
 - See, “What is the most important information I should know about ciprofloxacin tablets?”
 - Serious allergic reactions.
-  Serious allergic reactions, including death, can happen in people taking fluoroquinolones, including ciprofloxacin tablets, even after only one dose.
+  Serious allergic reactions, including death, can happen in people taking fluoroquinolones, including ciprofloxacin tablets, even after only 1 dose.
   Stop taking ciprofloxacin tablets and get emergency medical help right away if you get any of the following symptoms of a severe allergic reaction: ○ hives ○ trouble breathing or swallowing ○ swelling of the lips, tongue, face ○ throat tightness, hoarseness ○ rapid heartbeat ○ faint ○ skin rash
 
-Skin rash may happen in people taking ciprofloxacin tablets even after only one dose.
+Skin rash may happen in people taking ciprofloxacin tablets even after only 1 dose.
 Stop taking ciprofloxacin tablets at the first sign of a skin rash and call your healthcare provider.
 Skin rash may be a sign of a more serious reaction to ciprofloxacin tablets.
 
@@ -190,13 +193,7 @@ Skin rash may be a sign of a more serious reaction to ciprofloxacin tablets.
   Hepatotoxicity can happen in people who take ciprofloxacin tablets.
   Call your healthcare provider right away if you have unexplained symptoms such as:
 
-| ○ nausea or vomiting | ○ unusual tiredness |
-| --- | --- |
-| ○ stomach pain | ○ loss of appetite |
-| ○ fever | ○ light colored bowel |
-| ○ weakness | movements |
-| ○ abdominal pain or tenderness | ○ dark colored urine |
-| ○ itching | ○ yellowing of your skin or the whites of your eyes |
+○ nausea or vomiting ○ stomach pain ○ fever ○ weakness ○ abdominal pain or tenderness ○ itching ○ unusual tiredness ○ loss of appetite ○ light colored bowel movements ○ dark colored urine ○ yellowing of your skin or the whites of your eyes
 
 Stop taking ciprofloxacin tablets and tell your healthcare provider right away if you have yellowing of your skin or white part of your eyes, or if you have dark urine.
 These can be signs of a serious reaction to ciprofloxacin tablets (a liver problem).
@@ -235,18 +232,16 @@ You may report side effects to FDA at 1­800-FDA-1088.
 
 How should I store ciprofloxacin tablets?
 
-Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [See USP Controlled
-
-Room Temperature].
+- Store at room temperature between 20° to 25°C (68° to 77°F).
 
 Keep ciprofloxacin tablets and all medicines out of the reach of children.
 
 General Information about the safe and effective use of ciprofloxacin tablets.
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
-Do not use ciprofloxacin tablets for a condition for which it is not prescribed.
+Do not use ciprofloxacin tablets for a condition for which they are not prescribed.
 Do not give ciprofloxacin tablets to other people, even if they have the same symptoms that you have.
-It may harm them.
+They may harm them.
 
 This Medication Guide summarizes the most important information about ciprofloxacin tablets.
 If you would like more information about ciprofloxacin tablets, talk with your healthcare provider.
@@ -257,7 +252,7 @@ For more information call 1-800-272-5525.
 What are the ingredients in ciprofloxacin tablets?
 
 - Active ingredient: ciprofloxacin hydrochloride, USP
-- Inactive ingredients: cornstarch, microcrystalline cellulose, silicon dioxide, crospovidone, magnesium stearate, polyvinyl alcohol, talc, titanium dioxide, polyethylene glycol and purified water
+- Inactive ingredients: corn starch, crospovidone, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polyvinyl alcohol, pregelatinized starch (maize), purified water, silicon dioxide, talc, and titanium dioxide.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
@@ -267,4 +262,4 @@ Manufactured by: Watson Pharma Private Limited Verna, Salcette Goa 403 722 INDIA
 
 Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
-Revised: August 2016
+Revised: November 2017
