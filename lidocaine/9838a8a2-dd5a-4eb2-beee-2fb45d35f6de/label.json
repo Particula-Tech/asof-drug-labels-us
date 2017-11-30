@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA021717"
+  ],
+  "inn": "lidocaine",
+  "labeler": "Taro Pharmaceuticals U.S.A., Inc.",
+  "package_ndcs": [
+    "51672-5305-2"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "lidocaine and tetracaine",
+      "name": "PLIAGLIS"
+    }
+  ],
+  "setid": "9838a8a2-dd5a-4eb2-beee-2fb45d35f6de",
+  "source": "dailymed"
+}
