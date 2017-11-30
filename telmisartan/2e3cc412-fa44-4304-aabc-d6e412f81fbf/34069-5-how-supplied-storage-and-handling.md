@@ -1,4 +1,4 @@
-# 16. HOW SUPPLIED/STORAGE AND HANDLING
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 Telmisartan Tablets USP, 20 mg are mottled light brown to mottled brown-colored, round-shaped, flat face beveled edge, uncoated tablets debossed with '471' on one side and plain on the other side and are supplied as follows:
 

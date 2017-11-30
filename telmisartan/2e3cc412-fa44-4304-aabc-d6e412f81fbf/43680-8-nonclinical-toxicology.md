@@ -1,6 +1,6 @@
-# 13. NONCLINICAL TOXICOLOGY
+# 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis, Mutagenesis, Impairment Of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 There was no evidence of carcinogenicity when telmisartan was administered in the diet to mice and rats for up to 2 years.
 The highest doses administered to mice (1000 mg/kg/day) and rats (100 mg/kg/day) are, on a mg/m2 basis, about 59 and 13 times, respectively, the maximum recommended human dose (MRHD) of telmisartan.

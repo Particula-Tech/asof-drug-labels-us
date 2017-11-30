@@ -1,4 +1,4 @@
-# 11. DESCRIPTION
+# 11 DESCRIPTION
 
 Telmisartan is a non-peptide angiotensin II receptor (type AT1) antagonist.
 

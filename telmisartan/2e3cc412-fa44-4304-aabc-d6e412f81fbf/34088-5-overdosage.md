@@ -1,4 +1,4 @@
-# 10. OVERDOSAGE
+# 10 OVERDOSAGE
 
 Limited data are available with regard to overdosage in humans.
 The most likely manifestation of overdosage with telmisartan tablets would be hypotension, dizziness and tachycardia; bradycardia could occur from parasympathetic (vagal) stimulation.

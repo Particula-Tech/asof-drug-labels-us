@@ -1,6 +1,10 @@
 Patient Information
 
-Telmisartan Tablets, USP
+Telmisartan
+
+(TEL-mi-SAR-tan)
+
+Tablets, USP
 
 Read this Patient Information before you start taking telmisartan tablets and each time you get a refill.
 There may be new information.

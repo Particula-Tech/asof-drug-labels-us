@@ -1,4 +1,4 @@
-# 6. ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
 The following adverse reaction is described elsewhere in labeling: Renal dysfunction upon use with ramipril [see Warnings and Precautions (5.6)]
 
@@ -15,7 +15,7 @@ In placebo-controlled trials involving 1041 patients treated with various doses 
 
 Adverse events occurring at an incidence of ≥ 1% in patients treated with telmisartan and at a greater rate than in patients treated with placebo, irrespective of their causal association, are presented in Table 1.
 
-Table 1Adverse Events Occurring at an Incidence of ≥ 1% inPatients Treated with Telmisartan and at a Greater Rate Than Patients Treatedwith Placebo
+Table1 AdverseEventsOccurringatanIncidenceof≥1%in PatientsTreatedwithTelmisartanandataGreaterRateThanPatientsTreatedwithPlacebo
 
 |  | Telmisartan n=1455 % | Placebo n=380 % |
 | --- | --- | --- |
