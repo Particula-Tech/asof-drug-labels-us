@@ -2,7 +2,7 @@
 
 Mesalamine Rectal Suspension Enema for rectal administration is an off-white to tan colored suspension.
 Each disposable enema bottle contains 4 grams of mesalamine in 60 mL aqueous suspension.
-Enema bottles are supplied in boxed, foil-wrapped trays as follows:.
+Enema bottles are supplied in boxed, foil-wrapped trays as follows:
 
 1. Carton of 7 Bottles: NDC 62559-420-07
 
@@ -26,6 +26,6 @@ Rx only
 
 Distributed by: ANI Pharmaceuticals, Inc. Baudette, MN 56623
 
-9819 Rev 04/16
+9819 Rev 07/17
 
 For Medical Inquiries, Call Toll Free: 1-800-308-6755

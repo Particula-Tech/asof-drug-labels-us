@@ -48,6 +48,6 @@ Rx only
 
 Distributed by: ANI Pharmaceuticals, Inc. Baudette, MN 56623
 
-9819 Rev 04/16
+9819 Rev 07/17
 
 For Medical Inquiries, Call Toll Free: 1-800-308-6755

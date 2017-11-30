@@ -46,8 +46,6 @@ The oligospermia and infertility in men associated with sulfasalazine has very r
 
 ## Pregnancy
 
-(Category B)
-
 Teratologic studies have been performed in rats and rabbits at oral doses up to five and eight times respectively, the maximum recommended human dose, and have revealed no evidence of harm to the embryo or the fetus.
 There are, however, no adequate and well-controlled studies in pregnant women for either sulfasalazine or 5-ASA.
 Because animal reproduction studies are not always predictive of human response, 5-ASA should be used during pregnancy only if clearly needed.
