@@ -1,105 +1,65 @@
-# WARNINGS
+# 5 WARNINGS AND PRECAUTIONS
 
-## General
+## 5.1 Risks with Inadvertent Intrathecal Administration
 
-### INTRAVASCULAR ADMINISTRATION
+OMNIPAQUE is for intravenous use only [See Dosage and Administration (2.1)].
+Inadvertent Intrathecal administration can cause death, convulsions/seizures, cerebral hemorrhage, coma, paralysis, arachnoiditis, acute renal failure, cardiac arrest, rhabdomyolysis, hyperthermia, and brain edema.
 
-Nonionic iodinated contrast media inhibit blood coagulation, in vitro, less than ionic contrast media.
-Clotting has been reported when blood remains in contact with syringes containing nonionic contrast media.
+## 5.2 Hypersensitivity Reactions
 
-Serious, fatal, thromboembolic events causing myocardial infarction and stroke have been reported with both ionic and nonionic contrast media..
-The use of plastic syringes in place of glass syringes has been reported to decrease but not eliminate the likelihood of in vitro clotting.
+OMNIPAQUE, can cause life-threatening or fatal hypersensitivity reactions including anaphylaxis.
+Manifestations include respiratory arrest, laryngospasm, bronchospasm, angioedema, and shock.
+Most severe reactions develop shortly after the start of the injection (within 3 minutes), but reactions can occur up to hours later.
+There is an increased risk in patients with a history of a previous reaction to contrast agent, and known allergies (i.e., bronchial asthma, drug, or food allergies) or other hypersensitivities.
+Premedication with antihistamines or corticosteroids does not prevent serious life-threatening reactions, but may reduce both their incidence and severity.
 
-OMNIPAQUE should be used with extreme care in patients with severe functional disturbances of the liver and kidneys, severe thyrotoxicosis, or myelomatosis.
-Diabetics with a serum creatinine level above 3 mg/dL should not be examined unless the possible benefits of the examination clearly outweigh the additional risk.
-OMNIPAQUE is not recommended for use in patients with anuria.
-Radiopaque contrast agents are potentially hazardous in patients with multiple myeloma or other paraproteinemia, particularly in those with therapeutically resistant anuria.
-Although neither the contrast agent nor dehydration has separately proven to be the cause of anuria in myeloma, it has been speculated that the combination of both may be causative factors.
+Obtain a history of allergy, hypersensitivity, or hypersensitivity reactions to iodinated contrast agents and always have emergency resuscitation equipment and trained personnel available prior to OMNIPAQUE administration.
+Monitor all patients for hypersensitivity reactions.
 
-The risk in myelomatous patients is not a contraindication; however, special precautions are necessary.
-Partial dehydration in the preparation of these patients prior to injection is not recommended since this may predispose the patient to precipitation of the myeloma protein in the renal tubules.
-No form of therapy, including dialysis, has been successful in reversing the effect.
-Myeloma, which occurs most commonly in persons over age 40, should be considered before instituting intravascular administration of contrast agents.Ionic contrast media, when injected intravenously or intra-arterially, may promote sickling in individuals who are homozygous for sickle cell disease.
+## 5.3 Contrast-Induced Acute Kidney Injury
 
-Administration of radiopaque materials to patients known or suspected of having pheochromocytoma should be performed with extreme caution.
-If, in the opinion of the physician, the possible benefits of such procedures outweigh the considered risks, the procedures may be performed; however, the amount of radiopaque medium injected should be kept to an absolute minimum.
-The patient's blood pressure should be assessed throughout the procedure and measures for the treatment of hypertensive crisis should be readily available.
-Reports of thyroid storm following the use of iodinated contrast media in patients with hyperthyroidism or with an autonomously functioning thyroid nodule suggest that this additional risk be evaluated in such patients before use of any contrast medium.
-Urography should be performed with caution in patients with severely impaired renal function and patients with combined renal and hepatic disease.
+Acute kidney injury, including renal failure, may occur after OMNIPAQUE administration.
+Risk factors include: pre-existing renal impairment, dehydration, diabetes mellitus, congestive heart failure, advanced vascular disease, elderly age, concomitant use of nephrotoxic or diuretic medications, multiple myeloma/paraproteinaceous diseases, repetitive and/or large doses of an iodinated contrast agent.
 
-# PRECAUTIONS
+Use the lowest necessary dose of OMNIPAQUE in patients with renal impairment.
+Adequately hydrate patients prior to and following OMNIPAQUE administration.
+Do not use laxatives, diuretics, or preparatory dehydration prior to OMNIPAQUE administration.
 
-## General
+## 5.4 Cardiovascular Adverse Reactions
 
-Diagnostic procedures which involve the use of radiopaque diagnostic agents should be carried out under the direction of personnel with the prerequisite training and with a thorough knowledge of the particular procedure to be performed.
-Appropriate facilities should be available for coping with any complication of the procedure, as well as for emergency treatment of severe reactions to the contrast agent itself.
-After parenteral administration of a radiopaque agent, competent personnel and emergency facilities should be available for at least 30 to 60 minutes since severe delayed reactions have occurred (see ADVERSE REACTIONS: Intravascular—General).
+Life-threatening or fatal cardiovascular reactions including hypotension, shock, cardiac arrest have occurred with the use of OMNIPAQUE.
+Based upon clinical literature, reported deaths from the administration of iodinated contrast agents range from 6.6 per million (0.00066%) to 1 per 10,000 (0.01%).
+Most deaths occur during injection or 5 to 10 minutes later; the main feature being cardiac arrest with cardiovascular disease as the main aggravating factor.
 
-Preparatory dehydration is dangerous and may contribute to acute renal failure in patients with advanced vascular disease, diabetic patients, and in susceptible nondiabetic patients (often elderly with preexisting renal disease), infants and small pediatric patients.
-Dehydration in these patients seems to be enhanced by the osmotic diuretic action of urographic agents.
-It is believed that overnight fluid restriction prior to excretory urography generally does not provide better visualization in normal patients.
-Patients should be well hydrated prior to and following administration of any contrast medium, including iohexol.
+OMNIPAQUE has the potential to transiently increase in the circulatory osmotic load in patients with congestive heart failure.
+Use the lowest necessary dose of OMNIPAQUE in patients with congestive heart failure and observe these patients for several hours following the procedure to detect delayed hemodynamic disturbances.
+Monitor all patients for severe cardiovascular reactions always have emergency resuscitation equipment and trained personnel available.
 
-Acute renal failure has been reported in diabetic patients with diabetic nephropathy and in susceptible non-diabetic patients (often elderly with preexisting renal disease) Therefore, careful consideration of the potential risks should be given before performing radiographic procedure in these patients.
+## 5.5 Extravasation and Injection Site Reactions
 
-The possibility of a reaction, including serious, life-threatening, fatal, anaphylactoid or cardiovascular reactions should always be considered (see ADVERSE REACTIONS: Intravascular—General).
-It is of utmost importance that a course of action be carefully planned in advance for immediate treatment of serious reactions, and that adequate and appropriate personnel be readily available in case of any reaction.
+Extravasation of intravenously administered OMNIPAQUE may cause tissue necrosis and/or compartment syndrome, particularly in patients with severe arterial or venous disease.
+Ensure intravenous placement of catheters prior to injection.
+Monitor patients for extravasation and advise patients to seek medical care for progression of symptoms.
 
-The possibility of an idiosyncratic reaction in susceptible patients should always be considered (see ADVERSE REACTIONS: Intravascular—General).
-The susceptible population includes, but is not limited to, patients with a history of a previous reaction to contrast media, patients with a known sensitivity to iodine per se, and patients with a known clinical hypersensitivity: bronchial asthma, hay fever, and food allergies.
+## 5.6 Thyroid Storm in Patients with Hyperthyroidism
 
-The occurrence of severe idiosyncratic reactions has prompted the use of several pretesting methods.
-However, pretesting cannot be relied upon to predict severe reactions and may itself be hazardous for the patient.
-It is suggested that a thorough medical history with emphasis on allergy and hypersensitivity, prior to the injection of any contrast media, may be more accurate than pretesting in predicting potential adverse reactions.
+Thyroid storm has occurred after the intravascular use of iodinated contrast agents in patients with hyperthyroidism, or with an autonomously functioning thyroid nodule.
+Evaluate the risk in such patients before use of OMNIPAQUE.
 
-A positive history of allergies or hypersensitivity does not arbitrarily contraindicate the use of a contrast agent where a diagnostic procedure is thought essential, but caution should be exercised (see ADVERSE REACTIONS: Intravascular—General).
-Premedication with antihistamines or corticosteroids in these patients should be considered.
-Pretreatment does not prevent serious life-threatening reactions, but may reduce both their incidence and severity.
+## 5.7 Hypertensive Crisis in Patients with Pheochromocytoma
 
-Even though the osmolality of OMNIPAQUE is low compared to diatrizoate or iothalamate-based ionic agents of comparable iodine concentration, the potential transitory increase in the circulatory osmotic load in patients with congestive heart failure requires caution during injection.
-These patients should be observed for several hours following the procedure to detect delayed hemodynamic disturbances.
+Hypertensive crisis has occurred after the use of iodinated contrast agents in patients with pheochromocytoma.
+Monitor patients when administering OMNIPAQUE if pheochromocytoma or catecholamine-secreting paragangliomas are suspected.
+Inject the minimum amount of contrast necessary, assess the blood pressure throughout the procedure, and have measures for treatment of a hypertensive crisis readily available.
 
-General anesthesia may be indicated in the performance of some procedures in selected adult patients; however, a higher incidence of adverse reactions has been reported in these patients, and may be attributable to the inability of the patient to identify untoward symptoms, or to the hypotensive effect of anesthesia which can reduce cardiac output and increase the duration of exposure to the contrast agent.
+## 5.8 Sickle Cell Crisis in Patients with Sickle Cell Disease
 
-## Information for Patients
+Iodinated contrast agents when administered intravascularly may promote sickling in individuals who are homozygous for sickle cell disease.
+Hydrate patients prior to and following OMNIPAQUE administration and use OMNIPAQUE only if the necessary imaging information cannot be obtained with alternative imaging modalities.
 
-Patients receiving injectable radiopaque diagnostic agents should be instructed to:
+## 5.9 Severe Cutaneous Adverse Reactions
 
-1. Inform your physician if you are pregnant (see CLINICAL PHARMACOLOGY—Intravascular).
-2. Inform your physician if you are diabetic or if you have multiple myeloma, pheochromocytoma, homozygous sickle cell disease, or known thyroid disorder (see WARNINGS).
-3. Inform your physician if you are allergic to any drugs, food, or if you had any reactions to previous injections of dyes used for x-ray procedures (see PRECAUTIONS—General).
-4. Inform your physician about any other medications you are currently taking, including non-prescription drugs, before you are administered this drug.
-
-## Drug/Laboratory Test Interaction
-
-If iodine-containing isotopes are to be administered for the diagnosis of thyroid disease, the iodine-binding capacity of thyroid tissue may be reduced for up to 2 weeks after contrast medium administration.
-Thyroid function tests which do not depend on iodine estimation, eg, T3 resin uptake or direct thyroxine assays, are not affected.
-
-Many radiopaque contrast agents are incompatible in vitro with some antihistamines and many other drugs; therefore, no other pharmaceuticals should be admixed with contrast agents.
-
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
-
-Long-term animal studies have not been performed with OMNIPAQUE to evaluate carcinogenic potential.
-OMNIPAQUE was not genotoxic in a series of studies, including the Ames test, the mouse lymphoma TK locus forward mutation assay, and a mouse micronucleus assay.
-OMNIPAQUE did not impair the fertility of male or female rats when administered at dosages up to 4 g Iodine/kg (2.3 times the maximum recommended dose for a 50 kg human, or approximately 0.4 times the maximum recommended dose for a 50 kg human following normalization of the data to body surface area estimates.)
-
-## Pregnancy
-
-### Teratogenic Effects
-
-#### Pregnancy Category B
-
-Reproduction studies performed in rats and rabbits at dosages up to 4 g Iodine/kg and 2.5 g Iodine/kg, respectively [2.3 and 1.4 times the maximum recommended dose for a 50 kg human, or approximately 0.4 (rat) and 0.5 (rabbit) times the maximum recommended dose for a 50 kg human following normalization of the data to body surface area estimates] have not revealed evidence of impaired fertility or harm to the fetus due to OMNIPAQUE.
-Adequate and well-controlled studies in pregnant women have not been conducted.
-Because animal reproductive studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
-
-## Nursing Mothers
-
-It is not known to what extent iohexol is excreted in human milk.
-However, many injectable contrast agents are excreted unchanged in human milk.
-Although it has not been established that serious adverse reactions occur in nursing infants, caution should be exercised when intravascular contrast media are administered to nursing women.
-Bottle feedings may be substituted for breast feedings for 24 hours following administration of OMNIPAQUE.
-
-## Pediatric Use
-
-Pediatric patients at higher risk of experiencing adverse events during contrast medium administration may include those having asthma, a sensitivity to medication and/or allergens, congestive heart failure, a serum creatinine greater than 1.5 mg/dL or those less than 12 months of age.
+Severe cutaneous adverse reactions (SCAR) may develop from 1 hour to several weeks after intravascular contrast agent administration.
+These reactions include Stevens-Johnson syndrome and toxic epidermal necrolysis (SJS/TEN), acute generalized exanthematous pustulosis (AGEP) and drug reaction with eosinophilia and systemic symptoms (DRESS).
+Reaction severity may increase and time to onset may decrease with repeat administration of contrast agents; prophylactic medications may not prevent or mitigate severe cutaneous adverse reactions.
+Avoid administering OMNIPAQUE to patients with a history of a severe cutaneous adverse reaction to OMNIPAQUE.

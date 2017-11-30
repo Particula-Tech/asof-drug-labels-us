@@ -1,8 +1,5 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
-Overdosage may occur.
-The adverse effects of overdosage are life-threatening and affect mainly the pulmonary and cardiovascular systems.
-The symptoms included: cyanosis, bradycardia, acidosis, pulmonary hemorrhage, convulsions, coma, and cardiac arrest.
+The adverse reactions to overdosage are life-threatening and affect mainly the pulmonary and cardiovascular systems.
 Treatment of an overdosage is directed toward the support of all vital functions, and prompt institution of symptomatic therapy.
-
-The intravenous LD50 values of OMNIPAQUE (in grams of iodine per kilogram body weight) are 24.2 in mice and 15 in rats.
+Iohexol displays a low affinity for serum or plasma proteins and is poorly bound to serum albumin and, therefore, can be dialyzed.
