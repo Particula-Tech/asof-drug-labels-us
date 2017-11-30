@@ -9,20 +9,14 @@ These incidents usually have occurred during the first six months of treatment.
 Serious or fatal hepatotoxicity may be preceded by non-specific symptoms such as malaise, weakness, lethargy, facial edema, anorexia, and vomiting.
 In patients with epilepsy, a loss of seizure control may also occur.
 Patients should be monitored closely for appearance of these symptoms.
-Serum liver tests should be performed prior to therapy and at frequent intervals thereafter, especially during the first six months.
+Serum liver tests should be performed prior to therapy and at frequent intervals thereafter, especially during the first six months of valproate therapy.
 However, healthcare providers should not rely totally on serum biochemistry since these tests may not be abnormal in all instances, but should also consider the results of careful interim medical history and physical examination.
 
-Caution should be observed when administering valproate products to patients with a prior history of hepatic disease.
-Patients on multiple anticonvulsants, children, those with congenital metabolic disorders, those with severe seizure disorders accompanied by mental retardation, and those with organic brain disease may be at particular risk.
-See below, "."
 Caution should be observed when administering valproate products to patients with a prior history of hepatic disease.
 Patients on multiple anticonvulsants, children, those with congenital metabolic disorders, those with severe seizure disorders accompanied by mental retardation, and those with organic brain disease may be at particular risk.
 See below, " Patients with Known or Suspected Mitochondrial Disease."
 
 Experience has indicated that children under the age of two years are at a considerably increased risk of developing fatal hepatotoxicity, especially those with the aforementioned conditions.
-When valproic acid products are used in this patient group, they should be used with extreme caution and as a sole agent.
-The benefits of therapy should be weighed against the risks.
-In progressively older patient groups experience in epilepsy has indicated that the incidence of fatal hepatotoxicity decreases considerably.Experience has indicated that children under the age of two years are at a considerably increased risk of developing fatal hepatotoxicity, especially those with the aforementioned conditions.
 When valproic acid products are used in this patient group, they should be used with extreme caution and as a sole agent.
 The benefits of therapy should be weighed against the risks.
 In progressively older patient groups experience in epilepsy has indicated that the incidence of fatal hepatotoxicity decreases considerably.
@@ -54,7 +48,7 @@ Evidence suggests that folic acid supplementation prior to conception and during
 
 Valproate can cause decreased IQ scores following in utero exposure.
 Published epidemiological studies have indicated that children exposed to valproate in utero have lower cognitive test scores than children exposed in utero to either another antiepileptic drug or to no antiepileptic drugs.
-The largest of these studies1 is a prospective cohort study conducted in the United States and United Kingdom that found that children with prenatal exposure to valproate (n=62) had lower IQ scores at age 6 (97 [95% C.I.
+The largest of these studies 1 is a prospective cohort study conducted in the United States and United Kingdom that found that children with prenatal exposure to valproate (n=62) had lower IQ scores at age 6 (97 [95% C.I.
 94-101]) than children with prenatal exposure to the other antiepileptic drug monotherapy treatments evaluated: lamotrigine (108 [95% C.I.
 105-110]), carbamazepine (105 [95% C.I.
 102-108]), and phenytoin (108 [95% C.I.
@@ -62,13 +56,11 @@ The largest of these studies1 is a prospective cohort study conducted in the Uni
 It is not known when during pregnancy cognitive effects in valproate-exposed children occur.
 Because the women in this study were exposed to antiepileptic drugs throughout pregnancy, whether the risk for decreased IQ was related to a particular time period during pregnancy could not be assessed.
 
-Although all of the available studies have methodological limitations, the weight of the evidence supports the conclusion that valproate exposure can cause decreased IQ in children.
 Although all of the available studies have methodological limitations, the weight of the evidence supports the conclusion that valproate exposure in utero can cause decreased IQ in children.
 
-In animal studies, offspring with prenatal exposure to valproate had malformations similar to those seen in humans and demonstrated neurobehavioral deficits In animal studies, offspring with prenatal exposure to valproate had malformations similar to those seen in humans and demonstrated neurobehavioral deficits [see Use in Specific Populations (8.1)].
+In animal studies, offspring with prenatal exposure to valproate had malformations similar to those seen in humans and demonstrated neurobehavioral deficits [see Use in Specific Populations (8.1)].
 
 Women with epilepsy who are pregnant or who plan to become pregnant should not be treated with valproate unless other treatments have failed to provide adequate symptom control or are otherwise unacceptable.
-In such women, the benefits of treatment with valproate during pregnancy may still outweigh the risks.Women with epilepsy who are pregnant or who plan to become pregnant should not be treated with valproate unless other treatments have failed to provide adequate symptom control or are otherwise unacceptable.
 In such women, the benefits of treatment with valproate during pregnancy may still outweigh the risks.
 
 ## 5.4 Use in Women of Childbearing Potential
@@ -78,11 +70,9 @@ This is especially important when valproate use is considered for a condition no
 Women should use effective contraception while using valproate.
 Women who are planning a pregnancy should be counseled regarding the relative risks and benefits of valproate use during pregnancy, and alternative therapeutic options should be considered for these patients [see Boxed Warning and Use in Specific Populations (8.1)].
 
-To prevent major seizures, valproate should not be discontinued abruptly, as this can precipitate status epilepticus with resulting maternal and fetal hypoxia and threat to life.To prevent major seizures, valproate should not be discontinued abruptly, as this can precipitate status epilepticus with resulting maternal and fetal hypoxia and threat to life.
+To prevent major seizures, valproate should not be discontinued abruptly, as this can precipitate status epilepticus with resulting maternal and fetal hypoxia and threat to life.
 
 Evidence suggests that folic acid supplementation prior to conception and during the first trimester of pregnancy decreases the risk for congenital neural tube defects in the general population.
-It is not known whether the risk of neural tube defects or decreased IQ in the offspring of women receiving valproate is reduced by folic acid supplementation.
-Dietary folic acid supplementation both prior to conception and during pregnancy should be routinely recommended for patients using valproate.Evidence suggests that folic acid supplementation prior to conception and during the first trimester of pregnancy decreases the risk for congenital neural tube defects in the general population.
 It is not known whether the risk of neural tube defects or decreased IQ in the offspring of women receiving valproate is reduced by folic acid supplementation.
 Dietary folic acid supplementation both prior to conception and during pregnancy should be routinely recommended for patients using valproate.
 
@@ -92,14 +82,14 @@ Cases of life-threatening pancreatitis have been reported in both children and a
 Some of the cases have been described as hemorrhagic with rapid progression from initial symptoms to death.
 Some cases have occurred shortly after initial use as well as after several years of use.
 The rate based upon the reported cases exceeds that expected in the general population and there have been cases in which pancreatitis recurred after rechallenge with valproate.
-In clinical trials, there were 2 cases of pancreatitis without alternative etiology in 2416 patients, representing 1044 patient-years experience.
+In clinical trials, there were 2 cases of pancreatitis without alternative etiology in 2,416 patients, representing 1,044 patient-years experience.
 Patients and guardians should be warned that abdominal pain, nausea, vomiting, and/or anorexia can be symptoms of pancreatitis that require prompt medical evaluation.
 If pancreatitis is diagnosed, valproate should ordinarily be discontinued.
 Alternative treatment for the underlying medical condition should be initiated as clinically indicated [see Boxed Warning].
 
-## 5.6 Urea Cycle Disorders (UCD)
+## 5.6 Urea Cycle Disorders
 
-Valproic acid is contraindicated in patients with known urea cycle disorders.
+Valproic acid is contraindicated in patients with known urea cycle disorders (UCD).
 
 Hyperammonemic encephalopathy, sometimes fatal, has been reported following initiation of valproate therapy in patients with urea cycle disorders, a group of uncommon genetic abnormalities, particularly ornithine transcarbamylase deficiency.
 Prior to the initiation of valproate therapy, evaluation for UCD should be considered in the following patients: 1) those with a history of unexplained encephalopathy or coma, encephalopathy associated with a protein load, pregnancy-related or postpartum encephalopathy, unexplained mental retardation, or history of elevated plasma ammonia or glutamine; 2) those with cyclical vomiting and lethargy, episodic extreme irritability, ataxia, low BUN, or protein avoidance; 3) those with a family history of UCD or a family history of unexplained infant deaths (particularly males); 4) those with other signs or symptoms of UCD.
@@ -126,7 +116,7 @@ Table 2 shows absolute and relative risk by indication for all evaluated AEDs.
 Table 2.
 Risk by indication for antiepileptic drugs in the pooled analysis
 
-| Indication | Placebo Patients with Events Per 1000 Patients | Drug Patients with Events Per 1000 Patients | Relative Risk: Incidence of Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events Per 1000 Patients |
+| Indication | Placebo Patients with Events Per 1,000 Patients | Drug Patients with Events Per 1,000 Patients | Relative Risk: Incidence of Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events Per 1,000 Patients |
 | --- | --- | --- | --- | --- |
 | Epilepsy | 1.0 | 3.4 | 3.5 | 2.4 |
 | Psychiatric | 5.7 | 8.5 | 1.5 | 2.9 |
@@ -145,14 +135,14 @@ Behaviors of concern should be reported immediately to healthcare providers.
 ## 5.8 Bleeding and Other Hematopoietic Disorders
 
 Valproate is associated with dose-related thrombocytopenia.
-In a clinical trial of divalproex sodium as monotherapy in patients with epilepsy, 34/126 patients (27%) receiving approximately 50 mg/kg/day on average, had at least one value of platelets ≤ 75 x 10 9/L.
+In a clinical trial of divalproex sodium as monotherapy in patients with epilepsy, 34/126 patients (27%) receiving approximately 50 mg/kg/day on average, had at least one value of platelets ≤ 75 × 10 9/L.
 Approximately half of these patients had treatment discontinued, with return of platelet counts to normal.
 In the remaining patients, platelet counts normalized with continued treatment.
 In this study, the probability of thrombocytopenia appeared to increase significantly at total valproate concentrations of ≥ 110 mcg/mL (females) or ≥ 135 mcg/mL (males).
 The therapeutic benefit which may accompany the higher doses should therefore be weighed against the possibility of a greater incidence of adverse effects.
 Valproate use has also been associated with decreases in other cell lines and myelodysplasia.
 
-Because of reports of cytopenias, inhibition of the secondary phase of platelet aggregation, and abnormal coagulation parameters, (e.g., low fibrinogen, coagulation factor deficiencies, acquired von Willebrand’s disease), measurements of complete blood counts and coagulation tests are recommended before initiating therapy and at periodic intervals.
+Because of reports of cytopenias, inhibition of the secondary phase of platelet aggregation, and abnormal coagulation parameters, (e.g., low fibrinogen, coagulation factor deficiencies, acquired von Willebrand's disease), measurements of complete blood counts and coagulation tests are recommended before initiating therapy and at periodic intervals.
 It is recommended that patients receiving valproic acid be monitored for blood counts and coagulation parameters prior to planned surgery and during pregnancy [see Use in Specific Populations (8.1)].
 Evidence of hemorrhage, bruising, or a disorder of hemostasis/coagulation is an indication for reduction of the dosage or withdrawal of therapy.
 
@@ -171,13 +161,12 @@ If the elevation persists, discontinuation of valproate therapy should be consid
 
 Concomitant administration of topiramate and valproate has been associated with hyperammonemia with or without encephalopathy in patients who have tolerated either drug alone.
 Clinical symptoms of hyperammonemic encephalopathy often include acute alterations in level of consciousness and/or cognitive function with lethargy or vomiting.
-Hypothermia can also be a manifestation of hyperammonemia [see Warnings and Precautions (5.12)].
+Hypothermia can also be a manifestation of hyperammonemia [see Warnings and Precautions (5.11)].
 In most cases, symptoms and signs abated with discontinuation of either drug.
 This adverse reaction is not due to a pharmacokinetic interaction.
-It is not known if topiramate monotherapy is associated with hyperammonemia.
 Patients with inborn errors of metabolism or reduced hepatic mitochondrial activity may be at an increased risk for hyperammonemia with or without encephalopathy.
 Although not studied, an interaction of topiramate and valproate may exacerbate existing defects or unmask deficiencies in susceptible persons.
-In patients who develop unexplained lethargy, vomiting, or changes in mental status, hyperammonemic encephalopathy should be considered and an ammonia level should be measured [see Contraindications (4) and Warnings and Precautions (5.6, 5.10)].
+In patients who develop unexplained lethargy, vomiting, or changes in mental status, hyperammonemic encephalopathy should be considered and an ammonia level should be measured [see Contraindications (4) and Warnings and Precautions (5.6, 5.9)].
 
 ## 5.11 Hypothermia
 
@@ -186,15 +175,16 @@ This adverse reaction can also occur in patients using concomitant topiramate wi
 Consideration should be given to stopping valproate in patients who develop hypothermia, which may be manifested by a variety of clinical abnormalities including lethargy, confusion, coma, and significant alterations in other major organ systems such as the cardiovascular and respiratory systems.
 Clinical management and assessment should include examination of blood ammonia levels.
 
-## 5.12 Multi-Organ Hypersensitivity Reactions
+## 5.12 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan Hypersensitivity Reactions
 
-Multi-organ hypersensitivity reactions have been rarely reported in close temporal association to the initiation of valproate therapy in adult and pediatric patients (median time to detection 21 days: range 1 to 40 days).
-Although there have been a limited number of reports, many of these cases resulted in hospitalization and at least one death has been reported.
-Signs and symptoms of this disorder were diverse; however, patients typically, although not exclusively, presented with fever and rash associated with other organ system involvement.
-Other associated manifestations may include lymphadenopathy, hepatitis, liver function test abnormalities, hematological abnormalities (e.g., eosinophilia, thrombocytopenia, neutropenia), pruritus, nephritis, oliguria, hepato-renal syndrome, arthralgia, and asthenia.
-Because the disorder is variable in its expression, other organ system symptoms and signs, not noted here, may occur.
-If this reaction is suspected, valproate should be discontinued and an alternative treatment started.
-Although the existence of cross sensitivity with other drugs that produce this syndrome is unclear, the experience amongst drugs associated with multi-organ hypersensitivity would indicate this to be a possibility.
+Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), also known as Multiorgan Hypersensitivity, has been reported in patients taking valproate.
+DRESS may be fatal or life-threatening.
+DRESS typically, although not exclusively, presents with fever, rash, and/or lymphadenopathy, in association with other organ system involvement, such as hepatitis, nephritis, hematological abnormalities, myocarditis, or myositis sometimes resembling an acute viral infection.
+Eosinophilia is often present.
+Because this disorder is variable in its expression, other organ systems not noted here may be involved.
+It is important to note that early manifestations of hypersensitivity, such as fever or lymphadenopathy, may be present even though rash is not evident.
+If such signs or symptoms are present, the patient should be evaluated immediately.
+Valproate should be discontinued and not be resumed if an alternative etiology for the signs or symptoms cannot be established.
 
 ## 5.13 Interaction with Carbapenem Antibiotics
 

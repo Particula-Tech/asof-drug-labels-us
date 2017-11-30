@@ -41,8 +41,8 @@ Prescribers should monitor serum valproate concentrations and clinical response 
 
 Felbamate
 
-A study involving the co-administration of 1200 mg/day of felbamate with valproate to patients with epilepsy (n = 10) revealed an increase in mean valproate peak concentration by 35% (from 86 to 115 mcg/mL) compared to valproate alone.
-Increasing the felbamate dose to 2400 mg/day increased the mean valproate peak concentration to 133 mcg/mL (another 16% increase).
+A study involving the co-administration of 1,200 mg/day of felbamate with valproate to patients with epilepsy (n = 10) revealed an increase in mean valproate peak concentration by 35% (from 86 to 115 mcg/mL) compared to valproate alone.
+Increasing the felbamate dose to 2,400 mg/day increased the mean valproate peak concentration to 133 mcg/mL (another 16% increase).
 A decrease in valproate dosage may be necessary when felbamate therapy is initiated.
 
 Rifampin
@@ -54,7 +54,7 @@ Drugs for which either no interaction or a likely clinically unimportant interac
 
 Antacids
 
-A study involving the co-administration of valproate 500 mg with commonly administered antacids (Maalox, Trisogel, and Titralac -160 mEq doses) did not reveal any effect on the extent of absorption of valproate.
+A study involving the co-administration of valproate 500 mg with commonly administered antacids (Maalox, Trisogel, and Titralac - 160 mEq doses) did not reveal any effect on the extent of absorption of valproate.
 
 Chlorpromazine
 
@@ -70,7 +70,7 @@ Cimetidine and ranitidine do not affect the clearance of valproate.
 
 ## 7.2 Effects of Valproate on Other Drugs
 
-Valproate has been found to be a weak inhibitor of some P450 isozymes, epoxide hydrase, and glucuronyltransferases.
+Valproate has been found to be a weak inhibitor of some P450 isozymes, epoxide hydrase, and glucuronosyltransferases.
 
 The following list provides information about the potential for an influence of valproate co-administration on the pharmacokinetics or pharmacodynamics of several commonly prescribed medications.
 The list is not exhaustive, since new interactions are continuously being reported.
@@ -85,9 +85,9 @@ Concurrent use of valproate and amitriptyline has rarely been associated with to
 Monitoring of amitriptyline levels should be considered for patients taking valproate concomitantly with amitriptyline.
 Consideration should be given to lowering the dose of amitriptyline/nortriptyline in the presence of valproate.
 
-Carbamazepine/carbamazepine-10, 11-Epoxide
+Carbamazepine/carbamazepine-10,11-Epoxide
 
-Serum levels of carbamazepine (CBZ) decreased 17% while that of carbamazepine-10, 11-epoxide (CBZ-E) increased by 45% upon co-administration of valproate and CBZ to epileptic patients.
+Serum levels of carbamazepine (CBZ) decreased 17% while that of carbamazepine-10,11-epoxide (CBZ-E) increased by 45% upon co-administration of valproate and CBZ to epileptic patients.
 
 Clonazepam
 
@@ -96,21 +96,21 @@ The concomitant use of valproate and clonazepam may induce absence status in pat
 Diazepam
 
 Valproate displaces diazepam from its plasma albumin binding sites and inhibits its metabolism.
-Co-administration of valproate (1500 mg daily) increased the free fraction of diazepam (10 mg) by 90% in healthy volunteers (n = 6).
+Co-administration of valproate (1,500 mg daily) increased the free fraction of diazepam (10 mg) by 90% in healthy volunteers (n = 6).
 Plasma clearance and volume of distribution for free diazepam were reduced by 25% and 20%, respectively, in the presence of valproate.
 The elimination half-life of diazepam remained unchanged upon addition of valproate.
 
 Ethosuximide
 
 Valproate inhibits the metabolism of ethosuximide.
-Administration of a single ethosuximide dose of 500 mg with valproate (800 to 1600 mg/day) to healthy volunteers (n = 6) was accompanied by a 25% increase in elimination half-life of ethosuximide and a 15% decrease in its total clearance as compared to ethosuximide alone.
+Administration of a single ethosuximide dose of 500 mg with valproate (800 to 1,600 mg/day) to healthy volunteers (n = 6) was accompanied by a 25% increase in elimination half-life of ethosuximide and a 15% decrease in its total clearance as compared to ethosuximide alone.
 Patients receiving valproate and ethosuximide, especially along with other anticonvulsants, should be monitored for alterations in serum concentrations of both drugs.
 
 Lamotrigine
 
 In a steady-state study involving 10 healthy volunteers, the elimination half-life of lamotrigine increased from 26 to 70 hours with valproate co-administration (a 165% increase).
 The dose of lamotrigine should be reduced when co-administered with valproate.
-Serious skin reactions (such as Stevens-Johnson Syndrome and toxic epidermal necrolysis) have been reported with concomitant lamotrigine and valproate administration.
+Serious skin reactions (such as Stevens-Johnson syndrome and toxic epidermal necrolysis) have been reported with concomitant lamotrigine and valproate administration.
 See lamotrigine package insert for details on lamotrigine dosing with concomitant valproate administration.
 
 Phenobarbital
@@ -183,7 +183,7 @@ Concomitant administration of valproate (500 mg BID) and lorazepam (1 mg BID) in
 Olanzapine
 
 No dose adjustment for olanzapine is necessary when olanzapine is administered concomitantly with valproate.
-Co-administration of valproate (500 mg BID) and olanzapine (5 mg) to healthy adults (n=10) caused 15% reduction in Cmax and 35% reduction in AUC of olanzapine.
+Co-administration of valproate (500 mg BID) and olanzapine (5 mg) to healthy adults (n=10) caused 15% reduction in C max and 35% reduction in AUC of olanzapine.
 
 Oral Contraceptive Steroids
 

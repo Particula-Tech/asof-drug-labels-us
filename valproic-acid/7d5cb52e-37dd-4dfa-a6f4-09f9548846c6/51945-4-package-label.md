@@ -16,51 +16,36 @@ Rx ONLY
 
 Pharmaceutical Associates, Inc. Greenville, SC 29605
 
-PHARMACIST: Dispense in the original container or USP tight container.
-Do not accept if inner foil seal is broken or missing.
-Store at 20° to 25°C (68° to 77°F).
-[See USP Controlled Room Temperature].
+# PRINCIPAL DISPLAY PANEL - 5 mL Cup Label
 
-USUAL DOSAGE: See Package Insert for prescribing information.
+Delivers 5 mL NDC 0121-4675-05
 
-X0675160317 R03/17
-
-# PRINCIPAL DISPLAY PANEL - 10 mL Unit Dose Cup Label
-
-Delivers 10 mL
-
-NDC 0121-1350-10
-
-VALPROIC ACID ORAL SOLUTION USP
-
-500 mg/10 mL
-
-FOR INSTITUTIONAL USE ONLY
-
-Usual Dosage: See Insert.
-
-Rx ONLY
-
-PHARMACEUTICAL ASSOCIATES, INC. GREENVILLE, SC 29605
-
-A46751002
-
-# PRINCIPAL DISPLAY PANEL - 5 mL Unit Dose Cup Label
-
-Delivers 5 mL
-
-NDC 0121-4675-05
-
-VALPROIC ACID ORAL SOLUTION USP
+V ALPROIC A CID O RAL S OLUTION USP
 
 250 mg/5 mL
 
 FOR INSTITUTIONAL USE ONLY
 
 Usual Dosage: See Insert.
-
 Rx ONLY
 
 PHARMACEUTICAL ASSOCIATES, INC. GREENVILLE, SC 29605
 
 A46750500
+
+# PRINCIPAL DISPLAY PANEL - 10 mL Cup Label
+
+Delivers 10 mL NDC 0121-1350-10
+
+V ALPROIC A CID O RAL S OLUTION USP
+
+500 mg/10 mL
+
+FOR INSTITUTIONAL USE ONLY
+
+Usual Dosage: See Insert.
+Rx ONLY
+
+PHARMACEUTICAL ASSOCIATES, INC. GREENVILLE, SC 29605
+
+F4675100617

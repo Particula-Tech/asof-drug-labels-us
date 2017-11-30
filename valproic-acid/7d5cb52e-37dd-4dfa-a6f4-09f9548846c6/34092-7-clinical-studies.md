@@ -8,7 +8,7 @@ The efficacy of divalproex sodium in reducing the incidence of complex partial s
 
 In one, multi-clinic, placebo controlled study employing an add-on design (adjunctive therapy), 144 patients who continued to suffer eight or more CPS per 8 weeks during an 8 week period of monotherapy with doses of either carbamazepine or phenytoin sufficient to assure plasma concentrations within the "therapeutic range" were randomized to receive, in addition to their original antiepilepsy drug (AED), either divalproex sodium or placebo.
 Randomized patients were to be followed for a total of 16 weeks.
-The following Table presents the findings.
+The following table presents the findings.
 
 Table 5.
 Adjunctive Therapy Study Median Incidence of CPS per 8 Weeks
@@ -21,11 +21,10 @@ Adjunctive Therapy Study Median Incidence of CPS per 8 Weeks
 Figure 1 presents the proportion of patients (X axis) whose percentage reduction from baseline in complex partial seizure rates was at least as great as that indicated on the Y axis in the adjunctive therapy study.
 A positive percent reduction indicates an improvement (i.e., a decrease in seizure frequency), while a negative percent reduction indicates worsening.
 Thus, in a display of this type, the curve for an effective treatment is shifted to the left of the curve for placebo.
-This Figure shows that the proportion of patients achieving any particular level of improvement was consistently higher for divalproex sodium than for placebo.
+This figure shows that the proportion of patients achieving any particular level of improvement was consistently higher for divalproex sodium than for placebo.
 For example, 45% of patients treated with divalproex sodium had a ≥ 50% reduction in complex partial seizure rate compared to 23% of patients treated with placebo.
 
-| Figure 1 |
-| --- |
+Figure 1
 
 The second study assessed the capacity of divalproex sodium to reduce the incidence of CPS when administered as the sole AED.
 The study compared the incidence of CPS among patients randomized to either a high or low dose treatment arm.
@@ -34,21 +33,20 @@ Patients entering the randomized phase were then brought to their assigned targe
 Less than 50% of the patients randomized, however, completed the study.
 In patients converted to divalproex sodium monotherapy, the mean total valproate concentrations during monotherapy were 71 and 123 mcg/mL in the low dose and high dose groups, respectively.
 
-The following Table presents the findings for all patients randomized who had at least one post-randomization assessment.
+The following table presents the findings for all patients randomized who had at least one post-randomization assessment.
 
 Table 6.
 Monotherapy Study Median Incidence of CPS per 8 Weeks
 
 | Treatment | Number of Patients | Baseline Incidence | Randomized Phase Incidence |
 | --- | --- | --- | --- |
-| High dose divalproex sodium | 131 | 13.2 | 10.7 Reduction from baseline statistically significantly greater for high dose than low dose at p ≥ 0.05 level. |
+| High dose divalproex sodium | 131 | 13.2 | 10.7 Reduction from baseline statistically significantly greater for high dose than low dose at p ≤ 0.05 level. |
 | Low dose divalproex sodium | 134 | 14.2 | 13.8 |
 
 Figure 2 presents the proportion of patients (X axis) whose percentage reduction from baseline in complex partial seizure rates was at least as great as that indicated on the Y axis in the monotherapy study.
 A positive percent reduction indicates an improvement (i.e., a decrease in seizure frequency), while a negative percent reduction indicates worsening.
 Thus, in a display of this type, the curve for a more effective treatment is shifted to the left of the curve for a less effective treatment.
-This Figure shows that the proportion of patients achieving any particular level of reduction was consistently higher for high dose divalproex sodium than for low dose divalproex sodium.
+This figure shows that the proportion of patients achieving any particular level of reduction was consistently higher for high dose divalproex sodium than for low dose divalproex sodium.
 For example, when switching from carbamazepine, phenytoin, phenobarbital or primidone monotherapy to high dose divalproex sodium monotherapy, 63% of patients experienced no change or a reduction in complex partial seizure rates compared to 54% of patients receiving low dose divalproex sodium.
 
-| Figure 2 |
-| --- |
+Figure 2

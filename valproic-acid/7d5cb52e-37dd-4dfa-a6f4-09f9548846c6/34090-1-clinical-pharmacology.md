@@ -3,7 +3,7 @@
 ## 12.1 Mechanism of Action
 
 Valproic acid dissociates to the valproate ion in the gastrointestinal tract.
-The mechanisms by which valproate exerts its antiepileptic effects have not been established.
+The mechanisms by which valproate exerts its therapeutic effects have not been established.
 It has been suggested that its activity in epilepsy is related to increased brain concentrations of gamma-aminobutyric acid (GABA).
 
 ## 12.2 Pharmacodynamics
@@ -17,7 +17,7 @@ Higher than expected free fractions occur in the elderly, in hyperlipidemic pati
 
 Epilepsy
 
-The therapeutic range is commonly considered to be 50 to 100 mcg/mL of total valproate, although some patients may be controlled with lower or higher plasma concentrations.
+The therapeutic range in epilepsy is commonly considered to be 50 to 100 mcg/mL of total valproate, although some patients may be controlled with lower or higher plasma concentrations.
 
 ## 12.3 Pharmacokinetics
 
@@ -26,8 +26,8 @@ Absorption/Bioavailability
 Equivalent oral doses of divalproex sodium products and valproic acid capsules deliver equivalent quantities of valproate ion systemically.
 Although the rate of valproate ion absorption may vary with the formulation administered (liquid, solid, or sprinkle), conditions of use (e.g., fasting or postprandial) and the method of administration (e.g., whether the contents of the capsule are sprinkled on food or the capsule is taken intact), these differences should be of minor clinical importance under the steady state conditions achieved in chronic use in the treatment of epilepsy.
 
-However, it is possible that differences among the various valproate products in Tmax and Cmax could be important upon initiation of treatment.
-For example, in single dose studies, the effect of feeding had a greater influence on the rate of absorption of the divalproex sodium tablet (increase in Tmax from 4 to 8 hours) than on the absorption of the divalproex sodium sprinkle capsules (increase in Tmax from 3.3 to 4.8 hours).
+However, it is possible that differences among the various valproate products in T max and C max could be important upon initiation of treatment.
+For example, in single dose studies, the effect of feeding had a greater influence on the rate of absorption of the divalproex sodium tablet (increase in T max from 4 to 8 hours) than on the absorption of the divalproex sodium sprinkle capsules (increase in T max from 3.3 to 4.8 hours).
 
 While the absorption rate from the G.I. tract and fluctuation in valproate plasma concentrations vary with dosing regimen and formulation, the efficacy of valproate as an anticonvulsant in chronic use is unlikely to be affected.
 Experience employing dosing regimens from once-a-day to four-times-a-day, as well as studies in primate epilepsy models involving constant rate infusion, indicate that total daily systemic bioavailability (extent of absorption) is the primary determinant of seizure control and that differences in the ratios of plasma peak to trough concentrations between valproate formulations are inconsequential from a practical clinical standpoint.
@@ -41,8 +41,7 @@ Protein Binding
 
 The plasma protein binding of valproate is concentration dependent and the free fraction increases from approximately 10% at 40 mcg/mL to 18.5% at 130 mcg/mL.
 Protein binding of valproate is reduced in the elderly, in patients with chronic hepatic diseases, in patients with renal impairment, and in the presence of other drugs (e.g., aspirin).
-Conversely, valproate may displace certain protein-bound drugs (e.g., phenytoin, carbamazepine, warfarin, and tolbutamide).
-(See Drug Interactions (7.2) for more detailed information on the pharmacokinetic interactions of valproate with other drugs.)
+Conversely, valproate may displace certain protein-bound drugs (e.g., phenytoin, carbamazepine, warfarin, and tolbutamide) [see Drug Interactions (7.2) for more detailed information on the pharmacokinetic interactions of valproate with other drugs].
 
 CNS Distribution
 
@@ -63,7 +62,7 @@ Elimination
 
 Mean plasma clearance and volume of distribution for total valproate are 0.56 L/hr/1.73 m 2 and 11 L/1.73 m 2, respectively.
 Mean plasma clearance and volume of distribution for free valproate are 4.6 L/hr/1.73 m 2 and 92 L/1.73 m 2.
-Mean terminal half-life for valproate monotherapy ranged from 9 to 16 hours following oral dosing regimens of 250 to 1000 mg.
+Mean terminal half-life for valproate monotherapy ranged from 9 to 16 hours following oral dosing regimens of 250 to 1,000 mg.
 
 The estimates cited apply primarily to patients who are not taking drugs that affect hepatic metabolizing enzyme systems.
 For example, patients taking enzyme-inducing antiepileptic drugs (carbamazepine, phenytoin, and phenobarbital) will clear valproate more rapidly.
@@ -86,7 +85,7 @@ Over the age of 10 years, children have pharmacokinetic parameters that approxim
 
 Elderly
 
-The capacity of elderly patients (age range: 68 to 89 years) to eliminate valproate has been shown to be reduced compared to younger adults (age range: 22 to 26).
+The capacity of elderly patients (age range: 68 to 89 years) to eliminate valproate has been shown to be reduced compared to younger adults (age range: 22 to 26 years).
 Intrinsic clearance is reduced by 39%; the free fraction is increased by 44%.
 Accordingly, the initial dosage should be reduced in the elderly [see Dosage and Administration (2.2)].
 
@@ -102,12 +101,11 @@ Effect of Disease
 
 Liver Disease
 
-[See Boxed Warning, Contraindications (4), and Warnings and Precautions (5.1)].
 Liver disease impairs the capacity to eliminate valproate.
 In one study, the clearance of free valproate was decreased by 50% in 7 patients with cirrhosis and by 16% in 4 patients with acute hepatitis, compared with 6 healthy subjects.
 In that study, the half-life of valproate was increased from 12 to 18 hours.
 Liver disease is also associated with decreased albumin concentrations and larger unbound fractions (2 to 2.6 fold increase) of valproate.
-Accordingly, monitoring of total concentrations may be misleading since free concentrations may be substantially elevated in patients with hepatic disease whereas total concentrations may appear to be normal.
+Accordingly, monitoring of total concentrations may be misleading since free concentrations may be substantially elevated in patients with hepatic disease whereas total concentrations may appear to be normal [see Boxed Warning, Contraindications (4), and Warnings and Precautions (5.1)].
 
 Renal Disease
 

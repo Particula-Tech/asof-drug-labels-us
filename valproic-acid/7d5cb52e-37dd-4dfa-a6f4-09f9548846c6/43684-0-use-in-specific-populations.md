@@ -6,7 +6,7 @@ Pregnancy Category D for epilepsy [see Warnings and Precautions (5.2, 5.3)].
 
 Pregnancy Registry
 
-To collect information on the effects of in utero exposure to valproic acid, physicians should encourage pregnant patients taking valproic acid to enroll in the NAAED Pregnancy Registry.
+To collect information on the effects of in utero exposure to valproic acid, physicians should encourage pregnant patients taking valproic acid to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
 This can be done by calling toll free 1-888-233-2334, and must be done by the patients themselves.
 Information on the registry can be found at the website, http://www.aedpregnancyregistry.org/.
 
@@ -32,11 +32,11 @@ Clinical Considerations
   The risk of spina bifida following in utero valproate exposure is generally estimated as 1-2%, compared to an estimated general population risk for spina bifida of about 0.06 to 0.07% (6 to 7 in 10,000 births).
 - Valproate can cause decreased IQ scores in children whose mothers were treated with valproate during pregnancy.
 - Because of the risks of decreased IQ, neural tube defects, and other fetal adverse events, which may occur very early in pregnancy:
-- Valproate should not be administered to a woman of childbearing potential unless the drug is essential to the management of her medical condition.
-  This is especially important when valproate use is considered for a condition not usually associated with permanent injury or death (e.g., migraine).
-- Valproic acid should not be used to treat women with epilepsy who are pregnant or who plan to become pregnant unless other treatments have failed to provide adequate symptom control or are otherwise unacceptable.
-  In such women, the benefits of treatment with valproate during pregnancy may still outweigh the risks.
-  When treating a pregnant woman or a woman of childbearing potential, carefully consider both the potential risks and benefits of treatment and provide appropriate counseling.
+  - Valproate should not be administered to a woman of childbearing potential unless the drug is essential to the management of her medical condition.
+    This is especially important when valproate use is considered for a condition not usually associated with permanent injury or death (e.g., migraine).
+  - Valproate should not be used to treat women with epilepsy who are pregnant or who plan to become pregnant unless other treatments have failed to provide adequate symptom control or are otherwise unacceptable.
+    In such women, the benefits of treatment with valproate during pregnancy may still outweigh the risks.
+    When treating a pregnant woman or a woman of childbearing potential, carefully consider both the potential risks and benefits of treatment and provide appropriate counseling.
 - To prevent major seizures, women with epilepsy should not discontinue valproate abruptly, as this can precipitate status epilepticus with resulting maternal and fetal hypoxia and threat to life.
   Even minor seizures may pose some hazard to the developing embryo or fetus.
   However, discontinuation of the drug may be considered prior to and during pregnancy in individual cases if the seizure disorder severity and frequency do not pose a serious threat to the patient.
@@ -56,7 +56,7 @@ Data
 Human
 
 There is an extensive body of evidence demonstrating that exposure to valproate in utero increases the risk of neural tube defects and other structural abnormalities.
-Based on published data from the CDC’s National Birth Defects Prevention Network, the risk of spina bifida in the general population is about 0.06 to 0.07%.
+Based on published data from the CDC's National Birth Defects Prevention Network, the risk of spina bifida in the general population is about 0.06 to 0.07%.
 The risk of spina bifida following in utero valproate exposure has been estimated to be approximately 1 to 2%.
 
 The NAAED Pregnancy Registry has reported a major malformation rate of 9-11% in the offspring of women exposed to an average of 1,000 mg/day of valproate monotherapy during pregnancy.
@@ -90,12 +90,12 @@ Caution should be exercised when valproate is administered to a nursing woman.
 
 ## 8.4 Pediatric Use
 
-Experience has indicated that pediatric patients under the age of 2 years are at a considerably increased risk of developing fatal hepatotoxicity, especially those with the aforementioned conditions [see Boxed Warning].
+Experience has indicated that pediatric patients under the age of two years are at a considerably increased risk of developing fatal hepatotoxicity, especially those with the aforementioned conditions [see Boxed Warning].
 When valproic acid is used in this patient group, it should be used with extreme caution and as a sole agent.
 The benefits of therapy should be weighed against the risks.
 Above the age of 2 years, experience in epilepsy has indicated that the incidence of fatal hepatotoxicity decreases considerably in progressively older patient groups.
 
-Younger children, especially those receiving enzyme-inducing drugs, will require larger maintenance doses to attain targeted total and unbound valproic acid concentrations.
+Younger children, especially those receiving enzyme-inducing drugs, will require larger maintenance doses to attain targeted total and unbound valproate concentrations.
 Pediatric patients (i.e., between 3 months and 10 years) have 50% higher clearances expressed on weight (i.e., mL/min/kg) than do adults.
 Over the age of 10 years, children have pharmacokinetic parameters that approximate those of adults.
 
@@ -106,7 +106,7 @@ Pediatric Clinical Trials
 
 Divalproex sodium was studied in seven pediatric clinical trials.
 
-Two of the pediatric studies were double-blinded placebo-controlled trials to evaluate the efficacy of divalproex sodium ER for the indications of mania (150 patients aged 10 to 17 years, 76 of whom were on divalproex sodium ER and migraine (304 patients aged 12 to 17 years, 231 of whom were on divalproex sodium ER).
+Two of the pediatric studies were double-blinded placebo-controlled trials to evaluate the efficacy of divalproex sodium ER for the indications of mania (150 patients aged 10 to 17 years, 76 of whom were on divalproex sodium ER) and migraine (304 patients aged 12 to 17 years, 231 of whom were on divalproex sodium ER).
 Efficacy was not established for either the treatment of migraine or the treatment of mania.
 The most common drug-related adverse reactions (reported >5% and twice the rate of placebo) reported in the controlled pediatric mania study were nausea, upper abdominal pain, somnolence, increased ammonia, gastritis and rash.
 
@@ -115,7 +115,7 @@ Two six-month pediatric studies were conducted to evaluate the long-term safety 
 Two twelve-month pediatric studies were conducted to evaluate the long-term safety of divalproex sodium ER for the indication of migraine (353 patients aged 12 to 17 years).
 One twelve-month study was conducted to evaluate the safety of divalproex sodium Sprinkle Capsules in the indication of partial seizures (169 patients aged 3 to 10 years).
 
-In these seven trials, the safety and tolerability of divalproex sodium in pediatric patients were shown to be comparable to those in adults [see Adverse Reactions (6)].
+In these seven clinical trials, the safety and tolerability of divalproex sodium in pediatric patients were shown to be comparable to those in adults [see Adverse Reactions (6)].
 
 Juvenile Animal Toxicology
 

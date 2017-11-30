@@ -22,7 +22,7 @@ The data described in the following section were obtained using divalproex sodiu
 Based on a placebo-controlled trial of adjunctive therapy for treatment of complex partial seizures, divalproex sodium was generally well tolerated with most adverse reactions rated as mild to moderate in severity.
 Intolerance was the primary reason for discontinuation in the divalproex sodium-treated patients (6%), compared to 1% of placebo-treated patients.
 
-Table 3 lists treatment-emergent adverse reactions which were reported by ≥ 5% of divalproex sodium-treated patients and for which the incidence was greater than in the placebo group, in a placebo-controlled trial of adjunctive therapy for the treatment of complex partial seizures.
+Table 3 lists treatment-emergent adverse reactions which were reported by ≥ 5% of divalproex sodium-treated patients and for which the incidence was greater than in the placebo group, in a placebo-controlled trial of adjunctive therapy for treatment of complex partial seizures.
 Since patients were also treated with other antiepilepsy drugs, it is not possible, in most cases, to determine whether the following adverse reactions can be ascribed to divalproex sodium alone, or the combination of divalproex sodium and other antiepilepsy drugs.
 
 Table 3.
@@ -150,7 +150,7 @@ Urogenital System: Dysuria.
 
 ## 6.3 Migraine
 
-Although valproic acid has not been evaluated for safety and efficacy in the treatment of prophylaxis of migraine headaches, the following adverse reactions not listed above were reported by 1% or more of patients from two placebo-controlled clinical trials of divalproex sodium tablets.
+Although valproic acid has not been evaluated for safety and efficacy in the prophylactic treatment of migraine headaches, the following adverse reactions not listed above were reported by 1% or more of patients from two placebo-controlled clinical trials of divalproex sodium tablets.
 
 Body as a Whole: Face edema.
 
@@ -167,14 +167,16 @@ Dermatologic: Hair texture changes, hair color changes, photosensitivity, erythe
 
 Psychiatric: Emotional upset, psychosis, aggression, psychomotor hyperactivity, hostility, disturbance in attention, learning disorder, and behavioral deterioration.
 
-Neurologic: There have been several reports of acute or subacute cognitive decline and behavioral changes (apathy or irritability) with cerebral pseudoatrophy on imaging associated with valproate therapy; both the cognitive/behavioral changes and cerebral pseudoatrophy reversed partially or fully after valproate discontinuation.
+Neurologic: Paradoxical convulsion
+
+There have been several reports of acute or subacute cognitive decline and behavioral changes (apathy or irritability) with cerebral pseudoatrophy on imaging associated with valproate therapy; both the cognitive/behavioral changes and cerebral pseudoatrophy reversed partially or fully after valproate discontinuation.
 
 There have been reports of acute or subacute encephalopathy in the absence of elevated ammonia levels, elevated valproate levels, or neuroimaging changes.
 The encephalopathy reversed partially or fully after valproate discontinuation.
 
 Musculoskeletal: Fractures, decreased bone mineral density, osteopenia, osteoporosis, and weakness.
 
-Hematologic: Relative lymphocytosis, macrocytosis, leucopenia, anemia including macrocytic with or without folate deficiency, bone marrow suppression, pancytopenia, aplastic anemia, agranulocytosis and acute intermittent porphyria.
+Hematologic: Relative lymphocytosis, macrocytosis, leukopenia, anemia including macrocytic with or without folate deficiency, bone marrow suppression, pancytopenia, aplastic anemia, agranulocytosis and acute intermittent porphyria.
 
 Endocrine: Irregular menses, secondary amenorrhea, hyperandrogenism, hirsutism, elevated testosterone level, breast enlargement, galactorrhea, parotid gland swelling, polycystic ovary disease, decreased carnitine concentrations, hyponatremia, hyperglycinemia, and inappropriate ADH secretion.
 
