@@ -17,7 +17,7 @@ Hyperkalemia: Tell patients not to use potassium supplements or salt substitutes
 
 Hypoglycemia: Tell diabetic patients treated with oral antidiabetic agents or insulin starting an ACE inhibitor to monitor for hypoglycemia closely, especially during the first month of combined use.
 
-Distributed by: Amneal Pharmaceuticals Bridgewater, NJ 08807
+Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-10-2015-01
+08-2017-02

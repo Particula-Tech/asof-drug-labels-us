@@ -15,17 +15,17 @@ Perform serial ultrasound examinations to assess the intra-amniotic environment.
 If oligohydramnios is observed, discontinue benazepril HCl, unless it is considered lifesaving for the mother.
 Fetal testing may be appropriate, based on the week of pregnancy.
 Patients and physicians should be aware, however, that oligohydramnios may not appear until after the fetus has sustained irreversible injury.
-Closely observe infants with histories of in utero exposure to benazepril HCl for hypotension, oliguria, and hyperkalemia [see Use in Specific Populations (8.4)].
+Closely observe infants with histories of in utero exposure to benazepril HCl for hypotension, oliguria, and hyperkalemia [see Use in Specific Populations (8.3)].
 
-## 8.3 Nursing Mothers
+## 8.2 Nursing Mothers
 
 Minimal amounts of unchanged benazepril and of benazeprilat are excreted into the breast milk of lactating women treated with benazepril.
 A newborn child ingesting entirely breast milk would receive less than 0.1% of the mg/kg maternal dose of benazepril and benazeprilat.
 
-## 8.4 Pediatric Use
+## 8.3 Pediatric Use
 
 The antihypertensive effects of benazepril HCl have been evaluated in a double-blind study in pediatric patients 7 to 16 years of age [see Clinical Pharmacology (12.3)].
-The pharmacokinetics of benazepril HCl has been evaluated in pediatric patients 6 to 16 years of age [see Clinical Pharmacology (12.3)].
+The pharmacokinetics of benazepril HCl have been evaluated in pediatric patients 6 to 16 years of age [see Clinical Pharmacology (12.3)].
 
 Infants below the age of 1 year should not be given benazepril HCl because of the risk of effects on kidney development.
 
@@ -35,7 +35,7 @@ Neonates with a history of in utero exposure to benazepril HCl: If oliguria or h
 Exchange transfusions or dialysis may be required as a means of reversing hypotension and/or substituting for disordered renal function.
 Benazepril, which crosses the placenta, can theoretically be removed from the neonatal circulation by these means; there are occasional reports of benefit from these maneuvers with another ACE inhibitor, but experience is limited.
 
-## 8.5 Geriatric Use
+## 8.4 Geriatric Use
 
 Of the total number of patients who received benazepril in U.S. clinical studies of benazepril HCl, 18% were 65 or older while 2% were 75 or older.
 No overall differences in effectiveness or safety were observed between these patients and younger patients, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
@@ -43,11 +43,11 @@ No overall differences in effectiveness or safety were observed between these pa
 Benazepril and benazeprilat are substantially excreted by the kidney.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function [see Dosage and Administration (2.2)].
 
-## 8.6 Race
+## 8.5 Race
 
-ACE inhibitors, including benazepril HCl, as monotherapy, have an effect on blood pressure that is less in black patients than in non-blacks.
+ACE inhibitors, including benazepril HCl, as monotherapy, have an effect on blood pressure that is less in Black patients than in non-Blacks.
 
-## 8.7 Renal Impairment
+## 8.6 Renal Impairment
 
 Dose adjustment of benazepril HCl is required in patients undergoing hemodialysis or whose creatinine clearance is ≤30 mL/min.
 No dose adjustment of benazepril HCl is required in patients with creatinine clearance >30 mL/min [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].

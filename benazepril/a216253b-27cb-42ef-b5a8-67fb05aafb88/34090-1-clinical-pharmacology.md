@@ -7,7 +7,7 @@ Benazeprilat has much greater ACE inhibitory activity than does benazepril.
 ACE is a peptidyl dipeptidase that catalyzes the conversion of angiotensin I to the vasoconstrictor substance, angiotensin II.
 Angiotensin II also stimulates aldosterone secretion by the adrenal cortex.
 
-Inhibition of ACE results in decreased plasma angiotensin II, which leads to decreased vasopressor activity and to decrease aldosterone secretion.
+Inhibition of ACE results in decreased plasma angiotensin II, which leads to decreased vasopressor activity and to decreased aldosterone secretion.
 The latter decrease may result in a small increase of serum potassium.
 
 Removal of angiotensin II negative feedback on renin secretion leads to increased plasma renin activity.
@@ -21,7 +21,7 @@ While the mechanism through which benazepril lowers blood pressure is believed t
 ## 12.2 Pharmacodynamics
 
 Single and multiple doses of 10 mg or more of benazepril HCl cause inhibition of plasma ACE activity by at least 80% to 90% for at least 24 hours after dosing.
-Pressor responses to exogenous angiotensin I were inhibited by 60% to 90% (up to 4 hours post-dose) at the 10-mg dose.
+Pressor responses to exogenous angiotensin I were inhibited by 60% to 90% (up to 4 hours post-dose) at the 10 mg dose.
 
 Drug interactions
 
@@ -30,7 +30,7 @@ Benazepril, like other ACE inhibitors, has had less than additive effects with b
 
 ## 12.3 Pharmacokinetics
 
-The pharmacokinetics of benazepril is approximately dose-proportional within the dosage range of 10 to 80 mg.
+The pharmacokinetics of benazepril are approximately dose-proportional within the dosage range of 10 to 80 mg.
 
 Following oral administration of benazepril HCl, peak plasma concentrations of benazepril, and its active metabolite benazeprilat are reached within 0.5 to 1 hours and 1 to 2 hours, respectively.
 While the bioavailability of benazepril is not affected by food, time to peak plasma concentrations of benazeprilat is delayed to 2 to 4 hours.
@@ -58,7 +58,7 @@ The parent compound, benazepril, was not detected in the dialysate.
 
 Hepatic impairment In patients with hepatic insufficiency (due to cirrhosis), the pharmacokinetics of benazeprilat are essentially unaltered.
 
-Drug Interactions The pharmacokinetics of benazepril is not affected by the following drugs: hydrochlorothiazide, furosemide, chlorthalidone, digoxin, propranolol, atenolol, nifedipine, amlodipine, naproxen, acetylsalicylic acid, or cimetidine.
+Drug Interactions The pharmacokinetics of benazepril are not affected by the following drugs: hydrochlorothiazide, furosemide, chlorthalidone, digoxin, propranolol, atenolol, nifedipine, amlodipine, naproxen, acetylsalicylic acid, or cimetidine.
 Likewise the administration of benazepril does not substantially affect the pharmacokinetics of these medications (cimetidine kinetics were not studied).
 
 Pediatrics The pharmacokinetics of benazaprilat, evaluated in pediatric patients with hypertension following oral administration of a single dose is presented in table below.
