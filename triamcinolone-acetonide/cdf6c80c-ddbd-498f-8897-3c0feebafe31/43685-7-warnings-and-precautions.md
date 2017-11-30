@@ -23,16 +23,16 @@ If a favorable response does not occur promptly, the corticosteroid should be di
 
 Patients using Kenalog Spray should receive the following information and instructions:
 
-1. This medication is to be used as directed by the physician.
+1. 1.This medication is to be used as directed by the physician.
    It is for external use only; avoid contact with the eyes and inhalation of the spray.
-2. Patients should be advised not to use this medication for any disorder other than for which it was prescribed.
-3. The treated skin area should not be bandaged or otherwise covered or wrapped as to be occlusive unless directed by the physician.
-4. Patients should report any signs of local adverse reactions.
-5. Parents of pediatric patients should be advised not to use tight-fitting diapers or plastic pants on a child being treated in the diaper area, as these garments may constitute occlusive dressings.
-6. Do not use Kenalog Spray on the underarms or groin areas unless directed by your physician.
-7. If no improvement is seen within 2 weeks, contact your physician.
-8. Do not use other corticosteroid-containing products while using Kenalog Spray without first consulting your physician.
-9. Kenalog Spray is flammable.
+2. 2.Patients should be advised not to use this medication for any disorder other than for which it was prescribed.
+3. 3.The treated skin area should not be bandaged or otherwise covered or wrapped as to be occlusive unless directed by the physician.
+4. 4.Patients should report any signs of local adverse reactions.
+5. 5.Parents of pediatric patients should be advised not to use tight-fitting diapers or plastic pants on a child being treated in the diaper area, as these garments may constitute occlusive dressings.
+6. 6.Do not use Kenalog Spray on the underarms or groin areas unless directed by your physician.
+7. 7.If no improvement is seen within 2 weeks, contact your physician.
+8. 8.Do not use other corticosteroid-containing products while using Kenalog Spray without first consulting your physician.
+9. 9.Kenalog Spray is flammable.
    Avoid heat, flames or smoking when applying Kenalog Spray.
 
 ## Laboratory Tests

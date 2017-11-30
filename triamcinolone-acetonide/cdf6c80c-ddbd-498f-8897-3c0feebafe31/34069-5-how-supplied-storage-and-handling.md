@@ -16,8 +16,14 @@ Keep out of reach of children.
 
 To report SUSPECTED ADVERSE REACTIONS, contact the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
-RANBAXY
+Manufactured by:
 
-Jacksonville, FL 32257 USA
+DPT Laboratories Inc.
 
-Revised August 2012
+San Antonio, TX 78215
+
+Distributed by:
+
+Sun Pharmaceutical Industries, Inc.
+
+Cranbury, NJ 08512
