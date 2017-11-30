@@ -1,0 +1,3 @@
+When carbidopa tablet is to be given to carbidopa-naive patients who are being treated with levodopa, the two drugs should be given at the same time, starting with no more than 20 to 25% of the previous daily dosage of levodopa when given without carbidopa tablets.
+At least twelve hours should elapse between the last dose of levodopa and initiation of therapy with carbidopa and levodopa.
+See the WARNINGS and DOSAGE AND ADMINISTRATION sections before initiating therapy.

@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA204763"
+  ],
+  "inn": "carbidopa",
+  "labeler": "Novel Laboratories, Inc.",
+  "package_ndcs": [
+    "40032-980-01",
+    "40032-980-03",
+    "40032-980-10"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "carbidopa",
+      "name": "Carbidopa"
+    }
+  ],
+  "setid": "7e5c9666-7a7c-4b64-87e4-7be6ae53603e",
+  "source": "dailymed"
+}
