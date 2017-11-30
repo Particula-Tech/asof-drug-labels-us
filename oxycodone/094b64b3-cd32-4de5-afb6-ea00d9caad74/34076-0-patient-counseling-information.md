@@ -91,4 +91,4 @@ Manufactured by: Amneal Pharmaceuticals of NY LLC Brookhaven, NY 11719
 To request medical information or to report suspected adverse reactions, contact Amneal Pharmaceuticals at 1-877-835-5472.
 
 Rev.
-03-2017-03
+06-2017-04

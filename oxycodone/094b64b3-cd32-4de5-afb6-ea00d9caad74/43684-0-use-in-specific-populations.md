@@ -82,13 +82,13 @@ Titrate the dosage of oxycodone HCl slowly in geriatric patients and monitor clo
 Oxycodone is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
 
-## 8.6 Renal Impairment
+## 8.6 Hepatic Impairment
 
 Because oxycodone is extensively metabolized in the liver, its clearance may decrease in patients with hepatic impairment.
 Initiate therapy in these patients with a lower than usual dosage of oxycodone HCl and titrate carefully.
 Monitor closely for adverse events such as respiratory depression, sedation, and hypotension [see Clinical Pharmacology (12.3)].
 
-## 8.7 Hepatic Impairment
+## 8.7 Renal Impairment
 
 Because oxycodone is known to be substantially excreted by the kidney, its clearance may decrease in patients with renal impairment.
 Initiate therapy with a lower than usual dosage of oxycodone HCl and titrate carefully.
