@@ -24,8 +24,8 @@ Patients with Adverse Reactions in Controlled Studies
 
 ## 6.2 Post-marketing Experience
 
-The following events have been reported during postapproval use of SOMA.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+1. The following events have been reported during postapproval use of SOMA.
+   Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Cardiovascular: Tachycardia, postural hypotension, and facial flushing [see Overdosage (10)].
 Central Nervous System: Drowsiness, dizziness, vertigo, ataxia, tremor, agitation, irritability, headache, depressive reactions, syncope, insomnia, and seizures [see Overdosage (10)].

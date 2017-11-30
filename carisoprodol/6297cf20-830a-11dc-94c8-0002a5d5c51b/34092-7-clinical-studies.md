@@ -31,7 +31,8 @@ Results of the Primary Efficacy Endpointsa in Studies 1 and 2
 | 2 | Difference between SOMA and Placebo, Mean (SE) b (95% CI) |  | 0.7 (0.5, 0.9) |  |
 |  | Global Impression of Change, Mean (SE) b | 1.7 (0.1) | 2.2 (0.1) |  |
 |  | Difference between SOMA and Placebo, Mean (SE) b (95% CI) |  | 0.5 (0.4, 0.7) |  |
-| a The primary efficacy endpoints (Relief from Starting Backache and Global Impression of Change) were assessed by the patients on Study Day 3. These endpoints were scored on a 5-point rating scale from 0 (worst outcome) to 4 (best outcome). |  |  |  |  |
-| b Mean is the least squared mean and SE is the standard error of the mean. The ANOVA model was used for the primary statistical comparison between the SOMA 250 mg and placebo groups. |  |  |  |  |
 
-Patients treated with SOMA experienced improvement in function as measured by the Roland-Morris Disability Questionnaire (RMDQ) score on Days 3 and 7.
+1. a The primary efficacy endpoints (Relief from Starting Backache and Global Impression of Change) were assessed by the patients on Study Day 3.
+   These endpoints were scored on a 5-point rating scale from 0 (worst outcome) to 4 (best outcome).
+2. b Mean is the least squared mean and SE is the standard error of the mean.
+   The ANOVA model was used for the primary statistical comparison between the SOMA 250 mg and placebo groups.

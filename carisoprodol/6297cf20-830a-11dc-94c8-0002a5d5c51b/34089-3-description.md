@@ -7,4 +7,4 @@ Carisoprodol is present as a racemic mixture.
 Chemically, carisoprodol is N-isopropyl-2-methyl-2-propyl-1,3-propanediol dicarbamate and the molecular formula is C12H24N2O4, with a molecular weight of 260.33.
 The structural formula is:
 
-Other ingredients in the SOMA drug product include alginic acid, magnesium stearate, potassium sorbate, starch, and tribasic calcium phosphate.
+1. Other ingredients in the SOMA drug product include alginic acid, magnesium stearate, potassium sorbate, starch, and tribasic calcium phosphate.

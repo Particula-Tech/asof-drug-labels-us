@@ -4,12 +4,12 @@ Patients should be advised to contact their physician if they experience any adv
 
 ## 17.1 Sedation
 
-Patients should be advised that SOMA may cause drowsiness and/or dizziness, and has been associated with motor vehicle accidents.
-Patients should be advised to avoid taking SOMA before engaging in potentially hazardous activities such as driving a motor vehicle or operating machinery [see Warnings and Precautions (5.1)].
+1. Patients should be advised that SOMA may cause drowsiness and/or dizziness, and has been associated with motor vehicle accidents.
+   Patients should be advised to avoid taking SOMA before engaging in potentially hazardous activities such as driving a motor vehicle or operating machinery [see Warnings and Precautions (5.1)].
 
 ## 17.2 Avoidance of Alcohol and Other CNS Depressants
 
-Patients should be advised to avoid alcoholic beverages while taking SOMA and to check with their doctor before taking other CNS depressants such as benzodiazepines, opioids, tricyclic antidepressants, sedating antihistamines, or other sedatives [see Warnings and Precautions (5.1)].
+1. Patients should be advised to avoid alcoholic beverages while taking SOMA and to check with their doctor before taking other CNS depressants such as benzodiazepines, opioids, tricyclic antidepressants, sedating antihistamines, or other sedatives [see Warnings and Precautions (5.1)].
 
 ## 17.3 SOMA Should Only Be Used for Short-Term Treatment
 

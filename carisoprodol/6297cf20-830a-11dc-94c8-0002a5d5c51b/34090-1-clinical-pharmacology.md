@@ -15,9 +15,9 @@ The degree to which these properties of meprobamate contribute to the safety and
 
 ## 12.3 Pharmacokinetics
 
-The pharmacokinetics of carisoprodol and its metabolite meprobamate were studied in a crossover study of 24 healthy subjects (12 male and 12 female) who received single doses of 250 mg and 350 mg SOMA (see Table 2).
-The exposure of carisoprodol and meprobamate was dose proportional between the 250 mg and 350 mg doses.
-The Cmax of meprobamate was 2.5 ± 0.5 μg/mL (mean ± SD) after administration of a single 350 mg dose of SOMA, which is approximately 30% of the Cmax of meprobamate (approximately 8 μg/mL) after administration of a single 400 mg dose of meprobamate.
+1. The pharmacokinetics of carisoprodol and its metabolite meprobamate were studied in a crossover study of 24 healthy subjects (12 male and 12 female) who received single doses of 250 mg and 350 mg SOMA (see Table 2).
+   The exposure of carisoprodol and meprobamate was dose proportional between the 250 mg and 350 mg doses.
+   The Cmax of meprobamate was 2.5 ± 0.5 μg/mL (mean ± SD) after administration of a single 350 mg dose of SOMA, which is approximately 30% of the Cmax of meprobamate (approximately 8 μg/mL) after administration of a single 400 mg dose of meprobamate.
 
 Table 2.
 Pharmacokinetic Parameters of Carisoprodol and Meprobamate (Mean ± SD, n=24)
