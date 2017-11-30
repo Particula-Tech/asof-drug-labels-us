@@ -1,6 +1,6 @@
-# 16. HOW SUPPLIED/STORAGE AND HANDLING
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Tamsulosin Hydrochloride Capsules USP, 0.4 mg are white to off-white free flowing pellets filled in size ‘2’ empty hard gelatin capsules with green colored cap printed with "ZA-18" in black ink and peach colored body printed with "0.4 mg" in black ink and are supplied as follows:
+Tamsulosin Hydrochloride Capsules USP, 0.4 mg are white to off-white free flowing pellets filled in size '2' empty hard gelatin capsules with green colored cap printed with "ZA-18" in black ink and peach colored body printed with "0.4 mg" in black ink and are supplied as follows:
 
 NDC 65841-695-06 in bottle of 30 capsules
 

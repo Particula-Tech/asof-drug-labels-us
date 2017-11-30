@@ -1,10 +1,10 @@
-# 5. WARNINGS AND PRECAUTIONS
+# 5 WARNINGS AND PRECAUTIONS
 
 ## 5.1 Orthostasis
 
 The signs and symptoms of orthostasis (postural hypotension, dizziness and vertigo) were detected more frequently in tamsulosin hydrochloride capsule-treated patients than in placebo recipients.
 As with other alpha adrenergic blocking agents there is a potential risk of syncope [see ADVERSE REACTIONS (6.1)].
-Patients beginning treatment with tamsulosin hydrochloride capsules should be cautioned to avoid situations in which injury could result should syncope occur [see PATIENT COUNSELING INFORMATION (17.1)].
+Patients beginning treatment with tamsulosin hydrochloride capsules should be cautioned to avoid situations in which injury could result should syncope occur.
 
 ## 5.2 Drug Interactions
 
@@ -25,15 +25,15 @@ Caution should be exercised with concomitant administration of warfarin and tams
 ## 5.3 Priapism
 
 Rarely (probably less than 1 in 50,000 patients), tamsulosin, like other alpha1 antagonists, has been associated with priapism (persistent painful penile erection unrelated to sexual activity).
-Because this condition can lead to permanent impotence if not properly treated, patients must be advised about the seriousness of the condition [see PATIENT COUNSELING INFORMATION (17.2)].
+Because this condition can lead to permanent impotence if not properly treated, patients must be advised about the seriousness of the condition.
 
 ## 5.4 Screening for Prostate Cancer
 
-Prostate cancer and BPH frequently co-exist; therefore, patients should be screened for the presence of prostate cancer prior to treatment with tamsulosin hydrochloride capsules and at regular intervals afterwards [see PATIENT COUNSELING INFORMATION (17.3)].
+Prostate cancer and BPH frequently co-exist; therefore, patients should be screened for the presence of prostate cancer prior to treatment with tamsulosin hydrochloride capsules and at regular intervals afterwards.
 
 ## 5.5 Intraoperative Floppy Iris Syndrome
 
-Intraoperative Floppy Iris Syndrome (IFIS) has been observed during cataract surgery in some patients on or previously treated with alpha1 blockers, including tamsulosin hydrochloride capsules [see ADVERSE REACTIONS (6.2)].
+Intraoperative Floppy Iris Syndrome (IFIS) has been observed during cataract and glaucoma surgery in some patients on or previously treated with alpha1 blockers, including tamsulosin hydrochloride capsules [see ADVERSE REACTIONS (6.2)].
 
 Most reports were in patients taking the alpha1 blocker when IFIS occurred, but in some cases, the alpha1 blocker had been stopped prior to surgery.
 In most of these cases, the alpha1 blocker had been stopped recently prior to surgery (2 to 14 days), but in a few cases, IFIS was reported after the patient had been off the alpha1 blocker for a longer period (5 weeks to 9 months).
@@ -41,8 +41,8 @@ IFIS is a variant of small pupil syndrome and is characterized by the combinatio
 The patient's ophthalmologist should be prepared for possible modifications to their surgical technique, such as the utilization of iris hooks, iris dilator rings, or viscoelastic substances.
 
 IFIS may increase the risk of eye complications during and after the operation.
-The benefit of stopping alpha1 blocker therapy prior to cataract surgery has not been established.
-The initiation of therapy with tamsulosin in patients for whom cataract surgery is scheduled is not recommended.
+The benefit of stopping alpha1 blocker therapy prior to cataract or glaucoma surgery has not been established.
+The initiation of therapy with tamsulosin in patients for whom cataract or glaucoma surgery is scheduled is not recommended.
 
 ## 5.6 Sulfa Allergy
 

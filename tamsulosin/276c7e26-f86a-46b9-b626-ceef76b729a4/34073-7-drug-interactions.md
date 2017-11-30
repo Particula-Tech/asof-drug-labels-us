@@ -1,6 +1,6 @@
-# 7. DRUG INTERACTIONS
+# 7 DRUG INTERACTIONS
 
-## 7.1 Cytochrome P450 Inhibition
+## 7.3 Cytochrome P450 Inhibition
 
 Strong and Moderate Inhibitors of CYP3A4 or CYP2D6
 
@@ -22,30 +22,30 @@ Cimetidine
 
 Treatment with cimetidine resulted in a significant decrease (26%) in the clearance of tamsulosin hydrochloride, which resulted in a moderate increase in tamsulosin hydrochloride AUC (44%) [see WARNINGS AND PRECAUTIONS (5.2) and CLINICAL PHARMACOLOGY (12.3)].
 
-## 7.2 Other Alpha Adrenergic Blocking Agents
+## 7.4 Other Alpha Adrenergic Blocking Agents
 
 The pharmacokinetic and pharmacodynamic interactions between tamsulosin hydrochloride capsules and other alpha adrenergic blocking agents have not been determined; however, interactions between tamsulosin hydrochloride capsules and other alpha adrenergic blocking agents may be expected [see WARNINGS AND PRECAUTIONS (5.2) and CLINICAL PHARMACOLOGY (12.3)].
 
-## 7.3 PDE5 Inhibitors
+## 7.5 PDE5 Inhibitors
 
 Caution is advised when alpha adrenergic blocking agents including tamsulosin hydrochloride are coadministered with PDE5 inhibitors Alpha-adrenergic blockers and PDE5 inhibitors are both vasodilators that can lower blood pressure.
 Concomitant use of these two drug classes can potentially cause symptomatic hypotension [see WARNINGS AND PRECAUTIONS (5.2) and CLINICAL PHARMACOLOGY (12.3)].
 
-## 7.4 Warfarin
+## 7.6 Warfarin
 
 A definitive drug-drug interaction study between tamsulosin hydrochloride and warfarin was not conducted.
 Results from limited in vitro and in vivo studies are inconclusive.
 Caution should be exercised with concomitant administration of warfarin and tamsulosin hydrochloride capsules [see WARNINGS AND PRECAUTIONS (5.2) and CLINICAL PHARMACOLOGY (12.3)].
 
-## 7.5 Nifedipine, Atenolol, Enalapril
+## 7.7 Nifedipine, Atenolol, Enalapril
 
-Dosage adjustments are not necessary when tamsulosin hydrochloride capsules are administered concomitantly with nifedipine, atenolol, or enalapril [see WARNINGS AND PRECAUTIONS (5.2) and CLINICAL PHARMACOLOGY (12.3)].
+Dosage adjustments are not necessary when tamsulosin hydrochloride capsules are administered concomitantly with nifedipine, atenolol, or enalapril [see CLINICAL PHARMACOLOGY (12.3)].
 
-## 7.6 Digoxin and Theophylline
+## 7.8 Digoxin and Theophylline
 
 Dosage adjustments are not necessary when a tamsulosin hydrochloride capsule is administered concomitantly with digoxin or theophylline [see CLINICAL PHARMACOLOGY (12.3)].
 
-## 7.7 Furosemide
+## 7.9 Furosemide
 
 Tamsulosin hydrochloride capsules had no effect on the pharmacodynamics (excretion of electrolytes) of furosemide.
 While furosemide produced an 11% to 12% reduction in tamsulosin hydrochloride Cmax and AUC, these changes are expected to be clinically insignificant and do not require adjustment of the tamsulosin hydrochloride capsules dosage [see CLINICAL PHARMACOLOGY (12.3)].

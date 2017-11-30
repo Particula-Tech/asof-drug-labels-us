@@ -1,6 +1,6 @@
-# 13. NONCLINICAL TOXICOLOGY
+# 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis, Mutagenesis, Impairment Of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Rats administered doses up to 43 mg/kg/day in males and 52 mg/kg/day in females had no increases in tumor incidence, with the exception of a modest increase in the frequency of mammary gland fibroadenomas in female rats receiving doses ≥ 5.4 mg/kg (P < 0.015).
 The highest doses of tamsulosin hydrochloride evaluated in the rat carcinogenicity study produced systemic exposures (AUC) in rats 3 times the exposures in men receiving the maximum therapeutic dose of 0.8 mg/day.

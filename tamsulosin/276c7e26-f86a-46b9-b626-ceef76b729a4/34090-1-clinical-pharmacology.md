@@ -1,4 +1,4 @@
-# 12. CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
 ## 12.1 Mechanism of Action
 
@@ -35,12 +35,12 @@ Taking tamsulosin hydrochloride capsules under fasted conditions results in a 30
 
 Figure 1
 
-Mean Plasma Tamsulosin Hydrochloride Concentrations Following Single-Dose Administration of Tamsulosin Hydrochloride Capsules, 0.4 mg Under Fasted and Fed Conditions (n=8)
+Mean Plasma Tamsulosin Hydrochloride Concentrations Following Single-Dose Administration of Tamsulosin Hydrochloride Capsules 0.4 mg Under Fasted and Fed Conditions (n=8)
 
 The effects of food on the pharmacokinetics of tamsulosin hydrochloride are consistent regardless of whether a tamsulosin hydrochloride capsule is taken with a light breakfast or a high-fat breakfast (Table 2).
 
-Table 2Mean (± S.D.)
-Pharmacokinetic Parameters Following Tamsulosin Hydrochloride Capsules, 0.4 mg Once Daily or 0.8 mg Once Daily with a Light Breakfast, High-Fat Breakfast or Fasted
+Table 2 Mean (± S.D.)
+Pharmacokinetic Parameters Following Tamsulosin Hydrochloride Capsules 0.4 mg Once Daily or 0.8 mg Once Daily with a Light Breakfast, High-Fat Breakfast or Fasted
 
 | Pharmacokinetic Parameter | 0.4 mg QD to healthy volunteers; n=23 (age range 18 to 32 years) |  | 0.8 mg QD to healthy volunteers; n=22 (age range 55 to 75 years) |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -52,14 +52,18 @@ Pharmacokinetic Parameters Following Tamsulosin Hydrochloride Capsules, 0.4 mg O
 | Tmax (hours) | 6.0 | 4.0 | 7.0 | 6.6 | 5.0 |
 | T1/2 (hours) | - | - | - | - | 14.9 ± 3.9 |
 | AUCτ (ng•hr/mL) | 151 ± 81.5 | 199 ± 94.1 | 440 ± 195 | 449 ± 217 | 557 ± 257 |
-| Cmin = observed minimum concentration Cmax = observed maximum tamsulosin hydrochloride plasma concentration Tmax = median time-to-maximum concentration T1/2 = observed half-life AUCτ = area under the tamsulosin hydrochloride plasma time curve over the dosing interval |  |  |  |  |  |
+| Cmin = observed minimum concentration |  |  |  |  |  |
+| Cmax = observed maximum tamsulosin hydrochloride plasma concentration |  |  |  |  |  |
+| Tmax = median time-to-maximum concentration |  |  |  |  |  |
+| T1/2 = observed half-life |  |  |  |  |  |
+| AUCτ = area under the tamsulosin hydrochloride plasma time curve over the dosing interval |  |  |  |  |  |
 
 Distribution
 
 The mean steady-state apparent volume of distribution of tamsulosin hydrochloride after intravenous administration to 10 healthy male adults was 16 L, which is suggestive of distribution into extracellular fluids in the body.
 
 Tamsulosin hydrochloride is extensively bound to human plasma proteins (94% to 99%), primarily alpha1 acid glycoprotein (AAG), with linear binding over a wide concentration range (20 to 600 ng/mL).
-The results of two-way in vitro studies indicate that the binding of tamsulosin hydrochloride to human plasma proteins is not affected by amitriptyline, diclofenac, glyburide, simvastatin plus simvastatinhydroxy acid metabolite, warfarin, diazepam, propranolol, trichlormethiazide, or chlormadinone.
+The results of two-way in vitro studies indicate that the binding of tamsulosin hydrochloride to human plasma proteins is not affected by amitriptyline, diclofenac, glyburide, simvastatin plus simvastatin hydroxy acid metabolite, warfarin, diazepam, propranolol, trichlormethiazide, or chlormadinone.
 Likewise, tamsulosin hydrochloride had no effect on the extent of binding of these drugs.
 
 Metabolism
@@ -76,7 +80,7 @@ However, results of the in vitro testing of the tamsulosin hydrochloride interac
 
 Excretion
 
-On administration of the radiolabeled dose of tamsulosin hydrochloride to four healthy volunteers, 97% of the administered radioactivity was recovered, with urine (76%) representing the primary route of excretion compared to feces (21%) over 168 hours.
+On administration of the radiolabeled dose of tamsulosin hydrochloride to 4 healthy volunteers, 97% of the administered radioactivity was recovered, with urine (76%) representing the primary route of excretion compared to feces (21%) over 168 hours.
 
 Following intravenous or oral administration of an immediate-release formulation, the elimination half-life of tamsulosin hydrochloride in plasma ranged from 5 to 7 hours.
 Because of absorption rate-controlled pharmacokinetics with tamsulosin hydrochloride capsules, the apparent half-life of tamsulosin hydrochloride is approximately 9 to 13 hours in healthy volunteers and 14 to 15 hours in the target population.
@@ -103,7 +107,7 @@ However, patients with end-stage renal disease (CLcr < 10 mL/min/1.73 m2) have n
 
 Hepatic Impairment
 
-The pharmacokinetics of tamsulosin hydrochloride have been compared in 8 subjects with moderate hepatic impairment (Child-Pugh’s classification: Grades A and B) and 8 normal subjects.
+The pharmacokinetics of tamsulosin hydrochloride have been compared in 8 subjects with moderate hepatic impairment (Child-Pugh's classification: Grades A and B) and 8 normal subjects.
 While a change in the overall plasma concentration of tamsulosin hydrochloride was observed as the result of altered binding to AAG, the unbound (active) concentration of tamsulosin hydrochloride does not change significantly, with only a modest (32%) change in intrinsic clearance of unbound tamsulosin hydrochloride.
 Therefore, patients with moderate hepatic impairment do not require an adjustment in tamsulosin hydrochloride capsules dosage.
 Tamsulosin hydrochloride has not been studied in patients with severe hepatic impairment [see USE IN SPECIFIC POPULATIONS (8.7)].

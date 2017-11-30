@@ -1,4 +1,4 @@
-# 8. USE IN SPECIFIC POPULATIONS
+# 8 USE IN SPECIFIC POPULATIONS
 
 ## 8.1 Pregnancy
 
@@ -18,8 +18,11 @@ Tamsulosin hydrochloride capsules are not indicated for use in women.
 
 Tamsulosin hydrochloride capsules are not indicated for use in pediatric populations.
 
-A description of the data from pediatric studies of tamsulosin hydrochloride capsules is contained in the approved labeling for Boehringer Ingelheim’s Flomax® capsules.
-However, due to Boehringer Ingelheim’s marketing exclusivity rights, a description of these pediatric studies is not contained in the approved labeling for this tamsulosin hydrochloride capsules.
+Efficacy and positive benefit/risk of tamsulosin hydrochloride was not demonstrated in two studies conducted in patients 2 years to 16 years of age with elevated detrusor leak point pressure (>40 cm H2O) associated with known neurological disorder (e.g., spina bifida).
+Patients in both studies were treated on a weight-based mg/kg schema (0.025 mg, 0.05 mg, 0.1 mg, 0.2 mg, or 0.4 mg tamsulosin hydrochloride) for the reduction in detrusor leak point pressure below 40 cm H2O.
+In a randomized, double-blind, placebo-controlled, 14-week, pharmacokinetic, safety and efficacy study in 161 patients, no statistically significant difference in the proportion of responders was observed between groups receiving tamsulosin hydrochloride and placebo.
+In an open-label, 12-month safety study, 87 patients were treated with tamsulosin hydrochloride.
+The most frequently reported adverse events (≥5%) from the pooled data of both studies were urinary tract infection, vomiting, pyrexia, headache, nasopharyngitis, cough, pharyngitis, influenza, diarrhea, abdominal pain, and constipation.
 
 ## 8.5 Geriatric Use
 

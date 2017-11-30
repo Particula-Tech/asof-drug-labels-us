@@ -1,4 +1,4 @@
-# 14. CLINICAL STUDIES
+# 14 CLINICAL STUDIES
 
 Four placebo-controlled clinical studies and one active-controlled clinical study enrolled a total of 2296 patients (1003 received tamsulosin hydrochloride capsules, 0.4 mg once daily, 491 received tamsulosin hydrochloride capsules, 0.8 mg once daily, and 802 were control patients) in the U.S. and Europe.
 
@@ -11,8 +11,8 @@ Mean changes from baseline to Week 13 in total AUA Symptom Score were significan
 The changes from baseline to Week 13 in peak urine flow rate were also significantly greater for the tamsulosin hydrochloride capsules, 0.4 mg and 0.8 mg once-daily groups compared to placebo in Study 1, and for the tamsulosin hydrochloride capsules, 0.8 mg once-daily group in Study 2 (Table 3, Figures 3A and 3B).
 Overall there were no significant differences in improvement observed in total AUA Symptom Scores or peak urine flow rates between the 0.4 mg and the 0.8 mg dose groups with the exception that the 0.8 mg dose in Study 1 had a significantly greater improvement in total AUA Symptom Score compared to the 0.4 mg dose.
 
-Table 3Mean (±S.D.)
-Changes from Baseline to Week 13 in Total AUA Symptom Score**and Peak Urine Flow Rate (mL/sec)
+Table 3 Mean (±S.D.)
+Changes from Baseline to Week 13 in Total AUA Symptom Score** and Peak Urine Flow Rate (mL/sec)
 
 |  | Total AUA Symptom Score |  | Peak Urine Flow Rate |  |
 | --- | --- | --- | --- | --- |
@@ -31,10 +31,10 @@ Changes from Baseline to Week 13 in Total AUA Symptom Score**and Peak Urine Flow
 | 0.4 mg once daily | n=248 | n=244 | n=248 | n=244 |
 | Placebo | 19.2 ± 6.0 | -3.6 ± 5.7 | 9.95 ± 3.12 | 0.93 ± 3.28 |
 |  | n=239 | n=235 | n=239 | n=235 |
-| *Statistically significant difference from placebo (p-value ≤ 0.050; Bonferroni-Holm multiple testprocedure). |  |  |  |  |
-| **Total AUA Symptom Scores ranged from 0 to 35. |  |  |  |  |
-| †Peak urine flow rate measured 4 to 8 hours post dose at Week 13. |  |  |  |  |
-| ‡Peak urine flow rate measured 24 to 27 hours post dose at Week 13. |  |  |  |  |
+| * Statistically significant difference from placebo (p-value ≤ 0.050; Bonferroni-Holm multiple testprocedure). |  |  |  |  |
+| ** Total AUA Symptom Scores ranged from 0 to 35. |  |  |  |  |
+| † Peak urine flow rate measured 4 to 8 hours post dose at Week 13. |  |  |  |  |
+| ‡ Peak urine flow rate measured 24 to 27 hours post dose at Week 13. |  |  |  |  |
 | Week 13: For patients not completing the 13-week study, the last observation was carried forward. |  |  |  |  |
 
 Mean total AUA Symptom Scores for both tamsulosin hydrochloride capsules, 0.4 mg and 0.8 mg once-daily groups showed a rapid decrease starting at 1 week after dosing and remained decreased through 13 weeks in both studies (Figures 2A and 2B).

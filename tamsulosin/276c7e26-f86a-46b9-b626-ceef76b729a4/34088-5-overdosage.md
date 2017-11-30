@@ -1,4 +1,4 @@
-# 10. OVERDOSAGE
+# 10 OVERDOSAGE
 
 Should overdosage of tamsulosin hydrochloride capsules lead to hypotension [see WARNINGS AND PRECAUTIONS (5.1) and ADVERSE REACTIONS (6.1)], support of the cardiovascular system is of first importance.
 Restoration of blood pressure and normalization of heart rate may be accomplished by keeping the patient in the supine position.
