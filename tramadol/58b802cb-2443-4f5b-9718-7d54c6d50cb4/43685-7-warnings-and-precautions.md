@@ -33,6 +33,32 @@ Overestimating the tramadol HCl dosage when converting patients from another opi
 
 Accidental ingestion of even one dose of tramadol HCl, especially by children, can result in respiratory depression and death due to an overdose of tramadol.
 
+Ultra-Rapid Metabolism of Tramadol and Other Risk Factors for Life-threatening Respiratory Depression in Children
+
+Life-threatening respiratory depression and death have occurred in children who received tramadol.
+Tramadol and codeine are subject to variability in metabolism based upon CYP2D6 genotype (described below), which can lead to increased exposure to an active metabolite.
+Based upon postmarketing reports with tramadol or with codeine, children younger than 12 years of age may be more susceptible to the respiratory depressant effects of tramadol.
+Furthermore, children with obstructive sleep apnea who are treated with opioids for post-tonsillectomy and/or adenoidectomy pain may be particularly sensitive to their respiratory depressant effect.
+Because of the risk of life-threatening respiratory depression and death:
+
+- Tramadol HCl is contraindicated for all children younger than 12 years of age (see CONTRAINDICATIONS).
+- Tramadol HCl is contraindicated for post-operative management in pediatric patients younger than 18 years of age following tonsillectomy and/or adenoidectomy (see CONTRAINDICATIONS).
+- Avoid the use of tramadol HCl in adolescents 12 to 18 years of age who have other risk factors that may increase their sensitivity to the respiratory depressant effects of tramadol unless the benefits outweigh the risks.
+  Risk factors include conditions associated with hypoventilation such as postoperative status, obstructive sleep apnea, obesity, severe pulmonary disease, neuromuscular disease, and concomitant use of other medications that cause respiratory depression.
+- As with adults, when prescribing opioids for adolescents, healthcare providers should choose the lowest effective dose for the shortest period of time and inform patients and caregivers about these risks and the signs of opioid overdose (see PRECAUTIONS/Pediatric Use, OVERDOSAGE).
+
+Nursing Mothers Tramadol is subject to the same polymorphic metabolism as codeine, with ultra-rapid metabolizers of CYP2D6 substrates being potentially exposed to life-threatening levels of the active metabolite O-desmethyltramadol (M1).
+At least one death was reported in a nursing infant who was exposed to high levels of morphine in breast milk because the mother was an ultra-rapid metabolizer of codeine.
+A baby nursing from an ultra-rapid metabolizer mother taking tramadol HCl could potentially be exposed to high levels of M1, and experience life-threatening respiratory depression.
+For this reason, breastfeeding is not recommended during treatment with tramadol HCl (see PRECAUTIONS/Nursing Mothers).
+
+CYP2D6 Genetic Variability: Ultra-rapid metabolizer Some individuals may be ultra-rapid metabolizers because of a specific CYP2D6 genotype (e.g., gene duplications denoted as *1/*1xN or *1/*2xN).
+The prevalence of this CYP2D6 phenotype varies widely and has been estimated at 1% to 10% for Whites (European, North American), 3% to 4% for Blacks (African Americans), 1% to 2% for East Asians (Chinese, Japanese, Korean), and may be greater than 10% in certain racial/ethnic groups (i.e., Oceanian, Northern African, Middle Eastern, Ashkenazi Jews, Puerto Rican).
+These individuals convert tramadol into its active metabolite, O-desmethyltramadol (M1), more rapidly and completely than other people.
+This rapid conversion results in higher than expected serum M1 levels.
+Even at labeled dosage regimens, individuals who are ultra-rapid metabolizers may have life-threatening or fatal respiratory depression or experience signs of overdose (such as extreme sleepiness, confusion, or shallow breathing) (see OVERDOSAGE).
+Therefore, individuals who are ultra-rapid metabolizers should not use tramadol HCl.
+
 ## Neonatal Opioid Withdrawal Syndrome
 
 Prolonged use of tramadol HCl during pregnancy can result in withdrawal in the neonate.
@@ -128,7 +154,7 @@ The information available does not identify any particular opioids as being more
 
 The use of tramadol HCl in patients with acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment is contraindicated.
 
-Patients with Chronic Pulmonary Disease: tramadol HCl-treated patients with significant chronic obstructive pulmonary disease or cor pulmonale, and those with a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression are at increased risk of decreased respiratory drive including apnea, even at recommended dosages of tramadol HCl (see WARNINGS).
+Patients with Chronic Pulmonary Disease: Tramadol HCl-treated patients with significant chronic obstructive pulmonary disease or cor pulmonale, and those with a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression are at increased risk of decreased respiratory drive including apnea, even at recommended dosages of tramadol HCl (see WARNINGS).
 
 Elderly, Cachectic, or Debilitated Patients: Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients because they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients (see WARNINGS).
 
@@ -165,7 +191,7 @@ Serious and rarely fatal anaphylactoid reactions have been reported in patients 
 When these events do occur it is often following the first dose.
 
 Other reported allergic reactions include pruritus, hives, bronchospasm, angioedema, toxic epidermal necrolysis and Stevens-Johnson syndrome.
-Patients with a history of anaphylactoid reactions to codeine and other opioids may be at increased risk and therefore should not receive tramadol HCl (see CONTRAINDICATIONS).
+Patients with a history of anaphylactoid reactions to tramadol and other opioids may be at increased risk and therefore should not receive tramadol HCl (see CONTRAINDICATIONS).
 If anaphylaxis or other hypersensitivity occurs, stop administration of tramadol HCl immediately, discontinue tramadol HCl permanently, and do not rechallenge with any formulation of tramadol.
 Advise patients to seek immediate medical attention if they experience any symptoms of a hypersensitivity reaction (see CONTRAINDICATIONS, PRECAUTIONS; Information for Patients).
 
@@ -212,9 +238,14 @@ Accidental Ingestion
 Inform patients that accidental ingestion, especially by children, may result in respiratory depression or death (see WARNINGS).
 Instruct patients to take steps to store tramadol HCl securely and to dispose of unused tramadol HCl in accordance with the local state guidelines and/or regulations.
 
+Ultra-Rapid Metabolism of Tramadol and Other Risk Factors for Life-threatening Respiratory Depression in Children
+
+Advise caregivers that tramadol HCl is contraindicated in children younger than 12 years of age and in children younger than 18 years of age following tonsillectomy and/or adenoidectomy.
+Advise caregivers of children ages 12 to 18 years of age receiving tramadol HCl to monitor for signs of respiratory depression (see WARNINGS).
+
 Interactions with Benzodiazepines and Other CNS Depressants
 
-Inform patients and caregivers that potentially fatal additive effects may occur if tramadol HCl is used with benzodiazepines, CNS depressants, including alcohol, or some illicit drugs and not to use these concomitantly unless supervised by a health care provider (see WARNINGS, PRECAUTIONS; Drug Interactions).
+Inform patients and caregivers that potentially fatal additive effects may occur if tramadol HCl is used with benzodiazepines, CNS depressants, including alcohol, or some illicit drugs and not to use these concomitantly unless supervised by a healthcare provider (see WARNINGS, PRECAUTIONS; Drug Interactions).
 
 Serotonin Syndrome
 
@@ -267,8 +298,7 @@ Inform female patients of reproductive potential that tramadol HCl may cause fet
 
 Lactation
 
-Advise nursing mothers to monitor infants for increased sleepiness (more than usual), breathing difficulties, or limpness.
-Instruct nursing mothers to seek immediate medical care if they notice these signs (see PRECAUTIONS; Lactation).
+Advise women that breastfeeding is not recommended during treatment with tramadol HCl (see PRECAUTIONS; Nursing Mother).
 
 Infertility
 
@@ -302,7 +332,7 @@ The concomitant use of tramadol HCl and CYP2D6 inhibitors, such as quinidine, fl
 Since M1 is a more potent µ-opioid agonist, decreased M1 exposure could result in decreased therapeutic effects, and may result in signs and symptoms of opioid withdrawal in patients who had developed physical dependence to tramadol.
 Increased tramadol exposure can result in increased or prolonged therapeutic effects and increased risk for serious adverse events including seizures and serotonin syndrome.
 
-After stopping a CYP2D6 inhibitor, as the effects of the inhibitor decline, the tramadol plasma concentration will decrease and the M1 plasma concentration will increase which could increase or prolong therapeutic effects but also increase adverse reactions related to opioid toxicity, and may cause potentially fatal respiratory depression (see CLINICAL PHARMACOLOGY)
+After stopping a CYP2D6 inhibitor, as the effects of the inhibitor decline, the tramadol plasma concentration will decrease and the M1 plasma concentration will increase which could increase or prolong therapeutic effects but also increase adverse reactions related to opioid toxicity, and may cause potentially fatal respiratory depression (see CLINICAL PHARMACOLOGY).
 
 If concomitant use of a CYP2D6 inhibitor is necessary, follow patients closely for adverse reactions including opioid withdrawal, seizures, and serotonin syndrome.
 
@@ -437,7 +467,7 @@ Observe newborns for symptoms and signs of neonatal opioid withdrawal syndrome a
 
 Neonatal seizures, neonatal withdrawal syndrome, fetal death and still birth have been reported during post-marketing.
 
-## Labor and Delivery
+## Labor or Delivery
 
 Tramadol HCl is not recommended for use in pregnant women during or immediately prior to labor, when other analgesic techniques are more appropriate.
 Opioids cross the placenta and may induce dependency of the fetus, acute respiratory depression in the newborn and/or psycho-physiologic effects associated with opioid exposure and withdrawal.
@@ -469,13 +499,26 @@ Progeny of dams receiving oral (gavage) dose levels of 50 mg/kg (1.2 times the M
 
 ## Nursing Mothers
 
+Risk Summary
+
 Tramadol HCl is not recommended for obstetrical preoperative medication or for post-delivery analgesia in nursing mothers because its safety in infants and newborns has not been studied.
-Following a single IV 100 mg dose of tramadol, the cumulative excretion in breast milk within 16 hours postdose was 100 mcg of tramadol (0.1% of the maternal dose) and 27 mcg of M1.
 
-Because of the potential for serious adverse reactions, including excess sedation and respiratory depression in a breastfed infant, advise patients that breastfeeding is not recommended during treatment with tramadol HCl.
+Tramadol and its metabolite, O-desmethyltramadol (M1), are present in human milk.
+There is no information on the effects of the drug on the breastfed infant or the effects of the drug on milk production.
+The M1 metabolite is more potent than tramadol in mu opioid receptor binding (see CLINICAL PHARMACOLOGY).
+Published studies have reported tramadol and M1 in colostrum with administration of tramadol to nursing mothers in the early post-partum period.
+Women who are ultra-rapid metabolizers of tramadol may have higher than expected serum levels of M1, potentially leading to higher levels of M1 in breast milk that can be dangerous in their breastfed infants.
+In women with normal tramadol metabolism, the amount of tramadol secreted into human milk is low and dose-dependent.
+Because of the potential for serious adverse reactions, including excess sedation and respiratory depression in a breastfed infant, advise patients that breastfeeding is not recommended during treatment with tramadol HCl (see WARNINGS).
 
-Monitor infants exposed to tramadol HCl through breast milk for excess sedation and respiratory depression.
+Clinical Considerations
+
+If infants are exposed to tramadol HCl through breast milk, they should be monitored for excess sedation and respiratory depression.
 Withdrawal symptoms can occur in breastfed infants when maternal administration of an opioid analgesic is stopped, or when breast-feeding is stopped.
+
+Data
+
+Following a single IV 100 mg dose of tramadol, the cumulative excretion in breast milk within 16 hours post dose was 100 mcg of tramadol (0.1% of the maternal dose) and 27 mcg of M1.
 
 ## Females and Males of Reproductive Potential
 
@@ -486,8 +529,18 @@ It is not known whether these effects on fertility are reversible (see ADVERSE R
 
 ## Pediatric Use
 
-The safety and efficacy of tramadol HCl in patients under 16 years of age have not been established.
-The use of tramadol HCl in the pediatric population is not recommended.
+The safety and effectiveness of tramadol HCl in pediatric patients have not been established.
+
+Life-threatening respiratory depression and death have occurred in children who received tramadol (see WARNINGS).
+In some of the reported cases, these events followed tonsillectomy and/or adenoidectomy, and one of the children had evidence of being an ultra-rapid metabolizer of tramadol (i.e., multiple copies of the gene for cytochrome P450 isoenzyme 2D6).
+Children with sleep apnea may be particularly sensitive to the respiratory depressant effects of tramadol.
+
+Because of the risk of life-threatening respiratory depression and death:
+
+- Tramadol HCl is contraindicated for all children younger than 12 years of age (see CONTRAINDICATIONS).
+- Tramadol HCl is contraindicated for post-operative management in pediatric patients younger than 18 years of age following tonsillectomy and/or adenoidectomy (see CONTRAINDICATIONS).
+- Avoid the use of tramadol HCl in adolescents 12 to 18 years of age who have other risk factors that may increase their sensitivity to the respiratory depressant effects of tramadol unless the benefits outweigh the risks.
+  Risk factors include conditions associated with hypoventilation such as postoperative status, obstructive sleep apnea, obesity, severe pulmonary disease, neuromuscular disease, and concomitant use of other medications that cause respiratory depression.
 
 ## Geriatric Use
 

@@ -1,5 +1,10 @@
 # CONTRAINDICATIONS
 
+Tramadol HCl tablets are contraindicated for:
+
+- all children younger than 12 years of age (see WARNINGS)
+- post-operative management in children younger than 18 years of age following tonsillectomy and/or adenoidectomy (see WARNINGS).
+
 Tramadol HCl tablets contraindicated in patients with:
 
 - Significant respiratory depression (see WARNINGS).

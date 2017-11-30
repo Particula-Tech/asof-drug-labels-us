@@ -37,6 +37,9 @@ Effects on the Cardiovascular System
 Tramadol produces peripheral vasodilation, which may result in orthostatic hypotension or syncope.
 Manifestations of peripheral vasodilation may include pruritus, flushing, red eyes, sweating and/or orthostatic hypotension.
 
+The effect of oral tramadol on the QTcF interval was evaluated in a double-blind, randomized, four-way crossover, placebo-and positive-(moxifloxacin) controlled study in 68 adult male and female healthy subjects.
+At a 600 mg/day dose (1.5-fold the maximum immediate-release daily dose), the study demonstrated no significant effect on the QTcF interval.
+
 Effects on the Endocrine System
 
 Opioids inhibit the secretion of adrenocorticotropic hormone (ACTH), cortisol, and luteinizing hormone (LH) in humans.
@@ -78,7 +81,7 @@ There is no evidence of self-induction (see Figure 1 and Table 1 below).
 
 Figure 1: Mean Tramadol and M1 Plasma Concentration Profiles after a Single 100 mg Oral Dose and after Twenty-Nine 100 mg Oral Doses of Tramadol HCl given four times per day.
 
-Table 1 Mean (%CV) Pharmacokinetic Parameters for Racemic Tramadol and M1 Metabolite
+Table 1: Mean (%CV) Pharmacokinetic Parameters for Racemic Tramadol and M1 Metabolite
 
 | Population/ Dosage Regimena | Parent Drug/ Metabolite | Peak Conc. (ng/mL) | Time to Peak (hrs) | Clearance/Fb(mL/min/Kg) | t1/2 (hrs) |
 | --- | --- | --- | --- | --- | --- |
@@ -88,14 +91,7 @@ Table 1 Mean (%CV) Pharmacokinetic Parameters for Racemic Tramadol and M1 Metabo
 | Hepatic Impaired,50 mg SD p.o. | TramadolM1 | 217 (11)19.4 (12) | 1.9 (16)9.8 (20) | 4.23 (56)c | 13.3 (11)18.5 (15) |
 | Renal Impaired,CLcr10 to 30 mL/min100 mg SD i.v. | TramadolM1 | cc | cc | 4.23 (54)c | 10.6 (31)11.5 (40) |
 | Renal Impaired,CLcr<5 mL/min100 mg SD i.v. | TramadolM1 | cc | cc | 3.73 (17)c | 11.0 (29)16.9 (18) |
-
-a SD = Single dose, MD = Multiple dose, p.o.= Oral administration, i.v.= Intravenous administration, q.i.d. = Four times daily
-
-b F represents the oral bioavailability of tramadol
-
-c Not applicable
-
-d Not measured
+| a SD = Single dose, MD = Multiple dose, p.o.= Oral administration, i.v.= Intravenous administration, q.i.d. = Four times dailyb F represents the oral bioavailability of tramadolc Not applicabled Not measured |  |  |  |  |  |
 
 Food Effects
 

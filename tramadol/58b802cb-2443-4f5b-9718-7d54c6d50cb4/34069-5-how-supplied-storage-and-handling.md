@@ -12,12 +12,20 @@ Bottles of 500 count: NDC 65162-627-50
 
 Bottles of 1000 count: NDC 65162-627-11
 
-Store at 20° to 25°C (68° to 77°F); excursions permitted between 15° to30°C (59° to 86°F) [see USP Controlled Room Temperature].
+Store at 20° to 25°C (68° to 77°F); excursions permitted between 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 Dispense in a tight container as defined in the USP.
 
-Manufactured by: Amneal Pharmaceuticals of NY LLC Brookhaven, NY 11719
+Manufactured by:
 
-Distributed by: Amneal Pharmaceuticals LLC Glasgow, KY 42141
+Amneal Pharmaceuticals of NY LLC
+
+Brookhaven, NY 11719
+
+Distributed by:
+
+Amneal Pharmaceuticals LLC
+
+Glasgow, KY 42141
 
 Rev.
-03-2017-04
+11-2017-05

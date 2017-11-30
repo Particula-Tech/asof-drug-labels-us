@@ -4,6 +4,7 @@ The following serious adverse reactions are described, or described in greater d
 
 - Addiction, Abuse, and Misuse (see WARNINGS)
 - Life-Threatening Respiratory Depression (see WARNINGS)
+- Ultra-Rapid Metabolism of Tramadol and Other Risk Factors for Life-threatening Respiratory Depression in Children (see WARNINGS)
 - Neonatal Opioid Withdrawal Syndrome (see WARNINGS)
 - Interactions with Benzodiazepines or Other CNS Depressants (see WARNINGS)
 - Serotonin Syndrome (see WARNINGS)
@@ -27,9 +28,7 @@ The most frequently reported events were in the central nervous system and gastr
 Although the reactions listed in the table are felt to be probably related to tramadol HCl administration, the reported rates also include some events that may have been due to underlying disease or concomitant medication.
 The overall incidence rates of adverse experiences in these trials were similar for tramadol HCl and the active control groups, TYLENOL with Codeine #3 (acetaminophen 300 mg with codeine phosphate 30 mg), and aspirin 325 mg with codeine phosphate 30 mg, however, the rates of withdrawals due to adverse events appeared to be higher in the tramadol HCl groups.
 
-Table 2: Cumulative Incidence of Adverse Reactions for Tramadol HClin Chronic Trials of
-
-Nonmalignant Pain (N=427)
+Table 2: Cumulative Incidence of Adverse Reactions for Tramadol HCl in Chronic Trials of Nonmalignant Pain (N=427)
 
 |  | Up to 7 Days | Up to 30 Days | Up to 90 Days |
 | --- | --- | --- | --- |
@@ -46,8 +45,7 @@ Nonmalignant Pain (N=427)
 | Dyspepsia | 5% | 9% | 13% |
 | Dry Mouth | 5% | 9% | 10% |
 | Diarrhea | 5% | 6% | 10% |
-
-1 “CNS Stimulation” is a composite of nervousness, anxiety, agitation, tremor, spasticity, euphoria, emotional lability and hallucinations
+| 1 “CNS Stimulation” is a composite of nervousness, anxiety, agitation, tremor, spasticity, euphoria, emotional lability and hallucinations |  |  |  |
 
 Incidence 1% to less than 5% possibly causally related:
 
@@ -113,5 +111,8 @@ Serotonin syndrome: Cases of serotonin syndrome, a potentially life-threatening 
 Adrenal insufficiency: Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use.
 
 Androgen deficiency: Cases of androgen deficiency have occurred with chronic use of opioids (see CLINICAL PHARMACOLOGY).
+
+QT prolongation/torsade de pointes: Cases of QT prolongation and/or torsade de pointes have been reported with tramadol use.
+Many of these cases were reported in patients taking another drug labeled for QT prolongation, in patients with a risk factor for QT prolongation (e.g., hypokalemia), or in the overdose setting.
 
 To report SUSPECTED ADVERSE REACTIONS, contact Amneal Pharmaceuticals at 1-877-835-5472 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

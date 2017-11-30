@@ -1,4 +1,4 @@
-# WARNING: ADDICTION, ABUSE, AND MISUSE; LIFETHREATENING RESPIRATORY DEPRESSION; ACCIDENTAL INGESTION; NEONATAL OPIOID WITHDRAWAL SYNDROME; INTERACTIONS WITH DRUGS AFFECTING CYTOCHROME P450 ISOENZYMES; and RISKS FROM CONCOMITANT USE WITH BENZODIAZEPINES OR OTHER CNS DEPRESSANTS
+# WARNING: ADDICTION, ABUSE, AND MISUSE; LIFE-THREATENING RESPIRATORY DEPRESSION; ACCIDENTAL INGESTION; ULTRA-RAPID METABOLISM OF TRAMADOL AND OTHER RISK FACTORS FOR LIFE-THREATENING RESPIRATORY DEPRESSION IN CHILDREN; NEONATAL OPIOID WITHDRAWAL SYNDROME; INTERACTIONS WITH DRUGS AFFECTING CYTOCHROME P450 ISOENZYMES; and RISKS FROM CONCOMITANT USE WITH BENZODIAZEPINES OR OTHER CNS DEPRESSANTS
 
 ADDICTION, ABUSE AND MISUSE
 
@@ -14,6 +14,13 @@ ACCIDENTAL INGESTION
 
 Accidental ingestion of tramadol HCl, especially by children, can be fatal (see WARNINGS).
 
+ULTRA-RAPID METABOLISM OF TRAMADOL AND OTHER RISK FACTORS FOR LIFE-THREATENING RESPIRATORY DEPRESSION IN CHILDREN
+
+Life-threatening respiratory depression and death have occurred in children who received tramadol.
+Some of the reported cases followed tonsillectomy and/or adenoidectomy; in at least one case, the child had evidence of being an ultra-rapid metabolizer of tramadol due to a CYP2D6 polymorphism (see WARNINGS).
+Tramadol HCl is contraindicated in children younger than 12 years of age and in children younger than 18 years of age following tonsillectomy and/or adenoidectomy (see CONTRAINDICATIONS).
+Avoid the use of tramadol HCl in adolescents 12 to 18 years of age who have other risk factors that may increase their sensitivity to the respiratory depressant effects of tramadol (see WARNINGS).
+
 NEONATAL OPIOID WITHDRAWAL SYNDROME
 
 Prolonged use of tramadol HCl during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated, and requires management according to protocols developed by neonatology experts.
@@ -22,9 +29,7 @@ If opioid use is required for a prolonged period in a pregnant woman, advise the
 INTERACTIONS WITH DRUGS AFFECTING CYTOCHROME P450 ISOENZYMES
 
 The effects of concomitant use or discontinuation of cytochrome P450 3A4 inducers, 3A4 inhibitors, or 2D6 inhibitors with tramadol are complex.
-Use of cytochrome P450 3A4 inducers, 3A4 inhibitors, or 2D6 inhibitors with
-
-Tramadol HCl requires careful consideration of the effects on the parent drug, tramadol, and the active metabolite, M1 (see WARNINGS, PRECAUTIONS; Drug Interactions).
+Use of cytochrome P450 3A4 inducers, 3A4 inhibitors, or 2D6 inhibitors with tramadol HCl requires careful consideration of the effects on the parent drug, tramadol, and the active metabolite, M1 (see WARNINGS, PRECAUTIONS; Drug Interactions).
 
 RISKS FROM CONCOMITANT USE WITH BENZODIAZEPINES OR OTHER CNS DEPRESSANTS
 

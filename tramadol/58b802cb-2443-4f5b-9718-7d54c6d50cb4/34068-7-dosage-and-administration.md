@@ -20,7 +20,7 @@ After titration, tramadol HCl tablets 50 to 100 mg can be administered as needed
 
 For the subset of patients for whom rapid onset of analgesic effect is required and for whom the benefits outweigh the risk of discontinuation due to adverse events associated with higher initial doses, tramadol HCl tablets 50 mg to 100 mg can be administered as needed for pain relief every four to six hours, not to exceed 400 mg per day.
 
-Conversion from Tramadol HCl tablets to Extended-Release tramadol
+Conversion from Tramadol HCl tablets to Extended-Release Tramadol
 
 The relative bioavailability of tramadol HCl tablets compared to extended-release tramadol is unknown, so conversion to extended-release formulations must be accompanied by close observation for signs of excessive sedation and respiratory depression.
 
