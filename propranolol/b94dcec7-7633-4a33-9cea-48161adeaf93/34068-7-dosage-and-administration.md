@@ -29,7 +29,7 @@ The recommended dose is 10 mg to 30 mg propranolol hydrochloride tablets three o
 
 In the Beta-Blocker Heart Attack Trial (BHAT), the initial dose was 40 mg t.i.d., with titration after 1 month to 60 mg to 80 mg t.i.d. as tolerated.
 The recommended daily dosage is 180 mg to 240 mg propranolol hydrochloride tablets per day in divided doses.
-Although a t.i.d. regimen was used in BHAT and a q.i.d. regimen in the Norwegian Multicenter Trial, there is a reasonable basis for the use of either a t.i.d. or b.i.d. regimen (see CLINICAL PHARMACOLOGY: Pharmacodynamics and Clinical Effects).
+Although a t.i.d. regimen was used in the BHAT and a q.i.d. regimen in the Norwegian Multicenter Trial, there is a reasonable basis for the use of either a t.i.d. or b.i.d. regimen (see CLINICAL PHARMACOLOGY: Pharmacodynamics and Clinical Effects).
 The effectiveness and safety of daily dosages greater than 240 mg for prevention of cardiac mortality have not been established.
 However, higher dosages may be needed to effectively treat coexisting diseases such as angina or hypertension (see above).
 

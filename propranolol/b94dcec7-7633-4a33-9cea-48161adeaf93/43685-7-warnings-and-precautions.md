@@ -16,14 +16,14 @@ Cutaneous reactions, including Stevens-Johnson Syndrome, toxic epidermal necroly
 ## Cardiac Failure
 
 Sympathetic stimulation may be a vital component supporting circulatory function in patients with congestive heart failure, and its inhibition by beta blockade may precipitate more severe failure.
-Although beta-blockers should be avoided in overt congestive heart failure, some have been shown to be highly beneficial when used with close follow-up in patients with a history of failure who are well compensated and are receiving additional therapies, including diuretics as needed.
+Although beta blockers should be avoided in overt congestive heart failure, some have been shown to be highly beneficial when used with close follow-up in patients with a history of failure who are well compensated and are receiving additional therapies, including diuretics as needed.
 Beta-adrenergic blocking agents do not abolish the inotropic action of digitalis on heart muscle.
 
-In Patients without a History of Heart Failure, continued use of beta-blockers can, in some cases, lead to cardiac failure.
+In Patients without a History of Heart Failure, continued use of beta blockers can, in some cases, lead to cardiac failure.
 
 ## Nonallergic Bronchospasm (e.g., Chronic Bronchitis, Emphysema)
 
-In general, patients with bronchospastic lung disease should not receive beta-blockers.
+In general, patients with bronchospastic lung disease should not receive beta blockers.
 Propranolol should be administered with caution in this setting since it may provoke a bronchial asthmatic attack by blocking bronchodilation produced by endogenous and exogenous catecholamine stimulation of beta-receptors.
 
 ## Major Surgery
@@ -65,7 +65,7 @@ Beta-adrenergic receptor blockade can cause reduction of intraocular pressure.
 Patients should be told that propranolol hydrochloride tablets may interfere with the glaucoma screening test.
 Withdrawal may lead to a return of increased intraocular pressure.
 
-While taking beta-blockers, patients with a history of severe anaphylactic reaction to a variety of allergens may be more reactive to repeated challenge, either accidental, diagnostic, or therapeutic.
+While taking beta blockers, patients with a history of severe anaphylactic reaction to a variety of allergens may be more reactive to repeated challenge, either accidental, diagnostic, or therapeutic.
 Such patients may be unresponsive to the usual doses of epinephrine used to treat allergic reaction.
 
 ## Clinical Laboratory Tests
@@ -89,7 +89,7 @@ Quinidine increases the concentration of propranolol and produces greater degree
 Amiodarone is an antiarrhythmic agent with negative chronotropic properties that may be additive to those seen with β-blockers such as propranolol.
 
 The clearance of lidocaine is reduced with administration of propranolol.
-Lidocaine toxicity has been reported following co-administration with propranolol.
+Lidocaine toxicity has been reported following coadministration with propranolol.
 
 Caution should be exercised when administering propranolol hydrochloride tablets with drugs that slow A-V nodal conduction, e.g., digitalis, lidocaine and calcium channel blockers.
 
@@ -144,7 +144,7 @@ Administration of indomethacin with propranolol may reduce the efficacy of propr
 
 #### Antidepressants
 
-The hypotensive effects of MAO inhibitors or tricyclic antidepressants may be exacerbated when administered with beta-blockers by interfering with the beta-blocking activity of propranolol.
+The hypotensive effects of MAO inhibitors or tricyclic antidepressants may be exacerbated when administered with beta-blockers by interfering with the beta blocking activity of propranolol.
 
 #### Anesthetic Agents
 

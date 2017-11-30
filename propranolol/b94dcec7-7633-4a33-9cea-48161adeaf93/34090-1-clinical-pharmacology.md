@@ -72,19 +72,19 @@ The plasma half-life of propranolol is from 3 to 6 hours.
 
 Propranolol is a racemic mixture of two enantiomers, R(+) and S(-).
 The S(-)-enantiomer is approximately 100 times as potent as the R(+)-enantiomer in blocking beta-adrenergic receptors.
-In normal subjects receiving oral doses of racemic propranolol, S(-)-enantiomer concentrations exceeded those of the R(+)-enantiomer by 40% to 90% as a result of stereoselective hepatic metabolism.
+In normal subjects receiving oral doses of racemic propranolol, S(-)-enantiomer concentrations exceeded those of the R(+)-enantiomer by 40-90% as a result of stereoselective hepatic metabolism.
 Clearance of the pharmacologically active S(-)-propranolol is lower than R(+)-propranolol after intravenous and oral doses.
 
 ## Special Populations
 
 ### Geriatric
 
-In a study of 12 elderly (62 to 79 years old) and 12 young (25 to 33 years old) healthy subjects, the clearance of S(-)-enantiomer of propranolol was decreased in the elderly.
+In a study of 12 elderly (62-79 years old) and 12 young (25-33 years old) healthy subjects, the clearance of S(-)-enantiomer of propranolol was decreased in the elderly.
 Additionally, the half-life of both the R(+)- and S(-)-propranolol were prolonged in the elderly compared with the young (11 hours vs. 5 hours).
 
 Clearance of propranolol is reduced with aging due to decline in oxidation capacity (ring oxidation and side-chain oxidation).
 Conjugation capacity remains unchanged.
-In a study of 32 patients age 30 to 84 years given a single 20 mg dose of propranolol, an inverse correlation was found between age and the partial metabolic clearances to 4-hydroxypropranolol (40HP-ring oxidation) and to naphthyloxylactic acid (NLA-side chain oxidation).
+In a study of 32 patients age 30 to 84 years given a single 20-mg dose of propranolol, an inverse correlation was found between age and the partial metabolic clearances to 4-hydroxypropranolol (40HP-ring oxidation) and to naphthyloxylactic acid (NLA-side chain oxidation).
 No correlation was found between age and the partial metabolic clearance to propranolol glucuronide (PPLG-conjugation).
 
 ### Gender
@@ -102,11 +102,11 @@ Chinese subjects had a greater proportion (18% to 45% higher) of unbound propran
 
 ### Renal Insufficiency
 
-In a study conducted in 5 patients with chronic renal failure, 6 patients on regular dialysis, and 5 healthy subjects, who received a single oral dose of 40 mg of propranolol, the peak plasma concentrations (Cmax) of propranolol in the chronic renal failure group were 2 to 3-fold higher (161 ng/mL ± 41 ng/mL) than those observed in the dialysis patients (47 ng/mL ± 9 ng/mL) and in the healthy subjects (26 ng/mL ± 1 ng/mL).
+In a study conducted in 5 patients with chronic renal failure, 6 patients on regular dialysis, and 5 healthy subjects, who received a single oral dose of 40 mg of propranolol, the peak plasma concentrations (Cmax) of propranolol in the chronic renal failure group were 2 to 3-fold higher (161±41 ng/mL) than those observed in the dialysis patients (47±9 ng/mL) and in the healthy subjects (26±1 ng/mL).
 Propranolol plasma clearance was also reduced in the patients with chronic renal failure.
 
 Studies have reported a delayed absorption rate and a reduced half-life of propranolol in patients with renal failure of varying severity.
-Despite this shorter plasma half-life, propranolol peak plasma levels were 3 to 4 times higher and total plasma levels of metabolites were up to 3 times higher in these patients than in subjects with normal renal function.
+Despite this shorter plasma half-life, propranolol peak plasma levels were 3-4 times higher and total plasma levels of metabolites were up to 3 times higher in these patients than in subjects with normal renal function.
 
 Chronic renal failure has been associated with a decrease in drug metabolism via downregulation of hepatic cytochrome P450 activity resulting in a lower “first-pass” clearance.
 
@@ -115,7 +115,7 @@ Propranolol is not significantly dialyzable.
 ### Hepatic Insufficiency
 
 Propranolol is extensively metabolized by the liver.
-In a study conducted in 7 patients with cirrhosis and 9 healthy subjects receiving 80 mg oral propranolol hydrochloride every 8 hours for 7 doses, the steady state unbound propranolol concentration in patients with cirrhosis was increased 3-fold in comparison to controls.
+In a study conducted in 7 patients with cirrhosis and 9 healthy subjects receiving 80-mg oral propranolol every 8 hours for 7 doses, the steady-state unbound propranolol concentration in patients with cirrhosis was increased 3-fold in comparison to controls.
 In cirrhosis, the half-life increased to 11 hours compared to 4 hours (see PRECAUTIONS).
 
 ## Drug Interactions
@@ -149,7 +149,7 @@ Cigarette smoking also induces hepatic metabolism and has been shown to increase
 
 The AUC of propafenone is increased by more than 200% by co-administration of propranolol.
 
-The metabolism of propranolol is reduced by co-administration of quinidine, leading to a two-three fold increased blood concentration and greater degrees of clinical beta blockade.
+The metabolism of propranolol is reduced by co-administration of quinidine, leading to a two-three fold increased blood concentration and greater degrees of clinical beta-blockade.
 
 The metabolism of lidocaine is inhibited by co-administration of propranolol, resulting in a 25% increase in lidocaine concentrations.
 
@@ -211,7 +211,7 @@ Concomitant use of alcohol may increase plasma levels of propranolol.
 
 ### Hypertension
 
-In a retrospective, uncontrolled study, 107 patients with diastolic blood pressure 110 mmHg to 150 mmHg received propranolol 120 mg t.i.d. for at least 6 months, in addition to diuretics and potassium, but with no other antihypertensive agent.
+In a retrospective, uncontrolled study, 107 patients with diastolic blood pressure 110 to 150 mmHg received propranolol 120 mg t.i.d. for at least 6 months, in addition to diuretics and potassium, but with no other antihypertensive agent.
 Propranolol contributed to control of diastolic blood pressure, but the magnitude of the effect of propranolol on blood pressure cannot be ascertained.
 
 ### Angina Pectoris
@@ -220,13 +220,13 @@ In a double-blind, placebo-controlled study of 32 patients of both sexes, aged 3
 
 ### Atrial Fibrillation
 
-In a report examining the long-term (5 to 22 months) efficacy of propranolol, 10 patients, aged 27 to 80, with atrial fibrillation and ventricular rate > 120 beats per minute despite digitalis, received propranolol up to 30 mg t.i.d.
+In a report examining the long-term (5-22 months) efficacy of propranolol, 10 patients, aged 27 to 80, with atrial fibrillation and ventricular rate > 120 beats per minute despite digitalis, received propranolol up to 30 mg t.i.d.
 Seven patients (70%) achieved ventricular rate reduction to < 100 beats per minute.
 
 ### Myocardial Infarction
 
 The Beta-Blocker Heart Attack Trial (BHAT) was a National Heart, Lung and Blood Institute-sponsored multicenter, randomized, double-blind, placebo-controlled trial conducted in 31 U.S. centers (plus one in Canada) in 3,837 persons without history of severe congestive heart failure or presence of recent heart failure; certain conduction defects; angina since infarction, who had survived the acute phase of myocardial infarction.
-Propranolol was administered at either 60 mg or 80 mg t.i.d. based on blood levels achieved during an initial trial of 40 mg t.i.d.
+Propranolol was administered at either 60 or 80 mg t.i.d. based on blood levels achieved during an initial trial of 40 mg t.i.d.
 Therapy with propranolol hydrochloride tablets, begun 5 to 21 days following infarction, was shown to reduce overall mortality up to 39 months, the longest period of follow-up.
 This was primarily attributable to a reduction in cardiovascular mortality.
 The protective effect of propranolol hydrochloride tablets was consistent regardless of age, sex, or site of infarction.
@@ -237,18 +237,18 @@ Although the clinical trials used either t.i.d. or q.i.d. dosing, clinical, phar
 
 ### Migraine
 
-In a 34-week, placebo-controlled, 4-period, dose-finding crossover study with a double-blind randomized treatment sequence, 62 patients with migraine received propranolol 20 mg to 80 mg 3 or 4 times daily.
+In a 34-week, placebo-controlled, 4-period, dose-finding crossover study with a double-blind randomized treatment sequence, 62 patients with migraine received propranolol 20 to 80 mg 3 or 4 times daily.
 The headache unit index, a composite of the number of days with headache and the associated severity of the headache, was significantly reduced for patients receiving propranolol as compared to those on placebo.
 
 ### Essential Tremor
 
-In a 2 week, double-blind, parallel, placebo-controlled study of 9 patients with essential or familial tremor, propranolol, at a dose titrated as needed from 40 mg to 80 mg t.i.d. reduced tremor severity compared to placebo.
+In a 2 week, double-blind, parallel, placebo-controlled study of 9 patients with essential or familial tremor, propranolol, at a dose titrated as needed from 40-80 mg t.i.d. reduced tremor severity compared to placebo.
 
 ### Hypertrophic Subaortic Stenosis
 
-In an uncontrolled series of 13 patients with New York Heart Association (NYHA) class 2 or 3 symptoms and hypertrophic subaortic stenosis diagnosed at cardiac catheterization, oral propranolol 40 mg to 80 mg t.i.d. was administered and patients were followed for up to 17 months.
+In an uncontrolled series of 13 patients with New York Heart Association (NYHA) class 2 or 3 symptoms and hypertrophic subaortic stenosis diagnosed at cardiac catheterization, oral propranolol 40-80 mg t.i.d. was administered and patients were followed for up to 17 months.
 Propranolol was associated with improved NYHA class for most patients.
 
 ### Pheochromocytoma
 
-In an uncontrolled series of 3 patients with norepinephrine-secreting pheochromocytoma who were pretreated with an alpha adrenergic blocker (prazosin), perioperative use of propranolol at doses of 40 mg to 80 mg t.i.d. resulted in symptomatic blood pressure control.
+In an uncontrolled series of 3 patients with norepinephrine-secreting pheochromocytoma who were pretreated with an alpha adrenergic blocker (prazosin), perioperative use of propranolol at doses of 40-80 mg t.i.d. resulted in symptomatic blood pressure control.
