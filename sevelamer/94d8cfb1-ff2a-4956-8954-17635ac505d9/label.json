@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA207288"
+  ],
+  "inn": "sevelamer",
+  "labeler": "Amneal Pharmaceuticals LLC",
+  "package_ndcs": [
+    "65162-058-09",
+    "65162-058-11",
+    "65162-058-27",
+    "65162-058-50"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "sevelamer carbonate",
+      "name": "Sevelamer Carbonate"
+    }
+  ],
+  "setid": "94d8cfb1-ff2a-4956-8954-17635ac505d9",
+  "source": "dailymed"
+}
