@@ -1,4 +1,6 @@
-# 16. HOW SUPPLIED/STORAGE AND HANDLING
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
+
+## 16.1 HowSupplied
 
 Risperidone Tablets USP, 0.25 mg are dark yellow, round, biconvex film-coated tablets debossed with "Z" on one side and "4" on the other side and are supplied as follows:
 
@@ -84,7 +86,7 @@ NDC 65841-670-05 in bottle of 500 tablets
 
 NDC 65841-670-10 in bottle of 1000 tablets
 
-Storage and Handling
+## 16.2 Storageand Handling
 
 Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 Protect from light and moisture.

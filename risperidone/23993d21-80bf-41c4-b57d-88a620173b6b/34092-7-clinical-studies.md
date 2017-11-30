@@ -1,4 +1,4 @@
-# 14. CLINICAL STUDIES
+# 14 CLINICAL STUDIES
 
 ## 14.1 Schizophrenia
 
@@ -69,7 +69,7 @@ Results of this study demonstrated efficacy of RISPERIDONE in both dose groups c
 The efficacy on the primary parameter in the 3-6 mg/day dose group was comparable to the 0.5-2.5 mg/day dose group.
 Doses higher than 2.5 mg/day did not reveal any trend towards greater efficacy.
 
-## 14.3 Bipolar Mania – Combination Therapy
+## 14.3 Bipolar Mania –Adjunctive Therapy with Lithium or Valproate
 
 The efficacy of RISPERIDONE with concomitant lithium or valproate in the treatment of acute manic or mixed episodes was established in one controlled trial in adult patients who met the DSM-IV criteria for Bipolar I Disorder.
 This trial included patients with or without psychotic features and with or without a rapid-cycling course.
@@ -98,12 +98,29 @@ The results of these trials are as follows:
    RISPERIDONE, starting at 0.25 mg/day or 0.5 mg/day depending on baseline weight (< 20 kg and ≥ 20 kg, respectively) and titrated to clinical response (mean modal dose of 1.9 mg/day, equivalent to 0.06 mg/kg/day), significantly improved scores on the ABC-I subscale and on the CGI-C scale compared with placebo.
 2. In the other 8-week, placebo-controlled trial in children with autistic disorder (n=55), aged 5 to 12 years, RISPERIDONE 0.02 to 0.06 mg/kg/day given once or twice daily, starting at 0.01 mg/kg/day and titrated to clinical response (mean modal dose of 0.05 mg/kg/day, equivalent to 1.4 mg/day), significantly improved scores on the ABC-I subscale compared with placebo.
 
+A third trial was a 6 week, multicenter, randomized, doubleblind, placebo-controlled, fixeddose study to evaluate the efficacy and safety of a lower than recommended dose of risperidone in subjects (N=96) 5 to 17 years of age with autistic disorder (defined by DSM-IV criteria) and associated irritability and related behavioral symptoms.
+Approximately 77% of patients were younger than 12 years of age (mean age = 9), and 88% were male.
+Most patients (73%) weighed less than 45 kg (mean weight = 40 kg).
+Approximately 90% of patients were antipsychotic-nave before entering the study.
+
+There were two weight-based, fixed doses of risperidone (high-dose and low-dose).
+The high dose was 1.25 mg per day for patients weighing 20 to < 45 kg, and it was 1.75 mg per day for patients weighing > 45 kg.
+The low dose was 0.125 mg per day for patients weighing 20 to < 45 kg, and it was 0.175 mg per day for patients weighing > 45 kg.
+The dose was administered once daily in the morning, or in the evening if sedation occurred.
+
+The primary efficacy endpoint was the mean change in the Aberrant Behavior Checklist–Irritability subscale (ABC-I) score from baseline to the end of Week 6.
+The study demonstrated the efficacy of high-dose risperidone, as measured by the mean change in ABC-I score.
+It did not demonstrate efficacy for low-dose risperidone.
+The mean baseline ABC-I scores were 29 in the placebo group (n = 35), 27 in the risperidone low-dose group (n = 30), and 28 in the risperidone high-dose group (n = 31).
+The mean changes in ABC-I scores were -3.5, -7.4, and -12.4 in the placebo, low-dose, and high-dose group respectively.
+The results in the high-dose group were statistically significant (p < 0.001) but not in the low-dose group (p=0.164).
+
 Long-Term Efficacy
 
 Following completion of the first 8-week double-blind study, 63 patients entered an open-label study extension where they were treated with RISPERIDONE for 4 or 6 months (depending on whether they received RISPERIDONE or placebo in the double-blind study).
 During this open-label treatment period, patients were maintained on a mean modal dose of RISPERIDONE of 1.8-2.1 mg/day (equivalent to 0.05 - 0.07 mg/kg/day).
 
-Patients who maintained their positive response to RISPERIDONE (response was defined as ≥ 25% improvement on the ABC-I subscale and a CGI-C rating of ‘much improved’ or ‘very much improved’) during the 4-6 month open-label treatment phase for about 140 days, on average, were randomized to receive RISPERIDONE or placebo during an 8-week, double-blind withdrawal study (n=39 of the 63 patients).
+Patients who maintained their positive response to RISPERIDONE (response was defined as ≥ 25% improvement on the ABC-I subscale and a CGI-C rating of 'much improved' or 'very much improved') during the 4-6 month open-label treatment phase for about 140 days, on average, were randomized to receive RISPERIDONE or placebo during an 8-week, double-blind withdrawal study (n=39 of the 63 patients).
 A pre-planned interim analysis of data from patients who completed the withdrawal study (n=32), undertaken by an independent Data Safety Monitoring Board, demonstrated a significantly lower relapse rate in the RISPERIDONE group compared with the placebo group.
 Based on the interim analysis results, the study was terminated due to demonstration of a statistically significant effect on relapse prevention.
 Relapse was defined as ≥ 25% worsening on the most recent assessment of the ABC-I subscale (in relation to baseline of the randomized withdrawal phase).
