@@ -22,3 +22,5 @@ Blunt Cannulas should not be recapped, purposely bent or broken by hand.
 |  | BEFORE REMOVING LUER TIP CAP, hold the syringe with tip cap upright. Press syringe plunger until plunger moves slightly. This motion breaks the seal between plunger and syringe barrel. |  |
 | 3. | Twist the luer tip cap clockwise or counterclockwise to break the tamper evident label. Remove luer tip cap and discard it. Expel the air by pushing on the plunger rod. Attach needle or blunt cannula if required. |  |
 | NOTE: To prevent needlestick injuries, needles and blunt cannulas should not be recapped, purposely bent, or broken by hand. |  |  |
+
+LAB-0921-1.0 Revised November 2017
