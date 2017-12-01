@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "NDA020895"
+  ],
+  "inn": "sildenafil",
+  "labeler": "Greenstone LLC",
+  "package_ndcs": [
+    "59762-0034-1",
+    "59762-0035-1",
+    "59762-0035-2",
+    "59762-0036-1",
+    "59762-0036-2"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "sildenafil citrate",
+      "name": "Sildenafil Citrate"
+    }
+  ],
+  "setid": "98a9897b-0cbc-4ea6-9ac2-4dd719a2ede0",
+  "source": "dailymed"
+}
