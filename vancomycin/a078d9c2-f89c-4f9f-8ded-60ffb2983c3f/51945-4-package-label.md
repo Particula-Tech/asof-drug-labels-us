@@ -1,6 +1,6 @@
 # Package/Label Display Panel
 
-VANCOCIN®(vancomycin hydrochloride capsules USP), Equiv. to 125 mg vancomycin
+VANCOCIN® (vancomycin hydrochloride capsules USP), Equiv. to 125 mg vancomycin
 
 NDC 62559-310-20
 
