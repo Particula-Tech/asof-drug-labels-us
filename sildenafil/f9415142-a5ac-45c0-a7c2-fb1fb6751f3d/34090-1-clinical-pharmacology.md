@@ -33,6 +33,7 @@ Changes from Baseline in Hemodynamic Parameters at Week 12 [mean (95% CI)] for t
 mPAP = mean pulmonary arterial pressure; PVR= pulmonary vascular resistance; SVR = systemic vascular resistance; RAP = right atrial pressure; CO = cardiac output; HR = heart rate
 
 ∗The number of patients per treatment group varied slightly for each parameter due to missing assessments.
+In another study evaluating lower doses of sildenafil 20 mg [Study 3 in Clinical Studies (14)], there were no significant differences in the effects on hemodynamic variables between doses.
 Effects of Sildenafil Tablets on Blood Pressure Single oral doses of sildenafil 100 mg administered to healthy volunteers produced decreases in supine blood pressure (mean maximum decrease in systolic/diastolic blood pressure of 8/5 mmHg).
 The decrease in blood pressure was most notable approximately 1 to 2 hours after dosing, and was not different from placebo at 8 hours.
 Similar effects on blood pressure were noted with 25 mg, 50 mg and 100 mg doses of sildenafil, therefore the effects are not related to dose or plasma levels within this dosage range.
@@ -79,12 +80,16 @@ Drug Interaction Studies In vitro studies Sildenafil metabolism is principally m
 Therefore, inhibitors of these isoenzymes may reduce sildenafil clearance and inducers of these isoenzymes may increase sildenafil clearance.
 Sildenafil is a weak inhibitor of the cytochrome P450 isoforms 1A2, 2C9, 2C19, 2D6, 2E1 and 3A (IC50 greater than 150 μM).
 Sildenafil is not expected to affect the pharmacokinetics of compounds which are substrates of these CYP enzymes at clinically relevant concentrations.
-In vivo studies The effects of other drugs on sildenafil pharmacokinetics and the effects of sildenafil on the exposure to other drugs are shown in Figure 2 and Figure 3, respectively.
-Figure 2.
-Effects of Other Drugs on Sildenafil Pharmacokinetics Figure 3 Effects of Sildenafil on Other Drugs CYP3A Inhibitors and Beta Blockers Population pharmacokinetic analysis of data from patients in clinical trials indicated an approximately 30% reduction in sildenafil clearance when it was co-administered with mild/moderate CYP3A inhibitors and an approximately 34% reductions in sildenafil clearance when co-administered with beta-blockers.
+In vivo studies The effects of other drugs on sildenafil pharmacokinetics and the effects of sildenafil on the exposure to other drugs are shown in Figure 7 and Figure 8, respectively.
+Figure 7.
+Effects of Other Drugs on Sildenafil Pharmacokinetics •••No benefit on exercise capacity when sildenafil added to bosentan therapy [see Clinical Studies (14)]
+
+Figure 8 Effects of Sildenafil on Other Drugs
+
+CYP3A Inhibitors and Beta Blockers Population pharmacokinetic analysis of data from patients in clinical trials indicated an approximately 30% reduction in sildenafil clearance when it was co-administered with mild/moderate CYP3A inhibitors and an approximately 34% reductions in sildenafil clearance when co-administered with beta-blockers.
 Sildenafil exposure at a dose of 80 mg three times a day without concomitant medication is shown to be 5-fold the exposure at a dose of 20 mg three times a day.
 This concentration range covers the same increased sildenafil exposure observed in specifically-designed drug interaction studies with CYP3A inhibitors (except for potent inhibitors such as ketoconazole, itraconazole, and ritonavir).
-CYP3A4 inducers Concomitant administration of potent CYP3A inducers is expected to cause substantial decreases in plasma levels of sildenafil.
+CYP3A4 inducers including bosentan Concomitant administration of potent CYP3A inducers is expected to cause substantial decreases in plasma levels of sildenafil.
 Population pharmacokinetic analysis of data from patients in clinical trials indicated approximately 3-fold the sildenafil clearance when it was co-administered with mild CYP3A inducers.
 Epoprostenol The mean reduction of sildenafil (80 mg three times a day) bioavailability when co-administered with epoprostenol was 28%, resulting in about 22% lower mean average steady state concentrations.
 Therefore, the slight decrease of sildenafil exposure in the presence of epoprostenol is not considered clinically relevant.

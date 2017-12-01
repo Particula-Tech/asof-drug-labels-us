@@ -60,4 +60,4 @@ Most, but not all, of these patients had preexisting cardiovascular risk factors
 Many of these events were reported to occur during or shortly after sexual activity, and a few were reported to occur shortly after the use of sildenafil without sexual activity.
 Others were reported to have occurred hours to days after use concurrent with sexual activity.
 It is not possible to determine whether these events are related directly to sildenafil, to sexual activity, to the patient’s underlying cardiovascular disease, or to a combination of these or other factors.
-Nervous system Seizure, seizure recurrence
+Nervous system Seizure, seizure recurrence Ophthalmologic NAION [see Warnings and Precautions (5.5) and Patient Counseling Information (17)].
