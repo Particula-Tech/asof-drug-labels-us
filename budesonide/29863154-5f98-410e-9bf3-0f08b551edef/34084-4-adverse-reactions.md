@@ -21,9 +21,9 @@ Treatment of Mild to Moderate Active Crohn's Disease
 The safety of budesonide capsules (enteric coated) was evaluated in 651 adult patients in five clinical trials of 8 weeks duration in patients with active mild to moderate Crohn's disease.
 The most common adverse reactions, occurring in greater than or equal to 5% of the patients, are listed in Table 1.
 
-Table 1 Common Adverse Reactions1in 8-Week Treatment Clinical Trials
+Table 1 Common Adverse Reactions1 in 8-Week Treatment Clinical Trials
 
-|  | Budesonide 9 mg n=520 | Placebo n=107 | Prednisolone2 40 mg n=145 | Comparator3 n=88 |
+| Header$ | Budesonide 9 mg n=520 | Placebo n=107 | Prednisolone2 40 mg n=145 | Comparator3 n=88 |
 | --- | --- | --- | --- | --- |
 | Adverse Reaction | Number (%) | Number (%) | Number (%) | Number (%) |
 | Headache | 107(21) | 19(18) | 31(21) | 11(13) |
@@ -37,15 +37,15 @@ Table 1 Common Adverse Reactions1in 8-Week Treatment Clinical Trials
 | Vomiting | 29(6) | 6(6) | 6(4) | 6(7) |
 | Fatigue | 25(5) | 8(7) | 11(8) | 0(0) |
 | Pain | 24(5) | 8(7) | 17(12) | 2(2) |
-| 1Occurring in greater than or equal to 5% of the patients in any treated group. |  |  |  |  |
+| 1 Occurring in greater than or equal to 5% of the patients in any treated group. |  |  |  |  |
 | 2 Prednisolone tapering scheme: either 40 mg in week 1 to 2, thereafter tapering with 5 mg per week; or 40 mg in week 1to 2, 30 mg in week 3 to 4, thereafter tapering with 5 mg per week. |  |  |  |  |
-| 3 This drug is not approved for the treatment of Crohn’s disease in the United States. |  |  |  |  |
+| 3 This drug is not approved for the treatment of Crohn's disease in the United States. |  |  |  |  |
 
 The incidence of signs and symptoms of hypercorticism reported by active questioning of patients in 4 of the 5 short-term clinical trials are displayed in Table 2.
 
-Table 2Summary and Incidence of Signs/Symptoms of Hypercorticism in 8-Week Treatment ClinicalTrials
+Table 2 Summary and Incidence of Signs/Symptoms of Hypercorticism in 8-Week Treatment ClinicalTrials
 
-|  | Budesonide 9 mg n=427 | Placebo n=107 | Prednisolone1 40 mg n=145 |
+| Header$ | Budesonide 9 mg n=427 | Placebo n=107 | Prednisolone1 40 mg n=145 |
 | --- | --- | --- | --- |
 | Signs/Symptom | Number (%) | Number (%) | Number (%) |
 | Total | 145 (34%) | 29 (27%) | 69 (48%) |
@@ -56,9 +56,9 @@ Table 2Summary and Incidence of Signs/Symptoms of Hypercorticism in 8-Week Treat
 | Hirsutism3 | 22(5) | 2(2) | 5(3) |
 | Buffalo hump | 6(1) | 2(2) | 5(3) |
 | Skin Striae | 4(1) | 2(2) | 0(0) |
-| 1Prednisolone tapering scheme: either 40 mg in week 1-2, thereafter tapering with 5 mg/week; or 40 mg in week 1 to 2, 30 mg in week 3 to 4, thereafter tapering with 5 mg/week. |  |  |  |
-| 2Statistically significantly different from budesonide capsules (enteric coated) 9 mg. |  |  |  |
-| 3including hair growth increased, local and hair growth increased, general. |  |  |  |
+| 1 Prednisolone tapering scheme: either 40 mg in week 1-2, thereafter tapering with 5 mg/week; or 40 mg in week 1 to 2, 30 mg in week 3 to 4, thereafter tapering with 5 mg/week. |  |  |  |
+| 2 Statistically significantly different from budesonide capsules (enteric coated) 9 mg. |  |  |  |
+| 3 including hair growth increased, local and hair growth increased, general. |  |  |  |
 
 Maintenance of Clinical Remission of Mild to Moderate Crohn's Disease
 
@@ -72,7 +72,7 @@ Signs/symptoms of hypercorticism reported by active questioning of patients in t
 
 Table 3 Summary and Incidence of Signs/Symptoms of Hypercorticism in Long-Term Studies
 
-|  | Budesonide 3 mg n=88 | Budesonide 6 mg n=145 | Placebo n=143 |
+| Header$ | Budesonide 3 mg n=88 | Budesonide 6 mg n=145 | Placebo n=143 |
 | --- | --- | --- | --- |
 | Signs/Symptom | Number (%) | Number (%) | Number (%) |
 | Bruising easily | 4(5) | 15(10) | 5(4) |
@@ -105,7 +105,7 @@ Metabolism and nutrition disorders: appetite increased
 
 Musculoskeletal and connective tissue disorders: arthritis, cramps, myalgia
 
-Nervous system disorders: hyperkinesia, parasthesia, tremor, vertigo, somnolence, amnesia
+Nervous system disorders: hyperkinesia, paresthesia, tremor, vertigo, somnolence, amnesia
 
 Psychiatric disorders: agitation, confusion, insomnia, nervousness, sleep disorder
 
@@ -122,7 +122,7 @@ Vascular disorders: flushing, hypertension
 Bone Mineral Density
 
 A randomized, open, parallel-group multicenter safety clinical trial specifically compared the effect of budesonide capsules (enteric coated) (less than 9 mg per day) and prednisolone (less than 40 mg per day) on bone mineral density over 2 years when used at doses adjusted to disease severity.
-Bone mineral density decreased significantly less with budesonide capsules (enteric coated) than with prednisolone in steroid-naÏve patients, whereas no difference could be detected between treatment groups for steroid-dependent patients and previous steroid users.
+Bone mineral density decreased significantly less with budesonide capsules (enteric coated) than with prednisolone in steroid-naïve patients, whereas no difference could be detected between treatment groups for steroid-dependent patients and previous steroid users.
 The incidence of symptoms associated with hypercorticism was significantly higher with prednisolone treatment.
 
 Clinical Laboratory Test Findings

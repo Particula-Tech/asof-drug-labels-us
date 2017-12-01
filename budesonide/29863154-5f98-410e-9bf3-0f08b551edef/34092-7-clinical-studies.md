@@ -17,12 +17,11 @@ See Table 5.
 
 Table 5 Clinical Improvement Rates (CDAI less than or equal to 150) After 8 weeks of Treatment
 
-| Clinical Study | Budesonide | Budesonide | ComparatorThis drug is not approved for the treatment of Crohn’s disease in the United States. | Placebo | Prednisolone |
+| C li n i cal Study | Budesonide 9mg Daily | Budesonide 4.5mg Twice Daily | C o m parator3 | Placebo | Prednisolone |
 | --- | --- | --- | --- | --- | --- |
-|  | 9 mg Daily | 4.5 mg Twice Daily |  |  |  |
-| 1 | 62/91(69%)p=0.0004 compared to comparator. |  | 37/83 (45%) | 13/64 (20%) |  |
-| 2 |  | 31/61 (51%)p=0.001 compared to placebo. |  | 13/40 (33%) |  |
-| 3 | 38/79 (48%) | 41/78 (53%) |  |  |  |
+| 1 | 62/91 (69%)1 |  | 37/83 (45%) |  |  |
+| 2 |  | 31/61 (51%)2 |  | 13/64 (20%) |  |
+| 3 | 38/79 (48%) | 41/78 (53%) |  | 13/40 (33%) |  |
 | 4 | 35/58 (60%) | 25/60 (42%) |  |  | 35/58 (60%) |
 | 5 | 45/86 (52%) |  |  |  | 56/85 (65%) |
 

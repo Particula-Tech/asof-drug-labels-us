@@ -31,12 +31,12 @@ Animal Data
 
 Budesonide was teratogenic and embryolethal in rabbits and rats.
 
-In an embryo-fetal development study in pregnant rats dosed subcutaneously with budesonide during the period of organogenesis from gestation days 6-17 there was a prolonged duration of pregnancy in dams and effects on fetal development and survival at subcutaneous doses up to approximately 500 mcg/kg in rats (approximately 0.5 times the maximum recommended human dose on a body surface area basis).
-In an embryo-fetal development study in pregnant rabbits dosed during the period of organogenesis from gestation days 7 to 20, increase in maternal abortion, and effects on fetal development and reduction in litter weights at subcutaneous doses up to approximately 25 mcg/kg in rabbits (approximately 0.05 times the maximum recommended human dose on a body surface area basis).
+In an embryo-fetal development study in pregnant rats dosed subcutaneously with budesonide during the period of organogenesis from gestation days 6-15 there were effects on fetal development and survival at subcutaneous doses up to approximately 500 mcg/kg in rats (approximately 0.5 times the maximum recommended human dose on a body surface area basis).
+In an embryo-fetal development study in pregnant rabbits dosed during the period of organogenesis from gestation days 6 to 18, increase in maternal abortion, and effects on fetal development and reduction in litter weights at subcutaneous doses up to approximately 25 mcg/kg in rabbits (approximately 0.05 times the maximum recommended human dose on a body surface area basis).
 Maternal toxicity, including reduction in body weight gain, was observed at subcutaneous doses of 5 mcg/kg in rabbits (approximately 0.01 times the maximum recommended human dose on a body surface area basis) and 500 mcg/kg in rats (approximately 0.5 times the maximum recommended human dose on a body surface area basis).
 
 In a peri- and post-natal development study, rats dosed subcutaneously with budesonide during the period of Day 15 post coitum to Day 21 postpartum, budesonide had no effects on delivery but did have an effect on growth and development of offspring.
-In addition, offspring survival was reduced and surviving offspring had decreased mean body weights at birth and during lactation along with delayed sexual maturation at exposures ≥ 0.5 times the MRHD (on a mg/m2basis at maternal subcutaneous doses of 500 mcg/kg/day and higher).
+In addition, offspring survival was reduced and surviving offspring had decreased mean body weights at birth and during lactation at exposures 0.02 times the MRHD (on a mg/m2basis at maternal subcutaneous doses of 20 mcg/kg/day and higher).
 These findings occurred in the presence of maternal toxicity.
 
 ## 8.2 Lactation
