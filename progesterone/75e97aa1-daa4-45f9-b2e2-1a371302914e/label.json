@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA020701"
+  ],
+  "inn": "progesterone",
+  "labeler": "Allergan, Inc.",
+  "package_ndcs": [
+    "0023-6150-04",
+    "0023-6151-08"
+  ],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "progesterone",
+      "name": "Crinone"
+    }
+  ],
+  "setid": "75e97aa1-daa4-45f9-b2e2-1a371302914e",
+  "source": "dailymed"
+}
