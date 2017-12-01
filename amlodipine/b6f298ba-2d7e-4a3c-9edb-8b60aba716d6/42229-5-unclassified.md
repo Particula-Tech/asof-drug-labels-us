@@ -74,6 +74,6 @@ Keep amlodipine besylate tablets in a dry place.
 General advice about amlodipine besylate tablets Sometimes, doctors will prescribe a medicine for a condition that is not written in the patient information leaflets.
 Only use amlodipine besylate tablets the way your doctor told you to.
 Do not give amlodipine besylate tablets to other people, even if they have the same symptoms you have.
-They may harm them.
+It may harm them.
 You can ask your pharmacist or doctor for information about amlodipine besylate tablets, or you can call 1-866-850-2876.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 090, India Revised: 04/2017
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 11/2017

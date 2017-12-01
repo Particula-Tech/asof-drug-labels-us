@@ -52,7 +52,8 @@ Impact of other drugs on amlodipine Co-administered cimetidine, magnesium-and al
 CYP3A inhibitors: Co-administration of a 180 mg daily dose of diltiazem with 5 mg amlodipine in elderly hypertensive patients resulted in a 60% increase in amlodipine systemic exposure.
 Erythromycin co-administration in healthy volunteers did not significantly change amlodipine systemic exposure.
 However, strong inhibitors of CYP3A (e.g., itraconazole, clarithromycin) may increase the plasma concentrations of amlodipine to a greater extent [see Drug Interactions (7.1)].
-Impact of amlodipine on other drugs Co-administered amlodipine does not affect the exposure to atorvastatin, digoxin, ethanol and the warfarin prothrombin response time.
+Impact of amlodipine on other drugs Amlodipine is a weak inhibitor of CYP3A and may increase exposure to CYP3A substrates.
+Co-administered amlodipine does not affect the exposure to atorvastatin, digoxin, ethanol and the warfarin prothrombin response time.
 Simvastatin: Co-administration of multiple doses of 10 mg of amlodipine with 80 mg simvastatin resulted in a 77% increase in exposure to simvastatin compared to simvastatin alone [see Drug Interactions (7.2)].
 Cyclosporine: A prospective study in renal transplant patients (N=11) showed on an average of 40% increase in trough cyclosporine levels when concomitantly treated with amlodipine [see Drug Interactions (7.2)].
 Tacrolimus: A prospective study in healthy Chinese volunteers (N=9) with CYP3A5 expressers showed a 2.5- to 4-fold increase in tacrolimus exposure when concomitantly administered with amlodipine compared to tacrolimus alone.
