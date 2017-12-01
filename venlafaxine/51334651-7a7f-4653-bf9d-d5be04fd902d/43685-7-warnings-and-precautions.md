@@ -37,13 +37,13 @@ All patients being treated with antidepressants for any indication should be mon
 The following symptoms, anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, and mania, have been reported in adult and pediatric patients being treated with antidepressants for major depressive disorder as well as for other indications, both psychiatric and nonpsychiatric.
 Although a causal link between the emergence of such symptoms and either the worsening of depression and/or the emergence of suicidal impulses has not been established, there is concern that such symptoms may represent precursors to emerging suicidality.
 
-Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients whose depression is persistently worse, or who are experiencing emergent suicidality or symptoms that might be precursors to worsening depression or suicidality, especially if these symptoms are severe, abrupt in onset, or were not part of the patient’s presenting symptoms.
+Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients whose depression is persistently worse, or who are experiencing emergent suicidality or symptoms that might be precursors to worsening depression or suicidality, especially if these symptoms are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
 
-If the decision has been made to discontinue treatment, medication should be tapered, as rapidly as is feasible, but with recognition that abrupt discontinuation can be associated with certain symptoms (see PRECAUTIONS and DOSAGE AND ADMINISTRATION: Discontinuation of Treatment with Venlafaxine Hydrochloride Tablets, for a description of the risks of discontinuation of venlafaxine hydrochloride tablets).
+If the decision has been made to discontinue treatment, medication should be tapered, as rapidly as is feasible, but with recognition that abrupt discontinuation can be associated with certain symptoms (see PRECAUTIONS and DOSAGE AND ADMINISTRATION: Discontinuation of Treatment with Venlafaxine Tablets, for a description of the risks of discontinuation of venlafaxine tablets).
 
 Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to health care providers.
 Such monitoring should include daily observation by families and caregivers.
-Prescriptions for venlafaxine hydrochloride tablets should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
+Prescriptions for venlafaxine tablets should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
 
 ## Screening Patients for Bipolar Disorder
 
@@ -51,22 +51,29 @@ A major depressive episode may be the initial presentation of bipolar disorder.
 It is generally believed (though not established in controlled trials) that treating such an episode with an antidepressant alone may increase the likelihood of precipitation of a mixed/manic episode in patients at risk for bipolar disorder.
 Whether any of the symptoms described above represent such a conversion is unknown.
 However, prior to initiating treatment with an antidepressant, patients with depressive symptoms should be adequately screened to determine if they are at risk for bipolar disorder; such screening should include a detailed psychiatric history, including a family history of suicide, bipolar disorder, and depression.
-It should be noted that venlafaxine hydrochloride tablets are not approved for use in treating bipolar depression.
+It should be noted that venlafaxine tablets are not approved for use in treating bipolar depression.
 
-## Serotonin Syndrome or Neuroleptic Malignant Syndrome (NMS)-like Reactions
+## Serotonin Syndrome
 
-The development of a potentially life-threatening serotonin syndrome or Neuroleptic Malignant Syndrome (NMS)-like reactions have been reported with SNRIs and SSRIs alone, including venlafaxine hydrochloride tablets treatment, but particularly with concomitant use of serotonergic drugs (including triptans) with drugs which impair metabolism of serotonin (including MAOIs, e.g., methylene blue), or with antipsychotics or other dopamine antagonists.
-Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination) and/or gastrointestinal symptoms [e.g., nausea, vomiting diarrhea] (see PRECAUTIONS, Drug Interactions).
-Serotonin syndrome, in its most severe form can resemble neuroleptic malignant syndrome, which includes hyperthermia, muscle rigidity, autonomic instability with possible rapid fluctuation of vital signs, and mental status changes.
-Patients should be monitored for the emergence of serotonin syndrome or NMS-like signs and symptoms.
+The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including venlafaxine tablets, alone but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines and St. John's Wort) and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
 
-The concomitant use of venlafaxine hydrochloride tablets with MAOIs intended to treat depression is contraindicated (see CONTRAINDICATIONS).
+Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
+Patients should be monitored for the emergence of serotonin syndrome.
 
-If concomitant treatment of venlafaxine hydrochloride tablets with a 5-hydroxytryptamine receptor agonist (triptan) is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see PRECAUTIONS, Drug Interactions).
+The concomitant use of venlafaxine tablets with MAOIs intended to treat psychiatric disorders is contraindicated.
+Venlafaxine tablets should also not be started in a patient who is being treated with MAOIs such as linezolid or intravenous methylene blue.
+All reports with methylene blue that provided information on the route of administration involved intravenous administration in the dose range of 1 mg/kg to 8 mg/kg.
+No reports involved the administration of methylene blue by other routes (such as oral tablets or local tissue injection) or at lower doses.
+There may be circumstances when it is necessary to initiate treatment with a MAOI such as linezolid or intravenous methylene blue in a patient taking venlafaxine tablets.
+Venlafaxine tablets should be discontinued before initiating treatment with the MAOI (see CONTRAINDICATIONSand DOSAGE AND ADMINISTRATION).
 
-The concomitant use of venlafaxine hydrochloride tablets with serotonin precursors (such as tryptophan) is not recommended (see PRECAUTIONS, Drug Interactions).
+If concomitant use of venlafaxine tablets with other serotonergic drugs, including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, and St. John's Wort is clinically warranted, patients should be made aware of a potential increased risk of serotonin syndrome, particularly during treatment initiation and dose increases.
 
-Treatment with venlafaxine hydrochloride tablets and any concomitant serotonergic or antidopaminergic agents, including antipsychotics, should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
+Treatment with venlafaxine tablets and any concomitant serotonergic agents should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
+
+Angle-Closure Glaucoma
+
+The pupillary dilation that occurs following use of many antidepressant drugs including venlafaxine tablets may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
 
 ## Sustained Hypertension
 
@@ -92,24 +99,20 @@ Preexisting hypertension should be controlled before treatment with venlafaxine.
 It is recommended that patients receiving venlafaxine have regular monitoring of blood pressure.
 For patients who experience a sustained increase in blood pressure while receiving venlafaxine, either dose reduction or discontinuation should be considered.
 
-## Mydriasis
-
-Mydriasis has been reported in association with venlafaxine; therefore patients with raised intraocular pressure or at risk of acute narrow-angle glaucoma (angle-closure glaucoma) should be monitored (see PRECAUTIONS, Information for Patients).
-
 # PRECAUTIONS
 
 ## General
 
-### Discontinuation of Treatment with Venlafaxine Hydrochloride Tablets
+### Discontinuation of Treatment with Venlafaxine Tablets
 
 Discontinuation symptoms have been systematically evaluated in patients taking venlafaxine, to include prospective analyses of clinical trials in Generalized Anxiety Disorder and retrospective surveys of trials in major depressive disorder.
 Abrupt discontinuation or dose reduction of venlafaxine at various doses has been found to be associated with the appearance of new symptoms, the frequency of which increased with increased dose level and with longer duration of treatment.
 Reported symptoms include agitation, anorexia, anxiety, confusion, impaired coordination and balance, diarrhea, dizziness, dry mouth, dysphoric mood, fasciculation, fatigue, flu-like symptoms, headaches, hypomania, insomnia, nausea, nervousness, nightmares, sensory disturbances (including shock-like electrical sensations), somnolence, sweating, tremor, vertigo, and vomiting.
 
-During marketing of venlafaxine hydrochloride tablets, other SNRIs (Serotonin and Norepinephrine Reuptake Inhibitors), and SSRIs (Selective Serotonin Reuptake Inhibitors), there have been spontaneous reports of adverse events occurring upon discontinuation of these drugs, particularly when abrupt, including the following: dysphoric mood, irritability, agitation, dizziness, sensory disturbances (e.g. paresthesias such as electric shock sensations), anxiety, confusion, headache, lethargy, emotional lability, insomnia, hypomania, tinnitus, and seizures.
+During marketing of venlafaxine tablets, other SNRIs (Serotonin and Norepinephrine Reuptake Inhibitors), and SSRIs (Selective Serotonin Reuptake Inhibitors), there have been spontaneous reports of adverse events occurring upon discontinuation of these drugs, particularly when abrupt, including the following: dysphoric mood, irritability, agitation, dizziness, sensory disturbances (e.g. paresthesias such as electric shock sensations), anxiety, confusion, headache, lethargy, emotional lability, insomnia, hypomania, tinnitus, and seizures.
 While these events are generally self-limiting, there have been reports of serious discontinuation symptoms.
 
-Patients should be monitored for these symptoms when discontinuing treatment with venlafaxine hydrochloride tablets.
+Patients should be monitored for these symptoms when discontinuing treatment with venlafaxine tablets.
 A gradual reduction in the dose rather than abrupt cessation is recommended whenever possible.
 If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment, then resuming the previously prescribed dose may be considered.
 Subsequently, the physician may continue decreasing the dose but at a more gradual rate (see DOSAGE AND ADMINISTRATION).
@@ -118,9 +121,9 @@ Subsequently, the physician may continue decreasing the dose but at a more gradu
 
 Treatment-emergent anxiety, nervousness, and insomnia were more commonly reported for venlafaxine-treated patients compared to placebo-treated patients in a pooled analysis of short-term, doubleblind, placebo-controlled depression studies:
 
-| Symptom | n=1033 | n = 609 |
-| --- | --- | --- |
 |  | Venlafaxine | Placebo |
+| --- | --- | --- |
+| Symptom | n=1033 | n = 609 |
 | Anxiety | 6% | 3% |
 | Nervousness | 13% | 6% |
 | Insomnia | 18% | 10% |
@@ -134,8 +137,8 @@ A loss of 5% or more of body weight occurred in 6% of patients treated with venl
 However, discontinuation for weight loss associated with venlafaxine was uncommon (0.1% of venlafaxine-treated patients in the Phase 2 and Phase 3 depression trials).
 
 The safety and efficacy of venlafaxine therapy in combination with weight loss agents, including phentermine, have not been established.
-Coadministration of venlafaxine hydrochloride tablets and weight loss agents is not recommended.
-Venlafaxine hydrochloride tablets are not indicated for weight loss alone or in combination with other products.
+Coadministration of venlafaxine tablets and weight loss agents is not recommended.
+Venlafaxine tablets are not indicated for weight loss alone or in combination with other products.
 
 ### Pediatric Patients
 
@@ -170,16 +173,16 @@ None of the patients receiving venlafaxine hydrochloride extended-release capsul
 
 During Phase 2 and Phase 3 trials, hypomania or mania occurred in 0.5% of patients treated with venlafaxine.
 Activation of mania/hypomania has also been reported in a small proportion of patients with major affective disorder who were treated with other marketed antidepressants.
-As with all antidepressants, venlafaxine hydrochloride tablets should be used cautiously in patients with a history of mania.
+As with all antidepressants, venlafaxine tablets should be used cautiously in patients with a history of mania.
 
 ### Hyponatremia
 
-Hyponatremia may occur as a result of treatment with SSRIs and SNRIs, including venlafaxine hydrochloride tablets.
+Hyponatremia may occur as a result of treatment with SSRIs and SNRIs, including venlafaxine tablets.
 In many cases, this hyponatremia appears to be the result of the syndrome of inappropriate antidiuretic hormone secretion (SIADH).
 Cases with serum sodium lower than 110 mmol/L have been reported.
 Elderly patients may be at greater risk of developing hyponatremia with SSRIs and SNRIs.
 Also, patients taking diuretics or who are otherwise volume depleted may be at greater risk (see PRECAUTIONS, Geriatric Use).
-Discontinuation of venlafaxine hydrochloride tablets should be considered in patients with symptomatic hyponatremia and appropriate medical intervention should be instituted.
+Discontinuation of venlafaxine tablets should be considered in patients with symptomatic hyponatremia and appropriate medical intervention should be instituted.
 
 Signs and symptoms of hyponatremia include headache, difficulty concentrating, memory impairment, confusion, weakness, and unsteadiness, which may lead to falls.
 Signs and symptoms associated with more severe and/or acute cases have included hallucination, syncope, seizure, coma, respiratory arrest, and death.
@@ -188,7 +191,7 @@ Signs and symptoms associated with more severe and/or acute cases have included 
 
 During premarketing testing, seizures were reported in 0.26% (8/3082) of venlafaxine-treated patients.
 Most seizures (5 of 8) occurred in patients receiving doses of 150 mg/day or less.
-Venlafaxine hydrochloride tablets should be used cautiously in patients with a history of seizures.
+Venlafaxine tablets should be used cautiously in patients with a history of seizures.
 It should be discontinued in any patient who develops seizures.
 
 ### Abnormal Bleeding
@@ -198,7 +201,7 @@ Concomitant use of aspirin, nonsteroidal anti-inflammatory drugs, warfarin, and 
 Case reports and epidemiological studies (case-control and cohort design) have demonstrated an association between use of drugs that interfere with serotonin reuptake and the occurrence of gastrointestinal bleeding.
 Bleeding events related to SSRIs and SNRIs use have ranged from ecchymoses, hematomas, epistaxis, and petechiae to life-threatening hemorrhages.
 
-Patients should be cautioned about the risk of bleeding associated with the concomitant use of venlafaxine hydrochloride tablets and NSAIDs, aspirin, or other drugs that affect coagulation.
+Patients should be cautioned about the risk of bleeding associated with the concomitant use of venlafaxine tablets and NSAIDs, aspirin, or other drugs that affect coagulation.
 
 ### Serum Cholesterol Elevation
 
@@ -212,47 +215,54 @@ Such patients should undergo a prompt medical evaluation and discontinuation of 
 
 ### Use in Patients with Concomitant Illness
 
-Clinical experience with venlafaxine hydrochloride tablets in patients with concomitant systemic illness is limited.
-Caution is advised in administering venlafaxine hydrochloride tablets to patients with diseases or conditions that could affect hemodynamic responses or metabolism.
+Clinical experience with venlafaxine tablets in patients with concomitant systemic illness is limited.
+Caution is advised in administering venlafaxine tablets to patients with diseases or conditions that could affect hemodynamic responses or metabolism.
 
-Venlafaxine hydrochloride tablets have not been evaluated or used to any appreciable extent in patients with a recent history of myocardial infarction or unstable heart disease.
+Venlafaxine tablets have not been evaluated or used to any appreciable extent in patients with a recent history of myocardial infarction or unstable heart disease.
 Patients with these diagnoses were systematically excluded from many clinical studies during the product's premarketing testing.
-Evaluation of the electrocardiograms for 769 patients who received venlafaxine hydrochloride tablets in 4 to 6 week doubleblind placebo-controlled trials, however, showed that the incidence of trial-emergent conduction abnormalities did not differ from that with placebo.
-The mean heart rate in venlafaxine hydrochloride tablets-treated patients was increased relative to baseline by about 4 beats per minute.
+Evaluation of the electrocardiograms for 769 patients who received venlafaxine tablets in 4 to 6 week doubleblind placebo-controlled trials, however, showed that the incidence of trial-emergent conduction abnormalities did not differ from that with placebo.
+The mean heart rate in venlafaxine tablets-treated patients was increased relative to baseline by about 4 beats per minute.
 
 The electrocardiograms for 357 patients who received venlafaxine hydrochloride extended-release capsules and 285 patients who received placebo in 8 to 12 week doubleblind, placebo-controlled trials were analyzed.
 The mean change from baseline in corrected QT interval (QTc) for venlafaxine hydrochloride extended-release capsules-treated patients was increased relative to that for placebo-treated patients (increase of 4.7 msec for venlafaxine hydrochloride extended-release capsules and decrease of 1.9 msec for placebo).
 In these same trials, the mean change from baseline in heart rate for venlafaxine hydrochloride extended-release capsules-treated patients was significantly higher than that for placebo (a mean increase of 4 beats per minute for venlafaxine hydrochloride extended-release capsules and 1 beat per minute for placebo).
-In a flexible-dose study, with venlafaxine hydrochloride tablets doses in the range of 200 to 375 mg/day and mean dose greater than 300 mg/day, venlafaxine hydrochloride tablets-treated patients had a mean increase in heart rate of 8.5 beats per minute compared with 1.7 beats per minute in the placebo group.
+In a flexible-dose study, with venlafaxine tablets doses in the range of 200 to 375 mg/day and mean dose greater than 300 mg/day, venlafaxine tablets-treated patients had a mean increase in heart rate of 8.5 beats per minute compared with 1.7 beats per minute in the placebo group.
 
-As increases in heart rate were observed, caution should be exercised in patients whose underlying medical conditions might be compromised by increases in heart rate (e.g., patients with hyperthyroidism, heart failure, or recent myocardial infarction), particularly when using doses of venlafaxine hydrochloride tablets above 200 mg/day.
+As increases in heart rate were observed, caution should be exercised in patients whose underlying medical conditions might be compromised by increases in heart rate (e.g., patients with hyperthyroidism, heart failure, or recent myocardial infarction), particularly when using doses of venlafaxine tablets above 200 mg/day.
 
 In patients with renal impairment (GFR=10 to 70 mL/min) or cirrhosis of the liver, the clearances of venlafaxine and its active metabolite were decreased, thus prolonging the elimination half-lives of these substances.
 A lower dose may be necessary (see DOSAGE AND ADMINISTRATION).
-Venlafaxine hydrochloride tablets, like all antidepressants, should be used with caution in such patients.
+Venlafaxine tablets, like all antidepressants, should be used with caution in such patients.
 
 ## Information for Patients
 
-Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with venlafaxine hydrochloride tablets and should counsel them in its appropriate use.
-A patient Medication Guide about "Antidepressant Medicines, Depression and Other Serious Mental Illness, and Suicidal Thoughts or Actions" is available for venlafaxine hydrochloride tablets.
+Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with venlafaxine tablets and should counsel them in its appropriate use.
+A patient Medication Guide about "Antidepressant Medicines, Depression and Other Serious Mental Illness, and Suicidal Thoughts or Actions" is available for venlafaxine tablets.
 The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
 Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
 The complete text of the Medication Guide is reprinted at the end of this document.
 
-Patients should be advised of the following issues and asked to alert their prescriber if these occur while taking venlafaxine hydrochloride tablets.
+Patients should be advised of the following issues and asked to alert their prescriber if these occur while taking venlafaxine tablets.
 
 ## Clinical Worsening and Suicide Risk
 
 Patients, their families, and their caregivers should be encouraged to be alert to the emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania, other unusual changes in behavior, worsening of depression, and suicidal ideation, especially early during antidepressant treatment and when the dose is adjusted up or down.
 Families and caregivers of patients should be advised to look for the emergence of such symptoms on a day-to-day basis, since changes may be abrupt.
-Such symptoms should be reported to the patient’s prescriber or health professional, especially if they are severe, abrupt in onset, or were not part of the patient’s presenting symptoms.
+Such symptoms should be reported to the patient's prescriber or health professional, especially if they are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
 Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication.
 
 ### Interference with Cognitive and Motor Performance
 
 Clinical studies were performed to examine the effects of venlafaxine on behavioral performance of healthy individuals.
 The results revealed no clinically significant impairment of psychomotor, cognitive, or complex behavior performance.
-However, since any psychoactive drug may impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that venlafaxine hydrochloride tablets therapy does not adversely affect their ability to engage in such activities.
+However, since any psychoactive drug may impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that venlafaxine tablets therapy does not adversely affect their ability to engage in such activities.
+
+Angle-Closure Glaucoma
+
+Patients should be advised that taking venlafaxine tablets can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle-closure glaucoma.
+Pre-existing glaucoma is almost always open-angle glaucoma because angle-closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
+Open-angle glaucoma is not a risk factor for angle closure glaucoma.
+Patients may wish to be examined to determine whether they are susceptible to angle closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible.
 
 ### Pregnancy
 
@@ -262,22 +272,17 @@ Patients should be advised to notify their physician if they become pregnant or 
 
 Patients should be advised to notify their physician if they are breastfeeding an infant.
 
-### Mydriasis
-
-Mydriasis (prolonged dilation of the pupils of the eye) has been reported with venlafaxine.
-Patients should be advised to notify their physician if they have a history of glaucoma or a history of increased intraocular pressure (see WARNINGS).
-
 ### Concomitant Medication
 
 Patients should be advised to inform their physicians if they are taking, or plan to take, any prescription or over-the-counter drugs, including herbal preparations and nutritional supplements, since there is a potential for interactions.
 
-Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of venlafaxine hydrochloride tablets and triptans, tramadol, tryptophan supplements or other serotonergic agents (see WARNINGS, Serotonin Syndrome and PRECAUTIONS, Drug Interactions, CNS-Active Drugs).
+Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of venlafaxine tablets and triptans, tramadol, tryptophan supplements or other serotonergic agents (see CONTRAINDICATIONSand WARNINGS, Serotonin Syndrome and PRECAUTIONS, Drug Interactions, CNS-Active Drugs, Serotonergic Drugs).
 
-Patients should be cautioned about the concomitant use of venlafaxine hydrochloride tablets and NSAIDs, aspirin, warfarin, or other drugs that affect coagulation since combined use of psychotropic drugs that interfere with serotonin reuptake and these agents has been associated with an increased risk of bleeding (see PRECAUTIONS, Abnormal Bleeding).
+Patients should be cautioned about the concomitant use of venlafaxine tablets and NSAIDs, aspirin, warfarin, or other drugs that affect coagulation since combined use of psychotropic drugs that interfere with serotonin reuptake and these agents has been associated with an increased risk of bleeding (see PRECAUTIONS, Abnormal Bleeding).
 
 ### Alcohol
 
-Although venlafaxine hydrochloride tablets have not been shown to increase the impairment of mental and motor skills caused by alcohol, patients should be advised to avoid alcohol while taking venlafaxine hydrochloride tablets.
+Although venlafaxine tablets have not been shown to increase the impairment of mental and motor skills caused by alcohol, patients should be advised to avoid alcohol while taking venlafaxine tablets.
 
 ### Allergic Reactions
 
@@ -324,7 +329,7 @@ Venlafaxine had no effect on the pharmacokinetics of lithium (see also CNS-Activ
 
 ### Drugs Highly Bound to Plasma Protein
 
-Venlafaxine is not highly bound to plasma proteins; therefore, administration of venlafaxine hydrochloride tablets to a patient taking another drug that is highly protein bound should not cause increased free concentrations of the other drug.
+Venlafaxine is not highly bound to plasma proteins; therefore, administration of venlafaxine tablets to a patient taking another drug that is highly protein bound should not cause increased free concentrations of the other drug.
 
 ### Drugs that Interfere with Hemostasis (e.g., NSAIDs, Aspirin, and Warfarin)
 
@@ -348,10 +353,10 @@ Venlafaxine Cmax increased by 26% in EM subjects and 48% in PM subjects.
 Cmax values for ODV increased by 14% and 29% in EM and PM subjects, respectively.
 
 Venlafaxine AUC increased by 21% in EM subjects and 70% in PM subjects (range in PMs - 2% to 206%), and AUC values for ODV increased by 23% and 33% in EM and PM subjects (range in PMs - 38% to 105%) subjects, respectively.
-Combined AUCs of venlafaxine and ODV increased on average by approximately 23% in EMs and 53% in PMs (range in PMs – 4% to 134%).
+Combined AUCs of venlafaxine and ODV increased on average by approximately 23% in EMS and 53% in PMs (range in PMs – 4% to 134%).
 
 Concomitant use of CYP3A4 inhibitors and venlafaxine may increase levels of venlafaxine and ODV.
-Therefore, caution is advised if a patient’s therapy includes a CYP3A4 inhibitor and venlafaxine concomitantly.
+Therefore, caution is advised if a patient's therapy includes a CYP3A4 inhibitor and venlafaxine concomitantly.
 
 ### CYP3A4 Inhibitors
 
@@ -359,7 +364,7 @@ In vitro studies indicate that venlafaxine is likely metabolized to a minor, les
 Because CYP3A4 is typically a minor pathway relative to CYP2D6 in the metabolism of venlafaxine, the potential for a clinically significant drug interaction between drugs that inhibit CYP3A4-mediated metabolism and venlafaxine is small.
 
 The concomitant use of venlafaxine with a drug treatment(s) that potently inhibits both CYP2D6 and CYP3A4, the primary metabolizing enzymes for venlafaxine, has not been studied.
-Therefore, caution is advised should a patient’s therapy include venlafaxine and any agent(s) that produce potent simultaneous inhibition of these two enzyme systems.
+Therefore, caution is advised should a patient's therapy include venlafaxine and any agent(s) that produce potent simultaneous inhibition of these two enzyme systems.
 
 ### Drugs Metabolized by Cytochrome P450 Isoenzymes
 
@@ -384,7 +389,7 @@ The clinical relevance of this finding for hypertensive patients is unknown.
 Caution should be exercised with coadministration of venlafaxine and metoprolol.
 
 Venlafaxine treatment has been associated with dose-related increases in blood pressure in some patients.
-It is recommended that patients receiving venlafaxine hydrochloride tablets have regular monitoring of blood pressure (see WARNINGS).
+It is recommended that patients receiving venlafaxine tablets have regular monitoring of blood pressure (see WARNINGS).
 
 ### Risperidone
 
@@ -424,17 +429,18 @@ See CONTRAINDICATIONS.
 
 The risk of using venlafaxine in combination with other CNS-active drugs has not been systematically evaluated (except in the case of those CNS-active drugs noted above).
 Consequently, caution is advised if the concomitant administration of venlafaxine and such drugs is required.
+(see CONTRAINDICATIONSand WARNINGS)
 
 ## Serotonergic Drugs
 
-Based on the mechanism of action of venlafaxine and the potential for serotonin syndrome, caution is advised when venlafaxine is coadministered with other drugs that may affect the serotonergic neurotransmitter systems, such as triptans, SSRIs, other SNRIs, linezolid (an antibiotic which is a reversible non-selective MAOI), lithium, tramadol, or St. John's Wort and methylene blue (see WARNINGS, Serotonin Syndrome).
-If concomitant treatment of venlafaxine hydrochloride tablets with these drugs is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see WARNINGS, Serotonin Syndrome).
-The concomitant use of venlafaxine hydrochloride tablets with tryptophan supplements is not recommended (see WARNINGS, Serotonin Syndrome).
+Based on the mechanism of action of venlafaxine and the potential for serotonin syndrome, caution is advised when venlafaxine is coadministered with other drugs that may affect the serotonergic neurotransmitter systems, such as triptans, SSRIs, other SNRIs, linezolid (an antibiotic which is a reversible non-selective MAOI), lithium, tramadol, amphetamines or St. John's Wort and methylene blue (see CONTRAINDICATIONS and WARNINGS, Serotonin Syndrome).
+If concomitant treatment of venlafaxine tablets with these drugs is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see CONTRAINDICATIONS, WARNINGS, Serotonin Syndrome).
+The concomitant use of venlafaxine tablets with tryptophan supplements is not recommended (see CONTRAINDICATIONS, WARNINGS, Serotonin Syndrome).
 
 ### Triptans
 
 There have been rare postmarketing reports of serotonin syndrome with use of an SSRI and a triptan.
-If concomitant treatment of venlafaxine hydrochloride tablets with a triptan is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see WARNINGS, Serotonin Syndrome).
+If concomitant treatment of venlafaxine tablets with a triptan is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases (see WARNINGS, Serotonin Syndrome).
 
 Drug-Laboratory Test Interactions
 
@@ -445,7 +451,7 @@ Confirmatory tests, such as gas chromatography/mass spectrometry, will distingui
 
 ### Electroconvulsive Therapy
 
-There are no clinical data establishing the benefit of electroconvulsive therapy combined with venlafaxine hydrochloride tablets treatment.
+There are no clinical data establishing the benefit of electroconvulsive therapy combined with venlafaxine tablets treatment.
 
 ### Postmarketing Spontaneous Drug Interaction Reports
 
@@ -471,7 +477,10 @@ The no effect dose was 67 times (mg/kg) or 17 times (mg/m2) the human dose.
 
 ### Impairment of Fertility
 
-Reproduction and fertility studies in rats showed no effects on male or female fertility at oral doses of up to 8 times the maximum recommended human daily dose on a mg/kg basis, or up to 2 times on a mg/ m2 basis.
+Reproduction and fertility studies of venlafaxine in rats showed no adverse effects on male or female fertility at oral doses of up to 2 times the maximum recommended human dose of 225 mg/day on a mg/m2 basis.
+
+However, reduced fertility was observed in a study in which male and female rats were treated with O-desmethylvenlafaxine (ODV), the major human metabolite of venlafaxine, prior to and during mating and gestation.
+This occurred at an ODV exposure (AUC) approximately 2 to 3 times that associated with a human venlafaxine dose of 225 mg/day.
 
 ## Pregnancy
 
@@ -487,31 +496,31 @@ Because animal reproduction studies are not always predictive of human response,
 
 ### Non-teratogenic Effects
 
-Neonates exposed to venlafaxine hydrochloride tablets, other SNRIs (Serotonin and Norepinephrine Reuptake Inhibitors), or SSRIs (Selective Serotonin Reuptake Inhibitors), late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
+Neonates exposed to venlafaxine tablets, other SNRIs (Serotonin and Norepinephrine Reuptake Inhibitors), or SSRIs (Selective Serotonin Reuptake Inhibitors), late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
 Such complications can arise immediately upon delivery.
 Reported clinical findings have included respiratory distress, cyanosis, apnea, seizures, temperature instability, feeding difficulty, vomiting, hypoglycemia, hypotonia, hypertonia, hyperreflexia, tremor, jitteriness, irritability, and constant crying.
 These features are consistent with either a direct toxic effect of SSRIs and SNRIs or, possibly, a drug discontinuation syndrome.
 It should be noted that, in some cases, the clinical picture is consistent with serotonin syndrome (see PRECAUTIONS-Drug Interactions- CNS-Active Drugs).
-When treating a pregnant woman with venlafaxine hydrochloride tablets during the third trimester, the physician should carefully consider the potential risks and benefits of treatment (see DOSAGE AND ADMINISTRATION).
+When treating a pregnant woman with venlafaxine tablets during the third trimester, the physician should carefully consider the potential risks and benefits of treatment (see DOSAGE AND ADMINISTRATION).
 
 ## Labor and Delivery
 
-The effect of venlafaxine hydrochloride tablets on labor and delivery in humans is unknown.
+The effect of venlafaxine tablets on labor and delivery in humans is unknown.
 
 ## Nursing Mothers
 
 Venlafaxine and ODV have been reported to be excreted in humanmilk.
-Because of the potential for serious adverse reactions in nursing infants from venlafaxine hydrochloride tablets, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+Because of the potential for serious adverse reactions in nursing infants from venlafaxine tablets, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 
 ## Pediatric Use
 
 Safety and effectiveness in the pediatric population have not been established (see BOX WARNING and WARNINGS, Clinical Worsening and Suicide Risk).
 Two placebo-controlled trials in 766 pediatric patients with MDD and two placebo-controlled trials in 793 pediatric patients with GAD have been conducted with venlafaxine hydrochloride extended-release capsules, and the data were not sufficient to support a claim for use in pediatric patients.
 
-Anyone considering the use of venlafaxine hydrochloride tablets in a child or adolescent must balance the potential risks with the clinical need.
+Anyone considering the use of venlafaxine tablets in a child or adolescent must balance the potential risks with the clinical need.
 
 Although no studies have been designed to primarily assess venlafaxine hydrochloride extended-release capsule's impact on the growth, development, and maturation of children and adolescents, the studies that have been done suggest that venlafaxine hydrochloride extended-release capsules may adversely affect weight and height (see PRECAUTIONS, General,Changes in Height and Changes in Weight).
-Should the decision be made to treat a pediatric patient with venlafaxine hydrochloride tablets, regular monitoring of weight and height is recommended during treatment, particularly if it is to be continued long term.
+Should the decision be made to treat a pediatric patient with venlafaxine tablets, regular monitoring of weight and height is recommended during treatment, particularly if it is to be continued long term.
 The safety of venlafaxine hydrochloride extended-release capsules treatment for pediatric patients has not been systematically assessed for chronic treatment longer than six months in duration.
 
 In the studies conducted in pediatric patients (ages 6 to 17), the occurrence of blood pressure and cholesterol increases considered to be clinically relevant in pediatric patients was similar to that observed in adult patients.
@@ -519,7 +528,7 @@ Consequently, the precautions for adults apply to pediatric patients (see WARNIN
 
 ## Geriatric Use
 
-Of the 2,897 patients in Phase 2 and Phase 3 depression studies with venlafaxine hydrochloride tablets, 12% (357) were 65 years of age or over.
+Of the 2,897 patients in Phase 2 and Phase 3 depression studies with venlafaxine tablets, 12% (357) were 65 years of age or over.
 No overall differences in effectiveness or safety were observed between these patients and younger patients, and other reported clinical experience generally has not identified differences in response between the elderly and younger patients.
 However, greater sensitivity of some older individuals cannot be ruled out.
 SSRIs and SNRIs, including venlafaxine, have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse event (see PRECAUTIONS, Hyponatremia).

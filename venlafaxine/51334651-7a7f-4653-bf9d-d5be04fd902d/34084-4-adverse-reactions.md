@@ -17,21 +17,23 @@ The more common events (≥ 1%) associated with discontinuation and considered t
 | Nausea | 6% | 1% |
 | Urogenital |  |  |
 | Abnormal | 3% | − |
-| ejaculation— Less than 1% |  |  |
+| ejaculation* |  |  |
 | Other |  |  |
 | Headache | 3% | 1% |
 | Asthenia | 2% | − |
 | Sweating | 2% | − |
+| * Percentages based on the number of males. |  |  |
+| — Less than 1% |  |  |
 
 ## Incidence in Controlled Trials
 
-### Commonly Observed Adverse Events in Controlled Clinical Trials
+Commonly Observed Adverse Events in Controlled Clinical Trials
 
-The most commonly observed adverse events associated with the use of venlafaxine hydrochloride tablets (incidence of 5% or greater) and not seen at an equivalent incidence among placebo-treated patients (i.e., incidence for venlafaxine hydrochloride tablets at least twice that for placebo), derived from the 1% incidence table below, were asthenia, sweating, nausea, constipation, anorexia, vomiting, somnolence, dry mouth, dizziness, nervousness, anxiety, tremor, and blurred vision as well as abnormal ejaculation/orgasm and impotence in men.
+The most commonly observed adverse events associated with the use of venlafaxine tablets (incidence of 5% or greater) and not seen at an equivalent incidence among placebo-treated patients (i.e., incidence for venlafaxine tablets at least twice that for placebo), derived from the 1% incidence table below, were asthenia, sweating, nausea, constipation, anorexia, vomiting, somnolence, dry mouth, dizziness, nervousness, anxiety, tremor, and blurred vision as well as abnormal ejaculation/orgasm and impotence in men.
 
-### Adverse Events Occurring at an Incidence of 1% or More Among Venlafaxine Hydrochloride Tablets -Treated Patients
+Adverse Events Occurring at an Incidence of 1% or More Among Venlafaxine Tablets -Treated Patients
 
-The table that follows enumerates adverse events that occurred at an incidence of 1% or more, and were more frequent than in the placebo group, among venlafaxine hydrochloride tablets-treated patients who participated in short-term (4 to 8 week) placebo-controlled trials in which patients were administered doses in a range of 75 to 375 mg/day.
+The table that follows enumerates adverse events that occurred at an incidence of 1% or more, and were more frequent than in the placebo group, among venlafaxine tablets-treated patients who participated in short-term (4 to 8 week) placebo-controlled trials in which patients were administered doses in a range of 75 to 375 mg/day.
 This table shows the percentage of patients in each group who had at least one episode of an event at some time during their treatment.
 Reported adverse events were classified using a standard COSTART-based Dictionary terminology.
 
@@ -39,11 +41,11 @@ The prescriber should be aware that these figures cannot be used to predict the 
 Similarly, the cited frequencies cannot be compared with figures obtained from other clinical investigations involving different treatments, uses and investigators.
 The cited figures, however, do provide the prescribing physician with some basis for estimating the relative contribution of drug and nondrug factors to the side effect incidence rate in the population studied.
 
-TABLE 2 Treatment-Emergent Adverse Experience Incidence in 4 to 8 Week Placebo-Controlled Clinical Trials— Incidence less than 1%.
+TABLE 2 Treatment-Emergent Adverse Experience Incidence in 4 to 8 Week Placebo-Controlled Clinical Trials1
 
-|  |  | (n=1033) | (n=609) |
+| Body System | Preferred Term | Venlafaxine Tablets | Placebo |
 | --- | --- | --- | --- |
-| Body System | Preferred Term | Venlafaxine Hydrochloride Tablets | Placebo |
+|  |  | (n=1033) | (n=609) |
 | Body as a Whole | Headache | 25% | 24% |
 |  | Asthenia | 12% | 6% |
 |  | Infection | 6% | 5% |
@@ -89,26 +91,29 @@ TABLE 2 Treatment-Emergent Adverse Experience Incidence in 4 to 8 Week Placebo-C
 |  | Taste perversion | 2% | — |
 |  | Tinnitus | 2% | — |
 |  | Mydriasis | 2% | — |
-| Urogenital System | Abnormal ejaculation/ |  |  |
-|  | Orgasm | 12%Events reported by at least 1% of patients treated with venlafaxine hydrochloride tablets are included, and are rounded to the nearest %. Events for which the venlafaxine hydrochloride tablets incidence was equal to or less than placebo are not listed in the table, but included the following: abdominal pain, pain, back pain, flu syndrome, fever, palpitation, increased appetite, myalgia, arthralgia, amnesia, hypesthesia, rhinitis, pharyngitis, sinusitis, cough increased, and dysmenorrhea‡. | — |
-|  | Impotence | 6 % | — |
+| Urogenital System | Abnormal ejaculation/orgasm | 12%2 | —2 |
+|  | Impotence | 6 %2 | —2 |
 |  | Urinary frequency | 3% | 2% |
 |  | Urination impaired | 2% | — |
-|  | Orgasm disturbance | 2%Incidence based on number of male patients. | — |
+|  | Orgasm disturbance | 2%3 | —3 |
+| 1 Events reported by at least 1% of patients treated with venlafaxine tablets are included, and are rounded to the nearest %. Events for which the venlafaxine tablets incidence was equal to or less than placebo are not listed in the table, but included the following: abdominal pain, pain, back pain, flu syndrome, fever, palpitation, increased appetite, myalgia, arthralgia, amnesia, hypesthesia, rhinitis, pharyngitis, sinusitis, cough increased, and dysmenorrhea3. |  |  |  |
+| — Incidence less than 1%. |  |  |  |
+| 2 Incidence based on number of male patients. |  |  |  |
+| 3 Incidence based on number of female patients. |  |  |  |
 
-### Dose Dependency of Adverse Events
+Dose Dependency of Adverse Events
 
-A comparison of adverse event rates in a fixed-dose study comparing venlafaxine hydrochloride tablets 75, 225, and 375 mg/day with placebo revealed a dose dependency for some of the more common adverse events associated with venlafaxine hydrochloride tablets use, as shown in the table that follows.
-The rule for including events was to enumerate those that occurred at an incidence of 5% or more for at least one of the venlafaxine groups and for which the incidence was at least twice the placebo incidence for at least one venlafaxine hydrochloride tablets group.
-Tests for potential dose relationships for these events (Cochran-Armitage Test, with a criterion of exact 2-sided p-value ≤0.05) suggested a dose-dependency for several adverse events in this list, including chills, hypertension, anorexia, nausea, agitation, dizziness, somnolence, tremor, yawning, sweating, and abnormal ejaculation.
+A comparison of adverse event rates in a fixed-dose study comparing venlafaxine tablets 75, 225, and 375 mg/day with placebo revealed a dose dependency for some of the more common adverse events associated with venlafaxine tablets use, as shown in the table that follows.
+The rule for including events was to enumerate those that occurred at an incidence of 5% or more for at least one of the venlafaxine groups and for which the incidence was at least twice the placebo incidence for at least one venlafaxine tablets group.
+Tests for potential dose relationships for these events (Cochran-Armitage Test, with a criterion of exact 2-sided p-value ≤ 0.05) suggested a dose-dependency for several adverse events in this list, including chills, hypertension, anorexia, nausea, agitation, dizziness, somnolence, tremor, yawning, sweating, and abnormal ejaculation.
 
 TABLE 3 Treatment-Emergent Adverse Experience Incidence in a Dose Comparison Trial
 
-|  | (n=92) | (n=89) | (n=89) | (n=88) |
+|  | Venlafaxine Tablets (mg/day) |  |  |  |
 | --- | --- | --- | --- | --- |
-|  | Venlafaxine Hydrochloride Tablets (mg/day) |  |  |  |
 | Body System/ |  |  |  |  |
 | Preferred Term | Placebo | 75 | 225 | 375 |
+|  | (n=92) | (n=89) | (n=89) | (n=88) |
 | Body as a Whole |  |  |  |  |
 | Abdominal pain | 3.3% | 3.4% | 2.2% | 8% |
 | Asthenia | 3.3% | 16.9% | 14.6% | 14.8% |
@@ -137,45 +142,45 @@ TABLE 3 Treatment-Emergent Adverse Experience Incidence in a Dose Comparison Tri
 | Sweating | 5.4% | 6.7% | 12.4% | 19.3% |
 | Special Senses |  |  |  |  |
 | Abnormality of |  |  |  |  |
-| accommodation | 0.0% | 9.1% | 7.9% | 5.6% |
+| accommodation | 0% | 9.1% | 7.9% | 5.6% |
 | Urogenital System |  |  |  |  |
 | Abnormal |  |  |  |  |
 | ejaculation/orgasm | 0% | 4.5% | 2.2% | 12.5% |
 | Impotence | 0% | 5.8% | 2.1% | 3.6% |
 | (Number of men) | (n=63) | (n=52) | (n=48) | (n=56) |
 
-### Adaptation to Certain Adverse Events
+Adaptation to Certain Adverse Events
 
 Over a 6 week period, there was evidence of adaptation to some adverse events with continued therapy (e.g., dizziness and nausea), but less to other effects (e.g., abnormal ejaculation and dry mouth).
 
-### Vital Sign Changes
+Vital Sign Changes
 
-Venlafaxine hydrochloride tablets treatment (averaged over all dose groups) in clinical trials was associated with a mean increase in pulse rate of approximately 3 beats per minute, compared to no change for placebo.
+Venlafaxine tablets treatment (averaged over all dose groups) in clinical trials was associated with a mean increase in pulse rate of approximately 3 beats per minute, compared to no change for placebo.
 In a flexible-dose study, with doses in the range of 200 to 375 mg/day and mean dose greater than 300 mg/day, the mean pulse was increased by about 2 beats per minute compared with a decrease of about 1 beat per minute for placebo.
 
-In controlled clinical trials, venlafaxine hydrochloride tablets were associated with mean increases in diastolic blood pressure ranging from 0.7 to 2.5 mm Hg averaged over all dose groups, compared to mean decreases ranging from 0.9 to 3.8 mm Hg for placebo.
+In controlled clinical trials, venlafaxine tablets were associated with mean increases in diastolic blood pressure ranging from 0.7 to 2.5 mm Hg averaged over all dose groups, compared to mean decreases ranging from 0.9 to 3.8 mm Hg for placebo.
 However, there is a dose dependency for blood pressure increase (see WARNINGS).
 
-### Laboratory Changes
+Laboratory Changes
 
-Of the serum chemistry and hematology parameters monitored during clinical trials with venlafaxine hydrochloride tablets, a statistically significant difference with placebo was seen only for serum cholesterol.
-In premarketing trials, treatment with venlafaxine hydrochloride tablets was associated with a mean final on-therapy increase in total cholesterol of 3 mg/dL.
+Of the serum chemistry and hematology parameters monitored during clinical trials with venlafaxine tablets, a statistically significant difference with placebo was seen only for serum cholesterol.
+In premarketing trials, treatment with venlafaxine tablets was associated with a mean final on-therapy increase in total cholesterol of 3 mg/dL.
 
-Patients treated with venlafaxine hydrochloride tablets for at least 3 months in placebo-controlled 12 month extension trials had a mean final on-therapy increase in total cholesterol of 9.1 mg/dL compared with a decrease of 7.1 mg/dL among placebo-treated patients.
+Patients treated with venlafaxine tablets for at least 3 months in placebocontrolled 12 month extension trials had a mean final on-therapy increase in total cholesterol of 9.1 mg/dL compared with a decrease of 7.1 mg/dL among placebo-treated patients.
 This increase was duration dependent over the study period and tended to be greater with higher doses.
 Clinically relevant increases in serum cholesterol, defined as 1) a final on-therapy increase in serum cholesterol ≥ 50 mg/dL from baseline and to a value ≥ 261 mg/dL or 2) an average on-therapy increase in serum cholesterol ≥ 50 mg/dL from baseline and to a value ≥ 261 mg/dL, were recorded in 5.3% of venlafaxine-treated patients and 0% of placebo-treated patients (see PRECAUTIONS-General-Serum Cholesterol Elevation).
 
-### ECG Changes
+ECG Changes
 
-In an analysis of ECGs obtained in 769 patients treated with venlafaxine hydrochloride tablets and 450 patients treated with placebo in controlled clinical trials, the only statistically significant difference observed was for heart rate, i.e., a mean increase from baseline of 4 beats per minute for venlafaxine hydrochloride tablets.
+In an analysis of ECGs obtained in 769 patients treated with venlafaxine tablets and 450 patients treated with placebo in controlled clinical trials, the only statistically significant difference observed was for heart rate, i.e., a mean increase from baseline of 4 beats per minute for venlafaxine tablets.
 In a flexible-dose study, with doses in the range of 200 to 375 mg/day and mean dose greater than 300 mg/day, the mean change in heart rate was 8.5 beats per minute compared with 1.7 beats per minute for placebo (see PRECAUTIONS, General, Use in Patients with Concomitant Illness).
 
 ## Other Events Observed During the Premarketing Evaluation of Venlafaxine
 
-During its premarketing assessment, multiple doses of venlafaxine hydrochloride tablets were administered to 2897 patients in Phase 2 and Phase 3 studies.
-In addition, in premarketing assessment, of venlafaxine hydrochloride extended-release capsules, multiple doses were administered to 705 patients in Phase 3 major depressive disorder studies and venlafaxine hydrochloride tablets were administered to 96 patients.
+During its premarketing assessment, multiple doses of venlafaxine tablets were administered to 2897 patients in Phase 2 and Phase 3 studies.
+In addition, in premarketing assessment of venlafaxine hydrochloride extended-release capsules, multiple doses were administered to 705 patients in Phase 3 major depressive disorder studies and venlafaxine tablets were administered to 96 patients.
 During its premarketing assessment, multiple doses of venlafaxine hydrochloride extended-release capsules were also administered to 1381 patients in Phase 3 GAD studies and 277 patients in Phase 3 Social Anxiety Disorder studies.
-The conditions and duration of exposure to venlafaxine in both development programs varied greatly, and included (in overlapping categories) open and doubleblind studies, uncontrolled and controlled studies, inpatient (venlafaxine hydrochloride tablets only) and outpatient studies, fixed-dose and titration studies.
+The conditions and duration of exposure to venlafaxine in both development programs varied greatly, and included (in overlapping categories) open and doubleblind studies, uncontrolled and controlled studies, inpatient (venlafaxine tablets only) and outpatient studies, fixed-dose and titration studies.
 Untoward events associated with this exposure were recorded by clinical investigators using terminology of their own choosing.
 Consequently, it is not possible to provide a meaningful estimate of the proportion of individuals experiencing adverse events without first grouping similar types of untoward events into a smaller number of standardized event categories.
 
@@ -207,7 +212,7 @@ Respiratory system—Frequent: bronchitis, dyspnea; Infrequent: asthma, chest co
 
 Skin and appendages—Infrequent: acne, alopecia, brittle nails, contact dermatitis, dry skin, eczema, skin hypertrophy, maculopapular rash, psoriasis, urticaria; Rare: erythema nodosum, exfoliative dermatitis, lichenoid dermatitis, hair discoloration, skin discoloration, furunculosis, hirsutism, leukoderma, petechial rash, pustular rash, vesiculobullous rash, seborrhea, skin atrophy, skin striae.
 
-Special senses—Frequent: abnormality of accommodation, abnormal vision; Infrequent: cataract, conjunctivitis, corneal lesion, diplopia, dry eyes, eye pain, hyperacusis, otitis media, parosmia, photophobia, taste loss, visual field defect; Rare: blepharitis, chromatopsia, conjunctival edema, deafness, exophthalmos, glaucoma, retinal hemorrhage, subconjunctival hemorrhage, keratitis, labyrinthitis, miosis, papilledema, decreased pupillary reflex, otitis externa, scleritis, uveitis.
+Special senses—Frequent: abnormality of accommodation, abnormal vision; Infrequent: cataract, conjunctivitis, corneal lesion, diplopia, dry eyes, eye pain, hyperacusis, otitis media, parosmia, photophobia, taste loss, visual field defect; Rare: blepharitis, chromatopsia, conjunctival edema, deafness, exophthalmos, angle-closure glaucoma, retinal hemorrhage, subconjunctival hemorrhage, keratitis, labyrinthitis, miosis, papilledema, decreased pupillary reflex, otitis externa, scleritis, uveitis.
 
 Urogenital system—Frequent: metrorrhagia*, prostatic disorder (prostatitis and enlarged prostate)*, vaginitis*; Infrequent: albuminuria, amenorrhea*, cystitis, dysuria, hematuria, leukorrhea*, menorrhagia*, nocturia, bladder pain, breast pain, polyuria, pyuria, urinary incontinence, urinary urgency, vaginal hemorrhage*; Rare: abortion*, anuria, balanitis*, breast discharge, breast engorgement, breast enlargement, endometriosis*, fibrocystic breast, calcium crystalluria, cervicitis*, ovarian cyst*, prolonged erection*, gynecomastia (male)*, hypomenorrhea*, kidney calculus, kidney pain, kidney function abnormal, female lactation*, mastitis, menopause*, oliguria, orchitis*, pyelonephritis, salpingitis*, urolithiasis, uterine hemorrhage*, uterine spasm*, vaginal dryness*.
 
