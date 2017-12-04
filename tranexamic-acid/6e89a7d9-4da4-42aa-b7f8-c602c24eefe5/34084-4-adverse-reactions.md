@@ -10,3 +10,5 @@ To avoid this response, the solution should not be injected more rapidly than 1 
 Thromboembolic events (e.g., deep vein thrombosis, pulmonary embolism, cerebral thrombosis, acute renal cortical necrosis, and central retinal artery and vein obstruction) have been rarely reported in patients receiving tranexamic acid for indications other than hemorrhage prevention in patients with hemophilia.
 Convulsion, chromatopsia, and visual impairment have also been reported.
 However, due to the spontaneous nature of the reporting of medical events and the lack of controls, the actual incidence and causal relationship of drug and event cannot be determined.
+
+Anaphylaxis or anaphylactoid reaction have been reported that are suggestive of a causal relationship (see WARNINGS).
