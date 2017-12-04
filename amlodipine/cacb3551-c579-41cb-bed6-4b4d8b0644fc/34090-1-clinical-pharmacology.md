@@ -77,21 +77,23 @@ In vitro data indicate that amlodipine has no effect on the human plasma protein
 
 Impact of other drugs on amlodipine
 
-Co-administered cimetidine, magnesium-and aluminum hydroxide antacids, sildenafil, and grapefruit juice have no impact on the exposure to amlodipine.
+Coadministered cimetidine, magnesium-and aluminum hydroxide antacids, sildenafil, and grapefruit juice have no impact on the exposure to amlodipine.
 
 CYP3A inhibitors
 
-Co-administration of a 180 mg daily dose of diltiazem with 5 mg amlodipine in elderly hypertensive patients resulted in a 60% increase in amlodipine systemic exposure.
-Erythromycin co-administration in healthy volunteers did not significantly change amlodipine systemic exposure.
+Coadministration of a 180 mg daily dose of diltiazem with 5 mg amlodipine in elderly hypertensive patients resulted in a 60% increase in amlodipine systemic exposure.
+Erythromycin coadministration in healthy volunteers did not significantly change amlodipine systemic exposure.
 However, strong inhibitors of CYP3A (e.g., itraconazole, clarithromycin) may increase the plasma concentrations of amlodipine to a greater extent [see Drug Interactions (7.1)].
 
 Impact of amlodipine on other drugs
 
-Co-administered amlodipine does not affect the exposure to atorvastatin, digoxin, ethanol and the warfarin prothrombin response time.
+Amlodipine is a weak inhibitor of CYP3A and may increase exposure to CYP3A substrates.
+
+Coadministered amlodipine does not affect the exposure to atorvastatin, digoxin, ethanol and the warfarin prothrombin response time.
 
 Simvastatin
 
-Co-administration of multiple doses of 10 mg of amlodipine with 80 mg simvastatin resulted in a 77% increase in exposure to simvastatin compared to simvastatin alone [see Drug Interactions (7.2)].
+Coadministration of multiple doses of 10 mg of amlodipine with 80 mg simvastatin resulted in a 77% increase in exposure to simvastatin compared to simvastatin alone [see Drug Interactions (7.2)].
 
 Cyclosporine
 

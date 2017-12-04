@@ -107,7 +107,7 @@ Only use amlodipine besylate tablets the way your doctor told you to.
 Do not give amlodipine besylate tablets to other people, even if they have the same symptoms you have.
 It may harm them.
 
-You can ask your pharmacist or doctor for information about amlodipine besylate tablets, or you can visit (MedicalAffairs@zydususa.com) Tel.: 1-877-993-8779.
+You can ask your pharmacist or doctor for information about amlodipine besylate tablets, or you can visit MedicalAffairs@zydususa.com or Tel.: 1-877-993-8779.
 
 This product's package insert may have been updated.
 For current package insert, please visit www.zydususa.com.
@@ -118,4 +118,4 @@ Cadila Healthcare Ltd.
 
 India
 
-Rev.: 04/17
+Rev.: 12/17
