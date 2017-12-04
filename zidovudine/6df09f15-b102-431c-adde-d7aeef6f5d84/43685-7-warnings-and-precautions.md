@@ -13,9 +13,9 @@ Frequent blood counts are strongly recommended to detect severe anemia or neutro
 For HIV-1-infected individuals and patients with asymptomatic or early HIV-1 disease, periodic blood counts are recommended.
 If anemia or neutropenia develops, dosage interruption may be needed [see Dosage and Administration (2.4)].
 
-## 5.2 Latex
+## 5.2 Allergic Reaction to Latex
 
-The vial stoppers for RETROVIR injection contain natural rubber latex which may cause allergic reactions in latex-sensitive individuals.
+The vial stoppers for RETROVIR injection contain dry natural rubber (a latex derivative) which may cause allergic reactions in latex-sensitive individuals.
 
 ## 5.3 Myopathy
 
@@ -23,11 +23,10 @@ Myopathy and myositis with pathological changes, similar to that produced by HIV
 
 ## 5.4 Lactic Acidosis and Severe Hepatomegaly with Steatosis
 
-Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with the use of nucleoside analogues, including zidovudine and other antiretrovirals.
+Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with the use of nucleoside analogues, including zidovudine.
 A majority of these cases have been in women.
-Obesity and prolonged exposure to antiretroviral nucleoside analogues may be risk factors.
-Caution should be exercised when administering RETROVIR to any patient with known risk factors for liver disease; however, cases have also been reported in patients with no known risk factors.
-Treatment with RETROVIR should be suspended in any patient who develops clinical or laboratory findings suggestive of lactic acidosis or pronounced hepatotoxicity (which may include hepatomegaly and steatosis even in the absence of marked transaminase elevations).
+Female sex and obesity may be risk factors for the development of lactic acidosis and severe hepatomegaly with steatosis in patients treated with antiretroviral nucleoside analogues.
+Treatment with RETROVIR should be suspended in any patient who develops clinical or laboratory findings suggestive of lactic acidosis or pronounced hepatotoxicity, which may include hepatomegaly and steatosis even in the absence of marked transaminase elevations.
 
 ## 5.5 Use with Interferon- and Ribavirin-Based Regimens in HIV-1/HCV Co-infected Patients
 
@@ -50,8 +49,9 @@ During the initial phase of combination antiretroviral treatment, patients whose
 
 Autoimmune disorders (such as Graves’ disease, polymyositis, and Guillain-Barré syndrome) have also been reported to occur in the setting of immune reconstitution; however, the time to onset is more variable, and can occur many months after initiation of treatment.
 
-## 5.7 Fat Redistribution
+## 5.7 Lipoatrophy
 
-Redistribution/accumulation of body fat, including central obesity, dorsocervical fat enlargement (buffalo hump), peripheral wasting, facial wasting, breast enlargement, and “cushingoid appearance,” have been observed in patients receiving antiretroviral therapy.
-The mechanism and long-term consequences of these events are currently unknown.
-A causal relationship has not been established.
+Treatment with zidovudine has been associated with loss of subcutaneous fat.
+The incidence and severity of lipoatrophy are related to cumulative exposure.
+This fat loss, which is most evident in the face, limbs, and buttocks, may be only partially reversible and improvement may take months to years after switching to a non-zidovudine-containing regimen.
+Patients should be regularly assessed for signs of lipoatrophy during therapy with zidovudine and other zidovudine-containing products, and if feasible, therapy should be switched to an alternative regimen if there is suspicion of lipoatrophy.

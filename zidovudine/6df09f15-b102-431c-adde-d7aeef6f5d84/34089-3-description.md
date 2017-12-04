@@ -18,4 +18,4 @@ RETROVIR injection is a sterile solution for IV infusion only.
 Each mL contains 10 mg zidovudine in water for injection.
 Hydrochloric acid and/or sodium hydroxide may have been added to adjust the pH to approximately 5.5.
 RETROVIR injection contains no preservatives.
-The vial stoppers for RETROVIR injection contain natural rubber latex.
+The vial stoppers for RETROVIR injection contain dry natural rubber latex.

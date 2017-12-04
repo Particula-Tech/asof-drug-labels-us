@@ -2,6 +2,7 @@
 
 RETROVIR 100-mg capsules are supplied as white, opaque cap and body capsules containing 100 mg zidovudine per capsule.
 Each capsule is printed with “Wellcome” and unicorn logo on cap and “Y9C” and “100” on body.
+The vial stoppers for RETROVIR injection contain dry natural rubber latex.
 
 Bottles of 100 (NDC 49702-211-20).
 

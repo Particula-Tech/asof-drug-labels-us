@@ -60,7 +60,7 @@ Pediatrics
 
 The clinical adverse reactions reported among adult recipients of RETROVIR may also occur in pediatric patients.
 
-Trial ACTG 300: Selected clinical adverse reactions and physical findings with a greater than or equal to 5% frequency during therapy with EPIVIR® (lamivudine) oral suspension 4 mg per kg twice daily plus RETROVIR 160 mg per m2 3 times daily compared with didanosine in therapy-naive (less than or equal to 56 days of antiretroviral therapy) pediatric subjects are listed in Table 5.
+Trial ACTG 300: Selected clinical adverse reactions and physical findings with a greater than or equal to 5% frequency during therapy with EPIVIR (lamivudine) oral suspension 4 mg per kg twice daily plus RETROVIR 160 mg per m2 3 times daily compared with didanosine in therapy-naive (less than or equal to 56 days of antiretroviral therapy) pediatric subjects are listed in Table 5.
 
 Table 5.
 Selected Clinical Adverse Reactions and Physical Findings (Greater than or Equal to 5% Frequency) in Pediatric Subjects in Trial ACTG 300

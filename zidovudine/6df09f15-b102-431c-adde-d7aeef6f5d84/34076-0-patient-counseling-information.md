@@ -13,6 +13,10 @@ The frequency and severity of these toxicities are greater in patients with more
 Advise patients that if toxicity develops, they may require transfusions or drug discontinuation.
 Advise patients of the extreme importance of having their blood counts followed closely while on therapy, especially for patients with advanced symptomatic HIV-1 disease [see Boxed Warning, Warnings and Precautions (5.1)].
 
+Allergic Reaction to Latex
+
+Advise latex-sensitive patients that vial stoppers for RETROVIR injection contain dry natural rubber (a derivative of latex) that may cause allergic reactions in individuals sensitive to latex [see Warnings and Precautions (5.2)].
+
 Myopathy
 
 Inform patients that myopathy and myositis with pathological changes, similar to that produced by HIV-1 disease, have been associated with prolonged use of RETROVIR [see Boxed Warning, Warnings and Precautions (5.3)].
@@ -30,9 +34,9 @@ Immune Reconstitution Syndrome
 
 Advise patients to inform their healthcare provider immediately of any signs and symptoms of infection as inflammation from previous infection may occur soon after combination antiretroviral therapy, including when RETROVIR is started [see Warnings and Precautions (5.6)].
 
-Redistribution/Accumulation of Body Fat
+Lipoatrophy
 
-Inform patients that redistribution or accumulation of body fat may occur in patients receiving antiretroviral therapy and that the cause and long-term health effects of these conditions are not known at this time [see Warnings and Precautions (5.7)].
+Advise patients that loss of subcutaneous fat may occur in patients receiving RETROVIR and that they will be regularly assessed during therapy [see Warnings and Precautions (5.7)].
 
 Common Adverse Reactions
 
@@ -61,7 +65,7 @@ Missed Dose
 Instruct patients that if they miss a dose of RETROVIR, to take it as soon as they remember.
 Advise patients not to double their next dose or take more than the prescribed dose [see Dosage and Administration (2)].
 
-EPIVIR and RETROVIR are registered trademarks of the ViiV Healthcare group of companies.
+EPIVIR and RETROVIR are trademarks owned by or licensed to the ViiV Healthcare group of companies.
 
 Manufactured for:
 
@@ -75,7 +79,6 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2017 the ViiV Healthcare group of companies.
-All rights reserved.
+©2017 ViiV Healthcare group of companies or its licensor.
 
-RTR:5PI
+RTR:6PI

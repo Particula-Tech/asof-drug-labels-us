@@ -52,7 +52,7 @@ The zidovudine AUC was similar when a single dose of zidovudine was administered
 
 Specific Populations
 
-Renal Impairment: Zidovudine clearance was decreased resulting in increased zidovudine and GZDV half-life and AUC in subjects with impaired renal function (n = 14) following a single 200-mg oral dose (Table 8).
+Patients with Renal Impairment: Zidovudine clearance was decreased resulting in increased zidovudine and GZDV half-life and AUC in subjects with impaired renal function (n = 14) following a single 200-mg oral dose (Table 8).
 Plasma concentrations of AMT were not determined.
 No dose adjustment is recommended for patients with CrCl greater than or equal to 15 mL per min.
 
@@ -73,7 +73,7 @@ Apparent zidovudine oral clearance was approximately 50% of that reported in sub
 Hemodialysis and peritoneal dialysis appeared to have a negligible effect on the removal of zidovudine, whereas GZDV elimination was enhanced.
 A dosage adjustment is recommended for patients undergoing hemodialysis or peritoneal dialysis [see Dosage and Administration (2.5)].
 
-Hepatic Impairment: Data describing the effect of hepatic impairment on the pharmacokinetics of zidovudine are limited.
+Patients with Hepatic Impairment: Data describing the effect of hepatic impairment on the pharmacokinetics of zidovudine are limited.
 However, zidovudine is eliminated primarily by hepatic metabolism and it appears that zidovudine clearance is decreased and plasma concentrations are increased in subjects with hepatic impairment.
 There are insufficient data to recommend dose adjustment of RETROVIR in patients with impaired hepatic function or liver cirrhosis [see Dosage and Administration (2.6)].
 
@@ -113,7 +113,7 @@ Although data are limited, methadone maintenance therapy in 5 pregnant women did
 
 Geriatric Patients: Zidovudine pharmacokinetics have not been studied in subjects over 65 years of age.
 
-Gender: A pharmacokinetic trial in healthy male (n = 12) and female (n = 12) subjects showed no differences in zidovudine AUC when a single dose of zidovudine was administered as a 300-mg RETROVIR tablet.
+Male and Female Patients: A pharmacokinetic trial in healthy male (n = 12) and female (n = 12) subjects showed no differences in zidovudine AUC when a single dose of zidovudine was administered as a 300-mg RETROVIR tablet.
 
 Drug Interactions
 
