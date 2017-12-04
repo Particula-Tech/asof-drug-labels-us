@@ -2,9 +2,11 @@
 
 ## 16.1 HOW SUPPLIED
 
-Carton containing two Auvi-Q (epinephrine injection, USP) 0.3 mg auto-injectors and a single Auvi-Q Trainer - NDC 60842-023-01
+Carton containing two AUVI-Q (epinephrine injection, USP) 0.3 mg auto-injectors and a single AUVI-Q Trainer - NDC 60842-023-01
 
-Carton containing two Auvi-Q (epinephrine injection, USP) 0.15 mg auto-injectors and a single Auvi-Q Trainer - NDC 60842-022-01
+Carton containing two AUVI-Q (epinephrine injection, USP) 0.15 mg auto-injectors and a single AUVI-Q Trainer - NDC 60842-022-01
+
+Carton containing two AUVI-Q (epinephrine injection, USP) 0.1 mg auto-injectors and a single AUVI-Q Trainer - NDC 60842-021-01
 
 Rx only
 

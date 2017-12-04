@@ -2,28 +2,31 @@
 
 [see FDA-Approved Patient Labeling (Patient Information and Instructions for Use)]
 
-A healthcare provider should review the patient instructions and operation of Auvi-Q, in detail, with the patient or caregiver.
+A healthcare provider should review the patient instructions and operation of AUVI-Q, in detail, with the patient or caregiver.
 
 Epinephrine is essential for the treatment of anaphylaxis.
 Patients who are at risk of or with a history of severe allergic reactions (anaphylaxis) to insect stings or bites, foods, drugs, and other allergens, as well as idiopathic and exercise-induced anaphylaxis, should be carefully instructed about the circumstances under which epinephrine should be used.
 
 Administration and Training
 
-Instruct patients and/or caregivers in the appropriate use of Auvi-Q.
-Auvi-Q should be injected into the middle of the outer thigh (through clothing, if necessary).
+Instruct patients and/or caregivers in the appropriate use of AUVI-Q.
+AUVI-Q should be injected into the middle of the outer thigh (through clothing, if necessary).
 Each device is a single-use injection.
-Advise patients to seek immediate medical care in conjunction with administration of Auvi-Q.
+Advise patients to seek immediate medical care in conjunction with administration of AUVI-Q.
 
-Young children may be uncooperative and kick or move during an injection.
-Instruct caregivers to hold the leg of young children firmly in place and limit movement prior to and during injection.
+Young children or infants may be uncooperative and kick or move during an injection.
+Instruct caregivers to hold the leg of young children or infants firmly in place and limit movement prior to and during injection.
 [see WARNINGS AND PRECAUTIONS (5.2)]
 
-Complete patient information, including dosage, directions for proper administration and precautions can be found inside each Auvi-Q carton.
-Review Auvi-Q’s instructional and safety systems with patients and/or caregivers.
-These systems include the printed label on the surface of Auvi Q showing instructions for use and a diagram depicting the injection process, an automatic needle retraction system, visual prompts, electronic beeps, and voice instructions for use.
-Instruct patients and/or caregivers that the needle will not be visible after the injection.
+Complete patient information, including dosage, directions for proper administration and precautions can be found inside each AUVI-Q carton.
+Review AUVI-Q’s instructional and safety systems with patients and/or caregivers.
+These systems include the printed label on the surface of AUVI-Q showing instructions for use and a diagram depicting the injection process, an automatic needle retraction system, visual prompts, electronic beeps, and voice instructions for use.
+Instruct patients and/or caregivers that the needle will not be visible after the injection and they may not feel the injection when it occurs.
+Instruct patients that AUVI-Q includes a 2-second countdown after it is activated and then the voice instructions will indicate the injection is complete and to seek emergency medical attention.
+Instruct patients that AUVI-Q’s black base will lock up onto the device housing and the lights will blink red after the injection is complete.
+These post-use indicators help patients and/or caregivers know that AUVI-Q has been activated and an epinephrine injection administered.
 
-Instruct patients and/or caregivers to use and practice with the Trainer to familiarize themselves with the use of Auvi-Q in an allergic emergency.
+Instruct patients and/or caregivers to use and practice with the Trainer to familiarize themselves with the use of AUVI-Q in an allergic emergency.
 The Trainer may be used multiple times.
 
 Adverse Reactions
@@ -47,11 +50,11 @@ Advise patients to seek medical care if they develop signs or symptoms of infect
 Storage and Handling
 
 Patients should be instructed to inspect the epinephrine solution visually through the viewing window periodically.
-Auvi-Q should be replaced if the epinephrine solution appears discolored (pinkish color or darker than slightly yellow), cloudy, or contains particles.
+AUVI-Q should be replaced if the epinephrine solution appears discolored (pinkish color or darker than slightly yellow), cloudy, or contains particles.
 Epinephrine is light sensitive and should be stored in the outer case provided to protect it from light.
-Instruct patients that Auvi-Q must be used or properly disposed once the red safety guard is removed [see STORAGE AND HANDLING (16.2)].
+Instruct patients that AUVI-Q must be used or properly disposed once the red safety guard is removed [see STORAGE AND HANDLING (16.2)].
 
-Complete patient information, including dosage, directions for proper administration and precautions can be found inside each Auvi-Q carton.
+Complete patient information, including dosage, directions for proper administration and precautions can be found inside each AUVI-Q carton.
 
 Manufactured for:
 
