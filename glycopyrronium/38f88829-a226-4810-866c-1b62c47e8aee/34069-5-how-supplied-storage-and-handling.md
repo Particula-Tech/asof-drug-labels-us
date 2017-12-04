@@ -6,14 +6,14 @@ ROBINUL (glycopyrrolate) Injection, 0.2 mg/mL, is available in:
 
 Store at controlled room temperature, between 20°C and 25°C (68°F and 77°F).
 
-To report SUSPECTED ADVERSE REACTIONS, contact West-Ward Pharmaceutical Corp. at 1-877-845-0689, or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact West-Ward Pharmaceuticals Corp. at 1-877-845-0689, or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
 For Product Inquiry call 1-877-845-0689.
 
 Manufactured by:
 
-WEST-WARD PHARMACEUTICALS Eatontown, NJ 07724 USA
+WEST-WARD A HIKMA COMPANY Eatontown, NJ 07724 USA
 
-Revised December 2011
+Revised June 2017
 
-462-185-05
+462-185-06

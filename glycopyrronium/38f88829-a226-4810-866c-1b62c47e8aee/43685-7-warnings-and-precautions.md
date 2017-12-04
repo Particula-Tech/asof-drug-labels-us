@@ -7,8 +7,7 @@ There have been rare reports of deaths, primarily in preterm infants, associated
 The amount of benzyl alcohol from medications is usually considered negligible compared to that received in flush solutions containing benzyl alcohol.
 Administration of high dosages of medications containing this preservative must take into account the total amount of benzyl alcohol administered.
 The amount of benzyl alcohol at which toxicity may occur is not known.
-If the patient requires more than the recommended dosages or other medications containing this preservative, the practitioner must consider the daily metabolic load of benzyl alcohol from these combined sources.
-(see PRECAUTIONS, Pediatric Use).
+If the patient requires more than the recommended dosages or other medications containing this preservative, the practitioner must consider the daily metabolic load of benzyl alcohol from these combined sources (see PRECAUTIONS, Pediatric Use).
 
 ROBINUL Injection may produce drowsiness or blurred vision.
 The patient should be cautioned regarding activities requiring mental alertness such as operating a motor vehicle or other machinery or performing hazardous work while taking this drug.
@@ -70,7 +69,7 @@ Published literature suggest the following regarding the use of glycopyrrolate d
 Unlike atropine, glycopyrrolate in normal doses (0.004 mg/kg) does not appear to affect fetal heart rate or fetal heart rate variability to a significant degree.
 Concentrations of glycopyrrolate in umbilical venous and aterial blood and in the amniotic fluid are low after intramuscular administration to parturients.
 Therefore, glycopyrrolate does not appear to penetrate through the placental barrier in significant amounts.
-In reproduction studies in rats, dietary administration of glycopyrrolate resulted in diminished rats of pup survival in a dose-related manner.
+In reproduction studies in rats, dietary administration of glycopyrrolate resulted in diminished rates of pup survival in a dose-related manner.
 
 ## Nursing Mothers
 
@@ -81,8 +80,6 @@ As with other anticholinergics, glycopyrrolate may cause suppression of lactatio
 ## Pediatric Use
 
 Due to its benzyl alcohol content, ROBINUL Injection should not be used in neonates, i.e., patients less than 1 month of age.
-
-Safety and effectiveness in pediatric patients below the age of 16 years have not been established.
 
 Safety and effectiveness in pediatric patients have not been established for the management of peptic ulcer.
 
