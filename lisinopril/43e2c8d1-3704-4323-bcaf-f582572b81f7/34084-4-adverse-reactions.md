@@ -6,9 +6,9 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Hypertension
 
-In clinical trials in patients with hypertension treated with lisinopril tablets, 5.7% of patients on lisinopril tablets discontinued with adverse reactions.
+In clinical trials in patients with hypertension treated with lisinopril, 5.7% of patients on lisinopril discontinued with adverse reactions.
 
-The following adverse reactions (events 2% greater on lisinopril tablets than on placebo) were observed with lisinopril alone: headache (by 3.8%), dizziness (by 3.5%), cough (by 2.5%).
+The following adverse reactions (events 2% greater on lisinopril than on placebo) were observed with lisinopril alone: headache (by 3.8%), dizziness (by 3.5%), cough (by 2.5%).
 
 Heart Failure
 
@@ -17,7 +17,7 @@ In controlled studies in patients with heart failure, therapy was discontinued i
 
 The following adverse reactions (events 2% greater on lisinopril than on placebo) were observed with lisinopril: hypotension (by 3.8%), chest pain (by 2.1%).
 
-In the two-dose ATLAS trial [see Clinical Studies (14.2)] in heart failure patients, withdrawals due to adverse reactions were not different between the low and high groups, either in total number of discontinuation (17 to 18%) or in rare specific reactions (less than 1%).
+In the two-dose ATLAS trial [see Clinical Studies (14.2)] in heart failure patients, withdrawals due to adverse reactions were not different between the low and high groups, either in total number of discontinuation (17 to 18%) or in rare specific reactions (<1%).
 The following adverse reactions, mostly related to ACE inhibition, were reported more commonly in the high dose group:
 
 Table 1 Dose-related Adverse Drug Reactions: ATLAS trial

@@ -7,10 +7,10 @@ Risk Summary
 Lisinopril can cause fetal harm when administered to a pregnant woman.
 Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death.
 Most epidemiologic studies examining fetal abnormalities after exposure to antihypertensive use in the first trimester have not distinguished drugs affecting the renin-angiotensin system from other antihypertensive agents.
-When pregnancy is detected, discontinue lisinopril tablets as soon as possible.
+When pregnancy is detected, discontinue lisinopril as soon as possible.
 
 The estimated background risk of major birth defects and miscarriage for the indicated population(s) are unknown.
-In the general U.S. population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+In the general U.S. population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
 Clinical Considerations
 
@@ -43,7 +43,7 @@ Because of the potential for severe adverse reactions in the breastfed infant, a
 Antihypertensive effects and safety of lisinopril have been established in pediatric patients aged 6 to 16 years [see Dosage and Administration (2.1) and Clinical Studies (14.1)].
 No relevant differences between the adverse reaction profile for pediatric patients and adult patients were identified.
 
-Safety and effectiveness of lisinopril have not been established in pediatric patients under the age 6 or in pediatric patients with glomerular filtration rate less than 30 mL/min/1.73 m2 [see Dosage and Administration (2.1), Clinical Pharmacology (12.3), and Clinical Studies (14.1)].
+Safety and effectiveness of lisinopril have not been established in pediatric patients under the age of 6 or in pediatric patients with glomerular filtration rate < 30 mL/min/1.73 m2 [see Dosage and Administration (2.1), Clinical Pharmacology (12.3), and Clinical Studies (14.1)].
 
 Neonates with a history of in utero exposure to lisinopril
 
@@ -59,9 +59,9 @@ No other differences in safety or effectiveness were observed between elderly an
 
 ## 8.6 Race
 
-ACE inhibitors, including lisinopril, have an effect on blood pressure that is less in Black patients than in non-Blacks.
+ACE inhibitors, including lisinopril, have an effect on blood pressure that is less in black patients than in non blacks.
 
 ## 8.7 Renal Impairment
 
-Dose adjustment of lisinopril is required in patients undergoing hemodialysis or whose creatinine clearance is less than or equal to 30 mL/min.
-No dose adjustment of lisinopril is required in patients with creatinine clearance greater than 30 mL/min [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
+Dose adjustment of lisinopril is required in patients undergoing hemodialysis or whose creatinine clearance is ≤ 30 mL/min.
+No dose adjustment of lisinopril is required in patients with creatinine clearance >30 mL/min [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].

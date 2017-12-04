@@ -2,15 +2,15 @@
 
 ## 5.1 Fetal Toxicity
 
-Lisinopril tablets can cause fetal harm when administered to a pregnant woman.
+Lisinopril can cause fetal harm when administered to a pregnant woman.
 Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death.
 Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations.
 Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death.
-When pregnancy is detected, discontinue lisinopril tablets as soon as possible [see Use in specific Populations (8.1)].
+When pregnancy is detected, discontinue lisinopril as soon as possible [see Use in Specific Populations (8.1)].
 
 ## 5.2 Angioedema and Anaphylactoid Reactions
 
-Patients taking concomitant mTOR inhibitor (e.g. temsirolimus, sirolimus, everolimus) therapy may be at increased risk for angioedema [see Drug Interactions (7.7)].
+Patients taking concomitant mTOR inhibitor (e.g. temsirolimus, sirolimus, everolimus) therapy or a neprilysin inhibitor may be at increased risk for angioedema [see Drug Interactions (7.7, 7.8)].
 
 Angioedema
 
@@ -18,10 +18,10 @@ Head and Neck Angioedema
 
 Angioedema of the face, extremities, lips, tongue, glottis and/or larynx, including some fatal reactions, have occurred in patients treated with angiotensin converting enzyme inhibitors, including lisinopril, at any time during treatment.
 Patients with involvement of the tongue, glottis or larynx are likely to experience airway obstruction, especially those with a history of airway surgery.
-Lisinopril tablets should be promptly discontinued and appropriate therapy and monitoring should be provided until complete and sustained resolution of signs and symptoms of angioedema has occurred.
+Lisinopril should be promptly discontinued and appropriate therapy and monitoring should be provided until complete and sustained resolution of signs and symptoms of angioedema has occurred.
 
 Patients with a history of angioedema unrelated to ACE inhibitor therapy may be at increased risk of angioedema while receiving an ACE inhibitor [see Contraindications (4)].
-ACE inhibitors have been associated with a higher rate of angioedema in Black than in non-Black patients.
+ACE inhibitors have been associated with a higher rate of angioedema in black than in non-black patients.
 
 Intestinal Angioedema
 
@@ -76,3 +76,8 @@ Risk factors for the development of hyperkalemia include renal insufficiency, di
 ACE inhibitors have been associated with a syndrome that starts with cholestatic jaundice or hepatitis and progresses to fulminant hepatic necrosis and sometimes death.
 The mechanism of this syndrome is not understood.
 Patients receiving ACE inhibitors who develop jaundice or marked elevations of hepatic enzymes should discontinue the ACE inhibitor and receive appropriate medical treatment.
+
+## 5.7 Risk of Allergic Reactions due to Tartrazine
+
+Lisinopril tablets, 20 mg, 30 mg, and 40 mg contain FD&C Yellow No. 5 (tartrazine) which may cause allergic-type reactions (including bronchial asthma) in certain susceptible persons.
+Although the overall incidence of FD&C Yellow No. 5 (tartrazine) sensitivity in the general population is low, it is frequently seen in patients who also have aspirin hypersensitivity.
