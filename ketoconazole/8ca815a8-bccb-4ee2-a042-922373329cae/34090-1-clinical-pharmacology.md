@@ -6,7 +6,7 @@
 
 Ketoconazole is a weak dibasic agent and thus requires acidity for dissolution and absorption.
 
-Mean peak plasma concentrations of approximately 3.5 μg/mL are reached within 1 to 2 hours, following oral administration of a single 200 mg dose taken with a meal.
+Mean peak plasma concentrations of approximately 3.5 mcg/mL are reached within 1 to 2 hours, following oral administration of a single 200 mg dose taken with a meal.
 Oral bioavailability is maximal when the tablets are taken with a meal.
 
 Absorption of ketoconazole tablets is reduced in subjects with reduced gastric acidity, such as subjects taking medications known as acid neutralizing medicines (e.g. aluminum hydroxide) and gastric acid secretion suppressors (e.g.
