@@ -10,7 +10,7 @@ If an allergic reaction occurs, the drug should be discontinued and appropriate 
 
 SERIOUS ANAPHYLACTOID REACTIONS REQUIRE IMMEDIATE EMERGENCY TREATMENT WITH EPINEPHRINE, OXYGEN, INTRAVENOUS STEROIDS, AND AIRWAY MANAGEMENT, INCLUDING INTUBATION, SHOULD ALSO BE ADMINISTERED AS INDICATED.
 
-Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including ampicillin, and may range in severity from mild diarrhea to fatal colitis.
+Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including ampicillin for injection, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
 C. difficile produces toxins A and B which contribute to the development of CDAD.
@@ -38,10 +38,10 @@ Prescribing Ampicillin for Injection, USP in the absence of a proven or strongly
 
 ## Information for Patients
 
-Patients should be counseled that antibacterial drugs including Ampicillin for Injection, USP should only be used to treat bacterial infections.
+Patients should be counseled that antibacterial drugs including ampicillin should only be used to treat bacterial infections.
 They do not treat viral infections (e.g., the common cold).
-When Ampicillin for Injection, USP is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
-Skipping doses or not completing the full course of therapy may: (1) decrease the effectiveness of the immediate treatment, and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by Ampicillin for Injection, USP or other antibacterial drugs in the future.
+When ampicillin is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
+Skipping doses or not completing the full course of therapy may: (1) decrease the effectiveness of the immediate treatment, and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by ampicillin or other antibacterial drugs in the future.
 
 Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
 Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
@@ -61,7 +61,7 @@ It is not known whether this potentiation of ampicillin rashes is due to allopur
 
 ## Drug/Laboratory Test Interactions
 
-With high urine concentrations of ampicillin, false-positive glucose reactions may occur if Clinitest, Benedicts Solution, or Fehlings Solution are used.
+With high urine concentrations of ampicillin, false-positive glucose reactions may occur if Clinitest, Benedict’s Solution, or Fehling’s Solution are used.
 Therefore, it is recommended that glucose tests based on enzymatic glucose oxidase reactions (such as Clinistix or Tes-Tape) be used.
 
 ## Carcinogenesis, Mutagenesis, and Impairment of Fertility
@@ -77,7 +77,7 @@ Because animal reproduction studies are not always predictive of human response,
 ## Labor and Delivery
 
 Oral ampicillin-class antibiotics are poorly absorbed during labor.
-Studies in guinea pigs showed that intravenous administration of ampicillin slightly decreased the uterine tone and frequency of contractions, but moderately increased the height and duration of contractions.
+Studies in guinea pig showed that intravenous administration of ampicillin slightly decreased the uterine tone and frequency of contractions, but moderately increased the height and duration of contractions.
 However, it is not known whether use of these drugs in humans during labor or delivery has immediate or delayed adverse effects on the fetus, prolongs the duration of labor, or increases the likelihood that forceps delivery or other obstetrical intervention or resuscitation of the newborn will be necessary.
 
 ## Nursing Mothers
@@ -87,4 +87,4 @@ Therefore, caution should be exercised when ampicillin-class antibiotics are adm
 
 ## Pediatric Use
 
-Guidelines for the administration of these drugs to children are presented in DOSAGE AND ADMINISTRATION.
+Guidelines for the administration of these drugs to children, including neonates are presented in DOSAGE AND ADMINISTRATION section.

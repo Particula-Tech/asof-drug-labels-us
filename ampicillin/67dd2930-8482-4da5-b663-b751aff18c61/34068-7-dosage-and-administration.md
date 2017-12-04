@@ -1,10 +1,9 @@
 # DOSAGE AND ADMINISTRATION
 
 The Single Use ADD-Vantage® vials are for intravenous use only.
-
 Infections of the respiratory tract and soft tissues.
 
-Patients weighing 40 kg (88 lbs) or more: 250 to 500 mg every 6 hours.
+Patients weighing 40 kg (88 lbs) or more: 250 mg to 500 mg every 6 hours.
 
 Patients weighing less than 40 kg (88 lbs): 25 to 50 mg/kg/day in equally divided doses at 6- to 8- hour intervals.
 
@@ -28,7 +27,8 @@ Treatment may be repeated if necessary or extended if required.
 In the treatment of complications of gonorrheal urethritis, such as prostatitis and epididymitis, prolonged and intensive therapy is recommended.
 Cases of gonorrhea with a suspected primary lesion of syphilis should have darkfield examinations before receiving treatment.
 In all other cases where concomitant syphilis is suspected, monthly serological tests should be made for a minimum of four months.
-The doses for the preceding infections may be given by intravenous route.
+
+The doses for the preceding infections may be given by either the intramuscular or intravenous route.
 A change to oral ampicillin may be made when appropriate.
 
 ## Bacterial Meningitis
@@ -37,10 +37,22 @@ Adults and children – 150 to 200 mg/kg/day in equally divided doses every 3 to
 (Treatment may be initiated with intravenous drip therapy and continued with intramuscular injections.)
 The doses for other infections may be given by either the intravenous or intramuscular route.
 
+Neonates (less than or equal to 28 days of postnatal age) -Dosage should be based on Gestational age and Postnatal age according to Table 3.
+
+TABLE 3 Dosage in Neonates (less than or eqnal to 28 days of postnatal age) for Bacterial Meningitis and Septicemia:
+
+| Gestational age (weeks) | Postnatal age (davs) | Dosage |
+| --- | --- | --- |
+| less than or equal to 34 | less than or equal to 7 | 100 mg/kg/day in equally divided doses every 12 hours |
+| less than or equal to 34 | greater than or equal to 8 and less than 28 | 150 mg/kg/day in equally divided doses every 12 hours |
+| greater than 34 | less than or equal to 28 | 150 mg/kg/day in equally divided doses every 8 hours |
+
 ## Septicemia
 
 Adults and children – 150 to 200 mg/kg/day.
 Start with intravenous administration for at least three days and continue with the intramuscular route every 3 to 4 hours.
+
+Neonates (less than or equal to 28 days of postnatal age) - Dosage should be based on Gestational age and Postnatal age according to Table 3 (above).
 
 Treatment of all infections should be continued for a minimum of 48 to 72 hours beyond the time that the patient becomes asymptomatic or evidence of bacterial eradication has been obtained.
 A minimum of 10-days treatment is recommended for any infection caused by Group A beta-hemolytic streptococci to help prevent the occurrence of acute rheumatic fever or acute glomerulonephritis.

@@ -8,14 +8,4 @@ NDC 0781-3412-92 1 gram ADD-Vantage® Vial, packed in 10s
 
 NDC 0781-3413-92 2 grams ADD-Vantage® Vial, packed in 10s
 
-Store at 20°-25°C (68°-77°F) [see USP Controlled Room Temperature].
-
-ADDVantage® is a trademark of Hospira Inc.
-
-06-2011M
-
-46066288
-
-Manufactured in Austria by Sandoz GmbH
-
-for Sandoz Inc., Princeton, NJ 08540
+Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
