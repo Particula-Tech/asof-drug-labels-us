@@ -2,50 +2,48 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide and Instructions for Use).
 
-Adverse Reactions
+Advise patients to:
 
-Advise patients to report to their healthcare provider if they experience any signs or symptoms consistent with:
+Acute Interstitial Nephritis To call their healthcare provider if they experience signs and/or symptoms associated with acute interstitial nephritis [see Warnings and Precautions (5.2)].
 
-- Hypersensitivity Reactions [see Contraindications (4)]
-- Acute Interstitial Nephritis [see Warnings and Precautions (5.2)]
-- Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.3)]
-- Bone Fracture [see Warnings and Precautions (5.4)]
-- Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.5)]
-- Cyanocobalamin (Vitamin B-12) Deficiency [see Warnings and Precautions (5.6)]
-- Hypomagnesemia [see Warnings and Precautions (5.7)]
+Clostridium difficile-Associated Diarrhea
+
+To immediately call their healthcare provider if they experience diarrhea that does not improve [see Warnings and Precautions (5.3)].
+
+Bone Fracture
+
+To report any fractures, especially of the hip, wrist or spine, to their healthcare provider [see Warnings and Precautions (5.4)].
+
+Cutaneous and Systemic Lupus Erythematosus
+
+To immediately call their healthcare provider for any new or worsening of symptoms associated with cutaneous or systemic lupus erythematosus [see Warnings and Precautions (5.5)].
+
+Cyanocobalamin (Vitamin B12) Deficiency
+
+To report any clinical symptoms that may be associated with cyanocobalamin deficiency to their healthcare provider, if they have been receiving lansoprazole delayed-release capsules for longer than three years [see Warnings and Precautions (5.6)].
+
+Hypomagnesemia
+
+To report any clinical symptoms that may be associated with hypomagnesemia to their healthcare provider, if they have been receiving lansoprazole delayed-release capsules for at least three months [see Warnings and Precautions (5.7)].
+
+Drug Interactions
+
+Advise patients to report to their healthcare provider if they are taking rilpivirine-containing products [see Contraindications (4)] or high-dose methotrexate [see Warnings and Precautions (5.9)].
 
 Administration
 
-Lansoprazole delayed-release capsules are available as a capsule, and is available in 15 mg and 30 mg strengths.
-Directions for use specific to the route and available methods of administration for each of these dosage forms is presented below [see Dosage and Administration (2.3)].
+- Missed doses: If a dose is missed, administer as soon as possible.
+  However, if the next scheduled dose is due, do not take the missed dose, and take the next dose on time.
+  Do not take two doses at one time to make up for a missed dose.
+  - Lansoprazole delayed-release capsules should be taken before eating.
+  - Do not crush or chew lansoprazole delayed-release capsules.
+  - Take lansoprazole delayed-release capsules at least 30 minutes prior to sucralfate.
 
-- Lansoprazole delayed-release capsules should be taken before eating.
-- Lansoprazole delayed-release capsules products SHOULD NOT BE CRUSHED OR CHEWED.
+Lansoprazole delayed-release capsules
 
-Administration Options
-
-1.
-Lansoprazole Delayed-Release Capsules – Oral Administration
-
-- Lansoprazole delayed-release capsules should be swallowed whole.
-- Alternatively, for patients who have difficulty swallowing capsules, Lansoprazole Delayed-Release Capsules can be opened and administered as follows:
-  - Open capsule.
-  - Sprinkle intact granules on one tablespoon of either applesauce, ENSUREpudding, Cottage cheese, yogurt or strained pears.
-  - Swallow immediately.
-- Lansoprazole Delayed-Release capsules may also be emptied into a small volume of either apple juice, orange juice or tomato juice and administered as follows:
-  - Open capsule.
-  - Sprinkle intact granules into a small volume of either apple juice, orange juice or tomato juice (60 mL – approximately 2 ounces).
-  - Mix briefly.
-  - Swallow immediately.
-  - To ensure complete delivery of the dose, the glass should be rinsed with two or more volumes of juice and the contents swallowed immediately.
-
-Lansoprazole Delayed-Release Capsules – Nasogastric Tube (≥16 French) Administration
-
-- For patients who have a nasogastric tube in place, Lansoprazole Delayed-Release Capsules can be administered as follows:
-  - Open capsule.
-  - Mix intact granules into 40 mL of apple juice.
-    DO NOT USE OTHER LIQUIDS.
-  - Inject through the nasogastric tube into the stomach.
-  - Flush with additional apple juice to clear the tube.
-
-USE IN OTHER FOODS AND LIQUIDS HAS NOT BEEN STUDIED CLINICALLY AND IS THEREFORE NOT RECOMMENDED.
+- Swallow whole; do not chew.
+- For patients who have difficulty swallowing capsules:
+  - Lansoprazole delayed-release capsules can be opened and sprinkled on applesauce, ENSURE pudding, cottage cheese, yogurt or strained pears.
+  - Lansoprazole delayed-release capsules may also be emptied into a small volume of either apple juice, orange juice or tomato juice
+  - Alternatively, lansoprazole delayed-release capsules can be administered with apple juice via nasogastric tube
+  - See the Instructions for Use for a description of all preparation and administration instructions

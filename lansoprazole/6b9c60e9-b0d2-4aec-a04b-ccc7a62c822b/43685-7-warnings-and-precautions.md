@@ -10,15 +10,15 @@ In older patients, also consider an endoscopy.
 
 Acute interstitial nephritis has been observed in patients taking PPIs including lansoprazole.
 Acute interstitial nephritis may occur at any point during PPI therapy and is generally attributed to an idiopathic hypersensitivity reaction.
-Discontinue Lansoprazole delayed-release capsules if acute interstitial nephritis develops [see Contraindications (4)].
+Discontinue lansoprazole delayed-release capsules if acute interstitial nephritis develops [see Contraindications (4)].
 
-## 5.3 Clostridium difficile- Associated Diarrhea
+## 5.3 Clostridium difficile-Associated Diarrhea
 
-Published observational studies suggest that proton pump inhibitor (PPI) therapy like lansoprazole may be associated with an increased risk of Clostridium difficile associated diarrhea (CDAD), especially in hospitalized patients.
+Published observational studies suggest that proton pump inhibitor (PPI) therapy like lansoprazole may be associated with an increased risk of Clostridium difficile-associated diarrhea (CDAD), especially in hospitalized patients.
 This diagnosis should be considered for diarrhea that does not improve [see Adverse Reactions (6.2)].
 Patients should use the lowest dose and shortest duration of PPI therapy appropriate to the condition being treated.
 CDAD has been reported with use of nearly all antibacterial agents.
-For more information specific to antibacterial agents (clarithromycin and amoxicillin) indicated for use in combination with lansoprazole, refer to WARNINGS and PRECAUTIONS sections of those prescribing information.
+For more information specific to antibacterial agents (clarithromycin and amoxicillin) indicated for use in combination with lansoprazole, refer to Warnings and Precautions sections of those prescribing information.
 
 ## 5.4 Bone Fracture
 
@@ -43,11 +43,11 @@ If signs or symptoms consistent with CLE or SLE are noted in patients receiving 
 Most patients improve with discontinuation of the PPI alone in four to 12 weeks.
 Serological testing (e.g., ANA) may be positive and elevated serological test results may take longer to resolve than clinical manifestations.
 
-## 5.6 Cyanocobalamin (Vitamin B-12) Deficiency
+## 5.6 Cyanocobalamin (Vitamin B12) Deficiency
 
-Daily treatment with any acid-suppressing medications over a long period of time (e.g., longer than 3 years) may lead to malabsorption of cyanocobalamin (vitamin B-12) caused by hypo- or achlorhydria.
+Daily treatment with any acid-suppressing medications over a long period of time (e.g., longer than 3 years) may lead to malabsorption of cyanocobalamin (vitamin B12) caused by hypo- or achlorhydria.
 Rare reports of cyanocobalamin deficiency occurring with acid-suppressing therapy have been reported in the literature.
-This diagnosis should be considered if clinical symptoms consistent with cyanocobalamin deficiency are observed.
+This diagnosis should be considered if clinical symptoms consistent with cyanocobalamin deficiency are observed in patients treated with lansoprazole.
 
 ## 5.7 Hypomagnesemia
 
@@ -57,7 +57,14 @@ In most patients, treatment of hypomagnesemia required magnesium replacement and
 
 For patients expected to be on prolonged treatment or who take PPIs with medications such as digoxin or drugs that may cause hypomagnesemia (e.g., diuretics), health care professionals may consider monitoring magnesium levels prior to initiation of PPI treatment and periodically [see Adverse Reactions (6.2)].
 
-## 5.8 Concomitant Use of Lansoprazole with Methotrexate
+## 5.8 Interactions with Investigations for Neuroendocrine Tumors
 
-Literature suggests that concomitant use of PPIs with methotrexate (primarily at high dose; see methotrexate prescribing information) may elevate and prolong serum levels of methotrexate and/or its metabolite, possibly leading to methotrexate toxicities.
-In high-dose methotrexate administration, a temporary withdrawal of the PPI may be considered in some patients [see Drug Interactions (7.6) and Clinical Pharmacology (12.3)].
+Serum chromogranin A (CgA) levels increase secondary to drug-induced decreases in gastric acidity.
+The increased CgA level may cause false positive results in diagnostic investigations for neuroendocrine tumors.
+Healthcare providers should temporarily stop lansoprazole treatment at least 14 days before assessing CgA levels and consider repeating the test if initial CgA levels are high.
+If serial tests are performed (e.g., for monitoring), the same commercial laboratory should be used for testing, as reference ranges between tests may vary [see Drug Interactions (7), Clinical Pharmacology (12.2)].
+
+## 5.9 Interaction with Methotrexate
+
+Literature suggests that concomitant use of PPIs with methotrexate (primarily at high dose) may elevate and prolong serum levels of methotrexate and/or its metabolite, possibly leading to methotrexate toxicities.
+In high-dose methotrexate administration, a temporary withdrawal of the PPI may be considered in some patients [see Drug Interactions (7) and Clinical Pharmacology (12.3)].
