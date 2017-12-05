@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "ANDA207743"
+  ],
+  "inn": "labetalol",
+  "labeler": "Zydus Pharmaceuticals (USA) Inc.",
+  "package_ndcs": [
+    "68382-798-01",
+    "68382-798-05",
+    "68382-798-06",
+    "68382-798-16",
+    "68382-799-01",
+    "68382-799-05",
+    "68382-799-06",
+    "68382-799-16",
+    "68382-800-01",
+    "68382-800-05",
+    "68382-800-06",
+    "68382-800-16"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "labetalol hydrochloride",
+      "name": "Labetalol Hydrochloride"
+    }
+  ],
+  "setid": "5942a5a8-c3c1-4ecb-921e-9bc92393bdf8",
+  "source": "dailymed"
+}
