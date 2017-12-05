@@ -7,9 +7,12 @@ Store at room temperature, preferably below 86°F (30°C).
 
 NDC number: 58914-012-10.
 
-BENTYL Tablets 20 mg compressed, light blue, round tablets, debossed BENTYL 20, supplied in bottles of 100.
+BENTYL Tablets
+
+20 mg compressed, light blue, round tablets, debossed BENTYL 20, supplied in bottles of 100.
 To prevent fading, avoid exposure to direct sunlight.
 Store at room temperature, preferably below 86°F (30°C).
+
 NDC 58914-013-10.
 
 BENTYL Injection

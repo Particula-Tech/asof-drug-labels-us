@@ -20,7 +20,7 @@ Because antacids may interfere with the absorption of anticholinergic agents inc
 
 ## 7.5 Effect on Absorption of Other Drugs
 
-Anticholinergic agents may affect gastrointestinal absorption of various drugs by affecting gastrointestinal motility, such as slowly dissolving dosage forms of digoxin; increased serum digoxin concentration may result.
+Anticholinergic agents may affect gastrointestinal absorption of various drugs by affecting on gastrointestinal motility, such as slowly dissolving dosage forms of digoxin; increased serum digoxin concentration may result.
 
 ## 7.6 Effect on Gastric Acid Secretion
 

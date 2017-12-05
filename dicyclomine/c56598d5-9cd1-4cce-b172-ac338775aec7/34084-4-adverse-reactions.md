@@ -1,10 +1,10 @@
 # 6 ADVERSE REACTIONS
 
-The pattern of adverse effects seen with dicyclomine is mostly related to its pharmacological actions at muscarinic receptors [see Clinical Pharmacology (12)].
+The pattern of adverse effects seen with dicylomine is mostly related to its pharmacological actions at muscarinic receptors [see Clinical Pharmacology (12)].
 They are a consequence of the inhibitory effect on muscarinic receptors within the autonomic nervous system.
 These effects are dose-related and are usually reversible when treatment is discontinued.
 
-The most serious adverse reactions reported with dicyclomine hydrochloride include cardiovascular and central nervous system symptoms [see Warnings and Precautions (5.2,5.3)].
+The most serious adverse reactions reported with dicyclomine hydrochloride include cardiovascular and central nervous system symptoms [see Warnings and Precautions (5.2, 5.3)].
 
 ## 6.1 Clinical Trials Experience
 
@@ -48,19 +48,19 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - Respiratory, thoracic and mediastinal disorders: dyspnoea, nasal congestion
 - Skin and subcutaneous tissue disorder: dermatitis allergic, erythema, rash
 
-Cases of thrombosis, thrombophlebitis and injection site reactions such as local pain, edema, skin color change and even reflex sympathetic dystrophy syndrome have been reported following inadverent IV injection of BENTYL.
+Cases of thrombosis, thrombophlebitis and injection site reactions such as local pain, edema, skin color change and even reflex sympathetic dystrophy syndrome have been reported following Inadvertent IV injection of BENTYL.
 
 ## 6.3 Adverse Reactions Reported with Similar Drugs with Anticholinergic/Antispasmodic Action
 
-Gastrointestinal: anorexia,
+Gastrointestinal: anorexia
 
 Central Nervous System: tingling, numbness, dyskinesia, speech disturbance, insomnia
 
-Peripheral Nervous System: With overdosage, a curare-like action may occur (i.e., neuromuscular blockade leading to muscular weakness and possible paralysis).
+Peripheral Nervous System: With overdosage, a curare-like action may occur (i.e., neuromuscular blockade leading to muscular weakness and possible paralysis)
 
 Ophthalmologic: diplopia, increased ocular tension
 
-Dermatologic/Allergic: urticaria, itching, and other dermal manifestations;
+Dermatologic/Allergic: urticaria, itching, and other dermal manifestations
 
 Genitourinary: urinary hesitancy, urinary retention in patients with prostatic hypertrophy
 

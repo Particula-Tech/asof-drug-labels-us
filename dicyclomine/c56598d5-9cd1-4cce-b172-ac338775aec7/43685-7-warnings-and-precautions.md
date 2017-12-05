@@ -4,11 +4,13 @@
 
 BENTYL solution is for intramuscular administration only.
 Do not administer by any other route.
-Inadvertent intravenous administration may result in thrombosis, thrombophlebitis and injection site reactions such as pain, edema, skin color change, and reflex sympathetic dystrophy syndrome [see Adverse Reactions (6.2)].
+Inadvertent intravenous administration may result in thrombosis, thrombophlebitis, and injection site reactions such as pain, edema, skin color change, and reflex sympathetic dystrophy syndrome [see Adverse Reactions (6.2)].
 
 ## 5.2 Cardiovascular Conditions
 
-Dicyclomine hydrochloride needs to be used with caution in conditions characterized by tachyarrhythmia such as thyrotoxicosis, congestive heart failure and in cardiac surgery, where they may further accelerate the heart rate.
+Dicyclomine hydrochloride needs to be used with caution in conditions characterized by tachyarrhythmia such as thyrotoxicosis,
+
+congestive heart failure and in cardiac surgery, where they may further accelerate the heart rate.
 Investigate any tachycardia before administration of dicyclomine hydrochloride.
 Care is required in patients with coronary heart disease, as ischemia and infarction may be worsened, and in patients with hypertension [see Adverse Reactions (6.3)].
 
@@ -33,7 +35,7 @@ The patient should be warned not to engage in activities requiring mental alertn
 ## 5.4 Myasthenia Gravis
 
 With overdosage, a curare-like action may occur (i.e., neuromuscular blockade leading to muscular weakness and possible paralysis).
-It should not be given to patients with myasthenia gravis except to reduce adverse muscarinic effects of an anticholinesterase [see Contraindications (4)]
+It should not be given to patients with myasthenia gravis except to reduce adverse muscarinic effects of an anticholinesterase [see Contraindications (4)].
 
 ## 5.5 Intestinal Obstruction
 
@@ -55,7 +57,7 @@ BENTYL is contraindicated in patients with severe ulcerative colitis [see Contra
 
 ## 5.8 Prostatic Hypertrophy
 
-BENTYL should be used with caution in patients with known or suspected prostatic enlargement, in whom prostatic enlargement may lead to urinary retention [see Adverse Reactions (6.3)]
+BENTYL should be used with caution in patients with known or suspected prostatic enlargement, in whom prostatic enlargement may lead to urinary retention [see Adverse Reactions (6.3)].
 
 ## 5.9 Hepatic and Renal Disease
 
