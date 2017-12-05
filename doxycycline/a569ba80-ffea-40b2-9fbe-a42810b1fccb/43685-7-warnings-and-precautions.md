@@ -1,9 +1,9 @@
 # WARNINGS
 
-THE USE OF DRUGS OF THE TETRACYCLINE CLASS DURING TOOTH DEVELOPMENT (LAST HALF OF PREGNANCY, INFANCY AND CHILDHOOD TO THE AGE OF 8 YEARS) MAY CAUSE PERMANENT DISCOLORATION OF THE TEETH (YELLOW-GRAY-BROWN).
+The use of drugs of the tetracycline class during tooth development (last half of pregnancy, infancy and childhood to the age of 8 years) may cause permanent discoloration of the teeth (yellow-gray-brown).
 This adverse reaction is more common during long-term use of the drugs, but it has been observed following repeated short-term courses.
 Enamel hypoplasia has also been reported.
-TETRACYCLINE DRUGS, THEREFORE, SHOULD NOT BE USED IN THIS AGE GROUP, EXCEPT FOR ANTHRAX, INCLUDING INHALATIONAL ANTHRAX (POST-EXPOSURE), UNLESS OTHER DRUGS ARE NOT LIKELY TO BE EFFECTIVE OR ARE CONTRAINDICATED.
+Use doxycycline in pediatric patients 8 years of age or less only when the potential benefits are expected to outweigh the risks in severe or life-threatening conditions (e.g., anthrax, Rocky Mountain spotted fever), particularly when there are no alternative therapies.
 
 Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including doxycycline, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
@@ -16,6 +16,10 @@ Careful medical history is necessary since CDAD has been reported to occur over 
 
 If CDAD is suspected or confirmed, ongoing use of antibacterial drugs not directed against C. difficile may need to be discontinued.
 Appropriate fluid and electrolyte management, protein supplementation, antibacterial treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
+
+Severe skin reactions, such as exfoliative dermatitis, erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, and drug reaction with eosinophilia and systemic symptoms (DRESS) have been reported in patients receiving doxycycline.
+(See ADVERSE REACTIONS.)
+If severe skin reactions occur, doxycycline should be discontinued immediately and appropriate therapy should be instituted.
 
 Intracranial hypertension (IH, pseudotumor cerebri) has been associated with the use of tetracyclines including doxycycline.
 Clinical manifestations of IH include headache, blurred vision, diplopia, and vision loss; papilledema can be found on fundoscopy.
@@ -56,7 +60,7 @@ Subjects completing this prophylactic regimen may still transmit the infection t
 
 Prescribing doxycycline hyclate in the absence of proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 
-## Information for Patients
+## Information For Patients
 
 Patients taking doxycycline for malaria prophylaxis should be advised:
 
@@ -107,7 +111,7 @@ Concurrent use of tetracycline may render oral contraceptives less effective.
 
 False elevations of urinary catecholamine levels may occur due to interference with the fluorescence test.
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
+## Carcinogenesis, Mutagenesis, Impairment Of Fertility
 
 Long-term studies in animals to evaluate carcinogenic potential of doxycycline have not been conducted.
 However, there has been evidence of oncogenic activity in rats in studies with the related antibacterial drugs, oxytetracycline (adrenal and pituitary tumors), and minocycline (thyroid tumors).
@@ -120,18 +124,16 @@ Effect on male fertility has not been studied.
 ## Pregnancy:
 
 Teratogenic Effects.
-Pregnancy Category D:
 
 There are no adequate and well-controlled studies on the use of doxycycline in pregnant women.
 The vast majority of reported experience with doxycycline during human pregnancy is short-term, first trimester exposure.
 There are no human data available to assess the effects of long-term therapy of doxycycline in pregnant women, such as that proposed for treatment of anthrax exposure.
-An expert review of published data on experiences with doxycycline use during pregnancy by TERIS – the Teratogen Information System – concluded that therapeutic doses during pregnancy are unlikely to pose a substantial teratogenic risk (the quantity and quality of data were assessed as limited to fair), but the data are insufficient to state that there is no riska.
-A case-control study (18,515 mothers of infants with congenital anomalies and 32,804 mothers of infants with no congenital anomalies) shows a weak but marginally statistically significant association with total malformations and use of doxycycline anytime during pregnancy.
-Sixty-three (0.19%) of the controls and fifty-six (0.3%) of the cases were treated with doxycycline.
-This association was not seen when the analysis was confined to maternal treatment during the period of organogenesis (i.e., in the second and third months of gestation) with the exception of a marginal relationship with neural tube defect based on only two exposed casesb.
+An expert review of published data on experiences with doxycycline use during pregnancy by TERIS – the Teratogen Information System – concluded that therapeutic doses during pregnancy are unlikely to pose a substantial teratogenic risk (the quantity and quality of data were assessed as limited to fair), but the data are insufficient to state that there is no risk.8 A case-control study (18,515 mothers of infants with congenital anomalies and 32,804 mothers of infants with no congenital anomalies) shows a weak but marginally statistically significant association with total malformations and use of doxycycline anytime during pregnancy.
+Sixty-three (0.19%) of the controls and fifty-six (0.30%) of the cases were treated with doxycycline.
+This association was not seen when the analysis was confined to maternal treatment during the period of organogenesis (i.e., in the second and third months of gestation) with the exception of a marginal relationship with neural tube defect based on only two exposed cases.9
 
 A small prospective study of 81 pregnancies describes 43 pregnant women treated for 10 days with doxycycline during early first trimester.
-All mothers reported their exposed infants were normal at 1 year of agec.
+All mothers reported their exposed infants were normal at 1 year of age.10
 
 Nonteratogenic Effects: (See WARNINGS.)
 
@@ -142,10 +144,10 @@ The effect of tetracyclines on labor and delivery is unknown.
 ## Nursing Mothers
 
 Tetracyclines are excreted in human milk; however, the extent of absorption of tetracyclines, including doxycycline, by the breastfed infant is not known.
-Short-term use by lactating women is not necessarily contraindicated; however, the effects of prolonged exposure to doxycycline in breast milk are unknownd.
-Because of the potential for serious adverse reactions in nursing infants from doxycycline, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+Short-term use by lactating women is not necessarily contraindicated; however, the effects of prolonged exposure to doxycycline in breast milk are unknown.11 Because of the potential for serious adverse reactions in nursing infants from doxycycline, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 (See WARNINGS.)
 
 ## Pediatric Use
 
-See WARNINGS and DOSAGE AND ADMINISTRATION.
+Because of the effects of drugs of the tetracycline-class on tooth development and growth, use doxycycline in pediatric patients 8 years of age or less only when the potential benefits are expected to outweigh the risks in severe or life-threatening conditions (e.g., anthrax, Rocky Mountain spotted fever), particularly when there are no alternative therapies.
+(See WARNINGS and DOSAGE AND ADMINISTRATION.)

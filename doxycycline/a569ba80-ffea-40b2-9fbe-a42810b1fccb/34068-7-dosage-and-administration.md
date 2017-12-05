@@ -1,14 +1,21 @@
 # DOSAGE AND ADMINISTRATION
 
-THE USUAL DOSAGE AND FREQUENCY OF ADMINISTRATION OF DOXYCYCLINE DIFFERS FROM THAT OF THE OTHER TETRACYCLINES.
-EXCEEDING THE RECOMMENDED DOSAGE MAY RESULT IN AN INCREASED INCIDENCE OF SIDE EFFECTS.
-Adults: The usual dose of oral doxycycline is 200 mg on the first day of treatment (administered 100 mg every 12 hours) followed by a maintenance dose of 100 mg/day.
+The usual dosage and frequency of administration of doxycycline differs from that of the other tetracyclines.
+Exceeding the recommended dosage may result in an increased incidence of side effects.
 
+Adults:
+
+The usual dose of oral doxycycline is 200 mg on the first day of treatment (administered 100 mg every 12 hours) followed by a maintenance dose of 100 mg/day.
 In the management of more severe infections (particularly chronic infections of the urinary tract), 100 mg every 12 hours is recommended.
 
-For children above eight years of age: The recommended dosage schedule for children weighing 100 pounds or less is 2 mg/lb of body weight divided into two doses on the first day of treatment, followed by 1 mg/lb of body weight given as a single daily dose or divided into two doses, on subsequent days.
-For more severe infections, up to 2 mg/lb of body weight may be used.
-For children over 100 lb the usual adult dose should be used.
+Pediatric Patients:
+
+For all pediatric patients weighing less than 45 kg with severe or life-threatening infections (e.g., anthrax, Rocky Mountain spotted fever), the recommended dosage is 2.2 mg/kg of body weight administered every 12 hours.
+Children weighing 45 kg or more should receive the adult dose.
+(See WARNINGS and PRECAUTIONS.)
+
+For pediatric patients with less severe disease (greater than 8 years of age and weighing less than 45 kg), the recommended dosage schedule is 4.4 mg/kg of body weight divided into two doses on the first day of treatment, followed by a maintenance dose of 2.2 mg/kg of body weight (given as a single daily dose or divided into twice daily doses).
+For pediatric patients weighing over 45 kg, the usual adult dose should be used.
 
 The therapeutic antibacterial serum activity will usually persist for 24 hours following recommended dosage.
 
@@ -26,11 +33,11 @@ Uncomplicated gonococcal infections in adults (except anorectal infections in me
 As an alternate single visit dose, administer 300 mg stat followed in one hour by a second 300 mg dose.
 The dose may be administered with food, including milk or carbonated beverage, as required.
 
-Uncomplicated urethral, endocervical, or rectal infection in adults caused by Chlamydia trachomatis: 100 mg, by mouth, twice a day for 7 days.
+Uncomplicated urethral, endocervical, or rectal infection in adults caused by Chlamydia trachomatis: 100 mg, by mouth twice a day for 7 days.
 
-Nongonococcal urethritis (NGU) caused by C. trachomatis or U. urealyticum: 100 mg, by mouth, twice a day for 7 days.
+Nongonococcal urethritis (NGU) caused by C. trachomatis or U. urealyticum: 100 mg by mouth, twice a day for 7 days.
 
-Syphilis–early: Patients who are allergic to penicillin should be treated with doxycycline 100 mg, by mouth, twice a day for 2 weeks.
+Syphilis – early: Patients who are allergic to penicillin should be treated with doxycycline 100 mg, by mouth, twice a day for 2 weeks.
 
 Syphilis of more than one year’s duration: Patients who are allergic to penicillin should be treated with doxycycline 100 mg, by mouth, twice a day for 4 weeks.
 
@@ -45,5 +52,6 @@ Prophylaxis should begin 1 to 2 days before travel to the malarious area.
 Prophylaxis should be continued daily during travel in the malarious area and for 4 weeks after the traveler leaves the malarious area.
 
 Inhalational anthrax (post-exposure): ADULTS: 100 mg of doxycycline, by mouth, twice a day for 60 days.
-CHILDREN: weighing less than 100 lb (45 kg); 1 mg/lb (2.2 mg/kg) of body weight, by mouth, twice a day for 60 days.
-Children weighing 100 lb or more should receive the adult dose.
+
+CHILDREN: weighing less than 45 kg; 2.2 mg/kg of body weight by mouth, twice a day for 60 days.
+Children weighing 45 kg or more should receive the adult dose.
