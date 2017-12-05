@@ -3,7 +3,8 @@
 - 1.Smith RB, Phillips JP: Evaluation of CLEOCIN HCl and CLEOCIN Phosphate in an Aged Population.
   Upjohn TR 8147-82-9122-021, December 1982.
 - 2.CLSI.
-  Performance Standards for Antimicrobial Susceptibility Testing: 26th ed CLSI supplement M100S.
+  Performance Standards for Antimicrobial Susceptibility Testing: 26th ed.
+  CLSI supplement M100S.
   Wayne, PA: Clinical and Laboratory Standards Institute; 2016.
 - 3.CLSI.
   Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria that Grow Aerobically; Approved Standard - Tenth Edition.

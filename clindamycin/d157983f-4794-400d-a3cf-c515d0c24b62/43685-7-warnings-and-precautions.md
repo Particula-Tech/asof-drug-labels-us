@@ -19,7 +19,7 @@ Appropriate fluid and electrolyte management, protein supplementation, antibioti
 
 Anaphylactic shock and anaphylactic reactions have been reported (see ADVERSE REACTIONS).
 
-Severe hypersensitivity reactions, including severe skin reactions such as toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms (DRESS), and Stevens-Johnson syndrome (SJS), some with fatal outcome, have been reported.(see ADVERSE REACTIONS).
+Severe hypersensitivity reactions, including severe skin reactions such as toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms (DRESS), and Stevens-Johnson syndrome (SJS), some with fatal outcome, have been reported (see ADVERSE REACTIONS).
 
 In case of such an anaphylactic or severe hypersensitivity reaction, discontinue treatment permanently and institute appropriate therapy.
 
@@ -51,7 +51,7 @@ CLEOCIN PHOSPHATE should be prescribed with caution in atopic individuals.
 
 Certain infections may require incision and drainage or other indicated surgical procedures in addition to antibiotic therapy.
 
-The use of CLEOCIN PHOSPHATE may result in overgrowth of nonsusceptible organisms, particularly yeasts.
+The use of CLEOCIN PHOSPHATE may result in overgrowth of nonsusceptible organisms-particularly yeasts.
 Should superinfections occur, appropriate measures should be taken as indicated by the clinical situation.
 
 CLEOCIN PHOSPHATE should not be injected intravenously undiluted as a bolus, but should be infused over at least 10–60 minutes as directed in the DOSAGE AND ADMINISTRATION section.
@@ -90,9 +90,6 @@ In the presence of strong CYP3A4 inhibitors, monitor for adverse reactions.
 In the presence of strong CYP3A4 inducers such as rifampicin, monitor for loss of effectiveness.
 
 In vitro studies indicate that clindamycin does not inhibit CYP1A2, CYP2C9, CYP2C19, CYP2E1 or CYP2D6 and only moderately inhibits CYP3A4.
-
-Antagonism has been demonstrated between clindamycin and erythromycin in vitro.
-Because of possible clinical significance, the two drugs should not be administered concurrently.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
