@@ -1,6 +1,6 @@
 # WARNINGS
 
-The use of drugs of the Tetracycline class during tooth development (last half of pregnancy, infancy and childhood to the age of 8 years) may cause permanent discoloration of the teeth (yellow-gray-brown).
+The use of drugs of the tetracycline class during tooth development (last half of pregnancy, infancy and childhood to the age of 8 years) may cause permanent discoloration of the teeth (yellow-gray-brown).
 This adverse reaction is more common during long-term use of the drugs, but it has been observed following repeated short-term courses.
 Enamel hypoplasia has also been reported.
 Use doxycycline in pediatric patients 8 years of age or less only when the potential benefits are expected to outweigh the risks in severe or life-threatening conditions (e.g., anthrax, Rocky Mountain spotted fever), particularly when there are no alternative therapies.
@@ -15,6 +15,10 @@ Careful medical history is necessary since CDAD has been reported to occur over 
 
 If CDAD is suspected or confirmed, ongoing use of antibacterial drugs not directed against C. difficile may need to be discontinued.
 Appropriate fluid and electrolyte management, protein supplementation, antibacterial treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
+
+Severe skin reactions, such as exfoliative dermatitis, erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, and drug reaction with eosinophilia and systemic symptoms (DRESS) have been reported in patients receiving doxycycline.
+(See ADVERSE REACTIONS.)
+If severe skin reactions occur, doxycycline should be discontinued immediately and appropriate therapy should be instituted.
 
 Intracranial hypertension (IH, pseudotumor cerebri) has been associated with the use of tetracyclines including doxycycline hyclate.
 Clinical manifestations of IH include headache, blurred vision, diplopia, and vision loss; papilledema can be found on fundoscopy.
@@ -127,7 +131,6 @@ Doxycycline administered orally at dosage levels as high as 250 mg/kg/day had no
 Effect on male fertility has not been studied.
 
 Pregnancy: Teratogenic Effects.
-Pregnancy Category D:
 
 There are no adequate and well-controlled studies on the use of doxycycline in pregnant women.
 The vast majority of reported experience with doxycycline during human pregnancy is short-term, first trimester exposure.
@@ -155,5 +158,5 @@ Because of the potential for serious adverse reactions in nursing infants from d
 
 ## Pediatric Use
 
-Because of the effects of drugs of the Tetracycline-class on tooth development and growth, use doxycycline in pediatric patients 8 years of age or less only when the potential benefits are expected to outweigh the risks in severe or life-threatening conditions (e.g., anthrax, Rocky Mountain spotted fever), particularly when there are no alternative therapies.
+Because of the effects of drugs of the tetracycline-class on tooth development and growth, use doxycycline in pediatric patients 8 years of age or less only when the potential benefits are expected to outweigh the risks in severe or life-threatening conditions (e.g., anthrax, Rocky Mountain spotted fever), particularly when there are no alternative therapies.
 (See WARNINGS and DOSAGE AND ADMINISTRATION.)

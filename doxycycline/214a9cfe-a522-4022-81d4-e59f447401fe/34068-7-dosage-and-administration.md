@@ -9,26 +9,12 @@ In the management of more severe infections (particularly chronic infections of 
 
 Pediatric Patients:
 
-For all pediatric patients weighing less than 45 kg with severe or life-threatening infections (e.g.,
-
-anthrax, Rocky Mountain spotted fever), the recommended dosage is 2.2 mg/kg of body weight
-
-administered every 12 hours.
+For all pediatric patients weighing less than 45 kg with severe or life-threatening infections (e.g., anthrax, Rocky Mountain spotted fever), the recommended dosage is 2.2 mg/kg of body weight administered every 12 hours.
 Children weighing 45 kg or more should receive the adult dose.
-(See
+(See WARNINGS and PRECAUTIONS.)
 
-WARNINGS and PRECAUTIONS.)
-
-For pediatric patients with less severe disease (greater than 8 years of age and weighing less than
-
-45 kg), the recommended dosage schedule is 4.4 mg/kg of body weight divided into two doses on
-
-the first day of treatment, followed by a maintenance dose of 2.2 mg/kg of body weight (given as
-
-a single daily dose or divided into twice daily doses).
-For pediatric patients weighing over 45 kg,
-
-the usual adult dose should be used.
+For pediatric patients with less severe disease (greater than 8 years of age and weighing less than 45 kg), the recommended dosage schedule is 4.4 mg/kg of body weight divided into two doses on the first day of treatment, followed by a maintenance dose of 2.2 mg/kg of body weight (given as a single daily dose or divided into twice daily doses).
+For pediatric patients weighing over 45 kg, the usual adult dose should be used.
 
 The therapeutic antibacterial serum activity will usually persist for 24 hours following recommended dosage.
 
@@ -46,7 +32,7 @@ Uncomplicated gonococcal infections in adults (except anorectal infections in me
 As an alternate single visit dose, administer 300 mg stat followed in one hour by a second 300 mg dose.
 The dose may be administered with food, including milk or carbonated beverage, as required.
 
-Uncomplicated urethral, endocervical, or rectal infection in adults caused by Chlamydia trachomatis: 100 mg, by mouth twice a day for 7 days.
+Uncomplicated urethral, endocervical, or rectal infection in adults caused by Chlamydia trachomatis: 100 mg by mouth, twice a day for 7 days.
 
 Nongonococcal urethritis (NGU) caused by C. trachomatis or U. urealyticum: 100 mg, by mouth, twice a day for 7 days.
 
