@@ -40,13 +40,12 @@ Additional adverse reactions observed with GENVOYA in Study 109 included suicida
 
 Clinical Trials in Adult Subjects with Renal Impairment
 
-In an open-label trial (Study 112), 248 HIV-1 infected subjects with eGFR of 30 to 69 mL per minute (by Cockcroft-Gault method) were treated with GENVOYA for a median duration of 108 weeks.
+In an open-label trial (Study 112), 248 HIV-1 infected subjects with eGFR of 30 to 69 mL per minute (by Cockcroft-Gault method) were treated with GENVOYA for a median duration of 144 weeks.
 Of these subjects, 65% had previously been on a stable TDF-containing regimen.
-A total of 5 subjects permanently discontinued GENVOYA due to the development of renal adverse events.
+A total of 5 subjects permanently discontinued GENVOYA due to the development of renal adverse events through Week 96.
 Three of these five were among the 80 subjects with baseline eGFRs of < 50mL/min and two subjects were among the 162 subjects with baseline eGFRs of ≥ 50mL/min.
-One additional subject with baseline eGFR of ≥ 50mL/min developed acute renal failure.
-Following a brief interruption, GENVOYA was resumed and this subject's renal function returned to baseline.
-Overall, renally impaired subjects receiving GENVOYA in this study had a mean serum creatinine of 1.5 mg/dL at baseline and 1.4 mg/dL at Week 96.
+There were no further renal discontinuations between Weeks 96 and 144.
+Overall, renally impaired subjects receiving GENVOYA in this study had a mean serum creatinine of 1.5 mg/dL at baseline and 1.4 mg/dL at Week 144.
 Otherwise, the safety profile of GENVOYA in subjects in this study was similar to that of subjects with normal renal function [see Clinical Studies (14.4)].
 
 Renal Laboratory Tests and Renal Safety
@@ -109,8 +108,8 @@ Table 4 Lipid Values, Mean Change from Baseline, Reported in Subjects Receiving 
 |  | GENVOYA N=866 |  | STRIBILD N=867 |  |
 | Baseline | Week 144 | Baseline | Week 144 |  |
 | Total Cholesterol (fasted) | 162 [N=647] | +31 [N=647] | 165 [N=627] | +14 [N=627] |
-| Triglycerides (fasted) | 111 [N=647] | +31 [N=647] | 115 [N=627] | +17 [N=627] |
-| LDL-cholesterol (fasted) | 103 [N=647] | +18 [N=643] | 107 [N=628] | +8 [N=628] |
+| Triglycerides (fasted) | 111 [N=647] | +29 [N=647] | 115 [N=627] | +17 [N=627] |
+| LDL-cholesterol (fasted) | 103 [N=647] | +20 [N=643] | 107 [N=628] | +8 [N=628] |
 | HDL-cholesterol (fasted) | 47 [N=647] | +7 [N=647] | 46 [N=627] | +3 [N=627] |
 | Total Cholesterol to HDL ratio | 3.7 [N=647] | 0.2 [N=647] | 3.8 [N=627] | 0.1 [N=627] |
 

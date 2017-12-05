@@ -4,7 +4,7 @@
 
 Prior to initiation of GENVOYA, patients should be tested for hepatitis B virus infection [see Warnings and Precautions (5.1)].
 
-It is recommended that serum creatinine, serum phosphorus, estimated creatinine clearance, urine glucose and urine protein be assessed before initiating GENVOYA and during therapy in all patients as clinically appropriate [see Warnings and Precautions (5.4)].
+Prior to and during treatment, as clinically appropriate, assess serum creatinine, estimated creatinine clearance, urine glucose and urine protein in all patients, and also assess serum phosphorus in patients with chronic kidney disease [see Warnings and Precautions (5.4)].
 
 ## 2.2 Recommended Dosage
 

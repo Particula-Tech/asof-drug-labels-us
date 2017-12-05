@@ -10,7 +10,7 @@ Table 15 Trials Conducted with GENVOYA in Subjects with HIV-1 Infection
 | --- | --- | --- | --- |
 | Study 104Randomized, double blind, active controlled trial. Study 111 | Treatment-naïve adults | GENVOYA (866) STRIBILD (867) | 144 |
 | Study 109Randomized, open label, active controlled trial. | Virologically-suppressedHIV-1 RNA less than 50 copies per mL. adults | GENVOYA (959) ATRIPLA® or TRUVADA®+atazanavir+cobicistat or ritonavir or STRIBILD (477) | 96 |
-| Study 112Open label trial. | Virologically-suppressed adults with renal impairmenteGFR of 30 to 69 mL per minute by Cockcroft-Gault method. | GENVOYA (242) | 96 |
+| Study 112Open label trial. | Virologically-suppressed adults with renal impairmenteGFR of 30 to 69 mL per minute by Cockcroft-Gault method. | GENVOYA (242) | 144 |
 | Study 106 (cohort 1) | Treatment-naïve adolescents between the ages of 12 to less than 18 years (at least 35 kg) | GENVOYA (50) | 48 |
 | Study 106 (cohort 2) | Virologically-suppressed children between the ages of 6 to less than 12 years (at least 25 kg) | GENVOYA (23) | 24 |
 
@@ -75,9 +75,9 @@ The mean age was 58 years (range 24–82), with 63 subjects (26%) who were 65 ye
 Seventy-nine percent were male, 63% were White, 18% were Black, and 14% were Asian.
 Thirteen percent of subjects identified as Hispanic/Latino.
 The mean baseline CD4+ cell count was 664 cells per mm3 (range 126–1813).
-At Week 96, 88% (214/242 virologically suppressed subjects) maintained HIV-1 RNA less than 50 copies per mL after switching to GENVOYA.
-All six treatment-naïve subjects were virologically suppressed at Week 96.
-Five subjects among the entire study population had virologic failure at Week 96.
+At Week 144, 81% (197/242 virologically suppressed subjects) maintained HIV-1 RNA less than 50 copies per mL after switching to GENVOYA.
+All six treatment-naïve subjects were virologically suppressed at Week 144.
+Five subjects among the entire study population had virologic failure at Week 144.
 
 ## 14.5 Clinical Trial Results in HIV-1 Infected Pediatric Subjects Between the Ages of 6 to Less than 18
 

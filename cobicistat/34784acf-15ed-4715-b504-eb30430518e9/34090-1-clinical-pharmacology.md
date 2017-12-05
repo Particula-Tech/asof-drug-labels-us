@@ -157,11 +157,12 @@ Table 12 Drug Interactions: Changes in Pharmacokinetic Parameters for Elvitegrav
 | 20 mL single dose given 4 hours after elvitegravir | 10 | 0.98 (0.88,1.10) | 0.98 (0.91,1.06) | 1.00 (0.90,1.11) |  |  |  |
 | 20 mL single dose given 2 hours before elvitegravir | 11 | 0.82 (0.74,0.91) | 0.85 (0.79,0.91) | 0.90 (0.82,0.99) |  |  |  |
 | 20 mL single dose given 2 hours after elvitegravir | 10 | 0.79 (0.71,0.88) | 0.80 (0.75,0.86) | 0.80 (0.73,0.89) |  |  |  |
+| Atorvastatin | 10 single dose | 150 once dailyStudy conducted with GENVOYA. | Cobicistat 150 once daily | 16 | 0.91 (0.85,0.98) | 0.92 (0.87,0.98) | 0.88 (0.81,0.96) |
 | Carbamazepine | 200 twice daily | 150 once daily | Cobicistat 150 once daily | 12 | 0.55 (0.49,0.61) | 0.31 (0.28,0.33) | 0.03 (0.02,0.40) |
 | Famotidine | 40 once daily given 12 hours after elvitegravir | 150 once daily | Cobicistat 150 once daily | 10 | 1.02 (0.89,1.17) | 1.03 (0.95,1.13) | 1.18 (1.05,1.32) |
 | 40 once daily given simultaneously with elvitegravir | 16 | 1.00 (0.92,1.10) | 1.03 (0.98,1.08) | 1.07 (0.98,1.17) |  |  |  |
 | Ketoconazole | 200 twice daily | 150 once daily | Ritonavir 100 once daily | 18 | 1.17 (1.04,1.33) | 1.48 (1.36,1.62) | 1.67 (1.48,1.88) |
-| Ledipasvir/ Sofosbuvir | 90/400 once daily | 150 once dailyStudy conducted with GENVOYA. | Cobicistat 150 once daily | 30 | 0.98 (0.90,1.07) | 1.11 (1.02,1.20) | 1.46 (1.28,1.66) |
+| Ledipasvir/ Sofosbuvir | 90/400 once daily | 150 once daily | Cobicistat 150 once daily | 30 | 0.98 (0.90,1.07) | 1.11 (1.02,1.20) | 1.46 (1.28,1.66) |
 | Omeprazole | 40 once daily given 2 hours before elvitegravir | 50 once daily | Ritonavir 100 once daily | 9 | 0.93 (0.83,1.04) | 0.99 (0.91,1.07) | 0.94 (0.85,1.04) |
 | 20 once daily given 2 hours before elvitegravir | 150 once daily | Cobicistat 150 once daily | 11 | 1.16 (1.04,1.30) | 1.10 (1.02,1.19) | 1.13 (0.96,1.34) |  |
 | 20 once daily given 12 hours after elvitegravir | 11 | 1.03 (0.92,1.15) | 1.05 (0.93,1.18) | 1.10 (0.92,1.32) |  |  |  |
@@ -169,6 +170,7 @@ Table 12 Drug Interactions: Changes in Pharmacokinetic Parameters for Elvitegrav
 | Rosuvastatin | 10 single dose | 150 once daily | Cobicistat 150 once daily | 10 | 0.94 (0.83,1.07) | 1.02 (0.91,1.14) | 0.98 (0.83,1.16) |
 | Sertraline | 50 single dose | 150 once daily | Cobicistat 150 once daily | 19 | 0.88 (0.82,0.93) | 0.94 (0.89,0.98) | 0.99 (0.93,1.05) |
 | Sofosbuvir/ Velpatasvir | 400/100 once daily | 150 once daily | Cobicistat 150 once daily | 24 | 0.87 (0.80,0.94) | 0.94 (0.88,1.00) | 1.08 (0.97,1.20) |
+| Sofosbuvir/ Velpatasvir/ Voxilaprevir | 400/100/100 + 100 VoxilaprevirStudy conducted with additional voxilaprevir 100 mg to achieve voxilaprevir exposures expected in HCV-infected patients. once daily | 150 once daily | Cobicistat 150 once daily | 29 | 0.79 (0.75,0.85) | 0.94 (0.88,1.00) | 1.32 (1.17,1.49) |
 
 Table 13 Drug Interactions: Changes in Pharmacokinetic Parameters for Tenofovir Alafenamide (TAF) in the Presence of the Coadministered DrugAll interaction studies conducted in healthy volunteers.
 
@@ -179,6 +181,7 @@ Table 13 Drug Interactions: Changes in Pharmacokinetic Parameters for Tenofovir 
 | Ledipasvir/ Sofosbuvir | 90/400 once daily | 10 once dailyStudy conducted with GENVOYA. | 30 | 0.90 (0.73,1.11) | 0.86 (0.78,0.95) | NC |
 | Sertraline | 50 single dose | 10 once daily | 19 | 1.00 (0.86,1.16) | 0.96 (0.89,1.03) | NC |
 | Sofosbuvir/ Velpatasvir | 400/100 once daily | 10 once daily | 24 | 0.80 (0.68,0.94) | 0.87 (0.81,0.94) | NC |
+| Sofosbuvir/ Velpatasvir/ Voxilaprevir | 400/100/100 + 100 VoxilaprevirStudy conducted with additional voxilaprevir 100 mg to achieve voxilaprevir exposures expected in HCV-infected patients. once daily | 10 once daily | 29 | 0.79 (0.68,0.92) | 0.93 (0.85,1.01) | NC |
 | NC = Not Calculated |  |  |  |  |  |  |
 
 Table 14 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of GENVOYA or the Individual ComponentsAll interaction studies conducted in healthy volunteers.
@@ -186,21 +189,22 @@ Table 14 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadminist
 | Cmax | AUC | Cmin |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Coadministered Drug | Dose of Coadministered Drug (mg) | Elvitegravir Dose (mg) | CYP3A Inhibitor Cobicistat Dose (mg) | Tenofovir Alafenamide (mg) | N | Mean Ratio of Coadministered Drug Pharmacokinetic Parameters (90% CI); No effect = 1.00 |  |  |
+| Atorvastatin | 10 single dose | 150 once dailyStudy conducted with GENVOYA. | 150 once daily | 10 once daily | 16 | 2.32 (1.91,2.82) | 2.60 (2.31,2.93) | NC |
 | Buprenorphine | 16 – 24 once daily | 150 once daily | 150 once daily | N/A | 17 | 1.12 (0.98,1.27) | 1.35 (1.18,1.55) | 1.66 (1.43,1.93) |
 | Norbuprenorphine | 1.24 (1.03,1.49) | 1.42 (1.22,1.67) | 1.57 (1.31,1.88) |  |  |  |  |  |
 | Carbamazepine | 200 twice daily | 150 once daily | 150 once daily | N/A | 12 | 1.40 (1.32,1.49) | 1.43 (1.36,1.52) | 1.51 (1.41,1.62) |
 | Carbamazepine-10,11-epoxide | 0.73 (0.70,0.78) | 0.65 (0.63,0.66) | 0.59 (0.57,0.61) |  |  |  |  |  |
 | Desipramine | 50 single dose | N/A | 150 once daily | N/A | 8 | 1.24 (1.08,1.44) | 1.65 (1.36,2.02) | NC |
 | Digoxin | 0.5 single dose | N/A | 150 once daily | N/A | 22 | 1.41 (1.29,1.55) | 1.08 (1.00,1.17) | NC |
-| Ledipasvir | 90 once daily | 150 once dailyStudy conducted with GENVOYA. | 150 once daily | 10 once daily | 30 | 1.65 (1.53,1.78) | 1.79 (1.64,1.96) | 1.93 (1.74,2.15) |
+| Ledipasvir | 90 once daily | 150 once daily | 150 once daily | 10 once daily | 30 | 1.65 (1.53,1.78) | 1.79 (1.64,1.96) | 1.93 (1.74,2.15) |
 | Sofosbuvir | 400 once daily | 1.28 (1.13,1.47) | 1.47 (1.35,1.59) | N/A |  |  |  |  |
 | GS-331007The predominant circulating inactive metabolite of sofosbuvir. | 1.29 (1.24,1.35) | 1.48 (1.44,1.53) | 1.66 (1.60,1.73) |  |  |  |  |  |
 | Naloxone | 4–6 once daily | 150 once daily | 150 once daily | N/A | 17 | 0.72 (0.61,0.85) | 0.72 (0.59,0.87) | N/A |
 | Norgestimate/ ethinyl estradiolStudy conducted with STRIBILD. | 0.180/0.215/ 0.250 norgestimate once daily | 150 once daily | 150 once daily | N/A | 13 | 2.08 (2.00,2.17) | 2.26 (2.15,2.37) | 2.67 (2.43,2.92) |
 | 0.025 ethinyl estradiol once daily | 0.94 (0.86,1.04) | 0.75 (0.69,0.81) | 0.56 (0.52,0.61) |  |  |  |  |  |
-| Norgestromin | 0.180/0.215/ 0.250 norgestimate once daily / 0.025 ethinyl estradiol once daily | N/A | N/A | 25 once dailyStudy conducted with DESCOVY (emtricitabine/tenofovir alafenamide). | 29 | 1.17 (1.07,1.26) | 1.12 (1.07,1.17) | 1.16 (1.08,1.24) |
+| Norgestromin | 0.180/0.215/ 0.250 norgestimate once daily / 0.025 ethinyl estradiol once daily | N/A | N/A | 25 once dailyStudy conducted with DESCOVY. | 15 | 1.17 (1.07,1.26) | 1.12 (1.07,1.17) | 1.16 (1.08,1.24) |
 | Norgestrel | 1.10 (1.02,1.18) | 1.09 (1.01,1.18) | 1.11 (1.03,1.20) |  |  |  |  |  |
-| Ethinyl estradiol | 1.22 (1.15,1.29) | 1.11 (1.07,1.16) | 1.02 (0.93,1.12) |  |  |  |  |  |
+| Ethinyl estradiol | 1.22 (1.15,1.29) | 1.11 (1.07,1.16) | 1.02 (0.92,1.12) |  |  |  |  |  |
 | R-Methadone | 80–120 daily | 150 once daily | 150 once daily | N/A | 11 | 1.01 (0.91,1.13) | 1.07 (0.96,1.19) | 1.10 (0.95,1.28) |
 | S-Methadone | 0.96 (0.87,1.06) | 1.00 (0.89,1.12) | 1.02 (0.89,1.17) |  |  |  |  |  |
 | Sertraline | 50 single dose | 150 once daily | 150 once daily | 10 once daily | 19 | 1.14 (0.94,1.38) | 0.93 (0.77,1.13) | N/A |
@@ -210,6 +214,10 @@ Table 14 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadminist
 | Sofosbuvir | 400 once daily | 150 once daily | 150 once daily | 10 once daily | 24 | 1.23 (1.07,1.42) | 1.37 (1.24,1.52) | N/A |
 | GS-331007 | 1.29 (1.25,1.33) | 1.48 (1.43,1.53) | 1.58 (1.52,1.65) |  |  |  |  |  |
 | Velpatasvir | 100 once daily | 1.30 (1.17,1.45) | 1.50 (1.35,1.66) | 1.60 (1.44,1.78) |  |  |  |  |
+| Sofosbuvir | 400 once daily | 150 once daily | 150 once daily | 10 once daily | 29 | 1.27 (1.09,1.48) | 1.22 (1.12,1.32) | NC |
+| GS-331007 | 1.28 (1.25,1.32) | 1.43 (1.39,1.47) | NC |  |  |  |  |  |
+| Velpatasvir | 100 once daily | 0.96 (0.89,1.04) | 1.16 (1.06,1.27) | 1.46 (1.30,1.64) |  |  |  |  |
+| Voxilaprevir | 100 + 100Study conducted with additional voxilaprevir 100 mg to achieve voxilaprevir exposures expected in HCV-infected patients. once daily | 1.92 (1.63,2.26) | 2.71 (2.30,3.19) | 4.50 (3.68,5.50) |  |  |  |  |
 | N/A = Not Applicable; NC = Not Calculated |  |  |  |  |  |  |  |  |
 
 ## 12.4 Microbiology
