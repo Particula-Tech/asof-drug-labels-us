@@ -1,5 +1,5 @@
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL SECTION
 
-20 mg Labels
+20 mg Container Label
 
-Container
+40 mg Container Label

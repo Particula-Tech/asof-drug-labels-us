@@ -8,6 +8,7 @@ Patients with Moderate or Severe Renal Insufficiency
 
 Since CNS adverse effects have been reported in patients with moderate and severe renal insufficiency, longer intervals between doses or lower doses may need to be used in patients with moderate (creatinine clearance <50 mL/min) or severe (creatinine clearance <10 mL/min) renal insufficiency to adjust for the longer elimination half-life of famotidine.
 (See CLINICAL PHARMACOLOGY IN ADULTS and DOSAGE AND ADMINISTRATION).
+Prolonged QT interval has been reported very rarely in patients with impaired renal function whose dose/dosing interval of famotidine may not have been adjusted appropriately
 
 ## Drug Interactions
 
