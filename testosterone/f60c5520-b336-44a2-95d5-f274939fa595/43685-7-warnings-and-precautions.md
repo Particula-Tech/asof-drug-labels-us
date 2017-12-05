@@ -33,8 +33,6 @@ The younger the child the greater the risk of compromising final mature height.
 This drug has not been shown to be safe and effective for the enhancement of athletic performance.
 Because of the potential risk of serious adverse health effects, this drug should not be used for such purpose.
 
-Abuse of Testosterone and Monitoring of Serum Testosterone Concentrations
-
 Testosterone has been subject to abuse, typically at doses higher than recommended for the approved indication and in combination with other anabolic androgenic steroids.
 Anabolic androgenic steroid abuse can lead to serious cardiovascular and psychiatric adverse reactions [see DRUG ABUSE AND DEPENDENCE].
 
