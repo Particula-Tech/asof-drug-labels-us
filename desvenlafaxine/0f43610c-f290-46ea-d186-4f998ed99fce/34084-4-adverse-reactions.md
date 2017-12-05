@@ -203,3 +203,5 @@ Because these reactions are reported voluntarily from a population of uncertain 
 Skin and subcutaneous tissue disorders – Stevens-Johnson syndrome.
 
 Gastrointestinal disorders – Pancreatitis acute.
+
+Cardiovascular system – Takotsubo cardiomyopathy.

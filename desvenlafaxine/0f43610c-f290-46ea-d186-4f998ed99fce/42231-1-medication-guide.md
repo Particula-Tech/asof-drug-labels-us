@@ -234,4 +234,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 LAB-0539-8
 
-October 2016
+Revised October 2016
