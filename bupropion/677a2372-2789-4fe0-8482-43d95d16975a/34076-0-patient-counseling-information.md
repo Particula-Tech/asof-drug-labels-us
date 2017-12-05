@@ -18,12 +18,11 @@ Advise families and caregivers of patients to observe for the emergence of such 
 Such symptoms should be reported to the patient’s prescriber or health professional, especially if they are severe, abrupt in onset, or were not part of the patient’s presenting symptoms.
 Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication.
 
-Neuropsychiatric Symptoms and Suicide Risk in Smoking Cessation Treatment
+Neuropsychiatric Adverse Events and Suicide Risk in Smoking Cessation Treatment
 
 Although FORFIVO XL is not indicated for smoking cessation treatment, it contains the same active ingredient as ZYBAN® which is approved for this use.
-Advise patients, families, and caregivers that quitting smoking, with or without ZYBAN, may trigger nicotine withdrawal symptoms (eg, including depression or agitation), or worsen pre-existing psychiatric illness.
-Some patients have experienced changes in mood (including depression and mania), psychosis, hallucinations, paranoia, delusions, homicidal ideation, aggression, anxiety, and panic, as well as suicidal ideation, suicide attempt, and completed suicide when attempting to quit smoking while taking ZYBAN.
-If patients develop agitation, hostility, depressed mood, or changes in thinking or behavior that are not typical for them, or if patients develop suicidal ideation or behavior, they should be urged to report these symptoms to their healthcare provider immediately.
+Inform patients that some patients have experienced changes in mood (including depression and mania), psychosis, hallucinations, paranoia, delusions, homicidal ideation, aggression, hostility, agitation, anxiety, and panic, as well as suicidal ideation and suicide when attempting to quit smoking while taking bupropion.
+Instruct patients to discontinue FORFIVO XL and contact a healthcare professional if they experience such symptoms..
 
 Severe Allergic Reactions
 
