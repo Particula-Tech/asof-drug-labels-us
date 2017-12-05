@@ -1,4 +1,4 @@
-# Patient Information
+Patient Information
 
 RECTIV® [REC-tiv] (Nitroglycerin) Ointment 0.4%
 
@@ -49,7 +49,7 @@ RECTIV may also affect how other medicines work.
 Specifically, tell your doctor if you are taking any of the following:
 
 - other nitroglycerin containing products
-- a medicine for erectile dysfunction (male impotence), for example sildenafil, tadalafil or vardenafil (see the section above 'Who should not use RECTIV')
+- a medicine for erectile dysfunction (male impotence), for example sildenafil, tadalafil or vardenafil (see the section above ‘Who should not use RECTIV')
 - medicines used to treat high blood pressure
 - are taking aspirin, ergotamine (used to treat migraine) or are receiving tissue-type plasminogen activator (used to help dissolve blood clots formed in blood vessels in the heart, lungs and brain)
 - are to be given heparin.
@@ -99,7 +99,7 @@ How should I store RECTIV?
 
 Keep RECTIV out of the reach of children.
 
-Do not use RECTIV after the expiry date which is stated on the label and carton after 'EXP.'
+Do not use RECTIV after the expiry date which is stated on the label and carton after ‘EXP.'
 The expiry date refers to the last day of that month.
 
 General information about RECTIV
@@ -113,48 +113,4 @@ This Patient Information leaflet summarizes the most important information about
 If you would like more information, talk to your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about RECTIV that is written for health professionals.
 
-For more information call 1-800-472-2634 or visit www.RECTIV.com.
-
-Patient Instructions for Use
-
-When do I apply the ointment?
-
-Apply the ointment every 12 hours exactly as your doctor has told you to.
-
-How do I apply the ointment?
-
-Cover your finger with plastic-wrap, a disposable surgical glove or a finger cot.
-
-Lay the covered finger alongside the 1 inch dosing line marked on the side of the medicine box (see figure below) so that the tip of your finger is at one end of the dosing line.
-Starting at the tip of the finger, squeeze the ointment onto your finger for the same length marked on the box.
-
-Refer to carton for accurate dosage guide.
-
-Gently insert the finger with the ointment into the anal canal, up to the first finger joint.
-Carefully smear the ointment around the inner sides of the anal canal.
-If this cannot be achieved due to pain, application of the ointment should be made directly to the outside of the anus.
-
-What do I do after I have applied the ointment?
-
-Throw away the finger covering in the garbage, out of the reach of children and pets.
-Wash your hands.
-
-What are the ingredients in RECTIV?
-
-Active ingredient: nitroglycerin
-
-Inactive ingredients: propylene glycol, lanolin, sorbitan sesquioleate, paraffin wax and white petrolatum.
-
-Manufactured by:
-
-PHARBIL Waltrop GmbH Im Wirrigen 25 45731 Waltrop Germany
-
-Manufactured for:
-
-Aptalis Pharma US, Inc. 100 Somerset Coporate Boulevard Bridgewater, NJ 08807
-
-RECTIV® is a registered trademark of Aptalis Pharma US, Inc.
-
-U.S. Patent No. 7,189,761
-
-Revised: July 2013
+For more information call 1-800-678-1605 or visit www.RECTIV.com.

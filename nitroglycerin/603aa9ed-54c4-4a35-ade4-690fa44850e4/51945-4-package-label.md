@@ -1,11 +1,25 @@
-# PRINCIPAL DISPLAY PANEL - OINTMENT 0.4% - CARTON
+Principal Display Panel - Rectiv Carton Label
 
-NDC 58914-301-80
+Allergan™
 
-RECTIV (nitroglycerin) Ointment 0.4% For Intra-anal Use Only 30 g
+Use within 8 weeks of first opening.
 
-# PRINCIPAL DISPLAY PANEL - OINTMENT 0.4% - TUBE
+30 g
 
-# PRINCIPAL DISPLAY PANEL - OINTMENT 0.4% - SAMPLE CARTON
+RECTIV®
 
-# PRINCIPAL DISPLAY PANEL - OINTMENT 0.4% - SAMPLE TUBE
+(nitroglycerin)
+
+Ointment 0.4%
+
+For Intra-anal Use Only
+
+Do not discard the carton - Dosage Guide included on two sides of the carton
+
+Principal Display Panel - Rectiv Tube Label
+
+RECTIV®
+
+(nitroglycerin)
+
+Ointment 0.4%
