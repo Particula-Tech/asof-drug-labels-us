@@ -228,7 +228,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Body as a whole – Anaphylaxis, angioedema
 
-Cardiovascular system – QT prolongation, ventricular fibrillation, ventricular tachycardia (including torsade de pointes)
+Cardiovascular system – QT prolongation, ventricular fibrillation, ventricular tachycardia (including torsade de pointes), takotsubo cardiomyopathy
 
 Digestive system – Pancreatitis
 

@@ -291,4 +291,4 @@ For current full prescribing information, please visit www.pfizer.com
 
 LAB-0542-6.0
 
-October 2016
+Revised: October 2016
