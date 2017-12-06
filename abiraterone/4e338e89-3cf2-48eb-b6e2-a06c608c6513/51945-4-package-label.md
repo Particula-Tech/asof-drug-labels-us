@@ -46,6 +46,4 @@ Zytiga® 500mg
 
 Each film-coated tablet contains 500 mg of abiraterone acetate.
 
-New Strength
-
 Rx only
