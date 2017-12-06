@@ -119,7 +119,7 @@ Table 13: Population Pharmacokinetic Estimates of Darunavir Exposure (Trials TMC
 | 10 to less than 15 kgCalculated from individual pharmacokinetic parameters estimated for Week 2 and Week 4, based on the Week 48 analysis that evaluated a darunavir dose of 20 mg/kg twice daily with ritonavir 3 mg/kg twice daily. N=10 | 15 to less than 20 kgThe 15 kg to less than 20 kg weight group received 380 mg (3.8 mL) PREZISTA oral suspension twice daily with 48 mg (0.6 mL) ritonavir oral solution twice daily in TMC114-C228. Calculated from individual pharmacokinetic parameters estimated for Week 2 post-dose adjustment visit; Week 24 and Week 48 based on the – Week 48 analysis that evaluated a darunavir dose of 380 mg twice daily. N=13 |  |  |  |
 | --- | --- | --- | --- | --- |
 |  | PREZISTA/ritonavir once daily | PREZISTA/ritonavir twice daily |  |  |
-|  |  |  | TMC114-C228Subjects may have contributed pharmacokinetic data to both the 10 kg to less than 15 kg weight group and the 15 kg to less than 20 kg weight group |  |
+|  |  |  | TMC114-C228Subjects may have contributed pharmacokinetic data to both the 10 kg to less than 15 kg weight group and the 15 kg to less than 20 kg weight group. |  |
 | Parameter | TMC114-C230Summary statistics for population pharmacokinetic parameter estimates for DRV after administration of DRV/rtv at 800/100 mg once daily in treatment-naïve HIV-1 infected subjects from 12 to <18 years of age – Week-48 Analyses. N=12 | TMC114-C212 N=74 |  |  |
 | AUC24h (ng∙h/mL) AUC24h is calculated as AUC12h*2. |  |  |  |  |
 | Mean ± Standard Deviation | 84390 ± 23587 | 126377 ± 34356 | 137896 ± 51420 | 157760 ± 54080 |
