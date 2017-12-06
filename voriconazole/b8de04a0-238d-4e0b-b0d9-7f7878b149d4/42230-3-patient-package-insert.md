@@ -1,4 +1,4 @@
-# FDA-Approved Patient Labeling
+FDA-Approved Patient Labeling
 
 Voriconazole
 
@@ -67,7 +67,8 @@ Keep a list of them to show your healthcare provider or pharmacist when you get 
 How should I take voriconazole?
 
 - Voriconazole may be prescribed to you as:
-  - Voriconazole tablets
+  - Voriconazole tablets or
+  - Voriconazole oral suspension
 - Take voriconazole tablets or oral suspension exactly as your healthcare provider tells you to.
 - Take voriconazole tablets or oral suspension at least 1 hour before or at least 1 hour after meals.
 - Voriconazole oral suspension will be mixed for you by your pharmacist.
@@ -180,3 +181,7 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 This product's label may have been updated.
 For current full prescribing information, please visit www.greenstonellc.com.
+
+Trademarks are the property of their respective owners.
+
+LAB-0435-7.0 July 2017

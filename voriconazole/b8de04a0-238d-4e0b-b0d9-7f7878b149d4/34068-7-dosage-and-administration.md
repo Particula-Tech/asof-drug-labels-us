@@ -9,7 +9,7 @@ Voriconazole Tablets or Oral Suspension should be taken at least one hour before
 Invasive aspergillosis and serious fungal infections due to Fusarium spp. and Scedosporium apiospermum
 
 See Table 1.
-Therapy must be initiated with the specified loading dose regimen of intravenous voriconazole on Day 1 followed by the recommended maintenance dose regimen.
+Therapy must be initiated with the specified loading dose regimen of intravenous voriconazole on Day 1 followed by the recommended maintenance dose (RMD) regimen.
 Intravenous treatment should be continued for at least 7 days.
 Once the patient has clinically improved and can tolerate medication given by mouth, the oral tablet form or oral suspension form of voriconazole may be utilized.
 The recommended oral maintenance dose of 200 mg achieves a voriconazole exposure similar to 3 mg/kg IV; a 300 mg oral dose achieves an exposure similar to 4 mg/kg IV.
@@ -27,7 +27,7 @@ Patients should be treated for a minimum of 14 days and for at least 7 days foll
 
 Table 1: Recommended Dosing Regimen
 
-|  | IV | IV | Oral Adult patients who weigh less than 40 kg should receive half of the oral maintenance dose. |
+|  | IV | IV | OralAdult patients who weigh less than 40 kg should receive half of the oral maintenance dose. |
 | --- | --- | --- | --- |
 | Infection | Loading dose | Maintenance Dose Increase dose when voriconazole is co-administered with phenytoin or efavirenz (7); Decrease dose in patients with hepatic impairment (2.5),In healthy volunteer studies, the 200 mg oral q12h dose provided an exposure (AUCτ) similar to a 3 mg/kg IV q12h dose; the 300 mg oral q12h dose provided an exposure (AUCτ) similar to a 4 mg/kg IV q12h dose [see Clinical Pharmacology (12)]. |  |
 | Invasive AspergillosisIn a clinical study of invasive aspergillosis, the median duration of IV voriconazole therapy was 10 days (range 2–85 days). The median duration of oral voriconazole therapy was 76 days (range 2–232 days) [see Clinical Studies (14.1)]. | 6 mg/kg q12h for the first 24 hours | 4 mg/kg q12h | 200 mg q12h |
@@ -59,7 +59,7 @@ Add 46 mL of water to the bottle.
 Shake the closed bottle vigorously for about 1 minute.
 Remove child-resistant cap and push bottle adaptor into the neck of the bottle.
 Replace the cap.
-Write the date of expiration of the reconstituted suspension on the bottle label (the shelf-life of the reconstituted suspension is 14 days at controlled room temperature 15-30°C [59-86°F]).
+Write the date of expiration of the reconstituted suspension on the bottle label (the shelf-life of the reconstituted suspension is 14 days at controlled room temperature 15–30°C [59–86°F]).
 
 Instructions for use
 
@@ -80,7 +80,7 @@ It is recommended that the standard loading dose regimens be used but that the m
 
 Voriconazole has not been studied in patients with severe hepatic cirrhosis (Child-Pugh Class C) or in patients with chronic hepatitis B or chronic hepatitis C disease.
 Voriconazole has been associated with elevations in liver function tests and clinical signs of liver damage, such as jaundice, and should only be used in patients with severe hepatic impairment if the benefit outweighs the potential risk.
-Patients with hepatic insufficiency must be carefully monitored for drug toxicity.
+Patients with hepatic impairment must be carefully monitored for drug toxicity.
 
 ## 2.6 Use in Patients With Renal Impairment
 
