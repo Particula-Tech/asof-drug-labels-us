@@ -2,7 +2,7 @@
 
 NDC 65841-651-14 in bottle of 60 capsules
 
-Topiramate Capsules (Sprinkle), 15 mg
+Topiramate Capsules USP, 15 mg
 
 Rx only
 
@@ -10,7 +10,7 @@ Rx only
 
 NDC 65841-652-14 in bottle of 60 capsules
 
-Topiramate Capsules (Sprinkle), 25 mg
+Topiramate Capsules USP, 25 mg
 
 Rx only
 

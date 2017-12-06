@@ -1,18 +1,12 @@
-# 7. DRUG INTERACTIONS
-
-In vitro studies indicate that topiramate does not inhibit enzyme activity for CYP1A2, CYP2A6, CYP2B6, CYP2C9, CYP2D6, CYP2E1, and CYP3A4/5 isozymes.
-In vitro studies indicate that topiramate is a mild inhibitor of CYP2C19 and a mild inducer of CYP3A4.
-Drug interactions with some antiepileptic drugs, CNS depressants and oral contraceptives are described here.
-For other drug interactions, please refer to CLINICAL PHARMACOLOGY (12.5).
+# 7 DRUG INTERACTIONS
 
 ## 7.1 Antiepileptic Drugs
 
-Potential interactions between topiramate and standard AEDs were assessed in controlled clinical pharmacokinetic studies in patients with epilepsy.
-Concomitant administration of phenytoin or carbamazepine with topiramate decreased plasma concentrations of topiramate by 48% and 40% respectively when compared to topiramate given alone [see CLINICAL PHARMACOLOGY (12.5)].
+Concomitant administration of phenytoin or carbamazepine with topiramate resulted in a clinically significant decrease in plasma concentrations of topiramate when compared to topiramate given alone.
+A dosage adjustment may be needed [see Dosage and Administration (2.1), Clinical Pharmacology (12.3).]
 
-Concomitant administration of valproic acid and topiramatehas been associated with hyperammonemia with and without encephalopathy.
-Concomitant administration of topiramatewith valproic acid has also been associated with hypothermia (with and without hyperammonemia) in patients who have tolerated either drug alone.
-It may be prudent to examine blood ammonia levels in patients in whom the onset of hypothermia has been reported [see Warnings and Precautions (5.9) (5.11) or Clinical Pharmacology (12.5)].
+Concomitant administration of valproic acid and topiramate has been associated with hypothermia and hyperammonemia with and without encephalopathy.
+Examine blood ammonia levels in patients in whom the onset of hypothermia has been reported [see Warnings and Precautions (5.9, 5.11) and Clinical Pharmacology (12.3)].
 
 ## 7.2 CNS Depressants
 
@@ -21,23 +15,31 @@ Because of the potential of topiramate to cause CNS depression, as well as other
 
 ## 7.3 Oral Contraceptives
 
-Exposure to ethinyl estradiol was statistically significantly decreased at doses of 200, 400, and 800 mg/day (18%, 21%, and 30%, respectively) when topiramate was given as adjunctive therapy in patients taking valproic acid).
-However, norethindrone exposure was not significantly affected.
-In another pharmacokinetic interaction study in healthy volunteers with a concomitantly administered combination oral contraceptive product containing 1 mg norethindrone (NET) plus 35 mcg ethinyl estradiol (EE), topiramate, given in the absence of other medications at doses of 50 to 200 mg/day, was not associated with statistically significant changes in mean exposure (AUC) to either component of the oral contraceptive.
-The possibility of decreased contraceptive efficacy and increased breakthrough bleeding should be considered in patients taking combination oral contraceptive products with topiramate.
+The possibility of decreased contraceptive efficacy and increased breakthrough bleeding may occur in patients taking combination oral contraceptive products with topiramate.
 Patients taking estrogen-containing contraceptives should be asked to report any change in their bleeding patterns.
-Contraceptive efficacy can be decreased even in the absence of breakthrough bleeding [see CLINICAL PHARMACOLOGY (12.5)].
+Contraceptive efficacy can be decreased even in the absence of breakthrough bleeding [see CLINICAL PHARMACOLOGY (12.3)].
 
-## 7.4 Metformin
+## 7.4 Lithium
 
-Topiramate treatment can frequently cause metabolic acidosis, a condition for which the use of metformin is contraindicated [see CLINICAL PHARMACOLOGY (12.5)].
+An increase in systemic exposure of lithium following topiramate doses of up to 600 mg/day can occur.
+Lithium levels should be monitored when co-administered with high-dose topiramate [see Clinical Pharmacology (12.3)].
 
-## 7.5 Lithium
+## 7.5 Other Carbonic Anhydrase Inhibitors
 
-In patients, lithium levels were unaffected during treatment with topiramate at doses of 200 mg/day; however, there was an observed increase in systemic exposure of lithium (27% for Cmax and 26% for AUC) following topiramate doses of up to 600 mg/day.
-Lithium levels should be monitored when coadministered with high-dose topiramate [see CLINICAL PHARMACOLOGY (12.5)].
+Concomitant use of topiramate, a carbonic anhydrase inhibitor, with any other carbonic anhydrase inhibitor (e.g., zonisamide or acetazolamide) may increase the severity of metabolic acidosis and may also increase the risk of kidney stone formation.
+Therefore, patients given topiramate concomitantly with another carbonic anhydrase inhibitor should be monitored particularly closely for the appearance or worsening of metabolic acidosis [see CLINICAL PHARMACOLOGY (12.3)].
 
-## 7.6 Other Carbonic Anhydrase Inhibitors
+## 7.6 Hydrochlorothiazide (HCTZ)
 
-Concomitant use of topiramate, a carbonic anhydrase inhibitor, with any other carbonic anhydrase inhibitor (e.g., zonisamide, acetazolamide or dichlorphenamide), may increase the severity of metabolic acidosis and may also increase the risk of kidney stone formation.
-Therefore, if topiramate is given concomitantly with another carbonic anhydrase inhibitor, the patient should be monitored for the appearance or worsening of metabolic acidosis [see CLINICAL PHARMACOLOGY (12.5)].
+Topiramate Cmax and AUC increased when HCTZ was added to topiramate.
+The clinical significance of this change is unknown.
+The addition of HCTZ to topiramate may require a decrease in the topiramate dose [see Clinical Pharmacology (12.3)].
+
+## 7.7 Pioglitazone
+
+A decrease in the exposure of pioglitazone and its active metabolites were noted with the concurrent use of pioglitazone and topiramate in a clinical trial.
+The clinical relevance of these observations is unknown; however, when topiramate is added to pioglitazone therapy or pioglitazone is added to topiramate therapy, careful attention should be given to the routine monitoring of patients for adequate control of their diabetic disease state [see Clinical Pharmacology (12.3)].
+
+## 7.8 Amitriptyline
+
+Some patients may experience a large increase in amitriptyline concentration in the presence of topiramate and any adjustments in amitriptyline dose should be made according to the patient's clinical response and not on the basis of plasma levels [see Clinical Pharmacology (12.3)].

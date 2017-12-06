@@ -1,45 +1,38 @@
-Topiramate Tablets, USP
+MEDICATION GUIDE
 
-Topiramate Capsules (Sprinkle)
+Topiramate (toe-PIR-a-mate) Tablets, USP
 
-Read this Medication Guide before you start taking topiramate and each time you get a refill.
-There may be new information.
-This information does not take the place of talking to your healthcare provider about your medical condition or treatment.
-If you have any questions about topiramate, talk to your healthcare provider or pharmacist.
+Topiramate (toe-PIR-a-mate) Capsules, USP
 
 What is the most important information I should know about Topiramate?
 
-- Topiramate may cause eye problems.
-  Serious eye problems include:
+Topiramate may cause eye problems.
+Serious eye problems include:
 
-● any sudden decrease in vision with or without eye pain and redness,
+- any sudden decrease in vision with or without eye pain and redness,
+- a blockage of fluid in the eye causing increased pressure in the eye (secondary angle closure glaucoma).
+- These eye problems can lead to permanent loss of vision if not treated.
+- You should call your healthcare provider right away if you have any new eye symptoms, including any new problems with your vision.
 
-● a blockage of fluid in the eye causing increased pressure in the eye (secondary angle closure glaucoma).
+Topiramate may cause decreased sweating and increased body temperature (fever).
+People, especially children, should be watched for signs of decreased sweating and fever, especially in hot temperatures.
+Some people may need to be hospitalized for this condition.
+Call your healthcare provider right away if you have a high fever, a fever that does not go away, or decreased sweating.
 
-● These eye problems can lead to permanent loss of vision if not treated.
-You should call your healthcare provider right away if you have any new eye symptoms.
-
-- Topiramate may cause decreased sweating and increased body temperature (fever).
-  People, especially children, should be watched for signs of decreased sweating and fever, especially in hot temperatures.
-  Some people may need to be hospitalized for this condition.
-
-Topiramatecan increase the level of acid in your blood (metabolic acidosis).
+Topiramate can increase the level of acid in your blood (metabolic acidosis).
 If left untreated, metabolic acidosis can cause brittle or soft bones (osteoporosis, osteomalacia, osteopenia), kidney stones, can slow the rate of growth in children, and may possibly harm your baby if you are pregnant.
 Metabolic acidosis can happen with or without symptoms.
 Sometimes people with metabolic acidosis will:
 
-• feel tired
-
-• not feel hungry (loss of appetite)
-
-• feel changes in heartbeat
-
-• have trouble thinking clearly
+- feel tired
+- not feel hungry (loss of appetite)
+- feel changes in heartbeat
+- have trouble thinking clearly
 
 Your healthcare provider should do a blood test to measure the level of acid in your blood before and during your treatment with topiramate.
 If you are pregnant, you should talk to your healthcare provider about whether you have metabolic acidosis.
 
-• Like other antiepileptic drugs, topiramate may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
+- Like other antiepileptic drugs, topiramate may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
 
 Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
 
@@ -70,33 +63,43 @@ How can I watch for early symptoms of suicidal thoughts and actions?
 
 Topiramate can harm your unborn baby.
 
-- If you take topiramate during pregnancy, your baby has a higher risk for birth defects called cleft lip and cleft palate.
-  These defects can begin early in pregnancy, even before you know you are pregnant.
-- Cleft lip and cleft palate may happen even in children born to women who are not taking any medicines and do not have other risk factors.
-- There may be other medicines to treat your condition that have a lower chance of birth defects.
-- All women of childbearing age should talk to their healthcare providers about using other possible treatments instead of topiramate.
-  If the decision is made to use topiramate, you should use effective birth control (contraception) unless you are planning to become pregnant.
-  You should talk to your doctor about the best kind of birth control to use while you are taking topiramate.
-- Tell your healthcare provider right away if you become pregnant while taking topiramate.
-  You and your healthcare provider should decide if you will continue to take topiramate while you are pregnant.
-- Metabolic acidosis may have harmful affects on your baby.
-  Talk to your healthcare provider if topiramate has caused metabolic acidosis during your pregnancy.
-- Pregnancy Registry: If you become pregnant while taking topiramate, talk to your healthcare provider about registering with the North American Antiepileptic Drug Pregnancy Registry.
-  You can enroll in this registry by calling 1-888-233-2334.
-  The purpose of this registry is to collect information about the safety of antiepileptic drugs during pregnancy.
+If you take topiramate during pregnancy, your baby has a higher risk for birth defects called cleft lip and cleft palate.
+These defects can begin early in pregnancy, even before you know you are pregnant.
+
+Cleft lip and cleft palate may happen even in children born to women who are not taking any medicines and do not have other risk factors.
+
+There may be other medicines to treat your condition that have a lower chance of birth defects.
+
+All women of childbearing age should talk to their healthcare providers about using other possible treatments instead of topiramate.
+If the decision is made to use topiramate, you should use effective birth control (contraception) unless you are planning to become pregnant.
+You should talk to your doctor about the best kind of birth control to use while you are taking topiramate.
+
+Tell your healthcare provider right away if you become pregnant while taking topiramate.
+You and your healthcare provider should decide if you will continue to take topiramatewhile you are pregnant.
+
+- If you take topiramate during pregnancy, your baby may be smaller than expected at birth.
+  Talk to your healthcare provider if you have questions about this risk during pregnancy.
+
+Metabolic acidosis may have harmful effects on your baby.
+Talk to your healthcare provider if topiramate has caused metabolic acidosis during your pregnancy.
+
+Pregnancy Registry: If you become pregnant while taking topiramate, talk to your healthcare provider about registering with the North American Antiepileptic Drug Pregnancy Registry.
+You can enroll in this registry by calling 1-888-233-2334.
+The purpose of this registry is to collect information about the safety of antiepileptic drugs during pregnancy.
 
 What is topiramate?
 
 Topiramate is a prescription medicine used:
 
 - to treat certain types of seizures (partial onset seizures and primary generalized tonic-clonic seizures) in adults and children 2 years and older,
-- with other medicines to treat certain types of seizures (partial onset seizures, primary generalized tonic-clonic seizures, and seizures associated with Lennox-Gastaut syndrome) in adults and children 2 years and older,
+- with other medicines to treat certain types of seizures (partial onset seizures, primary generalized tonic-clonic seizures, and seizures associated with Lennox-Gastaut syndrome) in adults and children 2 years and older.
+- to prevent migraine headaches in adults and adolescents 12 years and older.
 
 What should I tell my healthcare provider before taking topiramate?
 
-Before taking topiramate, tell your healthcare provider about all your medical conditions, including if you:
+Before taking topiramate, tell your healthcare provider about all of your medical conditions, including if you:
 
-- have or have had depression, mood problems or suicidal thoughts or behavior
+- have or have had depression, mood problems, or suicidal thoughts or behavior
 - have kidney problems, have kidney stones, or are getting kidney dialysis
 - have a history of metabolic acidosis (too much acid in the blood)
 - have liver problems
@@ -110,13 +113,15 @@ Before taking topiramate, tell your healthcare provider about all your medical c
 - are pregnant or plan to become pregnant.
 - are breastfeeding.
   Topiramate passes into breast milk.
-  It is not known if the topiramate that passes into breast milk can harm your baby.Talk to your healthcare provider about the best way to feed your baby if you take topiramate.
+  It is not known if the topiramate that passes into breast milk can harm your baby.
+  Talk to your healthcare provider about the best way to feed your baby if you take topiramate.
 
-Tell your healthcare provider about all the medicines you take, including prescription and nonprescription medicines, vitamins, and herbal supplements. topiramate and other medicines may affect each other causing side effects.
+Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
+Topiramate and other medicines may affect each other causing side effects.
 
-Especially, tell your healthcare provider if you take:
+Especially tell your healthcare provider if you take:
 
-- Valproic acid (such as DEPAKENE®# or DEPAKOTE®#)
+- Valproic acid (such as DEPAKENE®or DEPAKOTE®)
 - any medicines that impair or decrease your thinking, concentration, or muscle coordination.
 - birth control pills.
   Topiramate may make your birth control pills less effective.
@@ -133,11 +138,12 @@ How should I take topiramate?
 - Take topiramate exactly as prescribed.
 - Your healthcare provider may change your dose.
   Do not change your dose without talking to your healthcare provider.
-- Topiramate Tablets should be swallowed whole.
+- Topiramate tablets should be swallowed whole.
   Do not chew the tablets.
   They may leave a bitter taste.
-- Topiramate Capsules (Sprinkle) may be swallowed whole or may be opened and sprinkled on a teaspoon of soft food.
+- Topiramate capsules may be swallowed whole or may be opened and sprinkled on a teaspoon of soft food.
   Drink fluids right after eating the food and medicine mixture to make sure it is all swallowed.
+  Do not chew food and medicine mixture.
 - Do not store any medicine and food mixture for later use.
 - Topiramate can be taken before, during, or after a meal.
   Drink plenty of fluids during the day.
@@ -166,25 +172,15 @@ Topiramate may cause serious side effects including:
 
 See "What is the most important information I should know about topiramate?"
 
-- Metabolic acidosis.
-  Metabolic acidosis can cause:
-
-● tiredness
-
-● loss of appetite
-
-● irregular heartbeat
-
-● impaired consciousness
-
 - High blood ammonia levels.
   High ammonia in the blood can affect your mental activities, slow your alertness, make you feel tired, or cause vomiting.
-  This has happened when topiramate is taken with a medicine called valproic acid (DEPAKENE®# and DEPAKOTE®#).
-- Low body temperature: Taking topiramate when you are also taking valproic acid can cause a drop in body temperature to less then 950F, feeling tired, confusion, or coma.
+  This has happened when topiramate is taken with a medicine called valproic acid (DEPAKENE®and DEPAKOTE®).
 - Kidney stones.
   Drink plenty of fluids when taking topiramate to decrease your chances of getting kidney stones.
+- Low body temperature.
+  Taking topiramate when you are also taking valproic acid can cause a drop in body temperature to less than 95○F, feeling tired, confusion, or coma.
 - Effects on thinking and alertness.
-  Topiramate may affect how you think, and cause confusion, problems with concentration, attention, memory, or speech.
+  Topiramate may affect how you think and cause confusion, problems with concentration, attention, memory, or speech.
   Topiramate may cause depression or mood problems, tiredness, and sleepiness.
 - Dizziness or loss of muscle coordination.
 
@@ -200,6 +196,16 @@ The most common side effects of topiramate include:
 - weight loss
 - nervousness
 - upper respiratory tract infection
+- speech problems
+- tiredness
+- dizziness
+- sleepiness/drowsiness
+- slow reactions
+- difficulty with memory
+- pain in the abdomen
+- fever
+- abnormal vision
+- decreased feeling or sensitivity, especially in the skin
 
 Tell your healthcare provider about any side effect that bothers you or that does not go away.
 These are not all the possible side effects of topiramate.
@@ -215,7 +221,7 @@ How should I store topiramate?
 - Keep topiramate dry and away from moisture.
 - Keep topiramate and all medicines out of the reach of children.
 
-General information about topiramate.
+General information about the safe and effective use topiramate.
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use topiramate for a condition for which it was not prescribed.
@@ -226,7 +232,7 @@ This Medication Guide summarizes the most important information about topiramate
 If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about topiramate that is written for health professionals.
 
-Please address medical inquiries to, (MedicalAffairs@zydususa.com) Tel.: 1-877-993-8779.
+Please address medical inquiries to, MedicalAffairs@zydususa.com Tel.: 1-877-993-8779.
 
 What are the ingredients in topiramate?
 
@@ -236,12 +242,15 @@ Active ingredient: topiramate, USP
 
 Inactive ingredients: colloidal silicon dioxide, hypromellose, lactose anhydrous, magnesium stearate, microcrystalline cellulose, polyethylene glycol, sodium starch glycolate, talc and titanium dioxide.
 
-Topiramate Capsules (Sprinkle)
+Topiramate Capsules, USP
 
 Active ingredient: topiramate, USP
 
-Inactive ingredients: colloidal silicon dioxide, hypromellose, lactose anhydrous, magnesium stearate, microcrystalline cellulose, polyethylene glycol, sodium starch glycolate, talc and titanium dioxide.
+Inactive ingredients: cellulose acetate, gelatin, hypromellose, povidone, sodium lauryl sulfate, sugar spheres, talc and titanium dioxide.
 
-#DEPAKENE® and DEPAKOTE® are registered trademarks of Abbott Laboratories.
+DEPAKENE® and DEPAKOTE® are registered trademarks of Abbott Laboratories.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
+This product's label may have been updated.
+For current full prescribing information, please visit www.zydususa.com.
