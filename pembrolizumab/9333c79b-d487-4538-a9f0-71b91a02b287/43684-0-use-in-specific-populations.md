@@ -34,7 +34,7 @@ Because many drugs are excreted in human milk, instruct women to discontinue nur
 
 Contraception
 
-Based on its mechanism of action, KEYTRUDA can cause fetal harm when administered to a pregnant woman [see Warnings and Precautions (5.10) and Use in Specific Populations (8.1)].
+Based on its mechanism of action, KEYTRUDA can cause fetal harm when administered to a pregnant woman [see Warnings and Precautions (5.11) and Use in Specific Populations (8.1)].
 Advise females of reproductive potential to use effective contraception during treatment with KEYTRUDA and for at least 4 months following the final dose.
 
 ## 8.4 Pediatric Use

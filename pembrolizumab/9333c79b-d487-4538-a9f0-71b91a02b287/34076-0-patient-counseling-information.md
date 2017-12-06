@@ -16,5 +16,5 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 - Advise patients of the risk of post-allogeneic hematopoietic stem cell transplantation complications [see Warnings and Precautions (5.9)].
 - Advise patients of the importance of keeping scheduled appointments for blood work or other laboratory tests [see Warnings and Precautions (5.3, 5.4, 5.5)].
 - Advise females that KEYTRUDA can cause fetal harm.
-  Instruct females of reproductive potential to use highly effective contraception during and for 4 months after the last dose of KEYTRUDA [see Warnings and Precautions (5.10) and Use in Specific Populations (8.1, 8.3)].
+  Instruct females of reproductive potential to use highly effective contraception during and for 4 months after the last dose of KEYTRUDA [see Warnings and Precautions (5.11) and Use in Specific Populations (8.1, 8.3)].
 - Advise nursing mothers not to breastfeed while taking KEYTRUDA and for 4 months after the final dose [see Use in Specific Populations (8.2)].

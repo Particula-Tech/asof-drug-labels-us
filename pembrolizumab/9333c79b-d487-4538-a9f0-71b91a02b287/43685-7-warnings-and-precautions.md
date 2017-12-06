@@ -137,7 +137,12 @@ Cases of fatal hyperacute GVHD after allogeneic HSCT have also been reported in 
 These complications may occur despite intervening therapy between PD-1 blockade and allogeneic HSCT.
 Follow patients closely for early evidence of transplant-related complications such as hyperacute GVHD, severe (Grade 3 to 4) acute GVHD, steroid-requiring febrile syndrome, hepatic VOD, and other immune-mediated adverse reactions, and intervene promptly.
 
-## 5.10 Embryofetal Toxicity
+## 5.10 Increased Mortality in Patients with Multiple Myeloma when KEYTRUDA is Added to a Thalidomide Analogue and Dexamethasone
+
+In two randomized clinical trials in patients with multiple myeloma, the addition of KEYTRUDA to a thalidomide analogue plus dexamethasone, a use for which no PD-1 or PD-L1 blocking antibody is indicated, resulted in increased mortality.
+Treatment of patients with multiple myeloma with a PD-1 or PD-L1 blocking antibody in combination with a thalidomide analogue plus dexamethasone is not recommended outside of controlled clinical trials.
+
+## 5.11 Embryofetal Toxicity
 
 Based on its mechanism of action, KEYTRUDA can cause fetal harm when administered to a pregnant woman.
 Animal models link the PD-1/PD-L1 signaling pathway with maintenance of pregnancy through induction of maternal immune tolerance to fetal tissue.
