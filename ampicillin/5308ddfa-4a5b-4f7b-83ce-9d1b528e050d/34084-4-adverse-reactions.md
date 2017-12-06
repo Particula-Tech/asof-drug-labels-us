@@ -26,3 +26,5 @@ Evidence indicates that glutamic oxaloacetic transaminase (GOT) is released at t
 
 Hemic and Lymphatic Systems – Anemia, thrombocytopenia, thrombocytopenic purpura, eosinophilia, leukopenia, and agranulocytosis have been reported during therapy with the penicillins.
 These reactions are usually reversible on discontinuation of therapy and are believed to be hypersensitivity phenomena.
+
+Central Nervous System - Seizures

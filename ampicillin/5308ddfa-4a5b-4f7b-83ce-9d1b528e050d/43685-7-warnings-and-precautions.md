@@ -10,7 +10,7 @@ If an allergic reaction occurs, the drug should be discontinued and appropriate 
 
 SERIOUS ANAPHYLACTOID REACTIONS REQUIRE IMMEDIATE EMERGENCY TREATMENT WITH EPINEPHRINE, OXYGEN, INTRAVENOUS STEROIDS, AND AIRWAY MANAGEMENT, INCLUDING INTUBATION, SHOULD ALSO BE ADMINISTERED AS INDICATED.
 
-Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including ampicillin, and may range in severity from mild diarrhea to fatal colitis.
+Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including ampicillin for injection, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
 C. difficile produces toxins A and B which contribute to the development of CDAD.
@@ -34,14 +34,14 @@ In most cases, the rash is maculopapular, pruritic, and generalized.
 Therefore, the administration of ampicillin is not recommended in patients with mononucleosis.
 It is not known whether these patients are truly allergic to ampicillin.
 
-Prescribing Ampicillin for Injection, USP in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
+Prescribing Ampicillin in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 
 ## Information for Patients
 
 Patients should be counseled that antibacterial drugs including Ampicillin for Injection, USP should only be used to treat bacterial infections.
 They do not treat viral infections (e.g., the common cold).
-When Ampicillin for Injection, USP is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
-Skipping doses or not completing the full course of therapy may: (1) decrease the effectiveness of the immediate treatment, and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by Ampicillin for Injection, USP or other antibacterial drugs in the future.
+When Ampicillin is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
+Skipping doses or not completing the full course of therapy may: (1) decrease the effectiveness of the immediate treatment, and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by Ampicillin or other antibacterial drugs in the future.
 
 Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
 Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
@@ -87,4 +87,4 @@ Therefore, caution should be exercised when ampicillin-class antibiotics are adm
 
 ## Pediatric Use
 
-Guidelines for the administration of these drugs to children are presented in DOSAGE AND ADMINISTRATION.
+Guidelines for the administration of these drugs to children, including neonates are presented in DOSAGE AND ADMINISTRATION section.

@@ -1,7 +1,7 @@
 # DOSAGE AND ADMINISTRATION
 
 This insert is for a Pharmacy Bulk Package and is intended for preparing IV admixtures only.
-Dosage recommendations for intramuscular injection are for informational purposes only.
+Dosage recommendations for intramuscular or direct intravenous injection are for informational purposes only.
 
 Infections of the respiratory tract and soft tissues.
 
@@ -39,15 +39,29 @@ Adults and children – 150 to 200 mg/kg/day in equally divided doses every 3 to
 (Treatment may be initiated with intravenous drip therapy and continued with intramuscular injections.)
 The doses for other infections may be given by either the intravenous or intramuscular route.
 
+Neonates (less than or equal to 28 days of postnatal age) – Dosage should be based on Gestational age and Postnatal age according to Table 3.
+
+1. Table 3 Dosage in Neonates (less than or equal to 28 days of postnatal age) for Bacterial Meningitis and Septicemia
+
+| Gestational age (weeks) | Postnatal age (days) | Dosage |
+| --- | --- | --- |
+| less than or equal to 34 | less than or equal to 7 | 100 mg/kg/day in equally divided doses every 12 hours |
+| less than or equal to 34greater than 34 | greater than or equal to 8 and less than 28 | 150 mg/kg/day in equally divided doses every 12 hours |
+| greater than 34 | less than or equal to 28 | 150 mg/kg/day in equally divided doses every 8 hours |
+
 ## Septicemia
 
 Adults and children – 150 to 200 mg/kg/day.
 Start with intravenous administration for at least three days and continue with the intramuscular route every 3 to 4 hours.
 
-Treatment of all infections should be continued for a minimum of 48 to 72 hours beyond the time that the patient becomes asymptomatic or evidence of bacterial eradication has been obtained.
-A minimum of 10-days treatment is recommended for any infection caused by Group A beta-hemolytic streptococci to help prevent the occurrence of acute rheumatic fever or acute glomerulonephritis.
+Neonates (less than or equal to 28 days of postnatal age) – Dosage should be based on Gestational age and Postnatal age according to Table 3 (above).
 
-For Administration by Intravenous Infusion – Reconstitute as directed below (Directions for Proper Use of Pharmacy Bulk Package) prior to diluting with an intravenous solution.
+Treatment of all infections should be continued for a minimum of 48 to 72 hours beyond the time that the patient becomes asymptomatic or evidence of bacterial eradication has been obtained.
+A minimum of 10 days treatment is recommended for any infection caused by Group A beta-hemolytic streptococci to help prevent the occurrence of acute rheumatic fever or acute glomerulonephritis.
+
+## DIRECTION FOR USE
+
+For Administration by Intravenous Infusion – Reconstitute as directed below (see Directions for Proper Use of Pharmacy Bulk Package) prior to diluting with an intravenous solution.
 
 IMPORTANT: This chemical stability information in no way indicates that it would be acceptable practice to use this product well after the preparation time.
 Good professional practice suggests that compounded admixtures should be administered as soon after preparation as is feasible.
@@ -77,14 +91,15 @@ Only those solutions listed above should be used for the intravenous infusion of
 The concentrations should fall within the range specified.
 The drug concentration and the rate and volume of the infusion should be adjusted so that the total dose of ampicillin is administered before the drug loses its stability in the solution in use.
 
-## Directions For Proper Use Of Pharmacy Bulk Package
+## Directions for Proper Use of Pharmacy Bulk Package
 
-This glass Pharmacy Bulk Package bottle contains 10 grams ampicillin and is designed for use in the pharmacy in preparing IV admixtures.
+This Pharmacy Bulk Package glass bottle contains ampicillin sodium equivalent to 10 grams of ampicillin.
+It is designed for use in the pharmacy in preparing IV admixtures using aseptic technique in a laminar flow hood.
 
 a) Add 94 mL Sterile Water for Injection USP.
-The resulting solution will contain 100 milligrams ampicillin activity per mL, and is stable up to one hour at room temperature.
+The resulting solution will contain 100 milligrams ampicillin activity per mL, and is stable up to ONE hour at room temperature.
 
-b) Dilute further within ONE HOUR to a concentration of 5 mg to 10 mg per mL.
+b) Dilute further within ONE hour to a concentration of 5 mg to 10 mg per mL.
 See Table for suitable fluid.
 Use promptly.
 This chemical stability information in no way indicates that it would be acceptable practice to use this product well after preparation time.
@@ -93,11 +108,11 @@ Good professional practice suggests that compounded admixtures should be adminis
 c) Using aseptic technique under a laminar flow hood, the closure should be penetrated only one time after reconstitution using a suitable sterile dispensing set; which allows measured dispensing of the contents.
 Use of a syringe and needle is not recommended as it may cause leakage.
 
-d) After entry, use entire contents of Pharmacy Bulk Package bottle promptly.
-The entire contents of the Pharmacy Bulk Package bottle must be dispensed within ONE HOUR of reconstitution.
-This time limit should begin with the introduction of solvent in the Pharmacy Bulk Package bottle.
-
-e) A plastic ball attached to the pharmacy bulk package provides a suitable hanging device while dispensing contents.
+d) After entry, use entire contents of bottle promptly.
+The entire contents of the Pharmacy Bulk Package bottle must be dispensed within ONE hour of reconstitution.
+This time limit should begin with the introduction of solvent or diluent into the Pharmacy Bulk Package.
 
 Use of this product is restricted to a suitable work area, such as a laminar flow hood.
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
+
+CAUTION: NOT TO BE DISPENSED AS A UNIT.
