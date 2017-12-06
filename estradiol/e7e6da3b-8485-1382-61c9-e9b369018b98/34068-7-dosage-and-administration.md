@@ -35,7 +35,7 @@ Start therapy with 0.025 mg per day applied to the skin once weekly.
 
 - •The adhesive side of estradiol transdermal system continuous delivery (once-weekly) should be placed on a clean, dry area of the lower abdomen or the upper quadrant of the buttock.
 - •Estradiol transdermal system continuous delivery (once-weekly) should not be applied to or near the breasts.
-- •The sites of application must be rotated, with an interval of at least one week allowed between applications to the same site.
+- •The sites of application must be rotated, with an interval of at least 1-week allowed between applications to the same site.
 - •The area selected should not be oily, damaged, or irritated.
   The waistline should be avoided, since tight clothing may rub the transdermal system off.
 - •Application to areas where sitting would dislodge estradiol transdermal system continuous delivery (once-weekly) should also be avoided.
@@ -46,8 +46,8 @@ Start therapy with 0.025 mg per day applied to the skin once weekly.
 - •Estradiol transdermal system continuous delivery (once-weekly) should be pressed firmly in place with the fingers for at least 10 seconds, making sure there is good contact, especially around the edges.
 - •If the system lifts, apply pressure to maintain adhesion.
 - •In the event that a system should fall off reapply it to a different location.
-  If the system cannot be reapplied, a new system should be applied for the remainder of the 7 day dosing interval.
-- •Only one system should be worn at any one time during the 7 day dosing interval.
+  If the system cannot be reapplied, a new system should be applied for the remainder of the 7-day dosing interval.
+- •Only one system should be worn at any one time during the 7-day dosing interval.
 - •Swimming, bathing, or using a sauna while using estradiol transdermal system continuous delivery (once-weekly) has not been studied, and these activities may decrease the adhesion of the system and the delivery of estradiol.
 
 ## 2.6 Removal of the Estradiol Transdermal System Continuous Delivery (Once-Weekly)

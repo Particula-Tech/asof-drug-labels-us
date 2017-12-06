@@ -16,7 +16,7 @@ The results are presented as the mean ± SD number of flushes in each of the 3 t
 In the 0.05 mg estradiol group, the mean weekly hot flush rate across all treatment cycles decreased from 46 ± 6.5 at baseline to 20 ± 3 (-67 percent).
 The 0.1 mg estradiol group had a decline in the mean weekly hot flush rate from 52 ± 4.4 at baseline to 16 ± 2.4 (-72 percent).
 In the placebo group, the mean weekly hot flush rate declined from 53 ± 4.5 at baseline to 46 ± 6.5 (-18.1 percent).
-Compared with placebo, the 0.05 mg and 0.1 mg estradiol groups showed a statistically significantly larger mean decrease in hot flushes across all treatment cycles (P< 0.05).
+Compared with placebo, the 0.05 mg and 0.1 mg estradiol groups showed a statistically significantly larger mean decrease in hot flushes across all treatment cycles (P < 0.05).
 When the response to treatment was analyzed for each of the three cycles of therapy, similar statistically significant differences were observed between both estradiol treatment groups and the placebo group during all treatment cycles.
 
 In a double-blind, placebo-controlled, randomized study of 187 women receiving estradiol transdermal system continuous delivery (once-weekly) 0.025 mg per day or placebo continuously for up to three 28-day cycles, the estradiol transdermal system continuous delivery (once-weekly) 0.025 mg per day dosage was shown to be statistically better than placebo at weeks 4 and 12 for relief of both the frequency and severity of moderate to severe vasomotor symptoms.
@@ -37,19 +37,19 @@ A second active-control trial of 193 randomized subjects was supportive of the p
 
 ## 14.2 Effects on Bone Mineral Density
 
-A 2-year clinical trial enrolled a total of 175 healthy, hysterectomized, postmenopausal, non-osteoporotic (that is, lumbar spine bone mineral density > 0.9 gm/ cm2) women at ten study centers in the United States.
-A total of 129 subjects were allocated to receive active treatment with four different doses of estradiol patches (7.75 cm2, 15.5 cm2, 18.6 cm2, 31 cm2) and 46 subjects were allocated to receive placebo patches.
+A two-year clinical trial enrolled a total of 175 healthy, hysterectomized, postmenopausal, non-osteoporotic (that is, lumbar spine bone mineral density > 0.9 gm/ cm2) women at 10 study centers in the United States.
+A total of 129 subjects were allocated to receive active treatment with 4 different doses of estradiol patches (7.75, 15.5, 18.6, 31 cm2) and 46 subjects were allocated to receive placebo patches.
 Seventy-seven percent of the randomized subjects (100 on active drug and 34 on placebo) contributed data to the analysis of percent change of anterior-posterior (A-P) spine BMD, the primary efficacy variable (see Figure 3).
 A statistically significant overall treatment effect at each timepoint was noted, implying bone preservation for all active treatment groups at all timepoints, as opposed to bone loss for placebo at all timepoints.
 
 Percent change in BMD of the total hip (see Figure 4) was also statistically significantly different from placebo for all active treatment groups.
 This figure is based on 74 percent of the randomized subjects (95 on active drug and 34 on placebo).
 
-## 14.3 Women's Health Initiative Studies
+## 14.3 Women’s Health Initiative Studies
 
 The WHI enrolled approximately 27,000 predominantly healthy postmenopausal women in two substudies to assess the risks and benefits of daily oral CE (0.625 mg)-alone or in combination with MPA (2.5 mg) compared to placebo in the prevention of certain chronic diseases.
 The primary endpoint was the incidence of CHD (defined as nonfatal MI, silent MI and CHD death), with invasive breast cancer as the primary adverse outcome.
-A "global index" included the earliest occurrence of CHD, invasive breast cancer, stroke, PE, endometrial cancer (only in the CE plus MPA substudy), colorectal cancer, hip fracture, or death due to other causes.
+A “global index” included the earliest occurrence of CHD, invasive breast cancer, stroke, PE, endometrial cancer (only in the CE plus MPA substudy), colorectal cancer, hip fracture, or death due to other causes.
 These substudies did not evaluate the effects of CE-alone or CE plus MPA on menopausal symptoms.
 
 ### WHI Estrogen-Alone Substudy
@@ -79,9 +79,9 @@ WHI publications can be viewed at www.nhlbi.nih.gov/whi.
 | Total fractures, | 0.71 (0.64-0.80) | 144 | 197 |
 | Death due to causesResults are based on an average follow-up of 6.8 years.,All deaths, except from breast or colorectal cancer, definite or probable CHD, PE or cerebrovascular disease. | 1.08 (0.88-1.32) | 53 | 50 |
 | Overall mortality, | 1.04 (0.88-1.22) | 79 | 75 |
-| Global IndexA subset of the events was combined in a "global index", defined as the earliest occurrence of CHD events, invasive breast cancer, stroke, pulmonary embolism, endometrial cancer, colorectal cancer, hip fracture, or death due to other causes. | 1.02 (0.92-1.13) | 206 | 201 |
+| Global IndexA subset of the events was combined in a “global index”, defined as the earliest occurrence of CHD events, invasive breast cancer, stroke, pulmonary embolism, endometrial cancer, colorectal cancer, hip fracture, or death due to other causes. | 1.02 (0.92-1.13) | 206 | 201 |
 
-For those outcomes included in the WHI "global index" that reached statistical significance, the absolute excess risks per 10,000 women-years in the group treated with CE-alone was 12 more strokes, while the absolute risk reduction per 10,000 women-years was seven fewer hip fractures.9 The absolute excess risk of events included in the "global index" was a non- significant five events per 10,000 women-years.
+For those outcomes included in the WHI “global index” that reached statistical significance, the absolute excess risks per 10,000 women-years in the group treated with CE-alone was 12 more strokes, while the absolute risk reduction per 10,000 women-years was 7 fewer hip fractures.9 The absolute excess risk of events included in the “global index” was a non- significant 5 events per 10,000 women-years.
 There was no difference between the groups in terms of all-cause mortality.
 
 No overall difference for primary CHD events (nonfatal MI, silent MI and CHD death) and invasive breast cancer incidence in women receiving CE-alone compared with placebo was reported in final centrally adjudicated results from the estrogen-alone substudy, after an average follow-up of 7.1 years.
@@ -96,10 +96,10 @@ The WHI estrogen-alone substudy stratified by age showed in women 50 to 59 years
 ### WHI Estrogen Plus Progestin Substudy
 
 The WHI estrogen plus progestin substudy was stopped early.
-According to the predefined stopping rule, after an average follow-up of 5.6 years of treatment, the increased risk of invasive breast cancer and cardiovascular events exceeded the specified benefits included in the "global index".
+According to the predefined stopping rule, after an average follow-up of 5.6 years of treatment, the increased risk of invasive breast cancer and cardiovascular events exceeded the specified benefits included in the “global index”.
 The absolute excess risk of events included in the “global index” was 19 per 10,000 women-years.
 
-For those outcomes included in the WHI “global index” that reached statistical significance after 5.6 years of follow-up, the absolute excess risks per 10,000 women-years in the group treated with CE plus MPA were seven more CHD events, eight more strokes, ten more PEs, and eight more invasive breast cancers, while the absolute risk reduction per 10,000 women-years were six fewer colorectal cancers and five fewer hip fractures.
+For those outcomes included in the WHI “global index” that reached statistical significance after 5.6 years of follow-up, the absolute excess risks per 10,000 women-years in the group treated with CE plus MPA were 7 more CHD events, 8 more strokes, 10 more PEs, and 8 more invasive breast cancers, while the absolute risk reduction per 10,000 women-years were 6 fewer colorectal cancers and 5 fewer hip fractures.
 
 Results of the CE plus MPA substudy, which included 16,608 women (average 63 years of age, range 50 to 79; 83.9 percent White, 6.5 percent Black, 5.4 percent Hispanic, 3.9 percent Other), are presented in Table 5.
 These results reflect centrally adjudicated data after an average follow-up of 5.6 years.
@@ -126,12 +126,12 @@ WHI publications can be viewed at www.nhlbi.nih.gov/whi.,Results are based on ce
 | Lower arm/wrist fractures | 0.71 (0.59-0.85) | 44 | 62 |
 | Total fractures | 0.76 (0.69-0.83) | 152 | 199 |
 | Overall mortalityAll deaths, except from breast or colorectal cancer, definite or probable CHD, PE or cerebrovascular disease. | 1.00 (0.83-1.19) | 52 | 52 |
-| Global IndexA subset of the events was combined in a "global index", defined as the earliest occurrence of CHD events, invasive breast cancer, stroke, pulmonary embolism, endometrial cancer, colorectal cancer, hip fracture, or death due to other causes. | 1.13 (1.02-1.25) | 184 | 165 |
+| Global IndexA subset of the events was combined in a “global index”, defined as the earliest occurrence of CHD events, invasive breast cancer, stroke, pulmonary embolism, endometrial cancer, colorectal cancer, hip fracture, or death due to other causes. | 1.13 (1.02-1.25) | 184 | 165 |
 
 Timing of initiation of estrogen plus progestin therapy relative to the start of menopause may affect the overall risk benefit profile.
 The WHI estrogen plus progestin substudy stratified by age showed in women 50 to 59 years of age a non-significant trend toward reduced risk for overall mortality [HR 0.69 (95 percent CI, 0.44 to 1.07)].
 
-## 14.4 Women's Health Initiative Memory Study
+## 14.4 Women’s Health Initiative Memory Study
 
 The WHIMS estrogen-alone ancillary study of WHI enrolled 2,947 predominantly healthy hysterectomized postmenopausal women 65 to 79 years of age (45 percent were 65 to 69 years of age; 36 percent were 70 to 74 years of age; 19 percent were 75 years of age and older) to evaluate the effects of daily CE (0.625 mg)-alone on the incidence of probable dementia (primary outcome) compared to placebo.
 

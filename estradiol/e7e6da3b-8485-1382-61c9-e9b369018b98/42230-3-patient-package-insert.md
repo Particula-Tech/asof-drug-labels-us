@@ -1,6 +1,6 @@
-# PATIENT INFORMATION
+# Patient Information
 
-ESTRADIOL TRANSDERMAL SYSTEM, USP CONTINUOUS DELIVERY (ONCE-WEEKLY) Estradiol (es″ tra dye′ ol)
+Estradiol Transdermal System, USP Continuous Delivery (Once-Weekly) (esʺ tra dyeʹ ol)
 
 Read this Patient Information before you start using estradiol transdermal system continuous delivery (once-weekly) and each time you get a refill.
 There may be new information.
@@ -21,11 +21,11 @@ The estradiol transdermal system continuous delivery (once-weekly) is used after
 
 Estrogens are hormones made by a woman’s ovaries.
 The ovaries normally stop making estrogens when a woman is between 45 and 55 years old.
-This drop in body estrogen levels causes the "change of life" or menopause (the end of monthly menstrual periods).
+This drop in body estrogen levels causes the “change of life” or menopause (the end of monthly menstrual periods).
 Sometimes, both ovaries are removed during an operation before natural menopause takes place.
-The sudden drop in estrogen levels causes "surgical menopause."
+The sudden drop in estrogen levels causes “surgical menopause.”
 
-When the estrogen levels begin dropping, some women get very uncomfortable symptoms, such as feelings of warmth in the face, neck, and chest, or sudden strong feelings of heat and sweating ("hot flashes" or "hot flushes").
+When the estrogen levels begin dropping, some women get very uncomfortable symptoms, such as feelings of warmth in the face, neck, and chest, or sudden strong feelings of heat and sweating (“hot flashes” or “hot flushes”).
 In some women, the symptoms are mild, and they will not need to use estrogens.
 In other women, symptoms can be more severe.
 You and your healthcare provider should talk regularly about whether you still need treatment with estradiol transdermal system continuous delivery (once-weekly).
@@ -100,11 +100,11 @@ For detailed instructions, see the step-by-step instructions for using estradiol
 
 - •Use estradiol transdermal system continuous delivery (once-weekly) exactly as your healthcare provider tells you to use it.
 - •Estradiol transdermal system continuous delivery (once-weekly) is for skin use only.
-- •Change your estradiol transdermal system continuous delivery (once-weekly) patch one time each week or every 7 days.
+- •Change your estradiol transdermal system continuous delivery (once-weekly) patch 1 time each week or every 7 days.
 - •Apply your estradiol transdermal system continuous delivery (once-weekly) patch to a clean, dry area on your lower abdomen or buttocks.
   This area must be clean, dry, and free of powder, oil or lotion for your patch to stick to your skin.
 - •Apply your estradiol transdermal system continuous delivery (once-weekly) patch to a different area of your abdomen or your buttocks each time.
-  Do not use the same application site two times in the same week.
+  Do not use the same application site 2 times in the same week.
 - •Do not apply estradiol transdermal system continuous delivery (once-weekly) to your breasts.
 - •If you forget to apply a new estradiol transdermal system continuous delivery (once-weekly) patch, you should apply a new patch as soon as possible.
 - •You and your healthcare provider should talk regularly (every 3 to 6 months) about the dose you are using and whether you still need treatment with estradiol transdermal system continuous delivery (once-weekly).
@@ -117,7 +117,7 @@ How to Change estradiol transdermal system continuous delivery (once-weekly)
   Then, gently rub the area with an oil-based cream or lotion to remove the adhesive from your skin.
 - •Keep in mind, the new patch must be applied to a different skin area of your abdomen or buttocks.
   This area must be clean, dry, and free of powder, oil or lotion.
-  The same site should not be used again for at least one week after removal of the patch.
+  The same site should not be used again for at least 1 week after removal of the patch.
 
 What are the possible side effects of estradiol transdermal system continuous delivery (once-weekly)?
 
@@ -175,8 +175,7 @@ What can I do to lower my chances of a serious side effect with estradiol transd
 - •Have a pelvic exam, breast exam and mammogram (breast X-ray) every year unless your healthcare provider tells you something else.
 - •If members of your family have had breast cancer or if you have ever had breast lumps or an abnormal mammogram, you may need to have breast exams more often.
 - •If you have high blood pressure, high cholesterol (fat in the blood), diabetes, are overweight, or if you use tobacco, you may have higher chances for getting heart disease.
-
-Ask your healthcare provider for ways to lower your chances of getting heart disease.
+- •Ask your healthcare provider for ways to lower your chances of getting heart disease.
 
 How should I store and throw away used estradiol transdermal system continuous delivery (once-weekly)?
 
@@ -210,7 +209,7 @@ Inactive ingredient: propylene glycol, povidone, anhydrous colloidal silicon dio
 
 Instructions for Use
 
-ESTRADIOL TRANSDERMAL SYSTEM, USP CONTINUOUS DELIVERY (ONCE-WEEKLY) Estradiol (es″ tra dye′ ol)
+Estradiol Transdermal System, USP Continuous Delivery (Once-Weekly) (esʺ tra dyeʹ ol)
 
 Read this Patient Information before you start using estradiol transdermal system continuous delivery (once-weekly) and each time you get a refill.
 There may be new information.
@@ -220,7 +219,7 @@ You will need the following supplies: See Figure A
 
 Step 1: Pick the days you will change your estradiol transdermal system continuous delivery (once-weekly).
 
-- •You will need to change your patch one time each week or every 7 days.
+You will need to change your patch 1 time each week or every 7 days.
 
 Step 2.
 Remove the estradiol transdermal system continuous delivery (once-weekly) patch from the pouch.
@@ -245,7 +244,7 @@ See Figures D and E
 Step 4.
 Placing the patch on your skin.
 
-- •Apply the sticky side of the patch to one of the areas of skin shown below.
+- •Apply the sticky side of the patch to 1 of the areas of skin shown below.
   See Figure F and Figure G
 - •Avoid touching the sticky side of the patch with your fingers.
 
@@ -278,6 +277,6 @@ Step 6: Throwing away your used patch.
 
 This Patient Information and Instructions for Use have been approved by the U.S Food and Drug Administration.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-REVISED MAY 2015 ETS:R23
+Revised: 11/2017 ETS:R25/PL:ETS:R20

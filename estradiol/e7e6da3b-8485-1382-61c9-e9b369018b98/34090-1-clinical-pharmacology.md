@@ -28,7 +28,7 @@ Transdermal administration of estradiol transdermal system continuous delivery (
 The pharmacokinetics of estradiol following application of the estradiol transdermal system continuous delivery (once-weekly) were investigated in 197 healthy postmenopausal women in six studies.
 In five of the studies, the estradiol transdermal system continuous delivery (once-weekly) was applied to the abdomen, and in a sixth study, application to the buttocks and abdomen were compared.
 
-The estradiol transdermal system continuous delivery (once-weekly) continuously releases estradiol which is transported across intact skin leading to sustained circulating levels of estradiol during a 7 day treatment period.
+The estradiol transdermal system continuous delivery (once-weekly) continuously releases estradiol which is transported across intact skin leading to sustained circulating levels of estradiol during a 7-day treatment period.
 The systemic availability of estradiol after transdermal administration is about 20 times higher than that after oral administration.
 This difference is due to the absence of first pass metabolism when estradiol is given by the transdermal route.
 
@@ -45,7 +45,7 @@ Trough values at the end of each wear interval (Cmin) were approximately 35 pg/m
 Nearly identical serum curves were seen each week, indicating little or no accumulation of estradiol in the body.
 Serum estrone peak and trough levels were 60 and 40 pg/mL, respectively.
 
-In a single dose, randomized, crossover study conducted to compare the effect of site of application, 38 postmenopausal women wore a single estradiol transdermal system continuous delivery (once-weekly) 31 cm2 for one week on the abdomen and buttocks.
+In a single dose, randomized, crossover study conducted to compare the effect of site of application, 38 postmenopausal women wore a single estradiol transdermal system continuous delivery (once-weekly) 31 cm2 for 1 week on the abdomen and buttocks.
 The estradiol serum concentration profiles are shown in Figure 2.
 Values of Cmax and Cavg were, respectively, 25 percent and 17 percent higher with the buttock application than with the abdomen application.
 

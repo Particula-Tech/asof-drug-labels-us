@@ -54,7 +54,7 @@ If feasible, estrogens should be discontinued at least 4 to 6 weeks before surge
 An increased risk of endometrial cancer has been reported with the use of unopposed estrogen therapy in a woman with a uterus.
 The reported endometrial cancer risk among unopposed estrogen users is about 2 to 12 times greater than in non-users, and appears dependent on duration of treatment and on estrogen dose.
 Most studies show no significant increased risk associated with use of estrogens for less than 1 year.
-The greatest risk appears associated with prolonged use, with increased risks of 15-fold to 24-fold for 5 to 10 years or more.
+The greatest risk appears associated with prolonged use, with increased risks of 15- to 24-fold for 5 to 10 years or more.
 This risk has been shown to persist for at least 8 to 15 years after estrogen therapy is discontinued.
 
 Clinical surveillance of all women using estrogen-alone or estrogen plus progestin therapy is important.
@@ -93,8 +93,11 @@ In addition, mammography examinations should be scheduled based on patient age, 
 
 The WHI estrogen plus progestin substudy reported a statistically non-significant increased risk of ovarian cancer.
 After an average follow-up of 5.6 years, the relative risk for ovarian cancer for CE plus MPA versus placebo was 1.58 (95 percent CI, 0.77 to 3.24).
-The absolute risk for CE plus MPA versus placebo was 4 versus 3 cases per 10,000 women-years.7 In some epidemiological studies, the use of estrogen plus progestin and estrogen-only products, in particular for 5 or more years, has been associated with an increased risk of ovarian cancer.
-However, the duration of exposure associated with increased risk is not consistent across all epidemiologic studies, and some report no association.
+The absolute risk for CE plus MPA versus placebo was 4 versus 3 cases per 10,000 women-years.7 A meta-analysis of 17 prospective and 35 retrospective epidemiology studies found that women who used hormonal therapy for menopausal symptoms had an increased risk for ovarian cancer.
+The primary analysis, using case-control comparisons, included 12,110 cancer cases from the 17 prospective studies.
+The relative risks associated with current use of hormonal therapy was 1.41 (95% confidence interval [CI] 1.32 to 1.50); there was no difference in the risk estimates by duration of the exposure (less than 5 years [median of 3 years] vs. greater than 5 years [median of 10 years] of use before the cancer diagnosis).
+The relative risk associated with combined current and recent use (discontinued use within 5 years before cancer diagnosis) was 1.37 (95% CI 1.27 to 1.48), and the elevated risk was significant for both estrogen-alone and estrogen plus progestin products.
+The exact duration of hormone therapy use associated with an increased risk of ovarian cancer, however, is unknown.
 
 ## 5.3 Probable Dementia
 
@@ -114,7 +117,7 @@ Since both ancillary studies were conducted in women 65 to 79 years of age, it i
 
 ## 5.4 Gallbladder Disease
 
-A 2-fold to 4-fold increase in the risk of gallbladder disease requiring surgery in postmenopausal women receiving estrogens has been reported.
+A 2- to 4-fold increase in the risk of gallbladder disease requiring surgery in postmenopausal women receiving estrogens has been reported.
 
 ## 5.5 Hypercalcemia
 
