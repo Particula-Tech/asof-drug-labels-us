@@ -18,7 +18,7 @@ The skin metabolizes estradiol only to a small extent.
 In contrast, orally administered estradiol is rapidly metabolized by the liver to estrone and its conjugates, giving rise to higher circulating levels of estrone than estradiol.
 Therefore, transdermal administration produces therapeutic plasma levels of estradiol with lower levels of estrone and estrone conjugates and requires smaller total doses than does oral therapy.
 
-### Absorption
+Absorption
 
 Estradiol is transported across intact skin and into the systemic circulation by a passive diffusion process, the rate of diffusion across the stratum corneum being the principal factor.
 Alora presents sufficient concentration of estradiol to the surface of the skin to maintain continuous transport over the 3 to 4 day dosing interval.
@@ -47,9 +47,9 @@ Table 1 Mean (SD) Pharmacokinetic Profile of Alora Over an 84-hour Dosing Interv
 | 0.05 | Abdomen | 20 | Multiple | 92 (33) | 43 (12) | 64 (19) | 54 (18) |
 | 0.075 | Abdomen | 20 | Multiple | 120 (60) | 53 (23) | 86 (40) | 53 (12) |
 | 0.1 | Abdomen | 42 | Multiple | 144 (57) | 58 (20) | 98 (38) | 61 (18) |
-| 0.05 | Abdomen | 31 | Single | 53 (23) | - | 41 (18) | 69 (22) |
-| Buttock | 31 | Single | 67 (45) | - | 45 (21) | 66 (23) |  |
-| Hip* | 31 | Single | 69 (30) | - | 48 (17) | 62 (18) |  |
+|  | Abdomen | 31 | Single | 53 (23) | - | 41 (18) | 69 (22) |
+| 0.05 | Buttock | 31 | Single | 67 (45) | - | 45 (21) | 66 (23) |
+|  | Hip* | 31 | Single | 69 (30) | - | 48 (17) | 62 (18) |
 
 *Cmax and Cavg statistically different from abdomen
 
@@ -68,14 +68,14 @@ Table 2 Mean (SD) steady-state estradiol serum concentrations (pg/ml) in clinica
 In a 2-year, randomized, double-blind, placebo-controlled, prevention of postmenopausal osteoporosis study in 355 hysterectomized women, the average baseline-adjusted steady-state estradiol serum concentrations were 18.6 pg/ml (45 patients) for the 0.025 mg/day dose, 35.9 pg/ml (47 patients) for the 0.05 mg/day dose, and 50.1 pg/ml (46 patients) for the 0.075 mg/day dose.
 These values were linearly related and dose proportional.
 
-### Distribution
+Distribution
 
 No specific investigation of the tissue distribution of estradiol absorbed from Alora in humans has been conducted.
 The distribution of exogenous estrogens is similar to that of endogenous estrogens.
 Estrogens are widely distributed in the body and are generally found in higher concentrations in the sex hormone target organs.
 Estrogens circulate in the blood largely bound to sex hormone binding globulin (SHBG) and albumin.
 
-### Metabolism
+Metabolism
 
 Exogenous estrogens are metabolized in the same manner as endogenous estrogens.
 Circulating estrogens exist in a dynamic equilibrium of metabolic interconversions.
@@ -84,7 +84,7 @@ Estradiol is converted reversibly to estrone, and both can be converted to estri
 Estrogens also undergo enterohepatic recirculation via sulfate and glucuronide conjugation in the liver, biliary secretion of conjugates into the intestine, and hydrolysis in the gut followed by reabsorption.
 In postmenopausal women a significant portion of the circulating estrogens exists as sulfate conjugates, especially estrone sulfate, which serves as a circulating reservoir for the formation of more active estrogens.
 
-### Excretion
+Excretion
 
 Estradiol, estrone and estriol are excreted in the urine along with glucuronide and sulfate conjugates.
 The apparent mean (SD) serum half-life of estradiol determined from biopharmaceutic studies conducted with Alora is 1.75 ± 2.87 hours.

@@ -1,10 +1,15 @@
-# PATIENT INFORMATION
+PATIENT INFORMATION
 
 Read this PATIENT INFORMATION before you start using Alora (ah-LORE-ah) and read what you get each time you refill Alora.
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your medical condition or your treatment.
 
-## What is Alora?
+WHAT IS THE MOST IMPORTANT INFORMATION I SHOULD KNOW ABOUT ALORA (AN ESTROGEN HORMONE)?
+
+| Estrogens increase the chances of getting cancer of the uterus. Report any unusual vaginal bleeding right away while you are taking estrogens. Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb). Your healthcare provider should check any unusual vaginal bleeding to find out the cause. Do not use estrogens with or without progestins to prevent heart disease, heart attacks, strokes, or dementia. Using estrogens with or without progestins may increase your chances of getting heart attack, strokes, breast cancer, and blood clots. Using estrogens with progestins may increase your risk of dementia. You and your healthcare provider should talk regularly about whether you still need treatment with Alora. |
+| --- |
+
+What is Alora?
 
 Alora is a patch that contains the estrogen hormone estradiol.
 When applied to the skin as directed below, the Alora patch releases estrogen through the skin into the abdomen.
@@ -34,7 +39,7 @@ Alora is used after menopause to:
   Weight-bearing exercise like walking and running, and taking calcium and vitamin D supplements may lower your chances of getting postmenopausal osteoporosis.
   It is important to talk about exercise and supplements with your healthcare provider before starting them.
 
-## Who Should Not Use Alora
+Who Should Not Use Alora
 
 Do not use Alora if you:
 
@@ -61,7 +66,7 @@ Tell your healthcare provider:
 - If you are going to have surgery or will be on bed rest.
   You may need to stop estrogens.
 
-## What Are the Possible Side Effects of Alora?
+What Are the Possible Side Effects of Alora?
 
 Less common but serious side effects include:
 
@@ -110,7 +115,7 @@ Other side effects include:
 These are not all the possible side effects of Alora.
 For more information, ask your healthcare provider or pharmacist.
 
-## What Can I Do to Lower My Chances of Getting a Serious Side Effect with Alora?
+What Can I Do to Lower My Chances of Getting a Serious Side Effect with Alora?
 
 - Talk with your healthcare provider regularly about whether you should continue using Alora.
 - If you have a uterus, talk to your healthcare provider right away about whether the addition of a progestin is right for you.
@@ -121,7 +126,7 @@ For more information, ask your healthcare provider or pharmacist.
 - If you have high blood pressure, high cholesterol (fat in the blood), diabetes, are overweight, or if you use tobacco, you may have higher chances for getting heart disease.
   Ask your healthcare provider for ways to lower your chances for getting heart disease.
 
-## How should I use Alora?
+How should I use Alora?
 
 Before you begin, read all the information in these 5 steps.
 
@@ -129,11 +134,11 @@ Step 1.
 Choose your schedule for twice-a-week application.
 
 Put on a new patch twice a week.
-Use one of the schedules on the inside flap of the patch box.
+Use one of the schedules on the patch box.
 
 For example, if you apply your first patch on Sunday, take that patch off on Wednesday and put on a new one.
 Stay on this schedule as long as you use Alora.
-To help remind yourself, mark the schedule on the inside flap of the patch box.
+To help remind yourself, mark the schedule on the patch box.
 Put a check next to the first day you apply the patch.
 When you change your patch, don’t put the new one in the same place.
 To help reduce the chance of skin redness or irritation, wait at least 1 week before you reuse a spot.
@@ -223,7 +228,7 @@ For Best Results, Stay with Your Patch Program
   You and your healthcare provider should talk regularly (for example, every 3 to 6 months) about whether you still need treatment with Alora.
 - Get your refills of the Alora patch before your supply runs out.
 
-## How should I store Alora?
+How should I store Alora?
 
 Store at 20-25°C (68-77°F).
 [See USP controlled room temperature.]
@@ -245,17 +250,27 @@ This leaflet provides a summary of the most important information about Alora.
 If you would like more information, talk with your healthcare provider.
 You can ask for information about Alora that is written for health professionals.
 
-## What are the ingredients in Alora?
+What are the ingredients in Alora?
 
 Each patch contains estradiol, USP as the active component.
 Inactive components of each patch include sorbitan monooleate, NF; acrylic adhesive; polyethylene film; and siliconized polyester film.
 
 Keep out of reach of children.
 
-For all medical inquiries contact: ACTAVIS Medical Communications Parsippany, NJ 07054 1-800-272-5525
+For all medical inquiries contact:
 
-Distributed By: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
+ACTAVIS
 
-Content Updated: August 2014
+Medical Communications
 
-200178-13
+Parsippany, NJ 07054
+
+1-800-272-5525
+
+Distributed By:
+
+Actavis Pharma, Inc.
+
+Parsippany, NJ 07054 USA
+
+Content Updated: 11/2017

@@ -30,10 +30,20 @@ Discard used Alora in household trash in a manner that prevents accidental appli
 
 Keep out of reach of children.
 
-For all medical inquiries contact: ACTAVIS Medical Communications Parsippany, NJ 07054 1-800-272-5525
+For all medical inquiries contact:
 
-Distributed By: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
+ACTAVIS
 
-Content Updated: November 2013
+Medical Communications
 
-200178-12
+Parsippany, NJ 07054
+
+1-800-272-5525
+
+Distributed By:
+
+Actavis Pharma, Inc.
+
+Parsippany, NJ 07054 USA
+
+Content Updated: 11/2017

@@ -104,7 +104,8 @@ If examination reveals papilledema or retinal vascular lesions, estrogens should
 
 ## A. General
 
-### 1. Addition of a progestin when a woman has not had a hysterectomy.
+1.
+Addition of a progestin when a woman has not had a hysterectomy.
 
 Studies of the addition of a progestin for 10 or more days of a cycle of estrogen administration, or daily with estrogen in a continuous regimen, have reported a lowered incidence of endometrial hyperplasia than would be induced by estrogen treatment alone.
 Endometrial hyperplasia may be a precursor to endometrial cancer.
@@ -112,55 +113,68 @@ Endometrial hyperplasia may be a precursor to endometrial cancer.
 There are, however, possible risks that may be associated with the use of progestins with estrogens compared to estrogen-alone regimens.
 These include:
 
-1. A possible increased risk of breast cancer
-2. Adverse effects on lipoprotein metabolism (e.g., lowering HDL, raising LDL)
-3. Impairment of glucose tolerance
+- A possible increased risk of breast cancer
+- Adverse effects on lipoprotein metabolism (e.g., lowering HDL, raising LDL)
+- Impairment of glucose tolerance
 
-### 2. Elevated blood pressure.
+2.
+Elevated blood pressure.
 
 In a small number of case reports, substantial increases in blood pressure have been attributed to idiosyncratic reactions to estrogens.
 In a large, randomized, placebo-controlled clinical trial, a generalized effect of estrogens on blood pressure was not seen.
 Blood pressure should be monitored at regular intervals with estrogen use.
 
-### 3. Hypertriglyceridemia.
+3.
+Hypertriglyceridemia.
 
 In patients with pre-existing hypertriglyceridemia, estrogen therapy may be associated with elevations of plasma triglycerides leading to pancreatitis and other complications.
 
-### 4. Impaired liver function and past history of cholestatic jaundice.
+4.
+Impaired liver function and past history of cholestatic jaundice.
 
 Estrogens may be poorly metabolized in patients with impaired liver function.
 For patients with a history of cholestatic jaundice associated with past estrogen use or with pregnancy, caution should be exercised and in the case of recurrence, medication should be discontinued.
 
-### 5. Hypothyroidism.
+5.
+Hypothyroidism.
 
 Estrogen administration leads to increased thyroid-binding globulin (TBG) levels.
 Patients with normal thyroid function can compensate for the increased TBG by making more thyroid hormone, thus maintaining free T4 and T3 serum concentrations in the normal range.
 Patients dependent on thyroid hormone replacement therapy who are also receiving estrogens may require increased doses of their thyroid replacement therapy.
 These patients should have their thyroid function monitored in order to maintain their free thyroid hormone levels in an acceptable range.
 
-### 6. Fluid retention.
+6.
+Fluid retention.
 
 Because estrogens may cause some degree of fluid retention, conditions which might be influenced by this factor, such as patients with asthma, epilepsy, migraine, and cardiac or renal dysfunction, warrant careful observation when estrogens are prescribed.
 
-### 7. Ovarian cancer.
+7.
+Ovarian cancer.
 
 The CE/MPA substudy of WHI reported that estrogen plus progestin increased the risk of ovarian cancer.
 After an average follow-up of 5.6 years, the relative risk for ovarian cancer for CE/MPA vs. placebo was 1.58 (95% confidence interval 0.77-3.24) but was not statistically significant.
 The absolute risk for CE/MPA vs. placebo was 4.2 vs. 2.7 cases per 10,000 women-years.
-In some epidemiologic studies, the use of estrogen alone, in particular for ten or more years, has been associated with an increased risk of ovarian cancer.
-Other epidemiologic studies have not found these associations.
 
-### 8. Exacerbation of endometriosis.
+A meta-analysis of 17 prospective and 35 retrospective epidemiology studies found that women who used hormonal therapy for menopausal symptoms had an increased risk for ovarian cancer.
+The primary analysis, using case-control comparisons, included 12,110 cancer cases from the 17 prospective studies.
+The relative risks associated with current use of hormonal therapy was 1.41 (95% confidence interval [CI] 1.32 to 1.50); there was no difference in the risk estimates by duration of the exposure (less than 5 years [median of 3 years] vs. greater than 5 years [median of 10 years] of use before the cancer diagnosis).
+The relative risk associated with combined current and recent use (discontinued use within 5 years before cancer diagnosis) was 1.37 (95% CI 1.27-1.48) and the elevated risk was significant for both estrogen-alone and estrogen plus progestin products.
+The exact duration of hormone therapy use associated with an increased risk of ovarian cancer, however, is unknown.
+
+8.
+Exacerbation of endometriosis.
 
 Endometriosis may be exacerbated with administration of estrogens.
 A few cases of malignant transformation of residual endometrial implants have been reported in women treated post-hysterectomy with estrogen alone therapy.
 For patients known to have residual endometriosis post-hysterectomy, the addition of progestin should be considered.
 
-### 9. Hypocalcemia.
+9.
+Hypocalcemia.
 
 Estrogens should be used with caution in individuals with severe hypocalcemia.
 
-### 10. Exacerbation of other conditions.
+10.
+Exacerbation of other conditions.
 
 Estrogens may cause an exacerbation of asthma, diabetes mellitus, epilepsy, migraine, porphyria, systemic lupus erythematosus, and hepatic hemangiomas and should be used with caution in women with these conditions.
 
@@ -176,17 +190,17 @@ Laboratory parameters may be useful in guiding dosage for the treatment of hypoe
 
 ## D. Drug/Laboratory Test Interactions
 
-1. Accelerated prothrombin time, partial thromboplastin time, and platelet aggregation time; increased platelet count; increased factors II, VII antigen, VIII antigen, VIII coagulant activity, IX, X, XII, VII-X complex, II-VII-X complex, and beta-thromboglobulin; decreased levels of anti-factor Xa and antithrombin III, decreased antithrombin III activity; increased levels of fibrinogen and fibrinogen activity; increased plasminogen antigen and activity.
-2. Increased thyroid-binding globulin (TBG) leading to increased circulating total thyroid hormone, as measured by protein-bound iodine (PBI), T4 levels (by column or by radioimmunoassay) or T3 levels by radioimmunoassay.
-   T3 resin uptake is decreased, reflecting the elevated TBG.
-   Free T4 and free T3 concentrations are unaltered.
-   Patients on thyroid replacement therapy may require higher doses of thyroid hormone.
-3. Other binding proteins may be elevated in serum, i.e., corticosteroid binding globulin (CBG), sex hormone-binding globulin (SHBG), leading to increased circulating corticosteroids and sex steroids, respectively.
-   Free hormone concentrations may be decreased.
-   Other plasma proteins may be increased (angiotensinogen/renin substrate, alpha-1-antitrypsin, ceruloplasmin).
-4. Increased plasma HDL and HDL2 cholesterol subfraction concentrations, reduced LDL cholesterol concentration, increased triglycerides levels.
-5. Impaired glucose tolerance.
-6. Reduced response to the metyrapone test.
+- Accelerated prothrombin time, partial thromboplastin time, and platelet aggregation time; increased platelet count; increased factors II, VII antigen, VIII antigen, VIII coagulant activity, IX, X, XII, VII-X complex, II-VII-X complex, and beta-thromboglobulin; decreased levels of anti-factor Xa and antithrombin III, decreased antithrombin III activity; increased levels of fibrinogen and fibrinogen activity; increased plasminogen antigen and activity.
+- Increased thyroid-binding globulin (TBG) leading to increased circulating total thyroid hormone, as measured by protein-bound iodine (PBI), T4 levels (by column or by radioimmunoassay) or T3 levels by radioimmunoassay.
+  T3 resin uptake is decreased, reflecting the elevated TBG.
+  Free T4 and free T3 concentrations are unaltered.
+  Patients on thyroid replacement therapy may require higher doses of thyroid hormone.
+- Other binding proteins may be elevated in serum, i.e., corticosteroid binding globulin (CBG), sex hormone-binding globulin (SHBG), leading to increased circulating corticosteroids and sex steroids, respectively.
+  Free hormone concentrations may be decreased.
+  Other plasma proteins may be increased (angiotensinogen/renin substrate, alpha-1-antitrypsin, ceruloplasmin).
+- Increased plasma HDL and HDL2 cholesterol subfraction concentrations, reduced LDL cholesterol concentration, increased triglycerides levels.
+- Impaired glucose tolerance.
+- Reduced response to the metyrapone test.
 
 ## E. Carcinogenesis, Mutagenesis, Impairment of Fertility
 
