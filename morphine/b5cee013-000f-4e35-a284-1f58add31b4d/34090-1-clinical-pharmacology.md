@@ -69,15 +69,15 @@ KADIAN capsules contain polymer coated extended-release pellets of morphine sulf
 Following the administration of oral morphine solution, approximately 50% of the morphine absorbed reaches the systemic circulation within 30 minutes compared to 8 hours with an equal amount of KADIAN.
 Because of pre-systemic elimination, only about 20 to 40% of the administered dose reaches the systemic circulation.
 
-Both dose-normalized Cmax and dose-normalized AUC0-48hr values of morphine after a single dose administration of KADIAN in healthy volunteers are less than those for morphine oral solution or an extended-release tablet formulation (Table 1).
+Both dose-normalized Cmax and dose-normalized AUC0-48hr values of morphine after a single dose administration of KADIAN in healthy volunteers are less than those for morphine oral solution or an extended-release tablet formulation (Table 2).
 
 When KADIAN was given twice daily to 24 patients with chronic pain due to malignancy, steady-state was achieved in about two days.
 At steady-state, KADIAN has a significantly lower Cmax and a higher Cmin than equivalent doses of oral morphine solution given every 4 hrs and an extended-release tablet given twice daily.
-When given once daily to 24 patients with malignancy, KADIAN had a similar Cmax and higher Cmin at steady-state when compared to an extended-release morphine tablets, given twice daily at an equivalent total daily dosage (see Table 1).
+When given once daily to 24 patients with malignancy, KADIAN had a similar Cmax and higher Cmin at steady-state when compared to an extended-release morphine tablets, given twice daily at an equivalent total daily dosage (see Table 2).
 
 The single-dose pharmacokinetics of KADIAN are linear over the dosage range of 30 to 100 mg.
 
-Table 1: Mean pharmacokinetic parameters (% coefficient variation) resulting from a fasting single dose study in normal volunteers and a multiple-dose study in patients with cancer pain.
+Table 2: Mean pharmacokinetic parameters (% coefficient variation) resulting from a fasting single dose study in normal volunteers and a multiple-dose study in patients with cancer pain.
 
 | Regimen/Dosage Form | AUC#,+ (ng•h/mL) | Cmax+ (ng/mL) | Tmax (h) | Cmin+ (ng/mL) | Fluctuation* |
 | --- | --- | --- | --- | --- | --- |
