@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA209637"
+  ],
+  "inn": "semaglutide",
+  "labeler": "Novo Nordisk",
+  "package_ndcs": [
+    "0169-4132-11",
+    "0169-4132-12",
+    "0169-4132-90",
+    "0169-4132-97",
+    "0169-4136-02",
+    "0169-4136-11"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "semaglutide",
+      "name": "Ozempic"
+    }
+  ],
+  "setid": "adec4fd2-6858-4c99-91d4-531f5f2a2d79",
+  "source": "dailymed"
+}

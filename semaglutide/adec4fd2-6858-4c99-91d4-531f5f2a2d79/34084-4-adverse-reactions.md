@@ -1,0 +1,130 @@
+# 6 ADVERSE REACTIONS
+
+The following serious adverse reactions are described below or elsewhere in the prescribing information:
+
+• Risk of Thyroid C-cell Tumors [see Warnings and Precautions (5.1)]
+
+• Pancreatitis [see Warnings and Precautions (5.2)]
+
+• Diabetic Retinopathy Complications [see Warnings and Precautions (5.3)]
+
+• Hypoglycemia with Concomitant Use of Insulin Secretagogues or Insulin [see Warnings and Precautions (5.5)]
+
+• Acute Kidney Injury [see Warnings and Precautions (5.6)]
+
+• Hypersensitivity [see Warnings and Precautions (5.7)]
+
+## 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+Pool of Placebo-Controlled Trials
+
+The data in Table 1 are derived from 2 placebo-controlled trials (1 monotherapy trial and 1 trial in combination with basal insulin) in patients with type 2 diabetes [see Clinical Studies (14)].
+These data reflect exposure of 521 patients to OZEMPIC and a mean duration of exposure to OZEMPIC of 32.9 weeks.
+Across the treatment arms, the mean age of patients was 56 years, 3.4% were 75 years or older and 55% were male.
+In these trials 71% were White, 7% were Black or African American, and 19% were Asian; 21% identified as Hispanic or Latino ethnicity.
+At baseline, patients had type 2 diabetes for an average of 8.8 years and had a mean HbA1c of 8.2%.
+At baseline, 8.9% of the population reported retinopathy.
+Baseline estimated renal function was normal (eGFR ≥90 mL/min/1.73m2) in 57.2%, mildly impaired (eGFR 60 to 90 mL/min/1.73m2) in 35.9% and moderately impaired (eGFR 30 to 60 mL/min/1.73m2) in 6.9% of patients.
+
+Pool of Placebo- and Active-Controlled Trials
+
+The occurrence of adverse reactions was also evaluated in a larger pool of patients with type 2 diabetes
+
+participating in 7 placebo- and active-controlled glycemic control trials [see Clinical Studies (14)] including two trials in Japanese patients evaluating the use of OZEMPIC as monotherapy and add-on therapy to oral medications or insulin.
+In this pool, a total of 3150 patients with type 2 diabetes were treated with OZEMPIC for a mean duration of 44.9 weeks.
+Across the treatment arms, the mean age of patients was 57 years, 3.2% were 75 years or older and 57% were male.
+In these trials, 60% were White, 6% were Black or African American, and 31% were Asian; 16% identified as Hispanic or Latino ethnicity.
+At baseline, patients had type 2 diabetes for an average of 8.2 years and had a mean HbA1c of 8.2%.
+At baseline, 7.8% of the population reported retinopathy.
+Baseline estimated renal function was normal (eGFR ≥90 mL/min/1.73m2) in 63.1%, mildly impaired (eGFR 60 to 90 mL/min/1.73m2) in 34.3%, and moderately impaired (eGFR 30 to 60 mL/min/1.73m2) in 2.5% of the patients.
+
+Common Adverse Reactions
+
+Table 1 shows common adverse reactions, excluding hypoglycemia, associated with the use of OZEMPIC in the pool of placebo-controlled trials.
+These adverse reactions occurred more commonly on OZEMPIC than on placebo, and occurred in at least 5% of patients treated with OZEMPIC.
+
+Table 1.
+Adverse Reactions in Placebo-Controlled Trials Reported in ≥5% of OZEMPIC-Treated Patients with Type 2 Diabetes Mellitus
+
+| Adverse Reaction | Placebo(N=262)% | OZEMPIC 0.5 mg(N=260)% | OZEMPIC 1 mg(N=261)% |
+| --- | --- | --- | --- |
+| Nausea | 6.1 | 15.8 | 20.3 |
+| Vomiting | 2.3 | 5.0 | 9.2 |
+| Diarrhea | 1.9 | 8.5 | 8.8 |
+| Abdominal pain | 4.6 | 7.3 | 5.7 |
+| Constipation | 1.5 | 5.0 | 3.1 |
+
+In the pool of placebo- and active-controlled trials and in the 2-year cardiovascular outcomes trial, the types and frequency of common adverse reactions, excluding hypoglycemia, were similar to those listed in Table 1.
+
+Gastrointestinal Adverse Reactions
+
+In the pool of placebo-controlled trials, gastrointestinal adverse reactions occurred more frequently among patients receiving OZEMPIC than placebo (placebo 15.3%, OZEMPIC 0.5 mg 32.7%, OZEMPIC 1 mg 36.4%).
+The majority of reports of nausea, vomiting, and/or diarrhea occurred during dose escalation.
+More patients receiving OZEMPIC 0.5 mg (3.1%) and OZEMPIC 1 mg (3.8%) discontinued treatment due to gastrointestinal adverse reactions than patients receiving placebo (0.4%).
+
+1. In addition to the reactions in Table 1, the following gastrointestinal adverse reactions with a frequency of <5% were associated with OZEMPIC (frequencies listed, respectively, as: placebo; 0.5 mg; 1 mg): dyspepsia (1.9%, 3.5%, 2.7%), eructation (0%, 2.7%, 1.1%), flatulence (0.8%, 0.4%, 1.5%), gastroesophageal reflux disease (0%, 1.9%, 1.5%), and gastritis (0.8%, 0.8%, 0.4%).
+
+Other Adverse Reactions
+
+Hypoglycemia
+
+Table 2 summarizes the incidence of events related to hypoglycemia by various definitions in the placebo-controlled trials.
+
+Table 2.
+Hypoglycemia Adverse Reactions in Placebo-Controlled Trials In Patients with Type 2 Diabetes Mellitus
+
+|  | Placebo | OZEMPIC 0.5 mg | OZEMPIC 1 mg |
+| --- | --- | --- | --- |
+| Monotherapy |  |  |  |
+| (30 weeks) | N=129 | N=127 | N=130 |
+| Severe† | 0% | 0% | 0% |
+| Documented symptomatic (≤70 mg/dL glucose threshold) | 0% | 1.6% | 3.8% |
+| Severe† or Blood Glucose Confirmed Symptomatic (≤56 mg/dL glucose threshold) | 1.6% | 0% | 0% |
+| Add-on to Basal Insulin with or without Metformin |  |  |  |
+| (30 weeks) | N=132 | N=132 | N=131 |
+| Severe† | 0% | 0% | 1.5% |
+| Documented symptomatic (≤70 mg/dL glucose threshold) | 15.2% | 16.7% | 29.8% |
+| Severe† or Blood Glucose Confirmed Symptomatic (≤56 mg/dL glucose threshold) | 5.3% | 8.3% | 10.7% |
+
+† “Severe” hypoglycemia adverse reactions are episodes requiring the assistance of another person.
+
+Hypoglycemia was more frequent when OZEMPIC was used in combination with a sulfonylurea [see Warnings and Precautions (5.5) and Clinical Studies (14)].
+Severe hypoglycemia occurred in 0.8% and 1.2% of patients when OZEMPIC 0.5 mg and 1 mg, respectively, was co-administered with a sulfonylurea.
+Documented symptomatic hypoglycemia occurred in 17.3% and 24.4% of patients when OZEMPIC 0.5 mg and 1 mg, respectively, was co-administered with a sulfonylurea.
+Severe or blood glucose confirmed symptomatic hypoglycemia occurred in 6.5% and 10.4% of patients when OZEMPIC 0.5 mg and 1 mg, respectively, was co-administered with a sulfonylurea.
+
+Injection Site Reactions
+
+In placebo-controlled trials, injection site reactions (e.g., injection-site discomfort, erythema) were reported in 0.2% of OZEMPIC-treated patients.
+
+Increases in Amylase and Lipase
+
+In placebo-controlled trials, patients exposed to OZEMPIC had a mean increase from baseline in amylase of 13% and lipase of 22%.
+These changes were not observed in placebo-treated patients.
+
+Cholelithiasis
+
+In placebo-controlled trials, cholelithiasis was reported in 1.5% and 0.4% of patients-treated with OZEMPIC 0.5 mg and 1 mg, respectively.
+Cholelithiasis was not reported in placebo-treated patients.
+
+Increases in Heart Rate
+
+In placebo-controlled trials, OZEMPIC 0.5 mg and 1 mg resulted in a mean increase in heart rate of 2 to 3 beats per minute.
+There was a mean decrease in heart rate of 0.3 beats per minute in placebo-treated patients.
+
+Fatigue, Dysgeusia and Dizziness
+
+Other adverse reactions with a frequency of >0.4% were associated with OZEMPIC include fatigue, dysgeusia and dizziness.
+
+## 6.2 Immunogenicity
+
+Consistent with the potentially immunogenic properties of protein and peptide pharmaceuticals, patients treated with OZEMPIC may develop anti-semaglutide antibodies.
+The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay.
+Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
+For these reasons, the incidence of antibodies to semaglutide in the studies described below cannot be directly compared with the incidence of antibodies in other studies or to other products.
+
+Across the placebo- and active-controlled glycemic control trials, 32 (1.0%) OZEMPIC-treated patients developed anti-drug antibodies (ADAs) to the active ingredient in OZEMPIC (i.e., semaglutide).
+Of the 32 semaglutide-treated patients that developed semaglutide ADAs, 19 patients (0.6% of the overall population) developed antibodies cross-reacting with native GLP-1.
+The in vitro neutralizing activity of the antibodies is uncertain at this time.

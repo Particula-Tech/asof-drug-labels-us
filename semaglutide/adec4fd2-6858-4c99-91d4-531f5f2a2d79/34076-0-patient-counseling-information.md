@@ -1,0 +1,76 @@
+# 17 PATIENT COUNSELING INFORMATION
+
+Advise the patient to read the FDA-approved patient labeling (Medication Guide and Instructions for Use).
+
+Risk of Thyroid C-cell Tumors
+
+Inform patients that semaglutide causes thyroid C-cell tumors in rodents and that the human relevance of this finding has not been determined.
+Counsel patients to report symptoms of thyroid tumors (e.g., a lump in the neck, hoarseness, dysphagia, or dyspnea) to their physician [see Boxed Warning and Warnings and Precautions (5.1)].
+
+Pancreatitis
+
+Inform patients of the potential risk for pancreatitis.
+Instruct patients to discontinue OZEMPIC promptly and contact their physician if pancreatitis is suspected (severe abdominal pain that may radiate to the back, and which may or may not be accompanied by vomiting) [see Warnings and Precautions (5.2)].
+
+Diabetic Retinopathy Complications
+
+Inform patients to contact their physician if changes in vision are experienced during treatment with OZEMPIC [see Warnings and Precautions (5.3)].
+
+Never Share an OZEMPIC Pen Between Patients
+
+Advise patients that they must never share an OZEMPIC pen with another person, even if the needle is changed, because doing so carries a risk for transmission of blood-borne pathogens [see Warnings and Precautions (5.4)].
+
+Dehydration and Renal Failure
+
+Advise patients treated with OZEMPIC of the potential risk of dehydration due to gastrointestinal adverse reactions and take precautions to avoid fluid depletion.
+Inform patients of the potential risk for worsening renal function and explain the associated signs and symptoms of renal impairment, as well as the possibility of dialysis as a medical intervention if renal failure occurs [see Warnings and Precautions (5.6)].
+
+Hypersensitivity Reactions
+
+Inform patients to stop taking OZEMPIC and seek medical advice promptly if symptoms of hypersensitivity reactions occur [see Warnings and Precautions (5.7)].
+
+Pregnancy
+
+Advise a pregnant woman of the potential risk to a fetus.
+Advise women to inform their healthcare provider if they are pregnant or intend to become pregnant [see Use in SpecificPopulations (8.1), (8.3)].
+
+Instructions
+
+Inform patients of the potential risks and benefits of OZEMPIC and of alternative modes of therapy.
+Inform patients about the importance of adherence to dietary instructions, regular physical activity, periodic blood glucose monitoring and A1c testing, recognition and management of hypoglycemia and hyperglycemia, and assessment for diabetes complications.
+Advise patients to seek medical advice promptly during periods of stress such as fever, trauma, infection, or surgery as medication requirements may change.
+
+Advise patients that the most common side effects of OZEMPIC are nausea, vomiting, diarrhea, abdominal pain and constipation.
+Inform patients that nausea, vomiting and diarrhea are most common when first starting OZEMPIC, but decreases over time in the majority of patients.
+
+Instruct patients to reread the Medication Guide each time the prescription is renewed.
+
+Inform patients if a dose is missed, it should be administered as soon as possible within 5 days after the missed dose.
+If more than 5 days have passed, the missed dose should be skipped and the next dose should be administered on the regularly scheduled day.
+In each case, inform patients to resume their regular once weekly dosing schedule [see Dosage and Administration (2.1)].
+
+Manufactured by: Novo Nordisk A/S
+
+DK-2880 Bagsvaerd
+
+Denmark
+
+For information about OZEMPIC contact:
+
+Novo Nordisk Inc.
+
+800 Scudders Mill Road
+
+Plainsboro, NJ 08536
+
+1-888-693-6742
+
+Date of Issue: December 2017
+
+Version: 1
+
+OZEMPIC® and NovoFine® are registered trademarks of Novo Nordisk A/S.
+
+PATENT INFORMATION: http://novonordisk-us.com/patients/products/product-patents.html
+
+© 2017 Novo Nordisk
