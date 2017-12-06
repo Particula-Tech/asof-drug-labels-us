@@ -9,4 +9,4 @@ Ask patients to report pregnancies to their physicians as soon as possible [see 
 Angioedema: Advise patients to discontinue use of their previous ACE inhibitor or ARB.
 Advise patients to allow a 36 hour wash-out period if switching from or to an ACE inhibitor [see Contraindications (4) and Warnings and Precautions (5.2)].
 
-T2015-130
+T2017-112

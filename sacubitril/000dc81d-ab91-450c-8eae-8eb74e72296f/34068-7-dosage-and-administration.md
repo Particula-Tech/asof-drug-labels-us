@@ -16,7 +16,7 @@ Double the dose of ENTRESTO every 2 to 4 weeks to the target maintenance dose of
 
 ## 2.3 Dose Adjustment for Severe Renal Impairment
 
-A starting dose of 24/26 mg twice-daily is recommended for patients with severe renal impairment (eGFR <30 mL/min/1.73 m2).
+A starting dose of 24/26 mg twice-daily is recommended for patients with severe renal impairment (eGFR < 30 mL/min/1.73 m2).
 Double the dose of ENTRESTO every 2 to 4 weeks to the target maintenance dose of 97/103 mg twice daily, as tolerated by the patient.
 
 No starting dose adjustment is needed for mild or moderate renal impairment.

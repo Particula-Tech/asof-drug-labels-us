@@ -13,7 +13,7 @@ Mutagenicity and clastogenicity studies conducted with ENTRESTO, sacubitril, and
 
 Impairment of Fertility
 
-ENTRESTO did not show any effects on fertility in rats up to a dose of 73 mg sacubitril/77 mg valsartan/kg/day (≤1.0-fold and ≤ 0.18-fold the MRHD on the basis of the AUCs of valsartan and LBQ657, respectively).
+ENTRESTO did not show any effects on fertility in rats up to a dose of 73 mg sacubitril/77 mg valsartan/kg/day (≤ 1.0-fold and ≤ 0.18-fold the MRHD on the basis of the AUCs of valsartan and LBQ657, respectively).
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 

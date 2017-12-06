@@ -20,9 +20,9 @@ In the double-blind period, safety was evaluated in 4,203 patients treated with 
 In PARADIGM-HF, patients randomized to ENTRESTO received treatment for up to 4.3 years, with a median duration of exposure of 24 months; 3,271 patients were treated for more than one year.
 Discontinuation of therapy because of an adverse event during the double-blind period occurred in 450 (10.7%) of ENTRESTO treated patients and 516 (12.2%) of patients receiving enalapril.
 
-Adverse reactions occurring at an incidence of ≥5% in patients who were treated with ENTRESTO in the double-blind period are shown in Table 1.
+Adverse reactions occurring at an incidence of ≥ 5% in patients who were treated with ENTRESTO in the double-blind period are shown in Table 1.
 
-Table 1: Adverse Reactions Reported in ≥5% of Patients Treated with ENTRESTO in the Double-Blind Period
+Table 1: Adverse Reactions Reported in ≥ 5% of Patients Treated with ENTRESTO in the Double-Blind Period
 
 |  | ENTRESTO (n = 4,203) % | Enalapril (n = 4,229) % |
 | --- | --- | --- |
@@ -43,14 +43,21 @@ Laboratory Abnormalities
 
 Hemoglobin and Hematocrit
 
-Decreases in hemoglobin/hematocrit of >20% were observed in approximately 5% of both ENTRESTO- and enalapril-treated patients in the double-blind period in PARADIGM-HF.
+Decreases in hemoglobin/hematocrit of > 20% were observed in approximately 5% of both ENTRESTO- and enalapril-treated patients in the double-blind period in PARADIGM-HF.
 
 Serum Creatinine
 
-Increases in serum creatinine of >50% were observed in 1.4% of patients in the enalapril run-in period and 2.2% of patients in the ENTRESTO run-in period.
-During the double-blind period, approximately 16% of both ENTRESTO- and enalapril-treated patients had increases in serum creatinine of >50%.
+Increases in serum creatinine of > 50% were observed in 1.4% of patients in the enalapril run-in period and 2.2% of patients in the ENTRESTO run-in period.
+During the double-blind period, approximately 16% of both ENTRESTO- and enalapril-treated patients had increases in serum creatinine of > 50%.
 
 Serum Potassium
 
-Potassium concentrations >5.5 mEq/L were observed in approximately 4% of patients in both the enalapril and ENTRESTO run-in periods.
-During the double-blind period, approximately 16% of both ENTRESTO- and enalapril-treated patients had potassium concentrations >5.5 mEq/L.
+Potassium concentrations > 5.5 mEq/L were observed in approximately 4% of patients in both the enalapril and ENTRESTO run-in periods.
+During the double-blind period, approximately 16% of both ENTRESTO- and enalapril-treated patients had potassium concentrations > 5.5 mEq/L.
+
+## 6.2 Postmarketing Experience
+
+The following additional adverse reactions have been reported in postmarketing experience.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Hypersensitivity including rash, pruritus, and anaphylactic reaction

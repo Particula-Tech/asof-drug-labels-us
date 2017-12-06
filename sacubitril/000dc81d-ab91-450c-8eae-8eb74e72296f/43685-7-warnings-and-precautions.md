@@ -21,7 +21,8 @@ Where there is involvement of the tongue, glottis or larynx, likely to cause air
 ENTRESTO has been associated with a higher rate of angioedema in Black than in non-Black patients.
 
 Patients with a prior history of angioedema may be at increased risk of angioedema with ENTRESTO [see Adverse Reactions (6.1)].
-ENTRESTO should not be used in patients with a known history of angioedema related to previous ACE inhibitor or ARB therapy [see Contraindications (4)].
+ENTRESTO must not be used in patients with a known history of angioedema related to previous ACE inhibitor or ARB therapy [see Contraindications (4)].
+ENTRESTO should not be used in patients with hereditary angioedema.
 
 ## 5.3 Hypotension
 

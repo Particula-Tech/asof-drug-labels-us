@@ -22,7 +22,7 @@ Amyloid-β: Neprilysin is one of multiple enzymes involved in the clearance of a
 Administration of ENTRESTO 194 mg sacubitril/206 mg valsartan once-daily for 2 weeks to healthy subjects was associated with an increase in CSF Aβ1-38 compared to placebo; there were no changes in concentrations of CSF Aβ1-40 or CSF Aβ1-42.
 The clinical relevance of this finding is unknown [see Nonclinical Toxicology (13)].
 
-Blood Pressure: Addition of a 50 mg single dose of sildenafil to ENTRESTO at steady state (194 mg sacubitril/206 mg valsartan mg once daily for 5 days) in patients with hypertension was associated with additional blood pressure (BP) reduction (~5/4 mmHg, systolic/diastolic BP) compared to administration of ENTRESTO alone.
+Blood Pressure: Addition of a 50 mg single dose of sildenafil to ENTRESTO at steady state (194 mg sacubitril/206 mg valsartan once daily for 5 days) in patients with hypertension was associated with additional blood pressure (BP) reduction (~ 5/4 mmHg, systolic/diastolic BP) compared to administration of ENTRESTO alone.
 
 Co-administration of ENTRESTO did not significantly alter the BP effect of intravenous nitroglycerin.
 
@@ -56,7 +56,7 @@ A hydroxyl metabolite has been identified in plasma at low concentrations (< 10%
 
 Elimination
 
-Following oral administration, 52% to 68% of sacubitril (primarily as LBQ657) and ~13% of valsartan and its metabolites are excreted in urine; 37% to 48% of sacubitril (primarily as LBQ657), and 86% of valsartan and its metabolites are excreted in feces.
+Following oral administration, 52% to 68% of sacubitril (primarily as LBQ657) and ~ 13% of valsartan and its metabolites are excreted in urine; 37% to 48% of sacubitril (primarily as LBQ657), and 86% of valsartan and its metabolites are excreted in feces.
 Sacubitril, LBQ657, and valsartan are eliminated from plasma with a mean elimination half-life (T1/2) of approximately 1.4 hours, 11.5 hours, and 9.9 hours, respectively.
 
 Linearity/Nonlinearity
@@ -65,12 +65,12 @@ The pharmacokinetics of sacubitril, LBQ657, and valsartan were linear over an EN
 
 Drug Interactions:
 
-Effect of co-administered drugs on ENTRESTO:
+Effect of Co-administered Drugs on ENTRESTO:
 
 Because CYP450 enzyme-mediated metabolism of sacubitril and valsartan is minimal, coadministration with drugs that impact CYP450 enzymes is not expected to affect the pharmacokinetics of ENTRESTO.
 Dedicated drug interaction studies demonstrated that coadministration of furosemide, warfarin, digoxin, carvedilol, a combination of levonorgestrel/ethinyl estradiol, amlodipine, omeprazole, hydrochlorothiazide (HCTZ), metformin, atorvastatin, and sildenafil, did not alter the systemic exposure to sacubitril, LBQ657 or valsartan.
 
-Effect of ENTRESTO on co-administered drugs:
+Effect of ENTRESTO on Co-administered Drugs:
 
 In vitro data indicate that sacubitril inhibits OATP1B1 and OATP1B3 transporters.
 The effects of ENTRESTO on the pharmacokinetics of coadministered drugs are summarized in Figure 1.

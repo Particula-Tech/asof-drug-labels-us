@@ -57,7 +57,7 @@ Safety and effectiveness in pediatric patients have not been established.
 
 ## 8.5 Geriatric Use
 
-No relevant pharmacokinetic differences have been observed in elderly (≥65 years) or very elderly (≥75 years) patients compared to the overall population [see Clinical Pharmacology (12.3)].
+No relevant pharmacokinetic differences have been observed in elderly (≥ 65 years) or very elderly (≥ 75 years) patients compared to the overall population [see Clinical Pharmacology (12.3)].
 
 ## 8.6 Hepatic Impairment
 
@@ -68,4 +68,4 @@ The use of ENTRESTO in patients with severe hepatic impairment (Child-Pugh C cla
 ## 8.7 Renal Impairment
 
 No dose adjustment is required in patients with mild (eGFR 60 to 90 mL/min/1.73 m2) to moderate (eGFR 30 to 60 mL/min/1.73 m2) renal impairment.
-The recommended starting dose in patients with severe renal impairment (eGFR <30 mL/min/1.73 m2) is 24/26 mg twice daily [see Dosage and Administration (2.3), Warnings and Precautions (5.4) and Clinical Pharmacology (12.3)].
+The recommended starting dose in patients with severe renal impairment (eGFR < 30 mL/min/1.73 m2) is 24/26 mg twice daily [see Dosage and Administration (2.3), Warnings and Precautions (5.4) and Clinical Pharmacology (12.3)].
