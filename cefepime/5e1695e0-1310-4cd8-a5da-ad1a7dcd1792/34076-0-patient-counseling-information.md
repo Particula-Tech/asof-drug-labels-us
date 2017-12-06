@@ -14,4 +14,4 @@ The brand names mentioned in this document are the trademarks of their respectiv
 
 Manufactured for:
 
-Lake Zurich, IL 60047 Made in Brazil www.fresenius-kabi.us 451128K Revised: August 2016
+Lake Zurich, IL 60047 Made in Brazil www.fresenius-kabi.com/us 451128L Revised: August 2017
