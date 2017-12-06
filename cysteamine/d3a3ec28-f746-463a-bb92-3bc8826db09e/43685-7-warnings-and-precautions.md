@@ -17,7 +17,7 @@ If severe skin rashes develop, permanently discontinue use of PROCYSBI [see Cont
 
 Gastrointestinal (GI) ulceration and bleeding have been reported in patients receiving immediate-release cysteamine bitartrate.
 GI tract symptoms including nausea, vomiting, anorexia and abdominal pain, sometimes severe, have been associated with cysteamine.
-If severe GI tract symptoms develop, consider decreasing the dose of PROCYSBI [see Dosage and Administration (2.1)].
+If severe GI tract symptoms develop, consider decreasing the dose of PROCYSBI [see Dosage and Administration (2.1, 2.4)].
 
 ## 5.4 Central Nervous System Symptoms
 

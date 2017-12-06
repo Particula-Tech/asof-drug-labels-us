@@ -2,9 +2,11 @@
 
 ## 16.1 How Supplied
 
-- 25 mg Delayed-release Capsule: A hard gelatin capsule with light blue opaque cap imprinted with "PRO" in white ink and light blue opaque body imprinted with "25 mg" in white ink, supplied as bottle of 60 capsules (NDC 75987-100-04).
+PROCYSBI (cysteamine bitartrate) delayed-release capsules
+
+- 25 mg cysteamine: A hard gelatin capsule with light blue opaque cap imprinted with "PRO" in white ink and light blue opaque body imprinted with "25 mg" in white ink, supplied as bottle of 60 capsules (NDC 75987-100-04).
   Each bottle contains one desiccant canister and one oxygen absorber canister.
-- 75 mg Delayed-release Capsule: A hard gelatin capsule with dark blue opaque cap imprinted with "PRO" in white ink and light blue opaque body imprinted with "75 mg" in white ink, supplied as bottle of 250 capsules (NDC 75987-101-08).
+- 75 mg cysteamine: A hard gelatin capsule with dark blue opaque cap imprinted with "PRO" in white ink and light blue opaque body imprinted with "75 mg" in white ink, supplied as bottle of 250 capsules (NDC 75987-101-08).
   Each bottle contains one desiccant canister and two oxygen absorber canisters.
 
 ## 16.2 Instructions for the Pharmacist

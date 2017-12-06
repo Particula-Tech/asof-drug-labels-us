@@ -51,10 +51,10 @@ Prior to randomization, patients were to be on a stable dose of immediate-releas
 PROCYSBI dose adjustments of up to approximately 100% of the total daily dose of immediate-release cysteamine bitartrate were allowed by trial criteria.
 The average total daily dose of PROCYSBI for patients completing the clinical trial was approximately 91% of the average total daily dose of immediate-release cysteamine bitartrate for patients at trial entry.
 
-This trial demonstrated that at steady-state, PROCYSBI administered every 12 hours was non-inferior to immediate-release cysteamine bitartrate administered every 6 hours with respect to the depletion of WBC cystine concentrations (Table 5).
+This trial demonstrated that at steady-state, PROCYSBI administered every 12 hours was non-inferior to immediate-release cysteamine bitartrate administered every 6 hours with respect to the depletion of WBC cystine concentrations (Table 4).
 Using a linear mixed effects statistical analysis model, the least-square-mean value of WBC cystine was 0.52 ± 0.06 nmol ½ cystine/mg protein after 12 hours under PROCYSBI and 0.44 ± 0.06 nmol ½ cystine/mg protein after 6 hours under immediate-release cysteamine; a difference of 0.08 ± 0.03 nmol ½ cystine/mg protein (95.8% Confidence Interval = 0.01 to 0.15).
 
-Table 5: Comparison of WBC cystine concentrations in open-label, randomized, cross-over clinical trial participants, who were on a stable dose of immediate-release cysteamine prior to randomization, with WBC cystine less than 2 nmol ½ cystine/mg protein throughout the trial Per–Protocol (PP) Population (N=39)
+Table 4: Comparison of WBC cystine concentrations in open-label, randomized, cross-over clinical trial participants, who were on a stable dose of immediate-release cysteamine prior to randomization, with WBC cystine less than 2 nmol ½ cystine/mg protein throughout the trial Per–Protocol (PP) Population (N=39)
 
 |  | Immediate-release cysteamine bitartrate | PROCYSBI |
 | --- | --- | --- |

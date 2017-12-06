@@ -23,10 +23,10 @@ Forty-three patients, ages 7 to 24 years old, received PROCYSBI in an 8-week, op
 Forty of 43 patients continued PROCYSBI treatment in an open-label extension trial, and were treated with PROCYSBI for longer than 2 years.
 An additional 19 patients (6 transplanted patients and 13 patients aged 2 to 6 years) were enrolled directly into this trial and were treated with PROCYSBI for up to 18 months.
 
-In the open-label, randomized, cross-over trial, a higher incidence of adverse reactions was reported in patients during the PROCYSBI treatment period compared with the immediate-release cysteamine treatment period (see Table 3).
+In the open-label, randomized, cross-over trial, a higher incidence of adverse reactions was reported in patients during the PROCYSBI treatment period compared with the immediate-release cysteamine treatment period (see Table 2).
 Other significant adverse reactions reported during clinical trials included hypersensitivity reactions, including anaphylaxis.
 
-Table 3: Adverse reactions that occurred in ≥5% of patients in the randomized, cross-over clinical trial
+Table 2: Adverse reactions that occurred in ≥5% of patients in the randomized, cross-over clinical trial
 
 | (n = 41) % | (n = 43) % |  |
 | --- | --- | --- |

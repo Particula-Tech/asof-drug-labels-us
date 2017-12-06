@@ -7,18 +7,17 @@
 - Patients switching from immediate-release cysteamine: Start the total daily dosage of PROCYSBI at a dosage equal to the previous total daily dosage of immediate-release cysteamine [see Dosage and Administration (2.3)].
 - If adverse reactions occur, decrease the PROCYSBI dosage.
 - After the maintenance dosage of PROCYSBI is achieved: The dosage may need to be further increased to achieve a therapeutic target WBC cystine concentration.
-  The maximum daily dosage of PROCYSBI is 1.95 grams/m2 of body surface area per day [see Dosage and Administration (2.4, 2.5)].
+  The maximum dosage of PROCYSBI is 1.95 grams/m2 of body surface area per day [see Dosage and Administration (2.4, 2.5)].
 - Round dose calculations to the nearest incremental dosage that can be administered using the available capsule strengths.
   Only use whole capsules.
 
-## 2.2 Dosing in Cysteamine-Naïve Patients
+## 2.2 Starting and Maintenance Dosing in Cysteamine-Naïve Patients
 
 - Start treatment with a dosage equal to ⅙ to ¼ of the maintenance dosage.
 - The maintenance dosage after initial dose escalation is 1.3 g/m2 of body surface area per day divided into two doses given every 12 hours.
-  Table 1 shows the recommended starting dose of PROCYSBI, converted from body-surface area to body weight using available capsule strengths.
+  Table 1 shows the recommended starting dose of PROCYSBI, converted from body-surface area to body weight.
 - Gradually increase the dosage over 4 to 6 weeks until the maintenance dosage is achieved.
-  Table 1 also shows the recommended maintenance dosage.
-  The maximum dosage is 1000 mg every 12 every hours in patients weighing more than 50 kg.
+  Table 1 also shows the recommended maintenance dosage [see Dosage and Administration (2.4, 2.5)].
 - For patients who have initial intolerance, temporarily discontinue PROCYSBI and then re-start at a lower dosage and gradually increase to the maintenance dosage.
 - Measure the WBC cystine concentration after reaching a maintenance dosage and adjust the dosage as needed to achieve a therapeutic target WBC cystine concentration [see Dosage and Administration (2.5)].
 
@@ -73,7 +72,7 @@ Table 1: Starting and Maintenance Dosage of PROCYSBI by Body Weight in Cysteamin
 
 - Swallow PROCYSBI capsules whole.
 - Do not crush or chew capsules or capsule contents.
-- Take PROCYSBI capsules with fruit juice (except grapefruit juice).
+- Take PROCYSBI capsules with fruit juice (except grapefruit juice) or water.
 - Administer PROCYSBI at least 1 hour before or 1 hour after medications containing bicarbonate or carbonate [see Drug Interactions (7.1)].
 - Do not eat for at least 2 hours before taking PROCYSBI and for at least 30 minutes after to maximize absorption.
   If patients are unable to take PROCYSBI without eating, take with food and limit the amount of food to approximately 4 ounces (1∕2 cup) within 1 hour before taking PROCYSBI through 1 hour after taking PROCYSBI.

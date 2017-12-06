@@ -40,7 +40,7 @@ Administration
 - Advise patients and caregivers to follow the instruction below for taking PROCYSBI capsules whole.
   - Swallow PROCYSBI capsules whole.
     Do not crush or chew capsules or capsule contents
-  - Take PROCYSBI capsules with fruit juice (except grapefruit juice)
+  - Take PROCYSBI capsules with fruit juice (except grapefruit juice) or water
 - Administer PROCYSBI at least 1 hour before or 1 hour after medications containing bicarbonate or carbonate
 - Do not eat for at least 2 hours before and for at least 30 minutes after taking PROCYSBI.
   If unable to take PROCYSBI without eating, take with food but limit the amount of food to approximately 4 ounces (1∕2 cup) 1 hour before through 1 hour after administration.

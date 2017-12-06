@@ -2,9 +2,8 @@
 
 ## 7.1 Drugs that Increase Gastric pH
 
-Drugs that increase the gastric pH (e.g., proton pump inhibitors, medications containing bicarbonate or carbonate) may alter the pharmacokinetics of cysteamine due to the premature release of cysteamine from PROCYSBI and increase WBC cystine concentration.
-Concomitant administration of 20 mg omeprazole did not significantly affect the pharmacokinetics of cysteamine when PROCYSBI was administered with 240 mL of orange juice [see Clinical Pharmacology (12.3)].
-The effect of omeprazole on the pharmacokinetics of cysteamine was not studied after PROCYSBI administration with water.
+Drugs that increase the gastric pH (e.g., medications containing bicarbonate or carbonate) may alter the pharmacokinetics of cysteamine due to the premature release of cysteamine from PROCYSBI and increase WBC cystine concentration.
+Concomitant administration of 20 mg omeprazole did not affect the pharmacokinetics of cysteamine when PROCYSBI was administered with 240 mL of orange juice or with 240 mL of water [see Clinical Pharmacology (12.3)].
 Monitor WBC cystine concentration when drugs that increase the gastric pH are concomitantly used [see Dosage and Administration (2.5)].
 
 ## 7.2 Use with Alcohol

@@ -18,10 +18,10 @@ The cystine concentration in nmol ½ cystine/mg protein was calculated by multip
 ## 12.3 Pharmacokinetics
 
 The pharmacokinetics of PROCYSBI were evaluated in 43 patients with cystinosis and with an estimated glomerular filtration rate of > 30 mL/minutes/1.73 m2.
-Table 4 shows the mean PK parameters for PROCYSBI and immediate-release cysteamine bitartrate after one dose at steady state.
+Table 3 shows the mean PK parameters for PROCYSBI and immediate-release cysteamine bitartrate after one dose at steady state.
 The mean Cmax and AUCinf were 3.6 mg/L and 726 min*mg/L for PROCYSBI and 2.7 mg/L and 380 min*mg/L for immediate-release cysteamine bitartrate.
 
-Table 4: PK parameters for cysteamine after a single dose of PROCYSBI or immediate-release cysteamine bitartrate at steady state
+Table 3: PK parameters for cysteamine after a single dose of PROCYSBI or immediate-release cysteamine bitartrate at steady state
 
 |  | Immediate-release cysteamine bitartrate | PROCYSBI |
 | --- | --- | --- |
@@ -38,6 +38,7 @@ Absorption
 
 The pharmacokinetics of PROCYSBI are consistent with a delayed-release formulation; the mean Tmax for PROCYSBI was 188 minutes compared with 73 minutes for immediate-release cysteamine bitartrate.
 
+The mean plasma cysteamine peak and AUC were similar when a single PROCYSBI dose of 600 mg was administered with 240 mL orange juice or with 240 mL water.
 The systemic exposure to cysteamine was similar when PROCYSBI was administered with orange juice as a whole capsule and sprinkled in applesauce in the fasted state.
 In a food effect study conducted in healthy subjects (n=20), administration of a meal 30 minutes following PROCYSBI administration (intact capsules) decreased Cmax by 34% and AUC0-t by 32% compared to administration of a meal 2 hours post-dose [see Dosage and Administration (2.6)].
 
@@ -62,6 +63,6 @@ The potential for cysteamine to affect the pharmacokinetics of other drugs via t
 
 Omeprazole
 
-A single PROCYSBI dose of 600 mg was administered with 240 mL of orange juice in healthy subjects after administration of 20 mg of omeprazole once daily for 5 days.
-The pharmacokinetic parameters of cysteamine were not significantly different when PROCYSBI was administered with omeprazole compared to when PROCYSBI was administered alone [see Drug Interactions (7.1)].
-The effect of omeprazole on the pharmacokinetics of cysteamine was not studied after administration of PROCYSBI with water [see Dosage and Administration (2.6)].
+The effect of concomitant omeprazole on the pharmacokinetics of cysteamine was evaluated following co-administration of single PROCYSBI dose of 600 mg with 20 mg of omeprazole in comparison to administration of PROCYSBI alone in healthy subjects in two separate studies.
+In both studies omeprazole was dosed once daily for 5 days before co-administration with PROCYSBI and single dose PROCYSBI was given either with 240 mL orange juice in one study or with 240 mL water in another study.
+The pharmacokinetic parameters of cysteamine were not significantly different when PROCYSBI was administered with omeprazole compared to when PROCYSBI was administered alone, regardless whether PROCYSI was administered with orange juice or water [see Dosage and Administration (2.6), Drug Interactions (7.1)].
