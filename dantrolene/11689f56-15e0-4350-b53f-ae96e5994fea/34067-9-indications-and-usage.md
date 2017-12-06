@@ -22,6 +22,6 @@ A decision to continue the administration of dantrolene sodium on a long-term ba
 ## In Malignant Hyperthermia
 
 Oral dantrolene sodium is also indicated preoperatively to prevent or attenuate the development of signs of malignant hyperthermia in known, or strongly suspect, malignant hyperthermia susceptible patients who require anesthesia and/or surgery.
-Currently accepted clinical practices in the management of such patients must still be adhered to (careful monitoring for early signs of malignant hyperthermia, minimizing exposure to triggering mechanisms and prompt use of intravenous dantrolene sodium and indicated supportive measures should signs of malignant hyperthermia appear); see also the package insert for Dantrium® (dantrolene sodium) Intravenous.
+Currently accepted clinical practices in the management of such patients must still be adhered to (careful monitoring for early signs of malignant hyperthermia, minimizing exposure to triggering mechanisms and prompt use of intravenous Dantrolene Sodium and indicated supportive measures should signs of malignant hyperthermia appear); see also the package insert for Dantrium® (dantrolene sodium) Intravenous.
 
 Oral dantrolene sodium should be administered following a malignant hyperthermic crisis to prevent recurrence of the signs of malignant hyperthermia.
