@@ -16,8 +16,8 @@ Repeated doses of 75 mg clopidogrel bisulfate per day inhibit ADP-induced platel
 At steady state, the average inhibition level observed with a dose of 75 mg clopidogrel bisulfate per day was between 40% and 60%.
 Platelet aggregation and bleeding time gradually return to baseline values after treatment is discontinued, generally in about 5 days.
 Geriatric Patients Elderly (≥75 years) and young healthy subjects had similar effects on platelet aggregation.
-Renally-Impaired Patients After repeated doses of 75 mg clopidogrel bisulfate per day, patients with severe renal impairment (creatinine clearance from 5 to 15 mL/min) and moderate renal impairment (creatinine clearance from 30 to 60 mL/min) showed low (25%) inhibition of ADP-induced platelet aggregation.
-Hepatically-Impaired Patients After repeated doses of 75 mg clopidogrel bisulfate per day for 10 days in patients with severe hepatic impairment, inhibition of ADP-induced platelet aggregation was similar to that observed in healthy subjects.
+Renally Impaired Patients After repeated doses of 75 mg clopidogrel bisulfate per day, patients with severe renal impairment (creatinine clearance from 5 to 15 mL/min) and moderate renal impairment (creatinine clearance from 30 to 60 mL/min) showed low (25%) inhibition of ADP-induced platelet aggregation.
+Hepatically Impaired Patients After repeated doses of 75 mg clopidogrel bisulfate per day for 10 days in patients with severe hepatic impairment, inhibition of ADP-induced platelet aggregation was similar to that observed in healthy subjects.
 Gender In a small study comparing men and women, less inhibition of ADP-induced platelet aggregation was observed in women.
 
 ## 12.3 Pharmacokinetics
@@ -25,6 +25,7 @@ Gender In a small study comparing men and women, less inhibition of ADP-induced 
 Clopidogrel is a prodrug and is metabolized to a pharmacologically active metabolite and inactive metabolites.
 Absorption After single and repeated oral doses of 75 mg per day, clopidogrel is rapidly absorbed.
 Absorption is at least 50%, based on urinary excretion of clopidogrel metabolites.
+
 Effect of Food Clopidogrel bisulfate can be administered with or without food.
 In a study in healthy male subjects when clopidogrel bisulfate 75 mg per day was given with a standard breakfast, mean inhibition of ADP-induced platelet aggregation was reduced by less than 9%.
 The active metabolite AUC0-24 was unchanged in the presence of food, while there was a 57% decrease in active metabolite Cmax.
@@ -36,8 +37,8 @@ The active metabolite is formed mostly by CYP2C19 with contributions from severa
 The active thiol metabolite binds rapidly and irreversibly to platelet receptors, thus inhibiting platelet aggregation for the lifespan of the platelet.
 The Cmax of the active metabolite is twice as high following a single 300 mg clopidogrel loading dose as it is after four days of 75 mg maintenance dose.
 Cmax occurs approximately 30 to 60 minutes after dosing.
-In the 75 to 300 mg dose range, the pharmacokinetics of the active metabolite deviates from dose proportionality: 4-fold the dose results in 2- and 2.7-fold the Cmax and AUC, respectively.
-Elimination Following an oral dose of 14C-labeled clopidogrel in humans, approximately 50% of total radioactivity was excreted in urine and approximately 46% in feces over the 5 days post-dosing.
+In the 75 to 300 mg dose range, the pharmacokinetics of the active metabolite deviates from dose proportionality: 4-fold the dose results in 2-fold and 2.7-fold the Cmax and AUC, respectively.
+Elimination Following an oral dose of 14C-labeled clopidogrel in humans, approximately 50% of total radioactivity was excreted in urine and approximately 46% in feces over the 5 days post dosing.
 After a single, oral dose of 75 mg, clopidogrel has a half-life of approximately 6 hours.
 The half-life of the active metabolite is about 30 minutes.
 Drug Interactions Effect of other drugs on clopidogrel bisulfate Clopidogrel is metabolized to its active metabolite in part by CYP2C19.
@@ -52,7 +53,7 @@ Concomitant administration of repaglinide with clopidogrel bisulfate increased t
 
 CYP2C19 is involved in the formation of both the active metabolite and the 2-oxo-clopidogrel intermediate metabolite.
 Clopidogrel active metabolite pharmacokinetics and antiplatelet effects, as measured by ex vivo platelet aggregation assays, differ according to CYP2C19 genotype.
-Patients who are homozygous for nonfunctional alleles of the CYP2C19 gene are termed “CYP2C19 poor metabolizers”.
+Patients who are homozygous for nonfunctional alleles of the CYP2C19 gene are termed “CYP2C19 poor metabolizers.”
 Approximately 2% of White and 4% of Black patients are poor metabolizers; the prevalence of poor metabolism is higher in Asian patients (e.g., 14% of Chinese).
 Tests are available to identify patients who are CYP2C19 poor metabolizers.
 A crossover study in 40 healthy subjects, 10 each in the four CYP2C19 metabolizer groups, evaluated pharmacokinetic and antiplatelet responses using 300 mg followed by 75 mg per day and 600 mg followed by 150 mg per day, each for a total of 5 days.
@@ -66,12 +67,12 @@ Table 3: Active Metabolite Pharmacokinetics and Antiplatelet Responses by CYP2C1
 | 600 mg (24 h) | 17 (6) | 39 (23) | 44 (27) | 36 (13) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | 75 mg (Day 5) | 4 (1) | 12 (5) | 13 (7) | 12 (6) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | 150 mg (Day 5) | 7 (2) | 18 (7) | 19 (5) | 16 (9) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| IPA (%)†† | 300 mg (24 h) | 24 (26) | 37 (21) | 39 (28) | 40 (21) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| IPA (%)‡ | 300 mg (24 h) | 24 (26) | 37 (21) | 39 (28) | 40 (21) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | 600 mg (24 h) | 32 (25) | 56 (22) | 49 (23) | 51 (28) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | 75 mg (Day 5) | 37 (23) | 60 (18) | 58 (19) | 56 (13) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | 150 mg (Day 5) | 61 (14) | 74 (14) | 73 (9) | 68 (18) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| VASP-PRI (%)††† | 300 mg (24 h) | 91 (12) | 78 (12) | 68 (16) | 73 (12) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| VASP-PRI (%)§ | 300 mg (24 h) | 91 (12) | 78 (12) | 68 (16) | 73 (12) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | 600 mg (24 h) | 85 (14) | 56 (26) | 48 (20) | 51 (20) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | 75 mg (Day 5) | 83 (13) | 50 (16) | 39 (14) | 40 (9) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | 150 mg (Day 5) | 61 (18) | 29 (11) | 24 (10) | 20 (10) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Values are mean (SD) * Intermediate metabolizers have one but not two nonfunctional alleles † Ultrarapid metabolizers have at least one gain-of-function allele †† Inhibition of platelet aggregation with 5 mcM ADP; larger value indicates greater platelet inhibition ††† Vasodilator-stimulated phosphoprotein – platelet reactivity index; smaller value indicates greater platelet inhibition |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| * Intermediate metabolizers have one but not two nonfunctional alleles. † Ultrarapid metabolizers have at least one gain-of-function allele. ‡ Inhibition of platelet aggregation with 5 mcM ADP; larger value indicates greater platelet inhibition. § Vasodilator-stimulated phosphoprotein – platelet reactivity index; smaller value indicates greater platelet inhibition. Values are mean (SD). |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |

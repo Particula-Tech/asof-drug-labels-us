@@ -20,16 +20,16 @@ Table 4: Outcome Events in the CURE Primary Analysis
 | CV death | 318 (5.1%) | 345 (5.5%) | 7% (-7.7, 20.6) |
 | MI | 324 (5.2%) | 419 (6.6%) | 23% (11, 33.4) |
 | Stroke | 75 (1.2%) | 87 (1.4%) | 14% (-17.7, 36.6) |
-| * Other standard therapies were used as appropriate. † The individual components do not represent a breakdown of the primary and co-primary outcomes, but rather the total number of subjects experiencing an event during the course of the study. |  |  |  |
+| * Other standard therapies were used as appropriate. † The individual components do not represent a breakdown of the primary and coprimary outcomes, but rather the total number of subjects experiencing an event during the course of the study. |  |  |  |
 
 Most of the benefit of clopidogrel bisulfate occurred in the first two months, but the difference from placebo was maintained throughout the course of the trial (up to 12 months) (see Figure 2).
 
 Figure 2: Cardiovascular Death, Myocardial Infarction, and Stroke in the CURE Study
 
 The effect of clopidogrel did not differ significantly in various subgroups, as shown in Figure 3.
-The benefits associated with clopidogrel bisulfate were independent of the use of other acute and long-term cardiovascular therapies, including heparin/LMWH, intravenous glycoprotein IIb/IIIa (GPIIb/IIIa) inhibitors, lipid-lowering drugs, beta-blockers, and ACE-inhibitors.
+The benefits associated with clopidogrel bisulfate were independent of the use of other acute and long-term cardiovascular therapies, including heparin/LMWH, intravenous glycoprotein IIb/IIIa (GPIIb/IIIa) inhibitors, lipid-lowering drugs, beta-blockers, and ACE inhibitors.
 The efficacy of clopidogrel bisulfate was observed independently of the dose of aspirin (75 to 325 mg once daily).
-The use of oral anticoagulants, non-study antiplatelet drugs, and chronic NSAIDs was not allowed in CURE.
+The use of oral anticoagulants, nonstudy antiplatelet drugs, and chronic NSAIDs was not allowed in CURE.
 
 Figure 3: Hazard Ratio for Patient Baseline Characteristics and On-Study Concomitant Medications/Interventions for the CURE Study
 
@@ -48,8 +48,8 @@ Table 5: Outcome Events in COMMIT
 | Event | Clopidogrel Bisulfate (+ aspirin) (N=22961) | Placebo (+ aspirin) (N=22891) | Odds ratio (95% CI) | p-value |
 | --- | --- | --- | --- | --- |
 | Composite endpoint: Death, MI, or Stroke* | 2121 (9.2%) | 2310 (10.1%) | 0.91 (0.86, 0.97) | 0.002 |
-| Death Non-fatal MI** Non-fatal Stroke** | 1726 (7.5%) 270 (1.2%) 127 (0.6%) | 1845 (8.1%) 330 (1.4%) 142 (0.6%) | 0.93 (0.87, 0.99) 0.81 (0.69, 0.95) 0.89 (0.7, 1.13) | 0.029 0.011 0.33 |
-| * 9 patients (2 clopidogrel and 7 placebo) suffered both a non-fatal stroke and a non-fatal MI. ** Non-fatal MI and non-fatal stroke exclude patients who died (of any cause). |  |  |  |  |
+| Death Nonfatal MI† Nonfatal Stroke† | 1726 (7.5%) 270 (1.2%) 127 (0.6%) | 1845 (8.1%) 330 (1.4%) 142 (0.6%) | 0.93 (0.87, 0.99) 0.81 (0.69, 0.95) 0.89 (0.7, 1.13) | 0.029 0.011 0.33 |
+| * 9 patients (2 clopidogrel and 7 placebo) suffered both a nonfatal stroke and a nonfatal MI. †Nonfatal MI and nonfatal stroke exclude patients who died (of any cause). |  |  |  |  |
 
 Figure 4: Cumulative Event Rates for Death in the COMMIT Study*
 
@@ -59,13 +59,13 @@ Figure 5: Cumulative Event Rates for the Combined Endpoint Re-Infarction, Stroke
 
 * All treated patients received aspirin.
 
-The effect of clopidogrel bisulfate did not differ significantly in various pre-specified subgroups as shown in Figure 6.
+The effect of clopidogrel bisulfate did not differ significantly in various prespecified subgroups as shown in Figure 6.
 The effect was also similar in non-prespecified subgroups including those based on infarct location, Killip class or prior MI history.
 Such subgroup analyses should be interpreted cautiously.
 
 Figure 6: Effects of Adding Clopidogrel Bisulfate to Aspirin on the Combined Primary Endpoint across Baseline and Concomitant Medication Subgroups for the COMMIT Study
 
-* CI is 95% for Overall row only.
+* CI is 95% for Overall row only
 
 ## 14.2 Recent Myocardial Infarction, Recent Stroke, or Established Peripheral Arterial Disease
 
@@ -91,7 +91,7 @@ In patients who survived an on-study stroke or myocardial infarction, the incide
 The curves showing the overall event rate are shown in Figure 7.
 The event curves separated early and continued to diverge over the 3-year follow-up period.
 
-Figure 7: Fatal or Non-Fatal Vascular Events in the CAPRIE Study
+Figure 7: Fatal or Nonfatal Vascular Events in the CAPRIE Study
 
 The statistical significance favoring clopidogrel bisulfate over aspirin was marginal (p=0.045).
 However, because aspirin is itself effective in reducing cardiovascular events in patients with recent myocardial infarction or stroke, the effect of clopidogrel bisulfate is substantial.

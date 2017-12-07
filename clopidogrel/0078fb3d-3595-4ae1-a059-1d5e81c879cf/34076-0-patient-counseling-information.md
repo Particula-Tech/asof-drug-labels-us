@@ -6,7 +6,7 @@ Bleeding Advise patients that they:
 
 - will bruise and bleed more easily
 - will take longer than usual to stop bleeding
-- must report any unanticipated, prolonged, or excessive bleeding, or blood in their stool or urine [see Warnings and Precautions (5.2)].
+- must report any unanticipated, prolonged, or excessive bleeding, or blood in their stool or urine [see Warnings and Precautions (5.2)]
 
 Thrombotic Thrombocytopenic Purpura Instruct patients to get prompt medical attention if they experience symptoms of TTP that cannot otherwise be explained [see Warnings and Precautions (5.4)].
 Invasive Procedures Advise patients to inform physicians and dentists that they are taking clopidogrel bisulfate before any surgery or dental procedure [see Warnings and Precautions (5.2, 5.3)].

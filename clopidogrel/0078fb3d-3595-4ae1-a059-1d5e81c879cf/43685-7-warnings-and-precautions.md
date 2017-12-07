@@ -29,4 +29,4 @@ It is characterized by thrombocytopenia, microangiopathic hemolytic anemia (schi
 
 ## 5.5 Cross-Reactivity among Thienopyridines
 
-Hypersensitivity including rash, angioedema or hematologic reaction have been reported in patients receiving clopidogrel bisulfate, including patients with a history of hypersensitivity or hematologic reaction to other thienopyridines [see Contraindications (4.2) and Adverse Reactions (6.2)].
+Hypersensitivity including rash, angioedema or hematologic reaction has been reported in patients receiving clopidogrel bisulfate, including patients with a history of hypersensitivity or hematologic reaction to other thienopyridines [see Contraindications (4.2) and Adverse Reactions (6.2)].

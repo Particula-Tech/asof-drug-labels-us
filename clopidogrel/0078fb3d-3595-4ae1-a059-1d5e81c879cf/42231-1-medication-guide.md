@@ -180,4 +180,4 @@ Dispense with Medication Guide available at: www.aurobindousa.com/product-medica
 Coumadin® is a registered trademark of Bristol-Myers Squibb Pharma Company.
 Prilosec® and Nexium® are registered trademarks of AstraZeneca.
 Prandin® is a registered trademark of Novo Nordisk Inc. Jantoven® is a registered trademark of USL Pharma.
-Distributed by: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 08/2017
+Distributed by: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 11/2017
