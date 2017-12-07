@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA090258"
+  ],
+  "inn": "alendronate",
+  "labeler": "Hangzhou Minsheng Binjiang Pharmaceutical Co., Ltd.",
+  "package_ndcs": [
+    "60723-205-31",
+    "60723-205-32",
+    "60723-205-33",
+    "60723-207-31",
+    "60723-207-32",
+    "60723-207-33"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "alendronate sodium",
+      "name": "Alendronate"
+    }
+  ],
+  "setid": "a24fd39c-34a7-4de2-9439-781e612189ca",
+  "source": "dailymed"
+}
