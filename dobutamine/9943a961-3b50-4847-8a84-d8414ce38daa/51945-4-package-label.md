@@ -1,85 +1,8 @@
-# PRINCIPAL DISPLAY PANEL - 250 mL Bag Label - 1000 mcg/mL
-
-250 mL NDC 0409-2346-32
-
-1000 mcg/mL DOBUTamine in 5% Dextrose Injection, USP 250 mg Total
-
-EACH 100 mL CONTAINS DOBUTAMINE HYDROCHLORIDE EQUIVALENT TO 100 mg OF DOBUTAMINE; DEXTROSE, HYDROUS 5 g; WITH SODIUM METABISULFITE 25 mg AND EDETATE DISODIUM DIHYDRATE 10 mg ADDED AS STABILIZERS.
-263 mOsmol/LITER (CALC.). pH 3.0 (2.5 TO 5.5).
-MAY CONTAIN HYDROCHLORIC ACID AND/OR SODIUM HYDROXIDE FOR pH ADJUSTMENT.
-FOR I.V.
-USE.
-USUAL DOSAGE: SEE INSERT.
-
-WARNING: CONTAINS SULFITES
-
-DRUG ADDITIVES SHOULD NOT BE MADE TO THIS SOLUTION.
-
-STERILE, NONPYROGENIC.
-USE ONLY IF SOLUTION IS CLEAR AND CONTAINER IS UNDAMAGED.
-MUST NOT BE USED IN SERIES CONNECTIONS.
-
-Rx ONLY
-
-7 OTHER
-
-PRINTED IN USA ©HOSPIRA 2006 HOSPIRA, INC., LAKE FOREST, IL 60045 USA
-
-IM-1286 (6/06)
-
-Hospira
-
-# PRINCIPAL DISPLAY PANEL - 250 mL Pouch Label - 1000 mcg/mL
-
-TO OPEN — TEAR AT NOTCH
-
-250 mL NDC 0409-2346-32
-
-1000 mcg/mL DOBUTamine in 5% Dextrose Injection, USP 250 mg Total
-
-Each 100 mL contains Dobutamine Hydrochloride equivalent to 100 mg of dobutamine; dextrose, hydrous 5 g; with sodium metabisulfite 25 mg and edetate disodium dihydrate 10 mg added as stabilizers.
-
-WARNING: CONTAINS SULFITES
-
-263 mOsmol/liter (calc.). pH 3.0 (2.5 to 5.5).
-
-May contain hydrochloric acid and/or sodium hydroxide for pH adjustment.
-For I.V. use.
-Usual dosage: see insert.
-
-Single-dose container
-
-Drug additives should not be made to this solution.
-The overwrap is a moisture and oxygen barrier.
-Do not remove unit from overwrap until ready for use.
-Visually inspect overwrap for tears or holes.
-Discard unit if overwrap is damaged.
-The solution may exhibit a pink color, but no significant loss in potency has occurred.
-Use unit promptly when overwrap is opened.
-Store at 20 to 25°C (68 to 77°F).
-[See USP Controlled Room Temperature.]
-Protect from freezing.
-See insert.
-After removing the overwrap, check for minute leaks by squeezing container firmly.
-If leaks are found, discard solution as sterility may be impaired.
-
-Rx only
-
-Printed in USA
-
-7 OTHER
-
-F WR-0272 (2/08)
-
-Hospira, Inc., Lake Forest, IL 60045 USA
-
-Hospira
-
-# PRINCIPAL DISPLAY PANEL - 250 mL Bag Label - 2000 mcg/mL
+# PRINCIPAL DISPLAY PANEL - 250 mL Bag - 2,000 mcg/mL
 
 250 mL NDC 0409-2347-32
 
-2000 mcg/mL DOBUTamine in 5% Dextrose Injection, USP 500 mg Total
+DOBUTamine in 5% Dextrose Injection, USP 500 mg/250 mL (2,000 mcg/mL)
 
 EACH 100 mL CONTAINS DOBUTAMINE HYDROCHLORIDE EQUIVALENT TO 200 mg OF DOBUTAMINE; DEXTROSE, HYDROUS 5 g; WITH SODIUM METABISULFITE 25 mg AND EDETATE DISODIUM DIHYDRATE 10 mg ADDED AS STABILIZERS.
 270 mOsmol/LITER (CALC.). pH 3.0 (2.5 TO 5.5).
@@ -87,7 +10,6 @@ MAY CONTAIN HYDROCHLORIC ACID AND/OR SODIUM HYDROXIDE FOR pH ADJUSTMENT.
 FOR I.V.
 USE.
 USUAL DOSAGE: SEE INSERT.
-
 WARNING: CONTAINS SULFITES
 
 DRUG ADDITIVES SHOULD NOT BE MADE TO THIS SOLUTION.
@@ -96,30 +18,29 @@ STERILE, NONPYROGENIC.
 USE ONLY IF SOLUTION IS CLEAR AND CONTAINER IS UNDAMAGED.
 MUST NOT BE USED IN SERIES CONNECTIONS.
 
-Rx ONLY
+RX ONLY
 
 7 OTHER
 
-PRINTED IN USA ©HOSPIRA 2006 HOSPIRA, INC., LAKE FOREST, IL 60045 USA
+IM-5068
 
-IM-1298 (6/06)
+HOSPIRA, INC., LAKE FOREST, IL 60045 USA
 
 Hospira
 
-# PRINCIPAL DISPLAY PANEL - 250 mL Pouch Label - 2000 mcg/mL
+# PRINCIPAL DISPLAY PANEL - 250 mL Bag Overwrap - 2,000 mcg/mL
 
 TO OPEN — TEAR AT NOTCH
 
 250 mL NDC 0409-2347-32
 
-2000 mcg/mL DOBUTamine in 5% Dextrose Injection, USP 500 mg Total
+DOBUTamine in 5% Dextrose Injection, USP 500 mg/250 mL (2,000 mcg/mL)
 
 Each 100 mL contains Dobutamine Hydrochloride equivalent to 200 mg of dobutamine; dextrose, hydrous 5 g; with sodium metabisulfite 25 mg and edetate disodium dihydrate 10 mg added as stabilizers.
 
 WARNING: CONTAINS SULFITES
 
 270 mOsmol/liter (calc.). pH 3.0 (2.5 to 5.5).
-
 May contain hydrochloric acid and/or sodium hydroxide for pH adjustment.
 For I.V. use.
 Usual dosage: see insert.
@@ -144,19 +65,87 @@ Rx only
 
 7 OTHER
 
-Printed in USA
+MADE IN ITALY F WR-1508
 
 Hospira, Inc., Lake Forest, IL 60045 USA
 
-F WR-0271 (2/08)
+Hospira
+
+# PRINCIPAL DISPLAY PANEL - 250 mL Bag - 1,000 mcg/mL
+
+250 mL NDC 0409-2346-32
+
+DOBUTamine in 5% Dextrose Injection, USP 250 mg/250 mL (1,000 mcg/mL)
+
+EACH 100 mL CONTAINS DOBUTAMINE HYDROCHLORIDE EQUIVALENT TO 100 mg OF DOBUTAMINE; DEXTROSE, HYDROUS 5 g; WITH SODIUM METABISULFITE 25 mg AND EDETATE DISODIUM DIHYDRATE 10 mg ADDED AS STABILIZERS.
+263 mOsmol/LITER (CALC.). pH 3.0 (2.5 TO 5.5).
+MAY CONTAIN HYDROCHLORIC ACID AND/OR SODIUM HYDROXIDE FOR pH ADJUSTMENT.
+FOR I.V.
+USE.
+USUAL DOSAGE: SEE INSERT.
+WARNING: CONTAINS SULFITES
+
+DRUG ADDITIVES SHOULD NOT BE MADE TO THIS SOLUTION.
+
+STERILE, NONPYROGENIC.
+USE ONLY IF SOLUTION IS CLEAR AND CONTAINER IS UNDAMAGED.
+MUST NOT BE USED IN SERIES CONNECTIONS.
+
+RX ONLY
+
+7 OTHER
+
+IM-5067
+
+HOSPIRA, INC., LAKE FOREST, IL 60045 USA
 
 Hospira
 
-# PRINCIPAL DISPLAY PANEL - 250 mL Bag Label - 4000 mcg/mL
+# PRINCIPAL DISPLAY PANEL - 250 mL Bag Overwrap - 1,000 mcg/mL
+
+TO OPEN — TEAR AT NOTCH
+
+250 mL NDC 0409-2346-32
+
+DOBUTamine in 5% Dextrose Injection, USP 250 mg/250 mL (1,000 mcg/mL)
+
+Each 100 mL contains Dobutamine Hydrochloride equivalent to 100 mg of dobutamine; dextrose, hydrous 5 g; with sodium metabisulfite 25 mg and edetate disodium dihydrate 10 mg added as stabilizers.
+WARNING: CONTAINS SULFITES 263 mOsmol/liter (calc.). pH 3.0 (2.5 to 5.5).
+May contain hydrochloric acid and/or sodium hydroxide for pH adjustment.
+For I.V. use.
+Usual dosage: see insert.
+
+Single-dose container
+
+Drug additives should not be made to this solution.
+The overwrap is a moisture and oxygen barrier.
+Do not remove unit from overwrap until ready for use.
+Visually inspect overwrap for tears or holes.
+Discard unit if overwrap is damaged.
+The solution may exhibit a pink color, but no significant loss in potency has occurred.
+Use unit promptly when overwrap is opened.
+Store at 20 to 25°C (68 to 77°F).
+[See USP Controlled Room Temperature.]
+Protect from freezing.
+See insert.
+After removing the overwrap, check for minute leaks by squeezing container firmly.
+If leaks are found, discard solution as sterility may be impaired.
+
+7 OTHER
+
+Rx only
+
+MADE IN ITALY F WR-1507
+
+Hospira, Inc., Lake Forest, IL 60045 USA
+
+Hospira
+
+# PRINCIPAL DISPLAY PANEL - 250 mL Bag - 4,000 mcg/mL
 
 250 mL NDC 0409-3724-32
 
-4000 mcg/mL DOBUTamine in 5% Dextrose Injection, USP 1000 mg Total
+DOBUTamine in 5% Dextrose Injection, USP 1,000 mg/250 mL (4,000 mcg/mL)
 
 EACH 100 mL CONTAINS DOBUTAMINE HYDROCHLORIDE EQUIVALENT TO 400 mg OF DOBUTAMINE; DEXTROSE, HYDROUS 5 g; WITH SODIUM METABISULFITE 25mg AND EDETATE DISODIUM DIHYDRATE 10 mg ADDED AS STABILIZERS.
 284 mOsmol/LITER (CALC.). pH 3.0 (2.5 TO 5.5).
@@ -164,7 +153,6 @@ MAY CONTAIN HYDROCHLORIC ACID AND/OR SODIUM HYDROXIDE FOR pH ADJUSTMENT.
 FOR I.V.
 USE.
 USUAL DOSAGE: SEE INSERT.
-
 WARNING: CONTAINS SULFITES
 
 DRUG ADDITIVES SHOULD NOT BE MADE TO THIS SOLUTION.
@@ -173,30 +161,26 @@ STERILE, NONPYROGENIC.
 USE ONLY IF SOLUTION IS CLEAR AND CONTAINER IS UNDAMAGED.
 MUST NOT BE USED IN SERIES CONNECTIONS.
 
-Rx ONLY
+RX ONLY
 
 7 OTHER
 
-PRINTED IN USA HOSPIRA, INC., LAKE FOREST, IL 60045 USA
+IM-5069
 
-IM-1301 (6/06)
+HOSPIRA, INC., LAKE FOREST, IL 60045 USA
 
 Hospira
 
-# PRINCIPAL DISPLAY PANEL - 250 mL Pouch Label - 4000 mcg/mL
+# PRINCIPAL DISPLAY PANEL - 250 mL Bag Overwrap - 4,000 mcg/mL
 
 TO OPEN — TEAR AT NOTCH
 
 250 mL NDC 0409-3724-32
 
-4000 mcg/mL DOBUTamine in 5% Dextrose Injection, USP 1000 mg Total
+DOBUTamine in 5% Dextrose Injection, USP 1,000 mg/250 mL (4,000 mcg/mL)
 
 Each 100 mL contains Dobutamine Hydrochloride equivalent to 400 mg of dobutamine; dextrose, hydrous 5 g; with sodium metabisulfite 25 mg and edetate disodium dihydrate 10 mg added as stabilizers.
-
-WARNING: CONTAINS SULFITES
-
-284 mOsmol/liter (calc.). pH 3.0 (2.5 to 5.5).
-
+WARNING: CONTAINS SULFITES 284 mOsmol/liter (calc.). pH 3.0 (2.5 to 5.5).
 May contain hydrochloric acid and/or sodium hydroxide for pH adjustment.
 For I.V. use.
 Usual dosage: see insert.
@@ -221,8 +205,8 @@ Rx only
 
 7 OTHER
 
-F WR-0279 (3/08)
+MADE IN ITALY F WR-1509
 
-Printed in USA Hospira, Inc., Lake Forest, IL 60045 USA
+Hospira, Inc., Lake Forest, IL 60045 USA
 
 Hospira
