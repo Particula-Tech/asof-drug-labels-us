@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA201656"
+  ],
+  "inn": "desmopressin",
+  "labeler": "Avadel Specialty Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "71758-106-55",
+    "71758-106-56",
+    "71758-107-55",
+    "71758-107-56"
+  ],
+  "products": [
+    {
+      "form": "SPRAY, METERED",
+      "generic": "desmopressin acetate",
+      "name": "Noctiva"
+    }
+  ],
+  "setid": "8014020e-a547-4251-ba9b-2ff36fd4e9ed",
+  "source": "dailymed"
+}
