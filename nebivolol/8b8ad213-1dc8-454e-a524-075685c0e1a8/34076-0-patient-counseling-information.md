@@ -1,4 +1,4 @@
-# 17 PATIENT COUNSELING INFORMATION
+# 17. PATIENT COUNSELING INFORMATION
 
 See FDA-approved patient labeling (Patient Information).
 
@@ -25,5 +25,5 @@ Bystolic® is a registered trademark of Forest Laboratories, LLC, an Allergan af
 
 Actidose®-Aqua is a registered trademark of Paddock Laboratories, LLC
 
-© 2016 Allergan.
+© 2017 Allergan.
 All rights reserved.

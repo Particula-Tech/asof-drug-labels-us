@@ -119,7 +119,7 @@ BYSTOLIC tablets can help your blood vessels relax so your blood pressure is low
 Medicines that lower your blood pressure lower your chance of having a stroke or heart attack.
 
 Rev.
-October 2016
+November 2017
 
 Distributed by: Allergan USA, Inc. Irvine, CA 92612
 
@@ -131,5 +131,5 @@ Bystolic® is a registered trademark of Forest Laboratories, LLC, an Allergan af
 
 Actidose®-Aqua is a registered trademark of Paddock Laboratories, LLC
 
-© 2016 Allergan.
+© 2017 Allergan.
 All rights reserved.
