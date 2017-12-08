@@ -11,7 +11,7 @@ A 28-week, placebo-controlled US study comparing the safety of salmeterol with p
 The increased risk of asthma-related death is considered a class effect of the long-acting beta2-adrenergic agonists, including PERFOROMIST Inhalation Solution.
 No study adequate to determine whether the rate of asthma related death is increased in patients treated with PERFOROMIST Inhalation Solution has been conducted.
 The safety and efficacy of PERFOROMIST in patients with asthma have not been established.
-All LABA, including PERFOROMIST, are contraindicated in patients with asthma without use of a long-term asthma control medication.
+All LABA, including PERFOROMIST, are contraindicated in patients with asthma without the use of a long-term asthma control medication.
 [see CONTRAINDICATIONS (4)].
 
 Clinical studies with formoterol fumarate administered as a dry powder inhaler suggested a higher incidence of serious asthma exacerbations in patients who received formoterol than in those who received placebo.

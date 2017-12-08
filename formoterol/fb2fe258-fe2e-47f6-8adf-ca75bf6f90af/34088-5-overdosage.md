@@ -9,7 +9,4 @@ The judicious use of a cardioselective beta-receptor blocker may be considered, 
 There is insufficient evidence to determine if dialysis is beneficial for overdosage of PERFOROMIST Inhalation Solution.
 Cardiac monitoring is recommended in cases of overdosage.
 
-The minimum lethal inhalation dose of formoterol fumarate in rats is 156 mg/kg (approximately 32,000 times the maximum recommended daily inhalation dose in humans on a mg/m2 basis).
-The median lethal oral doses in Chinese hamsters, rats, and mice provide even higher multiples of the maximum recommended daily inhalation dose in humans.
-
 For additional information about overdose treatment, call a poison control center (1-800-222-1222).

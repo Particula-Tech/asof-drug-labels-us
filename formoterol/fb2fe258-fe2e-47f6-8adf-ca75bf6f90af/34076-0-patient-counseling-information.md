@@ -40,12 +40,15 @@ FDA-Approved Medication Guide
 See the accompanying Medication Guide.
 
 Manufactured for: Mylan Specialty L.P.
-Morgantown, WV 26505
+Morgantown, WV 26505 U.S.A.
 
-Manufactured by: The Ritedose Corporation Columbia, SC 29203
+Manufactured by: The Ritedose Corporation Columbia, SC 29203 U.S.A.
 
 U.S. Pat.
 No. 6,667,344 U.S. Pat.
-No. 6,814,953
+No. 6,814,953 U.S. Pat.
+No. 7,348,362 U.S. Pat.
+No. 7,462,645 U.S. Pat.
+No. 8,623,922
 
-A3-031-00
+FORMIS:R1

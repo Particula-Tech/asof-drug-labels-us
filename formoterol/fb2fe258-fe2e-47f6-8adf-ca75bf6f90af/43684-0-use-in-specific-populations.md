@@ -2,30 +2,55 @@
 
 ## 8.1 Pregnancy
 
-### Teratogenic Effects: Pregnancy Category C
+### Risk Summary
 
-Formoterol fumarate administered throughout organogenesis did not cause malformations in rats or rabbits following oral administration.
-However, formoterol fumarate was found to be teratogenic in rats and rabbits in other testing laboratories.
-When given to rats throughout organogenesis, oral doses of 0.2 mg/kg (approximately 40 times the maximum recommended daily inhalation dose in humans on a mg/m2 basis) and above delayed ossification of the fetus, and doses of 6 mg/kg (approximately 1200 times the maximum recommended daily inhalation dose in humans on a mg/m2 basis) and above decreased fetal weight.
-Formoterol fumarate has been shown to cause stillbirth and neonatal mortality at oral doses of 6 mg/kg and above in rats receiving the drug during the late stage of pregnancy.
-These effects, however, were not produced at a dose of 0.2 mg/kg.
-Because there are no adequate and well-controlled studies in pregnant women, PERFOROMIST Inhalation Solution should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+There are limited available data with PERFOROMIST Inhalation Solution use in pregnant women to inform a drug-associated risk of adverse developmental outcomes.
+Beta-agonists may interfere with uterine contractility (see Clinical Considerations).
+In animal reproduction studies, oral administration of formoterol fumarate to pregnant rats and rabbits caused increased fetal malformations (rats and rabbits), decreased fetal weight (rats), and increased neonatal mortality (rats) following administration of doses that produced exposures approximately 730 to 29,000 times the MRHD on a mg/m2 or AUC basis.These adverse effects generally occurred at large multiples of the MRHD when formoterol fumarate was administered by the oral route to achieve high systemic exposures.
+No effects were observed in a study with rats that received formoterol fumarate by the inhalation route at an exposure approximately 300 times the MRHD (see Data).
 
-Women should be advised to contact their physician if they become pregnant while taking PERFOROMIST Inhalation Solution.
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 
-## 8.2 Labor and Delivery
+### Clinical Considerations
 
-There are no adequate and well-controlled human studies that have investigated the effects of PERFOROMIST Inhalation Solution during labor and delivery.
+#### Labor or delivery
 
-Because beta-agonists may potentially interfere with uterine contractility, PERFOROMIST Inhalation Solution should be used during labor only if the potential benefit justifies the potential risk.
+There are no adequate and well-controlled human studies that have studied the effects of PERFOROMIST Inhalation Solution during labor and delivery.
+Because of the potential for beta-agonists interference with uterine contractility, use of PERFOROMIST Inhalation Solution during labor should be restricted to those patients in whom the benefits clearly outweigh the risk.
 
-## 8.3 Nursing Mothers
+### Data
 
-In reproductive studies in rats, formoterol was excreted in the milk.
-It is not known whether formoterol is excreted in human milk, but because many drugs are excreted in human milk, caution should be exercised if PERFOROMIST Inhalation Solution is administered to nursing women.
+#### Animal Data
+
+In embryofetal development studies with pregnant rats and rabbits dosed throughout the period of organogenesis, formoterol fumarate did not cause malformations in either species.
+However, for pregnant rats dosed throughout organogenesis, formoterol fumarate caused delayed fetal ossification at an exposure approximately 50 times the MRHD (on a mcg/m2 basis with maternal oral doses of 200 mcg/kg and higher) and decreased fetal weight at an exposure approximately 1,500 times the MRHD (on a mcg/m2 basis with maternal oral doses of 6,000 mcg/kg and above).
+In a pre- and post-natal development study with rats dosed during the late stage of pregnancy, formoterol fumarate caused stillbirth and neonatal mortality at an exposure approximately 1,500 times the MRHD (on a mcg/m2 basis with maternal oral doses of 6,000 mcg/kg and above).
+However, no effects were observed in this study at an exposure approximately 50 times the MRHD (on a mcg/m2 basis with a maternal oral dose of 200 mcg/kg).
+
+In embryofetal development studies, conducted by another testing laboratory, with pregnant rats and rabbits dosed throughout the period of organogenesis, formoterol fumarate was teratogenic in both species.
+Umbilical hernia, a malformation, was observed in rat fetuses at exposures approximately 730 times the MRHD (on a mcg/m2 basis with maternal oral doses of 3,000 mcg/kg/day and above).
+Brachygnathia, a skeletal malformation, was observed in rat fetuses at an exposure approximately 3,600 times the MRHD (on a mcg/m2 basis with a maternal oral dose of 15,000 mcg/kg/day).
+In another study with rats, no teratogenic effects were observed with exposures up to approximately 300 times the MRHD (on a mcg/m2 basis with a maternal inhalation dose of 1,200 mcg/kg/day).
+Subcapsular cysts on the liver were observed in rabbit fetuses at an exposure approximately 29,000 times the MRHD (on a mcg/m2 basis with a maternal oral dose of 60,000 mcg/kg/day).
+No teratogenic effects were observed with exposures up to approximately 1,700 times the MRHD (on a mcg/m2 basis with a maternal oral dose of 3,500 mcg/kg).
+
+## 8.2 Lactation
+
+### Risk Summary
+
 There are no well-controlled human studies of the use of PERFOROMIST Inhalation Solution in nursing mothers.
+It is not known whether formoterol fumarate is excreted in human milk, or whether there are effects on the breastfed infant or on the milk production.
 
-Women should be advised to contact their physician if they are nursing while taking PERFOROMIST Inhalation Solution.
+In reproductive studies in rats formoterol was excreted in the milk (see Data).
+
+The developmental and health benefits of breastfeeding should be considered along with the mother`s clinical need for PERFOROMIST Inhalation Solution and any potential adverse effects on the breastfed child from PERFOROMIST Inhalation Solution or from the underlying maternal condition.
+
+#### Data
+
+In a pharmacokinetic study in rats formoterol was excreted in the milk.
+The amount of radioactive labelled 3H-formoterol fumarate was less than 2% of that in the maternal plasma.
 
 ## 8.4 Pediatric Use
 
