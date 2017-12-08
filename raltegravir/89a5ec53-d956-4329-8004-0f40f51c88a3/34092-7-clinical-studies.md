@@ -3,9 +3,9 @@
 ## 14.1 Description of Clinical Studies
 
 The evidence of durable efficacy of ISENTRESS 400 mg twice daily is based on the analyses of 240-week data from a randomized, double-blind, active-controlled trial, STARTMRK evaluating ISENTRESS 400 mg twice daily in antiretroviral treatment-naïve HIV-1 infected adult subjects, the analysis of 48-week data from a randomized, double-blind, active-control trial, ONCEMRK evaluating ISENTRESS HD 1200 mg (2 × 600 mg) once daily in treatment-naïve adult subjects, and 96-week data from 2 randomized, double-blind, placebo-controlled studies, BENCHMRK 1 and BENCHMRK 2, evaluating ISENTRESS 400 mg twice daily in antiretroviral treatment-experienced HIV-1 infected adult subjects.
-See Table 16.
+See Table 18.
 
-Table 16: Trials Conducted with ISENTRESS and ISENTRESS HD in Subjects with HIV-1 Infection
+Table 18: Trials Conducted with ISENTRESS and ISENTRESS HD in Subjects with HIV-1 Infection
 
 | Trial | Study Type | Population | Study Arms (N) | Dose/Formulation | Timepoint |
 | --- | --- | --- | --- | --- | --- |
@@ -14,6 +14,7 @@ Table 16: Trials Conducted with ISENTRESS and ISENTRESS HD in Subjects with HIV-
 |  |  |  | ISENTRESS 400 mg Twice Daily (266) Both in combination with emtricitabine (+) tenofovir disoproxil fumarate | 400 mg film-coated tablet |  |
 | BENCHMRK 1 | Randomized, double-blind, placebo-controlled | Treatment-Experienced Adults | ISENTRESS 400 mg Twice Daily (232) Placebo (118) Both in combination with optimized background therapy | 400 mg film-coated tablet | Week 240 (Week 156 on double-blind plus Week 84 on open-label) |
 | BENCHMRK 2 | Randomized, double-blind, placebo-controlled | Treatment-Experienced Adults | ISENTRESS 400 mg Twice Daily (230) Placebo (119) Both in combination with optimized background therapy | 400 mg film-coated tablet | Week 240 (Week 156 on double-blind plus Week 84 on open-label) |
+| IMPAACT P1066 | Open-label, non-comparative | Pediatric Patients – 4 weeks to 18 years of age (Treatment-Experienced or Failed Prior PMTCT) | ISENTRESS 400 mg tablet Twice Daily – 12 to 18 years or 6 to <12 years and ≥25 kg (87) ISENTRESS chewable tablet- Weight-Based Dose to Approximate 6 mg/kg Twice Daily – 2 to <12 years (39) ISENTRESS for oral suspension- Weight-Based Dose to Approximate 6 mg/kg Twice Daily – 4 weeks to <2 years (26) In combination with optimized background therapy | 400 mg film-coated tablet 25 mg and 100 mg chewable tablet 100 mg sachet for oral suspension | Week 240 |
 
 ## 14.2 Treatment-Naïve Adult Subjects
 
@@ -34,10 +35,10 @@ In ONCEMRK, 797 subjects were randomized and received at least 1 dose of either 
 There were 797 subjects included in the efficacy and safety analyses.
 At baseline, the median age of subjects was 34 years (range 18-84), 15% female, 41% non-white, 3% had hepatitis B and/or C virus co-infection, 13% were CDC Class C (AIDS), 28% had HIV-1 RNA greater than 100,000 copies per mL, and 13% had CD4+ cell count less than 200 cells per mm3; the frequencies of these baseline characteristics were similar between treatment groups.
 
-Table 17 shows the virologic outcomes in both studies.
+Table 19 shows the virologic outcomes in both studies.
 Side-by-side tabulation is to simplify presentation; direct comparisons across trials should not be made due to differing duration of follow-up.
 
-Table 17: Virologic Outcomes of Randomized Treatment in STARTMRK and ONCEMRK (Snapshot Algorithm) in HIV Treatment-Naïve Adults
+Table 19: Virologic Outcomes of Randomized Treatment in STARTMRK and ONCEMRK (Snapshot Algorithm) in HIV Treatment-Naïve Adults
 
 |  | ISENTRESS 400 mg Twice Daily (N=281) | Efavirenz 600 mg At Bedtime (N=282) | ISENTRESS HD 1200 mg Once Daily (N=531) | ISENTRESS 400 mg Twice Daily (N=266) |
 | --- | --- | --- | --- | --- |
@@ -62,9 +63,9 @@ BENCHMRK 1 and BENCHMRK 2 are Phase 3 studies to evaluate the safety and antiret
 Randomization was stratified by degree of resistance to PI (1PI vs. >1PI) and the use of enfuvirtide in the OBT.
 Prior to randomization, OBT was selected by the investigator based on genotypic/phenotypic resistance testing and prior ART history.
 
-Table 18 shows the demographic characteristics of subjects in the group receiving ISENTRESS 400 mg twice daily and subjects in the placebo group.
+Table 20 shows the demographic characteristics of subjects in the group receiving ISENTRESS 400 mg twice daily and subjects in the placebo group.
 
-Table 18: Trials BENCHMRK 1 and BENCHMRK 2 Baseline Characteristics
+Table 20: Trials BENCHMRK 1 and BENCHMRK 2 Baseline Characteristics
 
 | Randomized Studies BENCHMRK 1 and BENCHMRK 2 | ISENTRESS 400 mg Twice Daily + OBT (N = 462) | Placebo + OBT (N = 237) |
 | --- | --- | --- |
@@ -100,9 +101,9 @@ Table 18: Trials BENCHMRK 1 and BENCHMRK 2 Baseline Characteristics
 | Enfuvirtide in OBT | 38% | 38% |
 | Resistant to ≥2 PI | 97% | 95% |
 
-Table 19 compares the characteristics of optimized background therapy at baseline in the group receiving ISENTRESS 400 mg twice daily and subjects in the control group.
+Table 21 compares the characteristics of optimized background therapy at baseline in the group receiving ISENTRESS 400 mg twice daily and subjects in the control group.
 
-Table 19: Trials BENCHMRK 1 and BENCHMRK 2 Characteristics of Optimized Background Therapy at Baseline
+Table 21: Trials BENCHMRK 1 and BENCHMRK 2 Characteristics of Optimized Background Therapy at Baseline
 
 | Randomized Studies BENCHMRK 1 and BENCHMRK 2 | ISENTRESS 400 mg Twice Daily + OBT (N = 462) | Placebo + OBT (N = 237) |
 | --- | --- | --- |
@@ -122,9 +123,9 @@ Table 19: Trials BENCHMRK 1 and BENCHMRK 2 Characteristics of Optimized Backgrou
 | 2 | 24% | 21% |
 | 3 or more | 11% | 10% |
 
-Week 96 outcomes for the 699 subjects randomized and treated with the recommended dose of ISENTRESS 400 mg twice daily or placebo in the pooled BENCHMRK 1 and 2 studies are shown in Table 20.
+Week 96 outcomes for the 699 subjects randomized and treated with the recommended dose of ISENTRESS 400 mg twice daily or placebo in the pooled BENCHMRK 1 and 2 studies are shown in Table 22.
 
-Table 20: Virologic Outcomes of Randomized Treatment of BENCHMRK 1 and BENCHMRK 2 Trials at 96 Weeks (Pooled Analysis)
+Table 22: Virologic Outcomes of Randomized Treatment of BENCHMRK 1 and BENCHMRK 2 Trials at 96 Weeks (Pooled Analysis)
 
 |  | ISENTRESS 400 mg Twice Daily + OBT (N = 462) | Placebo + OBT (N = 237) |
 | --- | --- | --- |
@@ -140,9 +141,9 @@ The mean changes in CD4 count from baseline were 118 cells/mm3 in the group rece
 
 Treatment-emergent CDC Category C events occurred in 4% of the group receiving ISENTRESS 400 mg twice daily and 5% of the control group.
 
-Virologic responses at Week 96 by baseline genotypic and phenotypic sensitivity score are shown in Table 21.
+Virologic responses at Week 96 by baseline genotypic and phenotypic sensitivity score are shown in Table 23.
 
-Table 21: Virologic Response at 96 Week Window by Baseline Genotypic/Phenotypic Sensitivity Score
+Table 23: Virologic Response at 96 Week Window by Baseline Genotypic/Phenotypic Sensitivity Score
 
 |  | n | ISENTRESS 400 mg Twice Daily + OBT (N = 462) | n | Placebo + OBT (N = 237) |
 | --- | --- | --- | --- | --- |

@@ -23,12 +23,12 @@ During double-blind treatment, the total follow-up for subjects with ISENTRESS H
 
 In ONCEMRK, the rate of discontinuation of therapy due to adverse events through Week 48 was 1% in subjects receiving ISENTRESS HD 1200 mg (2 × 600 mg) once daily and 2% in subjects receiving ISENTRESS 400 mg twice daily.
 
-Clinical adverse reactions of moderate to severe intensity occurring in ≥2% of treatment-naïve subjects treated with ISENTRESS 400 mg twice daily or efavirenz in STARTMRK through Week 240 or ISENTRESS HD 1200 mg once daily or ISENTRESS 400 mg twice daily in ONCEMRK through Week 48 are presented in Table 5.
+Clinical adverse reactions of moderate to severe intensity occurring in ≥2% of treatment-naïve subjects treated with ISENTRESS 400 mg twice daily or efavirenz in STARTMRK through Week 240 or ISENTRESS HD 1200 mg once daily or ISENTRESS 400 mg twice daily in ONCEMRK through Week 48 are presented in Table 6.
 
 In STARTMRK, clinical adverse reactions of all intensities (mild, moderate and severe) occurring in ≥2% of subjects on ISENTRESS 400 mg twice daily through Week 240 also include diarrhea, flatulence, asthenia, decreased appetite, abnormal dreams, depression and nightmare.
 In ONCEMRK, clinical adverse reactions of all intensities (mild, moderate and severe) occurring in ≥2% of subjects on ISENTRESS HD or ISENTRESS 400 mg twice daily through Week 48 also include abdominal pain, diarrhea, vomiting, and decreased appetite.
 
-Table 5: Adverse ReactionsIncludes adverse experiences considered by investigators to be at least possibly, probably, or definitely related to the drug. of Moderate to Severe IntensityIntensities are defined as follows: Moderate (discomfort enough to cause interference with usual activity); Severe (incapacitating with inability to work or do usual activity).
+Table 6: Adverse ReactionsIncludes adverse experiences considered by investigators to be at least possibly, probably, or definitely related to the drug. of Moderate to Severe IntensityIntensities are defined as follows: Moderate (discomfort enough to cause interference with usual activity); Severe (incapacitating with inability to work or do usual activity).
 Occurring in ≥2% of Treatment-Naïve Adult Subjects Receiving ISENTRESS and ISENTRESS HD
 
 | ISENTRESS 400 mg Twice Daily (N= 281) | Efavirenz 600 mg At Bedtime (N= 282) | ISENTRESS HD 1200 mg Once Daily (N=531) | ISENTRESS 400 mg Twice Daily (N=266) |  |
@@ -44,9 +44,9 @@ Occurring in ≥2% of Treatment-Naïve Adult Subjects Receiving ISENTRESS and IS
 
 Laboratory Abnormalities
 
-The percentages of adult subjects with selected Grade 2 to 4 laboratory abnormalities (that represent a worsening Grade from baseline) who were treated with ISENTRESS 400 mg twice daily or efavirenz in STARTMRK or ISENTRESS HD 1200 mg once daily or ISENTRESS 400 mg twice daily in ONCEMRK are presented in Table 6.
+The percentages of adult subjects with selected Grade 2 to 4 laboratory abnormalities (that represent a worsening Grade from baseline) who were treated with ISENTRESS 400 mg twice daily or efavirenz in STARTMRK or ISENTRESS HD 1200 mg once daily or ISENTRESS 400 mg twice daily in ONCEMRK are presented in Table 7.
 
-Table 6: Selected Grade 2 to 4 Laboratory Abnormalities Reported in Treatment-Naïve Subjects
+Table 7: Selected Grade 2 to 4 Laboratory Abnormalities Reported in Treatment-Naïve Subjects
 
 | Laboratory Parameter Preferred Term (Unit) | Limit | ISENTRESS 400 mg Twice Daily (N = 281) | Efavirenz 600 mg At Bedtime (N = 282) | ISENTRESS HD 1200 mg Once Daily (N=531) | ISENTRESS 400 mg Twice Daily (N=266) |
 | --- | --- | --- | --- | --- | --- |
@@ -102,9 +102,9 @@ Table 6: Selected Grade 2 to 4 Laboratory Abnormalities Reported in Treatment-Na
 
 Lipids, Change from Baseline
 
-Changes from baseline in fasting lipids are shown in Table 7.
+Changes from baseline in fasting lipids are shown in Table 8.
 
-Table 7: Lipid Values, Mean Change from Baseline, STARTMRK Study
+Table 8: Lipid Values, Mean Change from Baseline, STARTMRK Study
 
 | (mg/dL) | (mg/dL) | (mg/dL) | (mg/dL) | (mg/dL) | (mg/dL) |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -126,9 +126,9 @@ The total exposure to ISENTRESS was 708 patient-years versus 244 patient-years o
 The rates of discontinuation due to adverse events were 4% in subjects receiving ISENTRESS and 5% in subjects receiving placebo.
 
 Clinical ADRs were considered by investigators to be causally related to ISENTRESS + OBT or placebo + OBT.
-Clinical ADRs of moderate to severe intensity occurring in ≥2% of subjects treated with ISENTRESS and occurring at a higher rate compared to placebo are presented in Table 8.
+Clinical ADRs of moderate to severe intensity occurring in ≥2% of subjects treated with ISENTRESS and occurring at a higher rate compared to placebo are presented in Table 9.
 
-Table 8: Adverse Drug ReactionsIncludes adverse reactions at least possibly, probably, or definitely related to the drug. of Moderate to Severe IntensityIntensities are defined as follows: Moderate (discomfort enough to cause interference with usual activity); Severe (incapacitating with inability to work or do usual activity).
+Table 9: Adverse Drug ReactionsIncludes adverse reactions at least possibly, probably, or definitely related to the drug. of Moderate to Severe IntensityIntensities are defined as follows: Moderate (discomfort enough to cause interference with usual activity); Severe (incapacitating with inability to work or do usual activity).
 Occurring in ≥2% of Treatment-Experienced Adult Subjects Receiving ISENTRESS and at a Higher Rate Compared to Placebo (96 Week Analysis)
 
 | Nervous System Disorders |  |  |
@@ -140,9 +140,9 @@ Occurring in ≥2% of Treatment-Experienced Adult Subjects Receiving ISENTRESS a
 
 Laboratory Abnormalities
 
-The percentages of adult subjects treated with ISENTRESS 400 mg twice daily or placebo in Studies BENCHMRK 1 and BENCHMRK 2 with selected Grade 2 to 4 laboratory abnormalities representing a worsening Grade from baseline are presented in Table 9.
+The percentages of adult subjects treated with ISENTRESS 400 mg twice daily or placebo in Studies BENCHMRK 1 and BENCHMRK 2 with selected Grade 2 to 4 laboratory abnormalities representing a worsening Grade from baseline are presented in Table 10.
 
-Table 9: Selected Grade 2 to 4 Laboratory Abnormalities Reported in Treatment-Experienced Subjects (96 Week Analysis)
+Table 10: Selected Grade 2 to 4 Laboratory Abnormalities Reported in Treatment-Experienced Subjects (96 Week Analysis)
 
 | Laboratory Parameter Preferred Term (Unit) | Limit | ISENTRESS 400 mg Twice Daily + OBT (N = 462) | Placebo + OBT (N = 237) |
 | --- | --- | --- | --- |
@@ -245,7 +245,7 @@ Pediatrics
 
 2 to 18 Years of Age
 
-ISENTRESS has been studied in 126 antiretroviral treatment-experienced HIV-1 infected children and adolescents 2 to 18 years of age, in combination with other antiretroviral agents in IMPAACT P1066 [see Use in Specific Populations (8.4) and Clinical Studies (14.3)].
+ISENTRESS has been studied in 126 antiretroviral treatment-experienced HIV-1 infected children and adolescents 2 to 18 years of age, in combination with other antiretroviral agents in IMPAACT P1066 [see Use in Specific Populations (8.4) and Clinical Studies (14.4)].
 Of the 126 patients, 96 received the recommended dose of ISENTRESS.
 
 In these 96 children and adolescents, frequency, type and severity of drug related adverse reactions through Week 24 were comparable to those observed in adults.
@@ -254,13 +254,20 @@ One patient experienced drug related clinical adverse reactions of Grade 3 psych
 
 One patient experienced drug related laboratory abnormalities, Grade 4 AST and Grade 3 ALT, which were considered serious.
 
-4 Weeks to less than 2 Years of Age
+4 Weeks to Less than 2 Years of Age
 
-ISENTRESS has also been studied in 26 HIV-1 infected infants and toddlers 4 weeks to less than 2 years of age, in combination with other antiretroviral agents in IMPAACT P1066 [see Use in Specific Populations (8.4) and Clinical Studies (14.3)].
+ISENTRESS has also been studied in 26 HIV-1 infected infants and toddlers 4 weeks to less than 2 years of age, in combination with other antiretroviral agents in IMPAACT P1066 [see Use in Specific Populations (8.4) and Clinical Studies (14.4)].
 
 In these 26 infants and toddlers, the frequency, type and severity of drug-related adverse reactions through Week 48 were comparable to those observed in adults.
 
 One patient experienced a Grade 3 serious drug-related allergic rash that resulted in treatment discontinuation.
+
+HIV-1 Exposed Neonates
+
+Forty-two neonates were treated with ISENTRESS for up to 6 weeks from birth, and followed for a total of 24 weeks in IMPAACT P1110 [see Use in Specific Populations (8.4)].
+There were no drug related clinical adverse reactions and three drug-related laboratory adverse reactions (one case of transient Grade 4 neutropenia in a subject receiving zidovudine-containing regimen for prevention of mother to child transmission (PMTCT), and two bilirubin elevations (one each, Grade 1 and Grade 2) considered non-serious and not requiring specific therapy).
+The safety profile in neonates was generally similar to that observed in older patients treated with ISENTRESS.
+No clinically meaningful differences in the adverse event profile of neonates were observed when compared to adults.
 
 ## 6.2 Postmarketing Experience
 

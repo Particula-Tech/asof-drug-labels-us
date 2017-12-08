@@ -6,10 +6,10 @@ Raltegravir is not a substrate of cytochrome P450 (CYP) enzymes.
 Based on in vivo and in vitro studies, raltegravir is eliminated mainly by metabolism via a UGT1A1-mediated glucuronidation pathway.
 Coadministration of ISENTRESS with drugs that inhibit UGT1A1 may increase plasma levels of raltegravir and coadministration of ISENTRESS with drugs that induce UGT1A1, such as rifampin, may reduce plasma levels of raltegravir (see Table 10).
 
-Selected drug interactions are presented in Table 10 [see Clinical Pharmacology (12.3)].
+Selected drug interactions are presented in Table 11 [see Clinical Pharmacology (12.3)].
 In some cases, recommendations differ for ISENTRESS versus ISENTRESS HD.
 
-Table 10: Selected Drug Interactions in Adults
+Table 11: Selected Drug Interactions in Adults
 
 | Concomitant Drug Class: Drug Name | Effect on Concentration of Raltegravir | Clinical Comment for ISENTRESS | Clinical Comment for ISENTRESS HD |
 | --- | --- | --- | --- |

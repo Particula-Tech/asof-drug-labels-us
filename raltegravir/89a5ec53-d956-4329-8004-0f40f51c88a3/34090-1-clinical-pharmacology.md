@@ -32,9 +32,9 @@ Steady-state is generally reached in 2 days, with little to no accumulation with
 
 Effect of Food on Oral Absorption
 
-The food effect of various formulations are presented in Table 11.
+The food effect of various formulations are presented in Table 12.
 
-Table 11: Effect of Food on the Pharmacokinetics of Raltegravir Formulations
+Table 12: Effect of Food on the Pharmacokinetics of Raltegravir Formulations
 
 | Formulation | Meal Type | AUC Ratio (90% CI) | Cmax Ratio (90% CI) | Cmin Ratio (90% CI) |
 | --- | --- | --- | --- | --- |
@@ -68,7 +68,7 @@ Two components, namely raltegravir and raltegravir-glucuronide, were detected in
 The major circulating entity was raltegravir and represented approximately 70% of the total radioactivity; the remaining radioactivity in plasma was accounted for by raltegravir-glucuronide.
 The major mechanism of clearance of raltegravir in humans is UGT1A1-mediated glucuronidation.
 
-Table 12: Multiple-Dose Pharmacokinetic Parameters of Raltegravir Following the Administration of 400 mg Twice Daily and 1200 mg Once Daily in HIV-infected Subjects
+Table 13: Multiple-Dose Pharmacokinetic Parameters of Raltegravir Following the Administration of 400 mg Twice Daily and 1200 mg Once Daily in HIV-infected Subjects
 
 | Parameter | 400 mg BID Geometric Mean (%CV) N=6 | 1200 mg QD Geometric Mean (%CV) N=524 |
 | --- | --- | --- |
@@ -89,11 +89,11 @@ These observations resulted in proposed pediatric doses targeting 6 mg/kg/dose f
 As displayed in Table 13, the doses recommended for HIV-infected infants, children and adolescents 4 weeks to 18 years of age [see Dosage and Administration (2.3)] resulted in a pharmacokinetic profile of raltegravir similar to that observed in adults receiving 400 mg twice daily.
 
 Overall, dosing in pediatric patients achieved exposures (Ctrough) above 45 nM in the majority of subjects, but some differences in exposures between formulations were observed.
-Pediatric patients above 25 kg administered the chewable tablets had lower trough concentrations (113 nM) compared to pediatric patients above 25 kg administered the 400 mg tablet formulation (233 nM) [see Clinical Studies (14.3)].
+Pediatric patients above 25 kg administered the chewable tablets had lower trough concentrations (113 nM) compared to pediatric patients above 25 kg administered the 400 mg tablet formulation (233 nM) [see Clinical Studies (14.4)].
 As a result, the 400 mg film-coated tablet is the recommended dose in patients weighing at least 25 kg; however, the chewable tablet offers an alternative regimen in patients weighing at least 25 kg who are unable to swallow the film-coated tablet [see Dosage and Administration (2.3)].
 In addition, pediatric patients weighing 11 to 25 kg who were administered the chewable tablets had the lowest trough concentrations (82 nM) compared to all other pediatric subgroups.
 
-Table 13: Raltegravir Steady State Pharmacokinetic Parameters in Pediatric Patients Following Administration of Recommended Twice-Daily Doses
+Table 14: Raltegravir Steady State Pharmacokinetic Parameters in Pediatric Patients Following Administration of Recommended Twice-Daily Doses
 
 | Body Weight | Formulation | Dose | NNumber of patients with intensive pharmacokinetic (PK) results at the final recommended dose. | Geometric Mean (%CVGeometric coefficient of variation.) AUC0-12hr (µM∙hr) | Geometric Mean (%CV) C12hr (nM) |
 | --- | --- | --- | --- | --- | --- |
@@ -102,7 +102,17 @@ Table 13: Raltegravir Steady State Pharmacokinetic Parameters in Pediatric Patie
 | 11 to less than 25 kg | Chewable tablet | Weight based dosing, see Table 4 | 13 | 18.6 (68%) | 82 (123%) |
 | 3 to less than 20 kg | Oral suspension | Weight based dosing, see Table 4 | 19 | 24.5 (43%) | 113 (69%) |
 
-The pharmacokinetics of raltegravir in infants under 4 weeks of age has not been established.
+Elimination of raltegravir in vivo in human is primarily through the UGT1A1-mediated glucuronidation pathway.
+UGT1A1 catalytic activity is negligible at birth and matures after birth.
+The dose recommended for neonates less than 4 weeks of age takes into consideration the rapidly increasing UGT1A1 activity and drug clearance from birth to 4 weeks of age.
+Table 15 displays pharmacokinetic parameters for neonates receiving the granules for oral suspension at the recommended dose [see Dosage and Administration (2.3)].
+
+Table 15: Raltegravir Pharmacokinetic Parameters from IMPAACT P1110 Following Age and Weight Based Dosing of Oral Suspension
+
+| Age (hours/days) at PK Sampling | Dose (See Table 5) | NNumber of patients with intensive pharmacokinetic (PK) results at the final recommended dose. | Geometric Mean (%CVGeometric coefficient of variation.) AUC (μM∙hr) | Geometric Mean (%CV) Ctrough (nM) |
+| --- | --- | --- | --- | --- |
+| Birth – 48 hours | 1.5 mg/kg once daily | 25 | 85.9 (38.4%)AUC0-24hr (N = 24) and C24hr | 2132.9 (64.2%) |
+| 15 to 18 days | 3.0 mg/kg twice daily | 23 | 32.2 (43.3%)AUC0-12hr and C12hr | 1255.5 (83.7%) |
 
 ISENTRESS HD
 
@@ -136,10 +146,10 @@ In vivo, raltegravir does not inhibit CYP3A4.
 Moreover, in vitro, raltegravir did not induce CYP1A2, CYP2B6 or CYP3A4.
 Similarly, raltegravir is not an inhibitor (IC50>50 µM) of UGT1A1 or UGT2B7, and raltegravir does not inhibit P-glycoprotein-mediated transport.
 
-Raltegravir drug interaction study results are shown in Tables 14 and 15.
+Raltegravir drug interaction study results are shown in Tables 16 and 17.
 For information regarding clinical recommendations [see Drug Interactions (7)].
 
-Table 14: Effect of Other Agents on the Pharmacokinetics of Raltegravir in Adults
+Table 16: Effect of Other Agents on the Pharmacokinetics of Raltegravir in Adults
 
 |  |  |  | n | Cmax | AUC | Cmin |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -169,7 +179,7 @@ Table 14: Effect of Other Agents on the Pharmacokinetics of Raltegravir in Adult
 | tenofovir disoproxil fumarate | 300 mg daily | 400 mg twice daily | 9 | 1.64 (1.16, 2.32) | 1.49 (1.15, 1.94) | 1.03 (0.73, 1.45) |
 | tipranavir/ritonavir | 500 mg/200 mg twice daily | 400 mg twice daily | 15 (14 for Cmin) | 0.82 (0.46, 1.46) | 0.76 (0.49, 1.19) | 0.45 (0.31, 0.66) |
 
-Table 15: Effect of Raltegravir on the Pharmacokinetics of Other Agents in Adults
+Table 17: Effect of Raltegravir on the Pharmacokinetics of Other Agents in Adults
 
 | n | Cmax | AUC | Cmin |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -222,3 +232,5 @@ UGT1A1 Polymorphism
 
 There is no evidence that common UGT1A1 polymorphisms alter raltegravir pharmacokinetics to a clinically meaningful extent.
 In a comparison of 30 adult subjects with *28/*28 genotype (associated with reduced activity of UGT1A1) to 27 adult subjects with wild-type genotype, the geometric mean ratio (90% CI) of AUC was 1.41 (0.96, 2.09).
+
+In the neonatal study IMPAACT P1110, there was no association between apparent clearance (CL/F) of raltegravir and UGT 1A1 genotype polymorphisms.

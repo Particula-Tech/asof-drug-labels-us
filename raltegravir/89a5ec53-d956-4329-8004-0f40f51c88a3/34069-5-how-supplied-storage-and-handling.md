@@ -24,12 +24,23 @@ They are supplied as follows:
 - NDC 0006-0473-61 unit-of-use bottles of 60.
 - No. 3965
 
-ISENTRESS for oral suspension 100 mg is a white to off-white granular powder that may contain yellow or beige to tan particles, in child resistant single-use foil packets, packaged as a kit with two 5 mL dosing syringes and two mixing cups.
+ISENTRESS for oral suspension 100 mg is a white to off-white granular powder that may contain yellow or beige to tan particles, in child resistant single-use foil packets, packaged as
+
+A kit with two 5 mL dosing syringes and two mixing cups.
+
 It is supplied as follows:
 
 - NDC 0006-3603-60 unit of use carton with 60 packets.
 - NDC 0006-3603-01 individual packet.
 - No. 3603
+
+or
+
+A kit with two 1 mL syringes, two 3 mL syringes, two 10 mL syringes and two mixing cups.
+It is supplied as follows:
+
+- NDC 0006-3603-61 unit of use carton with 60 packets.
+- NDC 0006-3603-01 individual packet.
 
 Storage and Handling
 
