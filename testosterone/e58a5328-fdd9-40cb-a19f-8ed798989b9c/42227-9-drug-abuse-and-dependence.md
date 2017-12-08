@@ -23,6 +23,8 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 ## 9.3 Dependence
 
+Behaviors Associated with Addiction
+
 Continued abuse of testosterone and other anabolic steroids, leading to addiction is characterized by the following behaviors:
 
 - Taking greater dosages than prescribed
