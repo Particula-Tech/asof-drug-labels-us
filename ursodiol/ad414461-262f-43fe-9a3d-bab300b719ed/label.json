@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA019594"
+  ],
+  "inn": "ursodiol",
+  "labeler": "Allergan, Inc.",
+  "package_ndcs": [
+    "0023-6145-01"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "ursodiol",
+      "name": "Actigall"
+    }
+  ],
+  "setid": "ad414461-262f-43fe-9a3d-bab300b719ed",
+  "source": "dailymed"
+}
