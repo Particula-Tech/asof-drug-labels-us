@@ -4,8 +4,8 @@ Neostigmine Methylsulfate Injection, USP, is available in the following:
 
 | NDC No. | Strength | Vial Size |
 | --- | --- | --- |
-| 0548-9601-00 | 0.5 mg/mL | 10 mL multiple-dose vials (shrink wrapped in packages of 10) |
-| 0548-9602-00 | 1 mg/mL | 10 mL multiple-dose vials (shrink wrapped in packages of 10) |
+| 0548-9601-00 | 0.5 mg/mL | 10 mL multiple-dose vials (supplied in packages of 10) |
+| 0548-9602-00 | 1 mg/mL | 10 mL multiple-dose vials (supplied in packages of 10) |
 
 The vial stopper is not made with natural rubber latex.
 
@@ -20,6 +20,6 @@ Amphastar Pharmaceuticals, Inc.
 Rancho Cucamonga, CA 91730 USA
 
 Rev.
-05/17
+09/17
 
-6996016B
+6996016C
