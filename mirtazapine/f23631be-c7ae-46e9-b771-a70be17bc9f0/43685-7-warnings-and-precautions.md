@@ -35,7 +35,7 @@ Whether any of the symptoms described above represent such a conversion is unkno
 However, prior to initiating treatment with an antidepressant, patients with depressive symptoms should be adequately screened to determine if they are at risk for bipolar disorder; such screening should include a detailed psychiatric history, including a family history of suicide, bipolar disorder, and depression.
 It should be noted that Mirtazapine tablets, USP are not approved for use in treating bipolar depression.
 
-Agranulocytosis In premarketing clinical trials, 2 (1 with Sjögren's Syndrome) out of 2796 patients treated with Mirtazapine tablets, USP developed agranulocytosis [absolute neutrophil count (ANC) < 500/mm3 with associated signs and symptoms, e.g., fever, infection, etc.] and a third patient developed severe neutropenia (ANC < 500/mm3 without any associated symptoms).
+Agranulocytosis In premarketing clinical trials, 2 (1 with Sjögren's Syndrome) out of 2796 patients treated with Mirtazapine tablets, USP developed agranulocytosis [absolute neutrophil count (ANC) < 500/mm 3 with associated signs and symptoms, e.g., fever, infection, etc.] and a third patient developed severe neutropenia (ANC < 500/mm 3 without any associated symptoms).
 For these three patients, onset of severe neutropenia was detected on days 61, 9, and 14 of treatment, respectively.
 All 3 patients recovered after mirtazapine was stopped.
 These 3 cases yield a crude incidence of severe neutropenia (with or without associated infection) of approximately 1.1 per thousand patients exposed, with a very wide 95% confidence interval, i.e., 2.2 cases per 10,000 to 3.1 cases per 1000.
@@ -108,7 +108,7 @@ Mirtazapine was associated with significant orthostatic hypotension in early cli
 Orthostatic hypotension was infrequently observed in clinical trials with depressed patients.
 Mirtazapine should be used with caution in patients with known cardiovascular or cerebrovascular disease that could be exacerbated by hypotension (history of myocardial infarction, angina, or ischemic stroke) and conditions that would predispose patients to hypotension (dehydration, hypovolemia, and treatment with antihypertensive medication).
 
-Mirtazapine clearance is decreased in patients with moderate [glomerular filtration rate (GFR) = 11-39 mL/min/1.73 m2] and severe [GFR < 10 mL/min/1.73 m2] renal impairment, and also in patients with hepatic impairment.
+Mirtazapine clearance is decreased in patients with moderate [glomerular filtration rate (GFR) = 11-39 mL/min/1.73 m 2] and severe [GFR < 10 mL/min/1.73 m 2] renal impairment, and also in patients with hepatic impairment.
 Caution is indicated in administering mirtazapine to such patients (see CLINICAL PHARMACOLOGY and DOSAGE And ADMINISTRATION).
 
 ## INFORMATION FOR PATIENTS
@@ -202,7 +202,7 @@ Accordingly, patients should be advised to avoid diazepam and other similar drug
 Carcinogenesis
 
 Carcinogenicity studies were conducted with mirtazapine given in the diet at doses of 2, 20, and 200 mg/kg/day to mice and 2, 20, and 60 mg/kg/day to rats.
-The highest doses used are approximately 20 and 12 times the maximum recommended human dose (MRHD) of 45 mg/day on an mg/m2 basis in mice and rats, respectively.
+The highest doses used are approximately 20 and 12 times the maximum recommended human dose (MRHD) of 45 mg/day on an mg/m 2 basis in mice and rats, respectively.
 There was an increased incidence of hepatocellular adenoma and carcinoma in male mice at the high dose.
 In rats, there was an increase in hepatocellular adenoma in females at the mid and high doses and in hepatocellular tumors and thyroid follicular adenoma/cystadenoma and carcinoma in males at the high dose.
 The data suggest that the above effects could possibly be mediated by non-genotoxic mechanisms, the relevance of which to humans is not known.
@@ -213,16 +213,16 @@ Mutagenesis
 
 Mirtazapine was not mutagenic or clastogenic and did not induce general DNA damage as determined in several genotoxicity tests: Ames test, in vitro gene mutation assay in Chinese hamster V 79 cells, in vitro sister chromatid exchange assay in cultured rabbit lymphocytes, in vivo bone marrow micronucleus test in rats, and unscheduled DNA synthesis assay in HeLa cells.
 
-Impairment of Fertility In a fertility study in rats, mirtazapine was given at doses up to 100 mg/kg [20 times the maximum recommended human dose (MRHD) on an mg/m2 basis].
+Impairment of Fertility In a fertility study in rats, mirtazapine was given at doses up to 100 mg/kg [20 times the maximum recommended human dose (MRHD) on an mg/m 2 basis].
 Mating and conception were not affected by the drug, but estrous cycling was disrupted at doses that were 3 or more times the MRHD and pre-implantation losses occurred at 20 times the MRHD.
 
 ## PREGNANCY
 
-Teratogenic Effects -Pregnancy Category C Reproduction studies in pregnant rats and rabbits at doses up to 100 mg/kg and 40 mg/kg, respectively [20 and 17 times the maximum recommended human dose (MRHD) on an mg/m2 basis, respectively], have revealed no evidence of teratogenic effects.
+Teratogenic Effects -Pregnancy Category C Reproduction studies in pregnant rats and rabbits at doses up to 100 mg/kg and 40 mg/kg, respectively [20 and 17 times the maximum recommended human dose (MRHD) on an mg/m 2 basis, respectively], have revealed no evidence of teratogenic effects.
 However, in rats, there was an increase in postimplantation losses in dams treated with mirtazapine.
 There was an increase in pup deaths during the first 3 days of lactation and a decrease in pup birth weights.
 The cause of these deaths is not known.
-The effects occurred at doses that were 20 times the MRHD, but not at 3 times the MRHD, on an mg/m2 basis.
+The effects occurred at doses that were 20 times the MRHD, but not at 3 times the MRHD, on an mg/m 2 basis.
 There are no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 

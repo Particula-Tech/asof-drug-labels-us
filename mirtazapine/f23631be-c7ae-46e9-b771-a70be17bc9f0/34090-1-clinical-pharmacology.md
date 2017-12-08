@@ -2,11 +2,11 @@
 
 Pharmacodynamics The mechanism of action of Mirtazapine tablets, USP as with other drugs effective in the treatment of major depressive disorder, is unknown.
 Evidence gathered in preclinical studies suggests that mirtazapine enhances central noradrenergic and serotonergic activity.
-These studies have shown that mirtazapine acts as an antagonist at central presynaptic α2-adrenergic inhibitory autoreceptors and heteroreceptors, an action that is postulated to result in an increase in central noradrenergic and serotonergic activity.
-Mirtazapine, is a potent antagonist of 5-HT2 and 5-HT3 receptors.
-Mirtazapine has no significant affinity for the 5-HT1A and 5-HT1B receptors.
-Mirtazapine, is a potent antagonist of histamine (H1) receptors, a property that may explain its prominent sedative effects.
-Mirtazapine, is a moderate peripheral α1-adrenergic antagonist, a property that may explain the occasional orthostatic hypotension reported in association with its use.
+These studies have shown that mirtazapine acts as an antagonist at central presynaptic α 2-adrenergic inhibitory autoreceptors and heteroreceptors, an action that is postulated to result in an increase in central noradrenergic and serotonergic activity.
+Mirtazapine, is a potent antagonist of 5-HT 2 and 5-HT 3 receptors.
+Mirtazapine has no significant affinity for the 5-HT 1A and 5-HT 1B receptors.
+Mirtazapine, is a potent antagonist of histamine (H 1) receptors, a property that may explain its prominent sedative effects.
+Mirtazapine, is a moderate peripheral α 1-adrenergic antagonist, a property that may explain the occasional orthostatic hypotension reported in association with its use.
 Mirtazapine, is a moderate antagonist at muscarinic receptors, a property that may explain the relatively low incidence of anticholinergic side effects associated with its use.
 Pharmacokinetics Mirtazapine tablets, USP are rapidly and completely absorbed following oral administration and have a half-life of about 20 to 40 hours.
 Peak plasma concentrations are reached within about 2 hours following an oral dose.
@@ -30,7 +30,7 @@ Gender The mean elimination half-life of mirtazapine after oral administration r
 Race There have been no clinical studies to evaluate the effect of race on the pharmacokinetics of mirtazapine.
 Renal Insufficiency The disposition of mirtazapine was studied in patients with varying degrees of renal function.
 Elimination of mirtazapine is correlated with creatinine clearance.
-Total body clearance of mirtazapine was reduced approximately 30% in patients with moderate (Clcr = 11-39 mL/min/1.73 m2) and approximately 50% in patients with severe (Clcr = < 10 mL/min/1.73 m2) renal impairment when compared to normal subjects.
+Total body clearance of mirtazapine was reduced approximately 30% in patients with moderate (Clcr = 11-39 mL/min/1.73 m 2) and approximately 50% in patients with severe (Clcr = < 10 mL/min/1.73 m 2) renal impairment when compared to normal subjects.
 Caution is indicated in administering mirtazapine to patients with compromised renal function (see PRECAUTIONS and DOSAGE AND ADMINISTRATION).
 Hepatic Insufficiency Following a single 15 mg oral dose of mirtazapine, the oral clearance of mirtazapine was decreased by approximately 30% in hepatically impaired patients compared to subjects with normal hepatic function.
 Caution is indicated in administering mirtazapine to patients with compromised hepatic function (see PRECAUTIONS and DOSAGE AND ADMINISTRATION).

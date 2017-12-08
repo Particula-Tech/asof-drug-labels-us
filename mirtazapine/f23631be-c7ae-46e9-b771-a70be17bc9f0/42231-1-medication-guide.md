@@ -12,7 +12,7 @@ Mirtazapine tablets, USP and other antidepressant medicines may cause serious si
 1.
 Suicidal thoughts or actions:
 
-- Mirtazapine tablets, USP and other antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, or young adults within the first few months of treatment or when the dose is changed.
+- Mirtazapine tablets, USPand other antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, or young adults within the first few months of treatment or when the dose is changed.
 - Depression or other serious mental illnesses are the most important causes of suicidal thoughts or actions.
 - Watch for these changes and call your healthcare provider right away if you notice:
   - New or sudden changes in mood, behavior, actions, thoughts, or feelings, especially if severe.
@@ -34,7 +34,7 @@ Call your healthcare provider right away if you have any of the following sympto
 - other unusual changes in behavior or mood
 
 Call your healthcare provider right away if you have any of the following symptoms, or call 911 if an emergency.
-Mirtazapine tablets, USP may be associated with these serious side effects:
+Mirtazapine tablets, USPmay be associated with these serious side effects:
 
 2.
 Manic episodes:
@@ -106,7 +106,7 @@ Children and adolescents should have height and weight monitored during treatmen
 12.
 Increased cholesterol and triglyceride levels in your blood
 
-Do not stop Mirtazapine tablets, USP without first talking to your healthcare provider.
+Do not stop Mirtazapine tablets, USPwithout first talking to your healthcare provider.
 Stopping Mirtazapine tablets, USP too quickly may cause potentially serious symptoms including:
 
 - dizziness
