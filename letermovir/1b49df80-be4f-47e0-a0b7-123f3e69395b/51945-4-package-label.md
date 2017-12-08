@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 240 mg Dose Pack Carton
+# PRINCIPAL DISPLAY PANEL - 240 mg Tablet Dose Pack Carton
 
 NDC 0006-3075-02
 
@@ -15,7 +15,7 @@ Rx only
 This carton contains a total of 28 tablets packaged within 4 dose packs.
 Each dose pack contains 7 blister units with one tablet per blister unit.
 
-# PRINCIPAL DISPLAY PANEL - 480 mg Dose Pack Carton
+# PRINCIPAL DISPLAY PANEL - 480 mg Tablet Dose Pack Carton
 
 NDC 0006-3076-02
 
