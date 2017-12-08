@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA020145"
+  ],
+  "inn": "nitroglycerin",
+  "labeler": "Ingenus Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "50742-513-30",
+    "50742-514-30",
+    "50742-515-30",
+    "50742-516-30",
+    "50742-517-30",
+    "50742-518-30"
+  ],
+  "products": [
+    {
+      "form": "PATCH",
+      "generic": "nitroglycerin",
+      "name": "NITRO-DUR"
+    }
+  ],
+  "setid": "5e15296c-5acd-4bcc-80a8-b49cb1ef3eb0",
+  "source": "dailymed"
+}
