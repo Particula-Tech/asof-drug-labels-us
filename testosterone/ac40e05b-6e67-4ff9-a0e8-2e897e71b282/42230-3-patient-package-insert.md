@@ -179,4 +179,4 @@ Distributed By: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
 This Patient Information has been approved by the U.S. Food and Drug Administration
 
-Content Updated: 05/2015
+Content Updated: 10/2016

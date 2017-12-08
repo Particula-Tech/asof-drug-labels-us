@@ -29,52 +29,62 @@ To date, epidemiologic studies and randomized controlled trials have been inconc
 Some studies, but not all, have reported an increased risk of MACE in association with use of testosterone replacement therapy in men.
 Patients should be informed of this possible risk when deciding whether to use or to continue to use ANDRODERM.
 
-## 5.5 Use in Women and Children
+## 5.5 Abuse of Testosterone and Monitoring of Serum Testosterone Concentrations
+
+Testosterone has been subject to abuse, typically at doses higher than recommended for the approved indication and in combination with other anabolic androgenic steroids.
+Anabolic androgenic steroid abuse can lead to serious cardiovascular and psychiatric adverse reactions [see Drug Abuse and Dependence (9)].
+
+If testosterone abuse is suspected, check serum testosterone concentrations to ensure they are within therapeutic range.
+However, testosterone levels may be in the normal or subnormal range in men abusing synthetic testosterone derivatives.
+Counsel patients concerning the serious adverse reactions associated with abuse of testosterone and anabolic androgenic steroids.
+Conversely, consider the possibility of testosterone and anabolic androgenic steroid abuse in suspected patients who present with serious cardiovascular or psychiatric adverse events.
+
+## 5.6 Use in Women and Children
 
 Women and children should not use ANDRODERM.
 Use in women and children has not been studied with ANDRODERM.
 
 Due to lack of controlled studies in women and potential virilizing effects, ANDRODERM is not indicated for use in women and children [see Contraindications (4) and Use in Specific Populations (8.1, 8.3, 8.4)].
 
-## 5.6 Potential for Adverse Effects on Spermatogenesis
+## 5.7 Potential for Adverse Effects on Spermatogenesis
 
 At large doses of exogenous androgens, including ANDRODERM, spermatogenesis may be suppressed through feedback inhibition of pituitary follicle-stimulating hormone (FSH) that could lead to adverse effects on semen parameters including reduction of sperm count.
 
-## 5.7 Hepatic Adverse Effects
+## 5.8 Hepatic Adverse Effects
 
 Prolonged use of high doses of orally active 17-alpha-alkyl androgens (methyltestosterone) has been associated with serious hepatic adverse effects (peliosis hepatis, hepatic neoplasms, cholestatic hepatitis, and jaundice).
 Peliosis hepatis can be a life-threatening or fatal complication.
 Long-term therapy with intramuscular testosterone enanthate has produced multiple hepatic adenomas.
 ANDRODERM is not known to cause these adverse effects.
 
-## 5.8 Edema
+## 5.9 Edema
 
 Androgens, including ANDRODERM, may promote retention of sodium and water.
 Edema, with or without congestive heart failure, may be a serious complication in patients with pre-existing cardiac, renal, or hepatic disease [see Adverse Reactions (6)].
 
-## 5.9 Gynecomastia
+## 5.10 Gynecomastia
 
 Gynecomastia may develop and persist in patients being treated with androgens, including ANDRODERM, for hypogonadism.
 
-## 5.10 Sleep Apnea
+## 5.11 Sleep Apnea
 
 The treatment of hypogonadal men with testosterone may potentiate sleep apnea in some patients, especially those with risk factors such as obesity and chronic lung disease.
 
-## 5.11 Lipids
+## 5.12 Lipids
 
 Changes in serum lipid profile may require dose adjustment or discontinuation of testosterone therapy.
 
-## 5.12 Hypercalcemia
+## 5.13 Hypercalcemia
 
 Androgens, including ANDRODERM, should be used with caution in cancer patients at risk of hypercalcemia (and associated hypercalciuria).
 Regular monitoring of serum calcium concentrations is recommended in these patients.
 
-## 5.13 Decreased Thyroxine-Binding Globulin
+## 5.14 Decreased Thyroxine-Binding Globulin
 
 Androgens, including ANDRODERM, may decrease concentrations of thyroxine-binding globulins, resulting in decreased total T4 serum concentration and increased resin uptake of T3 and T4.
 Free thyroid hormone concentration remains unchanged and there is no clinical evidence of thyroid dysfunction.
 
-## 5.14 Magnetic Resonance Imaging (MRI)
+## 5.15 Magnetic Resonance Imaging (MRI)
 
 Skin burns have been reported at the application site in patients wearing an aluminized transdermal system during a magnetic resonance imaging scan (MRI).
 Because ANDRODERM contains aluminum, it is recommended to remove the system before undergoing an MRI.
