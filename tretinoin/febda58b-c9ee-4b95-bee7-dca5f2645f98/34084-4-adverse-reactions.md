@@ -4,18 +4,18 @@
 
 Because clinical trials are conducted under prescribing conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-In two randomized, controlled trials, 674 subjects received treatment for up to 12 weeks with Tretinoin Gel 0.05% [see Clinical Studies (14)].
-In these studies, 50% of the subjects who were treated with Tretinoin Gel 0.05% reported one or more adverse reactions; 30% of the subjects reported treatment-related adverse reactions.
+In two randomized, controlled trials, 674 subjects received treatment for up to 12 weeks with Tretinoin Gel [see Clinical Studies (14)].
+In these studies, 50% of the subjects who were treated with Tretinoin Gel reported one or more adverse reactions; 30% of the subjects reported treatment-related adverse reactions.
 In the vehicle group, 29% of the 487 randomized subjects reported at least one adverse reaction; 5% of the subjects reported events that were treatment-related.
 There were no serious, treatment-related adverse reactions reported by subjects in any of the treatment groups.
 
-Selected adverse reactions that occurred in at least 1% of subjects in the two studies combined are shown in Table 1 (below).
-Most skin-related adverse reactions first appear during the first two weeks of treatment with Tretinoin Gel 0.05%, and the incidence rate for skin-related reactions peaks around the second and third week of treatment.
-In some subjects the skin-related adverse reactions persists throughout the treatment period.
+Selected adverse reactions that occurred in at least 1% of subjects in the two trials combined are shown in Table 1 (below).
+Most skin-related adverse reactions first appear during the first two weeks of treatment with Tretinoin Gel, and the incidence rate for skin-related reactions peaks around the second and third week of treatment.
+In some subjects, the skin-related adverse reactions persist throughout the treatment period.
 
-Table 1: Number of Subjects with Selected Adverse Reactions (Occurring in At Least 1% of Subjects)
+Table 1: Number of Subjects with Selected Adverse Reactions (Occurring in at Least 1% of Subjects)
 
-| Event | Tretinoin Gel 0.05% (n = 674) | Vehicle Gel (n = 487) |
+| Event | Tretinoin Gel (n = 674) | Vehicle Gel (n = 487) |
 | --- | --- | --- |
 | Dry Skin | 109 (16%) | 8 (2%) |
 | Peeling/Scaling/Flaking Skin | 78 (12%) | 7 (1%) |
@@ -27,7 +27,7 @@ Table 1: Number of Subjects with Selected Adverse Reactions (Occurring in At Lea
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use of Tretinoin Gel 0.05%.
+The following adverse reactions have been identified during post-approval use of Tretinoin Gel.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Temporary hyper- or hypopigmentation has been reported with repeated application of tretinoin.
