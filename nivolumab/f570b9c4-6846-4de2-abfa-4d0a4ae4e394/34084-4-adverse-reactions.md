@@ -376,7 +376,7 @@ The most common adverse reactions (reported in at least 20%) among all patients 
 
 Table 12 summarizes the adverse reactions, excluding laboratory terms, that occurred in at least 10% of patients in the safety population.
 
-Table 12: Non-Laboratory Adverse Reactions Occurring in ≥10% of Patients with cHL(CHECKMATE-205 and CHECKMATE-039)
+Table 12: Non-Laboratory Adverse Reactions Occurring in ≥10% of Patients with cHL (CHECKMATE-205 and CHECKMATE-039)
 
 |  | OPDIVO cHL Safety Population (n=266) |  |
 | --- | --- | --- |
@@ -427,7 +427,7 @@ Twenty-eight patients (11%) had new-onset peripheral neuropathy, and 3 of 40 pat
 These adverse reactions were Grade 1 or 2, except for 1 Grade 3 event (<1%).
 The median time to onset was 50 (range: 1 to 309) days.
 
-Complications of allogeneic HSCT after OPDIVO:[see Warnings and Precautions (5.10)].
+Complications of allogeneic HSCT after OPDIVO: [see Warnings and Precautions (5.10)].
 
 Table 13 summarizes laboratory abnormalities that developed or worsened in at least 10% of patients with cHL.
 The most common (reported in at least 20%) treatment-emergent laboratory events included cytopenias, liver function abnormalities, and elevated lipase.
