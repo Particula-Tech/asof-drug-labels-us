@@ -24,10 +24,10 @@ Silver sulfadiazine acts only on the cell membrane and cell wall to produce its 
 | Providencia species | 1/1 | 1/1 |
 | Citrobacter species | 10/10 | 10/10 |
 | Acinetobacter calcoaceticus | 10/11 | 11/11 |
-| Stahylococcus aureus | 100/101 | 101/101 |
+| Stahylococcus aureus | 100/101 | 100/101 |
 | Staphylococcus epidermidis | 51/51 | 51/51 |
 | β-Hemolytic Streptococcus | 4/4 | 4/4 |
-| Enterococcus species | 52/53 | 53/53 |
+| Enterococcus species | 52/53 | 52/53 |
 | Corynebacterium diphtheriae | 2/2 | 2/2 |
 | Clostridium perfringens | 0/2 | 2/2 |
 | Candida albicans | 43/50 | 50/50 |

@@ -1,7 +1,7 @@
 # DOSAGE AND ADMINISTRATION
 
 Prompt institution of appropriate regimens for care of the burned patient is of prime importance and includes the control of shock and pain.
-The burn wounds are then cleansed and debrided, silver sulfadiazine cream, USP 1% is then applied under sterile conditions.
+The burn wounds are then cleansed and debrided; silver sulfadiazine cream, USP 1% is then applied under sterile conditions.
 The burn areas should be covered with silver sulfadiazine cream, USP 1% at all times.
 The cream should be applied once to twice daily to a thickness of approximately one sixteenth of an inch.
 Whenever necessary, the cream should be reapplied to any areas from which it has been removed by patient activity.
