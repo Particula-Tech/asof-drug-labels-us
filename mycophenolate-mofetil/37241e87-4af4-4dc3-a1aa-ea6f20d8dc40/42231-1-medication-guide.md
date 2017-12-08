@@ -254,10 +254,10 @@ CELLCEPT, CYTOVENE-IV, and VALCYTE are registered trademarks of Hoffmann-La Roch
 
 Distributed by: Genentech USA, Inc. A Member of the Roche Group 1 DNA Way South San Francisco, CA 94080-4990
 
-MG Revised: July 2015
+MG Revised: September 2013
 
 For additional copies of this Medication Guide, please call 1-800-617-8191 or visit www.gene.com/gene/products/information/cellcept.
 
-© 2015 Genentech, Inc. All rights reserved.
+© 2013 Genentech, Inc. All rights reserved.
 
 Representative sample of labeling (see the HOW SUPPLIED section for complete listing):

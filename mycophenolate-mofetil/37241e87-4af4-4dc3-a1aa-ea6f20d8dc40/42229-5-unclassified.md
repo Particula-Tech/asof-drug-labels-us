@@ -9,4 +9,4 @@ Caution should be exercised in the handling and preparation of solutions of Cell
 Avoid direct contact of the prepared solution of CellCept Intravenous with skin or mucous membranes.
 If such contact occurs, wash thoroughly with soap and water; rinse eyes with plain water.
 
-PI Revised: July 2015
+PI Revised: September 2013
