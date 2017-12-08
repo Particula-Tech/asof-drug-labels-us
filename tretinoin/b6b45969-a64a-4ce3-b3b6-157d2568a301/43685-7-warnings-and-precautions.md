@@ -12,9 +12,9 @@ Tretinoin has been reported to cause severe irritation on eczematous or sunburne
 
 To help limit skin irritation, patients must:
 
-- •wash the treated skin gently, using a mild, non-medicated soap, and pat it dry
-- •avoid washing the treated skin too often and scrubbing the affected skin area
-- •avoid contact with the peels of limes
+- •wash the treated skin gently, using a mild, non-medicated soap, and pat it dry,
+- •avoid washing the treated skin too often and scrubbing the affected skin area, and
+- •avoid contact with the peels of limes.
 
 ## 5.2 Ultraviolet Light and Environmental Exposure
 
@@ -27,4 +27,4 @@ Weather extremes, such as wind or cold, also may be irritating to tretinoin-trea
 ## 5.3 Fish Allergies
 
 Atralin Gel contains soluble fish proteins and should be used with caution in patients with known sensitivity or allergy to fish.
-Patients who develop pruritus or urticaria should contact their health care provider.
+Patients who develop pruritus or urticaria should contact their healthcare provider.

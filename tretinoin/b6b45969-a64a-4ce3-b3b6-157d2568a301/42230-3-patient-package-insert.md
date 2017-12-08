@@ -17,8 +17,8 @@ Before using Atralin, tell your healthcare provider about all of your medical co
 - •are allergic to fish.
   Atralin contains fish proteins.
   Tell your healthcare provider if you get hives or itching during treatment with Atralin.
-- •have a skin condition called eczema
-- •have a sunburn
+- •have a skin condition called eczema.
+- •have a sunburn.
 - •are pregnant or plan to become pregnant.
   It is not known if Atralin will harm your unborn baby.
 - •are breastfeeding or plan to breastfeed.
@@ -65,7 +65,7 @@ These are not all of the side effects possible with Atralin.
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
-How do I store Atralin?
+How should I store Atralin?
 
 - •Store Atralin at room temperature, 68°F to 77°F (20°C to 25°C).
 - •Protect from freezing.
@@ -83,14 +83,21 @@ You can ask your pharmacist or healthcare provider for information about Atralin
 
 What are the ingredients of Atralin?
 
-Active ingredient: tretinoin Inactive ingredients: benzyl alcohol, butyl paraben, butylated hydroxytoluene, carbomer 940, ethylparaben, fish collagen hydrolyzates, glycerin, iso-butyl paraben, methylparaben, octoxynol 9, phenoxyethanol, propylparaben, purified water, sodium hyaluronate, and trolamine.
+Active ingredient: tretinoin Inactive ingredients: benzyl alcohol, butylparaben, butylated hydroxytoluene, carbomer homopolymer Type C, ethylparaben, fish collagen hydrolyzates, glycerin, isobutylparaben, methylparaben, octoxynol 9, phenoxyethanol, propylparaben, purified water, sodium hyaluronate, and trolamine.
 
-Manufactured for: Valeant Pharmaceuticals North America LLC, Bridgewater, NJ 08807 by: DPT Laboratories, Ltd., San Antonio, TX 78215
+Manufactured for: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
+
+By: Valeant Pharmaceuticals International, Inc. Laval, Quebec H7L 4A8, Canada
 
 For more information, call 1-800-321-4576.
 
-©2014 Valeant Pharmaceuticals North America LLC
+©Valeant Pharmaceuticals North America LLC
+
+Atralin is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
+
+All other product/brand names are trademarks of their respective owners.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Revised: 08/2014
+9549700 Rev.
+07/2016

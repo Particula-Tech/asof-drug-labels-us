@@ -22,7 +22,7 @@ Similar results have also been reported in pigtail macaques.
 
 Topical tretinoin in a different formulation has generated equivocal results in animal teratogenicity tests.
 There is evidence for teratogenicity (shortened or kinked tail) of topical tretinoin in Wistar rats at doses greater than 1 mg/kg/day (approximately 8 times the clinical dose assuming 100% absorption and based on body surface area comparison).
-Anomalies (humerus: short 13%, bent 6%, os parietal incompletely ossified 14%) have also been reported when 10 mg/kg/day (approximately 160 times the clinical dose assuming 100% absorption and based on body surface areas comparison) was topically applied.
+Anomalies (humerus: short 13%, bent 6%, os parietal incompletely ossified 14%) have also been reported when 10 mg/kg/day (approximately 160 times the clinical dose assuming 100% absorption and based on body surface area comparison) was topically applied.
 Supernumerary ribs have been a consistent finding in rats when dams were treated topically or orally with retinoids.
 
 With widespread use of any drug, a small number of birth defect reports associated temporally with the administration of the drug would be expected by chance alone.

@@ -1,4 +1,4 @@
-# 14 CLINICAL TRIALS
+# 14 CLINICAL STUDIES
 
 The safety and efficacy of Atralin Gel used once daily before bedtime for the treatment of mild to moderate acne vulgaris were assessed in two 12-week prospective, multi-center, randomized, controlled trials.
 Subjects in these two trials ranged from 10 to 65 years of age, were approximately 52% female, 48% male, and were 74% Caucasian, 15% Black or African American, 3% Asian, and 8% Other.

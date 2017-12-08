@@ -7,5 +7,5 @@ It is a member of the retinoid class of compounds, and a metabolite of Vitamin A
 
 Each gram of Atralin Gel, 0.05% contains 0.5 mg of tretinoin.
 
-Other components of this formulation are benzyl alcohol, butyl paraben, butylated hydroxytoluene, carbomer 940, ethylparaben, fish collagen hydrolyzates, glycerin, iso-butyl paraben, methylparaben, octoxynol 9, phenoxyethanol, propylparaben, purified water, sodium hyaluronate, and trolamine.
+Other components of this formulation are benzyl alcohol, butylparaben, butylated hydroxytoluene, carbomer homopolymer Type C, ethylparaben, fish collagen hydrolyzates, glycerin, isobutylparaben, methylparaben, octoxynol 9, phenoxyethanol, propylparaben, purified water, sodium hyaluronate, and trolamine.
 The contribution to efficacy of individual components of the vehicle has not been evaluated.

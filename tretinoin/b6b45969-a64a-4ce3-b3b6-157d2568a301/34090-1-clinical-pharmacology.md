@@ -19,9 +19,9 @@ The plasma concentrations of tretinoin and its metabolites could be measured (LO
 The range of plasma concentrations of tretinoin and its metabolites, 13-cis-retinoic acid and all-trans-4-oxo-retinoic acid at baseline and after multiple once daily applications of Atralin Gel, 0.05% for 14 days are given in Table 2 (below).
 Although some patients had increased concentrations of tretinoin or its metabolites over baseline values, no consistent increase in these concentrations were observed across patients.
 
-Table 2: Concentrations of active and metabolites at Baseline and at Day 14 after exposure to Atralin Gel, 0.05%
+Table 2: Concentrations of Active and Metabolites at Baseline and at Day 14 After Exposure to Atralin Gel, 0.05%
 
-| Compound | Baseline Concentration Range (ng/ml) | Day 14 Concentration Range (ng/ml) |
+| Compound | Baseline Concentration Range (ng/mL) | Day 14 Concentration Range (ng/mL) |
 | --- | --- | --- |
 | Tretinoin | 0.68-1.62 | 0.69-2.88 |
 | 13-cis-retinoic acid | 0.67-1.79 | 0.51-2.26 |
