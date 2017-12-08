@@ -36,13 +36,13 @@ Experience in patients with ventricular arrhythmias is also pertinent to the ris
 In patients with a history of sustained ventricular tachycardia, the incidence of Torsade de Pointes during sotalol treatment was 4% and worsened VT in about 1%; in patients with other less serious ventricular arrhythmias the incidence of Torsade de Pointes was 1% and new or worsened VT in about 0.7%.
 Additionally, in approximately 1% of patients, deaths were considered possibly drug related; such cases, although difficult to evaluate, may have been associated with proarrhythmic events.
 
-Torsade de Pointes arrhythmias in patients with VT/VF were dose related, as was the prolongation of QT (QTc) interval, as shown in Table 6 below.
+Torsade de Pointes arrhythmias in patients with VT/VF were dose related, as was the prolongation of QT (QT c) interval, as shown in Table 6 below.
 
-Table 6 Percent Incidence of Torsade de Pointes and Mean QTc Interval by Dose For Patients With Sustained VT/VF
+Table 6 Percent Incidence of Torsade de Pointes and Mean QT c Interval by Dose For Patients With Sustained VT/VF
 
-| Daily Dose (mg) | Incidence of Torsade de Pointes | Mean QTc *(msec) |
+| Daily Dose (mg) | Incidence of Torsade de Pointes | Mean QT c *(msec) |
 | --- | --- | --- |
-| 80 | 0 (69)† | 463 (17) † |
+| 80 | 0 (69) † | 463 (17) † |
 | 160 | 0.5 (832) † | 467 (181) † |
 | 320 | 1.6 (835) † | 473 (344) † |
 | 480 | 4.4 (459) † | 483 (234) † |
@@ -50,10 +50,10 @@ Table 6 Percent Incidence of Torsade de Pointes and Mean QTc Interval by Dose Fo
 | >640 | 5.8 (103) † | 512 (62) † |
 | *highest on therapy value†() Number of patients assessed |  |  |
 
-Table 7 below relates the incidence of Torsade de Pointes to on-therapy QTc and change in QTc from baseline.
-It should be noted, however, that the highest on therapy QTc was in many cases the one obtained at the time of the Torsade de Pointes event, so that the table overstates the predictive value of a high QTc.
+Table 7 below relates the incidence of Torsade de Pointes to on-therapy QT c and change in QT c from baseline.
+It should be noted, however, that the highest on therapy QT c was in many cases the one obtained at the time of the Torsade de Pointes event, so that the table overstates the predictive value of a high QT c.
 
-Table 7 Relationship Between QTc Interval Prolongation and Torsade de Pointe
+Table 7 Relationship Between QT c Interval Prolongation and Torsade de Pointe
 
 | On-TherapyQTc Interval(msec) | Incidence ofTorsade dePointes | Change in QTcInterval FromBaseline (msec) | Incidence ofTorsade dePointes |
 | --- | --- | --- | --- |
@@ -64,7 +64,7 @@ Table 7 Relationship Between QTc Interval Prolongation and Torsade de Pointe
 |  |  | >130 | 7.1% (99)* |
 | *() Number of patients assessed |  |  |  |
 
-In addition to dose and presence of sustained VT, other risk factors for Torsade de Pointes were gender (females had a higher incidence), excessive prolongation of the QTc interval and history of cardiomegaly or congestive heart failure.
+In addition to dose and presence of sustained VT, other risk factors for Torsade de Pointes were gender (females had a higher incidence), excessive prolongation of the QT c interval and history of cardiomegaly or congestive heart failure.
 Patients with sustained ventricular tachycardia and a history of congestive heart failure appear to have the highest risk for serious proarrhythmia (7%).
 
 Of the ventricular arrhythmia patients experiencing Torsade de Pointes, approximately two-thirds spontaneously reverted to their baseline rhythm.
@@ -125,7 +125,7 @@ Because coronary artery disease is common and may be unrecognized in patients re
 ## Non-Allergic Bronchospasm (e.g., chronic bronchitis and emphysema)
 
 PATIENTS WITH BRONCHOSPASTIC DISEASES SHOULD IN GENERAL NOT RECEIVE BETA-BLOCKERS.
-It is prudent, if sotalol hydrochloride is to be administered, to use the smallest effective dose, so that inhibition of bronchodilation produced by endogenous or exogenous catecholamine stimulation of beta2 receptors may be minimized.
+It is prudent, if sotalol hydrochloride is to be administered, to use the smallest effective dose, so that inhibition of bronchodilation produced by endogenous or exogenous catecholamine stimulation of beta 2 receptors may be minimized.
 
 ## Anaphylaxis
 
@@ -144,7 +144,7 @@ In patients with diabetes (especially labile diabetes) or with a history of epis
 
 Sotalol (AF) should be used only with extreme caution in patients with sick sinus syndrome associated with symptomatic arrhythmias, because it may cause sinus bradycardia, sinus pauses or sinus arrest.
 In patients with AFIB and sinus node dysfunction, the risk of Torsade de Pointes with sotalol (AF) therapy is increased, especially after cardioversion.
-Bradycardia following cardioversion in these patients is associated with QTc interval prolongation which is augmented due to the reverse use dependence of the Class III effects of sotalol (AF).
+Bradycardia following cardioversion in these patients is associated with QT c interval prolongation which is augmented due to the reverse use dependence of the Class III effects of sotalol (AF).
 Patients with AFIB/AFL associated with the sick sinus syndrome may be treated with sotalol (AF) if they have an implanted pacemaker for control of bradycardia symptoms.
 
 ## Thyrotoxicosis
@@ -225,7 +225,7 @@ No pharmacokinetic interactions were observed with hydrochlorothiazide or warfar
 
 ## Antacids
 
-Administration of sotalol (AF) within 2 hours of antacids containing aluminum oxide and magnesium hydroxide should be avoided because it may result in a reduction in Cmax and AUC of 26% and 20%, respectively and consequently in a 25% reduction in the bradycardic effect at rest.
+Administration of sotalol (AF) within 2 hours of antacids containing aluminum oxide and magnesium hydroxide should be avoided because it may result in a reduction in C max and AUC of 26% and 20%, respectively and consequently in a 25% reduction in the bradycardic effect at rest.
 Administration of the antacid two hours after sotalol (AF) has no effect on the pharmacokinetics or pharmacodynamics of sotalol.
 
 ## Drug/Laboratory Test Interactions
@@ -236,17 +236,17 @@ In screening patients suspected of having a pheochromocytoma and being treated w
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-No evidence of carcinogenic potential was observed in rats during a 24-month study at 137-275 mg/kg/ day (approximately 30 times the maximum recommended human oral dose (MRHD) as mg/kg or 5 times the MRHD as mg/m2) or in mice, during a 24-month study at 4141-7122 mg/kg/day (approximately 450-750 times the MRHD as mg/kg or 36-63 times the MRHD as mg/m2).
+No evidence of carcinogenic potential was observed in rats during a 24-month study at 137-275 mg/kg/ day (approximately 30 times the maximum recommended human oral dose (MRHD) as mg/kg or 5 times the MRHD as mg/m 2) or in mice, during a 24-month study at 4141-7122 mg/kg/day (approximately 450-750 times the MRHD as mg/kg or 36-63 times the MRHD as mg/m 2).
 Sotalol has not been evaluated in any specific assay of mutagenicity or clastogenicity.
 
-No significant reduction in fertility occurred in rats at oral doses of 1000 mg/kg/ day (approximately 100 times the MRHD as mg/kg or 9 times the MRHD as mg/m2) prior to mating, except for a small reduction in the number of offspring per litter.
+No significant reduction in fertility occurred in rats at oral doses of 1000 mg/kg/ day (approximately 100 times the MRHD as mg/kg or 9 times the MRHD as mg/m 2) prior to mating, except for a small reduction in the number of offspring per litter.
 
 ## Pregnancy Category B
 
-Reproduction studies in rats and rabbits during organogenesis at 100 and 22 times the MRHD as mg/kg (9 and 7 times the MRHD as mg/m2), respectively, did not reveal any teratogenic potential associated with sotalol HCl.
-In rabbits, a high dose of sotalol hydrochloride (160 mg/kg/day) at 16 times the MRHD as mg/kg (6 times the MRHD as mg/m2) produced a slight increase in fetal death likely due to maternal toxicity.
-Eight times the maximum dose (80 mg/kg/day or 3 times the MRHD as mg/m2) did not result in an increased incidence of fetal deaths.
-In rats, 1000 mg/kg/day sotalol HCl, 100 times the MRHD (18 times the MRHD as mg/m2), increased the number of early resorptions, while at 14 times the maximum dose (2.5 times the MRHD as mg/m2), no increase in early resorptions was noted.
+Reproduction studies in rats and rabbits during organogenesis at 100 and 22 times the MRHD as mg/kg (9 and 7 times the MRHD as mg/m 2), respectively, did not reveal any teratogenic potential associated with sotalol HCl.
+In rabbits, a high dose of sotalol hydrochloride (160 mg/kg/day) at 16 times the MRHD as mg/kg (6 times the MRHD as mg/m 2) produced a slight increase in fetal death likely due to maternal toxicity.
+Eight times the maximum dose (80 mg/kg/day or 3 times the MRHD as mg/m 2) did not result in an increased incidence of fetal deaths.
+In rats, 1000 mg/kg/day sotalol HCl, 100 times the MRHD (18 times the MRHD as mg/m 2), increased the number of early resorptions, while at 14 times the maximum dose (2.5 times the MRHD as mg/m 2), no increase in early resorptions was noted.
 However, animal reproduction studies are not always predictive of human response.
 
 Although there are no adequate and well-controlled studies in pregnant women, sotalol HCl has been shown to cross the placenta, and is found in amniotic fluid.
@@ -261,5 +261,5 @@ Because of the potential for adverse reactions in nursing infants from sotalol (
 ## Pediatric Use
 
 The safety and effectiveness of sotalol (AF) in children have not been established.
-However, the Class III electrophysiologic and beta-blocking effects, the pharmacokinetics, and the relationship between the effects (QTc interval and resting heart rate) and drug concentrations have been evaluated in children aged between 3 days and 12 years old.
+However, the Class III electrophysiologic and beta-blocking effects, the pharmacokinetics, and the relationship between the effects (QT c interval and resting heart rate) and drug concentrations have been evaluated in children aged between 3 days and 12 years old.
 (See CLINICAL PHARMACOLOGY.)

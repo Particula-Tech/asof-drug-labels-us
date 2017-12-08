@@ -7,5 +7,5 @@ Patients with paroxysmal AFIB whose AFIB/AFL that is easily reversed (by Valsalv
 In general, antiarrhythmic therapy for AFIB/AFL aims to prolong the time in normal sinus rhythm.
 Recurrence is expected in some patients (see Clinical Studies).
 
-Sotalol hydrochloride tablets (AF) are also indicated for the treatment of documented life-threatening ventricular arrhythmias and is marketed under the brand name Betapace® (sotalol hydrochloride tablets).
+Sotalol hydrochloride tablets (AF) are also indicated for the treatment of documented life-threatening ventricular arrhythmias and is marketed under the brand name Betapace ® (sotalol hydrochloride tablets).
 Sotalol hydrochloride tablets, however, must not be substituted for sotalol hydrochloride tablets (AF) because of significant differences in labeling (i.e., patient package insert, dosing administration and safety information).

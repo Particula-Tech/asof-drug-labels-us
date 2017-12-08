@@ -77,7 +77,7 @@ The next dose should be taken at the usual time.
 
 ## Dosing and Administration in Children
 
-As in adults the following precautionary measures should be considered when initiating sotalol treatment in children: initiation of treatment in the hospital after appropriate clinical assessment; individualized regimen as appropriate; gradual increase of doses if required; careful assessment of therapeutic response and tolerability; and frequent monitoring of the QTc interval and heart rate.
+As in adults the following precautionary measures should be considered when initiating sotalol treatment in children: initiation of treatment in the hospital after appropriate clinical assessment; individualized regimen as appropriate; gradual increase of doses if required; careful assessment of therapeutic response and tolerability; and frequent monitoring of the QT c interval and heart rate.
 
 ### For children aged about 2 years and greater
 
@@ -85,29 +85,29 @@ For children aged about 2 years and greater, with normal renal function, doses n
 Since the Class III potency in children (see CLINICAL PHARMACOLOGY) is not very different from that in adults, reaching plasma concentrations that occur within the adult dose range is an appropriate guide.
 From pediatric pharmacokinetic data the following is recommended.
 
-For initiation of treatment, 30 mg/m2 three times a day (90 mg/m2 total daily dose) is approximately equivalent to the initial 160 mg total daily dose for adults.
-Subsequent titration to a maximum of 60 mg/m2 (approximately equivalent to the 360 mg total daily dose for adults) can then occur.
-Titration should be guided by clinical response, heart rate and QTc, with increased dosing being preferably carried out in-hospital.
+For initiation of treatment, 30 mg/m 2 three times a day (90 mg/m 2 total daily dose) is approximately equivalent to the initial 160 mg total daily dose for adults.
+Subsequent titration to a maximum of 60 mg/m 2 (approximately equivalent to the 360 mg total daily dose for adults) can then occur.
+Titration should be guided by clinical response, heart rate and QT c, with increased dosing being preferably carried out in-hospital.
 At least 36 hours should be allowed between dose increments to attain steady-state plasma concentrations of sotalol in patients with age-adjusted normal renal function.
 
 ### For children aged about 2 years or younger
 
 For children aged about 2 years or younger, the above pediatric dosage should be reduced by a factor that depends heavily upon age, as shown in the following graph, age plotted on a logarithmic scale in months.
 
-For a child aged 20 months, the dosing suggested for children with normal renal function aged 2 years or greater should be multiplied by about 0.97; the initial starting dose would be (30 X 0.97)=29.1 mg/m2, administered three times daily.
-For a child aged 1 month, the starting dose should be multiplied by 0.68; the initial starting dose would be (30 X 0.68)=20 mg/m2, administered three times daily.
-For a child aged about 1 week, the initial starting dose should be multiplied by 0.3; the starting dose would be (30 X 0.3)=9 mg/m2.
+For a child aged 20 months, the dosing suggested for children with normal renal function aged 2 years or greater should be multiplied by about 0.97; the initial starting dose would be (30 X 0.97)=29.1 mg/m 2, administered three times daily.
+For a child aged 1 month, the starting dose should be multiplied by 0.68; the initial starting dose would be (30 X 0.68)=20 mg/m 2, administered three times daily.
+For a child aged about 1 week, the initial starting dose should be multiplied by 0.3; the starting dose would be (30 X 0.3)=9 mg/m 2.
 Similar calculations should be made for increased doses as titration proceeds.
 Since the half-life of sotalol decreases with decreasing age (below about 2 years), time to steady-state will also increase.
 Thus, in neonates the time to steady-state may be as long as a week or longer.
 
 In all children, individualization of dosage is required.
-As in adults sotalol hydrochloride tablets (AF) should be used with particular caution in children if the QTc is greater than 500 msec on therapy and serious consideration should be given to reducing the dose or discontinuing therapy when QTc exceeds 550 msec.
+As in adults sotalol hydrochloride tablets (AF) should be used with particular caution in children if the QT c is greater than 500 msec on therapy and serious consideration should be given to reducing the dose or discontinuing therapy when QT c exceeds 550 msec.
 
 The use of sotalol hydrochloride tablets (AF) in children with renal impairment has not been investigated.
 Sotalol elimination is predominantly via the kidney in the unchanged form.
 Use of sotalol in any age group with decreased renal function should be at lower doses or at increased intervals between doses.
-Monitoring of heart rate and QTc is more important and it will take much longer to reach steady-state with any dose and/or frequency of administration.
+Monitoring of heart rate and QT c is more important and it will take much longer to reach steady-state with any dose and/or frequency of administration.
 
 ### Transfer to Sotalol Hydrochloride Tablets (AF) from Sotalol Hydrochloride Tablets
 

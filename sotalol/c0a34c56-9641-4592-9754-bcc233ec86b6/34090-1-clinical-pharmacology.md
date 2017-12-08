@@ -9,8 +9,8 @@ The beta-blocking effect of sotalol is non-cardioselective, half maximal at abou
 Sotalol does not have partial agonist or membrane stabilizing activity.
 Although significant beta-blockade occurs at oral doses as low as 25 mg, significant Class III effects are seen only at daily doses of 160 mg and above.
 
-In children, a Class III electrophysiological effect can be seen at daily doses of 210 mg/m2 body surface area (BSA).
-A reduction of the resting heart rate due to the beta-blocking effect of sotalol is observed at daily doses ≥90 mg/m2 in children.
+In children, a Class III electrophysiological effect can be seen at daily doses of 210 mg/m 2 body surface area (BSA).
+A reduction of the resting heart rate due to the beta-blocking effect of sotalol is observed at daily doses ≥90 mg/m 2 in children.
 
 ## Electrophysiology
 
@@ -19,9 +19,8 @@ In intact animals it slows heart rate, decreases AV nodal conduction and increas
 
 In man, the Class II (beta-blockade) electrophysiological effects of sotalol hydrochloride (AF) are manifested by increased sinus cycle length (slowed heart rate), decreased AV nodal conduction and increased AV nodal refractoriness.
 The Class III electrophysiological effects in man include prolongation of the atrial and ventricular monophasic action potentials, and effective refractory period prolongation of atrial muscle, ventricular muscle, and atrio-ventricular accessory pathways (where present) in both the anterograde and retrograde directions.
-With oral doses of 160 to 640 mg/day, the surface ECG shows dose-related mean increases of 40-100 msec in QT and 10-40 msec in QTc.
-In a study of patients with atrial fibrillation (AFIB)/flutter (AFIB/AFL) receiving three different oral doses of sotalol hydrochloride (AF) given q12h (or q24h in patients with a reduced creatinine clearance), mean increases in QT intervals measured from 12-lead ECGs of 25 msec, 40 msec and 54 msec were found in the 80 mg, 120 mg, and 160 mg dose groups, respectively.
-(See WARNINGS for description of relationship between QTc and Torsade de Pointes type arrhythmias.)
+With oral doses of 160 to 640 mg/day, the surface ECG shows dose-related mean increases of 40-100 msec in QT and 10-40 msec in QT c. In a study of patients with atrial fibrillation (AFIB)/flutter (AFIB/AFL) receiving three different oral doses of sotalol hydrochloride (AF) given q12h (or q24h in patients with a reduced creatinine clearance), mean increases in QT intervals measured from 12-lead ECGs of 25 msec, 40 msec and 54 msec were found in the 80 mg, 120 mg, and 160 mg dose groups, respectively.
+(See WARNINGS for description of relationship between QT c and Torsade de Pointes type arrhythmias.)
 No significant alteration in QRS interval is observed.
 
 In a small study (n=25) of patients with implanted defibrillators treated concurrently with sotalol, the average defibrillatory threshold was 6 joules (range 2-15 joules) compared to a mean of 16 joules for a non-randomized comparative group primarily receiving amiodarone.
@@ -29,12 +28,12 @@ In a small study (n=25) of patients with implanted defibrillators treated concur
 In a dose-response trial comparing three dose levels of sotalol hydrochloride 80 mg, 120 mg, and 160 mg with placebo given q12h (or q24h in patients with a reduced renal creatinine clearance) for the prevention of recurrence of symptomatic atrial fibrillation (AFIB)/flutter (AFL), the mean ventricular rate during recurrence of AFIB/AFL was 125, 107, 110 and 99 beats/min in the placebo, 80 mg, 120 mg and 160 mg dose groups, respectively (p<0.017 for each sotalol dose group versus placebo).
 In another placebo controlled trial in which sotalol hydrochloride was titrated to a dose between 160 and 320 mg/day in patients with chronic AFIB, the mean ventricular rate during recurrence of AFIB was 107 and 84 beats/min in the placebo and sotalol hydrochloride groups, respectively (p<0.001).
 
-Twenty-five children in an unblinded, multicenter trial with supraventricular (SVT) and/or ventricular (VT) tachyarrhythmias, aged between 3 days and 12 years (mostly neonates and infants), received an ascending titration regimen with daily doses of 30, 90 and 210 mg/m2 with dosing every 8 hours for a total of 9 doses.
-During steady-state, the respective average increases above baseline of the QTc interval, in msec (%), were 2(+1%), 14(+4%) and 29(+7%) msec at the 3 dose levels.
-The respective mean maximum increases above baseline of the QTc interval, in msec (%), were 23(+6%), 36(+9%) and 55(+14%) msec at the 3 dose levels.
+Twenty-five children in an unblinded, multicenter trial with supraventricular (SVT) and/or ventricular (VT) tachyarrhythmias, aged between 3 days and 12 years (mostly neonates and infants), received an ascending titration regimen with daily doses of 30, 90 and 210 mg/m 2 with dosing every 8 hours for a total of 9 doses.
+During steady-state, the respective average increases above baseline of the QT c interval, in msec (%), were 2(+1%), 14(+4%) and 29(+7%) msec at the 3 dose levels.
+The respective mean maximum increases above baseline of the QT c interval, in msec (%), were 23(+6%), 36(+9%) and 55(+14%) msec at the 3 dose levels.
 The steady-state percent increases in the RR interval were 3, 9 and 12%.
-The smallest children (BSA<0.33m2) showed a tendency for larger Class III effects (ΔQTc) and an increased frequency of prolongations of the QTc interval as compared with the larger children (BSA ≥0.33m2).
-The beta-blocking effects also tended to be greater in the smaller children (BSA<0.33m2).
+The smallest children (BSA<0.33m 2) showed a tendency for larger Class III effects (ΔQT c) and an increased frequency of prolongations of the QT c interval as compared with the larger children (BSA ≥0.33m 2).
+The beta-blocking effects also tended to be greater in the smaller children (BSA<0.33m 2).
 Both the Class III and beta-blocking effects of sotalol were linearly related with the plasma concentrations.
 
 ## Hemodynamics
@@ -78,7 +77,7 @@ Table 1 Study 1 – Patient Status at 12 Months
 | 80 mg | 120 mg | 160 mg |  |  |
 | Randomized | 69 | 59 | 63 | 62 |
 | On treatment in NSR at 12 months without recurrence* | 23% | 22% | 29% | 23% |
-| Recurrence*† | 67% | 58% | 49% | 42% |
+| Recurrence* † | 67% | 58% | 49% | 42% |
 | D/C for AEs | 6% | 12% | 18% | 29% |
 | *Symptomatic AFIB/AFL†Efficacy endpoint of Study 1; study treatment stopped. |  |  |  |  |
 
@@ -100,7 +99,7 @@ In a second multicenter, randomized, placebo-controlled, double-blind study of 6
 The patient population of this trial was 70% male with a mean age of 65 years.
 Structural heart disease was present in 49% of the patients.
 All patients had chronic AFIB for >2 weeks but <1 year at entry with a mean duration of 4.1 months.
-Patients were excluded if they had significant electrolyte imbalance, QTc >460 msec, QRS >140 msec, any degree of AV block or functioning pacemaker, uncompensated cardiac failure, asthma, significant renal disease (estimated creatinine clearance <50 mL/min), heart rate <50 bpm, myocardial infarction or open heart surgery in past 2 months, unstable angina, infective endocarditis, active pericarditis or myocarditis, ≥3 DC cardioversions in the past, medications that prolonged QT interval, and previous amiodarone treatment.
+Patients were excluded if they had significant electrolyte imbalance, QT c >460 msec, QRS >140 msec, any degree of AV block or functioning pacemaker, uncompensated cardiac failure, asthma, significant renal disease (estimated creatinine clearance <50 mL/min), heart rate <50 bpm, myocardial infarction or open heart surgery in past 2 months, unstable angina, infective endocarditis, active pericarditis or myocarditis, ≥3 DC cardioversions in the past, medications that prolonged QT interval, and previous amiodarone treatment.
 After successful cardioversion patients were randomized to receive placebo (n=114) or sotalol hydrochloride (AF) (n=118), at a starting dose of 80 mg twice daily.
 If the initial dose was not tolerated it was decreased to 80 mg once daily, but if it was tolerated it was increased to 160 mg twice daily.
 During the maintenance period 67% of treated patients received a dose of 160 mg twice daily, and the remainder received doses of 80 mg once daily (17%) and 80 mg twice daily (16%).
@@ -116,7 +115,7 @@ Table 3 Study 2 – Patient Status at 6 Months
 | --- | --- | --- |
 | Randomized | 118 | 114 |
 | On treatment in NSR at 6 months without recurrence* | 45% | 29% |
-| Recurrence*† | 49% | 67% |
+| Recurrence *† | 49% | 67% |
 | D/C for AEs | 6% | 3% |
 | Death |  | 1% |
 | *Symptomatic or asymptomatic AFIB/AFL†Efficacy endpoint of Study 2; study treatment stopped. |  |  |
@@ -156,10 +155,10 @@ The absorption of sotalol was reduced by approximately 20% compared to fasting w
 Since sotalol is not subject to first-pass metabolism, patients with hepatic impairment show no alteration in clearance of sotalol.
 
 The combined analysis of two unblinded, multicenter trials (a single dose and a multiple dose study) with 59 children, aged between 3 days and 12 years, showed the pharmacokinetics of sotalol to be first order.
-A daily dose of 30 mg/m2 of sotalol was administered in the single dose study and daily doses of 30, 90 and 210 mg/m2 were administered q8h in the multi-dose study.
+A daily dose of 30 mg/m 2 of sotalol was administered in the single dose study and daily doses of 30, 90 and 210 mg/m 2 were administered q8h in the multi-dose study.
 After rapid absorption with peak levels occurring on average between 2-3 hours following administration, sotalol was eliminated with a mean half-life of 9.5 hours.
 Steady-state was reached after 1-2 days.
 The average peak to trough concentration ratio was 2.
 BSA was the most important covariate and more relevant than age for the pharmacokinetics of sotalol.
-The smallest children (BSA <0.33m2) exhibited a greater drug exposure (+59%) than the larger children who showed a uniform drug concentration profile.
+The smallest children (BSA <0.33m 2) exhibited a greater drug exposure (+59%) than the larger children who showed a uniform drug concentration profile.
 The intersubject variation for oral clearance was 22%.

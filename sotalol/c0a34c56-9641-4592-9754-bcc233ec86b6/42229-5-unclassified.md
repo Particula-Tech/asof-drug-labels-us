@@ -45,7 +45,7 @@ Also, call your doctor right away if you have any of the following conditions:
 These are conditions that will make you more likely to get the different type of abnormal heartbeat.
 
 If you take sotalol hydrochloride tablets (AF) with certain other medicines, you will increase your chance of getting this different type of abnormal heartbeat.
-These medicines are listed below under "Who should not take sotalol hydrochloride tablets (AF)?"
+These medicines are listed below under " Who should not take sotalol hydrochloride tablets (AF)?"
 
 Once your doctor finds the right dose for you, always take that exact amount of sotalol hydrochloride tablets (AF).
 Never take an extra dose and never skip a dose of sotalol hydrochloride tablets (AF).
@@ -83,7 +83,7 @@ active and swelling of the ankles or legs);
 
 • have a very slow heart beat and do not have an implanted artificial pacemaker;
 
-Taking certain other medicines with sotalol hydrochloride tablets (AF) can increase the chance that you will get the dangerous abnormal heartbeat discussed in "What is the most important information I should know about sotalol hydrochloride tablets (AF)?"
+Taking certain other medicines with sotalol hydrochloride tablets (AF) can increase the chance that you will get the dangerous abnormal heartbeat discussed in " What is the most important information I should know about sotalol hydrochloride tablets (AF)?"
 These include medicines used to treat abnormal heart rhythms and some other heart problems as well as medicines used to treat depression and other mental problems, night-time heartburn, asthma and infections.
 Therefore, you should be sure to tell your healthcare provider about all prescription and non-prescription medicines you are taking, as well as vitamins, dietary supplements, and any natural or herbal remedies.
 In addition, tell your doctor about any problems you have with your heart or kidneys.
@@ -122,9 +122,9 @@ Take your sotalol hydrochloride (AF) tablets with you to show to the doctor or n
 
 ## What should I avoid while taking sotalol hydrochloride tablets (AF)?
 
-Certain other medicines taken with sotalol hydrochloride tablets (AF) may increase the chance that you will get the dangerous abnormal heartbeat (see "Who should not take sotalol hydrochloride tablets (AF)?").
+Certain other medicines taken with sotalol hydrochloride tablets (AF) may increase the chance that you will get the dangerous abnormal heartbeat (see " Who should not take sotalol hydrochloride tablets (AF)?").
 Do not take sotalol hydrochloride tablets (AF) with these medicines.
-Before you start taking sotalol hydrochloride tablets (AF) tell your doctor about all prescription and non-prescription medicines you are taking (see also "Who should not take sotalol hydrochloride tablets (AF)?).
+Before you start taking sotalol hydrochloride tablets (AF) tell your doctor about all prescription and non-prescription medicines you are taking (see also " Who should not take sotalol hydrochloride tablets (AF)?).
 Once you begin taking sotalol hydrochloride tablets (AF), do not start taking any new medicines until you check with your doctor.
 
 Carry a list of all the medicines and supplements you take.
@@ -136,7 +136,7 @@ Sotalol hydrochloride tablets (AF) can affect how well some anesthetics work.
 
 ## What are the possible side effects of sotalol hydrochloride tablets (AF)?
 
-Sotalol hydrochloride tablet (AF)'s most serious side effect, a different type of dangerous abnormal heartbeat, is discussed in "What is the most important information I should know about sotalol hydrochloride tablets (AF)?"
+Sotalol hydrochloride tablet (AF)'s most serious side effect, a different type of dangerous abnormal heartbeat, is discussed in " What is the most important information I should know about sotalol hydrochloride tablets (AF)?"
 Dangerous abnormal heartbeats happen rarely.
 But they can be serious and, in rare instances, can even cause death.
 
