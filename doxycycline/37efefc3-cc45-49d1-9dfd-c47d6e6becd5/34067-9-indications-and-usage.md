@@ -26,7 +26,7 @@ Psittacosis (ornithosis) caused by Chlamydophila psittaci.
 
 Because many strains of the following groups of microorganisms have been shown to be resistant to doxycycline, culture and susceptibility testing are recommended.
 
-Doxycycline is indicated for treatment of infections caused by the following micro-organisms, when bacteriological testing indicates appropriate susceptibility to the drug: Respiratory tract infections caused by Haemophilus influenzae.
+Doxycycline is indicated for treatment of infections caused by the following microorganisms, when bacteriological testing indicates appropriate susceptibility to the drug: Respiratory tract infections caused by Haemophilus influenzae.
 Respiratory tract infections caused by Klebsiella species.
 Upper respiratory infections caused by Streptococcus pneumoniae.
 
@@ -47,14 +47,13 @@ Doxycycline is indicated for treatment of infections caused by the following gra
 ## 1.5 Ophthalmic infections
 
 Trachoma caused by Chlamydia trachomatis, although the infectious agent is not always eliminated as judged by immunofluorescence.
-
 Inclusion conjunctivitis caused by Chlamydia trachomatis.
 
 ## 1.6 Anthrax including inhalational anthrax (post-exposure)
 
 Anthrax due to Bacillus anthracis, including inhalational anthrax (post-exposure): to reduce the incidence or progression of disease following exposure to aerosolized Bacillus anthracis.
 
-## 1.7Alternative treatment for selected infections when penicillin is contraindicated
+## 1.7 Alternative treatment for selected infections when penicillin is contraindicated
 
 When penicillin is contraindicated, doxycycline is an alternative drug in the treatment of the following infections: Syphilis caused by Treponema pallidum.
 Yaws caused by Treponema pertenue.

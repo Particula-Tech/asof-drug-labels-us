@@ -7,7 +7,7 @@ The primary efficacy objective was to demonstrate non-inferiority of the DORYX T
 
 Table 4: Primary Efficacy Outcome – Microbiological Cure of C. trachomatis at Day 28
 
-| mITT Population |  | DORYX Tablets, 200 mg once daily Cure Rate (%) | Doxycycline hyclate capsules, 100 mg twice daily Cure Rate (%) | Difference (%) |
+|  | mITT Population | DORYX Tablets, 200 mg once dailyCure Rate (%) | Doxycycline hyclate capsules, 100 mg twice dailyCure Rate (%) | Difference(%) |
 | --- | --- | --- | --- | --- |
 |  | N | 188 | 190 |  |
 |  | Microbiological Cure, n (%) | 163 (86.7) | 171 (90.0) | -3.3% |

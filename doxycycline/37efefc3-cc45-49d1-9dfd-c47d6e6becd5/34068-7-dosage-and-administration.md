@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1Usual Dosage and Administration
+## 2.1 Usual Dosage and Administration
 
 THE USUAL DOSAGE AND FREQUENCY OF ADMINISTRATION OF DOXYCYCLINE DIFFERS FROM THAT OF THE OTHER TETRACYCLINES.
 EXCEEDING THE RECOMMENDED DOSAGE MAY RESULT IN AN INCREASED INCIDENCE OF SIDE EFFECTS.
@@ -33,21 +33,20 @@ Syphilis of more than one year’s duration: Patients who are allergic to penici
 
 Acute epididymo-orchitis caused by C. trachomatis: 100 mg, by mouth, twice-a-day for at least 10 days.
 
-## 2.2For prophylaxis of malaria
+## 2.2 For prophylaxis of malaria
 
 For adults, the recommended dose is 100 mg daily.
 For children over 8 years of age, the recommended dose is 2 mg/kg given once daily up to the adult dose.
 Prophylaxis should begin 1 or 2 days before travel to the malarious area.
 Prophylaxis should be continued daily during travel in the malarious area and for 4 weeks after the traveler leaves the malarious area.
 
-## 2.3Inhalational anthrax (post-exposure)
+## 2.3 Inhalational anthrax (post-exposure)
 
 ADULTS: 100 mg, of doxycycline, by mouth, twice-a-day for 60 days.
-
 CHILDREN: weighing less than 45 kg, 2.2 mg/kg of body weight, by mouth, twice-a-day for 60 days.
 Children weighing 45 kg or more should receive the adult dose.
 
-## 2.4Sprinkling the tablet over applesauce
+## 2.4 Sprinkling the tablet over applesauce
 
 DORYX Tablets may also be administered by carefully breaking up the tablet and sprinkling the tablet contents (delayed-release pellets) on a spoonful of applesauce.
 The delayed-release pellets must not be crushed or damaged when breaking up the tablet.

@@ -1,4 +1,4 @@
-FDA-Approved Patient Labeling
+# FDA-Approved Patient Labeling
 
 DORYX® (doxycycline hyclate delayed-release tablets), 100 mg, 150 mg and 200 mg
 
@@ -11,11 +11,7 @@ If your doctor prescribed:
 
 - 150 mg treatment (take the entire tablet)
 
-____________________________________________________________________________________________________________
-
 - 100 mg treatment (take two thirds of the tablet or two 50 mg tablet segments)
-
-_______________________________________________________________________________________
 
 - 50 mg treatment (take one third of the tablet)
 

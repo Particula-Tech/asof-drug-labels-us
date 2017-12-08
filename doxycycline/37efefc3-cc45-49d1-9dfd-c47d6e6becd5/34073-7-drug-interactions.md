@@ -4,7 +4,7 @@
 
 Because tetracyclines have been shown to depress plasma prothrombin activity, patients who are on anticoagulant therapy may require downward adjustment of their anticoagulant dosage.
 
-## 7.2Penicillin
+## 7.2 Penicillin
 
 Since bacteriostatic drugs may interfere with the bactericidal action of penicillin, it is advisable to avoid giving tetracyclines in conjunction with penicillin.
 
@@ -24,6 +24,6 @@ Barbiturates, carbamazepine, and phenytoin decrease the half-life of doxycycline
 
 The concurrent use of tetracycline and Penthrane® (methoxyflurane) has been reported to result in fatal renal toxicity.
 
-## 7.7Drug/Laboratory Test Interactions
+## 7.7 Drug/Laboratory Test Interactions
 
 False elevations of urinary catecholamines may occur due to interference with the fluorescence test.

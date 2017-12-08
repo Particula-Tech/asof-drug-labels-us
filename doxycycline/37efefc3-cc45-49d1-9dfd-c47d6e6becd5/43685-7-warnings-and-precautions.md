@@ -7,7 +7,7 @@ This adverse reaction is more common during long-term use of the drugs but it ha
 Enamel hypoplasia has also been reported.
 Doxycycline should not be used in this age group, except for anthrax, including inhalational anthrax (post-exposure), unless other drugs are not likely to be effective or are contraindicated.
 
-## 5.2Clostridium difficile associated diarrhea
+## 5.2 Clostridium difficile associated diarrhea
 
 Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including DORYX Tablets, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
@@ -30,12 +30,12 @@ Patients apt to be exposed to direct sunlight or ultraviolet light should be adv
 As with other antibacterial preparations, use of DORYX may result in overgrowth of non-susceptible organisms, including fungi.
 If superinfection occurs, the antibacterial should be discontinued and appropriate therapy instituted.
 
-## 5.5Benign Intracranial Hypertension
+## 5.5 Benign Intracranial Hypertension
 
 Bulging fontanels in infants and benign intracranial hypertension in adults have been reported in individuals receiving tetracyclines.
 These conditions disappeared when the drug was discontinued.
 
-## 5.6Skeletal Development
+## 5.6 Skeletal Development
 
 All tetracyclines form a stable calcium complex in any bone-forming tissue.
 A decrease in fibula growth rate has been observed in prematures given oral tetracycline in doses of 25 mg/kg every six hours.
@@ -45,22 +45,22 @@ Results of animal studies indicate that tetracyclines cross the placenta, are fo
 Evidence of embryotoxicity also has been noted in animals treated early in pregnancy.
 If any tetracycline is used during pregnancy or if the patient becomes pregnant while taking these drugs, the patient should be apprised of the potential hazard to the fetus.
 
-## 5.7Antianabolic Action
+## 5.7 Antianabolic Action
 
 The antianabolic action of the tetracyclines may cause an increase in BUN.
 Studies to date indicate that this does not occur with the use of doxycycline in patients with impaired renal function.
 
-## 5.8Malaria
+## 5.8 Malaria
 
 Doxycycline offers substantial but not complete suppression of the asexual blood stages of Plasmodium strains.
 
 Doxycycline does not suppress P. falciparum’s sexual blood stage gametocytes.
 Subjects completing this prophylactic regimen may still transmit the infection to mosquitoes outside endemic areas.
 
-## 5.9Development of Drug-Resistant Bacteria
+## 5.9 Development of Drug-Resistant Bacteria
 
 Prescribing DORYX in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 
-## 5.10Laboratory Monitoring for Long-Term Therapy
+## 5.10 Laboratory Monitoring for Long-Term Therapy
 
 In long-term therapy, periodic laboratory evaluation of organ systems, including hematopoietic, renal, and hepatic studies should be performed.

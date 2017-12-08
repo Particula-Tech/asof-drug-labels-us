@@ -1,6 +1,6 @@
-# 13NONCLINICAL TOXICOLOGY
+# 13 NONCLINICAL TOXICOLOGY
 
-## 13.1Carcinogenesis, Mutagenesis, Impairment of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Long-term studies in animals to evaluate carcinogenic potential of doxycycline have not been conducted.
 However, there has been evidence of oncogenic activity in rats in studies with the related antibiotics, oxytetracycline (adrenal and pituitary tumors) and minocycline (thyroid tumors).
@@ -9,7 +9,7 @@ Likewise, although mutagenicity studies of doxycycline have not been conducted, 
 Doxycycline administered orally at dosage levels as high as 250 mg/kg/day had no apparent effect on the fertility of female rats.
 Effect on male fertility has not been studied.
 
-## 13.2Animal Toxicology and/or Pharmacology
+## 13.2 Animal Toxicology and/or Pharmacology
 
 Hyperpigmentation of the thyroid has been produced by members of the tetracycline-class in the following species: in rats by oxytetracycline, doxycycline, tetracycline PO4, and methacycline; in minipigs by doxycycline, minocycline, tetracycline PO4, and methacycline; in dogs by doxycycline and minocycline; in monkeys by minocycline.
 
