@@ -1,10 +1,8 @@
-# PRINCIPAL DISPLAY PANEL - 90 mL Carton
+# PRINCIPAL DISPLAY PANEL - 90 mL Bottle Carton
 
 NDC 43538-920-90
 
-For Topical Use Only
-
-Not For Ophthalmic Use
+For Topical Use Only Not For Ophthalmic Use
 
 90 mL
 
@@ -31,7 +29,7 @@ TS KIT
 KIT CONTAINS:
 
 - 1 -SYNALAR® (fluocinolone acetonide) Topical Solution, 0.01% 90 mL Bottle
-- 1 -Rehyla™ Hair & Body Cleanser 16 oz.
+- 1 -Rehyla® Hair & Body Cleanser 16 oz.
   (454 g) Bottle
 
 MEDIMETRIKS PHARMACEUTICALS, INC.
