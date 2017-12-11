@@ -1,4 +1,4 @@
-# 11. DESCRIPTION
+# 11 DESCRIPTION
 
 ULTRAVATE (halobetasol propionate) lotion, 0.05% for topical use contains a corticosteroid, halobetasol propionate.
 The chemical name of halobetasol propionate is 21-chloro-6α, 9-difluoro-11β, 17-dihydroxy-16β-methylpregna-1, 4-diene-3-20-dione, 17-propionate.

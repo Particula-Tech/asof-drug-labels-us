@@ -3,9 +3,11 @@
     "NDA208183"
   ],
   "inn": "halobetasol",
-  "labeler": "Ranbaxy Laboratories, Inc.",
+  "labeler": "Sun Pharmaceutical Industries, Inc.",
   "package_ndcs": [
-    "10631-122-04"
+    "10631-122-04",
+    "10631-122-19",
+    "10631-122-70"
   ],
   "products": [
     {

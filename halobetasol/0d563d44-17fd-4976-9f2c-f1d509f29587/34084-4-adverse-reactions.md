@@ -1,4 +1,4 @@
-# 6. ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
 ## 6.1 Clinical Trials Experience
 
@@ -10,5 +10,12 @@ Table 1 presents adverse reactions that occurred in at least 1% of subjects trea
 
 Table 1.
 Adverse Reactions Occurring in ≥ 1% of Subjects Treated with ULTRAVATE Lotion for up to Two Weeks
+
+|  | ULTRAVATE Lotion(N= 277) | Vehicle Lotion(N= 259) |
+| --- | --- | --- |
+| Adverse Reaction | % | % |
+| Telangiectasia | 1% | 0% |
+| Application site atrophy | 1% | < 1% |
+| Headache | 1% | < 1% |
 
 Less common adverse reactions (incidence less than 1% but greater than 0.1%) that occurred in subjects treated with ULTRAVATE lotion included application site discoloration, herpes zoster, influenza, nasopharyngitis, otitis media acute, throat infection, wound, and increased blood pressure.

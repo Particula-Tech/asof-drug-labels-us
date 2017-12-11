@@ -1,4 +1,4 @@
-# 2. DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
 Apply a thin layer of ULTRAVATE lotion to the affected skin twice daily for up to two weeks.
 Rub in gently.

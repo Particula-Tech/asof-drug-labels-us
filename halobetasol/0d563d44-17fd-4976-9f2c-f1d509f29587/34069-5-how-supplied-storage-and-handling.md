@@ -1,4 +1,4 @@
-# 16. HOW SUPPLIED/STORAGE AND HANDLING
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 ULTRAVATE lotion, 0.05 % is white to off-white lotion.
 It is supplied in an oval tapered white high-density polyethylene bottle with a white polypropylene disc cap.

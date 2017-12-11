@@ -1,4 +1,4 @@
-# 17. PATIENT COUNSELING INFORMATION
+# 17 PATIENT COUNSELING INFORMATION
 
 This information is intended to aid in the safe and effective use of this medication.
 It is not a disclosure of all administration instructions or all possible adverse or unintended effects.
@@ -36,4 +36,4 @@ U.S. Patent 8,962,028
 
 Document Control No. 6997I
 
-Revised: 11/2015
+Revised: 01/2017
