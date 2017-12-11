@@ -1,14 +1,14 @@
-# PRINCIPAL DISPLAY PANEL - 60 cc Bottle Carton
+# PRINCIPAL DISPLAY PANEL - 60 mL Bottle Carton
 
 NDC 43538-920-60
 
+For Topical Use Only Not For Ophthalmic Use
+
+60 mL
+
 Rx Only
 
-SYNALAR® (FLUOCINOLONE ACETONIDE) TOPICAL SOLUTION 0.01%
-
-60 cc
-
-FOR TOPICAL USE ONLY NOT FOR OPHTHALMIC USE
+SYNALAR® (fluocinolone acetonide) Topical Solution, 0.01%
 
 MEDIMETRIKS PHARMACEUTICALS, INC.
 
@@ -16,20 +16,20 @@ MEDIMETRIKS PHARMACEUTICALS, INC.
 
 NDC 43538-921-60
 
+For Topical Use Only Not For Ophthalmic Use
+
+60 mL
+
 Rx Only
 
-SYNALAR® (FLUOCINOLONE ACETONIDE) TOPICAL SOLUTION 0.01%
+SYNALAR® (fluocinolone acetonide) Topical Solution, 0.01%
 
 TS KIT
 
-60 cc
-
-FOR TOPICAL USE ONLY NOT FOR OPHTHALMIC USE
-
 KIT CONTAINS:
 
-- 1 -SYNALAR® (FLUOCINOLONE ACETONIDE) TOPICAL SOLUTION 0.01% 60 cc Bottle
-- 1 -Rehyla™ Hair & Body Cleanser 16 oz.
+- 1 -SYNALAR® (fluocinolone acetonide) Topical Solution, 0.01% 60 mL Bottle
+- 1 -Rehyla® Hair & Body Cleanser 16 oz.
   (454 g) Bottle
 
 MEDIMETRIKS PHARMACEUTICALS, INC.

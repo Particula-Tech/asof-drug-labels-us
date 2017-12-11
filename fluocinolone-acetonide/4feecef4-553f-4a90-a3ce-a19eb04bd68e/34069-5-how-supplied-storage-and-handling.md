@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-SYNALAR® (fluocinolone acetonide) Topical Solution 0.01% 60 cc Bottle with applicator tip – NDC 43538-920-60
+SYNALAR® (fluocinolone acetonide) Topical Solution, 0.01% 60 mL Bottle with applicator tip – NDC 43538-920-60 90 mL Bottle with applicator tip – NDC 43538-920-90
 
 ## STORAGE
 

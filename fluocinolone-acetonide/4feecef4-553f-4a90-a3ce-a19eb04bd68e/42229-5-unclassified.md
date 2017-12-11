@@ -1,17 +1,16 @@
 Rx Only
 
-You are encouraged to report negative side effects of prescription drugs to the FDA.
-Visit www.fda.gov/medwatch, or call 1-800-FDA-1088.
+To report SUSPECTED ADVERSE REACTIONS, contact FDA at 1-800-FDA-1088 or www.fda/gov/medwatch.
 
 Manufactured for:
 
 MEDIMETRIKS PHARMACEUTICALS, INC.
 
-363 Route 46 West, Fairfield, NJ 07004-2402 USA www.medimetriks.com
+383 Route 46 West, Fairfield, NJ 07004-2402 USA www.medimetriks.com
 
-Manufactured by: IGI Laboratories, Inc., Buena, NJ 08310
+Manufactured by: Teligent Pharma, Inc., Buena, NJ 08310
 
-IP030
+IP030-R5
 
-Iss.
-7/12
+Rev.
+4/17
