@@ -10,7 +10,7 @@ Distributed by: Rising Pharmaceuticals, Inc. Allendale, NJ 07401
 
 Manufactured by: Lyne Laboratories, Inc. Brockton, MA 02301
 
-R4-10/10
+R5-10/16
 
 EACH 5 mL (ONE TEASPOONFUL) CONTAINS: Cyproheptadine Hydrochloride 2 mg, Alcohol 5%, Sorbic Acid 0.1% added as preservative.
 
@@ -20,8 +20,12 @@ Store at 20°-25°C (68°-77°F) excursion permitted to 15°-30°C (59°-86°F) 
 
 Dispense in a tight, light-resistant container as defined in the USP.
 
-Distributed by: Rising Pharmaceuticals, Inc. Allendale, NJ 07401
+Distributed by:
 
-Manufactured by: Lyne Laboratories, Inc. Brockton, MA 02301
+Rising Pharmaceuticals, Inc. Allendale, NJ 07401
 
-R4-10/10
+Manufactured by:
+
+Lyne Laboratories, Inc. Brockton, MA 02301
+
+R5-10/16
