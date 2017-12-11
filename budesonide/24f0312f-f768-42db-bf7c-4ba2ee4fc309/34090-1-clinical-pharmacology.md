@@ -35,7 +35,7 @@ Proportion of Pediatric Patients 8 to 17 years old with Peak Endogenous Cortisol
 | At baseline | 73% (16/22) | 78% (18/23) |
 | At week 8 | 6% (1/16) | 0% (0/18) |
 
-*The normal response to ACTH challenge included 3 criteria, as defined in the cosyntropin label: 1) morning cortisol level above 5 mcg/dL; 2) increase in cortisol level by at least 7 mcg/dL above the morning (pre-challenge) level following ACTH challenge; and cortisol level of above 18 mcg/Dl following ACTH challenge.
+*The normal response to ACTH challenge included 3 criteria, as defined in the cosyntropin label: 1) morning cortisol level above 5 mcg/dL; 2) increase in cortisol level by at least 7 mcg/dL above the morning (pre-challenge) level following ACTH challenge; and cortisol level of above 18 mcg/dL following ACTH challenge.
 Cortisol concentration was measured at 30 min after intravenous or intramuscular injection of 0.25 mg cosyntropin at baseline and at week 8 after treatment.
 
 ## 12.3 Pharmacokinetics
@@ -72,7 +72,7 @@ Metabolism
 Following absorption, budesonide is subject to high first pass metabolism (80% to 90%).
 In vitro experiments in human liver microsomes demonstrated that budesonide is rapidly and extensivelybiotransformed, mainly by CYP3A4, to its 2 major metabolites, 6β-hydroxy budesonide and 16α-hydroxy prednisolone.
 The corticosteroid activity of these metabolites was negligible (less than1/100) in relation to that of the parent compound.
-In vivo investigations with intravenous doses inhealthy subjects were in agreement with the in vitro findings.
+In vivo investigations with intravenous doses in healthy subjects were in agreement with the in vitro findings.
 
 Excretion
 

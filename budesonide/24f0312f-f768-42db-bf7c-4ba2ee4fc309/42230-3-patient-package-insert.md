@@ -56,7 +56,7 @@ How should I take ENTOCORT EC?
 
 - •Take ENTOCORT EC exactly as your healthcare provider tells you.
 - •Your healthcare provider will tell you how many ENTOCORT EC capsules to take.
-  Your healthcare provider may change
+  Your healthcare provider may change your dose if needed.
 - •Take ENTOCORT EC 1 time each day in the morning.
 - •Take ENTOCORT EC capsules whole.
   Do not chew or crush ENTOCORT EC capsules before swallowing.
@@ -106,12 +106,17 @@ ENTOCORT EC may cause serious side effects, including:
 
 The most common side effects of ENTOCORT EC in adults include:
 
-| •headache | •dizziness |
-| --- | --- |
-| •infection in your air passages | •stomach area (abdominal) pain |
-| •nausea | •gas |
-| •back pain | •vomiting |
-| •indigestion | •pain |
+- •headache
+- •stomach area (abdominal) pain
+- •infection in your air passages (respiratory infection)
+- •gas
+- •nausea
+- •vomiting
+- •back pain
+- •tiredness
+- •indigestion
+- •pain
+- •dizziness
 
 The most common side effects of ENTOCORT EC in children 8 to 17 years of age, who weigh more than 55 pounds (25 kg), are similar to the most common side effects in adults.
 
@@ -158,6 +163,6 @@ Perrigo®
 
 Allegan, MI 49010
 
-Rev 02-17 C
+Rev 10-17 D
 
-8Z200RC J3
+8Z200RC J4

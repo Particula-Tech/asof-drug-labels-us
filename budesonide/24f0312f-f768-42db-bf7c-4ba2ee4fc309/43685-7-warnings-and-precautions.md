@@ -8,9 +8,9 @@ In situations where patients are subject to surgery or other stress situations, 
 
 Since ENTOCORT EC contains a corticosteroid, general warnings concerning corticosteroids should be followed [see Warnings and Precautions (5.2), (5.3), (5.4)].
 
-Pediatric patients with Crohn’s disease have a slightly higher systemic exposure of budesonide and increased cortisol suppression than adults with Crohn’s disease [see Use in Specific Populations(8.4), Clinical Pharmacology (12.2)].
+Pediatric patients with Crohn’s disease have a slightly higher systemic exposure of budesonide and increased cortisol suppression than adults with Crohn’s disease [see Use in Specific Populations(8.4),Clinical Pharmacology (12.2)].
 Patients with moderate to severe hepatic impairment (Child-Pugh Class B and C respectively) could be at an increased risk of hypercorticism and adrenal axis suppression due to an increased systemic exposure of oral budesonide.
-Avoid use in patients with severe hepatic impairment (Child-Pugh Class C). Monitor for increased signs and/or symptoms of hypercorticism and consider reducing the dosage in patients with moderate hepatic impairment (Child-Pugh Class B) [see Dosage and Administration (2.4), Use in Specific Populations(8.6), Clinical Pharmacology (12.3)].
+Avoid use in patients with severe hepatic impairment (Child-Pugh Class C). Monitor for increased signs and/or symptoms of hypercorticism and consider reducing the dosage in patients with moderate hepatic impairment (Child-Pugh Class B) [see Dosage and Administration (2.4), Use in Specific Populations(8.6),Clinical Pharmacology (12.3)].
 
 ## 5.2 Symptoms of Steroid Withdrawal in Patients Transferred from Other Systemic Corticosteroids
 

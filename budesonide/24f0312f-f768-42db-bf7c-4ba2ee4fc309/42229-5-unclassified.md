@@ -8,6 +8,6 @@ Perrigo®
 
 Allegan, MI 49010
 
-Rev 02-17 C
+Rev: 10-17 D
 
-8Z200 RC J3
+8Z200 RC J4

@@ -64,7 +64,7 @@ Use of ENTOCORT EC in this age group is supported by evidence from adequate and 
 The observed safety profile of ENTOCORT EC in pediatric patients is consistent with its known safety profile in adults and no new safety concerns were identified [see Adverse Reactions (6.1)].
 
 Systemic corticosteroids, including ENTOCORT EC, may cause a reduction of growth velocity in pediatric patients.
-Pediatric patients with Crohn’s disease have a 17% higher mean systemic exposure and cortisol suppression than adults with Crohn’s disease [see Warnings and Precautions (5.1) and ClinicalPharmacology (12.2)].
+Pediatric patients with Crohn’s disease have a 17% higher mean systemic exposure and cortisol suppression than adults with Crohn’s disease [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.2)].
 
 The safety and effectiveness of ENTOCORT EC have not been established in pediatric patients less than 8 years of age for the treatment of mild to moderate active Crohn’s disease involving the ileum and/or the ascending colon.
 

@@ -37,7 +37,7 @@ The most common adverse reactions, occurring in greater than or equal to 5% of t
 | Pain | 24 (5) | 8 (7) | 17 (12) | 2 (2) |
 
 1. 1.Occurring in greater than or equal to 5% of the patients in any treated group.
-2. 2.Prednisolone tapering scheme: either 40 mg in week 1 to 2, thereafter tapering with 5 mg per week; or 40 mg in week 1to 2, 30 mg in week 3 to 4, thereafter tapering with 5 mg per week.
+2. 2.Prednisolone tapering scheme: either 40 mg in week 1 to 2, thereafter tapering with 5 mg per week; or 40 mg in week 1 to 2, 30 mg in week 3 to 4, thereafter tapering with 5 mg per week.
 3. 3.This drug is not approved for the treatment of Crohn's disease in the United States.
 
 The incidence of signs and symptoms of hypercorticism reported by active questioning of patients in 4 of the 5 short-term clinical trials are displayed in Table 2.
@@ -56,8 +56,8 @@ Table 2: Summary and Incidence of Signs/Symptoms of Hypercorticism in 8-Week Tre
 | Skin Striae | 4 (1) | 2 (2) | 0 (0) |
 
 1. 1.Prednisolone tapering scheme: either 40 mg in week 1-2, thereafter tapering with 5 mg/week; or 40 mg in week 1 to 2, 30 mg in week 3 to 4, thereafter tapering with 5 mg/week.
-2. 2.Statistically significantly different from ENTOCORT EC 9 mg.
-3. 3.Including hair growth increased, local and hair growth increased, general.
+2. 2.Statistically significantly different from ENTOCORT EC 9 mg
+3. 3.Including hair growth increased, local and hair growth increased, general
 
 Maintenance of Clinical Remission of Mild to Moderate Crohn’s Disease
 
@@ -76,7 +76,7 @@ Table 3: Summary and Incidence of Signs/Symptoms of Hypercorticism in Long-Term 
 | --- | --- | --- | --- |
 | Bruising Easily | 4 (5) | 15 (10) | 5 (4) |
 | Acne | 4 (5) | 14 (10) | 3 (2) |
-| Moon face | 3 (3) | 6 (4) | 0 |
+| Moon Face | 3 (3) | 6 (4) | 0 |
 | Hirsutism | 2 (2) | 5 (3) | 1 (1) |
 | Swollen Ankles | 2 (2) | 3 (2) | 3 (2) |
 | Buffalo Hump | 1 (1) | 1 (1) | 0 |

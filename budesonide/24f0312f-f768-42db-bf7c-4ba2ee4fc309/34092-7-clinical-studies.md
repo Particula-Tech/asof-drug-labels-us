@@ -6,7 +6,8 @@ Adults
 
 The efficacy of ENTOCORT EC were evaluated in 994 patients with mild to moderate active Crohn’s disease of the ileum and/or ascending colon in 5 randomized and double-blind studies of 8 weeks duration.
 The study patients ranged in age from 17 to 85 (mean 35), 40% were male and 97% were white.
-The Crohn’s Disease Activity Index (CDAI) was the main clinical assessment used for determining efficacy in these 5 studies.1 The CDAI is a validated index based on subjective aspects rated by the patient (frequency of liquid or very soft stools, abdominal pain rating and general well-being) and objective observations (number of extraintestinal symptoms, need for antidiarrheal drugs, presence of abdominal mass, body weight and hematocrit).
+The Crohn’s Disease Activity Index (CDAI) was the main clinical assessment used for determining efficacy in these 5 studies.
+1The CDAI is a validated index based on subjective aspects rated by the patient (frequency of liquid or very soft stools, abdominal pain rating and general well-being) and objective observations (number of extraintestinal symptoms, need for antidiarrheal drugs, presence of abdominal mass, body weight and hematocrit).
 Clinical improvement, defined as a CDAI score of less than or equal to 150 assessed after 8 weeks of treatment, was the primary efficacy variable in these 5 comparative efficacy studies of ENTOCORT EC capsules.
 Safety assessments in these studies included monitoring of adverse reactions.
 A checklist of potential symptoms of hypercorticism was used.
@@ -26,9 +27,9 @@ Table 5: Clinical Improvement Rates (CDAI less than or equal to 150) After 8 wee
 | 4 | 35/58 (60%) | 25/60 (42%) |  |  | 35/58 (60%) |
 | 5 | 45/86 (52%) |  |  |  | 56/85 (65%) |
 
-1. 1.This drug is not approved for the treatment of Crohn's disease in the United States.
-2. 2.p=0.0004 compared to comparator.
-3. 3.p=0.001 compared to placebo.
+1. 1.p=0.0004 compared to comparator.
+2. 2.p=0.001 compared to placebo.
+3. 3.This drug is not approved for the treatment of Crohn's disease in the United States.
 
 Two placebo-controlled clinical trials (Studies 2 and 3) were conducted.
 Study 2 involved 258 patients and tested the effects of graded doses of ENTOCORT EC (1.5 mg twice daily, 4.5 mg twice daily, or 7.5 mg twice daily) versus placebo.
