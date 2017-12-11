@@ -105,11 +105,11 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 VERDESO is a registered trademark of Aqua Pharmaceuticals.
 
-Manufactured by DPT Laboratories, San Antonio, TX 78215 For Aqua Pharmaceuticals, West Chester, PA 19380
+Manufactured by DPT Laboratories, San Antonio, TX 78215 For Aqua Pharmaceuticals, an Almirall Company, Exton, PA 19341
 
-©2013, Aqua Pharmaceuticals.
+©2016, Aqua Pharmaceuticals.
 All rights reserved.
 
 VER-B-13
 
-Revised: July 2013
+Revised: 12/2017

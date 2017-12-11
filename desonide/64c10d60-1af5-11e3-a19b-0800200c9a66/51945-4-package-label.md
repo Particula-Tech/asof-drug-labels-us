@@ -1,3 +1,3 @@
-Principal Display Panel - Can Label - NDC 16110-111-00
+# PRINCIPAL DISPLAY PANEL - NDC: 16110-111-00 - Can
 
-Principal Display Panel - Carton Label - NDC 16110-111-00
+# PRINCIPAL DISPLAY PANEL - NDC: 16110-111-00 - Carton
