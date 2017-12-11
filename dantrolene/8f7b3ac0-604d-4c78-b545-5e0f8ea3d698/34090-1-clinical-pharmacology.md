@@ -21,7 +21,7 @@ The administration of intravenous dantrolene to human volunteers was associated 
 
 The pharmacokinetics of RYANODEX was investigated in healthy volunteers following single-dose administration as an intravenous push over 60 seconds (dose range of 1 to 2.5 mg/kg), via a peripheral catheter.
 There was a dose-proportional increase in plasma exposure of dantrolene and its metabolite, 5-hydroxydantrolene.
-Table 2 presents pharmacokinetic parameters of dantrolene after administration of single RYANODEX dose of 2.5 mg/kg.
+Table 2 presents pharmacokinetic parameters of dantrolene after administration of a single RYANODEX dose of 2.5 mg/kg.
 Time to peak dantrolene concentration was observed at the first time point collected (i.e., median Tmax is 1 minute post-dose).
 The mean half-life (t1/2) for dantrolene was independent of the RYANODEX dose administered and ranged from 8.5 hours to 11.4 hours over the 1 to 2.5 mg/kg dose range.
 
@@ -30,7 +30,7 @@ Table 2: Pharmacokinetic Parameters for Dantrolene in Healthy Volunteers (Mean �
 | RYANODEX dose1 | Cmax (μg/mL) | AUC0-inf (μg*h/mL) | Half-life (hrs) | Clearance (L/hr) | Volume of distribution (L) |
 | --- | --- | --- | --- | --- | --- |
 | 2.5 mg/kg | 9.0 ± 4.6 | 77.7 ± 23.2 | 10.8 ± 2.2 | 2.5 ± 1.0 | 36.4 ± 11.7 |
-| 1 n=15; single dose |  |  |  |  |  |
+| 1 n=15; single-dose |  |  |  |  |  |
 
 When prophylactic intravenous dantrolene infusion was administered, whole blood dantrolene concentrations remained at a near steady state level for 3 or more hours after the infusion was completed.
 
