@@ -8,3 +8,5 @@ Tolerance should be monitored very closely during the first week of administrati
 
 Seizures have been reported to occur in patients with or without pre-existing seizure activity receiving either oral or intravenous levocarnitine.
 In patients with pre-existing seizure activity, an increase in seizure frequency and/or severity has been reported.
+
+To report SUSPECTED ADVERSE REACTIONS, contact Rising Pharmaceuticals, Inc. at 1-866-562-4597 or FDA at 1-800-FDA-1088 or www.FDA.gov/medwatch.

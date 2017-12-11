@@ -55,4 +55,4 @@ Distributed by: Rising Pharmaceuticals, Inc. Allendale, NJ 07401
 
 Manufactured by: Lyne Laboratories, Inc. Brockton, MA 02301
 
-R4-7/11
+R5-10/16

@@ -12,6 +12,6 @@ Molecular Formula: C 7H 15NO 3 Molecular Weight: 161.20
 
 Levocarnitine Oral Solution USP is intended solely for oral administration.
 Each 10 mL contains 1 gram of levocarnitine.
-Levocarnitine Oral Solution USP is available as 1 g/10 mL in bottles of 118 mL with the following inactive ingredients: Artificial Cherry Flavor, D,L-Malic Acid, Purified Water, Sucrose Syrup.
+Levocarnitine Oral Solution USP is available as 1 g/10 mL in bottles of 118 mL with the following inactive ingredients: Artificial Cherry Flavor, D,L,-Malic Acid, Purified Water, Sucrose Syrup.
 Methylparaben NF and Propylparaben NF are added as preservatives.
 The pH is approximately 5.
