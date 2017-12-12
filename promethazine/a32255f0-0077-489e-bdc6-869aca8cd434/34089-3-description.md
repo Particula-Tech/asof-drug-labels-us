@@ -2,7 +2,7 @@
 
 Promethazine hydrochloride is a racemic compound.
 
-Promethazine hydrochloride, a phenothiazine derivative, is designated chemically as 10 H-Phenothiazine-10-ethanamine, N, N,α-trimethyl-, monohydrochloride, (±)- with the following structural formula:
+Promethazine hydrochloride, a phenothiazine derivative, is designated chemically as 10H-Phenothiazine-10-ethanamine, N, N,α-trimethyl-, monohydrochloride, (±)- with the following structural formula:
 
 C17H20N2S•HCl M.W.
 320.88

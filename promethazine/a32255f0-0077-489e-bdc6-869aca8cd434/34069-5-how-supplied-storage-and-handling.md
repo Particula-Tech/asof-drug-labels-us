@@ -13,8 +13,8 @@ Store at 20-25°C (68-77°F).
 
 Protect from light.
 
-Manufactured By: Watson Pharma Private Ltd. Verna, Salcette Goa 403 722 INDIA
+Manufactured by: Watson Pharma Private Ltd. Verna, Salcette Goa 403 722 INDIA
 
-Distributed By: Watson Pharma, Inc. Corona, CA 92880 USA
+Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
-Revised: June 2009 190824 0609B
+Revised: December 2016 190824-1
