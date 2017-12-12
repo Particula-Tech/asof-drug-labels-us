@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA204078"
+  ],
+  "inn": "neostigmine",
+  "labeler": "BluePoint Laboratories",
+  "package_ndcs": [
+    "68001-329-66",
+    "68001-329-67"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "neostigmine methylsulfate",
+      "name": "Bloxiverz"
+    }
+  ],
+  "setid": "84e9a534-dce6-4224-b65d-5404176b0103",
+  "source": "dailymed"
+}
