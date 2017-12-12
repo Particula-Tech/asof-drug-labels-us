@@ -52,6 +52,7 @@ Therefore, tell your doctor about all the medicines you take including:
 - theophylline to control asthma
 - cisapride for heartburn
 - quinidine (used to correct disturbances in heart rhythm)
+- amiodarone (used for treating uneven heartbeats ‘arrhythmias’)
 - amitriptyline or nortriptyline for depression
 - pimozide for psychiatric illness
 - amphotericin B or voriconazole for fungal infections
@@ -150,4 +151,4 @@ You can ask your pharmacist or doctor for information about FLUCONAZOLE that is 
 This product's label may have been updated.
 For current full prescribing information, please visit www.greenstonellc.com
 
-LAB-0367-9.0 December 2014
+LAB-0367-10.0 September 2017
