@@ -2,9 +2,9 @@
 
 Lactulose Solution USP, 10 g/15 ml, is a natural colored and an unflavored solution supplied in one pint (473 ml) bottles.
 
-Lactulose Solution contains lactulose 670 mg/mL (10 g/15 mL).
+Lactulose solution, USP contains lactulose 670 mg/mL (10 g/15 mL).
 
-Store between 36°-86°F (2°-30°C).
+Store between 36° to 86°F (2° to 30°C).
 Do not freeze.
 
 Under recommended storage conditions, a normal darkening of color may occur.
@@ -17,24 +17,8 @@ Viscosity will return to normal upon warming to room temperature.
 
 Dispense in a tight, light-resistant container as defined in the USP, with a child-resistant closure.
 
-Manufactured and packaged by:
+Manufactured and packaged by: Fresenius Kabi Austria GmbH Estermannstraße 17 4020 Linz Austria
 
-Fresenius Kabi Austria GmbH
+Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
-Estermannstraße 17
-
-4020 Linz Austria
-
-Distributed by:
-
-Actavis Inc.
-
-60 Columbia Rd., Bldg.
-B
-
-Morristown, NJ 07960 USA
-
-FORM NO. 1358
-
-Rev.
-January 2011
+Revised - March 2016

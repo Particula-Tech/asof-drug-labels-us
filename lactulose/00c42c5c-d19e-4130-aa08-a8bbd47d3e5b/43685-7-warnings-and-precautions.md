@@ -51,5 +51,4 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 
 ## Pediatric Use
 
-Very little information on the use of lactulose in pediatric patients has been recorded.
-(See DOSAGE AND ADMINISTRATION.)
+Very little information on the use of lactulose in pediatric patients has been recorded (see DOSAGE AND ADMINISTRATION).
