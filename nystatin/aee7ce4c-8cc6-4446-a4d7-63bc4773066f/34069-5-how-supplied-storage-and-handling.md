@@ -9,17 +9,10 @@ Nystatin Ointment USP 100,000 units/g
 Store at controlled room temperature 15°-30°C (59°-86°F).
 Do not freeze.
 
-Manufactured by:
+Manufactured by: G&W Laboratories, Inc. 111 Coolidge Street South Plainfield, NJ 07080 USA
 
-Actavis Mid Atlantic LLC
+Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
-1877 Kawai Road
+Revised – April 2017
 
-Lincolnton, NC 28092 USA
-
-FORM NO. 0166
-
-Rev.
-1/06
-
-VC2752
+I600-4780/4782A GW7210
