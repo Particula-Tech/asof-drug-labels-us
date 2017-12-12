@@ -15,7 +15,7 @@ Nervous System: Abnormal dreams, amnesia, depression, gait abnormality, hallucin
 
 Gastrointestinal: Anorexia, constipation, diarrhea, dysgeusia, dyspepsia, mild elevations of alkaline phosphatase, SGOT, SGPT, and LDH (see WARNINGS, Acute Hepatic Injury), thirst, vomiting, weight increase
 
-Dermatological: Petechiae, photosensitivity, pruritus, urticaria.
+Dermatological: Petechiae, photosensitivity, pruritus, urticaria
 
 Other: Amblyopia, CPK elevation, dry mouth, dyspnea, epistaxis, eye irritation, hyperglycemia, hyperuricemia, impotence, muscle cramps, nasal congestion, nocturia, osteoarticular pain, polyuria, sexual difficulties, tinnitus
 

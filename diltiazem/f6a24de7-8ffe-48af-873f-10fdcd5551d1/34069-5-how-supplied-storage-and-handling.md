@@ -31,7 +31,11 @@ Valeant Pharmaceuticals International, Inc.
 
 Laval, Quebec H7L 4A8, Canada
 
-Rev.
-07/2016
+CARDIZEM is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates
 
-9467801
+©Valeant Pharmaceuticals North America LLC
+
+Rev.
+03/2017
+
+9467802 20000936C
