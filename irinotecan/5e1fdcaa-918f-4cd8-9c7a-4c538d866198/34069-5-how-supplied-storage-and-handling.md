@@ -1,9 +1,9 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Each mL of Irinotecan Hydrochloride Injection, USP contains 20 mg irinotecan (on the basis of the trihydrate salt); 45 mg sorbitol; and 0.9 mg lactic acid.
+Each mL of Irinotecan Hydrochloride Injection contains 20 mg irinotecan (on the basis of the trihydrate salt); 45 mg sorbitol; and 0.9 mg lactic acid.
 When necessary, pH has been adjusted to 3.5 (range, 3.0 to 4.0) with sodium hydroxide or hydrochloric acid.
 
-Irinotecan Hydrochloride Injection, USP is available in single-dose amber glass vials in the following package sizes:
+Irinotecan Hydrochloride Injection is available in single-dose amber glass vials in the following package sizes:
 
 NDC 45963-614-51 2 mL
 
@@ -18,4 +18,4 @@ If damaged, incinerate the unopened package.
 
 Sterile, Nonpyrogenic, Preservative-free.
 
-The vial stopper is not made with natural rubber latex.
+The container closure is not made with natural rubber latex.

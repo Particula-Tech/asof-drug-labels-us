@@ -15,8 +15,8 @@
 - Patients should be alerted to the possibility of alopecia.
 - Contains sorbitol.
 
-Manufactured by: Sindan Pharma SRL 11 Ion Mihalache Blvd Bucharest 1, Romania 011171
+Made in Italy
 
 Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
-Revised - January 2016
+Revised – May 2014

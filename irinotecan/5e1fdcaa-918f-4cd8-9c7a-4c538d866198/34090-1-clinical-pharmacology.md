@@ -59,26 +59,26 @@ The plasma protein to which irinotecan and SN-38 predominantly binds is albumin.
 
 Metabolism
 
-Irinotecan is subject to extensive metabolic conversion by various enzyme systems, including esterases to form the active metabolite SN-38, and UGT1A1 mediating glucuronidation of SN-38 to form the inactive glucuronide metabolite SN-38G.
-Irinotecan can also undergo CYP3A4-mediated oxidative metabolism to several inactive oxidation products, one of which can be hydrolyzed by carboxylesterase to release SN-38.
+The metabolic conversion of irinotecan to the active metabolite SN-38 is mediated by carboxylesterase enzymes and primarily occurs in the liver.
 In vitro studies indicate that irinotecan, SN-38 and another metabolite aminopentane carboxylic acid (APC), do not inhibit cytochrome P-450 isozymes.
+SN-38 is subsequently conjugated predominantly by the enzyme UDP-glucuronosyl transferase 1A1 (UGT1A1) to form a glucuronide metabolite.
 UGT1A1 activity is reduced in individuals with genetic polymorphisms that lead to reduced enzyme activity such as the UGT1A1*28 polymorphism.
 Approximately 10% of the North American population is homozygous for the UGT1A1*28 allele (also referred to as UGT1A1 7/7 genotype).
-In a prospective study, in which irinotecan was administered as a single-agent (350 mg/m2) on a once-every-3-week schedule, patients with the UGT1A1 7/7 genotype had a higher exposure to SN-38 than patients with the wild-type UGT1A1 allele (UGT1A1 6/6 genotype) [see Warnings and Precautions (5.3) and Dosage and Administration (2.3)].
+In a prospective study, in which irinotecan was administered as a single-agent (350 mg/m2) on a once-every-3-week schedule, patients with the UGT1A1 7/7 genotype had a higher exposure to SN-38 than patients with the wild-type UGT1A1 allele (UGT1A1 6/6 genotype) [see Warnings and Precautions (5.3) and Dosage and Administration (2)].
 SN-38 glucuronide had 1/50 to 1/100 the activity of SN-38 in cytotoxicity assays using two cell lines in vitro.
 
 Excretion
 
 The disposition of irinotecan has not been fully elucidated in humans.
-The urinary excretion of irinotecan is 11% to 20%; SN-38, less than 1%; and SN-38 glucuronide, 3%.
+The urinary excretion of irinotecan is 11% to 20%; SN-38, <1%; and SN-38 glucuronide, 3%.
 The cumulative biliary and urinary excretion of irinotecan and its metabolites (SN-38 and SN-38 glucuronide) over a period of 48 hours following administration of irinotecan in two patients ranged from approximately 25% (100 mg/m2) to 50% (300 mg/m2).
 
 Effect of Age
 
 The pharmacokinetics of irinotecan administered using the weekly schedule was evaluated in a study of 183 patients that was prospectively designed to investigate the effect of age on irinotecan toxicity.
-Results from this trial indicate that there are no differences in the pharmacokinetics of irinotecan, SN-38, and SN-38 glucuronide in patients less than 65 years of age compared with patients greater than or equal to 65 years of age.
-In a study of 162 patients that was not prospectively designed to investigate the effect of age, small (less than 18%) but statistically significant differences in dose-normalized irinotecan pharmacokinetic parameters in patients less than 65 years of age compared to patients greater than or equal to 65 years of age were observed.
-Although dose-normalized AUC0-24 for SN-38 in patients greater than or equal to 65 years of age was 11% higher than in patients less than 65 years of age, this difference was not statistically significant.
+Results from this trial indicate that there are no differences in the pharmacokinetics of irinotecan, SN-38, and SN-38 glucuronide in patients <65 years of age compared with patients ≥65 years of age.
+In a study of 162 patients that was not prospectively designed to investigate the effect of age, small (less than 18%) but statistically significant differences in dose-normalized irinotecan pharmacokinetic parameters in patients <65 years of age compared to patients ≥65 years of age were observed.
+Although dose-normalized AUC0-24 for SN-38 in patients ≥65 years of age was 11% higher than in patients <65 years of age, this difference was not statistically significant.
 No change in the starting dose is recommended for geriatric patients receiving the weekly dosage schedule of irinotecan [see Dosage and Administration (2)].
 
 Effect of Gender
@@ -100,7 +100,3 @@ Effect of Renal Impairment
 The influence of renal impairment on the pharmacokinetics of irinotecan has not been evaluated.
 Therefore, caution should be undertaken in patients with impaired renal function.
 Irinotecan is not recommended for use in patients on dialysis [see Use in Specific Populations (8.6)].
-
-Drug Interactions
-
-Dexamethasone, a moderate CYP3A4 inducer, does not appear to alter the pharmacokinetics of irinotecan.

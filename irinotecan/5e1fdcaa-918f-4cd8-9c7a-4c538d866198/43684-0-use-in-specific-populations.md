@@ -2,8 +2,6 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects:
-
 Pregnancy Category D [see Warnings and Precautions (5.9)]
 
 Irinotecan Hydrochloride Injection can cause fetal harm when administered to a pregnant woman.
@@ -50,8 +48,8 @@ Minimal accumulation of irinotecan and SN-38 was observed in children on daily d
 Patients greater than 65 years of age should be closely monitored because of a greater risk of early and late diarrhea in this population [see Clinical Pharmacology (12.3) and Adverse Reactions (6.1)].
 The starting dose of Irinotecan Hydrochloride Injection in patients 70 years and older for the once-every-3-week-dosage schedule should be 300 mg/m2 [see Clinical Pharmacology (12.3) and Dosage and Administration (2)].
 
-The frequency of grade 3 and 4 late diarrhea by age was significantly greater in patients greater than or equal to 65 years than in patients less than 65 years (40% [53/133] versus 23% [40/171]; p=0.002).
-In another study of 183 patients treated on the weekly schedule, the frequency of grade 3 or 4 late diarrhea in patients greater than or equal to 65 years of age was 28.6% [26/91] and in patients less than 65 years of age was 23.9% [22/92].
+The frequency of grade 3 and 4 late diarrhea by age was significantly greater in patients ≥65 years than in patients <65 years (40% [53/133] versus 23% [40/171]; p=0.002).
+In another study of 183 patients treated on the weekly schedule, the frequency of grade 3 or 4 late diarrhea in patients ≥65 years of age was 28.6% [26/91] and in patients <65 years of age was 23.9% [22/92].
 
 ## 8.6 Renal Impairment
 
@@ -63,5 +61,5 @@ Irinotecan is not recommended for use in patients on dialysis.
 
 Irinotecan clearance is diminished in patients with hepatic impairment while exposure to the active metabolite SN-38 is increased relative to that in patients with normal hepatic function.
 The magnitude of these effects is proportional to the degree of liver impairment as measured by elevations in total bilirubin and transaminase concentrations.
-Therefore, use caution when administering Irinotecan Hydrochloride Injection to patients with hepatic impairment.
+Therefore, use caution in patients with hepatic impairment.
 The tolerability of irinotecan in patients with hepatic dysfunction (bilirubin greater than 2 mg/dl) has not been assessed sufficiently, and no recommendations for dosing can be made [see Dosage and Administration (2), Warnings and Precautions (5.10) and Clinical Pharmacology (12.3)].

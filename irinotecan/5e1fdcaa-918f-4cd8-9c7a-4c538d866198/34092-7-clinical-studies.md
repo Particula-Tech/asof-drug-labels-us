@@ -1,9 +1,5 @@
 # 14 CLINICAL STUDIES
 
-Irinotecan has been studied in clinical trials as a single-agent [see Dosage and Administration (2)].
-Weekly and once-every-3-week dosage schedules were used for the single-agent irinotecan studies.
-Clinical studies of single-agent use are described below.
-
 ## 14.1 Metastatic Colorectal Cancer
 
 Irinotecan has been studied in clinical trials as a single-agent [see Dosage and Administration (2)].
@@ -29,9 +25,9 @@ The results of the individual studies are shown in Table 11.
 Table 11.
 Weekly Dosage Schedule: Study Results
 
-|  | Study |  |  |  |
+|  | 3 | 4 | 5 |  |
 | --- | --- | --- | --- | --- |
-| 3 | 4 | 5 |  |  |
+|  | Study |  |  |  |
 | Number of Patients | 48 | 90 | 64 | 102 |
 | Starting Dose (mg/m2/week x 4) | 125a | 125 | 125 | 100 |
 | Demographics and Treatment Administration |  |  |  |  |
@@ -71,7 +67,7 @@ Weekly Dosage Schedule: Study Results
 | 1-Year Survival (%) | 46 | 31 | 45 | 43 |
 | a Nine patients received 150 mg/m2 as a starting dose; two (22.2%) responded to Irinotecan Hydrochloride Injection. |  |  |  |  |
 | b Relative dose intensity for Irinotecan Hydrochloride Injection based on planned dose intensity of 100, 83.3, and 66.7 mg/m2/wk corresponding with 150, 125, and 100 mg/m2 starting doses, respectively. |  |  |  |  |
-| c Confirmed greater than or equal to 4 to 6 weeks after first evidence of objective response. |  |  |  |  |
+| c Confirmed ≥ 4 to 6 weeks after first evidence of objective response. |  |  |  |  |
 
 In the intent-to-treat analysis of the pooled data across all three studies, 193 of the 304 patients began therapy at the recommended starting dose of 125 mg/m2.
 Among these 193 patients, 2 complete and 27 partial responses were observed, for an overall response rate of 15.0% (95% Confidence Interval [CI], 10.0% to 20.1%) at this starting dose.
@@ -116,7 +112,7 @@ In Study 8, median survival for patients treated with irinotecan was 10.8 months
 Multiple regression analyses determined that patients’ baseline characteristics also had a significant effect on survival.
 When adjusted for performance status and other baseline prognostic factors, survival among patients treated with irinotecan remained significantly longer than in the control populations (p=0.001 for Study 7 and p=0.017 for Study 8).
 Measurements of pain, performance status, and weight loss were collected prospectively in the two studies; however, the plan for the analysis of these data was defined retrospectively.
-When comparing irinotecan with best supportive care in Study 7, this analysis showed a statistically significant advantage for irinotecan, with longer time to development of pain (6.9 months versus 2.0 months), time to performance status deterioration (5.7 months versus 3.3 months), and time to greater than 5% weight loss (6.4 months versus 4.2 months).
+When comparing irinotecan with best supportive care in Study 7, this analysis showed a statistically significant advantage for irinotecan, with longer time to development of pain (6.9 months versus 2.0 months), time to performance status deterioration (5.7 months versus 3.3 months), and time to > 5% weight loss (6.4 months versus 4.2 months).
 Additionally, 33.3% (33/99) of patients with a baseline performance status of 1 or 2 showed an improvement in performance status when treated with irinotecan versus 11.3% (7/62) of patients receiving best supportive care (p=0.002).
 Because of the inclusion of patients with non-measurable disease, intent-to-treat response rates could not be assessed.
 
@@ -130,39 +126,39 @@ Study 7
 Figure 4.
 Survival
 
-Second-Line Irinotecan vs Infusion 5-FU
+Second-Line Irinotecan vs Infusional 5-FU
 
 Study 8
 
 Table 12.
 Once-Every-3-Week Dosage Schedule: Study Results
 
-|  | Study 7 |  |  | Study 8 |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | Irinotecan | BSCa |  | Irinotecan |  | 5-FU |
-| Number of patients | 189 | 90 |  | 127 |  | 129 |
-| Demographics and treatment administration |  |  |  |  |  |  |
-| Female/Male (%) | 32/68 | 42/58 |  | 43/57 |  | 35/65 |
-| Median age in years (range) | 59 (22 to 75) | 62 (34 to 75) |  | 58 (30 to 75) |  | 58 (25 to 75) |
-| Performance status (%) |  |  |  |  |  |  |
-| 0 | 47 | 31 |  | 58 |  | 54 |
-| 1 | 39 | 46 |  | 35 |  | 43 |
-| 2 | 14 | 23 |  | 8 |  | 3 |
-| Primary tumor (%) |  |  |  |  |  |  |
-| Colon | 55 | 52 |  | 57 |  | 62 |
-| Rectum | 45 | 48 |  | 43 |  | 38 |
-| Prior 5-FU therapy (%) |  |  |  |  |  |  |
-| For metastatic disease | 70 | 63 |  | 58 |  | 68 |
-| As adjuvant treatment | 30 | 37 |  | 42 |  | 32 |
-| Prior irradiation (%) | 26 | 27 |  | 18 |  | 20 |
-| Duration of study treatment (median, months) | 4.1 | - |  | 4.2 |  | 2.8 |
-| (Log-rank test) |  |  |  | (p=0.02) |  |  |
-| Relative dose intensity (median %)b | 94 | - |  | 95 |  | 81 to 99 |
-| Survival |  |  |  |  |  |  |
-| Survival (median, months) | 9.2 | 6.5 | 10.8 |  | 8.5 |  |
-| (Log-rank test) | (p=0.0001) |  | (p=0.035) |  |  |  |
-| a BSC = best supportive care |  |  |  |  |  |  |
-| b Relative dose intensity for irinotecan based on planned dose intensity of 116.7 and 100 mg/m2/wk corresponding with 350 and 300 mg/m2 starting doses, respectively. |  |  |  |  |  |  |
+| Number of patients | 189 | 90 | 127 | 129 |
+| --- | --- | --- | --- | --- |
+|  | Study 7 |  | Study 8 |  |
+|  | Irinotecan | BSCa | Irinotecan | 5-FU |
+| Demographics and treatment administration |  |  |  |  |
+| Female/Male (%) | 32/68 | 42/58 | 43/57 | 35/65 |
+| Median age in years (range) | 59 (22 to 75) | 62 (34 to 75) | 58 (30 to 75) | 58 (25 to 75) |
+| Performance status (%) |  |  |  |  |
+| 0 | 47 | 31 | 58 | 54 |
+| 1 | 39 | 46 | 35 | 43 |
+| 2 | 14 | 23 | 8 | 3 |
+| Primary tumor (%) |  |  |  |  |
+| Colon | 55 | 52 | 57 | 62 |
+| Rectum | 45 | 48 | 43 | 38 |
+| Prior 5-FU therapy (%) |  |  |  |  |
+| For metastatic disease | 70 | 63 | 58 | 68 |
+| As adjuvant treatment | 30 | 37 | 42 | 32 |
+| Prior irradiation (%) | 26 | 27 | 18 | 20 |
+| Duration of study treatment (median, months) | 4.1 | - | 4.2 | 2.8 |
+| (Log-rank test) |  |  | (p=0.02) |  |
+| Relative dose intensity (median %)b | 94 | - | 95 | 81 to 99 |
+| Survival |  |  |  |  |
+| Survival (median, months) | 9.2 | 6.5 | 10.8 | 8.5 |
+| (Log-rank test) | (p=0.0001) |  | (p=0.035) |  |
+| a BSC = best supportive care |  |  |  |  |
+| b Relative dose intensity for irinotecan based on planned dose intensity of 116.7 and 100 mg/m2/wk corresponding with 350 and 300 mg/m2 starting doses, respectively. |  |  |  |  |
 
 In the two randomized studies, the EORTC QLQ-C30 instrument was utilized.
 At the start of each cycle of therapy, patients completed a questionnaire consisting of 30 questions, such as “Did pain interfere with daily activities?”
