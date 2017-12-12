@@ -79,6 +79,12 @@ Skin Cancer
 Melanoma and Merkel cell carcinoma have been reported in patients treated with TNF blocker therapy, including infliximab products [see Adverse Reactions (6.2)].
 Periodic skin examination is recommended for all patients, particularly those with risk factors for skin cancer.
 
+Cervical Cancer
+
+A population-based retrospective cohort study using data from Swedish national health registries found a 2 to 3 fold increase in the incidence of invasive cervical cancer in women with rheumatoid arthritis treated with infliximab compared to biologics-naïve patients or the general population, particularly those over 60 years of age.
+A causal relationship between infliximab products and cervical cancer cannot be excluded.
+Periodic screening should continue in women treated with infliximab products [see Adverse Reactions (6.2)].
+
 Other Malignancies
 
 In the controlled portions of clinical trials of some TNF blocking agents, including infliximab products, more malignancies (excluding lymphoma and nonmelanoma skin cancer [NMSC]) have been observed in patients receiving those TNF blockers compared with control patients.
@@ -131,7 +137,8 @@ If a decision is made to administer INFLECTRA to patients with heart failure, th
 
 ## 5.6 Hematologic Reactions
 
-Cases of leukopenia, neutropenia, thrombocytopenia, and pancytopenia, some with a fatal outcome, have been reported in patients receiving infliximab products, The causal relationship to infliximab therapy remains unclear.
+Cases of leukopenia, neutropenia, thrombocytopenia, and pancytopenia, some with a fatal outcome, have been reported in patients receiving infliximab products.
+The causal relationship to infliximab therapy remains unclear.
 Although no high-risk group(s) has been identified, caution should be exercised in patients being treated with INFLECTRA who have ongoing or a history of significant hematologic abnormalities.
 All patients should be advised to seek immediate medical attention if they develop signs and symptoms suggestive of blood dyscrasias or infection (e.g., persistent fever) while on INFLECTRA.
 Discontinuation of INFLECTRA therapy should be considered in patients who develop significant hematologic abnormalities.
@@ -139,7 +146,7 @@ Discontinuation of INFLECTRA therapy should be considered in patients who develo
 ## 5.7 Hypersensitivity
 
 Infliximab products have been associated with hypersensitivity reactions that vary in their time of onset and required hospitalization in some cases.
-Most hypersensitivity reactions, which include urticaria, dyspnea, and/or hypotension, have occurred during or within 2 hours of infusion.
+Most hypersensitivity reactions, which include anaphylaxis, urticaria, dyspnea, and/or hypotension, have occurred during or within 2 hours of infusion.
 However, in some cases, serum sickness-like reactions have been observed in patients after initial therapy with infliximab products (i.e., as early as after the second dose), and when therapy with infliximab products was reinstituted following an extended period without treatment.
 Symptoms associated with these reactions include fever, rash, headache, sore throat, myalgias, polyarthralgias, hand and facial edema and/or dysphagia.
 These reactions were associated with a marked increase in antibodies to infliximab product, loss of detectable serum concentrations of infliximab products, and possible loss of drug efficacy.
@@ -151,37 +158,44 @@ In rheumatoid arthritis, Crohn's disease and psoriasis clinical trials, readmini
 In general, the benefit-risk of readministration of INFLECTRA after a period of no-treatment, especially as a reinduction regimen given at weeks 0, 2 and 6, should be carefully considered.
 In the case where INFLECTRA maintenance therapy for psoriasis is interrupted, INFLECTRA should be reinitiated as a single dose followed by maintenance therapy.
 
-## 5.8 Neurologic Reactions
+## 5.8 Cardiovascular and Cerebrovascular Reactions During and After Infusion
+
+Serious cerebrovascular accidents, myocardial ischemia/infarction (some fatal), hypotension, hypertension, and arrhythmias have been reported during and within 24 hours of initiation of infliximab infusion.
+Cases of transient visual loss have been reported during or within 2 hours of infusion of infliximab.
+Monitor patients during infusion and if serious reaction occurs, discontinue infusion.
+Further management of reactions should be dictated by signs and symptoms [See Adverse Reactions (6)]
+
+## 5.9 Neurologic Reactions
 
 Agents that inhibit TNF have been associated in rare cases with CNS manifestation of systemic vasculitis, seizure and new onset or exacerbation of clinical symptoms and/or radiographic evidence of central nervous system demyelinating disorders, including multiple sclerosis and optic neuritis, and peripheral demyelinating disorders, including Guillain-Barré syndrome.
 Prescribers should exercise caution in considering the use of INFLECTRA in patients with these neurologic disorders and should consider discontinuation of INFLECTRA if these disorders develop.
 
-## 5.9 Use with Anakinra
+## 5.10 Use with Anakinra
 
 Serious infections and neutropenia were seen in clinical studies with concurrent use of anakinra and another TNFα blocking agent, etanercept, with no added clinical benefit compared to etanercept alone.
 Because of the nature of the adverse reactions seen with the combination of etanercept and anakinra therapy, similar toxicities may also result from the combination of anakinra and other TNFα blocking agents.
 Therefore, the combination of INFLECTRA and anakinra is not recommended.
 
-## 5.10 Use with Abatacept
+## 5.11 Use with Abatacept
 
 In clinical studies, concurrent administration of TNF blocking agents and abatacept have been associated with an increased risk of infections including serious infections compared with TNF blocking agents alone, without increased clinical benefit.
 Therefore, the combination of INFLECTRA and abatacept is not recommended [see Drug Interactions (7.1)].
 
-## 5.11 Concurrent Administration with other Biological Therapeutics
+## 5.12 Concurrent Administration with other Biological Therapeutics
 
 There is insufficient information regarding the concomitant use of infliximab products with other biological therapeutics used to treat the same conditions as INFLECTRA.
 The concomitant use of INFLECTRA with these biologics is not recommended because of the possibility of an increased risk of infection [see Drug Interactions (7.3)].
 
-## 5.12 Switching between Biological Disease-Modifying Antirheumatic Drugs (DMARDs)
+## 5.13 Switching between Biological Disease-Modifying Antirheumatic Drugs (DMARDs)
 
 Care should be taken when switching from one biologic to another, since overlapping biological activity may further increase the risk of infection.
 
-## 5.13 Autoimmunity
+## 5.14 Autoimmunity
 
 Treatment with infliximab products may result in the formation of autoantibodies and, rarely, in the development of a lupus-like syndrome.
 If a patient develops symptoms suggestive of a lupus-like syndrome following treatment with INFLECTRA, treatment should be discontinued [see Adverse Reactions (6.1)].
 
-## 5.14 Live Vaccines/Therapeutic Infectious Agents
+## 5.15 Live Vaccines/Therapeutic Infectious Agents
 
 In patients receiving anti-TNF therapy, limited data are available on the response to vaccination with live vaccines or on the secondary transmission of infection by live vaccines.
 Use of live vaccines could result in clinical infections, including disseminated infections.

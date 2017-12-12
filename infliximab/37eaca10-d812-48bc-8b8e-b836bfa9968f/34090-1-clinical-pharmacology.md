@@ -37,4 +37,4 @@ It is not known if there are differences in clearance or volume of distribution 
 
 Infliximab pharmacokinetic characteristics (including peak and trough concentrations and terminal half-life) were similar in pediatric (aged 6 to 17 years) and adult patients with Crohn's disease following the administration of 5 mg/kg of infliximab.
 
-Population pharmacokinetic analysis showed that in children with JRA with a body weight of up to 35 kg receiving 6 mg/kg of infliximab and children with JRA with body weight greater than 35 kg up to adult body weight receiving 3mg/kg infliximab product, the steady state area under the concentration curve (AUCss) was similar to that observed in adults receiving 3 mg/kg of infliximab.
+Population pharmacokinetic analysis showed that in children with JRA with a body weight of up to 35 kg receiving 6 mg/kg of infliximab and children with JRA with body weight greater than 35 kg up to adult body weight receiving 3 mg/kg infliximab product, the steady state area under the concentration curve (AUCss) was similar to that observed in adults receiving 3 mg/kg of infliximab.

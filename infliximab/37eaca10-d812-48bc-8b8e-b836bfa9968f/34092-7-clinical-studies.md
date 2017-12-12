@@ -94,7 +94,7 @@ At Week 10, 88% of patients were in clinical response (defined as a decrease fro
 The proportion of pediatric patients achieving clinical response at Week 10 compared favorably with the proportion of adults achieving a clinical response in Study Crohn's I. The study definition of clinical response in Study Peds Crohn's was based on the PCDAI score, whereas the CDAI score was used in the adult Study Crohn's I.
 
 At both Week 30 and Week 54, the proportion of patients in clinical response was greater in the every 8-week treatment group than in the every 12-week treatment group (73% vs. 47% at Week 30, and 64% vs. 33% at Week 54).
-At both Week 30 and Week 54, the proportion of patients in clinical remission was also greater in the every 8-week treatment group than in the every 12-week treatment group (60% vs. 35% at Week 30, and 56% vs. 24% at Week 54), (Table 4).
+At both Week 30 and Week 54, the proportion of patients in clinical remission was also greater in the every 8-week treatment group than in the every 12-week treatment group (60% vs. 35% at Week 30, and 56% vs. 24% at Week 54), (Tabel 4).
 
 For patients in Study Peds Crohn's receiving corticosteroids at baseline, the proportion of patients able to discontinue corticosteroids while in remission at Week 30 was 46% for the every 8-week maintenance group and 33% for the every 12-week maintenance group.
 At Week 54, the proportion of patients able to discontinue corticosteroids while in remission was 46% for the every 8-week maintenance group and 17% for the every 12-week maintenance group.
@@ -256,7 +256,7 @@ The inhibition of progression of structural damage was observed at 54 weeks (Tab
 In Study RA II, >90% of patients had at least 2 evaluable X-rays.
 Inhibition of progression of structural damage was observed at Weeks 30 and 54 (Table 9) in infliximab + MTX groups compared to MTX alone.
 Patients treated with infliximab + MTX demonstrated less progression of structural damage compared to MTX alone, whether baseline acute-phase reactants (ESR and CRP) were normal or elevated: patients with elevated baseline acute-phase reactants treated with MTX alone demonstrated a mean progression in vdH-S score of 4.2 units compared to patients treated with infliximab + MTX who demonstrated 0.5 units of progression; patients with normal baseline acute phase reactants treated with MTX alone demonstrated a mean progression in vdH-S score of 1.8 units compared to infliximab + MTX who demonstrated 0.2 units of progression.
-Of patients receiving infliximab + MTX, 59% had no progression (vdH-S score ≤ 0 unit) of structural damage compared to 45% of patients receiving MTX alone.
+Of patients receiving infliximab + MTX, 59% had no progression (vdH-S score ≤0 unit) of structural damage compared to 45% of patients receiving MTX alone.
 In a subset of patients who began the study without erosions, infliximab + MTX maintained an erosion-free state at 1 year in a greater proportion of patients than MTX alone, 79% (77/98) vs. 58% (23/40), respectively (P<0.01).
 Fewer patients in infliximab + MTX groups (47%) developed erosions in uninvolved joints compared to MTX alone (59%).
 
@@ -352,7 +352,7 @@ Dosing continued for all patients through Week 46.
 
 Clinical response
 
-Treatment with infliximab resulted in improvement in signs and symptoms, as assessed by the ACR criteria, with 58% of patients treated with infliximab achieving ACR 20 at Week 14, compared with 11% of placebo-treated patients (P< 0.001).
+Treatment with infliximab resulted in improvement in signs and symptoms, as assessed by the ACR criteria, with 58% of patients treated with infliximab achieving ACR 20 at Week 14, compared with 11% of placebo-treated patients (P<0.001).
 The response was similar regardless of concomitant use of methotrexate.
 Improvement was observed as early as Week 2.
 At 6 months, the ACR 20/50/70 responses were achieved by 54%, 41%, and 27%, respectively, of patients receiving infliximab compared to 16%, 4%, and 2%, respectively, of patients receiving placebo.
@@ -380,7 +380,7 @@ Table 11 Components of ACR 20 and percentage of patients with 1 or more joints w
 Improvement in Psoriasis Area and Severity Index (PASI) in psoriatic arthritis patients with baseline body surface area (BSA) ≥3% (n=87 placebo, n=83 infliximab) was achieved at Week 14, regardless of concomitant methotrexate use, with 64% of patients treated with infliximab achieving at least 75% improvement from baseline vs. 2% of placebo-treated patients; improvement was observed in some patients as early as Week 2.
 At 6 months, the PASI 75 and PASI 90 responses were achieved by 60% and 39%, respectively, of patients receiving infliximab compared to 1% and 0%, respectively, of patients receiving placebo.
 The PASI response was generally maintained through Week 54.
-[See also Clinical Studies (14.8)].
+[See also Clinical Studies (14.7)].
 
 Radiographic response
 

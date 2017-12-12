@@ -13,7 +13,8 @@ Doses up to 40 mg/kg were shown to produce no adverse effects in animal reproduc
 As with other IgG antibodies, infliximab products cross the placenta.
 Infliximab has been detected in the serum of infants at up to 6 months following birth.
 Consequently, these infants may be at increased risk of infection, including disseminated infection which can become fatal.
-At least a six month waiting period following birth is recommended before the administration of live vaccines (e.g., BCG vaccine or other live vaccines, such as the rotavirus vaccine) to these infants [see Warnings and Precautions (5.14)].
+At least a six month waiting period following birth is recommended before the administration of live vaccines (e.g., BCG vaccine or other live vaccines, such as the rotavirus vaccine) to these infants [see Warnings and Precautions (5.15)].
+Cases of agranulocytosis in infants exposed in utero have also been reported [See Adverse Reactions (6.2)]
 
 ## 8.3 Nursing Mothers
 
@@ -40,7 +41,7 @@ Juvenile Rheumatoid Arthritis (JRA)
 
 The safety and efficacy of infliximab in patients with juvenile rheumatoid arthritis (JRA) were evaluated in a multicenter, randomized, placebo-controlled, double-blind study for 14 weeks, followed by a double-blind, all-active treatment extension, for a maximum of 44 weeks.
 Patients with active JRA between the ages of 4 and 17 years who had been treated with MTX for at least 3 months were enrolled.
-Concurrent use of folic acid, oral corticosteroids (0.2 mg/kg/day of prednisone or equivalent), NSAIDs, and/or disease modifying antirheumatic drugs (DMARDs) was permitted.
+Concurrent use of folic acid, oral corticosteroids (≤0.2 mg/kg/day of prednisone or equivalent), NSAIDs, and/or disease modifying antirheumatic drugs (DMARDs) was permitted.
 
 Doses of 3 mg/kg of infliximab or placebo were administered intravenously at Weeks 0, 2 and 6.
 Patients randomized to placebo crossed-over to receive 6 mg/kg of infliximab at Weeks 14, 16, and 20, and then every 8 weeks through Week 44.
