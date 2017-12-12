@@ -1,6 +1,6 @@
 # PATIENT INSTRUCTIONS
 
-TRETINOIN CREAM, USP 0.025%
+TRETINOIN CREAM USP, 0.025%
 
 Acne Treatment
 
@@ -29,7 +29,7 @@ However, investigations in this area are continuing.
 Use caution in the sun: When outside, even on hazy days, areas treated with tretinoin cream should be protected.
 An effective sunscreen should be used any time you are outside (consult your physician for a recommendation of an SPF level which will provide you with the necessary high level of protection).
 For extended sun exposure, protective clothing, like a hat, should be worn.
-Do not use artificial sunlamps while you are using tretinoin cream, 0.025%.
+Do not use artificial sunlamps or artificial sunlight while you are using Tretinoin Cream, 0.025%.
 If you do become sunburned, stop your therapy with tretinoin cream until your skin has recovered.
 
 Avoid excessive exposure to wind or cold: Extremes of climate tend to dry or burn normal skin.
@@ -62,7 +62,7 @@ Washing too frequently or scrubbing too roughly may at times actually make your 
 Wash your skin gently with a mild, bland soap.
 Two or three times a day should be sufficient.
 Pat skin dry with a towel.
-Let the face dry 20 to 30 minutes before applying tretinoin cream, 0.025%.
+Let the face dry 20 to 30 minutes before applying Tretinoin Cream, 0.025%.
 Remember, excessive irritation such as rubbing, too much washing, use of other medications not suggested by your physician, etc., may worsen your acne.
 
 HOW TO USE TRETINOIN CREAM
@@ -93,7 +93,7 @@ To help you use the medication correctly, keep these simple instructions in mind
 
 WHAT TO EXPECT WITH YOUR NEW TREATMENT
 
-Tretinoin cream, 0.025% works deep inside your skin and this takes time.
+Tretinoin Cream, 0.025% works deep inside your skin and this takes time.
 You cannot make tretinoin cream work any faster by applying more than one dose each day, but an excess amount of tretinoin cream may irritate your skin.
 Be patient.
 
@@ -117,13 +117,10 @@ Once your acne is under control, you should continue regular application of tret
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
-Manufactured by: G&W NC Laboratories, LLC 1877 Kawai Road Lincolnton, NC 28092 USA
+Manufactured by: G&W Laboratories, Inc. 111 Coolidge Street South Plainfield, NJ 07080 USA
 
 Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
-FORM NO. 0117
+Revised - May 2017
 
-Rev.
-10/14
-
-VC4494
+I600-5820/24A GW7213

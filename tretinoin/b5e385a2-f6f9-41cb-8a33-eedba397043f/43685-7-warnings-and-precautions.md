@@ -3,12 +3,12 @@
 ## General
 
 If a reaction suggesting sensitivity or chemical irritation occurs, use of the medication should be discontinued.
-Exposure to sunlight, including sunlamps, should be minimized during the use of tretinoin cream, and patients with sunburn should be advised not to use the product until fully recovered because of heightened susceptibility to sunlight as a result of the use of tretinoin.
+Exposure to sunlight, including sunlamps or artificial sunlight, should be minimized during the use of tretinoin cream, and patients with sunburn should be advised not to use the product until fully recovered because of heightened susceptibility to sunlight as a result of the use of tretinoin.
 Patients who may be required to have considerable sun exposure due to occupation and those with inherent sensitivity to the sun should exercise particular caution.
 Use of sunscreen products and protective clothing over treated areas is recommended when exposure cannot be avoided.
 Weather extremes, such as wind or cold, also may be irritating to patients under treatment with tretinoin.
 
-Tretinoin cream, 0.025% should be kept away from the eyes, the mouth, the paranasal creases, and mucous membranes.
+Tretinoin Cream, 0.025% should be kept away from the eyes, the mouth, the paranasal creases, and mucous membranes.
 Topical use may induce severe local erythema and peeling at the site of application.
 If the degree of local irritation warrants, patients should be directed to temporarily use the medication less frequently, discontinue use temporarily, or discontinue use altogether.
 Efficacy at reduced frequencies of application has not been established.
@@ -29,7 +29,7 @@ It also is advisable to “rest” a patient’s skin until the effects of such 
 In a life-time dermal study in CD-1 mice with another tretinoin cream, at 100 and 200 times the average recommended human topical clinical dose, a few skin tumors in the female mice and liver tumors in male mice were observed.
 The biological significance of these findings is not clear because they occurred at doses that exceeded the dermal maximally tolerated dose (MTD) of tretinoin and because they were within the background natural occurrence rate for these tumors in this strain of mice.
 There was no evidence of carcinogenic potential when tretinoin was administered topically at a dose five times the average recommended human topical clinical dose.
-For purposes of comparisons of the animal exposure to human exposure, the “recommended human topical clinical dose” is defined as 1.0 g of 0.025% tretinoin cream applied daily to a 50 kg person.
+For purposes of comparisons of the animal exposure to human exposure, the “recommended human topical clinical dose” is defined as 1.0 g of 0.025% Tretinoin Cream applied daily to a 50 kg person.
 In a chronic, two-year bioassay of vitamin A acid in mice performed by Tsubura and Yamamoto, generalized amyloid deposition was reported in all vitamin A treated groups in the basal layer of the skin.
 In CD-1 mice, a similar study reported hyalinization at the treated skin sites and the incidence of this finding was 0/50, 3/50, 3/50, and 2/50 in male mice and 1/50, 0/50, 4/50, and 2/50 in female mice from the vehicle control, 0.25 mg/kg, 0.5 mg/kg, and 1 mg/kg groups, respectively.
 
