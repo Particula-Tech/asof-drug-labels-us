@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA209196"
+  ],
+  "inn": "insulin-lispro",
+  "labeler": "Sanofi-Aventis U.S. LLC",
+  "package_ndcs": [
+    "0024-5924-10",
+    "0024-5925-00",
+    "0024-5925-01",
+    "0024-5925-05"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "insulin lispro",
+      "name": "ADMELOG"
+    }
+  ],
+  "setid": "0691def8-4a7b-4de3-866f-a280989f47f1",
+  "source": "dailymed"
+}
