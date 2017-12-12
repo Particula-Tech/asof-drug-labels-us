@@ -70,7 +70,7 @@ Advise the patient to remove and discard the nosepiece in the trash once the med
 
 Instruct the patient to follow the same process using a second nosepiece in the other nostril to administer the remainder of the total recommended dose.
 
-ONZETRA, Xsail, and AVANIR are trademarks and/or registered trademarks of Avanir Pharmaceuticals, Inc. in the United States and other countries.
+ONZETRA, Xsail, and AVANIR are trademarks and/or registered trademarks of Avanir Pharmaceuticals, Inc. in the United States and other countries
 
 Marketed by: Avanir Pharmaceuticals, Inc. Aliso Viejo, CA 92656
 

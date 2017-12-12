@@ -1,4 +1,4 @@
-Patient Information ONZETRATM (On ze' trah) XsailTM (Eks'-seil) (sumatriptan nasal powder) 11 mg
+Patient Information ONZETRA® (On ze' trah) Xsail® (Eks'-seil) (sumatriptan nasal powder) 11 mg
 
 Read this Patient Information before you start using ONZETRA Xsail and each time you get a refill.
 There may be new information.

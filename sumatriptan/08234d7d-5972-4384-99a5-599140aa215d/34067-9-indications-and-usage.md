@@ -1,6 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-ONZETRATM XsailTM is indicated for the acute treatment of migraine with or without aura in adults.
+ONZETRA® Xsail® is indicated for the acute treatment of migraine with or without aura in adults.
 
 Limitations of Use
 
