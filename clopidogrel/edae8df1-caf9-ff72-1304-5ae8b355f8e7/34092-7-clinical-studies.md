@@ -54,11 +54,11 @@ Table 5: Outcome Events in COMMIT
 | Event | Clopidogrel (+ aspirin) (N=22961) | Placebo (+ aspirin) (N=22891) | Odds ratio (95% CI) | p-value |
 | --- | --- | --- | --- | --- |
 | Composite endpoint: Death, MI, or Stroke* | 2121 (9.2%) | 2310 (10.1%) | 0.91 (0.86, 0.97) | 0.002 |
-| Death Non-fatal MI** Non-fatal Stroke** | 1726 (7.5%) 270 (1.2%) 127 (0.6%) | 1845 (8.1%) 330 (1.4%) 142 (0.6%) | 0.93 (0.87, 0.99) 0.81 (0.69, 0.95) 0.89 (0.70, 1.13) | 0.029 0.011 0.33 |
+| Death Non-fatal MI† Non-fatal Stroke† | 1726 (7.5%) 270 (1.2%) 127 (0.6%) | 1845 (8.1%) 330 (1.4%) 142 (0.6%) | 0.93 (0.87, 0.99) 0.81 (0.69, 0.95) 0.89 (0.70, 1.13) | 0.029 0.011 0.33 |
 
-* 9 patients (2 clopidogrel and 7 placebo) suffered both a non-fatal stroke and a non-fatal MI.
+*9 patients (2 clopidogrel and 7 placebo) suffered both a non-fatal stroke and a non-fatal MI.
 
-** Non-fatal MI and non-fatal stroke exclude patients who died (of any cause).
+†Non-fatal MI and non-fatal stroke exclude patients who died (of any cause).
 
 The effect of clopidogrel did not differ significantly in various pre-specified subgroups as shown in Figure 6.
 The effect was also similar in non-prespecified subgroups including those based on infarct location, Killip class or prior MI history.
@@ -86,7 +86,7 @@ Table 6: Outcome Events in the CAPRIE Primary Analysis
 | Total | 939 (9.8%) | 1020 (10.6%) |
 
 As shown in Table 6, clopidogrel was associated with a lower incidence of outcome events, primarily MI.
-The overall relative risk reduction (9.8% vs. 10.6%) was 8.7%, p=0.045.
+The overall relative risk reduction (9.8% vs 10.6%) was 8.7%, p=0.045.
 Similar results were obtained when all-cause mortality and all-cause strokes were counted instead of vascular mortality and ischemic strokes (risk reduction 6.9%).
 In patients who survived an on-study stroke or myocardial infarction, the incidence of subsequent events was lower in the clopidogrel group.
 

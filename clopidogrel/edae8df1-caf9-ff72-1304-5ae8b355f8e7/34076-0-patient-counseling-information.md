@@ -25,7 +25,7 @@ APOTEX INC. CLOPIDOGREL TABLETS, USP 75 mg and 300 mg
 | Toronto, Ontario | Weston, Florida |
 | Canada M9L 1T9 | 33326 |
 
-Revised: August 2017
+Revised: November 2017
 
 Rev.
-22
+23

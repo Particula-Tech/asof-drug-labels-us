@@ -5,7 +5,7 @@
 Clopidogrel is metabolized to its active metabolite in part by CYP2C19.
 Concomitant use of drugs that inhibit the activity of this enzyme results in reduced plasma concentrations of the active metabolite of clopidogrel and a reduction in platelet inhibition [see Warnings and Precautions (5.1)].
 
-Omeprazole or esomeprazole
+Omeprazole or Esomeprazole
 
 Avoid concomitant use of clopidogrel bisulfate with omeprazole or esomeprazole.
 In clinical studies, omeprazole was shown to reduce significantly the antiplatelet activity of clopidogrel bisulfate when given concomitantly or 12 hours apart.
@@ -31,7 +31,7 @@ Since selective serotonin reuptake inhibitors (SSRIs) and serotonin norepinephri
 The acyl-β-glucuronide metabolite of clopidogrel is a strong inhibitor of CYP2C8.
 Clopidogrel can increase the systemic exposure to drugs that are primarily cleared by CYP2C8, thereby needing dose-adjustment and appropriate monitoring.
 
-Clopidogrel increased repaglinide exposures by 3.9- to 5.1-fold [see Clinical Pharmacology (12.3)].
+Clopidogrel increased repaglinide exposures by 3.9-fold to 5.1-fold [see Clinical Pharmacology (12.3)].
 Avoid concomitant use of repaglinide with clopidogrel.
 If concomitant use cannot be avoided, initiate repaglinide at 0.5 mg before each meal and do not exceed a total daily dose of 4 mg.
 Increased frequency of glucose monitoring may be required during concomitant use.

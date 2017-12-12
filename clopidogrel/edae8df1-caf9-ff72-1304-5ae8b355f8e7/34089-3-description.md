@@ -2,7 +2,7 @@
 
 Clopidogrel bisulfate is an inhibitor of ADP-induced platelet aggregation acting by direct inhibition of adenosine diphosphate (ADP) binding to its receptor and of the subsequent ADP-mediated activation of the glycoprotein GPIIb/IIIa complex.
 Chemically it is methyl (+)-(S)-α-(2-chlorophenyl)-6,7-dihydrothieno[3,2-c]pyridine-5(4H)-acetate sulfate (1:1).
-The empirical formula of clopidogrel bisulfate is C16H16ClNO2S•H2SO4 and its molecular weight is 419.9.
+The empirical formula of clopidogrel bisulfate is C16H16ClNO2S•H2SO4 and its molecular weight is 419.9 g/mol.
 
 The structural formula is as follows:
 
