@@ -25,7 +25,7 @@ Of these, 635 patients (ages 6 to 12) were evaluated in two controlled clinical 
 
 Adverse Reactions Leading to Discontinuation of Treatment
 
-The most frequent adverse reactions leading to discontinuation of MAS ER in controlled and uncontrolled, multiple-dose clinical trials of pediatric patients ages 6 to 12 years (N=595) were anorexia (loss of appetite) (2.9%), insomnia (1 5%), weight loss (1.2%), emotional lability (1%), and depression (0.7%).
+The most frequent adverse reactions leading to discontinuation of MAS ER in controlled and uncontrolled, multiple-dose clinical trials of pediatric patients ages 6 to 12 years (N=595) were anorexia (loss of appetite) (2.9%), insomnia (1.5%), weight loss (1.2%), emotional lability (1%), and depression (0.7%).
 
 In a separate placebo-controlled 4-week study in pediatric patients 13 to 17 years with ADHD, five patients (2.1%) discontinued treatment due to adverse events among MAS ER-treated patients (N=233) compared to none who received placebo (N=54).
 The most frequent adverse event leading to discontinuation and considered to be drug-related (i.e. leading to discontinuation in at least 1% of MAS ER-treated patients and at a rate at least twice that of placebo) was insomnia (1.3%, n=3).
@@ -53,7 +53,7 @@ Table 2: Adverse Reactions Reported by 2% or More of Children (6-12 years old) R
 | Nervous System | Insomnia | 17% | 2% |
 |  | Emotional Lability | 9% | 2% |
 |  | Nervousness | 6% | 2% |
-|  | Dizziness | 2% | 0%a |
+|  | Dizziness | 2% | 0% |
 | Metabolic/Nutritional | Weight Loss | 4% | 0% |
 
 Table 3: Adverse Reactions Reported by 5% or More of Adolescents (13-17 Years Old) Weighing ≤ 75kg Receiving MAS ER with Higher Incidence than Placebo in a 287 Patient Clinical Forced Weekly-Dose Titration StudyIncluded doses up to 40 mg

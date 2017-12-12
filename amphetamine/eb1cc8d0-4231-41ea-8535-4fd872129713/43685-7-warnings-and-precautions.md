@@ -71,5 +71,5 @@ To avoid substitution errors and overdosage, do not substitute for other ampheta
 ## 5.9 Potential for Intestinal Necrosis
 
 Cases of intestinal necrosis, including some deaths, have been reported with the concomitant use of sodium polystyrene sulfonate and sorbitol, two of the inactive ingredients in ADZENYS ER.
-In these cases, patients were administered sodium polystyrene sulfonate to treat hyperkalemia at doses greater than 200 times the amount present in Adzenys ER.
+In these cases, patients were administered sodium polystyrene sulfonate to treat hyperkalemia at doses greater than 200 times the amount present in ADZENYS ER.
 However, no absolute safe levels for the interaction of sodium polystyrene sulfonate and sorbitol have been established.
