@@ -29,13 +29,17 @@ Consider use of alternative treatment with NUEDEXTA when clinically indicated.
 Drug interactions with desipramine and paroxetine have been studied in controlled clinical trials with a higher dose combination of dextromethorphan/quinidine (dextromethorphan 30 mg/quinidine 30 mg) than NUEDEXTA; study results are described below.
 No other drug interactions with CYP2D6 substrates have been systematically investigated, although concomitant use of such drugs was allowed in clinical trials with NUEDEXTA and in clinical trials with higher dose formulations of dextromethorphan/quinidine.
 
-Desipramine (CYP2D6 substrate): The tricyclic antidepressant desipramine is metabolized primarily by CYP2D6.
+Desipramine (CYP2D6 substrate):
+
+The tricyclic antidepressant desipramine is metabolized primarily by CYP2D6.
 A drug interaction study was conducted between a higher combination dose of dextromethorphan (dextromethorphan 30 mg/quinidine 30 mg) and desipramine 25 mg.
 The combination dose of dextromethorphan/quinidine increased steady state desipramine levels approximately 8-fold.
 If NUEDEXTA and desipramine are prescribed concomitantly, the initial dose of desipramine should be markedly reduced.
 The dose of desipramine can then be adjusted based on clinical response; however, a dose above 40 mg/day is not recommended.
 
-Paroxetine (CYP2D6 inhibitor and substrate): When the combination dose of dextromethorphan 30 mg/quinidine 30 mg was added to paroxetine at steady state, paroxetine exposure (AUC0-24) increased by 1.7 fold and Cmax increased by 1.5 fold.
+Paroxetine (CYP2D6 inhibitor and substrate):
+
+When the combination dose of dextromethorphan 30 mg/quinidine 30 mg was added to paroxetine at steady state, paroxetine exposure (AUC0-24) increased by 1.7 fold and Cmax increased by 1.5 fold.
 Consideration should be given to initiating treatment with a lower dose of paroxetine if given with NUEDEXTA.
 The dose of paroxetine can then be adjusted based on clinical response; however, dosage above 35 mg/day is not recommended.
 

@@ -32,10 +32,14 @@ Quinidine-induced hypotension that is not due to an arrhythmia is likely to be a
 Treatment of hypotension should be directed at symptomatic and supportive measures.
 Repletion of central volume (Trendelenburg positioning, saline infusion) may be sufficient therapy; other interventions reported to have been beneficial in this setting are those that increase peripheral vascular resistance, including α-agonist catecholamines (norepinephrine).
 
-Quinidine: Adequate studies of orally administered activated charcoal in human overdoses of quinidine have not been reported, but there are animal data showing significant enhancement of systemic elimination following this intervention, and there is at least one human case report in which the elimination half-life of quinidine in the serum was apparently shortened by repeated gastric lavage.
+Quinidine:
+
+Adequate studies of orally administered activated charcoal in human overdoses of quinidine have not been reported, but there are animal data showing significant enhancement of systemic elimination following this intervention, and there is at least one human case report in which the elimination half-life of quinidine in the serum was apparently shortened by repeated gastric lavage.
 Activated charcoal should be avoided if an ileus is present; the conventional dose is 1 gram/kg, administered every 2 to 6 hours as a slurry with 8 mL/kg of tap water.
 Although renal elimination of quinidine might theoretically be accelerated by maneuvers to acidify the urine, such maneuvers are potentially hazardous and of no demonstrated benefit.
 Quinidine is not usefully removed from the circulation by dialysis.
 Following quinidine overdose, drugs that delay elimination of quinidine (cimetidine, carbonic anhydrase inhibitors, thiazide diuretics) should be withdrawn unless absolutely required.
 
-Dextromethorphan: Treatment of dextromethorphan overdosage should be directed at symptomatic and supportive measures.
+Dextromethorphan:
+
+Treatment of dextromethorphan overdosage should be directed at symptomatic and supportive measures.

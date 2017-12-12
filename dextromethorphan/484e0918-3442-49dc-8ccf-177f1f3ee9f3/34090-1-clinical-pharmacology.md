@@ -8,7 +8,9 @@ The mechanism by which dextromethorphan exerts therapeutic effects in patients w
 
 ## 12.2Pharmacodynamics
 
-Cardiac Electrophysiology The effect of dextromethorphan 30 mg/quinidine 10 mg (for 7 doses) on QTc prolongation was evaluated in a randomized, double-blind (except for moxifloxacin), placebo- and positive-controlled (400 mg moxifloxacin) crossover thorough QT study in 50 fasted normal healthy men and women with CYP2D6 extensive metabolizer (EM) genotype.
+Cardiac Electrophysiology
+
+The effect of dextromethorphan 30 mg/quinidine 10 mg (for 7 doses) on QTc prolongation was evaluated in a randomized, double-blind (except for moxifloxacin), placebo- and positive-controlled (400 mg moxifloxacin) crossover thorough QT study in 50 fasted normal healthy men and women with CYP2D6 extensive metabolizer (EM) genotype.
 Mean changes in QTcF were 6.8 ms for dextromethorphan 30 mg/quinidine 10 mg and 9.1 ms for the reference positive control (moxifloxacin).
 The maximum mean (95% upper confidence bound) difference from placebo after baseline correction was 10.2 (12.6) ms. This test dose is adequate to represent the steady state exposure in patients with CYP2D6 extensive metabolizer phenotype.
 
@@ -23,7 +25,9 @@ Quinidine’s primary pharmacological action in NUEDEXTA is to competitively inh
 Studies were conducted with the individual components of NUEDEXTA in healthy subjects to determine single-dose and multiple-dose kinetics of orally administered dextromethorphan in combination with quinidine.
 The increase in dextromethorphan levels appeared approximately dose proportional when the dextromethorphan dose was increased from 20 mg to 30 mg in the presence of 10 mg of quinidine.
 
-Absorption Following single and repeated combination doses of dextromethorphan 30 mg/quinidine 10 mg, dextromethorphan/quinidine -treated subjects had an approximately 20-fold increase in dextromethorphan exposure compared to dextromethorphan given without quinidine.
+Absorption
+
+Following single and repeated combination doses of dextromethorphan 30 mg/quinidine 10 mg, dextromethorphan/quinidine -treated subjects had an approximately 20-fold increase in dextromethorphan exposure compared to dextromethorphan given without quinidine.
 
 Following repeated doses of dextromethorphan 30 mg/quinidine 10 mg and dextromethorphan 20 mg/ quinidine 10 mg (NUEDEXTA), maximal plasma concentrations (Cmax) of dextromethorphan are reached approximately 3 to 4 hours after dosing and maximal plasma concentrations of quinidine are reached approximately 1 to 2 hours after dosing.
 
@@ -33,9 +37,13 @@ The mean plasma Cmax of quinidine following twice daily co-administration of dex
 
 NUEDEXTA may be taken without regard to meals as food does not affect the exposure of dextromethorphan and quinidine significantly.
 
-Distribution After NUEDEXTA administration, protein binding remains essentially the same as that after administration of the individual components; dextromethorphan is approximately 60-70% protein bound and quinidine is approximately 80-89% protein bound.
+Distribution
 
-Metabolism and Excretion NUEDEXTA is a combination product containing dextromethorphan and quinidine.
+After NUEDEXTA administration, protein binding remains essentially the same as that after administration of the individual components; dextromethorphan is approximately 60-70% protein bound and quinidine is approximately 80-89% protein bound.
+
+Metabolism and Excretion
+
+NUEDEXTA is a combination product containing dextromethorphan and quinidine.
 Dextromethorphan is metabolized by CYP2D6 and quinidine is metabolized by CYP3A4.
 After dextromethorphan 30 mg/quinidine 30 mg administration in extensive metabolizers, the elimination half-life of dextromethorphan was approximately 13 hours and the elimination half-life of quinidine was approximately 7 hours.
 
@@ -88,10 +96,14 @@ Quinidine did not inhibit (< 30% inhibition) CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP
 Quinidine inhibited CYP2D6 with a half maximal inhibitory concentration (IC50) of less than 0.05 microM.
 Neither dextromethorphan nor quinidine induced CYP1A2, CYP2B6 or CYP3A4 in human hepatocytes at concentrations up to 4.8 microM.
 
-Desipramine (CYP2D6 substrate) Co-administration of dextromethorphan 30 mg/quinidine 30 mg with the tricyclic antidepressant desipramine, a CYP2D6 substrate, when desipramine was given at a dose of 25 mg once daily in 13 healthy volunteers resulted in an approximately 8-fold increase in steady state desipramine exposure (Cmin) compared to desipramine given alone.
+Desipramine (CYP2D6 substrate)
+
+Co-administration of dextromethorphan 30 mg/quinidine 30 mg with the tricyclic antidepressant desipramine, a CYP2D6 substrate, when desipramine was given at a dose of 25 mg once daily in 13 healthy volunteers resulted in an approximately 8-fold increase in steady state desipramine exposure (Cmin) compared to desipramine given alone.
 Therefore, concomitant administration of NUEDEXTA and drugs undergoing CYP2D6 metabolism should be evaluated for appropriate dose adjustment or alternative medication if the concomitant medication depends primarily on CYP2D6 metabolism and has a narrow therapeutic index, or if it relies on CYP2D6 for conversion to an active species [see Warnings and Precautions (5.4)].
 
-Paroxetine (CYP2D6 inhibitor and substrate) Co-administration of the selective serotonin reuptake inhibitor paroxetine and a higher combination dose of dextromethorphan/quinidine (dextromethorphan 30 mg/quinidine 30 mg) was studied in 27 healthy volunteers.
+Paroxetine (CYP2D6 inhibitor and substrate)
+
+Co-administration of the selective serotonin reuptake inhibitor paroxetine and a higher combination dose of dextromethorphan/quinidine (dextromethorphan 30 mg/quinidine 30 mg) was studied in 27 healthy volunteers.
 Group 1 (N = 14) received paroxetine 20 mg once daily for 12 days followed by the addition of dextromethorphan 30 mg/quinidine 30 mg twice daily for 8 days.
 Group 2 (N = 13) received dextromethorphan 30 mg/quinidine 30 mg twice daily for 8 days followed by the addition of paroxetine 20 mg once daily for 12 days.
 Dextromethorphan exposure (AUC0-12) and Cmax increased by 1.5 fold and 1.4 fold, respectively, and quinidine exposure (AUC0-12) and Cmax increased by 1.4 fold and 1.3 fold, respectively, and dextrorphan exposure (AUC0-12) and Cmax decreased by 14% and 18%, respectively, and paroxetine exposure (AUC0-24) and Cmax increased by 2.3 fold and 2.0 fold, respectively, when paroxetine was added to the combination dose of dextromethorphan/quinidine at steady state (Group 2).
@@ -101,7 +113,9 @@ When the combination dose of dextromethorphan/quinidine was added to paroxetine 
 Based on these results, when NUEDEXTA is prescribed with drugs such as paroxetine that inhibit or are extensively metabolized by CYP2D6, consideration should be given to initiating treatment with a lower dose.
 The dose of paroxetine can then be adjusted based on clinical response; however, dosage above 35 mg/day is not recommended [see Warnings and Precautions (5.4)].
 
-NMDA receptor antagonists (memantine) A drug interaction study was conducted between a higher combination dose of dextromethorphan/quinidine (dextromethorphan 30 mg/quinidine 30 mg) and memantine 20 mg/day to investigate the pharmacokinetic and pharmacodynamic interactions in 52 healthy subjects.
+NMDA receptor antagonists (memantine)
+
+A drug interaction study was conducted between a higher combination dose of dextromethorphan/quinidine (dextromethorphan 30 mg/quinidine 30 mg) and memantine 20 mg/day to investigate the pharmacokinetic and pharmacodynamic interactions in 52 healthy subjects.
 Both dextromethorphan and memantine are antagonists of the N-methyl-D-aspartate (NMDA) receptor, which could theoretically result in an additive effect at NMDA receptors and potentially an increased incidence of adverse events.
 There was no significant difference in the plasma concentrations of dextromethorphan and dextrorphan before and after the administration of memantine.
 Plasma concentrations of quinidine increased 20-30% when memantine was added to dextromethorphan 30 mg/quinidine 30 mg.
@@ -111,4 +125,4 @@ Plasma concentrations of quinidine increased 20-30% when memantine was added to 
 The quinidine component of NUEDEXTA is intended to inhibit CYP2D6 so that higher exposure to dextromethorphan can be achieved compared to when dextromethorphan is given alone.
 Approximately 7-10% of Caucasians and 3-8% of African Americans generally lack the capacity to metabolize CYP2D6 substrates and are classified as PMs.
 The quinidine component of NUEDEXTA is not expected to contribute to the effectiveness of NUEDEXTA in PMs, but adverse events of the quinidine are still possible.
-In those patients who may be at risk of significant toxicity due to quinidine, genotyping to determine if they are PMs should be considered prior to making the decision to treat with NUEDEXTA [see Warnings and Precautions (5.4),(5.8), and Clinical Pharmacology (12.3)].
+In those patients who may be at risk of significant toxicity due to quinidine, genotyping to determine if they are PMs should be considered prior to making the decision to treat with NUEDEXTA [see Warnings and Precautions (5.4), (5.8), and Clinical Pharmacology (12.3)].

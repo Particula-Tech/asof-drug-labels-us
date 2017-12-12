@@ -11,5 +11,9 @@ The secondary endpoint was the Center for Neurologic Studies Lability Scale (CNS
 CNS-LS was analyzed based on the difference between the mean scores on day 84 and baseline, and was also statistically significantly lower in each dextromethorphan/quinidine arm compared to placebo (Figure 2).
 There were no clinically important differences between NUEDEXTA and the dextromethorphan 30 mg/quinidine 10 mg arm.
 
+Figure 1: Mean PBA Episode Rates by Visit
+
+Figure 2: Least Square Mean CNS-LS Scores by Visit
+
 Two additional studies conducted using a higher dose combination of dextromethorphan/quinidine (dextromethorphan 30 mg/quinidine 30 mg) provided supportive evidence of NUEDEXTA efficacy.
 The first was a 4 week study in PBA patients with underlying ALS, and the second was a 12 week study in patients with underlying MS. In both studies, the primary outcome measure, CNS-LS, and the secondary outcome measure, laughing and crying episodes, were statistically significantly decreased by the dextromethorphan/quinidine combination.

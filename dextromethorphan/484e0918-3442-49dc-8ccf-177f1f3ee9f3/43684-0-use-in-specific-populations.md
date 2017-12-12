@@ -2,11 +2,15 @@
 
 ## 8.1Pregnancy
 
-Pregnancy Category C: There are no adequate and well-controlled studies of NUEDEXTA in pregnant women.
+Pregnancy Category C:
+
+There are no adequate and well-controlled studies of NUEDEXTA in pregnant women.
 In oral studies conducted in rats and rabbits, a combination of dextromethorphan/quinidine demonstrated developmental toxicity, including teratogenicity (rabbits) and embryolethality, when given to pregnant animals.
 NUEDEXTA should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-Animal Data When dextromethorphan/quinidine was administered orally (0/0, 5/100, 15/100, and 50/100 mg/kg/day) to pregnant rats during the period of organogenesis, embryo-fetal deaths were observed at the highest dose tested and reduced skeletal ossification was observed at all doses.
+Animal Data
+
+When dextromethorphan/quinidine was administered orally (0/0, 5/100, 15/100, and 50/100 mg/kg/day) to pregnant rats during the period of organogenesis, embryo-fetal deaths were observed at the highest dose tested and reduced skeletal ossification was observed at all doses.
 The lowest dose tested (5/100 mg/kg/day) is approximately 1/50 times the recommended human dose (RHD) of 40/20 mg/day on a mg/m2 basis.
 Oral administration (0/0, 5/60, 15/60, and 30/60 mg/kg/day) to pregnant rabbits during organogenesis resulted in an increased incidence of fetal malformations at all but the lowest dose tested.
 The no-effect dose (5/60 mg/kg/day) is approximately 2/60 times the RHD on a mg/m2 basis.

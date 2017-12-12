@@ -14,9 +14,14 @@ Approximately 60% of patients had ALS and 40% had MS. Patients were 25 to 80 yea
 Three (3) ALS patients in each drug treatment arm and 1 ALS patient in the placebo arm died during the 12-week placebo-control period.
 All deaths were consistent with the natural progression of ALS.
 
-Adverse Reactions Leading to Discontinuation The most commonly reported adverse reactions (incidence ≥ 2% and greater than placebo) that led to discontinuation with the 20 mg dextromethorphan/10 mg quinidine twice daily dose were muscle spasticity (3%), respiratory failure (1%), abdominal pain (2%), asthenia (2%), dizziness (2%), fall (1%), and muscle spasms (2%).
+Adverse Reactions Leading to Discontinuation
 
-Most Common Adverse Reactions Adverse drug reactions that occurred in ≥ 3% of patients receiving the 20 mg dextromethorphan/10 mg quinidine twice daily dose, and at an incidence of ≥ 2 times placebo in short-term clinical trials in ALS and MS are provided in Table 1.Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to the rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+The most commonly reported adverse reactions (incidence ≥ 2% and greater than placebo) that led to discontinuation with the 20 mg dextromethorphan/10 mg quinidine twice daily dose were muscle spasticity (3%), respiratory failure (1%), abdominal pain (2%), asthenia (2%), dizziness (2%), fall (1%), and muscle spasms (2%).
+
+Most Common Adverse Reactions
+
+Adverse drug reactions that occurred in ≥ 3% of patients receiving the 20 mg dextromethorphan/10 mg quinidine twice daily dose, and at an incidence of ≥ 2 times placebo in short-term clinical trials in ALS and MS are provided in Table 1.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to the rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
 Table 1: Adverse Drug Reactions with an Incidence of ≥ 3% of Patients and ≥ 2x Placebo in NUEDEXTA-treated Patients by System-Organ Class and Preferred Term
 
@@ -42,9 +47,13 @@ The experience in open-label clinical trials is consistent with the safety profi
 The following adverse reactions have been reported with the use of the individual components of NUEDEXTA, dextromethorphan and quinidine, from post-marketing experience.
 Because these reactions are reported voluntarily from a population of unknown size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Dextromethorphan Drowsiness, dizziness, nervousness or restlessness, nausea, vomiting, and stomach pain.
+Dextromethorphan
 
-Quinidine Cinchonism is most often a sign of chronic quinidine toxicity, but it may appear in sensitive patients after a single moderate dose of several hundred milligrams.
+Drowsiness, dizziness, nervousness or restlessness, nausea, vomiting, and stomach pain.
+
+Quinidine
+
+Cinchonism is most often a sign of chronic quinidine toxicity, but it may appear in sensitive patients after a single moderate dose of several hundred milligrams.
 Cinchonism is characterized by nausea, vomiting, diarrhea, headache, tinnitus, hearing loss, vertigo, blurred vision, diplopia, photophobia, confusion, and delirium.
 
 Convulsions, apprehension, and ataxia have been reported with quinidine therapy, but it is not clear that these were not simply the results of hypotension and consequent cerebral hypoperfusion in patients being treated for cardiovascular indications.
