@@ -1,22 +1,21 @@
-PRINCIPAL DISPLAY PANEL - 60 Tablet Bottle Label
+# PRINCIPAL DISPLAY PANEL - 200 mg Tablet Bottle Label
 
-N 51862-558-06
+NDC 51862-558-06
 
 DORYX® (doxycycline hyclate delayed-release tablets)
 
 200 mg
 
-Rx only Each tablet contains specially coated pellets of doxycycline hyclate equivalent to 200 mg of doxycycline.
-
-60 TABLETS
+Do not chew or crush tablets Each tablet contains specially coated pellets of doxycycline hyclate equivalent to 200 mg of doxycycline.
+Rx Only
 
 mayne pharma
 
-PRINCIPAL DISPLAY PANEL - 120 Tablet Bottle Label
+60 Tablets
 
-N 51862-557-12
+# PRINCIPAL DISPLAY PANEL - 50 mg Tablet Bottle Label
 
-Rx only
+NDC 51862-557-12
 
 DORYX® (doxycycline hyclate delayed-release tablets)
 
@@ -25,6 +24,8 @@ DORYX® (doxycycline hyclate delayed-release tablets)
 Do not chew or crush tablets.
 Each tablet contains specially coated pellets of doxycycline hyclate equivalent to 50 mg of doxycycline.
 
+Rx Only
+
 mayne pharma
 
-120 TABLETS
+120 Tablets
