@@ -92,7 +92,7 @@ Before taking omeprazole delayed-release capsules, tell your doctor about all of
   Talk to your doctor about the best way to feed your baby if you take omeprazole delayed-release capsules.
 - •Tell your doctor about all of the medicines you take including prescription and over-the-counter medicines, vitamins and herbal supplements.
   Omeprazole delayed-release capsules may affect how other medicines work, and other medicines may affect how omeprazole delayed-release capsules work.
-  Especially tell your doctor if you take an antibiotic that contains clarithromycin or amoxicillin, or if you take clopidogrel (Plavix), methotrexate (Otrxup, Rasuvo, Trexall), St. John’s Wort (Hypericum perforatum), or rifampin (Rimactane, Rifater, Rifamate).
+  Especially tell your doctor if you take an antibiotic that contains clarithromycin or amoxicillin, or if you take clopidogrel (Plavix), methotrexate (Otrexup, Rasuvo, Trexall), St. John’s Wort (Hypericum perforatum), or rifampin (Rimactane, Rifater, Rifamate).
 
 Know the medicines that you take.
 Keep a list of them to show your doctor and pharmacist when you get a new medicine.
@@ -236,4 +236,4 @@ Finished Drug Product Manufactured by Lek Pharmaceuticals d.d., SI-1526 Ljubljan
 Sandoz Inc., Princeton, NJ 08540
 
 Rev.
-July 2017
+November 2017

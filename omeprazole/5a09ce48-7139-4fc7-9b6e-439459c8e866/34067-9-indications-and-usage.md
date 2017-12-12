@@ -30,7 +30,7 @@ Omeprazole delayed-release capsules are indicated for short-term treatment (4 to
 
 Omeprazole delayed-release capsules are indicated for the treatment of heartburn and other symptoms associated with GERD for up to 4 weeks in patients 2 years of age and older.
 
-## 1.5 Treatment of Erosive Esophagitis (EE) Due to Acid Mediated GERD Pediatric Patients 2 Years of Age to Adults
+## 1.5 Treatment of Erosive Esophagitis (EE) Due to Acid Mediated GERD
 
 Omeprazole delayed-release capsules are indicated for the short-term treatment (4 to 8 weeks) of EE due to acid-mediated GERD that has been diagnosed by endoscopy in patients 2 years of age and older.
 
