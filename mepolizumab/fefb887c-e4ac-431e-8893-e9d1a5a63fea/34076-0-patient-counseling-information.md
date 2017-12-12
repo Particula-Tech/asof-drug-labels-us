@@ -14,7 +14,7 @@ Inform patients to seek medical advice if their asthma remains uncontrolled or w
 
 Opportunistic Infections: Herpes Zoster
 
-Inform patients that herpes zoster infections have occurred in patients receiving NUCALA and where medically appropriate, inform patients varicella vaccination should be considered before starting treatment with NUCALA.
+Inform patients that herpes zoster infections have occurred in patients receiving NUCALA and where medically appropriate, inform patients that vaccination should be considered.
 
 Reduction of Corticosteroid Dosage
 
@@ -23,9 +23,9 @@ Inform patients that reduction in corticosteroid dose may be associated with sys
 
 Pregnancy Exposure Registry
 
-Inform women there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to NUCALA during pregnancy and that they can enroll in the Pregnancy Exposure Registry by calling 1-877-311-8972 or by visiting www.mothertobaby.org/asthma [see Use in Specific Populations (8.1)].
+Inform women there is a pregnancy exposure registry that monitors pregnancy outcomes in women with asthma exposed to NUCALA during pregnancy and that they can enroll in the Pregnancy Exposure Registry by calling 1-877-311-8972 or by visiting www.mothertobaby.org/asthma [see Use in Specific Populations (8.1)].
 
-NUCALA is a registered trademark of the GSK group of companies.
+Trademarks are owned by or licensed to the GSK group of companies.
 
 Manufactured by
 
@@ -41,7 +41,6 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2017 the GSK group of companies.
-All rights reserved.
+©2017 GSK group of companies or its licensor.
 
-NCL:2PI
+NCL:3PI

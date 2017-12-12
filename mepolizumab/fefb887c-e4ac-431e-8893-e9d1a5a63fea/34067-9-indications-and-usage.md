@@ -1,9 +1,13 @@
 # 1 INDICATIONS AND USAGE
 
-NUCALA® is indicated for the add-on maintenance treatment of patients with severe asthma aged 12 years and older, and with an eosinophilic phenotype.
-[See Clinical Studies (14).]
+## 1.1 Maintenance Treatment of Severe Asthma
 
-Limitations of Use
+NUCALA is indicated for the add-on maintenance treatment of patients with severe asthma aged 12 years and older, and with an eosinophilic phenotype [see Clinical Studies (14.1)].
 
-- •NUCALA is not indicated for treatment of other eosinophilic conditions.
-- •NUCALA is not indicated for the relief of acute bronchospasm or status asthmaticus.
+Limitation of Use
+
+NUCALA is not indicated for the relief of acute bronchospasm or status asthmaticus.
+
+## 1.2 Eosinophilic Granulomatosis with Polyangiitis
+
+NUCALA is indicated for the treatment of adult patients with eosinophilic granulomatosis with polyangiitis (EGPA).

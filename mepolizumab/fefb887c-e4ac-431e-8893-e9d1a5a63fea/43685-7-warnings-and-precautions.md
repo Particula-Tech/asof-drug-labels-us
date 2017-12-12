@@ -14,14 +14,14 @@ Patients should seek medical advice if their asthma remains uncontrolled or wors
 
 ## 5.3 Opportunistic Infections: Herpes Zoster
 
-In controlled clinical trials, 2 serious adverse reactions of herpes zoster occurred in subjects treated with NUCALA compared with none in placebo [see Adverse Reactions (6.1)].
-Consider varicella vaccination if medically appropriate prior to starting therapy with NUCALA.
+Herpes zoster has occurred in subjects receiving NUCALA 100 mg in controlled clinical trials [see Adverse Reactions (6.1)].
+Consider vaccination if medically appropriate.
 
 ## 5.4 Reduction of Corticosteroid Dosage
 
-Do not discontinue systemic or inhaled corticosteroids abruptly upon initiation of therapy with NUCALA.
-Reductions in corticosteroid dose, if appropriate, should be gradual and performed under the direct supervision of a physician.
-Reduction in corticosteroid dose may be associated with systemic withdrawal symptoms and/or unmask conditions previously suppressed by systemic corticosteroid therapy.
+Do not discontinue systemic or inhaled corticosteroids (ICS) abruptly upon initiation of therapy with NUCALA.
+Reductions in corticosteroid dosage, if appropriate, should be gradual and performed under the direct supervision of a physician.
+Reduction in corticosteroid dosage may be associated with systemic withdrawal symptoms and/or unmask conditions previously suppressed by systemic corticosteroid therapy.
 
 ## 5.5 Parasitic (Helminth) Infection
 
