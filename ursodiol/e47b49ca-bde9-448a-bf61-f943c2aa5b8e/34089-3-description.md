@@ -4,7 +4,7 @@ Ursodiol is a bile acid available as 300 mg capsules suitable for oral administr
 
 Ursodiol, USP (ursodeoxycholic acid), is a naturally occurring bile acid found in small quantities in normal human bile and in the biles of certain other mammals.
 It is a bitter-tasting, white powder freely soluble in ethanol, methanol, and glacial acetic acid; sparingly soluble in chloroform; slightly soluble in ether; and insoluble in water.
-The chemical name for ursodiol is 3α, 7β-Dihydroxy-5β-cholan-24-oic acid (C24H40O4).
+The chemical name for ursodiol is 3α, 7β-Dihydroxy-5β-cholan-24-oic acid (C 24H 40O 4).
 Ursodiol, USP has a molecular weight of 392.57.
 Its structure is shown below:
 
