@@ -3,7 +3,7 @@
 Advise the patient to read the FDA-approved Patient labeling (Medication Guide)
 
 Embryo-Fetal Toxicity Advise patients that REVLIMID is contraindicated in pregnancy [see Boxed Warning and Contraindications (4.1)].
-REVLIMID is a thalidomide analog and can cause serious birth defects or death to a developing baby [see Warnings and Precautions (5.1) and Use in Specific Populations (8.1)].
+REVLIMID is a thalidomide analogue and can cause serious birth defects or death to a developing baby [see Warnings and Precautions (5.1) and Use in Specific Populations (8.1)].
 
 - Advise females of reproductive potential that they must avoid pregnancy while taking REVLIMID and for at least 4 weeks after completing therapy.
 - Initiate REVLIMID treatment in females of reproductive potential only following a negative pregnancy test.
@@ -30,15 +30,15 @@ Inform females there is a Pregnancy Exposure Registry that monitors pregnancy ou
 
 Hematologic Toxicity
 
-Inform patients that REVLIMID is associated with significant neutropenia and thrombocytopenia [see Boxed Warnings and Warnings and Precautions (5.3)].
+Inform patients that REVLIMID is associated with significant neutropenia and thrombocytopenia [see Boxed Warning and Warnings and Precautions (5.3)].
 
 Venous and Arterial Thromboembolism
 
-Inform patients of the risk of thrombosis including DVT, PE, MI, and stroke and to report immediately any signs and symptoms suggestive of these events for evaluation [see Boxed Warnings and Warning and Precautions (5.4)].
+Inform patients of the risk of thrombosis including DVT, PE, MI, and stroke and to report immediately any signs and symptoms suggestive of these events for evaluation [see Boxed Warning and Warnings and Precautions (5.4)].
 
 Increased Mortality in Patients with CLL
 
-Inform patients that REVLIMID had increased mortality in patients with CLL and serious adverse cardiovascular reactions, including atrial fibrillation, myocardial infarction, and cardiac failure [see Warning and Precautions (5.5)].
+Inform patients that REVLIMID had increased mortality in patients with CLL and serious adverse cardiovascular reactions, including atrial fibrillation, myocardial infarction, and cardiac failure [see Warnings and Precautions (5.5)].
 
 Second Primary Malignancies
 
@@ -46,19 +46,23 @@ Inform patients of the potential risk of developing second primary malignancies 
 
 Hepatotoxicity
 
-Inform patients of the risk of hepatotoxicity, including hepatic failure and death, and to report any signs and symptoms associated with this event to their healthcare provider for evaluation [see Warnings and Precautions (5.7)].
+Inform patients of the risk of hepatotoxicity, including hepatic failure and death, and to report any signs and symptoms associated with this event to their healthcare provider for evaluation [see Warnings and Precautions (5.8)].
 
-Allergic Reactions
+Severe Cutaneous Reactions Including Hypersensitivity Reactions
 
-Inform patients of the potential for allergic reactions including hypersensitivity, angioedema, Stevens-Johnson Syndrome, or toxic epidermal necrolysis if they had such a reaction to THALOMID and report symptoms associated with these events to their healthcare provider for evaluation [see Warnings and Precautions (5.8)].
+Inform patients of the potential for severe reactions including hypersensitivity, angioedema, Stevens-Johnson Syndrome, toxic epidermal necrolysis or drug reaction with eosinophilia and systemic symptoms if they had such a reaction to thalidomide and report symptoms associated with these events to their healthcare provider for evaluation [see Warnings and Precautions (5.9)].
 
 Tumor Lysis Syndrome
 
-Inform patients of the potential risk of tumor lysis syndrome and to report any signs and symptoms associated with this event to their healthcare provider for evaluation [see Warnings and Precautions (5.9)].
+Inform patients of the potential risk of tumor lysis syndrome and to report any signs and symptoms associated with this event to their healthcare provider for evaluation [see Warnings and Precautions (5.10)].
 
 Tumor Flare Reaction
 
-Inform patients of the potential risk of tumor flare reaction and to report any signs and symptoms associated with this event to their healthcare provider for evaluation [see Warnings and Precautions (5.10)].
+Inform patients of the potential risk of tumor flare reaction and to report any signs and symptoms associated with this event to their healthcare provider for evaluation [see Warnings and Precautions (5.11)].
+
+Early Mortality in Patients with MCL
+
+Inform patients with MCL of the potential for early death [see Warnings and Precautions (5.14)].
 
 Dosing Instructions
 
@@ -75,10 +79,10 @@ Inform patients how to take REVLIMID [see Dosage and Administration (2)]
 
 Manufactured for: Celgene Corporation Summit, NJ 07901
 
-REVLIMID®, REVLIMID REMS® and THALOMID® are registered trademarks of Celgene Corporation.
+REVLIMID® and REVLIMID REMS® are registered trademarks of Celgene Corporation.
 
 Pat. www.celgene.com/therapies
 
-©2005-2017 Celgene Corporation, All Rights Reserved.
+© 2005-2017 Celgene Corporation, All Rights Reserved.
 
-RevPlyPI.021/MG.021 02/17
+RevPlyPI.024/MG.024 12/17

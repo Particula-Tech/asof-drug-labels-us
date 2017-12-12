@@ -105,7 +105,12 @@ Patients who received REVLIMID-containing therapy until disease progression did 
 Monitor patients for the development of second primary malignancies.
 Take into account both the potential benefit of REVLIMID and the risk of second primary malignancies when considering treatment with REVLIMID.
 
-## 5.7 Hepatotoxicity
+## 5.7 Increased Mortality in Patients with MM When Pembrolizumab Is Added to a Thalidomide Analogue and Dexamethasone
+
+In two randomized clinical trials in patients with MM, the addition of pembrolizumab to a thalidomide analogue plus dexamethasone, a use for which no PD-1 or PD-L1 blocking antibody is indicated, resulted in increased mortality.
+Treatment of patients with MM with a PD-1 or PD-L1 blocking antibody in combination with a thalidomide analogue plus dexamethasone is not recommended outside of controlled clinical trials.
+
+## 5.8 Hepatotoxicity
 
 Hepatic failure, including fatal cases, has occurred in patients treated with lenalidomide in combination with dexamethasone.
 In clinical trials, 15% of patients experienced hepatotoxicity (with hepatocellular, cholestatic and mixed characteristics); 2% of patients with MM and 1% of patients with myelodysplasia had serious hepatotoxicity events.
@@ -115,24 +120,22 @@ Monitor liver enzymes periodically.
 Stop REVLIMID upon elevation of liver enzymes.
 After return to baseline values, treatment at a lower dose may be considered.
 
-## 5.8 Allergic Reactions
+## 5.9 Severe Cutaneous Reactions Including Hypersensitivity Reactions
 
-Angioedema and serious dermatologic reactions including Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN) have been reported.
+Angioedema and severe cutaneous reactions including Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), and drug reaction with eosinophilia and systemic symptoms (DRESS) have been reported.
+DRESS may present with a cutaneous reaction (such as rash or exfoliative dermatitis), eosinophilia, fever, and/or lymphadenopathy with systemic complications such as hepatitis, nephritis, pneumonitis, myocarditis, and/or pericarditis.
 These events can be fatal.
 Patients with a prior history of Grade 4 rash associated with thalidomide treatment should not receive REVLIMID.
 REVLIMID interruption or discontinuation should be considered for Grade 2-3 skin rash.
-REVLIMID must be discontinued for angioedema, Grade 4 rash, exfoliative or bullous rash, or if SJS or TEN is suspected and should not be resumed following discontinuation for these reactions.
+REVLIMID must be discontinued for angioedema, Grade 4 rash, exfoliative or bullous rash, or if SJS, TEN or DRESS is suspected and should not be resumed following discontinuation for these reactions.
 
-REVLIMID capsules contain lactose.
-Risk-benefit of REVLIMID treatment should be evaluated in patients with lactose intolerance.
-
-## 5.9 Tumor Lysis Syndrome
+## 5.10 Tumor Lysis Syndrome
 
 Fatal instances of tumor lysis syndrome have been reported during treatment with lenalidomide.
 The patients at risk of tumor lysis syndrome are those with high tumor burden prior to treatment.
 These patients should be monitored closely and appropriate precautions taken.
 
-## 5.10 Tumor Flare Reaction
+## 5.11 Tumor Flare Reaction
 
 Tumor flare reaction has occurred during investigational use of lenalidomide for CLL and lymphoma, and is characterized by tender lymph node swelling, low grade fever, pain and rash.
 REVLIMID is not indicated and not recommended for use in CLL outside of controlled clinical trials.
@@ -146,13 +149,18 @@ Patients with Grade 1 and 2 TFR may also be treated with corticosteroids, non-st
 In patients with Grade 3 or 4 TFR, it is recommended to withhold treatment with lenalidomide until TFR resolves to ≤ Grade 1.
 Patients with Grade 3 or 4 TFR may be treated for management of symptoms per the guidance for treatment of Grade 1 and 2 TFR.
 
-## 5.11 Impaired Stem Cell Mobilization
+## 5.12 Impaired Stem Cell Mobilization
 
 A decrease in the number of CD34+ cells collected after treatment (> 4 cycles) with REVLIMID has been reported.
 In patients who are auto-HSCT candidates, referral to a transplant center should occur early in treatment to optimize the timing of the stem cell collection.
 In patients who received more than 4 cycles of a REVLIMID-containing treatment or for whom inadequate numbers of CD 34+ cells have been collected with G-CSF alone, G-CSF with cyclophosphamide or the combination of G-CSF with a CXCR4 inhibitor may be considered.
 
-## 5.12 Thyroid Disorders
+## 5.13 Thyroid Disorders
 
 Both hypothyroidism and hyperthyroidism have been reported [see Adverse Reactions (6.2)].
 Measure thyroid function before start of REVLIMID treatment and during therapy.
+
+## 5.14 Early Mortality in Patients with MCL
+
+In another MCL study, there was an increase in early deaths (within 20 weeks), 12.9% in the REVLIMID arm versus 7.1% in the control arm.
+On exploratory multivariate analysis, risk factors for early deaths include high tumor burden, MIPI score at diagnosis, and high WBC at baseline (≥ 10 x 109/L).

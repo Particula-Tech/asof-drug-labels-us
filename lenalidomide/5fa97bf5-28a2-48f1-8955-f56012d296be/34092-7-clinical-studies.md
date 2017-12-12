@@ -175,11 +175,11 @@ Table 15: Baseline Demographic and Disease-Related Characteristics – Studies 1
 | Patient Characteristics |  |  |  |  |
 | Age (years) Median Min, Max | 64 36, 86 | 62 37, 85 | 63 33, 84 | 64 40, 82 |
 | Sex Male Female | 106 (60%) 71 (40%) | 104 (59%) 72 (41%) | 104 (59%) 72 (41%) | 103 (59%) 72 (41%) |
-| Race/Ethnicity White Other | 141(80%) 36 (20%) | 148 (84%) 28 (16%) | 172 (98%) 4 (2%) | 175(100%) 0 (0%) |
+| Race/Ethnicity White Other | 141 (80%) 36 (20%) | 148 (84%) 28 (16%) | 172 (98%) 4 (2%) | 175 (100%) 0 (0%) |
 | ECOG Performance Status 0-1 | 157 (89%) | 168 (95%) | 150 (85%) | 144 (82%) |
 | Disease Characteristics |  |  |  |  |
 | Multiple Myeloma Stage (Durie- Salmon) I II III | 3% 32% 64% | 3% 31% 66% | 6% 28% 65% | 5% 33% 63% |
-| B2-microglobulin (mg/L) ≤ 2.5 mg/L >2.5 mg/L | 52 (29%) 125 (71%) | 51 (29%) 125 (71%) | 51 (29%) 125 (71%) | 48 (27%) 127 (73%) |
+| β2-microglobulin (mg/L) ≤ 2.5 mg/L > 2.5 mg/L | 52 (29%) 125 (71%) | 51 (29%) 125 (71%) | 51 (29%) 125 (71%) | 48 (27%) 127 (73%) |
 | Number of Prior Therapies |  |  |  |  |
 | 1 ≥ 2 | 38% 62% | 38% 62% | 32% 68% | 33% 67% |
 | Types of Prior Therapies |  |  |  |  |
@@ -196,8 +196,8 @@ TTP was defined as the time from randomization to the first occurrence of progre
 Preplanned interim analyses of both studies showed that the combination of REVLIMID/dexamethasone was significantly superior to dexamethasone alone for TTP.
 The studies were unblinded to allow patients in the placebo/dexamethasone group to receive treatment with the REVLIMID/dexamethasone combination.
 For both studies, the extended follow-up survival data with crossovers were analyzed.
-In study 1, the median survival time was 39.4 months (95%CI: 32.9, 47.4) in REVLIMID/dexamethasone group and 31.6 months (95%CI: 24.1, 40.9) in placebo/dexamethasone group, with a hazard ratio of 0.79 (95% CI: 0.61-1.03).
-In study 2, the median survival time was 37.5 months (95%CI: 29.9, 46.6) in REVLIMID/dexamethasone group and 30.8 months (95%CI: 23.5, 40.3) in placebo/dexamethasone group, with a hazard ratio of 0.86 (95% CI: 0.65-1.14).
+In study 1, the median survival time was 39.4 months (95% CI: 32.9, 47.4) in REVLIMID/dexamethasone group and 31.6 months (95% CI: 24.1, 40.9) in placebo/dexamethasone group, with a hazard ratio of 0.79 (95% CI: 0.61-1.03).
+In study 2, the median survival time was 37.5 months (95% CI: 29.9, 46.6) in REVLIMID/dexamethasone group and 30.8 months (95% CI: 23.5, 40.3) in placebo/dexamethasone group, with a hazard ratio of 0.86 (95% CI: 0.65-1.14).
 
 Table 16: TTP Results in Study 1 and Study 2
 

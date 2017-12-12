@@ -2,17 +2,19 @@
 
 The following adverse reactions are described in detail in other sections of the prescribing information:
 
-- Embryo-Fetal Toxicity [see Boxed Warnings, Warnings and Precautions (5.1, 5.2)]
-- Hematologic Toxicity [see Boxed Warnings, Warnings and Precautions (5.3)]
-- Venous and Arterial Thromboembolism [see Boxed Warnings, Warnings and Precautions (5.4)]
+- Embryo-Fetal Toxicity [see Boxed Warning, Warnings and Precautions (5.1, 5.2)]
+- Hematologic Toxicity [see Boxed Warning, Warnings and Precautions (5.3)]
+- Venous and Arterial Thromboembolism [see Boxed Warning, Warnings and Precautions (5.4)]
 - Increased Mortality in Patients with CLL [see Warnings and Precautions (5.5)]
 - Second Primary Malignancies [see Warnings and Precautions (5.6)]
-- Hepatotoxicity [see Warnings and Precautions (5.7)]
-- Allergic Reactions [see Warnings and Precautions (5.8)]
-- Tumor Lysis Syndrome [see Warnings and Precautions (5.9)]
-- Tumor Flare Reactions [see Warnings and Precautions (5.10)]
-- Impaired Stem Cell Mobilization [see Warnings and Precautions (5.11)]
-- Thyroid Disorders [see Warnings and Precautions (5.12)]
+- Increased Mortality in Patients with MM When Pembrolizumab Is Added to a Thalidomide Analogue and Dexamethasone [see Warnings and Precautions (5.7)]
+- Hepatotoxicity [see Warnings and Precautions (5.8)]
+- Severe Cutaneous Reactions Including Hypersensitivity Reactions [see Warnings and Precautions (5.9)]
+- Tumor Lysis Syndrome [see Warnings and Precautions (5.10)]
+- Tumor Flare Reactions [see Warnings and Precautions (5.11)]
+- Impaired Stem Cell Mobilization [see Warnings and Precautions (5.12)]
+- Thyroid Disorders [see Warnings and Precautions (5.13)]
+- Early Mortality in Patients with MCL [see Warnings and Precautions (5.14)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -124,7 +126,7 @@ Table 4: All Adverse Reactions in ≥5.0% and Grade 3/4 Adverse Reactions in ≥
 | Neoplasms benign, malignant and unspecified (Incl cysts and polyps) |  |  |  |  |  |  |
 | Squamous cell carcinoma c e | <5% | <5% | <5% | 8 (1.5) | 4 (0.7) | 0 (0.0) |
 | Basal cell carcinomac e,f | <5% | <5% | <5% | <1% | <1% | 0 (0.0) |
-| Note: A subject with multiple occurrences of an adverse reaction is counted only once under the applicable Body System/Adverse Reaction. a All treatment-emergent adverse reactions in at least 5.0% of subjects in the Rd Continuous or Rd18 Arms and at least a 2.0% higher frequency (%) in either the Rd Continuous or Rd18 Arms compared to the MPT Arm. b All grade 3 or 4 treatment-emergent adverse reactions in at least 1.0% of subjects in the Rd Continuous or Rd18 Arms and at least a 1.0% higher frequency (%) in either the Rd Continuous or Rd18 Arms compared to the MPT Arm. c Serious treatment-emergent adverse reactions in at least 1.0% of subjects in the Rd Continuous or Rd18 Arms and at least a 1.0% higher frequency (%) in either the Rd Continuous or Rd18 Arms compared to the MPT Arm. d Preferred terms for the blood and lymphatic system disorders body system were included by medical judgment as known adverse reactions for Rd Continuous/Rd18, and have also been reported as serious. e Footnote “a” not applicable f Footnote “b” not applicable. @ - adverse reactions in which at least one resulted in a fatal outcome % - adverse reactions in which at least one was considered to be life threatening (if the outcome of the reaction was death, it is included with death cases) *Adverse reactions include in combined adverse reaction terms: Abdominal Pain: Abdominal pain, abdominal pain upper, abdominal pain lower, gastrointestinal pain Pneumonias: Pneumonia, lobar pneumonia, pneumonia pneumococcal, bronchopneumonia, pneumocystis jiroveci pneumonia, pneumonia legionella, pneumonia staphylococcal, pneumonia klebsiella, atypical pneumonia, pneumonia bacterial, pneumonia escherichia, pneumonia streptococcal, pneumonia viral Sepsis: Sepsis, septic shock, urosepsis, escherichia sepsis, neutropenic sepsis, pneumococcal sepsis, staphylococcal sepsis, bacterial sepsis, meningococcal sepsis, enterococcal sepsis, klebsiella sepsis, pseudomonal sepsis Rash: Rash, rash pruritic, rash erythematous, rash maculo-papular, rash generalised, rash papular, exfoliative rash, rash follicular, rash macular, drug rash with eosinophilia and systemic symptoms, erythema multiforme, rash pustular Deep Vein Thrombosis: Deep vein thrombosis, venous thrombosis limb, venous thrombosis |  |  |  |  |  |  |
+| Note: A subject with multiple occurrences of an adverse reaction is counted only once under the applicable Body System/Adverse Reaction. a All treatment-emergent adverse reactions in at least 5.0% of subjects in the Rd Continuous or Rd18 Arms and at least a 2.0% higher frequency (%) in either the Rd Continuous or Rd18 Arms compared to the MPT Arm. b All grade 3 or 4 treatment-emergent adverse reactions in at least 1.0% of subjects in the Rd Continuous or Rd18 Arms and at least a 1.0% higher frequency (%) in either the Rd Continuous or Rd18 Arms compared to the MPT Arm. c Serious treatment-emergent adverse reactions in at least 1.0% of subjects in the Rd Continuous or Rd18 Arms and at least a 1.0% higher frequency (%) in either the Rd Continuous or Rd18 Arms compared to the MPT Arm. d Preferred terms for the blood and lymphatic system disorders body system were included by medical judgment as known adverse reactions for Rd Continuous/Rd18, and have also been reported as serious. e Footnote “a” not applicable f Footnote “b” not applicable. @ - adverse reactions in which at least one resulted in a fatal outcome % - adverse reactions in which at least one was considered to be life threatening (if the outcome of the reaction was death, it is included with death cases) *Adverse reactions include in combined adverse reaction terms: Abdominal Pain: Abdominal pain, abdominal pain upper, abdominal pain lower, gastrointestinal pain Pneumonias: Pneumonia, lobar pneumonia, pneumonia pneumococcal, bronchopneumonia, pneumocystis jiroveci pneumonia, pneumonia legionella, pneumonia staphylococcal, pneumonia klebsiella, atypical pneumonia, pneumonia bacterial, pneumonia escherichia, pneumonia streptococcal, pneumonia viral Sepsis: Sepsis, septic shock, urosepsis, escherichia sepsis, neutropenic sepsis, pneumococcal sepsis, staphylococcal sepsis, bacterial sepsis, meningococcal sepsis, enterococcal sepsis, klebsiella sepsis, pseudomonal sepsis Rash: Rash, rash pruritic, rash erythematous, rash maculo-papular, rash generalized, rash papular, exfoliative rash, rash follicular, rash macular, drug rash with eosinophilia and systemic symptoms, erythema multiforme, rash pustular Deep Vein Thrombosis: Deep vein thrombosis, venous thrombosis limb, venous thrombosis |  |  |  |  |  |  |
 
 Newly Diagnosed MM - REVLIMID Maintenance Therapy Following Auto-HSCT:
 
@@ -262,7 +264,7 @@ Table 6: Adverse Reactions Reported in ≥5% of Patients and with a ≥2% Differ
 | Dizziness | 82 (23.2) | 59 (16.9) |
 | Tremor | 75 (21.2) | 26 (7.4) |
 | Dysgeusia | 54 (15.3) | 34 (9.7) |
-| Hypoaesthesia | 36 (10.2) | 25 (7.1) |
+| Hypoesthesia | 36 (10.2) | 25 (7.1) |
 | Neuropathya | 23 (6.5) | 13 (3.7) |
 | Respiratory, Thoracic and Mediastinal Disorders |  |  |
 | Dyspnea | 83 (23.5) | 60 (17.1) |
@@ -609,15 +611,15 @@ Table 11: Incidence of Adverse Reactions (≥10%) or Grade 3 / 4 AE (in at least
 | Weight decreased | 17 (13) | 0 |
 | 1-MCL trial AEs – All treatment emergent AEs with ≥10% of subjects 2-MCL trial Grade 3/4 AEs – All treatment-emergent Grade 3/4 AEs in 2 or more subjects $-MCL trial Serious AEs – All treatment-emergent SAEs in 2 or more subjects @ - AEs where at least one resulted in a fatal outcome % - AEs where at least one was considered to be Life Threatening (if the outcome of the event was death, it is included with death cases) #- All adverse reactions under Body System of Infections except for rare infections of Public Health interest will be considered listed +-All adverse reactions under HLT of Rash will be considered listed |  |  |
 
-The following adverse events which have occurred in other indications and not described above have been reported (5%-10%) in patients treated with REVLIMID monotherapy for mantle cell lymphoma.
+The following adverse reactions which have occurred in other indications including another MCL study and not described above have been reported (1%-10%) in patients treated with REVLIMID monotherapy for mantle cell lymphoma.
 
-General disorders and administration site conditions: Chills Musculoskeletal and connective tissue disorders: Pain in extremity Nervous system disorders: Dysgeusia, headache, neuropathy peripheral Infections and infestations: Respiratory tract infection, sinusitis, nasopharyngitis Skin and subcutaneous tissue disorders: Dry skin, night sweats
+Cardiac disorder: Cardiac failure Ear and labyrinth disorders: Vertigo General disorders and administration site conditions: Chills Musculoskeletal and connective tissue disorders: Pain in extremity Infections and infestations: Respiratory tract infection, sinusitis, nasopharyngitis, oral herpes Nervous system disorders: Dysgeusia, headache, neuropathy peripheral, lethargy Psychiatric disorders: Insomnia Skin and subcutaneous tissue disorders: Dry skin, night sweats
 
-The following serious adverse events not described above and reported in 2 or more patients treated with REVLIMID monotherapy for mantle cell lymphoma.
+The following serious adverse reactions not described above and reported in 2 or more patients treated with REVLIMID monotherapy for mantle cell lymphoma.
 
-Respiratory, thoracic, and mediastinal disorders: Chronic obstructive pulmonary disease Infections and infestations:Clostridium difficile colitis, sepsis Neoplasms benign, malignant and unspecified (including cysts and polyps): Basal cell carcinoma Cardiac disorder: Supraventricular tachycardia
+Blood and lymphatic system disorders: Neutropenia Cardiac Disorder: Myocardial infarction (including acute MI), supraventricular tachycardia Infections and infestations:Clostridium difficile colitis, sepsis Neoplasms benign, malignant and unspecified (including cysts and polyps): Basal cell carcinoma Respiratory, thoracic, and mediastinal disorders: Chronic obstructive pulmonary disease, pulmonary embolism
 
 ## 6.2 Postmarketing Experience
 
 The following adverse drug reactions have been identified from the worldwide post-marketing experience with REVLIMID.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure [see Warnings and Precautions Section (5.7 to 5.10, and 5.12)] Skin and subcutaneous tissue disorders: Stevens-Johnson Syndrome, toxic epidermal necrolysis Immune system disorders: Angioedema, acute graft-versus-host disease (following allogeneic hematopoietic transplant) Neoplasms benign, malignant and unspecified (incl cysts and polyps): Tumor lysis syndrome, tumor flare reaction Respiratory, thoracic and mediastinal disorders: Pneumonitis Hepatobiliary disorders: Hepatic failure (including fatality), toxic hepatitis, cytolytic hepatitis, cholestatic hepatitis, mixed cytolytic/cholestatic hepatitis, transient abnormal liver laboratory tests Infections and infestations: Viral reactivation (such as hepatitis B virus and herpes zoster) Endocrine disorders: Hypothyroidism, hyperthyroidism
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure [see Warnings and Precautions Section (5.8 to 5.11, and 5.13)] Skin and subcutaneous tissue disorders: Stevens-Johnson Syndrome, toxic epidermal necrolysis, drug reaction with eosinophilia and systemic symptoms (DRESS) Immune system disorders: Angioedema, acute graft-versus-host disease (following allogeneic hematopoietic transplant), solid organ transplant rejection Neoplasms benign, malignant and unspecified (incl cysts and polyps): Tumor lysis syndrome, tumor flare reaction Respiratory, thoracic and mediastinal disorders: Pneumonitis Hepatobiliary disorders: Hepatic failure (including fatality), toxic hepatitis, cytolytic hepatitis, cholestatic hepatitis, mixed cytolytic/cholestatic hepatitis, transient abnormal liver laboratory tests Infections and infestations: Viral reactivation (such as hepatitis B virus and herpes zoster) Endocrine disorders: Hypothyroidism, hyperthyroidism

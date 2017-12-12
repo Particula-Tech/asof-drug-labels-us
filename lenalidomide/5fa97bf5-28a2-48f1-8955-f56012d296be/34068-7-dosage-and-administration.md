@@ -14,7 +14,7 @@ For patients > 75 years old, the starting dose of dexamethasone may be reduced [
 Treatment should be continued until disease progression or unacceptable toxicity.
 
 In patients who are not eligible for auto-HSCT, treatment should continue until disease progression or unacceptable toxicity.
-For patients who are auto-HSCT-eligible, hematopoietic stem cell mobilization should occur within 4 cycles of a REVLIMID-containing therapy [see Warnings and Precautions (5.11)].
+For patients who are auto-HSCT-eligible, hematopoietic stem cell mobilization should occur within 4 cycles of a REVLIMID-containing therapy [see Warnings and Precautions (5.12)].
 
 Dose Adjustments for Hematologic Toxicities During MM Treatment
 
