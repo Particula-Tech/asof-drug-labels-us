@@ -1,8 +1,6 @@
 # CLINICAL PHARMACOLOGY
 
-## Pharmacokinetics
-
-The pharmacokinetics of acyclovir after oral administration have been evaluated in healthy volunteers and in immunocompromised patients with herpes simplex or varicella-zoster virus infection.
+Pharmacokinetics: The pharmacokinetics of acyclovir after oral administration have been evaluated in healthy volunteers and in immunocompromised patients with herpes simplex or varicella-zoster virus infection.
 Acyclovir pharmacokinetic parameters are summarized in Table 1.
 
 Table 1: Acyclovir Pharmacokinetic Characteristics (Range)
@@ -30,10 +28,10 @@ There was no effect of food on the absorption of acyclovir (n=6); therefore, acy
 
 The only known urinary metabolite is 9-[(carboxymethoxy)methyl]guanine.
 
-Special Populations: Adults With Impaired Renal Function: The half-life and total body clearance of acyclovir are dependent on renal function.
+Special Populations: Adults with Impaired Renal Function: The half-life and total body clearance of acyclovir are dependent on renal function.
 A dosage adjustment is recommended for patients with reduced renal function (see DOSAGE AND ADMINISTRATION).
 
-Geriatrics: Acyclovir plasma concentrations are higher in geriatric patients compared with younger adults, in part due to age-related changes in renal function.
+Geriatrics: Acyclovir plasma concentrations are higher in geriatric patients compared to younger adults, in part due to age-related changes in renal function.
 Dosage reduction may be required in geriatric patients with underlying renal impairment (see PRECAUTIONS: Geriatric Use).
 
 Pediatrics: In general, the pharmacokinetics of acyclovir in pediatric patients is similar to that of adults.
@@ -58,7 +56,7 @@ Treatment was begun within 72 hours of rash onset and was most effective if star
 
 Adults greater than 50 years of age showed greater benefit.
 
-Chickenpox: Three randomized, double-blind, placebo-controlled trials were conducted in 993 pediatric patients ages 2 to 18 years with chickenpox.
+Chickenpox: Three randomized, double-blind, placebo-controlled trials were conducted in 993 pediatric patients aged 2 to 18 years with chickenpox.
 All patients were treated within 24 hours after the onset of rash.
 In 2 trials, acyclovir was administered at 20 mg/kg 4 times daily (up to 3,200 mg per day) for 5 days.
 In the third trial, doses of 10, 15, or 20 mg/kg were administered 4 times daily for 5 to 7 days.

@@ -13,7 +13,7 @@ After 1 year of therapy, the frequency and severity of the patient’s genital h
 Intermittent Therapy: 200 mg every 4 hours, 5 times daily for 5 days.
 Therapy should be initiated at the earliest sign or symptom (prodrome) of recurrence.
 
-Treatment of Chickenpox: Children (2 Years Of Age And Older): 20 mg/kg per dose orally 4 times daily (80 mg/kg/day) for 5 days.
+Treatment of Chickenpox:Children (2 Years of Age and Older): 20 mg/kg per dose orally 4 times daily (80 mg/kg/day) for 5 days.
 Children over 40 kg should receive the adult dose for chickenpox.
 
 Adults and Children Over 40 kg: 800 mg 4 times daily for 5 days.
@@ -23,21 +23,21 @@ Intravenous acyclovir is indicated for the treatment of varicella-zoster infecti
 When therapy is indicated, it should be initiated at the earliest sign or symptom of chickenpox.
 There is no information about the efficacy of therapy initiated more than 24 hours after onset of signs and symptoms.
 
-Patients With Acute or Chronic Renal Impairment: In patients with renal impairment, the dose of acyclovir oral suspension should be modified as shown in Table 3:
+Patients with Acute or Chronic Renal Impairment: In patients with renal impairment, the dose of acyclovir oral suspension should be modified as shown in Table 3:
 
 Table 3: Dosage Modification for Renal Impairment
 
-| Dosage Regimen | (mL/min/1.73m2) | (mg) | Dosage Interval |
-| --- | --- | --- | --- |
 |  | Creatinine | Adjusted Dosage Regimen |  |
+| --- | --- | --- | --- |
 | Normal | Clearance | Dose |  |
+| Dosage Regimen | (mL/min/1.73m2) | (mg) | Dosing Interval |
 | 200 mg every 4 hours | >10 | 200 | every 4 hours, 5 x daily |
-|  | 0-10 | 200 | every 12 hours |
+|  | 0 to 10 | 200 | every 12 hours |
 | 400 mg every 12 hours | >10 | 400 | every 12 hours |
-|  | 0-10 | 200 | every 12 hours |
+|  | 0 to 10 | 200 | every 12 hours |
 | 800 mg every 4 hours | >25 | 800 | every 4 hours, 5 x daily |
-|  | 10-25 | 800 | every 8 hours |
-|  | 0-10 | 800 | every 12 hours |
+|  | 10 to 25 | 800 | every 8 hours |
+|  | 0 to 10 | 800 | every 12 hours |
 
 Hemodialysis: For patients who require hemodialysis, the mean plasma half-life of acyclovir during hemodialysis is approximately 5 hours.
 This results in a 60% decrease in plasma concentrations following a 6-hour dialysis period.

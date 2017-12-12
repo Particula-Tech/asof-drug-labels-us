@@ -8,6 +8,7 @@ Thrombotic thrombocytopenic purpura/hemolytic uremic syndrome (TTP/HUS), which h
 
 Dosage adjustment is recommended when administering acyclovir to patients with renal impairment (see DOSAGE AND ADMINISTRATION).
 Caution should also be exercised when administering acyclovir to patients receiving potentially nephrotoxic agents since this may increase the risk of renal dysfunction and/or the risk of reversible central nervous system symptoms such as those that have been reported in patients treated with intravenous acyclovir.
+Adequate hydration should be maintained.
 
 ## Information for Patients
 
@@ -78,7 +79,7 @@ Safety and effectiveness of oral formulations of acyclovir in pediatric patients
 
 ## Geriatric Use
 
-Of 376 subjects who received acyclovir in a clinical study of herpes zoster treatment in immunocompetent subjects ≥ 50 years of age, 244 were 65 and over while 111 were 75 and over.
+Of 376 subjects who received acyclovir in a clinical study of herpes zoster treatment in immunocompetent subjects greater than or equal to 50 years of age, 244 were 65 and over while 111 were 75 and over.
 No overall differences in effectiveness for time to cessation of new lesion formation or time to healing were reported between geriatric subjects and younger adult subjects.
 The duration of pain after healing was longer in patients 65 and over.
 Nausea, vomiting, and dizziness were reported more frequently in elderly subjects.

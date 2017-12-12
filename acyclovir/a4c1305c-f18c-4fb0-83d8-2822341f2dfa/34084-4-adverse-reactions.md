@@ -1,6 +1,6 @@
 # ADVERSE REACTIONS
 
-Herpes Simplex: Short-Term Administration: The most frequent adverse events reported during clinical trials of treatment of genital herpes with acyclovir 200 mg administered orally 5 times daily every 4 hours for 10 days were nausea and/or vomiting in 8 of 298 patient treatments (2.7%).
+Herpes Simplex:Short-Term Administration: The most frequent adverse events reported during clinical trials of treatment of genital herpes with acyclovir 200 mg administered orally 5 times daily every 4 hours for 10 days were nausea and/or vomiting in 8 of 298 patient treatments (2.7%).
 Nausea and/or vomiting occurred in 2 of 287 (0.7%) patients who received placebo.
 
 Long-Term Administration: The most frequent adverse events reported in a clinical trial for the prevention of recurrences with continuous administration of 400 mg (two 200-mg capsules) 2 times daily for 1 year in 586 patients treated with acyclovir were nausea (4.8%) and diarrhea (2.4%).
@@ -34,3 +34,5 @@ Skin: Alopecia, erythema multiforme, photosensitive rash, pruritus, rash, Steven
 Special Senses: Visual abnormalities.
 
 Urogenital: Renal failure, renal pain (may be associated with renal failure), elevated blood urea nitrogen, elevated creatinine, hematuria (see WARNINGS).
+
+To report SUSPECTED ADVERSE EVENTS, contact Actavis at 1-800-432-8534 or FDA at 1-800-FDA-1088 or http://www.fda.gov/ for voluntary reporting of adverse reactions.
