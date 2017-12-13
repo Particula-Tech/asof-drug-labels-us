@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA077235",
+    "ANDA077334"
+  ],
+  "inn": "medroxyprogesterone",
+  "labeler": "Amphastar Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "0548-5400-00",
+    "0548-5701-00"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SUSPENSION, EXTENDED RELEASE",
+      "generic": "medroxyprogesterone acetate",
+      "name": "Medroxyprogesterone Acetate"
+    }
+  ],
+  "setid": "fda1aa8a-5739-482a-b4f6-9741ef4d9977",
+  "source": "dailymed"
+}
