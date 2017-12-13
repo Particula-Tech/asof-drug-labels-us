@@ -1,4 +1,4 @@
-Trileptal® (oxcarbazepine)
+TRILEPTAL® (oxcarbazepine)
 
 Oral Suspension 300 mg/5 mL Each 5 mL contains 300 mg oxcarbazepine
 
@@ -29,6 +29,6 @@ Read these instructions carefully to learn how to use the medicine dispensing sy
 
 Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
 
-T2017-01 January 2017
+T2017-115 November 2017
 
 © Novartis
