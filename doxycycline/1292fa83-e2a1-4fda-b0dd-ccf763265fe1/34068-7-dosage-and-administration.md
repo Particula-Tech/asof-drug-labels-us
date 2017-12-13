@@ -25,7 +25,9 @@ Uncomplicated gonococcal infections in adults (except anorectal infections in me
 As an alternate single visit dose, administer 300 mg stat followed in one hour by a second 300 mg dose.
 The dose may be administered with food, including milk or carbonated beverage, as required.
 
-Uncomplicated urethral, endocervical, or rectal infection in adults caused by Chlamydia trachomatis: 100 mg by mouth, twice a day for 7 days.
+Uncomplicated urethral, endocervical, or rectal infection in adults caused by Chlamydia trachomatis:
+
+100 mg by mouth, twice a day for 7 days.
 
 Nongonococcal urethritis (NGU) caused by C. trachomatis and U. urealyticum: 100 mg, by mouth, twice a day for 7 days.
 
@@ -34,7 +36,6 @@ Syphilis – early: Patients who are allergic to penicillin should be treated wi
 Syphilis of more than one year’s duration: Patients who are allergic to penicillin should be treated with doxycycline 100 mg by mouth twice a day for 4 weeks.
 
 Acute epididymo-orchitis caused by N. gonorrhoeae: 100 mg, by mouth, twice a day for at least 10 days.
-
 Acute epididymo-orchitis caused by C. trachomatis: 100 mg, by mouth, twice a day for at least 10 days.
 
 For prophylaxis of malaria: For adults, the recommended dose is 100 mg daily.
@@ -48,11 +49,3 @@ ADULTS: 100 mg, of doxycycline, by mouth, twice a day for 60 days.
 
 CHILDREN: weighing less than 100 lb (45 kg); 1 mg/lb (2.2 mg/kg) of body weight, by mouth, twice a day for 60 days.
 Children weighing 100 lb or more should receive the adult dose.
-
-Sprinkling the Capsule Contents on Applesauce
-
-DORYX Capsules may also be administered by carefully opening the capsules and sprinkling the capsule contents on a spoonful of applesauce.
-However, any loss of pellets in the transfer would prevent using the dose.
-The applesauce should be swallowed immediately without chewing and followed with a cool 8-ounce glass of water to ensure complete swallowing of the capsule contents.
-The applesauce should not be hot, and it should be soft enough to be swallowed without chewing.
-In the event that a prepared dose of applesauce/DORYX pellets cannot be taken immediately, the mixture should be discarded and not stored for later use.

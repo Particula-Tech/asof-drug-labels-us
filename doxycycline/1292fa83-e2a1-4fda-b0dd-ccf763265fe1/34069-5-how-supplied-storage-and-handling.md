@@ -11,7 +11,3 @@ Pellets are colored yellow.
 Each capsule contains specially coated pellets of doxycycline hyclate equivalent to 75 mg of doxycycline, supplied in:
 
 Bottles of 60 capsules…N 0430-0836-20
-
-## STORAGE CONDITIONS
-
-Store at controlled room temperature below 25°C (77°F).

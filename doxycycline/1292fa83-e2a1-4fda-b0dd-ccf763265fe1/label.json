@@ -1,14 +1,22 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA050582"
+  ],
   "inn": "doxycycline",
-  "labeler": "Warner Chilcott (US), Inc.",
+  "labeler": "Allergan, Inc.",
   "package_ndcs": [
     "0430-0836-20",
     "0430-0836-95",
     "0430-0838-19",
     "0430-0838-95"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "CAPSULE, DELAYED RELEASE PELLETS",
+      "generic": "doxycycline hyclate",
+      "name": "DORYX"
+    }
+  ],
   "setid": "1292fa83-e2a1-4fda-b0dd-ccf763265fe1",
   "source": "dailymed"
 }
