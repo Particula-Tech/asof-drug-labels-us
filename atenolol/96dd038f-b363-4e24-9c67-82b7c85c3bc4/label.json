@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA077443"
+  ],
+  "inn": "atenolol",
+  "labeler": "Rising Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "64980-437-01",
+    "64980-437-10",
+    "64980-438-01",
+    "64980-438-10",
+    "64980-439-01",
+    "64980-439-10"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "atenolol",
+      "name": "Atenolol"
+    }
+  ],
+  "setid": "96dd038f-b363-4e24-9c67-82b7c85c3bc4",
+  "source": "dailymed"
+}
