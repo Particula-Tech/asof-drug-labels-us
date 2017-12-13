@@ -1,14 +1,13 @@
-# CARDIOVASCULAR RISK
+# WARNING: RISK OF SERIOUS CARDIOVASCULAR AND GASTROINTESTINAL EVENTS
 
-- NSAIDs may cause an increased risk of serious cardiovascular thrombotic events, myocardial infarction, and stroke, which can be fatal.
-  This risk may increase with duration of use.
-  Patients with cardiovascular disease or risk factors for cardiovascular disease may be at greater risk.
-  (see WARNINGS).
-- Naproxen as Naproxen Sodium Controlled Release Tablets is contraindicated for the treatment of peri-operative pain in the setting of coronary artery bypass graft (CABG) surgery (see WARNINGS).
+Cardiovascular Thrombotic Events
 
-GASTROINTESTINAL RISK
+- Nonsteroidal anti-inflammatory drugs (NSAIDs) cause an increased risk of serious cardiovascular thrombotic events, including myocardial infarction and stroke, which can be fatal.
+  This risk may occur early in treatment and may increase with duration of use [see Warnings and Precautions (5.1)].
+- Naproxen Sodium Controlled-Release Tablets are contraindicated in the setting of coronary artery bypass graft (CABG) surgery [see Contraindications (4) and Warnings and Precautions (5.1)].
 
-- NSAIDs cause an increased risk of serious gastrointestinal adverse events including bleeding, ulceration, and perforation of the stomach or intestines, which can be fatal.
+Gastrointestinal Bleeding, Ulceration, and Perforation
+
+- NSAIDs cause an increased risk of serious gastrointestinal (GI) adverse events including bleeding, ulceration, and perforation of the stomach or intestines, which can be fatal.
   These events can occur at any time during use and without warning symptoms.
-  Elderly people are at greater risk for seriousgastrointestinal events.
-  (see WARNINGS).
+  Elderly patients and patients with a prior history of peptic ulcer disease and/or GI bleeding are at greater risk for serious GI events [see Warnings and Precautions (5.2)].

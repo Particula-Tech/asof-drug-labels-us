@@ -1,20 +1,36 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
+
+The following adverse reactions are discussed in greater detail in other sections of the labeling:
+
+- Cardiovascular Thrombotic Events [see Warnings and Precautions (5.1)]
+- GI Bleeding, Ulceration and Perforation [see Warnings and Precautions (5.2)]
+- Hepatotoxicity [see Warnings and Precautions (5.3)]
+- Hypertension [see Warnings and Precautions (5.4)]
+- Heart Failure and Edema [see Warnings and Precautions (5.5)]
+- Renal Toxicity and Hyperkalemia [see Warnings and Precautions (5.6)]
+- Anaphylactic Reactions [see Warnings and Precautions (5.7)]
+- Serious Skin Reactions [see Warnings and Precautions (5.9)]
+- Hematologic Toxicity [seeWarnings and Precautions (5.11)]
+
+## 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 As with all drugs in this class, the frequency and severity of adverse events depends on several factors: the dose of the drug and duration of treatment; the age, the sex, physical condition of the patient; any concurrent medical diagnoses or individual risk factors.
 The following adverse reactions are divided into three parts based on frequency and whether or not the possibility exists of a causal relationship between drug usage and these adverse events.
 In those reactions listed as “Probable Causal Relationship” there is at least one case for each adverse reaction where there is evidence to suggest that there is a causal relationship between drug usage and the reported event.
 The adverse reactions reported were based on the results from two double-blind controlled clinical trials of three months duration with an additional nine month open-label extension.
-A total of 542 patients received Naproxen Sodium Controlled Release Tablets either in the double-blind period or in the nine month open-label extension.
-Of these 542 patients, 232 received Naproxen Sodium Controlled Release Tablets, 167 were initially treated with Naprosyn®** and 143 were initially treated with placebo.
-Adverse reactions reported by patients who received Naproxen Sodium Controlled Release Tablets are shown by body system.
-Those adverse reactions observed with naproxen but not reported in controlled trials with Naproxen Sodium Controlled Release Tablets are italicized.
+A total of 542 patients received Naproxen Sodium Controlled-Release Tablets either in the double-blind period or in the nine month open-label extension.
+Of these 542 patients, 232 received Naproxen Sodium Controlled-Release Tablets, 167 were initially treated with Naprosyn and 143 were initially treated with placebo.
+Adverse reactions reported by patients who received Naproxen Sodium Controlled-Release Tablets are shown by body system.
+Those adverse reactions observed with naproxen but not reported in controlled trials with Naproxen Sodium Controlled-Release Tablets are italicized.
 
 The most frequent adverse events from the double-blind and open-label clinical trials were headache (15%), followed by dyspepsia (14%), and flu syndrome (10%).
-The incidence of other adverse events occurring in 3% - 9% of the patients are marked with an asterisk.
+The incidence of other adverse events occurring in 3% to 9% of the patients are marked with an asterisk.
 
 Those reactions occurring in less than 3% of the patients are unmarked.
 
-INCIDENCE GREATER THAN 1% (PROBABLE CAUSAL RELATIONSHIP)
+Incidence greater than 1% (probable causal relationship)
 
 Body as a Whole—Pain (back)*, pain*, infection*, fever, injury (accident), asthenia, pain chest, headache (15%), flu syndrome (10%).
 
@@ -40,9 +56,7 @@ Special Senses—Tinnitus*, hearing disturbances, visual disturbances.
 
 General—Thirst.
 
-INCIDENCE LESS THAN 1% (PROBABLE CAUSAL RELATIONSHIP)
-
-Body as a Whole—Abscess, monilia, neck rigid, pain neck, abdomen enlarged, carcinoma, cellulitis, edema general, LE syndrome, malaise, mucous membrane disorder, allergic reaction, pain pelvic.
+Incidence less than 1% (probable causal relationship) Body as a Whole—Abscess, monilia, neck rigid, pain neck, abdomen enlarged, carcinoma, cellulitis, edema general, LE syndrome, malaise, mucous membrane disorder, allergic reaction, pain pelvic.
 
 Gastrointestinal—Anorexia, cholecystitis, cholelithiasis, eructation, GI hemorrhage, rectal hemorrhage, stomatitis aphthous, stomatitis ulcer, ulcer mouth, ulcer stomach, periodontal abscess, cardiospasm, colitis, esophagitis, gastroenteritis, GI disorder, rectal disorder, tooth disorder, hepatosplenomegaly, liver function abnormality, melena, ulcer esophagus, hematemesis, jaundice, pancreatitis, necrosis.
 
@@ -66,9 +80,7 @@ Metabolic and Nutrition—Creatinine increase, glucosuria, hypercholesteremia, a
 
 General—Anaphylactoid reactions, angioneurotic edema, menstrual disorders, hypoglycemia, pyrexia (chills and fevers).
 
-INCIDENCE LESS THAN 1% (CAUSAL RELATIONSHIP UNKNOWN)
-
-Other adverse reactions listed in the naproxen package label, but not reported by those who received Naproxen Sodium Controlled Release Tablets are shown in italics.
+Incidence less than 1% (causal relationship unknown) Other adverse reactions listed in the naproxen package label, but not reported by those who received Naproxen Sodium Controlled-Release Tablets are shown in italics.
 These observations are being listed as alerting information to the physician.
 
 Hematologic—Aplastic anemia, hemolytic anemia.

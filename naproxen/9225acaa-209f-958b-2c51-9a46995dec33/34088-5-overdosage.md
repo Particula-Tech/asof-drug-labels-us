@@ -1,14 +1,16 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
-Significant naproxen overdosage may be characterized by drowsiness, heartburn, indigestion, nausea or vomiting.
-Because naproxen sodium may be rapidly absorbed, high and early blood levels should be anticipated.
+Symptoms following acute NSAID overdosages have been typically limited to lethargy, drowsiness, nausea, vomiting, and epigastric pain, which have been generally reversible with supportive care.
+Gastrointestinal bleeding has occurred.
+Hypertension, acute renal failure, respiratory depression, and coma have occurred, but were rare [see Warnings and Precautions (5.1, 5.2, 5.4, 5.6)].
+
 A few patients have experienced seizures, but it is not clear whether or not these were drug-related.
 It is not known what dose of the drug would be life threatening.
-The oral LD50 of the drug is 500 mg/kg in rats, 1200 mg/kg in mice, 4000 mg/kg in hamsters and greater than 1000 mg/kg in dogs.
-In animals 0.5 g/kg of activated charcoal was effective in reducing plasma levels of naproxen.
 
-Patients should be managed by symptomatic and supportive care following an NSAID overdose.
+Manage patients with symptomatic and supportive care following an NSAID overdosage.
 There are no specific antidotes.
 Hemodialysis does not decrease the plasma concentration of naproxen because of the high degree of its protein binding.
-Emesis and/or activated charcoal (60 to 100 g in adults, 1 to 2 g/kg in children) and/or osmotic carthartic may be indicated in patients seen within 4 hours of ingestion with symptoms or following a large overdose.
-Forced diuresis, alkalinization of urine or hemoperfusion may not be useful due to high protein binding.
+Consider emesis and/or activated charcoal (60 to 100 grams in adults, 1 to 2 grams per kg of body weight in pediatric patients) and/or osmotic cathartic in symptomatic patients seen within four hours of ingestion or in patients with a large overdosage (5 to 10 times the recommended dosage).
+Forced diuresis, alkalinization of urine, hemodialysis, or hemoperfusion may not be useful due to high protein binding.
+
+For additional information about overdosage treatment contact a poison control center (1-800-222-1222).

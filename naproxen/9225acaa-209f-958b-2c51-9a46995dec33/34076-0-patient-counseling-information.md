@@ -1,26 +1,34 @@
-# INFORMATION FOR PATIENTS
+# 17 PATIENT COUNSELING INFORMATION
 
-Patients should be informed of the following information before initiating therapy with an NSAID and periodically during the course of ongoing therapy.
-Patients should also be encouraged to read the NSAID Medication Guide that accompanies each prescription dispensed.
+Advise the patient to read the FDA-approved patient labeling (Medication Guide) that accompanies each prescription dispensed.
+Inform patients, families, or their caregivers of the following information before initiating therapy with naproxen sodium and periodically during the course of ongoing therapy.
 
-1. Naproxen Sodium Controlled Release Tablets, like other NSAIDs, may cause serious CV side effects, such as MI or stroke, which may result in hospitalization and even death.
-   Although serious CV events can occur without warning symptoms, patients should be alert for the signs and symptoms of chest pain, shortness of breath, weakness, slurring of speech, and should ask for medical advice when observing any indicative sign or symptoms.
-   Patients should be apprised of the importance of this follow-up (see WARNINGS, Cardiovascular Effects).
-2. Naproxen Sodium Controlled Release Tablets, like other NSAIDs, can cause GI discomfort and, rarely, serious GI side effects, such as ulcers and bleeding, which may result in hospitalization and even death.
-   Although serious GI tract ulcerations and bleeding can occur without warning symptoms, patients should be alert for the signs and symptoms of ulcerations and bleeding, and should ask for medical advice when observing any indicative sign or symptoms including epigastric pain, dyspepsia, melena, and hematemesis.
-   Patients should be apprised of the importance of this follow-up (see WARNINGS, Gastrointestinal Effects: Risk of Ulceration, Bleeding and Perforation).
-3. Naproxen Sodium Controlled Release Tablets, like other NSAIDs, can cause serious skin side effects such as exfoliative dermatitis, SJS, and TEN, which may result in hospitalization and even death.
-   Although serious skin reactions may occur without warning, patients should be alert for the signs and symptoms of skin rash and blisters, fever, or other signs of hypersensitivity such as itching, and should ask for medical advice when observing any indicative signs or symptoms.
-   Patients should be advised to stop the drug immediately if they develop any type of rash and contact their physicians as soon as possible.
-4. Patients should promptly report signs or symptoms of unexplained weight gain or edema to their physicians.
-5. Patients should be informed of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, pruritus, jaundice, right upper quadrant tenderness, and “flu-like” symptoms).
-   If these occur, patients should be instructed to stop therapy and seek immediate medical therapy.
-6. Patients should be informed of the signs of an anaphylactoid reaction (e.g., difficulty breathing, swelling of the face or throat).
-   If these occur, patients should be instructed to seek immediate emergency help (see WARNINGS).
-7. In late pregnancy, as with other NSAIDs, Naproxen Sodium Controlled Release Tablets should be avoided because it may cause premature closure of the ductus arteriosus.
+Cardiovascular Thrombotic Events Advise patients to be alert for the symptoms of cardiovascular thrombotic events, including chest pain, shortness of breath, weakness, or slurring of speech, and to report any of these symptoms to their health care provider immediately [see Warnings and Precautions (5.1)].
 
-## Laboratory Tests
+Gastrointestinal Bleeding, Ulceration, and Perforation Naproxen sodium, like other NSAIDs, can cause GI discomfort and, rarely, serious GI side effects, such as ulcers and bleeding, which may result in hospitalization and even death.
+Advise patients to report symptoms of ulcerations and bleeding, including epigastric pain, dyspepsia, melena, and hematemesis to their health care provider.
+In the setting of concomitant use of low-dose aspirin for cardiac prophylaxis, inform patients of the increased risk for and the signs and symptoms of GI bleeding [see Warnings and Precautions (5.2)].
 
-Because serious GI tract ulcerations and bleeding can occur without warning symptoms, physicians should monitor for signs or symptoms of GI bleeding.
-Patients on long-term treatment with NSAIDs, should have their CBC and a chemistry profile checked periodically.
-If clinical signs and symptoms consistent with liver or renal disease develop, systemic manifestations occur (e.g., eosinophilia, rash, etc.) or if abnormal liver tests persist or worsen, Naproxen Sodium Controlled Release Tablets should be discontinued.
+Hepatotoxicity Inform patients of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, pruritus, diarrhea, jaundice, right upper quadrant tenderness, and “flu-like” symptoms).
+If these occur, instruct patients to stop naproxen sodium and seek immediate medical therapy [see Warnings and Precautions (5.3)].
+
+Heart Failure and Edema Advise patients to be alert for the symptoms of congestive heart failure including shortness of breath, unexplained weight gain, or edema and to contact their healthcare provider if such symptoms occur [see Warnings and Precautions (5.5)].
+
+Anaphylactic Reactions Inform patients of the signs of an anaphylactic reaction (e.g., difficulty breathing, swelling of the face or throat).
+Instruct patients to seek immediate emergency help if these occur [see Contraindications (4) and Warnings and Precautions (5.7)].
+
+Serious Skin Reactions Naproxen sodium, like other NSAIDs, can cause serious skin side effects such as exfoliative dermatitis, SJS, and TEN, which may result in hospitalization and even death.
+Advise patients to stop naproxen sodium immediately if they develop any type of rash and to contact their healthcare provider as soon as possible [see Warnings and Precautions (5.9)].
+
+Female Fertility Advise females of reproductive potential who desire pregnancy that NSAIDs, including naproxen sodium, may be associated with a reversible delay in ovulation [see Use in Specific Populations (8.3)].
+
+Fetal Toxicity Inform pregnant women to avoid use of naproxen sodium and other NSAIDs starting at 30 weeks gestation because of the risk of the premature closing of the fetal ductus arteriosus [see Warnings and Precautions (5.10) and Use in Specific Populations (8.1)].
+
+Avoid Concomitant Use of NSAIDs Inform patients that the concomitant use of naproxen sodium with other NSAIDs or salicylates (e.g., diflunisal, salsalate) is not recommended due to the increased risk of gastrointestinal toxicity, and little or no increase in efficacy [see Warnings and Precautions (5.2) and Drug Interactions (7)].
+Alert patients that NSAIDs may be present in “over the counter” medications for treatment of colds, fever, or insomnia.
+
+Use of NSAIDS and Low-Dose Aspirin Inform patients not to use low-dose aspirin concomitantly with naproxen sodium until they talk to their healthcare provider [see Drug Interactions (7)].
+
+All trademarks are the property of their respective owners.
+
+To request medical information or to report SUSPECTED ADVERSE REACTIONS, contact Alvogen at 1-866-770-3024 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
