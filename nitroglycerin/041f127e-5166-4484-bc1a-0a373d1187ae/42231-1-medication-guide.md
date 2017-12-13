@@ -30,6 +30,8 @@ You should not take Nitroglycerin if you have the following conditions:
 
 Do not take Nitroglycerin with drugs for erectile dysfunction, like VIAGRA® (sildenafil citrate), CIALIS® (tadalafil), or LEVITRA® (vardenafil hydrochloride), as this may lead to extreme lowering of your blood pressure.
 
+Do not take Nitroglycerin if you take medicines called guanylate cyclase stimulators which include riociguat, a medicine that treats pulmonary arterial hypertension and chronic-thromboembolic pulmonary hypertension.
+
 What should I tell my doctor before taking Nitroglycerin?
 
 Before using Nitroglycerin, tell your doctor if:
@@ -101,4 +103,4 @@ It may harm them.
 
 You can ask your pharmacist or doctor for information about Nitroglycerin, or you can visit www.greenstonellc.com or call 1-800-438-1985.
 
-LAB-0672-1.0 September 2013
+LAB-0672-2.0 Revised December 2017
