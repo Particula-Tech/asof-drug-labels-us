@@ -17,7 +17,7 @@ As an opioid, acetaminophen and codeine phosphate oral solution exposes users to
 Although the risk of addiction in any individual is unknown, it can occur in patients appropriately prescribed acetaminophen and codeine phosphate oral solution.
 Addiction can occur at recommended dosages and if the drug is misused or abused.
 
-Assess each patient’s risk for opioid addiction, abuse, or misuse prior to prescribing acetaminophen and codeine phosphate oral solution, and monitor all patients receiving acetaminophen and codeine phosphate oral solution for the development of these behaviors and conditions.
+Assess each patient's risk for opioid addiction, abuse, or misuse prior to prescribing acetaminophen and codeine phosphate oral solution, and monitor all patients receiving acetaminophen and codeine phosphate oral solution for the development of these behaviors and conditions.
 Risks are increased in patients with a personal or family history of substance abuse (including drug or alcohol abuse or addiction) or mental illness (e.g., major depression).
 The potential for these risks should not, however, prevent the proper management of pain in any given patient.
 Patients at increased risk may be prescribed opioids such as acetaminophen and codeine phosphate oral solution, but use in such patients necessitates intensive counseling about the risks and proper use of acetaminophen and codeine phosphate oral solution along with intensive monitoring for signs of addiction, abuse, and misuse.
@@ -31,7 +31,7 @@ Contact local state professional licensing board or state controlled substances 
 
 Serious, life-threatening, or fatal respiratory depression has been reported with the use of opioids, even when used as recommended.
 Respiratory depression, if not immediately recognized and treated, may lead to respiratory arrest and death.
-Management of respiratory depression may include close observation, supportive measures, and use of opioid antagonists, depending on the patient’s clinical status [see OVERDOSAGE].
+Management of respiratory depression may include close observation, supportive measures, and use of opioid antagonists, depending on the patient's clinical status [see OVERDOSAGE].
 Carbon dioxide (CO 2) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.
 
 While serious, life-threatening, or fatal respiratory depression can occur at any time during the use of acetaminophen and codeine phosphate oral solution, the risk is greatest during the initiation of therapy or following a dosage increase.
@@ -54,7 +54,7 @@ Because of the risk of life-threatening respiratory depression and death:
 - Acetaminophen and codeine phosphate oral solution is contraindicated for all children younger than 12 years of age [see CONTRAINDICATIONS].
 - Acetaminophen and codeine phosphate oral solution is contraindicated for post- operative management in pediatric patients younger than 18 years of age following tonsillectomy and/or adenoidectomy [see CONTRAINDICATIONS].
 - Avoid the use of acetaminophen and codeine phosphate oral solution in adolescents 12 to 18 years of age who have other risk factors that may increase their sensitivity to the respiratory depressant effects of codeine unless the benefits outweigh the risks.
-  Risk factors include conditions associated with hypoventilation, such as postoperative status, obstructive sleep apnea, obesity, severe pulmonary disease, neuromuscular disease, and concomitant use of other medications that cause respiratory depression [see WARNINGS]
+  Risk factors include conditions associated with hypoventilation, such as postoperative status, obstructive sleep apnea, obesity, severe pulmonary disease, neuromuscular disease, and concomitant use of other medications that cause respiratory depression [see WARNINGS].
 - As with adults, when prescribing codeine for adolescents, healthcare providers should choose the lowest effective dose for the shortest period of time and inform patients and caregivers about these risks and the signs of morphine overdose [see OVERDOSAGE].
 
 Nursing Mothers
@@ -153,7 +153,7 @@ Alternatively, consider the use of non-opioid analgesics in these patients.
 
 ## Interaction with Monoamine Oxidase Inhibitors
 
-Monoamine oxidase inhibitors (MAOIs) may potentiate the effects of morphine, codeine’s active metabolite including respiratory depression, coma, and confusion.
+Monoamine oxidase inhibitors (MAOIs) may potentiate the effects of morphine, codeine's active metabolite including respiratory depression, coma, and confusion.
 Acetaminophen and codeine phosphate oral solution should not be used in patients taking MAOIs or within 14 days of stopping such treatment.
 
 ## Adrenal Insufficiency

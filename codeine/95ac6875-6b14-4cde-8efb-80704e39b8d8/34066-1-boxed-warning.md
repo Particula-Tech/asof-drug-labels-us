@@ -8,7 +8,7 @@ Dosing errors due to confusion between mg and mL, and other codeine containing o
 Addiction, Abuse, and Misuse
 
 Acetaminophen and codeine phosphate oral solution exposes patients and other users to the risks of opioid addiction, abuse, and misuse, which can lead to overdose and death.
-Assess each patient’s risk prior to prescribing acetaminophen and codeine phosphate oral solution, and monitor all patients regularly for the development of these behaviors and conditions [see WARNINGS].
+Assess each patient's risk prior to prescribing acetaminophen and codeine phosphate oral solution, and monitor all patients regularly for the development of these behaviors and conditions [see WARNINGS].
 
 Life-Threatening Respiratory Depression
 
