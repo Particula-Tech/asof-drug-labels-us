@@ -1,17 +1,17 @@
 # 12.CLINICAL PHARMACOLOGY
 
-## 12.1Mechanism of Action
+## 12.1 Mechanism of Action
 
 Corlanor blocks the hyperpolarization-activated cyclic nucleotide-gated (HCN) channel responsible for the cardiac pacemaker If current, which regulates heart rate.
 In clinical electrophysiology studies, the cardiac effects were most pronounced in the sinoatrial (SA) node, but prolongation of the AH interval has occurred on the surface ECG, as has PR interval prolongation.
 There was no effect on ventricular repolarization and no effects on myocardial contractility [see Clinical Pharmacology (12.2)].
 
 Corlanor can also inhibit the retinal current Ih.
-Ihis involved in curtailing retinal responses to bright light stimuli.
+Ih is involved in curtailing retinal responses to bright light stimuli.
 Under triggering circumstances (e.g., rapid changes in luminosity), partial inhibition of Ih by Corlanor may underlie the luminous phenomena experienced by patients.
 Luminous phenomena (phosphenes) are described as a transient enhanced brightness in a limited area of the visual field [see Adverse Reactions (6.1)].
 
-## 12.2Pharmacodynamics
+## 12.2 Pharmacodynamics
 
 Corlanor causes a dose-dependent reduction in heart rate.
 The size of the effect is dependent on the baseline heart rate (i.e., greater heart rate reduction occurs in subjects with higher baseline heart rate).
@@ -22,7 +22,7 @@ In a study of subjects with preexisting conduction system disease (first- or sec
 Corlanor does not have negative inotropic effects.
 Ivabradine increases the uncorrected QT interval with heart rate slowing but does not cause rate-corrected prolongation of QT.
 
-## 12.3Pharmacokinetics
+## 12.3 Pharmacokinetics
 
 Absorption and Bioavailability
 
@@ -49,6 +49,9 @@ Drug Interactions
 
 The effects of coadministered drugs (CYP3A4 inhibitors, substrates, inducers, and other concomitantly administered drugs) on the pharmacokinetics of Corlanor were studied in several single- and multiple-dose studies.
 Pharmacokinetic measures indicating the magnitude of these interactions are presented in Figure 2.
+
+Figure 2.
+Impact of Coadministered Drugs on the Pharmacokinetics of Corlanor
 
 Digoxin exposure did not change when concomitantly administered with ivabradine.
 No dose adjustment is required when ivabradine is concomitantly administered with digoxin.

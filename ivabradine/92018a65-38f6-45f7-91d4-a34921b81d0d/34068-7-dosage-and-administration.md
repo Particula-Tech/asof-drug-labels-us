@@ -16,4 +16,4 @@ Dose Adjustment
 | 50-60 bpm | Maintain dose |
 | < 50 bpm or signs and symptoms of bradycardia | Decrease dose by 2.5 mg (given twice daily); if current dose is 2.5 mg twice daily, discontinue therapy* |
 
-*[see Warnings and Precautions (5.3).]
+*[see Warnings and Precautions (5.3)]

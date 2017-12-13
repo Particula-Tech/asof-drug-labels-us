@@ -1,6 +1,6 @@
 # 7.DRUG INTERACTIONS
 
-## 7.1Cytochrome P450-Based Interactions
+## 7.1 Cytochrome P450-Based Interactions
 
 Corlanor is primarily metabolized by CYP3A4.
 Concomitant use of CYP3A4 inhibitors increases ivabradine plasma concentrations, and use of CYP3A4 inducers decreases them.
@@ -15,7 +15,7 @@ Examples of moderate CYP3A4 inhibitors include diltiazem, verapamil, and grapefr
 Avoid concomitant use of CYP3A4 inducers when using Corlanor.
 Examples of CYP3A4 inducers include St. John’s wort, rifampicin, barbiturates, and phenytoin [see Clinical Pharmacology (12.3)].
 
-## 7.2Negative Chronotropes
+## 7.2 Negative Chronotropes
 
 Most patients receiving Corlanor will also be treated with a beta-blocker.
 The risk of bradycardia increases with concomitant administration of drugs that slow heart rate (e.g., digoxin, amiodarone, beta-blockers).

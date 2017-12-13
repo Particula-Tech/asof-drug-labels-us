@@ -1,6 +1,6 @@
 # 8.USE IN SPECIFIC POPULATIONS
 
-## 8.1Pregnancy
+## 8.1 Pregnancy
 
 Risk Summary
 
@@ -39,7 +39,7 @@ At the high dose of 28 mg/kg/day (approximately 15 times the human exposure at t
 In the pre- and postnatal study, pregnant rats received oral administration of ivabradine at doses of 2.5, 7, or 20 mg/kg/day from gestation day 6 to lactation day 20.
 Increased postnatal mortality associated with cardiac teratogenic findings was observed in the F1 pups delivered by dams treated at the high dose (approximately 15 times the human exposure at the MRHD based on AUC0-24hr).
 
-## 8.2Lactation
+## 8.2 Lactation
 
 Risk Summary
 
@@ -61,21 +61,21 @@ Females
 Corlanor may cause fetal harm, based on animal data.
 Advise females of reproductive potential to use effective contraception during Corlanor treatment [see Use in Specific Populations (8.1)].
 
-## 8.4Pediatric Use
+## 8.4 Pediatric Use
 
 Safety and effectiveness in pediatric patients have not been established.
 
-## 8.5Geriatric Use
+## 8.5 Geriatric Use
 
 No pharmacokinetic differences have been observed in elderly (≥ 65 years) or very elderly (≥ 75 years) patients compared to the overall population.
 However, Corlanor has only been studied in a limited number of patients ≥ 75 years of age.
 
-## 8.6Hepatic Impairment
+## 8.6 Hepatic Impairment
 
 No dose adjustment is required in patients with mild or moderate hepatic impairment.
 Corlanor is contraindicated in patients with severe hepatic impairment (Child-Pugh C) as it has not been studied in this population and an increase in systemic exposure is anticipated [see Contraindications (4) and Clinical Pharmacology (12.3)].
 
-## 8.7Renal Impairment
+## 8.7 Renal Impairment
 
 No dosage adjustment is required for patients with creatinine clearance 15 to 60 mL/min.
 No data are available for patients with creatinine clearance below 15 mL/min [see Clinical Pharmacology (12.3)].

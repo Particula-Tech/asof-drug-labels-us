@@ -1,4 +1,10 @@
-MEDICATION GUIDE Corlanor® (core' lan ore) (ivabradine) Tablets
+MEDICATION GUIDE
+
+Corlanor® (core' lan ore)
+
+(ivabradine)
+
+Tablets
 
 Read this Medication Guide before you start taking Corlanor and each time you get a refill.
 There may be new information.
@@ -12,8 +18,8 @@ Corlanor may cause serious side effects, including:
   You should not become pregnant while taking Corlanor.
   Women who are able to get pregnant must use birth control when taking Corlanor.
   If you become pregnant while taking Corlanor, tell your doctor right away.
-- Increased risk of irregular heartbeat (atrial fibrillation or heart rhythm problems).
-  Tell your doctor if you have symptoms of an irregular heartbeat, such as feeling that your heart is pounding or racing (palpitations), chest pressure, or worsened shortness of breath.
+- Increased risk of irregular or rapid heartbeat (atrial fibrillation or heart rhythm problems).
+  Tell your doctor if you have symptoms of an irregular or rapid heartbeat, such as feeling that your heart is pounding or racing (palpitations), chest pressure, worsened shortness of breath, near fainting or fainting.
 - Low heart rate (bradycardia).
   Tell your doctor if you have a slowing of your heart rate or if you have symptoms of a low heart rate such as dizziness, fatigue, lack of energy, or have low blood pressure.
   Low heart rate is a common side effect of Corlanor and can be serious.
@@ -28,10 +34,10 @@ Who should not take Corlanor?
 
 Do not take Corlanor if:
 
-- You have symptoms of heart failure that recently worsened
-- You have low blood pressure (less than 90/50 mmHg)
-- You have a certain heart condition called sick sinus syndrome, sinoatrial block, or 3rd degree atrioventricular block
-- You have a slow resting heart rate (less than 60 beats per minute) before treatment with Corlanor
+- You have symptoms of heart failure that recently worsened.
+- You have low blood pressure (less than 90/50 mmHg).
+- You have a certain heart condition called sick sinus syndrome, sinoatrial block, or 3rd degree atrioventricular block.
+- You have a slow resting heart rate (less than 60 beats per minute) before treatment with Corlanor.
 - You are taking medicines that can change how much Corlanor gets into your body after it is swallowed.
   Your doctor can advise you if you are taking a medicine that should not be used with Corlanor.
 
@@ -57,12 +63,14 @@ How should I take Corlanor?
   Do not take a double dose to make up for the forgotten dose.
 
 What should I avoid while taking Corlanor?
+
 Avoid drinking grapefruit juice and taking St. John’s wort during treatment with Corlanor.
 These can affect the way Corlanor works and may cause serious side effects.
 
 What are the possible side effects of Corlanor?
 
 See “What is the most important information I should know about Corlanor?”
+
 The most common side effects of Corlanor are:
 
 - Increased blood pressure.
@@ -101,14 +109,14 @@ Core: Lactose monohydrate, maize starch, maltodextrin, magnesium stearate, collo
 
 Film Coating: Hypromellose, titanium dioxide, glycerol, magnesium stearate, polyethylene glycol 6000, yellow iron oxide, red iron oxide
 
-[Amgen Logo] Corlanor® (ivabradine) Manufactured for: Amgen Inc. One Amgen Center Drive Thousand Oaks, California 91320-1799
+Corlanor® (ivabradine) Manufactured for: Amgen Inc. One Amgen Center Drive Thousand Oaks, California 91320-1799
 
 Patent: http://pat.amgen.com/Corlanor/
 
 For more information, go to www.Corlanor.com or call 1-800-772-6436.
 Medication Guide has been approved by the U.S. Food and Drug Administration.
-Issued: 04/2015
+Issued: 01/2017
 
-© 2015 Amgen Inc. All rights reserved.
+© 2017 Amgen Inc. All rights reserved.
 
-v1
+v2

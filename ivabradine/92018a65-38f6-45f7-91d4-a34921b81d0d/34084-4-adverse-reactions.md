@@ -37,4 +37,4 @@ Phosphenes were generally reported to be of mild to moderate intensity and led t
 
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to estimate their frequency reliably or establish a causal relationship to drug exposure.
 
-The following adverse reactions have been identified during post-approval use of Corlanor: syncope, hypotension, angioedema, erythema, rash, pruritus, urticaria, vertigo, diplopia, and visual impairment.
+The following adverse reactions have been identified during post-approval use of Corlanor: syncope, hypotension, torsade de pointes, ventricular fibrillation, ventricular tachycardia, angioedema, erythema, rash, pruritus, urticaria, vertigo, diplopia, and visual impairment.

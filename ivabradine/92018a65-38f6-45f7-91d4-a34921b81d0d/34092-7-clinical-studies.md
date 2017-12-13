@@ -36,9 +36,12 @@ SHIFT – Incidence of the Primary Composite Endpoint and Components
 | Subjects with events at any time |  |  |  |  |  |  |  |  |  |
 | Hospitalization for worsening heart failureb | 514 | 15.9 | 9.4 | 672 | 20.6 | 12.7 | 0.74 | [0.66, 0.83] |  |
 | Cardiovascular deathb | 449 | 13.9 | 7.5 | 491 | 15.0 | 8.3 | 0.91 | [0.80, 1.03] |  |
-| aSubjects who died on the same calendar day as their first hospitalization for worsening heart failure are counted under cardiovascular death. b Analyses of the components of the primary composite endpoint were not prospectively planned to be adjusted for multiplicity. N: number of patients at risk; n: number of patients having experienced the endpoint; %: incidence rate = (n/N) x 100; % PY: annual incidence rate = (n/number of patient-years) x 100; CI: confidence interval The hazard ratio between treatment groups (ivabradine /placebo) was estimated based on an adjusted Cox proportional hazards model with beta-blocker intake at randomization (yes/no) as a covariate; p-value: Wald test |  |  |  |  |  |  |  |  |  |
+| a Subjects who died on the same calendar day as their first hospitalization for worsening heart failure are counted under cardiovascular death. b Analyses of the components of the primary composite endpoint were not prospectively planned to be adjusted for multiplicity. N: number of patients at risk; n: number of patients having experienced the endpoint; %: incidence rate = (n/N) x 100; % PY: annual incidence rate = (n/number of patient-years) x 100; CI: confidence interval The hazard ratio between treatment groups (ivabradine /placebo) was estimated based on an adjusted Cox proportional hazards model with beta-blocker intake at randomization (yes/no) as a covariate; p-value: Wald test |  |  |  |  |  |  |  |  |  |
 
 The Kaplan-Meier curve (Figure 3) shows time to first occurrence of the primary composite endpoint of hospitalization for worsening heart failure or cardiovascular death in the overall study.
+
+Figure 3.
+SHIFT: Time to First Event of Primary Composite Endpoint
 
 A wide range of demographic characteristics, baseline disease characteristics, and baseline concomitant medications were examined for their influence on outcomes.
 Many of these results are shown in Figure 4.
@@ -46,6 +49,9 @@ Such analyses must be interpreted cautiously, as differences can reflect the pla
 
 Most of the results show effects consistent with the overall study result.
 Corlanor’s benefit on the primary endpoint in SHIFT appeared to decrease as the dose of beta-blockers increased, with little if any benefit demonstrated in patients taking guideline-defined target doses of beta-blockers.
+
+Figure 4.
+Effect of Treatment on Primary Composite Endpoint in Subgroups
 
 Note: The figure above presents effects in various subgroups, all of which are baseline characteristics.
 The 95% confidence limits that are shown do not take into account the number of comparisons made, and may not reflect the effect of a particular factor after adjustment for all other factors.
