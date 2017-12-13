@@ -1,69 +1,48 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-In general, the incidence of adverse reactions correlates with the dose and duration of metoclopramide administration.
-The following reactions have been reported, although in most instances, data do not permit an estimate of frequency.
+The following adverse reactions are described, or described in greater detail, in other sections of the labeling:
 
-## CNS Effects
+- Tardive dyskinesia [see Boxed Warning and Warnings and Precautions (5.1)]
+- Other extrapyramidal effects [see Warnings and Precautions (5.2)]
+- Neuroleptic malignant syndrome [see Warnings and Precautions (5.3)]
+- Depression [see Warnings and Precautions (5.4)]
+- Hypertension [see Warnings and Precautions (5.5)]
+- Fluid retention [see Warnings and Precautions (5.6)]
+- Hyperprolactinemia [see Warnings and Precautions (5.7)]
+- Effects on the ability to drive and operate machinery [see Warnings and Precautions (5.8)]
 
-Restlessness, drowsiness, fatigue and lassitude occur in approximately 10% of patients receiving the most commonly prescribed dosage of 10 mg q.i.d.
-(see PRECAUTIONS).
-Insomnia, headache, confusion, dizziness or mental depression with suicidal ideation (see WARNINGS) occur less frequently.
-The incidence of drowsiness is greater at higher doses.
-There are isolated reports of convulsive seizures without clearcut relationship to metoclopramide.
-Rarely, hallucinations have been reported.
+The following adverse reactions have been identified from clinical studies or postmarketing reports of metoclopramide.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-## Extrapyramidal Reactions (EPS)
+The most common adverse reactions (in approximately 10% of patients receiving 10 mg of metoclopramide four times daily) were restlessness, drowsiness, fatigue, and lassitude.
+In general, the incidence of adverse reactions correlated with the dosage and duration of metoclopramide administration.
 
-Acute dystonic reactions, the most common type of EPS associated with metoclopramide, occur in approximately 0.2% of patients (1 in 500) treated with 30 to 40 mg of metoclopramide per day.
+Adverse reactions, especially those involving the nervous system, occurred after stopping metoclopramide including dizziness, nervousness, and headaches.
 
-Symptoms include involuntary movements of limbs, facial grimacing, torticollis, oculogyric crisis, rhythmic protrusion of tongue, bulbar type of speech, trismus, opisthotonus (tetanus-like reactions) and rarely, stridor and dyspnea, possibly due to laryngospasm; ordinarily these symptoms are readily reversed by diphenhydramine (see WARNINGS).
+Central Nervous System Disorders
 
-Parkinsonian-like symptoms may include bradykinesia, tremor, cogwheel rigidity, mask-like facies (see WARNINGS).
+- Tardive dyskinesia, acute dystonic reactions, drug-induced parkinsonism, akathisia, and other extrapyramidal symptoms
+- Convulsive seizures
+- Hallucinations
+- Restlessness, drowsiness, fatigue, and lassitude occurred in approximately 10% of patients who received 10 mg four times daily.
+  Insomnia, headache, confusion, dizziness, or depression with suicidal ideation occurred less frequently.
+- Neuroleptic malignant syndrome, serotonin syndrome (in combination with serotonergic agents).
 
-Tardive dyskinesia most frequently is characterized by involuntary movements of the tongue, face, mouth, or jaw, and sometimes by involuntary movements of the trunk and/or extremities; movements may be choreoathetotic in appearance (see WARNINGS).
+Endocrine Disorders: Fluid retention secondary to transient elevation of aldosterone.
+Galactorrhea, amenorrhea, gynecomastia, impotence secondary to hyperprolactinemia
 
-Motor restlessness (akathisia) may consist of feelings of anxiety, agitation, jitteriness, and insomnia, as well as inability to sit still, pacing and foot-tapping.
-These symptoms may disappear spontaneously or respond to a reduction in dosage.
+Cardiovascular Disorders: Acute congestive heart failure, possible atrioventricular block, hypotension, hypertension, supraventricular tachycardia, bradycardia, fluid retention
 
-## Neuroleptic Malignant Syndrome
+Gastrointestinal Disorders: Nausea, bowel disturbances (primarily diarrhea)
 
-Rare occurrences of neuroleptic malignant syndrome (NMS) have been reported.
-This potentially fatal syndrome is comprised of the symptom complex of hyperthermia, altered consciousness, muscular rigidity, and autonomic dysfunction (see WARNINGS).
+Hepatic Disorders: Hepatotoxicity, characterized by, e.g., jaundice and altered liver function tests, when metoclopramide was administered with other drugs with known hepatotoxic potential
 
-## Endocrine Disturbances
+Renal and Urinary Disorders: Urinary frequency, urinary incontinence
 
-Galactorrhea, amenorrhea, gynecomastia, impotence secondary to hyperprolactinemia (see PRECAUTIONS).
-Fluid retention secondary to transient elevation of aldosterone (see CLINICAL PHARMACOLOGY).
+Hematologic Disorders: Agranulocytosis, neutropenia, leukopenia, methemoglobinemia, sulfhemoglobinemia
 
-## Cardiovascular
+Hypersensitivity Reactions: Bronchospasm (especially in patients with a history of asthma), urticaria; rash; angioedema, including glossal or laryngeal edema
 
-Hypotension, hypertension, supraventricular tachycardia, bradycardia, fluid retention, acute congestive heart failure and possible AV block (see CONTRAINDICATIONS and PRECAUTIONS).
+Eye Disorders: Visual disturbances
 
-## Gastrointestinal
-
-Nausea and bowel disturbances, primarily diarrhea.
-
-## Hepatic
-
-Rarely, cases of hepatotoxicity, characterized by such findings as jaundice and altered liver function tests, when metoclopramide was administered with other drugs with known hepatotoxic potential.
-
-## Renal
-
-Urinary frequency and incontinence.
-
-## Hematologic
-
-A few cases of neutropenia, leukopenia, or agranulocytosis, generally without clearcut relationship to metoclopramide.
-Methemoglobinemia, in adults and especially with overdosage in neonates (see OVERDOSAGE).
-
-Sulfhemoglobinemia in adults.
-
-## Allergic Reactions
-
-A few cases of rash, urticaria, or bronchospasm, especially in patients with a history of asthma.
-Rarely, angioneurotic edema, including glossal or laryngeal edema.
-
-## Miscellaneous
-
-Visual disturbances.
-Porphyria.
+Metabolism Disorders: Porphyria

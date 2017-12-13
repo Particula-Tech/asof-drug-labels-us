@@ -1,10 +1,13 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-Metoclopramide should not be used whenever stimulation of gastrointestinal motility might be dangerous, e.g., in the presence of gastrointestinal hemorrhage, mechanical obstruction, or perforation.
+Metoclopramide is contraindicated:
 
-Metoclopramide is contraindicated in patients with pheochromocytoma because the drug may cause a hypertensive crisis, probably due to release of catecholamines from the tumor.
-Such hypertensive crises may be controlled by phentolamine.
-
-Metoclopramide is contraindicated in patients with known sensitivity or intolerance to the drug.
-
-Metoclopramide should not be used in epileptics or patients receiving other drugs which are likely to cause extrapyramidal reactions, since the frequency and severity of seizures or extrapyramidal reactions may be increased.
+- In patients with a history of tardive dyskinesia (TD) or a dystonic reaction to metoclopramide [see Warnings and Precautions (5.1, 5.2)].
+- When stimulation of gastrointestinal motility might be dangerous (e.g., in the presence of gastrointestinal hemorrhage, mechanical obstruction, or perforation).
+- In patients with pheochromocytoma or other catecholamine-releasing paragangliomas.
+  Metoclopramide may cause a hypertensive/pheochromocytoma crisis, probably due to release of catecholamines from the tumor.
+  Metoclopramide may cause a hypertensive/pheochromocytoma crisis, probably due to release of catecholamines from the tumor [see Warnings and Precautions (5.5)].
+- In patients with epilepsy.
+  Metoclopramide may increase the frequency and severity of seizures [see Adverse Reactions (6)].
+- In patients with hypersensitivity to metoclopramide.
+  Reactions have included laryngeal and glossal angioedema and bronchospasm [see Adverse Reactions (6)].
