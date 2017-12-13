@@ -29,7 +29,7 @@ Systemic doses slightly raise systolic and lower diastolic pressures and can pro
 Such doses also slightly increase cardiac output and decrease central venous pressure.
 Occasionally, therapeutic doses dilate cutaneous blood vessels, particularly in the "blush" area (atropine flush), and may cause atropine "fever" due to suppression of sweat gland activity in infants and small children.
 
-The effects of intravenous atropine on heart rate (maximum heart rate) and saliva flow (minimum flow) after I.V. administration (rapid, constant infusion over 3 min.) are delayed by 7 to 8 minutes after drug administration and both effects are non-linearly related to the amount of drug in the peripheral compartment.
+The effects of intravenous atropine on heart rate (maximum heart rate) and saliva flow (minimum flow) after intravenous administration (rapid, constant infusion over 3 min.) are delayed by 7 to 8 minutes after drug administration and both effects are non-linearly related to the amount of drug in the peripheral compartment.
 Changes in plasma atropine levels following intramuscular administration (0.5 to 4 mg doses) and heart rate are closely overlapped but the time course of the changes in atropine levels and behavioral impairment indicates that pharmacokinetics is not the primary rate-limiting mechanism for the central nervous system effect of atropine.
 
 ## 12.3 Pharmacokinetics

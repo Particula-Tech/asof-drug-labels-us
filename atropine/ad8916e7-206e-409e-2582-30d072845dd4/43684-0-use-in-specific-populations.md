@@ -2,8 +2,6 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C
-
 Animal reproduction studies have not been conducted with atropine.
 It also is not known whether atropine can cause fetal harm when given to a pregnant woman or can affect reproduction capacity.
 

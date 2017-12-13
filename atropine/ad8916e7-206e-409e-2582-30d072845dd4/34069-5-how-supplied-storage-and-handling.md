@@ -11,6 +11,6 @@ Atropine Sulfate Injection, USP is supplied in single-dose syringes as follows:
 Store at 20°C to 25°C (68°F to 77°F); excursions permitted between 15°C and 30°C (59°F and 86°F).
 [See USP Controlled Room Temperature.]
 
-Hospira, Inc., Lake Forest, IL 60045 USA
+Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
-LAB-1041-1.0
+LAB-1041-2.0
