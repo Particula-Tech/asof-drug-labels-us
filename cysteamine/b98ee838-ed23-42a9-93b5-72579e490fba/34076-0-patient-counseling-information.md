@@ -26,8 +26,6 @@ Contact lenses may be reinserted 15 minutes following CYSTARAN administration.
 
 Patients should be advised that CYSTARAN is for topical ophthalmic use only.
 
-Manufactured by:
+Manufactured by Hi-Tech Pharmacal Co., Inc., Amityville, NY 11701 for Leadiant Biosciences, Inc., Gaithersburg, MD 20878.
 
-Hi-Tech Pharmacal, Co., Inc., Amityville, NY 11701 for
-
-cyspi-5-ht 10/2012
+cyspi-6-ht 07/2017

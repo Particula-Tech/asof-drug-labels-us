@@ -1,10 +1,8 @@
 # Principal Display Panel - Carton
 
-Carton Label
-
 NDC 54482-020-01
 
-cystaran™
+cystaran®
 
 (cysteamine ophthalmic solution) 0.44%
 
@@ -28,11 +26,10 @@ Avoid touching dropper tip to any surface.
 
 For Ophthalmic Use Only.
 
-cysl-10-ht 0814 Rev.
-915:02 9/14
+cysc-11-ht 0717
 
-sigma-tau PHARMACEUTICALS, INC. Rare dedication
+Leadiant Biosciences
 
-Manufactured by Hi-Tech Pharmacal Co., Inc.,
+Manufactured by Hi-Tech Pharmacal Co. Inc., Amityville, NY 11701 for Leadiant Biosciences, Inc., Gaithersburg, MD 20878
 
-Amityville, NY 11701 for Sigma-Tau Pharmaceuticals, Inc., Gaithersburg, MD 20878
+Rev.915:04 07/17
