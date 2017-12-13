@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA020981"
+  ],
+  "inn": "topotecan",
+  "labeler": "GlaxoSmithKline Manufacturing SpA",
+  "package_ndcs": [
+    "12064-000-00",
+    "12064-001-00"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "topotecan hydrochloride",
+      "name": "HYCAMTIN"
+    }
+  ],
+  "setid": "b271a5cb-cc1b-4082-8a29-0e43182630fc",
+  "source": "dailymed"
+}
