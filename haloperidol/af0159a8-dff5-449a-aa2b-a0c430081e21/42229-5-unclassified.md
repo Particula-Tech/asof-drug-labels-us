@@ -10,7 +10,7 @@ For IM Injection Only
 |  | Step 3 |
 | 3.Position the index finger of the other hand to support the neck of the ampule. Position the thumb so that it covers the colored point and is parallel to the colored ring(s). |  |
 |  | Step 4 |
-| 4.Keeping the thumb on the colored point, and with the index fingers close together, apply firm pressure on the colored point in the direction of the arrow to snap the ampule open. |  |
+| 4.Keeping the thumb on the colored point and with the index fingers close together, apply firm pressure on the colored point in the direction of the arrow to snap the ampule open. |  |
 
 Product of Belgium
 
@@ -23,4 +23,4 @@ Parma, Italy
 
 Manufactured for: Janssen Pharmaceuticals, Inc. Titusville, NJ 08560
 
-Revised February 2017 © Janssen Pharmaceuticals, Inc. 2005
+Revised December 2017 © 2005 Janssen Pharmaceuticals Companies

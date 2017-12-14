@@ -46,6 +46,6 @@ HALDOL DECANOATE DOSING RECOMMENDATIONS
 
 Close clinical supervision is required during initiation and stabilization of haloperidol decanoate therapy.
 Haloperidol decanoate is usually administered monthly or every 4 weeks.
-However, variation in patient response may dictate a need for adjustment of the dosing interval as well as the dose (See CLINICAL PHARMACOLOGY).
+However, variation in patient response may dictate a need for adjustment of the dosing interval as well as the dose (see CLINICAL PHARMACOLOGY).
 
 Clinical experience with haloperidol decanoate at doses greater than 450 mg per month has been limited.
