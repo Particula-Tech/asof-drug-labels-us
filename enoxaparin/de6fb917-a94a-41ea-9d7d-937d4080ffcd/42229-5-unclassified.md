@@ -1,5 +1,5 @@
 sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY
 
-PREMIERPro™Rx is a trademark of Premier, Inc., used under license.
+PREMIERProRx® is a registered trademark of Premier Healthcare Alliance, L.P., used under license.
 
-© 2013 sanofi-aventis U.S. LLC
+© 2017 sanofi-aventis U.S. LLC

@@ -6,10 +6,10 @@ Consider these risks when scheduling patients for spinal procedures.
 Factors that can increase the risk of developing epidural or spinal hematomas in these patients include:
 
 - Use of indwelling epidural catheters
-- Concomitant use of other drugs that affect hemostasis, such as non-steroidal anti-inflammatory drugs (NSAIDs), platelet inhibitors, other anticoagulants.
+- Concomitant use of other drugs that affect hemostasis, such as non-steroidal anti-inflammatory drugs (NSAIDs), platelet inhibitors, other anticoagulants
 - A history of traumatic or repeated epidural or spinal punctures
 - A history of spinal deformity or spinal surgery
-- Optimal timing between the administration of Lovenox and neuraxial procedures is not known.
+- Optimal timing between the administration of Lovenox and neuraxial procedures is not known
 
 Monitor patients frequently for signs and symptoms of neurological impairment.
 If neurological compromise is noted, urgent treatment is necessary.
