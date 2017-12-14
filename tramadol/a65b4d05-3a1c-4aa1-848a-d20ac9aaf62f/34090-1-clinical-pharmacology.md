@@ -79,7 +79,7 @@ Absorption
 
 After a single dose administration of CONZIP, Tmax occurs around 10-12 hours.
 
-The mean Cmax and AUC of CONZIP capsules after a 300 mg single dose was 308 ng/mL and 6777 ng*hr/mL, respectively under fasting conditions.
+The mean Cmax and AUC of CONZIP capsules after a 300 mg single dose was 308 ng/mL and 6777 ng.hr/mL, respectively under fasting conditions.
 CONZIP is bioequivalent to a reference extended-release tramadol product following a single 300 mg dose under fasting conditions.
 
 At steady-state, CONZIP at 200 mg has been observed to be bioequivalent to a reference extended-release tramadol product at 200 mg under fasting conditions (Table 2).
@@ -90,8 +90,8 @@ Table 3.
 | Mean (%CV) Steady-State Pharmacokinetic Parameter Values (N= 38) |  |  |  |  |
 | --- | --- | --- | --- | --- |
 |  | Tramadol |  | O-Desmethyl-Tramadol (M1 Metabolite) |  |
-| Parameter | Tramadol hydrochloride Extended Release Capsules 200 mg | A Reference Extended-Release Tramadol Product 200 mg | Tramadol hydrochloride Extended Release Capsules 200 mg | A Reference Extended-Release Tramadol Product 200 mg |
-| AUC0-24 (ng.h/mL) | 5678 (27%) | 5563 (32%) | 1319 (34%) | 1302 (40%) |
+| Parameter | Tramadol hydrochloride Extended-Release Capsules 200 mg | A Reference Extended-Release Tramadol Product 200 mg | Tramadol hydrochloride Extended-Release Capsules 200 mg | A Reference Extended-Release Tramadol Product 200 mg |
+| AUC0-24 (ng.hr/mL) | 5678 (27%) | 5563 (32%) | 1319 (34%) | 1302 (40%) |
 | Cmax (ng/mL) | 332 (25%) | 350 (31%) | 70 (34%) | 74 (41%) |
 | Cmin (ng/mL) | 128 (39%) | 125 (45%) | 35 (34%) | 33 (42%) |
 | Tmax | 5.9 (66%) | 10 (30%) | 11 (37%) | 13 (29%) |

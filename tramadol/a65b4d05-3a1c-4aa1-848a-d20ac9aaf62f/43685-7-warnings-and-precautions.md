@@ -51,7 +51,7 @@ Because of the risk of life-threatening respiratory depression and death:
 
 Nursing Mothers
 
-Tramadol is subject to the same polymorphic metabolism as codeine, with ultra-rapid metabolizers of CYP2D6 substrates being potentially exposed to life-threatening levels of O-desmethyltramadol (M1).
+Tramadol is subject to the same polymorphic metabolism as codeine, with ultra-rapid metabolizers of CYP2D6 substrates being potentially exposed to life-threatening levels of O-desmethyl tramadol (M1).
 At least one death was reported in a nursing infant who was exposed to high levels of morphine in breast milk because the mother was an ultra-rapid metabolizer of codeine.
 A baby nursing from an ultra-rapid metabolizer mother taking CONZIP could potentially be exposed to high levels of MI, and experience life-threatening respiratory depression.
 For this reason, breastfeeding is not recommended during treatment with CONZIP [see Use in Specific Populations (8.2)].
@@ -61,7 +61,7 @@ CYP2D6 Genetic Variability: Ultra-rapid metabolizer
 Some individuals may be ultra-rapid metabolizers because of a specific CYP2D6 genotype (gene duplications denoted as *1/*1xN or *1/*2xN).
 The prevalence of this CYP2D6 phenotype varies widely and has been estimated at 1 to 10% for Whites (European, North American), 3 to 4% for Blacks (African Americans), 1 to 2% for East Asians (Chinese, Japanese, Korean), and may be greater than 10% in certain racial/ethnic groups (i.e., Oceanian, Northern African, Middle Eastern, Ashkenazi Jews, Puerto Rican).
 
-These individuals convert tramadol into its active metabolite, Odesmethyltramadol (M1), more rapidly and completely than other people.
+These individuals convert tramadol into its active metabolite, O-desmethyl tramadol (M1), more rapidly and completely than other people.
 This rapid conversion results in higher than expected serum M1 levels.
 Even at labeled dosage regimens, individuals who are ultra-rapid metabolizers may have life-threatening or fatal respiratory depression or experience signs of overdose (such as extreme sleepiness, confusion, or shallow breathing) [see Overdosage (10)].
 Therefore, individuals who are ultra-rapid metabolizers should not use CONZIP.

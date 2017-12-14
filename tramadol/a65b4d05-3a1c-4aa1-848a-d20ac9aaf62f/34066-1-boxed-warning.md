@@ -1,4 +1,4 @@
-# WARNING: ADDICTION, ABUSE, AND MISUSE; LIFE-THREATENING RESPIRATORY DEPRESSION; ACCIDENTAL INGESTION; ULTRA-RAPID METABOLISM OF TRAMADOL AND OTHER RISK FACTORS FOR LIFE-THREATENING RESPIRATORY DEPRESSION IN CHILDREN; NEONATAL OPIOID WITHDRAWAL SYNDROME; INTERACTIONS WITH DRUGS AFFECTING CYTOCHROME P450 ISOENZYMES; and RISKS FROM CONCOMITANT USE WITH BENZODIAZEPINES OR OTHER CNS DEPRESSANTS
+# WARNING: ADDICTION, ABUSE, AND MISUSE; LIFE-THREATENING RESPIRATORY DEPRESSION; ACCIDENTAL INGESTION; ULTRA-RAPID METABOLISM OF TRAMADOL AND OTHER RISK FACTORS FOR LIFE-THREATENING RESPIRATORY DEPRESSION IN CHILDREN; NEONATAL OPIOID WITHDRAWAL SYNDROME; INTERACTIONS WITH DRUGS AFFECTING CYTOCHROME P450 ISOENZYMES; AND RISKS FROM CONCOMITANT USE WITH BENZODIAZEPINES OR OTHER CNS DEPRESSANTS
 
 Addiction, Abuse, and Misuse
 
@@ -7,7 +7,9 @@ Assess each patient's risk prior to prescribing CONZIP and monitor all patients 
 
 Life-Threatening Respiratory Depression
 
-Serious, life-threatening, or fatal respiratory depression may occur with use of CONZIP Monitor for respiratory depression, especially during initiation of CONZIP or following a dose increase Instruct patients to swallow CONZIP capsules intact, and not to split, break, chew, crush, or dissolve the contents of the capsules to avoid exposure to a potentially fatal dose of tramadol [see Warnings and Precautions (5.2)].
+Serious, life-threatening, or fatal respiratory depression may occur with use of CONZIP.
+Monitor for respiratory depression, especially during initiation of CONZIP or following a dose increase.
+Instruct patients to swallow CONZIP capsules intact, and not to split, break, chew, crush, or dissolve the contents of the capsules to avoid exposure to a potentially fatal dose of tramadol [see Warnings and Precautions (5.2)].
 
 Accidental Ingestion
 
@@ -34,6 +36,6 @@ Risks From Concomitant Use With Benzodiazepines Or Other CNS Depressants
 
 Concomitant use of opioids with benzodiazepines or other central nervous system (CNS) depressants, including alcohol, may result in profound sedation, respiratory depression, coma, and death [see Warnings and Precautions (5.6), Drug Interactions (7)].
 
-- Reserve concomitant prescribing of CONZIP Injection and benzodiazepines or other CNS depressants for use in patients for whom alternative treatment options are inadequate.
+- Reserve concomitant prescribing of CONZIP and benzodiazepines or other CNS depressants for use in patients for whom alternative treatment options are inadequate.
 - Limit dosages and durations to the minimum required.
 - Follow patients for signs and symptoms of respiratory depression and sedation.
