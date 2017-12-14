@@ -72,7 +72,7 @@ The use of hydrocodone bitartrate and acetaminophen tablets in patients with acu
 
 Patients with Chronic Pulmonary Disease: Hydrocodone bitartrate and acetaminophen tablet-treated patients with significant chronic obstructive pulmonary disease or cor pulmonale, and those with a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression are at increased risk of decreased respiratory drive including apnea, even at recommended dosages of hydrocodone bitartrate and acetaminophen tablets (see WARNINGS, Life-Threatening Respiratory Depression).
 
-Elderly, Cachetic, or Debilitated Patients: Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients because they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients (see WARNINGS, Life-Threatening Respiratory Depression).
+Elderly, Cachectic, or Debilitated Patients: Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients because they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients (see WARNINGS, Life-Threatening Respiratory Depression).
 
 Follow such patients closely, particularly when initiating and titrating hydrocodone bitartrate and acetaminophen tablets and when hydrocodone bitartrate and acetaminophen tablets are given concomitantly with other drugs that depress respiration (see WARNINGS, Life-Threatening Respiratory Depression).
 Alternatively, consider the use of non-opioid analgesics in these patients.

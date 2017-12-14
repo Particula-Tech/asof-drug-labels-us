@@ -77,7 +77,7 @@ Rx only
 PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 Mallinckrodt™
 
-L0H105 Rev 12/2016
+L0H105 Rev 06/2017
 
 # PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 7.5 mg/325 mg Bottle
 
@@ -100,7 +100,7 @@ Rx only
 PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 Mallinckrodt™
 
-L0H107 Rev 12/2016
+L0H107 Rev 06/2017
 
 # PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 10 mg/325 mg Bottle
 
@@ -123,4 +123,4 @@ Rx only
 PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 Mallinckrodt™
 
-L0H109 Rev 12/2016
+L0H109 Rev 06/2017
