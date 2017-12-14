@@ -15,7 +15,7 @@ If HALDOL is administered intravenously, the ECG should be monitored for QT prol
 
 ## Tardive Dyskinesia
 
-A syndrome consisting of potentially irreversible, involuntary, dyskinetic movements may develop in patients treated with antipsychotic drugs.
+A syndrome consisting of potentially irreversible, involuntary, dyskinetic movements may develop in patients treated with antipsychotic drugs (see ADVERSE REACTIONS).
 Although the prevalence of the syndrome appears to be highest among the elderly, especially elderly women, it is impossible to rely upon prevalence estimates to predict, at the inception of antipsychotic treatment, which patients are likely to develop the syndrome.
 Whether antipsychotic drug products differ in their potential to cause tardive dyskinesia is unknown.
 
@@ -34,16 +34,14 @@ The need for continued treatment should be reassessed periodically.
 If signs and symptoms of tardive dyskinesia appear in a patient on antipsychotics, drug discontinuation should be considered.
 However, some patients may require treatment despite the presence of the syndrome.
 
-(For further information about the description of tardive dyskinesia and its clinical detection, please refer to ADVERSE REACTIONS.)
-
 ## Neuroleptic Malignant Syndrome (NMS)
 
-A potentially fatal symptom complex sometimes referred to as Neuroleptic Malignant Syndrome (NMS) has been reported in association with antipsychotic drugs.
+A potentially fatal symptom complex sometimes referred to as Neuroleptic Malignant Syndrome (NMS) has been reported in association with antipsychotic drugs (see ADVERSE REACTIONS).
 Clinical manifestations of NMS are hyperpyrexia, muscle rigidity, altered mental status (including catatonic signs) and evidence of autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis, and cardiac dysrhythmias).
 Additional signs may include elevated creatine phosphokinase, myoglobinuria (rhabdomyolysis) and acute renal failure.
 
 The diagnostic evaluation of patients with this syndrome is complicated.
-In arriving at a diagnosis, it is important to identify cases where the clinical presentation includes both serious medical illness (e.g., pneumonia, systemic infection, etc.) and untreated or inadequately treated extrapyramidal signs and symptoms (EPS).
+In arriving at a diagnosis, it is important to identify cases where the clinical presentation includes both serious medical illness (e.g., pneumonia, systemic infection, etc.) and untreated or inadequately treated extrapyramidal signs and symptoms.
 Other important considerations in the differential diagnosis include central anticholinergic toxicity, heat stroke, drug fever and primary central nervous system (CNS) pathology.
 
 The management of NMS should include 1) immediate discontinuation of antipsychotic drugs and other drugs not essential to concurrent therapy, 2) intensive symptomatic treatment and medical monitoring, and 3) treatment of any concomitant serious medical problems for which specific treatments are available.
@@ -53,6 +51,13 @@ If a patient requires antipsychotic drug treatment after recovery from NMS, the 
 The patient should be carefully monitored, since recurrences of NMS have been reported.
 
 Hyperpyrexia and heat stroke, not associated with the above symptom complex, have also been reported with HALDOL.
+
+## Treatment Withdrawal
+
+Generally, patients receiving short-term therapy experience no problems with abrupt discontinuation of antipsychotic drugs.
+However, some patients on maintenance treatment experience transient dyskinetic signs after abrupt withdrawal.
+In certain of these cases the dyskinetic movements are indistinguishable from tardive dyskinesia (see WARNINGS, Tardive Dyskinesia) except for duration.
+It is not known whether gradual withdrawal of antipsychotic drugs will reduce the rate of occurrence of withdrawal emergent neurological signs but until further evidence becomes available, it seems reasonable to gradually withdraw use of HALDOL (see WARNINGS, Usage in Pregnancy).
 
 ## Falls
 
@@ -71,7 +76,7 @@ Causal relationships were not established in these cases.
 Since such experience does not exclude the possibility of fetal damage due to HALDOL, this drug should be used during pregnancy or in women likely to become pregnant only if the benefit clearly justifies a potential risk to the fetus.
 Infants should not be nursed during drug treatment.
 
-### Non-teratogenic Effects
+### Non-Teratogenic Effects
 
 Neonates exposed to antipsychotic drugs (including haloperidol) during the third trimester of pregnancy are at risk for extrapyramidal and/or withdrawal symptoms following delivery.
 There have been reports of agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, and feeding disorder in these neonates.
@@ -130,7 +135,7 @@ The risks of using haloperidol in combination with other drugs have been evaluat
 
 ### Pharmacodynamic Interactions
 
-Since QT-prolongation has been observed during Haldol treatment, caution is advised when prescribing to a patient with QT-prolongation conditions (long QT-syndrome, hypokalemia, electrolyte imbalance) or to patients receiving medications known to prolong the QT-interval or known to cause electrolyte imbalance.
+Since QT-prolongation has been observed during HALDOL treatment, caution is advised when prescribing to a patient with QT-prolongation conditions (long QT-syndrome, hypokalemia, electrolyte imbalance) or to patients receiving medications known to prolong the QT-interval or known to cause electrolyte imbalance.
 
 If concomitant antiparkinson medication is required, it may have to be continued after HALDOL is discontinued because of the difference in excretion rates.
 If both are discontinued simultaneously, extrapyramidal symptoms may occur.
@@ -144,7 +149,7 @@ It may be necessary to reduce the haloperidol dosage.
 
 ### Pharmacokinetic Interactions
 
-#### The Effect of Other Drugs on Haldol®
+#### The Effect of Other Drugs on HALDOL
 
 Haloperidol is metabolized by several routes, including the glucuronidation and the cytochrome P450 enzyme system.
 Inhibition of these routes of metabolism by another drug may result in increased haloperidol concentrations and potentially increase the risk of certain adverse events, including QT-prolongation.
@@ -153,7 +158,7 @@ Inhibition of these routes of metabolism by another drug may result in increased
 
 In pharmacokinetic studies, mild to moderately increased haloperidol concentrations have been reported when haloperidol was given concomitantly with drugs characterized as substrates or inhibitors of CYP3A4 or CYP2D6 isoenzymes, such as itraconazole, nefazodone, buspirone, venlafaxine, alprazolam, fluvoxamine, quinidine, fluoxetine, sertraline, chlorpromazine, and promethazine.
 
-When prolonged treatment (1–2 weeks) with enzyme-inducing drugs such as rifampin or carbamazepine is added to Haldol therapy, this results in a significant reduction of haloperidol plasma levels.
+When prolonged treatment (1–2 weeks) with enzyme-inducing drugs such as rifampin or carbamazepine is added to HALDOL therapy, this results in a significant reduction of haloperidol plasma levels.
 
 #### Rifampin
 
@@ -165,8 +170,8 @@ In 5 other schizophrenic patients treated with haloperidol and rifampin, discont
 In a study in 11 schizophrenic patients co-administered haloperidol and increasing doses of carbamazepine, haloperidol plasma concentrations decreased linearly with increasing carbamazepine concentrations.
 
 Thus, careful monitoring of clinical status is warranted when enzyme inducing drugs such as rifampin or carbamazepine are administered or discontinued in haloperidol-treated patients.
-During combination treatment, the Haldol dose should be adjusted, when necessary.
-After discontinuation of such drugs, it may be necessary to reduce the dosage of Haldol.
+During combination treatment, the HALDOL dose should be adjusted, when necessary.
+After discontinuation of such drugs, it may be necessary to reduce the dosage of HALDOL.
 
 #### Valproate
 

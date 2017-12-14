@@ -1,105 +1,111 @@
 # ADVERSE REACTIONS
 
-## Cardiovascular Effects
+The following adverse reactions are discussed in more detail in other sections of the labeling:
 
-Tachycardia, hypotension, and hypertension have been reported.
-QT prolongation and/or ventricular arrhythmias have also been reported, in addition to ECG pattern changes compatible with the polymorphous configuration of torsade de pointes, and may occur more frequently with high doses and in predisposed patients (see WARNINGS and PRECAUTIONS).
+- WARNINGS, Increased mortality in Elderly Patients with Dementia-Related Psychosis
+- WARNINGS, Cardiovascular Effects
+- WARNINGS, Tardive Dyskinesia
+- WARNINGS, Neuroleptic Malignant Syndrome
+- WARNINGS, Treatment Withdrawal
+- WARNINGS, Falls
+- WARNINGS, Usage in Pregnancy
+- WARNINGS, Combined Use of HALDOL and Lithium
+- WARNINGS, General
+- PRECAUTIONS, Leukopenia, Neutropenia, and Agranulocytosis
+- PRECAUTIONS, Other
 
-Cases of sudden and unexpected death have been reported in association with the administration of HALDOL.
-The nature of the evidence makes it impossible to determine definitively what role, if any, HALDOL played in the outcome of the reported cases.
-The possibility that HALDOL caused death cannot, of course, be excluded, but it is to be kept in mind that sudden and unexpected death may occur in psychotic patients when they go untreated or when they are treated with other antipsychotic drugs.
+## Clinical Trials Experience
 
-## CNS Effects
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug, and may not reflect the rates observed in practice.
 
-### Extrapyramidal Symptoms (EPS)
+The data described below reflect exposure to haloperidol in the following:
 
-EPS during the administration of HALDOL (haloperidol) have been reported frequently, often during the first few days of treatment.
-EPS can be categorized generally as Parkinson-like symptoms, akathisia, or dystonia (including opisthotonos and oculogyric crisis).
-While all can occur at relatively low doses, they occur more frequently and with greater severity at higher doses.
-The symptoms may be controlled with dose reductions or administration of antiparkinson drugs such as benztropine mesylate USP or trihexyphenidyl hydrochloride USP.
-It should be noted that persistent EPS have been reported; the drug may have to be discontinued in such cases.
+- 284 patients who participated in 3 double-blind, placebo-controlled clinical trials with haloperidol (oral formulation, 2 to 20 mg/day); two trials were in the treatment of schizophrenia and one in the treatment of bipolar disorder.
+- 1295 patients who participated in 16 double-blind, active comparator-controlled clinical trials with haloperidol (injection or oral formulation, 1 to 45 mg/day) in the treatment of schizophrenia.
 
-### Dystonia
+Based on the pooled safety data, the most common adverse reactions in haloperidol-treated patients from these double-blind placebo-controlled clinical trials (≥5%) were: extrapyramidal disorder, hyperkinesia, tremor, hypertonia, dystonia, and somnolence.
 
-#### Class Effect
+### Adverse Reactions Reported at ≥1% Incidence in Double-Blind Placebo-Controlled Clinical Trials with Oral Haloperidol
 
-Symptoms of dystonia, prolonged abnormal contractions of muscle groups, may occur in susceptible individuals during the first few days of treatment.
-Dystonic symptoms include: spasm of the neck muscles, sometimes progressing to tightness of the throat, swallowing difficulty, difficulty breathing, and/or protrusion of the tongue.
-While these symptoms can occur at low doses, they occur more frequently and with greater severity with high potency and at higher doses of first generation antipsychotic drugs.
-An elevated risk of acute dystonia is observed in males and younger age groups.
+Adverse reactions occurring in ≥1% of haloperidol-treated patients and at higher rate than placebo in 3 double-blind, parallel, placebo-controlled, clinical trials with the oral formulation are shown in Table 1.
 
-### Withdrawal Emergent Neurological Signs
+Table 1.
+Adverse Reactions Occurring in ≥1% of Haloperidol-Treated Patients in Double-Blind, Parallel Placebo-Controlled Clinical Trials (Oral Haloperidol)
 
-Generally, patients receiving short-term therapy experience no problems with abrupt discontinuation of antipsychotic drugs.
-However, some patients on maintenance treatment experience transient dyskinetic signs after abrupt withdrawal.
-In certain of these cases the dyskinetic movements are indistinguishable from the syndrome described below under "Tardive Dyskinesia" except for duration.
-It is not known whether gradual withdrawal of antipsychotic drugs will reduce the rate of occurrence of withdrawal emergent neurological signs but until further evidence becomes available, it seems reasonable to gradually withdraw use of HALDOL.
+| System/Organ Class Adverse Reaction | Haloperidol (n=284) % | Placebo (n=282) % |
+| --- | --- | --- |
+| Gastrointestinal Disorders |  |  |
+| Constipation | 4.2 | 1.8 |
+| Dry mouth | 1.8 | 0.4 |
+| Salivary hypersecretion | 1.2 | 0.7 |
+| Nervous System Disorders |  |  |
+| Extrapyramidal disorderRepresents the total reporting rate for extrapyramidal disorder (reported term) and individual symptoms of extrapyramidal disorder, including events that did not meet the threshold of ≥1% for inclusion in this table | 50.7 | 16.0 |
+| Hyperkinesia | 10.2 | 2.5 |
+| Tremor | 8.1 | 3.6 |
+| Hypertonia | 7.4 | 0.7 |
+| Dystonia | 6.7 | 0.4 |
+| Bradykinesia | 4.2 | 0.4 |
+| Somnolence | 5.3 | 1.1 |
 
-### Tardive Dyskinesia
+### Additional Adverse Reactions Reported in Double-Blind, Placebo- or Active Comparator-Controlled Clinical Trials with Injectable or Oral Haloperidol
 
-As with all antipsychotic agents HALDOL has been associated with persistent dyskinesias.
-Tardive dyskinesia, a syndrome consisting of potentially irreversible, involuntary, dyskinetic movements, may appear in some patients on long-term therapy or may occur after drug therapy has been discontinued.
-The risk appears to be greater in elderly patients on high-dose therapy, especially females.
-The symptoms are persistent and in some patients appear irreversible.
-The syndrome is characterized by rhythmical involuntary movements of tongue, face, mouth or jaw (e.g., protrusion of tongue, puffing of cheeks, puckering of mouth, chewing movements).
-Sometimes these may be accompanied by involuntary movements of extremities and the trunk.
+Additional adverse reactions that are listed below were reported by haloperidol-treated patients in double-blind, active comparator-controlled clinical trials with the injectable or oral formulation, or at <1% incidence in double-blind, parallel, placebo-controlled, clinical trials with the oral formulation.
 
-There is no known effective treatment for tardive dyskinesia; antiparkinson agents usually do not alleviate the symptoms of this syndrome.
-It is suggested that all antipsychotic agents be discontinued if these symptoms appear.
-Should it be necessary to reinstitute treatment, or increase the dosage of the agent, or switch to a different antipsychotic agent, this syndrome may be masked.
+Cardiac Disorders: Tachycardia
 
-It has been reported that fine vermicular movement of the tongue may be an early sign of tardive dyskinesia and if the medication is stopped at that time the full syndrome may not develop.
+Endocrine Disorders: Hyperprolactinemia
 
-### Tardive Dystonia
+Eye Disorders: Vision blurred
 
-Tardive dystonia, not associated with the above syndrome, has also been reported.
-Tardive dystonia is characterized by delayed onset of choreic or dystonic movements, is often persistent, and has the potential of becoming irreversible.
+Investigations: Weight increased
 
-### Other CNS Effects
+Musculoskeletal and Connective Tissue Disorders: Torticollis, Trismus, Muscle rigidity, Muscle twitching
 
-Insomnia, restlessness, anxiety, euphoria, agitation, drowsiness, depression, lethargy, headache, confusion, vertigo, grand mal seizures, exacerbation of psychotic symptoms including hallucinations, and catatonic-like behavioral states which may be responsive to drug withdrawal and/or treatment with anticholinergic drugs.
+Nervous System Disorders: Akathisia, Dizziness, Dyskinesia, Hypokinesia, Neuroleptic malignant syndrome, Nystagmus, Oculogyric crisis, Parkinsonism, Sedation, Tardive dyskinesia
 
-## Body as a Whole
+Psychiatric Disorders: Loss of libido, Restlessness
 
-Neuroleptic malignant syndrome (NMS), hyperpyrexia and heat stroke have been reported with HALDOL.
-(See WARNINGS for further information concerning NMS.)
+Reproductive System and Breast Disorders: Amenorrhea, Galactorrhea, Dysmenorrhea, Erectile dysfunction, Menorrhagia, Breast discomfort
 
-## Hematologic Effects
+Skin and Subcutaneous Tissue Disorders: Acneiform skin reactions
 
-Reports have appeared citing the occurrence of mild and usually transient leukopenia and leukocytosis, minimal decreases in red blood cell counts, anemia, or a tendency toward lymphomonocytosis.
-Agranulocytosis has rarely been reported to have occurred with the use of HALDOL, and then only in association with other medication.
-(See PRECAUTIONS: Leukopenia, Neutropenia, and Agranulocytosis.)
+Vascular Disorders: Hypotension, Orthostatic hypotension
 
-## Liver Effects
+## Postmarketing Experience
 
-Impaired liver function and/or jaundice have been reported.
+The following adverse reactions relating to the active moiety haloperidol have been identified during postapproval use of haloperidol or haloperidol decanoate.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-## Dermatologic Reactions
+Blood and Lymphatic System Disorders: Pancytopenia, Agranulocytosis, Thrombocytopenia, Leukopenia, Neutropenia
 
-Maculopapular and acneiform skin reactions and isolated cases of photosensitivity and loss of hair.
+Cardiac Disorders: Ventricular fibrillation, Torsade de pointes, Ventricular tachycardia, Extrasystoles
 
-## Endocrine Disorders
+Endocrine Disorders: Inappropriate antidiuretic hormone secretion
 
-Lactation, breast engorgement, mastalgia, menstrual irregularities, gynecomastia, impotence, increased libido, hyperglycemia, hypoglycemia and hyponatremia.
+Gastrointestinal Disorders: Vomiting, Nausea
 
-## Gastrointestinal Effects
+General Disorders and Administration Site Conditions: Sudden death, Face edema, Edema, Hyperthermia, Hypothermia
 
-Anorexia, constipation, diarrhea, hypersalivation, dyspepsia, nausea and vomiting.
+Hepatobiliary Disorders: Acute hepatic failure, Hepatitis, Cholestasis, Jaundice, Liver function test abnormal
 
-## Autonomic Reactions
+Immune System Disorders: Anaphylactic reaction, Hypersensitivity
 
-Dry mouth, blurred vision, urinary retention, diaphoresis and priapism.
+Investigations: Electrocardiogram QT prolonged, Weight decreased
 
-## Respiratory Effects
+Metabolic and Nutritional Disorders: Hypoglycemia
 
-Laryngospasm, bronchospasm and increased depth of respiration.
+Musculoskeletal and Connective Tissue Disorders: Rhabdomyolysis
 
-## Special Senses
+Nervous System Disorders: Convulsion, Headache, Opisthotonus, Tardive dystonia
 
-Cataracts, retinopathy and visual disturbances.
+Pregnancy, Puerperium and Perinatal Conditions: Drug withdrawal syndrome neonatal
 
-## Postmarketing Events
+Psychiatric Disorders: Agitation, Confusional state, Depression, Insomnia
 
-Hyperammonemia has been reported in a 5½ year old child with citrullinemia, an inherited disorder of ammonia excretion, following treatment with HALDOL.
+Renal and Urinary Disorders: Urinary retention
 
-Rhabdomyolysis has been reported.
+Reproductive System and Breast Disorders: Priapism, Gynecomastia
+
+Respiratory, Thoracic and Mediastinal Disorders: Laryngeal edema, Bronchospasm, Laryngospasm, Dyspnea
+
+Skin and Subcutaneous Tissue Disorders: Dermatitis exfoliative, Hypersensitivity vasculitis, Photosensitivity reaction, Urticaria, Pruritis, Rash, Hyperhidrosis
