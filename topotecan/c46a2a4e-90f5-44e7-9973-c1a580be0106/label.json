@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA020671"
+  ],
+  "inn": "topotecan",
+  "labeler": "GlaxoSmithKline Manufacturing SpA",
+  "package_ndcs": [
+    "12064-002-00"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "topotecan hydrochloride",
+      "name": "HYCAMTIN"
+    }
+  ],
+  "setid": "c46a2a4e-90f5-44e7-9973-c1a580be0106",
+  "source": "dailymed"
+}
