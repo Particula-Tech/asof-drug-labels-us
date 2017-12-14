@@ -1,4 +1,4 @@
-# 12. CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
 Patients with chronic kidney disease (CKD) on dialysis retain phosphorus and can develop hyperphosphatemia.
 High serum phosphorus can precipitate serum calcium resulting in ectopic calcification.
@@ -19,9 +19,9 @@ By binding phosphate in the dietary tract and decreasing absorption, sevelamer h
 
 In addition to effects on serum phosphate levels, sevelamer hydrochloride has been shown to bind bile acids in vitro and in vivo in experimental animal models.
 Bile acid binding by ion exchange resins is a well-established method of lowering blood cholesterol.
-Because sevelamer binds bile acids, it may interfere with normal fat absorption and thus may reduce absorption of fat-soluble vitamins such as A, D and K. In clinical trials of sevelamer hydrochloride, both the mean total and LDL cholesterol declined by 15–31%.
+Because sevelamer binds bile acids, it may interfere with normal fat absorption and thus may reduce absorption of fat-soluble vitamins such as A, D, and K. In clinical trials of sevelamer hydrochloride, both the mean total and LDL cholesterol declined by 15% to 31%.
 This effect is observed after 2 weeks.
-Triglycerides, HDL cholesterol and albumin did not change.
+Triglycerides, HDL cholesterol, and albumin did not change.
 
 ## 12.3 Pharmacokinetics
 
@@ -35,12 +35,12 @@ In vivo
 Sevelamer carbonate has been studied in human drug-drug interaction studies (9.6 grams once daily with a meal) with warfarin and digoxin.
 Sevelamer hydrochloride, which contains the same active moiety as sevelamer carbonate, has been studied in human drug-drug interaction studies (2.4–2.8 grams single dose or three times daily with meals or two times daily without meals) with ciprofloxacin, digoxin, enalapril, iron, metoprolol, mycophenolate mofetil and warfarin.
 
-Co-administered single dose of 2.8 grams of sevelamer hydrochloride in fasted state decreased the bioavailability of ciprofloxacin by approximately 50% in healthy subjects.
+Coadministered single dose of 2.8 grams of sevelamer hydrochloride in fasted state decreased the bioavailability of ciprofloxacin by approximately 50% in healthy subjects.
 
-Concomitant administration of sevelamer and mycophenolate mofetil in adult and pediatric patients decreased the mean MPA Cmax and AUC0–12h by 36% and 26% respectively.
+Concomitant administration of sevelamer and mycophenolate mofetil in adult and pediatric patients decreased the mean MPA Cmax and AUC0–12h by 36% and 26%, respectively.
 
-Sevelamer carbonate or sevelamer hydrochloride did not alter the pharmacokinetics of a single dose of enalapril, digoxin, iron, metoprolol and warfarin when co-administered.
+Sevelamer carbonate or sevelamer hydrochloride did not alter the pharmacokinetics of a single dose of enalapril, digoxin, iron, metoprolol and warfarin when coadministered.
 
-During postmarketing experience, cases of increased thyroid stimulating hormone (TSH) levels have been reported in patients co-administered sevelamer hydrochloride and levothyroxine.
-Reduction in concentrations of cyclosporine and tacrolimus leading to dose increases has also been reported in transplant patients when co-administered with sevelamer hydrochloride without any clinical consequences (for example, graft rejection).
+During postmarketing experience, cases of increased thyroid stimulating hormone (TSH) levels have been reported in patients coadministered sevelamer hydrochloride and levothyroxine.
+Reduction in concentrations of cyclosporine and tacrolimus leading to dose increases has also been reported in transplant patients when coadministered with sevelamer hydrochloride without any clinical consequences (e.g., graft rejection).
 The possibility of an interaction cannot be excluded with these drugs.

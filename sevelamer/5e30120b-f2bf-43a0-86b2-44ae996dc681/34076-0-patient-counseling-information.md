@@ -7,5 +7,5 @@ Instructions should be given on concomitant medications that should be dosed apa
 
 Adverse Reactions
 
-Renagel may cause constipation that if left untreated, may lead to severe complications.
+Renagel may cause constipation that if left untreated may lead to severe complications.
 Patients should be cautioned to report new onset or worsening of existing constipation promptly to their physician.

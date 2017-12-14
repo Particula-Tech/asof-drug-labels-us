@@ -1,6 +1,8 @@
-Distributed by:
+Manufactured By:
 
-Genzyme Corporation
+Genzyme Ireland Ltd.
+
+For: Genzyme Corporation
 
 500 Kendall Street
 

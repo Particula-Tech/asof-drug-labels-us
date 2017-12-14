@@ -1,13 +1,12 @@
-# 11. DESCRIPTION
+# 11 DESCRIPTION
 
 The active ingredient in Renagel Tablets is sevelamer hydrochloride, a polymeric amine that binds phosphate and is meant for oral administration.
-Sevelamer hydrochloride is poly(allylamine hydrochloride) crosslinked with epichlorohydrin in which forty percent of the amines are protonated.
+Sevelamer hydrochloride is poly(allylamine hydrochloride) crosslinked with epichlorohydrin in which 40% of the amines are protonated.
 It is known chemically as poly(allylamine-co-N,N'-diallyl-1,3-diamino-2-hydroxypropane) hydrochloride.
 Sevelamer hydrochloride is hydrophilic, but insoluble in water.
 The structure is represented in Figure 1.
 
-Figure 1.
-Chemical Structure of Sevelamer Hydrochloride
+Figure 1: Chemical Structure of Sevelamer Hydrochloride
 
 |  | a, b = number of primary amine groups | a + b = 9 |
 | --- | --- | --- |
