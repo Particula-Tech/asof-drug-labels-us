@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA020605"
+  ],
+  "inn": "ondansetron",
+  "labeler": "GlaxoSmithKline Inc",
+  "package_ndcs": [
+    "53873-035-00"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "ondansetron hydrochloride",
+      "name": "ZOFRAN"
+    }
+  ],
+  "setid": "b843449a-f1d7-4c13-808a-6fc3ef9af1d3",
+  "source": "dailymed"
+}
