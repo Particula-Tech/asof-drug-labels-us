@@ -2,10 +2,10 @@
 
 ## 1.1 Hypertension
 
-Valsartan tablets USP are indicated for the treatment of hypertension, to lower blood pressure.
+Valsartan tablets are indicated for the treatment of hypertension, to lower blood pressure.
 Lowering blood pressure reduces the risk of fatal and nonfatal cardiovascular events, primarily strokes and myocardial infarctions.
 These benefits have been seen in controlled trials of antihypertensive drugs from a wide variety of pharmacologic classes including the class to which valsartan principally belongs.
-There are no controlled trials in hypertensive patients demonstrating risk reduction with valsartan tablets USP.
+There are no controlled trials in hypertensive patients demonstrating risk reduction with valsartan tablets.
 Control of high blood pressure should be part of comprehensive cardiovascular risk management, including, as appropriate, lipid control, diabetes management, antithrombotic therapy, smoking cessation, exercise, and limited sodium intake.
 Many patients will require more than one drug to achieve blood pressure goals.
 For specific advice on goals and management, see published guidelines, such as those of the National High Blood Pressure Education Program’s Joint National Committee on Prevention, Detection, Evaluation, and Treatment of High Blood Pressure (JNC).
@@ -15,10 +15,10 @@ Elevated systolic or diastolic pressure causes increased cardiovascular risk, an
 Relative risk reduction from blood pressure reduction is similar across populations with varying absolute risk, so the absolute benefit is greater in patients who are at higher risk independent of their hypertension (e.g., patients with diabetes or hyperlipidemia), and such patients would be expected to benefit from more aggressive treatment to a lower blood pressure goal.
 Some antihypertensive drugs have smaller blood pressure effects (as monotherapy) in black patients, and many antihypertensive drugs have additional approved indications and effects (e.g., on angina, heart failure, or diabetic kidney disease).
 These considerations may guide selection of therapy.
-Valsartan tablets USP may be used alone or in combination with other antihypertensive agents.
+Valsartan tablets may be used alone or in combination with other antihypertensive agents.
 
 ## 1.2 Heart Failure
 
-Valsartan tablets USP are indicated for the treatment of heart failure (NYHA class II-IV).
-In a controlled clinical trial, valsartan tablets USP significantly reduced hospitalizations for heart failure.
-There is no evidence that valsartan tablets USP provides added benefits when it is used with an adequate dose of an ACE inhibitor [see Clinical Studies (14.2)].
+Valsartan tablets are indicated for the treatment of heart failure (NYHA class II-IV).
+In a controlled clinical trial, valsartan tablets significantly reduced hospitalizations for heart failure.
+There is no evidence that valsartan tablets provides added benefits when it is used with an adequate dose of an ACE inhibitor [see Clinical Studies (14.2)].

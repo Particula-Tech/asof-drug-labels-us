@@ -64,7 +64,7 @@ No dosage adjustment is necessary [see Dosage and Administration (2.1)].
 Gender: Pharmacokinetics of valsartan does not differ significantly between males and females.
 
 Heart Failure: The average time to peak concentration and elimination half-life of valsartan in heart failure patients are similar to those observed in healthy volunteers.
-AUC and Cmax values of valsartan increase linearly and are almost proportional with increasing dose over the clinical dosing range (40 to 160 mg twice a day).
+AUC and Cmax values of valsartan increase linearly and are almost proportional with increasing dose over the clinical dosing range (40 mg to 160 mg twice a day).
 The average accumulation factor is about 1.7.
 The apparent clearance of valsartan following oral administration is approximately 4.5 L/h.
 Age does not affect the apparent clearance in heart failure patients.

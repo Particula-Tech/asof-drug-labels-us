@@ -2,16 +2,16 @@
 
 ## 2.1 Adult Hypertension
 
-The recommended starting dose of valsartan is 80 mg or 160 mg once daily when used as monotherapy in patients who are not volume-depleted.
+The recommended starting dose of valsartan tablets is 80 mg or 160 mg once daily when used as monotherapy in patients who are not volume-depleted.
 Patients requiring greater reductions may be started at the higher dose.
-Valsartan may be used over a dose range of 80 mg to 320 mg daily, administered once a day.
+Valsartan tablets may be used over a dose range of 80 mg to 320 mg daily, administered once a day.
 The antihypertensive effect is substantially present within 2 weeks and maximal reduction is generally attained after 4 weeks.
 If additional antihypertensive effect is required over the starting dose range, the dose may be increased to a maximum of 320 mg or a diuretic may be added.
 Addition of a diuretic has a greater effect than dose increases beyond 80 mg.
 No initial dosage adjustment is required for elderly patients, for patients with mild or moderate renal impairment, or for patients with mild or moderate liver insufficiency.
-Care should be exercised with dosing of valsartan in patients with hepatic or severe renal impairment.
-Valsartan may be administered with other antihypertensive agents.
-Valsartan may be administered with or without food.
+Care should be exercised with dosing of valsartan tablets in patients with hepatic or severe renal impairment.
+Valsartan tablets may be administered with other antihypertensive agents.
+Valsartan tablets may be administered with or without food.
 
 ## 2.2 Pediatric Hypertension 6 to 16 Years of Age
 
@@ -24,7 +24,7 @@ When the suspension is replaced by a tablet, the dose of valsartan may have to b
 The exposure to valsartan with the suspension is 1.6 times greater than with the tablet.
 
 No data are available in pediatric patients either undergoing dialysis or with a glomerular filtration rate <30 mL/min/1.73 m2[see Pediatric Use (8.4)].
-Valsartan is not recommended for patients <6 years old [see Adverse Reactions (6.1), Clinical Studies (14.1)].
+Valsartan tablets are not recommended for patients <6 years old [see Adverse Reactions (6.1), Clinical Studies (14.1)].
 
 Preparation of Suspension (for 160 mL of a 4 mg/mL suspension)
 

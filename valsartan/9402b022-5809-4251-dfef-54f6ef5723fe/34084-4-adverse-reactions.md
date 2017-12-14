@@ -53,7 +53,7 @@ Valsartan is not recommended for pediatric patients under 6 years of age.
 In a study (n=90) of pediatric patients (1 to 5 years), two deaths and three cases of on-treatment transaminase elevations were seen in the one-year open-label extension phase.
 These 5 events occurred in a study population in which patients frequently had significant co-morbidities.
 A causal relationship to valsartan has not been established.
-In a second study in which 75 children aged 1 to 6 years were randomized, no deaths and one case of marked liver transaminase elevations occurred during a 1 year open-label extension.
+In a second study of 6-months duration in 75 children aged 1 to 5 years, there were no deaths; one case of marked liver transaminase elevations occurred following 6 months of treatment.
 
 Heart Failure
 
