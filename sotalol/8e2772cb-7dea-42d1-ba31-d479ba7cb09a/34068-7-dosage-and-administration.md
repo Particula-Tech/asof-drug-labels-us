@@ -1,109 +1,116 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-As with other antiarrhythmic agents, sotalol hydrochloride tablets USP should be initiated and doses increased in a hospital with facilities for cardiac rhythm monitoring and assessment (see INDICATIONS AND USAGE).
-Sotalol hydrochloride tablets USP should be administered only after appropriate clinical assessment (see INDICATIONS AND USAGE), and the dosage of sotalol hydrochloride tablets USP must be individualized for each patient on the basis of therapeutic response and tolerance.
-Proarrhythmic events can occur not only at initiation of therapy, but also with each upward dosage adjustment.
+## 2.1 General Safety Measures for Initiation of Oral Sotalol Therapy
 
-## Adults
+Withdraw other antiarrhythmic therapy before starting sotalol hydrochloride tablets and monitor carefully for a minimum of 2 to 3 plasma half-lives if the patient's clinical condition permits [see Drug Interactions (7)].
 
-Dosage of sotalol hydrochloride tablets USP should be adjusted gradually, allowing 3 days between dosing increments in order to attain steady-state plasma concentrations, and to allow monitoring of QT intervals.
-Graded dose adjustment will help prevent the usage of doses which are higher than necessary to control the arrhythmia.
+Hospitalize patients initiated or re-initiated on sotalol for at least 3 days or until steady-state drug levels are achieved, in a facility that can provide cardiac resuscitation and continuous electrocardiographic monitoring.
+Initiate oral sotalol therapy in the presence of personnel trained in the management of serious arrhythmias.
+Perform a baseline ECG to determine the QT interval and measure and normalize serum potassium and magnesium levels before initiating therapy.
+Measure serum creatinine and calculate an estimated creatinine clearance in order to establish the appropriate dosing interval (insert cross ref to renal dosing).
+Continually monitor patients with each uptitration in dose, until they reach steady state.
+Determine QTc 2 to 4 hours after every dose.
+
+Discharge patients on sotalol therapy from an in-patient setting with an adequate supply of sotalol to allow uninterrupted therapy until the patient can fill a sotalol prescription.
+
+Advise patients who miss a dose to take the next dose at the usual time.
+Do not double the dose or shorten the dosing interval.
+
+## 2.2 Adult Dose for Ventricular Arrhythmias
+
 The recommended initial dose is 80 mg twice daily.
-This dose may be increased, if necessary, after appropriate evaluation to 240 or 320 mg/day (120 to 160 mg twice daily).
-In most patients, a therapeutic response is obtained at a total daily dose of 160 to 320 mg/day, given in two or three divided doses.
-Some patients with life-threatening refractory ventricular arrhythmias may require doses as high as 480 to 640 mg/day; however, these doses should only be prescribed when the potential benefit outweighs the increased risk of adverse events, in particular proarrhythmia.
-Because of the long terminal elimination half-life of sotalol hydrochloride tablets USP, dosing on more than a BID regimen is usually not necessary.
+This dose may be increased in increments of 80 mg per day every 3 days provided the QTc <500 msec [see Warnings and Precautions (5.1)].
+Continually monitor patients until steady state blood levels are achieved.
+In most patients, a therapeutic response is obtained at a total daily dose of 160 to 320 mg/day, given in two or three divided doses (because of the long terminal elimination half-life of sotalol, dosing more than a two times a day is usually not necessary).
+Oral doses as high as 480 to 640 mg/day have been utilized in patients with refractory life-threatening arrhythmias.
 
-## Children
+## 2.3 Adult Dose for Prevention of Recurrence of AFIB/AFL
 
-As in adults the following precautionary measures should be considered when initiating sotalol treatment in children: initiation of treatment in the hospital after appropriate clinical assessment; individualized regimen as appropriate; gradual increase of doses if required; careful assessment of therapeutic response and tolerability; and frequent monitoring of the QTc interval and heart rate.
+The recommended initial dose is 80 mg twice daily.
+This dose may be increased in increments of 80 mg per day every 3 days provided the QTc <500 msec [see Warnings and Precautions (5.1)].
+Continually monitor patients until steady state blood levels are achieved.
+Most patients will have satisfactory response with 120 mg twice daily.
+Initiation of sotalol in patients with creatinine clearance < 40 ml/min or QTc >450 is contraindicated [see Contraindications (4)].
 
-### For Children Aged About 2 Years and Greater
+## 2.4 Pediatric Dose for Ventricular Arrhythmias or AFIB/AFL
 
-For children aged about 2 years and greater, with normal renal function, doses normalized for body surface area are appropriate for both initial and incremental dosing.
-Since the Class III potency in children (see CLINICAL PHARMACOLOGY) is not very different from that in adults, reaching plasma concentrations that occur within the adult dose range is an appropriate guide.
-From pediatric pharmacokinetic data the following is recommended.
+Use the same precautionary measures for children as you would use for adults when initiating and re-initiating sotalol treatment.
+
+For children aged about 2 years and older
+
+For children aged about 2 years and older, with normal renal function, doses normalized for body surface area are appropriate for both initial and incremental dosing.
+Since the Class III potency in children is not very different from that in adults, reaching plasma concentrations that occur within the adult dose range is an appropriate guide [see Clinical Pharmacology (12.1, 12.3)].
+
+From pediatric pharmacokinetic data the following is recommended:
 
 For initiation of treatment, 30 mg/m2 three times a day (90 mg/m2 total daily dose) is approximately equivalent to the initial 160 mg total daily dose for adults.
 Subsequent titration to a maximum of 60 mg/m2 (approximately equivalent to the 360 mg total daily dose for adults) can then occur.
 Titration should be guided by clinical response, heart rate and QTc, with increased dosing being preferably carried out in-hospital.
 At least 36 hours should be allowed between dose increments to attain steady-state plasma concentrations of sotalol in patients with age-adjusted normal renal function.
 
-### For Children Aged about 2 Years or Younger
+For children aged about 2 years or younger
 
 For children aged about 2 years or younger, the above pediatric dosage should be reduced by a factor that depends heavily upon age, as shown in the following graph, age plotted on a logarithmic scale in months.
 
-For a child aged 20 months, the dosing suggested for children with normal renal function aged 2 years or greater should be multiplied by about 0.97; the initial starting dose would be (30 X 0.97) = 29.1 mg/m2, administered three times daily.
-For a child aged 1 month, the starting dose should be multiplied by 0.68; the initial starting dose would be (30 X 0.68) = 20 mg/m2, administered three times daily.
-For a child aged about 1 week, the initial starting dose should be multiplied by 0.3; the starting dose would be (30 X 0.3) = 9 mg/m2.
-Similar calculations should be made for increased doses as titration proceeds.
+For a child aged 20 months, the dosing suggested for children with normal renal function aged 2 years or greater should be multiplied by about 0.97; the initial starting dose would be (30 X 0.97)=29.1 mg/m2, administered three times daily.
+For a child aged 1 month, the starting dose should be multiplied by 0.68; the initial starting dose would be (30 X 0.68)=20 mg/m2, administered three times daily.
+For a child aged about 1 week, the initial starting dose should be multiplied by 0.3; the starting dose would be (30 X 0.3)=9 mg/m2.
+Use similar calculations for dose titration.
+
 Since the half-life of sotalol decreases with decreasing age (below about 2 years), time to steady-state will also increase.
 Thus, in neonates the time to steady-state may be as long as a week or longer.
 
-In all children, individualization of dosage is required.
-As in adults sotalol hydrochloride should be used with particular caution in children if the QTc is greater than 500 msec on therapy, and serious consideration should be given to reducing the dose or discontinuing therapy when QTc exceeds 550 msec.
+## 2.5 Dosage for Patients with Renal Impairment
 
-## Dosage in Renal Impairment
+Adults
 
-### Adults
+Use of sotalol in any age group with decreased renal function should be at lower doses or increased intervals between doses.
+It will take much longer to reach steady-state with any dose and/or frequency of administration.
+Closely monitor heart rate and QTc.
 
-Because sotalol is excreted predominantly in urine and its terminal elimination half-life is prolonged in conditions of renal impairment, the dosing interval (time between divided doses) of sotalol should be modified (when creatinine clearance is lower than 60 mL/min) according to the following table.
+Dose escalations in renal impairment should be done after administration of at least 5 doses at appropriate intervals (Table 1).
+Sotalol is partly removed by dialysis; specific advice is unavailable on dosing patients on dialysis.
 
-| Creatinine Clearance mL/min | DosingThe initial dose of 80 mg and subsequent doses should be administered at these intervals. See following paragraph for dosage escalations. Interval (hours) |
+The initial dose of 80 mg and subsequent doses should be administered at the intervals listed in Table 1 or Table 2.
+
+Table 1: Dosing Intervals for treatment of Ventricular Arrhythmias in renal impairment
+
+| Creatinine Clearance mL/min | Dosing Interval (hours) |
 | --- | --- |
 | > 60 | 12 |
 | 30 to 59 | 24 |
 | 10 to 29 | 36 to 48 |
 | < 10 | Dose should be individualized |
 
-Since the terminal elimination half-life of sotalol hydrochloride is increased in patients with renal impairment, a longer duration of dosing is required to reach steady-state.
-Dose escalations in renal impairment should be done after administration of at least 5 to 6 doses at appropriate intervals (see table above).
-Extreme caution should be exercised in the use of sotalol in patients with renal failure undergoing hemodialysis.
-The half-life of sotalol is prolonged (up to 69 hours) in anuric patients.
-Sotalol, however, can be partly removed by dialysis with subsequent partial rebound in concentrations when dialysis is completed.
-Both safety (heart rate, QT interval) and efficacy (arrhythmia control) must be closely monitored.
+Table 2: Dosing Intervals for treatment of AFIB/AFL in renal impairment
 
-### Children
+| Creatinine Clearance mL/min | Dosing Interval (hours) |
+| --- | --- |
+| > 60 | 12 |
+| 40 to 59 | 24 |
+| <40 | Contraindicated |
 
-The use of sotalol hydrochloride in children with renal impairment has not been investigated.
-Sotalol elimination is predominantly via the kidney in the unchanged form.
-Use of sotalol in any age group with decreased renal function should be at lower doses or at increased intervals between doses.
-Monitoring of heart rate and QTc is more important and it will take much longer to reach steady-state with any dose and/or frequency of administration.
+## 2.6 Preparation of Extemporaneous Oral Solution
 
-## Transfer to Sotalol Hydrochloride Tablets USP
+Sotalol hydrochloride syrup 5 mg/mL can be compounded using Simple Syrup containing 0.1% sodium benzoate (Syrup, NF) as follows:
 
-Before starting sotalol hydrochloride tablets USP, previous antiarrhythmic therapy should generally be withdrawn under careful monitoring for a minimum of 2 to 3 plasma half-lives if the patient’s clinical condition permits (see Drug Interactions).
-Treatment has been initiated in some patients receiving I.V. lidocaine without ill effect.
-After discontinuation of amiodarone, sotalol hydrochloride tablets USP should not be initiated until the QT interval is normalized (see WARNINGS).
-
-## Preparation of Extemporaneous Oral Solution
-
-Sotalol Hydrochloride Syrup 5 mg/mL can be compounded using Simple Syrup containing 0.1% sodium benzoate (Syrup, NF) available from Humco Laboratories as follows:
-
-- 1.Measure 120 mL of Simple Syrup.
-- 2.Transfer the syrup to a 6 ounce amber plastic (polyethylene terephthalate [PET]) prescription bottle.
-  NOTE: An oversized bottle is used to allow for a headspace, so that there will be more effective mixing during shaking of the bottle.
-- 3.Add five (5) sotalol hydrochloride tablets USP, 120 mg to the bottle.
-  These tablets are added intact; it is not necessary to crush the tablets.
-  NOTE: The addition of the tablets can also be done first.
-  The tablets can also be crushed if preferred.
-  If the tablets are crushed, care should be taken to transfer the entire quantity of tablet powder into the bottle containing the syrup.
-- 4.Shake the bottle to wet the entire surface of the tablets.
-  If the tablets have been crushed, shake the bottle until the endpoint is achieved.
-- 5.Allow the tablets to hydrate for at least two hours.
-- 6.After at least two hours have elapsed, shake the bottle intermittently over the course of at least another two hours until the tablets are completely disintegrated.
-  NOTE: The tablets can be allowed to hydrate overnight to simplify the disintegration process.
+1. 1.Measure 120 mL of Simple Syrup.
+2. 2.Transfer the syrup to a 6-ounce amber plastic (polyethylene terephthalate [PET]) prescription bottle.
+   An oversized bottle is used to allow for a headspace, so that there will be more effective mixing during shaking of the bottle.
+3. 3.Add five (5) sotalol hydrochloride 120 mg tablets to the bottle.
+   These tablets are added intact; it is not necessary to crush the tablets.
+   The addition of the tablets can also be done first.
+   The tablets can also be crushed if preferred.
+   If the tablets are crushed, care should be taken to transfer the entire quantity of tablet powder into the bottle containing the syrup.
+4. 4.Shake the bottle to wet the entire surface of the tablets.
+   If the tablets have been crushed, shake the bottle until the endpoint is achieved.
+5. 5.Allow the tablets to hydrate for at least two hours.
+6. 6.After at least two hours have elapsed, shake the bottle intermittently over the course of at least another two hours until the tablets are completely disintegrated.
+   The tablets can be allowed to hydrate overnight to simplify the disintegration process.
 
 The endpoint is achieved when a dispersion of fine particles in the syrup is obtained.
 
-This compounding procedure results in a solution containing 5 mg/mL of sotalol HCl.
+This compounding procedure results in a solution containing 5 mg/mL of sotalol hydrochloride.
 The fine solid particles are the water-insoluble inactive ingredients of the tablets.
 
-This extemporaneously prepared oral solution of sotalol HCl (with suspended inactive particles) must be shaken well prior to administration.
-This is to ensure that the amount of inactive solid particles per dose remains constant throughout the duration of use.
-
-Stability studies indicate that the suspension is stable for three months when stored at controlled room temperature, (15° to 30°C / 59° to 86°F) and ambient humidity.
-
-## Transfer to Betapace AF® from Sotalol
-
-Patients with a history of symptomatic AFIB/AFL who are currently receiving sotalol for the maintenance of normal sinus rhythm should be transferred to Betapace AF® because of the significant differences in labeling (i.e., patient package insert for Betapace AF®, dosing administration, and safety information).
+Stability studies indicate that the suspension is stable for three months when stored at 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature] and ambient humidity.

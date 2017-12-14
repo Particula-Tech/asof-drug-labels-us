@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL
+# Package/Label Display Panel
 
 ## Sotalol Hydrochloride Tablets USP 80 mg 100s Label Text
 
@@ -12,7 +12,7 @@ Rx only
 
 TEVA
 
-# PRINCIPAL DISPLAY PANEL
+# Package/Label Display Panel
 
 ## Sotalol Hydrochloride Tablets USP 120 mg 100s Label Text
 
@@ -26,7 +26,7 @@ Rx only
 
 TEVA
 
-# PRINCIPAL DISPLAY PANEL
+# Package/Label Display Panel
 
 ## Sotalol Hydrochloride Tablets USP 160 mg 100s Label Text
 
@@ -40,7 +40,7 @@ Rx only
 
 TEVA
 
-# PRINCIPAL DISPLAY PANEL
+# Package/Label Display Panel
 
 ## Sotalol Hydrochloride Tablets USP 240 mg 100s Label Text
 

@@ -1,5 +1,9 @@
-To minimize the risk of induced arrhythmia, patients initiated or reinitiated on sotalol should be placed for a minimum of three days (on their maintenance dose) in a facility that can provide cardiac resuscitation and continuous electrocardiographic monitoring.
-Creatinine clearance should be calculated prior to dosing.
-For detailed instructions regarding dose selection and special cautions for people with renal impairment, see DOSAGE AND ADMINISTRATION.
-Sotalol is also indicated for the maintenance of normal sinus rhythm [delay in time to recurrence of atrial fibrillation/atrial flutter (AFIB/AFL)] in patients with symptomatic AFIB/AFL who are currently in sinus rhythm and is marketed under the brand name Betapace AF®.
-Sotalol is not approved for the AFIB/AFL indication and should not be substituted for Betapace AF® because only Betapace AF® is distributed with a patient package insert that is appropriate for patients with AFIB/AFL.
+# WARNING: LIFE THREATENING PROARRHYTHMIA
+
+To minimize the risk of drug-induced arrhythmia, initiate or reinitiate oral sotalol in a facility that can provide cardiac resuscitation and continuous electrocardiographic monitoring.
+
+Sotalol can cause life threatening ventricular tachycardia associated with QT interval prolongation.
+
+If the QT interval prolongs to 500 msec or greater, reduce the dose, lengthen the dosing interval, or discontinue the drug.
+
+Calculate creatinine clearance to determine appropriate dosing [see Dosage and Administration (2.5)].
