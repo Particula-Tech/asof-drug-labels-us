@@ -35,8 +35,8 @@ Gabapentin Tablets Dosage Based on Renal Function
 | Renal Function Creatinine Clearance(mL/min) | Total Daily Dose Range(mg/day) | Dose Regimen(mg) |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | ≥60 | 900 to 3600 | 300 TID | 400 TID | 600 TID | 800 TID | 1200 TID |
-| >30-59 | 400 to 1400 | 200 BID | 300 BID | 400 BID | 500 BID | 700 BID |
-| >15-29 | 200 to 700 | 200 QD | 300 QD | 400 QD | 500 QD | 700 QD |
+| >30 to 59 | 400 to 1400 | 200 BID | 300 BID | 400 BID | 500 BID | 700 BID |
+| >15 to 29 | 200 to 700 | 200 QD | 300 QD | 400 QD | 500 QD | 700 QD |
 | 15a | 100 to 300 | 100 QD | 125 QD | 150 QD | 200 QD | 300 QD |
 | Post-Hemodialysis Supplemental Dose (mg)b |  |  |  |  |  |  |
 | Hemodialysis |  | 125b | 150b | 200b | 250b | 350b |
@@ -61,6 +61,6 @@ Because elderly patients are more likely to have decreased renal function, care 
 Administer gabapentin tablets orally with or without food.
 
 Inform patients that, should they divide the scored 600 mg or 800 mg gabapentin tablet in order to administer a half-tablet, they should take the unused half-tablet as the next dose.
-Half-tablets not used within 28 days of dividing the scored tablet should be discarded.
+Half-tablets not used within 28 days of breaking the scored tablet should be discarded.
 
 If the gabapentin dose is reduced, discontinued, or substituted with an alternative medication, this should be done gradually over a minimum of 1 week (a longer period may be needed at the discretion of the prescriber).

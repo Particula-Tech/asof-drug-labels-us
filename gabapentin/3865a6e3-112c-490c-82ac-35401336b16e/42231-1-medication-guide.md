@@ -4,10 +4,6 @@ Gabapentin Tablets USP
 
 (gab´´ a pen´ tin)
 
-Read the Medication Guide before you start taking gabapentin tablets and each time you get a refill.
-There may be new information.
-This information does not take the place of talking to your healthcare provider about your medical condition or treatment.
-
 What is the most important information I should know about gabapentin tablets?
 
 Do not stop taking gabapentin tablets without first talking to your healthcare provider.
@@ -16,62 +12,51 @@ Stopping gabapentin tablets suddenly can cause serious problems.
 
 Gabapentin tablets can cause serious side effects including:
 
-1.
-Suicidal Thoughts.
-Like other antiepileptic drugs,gabapentin tablets may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
-
-Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
-
-- •thoughts about suicide or dying
-- •attempts to commit suicide
-- •new or worse depression
-- •new or worse anxiety
-- •feeling agitated or restless
-- •panic attacks
-- •trouble sleeping (insomnia)
-- •new or worse irritability
-- •acting aggressive, being angry, or violent
-- •acting on dangerous impulses
-- •an extreme increase in activity and talking (mania)
-- •other unusual changes in behavior or mood
-
-How can I watch for early symptoms of suicidal thoughts and actions?
-
-- •Pay attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
-- •Keep all follow-up visits with your healthcare provider as scheduled.
-
-Call your healthcare provider between visits as needed, especially if you are worried about symptoms.
-
-Do not stop taking gabapentin tablets without first talking to a healthcare provider.
-
-- •Stopping gabapentin tablets suddenly can cause serious problems.
-  Stopping a seizure medicine suddenly in a patient who has epilepsy can cause seizures that will not stop (status epilepticus).
-- •Suicidal thoughts or actions can be caused by things other than medicines.
-  If you have suicidal thoughts or actions, your healthcare provider may check for other causes.
-
-2.
-Changes in behavior and thinking - Using gabapentin in children 3 to 12 years of age can cause emotional changes, aggressive behavior, problems with concentration, restlessness, changes in school performance, and hyperactivity.
-
-3.
-Gabapentin tablets may cause a serious or life-threatening allergic reaction that may affect your skin or other parts of your body such as your liver or blood cells.
-This may cause you to be hospitalized or to stop gabapentin.
-You may or may not have a rash with an allergic reaction caused by gabapentin.
-Call a healthcare provider right away if you have any of the following symptoms:
-
-- •skin rash
-- •hives
-- •difficulty breathing
-- •fever
-- •swollen glands that do not go away
-- •swelling of your face, lips, throat, or tongue
-- •yellowing of your skin or of the whites of the eyes
-- •unusual bruising or bleeding
-- •severe fatigue or weakness
-- •unexpected muscle pain
-- •frequent infections
-
-These symptoms may be the first signs of a serious reaction.
-A healthcare provider should examine you to decide if you should continue taking gabapentin tablets.
+1. 1.
+   Suicidal Thoughts.
+   Like other antiepileptic drugs, gabapentin tablets may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
+2. Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
+3. •thoughts about suicide or dying
+4. •attempts to commit suicide
+5. •new or worse depression
+6. •new or worse anxiety
+7. •feeling agitated or restless
+8. •panic attacks
+9. •trouble sleeping (insomnia)
+10. •new or worse irritability
+11. •acting aggressive, being angry, or violent
+12. •acting on dangerous impulses
+13. •an extreme increase in activity and talking (mania)
+14. •other unusual changes in behavior or mood
+15. How can I watch for early symptoms of suicidal thoughts and actions?
+16. •Pay attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
+17. •Keep all follow-up visits with your healthcare provider as scheduled.
+18. Call your healthcare provider between visits as needed, especially if you are worried about symptoms.
+19. Do not stop taking gabapentin tablets without first talking to a healthcare provider.
+20. •Stopping gabapentin tablets suddenly can cause serious problems.
+    Stopping a seizure medicine suddenly in a patient who has epilepsy can cause seizures that will not stop (status epilepticus).
+21. •Suicidal thoughts or actions can be caused by things other than medicines.
+    If you have suicidal thoughts or actions, your healthcare provider may check for other causes.
+22. 2.
+    Changes in behavior and thinking - Using gabapentin in children 3 to 12 years of age can cause emotional changes, aggressive behavior, problems with concentration, restlessness, changes in school performance, and hyperactivity.
+23. 3.
+    Gabapentin tablets may cause serious or life-threatening allergic reactions that may affect your skin or other parts of your body such as your liver or blood cells.
+    This may cause you to be hospitalized or to stop gabapentin.
+    You may or may not have a rash with an allergic reaction caused by gabapentin.
+    Call a healthcare provider right away if you have any of the following symptoms:
+24. •skin rash
+25. •hives
+26. •difficulty breathing
+27. •fever
+28. •swollen glands that do not go away
+29. •swelling of your face, lips, throat, or tongue
+30. •yellowing of your skin or of the whites of the eyes
+31. •unusual bruising or bleeding
+32. •severe fatigue or weakness
+33. •unexpected muscle pain
+34. •frequent infections
+35. These symptoms may be the first signs of a serious reaction.
+    A healthcare provider should examine you to decide if you should continue taking gabapentin tablets.
 
 What are gabapentin tablets?
 
@@ -96,14 +81,14 @@ Before taking gabapentin tablets, tell your healthcare provider if you:
   It is not known if gabapentin can harm your unborn baby.
   Tell your healthcare provider right away if you become pregnant while taking gabapentin tablets.
   You and your healthcare provider will decide if you should take gabapentin tablets while you are pregnant.
-- •If you become pregnant while taking gabapentin tablets, talk to your healthcare provider about registering with the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
+- oPregnancy Registry: If you become pregnant while taking gabapentin tablets, talk to your healthcare provider about registering with the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
   The purpose of this registry is to collect information about the safety of antiepileptic drugs during pregnancy.
   You can enroll in this registry by calling 1-888-233-2334.
 - •are breast-feeding or plan to breast-feed.
   Gabapentin can pass into breast milk.
   You and your healthcare provider should decide how you will feed your baby while you take gabapentin tablets.
 
-Tell your healthcare provider about all the medicines you take, including prescription and over-the counter medicines, vitamins, and herbal supplements.
+Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 
 Taking gabapentin with certain other medicines can cause side effects or affect how well they work.
 Do not start or stop other medicines without talking to your healthcare provider.
@@ -115,9 +100,9 @@ How should I take gabapentin tablets?
 
 - •Take gabapentin tablets exactly as prescribed.
   Your healthcare provider will tell you how much gabapentin to take.
-- •Do not change your dose of gabapentin tablets without talking to your healthcare provider.
-- •If you take gabapentin tablets and break a tablet in half, the unused half of the tablet should be taken at your next scheduled dose.
-  Half tablets not used within 28 days of breaking should be thrown away
+- oDo not change your dose of gabapentin tablets without talking to your healthcare provider.
+- oIf you take gabapentin tablets and break a tablet in half, the unused half of the tablet should be taken at your next scheduled dose.
+  Half tablets not used within 28 days of breaking should be thrown away.
 - •Gabapentin tablets can be taken with or without food.
   If you take an antacid containing aluminum and magnesium, such as Maalox®, Mylanta®, Gelusil®, Gaviscon®, or Di-Gel®, you should wait at least 2 hours before taking your next dose of gabapentin tablets.
 
@@ -164,7 +149,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store gabapentin tablets?
 
-- •Store gabapentin tablets between at 68° and 77°F (20° to 25°C).
+- •Store gabapentin tablets at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 
 Keep gabapentin tablets and all medicines out of the reach of children.
 
@@ -183,7 +168,7 @@ For more information call 1(888)721-7115.
 
 What are the ingredients in gabapentin tablets?
 
-Active ingredient: gabapentin
+Active ingredient: gabapentin USP
 
 Inactive ingredients corn starch, copovidone, poloxamer 407, magnesium stearate, polyethylene glycol, talc, hypromellose, titanium dioxide, macrogol, polysorbate 80 and purified water.
 
@@ -202,4 +187,4 @@ Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430
 Questions?
 1 (888)721-7115 www.glenmarkpharma.com/usa
 
-October 2015
+December 2017

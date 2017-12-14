@@ -3,7 +3,7 @@
 ## 12.1 Mechanism of Action
 
 The precise mechanisms by which gabapentin produces its analgesic and antiepileptic actions are unknown.
-Gabapentin is structurally related to the neurotransmitter gamma-aminobutyric acid (GABA) but has no effect on GABA binding, uptake or degradation.
+Gabapentin is structurally related to the neurotransmitter gamma-aminobutyric acid (GABA) but has no effect on GABA binding, uptake, or degradation.
 In vitro studies have shown that gabapentin binds with high-affinity to the α2δ subunit of voltage-activated calcium channels; however, the relationship of this binding to the therapeutic effects of gabapentin is unknown.
 
 ## 12.3 Pharmacokinetics
@@ -61,7 +61,7 @@ Gabapentin elimination half-life averaged 4.7 hours and was similar across the a
 
 A population pharmacokinetic analysis was performed in 253 pediatric subjects between 1 month and 13 years of age.
 Patients received 10 to 65 mg/kg/day given three times a day.
-Apparent oral clearance (CL/F) was directly proportional to creatinine clearance and this relationship was similar following a single dose and at steady state.
+Apparent oral clearance (CL/F) was directly proportional to creatinine clearance and this relationship was similar following a single dose and at steady-state.
 Higher oral clearance values were observed in children <5 years of age compared to those observed in children 5 years of age and older, when normalized per body weight.
 The clearance was highly variable in infants <1 year of age.
 The normalized CL/F values observed in pediatric patients 5 years of age and older were consistent with values observed in adults after a single dose.
@@ -73,7 +73,7 @@ Adult Patients with Renal Impairment
 
 Subjects (N=60) with renal impairment (mean creatinine clearance ranging from 13 to 114 mL/min) were administered single 400 mg oral doses of gabapentin.
 The mean gabapentin half-life ranged from about 6.5 hours (patients with creatinine clearance >60 mL/min) to 52 hours (creatinine clearance <30 mL/min) and gabapentin renal clearance from about 90 mL/min (>60 mL/min group) to about 10 mL/min (<30 mL/min).
-Mean plasma clearance (CL/F) decreased from approximately 190 mL/min to 20 mL/min [see Dosage and Administration (2.3) and Use in Specific Populations (8.6)].
+Mean plasma clearance (CL/F) decreased from approximately 190 mL/min to 20 mL/min [see Dosage and Administration (2.2) and Use in Specific Populations (8.6)].
 Pediatric patients with renal insufficiency have not been studied.
 
 Hemodialysis
@@ -117,7 +117,7 @@ Drug Interactions
   Morphine pharmacokinetic parameter values were not affected by administration of gabapentin 2 hours after morphine.
   The magnitude of interaction at other doses is not known.
 - Cimetidine
-- In the presence of cimetidine at 300 mg QID (N=12), the mean apparent oral clearance of gabapentin fell by 14% and creatinine clearance fell by 10%.
+- In the presence of cimetidine at 300 mg four times a day (N=12), the mean apparent oral clearance of gabapentin fell by 14% and creatinine clearance fell by 10%.
   Thus, cimetidine appeared to alter the renal excretion of both gabapentin and creatinine, an endogenous marker of renal function.
   This small decrease in excretion of gabapentin by cimetidine is not expected to be of clinical importance.
   The effect of gabapentin on cimetidine was not evaluated.

@@ -36,7 +36,10 @@ Weekly Mean Pain Scores (Observed Cases in ITT Population): Study 1
 Figure 2.
 Weekly Mean Pain Scores (Observed Cases in ITT Population): Study 2
 
-The proportion of responders (those patients reporting at least 50% improvement in endpoint pain score compared with baseline) was calculated for each study (Figure 3).
+The proportion of responders (those patients reporting at least 50% improvement in endpoint pain score compared to baseline) was calculated for each study (Figure 3).
+
+Figure 3.
+Proportion of Responders (patients with ≥50% reduction in pain score) at Endpoint: Controlled PHN Studies
 
 ## 14.2 Epilepsy for Partial Onset Seizures (Adjunctive Therapy)
 
