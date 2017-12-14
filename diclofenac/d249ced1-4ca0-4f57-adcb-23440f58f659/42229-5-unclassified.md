@@ -1,6 +1,6 @@
-# 13 NON-CLINICAL TOXICOLOGY
+# 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis, Mutagenesis, and Impairment of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Carcinogenesis Long term carcinogenicity studies in rats given diclofenac sodium up to 2 mg/kg/day (less than the recommended human dose [RHD] of 50 mg/day on a body surface area [mg/m2] basis) have revealed no significant increases in tumor incidence.
 There was a slight increase in benign mammary fibroadenomas in mid- dose treated (0.5 mg/kg/day or 3 mg/m2/day) female rats (high-dose females had excessive mortality), but the increase was not significant for this common rat tumor.

@@ -10,9 +10,9 @@ The following serious adverse reactions are discussed in greater detail in other
 - Renal Toxicity and Hyperkalemia [see Warnings and Precautions (5.6)]
 - Anaphylactic Reactions [see Warnings and Precautions (5.7)]
 - Serious Skin Reactions [see Warnings and Precautions (5.9)]
-- Hematologic Toxicity [see Warnings and Precautions (5.11)]
+- Hematologic Toxicity [see Warnings and Precautions (5.12)]
 
-## 6.1 Clinical Trial Experience
+## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
@@ -23,9 +23,8 @@ The most common adverse reactions (i.e., that occurred in 1% or more of CAMBIA-t
 
 Table 1: Adverse Reactions With Incidence >1% and Greater Than Placebo in Studies 1 and 2 Combined
 
-| Adverse Reactions | CAMBIA | Placebo |
+| Adverse Reactions | CAMBIA N=634 | Placebo N=646 |
 | --- | --- | --- |
-|  | N=634 | N=646 |
 | Gastrointestinal |  |  |
 | Nausea | 3% | 2% |
 | Nervous System |  |  |
