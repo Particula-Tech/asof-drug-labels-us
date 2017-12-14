@@ -1,44 +1,86 @@
 # ADVERSE REACTIONS
 
 Adverse reaction rates increase with higher doses of ketorolac tromethamine.
-Practitioners should be alert for the severe complications of treatment with ketorolac tromethamine, such as GI ulceration, bleeding and perforation, postoperative bleeding, acute renal failure, anaphylactic and anaphylactoid reactions and liver failure (see Boxed WARNING, WARNINGS, PRECAUTIONS and DOSAGE AND ADMINISTRATION).
+Practitioners should be alert for the severe complications of treatment with ketorolac tromethamine, such as GI ulceration, bleeding and perforation, postoperative bleeding, acute renal failure, anaphylactic and anaphylactoid reactions and liver failure (see Boxed WARNING, WARNINGS, PRECAUTIONS, and DOSAGE AND ADMINISTRATION).
 These NSAID-related complications can be serious in certain patients for whom ketorolac tromethamine is indicated, especially when the drug is used inappropriately.
 
-The Adverse Reactions Listed Below Were Reported In Clinical Trials As Probably Related To Ketorolac Tromethamine:
+In patients taking ketorolac tromethamine or other NSAIDs in clinical trials, the most frequently reported adverse experiences in approximately 1% to 10% of patients are:
 
-- Incidence Greater Than 1% Percentage of incidence in parentheses for those events reported in 3% or more patients
+| Gastrointestinal (GI) experiences including: |  |  |
+| --- | --- | --- |
+| abdominal pain | constipation/diarrhea | dyspepsia |
+| flatulence | GI fullness | GI ulcers (gastric/duodenal) |
+| gross bleeding/perforation | heartburn | nausea* |
+| stomatitis | vomiting |  |
+| Other experiences: |  |  |
+| abnormal renal function | anemia | dizziness |
+| drowsiness | edema | elevated liver enzymes |
+| headaches* | hypertension | increased bleeding time |
+| injection site pain | pruritus | purpura |
+| rashes | tinnitus | sweating |
 
-| Body as a Whole: | edema (4%) |
-| --- | --- |
-| Cardiovascular: | hypertension |
-| Dermatologic: | pruritus, rash |
-| Gastrointestinal: | nausea (12%), dyspepsia (12%), gastrointestinal pain (13%), diarrhea (7%), constipation, flatulence, gastrointestinal fullness, vomiting, stomatitis |
-| Hemic and Lymphic: | purpura |
-| Nervous System: | headache (17%), drowsiness (6%), dizziness (7%), sweating |
-| Injection-site pain was reported by 2% of patients in multi-dose studies. |  |
+*Incidence greater than 10%
 
-- Incidence 1% or Less
+Additional adverse experiences reported occasionally (<1% in patients taking ketorolac tromethamine or other NSAIDs in clinical trials) include:
 
-| Body as a Whole: | weight gain, fever, infections, asthenia |
-| --- | --- |
-| Cardiovascular: | palpitation, pallor, syncope |
-| Dermatologic: | urticaria |
-| Gastrointestinal: | gastritis, rectal bleeding, eructation, anorexia, increased appetite |
-| Hemic and Lymphatic: | epistaxis, anemia, eosinophilia |
-| Nervous System: | tremors, abnormal dreams, hallucinations, euphoria, extrapyramidal symptoms, vertigo, paresthesia, depression, insomnia, nervousness, excessive thirst, dry mouth, abnormal thinking, inability to concentrate, hyperkinesis, stupor |
-| Respiratory: | dyspnea, pulmonary edema, rhinitis, cough |
-| Special Senses: | abnormal taste, abnormal vision, blurred vision, tinnitus, hearing loss |
-| Urogenital: | hematuria, proteinuria, olguria, urinary retention, polyuria, increased urinary frequency |
+Body as a Whole: fever, infections, sepsis
 
-The Following Adverse Events Were Reported From Postmarketing Experience:
+Cardiovascular: congestive heart failure, palpitation, pallor, tachycardia, syncope
 
-| Body as a Whole: | hypersensitivity reactions such as anaphylaxis, anaphylactoid reactions, laryngeal edema, tongue edema (see Boxed WARNING, WARNINGS), angioedema, myalgia |
-| --- | --- |
-| Cardiovascular: | hypotension, flushing |
-| Dermatologic: | Lyell's syndrome, Stevens-Johnson syndrome, exfoliative dermatitis, maculopapular rash, urticaria |
-| Gastrointestinal: | peptic ulceration, GI hemorrhage, GI perforation (see Boxed WARNING, WARNINGS), melena, acute pancreatitis, hematemesis, esophagitis |
-| Hemic and Lymphatic: | postoperative wound hemorrhage (rarely requiring blood transfusion—see Boxed WARNING, WARNINGS and PRECAUTIONS), thrombocytopenia, leukopenia |
-| Hepatic: | hepatitis, liver failure, cholestatic jaundice |
-| Nervous System: | convulsions, psychosis, aseptic meningitis |
-| Respiratory: | asthma, bronchospasm |
-| Urogenital: | acute renal failure (see Boxed WARNING, WARNINGS), flank pain with or without hematuria and/or azotemia, interstitial nephritis, hyponatremia, hyperkalemia, hemolytic uremic syndrome |
+Dermatologic: alopecia, photosensitivity, urticaria
+
+Gastrointestinal: anorexia, dry mouth, eructation, esophagitis, excessive thirst, gastritis, glossitis, hematemesis, hepatitis, increased appetite, jaundice, melena, rectal bleeding
+
+Hemic and Lymphatic: ecchymosis, eosinophilia, epistaxis, leukopenia, thrombocytopenia
+
+Metabolic and Nutritional: weight change
+
+Nervous System: abnormal dreams, abnormal thinking, anxiety, asthenia, confusion, depression, euphoria, extrapyramidal symptoms, hallucinations, hyperkinesis, inability to concentrate, insomnia, nervousness, paresthesia, somnolence, stupor, tremors, vertigo, malaise
+
+Reproductive, female: infertility
+
+Respiratory: asthma, cough, dyspnea, pulmonary edema, rhinitis
+
+Special Senses: abnormal taste, abnormal vision, blurred vision, hearing loss
+
+Urogenital: cystitis, dysuria, hematuria, increased urinary frequency, interstitial nephritis, oliguria/polyuria, proteinuria, renal failure, urinary retention
+
+Other rarely observed reactions (reported from postmarketing experience in patients taking ketorolac tromethamine or other NSAIDs) are:
+
+Body as a Whole: angioedema, death, hypersensitivity reactions such as anaphylaxis, anaphylactoid reaction, laryngeal edema, tongue edema (see WARNINGS), myalgia
+
+Cardiovascular: arrhythmia, bradycardia, chest pain, flushing, hypotension, myocardial infarction, vasculitis
+
+Dermatologic: exfoliative dermatitis, erythema multiforme, Lyell’s syndrome, bullous reactions including Stevens-Johnson syndrome and toxic epidermal necrolysis
+
+Gastrointestinal: acute pancreatitis, liver failure, ulcerative stomatitis, exacerbation of inflammatory bowel disease (ulcerative colitis, Crohn’s disease)
+
+Hemic and Lymphatic: agranulocytosis, aplastic anemia, hemolytic anemia, lymphadenopathy, pancytopenia, post operative wound hemorrhage (rarely requiring blood transfusion — see Boxed WARNING, WARNINGS, and PRECAUTIONS)
+
+Metabolic and Nutritional: hyperglycemia, hyperkalemia, hyponatremia
+
+Nervous System: aseptic meningitis, convulsions, coma, psychosis
+
+Respiratory: bronchospasm, respiratory depression, pneumonia
+
+Special Senses: conjunctivitis
+
+Urogenital: flank pain with or without hematuria and/or azotemia, hemolytic uremic syndrome
+
+Postmarketing Surveillance Study
+
+A large postmarketing observational, nonrandomized study, involving approximately 10,000 patients receiving ketorolac tromethamine, demonstrated that the risk of clinically serious gastrointestinal (GI) bleeding was dose-dependent (see Tables 3A and 3B).
+This was particularly true in elderly patients who received an average daily dose greater than 60 mg/day of ketorolac tromethamine (see Table 3A).
+
+| Table 3 Incidence of Clinically Serious GI Bleeding as Related To Age, Total Daily Dose, and History of GI Perforation, Ulcer, Bleeding (PUB) After up to 5 Days of Treatment with Ketorolac Tromethamine Injection |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| A. Adult Patients Without History of PUB |  |  |  |  |
+| Age of Patients | Total Daily Dose of Ketorolac Tromethamine Injection |  |  |  |
+|  | ≤ 60 mg | >60 to 90 mg | >90 to 120 mg | >120 mg |
+| <65 years of age | 0.4% | 0.4% | 0.9% | 4.6% |
+| ≥65 years of age | 1.2% | 2.8% | 2.2% | 7.7% |
+| B. Adult Patients With History of PUB |  |  |  |  |
+| Age of Patients | Total Daily Dose of Ketorolac Tromethamine Injection |  |  |  |
+|  | ≤ 60 mg | >60 to 90 mg | >90 to 120 mg | >120 mg |
+| <65 years of age | 2.1% | 4.6% | 7.8% | 15.4% |
+| ≥65 years of age | 4.7% | 3.7% | 2.8% | 25.0% |

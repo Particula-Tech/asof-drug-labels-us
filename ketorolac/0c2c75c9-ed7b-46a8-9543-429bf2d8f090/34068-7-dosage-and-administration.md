@@ -1,61 +1,52 @@
 # DOSAGE AND ADMINISTRATION
 
-IN ADULTS, THE COMBINED DURATION OF USE OF KETOROLAC TROMETHAMINE INJECTION AND KETOROLAC TROMETHAMINE TABLETS IS NOT TO EXCEED FIVE (5) DAYS.
-IN ADULTS, THE USE OF KETOROLAC TROMETHAMINE TABLETS IS ONLY INDICATED AS CONTINUATION THERAPY TO KETOROLAC TROMETHAMINE INJECTION.
+Carefully consider the potential benefits and risks of ketorolac tromethamine and other treatment options before deciding to use ketorolac tromethamine.
+Use the lowest effective dose for the shortest duration consistent with individual patient treatment goals.
+In adults, the combined duration of use of intravenous or intramuscular dosing of ketorolac tromethamine and oral ketorolac tromethamine is not to exceed 5 days.
+In adults, the use of oral ketorolac tromethamine is only indicated as continuation therapy to intravenous or intramuscular dosing of ketorolac tromethamine.
+See package insert for ketorolac tromethamine tablets for transition from intravenous or intramuscular dosing of ketorolac tromethamine (single- or multiple-dose) to multiple-dose oral ketorolac tromethamine.
 
-## Ketorolac Tromethamine Injection
+Note: Oral formulation should not be given as an initial dose.
 
-### ADULT PATIENTS
+Use minimum effective dose for the individual patient.
 
-Ketorolac Tromethamine Injection may be used as a single or multiple dose on a regular or “prn” schedule for the management of moderately severe acute pain that requires analgesia at the opioid level, usually in a postoperative setting.
-Hypovolemia should be corrected prior to the administration of ketorolac tromethamine (see WARNINGS - RENAL EFFECTS).
-Patients should be switched to alternative analgesics as soon as possible, but ketorolac tromethamine therapy is not to exceed five (5) days.
+Total duration of treatment in adult patients: the combined duration of use of intravenous or intramuscular dosing of ketorolac tromethamine and oral ketorolac tromethamine is not to exceed 5 days.
 
-When administering Ketorolac Tromethamine Injection, the IV bolus must be given over no less than 15 seconds.
-The IM administration should be given slowly and deeply into the muscle.
-The analgesic effect begins in ~30 minutes with maximum effect in 1 to 2 hours after dosing IV or IM.
+Ketorolac Tromethamine Injection
+
+Ketorolac tromethamine injection may be used as a single or multiple dose on a regular or “prn” schedule for the management of moderately severe, acute pain that requires analgesia at the opioid level, usually in a postoperative setting.
+Hypovolemia should be corrected prior to the administration of ketorolac tromethamine (see WARNINGS – Renal Effects).
+Patients should be switched to alternative analgesics as soon as possible, but ketorolac tromethamine therapy is not to exceed 5 days.
+
+When administering ketorolac tromethamine injection, the intravenous bolus must be given over no less than 15 seconds.
+The intramuscular administration should be given slowly and deeply into the muscle.
+The analgesic effect begins in ~30 minutes with maximum effect in 1 to 2 hours after dosing intravenous or intramuscular.
 Duration of analgesic effect is usually 4 to 6 hours.
 
-## Single-Dose Treatment: The Following Regimen Should Be Limited to Single Administration Use Only
+Single-Dose Treatment: The following regimen should be limited to single administration use only
 
-### ADULT PATIENTS
+Intramuscular Dosing
 
-#### IM Dosing:
-
-- Patients < 65 years of age: One dose of 60 mg.
+- Patients <65 years of age: One dose of 60 mg.
 - Patients ≥ 65 years of age, renally impaired and/or less than 50 kg (110 lbs) of body weight: One dose of 30 mg.
 
-#### IV Dosing:
+Intravenous Dosing
 
-- Patients < 65 years of age: One dose of 30 mg.
+- Patients <65 years of age: One dose of 30 mg.
 - Patients ≥ 65 years of age, renally impaired and/or less than 50 kg (110 lbs) of body weight: One dose of 15 mg.
 
-### PEDIATRIC PATIENTS (2 TO 16 YEARS OF AGE):
+Multiple-Dose Treatment (Intravenous or Intramuscular)
 
-The pediatric population should receive only a single dose of Ketorolac Tromethamine Injection, as follows:
-
-#### IM Dosing:
-
-- One dose of 1 mg/kg up to a maximum of 30 mg.
-
-#### IV Dosing:
-
-- One dose of 0.5 mg/kg up to a maximum of 15 mg.
-
-## Multiple-Dose Treatment (IV or IM) in Adults
-
-- Patients < 65 years of age: The recommended dose is 30 mg Ketorolac Tromethamine Injection every 6 hours.
-  The maximum daily dose should not exceed 120 mg.
-- For patients ≥ 65 years of age, renally impaired patients (see WARNINGS) and patients less than 50 Kg (110 lbs): The recommended dose is 15 mg Ketorolac Tromethamine Injection every 6 hours.
+- Patients <65 years of age: The recommended dose is 30 mg ketorolac tromethamine injection every 6 hours.
+  The maximum daily dose for these populations should not exceed 120 mg.
+- For patients ≥ 65 years of age, renally impaired patients (see WARNINGS), and patients less than 50 kg (110 lbs): The recommended dose is 15 mg ketorolac tromethamine injection every 6 hours.
   The maximum daily dose for these populations should not exceed 60 mg.
 
-For breakthrough pain do not increase the dose or the frequency of ketorolac tromethamine.
-Consideration should be given to supplementing these regimens with low doses of opioids prn unless otherwise contraindicated.
+For breakthrough pain, do not increase the dose or the frequency of ketorolac tromethamine.
+Consideration should be given to supplementing these regimens with low doses of opioids “prn” unless otherwise contraindicated.
 
-## Pharmaceutical Information for Ketorolac Tromethamine Injection
+Pharmaceutical Information for Ketorolac Tromethamine Injection
 
-Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
+Ketorolac tromethamine injection should not be mixed in a small volume (e.g., in a syringe) with morphine sulfate, meperidine hydrochloride, promethazine hydrochloride or hydroxyzine hydrochloride; this will result in precipitation of ketorolac from solution.
 
-Ketorolac Tromethamine Injection should not be mixed in a small volume (e.g., in a syringe) with morphine sulfate, meperidine hydrochloride, promethazine hydrochloride or hydroxyzine hydrochloride; this will result in precipitation of ketorolac from solution.
-
-Shortening the recommended dosing intervals may result in increased frequency and severity of adverse reactions.
+NOTE: Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.

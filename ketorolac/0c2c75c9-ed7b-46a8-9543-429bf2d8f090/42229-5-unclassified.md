@@ -1,11 +1,11 @@
-To report SUSPECTED ADVERSE REACTIONS, contact West-Ward Pharmaceutical Corp. at 1-877-845-0689, or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
-
-For Product Inquiry call 1-877-845-0689.
-
 Manufactured by:
 
-WEST-WARD PHARMACEUTICALS Eatontown, NJ 07724 USA
+WEST-WARD
 
-Revised July 2011
+A HIKMA COMPANY
 
-462-103-02
+Eatontown, NJ 07724 USA
+
+Revised September 2017
+
+462-103-04
