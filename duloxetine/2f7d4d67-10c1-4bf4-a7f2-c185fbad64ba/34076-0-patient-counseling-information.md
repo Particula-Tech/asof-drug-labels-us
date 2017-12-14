@@ -57,9 +57,9 @@ See FDA-approved patient labeling (Medication Guide).
   Although in controlled studies CYMBALTA has not been shown to impair psychomotor performance, cognitive function, or memory, it may be associated with sedation and dizziness.
   Therefore, caution patients about operating hazardous machinery including automobiles, until they are reasonably certain that CYMBALTA therapy does not affect their ability to engage in such activities.
 
-Literature revised October 2016
+Literature revised December 2017
 
-Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA Copyright © 2004, 2016, Eli Lilly and Company.
+Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA Copyright © 2004, 2017, Eli Lilly and Company.
 All rights reserved.
 
-CYM-0008-USPI-20161024
+CYM-0009-USPI-20171213
