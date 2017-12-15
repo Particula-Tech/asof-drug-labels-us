@@ -76,15 +76,14 @@ Does not contain polysorbate 80 or benzul alcohol.
 DOSAGE: See package insert for complete information on dosage and administration.
 
 STORAGE: Store at 20º to 25º C (68º to 77º F); excursions permitted to 15º to 30º C (59º to 86º F). See USP Controlled Room Temperature.
-Protect from freezing.
-Avoid excessive heat.
+Protect from freezing.Avoid excessive heat.
 USE CARTON TO PROTECT CONTENTS FROM LIGHT UNTIL USE.
 
 Baxter, Galaxy and Nexterone are trademarks of Baxter International Inc.
 
 Baxter Healthcare Corporation Deerfield, IL 60015 USA
 
-07-01-72-797
+07-01-77-679
 
 NDC 43066-150-10 For Intravenous Use
 
