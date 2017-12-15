@@ -28,7 +28,7 @@ Pediatric patients
 
 This product should not be administered to patients requiring less than one million units per dose
 
-(see Precautions-Pediatric Use).
+(see PRECAUTIONS-Pediatric Use).
 
 | CLINICAL INDICATION | DOSAGE |
 | --- | --- |

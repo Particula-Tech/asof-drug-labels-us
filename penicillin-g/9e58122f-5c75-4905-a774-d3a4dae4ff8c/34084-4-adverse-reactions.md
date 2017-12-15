@@ -5,12 +5,12 @@ The reaction begins one to two hours after initiation of therapy and disappears 
 It is characterized by fever, chills, myalgias, headache, exacerbation of cutaneous lesions, tachycardia, hyperventilation, vasodilation with flushing and mild hypotension.
 The pathogenesis of the Herxheimer reaction may be due to the release from the spirochetes of heat-stable pyrogen.
 
-Hypersensitivity reactions: The reported incidence of allergic reactions to all penicillins ranges from 0.7 to 10 percent in different studies (see Warnings).
+Hypersensitivity reactions: The reported incidence of allergic reactions to all penicillins ranges from 0.7 to 10 percent in different studies (see WARNINGS).
 Sensitization is usually the result of previous treatment with a penicillin, but some individuals have had immediate reactions when first treated.
 In such cases, it is postulated that prior exposure to penicillin may have occurred via trace amounts present in milk or vaccines.
 
 Two types of allergic reactions to penicillin are noted clinically - immediate and delayed.
-Immediate reactions usually occur within 20 minutes of administration and range in severity from urticaria and pruritus to angioneurotic edema, laryngospasm, bronchospasm, hypotension, vascular collapse and death (see Warnings).
+Immediate reactions usually occur within 20 minutes of administration and range in severity from urticaria and pruritus to angioneurotic edema, laryngospasm, bronchospasm, hypotension, vascular collapse and death (see WARNINGS).
 Such immediate anaphylactic reactions are very rare and usually occur after parenteral therapy, but a few cases of anaphylaxis have been reported following oral therapy.
 Another type of immediate reaction, an accelerated reaction, may occur between 20 minutes and 48 hours after administration and may include urticaria, pruritus, fever and, occasionally, laryngeal edema.
 

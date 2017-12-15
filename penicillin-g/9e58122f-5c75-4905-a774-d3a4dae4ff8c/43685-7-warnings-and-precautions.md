@@ -23,7 +23,7 @@ Appropriate fluid and electrolyte management, protein supplementation, antibioti
 
 ## General
 
-Penicillin should be used with caution in individuals with histories of significant allergies and/or asthma (see Warnings).
+Penicillin should be used with caution in individuals with histories of significant allergies and/or asthma (see WARNINGS).
 Whenever allergic reactions occur, penicillin should be withdrawn unless, in the opinion of the physician, the condition being treated is life-threatening and amenable only to penicillin therapy.
 Penicillin G Potassium, USP by the intravenous route in high doses (above 10 million units) should be administered slowly because of the potential adverse effects of electrolyte imbalance from the potassium content of the penicillin.
 Penicillin G Potassium Injection, USP contains 1.7 mEq potassium and 1.02 mEq of sodium per million units.
@@ -36,8 +36,8 @@ Prescribing Penicillin G Potassium Injection, USP in the absence of a proven or 
 
 ## Laboratory Tests
 
-Periodic assessment of organ system function, including frequent evaluation of electrolyte balance, hepatic, renal and hematopoietic systems, and cardiac and vascular status should be performed during prolonged therapy with high doses of intravenous penicillin G (see Adverse Reactions).
-If any impairment of function is suspected or known to exist, a reduction in the total dosage should be considered (see Dosage and Administration).
+Periodic assessment of organ system function, including frequent evaluation of electrolyte balance, hepatic, renal and hematopoietic systems, and cardiac and vascular status should be performed during prolonged therapy with high doses of intravenous penicillin G (see ADVERSE REACTIONS).
+If any impairment of function is suspected or known to exist, a reduction in the total dosage should be considered (see DOSAGE AND ADMINISTRATION).
 In suspected staphylococcal infections, proper laboratory studies, including susceptibility tests should be performed.
 All infections due to Group A beta-hemolytic streptococci should be treated for at least 10 days.
 
@@ -66,10 +66,6 @@ No long term animal studies have been conducted with this drug.
 
 ## Pregnancy
 
-### Teratogenic Effects
-
-#### Pregnancy Category B
-
 Reproduction studies performed in the mouse, rat and rabbit have revealed no evidence of impaired fertility or harm to the fetus due to penicillin G. Human experience with the penicillins during pregnancy has not shown any positive evidence of adverse effects on the fetus.
 There are, however, no adequate and well controlled studies in pregnant women showing conclusively that harmful effects of these drugs on the fetus can be excluded.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
@@ -82,7 +78,7 @@ Caution should be exercised when penicillins are administered to a nursing woman
 ## Pediatric Use
 
 Incompletely developed renal function in newborns may delay elimination of penicillin; therefore, appropriate reductions in the dosage and frequency of administration should be made in these patients.
-All newborns treated with penicillins should be monitored closely for clinical and laboratory evidence of toxic or adverse effects (see Precautions).
+All newborns treated with penicillins should be monitored closely for clinical and laboratory evidence of toxic or adverse effects (see PRECAUTIONS).
 
 Pediatric doses are generally determined on a weight basis and should be calculated for each patient individually.
 Recommended guidelines for pediatric dosages are presented in Dosage and Administration.

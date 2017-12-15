@@ -48,7 +48,7 @@ Penicillin G is no longer considered a drug of choice for infections caused by t
 ## Susceptibility Test Methods
 
 When available, the clinical microbiology laboratory should provide the cumulative reports of in vitro susceptibility test results for antimicrobial drugs used in local hospitals and practice areas to the physician as periodic reports that describe the susceptibility profile of nosocomial and community‑acquired pathogens.
-These reports should aid the physician in selecting an antibacterial drug for treatment.
+These reports should aid in the selection of an antibacterial drug for treatment.
 
 Dilution Techniques
 
@@ -66,7 +66,7 @@ The disk diffusion interpretive criteria are provided in Table 1.
 
 Table 1: Susceptibility Test Interpretive Criteria for Penicillin
 
-|  | MIC (mcg/mL) |  |  | Disk Diffusion (zone diameter in mm)Organisms for which no values for disk susceptibility appear cannot be reliably tested with this method. |  |  |
+|  | Minimum Inhibitory Concentrations (mcg/mL) |  |  | Disk Diffusion (zone diameter in mm)Organisms for which no values for disk susceptibility appear cannot be reliably tested with this method. |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Pathogen | Susceptible (S) | Intermediate (I) | Resistant (R) | Susceptible (S) | Intermediate (I) | Resistant (R) |
 | Staphylococcus spp. | ≤ 0.12Penicillin-resistant strains of staphylococci produce β-lactamase. An induced β-lactamase test should be performed on all S. aureus isolates for which the penicillin MIC is ≤0.12 mcg/mL or zone diameter is ≥ 29 mm before reporting as penicillin susceptible. Rare isolates of staphylococci that contain genes for β-lactamase production may not produce a positive induced β-lactamase test. For serious infections requiring penicillin therapy, laboratories should perform MIC tests and induced beta-lactamase testing on all subsequent isolates from the same patient.2 | - | ≥ 0.25 | ≥ 29 | - | ≤ 28 |
@@ -75,29 +75,29 @@ Table 1: Susceptibility Test Interpretive Criteria for Penicillin
 | Streptococcus spp., Beta-hemolytic GroupSusceptibility testing of penicillins for treatment of β-hemolytic streptococcal infections need not be performed routinely, because non-susceptible isolates are extremely rare in any β-hemolytic streptococcus and have not been reported from Streptococcus pyogenes. Any β-hemolytic streptococcal isolate found to be non-susceptible to penicillin should be re-identified, retested, and, if confirmed, submitted to a public health authority.2,4 | ≤ 0.12The current absence of resistant isolates precludes defining results other than “Susceptible”. Isolates yielding results suggestive of “Nonsusceptible” should be submitted to a reference laboratory for further testing. | - | - | ≥ 24 | - | - |
 | Streptococcus spp. Viridans Group | ≤ 0.12 | 0.25 – 2 | ≥ 4 | - | - | - |
 | Listeria monocytogenes | ≤ 2 | - | - | - | - | - |
-| Bacillus anthracisB. anthracis strains may contain inducible β-lactamases. In vitro penicillinase induction studies suggest that penicillin MICs may increase during therapy. However, β-lactamase testing of clinical isolates of B. anthracis is unreliable and should not be performed.3 | ≤ 0.12 | - | ≥ 0.25 | - | - | - |
+| Bacillus anthracisB. anthracis strains may contain inducible β-lactamases. In vitro penicillinase induction studies suggest that penicillin MICs may increase during therapy. However, β-lactamase testing of clinical isolates of B. anthracis is unreliable and should not be performed.3 | ≤ 0.5 | - | ≥ 1 | - | - | - |
 
-A report of Susceptible(S) indicates that the antimicrobial drug is likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentration usually achievable at the site of infection.
+A report of Susceptible (S) indicates that the antimicrobial drug is likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentration usually achievable at the site of infection.
 
-A report of Intermediate(I) indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
+A report of Intermediate (I) indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
 This category implies possible clinical applicability in body sites where the drug is physiologically concentrated or in situations where a high dosage of the drug product can be used.
 This category also provides a buffer zone that prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
 
-A report of Resistant(R) indicates that the antimicrobial drug is not likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentration usually achievable at the infection site; other therapy should be selected.
+A report of Resistant (R) indicates that the antimicrobial drug is not likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentration usually achievable at the infection site; other therapy should be selected.
 
 Quality Control
 
 Standardized susceptibility test procedures require the use of laboratory control microorganisms to monitor and ensure the accuracy and precision of the supplies and reagents used in the assay, and the techniques of the individuals performing the test.
-Standard penicillin powder should provide MIC values provided below.
-For the diffusion technique, the 10 unit penicillin disk should provide the following zone diameters with the quality control strains:
+Standard penicillin powder should provide the following range of MIC values noted in Table 2.
+For the diffusion technique using the 10 unit penicillin disk,the criteria in Table 2 should be achieved:
 
 Table 2.
-In Vitro Susceptibility Test Quality Control Ranges for Penicillin
+Acceptable Quality Control Ranges for Penicillin
 
 |  | MIC range | Disk diffusion |
 | --- | --- | --- |
 | Organism (ATTC #) | mcg/mL | range (mm) |
-| Staphylococcus aureus (29213) | 0.25 – 2 | Not applicable |
-| Staphylococcus aureus (25923) | Not applicable | 26 – 37 |
-| Streptococcus pneumoniae (49619) | 0.25 – 1 | 24 – 30 |
-| Neisseria gonorrhoeae (49226) | 0.25 – 1Using agar dilution method only. No criteria for broth microdilution are available.2 | 26 – 34 |
+| Staphylococcus aureus ATCC (29213) | 0.25 – 2 | Not applicable |
+| Staphylococcus aureus ATCC (25923) | Not applicable | 26 – 37 |
+| Streptococcus pneumoniae ATCC (49619) | 0.25 – 1 | 24 – 30 |
+| Neisseria gonorrhoeae ATCC(49226) | 0.25 – 1Using agar dilution method only. No criteria for broth microdilution are available.2 | 26 – 34 |
