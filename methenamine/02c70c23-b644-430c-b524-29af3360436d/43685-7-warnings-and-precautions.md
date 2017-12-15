@@ -26,17 +26,17 @@ Enzymatic hydrolysis, in place of acid hydrolysis, will circumvent this problem.
 This product contains FD&C Yellow No. 5 (tartrazine), which may cause allergic-type reactions (including bronchial asthma) in certain susceptible individuals.
 Although the overall incidence of FD&C Yellow No. 5 (tartrazine) sensitivity in the general population is low, it is frequently seen in patients who also have aspirin hypersensitivity.
 
-## Information for Patients
-
-Patients should be counseled that antibacterial drugs including HIPREX should only be used to treat bacterial infections.
-They do not treat viral infections (e.g., the common cold).
-When HIPREX is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
-Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by HIPREX or other antibacterial drugs in the future.
-
-## Geriatric Use
+Geriatric Use
 
 Clinical studies of HIPREX did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal or cardiac function, and of concomitant disease or other drug therapy.
 
 HIPREX is contraindicated in patients with renal insufficiency and severe hepatic insufficiency (see CONTRAINDICATIONS).
+
+Information for Patients
+
+Patients should be counseled that antibacterial drugs including HIPREX should only be used to treat bacterial infections.
+They do not treat viral infections (e.g., the common cold).
+When HIPREX is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
+Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by HIPREX or other antibacterial drugs in the future.
