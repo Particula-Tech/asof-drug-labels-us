@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA021350"
+  ],
+  "inn": "fenofibrate",
+  "labeler": "Key Therapeutics, LLC",
+  "package_ndcs": [
+    "70868-013-15"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "fenofibrate",
+      "name": "Triglide"
+    }
+  ],
+  "setid": "962df738-5980-41d1-828b-f85d67c74675",
+  "source": "dailymed"
+}
