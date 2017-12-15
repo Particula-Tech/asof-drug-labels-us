@@ -82,6 +82,8 @@ What should I avoid while taking INTUNIV®?
   INTUNIV® taken with alcohol or medicines that cause sleepiness or dizziness may make your sleepiness or dizziness worse.
 - Do not become dehydrated or overheated.
   This may increase your chance of having low blood pressure or fainting while taking INTUNIV.
+- Do not suddenly stop INTUNIV.
+  Tell your healthcare provider if you have been vomiting and cannot take INTUNIV, you may be at risk for rebound hypertension.
 
 What are the possible side effects of INTUNIV®?
 
@@ -91,7 +93,9 @@ INTUNIV® may cause serious side effects including:
 - low heart rate
 - fainting
 - sleepiness
-- withdrawal symptoms of increased heart rate and high blood pressure after suddenly stopping INTUNIV® (which may be accompanied by headaches, feeling confused, nervousness, agitation, and tremors).
+- increased blood pressure and heart rate after suddenly stopping INTUNIV (rebound hypertension).
+  Suddenly stopping INTUNIV can cause increased blood pressure and heart rate and other withdrawal symptoms such as headache, confusion, nervousness, agitation, and tremors.
+  If these symptoms continue to get worse and are left untreated, it could lead to a very serious condition including very high blood pressure, feeling very sleepy or tired, severe headache, vomiting, vision problems, seizures.
 
 Get medical help right away, if you have any of the symptoms listed above.
 
@@ -149,8 +153,8 @@ Manufactured for Shire US Inc., 300 Shire Way, Lexington, MA 02421.
 
 INTUNIV® is a registered trademark of Shire LLC.
 
-Revised: 7/2016
+Revised: 11/2017
 
-© 2016 Shire US Inc.
+© 2017 Shire US Inc.
 
 This product is covered by US patents including 6,287,599; 6,811,794.

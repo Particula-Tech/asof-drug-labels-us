@@ -5,7 +5,7 @@ The following serious adverse reactions are described elsewhere in the labeling:
 - Hypotension, bradycardia, and syncope [see Warnings and Precautions (5.1)]
 - Sedation and somnolence [see Warnings and Precautions (5.2)]
 - Cardiac conduction abnormalities [see Warnings and Precautions (5.3)]
-- Blood Pressure and Heart Rate Increase upon Discontinuation [see Warnings and Precautions (5.4)]
+- Rebound Hypertension [see Warnings and Precautions (5.4)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -183,13 +183,13 @@ The majority of these cases occurred in the long-term, open-label studies.
 
 Discontinuation of Treatment
 
-Blood pressure and pulse may increase following discontinuation of INTUNIV®.
-In postmarketing experience, hypertensive encephalopathy has been very rarely reported upon abrupt discontinuation of INTUNIV® [see Adverse Reactions (6.2)].
-In a maintenance of efficacy study in children and adolescents [see Clinical Studies (14)], increases in mean systolic and diastolic blood pressure, of approximately 3 mmHg and 1 mmHg respectively, above original baseline were observed upon discontinuation of INTUNIV®.
-The increases in blood pressure were observed in some individuals at the end of the follow up period which ranged between 3 and 26 weeks post final dose.
-Mean increases in pulse of approximately 1.5 bpm were observed at approximately 2 weeks after the last dose of INTUNIV® and then decreased to baseline 4 weeks later.
+Blood pressure and pulse may increase above baseline values following discontinuation of INTUNIV®.
+In five studies of children and adolescents [see Clinical Studies (14)], increases in mean systolic and diastolic blood pressure averaging approximately 3 mmHg and increases in heart rate averaging 5 beats per minute above original baseline were observed upon discontinuation with tapering of INTUNIV+.
+In a maintenance of efficacy study, increases in blood pressure and heart rate above baseline slowly diminished over the follow up period, which ranged between 3 and 26 weeks post final dose; the estimated average time to return to baseline was between six and twelve months.
 In this study, the increases in blood pressure and pulse were not considered serious or associated with adverse events.
 However, individuals may have larger increases than reflected by the mean changes.
+
+In postmarketing experience, following abrupt discontinuation of INTUNIV®, rebound hypertension and hypertensive encephalopathy have been reported [see Warnings and Precautions (5.4) and Adverse Reactions (6.2)].
 
 Effects on Height, Weight, and Body Mass Index (BMI)
 
@@ -223,7 +223,7 @@ Less frequent, possibly guanfacine-related events observed in the post-marketing
 
 General: edema, malaise, tremor
 
-Cardiovascular: palpitations, tachycardia, hypertensive encephalopathy
+Cardiovascular: palpitations, tachycardia, rebound hypertension, hypertensive encephalopathy
 
 Central Nervous System: paresthesias, vertigo
 

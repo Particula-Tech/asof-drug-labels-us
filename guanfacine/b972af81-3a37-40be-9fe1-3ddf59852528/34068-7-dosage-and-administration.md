@@ -48,7 +48,7 @@ Doses above 4 mg/day have not been evaluated in children (ages 6-12 years) and a
 Following discontinuation of INTUNIV®, patients may experience increases in blood pressure and heart rate [see Warnings and Precautions (5.4) and Adverse Reactions (6)].
 Patients/caregivers should be instructed not to discontinue INTUNIV® without consulting their health care provider.
 Monitor blood pressure and pulse when reducing the dose or discontinuing the drug.
-Taper the daily dose in decrements of no more than 1 mg every 3 to 7 days to avoid rebound hypertension.
+Taper the daily dose in decrements of no more than 1 mg every 3 to 7 days to minimize the risk of rebound hypertension.
 
 ## 2.6 Missed Doses
 
