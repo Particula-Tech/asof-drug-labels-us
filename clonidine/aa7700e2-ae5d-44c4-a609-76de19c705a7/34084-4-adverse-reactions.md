@@ -31,12 +31,12 @@ Table 2 Common Adverse Reactions in the Fixed-Dose Monotherapy Trial-Treatment P
 
 |  | Percentage of Patients Reporting Event |  |  |
 | --- | --- | --- | --- |
-| Preferred Term | KAPVAY0.2 mg/dayN=76 | KAPVAY 0.4 mg/day N=78 | Placebo (N=76) |
-| PSYCHIATRIC DISORDERS Somnolence* Nightmare Emotional Disorder Aggression Tearfulness Enuresis Sleep Terror Poor Quality Sleep | 38%4%4%3%1%0%3%0% | 31%9%4%1%3%4%0%3% | 4%0%1%0%0%0%0%1% |
-| NERVOUS SYSTEM DISORDERS Headache Insomnia Tremor Abnormal Sleep-Related Event | 20%5%1%3% | 13%6%4%1% | 16%1%0%0% |
-| GASTROINTESTINAL DISORDERS Upper Abdominal Pain Nausea Constipation Dry Mouth | 15%4%1%0% | 10%5%6%5% | 12%3%0%1% |
-| GENERAL DISORDERS Fatigue† Irritability | 16%9% | 13%5% | 1%4% |
-| CARDIAC DISORDERS Dizziness Bradycardia | 7%0% | 3%4% | 5%0% |
+| Preferred Term | KAPVAY 0.2 mg/day N=76 | KAPVAY 0.4 mg/day N=78 | Placebo (N=76) |
+| PSYCHIATRIC DISORDERS Somnolence* Nightmare Emotional Disorder Aggression Tearfulness Enuresis Sleep Terror Poor Quality Sleep | 38% 4% 4% 3% 1% 0% 3% 0% | 31% 9% 4% 1% 3% 4% 0% 3% | 4% 0% 1% 0% 0% 0% 0% 1% |
+| NERVOUS SYSTEM DISORDERS Headache Insomnia Tremor Abnormal Sleep-Related Event | 20% 5% 1% 3% | 13% 6% 4% 1% | 16% 1% 0% 0% |
+| GASTROINTESTINAL DISORDERS Upper Abdominal Pain Nausea Constipation Dry Mouth | 15% 4% 1% 0% | 10% 5% 6% 5% | 12% 3% 0% 1% |
+| GENERAL DISORDERS Fatigue† Irritability | 16% 9% | 13% 5% | 1% 4% |
+| CARDIAC DISORDERS Dizziness Bradycardia | 7% 0% | 3% 4% | 5% 0% |
 | INVESTIGATIONS Increased Heart Rate | 0% | 3% | 0% |
 | METABOLISM AND NUTRITION DISORDERS Decreased Appetite | 3% | 4% | 4% |
 
@@ -74,9 +74,9 @@ Table 4 Common Adverse Reactions in the Flexible-Dose Adjunctive to Stimulant Th
 |  | Percentage of Patients Reporting Event |  |
 | --- | --- | --- |
 | Preferred Term | KAPVAY+STM (N=102) | PBO+STM (N=96) |
-| PSYCHIATRIC DISORDERS Somnolence* Aggression Affect Lability Emotional Disorder | 19%2%2%2% | 7%1%1%0% |
-| GENERAL DISORDERS Fatigue† Irritability | 14%2% | 4%7% |
-| NERVOUS SYSTEM DISORDERS Headache Insomnia | 7%4% | 12%3% |
+| PSYCHIATRIC DISORDERS Somnolence* Aggression Affect Lability Emotional Disorder | 19% 2% 2% 2% | 7% 1% 1% 0% |
+| GENERAL DISORDERS Fatigue† Irritability | 14% 2% | 4% 7% |
+| NERVOUS SYSTEM DISORDERS Headache Insomnia | 7% 4% | 12% 3% |
 | GASTROINTESTINAL DISORDERS Upper Abdominal Pain | 7% | 4% |
 | RESPIRATORY DISORDERS Nasal Congestion | 2% | 2% |
 | METABOLISM AND NUTRITION DISORDERS Decreased Appetite | 6% | 3% |
