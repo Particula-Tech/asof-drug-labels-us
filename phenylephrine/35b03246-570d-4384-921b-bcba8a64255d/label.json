@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA204300"
+  ],
+  "inn": "phenylephrine",
+  "labeler": "BluePoint Laboratories",
+  "package_ndcs": [
+    "68001-331-65"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "phenylephrine hydrochloride",
+      "name": "Vazculep"
+    }
+  ],
+  "setid": "35b03246-570d-4384-921b-bcba8a64255d",
+  "source": "dailymed"
+}
