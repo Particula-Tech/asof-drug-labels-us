@@ -13,4 +13,4 @@ However, in published studies prednisolone was not mutagenic with or without met
 In a published chromosomal aberration study in Chinese Hamster Lung (CHL) cells, a slight increase was seen in the incidence of structural chromosomal aberrations with metabolic activation at the highest concentration tested, however, the effect appears to be equivocal.
 
 Orapred was not formally evaluated in fertility studies.
-However, alterations in motility and numbers of spermatozoa, and menstrual irregularities have been described with clinical use [see Adverse Reactions (6)].
+However, alterations in motility and numbers of spermatozoa, and menstrual irregularities have been described with clinical use [seeAdverse Reactions (6)].

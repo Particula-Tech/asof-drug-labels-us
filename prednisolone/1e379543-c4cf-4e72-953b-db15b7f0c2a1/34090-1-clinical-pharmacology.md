@@ -19,9 +19,9 @@ Absorption: Oral administration of single doses of 30 mg prednisolone base equiv
 Table 1.
 Comparison of Mean Pharmacokinetic Parameters (%CV) in Healthy Volunteers Following a Single Dose of 30 mg Orapred ODT and Pediapred Solution,
 
-| (30 mg prednisolone base equivalent) | (± S.D.) | (± S.D.) |
-| --- | --- | --- |
 | DoseAdministered under fasting conditions. | AUC0-∞ (ng∙hr/mL) | Cmax (ng∙hr/mL)Mean values of 21 normal volunteers |
+| --- | --- | --- |
+| (30 mg prednisolone base equivalent) | (± S.D.) | (± S.D.) |
 | Pediapred Solution | 2426.1 (360.0) | 461.33 (77.94) |
 | Orapred ODT | 2408.1 (361.5) | 420.91 (78.28) |
 

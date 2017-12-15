@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D [see Warnings and Precautions (5.10)]
+Pregnancy Category D [seeWarnings and Precautions (5.10)]
 
 Orapred has not been formally evaluated in clinical or nonclinical studies for effects on pregnancy and fetal development.
 Multiple cohort and case controlled studies in humans suggest that maternal corticosteroid use during the first trimester increases the incidence of cleft lip with or without cleft palate from about 1/1000 infants to 3-5/1000 infants.
