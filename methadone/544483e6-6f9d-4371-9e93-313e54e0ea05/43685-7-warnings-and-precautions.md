@@ -72,19 +72,15 @@ Similarly, discontinuation of concomitant CYP3A4, CYP2B6, CYP2C19, or CYP2C9 ind
 Consider dosage reduction of methadone hydrochloride tablets for oral suspension when using concomitant CYP3A4, CYP2B6, CYP2C19, CYP2C9 or CYP2D6 inhibitors or discontinuing CYP3A4, CYP2B6, CYP2C19, or CYP2C9 inducers in methadone-treated patients, and follow patients closely at frequent intervals for signs and symptoms of respiratory depression and sedation [see Drug Interactions (7)].
 
 Addition of CYP3A4, CYP2B6, CYP2C19, or CYP2C9 inducers or discontinuation of CYP3A4, CYP2B6, CYP2C19, CYP2C9, or CYP2D6 inhibitors in patients treated with methadone hydrochloride tablets for oral suspension may decrease methadone plasma concentrations, reducing efficacy and may lead to opioid withdrawal symptoms in patients physically dependent on methadone.
-When using methadone hydrochloride tablets for oral suspension with CYP3A4, CYP2B6, CYP2C19, or CYP2C9 inducers or discontinuing CYP3A4, CYP2B6, CYP2C19, CYP2C9, or CYP2D6 inhibitors, follow patients for signs or symptoms of opioid withdrawal and consider increasing the methadone hydrochloride tablets for oral suspension dosage as needed [see Drug Interactions (7)].
+When using methadone hydrochloride tablets for oral suspension with CYP3A4, CYP2B6, CYP2C19, or CYP2C9 inducers or discontinuing CYP3A4, CYP2B6, CYP2C19, CYP2C9, or CYP2D6 inhibitors, follow patients for signs or symptoms of opioid withdrawal and consider increasing the methadone hydrochloride tablets for oral suspension dosage as needed [see Drug Interactions (7)].​​
 
 ## 5.7 Life-Threatening Respiratory Depression in Patients with Chronic Pulmonary Disease or in Elderly, Cachectic, or Debilitated Patients
 
 The use of methadone hydrochloride tablets for oral suspension in patients with acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment is contraindicated.
 
-Patients with Chronic Pulmonary Disease
+Patients with Chronic Pulmonary Disease Methadone hydrochloride tablets for oral suspension-treated patients with significant chronic obstructive pulmonary disease or cor pulmonale, and those with a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression are at increased risk of decreased respiratory drive including apnea, even at recommended dosages of methadone hydrochloride tablets for oral suspension [see Warnings and Precautions (5.1)].
 
-Methadone hydrochloride tablets for oral suspension-treated patients with significant chronic obstructive pulmonary disease or cor pulmonale, and those with a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression are at increased risk of decreased respiratory drive including apnea, even at recommended dosages of methadone hydrochloride tablets for oral suspension [see Warnings and Precautions (5.1)].
-
-Elderly, Cachectic, or Debilitated Patients
-
-Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients because they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients [see Warnings and Precautions (5.1)].
+Elderly, Cachectic, or Debilitated Patients Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients because they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients [see Warnings and Precautions (5.1)].
 
 Monitor such patients closely, particularly when initiating and titrating methadone hydrochloride tablets for oral suspension and when methadone hydrochloride tablets for oral suspension are given concomitantly with other drugs that depress respiration [see Warnings and Precautions (5.8)].
 

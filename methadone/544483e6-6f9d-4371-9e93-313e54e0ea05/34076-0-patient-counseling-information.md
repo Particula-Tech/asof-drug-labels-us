@@ -2,36 +2,24 @@
 
 Provide the following information to patients receiving methadone hydrochloride tablets for oral suspension or to their caregivers:
 
-Life-Threatening Respiratory Depression
-
-Discuss the risk of respiratory depression with patients, explaining that the risk is greatest when starting methadone hydrochloride tablets for oral suspension or when the dose is increased [see Warnings and Precautions (5.1)].
+Life-Threatening Respiratory Depression Discuss the risk of respiratory depression with patients, explaining that the risk is greatest when starting methadone hydrochloride tablets for oral suspension or when the dose is increased [see Warnings and Precautions (5.1)].
 Advise patients how to recognize respiratory depression and to seek medical attention if they are experiencing breathing difficulties.
 
-Symptoms of Arrhythmia
+Symptoms of Arrhythmia Instruct patients to seek medical attention immediately if they experience symptoms suggestive of an arrhythmia (such as palpitations, near syncope, or syncope) when taking methadone hydrochloride tablets for oral suspension [see Warnings and Precautions (5.2)].
 
-Instruct patients to seek medical attention immediately if they experience symptoms suggestive of an arrhythmia (such as palpitations, near syncope, or syncope) when taking methadone hydrochloride tablets for oral suspension [see Warnings and Precautions (5.2)].
-
-Accidental Ingestion
-
-Inform patients that accidental ingestion, especially by children, may result in respiratory depression or death [see Warnings and Precautions (5.3)].
+Accidental Ingestion Inform patients that accidental ingestion, especially by children, may result in respiratory depression or death [see Warnings and Precautions (5.3)].
 Instruct patients to take steps to store methadone hydrochloride tablets for oral suspension securely.
 Advise patients to dispose of unused methadone hydrochloride tablets for oral suspension by flushing the tablets down the toilet.
 
-Abuse Potential
-
-Inform patients that methadone hydrochloride tablets for oral suspension contain methadone, a Schedule II controlled substance that is subject to abuse [see Warnings and Precautions (5.4)].
+Abuse Potential Inform patients that methadone hydrochloride tablets for oral suspension contain methadone, a Schedule II controlled substance that is subject to abuse [see Warnings and Precautions (5.4)].
 Instruct patients not to share methadone hydrochloride tablets for oral suspension with others and to take steps to protect methadone hydrochloride tablets for oral suspension from theft or misuse.
 
-Risks from Concomitant Use of Alcohol and other CNS Depressants
-
-Inform patients that the concomitant use of alcohol with methadone can increase the risk of life-threatening respiratory depression.
+Risks from Concomitant Use of Alcohol and other CNS Depressants Inform patients that the concomitant use of alcohol with methadone can increase the risk of life-threatening respiratory depression.
 Instruct patients not to consume alcoholic beverages, as well as prescription and over-the-counter drug products that contain alcohol, during treatment with methadone hydrochloride tablets for oral suspension [see Warnings and Precautions (5.8)].
 
 Inform patients that potentially serious additive effects may occur if methadone is used with other CNS depressants, and not to use such drugs unless supervised by a healthcare provider.
 
-Important Administration Instructions [see Dosage and Administration (2)]
-
-Instruct patients how to properly take methadone hydrochloride tablets for oral suspension, including the following:
+Important Administration Instructions [see Dosage and Administration (2)] Instruct patients how to properly take methadone hydrochloride tablets for oral suspension, including the following:
 
 - Methadone hydrochloride tablets for oral suspension are for oral administration only and must be initially dispersed in liquid before use.
   After dispersion in liquid, the preparation must not be injected.
@@ -40,58 +28,40 @@ Instruct patients how to properly take methadone hydrochloride tablets for oral 
 - Apprise patients seeking to discontinue treatment with methadone for opioid dependence of the high risk of relapse to illicit drug use associated with discontinuation of methadone hydrochloride tablets for oral suspension maintenance treatment.
 - Advise patients not to discontinue methadone hydrochloride tablets for oral suspension without first discussing the need for a tapering regimen with the prescriber.
 
-Serotonin Syndrome
-
-Inform patients that methadone hydrochloride tablets for oral suspension could cause a rare but potentially life-threatening condition resulting from concomitant administration of serotonergic drugs.
+Serotonin Syndrome Inform patients that methadone hydrochloride tablets for oral suspension could cause a rare but potentially life-threatening condition resulting from concomitant administration of serotonergic drugs.
 Warn patients of the symptoms of serotonin syndrome and to seek medical attention right away if symptoms develop.
 Instruct patients to inform their physicians if they are taking, or plan to take serotonergic medications [see Warnings and Precautions (5.9), Drug Interactions (7)].
 
-MAOI Interaction
-
-Inform patients to avoid taking methadone hydrochloride tablets for oral suspension while using any drugs that inhibit monoamine oxidase.
+MAOI Interaction Inform patients to avoid taking methadone hydrochloride tablets for oral suspension while using any drugs that inhibit monoamine oxidase.
 Patients should not start MAOIs while taking methadone hydrochloride tablets for oral suspension [see Drug Interactions (7)].
 
-Adrenal Insufficiency
-
-Inform patients that methadone hydrochloride tablets for oral suspension could cause adrenal insufficiency, a potentially life-threatening condition.
+Adrenal Insufficiency Inform patients that methadone hydrochloride tablets for oral suspension could cause adrenal insufficiency, a potentially life-threatening condition.
 Adrenal insufficiency may present with non-specific symptoms and signs such as nausea, vomiting, anorexia, fatigue, weakness, dizziness, and low blood pressure.
 Advise patients to seek medical attention if they experience a constellation of these symptoms [see Warnings and Precautions (5.10)].
 
-Hypotension
-
-Inform patients that methadone hydrochloride tablets for oral suspension may cause orthostatic hypotension and syncope.
+Hypotension Inform patients that methadone hydrochloride tablets for oral suspension may cause orthostatic hypotension and syncope.
 Instruct patients on how to recognize symptoms of low blood pressure and how to reduce the risk of serious consequences should hypotension occur (e.g., sit or lie down, carefully rise from a sitting or lying position) [see Warnings and Precautions (5.11)].
 
-Anaphylaxis
-
-Inform patients that anaphylaxis has been reported with ingredients contained in methadone hydrochloride tablets for oral suspension.
+Anaphylaxis Inform patients that anaphylaxis has been reported with ingredients contained in methadone hydrochloride tablets for oral suspension.
 Advise patients how to recognize such a reaction and when to seek medical attention [see Adverse Reactions (6)].
 
-Neonatal Opioid Withdrawal
+Neonatal Opioid Withdrawal Advise women that if they are pregnant while being treated with methadone hydrochloride tablets for oral suspension, the baby may have signs of withdrawal at birth and that withdrawal is treatable [see Warnings and Precautions (5.5), Specific Populations (8.1)].
 
-Advise women that if they are pregnant while being treated with methadone hydrochloride tablets for oral suspension, the baby may have signs of withdrawal at birth and that withdrawal is treatable [see Warnings and Precautions (5.5), Specific Populations (8.1)].
-
-Lactation
-
-Instruct nursing mothers using methadone hydrochloride tablets for oral suspension to watch for signs of methadone toxicity in their infants, which include increased sleepiness (more than usual), difficulty breastfeeding, breathing difficulties, or limpness.
+Lactation Instruct nursing mothers using methadone hydrochloride tablets for oral suspension to watch for signs of methadone toxicity in their infants, which include increased sleepiness (more than usual), difficulty breastfeeding, breathing difficulties, or limpness.
 Instruct nursing mothers to talk to their baby’s healthcare provider immediately if they notice these signs.
 If they cannot reach the healthcare provider right away, instruct them to take the baby to the emergency room or call 911 (or local emergency services) [see Use in Specific Populations (8.2)].
 
-Driving or Operating Heavy Machinery
-
-Inform patients that methadone hydrochloride tablets for oral suspension may impair the ability to perform potentially hazardous activities such as driving or operating heavy machinery.
+Driving or Operating Heavy Machinery Inform patients that methadone hydrochloride tablets for oral suspension may impair the ability to perform potentially hazardous activities such as driving or operating heavy machinery.
 Advise patients not to perform such tasks until they know how they will react to the medication [see Warnings and Precautions (5.16)].
 
-Constipation
-
-Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention [see Adverse Reactions (6), Clinical Pharmacology (12.2)].
+Constipation Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention [see Adverse Reactions (6), Clinical Pharmacology (12.2)].
 
 Mallinckrodt, the “M” brand mark, the Mallinckrodt Pharmaceuticals logo and other brands are trademarks of a Mallinckrodt company.
 
 © 2017 Mallinckrodt.
 
-Mallinckrodt Inc. Hazelwood, MO 63042 USA
+SpecGx LLC Webster Groves, MO 63119 USA
 
-Issue 01/2017
+Issue 07/2017
 
-Mallinckrodt™
+Mallinckrodt™ Pharmaceuticals

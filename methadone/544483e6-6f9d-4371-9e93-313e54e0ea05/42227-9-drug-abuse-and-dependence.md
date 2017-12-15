@@ -25,9 +25,7 @@ Careful record-keeping of prescribing information, including quantity and freque
 
 Proper assessment and selection of the patient, proper prescribing practices, periodic re-evaluation of therapy, and proper dispensing and storage are appropriate measures that help to limit abuse of opioid drugs.
 
-Risks Specific to Methadone Hydrochloride Tablets for Oral Suspension
-
-Abuse of methadone poses a risk of overdose and death.
+Risks Specific to Methadone Hydrochloride Tablets for Oral Suspension Abuse of methadone poses a risk of overdose and death.
 This risk is increased with concurrent abuse of methadone with alcohol and other substances.
 Methadone hydrochloride tablets for oral suspension are intended for oral use only and must not be injected.
 Parenteral drug abuse is commonly associated with transmission of infectious diseases such as hepatitis and HIV.

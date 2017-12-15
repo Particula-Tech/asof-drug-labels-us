@@ -55,9 +55,7 @@ Also consider concurrent medications and the general condition and medical statu
 During the induction phase of methadone maintenance treatment, patients are being withdrawn from opioids and may have opioid withdrawal symptoms.
 Monitor patients for signs and symptoms of opioid withdrawal including: lacrimation, rhinorrhea, sneezing, yawning, excessive perspiration, goose-flesh, fever, chilling alternating with flushing, restlessness, irritability, weakness, anxiety, depression, dilated pupils, tremors, tachycardia, abdominal cramps, body aches, involuntary twitching and kicking movements, anorexia, nausea, vomiting, diarrhea, intestinal spasms, and weight loss and consider dose adjustment as indicated.
 
-Short-Term Detoxification
-
-For a brief course of stabilization followed by a period of medically supervised withdrawal, titrate the patient to a total daily dose of about 40 mg in divided doses to achieve an adequate stabilizing level.
+Short-Term Detoxification For a brief course of stabilization followed by a period of medically supervised withdrawal, titrate the patient to a total daily dose of about 40 mg in divided doses to achieve an adequate stabilizing level.
 After 2 to 3 days of stabilization, gradually decrease the dose of methadone.
 Decrease the dose of methadone on a daily basis or at 2-day intervals, keeping the amount of methadone sufficient to keep withdrawal symptoms at a tolerable level.
 Hospitalized patients may tolerate a daily reduction of 20% of the total daily dose.

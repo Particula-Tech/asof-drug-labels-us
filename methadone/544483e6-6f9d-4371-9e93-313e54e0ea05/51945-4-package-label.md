@@ -17,7 +17,7 @@ Rx only
 
 Mallinckrodt™
 
-L00M10 Rev 02/2016
+L00M10 Rev 07/2017
 
 # PRINCIPAL DISPLAY PANEL - METHADONE HYDROCHLORIDE TABLETS
 
@@ -27,9 +27,9 @@ NDC 0406-2540-01
 
 METHADONE HYDROCHLORIDE TABLETS (Methadone Hydrochloride Tablets for Oral Suspension USP)
 
-CII
-
 40 mg
+
+CII
 
 (Dispersible, Orange Flavored)
 
@@ -40,4 +40,4 @@ Rx only
 
 Mallinckrodt™
 
-L00M82 Rev 02/2016
+L00M82 Rev 07/2017
