@@ -19,7 +19,7 @@ Reduced size and ossification of long bones of the fore-limb and hind-limb were 
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
 Women of child bearing potential should be advised to avoid becoming pregnant while taking DACOGEN.
 
-## 8.3 Nursing Mothers
+## 8.3 Females and Males of Reproductive Potential
 
 It is not known whether decitabine or its metabolites are excreted in human milk.
 Because many drugs are excreted in human milk, and because of the potential for serious adverse reactions from DACOGEN in nursing infants, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
