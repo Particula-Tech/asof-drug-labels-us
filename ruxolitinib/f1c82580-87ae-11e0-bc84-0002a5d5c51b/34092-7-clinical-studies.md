@@ -11,7 +11,7 @@ Doses were then individualized based upon tolerability and efficacy with maximum
 
 Study 1
 
-Study 1 was a double-blind, randomized, placebo-controlled study in 309 patients who were refractory to or were not candidates for available therapy.
+Study 1 (NCT00952289) was a double-blind, randomized, placebo-controlled study in 309 patients who were refractory to or were not candidates for available therapy.
 The median age was 68 years (range 40 to 91 years) with 61% of patients older than 65 years and 54% were male.
 Fifty percent (50%) of patients had primary MF, 31% had post-polycythemia vera MF and 18% had post-essential thrombocythemia MF.
 Twenty-one percent (21%) of patients had red blood cell transfusions within 8 weeks of enrollment in the study.
@@ -27,7 +27,7 @@ Secondary endpoints included duration of a 35% or greater reduction in spleen vo
 
 Study 2
 
-Study 2 was an open-label, randomized study in 219 patients.
+Study 2 (NCT00934544) was an open-label, randomized study in 219 patients.
 Patients were randomized 2:1 to Jakafi versus best available therapy.
 Best available therapy was selected by the investigator on a patient-by-patient basis.
 In the best available therapy arm, the medications received by more than 10% of patients were hydroxyurea (47%) and glucocorticoids (16%).
@@ -92,7 +92,7 @@ Figure 4 and Figure 5 show Kaplan-Meier curves of overall survival at prospectiv
 
 ## 14.2 Polycythemia Vera
 
-Study 3 was a randomized, open-label, active-controlled Phase 3 study conducted in 222 patients with PV.
+Study 3 (NCT01243944) was a randomized, open-label, active-controlled Phase 3 study conducted in 222 patients with PV.
 Patients had been diagnosed with PV for at least 24 weeks, had an inadequate response to or were intolerant of hydroxyurea, required phlebotomy and exhibited splenomegaly.
 All patients were required to demonstrate hematocrit control between 40-45% prior to randomization.
 The age ranged from 33 to 90 years with 30% of patients over 65 years of age and 66% were male.

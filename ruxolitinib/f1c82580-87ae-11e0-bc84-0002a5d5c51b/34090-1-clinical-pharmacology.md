@@ -19,12 +19,12 @@ At a dose of 1.25 to 10 times the highest recommended starting dosage, Jakafi do
 
 ## 12.3 Pharmacokinetics
 
-Mean ruxolitinib Cmax and AUC increased proportionally over a single dose range of 5 mg to 200 mg.
+Mean ruxolitinib maximal plasma concentration (Cmax) and AUC increased proportionally over a single dose range of 5 mg to 200 mg.
 Mean ruxolitinib Cmax ranged from 205 nM to 7100 nM and AUC ranged from 862 nM*hr to 30700 nM*hr over a single dose range of 5 mg to 200 mg.
 
 Absorption
 
-Ruxolitinib achieves maximal plasma concentration (Cmax) within 1 hour to 2 hours post-dose.
+Ruxolitinib achieves Cmax within 1 hour to 2 hours post-dose.
 Oral absorption of ruxolitinib is estimated to be at least 95%.
 
 Food Effect

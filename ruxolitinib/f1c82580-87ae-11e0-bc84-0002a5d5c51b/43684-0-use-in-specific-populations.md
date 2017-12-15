@@ -45,6 +45,13 @@ Additional analysis showed the presence of ruxolitinib and several of its metabo
 
 The safety and effectiveness of Jakafi in pediatric patients have not been established.
 
+Jakafi was evaluated in a single-arm, dose-escalation study (NCT01164163) in 27 pediatric patients with relapsed or refractory solid tumors (Cohort A) and 20 with leukemias or myeloproliferative neoplasms (Cohort B). The patients had a median age of 14 years (range, 2 to 21 years) and included 18 children (age 2 to <12 years), and 14 adolescents (age 12 to <17 years).
+The dose levels tested were 15, 21, 29, 39, or 50 mg/m2 twice daily in 28-day cycles with up to 6 patients per dose group.
+
+Overall, 38 (81%) patients were treated with no more than a single cycle of Jakafi, while 3, 1, 2, and 3 patients received 2, 3, 4, and 5 or more cycles, respectively.
+A protocol-defined maximal tolerated dose was not observed, but since few patients were treated for multiple cycles, tolerability with continued use was not assessed adequately to establish a recommended Phase 2 dose.
+The safety profile in children was similar to that seen in adults.
+
 ## 8.5 Geriatric Use
 
 Of the total number of patients with MF in clinical studies with Jakafi, 52% were 65 years and older, while 15% were 75 years and older.

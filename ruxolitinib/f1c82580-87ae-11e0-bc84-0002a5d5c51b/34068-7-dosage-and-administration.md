@@ -178,7 +178,7 @@ Additional dose modifications should be made with frequent monitoring of safety 
 
 Avoid the use of fluconazole doses of greater than 200 mg daily with Jakafi.
 
-Table 7: Dose Modifications for Concomitant Use of Strong CYP3A4 Inhibitors or Fluconazole
+Table 7: Dose Modifications for Concomitant Use with Strong CYP3A4 Inhibitors or Fluconazole
 
 | For patients coadministered strong CYP3A4 inhibitors or fluconazole doses of less than or equal to 200 mg | Recommended Dose Modification |
 | --- | --- |
