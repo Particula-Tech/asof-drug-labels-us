@@ -2,9 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Risk Summary
-
-Neonatal opioid withdrawal syndrome (NOWS) is an expected and treatable outcome of prolonged use of opioids during pregnancy [see Warnings and Precautions (5.4)].
+Risk Summary Neonatal opioid withdrawal syndrome (NOWS) is an expected and treatable outcome of prolonged use of opioids during pregnancy [see Warnings and Precautions (5.4)].
 
 Pregnant women in methadone maintenance programs may have reduced incidence of obstetric and fetal complications and neonatal morbidity and mortality when compared to women using illicit drugs.
 Untreated opioid addiction in pregnancy is associated with adverse obstetrical outcomes and risk of continued or relapsing illicit opioid use.
@@ -23,9 +21,7 @@ The estimated background risk of major birth defects and miscarriage for the ind
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
-Clinical Considerations
-
-Disease-Associated Maternal and Embryo-Fetal Risk: Untreated opioid addiction in pregnancy is associated with adverse obstetrical outcomes such as low birth weight, preterm birth, and fetal death.
+Clinical Considerations Disease-Associated Maternal and Embryo-Fetal Risk: Untreated opioid addiction in pregnancy is associated with adverse obstetrical outcomes such as low birth weight, preterm birth, and fetal death.
 In addition, untreated opioid addiction often results in continued or relapsing illicit opioid use.
 
 Dosage Adjustment During Pregnancy: The disposition of oral methadone has been studied in approximately 30 pregnant patients in second and third trimesters.
@@ -48,9 +44,7 @@ Opioid analgesics, including methadone hydrochloride tablets can prolong labor t
 However, this effect is not consistent and may be offset by an increased rate of cervical dilation, which tends to shorten labor.
 Monitor neonates exposed to opioid analgesics during labor for signs of excess sedation and respiratory depression.
 
-Data
-
-Human Data: Reported studies have generally compared the benefit of methadone to the risk of untreated addiction to illicit drugs; the relevance of these findings to pain patients prescribed methadone during pregnancy is unclear.
+Data Human Data: Reported studies have generally compared the benefit of methadone to the risk of untreated addiction to illicit drugs; the relevance of these findings to pain patients prescribed methadone during pregnancy is unclear.
 Pregnant women involved in methadone maintenance programs have been reported to have significantly improved prenatal care leading to significantly reduced incidence of obstetric and fetal complications and neonatal morbidity and mortality when compared to women using illicit drugs.
 Several factors, including maternal use of illicit drugs, nutrition, infection and psychosocial circumstances, complicate the interpretation of investigations of the children of women who take methadone during pregnancy.
 Information is limited regarding dose and duration of methadone use during pregnancy, and most maternal exposure appears to occur after the first trimester of pregnancy.
@@ -99,18 +93,12 @@ These animal data mirror the reported clinical findings of decreased testosteron
 
 ## 8.2 Lactation
 
-Risk Summary
-
-Based on two studies in 22 breastfeeding women maintained on methadone treatment, methadone was present in low levels in human milk, and did not show adverse reactions in breastfed infants.
+Risk Summary Based on two studies in 22 breastfeeding women maintained on methadone treatment, methadone was present in low levels in human milk, and did not show adverse reactions in breastfed infants.
 The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for methadone and any potential adverse effects on the breastfed child from the drug or from the underlying maternal condition.
 
-Clinical Considerations
+Clinical Considerations Advise breastfeeding women taking methadone to monitor the infant for increased drowsiness and breathing difficulties.
 
-Advise breastfeeding women taking methadone to monitor the infant for increased drowsiness and breathing difficulties.
-
-Data
-
-In a study of ten breastfeeding women maintained on oral methadone doses of 10 to 80 mg/day, methadone concentrations from 50 to 570 mcg/L in milk were reported, which, in the majority of samples, were lower than maternal serum drug concentrations at steady state.
+Data In a study of ten breastfeeding women maintained on oral methadone doses of 10 to 80 mg/day, methadone concentrations from 50 to 570 mcg/L in milk were reported, which, in the majority of samples, were lower than maternal serum drug concentrations at steady state.
 
 In a study of twelve breastfeeding women maintained on oral methadone doses of 20 to 80 mg/day, methadone concentrations from 39 to 232 mcg/L in milk were reported.
 Based on an average milk consumption of 150 mL/kg/day, an infant would consume approximately 17.4 mcg/kg/day which is approximately 2 to 3% of the oral maternal dose.
@@ -120,9 +108,7 @@ There have been rare cases of sedation and respiratory depression in infants exp
 
 ## 8.3 Females and Males of Reproductive Potential
 
-Infertility
-
-Chronic use of opioids may cause reduced fertility in females and males of reproductive potential.
+Infertility Chronic use of opioids may cause reduced fertility in females and males of reproductive potential.
 It is not known whether these effects on fertility are reversible [see Adverse Reactions (6), Clinical Pharmacology (12.2), Nonclinical Pharmacology (13.1)].
 Reproductive function in human males may be decreased by methadone treatment.
 Reductions in ejaculate volume and seminal vesicle and prostate secretions have been reported in methadone-treated individuals.

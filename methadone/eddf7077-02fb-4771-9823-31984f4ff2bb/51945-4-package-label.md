@@ -10,7 +10,7 @@ Mallinckrodt™
 
 L00M75
 
-Rev 04/2016
+Rev 07/2017
 
 # PRINCIPAL DISPLAY PANEL
 
@@ -24,4 +24,4 @@ Mallinckrodt™
 
 L00M79
 
-Rev 04/2016
+Rev 07/2017

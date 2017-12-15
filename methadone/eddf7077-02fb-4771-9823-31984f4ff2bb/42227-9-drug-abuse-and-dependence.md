@@ -29,9 +29,7 @@ Careful record-keeping of prescribing information, including quantity, frequency
 
 Proper assessment and selection of the patient, proper prescribing practices, periodic re-evaluation of therapy, and proper dispensing and storage are appropriate measures that help to limit abuse of opioid drugs.
 
-Risks Specific to Abuse of Methadone Hydrochloride Tablets
-
-Abuse of methadone hydrochloride tablets poses a risk of overdose and death.
+Risks Specific to Abuse of Methadone Hydrochloride Tablets Abuse of methadone hydrochloride tablets poses a risk of overdose and death.
 This risk is increased with concurrent abuse of methadone and alcohol or other substances.
 Methadone hydrochloride tablets are for oral use only and must not be injected.
 With intravenous abuse the inactive ingredients in methadone hydrochloride tablets can result in local tissue necrosis, infection, pulmonary granulomas, embolism and death, and increased risk of endocarditis and valvular heart injury.
