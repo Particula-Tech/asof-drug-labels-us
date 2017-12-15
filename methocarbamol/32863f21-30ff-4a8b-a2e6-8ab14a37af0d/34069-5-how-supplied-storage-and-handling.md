@@ -2,15 +2,13 @@
 
 Methocarbamol tablets, USP
 
-500 mg tablets are round standard concave, scored, white to off-white tablet, debossed S 225 on one side and plain on the reverse side.
+500 mg tablets are round standard convex, scored, white to off-white tablet, debossed S 225 on one side and plain on the reverse side.
 
 They are supplied as follows:
 
-Bottles of 100 NDC 43547-225-10 Bottles of 500 NDC 43547-225-50
+Bottles of 100 NDC 43547-405-10 Bottles of 500 NDC 43547-405-50
 
-Methocarbamol tablets, USP
-
-750 mg tablets are modified capsule shape, white to off-white tablet, debossed S 226 on one side and plain on the reverse side.
+Methocarbamol tablets, USP 750 mg tablets are modified capsule shape, white to off-white tablet, debossed S 226 on one side and plain on the reverse side.
 
 They are supplied as follows:
 

@@ -4,12 +4,14 @@
     "ANDA086989"
   ],
   "inn": "methocarbamol",
-  "labeler": "Solco Healthcare US LLC",
+  "labeler": "Solco Healthcare LLC",
   "package_ndcs": [
     "43547-225-10",
     "43547-225-50",
     "43547-226-10",
-    "43547-226-50"
+    "43547-226-50",
+    "43547-405-10",
+    "43547-405-50"
   ],
   "products": [
     {
