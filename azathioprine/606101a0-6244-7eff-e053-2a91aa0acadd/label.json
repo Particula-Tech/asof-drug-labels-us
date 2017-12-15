@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA016324"
+  ],
+  "inn": "azathioprine",
+  "labeler": "Sebela Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "54766-590-10"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "azathioprine",
+      "name": "IMURAN"
+    }
+  ],
+  "setid": "606101a0-6244-7eff-e053-2a91aa0acadd",
+  "source": "dailymed"
+}
