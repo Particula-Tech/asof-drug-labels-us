@@ -15,7 +15,8 @@ Consider the following important factors that differentiate methadone from other
 
 Induction/Initial Dosing for Detoxification and Maintenance Treatment of Opioid Addiction
 
-For detoxification and maintenance of opiate dependence, methadone should be administered in accordance with the treatment standards cited in 42 CFR Section 8.12, including limitations on unsupervised administration.
+| For detoxification and maintenance of opiate dependence, methadone should be administered in accordance with the treatment standards cited in 42 CFR Section 8.12, including limitations on unsupervised administration. |
+| --- |
 
 The initial methadone dose should be administered, under supervision, when there are no signs of sedation or intoxication, and the patient shows symptoms of withdrawal.
 Initially, a single dose of 20 to 30 mg of methadone will often be sufficient to suppress withdrawal symptoms.

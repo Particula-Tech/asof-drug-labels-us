@@ -26,9 +26,11 @@ Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 
 Mallinckrodt™
 
-L00M07 Rev 12/2016
+GTIN: 00304060527102
 
-Mallinckrodt Inc., Hazelwood, MO 63042 USA
+L00M07 Rev 07/2017
+
+SpecGx LLC, Webster Groves, MO 63119 USA
 
 Made in USA
 
@@ -60,8 +62,10 @@ Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 
 Mallinckrodt™
 
-L00M22 Rev 12/2016
+GTIN: 00304068725104
 
-Mallinckrodt Inc., Hazelwood, MO 63042 USA
+L00M22 Rev 07/2017
+
+SpecGx LLC, Webster Groves, MO 63119 USA
 
 Made in USA
