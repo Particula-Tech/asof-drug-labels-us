@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA021248"
+  ],
+  "inn": "arsenic-trioxide",
+  "labeler": "Cephalon, Inc.",
+  "package_ndcs": [
+    "63459-601-06",
+    "63459-601-11"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "arsenic trioxide",
+      "name": "Trisenox"
+    }
+  ],
+  "setid": "101fc347-d0ad-4aee-8b06-9feb187fd741",
+  "source": "dailymed"
+}
