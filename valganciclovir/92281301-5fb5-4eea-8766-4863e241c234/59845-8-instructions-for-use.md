@@ -1,40 +1,77 @@
-Instructions for Use Valganciclovir (val-gan-SYE-kloe-ver) Hydrochloride for Oral Solution
+# Instructions for Use
+
+Valganciclovir (val-gan-SYE-kloe-ver) Hydrochloride for Oral Solution
+
+Be sure that you read, and that you understand and follow these instructions carefully to ensure proper dosing of the oral solution.
 
 Important:
 
 - Avoid contact with your skin or eyes.
   If you come in contact with the contents of the oral solution, wash your skin well with soap and water or rinse your eyes well with plain water.
 - Do not use valganciclovir hydrochloride for oral solution after the expiration date on the bottle.
-- Call your pharmacist if your oral dispenser is lost or damaged, and they will tell you how to continue to take your medicine.
+- Always use the oral dispenser provided to take or give a dose of valganciclovir hydrochloride for oral solution.
+- Call your pharmacist if your oral dispenser is lost or damaged, and they will tell you how to continue to give or take a dose of valganciclovir hydrochloride for oral solution.
+- Ask your healthcare provider or pharmacist to show you how to measure your prescribed dose.
+  To take a dose of valganciclovir hydrochloride for oral solution, you will need the bottle of medicine and an oral dispenser provided with the medicine (see Figure 1).
+  Your pharmacist inserts the bottle adapter in the valganciclovir hydrochloride for oral solution bottle.
 
-How do I give valganciclovir hydrochloride for oral solution?
+Step 1: With the child-resistant cap on the bottle, shake the bottle well for about 5 seconds before each use.
 
-- Your pharmacist will mix valganciclovir hydrochloride for oral solution for you.
-- Be sure that you read, and that you understand and follow these instructions carefully to ensure proper dosing of the oral solution.
-  To take a dose of valganciclovir hydrochloride for oral solution, you will need the bottle of medicine and an oral dispenser (see Figure 1).
+Step 2: Open the bottle by pressing downward firmly on the child-resistant cap and turning it counterclockwise.
+Do not throw away the child-resistant cap.
 
-- Shake closed bottle well for about 5 seconds before each use.
-- Remove the child-resistant bottle cap.
-- Before inserting the tip of the oral dispenser into bottle adapter, push the plunger completely down toward the tip of the oral dispenser.
-- Insert tip firmly into opening of the bottle adapter.
-- Turn the entire unit (bottle and oral dispenser) upside down (see Figure 2).
+Step 3: Check the dose in milliliters (mL) as prescribed by your healthcare provider.
+Find this number on the oral dispenser.
 
-- Make sure the dosing dispenser stays connected to the bottle.
-  Pull the plunger down slowly until the prescribed amount of medicine is withdrawn into the oral dispenser (see Figure 3).
+Step 4: Push the plunger down toward the tip of the oral dispenser.
 
-- Turn the entire unit right side up and remove the oral dispenser slowly from the bottle.
-- Give the dose of medicine directly into mouth and swallow.
-  Do not mix with any liquid before giving the dose.
-- Close the bottle with child-resistant bottle cap after each use.
-- After taking your medicine, take apart (disassemble) the oral dispenser right away and rinse under running tap water.
-  Then air dry before next use.
+Step 5: With the bottle in an upright position, insert the oral dispenser into the bottle adapter opening until firmly in place.
+
+Step 6: Carefully turn the bottle upside down with the oral dispenser in place.
+Pull the plunger to withdraw the prescribed dose.
+If you see air bubbles in the syringe, fully push in the plunger so that the oral solution flows back into the bottle.
+Then withdraw your prescribed dose of valganciclovir hydrochloride for oral solution.
+
+Step 7: Leave the oral dispenser in the bottle adapter and turn the bottle to an upright position.
+Slowly remove the oral dispenser from the bottle adapter.
+
+Steps 8: Give or take the dose of valganciclovir hydrochloride for oral solution.
+
+- Place the tip of the oral dispenser in the mouth.
+- Slowly push down the oral dispenser plunger until the oral dispenser is empty.
+
+Step 9: Put the child-resistant cap back on the bottle.
+Return the bottle back to the refrigerator.
+
+Step 10: Rinse the oral dispenser with tap water after each use.
+
+- Remove the plunger from the oral dispenser barrel.
+- Rinse the oral dispenser barrel and plunger with water and let them air dry.
+- When the oral dispenser barrel and plunger are dry, put the plunger back into the oral dispenser barrel for the next use.
+
+Do not throw away the oral dispenser.
+
+How should I store valganciclovir hydrochloride for oral solution?
+
+- Store solution in the refrigerator at 36° to 46°F (2° to 8°C) for no longer than 49 days.
+- Do not freeze.
 
 This Patient Information and Instructions for Use have been approved by the U.S. Food and Drug Administration.
 
 Brands listed are the trademarks of their respective owners.
 
-Manufactured by: Actavis Laboratories FL, Inc. Fort Lauderdale, FL 33314 USA
+Manufactured by:
 
-Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
+Actavis Laboratories FL, Inc.
 
-Revised: March 2016
+Fort Lauderdale, FL 33314 USA
+
+Distributed by:
+
+Actavis Pharma, Inc.
+
+Parsippany, NJ 07054 USA
+
+Revised: November 2017
+
+For more information, go to www.actavis.com or call 1-800-272-5525.

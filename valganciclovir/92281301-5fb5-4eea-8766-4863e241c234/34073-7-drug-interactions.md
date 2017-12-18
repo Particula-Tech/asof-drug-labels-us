@@ -2,13 +2,19 @@
 
 In vivo drug-drug interaction studies were not conducted with valganciclovir.
 However, because valganciclovir is rapidly and extensively converted to ganciclovir, drug-drug interactions associated with ganciclovir will be expected for valganciclovir.
+Drug-drug interaction studies with ganciclovir were conducted in patients with normal renal function.
+Following concomitant administration of valganciclovir and other renally excreted drugs, patients with impaired renal function may have increased concentrations of ganciclovir and the coadministered drug.
+Therefore, these patients should be closely monitored for toxicity of ganciclovir and the coadministered drug.
+
 Established and other potentially significant drug interactions conducted with ganciclovir are listed in Table 9.
 
 Table 9 Established and Other Potentially Significant Drug Interactions with Ganciclovir
 
 | Name of the Concomitant Drug | Change in the Concentration of Ganciclovir or Concomitant Drug | Clinical Comment |
 | --- | --- | --- |
-| Zidovudine | ↓ Ganciclovir ↑ Zidovudine | Zidovudine and Valganciclovir each have the potential to cause neutropenia and anemia |
-| Probenecid | ↑ Ganciclovir | Patients taking probenecid and Valganciclovir should be monitored for evidence of ganciclovir toxicity |
-| Mycophenolate Mofetil (MMF) | ↔ Ganciclovir (in patients with normal renal function) ↔ MMF (in patients with normal renal function) | Patients with renal impairment should be monitored carefully as levels of MMF metabolites and ganciclovir may increase |
-| Didanosine | ↓ Ganciclovir ↑ Didanosine | Patients should be closely monitored for didanosine toxicity |
+| Imipenem-cilastatin | Unknown | Coadministration with imipenem­ cilastatin is not recommended because generalized seizures have been reported in patients who received ganciclovir and imipenem-cilastatin. |
+| Cyclosporine or amphotericin B | Unknown | Monitor renal function when valganciclovir hydrochloride is coadministered with cyclosporine or amphotericin B because of potential increase in serum creatinine [see Warnings and Precautions (5.2)]. |
+| Mycophenolate Mofetil (MMF) | ↔ Ganciclovir (in patients with normal renal function) ↔ MMF (in patients with normal renal function) | Based on increased risk, patients should be monitored for hematological and renal toxicity. |
+| Other drugs associated with myelosuppresion or nephrotoxicity (e.g., adriamycin, dapsone, doxorubicin, flucytosine, hydroxyurea, pentamidine, tacrolimus, trimethoprim/ sulfamethoxazole, vinblastine, vincristine, and zidovudine) | Unknown | Because of potential for higher toxicity, coadministration with valganciclovir hydrochloride should be considered only if the potential benefits are judged to outweigh the risks. |
+| Didanosine | ↔ Ganciclovir ↑ Didanosine | Patients should be closely monitored for didanosine toxicity (e.g., pancreatitis) |
+| Probenecid | ↑ Ganciclovir | Valganciclovir hydrochloride dose may need to be reduced. Monitor for evidence of ganciclovir toxicity. |
