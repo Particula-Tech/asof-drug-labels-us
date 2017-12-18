@@ -1,21 +1,36 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise patients:
+Gastrointestinal Perforations and Fistulae: Avastin may increase the risk of developing gastrointestinal perforations and fistulae.
+Advise patients to immediately contact their health care provider for high fever, rigors, persistent or severe abdominal pain, severe constipation, or vomiting [see Warnings and Precautions (5.1)].
 
-- To undergo routine blood pressure monitoring and to contact their health care provider if blood pressure is elevated.
-- To immediately contact their health care provider for unusual bleeding, high fever, rigors, sudden onset of worsening neurological function, or persistent or severe abdominal pain, severe constipation, or vomiting.
-- Of increased risk of wound healing complications during and following Avastin.
-- Of increased risk of an arterial thromboembolic event.
-- Of the increased risk for ovarian failure following Avastin treatment.
+Surgery and Wound Healing Complications: Avastin can increase the risk of wound healing complications.
+Advise patients that Avastin should not be used for at least 28 days before or after surgery and until surgical wounds are fully healed [see Warnings and Precautions (5.2)].
 
-Embryo-fetal Toxicity
+Hemorrhage: Avastin can increase the risk of hemorrhage.
+Advise patients to immediately contact their health care provider for signs and symptoms of serious or unusual bleeding including coughing or spitting blood [see Warnings and Precautions (5.3)].
 
-- Advise female patients that Avastin may cause fetal harm and to inform their healthcare provider with a known or suspected pregnancy.
-  [See Warnings and Precautions (5.11), Use in Specific Populations (8.1).]
-- Advise females of reproductive potential to use effective contraception during treatment with Avastin and for 6 months after the last dose of Avastin.
-  [See Use in Specific Populations (8.3).]
+Arterial and Venous Thromboembolism: Avastin increases the risk of arterial and venous thromboembolic events.
+Advise patients to immediately contact their health care provider for signs and symptoms of arterial or venous thromboembolism [see Warnings and Precautions (5.4, 5.5)].
 
-Lactation
+Hypertension: Avastin can increase blood pressure.
+Advise patients that they will undergo routine blood pressure monitoring and to contact their healthcare provider if they experience changes in blood pressure [see Warnings and Precautions (5.6)].
 
-- Advise nursing women that breastfeeding is not recommended during treatment with Avastin.
-  [See Use in Specific Populations (8.2).]
+Posterior Reversible Leukoencephalopathy Syndrome: Posterior reversible encephalopathy syndrome (PRES) has been associated with Avastin treatment.
+Advise patients to immediately contact their health care provider for new onset or worsening neurological function [see Warnings and Precautions (5.7)].
+
+Renal Injury and Proteinuria: Avastin increases the risk of proteinuria and renal injury, including nephrotic syndrome.
+Advise patients that treatment with Avastin requires regular monitoring of renal function and to contact their health care provider for proteinuria or signs and symptoms of nephrotic syndrome [see Warnings and Precautions (5.8)].
+
+Infusion Reactions: Avastin can cause infusion reactions.
+Advise patients to contact their healthcare provider immediately for signs or symptoms of infusion reactions [see Warnings and Precautions (5.9)].
+
+Congestive Heart Failure: Avastin can increase the risk of developing congestive heart failure.
+Advise patients to contact their healthcare provider immediately for signs and symptoms of CHF [see Warnings and Precautions (5.12)].
+
+Embryo-Fetal Toxicity: Advise female patients that Avastin may cause fetal harm and to inform their healthcare provider with a known or suspected pregnancy [see Warnings and Precautions (5.10), Use in Specific Populations (8.1)].
+Advise females of reproductive potential to use effective contraception during treatment with Avastin and for 6 months after the last dose of Avastin [see Use in Specific Populations (8.3)].
+
+Ovarian Failure: Avastin may lead to ovarian failure.
+Advise patients of potential options for preservation of ova prior to starting treatment [see Warnings and Precautions (5.11)].
+
+Lactation: Advise lactating women not to breastfeed while taking Avastin or within 6 months following their last dose of treatment [see Use in Specific Populations (8.2)].

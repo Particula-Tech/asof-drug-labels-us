@@ -1,9 +1,8 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Avastin vials [100 mg (NDC 50242-060-01) and 400 mg (NDC 50242-061-01)] are stable at 2–8°C (36–46°F).
-Avastin vials should be protected from light.
-Do not freeze or shake.
+Avastin (bevacizumab) Injection is a clear to slightly opalescent, colorless to pale brown, sterile solution for intravenous infusion supplied as single-dose vials in the following strengths: 100 mg/4 mL (NDC 50242-060-01) and 400 mg/16 mL (NDC 50242-061-01).
+Each carton contains one vial.
 
-Diluted Avastin solutions may be stored at 2–8°C (36–46°F) for up to 8 hours.
-Store in the original carton until time of use.
-No incompatibilities between Avastin and polyvinylchloride or polyolefin bags have been observed.
+Store refrigerated at 2–8°C (36–46°F) in the original carton until time of use to protect from light.
+
+Do not freeze or shake the vial.

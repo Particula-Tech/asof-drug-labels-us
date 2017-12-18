@@ -15,7 +15,7 @@ Rx only
 
 Genentech
 
-10166424
+10179239
 
 # PRINCIPAL DISPLAY PANEL - 16 mL Vial Carton
 
@@ -34,4 +34,4 @@ Rx only
 
 Genentech
 
-10166425
+10179240
