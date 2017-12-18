@@ -7,9 +7,9 @@ PHARMACIST: Dispense in a well-closed container as defined in the USP, with a ch
 
 Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 
-Manufactured For: Ingenus Pharmaceuticals, LLC 4190 Millenia Boulevard Orlando, FL 32839-6408 Customer complaint toll free number: 1-877-748-1970
+Manufactured For: Ingenus Pharmaceuticals, LLC Orlando, FL 32839-6408
 
-Manufactured By: Mirror Pharmaceuticals LLC 140 New Dutch Lane Fairfield, NJ 07004
+Manufactured By: Ingenus Pharmaceuticals NJ, LLC Fairfield, NJ 07004
 
 5517 Rev.
-09/2015
+06/2017

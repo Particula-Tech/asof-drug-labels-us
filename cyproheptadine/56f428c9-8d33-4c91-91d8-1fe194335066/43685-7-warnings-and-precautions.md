@@ -21,11 +21,7 @@ Antihistamines are more likely to cause dizziness, sedation, and hypotension in 
 
 Cyproheptadine has an atropine-like action and, therefore, should be used with caution in patients with:
 
-- History of bronchial asthma
-- Increased intraocular pressure
-- Hyperthyroidism
-- Cardiovascular disease
-- Hypertension
+History of bronchial asthma Increased intraocular pressure Hyperthyroidism Cardiovascular disease Hypertension
 
 ## Information for Patients
 

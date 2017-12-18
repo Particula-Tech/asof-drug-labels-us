@@ -1,6 +1,6 @@
 # ADVERSE REACTIONS
 
-To report SUSPECTED ADVERSE REACTIONS, please call Ingenus Pharmaceuticals, LLC at 1-877-748-1970 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch
+To report SUSPECTED ADVERSE REACTIONS, please call Ingenus Pharmaceuticals NJ, LLC at 1-877-748-1970 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch
 
 Adverse reactions which have been reported with the use of antihistamines are as follows:
 
