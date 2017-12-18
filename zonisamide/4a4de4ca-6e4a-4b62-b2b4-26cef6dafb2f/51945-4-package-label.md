@@ -1,0 +1,25 @@
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+
+NDC 70771-1142-1 in bottle of 100 Capsules
+
+Zonisamide Capsules, 25 mg
+
+Rx only
+
+100 Capsules
+
+NDC 70771-1143-1 in bottle of 100 Capsules
+
+Zonisamide Capsules, 50 mg
+
+Rx only
+
+100 Capsules
+
+NDC 70771-1144-1 in bottle of 100 Capsules
+
+Zonisamide Capsules, 100 mg
+
+Rx only
+
+100 Capsules

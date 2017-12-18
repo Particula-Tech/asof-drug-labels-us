@@ -1,0 +1,25 @@
+{
+  "application_numbers": [
+    "ANDA077625"
+  ],
+  "inn": "zonisamide",
+  "labeler": "Cadila Healthcare Limited",
+  "package_ndcs": [
+    "70771-1142-1",
+    "70771-1142-5",
+    "70771-1143-1",
+    "70771-1143-5",
+    "70771-1144-0",
+    "70771-1144-1",
+    "70771-1144-5"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "zonisamide",
+      "name": "Zonisamide"
+    }
+  ],
+  "setid": "4a4de4ca-6e4a-4b62-b2b4-26cef6dafb2f",
+  "source": "dailymed"
+}
