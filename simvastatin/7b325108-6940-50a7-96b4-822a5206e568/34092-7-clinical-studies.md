@@ -43,6 +43,8 @@ Treatment with simvastatin produced significant relative risk reductions for all
 The risk reductions produced by simvastatin in both MCE and MVE were evident and consistent regardless of cardiovascular disease related medical history at study entry (i.e., CHD alone; or peripheral vascular disease, cerebrovascular disease, diabetes or treated hypertension, with or without CHD), gender, age, creatinine levels up to the entry limit of 2.3 mg/dL, baseline levels of LDL-C, HDL-C, apolipoprotein B and A-1, baseline concomitant cardiovascular medications (i.e., aspirin, beta blockers, or calcium channel blockers), smoking status, alcohol intake, or obesity.
 Diabetics showed risk reductions for MCE and MVE due to simvastatin treatment regardless of baseline HbA1c levels or obesity with the greatest effects seen for diabetics without CHD.
 
+Figure 1 The Effects of Treatment with Simvastatin on Major Vascular Events and Major Coronary Events in HPS
+
 Angiographic Studies
 
 In the Multicenter Anti-Atheroma Study, the effect of simvastatin on atherosclerosis was assessed by quantitative coronary angiography in hypercholesterolemic patients with CHD.
