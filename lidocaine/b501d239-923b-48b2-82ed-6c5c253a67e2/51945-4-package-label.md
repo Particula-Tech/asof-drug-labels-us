@@ -1,26 +1,3 @@
-PRINCIPAL DISPLAY PANEL - Gel Cartidge Carton
+# Principal Display Panel - 20 cartridge carton
 
-NDC 66312-110-20 Rx only
-
-oraqix®
-
-(lidocaine and prilocaine periodontal gel) 2.5% / 2.5% Local Anesthetic for Periodontal Use
-
-To be applied in periodontal pockets by the sterile blunt-tipped applicator included with the pack.
-Please see enclosed package insert for full prescribing information.
-
-20 cartridges x 1.7 g gel Not for injection.
-
-DENTSPLY PHARMACEUTICAL
-
-PRINCIPAL DISPLAY PANEL - Dispenser Carton
-
-oraqix®
-
-Dispenser
-
-Not for Injection
-
-PN 66400
-
-DENTSPLY
+# Principal Display Panel - Dispenser Carton

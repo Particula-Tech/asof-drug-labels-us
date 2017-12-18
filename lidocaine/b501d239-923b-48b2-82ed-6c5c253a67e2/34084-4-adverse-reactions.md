@@ -17,7 +17,7 @@ Other symptoms reported in more than one patient were headache, taste perversion
 Table 1.
 Number (percent) of patients with adverse events occurring in more than one patient in any of the treatment groups.
 
-| System Organ Class Preferred Term | Oraqix gelin a cross-over study, 170 subjects received either Oraqix or lidocaine injection 2% in each test period (N = 391) n (%) | Placebo gel (N = 168) n (%) | Lidocaine injection (N = 170) n (%) |
+| System Organ Class Preferred Term | Oraqix gel in a cross-over study, 170 subjects received either Oraqix or lidocaine injection 2% in each test period (N = 391) n (%) | Placebo gel (N = 168) n (%) | Lidocaine injection (N = 170) n (%) |
 | --- | --- | --- | --- |
 | Each patient is counted only once per adverse event. The occurrence in a single patient is included in this table if the same symptom has been seen in at least one patient in another group. |  |  |  |
 | Muscular-Skeletal System Disorders Myalgia | 1(0) | 2(1) |  |
@@ -25,7 +25,7 @@ Number (percent) of patients with adverse events occurring in more than one pati
 | Central & Peripheral Nervous System Disorders |  |  |  |
 | Headache | 8(2) | 3(2) | 5(3) |
 | Dizziness | 1(0) | 1(1) | 1(1) |
-| Special Senses Other, Disorders Taste Perversionincludes complaints of bad or bitter taste lasting for up to 4 hours after administration of Oraqix | 8(2) | 1(1) |  |
+| Special Senses Other, Disorders Taste Perversion includes complaints of bad or bitter taste lasting for up to 4 hours after administration of Oraqix | 8(2) | 1(1) |  |
 | Gastro-Intestinal System Disorders Nausea | 3(1) |  | 1(1) |
 | Respiratory System Disorders Respiratory Infection | 2(1) |  | 1(1) |
 | Rhinitis |  | 2 (1) |  |
@@ -33,5 +33,5 @@ Number (percent) of patients with adverse events occurring in more than one pati
 | Fatigue | 3(1) |  | 2(1) |
 | Flu-Like Disorder | 2(1) |  |  |
 | Pain (remote from application site) | 1(0) | 1(1) | 1(1) |
-| Application Site Disordersi.e. symptoms in the oral cavity Anesthesia Local | 2(1) |  |  |
-| Application Site Reactionincludes pain, soreness, irritation, numbness, ulcerations, vesicles, edema, abscess and/or redness in the treated area | 52(13) | 20(12) |  |
+| Application Site Disorders i.e. symptoms in the oral cavity Anesthesia Local | 2(1) |  |  |
+| Application Site Reaction includes pain, soreness, irritation, numbness, ulcerations, vesicles, edema, abscess and/or redness in the treated area | 52(13) | 20(12) |  |

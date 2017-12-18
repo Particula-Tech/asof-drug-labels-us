@@ -14,7 +14,7 @@ Visual Analog Pain Scale (100 mm scale)
 
 | Study (No. of patients) | Oraqix Median VAS | Placebo Median VAS |
 | --- | --- | --- |
-| B1 (n=122)p<0.05 | 7 | 17 |
+| B1 (n=122) p<0.05 | 7 | 17 |
 | B2 (n=130) | 5 | 13 |
 | B3 (n=85) | 11 | 27 |
 | Visual Analog Pain Scale |  |  |
@@ -27,7 +27,7 @@ Verbal Rating Scale
 
 | Study (No. of Patients) | Oraqix | Placebo |
 | --- | --- | --- |
-| B1 (n=122)p<0.05 in the statistical test of the full five categorical scale | 57 (90%) | 38 (64%) |
+| B1 (n=122) p<0.05 in the statistical test of the full five categorical scale | 57 (90%) | 38 (64%) |
 | B2 (n=130) | 49 (78%) | 51 (76%) |
 | B3 (n=85) | 30 (70%) | 20 (48%) |
 | Number of Patients Reporting "no pain" or "mild pain" during SRP |  |  |
