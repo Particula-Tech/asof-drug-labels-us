@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA207428"
+  ],
+  "inn": "sotalol",
+  "labeler": "Bayshore Pharmaceuticals LLC",
+  "package_ndcs": [
+    "76385-114-01",
+    "76385-114-50",
+    "76385-115-01",
+    "76385-115-50",
+    "76385-116-01",
+    "76385-116-50"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "sotalol hydrochloride",
+      "name": "Sotalol"
+    }
+  ],
+  "setid": "56879738-8662-4f5c-8386-761ab2b5e46f",
+  "source": "dailymed"
+}
