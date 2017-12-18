@@ -11,7 +11,8 @@ People who cannot swallow well may need a feeding tube to receive food and water
 If swallowing problems are severe, food or liquids may go into your lungs.
 People who already have swallowing or breathing problems before receiving DYSPORT® have the highest risk of getting these problems.
 
-2.Spread of toxin effects.
+2.
+Spread of toxin effects.
 In some cases, the effect of botulinum toxin may affect areas of the body away from the injection site and cause symptoms of a serious condition called botulism.
 The symptoms of botulism include:
 
@@ -25,7 +26,7 @@ What is DYSPORT®?
 
 DYSPORT® is a prescription medicine that is injected into muscles and used:
 
-• to treat cervical dystonia (CD) in adults • to improve the look of moderate to severe frown lines between the eyebrows (glabellar lines) in adults younger than 65 years of age for a short period of time (temporary) • to treat increased muscle stiffness in, elbow, wrist, and finger muscles in adults with upper limb spasticity.• to treat increased muscle stiffness in calf muscles in children 2 years of age and older with lower limb spasticity.
+• to treat cervical dystonia (CD) in adults • to improve the look of moderate to severe frown lines between the eyebrows (glabellar lines) in adults younger than 65 years of age for a short period of time (temporary) • to treat increased muscle stiffness in adults with spasticity • to treat increased muscle stiffness in children 2 years of age and older with lower limb spasticity.
 
 CD is caused by muscle spasms in the neck.
 These spasms cause abnormal position of the head and often neck pain.
@@ -34,12 +35,13 @@ This may help lessen your symptoms.
 Frown lines (wrinkles) happen because the muscles that control facial expression are used often (muscle tightening over and over).
 After DYSPORT® is injected into the muscles that control facial expression, the medicine stops the tightening of these muscles for up to 4 months.
 
-Upper limb spasticity is caused by muscle spasms in the elbow, wrist, and finger muscles.
+Upper limb spasticity in adults is caused by muscle spasms in the elbow, wrist, and finger muscles.
+Lower limb spasticity in adults is caused by muscle spasms in the toe and ankle muscles.
 These spasms cause an abnormal position of these muscles.
 After DYSPORT® is injected into the muscles, those muscles are weakened for up to 12 to 16 weeks or longer.
-This may help lessen your symptoms.
+This may help lessen your symptoms
 
-Lower limb spasticity is caused by muscle spasms in calf muscles.
+Lower limb spasticity in children is caused by muscle spasms in calf muscles.
 These spasms cause an abnormal position of these muscles.
 After DYSPORT® is injected into muscles, those muscles are weakened for up to 16 to 22 weeks or longer.
 This may help lessen your symptoms.
@@ -70,7 +72,7 @@ Ask your doctor if you are not sure if your medicine is one that is listed above
 Know the medicines you take.
 Keep a list of your medicines with you to show your doctor and pharmacist each time you get a new medicine.
 
-How should I take DYSPORT®? • DYSPORT® is an injection that your doctor will give you • DYSPORT® is injected into the affected muscles • If you are and adult, your doctor may give you another dose of DYSPORT® after 12 weeks or longer, if it is needed • If you are an adult being treated for CD or upper limb spasticity or you are a child (2 to 17 years of age) being treated for lower limb spasticity, your doctor may change your dose of DYSPORT®, until you and your doctor find the best dose for you.
+How should I take DYSPORT®? • DYSPORT® is an injection that your doctor will give you • DYSPORT® is injected into the affected muscles • If you are and adult, your doctor may give you another dose of DYSPORT® after 12 weeks or longer, if it is needed • If you are an adult being treated for CD or spasticity or you are a child (2 to 17 years of age) being treated for lower limb spasticity, your doctor may change your dose of DYSPORT®, until you and your doctor find the best dose for you.
 Children should not be retreated sooner than every 12 weeks. • The dose of DYSPORT® is not the same as the dose of any other botulinum toxin product
 
 What should I avoid while taking DYSPORT®?
@@ -81,7 +83,7 @@ See "What is the most important information I should know about DYSPORT®?"
 
 What are the possible side effects of DYSPORT®?
 
-DYSPORT®can cause serious side effects.
+DYSPORT® can cause serious side effects.
 See "What is the most important information I should know about DYSPORT®?"
 
 The most common side effects of DYSPORT® in people with cervical dystonia include:
@@ -90,11 +92,19 @@ The most common side effects of DYSPORT® in people with cervical dystonia inclu
 
 The most common side effects of DYSPORT® in people with glabellar lines include:
 
-• stuffy or runny nose and sore throat • injection site pain • upper respiratory infection • blood in urine• headache • injection site reaction • swelling of eyelids • drooping eyelids • sinus infection • nausea
+• stuffy or runny nose and sore throat • injection site pain • upper respiratory infection • blood in urine • headache • injection site reaction • swelling of eyelids • drooping eyelids • sinus infection • nausea
 
 The most common side effects of DYSPORT® in adults with upper limb spasticity include:
 
 • urinary tract infection • muscle weakness • musculoskeletal pain • fall • depression • stuffy or runny nose and sore throat • dizziness
+
+The most common side effects of DYSPORT®in adults with lower limb spasticity include:
+
+• muscle weakness • pain in your arms or legs • fall
+
+The most common side effects of DYSPORT® in children (2 to 17 years of age) with lower limb spasticity include:
+
+• upper respiratory infection • stuffy or runny nose and sore throat • flu • cough • fever
 
 Tell your doctor if you have any side effect that bothers you or that does not go away.
 These are not all the possible side effects DYSPORT®.
@@ -120,4 +130,4 @@ Distributed by: Ipsen Biopharmaceuticals, Inc. Basking Ridge, NJ 07920 and Galde
 Fort Worth, TX 76177; Manufactured by: Ipsen Biopharma Ltd. Wrexham, LL13 9UF, UK U.S. License No. 1787 For more information about DYSPORT®, call 877-397-7671 or go to www.dysport.com or www.DysportUSA.com.
 This Medication Guide has been approved by the U.S. Food and Drug Administration
 
-Revised 12/2016
+Revised 11/2017

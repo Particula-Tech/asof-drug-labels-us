@@ -8,7 +8,7 @@ The following serious adverse reactions are discussed below and elsewhere in lab
 - Dysphagia and Breathing Difficulties [see Warnings and Precautions (5.3)]
 - Facial Anatomy in the Treatment of Glabellar Lines [see Warnings and Precautions (5.4)]
 - Pre-existing Neuromuscular Disorders [see Warnings and Precautions (5.5)]
-- Human Albumin [see Warnings and Precautions (5.6)]
+- Human Albumin and Transmission of Viral Diseases [see Warnings and Precautions (5.6)]
 - Intradermal Immune Reaction [see Warnings and Precautions (5.
   7)]
 
@@ -33,11 +33,11 @@ The rates of adverse reactions were higher in the combined controlled and open-l
 During the clinical studies, two patients (<1%) experienced adverse reactions leading to withdrawal.
 One patient experienced disturbance in attention, eyelid disorder, feeling abnormal and headache, and one patient experienced dysphagia.
 
-Table 4 compares the incidence of the most frequent adverse reactions from a single treatment cycle of 500 Units of DYSPORT® compared to placebo [see Clinical Studies (14.1)].
+Table 5 compares the incidence of the most frequent adverse reactions from a single treatment cycle of 500 Units of DYSPORT® compared to placebo [see Clinical Studies (14.1)].
 
-Table 4: Most Common Adverse Reactions (≥ 5%) and Greater than Placebo in the Pooled, Double-blind Placebo-Controlled Phase of Clnical Trials in Patients with Cervical Dystonia
+Table 5: Most Common Adverse Reactions (≥ 5%) and Greater than Placebo in the Pooled, Double-blind, Placebo-Controlled Phase of Clnical Trials in Patients with Cervical Dystonia
 
-| Adverse Reaction | DYSPORT® 500 Units (N=173) | Placebo (N-182) |
+| Adverse Reaction | DYSPORT® 500 Units (N=173) | Placebo (N=182) |
 | --- | --- | --- |
 |  | % | % |
 | Any Adverse Reaction | 61 | 51 |
@@ -56,16 +56,15 @@ Table 4: Most Common Adverse Reactions (≥ 5%) and Greater than Placebo in the 
 | Infections and infestations | 13 | 9 |
 | Respiratory, thoracic and mediastinal disorders | 12 | 8 |
 | Dysphonia | 6 | 2 |
-| Eye Disordersa | 7 | 2 |
-| a The following preferred terms were reported: vision blurred, diplopia, visual acuity reduced, eye pain, eyelid disorder, accommodation disorder, dry eye, eye pruritus. |  |  |
+| Eye Disorders The following preferred terms were reported: vision blurred, diplopia, visual acuity reduced, eye pain, eyelid disorder, accommodation disorder, dry eye, eye pruritus. | 7 | 2 |
 
-Dose-response relationships for common adverse reactions in a randomized multiple fixed-dose study in which the total dose was divided between two muscles (the sternocleidomastoid and splenius capitis) are shown in Table 5.
+Dose-response relationships for common adverse reactions in a randomized multiple fixed-dose study in which the total dose was divided between two muscles (the sternocleidomastoid and splenius capitis) are shown in Table 6.
 
-Table 5: Common Adverse Reactions by Dose in Fixed-dose Study in Patients with Cervical Dystonia
+Table 6: Common Adverse Reactions by Dose in Fixed-dose Study in Patients with Cervical Dystonia
 
-| Adverse Reaction | DYSPORT® Dose |  |  |  |
+| Adverse Reactions | DYSPORT® Dose |  |  |  |
 | --- | --- | --- | --- | --- |
-|  | Placebo | 250 Units | 500 Units | 1000 Units |
+| Placebo | 250 Units | 500 Units | 1000 Units |  |
 | Any Adverse Event | 30% | 37% | 65% | 83% |
 | Dysphagia | 5% | 21% | 29% | 39% |
 | Dry Mouth | 10% | 21% | 18% | 39% |
@@ -73,8 +72,7 @@ Table 5: Common Adverse Reactions by Dose in Fixed-dose Study in Patients with C
 | Injection Site Discomfort | 10% | 5% | 18% | 22% |
 | Dysphonia | 0% | 0% | 18% | 28% |
 | Facial Paresis | 0% | 5% | 0% | 11% |
-| Eye Disordersa | 0% | 0% | 6% | 17% |
-| a The following preferred terms were reported: vision blurred, diplopia, visual acuity reduced, eye pain, eyelid disorder, accommodation disorder, dry eye, eye pruritus |  |  |  |  |
+| Eye Disorder The following preferred terms were reported: vision blurred, diplopia, visual acuity reduced, eye pain, eyelid disorder, accommodation disorder, dry eye, eye pruritus. | 0% | 0% | 6% | 17% |
 
 Injection Site Reactions
 
@@ -106,19 +104,19 @@ Glabellar Lines
 
 In placebo-controlled clinical trials of DYSPORT®, the most common adverse reactions(≥2%) following injection of DYSPORT® were nasopharyngitis, headache, injection site pain, injection site reaction, upper respiratory tract infection, eyelid edema, eyelid ptosis, sinusitis,nausea, and blood present in urine.
 
-Table 6 reflects exposure to DYSPORT® in 398 patients 19 to 75 years of age who were evaluated in the randomized, placebo- controlled clinical studies that assessed the use of DYSPORT® for the temporary improvement in the appearance of glabellar lines [see Clinical Studies (14)].
+Table 7 reflects exposure to DYSPORT® in 398 patients 19 to 75 years of age who were evaluated in the randomized, placebo- controlled clinical studies that assessed the use of DYSPORT® for the temporary improvement in the appearance of glabellar lines [see Clinical Studies (14)].
 Adverse reactions of any cause occurred in 48% of the DYSPORT®-treated patients and 33% of the placebo-treated patients.
 
-Table 6: Most Common Adverse Reactions with > 1% Incidence in Pooled, Placebo-Controlled Trials for Glabellar Lines
+Table 7: Most Common Adverse Reactions with > 1% Incidence in Pooled, Placebo-Controlled Trials for Glabellar Lines
 
 | Adverse Reactions by Body System | DYSPORT® n=398 (%) Patients who received treatment with placebo and DYSPORT® are counted in both treatment columns. | Placebo n=496(%) |
 | --- | --- | --- |
 | Any Adverse Reaction | 48 | 33 |
 | Eye Disorders Eyelid Edema Eyelid Ptosis | 2 2 | 0 <1 |
 | Gastrointestinal Disorders Nausea | 2 | 1 |
-| General Disorders and Administrative Site Conditions Injection Site Pain Injection Site Reaction | 3 3 | 2 <1 |
+| General Disorders and Administrative Site Conditions Injection Site Pain Injection Site Reaction | 3 3 | 2 < 1 |
 | Infections and Infestations Nasopharyngitis Upper Respiratory Tract Infection Sinusitis | 10 3 2 | 4 2 1 |
-| Investigations Blood Present in Urine | 2 | <1 |
+| Investigations Blood Present in Urine | 2 | < 1 |
 | Nervous System Disorders Headache | 9 | 5 |
 
 In the overall safety database, where some patients received up to twelve treatments with DYSPORT®, adverse reactions were reported for 57% (1425/2491) of patients.
@@ -130,11 +128,15 @@ The incidence of eyelid ptosis did not increase in the long-term safety studies 
 The majority of the reports of eyelid ptosis were mild to moderate in severity and resolved over several weeks.
 [see Dosage and Administration (2.3)].
 
-Upper Limb Spasticityin Adults
+Spasticity in Adults
 
-Table 7 lists the most frequently reported adverse reactions (≥2%) in any DYSPORT® dose group and more frequent than placebo in double blind studies evaluating the treatment of upper limb spasticity in adults with DYSPORT®.
+Injection Site Reactions Injection site reactions (e.g. pain, bruising, haemorrhage, erythema/haematoma etc.) have occurred following administration of DYSPORT® in adults treated for spasticity.
 
-Table 7: Most Common Adverse Reactions Observed in at Least 2% of Patients Treated in Pooled, Double-Blind Trials of Adult Patients with Upper Limb Spasticity Reported More Frequently than with Placebo
+Upper Limb Spasticity in Adults
+
+Table 8 lists the most frequently reported adverse reactions (≥ 2%) in any DYSPORT® dose group and more frequent than placebo in double-blind studies evaluating the treatment of upper limb spasticity in adults with DYSPORT®.
+
+Table 8: Most Common Adverse Reactions Observed in at Least 2% of Patients Treated in Pooled, Double-Blind Trials of Adult Patients with Upper Limb Spasticity Reported More Frequently than with Placebo
 
 | Adverse Reaction | DYSPORT® |  | Placebo |
 | --- | --- | --- | --- |
@@ -147,10 +149,10 @@ Table 7: Most Common Adverse Reactions Observed in at Least 2% of Patients Treat
 | Musculoskeletal and connective tissue disorders |  |  |  |
 | Muscular weakness | 2 | 4 | 1 |
 | Pain in extremity | 0 | 2 | 1 |
-| Musculoskeletal pain | 3 | 21 | 2 |
+| Musculoskeletal pain | 3 | 2 | 2 |
 | Back pain | 1 | 2 | 1 |
 | Nervous system disorders |  |  |  |
-| Headache | 1 | 1 | 1 |
+| Headache | 1 | 2 | 1 |
 | Dizziness | 3 | 1 | 1 |
 | Convulsion | 2 | 2 | 1 |
 | Syncope | 1 | 2 | 0 |
@@ -176,19 +178,41 @@ Table 7: Most Common Adverse Reactions Observed in at Least 2% of Patients Treat
 | Psychiatric disorders |  |  |  |
 | Depression | 2 | 3 | 1 |
 
-Less Common Adverse Reactions
+Less Common Adverse Reactions In a pooled analysis of clinical studies, adverse reactions with an incidence of less than 2% reported in DYSPORT® treatment groups included dysphagia 0.5%, gait disturbance 0.5%, hypertonia 0.5%, and sensation of heaviness 0.3%.
 
-In a pooled analysis of clinical studies, adverse reactions with an incidence of less than 2% reported in DYSPORT® treatment groups included dysphagia 0.5%, gait disturbance 0.5%, hypertonia 0.5%, and sensation of heaviness 0.3%.
-Injection site reactions (e.g. pain, bruising, haemorrhage, injection siteerythema/haematoma etc.) have occurered following administration of DYSPORT®.
+Lower Limb Spasticity in Adults
 
-Lower Limb Spasticity in Pediatric Patients Table 8 reflects exposure to DYSPORT® in 160 patients, 2 to 17 years of age, who were evaluated in the randomized, placebo-controlled clinical study that assessed the use of DYSPORT®for the treatment of unilateral or bilateral lower limb spasticity in pediatric cerebral palsy patients [see Clinical Studies (14.4)].
+The data described below reflect exposure to DYSPORT® in 255 adult patients with lower limb spasticity.
+Of this population, 89% were Caucasian, 66% male, and the median age was 55 years (range 23-77 years).
+Table 9 lists the adverse reactions that occurred in ≥ 2% of patients in any DYSPORT® dose group and more frequent than placebo in the double blind study evaluating the treatment of lower limb spasticity in adults.
+The most common of these adverse reactions (≥ 5%) in any DYSPORT® dose group were falls, muscular weakness, and pain in extremity.
+
+Table 9: Adverse Reactions Observed in at Least 2% of Patients Treated in the Double-Blind Trial of Adult Patients with Lower Limb Spasticity and Reported More Frequently than with Placebo
+
+| Adverse Reactions | Dysport 1000 U (N = 127) % | Dysport 1500 U (N = 128) % | Placebo (N = 130) % |
+| --- | --- | --- | --- |
+| Musculoskeletal and connective tissue disorders Muscular weakness Pain in extremity Arthralgia Back pain | 2 6 4 3 | 7 6 2 0 | 3 2 1 2 |
+| Injury, poisoning and procedural complications Fall Contusion Wrist fracture | 9 2 2 | 6 0 0 | 3 0 0 |
+| Nervous system disorders Headache Epilepsy/Convulsion/Partial seizure/Status Epilepticus | 0 4 | 3 1 | 1 2 |
+| Infections and infestations Upper respiratory tract infection | 2 | 1 | 1 |
+| General disorders and administration site conditions Fatigue Asthenia Influenza-like illness Edema peripheral | 1 2 2 2 | 4 1 0 0 | 0 1 0 0 |
+| Investigations Alanine aminotransferase increase | 2 | 0 | 1 |
+| Gastrointestinal disorders Constipation Dysphagia | 0 2 | 2 1 | 1 1 |
+| Psychiatric disorders Depression Insomnia | 2 0 | 3 2 | 0 0 |
+| Vascular disorders Hypertension | 2 | 1 | 1 |
+
+In the efficacy and safety studies of DYSPORT® for the treatment of lower limb spasticity in adults, muscular weakness was reported more frequently in women (10%) treated with 1500 units of DYSPORT® compared to men (5%).
+Falls were reported more frequently in patients 65 years of age and over.
+[see Use in Specific Populations (8.5)]
+
+Lower Limb Spasticity in Pediatric Patients Table 10 reflects exposure to DYSPORT® in 160 patients, 2 to 17 years of age, who were evaluated in the randomized, placebo-controlled clinical study that assessed the use of DYSPORT®for the treatment of unilateral or bilateral lower limb spasticity in pediatric cerebral palsy patients [see Clinical Studies (14.4)].
 The most commonly observed adverse reactions (≥ 10% of patients) are: upper respiratory tract infection, nasopharyngitis, influenza, pharyngitis, cough and pryrexia.
 
-Table 8: Adverse Reactions Observed in ≥ 4% of Patients Treated in the Double-Blind Trial of Pediatric Patients with Lower Limb Spasticity and Reported More Frequently than with Placebo
+Table 10: Adverse Reactions Observed in ≥ 4% of Patients Treated in the Double-Blind Trial of Pediatric Patients with Lower Limb Spasticity and Reported More Frequently than with Placebo
 
 | Adverse Reactions |  | Unilteral |  | Bilateral |  |
 | --- | --- | --- | --- | --- | --- |
-|  | Placebo (n=79) % | Dysport® 10 Units/kg (n=43) % | Dysport® 15 Units/kg (n=50) % | Dysport® 20 Units/kg (n=37) % | Dysport® 30 Units/kg (n=30) % |
+| Placebo (n=79) % | Dysport® 10 Units/kg (n=43) % | Dysport® 15 Units/kg (n=50) % | Dysport® 20 Units/kg (n=37) % | Dysport® 30 Units/kg (n=30) % |  |
 | Infections and Infestations |  |  |  |  |  |
 | Nasopharyngitis | 5 | 9 | 12 | 16 | 10 |
 | Upper respiratory tract infection | 13 | 9 | 20 | 5 | 10 |
@@ -219,6 +243,8 @@ Table 8: Adverse Reactions Observed in ≥ 4% of Patients Treated in the Double-
 Because adverse reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 The following adverse reactions have been identified during post-approval use of DYSPORT®: vertigo, photophobia, influenza-like illness, amyotrophy, burning sensation, facial paresis, hypoesthesia, erythema, and excessive granulation tissue.
+Hypersensitivity reactions including anaphylaxis have been reported.
+Dry Eye was observed at <1% during clinical trials and has been reported in post-marketing surveillance in the treatment of glabellar lines.
 
 ## 6.3 Immunogenicity
 
@@ -239,7 +265,7 @@ Two subjects (0.13%) tested positive for binding antibodies at baseline.
 Three additional subjects tested positive for binding antibodies after receiving DYSPORT® treatment.
 None of the subjects tested positive for neutralizing antibodies.
 
-Upper Limb Spasticity
+Spasticity in Adults Upper Limb Spasticity
 
 From 230 subjects treated with DYSPORT® and tested for the presence of binding antibodies, 5 subjects were positive at baseline and 17 developed antibodies after treatment.
 Among those 17 subjects, 10 subjects developed neutralizing antibodies.
@@ -247,11 +273,19 @@ An additional 51 subjects from a separate repeat-dose study were tested for the 
 None of the subjects tested positive.
 
 In total, from the 281 subjects treated in the long-term studies and tested for the presence of neutralizing antibodies, 3.6% developed neutralizing antibodies after treatment.
-
 In the presence of binding and neutralizing antibodies to DYSPORT® some patients continue to experience clinical benefit.
 
+Lower Limb Spasticity
+
+From 367 subjects treated with DYSPORT® and tested for the presence of binding antibodies, 4 subjects were positive at baseline and 2 developed binding antibodies after treatment.
+No subjects developed neutralizing antibodies.
+An additional 85 subjects from two separate studies were tested for the presence of neutralizing antibodies only.
+One subject tested positive for the presence of neutralizing antibodies.
+
+In total, from the 452 subjects treated in with DYSORT® and tested for the presence of neutralizing antibodies, 0.2% developed neutralizing antibodies after treatment.
+
 Lower Limb Spasticity in Pediatric Patients From 226 subjects treated with DYSPORT® and tested for the presence of binding antibodies, 5 subjects previously receiving botulinum toxins were positive at baseline and 9 patients developed binding antibodies after injections.
-Among 9 subjects, 3 subjects developed neutralizing antibodies, while one subject developed neutralizing antibodies from the 5 subjects testing positive for binding antibodies at baseline who previously received botulinum toxin injections.
+Among those 9 subjects, 3 subjects developed neutralizing antibodies, while one subject developed neutralizing antibodies from the 5 subjects testing positive for binding antibodies at baseline who previously received botulinum toxin injections.
 
 From a separate repeat-dose study, 203 subjects were tested for the presence of neutralizing antibodies.
 Two subjects were positive for neutralizing antibodies at baseline and 5 subjects developed neutralizing antibodies after treatments.

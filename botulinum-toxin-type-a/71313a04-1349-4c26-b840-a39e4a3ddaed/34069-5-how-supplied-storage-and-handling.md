@@ -11,7 +11,7 @@ DYSPORT® contains a unique hologram on the carton.
 If you do not see the hologram, do not use the product.
 Instead contact 877-397-7671.
 
-Cervical Dystonia, Upper Limb Spasticity in Adults, and Lower Limb Spasticity in Pediatric Patients
+Cervical Dystonia, Spasticity in Adults, and Lower Limb Spasticity in Pediatric Patients
 
 500 Unit Vial
 

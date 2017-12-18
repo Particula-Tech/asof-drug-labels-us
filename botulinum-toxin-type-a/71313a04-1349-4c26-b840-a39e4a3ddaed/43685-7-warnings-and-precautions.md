@@ -10,7 +10,7 @@ They are not interchangeable with other preparations of botulinum toxin products
 Post-marketing safety data from DYSPORT® and other approved botulinum toxins suggest that botulinum toxin effects may, in some cases, be observed beyond the site of local injection.
 The symptoms are consistent with the mechanism of action of botulinum toxin and may include asthenia, generalized muscle weakness, diplopia, blurred vision, ptosis, dysphagia, dysphonia, dysarthria, urinary incontinence and breathing difficulties.
 These symptoms have been reported hours to weeks after injection.
-Swallowing and breathing difficulties can be life threatening and there have been reports of death related to spread of toxin effects.
+Swallowing and breathing difficulties can be life-threatening and there have been reports of death related to spread of toxin effects.
 The risk of symptoms is probably greatest in children treated for spasticity but symptoms can also occur in adults treated for spasticity and other conditions, particularly in those patients who have underlying conditions that would predispose them to these symptoms.
 In unapproved uses, including upper limb spasticity in children and approved indications, symptoms consistent with spread of toxin effect have been reported at doses comparable to or lower than the maximum recommended total dose.
 [see Use in Specific Populations (8.4)].
@@ -18,7 +18,7 @@ In unapproved uses, including upper limb spasticity in children and approved ind
 ## 5.3 Dysphagia and Breathing Difficulties
 
 Treatment with DYSPORT® and other botulinum toxin products can result in swallowing or breathing difficulties.
-Patients with pre- existing swallowing or breathing difficulties may be more susceptible to these complications.
+Patients with pre-existing swallowing or breathing difficulties may be more susceptible to these complications.
 In most cases, this is a consequence of weakening of muscles in the area of injection that are involved in breathing or swallowing.
 When distant effects occur, additional respiratory muscles may be involved [see Warnings and Precautions (5.2)].
 
@@ -45,12 +45,12 @@ In clinical trials, subjects who received a higher dose of DYSPORT® had an incr
 Individuals with peripheral motor neuropathic diseases, amyotrophic lateral sclerosis or neuromuscular junction disorders (e.g., myasthenia gravis or Lambert-Eaton syndrome) should be monitored particularly closely when given botulinum toxin.
 Patients with neuromuscular disorders may be at increased risk of clinically significant effects including severe dysphagia and respiratory compromise from typical doses of DYSPORT® [see Adverse Reactions (6.1)].
 
-## 5.6 Human Albumin
+## 5.6 Human Albumin and Transmission of Viral Diseases
 
 This product contains albumin, a derivative of human blood.
-Based on effective donor screening and product manufacturing processes, it carries an extremely remote risk for transmission of viral diseases.
-A theoretical risk for transmission of Creutzfeldt-Jakob disease (CJD) is also considered extremely remote.
-No cases of transmission of viral diseases or CJD have ever been reported for albumin.
+Based on effective donor screening and product manufacturing processes, it carries an extremely remote risk for transmission of viral diseases and variant Creutzfeldt-Jacob Disease (vCJD).
+There is a theoretical risk for transmission of Creutzfeldt-Jakob disease (CJD), but if that risk actually exists, the risk of transission would also be considered extremely remote.
+No cases of transmission of viral diseases, CJD, or vCJD have ever been identified for licensed albumin or albumin contained in licensed products.
 
 ## 5.7 Intradermal Immune Reaction
 
