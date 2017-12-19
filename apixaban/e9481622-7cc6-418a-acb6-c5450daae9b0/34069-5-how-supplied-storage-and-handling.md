@@ -11,6 +11,7 @@ ELIQUIS (apixaban) tablets are available as listed in the table below.
 | 5 mg | Pink, oval, biconvex | Debossed with “894” on | Bottles of 60 | 0003-0894-21 |
 |  |  | one side and “5” on the | Bottles of 74 | 0003-0894-70 |
 |  |  | other side | Hospital Unit-Dose Blister Package of 100 | 0003-0894-31 |
+|  |  |  | 30-Day Starter Pack for Treatment of DVT and PE Containing 74 Tablets (1 blister pack of 42 tablets and 1 blister pack of 32 tablets) | 0003-3764-74 |
 
 ### Storage and Handling
 

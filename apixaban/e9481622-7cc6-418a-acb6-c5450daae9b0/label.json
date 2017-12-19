@@ -7,13 +7,18 @@
   "package_ndcs": [
     "0003-0893-21",
     "0003-0893-31",
-    "0003-0893-41",
     "0003-0894-21",
     "0003-0894-31",
     "0003-0894-70",
-    "0003-0894-91"
+    "0003-0894-91",
+    "0003-3764-74"
   ],
   "products": [
+    {
+      "form": "KIT",
+      "generic": "apixaban",
+      "name": "ELIQUIS"
+    },
     {
       "form": "TABLET, FILM COATED",
       "generic": "apixaban",

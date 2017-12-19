@@ -8,9 +8,9 @@ The recommended dose of ELIQUIS for most patients is 5 mg taken orally twice dai
 
 The recommended dose of ELIQUIS is 2.5 mg twice daily in patients with at least two of the following characteristics:
 
-- •age ≥80 years
-- •body weight ≤60 kg
-- •serum creatinine ≥1.5 mg/dL
+- •age greater than or equal to 80 years
+- •body weight less than or equal to 60 kg
+- •serum creatinine greater than or equal to 1.5 mg/dL
 
 ### Prophylaxis of Deep Vein Thrombosis Following Hip or Knee Replacement Surgery
 
