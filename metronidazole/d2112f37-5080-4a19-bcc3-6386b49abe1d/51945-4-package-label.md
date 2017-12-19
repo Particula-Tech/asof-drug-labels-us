@@ -14,7 +14,7 @@ Metronidazole Metronidazole Injection USP
 
 Baxter Logo USA 2B3421
 
-Lot: T123456 QTY:24-100 mL
+Lot: T123456 QTY:24-100 mL NDC: 0338-1055-48
 
 Exp: JAN 9999 Code: 2B3421
 

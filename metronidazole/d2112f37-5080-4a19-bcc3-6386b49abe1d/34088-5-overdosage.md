@@ -1,15 +1,10 @@
 # OVERDOSAGE
 
-Use of dosages of intravenous metronidazole higher than those recommended has been reported.
-These include the use of 27 mg/kg three times a day for 20 days, and the use of 75 mg/kg as a single loading dose followed by 7.5 mg/kg maintenance doses.
-No adverse reactions were reported in either of the two cases.
-
-Single oral dose of metronidazole, up to 15 g, have been reported in suicide attempts and accidental overdoses.
-Symptoms reported included nausea, vomiting and ataxia.
-
-Oral metronidazole has been studied as a radiation sensitizer in the treatment of malignant tumors.
-Neurotoxic effects, including seizures and peripheral neuropathy, have been reported after 5 to 7 days of doses of 6 to 10.4 g every other day.
+Signs and symptoms of an overdose may include: nausea, vomiting, and neurotoxic effects, including ataxia, confusion, disorientation, seizures, and peripheral neuropathy.
 
 ## Treatment of Overdosage
 
-There is no specific antidote for metronidazole overdose; therefore, management of the patient should consist of symptomatic and supportive therapy.
+Symptomatic treatment is recommended.
+There is no specific antidote for an overdose of metronidazole.
+Discontinue metronidazole administration in the event of an overdose.
+Hemodialysis removes significant amounts of metronidazole and its metabolites from systemic circulation.

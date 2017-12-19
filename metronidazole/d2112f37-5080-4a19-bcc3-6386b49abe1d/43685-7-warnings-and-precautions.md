@@ -2,21 +2,27 @@
 
 ## Central and Peripheral Nervous System Effects
 
-Encephalopathy and peripheral neuropathy: Cases of encephalopathy and peripheral neuropathy (including optic neuropathy) have been reported with metronidazole.
+Severe neurological disturbances, including encephalopathy, cerebellar symptoms, convulsive seizures, peripheral neuropathy, optic neuropathy, and aseptic meningitis, have been reported in patients treated with metronidazole.
 
-Encephalopathy has been reported in association with cerebellar toxicity characterized by ataxia, dizziness, and dysarthria.
-CNS lesions seen on MRI have been described in reports of encephalopathy.
-CNS symptoms are generally reversible within days to weeks upon discontinuation of metronidazole.
-CNS lesions seen on MRI have also been described as reversible.
+Encephalopathy associated with metronidazole may manifest as confusion or decreased level of consciousness, and is associated with widespread lesions on magnetic resonance imaging (MRI) of the brain.
+Cerebellar toxicity associated with metronidazole may manifest as ataxia, dizziness, dysarthria, nystagmus and saccadic pursuit and is accompanied by T2 flair lesions within the dentate nuclei seen on MRI.
+Cerebellar toxicity may concurrently occur with encephalopathy, peripheral neuropathy or seizures.
+CNS symptoms and CNS lesions are generally reversible within days to weeks upon discontinuation of Metronidazole Injection, USP.
+Peripheral neuropathy, usually symmetric and mainly of sensory type is characterized by numbness or paresthesia of an extremity.
+Symptoms may be prolonged after drug discontinuation.
+Aseptic meningitis may occur within hours of dose administration and generally resolve after metronidazole therapy is discontinued (see ADVERSE REACTIONS).
 
-Peripheral neuropathy, mainly of sensory type has been reported and is characterized by numbness or paresthesia of an extremity.
+Advise patients to report neurologic symptoms that occur during metronidazole administration.
+Discontinue metronidazole treatment if any abnormal neurologic symptoms occur such as ataxia, dizziness, confusion or any other CNS adverse reaction (see ADVERSE REACTIONS).
 
-Convulsive seizures have been reported in patients treated with metronidazole.
+## Risk of Hepatotoxicity and Death in Patients with Cockayne Syndrome
 
-Aseptic meningitis: Cases of aseptic meningitis have been reported with metronidazole.
-Symptoms can occur within hours of dose administration and generally resolve after metronidazole therapy is discontinued.
+Cases of severe hepatotoxicity/acute hepatic failure, including cases with a fatal outcome with very rapid onset after treatment initiation in patients with Cockayne syndrome have been reported with products containing metronidazole for systemic use.
+In this population, metronidazole should therefore be used after careful benefit-risk assessment and only if no alternative treatment is available.
+Obtain liver function tests prior to the start of therapy, within the first 2-3 days after initiation of therapy, frequently during therapy and after end of treatment.
+Discontinue metronidazole if elevation of liver function occurs, and monitor liver function tests until the baseline values are reached.
 
-The appearance of abnormal neurologic signs and symptoms demands the prompt evaluation of the benefit/risk ratio of the continuation of therapy (see ADVERSE REACTIONS).
+Advise patients with Cockayne syndrome to stop taking metronidazole immediately if they experience any symptoms of potential liver injury, such as abdominal pain, nausea, change in stool color or jaundice, and to contact their healthcare provider.
 
 # PRECAUTIONS
 
@@ -24,14 +30,23 @@ The appearance of abnormal neurologic signs and symptoms demands the prompt eval
 
 ### Hepatic Impairment
 
-Patients with hepatic impairment metabolize metronidazole slowly, with resultant accumulation of metronidazole in the plasma.
-For patients with severe hepatic impairment (Child-Pugh C), a reduced dose of METRONIDAZOLE INJECTION, USP is recommended.
-For patients with mild to moderate hepatic impairment, no dosage adjustment is needed but these patients should be monitored for metronidazole associated adverse events (see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION).
+Patients with hepatic impairment metabolize metronidazole slowly, with resultant accumulation of metronidazole and increase the plasma concentrations.
+Reduce the dose of Metronidazole Injection, USP by 50% in patients with severe hepatic impairment (Child-Pugh C). For patients with mild to moderate hepatic impairment, no dosage adjustment is needed but these patients should be monitored for metronidazole associated adverse events (see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION).
+
+Patients with severe hepatic encephalopathy metabolize metronidazole slowly, with resultant accumulation of metronidazole.
+This may cause exacerbation of CNS adverse effects.
+Reduce the dose of Metronidazole Injection, USP as necessary.
 
 ### Renal Impairment
 
-Patients with end-stage renal disease may excrete metronidazole and metabolites slowly in the urine, resulting in significant accumulation of metronidazole metabolites.
-Monitoring for metronidazole associated adverse events is recommended (see CLINICAL PHARMACOLOGY).
+For patients with mild to moderate renal impairment dose adjustment is not considered necessary as elimination half-life is not significantly altered.
+In patients with severe renal impairment or end stage of renal disease, metronidazole and metronidazole metabolites may accumulate significantly because of reduced urinary excretion in those patients.
+Monitoring for metronidazole associated adverse events is recommended when metronidazole is administered in patients with severe renal impairment or end stage of renal disease who are not undergoing hemodialysis (see CLINICAL PHARMACOLOGY).
+
+Hemodialysis removes significant amounts of metronidazole and its metabolites from systemic circulation.
+Therefore, supplementation of metronidazole following a hemodialysis session may be necessary.
+
+Patients receiving peritoneal dialysis should be monitored for signs of toxicity due to the potential accumulation of metronidazole metabolites.
 
 ### Fungal Superinfections
 
@@ -40,16 +55,17 @@ Known or previously unrecognized candidiasis may present more prominent symptoms
 ### Use in Patients with Blood Dyscrasias
 
 Metronidazole is a nitroimidazole, and should be used with care in patients with evidence of or history of blood dyscrasia.
-A mild leukopenia has been observed during its administration; however, no persistent hematologic abnormalities attributable to metronidazole have been observed in clinical studies.
+Agranulocytosis, leukopenia and neutropenia have been associated with metronidazole administration.
+Monitor complete blood count in these patients.
 
 ### Monitoring for Leukopenia
 
-Total and differential leukocyte counts are recommended before, during, and after prolonged or repeated courses of metronidazole therapy.
+Monitoring of complete blood count (CBC) is recommended before, during, and after prolonged or repeated courses of metronidazole therapy.
 
 ### Sodium Retention
 
-Administration of solutions containing sodium ions may result in sodium retention.
-Care should be taken when administering Metronidazole Injection, USP to patients receiving corticosteroids or to patients predisposed to edema.
+Metronidazole Injection, USP contains 790 mg of sodium per 100 mL.
+Care should be taken when administering Metronidazole Injection, USP to patients receiving a controlled sodium diet or corticosteroids or to patients predisposed to edema.
 
 ## Drug-Resistant Bacteria
 
@@ -57,11 +73,11 @@ Prescribing Metronidazole Injection, USP in the absence of a proven or strongly 
 
 ## Information for Patients
 
-### Interaction with Alcohol
+## Interaction with Alcohol
 
 Discontinue consumption of alcoholic beverages or products containing propylene glycol while taking Metronidazole Injection, USP and for at least three days afterward because abdominal cramps, nausea, vomiting, headaches, and flushing may occur (see CONTRAINDICATIONS, PRECAUTIONS-Drug Interactions).
 
-### Treatment of Bacterial Infections
+## Treatment of Bacterial Infections
 
 Patients should be counseled that antibacterial drugs including Metronidazole Injection, USP should only be used to treat bacterial infections.
 They do not treat viral infections (e.g., the common cold).
@@ -72,43 +88,57 @@ Skipping doses or not completing the full course of therapy may (1) decrease the
 
 ### Disulfiram
 
-Psychotic reactions have been reported in alcoholic patients who are using metronidazole and disulfiram concurrently.
-Metronidazole should not be given to patients who have taken disulfiram within the last two weeks (see CONTRAINDICATIONS).
+Psychotic reactions and confusion have been reported in alcoholic patients who are using metronidazole and disulfiram concurrently.
+Do not administer Metronidazole Injection, USP to patients who have taken disulfiram within the last two weeks (see CONTRAINDICATIONS).
 
 ### Alcoholic Beverages
 
-Abdominal cramps, nausea, vomiting, headaches and flushing may occur if alcoholic beverages or products containing propylene glycol are consumed during or following metronidazole therapy (see CONTRAINDICATIONS).
+Abdominal cramps, nausea, vomiting, headaches, tachycardia and flushing may occur if alcoholic beverages or products containing propylene glycol are consumed during or following metronidazole therapy.
+Discontinue consumption of alcohol or products containing propylene glycol before, during and up to 72 hours after therapy with Metronidazole Injection, USP (see CONTRAINDICATIONS).
 
 ### Warfarin and other Oral Anticoagulants
 
-Metronidazole has been reported to potentiate the anticoagulant effect of warfarin and other oral coumarin anticoagulants, resulting in a prolongation of prothrombin time.
-When Metronidazole Injection, USP is prescribed for patients on this type of anticoagulant therapy, prothrombin time and INR should be carefully monitored.
+Metronidazole has been reported to potentiate the anticoagulant effect of warfarin and other oral coumarin anticoagulants, resulting in a prolongation of prothrombin time and increased risk of hemorrhages.
+When Metronidazole Injection, USP is prescribed for patients on this type of anticoagulant therapy, prothrombin time and international normalized ratio (INR) should be carefully monitored and their anticoagulant dose adjusted accordingly.
+Monitor patients for signs and symptoms of bleeding.
 
 ### Lithium
 
 In patients stabilized on relatively high doses of lithium, short-term metronidazole therapy has been associated with elevation of serum lithium and, in a few cases, signs of lithium toxicity.
-Serum lithium and serum creatinine levels should be obtained several days after beginning metronidazole to detect any increase that may precede clinical symptoms of lithium intoxication.
+Lithium toxicity may lead to renal damage.
+Frequent monitoring of serum lithium and serum creatinine levels is necessary.
 
 ### Busulfan
 
-Metronidazole has been reported to increase plasma concentrations of busulfan, which can result in an increased risk for serious busulfan toxicity.
-Metronidazole should not be administered concomitantly with busulfan unless the benefit outweighs the risk.
+Metronidazole has been reported to increase plasma concentrations of busulfan, which can result in an increased risk for serious busulfan toxicity such as sinusoidal obstruction syndrome, gastrointestinal mucositis, and hepatic veno-occlusive disease.
+Metronidazole Injection, USP should not be administered concomitantly with busulfan unless the benefit outweighs the risk.
 If no therapeutic alternatives to metronidazole are available, and concomitant administration with busulfan is medically needed, frequent monitoring of busulfan plasma concentration should be performed and the busulfan dose should be adjusted accordingly.
 
 ### Drugs that Inhibit CYP450 Enzymes
 
-The simultaneous administration of drugs that decrease microsomal liver enzyme activity, such as cimetidine, may prolong the half-life and decrease plasma clearance of metronidazole.
+The simultaneous administration of drugs that decrease microsomal liver enzyme activity, such as cimetidine, may decrease metabolism and reduce plasma clearance of metronidazole which may result in metronidazole toxicity.
 
 ### Drugs that Induce CYP450 Enzymes
 
-The simultaneous administration of drugs that induce microsomal liver enzyme activity, such as phenytoin or phenobarbital, may accelerate the elimination of metronidazole, resulting in reduced plasma levels; impaired clearance of phenytoin has also been reported.
+The simultaneous administration of drugs that induce microsomal liver enzyme activity, such as phenytoin or phenobarbital, may accelerate the elimination of metronidazole and therefore decrease its efficacy.
+
+### Cytochrome P450 3A4 (CYP3A4) substrates
+
+Concomitant use of Metronidazole Injection, USP and CYP3A4 substrates (e.g., amiodarone, tacrolimus, cyclosporine, carbamazepine, phenytoin, and quinidine) may increase respective CYP3A4-substrate plasma levels.
+Monitoring of plasma concentrations of CYP3A4 substrates may be necessary.
+
+### 5-Fluorouracil
+
+Metronidazole Injection, USP decreases the clearance of 5-fluorouracil and may therefore cause 5-fluorouracil toxicity.
+
+### Vecuronium
+
+Metronidazole Injection, USP may potentiate the effects of vecuronium.
 
 ## Drug/Laboratory Test Interactions
 
 Metronidazole may interfere with certain types of determinations of serum chemistry values, such as aspartate aminotransferase (AST, SGOT), alanine aminotransferase (ALT, SGPT), lactate dehydrogenase (LDH), triglycerides and glucose hexokinase.
-Values of zero may be observed.
-All of the assays in which interference has been reported involve enzymatic coupling of the assay to oxidation-reduction of nicotine adenine dinucleotide (NAD+ ⇌NADH).
-Interference is due to the similarity in absorbance peaks of NADH (340nm) and metronidazole (322nm) at pH 7.
+Metronidazole causes an increase in ultraviolet absorbance at 340 nm resulting in falsely decreased values.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
@@ -134,8 +164,6 @@ However, metronidazole was associated with reversible adverse effects on the mal
 
 ### Teratogenic Effects
 
-#### Pregnancy Category B
-
 There are no adequate and well-controlled studies of Metronidazole Injection, USP in pregnant women.
 There are published data from case-control studies, cohort studies, and 2 meta-analyses that include more than 5000 pregnant women who used metronidazole during pregnancy.
 Many studies included first trimester exposures.
@@ -148,6 +176,8 @@ Metronidazole crosses the placental barrier and its effects on the human fetal o
 Reproduction studies have been performed in rats, rabbits and mice at doses similar to the maximum recommended daily dose based on body surface area comparisons.
 There was no evidence of harm to the fetus due to metronidazole.
 
+Healthcare provider should carefully consider the potential risks and benefits for each specific patient before prescribing Metronidazole Injection, USP.
+
 ## Nursing Mothers
 
 Metronidazole is present in human milk at concentrations similar to maternal serum levels, and infant serum levels can be close to or comparable to infant therapeutic levels.
@@ -155,6 +185,8 @@ Because of the potential for tumorigenicity shown for metronidazole in mouse and
 Alternatively, a nursing mother may choose to pump and discard human milk for the duration of metronidazole therapy, and for 24 hours after therapy ends and feed her infant stored human milk or formula.
 
 ## Geriatric Use
+
+In general, dose selection for an elderly patient should be cautious, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 
 In geriatric patients, monitoring for metronidazole associated adverse events is recommended (see CLINICAL PHARMACOLOGY, PRECAUTIONS).
 Decreased liver function in geriatric patients can result in increased concentrations of metronidazole that may necessitate adjustment of metronidazole dosage (see DOSAGE AND ADMINISTRATION).

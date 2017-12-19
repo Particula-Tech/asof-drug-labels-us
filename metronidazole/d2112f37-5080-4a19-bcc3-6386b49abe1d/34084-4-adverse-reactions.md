@@ -1,55 +1,42 @@
 # ADVERSE REACTIONS
 
-The following reactions have been reported during treatment with metronidazole.
+The following reactions have been reported during treatment with metronidazole formulations:
 
-## Central Nervous System
+INFECTIONS AND INFESTATIONS: Vaginal candidiasis
 
-The most serious adverse reactions reported in patients treated with metronidazole have been convulsive seizures, encephalopathy, aseptic meningitis, optic and peripheral neuropathy, the latter characterized mainly by numbness or paresthesia of an extremity.
-Since persistent peripheral neuropathy has been reported in some patients receiving prolonged administration of metronidazole, patients should be specifically warned about these reactions and should be told to stop the drug and report immediately to their physicians if any neurologic symptoms occur.
-In addition, patients have reported headache, syncope, dizziness, vertigo, incoordination, ataxia, confusion, dysarthria, irritability, depression, weakness, and insomnia (see WARNINGS).
+BLOOD AND LYMPHATIC SYSTEM DISORDERS: Agranulocytosis, Leukopenia, Neutropenia, Thrombocytopenia, Eosinophilia
 
-The following reactions have also been reported during treatment with metronidazole.
+IMMUNE SYSTEM DISORDERS: Anaphylactic reaction, Hypersensitivity
 
-## Gastrointestinal
+METABOLISM AND NUTRITION DISORDERS: Decreased appetite
 
-The most common adverse reactions reported have been referable to the gastrointestinal tract, particularly nausea, sometimes accompanied by headache, anorexia and occasionally vomiting, diarrhea; epigastric distress; abdominal cramping; and constipation.
+PSYCHIATRIC DISORDERS: Confusional state, Depression, Insomnia, Decreased libido
 
-## Mouth
+NERVOUS SYSTEM DISORDERS: Encephalopathy, Seizure, Neuropathy peripheral, Ataxia, Dizziness, Hypoesthesia, Paresthesia, Dysgeusia, Headache, Nystagmus, Aseptic meningitis, Somonlence, Dysarthria, Numbness, Syncope
 
-A sharp, unpleasant metallic taste is not unusual.
-Furry tongue, glossitis and stomatitis have occurred; these may be associated with a sudden overgrowth of Candida which may occur during effective therapy.
+EYE DISORDERS: Optic neuropathy, Saccadic eye movement
 
-## Dermatologic
+EAR AND LABYRINTH DISORDERS: Vertigo
 
-Erythematous rash and pruritus.
+CARDIAC DISORDERS: Tachycardia, Palpitation
 
-## Hematopoietic
+RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS: Dyspnea
 
-Reversible neutropenia (leukopenia); rarely, reversible thrombocytopenia.
+GASTROINTESTINAL DISORDERS: Pancreatitis, Abdominal pain, Diarrhea, Nausea, Vomiting, Asthenia, Proctitis
 
-## Local Reactions
+HEPATOBILIARY DISORDERS: Hepatotoxicity/Liver Failure in patients with Cockayne syndrome (see WARNINGS), Jaundice
 
-Thrombophlebitis after intravenous infusion.
-This reaction can be minimized or avoided by avoiding prolonged use of indwelling intravenous catheters.
+SKIN AND SUBCUTANEOUS DISORDERS: Toxic epidermal necrolysis, Swelling face, Pruritus, Urticaria, Hyperhidrosis, Erythema, Rash; Stevens-Johnson syndrome, Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)
 
-## Cardiovascular
+MUSCULOSKELETAL AND CONNECTIVE TISSUE DISORDERS: Muscle spasms, Arthralgia, Myalgia
 
-Flattening of the T-wave may be seen in electrocardiographic tracings.
+RENAL AND URINARY DISORDERS: Chromaturia, Dysuria
 
-## Hypersensitivity
+REPRODUCTIVE: Dyspareunia
 
-Urticaria, erythematous rash, Stevens-Johnson syndrome, toxic epidermal necrolysis, flushing, nasal congestion, dryness of the mouth (or vagina or vulva) and fever.
+GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS: Injection site reaction, Malaise, Face edema, Edema peripheral, Chest pain, Chills
 
-## Renal
-
-Dysuria, cystitis, polyuria, incontinence, and a sense of pelvic pressure.
-Instances of darkened urine have been reported by approximately one patient in 100,000.
-Although the pigment which is probably responsible for this phenomenon has not been positively identified, it is almost certainly a metabolite of metronidazole and seems to have no clinical significance.
-
-## Other
-
-Proliferation of Candida in the vagina, dyspareunia, decrease of libido, proctitis and fleeting joint pains sometimes resembling “serum sickness”.
-Rare cases of pancreatitis, which abated on withdrawal of the drug, have been reported.
+INVESTIGATIONS: Hepatic enzyme increased.
 
 Patients with Crohn's disease are known to have an increased incidence of gastrointestinal and certain extraintestinal cancers.
 There have been some reports in the medical literature of breast and colon cancer in Crohn's disease patients who have been treated with metronidazole at high doses for extended periods of time.
