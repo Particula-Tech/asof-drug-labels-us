@@ -1,6 +1,6 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Lovenox is available in two concentrations:
+Lovenox is available in two concentrations.
 
 ## 3.1 100 mg/mL Concentration
 

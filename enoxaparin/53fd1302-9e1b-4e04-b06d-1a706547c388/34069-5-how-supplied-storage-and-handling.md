@@ -1,10 +1,10 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Lovenox is available in two concentrations [see Tables 26 and 27]:
+Lovenox is available in two concentrations (see Tables 26 and 27).
 
 Table 26 100 mg/mL Concentration
 
-| Dosage Unit / StrengthStrength represents the number of milligrams of enoxaparin sodium in Water for Injection. Lovenox 30 and 40 mg prefilled syringes, and 60, 80, and 100 mg graduated prefilled syringes each contain 10 mg enoxaparin sodium per 0.1 mL Water for Injection. | Anti-Xa ActivityApproximate anti-Factor Xa activity based on reference to the W.H.O. First International Low Molecular Weight Heparin Reference Standard. | Package Size (per carton) | Label Color | NDC # 0075- |
+| Dosage Unit/StrengthStrength represents the number of milligrams of enoxaparin sodium in Water for Injection. Lovenox 30 and 40 mg prefilled syringes, and 60, 80, and 100 mg graduated prefilled syringes each contain 10 mg enoxaparin sodium per 0.1 mL Water for Injection. | Anti-Xa ActivityApproximate anti-Factor Xa activity based on reference to the W.H.O. First International Low Molecular Weight Heparin Reference Standard. | Package Size (per carton) | Label Color | NDC # 0075- |
 | --- | --- | --- | --- | --- |
 | Prefilled SyringesEach Lovenox prefilled syringe is for single, one-time use only and is affixed with a 27 gauge × 1/2 inch needle. |  |  |  |  |
 | 30 mg/0.3 mL | 3000 IU | 10 syringes | Medium Blue | 0624-31 |
@@ -18,13 +18,13 @@ Table 26 100 mg/mL Concentration
 
 Table 27 150 mg/mL Concentration
 
-| Dosage Unit / StrengthStrength represents the number of milligrams of enoxaparin sodium in Water for Injection. Lovenox 120 and 150 mg graduated prefilled syringes contain 15 mg enoxaparin sodium per 0.1 mL Water for Injection. | Anti-Xa ActivityApproximate anti-Factor Xa activity based on reference to the W.H.O. First International Low Molecular Weight Heparin Reference Standard. | Package Size (per carton) | Syringe Label Color | NDC # 0075- |
+| Dosage Unit/StrengthStrength represents the number of milligrams of enoxaparin sodium in Water for Injection. Lovenox 120 and 150 mg graduated prefilled syringes contain 15 mg enoxaparin sodium per 0.1 mL Water for Injection. | Anti-Xa ActivityApproximate anti-Factor Xa activity based on reference to the W.H.O. First International Low Molecular Weight Heparin Reference Standard. | Package Size (per carton) | Syringe Label Color | NDC # 0075- |
 | --- | --- | --- | --- | --- |
-| Graduated Prefilled SyringesEach Lovenox graduated prefilled syringe is for single, one-time use only and is affixed with a 27 gauge × 1/2 inch needle. |  |  |  |  |
+| Graduated Prefilled SyringesEach Lovenox graduated prefilled syringe is for single, one-time use only and is affixed with a 27 gauge × 1/2-inch needle. |  |  |  |  |
 | 120 mg / 0.8 mL | 12,000 IU | 10 syringes | Purple | 2912-02 |
 | 150 mg / 1 mL | 15,000 IU | 10 syringes | Navy Blue | 2915-02 |
 
-Store at 25°C (77°F); excursions permitted to 15–30°C (59–86°F) [see USP Controlled Room Temperature].
+Store at 25°C (77°F); excursions permitted to 15°C–30°C (59°F–86°F) [see USP Controlled Room Temperature].
 
 Do not store the multiple-dose vials for more than 28 days after the first use.
 
