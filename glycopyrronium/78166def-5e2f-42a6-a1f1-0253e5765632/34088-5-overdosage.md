@@ -1,0 +1,7 @@
+# 10. OVERDOSAGE
+
+An overdose of glycopyrrolate may lead to anticholinergic signs and symptoms such as nausea, vomiting, dizziness, lightheadedness, blurred vision, increased intraocular pressure (causing pain, vision disturbances, or reddening of the eye), obstipation or difficulties in voiding.
+
+In COPD patients, orally inhaled administration of LONHALA MAGNAIR at a total daily dose of 200 mcg for 28 consecutive days (maximum of 1 mg) was well tolerated.
+Pharmacokinetic results from several studies conducted in COPD patients showed that a single, well tolerated dose of 1000 mcg had a Cmax of 1534 pg/mL and AUC0-inf of 5271 pg*hr/mL.
+These values are approximately 44 fold and 21 fold higher, respectively, than the estimated daily Cmax of 34.5 pg/mL and AUC0-inf of 255 pg*hr/mL for a 25 mcg BID dose regimen at steady-state.

@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA208437"
+  ],
+  "inn": "glycopyrronium",
+  "labeler": "Sunovion Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "63402-201-00",
+    "63402-201-01"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "glycopyrrolate",
+      "name": "PRODUCT"
+    }
+  ],
+  "setid": "78166def-5e2f-42a6-a1f1-0253e5765632",
+  "source": "dailymed"
+}
