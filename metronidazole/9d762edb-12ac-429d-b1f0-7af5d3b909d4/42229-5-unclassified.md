@@ -10,8 +10,16 @@ No dilution or buffering is required.
 Do not refrigerate.
 Each container of Metronidazole Injection, USP contains 14 mEq of sodium.
 
-Warning: Do not use plastic containers in series connections.
-Such use could result in air embolism due to residual air being drawn from the primary container before administration of the fluid from the secondary container is completed.
+Do not connect flexible plastic containers in series in order to avoid air embolism due to possible residual air contained in the primary container.
+
+Pressurizing intravenous solutions contained in flexible plastic containers to increase flow rates can result in air embolism if the residual air in the container is not fully evacuated prior to administration.
+
+Use of a vented intravenous administration set with the vent in the open position could result in air embolism.
+Vented intravenous administration sets with the vent in the open position should not be used with flexible plastic containers.
+
+Discard any unused portion.
+
+For single dose only.
 
 ## To open
 
@@ -26,14 +34,14 @@ Do not add supplementary medication.
 
 ## Preparation for Administration
 
-- •Suspend container from eyelet support.
-- •Remove protector from outlet port at bottom of container.
-- •Attach administration set.
-  Refer to complete directions accompanying set.
+1. 1.Suspend container from eyelet support.
+2. 2.Remove protector from outlet port at bottom of container.
+3. 3.Attach administration set.
+   Refer to complete directions accompanying set.
 
 Manufactured by: Baxter Healthcare Corporation Deerfield, IL 60015 USA Printed in USA PREMIERPro™Rx
 
 Baxter and Viaflex are registered trademarks of Baxter International Inc. ATCC is a registered trademark of the American Type Culture Collection PremierPro Rx is a trademark of Premier, Inc. used under license
 
-07-19-75-255 Rev.
-July 2015
+07-19-78-021 Rev.
+December 2017
