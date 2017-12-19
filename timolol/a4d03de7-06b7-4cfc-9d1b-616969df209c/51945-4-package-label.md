@@ -6,9 +6,7 @@ STERILE
 
 5 mL
 
-TIMOPTIC-XE® (Timolol Maleate Ophthalmic
-
-Gel Forming Solution)
+TIMOPTIC-XE® (Timolol Maleate Ophthalmic Gel Forming Solution)
 
 0.25%
 
@@ -24,9 +22,7 @@ STERILE
 
 5 mL
 
-TIMOPTIC-XE® (Timolol Maleate Ophthalmic
-
-Gel Forming Solution)
+TIMOPTIC-XE® (Timolol Maleate Ophthalmic Gel Forming Solution)
 
 0.5%
 
