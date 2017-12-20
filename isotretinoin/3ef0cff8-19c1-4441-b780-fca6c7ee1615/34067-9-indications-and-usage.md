@@ -5,7 +5,7 @@ Nodules are inflammatory lesions with a diameter of 5 mm or greater.
 The nodules may become suppurative or hemorrhagic.
 “Severe,” by definition, means “many” as opposed to “few or several” nodules.
 Because of significant adverse reactions associated with its use, ABSORICA should be reserved for patients with multiple severe nodular acne who are unresponsive to conventional therapy, including systemic antibiotics.
-In addition, ABSORICA is indicated only for those female patients who are not pregnant, because ABSORICA can cause severe birth defects [seeContraindications (4.1)].
+In addition, ABSORICA is indicated only for those female patients who are not pregnant, because ABSORICA can cause severe birth defects [see Contraindications (4.1)].
 
 Limitations of Use
 

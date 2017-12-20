@@ -11,12 +11,10 @@ What is the most important information I should know about ABSORICA?
 - •ABSORICA is used to treat a type of severe acne (nodular acne) that has not been helped by other treatments, including antibiotics.
 - •Because ABSORICA can cause birth defects, ABSORICA is only for patients who can understand and agree to carry out all of the instructions in the iPLEDGE program.
 - •ABSORICA may cause serious mental health problems.
-
-1.
-Birth defects (deformed babies), loss of a baby before birth (miscarriage), death of the baby, and early (premature) births.
-Females who are pregnant or who plan to become pregnant must not take ABSORICA.
-Females must not get pregnant:
-
+- 1.
+  Birth defects (deformed babies), loss of a baby before birth (miscarriage), death of the baby, and early (premature) births.
+  Females who are pregnant or who plan to become pregnant must not take ABSORICA.
+  Females must not get pregnant:
 - •for 1 month before starting ABSORICA
 - •while taking ABSORICA
 - •for 1 month after stopping ABSORICA
@@ -26,11 +24,9 @@ Doctors and patients should report all cases of pregnancy to:
 
 - •FDA MedWatch at 1-800-FDA-1088, and
 - •the iPLEDGE pregnancy registry at 1-866-495-0654
-
-2.
-Serious mental health problems.
-ABSORICA may cause:
-
+- 2.
+  Serious mental health problems.
+  ABSORICA may cause:
 - •depression
 - •psychosis (seeing or hearing things that are not real)
 - •suicide.
@@ -75,7 +71,8 @@ Who should not take ABSORICA?
 
 - •Do not take ABSORICA if you are pregnant, plan to become pregnant, or become pregnant during ABSORICA treatment.
   ABSORICA causes severe birth defects.
-  See “What is the most important information I should know about ABSORICA?”Do not take ABSORICA if you are allergic to anything in it.
+  See “What is the most important information I should know about ABSORICA?”
+- Do not take ABSORICA if you are allergic to anything in it.
   See the end of this Medication Guide for a complete list of ingredients in ABSORICA.
 
 What should I tell my doctor before taking ABSORICA?
@@ -188,48 +185,38 @@ What are the possible side effects of ABSORICA?
   ABSORICA can increase the pressure in your brain.
   This can lead to permanent loss of eyesight and, in rare cases, death.
   Stop taking ABSORICA and call your doctor right away if you get any of these signs of increased brain pressure:
-
-| obad headache | oblurred vision | odizziness |
-| --- | --- | --- |
-| onausea or vomiting | oseizures (convulsions) | ostroke |
-
-| osevere stomach, chest or bowel pain | otrouble swallowing or painful |
-| --- | --- |
-| onew or worsening heartburn | odiarrhea |
-| orectal bleeding | oyellowing of your skin or eyes |
-| odark urine |  |
-
+- •bad headache
+- •blurred vision
+- •dizziness
+- •nausea or vomiting
+- •seizures (convulsions)
+- •stroke
+- •skin problems.
+  Skin rash can occur in patients taking ABSORICA.
+  In some patients a rash can be serious.
+  Stop using ABSORICA and call your doctor right away if you develop conjunctivitis (red or inflamed eyes, like "pink eye"), a rash with a fever, blisters on legs, arms or face and/or sores in your mouth, throat, nose, eyes, or if your skin begins to peel.
+- •stomach area (abdomen) problems.
+  Certain symptoms may mean that your internal organs are being damaged.
+  These organs include the liver, pancreas, bowel (intestines), and esophagus (connection between mouth and stomach).
+  If your organs are damaged, they may not get better even after you stop taking ABSORICA.
+  Stop taking ABSORICA and call your doctor if you get:
+  - •severe stomach, chest or bowel pain
+  - •trouble swallowing or painful swallowing
+  - •new or worsening heartburn
+  - •diarrhea
+  - •rectal bleeding
+  - •yellowing of your skin or eyes
+  - •dark urine
 - •bone and muscle problems.
   ABSORICA may affect bones, muscles, and ligaments and cause pain in your joints or muscles.
   Tell your doctor if you plan hard physical activity during treatment with ABSORICA.
   Tell your doctor if you get:
-
-| oback pain | ojoint pain |
-| --- | --- |
-| obroken bone. Tell all healthcare providers that you take ABSORICA if you break a bone. |  |
-
-- •hearing problems.
-  Stop using ABSORICA and call your doctor if your hearing gets worse or if you have ringing in your ears.
-  Your hearing loss may be permanent.
-- •vision problems.
-  ABSORICA may affect your ability to see in the dark.
-  This condition usually clears up after you stop taking ABSORICA, but it may be permanent.
-  Other serious eye effects can occur.
-  Stop taking ABSORICA and call your doctor right away if you have any problems with your vision or dryness of the eyes that is painful or constant.
-  If you wear contact lenses, you may have trouble wearing them while taking ABSORICA and after treatment.
-- •lipid (fats and cholesterol in blood) problems.
-  ABSORICA can raise the level of fats and cholesterol in your blood.
-  This can be a serious problem.
-  Return to your doctor for blood tests to check your lipids and to get any needed treatment.
-  These problems usually go away when ABSORICA treatment is finished.
-- •serious allergic reactions.
-  Stop taking ABSORICA and get emergency care right away if you develop hives, a swollen face or mouth, or have trouble breathing.
-  Stop taking ABSORICA and call your doctor if you get a fever, rash, or red patches or bruises on your legs.
-- •blood sugar problems.
-  ABSORICA may cause blood sugar problems including diabetes.
-  Tell your doctor if you are very thirsty or urinate a lot.
-- •decreased red and white blood cells.
-  Call your doctor if you have trouble breathing, faint, or feel weak.
+- •back pain
+- •joint pain
+- •broken bone.
+  Tell all healthcare providers that you take ABSORICA if you break a bone.Stop ABSORICA and call your doctor right away if you have muscle weakness.
+  Muscle weakness with or without pain can be a sign of serious muscle damage.
+  ABSORICA may stop long bone growth in teenagers who are still growing.
 
 The common, less serious side effects of ABSORICA are dry skin, chapped lips, dry eyes, and dry nose that may lead to nosebleeds.
 
@@ -240,7 +227,7 @@ This reaction is most often seen in people who also have an allergy to aspirin.
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
-You may also report side effects to Ranbaxy Inc., the manufacturer of ABSORICA at 1-800-406-7984.
+You may also report side effects to Sun Pharmaceutical Industries, Inc., the manufacturer of ABSORICA at 1-800-406-7984.
 
 How should I store ABSORICA?
 
@@ -269,11 +256,19 @@ Gelatin capsules contain the following dye systems: 10 mg – iron oxide (yellow
 
 Dilantin is a registered trademark of Warner-Lambert Company LLC.
 
-Manufactured for:
+Manufactured by:
 
-Ranbaxy Laboratories Inc. Ranbaxy Laboratories Inc. Jacksonville, FL 32257 USA
+Galephar Pharmaceutical Research, Inc.
+
+Humacao, PR 00792
+
+Distributed by:
+
+Sun Pharmaceutical Industries, Inc.
+
+Cranbury, NJ 08512
 
 GK-244
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Revised: July 2015
+Revised: July 2017

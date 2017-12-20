@@ -120,11 +120,13 @@ Pregnancies have been reported by users of combined hormonal contraceptives who 
 
 If the patient has unprotected heterosexual intercourse at any time 1 month before, during, or 1 month after therapy, she must:
 
-- a Stop taking ABSORICA immediately, if on therapy
-- b. Have a pregnancy test at least 19 days after the last act of unprotected heterosexual intercourse
-
-- c. Start using 2 forms of effective contraception simultaneously again for 1 month before resuming ABSORICA therapy
-- d. Have a second pregnancy test after using 2 forms of effective contraception for 1 month as described above depending on whether she has regular menses or not.
+- •a Stop taking ABSORICA immediately, if on therapy
+- •b.
+  Have a pregnancy test at least 19 days after the last act of unprotected heterosexual intercourse
+- •c.
+  Start using 2 forms of effective contraception simultaneously again for 1 month before resuming ABSORICA therapy
+- •d.
+  Have a second pregnancy test after using 2 forms of effective contraception for 1 month as described above depending on whether she has regular menses or not.
 
 If a pregnancy does occur during ABSORICA treatment, ABSORICA must be discontinued immediately.
 The patient should be referred to an Obstetrician-Gynecologist experienced in reproductive toxicity for further evaluation and counseling.
