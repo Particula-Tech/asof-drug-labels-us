@@ -1,8 +1,8 @@
 # 2 DOSAGE AND ADMINISTRATION
 
 Omidria must be diluted prior to intraocular use.
-For administration to patients undergoing cataract surgery or intraocular lens replacement, 4 mL of Omidria is diluted in 500 mL of ophthalmic irrigation solution.
-Irrigation solution is to be used as needed for the surgical procedure.
+For administration to patients undergoing cataract surgery or intraocular lens replacement, 4 mL of Omidria is diluted in 500 mL of ocular irrigating solution.
+Irrigation solution is to be used as needed for the surgical procedure for a single patient.
 
 The storage period for the diluted product is not more than 4 hours at room temperature or 24 hours under refrigerated conditions.
 

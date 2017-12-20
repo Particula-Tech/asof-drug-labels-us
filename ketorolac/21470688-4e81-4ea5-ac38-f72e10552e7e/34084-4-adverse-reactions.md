@@ -4,9 +4,9 @@
 
 Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to the rates in the clinical studies of another drug and may not reflect the rates observed in practice.
 
-Table 1 shows frequently reported ocular adverse reactions with an incidence of ≥ 2% of subjects as seen in the combined clinical trial results from three randomized, placebo-controlled studies.
+Table 1 shows frequently reported ocular adverse reactions with an incidence of ≥ 2% of adult patients as seen in the combined clinical trial results from three randomized, placebo-controlled studies [see Clinical Studies (14)].
 
-Table 1: Ocular Adverse Reactions Reported by ≥ 2% of Subjects
+Table 1: Ocular Adverse Reactions Reported by ≥ 2% of Adult Patients
 
 | MedDRA Preferred Term | Placebo (N=462) | Omidria (N=459) |
 | --- | --- | --- |
@@ -17,3 +17,5 @@ Table 1: Ocular Adverse Reactions Reported by ≥ 2% of Subjects
 | Posterior Capsule Opacification | 16 (4%) | 18 (4%) |
 | Eye Irritation | 6 (1%) | 9 (2%) |
 | Foreign Body Sensation in Eyes | 11 (2%) | 8 (2%) |
+
+In a safety study that enrolled 72 pediatric patients up to 3 years old, no overall difference in safety was observed between pediatric and adult patients.
