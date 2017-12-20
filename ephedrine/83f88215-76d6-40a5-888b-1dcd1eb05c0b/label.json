@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA208289"
+  ],
+  "inn": "ephedrine",
+  "labeler": "BluePoint Laboratories",
+  "package_ndcs": [
+    "68001-330-59",
+    "68001-330-60"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "ephedrine sulfate",
+      "name": "Akovaz"
+    }
+  ],
+  "setid": "83f88215-76d6-40a5-888b-1dcd1eb05c0b",
+  "source": "dailymed"
+}
