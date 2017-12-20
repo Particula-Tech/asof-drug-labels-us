@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-Inderal® (propranolol hydrochloride) is a synthetic beta-adrenergic receptor blocking agent chemically described as 2-Propanol, 1-[(1-methylethyl)amino]-3-(1-naphthalenyloxy)-, hydrochloride,(±)-.
+Inderal® (propranolol hydrochloride) is a synthetic beta-adrenergic receptor blocking agent chemically described as 2-Propanol, 1-[(1-methylethyl) amino]-3-(1-naphthalenyloxy)-, hydrochloride,(±)-.
 Its molecular and structural formulae are:
 
 Propranolol hydrochloride is a stable, white, crystalline solid which is readily soluble in water and ethanol.

@@ -1,8 +1,5 @@
 Rx only
 
-|  | This product's label may have been revised after this insert was used in production. For further product information and current package insert, please visit www.wyeth.com or call our medical communications department toll-free at 1-800-934-5556. |  |
-| --- | --- | --- |
-
 # PHARMACOKINETICS AND DRUG METABOLISM
 
 ## Absorption
@@ -33,7 +30,7 @@ In vitro studies have indicated that the aromatic hydroxylation of propranolol i
 Side-chain oxidation is mediated mainly by CYP1A2 and to some extent by CYP2D6.
 4-hydroxy propranolol is a weak inhibitor of CYP2D6.
 
-Propranolol is also a substrate of CYP2C19 and a substrate for the intestinal efflux transporter, p‑glycoprotein (p-gp).
+Propranolol is also a substrate of CYP2C19 and a substrate for the intestinal efflux transporter, p-glycoprotein (p-gp).
 Studies suggest however that p-gp is not dose-limiting for intestinal absorption of propranolol in the usual therapeutic dose range.
 
 In healthy subjects, no difference was observed between CYP2D6 extensive metabolizers (EMs) and poor metabolizers (PMs) with respect to oral clearance or elimination half-life.
@@ -45,14 +42,14 @@ The plasma half-life of propranolol is from 3 to 6 hours.
 
 Propranolol is a racemic mixture of two enantiomers, R(+) and S(-).
 The S(-)-enantiomer is approximately 100 times as potent as the R(+)-enantiomer in blocking beta adrenergic receptors.
-In normal subjects receiving oral doses of racemic propranolol, S(-)-enantiomer concentrations exceeded those of the R(+)-enantiomer by 40-90% as a result of stereoselective hepatic metabolism.
+In normal subjects receiving oral doses of racemic propranolol, S(-)-enantiomer concentrations exceeded those of the R(+)-enantiomer by 40–90% as a result of stereoselective hepatic metabolism.
 Clearance of the pharmacologically active S(-)-propranolol is lower than R(+)-propranolol after intravenous and oral doses.
 
 ## Special Populations
 
 ### Geriatric
 
-In a study of 12 elderly (62-79 years old) and 12 young (25-33 years old) healthy subjects, the clearance of S(-)-enantiomer of propranolol was decreased in the elderly.
+In a study of 12 elderly (62–79 years old) and 12 young (25–33 years old) healthy subjects, the clearance of S(-)-enantiomer of propranolol was decreased in the elderly.
 Additionally, the half-life of both the R(+)- and S(-)-propranolol were prolonged in the elderly compared with the young (11 hours vs. 5 hours).
 
 Clearance of propranolol is reduced with aging due to decline in oxidation capacity (ring oxidation and side-chain oxidation).
@@ -79,7 +76,7 @@ In a study conducted in 5 patients with chronic renal failure, 6 patients on reg
 Propranolol plasma clearance was also reduced in the patients with chronic renal failure.
 
 Studies have reported a delayed absorption rate and a reduced half-life of propranolol in patients with renal failure of varying severity.
-Despite this shorter plasma half-life, propranolol peak plasma levels were 3-4 times higher and total plasma levels of metabolites were up to 3 times higher in these patients than in subjects with normal renal function.
+Despite this shorter plasma half-life, propranolol peak plasma levels were 3–4 times higher and total plasma levels of metabolites were up to 3 times higher in these patients than in subjects with normal renal function.
 
 Chronic renal failure has been associated with a decrease in drug metabolism via downregulation of hepatic cytochrome P450 activity resulting in a lower “first-pass” clearance.
 
@@ -122,15 +119,15 @@ Cigarette smoking also induces hepatic metabolism and has been shown to increase
 
 The AUC of propafenone is increased by more than 200% by co-administration of propranolol.
 
-The metabolism of propranolol is reduced by co-administration of quinidine, leading to a two‑three fold increased blood concentration and greater degrees of clinical beta-blockade.
+The metabolism of propranolol is reduced by co-administration of quinidine, leading to a two-three fold increased blood concentration and greater degrees of clinical beta-blockade.
 
 The metabolism of lidocaine is inhibited by co-administration of propranolol, resulting in a 25% increase in lidocaine concentrations.
 
 #### Calcium Channel Blockers
 
-The mean Cmax and AUC of propranolol are increased, respectively, by 50% and 30% by co‑administration of nisoldipine and by 80% and 47%, by co‑administration of nicardipine.
+The mean Cmax and AUC of propranolol are increased, respectively, by 50% and 30% by co-administration of nisoldipine and by 80% and 47%, by co-administration of nicardipine.
 
-The mean Cmax and AUC of nifedipine are increased by 64% and 79%, respectively, by co‑administration of propranolol.
+The mean Cmax and AUC of nifedipine are increased by 64% and 79%, respectively, by co-administration of propranolol.
 
 Propranolol does not affect the pharmacokinetics of verapamil and norverapamil.
 Verapamil does not affect the pharmacokinetics of propranolol.
@@ -193,7 +190,7 @@ In a double-blind, placebo-controlled study of 32 patients of both sexes, aged 3
 
 ## Atrial Fibrillation
 
-In a report examining the long-term (5-22 months) efficacy of propranolol, 10 patients, aged 27 to 80, with atrial fibrillation and ventricular rate >120 beats per minute despite digitalis, received propranolol up to 30 mg t.i.d.
+In a report examining the long-term (5–22 months) efficacy of propranolol, 10 patients, aged 27 to 80, with atrial fibrillation and ventricular rate >120 beats per minute despite digitalis, received propranolol up to 30 mg t.i.d.
 Seven patients (70%) achieved ventricular rate reduction to <100 beats per minute.
 
 ## Myocardial Infarction
@@ -215,13 +212,17 @@ The headache unit index, a composite of the number of days with headache and the
 
 ## Essential Tremor
 
-In a 2 week, double-blind, parallel, placebo-controlled study of 9 patients with essential or familial tremor, propranolol, at a dose titrated as needed from 40-80 mg t.i.d. reduced tremor severity compared to placebo.
+In a 2 week, double-blind, parallel, placebo-controlled study of 9 patients with essential or familial tremor, propranolol, at a dose titrated as needed from 40–80 mg t.i.d. reduced tremor severity compared to placebo.
 
 ## Hypertrophic Subaortic Stenosis
 
-In an uncontrolled series of 13 patients with New York Heart Association (NYHA) class 2 or 3 symptoms and hypertrophic subaortic stenosis diagnosed at cardiac catheterization, oral propranolol 40-80 mg t.i.d. was administered and patients were followed for up to 17 months.
+In an uncontrolled series of 13 patients with New York Heart Association (NYHA) class 2 or 3 symptoms and hypertrophic subaortic stenosis diagnosed at cardiac catheterization, oral propranolol 40–80 mg t.i.d. was administered and patients were followed for up to 17 months.
 Propranolol was associated with improved NYHA class for most patients.
 
 ## Pheochromocytoma
 
-In an uncontrolled series of 3 patients with norepinephrine-secreting pheochromocytoma who were pretreated with an alpha adrenergic blocker (prazosin), perioperative use of propranolol at doses of 40-80 mg t.i.d. resulted in symptomatic blood pressure control.
+In an uncontrolled series of 3 patients with norepinephrine-secreting pheochromocytoma who were pretreated with an alpha adrenergic blocker (prazosin), perioperative use of propranolol at doses of 40–80 mg t.i.d. resulted in symptomatic blood pressure control.
+
+LAB-1194-1.0
+
+Revised November 2017

@@ -14,7 +14,7 @@ The time needed for full antihypertensive response to a given dosage is variable
 
 While twice-daily dosing is effective and can maintain a reduction in blood pressure throughout the day, some patients, especially when lower doses are used, may experience a modest rise in blood pressure toward the end of the 12-hour dosing interval.
 This can be evaluated by measuring blood pressure near the end of the dosing interval to determine whether satisfactory control is being maintained throughout the day.
-If control is not adequate, a larger dose, or 3‑times‑daily therapy may achieve better control.
+If control is not adequate, a larger dose, or 3-times-daily therapy may achieve better control.
 
 ## Angina Pectoris
 

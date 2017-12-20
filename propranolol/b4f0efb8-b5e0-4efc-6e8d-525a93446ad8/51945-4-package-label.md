@@ -11,3 +11,19 @@ Inderal® (propranolol hydrochloride)
 Rx only
 
 Wyeth®
+
+# PRINCIPAL DISPLAY PANEL - 0046-0422-81
+
+Image not available
+
+# PRINCIPAL DISPLAY PANEL - 0046-0424-81
+
+Image not available
+
+# PRINCIPAL DISPLAY PANEL - 0046-0426-81
+
+Image not available
+
+# PRINCIPAL DISPLAY PANEL - 0046-0428-81
+
+Image not available

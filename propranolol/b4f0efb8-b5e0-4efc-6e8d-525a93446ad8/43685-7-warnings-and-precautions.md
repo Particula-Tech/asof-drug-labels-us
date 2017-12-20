@@ -28,11 +28,7 @@ Propranolol should be administered with caution in this setting since it may pro
 
 ## Major Surgery
 
-The necessity or desirability of withdrawal of beta-blocking therapy prior to major surgery is controversial.
-It should be noted, however, that the impaired ability of the heart to respond to reflex adrenergic stimuli in propranolol-treated patients may augment the risks of general anesthesia and surgical procedures.
-
-Propranolol is a competitive inhibitor of beta-receptor agonists, and its effects can be reversed by administration of such agents, e.g., dobutamine or isoproterenol.
-However, such patients may be subject to protracted severe hypotension.
+Chronically administered beta-blocking therapy should not be routinely withdrawn prior to major surgery, however the impaired ability of the heart to respond to reflex adrenergic stimuli may augment the risks of general anesthesia and surgical procedures.
 
 ## Diabetes and Hypoglycemia
 
@@ -67,9 +63,7 @@ Inderal is not indicated for the treatment of hypertensive emergencies.
 
 Beta-adrenergic receptor blockade can cause reduction of intraocular pressure.
 Patients should be told that Inderal may interfere with the glaucoma screening test.
-Withdrawal may lead to a return of increased intraocular pressure.
-
-While taking beta blockers, patients with a history of severe anaphylactic reaction to a variety of allergens may be more reactive to repeated challenge, either accidental, diagnostic, or therapeutic.
+Withdrawal may lead to a return of increased intraocular pressure.While taking beta blockers, patients with a history of severe anaphylactic reaction to a variety of allergens may be more reactive to repeated challenge, either accidental, diagnostic, or therapeutic.
 Such patients may be unresponsive to the usual doses of epinephrine used to treat allergic reaction.
 
 ## Clinical Laboratory Tests
@@ -178,7 +172,7 @@ On a body surface area basis, this dose in the mouse and rat is, respectively, a
 In a study in which both male and female rats were exposed to propranolol hydrochloride in their diets at concentrations of up to 0.05% (about 50 mg/kg body weight and less than the MRHD), from 60 days prior to mating and throughout pregnancy and lactation for two generations, there were no effects on fertility.
 Based on differing results from Ames Tests performed by different laboratories, there is equivocal evidence for a genotoxic effect of propranolol hydrochloride in bacteria (S. typhimurium strain TA 1538).
 
-## Pregnancy: Pregnancy Category C
+## Pregnancy
 
 In a series of reproductive and developmental toxicology studies, propranolol hydrochloride was given to rats by gavage or in the diet throughout pregnancy and lactation.
 At doses of 150 mg/kg/day, but not at doses of 80 mg/kg/day (equivalent to the MRHD on a body surface area basis), treatment was associated with embryotoxicity (reduced litter size and increased resorption rates) as well as neonatal toxicity (deaths).

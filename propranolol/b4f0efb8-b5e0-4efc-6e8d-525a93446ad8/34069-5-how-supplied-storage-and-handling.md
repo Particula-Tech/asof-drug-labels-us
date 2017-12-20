@@ -43,9 +43,3 @@ Store at 20° to 25° C (68° to 77° F); excursions permitted to 15° to 30° C
 Dispense in a well-closed container as defined in the USP.
 
 The appearance of these tablets is a registered trademark of Wyeth Pharmaceuticals.
-
-Wyeth®
-
-Wyeth Pharmaceuticals Inc. Philadelphia, PA 19101
-
-W10486C007 ET01 Rev 12/07
