@@ -15,7 +15,7 @@ Gastrointestinal experiences including
 
 Other events including:
 
-| abnormal renal functionAdverse events that were observed in < 1% of patients in the first 30 days of treatment with etodolac extended-release tablets in clinical trials. | Anemia | asthenia |
+| abnormal renal function Adverse events that were observed in < 1% of patients in the first 30 days of treatment with etodolac extended-release tablets in clinical trials. | Anemia | asthenia |
 | --- | --- | --- |
 | dizziness | edema | elevated liver enzymes |
 | headaches | hypertension | increased bleeding time |

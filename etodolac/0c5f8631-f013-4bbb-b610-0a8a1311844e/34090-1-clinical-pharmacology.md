@@ -21,7 +21,7 @@ The data from patients with renal and hepatic impairment were obtained following
 
 Table 1
 
-|  | Mean (CV)%% Coefficient of variation |  |
+|  | Mean (CV)% % Coefficient of variation |  |
 | --- | --- | --- |
 | Pharmacokinetic Parameters | Etodolac Tablets | Etodolac Extended-release Tablets |
 | Extent of Oral Absorption (Bioavailability) [F] | ≥ 80% | ≥ 80% |
@@ -57,7 +57,7 @@ Coadministration, with an antacid, decreases the peak concentration reached by a
 The mean apparent volume of distribution (Vd/F) of etodolac following administration of etodolac extended-release tablets is 566 mL/kg.
 Etodolac is more than 99% bound to plasma proteins, primarily to albumin, and is independent of etodolac concentration over the dose range studied.
 It is not known whether etodolac is excreted in human milk.
-However, based on its physical-chemical properties, excretion into breastmilk is expected.
+However, based on its physical-chemical properties, excretion into breast milk is expected.
 
 ## Metabolism
 
@@ -103,7 +103,7 @@ The results from a population pharmacokinetic analysis based on the 59 subjects 
 
 Table 3 Pharmacokinetic Parameter Estimates for Etodolac Extended-release Tablets in Patients with Juvenile Rheumatoid Arthritis
 
-| Parameter | JRAMean (CV) of parameter estimates predicted from population pharmacokinetics (Age:6 to 16)Age range (years) n = 59 |
+| Parameter | JRA Mean (CV) of parameter estimates predicted from population pharmacokinetics (Age:6 to 16) Age range (years) n = 59 |
 | --- | --- |
 | Oral Clearance (CL/F), mL/h/kg | 47.8 (38%) |
 | Apparent Volume of Distribution (Vd/F), mL/kg | 78.9 (61%) |
