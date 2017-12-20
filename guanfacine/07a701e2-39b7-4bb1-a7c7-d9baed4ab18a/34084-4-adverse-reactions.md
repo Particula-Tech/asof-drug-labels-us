@@ -5,6 +5,7 @@ The following serious adverse reactions are described elsewhere in the labeling:
 - Hypotension, bradycardia, and syncope [see Warnings and Precautions (5.1)]
 - Sedation and somnolence [see Warnings and Precautions (5.2)]
 - Cardiac conduction abnormalities [see Warnings and Precautions (5.3)]
+- Rebound Hypertension [see Warnings and Precautions (5.4)]
 
 To report SUSPECTED ADVERSE REACTIONS, contact TWi Pharmaceuticals, Inc. 1-844-518-2989 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
@@ -188,9 +189,13 @@ The majority of these cases occurred in the long-term, open-label studies.
 
 Discontinuation of Treatment
 
-In a maintenance of efficacy study in children and adolescents [see CLINICAL STUDIES (14)], increases in mean systolic and diastolic blood pressure, of approximately 3 mmHg and 1 mmHg respectively, above original baseline were observed upon discontinuation of guanfacine extended-release tablets.
-The increases in blood pressure were observed in some individuals at the end of the follow up period which ranged between 3 and 26 weeks post final dose.
-Mean increases in pulse of approximately 1.5 bpm were observed at approximately 2 weeks after the last dose of guanfacine extended-release tabletsand then decreased to baseline 4 weeks later.
+Blood pressure and pulse may increase above baseline values following discontinuation of guanfacine extended-release tablets.
+In five studies of children and adolescents [see CLINICAL STUDIES (14)], increases in mean systolic and diastolic blood pressure averaging approximately 3 mmHg and increases in heart rate averaging 5 beats per minute above original baseline were observed upon discontinuation with tapering of guanfacine extended-release tablets.
+In a maintenance of efficacy study, increases in blood pressure and heart rate above baseline slowly diminished over the follow up period, which ranged between 3 and 26 weeks post final dose; the estimated average time to return to baseline was between six and twelve months.
+In this study, the increases in blood pressure and pulse were not considered serious or associated with adverse events.
+However, individuals may have larger increases than reflected by the mean changes.
+
+In postmarketing experience, following abrupt discontinuation of guanfacine extended-release tablets, rebound hypertension and hypertensive encephalopathy have been reported [see Warnings and Precautions (5.4) and Adverse Reactions (6.2]
 
 Effects on Height, Weight, and Body Mass Index (BMI)
 
@@ -213,7 +218,7 @@ Table 13: Other adverse reactions observed in clinical studies
 | Investigations | Increased alanine amino transferase |
 | Nervous system | Convulsion |
 | Renal | Increased urinary frequency |
-| Vascular | Hypotension, pallor |
+| Vascular | Hypertension, pallor |
 
 ## 6.2 Postmarketing Experience
 
@@ -224,7 +229,7 @@ Less frequent, possibly guanfacine-related events observed in the post-marketing
 
 General: edema, malaise, tremor
 
-Cardiovascular: palpitations, tachycardia
+Cardiovascular: palpitations, tachycardia, rebound hypertension, hypertensive encephalopathy
 
 Central Nervous System: paresthesias, vertigo
 

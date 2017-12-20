@@ -7,4 +7,4 @@ Table 14: Clinically Important Drug Interactions: Effect of other Drugs on Guanf
 | Concomitant Drug Name or Drug Class | Clinical Rationale and Magnitude of Drug Interaction | Clinical Recommendation |
 | --- | --- | --- |
 | Strong and moderate CYP3A4 inhibitors, e.g., ketoconazole, fluconazole | Guanfacine is primarily metabolized by CYP3A4 and its plasma concentrations can be significantly affected resulting in an increase in exposure | Consider dose reduction [see Dosage and administration (2.7)] |
-| Strong and moderate CYP3A4 inducers, e.g., rifampin, efavirenz | Guanfacine is primarily metabolized by CYP3A4 and its plasma concentrations can be significantly affected resulting in a 60% decrease in exposure | Consider dose increase[see Dosage and administration (2.7)] |
+| Strong and moderate CYP3A4 inducers, e.g., rifampin, efavirenz | Guanfacine is primarily metabolized by CYP3A4 and its plasma concentrations can be significantly affected resulting in a decrease in exposure | Consider dose increase[see Dosage and administration (2.7)] |

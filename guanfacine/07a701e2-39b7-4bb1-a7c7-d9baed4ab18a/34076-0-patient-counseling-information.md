@@ -9,7 +9,9 @@ Tablets should not be crushed, chewed or broken prior to administration because 
 Patients should not take guanfacine extended-release tablets together with a high-fat meal, since this can raise blood levels of guanfacine extended-release tablets.
 Instruct the parent or caregiver to supervise the child or adolescent taking guanfacine extended-release tablets and to keep the bottle of tablets out of reach of children.
 
-Instruct patients on how to properly taper the medication, if the health care provide decides to discontinue treatment [see Dosage and Administration (2.5)].
+Advise patients not to abruptly discontinue guanfacine extended-release tablets as abrupt discontinuation can result in clinically significant rebound hypertension.
+Concomitant stimulant use and abrupt discontinuation of guanfacine extended-release tablets may increase this hypertensive response.
+Instruct patients on how to properly taper the dose to minimize the risk of rebound hypertension [see Dosage and Administration (2.5) and Warnings and Precautions (5.4].
 
 Adverse Reactions
 
@@ -49,7 +51,7 @@ Before you take guanfacine extended-release tablets, tell your doctor if you:
 
 - have heart problems or a low heart rate
 - have fainted
-- have low blood pressure
+- have low or high blood pressure
 - have liver or kidney problems
 - have any other medical conditions
 - are pregnant or plan to become pregnant.
@@ -84,6 +86,10 @@ How should I take guanfacine extended-release tablets?
 - Your doctor may change your dose.
   Do not change your dose of guanfacine extended-release tablets without talking to your doctor.
 - Do not stop taking guanfacine extended-release tablets without talking to your doctor.
+- Try not to miss your dose of guanfacine extended-release tablets.
+  If you miss a dose of guanfacine extended-release tablets, take the next dose at your regular time.
+  If you miss 2 or more doses, talk to your doctor, as you may need to restart guanfacine extended-release tablets with a lower dose.
+- Do not take a double dose to make up for a missed dose.
 - Guanfacine extended-release tablets should be taken 1 time a day in the morning or in the evening, either alone or in combination with an ADHD stimulant medicine that your doctor may prescribe.
   Your doctor will tell you when to take guanfacine extended-release tablets and when to take your ADHD stimulant medication.
 - Guanfacine extended-release tablets should be swallowed whole with a small amount of water, milk, or other liquid.
@@ -101,6 +107,8 @@ What should I avoid while taking guanfacine extended-release tablets?
   Guanfacine extended-release tablets taken with alcohol or medicines that cause sleepiness or dizziness may make your sleepiness or dizziness worse.
 - Do not become dehydrated or overheated.
   This may increase your chance of having low blood pressure or fainting while taking guanfacine extended-release tablets.
+- Do not suddenly stop guanfacine extended-release tablets.
+  Tell your healthcare provider if you have been vomiting and cannot take guanfacine extended-release tablets, you may be at risk for rebound hypertension.
 
 What are the possible side effects of guanfacine extended-release tablets?
 
@@ -110,6 +118,9 @@ Guanfacine extended-release tablets may cause serious side effects including:
 - low heart rate
 - fainting
 - sleepiness
+- increased blood pressure and heart rate after suddenly stopping guanfacine extended-release tablets (rebound hypertension).
+  Suddenly stopping guanfacine extended-release tablets can cause increased blood pressure and heart rate and other withdrawal symptoms such as headache, confusion, nervousness, agitation, and tremors.
+  If these symptoms continue to get worse and are left untreated, it could lead to a very serious condition including very high blood pressure, feeling very sleepy or tired, severe headache, vomiting, vision problems, seizures.
 
 Get medical help right away, if you have any of the symptoms listed above.
 
@@ -172,6 +183,6 @@ TWi Pharmaceuticals, Inc.
 
 Taoyuan City, 32063, Taiwan
 
-Revised: 04/17
+Revised: 12/17
 
 OS24979533

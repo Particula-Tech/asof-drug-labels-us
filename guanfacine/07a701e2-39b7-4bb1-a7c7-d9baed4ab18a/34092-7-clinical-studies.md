@@ -52,7 +52,7 @@ Table 16: Fixed dose Studies
 
 Study 3: Flexible-dose Guanfacine Extended-Release Tablets as Adjunctive Therapy to Psychostimulants
 
-Study 3 (313 study) was a double-blind, randomized, placebo-controlled, dose-optimization study, in which efficacy of once daily optimized dosing (morning or evening) with guanfacine extended-release tablets (1 mg, 2 mg, 3 mg and 4 mg), when coadministered with psychostimulants, was evaluated for 8 weeks, in children and adolescents aged 6 to 17 years with a diagnosis of ADHD, with a sub-optimal response to stimulants (n=455).
+Study 3 (313 study) was a double-blind, randomized, placebo-controlled, dose-optimization study, in which efficacy of once daily optimized dosing (morning or evening) with guanfacine extended-release tablets (1 mg, 2 mg, 3 mg and 4 mg), when co-administered with psychostimulants, was evaluated for 8 weeks, in children and adolescents aged 6 to 17 years with a diagnosis of ADHD, with a sub-optimal response to stimulants (n=455).
 Patients were started at the 1 mg guanfacine extended-release tablets dose level and were titrated weekly over a 5-week dose-optimization period to an optimal guanfacine extended-release tablets dose not to exceed 4 mg/day based on tolerability and clinical response.
 The dose was then maintained for a 3-week dose maintenance period before entry to 1 week of dose tapering.
 Patients took guanfacine extended-release tablets either in the morning or the evening while maintaining their current dose of psychostimulant treatment given each morning.
