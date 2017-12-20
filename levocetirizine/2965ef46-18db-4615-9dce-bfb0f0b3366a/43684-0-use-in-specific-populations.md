@@ -7,7 +7,7 @@ Pregnancy Category B
 There are no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, levocetirizine dihydrochloride should be used during pregnancy only if clearly needed.
 
-Teratogenic Effects:
+Teratogenic Effects
 
 In rats and rabbits, levocetirizine was not teratogenic at oral doses approximately 320 and 390, respectively, times the maximum recommended daily oral dose in adults on a mg/m2 basis.
 
@@ -38,6 +38,7 @@ In a population pharmacokinetics study the administration of 1.25 mg once daily 
 
 Clinical studies of levocetirizine dihydrochloride for each approved indication did not include sufficient numbers of patients aged 65 years and older to determine whether they respond differently than younger patients.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
+
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range reflecting the greater frequency of decreased hepatic, renal, or cardiac function and of concomitant disease or other drug therapy.
 
 ## 8.6 Renal Impairment

@@ -2,7 +2,7 @@ Made in Israel
 
 Manufactured By Perrigo
 
-Yeruham 80500, Israel
+Yeruham, Israel
 
 Distributed By
 
@@ -12,6 +12,8 @@ Allegan, MI 49010
 
 www.perrigo.com
 
-Rev 02-15
+Rev 12-16
 
-PI-5018-1 4T800 RC J4
+PI-5018-1
+
+4T800 RC J6

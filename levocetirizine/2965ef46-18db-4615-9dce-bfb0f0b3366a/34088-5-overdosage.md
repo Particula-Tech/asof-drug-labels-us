@@ -2,8 +2,8 @@
 
 Overdosage has been reported with levocetirizine dihydrochloride.
 
-Symptoms of overdose may include drowsiness in adults and initially agitation and restlessness, followed by drowsiness in children.
-There is no known specific antidote to levocetirizine dihydrochloride.
+Symptoms of overdose may include drowsiness in adults.
+In children agitation and restlessness may initially occur, followed by drowsiness There is no known specific antidote to levocetirizine dihydrochloride.
 Should overdose occur, symptomatic or supportive treatment is recommended.
 Levocetirizine dihydrochloride is not effectively removed by dialysis, and dialysis will be ineffective unless a dialyzable agent has been concomitantly ingested.
 

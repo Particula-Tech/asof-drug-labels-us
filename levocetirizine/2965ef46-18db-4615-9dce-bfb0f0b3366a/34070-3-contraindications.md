@@ -1,6 +1,6 @@
 # 4 CONTRAINDICATIONS
 
-1. The use of levocetirizine dihydrochloride is contraindicated in:
+The use of levocetirizine dihydrochloride is contraindicated in:
 
 ## 4.1 Patients with known hypersensitivity
 
