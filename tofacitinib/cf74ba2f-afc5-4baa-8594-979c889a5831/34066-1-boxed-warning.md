@@ -14,7 +14,7 @@ Reported infections include:
   Treatment for latent infection should be initiated prior to XELJANZ/XELJANZ XR use.
 - Invasive fungal infections, including cryptococcosis and pneumocystosis.
   Patients with invasive fungal infections may present with disseminated, rather than localized, disease.
-- Bacterial, viral, and other infections due to opportunistic pathogens.
+- Bacterial, viral, including herpes zoster, and other infections due to opportunistic pathogens.
 
 The risks and benefits of treatment with XELJANZ/XELJANZ XR should be carefully considered prior to initiating therapy in patients with chronic or recurrent infection.
 

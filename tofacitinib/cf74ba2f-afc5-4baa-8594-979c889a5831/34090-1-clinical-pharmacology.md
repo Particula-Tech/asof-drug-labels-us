@@ -23,6 +23,9 @@ Total serum IgG, IgM, and IgA levels after 6-month dosing in patients with rheum
 After treatment with XELJANZ in patients with rheumatoid arthritis, rapid decreases in serum C-reactive protein (CRP) were observed and maintained throughout dosing.
 Changes in CRP observed with XELJANZ treatment do not reverse fully within 2 weeks after discontinuation, indicating a longer duration of pharmacodynamic activity compared to the pharmacokinetic half-life.
 
+Similar changes in T cells, B cells, and serum CRP have been observed in patients with active psoriatic arthritis although reversibility was not assessed.
+Total serum immunoglobulins were not assessed in patients with active psoriatic arthritis.
+
 ## 12.3 Pharmacokinetics
 
 XELJANZ
@@ -67,6 +70,10 @@ An approximately linear relationship between body weight and volume of distribut
 However, this difference is not considered to be clinically relevant.
 The between-subject variability (% coefficient of variation) in AUC of tofacitinib is estimated to be approximately 27%.
 
+Pharmacokinetics in Patients with Active Psoriatic Arthritis
+
+Results from population PK analysis in patients with active psoriatic arthritis were consistent with those in patients with rheumatoid arthritis.
+
 Specific Populations
 
 The effect of renal and hepatic impairment and other intrinsic factors on the pharmacokinetics of tofacitinib is shown in Figure 1.
@@ -74,15 +81,16 @@ The effect of renal and hepatic impairment and other intrinsic factors on the ph
 Figure 1: Impact of Intrinsic Factors on Tofacitinib Pharmacokinetics
 
 * Supplemental doses are not necessary in patients after dialysis.
-
 Reference values for weight, age, gender, and race comparisons are 70 kg, 55 years, male, and White, respectively; reference groups for renal and hepatic impairment data are subjects with normal renal and hepatic function.
 
 Drug Interactions
 
 Potential for XELJANZ/XELJANZ XR to Influence the PK of Other Drugs
 
-In vitro studies indicate that tofacitinib does not significantly inhibit or induce the activity of the major human drug-metabolizing CYPs (CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, and CYP3A4) at concentrations exceeding 160 times the steady state Cmax of a 5 mg twice daily dose.
+In vitro studies indicate that tofacitinib does not significantly inhibit or induce the activity of the major human drug-metabolizing CYPs (CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, and CYP3A4) at concentrations exceeding 80 times the steady state Cmax of a 5 mg twice daily dose.
 These in vitro results were confirmed by a human drug interaction study showing no changes in the PK of midazolam, a highly sensitive CYP3A4 substrate, when coadministered with XELJANZ.
+
+In vitro studies indicate that tofacitinib does not significantly inhibit the activity of the major human drug-metabolizing uridine 5'-diphospho-glucuronosyltransferases (UGTs) [UGT1A1, UGT1A4, UGT1A6, UGT1A9, and UGT2B7] at concentrations exceeding 250 times the steady state Cmax of a 5 mg twice daily dose.
 
 In rheumatoid arthritis patients, the oral clearance of tofacitinib does not vary with time, indicating that tofacitinib does not normalize CYP enzyme activity in rheumatoid arthritis patients.
 Therefore, coadministration with XELJANZ/XELJANZ XR is not expected to result in clinically relevant increases in the metabolism of CYP substrates in rheumatoid arthritis patients.

@@ -4,18 +4,18 @@ All information provided in this section is applicable to XELJANZ and XELJANZ XR
 
 ## 7.1 Potent CYP3A4 Inhibitors
 
-Tofacitinib exposure is increased when XELJANZ is coadministered with potent inhibitors of cytochrome P450 (CYP) 3A4 (e.g., ketoconazole) [see Dosage and Administration (2.3) and Figure 3].
+Tofacitinib exposure is increased when XELJANZ is coadministered with potent inhibitors of cytochrome P450 (CYP) 3A4 (e.g., ketoconazole) [see Dosage and Administration (2.4) and Figure 3].
 
 ## 7.2 Moderate CYP3A4 and Potent CYP2C19 Inhibitors
 
-Tofacitinib exposure is increased when XELJANZ is coadministered with medications that result in both moderate inhibition of CYP3A4 and potent inhibition of CYP2C19 (e.g., fluconazole) [see Dosage and Administration (2.3) and Figure 3].
+Tofacitinib exposure is increased when XELJANZ is coadministered with medications that result in both moderate inhibition of CYP3A4 and potent inhibition of CYP2C19 (e.g., fluconazole) [see Dosage and Administration (2.4) and Figure 3].
 
 ## 7.3 Potent CYP3A4 Inducers
 
-Tofacitinib exposure is decreased when XELJANZ is coadministered with potent CYP3A4 inducers (e.g., rifampin) [see Dosage and Administration (2.3) and Figure 3].
+Tofacitinib exposure is decreased when XELJANZ is coadministered with potent CYP3A4 inducers (e.g., rifampin) [see Dosage and Administration (2.4) and Figure 3].
 
 ## 7.4 Immunosuppressive Drugs
 
 There is a risk of added immunosuppression when XELJANZ/XELJANZ XR is coadministered with potent immunosuppressive drugs (e.g., azathioprine, tacrolimus, cyclosporine).
-Combined use of multiple-dose XELJANZ/XELJANZ XR with potent immunosuppressants has not been studied in rheumatoid arthritis.
+Combined use of multiple-dose XELJANZ/XELJANZ XR with potent immunosuppressants has not been studied in rheumatoid arthritis and psoriatic arthritis.
 Use of XELJANZ/XELJANZ XR in combination with biologic DMARDs or potent immunosuppressants such as azathioprine and cyclosporine is not recommended.

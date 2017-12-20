@@ -4,6 +4,8 @@
 
 Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not predict the rates observed in a broader patient population in clinical practice.
 
+Rheumatoid Arthritis
+
 The clinical studies described in the following sections were conducted using XELJANZ.
 Although other doses of XELJANZ have been studied, the recommended dose of XELJANZ is 5 mg twice daily.
 
@@ -123,7 +125,7 @@ Other Adverse Reactions
 
 Adverse reactions occurring in 2% or more of patients on 5 mg twice daily or 10 mg twice daily XELJANZ and at least 1% greater than that observed in patients on placebo with or without DMARD are summarized in Table 4.
 
-Table 4: Adverse Reactions Occurring in at Least 2% or More of Patients on 5 or 10 mg Twice Daily XELJANZ With or Without DMARD (0–3 months) and at Least 1% Greater Than That Observed in Patients on Placebo
+Table 4: Adverse Reactions Occurring in at Least 2% or More of Patients on 5 or 10 mg Twice Daily XELJANZ With or Without DMARD (0–3 months) and at Least 1% Greater Than That Observed in Rheumatoid Arthritis Patients on Placebo
 
 | Preferred Term | N = 1336 (%) | N = 1349 (%) | N = 809 (%) |
 | --- | --- | --- | --- |
@@ -165,3 +167,19 @@ Clinical Experience in Methotrexate-Naïve Patients
 
 Study VI was an active-controlled clinical trial in methotrexate-naïve patients [see Clinical Studies (14)].
 The safety experience in these patients was consistent with Studies I–V.
+
+Psoriatic Arthritis
+
+XELJANZ 5 mg twice daily and 10 mg twice daily were studied in 2 double-blind Phase 3 clinical trials in patients with active psoriatic arthritis (PsA).
+
+Study PsA-I (NCT01877668) had a duration of 12 months and enrolled patients who had an inadequate response to a nonbiologic DMARD and who were naïve to treatment with a TNF-inhibitor (TNFi).
+Study PsA-I included a 3-month placebo-controlled period and also included adalimumab 40 mg subcutaneously once every 2 weeks for 12 months.
+
+Study PsA-II (NCT01882439) had a duration of 6 months and enrolled patients who had an inadequate response to at least one approved TNFi.
+This clinical trial included a 3-month placebo controlled period.
+
+In these combined Phase 3 clinical trials, 238 patients were randomized and treated with XELJANZ 5 mg twice daily and 236 patients were randomized and treated with XELJANZ 10 mg twice daily.
+All patients in the clinical trials were required to receive treatment with a stable dose of a nonbiologic DMARD [the majority (79%) received methotrexate].
+The study population randomized and treated with XELJANZ (474 patients) included 45 (9.5%) patients aged 65 years or older and 66 (13.9%) patients with diabetes at baseline.
+
+The safety profile observed in patients with active psoriatic arthritis treated with XELJANZ was consistent with the safety profile observed in rheumatoid arthritis patients.

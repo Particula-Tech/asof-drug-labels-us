@@ -1,5 +1,7 @@
 # 14 CLINICAL STUDIES
 
+## 14.1 Rheumatoid Arthritis
+
 The XELJANZ clinical development program included two dose-ranging trials and five confirmatory trials.
 Although other doses have been studied, the recommended dose of XELJANZ is 5 mg twice daily.
 
@@ -24,29 +26,29 @@ Study 1 was a dose-ranging monotherapy trial not designed to provide comparative
 
 Confirmatory Trials
 
-Study I was a 6-month monotherapy trial in which 610 patients with moderate to severe active rheumatoid arthritis who had an inadequate response to a DMARD (nonbiologic or biologic) received XELJANZ 5 or 10 mg twice daily or placebo.
+Study I (NCT00814307) was a 6-month monotherapy trial in which 610 patients with moderate to severe active rheumatoid arthritis who had an inadequate response to a DMARD (nonbiologic or biologic) received XELJANZ 5 or 10 mg twice daily or placebo.
 At the Month 3 visit, all patients randomized to placebo treatment were advanced in a blinded fashion to a second predetermined treatment of XELJANZ 5 or 10 mg twice daily.
 The primary endpoints at Month 3 were the proportion of patients who achieved an ACR20 response, changes in Health Assessment Questionnaire – Disability Index (HAQ-DI), and rates of Disease Activity Score DAS28-4(ESR) less than 2.6.
 
-Study II was a 12-month trial in which 792 patients with moderate to severe active rheumatoid arthritis who had an inadequate response to a nonbiologic DMARD received XELJANZ 5 or 10 mg twice daily or placebo added to background DMARD treatment (excluding potent immunosuppressive treatments such as azathioprine or cyclosporine).
+Study II (NCT00856544) was a 12-month trial in which 792 patients with moderate to severe active rheumatoid arthritis who had an inadequate response to a nonbiologic DMARD received XELJANZ 5 or 10 mg twice daily or placebo added to background DMARD treatment (excluding potent immunosuppressive treatments such as azathioprine or cyclosporine).
 At the Month 3 visit, nonresponding patients were advanced in a blinded fashion to a second predetermined treatment of XELJANZ 5 or 10 mg twice daily.
 At the end of Month 6, all placebo patients were advanced to their second predetermined treatment in a blinded fashion.
 The primary endpoints were the proportion of patients who achieved an ACR20 response at Month 6, changes in HAQ-DI at Month 3, and rates of DAS28-4(ESR) less than 2.6 at Month 6.
 
-Study III was a 12-month trial in 717 patients with moderate to severe active rheumatoid arthritis who had an inadequate response to MTX.
+Study III (NCT00853385) was a 12-month trial in 717 patients with moderate to severe active rheumatoid arthritis who had an inadequate response to MTX.
 Patients received XELJANZ 5 or 10 mg twice daily, adalimumab 40 mg subcutaneously every other week, or placebo added to background MTX.
 Placebo patients were advanced as in Study II.
 The primary endpoints were the proportion of patients who achieved an ACR20 response at Month 6, HAQ-DI at Month 3, and DAS28-4(ESR) less than 2.6 at Month 6.
 
-Study IV was a 2-year trial with a planned analysis at 1 year in which 797 patients with moderate to severe active rheumatoid arthritis who had an inadequate response to MTX received XELJANZ 5 or 10 mg twice daily or placebo added to background MTX.
+Study IV (NCT00847613) was a 2-year trial with a planned analysis at 1 year in which 797 patients with moderate to severe active rheumatoid arthritis who had an inadequate response to MTX received XELJANZ 5 or 10 mg twice daily or placebo added to background MTX.
 Placebo patients were advanced as in Study II.
 The primary endpoints were the proportion of patients who achieved an ACR20 response at Month 6, mean change from baseline in van der Heijde-modified total Sharp Score (mTSS) at Month 6, HAQ-DI at Month 3, and DAS28-4(ESR) less than 2.6 at Month 6.
 
-Study V was a 6-month trial in which 399 patients with moderate to severe active rheumatoid arthritis who had an inadequate response to at least one approved TNF-inhibiting biologic agent received XELJANZ 5 or 10 mg twice daily or placebo added to background MTX.
+Study V (NCT00960440) was a 6-month trial in which 399 patients with moderate to severe active rheumatoid arthritis who had an inadequate response to at least one approved TNF-inhibiting biologic agent received XELJANZ 5 or 10 mg twice daily or placebo added to background MTX.
 At the Month 3 visit, all patients randomized to placebo treatment were advanced in a blinded fashion to a second predetermined treatment of XELJANZ 5 or 10 mg twice daily.
 The primary endpoints at Month 3 were the proportion of patients who achieved an ACR20 response, HAQ-DI, and DAS28-4(ESR) less than 2.6.
 
-Study VI was a 2-year monotherapy trial with a planned analysis at 1 year in which 952 MTX-naïve patients with moderate to severe active rheumatoid arthritis received XELJANZ 5 or 10 mg twice daily or MTX dose-titrated over 8 weeks to 20 mg weekly.
+Study VI (NCT01039688) was a 2-year monotherapy trial with a planned analysis at 1 year in which 952 MTX-naïve patients with moderate to severe active rheumatoid arthritis received XELJANZ 5 or 10 mg twice daily or MTX dose-titrated over 8 weeks to 20 mg weekly.
 The primary endpoints were mean change from baseline in van der Heijde-modified Total Sharp Score (mTSS) at Month 6 and the proportion of patients who achieved an ACR70 response at Month 6.
 
 Clinical Response
@@ -128,7 +130,7 @@ In the placebo plus MTX group, 74% of patients experienced no radiographic progr
 In Study VI, XELJANZ monotherapy inhibited the progression of structural damage compared to MTX at Months 6 and 12 as shown in Table 8.
 Analyses of erosion and joint space narrowing scores were consistent with the overall results.
 
-In the MTX group, 55% of patients experienced no radiographic progression at Month 6 compared to 73% and 77% of patients treated with XELJANZ 5 or 10 mg twice daily
+In the MTX group, 55% of patients experienced no radiographic progression at Month 6 compared to 73% and 77% of patients treated with XELJANZ 5 or 10 mg twice daily.
 
 Table 8: Radiographic Changes at Months 6 and 12
 
@@ -159,3 +161,126 @@ Other Health-Related Outcomes
 
 General health status was assessed by the Short Form health survey (SF-36).
 In studies I, IV, and V, patients receiving XELJANZ 5 mg twice daily or XELJANZ 10 mg twice daily demonstrated greater improvement from baseline compared to placebo in physical component summary (PCS), mental component summary (MCS) scores and in all 8 domains of the SF-36 at Month 3.
+
+## 14.2 Psoriatic Arthritis
+
+The XELJANZ clinical development program to assess efficacy and safety included 2 multicenter, randomized, double-blind, placebo-controlled confirmatory trials in 816 patients 18 years of age and older (PsA-I and PsA-II).
+Although other doses have been studied, the recommended dose of XELJANZ is 5 mg twice daily.
+All patients had active psoriatic arthritis for at least 6 months based upon the Classification Criteria for Psoriatic Arthritis (CASPAR), at least 3 tender/painful joints and at least 3 swollen joints, and active plaque psoriasis.
+Patients randomized and treated across the 2 clinical trials represented different psoriatic arthritis subtypes at screening, including <5 joints or asymmetric involvement (21%), ≥5 joints involved (90%), distal interphalangeal (DIP) joint involvement (61%), arthritis mutilans (8%), and spondylitis (19%).
+Patients in these clinical trials had a diagnosis of psoriatic arthritis for a mean (SD) of 7.7 (7.2) years.
+At baseline, 80% and 53% of patients had enthesitis and dactylitis, respectively.
+At baseline, all patients were required to receive treatment with a stable dose of a nonbiologic DMARD (79% received methotrexate, 13% received sulfasalazine, 7% received leflunomide, 1% received other nonbiologic DMARDs).
+In both clinical trials, the primary endpoints were the ACR20 response and the change from baseline in HAQ-DI at Month 3.
+
+Study PsA-I was a 12-month clinical trial in 422 patients who had an inadequate response to a nonbiologic DMARD (67% and 33% were inadequate responders to 1 nonbiologic DMARD and ≥2 nonbiologic DMARDs, respectively) and who were naïve to treatment with a TNF-inhibitor (TNFi).
+Patients were randomized in a 2:2:2:1:1 ratio to receive XELJANZ 5 mg twice daily, XELJANZ 10 mg twice daily, adalimumab 40 mg subcutaneously once every 2 weeks, placebo to XELJANZ 5 mg twice daily treatment sequence, or placebo to XELJANZ 10 mg twice daily treatment sequence, respectively; study drug was added to background nonbiologic DMARD treatment.
+At the Month 3 visit, all patients randomized to placebo treatment were advanced in a blinded fashion to a predetermined XELJANZ dose of 5 mg or 10 mg twice daily.
+Study PsA-I was not designed to demonstrate noninferiority or superiority to adalimumab.
+
+Study PsA-II was a 6-month clinical trial in 394 patients who had an inadequate response to at least 1 approved TNFi (66%, 19%, and 15% were inadequate responders to 1 TNFi, 2 TNFi and ≥3 TNFi, respectively).
+Patients were randomized in a 2:2:1:1 ratio to receive XELJANZ 5 mg twice daily, XELJANZ 10 mg twice daily, placebo to XELJANZ 5 mg twice daily treatment sequence, or placebo to XELJANZ 10 mg twice daily treatment sequence, respectively; study drug was added to background nonbiologic DMARD treatment.
+At the Month 3 visit, placebo patients were advanced in a blinded fashion to a predetermined XELJANZ dose of 5 mg or 10 mg twice daily as in Study PsA-I.
+
+Clinical Response
+
+At Month 3, patients treated with either XELJANZ 5 mg or 10 mg twice daily had higher (p≤0.05) response rates versus placebo for ACR20, ACR50, and ACR70 in Study PsA-I and for ACR20 and ACR50 in Study PsA-II; ACR70 response rates were also higher for both XELJANZ 5 mg or 10 mg twice daily versus placebo in Study PsA-II, although the differences versus placebo were not statistically significant (p>0.05) (Tables 9 and 10).
+
+Table 9: Proportion of Patients with an ACR Response in Study PsA-ISubjects received one concomitant nonbiologic DMARD.
+[Nonbiologic DMARD Inadequate Responders (TNFi-Naïve)]
+
+|  | Response Rate | Response Rate | Difference (%) 95% CI from Placebo | Response Rate | Difference (%) 95% CI from Placebo |
+| --- | --- | --- | --- | --- | --- |
+| Treatment Group | Placebo | XELJANZ 5 mg Twice Daily |  | XELJANZ 10 mgThe recommended dose of XELJANZ is 5 mg twice daily. Twice Daily |  |
+| NN is number of randomized and treated patients. | 105 | 107 |  | 104 |  |
+| Month 3 |  |  |  |  |  |
+| ACR20 | 33% | 50% | 17.1 (4.1, 30.2) | 61% | 27.2 (14.2, 40.3) |
+| ACR50 | 10% | 28% | 18.5 (8.3, 28.7) | 40% | 30.9 (19.9, 41.8) |
+| ACR70 | 5% | 17% | 12.1 (3.9, 20.2) | 14% | 9.7 (1.8, 17.6) |
+| Subjects with missing data were treated as non-responders. |  |  |  |  |  |
+
+Table 10: Proportion of Patients with an ACR Response in Study PsA-IISubjects received one concomitant nonbiologic DMARD.
+(TNFi Inadequate Responders)
+
+|  | Response Rate | Response Rate | Difference (%) 95% CI from Placebo | Response Rate | Difference (%) 95% CI from Placebo |
+| --- | --- | --- | --- | --- | --- |
+| Treatment Group | Placebo | XELJANZ 5 mg Twice Daily |  | XELJANZ 10 mgThe recommended dose of XELJANZ is 5 mg twice daily. Twice Daily |  |
+| NN is number of randomized and treated patients. | 131 | 131 |  | 132 |  |
+| Month 3 |  |  |  |  |  |
+| ACR20 | 24% | 50% | 26.0 (14.7, 37.2) | 47% | 23.3 (12.1, 34.5) |
+| ACR50 | 15% | 30% | 15.3 (5.4, 25.2) | 28% | 13.5 (3.8, 23.3) |
+| ACR70 | 10% | 17% | 6.9 (-1.3, 15.1) | 14% | 4.5 (-3.4, 12.4) |
+| Subjects with missing data were treated as non-responders. |  |  |  |  |  |
+
+Improvements from baseline in the ACR response criteria components for both studies are shown in Table11.
+
+Table 11: Components of ACR Response at Baseline and Month 3 in Studies PsA-I and PsA-II
+
+| N at Baseline | 105 | 107 | 104 | 131 | 131 | 132 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Nonbiologic DMARD Inadequate Responders (TNFi-Naïve) |  |  | TNFi Inadequate Responders |  |  |
+|  | Study PsA-ISubjects received one concomitant nonbiologic DMARD. |  |  | Study PsA-II |  |  |
+| Treatment Group | Placebo | XELJANZ 5 mg Twice Daily | XELJANZ 10 mgThe recommended dose of XELJANZ is 5 mg twice daily. Twice Daily | Placebo | XELJANZ 5 mg Twice Daily | XELJANZ 10 mg Twice Daily |
+| ACR ComponentData shown are mean value at baseline and at Month 3. |  |  |  |  |  |  |
+| Number of tender/painful joints (0–68) |  |  |  |  |  |  |
+| Baseline | 20.6 | 20.5 | 20.3 | 19.8 | 20.5 | 25.5 |
+| Month 3 | 14.6 | 12.2 | 9.9 | 15.1 | 11.5 | 14.5 |
+| Number of swollen joints (0–66) |  |  |  |  |  |  |
+| Baseline | 11.5 | 12.9 | 11.7 | 10.5 | 12.1 | 12.8 |
+| Month 3 | 7.1 | 6.3 | 4.3 | 7.7 | 4.8 | 6.1 |
+| Patient assessment of arthritis painVisual analog scale (VAS): 0 = best, 100 = worst. |  |  |  |  |  |  |
+| Baseline | 53.2 | 55.7 | 54.4 | 54.9 | 56.4 | 59.5 |
+| Month 3 | 44.7 | 34.7 | 28.5 | 48.0 | 36.1 | 38.1 |
+| Patient global assessment of arthritis |  |  |  |  |  |  |
+| Baseline | 53.9 | 54.7 | 53.6 | 55.8 | 57.4 | 58.5 |
+| Month 3 | 44.4 | 35.5 | 29.8 | 49.2 | 36.9 | 38.8 |
+| HAQ-DIHAQ-DI = Health Assessment Questionnaire – Disability Index: 0 = best, 3 = worst; 20 questions; categories: dressing and grooming, arising, eating, walking, hygiene, reach, grip, and activities. |  |  |  |  |  |  |
+| Baseline | 1.11 | 1.16 | 1.08 | 1.25 | 1.26 | 1.37 |
+| Month 3 | 0.95 | 0.81 | 0.71 | 1.09 | 0.88 | 1.03 |
+| Physician's Global Assessment of Arthritis |  |  |  |  |  |  |
+| Baseline | 53.8 | 54.6 | 55.2 | 53.7 | 53.5 | 55.8 |
+| Month 3 | 35.4 | 29.5 | 23.6 | 36.4 | 27.0 | 25.6 |
+| CRP (mg/L) |  |  |  |  |  |  |
+| Baseline | 10.4 | 10.5 | 8.1 | 12.1 | 13.8 | 15.0 |
+| Month 3 | 8.6 | 4.0 | 2.7 | 11.4 | 7.7 | 7.3 |
+
+The percentage of ACR20 responders by visit for Study PsA-I is shown in Figure 6.
+Similar responses were observed in Study PsA-II.
+In both studies, improvement in ACR20 response on XELJANZ was observed at the first visit after baseline (Week 2).
+
+Figure 6: Percentage of ACR20 Responders by Visit Through Month 3 in Study PsA-ISubjects received one concomitant nonbiologic DMARD.
+The recommended dose of XELJANZ is 5 mg twice daily.
+
+BID=twice daily; SE=standard error.
+Subjects with missing data were treated as non-responders.
+
+In patients with active psoriatic arthritis evidence of benefit in enthesitis and dactylitis was observed with XELJANZ treatment.
+
+Physical Function
+
+Improvement in physical functioning was measured by the HAQ-DI.
+Patients receiving XELJANZ 5 mg or 10 mg twice daily demonstrated significantly greater improvement (p≤0.05) from baseline in physical functioning compared to placebo at Month 3 (Table 12).
+
+Table 12: Change from Baseline in HAQ-DI in Studies PsA-I and PsA-II
+
+| NN is the total number of subjects in the statistical analysis. | 104 | 107 | 104 | 131 | 129 | 132 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Least Squares Mean Change from Baseline In HAQ-DI at Month 3 |  |  |  |  |  |
+| Nonbiologic DMARD Inadequate RespondersInadequate response to at least one nonbiologic DMARD due to lack of efficacy and/or intolerability. (TNFi-Naïve) |  |  | TNFi Inadequate RespondersInadequate response to at least one TNF inhibitor (TNFi) due to lack of efficacy and/or intolerability. |  |  |  |
+| Study PsA-ISubjects received one concomitant nonbiologic DMARD. |  |  | Study PsA-II |  |  |  |
+| Treatment Group | Placebo | XELJANZ 5 mg Twice Daily | XELJANZ 10 mgThe recommended dose of XELJANZ is 5 mg twice daily. Twice Daily | Placebo | XELJANZ 5 mg Twice Daily | XELJANZ 10 mg Twice Daily |
+| LSM Change from Baseline | -0.18 | -0.35 | -0.40 | -0.14 | -0.39 | -0.35 |
+| Difference from Placebo (95% CI) | - | -0.17 (-0.29, -0.05) | -0.22 (-0.34, -0.10) | - | -0.25 (-0.38, -0.13) | -0.22 (-0.34, -0.09) |
+
+In Study PsA-I, the HAQ-DI responder rate (response defined as having improvement from baseline of ≥0.35) at Month 3 was 53% in patients receiving XELJANZ 5 mg twice daily, 55% in patients receiving XELJANZ 10 mg twice daily, and 31% in patients receiving placebo.
+Similar responses were observed in Study PsA-II.
+
+Other Health-Related Outcomes
+
+General health status was assessed by the Short Form health survey (SF-36).
+In Studies PsA-I and PsA-II, patients receiving XELJANZ 5 mg twice daily or XELJANZ 10 mg twice daily had greater improvement from baseline compared to placebo in Physical Component Summary (PCS) score, but not in Mental Component Summary (MCS) score at Month 3.
+Patients receiving XELJANZ 5 mg twice daily reported consistently greater improvement relative to placebo in the domains of Physical Functioning, Bodily Pain, Vitality, and Social Functioning, but not in Role Physical, General Health, Role Emotional, or Mental Health.
+
+Radiographic Response
+
+Treatment effect on inhibition of radiographic progression in psoriatic arthritis could not be established from the results of Study PsA-I.

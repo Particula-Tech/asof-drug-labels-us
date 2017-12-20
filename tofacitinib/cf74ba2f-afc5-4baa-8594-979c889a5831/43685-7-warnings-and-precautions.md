@@ -2,12 +2,12 @@
 
 ## 5.1 Serious Infections
 
-Serious and sometimes fatal infections due to bacterial, mycobacterial, invasive fungal, viral, or other opportunistic pathogens have been reported in rheumatoid arthritis patients receiving XELJANZ.
+Serious and sometimes fatal infections due to bacterial, mycobacterial, invasive fungal, viral, or other opportunistic pathogens have been reported in patients receiving XELJANZ.
 The most common serious infections reported with XELJANZ included pneumonia, cellulitis, herpes zoster, urinary tract infection, diverticulitis, and appendicitis.
-Among opportunistic infections, tuberculosis and other mycobacterial infections, cryptococcosis, esophageal candidiasis, pneumocystosis, multidermatomal herpes zoster, cytomegalovirus infections, BK virus infection, and listeriosis were reported with XELJANZ.
+Among opportunistic infections, tuberculosis and other mycobacterial infections, cryptococcosis, histoplasmosis, esophageal candidiasis, pneumocystosis, multidermatomal herpes zoster, cytomegalovirus infections, BK virus infection, and listeriosis were reported with XELJANZ.
 Some patients have presented with disseminated rather than localized disease, and were often taking concomitant immunomodulating agents such as methotrexate or corticosteroids.
 
-Other serious infections that were not reported in clinical studies may also occur (e.g., histoplasmosis and coccidioidomycosis).
+Other serious infections that were not reported in clinical studies may also occur (e.g., coccidioidomycosis).
 
 Avoid use of XELJANZ/XELJANZ XR in patients with an active, serious infection, including localized infections.
 The risks and benefits of treatment should be considered prior to initiating XELJANZ/XELJANZ XR in patients:
@@ -54,6 +54,10 @@ Malignancies were observed in clinical studies of XELJANZ [see Adverse Reactions
 In the seven controlled rheumatoid arthritis clinical studies, 11 solid cancers and one lymphoma were diagnosed in 3328 patients receiving XELJANZ with or without DMARD, compared to 0 solid cancers and 0 lymphomas in 809 patients in the placebo with or without DMARD group during the first 12 months of exposure.
 Lymphomas and solid cancers have also been observed in the long-term extension studies in rheumatoid arthritis patients treated with XELJANZ.
 
+In the 2 controlled Phase 3 clinical trials in patients with active psoriatic arthritis, there were 3 malignancies (excluding NMSC) in 474 patients receiving XELJANZ plus nonbiologic DMARD (6 to 12 months exposure) compared with 0 malignancies in 236 patients in the placebo plus nonbiologic DMARD group (3 months exposure) and 0 malignancies in 106 patients in the adalimumab plus nonbiologic DMARD group (12 months exposure).
+No lymphomas were reported.
+Malignancies have also been observed in the long-term extension study in psoriatic arthritis patients treated with XELJANZ.
+
 In Phase 2B, controlled dose-ranging trials in de-novo renal transplant patients, all of whom received induction therapy with basiliximab, high-dose corticosteroids, and mycophenolic acid products, Epstein Barr Virus-associated post-transplant lymphoproliferative disorder was observed in 5 out of 218 patients treated with XELJANZ (2.3%) compared to 0 out of 111 patients treated with cyclosporine.
 
 Other malignancies were observed in clinical studies and the post-marketing setting, including, but not limited to, lung cancer, breast cancer, melanoma, prostate cancer, and pancreatic cancer.
@@ -65,7 +69,7 @@ Periodic skin examination is recommended for patients who are at increased risk 
 
 ## 5.3 Gastrointestinal Perforations
 
-Events of gastrointestinal perforation have been reported in clinical studies with XELJANZ in rheumatoid arthritis patients, although the role of JAK inhibition in these events is not known.
+Events of gastrointestinal perforation have been reported in clinical studies with XELJANZ, although the role of JAK inhibition in these events is not known.
 
 XELJANZ/XELJANZ XR should be used with caution in patients who may be at increased risk for gastrointestinal perforation (e.g., patients with a history of diverticulitis).
 Patients presenting with new onset abdominal symptoms should be evaluated promptly for early identification of gastrointestinal perforation [see Adverse Reactions (6.1)].
@@ -81,7 +85,7 @@ Avoid initiation of XELJANZ/XELJANZ XR treatment in patients with a low lymphocy
 In patients who develop a confirmed absolute lymphocyte count less than 500 cells/mm3, treatment with XELJANZ/XELJANZ XR is not recommended.
 
 Monitor lymphocyte counts at baseline and every 3 months thereafter.
-For recommended modifications based on lymphocyte counts see Dosage and Administration (2.2).
+For recommended modifications based on lymphocyte counts [see Dosage and Administration (2.3)].
 
 Neutropenia
 
@@ -92,7 +96,7 @@ For patients who develop a persistent ANC of 500–1000 cells/mm3, interrupt XEL
 In patients who develop an ANC less than 500 cells/mm3, treatment with XELJANZ/XELJANZ XR is not recommended.
 
 Monitor neutrophil counts at baseline and after 4–8 weeks of treatment and every 3 months thereafter.
-For recommended modifications based on ANC results see Dosage and Administration (2.2).
+For recommended modifications based on ANC results [see Dosage and Administration (2.3)].
 
 Anemia
 
@@ -100,7 +104,7 @@ Avoid initiation of XELJANZ/XELJANZ XR treatment in patients with a low hemoglob
 Treatment with XELJANZ/XELJANZ XR should be interrupted in patients who develop hemoglobin levels less than 8 g/dL or whose hemoglobin level drops greater than 2 g/dL on treatment.
 
 Monitor hemoglobin at baseline and after 4–8 weeks of treatment and every 3 months thereafter.
-For recommended modifications based on hemoglobin results see Dosage and Administration (2.2).
+For recommended modifications based on hemoglobin results [see Dosage and Administration (2.3)].
 
 Liver Enzyme Elevations
 
