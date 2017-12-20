@@ -19,14 +19,14 @@ Elimination of recurrence of ventricular fibrillation and tachycardia usually oc
 Since grapefruit juice is known to inhibit CYP3A4-mediated metabolism of oral amiodarone in the intestinal mucosa, resulting in increased plasma levels of amiodarone, grapefruit juice should not be taken during treatment with oral amiodarone (see PRECAUTIONS, Drug Interactions).
 
 Upon starting amiodarone therapy, an attempt should be made to gradually discontinue prior antiarrhythmic drugs (see section on Drug Interactions).
-When adequate arrhythmia control is achieved, or if side effects become prominent, amiodarone dose should be reduced to 600 to 800 mg/day for one month and then to the maintenance dose, usually 400 mg/day (see CLINICAL PHARMACOLOGY Monitoring Effectiveness).
+When adequate arrhythmia control is achieved, or if side effects become prominent, amiodarone dose should be reduced to 600 to 800 mg/day for one month and then to the maintenance dose, usually 400 mg/day (see CLINICAL PHARMACOLOGY-Monitoring Effectiveness).
 Some patients may require larger maintenance doses, up to 600 mg/day, and some can be controlled on lower doses.
 Amiodarone may be administered as a single daily dose, or in patients with severe gastrointestinal intolerance, as a b.i.d. dose.
 In each patient, the chronic maintenance dose should be determined according to antiarrhythmic effect as assessed by symptoms, Holter recordings, and/or programmed electrical stimulation and by patient tolerance.
 Plasma concentrations may be helpful in evaluating nonresponsiveness or unexpectedly severe toxicity (see CLINICAL PHARMACOLOGY).
 
 The lowest effective dose should be used to prevent the occurrence of side effects.
-In all instances, the physician must be guided by the severity of the individual patient’s arrhythmia and response to therapy.
+In all instances, the physician must be guided by the severity of the individual patient's arrhythmia and response to therapy.
 
 When dosage adjustments are necessary, the patient should be closely monitored for an extended period of time because of the long and variable half-life of amiodarone and the difficulty in predicting the time required to attain a new steady-state level of drug.
 Dosage suggestions are summarized below:

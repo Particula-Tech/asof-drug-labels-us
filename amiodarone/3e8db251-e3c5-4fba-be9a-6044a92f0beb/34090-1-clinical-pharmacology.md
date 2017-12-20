@@ -6,7 +6,7 @@ In animals, amiodarone is effective in the prevention or suppression of experime
 The antiarrhythmic effect of amiodarone may be due to at least two major properties:
 
 1. a prolongation of the myocardial cell-action potential duration and refractory period and
-2. noncompetitive α- and β-adrenergic inhibition.
+2. non-competitive antagonism of α- and β-adrenoceptors.
 
 Amiodarone prolongs the duration of the action potential of all cardiac fibers while causing minimal reduction of dV/dt (maximal upstroke velocity of the action potential).
 The refractory period is prolonged in all cardiac tissues.
@@ -33,16 +33,18 @@ Food increases the rate and extent of absorption of amiodarone.
 The effects of food upon the bioavailability of amiodarone have been studied in 30 healthy subjects who received a single 600 mg dose immediately after consuming a high-fat meal and following an overnight fast.
 The area under the plasma concentration-time curve (AUC) and the peak plasma concentration (Cmax) of amiodarone increased by 2.3 (range 1.7 to 3.6) and 3.8 (range 2.7 to 4.4) times, respectively, in the presence of food.
 Food also increased the rate of absorption of amiodarone, decreasing the time to peak plasma concentration (Tmax) by 37%.
-The mean AUC and mean Cmax of desethylamiodarone increased by 55% (range 58 to 101%) and 32% (range 4 to 84%), respectively, but there was no change in the Tmax in the presence of food.
+The mean AUC and mean Cmax of the major metabolite of amiodarone, desethylamiodarone (DEA) increased by 55% (range 58 to 101%) and 32% (range 4 to 84%), respectively, but there was no change in the Tmax in the presence of food.
 
 Amiodarone has a very large but variable volume of distribution, averaging about 60 L/kg, because of extensive accumulation in various sites, especially adipose tissue and highly perfused organs, such as the liver, lung, and spleen.
-One major metabolite of amiodarone, desethylamiodarone (DEA), has been identified in man; it accumulates to an even greater extent in almost all tissues.
+One major metabolite of amiodarone, DEA, has been identified in man; it accumulates to an even greater extent in almost all tissues.
 No data are available on the activity of DEA in humans, but in animals, it has significant electrophysiologic and antiarrhythmic effects generally similar to amiodarone itself.
-DEA’s precise role and contribution to the antiarrhythmic activity of oral amiodarone are not certain.
+DEA's precise role and contribution to the antiarrhythmic activity of oral amiodarone are not certain.
 The development of maximal ventricular Class III effects after oral amiodarone administration in humans correlates more closely with DEA accumulation over time than with amiodarone accumulation.
 
-Amiodarone is metabolized to desethylamiodarone by the cytochrome P450 (CYP450) enzyme group, specifically cytochrome P450 3A4 (CYP3A4) and CYP2C8.
-The CYP3A4 isoenzyme is present in both the liver and intestines.
+Amiodarone is metabolized to DEA by the cytochrome P450 (CYP) enzyme group, specifically CYP3A and CYP2C8.
+The CYP3A isoenzyme is present in both the liver and intestines.
+In vitro, amiodarone and DEA, exhibit a potential to inhibit CYP2C9, CYP2C19, CYP2D6, CYP3A, CYP2A6, CYP2B6 and CYP2C8.
+Amiodarone and DEA have also a potential to inhibit some transporters such as P- glycoprotein and organic cation transporter (OCT2).
 
 Amiodarone is eliminated primarily by hepatic metabolism and biliary excretion and there is negligible excretion of amiodarone or DEA in urine.
 Neither amiodarone nor DEA is dialyzable.

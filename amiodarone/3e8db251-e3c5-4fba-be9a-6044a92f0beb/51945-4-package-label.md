@@ -7,5 +7,3 @@ Amiodarone Hydrochloride Tablets, 200 mg
 Rx only
 
 60 Tablets
-
-ZYDUS
