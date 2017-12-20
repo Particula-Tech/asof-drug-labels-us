@@ -1,4 +1,4 @@
-# 16. HOW SUPPLIED/STORAGE AND HANDLING
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 Since sirolimus is not absorbed through the skin, there are no special precautions.
 However, if direct contact occurs with the skin or eyes, wash skin thoroughly with soap and water; rinse eyes with plain water.
@@ -6,7 +6,7 @@ However, if direct contact occurs with the skin or eyes, wash skin thoroughly wi
 Do not use Sirolimus Tablets after the expiration date that is located on the blister and carton.
 The expiration date refers to the last day of that month.
 
-## 16.1 Sirolimus Tablets
+## 16.2 Sirolimus Tablets
 
 Sirolimus Tablets, 0.5 mg are yellow, round, biconvex, coated tablets imprinted with "1" in black ink on one side and plain on other side and are supplied as follows:
 

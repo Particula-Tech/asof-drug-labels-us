@@ -1,25 +1,27 @@
 MEDICATION GUIDE
 
-Sirolimus Tablets
+Sirolimus
 
-Read this Medication Guide before you start taking sirolimus and each time you get a refill.
-There may be new information.
-This information does not take the place of talking with your doctor or other healthcare provider about your medical condition or your treatment.
+(sir-OH-li-mus)
+
+Tablets
 
 What is the most important information I should know about sirolimus?
 
 Sirolimus can cause serious side effects, including:
 
-1. increased risk of getting infections
-2. increased risk of getting certain cancers
-
-1. Increased risk of getting infections.
+1. Increased risk of getting infections
+2. Increased risk of getting certain cancers
+3. Increased risk of getting infections.
    Serious infections can happen including infections caused by viruses, bacteria, and fungi (yeast).
    Your doctor may put you on medicine to help prevent some of these infections.
-   Call your doctor right away if you have symptoms of infection including fever or chills while taking sirolimus.
-2. Increased risk of getting certain cancers.
-   People who take Sirolimus have a higher risk of getting lymphoma, and other cancers, especially skin cancer.
-   Talk with your doctor about your risk for cancer.
+
+Call your doctor right away if you have symptoms of infection including fever or chills while taking sirolimus.
+
+4.
+Increased risk of getting certain cancers.
+People who take Sirolimus have a higher risk of getting lymphoma, and other cancers, especially skin cancer.
+Talk with your doctor about your risk for cancer.
 
 Sirolimus has not been shown to be safe and effective in people who have had liver or lung transplants.
 Serious complications and death may happen in people who take sirolimus after a liver or lung transplant.
@@ -38,7 +40,7 @@ Your doctor will decide:
 - if sirolimus is right for you, and
 - how to best use it with cyclosporine and corticosteroids after your transplant.
 
-It is not known if sirolimus is safe and effective in children 13 years or younger.
+It is not known if sirolimus is safe and effective in children under 13 years of age.
 
 Who should not take sirolimus?
 
@@ -59,7 +61,7 @@ Before taking sirolimus, tell your doctor if you:
   You and your doctor should decide if you will take sirolimus or breastfeed.
   You should not do both.
 
-Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins and herbal supplements.
+Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins and herbal supplements.
 Using sirolimus with certain medicines may affect each other causing serious side effects.
 
 Sirolimus may affect the way other medicines work, and other medicines may affect how sirolimus works.
@@ -87,7 +89,7 @@ How should I take sirolimus?
 - Do not stop taking sirolimus or your other anti-rejection medicines unless your doctor tells you to.
 - Your doctor will check the levels of sirolimus in your blood.
   Your doctor may change your dose of sirolimus depending on your blood test results.
-- Sirolimus is taken by mouth once a day.
+- Sirolimus is taken by mouth 1 time each day.
 - Do not crush, chew, or split sirolimus tablets.
   Tell your doctor if you cannot swallow sirolimus tablets.
   Your doctor can prescribe sirolimus as a solution.
@@ -150,7 +152,7 @@ See "What is the most important information I should know about sirolimus?"
   When sirolimus is taken with cyclosporine or tacrolimus, you may develop a blood clotting problem.
   Tell your doctor if you get any unexplained bleeding or bruising.
 
-Common side effects with sirolimus include:
+The most common side effects of sirolimus in people with renal transplant include:
 
 - high blood pressure
 - pain (including stomach and joint pain)
@@ -161,6 +163,7 @@ Common side effects with sirolimus include:
 - low red blood cell count (anemia)
 - nausea
 - low platelet count (cells that help blood to clot)
+- high blood sugar (diabetes)
 
 Tell your doctor if you have any side effect that bothers you or that does not go away.
 
@@ -186,7 +189,7 @@ Safely throw away medicine that is out of date or no longer needed.
 
 Keep sirolimus and all medicines out of the reach of children.
 
-General Information about sirolimus
+General Information about the safe and effective use of sirolimus
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use sirolimus for a condition for which it was not prescribed.
@@ -201,7 +204,7 @@ What are the ingredients in sirolimus tablets?
 
 Active ingredients: sirolimus.
 
-The inactive ingredients: citric acid monohydrate, crospovidone, FD&C yellow #5 Aluminum Lake, glyceryl monooleate, hypromellose, iron oxide yellow, lactose monohydrate, microcrystalline cellulose, poloxamer, polyethylene glycol, povidone, sucrose, talc, titanium dioxide and vitamin E acetate.
+Inactive ingredients: citric acid monohydrate, crospovidone, FD&C yellow #5 Aluminium Lake, glyceryl monooleate, hypromellose, iron oxide yellow, lactose monohydrate, microcrystalline cellulose, poloxamer, polyethylene glycol, povidone, sucrose, talc, titanium dioxide and vitamin E acetate.
 
 ^Gengraf® is the registered trademark of AbottLabratries
 
@@ -212,3 +215,6 @@ $Neoral® Soft Gelatin Capsules, # Sandimmune® Oral Solution and *Parlodel® ar
 ~Cycloset® is the registered trademark of Veroscience, LLC.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
+This product's package insert may have been updated.
+For current package insert, please visit www.zydususa.com

@@ -1,4 +1,4 @@
-# 17. PATIENT COUNSELING INFORMATION
+# 17 PATIENT COUNSELING INFORMATION
 
 Advise patients, their families, and their caregivers to read the Medication Guide and assist them in understanding its contents.
 The complete text of the Medication Guide is reprinted at the end of the document.
@@ -17,10 +17,10 @@ Patients should be told that exposure to sunlight and ultraviolet (UV) light sho
 
 Women of childbearing potential should be informed of the potential risks during pregnancy and told that they should use effective contraception prior to initiation of sirolimus therapy, during sirolimus therapy, and for 12 weeks after sirolimus therapy has been stopped [see USE IN SPECIFIC POPULATIONS (8.1)].
 
-$ Neoral® Soft Gelatin Capsules is the registered trade mark of Novartis
+$Neoral® Soft Gelatin Capsules is the registered trade mark of Novartis
 
 #Sandimmune® Oral Solution is the registered trade mark of Novartis
 
-% Lo/Ovral® is the registered trade mark of Wyeth Pharm Inc.
+%Lo/Ovral® is the registered trade mark of Wyeth Pharm Inc.
 
 @ Bactrim® is the registered trade mark of Mutual Pharm.

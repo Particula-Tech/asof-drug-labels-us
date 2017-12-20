@@ -1,4 +1,4 @@
-# 11. DESCRIPTION
+# 11 DESCRIPTION
 
 Sirolimus is an immunosuppressive agent.
 Sirolimus is a macrocyclic lactone produced by Streptomyces hygroscopicus.

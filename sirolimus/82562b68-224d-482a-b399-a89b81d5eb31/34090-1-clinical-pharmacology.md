@@ -1,4 +1,4 @@
-# 12. CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
 ## 12.1 Mechanism of Action
 
@@ -20,17 +20,17 @@ In rodent models of autoimmune disease, sirolimus suppresses immune-mediated eve
 
 Orally-administered sirolimus, at doses of 2 mg/day and 5 mg/day, significantly reduced the incidence of organ rejection in low- to moderate-immunologic risk renal transplant patients at 6 months following transplantation compared with either azathioprine or placebo [see CLINICAL STUDIES (14.1)].
 There was no demonstrable efficacy advantage of a daily maintenance dose of 5 mg with a loading dose of 15 mg over a daily maintenance dose of 2 mg with a loading dose of 6 mg.
-Therapeutic drug monitoring should be used to maintain sirolimus drug levels within the target-range [see DOSAGE AND ADMINISTRATION (2.3)].
+Therapeutic drug monitoring should be used to maintain sirolimus drug levels within the target-range [see DOSAGE AND ADMINISTRATION (2.5)].
 
 ## 12.3 Pharmacokinetics
 
 Sirolimus pharmacokinetics activity have been determined following oral administration in healthy subjects, pediatric patients, hepatically impaired patients, and renal transplant patients.
 
-The pharmacokinetic parameters of sirolimus in low- to moderate-immunologic risk adult renal transplant patients following multiple dosing with sirolimus 2 mg daily, in combination with cyclosporine and corticosteroids, is summarized in the following table.
+The pharmacokinetic parameters of sirolimus in low- to moderate-immunologic risk adult renal transplant patients following multiple dosing with sirolimus 2 mg daily, in combination with cyclosporine and corticosteroids, is summarized in the Table 4.
 
-MEAN ± SD STEADY STATE SIROLIMUS PHARMACOKINETIC PARAMETERS IN LOW- TO MODERATE-IMMUNOLOGIC RISK ADULT RENAL TRANSPLANT PATIENTS FOLLOWING SIROLIMUS 2 MG DAILYa,b
+TABLE 4 MEAN ± SD STEADY STATE SIROLIMUS PHARMACOKINETIC PARAMETERS IN LOW- TO MODERATE-IMMUNOLOGIC RISK ADULT RENAL TRANSPLANT PATIENTS FOLLOWING SIROLIMUS 2 MG DAILYa,b
 
-| Multiple Dose (daily dose) |  |  |
+| Header$ Multiple Dose (daily dose) |  |  |
 | --- | --- | --- |
 |  | Solution | Tablets |
 | Cmax (ng/mL) | 14.4 ± 5.3 | 15 ± 4.9 |
@@ -44,7 +44,7 @@ MEAN ± SD STEADY STATE SIROLIMUS PHARMACOKINETIC PARAMETERS IN LOW- TO MODERATE
 
 Whole blood trough sirolimus concentrations, as measured by LC/MS/MS in renal transplant patients, were significantly correlated with AUCτ,ss.
 Upon repeated, twice-daily administration without an initial loading dose in a multiple-dose study, the average trough concentration of sirolimus increases approximately 2- to 3-fold over the initial 6 days of therapy, at which time steady-state is reached.
-A loading dose of 3 times the maintenance dose will provide near steady-state concentrations within 1 day in most patients [see DOSAGE AND ADMINISTRATION (2.3), WARNINGS AND PRECAUTIONS (5.15)].
+A loading dose of 3 times the maintenance dose will provide near steady-state concentrations within 1 day in most patients [see DOSAGE AND ADMINISTRATION (2.5), WARNINGS AND PRECAUTIONS (5.15)].
 
 Absorption
 
@@ -84,11 +84,11 @@ The mean ± SD terminal elimination half life (t½) of sirolimus after multiple 
 
 Sirolimus Concentrations (Chromatographic Equivalent) Observed in Phase 3 Clinical Studies
 
-The following sirolimus concentrations (chromatographic equivalent) were observed in phase 3 clinical studies [see CLINICAL STUDIES (14)].
+The following sirolimus concentrations (chromatographic equivalent) were observed in phase 3 clinical studies for prophylaxis of organ rejection in de novo renal transplant patients [see CLINICAL STUDIES (14)].
 
-SIROLIMUS WHOLE BLOOD TROUGH CONCENTRATIONS OBSERVED IN RENAL TRANSPLANT PATIENTS ENROLLED IN PHASE 3 STUDIES
+TABLE 5 SIROLIMUS WHOLE BLOOD TROUGH CONCENTRATIONS OBSERVED IN RENAL TRANSPLANT PATIENTS ENROLLED IN PHASE 3 STUDIES
 
-| Patient Population (Study number) | Treatment | Year 1 |  | Year 3 |  |
+| Header$Patient Population (Study number) | Treatment | Year 1 |  | Year 3 |  |
 | --- | --- | --- | --- | --- | --- |
 |  |  | Mean (ng/mL) | 10th to 90th percentiles (ng/mL) | Mean (ng/mL) | 10th to 90th percentiles (ng/mL) |
 | Low-to-moderate risk (Studies 1 & 2) | sirolimus (2 mg/day) + CsA | 7.2 | 3.6 to 11 | – | – |
@@ -114,7 +114,7 @@ As the severity of hepatic impairment increased, there were steady increases in 
 
 The maintenance dose of sirolimus should be reduced by approximately one third in patients with mild-to-moderate hepatic impairment and by approximately one half in patients with severe hepatic impairment [see DOSAGE AND ADMINISTRATION (2.5)].
 It is not necessary to modify the sirolimus loading dose in patients with mild, moderate, and severe hepatic impairment.
-Therapeutic drug monitoring is necessary in all patients with hepatic impairment [see DOSAGE AND ADMINISTRATION (2.3)].
+Therapeutic drug monitoring is necessary in all patients with hepatic impairment [see DOSAGE AND ADMINISTRATION (2.7)].
 
 Renal Impairment
 
@@ -122,17 +122,18 @@ The effect of renal impairment on the pharmacokinetics of sirolimus is not known
 However, there is minimal (2.2%) renal excretion of the drug or its metabolites in healthy volunteers.
 The loading and the maintenance doses of sirolimus need not be adjusted in patients with renal impairment [see DOSAGE AND ADMINISTRATION (2.6)].
 
-Pediatric
+Pediatric Renal Transplant Patients
 
 Sirolimus pharmacokinetic data were collected in concentration-controlled trials of pediatric renal transplant patients who were also receiving cyclosporine and corticosteroids.
 The target ranges for trough concentrations were either 10 to 20 ng/mL for the 21 children receiving tablets, or 5 to 15 ng/mL for the one child receiving oral solution.
 The children aged 6 to 11 years (n = 8) received mean ± SD doses of 1.75 ± 0.71 mg/day (0.064 ± 0.018 mg/kg, 1.65 ± 0.43 mg/m2).
 The children aged 12 to 18 years (n = 14) received mean ± SD doses of 2.79 ± 1.25 mg/day (0.053 ± 0.0150 mg/kg, 1.86 ± 0.61 mg/m2).
 At the time of sirolimus blood sampling for pharmacokinetic evaluation, the majority (80%) of these pediatric patients received the sirolimus dose at 16 hours after the once-daily cyclosporine dose.
+See Table 6 below.
 
-SIROLIMUS PHARMACOKINETIC PARAMETERS (MEAN ± SD) IN PEDIATRIC RENAL TRANSPLANT PATIENTS (MULTIPLE-DOSE CONCENTRATION CONTROL)a,b
+TABLE 6 SIROLIMUS PHARMACOKINETIC PARAMETERS (MEAN ± SD) IN PEDIATRIC RENAL TRANSPLANT PATIENTS (MULTIPLE-DOSE CONCENTRATION CONTROL)a,b
 
-| Age (y) | n | Body weight (kg) | Cmax,ss (ng/mL) | tmax,ss (h) | Cmin,ss (ng/ml) | AUCτ,ss (ng•h/mL) | CL/Fc (mL/h/kg) | CL/Fc (L/h/m2) |
+| Header$Age (y) | n | Body weight (kg) | Cmax,ss (ng/mL) | tmax,ss (h) | Cmin,ss (ng/ml) | AUCτ,ss (ng•h/mL) | CL/Fc (mL/h/kg) | CL/Fc (L/h/m2) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 6 to 11 | 8 | 27 ± 10 | 22.1 ± 8.9 | 5.88 ± 4.05 | 10.6 ± 4.3 | 356 ± 127 | 214 ± 129 | 5.4 ± 2.8 |
 | 12 to 18 | 14 | 52 ± 15 | 34.5 ± 12.2 | 2.7 ± 1.5 | 14.7 ± 8.6 | 466 ± 236 | 136 ± 57 | 4.7 ± 1.9 |
@@ -140,11 +141,11 @@ SIROLIMUS PHARMACOKINETIC PARAMETERS (MEAN ± SD) IN PEDIATRIC RENAL TRANSPLANT 
 | b: As measured by Liquid Chromatographic/Tandem Mass Spectrometric Method (LC/MS/MS). |  |  |  |  |  |  |  |  |
 | c: Oral-dose clearance adjusted by either body weight (kg) or body surface area (m2). |  |  |  |  |  |  |  |  |
 
-The table below summarizes pharmacokinetic data obtained in pediatric dialysis patients with chronically impaired renal function.
+Table 7 below summarizes pharmacokinetic data obtained in pediatric dialysis patients with chronically impaired renal function.
 
-SIROLIMUS PHARMACOKINETIC PARAMETERS (MEAN ± SD) IN PEDIATRIC PATIENTS WITH END-STAGE KIDNEY DISEASE MAINTAINED ON HEMODIALYSIS OR PERITONEAL DIALYSIS (1, 3, 9, 15 mg/m2 SINGLE DOSE)*
+TABLE 7 SIROLIMUS PHARMACOKINETIC PARAMETERS (MEAN ± SD) IN PEDIATRIC PATIENTS WITH END-STAGE KIDNEY DISEASE MAINTAINED ON HEMODIALYSIS OR PERITONEAL DIALYSIS (1, 3, 9, 15 mg/m2 SINGLE DOSE)*
 
-| Age Group (y) | n | tmax (h) | t1/2 (h) | CL/F/WT (mL/h/kg) |
+| Header$Age Group (y) | n | tmax (h) | t1/2 (h) | CL/F/WT (mL/h/kg) |
 | --- | --- | --- | --- | --- |
 | 5 to 11 | 9 | 1.1 ± 0.5 | 71 ± 40 | 580 ± 450 |
 | 12 to 18 | 11 | 0.79 ± 0.17 | 55 ± 18 | 450 ± 232 |
@@ -162,7 +163,7 @@ Dose adjustments based on gender are not recommended.
 
 Race
 
-In the phase 3 trials using sirolimus solution or tablets and cyclosporine oral solution [MODIFIED] (e.g., Neoral®$ Oral Solution) and/or cyclosporine capsules [MODIFIED] (e.g., Neoral®$ Soft Gelatin Capsules) [see CLINICAL STUDIES (14)], there were no significant differences in mean trough sirolimus concentrations over time between Black (n = 190) and non-Black (n = 852) patients during the first 6 months after transplantation.
+In the phase 3 trials for the prophylaxis of organ rejection following renal transplantation using sirolimus solution or tablets and cyclosporine oral solution [MODIFIED] (e.g., Neoral®$Oral Solution) and/or cyclosporine capsules [MODIFIED] (e.g., Neoral®$ Soft Gelatin Capsules) [see CLINICAL STUDIES (14)], there were no significant differences in mean trough sirolimus concentrations over time between Black (n = 190) and non-Black (n = 852) patients during the first 6 months after transplantation.
 
 Drug-Drug Interactions
 
@@ -174,7 +175,7 @@ Cyclosporine
 
 Cyclosporine is a substrate and inhibitor of CYP3A4 and P-gp.
 Sirolimus should be taken 4 hours after administration of cyclosporine oral solution (MODIFIED) and/or cyclosporine capsules (MODIFIED).
-Sirolimus concentrations may decrease when cyclosporine is discontinued, unless the sirolimus dose is increased [see DOSAGE AND ADMINISTRATION (2.1), DRUG INTERACTIONS (7.1)].
+Sirolimus concentrations may decrease when cyclosporine is discontinued, unless the sirolimus dose is increased [see DOSAGE AND ADMINISTRATION (2.2), DRUG INTERACTIONS (7.1)].
 
 In a single-dose drug-drug interaction study, 24 healthy volunteers were administered 10 mg sirolimus tablets either simultaneously or 4 hours after a 300 mg dose of Neoral®$ Soft Gelatin Capsules (cyclosporine capsules [MODIFIED]).
 For simultaneous administration, mean Cmax and AUC were increased by 512% and 148%, respectively, relative to administration of sirolimus alone.
@@ -185,7 +186,7 @@ For simultaneous administration, the mean Cmax and AUC of sirolimus, following s
 However, when given 4 hours after Neoral®$ Soft Gelatin Capsules (cyclosporine capsules [MODIFIED]) administration, sirolimus Cmax and AUC were increased by only 37% and 80%, respectively, compared with administration of sirolimus alone.
 
 In a single-dose cross-over drug-drug interaction study, 33 healthy volunteers received 5 mg sirolimus oral solution alone, 2 hours before, and 2 hours after a 300 mg dose of Neoral®$ Soft Gelatin Capsules (cyclosporine capsules [MODIFIED]).
-When given 2 hours before Neoral®$ Soft Gelatin Capsules (cyclosporine capsules [MODIFIED]) administration, sirolimus Cmax and AUC were comparable to those with administration of sirolimus alone.
+When given 2 hours before Neoral®$Soft Gelatin Capsules (cyclosporine capsules [MODIFIED]) administration, sirolimus Cmax and AUC were comparable to those with administration of sirolimus alone.
 However, when given 2 hours after, the mean Cmax and AUC of sirolimus were increased by 126% and 141%, respectively, relative to administration of sirolimus alone.
 
 Mean cyclosporine Cmax and AUC were not significantly affected when sirolimus oral solution was given simultaneously or when administered 4 hours after Neoral®$ Soft Gelatin Capsules (cyclosporine capsules [MODIFIED]).
@@ -259,28 +260,23 @@ In patients in whom strong inhibitors or inducers of CYP3A4 are indicated, alter
 Care should be exercised when drugs or other substances that are substrates and/or inhibitors or inducers of CYP3A4 are administered concomitantly with sirolimus.
 Other drugs that have the potential to increase sirolimus blood concentrations include (but are not limited to):
 
-Calcium channel blockers: nicardipine.
-
-Antifungal agents: clotrimazole, fluconazole.
-
-Antibiotics: troleandomycin.
-
-Gastrointestinal prokinetic agents: cisapride, metoclopramide
-
-Other drugs: bromocriptine, cimetidine, danazol, protease inhibitors (e.g., for HIV and hepatitis C that include drugs such as ritonavir, indinavir, boceprevir, and telaprevir).
+- Calcium channel blockers: nicardipine.
+- Antifungal agents: clotrimazole, fluconazole.
+- Antibiotics: troleandomycin.
+- Gastrointestinal prokinetic agents: cisapride, metoclopramide
+- Other drugs: bromocriptine, cimetidine, danazol, protease inhibitors (e.g., for HIV and hepatitis C that include drugs such as ritonavir, indinavir, boceprevir, and telaprevir).
 
 Other drugs that have the potential to decrease sirolimus concentrations include (but are not limited to):
 
-Anticonvulsants: carbamazepine, phenobarbital, phenytoin.
-
-Antibiotics: rifapentine.
+- Anticonvulsants: carbamazepine, phenobarbital, phenytoin.
+- Antibiotics: rifapentine.
 
 Other Drug-Food Interactions
 
 Grapefruit juice reduces CYP3A4-mediated drug metabolism.
-Grapefruit juice must not be taken with or used for dilution of sirolimus [see DOSAGE AND ADMINISTRATION (2.7), DRUG INTERACTIONS (7.3)].
+Grapefruit juice must not be taken with or used for dilution of sirolimus [see DRUG INTERACTIONS (7.3)].
 
 Drug-Herb Interactions
 
-St. John's Wort (hypericum perforatum) induces CYP3A4 and P-gp.
+St. John's Wort (Hypericum perforatum) induces CYP3A4 and P-gp.
 Since sirolimus is a substrate for both cytochrome CYP3A4 and P-gp, there is the potential that the use of St. John's Wort in patients receiving sirolimus could result in reduced sirolimus concentrations [see DRUG INTERACTIONS (7.4)].

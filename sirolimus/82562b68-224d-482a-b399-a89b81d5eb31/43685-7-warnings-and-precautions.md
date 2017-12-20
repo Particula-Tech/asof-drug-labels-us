@@ -1,18 +1,18 @@
-# 5. WARNINGS AND PRECAUTIONS
+# 5 WARNINGS AND PRECAUTIONS
 
 ## 5.1 Increased Susceptibility to Infection and the Possible Development of Lymphoma
 
 Increased susceptibility to infection and the possible development of lymphoma and other malignancies, particularly of the skin, may result from immunosuppression.
 The rates of lymphoma/lymphoproliferative disease observed in Studies 1 and 2 were 0.7 to 3.2% (for Sirolimus-treated patients) versus 0.6 to 0.8% (azathioprine and placebo control) [see ADVERSE REACTIONS (6.1) and (6.2)].
 Oversuppression of the immune system can also increase susceptibility to infection, including opportunistic infections such as tuberculosis, fatal infections, and sepsis.
-Only physicians experienced in immunosuppressive therapy and management of organ transplant patients should use sirolimus.
+Only physicians experienced in immunosuppressive therapy and management of organ transplant patients should use Sirolimus for prophylaxis of organ rejection in patients receiving renal transplants.
 Patients receiving the drug should be managed in facilities equipped and staffed with adequate laboratory and supportive medical resources.
 The physician responsible for maintenance therapy should have complete information requisite for the follow-up of the patient.
 
-## 5.2 Liver Transplantation - Excess Mortality, Graft Loss, and Hepatic Artery Thrombosis (HAT)
+## 5.2 Liver Transplantation - Excess Mortality, Graft Loss, and Hepatic Artery Thrombosis
 
 The safety and efficacy of sirolimus as immunosuppressive therapy have not been established in liver transplant patients; therefore, such use is not recommended.
-The use of sirolimus has been associated with adverse outcomes in patients following liver transplantation, including excess mortality, graft loss and Hepatic Artery Thrombosis (HAT).
+The use of sirolimus has been associated with adverse outcomes in patients following liver transplantation, including excess mortality, graft loss and hepatic artery thrombosis (HAT).
 
 In a study in de novo liver transplant patients, the use of sirolimus in combination with tacrolimus was associated with excess mortality and graft loss (22% in combination versus 9% on tacrolimus alone).
 Many of these patients had evidence of infection at or near the time of death.
@@ -29,19 +29,21 @@ The safety and efficacy of sirolimus as immunosuppressive therapy have not been 
 
 ## 5.4 Hypersensitivity Reactions
 
-Hypersensitivity reactions, including anaphylactic/anaphylactoid reactions, angioedema, exfoliative dermatitis and hypersensitivity vasculitis, have been associated with the administration of sirolimus [see ADVERSE REACTIONS (6.6)].
+Hypersensitivity reactions, including anaphylactic/anaphylactoid reactions, angioedema, exfoliative dermatitis and hypersensitivity vasculitis, have been associated with the administration of sirolimus [see ADVERSE REACTIONS (6.7)].
 
 ## 5.5 Angioedema
 
 Sirolimus has been associated with the development of angioedema.
-The concomitant use of sirolimus with other drugs known to cause angioedema, such as ACE-inhibitors, may increase the risk of developing angioedema.
+The concomitant use of sirolimus with other drugs known to cause angioedema, such as angiotensin-converting enzyme (ACE) inhibitors, may increase the risk of developing angioedema.
+Elevated sirolimus levels (with/without concomitant ACE inhibitors) may also potentiate angioedema [see DRUG INTERACTIONS (7.2)].
+In some cases, the angioedema has resolved upon discontinuation or dose reduction of sirolimus.
 
-## 5.6 Fluid Accumulation and Wound Healing
+## 5.6 Fluid Accumulation and Impairment of Wound Healing
 
 There have been reports of impaired or delayed wound healing in patients receiving sirolimus, including lymphocele and wound dehiscence [see ADVERSE REACTIONS (6.1)]. mTOR inhibitors such as sirolimus have been shown in vitro to inhibit production of certain growth factors that may affect angiogenesis, fibroblast proliferation, and vascular permeability.
 Lymphocele, a known surgical complication of renal transplantation, occurred significantly more often in a dose-related fashion in patients treated with sirolimus [see ADVERSE REACTIONS (6.1)].
 Appropriate measures should be considered to minimize such complications.
-Patients with a body mass index (BMI) greater than 30 kg/m2 may be at increased risk of abnormal wound healing based on data from the medical literature.
+Patients with a body mass index (BMI) greater than 30 kg/m2may be at increased risk of abnormal wound healing based on data from the medical literature.
 
 There have also been reports of fluid accumulation, including peripheral edema, lymphedema, pleural effusion, ascites, and pericardial effusions (including hemodynamically significant effusions and tamponade requiring intervention in children and adults), in patients receiving sirolimus.
 
@@ -56,12 +58,12 @@ If detected, interventions such as diet, exercise, and lipid-lowering agents sho
 
 In clinical trials of patients receiving sirolimus plus cyclosporine or sirolimus after cyclosporine withdrawal, up to 90% of patients required treatment for hyperlipidemia and hypercholesterolemia with anti-lipid therapy (e.g., statins, fibrates).
 Despite anti-lipid management, up to 50% of patients had fasting serum cholesterol levels > 240 mg/dL and triglycerides above recommended target levels.
-The concomitant administration of sirolimus and HMG-CoA reductase inhibitors resulted in adverse events such as CPK elevations (3%), myalgia (6.7%) and rhabdomyolysis (< 1%).
+The concomitant administration of sirolimus and HMG-CoA reductase inhibitors resulted in adverse reactions such as CPK elevations (3%), myalgia (6.7%) and rhabdomyolysis (< 1%).
 In these trials, the number of patients was too small and duration of follow-up too short to evaluate the long-term impact of sirolimus on cardiovascular mortality.
 
 During sirolimus therapy with or without cyclosporine, patients should be monitored for elevated lipids, and patients administered an HMG-CoA reductase inhibitor and/or fibrate should be monitored for the possible development of rhabdomyolysis and other adverse effects, as described in the respective labeling for these agents.
 
-## 5.8 Renal Function
+## 5.8 Decline in Renal Function
 
 Renal function should be closely monitored during the coadministration of sirolimus with cyclosporine, because long-term administration of the combination has been associated with deterioration of renal function.
 Patients treated with cyclosporine and sirolimus were noted to have higher serum creatinine levels and lower glomerular filtration rates compared with patients treated with cyclosporine and placebo or azathioprine controls (Studies 1 and 2).
@@ -78,7 +80,7 @@ In patients with delayed graft function, sirolimus may delay recovery of renal f
 Periodic quantitative monitoring of urinary protein excretion is recommended.
 In a study evaluating conversion from calcineurin inhibitors (CNI) to sirolimus in maintenance renal transplant patients 6 to 120 months post-transplant, increased urinary protein excretion was commonly observed from 6 through 24 months after conversion to sirolimus compared with CNI continuation [see CLINICAL STUDIES (14.4), ADVERSE REACTIONS (6.4)].
 Patients with the greatest amount of urinary protein excretion prior to sirolimus conversion were those whose protein excretion increased the most after conversion.
-New onset nephrosis (nephrotic syndrome) was also reported as a treatment-emergent adverse event in 2.2% of the sirolimus conversion group patients in comparison to 0.4% in the CNI continuation group of patients.
+New onset nephrosis (nephrotic syndrome) was also reported as a treatment-emergent adverse reaction in 2.2% of the sirolimus conversion group patients in comparison to 0.4% in the CNI continuation group of patients.
 Nephrotic range proteinuria (defined as urinary protein to creatinine ratio > 3.5) was also reported in 9.2% in the sirolimus conversion group of patients in comparison to 3.7% in the CNI continuation group of patients.
 In some patients, reduction in the degree of urinary protein excretion was observed for individual patients following discontinuation of sirolimus.
 The safety and efficacy of conversion from calcineurin inhibitors to sirolimus in maintenance renal transplant patients have not been established.
@@ -86,8 +88,8 @@ The safety and efficacy of conversion from calcineurin inhibitors to sirolimus i
 ## 5.10 Latent Viral Infections
 
 Immunosuppressed patients are at increased risk for opportunistic infections, including activation of latent viral infections.
-These include BK virus-associated nephropathy, which has been observed in patients receiving immunosuppressants, including sirolimus.
-This infection may be associated with serious outcomes, including deteriorating renal function and renal graft loss [see ADVERSE REACTIONS (6.6)].
+These include BK virus-associated nephropathy, which has been observed in renal transplant patients receiving immunosuppressants, including sirolimus.
+This infection may be associated with serious outcomes, including deteriorating renal function and renal graft loss [see ADVERSE REACTIONS (6.7)].
 Patient monitoring may help detect patients at risk for BK virus-associated nephropathy.
 Reduction in immunosuppression should be considered for patients who develop evidence of BK virus-associated nephropathy.
 
@@ -98,11 +100,12 @@ In immunosuppressed patients, physicians should consider PML in the differential
 Consideration should be given to reducing the amount of immunosuppression in patients who develop PML.
 In transplant patients, physicians should also consider the risk that reduced immunosuppression represents to the graft.
 
-## 5.11 Interstitial Lung Disease
+## 5.11 Interstitial Lung Disease/Non-Infectious Pneumonitis
 
-Cases of interstitial lung disease (including pneumonitis, bronchiolitis obliterans organizing pneumonia [BOOP], and pulmonary fibrosis), some fatal, with no identified infectious etiology have occurred in patients receiving immunosuppressive regimens including sirolimus.
-In some cases, the interstitial lung disease has resolved upon discontinuation or dose reduction of sirolimus.
-The risk may be increased as the trough sirolimus concentration increases [see ADVERSE REACTIONS (6.6)].
+Cases of interstitial lung disease [ILD] (including pneumonitis, bronchiolitis obliterans organizing pneumonia [BOOP], and pulmonary fibrosis), some fatal, with no identified infectious etiology have occurred in patients receiving immunosuppressive regimens including sirolimus.
+In some cases, the ILD was reported with pulmonary hypertension (including pulmonary arterial hypertension [PAH]) as a secondary event.
+In some cases, the ILD has resolved upon discontinuation or dose reduction of sirolimus.
+The risk may be increased as the trough sirolimus concentration increases [see ADVERSE REACTIONS (6.7)].
 
 ## 5.12 De Novo Use Without Cyclosporine
 
@@ -111,27 +114,28 @@ In a multicenter clinical study, de novo renal transplant patients treated with 
 A benefit, in terms of better renal function, was not apparent in the treatment arm with de novo use of sirolimus without cyclosporine.
 These findings were also observed in a similar treatment group of another clinical trial.
 
-## 5.13 Increased Risk of Calcineurin Inhibitor-Induced Hemolytic Uremic Syndrome/Thrombotic Thrombocytopenic Purpura/Thrombotic Microangiopathy (HUS/TTP/TMA)
+## 5.13 Increased Risk of Calcineurin Inhibitor-Induced Hemolytic Uremic Syndrome/Thrombotic Thrombocytopenic Purpura/Thrombotic Microangiopathy
 
-The concomitant use of sirolimus with a calcineurin inhibitor may increase the risk of calcineurin inhibitor-induced hemolytic uremic syndrome/thrombotic thrombocytopenic purpura/thrombotic microangiopathy (HUS/TTP/TMA) [see ADVERSE REACTIONS (6.6)].
+The concomitant use of sirolimus with a calcineurin inhibitor may increase the risk of calcineurin inhibitor-induced hemolytic uremic syndrome/thrombotic thrombocytopenic purpura/thrombotic microangiopathy (HUS/TTP/TMA) [see ADVERSE REACTIONS (6.7)].
 
 ## 5.14 Antimicrobial Prophylaxis
 
-Cases of Pneumocystis carinii pneumonia have been reported in patients not receiving antimicrobial prophylaxis.
+Cases of Pneumocystis carinii pneumonia have been reported in transplant patients not receiving antimicrobial prophylaxis.
 Therefore, antimicrobial prophylaxis for Pneumocystis carinii pneumonia should be administered for 1 year following transplantation.
 
 Cytomegalovirus (CMV) prophylaxis is recommended for 3 months after transplantation, particularly for patients at increased risk for CMV disease.
 
-## 5.15 Assay for Sirolimus Therapeutic Drug Monitoring
+## 5.15 Different Sirolimus Trough Concentration Reported between Chromatographic and Immunoassay Methodologies
 
 Currently in clinical practice, sirolimus whole blood concentrations are being measured by various chromatographic and immunoassay methodologies.
-Patient sample concentration values from different assays may not be interchangeable [see DOSAGE AND ADMINISTRATION (2.3)].
+Patient sample concentration values from different assays may not be interchangeable [see DOSAGE AND ADMINISTRATION (2.5)].
 
 ## 5.16 Skin Cancer Events
 
 Patients on immunosuppressive therapy are at increased risk for skin cancer.
 Exposure to sunlight and ultraviolet (UV) light should be limited by wearing protective clothing and using a sunscreen with a high protection factor.
+[see ADVERSE REACTIONS (6.1, 6.2, 6.7)]
 
 ## 5.17 Interaction with Strong Inhibitors and Inducers of CYP3A4 and/or P-gp
 
-Coadministration of sirolimus with strong inhibitors of CYP3A4 and/or P-gp (such as ketoconazole, voriconazole, itraconazole, erythromycin, telithromycin, or clarithromycin) or strong inducers of CYP3A4 and/or P-gp (such as rifampin or rifabutin) is not recommended [see DRUG INTERACTIONS (7)].
+Avoid concomitant use of sirolimus with strong inhibitors of CYP3A4 and/or P-gp (such as ketoconazole, voriconazole, itraconazole, erythromycin, telithromycin, or clarithromycin) or strong inducers of CYP3A4 and/or P-gp (such as rifampin or rifabutin) [see DRUG INTERACTIONS (7.2)].

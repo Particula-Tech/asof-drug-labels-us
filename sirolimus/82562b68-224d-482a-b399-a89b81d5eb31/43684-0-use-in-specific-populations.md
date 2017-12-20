@@ -1,4 +1,4 @@
-# 8. USE IN SPECIFIC POPULATIONS
+# 8 USE IN SPECIFIC POPULATIONS
 
 ## 8.1 Pregnancy
 
@@ -22,9 +22,11 @@ Because many drugs are excreted in human milk, and because of the potential for 
 
 ## 8.4 Pediatric Use
 
+Renal Transplant
+
 The safety and efficacy of sirolimus in pediatric patients < 13 years have not been established.
 
-The safety and efficacy of sirolimus oral solution and sirolimus tablets have been established in children ≥ 13 years judged to be at low- to moderate-immunologic risk.
+The safety and efficacy of sirolimus oral solution and sirolimus tablets have been established for prophylaxis of organ rejection in renal transplantation in children ≥ 13 years judged to be at low- to moderate-immunologic risk.
 Use of sirolimus oral solution and sirolimus tablets in this subpopulation of children ≥ 13 years is supported by evidence from adequate and well-controlled trials of sirolimus oral solution in adults with additional pharmacokinetic data in pediatric renal transplantation patients [see CLINICAL PHARMACOLOGY (12.3)].
 
 Safety and efficacy information from a controlled clinical trial in pediatric and adolescent (< 18 years of age) renal transplant patients judged to be at high-immunologic risk, defined as a history of one or more acute rejection episodes and/or the presence of chronic allograft nephropathy, do not support the chronic use of sirolimus oral solution or tablets in combination with calcineurin inhibitors and corticosteroids, due to the higher incidence of lipid abnormalities and deterioration of renal function associated with these immunosuppressive regimens compared to calcineurin inhibitors, without increased benefit with respect to acute rejection, graft survival, or patient survival [see CLINICAL STUDIES (14.6)].
@@ -38,8 +40,8 @@ In general, dose selection for an elderly patient should be cautious, usually st
 
 ## 8.6 Patients with Hepatic Impairment
 
-The maintenance dose of sirolimus should be reduced in patients with hepatic impairment [see DOSAGE AND ADMINISTRATION (2.5), CLINICAL PHARMACOLOGY (12.3)].
+The maintenance dose of sirolimus should be reduced in patients with hepatic impairment [see DOSAGE AND ADMINISTRATION (2.7), CLINICAL PHARMACOLOGY (12.3)].
 
 ## 8.7 Patients with Renal Impairment
 
-Dosage adjustment is not required in patients with renal impairment [see DOSAGE AND ADMINISTRATION (2.6), CLINICAL PHARMACOLOGY (12.3)].
+Dosage adjustment is not required in patients with renal impairment [see DOSAGE AND ADMINISTRATION (2.8), CLINICAL PHARMACOLOGY (12.3)].

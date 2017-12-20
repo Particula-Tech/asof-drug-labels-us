@@ -1,4 +1,4 @@
-# 7. DRUG INTERACTIONS
+# 7 DRUG INTERACTIONS
 
 Sirolimus is known to be a substrate for both cytochrome P-450 3A4 (CYP3A4) and p-glycoprotein (P-gp).
 Inducers of CYP3A4 and P-gp may decrease sirolimus concentrations whereas inhibitors of CYP3A4 and P-gp may increase sirolimus concentrations.
@@ -7,7 +7,7 @@ Inducers of CYP3A4 and P-gp may decrease sirolimus concentrations whereas inhibi
 
 Cyclosporine, a substrate and inhibitor of CYP3A4 and P-gp, was demonstrated to increase sirolimus concentrations when coadministered with sirolimus.
 In order to diminish the effect of this interaction with cyclosporine, it is recommended that sirolimus be taken 4 hours after administration of cyclosporine oral solution (MODIFIED) and/or cyclosporine capsules (MODIFIED).
-If cyclosporine is withdrawn from combination therapy with sirolimus, higher doses of sirolimus are needed to maintain the recommended sirolimus trough concentration ranges [see DOSAGE AND ADMINISTRATION (2.1), CLINICAL PHARMACOLOGY (12.3)].
+If cyclosporine is withdrawn from combination therapy with sirolimus, higher doses of sirolimus are needed to maintain the recommended sirolimus trough concentration ranges [see DOSAGE AND ADMINISTRATION (2.2), CLINICAL PHARMACOLOGY (12.3)].
 
 ## 7.2 Strong Inducers and Strong Inhibitors of CYP3A4 and P-gp
 
@@ -16,9 +16,9 @@ Alternative agents with lesser interaction potential with sirolimus should be co
 
 ## 7.3 Grapefruit Juice
 
-Because grapefruit juice inhibits the CYP3A4-mediated metabolism of sirolimus, it must not be taken with or be used for dilution of sirolimus [see DOSAGE AND ADMINISTRATION (2.7), DRUG INTERACTIONS (7.3), CLINICAL PHARMACOLOGY (12.3)].
+Because grapefruit juice inhibits the CYP3A4-mediated metabolism of sirolimus, it must not be taken with or be used for dilution of sirolimus [see DRUG INTERACTIONS (7.3), CLINICAL PHARMACOLOGY (12.3)].
 
-## 7.4 Inducers or Inhibitors of CYP3A4 and P-gp
+## 7.4 Weak and Moderate Inducers or Inhibitors of CYP3A4 and P-gp
 
 Exercise caution when using sirolimus with drugs or agents that are modulators of CYP3A4 and P-gp.
 The dosage of sirolimus and/or the coadministered drug may need to be adjusted [see CLINICAL PHARMACOLOGY (12.3)].

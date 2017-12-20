@@ -1,9 +1,11 @@
-# 2. DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-Sirolimus tablets are to be administered orally once daily, consistently with or without food [see DOSAGE AND ADMINISTRATION (2.4), CLINICAL PHARMACOLOGY (12.3)].
+Sirolimus tablets are to be administered orally once daily, consistently with or without food [see DOSAGE AND ADMINISTRATION (2.5), CLINICAL PHARMACOLOGY (12.3)].
 
 Tablets should not be crushed, chewed or split.
 Patients unable to take the tablets should be prescribed the solution and instructed in its use.
+
+## 2.1 General Dosing Guidance for Renal Transplant Patients
 
 The initial dose of sirolimus tablets should be administered as soon as possible after transplantation.
 It is recommended that sirolimus tablets be taken 4 hours after administration of cyclosporine oral solution (MODIFIED) and or/cyclosporine capsules (MODIFIED) [see DRUG INTERACTIONS (7.2)].
@@ -16,20 +18,20 @@ The maximum sirolimus tablets dose administered on any day should not exceed 40 
 If an estimated daily dose exceeds 40 mg due to the addition of a loading dose, the loading dose should be administered over 2 days.
 Sirolimus trough concentrations should be monitored at least 3 to 4 days after a loading dose(s).
 
-## 2.1 Patients at Low- to Moderate-Immunologic Risk
+## 2.2 Renal Transplant Patients at Low- to Moderate-Immunologic Risk
 
 Sirolimus and Cyclosporine Combination Therapy
 
 For de novo renal transplant patients, it is recommended that sirolimus tablets be used initially in a regimen with cyclosporine and corticosteroids.
 A loading dose of sirolimus equivalent to 3 times the maintenance dose should be given, i.e. a daily maintenance dose of 2 mg should be preceded with a loading dose of 6 mg.
-Therapeutic drug monitoring should be used to maintain sirolimus drug concentrations within the target-range [see DOSAGE AND ADMINISTRATION (2.3)].
+Therapeutic drug monitoring should be used to maintain sirolimus drug concentrations within the target-range [see DOSAGE AND ADMINISTRATION (2.5)].
 
 Sirolimus Following Cyclosporine Withdrawal
 
-At 2 to 4 months following transplantation, cyclosporine should be progressively discontinued over 4 to 8 weeks, and the sirolimus dose should be adjusted to obtain sirolimus whole blood trough concentrations within the target-range [see DOSAGE AND ADMINISTRATION (2.3)].
+At 2 to 4 months following transplantation, cyclosporine should be progressively discontinued over 4 to 8 weeks, and the sirolimus dose should be adjusted to obtain sirolimus whole blood trough concentrations within the target-range [see DOSAGE AND ADMINISTRATION (2.5)].
 Because cyclosporine inhibits the metabolism and transport of sirolimus, sirolimus concentrations may decrease when cyclosporine is discontinued, unless the sirolimus dose is increased [see CLINICAL PHARMACOLOGY (12.3)].
 
-## 2.2 Patients at High-Immunologic Risk
+## 2.3 Renal Transplant Patients at High-Immunologic Risk
 
 In patients with high-immunologic risk, it is recommended that sirolimus be used in combination with cyclosporine and corticosteroids for the first 12 months following transplantation [see CLINICAL STUDIES (14.3)].
 The safety and efficacy of this combination in high-immunologic risk patients has not been studied beyond the first 12 months.
@@ -37,14 +39,14 @@ Therefore, after the first 12 months following transplantation, any adjustments 
 
 For patients receiving sirolimus with cyclosporine, sirolimus therapy should be initiated with a loading dose of up to 15 mg on day 1 post-transplantation.
 Beginning on day 2, an initial maintenance dose of 5 mg/day should be given.
-A trough level should be obtained between days 5 and 7, and the daily dose of sirolimus should thereafter be adjusted [see DOSAGE AND ADMINISTRATION (2.3)].
+A trough level should be obtained between days 5 and 7, and the daily dose of sirolimus should thereafter be adjusted [see DOSAGE AND ADMINISTRATION (2.5)].
 
-The starting dose of cyclosporine should be up to 7 mg/kg/day in divided doses and the dose should subsequently be adjusted to achieve target whole blood trough concentrations [see DOSAGE AND ADMINISTRATION (2.3)].
+The starting dose of cyclosporine should be up to 7 mg/kg/day in divided doses and the dose should subsequently be adjusted to achieve target whole blood trough concentrations [see DOSAGE AND ADMINISTRATION (2.5)].
 Prednisone should be administered at a minimum of 5 mg/day.
 
 Antibody induction therapy may be used.
 
-## 2.3 Therapeutic Drug Monitoring
+## 2.5 Therapeutic Drug Monitoring
 
 Monitoring of sirolimus trough concentrations is recommended for all patients, especially in those patients likely to have altered drug metabolism, in patients ≥ 13 years who weigh less than 40 kg, in patients with hepatic impairment, when a change in the sirolimus dosage form is made, and during concurrent administration of strong CYP3A4 inducers and inhibitors [see DRUG INTERACTIONS (7)].
 
@@ -63,16 +65,16 @@ Since results are assay and laboratory dependent, and the results may change ove
 Therefore, communication should be maintained with the laboratory performing the assay.
 A discussion of different assay methods is contained in Clinical Therapeutics, Volume 22, Supplement B, April 2000 [see REFERENCES (15)].
 
-## 2.4 Patients with Low Body Weight
+## 2.6 Patients with Low Body Weight
 
 The initial dosage in patients ≥ 13 years who weigh less than 40 kg should be adjusted, based on body surface area, to 1 mg/m2/day.
 The loading dose should be 3 mg/m2.
 
-## 2.5 Patients with Hepatic Impairment
+## 2.7 Patients with Hepatic Impairment
 
 It is recommended that the maintenance dose of sirolimus be reduced by approximately one third in patients with mild or moderate hepatic impairment and by approximately one half in patients with severe hepatic impairment.
-It is not necessary to modify the sirolimus loading dose [see CLINICAL PHARMACOLOGY (12.3)].
+It is not necessary to modify the sirolimus loading dose [see USE IN SPECIFIC POPULATION (8.6), CLINICAL PHARMACOLOGY (12.3)].
 
-## 2.6 Patients with Renal Impairment
+## 2.8 Patients with Renal Impairment
 
 Dosage adjustment is not needed in patients with impaired renal function [see USE IN SPECIFIC POPULATIONS (8.7)].

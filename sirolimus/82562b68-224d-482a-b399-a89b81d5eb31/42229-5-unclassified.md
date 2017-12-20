@@ -4,7 +4,7 @@ Cadila Healthcare Ltd.
 
 Ahmedabad, India
 
-Rev.: 04/13
+Rev.: 06/2017
 
 Manufactured by:
 
@@ -12,4 +12,4 @@ Cadila Healthcare Ltd.
 
 Ahmedabad, India
 
-Rev.: 04/13
+Rev.: 06/17

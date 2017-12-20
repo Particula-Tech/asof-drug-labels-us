@@ -1,4 +1,4 @@
-# 10. OVERDOSAGE
+# 10 OVERDOSAGE
 
 Reports of overdose with sirolimus have been received; however, experience has been limited.
 In general, the adverse effects of overdose are consistent with those listed in the adverse reactions section [see ADVERSE REACTIONS (6)].
