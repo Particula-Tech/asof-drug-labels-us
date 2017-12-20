@@ -1,66 +1,108 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-Levetiracetam Tablet is indicated as adjunctive treatment of partial onset seizures in adults and children 4 years of age and older with epilepsy.
+## 2.1 Important Administration Instructions
 
-## Partial Onset Seizures
+Levetiracetam tablets are given orally with or without food.
+The levetiracetam dosing regimen depends on the indication, age group, dosage form (tablets or oral solution) and renal function.
 
-Adults 16 Years And Older
+Prescribe the oral solution for pediatric patients with body weight ≤ 20 kg.
+Prescribe the oral solution or tablets for pediatric patients with body weight above 20 kg.
 
-In clinical trials, daily doses of 1000 mg, 2000 mg, and 3000 mg, given as twice-daily dosing, were shown to be effective.
-Although in some studies there was a tendency toward greater response with higher dose (see CLINICAL STUDIES), a consistent increase in response with increased dose has not been shown.
+When using the oral solution in pediatric patients, dosing is weight-based (mg per kg) using a calibrated measuring device (not a household teaspoon or tablespoon).
 
-Treatment should be initiated with a daily dose of 1000 mg/day, given as twice-daily dosing (500 mg BID).
+Levetiracetam tablets should be swallowed whole.
+Levetiracetam tablets should not be chewed or crushed.
+
+## 2.2 Partial Onset Seizures
+
+Adults 16 Years and Older
+
+In clinical trials, daily doses of 1000 mg, 2000 mg, and 3000 mg, given as twice-daily dosing were shown to be effective.
+Although in some studies there was a tendency toward greater response with higher dose [see clinical studies (14.1)], a consistent increase in response with increased dose has not been shown.
+
+Treatment should be initiated with a daily dose of 1000 mg/day, given as twice-daily dosing (500 mg twice daily).
 Additional dosing increments may be given (1000 mg/day additional every 2 weeks) to a maximum recommended daily dose of 3000 mg.
 Doses greater than 3000 mg/day have been used in open-label studies for periods of 6 months and longer.
 There is no evidence that doses greater than 3000 mg/day confer additional benefit.
 
-Pediatric Patients Ages 4 To <16 Years
+Pediatric Patients
 
-Treatment should be initiated with a daily dose of 20 mg/kg in 2 divided doses (10 mg/kg BID).
-The daily dose should be increased every 2 weeks by increments of 20 mg/kg to the recommended daily dose of 60 mg/kg (30 mg/kg BID).
+Dosing information in pediatric patients less than 4 years of age as adjunctive therapy in the treatment of partial onset seizures is approved for UCB, Inc.’s levetiracetam tablets and oral solution.
+However, due to UCB Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+
+4 Years to < 16 Years Treatment should be initiated with a daily dose of 20 mg/kg in 2 divided doses (10 mg/kg twice daily).
+The daily dose should be increased every 2 weeks by increments of 20 mg/kg to the recommended daily dose of 60 mg/kg (30 mg/kg twice daily).
 If a patient cannot tolerate a daily dose of 60 mg/kg, the daily dose may be reduced.
-In the clinical trial, the mean daily dose was 52 mg/kg.
-Patients with body weight ≤20 kg should be dosed with oral solution.
-Patients with body weight above 20 kg can be dosed with either tablets or oral solution.
-Table 10 below provides a guideline for tablet dosing based on weight during titration to 60 mg/kg/day.
-Only whole tablets should be administered.
+In the clinical efficacy trial, the mean daily dose was 44 mg/kg.
+The maximum daily dose was 3000 mg/day.
 
-Levetiracetam is given orally with or without food.
+For levetiracetam tablets dosing in pediatric patients weighing 20 to 40 kg, treatment should be initiated with a daily dose of 500 mg given as twice daily dosing (250 mg twice daily).
+The daily dose should be increased every 2 weeks by increments of 500 mg to a maximum recommended daily dose of 1500 mg (750 mg twice daily).
 
-Table 10: Levetiracetam Tablet Weight-Based Dosing Guide For Children
+For levetiracetam tablets dosing in pediatric patients weighing more than 40 kg, treatment should be initiated with a daily dose of 1000 mg/day given as twice daily dosing (500 mg twice daily).
+The daily dose should be increased every 2 weeks by increments of 1000 mg/day to a maximum recommended daily dose of 3000 mg (1500 mg twice daily).
 
-| 20 mg/kg/day (BID dosing) | 40 mg/kg/day (BID dosing) | 60 mg/kg/day (BID dosing) |  |
-| --- | --- | --- | --- |
-| Patient Weight | Daily Dose |  |  |
-| 20.1 to 40 kg | 500 mg/day (1 x250 mg tablet BID) | 1000 mg/day (1 x500 mg tablet BID) | 1500 mg/day (1 x750 mg tablet BID) |
-| >40 kg | 1000 mg/day (1 x500 mg tablet BID) | 2000 mg/day (2 x500 mg tablets BID) | 3000 mg/day (2 x750 mg tablets BID) |
+Levetiracetam Oral Solution Weight-Based Dosing Calculation For Pediatric Patients
 
-The following calculation should be used to determine the appropriate daily dose of oral solution for pediatric patients based on a daily dose of 20 mg/kg/day, 40 mg/kg/day or 60 mg/kg/day:
+The following calculation should be used to determine the appropriate daily dose of oral solution for pediatric patients:
 
-Total daily dose (mL/day) = Daily dose (mg/kg/day) x patient weight (kg)
+Daily dose (mg/kg/day) × patient weight (kg)
+
+Total daily dose (mL/day) = ---------------------------------------------------------
 
 100 mg/mL
 
-A household teaspoon or tablespoon is not an adequate measuring device.
-It is recommended that a calibrated measuring device be obtained and used.
-Healthcare providers should recommend a device that can measure and deliver the prescribed dose accurately, and provide instructions for measuring the dosage.
+## 2.3 Myoclonic Seizures in Patients 12 Years of Age and Older with Juvenile Myoclonic Epilepsy
 
-## Adult Patients With Impaired Renal Function
+Treatment should be initiated with a dose of 1000 mg/day, given as twice-daily dosing (500 mg twice daily).
+Dosage should be increased by 1000 mg/day every 2 weeks to the recommended daily dose of 3000 mg.
+The effectiveness of doses lower than 3000 mg/day has not been studied.
 
-Levetiracetam dosing must be individualized according to the patient's renal function status.
-Recommended doses and adjustment for dose for adults are shown in Table 11.
-To use this dosing table, an estimate of the patient's creatinine clearance (CLcr) in mL/min is needed.
-CLcr in mL/min may be estimated from serum creatinine (mg/dL) determination using the following formula:
+## 2.4 Primary Generalized Tonic-Clonic Seizures
 
-[140-age (years)] x weight (kg) CLcr = ———————————————— (x 0.85 for female patients) 72 x serum creatinine (mg/dL)
+Adults 16 Years and Older
 
-Table 11: Dosing Adjustment Regimen For Adult Patients With Impaired Renal Function
+Treatment should be initiated with a dose of 1000 mg/day, given as twice-daily dosing (500 mg twice daily).
+Dosage should be increased by 1000 mg/day every 2 weeks to the recommended daily dose of 3000 mg.
+The effectiveness of doses lower than 3000 mg/day has not been adequately studied.
 
-| Group | Creatinine Clearance (mL/min) | Dosage (mg) | Frequency |
+Pediatric Patients Ages 6 to <16 Years
+
+Treatment should be initiated with a daily dose of 20 mg/kg in 2 divided doses (10 mg/kg twice daily).
+The daily dose should be increased every 2 weeks by increments of 20 mg/kg to the recommended daily dose of 60 mg/kg (30 mg/kg twice daily).
+The effectiveness of doses lower than 60 mg/kg/day has not been adequately studied.
+Patients with body weight ≤20 kg should be dosed with oral solution.
+Patients with body weight above 20 kg can be dosed with either tablets or oral solution [see Dosage and Administration (2.1)].
+Only whole tablets should be administered.
+
+## 2.5 Adult Patients with Impaired Renal Function
+
+Levetiracetam tablets dosing must be individualized according to the patient’s renal function status.
+Recommended doses and adjustment for dose for adults are shown in Table 1.
+In order to calculate the dose recommended for patients with renal impairment, creatinine clearance adjusted for body surface area must be calculated.
+To do this an estimate of the patient’s creatinine clearance (CLcr) in mL/min must first be calculated using the following formula:
+
+[140 - age (years)] x weight (kg)
+
+CLcr= -------------------------------------------- × (0.85 for female patients)
+
+72 x serum creatinine (mg/dL)
+
+Then CLcr is adjusted for body surface area (BSA) as follows:
+
+CLcr (mL/min)
+
+CLcr (mL/min/1.73m2) = ---------------------------- x 1.73
+
+BSA subject (m2)
+
+Table 1: Dosing Adjustment Regimen For Adult Patients With Impaired Renal Function
+
+| Group | Creatinine Clearance (mL/min/1.73m2) | Dosage | Frequency |
 | --- | --- | --- | --- |
-| Normal | > 80 | 500 to 1,500 | Every 12 h |
-| Mild | 50 to 80 | 500 to 1,000 | Every 12 h |
-| Moderate | 30 to 50 | 250 to 750 | Every 12 h |
-| Severe | < 30 | 250 to 500 | Every 12 h |
-| ESRD patients using dialysis | ---- | 500 to 1,000 | 1Every 24 h |
+| Normal | > 80 | 500 to 1,500 | Every 12 hours |
+| Mild | 50 – 80 | 500 to 1,000 | Every 12 hours |
+| Moderate | 30 – 50 | 250 to 750 | Every 12 hours |
+| Severe | <30 | 250 to 500 | Every 12 hours |
+| ESRD patients using dialysis | ---- | 500 to 1,0001 | Every 24 hours1 |
 | 1Following dialysis, a 250 to 500 mg supplemental dose is recommended. |  |  |  |
