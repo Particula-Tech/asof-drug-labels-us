@@ -18,7 +18,7 @@ A long-term feeding study of ketoconazole in Swiss Albino mice and in Wistar rat
 The dominant lethal mutation test in male and female mice revealed that single oral doses of ketoconazole as high as 80 mg/kg were not genotoxic.
 The Ames Salmonella microsomal activator assay was also negative.
 
-Pregnancy: Teratogenic effects: Pregnancy Category C:
+Pregnancy: Teratogenic effects:
 
 There are no adequate and well-controlled studies in pregnant women.
 Ketoconazole should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
