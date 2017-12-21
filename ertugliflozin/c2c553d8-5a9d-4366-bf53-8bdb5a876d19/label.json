@@ -1,0 +1,28 @@
+{
+  "application_numbers": [
+    "NDA209805"
+  ],
+  "inn": "ertugliflozin",
+  "labeler": "Merck Sharp & Dohme Corp.",
+  "package_ndcs": [
+    "0006-5367-03",
+    "0006-5367-06",
+    "0006-5367-07",
+    "0006-5367-08",
+    "0006-5367-09",
+    "0006-5368-03",
+    "0006-5368-06",
+    "0006-5368-07",
+    "0006-5368-08",
+    "0006-5368-09"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "ertugliflozin and sitagliptin",
+      "name": "STEGLUJAN"
+    }
+  ],
+  "setid": "c2c553d8-5a9d-4366-bf53-8bdb5a876d19",
+  "source": "dailymed"
+}
