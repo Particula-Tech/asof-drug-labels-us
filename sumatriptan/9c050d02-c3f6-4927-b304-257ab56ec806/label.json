@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA020132"
+  ],
+  "inn": "sumatriptan",
+  "labeler": "GlaxoSmithKline Inc",
+  "package_ndcs": [
+    "53873-028-00",
+    "53873-029-00",
+    "53873-030-00"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "sumatriptan succinate",
+      "name": "IMITREX"
+    }
+  ],
+  "setid": "9c050d02-c3f6-4927-b304-257ab56ec806",
+  "source": "dailymed"
+}
