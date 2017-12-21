@@ -1,23 +1,47 @@
-# Information for Patients
+# 17 PATIENT COUNSELING INFORMATION
 
-(see WARNINGS and PRECAUTIONS)
+Potential for Pigmentation
 
-Patients should be advised about the potential for increased brown pigmentation of the iris, which may be permanent.
-Patients should also be informed about the possibility of eyelid skin darkening, which may be reversible after discontinuation of Latanoprost Ophthalmic Solution.
+Advise patients about the potential for increased brown pigmentation of the iris, which may be permanent.
+Inform patients about the possibility of eyelid skin darkening, which may be reversible after discontinuation of Latanoprost ophthalmic solution [see Warnings and Precautions (5.1)].
 
-Patients should also be informed of the possibility of eyelash and vellus hair changes in the treated eye during treatment with Latanoprost Ophthalmic Solution.
+Potential for Eyelash Changes
+
+Inform patients of the possibility of eyelash and vellus hair changes in the treated eye during treatment with Latanoprost ophthalmic solution.
 These changes may result in a disparity between eyes in length, thickness, pigmentation, number of eyelashes or vellus hairs, and/or direction of eyelash growth.
 Eyelash changes are usually reversible upon discontinuation of treatment.
 
-Patients should be instructed to avoid allowing the tip of the dispensing container to contact the eye or surrounding structures because this could cause the tip to become contaminated by common bacteria known to cause ocular infections.
-Serious damage to the eye and subsequent loss of vision may result from using contaminated solutions.
+Handling the Container
 
-Patients also should be advised that if they develop an intercurrent ocular condition (e.g., trauma, or infection) or have ocular surgery, they should immediately seek their physician's advice concerning the continued use of the multiple-dose container.
+Instruct patients to avoid allowing the tip of the dispensing container to contact the eye or surrounding structures because this could cause the tip to become contaminated by common bacteria known to cause ocular infections.
+Serious damage to the eye and subsequent loss of vision may result from using contaminated solutions [see Warnings and Precautions (5.6)].
 
-Patients should be advised that if they develop any ocular reactions, particularly conjunctivitis and lid reactions, they should immediately seek their physician's advice.
+When to Seek Physician Advice
 
-Patients should also be advised that Latanoprost Ophthalmic Solution contains benzalkonium chloride, which may be absorbed by contact lenses.
+Advise patients that if they develop an intercurrent ocular condition (e.g., trauma or infection) or have ocular surgery, or develop any ocular reactions, particularly conjunctivitis and eyelid reactions, they should immediately seek their physician's advice concerning the continued use of the multiple-dose container.
+
+Use with Contact Lenses
+
+Advise patients that Latanoprost ophthalmic solution contains benzalkonium chloride, which may be absorbed by contact lenses.
 Contact lenses should be removed prior to administration of the solution.
-Lenses may be reinserted 15 minutes following administration of Latanoprost Ophthalmic Solution.
+Lenses may be reinserted 15 minutes following administration of Latanoprost ophthalmic solution.
+
+Use with Other Ophthalmic Drugs
 
 If more than one topical ophthalmic drug is being used, the drugs should be administered at least five (5) minutes apart.
+
+Manufactured by
+
+Alcon Laboratories, Inc.
+
+Fort Worth, Texas 76134 for
+
+Sandoz Inc.
+
+Princeton, NJ 08540
+
+Revised: November 2017
+
+9015404
+
+9015669

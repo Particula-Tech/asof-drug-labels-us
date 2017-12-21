@@ -1,26 +1,75 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-Adverse events referred to in other sections of this insert
+The following adverse reactions were reported in postmarketing experience and are discussed in greater detail in other sections of the label:
 
-Eyelash changes (increased length, thickness, pigmentation, and number of lashes); eyelid skin darkening; intraocular inflammation (iritis/uveitis); iris pigmentation changes; and macular edema, including cystoid macular edema (see WARNINGS and PRECAUTIONS).
+- •Iris pigmentation changes [see Warnings and Precautions (5.1)]
+- •Eyelid skin darkening [see Warnings and Precautions (5.1)]
+- •Eyelash changes (increased length, thickness, pigmentation, and number of lashes) [see Warnings and Precautions (5.2)]
+- •Intraocular inflammation (iritis/uveitis) [see Warnings and Precautions (5.3)]
+- •Macular edema, including cystoid macular edema [see Warnings and Precautions (5.4)]
 
-## Controlled Clinical Trials
+## 6.1 Clinical Trials Experience
 
-The ocular adverse events and ocular signs and symptoms reported in 5 to 15% of the patients on Latanoprost Ophthalmic Solution in the three 6-month, multi-center, double-masked, active-controlled trials were blurred vision, burning and stinging, conjunctival hyperemia, foreign body sensation, itching, increased pigmentation of the iris, and punctate epithelial keratopathy.
+Because clinical trials are conducted under widely varying conditions, the adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-Local conjunctival hyperemia was observed; however, less than 1% of the patients treated with Latanoprost Ophthalmic Solution required discontinuation of therapy because of intolerance to conjunctival hyperemia.
+Latanoprost ophthalmic solution was studied in three multicenter, randomized, controlled clinical trials.
+Patients received 50 mcg/mL Latanoprost ophthalmic solution once daily or 5 mg/mL active-comparator (timolol) twice daily.
+The patient population studied had a mean age of 65±10 years.
+Seven percent of patients withdrew before the 6-month endpoint.
 
-In addition to the above listed ocular events/signs and symptoms, the following were reported in 1 to 4% of the patients: dry eye, excessive tearing, eye pain, lid crusting, lid discomfort/pain, lid edema, lid erythema, and photophobia.
+Table 1: Ocular Adverse Reactions and Ocular Signs/Symptoms Reported by 5–15% of Patients Receiving Latanoprost
 
-The following events were reported in less than 1% of the patients: conjunctivitis, diplopia and discharge from the eye.
+| Symptom/Finding | Adverse Reactions (incidence (%)) |  |
+| --- | --- | --- |
+|  | Latanoprost(n=460) | Timolol(n=369) |
+| Foreign body sensation | 13 | 8 |
+| Punctate keratitis | 10 | 9 |
+| Stinging | 9 | 12 |
+| Conjunctival hyperemia | 8 | 3 |
+| Blurred vision | 8 | 8 |
+| Itching | 8 | 8 |
+| Burning | 7 | 8 |
+| Increased pigmentation of the Iris | 7 | 0 |
 
-During clinical studies, there were extremely rare reports of the following: retinal artery embolus, retinal detachment, and vitreous hemorrhage from diabetic retinopathy.
+1. Less than 1% of the patients treated with Latanoprost ophthalmic solution required discontinuation of therapy because of intolerance to conjunctival hyperemia.
 
-The most common systemic adverse events seen with Latanoprost Ophthalmic Solution were upper respiratory tract infection/cold/flu, which occurred at a rate of approximately 4%.
-Chest pain/angina pectoris, muscle/joint/back pain, and rash/allergic skin reaction each occurred at a rate of 1 to 2%.
+Table 2: Adverse Reactions That Were Reported in 1–5% of Patients Receiving Latanoprost
 
-## Clinical Practice
+|  | Adverse Reactions (incidence (%)) |  |
+| --- | --- | --- |
+|  | Latanoprost(n=460) | Timolol(n=369) |
+| Ocular Events/Signs and Symptoms |  |  |
+| Excessive tearing | 4 | 6 |
+| Eyelid discomfort/pain | 4 | 2 |
+| Dry eye | 3 | 3 |
+| Eye pain | 3 | 3 |
+| Eyelid margin crusting | 3 | 3 |
+| Erythema of the eyelid | 3 | 2 |
+| Photophobia | 2 | 1 |
+| Eyelid edema | 1 | 3 |
+| Systemic Events |  |  |
+| Upper respiratory tract infection/nasopharyngitis/influenza | 3 | 3 |
+| Myalgia/arthralgia/back pain | 1 | 0.5 |
+| Rash/allergic skin reaction | 1 | 0.3 |
 
-The following events have been identified during postmarketing use of Latanoprost Ophthalmic Solution in clinical practice.
-Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made.
-The events, which have been chosen for inclusion due to either their seriousness, frequency of reporting, possible causal connection to Latanoprost Ophthalmic Solution, or a combination of these factors, include: asthma and exacerbation of asthma; corneal edema and erosions; dyspnea; eyelash and vellus hair changes (increased length, thickness, pigmentation, and number); eyelid skin darkening; herpes keratitis; intraocular inflammation (iritis/uveitis); keratitis; macular edema, including cystoid macular edema; misdirected eyelashes sometimes resulting in eye irritation; dizziness, headache, and toxic epidermal necrolysis.
+The ocular event/signs and symptoms of blepharitis have been identified as "commonly observed" through analysis of clinical trial data.
+
+## 6.2 Postmarketing Experience
+
+The following reactions have been identified during postmarketing use of Latanoprost ophthalmic solution in clinical practice.
+Because they are reported voluntarily from a population of unknown size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+The reactions, which have been chosen for inclusion due to either their seriousness, frequency of reporting, possible causal connection to Latanoprost ophthalmic solution, or a combination of these factors, include:
+
+Nervous System disorders: Dizziness; headache; toxic epidermal necrolysis
+
+Eye Disorders: Eyelash and vellus hair changes of the eyelid (increased length, thickness, pigmentation, and number of eyelashes); keratitis; corneal edema and erosions; intraocular inflammation (iritis/uveitis); macular edema, including cystoid macular edema; trichiasis; periorbital and lid changes resulting in deepening of the eyelid sulcus; iris cyst; eyelid skin darkening; localised skin reaction on the eyelids; conjunctivitis; pseudopemphigoid of the ocular conjunctiva
+
+Respiratory, Thoracic and Mediastinal Disorders: Asthma and exacerbation of asthma; dyspnea
+
+Skin and Subcutaneous Tissue Disorders: Pruritus
+
+Infections and Infestations: Herpes keratitis
+
+Cardiac Disorders: Angina; palpitations; angina unstable
+
+General Disorders and Administration Site Conditions: Chest pain
