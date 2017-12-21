@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA205551"
+  ],
+  "inn": "abacavir",
+  "labeler": "Glaxo Operations UK Ltd",
+  "package_ndcs": [
+    "63379-053-00"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "dolutegravir sodium, abacavir sulfate, lamivudine",
+      "name": "Triumeq"
+    }
+  ],
+  "setid": "b38da720-b1b2-4b7e-93de-5063c67325fb",
+  "source": "dailymed"
+}
