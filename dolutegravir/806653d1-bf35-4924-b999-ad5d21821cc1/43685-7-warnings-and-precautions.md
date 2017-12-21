@@ -36,7 +36,7 @@ The concomitant use of JULUCA and other drugs may result in known or potentially
 - •Loss of therapeutic effect of JULUCA and possible development of resistance.
 - •Possible clinically significant adverse reactions from greater exposures of concomitant drugs.
 
-In healthy subjects, 75 mg once daily rilpivirine (3 times the dose in JULUCA) and 300 mg once daily (12 times the dose in JULUCA) have been shown to prolong the QTc interval of the electrocardiogram [see Drug Interactions (7.3), Clinical Pharmacology (12.2)].
+In healthy subjects, 75 mg once daily of rilpivirine (3 times the dose in JULUCA) and 300 mg once daily (12 times the dose in JULUCA) have been shown to prolong the QTc interval of the electrocardiogram [see Drug Interactions (7.3), Clinical Pharmacology (12.2)].
 Consider alternatives to JULUCA when coadministered with a drug with a known risk of Torsade de Pointes.
 
 See Table 4 for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations.

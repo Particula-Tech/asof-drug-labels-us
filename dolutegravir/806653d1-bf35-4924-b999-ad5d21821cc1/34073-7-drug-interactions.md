@@ -27,7 +27,7 @@ Coadministration of JULUCA and drugs that induce CYP3A may result in decreased p
 Coadministration of JULUCA and drugs that inhibit CYP3A may result in increased plasma concentrations of rilpivirine.
 Coadministration of JULUCA with drugs that increase gastric pH may result in decreased plasma concentrations of rilpivirine and loss of virologic response and possible resistance to rilpivirine or to the class of NNRTIs [see Contraindications (4), Drug Interactions (7.4,), Clinical Pharmacology (12.3)].
 
-QT-Prolonging Drugs: In healthy subjects, 75 mg once daily rilpivirine (3 times the dose in JULUCA) and 300 mg once daily (12 times the dose in JULUCA) have been shown to prolong the QTc interval of the electrocardiogram [see Clinical Pharmacology (12.2)].
+QT-Prolonging Drugs: In healthy subjects, 75 mg once daily of rilpivirine (3 times the dose in JULUCA) and 300 mg once daily (12 times the dose in JULUCA) have been shown to prolong the QTc interval of the electrocardiogram [see Clinical Pharmacology (12.2)].
 Consider alternatives to JULUCA when coadministered with a drug with a known risk of Torsade de Pointes.
 
 ## 7.4 Established and Other Potentially Significant Drug Interactions
@@ -52,6 +52,6 @@ Established and Other Potentially Significant Drug Interactions: Alterations in 
 | Macrolide or ketolide antibiotics:ClarithromycinErythromycinTelithromycin | ↔Dolutegravir↑Rilpivirine | Where possible, consider alternatives, such as azithromycin. |
 | Medications containing polyvalent cations (e.g., Mg or Al):Cation-containing productsb or laxativesSucralfateBuffered medications | ↓Dolutegravir | Administer JULUCA 4 hours before or 6 hours after taking products containing polyvalent cations. |
 | Narcotic analgesics:Methadoneb | ↔Dolutegravir↓Methadone↔Rilpivirine | No dose adjustments are required when starting coadministration of methadone with JULUCA. However, clinical monitoring is recommended as methadone maintenance therapy may need to be adjusted in some patients. |
-| Oral calcium and iron supplements, including multivitamins containing calcium or ironb (non-antacid) | ↓Dolutegravir | Administer JULUCA and supplements containing calcium or iron together with a meal or take these supplements 4 hours before or 6 hours after taking JULUCA. |
+| Oral calcium and iron supplements, including multivitamins containing calcium or ironb (non-antacid) | ↓Dolutegravir | Administer JULUCA and supplements containing calcium or iron together with a meal or take JULUCA 4 hours before or 6 hours after taking these supplements. |
 | Proton Pump Inhibitors:e.g., Esomeprazole LansoprazoleOmeprazolePantoprazoleRabeprazole | ↓Rilpivirine | Coadministration is contraindicated with JULUCA due to decreased rilpivirine concentrations [see Contraindications (4)]. |
 | ↑ = Increase, ↓ = Decrease, ↔ = No change. a This table is not all inclusive. b See Clinical Pharmacology (12.3) for magnitude of interaction. |  |  |

@@ -20,7 +20,7 @@ Advise patients to seek immediate medical evaluation if they experience depressi
 
 Drug Interactions
 
-JULUCA may interact with many drugs; therefore, advise patients to report to their healthcare provider the use of any other prescription or non-prescription medication or herbal products including St. John’s wort [see Contraindications (4), Drug Interactions (7)].
+JULUCA may interact with many drugs; therefore, advise patients to report to their healthcare provider the use of any other prescription or nonprescription medication or herbal products including St. John’s wort [see Contraindications (4), Drug Interactions (7)].
 
 Administration Instruction
 
@@ -57,4 +57,4 @@ GlaxoSmithKline Research Triangle Park, NC 27709
 
 ©2017 ViiV Healthcare group of companies or its licensor.
 
-JLC:1PI
+JLC:2PI

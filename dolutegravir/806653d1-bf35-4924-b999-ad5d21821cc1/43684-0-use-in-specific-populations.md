@@ -49,7 +49,7 @@ Because of the potential for (1) HIV‑1 transmission (in HIV-negative infants),
 
 Data
 
-Animal Data: Dolutegravir: Dolutegravir was the primary drug-related component excreted into the milk of lactating rats following a single oral dose of 50 mg per kg on lactation Day 10, with milk concentrations of up to approximately 1.3 times that of maternal plasma concentrations observed 8 hours’ post-dose.
+Animal Data: Dolutegravir: Dolutegravir was the primary drug-related component excreted into the milk of lactating rats following a single oral dose of 50 mg per kg on lactation Day 10, with milk concentrations of up to approximately 1.3 times that of maternal plasma concentrations observed 8 hours post-dose.
 
 Rilpivirine: In animals, no studies have been conducted to assess the excretion of rilpivirine into milk directly; however, rilpivirine was present in plasma of rat pups exposed through the milk of lactating rats (dosed up to 400 mg per kg per day).
 

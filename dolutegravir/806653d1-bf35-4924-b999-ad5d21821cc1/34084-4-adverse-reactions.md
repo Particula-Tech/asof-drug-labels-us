@@ -123,4 +123,4 @@ Nephrotic syndrome.
 
 Skin and Subcutaneous Tissue Disorders
 
-Severe skin and hypersensitivity reactions including DRESS.
+Severe skin and hypersensitivity reactions, including DRESS.

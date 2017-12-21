@@ -12,7 +12,7 @@ The effect of JULUCA on the QT interval has not been studied.
 
 In a randomized, placebo-controlled, crossover trial, 42 healthy subjects received single-dose oral administration of placebo, dolutegravir 250-mg suspension (exposures approximately 3–fold of the 50-mg once-daily dose at steady state), and moxifloxacin 400 mg (active control) in random sequence.
 After baseline and placebo adjustment, the maximum mean QTc change based on Fridericia correction method (QTcF) for dolutegravir was 2.4 msec (1-sided 95% upper CI: 4.9 msec).
-Dolutegravir did not prolong the QTc interval over 24 hours’ post-dose.
+Dolutegravir did not prolong the QTc interval over 24 hours post-dose.
 
 The effect of rilpivirine at the recommended dose of 25 mg once daily on the QTcF interval was evaluated in a randomized, placebo- and active- (moxifloxacin 400 mg once daily) controlled crossover study in 60 healthy adults, with 13 measurements over 24 hours at steady state.
 The maximum mean time-matched (95% upper confidence bound) differences in QTcF interval from placebo after baseline correction was 2.0 (5.0) milliseconds (i.e., below the threshold of clinical concern).
@@ -100,12 +100,12 @@ Drug interaction trials were conducted with dolutegravir or rilpivirine as indiv
 In vitro, dolutegravir did not inhibit (IC50 greater than 50 microM) the following: CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP3A, UGT1A1, UGT2B7, P-gp, BCRP, bile salt export pump (BSEP), organic anion transporter polypeptide (OATP)1B1, OATP1B3, OCT1, multidrug resistance protein (MRP)2, or MRP4.
 In vitro, dolutegravir did not induce CYP1A2, CYP2B6, or CYP3A4.
 
-In vitro, dolutegravir, inhibited the renal OCT2 (IC50 = 1.93 microM) and MATE1 (IC50 = 6.34 microM).
+In vitro, dolutegravir inhibited the renal OCT2 (IC50 = 1.93 microM) and MATE1 (IC50 = 6.34 microM).
 In vivo, dolutegravir inhibits tubular secretion of creatinine by inhibiting OCT2 and potentially MATE1.
 Dolutegravir may increase plasma concentrations of drugs eliminated via OCT2 or MATE1 such as dofetilide and metformin.
 [see Contraindications (4), Drug Interactions (7.4)].
 
-In vitro, dolutegravir inhibited the basolateral renal transporters, organic anion transporter OAT1 (IC50 = 2.12 microM) and OAT3 (IC50 = 1.97 microM).
+In vitro, dolutegravir inhibited the basolateral renal transporters, organic anion transporter (OAT)1 (IC50 = 2.12 microM) and OAT3 (IC50 = 1.97 microM).
 However, in vivo, dolutegravir did not alter the plasma concentrations of tenofovir or para-amino hippurate, substrates of OAT1 and OAT3.
 
 Dolutegravir is metabolized by UGT1A1 with some contribution from CYP3A.

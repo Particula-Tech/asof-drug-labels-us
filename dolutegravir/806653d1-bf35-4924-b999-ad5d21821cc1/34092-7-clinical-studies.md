@@ -17,7 +17,7 @@ The primary endpoint and other outcomes (including outcomes by key baseline cova
 The virologic outcome results for SWORD-1 and SWORD-2 were similar to the pooled SWORD-1 and SWORD-2 virologic outcome results.
 
 Table 11.
-Pooled Virologic Outcomes of Randomized Treatment in SWORD-1 and SWORD-2 Trials at Week 48 in Virologically-Suppressed Subjects Who Switched to JULUCA (Snapshot Algorithm)
+Pooled Virologic Outcomes of Randomized Treatment in SWORD-1 and SWORD-2 Trials at Week 48 in Virologically Suppressed Subjects Who Switched to JULUCA (Snapshot Algorithm)
 
 |  | Pooled Data |  |
 | --- | --- | --- |
