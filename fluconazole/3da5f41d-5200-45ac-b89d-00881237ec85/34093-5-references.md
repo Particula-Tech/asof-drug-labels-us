@@ -1,11 +1,16 @@
 # REFERENCES
 
-- 1.Clinical and Laboratory Standards Institute (CLSI).
-  Reference Method for Broth Dilution Antifungal Susceptibility Testing of Yeasts; Approved Standard-Third Edition.
-  CLSI Document M27-A3, Clinical and Laboratory Standards Institute, 940 West Valley Road, Suite 1400, Wayne, PA,19087 USA, 2008
-- 2.Clinical and Laboratory Standards Institute (CLSI).
-  Methods for Antifungal Disk Diffusion Susceptibility Testing of Yeasts; Approved Guideline-Second Edition.
-  CLSI Document M44-A2, Clinical and Laboratory Standards Institute, 940 West Valley Road, Suite 1400, Wayne, PA, 19087 USA, 2009
+1. 1.Clinical and Laboratory Standards Institute (CLSI).
+   Reference Method for Broth Dilution Antifungal Susceptibility Testing of Yeasts; Approved Standard-Third Edition; 2008.
+   CLSI Document M27-A3.
+2. 2.Clinical and Laboratory Standards Institute (CLSI).
+   Reference Method for Broth Dilution Antifungal Susceptibility Testing of Yeasts; Fourth Informational Supplement; 2012.
+   CLSI Document M27-S4.
+3. 3.Clinical and Laboratory Standards Institute (CLSI).
+   Methods for Antifungal Disk Diffusion Susceptibility Testing of Yeasts; Approved Guideline-Second Edition; 2009.
+   CLSI Document M44-A2.
+
+The brands listed are trademarks of their respective owners
 
 Manufactured by:
 
@@ -24,4 +29,4 @@ Questions?
 
 www.glenmarkpharma.com/usa
 
-February 2015
+December 2017

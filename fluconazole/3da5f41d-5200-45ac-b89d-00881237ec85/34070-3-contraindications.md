@@ -5,4 +5,4 @@ There is no information regarding cross-hypersensitivity between fluconazole and
 Caution should be used in prescribing fluconazole to patients with hypersensitivity to other azoles.
 Coadministration of terfenadine is contraindicated in patients receiving fluconazole at multiple doses of 400 mg or higher based upon results of a multiple dose interaction study.
 Coadministration of other drugs known to prolong the QT interval and which are metabolized via the enzyme CYP3A4 such as cisapride, astemizole, erythromycin, pimozide, and quinidine are contraindicated in patients receiving fluconazole.
-(See CLINICALPHARMACOLOGY: Drug Interaction StudiesandPRECAUTIONS.)
+(See CLINICAL PHARMACOLOGY: Drug Interaction StudiesandPRECAUTIONS.)

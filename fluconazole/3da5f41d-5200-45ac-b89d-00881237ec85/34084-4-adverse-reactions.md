@@ -25,7 +25,7 @@ The proportions of patients discontinuing therapy due to clinical adverse events
 The following treatment-related clinical adverse events occurred at an incidence of 1% or greater in 4048 patients receiving fluconazole for 7 or more days in clinical trials: nausea 3.7%, headache 1.9%, skin rash 1.8%, vomiting 1.7%, abdominal pain 1.7%, and diarrhea 1.5%.
 
 Hepatobiliary: In combined clinical trials and marketing experience, there have been rare cases of serious hepatic reactions during treatment with fluconazole.
-(See WARNINGS).
+(See WARNINGS.)
 The spectrum of these hepatic reactions has ranged from mild transient elevations in transaminases to clinical hepatitis, cholestasis and fulminant hepatic failure, including fatalities.
 Instances of fatal hepatic reactions were noted to occur primarily in patients with serious underlying medical conditions (predominantly AIDS or malignancy) and often while taking multiple concomitant medications.
 Transient hepatic reactions, including hepatitis and jaundice, have occurred among patients with no other identifiable risk factors.
@@ -76,7 +76,7 @@ The majority of treatment-related laboratory abnormalities were elevations of tr
 | Percentage of Patients With Treatment-Related Side Effects |  |  |
 | --- | --- | --- |
 |  | Fluconazole(N=577) | Comparative Agents (N=451) |
-| With any side effect | 13.0 | 9.3 |
+| With any side effect | 13 | 9.3 |
 | Vomiting | 5.4 | 5.1 |
 | Abdominal pain | 2.8 | 1.6 |
 | Nausea | 2.3 | 1.6 |

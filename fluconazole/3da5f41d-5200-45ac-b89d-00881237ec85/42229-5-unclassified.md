@@ -4,7 +4,7 @@ FLUCONAZOLE TABLETS USP
 
 Rx Only
 
-This leaflet contains important information about fluconazole.
+This leaflet contains important information about fluconazole (floo kon' a zole).
 It is not meant to take the place of your doctor’s instructions.
 Read this information carefully before you take fluconazole.
 Ask your doctor or pharmacist if you do not understand any of this information or if you want to know more about fluconazole.
@@ -20,7 +20,7 @@ However, this leaflet is only about using fluconazole for vaginal yeast infectio
 For information about using fluconazole for other reasons, ask your doctor or pharmacist.
 See the section of this leaflet for information about vaginal yeast infections.
 
-What Is A Vaginal Yeast Infection?
+What Is a Vaginal Yeast Infection?
 
 It is normal for a certain amount of yeast to be found in the vagina.
 Sometimes too much yeast starts to grow in the vagina and this can cause a yeast infection.
@@ -35,11 +35,11 @@ Ask your doctor for tips on what you can do to help prevent vaginal yeast infect
 If you get a vaginal yeast infection, you may have any of the following symptoms:
 
 - 
-  - oitching
-  - oa burning feeling when you urinate
-  - oredness
-  - osoreness
-  - oa thick white vaginal discharge that looks like cottage cheese
+  - •itching
+  - •a burning feeling when you urinate
+  - •redness
+  - •soreness
+  - •a thick white vaginal discharge that looks like cottage cheese
 
 What To Tell Your Doctor Before You Start Fluconazole?
 
@@ -81,8 +81,8 @@ Since there are many brand names for these medicines, check with your doctor or 
 - •are breast-feeding.
   Fluconazole can pass through breast milk to the baby.
 - •are allergic to any other medicines including those used to treat yeast and other fungal infections.
-- •are allergic to any of the ingredients in fluconazole tablets.
-  The main ingredient of fluconazole tablets is fluconazole.
+- •are allergic to any of the ingredients in fluconazole.
+  The main ingredient of fluconazole tablet is fluconazole.
   If you need to know the inactive ingredients, ask your doctor or pharmacist.
 
 Who Should Not Take Fluconazole?
@@ -101,24 +101,23 @@ If there is no change in your symptoms after a few days, call your doctor.
 
 Just swallow 1 fluconazole tablet to treat your vaginal yeast infection.
 
-What Should I Avoid While Taking Fluconazole?
+What Should I Avoid while Taking Fluconazole?
 
 Some medicines can affect how well fluconazole works.
 Check with your doctor before starting any new medicines within seven days of taking fluconazole.
 
-What Are The Possible Side Effects of Fluconazole?
+What Are the Possible Side Effects of Fluconazole?
 
 Like all medicines, fluconazole may cause some side effects that are usually mild to moderate.
 
 The most common side effects of fluconazole are:
 
-- 
-  - oheadache
-  - odiarrhea
-  - onausea or upset stomach
-  - odizziness
-  - ostomach pain
-  - ochanges in the way food tastes
+- •headache
+- •diarrhea
+- •nausea or upset stomach
+- •dizziness
+- •stomach pain
+- •changes in the way food tastes
 
 Allergic reactions to fluconazole are rare, but they can be very serious if not treated right away by a doctor.
 If you cannot reach your doctor, go to the nearest hospital emergency room.
@@ -134,15 +133,15 @@ Fluconazole may cause other less common side effects besides those listed here.
 If you develop any side effects that concern you, call your doctor.
 For a list of all side effects, ask your doctor or pharmacist.
 
-What To Do For An Overdose
+What to Do For an Overdose
 
 In case of an accidental overdose, call your doctor right away or go to the nearest emergency room.
 
-How To Store Fluconazole
+How to Store Fluconazole
 
 Keep fluconazole and all medicines out of the reach of children.
 
-General Advice About Prescription Medicines
+General Advice about Prescription Medicines
 
 Medicines are sometimes prescribed for conditions other than those mentioned in patient information leaflets.
 Do not use fluconazole for a condition for which it was not prescribed.
@@ -157,7 +156,7 @@ Manufactured by:
 
 Glenmark Pharmaceuticals Ltd.
 
-Colvale-Bardez, Goa 403 513, India
+Colvale-Bardez, Goa 403513, India
 
 Manufactured for:
 
@@ -170,4 +169,4 @@ Questions?
 
 www.glenmarkpharma.com/usa
 
-February 2015
+December 2017
