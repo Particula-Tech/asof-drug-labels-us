@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "NDA020080"
+  ],
+  "inn": "sumatriptan",
+  "labeler": "Glaxo Operations UK Ltd",
+  "package_ndcs": [
+    "63379-003-00",
+    "63379-003-01",
+    "63379-004-00",
+    "63379-005-00",
+    "63379-006-00"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "sumatriptan succinate",
+      "name": "IMITREX"
+    }
+  ],
+  "setid": "26ab9ed3-5119-4ba0-bab9-2ef946b312fc",
+  "source": "dailymed"
+}
