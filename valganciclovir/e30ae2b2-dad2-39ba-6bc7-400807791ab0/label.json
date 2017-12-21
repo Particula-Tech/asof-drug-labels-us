@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA206876"
+  ],
+  "inn": "valganciclovir",
+  "labeler": "Dr. Reddy's Laboratories Inc",
+  "package_ndcs": [
+    "43598-356-30",
+    "43598-356-60"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "valganciclovir hydrochloride",
+      "name": "valganciclovir hydrochloride"
+    }
+  ],
+  "setid": "e30ae2b2-dad2-39ba-6bc7-400807791ab0",
+  "source": "dailymed"
+}
