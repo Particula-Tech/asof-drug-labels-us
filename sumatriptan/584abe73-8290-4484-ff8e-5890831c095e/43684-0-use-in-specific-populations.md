@@ -2,12 +2,36 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C: There are no adequate and well-controlled trials in pregnant women.
-In developmental toxicity studies in rats and rabbits, oral administration of sumatriptan to pregnant animals was associated with embryolethality, fetal abnormalities, and pup mortality.
-When administered by the intravenous route to pregnant rabbits, sumatriptan was embryolethal.
-IMITREX Tablets should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Risk Summary
 
-Oral administration of sumatriptan to pregnant rats during the period of organogenesis resulted in an increased incidence of fetal blood vessel (cervicothoracic and umbilical) abnormalities.
+Data from a prospective pregnancy exposure registry and epidemiological studies of pregnant women have not detected an increased frequency of birth defects or a consistent pattern of birth defects among women exposed to sumatriptan compared with the general population (see Data).
+In developmental toxicity studies in rats and rabbits, oral administration of sumatriptan to pregnant animals was associated with embryolethality, fetal abnormalities, and pup mortality.
+When administered by the intravenous route to pregnant rabbits, sumatriptan was embryolethal (see Data).
+
+In the U.S. general population, the estimated background risk of major birth defects and of miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+The reported rate of major birth defects among deliveries to women with migraine ranged from 2.2% to 2.9% and the reported rate of miscarriage was 17%, which were similar to rates reported in women without migraine.
+
+Clinical Considerations
+
+Disease-Associated Maternal and/or Embryo/Fetal Risk: Several studies have suggested that women with migraine may be at increased risk of preeclampsia during pregnancy.
+
+Data
+
+Human Data: The Sumatriptan/Naratriptan/Treximet (sumatriptan and naproxen sodium) Pregnancy Registry, a population-based international prospective study, collected data for sumatriptan from January 1996 to September 2012.
+The Registry documented outcomes of 626 infants and fetuses exposed to sumatriptan during pregnancy (528 with earliest exposure during the first trimester, 78 during the second trimester, 16 during the third trimester, and 4 unknown).
+The occurrence of major birth defects (excluding fetal deaths and induced abortions without reported defects and all spontaneous pregnancy losses) during first-trimester exposure to sumatriptan was 4.2% (20/478 [95% CI: 2.6% to 6.5%]) and during any trimester of exposure was 4.2% (24/576 [95% CI: 2.7% to 6.2%]).
+The sample size in this study had 80% power to detect at least a 1.73- to 1.91-fold increase in the rate of major malformations.
+The number of exposed pregnancy outcomes accumulated during the registry was insufficient to support definitive conclusions about overall malformation risk or for making comparisons of the frequencies of specific birth defects.
+Of the 20 infants with reported birth defects after exposure to sumatriptan in the first trimester, 4 infants had ventricular septal defects, including one infant who was exposed to both sumatriptan and naratriptan, and 3 infants had pyloric stenosis.
+No other birth defect was reported for more than 2 infants in this group.
+
+In a study using data from the Swedish Medical Birth Register, live births to women who reported using triptans or ergots during pregnancy were compared with those of women who did not.
+Of the 2,257 births with first-trimester exposure to sumatriptan, 107 infants were born with malformations (relative risk 0.99 [95% CI: 0.91 to 1.21]).
+A study using linked data from the Medical Birth Registry of Norway to the Norwegian Prescription Database compared pregnancy outcomes in women who redeemed prescriptions for triptans during pregnancy, as well as a migraine disease comparison group who redeemed prescriptions for sumatriptan before pregnancy only, compared with a population control group.
+Of the 415 women who redeemed prescriptions for sumatriptan during the first trimester, 15 had infants with major congenital malformations (OR 1.16 [95% CI: 0.69 to 1.94]) while for the 364 women who redeemed prescriptions for sumatriptan before, but not during, pregnancy, 20 had infants with major congenital malformations (OR 1.83 [95% CI: 1.17 to 2.88]), each compared with the population comparison group.
+Additional smaller observational studies evaluating use of sumatriptan during pregnancy have not suggested an increased risk of teratogenicity.
+
+Animal Data: Oral administration of sumatriptan to pregnant rats during the period of organogenesis resulted in an increased incidence of fetal blood vessel (cervicothoracic and umbilical) abnormalities.
 The highest no-effect dose for embryofetal developmental toxicity in rats was 60 mg/kg/day, or approximately 3 times the maximum recommended human dose (MRHD) of 200 mg/day on a mg/m2 basis.
 Oral administration of sumatriptan to pregnant rabbits during the period of organogenesis resulted in increased incidences of embryolethality and fetal cervicothoracic vascular and skeletal abnormalities.
 Intravenous administration of sumatriptan to pregnant rabbits during the period of organogenesis resulted in an increased incidence of embryolethality.
@@ -20,18 +44,31 @@ The highest no-effect dose for this effect was 60 mg/kg/day, or approximately 3 
 Oral treatment of pregnant rats with sumatriptan during the latter part of gestation and throughout lactation resulted in a decrease in pup survival.
 The highest no-effect dose for this finding was 100 mg/kg/day, or approximately 5 times the MRHD on a mg/m2 basis.
 
-## 8.3 Nursing Mothers
+## 8.2 Lactation
 
-Sumatriptan is excreted in human milk following subcutaneous administration.
-Infant exposure to sumatriptan can be minimized by avoiding breastfeeding for 12 hours after treatment with IMITREX Tablets.
+Risk Summary
+
+Sumatriptan is excreted in human milk following subcutaneous administration (see Data).
+There is no information regarding sumatriptan concentrations in milk from lactating women following administration of IMITREX tablets.
+There are no data on the effects of sumatriptan on the breastfed infant or the effects of sumatriptan on milk production.
+
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for IMITREX tablets and any potential adverse effects on the breastfed infant from sumatriptan or from the underlying maternal condition.
+
+Clinical Considerations
+
+Infant exposure to sumatriptan can be minimized by avoiding breastfeeding for 12 hours after treatment with IMITREX tablets.
+
+Data
+
+Following subcutaneous administration of a 6-mg dose of IMITREX injection in 5 lactating volunteers, sumatriptan was present in milk.
 
 ## 8.4 Pediatric Use
 
 Safety and effectiveness in pediatric patients have not been established.
-IMITREX Tablets are not recommended for use in patients younger than 18 years of age.
+IMITREX tablets are not recommended for use in patients younger than 18 years of age.
 
-Two controlled clinical trials evaluated IMITREX Nasal Spray (5 to 20 mg) in 1,248 adolescent migraineurs aged 12 to 17 years who treated a single attack.
-The trials did not establish the efficacy of IMITREX Nasal Spray compared with placebo in the treatment of migraine in adolescents.
+Two controlled clinical trials evaluated IMITREX nasal spray (5 to 20 mg) in 1,248 adolescent migraineurs aged 12 to 17 years who treated a single attack.
+The trials did not establish the efficacy of IMITREX nasal spray compared with placebo in the treatment of migraine in adolescents.
 Adverse reactions observed in these clinical trials were similar in nature to those reported in clinical trials in adults.
 
 Five controlled clinical trials (2 single-attack trials, 3 multiple-attack trials) evaluating oral IMITREX (25 to 100 mg) in pediatric patients aged 12 to 17 years enrolled a total of 701 adolescent migraineurs.
@@ -46,13 +83,13 @@ Clinical data to determine the frequency of serious adverse reactions in pediatr
 
 ## 8.5 Geriatric Use
 
-Clinical trials of IMITREX Tablets did not include sufficient numbers of patients aged 65 and older to determine whether they respond differently from younger patients.
+Clinical trials of IMITREX tablets did not include sufficient numbers of patients aged 65 and older to determine whether they respond differently from younger patients.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function and of concomitant disease or other drug therapy.
 
-A cardiovascular evaluation is recommended for geriatric patients who have other cardiovascular risk factors (e.g., diabetes, hypertension, smoking, obesity, strong family history of CAD) prior to receiving IMITREX Tablets [see Warnings and Precautions (5.1)].
+A cardiovascular evaluation is recommended for geriatric patients who have other cardiovascular risk factors (e.g., diabetes, hypertension, smoking, obesity, strong family history of CAD) prior to receiving IMITREX tablets [see Warnings and Precautions (5.1)].
 
 ## 8.6 Hepatic Impairment
 
 The maximum single dose in patients with mild to moderate hepatic impairment should not exceed 50 mg.
-IMITREX Tablets are contraindicated in patients with severe hepatic impairment [see Clinical Pharmacology (12.3)].
+IMITREX tablets are contraindicated in patients with severe hepatic impairment [see Clinical Pharmacology (12.3)].

@@ -22,8 +22,8 @@ Made in Canada
 
 ©2017 the GSK group of companies.
 
-1. 10000000146158 Rev.
-   6/17
+1. 546544-01 Rev.
+   11/17
 
 PRINCIPAL DISPLAY PANEL
 
@@ -49,8 +49,8 @@ Made in Canada
 
 ©2017 the GSK group of companies.
 
-1. 10000000146157 Rev.
-   6/17
+1. 546545-01 Rev.
+   11/17
 
 PRINCIPAL DISPLAY PANEL
 
@@ -76,5 +76,5 @@ Made in Canada
 
 ©2017 the GSK group of companies.
 
-1. 10000000146401 Rev.
-   6/17
+1. 546546-01 Rev.
+   11/17
