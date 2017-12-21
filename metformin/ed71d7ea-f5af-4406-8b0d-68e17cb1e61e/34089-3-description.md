@@ -10,6 +10,6 @@ The pKa of metformin is 12.4.
 The pH of a 1% aqueous solution of metformin hydrochloride is 6.68.
 
 FORTAMET® Extended-Release Tablets are designed for once-a-day oral administration and deliver 500 mg or 1000 mg of metformin hydrochloride.
-In addition to the active ingredient metformin hydrochloride, each tablet contains the following inactive ingredients: candellila wax, cellulose acetate, hypromellose, magnesium stearate, polyethylene glycols (PEG 400, PEG 8000), polysorbate 80, povidone, sodium lauryl sulfate, synthetic black iron oxides, titanium dioxide, and triacetin.
+In addition to the active ingredient metformin hydrochloride, each tablet contains the following inactive ingredients: candelilla wax, cellulose acetate, hypromellose, magnesium stearate, polyethylene glycols (PEG 400, PEG 8000), polysorbate 80, povidone, sodium lauryl sulfate, synthetic black iron oxides, titanium dioxide, and triacetin.
 
 FORTAMET® meets USP Dissolution Test 5.

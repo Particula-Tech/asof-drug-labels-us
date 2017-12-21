@@ -7,9 +7,9 @@ Adverse reactions reported in ≥5% of the FORTAMET® or immediate-release metfo
 These pooled results show that the most frequently reported adverse reactions in the FORTAMET® group were infection, diarrhea, and nausea.
 Similar incidences of these adverse reactions were seen in the immediate-release metformin group.
 
-Table 6 Number and Percentage of Patients With the Most Common (Incidence ≥5%)Treatment-Emergent Signs or Symptoms by Body System and PreferredTerm - Pooled Phase II and III Studies
+Table 6 Number and Percentage of Patients With the Most Common (Incidence ≥5%) Treatment-Emergent Signs or Symptoms by Body System and Preferred Term - Pooled Phase II and III Studies
 
-|  | FORTAMET® (N=424) |  | Immediate-Release Metformin (N=430) |  |
+|  | FORTAMET® (N = 424) |  | Immediate-Release Metformin (N = 430) |  |
 | --- | --- | --- | --- | --- |
 | Body System Preferred Term | n | (%) | n | (%) |
 | Body as a Whole |  |  |  |  |
@@ -48,12 +48,14 @@ Table 7 Most Common Adverse Reactions (>5.0%) in a Placebo-Controlled Clinical S
 | Indigestion | 7.1 | 4.1 |
 | Abdominal Discomfort | 6.4 | 4.8 |
 | Headache | 5.7 | 4.8 |
-| * Reactions that were more common in immediate-release metformin than placebo-treated patients |  |  |
+| *Reactions that were more common in immediate-release metformin than placebo-treated patients |  |  |
 
 Diarrhea led to discontinuation of study medication in 6% of patients treated with immediate-release metformin.
-Additionally, the following adverse reactions were reported in ≥1.0 - ≤5.0% of immediate-release metformin patients and were more commonly reported with immediate-release metformin than placebo: abnormal stools, hypoglycemia, myalgia, lightheaded, dyspnea, nail disorder, rash, sweating increased, taste disorder, chest discomfort, chills, flu syndrome, flushing, palpitation.
+Additionally, the following adverse reactions were reported in ≥1.0 to ≤5.0% of immediate-release metformin patients and were more commonly reported with immediate-release metformin than placebo: abnormal stools, hypoglycemia, myalgia, lightheaded, dyspnea, nail disorder, rash, sweating increased, taste disorder, chest discomfort, chills, flu syndrome, flushing, palpitation.
 
 ## Pediatric Patients
 
 No pediatric clinical studies have been conducted with FORTAMET®.
 In clinical trials with immediate-release metformin in pediatric patients with type 2 diabetes, the profile of adverse reactions was similar to that observed in adults.
+
+Cholestatic, hepatocellular, and mixed hepatocellular liver injury have been reported with postmarketing use of metformin.

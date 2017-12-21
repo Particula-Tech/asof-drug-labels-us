@@ -1,7 +1,5 @@
 # PATIENT INFORMATION ABOUT FORTAMET® (metformin hydrochloride) Extended-Release Tablets
 
-Rx only
-
 Q1.
 Why do I need to take FORTAMET®?
 
@@ -23,7 +21,7 @@ Your doctor may recommend that you try lifestyle modifications such as improved 
 Each patient will be treated individually by his or her physician, and should follow all treatment recommendations.
 
 Q4.
-Does FORTAMET® work differently from other glucosecontrol medications?
+Does FORTAMET® work differently from other glucose control medications?
 
 Yes.
 FORTAMET®, as well as other formulations of metformin, lowers the amount of sugar in your blood by controlling how much sugar is released by the liver.
@@ -65,8 +63,7 @@ Some patients may need to have their doses lowered or stop taking FORTAMET®, ei
 You should tell your doctor if the problems come back or start later on during the therapy.
 
 WARNING: A rare number of people who have taken metformin have developed a serious condition called lactic acidosis.
-Properly functioning kidneys are needed to help prevent lactic acidosis.
-You should not take FORTAMET® if you have impaired kidney function, as measured by a blood test (see Q9-13).
+Properly functioning kidneys are needed to help prevent lactic acidosis (see Q9-13).
 
 Q9.
 Are there any serious side effects that FORTAMET® can cause?
@@ -77,47 +74,55 @@ The most serious side effect that FORTAMET® can cause is called lactic acidosis
 Q10.
 What is lactic acidosis and can it happen to me?
 
-Lactic acidosis is caused by a build-up of lactic acid in the blood.
-Lactic acidosis associated with metformin is rare and has occurred mostly in people whose kidneys were not working normally.
-Lactic acidosis has been reported in about one in 33,000 patients taking metformin over the course of a year.
-Although rare, if lactic acidosis does occur, it can be fatal in up to half the cases.
-
-It is also important for your liver to be working normally when you take FORTAMET®.
-Your liver helps to remove lactic acid from your bloodstream.
-Your doctor will monitor your diabetes and may perform blood tests on you from time to time to make sure your kidneys and your liver are functioning normally.
-There is no evidence that FORTAMET® causes harm to the kidneys or liver.
+Metformin, the medicine in FORTAMET® can cause a rare but serious condition called lactic acidosis (a buildup of an acid in the blood) that can cause death.
+Lactic acidosis is a medical emergency and must be treated in the hospital.
 
 Q11.
 Are there other risk factors for lactic acidosis?
 
-Your risk of developing lactic acidosis from taking FORTAMET® is very low as long as your kidneys and liver are healthy.
-However, some factors can increase your risk because they can affect kidney and liver function.
-You should discuss your risk with your physician.
-You should not take FORTAMET® if:
+Most people who have had lactic acidosis with metformin have other things that, combined with the metformin, led to the lactic acidosis.
+Tell your doctor if you have any of the following, because you have a higher chance for getting lactic acidosis with FORTAMET® if you:
 
-- You have some forms of kidney or liver problems
-- You have congestive heart failure which is treated with medications, e.g., digoxin (Lanoxin®) or furosemide (Lasix®)
-- You drink alcohol excessively (all the time or short-term “binge” drinking)
-- You are seriously dehydrated (have lost a large amount of body fluids)
-- You are going to have, within a few days, certain x-ray tests with injectable contrast agents
-- You are going to have surgery
-- You develop a serious condition such as a heart attack, severe infection, or a stroke
-- You are 80 years of age or older and have NOT had your kidney function tested
+- have severe kidney problems or your kidneys are affected by certain x-ray tests that use injectable dye
+- have liver problems
+- drink alcohol very often, or drink a lot of alcohol in short-term "binge" drinking
+- get dehydrated (lose a large amount of body fluids).
+  This can happen if you are sick with a fever, vomiting, or diarrhea.
+  Dehydration can also happen when you sweat a lot with activity or exercise and do not drink enough fluids
+- have surgery
+- have a heart attack, severe infection, or stroke
+
+The best way to keep from having a problem with lactic acidosis from metformin is to tell your doctor if you have any of the problems in the list above.
+Your doctor may decide to stop your FORTAMET® for a while if you have any of these things.
 
 Q12.
 What are the symptoms of lactic acidosis?
 
-Some of the symptoms include feeling very weak, tired or uncomfortable, unusual muscle pain, trouble breathing, unusual or unexpected stomach discomfort, feeling cold, feeling dizzy or lightheaded, or suddenly developing a slow or irregular heartbeat.
-If you notice these symptoms, or if your medical condition has suddenly changed, stop taking FORTAMET® and call your doctor right away.
-Lactic acidosis is a medical emergency that must be treated in a hospital.
+Call your doctor right away if you have any of the following symptoms, which could be signs of lactic acidosis:
+
+- you feel cold in your hands or feet
+- you feel dizzy or lightheaded
+- you have a slow or irregular heartbeat
+- you feel very weak or tired
+- you have unusual (not normal) muscle pain
+- you have trouble breathing
+- you feel sleepy or drowsy
+- you have stomach pains, nausea or vomiting
 
 Q13.
 What does my doctor need to know to decrease my risk of lactic acidosis?
 
-Tell your doctor if you have an illness that results in severe vomiting, diarrhea and/or fever, or if your intake of fluids is generally reduced.
-These situations can lead to severe dehydration, and it may be necessary to stop taking FORTAMET® temporarily.
-You should let your doctor know if you are going to have any surgery or specialized x-ray procedures that require injection of contrast agents.
-FORTAMET® therapy will need to be stopped temporarily in such instances.
+Before you take FORTAMET®, tell your doctor if you:
+
+- have severe kidney problems
+- have liver problems
+- have heart problems, including congestive heart failure
+- drink alcohol very often, or drink a lot of alcohol in short term "binge" drinking
+- are going to get an injection of dye or contrast agents for an x-ray procedure.
+  FORTAMET® may need to be stopped for a short time.
+  Talk to your doctor about when you should stop FORTAMET® and when you should start FORTAMET® again.
+  See "What is the most important information I should know about FORTAMET®?"
+- have any other medical conditions
 
 Q14.
 Can I take FORTAMET® with other medications?
@@ -146,14 +151,10 @@ Where can I get more information about FORTAMET®?
 This leaflet is a summary of the most important information about FORTAMET®.
 If you have any questions or problems, you should talk to your doctor or other healthcare provider about type 2 diabetes as well as FORTAMET® and its side effects.
 
-Distributed by: Shionogi Inc. Florham Park, NJ 07932
+Manufactured by: Actavis Laboratories FL, Inc. Fort Lauderdale, FL 33314 USA
 
-Manufactured by: Watson Laboratories - Florida Ft.
-Lauderdale, FL 33314
+Distributed by: Shionogi Inc. Florham Park, NJ 07932
 
 www.Fortamet.com
 
-FORT-PI-11 Rev.
-04/12 193672-1
-
-U.S. patent numbers 6,495,162; 6,866,866; 6,790,459; 6,099,859 - additional patents pending.
+Revised: November 2017
