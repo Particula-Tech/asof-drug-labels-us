@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA018553"
+  ],
+  "inn": "propranolol",
+  "labeler": "ANI Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "62559-530-01",
+    "62559-531-01",
+    "62559-532-01",
+    "62559-533-01"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "propranolol hydrochloride",
+      "name": "Propranolol Hydrochloride"
+    }
+  ],
+  "setid": "5415904b-90da-48e8-9f9e-f86749aa129c",
+  "source": "dailymed"
+}
