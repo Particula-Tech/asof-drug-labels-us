@@ -4,7 +4,7 @@
 
 Pregnancy Category B
 
-Reproduction studies performed in rats and rabbits at doses up to 500 and 300 mg/kg/day, respectively (65 and 78 times the recommended daily human dose, respectively, on a mg/m2basis), revealed no evidence of impaired fertility or fetotoxicity due to clopidogrel.
+Reproduction studies performed in rats and rabbits at doses up to 500 and 300 mg/kg/day, respectively (65 and 78 times the recommended daily human dose, respectively, on a mg/m2 basis), revealed no evidence of impaired fertility or fetotoxicity due to clopidogrel.
 There are, however, no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of a human response, clopidogrel bisulfate should be used during pregnancy only if clearly needed.
 

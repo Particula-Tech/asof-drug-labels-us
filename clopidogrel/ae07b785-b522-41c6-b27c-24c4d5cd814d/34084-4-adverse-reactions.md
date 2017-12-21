@@ -3,9 +3,9 @@
 The following serious adverse reactions are discussed below and elsewhere in the labeling:
 
 - Bleeding [seeWarningsandPrecautions(5.2)]
-- Thrombotic thrombocytopenic purpura [seeWarningsandPrecautions(5.5)]
+- Thrombotic thrombocytopenic purpura [seeWarningsandPrecautions(5.4)]
 
-## 6.1 Clinical Studies Experience
+## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions and durations of follow up, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
@@ -24,10 +24,11 @@ The overall incidence of bleeding is described in Table 1.
 
 Table 1: CURE Incidence of Bleeding Complications (% patients)
 
-| Event | Clopidogrel bisulfate (+ aspirin)* (n=6259) | Placebo (+ aspirin)* (n=6303) |
+| Event | Clopidogrel bisulfate (+ aspirin) (n=6259) | Placebo (+ aspirin) (n=6303) |
 | --- | --- | --- |
-| Major bleeding † | 3.7 ‡ | 2.7 § |
-| Life-threatening bleeding Fatal | 2.2 0.2 | 1.8 0.2 |
+| Major bleeding * | 3.7 | 2.7 |
+| Life-threatening bleeding | 2.2 | 1.8 |
+| Fatal | 0.2 | 0.2 |
 | 5 g/dL hemoglobin drop | 0.9 | 0.9 |
 | Requiring surgical intervention | 0.7 | 0.7 |
 | Hemorrhagic strokes | 0.1 | 0.1 |
@@ -35,19 +36,11 @@ Table 1: CURE Incidence of Bleeding Complications (% patients)
 | Requiring transfusion (≥4 units) | 1.2 | 1.0 |
 | Other major bleeding | 1.6 | 1.0 |
 | Significantly disabling | 0.4 | 0.3 |
-| Intraocular bleeding with | 0.05 | 0.03 |
-| significant loss of vision |  |  |
+| Intraocular bleeding with significant loss of vision | 0.05 | 0.03 |
 | Requiring 2 to 3 units of blood | 1.3 | 0.9 |
-| Minor bleeding ¶ | 5.1 | 2.4 |
-| * Other standard therapies were used as appropriate. |  |  |
-| † Life-threatening and other major bleeding. |  |  |
-| ‡ Major bleeding event rate for clopidogrel bisulfate + aspirin was dose-dependent on aspirin: <100 mg = 2.6%; 100 to 200 mg = 3.5%; >200 mg = 4.9% |  |  |
-| Major bleeding event rates for clopidogrel bisulfate + aspirin by age were: <65 years = 2.5%, ≥65 to <75 years = 4.1%, ≥75 years = 5.9% |  |  |
-| § Major bleeding event rate for placebo + aspirin was dose-dependent on aspirin: <100 mg = 2%; 100 to 200 mg = 2.3%; >200 mg = 4.0% |  |  |
-| Major bleeding event rates for placebo + aspirin by age were: <65 years = 2.1%, ≥65 to <75 years = 3.1%, ≥75 years = 3.6% |  |  |
-| ¶ Led to interruption of study medication. |  |  |
-
-Ninety-two percent (92%) of the patients in the CURE study received heparin or low molecular weight heparin (LMWH), and the rate of bleeding in these patients was similar to the overall results.
+| Minor bleeding† | 5.1 | 2.4 |
+| * Life-threatening and other major bleeding. |  |  |
+| † Led to interruption of study medication. |  |  |
 
 COMMIT
 
@@ -55,17 +48,16 @@ In COMMIT, similar rates of major bleeding were observed in the clopidogrel bisu
 
 Table 2: Incidence of Bleeding Events in COMMIT (% patients)
 
-| Type of bleeding | Clopidogrel bisulfate (+ aspirin) (n=22961) | Placebo (+ aspirin) (n=22891) | p-value |
+| Type of Bleeding | Clopidogrel bisulfate (+ aspirin) (n=22961) | Placebo (+ aspirin) (n=22891) | p-value |
 | --- | --- | --- | --- |
-| Major* noncerebral or cerebral bleeding** Major noncerebral Fatal Hemorrhagic stroke Fatal | 0.6 0.4 0.2 0.2 0.2 | 0.5 0.3 0.2 0.2 0.2 | 0.59 0.48 0.90 0.91 0.81 |
-| Other noncerebral bleeding (non-major) | 3.6 | 3.1 | 0.005 |
+| Major* noncerebral or cerebral bleeding Major noncerebral Fatal Hemorrhagic stroke Fatal | 0.6 0.4 0.2 0.2 0.2 | 0.5 0.3 0.2 0.2 0.2 | 0.59 0.48 0.90 0.91 0.81 |
+| Other noncerebral bleeding (nonmajor) | 3.6 | 3.1 | 0.005 |
 | Any noncerebral bleeding | 3.9 | 3.4 | 0.004 |
-| * Major bleeds were cerebral bleeds or non-cerebral bleeds thought to have caused death or that required transfusion. |  |  |  |
-| **The relative rate of major noncerebral or cerebral bleeding was independent of age. Event rates for clopidogrel bisulfate + aspirin by age were: <60 years = 0.3%, ≥60 to <70 years = 0.7%, ≥70 years = 0.8%. Event rates for placebo + aspirin by age were: <60 years = 0.4%, ≥60 to <70 years = 0.6%, ≥70 years = 0.7%. |  |  |  |
+| * Major bleeds were cerebral bleeds or noncerebral bleeds thought to have caused death or that required transfusion. |  |  |  |
 
 CAPRIE (Clopidogrel bisulfate vs. Aspirin)
 
-In CAPRIE, gastrointestinal hemorrhage occurred at a rate of 2% in those taking clopidogrel bisulfate vs. 2.7% in those taking aspirin; bleeding requiring hospitalization occurred in 0.7% and 1.1%, respectively.
+In CAPRIE, gastrointestinal hemorrhage occurred at a rate of 2.0% in those taking clopidogrel bisulfate versus 2.7% in those taking aspirin; bleeding requiring hospitalization occurred in 0.7% and 1.1%, respectively.
 The incidence of intracranial hemorrhage was 0.4% for clopidogrel bisulfate compared to 0.5% for aspirin.
 
 Other bleeding events that were reported more frequently in the clopidogrel bisulfate group were epistaxis and hematoma.
@@ -79,19 +71,20 @@ No other difference in the rate of adverse events (other than bleeding) was repo
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use of clopidogrel bisulfate.
+The following adverse reactions have been identified during postapproval use of clopidogrel bisulfate.
 Because these reactions are reported voluntarily from a population of an unknown size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-- Bloodandlymphaticsystemdisorders: Agranulocytosis, aplastic anemia/pancytopenia, thrombotic thrombocytopenic purpura (TTP), acquired hemophilia A
-- Eyedisorders: Eye (conjunctival, ocular, retinal) bleeding
-- Gastrointestinaldisorders: Gastrointestinal and retroperitoneal hemorrhage with fatal outcome, colitis (including ulcerative or lymphocytic colitis), pancreatitis, stomatitis, gastric/duodenal ulcer, diarrhea
-- Generaldisordersandadministrationsitecondition: Fever, hemorrhage of operative wound
-- Hepato-biliarydisorders: Acute liver failure, hepatitis (non-infectious), abnormal liver function test
-- Immunesystemdisorders: Hypersensitivity reactions, anaphylactoid reactions, serum sickness
-- Musculoskeletal, connectivetissueandbonedisorders: Musculoskeletal bleeding, myalgia, arthralgia, arthritis
-- Nervoussystemdisorders: Taste disorders, fatal intracranial bleeding, headache
-- Psychiatricdisorders: Confusion, hallucinations
-- Respiratory, thoracicandmediastinaldisorders: Bronchospasm, interstitial pneumonitis, respiratory tract bleeding, eosinophilic pneumonia
-- Renalandurinarydisorders: Increased creatinine levels
-- Skin and subcutaneous tissue disorders: Maculopapular, erythematous or exfoliative rash, urticaria, bullous dermatitis, eczema, toxic epidermal necrolysis, Stevens-Johnson syndrome, acute generalized exanthematous pustulosis (AGEP), angioedema, drug-induced hypersensitivity syndrome, drug rash with eosinophilia and systemic symptoms (DRESS), erythema multiforme, skin bleeding, lichen planus, generalized pruritus
-- Vasculardisorders: Vasculitis, hypotension
+Hemorrhages, including those with fatal outcome, have been reported in patients treated with clopidogrel bisulfate.
+
+- Blood and lymphatic system disorders: Agranulocytosis, aplastic anemia/pancytopenia, thrombotic thrombocytopenic purpura (TTP), acquired hemophilia A
+- Gastrointestinal disorders: Colitis (including ulcerative or lymphocytic colitis), pancreatitis, stomatitis, gastric/duodenal ulcer, diarrhea
+- General disorders and administration site condition: Fever
+- Hepatobiliary disorders: Acute liver failure, hepatitis (noninfectious), abnormal liver function test
+- Immune system disorders: Hypersensitivity reactions, anaphylactoid reactions, serum sickness
+- Musculoskeletal, connective tissue and bone disorders: Myalgia, arthralgia, arthritis
+- Nervous system disorders: Taste disorders, headache, ageusia
+- Psychiatric disorders: Confusion, hallucinations
+- Respiratory, thoracic and mediastinal disorders: Bronchospasm, interstitial pneumonitis, eosinophilic pneumonia
+- Renal and urinary disorders: Increased creatinine levels
+- Skin and subcutaneous tissue disorders: Maculopapular, erythematous or exfoliative rash, urticaria, bullous dermatitis, eczema, toxic epidermal necrolysis, Stevens-Johnson syndrome, acute generalized exanthematous pustulosis (AGEP), angioedema, drug-induced hypersensitivity syndrome, drug rash with eosinophilia and systemic symptoms (DRESS), erythema multiforme, lichen planus, generalized pruritus
+- Vascular disorders: Vasculitis, hypotension
