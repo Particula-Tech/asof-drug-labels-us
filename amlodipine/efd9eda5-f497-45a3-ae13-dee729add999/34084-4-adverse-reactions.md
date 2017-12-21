@@ -5,25 +5,23 @@
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 Amlodipine besylate tablets have been evaluated for safety in more than 11,000 patients in U.S. and foreign clinical trials.
-In general, treatment with amlodipine besylate tablets were well-tolerated at doses up to 10 mg daily.
+In general, treatment with amlodipine besylate tablets was well-tolerated at doses up to 10 mg daily.
 Most adverse reactions reported during therapy with amlodipine besylate tablets were of mild or moderate severity.
-In controlled clinical trials directly comparing amlodipine besylate tablets (N=1730) at doses up to 10 mg to placebo (N=1250), discontinuation of amlodipine besylate tablets due to adverse reactions was required in only about 1.5% of patients and was not significantly different from placebo (about 1%).
-The most common side effects are headache and edema.
+In controlled clinical trials directly comparing amlodipine besylate tablets (N= 1730) at doses up to 10 mg to placebo (N= 1250), discontinuation of amlodipine besylate tablets because of adverse reactions was required in only about 1.5% of patients and was not significantly different from placebo (about 1%).
+The most commonly reported side effects more frequent than placebo are reflected in the table below.
 The incidence (%) of side effects that occurred in a dose related manner are as follows:
 
-| Adverse Event | 2.5 mg N=275 | 5 mg N=296 | 10 mg N=268 | Placebo N=520 |
+|  | 2.5 mg N=275 | Amlodipine 5 mg N=296 | 10 mg N=268 | Placebo N=520 |
 | --- | --- | --- | --- | --- |
-| Edema | 1.8 | 3 | 10.8 | 0.6 |
+| Edema | 1.8 | 3.0 | 10.8 | 0.6 |
 | Dizziness | 1.1 | 3.4 | 3.4 | 1.5 |
 | Flushing | 0.7 | 1.4 | 2.6 | 0 |
 | Palpitation | 0.7 | 1.4 | 4.5 | 0.6 |
 
-Other adverse experiences that were not clearly dose related but were reported with an incidence greater than 1.0% in placebo-controlled clinical trials include the following:
+Other adverse reactions that were not clearly dose related but were reported with an incidence greater than 1.0% in placebo-controlled clinical trials include the following:
 
-| Amlodipine (%) (N=1730) | Placebo (%) (N=1250) |  |
+| Amlodipine besylate tablets (%) (N=1730) | Placebo (%) (N=1250) |  |
 | --- | --- | --- |
-|  | Placebo-Controlled Studies |  |
-| Headache | 7.3 | 7.8 |
 | Fatigue | 4.5 | 2.8 |
 | Nausea | 2.9 | 1.9 |
 | Abdominal Pain | 1.6 | 0.3 |
@@ -31,19 +29,19 @@ Other adverse experiences that were not clearly dose related but were reported w
 
 For several adverse experiences that appear to be drug and dose related, there was a greater incidence in women than men associated with amlodipine treatment as shown in the following table:
 
-| Male=% (N=1218) | Female=% (N=512) | Male=% (N=914) | Female=% (N=336) |  |
+|  | Amlodipine besylate tablets |  | Placebo % |  |
 | --- | --- | --- | --- | --- |
-| Adverse Event | Amlodipine Besylate |  | Placebo |  |
+| Male=% (N=1218) | Female=% (N=512) | Male=% (N=914) | Female=% (N=336) |  |
 | Edema | 5.6 | 14.6 | 1.4 | 5.1 |
 | Flushing | 1.5 | 4.5 | 0.3 | 0.9 |
 | Palpitations | 1.4 | 3.3 | 0.9 | 0.9 |
 | Somnolence | 1.3 | 1.6 | 0.8 | 0.3 |
 
-The following events occurred in <1% but >0.1% of patients in controlled clinical trials or under conditions of open trials or marketing experience where a causal relationship is uncertain; they are listed to alert the physician to a possible relationship: Cardiovascular: arrhythmia (including ventricular tachycardia and atrial fibrillation), bradycardia, chest pain, hypotension, peripheral ischemia, syncope, tachycardia, postural dizziness, postural hypotension, vasculitis.
+The following events occurred in <1% but >0.1% of patients in controlled clinical trials or under conditions of open trials or marketing experience where a causal relationship is uncertain; they are listed to alert the physician to a possible relationship: Cardiovascular: arrhythmia (including ventricular tachycardia and atrial fibrillation), bradycardia, chest pain, peripheral ischemia, syncope, tachycardia, vasculitis.
 
 Central and Peripheral Nervous System: hypoesthesia, neuropathy peripheral, paresthesia, tremor, vertigo.
 
-Gastrointestinal: anorexia, constipation, dyspepsia, 1 dysphagia, diarrhea, flatulence, pancreatitis, vomiting, gingival hyperplasia.
+Gastrointestinal: anorexia, constipation, dysphagia, diarrhea, flatulence, pancreatitis, vomiting, gingival hyperplasia.
 
 General: allergic reaction, asthenia, 1back pain, hot flushes, malaise, pain, rigors, weight gain, weight decrease.
 
@@ -64,11 +62,12 @@ Autonomic Nervous System: dry mouth, sweating increased.
 Metabolic and Nutritional: hyperglycemia, thirst.
 
 Hemopoietic: leukopenia, purpura, thrombocytopenia.
-1These events occurred in less than 1% in placebo-controlled trials, but the incidence of these side effects was between 1% and 2% in all multiple dose studies.
-The following events occurred in <0.1% of patients: cardiac failure, pulse irregularity, extrasystoles, skin discoloration, urticaria, skin dryness, alopecia, dermatitis, muscle weakness, twitching, ataxia, hypertonia, migraine, cold and clammy skin, apathy, agitation, amnesia, gastritis, increased appetite, loose stools, coughing, rhinitis, dysuria, polyuria, parosmia, taste perversion, abnormal visual accommodation, and xerophthalmia.
-Other reactions occurred sporadically and cannot be distinguished from medications or concurrent disease states such as myocardial infarction and angina.
+
+1 These events occurred in less than 1% in placebo-controlled trials, but the incidence of these side effects was between 1% and 2% in all multiple dose studies.
+
 Amlodipine therapy has not been associated with clinically significant changes in routine laboratory tests.
 No clinically relevant changes were noted in serum potassium, serum glucose, total triglycerides, total cholesterol, HDL cholesterol, uric acid, blood urea nitrogen, or creatinine.
+
 In the CAMELOT and PREVENT studies [see Clinical Studies (14.4)], the adverse event profile was similar to that reported previously (see above), with the most common adverse event being peripheral edema.
 
 ## 6.2 Postmarketing Experience
@@ -77,5 +76,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 The following postmarketing event has been reported infrequently where a causal relationship is uncertain: gynecomastia.
 In postmarketing experience, jaundice and hepatic enzyme elevations (mostly consistent with cholestasis or hepatitis), in some cases severe enough to require hospitalization, have been reported in association with use of amlodipine.
+
+Postmarketing reporting has also revealed a possible association between extrapyramidal disorder and amlodipine
 
 Amlodipine besylate tablets have been used safely in patients with chronic obstructive pulmonary disease, well-compensated congestive heart failure, coronary artery disease, peripheral vascular disease, diabetes mellitus, and abnormal lipid profiles.

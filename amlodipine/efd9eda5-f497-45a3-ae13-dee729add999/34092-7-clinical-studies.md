@@ -1,9 +1,9 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Effects in Hypertension Adult Patients
+## 14.1 Effects in Hypertension
 
-The antihypertensive efficacy of amlodipine besylate tablets has been demonstrated in a total of 15 double-blind, placebo-controlled, randomized studies involving 800 patients on amlodipine besylate tablets and 538 on placebo.
-Once daily administration produced statistically significant placebo-corrected reductions in supine and standing blood pressures at 24 hours postdose, averaging about 12/6 mmHg in the standing position and 13/7 mmHg in the supine position in patients with mild to moderate hypertension.
+Adult Patients The antihypertensive efficacy of amlodipine besylate tablets has been demonstrated in a total of 15 double-blind, placebo-controlled, randomized studies involving 800 patients on amlodipine besylate tablets and 538 on placebo.
+Once daily administration produced statistically significant placebo-corrected reductions in supine and standing blood pressures at 24 hours post dose, averaging about 12/6 mmHg in the standing position and 13/7 mmHg in the supine position in patients with mild to moderate hypertension.
 Maintenance of the blood pressure effect over the 24-hour dosing interval was observed, with little difference in peak and trough effect.
 Tolerance was not demonstrated in patients studied for up to 1 year.
 The 3 parallel, fixed dose, dose response studies showed that the reduction in supine and standing blood pressures was dose-related within the recommended dosing range.
@@ -27,31 +27,31 @@ In patients with angina, there were no clinically significant reductions in bloo
 ## 14.3 Effects in Vasospastic Angina
 
 In a double-blind, placebo-controlled clinical trial of 4 weeks duration in 50 patients, amlodipine besylate tablet therapy decreased attacks by approximately 4/week compared with a placebo decrease of approximately 1/week (p<0.01).
-Two of 23 amlodipine besylate tablet and 7 of 27 placebo patients discontinued from the study due to lack of clinical improvement.
+Two of 23 amlodipine besylate tablets and 7 of 27 placebo patients discontinued from the study due to lack of clinical improvement.
 
 ## 14.4 Effects in Documented Coronary Artery Disease
 
 In PREVENT, 825 patients with angiographically documented coronary artery disease were randomized to amlodipine besylate tablets (5 to 10 mg once daily) or placebo and followed for 3 years.
 Although the study did not show significance on the primary objective of change in coronary luminal diameter as assessed by quantitative coronary angiography, the data suggested a favorable outcome with respect to fewer hospitalizations for angina and revascularization procedures in patients with CAD.
+
 CAMELOT enrolled 1318 patients with CAD recently documented by angiography, without left main coronary disease and without heart failure or an ejection fraction <40%.
 Patients (76% males, 89% Caucasian, 93% enrolled at US sites, 89% with a history of angina, 52% without PCI, 4% with PCI and no stent, and 44% with a stent) were randomized to double-blind treatment with either amlodipine besylate tablets (5 to 10 mg once daily) or placebo in addition to standard care that included aspirin (89%), statins (83%), beta-blockers (74%), nitroglycerin (50%), anti-coagulants (40%), and diuretics (32%), but excluded other calcium channel blockers.
 The mean duration of follow-up was 19 months.
 The primary endpoint was the time to first occurrence of one of the following events: hospitalization for angina pectoris, coronary revascularization, myocardial infarction, cardiovascular death, resuscitated cardiac arrest, hospitalization for heart failure, stroke/TIA, or peripheral vascular disease.
-A total of 110 (16.6%) and 151 (23.1%) first events occurred in the amlodipine besylate tablet and placebo groups, respectively, for a hazard ratio of 0.691 (95% CI: 0.540–0.884, p = 0.003).
+A total of 110 (16.6%) and 151 (23.1%) first events occurred in the amlodipine besylate tablets and placebo groups, respectively, for a hazard ratio of 0.691 (95% CI: 0.540 to 0.884, p = 0.003).
 The primary endpoint is summarized in Figure 1 below.
 The outcome of this study was largely derived from the prevention of hospitalizations for angina and the prevention of revascularization procedures (see Table 1).
 Effects in various subgroups are shown in Figure 2.
 
-In an angiographic substudy (n=274) conducted within CAMELOT, there was no significant difference between amlodipine and placebo on the change of atheroma volume in the coronary artery as assessed by intravascular ultrasound.
+In an angiographic substudy (n= 274) conducted within CAMELOT, there was no significant difference between amlodipine and placebo on the change of atheroma volume in the coronary artery as assessed by intravascular ultrasound.
 Figure 1 - Kaplan-Meier Analysis of Composite Clinical Outcomes for amlodipine versus Placebo Figure 2 – Effects on Primary Endpoint of amlodipine versus Placebo across Sub-Groups
 
 Table 1 below summarizes the significant composite endpoint and clinical outcomes from the composites of the primary endpoint.
 The other components of the primary endpoint including cardiovascular death, resuscitated cardiac arrest, myocardial infarction, hospitalization for heart failure, stroke/TIA, or peripheral vascular disease did not demonstrate a significant difference between amlodipine and placebo.
 
-Table 1.
-Incidence of Significant Clinical Outcomes for CAMELOT
+Table 1 Incidence of Significant Clinical Outcomes for CAMELOT
 
-| Clinical Outcomes N (%) | NORVASC (N=663) | Placebo (N=655) | Risk Reduction (p-value) |
+| Clinical Outcomes N (%) | Amlodipine (N=663) | Placebo (N=655) | Risk Reduction (p-value) |
 | --- | --- | --- | --- |
 | Composite CV Endpoint | 110 (16.6) | 151 (23.1) | 31% (0.003) |
 | Hospitalization for Angina* | 51 (7.7) | 84 (12.8) | 42% (0.002) |
@@ -65,6 +65,6 @@ In these studies, there was no evidence of worsened heart failure based on measu
 In a long-term (follow-up at least 6 months, mean 13.8 months) placebo-controlled mortality/morbidity study of amlodipine besylate tablets 5-10 mg in 1153 patients with NYHA Classes III (n=931) or IV (n=222) heart failure on stable doses of diuretics, digoxin, and ACE inhibitors, amlodipine had no effect on the primary endpoint of the study which was the combined endpoint of all-cause mortality and cardiac morbidity (as defined by life-threatening arrhythmia, acute myocardial infarction, or hospitalization for worsened heart failure), or on NYHA classification, or symptoms of heart failure.
 Total combined all-cause mortality and cardiac morbidity events were 222/571 (39%) for patients on amlodipine besylate tablets and 246/583 (42%) for patients on placebo; the cardiac morbid events represented about 25% of the endpoints in the study.
 
-Another study (PRAISE-2) randomized patients with NYHA Class III (80%) or IV (20%) heart failure without clinical symptoms or objective evidence of underlying ischemic disease, on stable doses of ACE inhibitors (99%), digitalis (99%), and diuretics (99%), to placebo (n=827) or amlodipine besylate tablets (n=827) and followed them for a mean of 33 months.
+Another study (PRAISE-2) randomized patients with NYHA Class III (80%) or IV (20%) heart failure without clinical symptoms or objective evidence of underlying ischemic disease, on stable doses of ACE inhibitors (99%), digitalis (99%), and diuretics (99%), to placebo (n= 827) or amlodipine besylate tablets (n= 827) and followed them for a mean of 33 months.
 There was no statistically significant difference between amlodipine besylate tablets and placebo in the primary endpoint of all-cause mortality (95% confidence limits from 8% reduction to 29% increase on amlodipine).
 With amlodipine besylate tablets there were more reports of pulmonary edema.

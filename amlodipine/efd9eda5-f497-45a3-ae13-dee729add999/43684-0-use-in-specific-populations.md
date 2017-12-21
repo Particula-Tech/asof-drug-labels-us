@@ -5,7 +5,7 @@
 Pregnancy Category C
 
 There are no adequate and well-controlled studies in pregnant women.
-Amlodipine should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Amlodipine should be used during pregnancy only if the potential benefit justifies the risk to the fetus.
 
 No evidence of teratogenicity or other embryo/fetal toxicity was found when pregnant rats and rabbits were treated orally with amlodipine maleate at doses up to 10 mg amlodipine/kg/day (respectively, 8 times2 and 23 times2 the maximum recommended human dose of 10 mg on a mg/m2 basis) during their respective periods of major organogenesis.
 However, litter size was significantly decreased (by about 50%) and the number of intrauterine deaths was significantly increased (about 5-fold) in rats receiving amlodipine maleate at a dose equivalent to 10 mg amlodipine/kg/day for 14 days before mating and throughout mating and gestation.
@@ -20,6 +20,7 @@ In the absence of this information, it is recommended that nursing be discontinu
 
 ## 8.4 Pediatric Use
 
+Amlodipine besylate tablets (2.5 to 5 mg daily) is effective in lowering blood pressure in patients 6 to 17 years [see Clinical Studies (14.1)].
 Effect of amlodipine on blood pressure in patients less than 6 years of age is not known.
 
 ## 8.5 Geriatric Use
@@ -27,4 +28,4 @@ Effect of amlodipine on blood pressure in patients less than 6 years of age is n
 Clinical studies of amlodipine did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
-Elderly patients have decreased clearance of amlodipine with a resulting increase of AUC of approximately 40–60%, and a lower initial dose may be required [see Dosage and Administration (2.1)].
+Elderly patients have decreased clearance of amlodipine with a resulting increase of AUC of approximately 40 to 60%, and a lower initial dose may be required [see Dosage and Administration (2.1)].

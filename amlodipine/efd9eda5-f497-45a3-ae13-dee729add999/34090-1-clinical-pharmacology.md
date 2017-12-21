@@ -8,13 +8,14 @@ The contractile processes of cardiac muscle and vascular smooth muscle are depen
 Amlodipine inhibits calcium ion influx across cell membranes selectively, with a greater effect on vascular smooth muscle cells than on cardiac muscle cells.
 Negative inotropic effects can be detected in vitro but such effects have not been seen in intact animals at therapeutic doses.
 Serum calcium concentration is not affected by amlodipine.
-Within the physiologic pH range, amlodipine is an ionized compound (pKa=8.6), and its kinetic interaction with the calcium channel receptor is characterized by a gradual rate of association and dissociation with the receptor binding site, resulting in a gradual onset of effect.
+Within the physiologic pH range, amlodipine is an ionized compound (pKa= 8.6), and its kinetic interaction with the calcium channel receptor is characterized by a gradual rate of association and dissociation with the receptor binding site, resulting in a gradual onset of effect.
 
 Amlodipine is a peripheral arterial vasodilator that acts directly on vascular smooth muscle to cause a reduction in peripheral vascular resistance and reduction in blood pressure.
 
 The precise mechanisms by which amlodipine relieves angina have not been fully delineated, but are thought to include the following:
 
 Exertional Angina: In patients with exertional angina, amlodipine reduces the total peripheral resistance (afterload) against which the heart works and reduces the rate pressure product, and thus myocardial oxygen demand, at any given level of exercise.
+
 Vasospastic Angina: Amlodipine has been demonstrated to block constriction and restore blood flow in coronary arteries and arterioles in response to calcium, potassium epinephrine, serotonin, and thromboxane A2 analog in experimental animal models and in human coronary vessels in vitro.
 This inhibition of coronary spasm is responsible for the effectiveness of amlodipine in vasospastic (Prinzmetal’s or variant) angina.
 
@@ -26,7 +27,7 @@ Although the acute intravenous administration of amlodipine decreases arterial b
 
 With chronic once daily oral administration, antihypertensive effectiveness is maintained for at least 24 hours.
 Plasma concentrations correlate with effect in both young and elderly patients.
-The magnitude of reduction in blood pressure with amlodipine besylate tablets is also correlated with the height of pretreatment elevation; thus, individuals with moderate hypertension (diastolic pressure 105–114 mmHg) had about a 50% greater response than patients with mild hypertension (diastolic pressure 90–104 mmHg).
+The magnitude of reduction in blood pressure with amlodipine besylate tablets is also correlated with the height of pretreatment elevation; thus, individuals with moderate hypertension (diastolic pressure 105 to 114 mmHg) had about a 50% greater response than patients with mild hypertension (diastolic pressure 90 to 104 mmHg).
 Normotensive subjects experienced no clinically significant change in blood pressures (+1/–2 mmHg).
 
 In hypertensive patients with normal renal function, therapeutic doses of amlodipine besylate tablets resulted in a decrease in renal vascular resistance and an increase in glomerular filtration rate and effective renal plasma flow without change in filtration fraction or proteinuria.
@@ -41,18 +42,43 @@ Similar results were obtained in patients receiving amlodipine besylate tablets 
 In clinical studies in which amlodipine besylate tablets were administered in combination with beta-blockers to patients with either hypertension or angina, no adverse effects on electrocardiographic parameters was observed.
 In clinical trials with angina patients alone, amlodipine besylate tablet therapy did not alter electrocardiographic intervals or produce higher degrees of AV blocks.
 
-## 12.3 Pharmacokinetics and Metabolism
+Drug interactions Sildenafil: When amlodipine and sildenafil were used in combination, each agent independently exerted its own blood pressure lowering effect [see Drug Interactions (7.1)].
+
+## 12.3 Pharmacokinetics
 
 After oral administration of therapeutic doses of amlodipine besylate tablets, absorption produces peak plasma concentrations between 6 and 12 hours.
 Absolute bioavailability has been estimated to be between 64 and 90%.
 The bioavailability of amlodipine besylate tablets is not altered by the presence of food.
+
 Amlodipine is extensively (about 90%) converted to inactive metabolites via hepatic metabolism with 10% of the parent compound and 60% of the metabolites excreted in the urine.
 Ex vivo studies have shown that approximately 93% of the circulating drug is bound to plasma proteins in hypertensive patients.
 Elimination from the plasma is biphasic with a terminal elimination half-life of about 30 to 50 hours.
 Steady-state plasma levels of amlodipine are reached after 7 to 8 days of consecutive daily dosing.
+
 The pharmacokinetics of amlodipine are not significantly influenced by renal impairment.
-Patients with renal failure may therefore receive the usual initial dose.Elderly patients and patients with hepatic insufficiency have decreased clearance of amlodipine with a resulting increase in AUC of approximately 40 to 60%, and a lower initial dose may be required.
+Patients with renal failure may therefore receive the usual initial dose.
+
+Elderly patients and patients with hepatic insufficiency have decreased clearance of amlodipine with a resulting increase in AUC of approximately 40 to 60%, and a lower initial dose may be required.
 A similar increase in AUC was observed in patients with moderate to severe heart failure.
+
+Drug interactions In vitro data indicate that amlodipine has no effect on the human plasma protein binding of digoxin, phenytoin, warfarin, and indomethacin.
+
+Impact of other drugs on amlodipine Co-administered cimetidine, magnesium-and aluminum hydroxide antacids, sildenafil, and grapefruit juice have no impact on the exposure to amlodipine.
+
+CYP3A inhibitors: Co-administration of a 180 mg daily dose of diltiazem with 5 mg amlodipine in elderly hypertensive patients resulted in a 60% increase in amlodipine systemic exposure.
+Erythromycin co-administration in healthy volunteers did not significantly change amlodipine systemic exposure.
+However, strong inhibitors of CYP3A (e.g., itraconazole, clarithromycin) may increase the plasma concentrations of amlodipine to a greater extent [see Drug Interactions (7.1)]
+
+Impact of amlodipine on other drugs Co-administered amlodipine does not affect the exposure to atorvastatin, digoxin, ethanol and the warfarin prothrombin response time.
+
+Simvastatin: Co-administration of multiple doses of 10 mg of amlodipine with 80 mg simvastatin resulted in a 77% increase in exposure to simvastatin compared to simvastatin alone [see Drug Interactions (7.2)].
+
+Cyclosporine: A prospective study in renal transplant patients (N=11) showed on an average of 40% increase in trough cyclosporine levels when concomitantly treated with amlodipine [see Drug Interactions (7.2)].
+
+Tacrolimus: A prospective study in healthy Chinese volunteers (N=9) with CYP3A5 expressers showed a 2.5- to 4-fold increase in tacrolimus exposure when concomitantly administered with amlodipine compared to tacrolimus alone.
+This finding was not observed in CYP3A5 non-expressers (N= 6).
+However, a 3-fold increase in plasma exposure to tacrolimus in a renal transplant patient (CYP3A5 non-expresser) upon initiation of amlodipine for the treatment of post-transplant hypertension resulting in reduction of tacrolimus dose has been reported.
+Irrespective of the CYP3A5 genotype status, the possibility of an interaction cannot be excluded with these drugs [see Drug Interactions (7.2)].
 
 ## 12.4 Pediatric Patients
 

@@ -1,3 +1,7 @@
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL 2.5mg
 
 NDC 76282-237-90 Amlodipine Besylate Tablets, USP 2.5mg EXELAN PHARMACEUTICALS, INC Rx Only 90 Tablets
+
+NDC 76282-238-90 Amlodipine Besylate Tablets, USP 5mg EXELAN PHARMACEUTICALS, INC Rx Only 90 Tablets
+
+NDC 76282-239-90 Amlodipine Besylate Tablets, USP 10mg EXELAN PHARMACEUTICALS, INC Rx Only 90 Tablets
