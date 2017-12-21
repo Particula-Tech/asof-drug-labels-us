@@ -1,8 +1,6 @@
 # CLINICAL PHARMACOLOGY
 
-## Mechanism of Action
-
-The precise mechanism(s) by which zonisamide exerts its antiseizure effect is unknown.
+Mechanism of Action: The precise mechanism(s) by which zonisamide exerts its antiseizure effect is unknown.
 Zonisamide demonstrated anticonvulsant activity in several experimental models.
 In animals, zonisamide was effective against tonic extension seizures induced by maximal electroshock but ineffective against clonic seizures induced by subcutaneous pentylenetetrazol.
 Zonisamide raised the threshold for generalized seizures in the kindled rat model and reduced the duration of cortical focal seizures induced by electrical stimulation of the visual cortex in cats.
@@ -20,9 +18,7 @@ Zonisamide is a carbonic anhydrase inhibitor.
 The contribution of this pharmacological action to the therapeutic effects of zonisamide is unknown.
 However, as a carbonic anhydrase inhibitor, zonisamide may cause metabolic acidosis (see WARNINGS, Metabolic Acidosis subsection).
 
-## Pharmacokinetics
-
-Following a 200 to 400 mg oral zonisamide dose, peak plasma concentrations (range: 2 to5 mcg/mL) in normal volunteers occur within 2 to 6 hours.
+Pharmacokinetics: Following a 200 to 400 mg oral zonisamide dose, peak plasma concentrations (range: 2 to5 mcg/mL) in normal volunteers occur within 2 to 6 hours.
 In the presence of food, the time to maximum concentration is delayed, occurring at 4 to 6 hours, but food has no effect on the bioavailability of zonisamide.
 Zonisamide extensively binds to erythrocytes, resulting in an eight-fold higher concentration of zonisamide in red blood cells (RBC) than in plasma.
 The pharmacokinetics of zonisamide are dose proportional in the range of 200 to 400 mg, but the Cmax and AUC increase disproportionately at 800 mg, perhaps due to saturable binding of zonisamide to RBC.
@@ -34,9 +30,7 @@ The apparent volume of distribution (V/F) of zonisamide is about 1.45 L/kg follo
 Zonisamide, at concentrations of 1.0 to 7.0 mcg/mL, is approximately 40% bound to human plasma proteins.
 Protein binding of zonisamide is unaffected in the presence of therapeutic concentrations of phenytoin, phenobarbital or carbamazepine.
 
-## Metabolism and Excretion
-
-Following oral administration of 14C-zonisamide to healthy volunteers, only zonisamide was detected in plasma.
+Metabolism and Excretion: Following oral administration of 14C-zonisamide to healthy volunteers, only zonisamide was detected in plasma.
 Zonisamide is excreted primarily in urine as parent drug and as the glucuronide of a metabolite.
 Following multiple dosing, 62% of the 14C dose was recovered in the urine, with 3% in the feces by day 10.
 Zonisamide undergoes acetylation to form N-acetyl zonisamide and reduction to form the open ring metabolite, 2–sulfamoylacetyl phenol (SMAP).
@@ -49,7 +43,7 @@ The clearance of zonisamide is increased to 0.5 mL/min/kg in patients concurrent
 Renal clearance is about 3.5 mL/min.
 The clearance of an oral dose of zonisamide from RBC is 2 mL/min.
 
-## Special Populations
+Special Populations:
 
 Renal Insufficiency: Single 300 mg zonisamide doses were administered to three groups of volunteers.
 Group 1 was a healthy group with a creatinine clearance ranging from 70 to 152 mL/min.
@@ -63,19 +57,19 @@ Age: The pharmacokinetics of a 300 mg single dose of zonisamide was similar in y
 
 Gender and Race: Information on the effect of gender and race on the pharmacokinetics of zonisamide is not available.
 
-## Interactions of Zonisamide with Other Antiepilepsy Drugs (AEDs)
+Interactions of Zonisamide with Other Antiepilepsy Drugs (AEDs)
 
 Concurrent medication with drugs that either induce or inhibit CYP3A4 may alter serum concentrations of zonisamide.
 Concomitant administration of phenytoin and carbamazepine increases zonisamide plasma clearance from 0.30 to 0.35 mL/min/kg to 0.35 to 0.5 mL/min/kg.
 The half-life of zonisamide is decreased to 27 hours by phenytoin, to 38 hours by phenobarbital and carbamazepine, and to 46 hours by valproate.
 Plasma protein binding of phenytoin and carbamazepine was not affected by zonisamide administration (see PRECAUTIONS, Drug Interactions subsection).
 
-## Interactions of Zonisamide with Other Carbonic Anhydrase Inhibitors
+Interactions of Zonisamide with Other Carbonic Anhydrase Inhibitors
 
 Concomitant use of zonisamide a carbonic anhydrase inhibitor, with any other carbonic anhydrase inhibitor (e.g., topiramate, acetazolamide or dichlorphenamide), may increase the severity of metabolic acidosis and may also increase the risk of kidney stone formation.
 Therefore, if zonisamide is given concomitantly with another carbonic anhydrase inhibitor, the patient should be monitored for the appearance or worsening of metabolic acidosis (see PRECAUTIONS, Drug Interactions subsection).
 
-## Clinical Studies
+Clinical Studies
 
 The effectiveness of zonisamide as adjunctive therapy (added to other antiepilepsy drugs) has been established in three multicenter, placebo-controlled, double blind, 3-month clinical trials (two domestic, one European) in 499 patients with refractory partial onset seizures with or without secondary generalization.
 Each patient had a history of at least four partial onset seizures per month in spite of receiving one or two antiepilepsy drugs at therapeutic concentrations.
@@ -98,32 +92,30 @@ Both studies demonstrated statistically significant differences favoring zonisam
 Analysis of the data (first 4 weeks) during titration demonstrated statistically significant differences favoring zonisamide at doses between 100 and 400 mg/day.
 The primary comparison in both trials was for any dose over Weeks 5 to 12.
 
-Table 1.
-Median % Reduction in All Partial Seizures and % Responders in Primary Efficacy Analyses: Intent-To-Treat Analysis
+Table 1 Median % Reduction in All Partial Seizures and % Responders in Primary Efficacy Analyses: Intent-To-Treat Analysis
 
 |  | Zonisamide | Placebo | Zonisamide | Placebo |
 | --- | --- | --- | --- | --- |
 | Study | Median % reduction in partial seizures |  | % Responders |  |
-| Study 1: | n=98 | n=72 | n=98 | n=72 |
-| Weeks 8-12: | 40.5%* | 9.0% | 41.8%* | 22.2% |
-| Study 2: | n=69 | n=72 | n=69 | n=72 |
-| Weeks 5-12: | 29.6%* | -3.2% | 29.0% | 15.0% |
-| Study 3: | n=67 | n=66 | n=67 | n=66 |
-| Weeks 5-12: | 27.2%* | -1.1% | 28.0%* | 12.0% |
+| Study 1 | n=98 | n=72 | n=98 | n=72 |
+| Weeks 8 to 12 | 40.5%* | 9.0% | 41.8%* | 22.2% |
+| Study 2 | n=69 | n=72 | n=69 | n=72 |
+| Weeks 5 to 12 | 29.6%* | -3.2% | 29.0% | 15.0% |
+| Study 3 | n=67 | n=66 | n=67 | n=66 |
+| Weeks 5 to 12: | 27.2%* | -1.1% | 28.0%* | 12.0% |
 | *p<0.05 compared to placebo |  |  |  |  |
 
-Table 2.
-Median % Reduction in All Partial Seizures and % Responders for Dose Analyses in Study 1: Intent-To-Treat Analysis
+Table 2 Median % Reduction in All Partial Seizures and % Responders for Dose Analyses in Study 1: Intent-To-Treat Analysis
 
 |  | Zonisamide | Placebo | Zonisamide | Placebo |
 | --- | --- | --- | --- | --- |
 | Dose Group | Median % reduction in partial seizures |  | % Responders |  |
-| 100-400 mg/day: | n=112 | n=83 | n=112 | n=83 |
-| Weeks 1-12: | 32.3%* | 5.6% | 32.1%* | 9.6% |
-| 100 mg/day: | n=56 | n=80 | n=56 | n=80 |
-| Weeks 1-5: | 24.7%* | 8.3% | 25.0%* | 11.3% |
-| 200 mg/day: | n=55 | n=82 | n=55 | n=82 |
-| Weeks 2-6: | 20.4%* | 4.0% | 25.5%* | 9.8% |
+| 100 to 400 mg/day: | n=112 | n=83 | n=112 | n=83 |
+| Weeks 1 to 12 | 32.3%* | 5.6% | 32.1%* | 9.6% |
+| 100 mg/day | n=56 | n=80 | n=56 | n=80 |
+| Weeks 1 to 5: | 24.7%* | 8.3% | 25.0%* | 11.3% |
+| 200 mg/day | n=55 | n=82 | n=55 | n=82 |
+| Weeks 2 to 6 | 20.4%* | 4.0% | 25.5%* | 9.8% |
 | *p<0.05 compared to placebo |  |  |  |  |
 
 Figure 1 presents the proportion of patients (X-axis) whose percentage reduction from baseline in the all partial seizure rate was at least as great as that indicated on the Y-axis in the second and third placebo-controlled trials.

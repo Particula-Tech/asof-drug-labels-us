@@ -6,7 +6,7 @@ Zonisamide should be administered once or twice daily, using 25 mg or 100 mg cap
 Zonisamide is given orally and can be taken with or without food.
 Capsules should be swallowed whole.
 
-## Adults over Age 16
+Adults over Age 16
 
 The prescriber should be aware that, because of the long half-life of zonisamide, up to two weeks may be required to achieve steady state levels upon reaching a stable dose or following dosage adjustment.
 Although the regimen described below is one that has been shown to be tolerated, the prescriber may wish to prolong the duration of treatment at the lower doses in order to fully assess the effects of zonisamide at steady state, noting that many of the side effects of zonisamide are more frequent at doses of 300 mg per day and above.
@@ -18,6 +18,6 @@ It can be increased to 300 mg/day and 400 mg/day, with the dose stable for at le
 Evidence from controlled trials suggests that zonisamide doses of 100 to 600 mg/day are effective, but there is no suggestion of increasing response above 400 mg/day (see CLINICAL PHARMACOLOGY, Clinical Studies subsection).
 There is little experience with doses greater than 600 mg/day.
 
-## Patients with Renal or Hepatic Disease
+Patients with Renal or Hepatic Disease
 
 Because zonisamide is metabolized in the liver and excreted by the kidneys, patients with renal or hepatic disease should be treated with caution, and might require slower titration and more frequent monitoring (see CLINICAL PHARMACOLOGY and PRECAUTIONS).

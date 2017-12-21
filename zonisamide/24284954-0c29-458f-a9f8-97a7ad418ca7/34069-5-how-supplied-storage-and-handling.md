@@ -12,4 +12,4 @@ Store at 20°C to 25°C (68°F to 77°F) [see USP Controlled Room Temperature], 
 
 Manufactured by: InvaGen Pharmaceuticals, Inc. Hauppauge, NY 11788
 
-Manufactured for: Exelan Pharmaceuticals, Inc. Peachtree City, GA 30269 Rev: 01/12
+Manufactured for: Exelan Pharmaceuticals, Inc. Lawrenceville, GA 30046 Rev: 08/12

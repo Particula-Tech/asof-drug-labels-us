@@ -7,7 +7,7 @@ Approximately 21% of the 1,336 patients with epilepsy who received zonisamide in
 The adverse events most commonly associated with discontinuation were somnolence, fatigue and/or ataxia (6%), anorexia (3%), difficulty concentrating (2%), difficulty with memory, mental slowing, nausea/vomiting (2%), and weight loss (1%).
 Many of these adverse events were dose-related (see WARNINGS and PRECAUTIONS).
 
-## Adverse Event Incidence in Controlled Clinical Trials
+Adverse Event Incidence in Controlled Clinical Trials
 
 Table 4 lists treatment-emergent adverse events that occurred in at least 2% of patients treated with zonisamide in controlled clinical trials that were numerically more common in the zonisamide group.
 In these studies, either zonisamide or placebo was added to the patient’s current AED therapy.
@@ -69,7 +69,7 @@ Incidence (%) of Treatment-Emergent Adverse Events in Placebo-Controlled, Add-On
 | Diplopia | 6 | 3 |
 | Taste Perversion | 2 | 0 |
 
-## Other Adverse Events Observed During Clinical Trials
+Other Adverse Events Observed During Clinical Trials
 
 zonisamide has been administered to 1,598 individuals during all clinical trials, only some of which were placebo-controlled.
 During these trials, all events were recorded by the investigators using their own terms.
@@ -117,3 +117,8 @@ Rare: Photophobia, iritis.
 
 Urogenital: Infrequent: Urinary frequency, dysuria, urinary incontinence, hematuria, impotence, urinary retention, urinary urgency, amenorrhea, polyuria, nocturia.
 Rare: Albuminuria, enuresis, bladder pain, bladder calculus, gynecomastia, mastitis, menorrhagia.
+
+POST MARKETING EXPERIENCE The following serious adverse events have been reported since approval and use of zonisamide worldwide.
+These reactions are reported voluntarily from a population of uncertain size; therefore, it is not possible to estimate their frequency or establish a causal relationship to drug exposure.
+
+Acute pancreatitis, rhabdomyolysis, creatine phosphokinase increased.

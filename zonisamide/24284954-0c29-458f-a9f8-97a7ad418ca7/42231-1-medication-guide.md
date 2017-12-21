@@ -6,7 +6,7 @@ Read this Medication Guide before you start taking zonisamide capsules and each 
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your medical condition or treatment.
 
-## What is the most important information I should know about zonisamide capsules?
+What is the most important information I should know about zonisamide capsules?
 
 Zonisamide capsules may cause serious side effects, including:
 
@@ -47,7 +47,7 @@ Call a healthcare provider right away if you have any of these symptoms, especia
 - Suicidal thoughts or actions can be caused by things other than medicines.
   If you have suicidal thoughts or actions, your healthcare provider may check for other causes.
 
-## How can I watch for early symptoms of suicidal thoughts and actions?
+How can I watch for early symptoms of suicidal thoughts and actions?
 
 - Pay attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
 - Keep all follow-up visits with your healthcare provider as scheduled.
@@ -84,17 +84,17 @@ For more information ask your healthcare provider or pharmacist.
 Tell your healthcare provider if you have any side effect that bothers you.
 Be sure to read the section titled “What are the possible side effects of zonisamide capsules?”
 
-## What is zonisamide?
+What is zonisamide?
 
 Zonisamide is a prescription medicine that is used with other medicines to treat partial seizures in adults.
 
 It is not known if zonisamide is safe or effective in children under 16 years of age.
 
-## Who should not take zonisamide capsules?
+Who should not take zonisamide capsules?
 
 Do not take zonisamide capsules if you are allergic to medicines that contain sulfa.
 
-## What should I tell my healthcare provider before taking zonisamide capsules?
+What should I tell my healthcare provider before taking zonisamide capsules?
 
 Before taking zonisamide capsules, tell your healthcare provider about all your medical conditions, including if you:
 
@@ -131,7 +131,7 @@ Zonisamide capsules and other medicines may affect each other causing side effec
 Know the medicines you take.
 Keep a list of them with you to show your healthcare provider and pharmacist each time you get a new medicine.
 
-## How should I take zonisamide capsules?
+How should I take zonisamide capsules?
 
 - Take zonisamide capsules exactly as prescribed.
   Your healthcare prescriber may change your dose.
@@ -142,14 +142,14 @@ Keep a list of them with you to show your healthcare provider and pharmacist eac
 - Do not stop taking zonisamide without talking to your healthcare provider.
   Stopping zonisamide capsules suddenly can cause serious problems, including seizures that will not stop (status epilepticus).
 
-## What should I avoid while taking zonisamide capsules?
+What should I avoid while taking zonisamide capsules?
 
 - Do not drink alcohol or take other drugs that make you sleepy or dizzy while taking zonisamide capsules until you talk to your health care provider.
   Zonisamide capsules taken with alcohol or drugs that cause sleepiness or dizziness may make your sleepiness or dizziness worse.
 - Do not drive, operate heavy machinery, or do other dangerous activities until you know how zonisamide affects you.
   Zonisamide can slow your thinking and motor skills.
 
-## What are the possible side effects of zonisamide capsules?
+What are the possible side effects of zonisamide capsules?
 
 Zonisamide capsules can cause serious side effects including:
 
@@ -177,7 +177,7 @@ For more information, ask your healthcare provider or pharmacist.
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
-## How should I store zonisamide capsules?
+How should I store zonisamide capsules?
 
 - Store zonisamide capsules at 20°C to 25°C (68°F to 77°F) [see USP Controlled Room Temperature]
 - dry and away from light
@@ -195,9 +195,9 @@ This Medication Guide summarizes the most important information about zonisamide
 If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about zonisamide capsules that is written for health professionals.
 
-For more information, go to www.exelanpharma.com or call 1-877-397-6028.
+For more information, go to www.exelanpharma.com or call 1-855-295-7455.
 
-## What are the ingredients in zonisamide capsules?
+What are the ingredients in zonisamide capsules?
 
 Active ingredient: zonisamide USP
 
@@ -209,8 +209,6 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Manufactured by: InvaGen Pharmaceuticals, Inc. Hauppauge, NY 11788
 
-Manufactured for: Exelan Pharmaceuticals, Inc. Peachtree City, GA 30269
+Manufactured for: Exelan Pharmaceuticals, Inc. Lawrenceville, GA 30046
 
-Rev: 01/12
-
-Barcode: 228-01-2012
+Rev: 08/12
