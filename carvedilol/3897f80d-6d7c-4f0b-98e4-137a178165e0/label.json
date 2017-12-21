@@ -1,0 +1,25 @@
+{
+  "application_numbers": [
+    "NDA022012"
+  ],
+  "inn": "carvedilol",
+  "labeler": "GlaxoSmithKline Inc",
+  "package_ndcs": [
+    "53873-011-00",
+    "53873-011-01",
+    "53873-012-00",
+    "53873-012-01",
+    "53873-013-00",
+    "53873-014-00",
+    "53873-014-01"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "carvedilol phosphate",
+      "name": "COREG"
+    }
+  ],
+  "setid": "3897f80d-6d7c-4f0b-98e4-137a178165e0",
+  "source": "dailymed"
+}
