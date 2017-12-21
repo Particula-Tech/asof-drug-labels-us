@@ -21,6 +21,6 @@ Each mL of Timolol GFS 0.5% contains 5.0 mg of timolol (6.8 mg of timolol maleat
 Inactive ingredients: xanthan gum, tromethamine, boric acid, mannitol, polysorbate-80, and purified water.
 Preservative: benzododecinium bromide 0.012%.
 
-Xanthan gum is a purified high molecular weight polysaccharide gum produced from the fermentation by bacterium Xanthomonascampestris.
+Xanthan gum is a purified high molecular weight polysaccharide gum produced from the fermentation by bacterium Xanthomonas campestris.
 An aqueous solution of xanthan gum, in the presence of tear protein (lysozyme), forms a gel.
 Upon contact with the precorneal tear film, Timolol GFS forms a gel that is subsequently removed by the flow of tears.
