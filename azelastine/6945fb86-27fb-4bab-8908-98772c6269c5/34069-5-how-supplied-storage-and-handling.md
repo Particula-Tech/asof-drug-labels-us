@@ -2,7 +2,7 @@
 
 Azelastine Hydrochloride Ophthalmic Solution, 0.05% is supplied sterile in a natural LDPE plastic DROP-TAINER* bottle with a natural LDPE dropper tip and a white polypropylene cap as follows:
 
-6 mL in 8 mL bottle NDC 61314-308-02
+1. 6 mL in 8 mL bottle NDC 61314-308-02
 
 Storage
 
