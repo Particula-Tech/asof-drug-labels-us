@@ -13,5 +13,5 @@ The pKa of ketorolac is 3.5.
 This white to off-white crystalline substance discolors on prolonged exposure to light.
 The osmolality of ACUVAIL® solution is approximately 285 mOsml/kg.
 
-Each mL of ACUVAIL® ophthalmic solution contains: Active: ketorolac tromethamine 0.45%.
+Contains: Active: ketorolac tromethamine 0.45%.
 Inactives: carboxymethylcellulose sodium; sodium chloride; sodium citrate dihydrate; and purified water with sodium hydroxide and/or hydrochloric acid to adjust pH.
