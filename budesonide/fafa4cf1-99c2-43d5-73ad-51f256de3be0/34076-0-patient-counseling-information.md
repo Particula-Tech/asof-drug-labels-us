@@ -1,9 +1,9 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Medication Guide).
+Advise the patient to read the FDA-approved patient labeling (Patient Information and Instructions for Use).
 
-Asthma-Related Death: Inform patients with asthma that formoterol fumarate dihydrate, one of the active ingredients in SYMBICORT, increases the risk of asthma-related death and may increase the risk of asthma-related hospitalization in pediatric and adolescent patients.
-Also inform them that currently available data are inadequate to determine whether concurrent use of inhaled corticosteroids or other long-term asthma control drugs mitigates the increased risk of asthma-related death from LABA.
+Serious Asthma-Related Events: Inform patients with asthma that LABA when used alone increases the risk of asthma-related hospitalization or asthma-related death.
+Available data show that when ICS and LABA are used together, such as with SYMBICORT, there is not a significant increase in risk of these events.
 
 Not for Acute Symptoms: Inform patients that SYMBICORT is not meant to relieve acute symptoms of asthma or COPD and extra doses should not be used for that purpose.
 Advise patients to treat acute symptoms with an inhaled, short-acting beta2-agonist such as albuterol.

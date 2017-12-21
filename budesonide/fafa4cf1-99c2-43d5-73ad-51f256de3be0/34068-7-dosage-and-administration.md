@@ -3,7 +3,7 @@
 ## 2.1 Administration Information
 
 SYMBICORT should be administered as 2 inhalations twice daily (morning and evening, approximately 12 hours apart), every day by the orally inhaled route only.
-After inhalation, the patient should rinse the mouth with water without swallowing [see Patient Counseling Information (17.4)].
+After inhalation, the patient should rinse the mouth with water without swallowing.
 
 Prime SYMBICORT before using for the first time by releasing two test sprays into the air away from the face, shaking well for 5 seconds before each spray.
 In cases where the inhaler has not been used for more than 7 days or when it has been dropped, prime the inhaler again by shaking well before each spray and releasing two test sprays into the air away from the face.
@@ -19,7 +19,7 @@ Adult and Adolescent Patients 12 Years of Age and Older
 
 For patients 12 years of age and older, the dosage is 2 inhalations of SYMBICORT 80/4.5 or SYMBICORT 160/4.5 twice daily.
 
-The recommended starting dosages for SYMBICORT for patients 12 years of age and older are based upon patients' asthma severity.
+The recommended starting dosages for SYMBICORT for patients 12 years of age and older are based upon patients' asthma severity or level of control of asthma symptoms, and risk of exacerbations on current inhaled corticosteroids.
 
 The maximum recommended dosage in adult and adolescent patients 12 years and older is SYMBICORT 160/4.5, two inhalations twice daily.
 
@@ -30,7 +30,7 @@ For patients who do not respond adequately to the starting dose after 1-2 weeks 
 
 If a previously effective dosage regimen of SYMBICORT fails to provide adequate control of asthma, the therapeutic regimen should be re-evaluated and additional therapeutic options, (e.g., replacing the lower strength of SYMBICORT with the higher strength, adding additional inhaled corticosteroid, or initiating oral corticosteroids) should be considered.
 
-Pediatric Patients Aged 6 to less than 12 Years
+Pediatric Patients Aged 6 to Less than 12 Years
 
 For patients 6 to less than 12 years of age, the dosage is 2 inhalations of SYMBICORT 80/4.5 twice daily.
 

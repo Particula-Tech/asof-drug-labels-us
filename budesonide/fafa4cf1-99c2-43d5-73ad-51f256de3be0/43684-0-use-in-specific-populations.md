@@ -130,7 +130,7 @@ To minimize the systemic effects of orally inhaled corticosteroids, including SY
 
 ## 8.5 Geriatric Use
 
-Of the total number of patients in asthma clinical studies treated with SYMBICORT twice daily, 149 were 65 years of age or older, of whom 25 were 75 years of age or older.
+Of the total number of asthma patients treated with SYMBICORT twice daily in two 12-week studies and a 26-week postmarketing study, 791 were 65 years of age or older, of whom 141 were 75 years of age or older.
 
 In the COPD studies of 6 to 12 months duration, 810 patients treated with SYMBICORT 160/4.5, two inhalations twice daily were 65 years old and above and of those, 177 patients were 75 years of age and older.
 No overall differences in safety or effectiveness were observed between these patients and younger patients, and other reported clinical experience has not identified differences in responses between the elderly and younger patients.

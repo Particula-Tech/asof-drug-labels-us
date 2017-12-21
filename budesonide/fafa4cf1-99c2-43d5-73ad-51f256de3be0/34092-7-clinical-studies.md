@@ -21,9 +21,9 @@ The co-primary efficacy end points were 12-hour-average post-dose FEV1 at week 2
 The study also required that patients who satisfied a predefined asthma-worsening criterion be withdrawn.
 The predefined asthma-worsening criteria were a clinically important decrease in FEV1 or PEF, increase in rescue albuterol use, nighttime awakening due to asthma, emergency intervention or hospitalization due to asthma, or requirement for asthma medication not allowed by the protocol.
 For the criterion of nighttime awakening due to asthma, patients were allowed to remain in the study at the discretion of the investigator if none of the other asthma-worsening criteria were met.
-The percentage of patients withdrawing due to or meeting predefined criteria for worsening asthma is shown in Table 3.
+The percentage of patients withdrawing due to or meeting predefined criteria for worsening asthma is shown in Table 4.
 
-Table 3 The number and percentage of patients withdrawing due to or meeting predefined criteria for worsening asthma (Study 1)
+Table 4 The number and percentage of patients withdrawing due to or meeting predefined criteria for worsening asthma (Study 1)
 
 |  | SYMBICORT 160/4.5 n = 124 | Budesonide160 mcg plus Formoterol4.5 mcgn = 115 | Budesonide160 mcgn = 109 | Formoterol4.5 mcgn = 123 | Placebon = 125 |
 | --- | --- | --- | --- | --- | --- |
@@ -41,9 +41,9 @@ Patients receiving SYMBICORT 160/4.5 had significantly greater mean improvements
 
 Figure 1 Mean Percent Change From Baseline in Pre-dose FEV1 Over 12 Weeks (Study 1)
 
-The effect of SYMBICORT 160/4.5 two inhalations twice daily on selected secondary efficacy variables, including morning and evening PEF, albuterol rescue use, and asthma symptoms over 24 hours on a 0-3 scale is shown in Table 4.
+The effect of SYMBICORT 160/4.5 two inhalations twice daily on selected secondary efficacy variables, including morning and evening PEF, albuterol rescue use, and asthma symptoms over 24 hours on a 0-3 scale is shown in Table 5.
 
-Table 4 Mean values for selected secondary efficacy variables (Study 1)
+Table 5 Mean values for selected secondary efficacy variables (Study 1)
 
 | Efficacy Variable | SYMBICORT 160/4.5 (nNumber of patients (n) varies slightly due to the number of patients for whom data were available for each variable. Results shown are based on last available data for each variable.=124) | Budesonide 160 mcg plus Formoterol 4.5 mcg (n=115) | Budesonide 160 mcg (n=109) | Formoterol 4.5 mcg (n=123) | Placebo (n=125) |
 | --- | --- | --- | --- | --- | --- |
@@ -68,10 +68,10 @@ Most patients had mild to moderate asthma and were using low to moderate doses o
 Mean percent predicted FEV1 at baseline was 71.3% and was similar across treatment groups.
 Efficacy variables and end points were identical to those in Study 1.
 
-The percentage of patients withdrawing due to or meeting predefined criteria for worsening asthma is shown in Table 5.
+The percentage of patients withdrawing due to or meeting predefined criteria for worsening asthma is shown in Table 6.
 The method of assessment and criteria used were identical to that in Study 1.
 
-Table 5 The number and percentage of patients withdrawing due to or meeting predefined criteria for worsening asthma (Study 2)
+Table 6 The number and percentage of patients withdrawing due to or meeting predefined criteria for worsening asthma (Study 2)
 
 |  | SYMBICORT80/4.5 (n=123) | Budesonide80 mcg(n=121) | Formoterol4.5 mcg(n=114) | Placebo(n=122) |
 | --- | --- | --- | --- | --- |
@@ -106,7 +106,7 @@ FEV1 data from Study 1 evaluating SYMBICORT 160/4.5 is displayed in Figures 3 an
 
 Figure 3 Mean Percent Change From Baseline in FEV1 on Day of Randomization (Study 1)
 
-Figure 4 Mean Percent Change From Baseline in FEV1 At End of Treatment (Study 1)
+Figure 4 Mean Percent Change From Baseline in FEV1 at End of Treatment (Study 1)
 
 Patients with asthma 6 to less than 12 years of age
 
@@ -130,6 +130,33 @@ The estimated mean difference between SYMBICORT 80/4.5 and budesonide with respe
 No differences between SYMBICORT and budesonide were noted in nighttime awakenings, rescue albuterol use, or Pediatric Asthma Quality of Life Questionnaire (PAQLQ) scores.
 The proportion of patients with at least 0.5 points improvement from baseline to Week 12 in PAQLQ was 42% on SYMBICORT 80/4.5 and 46% on budesonide 80 mcg.
 
+Postmarketing Safety and Efficacy Study
+
+A randomized, double-blind, parallel-group, safety study compared SYMBICORT with budesonide, each administered as 2 inhalations twice daily over 26 weeks (NCT01444430).
+The primary safety objective was to evaluate whether the addition of formoterol to budesonide therapy (SYMBICORT) was non-inferior to budesonide in terms of the risk of serious asthma-related events (asthma-related hospitalization, endotracheal intubation and death).
+The study was designed to rule out a pre-defined risk margin of serious asthma-related events of 2.0.
+A blinded adjudication committee determined whether events were asthma-related.
+
+This study enrolled patients who were 12 years of age and older, had a clinical diagnosis of asthma for at least 1 year, and had at least 1 asthma exacerbation requiring treatment with systemic corticosteroids or an asthma-related hospitalization in the previous year.
+Patients were stratified to one of the two dose levels of SYMBICORT or budesonide based on assessment of asthma control and ongoing asthma therapy.
+Patients with a history of life-threatening asthma were excluded.
+The study included 11,693 patients [5846 receiving SYMBICORT (80/4.5 or 160/4.5) and 5847 receiving budesonide (80 or 160 mcg)], whose mean age was 44 years, and of whom 66% were female and 69% were Caucasian.
+
+SYMBICORT was non-inferior to budesonide in terms of time to first serious asthma-related events based on the pre-specified risk margin, with an estimated hazard ratio of 1.07 [95% CI: 0.70, 1.65] (Table 7).
+
+Table 7 Serious Asthma-Related Events (Postmarketing Safety and Efficacy study)
+
+|  | SYMBICORT (NN = total number of patients=5846) nn = number of patients with the event (%) | Budesonide (N=5847) n (%) | SYMBICORT vs. Budesonide Hazard ratio (95% CI)The hazard ratio for time to first event was based on a non-stratified Cox proportional hazard model with covariates of treatment (SYMBICORT vs. budesonide) and inhaled corticosteroid dose level (160 mcg vs. 80 mcg), as randomized. If the resulting upper 95% CI estimate for the relative risk was < 2.0, then non-inferiority was concluded. |
+| --- | --- | --- | --- |
+| Serious asthma-related eventAsthma-related hospitalization, endotracheal intubation, or death that occurred within 6 months after the first use of study drug or 7 days after the last date of study drug, whichever date was later. Patients can have one or more events, but only the first event was counted for analysis. A single, blinded, independent adjudication committee determined whether events were asthma-related. | 43 (0.7) | 40 (0.7) | 1.07 (0.70, 1.65) |
+| Asthma-related death | 2 (<0.1) | 0 |  |
+| Asthma-related endotracheal intubation | 1 (<0.1) | 0 |  |
+| Asthma-related hospitalization | 42 (0.7) | 40 (0.7) |  |
+
+The primary efficacy endpoint was asthma exacerbations, defined as a deterioration of asthma that led to use of systemic corticosteroids for at least 3 days, or a hospitalization, or an emergency room visit that required systemic corticosteroids.
+The estimated hazard ratio for time to first asthma exacerbation rate for SYMBICORT relative to budesonide was 0.84 [95% CI: 0.75, 0.94].
+This outcome was primarily driven by a reduction in systemic corticosteroid use.
+
 ## 14.2 Chronic Obstructive Pulmonary Disease
 
 Lung Function
@@ -150,7 +177,7 @@ The patients were randomized to one of the following treatment groups: SYMBICORT
 Patients receiving SYMBICORT 160/4.5, two inhalations twice daily, had significantly greater mean improvements from baseline in pre-dose FEV1 averaged over the treatment period [0.08 L, 10.7%] compared with formoterol 4.5 mcg [0.04 L, 6.9%] and placebo [0.01 L, 2.2%] (see Figure 6).
 Patients receiving SYMBICORT 80/4.5, two inhalations twice daily, did not have significantly greater improvement from baseline in the pre-dose FEV1 averaged over the treatment period compared with formoterol 4.5 mcg.
 
-Figure 6 Mean Percent Change From Baseline in Pre-dose FEV1 Over 6 months (Study 1)
+Figure 6 Mean Percent Change From Baseline in Pre-dose FEV1 over 6 Months (Study 1)
 
 Patients receiving SYMBICORT 160/4.5, two inhalations twice daily, had significantly greater mean improvements from baseline in 1-hour post-dose FEV1 averaged over the treatment period [0.20 L, 22.6%], compared with budesonide 160 mcg [0.03 L, 4.9%] and placebo [0.03 L, 4.1%] (see Figure 7).
 
@@ -194,9 +221,9 @@ They had a mean age of 63 years and a median smoking history of 45 pack years, w
 At run-in, the mean post-bronchodilator % predicted normal FEV1 was 37.8% (range: 11.75% to 76.50%), and a history of at least 1 COPD exacerbation in the previous year treated with systemic corticosteroids and/or antibiotics.
 
 In Study 3, subjects treated with SYMBICORT 160/4.5, two inhalations twice daily had a significantly lower annual rate of moderate/severe COPD exacerbations compared with formoterol 4.5 mcg with a reduction of 26% (95% CI: 9%, 39%).
-In Study 4, a significantly lower annual rate of exacerbations was also observed in subjects treated with SYMBICORT 160/4.5 compared with formoterol 4.5 mcg with a reduction of 35% (95% CI: 20%, 47%) (Table 6).
+In Study 4, a significantly lower annual rate of exacerbations was also observed in subjects treated with SYMBICORT 160/4.5 compared with formoterol 4.5 mcg with a reduction of 35% (95% CI: 20%, 47%) (Table 8).
 
-Table 6 Chronic Obstructive Pulmonary Disease Exacerbations
+Table 8 Chronic Obstructive Pulmonary Disease Exacerbations
 
 |  | n | Annual Rate Estimate | Rate ratio Symbicort 160/4.5 vs. Formoterol 4.5 mcg |  |
 | --- | --- | --- | --- | --- |

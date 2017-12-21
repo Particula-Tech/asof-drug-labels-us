@@ -4,11 +4,7 @@
 
 SYMBICORT is indicated for the treatment of asthma in patients 6 years of age and older.
 
-LABA, such as formoterol, one of the active ingredients in SYMBICORT, increase the risk of asthma-related death.
-Available data from controlled clinical trials suggest that LABA increase the risk of asthma-related hospitalization in pediatric and adolescent patients [see Warnings and Precautions (5.1)].
-Therefore, when treating patients with asthma, SYMBICORT should only be used for patients not adequately controlled on a long-term asthma-control medication such as an inhaled corticosteroid or whose disease severity clearly warrants initiation of treatment with both an inhaled corticosteroid and LABA.
-Once asthma control is achieved and maintained, assess the patient at regular intervals and step down therapy (e.g., discontinue SYMBICORT) if possible without loss of asthma control, and maintain the patient on a long-term asthma control medication, such as inhaled corticosteroid.
-Do not use SYMBICORT for patients whose asthma is adequately controlled on low or medium dose inhaled corticosteroids.
+SYMBICORT should be used for patients not adequately controlled on a long-term asthma-control medication such as an inhaled corticosteroid (ICS) or whose disease warrants initiation of treatment with both an inhaled corticosteroid and long-acting beta2-adrenergic agonist (LABA).
 
 Important Limitations of Use:
 
@@ -16,7 +12,7 @@ Important Limitations of Use:
 
 ## 1.2 Maintenance Treatment of Chronic Obstructive Pulmonary Disease
 
-SYMBICORT 160/4.5 is indicated for the twice daily maintenance treatment of airflow obstruction in patients with chronic obstructive pulmonary disease (COPD) including chronic bronchitis and/or emphysema.
+SYMBICORT 160/4.5 is indicated for the maintenance treatment of airflow obstruction in patients with chronic obstructive pulmonary disease (COPD) including chronic bronchitis and/or emphysema.
 SYMBICORT 160/4.5 is also indicated to reduce exacerbations of COPD.
 SYMBICORT 160/4.5 is the only strength indicated for the treatment of COPD.
 

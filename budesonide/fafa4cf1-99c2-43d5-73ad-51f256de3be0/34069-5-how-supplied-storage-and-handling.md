@@ -14,7 +14,7 @@ Dosage Forms and Strengths
 Each strength is supplied as a pressurized aluminum canister with an attached counting device, a red plastic actuator body with a white mouthpiece, and attached gray dust cap.
 Each 120 inhalation canister has a net fill weight of 10.2 grams and each 60 inhalation canister has a net fill weight of 6.9 grams (SYMBICORT 80/4.5) or 6 grams (SYMBICORT 160/4.5).
 Each canister is packaged in a foil overwrap pouch with desiccant sachet and placed into a carton.
-Each carton contains one canister and a Medication Guide.
+Each carton contains one canister and a Patient Information leaflet.
 
 The SYMBICORT canister should only be used with the SYMBICORT actuator, and the SYMBICORT actuator should not be used with any other inhalation drug product.
 
