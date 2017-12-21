@@ -1,0 +1,34 @@
+{
+  "application_numbers": [
+    "NDA209806"
+  ],
+  "inn": "ertugliflozin",
+  "labeler": "Merck Sharp & Dohme Corp.",
+  "package_ndcs": [
+    "0006-5369-03",
+    "0006-5369-06",
+    "0006-5369-07",
+    "0006-5370-03",
+    "0006-5370-06",
+    "0006-5370-07",
+    "0006-5373-03",
+    "0006-5373-06",
+    "0006-5373-07",
+    "0006-5373-08",
+    "0006-5373-09",
+    "0006-5374-03",
+    "0006-5374-06",
+    "0006-5374-07",
+    "0006-5374-08",
+    "0006-5374-09"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "ertugliflozin and metformin hydrochloride",
+      "name": "SEGLUROMET"
+    }
+  ],
+  "setid": "a6aeb99a-ce49-4125-90ce-642df3f1ebad",
+  "source": "dailymed"
+}
