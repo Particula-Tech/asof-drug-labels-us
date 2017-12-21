@@ -1,4 +1,4 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED
 
 Dorzolamide Hydrochloride Ophthalmic Solution is a slightly opalescent, nearly colorless, slightly viscous solution.
 
@@ -10,5 +10,3 @@ Storage
 
 Store Dorzolamide Hydrochloride Ophthalmic Solution at 2° - 25°C (36° -77°F).
 Protect from light.
-
-Rx only

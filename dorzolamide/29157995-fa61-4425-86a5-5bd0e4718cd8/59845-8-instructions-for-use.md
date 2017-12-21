@@ -1,4 +1,10 @@
-# HOW TO USE THE DROP-TAINER®* BOTTLE
+# INSTRUCTIONS FOR USE
+
+Dorzolamide Hydrochloride Ophthalmic Solution, 2%
+
+(door-ZOLE-ah-mide)
+
+## HOW TO USE THE DROP-TAINER®* BOTTLE
 
 The DROP-TAINER®* bottle is designed to assure the delivery of a precise dose of medication.
 Before using your DROP-TAINER® bottle, read the complete instructions carefully.
@@ -54,6 +60,29 @@ After you have used all doses, there will be some Dorzolamide Hydrochloride Opht
 You should not be concerned since an extra amount of Dorzolamide Hydrochloride Ophthalmic Solution has been added and you will get the full amount of Dorzolamide Hydrochloride Ophthalmic Solution that your doctor prescribed.
 Do not attempt to remove excess medicine from the bottle.
 
+How should I store Dorzolamide Hydrochloride Ophthalmic Solution?
+
+• Store Dorzolamide Hydrochloride Ophthalmic Solution at 2° - 25°C (36° -77°F).
+
+• Protect from light
+
+• Safely throw away medicine that is out of date or no longer needed.
+
+• If you have any eye or skin reactions, especially conjunctivitis or eyelid reactions to dorzolamide hydrochloride ophthalmic solution, stop using it and call your doctor right away.
+
+• If you have eye surgery or have a problem such as trauma or infection of your eye while using dorzolamide hydrochloride ophthalmic solution, call your doctor right away.
+
+• If you do not handle eye medicines the right way the medicine can become contaminated.
+If the tip of the dispenser touches your eye or areas around your eye, the tip can become contaminated with bacteria which can cause an eye infection and other serious problems including loss of eyesight.
+
+• If you use other eye medicines dropped onto the eye like dorzolamide hydrochloride ophthalmic solution, use the medicines at least 5 minutes before or after you use dorzolamide hydrochloride ophthalmic solution.
+
+• Dorzolamide hydrochloride ophthalmic solution contains benzalkonium chloride which may be absorbed by soft contact lenses.
+If you wear contact lenses, remove them before you use your dorzolamide hydrochloride ophthalmic solution.
+You can place your contact lenses back into your eyes 15 minutes after using your dorzolamide hydrochloride ophthalmic solution.
+
+This Instructions for Use has been approved by the U.S. Food and Drug Administration.
+
 WARNING: Keep out of reach of children.
 
 If you have any questions about the use of Dorzolamide Hydrochloride Ophthalmic Solutions, please consult your doctor.
@@ -62,6 +91,11 @@ If you have any questions about the use of Dorzolamide Hydrochloride Ophthalmic 
 
 SANDOZ
 
-Manufactured by Alcon Laboratories, Inc. Fort Worth, Texas 76134 for Sandoz Inc. Princeton, NJ 08540
+Manufactured by Alcon Manufacturing, Ltd
 
-9006757-0511
+Fort Worth, Texas 76134-2009 for
+
+Sandoz Inc., Princeton, NJ 08540
+
+Rev.
+October 2017
