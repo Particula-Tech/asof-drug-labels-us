@@ -14,8 +14,7 @@ This will usually be noted within minutes of the injection of spinal anesthetic 
 Cardiovascular System: Hypotension due to loss of sympathetic tone is a commonly encountered extension of the clinical pharmacology of spinal anesthesia.
 This is more commonly observed in elderly patients, particularly those with hypertension, and patients with shrunken blood volume, shrunken interstitial fluid volume, cephalad spread of the local anesthetic, and/or mechanical obstruction of venous return.
 Nausea and vomiting are frequently associated with hypotensive episodes following the administration of spinal anesthesia.
-High doses, or inadvertent intravascular injection, may lead to high plasma levels and related depression of the myocardium, decreased cardiac output, bradycardia, heart block, ventricular arrhythmias, and, possibly, cardiac arrest.
-(See WARNINGS, PRECAUTIONS, and OVERDOSAGE sections.)
+High doses, or inadvertent intravascular injection, may lead to high plasma levels and related depression of the myocardium, decreased cardiac output, bradycardia, heart block, ventricular arrhythmias, and, possibly, cardiac arrest (see WARNINGS, PRECAUTIONS, and OVERDOSAGE sections).
 
 Central Nervous System: Respiratory paralysis or underventilation secondary to cephalad spread of the level of spinal anesthesia (see Respiratory System) and hypotension for the same reason (see Cardiovascular System) are the two most commonly encountered central nervous system-related adverse observations which demand immediate countermeasures.
 
