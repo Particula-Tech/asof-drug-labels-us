@@ -1,0 +1,29 @@
+{
+  "application_numbers": [
+    "NDA209803"
+  ],
+  "inn": "ertugliflozin",
+  "labeler": "Merck Sharp & Dohme Corp.",
+  "package_ndcs": [
+    "0006-5363-03",
+    "0006-5363-06",
+    "0006-5363-07",
+    "0006-5363-08",
+    "0006-5363-09",
+    "0006-5363-10",
+    "0006-5364-03",
+    "0006-5364-06",
+    "0006-5364-07",
+    "0006-5364-08",
+    "0006-5364-09"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "ertugliflozin",
+      "name": "STEGLATRO"
+    }
+  ],
+  "setid": "e6f3e718-bb99-48f1-ab94-b9f0af05fed6",
+  "source": "dailymed"
+}
