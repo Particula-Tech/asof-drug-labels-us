@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA206218"
+  ],
+  "inn": "benzoyl-peroxide",
+  "labeler": "Taro Pharmaceuticals U.S.A., Inc.",
+  "package_ndcs": [
+    "51672-1366-6"
+  ],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "clindamycin phosphate and benzoyl peroxide",
+      "name": "Clindamycin Phosphate and Benzoyl Peroxide"
+    }
+  ],
+  "setid": "b39aaacb-f429-4cb4-b88b-341b8b8b217c",
+  "source": "dailymed"
+}

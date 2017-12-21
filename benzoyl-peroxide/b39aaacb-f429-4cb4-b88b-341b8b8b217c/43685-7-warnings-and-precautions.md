@@ -1,0 +1,23 @@
+# 5 WARNINGS AND PRECAUTIONS
+
+## 5.1 Colitis
+
+Systemic absorption of clindamycin has been demonstrated following topical use of clindamycin.
+
+Diarrhea, bloody diarrhea, and colitis (including pseudomembranous colitis) have been reported with the use of topical and systemic clindamycin.
+If significant diarrhea occurs, clindamycin phosphate and benzoyl peroxide gel should be discontinued.
+
+Severe colitis has occurred following oral and parenteral administration of clindamycin with an onset of up to several weeks following cessation of therapy.
+Antiperistaltic agents such as opiates and diphenoxylate with atropine may prolong and/or worsen severe colitis.
+Severe colitis may result in death.
+
+Studies indicate a toxin(s) produced by Clostridia is one primary cause of antibiotic-associated colitis.
+The colitis is usually characterized by severe persistent diarrhea and severe abdominal cramps and may be associated with the passage of blood and mucus.
+Stool cultures for Clostridium difficile and stool assay for C. difficile toxin may be helpful diagnostically.
+
+## 5.2 Ultraviolet Light and Environmental Exposure
+
+Benzoyl peroxide, a component of clindamycin phosphate and benzoyl peroxide gel, may cause increased sensitivity to sunlight.
+Minimize sun exposure (including use of tanning beds or sun lamps) following drug application.
+[See Nonclinical Toxicology (13.1).]
+Patients who may be required to have considerable sun exposure due to occupation and those with inherent sensitivity to the sun should exercise particular caution.
