@@ -2,7 +2,7 @@ PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0524-00
 
-IMITREX®
+IMITREX
 
 (SUMATRIPTAN)
 
@@ -24,16 +24,18 @@ Rx only
 
 6 Nasal Spray Units
 
-©2015, the GSK group of companies
+Made in Spain
 
-1. 10000000135323 Rev.
-   6/15
+©2017 GSK group of companies or licensor.
+
+1. 62000000017582 Rev.
+   9/17
 
 PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0523-00
 
-IMITREX®
+IMITREX
 
 (SUMATRIPTAN)
 
@@ -55,7 +57,7 @@ Rx only
 
 6 Nasal Spray Units
 
-©2015, the GSK group of companies
+©2017 GSK group of companies or licensor.
 
-1. 10000000135321 Rev.
-   6/15
+1. 62000000017579 Rev.
+   9/17
