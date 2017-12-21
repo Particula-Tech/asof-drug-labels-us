@@ -1,6 +1,6 @@
 # 4 CONTRAINDICATIONS
 
-IMITREX Injection is contraindicated in patients with:
+IMITREX injection is contraindicated in patients with:
 
 - •Ischemic coronary artery disease (CAD) (angina pectoris, history of myocardial infarction, or documented silent ischemia) or coronary artery vasospasm, including Prinzmetal’s angina [see Warnings and Precautions (5.1)].
 - •Wolff-Parkinson-White syndrome or arrhythmias associated with other cardiac accessory conduction pathway disorders [see Warnings and Precautions (5.2)].

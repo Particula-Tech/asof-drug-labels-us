@@ -21,7 +21,7 @@ Transient increases in blood pressure observed in some patients in clinical tria
 
 ## 12.3 Pharmacokinetics
 
-Absorption and Bioavailability
+Absorption
 
 The bioavailability of sumatriptan via subcutaneous site injection to 18 healthy male subjects was 97% ± 16% of that obtained following intravenous injection.
 
@@ -49,23 +49,15 @@ Following a 6-mg subcutaneous injection into the deltoid area of the arm, the sy
 
 Specific Populations
 
-Age
+Age: The pharmacokinetics of sumatriptan in the elderly (mean age: 72 years, 2 males and 4 females) and in subjects with migraine (mean age: 38 years, 25 males and 155 females) were similar to that in healthy male subjects (mean age: 30 years).
 
-The pharmacokinetics of sumatriptan in the elderly (mean age: 72 years, 2 males and 4 females) and in subjects with migraine (mean age: 38 years, 25 males and 155 females) were similar to that in healthy male subjects (mean age: 30 years).
-
-Hepatic Impairment
-
-The effect of mild to moderate hepatic disease on the pharmacokinetics of subcutaneously administered sumatriptan has been evaluated.
+Patients with Hepatic Impairment: The effect of mild to moderate hepatic disease on the pharmacokinetics of subcutaneously administered sumatriptan has been evaluated.
 There were no significant differences in the pharmacokinetics of subcutaneously administered sumatriptan in moderately hepatically impaired subjects compared with healthy controls.
 The pharmacokinetics of subcutaneously administered sumatriptan in patients with severe hepatic impairment has not been studied.
-The use of IMITREX Injection in this population is contraindicated [see Contraindications (4)].
+The use of IMITREX injection in this population is contraindicated [see Contraindications (4)].
 
-Race
-
-The systemic clearance and Cmax of subcutaneous sumatriptan were similar in black (n = 34) and Caucasian (n = 38) healthy male subjects.
+Racial Groups: The systemic clearance and Cmax of subcutaneous sumatriptan were similar in black (n = 34) and Caucasian (n = 38) healthy male subjects.
 
 Drug Interaction Studies
 
-Monoamine Oxidase-A Inhibitors
-
-In a trial of 14 healthy females, pretreatment with an MAO-A inhibitor decreased the clearance of subcutaneous sumatriptan, resulting in a 2-fold increase in the area under the sumatriptan plasma concentration-time curve (AUC), corresponding to a 40% increase in elimination half-life.
+Monoamine Oxidase-A Inhibitors: In a trial of 14 healthy females, pretreatment with an MAO-A inhibitor decreased the clearance of subcutaneous sumatriptan, resulting in a 2-fold increase in the area under the sumatriptan plasma concentration-time curve (AUC), corresponding to a 40% increase in elimination half-life.

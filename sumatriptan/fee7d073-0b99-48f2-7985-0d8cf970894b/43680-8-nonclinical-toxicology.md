@@ -4,7 +4,7 @@
 
 Carcinogenesis
 
-In carcinogenicity studies in mouse and rat in which sumatriptan was administered orally for 78 weeks and 104 weeks, respectively, at doses up to 160 mg/kg/day (the highest dose in rat was reduced from 360 mg/kg/day during Week 21).
+In carcinogenicity studies in mouse and rat, sumatriptan was administered orally for 78 weeks and 104 weeks, respectively, at doses up to 160 mg/kg/day (the high dose in rat was reduced from 360 mg/kg/day during Week 21).
 The highest dose to mice and rats was approximately 130 and 260 times the single MRHD of 6 mg administered subcutaneously on a mg/m2 basis.
 There was no evidence in either species of an increase in tumors related to sumatriptan administration.
 
@@ -14,9 +14,10 @@ Sumatriptan was negative in in vitro (bacterial reverse mutation [Ames], gene ce
 
 Impairment of Fertility
 
-When sumatriptan was administered by subcutaneous injection to male and female rats prior to and throughout the mating period, there was no evidence of impaired fertility at doses up to 60 mg/kg/day or approximately 100 times the single human dose of 6 mg on a mg/m2 basis.
 When sumatriptan (5, 50, 500 mg/kg/day) was administered orally to male and female rats prior to and throughout the mating period, there was a treatment-related decrease in fertility secondary to a decrease in mating in animals treated with doses greater than 5 mg/kg/day.
 It is not clear whether this finding was due to an effect on males or females or both.
+
+When sumatriptan was administered by subcutaneous injection to male and female rats prior to and throughout the mating period, there was no evidence of impaired fertility at doses up to 60 mg/kg/day.
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 

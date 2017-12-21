@@ -19,13 +19,13 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Migraine Headache
 
-Table 1 lists adverse reactions that occurred in 2 US placebo-controlled clinical trials in migraine patients (Studies 2 and 3) following either a single 6-mg dose of IMITREX Injection or placebo.
-Only reactions that occurred at a frequency of 2% or more in groups treated with IMITREX Injection 6 mg and that occurred at a frequency greater than the placebo group are included in Table 1.
+Table 1 lists adverse reactions that occurred in 2 U.S. placebo‑controlled clinical trials in patients with migraines (Studies 2 and 3) following either a single 6‑mg dose of IMITREX injection or placebo.
+Only reactions that occurred at a frequency of 2% or more in groups treated with IMITREX injection 6 mg and that occurred at a frequency greater than the placebo group are included in Table 1.
 
 Table 1.
 Adverse Reactions in Pooled Placebo-Controlled Trials in Patients with Migraine (Studies 2 and 3)
 
-|  | IMITREX Injection6 mg Subcutaneous(n = 547)% | Placebo(n = 370)% |
+| Adverse Reaction | IMITREX Injection6 mg Subcutaneous(n = 547)% | Placebo(n = 370)% |
 | --- | --- | --- |
 | Atypical sensations | 42 | 9 |
 | Tingling | 14 | 3 |
@@ -66,14 +66,14 @@ There were insufficient data to assess the impact of race on the incidence of ad
 
 Cluster Headache
 
-In the controlled clinical trials assessing the efficacy of IMITREX Injection as a treatment for cluster headache (Studies 4 and 5), no new significant adverse reactions were detected that had not already been identified in trials of IMITREX in patients with migraine.
+In the controlled clinical trials assessing the efficacy of IMITREX injection as a treatment for cluster headache (Studies 4 and 5), no new significant adverse reactions were detected that had not already been identified in trials of IMITREX in patients with migraine.
 
 Overall, the frequency of adverse reactions reported in the trials of cluster headache was generally lower than in the migraine trials.
-Exceptions include reports of paresthesia (5% IMITREX Injection, 0% placebo), nausea and vomiting (4% IMITREX Injection, 0% placebo), and bronchospasm (1% IMITREX Injection, 0% placebo).
+Exceptions include reports of paresthesia (5% IMITREX injection, 0% placebo), nausea and vomiting (4% IMITREX injection, 0% placebo), and bronchospasm (1% IMITREX injection, 0% placebo).
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during postapproval use of IMITREX Tablets, IMITREX Nasal Spray, and IMITREX Injection.
+The following adverse reactions have been identified during postapproval use of IMITREX tablets, IMITREX nasal spray, and IMITREX injection.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Cardiovascular
