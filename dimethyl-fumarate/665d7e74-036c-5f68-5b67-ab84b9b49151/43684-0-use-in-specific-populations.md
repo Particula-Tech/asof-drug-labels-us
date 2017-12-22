@@ -2,11 +2,22 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C
+Pregnancy Exposure Registry
 
-There are no adequate and well-controlled studies in pregnant women.
-In animals, adverse effects on offspring survival, growth, sexual maturation, and neurobehavioral function were observed when dimethyl fumarate (DMF) was administered during pregnancy and lactation at clinically relevant doses.
-TECFIDERA should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to TECFIDERA during pregnancy.
+Encourage patients to enroll by calling 1-866-810-1462 or visiting www.tecfiderapregnancyregistry.com.
+
+Risk Summary
+
+There are no adequate data on the developmental risk associated with the use of TECFIDERA in pregnant women.
+In animals, adverse effects on offspring survival, growth, sexual maturation, and neurobehavioral function were observed when dimethyl fumarate (DMF) was administered during pregnancy and lactation at clinically relevant doses [see Data].
+
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+The background risk of major birth defects and miscarriage for the indicated population is unknown.
+
+Data
+
+Animal Data
 
 In rats administered DMF orally (25, 100, 250 mg/kg/day) throughout organogenesis, embryofetal toxicity (reduced fetal body weight and delayed ossification) were observed at the highest dose tested.
 This dose also produced evidence of maternal toxicity (reduced body weight).
@@ -19,15 +30,14 @@ Neurobehavioral impairment was observed at all doses.
 A no-effect dose for developmental toxicity was not identified.
 The lowest dose tested was associated with plasma AUC for MMF lower than that in humans at the RHD.
 
-Pregnancy Registry
+## 8.2 Lactation
 
-There is a pregnancy registry that monitors pregnancy outcomes in women exposed to TECFIDERA during pregnancy.
-Encourage patients to enroll by calling 1-866-810-1462 or visiting www.tecfiderapregnancyregistry.com.
+Risk Summary
 
-## 8.3 Nursing Mothers
+There are no data on the presence of DMF or MMF in human milk.
+The effects on the breastfed infant and on milk production are unknown.
 
-It is not known whether this drug is excreted in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when TECFIDERA is administered to a nursing woman.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for TECFIDERA and any potential adverse effects on the breastfed infant from the drug or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 

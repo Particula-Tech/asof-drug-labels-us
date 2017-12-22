@@ -42,10 +42,9 @@ Pregnancy and Pregnancy Registry
 
 Instruct patients that if they are pregnant or plan to become pregnant while taking TECFIDERA they should inform their physician.
 
-Encourage patients to enroll in the TECFIDERA Pregnancy Registry if they become pregnant while taking TECFIDERA.
-Advise patients to call 1-866-810-1462 or visit www.tecfiderapregnancyregistry.com for more information [see Use in Specific Populations (8.1)].
+Encourage patients to enroll in the TECFIDERA Pregnancy Registry if they become pregnant while taking TECFIDERA [see Use in Specific Populations (8.1)].
 
-41347-08
+41347-09
 
 Manufactured by: Biogen Inc. Cambridge, MA 02142
 

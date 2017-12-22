@@ -19,8 +19,14 @@ PML has also occurred in the postmarketing setting in the presence of lymphopeni
 While the role of lymphopenia in these cases is uncertain, the majority of cases occurred in patients with lymphocyte counts <0.5x 109/L.
 
 At the first sign or symptom suggestive of PML, withhold TECFIDERA and perform an appropriate diagnostic evaluation.
-MRI findings may be apparent before clinical signs or symptoms.
 Typical symptoms associated with PML are diverse, progress over days to weeks, and include progressive weakness on one side of the body or clumsiness of limbs, disturbance of vision, and changes in thinking, memory, and orientation leading to confusion and personality changes.
+
+MRI findings may be apparent before clinical signs or symptoms.
+Cases of PML, diagnosed based on MRI findings and the detection of JCV DNA in the cerebrospinal fluid in the absence of clinical signs or symptoms specific to PML, have been reported in patients treated with other MS medications associated with PML.
+Many of these patients subsequently became symptomatic with PML.
+Therefore, monitoring with MRI for signs that may be consistent with PML may be useful, and any suspicious findings should lead to further investigation to allow for an early diagnosis of PML, if present.
+Lower PML-related mortality and morbidity have been reported following discontinuation of another MS medication associated with PML in patients with PML who were initially asymptomatic compared to patients with PML who had characteristic clinical signs and symptoms at diagnosis.
+It is not known whether these differences are due to early detection and discontinuation of MS treatment or due to differences in disease in these patients.
 
 ## 5.3 Lymphopenia
 
