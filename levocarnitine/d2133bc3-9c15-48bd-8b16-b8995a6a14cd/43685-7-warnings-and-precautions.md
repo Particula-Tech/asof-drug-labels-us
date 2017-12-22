@@ -8,7 +8,7 @@ None.
 
 CARNITOR® (levocarnitine) Oral Solution and CARNITOR® SF (levocarnitine) Sugar-Free Oral Solution are for oral/internal use only.
 
-## Not for parenteral use.
+### Not for parenteral use.
 
 Gastrointestinal reactions may result from a too rapid consumption of carnitine.
 CARNITOR® (levocarnitine) Oral Solution and CARNITOR® SF (levocarnitine) Sugar-Free Oral Solution may be consumed alone, or dissolved in drinks or other liquid foods to reduce taste fatigue.
