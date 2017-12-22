@@ -1,13 +1,11 @@
 # INDICATIONS AND USAGE
 
 Bupivacaine Hydrochloride is indicated for the production of local or regional anesthesia or analgesia for surgery, dental and oral surgery procedures, diagnostic and therapeutic procedures, and for obstetrical procedures.
-Only the 0.25% and 0.5% concentrations are indicated for obstetrical anesthesia.
-(See WARNINGS.)
+Only the 0.25% and 0.5% concentrations are indicated for obstetrical anesthesia (See WARNINGS).
 
 Experience with nonobstetrical surgical procedures in pregnant patients is not sufficient to recommend use of 0.75% concentration of Bupivacaine Hydrochloride in these patients.
 
-Bupivacaine Hydrochloride is not recommended for intravenous regional anesthesia (Bier Block).
-(See WARNINGS.)
+Bupivacaine Hydrochloride is not recommended for intravenous regional anesthesia (Bier Block) (See WARNINGS).
 
 The routes of administration and indicated Bupivacaine Hydrochloride concentrations are:
 

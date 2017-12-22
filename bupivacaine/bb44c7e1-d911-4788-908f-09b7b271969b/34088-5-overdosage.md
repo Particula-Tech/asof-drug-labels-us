@@ -1,7 +1,6 @@
 # OVERDOSAGE
 
-Acute emergencies from local anesthetics are generally related to high plasma levels encountered during therapeutic use of local anesthetics or to unintended subarachnoid injection of local anesthetic solution.
-(See ADVERSE REACTIONS, WARNINGS, and PRECAUTIONS.)
+Acute emergencies from local anesthetics are generally related to high plasma levels encountered during therapeutic use of local anesthetics or to unintended subarachnoid injection of local anesthetic solution (See ADVERSE REACTIONS, WARNINGS, and PRECAUTIONS).
 
 Management of Local Anesthetic Emergencies: The first consideration is prevention, best accomplished by careful and constant monitoring of cardiovascular and respiratory vital signs and the patient's state of consciousness after each local anesthetic injection.
 At the first sign of change, oxygen should be administered.
@@ -10,8 +9,8 @@ The first step in the management of systemic toxic reactions, as well as underve
 This may prevent convulsions if they have not already occurred.
 
 If necessary, use drugs to control the convulsions.
-A 50 mg to 100 mg bolus IV injection of succinylcholine will paralyze the patient without depressing the central nervous or cardiovascular systems and facilitate ventilation.
-A bolus IV dose of 5 mg to 10 mg of diazepam or 50 mg to 100 mg of thiopental will permit ventilation and counteract central nervous system stimulation, but these drugs also depress central nervous system, respiratory, and cardiac function, add to postictal depression and may result in apnea.
+A 50 mg to 100 mg bolus intravenous injection of succinylcholine will paralyze the patient without depressing the central nervous or cardiovascular systems and facilitate ventilation.
+A bolus intravenous dose of 5 mg to 10 mg of diazepam or 50 mg to 100 mg of thiopental will permit ventilation and counteract central nervous system stimulation, but these drugs also depress central nervous system, respiratory, and cardiac function, add to postictal depression and may result in apnea.
 Intravenous barbiturates, anticonvulsant agents, or muscle relaxants should only be administered by those familiar with their use.
 Immediately after the institution of these ventilatory measures, the adequacy of the circulation should be evaluated.
 Supportive treatment of circulatory depression may require administration of intravenous fluids, and when appropriate, a vasopressor dictated by the clinical situation (such as ephedrine or epinephrine to enhance myocardial contractile force).

@@ -20,8 +20,8 @@ Do not use the solution if its color is pinkish or darker than slightly yellow o
 | --- | --- | --- | --- |
 | NDC 0409-9042-10Carton of 25 | 0.25%75 mg/30 mL(2.5 mg/mL) | 3.3 to 5.5 | NDC 0409-9042-0930 mL Single-useTeartop Vial |
 
-Revised: 12/2015
-
-EN-4092
-
 Manufactured by Hospira, Inc., Lake Forest, IL 60045 USA N+ and NOVAPLUS are registered trademarks of Vizient, Inc.
+
+LAB-1180-1.0
+
+Revised: 11/2017

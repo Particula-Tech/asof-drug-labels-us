@@ -43,16 +43,13 @@ Repeat doses should be preceded by a test dose containing epinephrine if not con
 Use only the single-use ampuls and single-use vials for caudal or epidural anesthesia; the multiple-use vials contain a preservative and therefore should not be used for these procedures.
 
 Test Dose for Caudal and Lumbar Epidural Blocks: The Test Dose of Bupivacaine Hydrochloride (0.5% bupivacaine with 1:200,000 epinephrine in a 3 mL ampul) is recommended for use as a test dose when clinical conditions permit prior to caudal and lumbar epidural blocks.
-This may serve as a warning of unintended intravascular or subarachnoid injection.
-(See PRECAUTIONS.)
+This may serve as a warning of unintended intravascular or subarachnoid injection (See PRECAUTIONS).
 The pulse rate and other signs should be monitored carefully immediately following each test dose administration to detect possible intravascular injection, and adequate time for onset of spinal block should be allotted to detect possible intrathecal injection.
 An intravascular or subarachnoid injection is still possible even if results of the test dose are negative.
-The test dose itself may produce a systemic toxic reaction, high spinal or cardiovascular effects from the epinephrine.
-(See WARNINGS and OVERDOSAGE.)
+The test dose itself may produce a systemic toxic reaction, high spinal or cardiovascular effects from the epinephrine (See WARNINGS and OVERDOSAGE).
 
 Use in Dentistry: the 0.5% concentration with epinephrine is recommended for infiltration and block injection in the maxillary and mandibular area when a longer duration of local anesthetic action is desired, such as for oral surgical procedures generally associated with significant postoperative pain.
-The average dose of 1.8 mL (9 mg) per injection site will usually suffice; an occasional second dose of 1.8 mL (9 mg) may be used if necessary to produce adequate anesthesia after making allowance for 2 to 10 minutes onset time.
-(See CLINICAL PHARMACOLOGY.)
+The average dose of 1.8 mL (9 mg) per injection site will usually suffice; an occasional second dose of 1.8 mL (9 mg) may be used if necessary to produce adequate anesthesia after making allowance for 2 to 10 minutes onset time (See CLINICAL PHARMACOLOGY).
 The lowest effective dose should be employed and time should be allowed between injections; it is recommended that the total dose for all injection sites, spread out over a single dental sitting, should not ordinarily exceed 90 mg for a healthy adult patient (ten 1.8 mL injections of 0.5% Bupivacaine Hydrochloride with epinephrine).
 Injections should be made slowly and with frequent aspirations.
 Until further experience is gained, Bupivacaine in dentistry is not recommended for pediatric patients younger than 12 years.
@@ -79,4 +76,4 @@ Recommended Concentrations and Doses of Bupivacaine Hydrochloride
 | Sympathetic | 0.25% | 20-50 | 50-125 | — |
 | Dental3 | 0.5% w/epi | 1.8-3.6 per site | 9-18 per site | — |
 | Epidural3 Test Dose | 0.5%w/epi | 2-3 | 10-15(10-15 microgramsepinephrine) | — |
-| 1 With continuous (intermittent) techniques, repeat doses increase the degree of motor block. The first repeat dose of 0.5% may produce complete motor block. Intercostal nerve block with 0.25% may also produce complete motor block for intra-abdominal surgery. 2 For single-dose use, not for intermittent epidural technique. Not for obstetrical anesthesia. 3 See PRECAUTIONS. 4 Solutions with or without epinephrine. |  |  |  |  |
+| 1 With continuous (intermittent) techniques, repeat doses increase the degree of motor block. The first repeat dose of 0.5% may produce complete motor block. Intercostal nerve block with 0.25% may also produce complete motor block for intra-abdominal surgery. 2 For single-use, not for intermittent epidural technique. Not for obstetrical anesthesia. 3 See PRECAUTIONS. 4 Solutions with or without epinephrine. |  |  |  |  |

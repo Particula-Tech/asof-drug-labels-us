@@ -25,8 +25,7 @@ Bupivacaine Hydrochloride Injection, USP (without epinephrine)
 | 0.5% | 5 | 8.1 |
 | 0.75% | 7.5 | 7.6 |
 
-May contain sodium hydroxide and/or hydrochloric acid for pH adjustment.
-(See HOW SUPPLIED section for pH information.)
+May contain sodium hydroxide and/or hydrochloric acid for pH adjustment (See HOW SUPPLIED section for pH information).
 
 Bupivacaine and Epinephrine Injection, USP is available in sterile, isotonic solutions containing bupivacaine hydrochloride and epinephrine 1:200,000 with characteristics as follows:
 
@@ -39,7 +38,6 @@ Bupivacaine and Epinephrine Injection, USP
 | 0.75% | 7.5 | 5 | 8.5 |
 
 Sodium metabisulfite 0.1 mg/mL added as antioxidant and edetate calcium disodium, anhydrous 0.1 mg/mL added as stabilizer.
-May contain sodium hydroxide and/or hydrochloric acid for pH adjustment.
-(See HOW SUPPLIED section for pH information.)
+May contain sodium hydroxide and/or hydrochloric acid for pH adjustment (See HOW SUPPLIED section for pH information).
 
 Single-use solutions contain no added bacteriostat or anti-microbial agent and unused portions should be discarded after use.
