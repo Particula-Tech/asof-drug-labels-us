@@ -18,7 +18,7 @@ The estimated background risk of miscarriage for the indicated population is unk
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 
 Clinical Considerations Disease-associated maternal and/or embryo/fetal risk: Poorly controlled diabetes in pregnancy increases the maternal risk for diabetic ketoacidosis, pre-eclampsia, spontaneous abortions, preterm delivery, stillbirth, and delivery complications.
-Poorly controlled diabetes increases the fetal risk for major birth defects, still birth, and macrosomia related morbidity.
+Poorly controlled diabetes increases the fetal risk for major birth defects, stillbirth, and macrosomia related morbidity.
 
 Data Human Data Published data from post-marketing studies have not reported a clear association with metformin and major birth defects, miscarriage, or adverse maternal or fetal outcomes when metformin was used during pregnancy.
 However, these studies cannot definitely establish the absence of any metformin-associated risk because of methodological limitations, including small sample size and inconsistent comparator groups.
@@ -30,6 +30,7 @@ These outcomes occurred with drug exposure during periods of renal development i
 In embryo-fetal development studies in rats and rabbits, empagliflozin was administered for intervals coinciding with the first trimester period of organogenesis in humans.
 Doses up to 300 mg/kg/day, which approximates 48-times (rats) and 128-times (rabbits) the maximum clinical dose of 25 mg (based on AUC), did not result in adverse developmental effects.
 In rats, at higher doses of empagliflozin causing maternal toxicity, malformations of limb bones increased in fetuses at 700 mg/kg/day or 154-times the 25 mg maximum clinical dose.
+Empagliflozin crosses the placenta and reaches fetal tissues in rats.
 In the rabbit, higher doses of empagliflozin resulted in maternal and fetal toxicity at 700 mg/kg/day, or 139-times the 25 mg maximum clinical dose.
 
 In pre- and postnatal development studies in pregnant rats, empagliflozin was administered from gestation day 6 through to lactation day 20 (weaning) at up to 100 mg/kg/day (approximately 16-times the 25 mg maximum clinical dose) without maternal toxicity.
@@ -50,7 +51,7 @@ However, there is insufficient information on the effects of metformin on the br
 Empagliflozin is present in the milk of lactating rats (see Data).
 Since human kidney maturation occurs in utero and during the first 2 years of life when lactational exposure may occur, there may be risk to the developing human kidney.
 
-Because of the potential for serious adverse reactions in a breastfed infant, advise women that use of SYNJARDY is not recommended while breastfeeding.
+Because of the potential for serious adverse reactions in a breastfed infant, including the potential for empagliflozin to affect postnatal renal development, advise women that use of SYNJARDY is not recommended while breastfeeding.
 
 Data Published clinical lactation studies report that metformin is present in human milk which resulted in infant doses approximately 0.11% to 1% of the maternal weight-adjusted dosage and a milk/plasma ratio ranging between 0.13 and 1.
 However, the studies were not designed to definitely establish the risk of use of metformin during lactation because of small sample size and limited adverse event data collected in infants.

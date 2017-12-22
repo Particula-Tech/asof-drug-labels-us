@@ -42,6 +42,9 @@ Instruct patients to inform their doctor that they are taking SYNJARDY prior to 
 
 Hypoglycemia Inform patients that the risk of hypoglycemia is increased when SYNJARDY is used in combination with an insulin secretagogue (e.g., sulfonylurea), and that a lower dose of the insulin secretagogue may be required to reduce the risk of hypoglycemia [see Warnings and Precautions (5.6)].
 
+Hypersensitivity Reactions Inform patients that serious hypersensitivity reactions, such as urticaria and angioedema, have been reported with empagliflozin, a component of SYNJARDY.
+Advise patients to report immediately any skin reaction or angioedema, and to discontinue the drug until they have consulted prescribing physician [see Warnings and Precautions (5.8)].
+
 Laboratory Tests Inform patients that elevated glucose in urinalysis is expected when taking SYNJARDY.
 
 Pregnancy Advise pregnant women, and females of reproductive potential of the potential risk to a fetus with treatment with SYNJARDY [see Use in Specific Populations (8.1)].
@@ -70,6 +73,6 @@ Boehringer Ingelheim Pharmaceuticals, Inc. either owns or uses the Synjardy® an
 
 The other trademarks referenced are owned by third parties not affiliated with Boehringer Ingelheim Pharmaceuticals, Inc.
 
-Copyright © 2016 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+Copyright © 2017 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-IT5985IL232016
+IT5985JL192017
