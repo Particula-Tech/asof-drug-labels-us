@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-OPDIVO® (nivolumab) is available as follows:
+OPDIVO® (nivolumab) Injection is available as follows:
 
 | Carton Contents | NDC |
 | --- | --- |

@@ -42,8 +42,8 @@ Advise females of reproductive potential to use effective contraception during t
 
 The safety and effectiveness of OPDIVO have been established in pediatric patients age 12 years and older with microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR) metastatic colorectal cancer (mCRC) that has progressed following treatment with a fluoropyrimidine, oxaliplatin, and irinotecan.
 Use of OPDIVO for this indication is supported by evidence from adequate and well-controlled studies of OPDIVO in adults with MSI-H or dMMR mCRC with additional population pharmacokinetic data demonstrating that age and body weight had no clinically meaningful effect on the steady state exposure of nivolumab, that drug exposure is generally similar between adults and pediatric patients age 12 years and older for monoclonal antibodies, and that the course of MSI-H or dMMR mCRC is sufficiently similar in adults and pediatric patients to allow extrapolation of data in adults to pediatric patients.
-The recommended dose in pediatric patients 12 years of age or greater for this indication is the same as that in adults [see Dosage and Administration (2.7), Clinical Pharmacology (12.3), and Clinical Studies (14)].
-The safety and effectiveness of OPDIVO have not been established (1) in pediatric patients less than 12 years old with MSI-H or dMMR mCRC or (2) in pediatric patients for the other approved indications.
+The recommended dose in pediatric patients 12 years of age or greater for this indication is the same as that in adults [see Dosage and Administration (2.8), Clinical Pharmacology (12.3), and Clinical Studies (14)].
+The safety and effectiveness of OPDIVO have not been established (1) in pediatric patients less than 12 years old with MSI-H or dMMR mCRC or (2) in pediatric patients less than 18 years old for the other approved indications.
 
 ## 8.5 Geriatric Use
 
@@ -51,6 +51,9 @@ Of the 1359 patients randomized to single-agent OPDIVO in CHECKMATE-017, CHECKMA
 No overall differences in safety or effectiveness were reported between elderly patients and younger patients.
 
 In CHECKMATE-275 (Urothelial Cancer), 55% of patients were 65 years or older and 14% were 75 years or older.
+No overall differences in safety or effectiveness were reported between elderly patients and younger patients.
+
+In CHECKMATE-238 (Adjuvant Treatment of Melanoma), 26% of patients were 65 years or older and 3% were 75 years or older.
 No overall differences in safety or effectiveness were reported between elderly patients and younger patients.
 
 CHECKMATE-037, CHECKMATE-205, CHECKMATE-039, CHECKMATE-141, and CHECKMATE-142, and CHECKMATE-040 did not include sufficient numbers of patients aged 65 years and older to determine whether they respond differently from younger patients.

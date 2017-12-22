@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Recommended Dosage for Melanoma
+## 2.1 Recommended Dosage for Unresectable or Metastatic Melanoma
 
 The recommended dose of OPDIVO as a single agent is 240 mg administered as an intravenous infusion over 60 minutes every 2 weeks until disease progression or unacceptable toxicity.
 
@@ -8,35 +8,39 @@ The recommended dose of OPDIVO is 1 mg/kg administered as an intravenous infusio
 The recommended subsequent dose of OPDIVO, as a single agent, is 240 mg administered as an intravenous infusion over 60 minutes every 2 weeks until disease progression or unacceptable toxicity.
 Review the Full Prescribing Information for ipilimumab prior to initiation.
 
-## 2.2 Recommended Dosage for NSCLC
+## 2.2 Recommended Dosage for Adjuvant Treatment of Melanoma
+
+The recommended dose of OPDIVO is 240 mg administered as an intravenous infusion over 60 minutes every 2 weeks until disease recurrence or unacceptable toxicity for up to 1 year.
+
+## 2.3 Recommended Dosage for NSCLC
 
 The recommended dose of OPDIVO is 240 mg administered as an intravenous infusion over 60 minutes every 2 weeks until disease progression or unacceptable toxicity.
 
-## 2.3 Recommended Dosage for RCC
+## 2.4 Recommended Dosage for RCC
 
 The recommended dose of OPDIVO is 240 mg administered as an intravenous infusion over 60 minutes every 2 weeks until disease progression or unacceptable toxicity.
 
-## 2.4 Recommended Dosage for cHL
+## 2.5 Recommended Dosage for cHL
 
 The recommended dose of OPDIVO is 3 mg/kg administered as an intravenous infusion over 60 minutes every 2 weeks until disease progression or unacceptable toxicity.
 
-## 2.5 Recommended Dosage for SCCHN
+## 2.6 Recommended Dosage for SCCHN
 
 The recommended dose of OPDIVO is 3 mg/kg administered as an intravenous infusion over 60 minutes every 2 weeks until disease progression or unacceptable toxicity.
 
-## 2.6 Recommended Dosage for Urothelial Carcinoma
+## 2.7 Recommended Dosage for Urothelial Carcinoma
 
 The recommended dose of OPDIVO is 240 mg administered as an intravenous infusion over 60 minutes every 2 weeks until disease progression or unacceptable toxicity.
 
-## 2.7 Recommended Dosage for CRC
+## 2.8 Recommended Dosage for CRC
 
 The recommended dose of OPDIVO is 240 mg administered as an intravenous infusion over 60 minutes every 2 weeks until disease progression or unacceptable toxicity.
 
-## 2.8 Recommended Dosage for HCC
+## 2.9 Recommended Dosage for HCC
 
 The recommended dose of OPDIVO is 240 mg administered as an intravenous infusion over 60 minutes every 2 weeks until disease progression or unacceptable toxicity.
 
-## 2.9 Dose Modifications
+## 2.10 Dose Modifications
 
 Recommendations for OPDIVO modifications are provided in Table 1.
 When OPDIVO is administered in combination with ipilimumab, if OPDIVO is withheld, ipilimumab should also be withheld.
@@ -83,7 +87,7 @@ Table 1: Recommended Dose Modifications for OPDIVO
 * Toxicity was graded per National Cancer Institute Common Terminology Criteria for Adverse Events.
 Version 4.0 (NCI CTCAE v4). a Resume treatment when adverse reaction improves to Grade 0 or 1. b HCC: hepatocellular carcinoma. c Resume treatment when AST/ALT returns to baseline.
 
-## 2.10 Preparation and Administration
+## 2.11 Preparation and Administration
 
 Visually inspect drug product solution for particulate matter and discoloration prior to administration.
 OPDIVO is a clear to opalescent, colorless to pale-yellow solution.

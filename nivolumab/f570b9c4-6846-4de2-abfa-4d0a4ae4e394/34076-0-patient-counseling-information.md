@@ -18,5 +18,3 @@ Inform patients of the risk of immune-mediated adverse reactions that may requir
 - •Lactation: Advise women not to breastfeed while taking OPDIVO [see Use in Specific Populations (8.2)].
 
 Manufactured by: Bristol-Myers Squibb Company Princeton, NJ 08543 USA U.S. License No. 1713
-
-BLA 125554/S-041
