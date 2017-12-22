@@ -1,6 +1,8 @@
-# CLINICAL PHARMACOLOGY
+# CLINICAL PHARMACOLOGY:
 
 Midazolam is a short-acting benzodiazepine central nervous system (CNS) depressant.
+
+## Pharmacodynamics
 
 The effects of midazolam on the CNS are dependent on the dose administered, the route of administration, and the presence or absence of other medications.
 Onset time of sedative effects after IM administration in adults is 15 minutes, with peak sedation occurring 30 to 60 minutes following injection.
@@ -15,7 +17,7 @@ In another pediatric oncology study, 91% of midazolam treated patients were amne
 
 When midazolam is given IV as an anesthetic induction agent, induction of anesthesia occurs in approximately 1.5 minutes when narcotic premedication has been administered and in 2 to 2.5 minutes without narcotic premedication or other sedative premedication.
 Some impairment in a test of memory was noted in 90% of the patients studied.
-A dose response study of pediatric patients premedicated with 1 mg/kg intramuscular (IM) meperidine found that only 4 out of 6 pediatric patients who received 600 mcg/kg IV midazolam lost consciousness, with eye closing at 108 ± 140 seconds.
+A dose response study of pediatric patients premedicated with 1 mg/kg intramuscular (IM) meperidine found that only 4 out of 6 pediatric patients who received 600 mcg/kg IV midazolam lost consciousness, with eye closing at 108 to 140 seconds.
 This group was compared with pediatric patients who were given thiopental 5 mg/kg IV; 6 out of 6 closed their eyes at 20 ± 3.2 seconds.
 Midazolam did not dependably induce anesthesia at this dose despite concomitant opioid administration in pediatric patients.
 
@@ -32,45 +34,45 @@ The usual recommended intramuscular premedicating doses of midazolam do not depr
 Intravenous induction doses of midazolam depress the ventilatory response to carbon dioxide stimulation for 15 minutes or more beyond the duration of ventilatory depression following administration of thiopental in adults.
 Impairment of ventilatory response to carbon dioxide is more marked in adult patients with chronic obstructive pulmonary disease (COPD).
 Sedation with IV midazolam does not adversely affect the mechanics of respiration (resistance, static recoil, most lung volume measurements); total lung capacity and peak expiratory flow decrease significantly but static compliance and maximum expiratory flow at 50% of awake total lung capacity (Vmax) increase.
-In one study of pediatric patients under general anesthesia, intramuscular midazolam (100 or 200 mcg/kg) was shown to depress the response to carbon dioxide in a dose-related manner.
+In one study of pediatric patients under general anesthesia, intramuscular midazolam (100 mcg/kg or 200 mcg/kg) was shown to depress the response to carbon dioxide in a dose-related manner.
 
 In cardiac hemodynamic studies in adults, IV induction of general anesthesia with midazolam was associated with a slight to moderate decrease in mean arterial pressure, cardiac output, stroke volume and systemic vascular resistance.
-Slow heart rates (less than 65/minute), particularly in patients taking propranolol for angina, tended to rise slightly; faster heart rates (eg, 85/minute) tended to slow slightly.
+Slow heart rates (less than 65/minute), particularly in patients taking propranolol for angina, tended to rise slightly; faster heart rates (e.g., 85/minute) tended to slow slightly.
 In pediatric patients, a comparison of IV midazolam (500 mcg/kg) with propofol (2.5 mg/kg) revealed a mean 15% decrease in systolic blood pressure in patients who had received IV midazolam vs a mean 25% decrease in systolic blood pressure following propofol.
 
-## Pharamacokinetics
+## Pharmacokinetics
 
 Midazolam’s activity is primarily due to the parent drug.
 Elimination of the parent drug takes place via hepatic metabolism of midazolam to hydroxylated metabolites that are conjugated and excreted in the urine.
-Six single-dose pharmacokinetic studies involving healthy adults yield pharmacokinetic parameters for midazolam in the following ranges: volume of distribution (Vd), 1 to 3.1 L/kg; elimination half-life, 1.8 to 6.4 hours (mean approximately 3 hours); total clearance (Cl), 0.25 to 0.54 L/hr/kg.
-In a parallel group study, there was no difference in the clearance, in subjects administered 0.15 mg/kg (n=4) and 0.3 mg/kg (n=4) IV doses indicating linear kinetics.
+Six single-dose pharmacokinetic studies involving healthy adults yield pharmacokinetic parameters for midazolam in the following ranges: volume of distribution (Vd), 1.0 to 3.1 L/kg; elimination half-life, 1.8 to 6.4 hours (mean approximately 3 hours); total clearance (Cl), 0.25 to 0.54 L/hr/kg.
+In a parallel group study, there was no difference in the clearance, in subjects administered 0.15 mg/kg (n=4) and 0.30 mg/kg (n=4) IV doses indicating linear kinetics.
 The clearance was successively reduced by approximately 30% at doses of 0.45 mg/kg (n=4) and 0.6 mg/kg (n=5) indicating non-linear kinetics in this dose range.
 
 ## Absorption
 
 The absolute bioavailability of the intramuscular route was greater than 90% in a crossover study in which healthy subjects (n=17) were administered a 7.5 mg IV or IM dose.
 The mean peak concentration (Cmax) and time to peak (Tmax) following the IM dose was 90 ng/mL (20% CV) and 0.5 hour (50% CV).
-Cmax for the 1-hydroxy metabolite following the IM dose was 8 ng/mL (Tmax=1 hour).
+Cmax for the 1-hydroxy metabolite following the IM dose was 8 ng/mL (Tmax=1.0 hour).
 
 Following IM administration, Cmax for midazolam and its 1-hydroxy metabolite were approximately one-half of those achieved after intravenous injection.
 
 ## Distribution
 
-The volume of distribution (Vd) determined from six single-dose pharmacokinetic studies involving healthy adults ranged from 1 to 3.1 L/kg.
+The volume of distribution (Vd) determined from six single-dose pharmacokinetic studies involving healthy adults ranged from 1.0 to 3.1 L/kg.
 Female gender, old age, and obesity are associated with increased values of midazolam Vd.
-In humans, midazolam has been shown to cross the placenta and enter into fetal circulation and has been detected in human milk and CSF (see Special Populations).
+In humans, midazolam has been shown to cross the placenta and enter into fetal circulation and has been detected in human milk and CSF (see CLINICAL PHARMACOLOGY, Special Populations).
 
-In adults and pediatric patients older than 1 year, midazolam is approximately 97% bound to plasma protein, principally albumin.
+In adults and pediatric patients older than 1 year, midazolam is approximately 97% bound to plasma protein, principally albumin and that for 1-hydroxy metabolite is about 89%.
 
 ## Metabolism
 
-In vitro studies with human liver microsomes indicate that the biotrans formation of midazolam is mediated by cytochrome P450 3A4.
+In vitro studies with human liver microsomes indicate that the biotransformation of midazolam is mediated by cytochrome P450-3A4.
 This cytochrome also appears to be present in gastrointestinal tract mucosa as well as liver.
 Sixty to seventy percent of the biotransformation products is 1-hydroxy-midazolam (also termed alpha-hydroxy-midazolam) while 4-hydroxy-midazolam constitutes 5% or less.
 Small amounts of a dihydroxy derivative have also been detected but not quantified.
 The principal urinary excretion products are glucuronide conjugates of the hydroxylated derivatives.
 
-Drugs that inhibit the activity of cytochrome P450 3A4 may inhibit midazolam clearance and elevate steady-state midazolam concentrations.
+Drugs that inhibit the activity of cytochrome P450-3A4 may inhibit midazolam clearance and elevate steady-state midazolam concentrations.
 
 Studies of the intravenous administration of 1-hydroxy-midazolam in humans suggest that 1-hydroxy-midazolam is at least as potent as the parent compound and may contribute to the net pharmacologic activity of midazolam.
 In vitro studies have demonstrated that the affinities of 1- and 4-hydroxy-midazolam for the benzodiazepine receptor are approximately 20% and 7%, respectively, relative to midazolam.
@@ -93,19 +95,19 @@ The effects of accumulation can be reduced by maintaining the lowest midazolam i
 Infrequent hypotensive episodes have occurred during continuous infusion; however, neither the time to onset nor the duration of the episode appeared to be related to plasma concentrations of midazolam or alpha-hydroxy-midazolam.
 Further, there does not appear to be an increased chance of occurrence of a hypotensive episode with increased loading doses.
 
-Patients with renal impairment may have longer elimination half-lives for midazolam (see Special Populations: Renal Failure).
+Patients with renal impairment may have longer elimination half-lives for midazolam (see CLINICAL PHARMACOLOGY, Special Populations, Renal Failure).
 
 ## Special Populations
 
 Changes in the pharmacokinetic profile of midazolam due to drug interactions, physiological variables, etc., may result in changes in the plasma concentration-time profile and pharmacological response to midazolam in these patients.
-For example, patients with acute renal failure appear to have a longer elimination half-life for midazolam and may experience delayed recovery (see Special Populations: Renal Failure).
+For example, patients with acute renal failure appear to have a longer elimination half-life for midazolam and may experience delayed recovery (see CLINICAL PHARMACOLOGY, Special Populations, Renal Failure).
 In other groups, the relationship between prolonged half-life and duration of effect has not been established.
 
 Pediatrics and Neonates: In pediatric patients aged 1 year and older, the pharmacokinetic properties following a single dose of midazolam reported in 10 separate studies of midazolam are similar to those in adults.
-Weight-normalized clearance is similar or higher (0.19 to 0.8 L/hr/kg) than in adults and the terminal elimination half-life (0.78 to 3.3 hours) is similar to or shorter than in adults.
+Weight-normalized clearance is similar or higher (0.19 to 0.80 L/hr/kg) than in adults and the terminal elimination half-life (0.78 to 3.3 hours) is similar to or shorter than in adults.
 The pharmacokinetic properties during and following continuous intravenous infusion in pediatric patients in the operating room as an adjunct to general anesthesia and in the intensive care environment are similar to those in adults.
 
-In seriously ill neonates, however, the terminal elimination half-life of midazolam is substantially prolonged (6.5 to 12 hours) and the clearance reduced (0.07 to 0.12 L/hr/kg) compared to healthy adults or other groups of pediatric patients.
+In seriously ill neonates, however, the terminal elimination half-life of midazolam is substantially prolonged (6.5 to 12.0 hours) and the clearance reduced (0.07 to 0.12 L/hr/kg) compared to healthy adults or other groups of pediatric patients.
 It cannot be determined if these differences are due to age, immature organ function or metabolic pathways, underlying illness or debility.
 
 Obese: In a study comparing normals (n=20) and obese patients (n=20) the mean half-life was greater in the obese group (5.9 vs 2.3 hours).
@@ -119,12 +121,12 @@ The mean Cl decreased approximately 25% in the elderly in two studies and was si
 
 Congestive Heart Failure: In patients suffering from congestive heart failure, there appeared to be a two-fold increase in the elimination half-life, a 25% decrease in the plasma clearance and a 40% increase in the volume of distribution of midazolam.
 
-Hepatic Insufficiency: Midazolam pharmacokinetics were studied after an IV single dose (0.075 mg/kg) was administered to 7 patients with biopsy proven alcoholic cirrhosis and 8 control patients.
+Hepatic Impairment: Midazolam pharmacokinetics were studied after an IV single dose (0.075 mg/kg) was administered to 7 patients with biopsy proven alcoholic cirrhosis and 8 control patients.
 The mean half-life of midazolam increased 2.5-fold in the alcoholic patients.
 Clearance was reduced by 50% and the Vd increased by 20%.
 In another study in 21 male patients with cirrhosis, without ascites and with normal kidney function as determined by creatinine clearance, no changes in the pharmacokinetics of midazolam or 1-hydroxy-midazolam were observed when compared to healthy individuals.
 
-Renal Failure: Patients with renal impairment may have longer elimination half-lives for midazolam and its metabolites which may result in slower recovery.
+Renal Impairment: Patients with renal impairment may have longer elimination half-lives for midazolam and its metabolites which may result in slower recovery.
 
 Midazolam and 1-hydroxy-midazolam pharmacokinetics in 6 ICU patients who developed acute renal failure (ARF) were compared with a normal renal function control group.
 Midazolam was administered as an infusion (5 to 15 mg/hr).
@@ -136,10 +138,10 @@ The relationship between accumulating metabolite levels and prolonged sedation i
 In a study of chronic renal failure patients (n=15) receiving a single IV dose, there was a two-fold increase in the clearance and volume of distribution but the half-life remained unchanged.
 Metabolite levels were not studied.
 
-Plasma Concentration-Effect Relationship: Concentration-effect relationships (after an IV dose) have been demonstrated for a variety of pharmacodynamic measures (eg, reaction time, eye movement, sedation) and are associated with extensive intersubject variability.
+Plasma Concentration-Effect Relationship: Concentration-effect relationships (after an IV dose) have been demonstrated for a variety of pharmacodynamic measures (e.g., reaction time, eye movement, sedation) and are associated with extensive intersubject variability.
 Logistic regression analysis of sedation scores and steady-state plasma concentration indicated that at plasma concentrations greater than 100 ng/mL there was at least a 50% probability that patients would be sedated, but respond to verbal commands (sedation score = 3).
 At 200 ng/mL there was at least a 50% probability that patients would be asleep, but respond to glabellar tap (sedation score = 4).
 
 ## Drug Interactions
 
-For information concerning pharmacokinetic drug interactions with midazolam, see PRECAUTIONS.
+For information concerning pharmacokinetic drug interactions with midazolam (see PRECAUTIONS).

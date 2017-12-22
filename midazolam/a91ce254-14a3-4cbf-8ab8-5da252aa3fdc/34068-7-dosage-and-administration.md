@@ -1,4 +1,6 @@
-# DOSAGE AND ADMINISTRATION
+# DOSAGE AND ADMINISTRATION:
+
+NOTE: CONTAINS BENZYL ALCOHOL (see WARNINGS and PRECAUTIONS, Pediatric Use)
 
 Midazolam injection is a potent sedative agent that requires slow administration and individualization of dosage.
 Clinical experience has shown midazolam to be 3 to 4 times as potent per mg as diazepam.
@@ -14,7 +16,7 @@ Midazolam injection should only be administered IM or IV (see WARNINGS).
 Care should be taken to avoid intra-arterial injection or extravasation (see WARNINGS).
 
 Midazolam injection may be mixed in the same syringe with the following frequently used premedications: morphine sulfate, meperidine, atropine sulfate or scopolamine.
-Midazolam, at a concentration of 0.5 mg/mL, is compatible with 5% dextrose in water and 0.9% sodium chloride for up to 24 hours and with lactated Ringer’s solution for up to 4 hours.
+Midazolam, at a concentration of 0.5 mg/mL, is compatible with 5% dextrose in water and 0.9% sodium chloride for up to 24 hours and with Lactated Ringer’s solution for up to 4 hours.
 Both the 1 mg/mL and 5 mg/mL formulations of midazolam may be diluted with 0.9% sodium chloride or 5% dextrose in water.
 
 ## Monitoring
@@ -23,9 +25,9 @@ Patient response to sedative agents, and resultant respiratory status, is variab
 Regardless of the intended level of sedation or route of administration, sedation is a continuum; a patient may move easily from light to deep sedation, with potential loss of protective reflexes.
 This is especially true in pediatric patients.
 Sedative doses should be individually titrated, taking into account patient age, clinical status and concomitant use of other CNS depressants.
-Continuous monitoring of respiratory and cardiac function is required (ie, pulse oximetry).
+Continuous monitoring of respiratory and cardiac function is required (i.e., pulse oximetry).
 
-Adults and Pediatrics: Sedation guidelines recommend a careful presedation history to determine how a patient’s underlying medical conditions or concomitant medications might affect their response to sedation/analgesia as well as physical examination including a focused examination of the airway for abnormalities.
+Adults and Pediatrics: Sedation guidelines recommend a careful presedation history to determine how a patient’s underlying medical conditions or concomitant medications might affect their response to sedation/analgesia as well as a physical examination including a focused examination of the airway for abnormalities.
 Further recommendations include appropriate presedation fasting.
 
 Titration to effect with multiple small doses is essential for safe administration.

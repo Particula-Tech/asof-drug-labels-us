@@ -1,6 +1,6 @@
-# DRUG ABUSE AND DEPENDENCE
+# DRUG ABUSE AND DEPENDENCE:
 
-Midazolam is subject to Schedule IV control under the Controlled Substances Act of 1970.
+Midazolam is a Schedule IV control substance.
 
 Midazolam was actively self-administered in primate models used to assess the positive reinforcing effects of psychoactive drugs.
 
@@ -10,7 +10,7 @@ Available data concerning the drug abuse and dependence potential of midazolam s
 Withdrawal symptoms, similar in character to those noted with barbiturates and alcohol (convulsions, hallucinations, tremor, abdominal and muscle cramps, vomiting and sweating), have occurred following abrupt discontinuation of benzodiazepines, including midazolam.
 Abdominal distention, nausea, vomiting, and tachycardia are prominent symptoms of withdrawal in infants.
 The more severe withdrawal symptoms have usually been limited to those patients who had received excessive doses over an extended period of time.
-Generally milder withdrawal symptoms (eg, dysphoria and insomnia) have been reported following abrupt discontinuance of benzodiazepines taken continuously at therapeutic levels for several months.
+Generally milder withdrawal symptoms (e.g., dysphoria and insomnia) have been reported following abrupt discontinuance of benzodiazepines taken continuously at therapeutic levels for several months.
 Consequently, after extended therapy, abrupt discontinuation should generally be avoided and a gradual dosage tapering schedule followed.
 There is no consensus in the medical literature regarding tapering schedules; therefore, practitioners are advised to individualize therapy to meet patient’s needs.
 In some case reports, patients who have had severe withdrawal reactions due to abrupt discontinuation of high-dose long-term midazolam, have been successfully weaned off of midazolam over a period of several days.

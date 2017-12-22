@@ -1,67 +1,45 @@
 PACKAGE LABEL - PRINCIPAL DISPLAY - Midazolam 2 mL Vial Label
 
-NDC 63323-411-12
+Midazolam Injection, USP CIV
 
-410102
+2 mg per 2 mL
 
-Midazolam Injection, USP
+(1 mg per mL)
 
-*2 mg/2 mL
-
-(1 mg/mL)
-
-For IM or IV Use Only
+For intramuscular or intravenous use only.
+Contains Benzyl Alcohol
 
 2 mL Vial Rx only
 
 PACKAGE LABEL - PRINCIPAL DISPLAY - Midazolam 2 mL Vial Tray Label
 
-NDC 63323-411-12
+Midazolam Injection, USP CIV
 
-410102
+2 mg per 2 mL
 
-Midazolam Injection, USP
-
-*2 mg/2 mL
-
-(1 mg/mL)
-
-For IM or IV Use Only
-
+(1 mg per mL)* For intramuscular or intravenous use only.
 Contains Benzyl Alcohol
 
-2 mL Vial Rx only
+25 x 2 mL Vials Rx only
 
 PACKAGE LABEL - PRINCIPAL DISPLAY - Midazolam 5 mL Vial Label
 
-NDC 63323-412-05
+Midazolam Injection, USP CIV
 
-410205
+25 mg per 5 mL
 
-Midazolam Injection, USP
-
-*25 mg/5 mL
-
-(5 mg/mL)
-
-For IM or IV Use Only
+(5 mg per mL)* For intramuscular or intravenous use only.
 
 5 mL Vial Rx only
 
 PACKAGE LABEL - PRINCIPAL DISPLAY - Midazolam 5 mL Vial Tray Label
 
-NDC 63323-412-05
+Midazolam Injection, USP CIV
 
-410205
+25 mg per 5 mL
 
-Midazolam Injection, USP
-
-*25 mg/5 mL
-
-(5 mg/mL)
-
-For IM or IV Use Only
+(5 mg per mL)* For intramuscular or intravenous use only.
 
 Contains Benzyl Alcohol
 
-5 mL Vial Rx only
+10 x 5 mL Vials Rx only

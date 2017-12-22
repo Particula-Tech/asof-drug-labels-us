@@ -1,9 +1,9 @@
-# ADVERSE REACTIONS
+# ADVERSE REACTIONS:
 
-See WARNINGS concerning serious cardiorespiratory events and possible paradoxical reactions.
+SeeWARNINGS concerning serious cardiorespiratory events and possible paradoxical reactions.
 Fluctuations in vital signs were the most frequently seen findings following parenteral administration of midazolam in adults and included decreased tidal volume and/or respiratory rate decrease (23.3% of patients following IV and 10.8% of patients following IM administration) and apnea (15.4% of patients following IV administration), as well as variations in blood pressure and pulse rate.
 The majority of serious adverse effects, particularly those associated with oxygenation and ventilation, have been reported when midazolam is administered with other medications capable of depressing the central nervous system.
-The incidence of such events is higher in patients undergoing procedures involving the airway without the protective effect of an endotracheal tube (eg, upper endoscopy and dental procedures).
+The incidence of such events is higher in patients undergoing procedures involving the airway without the protective effect of an endotracheal tube (e.g., upper endoscopy and dental procedures).
 
 ## Adults
 
@@ -24,7 +24,7 @@ The following additional adverse reactions were reported subsequent to intraveno
 | hiccoughs (3.9%) | Local effects at the IV site |
 | --- | --- |
 | nausea (2.8%) | tenderness (5.6%) |
-| vomiting (2.6%) | pain during injection (5%) |
+| vomiting (2.6%) | pain during injection (5.0%) |
 | coughing (1.3%) | redness (2.6%) |
 | ‘‘oversedation’’ (1.6%) | induration (1.7%) |
 | headache (1.5%) | phlebitis (0.4%) |
@@ -32,14 +32,14 @@ The following additional adverse reactions were reported subsequent to intraveno
 
 ## Pediatric Patients
 
-The following adverse events related to the use of IV midazolam in pediatric patients were reported in the medical literature: desaturation 4.6%, apnea 2.8%, hypotension 2.7%, paradoxical reactions 2%, hiccough 1.2%, seizure-like activity 1.1% and nystagmus 1.1%.
+The following adverse events related to the use of IV midazolam in pediatric patients were reported in the medical literature: desaturation 4.6%, apnea 2.8%, hypotension 2.7%, paradoxical reactions 2.0%, hiccough 1.2%, seizure-like activity 1.1% and nystagmus 1.1%.
 The majority of airway-related events occurred in patients receiving other CNS depressing medications and in patients where midazolam was not used as a single sedating agent.
 
 ## Neonates
 
 For information concerning hypotensive episodes and seizures following the administration of midazolam to neonates (see BOXED WARNING, CONTRAINDICATIONS, WARNINGS and PRECAUTIONS).
 
-Other adverse experiences, observed mainly following IV injection as a single sedative/anxiolytic/amnesia agent and occurring at an incidence of <1% in adult and pediatric patients, are as follows:
+Other adverse experiences, observed mainly following IV injection as a single sedative/anxiolytic/amnesia agent and occurring at an incidence of <1.0% in adult and pediatric patients, are as follows:
 
 Respiratory: Laryngospasm, bronchospasm, dyspnea, hyperventilation, wheezing, shallow respirations, airway obstruction, tachypnea
 

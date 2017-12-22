@@ -1,7 +1,7 @@
-# DESCRIPTION
+# DESCRIPTION:
 
 Midazolam Injection, USP is a water-soluble benzodiazepine available as a sterile, non pyrogenic parenteral dosage form for intravenous or intramuscular injection.
-Each mL contains midazolam hydrochloride equivalent to 1 mg or 5 mg midazolam compounded with 0.8% sodium chloride and 0.01% disodium edetate, with 1% benzyl alcohol as preservative; the pH is adjusted to 3 to 3.6 with hydrochloric acid and, if necessary, sodium hydroxide.
+Each mL contains midazolam hydrochloride equivalent to 1 mg or 5 mg midazolam compounded with 0.8% sodium chloride and 0.01% edetate disodium, with 1% benzyl alcohol as preservative; the pH is adjusted to 3 to 3.6 with hydrochloric acid and, if necessary, sodium hydroxide.
 
 Midazolam is a white to light yellow crystalline compound, insoluble in water.
 The hydrochloride salt of midazolam, which is formed in situ, is soluble in aqueous solutions.
