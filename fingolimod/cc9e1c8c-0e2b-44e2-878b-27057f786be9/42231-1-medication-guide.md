@@ -122,7 +122,7 @@ Before you take GILENYA, tell your doctor about all your medical conditions, inc
 - breathing problems, including during your sleep
 - liver problems
 - high blood pressure
-- a type of skin cancer called basal cell carcinoma (BCC).
+- skin cancers such as basal cell carcinoma (BCC) and melanoma
 - Are pregnant or plan to become pregnant.
   GILENYA may harm your unborn baby.
   Talk to your doctor if you are pregnant or are planning to become pregnant.
@@ -203,8 +203,9 @@ Serious side effects include:
   - tiredness
   - your skin or the whites of your eyes turn yellow
   - dark urine
-- a type of skin cancer called basal cell carcinoma (BCC).
-  Talk to your doctor if you notice any skin nodules (e.g., shiny pearly nodules), patches or open sores that do not heal within weeks (these may be signs of BCC).
+- skin cancers including basal cell carcinoma (BCC) and melanoma.
+  Talk to your doctor if you notice any skin nodules (e.g., shiny pearly nodules), patches or open sores that do not heal within weeks, or unusual moles, which may present as a change in color, shape, or size over time.
+  These may be signs of skin cancer.
 
 The most common side effects of GILENYA include:
 
@@ -260,6 +261,6 @@ Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07
 
 © Novartis
 
-T2016-23
+T2017-120
 
-Revised: February 2016
+Revised: 12/2017

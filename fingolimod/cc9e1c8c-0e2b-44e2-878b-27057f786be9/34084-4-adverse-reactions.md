@@ -11,7 +11,7 @@ The following serious adverse reactions are described elsewhere in labeling:
 - Liver Injury [see Warnings and Precautions (5.7)]
 - Fetal Risk [see Warnings and Precautions (5.8)]
 - Increased Blood Pressure [see Warnings and Precautions (5.9)]
-- Basal Cell Carcinoma [see Warnings and Precautions (5.10)]
+- Cutaneous Malignancies [see Warnings and Precautions (5.10)]
 - Immune System Effects Following GILENYA Discontinuation [see Warnings and Precautions (5.11)]
 - Hypersensitivity Reactions [see Warnings and Precautions (5.12)]
 

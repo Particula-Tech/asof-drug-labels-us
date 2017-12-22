@@ -2,7 +2,7 @@
 
 ## 5.1 Bradyarrhythmia and Atrioventricular Blocks
 
-Because of a risk for bradyarrhythmia and atrioventricular (AV) blocks, patients should be monitored during GILENYA treatment initiation [see Dosage and Administration (2)].
+Because of a risk for bradyarrhythmia and atrioventricular (AV) blocks, patients should be monitored during GILENYA treatment initiation [see Dosage and Administration (2.2)].
 
 Reduction in Heart Rate
 
@@ -39,6 +39,7 @@ Risk of Infections
 
 GILENYA causes a dose-dependent reduction in peripheral lymphocyte count to 20%–30% of baseline values because of reversible sequestration of lymphocytes in lymphoid tissues.
 GILENYA may therefore increase the risk of infections, some serious in nature [see Clinical Pharmacology (12.2)].
+Life-threatening and fatal infections have occurred in association with GILENYA.
 
 Before initiating treatment with GILENYA, a recent CBC (i.e., within 6 months or after discontinuation of prior therapy) should be available.
 Consider suspending treatment with GILENYA if a patient develops a serious infection, and reassess the benefits and risks prior to reinitiation of therapy.
@@ -62,7 +63,6 @@ One death was due to disseminated primary herpes zoster and the other to herpes 
 In both cases, the patients were taking a 1.25 mg dose of fingolimod (higher than the recommended 0.5 mg dose) and had received high-dose corticosteroid therapy to treat suspected MS relapses.
 
 Serious, life-threatening events of disseminated varicella zoster and herpes simplex infections, including cases of encephalitis and multiorgan failure, have occurred with GILENYA in the postmarketing setting.
-One of these events was fatal.
 Include disseminated herpetic infections in the differential diagnosis of patients who are receiving GILENYA and present with an atypical MS relapse or multiorgan failure.
 
 Cases of Kaposi’s sarcoma have been reported in the postmarketing setting.
@@ -71,14 +71,14 @@ Patients with symptoms or signs consistent with Kaposi’s sarcoma should be ref
 
 Cryptococcal infections
 
-Cryptococcal infections, including cases of cryptococcal meningitis and disseminated cryptococcal infections, have been reported with GILENYA in the postmarketing setting.
+Cryptococcal infections, including cases of fatal cryptococcal meningitis and disseminated cryptococcal infections, have been reported with GILENYA in the postmarketing setting.
 Cryptococcal infections have generally occurred after approximately 2 years of GILENYA treatment, but may occur earlier.
 The relationship between the risk of cryptococcal infection and the duration of treatment is unknown.
 Patients with symptoms and signs consistent with a cryptococcal infection should undergo prompt diagnostic evaluation and treatment.
 
 Prior and Concomitant Treatment with Antineoplastic, Immunosuppressive, or Immune-Modulating Therapies
 
-In clinical studies, patients who received GILENYA did not receive concomitant treatment with antineoplastic, non-corticosteroid immunosuppressive, or immune-modulating therapies used for treatment of MS. Concomitant use of GILENYA with any of these therapies, and also with corticosteroids, would be expected to increase the risk of immunosuppression [see Drug Interactions (7)].
+In clinical studies, patients who received GILENYA did not receive concomitant treatment with antineoplastic, non-corticosteroid immunosuppressive, or immune-modulating therapies used for treatment of MS. Concomitant use of GILENYA with any of these therapies, and also with corticosteroids, would be expected to increase the risk of immunosuppression [see Drug Interactions (7.4)].
 
 When switching to GILENYA from immune-modulating or immunosuppressive medications, consider the duration of their effects and their mode of action to avoid unintended additive immunosuppressive effects.
 
@@ -91,14 +91,19 @@ VZV vaccination of antibody-negative patients is recommended prior to commencing
 
 Cases of progressive multifocal leukoencephalopathy (PML) have occurred in patients with MS who received GILENYA in the postmarketing setting.
 PML is an opportunistic viral infection of the brain caused by the JC virus (JCV) that typically only occurs in patients who are immunocompromised, and that usually leads to death or severe disability.
-PML has occurred in patients who had not been treated previously with natalizumab, which has a known association with PML, and who were also not taking any immunosuppressive or immunomodulatory medications concomitantly.
-The patients had no other ongoing identified systemic medical conditions resulting in compromised immune system function, although one patient had a history of cancer treated with chemotherapy several years prior to taking Gilenya.
-The cases have occurred in patients treated with GILENYA for at least 2 years.
+PML has occurred in patients who had not been treated previously with natalizumab, which has a known association with PML, were not taking any other immunosuppressive or immunomodulatory medications concomitantly, and did not have any ongoing systemic medical conditions resulting in compromised immune system function.
+The majority of cases have occurred in patients treated with GILENYA for at least 2 years.
 The relationship between the risk of PML and the duration of treatment is unknown.
 
 At the first sign or symptom suggestive of PML, withhold GILENYA and perform an appropriate diagnostic evaluation.
-MRI findings may be apparent before clinical signs or symptoms.
 Typical symptoms associated with PML are diverse, progress over days to weeks, and include progressive weakness on one side of the body or clumsiness of limbs, disturbance of vision, and changes in thinking, memory, and orientation leading to confusion and personality changes.
+
+MRI findings may be apparent before clinical signs or symptoms.
+Cases of PML, diagnosed based on MRI findings and the detection of JCV DNA in the cerebrospinal fluid in the absence of clinical signs or symptoms specific to PML, have been reported in patients treated with MS medications associated with PML, including GILENYA.
+Many of these patients subsequently became symptomatic with PML.
+Therefore, monitoring with MRI for signs that may be consistent with PML may be useful, and any suspicious findings should lead to further investigation to allow for an early diagnosis of PML, if present.
+Lower PML-related mortality and morbidity have been reported following discontinuation of another MS medication associated with PML in patients with PML who were initially asymptomatic compared to patients with PML who had characteristic clinical signs and symptoms at diagnosis.
+It is not known whether these differences are due to early detection and discontinuation of MS treatment or due to differences in disease in these patients.
 
 ## 5.4 Macular Edema
 
@@ -180,18 +185,21 @@ In MS controlled clinical trials, patients treated with GILENYA 0.5 mg had an av
 Hypertension was reported as an adverse reaction in 8% of patients on GILENYA 0.5 mg and in 4% of patients on placebo.
 Blood pressure should be monitored during treatment with GILENYA.
 
-## 5.10 Basal Cell Carcinoma
+## 5.10 Cutaneous Malignancies
 
-Basal cell carcinoma (BCC) is associated with use of GILENYA.
-In two-year placebo-controlled trials the incidence of BCC was 2% in patients on GILENYA 0.5 mg and 1% in patients on placebo [see Adverse reactions (6)].
+The risk of basal cell carcinoma (BCC) and melanoma is increased in patients treated with GILENYA.
+In two-year placebo-controlled trials, the incidence of BCC was 2% in patients on GILENYA 0.5 mg and 1% in patients on placebo [see Adverse Reactions (6.1)].
+Melanoma has been reported with GILENYA in the postmarketing setting.
+Periodic skin examination is recommended for all patients, particularly those with risk factors for skin cancer.
 Providers and patients are advised to monitor for suspicious skin lesions.
 If a suspicious skin lesion is observed, it should be promptly evaluated.
+As usual for patients with increased risk for skin cancer, exposure to sunlight and ultraviolet light should be limited by wearing protective clothing and using a sunscreen with a high protection factor.
 
 ## 5.11 Immune System Effects Following GILENYA Discontinuation
 
 Fingolimod remains in the blood and has pharmacodynamic effects, including decreased lymphocyte counts, for up to 2 months following the last dose of GILENYA.
 Lymphocyte counts generally return to the normal range within 1–2 months of stopping therapy [see Clinical Pharmacology (12.2)].
-Because of the continuing pharmacodynamic effects of fingolimod, initiating other drugs during this period warrants the same considerations needed for concomitant administration (e.g., risk of additive immunosuppressant effects) [see Drug Interactions (7)].
+Because of the continuing pharmacodynamic effects of fingolimod, initiating other drugs during this period warrants the same considerations needed for concomitant administration (e.g., risk of additive immunosuppressant effects) [see Drug Interactions (7.4)].
 
 ## 5.12 Hypersensitivity Reactions
 

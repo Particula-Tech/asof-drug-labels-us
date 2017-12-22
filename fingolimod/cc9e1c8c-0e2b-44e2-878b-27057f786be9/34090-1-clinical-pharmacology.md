@@ -142,7 +142,7 @@ Drug Interactions
 Ketoconazole
 
 The coadministration of ketoconazole (a potent inhibitor of CYP3A and CYP4F) 200 mg twice-daily at steady-state and a single dose of fingolimod 5 mg led to a 70% increase in AUC of fingolimod and fingolimod-phosphate.
-Patients who use GILENYA and systemic ketoconazole concomitantly should be closely monitored, as the risk of adverse reactions is greater [see Drug Interactions (7)].
+Patients who use GILENYA and systemic ketoconazole concomitantly should be closely monitored, as the risk of adverse reactions is greater [see Drug Interactions (7.2)].
 
 Carbamazepine
 

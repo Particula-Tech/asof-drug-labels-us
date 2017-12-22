@@ -13,14 +13,14 @@ Advise patients that if GILENYA is discontinued for more than 14 days, effects s
 
 Risk of Infections
 
-Inform patients that they may be more likely to get infections when taking GILENYA, and that they should contact their physician if they develop symptoms of infection.
+Inform patients that they may have an increased risk of infections, some of which could be life-threatening, when taking GILENYA, and that they should contact their physician if they develop symptoms of infection.
 Advise patients that the use of some vaccines should be avoided during treatment with GILENYA and for 2 months after discontinuation.
 Recommend to patients that they delay treatment with GILENYA until after VZV vaccination if they have not had chickenpox or a previous VZV vaccination.
 Inform patients that prior or concomitant use of drugs that suppress the immune system may increase the risk of infection.
 
 Progressive Multifocal Leukoencephalopathy
 
-Inform patients that a case of progressive multifocal leukoencephalopathy (PML) and a case of probable PML have occurred in patients who received GILENYA.
+Inform patients that cases of progressive multifocal leukoencephalopathy (PML) have occurred in patients who received GILENYA.
 Inform the patient that PML is characterized by a progression of deficits and usually leads to death or severe disability over weeks or months.
 Instruct the patient of the importance of contacting their doctor if they develop any symptoms suggestive of PML.
 Inform the patient that typical symptoms associated with PML are diverse, progress over days to weeks, and include progressive weakness on one side of the body or clumsiness of limbs, disturbance of vision, and changes in thinking, memory, and orientation leading to confusion and personality changes [see Warnings and Precautions (5.3)].
@@ -46,10 +46,11 @@ Discuss with women of childbearing age whether they are pregnant, might be pregn
 Advise women of childbearing age of the need for effective contraception during GILENYA treatment and for 2 months after stopping GILENYA.
 Advise the patient that if she should nevertheless become pregnant, she should immediately inform her physician.
 
-Basal Cell Carcinoma
+Cutaneous Malignancies
 
-Advise patients that basal cell carcinoma is associated with use of GILENYA.
-Advise patients that suspicious skin lesions should be promptly evaluated.
+Advise patients that basal cell carcinoma and melanoma are associated with use of GILENYA.
+Advise patients that any suspicious skin lesions should be promptly evaluated.
+Advise patients to limit exposure to sunlight and ultraviolet light by wearing protective clothing and using a sunscreen with a high protection factor.
 
 Persistence of GILENYA Effects after Drug Discontinuation
 
@@ -60,4 +61,4 @@ Hypersensitivity Reactions
 Advise patients that GILENYA may cause hypersensitivity reactions including rash, urticaria, and angioedema.
 Advise patients to contact their physician if they have any symptoms associated with hypersensitivity.
 
-T2016-22 February 2016
+T2017-119
