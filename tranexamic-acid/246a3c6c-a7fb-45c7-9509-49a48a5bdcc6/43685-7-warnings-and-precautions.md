@@ -1,6 +1,6 @@
 # WARNINGS
 
-Focal areas of retinal degeneration have developed in cats, dogs, and rats following oral or intravenous tranexamic acid at doses between 250 to 1600 mg/kg/day (6 to 40 times the recommended usual human dose) from 6 days to 1 year.
+Focal areas of retinal degeneration have developed in cats, dogs, and rats following oral or intravenous tranexamic acid at doses between 250 to 1,600 mg/kg/day (6 to 40 times the recommended usual human dose) from 6 days to 1 year.
 The incidence of such lesions has varied from 25% to 100% of animals treated and was dose-related.
 At lower doses, some lesions have appeared to be reversible.
 Limited data in cats and rabbits showed retinal changes in some animals with doses as low as 126 mg/kg/day (only about 3 times the recommended human dose) administered for several days to two weeks.
@@ -9,13 +9,13 @@ However, visual abnormalities, often poorly characterized, represent the most fr
 For patients who are to be treated continually for longer than several days, an ophthalmological examination, including visual acuity, color vision, eye-ground, and visual fields, is advised, before commencing and at regular intervals during the course of treatment.
 Tranexamic acid should be discontinued if changes in examination results are found.
 Convulsions have been reported in association with tranexamic acid treatment, particularly in patients receiving tranexamic acid during cardiovascular surgery and in patients inadvertently given tranexamic acid into the neuraxial system.
+Cases of allergic reaction with use of intravenous tranexamic acid, including anaphylaxis or anaphylactoid reaction have been reported that are suggestive of a causal relationship.
 
 # PRECAUTIONS
 
 ## General
 
-The dose of tranexamic acid injection should be reduced in patients with renal insufficiency because of the risk of accumulation.
-(See DOSAGE AND ADMINISTRATION.)
+The dose of tranexamic acid injection should be reduced in patients with renal insufficiency because of the risk of accumulation (see DOSAGE AND ADMINISTRATION).
 Ureteral obstruction due to clot formation in patients with upper urinary tract bleeding has been reported in patients treated with tranexamic acid.
 Venous and arterial thrombosis or thromboembolism has been reported in patients treated with tranexamic acid.
 In addition, cases of central retinal artery and central retinal vein obstruction have been reported.
@@ -38,7 +38,7 @@ Subsequent long-term dietary administration studies in a different strain of rat
 No mutagenic activity has been demonstrated in several in vitro and in vivo test systems.
 There are no clinical data to assess the effects of tranexamic acid on fertility.
 
-## Pregnancy (Category B)
+## Pregnancy
 
 Reproduction studies performed in mice, rats, and rabbits have not revealed any evidence of impaired fertility or adverse effects on the fetus due to tranexamic acid.
 There are no adequate and well-controlled studies in pregnant women.
