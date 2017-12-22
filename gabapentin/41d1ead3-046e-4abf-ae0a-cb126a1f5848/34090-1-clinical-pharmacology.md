@@ -1,189 +1,127 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-## Mechanism of Action
+## 12.1 Mechanism of Action
 
-The mechanism by which gabapentin exerts its analgesic action is unknown, but in animal models of analgesia, gabapentin prevents allodynia (pain-related behavior in response to a normally innocuous stimulus) and hyperalgesia (exaggerated response to painful stimuli).
-In particular, gabapentin prevents pain-related responses in several models of neuropathic pain in rats or mice (e.g., spinal nerve ligation models, streptozocin-induced diabetes model, spinal cord injury model, acute herpes zoster infection model).
-Gabapentin also decreases pain-related responses after peripheral inflammation (carrageenan footpad test, late phase of formalin test).
-Gabapentin did not alter immediate pain-related behaviors (rat tail flick test, formalin footpad acute phase, acetic acid abdominal constriction test, footpad heat irradiation test).
-The relevance of these models to human pain is not known.
+The precise mechanisms by which gabapentin produces its analgesic and antiepileptic actions are unknown.
+Gabapentin is structurally related to the neurotransmitter gamma-aminobutyric acid (GABA) but has no effect on GABA binding, uptake, or degradation.
+In vitro studies have shown that gabapentin binds with high-affinity to the α2δ subunit of voltage-activated calcium channels; however, the relationship of this binding to the therapeutic effects of gabapentin is unknown.
 
-The mechanism by which gabapentin exerts its anticonvulsant action is unknown, but in animal test systems designed to detect anticonvulsant activity, gabapentin prevents seizures as do other marketed anticonvulsants.
-Gabapentin exhibits antiseizure activity in mice and rats in both the maximal electroshock and pentylenetetrazole seizure models and other preclinical models (e.g., strains with genetic epilepsy, etc.). The relevance of these models to human epilepsy is not known.
-
-Gabapentin is structurally related to the neurotransmitter GABA (gamma-aminobutyric acid) but it does not modify GABAA or GABAB radioligand binding, it is not converted metabolically into GABA or a GABA agonist, and it is not an inhibitor of GABA uptake or degradation.
-Gabapentin was tested in radioligand binding assays at concentrations up to 100 μM and did not exhibit affinity for a number of other common receptor sites, including benzodiazepine, glutamate, N-methyl-D-aspartate (NMDA), quisqualate, kainate, strychnine-insensitive or strychnine-sensitive glycine, alpha 1, alpha 2, or beta adrenergic, adenosine A1 or A2, cholinergic muscarinic or nicotinic, dopamine D1 or D2, histamine H1, serotonin S1 or S2, opiate mu, delta or kappa, cannabinoid 1, voltage-sensitive calcium channel sites labeled with nitrendipine or diltiazem, or at voltage-sensitive sodium channel sites labeled with batrachotoxinin A 20-alpha-benzoate.
-Furthermore, gabapentin did not alter the cellular uptake of dopamine, noradrenaline, or serotonin.
-
-In vitro studies with radiolabeled gabapentin have revealed a gabapentin binding site in areas of rat brain including neocortex and hippocampus.
-A high-affinity binding protein in animal brain tissue has been identified as an auxiliary subunit of voltage-activated calcium channels.
-However, functional correlates of gabapentin binding, if any, remain to be elucidated.
-
-## Pharmacokinetics and Drug Metabolism
+## 12.3 Pharmacokinetics
 
 All pharmacological actions following gabapentin administration are due to the activity of the parent compound; gabapentin is not appreciably metabolized in humans.
 
-### Oral Bioavailability
+Oral Bioavailability
 
 Gabapentin bioavailability is not dose proportional; i.e., as dose is increased, bioavailability decreases.
-Bioavailability of gabapentin is approximately 60%, 47%, 34%, 33%, and 27% following 900, 1200, 2400, 3600, and 4800 mg/day given in 3 divided doses, respectively.
+Bioavailability of gabapentin is approximately 60%, 47%, 34%, 33%, and 27% following 900 mg, 1,200 mg, 2,400 mg, 3,600 mg, and 4,800 mg/day given in 3 divided doses, respectively.
 Food has only a slight effect on the rate and extent of absorption of gabapentin (14% increase in AUC and Cmax).
 
-### Distribution
-
-Less than 3% of gabapentin circulates bound to plasma protein.
-The apparent volume of distribution of gabapentin after 150 mg intravenous administration is 58 ± 6 L (Mean ± SD).
+Distribution Less than 3% of gabapentin circulates bound to plasma protein.
+The apparent volume of distribution of gabapentin after 150 mg intravenous administration is 58±6 L (mean ±SD).
 In patients with epilepsy, steady-state predose (Cmin) concentrations of gabapentin in cerebrospinal fluid were approximately 20% of the corresponding plasma concentrations.
 
-### Elimination
-
-Gabapentin is eliminated from the systemic circulation by renal excretion as unchanged drug.
+Elimination Gabapentin is eliminated from the systemic circulation by renal excretion as unchanged drug.
 Gabapentin is not appreciably metabolized in humans.
+
 Gabapentin elimination half-life is 5 to 7 hours and is unaltered by dose or following multiple dosing.
-Gabapentin elimination rate constant, plasma clearance, and renal clearance are directly proportional to creatinine clearance (see Special Populations:Patients With Renal Insufficiency, below).
+Gabapentin elimination rate constant, plasma clearance, and renal clearance are directly proportional to creatinine clearance.
 In elderly patients, and in patients with impaired renal function, gabapentin plasma clearance is reduced.
 Gabapentin can be removed from plasma by hemodialysis.
 
-Dosage adjustment in patients with compromised renal function or undergoing hemodialysis is recommended (see DOSAGE AND ADMINISTRATION, Table 6).
-
-### Special Populations
-
-#### Adult Patients With Renal Insufficiency
-
-Subjects (N = 60) with renal insufficiency (mean creatinine clearance ranging from 13 to 114 mL/min) were administered single 400 mg oral doses of gabapentin.
-The mean gabapentin half-life ranged from about 6.5 hours (patients with creatinine clearance > 60 mL/min) to 52 hours (creatinine clearance < 30 mL/min) and gabapentin renal clearance from about 90 mL/min (> 60 mL/min group) to about 10 mL/min (< 30 mL/min).
-Mean plasma clearance (CL/F) decreased from approximately 190 mL/min to 20 mL/min.
-
-Dosage adjustment in adult patients with compromised renal function is necessary (see DOSAGE AND ADMINISTRATION).
-Pediatric patients with renal insufficiency have not been studied.
-
-#### Hemodialysis
-
-In a study in anuric adult subjects (N = 11), the apparent elimination half-life of gabapentin on nondialysis days was about 132 hours; during dialysis the apparent half-life of gabapentin was reduced to 3.8 hours.
-Hemodialysis thus has a significant effect on gabapentin elimination in anuric subjects.
-
-Dosage adjustment in patients undergoing hemodialysis is necessary (see DOSAGE AND ADMINISTRATION).
-
-#### Hepatic Disease
-
-Because gabapentin is not metabolized, no study was performed in patients with hepatic impairment.
-
-#### Age
-
-The effect of age was studied in subjects 20 to 80 years of age.
+Specific Populations Age The effect of age was studied in subjects 20 to 80 years of age.
 Apparent oral clearance (CL/F) of gabapentin decreased as age increased, from about 225 mL/min in those under 30 years of age to about 125 mL/min in those over 70 years of age.
 Renal clearance (CLr) and CLr adjusted for body surface area also declined with age; however, the decline in the renal clearance of gabapentin with age can largely be explained by the decline in renal function.
-Reduction of gabapentin dose may be required in patients who have age related compromised renal function.
-(See PRECAUTIONS, Geriatric Use and DOSAGE AND ADMINISTRATION).
+[see Dosage and Administration (2.4)and Use in Specific Populations (8.5)].
 
-#### Pediatric
+Gender Although no formal study has been conducted to compare the pharmacokinetics of gabapentin in men and women, it appears that the pharmacokinetic parameters for males and females are similar and there are no significant gender differences.
 
-Gabapentin pharmacokinetics were determined in 48 pediatric subjects between the ages of 1 month and 12 years following a dose of approximately 10 mg/kg.
+Race Pharmacokinetic differences due to race have not been studied.
+Because gabapentin is primarily renally excreted and there are no important racial differences in creatinine clearance, pharmacokinetic differences due to race are not expected.
+
+Pediatric Gabapentin pharmacokinetics were determined in 48 pediatric subjects between the ages of 1 month and 12 years following a dose of approximately 10 mg/kg.
 Peak plasma concentrations were similar across the entire age group and occurred 2 to 3 hours postdose.
-In general, pediatric subjects between 1 month and < 5 years of age achieved approximately 30% lower exposure (AUC) than that observed in those 5 years of age and older.
+In general, pediatric subjects between 1 month and <5 years of age achieved approximately 30% lower exposure (AUC) than that observed in those 5 years of age and older.
 Accordingly, oral clearance normalized per body weight was higher in the younger children.
 Apparent oral clearance of gabapentin was directly proportional to creatinine clearance.
 Gabapentin elimination half-life averaged 4.7 hours and was similar across the age groups studied.
 
 A population pharmacokinetic analysis was performed in 253 pediatric subjects between 1 month and 13 years of age.
-Patients received 10 to 65 mg/kg/day given TID.
+Patients received 10 to 65 mg/kg/day given three times a day.
 Apparent oral clearance (CL/F) was directly proportional to creatinine clearance and this relationship was similar following a single dose and at steady state.
-Higher oral clearance values were observed in children < 5 years of age compared to those observed in children 5 years of age and older, when normalized per body weight.
-The clearance was highly variable in infants < 1 year of age.
+Higher oral clearance values were observed in children <5 years of age compared to those observed in children 5 years of age and older, when normalized per body weight.
+The clearance was highly variable in infants <1 year of age.
 The normalized CL/F values observed in pediatric patients 5 years of age and older were consistent with values observed in adults after a single dose.
 The oral volume of distribution normalized per body weight was constant across the age range.
 
-These pharmacokinetic data indicate that the effective daily dose in pediatric patients with epilepsy ages 3 and 4 years should be 40 mg/kg/day to achieve average plasma concentrations similar to those achieved in patients 5 years of age and older receiving gabapentin at 30 mg/kg/day (see DOSAGE AND ADMINISTRATION).
+These pharmacokinetic data indicate that the effective daily dose in pediatric patients with epilepsy ages 3 and 4 years should be 40 mg/kg/day to achieve average plasma concentrations similar to those achieved in patients 5 years of age and older receiving gabapentin at 30 mg/kg/day [see Dosage and Administration (2.1)].
 
-#### Gender
+Adult Patients with Renal Impairment
 
-Although no formal study has been conducted to compare the pharmacokinetics of gabapentin in men and women, it appears that the pharmacokinetic parameters for males and females are similar and there are no significant gender differences.
+Subjects (N=60) with renal impairment (mean creatinine clearance ranging from 13 mL/min to 114 mL/min) were administered single 400 mg oral doses of gabapentin.
+The mean gabapentin half-life ranged from about 6.5 hours (patients with creatinine clearance >60 mL/min) to 52 hours (creatinine clearance <30 mL/min) and gabapentin renal clearance from about 90 mL/min (>60 mL/min group) to about 10 mL/min (<30 mL/min).
+Mean plasma clearance (CL/F) decreased from approximately 190 mL/min to 20 mL/min [see Dosage and Administration (2.3) and Use in Specific Populations (8.6)].
+Pediatric patients with renal insufficiency have not been studied.
 
-#### Race
+Hemodialysis
 
-Pharmacokinetic differences due to race have not been studied.
-Because gabapentin is primarily renally excreted and there are no important racial differences in creatinine clearance, pharmacokinetic differences due to race are not expected.
+In a study in anuric adult subjects (N=11), the apparent elimination half-life of gabapentin on nondialysis days was about 132 hours; during dialysis the apparent half-life of gabapentin was reduced to 3.8 hours.
+Hemodialysis thus has a significant effect on gabapentin elimination in anuric subjects [see Dosage and Administration (2.3)and Use in Specific Populations (8.6)].
 
-## Clinical Studies
+Hepatic Disease
 
-### Postherpetic Neuralgia
+Because gabapentin is not metabolized, no study was performed in patients with hepatic impairment.
 
-Gabapentin was evaluated for the management of postherpetic neuralgia (PHN) in 2 randomized, double-blind, placebo-controlled, multicenter studies; N = 563 patients in the intent-to-treat (ITT) population (Table 1).
-Patients were enrolled if they continued to have pain for more than 3 months after healing of the herpes zoster skin rash.
+Drug Interactions
 
-TABLE 1.
-Controlled PHN Studies: Duration, Dosages, and Number of Patients
+- In Vitro Studies In vitro studies were conducted to investigate the potential of gabapentin to inhibit the major cytochrome P450 enzymes (CYP1A2, CYP2A6, CYP2C9, CYP2C19, CYP2D6, CYP2E1, and CYP3A4) that mediate drug and xenobiotic metabolism using isoform selective marker substrates and human liver microsomal preparations.
+  Only at the highest concentration tested (171 mcg/mL; 1 mM) was a slight degree of inhibition (14% to 30%) of isoform CYP2A6 observed.
+  No inhibition of any of the other isoforms tested was observed at gabapentin concentrations up to 171 mcg/mL (approximately 15 times the Cmax at 3,600 mg/day).
+- In Vivo Studies The drug interaction data described in this section were obtained from studies involving healthy adults and adult patients with epilepsy.
 
-| Study | Study Duration | Gabapentin (mg/day)a Target Dose | Patients Receiving Gabapentin | Patients Receiving Placebo |
-| --- | --- | --- | --- | --- |
-| 1 | 8 weeks | 3600 | 113 | 116 |
-| 2 | 7 weeks | 1800, 2400 | 223 | 111 |
-|  |  | Total | 336 | 227 |
-| a Given in 3 divided doses (TID) |  |  |  |  |
+Phenytoin
 
-Each study included a 1 week baseline during which patients were screened for eligibility and a 7-or 8-week double-blind phase (3 or 4 weeks of titration and 4 weeks of fixed dose).
-Patients initiated treatment with titration to a maximum of 900 mg/day gabapentin over 3 days.
-Dosages were then to be titrated in 600 to 1200 mg/day increments at 3-to 7-day intervals to target dose over 3 to 4 weeks.
-In Study 1, patients were continued on lower doses if not able to achieve the target dose.
-During baseline and treatment, patients recorded their pain in a daily diary using an 11-point numeric pain rating scale ranging from 0 (no pain) to 10 (worst possible pain).
-A mean pain score during baseline of at least 4 was required for randomization (baseline mean pain score for Studies 1and2 combined was 6.4).
-Analyses were conducted using the ITT population (all randomized patients who received at least one dose of study medication).
+In a single (400 mg) and multiple dose (400 mg three times a day) study of gabapentin in epileptic patients (N=8) maintained on phenytoin monotherapy for at least 2 months, gabapentin had no effect on the steady-state trough plasma concentrations of phenytoin and phenytoin had no effect on gabapentin pharmacokinetics.
 
-Both studies showed significant differences from placebo at all doses tested.
+Carbamazepine
 
-A significant reduction in weekly mean pain scores was seen by Week 1 in both studies, and significant differences were maintained to the end of treatment.
-Comparable treatment effects were observed in all active treatment arms.
-Pharmacokinetic/pharmacodynamic modeling provided confirmatory evidence of efficacy across all doses.
-Figures 1 and 2 show these changes for Studies 1 and 2.
+Steady-state trough plasma carbamazepine and carbamazepine 10, 11 epoxide concentrations were not affected by concomitant gabapentin (400 mg three times a day; N=12) administration.
+Likewise, gabapentin pharmacokinetics were unaltered by carbamazepine administration.
 
-The proportion of responders (those patients reporting at least 50% improvement in endpoint pain score compared with baseline) was calculated for each study (Figure3).
+Valproic Acid
 
-### Epilepsy
+The mean steady-state trough serum valproic acid concentrations prior to and during concomitant gabapentin administration (400 mg three times a day; N=17) were not different and neither were gabapentin pharmacokinetic parameters affected by valproic acid.
 
-The effectiveness of gabapentin as adjunctive therapy (added to other antiepileptic drugs) was established in multicenter placebo-controlled, double-blind, parallel-group clinical trials in adult and pediatric patients (3 years and older) with refractory partial seizures.
+Phenobarbital
 
-Evidence of effectiveness was obtained in three trials conducted in 705 patients (age 12 years and above) and one trial conducted in 247 pediatric patients (3 to 12 years of age).
-The patients enrolled had a history of at least 4 partial seizures per month in spite of receiving one or more antiepileptic drugs at therapeutic levels and were observed on their established antiepileptic drug regimen during a 12 week baseline period (6 weeks in the study of pediatric patients).
-In patients continuing to have at least 2 (or 4 in some studies) seizures per month, gabapentin or placebo was then added on to the existing therapy during a 12 week treatment period.
-Effectiveness was assessed primarily on the basis of the percent of patients with a 50% or greater reduction in seizure frequency from baseline to treatment (the "responder rate") and a derived measure called response ratio, a measure of change defined as (T - B)/(T + B), where B is the patient’s baseline seizure frequency and T is the patient’s seizure frequency during treatment.
-Response ratio is distributed within the range -1 to +1.
-A zero value indicates no change while complete elimination of seizures would give a value of -1; increased seizure rates would give positive values.
-A response ratio of -0.33 corresponds to a 50% reduction in seizure frequency.
-The results given below are for all partial seizures in the intent-to-treat (all patients who received any doses of treatment) population in each study, unless otherwise indicated.
+Estimates of steady-state pharmacokinetic parameters for phenobarbital or gabapentin (300 mg three times a day; N=12) are identical whether the drugs are administered alone or together.
 
-One study compared gabapentin 1200 mg/day divided TID with placebo.
-Responder rate was 23% (14/61) in the gabapentin group and 9% (6/66) in the placebo group; the difference between groups was statistically significant.
-Response ratio was also better in the gabapentin group (-0.199) than in the placebo group (-0.044), a difference that also achieved statistical significance.
+Naproxen Coadministration (N=18) of naproxen sodium capsules (250 mg) with gabapentin (125 mg) appears to increase the amount of gabapentin absorbed by 12% to 15%.
+Gabapentin had no effect on naproxen pharmacokinetic parameters.
+These doses are lower than the therapeutic doses for both drugs.
+The magnitude of interaction within the recommended dose ranges of either drug is not known.
 
-A second study compared primarily 1200 mg/day divided TID gabapentin (N=101) with placebo (N=98).
-Additional smaller gabapentin dosage groups (600 mg/day, N=53; 1800 mg/day, N=54) were also studied for information regarding dose response.
-Responder rate was higher in the gabapentin 1200 mg/day group (16%) than in the placebo group (8%), but the difference was not statistically significant.
-The responder rate at 600 mg (17%) was also not significantly higher than in the placebo, but the responder rate in the 1800 mg group (26%) was statistically significantly superior to the placebo rate.
-Response ratio was better in the gabapentin 1200 mg/day group (-0.103) than in the placebo group (-0.022); but this difference was also not statistically significant (p = 0.224).
-A better response was seen in the gabapentin 600 mg/day group (-0.105) and 1800 mg/day group (-0.222) than in the 1200 mg/day group, with the 1800 mg/day group achieving statistical significance compared to the placebo group.
+Hydrocodone Coadministration of gabapentin (125 to 500 mg; N=48) decreases hydrocodone (10 mg; N=50) Cmax and AUC values in a dose-dependent manner relative to administration of hydrocodone alone; Cmax and AUC values are 3% to 4% lower, respectively, after administration of 125 mg gabapentin and 21% to 22% lower, respectively, after administration of 500 mg gabapentin.
+The mechanism for this interaction is unknown.
+Hydrocodone increases gabapentin AUC values by 14%.
+The magnitude of interaction at other doses is not known.
 
-A third study compared gabapentin 900 mg/day divided TID (N=111) and placebo (N=109).
-An additional gabapentin 1200 mg/day dosage group (N = 52) provided dose-response data.
-A statistically significant difference in responder rate was seen in the gabapentin 900 mg/day group (22%) compared to that in the placebo group (10%).
-Response ratio was also statistically significantly superior in the gabapentin 900 mg/day group (-0.119) compared to that in the placebo group (-0.027), as was response ratio in 1200 mg/day gabapentin (-0.184) compared to placebo.
+Morphine A literature article reported that when a 60 mg controlled-release morphine capsule was administered 2 hours prior to a 600 mg gabapentin capsule (N=12), mean gabapentin AUC increased by 44% compared to gabapentin administered without morphine.
+Morphine pharmacokinetic parameter values were not affected by administration of gabapentin 2 hours after morphine.
+The magnitude of interaction at other doses is not known.
 
-Analyses were also performed in each study to examine the effect of gabapentin on preventing secondarily generalized tonic-clonic seizures.
-Patients who experienced a secondarily generalized tonic-clonic seizure in either the baseline or in the treatment period in all three placebo-controlled studies were included in these analyses.
-There were several response ratio comparisons that showed a statistically significant advantage for gabapentin compared to placebo and favorable trends for almost all comparisons.
+Cimetidine In the presence of cimetidine at 300 mg QID (N=12), the mean apparent oral clearance of gabapentin fell by 14% and creatinine clearance fell by 10%.
+Thus, cimetidine appeared to alter the renal excretion of both gabapentin and creatinine, an endogenous marker of renal function.
+This small decrease in excretion of gabapentin by cimetidine is not expected to be of clinical importance.
+The effect of gabapentin on cimetidine was not evaluated.
 
-Analysis of responder rate using combined data from all three studies and all doses (N = 162, gabapentin; N = 89, placebo) also showed a significant advantage for gabapentin over placebo in reducing the frequency of secondarily generalized tonic-clonic seizures.
-In two of the three controlled studies, more than one dose of gabapentin was used.
-Within each study the results did not show a consistently increased response to dose.
-However, looking across studies, a trend toward increasing efficacy with increasing dose is evident (see Figure 4)
+Oral Contraceptive Based on AUC and half-life, multiple-dose pharmacokinetic profiles of norethindrone and ethinyl estradiol following administration of tablets containing 2.5 mg of norethindrone acetate and 50 mcg of ethinyl estradiol were similar with and without coadministration of gabapentin (400 mg three times a day; N=13).
+The Cmax of norethindrone was 13% higher when it was coadministered with gabapentin; this interaction is not expected to be of clinical importance.
 
-In the figure, treatment effect magnitude, measured on the Y axis in terms of the difference in the proportion of gabapentin and placebo assigned patients attaining a 50% or greater reduction in seizure frequency from baseline, is plotted against the daily dose of gabapentin administered (X axis).
+Antacid (Maalox®) (aluminum hydroxide, magnesium hydroxide)
 
-Although no formal analysis by gender has been performed, estimates of response (Response Ratio) derived from clinical trials (398 men, 307 women) indicate no important gender differences exist.
-There was no consistent pattern indicating that age had any effect on the response to gabapentin.
-There were insufficient numbers of patients of races other than Caucasian to permit a comparison of efficacy among racial groups.
-A fourth study in pediatric patients age 3 to 12 years compared 25 to 35 mg/kg/day gabapentin (N = 118) with placebo (N = 127).
-For all partial seizures in the intent-to-treat population, the response ratio was statistically significantly better for the gabapentin group (-0.146) than for the placebo group (-0.079).
-For the same population, the responder rate for gabapentin (21%) was not significantly different from placebo (18%).
-A study in pediatric patients age 1 month to 3 years compared 40 mg/kg/day gabapentin (N = 38) with placebo (N = 38) in patients who were receiving at least one marketed antiepileptic drug and had at least one partial seizure during the screening period (within 2 weeks prior to baseline).
-Patients had up to 48 hours of baseline and up to 72 hours of double-blind video EEG monitoring to record and count the occurrence of seizures.
-There were no statistically significant differences between treatments in either the response ratio or responder rate.
+Antacid (Maalox®) containing magnesium and aluminum hydroxides reduced the mean bioavailability of gabapentin (N=16) by about 20%.
+This decrease in bioavailability was about 10% when gabapentin was administered 2 hours after Maalox.
+
+Probenecid Probenecid is a blocker of renal tubular secretion.
+Gabapentin pharmacokinetic parameters without and with probenecid were comparable.
+This indicates that gabapentin does not undergo renal tubular secretion by the pathway that is blocked by probenecid.

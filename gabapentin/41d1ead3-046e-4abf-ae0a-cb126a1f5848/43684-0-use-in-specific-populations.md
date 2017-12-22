@@ -1,0 +1,59 @@
+# 8 USE IN SPECIFIC POPULATIONS
+
+## 8.1 Pregnancy
+
+Pregnancy Category C: There are no adequate and well-controlled studies in pregnant women.
+In nonclinical studies in mice, rats, and rabbits, gabapentin was developmentally toxic when administered to pregnant animals at doses similar to or lower than those used clinically.
+Gabapentin should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+
+When pregnant mice received oral doses of gabapentin (500 mg, 1,000 mg, or 3,000 mg/kg/day) during the period of organogenesis, embryo-fetal toxicity (increased incidences of skeletal variations) was observed at the two highest doses.
+The no-effect dose for embryo-fetal developmental toxicity in mice was 500 mg/kg/day or approximately ½ of the maximum recommended human dose (MRHD) of 3,600 mg/kg on a body surface area (mg/m2) basis.
+
+In studies in which rats received oral doses of gabapentin (500 to 2,000 mg/kg/day), during pregnancy, adverse effect on offspring development (increased incidences of hydroureter and/or hydronephrosis) were observed at all doses.
+The lowest effect dose for developmental toxicity in rats is approximately equal to the MRHD on a mg/m2 basis.
+
+When pregnant rabbits were treated with gabapentin during the period of organogenesis, an increase in embryo-fetal mortality was observed at all doses tested (60 mg, 300 mg, or 1,500 mg/kg).
+The lowest effect dose for embryo-fetal developmental toxicity in rabbits is less than the MRHD on a mg/m2 basis.
+
+In a published study, gabapentin (400 mg/kg/day) was administered by intraperitoneal injection to neonatal mice during the first postnatal week, a period of synaptogenesis in rodents (corresponding to the last trimester of pregnancy in humans).
+Gabapentin caused a marked decrease in neuronal synapse formation in brains of intact mice and abnormal neuronal synapse formation in a mouse model of synaptic repair.
+Gabapentin has been shown in vitro to interfere with activity of the α2δ subunit of voltage-activated calcium channels, a receptor involved in neuronal synaptogenesis.
+The clinical significance of these findings is unknown.
+
+To provide information regarding the effects of in utero exposure to gabapentin, physicians are advised to recommend that pregnant patients taking gabapentin enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
+This can be done by calling the toll free number 1-888-233-2334, and must be done by patients themselves.
+Information on the registry can also be found at the website http://www.aedpregnancyregistry.org/.
+
+## 8.3 Nursing Mothers
+
+Gabapentin is secreted into human milk following oral administration.
+A nursed infant could be exposed to a maximum dose of approximately 1 mg/kg/day of gabapentin.
+Because the effect on the nursing infant is unknown, gabapentin should be used in women who are nursing only if the benefits clearly outweigh the risks.
+
+## 8.4 Pediatric Use
+
+Safety and effectiveness of gabapentin in the management of postherpetic neuralgia in pediatric patients have not been established.
+
+Effectiveness as adjunctive therapy in the treatment of partial seizures in pediatric patients below the age of 3 years has not been established [see Clinical Studies (14.2)].
+
+## 8.5 Geriatric Use
+
+The total number of patients treated with gabapentin in controlled clinical trials in patients with postherpetic neuralgia was 336, of which 102 (30%) were 65 to 74 years of age, and 168 (50%) were 75 years of age and older.
+There was a larger treatment effect in patients 75 years of age and older compared with younger patients who received the same dosage.
+Since gabapentin is almost exclusively eliminated by renal excretion, the larger treatment effect observed in patients ≥75 years may be a consequence of increased gabapentin exposure for a given dose that results from an age-related decrease in renal function.
+However, other factors cannot be excluded.
+The types and incidence of adverse reactions were similar across age groups except for peripheral edema and ataxia, which tended to increase in incidence with age.
+
+Clinical studies of gabapentin in epilepsy did not include sufficient numbers of subjects aged 65 and over to determine whether they responded differently from younger subjects.
+Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
+In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+
+This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
+Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and dose should be adjusted based on creatinine clearance values in these patients [see Dosage and Administration (2.4), Adverse Reactions (6), and Clinical Pharmacology (12.3)].
+
+## 8.6 Renal Impairment
+
+Dosage adjustment in adult patients with compromised renal function is necessary [see Dosage and Administration (2.3)and Clinical Pharmacology (12.3)].
+Pediatric patients with renal insufficiency have not been studied.
+
+Dosage adjustment in patients undergoing hemodialysis is necessary [see Dosage and Administration (2.3)and Clinical Pharmacology (12.3)].
