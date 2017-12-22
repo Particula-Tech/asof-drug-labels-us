@@ -98,15 +98,7 @@ Aztreonam has been shown to be active against most strains of the following micr
 
 Aerobic Gram-negative microorganisms:
 
-- Citrobacter species
-- Enterobacter species
-- Escherichia coli
-- Haemophilus influenzae (including ampicillin-resistant and other penicillinase-producing strains)
-- Klebsiella oxytoca
-- Klebsiella pneumoniae
-- Proteus mirabilis
-- Pseudomonas aeruginosa
-- Serratia species
+Citrobacter species Enterobacter species Escherichia coli Haemophilus influenzae (including ampicillin-resistant and other penicillinase-producing strains) Klebsiella oxytoca Klebsiella pneumoniae Proteus mirabilis Pseudomonas aeruginosa Serratia species
 
 The following in vitro data are available, but their clinical significance is unknown.
 At least 90% of the following microorganisms exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for aztreonam.
@@ -114,14 +106,7 @@ However, the efficacy of aztreonam in treating clinical infections due to these 
 
 Aerobic Gram-negative microorganisms:
 
-- Aeromonas hydrophila
-- Morganella morganii
-- Neisseria gonorrhoeae (including penicillinase-producing strains)
-- Pasteurella multocida
-- Proteus vulgaris
-- Providencia stuartii
-- Providencia rettgeri
-- Yersinia enterocolitica
+Aeromonas hydrophila Morganella morganii Neisseria gonorrhoeae (including penicillinase-producing strains) Pasteurella multocida Proteus vulgaris Providencia stuartii Providencia rettgeri Yersinia enterocolitica
 
 Aztreonam and aminoglycosides have been shown to be synergistic in vitro against most strains of P. aeruginosa, many strains of Enterobacteriaceae, and other Gram-negative aerobic bacilli.
 
