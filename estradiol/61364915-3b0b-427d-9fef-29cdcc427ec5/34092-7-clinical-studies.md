@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Effects on Vasomotor Symptoms
+## 14.1Effects on Vasomotor Symptoms
 
 A 13-week double-blind, placebo-controlled clinical trial was conducted to evaluate the efficacy of 2 doses of the vaginal ring in the treatment of moderate to severe vasomotor symptoms in 333 postmenopausal women between 29 and 85 years of age (mean age 51.7 years, 77 percent were Caucasian) who had at least 7 moderate to severe hot flushes daily or at least 56 moderate to severe hot flushes per week before randomization.
 Patients were randomized to receive either placebo, Femring 0.05 mg/day or Femring 0.10 mg/day.
@@ -8,39 +8,47 @@ Femring 0.05 mg/day and Femring 0.10 mg/day were shown to be statistically bette
 Frequency results are shown in Table 3.
 Severity results are shown in Table 4.
 
-| Table 3. Mean Change from Baseline in the Number of Moderate to Severe Vasomotor Symptoms per Week - ITT Population, LOCF |  |  |  |
+Table 3.
+Mean Change from Baseline in the Number of Moderate to Severe Vasomotor Symptoms per Week – ITT Population, LOCF
+
+| Visit | Placebo (n = 105) | Estradiol 0.05 mg/day (n = 111) | Estradiol 0.10 mg/day (n = 109) |
 | --- | --- | --- | --- |
-| Visit | Placebo (n=105) | Estradiol 0.05 mg/day (n=111) | Estradiol 0.10 mg/day (n=109) |
-| Baseline [1] Mean (SD) | 83.62 (60.42) | 73.83 (24.53) | 75.11 (25.44) |
-| Week 4 Mean (SD) Mean Change from Baseline (SD) p value vs. Placebo (95 percent CI) [2] | 51.14 (51.19) -32.48 (46.25) - | 21.59* (27.76) -52.24* (32.92) < 0.001 (-30.7, -8.8) | 11.37* (19.43) -63.75* (26.68) < 0.001 (-42.2, -20.3) |
-| Week 12 Mean (SD) Mean Change from Baseline (SD) p value vs. Placebo (95 percent CI) [2] | 42.21 (41.13) -41.41 (65.61) - | 15.48* (25.42) -58.36* (31.36) 0.006 (-30.5, -3.4) | 8.25* (16.58) -66.87* (27.44) < 0.001 (-39.1, -11.8) |
+| Baseline [1] |  |  |  |
+| Mean (SD) | 83.62 (60.42) | 73.83 (24.53) | 75.11 (25.44) |
+| Week 4 |  |  |  |
+| Mean (SD) | 51.14 (51.19) | 21.59* (27.76) | 11.37* (19.43) |
+| Mean Change from Baseline (SD) | -32.48 (46.25) | -52.24* (32.92) | -63.75* (26.68) |
+| p value vs. Placebo (95 percent CI) [2] | - | <0.001 (-30.7, -8.8) | <0.001 (-42.2, -20.3) |
+| Week 12 |  |  |  |
+| Mean (SD) | 42.21 (41.13) | 15.48* (25.42) | 8.25* (16.58) |
+| Mean Change from Baseline (SD) | -41.41 (65.61) | -58.36* (31.36) | -66.87* (27.44) |
+| p value vs. Placebo (95 percent CI) [2] | - | 0.006 (-30.5, -3.4) | <0.001 (-39.1, -11.8) |
+| *Denotes statistical significance at the 0.050 level. [1] The baseline number of moderate to severe vasomotor symptoms (MSVS) is the weekly average number of MSVS during the two weeks between screening and randomization. [2] p values and confidence intervals are from a two-way ANOVA with factors for treatment and study center for the difference between treatment groups in the mean change from baseline. Confidence intervals are adjusted for multiple comparisons within each timepoint using Dunnett’s method. ITT = intent to treat; LOCF = last observation carried forward; CI = confidence interval |  |  |  |
 
-*Denotes statistical significance at the 0.050 level.
-[1] The baseline number of moderate to severe vasomotor symptoms (MSVS) is the weekly average number of MSVS during the two weeks between screening and randomization.
-[2] p values and confidence intervals are from a two-way ANOVA with factors for treatment and study center for the difference between treatment groups in the mean change from baseline.
-Confidence intervals are adjusted for multiple comparisons within each timepoint using Dunnett's method.
-ITT = intent to treat; LOCF = last observation carried forward; CI = confidence interval
+Table 4.
+Mean Change from Baseline in the Severity of Moderate to Severe Vasomotor Symptoms per Week – ITT Population, LOCF
 
-| Table 4. Mean Change from Baseline in the Severity of Moderate to Severe Vasomotor Symptoms per Week - ITT Population, LOCF |  |  |  |
+| Visit | Placebo (n = 105) | Estradiol 0.05 mg/day (n = 111) | Estradiol 0.10 mg/day (n = 109) |
 | --- | --- | --- | --- |
-| Visit | Placebo (n=105) | Estradiol 0.05 mg/day (n=111) | Estradiol 0.10 mg/day (n=109) |
-| Baseline [1] Mean (SD) | 2.51 (0.26) | 2.46 (0.23) | 2.48 (0.24) |
-| Week 4 Mean (SD) Mean Change from Baseline (SD) p value vs. Placebo (95 percent CI) [2] | 2.23 (0.71) -0.28 (0.69) - | 1.67* (1.07) -0.79* (1.08) < 0.001 (-0.8, -0.2) | 1.15* (1.14) -1.33* (1.10) < 0.001 (-1.3, -0.8) |
-| Week 12 Mean (SD) Mean Change from Baseline (SD) p value vs. Placebo (95 percent CI) [2] | 2.00 (0.96) -0.51 (0.94) - | 1.41* (1.17) -1.06* (1.16) < 0.001 (-0.9, -0.2) | 0.92* (1.09) -1.56* (1.06) < 0.001 (-1.4, -0.7) |
+| Baseline [1] |  |  |  |
+| Mean (SD) | 2.51 (0.26) | 2.46 (0.23) | 2.48 (0.24) |
+| Week 4 |  |  |  |
+| Mean (SD) | 2.23 (0.71) | 1.67* (1.07) | 1.15* (1.14) |
+| Mean Change from Baseline (SD) | -0.28 (0.69) | - 0.79* (1.08) | -1.33* (1.10) |
+| p value vs. Placebo (95 percent CI) [2] | - | <0.001 (-0.8, -0.2) | <0.001 (-1.3, -0.8) |
+| Week 12 |  |  |  |
+| Mean (SD) | 2.00 (0.96) | 1.41* (1.17) | 0.92* (1.09) |
+| Mean Change from Baseline (SD) | -0.51 (0.94) | -1.06* (1.16) | -1.56* (1.06) |
+| p value vs. Placebo (95 percent CI) [2] | - | <0.001 (-0.9, -0.2) | <0.001 (-1.4, -0.7) |
+| *Denotes statistical significance at the 0.050 level. [1] The baseline severity of moderate to severe vasomotor symptoms (MSVS) is the average severity of MSVS during the two weeks between screening and randomization. [2] p values and confidence intervals are from a two-way ANOVA with factors for treatment and study center for the difference between treatment groups in the mean change from baseline. Confidence intervals are adjusted for multiple comparisons within each timepoint using Dunnett’s method. ITT = intent to treat; LOCF = last observation carried forward; CI = confidence interval |  |  |  |
 
-*Denotes statistical significance at the 0.050 level.
-[1] The baseline severity of moderate to severe vasomotor symptoms (MSVS) is the average severity of MSVS during the two weeks between screening and randomization.
-[2] p values and confidence intervals are from a two-way ANOVA with factors for treatment and study center for the difference between treatment groups in the mean change from baseline.
-Confidence intervals are adjusted for multiple comparisons within each timepoint using Dunnett's method.
-ITT = intent to treat; LOCF = last observation carried forward; CI = confidence interval
-
-## 14.2 Effects on Vulvar and Vaginal Atrophy
+## 14.2Effects on Vulvar and Vaginal Atrophy
 
 In the same 13-week clinical trial, vaginal superficial cells increased by a mean of 16.0 percent and 18.9 percent for Femring 0.05 mg/day and Femring 0.10 mg/day, respectively, as compared to 1.11 percent for placebo at week 13.
 A corresponding reduction in parabasal cells was observed at week 13.
 Vaginal pH decreased for Femring 0.05 mg/day and Femring 0.10 mg/day by a mean of 0.73 and 0.60, respectively, compared to a mean decrease of 0.25 in the placebo group.
 
-## 14.3 Women's Health Initiative Studies
+## 14.3Women’s Health Initiative Studies
 
 The WHI enrolled approximately 27,000 predominantly healthy postmenopausal women in two substudies to assess the risks and benefits of daily oral CE (0.625 mg)-alone or in combination with MPA (2.5 mg) compared to placebo in the prevention of certain chronic diseases.
 The primary endpoint was the incidence of CHD (defined as nonfatal MI, silent MI and CHD death), with invasive breast cancer as the primary adverse outcome.
@@ -53,26 +61,28 @@ The WHI estrogen-alone substudy was stopped early because an increased risk of s
 
 Results of the estrogen-alone substudy, which included 10,739 women (average 63 years of age, range 50 to 79; 75.3 percent White, 15.1 percent Black, 6.1 percent Hispanic, 3.6 percent Other), after an average follow-up of 7.1 years, are presented in Table 5.
 
-| Table 5. Relative and Absolute Risk Seen in the Estrogen-Alone Substudy of WHIa |  |  |  |
-| --- | --- | --- | --- |
-| Event | Relative Risk CE vs. Placebo (95 percent nCIb) | CE n = 5,310 | Placebo n = 5,429 |
-|  |  | Absolute Risk per 10,000 Women- Years |  |
-| CHD eventsc | 0.95 (0.78-1.16) | 54 | 57 |
-| Non-fatal MIc | 0.91 (0.73-1.14) | 40 | 43 |
-| CHD deathc | 1.01 (0.71-1.43) | 16 | 16 |
-| All strokesc | 1.33 (1.05-1.68) | 45 | 33 |
-| Ischemic strokec | 1.55 (1.19-2.01) | 38 | 25 |
-| Deep vein thrombosisc,d | 1.47 (1.06-2.06) | 23 | 15 |
-| Pulmonary embolismc | 1.37 (0.90-2.07) | 14 | 10 |
-| Invasive breast cancerc | 0.80 (0.62-1.04) | 28 | 34 |
-| Colorectal cancerc | 1.08 (0.75-1.55) | 17 | 16 |
-| Hip fracturec | 0.65 (0.45-0.94) | 12 | 19 |
-| Vertebral fracturesc,d | 0.64 (0.44-0.93) | 11 | 18 |
-| Lower arm/wrist fracturesc,d | 0.58 (0.47-0.72) | 35 | 59 |
-| Total fracturesc,d | 0.71 (0.64-0.80) | 144 | 197 |
-| Deaths due to other causese,f | 1.08 (0.88-1.32) | 53 | 50 |
-| Overall Mortalityc,d | 1.04 (0.88-1.22) | 79 | 75 |
-| Global Indexg | 1.02 (0.92-1.13) | 206 | 201 |
+Table 5.
+Relative and Absolute Risk Seen in the Estrogen-Alone Substudy of WHIa
+
+| Event |  | Relative Risk CE vs. Placebo (95 percent nCIb) | CE n = 5,310 | Placebo n = 5,429 |
+| --- | --- | --- | --- | --- |
+|  |  |  | Absolute Risk per 10,000 Women-Years |  |
+| CHD eventsc |  | 0.95 (0.78-1.16) | 54 | 57 |
+|  | Non-fatal MIc | 0.91 (0.73-1.14) | 40 | 43 |
+|  | CHD deathc | 1.01 (0.71-1.43) | 16 | 16 |
+| All strokesc |  | 1.33 (1.05-1.68) | 45 | 33 |
+|  | Ischemic strokec | 1.55 (1.19-2.01) | 38 | 25 |
+| Deep vein thrombosisc,d |  | 1.47 (1.06-2.06) | 23 | 15 |
+| Pulmonary embolismc |  | 1.37 (0.90-2.07) | 14 | 10 |
+| Invasive breast cancerc |  | 0.80 (0.62-1.04) | 28 | 34 |
+| Colorectal cancerc |  | 1.08 (0.75-1.55) | 17 | 16 |
+| Hip fracturec |  | 0.65 (0.45-0.94) | 12 | 19 |
+| Vertebral fracturesc,d |  | 0.64 (0.44-0.93) | 11 | 18 |
+| Lower arm/wrist fracturesc,d |  | 0.58 (0.47-0.72) | 35 | 59 |
+| Total fracturesc,d |  | 0.71 (0.64-0.80) | 144 | 197 |
+| Deaths due to other causese,f |  | 1.08 (0.88-1.32) | 53 | 50 |
+| Overall Mortalityc,d |  | 1.04 (0.88-1.22) | 79 | 75 |
+| Global Indexg |  | 1.02 (0.92-1.13) | 206 | 201 |
 
 aAdapted from numerous WHI publications.
 WHI publications can be viewed at www.nhlbi.nih.gov/whi. bNominal confidence intervals unadjusted for multiple looks and multiple comparisons. cResults are based on centrally adjudicated data for an average follow-up of 7.1 years. dNot included in “global index”. eResults are based on an average follow-up of 6.8 years. fAll deaths, except from breast or colorectal cancer, definite or probable CHD, PE or cerebrovascular disease. gA subset of the events was combined in a “global index” defined as the earliest occurrence of CHD events, invasive breast cancer, stroke, PE, colorectal cancer, hip fracture, or death due to other causes.
@@ -100,12 +110,14 @@ For those outcomes included in the WHI “global index” that reached statistic
 Results of the CE plus MPA substudy, which included 16,608 women (average 63 years of age, range 50 to 79; 83.9 percent White, 6.8 percent Black, 5.4 percent Hispanic, 3.9 percent Other) are presented in Table 6.
 These results reflect centrally adjudicated data after an average follow-up of 5.6 years.
 
-| Table 6. Relative and Absolute Risk Seen in the Estrogen Plus Progestin Substudy of WHI at an Average of 5.6 Yearsa,b |  |  |  |
-| --- | --- | --- | --- |
+Table 6.
+Relative and Absolute Risk Seen in the Estrogen Plus Progestin Substudy of WHI at an Average of 5.6 Yearsa,b
+
 | Event | Relative Risk CE/MPA vs. Placebo (95% nCIc) | CE/MPA n = 8,506 | Placebo n = 8,102 |
+| --- | --- | --- | --- |
 |  |  | Absolute Risk per 10,000 Women-Years |  |
 | CHD events | 1.23 (0.99-1.53) | 41 | 34 |
-| Non-fatal | 1.28 (1.00-1.63) | 31 | 25 |
+| Non-fatal MI | 1.28 (1.00-1.63) | 31 | 25 |
 | CHD death | 1.10 (0.70-1.75) | 8 | 8 |
 | All strokes | 1.31 (1.03-1.68) | 33 | 25 |
 | Ischemic stroke | 1.44 (1.09-1.90) | 26 | 18 |
@@ -124,10 +136,11 @@ These results reflect centrally adjudicated data after an average follow-up of 5
 
 aAdapted from numerous WHI publications.
 WHI publications can be viewed at www.nhlbi.nih.gov/whi. bResults are based on centrally adjudicated data. cNominal confidence intervals unadjusted for multiple looks and multiple comparisons. dNot included in “global index”. eIncludes metastatic and non-metastatic breast cancer with the exception of in situ cancer. fAll deaths, except from breast or colorectal cancer, definite or probable CHD, PE or cerebrovascular disease. gA subset of the events was combined in a “global index” defined as the earliest occurrence of CHD events, invasive breast cancer, stroke, PE, colorectal cancer, hip fracture, or death due to other causes.
+
 Timing of initiation of estrogen plus progestin therapy relative to the start of menopause may affect the overall risk benefit profile.
 The WHI estrogen plus progestin substudy stratified by age showed in women 50 to 59 years of age a non-significant trend toward reduced risk for overall mortality [HR 0.69 (95 percent CI, 0.44-1.07)].
 
-## 14.4 Women's Health Initiative Memory Study
+## 14.4Women’s Health Initiative Memory Study
 
 The WHIMS estrogen-alone ancillary study of WHI enrolled 2,947 predominantly healthy hysterectomized postmenopausal women 65 to 79 years of age and older (45 percent were 65 to 69 years of age; 36 percent were 70 to 74 years of age; 19 percent were 75 years of age and older) to evaluate the effects of daily CE (0.625 mg)-alone on the incidence of probable dementia (primary outcome) compared to placebo.
 

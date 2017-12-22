@@ -1,6 +1,6 @@
 # 12 CLINICAL PHARMACOLOGY
 
-## 12.1 Mechanism of Action
+## 12.1Mechanism of Action
 
 Endogenous estrogens are largely responsible for the development and maintenance of the female reproductive system and secondary sexual characteristics.
 Although circulating estrogens exist in a dynamic equilibrium of metabolic interconversions, estradiol is the principal intracellular human estrogen and is substantially more potent than its metabolites, estrone and estriol, at the receptor level.
@@ -16,35 +16,35 @@ These vary in proportion from tissue to tissue.
 Circulating estrogens modulate the pituitary secretion of the gonadotropins, luteinizing hormone (LH) and FSH through a negative feedback mechanism.
 Estrogens act to reduce the elevated levels of these hormones seen in postmenopausal women.
 
-## 12.2 Pharmacodynamics
+## 12.2Pharmacodynamics
 
 There are no pharmacodynamic data for Femring.
 
-## 12.3 Pharmacokinetics
+## 12.3Pharmacokinetics
 
 Absorption
 
-Estradiol acetate is hydrolyzed to estradiol which is absorbed through the vaginal mucosa as evidenced by the mean time to maximum concentration (tmax) for estradiol of about 1 hour (range 0.25 to 1.5 hrs). After achieving the Cmax the estradiol concentration starts declining during the first 24 to 48 hours and then at a relatively constant rate for the remainder of the 3‑month dosing interval (see Figure 1 for results from rings stored for 16 months).
+Estradiol acetate is hydrolyzed to estradiol which is absorbed through the vaginal mucosa as evidenced by the mean time to maximum concentration (tmax) for estradiol of about 1 hour (range 0.25 to 1.5 hrs). After achieving the Cmax the estradiol concentration starts declining during the first 24 to 48 hours and then at a relatively constant rate for the remainder of the 3-month dosing interval (see Figure 1 for results from rings stored for 16 months).
 In vitro studies have shown that this initial release is higher as the rings age upon storage.
-
-Figure 1.
-Mean serum estradiol concentrations following multiple dose administration of Femring (0.05 mg/day estradiol) (second dose administered at 13 weeks) (inset: mean (±SD) of serum concentration-time profile for dose 1 from 0-24 hours)
 
 Following administration of Femring (0.05 mg/day estradiol), average serum estradiol concentration was 40.6 pg/mL; the corresponding apparent in vivo estradiol delivery rate was 0.052 mg/day.
 Following administration of Femring (0.10 mg/day estradiol), average serum estradiol concentration was 76 pg/mL; apparent in vivo delivery rate was 0.097 mg/day.
 Results are summarized in Table 2 below.
 
-| Table 2. Summary of Mean (Percent RSD)* Pharmacokinetic Parameters for Femring |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-| Dose (as estradiol) |  | Number of subjects | Cmax (pg/mL) | Tmax (hour) | Cavg (pg/mL) |
-|  | Estradiol1 | 25 | 1129 (25) | 0.9 (41) | 40.6 (26) |
-| 0.05 mg/day | Estrone1 | 25 | 141 (25) | 6.2 (84) | 35.9 (21) |
-|  | Estrone sulfate1 | 25 | 2365 (44) | 9.3 (39) | 494.6 (48) |
-|  | Estradiol2 | 12 | 1665 (23) | 0.7 (90) | --4 |
-| 0.10 mg/day | Estradiol3 | 11 | -- | -- | 76.0 (24) |
-|  | Estrone3 | 11 | -- | -- | 45.7 (25) |
+Table 2.
+Summary of Mean (Percent RSD)* Pharmacokinetic Parameters for Femring
 
-*Relative Standard Deviation, 1Study 1, 2Study 2, 3Study 3, 4--Not determined Consistent with the avoidance of first pass metabolism achieved by vaginal estradiol administration, serum estradiol concentrations were slightly higher than estrone concentrations.
+| Dose (as estradiol) |  | Number of subjects | Cmax (pg/mL) | Tmax (hour) | Cavg (pg/mL) |
+| --- | --- | --- | --- | --- | --- |
+| 0.05 mg/day | Estradiol1 | 25 | 1129 (25) | 0.9 (41) | 40.6 (26) |
+|  | Estrone1 | 25 | 141 (25) | 6.2 (84) | 35.9 (21) |
+|  | Estrone sulfate1 | 25 | 2365 (44) | 9.3 (39) | 494.6 (48) |
+| 0.10 mg/day | Estradiol2 | 12 | 1665 (23) | 0.7 (90) | --4 |
+|  | Estradiol3 | 11 | -- | -- | 76.0 (24) |
+|  | Estrone3 | 11 | -- | -- | 45.7 (25) |
+| * Relative Standard Deviation, 1Study 1, 2Study 2, 3Study 3, 4-- Not determined |  |  |  |  |  |
+
+Consistent with the avoidance of first pass metabolism achieved by vaginal estradiol administration, serum estradiol concentrations were slightly higher than estrone concentrations.
 
 Distribution
 

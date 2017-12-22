@@ -1,23 +1,23 @@
 # 8 USE IN SPECIFIC POPULATIONS
 
-## 8.1 Pregnancy
+## 8.1Pregnancy
 
 Femring should not be used during pregnancy [see Contraindications (4)].
 There appears to be little or no increased risk of birth defects in children born to women who have used estrogens and progestins as an oral contraceptive inadvertently during early pregnancy.
 
-## 8.3 Nursing Mothers
+## 8.3Nursing Mothers
 
 Femring should not be used during lactation.
 Estrogen administration to nursing women has been shown to decrease the quantity and quality of the breast milk.
 Detectable amounts of estrogens have been identified in the breast milk of women receiving estrogen-alone therapy.
 Caution should be exercised when Femring is administered to a nursing woman.
 
-## 8.4 Pediatric Use
+## 8.4Pediatric Use
 
 Femring is not indicated in children.
 Clinical studies have not been conducted in the pediatric population.
 
-## 8.5 Geriatric Use
+## 8.5Geriatric Use
 
 There have not been sufficient numbers of geriatric women involved in clinical studies utilizing Femring to determine whether those over 65 years of age differ from younger subjects in their response to Femring.
 
@@ -33,10 +33,10 @@ In the WHIMS ancillary studies of postmenopausal women 65 to 79 years of age, th
 
 Since both ancillary studies were conducted in women 65 to 79 years of age, it is unknown whether these findings apply to younger postmenopausal women8 [see Warnings and Precautions (5.3), and Clinical Studies (14.4)].
 
-## 8.6 Renal Impairment
+## 8.6Renal Impairment
 
 The effect of renal impairment on the pharmacokinetics of Femring has not been studied.
 
-## 8.7 Hepatic Impairment
+## 8.7Hepatic Impairment
 
 The effect of hepatic impairment on the pharmacokinetics of Femring has not been studied.

@@ -1,7 +1,7 @@
-# PRINCIPAL DISPLAY PANEL
+PRINCIPAL DISPLAY PANEL
 
-NDC 0430-6201-40 Femring estradiol acetate vaginal ring 0.05 mg/day Trade Carton
+NDC 0430-6201-40 Femring 0.05 mg/day Rx only
 
-# PRINCIPAL DISPLAY PANEL
+PRINCIPAL DISPLAY PANEL
 
-NDC 0430-6202-40 Femring estradiol acetate vaginal ring 0.10 mg/day Trade Carton
+NDC 0430-6202-40 Femring 0.10 mg/day Rx only

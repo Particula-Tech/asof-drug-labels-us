@@ -2,7 +2,7 @@
 
 Femring is used only in the vagina, however, the risks associated with oral estrogens should be taken into account.
 
-## 5.1 Cardiovascular Disorders
+## 5.1Cardiovascular Disorders
 
 An increased risk of stroke and DVT has been reported with estrogen-alone therapy.
 An increased risk of PE, DVT, stroke, and MI has been reported with estrogen plus progestin therapy.
@@ -49,7 +49,7 @@ Should a VTE occur or be suspected, estrogen plus progestin therapy should be di
 
 If feasible, estrogens should be discontinued at least 4 to 6 weeks before surgery of the type associated with an increased risk of thromboembolism, or during periods of prolonged immobilization.
 
-## 5.2 Malignant Neoplasms
+## 5.2Malignant Neoplasms
 
 Endometrial Cancer
 
@@ -94,10 +94,15 @@ Ovarian Cancer
 
 The WHI estrogen plus progestin substudy reported a statistically non-significant increased risk of ovarian cancer.
 After an average follow-up of 5.6 years, the relative risk for ovarian cancer for CE plus MPA versus placebo was 1.58 (95 percent CI, 0.77-3.24).
-The absolute risk for CE plus MPA versus placebo was 4 versus 3 cases per 10,000 women-years.7 In some epidemiologic studies, the use of estrogen plus progestin and estrogen-only products, in particular for 5 or more years, has been associated with an increased risk of ovarian cancer.
-However, the duration of exposure associated with increased risk is not consistent across all epidemiologic studies and some report no association.
+The absolute risk for CE plus MPA versus placebo was 4 versus 3 cases per 10,000 women-years.7
 
-## 5.3 Probable Dementia
+A meta-analysis of 17 prospective and 35 retrospective epidemiology studies found that women who used hormonal therapy for menopausal symptoms had an increased risk for ovarian cancer.
+The primary analysis, using case-control comparisons, included 12,110 cancer cases from the 17 prospective studies.
+The relative risks associated with current use of hormonal therapy was 1.41 (95% confidence interval [CI] 1.32 to 1.50); there was no difference in the risk estimates by duration of the exposure (less than 5 years [median of 3 years] vs. greater than 5 years [median of 10 years] of use before the cancer diagnosis).
+The relative risk associated with combined current and recent use (discontinued use within 5 years before cancer diagnosis) was 1.37 (95% CI 1.27-1.48), and the elevated risk was significant for both estrogen-alone and estrogen plus progestin products.
+The exact duration of hormone therapy use associated with an increased risk of ovarian cancer, however, is unknown.
+
+## 5.3Probable Dementia
 
 In the WHIMS estrogen-alone ancillary study of WHI, a population of 2,947 hysterectomized women 65 to 79 years of age was randomized to daily CE (0.625 mg)-alone or placebo.
 
@@ -114,22 +119,22 @@ The absolute risk of probable dementia for CE plus MPA versus placebo was 45 ver
 When data from the two populations in the WHIMS estrogen-alone and estrogen plus progestin ancillary studies were pooled as planned in the WHIMS protocol, the reported overall relative risk for probable dementia was 1.76 (95 percent CI, 1.19-2.60).
 Since both ancillary substudies were conducted in women aged 65 to 79 years, it is unknown whether these findings apply to younger postmenopausal women8 [see Use in Specific Populations (8.5) and Clinical Studies (14.4)].
 
-## 5.4 Gallbladder Disease
+## 5.4Gallbladder Disease
 
 A 2- to 4-fold increase in the risk of gallbladder disease requiring surgery in postmenopausal women receiving estrogens has been reported.
 
-## 5.5 Hypercalcemia
+## 5.5Hypercalcemia
 
 Estrogen administration may lead to severe hypercalcemia in women with breast cancer and bone metastases.
 If hypercalcemia occurs, use of the drug should be stopped and appropriate measures taken to reduce the serum calcium level.
 
-## 5.6 Visual Abnormalities
+## 5.6Visual Abnormalities
 
 Retinal vascular thrombosis has been reported in women receiving estrogens.
 Discontinue medication pending examination if there is sudden partial or complete loss of vision, or a sudden onset of proptosis, diplopia, or migraine.
 If examination reveals papilledema or retinal vascular lesions, estrogens should be permanently discontinued.
 
-## 5.7 Addition of a Progestin When a Woman Has Not Had a Hysterectomy
+## 5.7Addition of a Progestin When a Woman Has Not Had a Hysterectomy
 
 Studies of the addition of a progestin for 10 or more days of a cycle of estrogen administration, or daily with estrogen in a continuous regimen, have reported a lowered incidence of endometrial hyperplasia than would be induced by estrogen treatment alone.
 Endometrial hyperplasia may be a precursor to endometrial cancer.
@@ -137,55 +142,55 @@ Endometrial hyperplasia may be a precursor to endometrial cancer.
 There are, however, possible risks that may be associated with the use of progestins with estrogens compared to estrogen-alone regimens.
 These include an increased risk of breast cancer.
 
-## 5.8 Elevated Blood Pressure
+## 5.8Elevated Blood Pressure
 
 In a small number of case reports, substantial increases in blood pressure have been attributed to idiosyncratic reactions to estrogens.
 In a large, randomized, placebo-controlled clinical trial, a generalized effect of estrogen therapy on blood pressure was not seen.
 
-## 5.9 Hypertriglyceridemia
+## 5.9Hypertriglyceridemia
 
 In women with pre-existing hypertriglyceridemia, estrogen therapy may be associated with elevations of plasma triglycerides leading to pancreatitis.
 Consider discontinuation of treatment if pancreatitis occurs.
 
-## 5.10 Hepatic Impairment and/or Past History of Cholestatic Jaundice
+## 5.10Hepatic Impairment and/or a Past History of Cholestatic Jaundice
 
 Estrogens may be poorly metabolized in women with impaired liver function.
 For women with a history of cholestatic jaundice associated with past estrogen use or with pregnancy, caution should be exercised and in the case of recurrence, medication should be discontinued.
 
-## 5.11 Hypothyroidism
+## 5.11Hypothyroidism
 
 Estrogen administration leads to increased thyroid-binding globulin (TBG) levels.
 Women with normal thyroid function can compensate for the increased TBG by making more thyroid hormone, thus maintaining free T4 and T3 serum concentrations in the normal range.
 Women dependent on thyroid hormone replacement therapy who are also receiving estrogens may require increased doses of their thyroid replacement therapy.
 These women should have their thyroid function monitored in order to maintain their free thyroid hormone levels in an acceptable range.
 
-## 5.12 Fluid Retention
+## 5.12Fluid Retention
 
 Estrogens may cause some degree of fluid retention.
 Women with conditions that might be influenced by this factor, such as cardiac or renal impairment, warrant careful observation when estrogen-alone is prescribed.
 
-## 5.13 Hypocalcemia
+## 5.13Hypocalcemia
 
 Estrogen therapy should be used with caution in women with hypoparathyroidism as estrogen-induced hypocalcemia may occur.
 
-## 5.14 Exacerbation of Endometriosis
+## 5.14Exacerbation of Endometriosis
 
 A few cases of malignant transformation of residual endometrial implants have been reported in women treated post-hysterectomy with estrogen-alone therapy.
 For women known to have residual endometriosis post-hysterectomy, the addition of progestin should be considered.
 
-## 5.15 Hereditary Angioedema
+## 5.15Hereditary Angioedema
 
 Exogenous estrogens may exacerbate symptoms of angioedema in women with hereditary angioedema.
 
-## 5.16 Exacerbation of Other Conditions
+## 5.16Exacerbation of Other Conditions
 
 Estrogen therapy may cause an exacerbation of asthma, diabetes mellitus, epilepsy, migraine, porphyria, systemic lupus erythematosus and hepatic hemangiomas, and should be used with caution in women with these conditions.
 
-## 5.17 Laboratory Tests
+## 5.17Laboratory Tests
 
 Serum follicle stimulating hormone (FSH) and estradiol levels have not been shown to be useful in the management of moderate to severe vasomotor symptoms and moderate to severe vulvar and vaginal atrophy due to menopause.
 
-## 5.18 Drug-Laboratory Test Interactions
+## 5.18Drug-Laboratory Test Interactions
 
 Accelerated prothrombin time, partial thromboplastin time, and platelet aggregation time; increased platelet count; increased factors II, VII antigen, VIII antigen, VIII coagulant activity, IX, X, XII, VII-X complex, II-VII-X complex, and beta-thromboglobulin; decreased levels of antifactor Xa and antithrombin III, decreased antithrombin III activity; increased levels of fibrinogen and fibrinogen activity; increased plasminogen antigen and activity.
 
@@ -202,7 +207,7 @@ Increased plasma high-density lipoprotein (HDL) and HDL2 cholesterol subfraction
 
 Impaired glucose tolerance.
 
-## 5.19 Vaginal Use and Expulsion
+## 5.19Vaginal Use and Expulsion
 
 Femring may not be suitable for women with conditions that make the vagina more susceptible to vaginal irritation or ulceration, or make expulsions more likely, such as narrow vagina, vaginal stenosis, vaginal infection, cervical prolapse, rectoceles and cystoceles.
 If local treatment of a vaginal infection is required, Femring can remain in place during treatment.
