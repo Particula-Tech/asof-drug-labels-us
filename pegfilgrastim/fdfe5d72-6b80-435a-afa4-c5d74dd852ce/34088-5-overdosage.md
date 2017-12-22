@@ -1,8 +1,5 @@
 # 10 OVERDOSAGE
 
-The maximum amount of Neulasta that can be safely administered in single or multiple doses has not been determined.
-Single subcutaneous doses of 300 mcg/kg have been administered to 8 healthy volunteers and 3 patients with non-small cell lung cancer without serious adverse effects.
-These patients experienced a mean maximum absolute neutrophil count (ANC) of 55 x 109/L, with a corresponding mean maximum WBC of 67 x 109/L.
-The absolute maximum ANC observed was 96 x 109/L with a corresponding absolute maximum WBC observed of 120 x 109/L.
-The duration of leukocytosis ranged from 6 to 13 days.
-The effectiveness of leukapheresis in the management of symptomatic individuals with Neulasta-induced leukocytosis has not been studied.
+Overdosage of Neulasta may result in leukocytosis and bone pain.
+Events of edema, dyspnea, and pleural effusion have been reported in a single patient who administered Neulasta on 8 consecutive days in error.
+In the event of overdose, the patient should be monitored for adverse reactions [see Adverse Reactions (6)].

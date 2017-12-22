@@ -32,7 +32,7 @@ The most common adverse reactions occurring in ≥ 5% of patients and with a bet
 Table 2.
 Adverse Reactions with ≥ 5% Higher Incidence in Neulasta Patients Compared to Placebo in Study 3
 
-| System Organ Class Preferred Term | Placebo (N = 461) | Neulasta 6 mg SC on Day 2 (N = 467) |
+| Body Adverse Reaction | Placebo (N = 461) | Neulasta 6 mg SC on Day 2 (N = 467) |
 | --- | --- | --- |
 | Musculoskeletal and connective tissue disorders |  |  |
 | Bone pain | 26% | 31% |
@@ -46,14 +46,14 @@ No complications attributable to leukocytosis were reported in clinical studies.
 ## 6.2 Immunogenicity
 
 As with all therapeutic proteins, there is a potential for immunogenicity.
+The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay, and the observed incidence of antibody positivity in an assay may be influenced by several factors, including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
+For these reasons, comparison of the incidence of antibodies to Neulasta with the incidence of antibodies to other products may be misleading.
+
 Binding antibodies to pegfilgrastim were detected using a BIAcore assay.
 The approximate limit of detection for this assay is 500 ng/mL.
 Pre-existing binding antibodies were detected in approximately 6% (51/849) of patients with metastatic breast cancer.
 Four of 521 pegfilgrastim-treated subjects who were negative at baseline developed binding antibodies to pegfilgrastim following treatment.
 None of these 4 patients had evidence of neutralizing antibodies detected using a cell-based bioassay.
-
-The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay, and the observed incidence of antibody positivity in an assay may be influenced by several factors, including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
-For these reasons, comparison of the incidence of antibodies to Neulasta with the incidence of antibodies to other products may be misleading.
 
 ## 6.3 Postmarketing Experience
 

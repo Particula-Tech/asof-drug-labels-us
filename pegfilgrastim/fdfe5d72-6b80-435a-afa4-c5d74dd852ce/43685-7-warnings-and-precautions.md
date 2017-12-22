@@ -21,7 +21,7 @@ Do not administer Neulasta to patients with a history of serious allergic reacti
 
 ## 5.4 Allergies to Acrylics
 
-The On-body Injector for Neulasta uses acrylic adhesive.
+The on-body injector (OBI) for Neulasta uses acrylic adhesive.
 For patients who have reactions to acrylic adhesives, use of this product may result in a significant reaction.
 
 ## 5.5 Use in Patients with Sickle Cell Disorders
@@ -50,5 +50,11 @@ Patients who develop symptoms of capillary leak syndrome should be closely monit
 
 ## 5.9 Potential for Tumor Growth Stimulatory Effects on Malignant Cells
 
-The granulocyte-colony stimulating factor (G-CSF) receptor through which pegfilgrastim and filgrastim act has been found on tumor cell lines.
+The granulocyte colony-stimulating factor (G-CSF) receptor through which pegfilgrastim and filgrastim act has been found on tumor cell lines.
 The possibility that pegfilgrastim acts as a growth factor for any tumor type, including myeloid malignancies and myelodysplasia, diseases for which pegfilgrastim is not approved, cannot be excluded.
+
+## 5.10 Potential Device Failures
+
+Missed or partial doses have been reported in patients receiving Neulasta via the on-body injector (OBI) due to the device not performing as intended.
+In the event of a missed or partial dose, patients may be at increased risk of events such as neutropenia, febrile neutropenia and/or infection than if the dose had been correctly delivered.
+Instruct patients using the OBI to notify their healthcare professional immediately in order to determine the need for a replacement dose of Neulasta if they suspect that the device may not have performed as intended.

@@ -19,9 +19,9 @@ Estimate a patient’s absorbed radiation dose (i.e., level of radiation exposur
 
 ## 2.3 Administration
 
-Neulasta is administered subcutaneously via a single-dose prefilled syringe for manual use or for use with the On-body Injector for Neulasta, which is co-packaged with a single-dose prefilled syringe.
-Use of the On-body Injector for Neulasta is not recommended for patients with Hematopoietic Subsyndrome of Acute Radiation Syndrome.
-Use of the On-body Injector for Neulasta has not been studied in pediatric patients.
+Neulasta is administered subcutaneously via a single-dose prefilled syringe for manual use or for use with the on-body injector (OBI) for Neulasta, which is co-packaged with a single-dose prefilled syringe.
+Use of the OBI for Neulasta is not recommended for patients with Hematopoietic Subsyndrome of Acute Radiation Syndrome.
+Use of the OBI for Neulasta has not been studied in pediatric patients.
 
 Prior to use‚ remove the carton from the refrigerator and allow the Neulasta prefilled syringe to reach room temperature for a minimum of 30 minutes.
 Discard any prefilled syringe left at room temperature for greater than 48 hours.
@@ -52,30 +52,31 @@ Dosing of Neulasta for pediatric patients weighing less than 45 kg
 
 ## 2.4 Special Healthcare Provider Instructions for the On-body Injector for Neulasta
 
-A healthcare provider must fill the On-body Injector with Neulasta using the prefilled syringe and then apply the On-body Injector for Neulasta to the patient’s skin (abdomen or back of arm).
-The back of the arm may only be used if there is a caregiver available to monitor the status of the On-body Injector for Neulasta.
-Approximately 27 hours after the On-body Injector for Neulasta is applied to the patient’s skin, Neulasta will be delivered over approximately 45 minutes.
-A healthcare provider may initiate administration with the On-body Injector for Neulasta on the same day as the administration of cytotoxic chemotherapy, as long as the On-body Injector for Neulasta delivers Neulasta no less than 24 hours after administration of cytotoxic chemotherapy.
+A healthcare provider must fill the on-body injector (OBI) with Neulasta using the prefilled syringe and then apply the OBI for Neulasta to the patient’s skin (abdomen or back of arm).
+The back of the arm may only be used if there is a caregiver available to monitor the status of the OBI for Neulasta.
+Approximately 27 hours after the OBI for Neulasta is applied to the patient’s skin, Neulasta will be delivered over approximately 45 minutes.
+A healthcare provider may initiate administration with the OBI for Neulasta on the same day as the administration of cytotoxic chemotherapy, as long as the OBI for Neulasta delivers Neulasta no less than 24 hours after administration of cytotoxic chemotherapy.
 
-The prefilled syringe co-packaged in Neulasta OnproTM kit must only be used with the On-body Injector for Neulasta.
-The prefilled syringe contains additional solution to compensate for liquid loss during delivery through the On-body Injector for Neulasta.
+The prefilled syringe co-packaged in Neulasta Onpro® kit must only be used with the OBI for Neulasta.
+The prefilled syringe contains additional solution to compensate for liquid loss during delivery through the OBI for Neulasta.
 If the prefilled syringe co-packaged in Neulasta Onpro kit is used for manual subcutaneous injection, the patient will receive an overdose.
-If the single-dose prefilled syringe for manual use is used with the On-body Injector for Neulasta, the patient may receive less than the recommended dose.
+If the single-dose prefilled syringe for manual use is used with the OBI for Neulasta, the patient may receive less than the recommended dose.
 
-Do not use the On-body Injector for Neulasta to deliver any other drug product except the Neulasta prefilled syringe co-packaged with the On-body Injector for Neulasta.
+Do not use the OBI for Neulasta to deliver any other drug product except the Neulasta prefilled syringe co-packaged with the OBI for Neulasta.
 
-The On-body Injector for Neulasta should be applied to intact, non-irritated skin on the arm or abdomen.
+The OBI for Neulasta should be applied to intact, non-irritated skin on the arm or abdomen.
 
-A missed dose could occur due to an On-body Injector for Neulasta failure or leakage.
+A missed dose could occur due to an OBI for Neulasta failure or leakage.
 If the patient misses a dose, a new dose should be administered by single-dose prefilled syringe for manual use, as soon as possible after detection.
 
-Refer to the Healthcare Provider Instructions for Use for the On-body Injector for Neulasta for full administration information.
+Refer to the Healthcare Provider Instructions for Use for the OBI for Neulasta for full administration information.
 
 ## 2.5 Advice to Give to Patients Regarding Administration via the On-body Injector for Neulasta
 
-Advise patients to avoid activities such as traveling, driving, or operating heavy machinery during hours 26-29 following application of the On-body Injector for Neulasta (this includes the 45-minute delivery period plus an hour post-delivery).
+Advise patients to avoid activities such as traveling, driving, or operating heavy machinery during hours 26-29 following application of the on-body injector (OBI) for Neulasta (this includes the 45-minute delivery period plus an hour post-delivery).
 Patients should have a caregiver nearby for the first use.
 
 Refer the patient to the dose delivery information written on the Patient Instructions for Use.
-Provide training to patients to ensure they understand when the dose delivery of Neulasta will begin and how to monitor the On-body Injector for Neulasta for completed delivery.
-Ensure patients understand how to identify signs of malfunction of On-body Injector for Neulasta [see Warnings and Precautions (5.3) and Patient Counseling Information (17)].
+Provide training to patients to ensure they understand when the dose delivery of Neulasta will begin and how to monitor the OBI for Neulasta for completed delivery.
+Ensure patients understand how to identify signs of malfunction of OBI for Neulasta [see Warnings and Precautions (5.3) and Patient Counseling Information (17)].
+Instruct patients using the OBI to notify their healthcare professional immediately in order to determine the need for a replacement dose of Neulasta if they suspect that the device may not have performed as intended [see Warnings and Precautions (5.10)].

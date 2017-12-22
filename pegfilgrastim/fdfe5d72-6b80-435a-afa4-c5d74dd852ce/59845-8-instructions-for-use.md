@@ -1,4 +1,4 @@
-| Neulasta® (pegfilgrastim) OnproTM kit Healthcare Provider Instructions for Use |
+| Neulasta® (pegfilgrastim) Onpro® kit Healthcare Provider Instructions for Use |
 | --- |
 | Guide to Parts |
 | Neulasta Prefilled Syringe |
@@ -24,20 +24,20 @@
 | You can use the left or right side of the abdomen, except for a two-inch area right around navel. You can use the back of upper arm only if there is a caregiver available to monitor the status of the On-body Injector. |  |
 | Do not apply the On-body Injector on areas with scar tissue, moles, or excessive hair. In case of excessive hair, carefully trim hair to get the On-body Injector close to the skin. Do not apply the On-body Injector on areas where belts, waistbands, or tight clothing may rub against, disturb, or dislodge the On-body Injector. Do not apply the On-body Injector on surgical sites. Do not apply the On-body Injector on areas where the On-body Injector will be affected by folds in the skin. |  |
 
-|  |  |  | The following is an overview of On-body Injector preparation steps. Read this section first. When ready, proceed to Step 2: Get Ready section. |  |
-| --- | --- | --- | --- | --- |
-| Before you apply the On-body Injector to the patient, locate the medicine port on the blue needle cover to fill the On-body Injector with Neulasta. |  |  |  |  |
-| Please note: |  |  |  | During filling, beeping will sound and the On-body Injector will be activated. |
-| After activation, you will have three minutes to: |  |  |  |  |
-|  | 1. | Completely empty syringe contents into the medicine port. |  |  |
-|  | 2. | Remove the syringe from the port and dispose. |  |  |
-|  | 3. | Remove the blue needle cover from back of the On-body Injector. |  |  |
-|  | 4. | Peel away the two pieces of white adhesive backing from the back of the On-body Injector. |  |  |
-|  | 5. | Attach the On-body Injector to the back of patient’s upper arm or abdomen. |  |  |
-| The On-body Injector will deploy the cannula in three minutes, even if not applied to the patient. If not on patient’s body in three minutes, do not use the On-body Injector. Start again with a new Neulasta Onpro kit. |  |  |  |  |
-| When you feel you are ready, please continue... |  |  |  |  |
-| CWash hands thoroughly. Prepare and clean the On-body Injector application site. |  |  |  |  |
-| Choose an area larger than the adhesive backing, and clean it with an alcohol swab. Thoroughly clean the application site as this will help the On-body Injector adhere to the skin. Do not use any cleaner other than alcohol, especially those containing lotions or aloe. Allow the skin to completely dry. Do not touch this area again before attaching the On-body Injector. |  |  |  |  |
+|  |  |  | The following is an overview of On-body Injector preparation steps. Read this section first. When ready, proceed to Step 2: Get Ready section. |
+| --- | --- | --- | --- |
+| Before you apply the On-body Injector to the patient, locate the medicine port on the blue needle cover to fill the On-body Injector with Neulasta. |  |  |  |
+| Please note: During filling, beeping will sound and the On-body Injector will be activated. |  |  |  |
+| After activation, you will have three minutes to: |  |  |  |
+|  | 1. | Completely empty syringe contents into the medicine port. |  |
+|  | 2. | Remove the syringe from the port and dispose. |  |
+|  | 3. | Remove the blue needle cover from back of the On-body Injector. |  |
+|  | 4. | Peel away the two pieces of white adhesive backing from the back of the On-body Injector. |  |
+|  | 5. | Attach the On-body Injector to the back of patient’s upper arm or abdomen. |  |
+| The On-body Injector will deploy the cannula in three minutes, even if not applied to the patient. If not on patient’s body in three minutes, do not use the On-body Injector. Start again with a new Neulasta Onpro kit. |  |  |  |
+| When you feel you are ready, please continue... |  |  |  |
+| CWash hands thoroughly. Prepare and clean the On-body Injector application site. |  |  |  |
+| Choose an area larger than the adhesive backing, and clean it with an alcohol swab. Thoroughly clean the application site as this will help the On-body Injector adhere to the skin. Do not use any cleaner other than alcohol, especially those containing lotions or aloe. Allow the skin to completely dry. Do not touch this area again before attaching the On-body Injector. |  |  |  |
 
 | Step 2: Get Ready |  |
 | --- | --- |
@@ -113,11 +113,11 @@ Neulasta® (pegfilgrastim)
 
 Manufactured by: Amgen Inc. One Amgen Center Drive Thousand Oaks, California 91320-1799 US License No. 1080
 
-Patent: http://pat.amgen.com/neulasta/
+Patent: http://pat.amgen.com/onpro/
 
 © 2002 to 2016 Amgen Inc. All rights reserved.
 
-www.neulasta.com 1-844-MYNEULASTA (1-844-696-3852) Issued: 10/2016 v6
+www.neulasta.com 1-844-MYNEULASTA (1-844-696-3852) Issued: 12/2016 v7
 
 Do not expose the On-body Injector for Neulasta to the following environments as the On-body Injector may be damaged and the patient could be injured:
 
@@ -181,7 +181,7 @@ Care should be taken if the On-body Injector for Neulasta is used adjacent to ot
 | --- | --- | --- | --- |
 | You can help prevent electromagnetic interference by maintaining a minimum distance between portable and mobile RF communications equipment (transmitters) and the On-body Injector for Neulasta, as recommended below, according to the maximum power of the communication equipment. |  |  |  |
 | Rated maximum output power of transmitter, in watts | Separation distance according to frequency of transmitter, in meters |  |  |
-| 150 kHz to 80 MHz D=(3.5/V1)(√P) | 80 MHz to 800 MHz D=(3.5/E1)(√P) | 800 MHz to 2.5 GHz D=(7/E1)(√P) |  |
+|  | 150 kHz to 80 MHz D=(3.5/V1)(√P) | 80 MHz to 800 MHz D=(3.5/E1)(√P) | 800 MHz to 2.5 GHz D=(7/E1)(√P) |
 | 0.01 | 0.11667 | 0.11667 | 0.23333 |
 | 0.1 | 0.36894 | 0.36894 | 0.73785 |
 | 1 | 1.1667 | 1.1667 | 2.3333 |
@@ -197,7 +197,7 @@ On-body Injector for Neulasta Description
 The On-body Injector for Neulasta is intended for delivery of Neulasta.
 The On-body Injector is small, for one-time use, lightweight, battery-powered, and waterproof up to 8 feet for 1 hour.
 Your healthcare provider will use a prefilled syringe with Neulasta to fill the On-body Injector prior to applying it.
-The prefilled syringe with Neulasta and the On-body Injector are provided to your healthcare provider as part of Neulasta OnproTM kit.
+The prefilled syringe with Neulasta and the On-body Injector are provided to your healthcare provider as part of Neulasta Onpro® kit.
 The On-body Injector is applied directly to your skin using a self-adhesive backing.
 The On-body Injector informs you of its status with sounds and lights.
 
@@ -337,10 +337,7 @@ Immediately call your healthcare provider if any of the following occur:
 | Last, First |
 | Healthcare Provider contact number: |
 | __________________________________________________________ |
-
 | On-body Injector lot number: |
-| --- |
-| __________________________________________________________ |
 
 | Important Information |  |
 | --- | --- |
@@ -397,7 +394,7 @@ On-body Injector Placement
 | Step 3: Remove On-body Injector When Dose Delivery Is Complete |  |  |
 | --- | --- | --- |
 | A | When beeping starts, check to see the color of the status light. |  |
-|  | Check to see if the status light is SOLID GREEN or has switched off. This means the dose is complete. Remember, any time you see a leak, call your healthcare provider immediately. If the dose is complete, go to the next step. | If you see the status light is flashing red, your On-body Injector is not functioning properly. Call your healthcare provider immediately, as you may not have received a full dose. |
+| Check to see if the status light is SOLID GREEN or has switched off. This means the dose is complete. Remember, any time you see a leak, call your healthcare provider immediately. If the dose is complete, go to the next step. |  | If you see the status light is flashing red, your On-body Injector is not functioning properly. Call your healthcare provider immediately, as you may not have received a full dose. |
 
 | B |  | Grab the edge of the adhesive pad. Slowly peel off the On-body Injector. |  |
 | --- | --- | --- | --- |
@@ -413,8 +410,7 @@ On-body Injector Placement
 | A | Record the end state of your On-body Injector. |  |  |
 | --- | --- | --- | --- |
 |  | Mark the box of the description that represents your On-body Injector after it has been used. |  |  |
-|  |  |  | Status light is solid green or the status light has switched off. This means that |
-|  |  |  | the delivery is complete. |
+|  |  |  | Status light is solid green or the status light has switched off. This means that the delivery is complete. |
 |  |  |  | On-body Injector leaked, call your healthcare provider immediately. |
 |  |  |  | Status light is red, call your healthcare provider immediately. |
 | B | Properly dispose of the On-body Injector. |  |  |
@@ -446,13 +442,13 @@ Neulasta® (pegfilgrastim)
 
 Manufactured by: Amgen Inc. One Amgen Center Drive Thousand Oaks, California 91320-1799 US License No. 1080
 
-Patent: http://pat.amgen.com/neulasta/
+Patent: http://pat.amgen.com/onpro/
 
 © 2002 to 2016 Amgen Inc. All rights reserved.
 
 www.neulasta.com
 
-1-844-MYNEULASTA (1-844-696-3852) Issued: 10/2016 v5
+1-844-MYNEULASTA (1-844-696-3852) Issued: 12/2016 v6
 
 Instructions for Use
 
@@ -602,7 +598,7 @@ Call your healthcare provider right away.
 
 Step 4: Finish
 
-I
+l
 
 For your safety, pull the blue safety guard until it clicks and covers the needle.
 
@@ -639,5 +635,9 @@ This Instructions for Use has been approved by the U.S. Food and Drug Administra
 
 Manufactured by:
 
-Amgen Inc. One Amgen Center Drive Thousand Oaks, California 91320-1799 U.S. License No. 1080 © 2002-2016 Amgen Inc. All rights reserved.
-1xxxxxx Revised: 4/2016 v1
+Amgen Inc. One Amgen Center Drive Thousand Oaks, California 91320-1799 U.S. License No. 1080
+
+Patent: http://pat.amgen.com/onpro/
+
+© 2002-2016 Amgen Inc. All rights reserved.
+1xxxxxx Revised: 12/2016 v2

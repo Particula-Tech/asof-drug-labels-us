@@ -42,19 +42,21 @@ NDC 55513-192-01
 
 AMGEN®
 
-Neulasta® Onpro™ kit
+Neulasta® Onpro® kit
 
 (pegfilgrastim) injection
 
-Pegylated Recombinant Methionyl Human Granulocyte Colony-Stimulating Factor
+Pegylated Recombinant Methionyl Human Granulocyte
 
-(PEG-r-metHuG-CSF) derived from E Coli
-
-6 mg/0.6 mL*
+Colony-Stimulating Factor (PEG-r-metHuG-CSF) derived from E. Coli
 
 6 mg/0.6 mL*
 
-*Prefilled syringe contains 0.64 mL to deliver 6 mg/0.6 mL when used with on-body injector
+6 mg/0.6 mL*
+
+* Prefilled syringe contains 0.64 mL to deliver
+
+6 mg/0.6 mL when used with on-body injector
 
 For Subcutaneous Use Only
 
@@ -71,10 +73,11 @@ This Product Contains Dry Natural Rubber
 Store at 2° to 8°C (36° to 46°F).
 
 Do Not Freeze or Shake.
+
 Keep in Carton to Protect from Light.
 
-See package insert for full prescribing information and Instructions for Use
+See package insert for full prescribing
 
-Enhanced Features see enclosed instructions
+information and Instructions for Use
 
 Rx Only

@@ -7,10 +7,10 @@
 | What are possible side effects of Neulasta? Neulasta may cause serious side effects, including: Spleen rupture. Your spleen may become enlarged and can rupture. A ruptured spleen can cause death. Call your healthcare provider right away if you have pain in the left upper stomach area or your left shoulder. A serious lung problem called Acute Respiratory Distress Syndrome (ARDS). Call your healthcare provider or get emergency care right away if you have shortness of breath with or without a fever, trouble breathing, or a fast rate of breathing. Serious allergic reactions. Neulasta can cause serious allergic reactions. These reactions can cause a rash over your whole body, shortness of breath, wheezing, dizziness, swelling around your mouth or eyes, fast heart rate, and sweating. If you have any of these symptoms, stop using Neulasta and call your healthcare provider or get emergency medical help right away. Sickle cell crises. You may have a serious sickle cell crisis if you have a sickle cell disorder and receive Neulasta. Serious sickle cell crises have happened in people with sickle cell disorders receiving Neulasta that has sometimes led to death. Call your healthcare provider right away if you have symptoms of sickle cell crisis such as pain or difficulty breathing. Kidney injury (glomerulonephritis). Neulasta can cause kidney injury. Call your healthcare provider right away if you develop any of the following symptoms: ○ swelling of your face or ankles ○ blood in your urine or dark colored urine ○ you urinate less than usual Increased white blood cell count (leukocytosis). Your healthcare provider will check your blood during treatment with Neulasta. Capillary Leak Syndrome. Neulasta can cause fluid to leak from blood vessels into your body’s tissues. This condition is called “Capillary Leak Syndrome” (CLS). CLS can quickly cause you to have symptoms that may become life-threatening. Get emergency medical help right away if you develop any of the following symptoms: ○ swelling or puffiness and are urinating less than usual ○ trouble breathing ○ swelling of your stomach-area (abdomen) and feeling of fullness ○ dizziness or feeling faint ○ a general feeling of tiredness The most common side effects of Neulasta are pain in the bones, arms, and legs. These are not all the possible side effects of Neulasta. Call your healthcare provider for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |
 | How should I store Neulasta? Store Neulasta in the refrigerator between 36ºF to 46ºF (2ºC to 8ºC). Do not freeze. Keep the prefilled syringe in the original carton to protect from light or physical damage. Do not shake the prefilled syringe. Take Neulasta out of the refrigerator 30 minutes before use and allow it to reach room temperature before preparing an injection. Throw away (dispose of) any Neulasta that has been left at room temperature, 68ºF to 77ºF (20ºC to 25ºC), for more than 48 hours. Keep the Neulasta prefilled syringe out of the reach of children. |
 | General information about the safe and effective use of Neulasta. Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use Neulasta for a condition for which it was not prescribed. Do not give Neulasta to other people, even if they have the same symptoms that you have. It may harm them. You can ask your pharmacist or healthcare provider for information about Neulasta that is written for health professionals. |
-| What are the ingredients in Neulasta? Active ingredient: pegfilgrastim Inactive ingredients: acetate, polysorbate 20, sodium, and sorbitol in water for injection. Neulasta® (pegfilgrastim) Manufactured by: Amgen Inc., One Amgen Center Drive, Thousand Oaks, California 91320-1799 U.S. License No. 1080 Patent: http://pat.amgen.com/neulasta/ ©2002- 2016 Amgen Inc. All rights reserved. For more information go to www.neulasta.com, or call 1-800-77-AMGEN (1-800-772-6436). 1xxxxx v13 |
+| What are the ingredients in Neulasta? Active ingredient: pegfilgrastim Inactive ingredients: acetate, polysorbate 20, sodium and sorbitol in water for injection. Neulasta® (pegfilgrastim) Manufactured by: Amgen Inc., One Amgen Center Drive, Thousand Oaks, California 91320-1799 U.S. License No. 1080 Patent: http://pat.amgen.com/onpro/ ©2002- 2016 Amgen Inc. All rights reserved. For more information go to www.neulasta.com, or call 1-800-77-AMGEN (1-800-772-6436). 1xxxxx v14 |
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-Revised: 4/2016
+Revised: 12/2016
 
 Patient Information
 
@@ -81,7 +81,7 @@ See the Instructions for Use for detailed information about how you will receive
 - See the section “What is the most important information I need to know about receiving Neulasta with the On-body Injector for Neulasta?”
 - Neulasta is given as an injection under the skin (subcutaneous).
   Your healthcare provider will use a prefilled syringe with Neulasta to fill the On-body Injector prior to applying it.
-  The prefilled syringe with Neulasta and the On-body Injector are provided to your healthcare provider as part of Neulasta OnproTM kit.
+  The prefilled syringe with Neulasta and the On-body Injector are provided to your healthcare provider as part of Neulasta Onpro® kit.
   The On-body Injector for Neulasta will be applied to the stomach area (abdomen) or back of your arm by your healthcare provider.
   If the On-body Injector for Neulasta was placed on the back of your arm, a caregiver must be available to monitor the On-body Injector for Neulasta.
 - Your healthcare provider should place the On-body Injector for Neulasta on an area of your skin that does not have swelling, redness, cuts, wounds, or abrasions.
@@ -122,6 +122,7 @@ Neulasta can cause serious side effects, including:
   Get emergency medical help right away if you get any of these symptoms of a serious allergic reaction with Neulasta: shortness of breath, wheezing, dizziness, swelling around the mouth or eyes, fast pulse, sweating, and hives.
   If you have an allergic reaction during the delivery of Neulasta, remove the On-body Injector for Neulasta by grabbing the edge of the adhesive pad and peeling off the On-body Injector for Neulasta.
   Get emergency medical help right away.
+
 - Sickle cell crises.
   Severe sickle cell crises, and sometimes death, can happen in people with sickle cell trait or disease who receive filgrastim, a medicine similar to Neulasta (pegfilgrastim).
 - Kidney injury (glomerulonephritis).
@@ -157,7 +158,7 @@ What are the ingredients in Neulasta?
 
 Active ingredient: pegfilgrastim
 
-Inactive ingredients: acetate, polysorbate 20, and sodium, sorbitol in Water for Injection.
+Inactive ingredients: acetate, polysorbate 20, sodium and sorbitol in Water for Injection.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
@@ -165,10 +166,10 @@ Neulasta® (pegfilgrastim)
 
 Manufactured by: Amgen Inc. One Amgen Center Drive Thousand Oaks, California 91320-1799 US License No. 1080
 
-Patent: http://pat.amgen.com/neulasta/
+Patent: http://pat.amgen.com/onpro/
 
-© 2002 to 2015 Amgen Inc. All rights reserved.
+© 2002 to 2016 Amgen Inc. All rights reserved.
 
 www.neulasta.com
 
-1-844-MYNEULASTA (1-844-696-3852) Issued: 11/2015 v3
+1-844-MYNEULASTA (1-844-696-3852) Issued: 12/2016 V4
