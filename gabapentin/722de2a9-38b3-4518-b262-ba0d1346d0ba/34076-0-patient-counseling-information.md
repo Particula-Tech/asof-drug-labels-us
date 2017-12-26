@@ -25,7 +25,7 @@ Instruct patients to report behaviors of concern immediately to healthcare provi
 
 Use in Pregnancy
 
-Instruct patients to notify their physician if they become pregnant or intend to become pregnant during therapy, and to notify their physician if they are breast feeding or intend to breast feed during therapy [see Use in Specific Populations (8.1) and (8.3)].
+Instruct patients to notify their physician if they become pregnant or intend to become pregnant during therapy, and to notify their physician if they are breast feeding or intend to breast feed during therapy [see Use in Specific Populations (8.1) and (8.2)].
 
 Encourage patients to enroll in the NAAED Pregnancy Registry if they become pregnant.
 This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
@@ -48,4 +48,6 @@ Distributed by:
 
 Ascend Laboratories, LCC
 
-Parsippany, NJ 07054 Revised: January 2017 PT 1702-05
+Parsippany, NJ 07054 Revised: November, 2017
+
+PT 1702-07

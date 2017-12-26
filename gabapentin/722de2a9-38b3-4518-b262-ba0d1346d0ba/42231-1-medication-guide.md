@@ -4,10 +4,6 @@ Gabapentin Capsules USP
 
 (GA ba PEN tin)
 
-Read the Medication Guide before you start taking gabapentin and each time you get a refill.
-There may be new information.
-This information does not take the place of talking to your healthcare provider about your medical condition or treatment.
-
 What is the most important information I should know about gabapentin?
 
 Do not stop taking gabapentin without first talking to your healthcare provider.
@@ -122,7 +118,7 @@ It is not known if gabapentin can harm your unborn baby.
 Tell your healthcare provider right away if you become pregnant while taking gabapentin.
 You and your healthcare provider will decide if you should take gabapentin while you are pregnant.
 
-o If you become pregnant while taking gabapentin, talk to your healthcare provider about registering with the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
+o Pregnancy Registry: If you become pregnant while taking gabapentin, talk to your healthcare provider about registering with the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
 The purpose of this registry is to collect information about the safety of antiepileptic drugs during pregnancy.
 You can enroll in this registry by calling 1-888-233-2334.
 
@@ -233,6 +229,8 @@ The 300-mg capsule shell also contains: gelatin, sodium lauryl sulfate, titanium
 The 400-mg capsule shell also contains: gelatin, sodium lauryl sulfate, red iron oxide, titanium dioxide, and yellow iron oxide.
 The imprinting ink contains shellac, dehydrated alcohol, isopropyl alcohol, butyl alcohol, propyl glycol, strong ammonia solution, and titanium dioxide.
 
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
 Manufactured by:
 
 Alkem Laboratories Limited
@@ -247,4 +245,4 @@ Ascend Laboratories, LCC
 
 Parsippany, NJ 07054
 
-Revised:October 2016
+Revised: November,2017

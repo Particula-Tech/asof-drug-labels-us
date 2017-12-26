@@ -13,7 +13,7 @@ The potential for alteration in hydrocodone exposure and effect should be consid
 
 Morphine
 
-When gabapentin is administered with morphine, patients should be observed for signs of central nervous system (CNS) depression, such as somnolence, sedation and respiratory depression [see Clinical Pharmacology (12.3)].
+When gabapentin is administered with morphine, patients should be observed for signs of CNS depression, such as somnolence, sedation and respiratory depression [see Clinical Pharmacology (12.3)].
 
 ## 7.3 Maalox® (aluminum hydroxide, magnesium hydroxide)
 
