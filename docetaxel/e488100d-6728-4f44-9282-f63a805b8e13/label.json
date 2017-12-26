@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA207252"
+  ],
+  "inn": "docetaxel",
+  "labeler": "Jiangsu Hengrui Medicine Co., Ltd.",
+  "package_ndcs": [
+    "57884-3041-1",
+    "57884-3042-1",
+    "57884-3043-1"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION, CONCENTRATE",
+      "generic": "docetaxel",
+      "name": "Docetaxel"
+    }
+  ],
+  "setid": "e488100d-6728-4f44-9282-f63a805b8e13",
+  "source": "dailymed"
+}
