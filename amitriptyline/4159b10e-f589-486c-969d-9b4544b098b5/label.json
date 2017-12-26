@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "ANDA210086"
+  ],
+  "inn": "amitriptyline",
+  "labeler": "Cadila Healthcare Limited",
+  "package_ndcs": [
+    "70771-1173-0",
+    "70771-1173-1",
+    "70771-1174-0",
+    "70771-1174-1",
+    "70771-1175-0",
+    "70771-1175-1",
+    "70771-1176-0",
+    "70771-1176-1",
+    "70771-1177-0",
+    "70771-1177-1",
+    "70771-1178-0",
+    "70771-1178-1"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "amitriptyline hydrochloride",
+      "name": "Amitriptyline Hydrochloride"
+    }
+  ],
+  "setid": "4159b10e-f589-486c-969d-9b4544b098b5",
+  "source": "dailymed"
+}

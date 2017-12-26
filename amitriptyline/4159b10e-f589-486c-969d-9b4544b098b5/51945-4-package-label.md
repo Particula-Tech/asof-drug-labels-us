@@ -1,0 +1,49 @@
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+
+NDC 70771-1173-1 in bottle of 100 Tablets
+
+Amitriptyline Hydrochloride Tablets USP, 10 mg
+
+Rx only
+
+100 Tablets
+
+NDC 70771-1174-1 in bottle of 100 Tablets
+
+Amitriptyline Hydrochloride Tablets USP, 25 mg
+
+Rx only
+
+100 Tablets
+
+NDC 70771-1175-1 in bottle of 100 Tablets
+
+Amitriptyline Hydrochloride Tablets USP, 50 mg
+
+Rx only
+
+100 Tablets
+
+NDC 70771-1176-1 in bottle of 100 Tablets
+
+Amitriptyline Hydrochloride Tablets USP, 75 mg
+
+Rx only
+
+100 Tablets
+
+NDC 70771-1177-1 in bottle of 100 Tablets
+
+Amitriptyline Hydrochloride Tablets USP, 100 mg
+
+Rx only
+
+100 Tablets
+
+NDC 70771-1178-1 in bottle of 100 Tablets
+
+Amitriptyline Hydrochloride Tablets USP, 150 mg
+
+Rx only
+
+100 Tablets
