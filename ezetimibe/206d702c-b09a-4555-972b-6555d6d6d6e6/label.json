@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA209234"
+  ],
+  "inn": "ezetimibe",
+  "labeler": "Ascend Laboratories, LLC",
+  "package_ndcs": [
+    "67877-490-05",
+    "67877-490-30",
+    "67877-490-55",
+    "67877-490-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "ezetimibe",
+      "name": "Ezetimibe"
+    }
+  ],
+  "setid": "206d702c-b09a-4555-972b-6555d6d6d6e6",
+  "source": "dailymed"
+}
