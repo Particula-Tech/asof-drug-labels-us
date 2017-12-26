@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA020936"
+  ],
+  "inn": "paroxetine",
+  "labeler": "GlaxoSmithKline Inc",
+  "package_ndcs": [
+    "53873-045-00",
+    "53873-046-00",
+    "53873-047-00"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "generic": "paroxetine hydrochloride",
+      "name": "PAXIL"
+    }
+  ],
+  "setid": "cd76d1e7-8c7a-4851-bb0e-c590c1c0de8f",
+  "source": "dailymed"
+}
