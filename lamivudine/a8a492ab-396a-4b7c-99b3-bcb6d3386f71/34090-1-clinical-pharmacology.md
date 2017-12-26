@@ -117,7 +117,7 @@ In subjects receiving lamivudine monotherapy or combination therapy with lamivud
 
 Genotypic and Phenotypic Analysis of On-Therapy HIV-1 Isolates from Subjects with Virologic Failure
 
-Trial EPV20001:Fifty-three of 554 (10%) subjects enrolled in EPV20001 were identified as virological failures (plasma HIV-1 RNA level greater than or equal to 400 copies per mL) by Week 48.
+Trial EPV20001: Fifty-three of 554 (10%) subjects enrolled in EPV20001 were identified as virological failures (plasma HIV-1 RNA level greater than or equal to 400 copies per mL) by Week 48.
 Twenty-eight subjects were randomized to the lamivudine once-daily treatment group and 25 to the lamivudine twice-daily treatment group.
 The median baseline plasma HIV-1 RNA levels of subjects in the lamivudine once-daily group and lamivudine twice-daily group were 4.9 log10 copies per mL and 4.6 log10 copies per mL, respectively.
 
@@ -129,7 +129,7 @@ Phenotypic analysis of baseline-matched on-therapy HIV-1 isolates from subjects 
 
 Phenotypic analysis of baseline-matched on-therapy HIV-1 isolates from subjects (n = 13) receiving lamivudine twice daily showed that isolates from 4 of 13 subjects exhibited a 29- to 159-fold decrease in susceptibility to lamivudine, isolates from all 13 subjects were susceptible to zidovudine, and isolates from 3 of 13 subjects exhibited a 21- to 342-fold decrease in susceptibility to efavirenz.
 
-Trial EPV40001:Fifty subjects received lamivudine 300 mg once daily plus zidovudine 300 mg twice daily plus abacavir 300 mg twice daily and 50 subjects received lamivudine 150 mg plus zidovudine 300 mg plus abacavir 300 mg all twice-daily.
+Trial EPV40001: Fifty subjects received lamivudine 300 mg once daily plus zidovudine 300 mg twice daily plus abacavir 300 mg twice daily and 50 subjects received lamivudine 150 mg plus zidovudine 300 mg plus abacavir 300 mg all twice-daily.
 The median baseline plasma HIV-1 RNA levels for subjects in the 2 groups were 4.79 log10 copies per mL and 4.83 log10 copies per mL, respectively.
 Fourteen of 50 subjects in the lamivudine once-daily treatment group and 9 of 50 subjects in the lamivudine twice-daily group were identified as virologic failures.
 
