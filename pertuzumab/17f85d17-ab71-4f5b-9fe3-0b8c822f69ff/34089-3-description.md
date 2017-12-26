@@ -5,5 +5,5 @@ Pertuzumab is produced by recombinant DNA technology in a mammalian cell (Chines
 Gentamicin is not detectable in the final product.
 Pertuzumab has an approximate molecular weight of 148 kDa.
 
-PERJETA is a sterile, clear to slightly opalescent, colorless to pale brown liquid for intravenous infusion.
+PERJETA injection is a sterile, clear to slightly opalescent, colorless to pale brown liquid for intravenous infusion.
 Each single use vial contains 420 mg of pertuzumab at a concentration of 30 mg/mL in 20 mM L-histidine acetate (pH 6.0), 120 mM sucrose and 0.02% polysorbate 20.

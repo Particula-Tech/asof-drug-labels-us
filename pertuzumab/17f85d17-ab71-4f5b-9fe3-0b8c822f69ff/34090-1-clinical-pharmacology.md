@@ -15,11 +15,9 @@ Pertuzumab demonstrated linear pharmacokinetics at a dose range of 2 – 25 mg/k
 Based on a population PK analysis that included 481 patients, the median clearance (CL) of pertuzumab was 0.24 L/day and the median half-life was 18 days.
 With an initial dose of 840 mg followed by a maintenance dose of 420 mg every three weeks thereafter, the steady-state concentration of pertuzumab was reached after the first maintenance dose.
 
-The population PK analysis suggested no PK differences based on age, gender, ethnicity (Japanese vs. non-Japanese), or disease status (neoadjuvant versus metastatic setting).
+The population PK analysis suggested no PK differences based on age, gender, ethnicity (Japanese vs. non-Japanese), or disease status (neoadjuvant or adjuvant vs. metastatic setting).
 Baseline serum albumin level and lean body weight as covariates only exerted a minor influence on PK parameters.
 Therefore, no dose adjustments based on body weight or baseline albumin level are needed.
-
-No drug-drug interactions were observed between pertuzumab and trastuzumab, or between pertuzumab and docetaxel in a sub-study of 37 patients in Study 1.
 
 No dedicated renal impairment trial for PERJETA has been conducted.
 Based on the results of the population pharmacokinetic analysis, pertuzumab exposure in patients with mild (CLcr 60 to 90 mL/min, n=200) and moderate renal impairment (CLcr 30 to 60 mL/min, n=71) were similar to those in patients with normal renal function (CLcr greater than 90 mL/min, n=200).
@@ -27,6 +25,6 @@ No relationship between CLcr and pertuzumab exposure was observed over the range
 
 ## 12.6 Cardiac Electrophysiology
 
-The effect of pertuzumab with an initial dose of 840 mg followed by a maintenance dose of 420 mg every three weeks on QTc interval was evaluated in a subgroup of 20 patients with HER2-positive breast cancer in Study 1.
+The effect of pertuzumab with an initial dose of 840 mg followed by a maintenance dose of 420 mg every three weeks on QTc interval was evaluated in a subgroup of 20 patients with HER2-positive breast cancer in CLEOPATRA.
 No large changes in the mean QT interval (i.e., greater than 20 ms) from placebo based on Fridericia correction method were detected in the trial.
 A small increase in the mean QTc interval (i.e., less than 10 ms) cannot be excluded because of the limitations of the trial design.
