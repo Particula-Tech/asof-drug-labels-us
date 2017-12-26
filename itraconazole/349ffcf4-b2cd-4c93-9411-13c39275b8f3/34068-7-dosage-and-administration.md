@@ -5,7 +5,7 @@ Itraconazole capsule must be swallowed whole.
 
 Itraconazole Capsules is a different preparation than Itraconazole Oral Solution and should not be used interchangeably.
 
-Treatment of Blastomycos is and Histoplasmosis
+Treatment of Blastomycosis and Histoplasmosis
 
 The recommended dose is 200 mg once daily (2 capsules).
 If there is no obvious improvement, or there is evidence of progressive fungal disease, the dose should be increased in 100-mg increments to a maximum of 400 mg daily.

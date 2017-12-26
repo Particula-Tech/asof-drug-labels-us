@@ -6,8 +6,6 @@ The capsules are supplied in unit-dose blister packs of 3 × 10 capsules (NDC 67
 Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 Protect from light and moisture.Keep out of reach of children.
 
-Revised: May,2017
-
 Manufactured by:
 
 Alkem Laboratories Ltd.
@@ -18,4 +16,4 @@ Distributed by:
 
 Ascend Laboratories, LLC
 
-Parsippany, NJ 07054
+Parsippany, NJ 07054 Revised: November,2017 PT 2268-03

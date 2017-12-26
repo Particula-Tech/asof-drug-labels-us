@@ -6,7 +6,7 @@ General Pharmacokinetic Characteristics
 
 Peak plasma concentrations of itraconazole are reached within 2 to 5 hours following oral administration.
 As a consequence of non-linear pharmacokinetics, itraconazole accumulates in plasma during multiple dosing.
-Steady-state concentrations are generally reached within about 15 days, with Cmax values of 0.5 mcg/ml, 1.1 mcg/ml and 2.0 mcg/ml after oral administration of 100 mg once daily, 200 mg once daily and 200 mg b.i.d., respectively.
+Steady-state concentrations are generally reached within about 15 days, with Cmax values of 0.5 mcg /ml, 1.1 mcg /ml and 2.0 mcg/ml after oral administration of 100 mg once daily, 200 mg once daily and 200 mg b.i.d., respectively.
 The terminal half-life of itraconazole generally ranges from 16 to 28 hours after single dose and increases to 34 to 42 hours with repeated dosing.
 Once treatment is stopped, itraconazole plasma concentrations decrease to an almost undetectable concentration within 7 to 14 days, depending on the dose and duration of treatment.
 Itraconazole mean total plasma clearance following intravenous administration is 278 ml/min.
@@ -22,7 +22,7 @@ The oral bioavailability of itraconazole is maximal when Itraconazole capsules a
 Absorption of itraconazole capsules is reduced in subjects with reduced gastric acidity, such as subjects taking medications known as gastric acid secretion suppressors (e.g., H2-receptor antagonists, proton pump inhibitors) or subjects with achlorhydria caused by certain diseases.
 (See PRECAUTIONS: Drug Interactions.)
 Absorption of itraconazole under fasted conditions in these subjects is increased when Itraconazole Capsules are administered with an acidic beverage (such as a non-diet cola).
-When Itraconazole Capsules were administered as a single 200-mg dose under fasted conditions with non-diet cola after ranitidine pretreatment, a H2-receptor antagonist,itraconazole absorption was comparable to that observed when Itraconazole Capsules were administered alone.
+When Itraconazole Capsules were administered as a single 200-mg dose under fasted conditions with non-diet cola after ranitidine pretreatment, a H2 -receptor antagonist, itraconazole absorption was comparable to that observed when Itraconazole Capsules were administered alone.
 (See PRECAUTIONS: Drug Interactions.)
 
 Itraconazole exposure is lower with the Capsule formulation than with the Oral Solution when the same dose of drug is given.
@@ -46,11 +46,11 @@ The main metabolite is hydroxy-itraconazole, which has in vitro antifungal activ
 Excretion
 
 Itraconazole is excreted mainly as inactive metabolites in urine (35%) and in feces (54%) within one week of an oral solution dose.
-Renal excretion of itraconazole and the active metabolite hydroxy-itraconazole account for less than 1% of an intravenous dose.
+Renal excretion of itraconazole and the active metabolite hydroxy-itraconazole account for less than 1%of an intravenous dose.
 Based on an oral radiolabeled dose, fecal excretion of unchanged drug ranges from 3% to 18% of the dose.
 
 As re-distribution of itraconazole from keratinous tissues appears to be negligible, elimination of itraconazole from these tissues is related to epidermal regeneration.
-Contrary to plasma, the concentration in skin persists for 2 to 4 weeks after discontinuation of a 4-week treatment and in nail keratin – where itraconazole can be detected as early as 1 week after start of treatment for at least six months after the end of a 3-month treatment period.
+Contrary to plasma, the concentration in skin persists for 2 to 4 weeks after discontinuation of a 4-week treatment and in nail keratin – where itraconazole can be detected as early as 1 week after start of treatment – for at least six months after the end of a 3-month treatment period.
 
 ## Special Populations
 
@@ -58,13 +58,12 @@ Renal Impairment
 
 Limited data are available on the use of oral itraconazole in patients with renal impairment.
 A pharmacokinetic study using a single 200-mg oral dose of itraconazole was conducted in three groups of patients with renal impairment (uremia: n=7; hemodialysis: n=7; and continuous ambulatory peritoneal dialysis: n=5).
-In uremic subjects with a mean creatinine clearance of 13 mL/min. × 1.73 m, the exposure, based on AUC, was slightly reduced compared with normal population parameters.
-This study did not demonstrate any significant effect of hemodialysis or continuous ambulatory peritoneal dialysis on the pharmacokinetics of itraconazole (Tmax, Cmax, and AUC 0-8).
-Plasma concentration-versus-time profiles showed wide intersubject variation in all three groups.
+In uremic subjects with a mean creatinine clearance of 13mL/min. × 1.73m2, the exposure, based on AUC, was slightly reduced compared with normal population parameters.
+This study did not demonstrate any significant effect of hemodialysis or continuous ambulatory peritoneal dialysis on the pharmacokinetics of itraconazole (Tmax, Cmax, and AUC0-8 h). Plasma concentration-versus time profiles showed wide intersubject variation in all three groups.
 After a single intravenous dose, the mean terminal half-lives of itraconazole in patients with mild (defined in this study as CrCl 50-79 ml/min), moderate (defined in this study as CrCl 20 to 49 ml/min), and severe renal impairment (defined in this study as CrCl <20 ml/min) were similar to that in healthy subjects (range of means 42 to 49 hours vs 48 hours in renally impaired patients and healthy subjects, respectively).
 Overall exposure to itraconazole, based on AUC, was decreased in patients with moderate and severe renal impairment by approximately 30% and 40%, respectively, as compared with subjects with normal renal function.
 Data are not available in renally impaired patients during long-term use of itraconazole.
-Dialysis has no effect on the half-life or clearance of itraconazole or hydroxyitraconazole.(See PRECAUTIONS and DOSAGE AND ADMINISTRATION.)
+Dialysis has no effect on the half-life or clearance of itraconazole or hydroxyitraconazole (See PRECAUTIONS and DOSAGEAND ADMINISTRATION.)
 
 Hepatic Impairment
 
@@ -73,14 +72,14 @@ A pharmacokinetic study was conducted in 6 healthy and 12 cirrhotic subjects who
 A statistically significant reduction in mean Cmax (47%) and a twofold increase in the elimination half-life (37 ± 17 hours vs. 16 ± 5 hours) of itraconazole were noted in cirrhotic subjects compared with healthy subjects.
 However, overall exposure to itraconazole, based on AUC, was similar in cirrhotic patients and in healthy subjects.
 Data are not available in cirrhotic patients during long-term use of itraconazole.
-(See CONTRAINDICATIONS, PRECAUTIONS: Drug Interactionsand DOSAGE AND ADMINISTRATION.)
+(See CONTRAINDICATIONS, PRECAUTIONS:Drug Interactionsand DOSAGE AND ADMINISTRATION.)
 
 Decreased Cardiac Contractility
 
 When itraconazole was administered intravenously to anesthetized dogs, a dose-related negative inotropic effect was documented.
-In a healthy volunteer study of itraconazole intravenous infusion,transient, asymptomatic decreases in left ventricular ejection fraction were observed using gated SPECT imaging; these resolved before the next infusion, 12 hours later.
+In a healthy volunteer study of itraconazole intravenous infusion, transient, asymptomatic decreases in left ventricular ejection fraction were observed using gated SPECT imaging; these resolved before the next infusion, 12 hours later.
 If signs or symptoms of congestive heart failure appear during administration of Itraconazole Capsules, Itraconazole Capsules should be discontinued.
-(See BOXED WARNING, CONTRAINDICATIONS, WARNINGS,PRECAUTIONS:Drug Interactionsand ADVERSE REACTIONS:Post-marketing Experiencefor more information.)
+(See BOXED WARNING, CONTRAINDICATIONS, WARNINGS,PRECAUTIONS: Drug Interactionsand ADVERSE REACTIONS: Post-marketing Experiencefor more information.)
 
 ## MICROBIOLOGY
 
@@ -90,7 +89,7 @@ In vitro studies have demonstrated that itraconazole inhibits the cytochrome P45
 
 Activity In Vitro and in Clinical Infections:
 
-Itraconazole exhibits in vitro activity against Blastomyces dermatitidis, Histoplasma capsulatum,Histoplasma duboisii, Aspergillus flavus, Aspergillus fumigatus, and Trichophyton species (See INDICATIONS AND USAGE,Description of Clinical Studies).
+Itraconazole exhibits in vitro activity against Blastomyces dermatitidis, Histoplasma capsulatum,Histoplasma duboisii, Aspergillus flavus, Aspergillus fumigatus, and Trichophyton species (See INDICATIONS AND USAGE: Description of Clinical Studies).
 
 Correlation between minimum inhibitory concentration (MIC) results in vitro and clinical outcome has yet to be established for azole antifungal agents.
 

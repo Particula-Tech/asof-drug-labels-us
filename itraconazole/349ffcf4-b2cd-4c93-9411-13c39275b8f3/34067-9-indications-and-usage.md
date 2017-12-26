@@ -68,7 +68,7 @@ Twenty-one percent (21%) of the overall success group had a relapse (worsening o
 
 Onychomycosis of the fingernail
 
-Analyses were conducted on data from a double-blind, placebo-controlled study (N=73 total; 37 given Itraconazole Capsules) in which patients with onychomycosis of the fingernails received a 1-week course (course) of 200 mg of Itraconazole Capsules b.i.d., followed by a 3-week period without Itraconazole, which was followed by a second 1-week course of 200 mg of Itraconazole Capsules b.i.d.
+Analyses were conducted on data from a double-blind, placebo-controlled study (N=73 total; 37 given Itraconazole Capsules) in which patients with onychomycosis of the fingernails received a 1-week course of 200 mg of Itraconazole Capsules b.i.d., followed by a 3-week period without Itraconazole, which was followed by a second 1-week course of 200 mg of Itraconazole Capsules b.i.d.
 Results demonstrated mycologic cure in 61% of patients.
 Fifty-six percent (56%) of patients were considered an overall success and 47% of patients demonstrated mycologic cure plus clinical cure.
 The mean time to overall success was approximately 5 months.
