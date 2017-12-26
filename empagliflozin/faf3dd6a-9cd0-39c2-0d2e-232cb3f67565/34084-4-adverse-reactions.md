@@ -8,7 +8,8 @@ The following important adverse reactions are described below and elsewhere in t
 - Urosepsis and Pyelonephritis [see Warnings and Precautions (5.4)]
 - Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues [see Warnings and Precautions (5.5)]
 - Genital Mycotic Infections [see Warnings and Precautions (5.6)]
-- Increased Low-Density Lipoprotein Cholesterol (LDL-C) [see Warnings and Precautions (5.7)]
+- Hypersensitivity Reactions [see Warnings and Precautions (5.7)]
+- Increased Low-Density Lipoprotein Cholesterol (LDL-C) [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -49,7 +50,7 @@ Table 1 Adverse Reactions Reported in ≥2% of Patients Treated with JARDIANCE a
 Thirst (including polydipsia) was reported in 0%, 1.7%, and 1.5% for placebo, JARDIANCE 10 mg, and JARDIANCE 25 mg, respectively.
 
 Volume Depletion JARDIANCE causes an osmotic diuresis, which may lead to intravascular volume contraction and adverse reactions related to volume depletion.
-In the pool of five placebo-controlled clinical trials, adverse reactions related to volume depletion (e.g., blood pressure (ambulatory) decreased, blood pressure systolic decreased, dehydration, hypotension, hypovolemia, orthostatic hypotension, and syncope) were reported by 0.3%, 0.5%, and 0.3% of patients treated with placebo, JARDIANCE 10 mg, and JARDIANCE 25 mg respectively.
+In the pool of five placebo-controlled clinical trials, adverse reactions related to volume depletion (e.g., blood pressure (ambulatory) decreased, blood pressure systolic decreased, dehydration, hypotension, hypovolemia, orthostatic hypotension, and syncope) were reported by 0.3%, 0.5%, and 0.3% of patients treated with placebo, JARDIANCE 10 mg, and JARDIANCE 25 mg, respectively.
 JARDIANCE may increase the risk of hypotension in patients at risk for volume contraction [see Warnings and Precautions (5.1) and Use in Specific Populations (8.5, 8.6)].
 
 Increased Urination In the pool of five placebo-controlled clinical trials, adverse reactions of increased urination (e.g., polyuria, pollakiuria, and nocturia) occurred more frequently on JARDIANCE than on placebo (see Table 1).
@@ -135,7 +136,7 @@ The incidence of urinary tract infections in female patients randomized to place
 The incidence of urinary tract infections in male patients randomized to placebo, JARDIANCE 10 mg, and JARDIANCE 25 mg was 3.2%, 3.6%, and 4.1%, respectively [see Warnings and Precautions (5.4) and Use in Specific Populations (8.5)].
 
 Laboratory Tests Increase in Low-Density Lipoprotein Cholesterol (LDL-C) Dose-related increases in low-density lipoprotein cholesterol (LDL-C) were observed in patients treated with JARDIANCE.
-LDL-C increased by 2.3%, 4.6%, and 6.5% in patients treated with placebo, JARDIANCE 10 mg, and JARDIANCE 25 mg, respectively [see Warnings and Precautions (5.7)].
+LDL-C increased by 2.3%, 4.6%, and 6.5% in patients treated with placebo, JARDIANCE 10 mg, and JARDIANCE 25 mg, respectively [see Warnings and Precautions (5.8)].
 The range of mean baseline LDL-C levels was 90.3 to 90.6 mg/dL across treatment groups.
 
 Increase in Hematocrit In a pool of four placebo-controlled studies, median hematocrit decreased by 1.3% in placebo and increased by 2.8% in JARDIANCE 10 mg and 2.8% in JARDIANCE 25 mg treated patients.
@@ -148,3 +149,5 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 - Ketoacidosis [see Warnings and Precautions (5.2)]
 - Urosepsis and pyelonephritis [see Warnings and Precautions (5.4)]
+- Angioedema [see Warnings and Precautions (5.7)]
+- Skin reactions (e.g., rash, urticaria)

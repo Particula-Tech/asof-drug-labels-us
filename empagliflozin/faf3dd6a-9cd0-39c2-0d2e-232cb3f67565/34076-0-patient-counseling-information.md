@@ -15,12 +15,10 @@ Advise patients not to double their next dose.
 
 Inform patients that the most common adverse reactions associated with the use of JARDIANCE are urinary tract infections and mycotic genital infections.
 
-Inform female patients of reproductive potential that the use of JARDIANCE during pregnancy has not been studied in humans, and that JARDIANCE should only be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
-Based on animal data, JARDIANCE may cause fetal harm in the second and third trimesters.
-Instruct patients to report pregnancies to their physicians as soon as possible.
+Advise pregnant women, and females of reproductive potential of the potential risk to a fetus with treatment with JARDIANCE [see Use in Specific Populations (8.1)].
+Instruct females of reproductive potential to report pregnancies to their physicians as soon as possible.
 
-Inform nursing mothers to discontinue JARDIANCE or nursing, taking into account the importance of the drug to the mother.
-It is not known if JARDIANCE is excreted in breast milk; however, based on animal data, JARDIANCE may cause harm to nursing infants.
+Advise women that breastfeeding is not recommended during treatment with JARDIANCE [see Use in Specific Populations (8.2)].
 
 Hypotension Inform patients that hypotension may occur with JARDIANCE and advise them to contact their healthcare provider if they experience such symptoms [see Warnings and Precautions (5.1)].
 Inform patients that dehydration may increase the risk for hypotension, and to have adequate fluid intake.
@@ -43,6 +41,9 @@ Advise them of treatment options and when to seek medical advice [see Warnings a
 Genital Mycotic Infections in Males (e.g., Balanitis or Balanoposthitis) Inform male patients that yeast infection of penis (e.g., balanitis or balanoposthitis) may occur, especially in uncircumcised males and patients with chronic and recurrent infections.
 Provide them with information on the signs and symptoms of balanitis and balanoposthitis (rash or redness of the glans or foreskin of the penis).
 Advise them of treatment options and when to seek medical advice [see Warnings and Precautions (5.6)].
+
+Hypersensitivity Reactions Inform patients that serious hypersensitivity reactions, such as urticaria and angioedema, have been reported with JARDIANCE.
+Advise patients to report immediately any skin reaction or angioedema, and to discontinue drug until they have consulted prescribing physician [see Warnings and Precautions (5.7)].
 
 Laboratory Tests Inform patients that renal function should be assessed prior to initiation of JARDIANCE and monitored periodically thereafter.
 

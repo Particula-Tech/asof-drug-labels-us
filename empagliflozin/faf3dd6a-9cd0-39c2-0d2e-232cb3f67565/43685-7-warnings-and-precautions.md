@@ -38,7 +38,7 @@ Patients with hypovolemia may be more susceptible to these changes.
 Renal function abnormalities can occur after initiating JARDIANCE [see Adverse Reactions (6.1)].
 Renal function should be evaluated prior to initiation of JARDIANCE and monitored periodically thereafter.
 More frequent renal function monitoring is recommended in patients with an eGFR below 60 mL/min/1.73 m2.
-Use of JARDIANCE is not recommended when eGFR is persistently less than 45 mL/min/1.73 m2 and is contraindicated in patients with an eGFR less than 30 mL/min/1.73 m2 [see Dosage and Administration (2.2), Contraindications (4), Use in Specific Populations (8.6)].
+Use of JARDIANCE is not recommended when eGFR is persistently less than 45 mL/min/1.73 m2 and is contraindicated in patients with an eGFR less than 30 mL/min/1.73 m2 [see Dosage and Administration (2.2), Contraindications (4) and Use in Specific Populations (8.6)].
 
 ## 5.4 Urosepsis and Pyelonephritis
 
@@ -55,10 +55,16 @@ Therefore, a lower dose of the insulin secretagogue or insulin may be required t
 ## 5.6 Genital Mycotic Infections
 
 JARDIANCE increases the risk for genital mycotic infections [see Adverse Reactions (6.1)].
-Patients with a history of chronic or recurrent genital mycotic infections were more likely to develop mycotic genital infections.
+Patients with a history of chronic or recurrent genital mycotic infections were more likely to develop genital mycotic infections.
 Monitor and treat as appropriate.
 
-## 5.7 Increased Low-Density Lipoprotein Cholesterol (LDL-C)
+## 5.7 Hypersensitivity Reactions
+
+There have been postmarketing reports of serious hypersensitivity reactions, (e.g., angioedema) in patients treated with JARDIANCE.
+If a hypersensitivity reaction occurs, discontinue JARDIANCE; treat promptly per standard of care, and monitor until signs and symptoms resolve.
+JARDIANCE is contraindicated in patients with a previous serious hypersensitivity reaction to empagliflozin or any of the excipients in JARDIANCE [see Contraindications (4)].
+
+## 5.8 Increased Low-Density Lipoprotein Cholesterol (LDL-C)
 
 Increases in LDL-C can occur with JARDIANCE [see Adverse Reactions (6.1)].
 Monitor and treat as appropriate.

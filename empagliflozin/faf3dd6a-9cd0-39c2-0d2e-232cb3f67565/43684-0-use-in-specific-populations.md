@@ -16,7 +16,7 @@ The estimated background risk of miscarriage for the indicated population is unk
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 
 Clinical Considerations Disease-associated maternal and/or embryo/fetal risk: Poorly controlled diabetes in pregnancy increases the maternal risk for diabetic ketoacidosis, pre-eclampsia, spontaneous abortions, preterm delivery, stillbirth, and delivery complications.
-Poorly controlled diabetes increases the fetal risk for major birth defects, still birth, and macrosomia related morbidity.
+Poorly controlled diabetes increases the fetal risk for major birth defects, stillbirth, and macrosomia related morbidity.
 
 Data Animal Data Empagliflozin dosed directly to juvenile rats from postnatal day (PND) 21 until PND 90 at doses of 1, 10, 30 and 100 mg/kg/day caused increased kidney weights and renal tubular and pelvic dilatation at 100 mg/kg/day, which approximates 13-times the maximum clinical dose of 25 mg, based on AUC.
 These findings were not observed after a 13 week drug-free recovery period.
@@ -25,6 +25,7 @@ These outcomes occurred with drug exposure during periods of renal development i
 In embryo-fetal development studies in rats and rabbits, empagliflozin was administered for intervals coinciding with the first trimester period of organogenesis in humans.
 Doses up to 300 mg/kg/day, which approximates 48-times (rats) and 128-times (rabbits) the maximum clinical dose of 25 mg (based on AUC), did not result in adverse developmental effects.
 In rats, at higher doses of empagliflozin causing maternal toxicity, malformations of limb bones increased in fetuses at 700 mg/kg/day or 154-times the 25 mg maximum clinical dose.
+Empagliflozin crosses the placenta and reaches fetal tissues in rats.
 In the rabbit, higher doses of empagliflozin resulted in maternal and fetal toxicity at 700 mg/kg/day, or 139-times the 25 mg maximum clinical dose.
 
 In pre- and postnatal development studies in pregnant rats, empagliflozin was administered from gestation day 6 through to lactation day 20 (weaning) at up to 100 mg/kg/day (approximately 16 times the 25 mg maximum clinical dose) without maternal toxicity.
@@ -36,7 +37,7 @@ Risk Summary There is no information regarding the presence of JARDIANCE in huma
 Empagliflozin is present in the milk of lactating rats [see Data].
 Since human kidney maturation occurs in utero and during the first 2 years of life when lactational exposure may occur, there may be risk to the developing human kidney.
 
-Because of the potential for serious adverse reactions in a breastfed infant, advise women that use of JARDIANCE is not recommended while breastfeeding.
+Because of the potential for serious adverse reactions in a breastfed infant, including the potential for empagliflozin to affect postnatal renal development, advise women that use of JARDIANCE is not recommended while breastfeeding.
 
 Data Empagliflozin was present at a low level in rat fetal tissues after a single oral dose to the dams at gestation day 18.
 In rat milk, the mean milk to plasma ratio ranged from 0.634 -5, and was greater than one from 2 to 24 hours post-dose.
