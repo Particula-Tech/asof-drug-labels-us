@@ -1,6 +1,6 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Suicidal Thoughts and Behaviors in Children, Adolescents, and Young Adults
+## 5.1 Suicidal Thoughts and Behaviors in Children, Adolescents and Young Adults
 
 Patients with major depressive disorder (MDD), both adult and pediatric, may experience worsening of their depression and/or the emergence of suicidal ideation and behavior (suicidality) or unusual changes in behavior, whether or not they are taking antidepressant medications, and this risk may persist until significant remission occurs.
 Suicide is a known risk of depression and certain other psychiatric disorders, and these disorders themselves are the strongest predictors of suicide.
@@ -52,11 +52,11 @@ These cases have presented as hepatitis with abdominal pain, hepatomegaly, and e
 Duloxetine should be discontinued in patients who develop jaundice or other evidence of clinically significant liver dysfunction and should not be resumed unless another cause can be established.
 Cases of cholestatic jaundice with minimal elevation of transaminase levels have also been reported.
 Other postmarketing reports indicate that elevated transaminases, bilirubin, and alkaline phosphatase have occurred in patients with chronic liver disease or cirrhosis.
-Duloxetineincreased the risk of elevation of serum transaminase levels in developmentprogram clinical trials.
-Liver transaminase elevations resulted in thediscontinuation of 0.3% (92/34,756) of duloxetine-treated patients.
-In mostpatients, the median time to detection of the transaminase elevation was abouttwo months.
-In adult placebo-controlled trials in any indication, for patientswith normal and abnormal baseline ALT values, elevation of ALT >3 times theupper limit of normal occurred in 1.25% (144/11,496) of duloxetine-treatedpatients compared to 0.45% (39/8716) of placebo-treated patients.
-In adultplacebo-controlled studies using a fixed dose design, there was evidence of a doseresponse relationship for ALT and AST elevation of >3 times the upper limitof normal and >5 times the upper limit of normal, respectively.
+Duloxetine increased the risk of elevation of serum transaminase levels in development program clinical trials.
+Liver transaminase elevations resulted in the discontinuation of 0.3% (92/34,756) of duloxetine-treated patients.
+In most patients, the median time to detection of the transaminase elevation was about two months.
+In adult placebo-controlled trials in any indication, for patients with normal and abnormal baseline ALT values, elevation of ALT >3 times the upper limit of normal occurred in 1.25% (144/11,496) of duloxetine-treated patients compared to 0.45% (39/8716) of placebo-treated patients.
+In adult placebo-controlled studies using a fixed dose design, there was evidence of a dose response relationship for ALT and AST elevation of >3 times the upper limit of normal and >5 times the upper limit of normal, respectively.
 Because it is possible that duloxetine and alcohol may interact to cause liver injury or that duloxetine may aggravate pre-existing liver disease, duloxetine should not be prescribed to patients with substantial alcohol use or evidence of chronic liver disease.
 
 ## 5.3 Orthostatic Hypotension, Falls and Syncope
@@ -73,7 +73,7 @@ Falls with serious consequences including bone fractures and hospitalizations ha
 
 ## 5.4 Serotonin Syndrome
 
-The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including duloxetine, alone but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, and St. John’s Wort) and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
+The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including duloxetine, alone but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone,amphetamines, and St. John’s Wort) and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
 Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
 Patients should be monitored for the emergence of serotonin syndrome.
 The concomitant use of duloxetine with MAOIs intended to treat psychiatric disorders is contraindicated. duloxetine should also not be started in a patient who is being treated with MAOIs such as linezolid or intravenous methylene blue.
@@ -81,7 +81,7 @@ All reports with methylene blue that provided information on the route of admini
 No reports involved the administration of methylene blue by other routes (such as oral tablets or local tissue injection) or at lower doses.
 There may be circumstances when it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking duloxetine.
 Duloxetine should be discontinued before initiating treatment with the MAOI [see Dosage and Administration (2.8, 2.9), and Contraindications (4)].
-If concomitant use of duloxetine with other serotonergic drugs including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan and St. John’s Wort is clinically warranted, patients should be made aware of a potential increased risk for serotonin syndrome, particularly during treatment initiation and dose increases.
+If concomitant use of duloxetine with other serotonergic drugs including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan,amphetamines,and St. John’s Wort is clinically warranted, patients should be made aware of a potential increased risk for serotonin syndrome, particularly during treatment initiation and dose increases.
 Treatment with duloxetine and any concomitant serotonergic agents, should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
 
 ## 5.5 Abnormal Bleeding
@@ -99,7 +99,7 @@ The reporting rate of SJS associated with duloxetine use exceeds the general pop
 The reporting rate is generally accepted to be an underestimate due to underreporting.
 Duloxetine should be discontinued at the first appearance of blisters, peeling rash, mucosal erosions, or any other sign of hypersensitivity if no other etiology can be identified.
 
-## 5.7 Discontinuation of Treatment with Duloxetine
+## 5.7 Discontinuation of Treatment with duloxetine
 
 Discontinuation symptoms have been systematically evaluated in patients taking duloxetine.
 Following abrupt or tapered discontinuation in adult placebo-controlled clinical trials, the following symptoms occurred at 1% or greater and at a significantly higher rate in duloxetine -treated patients compared to those discontinuing from placebo: dizziness, headache, nausea, diarrhea, paresthesia, irritability, vomiting, insomnia, anxiety, hyperhidrosis, and fatigue.
@@ -129,7 +129,7 @@ Duloxetine should be prescribed with care in patients with a history of a seizur
 
 ## 5.11 Effect on Blood Pressure
 
-In adult placebo-controlled clinical trials across indications from baseline to endpoint, duloxetine treatment was associated with mean increases of 0.5 mm Hg in systolic blood pressure and 0.8 mm Hg in diastolic blood pressure compared to mean decreases of 0.6 mm Hg systolic and 0.4 mm Hg diastolic in placebo-treated patients.
+In adult placebo-controlled clinical trials across indications from baseline to endpoint, duloxetine treatment was associated with mean increases of 0.5 mm Hg in systolic blood pressure and 0.8 mm Hg in diastolic blood pressure compared to mean decreases of 0.6 mm Hg systolic and 0.3 mm Hg diastolic in placebo-treated patients.
 There was no significant difference in the frequency of sustained (3 consecutive visits) elevated blood pressure.
 In a clinical pharmacology study designed to evaluate the effects of duloxetine on various parameters, including blood pressure at supratherapeutic doses with an accelerated dose titration, there was evidence of increases in supine blood pressure at doses up to 200 mg twice daily.
 At the highest 200 mg twice daily dose, the increase in mean pulse rate was 5.0 to 6.8 beats and increases in mean blood pressure were 4.7 to 6.8 mm Hg (systolic) and 4.5 to 7 mm Hg (diastolic) up to 12 hours after dosing.

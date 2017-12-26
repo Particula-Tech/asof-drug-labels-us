@@ -22,7 +22,7 @@ See FDA-approved patient labeling (Medication Guide).
 - Alcohol — Although duloxetine does not increase the impairment of mental and motor skills caused by alcohol, use of duloxetine concomitantly with heavy alcohol intake may be associated with severe liver injury.
   For this reason, duloxetine should not be prescribed for patients with substantial alcohol use [see Warnings and Precautions (5.2) and Drug Interactions (7.15)].
 - Orthostatic Hypotension, Falls and Syncope — Advise patients of the risk of orthostatic hypotension, falls and syncope, especially during the period of initial use and subsequent dose escalation, and in association with the use of concomitant drugs that might potentiate the orthostatic effect of duloxetine[see Warnings and Precautions (5.3)].
-- Serotonin Syndrome — Caution patients about the risk of serotonin syndrome with the concomitant use of duloxetine and other serotonergic agents includingtriptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan and St. John’s Wort [see Contraindications (4), Warnings and Precautions (5.4), and Drug Interactions (7.14)].
+- Serotonin Syndrome — Caution patients about the risk of serotonin syndrome with the concomitant use of duloxetine and other serotonergic agents including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan,amphetamines, and St. John’s Wort [see Contraindications (4), Warnings and Precautions (5.4), and Drug Interactions (7.14)].
   Advise patients of the signs and symptoms associated with serotonin syndrome that may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular changes (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
   Caution patients to seek medical care immediately if they experience these symptoms.
 - Abnormal Bleeding — Caution patients about the concomitant use of duloxetine and NSAIDs, aspirin, warfarin, or other drugs that affect coagulation since combined use of psychotropic drugs that interfere with serotonin reuptake and these agents has been associated with an increased risk of bleeding [see Warnings and Precautions (5.5)].
@@ -60,11 +60,9 @@ See FDA-approved patient labeling (Medication Guide).
   Although in controlled studies duloxetine has not been shown to impair psychomotor performance, cognitive function, or memory, it may be associated with sedation and dizziness.
   Therefore, caution patients about operating hazardous machinery including automobiles, until they are reasonably certain that duloxetine therapy does not affect their ability to engage in such activities.
 
-Literature revised August, 2016
-
 Manufactured by: Alkem Laboratories Ltd. Mumbai - 400 013, INDIA.
 Distributed by: Ascend Laboratories, LLC
 
 Parsippany, NJ 07054
 
-PT1663
+Revised: December,2017 PT1663-01

@@ -113,6 +113,7 @@ Especially tell your healthcare provider if you take:
 - triptans used to treat migraine headache
 - medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, buspirone, SSRIs, SNRIs or MAOIs
 - tramadol and fentanyl
+- amphetamines
 - cimetidine
 - the antibiotics ciprofloxacin, enoxacin
 - medicine to treat irregular heart rate (like propafenone, flecainide, quinidine)
@@ -171,7 +172,7 @@ Duloxetine may:
 
 - increase your blood pressure.
 - decrease your blood pressure when standing and cause dizziness or fainting, mostly when first starting duloxetine or when increasing the dose.
-- increase risk of falls, especially in elderly.
+- Increase risk of falls, especially in elderly.
 
 3.
 Serotonin Syndrome: This condition can be life-threatening and symptoms may include:
@@ -298,8 +299,6 @@ The printing ink contains shellac, dehydrated alcohol, isopropyl alcohol, butyl 
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Medication Guide revised: August, 2016
-
 Coumadin, Jantoven, and Mellaril are trademarks of their respective owners and not trademarks of Ascend Laboratories LLC.
 
 Manufactured by:
@@ -314,4 +313,4 @@ Ascend Laboratories, LLC
 
 Parsippany, NJ 07054
 
-PT2473
+Revised: December,2017 PT2473-01
