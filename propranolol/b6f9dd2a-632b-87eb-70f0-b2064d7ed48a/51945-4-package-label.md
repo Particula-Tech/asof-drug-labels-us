@@ -6,6 +6,8 @@ Hemangeol®
 
 (propranolol hydrochloride)
 
+oral solution
+
 4.28 mg/mL
 
 Dispense with enclosed Medication Guide
@@ -22,9 +24,11 @@ Hemangeol®
 
 (propranolol hydrochloride)
 
+oral solution
+
 4.28 mg/mL
 
-Dispense with enclosed Medication Guide
+Pharmacist: Dispense the enclosed Medication Guide to each patient
 
 Rx only
 
