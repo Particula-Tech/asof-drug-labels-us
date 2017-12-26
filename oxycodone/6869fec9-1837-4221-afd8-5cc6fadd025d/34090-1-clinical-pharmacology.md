@@ -127,4 +127,4 @@ A published study showed that the co-administration of rifampin, a drug metaboli
 CYP2D6 Inhibitors
 
 Oxycodone is metabolized in part to oxymorphone via the cytochrome P450 isoenzyme CYP2D6.
-While this pathway may be blocked by a variety of drugs (e.g., certain cardiovascular drugs and antidepressants), such blockade has not yet been shown to be of clinical significance with this agent.
+While this pathway may be blocked by a variety of drugs (e.g., certain cardiovascular drugs and anti-depressants), such blockade has not yet been shown to be of clinical significance with this agent.

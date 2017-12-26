@@ -1,57 +1,62 @@
-# Principal Display Panel – 30 mL Carton Label
+# PRINCIPAL DISPLAY PANEL - 30 mL Bottle Label
 
 NDC 64950-353-03
 
-Oxycodone CII Hydrochloride Oral Solution
+Oxycodone Hydrochloride Oral Solution
+
+CII
 
 100 mg/5 mL 20 mg/mL
 
-CAUTION!
-HIGHLY CONCENTRATED SOLUTION!
-VERIFY DOSAGE AND MEASURE CAREFULLY
-
 ONLY FOR USE IN PATIENTS WHO ARE OPIOID TOLERANT
-
-Each 1 mL of Oxycodone Hydrochloride Oral Solution Contains: Oxycodone Hydrochloride, USP……………………20mg
 
 Rx Only 30 mL
 
-LVT Lehigh Valley Technologies, Inc.
+Genus Lifesciences Inc.
 
-# Principal Display Panel – 100 mL Carton Label
+# PRINCIPAL DISPLAY PANEL - 100 mL Bottle Label
 
 NDC 64950-354-10
-
-Oxycodone CII Hydrochloride Oral Solution
-
-5 mg/5 mL
-
-Each 5 mL of Oxycodone Hydrochloride Oral Solution Contains: Oxycodone Hydrochloride, USP……………………5 mg
-
-Rx Only 100 mL
-
-LVT Lehigh Valley Technologies, Inc.
-
-# Principal Display Panel - 5 mL Unit Dose Cup
-
-NDC 64950-354-05
 
 Oxycodone Hydrochloride Oral Solution, USP
 
 CII
 
-5 mg/5 mL (1 mg/mL)
+5 mg per 5 mL (1 mg/mL)
+
+Rx Only 100 mL
+
+Genus Lifesciences Inc.
+
+# PRINCIPAL DISPLAY PANEL - 500 mL Bottle Label
+
+NDC 64950-354-50
+
+Oxycodone Hydrochloride Oral Solution, USP
+
+CII
+
+5 mg per 5 mL (1 mg/mL)
+
+Rx Only 500 mL
+
+Genus Lifesciences Inc.
+
+# PRINCIPAL DISPLAY PANEL - 5 mL Cup Label
+
+NDC 64950-354-05
+
+Oxycodone Hydrochloride Oral Solution, USP CII
+
+5 mg/5mL (1 mg/mL)
 
 See package insert for dosing information.
+
 5 mL
 
-L V T Lehigh Valley Technologies, Inc. Allentown, PA 18102
+Genus Lifesciences Inc.
 
 Rev.
-11/13
+5/17
 
 Rx Only
-
-# Principal Display Panel - 10 x 5 mL Unit Dose Cup Tray
-
-Oxycodone Hydrochloride Oral Solution, USP 5 mg/5 mL (1 mg/mL)

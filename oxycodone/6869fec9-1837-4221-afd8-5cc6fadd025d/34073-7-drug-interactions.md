@@ -34,8 +34,7 @@ Table 1: Clinically Significant Drug Interactions with Oxycodone Hydrochloride O
 | Intervention: | Monitor patients for signs of respiratory depression that may be greater than otherwise expected and decrease the dosage of Oxycodone Hydrochloride Oral Solution and/or the muscle relaxant as necessary. |
 | Diuretics |  |
 | Clinical Impact: | Opioids can reduce the efficacy of diuretics by inducing the release of antidiuretic antidiuretic hormone. |
-| Intervention: | Monitor patients for signs of diminished diuresis and/or effects on blood pressure and |
-|  | increase the dosage of the diuretic as needed. |
+| Intervention: | Monitor patients for signs of diminished diuresis and/or effects on blood pressure and increase the dosage of the diuretic as needed. |
 | Anticholinergic Drugs |  |
 | Clinical Impact: | The concomitant use of anticholinergic drugs may increase risk of urinary retention and/or severe constipation,which may lead to paralytic ileus. |
 | Intervention: | Monitor patients for signs of urinary retention or reduced gastric motility when Oxycodone Hydrochloride Oral Solution is used concomitantly with anticholinergic drugs. |

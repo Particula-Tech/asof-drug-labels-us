@@ -1,1 +1,1 @@
-Manufactured by and Distributed by: Lehigh Valley Technologies, Inc. 514 North 12th Street, Allentown, PA 18102
+Manufactured by and Distributed by: Genus Lifesciences Inc. 514 North 12th Street, Allentown, PA 18102

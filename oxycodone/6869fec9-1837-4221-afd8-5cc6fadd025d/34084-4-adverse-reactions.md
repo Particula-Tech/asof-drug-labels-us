@@ -21,7 +21,7 @@ The common adverse reactions seen on initiation of therapy with oxycodone are do
 The most frequent adverse events include nausea, constipation, vomiting, headache, and pruritus.
 The frequency of these reactions depended on several factors, including clinical setting, the patient's level of opioid tolerance, and host factors specific to the individual.
 
-In all patients for whom dosing information was available (n=191) from the open-label and double-blind studies involving another formulation of immediate-release oxycodone, the following adverse events were recorded in oxycodone treated patients with an incidence ≥ 3%.
+In all patients for whom dosing information was available (n=191) from the open-label and doubleblind studies involving another formulation of immediate-release oxycodone, the following adverse events were recorded in oxycodone treated patients with an incidence ≥ 3%.
 In descending order of frequency, they were: nausea, constipation, vomiting, headache, pruritus, insomnia, dizziness, asthenia, and somnolence.
 
 The other less frequently observed adverse reactions from opioid analgesics, including Oxycodone Hydrochloride Oral Solution included:
