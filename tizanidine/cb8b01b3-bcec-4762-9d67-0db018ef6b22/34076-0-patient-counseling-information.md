@@ -16,6 +16,4 @@ Manufactured for: Acorda Therapeutics, Inc. Ardsley, NY 10502 by: Alkermes Pharm
 
 Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
-Revised: April 2015
-
-202456-3
+Revised: January 2017
