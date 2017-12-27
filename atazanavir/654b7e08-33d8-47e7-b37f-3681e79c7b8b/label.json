@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA091673"
+  ],
+  "inn": "atazanavir",
+  "labeler": "Teva Pharmaceuticals USA, Inc.",
+  "package_ndcs": [
+    "0093-5526-06",
+    "0093-5527-06",
+    "0093-5528-56"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "atazanavir sulfate",
+      "name": "Atazanavir Sulfate"
+    }
+  ],
+  "setid": "654b7e08-33d8-47e7-b37f-3681e79c7b8b",
+  "source": "dailymed"
+}
