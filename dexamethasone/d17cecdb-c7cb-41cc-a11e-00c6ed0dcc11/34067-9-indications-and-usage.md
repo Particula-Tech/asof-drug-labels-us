@@ -1,6 +1,6 @@
 # INDICATIONS AND USAGE
 
-For steroid-responsive inflammatory ocular conditions for which a corticosteroid is indicated and where bacterial infection or a risk of bacterial ocular infection exists.
+## For steroid-responsive inflammatory ocular conditions for which a corticosteroid is indicated and where bacterial infection or a risk of bacterial ocular infection exists.
 
 Ocular steroids are indicated in inflammatory conditions of the palpebral and bulbar conjunctiva, cornea, and anterior segment of the globe where the inherent risk of steroid use in certain infective conjunctivitides is accepted to obtain a diminution in edema and inflammation.
 They are also indicated in chronic anterior uveitis and corneal injury from chemical, radiation or thermal burns; or penetration of foreign bodies.

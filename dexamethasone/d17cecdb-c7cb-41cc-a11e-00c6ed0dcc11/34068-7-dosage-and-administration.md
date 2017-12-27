@@ -1,8 +1,8 @@
 # DOSAGE AND ADMINISTRATION
 
-Apply a small amount into the conjunctival sac(s) up to three or four times daily.
+## Apply a small amount into the conjunctival sac(s) up to three or four times daily.
 
-How to Apply MAXITROL (neomycin and polymyxin B sulfates and dexamethasone ophthalmic ointment):
+How to Apply MAXITROL* (neomycin and polymyxin B sulfates and dexamethasone ophthalmic ointment):
 
 1.
 Tilt your head back.
