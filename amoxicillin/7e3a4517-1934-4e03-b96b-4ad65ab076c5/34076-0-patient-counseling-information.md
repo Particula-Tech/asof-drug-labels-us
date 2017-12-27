@@ -12,4 +12,4 @@ Information for Patients
   If this occurs, patients should contact their physician as soon as possible.
 - Patients should be aware that amoxicillin contains a penicillin class drug product that can cause allergic reactions in some individuals.
 
-CLINITEST® is a registered trademark of Siemens Medical Solutions Diagnostics, and Ames Company, Inc. CLINISTIX® is a registered trademark of Bayer Healthcare Llc, and Ames Company, Inc. CLOtest® is a registered trademark of Kimberly-Clark Worldwide, Inc. Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 090, India Revised: 01/2016
+CLINITEST® is a registered trademark of Siemens Medical Solutions Diagnostics, and Ames Company, Inc. CLINISTIX® is a registered trademark of Bayer Healthcare Llc, and Ames Company, Inc. CLOtest® is a registered trademark of Kimberly-Clark Worldwide, Inc. Distributed by: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 07/2017
