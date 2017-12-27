@@ -7,3 +7,5 @@ Reactions occurring most often from the presence of the anti-infective ingredien
 The reactions due to the corticosteroid component are: elevation of IOP with possible development of glaucoma, and infrequent optic nerve damage; posterior subcapsular cataract formation; and delayed wound healing.
 Corticosteroid-containing preparations have also been reported to cause perforation of the globe.
 Keratitis, conjunctivitis, corneal ulcers, and conjunctival hyperemia have occasionally been reported following use of steroids.
+
+Additional adverse reactions identified from post marketing use include ulcerative keratitis, headache, and Stevens-Johnson syndrome.
