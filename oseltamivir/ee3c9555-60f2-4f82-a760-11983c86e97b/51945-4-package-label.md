@@ -1,21 +1,3 @@
-PRINCIPAL DISPLAY PANEL - 60 mL Bottle Carton - NDC 0004-0820-09
-
-NDC 0004-0820-09
-
-Tamiflu® (oseltamivir phosphate) for Oral Suspension
-
-6 mg/mL
-
-Each mL contains 6 mg oseltamivir base after constitution.
-
-60 mL (usable volume after constitution)
-
-Rx only
-
-Genentech
-
-10134540
-
 # PRINCIPAL DISPLAY PANEL - 30 mg Capsule Blister Pack Carton
 
 NDC 0004-0802-85
