@@ -1,0 +1,29 @@
+{
+  "application_numbers": [
+    "NDA019034"
+  ],
+  "inn": "hydromorphone",
+  "labeler": "Fresenius Kabi USA, LLC",
+  "package_ndcs": [
+    "63323-851-03",
+    "63323-851-07",
+    "63323-851-10",
+    "63323-851-15",
+    "63323-851-50",
+    "63323-852-03",
+    "63323-852-25",
+    "63323-853-03",
+    "63323-853-25",
+    "63323-854-03",
+    "63323-854-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "hydromorphone hydrochloride",
+      "name": "Hydromorphone Hydrochloride"
+    }
+  ],
+  "setid": "e034eb96-03e0-46e1-8b92-5e1f94555e7b",
+  "source": "dailymed"
+}
