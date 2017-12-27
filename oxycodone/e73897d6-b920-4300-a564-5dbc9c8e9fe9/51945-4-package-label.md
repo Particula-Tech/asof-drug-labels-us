@@ -1,5 +1,7 @@
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
+5 mg: 100s Label
+
 NDC 10702-018-01
 
 Oxycodone Hydrochloride Tablets, USP CII
@@ -9,6 +11,8 @@ Oxycodone Hydrochloride Tablets, USP CII
 Rx only 100 Tablets
 
 KVK-TECH, INC
+
+5 mg: 500s Label
 
 NDC 10702-018-50
 
@@ -20,6 +24,8 @@ Rx only 500 Tablets
 
 KVK-TECH, INC
 
+10 mg: 100s Label
+
 NDC 10702-056-01
 
 Oxycodone Hydrochloride Tablets, USP CII
@@ -29,6 +35,8 @@ Oxycodone Hydrochloride Tablets, USP CII
 Rx only 100 Tablets
 
 KVK-TECH, INC
+
+10 mg: 500s Label
 
 NDC 10702-056-50
 
@@ -40,6 +48,8 @@ Rx only 500 Tablets
 
 KVK-TECH, INC
 
+15 mg: 100s Label
+
 NDC 10702-008-01
 
 Oxycodone Hydrochloride Tablets, USP CII
@@ -49,6 +59,8 @@ Oxycodone Hydrochloride Tablets, USP CII
 Rx only 100 Tablets
 
 KVK-TECH, INC
+
+15 mg: 500s Label
 
 NDC 10702-008-50
 
@@ -60,6 +72,8 @@ Rx only 500 Tablets
 
 KVK-TECH, INC
 
+20 mg: 100s Label
+
 NDC 10702-057-01
 
 Oxycodone Hydrochloride Tablets, USP CII
@@ -69,6 +83,8 @@ Oxycodone Hydrochloride Tablets, USP CII
 Rx only 100 Tablets
 
 KVK-TECH, INC
+
+20 mg: 500s Label
 
 NDC 10702-057-50
 
@@ -80,6 +96,8 @@ Rx only 500 Tablets
 
 KVK-TECH, INC
 
+30 mg: 100s Label
+
 NDC 10702-009-01
 
 Oxycodone Hydrochloride Tablets, USP CII
@@ -89,6 +107,8 @@ Oxycodone Hydrochloride Tablets, USP CII
 Rx only 100 Tablets
 
 KVK-TECH, INC
+
+30 mg: 500s Label
 
 NDC 10702-009-50
 

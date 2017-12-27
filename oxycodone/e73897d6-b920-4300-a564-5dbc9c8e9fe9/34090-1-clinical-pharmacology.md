@@ -53,7 +53,7 @@ Oxycodone hydrochloride tablets are designed to provide immediate release of oxy
 
 | Table 1 Pharmacokinetic Parameters (Mean ± SD) |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Dose/ Parameters | AUC (ng x hr/mL) | Cmax (ng/mL) | Tmax (hr) | Cmin (ng/mL) | Cavg (ng/mL) | Half-Life (hr) |
+| Dose/Parameters | AUC(ng x hr/mL) | Cmax(ng/mL) | Tmax(hr) | Cmin(ng/mL) | Cavg(ng/mL) | Half-Life(hr) |
 | Singe Dose |  |  |  |  |  |  |
 | Pharmacokinetics |  |  |  |  |  |  |
 | Oxycodone HCl | 133.2 ± 33 | 22.3 ± 8.2 | 1.8 ± 1.8 | n/a | n/a | 3.73 ± 0.9 |
