@@ -123,7 +123,7 @@ Acceptable Quality Control Ranges for Nitrofurantoin
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | QC Strain | Acceptable Quality Control Ranges |  |  |  |  |  |  |  |  |
 | Escherichia coli ATCC 25922 | 4 to 16 | 20 to 25 |  |  |  |  |  |  |  |
-| Enterococcus faecalis ATCC 29212 | 4 to 16 | NAa |  |  |  |  |  |  |  |
-| Staphylococcus aureus ATCC 29213 | 8 to 32 | NAa |  |  |  |  |  |  |  |
-| Staphylococcus aureus ATCC 25923 | NAa | 18 to 22 |  |  |  |  |  |  |  |
+| Enterococcus faecalis ATCC 29212 | 4 to 16 | NA a |  |  |  |  |  |  |  |
+| Staphylococcus aureus ATCC 29213 | 8 to 32 | NA a |  |  |  |  |  |  |  |
+| Staphylococcus aureus ATCC 25923 | NA a | 18 to 22 |  |  |  |  |  |  |  |
 | aNot applicable |  |  |  |  |  |  |  |  |  |
