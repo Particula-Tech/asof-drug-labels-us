@@ -41,4 +41,4 @@ Close monitoring of sodium levels is required in elderly patients at risk for hy
 
 ## 8.6 Renal Impairment
 
-Dose adjustment is recommended for renally impaired patients (CLcr<30 mL/min) [see Dosage and Administration (2.7) and Clinical Pharmacology (12.3)].
+Dose adjustment is recommended for renally impaired patients (CLcr <30 mL/min) [see Dosage and Administration (2.7) and Clinical Pharmacology (12.3)].

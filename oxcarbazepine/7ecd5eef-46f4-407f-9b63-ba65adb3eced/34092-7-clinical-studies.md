@@ -57,7 +57,7 @@ This comparison was statistically significant in favor of oxcarbazepine at all d
 The number of patients randomized to each dose, the median baseline seizure rate, and the median percentage seizure rate reduction for each trial are shown in Table 8.
 It is important to note that in the high-dose group in the study in adults, over 65% of patients discontinued treatment because of adverse events; only 46 (27%) of the patients in this group completed the 28-week study [see Adverse Reactions (6)], an outcome not seen in the monotherapy studies.
 
-Table 8 Summary of Percentage Change in Partial Seizure Frequency from Baseline for Placebo-Controlled Adjunctive Therapy Trials
+Table 8: Summary of Percentage Change in Partial Seizure Frequency from Baseline for Placebo-Controlled Adjunctive Therapy Trials
 
 | Trial | Treatment Group | N | Baseline Median Seizure Rate* | Median % Reduction |
 | --- | --- | --- | --- | --- |

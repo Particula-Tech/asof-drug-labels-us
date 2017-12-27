@@ -36,15 +36,14 @@ Suicidal thoughts or actions may be caused by things other than medicines.
 If you have suicidal thoughts or actions, your healthcare provider may check for other causes.
 
 What are oxcarbazepine tablets?
-Oxcarbazepine tablets are prescription medicine used: • alone or with other medicines to treat partial seizures in adults. • alone to treat partial seizures in children 4 years and older. • with other medicines to treat partial seizures in children 2 years and older.
-It is not known if oxcarbazepine is safe and effective for use alone to treat partial seizures in children less than 4 years of age or for use with other medicines to treat partial seizures in children less than 2 years of age.
+Oxcarbazepine tablets are prescription medicine used: • alone or with other medicines to treat partial seizures in adults • alone to treat partial seizures in children 4 years and older • with other medicines to treat partial seizures in children 2 years and older It is not known if oxcarbazepine is safe and effective for use alone to treat partial seizures in children less than 4 years of age or for use with other medicines to treat partial seizures in children less than 2 years of age.
 
 Do not take oxcarbazepine tablets if you are allergic to oxcarbazepine or any of the other ingredients in oxcarbazepine tablets, or to eslicarbazepine acetate.
 See the end of this Medication Guide for a complete list of ingredients in oxcarbazepine tablets.
 Many people who are allergic to carbamazepine are also allergic to oxcarbazepine.
 Tell your healthcare provider if you are allergic to carbamazepine.
 
-Before taking oxcarbazepine tablets, tell your healthcare provider about all your medical conditions, including if you: • have or have had suicidal thoughts or actions, depression or mood problems. • have liver problems. • have kidney problems. • are allergic to carbamazepine.
+Before taking oxcarbazepine tablets, tell your healthcare provider about all your medical conditions, including if you: • have or have had suicidal thoughts or actions, depression or mood problems • have liver problems • have kidney problems • are allergic to carbamazepine.
 Many people who are allergic to carbamazepine are also allergic to oxcarbazepine. • use birth control medicine.
 Oxcarbazepine tablets may cause your birth control medicine to be less effective.
 Talk to your healthcare provider about the best birth control method to use. • are pregnant or plan to become pregnant.
@@ -86,7 +85,7 @@ These are not all the possible side effects of oxcarbazepine tablets.
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 
 Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1 800-FDA-1088.
+You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store oxcarbazepine tablets? • Store oxcarbazepine film-coated tablets at 20° to 25°C (68° to 77°F); excursions permitted between 15° and 30°C (59° and 86°F). • Keep oxcarbazepine film-coated tablets dry.
 
@@ -104,9 +103,21 @@ What are the ingredients in oxcarbazepine tablets?
 Active ingredient: oxcarbazepine Inactive ingredients: colloidal silicon dioxide, povidone, polyethylene glycol, croscarmellose sodium, microcrystalline cellulose, crospovidone, sodium stearyl fumarate, hypromellose, polysorbate 80, titanium dioxide and yellow iron oxide.
 This Medication Guide has been approved by the U.S. Food and Drug Administration
 
-Distributed by: Sun Pharmaceutical Industries, Inc. Cranbury, NJ 08512
+Distributed by:
 
-Manufactured by: Sun Pharmaceutical Industries Ltd. Halol-Baroda Highway, Halol-389 350, Gujarat, India.
+Sun Pharmaceutical Industries, Inc.
 
-PJPI0158E ISS.
-07/2017
+Cranbury, NJ 08512
+
+Manufactured by:
+
+Sun Pharmaceutical Industries Ltd.
+
+Halol-Baroda Highway,
+
+Halol-389 350, Gujarat, India.
+
+PJPI0158F
+
+ISS.
+12/2017

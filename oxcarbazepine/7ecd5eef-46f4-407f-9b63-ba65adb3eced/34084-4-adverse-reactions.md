@@ -54,12 +54,12 @@ The adverse reactions most commonly associated with discontinuation were: convul
 
 Controlled Clinical Studies of Adjunctive Therapy/Monotherapy in Adults Previously Treated with Other AEDs
 
-Table 3 lists adverse reactions that occurred in at least 2% of adult patients with epilepsy treated with oxcarbazepine or placebo as adjunctive treatment and were numerically more common in the patients treated with any dose of oxcarbazepine.
+Table 3 lists adverse reactions that occurred in at least 2% of adult patients with epilepsy, treated with oxcarbazepine or placebo as adjunctive treatment and were numerically more common in the patients treated with any dose of oxcarbazepine.
 
 Table 4 lists adverse reactions in patients converted from other AEDs to either high-dose oxcarbazepine (2,400 mg/day) or low-dose (300 mg/day) oxcarbazepine.
 Note that in some of these monotherapy studies patients who dropped out during a preliminary tolerability phase are not included in the tables.
 
-Table 3 Adverse Reactions in a Controlled Clinical Study of Adjunctive Therapy with oxcarbazepine in Adults
+Table 3: Adverse Reactions in a Controlled Clinical Study of Adjunctive Therapy with oxcarbazepine in Adults
 
 |  | Oxcarbazepine Dosage (mg/day) |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -114,7 +114,7 @@ Table 3 Adverse Reactions in a Controlled Clinical Study of Adjunctive Therapy w
 | Abnormal Vision | 6 | 14 | 13 | 4 |
 | Abnormal Accommodation | 0 | 0 | 2 | 0 |
 
-Table 4 Adverse Reactions in Controlled Clinical Studies of Monotherapy with Oxcarbazepine in Adults Previously Treated with Other AEDs
+Table 4: Adverse Reactions in Controlled Clinical Studies of Monotherapy with Oxcarbazepine in Adults Previously Treated with Other AEDs
 
 | Body System/ Adverse Reaction |  |  |
 | --- | --- | --- |
@@ -185,7 +185,7 @@ Controlled Clinical Study of Monotherapy in Adults Not Previously Treated with O
 
 Table 5 lists adverse reactions in a controlled clinical study of monotherapy in adults not previously treated with other AEDs that occurred in at least 2% of adult patients with epilepsy treated with oxcarbazepine or placebo and were numerically more common in the patients treated with oxcarbazepine.
 
-Table 5 Adverse Reactions in a Controlled Clinical Study of Monotherapy with Oxcarbazepine in Adults Not Previously Treated with Other AEDs
+Table 5: Adverse Reactions in a Controlled Clinical Study of Monotherapy with Oxcarbazepine in Adults Not Previously Treated with Other AEDs
 
 | Body System/ Adverse Reaction | Oxcarbazepine N=55 % | Placebo N=49 % |
 | --- | --- | --- |
@@ -221,7 +221,7 @@ Controlled Clinical Studies of Adjunctive Therapy/Monotherapy in Pediatric Patie
 
 Table 6 lists adverse reactions that occurred in at least 2% of pediatric patients with epilepsy treated with oxcarbazepine or placebo as adjunctive treatment and were numerically more common in the patients treated with oxcarbazepine.
 
-Table 6 Adverse Reactions in Controlled Clinical Studies of Adjunctive Therapy/Monotherapy with Oxcarbazepine in Pediatric Patients Previously Treated with Other AEDs
+Table 6: Adverse Reactions in Controlled Clinical Studies of Adjunctive Therapy/Monotherapy with Oxcarbazepine in Pediatric Patients Previously Treated with Other AEDs
 
 | Body System/ Adverse Reaction | Oxcarbazepine N=171 % | Placebo N=139 % |
 | --- | --- | --- |
@@ -287,7 +287,7 @@ Special Senses: accommodation abnormal, cataract, conjunctival hemorrhage, edema
 
 Surgical and Medical Procedures: procedure dental oral, procedure female reproductive, procedure musculoskeletal, procedure skin.
 
-Urogenital and Reproductive System: dysuria, hematuria, intermenstrual bleeding, leukorrhea, menorrhagia, micturition frequency, pain renal, pain urinary tract, polyuria, priapism, renal calculus.
+Urogenital and Reproductive System:dysuria, hematuria, intermenstrual bleeding, leukorrhea, menorrhagia, micturition frequency, pain renal, pain urinary tract, polyuria, priapism, renal calculus.
 
 Other: Systemic lupus erythematosus.
 
