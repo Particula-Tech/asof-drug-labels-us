@@ -54,7 +54,7 @@ Patients with hypovolemia may be more susceptible to these changes.
 Renal function abnormalities can occur after initiating GLYXAMBI [see Adverse Reactions (6.1)].
 Renal function should be evaluated prior to initiation of GLYXAMBI and monitored periodically thereafter.
 More frequent renal function monitoring is recommended in patients with an eGFR below 60 mL/min/1.73 m2.
-Use of GLYXAMBI is not recommended when eGFR is persistently less than 45 mL/min/1.73 m2 and is contraindicated in patients with an eGFR less than 30 mL/min/1.73 m2 [see Dosage and Administration (2.2), Contraindications (4), Use in Specific Populations (8.6)].
+Use of GLYXAMBI is not recommended when eGFR is persistently less than 45 mL/min/1.73 m2 and is contraindicated in patients with an eGFR less than 30 mL/min/1.73 m2 [see Dosage and Administration (2.2), Contraindications (4) and Use in Specific Populations (8.6)].
 
 ## 5.6 Urosepsis and Pyelonephritis
 
@@ -71,7 +71,7 @@ Therefore, a lower dose of the insulin secretagogue or insulin may be required t
 ## 5.8 Genital Mycotic Infections
 
 Empagliflozin increases the risk for genital mycotic infections [see Adverse Reactions (6.1)].
-Patients with a history of chronic or recurrent genital mycotic infections were more likely to develop mycotic genital infections.
+Patients with a history of chronic or recurrent genital mycotic infections were more likely to develop genital mycotic infections.
 Monitor and treat as appropriate.
 
 ## 5.9 Hypersensitivity Reactions
@@ -79,10 +79,14 @@ Monitor and treat as appropriate.
 There have been postmarketing reports of serious hypersensitivity reactions in patients treated with linagliptin (one of the components of GLYXAMBI).
 These reactions include anaphylaxis, angioedema, and exfoliative skin conditions.
 Onset of these reactions occurred within the first 3 months after initiation of treatment with linagliptin, with some reports occurring after the first dose.
-If a serious hypersensitivity reaction is suspected, discontinue GLYXAMBI, assess for other potential causes for the event, and institute alternative treatment for diabetes.
 
 Angioedema has also been reported with other dipeptidyl peptidase-4 (DPP-4) inhibitors.
 Use caution in a patient with a history of angioedema to another DPP-4 inhibitor because it is unknown whether such patients will be predisposed to angioedema with GLYXAMBI.
+
+There have been postmarketing reports of serious hypersensitivity reactions, (e.g., angioedema) in patients treated with empaglifozin (one of the components of GLYXAMBI).
+
+If a hypersensitivity reaction occurs, discontinue GLYXAMBI, treat promptly per standard of care, and monitor until signs and symptoms resolve.
+GLYXAMBI is contraindicated in patients with a previous serious hypersensitivity reaction to linagliptin or empagliflozin [see Contraindications (4)].
 
 ## 5.10 Increased Low-Density Lipoprotein Cholesterol (LDL-C)
 

@@ -15,8 +15,8 @@ The estimated background risk of major birth defects is 6-10% in women with pre-
 The estimated background risk of miscarriage for the indicated population is unknown.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 
-Clinical Considerations Disease-associated maternal and/or embryo/fetal risk: Poorly controlled diabetes in pregnancy increases the maternal risk for diabetic ketoacidosis, pre-eclampsia, spontaneous abortions, preterm delivery, still birth and delivery complications.
-Poorly controlled diabetes increases the fetal risk for major birth defects, still birth, and macrosomia related morbidity.
+Clinical Considerations Disease-associated maternal and/or embryo/fetal risk: Poorly controlled diabetes in pregnancy increases the maternal risk for diabetic ketoacidosis, pre-eclampsia, spontaneous abortions, preterm delivery, stillbirth and delivery complications.
+Poorly controlled diabetes increases the fetal risk for major birth defects, stillbirth, and macrosomia related morbidity.
 
 Data Animal Data The combined components administered during the period of organogenesis were not teratogenic in rats up to and including a combined dose of 700 mg/kg/day empagliflozin and 140 mg/kg/day linagliptin, which is 253 and 353 times the clinical exposure.
 A pre- and post-natal development study was not conducted with the combined components of GLYXAMBI.
@@ -46,7 +46,7 @@ Risk Summary There is no information regarding the presence of GLYXAMBI, or its 
 Empagliflozin and linagliptin are present in rat milk (see Data).
 Since human kidney maturation occurs in utero and during the first 2 years of life when lactational exposure may occur, there may be risk to the developing human kidney.
 
-Because of the potential for serious adverse reactions, including the potential for empagliflozin to affect postnatal renal development, in a breastfed infant, advise patients that use of GLYXAMBI is not recommended while breastfeeding.
+Because of the potential for serious adverse reactions in a breastfed infant, including the potential for empagliflozin to affect postnatal renal development, advise patients that use of GLYXAMBI is not recommended while breastfeeding.
 
 Data Empagliflozin was present at a low level in rat fetal tissues after a single oral dose to the dams at gestation day 18.
 In rat milk, the mean milk to plasma ratio ranged from 0.634 -5, and was greater than one from 2 to 24 hours post-dose.

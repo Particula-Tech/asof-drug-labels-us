@@ -70,7 +70,7 @@ The statistical analysis plan had pre-specified that the 10 and 25 mg doses woul
 A Cox proportional hazards model was used to test for non-inferiority against the pre-specified risk margin of 1.3 for the hazard ratio of MACE and superiority on MACE if non-inferiority was demonstrated.
 Type-1 error was controlled across multiples tests using a hierarchical testing strategy.
 
-Empagliflozin significantly reduced the time to first occurrence of primary composite endpoint of cardiovascular death, non-fatal myocardial infarction, or non-fatal stroke (HR: 0.86; 95% CI 0.74, 0.99).
+Empagliflozin significantly reduced the risk of first occurrence of primary composite endpoint of cardiovascular death, non-fatal myocardial infarction, or non-fatal stroke (HR: 0.86; 95% CI 0.74, 0.99).
 The treatment effect was due to a significant reduction in the risk of cardiovascular death in subjects randomized to empagliflozin (HR: 0.62; 95% CI 0.49, 0.77), with no change in the risk of non-fatal myocardial infarction or non-fatal stroke (see Table 6 and Figure 4 and 5).
 Results for the 10 mg and 25 mg empagliflozin doses were consistent with results for the combined dose groups.
 

@@ -1,5 +1,20 @@
 # 6 ADVERSE REACTIONS
 
+The following important adverse reactions are described below and elsewhere in the labeling:
+
+- Pancreatitis [see Warnings and Precautions (5.1)]
+- Heart Failure [see Warnings and Precautions (5.2)]
+- Hypotension [see Warnings and Precautions (5.3)]
+- Ketoacidosis [see Warnings and Precautions (5.4)]
+- Acute Kidney Injury and Impairment in Renal Function [see Warnings and Precautions (5.5)]
+- Urosepsis and Pyelonephritis [see Warnings and Precautions (5.6)]
+- Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues [see Warnings and Precautions (5.7)]
+- Genital Mycotic Infections [see Warnings and Precautions (5.8)]
+- Hypersensitivity Reactions [see Warnings and Precautions (5.9)]
+- Increased Low-Density Lipoprotein Cholesterol (LDL-C) [see Warnings and Precautions (5.10)]
+- Severe and Disabling Arthralgia [see Warnings and Precautions (5.11)]
+- Bullous Pemphigoid [see Warnings and Precautions (5.12)]
+
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
@@ -66,5 +81,5 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - Hypersensitivity reactions including anaphylaxis, angioedema, and exfoliative skin conditions [see Warnings and Precautions (5.9)]
 - Severe and disabling arthralgia [see Warnings and Precautions (5.11)]
 - Bullous pemphigoid [see Warnings and Precautions (5.12)]
-- Rash
+- Skin reactions (e.g., rash, urticaria)
 - Mouth ulceration, stomatitis
