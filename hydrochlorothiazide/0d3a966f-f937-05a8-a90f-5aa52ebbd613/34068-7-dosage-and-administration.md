@@ -1,16 +1,16 @@
 # DOSAGE AND ADMINISTRATION
 
-Lisinopril monotherapy is an effective treatment of hypertension in once-daily doses of 10-80 mg, while hydrochlorothiazide monotherapy is effective in doses of 12.5 - 50 mg per day.
-In clinical trials of lisinopril/hydrochlorothiazide combination therapy using lisinopril doses of 10-80 mg and hydrochlorothiazide doses of 6.25-50 mg, the antihypertensive response rates generally increased with increasing dose of either component.
+Lisinopril monotherapy is an effective treatment of hypertension in once-daily doses of 10 mg to 80 mg, while hydrochlorothiazide monotherapy is effective in doses of 12.5 mg per day to 50 mg per day.
+In clinical trials of lisinopril/hydrochlorothiazide combination therapy using lisinopril doses of 10 mg to 80 mg and hydrochlorothiazide doses of 6.25 mg to 50 mg, the antihypertensive response rates generally increased with increasing dose of either component.
 
-The side effects (see WARNINGS) of lisinopril are generally rare and apparently independent of dose; those of hydrochlorothiazide are a mixture of dose-dependent phenomena (primarily hypokalemia) and dose-independent phenomena (eg, pancreatitis), the former much more common than the latter.
+The side effects (see WARNINGS) of lisinopril are generally rare and apparently independent of dose; those of hydrochlorothiazide are a mixture of dose-dependent phenomena (primarily hypokalemia) and dose-independent phenomena (e.g., pancreatitis), the former much more common than the latter.
 Therapy with any combination of lisinopril and hydrochlorothiazide may be associated with either or both dose-independent or dose-dependent side effects, but addition of lisinopril in clinical trials blunted the hypokalemia normally seen with diuretics.
 
 To minimize dose-dependent side effects, it is usually appropriate to begin combination therapy only after a patient has failed to achieve the desired effect with monotherapy.
 
 Dose Titration Guided by Clinical Effect: A patient whose blood pressure is not adequately controlled with either lisinopril or hydrochlorothiazide monotherapy may be switched to lisinopril/HCTZ 10/12.5 or lisinopril/HCTZ 20/12.5, depending on current monotherapy dose.
 Further increases of either or both components should depend on clinical response with blood pressure measured at the interdosing interval to ensure that there is an adequate antihypertensive effect at that time.
-The hydrochlorothiazide dose should generally not be increased until 2-3 weeks have elapsed.
+The hydrochlorothiazide dose should generally not be increased until 2 to 3 weeks have elapsed.
 After addition of the diuretic it may be possible to reduce the dose of lisinopril.
 Patients whose blood pressures are adequately controlled with 25 mg of daily hydrochlorothiazide, but who experience significant potassium loss with this regimen may achieve similar or greater blood-pressure control without electrolyte disturbance if they are switched to lisinopril/HCTZ 10/12.5.
 

@@ -13,7 +13,7 @@ Very rarely, fatalities have been reported due to angioedema associated with lar
 Patients with involvement of the tongue, glottis or larynx are likely to experience airway obstruction, especially those with a history of airway surgery.
 Where there is involvement of the tongue, glottis or larynx, likely to cause airway obstruction, subcutaneous epinephrine solution 1:1000 (0.3 mL to 0.5 mL) and/or measures necessary to ensure a patent airway should be promptly provided (See ADVERSE REACTIONS).
 
-Patients receiving coadministration of ACE inhibitor and mTOR (mammalian target of rapamycin) inhibitor (e.g., temsirolimus, sirolimus, everolimus) therapy may be at increased risk for angioedema.
+Patients receiving coadministration of ACE inhibitor and mTOR (mammalian target of rapamycin) inhibitor (e.g., temsirolimus, sirolimus, everolimus) therapy or a neprilysin inhibitor may be at increased risk for angioedema (see PRECAUTIONS).
 
 Intestinal Angioedema: Intestinal angioedema has been reported in patients treated with ACE inhibitors.
 These patients presented with abdominal pain (with or without nausea or vomiting); in some cases there was no prior history of facial angioedema and C-1 esterase levels were normal.
@@ -25,8 +25,8 @@ Patients with a history of angioedema unrelated to ACE inhibitor therapy may be 
 Anaphylactoid Reactions During Desensitization: Two patients undergoing desensitizing treatment with hymenoptera venom while receiving ACE inhibitors sustained life-threatening anaphylactoid reactions.
 In the same patients, these reactions were avoided when ACE inhibitors were temporarily withheld, but they reappeared upon inadvertent rechallenge.
 
-Anaphylactoid Reactions During Membrane Exposure: Thiazide-containing combination products are not recommended in patients with severe renal dysfunction.
-Sudden and potentially life-threatening anaphylactoid reactions have been reported in some patients dialyzed with high-flux membranes (eg, AN69®*) and treated concomitantly with an ACE inhibitor.
+Anaphylactoid Reactions during Membrane Exposure: Thiazide-containing combination products are not recommended in patients with severe renal dysfunction.
+Sudden and potentially life-threatening anaphylactoid reactions have been reported in some patients dialyzed with high-flux membranes (e.g., AN69®*) and treated concomitantly with an ACE inhibitor.
 In such patients, dialysis must be stopped immediately, and aggressive therapy for anaphylactoid reactions must be initiated.
 Symptoms have not been relieved by antihistamines in these situations.
 In these patients, consideration should be given to using a different type of dialysis membrane or a different class of antihypertensive agent.
@@ -97,7 +97,7 @@ Prompt medical or surgical treatments may need to be considered if the intraocul
 Risk factors for developing acute angle-closure glaucoma may include a history of sulfonamide or penicillin allergy.
 
 Teratogenic Effects: Reproduction studies in the rabbit, the mouse and the rat at doses up to 100 mg/kg/day (50 times the human dose) showed no evidence of external abnormalities of the fetus due to hydrochlorothiazide.
-Hydrochlorothiazide given in a two-litter study in rats at doses of 4-5.6 mg/kg/day (approximately 1-2 times the usual daily human dose) did not impair fertility or produce birth abnormalities in the offspring.
+Hydrochlorothiazide given in a two-litter study in rats at doses of 4 mg/kg/day to 5.6 mg/kg/day (approximately 1 to 2 times the usual daily human dose) did not impair fertility or produce birth abnormalities in the offspring.
 Thiazides cross the placental barrier and appear in cord blood.
 
 Nonteratogenic Effects: These may include fetal or neonatal jaundice, thrombocytopenia, and possibly other adverse reactions have occurred in the adult.
@@ -161,7 +161,7 @@ Warning signs or symptoms of fluid and electrolyte imbalance, irrespective of ca
 Hypokalemia may develop, especially with brisk diuresis, when severe cirrhosis is present, or after prolonged therapy.
 
 Interference with adequate oral electrolyte intake will also contribute to hypokalemia.
-Hypokalemia may cause cardiac arrhythmia and may also sensitize or exaggerate the response of the heart to the toxic effects of digitalis (eg, increased ventricular irritability).
+Hypokalemia may cause cardiac arrhythmia and may also sensitize or exaggerate the response of the heart to the toxic effects of digitalis (e.g., increased ventricular irritability).
 Because lisinopril reduces the production of aldosterone, concomitant therapy with lisinopril attenuates the diuretic-induced potassium loss (See PRECAUTIONS, Drug Interactions, Agents Increasing Serum Potassium).
 
 Although any chloride deficit is generally mild and usually does not require specific treatment, except under extraordinary circumstances (as in liver disease or renal disease), chloride replacement may be required in the treatment of metabolic alkalosis.
@@ -201,7 +201,7 @@ Other causes of volume depletion such as vomiting or diarrhea may also lead to a
 
 Hyperkalemia: Patients should be told not to use salt substitutes containing potassium without consulting their physician.
 
-Leukopenia/Neutropenia: Patients should be told to report promptly any indication of infection (eg, sore throat, fever) which may be a sign of leukopenia/neutropenia.
+Leukopenia/Neutropenia: Patients should be told to report promptly any indication of infection (e.g., sore throat, fever) which may be a sign of leukopenia/neutropenia.
 
 Pregnancy: Female patients of childbearing age should be told about the consequences of exposure to ZESTORETIC during pregnancy.
 Discuss treatment options with women planning to become pregnant.
@@ -241,12 +241,18 @@ No meaningful clinically important pharmacokinetic interactions occurred when li
 The presence of food in the stomach does not alter the bioavailability of lisinopril.
 
 Agents Increasing Serum Potassium: Lisinopril attenuates potassium loss caused by thiazide-type diuretics.
-Use of lisinopril with potassium-sparing diuretics (eg, spironolactone, eplerenone, triamterene, or amiloride), potassium supplements, or potassium-containing salt substitutes may lead to significant increases in serum potassium.
+Use of lisinopril with potassium-sparing diuretics (e.g., spironolactone, eplerenone, triamterene, or amiloride), potassium supplements, or potassium-containing salt substitutes may lead to significant increases in serum potassium.
 Therefore, if concomitant use of these agents is indicated, because of demonstrated hypokalemia, they should be used with caution and with frequent monitoring of serum potassium.
 
 Lithium: Lithium toxicity has been reported in patients receiving lithium concomitantly with drugs which cause elimination of sodium, including ACE inhibitors.
 Lithium toxicity was usually reversible upon discontinuation of lithium and the ACE inhibitor.
 It is recommended that serum lithium levels be monitored frequently if lisinopril is administered concomitantly with lithium.
+
+mTOR (mammalian target of rapamycin) inhibitors Patients receiving coadministration of ACE inhibitor and mTOR inhibitor (e.g., temsirolimus, sirolimus, everolimus) therapy may be at increased risk for angioedema.
+(see WARNINGS)
+
+Neprilysin Inhibitors Patients taking concomitant neprilysin inhibitors may be at increased risk for angioedema.
+(see WARNINGS)
 
 ### Hydrochlorothiazide
 
@@ -259,13 +265,13 @@ Antidiabetic drugs (oral agents and insulin) - dosage adjustment of the antidiab
 Other antihypertensive drugs - additive effect or potentiation.
 
 Cholestyramine and colestipol resins - Absorption of hydrochlorothiazide is impaired in the presence of anionic exchange resins.
-Single doses of either cholestyramine or colestipol resins bind the hydrochlorothiazide and reduce its absorption from the gastrointestinal tract by up to 85 and 43 percent, respectively.
+Single doses of either cholestyramine or colestipol resins bind the hydrochlorothiazide and reduce its absorption from the gastrointestinal tract by up to 85% and 43%, respectively.
 
 Corticosteroids, ACTH - intensified electrolyte depletion, particularly hypokalemia.
 
-Pressor amines (eg, norepinephrine) - possible decreased response to pressor amines but not sufficient to preclude their use.
+Pressor amines (e.g., norepinephrine) - possible decreased response to pressor amines but not sufficient to preclude their use.
 
-Skeletal muscle relaxants, nondepolarizing (eg, tubocurarine) - possible increased responsiveness to the muscle relaxant.
+Skeletal muscle relaxants, nondepolarizing (e.g., tubocurarine) - possible increased responsiveness to the muscle relaxant.
 
 Lithium - should not generally be given with diuretics.
 Diuretic agents reduce the renal clearance of lithium and add a high risk of lithium toxicity.
@@ -305,9 +311,9 @@ These doses are 150 times and 12 times for mice and 25 times and 4 times for rat
 The NTP, however, found equivocal evidence for hepatocarcinogenicity in male mice.
 
 Hydrochlorothiazide was not genotoxic in vitro in the Ames mutagenicity assay of Salmonella typhimurium strains TA 98, TA 100, TA 1535, TA 1537, and TA 1538 and in the Chinese Hamster Ovary (CHO) test for chromosomal aberrations, or in vivo in assays using mouse germinal cell chromosomes, Chinese hamster bone marrow chromosomes, and the Drosophila sex-linked recessive lethal trait gene.
-Positive test results were obtained only in the in vitro CHO Sister Chromatid Exchange (clastogenicity) and in the Mouse Lymphoma Cell (mutagenicity) assays, using concentrations of hydrochlorothiazide from 43 to 1300 μg/mL, and in the Aspergillus nidulans nondisjunction assay at an unspecified concentration.
+Positive test results were obtained only in the in vitro CHO Sister Chromatid Exchange (clastogenicity) and in the Mouse Lymphoma Cell (mutagenicity) assays, using concentrations of hydrochlorothiazide from 43 mcg/mL to 1300 mcg/mL, and in the Aspergillus nidulans nondisjunction assay at an unspecified concentration.
 
-Hydrochlorothiazide had no adverse effects on the fertility of mice and rats of either sex in studies wherein these species were exposed, via their diet, to doses of up to 100 and 4 mg/kg, respectively, prior to conception and throughout gestation.
+Hydrochlorothiazide had no adverse effects on the fertility of mice and rats of either sex in studies wherein these species were exposed, via their diet, to doses of up to 100 mg/kg and 4 mg/kg, respectively, prior to conception and throughout gestation.
 In mice this dose is 25 times and 2 times the maximum daily human dose based on mg/kg and mg/m2, respectively.
 In rats this dose is 1 times and 0.2 times the maximum daily human dose based on mg/kg and mg/m2, respectively.
 

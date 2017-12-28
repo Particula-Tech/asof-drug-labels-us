@@ -19,8 +19,8 @@ ZESTORETIC is available for oral use in three tablet combinations of lisinopril 
 
 Inactive Ingredients:
 
-10-12.5 Tablets - calcium phosphate, magnesium stearate, mannitol, red ferric oxide, starch, yellow ferric oxide.
+10-12.5 Tablets - calcium phosphate, magnesium stearate, mannitol, red ferric oxide, corn starch, yellow ferric oxide.
 
-20-12.5 Tablets - calcium phosphate, magnesium stearate, mannitol, starch.
+20-12.5 Tablets - calcium phosphate, magnesium stearate, mannitol, corn starch.
 
-20-25 Tablets - calcium phosphate, magnesium stearate, mannitol, red ferric oxide, starch, yellow ferric oxide.
+20-25 Tablets - calcium phosphate, magnesium stearate, mannitol, red ferric oxide, corn starch, yellow ferric oxide.

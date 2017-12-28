@@ -34,7 +34,7 @@ Whether increased levels of bradykinin, a potent vasodepressor peptide, play a r
 While the mechanism through which lisinopril lowers blood pressure is believed to be primarily suppression of the renin-angiotensin-aldosterone system, lisinopril is antihypertensive even in patients with low-renin hypertension.
 Although lisinopril was antihypertensive in all races studied, black hypertensive patients (usually a low-renin hypertensive population) had a smaller average response to lisinopril monotherapy than nonblack patients.
 
-Pharmacokinetics and Metabolism:
+Pharmacokinetics and Metabolism
 
 Following oral administration of lisinopril, peak serum concentrations occur within about 7 hours.
 Declining serum concentrations exhibit a prolonged terminal phase which does not contribute to drug accumulation.
@@ -42,7 +42,7 @@ This terminal phase probably represents saturable binding to ACE and is not prop
 Lisinopril does not appear to be bound to other serum proteins.
 
 Lisinopril does not undergo metabolism and is excreted unchanged entirely in the urine.
-Based on urinary recovery, the mean extent of absorption of lisinopril is approximately 25 percent, with large intersubject variability (6%-60%) at all doses tested (5-80 mg).
+Based on urinary recovery, the mean extent of absorption of lisinopril is approximately 25 percent, with large intersubject variability (6% to 60%) at all doses tested (5 mg to 80 mg).
 Lisinopril absorption is not influenced by the presence of food in the gastrointestinal tract.
 
 Upon multiple dosing, lisinopril exhibits an effective half-life of accumulation of 12 hours.
@@ -58,7 +58,7 @@ Studies in rats indicate that lisinopril crosses the blood-brain barrier poorly.
 Multiple doses of lisinopril in rats do not result in accumulation in any tissues; however, milk of lactating rats contains radioactivity following administration of 14C lisinopril.
 By whole body autoradiography, radioactivity was found in the placenta following administration of labeled drug to pregnant rats, but none was found in the fetuses.
 
-Pharmacodynamics:
+Pharmacodynamics
 
 Administration of lisinopril to patients with hypertension results in a reduction of supine and standing blood pressure to about the same extent with no compensatory tachycardia.
 Symptomatic postural hypotension is usually not observed although it can occur and should be anticipated in volume and/or salt-depleted patients (See WARNINGS).
