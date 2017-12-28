@@ -2,10 +2,10 @@
 
 The following serious adverse reactions are discussed in greater detail in other sections of the labeling:
 
-- CNS-depressant effects and next-day impairment [see Warnings and Precautions (5.1)].
-- Serious anaphylactic and anaphylactoid reactions [see Warnings and Precautions (5.3)].
-- Abnormal thinking and behavior changes, and complex behaviors [see Warnings and Precautions (5.4)].
-- Withdrawal effects [see Warnings and Precautions (5.7)].
+- •CNS-depressant effects and next-day impairment [see Warnings and Precautions (5.1)].
+- •Serious anaphylactic and anaphylactoid reactions [see Warnings and Precautions (5.3)].
+- •Abnormal thinking and behavior changes, and complex behaviors [see Warnings and Precautions (5.4)].
+- •Withdrawal effects [see Warnings and Precautions (5.7)].
 
 ## 6.1 Clinical Trials Experience
 
@@ -48,37 +48,37 @@ The table includes only adverse reactions occurring at an incidence of at least 
 
 Incidence of Treatment-Emergent Adverse Reactions in Placebo-Controlled Clinical Trials Lasting up to 35 Nights (Percentage of patients reporting)
 
-| Body System/Adverse Reaction* | Zolpidem (≤10mg) (n=152) | Placebo (n=161) |
-| --- | --- | --- |
-| Autonomic Nervous System |  |  |
-| Dry mouth | 3 | 1 |
-| Body as a Whole |  |  |
-| Allergy | 4 | 1 |
-| Back pain | 3 | 2 |
-| Influenza-like symptoms | 2 | - |
-| Chest pain | 1 | - |
-| Cardiovascular System |  |  |
-| Palpitation | 2 | - |
-| Central and Peripheral Nervous System |  |  |
-| Drowsiness | 8 | 5 |
-| Dizziness | 5 | 1 |
-| Lethargy | 3 | 1 |
-| Drugged feeling | 3 | - |
-| Lightheadedness | 2 | 1 |
-| Depression | 2 | 1 |
-| Abnormal dreams | 1 | - |
-| Amnesia | 1 | - |
-| Sleep disorder | 1 | - |
-| Gastrointestinal System |  |  |
-| Diarrhea | 3 | 2 |
-| Abdominal pain | 2 | 2 |
-| Constipation | 2 | 1 |
-| Respiratory System |  |  |
-| Sinusitis | 4 | 2 |
-| Pharyngitis | 3 | 1 |
-| Skin and Appendages |  |  |
-| Rash | 2 | 1 |
-| *Reactions reported by at least 1% of patients treated with zolpidem tartrate and at a greater frequency than placebo. |  |  |
+| Body System/Adverse Reaction* | Zolpidem (≤10mg) (n=152) | Placebo (n=161) |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Autonomic Nervous System |  |  |  |  |  |
+| Dry mouth | 3 | 1 |  |  |  |
+| Body as a Whole |  |  |  |  |  |
+| Allergy | 4 | 1 |  |  |  |
+| Back pain | 3 | 2 |  |  |  |
+| Influenza-like symptoms | 2 | - |  |  |  |
+| Chest pain | 1 | - |  |  |  |
+| Cardiovascular System |  |  |  |  |  |
+| Palpitation | 2 | - |  |  |  |
+| Central and Peripheral Nervous System |  |  |  |  |  |
+| Drowsiness | 8 | 5 |  |  |  |
+| Dizziness | 5 | 1 |  |  |  |
+| Lethargy | 3 | 1 |  |  |  |
+| Drugged feeling | 3 | - |  |  |  |
+| Lightheadedness | 2 | 1 |  |  |  |
+| Depression | 2 | 1 |  |  |  |
+| Abnormal dreams | 1 | - |  |  |  |
+| Amnesia | 1 | - |  |  |  |
+| Sleep disorder | 1 | - |  |  |  |
+| Gastrointestinal System |  |  |  |  |  |
+| Diarrhea | 3 | 2 |  |  |  |
+| Abdominal pain | 2 | 2 |  |  |  |
+| Constipation | 2 | 1 |  |  |  |
+| Respiratory System |  |  |  |  |  |
+| Sinusitis | 4 | 2 |  |  |  |
+| Pharyngitis | 3 | 1 |  |  |  |
+| Skin and Appendages |  |  |  |  |  |
+| Rash | 2 | 1 |  |  |  |
+| *Reactions reported by at least 1% of patients treated with zolpidem tartrate and at a greater frequency than placebo. |  |  |  |  |  |
 
 Dose relationship for adverse reactions: There is evidence from dose comparison trials suggesting a dose relationship for many of the adverse reactions associated with zolpidem tartrate use, particularly for certain CNS and gastrointestinal adverse reactions.
 

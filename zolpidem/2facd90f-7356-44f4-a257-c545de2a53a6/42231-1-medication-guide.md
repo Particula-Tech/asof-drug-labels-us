@@ -6,28 +6,28 @@ This Medication Guide does not take the place of talking to your healthcare prov
 
 What is the most important information I should know about Zolpimist?
 
-- Do not take more Zolpimist than prescribed.
-- Do not take Zolpimist unless you are able to stay in bed a full night (7 to 8 hours) before you must be active again.
-- Take Zolpimist right before you get in bed, not sooner.
+- •Do not take more Zolpimist than prescribed.
+- •Do not take Zolpimist unless you are able to stay in bed a full night (7 to 8 hours) before you must be active again.
+- •Take Zolpimist right before you get in bed, not sooner.
 
 Zolpimist may cause serous side effects including:
 
-- After taking Zolpimist, you may get up out of bed while not being fully awake and do an activity that you do not know you are doing.
+- •After taking Zolpimist, you may get up out of bed while not being fully awake and do an activity that you do not know you are doing.
   The next morning, you may not remember that you did anything during the night.
   You have a higher chance for doing these activities if you drink alcohol or take other medicines that make you sleepy with Zolpimist.
   Reported activities include:
-  - driving a car (“sleep-driving”)
-  - making and eating food
-  - talking on the phone
-  - having sex
-  - sleep-walking
+  - •driving a car (“sleep-driving”)
+  - •making and eating food
+  - •talking on the phone
+  - •having sex
+  - •sleep-walking
 
 Call your healthcare provider right away if you find out that you have done any of the above activities after taking Zolpimist.
 
 Do not take Zolpimist if you:
 
-- drank alcohol that evening or before bed
-- took another medicine to help you sleep
+- •drank alcohol that evening or before bed
+- •took another medicine to help you sleep
 
 What is Zolpimist?
 
@@ -38,26 +38,26 @@ It is not known if Zolpimist is safe and effective in children under that age of
 
 Who should not take Zolpimist?
 
-- Do not take Zolpimist if you are allergic to zolpidem or any other ingredients in Zolpimist.
+- •Do not take Zolpimist if you are allergic to zolpidem or any other ingredients in Zolpimist.
   See the end of this Medication Guide for a complete list of ingredients in Zolpimist.
-- Do not take Zolpimist if you have had an allergic reaction to zolpidem, such as Ambien, Ambien CR, Edluar, or Intermezzo.
+- •Do not take Zolpimist if you have had an allergic reaction to zolpidem, such as Ambien, Ambien CR, Edluar, or Intermezzo.
 
 Symptoms of a serious allergic reaction to zolpidem can include:
 
-- swelling of your face, lips, and throat that may cause difficulty breathing or swallowing
+- •swelling of your face, lips, and throat that may cause difficulty breathing or swallowing
 
 What should I tell my healthcare provider before taking Zolpimist?
 
 Zolpimist may not be right for you.
 Before starting Zolpimist, tell your healthcare provider about all of your health conditions, including if you:
 
-- have a history of depression, mental illness, or suicidal thoughts
-- have a history of drug or alcohol abuse or addiction
-- have kidney or liver disease
-- have a lung disease or breathing problems
-- are pregnant, planning to become pregnant.
+- •have a history of depression, mental illness, or suicidal thoughts
+- •have a history of drug or alcohol abuse or addiction
+- •have kidney or liver disease
+- •have a lung disease or breathing problems
+- •are pregnant, planning to become pregnant.
   It is not known if Zolpimist will harm your unborn baby.
-- are breastfeeding or plan to breastfeed.
+- •are breastfeeding or plan to breastfeed.
   Zolpimist can pass into your breast milk.
   It is not known if Zolpimist will harm your baby.
   Talk to your healthcare provider about the best way to feed your baby while you take Zolpimist.
@@ -72,27 +72,27 @@ Keep a list of your medicines with you to show your healthcare provider and phar
 
 How should I take Zolpimist?
 
-- See “What is the most important information I should know about Zolpimist?”
-- Take Zolpimist exactly as prescribed.
+- •See “What is the most important information I should know about Zolpimist?”
+- •Take Zolpimist exactly as prescribed.
   Only take 1 Zolpimist dose a night if needed.
-- Do not take Zolpimist if you drank alcohol that evening or before bed.
-- You should not take Zolpimist with or right after a meal.
+- •Do not take Zolpimist if you drank alcohol that evening or before bed.
+- •You should not take Zolpimist with or right after a meal.
   Zolpimist may help you fall asleep faster if you take it on an empty stomach.
-- Call your healthcare provider if your insomnia worsens or is not better within 7 to 10 days.
+- •Call your healthcare provider if your insomnia worsens or is not better within 7 to 10 days.
   This may mean that there is another condition causing your sleep problem.
-- If you take too much Zolpimist or overdose, get emergency treatment.
+- •If you take too much Zolpimist or overdose, get emergency treatment.
 
 What are the possible side effects of Zolpimist?
 
 Zolpimist may cause serious side effects, including:
 
-- getting out of bed while not being fully awake and doing an activity that you do not know you are doing.
+- •getting out of bed while not being fully awake and doing an activity that you do not know you are doing.
   See “What is the most important information I should know about Zolpimist?”
-- abnormal thoughts and behavior.
+- •abnormal thoughts and behavior.
   Symptoms include more outgoing or aggressive behavior than normal, confusion, agitation, hallucinations, worsening of depression, and suicidal thoughts or actions.
-- memory loss
-- anxiety
-- severe allergic reactions.
+- •memory loss
+- •anxiety
+- •severe allergic reactions.
   Symptoms include swelling of the tongue or throat, and trouble breathing.
   Get emergency medical help if you get these symptoms after taking Zolpimist.
 
@@ -100,10 +100,10 @@ Call your healthcare provider right away if you have any of the above side effec
 
 The most common side effects of Zolpimist are:
 
-- drowsiness
-- dizziness
-- diarrhea
-- grogginess or feeling as if you have been drugged
+- •drowsiness
+- •dizziness
+- •diarrhea
+- •grogginess or feeling as if you have been drugged
 
 After you stop taking a sleep medicine, you may have symptoms for 1 or 2 days such as:
 
@@ -122,10 +122,10 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store Zolpimist?
 
-- Store Zolpimist in an upright position between 59 °F to 86 °F (15 °C to 30 °C).
-- Do not freeze.
-- Avoid prolonged product exposure above 86 °F (30 °C).
-- The child-resistant container should be thrown away when the 60 sprays have been used.
+- •Store Zolpimist in an upright position between 59 °F to 86 °F (15 °C to 30 °C).
+- •Do not freeze.
+- •Avoid prolonged product exposure above 86 °F (30 °C).
+- •The child-resistant container should be thrown away when the 60 sprays have been used.
 
 Keep Zolpimist and all medicines out of reach of children.
 
