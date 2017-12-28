@@ -11,7 +11,7 @@ There may be decreased resistance and inability to localize infection when corti
 
 Prolonged use of corticosteroids may produce posterior subcapsular cataracts, glaucoma with possible damage to the optic nerves, and may enhance the establishment of secondary ocular infections due to fungi or viruses.
 
-## Usage In Pregnancy
+## Usage in pregnancy:
 
 Since adequate human reproduction studies have not been done with corticosteroids, the use of these drugs in pregnancy, nursing mothers or women of child-bearing potential requires that the possible benefits of the drug be weighed against the potential hazards to the mother and embryo or fetus.
 Neonates born of mothers who have received substantial doses of corticosteroid during pregnancy should be carefully observed for signs of hypoadrenalism.
@@ -39,7 +39,7 @@ During prolonged corticosteroid therapy, these patients should receive chemoprop
 
 # PRECAUTIONS
 
-## General
+## General:
 
 CORTENEMA® hydrocortisone retention enema should be used with caution where there is a probability of impending perforation, abscess or other pyogenic infection; fresh intestinal anastomoses; obstruction; or extensive fistulas and sinus tracts.
 Use with caution in presence of active or latent peptic ulcer; diverticulitis; renal insufficiency; hypertension; osteoporosis; and myasthenia gravis.
@@ -63,13 +63,13 @@ Also, existing emotional instability or psychotic tendencies may be aggravated b
 
 Aspirin should be used cautiously in conjunction with corticosteroids in hypoprothrombinemia.
 
-## Pediatric Use
+## Pediatric Use:
 
 Safety and effectiveness in pediatric patients have not been established.
 
 Growth and development of pediatric patients on prolonged corticosteroid therapy should be carefully observed.
 
-## Information for Patients
+## Information for Patients:
 
 Persons who are on immunosuppressant doses of corticosteroids should be warned to avoid exposure to chicken pox or measles.
 Patients should also be advised that if they are exposed, medical advice should be sought without delay.

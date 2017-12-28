@@ -7,10 +7,6 @@ Store at controlled room temperature 20° - 25°C (68° - 77°F).
 
 Rx ONLY
 
-Manufactured by
-
-ANI Pharmaceuticals, Inc.
-
-Baudette, MN 56623
+Manufactured by ANI Pharmaceuticals, Inc. Baudette, MN 56623
 
 9156 Rev 11/11

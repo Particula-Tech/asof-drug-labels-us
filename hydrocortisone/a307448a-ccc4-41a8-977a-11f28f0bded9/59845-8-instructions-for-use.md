@@ -31,10 +31,6 @@ After administering, withdraw and discard the used unit.
 c Remain in position for at least 30 minutes to allow thorough distribution of the medication internally.
 Retain the enema all night, if possible.
 
-Manufactured by
-
-ANI Pharmaceuticals, Inc.
-
-Baudette, MN 56623
+Manufactured by ANI Pharmaceuticals, Inc. Baudette, MN 56623
 
 9156 Rev 11/11
