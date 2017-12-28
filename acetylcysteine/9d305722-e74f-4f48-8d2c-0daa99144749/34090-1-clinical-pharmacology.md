@@ -1,51 +1,41 @@
 # 12 CLINICAL PHARMACOLOGY
 
-## 12.1 Mechanism of action
-
-Acetaminophen Overdose:
-
-Acetaminophen is absorbed from the upper gastrointestinal tract with peak plasma levels occurring between 30 and 60 minutes after therapeutic doses and usually within 4 hours following an overdose.
-It is extensively metabolized in the liver to form principally the sulfate and glucuronide conjugates which are excreted in the urine.
-A small fraction of an ingested dose is metabolized in the liver by isozyme CYP2E1 of the cytochrome P-450 mixed function oxidase enzyme system to form a reactive, potentially toxic, intermediate metabolite.
-The toxic metabolite preferentially conjugates with hepatic glutathione to form nontoxic cysteine and mercapturic acid derivatives, which are then excreted by the kidney.
-Recommended therapeutic doses of acetaminophen are not believed to saturate the glucuronide and sulfate conjugation pathways and therefore are not expected to result in the formation of sufficient reactive metabolite to deplete glutathione stores.
-However, following ingestion of a large overdose, the glucuronide and sulfate conjugation pathways are saturated resulting in a larger fraction of the drug being metabolized via the cytochrome P-450 pathway and therefore, the amount of acetaminophen metabolized to the reactive intermediate increases.
-The increased formation of the reactive metabolite may deplete the hepatic stores of glutathione with subsequent binding of the metabolite to protein molecules within the hepatocyte resulting in cellular necrosis.
-
-Acetylcysteine Intravenous Treatment:
+## 12.1 Mechanism of Action
 
 Acetylcysteine has been shown to reduce the extent of liver injury following acetaminophen overdose.
-It is most effective when given early, with benefit seen principally in patients treated within 8-10 hours of the overdose.
-Acetylcysteine likely protects the liver by maintaining or restoring the glutathione levels, or by acting as an alternate substrate for conjugation with, and thus detoxification of, the reactive metabolite.
+Acetaminophen doses of 150 mg/kg or greater have been associated with hepatotoxicity.
+Acetylcysteine probably protects the liver by maintaining or restoring the glutathione levels, or by acting as an alternate substrate for conjugation with, and thus detoxification of, the reactive metabolite of acetaminophen.
 
 ## 12.3 Pharmacokinetics
 
+After a single intravenous dose of acetylcysteine, the plasma concentration of total acetylcysteine declined in a poly-exponential decay manner with a mean terminal half-life (T1/2) of 5.6 hours.
+The mean clearance (CL) for acetylcysteine was 0.11 liter/hr/kg and renal CL constituted about 30% of the total CL.
+
 Distribution:
 
-The steady-state volume of distribution (Vdss) and the protein binding for acetylcysteine were reported to be 0.47 liter/kg and 83%, respectively.
+The steady-state volume of distribution (Vdss) following administration of an intravenous dose of acetylcysteine was 0.47 liter/kg.
+The protein binding of acetylcysteine ranges from 66 to 87%.
+
+Elimination
 
 Metabolism:
 
-Acetylcysteine may form cysteine, disulfides and conjugates in vivo (N, N’-diacetylcysteine, N-acetylcysteine-cysteine, N-acetylcysteine-glutathione, N-acetylcysteine-protein, etc). Based on published data, it was reported that after an oral dose of 35S-acetylcysteine, about 22% of total radioactivity was excreted in urine after 24 hours.
-No metabolites were identified.
+Acetylcysteine (i.e., N-acetylcysteine) is postulated to form cysteine and disulfides (N,N-diacetylcysteine and N-acetylcysteine).
+Cysteine is further metabolized to form glutathione and other metabolites.
 
-Elimination:
+Excretion
 
-After a single intravenous dose of acetylcysteine, the plasma concentration of total acetylcysteine declined in a poly-exponential decay manner with a mean terminal half-life (T1/2) of 5.6 hours.
-The mean clearance (CL) for acetylcysteine was reported to be 0.11 liter/hr/kg and renal CL constituted about 30% of total CL.
+After a single oral dose of [35S]-acetylcysteine 100 mg, between 13 to 38% of the total radioactivity administered was recovered in urine within 24 hours.
+In a separate study, renal clearance was estimated to be approximately 30% of total body clearance.
 
-Special Populations:
+Specific Populations:
 
-Gender: Adequate information is not available to assess if there are differences in pharmacokinetics (PK) between males and females.
+Hepatic Impairment:
 
-Pediatric: The mean elimination T1/2 of acetylcysteine is longer in newborns (11 hours) than in adults (5.6 hours).
-Pharmacokinetic information is not available in other age groups.
+Following a 600 mg intravenous dose of acetylcysteine to subjects with mild (Child Pugh Class A, n=1), moderate (Child-Pugh Class B, n=4) or severe (Child-Pugh Class C; n=4) hepatic impairment and 6 healthy matched controls, mean T1/2 increased by 80%.
+Also, the mean CL decreased by 30% and the systemic acetylcysteine exposure (mean AUC) increased 1.6-fold in subjects with hepatic impairment compared to subjects with normal hepatic function.
+These changes are not considered to be clinically meaningful.
 
-Pregnant Women: In four pregnant women with acetaminophen toxicity, oral or intravenous acetylcysteine was administered at the time of delivery.
-Acetylcysteine was detected in the cord blood of 3 viable infants and in cardiac blood of a fourth infant sampled at autopsy [see Pregnancy (8.1)].
+Renal Impairment
 
-Hepatic Impairment: In subjects with severe liver damage, i.e., cirrhosis due to alcohol (with Child-Pugh score of 7-13), or primary and/or secondary biliary cirrhosis (with Child-Pugh score of 5-7), mean T1/2 increased by 80% while mean CL decreased by 30% compared to the control group.
-
-Renal Impairment: Pharmacokinetic information is not available in patients with renal impairment.
-
-Geriatric Patients: Adequate information on acetylcysteine PK in geriatric patients is not available.
+Hemodialysis may remove some of total acetylcysteine.
