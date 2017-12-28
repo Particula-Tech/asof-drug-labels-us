@@ -74,7 +74,7 @@ Peak plasma levels of empagliflozin were roughly 20% higher in subjects with mil
 Population pharmacokinetic analysis showed that the apparent oral clearance of empagliflozin decreased with a decrease in eGFR leading to an increase in drug exposure.
 However, the fraction of empagliflozin that was excreted unchanged in urine, and urinary glucose excretion, declined with decrease in eGFR.
 
-Metformin hydrochloride: In patients with decreased renal function (based on measured eGFR), the plasma and blood half-life of metformin is prolonged and the renal clearance is decreased in proportion to the decrease in eGFR [see Contraindications (4) and Warnings and Precautions (5.1)].
+Metformin hydrochloride: In patients with decreased renal function, the plasma and blood half-life of metformin is prolonged and the renal clearance is decreased [see Contraindications (4) and Warnings and Precautions (5.1)].
 
 Hepatic Impairment SYNJARDY XR: Studies characterizing the pharmacokinetics of empagliflozin and metformin after administration of SYNJARDY XR in hepatically impaired patients have not been performed [see Warnings and Precautions (5.1)].
 

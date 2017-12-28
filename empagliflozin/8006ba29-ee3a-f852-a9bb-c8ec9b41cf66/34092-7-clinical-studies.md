@@ -14,22 +14,22 @@ At Week 24, treatment with empagliflozin 10 mg or 25 mg daily provided statistic
 
 Table 7 Results at Week 24 From a Placebo-Controlled Study for Empagliflozin used in Combination with Metformin
 
-|  | Empagliflozin 10 mg + Metformin N=217 | Empagliflozin 25 mg + Metformin N=213 | Placebo + Metformin N=207 |
-| --- | --- | --- | --- |
-| HbA1c (%)a |  |  |  |
-| Baseline (mean) | 7.9 | 7.9 | 7.9 |
-| Change from baseline (adjusted mean) | -0.7 | -0.8 | -0.1 |
-| Difference from placebo + metformin (adjusted mean) (95% CI) | -0.6b (-0.7, -0.4) | -0.6b (-0.8, -0.5) | -- |
-| Patients [n (%)] achieving HbA1c <7% | 75 (38%) | 74 (39%) | 23 (13%) |
-| FPG (mg/dL)c |  |  |  |
-| Baseline (mean) | 155 | 149 | 156 |
-| Change from baseline (adjusted mean) | -20 | -22 | 6 |
-| Difference from placebo + metformin (adjusted mean) | -26 | -29 | -- |
-| Body Weight |  |  |  |
-| Baseline mean in kg | 82 | 82 | 80 |
-| % change from baseline (adjusted mean) | -2.5 | -2.9 | -0.5 |
-| Difference from placebo (adjusted mean) (95% CI) | -2.0b (-2.6, -1.4) | -2.5b (-3.1, -1.9) | -- |
-| aModified intent to treat population. Last observation on study (LOCF) was used to impute missing data at Week 24. At Week 24, 9.7%, 14.1%, and 24.6% was imputed for patients randomized to empagliflozin 10 mg, empagliflozin 25 mg, and placebo, respectively. bANCOVA p-value <0.0001 (HbA1c: ANCOVA model includes baseline HbA1c, treatment, renal function, and region. Body weight and FPG: same model used as for HbA1c but additionally including baseline body weight/baseline FPG, respectively.) cFPG (mg/dL); for empagliflozin 10 mg, n=216, for empagliflozin 25 mg, n=213, and for placebo, n=207 |  |  |  |
+|  |  | Empagliflozin 10 mg + Metformin N=217 | Empagliflozin 25 mg + Metformin N=213 | Placebo + Metformin N=207 |
+| --- | --- | --- | --- | --- |
+| HbA1c (%)a |  |  |  |  |
+|  | Baseline (mean) | 7.9 | 7.9 | 7.9 |
+|  | Change from baseline (adjusted mean) | -0.7 | -0.8 | -0.1 |
+|  | Difference from placebo + metformin (adjusted mean) (95% CI) | -0.6b (-0.7, -0.4) | -0.6b (-0.8, -0.5) | -- |
+|  | Patients [n (%)] achieving HbA1c <7% | 75 (38%) | 74 (39%) | 23 (13%) |
+| FPG (mg/dL)c |  |  |  |  |
+|  | Baseline (mean) | 155 | 149 | 156 |
+|  | Change from baseline (adjusted mean) | -20 | -22 | 6 |
+|  | Difference from placebo + metformin (adjusted mean) | -26 | -29 | -- |
+| Body Weight |  |  |  |  |
+|  | Baseline mean in kg | 82 | 82 | 80 |
+|  | % change from baseline (adjusted mean) | -2.5 | -2.9 | -0.5 |
+|  | Difference from placebo (adjusted mean) (95% CI) | -2.0b (-2.6, -1.4) | -2.5b (-3.1, -1.9) | -- |
+| aModified intent to treat population. Last observation on study (LOCF) was used to impute missing data at Week 24. At Week 24, 9.7%, 14.1%, and 24.6% was imputed for patients randomized to empagliflozin 10 mg, empagliflozin 25 mg, and placebo, respectively. bANCOVA p-value <0.0001 (HbA1c: ANCOVA model includes baseline HbA1c, treatment, renal function, and region. Body weight and FPG: same model used as for HbA1c but additionally including baseline body weight/baseline FPG, respectively.) cFPG (mg/dL); for empagliflozin 10 mg, n=216, for empagliflozin 25 mg, n=213, and for placebo, n=207 |  |  |  |  |
 
 At Week 24, the systolic blood pressure was statistically significantly reduced compared to placebo by -4.1 mmHg (placebo-corrected, p-value <0.0001) for empagliflozin 10 mg and -4.8 mmHg (placebo-corrected, p-value <0.0001) for empagliflozin 25 mg.
 
@@ -61,22 +61,22 @@ Treatment with empagliflozin 10 mg or 25 mg daily provided statistically signifi
 
 Table 9 Results at Week 24 from a Placebo-Controlled Study for Empagliflozin in Combination with Metformin and Sulfonylurea
 
-|  | Empagliflozin 10 mg + Metformin + SU N=225 | Empagliflozin 25 mg + Metformin + SU N=216 | Placebo + Metformin + SU N=225 |
-| --- | --- | --- | --- |
-| HbA1c (%)a |  |  |  |
-| Baseline (mean) | 8.1 | 8.1 | 8.2 |
-| Change from baseline (adjusted mean) | -0.8 | -0.8 | -0.2 |
-| Difference from placebo (adjusted mean) (95% CI) | -0.6b (-0.8, -0.5) | -0.6b (-0.7, -0.4) | -- |
-| Patients [n (%)] achieving HbA1c <7% | 55 (26%) | 65 (32%) | 20 (9%) |
-| FPG (mg/dL)c |  |  |  |
-| Baseline (mean) | 151 | 156 | 152 |
-| Change from baseline (adjusted mean) | -23 | -23 | 6 |
-| Difference from placebo (adjusted mean) | -29 | -29 | -- |
-| Body Weight |  |  |  |
-| Baseline mean in kg | 77 | 78 | 76 |
-| % change from baseline (adjusted mean) | -2.9 | -3.2 | -0.5 |
-| Difference from placebo (adjusted mean) (95% CI) | -2.4b (-3.0, -1.8) | -2.7b (-3.3, -2.1) | -- |
-| aModified intent to treat population. Last observation on study (LOCF) was used to impute missing data at Week 24. At Week 24, 17.8%, 16.7%, and 25.3% was imputed for patients randomized to empagliflozin 10 mg, empagliflozin 25 mg, and placebo, respectively. bANCOVA p-value <0.0001 (HbA1c: ANCOVA model includes baseline HbA1c, treatment, renal function, and region. Body weight and FPG: same model used as for HbA1c but additionally including baseline body weight/baseline FPG, respectively.) cFPG (mg/dL); for empagliflozin 10 mg, n=225, for empagliflozin 25 mg, n=215, for placebo, n=224 |  |  |  |
+|  |  | Empagliflozin 10 mg + Metformin + SU N=225 | Empagliflozin 25 mg + Metformin + SU N=216 | Placebo + Metformin + SU N=225 |
+| --- | --- | --- | --- | --- |
+| HbA1c (%)a |  |  |  |  |
+|  | Baseline (mean) | 8.1 | 8.1 | 8.2 |
+|  | Change from baseline (adjusted mean) | -0.8 | -0.8 | -0.2 |
+|  | Difference from placebo (adjusted mean) (95% CI) | -0.6b (-0.8, -0.5) | -0.6b (-0.7, -0.4) | -- |
+|  | Patients [n (%)] achieving HbA1c <7% | 55 (26%) | 65 (32%) | 20 (9%) |
+| FPG (mg/dL)c |  |  |  |  |
+|  | Baseline (mean) | 151 | 156 | 152 |
+|  | Change from baseline (adjusted mean) | -23 | -23 | 6 |
+|  | Difference from placebo (adjusted mean) | -29 | -29 | -- |
+| Body Weight |  |  |  |  |
+|  | Baseline mean in kg | 77 | 78 | 76 |
+|  | % change from baseline (adjusted mean) | -2.9 | -3.2 | -0.5 |
+|  | Difference from placebo (adjusted mean) (95% CI) | -2.4b (-3.0, -1.8) | -2.7b (-3.3, -2.1) | -- |
+| aModified intent to treat population. Last observation on study (LOCF) was used to impute missing data at Week 24. At Week 24, 17.8%, 16.7%, and 25.3% was imputed for patients randomized to empagliflozin 10 mg, empagliflozin 25 mg, and placebo, respectively. bANCOVA p-value <0.0001 (HbA1c: ANCOVA model includes baseline HbA1c, treatment, renal function, and region. Body weight and FPG: same model used as for HbA1c but additionally including baseline body weight/baseline FPG, respectively.) cFPG (mg/dL); for empagliflozin 10 mg, n=225, for empagliflozin 25 mg, n=215, for placebo, n=224 |  |  |  |  |
 
 Active-Controlled Study vs Glimepiride in Combination with Metformin The efficacy of empagliflozin was evaluated in a double-blind, glimepiride-controlled, study in 1545 patients with type 2 diabetes with insufficient glycemic control despite metformin therapy.
 
@@ -88,21 +88,21 @@ The mean daily dose of glimepiride was 2.7 mg and the maximal approved dose in t
 
 Table 10 Results at Week 52 from an Active-Controlled Study Comparing Empagliflozin to Glimepiride as Add-On Therapy in Patients Inadequately Controlled on Metformin
 
-|  | Empagliflozin 25 mg + Metformin N=765 | Glimepiride + Metformin N=780 |
-| --- | --- | --- |
-| HbA1c (%)a |  |  |
-| Baseline (mean) | 7.9 | 7.9 |
-| Change from baseline (adjusted mean) | -0.7 | -0.7 |
-| Difference from glimepiride (adjusted mean) (97.5% CI) | -0.07b (-0.15, 0.01) | -- |
-| FPG (mg/dL)d |  |  |
-| Baseline (mean) | 150 | 150 |
-| Change from baseline (adjusted mean) | -19 | -9 |
-| Difference from glimepiride (adjusted mean) | -11 | -- |
-| Body Weight |  |  |
-| Baseline mean in kg | 82.5 | 83 |
-| % change from baseline (adjusted mean) | -3.9 | 2.0 |
-| Difference from glimepiride (adjusted mean) (95% CI) | -5.9c (-6.3, -5.5) | -- |
-| aModified intent to treat population. Last observation on study (LOCF) was used to impute data missing at Week 52. At Week 52, data was imputed for 15.3% and 21.9% of patients randomized to empagliflozin 25 mg and glimepiride, respectively. bNon-inferior, ANCOVA model p-value <0.0001 (HbA1c: ANCOVA model includes baseline HbA1c, treatment, renal function, and region) cANCOVA p-value <0.0001 (Body weight and FPG: same model used as for HbA1c but additionally including baseline body weight/baseline FPG, respectively.) dFPG (mg/dL); for empagliflozin 25 mg, n=764, for placebo, n=779 |  |  |
+|  |  | Empagliflozin 25 mg + Metformin N=765 | Glimepiride + Metformin N=780 |
+| --- | --- | --- | --- |
+| HbA1c (%)a |  |  |  |
+|  | Baseline (mean) | 7.9 | 7.9 |
+|  | Change from baseline (adjusted mean) | -0.7 | -0.7 |
+|  | Difference from glimepiride (adjusted mean) (97.5% CI) | -0.07b (-0.15, 0.01) | -- |
+| FPG (mg/dL)d |  |  |  |
+|  | Baseline (mean) | 150 | 150 |
+|  | Change from baseline (adjusted mean) | -19 | -9 |
+|  | Difference from glimepiride (adjusted mean) | -11 | -- |
+| Body Weight |  |  |  |
+|  | Baseline mean in kg | 82.5 | 83 |
+|  | % change from baseline (adjusted mean) | -3.9 | 2.0 |
+|  | Difference from placebo (adjusted mean) (95% CI) | -5.9c (-6.3, -5.5) | -- |
+| aModified intent to treat population. Last observation on study (LOCF) was used to impute data missing at Week 52. At Week 52, data was imputed for 15.3% and 21.9% of patients randomized to empagliflozin 25 mg and glimepiride, respectively. bNon-inferior, ANCOVA model p-value <0.0001 (HbA1c: ANCOVA model includes baseline HbA1c, treatment, renal function, and region) cANCOVA p-value <0.0001 (Body weight and FPG: same model used as for HbA1c but additionally including baseline body weight/baseline FPG, respectively.) dFPG (mg/dL); for empagliflozin 25 mg, n=764, for placebo, n=779 |  |  |  |
 
 Figure 3 Adjusted mean HbA1c Change at Each Time Point (Completers) and at Week 52 (mITT Population) - LOCF
 
@@ -147,7 +147,7 @@ The statistical analysis plan had pre-specified that the 10 and 25 mg doses woul
 A Cox proportional hazards model was used to test for non-inferiority against the pre-specified risk margin of 1.3 for the hazard ratio of MACE and superiority on MACE if non-inferiority was demonstrated.
 Type-1 error was controlled across multiples tests using a hierarchical testing strategy.
 
-Empagliflozin significantly reduced the time to first occurrence of primary composite endpoint of cardiovascular death, non-fatal myocardial infarction, or non-fatal stroke (HR: 0.86; 95% CI 0.74, 0.99).
+Empagliflozin significantly reduced the risk of first occurrence of primary composite endpoint of cardiovascular death, non-fatal myocardial infarction, or non-fatal stroke (HR: 0.86; 95% CI 0.74, 0.99).
 The treatment effect was due to a significant reduction in the risk of cardiovascular death in subjects randomized to empagliflozin (HR: 0.62; 95% CI 0.49, 0.77), with no change in the risk of non-fatal myocardial infarction or non-fatal stroke (see Table 11 and Figure 4 and 5).
 Results for the 10 mg and 25 mg empagliflozin doses were consistent with results for the combined dose groups.
 

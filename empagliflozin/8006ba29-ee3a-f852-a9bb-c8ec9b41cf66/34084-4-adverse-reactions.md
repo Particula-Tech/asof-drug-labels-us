@@ -9,8 +9,9 @@ The following important adverse reactions are described below and elsewhere in t
 - Urosepsis and Pyelonephritis [see Warnings and Precautions (5.5)]
 - Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues [see Warnings and Precautions (5.6)]
 - Genital Mycotic Infections [see Warnings and Precautions (5.7)]
-- Vitamin B12 Deficiency [see Warnings and Precautions (5.8)]
-- Increased Low-Density Lipoprotein Cholesterol (LDL-C) [see Warnings and Precautions (5.9)]
+- Hypersensitivity Reactions [see Warnings and Precautions (5.8)]
+- Vitamin B12 Deficiency [see Warnings and Precautions (5.9)]
+- Increased Low-Density Lipoprotein Cholesterol (LDL-C) [see Warnings and Precautions (5.10)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -153,22 +154,30 @@ Metformin The most common (>5%) established adverse reactions due to initiation 
 
 In a 24-week clinical trial in which extended-release metformin or placebo was added to glyburide therapy, the most common (>5% and greater than placebo) adverse reactions in the combined treatment group were hypoglycemia (13.7% vs 4.9%), diarrhea (12.5% vs 5.6%), and nausea (6.7% vs 4.2%).
 
-Long-term treatment with metformin has been associated with a decrease in vitamin B12 absorption which may very rarely result in clinically significant vitamin B12 deficiency (e.g., megaloblastic anemia) [see Warnings and Precautions (5.8)].
+Long-term treatment with metformin has been associated with a decrease in vitamin B12 absorption which may very rarely result in clinically significant vitamin B12 deficiency (e.g., megaloblastic anemia) [see Warnings and Precautions (5.9)].
 
 Laboratory Tests Empagliflozin Increase in Low-Density Lipoprotein Cholesterol (LDL-C): Dose-related increases in low-density lipoprotein cholesterol (LDL-C) were observed in patients treated with empagliflozin.
-LDL-C increased by 2.3%, 4.6%, and 6.5% in patients treated with placebo, empagliflozin 10 mg, and empagliflozin 25 mg, respectively [see Warnings and Precautions (5.9)].
+LDL-C increased by 2.3%, 4.6%, and 6.5% in patients treated with placebo, empagliflozin 10 mg, and empagliflozin 25 mg, respectively [see Warnings and Precautions (5.10)].
 The range of mean baseline LDL-C levels was 90.3 to 90.6 mg/dL across treatment groups.
 
 Increase in Hematocrit: In a pool of four placebo-controlled studies, median hematocrit decreased by 1.3% in placebo and increased by 2.8% in empagliflozin 10 mg and 2.8% in empagliflozin 25 mg treated patients.
 At the end of treatment, 0.6%, 2.7%, and 3.5% of patients with hematocrits initially within the reference range had values above the upper limit of the reference range with placebo, empagliflozin 10 mg, and empagliflozin 25 mg, respectively.
 
 Metformin In controlled clinical trials of metformin of 29 weeks’ duration, a decrease to subnormal levels of previously normal serum Vitamin B12 levels, without clinical manifestations, was observed in approximately 7% of patients.
-Such decrease, possibly due to interference with B12 absorption from the B12-intrinsic factor complex, is, however, very rarely associated with anemia and appears to be rapidly reversible with discontinuation of metformin or Vitamin B12 supplementation [see Warnings and Precautions (5.8)].
+Such decrease, possibly due to interference with B12 absorption from the B12-intrinsic factor complex, is, however, very rarely associated with anemia and appears to be rapidly reversible with discontinuation of metformin or Vitamin B12 supplementation [see Warnings and Precautions (5.9)].
 
 ## 6.2 Postmarketing Experience
 
-Additional adverse reactions have been identified during postapproval use of empagliflozin.
+Additional adverse reactions have been identified during postapproval use.
 Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Empagliflozin
 
 - Ketoacidosis [see Warnings and Precautions (5.3)]
 - Urosepsis and pyelonephritis [see Warnings and Precautions (5.5)]
+- Angioedema [see Warnings and Precautions (5.8)]
+- Skin reactions (e.g., rash, urticaria)
+
+Metformin hydrochloride
+
+- Cholestatic, hepatocellular, and mixed hepatocellular liver injury

@@ -16,10 +16,11 @@ Educate patients and their families about the symptoms of lactic acidosis and if
 For each of the known and possible risk factors for metformin-associated lactic acidosis, recommendations to reduce the risk of and manage metformin-associated lactic acidosis are provided below:
 
 Renal Impairment: The postmarketing metformin-associated lactic acidosis cases primarily occurred in patients with significant renal impairment.
-The risk of metformin accumulation and metformin-associated lactic acidosis increases with the severity of renal impairment because metformin is substantially excreted by the kidney [see Clinical Pharmacology (12.3)].
+The risk of metformin accumulation and metformin-associated lactic acidosis increases with the severity of renal impairment because metformin is substantially excreted by the kidney.
+Clinical recommendations based upon the patient’s renal function include [see Dosage and Administration (2.2), Clinical Pharmacology (12.3)].
 
 - Before initiating SYNJARDY XR, obtain an estimated glomerular filtration rate (eGFR).
-- SYNJARDY XR is contraindicated in patients with an eGFR below 45 mL/min/1.73 m2.
+- SYNJARDY XR is contraindicated in patients with an eGFR below 45 mL/min/1.73 m2 [see Contraindications (4)].
 - Obtain an eGFR at least annually in all patients taking SYNJARDY XR.
   In patients at increased risk for the development of renal impairment (e.g., the elderly), renal function should be assessed more frequently.
 
@@ -85,7 +86,7 @@ Patients with hypovolemia may be more susceptible to these changes.
 Renal function abnormalities can occur after initiating SYNJARDY XR [see Adverse Reactions (6.1)].
 Renal function should be evaluated prior to initiation of SYNJARDY XR and monitored periodically thereafter.
 More frequent renal function monitoring is recommended in patients with an eGFR below 60 mL/min/1.73 m2.
-Use of SYNJARDY XR is contraindicated in patients with an eGFR less than 45 mL/min/1.73 m2 [see Dosage and Administration (2.2), Contraindications (4), Use in Specific Populations (8.6)].
+Use of SYNJARDY XR is contraindicated in patients with an eGFR less than 45 mL/min/1.73 m2 [see Dosage and Administration (2.2), Contraindications (4) and Use in Specific Populations (8.6)].
 
 ## 5.5 Urosepsis and Pyelonephritis
 
@@ -107,10 +108,16 @@ Monitor for a need to lower the dose of SYNJARDY XR to minimize the risk of hypo
 ## 5.7 Genital Mycotic Infections
 
 Empagliflozin increases the risk for genital mycotic infections [see Adverse Reactions (6.1)].
-Patients with a history of chronic or recurrent genital mycotic infections were more likely to develop mycotic genital infections.
+Patients with a history of chronic or recurrent genital mycotic infections were more likely to develop genital mycotic infections.
 Monitor and treat as appropriate.
 
-## 5.8 Vitamin B12 Levels
+## 5.8 Hypersensitivity Reactions
+
+There have been postmarketing reports of serious hypersensitivity reactions, (e.g., angioedema) in patients treated with empagliflozin, one of the components of SYNJARDY XR.
+If a hypersensitivity reaction occurs, discontinue SYNJARDY XR; treat promptly per standard of care, and monitor until signs and symptoms resolve.
+SYNJARDY XR is contraindicated in patients with a previous serious hypersensitivity reaction to empagliflozin or any of the excipients in SYNJARDY XR [see Contraindications (4)].
+
+## 5.9 Vitamin B12 Levels
 
 In controlled, 29-week clinical trials of metformin, a decrease to subnormal levels of previously normal serum vitamin B12 levels, without clinical manifestations, was observed in approximately 7% of metformin-treated patients.
 Such decrease, possibly due to interference with B12 absorption from the B12-intrinsic factor complex, is, however, very rarely associated with anemia or neurologic manifestations due to the short duration (<1 year) of the clinical trials.
@@ -120,11 +127,11 @@ Measurement of hematologic parameters on an annual basis is advised in patients 
 Certain individuals (those with inadequate vitamin B12 or calcium intake or absorption) appear to be predisposed to developing subnormal vitamin B12 levels.
 In these patients, routine serum vitamin B12 measurement at 2- to 3-year intervals may be useful.
 
-## 5.9 Increased Low-Density Lipoprotein Cholesterol (LDL-C)
+## 5.10 Increased Low-Density Lipoprotein Cholesterol (LDL-C)
 
 Increases in LDL-C can occur with empagliflozin.
 Monitor and treat as appropriate.
 
-## 5.10 Macrovascular Outcomes
+## 5.11 Macrovascular Outcomes
 
 There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with SYNJARDY XR.
