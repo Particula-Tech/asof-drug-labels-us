@@ -9,4 +9,4 @@ The drug is excreted unchanged in the urine.
 Manufactured for: Rising Pharmaceuticals, Inc. Allendale, NJ 07401
 
 5530 Made in USA Rev.
-04/17
+06/17
