@@ -16,7 +16,7 @@ IT IS RECOMMENDED THAT A PERIPHERAL NERVE STIMULATOR BE USED TO MEASURE NEUROMUS
 NIMBEX HAS NO KNOWN EFFECT ON CONSCIOUSNESS, PAIN THRESHOLD, OR CEREBRATION.
 TO AVOID DISTRESS TO THE PATIENT, NEUROMUSCULAR BLOCK SHOULD NOT BE INDUCED BEFORE UNCONSCIOUSNESS.
 
-NIMBEX Injection is acidic (pH 3.25 to 3.65) and may not be compatible with alkaline solutions having a pH greater than 8.5 (e.g., barbiturate solutions).
+NIMBEX injection is acidic (pH 3.25 to 3.65) and may not be compatible with alkaline solutions having a pH greater than 8.5 (e.g., barbiturate solutions).
 
 The 10 mL multiple-dose vials of NIMBEX contain benzyl alcohol, which is potentially toxic when administered locally to neural tissue.
 Exposure to excessive amounts of benzyl alcohol has been associated with toxicity (hypotension, metabolic acidosis), particularly in neonates, and an increased incidence of kernicterus, particularly in small preterm infants.
@@ -103,7 +103,7 @@ The average infusion rate requirement may be decreased by as much as 30% to 40%.
 
 In clinical studies propofol had no effect on the duration of action or dosing requirements for NIMBEX.
 
-Other drugs which may enhance the neuromuscular blocking action of nondepolarizing agents such as NIMBEX include certain antibiotics (e.g., aminoglycosides, tetracyclines, bacitracin, polymyxins, lincomycin, clindamycin, colistin, and sodium colistemethate), magnesium salts, lithium, local anesthetics, procainamide, and quinidine.
+Other drugs which may enhance the neuromuscular blocking action of nondepolarizing agents such as NIMBEX include certain antibiotics (e.g., aminoglycosides, tetracyclines, bacitracin, polymyxins, lincomycin, clindamycin, colistin, and sodium colistimethate), magnesium salts, lithium, local anesthetics, procainamide, and quinidine.
 
 Resistance to the neuromuscular blocking action of nondepolarizing neuromuscular blocking agents has been demonstrated in patients chronically administered phenytoin or carbamazepine.
 While the effects of chronic phenytoin or carbamazepine therapy on the action of NIMBEX are unknown, slightly shorter durations of neuromuscular block may be anticipated and infusion rate requirements may be higher.

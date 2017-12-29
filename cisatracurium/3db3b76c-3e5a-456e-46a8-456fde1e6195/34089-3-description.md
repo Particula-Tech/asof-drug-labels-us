@@ -10,10 +10,10 @@ The structural formula of cisatracurium besylate is:
 
 The log of the partition coefficient of cisatracurium besylate is -2.12 in a 1-octanol/distilled water system at 25°C.
 
-NIMBEX Injection is a sterile, non-pyrogenic aqueous solution provided in 5 mL, 10 mL, and 20 mL vials.
+NIMBEX injection is a sterile, non-pyrogenic aqueous solution provided in 5 mL, 10 mL, and 20 mL vials.
 The pH is adjusted to 3.25 to 3.65 with benzenesulfonic acid.
-The 5 mL and 10 mL vials each contain cisatracurium besylate, equivalent to 2 mg/mL cisatracurium.
-The 20 mL vial, intended for ICU use only, contains cisatracurium besylate, equivalent to 10 mg/mL cisatracurium.
+The 5 mL and 10 mL vials each contain 2 mg/mL cisatracurium, equivalent to 2.68 mg/mL cisatracurium besylate.
+The 20 mL vial, intended for ICU use only, contains 10 mg/mL cisatracurium, equivalent to 13.38 mg/mL cisatracurium besylate.
 The 10 mL vial, intended for multiple-dose use, contains 0.9% benzyl alcohol as a preservative.
 The 5 mL and 20 mL vials are single-use vials and do not contain benzyl alcohol.
 

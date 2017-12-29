@@ -112,9 +112,9 @@ Infusion Rates of NIMBEX for Maintenance of Neuromuscular Block During Opioid/Ni
 
 ### Y-site Administration
 
-NIMBEX Injection is acidic (pH = 3.25 to 3.65) and may not be compatible with alkaline solution having a pH greater than 8.5 (e.g., barbiturate solutions).
+NIMBEX injection is acidic (pH = 3.25 to 3.65) and may not be compatible with alkaline solution having a pH greater than 8.5 (e.g., barbiturate solutions).
 
-Studies have shown that NIMBEX Injection is compatible with:
+Studies have shown that NIMBEX injection is compatible with:
 
 - 5% Dextrose Injection, USP
 - 0.9% Sodium Chloride Injection, USP
@@ -125,16 +125,16 @@ Studies have shown that NIMBEX Injection is compatible with:
 - VERSED® (midazolam hydrochloride) Injection, diluted as directed
 - Droperidol Injection, diluted as directed
 
-NIMBEX Injection is not compatible with DIPRIVAN® (propofol) Injection or TORADOL® (ketorolac) Injection for Y-site administration.
+NIMBEX injection is not compatible with DIPRIVAN® (propofol) Injection or TORADOL® (ketorolac) Injection for Y-site administration.
 Studies of other parenteral products have not been conducted.
 
 ### Dilution Stability
 
-NIMBEX Injection diluted in 5% Dextrose Injection, USP; 0.9% Sodium Chloride Injection, USP; or 5% Dextrose and 0.9% Sodium Chloride Injection, USP to 0.1 mg/mL may be stored either under refrigeration or at room temperature for 24 hours without significant loss of potency.
+NIMBEX injection diluted in 5% Dextrose Injection, USP; 0.9% Sodium Chloride Injection, USP; or 5% Dextrose and 0.9% Sodium Chloride Injection, USP to 0.1 mg/mL may be stored either under refrigeration or at room temperature for 24 hours without significant loss of potency.
 Dilutions to 0.1 mg/mL or 0.2 mg/mL in 5% Dextrose and Lactated Ringer's Injection may be stored under refrigeration for 24 hours.
 
-NIMBEX Injection should not be diluted in Lactated Ringer's Injection, USP due to chemical instability.
+NIMBEX injection should not be diluted in Lactated Ringer's Injection, USP due to chemical instability.
 
 NOTE: Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit.
 Solutions which are not clear, or contain visible particulates, should not be used.
-NIMBEX Injection is a colorless to slightly yellow or greenish-yellow solution.
+NIMBEX injection is a colorless to slightly yellow or greenish-yellow solution.
