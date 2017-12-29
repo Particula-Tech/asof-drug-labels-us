@@ -10,4 +10,7 @@ HydrALAZINE Hydrochloride Tablets, USP:
 
 Dispense in a tight, light-resistant container.
 Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
-Manufactured by: ALKEM LABORATORIES LIMITED H.O.: ALKEM HOUSE, Senapati Bapat Marg, Lower Parel, Mumbai - 400 013, INDIA Distributed by: Ascend Laboratories, LLC Montvale, NJ 07645 December, 2012 PT 1368-01
+
+KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.
+
+Manufactured by: ALKEM LABORATORIES LIMITED H.O.: ALKEM HOUSE, Senapati Bapat Marg, Lower Parel, Mumbai - 400 013, INDIA Distributed by: Ascend Laboratories Parsippany, NJ 07054 Revised: December,2017 PT 1368-02
