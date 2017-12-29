@@ -18,7 +18,7 @@ Avoid this combination.
 
 Peripheral neuropathy, which was severe in some cases, has been reported in patients with HIV infection receiving hydroxyurea in combination with antiretroviral drugs, including didanosine, with or without stavudine.
 
-## 7.2 Test Interference
+## 7.2 Laboratory Test Interference
 
 ### Interference with Uric Acid, Urea, or Lactic Acid Assays
 

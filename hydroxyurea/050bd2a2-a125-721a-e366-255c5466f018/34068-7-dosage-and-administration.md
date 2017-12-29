@@ -10,14 +10,16 @@ Base all dosage on the patient’s actual or ideal weight, whichever is less.
 HYDREA is a cytotoxic drug.
 Follow applicable special handling and disposal procedures [see References (15)].
 
+Patients should swallow HYDREA capsules whole and not to open, since hydroxurea is a cytotoxic drug.
+
 Prophylactic administration of folic acid is recommended [see Warnings and Precautions (5.7)].
 
 ## 2.2 Dose Modifications for Toxicity
 
 Monitor for the following and reduce the dose or discontinue HYDREA accordingly:
 
-- •Myelosuppression [seeWarnings and Precautions (5.1)]
-- •Cutaneous vasculitis [seeWarnings and Precautions (5.4)]
+- Myelosuppression [see Warnings and Precautions (5.1)]
+- Cutaneous vasculitis [see Warnings and Precautions (5.4)]
 
 Monitor blood counts at least once a week during HYDREA therapy.
 Severe anemia must be corrected before initiating therapy with HYDREA.
@@ -27,7 +29,7 @@ Consider dose modifications for other toxicities.
 
 Reduce the dose of HYDREA by 50% in patients with measured creatinine clearance of less than 60 mL/min or with end-stage renal disease (ESRD) [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
-| Creatinine Clearance (mL/min) | Recommended HYDREA Initial Dose (mg/kg daily) |
+| Creatinine Clearance (mL/min) | Recommended HYDREA Initial Dose (mg/kg once daily) |
 | --- | --- |
 | ≥60 | 15 |
 | <60 or ESRD* | 7.5 |
