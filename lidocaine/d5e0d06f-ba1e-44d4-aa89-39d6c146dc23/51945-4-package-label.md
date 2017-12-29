@@ -84,7 +84,7 @@ NDC 63323-496-97
 
 491697
 
-Xylocaine® - MPF (lidocaine HCl Injection, USP)
+Xylocaine ® - MPF (lidocaine HCl Injection, USP)
 
 2% 200 mg/10 mL (20 mg/mL)
 
@@ -100,7 +100,7 @@ NDC 63323-496-97
 
 491697
 
-Xylocaine® - MPF (lidocaine HCl Injection, USP)
+Xylocaine ® - MPF (lidocaine HCl Injection, USP)
 
 2% 200 mg/10 mL (20 mg/mL)
 

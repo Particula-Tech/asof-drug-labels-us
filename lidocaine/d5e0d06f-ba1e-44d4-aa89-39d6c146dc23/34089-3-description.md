@@ -5,11 +5,11 @@ See INDICATIONS for specific uses.
 
 Xylocaine solutions contain lidocaine HCl, which is chemically designated as acetamide, 2-(diethylamino)-N-(2,6-dimethylphenyl)-, monohydrochloride and has the molecular wt.
 270.8.
-Lidocaine HCl (C14H22N2O • HCl) has the following structural formula:
+Lidocaine HCl (C 14H 22N 2O • HCl) has the following structural formula:
 
 Epinephrine is (-) -3, 4-Dihydroxy-α-[(methylamino) methyl] benzyl alcohol and has the molecular wt.
 183.21.
-Epinephrine (C9H13NO3) has the following structural formula:
+Epinephrine (C 9H 13NO 3) has the following structural formula:
 
 Dosage forms listed as Xylocaine-MPF indicate single dose solutions that are Methyl Paraben Free (MPF).
 
