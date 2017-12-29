@@ -27,9 +27,7 @@ Recommended Pediatric Oral Dosage of Zidovudine Tablets
 | ≥30 | 600 mg/day | 300 mg | 200 mg |
 
 Alternatively, dosing for zidovudine tablets can be based on body surface area (BSA) for each child.
-The recommended oral dose of zidovudine tablets is 480 mg per m2 per
-
-day in divided doses (240 mg per m2 twice daily or 160 mg per m2 three times daily).
+The recommended oral dose of zidovudine tablets is 480 mg per m2 per day in divided doses (240 mg per m2 twice daily or 160 mg per m2 three times daily).
 In some cases the dose calculated by mg per kg will not be the same as that calculated by BSA.
 
 ## 2.3 Prevention of Maternal-Fetal HIV-1 Transmission

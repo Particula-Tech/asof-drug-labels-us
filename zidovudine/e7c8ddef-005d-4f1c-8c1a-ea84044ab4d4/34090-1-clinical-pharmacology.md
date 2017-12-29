@@ -33,7 +33,7 @@ The AMT AUC was one-fifth of the zidovudine AUC.
 Pharmacokinetics of zidovudine were dose independent at oral dosing regimens ranging from 2 mg per kg every 8 hours to 10 mg per kg every 4 hours.
 Effect of Food on Absorption Zidovudine may be administered with or without food.
 The zidovudine AUC was similar when a single dose of zidovudine was administered with food.
-Specific Populations Renal Impairment: Zidovudine clearance was decreased resulting in increased zidovudine and GZDV half-life and AUC in subjects with impaired renal function (n = 14) following a single 200 mg oral dose (Table 8).
+Specific Populations Patients with Renal Impairment: Zidovudine clearance was decreased resulting in increased zidovudine and GZDV half-life and AUC in subjects with impaired renal function (n = 14) following a single 200 mg oral dose (Table 8).
 Plasma concentrations of AMT were not determined.
 No dose adjustment is recommended for patients with CrCl greater than or equal to 15 mL per min.
 
@@ -52,7 +52,7 @@ Daily doses of 500 mg or less were well tolerated despite significantly elevated
 Apparent zidovudine oral clearance was approximately 50% of that reported in subjects with normal renal function.
 Hemodialysis and peritoneal dialysis appeared to have a negligible effect on the removal of zidovudine, whereas GZDV elimination was enhanced.
 A dosage adjustment is recommended for patients undergoing hemodialysis or peritoneal dialysis [see Dosage and Administration (2.5)].
-Hepatic Impairment: Data describing the effect of hepatic impairment on the pharmacokinetics of zidovudine are limited.
+Patients with Hepatic Impairment: Data describing the effect of hepatic impairment on the pharmacokinetics of zidovudine are limited.
 However, zidovudine is eliminated primarily by hepatic metabolism and it appears that zidovudine clearance is decreased and plasma concentrations are increased in subjects with hepatic impairment.
 There are insufficient data to recommend dose adjustment of zidovudine in patients with impaired hepatic function or liver cirrhosis [see Dosage and Administration (2.6)].
 Pediatric Patients: Zidovudine pharmacokinetics have been evaluated in HIV-1-infected pediatric subjects (Table 9).
@@ -83,7 +83,7 @@ Zidovudine pharmacokinetics were similar to those of nonpregnant adults.
 Consistent with passive transmission of the drug across the placenta, zidovudine concentrations in neonatal plasma at birth were essentially equal to those in maternal plasma at delivery [see Use in Specific Populations (8.1)].
 Although data are limited, methadone maintenance therapy in 5 pregnant women did not appear to alter zidovudine pharmacokinetics.
 Geriatric Patients: Zidovudine pharmacokinetics have not been studied in subjects over 65 years of age.
-Gender: A pharmacokinetic trial in healthy male (n = 12) and female (n = 12) subjects showed no differences in zidovudine AUC when a single dose of zidovudine was administered as a 300 mg zidovudine tablet.
+Male and Female Patients: A pharmacokinetic trial in healthy male (n = 12) and female (n = 12) subjects showed no differences in zidovudine AUC when a single dose of zidovudine was administered as a 300 mg zidovudine tablet.
 Drug Interactions [See Drug Interactions (7).]
 
 Table 10.
@@ -119,7 +119,7 @@ The principal mode of action of ZDV-TP is inhibition of reverse transcriptase (R
 ZDV-TP is a weak inhibitor of the cellular DNA polymerases α and γ and has been reported to be incorporated into the DNA of cells in culture.
 Antiviral Activity The antiviral activity of zidovudine against HIV-1 was assessed in a number of cell lines including monocytes and fresh human peripheral blood lymphocytes.
 The EC50 and EC90 values for zidovudine were 0.01 to 0.49 microM (1 microM = 0.27 mcg per mL) and 0.1 to 9 microM, respectively.
-HIV-1 from therapy-naive subjects with no amino acid substitutions associated with resistance gave median EC50 values of 0.011 microM (range: 0.005 to 0.11 microM) from Virco (n = 92 baseline samples) and 0.0017 microM (range0.006 to 0.0340 microM) from Monogram Biosciences (n = 135 baseline samples).
+HIV-1 from therapy-naive subjects with no amino acid substitutions associated with resistance gave median EC50 values of 0.011 microM (range: 0.005 to 0.110 microM) from Virco (n = 92 baseline samples) and 0.0017 microM (range: 0.006 to 0.0340 microM) from Monogram Biosciences (n = 135 baseline samples).
 The EC50 values of zidovudine against different HIV-1 clades (A-G) ranged from 0.00018 to 0.02 microM, and against HIV-2 isolates from 0.00049 to 0.004 microM.
 Zidovudine was not antagonistic to tested anti-HIV agents with the exception of stavudine where an antagonistic relationship with zidovudine has been demonstrated in cell culture.
 Ribavirin has been found to inhibit the phosphorylation of zidovudine in cell culture.
