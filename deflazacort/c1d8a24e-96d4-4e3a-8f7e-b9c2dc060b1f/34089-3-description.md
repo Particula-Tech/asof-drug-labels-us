@@ -1,4 +1,4 @@
-# 11DESCRIPTION
+# 11 DESCRIPTION
 
 The active ingredient in EMFLAZA is deflazacort (a corticosteroid).
 Corticosteroids are adrenocortical steroids, both naturally occurring and synthetic.

@@ -1,4 +1,4 @@
-# 14CLINICAL STUDIES
+# 14 CLINICAL STUDIES
 
 The effectiveness of EMFLAZA for the treatment of DMD was established in Study 1, a multicenter, randomized, double-blind, placebo-controlled, 52-week study conducted in the US and Canada.
 The study population consisted of 196 male pediatric patients 5 to 15 years of age with documented mutation of the dystrophin gene, onset of weakness before 5 years of age, and serum creatinine kinase activity at least 10 times the upper limit of normal (ULN) at some stage in their illness.

@@ -1,4 +1,4 @@
-# 4CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
 EMFLAZA is contraindicated in patients with known hypersensitivity to deflazacort or to any of the inactive ingredients.
 Instances of hypersensitivity, including anaphylaxis, have occurred in patients receiving corticosteroid therapy [see Warnings and Precautions (5.15) and Adverse Reactions (6.2)].

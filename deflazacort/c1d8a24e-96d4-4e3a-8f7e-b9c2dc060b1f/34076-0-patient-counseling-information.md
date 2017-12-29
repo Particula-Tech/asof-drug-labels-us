@@ -1,22 +1,22 @@
-# 17PATIENT COUNSELING INFORMATION
+# 17 PATIENT COUNSELING INFORMATION
 
 Advise the patients and/or caregivers to read the FDA-approved patient labeling if EMFLAZA Oral Suspension is prescribed (Instructions for Use).
 
 Administration
 
-- Warn patients and/or caregivers to not stop taking EMFLAZA abruptly or without first checking with their healthcare providers as there may be a need for gradual dose reduction to decrease the risk of adrenal insufficiency [see Dosage and Administration (2.2) and Warnings and Precautions (5.1)].
-- EMFLAZA may be taken with or without food.
+- •Warn patients and/or caregivers to not stop taking EMFLAZA abruptly or without first checking with their healthcare providers as there may be a need for gradual dose reduction to decrease the risk of adrenal insufficiency [see Dosage and Administration (2.2) and Warnings and Precautions (5.1)].
+- •EMFLAZA may be taken with or without food.
 
 Tablets
 
-- EMFLAZA Tablets may be taken whole or crushed and taken immediately after mixing with applesauce.
+- •EMFLAZA Tablets may be taken whole or crushed and taken immediately after mixing with applesauce.
 
 Oral Suspension
 
-- EMFLAZA Oral Suspension must be shaken well prior to measuring out each dose with the enclosed oral dispenser.
-- The EMFLAZA Oral Suspension dose may be placed in 3-4 ounces of juice or milk, mixed thoroughly, and immediately administered.
+- •EMFLAZA Oral Suspension must be shaken well prior to measuring out each dose with the enclosed oral dispenser.
+- •The EMFLAZA Oral Suspension dose may be placed in 3-4 ounces of juice or milk, mixed thoroughly, and immediately administered.
   Do not take with grapefruit juice.
-- Discard any unused EMFLAZA Oral Suspension remaining after 1 month of first opening the bottle.
+- •Discard any unused EMFLAZA Oral Suspension remaining after 1 month of first opening the bottle.
 
 Increased Risk of Infection Tell patients and/or caregivers to inform their healthcare provider if the patient has had recent or ongoing infections or if they have recently received a vaccine.
 Medical advice should be sought immediately if the patient develops fever or other signs of infection.
@@ -48,5 +48,5 @@ EMFLAZA Oral Suspension made in Spain
 
 EMFLAZATM is a trademark of Marathon Pharmaceuticals, LLC.
 
-Feb.
-2017
+1. Feb.
+   2017

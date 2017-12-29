@@ -1,11 +1,11 @@
-# 12CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-## 12.1Mechanism of Action
+## 12.1 Mechanism of Action
 
 Deflazacort is a corticosteroid prodrug, whose active metabolite, 21-desDFZ, acts through the glucocorticoid receptor to exert anti-inflammatory and immunosuppressive effects.
 The precise mechanism by which deflazacort exerts its therapeutic effects in patients with DMD is unknown.
 
-## 12.3Pharmacokinetics
+## 12.3 Pharmacokinetics
 
 Absorption After oral administration in the fasted state, the median Tmax with deflazacort tablets or suspension is about 1 hour (range 0.25 to 2 hours).
 

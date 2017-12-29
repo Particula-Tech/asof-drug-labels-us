@@ -1,6 +1,6 @@
-# 5WARNINGS AND PRECAUTIONS
+# 5 WARNINGS AND PRECAUTIONS
 
-## 5.1Alterations in Endocrine Function
+## 5.1 Alterations in Endocrine Function
 
 Corticosteroids, such as EMFLAZA, can cause serious and life-threatening alterations in endocrine function, especially with chronic use.
 Monitor patients receiving EMFLAZA for Cushing’s syndrome, hyperglycemia, and adrenal insufficiency after EMFLAZA withdrawal.
@@ -132,19 +132,19 @@ Clinical improvement or recovery after stopping corticosteroids may require week
 Kaposi’s sarcoma has been reported to occur in patients receiving corticosteroid therapy, most often for chronic conditions.
 Discontinuation of corticosteroids may result in clinical improvement.
 
-## 5.13Risk of Serious Adverse Reactions in Infants because of Benzyl Alcohol Preservative
+## 5.13 Risk of Serious Adverse Reactions in Infants because of Benzyl Alcohol Preservative
 
 EMFLAZA Oral Suspension contains benzyl alcohol and is not approved for use in pediatric patients less than 5 years of age.
 Serious and fatal adverse reactions including “gasping syndrome” can occur in neonates and low birth weight infants treated with benzyl alcohol-preserved drugs.
 The “gasping syndrome” is characterized by central nervous system depression, metabolic acidosis, and gasping respirations.
 The minimum amount of benzyl alcohol at which serious adverse reactions may occur is not known (EMFLAZA Oral Suspension contains 10.45 mg of benzyl alcohol per mL; EMFLAZA Tablets do not contain benzyl alcohol) [see Use in Specific Populations (8.4)].
 
-## 5.14Thromboembolic Events
+## 5.14 Thromboembolic Events
 
 Observational studies have shown an increased risk of thromboembolism (including venous thromboembolism) particularly with higher cumulative doses of corticosteroids.
 It is unclear if risk differs by daily dose or duration of use.
 Use EMFLAZA with caution in patients who have or may be predisposed to thromboembolic disorders.
 
-## 5.15Anaphylaxis
+## 5.15 Anaphylaxis
 
 Rare instances of anaphylaxis have occurred in patients receiving corticosteroid therapy, including EMFLAZA.

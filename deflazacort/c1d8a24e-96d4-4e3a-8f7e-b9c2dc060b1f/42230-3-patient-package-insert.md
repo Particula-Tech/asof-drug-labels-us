@@ -12,21 +12,21 @@ This information does not take the place of talking to your healthcare provider 
 
 Important information before you use EMFLAZA oral suspension:
 
-- Only use the oral dispenser (see Figure A below) that comes in your EMFLAZA carton when using this medicine.
-- EMFLAZA oral suspension can be taken with or without food.
-- Take your dose of EMFLAZA oral suspension with juice or milk.
+- •Only use the oral dispenser (see Figure A below) that comes in your EMFLAZA carton when using this medicine.
+- •EMFLAZA oral suspension can be taken with or without food.
+- •Take your dose of EMFLAZA oral suspension with juice or milk.
   Do not take EMFLAZA with grapefruit juice.
-- Throw away (discard) any unused EMFLAZA oral suspension after 1 month of first opening the bottle.
-- Do not stop taking EMFLAZA oral suspension without talking to your healthcare provider first.
+- •Throw away (discard) any unused EMFLAZA oral suspension after 1 month of first opening the bottle.
+- •Do not stop taking EMFLAZA oral suspension without talking to your healthcare provider first.
 
 Preparing for your EMFLAZA oral suspension dose:
 
 You will need the following supplies: See Figure A.
 
-- 1 EMFLAZA oral suspension bottle
-- 1 oral dispenser (Two oral dispensers are included in the EMFLAZA oral suspension carton.
+- •1 EMFLAZA oral suspension bottle
+- •1 oral dispenser (Two oral dispensers are included in the EMFLAZA oral suspension carton.
   One is to be used to give [administer] the product and one extra oral dispenser is included as a spare, if needed.)
-- 1 household cup filled with 3 to 4 ounces of juice or milk
+- •1 household cup filled with 3 to 4 ounces of juice or milk
 
 Figure A
 
@@ -98,15 +98,15 @@ After the barrel and plunger are dry, put it back together by pushing the plunge
 
 How should I store EMFLAZA oral suspension?
 
-- Store the bottle upright at room temperature between 68°F to 77°F (20°C to 25°C).
-- Throw away (discard) any unused EMFLAZA oral suspension after 1 month of first opening the bottle.
+- •Store the bottle upright at room temperature between 68°F to 77°F (20°C to 25°C).
+- •Throw away (discard) any unused EMFLAZA oral suspension after 1 month of first opening the bottle.
 
 What are the ingredients in EMFLAZA oral suspension?
 Active ingredient: deflazacort (a corticosteroid) Inactive ingredients: acetic acid, aluminum magnesium silicate, benzyl alcohol, carboxymethylcellulose sodium, polysorbate 80, purified water, and sorbitol.
 
 Manufactured for: Marathon Pharmaceuticals, LLC, Northbrook, IL 60062, U.S.A.
 
-This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-EMFLAZA™ is a trademark of Marathon Pharmaceuticals, LLC.
+1. This Instructions for Use has been approved by the U.S. Food and Drug Administration.
+   EMFLAZA™ is a trademark of Marathon Pharmaceuticals, LLC.
 
 Issued: 02/2017

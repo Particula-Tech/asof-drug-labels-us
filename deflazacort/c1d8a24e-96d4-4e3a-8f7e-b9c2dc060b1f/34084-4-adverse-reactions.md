@@ -1,22 +1,22 @@
-# 6ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
 The following serious adverse reactions are discussed in more detail in other sections:
 
-- Alterations in Endocrine Function [see Warnings and Precautions (5.1)]
-- Immunosuppression and Increased Risk of Infection [see Warnings and Precautions (5.2)]
-- Alterations in Cardiovascular/Renal Function [see Warnings and Precautions (5.3)]
-- Gastrointestinal Perforation [see Warnings and Precautions (5.4)]
-- Behavioral and Mood Disturbances [see Warnings and Precautions (5.5)]
-- Effects on Bones [see Warnings and Precautions (5.6)]
-- Ophthalmic Effects [see Warnings and Precautions (5.7)]
-- Vaccination [see Warnings and Precautions (5.8)]
-- Serious Skin Rashes [see Warnings and Precautions (5.9)]
-- Effects on Growth and Development [see Warnings and Precautions (5.10)]
-- Myopathy [see Warnings and Precautions (5.11)]
-- Kaposi’s Sarcoma [see Warnings and Precautions (5.12)]
-- Risk of Serious Adverse Reactions in Infants because of Benzyl Alcohol Preservative [see Warnings and Precautions (5.13)]
-- Thromboembolic Events [see Warnings and Precautions (5.14)]
-- Anaphylaxis [see Warnings and Precautions (5.15)]
+- •Alterations in Endocrine Function [see Warnings and Precautions (5.1)]
+- •Immunosuppression and Increased Risk of Infection [see Warnings and Precautions (5.2)]
+- •Alterations in Cardiovascular/Renal Function [see Warnings and Precautions (5.3)]
+- •Gastrointestinal Perforation [see Warnings and Precautions (5.4)]
+- •Behavioral and Mood Disturbances [see Warnings and Precautions (5.5)]
+- •Effects on Bones [see Warnings and Precautions (5.6)]
+- •Ophthalmic Effects [see Warnings and Precautions (5.7)]
+- •Vaccination [see Warnings and Precautions (5.8)]
+- •Serious Skin Rashes [see Warnings and Precautions (5.9)]
+- •Effects on Growth and Development [see Warnings and Precautions (5.10)]
+- •Myopathy [see Warnings and Precautions (5.11)]
+- •Kaposi’s Sarcoma [see Warnings and Precautions (5.12)]
+- •Risk of Serious Adverse Reactions in Infants because of Benzyl Alcohol Preservative [see Warnings and Precautions (5.13)]
+- •Thromboembolic Events [see Warnings and Precautions (5.14)]
+- •Anaphylaxis [see Warnings and Precautions (5.15)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -44,7 +44,7 @@ Table 1: Adverse Reactions that Occurred in ≥ 5% of Deflazacort-Treated Patien
 | Rhinorrhea | 8 | 0 |
 | Abdominal discomfort | 6 | 2 |
 
-1 At 12 weeks placebo patients were re-randomized to receive either deflazacort or an active comparator.
+1. 1 At 12 weeks placebo patients were re-randomized to receive either deflazacort or an active comparator.
 
 Common adverse reactions (≥ 5% of deflazacort-treated patients) that occurred over 52 weeks of exposure to deflazacort 0.9 mg/kg/day in Study 1 and at a higher rate than deflazacort 0.9 mg/kg/day in the 12-week placebo-controlled phase of the trial include Cushingoid appearance (60%), hirsutism (35%), weight increased (28%), erythema (28%), central obesity (25%), abdominal pain/abdominal pain upper (18% combined), pollakiuria (15%), constipation (10%), irritability (10%), abnormal behavior (9%), pyrexia (9%), back pain (7%), rash (7%), contusion (6%), nausea (6%), psychomotor hyperactivity (6%), epistaxis (6%), and skin striae (6%).
 

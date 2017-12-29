@@ -1,6 +1,6 @@
-# 13NONCLINICAL TOXICOLOGY
+# 13 NONCLINICAL TOXICOLOGY
 
-## 13.1Carcinogenesis, Mutagenesis, Impairment of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Carcinogenesis In a published 2-year carcinogenicity study in rats, oral administration of deflazacort (0, 0.03, 0.06, 0.12, 0.25, 0.50, or 1.0 mg/kg/day) resulted in bone tumors (osteosarcoma and osteoma) of the head at 0.25 mg/kg/day, the highest evaluable dose.
 Doses higher than 0.25 mg/kg/day could not be evaluated for tumors because of a marked decrease in survival.
