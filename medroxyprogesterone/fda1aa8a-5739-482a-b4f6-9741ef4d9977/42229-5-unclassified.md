@@ -5,6 +5,6 @@ Rx only
 Amphastar Pharmaceuticals, Inc. Rancho Cucamonga, CA 91730
 
 Rev.
-01/17
+08/17
 
-6954006Q
+6954006R

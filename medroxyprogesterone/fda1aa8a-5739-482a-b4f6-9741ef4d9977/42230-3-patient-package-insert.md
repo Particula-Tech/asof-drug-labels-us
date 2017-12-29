@@ -130,5 +130,5 @@ Amphastar Pharmaceuticals, Inc. Rancho Cucamonga, CA 91730
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-6954006Q Rev.
-01/17
+6954006R Rev.
+08/17

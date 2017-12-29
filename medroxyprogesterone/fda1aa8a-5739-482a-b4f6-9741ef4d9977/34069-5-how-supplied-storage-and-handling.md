@@ -7,12 +7,16 @@ Medroxyprogesterone acetate injectable suspension, USP, 150 mg/mL is available a
 
 The 1 mL dose vials are packaged in individual cartons.
 
+| NDC 0548-5401-25 | 1 mL single dose vial | Stock No. 5401 |
+| --- | --- | --- |
+
+The 1 mL dose vials are packaged with 25 vials per carton.
+
 | NDC 0548-5701-00 | 1 mL single dose syringe | Stock No. 5701 |
 | --- | --- | --- |
 
 The 1 mL dose syringes are packaged in individual cartons.
-
-Each syringe is packaged with a 22 gauge × 1 1/2 inch needle with the Needle-Pro® EDGE Safety Device.
+Each syringe is packaged with a 22 gauge × 1 1/2 inch needle with the Needle-Pro® EDGETM Safety Device.
 
 Instructions for using the Needle: 1.
 WARNINGS for use with the Needle-Pro® EDGE™ Safety Device: 1.1 A needle stick with a contaminated needle may cause infectious diseases.
