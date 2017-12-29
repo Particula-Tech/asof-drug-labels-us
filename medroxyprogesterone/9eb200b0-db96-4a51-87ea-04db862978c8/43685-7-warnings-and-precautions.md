@@ -103,28 +103,28 @@ If examination reveals papilledema or retinal vascular lesions, estrogen plus pr
 
 ## A. General
 
-- 1.Addition of a progestin when a woman has not had a hysterectomy
-- Studies of the addition of a progestin for 10 or more days of a cycle of estrogen administration, or daily with estrogen in a continuous regimen, have reported a lowered incidence of endometrial hyperplasia than would be induced by estrogen treatment alone.
-  Endometrial hyperplasia may be a precursor to endometrial cancer.
-- There are, however, possible risks that may be associated with the use of progestins with estrogens compared to estrogen-alone regimens.
-  These include an increased risk of breast cancer.
-- 2.Unexpected abnormal vaginal bleeding
-- In cases of unexpected abnormal vaginal bleeding, adequate diagnostic measures are indicated.
-- 3.Elevated blood pressure
-- Blood pressure should be monitored at regular intervals with estrogen plus progestin therapy.
-- 4.Hypertriglyceridemia
-- In women with pre-existing hypertriglyceridemia, estrogen plus progestin therapy may be associated with elevations of plasma triglycerides leading to pancreatitis.
-  Consider discontinuation of treatment if pancreatitis occurs.
-- 5.Hepatic Impairment and/or past history of cholestatic jaundice
-- Estrogens plus progestins may be poorly metabolized in women with impaired liver function.
-  For women with a history of cholestatic jaundice associated with past estrogen use or with pregnancy, caution should be exercised, and in the case of recurrence, medication should be discontinued.
-- 6.Fluid Retention
-- Progestins may cause some degree of fluid retention.
-  Women who have conditions which might be influenced by this factor, such as cardiac or renal impairment, warrant careful observation when estrogen plus progestin are prescribed.
-- 7.Hypocalcemia
-- Estrogen plus progestin therapy should be used with caution in women with hypoparathyroidism as estrogen-induced hypocalcemia may occur.
-- 8.Exacerbation of other conditions
-- Estrogen plus progestin therapy may cause an exacerbation of asthma, diabetes mellitus, epilepsy, migraine, porphyria, systemic lupus erythematosus, and hepatic hemangiomas and should be used with caution in women with these conditions.
+1. 1.Addition of a progestin when a woman has not had a hysterectomy
+2. Studies of the addition of a progestin for 10 or more days of a cycle of estrogen administration, or daily with estrogen in a continuous regimen, have reported a lowered incidence of endometrial hyperplasia than would be induced by estrogen treatment alone.
+   Endometrial hyperplasia may be a precursor to endometrial cancer.
+3. There are, however, possible risks that may be associated with the use of progestins with estrogens compared to estrogen-alone regimens.
+   These include an increased risk of breast cancer.
+4. 2.Unexpected abnormal vaginal bleeding
+5. In cases of unexpected abnormal vaginal bleeding, adequate diagnostic measures are indicated.
+6. 3.Elevated blood pressure
+7. Blood pressure should be monitored at regular intervals with estrogen plus progestin therapy.
+8. 4.Hypertriglyceridemia
+9. In women with pre-existing hypertriglyceridemia, estrogen plus progestin therapy may be associated with elevations of plasma triglycerides leading to pancreatitis.
+   Consider discontinuation of treatment if pancreatitis occurs.
+10. 5.Hepatic Impairment and/or past history of cholestatic jaundice
+11. Estrogens plus progestins may be poorly metabolized in women with impaired liver function.
+    For women with a history of cholestatic jaundice associated with past estrogen use or with pregnancy, caution should be exercised, and in the case of recurrence, medication should be discontinued.
+12. 6.Fluid Retention
+13. Progestins may cause some degree of fluid retention.
+    Women who have conditions which might be influenced by this factor, such as cardiac or renal impairment, warrant careful observation when estrogen plus progestin are prescribed.
+14. 7.Hypocalcemia
+15. Estrogen plus progestin therapy should be used with caution in women with hypoparathyroidism as estrogen-induced hypocalcemia may occur.
+16. 8.Exacerbation of other conditions
+17. Estrogen plus progestin therapy may cause an exacerbation of asthma, diabetes mellitus, epilepsy, migraine, porphyria, systemic lupus erythematosus, and hepatic hemangiomas and should be used with caution in women with these conditions.
 
 ## B. Patient Information
 
@@ -143,15 +143,15 @@ Inform the patient of the importance of reporting exposure to medroxyprogesteron
 
 The following laboratory results may be altered by the use of estrogen plus progestin therapy:
 
-- 1.Accelerated prothrombin time, partial thromboplastin time, and platelet aggregation time; increased platelet count; increased factors II, VII antigen, VIII antigen, VIII coagulant activity, IX, X, XII, VII-X complex, II-VII-X complex, and beta-thromboglobulin; decreased levels of anti-factor Xa and antithrombin III, decreased antithrombin III activity; increased levels of fibrinogen and fibrinogen activity; increased plasminogen antigen and activity.
-- 2.Increased thyroid-binding globulin (TBG) levels leading to increased circulating total thyroid hormone levels as measured by protein-bound iodine (PBI), T4 levels (by column or by radioimmunoassay) or T3 levels by radioimmunoassay, T3 resin uptake is decreased, reflecting the elevated TBG.
-  Free T4 and free T3 concentrations are unaltered.
-  Women on thyroid replacement therapy may require higher doses of thyroid hormone.
-- 3.Other binding proteins may be elevated in serum for example, corticosteroid binding globulin (CBG), sex hormone binding globulin (SHBG) leading to increased circulating corticosteroid and sex steroids, respectively.
-  Free hormone concentrations, such as testosterone and estradiol, may be decreased.
-  Other plasma proteins may be increased (angiotensinogen/renin substrate, alpha-1-antitrypsin, ceruloplasmin).
-- 4.Increased plasma high-density lipoprotein (HDL) and HDL2 cholesterol subfraction concentrations, reduced low-density lipoprotein (LDL) cholesterol concentration, increased triglycerides levels.
-- 5.Impaired glucose tolerance.
+1. 1.Accelerated prothrombin time, partial thromboplastin time, and platelet aggregation time; increased platelet count; increased factors II, VII antigen, VIII antigen, VIII coagulant activity, IX, X, XII, VII-X complex, II-VII-X complex, and beta-thromboglobulin; decreased levels of anti-factor Xa and antithrombin III, decreased antithrombin III activity; increased levels of fibrinogen and fibrinogen activity; increased plasminogen antigen and activity.
+2. 2.Increased thyroid-binding globulin (TBG) levels leading to increased circulating total thyroid hormone levels as measured by protein-bound iodine (PBI), T4 levels (by column or by radioimmunoassay) or T3 levels by radioimmunoassay, T3 resin uptake is decreased, reflecting the elevated TBG.
+   Free T4 and free T3 concentrations are unaltered.
+   Women on thyroid replacement therapy may require higher doses of thyroid hormone.
+3. 3.Other binding proteins may be elevated in serum for example, corticosteroid binding globulin (CBG), sex hormone binding globulin (SHBG) leading to increased circulating corticosteroid and sex steroids, respectively.
+   Free hormone concentrations, such as testosterone and estradiol, may be decreased.
+   Other plasma proteins may be increased (angiotensinogen/renin substrate, alpha-1-antitrypsin, ceruloplasmin).
+4. 4.Increased plasma high-density lipoprotein (HDL) and HDL2 cholesterol subfraction concentrations, reduced low-density lipoprotein (LDL) cholesterol concentration, increased triglycerides levels.
+5. 5.Impaired glucose tolerance.
 
 ## D. Carcinogenesis, Mutagenesis, Impairment of Fertility
 

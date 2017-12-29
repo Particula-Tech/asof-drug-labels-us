@@ -7,7 +7,7 @@ It is freely soluble in chloroform, soluble in acetone and in dioxane, sparingly
 The chemical name for medroxyprogesterone acetate is pregn-4-ene-3, 20-dione, 17-(acetyloxy)-6-methyl-, (6α)-.
 The structural formula is:
 
-- C24H34O4 M.W.
-  386.53
+1. C24H34O4 M.W.
+   386.53
 
 Each tablet, for oral administration, contains 2.5 mg, 5 mg or 10 mg of medroxyprogesterone acetate, USP and the following inactive ingredients: crospovidone, lactose monohydrate, magnesium stearate, methylcellulose, pregelatinized corn starch, and sodium lauryl sulfate.
