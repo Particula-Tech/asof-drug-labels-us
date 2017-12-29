@@ -2,7 +2,11 @@
 
 For more information or to speak to a healthcare professional, call 1-800-422-8689 or visit our website at www.mywaypill.com
 
-Levonorgestrel Tablet Emergency Contraceptive What You Need to Know
+Levonorgestrel Tablet
+
+Emergency Contraceptive
+
+What You Need to Know
 
 What is Levonorgestrel Tablet?
 
@@ -21,16 +25,22 @@ You should use Levonorgestrel Tablet within 72 hours (3 days) after you have had
 
 Levonorgestrel Tablet is a backup or emergency method of birth control you can use when:
 
-- Your regular birth control was used incorrectly or failed
-- You did not use any birth control method
+- your regular birth control was used incorrectly or failed
+- you did not use any birth control method
 
 When not to use Levonorgestrel Tablet.
 
 Levonorgestrel Tablet should not be used:
 
-- as a regular birth control method, because it’s not as effective as regular birth control.
+- as a regular birth control method, because it's not as effective as regular birth control.
 - if you are already pregnant, because it will not work.
 - if you are allergic to levonorgestrel or any other ingredients in Levonorgestrel Tablet.
+
+When should I talk to a doctor or pharmacist?
+
+Ask a doctor or pharmacist before use if you are taking efavirenz (HIV medication) or rifampin (tuberculosis treatment) or medication for seizures (epilepsy).
+These medications may reduce the effectiveness of Levonorgestrel Tablet and increase your chance of becoming pregnant.
+Your doctor may prescribe another form of emergency contraception that may not be affected by these medications.
 
 How does Levonorgestrel Tablet work?
 
@@ -83,11 +93,13 @@ Active ingredient: levonorgestrel 1.5 mg
 
 Inactive ingredients: colloidal silicon dioxide, pregelatinized starch, lactose monohydrate magnesium stearate, and talc
 
-If you are sexually active, you should see a healthcare provider for routine checkups.
-Your healthcare provider will talk to you about and, if necessary, test you for sexually transmitted diseases, teach you about effective methods of routine birth control, and answer any other questions you may have.
-
 Manufactured by:
 
-Novel Laboratories, Inc. Somerset, NJ 08873
+Novel Laboratories, Inc
 
-Iss: 07/2013
+Somerset, NJ 08873
+
+P16223000102 Rev.
+09/2017
+
+1-800-422-8689 www.mywaypill.com

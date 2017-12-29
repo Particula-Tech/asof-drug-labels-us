@@ -4,11 +4,9 @@ In case of overdose, get medical help or contact a Poison Control center right a
 
 Directions
 
-- women 17 years of age and older:
-
 - take as soon as possible within 72 hours (3 days) after unprotected sex.
   The sooner you take it the better it will work.
-- if you vomit within 2 hours after taking the medication, call a healthcare professional to find out if you should repeat the dose
+- if you vomit within 2 hours after taking the medication, call a healthcare professional to find out if you should repeat the dose.
 
 Other information
 
