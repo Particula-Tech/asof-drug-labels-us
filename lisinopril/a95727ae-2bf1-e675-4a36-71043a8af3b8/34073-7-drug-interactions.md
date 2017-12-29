@@ -49,3 +49,8 @@ Nitritoid reactions (symptoms include facial flushing, nausea, vomiting and hypo
 
 Patients taking concomitant mTOR inhibitor (e.g. temsirolimus, sirolimus, everolimus) therapy may be at increased risk for angioedema.
 [see Warnings and Precautions (5.2)]
+
+## 7.8 Neprilysin Inhibitor
+
+Patients taking concomitant neprilysin inhibitors may be at increased risk for angioedema.
+[see Warnings and Precautions (5.2)]

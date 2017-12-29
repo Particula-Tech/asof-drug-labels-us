@@ -5,9 +5,9 @@
 Two dose-response studies utilizing a once-daily regimen were conducted in 438 mild to moderate hypertensive patients not on a diuretic.
 Blood pressure was measured 24 hours after dosing.
 An antihypertensive effect of Zestril was seen with 5 mg of Zestril in some patients.
-However, in both studies blood pressure reduction occurred sooner and was greater in patients treated with 10, 20 or 80 mg of Zestril than patients treated with 5 mg of Zestril.
+However, in both studies blood pressure reduction occurred sooner and was greater in patients treated with 10 mg, 20 mg or 80 mg of Zestril than patients treated with 5 mg of Zestril.
 
-In controlled clinical studies of patients with mild to moderate hypertension, patients were treated with Zestril 20-80 mg daily, hydrochlorothiazide 12.5-50 mg daily or atenolol 50-200 mg daily; and in other studies of patients with moderate to severe hypertension, patients were treated with Zestril 20-80 mg daily or metoprolol 100-200 mg daily.
+In controlled clinical studies of patients with mild to moderate hypertension, patients were treated with Zestril 20 mg to 80 mg daily, hydrochlorothiazide 12.5 mg to 50 mg daily or atenolol 50 mg to 200 mg daily; and in other studies of patients with moderate to severe hypertension, patients were treated with Zestril 20 mg to 80 mg daily or metoprolol 100 mg to 200 mg daily.
 Zestril demonstrated superior reductions of systolic and diastolic compared to hydrochlorothiazide in a population that was 75% Caucasian.
 Zestril was approximately equivalent to atenolol and metoprolol in reducing diastolic blood pressure, and had somewhat greater effects on systolic blood pressure.
 
@@ -20,7 +20,7 @@ Data from several small studies are inconsistent with respect to the effect of l
 
 In patients with renovascular hypertension Zestril has been shown to be well tolerated and effective in reducing blood pressure [see Warnings and Precautions (5.3)].
 
-Pediatric Patients: In a clinical study involving 115 hypertensive pediatric patients 6 to 16 years of age, patients who weighed < 50 kg received either 0.625, 2.5 or 20 mg of Zestril once daily and patients who weighed ≥ 50 kg received either 1.25, 5, or 40 mg of Zestril once daily.
+Pediatric Patients: In a clinical study involving 115 hypertensive pediatric patients 6 to 16 years of age, patients who weighed < 50 kg received either 0.625 mg, 2.5 mg or 20 mg of Zestril once daily and patients who weighed ≥ 50 kg received either 1.25 mg, 5 mg, or 40 mg of Zestril once daily.
 At the end of 2 weeks, Zestril lowered trough blood pressure in a dose-dependent manner with antihypertensive efficacy demonstrated at doses > 1.25 mg (0.02 mg per kg).
 This effect was confirmed in a randomized withdrawal phase, where the diastolic pressure rose by about 9 mmHg more in patients randomized to placebo than compared to patients who remained on the middle and high doses of lisinopril.
 The dose-dependent antihypertensive effect of Zestril was consistent across several demographic subgroups: age, Tanner stage, gender, and race.
@@ -33,7 +33,7 @@ In the above pediatric studies, Zestril was given either as tablets or in a susp
 In two placebo controlled, 12-week clinical studies compared the addition of Zestril up to 20 mg daily to digitalis and diuretics alone.
 The combination of Zestril, digitalis and diuretics reduced the following signs and symptoms of heart failure: edema, rales, paroxysmal nocturnal dyspnea and jugular venous distention.
 In one of the studies, the combination of Zestril, digitalis and diuretics reduced orthopnea, presence of third heart sound and the number of patients classified as NYHA Class III and IV; and improved exercise tolerance.
-A large (over 3000 patients) survival study, the ATLAS Trial, comparing 2.5 and 35 mg of lisinopril in patients with systolic heart failure, showed that the higher dose of lisinopril had outcomes at least as favorable as the lower dose.
+A large (over 3000 patients) survival study, the ATLAS Trial, comparing 2.5 mg and 35 mg of lisinopril in patients with systolic heart failure, showed that the higher dose of lisinopril had outcomes at least as favorable as the lower dose.
 
 During baseline-controlled clinical trials, in patients with systolic heart failure receiving digitalis and diuretics, single doses of Zestril resulted in decreases in pulmonary capillary wedge pressure, systemic vascular resistance and blood pressure accompanied by an increase in cardiac output and no change in heart rate.
 

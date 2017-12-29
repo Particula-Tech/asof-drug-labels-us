@@ -10,8 +10,8 @@ When pregnancy is detected, discontinue Zestril as soon as possible [see Use in 
 
 ## 5.2 Angioedema and Anaphylactoid Reactions
 
-Patients taking concomitant mTOR inhibitor (e.g. temsirolimus, sirolimus, everolimus) therapy may be at increased risk for angioedema.
-[see Drug Interactions (7.7)].
+Patients taking concomitant mTOR inhibitor (e.g. temsirolimus, sirolimus, everolimus) therapy or a neprilysin inhibitor may be at increased risk for angioedema.
+[see Drug Interactions (7.7, 7.8)].
 
 Angioedema
 

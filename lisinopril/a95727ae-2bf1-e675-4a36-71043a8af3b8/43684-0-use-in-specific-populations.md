@@ -10,7 +10,7 @@ Most epidemiologic studies examining fetal abnormalities after exposure to antih
 When pregnancy is detected, discontinue Zestril as soon as possible.
 
 The estimated background risk of major birth defects and miscarriage for the indicated population(s) are unknown.
-In the general U.S. population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+In the general U.S. population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
 Clinical Considerations
 
@@ -45,7 +45,7 @@ Because of the potential for severe adverse reactions in the breastfed infant, a
 Antihypertensive effects and safety of Zestril have been established in pediatric patients aged 6 to 16 years [see Dosage and Administration (2.1) and Clinical Studies (14.1)].
 No relevant differences between the adverse reaction profile for pediatric patients and adult patients were identified.
 
-Safety and effectiveness of Zestril have not been established in pediatric patients under the age 6 or in pediatric patients with glomerular filtration rate < 30 mL/min/1.73 m2 [see Dosage and Administration (2.1), Clinical Pharmacology (12.3), and Clinical Studies (14.1)].
+Safety and effectiveness of Zestril have not been established in pediatric patients under the age 6 or in pediatric patients with glomerular filtration rate < 30 mL/min/1.73 m2[seeDosage and Administration (2.1), Clinical Pharmacology (12.3), and Clinical Studies (14.1)].
 
 Neonates with a history of in utero exposure to Zestril
 

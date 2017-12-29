@@ -4,7 +4,11 @@ ONCE-DAILY ZESTRIL® (LISINOPRIL)
 
 2.5 mg tablets
 
-Rx only Manufactured by: AstraZeneca UK Limited, Macclesfield, UK Distributed by: Almatica Pharma, Inc. Pine Brook, NJ 07058 USA
+Rx only
+
+Manufactured by: AstraZeneca UK Limited, Macclesfield, UK
+
+Distributed by: Almatica Pharma, Inc. Pine Brook, NJ 07058 USA
 
 Almatica®
 
@@ -14,7 +18,9 @@ ONCE-DAILY ZESTRIL® (LISINOPRIL)
 
 5 mg tablets
 
-Rx only Manufactured by: AstraZeneca UK Limited, Macclesfield, UK Distributed by: Almatica Pharma, Inc. Pine Brook, NJ 07058 USA
+Rx only
+
+Manufactured by: AstraZeneca UK Limited, Macclesfield, UK Distributed by: Almatica Pharma, Inc. Pine Brook, NJ 07058 USA
 
 Almatica®
 

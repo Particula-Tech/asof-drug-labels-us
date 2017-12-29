@@ -78,7 +78,7 @@ Other reactions include:
 
 Metabolism and nutrition disorders
 
-Hyponatremia [see Warnings and Precautions (5.4)], cases of hypoglycemia in diabetic patients on oral antidiabetic agents or insulin [see Drug Interactions (7.2)]
+Hyponatremia [see Warnings and Precautions (5.4)], cases of hypoglycemia in diabetic patients on oral antidiabetic agents or insulin [see Drug Interactions (7.2)].
 
 Nervous system and psychiatric disorders
 

@@ -4,7 +4,7 @@
 
 Initial Therapy in adults: The recommended initial dose is 10 mg once a day.
 Dosage should be adjusted according to blood pressure response.
-The usual dosage range is 20 to 40 mg per day administered in a single daily dose.
+The usual dosage range is 20 mg to 40 mg per day administered in a single daily dose.
 Doses up to 80 mg have been used but do not appear to give greater effect.
 
 Use with diuretics in adults
@@ -20,7 +20,7 @@ For pediatric patients with glomerular filtration rate > 30 mL/min/1.73m2, the r
 Dosage should be adjusted according to blood pressure response up to a maximum of 0.61 mg per kg (up to 40 mg) once daily.
 Doses above 0.61 mg per kg (or in excess of 40 mg) have not been studied in pediatric patients [see Clinical Pharmacology (12.3)].
 
-Zestril is not recommended in pediatric patients < 6 years or in pediatric patients with glomerular filtration rate < 30 mL/min/1.73m2 [see Use in Specific Populations (8.4) and Clinical Studies (14.1)].
+Zestril is not recommended in pediatric patients < 6 years or in pediatric patients with glomerular filtration rate < 30 mL/min/1.73m2[see Use in Specific Populations (8.4) and Clinical Studies (14.1)].
 
 ## 2.2 Heart Failure
 
