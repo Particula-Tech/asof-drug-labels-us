@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Macrobid is available as 100 mg opaque black and yellow capsules imprinted “(Band) Macrobid (Band)” on one half and “52427-285” on the other.
+Macrobid is available as 100 mg opaque black and yellow capsules imprinted “(band) Macrobid (band)” on one half and “52427-285” on the other.
 
 NDC 52427-285-01 bottle of 100
 
