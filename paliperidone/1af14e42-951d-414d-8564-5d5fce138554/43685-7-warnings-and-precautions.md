@@ -59,7 +59,7 @@ Whether antipsychotic drug products differ in their potential to cause tardive d
 
 The risk of developing tardive dyskinesia and the likelihood that it will become irreversible appear to increase as the duration of treatment and the total cumulative dose of antipsychotic drugs administered to the patient increase, but the syndrome can develop after relatively brief treatment periods at low doses, although this is uncommon.
 
-There is no known treatment for established tardive dyskinesia, although the syndrome may remit, partially or completely, if antipsychotic treatment is withdrawn.
+The syndrome may remit, partially or completely, if antipsychotic treatment is withdrawn.
 Antipsychotic treatment itself may suppress (or partially suppress) the signs and symptoms of the syndrome and may thus mask the underlying process.
 The effect of symptomatic suppression on the long-term course of the syndrome is unknown.
 

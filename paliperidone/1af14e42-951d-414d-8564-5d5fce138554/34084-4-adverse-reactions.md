@@ -28,6 +28,10 @@ The data described in this section are derived from a clinical trial database co
 Among the 3817 INVEGA SUSTENNA®-treated subjects, 1293 received INVEGA SUSTENNA® in four fixed-dose, double-blind, placebo-controlled trials (one 9-week and three 13-week studies), 849 received INVEGA SUSTENNA® in the maintenance trial (median exposure 229 days during the initial 33-week open-label phase of this study, of whom 205 continued to receive INVEGA SUSTENNA® during the double-blind placebo-controlled phase of this study [median exposure 171 days]), and 1675 received INVEGA SUSTENNA® in five non-placebo controlled trials (three noninferiority active-comparator trials, one long-term open-label pharmacokinetic and safety study, and an injection site [deltoid-gluteal] cross-over trial).
 One of the 13-week studies included a 234 mg INVEGA SUSTENNA® initiation dose followed by treatment with either 39 mg, 156 mg, or 234 mg every 4 weeks.
 
+The safety of INVEGA SUSTENNA® was also evaluated in a 15-month, long-term study comparing INVEGA SUSTENNA® to selected oral antipsychotic therapies in adult subjects with schizophrenia.
+A total of 226 subjects received INVEGA SUSTENNA® during the 15-month, open-label period of this study; 218 subjects received selected oral antipsychotic therapies.
+The safety of INVEGA SUSTENNA® was similar to that seen in previous double-blind, placebo-controlled clinical trials in adult subjects with schizophrenia.
+
 The safety of INVEGA SUSTENNA® was also evaluated in a long-term study in adult subjects with schizoaffective disorder.
 A total of 667 subjects received INVEGA SUSTENNA® during the initial 25-week open-label period of this study (median exposure 147 days); 164 subjects continued to receive INVEGA SUSTENNA® during the 15-month double-blind placebo-controlled period of this study (median exposure 446 days).
 Adverse reactions that occurred more frequently in the INVEGA SUSTENNA® than the placebo group (a 2% difference or more between groups) were weight increased, nasopharyngitis, headache, hyperprolactinemia, and pyrexia.
@@ -112,11 +116,11 @@ Metabolism and nutrition disorders: decreased appetite, hyperinsulinemia, increa
 
 Musculoskeletal and connective tissue disorders: arthralgia, joint stiffness, muscle rigidity, muscle spasms, muscle tightness, muscle twitching, nuchal rigidity
 
-Nervous system disorders: bradykinesia, cerebrovascular accident, convulsion, dizziness postural, drooling, dysarthria, dyskinesia, dystonia, hypertonia, lethargy, oromandibular dystonia, parkinsonism, psychomotor hyperactivity, syncope
+Nervous system disorders: bradykinesia, cerebrovascular accident, cogwheel rigidity, convulsion, dizziness postural, drooling, dysarthria, dyskinesia, dystonia, hypertonia, lethargy, oromandibular dystonia, parkinsonism, psychomotor hyperactivity, syncope
 
-Psychiatric disorders: insomnia, restlessness
+Psychiatric disorders: insomnia, libido decreased, restlessness
 
-Reproductive system and breast disorders: amenorrhea, breast discharge, erectile dysfunction, galactorrhea, gynecomastia, menstrual disorder, menstruation delayed, menstruation irregular, sexual dysfunction
+Reproductive system and breast disorders: amenorrhea, breast discharge, breast enlargement/breast swelling, breast tenderness/breast pain, ejaculation disorder, erectile dysfunction, galactorrhea, gynecomastia, menstrual disorder, menstruation delayed, menstruation irregular, sexual dysfunction
 
 Respiratory, thoracic and mediastinal disorders: nasal congestion
 
@@ -183,7 +187,7 @@ Investigator ratings of injection pain were similar for the placebo and INVEGA S
 Investigator evaluations of the injection site after the first injection for redness, swelling, induration, and pain were rated as absent for 69–100% of subjects in both the INVEGA SUSTENNA® and placebo groups.
 At Day 92, investigators rated absence of redness, swelling, induration, and pain in 95–100% of subjects in both the INVEGA SUSTENNA® and placebo groups.
 
-Adverse Reactions Reported in Clinical Trials with Oral Paliperidone
+Additional Adverse Reactions Reported in Clinical Trials with Oral Paliperidone
 
 The following is a list of additional adverse reactions that have been reported in clinical trials with oral paliperidone:
 
@@ -199,11 +203,11 @@ Infections and infestations: rhinitis
 
 Musculoskeletal and connective tissue disorders: musculoskeletal pain, torticollis, trismus
 
-Nervous system disorders: cogwheel rigidity, grand mal convulsion, parkinsonian gait, transient ischemic attack
+Nervous system disorders: grand mal convulsion, parkinsonian gait, transient ischemic attack
 
 Psychiatric disorders: sleep disorder
 
-Reproductive system and breast disorders: breast engorgement, breast tenderness/breast pain, retrograde ejaculation
+Reproductive system and breast disorders: breast engorgement
 
 Respiratory, thoracic and mediastinal disorders: pharyngolaryngeal pain, pneumonia aspiration
 

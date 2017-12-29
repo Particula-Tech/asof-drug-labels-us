@@ -1,10 +1,5 @@
 # 14 CLINICAL STUDIES
 
-The efficacy of INVEGA SUSTENNA® was established in the following adequate and well-controlled trials:
-
-- Four short-term, fixed-dose trials and one maintenance trial in adults with schizophrenia as monotherapy [see Clinical Studies (14.1)]
-- One long-term, flexible-dose maintenance trial in adults with schizoaffective disorder as monotherapy or as adjunctive therapy to a mood stabilizer or antidepressant [see Clinical Studies (14.2)]
-
 ## 14.1 Schizophrenia
 
 Short-Term Monotherapy (Studies 1, 2, 3, 4)
@@ -63,6 +58,41 @@ An examination of population subgroups did not reveal any clinically significant
 
 Figure 3: Kaplan-Meier Plot of Cumulative Proportion of Subjects with Relapse Over Time (Schizophrenia Study 5)
 
+Long-Term Comparative Monotherapy Treatment versus Oral Antipsychotic Therapy (Study 6: SCH-3006)
+
+The efficacy of INVEGA SUSTENNA® in delaying time to treatment failure compared with selected oral antipsychotic medications was established in a long-term, randomized, flexible-dose study in subjects with schizophrenia and a history of incarceration.
+Subjects were screened for up to 14 days followed by a 15-month treatment phase during which they were observed for treatment failure.
+
+The primary endpoint was time to first treatment failure.
+Treatment failure was defined as one of the following: arrest and/or incarceration; psychiatric hospitalization; discontinuation of antipsychotic treatment because of safety or tolerability; treatment supplementation with another antipsychotic because of inadequate efficacy; need for increase in level of psychiatric services to prevent an imminent psychiatric hospitalization; discontinuation of antipsychotic treatment because of inadequate efficacy; or suicide.
+Treatment failure was determined by an Event Monitoring Board (EMB) that was blinded to treatment assignment.
+A total of 444 subjects were randomly assigned to either INVEGA SUSTENNA® (N = 226; median dose 156 mg) or one of up to seven pre-specified, flexibly-dosed, commonly prescribed oral antipsychotic medications (N = 218; aripiprazole, haloperidol, olanzapine, paliperidone, perphenazine, quetiapine, or risperidone).
+The selection of the oral antipsychotic medication was determined to be appropriate for the patient by the investigator.
+A statistically significantly longer time to first treatment failure was seen for INVEGA SUSTENNA® compared with oral antipsychotic medications.
+The median time to treatment failure was 416 days and 226 days for INVEGA SUSTENNA® and antipsychotic medications, respectively.
+A Kaplan-Meier plot of time to first treatment failure is shown in Figure 4.
+The frequencies of first treatment failure events by type are shown in Table 15.
+The time to first arrest and/or incarceration or psychiatric hospitalization was also statistically significantly longer for the INVEGA SUSTENNA® group compared to the oral antipsychotic group.
+
+Figure 4: Kaplan-Meier Plot of Time to First Treatment Failure in a Long-Term, Randomized, Flexible-Dose Study in Subjects with Schizophrenia and a History of Incarceration (Schizophrenia Study 6)
+
+* Median time to first treatment failure: 416 days with INVEGA SUSTENNA®; 226 days with oral antipsychotics
+
+Table 15: Components of Composite Endpoint in a Long-Term, Randomized, Flexible-Dose Study in Subjects with Schizophrenia and a History of Incarceration (Schizophrenia Study 6)
+
+| Event Type | INVEGA SUSTENNA® N=226 frequency (%) | Oral Antipsychotics N=218 frequency (%) | Hazard RatioHazard ratio of INVEGA SUSTENNA® to Oral Antipsychotics based on Cox regression model for time-to-event analysis. Note that the hazard ratio did not appear constant throughout the trial. [95% CI] |
+| --- | --- | --- | --- |
+| First Treatment Failures | 90 (39.8%) | 117 (53.7%) | 0.70 [0.53, 0.92] |
+| First Treatment Failure Component Events |  |  |  |
+| Arrest and/or incarceration | 48 (21.2%) | 64 (29.4%) |  |
+| Psychiatric hospitalization | 18 (8.0%) | 26 (11.9%) |  |
+| Discontinuation of antipsychotic treatment because of safety or tolerability | 15 (6.6%) | 8 (3.7%) |  |
+| Treatment supplementation with another antipsychotic because of inadequate efficacy | 5 (2.2%) | 6 (2.8%) |  |
+| Need for increase in level of psychiatric services to prevent an imminent psychiatric hospitalization | 3 (1.3%) | 4 (1.8%) |  |
+| Discontinuation of antipsychotic treatment because of inadequate efficacy | 1 (0.4%) | 9 (4.1%) |  |
+| Suicide | 0 | 0 |  |
+| Arrest and/or Incarceration or Psychiatric Hospitalization Events, regardless of whether they were first eventsAnalysis results, which incorporated relevant events collected after discontinuation for those who discontinued, were consistent with the results from the pre-specified analysis of this secondary endpoint. | 76 (33.6%) | 98 (45.0%) | 0.70 [0.52, 0.94] |
+
 ## 14.2 Schizoaffective Disorder
 
 Maintenance Treatment – Monotherapy and as Adjunct to Mood Stabilizer or Antidepressant (SAff Study 1: SCA-3004)
@@ -83,13 +113,13 @@ The primary efficacy variable was time to relapse.
 Relapse was defined as the first occurrence of one or more of the following: 1) psychiatric hospitalization; 2) intervention employed to avert hospitalization; 3) clinically significant self-injury, suicidal or homicidal ideation or violent behavior; 4) a score of ≥6 (if the score was ≤4 at randomization) of any of the individual PANSS items: delusions, conceptual disorganization, hallucinatory behavior, excitement, suspiciousness/persecution, hostility, uncooperativeness, or poor impulse control; 5) on two consecutive assessments within 7 days: ≥25% increase (if the score at randomization was >45) or ≥10-point increase (if the score at randomization was ≤45) in total PANSS score; a score of ≥5 (if the score was ≤3 at randomization) of any of the individual PANSS items: delusions, conceptual disorganization, hallucinatory behavior, excitement, suspiciousness/persecution, hostility, uncooperativeness, or poor impulse control; an increase of ≥2 points (if the score was 1 [not ill] to 3 [mildly ill] at randomization) or increase of ≥1 point (if the score was ≥4 [moderately ill or worse] at randomization) in CGI-S-SCA overall score.
 
 There was a statistically significant difference in time to relapse between the treatment groups in favor of INVEGA SUSTENNA®.
-A Kaplan-Meier plot of time to relapse by treatment group is shown in Figure 4.
+A Kaplan-Meier plot of time to relapse by treatment group is shown in Figure 5.
 
-Figure 4: Kaplan-Meier Plot of Cumulative Proportion of Subjects with Relapse Over Time (SAff Study 1)
+Figure 5: Kaplan-Meier Plot of Cumulative Proportion of Subjects with Relapse Over Time (SAff Study 1)
 
-Table 15 summarizes the number of subjects with relapse in the overall population, by subgroup (monotherapy vs. adjunctive therapy), and by symptom type at the first occurrence of relapse.
+Table 16 summarizes the number of subjects with relapse in the overall population, by subgroup (monotherapy vs. adjunctive therapy), and by symptom type at the first occurrence of relapse.
 
-Table 15: Summary of Relapse Rates (SAff Study 1).
+Table 16: Summary of Relapse Rates (SAff Study 1).
 
 |  | Placebo N=170 | INVEGA SUSTENNA® N=164 |
 | --- | --- | --- |
