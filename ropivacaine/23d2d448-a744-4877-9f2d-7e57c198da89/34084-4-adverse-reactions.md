@@ -23,7 +23,7 @@ The reported adverse events are derived from controlled clinical studies with Na
 Table 3A and 3B list adverse events (number and percentage) that occurred in at least 1% of Naropin-treated patients in these studies.
 The majority of patients receiving concentrations higher than 5 mg/mL (0.5%) were treated with Naropin.
 
-Table 3A Adverse Events Reported in ≥1% of Adult Patients Receiving Regional or Local Anesthesia (Surgery, Labor, Cesarean Section, Postoperative Pain Management, Peripheral Nerve Block and Local Infiltration)
+Table 3A Adverse Events Reported in ≥ 1% of Adult Patients Receiving Regional or Local Anesthesia (Surgery, Labor, Cesarean Section, Postoperative Pain Management, Peripheral Nerve Block and Local Infiltration)
 
 | Adverse Reaction | Naropin total N=1661 |  | Bupivacaine total N=1433 |  |
 | --- | --- | --- | --- | --- |
@@ -48,7 +48,7 @@ Table 3A Adverse Events Reported in ≥1% of Adult Patients Receiving Regional o
 | Breast disorder, breast-feeding | 21 | (1.3) | 12 | (0.8) |
 | Rhinitis | 18 | (1.1) | 13 | (0.9) |
 
-Table 3B Adverse Events Reported in ≥1% of Fetuses or Neonates of Mothers Who Received Regional Anesthesia (Cesarean Section and Labor Studies)
+Table 3B Adverse Events Reported in ≥ 1% of Fetuses or Neonates of Mothers Who Received Regional Anesthesia (Cesarean Section and Labor Studies)
 
 | Adverse Reaction | Naropin total N=639 |  | Bupivacaine total N=573 |  |
 | --- | --- | --- | --- | --- |

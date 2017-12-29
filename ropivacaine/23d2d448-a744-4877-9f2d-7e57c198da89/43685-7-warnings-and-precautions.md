@@ -139,7 +139,7 @@ Reproduction toxicity studies have been performed in pregnant New Zealand white 
 During gestation days 6 to 18, rabbits received 1.3, 4.2, or 13 mg/kg/day subcutaneously.
 In rats, subcutaneous doses of 5.3, 11 and 26 mg/kg/day were administered during gestation days 6 to 15.
 No teratogenic effects were observed in rats and rabbits at the highest doses tested.
-The highest doses of 13 mg/kg/day (rabbits) and 26 mg/kg/day (rats) are approximately 1/3 of the maximum recommended human dose (epidural, 770 mg/24 hours) based on a mg/m2 basis.
+The highest doses of 13 mg/kg/day (rabbits) and 26 mg/kg/day (rats) are approximately 1/3 of the maximum recommended human dose (epidural, 770 mg/24 hours) based on a mg/m 2 basis.
 In 2 prenatal and postnatal studies, the female rats were dosed daily from day 15 of gestation to day 20 postpartum.
 The doses were 5.3, 11 and 26 mg/kg/day subcutaneously.
 There were no treatment-related effects on late fetal development, parturition, lactation, neonatal viability, or growth of the offspring.

@@ -40,7 +40,7 @@ Not for Intravenous Administration.
 
 Rx only
 
-Twenty-five30 mL Single Dose Vials
+Twenty-five 30 mL Single Dose Vials
 
 PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Naropin 20 mL Single Dose Vial Label
 
