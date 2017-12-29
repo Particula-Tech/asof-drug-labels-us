@@ -1,41 +1,37 @@
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 25 mg
 
-NDC 52427-429-90 90 tablets
+NDC 52427-429-90
+
+Rx only
 
 TENORMIN® (atenolol)
 
 25 mg tablets
 
-Rx only Manufactured by: IPR Pharmaceuticals, Inc. Canóvanas, PR 00729
+Rx only
 
-Distributed by: Almatica Pharma, Inc. Pine Brook, NJ 07058 USA
-
-Almatica®
+90 Tablets
 
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 50 mg
 
-NDC 52427-430-90 90 tablets
+NDC 52427-430-90
+
+Rx only
 
 TENORMIN® (atenolol)
 
 50 mg tablets
 
-Rx only Manufactured by: IPR Pharmaceuticals, Inc. Canóvanas, PR 00729
-
-Distributed by: Almatica Pharma, Inc. Pine Brook, NJ 07058 USA
-
-Almatica®
+90 Tablets
 
 # PACKAGE/LABEL PRINCIPAL DISPLAY - 100 mg
 
-NDC 52427-431-90 90 Tablets
+NDC 52427-431-90
+
+Rx only
 
 TENORMIN® (atenolol)
 
 100 mg tablets
 
-Rx only Manufactured by: IPR Pharmaceuticals, Inc. Canóvanas, PR 00729
-
-Distributed by: Almatica Pharma, Inc. Pine Brook, NJ 07058 USA
-
-Almatica®
+90 Tablets
