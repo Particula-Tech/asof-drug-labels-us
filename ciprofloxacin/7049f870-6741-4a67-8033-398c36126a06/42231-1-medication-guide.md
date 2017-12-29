@@ -1,12 +1,6 @@
 MEDICATION GUIDE
 
-CIPROFLOXACIN (sip-row-FLOX-a-sin) INJECTION, USP
-
-(in 5% Dextrose Injection)
-
-(ciprofloxacin)
-
-For Intravenous Infusion
+CIPROFLOXACIN (sip-row-FLOX-a-sin) INJECTION, USP (in 5% Dextrose Injection) (ciprofloxacin) For Intravenous Infusion
 
 Read this Medication Guide before you start taking ciprofloxacin and each time you get a refill.
 There may be new information.
@@ -23,9 +17,7 @@ If you get any of the following serious side effects while you take ciprofloxaci
    - Tendon problems can happen in people of all ages who take ciprofloxacin.
      Tendons are tough cords of tissue that connect muscles to bones.
      Symptoms of tendon problems may include:
-     - pain
-     - swelling
-     - tears and swelling of the tendons including the back of the ankle (Achilles), shoulder, hand, or other tendon sites.
+     - Pain, swelling, tears and swelling of the tendons including the back of the ankle (Achilles), shoulder, hand, or other tendon sites.
    - The risk of getting tendon problems while you take ciprofloxacin is higher if you:
      - are over 60 years of age
      - are taking steroids (corticosteroids)
@@ -52,8 +44,7 @@ If you get any of the following serious side effects while you take ciprofloxaci
    Tell your healthcare provider if you have a history of seizures before you start taking ciprofloxacin.
    CNS side effects may happen as soon as after taking the first dose of ciprofloxacin.
    Stop taking ciprofloxacin immediately and talk to your healthcare provider right away if you get any of these side effects, or other changes in mood or behavior: seizures hear voices, see things, or sense things that are not there (hallucinations) feel restless tremors feel anxious or nervous confusion depression trouble sleeping nightmares feel lightheaded or dizzy feel more suspicious (paranoia) suicidal thoughts or acts headaches that will not go away, with or without blurred vision
-4. Worsening of myasthenia gravis (a problem that causes muscle weakness).
-   Fluoroquinolones like ciprofloxacin may cause worsening of myasthenia gravis symptoms, including muscle weakness and breathing problems.
+4. Worsening of myasthenia gravis (a problem that causes muscle weakness).Fluoroquinolones like ciprofloxacin may cause worsening of myasthenia gravis symptoms, including muscle weakness and breathing problems.
    Tell your healthcare provider if you have a history of myasthenia gravis before you start taking ciprofloxacin.
    Call your healthcare provider right away if you have any worsening muscle weakness or breathing problems.
 
@@ -62,20 +53,22 @@ What is ciprofloxacin?
 Ciprofloxacin is a fluoroquinolone antibacterial medicine used in adults age 18 years and older to treat certain infections caused by certain germs called bacteria.
 These bacterial infections include:
 
-- urinary tract infection
-- chronic prostate infection
-- lower respiratory tract infection
-- sinus infection
-- skin infection
-- bone and joint infection
-- nosocomial pneumonia
-- intra-abdominal infection, complicated
-- infectious diarrhea
-- typhoid (enteric) fever
-- cervical and urethral gonorrhea, uncomplicated
-- people with a low white blood cell count and a fever
-- inhalational anthrax
-- plague
+- 
+  - urinary tract infection
+  - chronic prostate infection
+  - lower respiratory tract infection
+  - sinus infection
+  - skin infection
+  - bone and joint infection
+  - nosocomial pneumonia
+  - intra-abdominal infection, complicated
+  - infectious diarrhea
+  - typhoid (enteric) fever
+  - cervical and urethral gonorrhea, uncomplicated
+  - people with a low white blood cell count and a fever
+  - inhalational anthrax
+  - plague
+
 - Studies of ciprofloxacin for use in the treatment of plague and anthrax were done in animals only, because plague and anthrax could not be studied in people.
 - Ciprofloxacin should not be used in patients with acute exacerbation of chronic bronchitis, acute uncomplicated cystitis, and sinus infections, if there are other treatment options available.
 - Ciprofloxacin should not be used as the first choice of antibacterial medicine to treat lower respiratory tract infections cause by a certain type of bacterial called Streptococcus pneumoniae.
@@ -118,30 +111,28 @@ Before you take ciprofloxacin, tell your healthcare provider if you:
 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 
-Ciprofloxacin and other medicines can affect each other causing side effects.
-
-Especially tell your healthcare provider if you take:
-
-- a steroid medicine
-- an anti-psychotic medicine
-- a tricyclic antidepressant
-- a water pill (diuretic)
-- theophylline (such as Theo-24®, Elixophyllin®, Theochron®, Uniphyl®, Theolair®)
-- a medicine to control your heart rate or rhythm (antiarrhythmics)
-- an oral anti-diabetes medicine
-- phenytoin (Fosphenytoin Sodium®, Cerebyx®, Dilantin-125®, Dilantin®, Extended Phenytoin Sodium®, Prompt Phenytoin Sodium®, Phenytek®)
-- cyclosporine (Gengraf®, Neoral®, Sandimmune®, Sangcya®)
-- a blood thinner (such as warfarin, Coumadin®, Jantoven®)
-- methotrexate (Trexall®)
-- ropinirole (Requip®)
-- clozapine (Clozaril®, Fazaclo® ODT®)
-- a Non-Steroidal Anti-Inflammatory Drug (NSAID).
-  Many common medicines for pain relief are NSAIDs.
-  Taking an NSAID while you take ciprofloxacin or other fluoroquinolones may increase your risk of central nervous system effects and seizures.
-- sildenafil (Viagra®, Revatio®)
-- duloxetine
-- products that contain caffeine
-- probenecid (Probalan®, Col-probenecid®)
+- Ciprofloxacin and other medicines can affect each other causing side effects.
+- Especially tell your healthcare provider if you take:
+  - a steroid medicine
+  - an anti-psychotic medicine
+  - a tricyclic antidepressant
+  - a water pill (diuretic)
+  - theophylline (such as Theo-24®, Elixophyllin®, Theochron®, Uniphyl®, Theolair®)
+  - a medicine to control your heart rate or rhythm (antiarrhythmics)
+  - an oral anti-diabetes medicine
+  - phenytoin (Fosphenytoin Sodium®, Cerebyx®, Dilantin-125®, Dilantin®, Extended Phenytoin Sodium®, Prompt Phenytoin Sodium®, Phenytek®)
+  - cyclosporine (Gengraf®, Neoral®, Sandimmune®, Sangcya®)
+  - a blood thinner (such as warfarin, Coumadin®, Jantoven®)
+  - methotrexate (Trexall®)
+  - ropinirole (Requip®)
+  - clozapine (Clozaril®, Fazaclo® ODT®)
+  - a Non-Steroidal Anti-Inflammatory Drug (NSAID).
+    Many common medicines for pain relief are NSAIDs.
+    Taking an NSAID while you take ciprofloxacin or other fluoroquinolones may increase your risk of central nervous system effects and seizures.
+  - sildenafil (Viagra®, Revatio®)
+  - duloxetine
+  - products that contain caffeine
+  - probenecid (Probalan®, Col-probenecid®)
 
 Ask your healthcare provider for a list of these medicines if you are not sure.
 
@@ -167,7 +158,6 @@ How should I take ciprofloxacin?
   - you have a serious allergic reaction.
     See “What are the possible side effects of ciprofloxacin?”
   - your healthcare provider tells you to stop taking ciprofloxacin
-
 - If you take too much ciprofloxacin, call your healthcare provider or get medical help right away.
 
 What should I avoid while taking ciprofloxacin?
@@ -187,9 +177,7 @@ Ciprofloxacin may cause serious side effects, including:
 - See “What is the most important information I should know about ciprofloxacin?”
 - Serious allergic reactions.
   Serious allergic reactions, including death, can happen in people taking fluoroquinolones, including ciprofloxacin, even after only 1 dose.
-  Stop taking ciprofloxacin and get emergency medical help right away if you get any of the following symptoms of a severe allergic reaction:Skin rash may happen in people taking ciprofloxacin even after only 1 dose.
-  Stop taking ciprofloxacin at the first sign of a skin rash and call your healthcare provider.
-  Skin rash may be a sign of a more serious reaction to ciprofloxacin.
+  Stop taking ciprofloxacin and get emergency medical help right away if you get any of the following symptoms of a severe allergic reaction:
   - hives
   - trouble breathing or swallowing
   - swelling of the lips, tongue, face
@@ -197,9 +185,20 @@ Ciprofloxacin may cause serious side effects, including:
   - rapid heartbeat
   - faint
   - skin rash
+
+Skin rash may happen in people taking ciprofloxacin even after only 1 dose.
+Stop taking ciprofloxacin at the first sign of a skin rash and call your healthcare provider.
+Skin rash may be a sign of a more serious reaction to ciprofloxacin.
+
 - Liver damage (hepatotoxicity).
   Hepatotoxicity can happen in people who take ciprofloxacin.
-  Call your healthcare provider right away if you have unexplained symptoms such as:
+  Call your healthcare provider right away if you have unexplained symptoms such as:Stop taking ciprofloxacin and tell your healthcare provider right away if you have yellowing of your skin or white part of your eyes, or if you have dark urine.
+  These can be signs of a serious reaction to ciprofloxacin (a liver problem).
+  Intestine infection (Pseudomembranous colitis).
+  Pseudomembranous colitis can happen with many antibacterial medicines, including ciprofloxacin.
+  Call your healthcare provider right away if you get watery diarrhea, diarrhea that does not go away, or bloody stools.
+  You may have stomach cramps and a fever.
+  Pseudomembranous colitis can happen 2 or more months after you have finished your antibacterial medicine.
   - nausea or vomiting
   - stomach pain
   - fever
@@ -211,15 +210,6 @@ Ciprofloxacin may cause serious side effects, including:
   - light colored bowel movements
   - dark colored urine
   - yellowing of your skin or the whites of your eyes
-
-Stop taking ciprofloxacin and tell your healthcare provider right away if you have yellowing of your skin or white part of your eyes, or if you have dark urine.
-These can be signs of a serious reaction to ciprofloxacin (a liver problem).
-Intestine infection (Pseudomembranous colitis).
-Pseudomembranous colitis can happen with many antibacterial medicines, including ciprofloxacin.
-Call your healthcare provider right away if you get watery diarrhea, diarrhea that does not go away, or bloody stools.
-You may have stomach cramps and a fever.
-Pseudomembranous colitis can happen 2 or more months after you have finished your antibacterial medicine.
-
 - Serious heart rhythm changes (QT prolongation and torsade de pointes).
   Tell your healthcare provider right away if you have a change in your heart beat (a fast or irregular heartbeat), or if you faint.
   Ciprofloxacin may cause a rare heart problem known as prolongation of the QT interval.
@@ -266,15 +256,16 @@ You can ask your healthcare provider or pharmacist for information about ciprofl
 
 What are the ingredients in ciprofloxacin?
 
-- Ciprofloxacin Injection, USP (in 5% Dextrose Injection):
-  - Active ingredient: ciprofloxacin
-  - Inactive ingredients: dextrose monohydrate as a tonicity agent, lactic acid as a solubilizing agent, hydrochloric acid for pH adjustment
+Ciprofloxacin Injection, USP (in 5% Dextrose Injection):
+
+- Active ingredient: ciprofloxacin
+- Inactive ingredients: dextrose monohydrate as a tonicity agent, lactic acid as a solubilizing agent, hydrochloric acid for pH adjustment
 
 Brands listed are the trademarks of their respective owners.
 
-SAGENT® Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in Switzerland ©2016 Sagent Pharmaceuticals, Inc.
+SAGENT® Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in Switzerland ©2017 Sagent Pharmaceuticals, Inc.
 
-Revised: August 2016
+Revised: August 2017
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 

@@ -50,7 +50,7 @@ Table 5: Medically Important Adverse Reactions That Occurred in less than 1% Cip
 
 In several instances, nausea, vomiting, tremor, irritability, or palpitation were judged by investigators to be related to elevated serum levels of theophylline possibly as a result of drug interaction with ciprofloxacin.
 
-In randomized, double-blind controlled clinical trials comparing ciprofloxacin (Intravenous and Intravenous/Oral. sequential) with intravenous beta-lactam control antibiotics, the CNS adverse reaction profile of ciprofloxacin was comparable to that of the control drugs.
+In randomized, double-blind controlled clinical trials comparing ciprofloxacin (Intravenous and Intravenous/Oral sequential) with intravenous beta-lactam control antibiotics, the CNS adverse reaction profile of ciprofloxacin was comparable to that of the control drugs.
 
 Pediatric Patients
 
@@ -76,7 +76,7 @@ Table 6: Musculoskeletal Adverse Reactions1 as Assessed by the IPSC
 | 12 months to 24 months | 1/36 (2.8%) | 0/41 |
 | 2 years to < 6 years | 5/124 (4%) | 3/118 (2.5%) |
 | 6 years to < 12 years | 18/143 (12.6%) | 12/153 (7.8%) |
-| 12 years to 17 years | 7/32 (21.9%) | 6/37 (16.2 %) |
+| 12 years to 17 years | 7/32 (21.9%) | 6/37 (16.2%) |
 | All Patients (within 1 year) | 46/335 (13.7%) | 33/349 (9.5%) |
 | 95% Confidence Interval2 | (-0.6%, +9.1%) |  |
 | 1. Included: arthralgia, abnormal gait, abnormal joint exam, joint sprains, leg pain, back pain, arthrosis, bone pain, pain, myalgia, arm pain, and decreased range of motion in a joint (knee, elbow, ankle, hip, wrist, and shoulder) |  |  |

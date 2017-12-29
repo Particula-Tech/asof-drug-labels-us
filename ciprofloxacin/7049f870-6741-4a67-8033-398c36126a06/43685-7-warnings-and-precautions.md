@@ -20,8 +20,8 @@ Tendinitis and tendon rupture can occur bilaterally.
 The risk of developing fluoroquinolone-associated tendinitis and tendon rupture is increased in patients over 60 years of age, in patients taking corticosteroid drugs, and in patients with kidney, heart or lung transplants.
 Other factors, that may independently increase the risk of tendon rupture include strenuous physical activity, renal failure, and previous tendon disorders such as rheumatoid arthritis.
 Tendinitis and tendon rupture have also occurred in patients taking fluoroquinolones who do not have the above risk factors.
-Discontinue Ciprofloxacin immediately if the patient experiences pain, swelling, inflammation or rupture of a tendon.
-Avoid fluoroquinolones, including Ciprofloxacin, in patients who have a history of tendon disorders or have experienced tendinitis or tendon rupture [see Adverse Reactions (6.2)].
+Discontinue ciprofloxacin immediately if the patient experiences pain, swelling, inflammation or rupture of a tendon.
+Avoid fluoroquinolones, including ciprofloxacin, in patients who have a history of tendon disorders or have experienced tendinitis or tendon rupture [see Adverse Reactions (6.2)].
 
 ## 5.3 Peripheral Neuropathy
 
@@ -94,7 +94,7 @@ If concomitant use cannot be avoided, monitor serum levels of theophylline and a
 
 ## 5.10 Clostridium difficile-Associated Diarrhea
 
-Clostridium difficile (C. difficile)-associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including Ciprofloxacin Injection, USP, and may range in severity from mild diarrhea to fatal colitis.
+Clostridium difficile (C. difficile)-associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including ciprofloxacin, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
 C. difficile produces toxins A and B which contribute to the development of CDAD.
@@ -114,7 +114,7 @@ Elderly patients may also be more susceptible to drug-associated effects on the 
 
 ## 5.12 Musculoskeletal Disorders in Pediatric Patients and Arthropathic Effects in Animals
 
-Ciprofloxacin is indicated in pediatric patients (less than 18 years of age) only for cUTI, prevention of inhalational anthrax (post exposure), and plague [see Indications and Usage (1.10, 1.6, 1.7)].
+Ciprofloxacin is indicated in pediatric patients (less than 18 years of age) only for cUTI, prevention of inhalational anthrax (post-exposure), and plague [see Indications and Usage (1.10, 1.6, 1.7)].
 An increased incidence of adverse reactions compared to controls, including reactions related to joints and/or surrounding tissues, has been observed [see Adverse Reactions (6.1)].
 
 In pre-clinical studies, oral administration of ciprofloxacin caused lameness in immature dogs.
@@ -134,7 +134,7 @@ Prescribing ciprofloxacin in the absence of a proven or strongly suspected bacte
 ## 5.15 Potential Risks with Concomitant Use of Drugs Metabolized by Cytochrome P450 1A2 Enzymes
 
 Ciprofloxacin is an inhibitor of the hepatic CYP1A2 enzyme pathway.
-Co-administration of ciprofloxacin and other drugs primarily metabolized by CYP1A2 (for example, theophylline, methylxanthines, caffeine, tizanidine, ropinirole, clozapine, olanzapine) results in increased plasma concentrations of the co-administered drug and could lead to clinically significant pharmacodynamic adverse reactions of the co-administered drug [see Drug Interactions (7) and Clinical Pharmacology (12.3)].
+Co-administration of ciprofloxacin and other drugs primarily metabolized by CYP1A2 (for example, theophylline, methylxanthines, caffeine, tizanidine, ropinirole, clozapine, olanzapine, and zolpidem) results in increased plasma concentrations of the co-administered drug and could lead to clinically significant pharmacodynamic adverse reactions of the co-administered drug [see Drug Interactions (7) and Clinical Pharmacology (12.3)].
 
 ## 5.16 Crystalluria
 

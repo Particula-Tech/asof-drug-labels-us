@@ -5,8 +5,10 @@ Ciprofloxacin Injection, USP (in 5% Dextrose Injection) is available in 200 mg a
 |  | Ciprofloxacin Injection, USP in |  |
 | --- | --- | --- |
 | NDC | 5% Dextrose (2 mg per mL) | Package Factor |
-| 25021-114-82 | 200 mg per 100 mL in flexible container bag | 24 bags per carton |
-| 25021-114-87 | 400 mg per 200 mL in flexible container bag | 24 bags per carton |
+| 25021-114-82 | 200 mg per 100 mL single-dose | 24 bags per carton |
+|  | flexible container bag |  |
+| 25021-114-87 | 400 mg per 200 mL single-dose | 24 bags per carton |
+|  | flexible container bag |  |
 
 Ciprofloxacin Injection, USP (ciprofloxacin) is available as a clear, colorless to slightly yellowish solution.
 
@@ -19,5 +21,4 @@ Avoid excessive heat.
 Protect from freezing.
 
 Sterile, Nonpyrogenic, Preservative-free.
-
-The container closure is not made with natural rubber latex.
+The container and container closure are not made with natural rubber latex.

@@ -8,7 +8,7 @@ Table 8: Drugs That are Affected by and Affecting Ciprofloxacin
 | Drugs That are Affected by Ciprofloxacin |  |  |
 | --- | --- | --- |
 | Drug(s) | Recommendation | Comments |
-| Tizanidine | Contraindicated | Concomitant administration of tizanidine and ciprofloxacin is contraindicated due to the potentiation of hypotensive and sedative effects of tizanidine [see Contraindications (4.2)] |
+| Tizanidine | Contraindicated | Concomitant administration of tizanidine and ciprofloxacin is contraindicated due to the potentiation of hypotensive and sedative effects of tizanidine [see Contraindications (4.2)]. |
 | Theophylline | Avoid Use (Plasma Exposure Likely to be Increased and Prolonged) | Concurrent administration of ciprofloxacin with theophylline may result in increased risk of a patient developing central nervous system (CNS) or other adverse reactions. If concomitant use cannot be avoided, monitor serum levels of theophylline and adjust dosage as appropriate [see Warnings and Precautions (5.9)]. |
 | Drugs Known to Prolong QT Interval | Avoid Use | Ciprofloxacin may further prolong the QT interval in patients receiving drugs known to prolong the QT interval (for example, class IA or III antiarrhythmics, tricyclic antidepressants, macrolides, antipsychotics) [see Warnings and Precautions (5.11) and Use in Specific Populations (8.5)]. |
 | Oral antidiabetic drugs | Use with caution Glucose-lowering effect potentiated | Hypoglycemia sometimes severe has been reported when ciprofloxacin and oral antidiabetic agents, mainly sulfonylureas (for example, glyburide, glimepiride), were co-administered, presumably by intensifying the action of the oral antidiabetic agent. Fatalities have been reported. Monitor blood glucose when ciprofloxacin is co-administered with oral antidiabetic drugs [see Adverse Reactions (6.1)]. |
@@ -22,5 +22,6 @@ Table 8: Drugs That are Affected by and Affecting Ciprofloxacin
 | Sildenafil | Use with caution Two-fold increase in exposure | Monitor for sildenafil toxicity [see Clinical Pharmacology (12.3)]. |
 | Duloxetine | Avoid Use Five-fold increase in duloxetine exposure | If unavoidable, monitor for duloxetine toxicity. |
 | Caffeine/Xanthine Derivatives | Use with caution Reduced clearance resulting in elevated levels and prolongation of serum half-life | Ciprofloxacin inhibits the formation of paraxanthine after caffeine administration (or pentoxifylline containing products). Monitor for xanthine toxicity and adjust dose as necessary. |
+| Zolpidem | Avoid Use | Co-administration with ciprofloxacin may increase blood levels of zolpidem, concurrent use is not recommended. |
 | Drug(s) Affecting Pharmacokinetics of Ciprofloxacin |  |  |
 | Probenecid | Use with caution (interferes with renal tubular secretion of ciprofloxacin and increases ciprofloxacin serum levels) | Potentiation of ciprofloxacin toxicity may occur. |

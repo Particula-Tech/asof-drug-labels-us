@@ -34,9 +34,9 @@ Table 10: Steady–state Pharmacokinetic Parameters Following Multiple Oral and 
 |  | every 12 hours orally | every 12 hours, intravenously | every 12 hours, orally | every 8 hours, intravenously |
 | AUC (mcg•hr/mL) | 13.71 | 12.71 | 31.62 | 32.93 |
 | Cmax (mcg/mL) | 2.97 | 4.56 | 3.59 | 4.07 |
-| 1. AUC 0 to 12h |  |  |  |  |
-| 2. AUC 24h = AUC 0 to 12h × 2 |  |  |  |  |
-| 3. AUC 24h = AUC 0 to 8h × 3 |  |  |  |  |
+| 1. AUC 0-12h |  |  |  |  |
+| 2. AUC 24h = AUC 0-12h × 2 |  |  |  |  |
+| 3. AUC 24h = AUC 0-8h × 3 |  |  |  |  |
 
 Distribution
 
@@ -63,7 +63,7 @@ Following a 400 mg intravenous dose, urine concentrations generally exceed 400 m
 The renal clearance is approximately 22 L/hr.
 The urinary excretion of ciprofloxacin is virtually complete by 24 hours after dosing.
 
-Although bile concentrations of ciprofloxacin are several fold higher than serum concentrations after intravenous dosing, only a small amount of the administered dose (<less than1%) is recovered from the bile as unchanged drug.
+Although bile concentrations of ciprofloxacin are several fold higher than serum concentrations after intravenous dosing, only a small amount of the administered dose (less than 1%) is recovered from the bile as unchanged drug.
 Approximately 15% of an intravenous dose is recovered from the feces within 5 days after dosing.
 
 Specific Populations
@@ -152,7 +152,9 @@ Gram-positive bacteria
 
 Bacillus anthracis Enterococcus faecalis Staphylococcus aureus (methicillin-susceptible isolates only) Staphylococcus epidermidis (methicillin-susceptible isolates only) Staphylococcus saprophyticus Streptococcus pneumoniae Streptococcus pyogenes
 
-Gram-negative bacteria Citrobacter koseri Citrobacter freundii Enterobacter cloacae Escherichia coli Haemophilus influenzae Haemophilus parainfluenzae Klebsiella pneumoniae Moraxella catarrhalis Morganella morganii Proteus mirabilis Proteus vulgaris Providencia rettgeri Providencia stuartii Pseudomonas aeruginosa Serratia marcescens Yersinia pestis
+Gram-negative bacteria
+
+Citrobacter koseri Citrobacter freundii Enterobacter cloacae Escherichia coli Haemophilus influenzae Haemophilus parainfluenzae Klebsiella pneumoniae Moraxella catarrhalis Morganella morganii Proteus mirabilis Proteus vulgaris Providencia rettgeri Providencia stuartii Pseudomonas aeruginosa Serratia marcescens Yersinia pestis
 
 The following in vitro data are available, but their clinical significance is unknown.
 At least 90 percent of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for ciprofloxacin (≤1 mcg/mL).
