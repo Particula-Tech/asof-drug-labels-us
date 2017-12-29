@@ -1,66 +1,75 @@
 # CLINICAL PHARMACOLOGY
 
-## Pharmacodynamics
+## Mechanism of Action
 
-Diclofenac sodium delayed-release tablets, USP are a non-steroidal anti-inflammatory drug (NSAID) that exhibits anti-inflammatory, analgesic, and antipyretic activities in animal models.
-The mechanism of action of diclofenac sodium delayed-release, like that of other NSAIDs, is not completely understood but may be related to prostaglandin synthetase inhibition.
+Diclofenac has analgesic, anti-inflammatory, and antipyretic properties.
+
+The mechanism of action of diclofenac sodium delayed-release, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2).
+
+Diclofenac is a potent inhibitor of prostaglandin synthesis in vitro.
+Diclofenac concentrations reached during therapy have produced in vivo effects.
+Prostaglandins sensitize afferent nerves and potentiate the action of bradykinin in inducing pain in animal models.
+Prostaglandins are mediators of inflammation.
+Because diclofenac is an inhibitor of prostaglandin synthesis, its mode of action may be due to a decrease of prostaglandins in peripheral tissues.
 
 ## Pharmacokinetics
 
-### Absorption
+Absorption
 
-Diclofenac is 100% absorbed after oral administration compared to IV administration as measured by urine recovery.
+Diclofenac is 100% absorbed after oral administration compared to intravenous administration as measured by urine recovery.
 However, due to first-pass metabolism, only about 50% of the absorbed dose is systemically available (see Table 1).
 Food has no significant effect on the extent of diclofenac absorption.
-However, there is usually a delay in the onset of absorption of 1 to 4.5 hours and a reduction in peak plasma levels of <20%.
+However, there is usually a delay in the onset of absorption of 1 to 4.5 hours and a reduction in peak plasma levels of less than 20%.
 
 Table 1.
 Pharmacokinetic Parameters for Diclofenac
 
 |  | Normal Healthy Adults |  |
 | --- | --- | --- |
-| PK Parameter | (20 to 48 yrs.) |  |
+| PK Parameter | (20 to 48 years) |  |
 |  |  | Coefficient of |
-|  | Mean | Variation (%) |
-| Absolute |  |  |
+|  | Mean | Mean Variation (%) |
+| Absolute | 55 | 40 |
 | Bioavailability (%) |  |  |
-| [N = 7] | 55 | 40 |
-| Tmax (hr) |  |  |
-| [N = 56] | 2.3 | 69 |
-| Oral Clearance (CL/F; mL/min) |  |  |
-| [N = 56] | 582 | 23 |
-| Renal Clearance |  |  |
-| (% unchanged drug in urine) | <1 | -- |
 | [N = 7] |  |  |
-| Apparent Volume of |  |  |
+| Tmax (hr) | 2.3 | 69 |
+| [N = 56] |  |  |
+| Oral Clearance (CL/F; mL/min) | 582 | 23 |
+| [N = 56] |  |  |
+| Renal Clearance | <1 | -- |
+| (% unchanged drug in urine) |  |  |
+| [N = 7] |  |  |
+| Apparent Volume of | 1.4 | 58 |
 | Distribution (V/F; L/kg) |  |  |
-| [N = 56] | 1.4 | 58 |
-| Terminal Half-life (hr) |  |  |
-| [N = 56] | 2.3 | 48 |
+| [N = 56] |  |  |
+| Terminal Half-life (hr) | 2.3 | 48 |
+| [N = 56] |  |  |
 
-### Distribution
+Distribution
 
 The apparent volume of distribution (V/F) of diclofenac sodium is 1.4 L/kg.
 
 Diclofenac is more than 99% bound to human serum proteins, primarily to albumin.
-Serum protein binding is constant over the concentration range (0.15 to 105 mcg/mL) achieved with recommended doses.
+Serum protein binding is constant over the concentration range (0.15 mcg/mL to 105 mcg/mL) achieved with recommended doses.
 
 Diclofenac diffuses into and out of the synovial fluid.
 Diffusion into the joint occurs when plasma levels are higher than those in the synovial fluid, after which the process reverses and synovial fluid levels are higher than plasma levels.
 It is not known whether diffusion into the joint plays a role in the effectiveness of diclofenac.
 
-### Metabolism
+Elimination
+
+Metabolism
 
 Five diclofenac metabolites have been identified in human plasma and urine.
-The metabolites include 4'-hydroxy-, 5-hydroxy-, 3'-hydroxy-, 4',5-dihydroxy- and 3'-hydroxy-4'-methoxy diclofenac.
+The metabolites include 4'-hydroxy-, 5-hydroxy-, 3'-hydroxy-, 4',5-dihydroxy- and 3'-hydroxy-4'-methoxy-diclofenac.
 The major diclofenac metabolite, 4'-hydroxy-diclofenac, has very weak pharmacologic activity.
-The formation of 4’-hydroxy- diclofenac is primarily mediated by CPY2C9.
+The formation of 4’-hydroxy- diclofenac is primarily mediated by CYP2C9.
 Both diclofenac and its oxidative metabolites undergo glucuronidation or sulfation followed by biliary excretion.
-Acylglucuronidation mediated by UGT2B7 and oxidation mediated by CPY2C8 may also play a role in diclofenac metabolism.
+Acylglucuronidation mediated by UGT2B7 and oxidation mediated by CYP2C8 may also play a role in diclofenac metabolism.
 CYP3A4 is responsible for the formation of minor metabolites, 5-hydroxy- and 3’-hydroxy-diclofenac.
 In patients with renal dysfunction, peak concentrations of metabolites 4'-hydroxy- and 5-hydroxy-diclofenac were approximately 50% and 4% of the parent compound after single oral dosing compared to 27% and 1% in normal healthy subjects.
 
-### Excretion
+Excretion
 
 Diclofenac is eliminated through metabolism and subsequent urinary and biliary excretion of the glucuronide and the sulfate conjugates of the metabolites.
 Little or no free unchanged diclofenac is excreted in the urine.
@@ -68,18 +77,22 @@ Approximately 65% of the dose is excreted in the urine and approximately 35% in 
 Because renal elimination is not a significant pathway of elimination for unchanged diclofenac, dosing adjustment in patients with mild to moderate renal dysfunction is not necessary.
 The terminal half-life of unchanged diclofenac is approximately 2 hours.
 
-## Drug Interactions
-
-When co-administered with voriconazole (inhibitor of CYP2C9, 2C19 and 3A4 enzyme), the Cmax and AUC of diclofenac increased by 114% and 78%, respectively (see PRECAUTIONS, Drug Interactions).
-
-## Special Populations
+Special Populations
 
 Pediatric: The pharmacokinetics of diclofenac sodium delayed-release has not been investigated in pediatric patients.
 
 Race: Pharmacokinetic differences due to race have not been identified.
 
-Hepatic Insufficiency: Hepatic metabolism accounts for almost 100% of diclofenac sodium delayed-release elimination, so patients with hepatic disease may require reduced doses of diclofenac sodium delayed-release compared to patients with normal hepatic function.
+Hepatic Impairment: Hepatic metabolism accounts for almost 100% of diclofenac sodium delayed-release elimination, so patients with hepatic disease may require reduced doses of diclofenac sodium delayed-release compared to patients with normal hepatic function.
 
-Renal Insufficiency: Diclofenac pharmacokinetics has been investigated in subjects with renal insufficiency.
+Renal Impairment: Diclofenac pharmacokinetics has been investigated in subjects with renal insufficiency.
 No differences in the pharmacokinetics of diclofenac have been detected in studies of patients with renal impairment.
-In patients with renal impairment (inulin clearance 60 to 90, 30 to 60, and <30 mL/min; N=6 in each group), AUC values and elimination rate were comparable to those in healthy subjects.
+In patients with renal impairment (inulin clearance 60 to 90, 30 to 60, and less than 30 mL/min; N=6 in each group), AUC values and elimination rate were comparable to those in healthy subjects.
+
+Drug Interactions Studies
+
+Voriconazole: When co-administered with voriconazole (inhibitor of CYP2C9, 2C19 and 3A4 enzyme), the Cmax and AUC of diclofenac increased by 114% and 78%, respectively (see PRECAUTIONS; Drug Interactions).
+
+Aspirin: When NSAIDs were administered with aspirin, the protein binding of NSAIDs were reduced, although the clearance of free NSAID was not altered.
+The clinical significance of this interaction is not known.
+See Table 2 for clinically significant drug interactions of NSAIDs with aspirin (see PRECAUTIONS; Drug Interactions).

@@ -1,6 +1,7 @@
 # DESCRIPTION
 
-Diclofenac sodium delayed-release tablets, USP are a benzeneacetic acid derivative.
+Diclofenac sodium delayed-release tablets, USP are a benzene-acetic acid derivative.
+Diclofenac sodium, USP is a white to almost white crystalline powder and is sparingly soluble in water at 25°C.
 The chemical name is 2-[(2,6-dichlorophenyl)amino] benzeneacetic acid, monosodium salt.
 The molecular weight is 318.13.
 Its molecular formula is C14H10Cl2NNaO2, and it has the following structural formula

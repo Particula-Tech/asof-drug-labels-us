@@ -1,14 +1,14 @@
 # DOSAGE AND ADMINISTRATION
 
-Carefully consider the potential benefits and risks of diclofenac sodium delayed-release tablets, USP and other treatment options before deciding to use diclofenac sodium delayed-release.
-Use the lowest effective dose for the shortest duration consistent with individual patient treatment goals (see WARNINGS).
+Carefully consider the potential benefits and risks of diclofenac sodium delayed-release tablets and other treatment options before deciding to use diclofenac sodium delayed-release tablets.
+Use the lowest effective dose for the shortest duration consistent with individual patient treatment goals (see WARNINGS; Gastrointestinal Bleeding, Ulceration, and Perforation).
 
-After observing the response to initial therapy with diclofenac sodium delayed-release, the dose and frequency should be adjusted to suit an individual patient’s needs.
+After observing the response to initial therapy with diclofenac sodium delayed-release tablets, the dose and frequency should be adjusted to suit an individual patient’s needs.
 
-For the relief of osteoarthritis, the recommended dosage is 100 to 150 mg/day in divided doses (50 mg b.i.d. or t.i.d., or 75 mg b.i.d.).
+For the relief of osteoarthritis, the recommended dosage is 100 mg/day to 150 mg/day in divided doses (50 mg twice a day or three times a day, or 75 mg twice a day).
 
-For the relief of rheumatoid arthritis, the recommended dosage is 150 to 200 mg/day in divided doses (50 mg t.i.d. or q.i.d., or 75 mg b.i.d.).
+For the relief of rheumatoid arthritis, the recommended dosage is 150 mg/day to 200 mg/day in divided doses (50 mg three times a day. or four times a day, or 75 mg twice a day).
 
-For the relief of ankylosing spondylitis, the recommended dosage is 100 to 125 mg/day, administered as 25 mg q.i.d., with an extra 25 mg dose at bedtime if necessary.
+For the relief of ankylosing spondylitis, the recommended dosage is 100 mg/day to 125 mg/day, administered as 25 mg four times a day, with an extra 25 mg dose at bedtime if necessary.
 
 Different formulations of diclofenac (diclofenac sodium delayed-release tablets; diclofenac sodium extended-release tablets, USP; diclofenac potassium immediate-release tablets) are not necessarily bioequivalent even if the milligram strength is the same.

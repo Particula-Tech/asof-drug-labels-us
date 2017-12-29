@@ -1,8 +1,8 @@
 # CONTRAINDICATIONS
 
-Diclofenac sodium delayed-release tablets, USP are contraindicated in patients with known hypersensitivity to diclofenac.
+Diclofenac sodium delayed-release tablets are contraindicated in the following patients:
 
-Diclofenac sodium delayed-release should not be given to patients who have experienced asthma, urticaria, or other allergic-type reactions after taking aspirin or other NSAIDs.
-Severe, rarely fatal, anaphylactic-like reactions to NSAIDs have been reported in such patients (see WARNINGS, Anaphylactoid Reactions, and PRECAUTIONS, Preexisting Asthma).
-
-Diclofenac sodium delayed-release is contraindicated in the setting of coronary artery bypass graft (CABG) surgery (see WARNINGS).
+- Known hypersensitivity (e.g., anaphylactic reactions and serious skin reactions) to diclofenac or any components of the drug product (see WARNINGS; Anaphylactic Reactions, Serious Skin Reactions).
+- History of asthma, urticaria, or other allergic-type reactions after taking aspirin or other NSAIDs.
+  Severe, sometimes fatal, anaphylactic reactions to NSAIDs have been reported in such patients (see WARNINGS; Anaphylactic Reactions, Exacerbation of Asthma Related to Aspirin Sensitivity).
+- In the setting of coronary artery bypass graft (CABG) surgery (see WARNINGS; Cardiovascular Thrombotic Events).

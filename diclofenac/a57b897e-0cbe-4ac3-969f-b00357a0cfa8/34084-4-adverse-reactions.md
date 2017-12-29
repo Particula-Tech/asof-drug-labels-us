@@ -1,6 +1,22 @@
 # ADVERSE REACTIONS
 
-In patients taking diclofenac sodium delayed-release tablets, USP or other NSAIDs, the most frequently reported adverse experiences occurring in approximately 1% to 10% of patients are:
+The following adverse reactions are discussed in greater detail in other sections of the labeling:
+
+- Cardiovascular Thrombotic Events (see WARNINGS)
+- GI Bleeding, Ulceration and Perforation (see WARNINGS)
+- Hepatotoxicity (see WARNINGS)
+- Hypertension (see WARNINGS)
+- Heart Failure and Edema (see WARNINGS)
+- Renal Toxicity and Hyperkalemia (see WARNINGS)
+- Anaphylactic Reactions (see WARNINGS)
+- Serious Skin Reactions (see WARNINGS)
+- Hematologic Toxicity (see WARNINGS)
+
+Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+In patients taking diclofenac sodium delayed-release tablets, or other NSAIDs, the most frequently reported adverse experiences occurring in approximately 1% to 10% of patients are:
 
 Gastrointestinal experiences including: abdominal pain, constipation, diarrhea, dyspepsia, flatulence, gross bleeding/perforation, heartburn, nausea, GI ulcers (gastric/duodenal) and vomiting.
 
@@ -26,7 +42,7 @@ Skin and Appendages: alopecia, photosensitivity, sweating increased
 
 Special Senses: blurred vision
 
-Urogenital System: cystitis, dysuria, hematuria, interstitial nephritis, oliguria/polyuria, proteinuria, renal failure
+Urogenital System: cystitis, dysuria, hematuria, interstitial nephritis, oliguria/polyuria, proteinuriarenal failure
 
 Other adverse reactions, which occur rarely are:
 

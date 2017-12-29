@@ -1,35 +1,28 @@
-# Medication Guide for Nonsteroidal Anti-inflammatory Drugs (NSAIDs)
+# Medication Guide for Nonsteroidal Anti-Inflammatory Drugs (NSAIDs)
 
-What is the most important information I should know about medicines called Nonsteroidal Anti-inflammatory Drugs (NSAIDs)?
+What is the most important information I should know about medicines called Nonsteroidal Anti-Inflammatory Drugs (NSAIDs)?
 
 NSAIDs can cause serious side effects, including:
 
 - Increased risk of a heart attack or stroke that can lead to death.
   This risk may happen early in treatment and may increase:
   - with increasing doses of NSAIDs
-  - with longer use of NSAIDs
-
-Do not take NSAIDs right before or after a heart surgery called a “coronary artery bypass graft (CABG)."
-
-Avoid taking NSAIDs after a recent heart attack, unless your healthcare provider tells you to.
-You may have an increased risk of another heart attack if you take NSAIDs after a recent heart attack.
-
+  - with longer use of NSAIDs Do not take NSAIDs right before or after a heart surgery called a “coronary artery bypass graft (CABG).”
+    Avoid taking NSAIDs after a recent heart attack, unless your healthcare provider tells you to.
+    You may have an increased risk of another heart attack if you take NSAIDs after a recent heart attack.
 - Increased risk of bleeding, ulcers, and tears (perforation) of the esophagus (tube leading from the mouth to the stomach), stomach and intestines:
-  - anytime during use
+  - any time during use
   - without warning symptoms
   - that may cause death
 
 The risk of getting an ulcer or bleeding increases with:
 
-o past history of stomach ulcers, or stomach or intestinal bleeding with use of NSAIDs
-
-o taking medicines called “corticosteroids”, “anticoagulants”, “SSRIs”, or “SNRIs”
-
-| o increasing doses of NSAIDs | o older age |
-| --- | --- |
-| o longer use of NSAIDs | o poor health |
-| o smoking | o advanced liver disease |
-| o drinking alcohol | o bleeding problems |
+- past history of stomach ulcers, or stomach or intestinal bleeding with use of NSAIDs
+- taking medicines called “corticosteroids”, “anticoagulants”, “SSRIs”, or “SNRIs”
+- increasing doses of NSAIDs ○ older age
+- longer use of NSAIDs ○ poor health
+- smoking ○ advanced liver disease
+- drinking alcohol ○ bleeding problems
 
 NSAIDs should only be used:
 
@@ -42,9 +35,10 @@ What are NSAIDs?
 NSAIDs are used to treat pain and redness, swelling, and heat (inflammation) from medical conditions such as different types of arthritis, menstrual cramps, and other types of short-term pain.
 
 Who should not take NSAIDs?
+
 Do not take NSAIDs:
 
-- if you have had an asthma attack, hives, or other allergic reaction with aspirin or any other NSAIDs.
+- if you had an asthma attack, hives, or other allergic reaction with aspirin or any other NSAIDs.
 - right before or after heart bypass surgery.
 
 Before taking NSAIDs, tell your healthcare provider about all of your medical conditions, including if you:
@@ -62,10 +56,9 @@ NSAIDs and some other medicines can interact with each other and cause serious s
 Do not start taking any new medicine without talking to your healthcare provider first.
 
 What are the possible side effects of NSAIDs?
-
 NSAIDs can cause serious side effects, including:
 
-See “What is the most important information I should know about medicines called Nonsteroidal Anti-inflammatory Drugs (NSAIDs)?
+See “What is the most important information I should know about medicines called Nonsteroidal Anti-inflammatory Drugs (NSAIDs)?”
 
 - new or worse high blood pressure
 - heart failure
@@ -73,28 +66,27 @@ See “What is the most important information I should know about medicines call
 - kidney problems including kidney failure
 - low red blood cells (anemia)
 - life-threatening skin reactions
-- life threatening allergic reactions
+- life-threatening allergic reactions
 - Other side effects of NSAIDs include: stomach pain, constipation, diarrhea, gas, heartburn, nausea, vomiting, and dizziness.
 
-Get emergency help right away if you get any of the following symptoms:
+Get emergency help right away if you have any of the following symptoms:
 
-| • shortness of breath or trouble breathing | • slurred speech |
-| --- | --- |
-| • chest pain | • swelling of the face or throat |
-| • weakness in one part or side of your body |  |
+- shortness of breath or trouble breathing ● slurred speech
+- chest pain ● swelling of the face or throat
+- weakness in one part or side of your body
 
 Stop taking your NSAID and call your healthcare provider right away if you get any of the following symptoms:
 
-| • nausea | • vomit blood |
-| --- | --- |
-| • more tired or weaker than usual | • there is blood in your bowel movement or it |
-| • diarrhea | is black and sticky like tar |
-| • itching | • unusual weight gain |
-| • your skin or eyes look yellow | • skin rash or blisters with fever |
-| • indigestion or stomach pain | • swelling of the arms, legs, hands and feet |
-| • flu-like symptoms |  |
+- nausea ● vomit blood
+- more tired or weaker than usual ● there is blood in your bowel movement or
+- diarrhea it is black and sticky like tar
+- itching ● unusual weight gain
+- your skin or eyes look yellow ● skin rash or blisters with fever
+- indigestion or stomach pain ● swelling of the arms and legs, hands and feet
+- flu-like symptoms
 
 If you take too much of your NSAID, call your healthcare provider or get medical help right away.
+
 These are not all the possible side effects of NSAIDs.
 For more information, ask your healthcare provider or pharmacist about NSAIDs.
 
@@ -103,10 +95,9 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 Other information about NSAIDs
 
-- Aspirin is an NSAID but it does not increase the chance of a heart attack.
+- Aspirin is an NSAID medicine but it does not increase the chance of a heart attack.
   Aspirin can cause bleeding in the brain, stomach, and intestines.
   Aspirin can also cause ulcers in the stomach and intestines.
-
 - Some NSAIDs are sold in lower doses without a prescription (over-the-counter).
   Talk to your healthcare provider before using over-the-counter NSAIDs for more than 10 days.
 
@@ -126,8 +117,10 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Manufactured by: Actavis Elizabeth LLC Elizabeth, NJ 07207 USA
 
-Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA Revised - August 2015
+Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
+
+Revised - October 2017
 
 40-9184
 
-(MG 41-1174/0715)
+(MG 41-1174/1017)
