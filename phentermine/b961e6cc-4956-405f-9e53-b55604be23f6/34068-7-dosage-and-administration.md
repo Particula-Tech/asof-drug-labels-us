@@ -5,7 +5,7 @@ Exogenous Obesity
 Dosage should be individualized to obtain an adequate response with the lowest effective dose.
 
 The usual adult dose is one tablet as prescribed by the physician, administered in the morning, with or without food.
-Suprenza is not recommended for use in pediatric patients less than or equal to 16 years of age.
+Suprenzais not recommended for use in pediatric patients less than or equal to 16 years of age.
 
 Late evening medication should be avoided because of the possibility of resulting insomnia.
 
