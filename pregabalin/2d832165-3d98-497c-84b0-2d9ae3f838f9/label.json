@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA021446"
+  ],
+  "inn": "pregabalin",
+  "labeler": "Parke-Davis Div of Pfizer Inc",
+  "package_ndcs": [
+    "0071-1026-01",
+    "0071-1027-01",
+    "0071-1029-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "generic": "pregabalin",
+      "name": "Lyrica CR"
+    }
+  ],
+  "setid": "2d832165-3d98-497c-84b0-2d9ae3f838f9",
+  "source": "dailymed"
+}
