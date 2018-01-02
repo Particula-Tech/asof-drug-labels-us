@@ -8,13 +8,14 @@ Gabapentin is not appreciably metabolized nor does it interfere with the metabol
 
 Hydrocodone
 
-Co-administration of gabapentin with hydrocodone decreases hydrocodone exposure [see Clinical Pharmacology (12.3)].The potential for alteration in hydrocodone exposure and effect should be considered when gabapentin is started or discontinued in a patient taking hydrocodone.
+Co-administration of gabapentin with hydrocodone decreases hydrocodone exposure [see Clinical Pharmacology (12.3)].
+The potential for alteration in hydrocodone exposure and effect should be considered when gabapentin is started or discontinued in a patient taking hydrocodone.
 
 Morphine
 
-When gabapentin is administered with morphine, patients should be observed for signs of central nervous system (CNS) depression, such as somnolence, sedation and respiratory depression [see Clinical Pharmacology (12.3)].
+When gabapentin is administered with morphine, patients should be observed for signs of CNS depression, such as somnolence, sedation and respiratory depression [see Clinical Pharmacology (12.3)].
 
-## 7.3 MAALOX® (aluminum hydroxide, magnesium hydroxide)
+## 7.3 Maalox® (aluminum hydroxide, magnesium hydroxide)
 
 The mean bioavailability of gabapentin was reduced by about 20% with concomitant use of an antacid (Maalox®) containing magnesium and aluminum hydroxides.
 It is recommended that gabapentin be taken at least 2 hours following Maalox administration [see Clinical Pharmacology (12.3)].

@@ -27,7 +27,7 @@ Counsel the patient, their caregivers, and families that AEDs, including gabapen
 Advise patients of the need to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
 Instruct patients to report behaviors of concern immediately to healthcare providers [see Warnings and Precautions (5.6)].
 
-Use in Pregnancy Instruct patients to notify their physician if they become pregnant or intend to become pregnant during therapy, and to notify their physician if they are breast feeding or intend to breast feed during therapy [see Use in Specific Populations (8.1) and (8.3)].
+Use in Pregnancy Instruct patients to notify their physician if they become pregnant or intend to become pregnant during therapy, and to notify their physician if they are breast feeding or intend to breast feed during therapy [see Use in Specific Populations (8.1) and (8.2)].
 
 Encourage patients to enroll in the NAAED Pregnancy Registry if they become pregnant.
 This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
@@ -39,9 +39,22 @@ For full prescribing information, please visit www.amneal.com.
 *Trademarks are the property of their respective owners.
 
 Manufactured by: Amneal Pharmaceuticals Pvt.
-Ltd. Ahmedabad, INDIA 382220
+Ltd. Ahmedabad 382220, INDIA
 
-Distributed by: Amneal Pharmaceuticals Bridgewater, NJ 08807
+Or
+
+Manufactured by:
+
+Amneal Pharmaceuticals Pvt.
+Ltd.
+
+Oral Solid Dosage Unit
+
+Ahmedabad 382213, INDIA
+
+Distributed by: Amneal Pharmaceuticals LLC
+
+Bridgewater, NJ 08807
 
 Rev.
-10-2015-04
+12-2017-07

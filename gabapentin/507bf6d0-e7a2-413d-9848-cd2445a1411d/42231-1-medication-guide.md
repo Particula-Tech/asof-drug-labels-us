@@ -2,20 +2,16 @@
 
 Gabapentin (GA-be-PEN-tin) Capsules
 
-Read the Medication Guide before you start taking gabapentin capsules and each time you get a refill.
-There may be new information.
-This information does not take the place of talking to your healthcare provider about your medical condition or treatment.
-
 What is the most important information I should know about gabapentin capsules?
+
 Do not stop taking gabapentin capsules without first talking to your healthcare provider.
 
 Stopping gabapentin capsules suddenly can cause serious problems.
 
 Gabapentin capsules can cause serious side effects including:
 
-1.
-Suicidal Thoughts.
-Like other antiepileptic drugs, gabapentin capsules may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
+1. Suicidal Thoughts.
+   Like other antiepileptic drugs, gabapentin capsules may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
 
 Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
 
@@ -93,29 +89,25 @@ Before taking gabapentin capsules, tell your healthcare provider if you:
   It is not known if gabapentin capsules can harm your unborn baby.
   Tell your healthcare provider right away if you become pregnant while taking gabapentin capsules.
   You and your healthcare provider will decide if you should take gabapentin capsules while you are pregnant.
-  - If you become pregnant while taking gabapentin capsules, talk to your healthcare provider about registering with the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
+  - Pregnancy Registry: If you become pregnant while taking gabapentin capsules, talk to your healthcare provider about registering with the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
     The purpose of this registry is to collect information about the safety of antiepileptic drugs during pregnancy.
     You can enroll in this registry by calling 1-888-233-2334.
 
 - are breast-feeding or plan to breast-feed.
   Gabapentin can pass into breast milk.
   You and your healthcare provider should decide how you will feed your baby while you take gabapentin capsules.
-
-Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
-
-Taking gabapentin capsules with certain other medicines can cause side effects or affect how well they work.
-Do not start or stop other medicines without talking to your healthcare provider.
-
-Know the medicines you take.
-Keep a list of them and show it to your healthcare provider and pharmacist when you get a new medicine.
-How should I take gabapentin capsules?
+  Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
+  Taking gabapentin capsules with certain other medicines can cause side effects or affect how well they work.
+  Do not start or stop other medicines without talking to your healthcare provider.
+  Know the medicines you take.
+  Keep a list of them and show it to your healthcare provider and pharmacist when you get a new medicine.
+  How should I take gabapentin capsules?
 
 - Take gabapentin capsules exactly as prescribed.
   Your healthcare provider will tell you how much gabapentin capsules to take.
 
 - Do not change your dose of gabapentin capsules without talking to your healthcare provider.
 - Take gabapentin capsules with water.
-
 - Gabapentin capsules can be taken with or without food.
   If you take an antacid containing aluminum and magnesium, such as Maalox®, Mylanta®, Gelusil®, Gaviscon®, or Di-Gel®, you should wait at least 2 hours before taking your next dose of gabapentin capsules.
 
@@ -130,27 +122,22 @@ What should I avoid while taking gabapentin capsules?
 
 What are the possible side effects of gabapentin capsules?
 
-Gabapentin capsules may cause serious side effects including:
-
-See “What is the most important information I should know about gabapentin capsules?”
+Gabapentin capsules may cause serious side effects including: See “What is the most important information I should know about gabapentin capsules?”
 
 - problems driving while using gabapentin capsules.
   See “What I should avoid while taking gabapentin capsules?”
 - sleepiness and dizziness, which could increase the occurrence of accidental injury, including falls
+
 - The most common side effects of gabapentin capsules include:
-- lack of coordination
-- viral infection
-- feeling drowsy
-- nausea and vomiting
-- difficulty with speaking
-- tremor
-- swelling, usually of legs and feet
-- feeling tired
-- fever
-- jerky movements
-- difficulty with coordination
-- double vision
-- unusual eye movement
+
+| lack of coordination | feeling tired |
+| --- | --- |
+| viral infection | fever |
+| feeling drowsy | jerky movements |
+| nausea and vomiting | difficulty with coordination |
+| difficulty with speaking | double vision |
+| tremor | unusual eye movement |
+| swelling, usually of legs and feet |  |
 
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 
@@ -162,7 +149,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store gabapentin capsules?
 
-- Store Gabapentin Capsules between 68°F to 77°F (20°C to 25°C).
+- Store gabapentin capsules between 68°F to 77°F (20°C to 25°C).
 
 Keep gabapentin capsules and all medicines out of the reach of children.
 
@@ -199,9 +186,22 @@ For current full prescribing information, please visit www.amneal.com
 *Trademarks are the property of their respective owners.
 
 Manufactured by: Amneal Pharmaceuticals Pvt.
-Ltd. Ahmedabad, INDIA 382220
+Ltd. Ahmedabad 382220, INDIA
 
-Distributed by: Amneal Pharmaceuticals Bridgewater, NJ 08807
+Or
+
+Manufactured by:
+
+Amneal Pharmaceuticals Pvt.
+Ltd.
+
+Oral Solid Dosage Unit
+
+Ahmedabad 382213, INDIA
+
+Distributed by: Amneal Pharmaceuticals LLC
+
+Bridgewater, NJ 08807
 
 Rev.
-10-2015-04
+12-2017-07

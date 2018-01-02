@@ -23,9 +23,11 @@ The adverse reactions that most frequently led to withdrawal in gabapentin-treat
 
 Table 3 lists adverse reactions that occurred in at least 1% of gabapentin-treated patients with postherpetic neuralgia participating in placebo-controlled trials and that were numerically more frequent in the gabapentin group than in the placebo group.
 
-| TABLE 3. Adverse Reactions in Pooled Placebo-Controlled Trials in Postherpetic Neuralgia |  |  |
-| --- | --- | --- |
+TABLE 3.
+Adverse Reactions in Pooled Placebo-Controlled Trials in Postherpetic Neuralgia
+
 |  | GabapentinN=336% | PlaceboN=227% |
+| --- | --- | --- |
 | Body as a Whole |  |  |
 | Asthenia | 6 | 5 |
 | Infection | 5 | 4 |
@@ -64,18 +66,21 @@ Because there were few patients whose race was reported as other than white, the
 Epilepsy with Partial Onset Seizures (Adjunctive Therapy)
 
 The most common adverse reactions with gabapentin in combination with other antiepileptic drugs in patients >12 years of age, not seen at an equivalent frequency among placebo-treated patients, were somnolence, dizziness, ataxia, fatigue, and nystagmus.
-The most common adverse reactions with gabapentin in combination with other antiepileptic drugs in pediatric patients 3 to 12 years of age, not seen at an equal frequency among placebo-treated patients, were viral infection, fever, nausea and/or vomiting, somnolence, and hostility [see Warnings and Precautions (5.5)].
 
-Approximately 7% of the 2074 patients >12 years of age and approximately 7% of the 449 pediatric patients 3 to 12 years of age who received gabapentin in premarketing clinical trials discontinued treatment because of an adverse reaction.
-The adverse reactions most commonly associated with withdrawal in patients >12 years of age were somnolence (1.2%), ataxia (0.8%), fatigue (0.6%), nausea and/or vomiting (0.6%), and dizziness (0.6%).
+The most common adverse reactions with gabapentin in combination with other antiepileptic drugs in pediatric patients 3 to 12 years of age, not seen at an equal frequency among placebo-treated patients, were viral infection, fever, nausea and/or vomiting, somnolence, and hostility [see Warnings and Precautions (5.7)].
+
+Approximately 7% of the 2,074 patients > 12 years of age and approximately 7% of the 449 pediatric patients 3 to 12 years of age who received gabapentin in premarketing clinical trials discontinued treatment because of an adverse reaction.
+The adverse reactions most commonly associated with withdrawal in patients > 12 years of age were somnolence (1.2%), ataxia (0.8%), fatigue (0.6%), nausea and/or vomiting (0.6%), and dizziness (0.6%).
 The adverse reactions most commonly associated with withdrawal in pediatric patients were emotional lability (1.6%), hostility (1.3%), and hyperkinesia (1.1%).
 
-Table 4 lists adverse reactions that occurred in at least 1% of gabapentin-treated patients >12 years of age with epilepsy participating in placebo-controlled trials and were numerically more common in the gabapentin group.
+Table 4 lists adverse reactions that occurred in at least 1% of gabapentin-treated patients > 12 years of age with epilepsy participating in placebo-controlled trials and were numerically more common in the gabapentin group.
 In these studies, either gabapentin or placebo was added to the patient’s current antiepileptic drug therapy.
 
-| TABLE 4. Adverse Reactions in Pooled Placebo-Controlled Add-On Trials In Epilepsy Patients >12 years of age |  |  |
-| --- | --- | --- |
+TABLE 4.
+Adverse Reactions in Pooled Placebo-Controlled Add-On Trials In Epilepsy Patients > 12 years of age
+
 |  | GabapentinaN=543% | PlaceboaN=378% |
+| --- | --- | --- |
 | Body As A Whole |  |  |
 | Fatigue | 11 | 5 |
 | Increased Weight | 3 | 2 |
@@ -109,8 +114,7 @@ In these studies, either gabapentin or placebo was added to the patient’s curr
 | Special Senses |  |  |
 | Diplopia | 6 | 2 |
 | Amblyopiab | 4 | 1 |
-
-a Plus background antiepileptic drug therapy b Amblyopia was often described as blurred vision.
+| a Plus background antiepileptic drug therapyb Amblyopia was often described as blurred vision. |  |  |
 
 Among the adverse reactions occurring at an incidence of at least 10% in gabapentin-treated patients, somnolence and ataxia appeared to exhibit a positive dose-response relationship.
 
@@ -120,9 +124,11 @@ Because only 3% of patients (28/921) in placebo-controlled studies were identifi
 
 Table 5 lists adverse reactions that occurred in at least 2% of gabapentin-treated patients, age 3 to 12 years of age with epilepsy participating in placebo-controlled trials, and which were numerically more common in the gabapentin group.
 
-| TABLE 5. Adverse Reactions in a Placebo-Controlled Add-on Trial in Pediatric Epilepsy Patients Age 3 to 12 Years |  |  |
-| --- | --- | --- |
+TABLE 5.
+Adverse Reactions in a Placebo-Controlled Add-On Trial in Pediatric Epilepsy Patients Age 3 to 12 Years
+
 |  | GabapentinaN=119% | PlaceboaN=128% |
+| --- | --- | --- |
 | Body As A Whole |  |  |
 | Viral Infection | 11 | 3 |
 | Fever | 10 | 3 |
@@ -154,9 +160,11 @@ Investigations: elevated creatine kinase, elevated liver function tests
 
 Metabolism and nutrition disorders: hyponatremia
 
-Musculoskeletal and connective tissue disorders: rhabdomyolysis
+Musculoskeletal and connective tissue disorder: rhabdomyolysis
 
 Nervous system disorders: movement disorder
+
+Psychiatric disorders: agitation
 
 Reproductive system and breast disorders: breast enlargement, changes in libido, ejaculation disorders and anorgasmia
 

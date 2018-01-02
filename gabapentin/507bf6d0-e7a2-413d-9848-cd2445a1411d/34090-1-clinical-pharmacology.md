@@ -14,7 +14,7 @@ All pharmacological actions following gabapentin administration are due to the a
 Oral Bioavailability
 
 Gabapentin bioavailability is not dose proportional; i.e., as dose is increased, bioavailability decreases.
-Bioavailability of gabapentin is approximately 60%, 47%, 34%, 33%, and 27% following 900, 1200, 2400, 3600, and 4800 mg/day given in 3 divided doses, respectively.
+Bioavailability of gabapentin is approximately 60%, 47%, 34%, 33%, and 27% following 900 mg, 1,200 mg, 2,400 mg, 3,600 mg, and 4,800 mg/day given in 3 divided doses, respectively.
 Food has only a slight effect on the rate and extent of absorption of gabapentin (14% increase in AUC and Cmax).
 
 Distribution
@@ -54,25 +54,25 @@ Pediatric
 
 Gabapentin pharmacokinetics were determined in 48 pediatric subjects between the ages of 1 month and 12 years following a dose of approximately 10 mg/kg.
 Peak plasma concentrations were similar across the entire age group and occurred 2 to 3 hours postdose.
-In general, pediatric subjects between 1 month and <5 years of age achieved approximately 30% lower exposure (AUC) than that observed in those 5 years of age and older.
+In general, pediatric subjects between 1 month and < 5 years of age achieved approximately 30% lower exposure (AUC) than that observed in those 5 years of age and older.
 Accordingly, oral clearance normalized per body weight was higher in the younger children.
 Apparent oral clearance of gabapentin was directly proportional to creatinine clearance.
 Gabapentin elimination half-life averaged 4.7 hours and was similar across the age groups studied.
 
 A population pharmacokinetic analysis was performed in 253 pediatric subjects between 1 month and 13 years of age.
-Patients received 10 to 65 mg/kg/day given three times a day.
+Patients received 10 mg to 65 mg/kg/day given three times a day.
 Apparent oral clearance (CL/F) was directly proportional to creatinine clearance and this relationship was similar following a single dose and at steady-state.
-Higher oral clearance values were observed in children <5 years of age compared to those observed in children 5 years of age and older, when normalized per body weight.
-The clearance was highly variable in infants <1 year of age.
+Higher oral clearance values were observed in children < 5 years of age compared to those observed in children 5 years of age and older, when normalized per body weight.
+The clearance was highly variable in infants < 1 year of age.
 The normalized CL/F values observed in pediatric patients 5 years of age and older were consistent with values observed in adults after a single dose.
 The oral volume of distribution normalized per body weight was constant across the age range.
 
-These pharmacokinetic data indicate that the effective daily dose in pediatric patients with epilepsy ages 3 and 4 years should be 40 mg/kg/day to achieve average plasma concentrations similar to those achieved in patients 5 years of age and older receiving gabapentin at 30 mg/kg/day [see Dosage and Administration (2.1)].
+These pharmacokinetic data indicate that the effective daily dose in pediatric patients with epilepsy ages 3 and 4 years should be 40 mg/kg/day to achieve average plasma concentrations similar to those achieved in patients 5 years of age and older receiving gabapentin at 30 mg/kg/day [see Dosage and Administration (2.2)].
 
-Adult Patients With Renal Impairment
+Adult Patients with Renal Impairment
 
 Subjects (N=60) with renal impairment (mean creatinine clearance ranging from 13 to 114 mL/min) were administered single 400 mg oral doses of gabapentin.
-The mean gabapentin half-life ranged from about 6.5 hours (patients with creatinine clearance >60 mL/min) to 52 hours (creatinine clearance <30 mL/min) and gabapentin renal clearance from about 90 mL/min (>60 mL/min group) to about 10 mL/min (<30 mL/min).
+The mean gabapentin half-life ranged from about 6.5 hours (patients with creatinine clearance > 60 mL/min) to 52 hours (creatinine clearance < 30 mL/min) and gabapentin renal clearance from about 90 mL/min (> 60 mL/min group) to about 10 mL/min (< 30 mL/min).
 Mean plasma clearance (CL/F) decreased from approximately 190 mL/min to 20 mL/min [see Dosage and Administration (2.3) and Use in Specific Populations (8.6)].
 Pediatric patients with renal insufficiency have not been studied.
 
@@ -91,7 +91,7 @@ Drug Interactions
 
 In vitro studies were conducted to investigate the potential of gabapentin to inhibit the major cytochrome P450 enzymes (CYP1A2, CYP2A6, CYP2C9, CYP2C19, CYP2D6, CYP2E1, and CYP3A4) that mediate drug and xenobiotic metabolism using isoform selective marker substrates and human liver microsomal preparations.
 Only at the highest concentration tested (171 mcg/mL; 1 mM) was a slight degree of inhibition (14% to 30%) of isoform CYP2A6 observed.
-No inhibition of any of the other isoforms tested was observed at gabapentin concentrations up to 171 mcg/mL (approximately 15 times the Cmax at 3600 mg/day).
+No inhibition of any of the other isoforms tested was observed at gabapentin concentrations up to 171 mcg/mL (approximately 15 times the Cmax at 3,600 mg/day).
 
 - In Vivo Studies
 
@@ -136,7 +136,7 @@ The magnitude of interaction at other doses is not known.
 
 Cimetidine
 
-In the presence of cimetidine at 300 mg QID (N=12), the mean apparent oral clearance of gabapentin fell by 14% and creatinine clearance fell by 10%.
+In the presence of cimetidine at 300 mg four times a day (N=12), the mean apparent oral clearance of gabapentin fell by 14% and creatinine clearance fell by 10%.
 Thus, cimetidine appeared to alter the renal excretion of both gabapentin and creatinine, an endogenous marker of renal function.
 This small decrease in excretion of gabapentin by cimetidine is not expected to be of clinical importance.
 The effect of gabapentin on cimetidine was not evaluated.
