@@ -1,6 +1,10 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-The white opaque 140 mg capsules marked with "ibr 140 mg" in black ink are available in white HDPE bottles with a child-resistant closure:
+The 70 mg capsules are supplied as yellow opaque capsules, marked with “ibr 70 mg” in black ink, and are available in white HDPE bottles with a child-resistant closure:
+
+- 28 capsules per bottle: NDC 57962-070-28
+
+The 140 mg capsules are supplied as white opaque capsules, marked with “ibr 140 mg” in black ink, and are available in white HDPE bottles with a child-resistant closure:
 
 - 90 capsules per bottle: NDC 57962-140-09
 - 120 capsules per bottle: NDC 57962-140-12

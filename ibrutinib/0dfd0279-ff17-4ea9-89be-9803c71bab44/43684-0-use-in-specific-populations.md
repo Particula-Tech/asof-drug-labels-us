@@ -62,9 +62,9 @@ Anemia (all grades) and Grade 3 or higher pneumonia occurred more frequently amo
 
 ## 8.6 Hepatic Impairment
 
-Avoid use of IMBRUVICA in patients with moderate or severe hepatic impairment (Child-Pugh class B and C). The safety of IMBRUVICA has not been evaluated in patients with mild to severe hepatic impairment by Child-Pugh criteria.
+Avoid use of IMBRUVICA in patients with severe hepatic impairment (Child-Pugh class C). The safety of IMBRUVICA has not been evaluated in patients with mild to severe hepatic impairment by Child-Pugh criteria.
 
-Monitor patients for adverse reactions of IMBRUVICA and follow dose modification guidance as needed [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
+Dose modifications of IMBRUVICA are recommended in patients with mild or moderate hepatic impairment (Child-Pugh class A and B). Monitor patients for adverse reactions of IMBRUVICA closely [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
 
 ## 8.7 Plasmapheresis
 

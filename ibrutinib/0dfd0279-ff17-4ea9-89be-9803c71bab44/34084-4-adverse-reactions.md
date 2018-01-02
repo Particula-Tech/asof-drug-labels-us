@@ -5,7 +5,7 @@ The following adverse reactions are discussed in more detail in other sections o
 - Hemorrhage [see Warnings and Precautions (5.1)]
 - Infections [see Warnings and Precautions (5.2)]
 - Cytopenias [see Warnings and Precautions (5.3)]
-- Atrial Fibrillation [see Warnings and Precautions (5.4)]
+- Cardiac Arrhythmias [see Warnings and Precautions (5.4)]
 - Hypertension [see Warnings and Precautions (5.5)]
 - Second Primary Malignancies [see Warnings and Precautions (5.6)]
 - Tumor Lysis Syndrome [see Warnings and Precautions (5.7)]
@@ -411,6 +411,11 @@ Table 14: Treatment-Emergent Hematologic Laboratory Abnormalities in Patients wi
 | Hemoglobin Decreased | 24 | 2 |
 
 Additional Important Adverse Reactions
+
+Cardiac Arrhythmias
+
+In randomized controlled trials (n=1227; median treatment duration of 13.1 months for patients treated with IMBRUVICA and 9.0 months for patients in the control arm), the incidence of ventricular tachyarrhythmias (ventricular extrasystoles, ventricular arrhythmias, ventricular fibrillation, ventricular flutter, and ventricular tachycardia) of any grade was 1.0% versus 0.2% and of Grade 3 or greater was 0.2% versus 0% in patients treated with IMBRUVICA compared to patients in the control arm.
+In addition, the incidence of atrial fibrillation and atrial flutter of any grade was 7% versus 1.5% and for Grade 3 or greater was 2.8% versus 0.3% in patients treated with IMBRUVICA compared to patients in the control arm.
 
 Diarrhea
 

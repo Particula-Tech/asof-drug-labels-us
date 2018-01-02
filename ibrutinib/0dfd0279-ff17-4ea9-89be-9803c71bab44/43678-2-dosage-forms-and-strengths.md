@@ -1,3 +1,3 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-140 mg capsules
+Capsule: 70 mg and 140 mg

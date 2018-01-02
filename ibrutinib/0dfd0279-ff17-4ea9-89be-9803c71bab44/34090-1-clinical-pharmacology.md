@@ -82,7 +82,7 @@ Effect of CYP3A Inhibitors on Ibrutinib
 
 The coadministration of multiple doses of ketoconazole (strong CYP3A inhibitor) increased the Cmax of ibrutinib by 29-fold and AUC by 24-fold.
 The coadministration of multiple doses of voriconazole (strong CYP3A inhibitor) increased steady state Cmax of ibrutinib by 6.7-fold and AUC by 5.7-fold.
-Simulations under fed conditions suggest that posaconazole (strong CYP3A inhibitor) may increase the AUC of ibrutinib 7-fold to 10-fold.
+Simulations under fed conditions suggest that posaconazole (strong CYP3A inhibitor) may increase the AUC of ibrutinib 3-fold to 10-fold.
 
 The coadministration of multiple doses of erythromycin (moderate CYP3A inhibitor) increased steady state Cmax of ibrutinib by 3.4-fold and AUC by 3-fold.
 

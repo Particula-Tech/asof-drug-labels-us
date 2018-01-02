@@ -26,12 +26,15 @@ Treatment-emergent Grade 3 or 4 cytopenias including neutropenia (range, 13 to 2
 
 Monitor complete blood counts monthly.
 
-## 5.4 Atrial Fibrillation
+## 5.4 Cardiac Arrhythmias
 
-Atrial fibrillation and atrial flutter (range, 6 to 9%) have occurred in patients treated with IMBRUVICA, particularly in patients with cardiac risk factors, hypertension, acute infections, and a previous history of atrial fibrillation.
-Periodically monitor patients clinically for atrial fibrillation.
-Patients who develop arrhythmic symptoms (e.g., palpitations, lightheadedness) or new onset dyspnea should have an ECG performed.
-Atrial fibrillation should be managed appropriately, and if it persists, consider the risks and benefits of IMBRUVICA treatment and follow dose modification guidelines [see Dosage and Administration (2.3)].
+Fatal and serious cardiac arrhythmias have occurred with IMBRUVICA therapy.
+Grade 3 or greater ventricular tachyarrhythmias occurred in 0 to 1% of patients, and Grade 3 or greater atrial fibrillation and atrial flutter occurred in 0 to 6% of patients.
+These events have occurred particularly in patients with cardiac risk factors, hypertension, acute infections, and a previous history of cardiac arrhythmias.
+
+Periodically monitor patients clinically for cardiac arrhythmias.
+Obtain an ECG for patients who develop arrhythmic symptoms (e.g., palpitations, lightheadedness, syncope, chest pain) or new onset dyspnea.
+Manage cardiac arrhythmias appropriately, and if it persists, consider the risks and benefits of IMBRUVICA treatment and follow dose modification guidelines [see Dosage and Administration (2.3)].
 
 ## 5.5 Hypertension
 
@@ -53,6 +56,6 @@ Monitor patients closely and treat as appropriate.
 ## 5.8 Embryo-Fetal Toxicity
 
 Based on findings in animals, IMBRUVICA can cause fetal harm when administered to a pregnant woman.
-Administration of ibrutinib to pregnant rats and rabbits during the period of organogenesis caused embryofetal toxicity including malformations at exposures that were 2-20 times higher than those reported in patients with hematologic malignancies.
+Administration of ibrutinib to pregnant rats and rabbits during the period of organogenesis caused embryo-fetal toxicity including malformations at exposures that were 2-20 times higher than those reported in patients with hematologic malignancies.
 Advise women to avoid becoming pregnant while taking IMBRUVICA and for 1 month after cessation of therapy.
 If this drug is used during pregnancy or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to a fetus [see Use in Specific Populations (8.1)].
