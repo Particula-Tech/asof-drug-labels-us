@@ -143,4 +143,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 Manufactured by: Alembic Pharmaceuticals Limited (Formulation Division), Village Panelav, P. O. Tajpura, Near Baska, Taluka-Halol, Panchmahal, Gujarat, India.
 Distributed by: Sun Pharmaceutical Industries, Inc. Cranbury, NJ 08512 USA
 
-Revised: 10/2017
+Revised: 12/2017

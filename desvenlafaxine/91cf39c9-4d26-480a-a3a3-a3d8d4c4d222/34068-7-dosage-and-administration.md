@@ -28,7 +28,6 @@ Dose escalation above 100 mg per day is not recommended [see Clinical Pharmacolo
 ## 2.3 Maintenance/Continuation/Extended Treatment
 
 It is generally agreed that acute episodes of major depressive disorder require several months or longer of sustained pharmacologic therapy.
-Longer-term efficacy of desvenlafaxine (50 to 400 mg) was established in two maintenance trials [see Clinical Studies (14)].
 Patients should be periodically reassessed to determine the need for continued treatment.
 
 ## 2.4 Discontinuing Desvenlafaxine
