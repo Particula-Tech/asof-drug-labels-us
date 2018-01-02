@@ -8,7 +8,7 @@
 |  | Step 3 |
 | 3. Position the index finger of the other hand to support the neck of the ampule. Position the thumb so that it covers the colored point and is parallel to the colored ring(s). |  |
 |  | Step 4 |
-| 4. Keeping the thumb on the colored point, and with the index fingers close together, apply firm pressure on the colored point in the direction of the arrow to snap the ampule open. |  |
+| 4. Keeping the thumb on the colored point and with the index fingers close together, apply firm pressure on the colored point in the direction of the arrow to snap the ampule open. |  |
 
 Product of Belgium
 
@@ -25,6 +25,6 @@ Horsham, PA 19044
 
 For more information, call 1-800-667-8570
 
-Revised March 2017
+Revised January 2018
 
-©Patriot 2011
+© 2011 Patriot
