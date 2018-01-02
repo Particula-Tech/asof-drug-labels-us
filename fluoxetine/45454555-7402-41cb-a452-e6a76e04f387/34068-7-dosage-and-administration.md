@@ -91,6 +91,25 @@ Table 1: Approximate Dose Correspondence Between Symbyax1 and the Combination of
 
 Fluoxetine capsules monotherapy is not indicated for the treatment of depressive episodes associated with Bipolar I Disorder.
 
+## 2.6 Fluoxetine Capsules and Olanzapine in Combination: Treatment Resistant Depression
+
+When using fluoxetine capsules and olanzapine in combination, also refer to the Clinical Studies section of the package insert for Symbyax.
+
+Administer fluoxetine in combination with oral olanzapine once daily in the evening, without regard to meals, generally beginning with 5 mg of oral olanzapine and 20 mg of fluoxetine.
+Adjust dosage, if indicated, according to efficacy and tolerability within dose ranges of fluoxetine 20 to 50 mg and oral olanzapine 5 to 20 mg.
+Antidepressant efficacy was demonstrated with olanzapine and fluoxetine in combination with a dose range of olanzapine 6 to 18 mg and fluoxetine 25 to 50 mg.
+
+Safety and efficacy of fluoxetine in combination with olanzapine was determined in clinical trials supporting approval of Symbyax (fixed dose combination of olanzapine and fluoxetine).
+Symbyax is dosed between 3 mg/25 mg (olanzapine/fluoxetine) per day and 12 mg/50 mg (olanzapine/fluoxetine) per day.
+Table 1 demonstrates the appropriate individual component doses of fluoxetine capsules and olanzapine versus Symbyax.
+Adjust dosage, if indicated, with the individual components according to efficacy and tolerability.
+
+Periodically re-examine the need for continued pharmacotherapy.
+
+Safety of coadministration of doses above 18 mg olanzapine with 75 mg fluoxetine has not been evaluated in clinical studies.
+
+Fluoxetine capsules monotherapy is not indicated for the treatment of treatment resistant depression (Major Depressive Disorder in patients who do not respond to 2 antidepressants of adequate dose and duration in the current episode).
+
 ## 2.7 Dosing in Specific Populations
 
 Treatment of Pregnant Women — When treating pregnant women with fluoxetine capsules, the physician should carefully consider the potential risks and potential benefits of treatment.

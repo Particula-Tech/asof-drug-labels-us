@@ -116,6 +116,7 @@ Fluoxetine capsules are used to treat:
 - Bulimia Nervosa*
 - Panic Disorder*
 - Depressive episodes associated with Bipolar I Disorder, taken with olanzapine (Zyprexa)
+- Treatment Resistant Depression (depression that has not gotten better with at least 2 other treatments), taken with olanzapine (Zyprexa)*
 
 *Not approved for use in children Talk to your healthcare provider if you do not think that your condition is getting better with fluoxetine capsules treatment.
 Who should not take fluoxetine capsules?
@@ -240,7 +241,7 @@ Keep fluoxetine capsules and all medicines out of the reach of children.
 General information about fluoxetine capsules Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use fluoxetine capsules for a condition for which it was not prescribed.
 Do not give fluoxetine capsules to other people, even if they have the same condition.
-They may harm them.
+It may harm them.
 This Medication Guide summarizes the most important information about fluoxetine capsules.
 If you would like more information, talk with your healthcare provider.
 You may ask your healthcare provider or pharmacist for information about fluoxetine capsules that is written for healthcare professionals.
@@ -255,4 +256,4 @@ Orap® is a registered trademark of Teva Pharmaceuticals USA.
 Coumadin® is a registered trademark of Bristol Myers Squibb.
 Jantoven® is a registered trademark of Upsher-Smith Laboratories Inc. Zyprexa® is a registered trademark of Eli Lilly and Company.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 090, India Revised: 04/2017
+Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides Distributed by: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 038, India Revised: 12/2017
