@@ -52,3 +52,7 @@ DROXIA may cause macrocytosis, which is self-limiting, and is often seen early i
 The morphologic change resembles pernicious anemia, but is not related to vitamin B12 or folic acid deficiency.
 This may mask the diagnosis of pernicious anemia.
 Prophylactic administration of folic acid is recommended.
+
+## 5.8 Laboratory Test Interference
+
+Interference with Uric Acid, Urea, or Lactic Acid Assays is possible, rendering falsely elevated results of these in patients treated with hydroxyurea [see Drug Interactions (7.2)].
