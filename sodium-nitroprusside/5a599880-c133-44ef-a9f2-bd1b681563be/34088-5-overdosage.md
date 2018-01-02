@@ -1,0 +1,34 @@
+# OVERDOSAGE
+
+Overdosage of nitroprusside can be manifested as excessive hypotension or cyanide toxicity (see WARNINGS) or as thiocyanate toxicity (see ADVERSE REACTIONS).
+
+The acute intravenous mean lethal doses (LD 50) of nitroprusside in rabbits, dogs, mice, and rats are 2.8, 5, 8.4, and 11.2 mg/kg, respectively.
+
+Treatment of cyanide toxicity: Cyanide levels can be measured by many laboratories, and blood-gas studies that can detect venous hyperoxemia or acidosis are widely available.
+Acidosis may not appear until more than an hour after the appearance of dangerous cyanide levels, and laboratory tests should not be awaited.
+Reasonable suspicion of cyanide toxicity is adequate grounds for initiation of treatment.
+
+Treatment of cyanide toxicity consists of
+
+- discontinuing the administration of sodium nitroprusside;
+- providing a buffer for cyanide by using sodium nitrite to convert as much hemoglobin into methemoglobin as the patient can safely tolerate; and then
+- infusing sodium thiosulfate in sufficient quantity to convert the cyanide into thiocyanate.
+
+The necessary medications for this treatment are contained in commercially available Cyanide Antidote Kits.
+Alternatively, discrete stocks of medications can be used.
+
+Hemodialysis is ineffective in removal of cyanide, but it will eliminate most thiocyanate.
+
+Cyanide Antidote Kits contain both amyl nitrite and sodium nitrite for induction of methemoglobinemia.
+The amyl nitrite is supplied in the form of inhalant ampoules, for administration in environments where intravenous administration of sodium nitrite may be delayed.
+In a patient who already has a patent intravenous line, use of amyl nitrite confers no benefit that is not provided by infusion of sodium nitrite.
+
+Sodium nitrite is available in a 3% solution, and 4 to 6 mg/kg (about 0.2 mL/kg) should be injected over 2 to 4 minutes.
+This dose can be expected to convert about 10% of the patient’s hemoglobin into methemoglobin; this level of methemoglobinemia is not associated with any important hazard of its own.
+The nitrite infusion may cause transient vasodilatation and hypotension, and this hypotension must, if it occurs, be routinely managed.
+
+Immediately after infusion of the sodium nitrite, sodium thiosulfate should be infused.
+This agent is available in 10% and 25% solutions, and the recommended dose is 150 to 200 mg/kg; a typical adult dose is 50 mL of the 25% solution.
+Thiosulfate treatment of an acutely cyanide-toxic patient will raise thiocyanate levels, but not to a dangerous degree.
+
+The nitrite/thiosulfate regimen may be repeated, at half the original doses, after two hours.

@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA209352"
+  ],
+  "inn": "sodium-nitroprusside",
+  "labeler": "Micro Labs Limited",
+  "package_ndcs": [
+    "42571-265-75"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "sodium nitroprusside",
+      "name": "SODIUM NITROPRUSSIDE"
+    }
+  ],
+  "setid": "5a599880-c133-44ef-a9f2-bd1b681563be",
+  "source": "dailymed"
+}
