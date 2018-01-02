@@ -1,24 +1,37 @@
 # HOW SUPPLIED
 
-NIMBEX Injection, 2 mg cisatracurium per mL, is supplied in the following:
+NIMBEX injection, 2 mg cisatracurium per mL, is supplied in the following:
 
-| List No. | Container | Size |
+| NDC# | Container | Size |
 | --- | --- | --- |
-| 4378 | Single-dose Vial | 5 mL |
-| 4380 | Multiple-dose Vial | 10 mL |
+| 0074-4378-24 | Single-dose Vial | 5 mL |
+| 0074-4380-79 | Multiple-dose Vial | 10 mL |
 
 NOTE:10 mL Multiple-dose Vials contain 0.9% w/v benzyl alcohol as a preservative (see WARNINGS concerning newborn infants).
 
-NIMBEX Injection, 10 mg cisatracurium per mL is supplied in the following:
+NIMBEX injection, 10 mg cisatracurium per mL is supplied in the following:
 
-| 4382 | Single-dose Vial | 20 mL |
+| 0074-4382-91 | Single-dose Vial | 20 mL |
 | --- | --- | --- |
 
 Intended only for use in the ICU.
 
 ## Storage
 
-NIMBEX Injection should be refrigerated at 2° to 8°C (36° to 46°F) in the carton to preserve potency.
+NIMBEX injection should be refrigerated at 2° to 8°C (36° to 46°F) in the carton to preserve potency.
 Protect from light.
 DO NOT FREEZE.
-Upon removal from refrigeration to room temperature storage conditions (25°C/77°F), use NIMBEX Injection within 21 days even if rerefrigerated.
+Upon removal from refrigeration to room temperature storage conditions (25°C/77°F), use NIMBEX injection within 21 days even if rerefrigerated.
+
+Nimbex® is a registered trademark of GlaxoSmithKline, licensed for use by AbbVie Inc.
+
+PREMIERProRx® is a registered trademark of Premier Healthcare Alliance, L.P., used under license.
+
+Mfd.
+For: AbbVie Inc.
+
+North Chicago, IL 60064 USA
+
+©2017 AbbVie Inc.
+
+EN-5642 December, 2017
