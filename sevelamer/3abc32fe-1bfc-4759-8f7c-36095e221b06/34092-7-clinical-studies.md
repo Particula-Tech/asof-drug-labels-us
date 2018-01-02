@@ -36,9 +36,9 @@ The median prescribed daily dose was approximately 7.0 g per day during the titr
 The results of the primary efficacy endpoint were consistent by BSA subgroup.
 In contrast, a treatment effect was not observed in subjects with a baseline serum phosphorus below 7 mg/dL, many of whom were the subjects 6 to <13 years of age or the subjects not on dialysis (Figure 2).
 
-Figure 2: Change in Serum Phosphorus (mg/dL) from Baseline to Week 2 by Subgroup
-
-[a]: LS Mean difference of Sevelamer Carbonate – Placebo, based on ANCOVA within subgroup and with treatment as fixed effect and screening BSA and baseline serum phosphorus as covariates.
+| Figure 2: Change in Serum Phosphorus (mg/dL) from Baseline to Week 2 by Subgroup |
+| --- |
+| [a]: LS Mean difference of Sevelamer Carbonate – Placebo, based on ANCOVA within subgroup and with treatment as fixed effect and screening BSA and baseline serum phosphorus as covariates. |
 
 ## 14.4 Sevelamer Hydrochloride versus Active-Control, Cross-Over Study in Hemodialysis Patients
 

@@ -12,4 +12,5 @@ Table 5: Sevelamer Drug Interactions
 | Digoxin Enalapril Iron Metoprolol Warfarin |  |
 | Oral drugs that have demonstrated interaction with sevelamer and are to be dosed separately from sevelamer carbonate |  |
 |  | Dosing Recommendations |
-| Ciprofloxacin Mycophenolate mofetil | Take at least 2 hours before or 6 hours after sevelamer Take at least 2 hours before sevelamer |
+| Ciprofloxacin | Take at least 2 hours before or 6 hours after sevelamer |
+| Mycophenolate mofetil | Take at least 2 hours before sevelamer |

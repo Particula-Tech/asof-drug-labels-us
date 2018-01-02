@@ -15,7 +15,6 @@ A total of 27 patients treated with sevelamer and 10 patients treated with compa
 Based on studies of 8–52 weeks, the most common reason for withdrawal from sevelamer hydrochloride was gastrointestinal adverse reactions (3%–16%).
 
 In 143 peritoneal dialysis patients studied for 12 weeks using sevelamer hydrochloride, most common adverse reactions were similar to adverse reactions observed in hemodialysis patients.
-
 The most frequently occurring treatment emergent serious adverse reaction was peritonitis (8 reactions in 8 patients [8%] in the sevelamer group and 2 reactions in 2 patients [4%] on active control).
 Thirteen patients (14%) in the sevelamer group and 9 patients (20%) in the active-control group discontinued, mostly for gastrointestinal adverse reactions.
 
