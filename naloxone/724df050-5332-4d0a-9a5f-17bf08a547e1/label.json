@@ -3,7 +3,7 @@
     "NDA208411"
   ],
   "inn": "naloxone",
-  "labeler": "Adapt Pharma, Inc.",
+  "labeler": "Adapt Pharma Inc",
   "package_ndcs": [
     "69547-212-04",
     "69547-212-24",
@@ -13,7 +13,7 @@
     {
       "form": "SPRAY",
       "generic": "naloxone hydrochloride",
-      "name": "NARCAN"
+      "name": "Narcan"
     }
   ],
   "setid": "724df050-5332-4d0a-9a5f-17bf08a547e1",

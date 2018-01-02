@@ -32,8 +32,8 @@ Step 3.
 Hold the NARCAN Nasal Spray with your thumb on the bottom of the plunger and your first and middle fingers on either side of the nozzle.
 
 Step 4.
-Tilt the person’s head back and provide support under the neck with your hand.
-Gently insert the tip of the nozzle into one nostril until your fingers on either side of the nozzle are against the bottom of the person’s nose.
+Tilt the person's head back and provide support under the neck with your hand.
+Gently insert the tip of the nozzle into one nostril until your fingers on either side of the nozzle are against the bottom of the person's nose.
 
 Step 5.
 Press the plunger firmly to give the dose of NARCAN Nasal Spray.

@@ -10,7 +10,7 @@ The medicine in NARCAN Nasal Spray has no effect in people who are not taking op
 Always carry NARCAN Nasal Spray with you in case of an opioid emergency.
 1.
 Use NARCAN Nasal Spray right away if you or your caregiver think signs or symptoms of an opioid emergency are present, even if you are not sure, because an opioid emergency can cause severe injury or death.
-Signs and symptoms of an opioid emergency may include: • unusual sleepiness and you are not able to awaken the person with a loud voice or by rubbing firmly on the middle of their chest (sternum) • breathing problems including slow or shallow breathing in someone difficult to awaken or who looks like they are not breathing • the black circle in the center of the colored part of the eye (pupil) is very small, sometimes called “pinpoint pupils,” in someone difficult to awaken 2.
+Signs and symptoms of an opioid emergency may include: • unusual sleepiness and you are not able to awaken the person with a loud voice or by rubbing firmly on the middle of their chest (sternum) • breathing problems including slow or shallow breathing in someone difficult to awaken or who looks like they are not breathing • the black circle in the center of the colored part of the eye (pupil) is very small, sometimes called "pinpoint pupils," in someone difficult to awaken 2.
 Family members, caregivers, or other people who may have to use NARCAN Nasal Spray in an opioid emergency should know where NARCAN Nasal Spray is stored and how to give NARCAN before an opioid emergency happens.
 3.
 Get emergency medical help right away after giving the first dose of NARCAN Nasal Spray.
@@ -31,7 +31,7 @@ It is not known if NARCAN Nasal Spray passes into your breast milk.
 
 Tell your healthcare provider about the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 How should I use NARCAN Nasal Spray?
-Read the “Instructions for Use” at the end of this Patient Information leaflet for detailed information about the right way to use NARCAN Nasal Spray. • Use NARCAN Nasal Spray exactly as prescribed by your healthcare provider. • Each NARCAN Nasal Spray contains only 1 dose of medicine and cannot be reused. • NARCAN Nasal Spray comes in a 2 mg and 4 mg strength.
+Read the "Instructions for Use" at the end of this Patient Information leaflet for detailed information about the right way to use NARCAN Nasal Spray. • Use NARCAN Nasal Spray exactly as prescribed by your healthcare provider. • Each NARCAN Nasal Spray contains only 1 dose of medicine and cannot be reused. • NARCAN Nasal Spray comes in a 2 mg and 4 mg strength.
 Your healthcare provider will prescribe the one that is right for you. • Lay the person on their back.
 Support their neck with your hand and allow the head to tilt back before giving NARCAN Nasal Spray. • NARCAN Nasal Spray should be given into one nostril. • If additional doses are needed, give NARCAN Nasal Spray in the other nostril.
 What are the possible side effects of NARCAN Nasal Spray?
