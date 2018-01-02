@@ -38,11 +38,11 @@ Two placebo-controlled trials in 766 pediatric patients with MDD and two placebo
 
 Anyone considering the use of Effexor XR in a child or adolescent must balance the potential risks with the clinical need [see Boxed Warning, Warnings and Precautions (5.1, 5.10, 5.11) and Adverse Reactions (6.4)].
 
-Although no studies have been designed to primarily assess Effexor XR's impact on the growth, development, and maturation of children and adolescents, the studies that have been done suggest that Effexor XR may adversely affect weight and height (see Warnings and Precautions (5.10)).
+Although no studies have been designed to primarily assess Effexor XR's impact on the growth, development, and maturation of children and adolescents, the studies that have been done suggest that Effexor XR may adversely affect weight and height [see Warnings and Precautions (5.10)].
 Should the decision be made to treat a pediatric patient with Effexor XR, regular monitoring of weight and height is recommended during treatment, particularly if treatment is to be continued long-term [see Warnings and Precautions (5.10, 5.11)].
 The safety of Effexor XR treatment for pediatric patients has not been systematically assessed for chronic treatment longer than six months in duration.
 In the studies conducted in pediatric patients (ages 6–17), the occurrence of blood pressure and cholesterol increases considered to be clinically relevant in pediatric patients was similar to that observed in adult patients.
-Consequently, the precautions for adults apply to pediatric patients [see Warnings and Precautions (5.3,6.3)].
+Consequently, the precautions for adults apply to pediatric patients [see Warnings and Precautions (5.3, 6.3)].
 
 ## 8.5 Geriatric Use
 
@@ -61,7 +61,7 @@ No overall differences in effectiveness or safety were observed between geriatri
 However, greater sensitivity of some older individuals cannot be ruled out.
 SSRIs and SNRIs, including Effexor XR, have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse event [see Warnings and Precautions (5.9)].
 
-The pharmacokinetics of venlafaxine and ODV are not substantially altered in the elderly [see Clinical Pharmacology (12.3) and (see Figure 3)].
+The pharmacokinetics of venlafaxine and ODV are not substantially altered in the elderly [see Clinical Pharmacology (12.3)] (see Figure 3).
 No dose adjustment is recommended for the elderly on the basis of age alone, although other clinical circumstances, some of which may be more common in the elderly, such as renal or hepatic impairment, may warrant a dose reduction [see Dosage and Administration (2.6)].
 
 ## 8.6 Age and Gender

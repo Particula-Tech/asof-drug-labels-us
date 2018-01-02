@@ -11,6 +11,11 @@ Venlafaxine and ODV have no significant affinity for muscarinic-cholinergic, H1-
 Pharmacologic activity at these receptors is hypothesized to be associated with the various anticholinergic, sedative, and cardiovascular effects seen with other psychotropic drugs.
 Venlafaxine and ODV do not possess monoamine oxidase (MAO) inhibitory activity.
 
+Cardiac Electrophysiology
+
+The effect of venlafaxine on the QT interval was evaluated in a randomized, double-blind, placebo- and positive-controlled three-period crossover thorough QT study in 54 healthy adult subjects.
+No significant QT prolongation effect of venlafaxine 450 mg was detected.
+
 ## 12.3 Pharmacokinetics
 
 Steady-state concentrations of venlafaxine and ODV in plasma are attained within 3 days of oral multiple-dose therapy.

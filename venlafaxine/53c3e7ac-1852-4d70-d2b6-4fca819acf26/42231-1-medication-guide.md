@@ -289,6 +289,6 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 This product's label may have been updated.
 For current full prescribing information, please visit www.pfizer.com
 
-LAB-0542-6.0
+LAB-0542-7.0
 
-Revised: October 2016
+Revised: January 2017

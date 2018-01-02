@@ -21,7 +21,7 @@ Patients receiving continued Effexor treatment experienced statistically signifi
 
 Table 17: Major Depressive Disorder Studies:
 
-|  |  | MeanBaseline Score (SD) | LSMean Changefrom Baseline | Placebo SubtractedDifferenceDifference (drug minus placebo) in least-squares mean change from baseline(95%CI) |
+|  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline | Placebo Subtracted DifferenceDifference (drug minus placebo) in least-squares mean change from baseline(95%CI) |
 | --- | --- | --- | --- | --- |
 | Study number | Treatment Group |  | Primary Efficacy Measure: HAM-D Score |  |
 | Study 1 | Effexor(XR 75–225 mg/day)Doses statistically significantly superior to placebo. | 24.5 | -11.7 | -4.45(-6.66,-2.25) |

@@ -43,7 +43,7 @@ However, individual dosage adjustments may be necessary.
 Patients with Hepatic Impairment
 
 The total daily dose should be reduced by 50% in patients with mild (Child-Pugh=5–6) to moderate (Child-Pugh=7–9) hepatic impairment.
-In patients with severe hepatic impairment (Child-Pugh=10–15) or hepatic cirrhosis, it may be necessary to reduce the dose by 50% or more [See Use in Specific Populations (8.7)].
+In patients with severe hepatic impairment (Child-Pugh=10–15) or hepatic cirrhosis, it may be necessary to reduce the dose by 50% or more [see Use in Specific Populations (8.7)].
 
 Patients with Renal Impairment
 
