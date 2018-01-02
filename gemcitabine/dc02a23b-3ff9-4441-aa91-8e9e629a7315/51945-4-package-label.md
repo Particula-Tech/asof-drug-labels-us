@@ -10,21 +10,19 @@ For Intravenous Infusion Only Must Be Diluted Before Use Store at 2 to 8°C (36 
 Discard unused portion.
 Caution: Cytotoxic Agent
 
-# CA-2915
+# PRINCIPAL DISPLAY PANEL - 1 g/26.3 mL Vial Carton
 
-# PRINCIPAL DISPLAY PANEL - 2 g/52.6 mL Vial Label
+Rx only NDC 0409-0181-01
 
 Gemcitabine Injection
 
-2 g/52.6 mL
+1 g/26.3 mL
 
 (38 mg/mL)
 
-For Intravenous Infusion Only Must Be Diluted Before Use Store at 2 to 8°C (36 to 46°F) Single use vial.
-Discard unused portion.
-Caution: Cytotoxic Agent
+For Intravenous Infusion Only Must Be Diluted Before Use Store at 2 to 8°C (36 to 46°F) Single Use Vial Discard Unused Portion
 
-# CA-2916
+Caution: Cytotoxic Agent
 
 # PRINCIPAL DISPLAY PANEL - 200 mg/5.26 mL Vial Label
 
@@ -38,4 +36,42 @@ For Intravenous Infusion Only Must Be Diluted Before Use Store at 2 to 8°C (36 
 Discard unused portion.
 Caution: Cytotoxic Agent
 
-# CA-2917
+# PRINCIPAL DISPLAY PANEL - 200 mg/5.26 mL Vial Carton
+
+Rx only NDC 0409-0183-01
+
+Gemcitabine Injection
+
+200 mg/5.26 mL
+
+(38 mg/mL)
+
+For Intravenous Infusion Only Must Be Diluted Before Use Store at 2 to 8°C (36 to 46°F) Single Use Vial Discard Unused Portion
+
+Caution: Cytotoxic Agent
+
+# PRINCIPAL DISPLAY PANEL - 2 g/52.6 mL Vial Label
+
+Gemcitabine Injection
+
+2 g/52.6 mL
+
+(38 mg/mL)
+
+For Intravenous Infusion Only Must Be Diluted Before Use Store at 2 to 8°C (36 to 46°F) Single use vial.
+Discard unused portion.
+Caution: Cytotoxic Agent
+
+# PRINCIPAL DISPLAY PANEL - 2 g/52.6 mL Vial Carton
+
+Rx only NDC 0409-0182-01
+
+Gemcitabine Injection
+
+2 g/52.6 mL
+
+(38 mg/mL)
+
+For Intravenous Infusion Only Must Be Diluted Before Use Store at 2 to 8°C (36 to 46°F) Single Use Vial Discard Unused Portion
+
+Caution: Cytotoxic Agent
