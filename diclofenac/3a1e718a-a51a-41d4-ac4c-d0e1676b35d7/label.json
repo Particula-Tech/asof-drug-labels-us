@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA020947"
+  ],
+  "inn": "diclofenac",
+  "labeler": "Nuvo Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "69451-300-15"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "diclofenac sodium",
+      "name": "Pennsaid"
+    }
+  ],
+  "setid": "3a1e718a-a51a-41d4-ac4c-d0e1676b35d7",
+  "source": "dailymed"
+}
