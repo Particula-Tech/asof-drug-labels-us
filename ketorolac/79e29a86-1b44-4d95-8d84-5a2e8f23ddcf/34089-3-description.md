@@ -1,4 +1,4 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
 Ketorolac tromethamine ophthalmic solution, 0.5% is a member of the pyrrolo-pyrrole group of nonsteroidal anti-inflammatory drugs (NSAIDs) for ophthalmic use.
 Its chemical name is (±)-5-benzoyl-2,3-dihydro-1H-pyrrolizine-1-carboxylic acid compound with 2-amino-2-(hydroxymethyl)-1,3-propanediol (1:1) and has the following structure:

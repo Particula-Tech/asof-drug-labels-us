@@ -1,4 +1,4 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
 The recommended dose of ketorolac tromethamine ophthalmic solution, 0.5%, is one drop (0.25 mg) four times a day for relief of ocular itching due to seasonal allergic conjunctivitis.
 

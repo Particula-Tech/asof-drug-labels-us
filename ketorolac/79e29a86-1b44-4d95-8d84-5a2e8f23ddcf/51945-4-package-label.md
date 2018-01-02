@@ -1,14 +1,17 @@
-# PRINCIPLE DISPLAY PANEL
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
+
+NDC 61314-126-10
 
 Ketorolac Tromethamine Ophthalmic Solution
 
+0.5%
+
 FOR TOPICAL OPHTHALMIC USE ONLY
 
-Each mL contains: Active: ketorolac tromethamine 0.5%; Inactives: benzalkonium chloride 0.01%; edetate disodium 0.1%; octoxynol 40; purified water; sodium chloride; hydrochloric acid and/or sodium hydroxide to adjust the pH.
+Rx only
 
-Dosage: One drop four times a day.
+STERILE
 
-Storage: Store at controlled room temperature 15°-30°C (59° - 86°).
-Protect from light.
+10 mL
 
-©2002, 2009 Falcon Pharmaceuticals, Ltd.
+Sandoz
