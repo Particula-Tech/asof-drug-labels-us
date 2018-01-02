@@ -38,7 +38,8 @@ It is critical to clinically distinguish true hyponatremia from a pseudohyponatr
 
 AMS may occur infrequently with IGIV treatments including BIVIGAM.
 AMS usually begins within several hours to 2 days following IGIV treatment.
-Discontinuation of IGIV treatment has resulted in remission of AMS within several days without sequelae.7,8,9
+Discontinuation of IGIV treatment has resulted in remission of AMS within several days without sequelae.
+7,8,9
 
 AMS is characterized by the following signs and symptoms: severe headache, nuchal rigidity, drowsiness, fever, photophobia, painful eye movements, nausea, and vomiting (see Patient Counseling Information [17.3]).
 Cerebrospinal fluid (CSF) studies frequently reveal pleocytosis up to several thousand cells per cubic millimeter, predominantly from the granulocytic series, and elevated protein levels up to several hundred mg/dL, but negative culture results.
@@ -48,7 +49,8 @@ AMS may occur more frequently in association with high doses (2 g/kg) and/or rap
 
 ## 5.6 Hemolysis
 
-IGIV products, including BIVIGAM, may contain blood group antibodies that can act as hemolysins and induce in vivo coating of red blood cells (RBCs) with immunoglobulin, causing a positive direct antiglobulin reaction and, rarely, hemolysis.10,11,12 Delayed hemolytic anemia can develop subsequent to IGIV therapy due to enhanced RBC sequestration,13 and acute hemolysis, consistent with intravascular hemolysis, has been reported.
+IGIV products, including BIVIGAM, may contain blood group antibodies that can act as hemolysins and induce in vivo coating of red blood cells (RBCs) with immunoglobulin, causing a positive direct antiglobulin reaction and, rarely, hemolysis.
+10,11,12 Delayed hemolytic anemia can develop subsequent to IGIV therapy due to enhanced RBC sequestration,13 and acute hemolysis, consistent with intravascular hemolysis, has been reported.
 
 Monitor patients for clinical signs and symptoms of hemolysis (see Patient Counseling Information [17.4]).
 If these are present after BIVIGAM infusion, perform appropriate confirmatory laboratory testing.
@@ -56,7 +58,7 @@ If transfusion is indicated for patients who develop hemolysis with clinically c
 
 ## 5.7 Transfusion-Related Acute Lung Injury (TRALI)
 
-Noncardiogenic pulmonary edema may occur in patients following IGIV treatment14 including BIVIGAM.
+Noncardiogenic pulmonary edema may occur in patients following IGIV treatment 14 including BIVIGAM.
 TRALI is characterized by severe respiratorydistress, pulmonary edema, hypoxemia, normal left ventricular function, and fever.
 Symptoms typically appear within 1 to 6 hours following treatment.
 
