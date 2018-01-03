@@ -35,7 +35,7 @@ Table 3: Type 1 Diabetes Mellitus – Adults – Mean Change in HbA1c (ADMELOG p
 | HbA1c (%) |  |  |
 | Baseline (mean) | 8.08 | 7.99 |
 | Adjusted mean change from baselineEstimated using a multiple imputation method that models a "return to baseline" for patients having missing data who discontinued treatment. ANCOVA was used with treatment and stratification groups as fixed factors and baseline HbA1c as a covariate. | -0.40 | -0.46 |
-| Adjusted mean differenceTreatment difference: ADMELOG - Comparator (95% CI) | 0.06 (-0.086 to 0.201) |  |
+| Adjusted mean differenceTreatment difference: ADMELOG - Comparator. (95% CI) | 0.06 (-0.086 to 0.201) |  |
 
 Another Insulin Lispro Product, 100 units/mL: Study in Adult and Pediatric Patients 12 Years of Age and Older
 
@@ -54,7 +54,7 @@ Table 4: Type 1 Diabetes Mellitus – Adults and Pediatric Patients 12 Years of 
 | Treatment Duration Treatment in Combination with: | 12 Months Human Insulin Extended Zinc |  |
 | N | 81 | 86 |
 | Baseline HbA1c (%)Values are Mean ± SD. | 8.2 ± 1.4 | 8.3 ± 1.7 |
-| Change from baseline HbA1c (%)a | -0.1 ± 0.9 | 0.1 ± 1.1 |
+| Change from baseline HbA1c (%) | -0.1 ± 0.9 | 0.1 ± 1.1 |
 | Treatment difference in HbA1c mean (95% confidence interval) | 0.4 (0.0; 0.8) |  |
 
 Another Insulin Lispro Product, 100 units/mL: Studies in Pediatric Patients 3 Years of Age and Older
@@ -94,7 +94,7 @@ Table 6: Type 1 Diabetes Mellitus – Pediatric Patients 4 Years of Age and Olde
 | --- | --- | --- |
 | Treatment duration | 16 Weeks |  |
 | N | 100 | 198 |
-| Baseline HbA1c (%)Values are Mean ± SD | 8.2 ± 0.8 | 8.0 ± 0.9 |
+| Baseline HbA1c (%)Values are Mean ± SD. | 8.2 ± 0.8 | 8.0 ± 0.9 |
 | Change from Baseline HbA1c (%) | -0.1 ± 0.7 | -0.1 ± 0.8 |
 | Treatment Difference in HbA1c, Mean (95% confidence interval) | 0.1 (-0.3, 0.1) |  |
 
@@ -125,7 +125,7 @@ Table 7: Type 2 Diabetes Mellitus – Adults – Mean Change in HbA1c (%) (ADMEL
 | HbA1c (%) |  |  |
 | Baseline (mean) | 8.00 | 8.03 |
 | Adjusted mean change from baselineEstimated using a multiple imputation method that models a "return-to-baseline" for patients having missing data who discontinued treatment. ANCOVA was used with treatment and stratification groups as fixed factors and baseline HbA1c as a covariate. | -0.86 | -0.80 |
-| Adjusted mean differenceTreatment difference: ADMELOG - Comparator (95% CI) | -0.06 (-0.209 to 0.091) |  |
+| Adjusted mean differenceTreatment difference: ADMELOG – Comparator. (95% CI) | -0.06 (-0.209 to 0.091) |  |
 
 Another Insulin Lispro Product, 100 units/mL: Study in Adult Patients
 

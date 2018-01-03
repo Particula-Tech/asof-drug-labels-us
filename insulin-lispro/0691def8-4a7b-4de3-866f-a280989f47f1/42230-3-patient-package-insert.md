@@ -10,7 +10,7 @@
 | Treatment with TZDs and ADMELOG may need to be adjusted or stopped by your healthcare provider if you have new or worse heart failure. Get emergency medical help if you have: trouble breathing, shortness of breath, fast heartbeat, swelling of your face, tongue, or throat, sweating, extreme drowsiness, dizziness, confusion. The most common side effects of ADMELOG include: low blood sugar (hypoglycemia), allergic reactions, including reactions at the injection site, skin thickening or pits at the injection site (lipodystrophy), itching, and rash. These are not all the possible side effects of ADMELOG. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |
 | General information about the safe and effective use of ADMELOG Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use ADMELOG for a condition for which it was not prescribed. Do not give ADMELOG to other people, even if they have the same symptoms that you have. It may harm them. You can ask your pharmacist or healthcare provider for information about ADMELOG that is written for health professionals. For more information, go to www.sanofi.com or call 1-800-633-1610. |
 | What are the ingredients in ADMELOG? Active ingredient: insulin lispro Inactive ingredients: glycerin, dibasic sodium phosphate, metacresol, zinc oxide (zinc ion), and Water for Injection. Hydrochloric acid and/or sodium hydroxide may be added to adjust pH. |
-| Manufactured By: sanofi-aventis U.S. LLC, Bridgewater, NJ 08807 A SANOFI COMPANY |
+| Manufactured by: sanofi-aventis U.S. LLC, Bridgewater, NJ 08807, A SANOFI COMPANY |
 | ADMELOG and SoloStar are registered trademarks of sanofi-aventis U.S. LLC. |
-| This Patient Information has been approved by the U.S. Food and Drug Administration |
-| Approved: Dec 2017 |
+| This Patient Information has been approved by the U.S. Food and Drug Administration. |
+| Approved: December 2017 |

@@ -136,7 +136,7 @@ After ADMELOG vials have been opened (in-use)
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Manufactured By: sanofi-aventis U.S. LLC, Bridgewater, NJ 08807 A SANOFI COMPANY
+Manufactured by: sanofi-aventis U.S. LLC, Bridgewater, NJ 08807, A SANOFI COMPANY
 
 ADMELOG is a registered trademark of sanofi-aventis U.S. LLC.
 
@@ -185,6 +185,8 @@ Extra items you will need:
   (See "Throwing your pen away").
 
 Places to inject
+
+Get to know your pen
 
 Step 1: Check your pen
 
@@ -359,7 +361,7 @@ After first use
 - Do not store your pen with the needle attached.
 - Keep out of the reach of children.
 - Only use your pen for up to 28 days after its first use.
-  Throw away the ADMELOG SoloStar pen you are using after 28 day, even if it still has insulin left in it.
+  Throw away the ADMELOG SoloStar pen you are using after 28 days, even if it still has insulin left in it.
 
 How to care for your pen
 
@@ -391,7 +393,7 @@ Throwing your pen away
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Manfufactured by: sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY
+Manufactured by: sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY
 
 Approved: December 2017
 
