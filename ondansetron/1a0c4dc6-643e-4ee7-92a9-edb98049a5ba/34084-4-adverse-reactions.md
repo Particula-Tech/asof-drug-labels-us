@@ -46,7 +46,7 @@ The most common adverse reactions (greater than or equal to 2%) reported in pati
 Prevention of Postoperative Nausea and Vomiting
 
 The most common adverse reactions reported in adults in trial(s) of prevention of postoperative nausea and vomiting are shown in Table 4.
-In these trial(s) patients were receiving multiple concomitant perioperative and postoperative medications in both treatment groups.
+In these trial(s), patients were receiving multiple concomitant perioperative and postoperative medications in both treatment groups.
 
 Table 4: Most Common Adverse Reactions in Adults1 for the Prevention of Postoperative Nausea and Vomiting
 

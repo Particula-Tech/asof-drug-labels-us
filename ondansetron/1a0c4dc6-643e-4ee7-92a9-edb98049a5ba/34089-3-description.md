@@ -8,4 +8,4 @@ The empirical formula is C18H19N3O•HCl•2H2O, representing a molecular weight
 
 Ondansetron hydrochloride USP dihydrate is a white to off-white powder that is soluble in water and normal saline.
 
-Each 5 mL of ondansetron oral solution USP contains 5 mg of ondansetron hydrochloride USP dihydrate equivalent to 4 mg of ondansetron (base) and the following inactive ingredients: anhydrous citric acid, glycerin, purified water, saccharin sodium, sodium citrate, sodium benzoate and strawberry flavor.
+Each 5 mL of Ondansetron Oral Solution USP contains 5 mg of ondansetron hydrochloride USP dihydrate equivalent to 4 mg of ondansetron (base) and the following inactive ingredients: anhydrous citric acid, glycerin, purified water, saccharin sodium, sodium citrate, sodium benzoate and strawberry flavor.

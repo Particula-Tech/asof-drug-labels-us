@@ -9,4 +9,4 @@ NDC 0054-0064-47: Bottle of 50 mL
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
 Protect from light.
-Store bottles upright in cartons.
+Store bottles upright in carton.

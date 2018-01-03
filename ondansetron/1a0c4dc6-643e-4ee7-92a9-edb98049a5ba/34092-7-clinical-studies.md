@@ -6,7 +6,7 @@ Highly Emetogenic Chemotherapy
 
 In two randomized, double-blind, monotherapy trials, a single 24-mg oral dose of ondansetron was superior to a relevant historical placebo control in the prevention of nausea and vomiting associated with highly emetogenic cancer chemotherapy, including cisplatin greater than or equal to 50 mg/m2.
 Steroid administration was excluded from these clinical trials.
-More than 90% of patients receiving a cisplatin dose greater than or equal to 50 mg/m2 in the historical placebo comparator experienced vomiting in the absence of antiemetic therapy.
+More than 90% of patients receiving a cisplatin dose greater than or equal to 50 mg/m2 in the historical-placebo comparator experienced vomiting in the absence of antiemetic therapy.
 
 The first trial compared oral doses of ondansetron 24 mg as a single dose, 8 mg every 8 hours for 2 doses, and 32 mg as a single dose in 357 adult cancer patients receiving chemotherapy regimens containing cisplatin greater than or equal to 50 mg/m2.
 The first or single dose was administered 30 minutes prior to chemotherapy.
@@ -80,7 +80,7 @@ Patients received 3 fractions for 3 days, then 2 fractions on Day 4.
 
 Single High-dose Fraction Radiotherapy
 
-In an active-controlled, double-blind trial in 105 patients receiving single high-dose radiotherapy (800 to 1,000 cGy) over an anterior or posterior field size of ≥80 cm2 to the abdomen, ondansetron was significantly more effective than metoclopramide with respect to complete control of emesis (0 emetic episodes).
+In an active-controlled, double-blind trial in 105 patients receiving single high-dose radiotherapy (800 to 1,000 cGy) over an anterior or posterior field size of greater than or equal to 80 cm2 to the abdomen, ondansetron was significantly more effective than metoclopramide with respect to complete control of emesis (0 emetic episodes).
 Patients received the first dose of ondansetron (8 mg) or metoclopramide (10 mg) 1 to 2 hours before radiotherapy.
 If radiotherapy was given in the morning, 8 mg of ondansetron or 10 mg of metoclopramide was administered in the late afternoon and repeated again before bedtime.
 If radiotherapy was given in the afternoon, patients took 8 mg of ondansetron or 10 mg of metoclopramide only once before bedtime.
@@ -88,7 +88,7 @@ Patients continued the doses of oral medication three times daily for 3 days.
 
 Daily Fractionated Radiotherapy
 
-In an active-controlled, double-blind trial in 135 patients receiving a 1-to 4-week course of fractionated radiotherapy (180 cGy doses) over a field size of ≥100 cm2 to the abdomen, ondansetron was significantly more effective than prochlorperazine with respect to complete control of emesis (0 emetic episodes).
+In an active-controlled, double-blind trial in 135 patients receiving a 1-to 4-week course of fractionated radiotherapy (180 cGy doses) over a field size of greater than or equal to 100 cm2 to the abdomen, ondansetron was significantly more effective than prochlorperazine with respect to complete control of emesis (0 emetic episodes).
 Patients received the first dose of ondansetron (8 mg) or prochlorperazine (10 mg) 1 to 2 hours before the first daily radiotherapy fraction, with subsequent 8-mg doses approximately every 8 hours on each day of radiotherapy.
 
 ## 14.3 Postoperative Nausea and Vomiting

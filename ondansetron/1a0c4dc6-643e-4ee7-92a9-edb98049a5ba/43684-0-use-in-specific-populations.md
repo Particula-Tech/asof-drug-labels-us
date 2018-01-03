@@ -60,7 +60,7 @@ The safety and effectiveness of orally administered ondansetron have not been es
 
 ## 8.5 Geriatric Use
 
-Of the total number of subjects enrolled in cancer chemotherapy-induced and postoperative nausea and vomiting in US- and foreign-controlled clinical trials, for which there were subgroup analyses, 938 (19%) were 65 years of age and older.
+Of the total number of subjects enrolled in cancer chemotherapy-induced and postoperative nausea and vomiting in US- and foreign-controlled clinical trials, for which there were subgroup analyses, 938 (19%) were aged 65 years and older.
 
 No overall differences in safety or effectiveness were observed between subjects 65 years of age and older and younger subjects.
 A reduction in clearance and increase in elimination half-life were seen in patients older than 75 years compared with younger subjects [see Clinical Pharmacology (12.3)].

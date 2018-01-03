@@ -14,11 +14,11 @@ The released serotonin may stimulate the vagal afferents through the 5-HT3 recep
 
 In healthy subjects, single intravenous doses of 0.15 mg/kg of ondansetron had no effect on esophageal motility, gastric motility, lower esophageal sphincter pressure, or small intestinal transit time.
 Multiday administration of ondansetron has been shown to slow colonic transit in healthy subjects.
-Ondansetron has no effect on plasma prolactin concentrations.
+Ondansetron has no effect on plasma-prolactin concentrations.
 
 Cardiac Electrophysiology
 
-QTc interval prolongation was studied in a double-blind, single intravenous dose, placebo-and positive-controlled, crossover trial in 58 healthy subjects.
+QTc interval prolongation was studied in a double-blind, single intravenous dose, placebo- and positive-controlled, crossover trial in 58 healthy subjects.
 The maximum mean (95% upper confidence bound) difference in QTcF from placebo after baseline correction was 19.5 (21.8) milliseconds and 5.6 (7.4) milliseconds after 15-minute intravenous infusions of 32 mg and 8 mg of ondansetron injection, respectively.
 A significant exposure-response relationship was identified between ondansetron concentration and ΔΔQTcF.
 Using the established exposure-response relationship, 24 mg infused intravenously over 15 minutes had a mean predicted (95% upper prediction interval) ΔΔQTcF of 14.0 (16.3) milliseconds.
@@ -33,7 +33,7 @@ Ondansetron is absorbed from the gastrointestinal tract and undergoes some first
 Mean bioavailability in healthy subjects, following administration of a single 8-mg tablet, is approximately 56%.
 
 Ondansetron systemic exposure does not increase proportionately to dose.
-The AUC from a 16-mg tablet was 24% greater than predicted from an 8-mg tablet dose.
+The area under curve (AUC) from a 16-mg tablet was 24% greater than predicted from an 8-mg tablet dose.
 This may reflect some reduction of first-pass metabolism at higher oral doses.
 
 Food Effects
