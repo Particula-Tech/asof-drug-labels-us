@@ -1,12 +1,8 @@
 # ADVERSE REACTIONS
 
-## Frequently Observed
+Frequently Observed: The most frequently reported adverse reactions are drowsiness, lightheadedness, dizziness, sedation, shortness of breath, nausea, vomiting, abdominal pain, and intoxicated feeling.
 
-The most frequently reported adverse reactions are drowsiness, lightheadedness, dizziness, sedation, shortness of breath, nausea, vomiting, abdominal pain, and intoxicated feeling.
-
-## Infrequently Observed
-
-All adverse events tabulated below are classified as infrequent.
+Infrequently Observed: All adverse events tabulated below are classified as infrequent.
 
 Central Nervous: headache, shaky feeling, tingling, agitation, fainting, fatigue, heavy eyelids, high energy, hot spells, numbness, sluggishness, seizure.
 Mental confusion, excitement or depression can also occur due to intolerance, particularly in elderly or debilitated patients, or due to overdosage of butalbital.

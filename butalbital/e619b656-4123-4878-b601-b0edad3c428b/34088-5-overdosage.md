@@ -2,18 +2,14 @@
 
 Following an acute overdosage, toxicity may result from the barbiturate or the acetaminophen.
 
-## Signs and Symptoms
-
-Toxicity from barbiturate poisoning includes drowsiness, confusion, and coma; respiratory depression; hypotension; and hypovolemic shock.
+Signs and Symptoms: Toxicity from barbiturate poisoning includes drowsiness, confusion, and coma; respiratory depression; hypotension; and hypovolemic shock.
 
 In acetaminophen overdosage: dose-dependent, potentially fatal hepatic necrosis is the most serious adverse effect.
 Renal tubular necroses, hypoglycemic coma and coagulation defects may also occur.
 Early symptoms following a potentially hepatotoxic overdose may include: nausea, vomiting, diaphoresis and general malaise.
 Clinical and laboratory evidence of hepatic toxicity may not be apparent until 48 to 72 hours post-ingestion.
 
-## Treatment
-
-A single or multiple drug overdose with butalbital and acetaminophen is a potentially lethal polydrug overdose, and consultation with a regional poison control center is recommended.
+Treatment: A single or multiple drug overdose with butalbital and acetaminophen is a potentially lethal polydrug overdose, and consultation with a regional poison control center is recommended.
 Immediate treatment includes support of cardiorespiratory function and measures to reduce drug absorption.
 
 Oxygen, intravenous fluids, vasopressors, and other supportive measures should be employed as indicated.

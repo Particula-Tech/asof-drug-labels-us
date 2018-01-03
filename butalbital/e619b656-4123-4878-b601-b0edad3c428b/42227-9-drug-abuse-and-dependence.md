@@ -1,8 +1,6 @@
 # DRUG ABUSE AND DEPENDENCE
 
-## Abuse and Dependence
-
-Butalbital: Barbiturates may be habit-forming: Tolerance, psychological dependence, and physical dependence may occur especially following prolonged use of high doses of barbiturates.
+Abuse and Dependence: Butalbital: Barbiturates may be habit-forming: Tolerance, psychological dependence, and physical dependence may occur especially following prolonged use of high doses of barbiturates.
 The average daily dose for the barbiturate addict is usually about 1500 mg.
 As tolerance to barbiturates develops, the amount needed to maintain the same level of intoxication increases; tolerance to a fatal dosage, however, does not increase more than two-fold.
 As this occurs, the margin between an intoxication dosage and fatal dosage becomes smaller.

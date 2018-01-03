@@ -70,17 +70,11 @@ No adequate studies have been conducted in animals to determine whether acetamin
 
 ## Pregnancy
 
-### Teratogenic Effects
-
-#### Pregnancy Category C
-
-Animal reproduction studies have not been conducted with this combination product.
+Teratogenic Effects: Pregnancy Category C: Animal reproduction studies have not been conducted with this combination product.
 It is also not known whether butalbital and acetaminophen can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.
 This product should be given to a pregnant woman only when clearly needed.
 
-### Nonteratogenic Effects
-
-Withdrawal seizures were reported in a two-day-old male infant whose mother had taken a butalbital-containing drug during the last two months of pregnancy.
+Nonteratogenic Effects: Withdrawal seizures were reported in a two-day-old male infant whose mother had taken a butalbital-containing drug during the last two months of pregnancy.
 Butalbital was found in the infant’s serum.
 The infant was given phenobarbital 5 mg/kg, which was tapered without further seizure or other withdrawal symptoms.
 
