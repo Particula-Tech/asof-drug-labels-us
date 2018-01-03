@@ -43,16 +43,13 @@ Repeat doses should be preceded by a test dose containing epinephrine if not con
 Use only the single-dose ampuls and single-dose vials for caudal or epidural anesthesia; the multiple-dose vials contain a preservative and therefore should not be used for these procedures.
 
 Test Dose for Caudal and Lumbar Epidural Blocks: The Test Dose of MARCAINE (0.5% bupivacaine with 1:200,000 epinephrine in a 3 mL ampul) is recommended for use as a test dose when clinical conditions permit prior to caudal and lumbar epidural blocks.
-This may serve as a warning of unintended intravascular or subarachnoid injection.
-(See PRECAUTIONS.)
+This may serve as a warning of unintended intravascular or subarachnoid injection (See PRECAUTIONS).
 The pulse rate and other signs should be monitored carefully immediately following each test dose administration to detect possible intravascular injection, and adequate time for onset of spinal block should be allotted to detect possible intrathecal injection.
 An intravascular or subarachnoid injection is still possible even if results of the test dose are negative.
-The test dose itself may produce a systemic toxic reaction, high spinal or cardiovascular effects from the epinephrine.
-(See WARNINGS and OVERDOSAGE.)
+The test dose itself may produce a systemic toxic reaction, high spinal or cardiovascular effects from the epinephrine (See WARNINGS and OVERDOSAGE).
 
 Use in Dentistry: The 0.5% concentration with epinephrine is recommended for infiltration and block injection in the maxillary and mandibular area when a longer duration of local anesthetic action is desired, such as for oral surgical procedures generally associated with significant postoperative pain.
-The average dose of 1.8 mL (9 mg) per injection site will usually suffice; an occasional second dose of 1.8 mL (9 mg) may be used if necessary to produce adequate anesthesia after making allowance for 2 to 10 minutes onset time.
-(See CLINICAL PHARMACOLOGY.)
+The average dose of 1.8 mL (9 mg) per injection site will usually suffice; an occasional second dose of 1.8 mL (9 mg) may be used if necessary to produce adequate anesthesia after making allowance for 2 to 10 minutes onset time (See CLINICAL PHARMACOLOGY).
 The lowest effective dose should be employed and time should be allowed between injections; it is recommended that the total dose for all injection sites, spread out over a single dental sitting, should not ordinarily exceed 90 mg for a healthy adult patient (ten 1.8 mL injections of 0.5% MARCAINE with epinephrine).
 Injections should be made slowly and with frequent aspirations.
 Until further experience is gained, MARCAINE in dentistry is not recommended for pediatric patients younger than 12 years.

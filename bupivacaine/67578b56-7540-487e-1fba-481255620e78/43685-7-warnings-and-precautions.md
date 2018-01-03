@@ -37,9 +37,8 @@ Single-dose ampuls and single-dose vials of MARCAINE without epinephrine do not 
 # PRECAUTIONS
 
 General: The safety and effectiveness of local anesthetics depend on proper dosage, correct technique, adequate precautions, and readiness for emergencies.
-Resuscitative equipment, oxygen, and other resuscitative drugs should be available for immediate use.
-(See WARNINGS, ADVERSE REACTIONS, and OVERDOSAGE.)
-During major regional nerve blocks, the patient should have IV fluids running via an indwelling catheter to assure a functioning intravenous pathway.
+Resuscitative equipment, oxygen, and other resuscitative drugs should be available for immediate use (See WARNINGS, ADVERSE REACTIONS, and OVERDOSAGE).
+During major regional nerve blocks, the patient should have intravenous fluids running via an indwelling catheter to assure a functioning intravenous pathway.
 The lowest dosage of local anesthetic that results in effective anesthesia should be used to avoid high plasma levels and serious adverse effects.
 The rapid injection of a large volume of local anesthetic solution should be avoided and fractional (incremental) doses should be used when feasible.
 
@@ -83,8 +82,7 @@ In deciding whether to use these products concurrently in the same patient, the 
 Many drugs used during the conduct of anesthesia are considered potential triggering agents for familial malignant hyperthermia.
 Because it is not known whether amide-type local anesthetics may trigger this reaction and because the need for supplemental general anesthesia cannot be predicted in advance, it is suggested that a standard protocol for management should be available.
 Early unexplained signs of tachycardia, tachypnea, labile blood pressure, and metabolic acidosis may precede temperature elevation.
-Successful outcome is dependent on early diagnosis, prompt discontinuance of the suspect triggering agent(s) and prompt institution of treatment, including oxygen therapy, indicated supportive measures and dantrolene.
-(Consult dantrolene sodium intravenous package insert before using.)
+Successful outcome is dependent on early diagnosis, prompt discontinuance of the suspect triggering agent(s) and prompt institution of treatment, including oxygen therapy, indicated supportive measures and dantrolene (Consult dantrolene sodium intravenous package insert before using).
 
 Use in Head and Neck Area: Small doses of local anesthetics injected into the head and neck area, including retrobulbar, dental, and stellate ganglion blocks, may produce adverse reactions similar to systemic toxicity seen with unintentional intravascular injections of larger doses.
 The injection procedures require the utmost care.
@@ -93,8 +91,7 @@ These reactions may be due to intra-arterial injection of the local anesthetic w
 They may also be due to puncture of the dural sheath of the optic nerve during retrobulbar block with diffusion of any local anesthetic along the subdural space to the midbrain.
 Patients receiving these blocks should have their circulation and respiration monitored and be constantly observed.
 Resuscitative equipment and personnel for treating adverse reactions should be immediately available.
-Dosage recommendations should not be exceeded.
-(See DOSAGE AND ADMINISTRATION.)
+Dosage recommendations should not be exceeded (See DOSAGE AND ADMINISTRATION).
 
 Use in Ophthalmic Surgery: Clinicians who perform retrobulbar blocks should be aware that there have been reports of respiratory arrest following local anesthetic injection.
 Prior to retrobulbar block, as with all other regional procedures, the immediate availability of equipment, drugs, and personnel to manage respiratory arrest or depression, convulsions, and cardiac stimulation or depression should be assured (see also WARNINGS and Use In Head and Neck Area, above).
@@ -124,11 +121,10 @@ Phenothiazines and butyrophenones may reduce or reverse the pressor effect of ep
 Carcinogenesis, Mutagenesis, Impairment of Fertility: Long-term studies in animals to evaluate the carcinogenic potential of bupivacaine hydrochloride have not been conducted.
 The mutagenic potential and the effect on fertility of bupivacaine hydrochloride have not been determined.
 
-Pregnancy Category C: There are no adequate and well-controlled studies in pregnant women.
+Pregnancy: There are no adequate and well-controlled studies in pregnant women.
 MARCAINE should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 Bupivacaine hydrochloride produced developmental toxicity when administered subcutaneously to pregnant rats and rabbits at clinically relevant doses.
-This does not exclude the use of MARCAINE at term for obstetrical anesthesia or analgesia.
-(See Labor and Delivery)
+This does not exclude the use of MARCAINE at term for obstetrical anesthesia or analgesia (See Labor and Delivery).
 
 Bupivacaine hydrochloride was administered subcutaneously to rats at doses of 4.4, 13.3, & 40 mg/kg and to rabbits at doses of 1.3, 5.8, & 22.2 mg/kg during the period of organogenesis (implantation to closure of the hard palate).
 The high doses are comparable to the daily maximum recommended human dose (MRHD) of 400 mg/day on a mg/m2 body surface area (BSA) basis.
@@ -142,8 +138,7 @@ Labor and Delivery: SEE BOXED WARNING REGARDING OBSTETRICAL USE OF 0.75% MARCAIN
 
 MARCAINE is contraindicated for obstetrical paracervical block anesthesia.
 
-Local anesthetics rapidly cross the placenta, and when used for epidural, caudal, or pudendal block anesthesia, can cause varying degrees of maternal, fetal, and neonatal toxicity.
-(See CLINICAL PHARMACOLOGY, Pharmacokinetics.)
+Local anesthetics rapidly cross the placenta, and when used for epidural, caudal, or pudendal block anesthesia, can cause varying degrees of maternal, fetal, and neonatal toxicity (See CLINICAL PHARMACOLOGY, Pharmacokinetics).
 The incidence and degree of toxicity depend upon the procedure performed, the type, and amount of drug used, and the technique of drug administration.
 Adverse reactions in the parturient, fetus, and neonate involve alterations of the central nervous system, peripheral vascular tone, and cardiac function.
 
@@ -166,18 +161,13 @@ Nursing Mothers: Bupivacaine has been reported to be excreted in human milk sugg
 Because of the potential for serious adverse reactions in nursing infants from bupivacaine, a decision should be made whether to discontinue nursing or not administer bupivacaine, taking into account the importance of the drug to the mother.
 
 Pediatric Use: Until further experience is gained in pediatric patients younger than 12 years, administration of MARCAINE in this age group is not recommended.
-Continuous infusions of bupivacaine in children have been reported to result in high systemic levels of bupivacaine and seizures; high plasma levels may also be associated with cardiovascular abnormalities.
-(See WARNINGS, PRECAUTIONS, and OVERDOSAGE.)
+Continuous infusions of bupivacaine in children have been reported to result in high systemic levels of bupivacaine and seizures; high plasma levels may also be associated with cardiovascular abnormalities (See WARNINGS, PRECAUTIONS, and OVERDOSAGE).
 
-Geriatric Use: Patients over 65 years, particularly those with hypertension, may be at increased risk for developing hypotension while undergoing anesthesia with MARCAINE.
-(See ADVERSE REACTIONS.)
+Geriatric Use: Patients over 65 years, particularly those with hypertension, may be at increased risk for developing hypotension while undergoing anesthesia with MARCAINE (See ADVERSE REACTIONS).
 
-Elderly patients may require lower doses of MARCAINE.
-(See PRECAUTIONS, Epidural Anesthesia and DOSAGE AND ADMINISTRATION.)
+Elderly patients may require lower doses of MARCAINE (See PRECAUTIONS, Epidural Anesthesia and DOSAGE AND ADMINISTRATION).
 
-In clinical studies, differences in various pharmacokinetic parameters have been observed between elderly and younger patients.
-(See CLINICAL PHARMACOLOGY.)
+In clinical studies, differences in various pharmacokinetic parameters have been observed between elderly and younger patients (See CLINICAL PHARMACOLOGY).
 
 This product is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
-(See CLINICAL PHARMACOLOGY.)
+Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function (See CLINICAL PHARMACOLOGY).

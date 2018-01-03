@@ -36,8 +36,8 @@ Do not use the solution if its color is pinkish or darker than slightly yellow o
 | NDC 0409-1749-29Carton of 10 | 150 mg/30 mL(5 mg/mL) | NDC 0409-1749-71Single-dose vial |
 | NDC 0409-1755-50Carton of 1 | 250 mg/50 mL(5 mg/mL) | NDC 0409-1755-50Multiple-dose vial |
 
-Revised: 10/2014
+Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
-EN-3536
+LAB-1178-1.0
 
-Hospira, Inc., Lake Forest, IL 60045 USA
+Revised: 11/2017

@@ -20,6 +20,6 @@ The routes of administration and indicated MARCAINE concentrations are:
 - •epidural test dose 0.5% with epinephrine 1:200,000
 - •dental blocks 0.5% with epinephrine 1:200,000
 
-(See DOSAGE AND ADMINISTRATION for additional information.)
+(See DOSAGE AND ADMINISTRATION for additional information).
 
 Standard textbooks should be consulted to determine the accepted procedures and techniques for the administration of MARCAINE.
