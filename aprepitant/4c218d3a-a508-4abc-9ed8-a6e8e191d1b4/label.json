@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA209296"
+  ],
+  "inn": "aprepitant",
+  "labeler": "Heron Therapeutics",
+  "package_ndcs": [
+    "47426-201-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, EMULSION",
+      "generic": "aprepitant",
+      "name": "CINVANTI"
+    }
+  ],
+  "setid": "4c218d3a-a508-4abc-9ed8-a6e8e191d1b4",
+  "source": "dailymed"
+}
