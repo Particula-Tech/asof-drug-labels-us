@@ -1,7 +1,7 @@
 # 10 OVERDOSAGE
 
 Accidental overdosage following administration of enoxaparin sodium may lead to hemorrhagic complications.
-Injected enoxaparin sodium may be largely neutralized by the slow IV injection of protamine sulfate (1% solution).
+Injected enoxaparin sodium may be largely neutralized by the slow intravenous injection of protamine sulfate (1% solution).
 The dose of protamine sulfate should be equal to the dose of enoxaparin sodium injected: 1 mg protamine sulfate should be administered to neutralize 1 mg enoxaparin sodium, if enoxaparin sodium was administered in the previous 8 hours.
 An infusion of 0.5 mg protamine per 1 mg of enoxaparin sodium may be administered if enoxaparin sodium was administered greater than 8 hours previous to the protamine administration, or if it has been determined that a second dose of protamine is required.
 The second infusion of 0.5 mg protamine sulfate per 1 mg of enoxaparin sodium may be administered if the aPTT measured 2 to 4 hours after the first infusion remains prolonged.

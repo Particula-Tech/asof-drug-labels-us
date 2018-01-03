@@ -9,9 +9,9 @@ The fetal risk summary below describes the potential of enoxaparin sodium to inc
 
 Fetal Risk Summary
 
-Enoxaparin does not cross the placenta, and is not expected to result in fetal exposure to the drug.
+Enoxaparin sodium does not cross the placenta, and is not expected to result in fetal exposure to the drug.
 Human data from a retrospective cohort study, which included 693 live births, suggest that enoxaparin sodium does not increase the risk of major developmental abnormalities.
-Based on animal data, enoxaparin is not predicted to increase the risk of major developmental abnormalities (see Data).
+Based on animal data, enoxaparin is not predicted to increase the risk of major developmental abnormalities [see Data].
 
 Clinical Considerations
 
@@ -32,36 +32,55 @@ The multiple-dose vial of enoxaparin sodium contains 15 mg benzyl alcohol per 1 
 
 Data
 
-- Human Data - There are no adequate and well-controlled studies in pregnant women.
-  A retrospective study reviewed the records of 604 women who used enoxaparin during pregnancy.
-  A total of 624 pregnancies resulted in 693 live births.
-  There were 72 hemorrhagic events (11 serious) in 63 women.
-  There were 14 cases of neonatal hemorrhage.
-  Major congenital anomalies in live births occurred at rates (2.5%) similar to background rates.There have been postmarketing reports of fetal death when pregnant women received enoxaparin sodium.
-  Causality for these cases has not been determined.
-  Insufficient data, the underlying disease, and the possibility of inadequate anticoagulation complicate the evaluation of these cases.A clinical study using enoxaparin in pregnant women with mechanical prosthetic heart valves has been conducted [see Warnings and Precautions (5.7)].
-- Animal Data - Teratology studies have been conducted in pregnant rats and rabbits at SC doses of enoxaparin up to 15 times the recommended human dose (by comparison with 2 mg/kg as the maximum recommended daily dose).
-  There was no evidence of teratogenic effects or fetotoxicity due to enoxaparin.
-  Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
+Human data
+
+There are no adequate and well-controlled studies in pregnant women.
+A retrospective study reviewed the records of 604 women who used enoxaparin during pregnancy.
+A total of 624 pregnancies resulted in 693 live births.
+There were 72 hemorrhagic events (11 serious) in 63 women.
+There were 14 cases of neonatal hemorrhage.
+Major congenital anomalies in live births occurred at rates (2.5%) similar to background rates.
+
+There have been postmarketing reports of fetal death when pregnant women received enoxaparin sodium.
+Causality for these cases has not been determined.
+Insufficient data, the underlying disease, and the possibility of inadequate anticoagulation complicate the evaluation of these cases.
+
+A clinical study using enoxaparin in pregnant women with mechanical prosthetic heart valves has been conducted [see Warnings and Precautions (5.7)].
+
+Animal data
+
+Teratology studies have been conducted in pregnant rats and rabbits at subcutaneous doses of enoxaparin up to 15 times the recommended human dose (by comparison with 2 mg/kg as the maximum recommended daily dose).
+There was no evidence of teratogenic effects or fetotoxicity due to enoxaparin.
+Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 
 ## 8.3 Nursing Mothers
 
-It is not known whether enoxaparin is excreted in human milk.
-Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from enoxaparin, a decision should be made whether to discontinue nursing or discontinue enoxaparin sodium, taking into account the importance of enoxaparin sodium to the mother and the known benefits of nursing.
+It is not known whether enoxaparin sodium is excreted in human milk.
+Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from enoxaparin sodium, a decision should be made whether to discontinue nursing or discontinue enoxaparin sodium, taking into account the importance of enoxaparin sodium to the mother and the known benefits of nursing.
 
 ## 8.4 Pediatric Use
 
 Safety and effectiveness of enoxaparin sodium in pediatric patients have not been established.
 
+Enoxaparin sodium is not approved for use in neonates or infants.
+
+Serious adverse reactions including fatal reactions and the "gasping syndrome" occurred in premature neonates and low birth weight infants in the neonatal intensive care unit who received drugs containing benzyl alcohol as a preservative.
+In these cases, benzyl alcohol dosages of 99 to 234 mg/kg/day produced high levels of benzyl alcohol and its metabolites in the blood and urine (blood levels of benzyl alcohol were 0.61 to 1.378 mmol/L).
+Additional adverse reactions included gradual neurological deterioration, seizures, intracranial hemorrhage, hematologic abnormalities, skin breakdown, hepatic and renal failure, hypotension, bradycardia, and cardiovascular collapse.
+Preterm, low birth weight infants may be more likely to develop these reactions because they may be less able to metabolize benzyl alcohol.
+The minimum amount of benzyl alcohol at which serious adverse reactions may occur is not known.
+
+Enoxaparin sodium multiple-dose vials contain 15 mg/mL of benzyl alcohol (at the dose of 1.5 mg/kg twice a day, benzyl alcohol exposure in patients is 0.45 mg/kg daily) [see Warnings and Precautions (5.8)].
+
 ## 8.5 Geriatric Use
 
-Prevention of Deep Vein Thrombosis in Hip, Knee and Abdominal Surgery; Treatment of Deep Vein Thrombosis, Prevention of Ischemic Complications of Unstable Angina and Non-Q-wave Myocardial Infarction
+Prevention of Deep Vein Thrombosis in Hip, Knee and Abdominal Surgery; Treatment of Deep Vein Thrombosis, Prevention of Ischemic Complications of Unstable Angina and Non–Q-wave Myocardial Infarction
 
 Over 2800 patients, 65 years and older, have received enoxaparin sodium in pivotal clinical trials.
 The efficacy of enoxaparin sodium in the geriatric (≥65 years) was similar to that seen in younger patients (<65 years).
 The incidence of bleeding complications was similar between geriatric and younger patients when 30 mg every 12 hours or 40 mg once a day doses of enoxaparin sodium were employed.
 The incidence of bleeding complications was higher in geriatric patients as compared to younger patients when enoxaparin sodium was administered at doses of 1.5 mg/kg once a day or 1 mg/kg every 12 hours.
-The risk of enoxaparin-associated bleeding increased with age.
+The risk of enoxaparin sodium–associated bleeding increased with age.
 Serious adverse events increased with age for patients receiving enoxaparin sodium.
 Other clinical experience (including postmarketing surveillance and literature reports) has not revealed additional differences in the safety of enoxaparin sodium between geriatric and younger patients.
 Careful attention to dosing intervals and concomitant medications (especially antiplatelet medications) is advised.
@@ -70,8 +89,8 @@ Monitoring of geriatric patients with low body weight (<45 kg) and those predisp
 
 Treatment of Acute ST-Segment Elevation Myocardial Infarction
 
-In the clinical study for treatment of acute ST-segment elevation myocardial infarction, there was no evidence of difference in efficacy between patients ≥75 years of age (n = 1241) and patients less than 75 years of age (n=9015).
-Patients ≥75 years of age did not receive a 30 mg IV bolus prior to the normal dosage regimen and had their SC dose adjusted to 0.75 mg/kg every 12 hours [see Dosage and Administration (2.3)].
+In the clinical study for treatment of acute ST-segment elevation myocardial infarction, there was no evidence of difference in efficacy between patients ≥75 years of age (n=1241) and patients less than 75 years of age (n=9015).
+Patients ≥75 years of age did not receive a 30 mg intravenous bolus prior to the normal dosage regimen and had their subcutaneous dose adjusted to 0.75 mg/kg every 12 hours [see Dosage and Administration (2.3)].
 The incidence of bleeding complications was higher in patients ≥65 years of age as compared to younger patients (<65 years).
 
 ## 8.6 Patients with Mechanical Prosthetic Heart Valves
@@ -88,12 +107,12 @@ In patients with renal impairment, there is an increase in exposure of enoxapari
 All such patients should be observed carefully for signs and symptoms of bleeding.
 Because exposure of enoxaparin sodium is significantly increased in patients with severe renal impairment (creatinine clearance <30 mL/min), a dosage adjustment is recommended for therapeutic and prophylactic dosage ranges.
 No dosage adjustment is recommended in patients with moderate (creatinine clearance 30–50 mL/min) and mild (creatinine clearance 50–80 mL/min) renal impairment [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
-In patients with renal failure, treatment with enoxaparin sodium has been associated with the development of hyperkalemia [see Adverse Reactions (6.2)].
+In patients with renal failure, treatment with enoxaparin has been associated with the development of hyperkalemia [see Adverse Reactions (6.2)].
 
 ## 8.8 Hepatic Impairment
 
 The impact of hepatic impairment on enoxaparin's exposure and antithrombotic effect has not been investigated.
-Caution should be exercised when administering enoxaparin sodium to patients with hepatic impairment.
+Caution should be exercised when administering enoxaparin to patients with hepatic impairment.
 
 ## 8.9 Low-Weight Patients
 

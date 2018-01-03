@@ -1,6 +1,6 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Enoxaparin sodium injection is available in two concentrations:
+Enoxaparin sodium injection is available in two concentrations.
 
 ## 3.1 100 mg/mL Concentration
 

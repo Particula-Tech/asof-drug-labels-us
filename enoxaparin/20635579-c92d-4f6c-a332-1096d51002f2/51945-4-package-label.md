@@ -1,6 +1,6 @@
 PRINCIPAL DISPLAY PANEL - 30 mg/0.3 mL Syringe Carton
 
-W Winthrop
+Winthrop A SANOFI COMPANY
 
 NDC 0955-1003-10
 
@@ -20,7 +20,7 @@ Rx Only
 
 PRINCIPAL DISPLAY PANEL - 40 mg/0.4 mL Syringe Carton
 
-W Winthrop
+Winthrop A SANOFI COMPANY
 
 NDC 0955-1004-10
 
@@ -40,7 +40,7 @@ Rx Only
 
 PRINCIPAL DISPLAY PANEL - 60 mg/0.6 mL Syringe Carton
 
-W Winthrop
+Winthrop A SANOFI COMPANY
 
 NDC 0955-1006-10
 
@@ -60,7 +60,7 @@ Rx Only
 
 PRINCIPAL DISPLAY PANEL - 80 mg/0.8 mL Syringe Carton
 
-W Winthrop
+Winthrop A SANOFI COMPANY
 
 NDC 0955-1008-10
 
@@ -80,7 +80,7 @@ Rx Only
 
 PRINCIPAL DISPLAY PANEL - 100 mg/1 mL Syringe Carton
 
-W Winthrop
+Winthrop A SANOFI COMPANY
 
 NDC 0955-1010-10
 
@@ -98,9 +98,9 @@ Rx Only
 
 10 1 mL Syringes
 
-PRINCIPAL DISPLAY PANEL - 300 mg/3 mL Syringe Carton
+PRINCIPAL DISPLAY PANEL - 300 mg/3 mL Vial Carton
 
-W Winthrop
+Winthrop A SANOFI COMPANY
 
 NDC 0955-1016-01
 
@@ -120,7 +120,7 @@ SANOFI
 
 PRINCIPAL DISPLAY PANEL - 120 mg/0.8 mL Syringe Carton
 
-W Winthrop
+Winthrop A SANOFI COMPANY
 
 NDC 0955-1012-10
 
@@ -140,7 +140,7 @@ Rx Only
 
 PRINCIPAL DISPLAY PANEL - 150 mg/1 mL Syringe Carton
 
-W Winthrop
+Winthrop A SANOFI COMPANY
 
 NDC 0955-1015-10
 

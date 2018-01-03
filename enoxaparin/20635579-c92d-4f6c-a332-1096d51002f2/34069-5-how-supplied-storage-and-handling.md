@@ -1,8 +1,8 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Enoxaparin sodium injection is available in two concentrations [see Tables 26 and 27]:
+Enoxaparin sodium injection is available in two concentrations (see Tables 26 and 27).
 
-Table 26 100 mg/mL Concentration
+Table 26: 100 mg/mL Concentration
 
 | Dosage Unit / StrengthStrength represents the number of milligrams of enoxaparin sodium in Water for Injection. Enoxaparin sodium 30 and 40 mg prefilled syringes, and 60, 80, and 100 mg graduated prefilled syringes each contain 10 mg enoxaparin sodium per 0.1 mL Water for Injection. | Anti-Xa ActivityApproximate anti-Factor Xa activity based on reference to the W.H.O. First International Low Molecular Weight Heparin Reference Standard. | Package Size (per carton) | Label Color | NDC # 0955- |
 | --- | --- | --- | --- | --- |
@@ -16,7 +16,7 @@ Table 26 100 mg/mL Concentration
 | Multiple-Dose VialEach enoxaparin sodium multiple-dose vial contains 15 mg benzyl alcohol per 1 mL as a preservative. |  |  |  |  |
 | 300 mg/3 mL | 30,000 IU | 1 vial | Red | 1016-01 |
 
-Table 27 150 mg/mL Concentration
+Table 27: 150 mg/mL Concentration
 
 | Dosage Unit / StrengthStrength represents the number of milligrams of enoxaparin sodium in Water for Injection. Enoxaparin sodium 120 and 150 mg graduated prefilled syringes contain 15 mg enoxaparin sodium per 0.1 mL Water for Injection. | Anti-Xa ActivityApproximate anti-Factor Xa activity based on reference to the W.H.O. First International Low Molecular Weight Heparin Reference Standard. | Package Size (per carton) | Syringe Label Color | NDC # 0955- |
 | --- | --- | --- | --- | --- |
@@ -24,7 +24,7 @@ Table 27 150 mg/mL Concentration
 | 120 mg / 0.8 mL | 12,000 IU | 10 syringes | Purple | 1012-10 |
 | 150 mg / 1 mL | 15,000 IU | 10 syringes | Navy Blue | 1015-10 |
 
-Store at 25°C (77°F); excursions permitted to 15–30°C (59–86°F) [see USP Controlled Room Temperature].
+Store at 25°C (77°F); excursions permitted to 15°C–30°C (59°F–86°F) [see USP Controlled Room Temperature].
 
 Do not store the multiple-dose vials for more than 28 days after the first use.
 
