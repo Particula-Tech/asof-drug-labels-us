@@ -5,20 +5,20 @@
 H IV couns eli ng and t esting should be o f fe r ed to all p ati ents b efo re b e ginn ing t r e atm ent with lamivudine tablets (HBV) and p eriodi cal ly du ri ng t r e atm ent b ecau se of the risk of em e r g e n ce of resist ant - H I V -1 and limit ation of t reatm ent options if lamivudine tablets (HBV) is p re s crib ed to t r e at ch ronic h ep atitis B in fection in a p ati ent who h as un r e c ogni z ed H I V -1 in fection or acqui res H I V-1 in fection du ri ng t reatm e nt [s ee Warnings and Pr e cautions (5.
 3)].
 
-## 2.2 Dosage in Adult Patients
+## 2.2 Recommended Dosage for Adult Patients
 
 The r e comm end ed o r al dos age of lamivudine tablets (HBV) is 100 mg on ce d ai l y.
 
-## 2.3 Dosage in Pediatric Patients
+## 2.3 Recommended Dosage for Pediatric Patients
 
 The r e comm end ed o r al dos age of lamivudine tablets (HBV) for p edi at ric p ati ents a g ed 2 to 17 y e ars is 3 mg p er kg o n ce d ai ly up to a m a ximum d ai ly dos age of 100 m g. The o ral solution fo rmul ation should be p r es crib ed f or p ati ents r eq ui ring a do s a ge l ess th an 100 mg or if u n able to s wallow t abl ets.
 
-## 2.4 Dosage Adjustment in Adult Patients with Renal Impairment
+## 2.4 Patients with Renal Impairment
 
 Dos a ge r ecomm end atio ns for adult p ati ents with r edu ced r en al fu n ction are p rovid ed in Table 1 [s ee Clini cal P har ma cology (12.
 3)].
 Table 1.
-Dosage of Lamivudine Tablets (HBV) in Adult Pa ti en ts Wi th Renal I mpai r ment
+Dosage of Lamivudine Tablets (HBV) in Adult Pa ti en ts wi th Renal I mpai r ment
 
 | Crea tinine Cl ea ran ce (mL/ min) | Rec o mmend ed Dosage of Lamivudine Tablets (HBV) |
 | --- | --- |

@@ -14,7 +14,7 @@ The results of th ese t ri als a re summ ari z ed b elo w.
 P rin cip al endpoint comp arisons for the histolo g ic and s erol o gic out com es in subj ects receivi ng lamivudine tablets (HBV) (100 mg d ai l y) or p l acebo in th ese t ri als are sho wn in the follo wing t abl es.
 
 Table 7.
-His tologic Response at W eek 52 A m ong Adult Sub jects Re c eiving Lamivudine Tablets (HBV)100 mg On ce Daily or Pla cebo
+His tologic Response at W eek 52 a m ong Adult Sub jects Re c eiving Lamivudine Tablets (HBV)100 mg On ce Daily or Pla cebo
 
 | Ass es s m ent | T rial 1 |  | T rial 2 |  | T rial 3 |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -25,7 +25,7 @@ His tologic Response at W eek 52 A m ong Adult Sub jects Re c eiving Lamivudine 
 
 a Imp ro v em ent was d efin ed as a g r e at er th an or eq u al to 2 -point d ecr e ase in the Knod ell Histolo gic Activi ty Ind ex (H A I) at W eek 52 com p ared with p r et reatm ent HA I. Subj ects with missing d ata at b a s eline were e x clud ed.
 Table 8.
-HB eAg S ero conv ert e rsa at W eek 52 A mong Adult Sub jects R eceiving Lamivudine Tablets (HBV) 100 mg On ce Daily or Pla cebo
+HB eAg S ero conv ert e rsa at W eek 52 a mong Adult Sub jects R eceiving Lamivudine Tablets (HBV) 100 mg On ce Daily or Pla cebo
 
 | Seroconversion | T rial 1 |  | T rial 2 |  | T rial 3 |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -35,7 +35,7 @@ HB eAg S ero conv ert e rsa at W eek 52 A mong Adult Sub jects R eceiving Lamivu
 a Th ree - compon ent s er o c onv ersion was d e fin ed as W eek 52 v alu es sho wi ng loss of H B e A g, g ain of HB eAb, and redu ction of H BV DNA to b elow the solution - h yb ridi z ation ass ay limit.
 Subj ects with n e g ative b as eline H B e Ag or HBV DNA ass ay we re e x clud ed from the an a l ysis.
 
-Normalization of serum ALT levels was more frequent with treatment of lamivudine (HBV) compared with placebo in Trials 1 to 3.
+Normalization of serum ALT levels was more frequent with treatment of lamivudine tablets (HBV) compared with placebo in Trials 1, 2, and 3.
 The m ajo ri ty of subj ects t reat ed with lamivudine tablets (HBV) sho wed a d ec r ease of H BV D NA to b elow the ass ay limit ear ly in the co u rse of th e ra p y. Ho wev e r, r e app e a ran ce of ass a y - d et ect ab le H BV D NA du ri ng t r e atm ent with lamivudine tablets (HBV) was obs erv ed in app ro xi m at e ly o n e-thi rd of subj ects aft er this initi al respons e.
 
 ## 14.2 Clinical Studies of Lamivudine Tablets (HBV) in Pediatric Subjects

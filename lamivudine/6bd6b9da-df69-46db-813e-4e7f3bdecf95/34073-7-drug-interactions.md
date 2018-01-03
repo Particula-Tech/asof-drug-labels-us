@@ -1,5 +1,11 @@
 # 7 DRUG INTERACTIONS
 
-L amivudine is p r edomin ant ly elimin at ed in the u rine by active o rg anic c ationic s ec r etion.
-The possibili ty of int er actions with oth er d ru gs a dminist ered con cu r rent ly should be consid ered, p arti cul ar ly w h en th eir m ain route of elimin ation is active re n al s e c retion via the o r g anic cationic t ranspo rt s ys t em (e. g., t r im ethop rim).
-No d ata a re av ail able re g ardi ng int e ra ctions with oth er d ru gs th at h ave r en al cl ea ran ce m ech anisms simil ar to th at of l amivudin e.
+## 7.1 Drugs Inhibiting Organic Cation Transporters
+
+Lamivudine is predominantly eliminated in the urine by active organic cationic secretion.
+The possibility of interactions with other drugs administered concurrently should be considered, particularly when their main route of elimination is active renal secretion via the organic cationic transport system (e.g., trimethoprim) [see Clinical Pharmacology (12.3)].No data are available regarding interactions with other drugs that have renal clearance mechanisms similar to that of lamivudine.
+
+## 7.2 Sorbitol
+
+Coadministration of single doses of lamivudine and sorbitol resulted in a sorbitol dose-dependent reduction in lamivudine exposures.
+When possible, avoid use of sorbitol-containing medicines with lamivudine [see Clinical Pharmacology (12.3].Consider more frequent monitoring of HBV viral load when chronic coadministration cannot be avoided.

@@ -14,7 +14,7 @@ The estimated rate of miscarriage for women exposed to lamivudine in the indicat
 The estimated background rate of miscarriage in clinically recognized pregnancies in the U.S. general population is 15% to 20%.
 Oral administration of lamivudine to pregnant rabbits during organogenesis resulted in embryolethality at systemic exposure (AUC) similar to the recommended clinical dose; however, no adverse developmental effects were observed with oral administration of lamivudine to pregnant rats during organogenesis at plasma concentrations (Cmax) 60 times the recommended clinical dose [see Data].
 Data Human Data: Based on prospective reports from the APR of over 11,000 exposures to lamivudine (including over 4,600 exposed in the first trimester) during pregnancy resulting in live births, less than 1% of which were patients with HBV, there was no substantial difference in birth defects with lamivudine compared with the birth defect rate of 2.7% observed in the comparator population of the MACDP.
-The prevalence of birth defects in live births was 3.1% (95% CI: 2.6% to 3.6%) following first trimester exposure to lamivudine-containing regimens and 2.8% (95% CI: 2.5% to 3.3%) following second/third trimester exposure to lamivudine containing regimens.
+The prevalence of birth defects in live births was 3.1% (95% CI: 2.6% to 3.6%) following first trimester exposure to lamivudine-containing regimens and 2.8% (95% CI: 2.5% to 3.3%) following second/third trimester exposure to lamivudine-containing regimens.
 The pharmacokinetics of lamivudine in patients with HBV or HIV-1 infection and in healthy volunteers are similar at similar doses.
 Lamivudine pharmacokinetics were studied in pregnant women with HIV-1 infection during 2 clinical trials conducted in South Africa.
 The trials assessed pharmacokinetics in 16 women at 36 weeks gestation using 150 mg lamivudine twice daily (3 times the recommended daily dosage for HBV) with zidovudine, 10 women at 38 weeks gestation using 150 mg lamivudine twice daily (3 times the recommended daily dosage for HBV) with zidovudine, and 10 women at 38 weeks gestation using lamivudine 300 mg twice daily (6 times the recommended daily dosage for HBV) without other antiretrovirals.
@@ -35,7 +35,7 @@ There is no information available regarding lamivudine concentrations in milk fr
 However, in lactating women with HIV-1 infection being treated with lamivudine at 3 or 6 times the recommended daily dose for HBV, lamivudine concentrations in milk were similar to those observed in serum [see Data].
 The lamivudine dose received by a breastfed infant of a mother being treated for HIV-1 infection was estimated to be approximately 6% of the recommended daily lamivudine dose for HBV in children over 2 years of age.
 There is no information available regarding the effects of the drug on the breastfed infant or on milk production.
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for lamivudine-HBV and any potential adverse effects on the breastfed infant from lamivudine or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for lamivudine tablets (HBV) and any potential adverse effects on the breastfed infant from lamivudine or from the underlying maternal condition.
 Data In mothers with HIV receiving lamivudine monotherapy (300 mg twice daily [6 times the recommended daily dosage for HBV]) or combination therapy (150 mg lamivudine twice daily [3 times the recommended daily dosage for HBV] with 300 mg zidovudine twice daily), the median breast milk to plasma lamivudine concentration ratio was 0.6 to 3.3, and the estimated infant daily dose was approximately 6% of the recommended 3-mg-per-kg daily lamivudine dose for treatment of HBV in children over 2 years of age.
 In breastfed infants of mothers with HIV-1 infection receiving lamivudine therapy, the blood concentrations of lamivudine decreased after delivery and were undetectable at 6 months despite constant milk concentrations.
 This is consistent with increased lamivudine renal clearance in the first 6 months of life.
@@ -48,9 +48,8 @@ The s afe ty and e f fi ca cy of lamivudine tablets (HBV) in p edi at ric p ati 
 
 ## 8.5 Geriatric Use
 
-Clini cal t ri als of lamivudine tablets (HBV) did not in clude s u f fi ci ent numb ers of subj ects a g ed 65 and ov er to d et e rmine w h eth er th ey r espond di ff er ent ly f rom you ng er subj e cts.
-In g en e r al, dose s el ection for an eld er ly p ati ent should be cautious, refl e cting the g rea t er f requ en cy of d e c r eas ed h ep ati c, re n al, or c ardi ac fun ction, and of co n comit ant dis ease or oth er d r ug th era p y. In p arti cul ar, b ecau se l amivudine is subst anti al ly e x cret ed by the kidn ey and eld er ly p ati ents are mo re lik e ly to h a ve d e cr e as ed re n al fun ction, r en al fun ction should be monito red and dos age adjustm ents should be m ade a cco rdi n g ly [s ee Do sage and Ad ministration (2.4), Clini cal Phar ma cology (12.
-3)].
+Clinical trials of lamivudine tablets (HBV) did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+In general, caution should be exercised in the administration of lamivudine tablets (HBV) in elderly patients reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy [see Dosage and Administration (2.4),Clinical Pharmacology (12.3)].
 
 ## 8.6 Patients With Impaired Renal Function
 
