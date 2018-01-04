@@ -13,6 +13,6 @@ Manufactured by Hospira, Inc., Lake Forest, IL 60045 USA
 
 N+ and NOVAPLUS are registered trademarks of Vizient, Inc.
 
-LAB-1054-1.0
+LAB-1054-2.0
 
-06/2017
+11/2017

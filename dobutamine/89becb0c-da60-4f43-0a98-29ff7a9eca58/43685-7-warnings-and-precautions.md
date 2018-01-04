@@ -53,7 +53,7 @@ There was no evidence of drug interactions in clinical studies in which dobutami
 
 Carcinogenesis, Mutagenesis, Impairment of Fertility – Studies to evaluate the carcinogenic or mutagenic potential of dobutamine hydrochloride, or its potential to affect fertility, have not been conducted.
 
-Pregnancy – Teratogenic Effects − Pregnancy Category B − Reproduction studies performed in rats at doses up to the normal human dose (10 mcg/kg/min for 24 h, total daily dose of 14.4 mg/kg), and in rabbits at doses up to twice the normal human dose, have revealed no evidence of harm to the fetus due to dobutamine hydrochloride.
+Pregnancy – Teratogenic Effects − Reproduction studies performed in rats at doses up to the normal human dose (10 mcg/kg/min for 24 h, total daily dose of 14.4 mg/kg), and in rabbits at doses up to twice the normal human dose, have revealed no evidence of harm to the fetus due to dobutamine hydrochloride.
 There are, however, no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 
