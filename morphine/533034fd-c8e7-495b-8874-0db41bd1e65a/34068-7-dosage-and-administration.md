@@ -18,23 +18,15 @@ Morphine sulfate extended-release tablets are administered orally once every 8 o
 
 ## 2.2 Initial Dosage
 
-Use of Morphine Sulfate Extended-Release Tablets as the First Opioid Analgesic (opioid-naïve patients)
+Use of Morphine Sulfate Extended-Release Tablets as the First Opioid Analgesic (opioid-naïve patients) Initiate treatment with morphine sulfate extended-release tablets with 15 mg tablets orally every 8 or 12 hours.
 
-Initiate treatment with morphine sulfate extended-release tablets with 15 mg tablets orally every 8 or 12 hours.
-
-Use of Morphine Sulfate Extended-Release Tablets in Patients who are not Opioid Tolerant (opioid non-tolerant patients)
-
-The starting dose for patients who are not opioid tolerant is morphine sulfate extended-release tablets 15 mg orally every 12 hours.
+Use of Morphine Sulfate Extended-Release Tablets in Patients who are not Opioid Tolerant (opioid non-tolerant patients) The starting dose for patients who are not opioid tolerant is morphine sulfate extended-release tablets 15 mg orally every 12 hours.
 
 Use of higher starting doses in patients who are not opioid tolerant may cause fatal respiratory depression.
 
-Conversion from Other Oral Morphine to Morphine Sulfate Extended-Release Tablets
+Conversion from Other Oral Morphine to Morphine Sulfate Extended-Release Tablets Patients receiving other oral morphine formulations may be converted to morphine sulfate extended-release tablets by administering one-half of the patient's 24-hour requirement as morphine sulfate extended-release tablets on an every-12-hour schedule or by administering one-third of the patient's daily requirement as morphine sulfate extended-release tablets on an every-8-hour schedule.
 
-Patients receiving other oral morphine formulations may be converted to morphine sulfate extended-release tablets by administering one-half of the patient's 24-hour requirement as morphine sulfate extended-release tablets on an every-12-hour schedule or by administering one-third of the patient's daily requirement as morphine sulfate extended-release tablets on an every-8-hour schedule.
-
-Conversion from Other Opioids to Morphine Sulfate Extended-Release Tablets
-
-Discontinue all other around-the-clock opioid drugs when morphine sulfate extended-release tablets therapy is initiated.
+Conversion from Other Opioids to Morphine Sulfate Extended-Release Tablets Discontinue all other around-the-clock opioid drugs when morphine sulfate extended-release tablets therapy is initiated.
 
 There are no established conversion ratios for conversion from other opioids to morphine sulfate extended-release tablets defined by clinical trials.
 Initiate dosing using morphine sulfate extended-release tablets 15 mg orally every 8 to 12 hours.
@@ -44,9 +36,7 @@ While useful tables of opioid equivalents are readily available, there is inter-
 Close observation and frequent titration are warranted until pain management is stable on the new opioid.
 Monitor patients for signs and symptoms of opioid withdrawal and for signs of oversedation/toxicity after converting patients to morphine sulfate extended-release tablets.
 
-Conversion from Parenteral Morphine or Other Opioids (Parenteral or Oral) to Morphine Sulfate Extended-Release Tablets
-
-When converting from parenteral morphine or other non-morphine opioids (parenteral or oral) to morphine sulfate extended-release tablets, consider the following general points:
+Conversion from Parenteral Morphine or Other Opioids (Parenteral or Oral) to Morphine Sulfate Extended-Release Tablets When converting from parenteral morphine or other non-morphine opioids (parenteral or oral) to morphine sulfate extended-release tablets, consider the following general points:
 
 Parenteral to oral morphine ratio: Between 2 to 6 mg of oral morphine may be required to provide analgesia equivalent to 1 mg of parenteral morphine.
 Typically, a dose of morphine that is approximately three times the previous daily parenteral morphine requirement is sufficient.
@@ -55,9 +45,7 @@ Other parenteral or oral non-morphine opioids to oral morphine ratios: Specific 
 Published relative potency data are available, but such ratios are approximations.
 In general, begin with half of the estimated daily morphine requirement as the initial dose, managing inadequate analgesia by supplementation with immediate-release morphine.
 
-Conversion from Methadone to Morphine Sulfate Extended-Release Tablets
-
-Close monitoring is of particular importance when converting methadone to other opioid agonists.
+Conversion from Methadone to Morphine Sulfate Extended-Release Tablets Close monitoring is of particular importance when converting methadone to other opioid agonists.
 The ratio between methadone and other opioid agonists may vary widely as a function of previous dose exposure.
 Methadone has a long half-life and can accumulate in the plasma.
 

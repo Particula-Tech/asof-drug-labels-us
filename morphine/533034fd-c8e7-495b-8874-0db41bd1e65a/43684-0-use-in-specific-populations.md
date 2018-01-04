@@ -16,16 +16,12 @@ In the U.S. general population, the estimated background risk of major birth def
 
 Clinical Considerations
 
-Fetal/Neonatal Adverse Reactions
-
-Prolonged use of opioid analgesics during pregnancy for medical or nonmedical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
+Fetal/Neonatal Adverse Reactions Prolonged use of opioid analgesics during pregnancy for medical or nonmedical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
 Neonatal opioid withdrawal syndrome presents as irritability, hyperactivity and abnormal sleep pattern, high pitched cry, tremor, vomiting, diarrhea, and failure to gain weight.
 The onset, duration, and severity of neonatal opioid withdrawal syndrome vary based on the specific opioid used, duration of use, timing and amount of last maternal use, and rate of elimination of the drug by the newborn.
 Observe newborns for symptoms of neonatal opioid withdrawal syndrome and manage accordingly [see Warnings and Precautions (5.3)].
 
-Labor or Delivery
-
-Opioids cross the placenta and may produce respiratory depression and psycho-physiologic effects in neonates.
+Labor or Delivery Opioids cross the placenta and may produce respiratory depression and psycho-physiologic effects in neonates.
 An opioid antagonist, such as naloxone, must be available for reversal of opioid-induced respiratory depression in the neonate.
 Morphine sulfate extended-release tablets are not recommended for use in pregnant women during or immediately prior to labor, when use of shorter-acting analgesics or other analgesic techniques are more appropriate.
 Opioid analgesics, including morphine sulfate extended-release tablets, can prolong labor through actions which temporarily reduce the strength, duration, and frequency of uterine contractions.
@@ -34,14 +30,10 @@ Monitor neonates exposed to opioid analgesics during labor for signs of excess s
 
 Data
 
-Human Data
-
-The results from a population-based prospective cohort, including 70 women exposed to morphine during the first trimester of pregnancy and 448 women exposed to morphine at any time during pregnancy, indicate no increased risk for congenital malformations.
+Human Data The results from a population-based prospective cohort, including 70 women exposed to morphine during the first trimester of pregnancy and 448 women exposed to morphine at any time during pregnancy, indicate no increased risk for congenital malformations.
 However, these studies cannot definitely establish the absence of any risk because of methodological limitations, including small sample size and non-randomized study design.
 
-Animal Data
-
-Formal reproductive and developmental toxicology studies for morphine have not been conducted.
+Animal Data Formal reproductive and developmental toxicology studies for morphine have not been conducted.
 Exposure margins for the following published study reports are based on human daily dose of 60 mg morphine using a body surface area comparison (HDD).
 
 Neural tube defects (exencephaly and cranioschisis) were noted following subcutaneous administration of morphine sulfate (35 to 322 mg/kg) on Gestation Day 8 to pregnant hamsters (4.7 to 43.5 times the HDD).
@@ -73,24 +65,18 @@ Similar multigenerational findings were also seen in female rats pre-gestational
 
 ## 8.2 Lactation
 
-Risk Summary
-
-Morphine is present in breast milk.
+Risk Summary Morphine is present in breast milk.
 Published lactation studies report variable concentrations of morphine in breast milk with administration of immediate-release morphine to nursing mothers in the early postpartum period with a milk-to-plasma morphine AUC ratio of 2.5:1 measured in one lactation study.
 However, there is insufficient information to determine the effects of morphine on the breastfed infant and the effects of morphine on milk production.
 Lactation studies have not been conducted with extended-release morphine, including morphine sulfate extended-release tablets.
 Because of the potential for serious adverse reactions, including excess sedation and respiratory depression in a breastfed infant, advise patients that breastfeeding is not recommended during treatment with morphine sulfate extended-release tablets.
 
-Clinical Considerations
-
-Monitor infants exposed to morphine sulfate extended-release tablets through breast milk for excess sedation and respiratory depression.
+Clinical Considerations Monitor infants exposed to morphine sulfate extended-release tablets through breast milk for excess sedation and respiratory depression.
 Withdrawal symptoms can occur in breastfed infants when maternal administration of an opioid analgesic is stopped, or when breast-feeding is stopped.
 
 ## 8.3 Females and Males of Reproductive Potential
 
-Infertility
-
-Chronic use of opioids may cause reduced fertility in females and males of reproductive potential.
+Infertility Chronic use of opioids may cause reduced fertility in females and males of reproductive potential.
 It is not known whether these effects on fertility are reversible [see Adverse Reactions (6.2), Clinical Pharmacology (12.2)].
 
 In published animal studies, morphine administration adversely affected fertility and reproductive endpoints in male rats and prolonged estrus cycle in female rats [see Nonclinical Toxicology (13)].

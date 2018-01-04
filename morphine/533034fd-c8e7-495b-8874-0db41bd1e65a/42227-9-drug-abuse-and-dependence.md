@@ -30,9 +30,7 @@ Careful record-keeping of prescribing information, including quantity, frequency
 
 Proper assessment of the patient, proper prescribing practices, periodic re-evaluation of therapy, and proper dispensing and storage are appropriate measures that help to limit abuse of opioid drugs.
 
-Risks Specific to Abuse of Morphine Sulfate Extended-Release Tablets
-
-Morphine sulfate extended-release tablets are for oral use only.
+Risks Specific to Abuse of Morphine Sulfate Extended-Release Tablets Morphine sulfate extended-release tablets are for oral use only.
 Abuse of morphine sulfate extended-release tablets poses a risk of overdose and death.
 This risk is increased with concurrent abuse of morphine sulfate extended-release tablets with alcohol and other central nervous system depressants.
 Taking cut, broken, chewed, crushed, or dissolved morphine sulfate extended-release tablets enhances drug release and increases the risk of overdose and death.

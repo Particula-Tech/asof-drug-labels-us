@@ -14,7 +14,7 @@ PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
 Mallinckrodt™
 
-L00M24 Rev 04/2016
+L00M24 Rev 07/2017
 
 # PRINCIPAL DISPLAY PANEL - 30 mg
 
@@ -32,7 +32,7 @@ PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
 Mallinckrodt™
 
-L00M27 Rev 04/2016
+L00M27 Rev 07/2017
 
 # PRINCIPAL DISPLAY PANEL - 60 mg
 
@@ -50,7 +50,7 @@ PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
 Mallinckrodt™
 
-L00M29 Rev 04/2016
+L00M29 Rev 07/2017
 
 # PRINCIPAL DISPLAY PANEL - 100 mg
 
@@ -70,7 +70,7 @@ PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
 Mallinckrodt™
 
-L00M38 Rev 04/2016
+L00M38 Rev 07/2017
 
 # PRINCIPAL DISPLAY PANEL - 200 mg
 
@@ -90,4 +90,4 @@ PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
 Mallinckrodt™
 
-L00M42 Rev 08/2016
+L00M42 Rev 07/2017
