@@ -72,7 +72,7 @@ AIRDUO RESPICLICK acts locally in the lung; therefore, plasma levels may not pre
 Trials using oral dosing of labeled and unlabeled drug have demonstrated that the oral systemic bioavailability of fluticasone propionate was negligible (<1%), primarily due to incomplete absorption and presystemic metabolism in the gut and liver.
 In contrast, the majority of the fluticasone propionate delivered to the lung was systemically absorbed.
 
-After administration of 232/14 mcg AIRDUO RESPICLICK to patients aged 12 years and older with persistent asthma in a clinical trial, the mean Cmax value of fluticasone propionate was 66 pg/mL with a median tmax value of approximately 2 hour.
+After administration of 232/14 mcg AIRDUO RESPICLICK to patients aged 12 years and older with persistent asthma in a clinical trial, the mean Cmax value of fluticasone propionate was 66 pg/mL with a median tmax value of approximately 2 hours.
 
 Salmeterol:
 
@@ -138,7 +138,7 @@ The population pharmacokinetic analyses for fluticasone propionate and salmetero
 
 Age: No pharmacokinetic studies have been performed with AIRDUO RESPICLICK in children or geriatric patients.
 A subgroup analysis was conducted to compare patients aged 12-17 (n=15) and ≥18 (n=23) years following administration of 232/14 mcg AIRDUO RESPICLICK.
-No overall differences in fluticasone propionate and salmeterolpharmacokinetics were observed..
+No overall differences in fluticasone propionate and salmeterol pharmacokinetics were observed.
 
 Sex: A subgroup analysis was conducted to compare male (n=21) and female (n=16) patients following administration of 232/14 mcg AIRDUO RESPICLICK.
 No overall differences in fluticasone propionate and salmeterol pharmacokinetics were observed.

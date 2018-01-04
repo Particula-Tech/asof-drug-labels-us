@@ -1,6 +1,6 @@
 Instructions for Use
 
-AIRDUO™ RESPICLICK® (ayr´due oh res-pē-klik)
+AIRDUO RESPICLICK® (ayr´due oh res-pē-klik)
 
 (fluticasone propionate and salmeterol) inhalation powder 55 mcg/14 mcg
 
@@ -83,25 +83,23 @@ Figure E
 2. •Put the mouthpiece in your mouth and close your lips tightly around it.
    See Figure F.
 
-Figure G
-
-- •Do not block the vent above the mouthpiece with your lips or fingers.
-  See Figure G.
-- •Breathe in quickly and deeply through your mouth to deliver the dose of medicine to your lungs.
-- •Remove the inhaler from your mouth.
-- •Hold your breath for about 10 seconds or for as long as you comfortably can.
-- •Your AIRDUO RESPICLICK inhaler delivers your dose of medicine as a very fine powder that you may or may not taste or feel.
-  Do not take an extra dose from the inhaler even if you do not taste or feel the medicine.
+1. Figure G
+2. •Do not block the vent above the mouthpiece with your lips or fingers.
+   See Figure G.
+3. •Breathe in quickly and deeply through your mouth to deliver the dose of medicine to your lungs.
+4. •Remove the inhaler from your mouth.
+5. •Hold your breath for about 10 seconds or for as long as you comfortably can.
+6. •Your AIRDUO RESPICLICK inhaler delivers your dose of medicine as a very fine powder that you may or may not taste or feel.
+   Do not take an extra dose from the inhaler even if you do not taste or feel the medicine.
 
 Step 3.
 Close
 
-Figure H
-
-- •Close the yellow cap firmly over the mouthpiece.
-  See Figure H.
-- •Make sure you close the yellow cap after each inhalation so that the inhaler will be ready for your next dose.
-- •Rinse your mouth with water without swallowing after each inhalation.
+1. Figure H
+2. •Close the yellow cap firmly over the mouthpiece.
+   See Figure H.
+3. •Make sure you close the yellow cap after each inhalation so that the inhaler will be ready for your next dose.
+4. •Rinse your mouth with water without swallowing after each inhalation.
 
 How should I store AIRDUO RESPICLICK?
 
@@ -142,9 +140,9 @@ Support
 
 These Instructions for Use have been approved by the U.S. Food and Drug Administration.
 
-Marketed by: Teva Respiratory, LLC, Frazer, PA 19355; Manufactured by: Teva Pharmaceutical Industries, Ltd., Jerusalem, Israel; Copyright ©2017, Teva Respiratory, LLC; All rights reserved; AIRDUOTM and RESPICLICK® are trademarks owned by Teva Respiratory, LLC.
+Marketed by: Teva Respiratory, LLC, Frazer, PA 19355; Manufactured by: Teva Pharmaceutical Industries, Ltd., Jerusalem, Israel; Copyright ©2017, Teva Respiratory, LLC; All rights reserved; AIRDUO® and RESPICLICK® are trademarks owned by Teva Respiratory, LLC.
 
-AIRDIFU-001
+AIRDIFU-002
 
 Rev.
-01/2017
+December 2017

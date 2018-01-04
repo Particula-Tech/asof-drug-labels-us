@@ -1,9 +1,9 @@
 # 6 ADVERSE REACTIONS
 
-LABA, such as salmeterol, one of the active ingredients in AIRDUO RESPICLICK, increase the risk of asthma‑related death.
-Data from a large placebo‑controlled US trial that compared the safety of salmeterol or placebo added to usual asthma therapy showed an increase in asthma‑related deaths in subjects receiving salmeterol [see Warnings and Precautions (5.1)].
-Currently available data are inadequate to determine whether concurrent use of inhaled corticosteroids or other long‑term asthma control drugs mitigates the increased risk of asthma‑related death from LABA.
-Available data from controlled clinical trials suggest that LABA increase the risk of asthma‑related hospitalization in pediatric and adolescent patients [see Warnings and Precautions (5.1)].
+Use of LABA may result in the following:
+
+- •Serious asthma-related events – hospitalizations, intubations, death [see Warnings and Precautions (5.1)]
+- •Cardiovascular and central nervous system effects [see Warnings and Precautions (5.11)]
 
 Systemic and local corticosteroid use may result in the following:
 

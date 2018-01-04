@@ -13,10 +13,10 @@ This trial contained an open-label active comparator fluticasone propionate inha
 Trial 202 was conducted in patients who were uncontrolled at baseline and had been treated with high dose ICS with or without a LABA.
 This study contained an open-label active comparator fluticasone propionate inhalation powder 250 mcg twice daily.
 The trials were dose-ranging trials of ARMONAIR RESPICLICK not designed to provide comparative effectiveness data and should not be interpreted as evidence of superiority/inferiority to fluticasone propionate inhalation powder.
-The metered doses for fluticasone multidose dry powder inhaler (16, 28, 59, 118, 225, 434 mcg) used in Trial 201 and Trial 202 (see Figure 2) are slightly different from the metered doses for the comparator products (fluticasone inhalation powder) and the Phase 3 investigational products which are the basis of the proposed commercial labeled claim (55, 113, 232 mcg for fluticasone).
+The metered doses for fluticasone multidose dry powder inhaler (16, 28, 59, 118, 225, 434 mcg) used in Trial 201 and Trial 202 (see Figure 1) are slightly different from the metered doses for the comparator products (fluticasone inhalation powder) and the Phase 3 investigational products which are the basis of the proposed commercial labeled claim (55, 113, 232 mcg for fluticasone).
 The changes in doses between Phase 2 and 3 resulted from optimization of the manufacturing process.
 
-1. Figure 2: Baseline Adjusted Least Square Mean Change in Trough Morning FEV1 (L) over 12 weeks (FAS)a
+1. Figure 1: Baseline Adjusted Least Square Mean Change in Trough Morning FEV1 (L) over 12 weeks (FAS)a
 
 FAS = full analysis set; aTrials were not designed to provide comparative effectiveness data and should not be interpreted as superiority/inferiority to fluticasone propionate inhalation powder
 
@@ -26,11 +26,11 @@ The salmeterol doses studied were 6.8 mcg, 13.2 mcg, 26.8 mcg and 57.4 mcg in co
 The metered doses for salmeterol (6.8, 13.2, 26.8, 57.4 mcg) used in this study are slightly different from the metered doses for the comparator products (fluticasone/salmeterol inhalation powder) and the Phase 3 investigational products which are the basis of the proposed commercial labeled claim (55, 113, 232 mcg for fluticasone and 14 mcg for salmeterol).
 The phase 3 and commercial products were optimized to better match the strengths to the comparators.
 Plasma for pharmacokinetic characterization was obtained at each dosing period.
-Fluticasone propionate/salmeterol xinafoate MDPI 118/13.2 mcg had similar clinical efficacy with lower systemic exposure when compared to the 50 mcg of salmeterol in fluticasone propionate/salmeterol 100/50 mcg dry powder inhaler (Figure 3).
+Fluticasone propionate/salmeterol xinafoate MDPI 118/13.2 mcg had similar clinical efficacy with lower systemic exposure when compared to the 50 mcg of salmeterol in fluticasone propionate/salmeterol 100/50 mcg dry powder inhaler (Figure 2).
 
-1. Figure 3: Mean Baseline Adjusted FEV1 (mL) over 12 Hours (FAS)a
+1. Figure 2: Mean Baseline Adjusted FEV1 (mL) over 12 Hours (FAS)a
 
-FS MDPI = fluticasone propionate/salmeterol multidose dry powder inhaler: Fp MDPI = fluticasone propionate multidose dry powder inhaler; FS DPI = fluticasone propionate/salmeterol dry powder inhaler; FAS = full analysis set; FEV1 = forced expiratory volume in 1 second; aTrial was not designed to provide comparative effectiveness data and should not be interpreted as superiority/inferiority to fluticasone proprionate/salmeterol inhalation powder.
+FS MDPI = fluticasone propionate/salmeterol multidose dry powder inhaler: Fp MDPI = fluticasone propionate multidose dry powder inhaler; FS DPI = fluticasone propionate/salmeterol dry powder inhaler; FAS = full analysis set; FEV1 = forced expiratory volume in 1 second; aTrial was not designed to provide comparative effectiveness data and should not be interpreted as superiority/inferiority to fluticasone propionate/salmeterol inhalation powder.
 
 ## 14.2 Trials in the Maintenance Treatment of Asthma
 
@@ -53,9 +53,9 @@ Estimated mean differences between AIRDUO RESPICLICK 55/14 mcg and AIRDUO RESPIC
 The estimated mean differences between ARMONAIR RESPICLICK 55 mcg and ARMONAIR RESPICLICK 113 mcg compared to placebo are 0.119 L (95% CI: 0.025, 0.212) and 0.151 L (95% CI: 0.057, 0.244), respectively.
 The estimated mean difference between AIRDUO RESPICLICK 113/14 mcg and ARMONAIR RESPICLICK 113 mcg is 0.111 L (95% CI: 0.017, 0.206).
 The estimated mean difference between AIRDUO RESPICLICK 55/14 mcg and ARMONAIR RESPICLICK 55 mcg is 0.147 L (95% CI: 0.053, 0.242).
-In addition, the mean FEV1 results at each visit are displayed in Figure 4.
+In addition, the mean FEV1 results at each visit are displayed in Figure 3.
 
-1. Figure 4: Mean Change from Baseline in Trough FEV1 at Each Visit by Treatment Group Trial 1(FAS)
+1. Figure 3: Mean Change from Baseline in Trough FEV1 at Each Visit by Treatment Group Trial 1(FAS)
 
 FAS = full analysis set; FEV1 = forced expiratory volume in 1 second
 
@@ -65,16 +65,16 @@ The responder rate for both measures was defined as an improvement in score of 0
 In Trial 1, the responder rate for patients receiving AIRDUO RESPICLICK 55/14 mcg and AIRDUO RESPICLICK 113/14 mcg was 51% and 57%, respectively, compared to 40% for patients receiving placebo, with an odds ratio of 1.53 (95% CI: 0.93, 2.55) and 2.04 (95% CI: 1.23, 3.41), respectively.
 
 Improvements in lung function occurred within 15 minutes of the first dose (15 minutes postdose, the difference in LS mean change from baseline in FEV1 was 0.216 and 0.164 L compared with placebo for AIRDUO RESPICLICK 55/14 mcg and 113/14 mcg, respectively; unadjusted p-value <0.0001 for both doses compared with placebo.
-Refer to Figure 5 below.
-Maximum improvement in FEV1 generally occurred within 3 hours for AIRDUO RESPICLICK 55/14 mcg and within 6 hours for AIRDUO RESPICLICK 113/14 mcg and improvements were sustained over the 12 hours of testing at weeks 1 and 12 (Figure 5 and Figure 6).
+Refer to Figure 4 below.
+Maximum improvement in FEV1 generally occurred within 3 hours for AIRDUO RESPICLICK 55/14 mcg and within 6 hours for AIRDUO RESPICLICK 113/14 mcg and improvements were sustained over the 12 hours of testing at weeks 1 and 12 (Figure 4 and Figure 5).
 Following the initial dose, predose FEV1 relative to day 1 baseline improved markedly over the first week of treatment and the improvement was sustained over the 12 weeks of treatment in the trial.
 No diminution in the 12 hour bronchodilator effect was observed with either AIRDUO RESPICLICK dose as assessed by FEV1 following 12 weeks of therapy.
 
-1. Figure 5: Serial Spirometry: Mean Change from Baseline in FEV1 (L) at Day 1 by Time Point and Treatment Group Trial 1 (FAS; Serial Spirometry Subset)
+1. Figure 4: Serial Spirometry: Mean Change from Baseline in FEV1 (L) at Day 1 by Time Point and Treatment Group Trial 1 (FAS; Serial Spirometry Subset)
 
 FAS = full analysis set; FEV1 = forced expiratory volume in 1 second
 
-1. Figure 6: Serial Spirometry: Mean Change from Baseline in FEV1 (L) at Week 12 by Time Point and Treatment Group Trial 1 (FAS; Serial Spirometry Subset)
+1. Figure 5: Serial Spirometry: Mean Change from Baseline in FEV1 (L) at Week 12 by Time Point and Treatment Group Trial 1 (FAS; Serial Spirometry Subset)
 
 FAS = full analysis set; FEV1 = forced expiratory volume in 1 second
 
@@ -86,12 +86,12 @@ Baseline FEV1 measurements were similar across treatments: ARMONAIR RESPICLICK 1
 Efficacy results in this trial were similar to those observed in Trial 1.
 Patients receiving AIRDUO RESPICLICK 113/14 mcg and AIRDUO RESPICLICK 232/14 mcg had significantly greater improvements in trough FEV1 (AIRDUO RESPICLICK 113/14 mcg, LS mean change of 0.271 L at 12 weeks and AIRDUO RESPICLICK 232/14 mcg, LS mean change of 0.272 L at 12 weeks) compared with ARMONAIR RESPICLICK 113 mcg (LS mean change of 0.119 L at 12 weeks), ARMONAIR RESPICLICK 232 mcg (LS mean change of 0.179 L at 12 weeks), and placebo (LS mean change of -0.004 L at 12 weeks).
 Estimated mean differences between AIRDUO RESPICLICK 113/14 mcg and AIRDUO RESPICLICK 232/14 mcg compared to placebo are 0.274 L (95% CI: 0.189, 0.360) and 0.276 L (95% CI: 0.191, 0.361), respectively.
-The estimated mean differences between ARMONAIR RESPICLICK 113 mcg and ARMONAIR RESPICLICK 232 mcg compared to to placebo are 0.123 L (95% CI: 0.038, 0.208) and 0.183 L (95% CI: 0.098, 0.268), respectively.
+The estimated mean differences between ARMONAIR RESPICLICK 113 mcg and ARMONAIR RESPICLICK 232 mcg compared to placebo are 0.123 L (95% CI: 0.038, 0.208) and 0.183 L (95% CI: 0.098, 0.268), respectively.
 The estimated mean difference between AIRDUO RESPICLICK 232/14 mcg and ARMONAIR RESPICLICK 232 mcg is 0.093 L (95% CI: 0.009, 0.178).
 The estimated mean difference between AIRDUO RESPICLICK 113/14 mcg and ARMONAIR RESPICLICK 113 mcg is 0.152 L (95% CI: 0.066, 0.237).
-In addition, the mean FEV1 results at each visit are displayed in Figure 7.
+In addition, the mean FEV1 results at each visit are displayed in Figure 6.
 
-1. Figure 7: Mean Change from Baseline in Trough FEV1 at Each Visit by Treatment Group Trial 2 (FAS)
+1. Figure 6: Mean Change from Baseline in Trough FEV1 at Each Visit by Treatment Group Trial 2 (FAS)
 
 FAS = full analysis set; FEV1 = forced expiratory volume in 1 second
 
@@ -102,14 +102,14 @@ The responder rate for both measures was defined as an improvement in score of 0
 In Trial 2, the responder rate for patients receiving AIRDUO RESPICLICK 113/14 mcg and AIRDUO RESPICLICK 232/14 mcg was 48% and 41%, respectively, compared to 27% for patients receiving placebo, with an odds ratio of 2.59 (95% CI: 1.56, 4.31) and 1.94 (95% CI: 1.16, 3.23), respectively.
 
 Improvements in lung function occurred within 15 minutes of the first dose (15 minutes postdose, the difference in LS mean change from baseline in FEV1 was 0.160 L and 0.187 L compared with placebo for AIRDUO RESPICLICK 113/14 mcg and 232/14 mcg, respectively; unadjusted p-value <0.0001 for both doses compared with placebo.
-Maximum improvement in FEV1 generally occurred within 3 hours for both AIRDUO RESPICLICK dose groups, and improvements were sustained over the 12 hours of testing at weeks 1 and 12 (Figure 8 and Figure 9).
+Maximum improvement in FEV1 generally occurred within 3 hours for both AIRDUO RESPICLICK dose groups, and improvements were sustained over the 12 hours of testing at weeks 1 and 12 (Figure 7 and Figure 8).
 Following the initial dose, predose FEV1 relative to day 1 baseline improved markedly over the first week of treatment and the improvement was sustained over the 12 weeks of treatment in the trial.
 No diminution in the 12 hour bronchodilator effect was observed with either AIRDUO RESPICLICK dose as assessed by FEV1 following 12 weeks of therapy.
 
-1. Figure 8: Serial Spirometry: Mean Change from Baseline in FEV1 (L) at Day 1 by Time Point and Treatment Group Trial 2 (FAS; Serial Spirometry Subset)
+1. Figure 7: Serial Spirometry: Mean Change from Baseline in FEV1 (L) at Day 1 by Time Point and Treatment Group Trial 2 (FAS; Serial Spirometry Subset)
 
 FAS = full analysis set; FEV1 = forced expiratory volume in 1 second
 
-1. Figure 9: Serial Spirometry: Mean Change from Baseline in FEV1 (L) at Week 12 by Time Point and Treatment Group Trial 2 (FAS; Serial Spirometry Subset)
+1. Figure 8: Serial Spirometry: Mean Change from Baseline in FEV1 (L) at Week 12 by Time Point and Treatment Group Trial 2 (FAS; Serial Spirometry Subset)
 
 FAS = full analysis set; FEV1 = forced expiratory volume in 1 second
