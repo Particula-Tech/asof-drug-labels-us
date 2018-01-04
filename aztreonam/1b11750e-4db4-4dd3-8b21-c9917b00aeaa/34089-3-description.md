@@ -10,6 +10,8 @@ The sulfonic acid substituent in the 1-position of the ring activates the beta-l
 Aztreonam is designated chemically as (Z)-2-[[[(2-amino-4-thiazolyl)[[(2S,3S)-2-methyl-4-oxo-1-sulfo-3-azetidinyl]carbamoyl]methylene]amino]oxy]-2-methylpropionic acid.
 Structural formula:
 
+C13H17N5O8S2 MW 435.44
+
 AZACTAM in the GALAXY plastic container (PL 2040) is a frozen, iso-osmotic, sterile, sodium-free, nonpyrogenic intravenous solution.
 Each 50 mL of solution contains 1 g, or 2 g aztreonam with approximately 1.7 g, or 700 mg Dextrose Hydrous, USP added to adjust osmolality, and approximately 780 mg, or 1.6 g of arginine added for pH adjustment, respectively.
 Thawed solutions have a pH in the range of 4.5 to 7.5.

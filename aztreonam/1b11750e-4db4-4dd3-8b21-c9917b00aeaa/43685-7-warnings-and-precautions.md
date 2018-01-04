@@ -25,20 +25,19 @@ Appropriate fluid and electrolyte management, protein supplementation, antibioti
 
 Rare cases of toxic epidermal necrolysis have been reported in association with aztreonam in patients undergoing bone marrow transplant with multiple risk factors including sepsis, radiation therapy, and other concomitantly administered drugs associated with toxic epidermal necrolysis.
 
-# PRECAUTIONS
+## PRECAUTIONS
 
-## General
+General
 
 Prescribing AZACTAM in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 
 In patients with impaired hepatic or renal function, appropriate monitoring is recommended during therapy.
 
 If an aminoglycoside is used concurrently with aztreonam, especially if high dosages of the former are used or if therapy is prolonged, renal function should be monitored because of the potential nephrotoxicity and ototoxicity of aminoglycoside antibiotics.
-
 The use of antibiotics may promote the overgrowth of nonsusceptible organisms, including Gram-positive organisms (Staphylococcus aureus and Streptococcus faecalis) and fungi.
 Should superinfection occur during therapy, appropriate measures should be taken.
 
-## Information for Patients
+Information for Patients
 
 Patients should be counseled that antibacterial drugs including AZACTAM should only be used to treat bacterial infections.
 They do not treat viral infections (eg, the common cold).
@@ -49,7 +48,7 @@ Diarrhea is a common problem caused by antibiotics which usually ends when the a
 Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as 2 or more months after having taken the last dose of the antibiotic.
 If this occurs, patients should contact their physician as soon as possible.
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
+Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Carcinogenicity studies with aztreonam have not been conducted using an intravenous route of administration.
 A 104-week rat inhalation toxicology study to assess the carcinogenic potential of aztreonam demonstrated no drug-related increase in the incidence of tumors.
@@ -62,9 +61,9 @@ A two-generation reproduction study in rats at daily doses of 150, 600, or 2400 
 Based on body surface area, the high dose is 2.9-fold greater than the maximum recommended human dose (MRHD) for adults of 8 g per day.
 There was a slightly reduced survival rate during the lactation period in the offspring of rats that received the high dose, but not in offspring of rats that received lower doses of aztreonam.
 
-## Pregnancy
+Pregnancy
 
-### Pregnancy Category B
+Pregnancy Category B
 
 In pregnant women, aztreonam crosses the placenta and enters the fetal circulation.
 
@@ -72,26 +71,24 @@ Developmental toxicity studies in pregnant rats and rabbits with daily doses of 
 These doses, based on body surface area, are 2.2- and 2.9-fold greater than the MRHD for adults of 8 g per day.
 A peri/postnatal study in rats revealed no drug-induced changes in any maternal, fetal, or neonatal parameters.
 The highest dose used in this study, 1800 mg/kg/day, is 2.2 times the MRHD based on body surface area.
-
 There are no adequate and well-controlled studies of aztreonam on human pregnancy outcomes.
 Because animal reproduction studies are not always predictive of human response, aztreonam should be used during pregnancy only if clearly needed.
 
-## Nursing Mothers
+Nursing Mothers
 
 Aztreonam is excreted in human milk in concentrations that are less than 1% of concentrations determined in simultaneously obtained maternal serum; consideration should be given to temporary discontinuation of nursing and use of formula feedings.
 
-## Pediatric Use
+Pediatric Use
 
 The safety and effectiveness of intravenous AZACTAM have been established in the age groups 9 months to 16 years.
 Use of AZACTAM in these age groups is supported by evidence from adequate and well-controlled studies of AZACTAM in adults with additional efficacy, safety, and pharmacokinetic data from noncomparative clinical studies in pediatric patients.
 Sufficient data are not available for pediatric patients under 9 months of age or for the following treatment indications/pathogens: septicemia and skin and skin-structure infections (where the skin infection is believed or known to be due to H. influenzae type b). In pediatric patients with cystic fibrosis, higher doses of AZACTAM may be warranted.
 (See CLINICAL PHARMACOLOGY, DOSAGE AND ADMINISTRATION, and CLINICAL STUDIES.)
 
-## Geriatric Use
+Geriatric Use
 
 Clinical studies of AZACTAM did not include sufficient numbers of subjects aged 65 years and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.9-12 In general, dose selection for an elderly patient should be cautious, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
-
 In elderly patients, the mean serum half-life of aztreonam increased and the renal clearance decreased, consistent with the age-related decrease in creatinine clearance.1-4 Since aztreonam is known to be substantially excreted by the kidney, the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, renal function should be monitored and dosage adjustments made accordingly (see DOSAGE AND ADMINISTRATION: Renal Impairment in Adult Patients and Dosage in the Elderly).
 
