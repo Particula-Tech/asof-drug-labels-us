@@ -70,7 +70,6 @@ Hepatic Impairment
 In a population pharmacokinetic analysis of bendamustine in patients receiving 120 mg/m2 there was no meaningful effect of mild (total bilirubin ≤ ULN, AST ≥ ULN to 2.5 x ULN, and/or ALP ≥ ULN to 5.0 x ULN, N=26) hepatic impairment on the pharmacokinetics of bendamustine.
 Bendamustine has not been studied in patients with moderate or severe hepatic impairment.
 
-These results are however limited, and therefore bendamustine should be used with caution in patients with mild hepatic impairment.
 Bendamustine should not be used in patients with moderate (AST or ALT 2.5 - 10 x ULN and total bilirubin 1.5 - 3 x ULN) or severe (total bilirubin > 3 x ULN) hepatic impairment.
 [see Use in Specific Populations (8.7)]
 
