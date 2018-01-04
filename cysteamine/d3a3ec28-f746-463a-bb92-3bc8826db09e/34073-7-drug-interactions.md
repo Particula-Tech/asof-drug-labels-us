@@ -11,6 +11,6 @@ Monitor WBC cystine concentration when drugs that increase the gastric pH are co
 Consumption of alcohol with PROCYSBI may increase the rate of cysteamine release and/or adversely alter the pharmacokinetic properties, as well as the effectiveness and safety of PROCYSBI.
 Therefore, do not consume alcoholic beverages during treatment with PROCYSBI [see Dosage and Administration (2.6)].
 
-## 7.3 Other Medications Used for the Management of Fanconi syndrome
+## 7.3 Other Medications Used for the Management of Fanconi Syndrome
 
 PROCYSBI can be administered with other electrolyte and mineral replacements necessary for management of Fanconi syndrome, as well as vitamin D and thyroid hormone.

@@ -17,15 +17,16 @@ The cystine concentration in nmol ½ cystine/mg protein was calculated by multip
 
 ## 12.3 Pharmacokinetics
 
-The pharmacokinetics of PROCYSBI were evaluated in 43 patients with cystinosis and with an estimated glomerular filtration rate of > 30 mL/minutes/1.73 m2.
-Table 3 shows the mean PK parameters for PROCYSBI and immediate-release cysteamine bitartrate after one dose at steady state.
+The pharmacokinetics of PROCYSBI were evaluated in 43 patients age ranged from 6 to 26 years (mean age 12 years) with cystinosis and with an estimated glomerular filtration rate of greater than 30 mL/minutes/1.73 m2.
+Table 4 shows the mean PK parameters for PROCYSBI and immediate-release cysteamine bitartrate after one dose at steady state.
+The mean (± SD) dose for PROCYSBI was 656 ± 144 mg/m2 (given every 12 hours) and for immediate-release cysteamine bitartrate was 404 ± 88 mg/m2 (given every 6 hours).
 The mean Cmax and AUCinf were 3.6 mg/L and 726 min*mg/L for PROCYSBI and 2.7 mg/L and 380 min*mg/L for immediate-release cysteamine bitartrate.
 
-Table 3: PK parameters for cysteamine after a single dose of PROCYSBI or immediate-release cysteamine bitartrate at steady state
+Table 4: PK parameters for cysteamine after a single dose of PROCYSBI or immediate-release cysteamine bitartrate at steady state*
 
-|  | Immediate-release cysteamine bitartrate | PROCYSBI |
+|  | Immediate-release cysteamine bitartrate given every 6 hours | PROCYSBI given every 12 hours |
 | --- | --- | --- |
-| Cmax (mg/L) | 2.7± 1.4 | 3.6 ± 1.8 |
+| Cmax (mg/L) | 2.7 ± 1.4 | 3.6 ± 1.8 |
 | AUC0-6h (min*mg/L) | 351 ± 153 | NA |
 | AUC0-12h (min*mg/L) | NA | 726 ± 339 |
 | AUCinf (min*mg/L) | 380 ± 157 | 785 ± 358 |
@@ -52,9 +53,19 @@ Elimination
 
 After each dose of PROCYSBI the cysteamine concentration in the blood continues to decline for approximately 30 minutes and the WBC cystine concentration increases accordingly.
 
-The apparent plasma clearance (Cl/F) was similar between PROCYSBI (1.2 L/min) and immediate-release cysteamine bitartrate (1.4 L/min).
+The apparent plasma clearance (Cl/F) was similar between PROCYSBI (1.2 ± 0.8 L/min) and immediate-release cysteamine bitartrate (1.4 ± 0.8 L/min).
 
 The half-life was 253 minutes for PROCYSBI and 90 minutes for immediate-release cysteamine bitartrate.
+
+Specific Populations
+
+Pediatric patients 1 year to less than 6 years of age
+
+The pharmacokinetics of PROCYSBI at steady state were evaluated in 11 cysteamine treatment naïve patients between the ages of 1 and 5 years of age with nephropathic cystinosis.
+A mean (± SD) Cmax of 1.26 ± 0.86 mg/L was reached at an average Tmax of 199 ± 138 minutes and the mean (± SD) dose was 242 ± 93 mg/m2.
+The mean exposure was calculated to be 206 ± 113 minutes*mg/L (AUClast) and 231 ± 123 minutes*mg/L (AUCinf).
+The mean CLss/F was estimated to be 0.69 ± 0.37 L/minutes with an average half-life (t1/2) of 270 ± 56 minutes.
+Overall, the pharmacokinetics in patients between the ages of 1 and 5 years of age is comparable with those in older children and adults.
 
 Drug Interaction Studies
 

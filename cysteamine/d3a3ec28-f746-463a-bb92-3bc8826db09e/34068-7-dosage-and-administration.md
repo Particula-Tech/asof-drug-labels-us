@@ -3,7 +3,9 @@
 ## 2.1 Important Dosing Instructions
 
 - Initiate cysteamine treatment immediately after diagnosis of nephropathic cystinosis.
-- Cysteamine-naïve Patients: Start PROCYSBI at a fraction of the maintenance dosage and gradually increase the dosage over 4 to 6 weeks until the maintenance dosage is achieved [see Dosage and Administration (2.2)].
+- Cysteamine-naïve Patients: Start PROCYSBI at a fraction of the maintenance dosage.
+  - Patients 1 year to less than 6 years: Gradually increase the dosage, allowing a minimum of 2 weeks between adjustments [see Dosage and Administration (2.2)].
+  - Patients 6 years of age and older: Gradually increase the dosage over 4 to 6 weeks until the maintenance dosage is achieved.
 - Patients switching from immediate-release cysteamine: Start the total daily dosage of PROCYSBI at a dosage equal to the previous total daily dosage of immediate-release cysteamine [see Dosage and Administration (2.3)].
 - If adverse reactions occur, decrease the PROCYSBI dosage.
 - After the maintenance dosage of PROCYSBI is achieved: The dosage may need to be further increased to achieve a therapeutic target WBC cystine concentration.
@@ -15,20 +17,21 @@
 
 - Start treatment with a dosage equal to ⅙ to ¼ of the maintenance dosage.
 - The maintenance dosage after initial dose escalation is 1.3 g/m2 of body surface area per day divided into two doses given every 12 hours.
-  Table 1 shows the recommended starting dose of PROCYSBI, converted from body-surface area to body weight.
-- Gradually increase the dosage over 4 to 6 weeks until the maintenance dosage is achieved.
-  Table 1 also shows the recommended maintenance dosage [see Dosage and Administration (2.4, 2.5)].
-- For patients who have initial intolerance, temporarily discontinue PROCYSBI and then re-start at a lower dosage and gradually increase to the maintenance dosage.
-- Measure the WBC cystine concentration after reaching a maintenance dosage and adjust the dosage as needed to achieve a therapeutic target WBC cystine concentration [see Dosage and Administration (2.5)].
+  Table 1 shows the recommended starting and maintenance dosages of PROCYSBI, converted from body-surface area to body weight.
+  - Patients 1 year to less than 6 years: Increase the dosage in 10% increments to the maintenance dosage, while monitoring WBC cystine concentrations.
+    Allow a minimum of 2 weeks between dosage adjustments [see Dosage and Administration (2.4, 2.5)].
+    If a patient achieves the therapeutic target WBC cystine concentration at a dosage below the recommended weight-based maintenance dosage, then stop dosage escalation and use the dosage as the patient's maintenance dosage.
+  - Patients 6 years of age and older: Gradually increase the dosage over 4 to 6 weeks until the maintenance dosage is achieved.
+- If a patient experiences initial intolerance, temporarily discontinue PROCYSBI and then re-start at a lower dosage and gradually increase dosage.
 
-Table 1: Starting and Maintenance Dosage of PROCYSBI by Body Weight in Cysteamine-Naïve Patients (Dosage Rounded Using Available Capsule Strengths)
+Table 1: Starting and Maintenance Dosage of PROCYSBI by Body Weight in Cysteamine-Naïve Patients 1 Year of Age and Older (Dosage Rounded Using Available Capsule Strengths)
 
 | ⅙ of dosage | ¼ of dosage |  |  |
 | --- | --- | --- | --- |
 | Weight in kilograms | Starting PROCYSBI Dosage in mg every 12 hours, as a Fraction of the Maintenance Dosage |  | Maintenance PROCYSBI Dosage in mg every 12 hoursHigher dosages may be required to achieve target therapeutic WBC cystine concentration [see Dosage and Administration (2.4)]. |
-| 0 to 5 | 25 | 50 | 200 |
+| 5 or less | 25 | 50 | 200 |
 | 6 to 10 | 50 | 75 | 300 |
-| 11to 15 | 75 | 100 | 400 |
+| 11 to 15 | 75 | 100 | 400 |
 | 16 to 20 | 100 | 125 | 500 |
 | 21 to 25 | 100 | 150 | 600 |
 | 26 to 30 | 125 | 175 | 700 |
@@ -50,6 +53,7 @@ Table 1: Starting and Maintenance Dosage of PROCYSBI by Body Weight in Cysteamin
 - Measure WBC cystine concentration and titrate the PROCYSBI dosage as needed to achieve the therapeutic target WBC cysteine concentration [see Dosage and Administration (2.5)].
 - If the measured WBC cystine concentration is above the target level for cystine depletion, consider the following before dose adjustment: adherence to medication and dosing interval, the timing between the last dose and the blood draw for the laboratory measurement, and the timing of PROCYSBI administration in relation to food or other administration instructions.
 - If a dose adjustment is required, increase the dosage by 10%, rounded to nearest dosage that can be administered using the available capsule strengths.
+  For patients 1 year to less than 6 years of age, allow a minimum of two weeks between dose increments.
   The maximum dosage of PROCYSBI is 1.95 grams/m2 per day.
 - If adverse reactions occur, decrease the PROCYSBI dosage.
   Some patients may be unable to achieve their therapeutic target due to poor tolerability of PROCYSBI [see Warnings and Precautions (5), Adverse Reactions (6.1)].
@@ -63,9 +67,12 @@ Table 1: Starting and Maintenance Dosage of PROCYSBI by Body Weight in Cysteamin
   Refer to the assay-specific therapeutic target for cystine depletion.
   When using the mixed leukocyte assay, the recommended target WBC cystine concentration is less than 1 nmol ½ cystine/mg protein.
 - The recommended frequency of monitoring WBC cystine concentration is as follows:
-  - For cysteamine-naïve patients: Obtain measurement after reaching the maintenance PROCYSBI dose, then monthly for 3 months, quarterly for 1 year, and then twice-yearly, at a minimum.
-  - For patients switching from immediate-release cysteamine to PROCYSBI: Obtain measurement after two weeks of PROCYSBI treatment while titrating the dose, then quarterly for 6 months, then twice yearly, at a minimum.
-- Obtain blood samples for WBC cystine concentration measurement 12 hours after dosing with PROCYSBI, prior to administration of the next dose (i.e., trough concentration).
+  - Cysteamine-naïve patients 1 year to less than 6 years: Obtain measurement two weeks after initiation of PROCYSBI treatment and continue monitoring during dosage titration period until the therapeutic target WBC cystine concentration is achieved.
+    Once the therapeutic target is achieved, continue monitoring monthly for 3 months, then quarterly for 1 year, and then twice-yearly, at a minimum.
+  - Cysteamine-naïve patients greater than 6 years: Obtain measurement after reaching the maintenance PROCYSBI dosage, then monthly for 3 months, quarterly for 1 year, and then twice-yearly, at a minimum.
+  - Patients switching from immediate-release cysteamine to PROCYSBI: Obtain measurement two weeks after initiation of PROCYSBI treatment and continue monitoring if further dosage titration is required to achieve therapeutic target WBC cystine concentration.
+    Once the therapeutic target is achieved, continue monitoring quarterly for 6 months, then twice yearly, at a minimum.
+- Obtain blood samples for WBC cystine concentration measurement 12 hours after the patient's last PROCYSBI dose, prior to administration of the next dose (i.e., trough concentration).
   In addition, it is important to accurately record the time of the last dose, the actual dose, and the time the blood sample was taken.
 
 ## 2.6 Administration
@@ -85,7 +92,7 @@ Administration of PROCYSBI with foods and liquids not included below has not bee
 
 Administration with Applesauce or Berry Jelly:
 
-1. Place approximately 4 ounces (1/2 cup) of either applesauce or berry jelly into a clean container.
+1. Place approximately 4 ounces (1/2 cup) or a smaller amount that can be consumed in one feeding of either applesauce or berry jelly into a clean container.
 2. Open the capsule(s).
 3. Sprinkle the entire capsule contents of intact granules on applesauce or berry jelly.
 4. Mix the granules with the applesauce or berry jelly.
@@ -101,7 +108,7 @@ Administration with Fruit Juice (except grapefruit juice):
 4. Gently stir until mixed.
 5. Drink the entire contents within 30 minutes of mixing.
    Do not chew the granules.
-   Do not save the fruit juice and granules for later use.
+   Do not save the fruit juice and granules mixture for later use.
 
 Administration with Applesauce via a Gastrostomy (G) Tube (14 French or larger)
 
@@ -116,7 +123,7 @@ A bolus (straight) feeding tube is recommended.
    Keep the feeding tube horizontal during administration and apply rapid and steady pressure (10 mL/10 seconds) to dispense the syringe contents into the tube within 30 minutes of preparation.
 5. Repeat step 3 until all of the mixture is administered.
    Do not save the applesauce and granule mixture for later use.
-6. Draw up a minimum of 10 mL of fruit juice into another syringe, swirl gently, and flush the tube.
+6. Draw up a minimum of 10 mL of fruit juice or water into another syringe, swirl gently, and flush the tube.
 
 Missed Doses
 

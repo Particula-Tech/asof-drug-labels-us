@@ -3,8 +3,11 @@
 PROCYSBI® (Pro-CIS-bee) (cysteamine bitartrate) delayed-release capsules
 
 PROCYSBI capsules should be swallowed whole with fruit juice (except grapefruit juice) or water.
-If you cannot swallow the capsule whole, you can open it and take the capsule contents with certain foods and juices.
+If you cannot swallow the capsule whole, you can open each capsule and take the capsule contents with certain foods and juices.
 PROCYSBI can also be given through a gastrostomy tube (G-tube).
+
+Your doctor will tell you the number of capsules you need to take for each dose.
+If you have any questions, talk to your doctor.
 
 Opening PROCYSBI capsules:
 
@@ -17,23 +20,23 @@ Taking PROCYSBI with applesauce or berry jelly:
 
 Do not take PROCYSBI with any food other than applesauce or berry jelly.
 
-| Step 1: | Place about ½ cup (4 ounces) of applesauce or berry jelly into a clean container. Do not use any other food. |
+| Step 1: | Place about ½ cup (4 ounces) of applesauce or berry jelly into a clean container. If needed, use a smaller amount you can finish in one feeding. Do not use any other food. |
 | --- | --- |
 | Step 2: | Open the PROCYSBI capsule. See "Opening PROCYSBI capsules" above. You may need to use more than 1 PROCYSBI capsule for the dose prescribed by your doctor. |
 | Step 3: | Sprinkle the granules that are inside the capsule or capsules onto the applesauce or berry jelly. |
 | Step 4: | Mix the granules with the applesauce or berry jelly. |
 | Step 5: | Swallow the applesauce or berry jelly and granules mixture within 30 minutes after preparing. Do not chew the granules. Do not save the applesauce or berry jelly and granules for later use. |
 
-Taking PROCYSBI with fruit juice or water:
+Taking PROCYSBI with fruit juice:
 
 Do not take PROCYSBI with grapefruit juice.
 
-| Step 1: | Pour about ½ cup (4 ounces) of fruit juice or water into a clean cup. |
+| Step 1: | Pour about ½ cup (4 ounces) of fruit juice into a clean cup. |
 | --- | --- |
 | Step 2: | Open the PROCYSBI capsule. See "Opening PROCYSBI capsules" above. You may need to use more than 1 PROCYSBI capsule for the dose prescribed by your doctor. |
-| Step 3: | Sprinkle the granules that are inside the capsule or capsules into ½ cup (4 ounces) of fruit juice or water. |
+| Step 3: | Sprinkle the granules that are inside the capsule or capsules into ½ cup (4 ounces) of fruit juice. |
 | Step 4: | Stir gently until mixed. |
-| Step 5: | Drink all of the fruit juice or water and granules mixture within 30 minutes of mixing. Do not chew the granules. Do not save the fruit juice or water and granules mixture for later use. |
+| Step 5: | Drink all of the fruit juice and granules mixture within 30 minutes of mixing. Do not chew the granules. Do not save the fruit juice or water and granules mixture for later use. |
 
 Giving PROCYSBI through a gastrostomy tube (G-tube):
 
@@ -69,4 +72,4 @@ This Instructions for Use has been approved by the U.S. Food and Drug Administra
 
 Distributed by: Horizon Pharma USA, Inc., Lake Forest, IL 60045
 
-Issued 11/2017
+Issued 12/2017
