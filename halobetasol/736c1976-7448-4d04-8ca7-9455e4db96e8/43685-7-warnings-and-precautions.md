@@ -93,5 +93,5 @@ Manifestations of intracranial hypertension include bulging fontanelles, headach
 
 ## Geriatric Use
 
-Of approximately 850 patients treated with Ultravate® Ointment in clinical studies, 21% were 61 years and over and 6% were 71 years and over.
+Of approximately 850 patients treated with Ultravate ® Ointment in clinical studies, 21% were 61 years and over and 6% were 71 years and over.
 No overall differences in safety or effectiveness were observed between these patients and younger patients; and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
