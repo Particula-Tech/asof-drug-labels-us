@@ -183,6 +183,6 @@ Revised: December 2016
 
 ACTOS is a trademark of Takeda Pharmaceutical Company Limited registered with the U.S. Patent and Trademark Office and used under license by Takeda Pharmaceuticals America, Inc.
 
-© 2009-2016 Takeda Pharmaceuticals America, Inc.
+© 2009 - 2017 Takeda Pharmaceuticals America, Inc.
 
-ACT003 R21
+ACT003 R22

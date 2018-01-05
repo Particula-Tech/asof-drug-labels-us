@@ -23,7 +23,7 @@ In controlled clinical trials, ACTOS had an additive effect on glycemic control 
 
 Patients with lipid abnormalities were included in clinical trials with ACTOS.
 Overall, patients treated with ACTOS had mean decreases in serum triglycerides, mean increases in HDL cholesterol, and no consistent mean changes in LDL and total cholesterol.
-There is no conclusive evidence of macrovascular benefit with ACTOS or any other antidiabetic medication [see Warnings and Precautions (5.8) and Adverse Reactions (6.1)].
+There is no conclusive evidence of macrovascular benefit with ACTOS [see Warnings and Precautions (5.8) and Adverse Reactions (6.1)].
 
 In a 26-week, placebo-controlled, dose-ranging monotherapy study, mean serum triglycerides decreased in the 15 mg, 30 mg, and 45 mg ACTOS dose groups compared to a mean increase in the placebo group.
 Mean HDL cholesterol increased to a greater extent in patients treated with ACTOS than in the placebo-treated patients.
@@ -34,7 +34,7 @@ There were no consistent differences for LDL and total cholesterol in patients t
 | Table 14. Lipids in a 26-Week Placebo-Controlled Monotherapy Dose-Ranging Study |  |  |  |  |
 | Triglycerides (mg/dL) | N=79 | N=79 | N=84 | N=77 |
 | Baseline (mean) | 263 | 284 | 261 | 260 |
-| Percent change from baseline (adjusted meanAdjusted for baseline, pooled center, and pooled center by treatment interaction) | 4.8% | -9.0%p <0.05 versus placebo | -9.6% | -9.3% |
+| Percent change from baseline (adjusted meanAdjusted for baseline, pooled center, and pooled center by treatment interaction) | 4.8% | -9.0%p<0.05 versus placebo | -9.6% | -9.3% |
 | HDL Cholesterol (mg/dL) | N=79 | N=79 | N=83 | N=77 |
 | Baseline (mean) | 42 | 40 | 41 | 41 |
 | Percent change from baseline (adjusted mean) | 8.1% | 14.1% | 12.2% | 19.1% |
@@ -154,7 +154,7 @@ Drug-Drug Interactions
 | --- | --- | --- | --- |
 | Table 16. Effect of Coadministered Drugs on Pioglitazone Systemic Exposure |  |  |  |
 | Coadministered Drug and Dosage Regimen | Pioglitazone |  |  |
-| Gemfibrozil 600 mg twice daily for 2 days (N = 12) | 15 mg single dose | ↑3.2-foldThe half-life of pioglitazone increased from 8.3 hours to 22.7 hours in the presence of gemfibrozil [see Dosage and Administration (2.3) and Drug Interactions (7)] | ↑6% |
+| Gemfibrozil 600 mg twice daily for 2 days (N = 12) | 15 mg single dose | ↑3.2-foldThe half-life of pioglitazone increased from 8.3 hours to 22.7 hours in the presence of gemfibrozil [see Dosage and Administration (2.3) and Drug Interactions (7.1)] | ↑6% |
 | Ketoconazole 200 mg twice daily for 7 days (N = 28) | 45 mg | ↑34% | ↑14% |
 | Rifampin 600 mg daily for 5 days (N = 10) | 30 mg single dose | ↓54% | ↓5% |
 | Fexofenadine 60 mg twice daily for 7 days (N = 23) | 45 mg | ↑1% | 0% |
@@ -162,3 +162,4 @@ Drug-Drug Interactions
 | Nifedipine ER 30 mg daily for 7 days (N = 23) | 45 mg | ↑5% | ↑4% |
 | Atorvastatin Ca 80 mg daily for 7 days (N = 24) | 45 mg | ↓24% | ↓31% |
 | Theophylline 400 mg twice daily for 7 days (N = 22) | 45 mg | ↓4% | ↓2% |
+| Topiramate 96 mg twice daily for 7 daysIndicates duration of concomitant administration with highest twice-daily dose of topiramate from Day 14 onwards over the 22 days of study (N = 26) | 30 mg | ↓15%Additional decrease in active metabolites; 60% for M-III and 16% for M-IV | 0% |

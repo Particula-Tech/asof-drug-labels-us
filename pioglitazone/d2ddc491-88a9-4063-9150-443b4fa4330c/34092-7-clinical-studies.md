@@ -86,7 +86,7 @@ Treatment with ACTOS as add-on to sulfonylurea produced statistically significan
 | HbA1c (%) | N=181 | N=176 | N=182 |
 | Baseline (mean) | 9.9 | 10.0 | 9.9 |
 | Change from baseline (adjusted meanAdjusted for baseline, pooled center, and pooled center by treatment interaction) | 0.1 | -0.8 | -1.2 |
-| Difference from placebo + sulfonylurea (adjusted mean) 95% Confidence Interval |  | -0.9p ≤0.05 vs. placebo + sulfonylurea (-1.2, -0.6) | -1.3 (-1.6, -1.0) |
+| Difference from placebo +sulfonylurea (adjusted mean) 95% Confidence Interval |  | -0.9p≤0.05 vs. placebo + sulfonylurea (-1.2, -0.6) | -1.3 (-1.6, -1.0) |
 | Fasting Plasma Glucose (mg/dL) | N=182 | N=179 | N=186 |
 | Baseline (mean) | 236 | 247 | 239 |
 | Change from baseline (adjusted mean) | 6 | -34 | -52 |
@@ -128,7 +128,7 @@ Treatment with ACTOS as add-on to metformin produced statistically significant i
 | HbA1c (%) | N=153 | N=161 |
 | Baseline (mean) | 9.8 | 9.9 |
 | Change from baseline (adjusted meanAdjusted for baseline, pooled center, and pooled center by treatment interaction) | 0.2 | -0.6 |
-| Difference from placebo + metformin (adjusted mean) 95% Confidence Interval |  | -0.8p ≤0.05 vs. placebo + metformin (-1.2, -0.5) |
+| Difference from placebo + metformin (adjusted mean) 95% Confidence Interval |  | -0.8p≤0.05 vs. placebo + metformin (-1.2, -0.5) |
 | Fasting Plasma Glucose (mg/dL) | N=157 | N=165 |
 | Baseline (mean) | 260 | 254 |
 | Change from baseline (adjusted mean) | -5 | -43 |
@@ -172,7 +172,7 @@ The mean change from baseline in daily dose of insulin (including patients with 
 | HbA1c (%) | N=177 | N=177 | N=185 |
 | Baseline (mean) | 9.8 | 9.8 | 9.8 |
 | Change from baseline (adjusted meanAdjusted for baseline, pooled center, and pooled center by treatment interaction) | -0.3 | -1.0 | -1.3 |
-| Difference from placebo + Insulin (adjusted mean) 95% Confidence Interval |  | -0.7p ≤0.05 vs. placebo + insulin (-1.0, -0.5) | -1.0 (-1.3, -0.7) |
+| Difference from placebo + Insulin (adjusted mean) 95% Confidence Interval |  | -0.7p≤0.05 vs. placebo + insulin (-1.0, -0.5) | -1.0 (-1.3, -0.7) |
 | Fasting Plasma Glucose (mg/dL) | N=179 | N=183 | N=184 |
 | Baseline (mean) | 221 | 222 | 229 |
 | Change from baseline (adjusted mean) | 1 | -35 | -48 |

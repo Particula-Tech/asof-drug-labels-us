@@ -57,7 +57,7 @@ In postmarketing experience, reports of new onset or worsening edema have been r
 
 ACTOS should be used with caution in patients with edema.
 Because thiazolidinediones, including ACTOS, can cause fluid retention, which can exacerbate or lead to congestive heart failure, ACTOS should be used with caution in patients at risk for congestive heart failure.
-Patients treated with ACTOS should be monitored for signs and symptoms of congestive heart failure [see Boxed Warning, Warnings, and Precautions (5.1) and Patient Counseling Information (17)].
+Patients treated with ACTOS should be monitored for signs and symptoms of congestive heart failure [see Boxed Warning, Warnings and Precautions (5.1) and Patient Counseling Information (17)].
 
 ## 5.6 Fractures
 
@@ -81,4 +81,4 @@ Patients with diabetes who report any visual symptoms should be promptly referre
 
 ## 5.8 Macrovascular Outcomes
 
-There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with ACTOS or any other antidiabetic drug.
+There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with ACTOS.
