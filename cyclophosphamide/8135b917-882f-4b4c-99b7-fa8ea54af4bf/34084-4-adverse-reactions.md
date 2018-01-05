@@ -16,19 +16,19 @@
 
 ## 6.1 Common Adverse Reactions
 
-### Hematopoietic system
+Hematopoietic system
 
 Neutropenia occurs in patients treated with cyclophosphamide.
 The degree of neutropenia is particularly important because it correlates with a reduction in resistance to infections.
 Fever without documented infection has been reported in neutropenic patients.
 
-### Gastrointestinal system
+Gastrointestinal system
 
 Nausea and vomiting occur with cyclophosphamide therapy.
 Anorexia and, less frequently, abdominal discomfort or pain and diarrhea may occur.
 There are isolated reports of hemorrhagic colitis, oral mucosal ulceration and jaundice occurring during therapy.
 
-#### Skin and its structures
+Skin and its structures
 
 Alopecia occurs in patients treated with cyclophosphamide.
 Skin rash occurs occasionally in patients receiving the drug.

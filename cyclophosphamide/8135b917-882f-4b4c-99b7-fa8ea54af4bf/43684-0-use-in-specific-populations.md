@@ -4,19 +4,19 @@
 
 Pregnancy Category D
 
-### Risk Summary
+Risk Summary
 
 Cyclophosphamide can cause fetal harm when administered to a pregnant woman based on its mechanism of action and published reports of effects in pregnant patients or animals.
 Exposure to cyclophosphamide during pregnancy may cause fetal malformations, miscarriage, fetal growth retardation, and toxic effects in the newborn.
 Cyclophosphamide is teratogenic and embryo-fetal toxic in mice, rats, rabbits and monkeys.
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, apprise the patient of the potential hazard to a fetus.
 
-### Human Data
+Human Data
 
 Malformations of the skeleton, palate, limbs and eyes as well as miscarriage have been reported after exposure to cyclophosphamide in the first trimester.
 Fetal growth retardation and toxic effects manifesting in the newborn, including leukopenia, anemia, pancytopenia, severe bone marrow hypoplasia, and gastroenteritis have been reported after exposure to cyclophosphamide.
 
-### Animal Data
+Animal Data
 
 Administration of cyclophosphamide to pregnant mice, rats, rabbits and monkeys during the period of organogenesis at doses at or below the dose in patients based on body surface area resulted in various malformations, which included neural tube defects, limb and digit defects and other skeletal anomalies, cleft lip and palate, and reduced skeletal ossification.
 
@@ -43,7 +43,7 @@ In general, dose selection for an elderly patient should be cautious, usually st
 
 ## 8.6 Females and Males of Reproductive Potential
 
-### Contraception
+Contraception
 
 Pregnancy should be avoided during treatment with cyclophosphamide because of the risk of fetal harm [see USE IN SPECIFIC POPULATIONS (8.1)].
 
@@ -51,7 +51,7 @@ Female patients of reproductive potential should use highly effective contracept
 
 Male patients who are sexually active with female partners who are or may become pregnant should use a condom during and for at least 4 months after treatment.
 
-### Infertility
+Infertility
 
 Females
 
@@ -63,7 +63,7 @@ Oligomenorrhea has also been reported in association with cyclophosphamide treat
 Animal data suggest an increased risk of failed pregnancy and malformations may persist after discontinuation of cyclophosphamide as long as oocytes/follicles exist that were exposed to cyclophosphamide during any of their maturation phases.
 The exact duration of follicular development in humans is not known, but may be longer than 12 months [see NONCLINICAL TOXICOLOGY (13.1)].
 
-### Males
+Males
 
 Men treated with cyclophosphamide may develop oligospermia or azoospermia which are normally associated with increased gonadotropin but normal testosterone secretion.
 

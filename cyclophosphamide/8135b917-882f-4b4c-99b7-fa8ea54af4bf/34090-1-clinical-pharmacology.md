@@ -15,18 +15,18 @@ Following IV administration, elimination half-life (t½) ranges from 3 to 12 hou
 Pharmacokinetics are linear over the dose range used clinically.
 When cyclophosphamide was administered at 4.0 g/m2 over a 90 minutes infusion, saturable elimination in parallel with first-order renal elimination describe the kinetics of the drug.
 
-### Absorption
+Absorption
 
 After oral administration, peak concentrations of cyclophosphamide occurred at one hour.
 Area under the curve ratio for the drug after oral and IV administration (AUCpo: AUCiv) ranged from 0.87 to 0.96.
 
-### Distribution
+Distribution
 
 Approximately 20% of cyclophosphamide is protein bound, with no dose dependent changes.
 Some metabolites are protein bound to an extent greater than 60%.
 Volume of distribution approximates total body water (30 to 50 L).
 
-### Metabolism
+Metabolism
 
 The liver is the major site of cyclophosphamide activation.
 Approximately 75% of the administered dose of cyclophosphamide is activated by hepatic microsomal cytochrome P450s including CYP2A6, 2B6, 3A4, 3A5, 2C9, 2C18 and 2C19, with 2B6 displaying the highest 4-hydroxylase activity.
@@ -39,14 +39,14 @@ At high doses, the fraction of parent compound cleared by 4-hydroxylation is red
 Cyclophosphamide appears to induce its own metabolism.
 Auto-induction results in an increase in the total clearance, increased formation of 4-hydroxyl metabolites and shortened t½ values following repeated administration at 12- to 24-hour interval.
 
-### Elimination
+Elimination
 
 Cyclophosphamide is primarily excreted as metabolites.
 10 to 20% is excreted unchanged in the urine and 4% is excreted in the bile following IV administration.
 
-### Special Populations
+Special Populations
 
-#### Renal Impairment
+Renal Impairment
 
 The pharmacokinetics of cyclophosphamide were determined following one-hour intravenous infusion to renally impaired patients.
 The results demonstrated that the systemic exposure to cyclophosphamide increased as the renal function decreased.
@@ -59,7 +59,7 @@ A mean of 37% of the administered dose of cyclophosphamide was removed during he
 The elimination half-life (t½) was 3.3 hours in patients during hemodialysis, a 49% reduction of the 6.5 hours to t½ reported in uremic patients.
 Reduction in t½, larger dialysis clearance than metabolic clearance, high extraction efficiency, and significant drug removal during dialysis, suggest that cyclophosphamide is dialyzable.
 
-#### Hepatic Impairment
+Hepatic Impairment
 
 Total body clearance (CL) of cyclophosphamide is decreased by 40% in patients with severe hepatic impairment and elimination half-life (t½) is prolonged by 64%.
 Mean CL and t½ were 45 ± 8.6 L/kg and 12.5 ± 1.0 hours respectively, in patients with severe hepatic impairment and 63 ± 7.6 L/kg and 7.6 ± 1.4 hours respectively in the control group [see USE IN SPECIFIC POPULATIONS (8.8)].

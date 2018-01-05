@@ -5,7 +5,7 @@ Therefore, cyclophosphamide should be administered in the morning.
 
 ## 2.1 Dosing for Malignant Diseases
 
-### Adults and Pediatric Patients
+Adults and Pediatric Patients
 
 Oral cyclophosphamide dosing is usually in the range of 1 mg per kg per day to 5 mg per kg per day for both initial and maintenance dosing.
 
