@@ -8,18 +8,18 @@ In older patients, also consider an endoscopy.
 
 ## 5.2 Hypersensitivity and Severe Skin Reactions
 
-Anaphylaxis and other serious reactions such as erythema multiforme, Stevens-Johnson syndrome, and toxic epidermal necrolysis (TEN) have been reported with use of intravenous pantoprazole.
+Anaphylaxis and other serious reactions such as erythema multiforme, Stevens-Johnson syndrome, and toxic epidermal necrolysis (TEN) have been reported with use of PROTONIX I.V.
 These may require emergency medical treatment [see Adverse Reactions (6.2)].
 
 ## 5.3 Injection Site Reactions
 
-Thrombophlebitis was associated with the administration of intravenous pantoprazole.
+Thrombophlebitis was associated with the administration of PROTONIX I.V.
 
 ## 5.4 Potential for Exacerbation of Zinc Deficiency
 
-PROTONIX contains edetate disodium (the salt form of EDTA), a chelator of metal ions including zinc.
-Therefore, zinc supplementation should be considered in patients treated with PROTONIX I.V. for Injection who are prone to zinc deficiency.
-Caution should be used when other EDTA containing products are also co-administered intravenously.
+PROTONIX I.V. contains edetate disodium (the salt form of EDTA), a chelator of metal ions including zinc.
+Therefore, zinc supplementation should be considered in patients treated with PROTONIX I.V. who are prone to zinc deficiency.
+Caution should be used when other EDTA containing products are also co-administered intravenously [see Dosage and Administration (2.5)].
 
 ## 5.5 Acute Interstitial Nephritis
 
@@ -29,21 +29,21 @@ Discontinue PROTONIX I.V. if acute interstitial nephritis develops [see Contrain
 
 ## 5.6 Clostridium difficile-Associated Diarrhea
 
-Published observational studies suggest that PPI therapy like PROTONIX may be associated with an increased risk of Clostridium difficile associated diarrhea, especially in hospitalized patients.
+Published observational studies suggest that PPI therapy like PROTONIX I.V. may be associated with an increased risk of Clostridium difficile associated diarrhea, especially in hospitalized patients.
 This diagnosis should be considered for diarrhea that does not improve [see Adverse Reactions (6.2)].
 
 Patients should use the lowest dose and shortest duration of PPI therapy appropriate to the condition being treated.
 
 ## 5.7 Bone Fracture
 
-Several published observational studies suggest that proton pump inhibitor (PPI) therapy may be associated with an increased risk for osteoporosis-related fractures of the hip, wrist, or spine.
+Several published observational studies suggest that PPI therapy may be associated with an increased risk for osteoporosis-related fractures of the hip, wrist, or spine.
 The risk of fracture was increased in patients who received high-dose, defined as multiple daily doses, and long-term PPI therapy (a year or longer).
 Patients should use the lowest dose and shortest duration of PPI therapy appropriate to the condition being treated.
-Patients at risk for osteoporosis-related fractures should be managed according to established treatment guidelines [see Dosage and Administration (2) and Adverse Reactions (6)].
+Patients at risk for osteoporosis-related fractures should be managed according to established treatment guidelines [see Dosage and Administration (2.2, 2.4), Adverse Reactions (6)].
 
 ## 5.8 Cutaneous and Systemic Lupus Erythematosus
 
-Cutaneous lupus erythematosus (CLE) and systemic lupus erythematosus (SLE) have been reported in patients taking PPIs, including pantoprazole.
+Cutaneous lupus erythematosus (CLE) and systemic lupus erythematosus (SLE) have been reported in patients taking PPIs, including pantoprazole sodium.
 These events have occurred as both new onset and an exacerbation of existing autoimmune disease.
 The majority of PPI-induced lupus erythematous cases were CLE.
 
@@ -64,8 +64,7 @@ ANA) may be positive and elevated serological test results may take longer to re
 ## 5.9 Hepatic Effects
 
 Mild, transient transaminase elevations have been observed in clinical studies.
-The clinical significance of this finding in a large population of subjects administered intravenous pantoprazole is unknown.
-[see Adverse Reactions (6)].
+The clinical significance of this finding in a large population of subjects administered PROTONIX I.V. is unknown [see Adverse Reactions (6)].
 
 ## 5.10 Hypomagnesemia
 
@@ -75,16 +74,18 @@ In most patients, treatment of hypomagnesemia required magnesium replacement and
 
 For patients expected to be on prolonged treatment or who take PPIs with medications such as digoxin or drugs that may cause hypomagnesemia (e.g., diuretics), health care professionals may consider monitoring magnesium levels prior to initiation of PPI treatment and periodically [see Adverse Reactions (6.2)].
 
-## 5.11 Interference with Urine Screen for THC
+## 5.11 Interference with Investigations for Neuroendocrine Tumors
 
-May produce false-positive urine screen for THC (tetrahydrocannabinol) [see Drug Interactions (7.4)].
+Serum chromogranin A (CgA) levels increase secondary to drug-induced decreases in gastric acidity.
+The increased CgA level may cause false positive results in diagnostic investigations for neuroendocrine tumors.
+Healthcare providers should temporarily stop PROTONIX I.V. treatment at least 14 days before assessing CgA levels and consider repeating the test if initial CgA levels are high.
+If serial tests are performed (e.g. for monitoring), the same commercial laboratory should be used for testing, as reference ranges between tests may vary [see Clinical Pharmacology (12.2)].
 
-## 5.12 Concomitant Use of PROTONIX with Methotrexate
+## 5.12 Interference with Urine Screen for THC
+
+Pantoprazole sodium may produce false-positive urine screen for THC (tetrahydrocannabinol) [see Drug Interactions (7)].
+
+## 5.13 Concomitant Use of PROTONIX I.V. with Methotrexate
 
 Literature suggests that concomitant use of PPIs with methotrexate (primarily at high dose; see methotrexate prescribing information) may elevate and prolong serum levels of methotrexate and/or its metabolite, possibly leading to methotrexate toxicities.
-In high-dose methotrexate administration, a temporary withdrawal of the PPI may be considered in some patients [see Drug Interactions (7.6)].
-
-## 5.13 Interference with Laboratory Tests
-
-Use of PPIs, including pantoprazole, may increase chromogranin A (CgA) levels which may interfere with investigations for neuroendocrine tumors.
-To avoid this interference, PPI treatment should be stopped 14 days before CgA measurements.
+In high-dose methotrexate administration, a temporary withdrawal of the PPI may be considered in some patients [see Drug Interactions (7)].
