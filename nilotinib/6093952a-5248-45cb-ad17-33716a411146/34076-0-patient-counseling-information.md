@@ -32,7 +32,7 @@ The capsules should be swallowed whole with water.
 
 Advise patients to take Tasigna on an empty stomach.
 No food should be consumed for at least 2 hours before the dose is taken and for at least 1 hour after the dose is taken.
-Patients should not consume grapefruit products and other foods that are known to inhibit CYP3A4 at any time during Tasigna treatment [see Dosage and Administration (2.1), Warnings and Precautions (5.8, 5.9) and Medication Guide].
+Patients should not consume grapefruit products and other foods that are known to inhibit CYP3A4 at any time during Tasigna treatment [see Dosage and Administration (2.4), Warnings and Precautions (5.8, 5.9) and Medication Guide].
 
 If the patient missed a dose of Tasigna, the patient should take the next scheduled dose at its regular time.
 The patient should not take two doses at the same time.
@@ -43,24 +43,34 @@ Tumor Lysis Syndrome
 
 Advise patients that Tasigna can cause tumor lysis syndrome and to seek immediate medical attention if any symptoms suggestive of tumor lysis syndrome occur such as an abnormal heartbeat or less urine production [see Warnings and Precautions (5.11)].
 
+Hemorrhage
+
+Advise patients that serious hemorrhagic events, including fatal events, have occurred in patients with CML treated with Tasigna.
+Advise patients to seek immediate medical attention if symptoms suggestive of hemorrhage occur, such as uncontrolled bleeding, changes in eyesight, unconsciousness, or sudden headache or sudden confusion in surroundings [see Warnings and Precautions (5.12)].
+
 Fluid Retention
 
-Advise patients that Tasigna can cause fluid retention and to seek immediate medical attention if any symptoms suggestive of fluid retention such as shortness of breath, rapid weight gain, or swelling occur [see Warnings and Precautions (5.17)].
+Advise patients that Tasigna can cause fluid retention and to seek immediate medical attention if any symptoms suggestive of fluid retention such as shortness of breath, rapid weight gain, or swelling occur [see Warnings and Precautions (5.16)].
+
+Treatment Free Remission (TFR)
+
+Advise patients that frequent monitoring is required to detect possible loss of remission if TFR is attempted.
+Advise patients that musculoskeletal symptoms such as muscle pain, pain in extremity, joint pain, bone pain, or spinal pain, may occur more frequently than before treatment discontinuation [see Warnings and Precautions (5.18) and Medication Guide].
 
 Drug Interactions
 
 Advise patients that Tasigna and certain other medicines, including over the counter medications or herbal supplements (such as St. John’s Wort), can interact with each other [see Warnings and Precautions (5.8) and Drug Interactions (7)].
 
-Pregnancy
+Embryo-Fetal Toxicity
 
-Advise patients that the use of Tasigna during pregnancy may cause harm to the fetus and that Tasigna should not be taken during pregnancy unless necessary.
-Women of childbearing potential should use highly effective contraceptives while taking Tasigna.
-Sexually active female patients taking Tasigna should use adequate contraception [see Warnings and Precautions (5.16) and Use in Specific Populations (8.1)].
+Advise females to inform their healthcare provider if they are pregnant or become pregnant.
+Inform female patients of the risk to a fetus and potential loss of the pregnancy [see Use in Specific Populations (8.1)].
 
-Nursing Mothers
+Advise females of reproductive potential to use effective contraception during treatment and for at least 14 days after receiving the last dose of Tasigna [see Warnings and Precautions (5.17) and Use in Specific Populations (8.1, 8.3)].
 
-It is not known whether nilotinib is excreted in human milk.
-Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from Tasigna, decide whether to advise discontinuing nursing or discontinuing the drug, taking into account the importance of the drug to the mother [see Use in Specific Populations (8.3)].
+Lactation
+
+Advise lactating women not to breastfeed during treatment with Tasigna and for at least 14 days after the last dose [see Use in Specific Populations (8.2)].
 
 Compliance
 
@@ -72,4 +82,4 @@ Advise patients of the following:
 - If a dose is missed, take the next dose as scheduled.
   Do not take a double dose to make up for the missed capsules.
 
-T2017-24 February 2017
+T2017-125

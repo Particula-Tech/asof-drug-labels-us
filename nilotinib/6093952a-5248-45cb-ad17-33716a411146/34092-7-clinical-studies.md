@@ -2,7 +2,7 @@
 
 ## 14.1 Newly Diagnosed Ph+ CML-CP
 
-An open-label, multicenter, randomized trial was conducted to determine the efficacy of Tasigna versus imatinib tablets in adult patients with cytogenetically confirmed newly diagnosed Ph+ CML-CP.
+The ENESTnd (Evaluating Nilotinib Efficacy and Safety in clinical Trials-Newly Diagnosed patients) study (NCT00471497) was an open-label, multicenter, randomized trial conducted to determine the efficacy of Tasigna versus imatinib tablets in adult patients with cytogenetically confirmed newly diagnosed Ph+ CML-CP.
 Patients were within 6 months of diagnosis and were previously untreated for CML-CP, except for hydroxyurea and/or anagrelide.
 Efficacy was based on a total of 846 patients: 283 patients in the imatinib 400 mg once daily group, 282 patients in the nilotinib 300 mg twice daily group, 281 patients in the nilotinib 400 mg twice daily group.
 
@@ -16,11 +16,11 @@ The median time on treatment was approximately 61 months in all three treatment 
 
 The primary efficacy endpoint was major molecular response (MMR) at 12 months after the start of study medication.
 MMR was defined as less than or equal to 0.1% BCR-ABL/ABL % by international scale measured by RQ-PCR, which corresponds to a greater than or equal to 3 log reduction of BCR-ABL transcript from standardized baseline.
-Efficacy endpoints are summarized in Table 9.
+Efficacy endpoints are summarized in Table 10.
 
 Two patients in the nilotinib arm progressed to either accelerated phase or blast crisis (both within the first 6 months of treatment) while 12 patients on the imatinib arm progressed to either accelerated phase or blast crisis (7 patients within first 6 months, 2 patients within 6 to 12 months, 2 patients within 12 to 18 months and 1 patient within 18 to 24 months).
 
-Table 9: Efficacy (MMR and CCyR) of TASIGNA Compared to Imatinib in Newly Diagnosed Ph+ CML-CP
+Table 10: Efficacy (MMR and CCyR) of TASIGNA Compared to Imatinib in Newly Diagnosed Ph+ CML-CP (ENESTnd)
 
 |  | TASIGNA 300 mg twice daily | Imatinib 400 mg once daily |
 | --- | --- | --- |
@@ -34,15 +34,15 @@ Table 9: Efficacy (MMR and CCyR) of TASIGNA Compared to Imatinib in Newly Diagno
 aCMH test stratified by Sokal risk group
 
 bCCyR: 0% Ph+ metaphases.
-Cytogenetic responses were based on the percentage of Ph-positive metaphases among greater than or equal to 20 metaphase cells in each bone marrow sample.
+Cytogenetic responses were based on the percentage of Ph+ metaphases among greater than or equal to 20 metaphase cells in each bone marrow sample.
 
-By the 60 months, MMR was achieved by 77% of patients on Tasigna and 60% of patients on imatinib.
+By the 60 months, MMR was achieved by 77% of patients on Tasigna and 60% of patients on imatinib; MR4.5 was achieved by 53.5% of patients on Tasigna and 31.4% on imatinib.
 Median overall survival was not reached in either arm.
 At the time of the 60-month final analysis, the estimated survival rate was 93.7% for patients on Tasigna and 91.7% for patients on imatinib.
 
 ## 14.2 Patients with Resistant or Intolerant Ph+ CML-CP and CML-AP
 
-A single-arm, open-label, multicenter study was conducted to evaluate the efficacy and safety of Tasigna (400 mg twice daily) in patients with imatinib-resistant or -intolerant CML with separate cohorts for chronic and accelerated phase disease.
+Study CAMN107A2101 (referred to as Study A2101) (NCT00109707) was a single-arm, open-label, multicenter study conducted to evaluate the efficacy and safety of Tasigna (400 mg twice daily) in patients with imatinib-resistant or -intolerant CML with separate cohorts for chronic and accelerated phase disease.
 The definition of imatinib resistance included failure to achieve a complete hematologic response (by 3 months), cytogenetic response (by 6 months) or major cytogenetic response (by 12 months) or progression of disease after a previous cytogenetic or hematologic response.
 Imatinib intolerance was defined as discontinuation of treatment due to toxicity and lack of a major cytogenetic response at time of study entry.
 At the time of data cut-off, 321 patients with CML-CP and 137 patients with CML-AP with a minimum follow-up of 24 months were enrolled.
@@ -58,11 +58,11 @@ Median duration of nilotinib treatment was 18.4 months in patients with CML-CP a
 The efficacy endpoint in CML-CP was unconfirmed major cytogenetic response (MCyR) which included complete and partial cytogenetic responses.
 
 The efficacy endpoint in CML-AP was confirmed hematologic response (HR), defined as either a complete hematologic response (CHR) or no evidence of leukemia (NEL).
-The rates of response for CML-CP and CML-AP patients are reported in Table 10.
+The rates of response for CML-CP and CML-AP patients are reported in Table 11.
 
 Median durations of response had not been reached at the time of data analysis.
 
-Table 10: Efficacy of Tasigna in Resistant or Intolerant Ph+ CML-CP and CML-AP
+Table 11: Efficacy of TASIGNA in Resistant or Intolerant Ph+ CML-CP and CML-AP (Study A2101)
 
 | Cytogenetic Response Rate (Unconfirmed) (%)a |  |
 | --- | --- |
@@ -102,3 +102,93 @@ The median time to first hematologic response among responders was 1 month (rang
 Among the CML-AP patients who achieved HR, 44% of them had a response lasting for more than 18 months.
 
 After imatinib failure, 24 different BCR-ABL mutations were noted in 42% of chronic phase and 54% of accelerated phase CML patients who were evaluated for mutations.
+
+## 14.3 Treatment discontinuation in newly diagnosed Ph+ CML-CP patients who have achieved a sustained molecular response (MR4.5)
+
+The ENESTfreedom (Evaluating Nilotinib Efficacy and Safety in clinical Trials-freedom) study (NCT01784068) is an open-label, multicenter, single-arm study, where 215 adult patients with Ph+ CML-CP treated with Tasigna in first-line for ≥ 2 years who achieved MR4.5 as measured with the MolecularMD MRDx™ BCR-ABL Test were enrolled to continue Tasigna treatment for an additional 52 weeks (Tasigna consolidation phase).
+
+Of the 215 patients, 190 patients (88.4%) entered the “Treatment-free Remission” (TFR) phase after achieving a sustained molecular response (MR4.5) during the consolidation phase, defined by the following criteria:
+
+- The 4 last quarterly assessments (taken every 12 weeks) were at least MR4 (BCR-ABL/ABL ≤ 0.01% IS), and maintained for 1 year
+- The last assessment being MR4.5 (BCR-ABL/ABL ≤ 0.0032% IS)
+- No more than two assessments falling between MR4 and MR4.5 (0.0032% IS < BCR-ABL/ABL ≤ 0.01% IS).
+
+The median age of patients who entered the TFR phase was 55 years, 49.5% were females, and 21.1% of the patients were ≥ 65 years of age.
+BCR-ABL levels were monitored every 4 weeks during the first 48 weeks of the TFR phase.
+Monitoring frequency was intensified to every 2 weeks upon the loss of MR4.0.
+Biweekly monitoring ended at one of the following time points:
+
+- Loss of MMR requiring patient to re-initiate Tasigna treatment
+- When the BCR-ABL levels returned to a range between MR4.0 and MR4.5
+- When the BCR-ABL levels remained lower than MMR for 4 consecutive measurements (8 weeks from initial loss of MR4.0).
+
+Any patient with loss of MMR during the TFR phase re-initiated Tasigna treatment at 300 mg twice daily or at a reduced dose level of 400 mg once daily if required from the perspective of tolerance, within 5 weeks after the collection date of the blood sample demonstrating loss of MMR.
+Patients who required re-initiation of Tasigna treatment were monitored for BCR-ABL levels every 4 weeks for the first 24 weeks and then every 12 weeks thereafter in patients who regained MMR.
+
+Efficacy was based on the 96-week analysis data cut-off date, by which time, 91 patients (47.9%) discontinued from the TFR phase due to loss of MMR, and 1 (0.5%), 1 (0.5%), 1 (0.5%) and 3 patients (1.6%) due to death from unknown cause, physician decision, lost to follow-up and subject decision, respectively.
+Among the 91 patients who discontinued the TFR phase due to loss of MMR, 88 patients restarted Tasigna treatment and 3 patients permanently discontinued from the study.
+
+By the 96-week data cut-off, of the 88 patients who restarted treatment due to loss of MMR in the TFR phase, 87 patients (98.9%) patients regained MMR (one patient discontinued study permanently due to subject decision after 7.1 weeks of retreatment without regaining MMR) and 81 patients (92.0%) regained MR4.5 by the time of the cut-off date.
+The cumulative rate of MMR and MR4.5 regained at 24 weeks since treatment re initiation was 97.7% (86/88 patients) and 86.4% (76/88 patients), respectively.
+
+Table 12: Efficacy Results for ENESTfreedom
+
+| Patients Who Entered the Treatment Free Remission (TFR) Phase (Full Analysis Set, N=190) |  |  |  |
+| --- | --- | --- | --- |
+|  | Patients in TFR phase1 at the specified time point |  | Loss of MMR2 by the specified time point |
+|  | % | 95% CI | % |
+| 24 weeks | 62.1 | (54.8, 69.0) | 35.8 |
+| 48 weeks | 51.6 | (44.2, 58.9) | 45.8 |
+| 96 weeks | 48.9 | (41.6, 56.3) | 47.9 |
+
+1Patients in MMR at the specified time point in the TFR phase
+
+2Based on the time to event (loss of MMR) data during the TFR phase
+
+Among the 190 patients in the TFR phase, 98 patients had a treatment-free survival (TFS) event (defined as discontinuation from TFR phase due to any reason, loss of MMR, death due to any cause, progression to AP/BC up to the end of TFR phase, or re-initiation of treatment due to any cause in the study) by the 96-week cut-off date.
+
+Figure 14-1 Kaplan-Meier estimate of treatment-free survival after start of TFR (Full Analysis Set ENESTfreedom)
+
+1. For a given time point, the points on the dashed curves represent the 95% confidence limits for the associated KM estimate on the solid curve.
+2. By the time of the 96-week data cut-off date, one single patient lost MMR at week 120, at the time when only 8 patients were considered at risk.
+   This explains the artificial drop at the end of the curve.
+
+## 14.4 Treatment discontinuation in Ph+ CML-CP patients who have achieved a sustained molecular response (MR4.5) on Tasigna following prior imatinib therapy
+
+The ENESTop (Evaluating Nilotinib Efficacy and Safety in clinical Trials-STop) study (NCT01698905) is an open-label, multicenter, single-arm study, where 163 adult patients with Ph+ CML-CP taking tyrosine kinase inhibitors (TKIs) for ≥ 3 years (imatinib as initial TKI therapy for more than 4 weeks without documented MR4.5 on imatinib at the time of switch to Tasigna, then switched to Tasigna for at least 2 years), and who achieved MR4.5 on Tasigna treatment as measured with the MolecularMD MRDx™ BCR-ABL Test were enrolled to continue Tasigna treatment for an additional 52 weeks (Tasigna consolidation phase).
+Of the 163 patients, 126 patients (77.3%) entered the TFR phase after achieving a sustained molecular response (MR4.5) during the consolidation phase, defined by the following criterion:
+
+• The 4 last quarterly assessments (taken every 12 weeks) showed no confirmed loss of MR4.5 (BCR-ABL/ABL ≤ 0.0032% IS) during 1 year.
+
+The median age of patients who entered the TFR phase was 56 years, 55.6% were females, and 27.8% of the patients were ≥ 65 years of age.
+The median actual dose intensity during the 52-week Tasigna consolidation phase was 771.8 mg/day with 52.4%, 29.4%, 0.8%, 16.7% and 0.8% of patients receiving a daily Tasigna dose of 800 mg, 600 mg, 450mg, 400mg and 300mg just before entry into the TFR phase, respectively.
+
+Patients who entered the TFR phase but experienced two consecutive measurements of BCR-ABL/ABL > 0.01% IS were considered having a confirmed loss of MR4.0, triggering re-initiation of Tasigna treatment.
+Patients with loss of MMR in the TFR phase immediately restarted Tasigna treatment without confirmation.
+All patients who restarted Tasigna therapy had BCR-ABL transcript levels monitored every 4 weeks for the first 24 weeks, then once every 12 weeks.
+
+Efficacy was based on the 96-week analysis data cut-off date, by which time, 61 patients (48.4%) had discontinued from the TFR phase: 58 patients (46.0%) due to loss of MMR or confirm loss of MR4.0, 2 patients (1.6%) due to subject/guardian decision and one patient (0.8%) due to pregnancy.
+Among the 58 patients who discontinued from the TFR phase due to confirmed loss of MR4.0 or loss of MMR, 56 patients restarted Tasigna therapy and 2 patients permanently discontinued from the study.
+
+By the 96-week data cut-off, of the 56 patients who restarted Tasigna treatment due to confirmed loss of MR4.0 or loss of MMR in the TFR phase, 52 patients (92.9%) regained MR4.0 and MR4.5; 4 patients (7.1%) did not regain MR4.0 by the time of the cut-off date.
+The cumulative rate of MR4 and MR4.5 regained by 48-weeks since treatment re-initiation, was 92.9% (52/56 patients) and 91.1% (51/56 patients), respectively.
+
+Table 13: Efficacy Results for ENESTop
+
+| Patients Who Entered the Treatment Free Remission (TFR) Phase (Full Analysis Set, N=126) |  |  |  |
+| --- | --- | --- | --- |
+|  | Patients in TFR phase1 at the specified time point |  | Loss of MMR or confirmed loss of MR42 by the specified time point |
+|  | % | 95% CI | % |
+| 24 weeks | 60.3 | (51.2, 68.9) | 38.9 |
+| 48 weeks | 57.9 | (48.8, 66.7) | 41.3 |
+| 96 weeks | 53.2 | (44.1, 62.1) | 43.7 |
+
+1Patients without loss of MMR or confirmed loss of MR4 by specified time point of TFR phase
+
+2Based on the time to event (loss of MMR or confirmed loss of MR4) data during the TFR phase
+
+Among the 126 patients in the TFR phase, 61 patients (48.4%) had a treatment-free survival (TFS) event (defined as discontinuation from TFR phase due to any reason, loss of MMR, confirmed loss of MR4, death due to any cause, progression to AP/BC up to the end of TFR phase, or re-initiation of treatment due to any cause in the study) on or before the 96-month cut-off date.
+
+Figure 14-2 Kaplan-Meier estimate of treatment-free survival after start of TFR (Full Analysis Set ENESTop)
+
+1. For a given time point, the points on the dashed curves represent the 95% confidence limits for the associated KM estimate on the solid curve.

@@ -1,6 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-The following serious adverse reactions can occur with Tasigna and are discussed in greater detail in other sections of the package insert [see Boxed Warning, Warnings and Precautions (5)].
+The following serious adverse reactions can occur with Tasigna and are discussed in greater detail in other sections of labeling:
 
 - Myelosuppression [see Warnings and Precautions (5.1)]
 - QT Prolongation [see Boxed Warning, Warnings and Precautions (5.2)]
@@ -10,7 +10,7 @@ The following serious adverse reactions can occur with Tasigna and are discussed
 - Hepatotoxicity [see Warnings and Precautions (5.6)]
 - Electrolyte Abnormalities [see Boxed Warning, Warnings and Precautions (5.7)]
 - Hemorrhage [see Warnings and Precautions (5.12)]
-- Fluid Retention [see Warnings and Precautions (5.17)]
+- Fluid Retention [see Warnings and Precautions (5.16)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -59,13 +59,13 @@ Most Frequently Reported Adverse Reactions
 Tables 5 and 6 show the percentage of patients experiencing non-hematologic adverse reactions (excluding laboratory abnormalities) regardless of relationship to study drug.
 Adverse reactions reported in greater than 10% of patients who received at least 1 dose of Tasigna are listed.
 
-Table 5: Most Frequently Reported Non-hematologic Adverse Reactions (Regardless of Relationship to Study Drug) in Patients with Newly Diagnosed Ph+ CML-CP (Greater than or equal to 10% in Tasigna 300 mg Twice Daily or Imatinib 400 mg Once Daily Groups) 60-Month Analysisa
+Table 5: Most Frequently Reported Non-Hematologic Adverse Reactions (Regardless of Relationship to Study Drug) in Patients with Newly Diagnosed Ph+ CML-CP (Greater than or equal to 10% in Tasigna 300 mg Twice Daily or Imatinib 400 mg Once Daily Groups) 60-Month Analysisa
 
 |  |  | Patients with Newly Diagnosed Ph+ CML-CP |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 |  |  | TASIGNA 300 mg twice daily | Imatinib 400 mg once daily | TASIGNA 300 mg twice daily | Imatinib 400 mg once daily |
 |  |  | N=279 | N=280 | N=279 | N=280 |
-| Body System and Preferred Term |  | All Grades (%) |  | CTC Gradesb 3/4 (%) |  |
+| Body System and Adverse Reaction |  | All Grades (%) |  | CTC Gradesb 3/4 (%) |  |
 | Skin and subcutaneous tissue disorders | Rash | 38 | 19 | <1 | 2 |
 |  | Pruritus | 21 | 7 | <1 | 0 |
 |  | Alopecia | 13 | 7 | 0 | 0 |
@@ -103,9 +103,9 @@ Table 5: Most Frequently Reported Non-hematologic Adverse Reactions (Regardless 
 
 aExcluding laboratory abnormalities bNCI Common Terminology Criteria for Adverse Events, Version 3.0
 
-Table 6: Most Frequently Reported Non-hematologic Adverse Reactions in Patients with Resistant or Intolerant Ph+ CML Receiving Tasigna 400 mg Twice Daily (Regardless of Relationship to Study Drug) (Greater than or equal to 10% in any Group) 24-Month Analysisa
+Table 6: Most Frequently Reported Non-Hematologic Adverse Reactions in Patients with Resistant or Intolerant Ph+ CML Receiving TASIGNA 400 mg Twice Daily (Regardless of Relationship to Study Drug) (Greater than or equal to 10% in any Group) 24-Month Analysisa
 
-| Body System and Preferred Term |  | CML-CP |  | CML-AP |  |
+| Body System and Adverse Reaction |  | CML-CP |  | CML-AP |  |
 | --- | --- | --- | --- | --- | --- |
 |  |  | N=321 |  | N=137 |  |
 |  |  | All Grades (%) | CTC Gradesb 3/4 (%) | All Grades (%) | CTC Gradesb 3/4 (%) |
@@ -183,11 +183,31 @@ Table 7: Percent Incidence of Clinically Relevant Grade 3/4* Laboratory Abnormal
 
 4CML-AP: Neutropenia: 16% were Grade 3, 26% were Grade 4
 
-Elevated total cholesterol (all grades) occurred in 28% (Tasigna 300 mg bid) and 4% (imatinib).
+Elevated total cholesterol (all grades) occurred in 28% (Tasigna 300 mg twice daily) and 4% (imatinib).
 Elevated triglycerides (all grades) occurred in 12% and 8% of patients in the Tasigna and imatinib arms, respectively.
-Hyperglycemia (all grades) occurred in 50% and 31% of patients in the Tasigna and imatinib arms, respectively.
+Hyperglycemia (all Grades) occurred in 50% and 31% of patients in the Tasigna and imatinib arms, respectively.
 
 Most common biochemistry laboratory abnormalities (all grades) were alanine aminotransferase increased (72%), blood bilirubin increased (59%), aspartate aminotransferase increased (47%), lipase increased (28%), blood glucose increased (50%), blood cholesterol increased (28%), and blood triglyceride increased (12%).
+
+Treatment discontinuation in Ph+ CML-CP patients who have achieved a sustained molecular response (MR 4.5)
+
+In eligible patients who discontinued Tasigna therapy after attaining a sustained molecular response (MR4.5), musculoskeletal symptoms (e.g. myalgia, pain in extremity, arthralgia, bone pain, spinal pain, or musculoskeletal pain), were reported more frequently than before treatment discontinuation in the first year, as noted in Table 8.
+The rate of new musculoskeletal symptoms generally decreased in the second year after treatment discontinuation.
+
+In the newly diagnosed population in whom musculoskeletal symptoms occurred at any time during the TFR phase, 23/53 (43.4%) had not resolved by the TFR end date or data cut-off date.
+In the population previously treated with imatinib in whom musculoskeletal events occurred at any time during the TFR phase, 32/57 (56.1%) had not resolved by the data cut-off date.
+
+The rate of musculoskeletal symptoms decreased in patients who entered the nilotinib treatment re-initiation (NTRI) phase, at 11/88 (12.5%) in the newly diagnosed population and 14/56 (25%) in the population previously treated with imatinib.
+Other adverse reactions observed in the Tasigna re-treatment phase were similar to those observed Tasigna use in patients with newly diagnosed Ph+ CML-CP and resistant or intolerant Ph+ CML-CP and CML-AP.
+
+Table 8: Musculoskeletal symptoms occurring upon treatment discontinuation in the context of treatment-free remission (TFR)
+
+|  | Entire TFR period in all TFR patients |  |  |  | By time interval, in subset of patients in TFR greater than 48 weeks |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Ph+ CML-CP patients | N | Median follow-up in TFR | Patients with musculoskeletal symptoms |  | N | Year prior to TASIGNA discontinuation |  | 1st year after TASIGNA discontinuation |  | 2nd year after TASIGNA discontinuation |  |
+|  |  |  | All Grades | Grade 3/4 |  | All Grades | Grade 3/4 | All Grades | Grade 3/4 | All Grades | Grade 3/4 |
+| Newly Diagnosed | 190 | 76 weeks | 27.9% | 1.1% | 100 | 17.0% | 0% | 34.0% | 2.0% | 9.0% | 0% |
+| Previously treated with imatinib | 126 | 99 weeks | 45.2% | 2.4% | 73 | 13.7% | 0% | 47.9% | 2.7% | 15.1% | 1.4% |
 
 Additional Data from Clinical Trials
 
@@ -231,7 +251,7 @@ Unknown frequency: basilar artery stenosis, brain edema, optic neuritis, letharg
 
 Eye Disorders: Common: eye hemorrhage, eye pruritus, conjunctivitis, dry eye (including xerophthalmia).
 Uncommon: vision impairment, vision blurred, visual acuity reduced, photopsia, hyperemia (scleral, conjunctival, ocular), eye irritation, conjunctival hemorrhage.
-Unknown frequency: papilloedema, diplopia, photophobia, eye swelling, blepharitis, eye pain, chorioretinopathy, conjunctivitis allergic, ocular surface disease.
+Unknown frequency: papilledema, diplopia, photophobia, eye swelling, blepharitis, eye pain, chorioretinopathy, conjunctivitis allergic, ocular surface disease.
 
 Ear and Labyrinth Disorders: Common: vertigo.
 Unknown frequency: hearing impaired, ear pain, tinnitus.

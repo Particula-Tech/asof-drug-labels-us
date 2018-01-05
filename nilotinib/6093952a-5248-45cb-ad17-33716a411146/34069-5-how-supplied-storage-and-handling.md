@@ -6,14 +6,14 @@ Tasigna capsules are supplied in blister packs.
 
 150 mg
 
-Carton of 4 blister packs of (4x28) NDC 0078-0592-87
+Carton of 4 blister packs of (4x28)…………………………………………………NDC 0078-0592-87
 
-Blisters of 28 capsules NDC 0078-0592-51
+Blisters of 28 capsules………………………………………………………………NDC 0078-0592-51
 
 200 mg
 
-Carton of 4 blister packs of (4x28) NDC 0078-0526-87
+Carton of 4 blister packs of (4x28)…………………………………………………NDC 0078-0526-87
 
-Blisters of 28 capsules NDC 0078-0526-51
+Blisters of 28 capsules………………………………………………………………NDC 0078-0526-51
 
 Tasigna (nilotinib) capsules should be stored at 25°C (77°F); excursions permitted between 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].

@@ -4,7 +4,7 @@
 
 Treatment with Tasigna can cause Grade 3/4 thrombocytopenia, neutropenia and anemia.
 Perform complete blood counts every 2 weeks for the first 2 months and then monthly thereafter, or as clinically indicated.
-Myelosuppression was generally reversible and usually managed by withholding Tasigna temporarily or dose reduction [see Dosage and Administration (2.2)].
+Myelosuppression was generally reversible and usually managed by withholding Tasigna temporarily or dose reduction [see Dosage and Administration (2.4)].
 
 ## 5.2 QT Prolongation
 
@@ -28,10 +28,10 @@ The relative early occurrence of some of these deaths relative to the initiation
 ## 5.4 Cardiac and Arterial Vascular Occlusive Events
 
 Cardiovascular events, including arterial vascular occlusive events, were reported in a randomized, clinical trial in newly diagnosed CML patients and observed in the postmarketing reports of patients receiving nilotinib therapy.
-With a median time on therapy of 60 months in the clinical trial, cardiovascular events, including arterial vascular occlusive events, occurred in 9.3% and 15.2% of patients in the Tasigna 300 and 400 mg bid arms, respectively, and in 3.2% in the imatinib arm.
-These included cases of cardiovascular events including ischemic heart disease-related cardiac events (5.0% and 9.4% in the Tasigna 300 mg and 400 mg bid arms respectively, and 2.5% in the imatinib arm), peripheral arterial occlusive disease (3.6% and 2.9% in the Tasigna 300 mg and 400 mg bid arms respectively, and 0% in the imatinib arm), and ischemic cerebrovascular events (1.4% and 3.2% in the Tasigna 300 mg and 400 mg bid arms respectively, and 0.7% in the imatinib arm).
+With a median time on therapy of 60 months in the clinical trial, cardiovascular events, including arterial vascular occlusive events, occurred in 9.3% and 15.2% of patients in the Tasigna 300 and 400 mg twice daily arms, respectively, and in 3.2% in the imatinib arm.
+These included cases of cardiovascular events including ischemic heart disease-related cardiac events (5.0% and 9.4% in the Tasigna 300 mg and 400 mg twice daily arms respectively, and 2.5% in the imatinib arm), peripheral arterial occlusive disease (3.6% and 2.9% in the Tasigna 300 mg and 400 mg twice daily arms respectively, and 0% in the imatinib arm), and ischemic cerebrovascular events (1.4% and 3.2% in the Tasigna 300 mg and 400 mg twice daily arms respectively, and 0.7% in the imatinib arm).
 If acute signs or symptoms of cardiovascular events occur, advise patients to seek immediate medical attention.
-The cardiovascular status of patients should be evaluated and cardiovascular risk factors should be monitored and actively managed during Tasigna therapy according to standard guidelines [see Dosage and Administration (2.2)].
+The cardiovascular status of patients should be evaluated and cardiovascular risk factors should be monitored and actively managed during Tasigna therapy according to standard guidelines [see Dosage and Administration (2.4)].
 
 ## 5.5 Pancreatitis and Elevated Serum Lipase
 
@@ -55,7 +55,7 @@ Monitor these electrolytes periodically during therapy [see Warnings and Precaut
 
 Avoid administration of Tasigna with agents that may increase nilotinib exposure (e.g., strong CYP3A4 inhibitors) or anti-arrhythmic drugs (including, but not limited to amiodarone, disopyramide, procainamide, quinidine and sotalol) and other drugs that may prolong QT interval (including, but not limited to chloroquine, clarithromycin, haloperidol, methadone, moxifloxacin and pimozide).
 Should treatment with any of these agents be required, interrupt therapy with Tasigna.
-If interruption of treatment with Tasigna is not possible, patients who require treatment with a drug that prolongs QT or strongly inhibits CYP3A4 should be closely monitored for prolongation of the QT interval [see Boxed Warning, Dosage and Administration (2.2), Drug Interactions (7.2)].
+If interruption of treatment with Tasigna is not possible, patients who require treatment with a drug that prolongs QT or strongly inhibits CYP3A4 should be closely monitored for prolongation of the QT interval [see Boxed Warning, Dosage and Administration (2.4), Drug Interactions (7.2)].
 
 ## 5.9 Food Effects
 
@@ -66,7 +66,7 @@ Also avoid grapefruit products and other foods that are known to inhibit CYP3A4 
 ## 5.10 Hepatic Impairment
 
 Nilotinib exposure is increased in patients with impaired hepatic function.
-Use a lower starting dose for patients with mild to severe hepatic impairment (at baseline) and monitor the QT interval frequently [see Dosage and Administration (2.2) and Use in Specific Populations (8.7)].
+Use a lower starting dose for patients with mild to severe hepatic impairment (at baseline) and monitor the QT interval frequently [see Dosage and Administration (2.4) and Use in Specific Populations (8.7)].
 
 ## 5.11 Tumor Lysis Syndrome
 
@@ -76,9 +76,11 @@ Due to potential for tumor lysis syndrome, maintain adequate hydration and corre
 
 ## 5.12 Hemorrhage
 
-In a randomized trial in patients with newly diagnosed Ph+ CML in chronic phase comparing Tasigna and imatinib, Grade 3 or 4 hemorrhage occurred in 1.1% of patients in the Tasigna 300 mg bid arm, in 1.8% patients in the Tasigna 400 mg bid arm, and 0.4% of patients in the imatinib arm.
-GI hemorrhage occurred in 2.9% and 5.1% of patients in the Tasigna 300 mg bid and 400 mg bid arms and in 1.4% of patients in the imatinib arm, respectively.
-Grade 3 or 4 events occurred in 0.7% and 1.4% of patients in the Tasigna 300 mg bid and 400 mg bid arms, respectively, and in no patients in the imatinib arm.
+Serious hemorrhagic events, including fatal events, have occurred in patients with CML treated with Tasigna.
+In a randomized trial in patients with newly diagnosed Ph+ CML in chronic phase comparing Tasigna and imatinib, Grade 3 or 4 hemorrhage occurred in 1.1% of patients in the Tasigna 300 mg twice daily arm, in 1.8% patients in the Tasigna 400 mg twice daily arm, and 0.4% of patients in the imatinib arm.
+GI hemorrhage occurred in 2.9% and 5.1% of patients in the Tasigna 300 mg twice daily and 400 mg twice daily arms and in 1.4% of patients in the imatinib arm, respectively.
+Grade 3 or 4 events occurred in 0.7% and 1.4% of patients in the Tasigna 300 mg twice daily and 400 mg twice daily arms, respectively, and in no patients in the imatinib arm.
+Monitor for signs and symptoms of bleeding and medically manage as needed.
 
 ## 5.13 Total Gastrectomy
 
@@ -99,18 +101,34 @@ Should treatment with any HMG-CoA reductase inhibitor (a lipid lowering agent) b
 Assess glucose levels before initiating treatment with Tasigna and monitor during treatment as clinically indicated.
 If test results warrant therapy, physician should follow their local standards of practice and treatment guidelines.
 
-## 5.16 Embryo-Fetal Toxicity
+## 5.16 Fluid Retention
 
-There are no adequate and well controlled studies of Tasigna in pregnant women.
-However, Tasigna may cause fetal harm when administered to a pregnant woman.
-Nilotinib caused embryo-fetal toxicities in animals at maternal exposures that were lower than the expected human exposure at the recommended doses of nilotinib.
-If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
-Women of child-bearing potential should avoid becoming pregnant while taking Tasigna [see Use in Specific Populations (8.1)].
-
-## 5.17 Fluid Retention
-
-In the randomized trial in patients with newly diagnosed Ph+ CML in chronic phase, severe (Grade 3 or 4) fluid retention occurred in 3.9% and 2.9% of patients receiving Tasigna 300 mg bid and 400 mg bid, respectively, and in 2.5% of patients receiving imatinib.
-Effusions (including pleural effusion, pericardial effusion, ascites) or pulmonary edema, were observed in 2.2% and 1.1% of patients receiving Tasigna 300 mg bid and 400 mg bid, respectively, and in 2.1% of patients receiving imatinib.
-Effusions were severe (Grade 3 or 4) in 0.7% and 0.4% of patients receiving Tasigna 300 mg bid and 400 mg bid, respectively, and in no patients receiving imatinib.
+In the randomized trial in patients with newly diagnosed Ph+ CML in chronic phase, severe (Grade 3 or 4) fluid retention occurred in 3.9% and 2.9% of patients receiving Tasigna 300 mg twice daily and 400 mg twice daily, respectively, and in 2.5% of patients receiving imatinib.
+Effusions (including pleural effusion, pericardial effusion, ascites) or pulmonary edema, were observed in 2.2% and 1.1% of patients receiving Tasigna 300 mg twice daily and 400 mg twice daily, respectively, and in 2.1% of patients receiving imatinib.
+Effusions were severe (Grade 3 or 4) in 0.7% and 0.4% of patients receiving Tasigna 300 mg twice daily and 400 mg twice daily, respectively, and in no patients receiving imatinib.
 Similar events were also observed in postmarketing reports.
 Monitor patients for signs of severe fluid retention (e.g., unexpected rapid weight gain or swelling) and for symptoms of respiratory or cardiac compromise (e.g., shortness of breath) during Tasigna treatment; evaluate etiology and treat patients accordingly.
+
+## 5.17 Embryo-Fetal Toxicity
+
+Based on findings from animal studies and its mechanism of action, Tasigna can cause fetal harm when administered to a pregnant woman.
+In animal reproduction studies, administration of nilotinib to pregnant rats and rabbits during organogenesis caused adverse developmental outcomes including embryo-fetal lethality/fetal effects (small renal papilla, fetal edema, and skeletal variations) in rats and increased resorptions of fetuses and fetal skeletal variations in rabbits at maternal AUCs approximately 2 and 0.5 times, respectively, the AUC in patients receiving the recommended dose.
+Advise pregnant women of the potential risk to a fetus.
+Advise females of reproductive potential to use effective contraception during treatment and for at least 14 days after the last dose [see Use in Specific Populations (8.1, 8.3) and Clinical Pharmacology (12.1)].
+
+## 5.18 Monitoring of BCR-ABL Transcript Levels
+
+Monitoring of BCR-ABL Transcript Levels in Patients Who Discontinued Tasigna
+
+Monitor BCR-ABL transcript levels in patients eligible for treatment discontinuation using an FDA authorized test validated to measure molecular response levels with a sensitivity of at least MR4.5 (BCR-ABL/ABL ≤ 0.0032% IS).
+In patients who discontinue Tasigna therapy, assess BCR-ABL transcript levels monthly for one year, then every 6 weeks for the second year, and every 12 weeks thereafter during treatment discontinuation [see Clinical Studies (14.3,14.4) and Dosage and Administration (2.2)].
+
+Newly diagnosed patients must reinitiate Tasigna therapy within 4 weeks of a loss of Major Molecular Response (MMR, corresponding to MR3.0 or = BCR-ABL/ABL ≤ 0.1%IS).
+
+Patients resistant or intolerant to prior treatment which included imatinib must reinitiate Tasigna therapy within 4 weeks of a loss of MMR or confirmed loss of MR4.0 (two consecutive measures separated by at least 4 weeks showing loss of MR4.0, corresponding to = BCR-ABL/ABL ≤ 0.01%IS).
+
+For patients who fail to achieve MMR after three months of treatment re initiation, BCR-ABL kinase domain mutation testing should be performed.
+
+Monitoring of BCR-ABL Transcript Levels in Patients who have Reinitiated Therapy after Loss of Molecular Response
+
+Monitor CBC and BCR-ABL transcripts in patients who re-initiate treatment with Tasigna due to loss of molecular response quantitation every 4 weeks until a major molecular response is re-established, then every 12 weeks.

@@ -2,31 +2,71 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D [see Warnings and Precautions (5.16)].
-
 Risk Summary
 
-Based on its mechanism of action and findings in animals, Tasigna may cause fetal harm when administered to a pregnant woman.
-Women should be advised to avoid becoming pregnant while on Tasigna.
-If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
+Based on findings from animal studies and the mechanism of action, Tasigna can cause fetal harm when administered to a pregnant woman [see Clinical Pharmacology (12.1)].
+
+There are no available data in pregnant women to inform the drug-associated risk.
+In animal reproduction studies, administration of nilotinib to pregnant rats and rabbits during organogenesis caused adverse developmental outcomes including embryo-fetal lethality, fetal effects, and fetal variations in rats and rabbits at maternal exposures (AUC) approximately 2 and 0.5 times, respectively, the exposures in patients at the recommended dose (see Data).
+Advise pregnant women of the potential risk to a fetus.
+
+The background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies are 2-4% and 15-20%, respectively.
+
+Data
 
 Animal Data
 
-Nilotinib was studied for effects on embryo-fetal development in pregnant rats and rabbits given oral doses of 10, 30, 100 mg/kg/day, and 30, 100, 300 mg/kg/day, respectively, during organogenesis.
-In rats, nilotinib at doses of 100 mg/kg/day (approximately 5.7 times the AUC in patients at the dose of 400 mg twice daily) was associated with maternal toxicity (decreased gestation weight, gravid uterine weight, net weight gain, and food consumption).
-Nilotinib at doses greater than or equal 30 mg/kg/day (approximately 2 times the AUC in patients at the dose of 400 mg twice daily) resulted in embryo-fetal toxicity as shown by increased resorption and post-implantation loss, and at 100 mg/kg/day, a decrease in viable fetuses.
-In rabbits, maternal toxicity at 300 mg/kg/day (approximately one-half the human exposure based on AUC) was associated with mortality, abortion, decreased gestation weights and decreased food consumption.
-Embryonic toxicity (increased resorption) and minor skeletal anomalies were observed at a dose of 300 mg/kg/day.
-Nilotinib is not considered teratogenic.
+In embryo-fetal development studies in rats and rabbits, pregnant animals received oral doses of nilotinib up to 100 mg/kg/day and 300 mg/kg/day, respectively, during the period of organogenesis.
 
-When pregnant rats were dosed with nilotinib during organogenesis and through lactation, the adverse effects included a longer gestational period, lower pup body weights until weaning and decreased fertility indices in the pups when they reached maturity, all at a maternal dose of 360 mg/m2 (approximately 0.7 times the clinical dose of 400 mg twice daily based on body surface area).
-At doses up to 120 mg per m2 (approximately 0.25 times the clinical dose of 400 mg twice daily based on body surface area) no adverse effects were seen in the maternal animals or the pups.
+In rats, oral administration of nilotinib produced embryo-lethality/fetal effects at doses ≥ 30 mg/kg/day.
+At ≥ 30 mg/kg/day skeletal variations of incomplete ossification of the frontals and misshapen sternebra were noted, and there was an increased incidence of small renal papilla and fetal edema.
+At 100 mg/kg/day, nilotinib was associated with maternal toxicity (decreased gestation weight, gravid uterine weight, net weight gain, and food consumption) and resulted in a single incidence of cleft palate and two incidences of pale skin were noted in the fetuses.
+A single incidence of dilated ureters was noted in a fetus also displaying small renal papilla at 100 mg/kg/day.
+Additional variations of forepaw and hindpaw phalanx unossified, fused sternebra, bipartite sternebra ossification, and incomplete ossification of the cervical vertebra were noted at 100 mg/kg/day.
 
-## 8.3 Nursing Mothers
+In rabbits, oral administration of nilotinib resulted in the early sacrifice of two females, maternal toxicity and increased resorption of fetuses at 300 mg/kg/day.
+Fetal skeletal variations (incomplete ossification of the hyoid, bent hyoid, supernumerary short detached ribs and the presence of additional ossification sites near the nasals, frontals and in the sternebral column) were also increased at this dose in the presence of maternal toxicity.
+Slight maternal toxicity was evident at 100 mg/kg/day but there were no reproductive or embryo-fetal effects at this dose.
 
-It is not known whether nilotinib is excreted in human milk.
-One study in lactating rats demonstrates that nilotinib is excreted into milk.
-Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from Tasigna, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+At 30 mg/kg/day in rats and 300 mg/kg/day in rabbits, the maternal systemic exposure (AUC) were 72700 ng*hr/mL and 17100 ng*hr/mL respectively, representing approximately 2 and 0.5 times the exposure in humans at the highest recommended dose 400 mg twice daily.
+
+When pregnant rats were dosed with nilotinib during organogenesis and through lactation, the adverse effects included a longer gestational period, lower pup body weights until weaning and decreased fertility indices in the pups when they reached maturity, all at a maternal dose of 60 mg/kg (i.e., 360 mg/m2, approximately 0.7 times the clinical dose of 400 mg twice daily based on body surface area).
+At doses up to 20 mg/kg (i.e., 120 mg/m2, approximately 0.25 times the clinical dose of 400 mg twice daily based on body surface area) no adverse effects were seen in the maternal animals or the pups.
+
+## 8.2 Lactation
+
+Risk Summary
+
+No data are available regarding the presence of nilotinib or its metabolites in human milk or its effects on a breastfed child or on milk production.
+However, nilotinib is present in the milk of lactating rats.
+Because of the potential for serious adverse reactions in a nursing child, advise lactating women not to breastfeed during treatment with Tasigna and for at least 14 days after the last dose.
+
+Animal Data
+
+After a single 20 mg/kg of [14C] nilotinib dose to lactating rats, the transfer of parent drug and its metabolites into milk was observed.
+The overall milk-to-plasma exposure ratio of total radioactivity was approximately 2, based on the AUC0-24h or AUC0-∞ values.
+No rat metabolites of nilotinib were detected that were unique to milk.
+
+## 8.3 Females and Males of Reproductive Potential
+
+Pregnancy
+
+Based on animal studies, Tasigna can cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1)].
+Females of reproductive potential should have a pregnancy test prior to starting treatment with Tasigna.
+
+Contraception
+
+Females
+
+Based on animal studies, Tasigna can cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1)].
+Advise females of reproductive potential to use effective contraception during treatment with Tasigna and for at least 14 days after the last dose.
+
+Infertility
+
+The risk of infertility in females or males of reproductive potential has not been studied in humans.
+In studies in rats and rabbits, the fertility in males and females was not affected [see Nonclincal Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
 
@@ -51,10 +91,10 @@ Caution should be exercised in patients with relevant cardiac disorders [see Box
 
 Nilotinib exposure is increased in patients with impaired hepatic function.
 In a study of subjects with mild to severe hepatic impairment following a single dose administration of 200 mg of Tasigna, the mean AUC values were increased on average of 35%, 35%, and 56% in subjects with mild (Child-Pugh class A, score 5 to 6), moderate (Child-Pugh class B, score 7 to 9) and severe hepatic impairment (Child-Pugh class C, score 10 to 15), respectively, compared to a control group of subjects with normal hepatic function.
-Table 8 summarizes the Child-Pugh Liver Function Classification applied in this study.
-A lower starting dose is recommended in patients with hepatic impairment and the QT interval should be monitored closely in these patients [see Dosage and Administration (2.2), Warnings and Precautions (5.10)].
+Table 9 summarizes the Child-Pugh Liver Function Classification applied in this study.
+A lower starting dose is recommended in patients with hepatic impairment and the QT interval should be monitored closely in these patients [see Dosage and Administration (2.4), and Warnings and Precautions (5.10)].
 
-Table 8: Child-Pugh Liver Function Classification
+Table 9: Child-Pugh Liver Function Classification
 
 | Assessment | Degree of Abnormality | Score |
 | --- | --- | --- |

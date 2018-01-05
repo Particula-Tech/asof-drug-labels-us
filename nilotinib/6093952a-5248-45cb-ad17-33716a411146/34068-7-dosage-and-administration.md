@@ -12,21 +12,77 @@ The mixture should be taken immediately (within 15 minutes) and should not be st
 Tasigna may be given in combination with hematopoietic growth factors such as erythropoietin or G-CSF if clinically indicated.
 Tasigna may be given with hydroxyurea or anagrelide if clinically indicated.
 
-Newly Diagnosed Ph+ CML-CP
+Dosage in Newly Diagnosed Ph+ CML-CP
 
 The recommended dose of Tasigna is 300 mg orally twice daily [see Clinical Pharmacology (12.3)].
 
-Resistant or Intolerant Ph+ CML-CP and CML-AP
+Dosage in Resistant or Intolerant Ph+ CML-CP and CML-AP
 
 The recommended dose of Tasigna (nilotinib) is 400 mg orally twice daily [see Clinical Pharmacology (12.3)].
 
-## 2.2 Dose Adjustments or Modifications
+## 2.2 Discontinuation of treatment after a sustained molecular response (MR 4.5) on Tasigna
+
+Patient Selection
+
+Eligibility for Discontinuation of Treatment
+
+Ph+ CML-CP patients with typical BCR-ABL transcripts who have been taking Tasigna for a minimum of 3 years and have achieved a sustained molecular response (MR4.5, corresponding to = BCR-ABL/ABL ≤ 0.0032% IS) may be eligible for treatment discontinuation [see Clinical Studies (14.3, 14.4)].
+Information on FDA authorized tests for the detection and quantitation of BCR-ABL transcripts to determine eligibility for treatment discontinuation is available at http://www.fda.gov/CompanionDiagnostics.
+
+Patients with typical BCR-ABL transcripts (i.e., 13a2/b2a2 or e14a2/b3a2) who achieve the sustained MR4.5 criteria are eligible for discontinuation of Tasigna treatment.
+Patients must continue to be monitored for possible loss of molecular remission after treatment discontinuation.
+Use the same FDA authorized test to consistently monitor molecular response levels while on and off treatment.
+
+Consider discontinuation of treatment in patients with newly diagnosed Ph+ CML-CP who have:
+
+● been treated with Tasigna for at least 3 years
+
+● maintained a molecular response of at least MR4.0 (corresponding to = BCR-ABL/ABL ≤ 0.01% IS) for one year prior to discontinuation of therapy
+
+● achieved an MR4.5 for the last assessment taken immediately prior to discontinuation of therapy
+
+● been confirmed to express the typical BCR-ABL transcripts (e13a2/b2a2 or e14a2/b3a2)
+
+● no history of accelerated phase or blast crisis
+
+● no history of prior attempts of treatment-free remission discontinuation that resulted in relapse.
+
+Consider discontinuation of treatment in patients with Ph+ CML-CP that are resistant or intolerant to treatment with imatinib who have achieved a sustained molecular response (MR4.5) on Tasigna who have:
+
+● been treated with Tasigna for a minimum of 3 years
+
+● been treated with imatinib only prior to treatment with Tasigna
+
+● achieved a molecular response of MR.4.5 (corresponding to = BCR-ABL/ABL ≤ 0.0032% IS)
+
+● sustained an MR4.5 for a minimum of one year immediately prior to discontinuation of therapy
+
+● been confirmed to express the typical BCR-ABL transcripts (e13a2/b2a2 or e14a2/b3a2)
+
+● no history of accelerated phase or blast crisis
+
+● no history of prior attempts of treatment-free remission discontinuation that resulted in relapse.
+
+Monitor BCR-ABL transcript levels and complete blood count with differential in patients who have discontinued Tasigna therapy monthly for one year, then every 6 weeks for the second year, and every 12 weeks thereafter [see Warnings and Precautions (5.18)].
+
+Upon the loss of MR4.0 (corresponding to = BCR-ABL/ABL ≤ 0.01%IS) during the treatment-free phase, monitor BCR-ABL transcript levels every 2 weeks until BCR-ABL levels remain lower than major molecular response (MMR, corresponding to MR3.0 or = BCR-ABL/ABL ≤ 0.1%IS) for 4 consecutive measurements.
+The patient can then proceed to the original monitoring schedule.
+
+## 2.3 Re-initiation of treatment in patients who lose molecular response after discontinuation of therapy with Tasigna.
+
+● Newly diagnosed patients who lose MMR must re-initiate treatment within 4 weeks at the dose level prior to discontinuation of therapy [see Warnings and Precautions (5.18)].
+Patients who re-initiate Tasigna therapy should have their BCR-ABL transcript levels monitored monthly until major molecular response is re-established and every 12 weeks thereafter.
+
+● Patients resistant or intolerant to prior treatment that included imatinib with confirmed loss of MR4.0 (2 consecutive measures separated by at least 4 weeks showing loss of MR4.0) or loss of MMR must re-initiate treatment within 4 weeks at the dose level prior to discontinuation of therapy [see Warnings and Precautions (5.18)].
+Patients who re-initiate Tasigna therapy should have their BCR-ABL transcript levels monitored monthly until previous major molecular response or MR 4.0 is re-established and every 12 weeks thereafter.
+
+## 2.4 Dose Adjustments or Modifications
 
 QT Interval Prolongation:
 
 Table 1: Dose Adjustments for QT Prolongation
 
-| ECGs with a QTc greater than 480 msec | 1. Withhold Tasigna, and perform an analysis of serum potassium and magnesium, and if below lower limit of normal, correct with supplements to within normal limits. Concomitant medication usage must be reviewed. 2. Resume within 2 weeks at prior dose if QTcF returns to less than 450 msec and to within 20 msec of baseline. 3. If QTcF is between 450 msec and 480 msec after 2 weeks, reduce the dose to 400 mg once daily. 4. If, following dose-reduction to 400 mg once daily, QTcF returns to greater than 480 msec, Tasigna should be discontinued. 5. An ECG should be repeated approximately 7 days after any dose adjustment. |
+| ECGs with a QTc greater than 480 msec | 1. Withhold Tasigna, and perform an analysis of serum potassium and magnesium, and if below lower limit of normal, correct with supplements to within normal limits. Concomitant medication usage must be reviewed. 2. Resume within 2 weeks at prior dose if QTcF returns to less than 450 msec and to within 20 msec of baseline. 3. If QTcF is between 450 msec and 480 msec after 2 weeks, reduce the dose to 400 mg once daily. 4. Discontinue Tasigna if, following dose-reduction to 400 mg once daily, QTcF returns to greater than 480 msec. 5. An ECG should be repeated approximately 7 days after any dose adjustment. |
 | --- | --- |
 
 Myelosuppression
@@ -42,14 +98,14 @@ Table 2: Dose Adjustments for Neutropenia and Thrombocytopenia
 
 See Table 3 for dose adjustments for elevations of lipase, amylase, bilirubin, and/or hepatic transaminases [see Adverse Reactions (6.1)].
 
-Table 3: Dose Adjustments for Selected Non-hematologic Laboratory Abnormalities
+Table 3: Dose Adjustments for Selected Non-Hematologic Laboratory Abnormalities
 
 | Elevated serum lipase or amylase greater than or equal to Grade 3 | 1. Withhold Tasigna, and monitor serum lipase or amylase 2. Resume treatment at 400 mg once daily if serum lipase or amylase returns to less than or equal to Grade 1 |
 | --- | --- |
 | Elevated bilirubin greater than or equal to Grade 3 | 1. Withhold Tasigna, and monitor bilirubin 2. Resume treatment at 400 mg once daily if bilirubin returns to less than or equal to Grade 1 |
 | Elevated hepatic transaminases greater than or equal to Grade 3 | 1. Withhold Tasigna, and monitor hepatic transaminases 2. Resume treatment at 400 mg once daily if hepatic transaminases returns to less than or equal to Grade 1 |
 
-Other Non-hematologic Toxicities
+Other Non-Hematologic Toxicities
 
 If other clinically significant moderate or severe non-hematologic toxicity develops, withhold dosing, and resume at 400 mg once daily when the toxicity has resolved.
 If clinically appropriate, escalation of the dose back to 300 mg (newly diagnosed Ph+ CML-CP) or 400 mg (resistant or intolerant Ph+ CML-CP and CML-AP) twice daily should be considered.
