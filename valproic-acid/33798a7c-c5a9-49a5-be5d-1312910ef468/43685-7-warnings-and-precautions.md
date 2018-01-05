@@ -9,7 +9,7 @@ These incidents usually have occurred during the first six months of treatment.
 Serious or fatal hepatotoxicity may be preceded by non-specific symptoms such as malaise, weakness, lethargy, facial edema, anorexia, and vomiting.
 In patients with epilepsy, a loss of seizure control may also occur.
 Patients should be monitored closely for appearance of these symptoms.
-Serum liver tests should be performed prior to therapy and at frequent intervals thereafter, especially during the first six months.
+Serum liver tests should be performed prior to therapy and at frequent intervals thereafter, especially during the first six months of valproate therapy.
 However, healthcare providers should not rely totally on serum biochemistry since these tests may not be abnormal in all instances, but should also consider the results of careful interim medical history and physical examination.
 
 Caution should be observed when administering valproate products to patients with a prior history of hepatic disease.
@@ -91,6 +91,7 @@ Alternative treatment for the underlying medical condition should be initiated a
 ## 5.6 Urea Cycle Disorders
 
 Divalproex sodium delayed-release tablets are contraindicated in patients with known urea cycle disorders (UCD).
+
 Hyperammonemic encephalopathy, sometimes fatal, has been reported following initiation of valproate therapy in patients with urea cycle disorders, a group of uncommon genetic abnormalities, particularly ornithine transcarbamylase deficiency.
 Prior to the initiation of divalproex sodium delayed-release tablets therapy, evaluation for UCD should be considered in the following patients: 1) those with a history of unexplained encephalopathy or coma, encephalopathy associated with a protein load, pregnancy-related or postpartum encephalopathy, unexplained mental retardation, or history of elevated plasma ammonia or glutamine; 2) those with cyclical vomiting and lethargy, episodic extreme irritability, ataxia, low BUN, or protein avoidance; 3) those with a family history of UCD or a family history of unexplained infant deaths (particularly males); 4) those with other signs or symptoms of UCD.
 Patients who develop symptoms of unexplained hyperammonemic encephalopathy while receiving valproate therapy should receive prompt treatment (including discontinuation of valproate therapy) and be evaluated for underlying urea cycle disorders [see CONTRAINDICATIONS (4) and WARNINGS AND PRECAUTIONS (5.10)].

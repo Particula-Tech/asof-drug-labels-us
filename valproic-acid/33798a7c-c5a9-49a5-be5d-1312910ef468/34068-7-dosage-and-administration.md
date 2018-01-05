@@ -24,7 +24,7 @@ Although there are no efficacy data that specifically address longer-term antima
 
 Divalproex sodium delayed-release tablets are administered orally.
 Divalproex sodium delayed-release tablets are indicated as monotherapy and adjunctive therapy in complex partial seizures in adults and pediatric patients down to the age of 10 years, and in simple and complex absence seizures.
-As the divalproex sodium delayed-release tablets dosage are titrated upward, concentrations of clonazepam, diazepam, ethosuximide, lamotrigine, tolbutamide, phenobarbital, carbamazepine, and/or phenytoin may be affected [see DRUG INTERACTIONS (7.2)].
+As the divalproex sodium delayed-release tablets dosage is titrated upward, concentrations of clonazepam, diazepam, ethosuximide, lamotrigine, tolbutamide, phenobarbital, carbamazepine, and/or phenytoin may be affected [see DRUG INTERACTIONS (7.2)].
 
 Complex Partial Seizures
 
@@ -75,7 +75,7 @@ A good correlation has not been established between daily dose, serum concentrat
 However, therapeutic valproate serum concentrations for most patients with absence seizures is considered to range from 50 to 100 mcg/mL.
 Some patients may be controlled with lower or higher serum concentrations [see CLINICAL PHARMACOLOGY (12.3)].
 
-As the divalproex sodium delayed-release tablets dosage are titrated upward, blood concentrations of phenobarbital and/or phenytoin may be affected [see DRUG INTERACTIONS (7.2)].
+As the divalproex sodium delayed-release tablets dosage is titrated upward, blood concentrations of phenobarbital and/or phenytoin may be affected [see DRUG INTERACTIONS (7.2)].
 
 Antiepilepsy drugs should not be abruptly discontinued in patients in whom the drug is administered to prevent major seizures because of the strong possibility of precipitating status epilepticus with attendant hypoxia and threat to life.
 

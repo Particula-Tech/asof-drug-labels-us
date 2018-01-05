@@ -12,7 +12,7 @@ This information does not take the place of talking to your healthcare provider 
 
 What is the most important information I should know about divalproex sodium delayed-release tablets?
 
-Do not stop divalproex sodium delayed-release tablets without first talking to your healthcare provider.
+Do not stop taking divalproex sodium delayed-release tablets without first talking to your healthcare provider.
 
 Stopping divalproex sodium delayed-release tablets suddenly can cause serious problems.
 
@@ -166,7 +166,7 @@ What should I avoid while taking divalproex sodium delayed-release tablets?
 - Do not drive a car or operate dangerous machinery until you know how divalproex sodium delayed-release tablets affect you.
   Divalproex sodium delayed-release tablets can slow your thinking and motor skills.
 
-What are the possible side effects with divalproex sodium delayed-release tablets?
+What are the possible side effects of divalproex sodium delayed-release tablets?
 
 - See "What is the most important information I should know about divalproex sodium delayed-release tablets?"
 
@@ -257,4 +257,4 @@ Goa 403 722
 
 INDIA.
 
-Revised: May 2016 ID#: 245613
+Revised: January 2018 ID#: 245613
