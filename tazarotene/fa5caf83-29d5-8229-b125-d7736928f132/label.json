@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA208662"
+  ],
+  "inn": "tazarotene",
+  "labeler": "G&W Laboratories, Inc.",
+  "package_ndcs": [
+    "0713-0670-31",
+    "0713-0670-60"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "tazarotene",
+      "name": "Tazarotene"
+    }
+  ],
+  "setid": "fa5caf83-29d5-8229-b125-d7736928f132",
+  "source": "dailymed"
+}
