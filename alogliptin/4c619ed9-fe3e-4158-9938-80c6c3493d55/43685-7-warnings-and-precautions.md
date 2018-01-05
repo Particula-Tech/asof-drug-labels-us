@@ -129,4 +129,4 @@ If bullous pemphigoid is suspected, OSENI should be discontinued and referral to
 
 ## 5.12 Macrovascular Outcomes
 
-There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with OSENI or any other antidiabetic drug.
+There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with OSENI.

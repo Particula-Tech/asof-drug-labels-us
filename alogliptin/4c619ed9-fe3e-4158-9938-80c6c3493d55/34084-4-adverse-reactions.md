@@ -61,7 +61,7 @@ Overall discontinuation of therapy due to adverse reactions was 6.8% with alogli
 Adverse reactions reported in ≥4% of patients treated with alogliptin 25 mg and more frequently than in patients who received placebo are summarized in Table 2.
 
 Table 2.
-Adverse Reactions Reported in ≥4% Patients Treated with Alogliptin 25 mg and More Frequently Than in Patients Given Placebo in Pooled Studies
+Adverse Reactions Reported in ≥4% Patients Treated with Alogliptin 25 mg and More Frequently than in Patients Given Placebo in Pooled Studies
 
 |  | N=6447 | N=3469 | N=2257 |
 | --- | --- | --- | --- |
@@ -98,14 +98,14 @@ Pioglitazone
 Over 8500 patients with type 2 diabetes have been treated with pioglitazone in randomized, double-blind, controlled clinical trials, including 2605 patients with type 2 diabetes and macrovascular disease treated with pioglitazone in the PROactive clinical trial.
 In these trials, over 6000 patients have been treated with pioglitazone for six months or longer, over 4500 patients have been treated with pioglitazone for one year or longer, and over 3000 patients have been treated with pioglitazone for at least two years.
 
-Common Adverse Reactions: 16- to 26-Week Monotherapy Trials
+Common Adverse Reactions: 16 to 26 Week Monotherapy Trials
 
 A summary of the incidence and type of common adverse reactions reported in three pooled 16 to 26 week placebo-controlled monotherapy trials of pioglitazone is provided in Table 3.
 Terms that are reported represent those that occurred at an incidence of >5% and more commonly in patients treated with pioglitazone than in patients who received placebo.
 None of these adverse reactions were related to pioglitazone dose.
 
 Table 3.
-Three Pooled 16- to 26-Week Placebo-Controlled Clinical Trials of Pioglitazone Monotherapy: Adverse Reactions Reported at an Incidence >5% and More Commonly in Patients Treated with Pioglitazone than in Patients Treated with Placebo
+Three Pooled 16 to 26 Week Placebo-Controlled Clinical Trials of Pioglitazone Monotherapy: Adverse Reactions Reported at an Incidence >5% and More Commonly in Patients Treated with Pioglitazone than in Patients Treated with Placebo
 
 |  | Placebo N=259 | Pioglitazone N=606 |
 | --- | --- | --- |
@@ -243,7 +243,7 @@ Acute pancreatitis, hypersensitivity reactions including anaphylaxis, angioedema
 Pioglitazone
 
 The following adverse reactions have been identified during the postmarketing use of pioglitazone.
-Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 New onset or worsening diabetic macular edema with decreased visual acuity [see Warnings and Precautions (5.9)].
 
