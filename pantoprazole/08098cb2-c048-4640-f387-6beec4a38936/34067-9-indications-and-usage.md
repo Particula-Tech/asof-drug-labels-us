@@ -15,4 +15,4 @@ Controlled studies did not extend beyond 12 months.
 
 ## 1.3 Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome
 
-PROTONIX is indicated for the long-term treatment of pathological hypersecretory conditions, including Zollinger-Ellison syndrome.
+PROTONIX is indicated for the long-term treatment of pathological hypersecretory conditions, including Zollinger-Ellison (ZE) Syndrome.

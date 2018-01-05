@@ -15,7 +15,7 @@ Table 8: Erosive Esophagitis Healing Rates (Per Protocol)
 | Week | 10 mg daily (n = 153) | 20 mg daily (n = 158) | 40 mg daily (n = 162) | (n = 68) |
 | --- | --- | --- | --- | --- |
 |  |  | PROTONIX |  | Placebo |
-| 4 | 45.6%(p < 0.001) PROTONIX versus placebo | 58.4%(p < 0.05) versus 10 mg or 20 mg PROTONIX | 75.0%(p < 0.05) versus 10 mg PROTONIX | 14.3% |
+| 4 | 45.6%(p < 0.001) PROTONIX versus placebo | 58.4%(p < 0.05) versus 10 mg PROTONIX | 75.0%(p < 0.05) versus 10 mg or 20 mg PROTONIX | 14.3% |
 | 8 | 66.0% | 83.5% | 92.6% | 39.7% |
 
 In this study, all PROTONIX treatment groups had significantly greater healing rates than the placebo group.
@@ -46,12 +46,12 @@ Pediatric Patients Ages 5 Years through 16 Years
 
 The efficacy of PROTONIX in the treatment of EE associated with GERD in pediatric patients ages 5 years through 16 years is extrapolated from adequate and well-conducted trials in adults, as the pathophysiology is thought to be the same.
 Four pediatric patients with endoscopically diagnosed EE were studied in multicenter, randomized, double-blind, parallel-treatment trials.
-Children with endoscopically diagnosed EE (defined as an endoscopic Hetzel-Dent score ≥ 2) were treated once daily for 8 weeks with one of two dose levels of PROTONIX (20 mg or 40 mg).
+Children with endoscopically diagnosed EE (defined as an endoscopic Hetzel-Dent score ≥2) were treated once daily for 8 weeks with one of two dose levels of PROTONIX (20 mg or 40 mg).
 All 4 patients with EE were healed (Hetzel-Dent score of 0 or 1) at 8 weeks.
 
 ## 14.2 Long-Term Maintenance of Healing of Erosive Esophagitis
 
-Two independent, multicenter, randomized, double-blind, comparator-controlled trials of identical design were conducted in adult GERD patients with endoscopically confirmed healed erosive esophagitis to demonstrate efficacy of PROTONIX in long-term maintenance of healing.
+Two independent, multicenter, randomized, double-blind, comparator-controlled trials of identical design were conducted in adult GERD patients with endoscopically confirmed healed EE to demonstrate efficacy of PROTONIX in long-term maintenance of healing.
 The two US studies enrolled 386 and 404 patients, respectively, to receive either 10 mg, 20 mg, or 40 mg of PROTONIX Delayed-Release Tablets once daily or 150 mg of ranitidine twice daily.
 As demonstrated in Table 10, PROTONIX 40 mg and 20 mg were significantly superior to ranitidine at every timepoint with respect to the maintenance of healing.
 In addition, PROTONIX 40 mg was superior to all other treatments studied.
@@ -61,8 +61,8 @@ Table 10: Long-Term Maintenance of Healing of Erosive Gastroesophageal Reflux Di
 |  | PROTONIX 20 mg daily | PROTONIX 40 mg daily | Ranitidine 150 mg twice daily |
 | --- | --- | --- | --- |
 | Study 1 | n = 75 | n = 74 | n = 75 |
-| Month 1 | 91(p < 0.05 vs. ranitidine) | 99 | 68 |
-| Month 3 | 82 | 93(p < 0.05 vs. PROTONIX 20 mg) | 54 |
+| Month 1 | 91(p <0.05 vs. ranitidine) | 99 | 68 |
+| Month 3 | 82 | 93(p <0.05 vs. PROTONIX 20 mg) | 54 |
 | Month 6 | 76 | 90 | 44 |
 | Month 12 | 70 | 86 | 35 |
 | Study 2 | n = 74 | n = 88 | n = 84 |
@@ -70,7 +70,7 @@ Table 10: Long-Term Maintenance of Healing of Erosive Gastroesophageal Reflux Di
 | Month 3 | 78 | 91 | 47 |
 | Month 6 | 72 | 88 | 39 |
 | Month 12 | 72 | 83 | 37 |
-| Note: PROTONIX 10 mg was superior (p < 0.05) to ranitidine in Study 2, but not Study 1. |  |  |  |
+| Note: PROTONIX 10 mg was superior (p <0.05) to ranitidine in Study 2, but not Study 1. |  |  |  |
 
 PROTONIX 40 mg was superior to ranitidine in reducing the number of daytime and nighttime heartburn episodes from the first through the twelfth month of treatment.
 PROTONIX 20 mg, administered once daily, was also effective in reducing episodes of daytime and nighttime heartburn in one trial, as presented in Table 11.
@@ -79,14 +79,14 @@ Table 11: Number of Episodes of Heartburn (mean ± SD)
 
 |  |  | PROTONIX 40 mg daily | Ranitidine 150 mg twice daily |
 | --- | --- | --- | --- |
-| Month 1 | Daytime | 5.1 ± 1.6(p < 0.001 vs. ranitidine, combined data from the two US studies) | 18.3 ± 1.6 |
+| Month 1 | Daytime | 5.1 ± 1.6(p <0.001 vs. ranitidine, combined data from the two US studies) | 18.3 ± 1.6 |
 |  | Nighttime | 3.9 ± 1.1 | 11.9 ± 1.1 |
 | Month 12 | Daytime | 2.9 ± 1.5 | 17.5 ± 1.5 |
 |  | Nighttime | 2.5 ± 1.2 | 13.8 ± 1.3 |
 
 ## 14.3 Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome
 
-In a multicenter, open-label trial of 35 patients with pathological hypersecretory conditions, such as Zollinger-Ellison syndrome, with or without multiple endocrine neoplasia-type I, PROTONIX successfully controlled gastric acid secretion.
+In a multicenter, open-label trial of 35 patients with pathological hypersecretory conditions, such as Zollinger-Ellison Syndrome, with or without multiple endocrine neoplasia-type I, PROTONIX successfully controlled gastric acid secretion.
 Doses ranging from 80 mg daily to 240 mg daily maintained gastric acid output below 10 mEq/h in patients without prior acid-reducing surgery and below 5 mEq/h in patients with prior acid-reducing surgery.
 
 Doses were initially titrated to the individual patient needs, and adjusted in some patients based on the clinical response with time [see Dosage and Administration (2)].

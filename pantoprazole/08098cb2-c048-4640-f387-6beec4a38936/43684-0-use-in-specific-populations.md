@@ -33,7 +33,7 @@ Based on the potential for tumorigenicity shown for pantoprazole sodium in roden
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of PROTONIX for short-term treatment (up to eight weeks) of erosive esophagitis (EE) associated with GERD have been established in pediatric patients 1 year through 16 years of age.
+The safety and effectiveness of PROTONIX for short-term treatment (up to eight weeks) of EE associated with GERD have been established in pediatric patients 1 year through 16 years of age.
 Effectiveness for EE has not been demonstrated in patients less than 1 year of age.
 In addition, for patients less than 5 years of age, there is no appropriate dosage strength in an age-appropriate formulation available.
 Therefore, PROTONIX is indicated for the short-term treatment of EE associated with GERD for patients 5 years and older.
@@ -41,10 +41,10 @@ The safety and effectiveness of PROTONIX for pediatric uses other than EE have n
 
 1 year through 16 years of age
 
-Use of PROTONIX in pediatric patients 1 year through 16 years of age for short-term treatment (up to eight weeks) of EE associated with GERD is supported by: a) extrapolation of results from adequate and well-controlled studies that supported the approval of PROTONIX for treatment of EE associated with GERD in adults, and b) safety, effectiveness, and pharmacokinetic studies performed in pediatric patients [see Clinical Studies (14.1), and Clinical Pharmacology (12.3)].
+Use of PROTONIX in pediatric patients 1 year through 16 years of age for short-term treatment (up to eight weeks) of EE associated with GERD is supported by: a) extrapolation of results from adequate and well-controlled studies that supported the approval of PROTONIX for treatment of EE associated with GERD in adults, and b) safety, effectiveness, and pharmacokinetic studies performed in pediatric patients [see Clinical Studies (14.1), Clinical Pharmacology (12.3)].
 
 Safety of PROTONIX in the treatment of EE associated with GERD in pediatric patients 1 through 16 years of age was evaluated in three multicenter, randomized, double-blind, parallel-treatment studies, involving 249 pediatric patients, including 8 with EE (4 patients ages 1 year to 5 years and 4 patients 5 years to 11 years).
-The children ages 1 year to 5 years with endoscopically diagnosed EE (defined as an endoscopic Hetzel-Dent score ≥ 2) were treated once daily for 8 weeks with one of two dose levels of PROTONIX (approximating 0.6 mg/kg or 1.2 mg/kg).
+The children ages 1 year to 5 years with endoscopically diagnosed EE (defined as an endoscopic Hetzel-Dent score ≥2) were treated once daily for 8 weeks with one of two dose levels of PROTONIX (approximating 0.6 mg/kg or 1.2 mg/kg).
 All 4 of these patients with EE were healed (Hetzel-Dent score of 0 or 1) at 8 weeks.
 Because EE is uncommon in the pediatric population, predominantly pediatric patients with endoscopically-proven or symptomatic GERD were also included in these studies.
 Patients were treated with a range of doses of PROTONIX once daily for 8 weeks.
@@ -55,7 +55,7 @@ The effectiveness of PROTONIX for treating symptomatic GERD in pediatric patient
 Although the data from the clinical trials support use of PROTONIX for the short-term treatment of EE associated with GERD in pediatric patients 1 year through 5 years, there is no commercially available dosage formulation appropriate for patients less than 5 years of age [see Dosage and Administration (2)].
 
 In a population pharmacokinetic analysis, clearance values in the children 1 to 5 years old with endoscopically proven GERD had a median value of 2.4 L/h.
-Following a 1.2 mg/kg equivalent dose (15 mg for ≤ 12.5 kg and 20 mg for > 12.5 to < 25 kg), the plasma concentrations of pantoprazole were highly variable and the median time to peak plasma concentration was 3 to 6 hours.
+Following a 1.2 mg/kg equivalent dose (15 mg for ≤12.5 kg and 20 mg for >12.5 to <25 kg), the plasma concentrations of pantoprazole were highly variable and the median time to peak plasma concentration was 3 to 6 hours.
 The estimated AUC for patients 1 to 5 years old was 37% higher than for adults receiving a single 40 mg tablet, with a geometric mean AUC value of 6.8 µg∙hr/mL.
 
 Neonates to less than one year of age
@@ -66,7 +66,7 @@ Patients received PROTONIX daily for four weeks in an open-label phase, then pat
 Efficacy was assessed by observing the time from randomization to study discontinuation due to symptom worsening during the four-week treatment-withdrawal phase.
 There was no statistically significant difference between PROTONIX and placebo in the rate of discontinuation.
 
-In this trial, the adverse reactions that were reported more commonly (difference of ≥ 4%) in the treated population compared to the placebo population were elevated CK, otitis media, rhinitis, and laryngitis.
+In this trial, the adverse reactions that were reported more commonly (difference of ≥4%) in the treated population compared to the placebo population were elevated CK, otitis media, rhinitis, and laryngitis.
 
 In a population pharmacokinetic analysis, the systemic exposure was higher in patients less than 1 year of age with GERD compared to adults who received a single 40 mg dose (geometric mean AUC was 103% higher in preterm infants and neonates receiving single dose of 2.5 mg of PROTONIX, and 23% higher in infants 1 through 11 months of age receiving a single dose of approximately 1.2 mg/kg).
 In these patients, the apparent clearance (CL/F) increased with age (median clearance: 0.6 L/hr, range: 0.03 to 3.2 L/hr).
@@ -74,7 +74,7 @@ In these patients, the apparent clearance (CL/F) increased with age (median clea
 These doses resulted in pharmacodynamic effects on gastric but not esophageal pH.
 Following once daily dosing of 2.5 mg of PROTONIX in preterm infants and neonates, there was an increase in the mean gastric pH (from 4.3 at baseline to 5.2 at steady-state) and in the mean % time that gastric pH was > 4 (from 60% at baseline to 80% at steady-state).
 Following once daily dosing of approximately 1.2 mg/kg of PROTONIX in infants 1 through 11 months of age, there was an increase in the mean gastric pH (from 3.1 at baseline to 4.2 at steady-state) and in the mean % time that gastric pH was > 4 (from 32% at baseline to 60% at steady-state).
-However, no significant changes were observed in mean intraesophageal pH or % time that esophageal pH was < 4 in either age group.
+However, no significant changes were observed in mean intraesophageal pH or % time that esophageal pH was <4 in either age group.
 
 Because PROTONIX was not shown to be effective in the randomized, placebo-controlled study in this age group, the use of PROTONIX for treatment of symptomatic GERD in infants less than 1 year of age is not indicated.
 
@@ -90,5 +90,5 @@ Full to partial recovery of these effects were noted in animals of both age grou
 
 ## 8.5 Geriatric Use
 
-In short-term US clinical trials, erosive esophagitis healing rates in the 107 elderly patients (≥ 65 years old) treated with PROTONIX were similar to those found in patients under the age of 65.
+In short-term US clinical trials, EE healing rates in the 107 elderly patients (≥65 years old) treated with PROTONIX were similar to those found in patients under the age of 65.
 The incidence rates of adverse reactions and laboratory abnormalities in patients aged 65 years and older were similar to those associated with patients younger than 65 years of age.

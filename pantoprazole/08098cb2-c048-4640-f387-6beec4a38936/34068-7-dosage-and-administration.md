@@ -25,21 +25,25 @@ Directions for method of administration for each dosage form are presented in Ta
 
 Table 2: Administration Instructions
 
-| Formulation | Route | InstructionsPatients should be cautioned that PROTONIX Delayed-Release Tablets and PROTONIX For Delayed-Release Oral Suspension should not be split, chewed, or crushed. |
+| Formulation | Route | InstructionsDo not split, chew, or crush PROTONIX Delayed-Release Tablets and PROTONIX For Delayed-Release Oral Suspension. |
 | --- | --- | --- |
 | Delayed-Release Tablets | Oral | Swallowed whole, with or without food |
 | For Delayed-Release Oral Suspension | Oral | Administered in 1 teaspoonful of applesauce or apple juice approximately 30 minutes prior to a meal |
 | For Delayed-Release Oral Suspension | Nasogastric tube | See instructions below |
 
+Take a missed dose as soon as possible.
+If it is almost time for the next dose, skip the missed dose and take the next dose at the regular scheduled time.
+Do not take 2 doses at the same time.
+
 PROTONIX Delayed-Release Tablets
 
-PROTONIX Delayed-Release Tablets should be swallowed whole, with or without food in the stomach.
-If patients are unable to swallow a 40 mg tablet, two 20 mg tablets may be taken.
+Swallow PROTONIX Delayed-Release Tablets whole, with or without food in the stomach.
+For patients unable to swallow a 40 mg tablet, two 20 mg tablets may be taken.
 Concomitant administration of antacids does not affect the absorption of PROTONIX Delayed-Release Tablets.
 
 PROTONIX For Delayed-Release Oral Suspension
 
-PROTONIX For Delayed-Release Oral Suspension should only be administered approximately 30 minutes prior to a meal via oral administration in apple juice or applesauce or nasogastric tube in apple juice only.
+Administer PROTONIX For Delayed-Release Oral Suspension approximately 30 minutes prior to a meal via oral administration in apple juice or applesauce or nasogastric tube in apple juice only.
 Because proper pH is necessary for stability, do not administer PROTONIX For Delayed-Release Oral Suspension in liquids other than apple juice, or foods other than applesauce.
 
 Do not divide the 40 mg PROTONIX For Delayed-Release Oral Suspension packet to create a 20 mg dosage for pediatric patients who are unable to take the tablet formulation.

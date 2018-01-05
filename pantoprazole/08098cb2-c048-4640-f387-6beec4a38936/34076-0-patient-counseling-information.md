@@ -1,20 +1,38 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Medication Guide).
+Advise the patient to read the FDA-approved patient labeling (Medication Guide and Instructions for Use).
 
-Adverse Reactions
+Gastric Malignancy
 
-- Hypersensitivity Reactions [see Contraindications (4)]
-- Acute Interstitial Nephritis [see Warnings and Precautions (5.2)]
-- Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.3)]
-- Bone Fracture [see Warnings and Precautions (5.4)]
-- Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.5)]
-- Cyanocobalamin (Vitamin B-12) Deficiency [see Warnings and Precautions (5.6)]
-- Hypomagnesemia [see Warnings and Precautions (5.7)]
+Advise patients to return to their healthcare provider if they have a suboptimal response or an early symptomatic relapse [see Warnings and Precautions (5.1)].
+
+Acute Interstitial Nephritis
+
+Advise patients to call their healthcare provider immediately if they experience signs and/or symptoms associated with acute interstitial nephritis [see Warnings and Precautions (5.2)].
+
+Clostridium difficile-Associated Diarrhea
+
+Advise patients to immediately call their healthcare provider if they experience diarrhea that does not improve [see Warnings and Precautions (5.3)].
+
+Bone Fracture
+
+Advise patients to report any fractures, especially of the hip, wrist or spine, to their healthcare provider [see Warnings and Precautions (5.4)].
+
+Cutaneous and Systemic Lupus Erythematosus
+
+Advise patients to immediately call their healthcare provider for any new or worsening of symptoms associated with cutaneous or systemic lupus erythematosus [see Warnings and Precautions (5.5)].
+
+Cyanocobalamin (Vitamin B-12) Deficiency
+
+Advise patients to report any clinical symptoms that may be associated with cyancobalamin deficiency to their healthcare provider if they have been receiving PROTONIX for longer than 3 years [see Warnings and Precautions (5.6)].
+
+Hypomagnesemia
+
+Advise patients to report any clinical symptoms that may be associated with hypomagnesemia to their healthcare provider, if they have been receiving PROTONIX for at least 3 months [see Warnings and Precautions (5.7)].
 
 Drug Interactions
 
-Instruct patients to inform their healthcare provider of any other medications they are currently taking, including rilpivirine-containing products [Contraindications (4)], high dose methotrexate [Warnings and Precautions (5.10)] and over-the-counter medications.
+Instruct patients to inform their healthcare provider of any other medications they are currently taking, including rilpivirine-containing products [see Contraindications (4)] digoxin [see Warnings and Precautions (5.7)] and high dose methotrexate [see Warnings and Precautions (5.11)].
 
 Pregnancy
 
@@ -22,9 +40,14 @@ Inform female patients of reproductive potential that PROTONIX may cause fetal h
 
 Administration
 
-- Caution patients that PROTONIX For Delayed-Release Oral Suspension and PROTONIX Delayed-Release Tablets should not be split, crushed, or chewed.
+- Do not split, crush, or chew PROTONIX For Delayed-Release Oral Suspension and PROTONIX Delayed-Release Tablets.
 - PROTONIX oral suspension packet is a fixed dose and cannot be divided to make a smaller dose.
-- Tell patients that PROTONIX Delayed-Release Tablets should be swallowed whole, with or without food in the stomach.
-- Let patients know that concomitant administration of antacids does not affect the absorption of PROTONIX Delayed-Release Tablets.
-- Advise patients to take PROTONIX For Delayed-Release Oral Suspension approximately 30 minutes before a meal.
-- Advise patients that PROTONIX For Delayed-Release Oral Suspension should only be administered in apple juice or applesauce, not in water, other liquids, or foods.
+- Swallow PROTONIX Delayed-Release Tablets whole, with or without food in the stomach.
+- Concomitant administration of antacids does not affect the absorption of PROTONIX Delayed-Release Tablets.
+- Take PROTONIX For Delayed-Release Oral Suspension approximately 30 minutes before a meal.
+- Administer PROTONIX For Delayed-Release Oral Suspension in apple juice or applesauce, as described in the Instructions for Use.
+  Do not administer in water, other liquids, or foods.
+- For patients with a nasogastric (NG) or gastrostomy tube, PROTONIX For Delayed-Release Oral Suspension can be administered with apple juice, as described in the Instructions for Use.
+- Take a missed dose as soon as possible.
+  If it is almost time for the next dose, skip the missed dose and take the next dose at the regular scheduled time.
+  Do not take 2 doses at the same time.
