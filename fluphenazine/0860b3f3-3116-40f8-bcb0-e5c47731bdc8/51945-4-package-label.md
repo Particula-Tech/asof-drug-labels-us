@@ -8,6 +8,6 @@ Fluphenazine Hydrochloride Oral Solution USP (Concentrate)
 
 For oral use only
 
-Rx ONLY R09/08
+Rx ONLY
 
-pai Pharmaceutical Associates, Inc. Greenville, SC 29605
+Pharmaceutical Associates, Inc. Greenville, SC 29605

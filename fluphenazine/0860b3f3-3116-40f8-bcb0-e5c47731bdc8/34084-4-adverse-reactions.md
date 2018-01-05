@@ -16,7 +16,7 @@ These reactions can usually be controlled by administration of antiparkinsonian 
 
 ## Tardive Dyskinesia
 
-See WARNINGS.
+(See WARNINGS).
 The syndrome is characterized by involuntary choreoathetoid movements which variously involve the tongue, face, mouth, lips, or jaw (e.g., protrusion of the tongue, puffing of cheeks, puckering of the mouth, chewing movements), trunk and extremities.
 The severity of the syndrome and the degree of impairment produced vary widely.
 

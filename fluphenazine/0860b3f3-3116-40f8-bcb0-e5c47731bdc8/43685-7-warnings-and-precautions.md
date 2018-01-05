@@ -48,6 +48,11 @@ Potentiation of the effects of alcohol may occur with the use of this drug.
 
 Since there is no adequate experience in children who have received this drug, safety and efficacy in children have not been established.
 
+## Falls
+
+Fluphenazine hydrochloride may cause somnolence, postural hypotension, motor and sensory instability, which may lead to falls and, consequently, fractures or other injuries.
+For patients with diseases, conditions, or medications that could exacerbate these effects, complete fall risk assessments when initiating antipsychotic treatment and recurrently for patients on long-term antipsychotic therapy.
+
 ## Usage In Pregnancy
 
 ### Non-teratogenic Effects
@@ -89,7 +94,7 @@ Possible risk factors for leukopenia/neutropenia include preexisting low white b
 Patients with a preexisting low WBC or a history of drug induced leukopenia/neutropenia should have their complete blood count (CBC) monitored frequently during the first few months of therapy and should discontinue Fluphenazine Hydrochloride Oral Solution USP (Concentrate) at the first sign of a decline in WBC in the absence of other causative factors.
 
 Patients with neutropenia should be carefully monitored for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur.
-Patients with severe neutropenia (absolute neutrophil count <1000/mm3) should discontinue Fluphenazine Hydrochloride Oral Solution USP (Concentrate) and have their WBC followed until recovery.
+Patients with severe neutropenia (absolute neutrophil count <1000/mm 3) should discontinue Fluphenazine Hydrochloride Oral Solution USP (Concentrate) and have their WBC followed until recovery.
 
 ## Information for Patients
 

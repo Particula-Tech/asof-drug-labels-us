@@ -1,5 +1,7 @@
 Rx Only
 
+MANUFACTURED BY
+
 Pharmaceutical Associates, Inc. Greenville, SC 29605 www.paipharma.com
 
-R08/10
+R02/17
