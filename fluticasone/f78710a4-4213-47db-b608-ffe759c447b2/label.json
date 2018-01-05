@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "NDA021077"
+  ],
+  "inn": "fluticasone",
+  "labeler": "GlaxoSmithKline LLC",
+  "package_ndcs": [
+    "58437-000-00",
+    "58437-000-01",
+    "58437-000-02",
+    "58437-001-00",
+    "58437-001-01",
+    "58437-001-02",
+    "58437-002-00",
+    "58437-002-01",
+    "58437-002-02"
+  ],
+  "products": [
+    {
+      "form": "POWDER",
+      "generic": "fluticasone propionate and salmeterol",
+      "name": "ADVAIR"
+    }
+  ],
+  "setid": "f78710a4-4213-47db-b608-ffe759c447b2",
+  "source": "dailymed"
+}
