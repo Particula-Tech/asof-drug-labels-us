@@ -1,9 +1,9 @@
 # 6 ADVERSE REACTIONS
 
-LABA, such as salmeterol, one of the active ingredients in ADVAIR DISKUS, increase the risk of asthma-related death.
-Data from a large placebo-controlled U.S. trial that compared the safety of salmeterol or placebo added to usual asthma therapy showed an increase in asthma-related deaths in subjects receiving salmeterol [see Warnings and Precautions (5.1)].
-Currently available data are inadequate to determine whether concurrent use of inhaled corticosteroids or other long-term asthma control drugs mitigates the increased risk of asthma-related death from LABA.
-Available data from controlled clinical trials suggest that LABA increase the risk of asthma-related hospitalization in pediatric and adolescent patients [see Warnings and Precautions (5.1)].
+Use of LABA may result in the following:
+
+- •Serious asthma-related events – hospitalizations, intubations, death [see Warnings and Precautions (5.1)]
+- •Cardiovascular and central nervous system effects [see Warnings and Precautions (5.12)]
 
 Systemic and local corticosteroid use may result in the following:
 
@@ -22,13 +22,13 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 Adult and Adolescent Subjects Aged 12 Years and Older
 
 The incidence of adverse reactions associated with ADVAIR DISKUS in Table 2 is based upon two 12-week, placebo-controlled, U.S. clinical trials (Trials 1 and 2).
-A total of 705 adult and adolescent subjects (349 females and 356 males) previously treated with salmeterol or inhaled corticosteroids were treated twice daily with ADVAIR DISKUS (100/50- or 250/50-mcg doses), fluticasone propionate inhalation powder (100- or 250-mcg doses), salmeterol inhalation powder 50 mcg, or placebo.
+A total of 705 adult and adolescent subjects (349 females and 356 males) previously treated with salmeterol or ICS were treated twice daily with ADVAIR DISKUS (100/50- or 250/50-mcg doses), fluticasone propionate inhalation powder (100- or 250-mcg doses), salmeterol inhalation powder 50 mcg, or placebo.
 The average duration of exposure was 60 to 79 days in the active treatment groups compared with 42 days in the placebo group.
 
 Table 2.
 Adverse Reactions with ADVAIR DISKUS with ≥3% Incidence and More Common than Placebo in Adult and Adolescent Subjects with Asthma
 
-| Adverse Event | ADVAIR DISKUS100/50(n = 92)% | ADVAIR DISKUS250/50(n = 84)% | Fluticasone Propionate100 mcg(n = 90)% | Fluticasone Propionate250 mcg(n = 84)% | Salmeterol50 mcg(n = 180)% | Placebo(n = 175)% |
+| Adverse Event | ADVAIR DISKUS 100/50(n = 92)% | ADVAIR DISKUS 250/50(n = 84)% | Fluticasone Propionate 100 mcg(n = 90)% | Fluticasone Propionate 250 mcg(n = 84)% | Salmeterol 50 mcg(n = 180)% | Placebo (n = 175)% |
 | --- | --- | --- | --- | --- | --- | --- |
 | Ear, nose, and throat |  |  |  |  |  |  |
 | Upper respiratory tract infection | 27 | 21 | 29 | 25 | 19 | 14 |
@@ -53,7 +53,7 @@ Adverse Reactions with ADVAIR DISKUS with ≥3% Incidence and More Common than P
 | Musculoskeletal |  |  |  |  |  |  |
 | Musculoskeletal pain | 4 | 2 | 1 | 5 | 3 | 3 |
 
-The types of adverse reactions and events reported in Trial 3, a 28-week non-U.S. clinical trial in 503 subjects previously treated with inhaled corticosteroids who were treated twice daily with ADVAIR DISKUS 500/50, fluticasone propionate inhalation powder 500 mcg and salmeterol inhalation powder 50 mcg used concurrently, or fluticasone propionate inhalation powder 500 mcg, were similar to those reported in Table 2.
+The types of adverse reactions and events reported in Trial 3, a 28-week, non-U.S. clinical trial in 503 subjects previously treated with ICS who were treated twice daily with ADVAIR DISKUS 500/50, fluticasone propionate inhalation powder 500 mcg and salmeterol inhalation powder 50 mcg used concurrently, or fluticasone propionate inhalation powder 500 mcg, were similar to those reported in Table 2.
 
 Additional Adverse Reactions
 
@@ -62,12 +62,12 @@ Other adverse reactions not previously listed, whether considered drug-related o
 Pediatric Subjects Aged 4 to 11 Years
 
 The safety data for pediatric subjects aged 4 to 11 years is based upon 1 U.S. trial of 12 weeks’ treatment duration.
-A total of 203 subjects (74 females and 129 males) who were receiving inhaled corticosteroids at trial entry were randomized to either ADVAIR DISKUS 100/50 or fluticasone propionate inhalation powder 100 mcg twice daily.
-Common adverse reactions (greater than or equal to 3% and greater than placebo) seen in the pediatric subjects but not reported in the adult and adolescent clinical trials include: throat irritation and ear, nose, and throat infections.
+A total of 203 subjects (74 females and 129 males) who were receiving ICS at trial entry were randomized to either ADVAIR DISKUS 100/50 or fluticasone propionate inhalation powder 100 mcg twice daily.
+Common adverse reactions (≥3% and greater than placebo) seen in the pediatric subjects but not reported in the adult and adolescent clinical trials include: throat irritation and ear, nose, and throat infections.
 
 Laboratory Test Abnormalities
 
-Elevation of hepatic enzymes was reported in greater than or equal to 1% of subjects in clinical trials.
+Elevation of hepatic enzymes was reported in ≥1% of subjects in clinical trials.
 The elevations were transient and did not lead to discontinuation from the trials.
 In addition, there were no clinically relevant changes noted in glucose or potassium.
 
@@ -79,13 +79,13 @@ The short-term safety data are based on exposure to ADVAIR DISKUS 250/50 twice d
 In the 6-month trial, a total of 723 adult subjects (266 females and 457 males) were treated twice daily with ADVAIR DISKUS 250/50, fluticasone propionate inhalation powder 250 mcg, salmeterol inhalation powder, or placebo.
 The mean age of the subjects was 64, and the majority (93%) was Caucasian.
 In this trial, 70% of the subjects treated with ADVAIR DISKUS reported an adverse reaction compared with 64% on placebo.
-The average duration of exposure to Advair Diskus 250/50 was 141.3 days compared with 131.6 days for placebo.
+The average duration of exposure to ADVAIR DISKUS 250/50 was 141.3 days compared with 131.6 days for placebo.
 The incidence of adverse reactions in the 6-month trial is shown in Table 3.
 
 Table 3.
 Overall Adverse Reactions with ADVAIR DISKUS 250/50 with ≥3% Incidence in Subjects with Chronic Obstructive Pulmonary Disease Associated with Chronic Bronchitis
 
-| Adverse Event | ADVAIR DISKUS250/50(n = 178)% | Fluticasone Propionate250 mcg(n = 183)% | Salmeterol50 mcg(n = 177)% | Placebo(n = 185)% |
+| Adverse Event | ADVAIR DISKUS 250/50(n = 178)% | Fluticasone Propionate 250 mcg(n = 183)% | Salmeterol 50 mcg(n = 177)% | Placebo (n = 185)% |
 | --- | --- | --- | --- | --- |
 | Ear, nose, and throat |  |  |  |  |
 | Candidiasis mouth/throat | 10 | 6 | 3 | 1 |
@@ -108,11 +108,11 @@ In the two 1-year trials, ADVAIR DISKUS 250/50 was compared with salmeterol in 1
 The mean age of the subjects was 65 years, and the majority (94%) was Caucasian.
 To be enrolled, all of the subjects had to have had a COPD exacerbation in the previous 12 months.
 In this trial, 88% of the subjects treated with ADVAIR DISKUS and 86% of the subjects treated with salmeterol reported an adverse event.
-The most common events that occurred with a frequency of greater than 5% and more frequently in the subjects treated with ADVAIR DISKUS were nasopharyngitis, upper respiratory tract infection, nasal congestion, back pain, sinusitis, dizziness, nausea, pneumonia, candidiasis, and dysphonia.
+The most common events that occurred with a frequency of >5% and more frequently in the subjects treated with ADVAIR DISKUS were nasopharyngitis, upper respiratory tract infection, nasal congestion, back pain, sinusitis, dizziness, nausea, pneumonia, candidiasis, and dysphonia.
 Overall, 55 (7%) of the subjects treated with ADVAIR DISKUS and 25 (3%) of the subjects treated with salmeterol developed pneumonia.
 
 The incidence of pneumonia was higher in subjects older than 65 years, 9% in the subjects treated with ADVAIR DISKUS compared with 4% in the subjects treated with ADVAIR DISKUS younger than 65 years.
-In the subjects treated with salmeterol, the incidence of pneumonia was the same (3%) in both age-groups.
+In the subjects treated with salmeterol, the incidence of pneumonia was the same (3%) in both age groups.
 [See Warnings and Precautions (5.5), Use in Specific Populations (8.5).]
 
 Long-term (3 Years) Trial

@@ -20,7 +20,7 @@ After the inhaler is activated, the powder is dispersed into the airstream creat
 
 Under standardized in vitro test conditions, ADVAIR DISKUS delivers 93, 233, and 465 mcg of fluticasone propionate and 45 mcg of salmeterol base per blister from ADVAIR DISKUS 100/50, ADVAIR DISKUS 250/50, and ADVAIR DISKUS 500/50, respectively, when tested at a flow rate of 60 L/min for 2 seconds.
 
-In adult subjects with obstructive lung disease and severely compromised lung function (mean FEV1 20% to 30% of predicted), mean peak inspiratory flow (PIF) through the DISKUS® inhaler was 82.4 L/min (range: 46.1 to 115.3 L/min).
+In adult subjects with obstructive lung disease and severely compromised lung function (mean FEV1 20% to 30% of predicted), mean peak inspiratory flow (PIF) through the DISKUS inhaler was 82.4 L/min (range: 46.1 to 115.3 L/min).
 
 Inhalation profiles for adolescent (N = 13, aged 12 to 17 years) and adult (N = 17, aged 18 to 50 years) subjects with asthma inhaling maximally through the DISKUS inhaler show mean PIF of 122.2 L/min (range: 81.6 to 152.1 L/min).
 Inhalation profiles for pediatric subjects with asthma inhaling maximally through the DISKUS inhaler show a mean PIF of 75.5 L/min (range: 49.0 to 104.8 L/min) for the 4-year-old subject set (N = 20) and 107.3 L/min (range: 82.8 to 125.6 L/min) for the 8-year-old subject set (N = 20).

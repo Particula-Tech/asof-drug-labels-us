@@ -9,7 +9,7 @@ Cardiac monitoring is recommended in cases of overdosage.
 
 ## 10.1 Fluticasone Propionate
 
-Chronic overdosage of fluticasone propionate may result in signs/symptoms of hypercorticism [see Warnings and Precautions (5.7)].
+Chronic overdosage of fluticasone propionate may result in signs/symptoms of hypercorticism [see Warnings and Precautions (5.8)].
 Inhalation by healthy volunteers of a single dose of 4,000 mcg of fluticasone propionate inhalation powder or single doses of 1,760 or 3,520 mcg of fluticasone propionate CFC inhalation aerosol was well tolerated.
 Fluticasone propionate given by inhalation aerosol at dosages of 1,320 mcg twice daily for 7 to 15 days to healthy human volunteers was also well tolerated.
 Repeat oral doses up to 80 mg daily for 10 days in healthy volunteers and repeat oral doses up to 20 mg daily for 42 days in subjects were well tolerated.

@@ -1,11 +1,11 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Medication Guide and Instructions for Use).
+Advise the patient to read the FDA-approved patient labeling (Patient Information and Instructions for Use).
 
-Asthma-Related Death
+Serious Asthma-Related Events
 
-Inform patients with asthma that salmeterol, one of the active ingredients in ADVAIR DISKUS, increases the risk of asthma-related death and may increase the risk of asthma-related hospitalization in pediatric and adolescent patients.
-Also inform them that currently available data are inadequate to determine whether concurrent use of inhaled corticosteroids or other long-term asthma control drugs mitigates the increased risk of asthma-related death from LABA.
+Inform patients with asthma that LABA when used alone increases the risk of asthma-related hospitalization or asthma-related death.
+Available data show that when ICS and LABA are used together, such as with ADVAIR DISKUS, there is not a significant increase in the risk of these events.
 
 Not for Acute Symptoms
 
@@ -63,19 +63,18 @@ Physicians should closely follow the growth of children and adolescents taking c
 
 Ocular Effects
 
-Inform patients that long-term use of inhaled corticosteroids may increase the risk of some eye problems (cataracts or glaucoma); consider regular eye examinations.
+Inform patients that long-term use of ICS may increase the risk of some eye problems (cataracts or glaucoma); consider regular eye examinations.
 
 Risks Associated with Beta-agonist Therapy
 
 Inform patients of adverse effects associated with beta2-agonists, such as palpitations, chest pain, rapid heart rate, tremor, or nervousness.
 
-ADVAIR, ADVAIR DISKUS, DISKHALER, DISKUS, FLONASE, FLOVENT, ROTADISK, and VENTOLIN are registered trademarks of the GSK group of companies.
+Trademarks are owned by or licensed to the GSK group of companies.
 
 GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2017 the GSK group of companies.
-All rights reserved.
+©2017 GSK group of companies or its licensor.
 
-ADD:14PI
+ADD:15PI

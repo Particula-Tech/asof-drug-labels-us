@@ -1,60 +1,56 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Asthma-Related Death
+## 5.1 Serious Asthma-Related Events – Hospitalizations, Intubations, Death
 
-LABA, such as salmeterol, one of the active ingredients in ADVAIR DISKUS, increase the risk of asthma-related death.
-Currently available data are inadequate to determine whether concurrent use of inhaled corticosteroids or other long-term asthma control drugs mitigates the increased risk of asthma-related death from LABA.
-Available data from controlled clinical trials suggest that LABA increase the risk of asthma-related hospitalization in pediatric and adolescent patients.
-Therefore, when treating patients with asthma, physicians should only prescribe ADVAIR DISKUS for patients not adequately controlled on a long-term asthma control medication, such as an inhaled corticosteroid, or whose disease severity clearly warrants initiation of treatment with both an inhaled corticosteroid and a LABA.
-Once asthma control is achieved and maintained, assess the patient at regular intervals and step down therapy (e.g., discontinue ADVAIR DISKUS) if possible without loss of asthma control and maintain the patient on a long-term asthma control medication, such as an inhaled corticosteroid.
-Do not use ADVAIR DISKUS for patients whose asthma is adequately controlled on low- or medium-dose inhaled corticosteroids.
+Use of LABA as monotherapy (without ICS) for asthma is associated with an increased risk of asthma-related death [see Salmeterol Multicenter Asthma Research Trial (SMART)].
+Available data from controlled clinical trials also suggest that use of LABA as monotherapy increases the risk of asthma-related hospitalization in pediatric and adolescent patients.
+These findings are considered a class effect of LABA monotherapy.
+When LABA are used in fixed-dose combination with ICS, data from large clinical trials do not show a significant increase in the risk of serious asthma-related events (hospitalizations, intubations, death) compared with ICS alone (see Serious Asthma-Related Events with Inhaled Corticosteroid/Long-acting Beta2-adrenergic Agonists).
 
-A large placebo-controlled U.S. trial that compared the safety of salmeterol with placebo, each added to usual asthma therapy, showed an increase in asthma-related deaths in subjects receiving salmeterol.
-The Salmeterol Multicenter Asthma Research Trial (SMART) was a randomized double-blind trial that enrolled LABA-naive subjects with asthma to assess the safety of salmeterol 42 mcg twice daily over 28 weeks compared with placebo when added to usual asthma therapy.
-A planned interim analysis was conducted when approximately half of the intended number of subjects had been enrolled (N = 26,355), which led to premature termination of the trial.
-The results of the interim analysis showed that subjects receiving salmeterol were at increased risk for fatal asthma events (Table 1 and Figure 1).
-In the total population, a higher rate of asthma-related death occurred in subjects treated with salmeterol than those treated with placebo (0.10% versus 0.02%; relative risk: 4.37 [95% CI: 1.25, 15.34]).
+Serious Asthma-Related Events with Inhaled Corticosteroid/Long-acting Beta2-adrenergic Agonists
 
-Post hoc subpopulation analyses were performed.
-In Caucasians, asthma-related death occurred at a higher rate in subjects treated with salmeterol than in subjects treated with placebo (0.07% versus 0.01%; relative risk: 5.82 [95% CI: 0.70, 48.37]).
-In African Americans also, asthma-related death occurred at a higher rate in subjects treated with salmeterol than those treated with placebo (0.31% versus 0.04%; relative risk: 7.26 [95% CI: 0.89, 58.94]).
-Although the relative risks of asthma-related death were similar in Caucasians and African Americans, the estimate of excess deaths in subjects treated with salmeterol was greater in African Americans because there was a higher overall rate of asthma-related death in African American subjects (Table 1).
-Given the similar basic mechanisms of action of beta2-agonists, the findings seen in the SMART trial are considered a class effect.
+Four (4) large, 26-week, randomized, double-blind, active-controlled clinical safety trials were conducted to evaluate the risk of serious asthma-related events when LABA were used in fixed-dose combination with ICS compared with ICS alone in subjects with asthma.
+Three (3) trials included adult and adolescent subjects aged 12 years and older: 1 trial compared fluticasone propionate/salmeterol inhalation powder (ADVAIR DISKUS) with fluticasone propionate inhalation powder [see Clinical Studies (14.1)], 1 trial compared mometasone furoate/formoterol with mometasone furoate, and 1 trial compared budesonide/formoterol with budesonide.
+The fourth trial included pediatric subjects aged 4 to 11 years and compared fluticasone propionate/salmeterol inhalation powder with fluticasone propionate inhalation powder [see Clinical Studies (14.1)].
+The primary safety endpoint for all 4 trials was serious asthma-related events (hospitalizations, intubations, death).
+A blinded adjudication committee determined whether events were asthma related.
 
-Post hoc analyses in pediatric subjects aged 12 to 18 years were also performed.
-Pediatric subjects accounted for approximately 12% of subjects in each treatment arm.
-Respiratory-related death or life-threatening experience occurred at a similar rate in the salmeterol group (0.12% [2/1,653]) and the placebo group (0.12% [2/1,622]; relative risk: 1.0 [95% CI: 0.1, 7.2]).
-All-cause hospitalization, however, was increased in the salmeterol group (2% [35/1,653]) versus the placebo group (less than 1% [16/1,622]; relative risk: 2.1 [95% CI: 1.1, 3.7]).
-
-The data from the SMART trial are not adequate to determine whether concurrent use of inhaled corticosteroids, such as fluticasone propionate, the other active ingredient in ADVAIR DISKUS, or other long-term asthma control therapy mitigates the risk of asthma-related death.
+The 3 adult and adolescent trials were designed to rule out a risk margin of 2.0, and the pediatric trial was designed to rule out a risk margin of 2.7.
+Each individual trial met its pre-specified objective and demonstrated non-inferiority of ICS/LABA to ICS alone.
+A meta-analysis of the 3 adult and adolescent trials did not show a significant increase in risk of a serious asthma-related event with ICS/LABA fixed-dose combination compared with ICS alone (1).
+These trials were not designed to rule out all risk for serious asthma-related events with ICS/LABA compared with ICS.
 
 Table 1.
-Asthma-Related Deaths in the 28-Week Salmeterol Multicenter Asthma Research Trial (SMART)
+Meta-analysis of Serious Asthma-Related Events in Subjects with Asthma Aged 12 Years and Older
 
-|  | Salmeteroln (%a) | Placebon (%a) | Relative Riskb(95% Confidence Interval) | Excess Deaths Expressed per 10,000 Subjectsc(95% Confidence Interval) |
-| --- | --- | --- | --- | --- |
-| Total populationd |  |  |  |  |
-| Salmeterol: n = 13,176 | 13 (0.10%) |  | 4.37 (1.25, 15.34) | 8 (3, 13) |
-| Placebo: n = 13,179 |  | 3 (0.02%) |  |  |
-| Caucasian |  |  |  |  |
-| Salmeterol: n = 9,281 | 6 (0.07%) |  | 5.82 (0.70, 48.37) | 6 (1, 10) |
-| Placebo: n = 9,361 |  | 1 (0.01%) |  |  |
-| African American |  |  |  |  |
-| Salmeterol: n = 2,366 | 7 (0.31%) |  | 7.26 (0.89, 58.94) | 27 (8, 46) |
-| Placebo: n = 2,319 |  | 1 (0.04%) |  |  |
-| aLife-table 28-week estimate, adjusted according to the subjects’ actual lengths of exposure to trial treatment to account for early withdrawal of subjects from the trial. |  |  |  |  |
-| bRelative risk is the ratio of the rate of asthma-related death in the salmeterol group and the rate in the placebo group. The relative risk indicates how many more times likely an asthma-related death occurred in the salmeterol group than in the placebo group in a 28-week treatment period. |  |  |  |  |
-| cEstimate of the number of additional asthma-related deaths in subjects treated with salmeterol in SMART, assuming 10,000 subjects received salmeterol for a 28-week treatment period. Estimate calculated as the difference between the salmeterol and placebo groups in the rates of asthma-related death multiplied by 10,000. |  |  |  |  |
-| dThe total population includes the following ethnic origins listed on the case report form: Caucasian, African American, Hispanic, Asian, and “Other.” In addition, the total population includes those subjects whose ethnic origin was not reported. The results for Caucasian and African American subpopulations are shown above. No asthma-related deaths occurred in the Hispanic (salmeterol n = 996, placebo n = 999), Asian (salmeterol n = 173, placebo n = 149), or “Other” (salmeterol n = 230, placebo n = 224) subpopulations. One asthma-related death occurred in the placebo group in the subpopulation whose ethnic origin was not reported (salmeterol n = 130, placebo n = 127). |  |  |  |  |
+|  | ICS/LABA(n = 17,537)a | ICS(n = 17,552)a | ICS/LABA vs. ICSHazard Ratio (95% CI)b |
+| --- | --- | --- | --- |
+| Serious asthma-related eventc | 116 | 105 | 1.10 (0.85, 1.44) |
+| Asthma-related death | 2 | 0 |  |
+| Asthma-related intubation (endotracheal) | 1 | 2 |  |
+| Asthma-related hospitalization (≥24-hour stay) | 115 | 105 |  |
 
-Figure 1.
-Cumulative Incidence of Asthma-Related Deaths in the 28-Week Salmeterol Multicenter Asthma Research Trial (SMART), by Duration of Treatment
+ICS = Inhaled Corticosteroid, LABA = Long-acting Beta2-adrenergic Agonist.
 
-A 16-week clinical trial performed in the United Kingdom, the Salmeterol Nationwide Surveillance (SNS) trial, showed results similar to the SMART trial.
-In the SNS trial, the rate of asthma-related death was numerically, though not statistically significantly, greater in subjects with asthma treated with salmeterol (42 mcg twice daily) than those treated with albuterol (180 mcg 4 times daily) added to usual asthma therapy.
+a Randomized subjects who had taken at least 1 dose of study drug.
+Planned treatment used for analysis.
 
-The SNS and SMART trials enrolled subjects with asthma.
-No trials have been conducted that were primarily designed to determine whether the rate of death in patients with COPD is increased by LABA.
+b Estimated using a Cox proportional hazards model for time to first event with baseline hazards stratified by each of the 3 trials.
+
+c Number of subjects with event that occurred within 6 months after the first use of study drug or 7 days after the last date of study drug, whichever date was later.
+Subjects can have one or more events, but only the first event was counted for analysis.
+A single, blinded, independent adjudication committee determined whether events were asthma related.
+
+The pediatric safety trial included 6,208 pediatric subjects aged 4 to 11 years who received ICS/LABA (fluticasone propionate/salmeterol inhalation powder) or ICS (fluticasone propionate inhalation powder).
+In this trial, 27/3,107 (0.9%) subjects randomized to ICS/LABA and 21/3,101 (0.7%) subjects randomized to ICS experienced a serious asthma-related event.
+There were no asthma-related deaths or intubations.
+ICS/LABA did not show a significantly increased risk of a serious asthma-related event compared with ICS based on the pre-specified risk margin (2.7), with an estimated hazard ratio of time to first event of 1.29 (95% CI: 0.73, 2.27).
+
+Salmeterol Multicenter Asthma Research Trial (SMART)
+
+A 28-week, placebo-controlled, U.S. trial that compared the safety of salmeterol with placebo, each added to usual asthma therapy, showed an increase in asthma-related deaths in subjects receiving salmeterol (13/13,176 in subjects treated with salmeterol versus 3/13,179 in subjects treated with placebo; relative risk: 4.37 [95% CI: 1.25, 15.34]).
+Use of background ICS was not required in SMART.
+The increased risk of asthma-related death is considered a class effect of LABA monotherapy.
 
 ## 5.2 Deterioration of Disease and Acute Episodes
 
@@ -68,7 +64,7 @@ However, these events have occurred in a few patients with less severe asthma as
 It was not possible from these reports to determine whether salmeterol contributed to these events.
 
 Increasing use of inhaled, short-acting beta2-agonists is a marker of deteriorating asthma.
-In this situation, the patient requires immediate reevaluation with reassessment of the treatment regimen, giving special consideration to the possible need for replacing the current strength of ADVAIR DISKUS with a higher strength, adding additional inhaled corticosteroid, or initiating systemic corticosteroids.
+In this situation, the patient requires immediate reevaluation with reassessment of the treatment regimen, giving special consideration to the possible need for replacing the current strength of ADVAIR DISKUS with a higher strength, adding additional ICS, or initiating systemic corticosteroids.
 Patients should not use more than 1 inhalation twice daily of ADVAIR DISKUS.
 
 ADVAIR DISKUS should not be used for the relief of acute symptoms, i.e., as rescue therapy for the treatment of acute episodes of bronchospasm.
@@ -114,11 +110,11 @@ If a patient is exposed to measles, prophylaxis with pooled intramuscular immuno
 (See the respective package inserts for complete VZIG and IG prescribing information.)
 If chickenpox develops, treatment with antiviral agents may be considered.
 
-Inhaled corticosteroids should be used with caution, if at all, in patients with active or quiescent tuberculosis infections of the respiratory tract; systemic fungal, bacterial, viral, or parasitic infections; or ocular herpes simplex.
+ICS should be used with caution, if at all, in patients with active or quiescent tuberculosis infections of the respiratory tract; systemic fungal, bacterial, viral, or parasitic infections; or ocular herpes simplex.
 
 ## 5.7 Transferring Patients from Systemic Corticosteroid Therapy
 
-Particular care is needed for patients who have been transferred from systemically active corticosteroids to inhaled corticosteroids because deaths due to adrenal insufficiency have occurred in patients with asthma during and after transfer from systemic corticosteroids to less systemically available inhaled corticosteroids.
+Particular care is needed for patients who have been transferred from systemically active corticosteroids to ICS because deaths due to adrenal insufficiency have occurred in patients with asthma during and after transfer from systemic corticosteroids to less systemically available ICS.
 After withdrawal from systemic corticosteroids, a number of months are required for recovery of hypothalamic-pituitary-adrenal (HPA) function.
 
 Patients who have been previously maintained on 20 mg or more of prednisone (or its equivalent) may be most susceptible, particularly when their systemic corticosteroids have been almost completely withdrawn.
@@ -144,7 +140,7 @@ Since fluticasone propionate is absorbed into the circulation and can be systemi
 A relationship between plasma levels of fluticasone propionate and inhibitory effects on stimulated cortisol production has been shown after 4 weeks of treatment with fluticasone propionate inhalation aerosol.
 Since individual sensitivity to effects on cortisol production exists, physicians should consider this information when prescribing ADVAIR DISKUS.
 
-Because of the possibility of significant systemic absorption of inhaled corticosteroids in sensitive patients, patients treated with ADVAIR DISKUS should be observed carefully for any evidence of systemic corticosteroid effects.
+Because of the possibility of significant systemic absorption of ICS in sensitive patients, patients treated with ADVAIR DISKUS should be observed carefully for any evidence of systemic corticosteroid effects.
 Particular care should be taken in observing patients postoperatively or during periods of stress for evidence of inadequate adrenal response.
 
 It is possible that systemic corticosteroid effects such as hypercorticism and adrenal suppression (including adrenal crisis) may appear in a small number of patients who are sensitive to these effects.
@@ -167,7 +163,7 @@ There have been reports of anaphylactic reactions in patients with severe milk p
 
 ## 5.12 Cardiovascular and Central Nervous System Effects
 
-Excessive beta-adrenergic stimulation has been associated with seizures, angina, hypertension or hypotension, tachycardia with rates up to 200 beats/min, arrhythmias, nervousness, headache, tremor, palpitation, nausea, dizziness, fatigue, malaise, and insomnia [see Overdosage (10)].
+Excessive beta-adrenergic stimulation has been associated with seizures, angina, hypertension or hypotension, tachycardia with rates up to 200 beats/min, arrhythmias, nervousness, headache, tremor, palpitation, nausea, dizziness, fatigue, malaise, and insomnia [see Overdosage (10.2)].
 Therefore, ADVAIR DISKUS, like all products containing sympathomimetic amines, should be used with caution in patients with cardiovascular disorders, especially coronary insufficiency, cardiac arrhythmias, and hypertension.
 
 Salmeterol, a component of ADVAIR DISKUS, can produce a clinically significant cardiovascular effect in some patients as measured by pulse rate, blood pressure, and/or symptoms.
@@ -179,7 +175,7 @@ Fatalities have been reported in association with excessive use of inhaled sympa
 
 ## 5.13 Reduction in Bone Mineral Density
 
-Decreases in bone mineral density (BMD) have been observed with long-term administration of products containing inhaled corticosteroids.
+Decreases in bone mineral density (BMD) have been observed with long-term administration of products containing ICS.
 The clinical significance of small changes in BMD with regard to long-term consequences such as fracture is unknown.
 Patients with major risk factors for decreased bone mineral content, such as prolonged immobilization, family history of osteoporosis, postmenopausal status, tobacco use, advanced age, poor nutrition, or chronic use of drugs that can reduce bone mass (e.g., anticonvulsants, oral corticosteroids), should be monitored and treated with established standards of care.
 Since patients with COPD often have multiple risk factors for reduced BMD, assessment of BMD is recommended prior to initiating ADVAIR DISKUS and periodically thereafter.
@@ -187,7 +183,7 @@ If significant reductions in BMD are seen and ADVAIR DISKUS is still considered 
 
 2-Year Fluticasone Propionate Trial
 
-A 2-year trial in 160 subjects (females aged 18 to 40 years, males 18 to 50) with asthma receiving CFC-propelled fluticasone propionate inhalation aerosol 88 or 440 mcg twice daily demonstrated no statistically significant changes in BMD at any time point (24, 52, 76, and 104 weeks of double-blind treatment) as assessed by dual-energy x-ray absorptiometry at lumbar regions L1 through L4.
+A 2-year trial in 160 subjects (females aged 18 to 40 years, males 18 to 50) with asthma receiving chlorofluorocarbon (CFC)-propelled fluticasone propionate inhalation aerosol 88 or 440 mcg twice daily demonstrated no statistically significant changes in BMD at any time point (24, 52, 76, and 104 weeks of double-blind treatment) as assessed by dual-energy x-ray absorptiometry at lumbar regions L1 through L4.
 
 3-Year Bone Mineral Density Trial
 
@@ -203,7 +199,7 @@ None of the non-traumatic fractures occurred in the vertebrae, hip, or long bone
 
 Effects of treatment with ADVAIR DISKUS 500/50, fluticasone propionate 500 mcg, salmeterol 50 mcg, or placebo on BMD was evaluated in a subset of 658 subjects (females and males aged 40 to 80 years) with COPD in the 3-year survival trial.
 BMD evaluations were conducted at baseline and at 48, 108, and 158 weeks.
-Conclusions cannot be drawn from this trial because of the large number of dropouts (greater than 50%) before the end of the follow-up and the maldistribution of covariates among the treatment groups that can affect BMD.
+Conclusions cannot be drawn from this trial because of the large number of dropouts (>50%) before the end of the follow-up and the maldistribution of covariates among the treatment groups that can affect BMD.
 
 Fracture risk was estimated for the entire population of subjects with COPD in the survival trial (N = 6,184).
 The probability of a fracture over 3 years was 6.3% for ADVAIR DISKUS, 5.4% for fluticasone propionate, 5.1% for salmeterol, and 5.1% for placebo.
@@ -216,7 +212,7 @@ To minimize the systemic effects of orally inhaled corticosteroids, including AD
 
 ## 5.15 Glaucoma and Cataracts
 
-Glaucoma, increased intraocular pressure, and cataracts have been reported in patients with asthma and COPD following the long-term administration of inhaled corticosteroids, including fluticasone propionate, a component of ADVAIR DISKUS.
+Glaucoma, increased intraocular pressure, and cataracts have been reported in patients with asthma and COPD following the long-term administration of ICS, including fluticasone propionate, a component of ADVAIR DISKUS.
 Therefore, close monitoring is warranted in patients with a change in vision or with a history of increased intraocular pressure, glaucoma, and/or cataracts.
 
 Effects of treatment with ADVAIR DISKUS 500/50, fluticasone propionate 500 mcg, salmeterol 50 mcg, or placebo on development of cataracts or glaucoma was evaluated in a subset of 658 subjects with COPD in the 3-year survival trial.
@@ -229,7 +225,7 @@ The incidence of newly diagnosed glaucoma was 2% with ADVAIR DISKUS 500/50, 5% w
 In rare cases, patients on inhaled fluticasone propionate, a component of ADVAIR DISKUS, may present with systemic eosinophilic conditions.
 Some of these patients have clinical features of vasculitis consistent with Churg-Strauss syndrome, a condition that is often treated with systemic corticosteroid therapy.
 These events usually, but not always, have been associated with the reduction and/or withdrawal of oral corticosteroid therapy following the introduction of fluticasone propionate.
-Cases of serious eosinophilic conditions have also been reported with other inhaled corticosteroids in this clinical setting.
+Cases of serious eosinophilic conditions have also been reported with other ICS in this clinical setting.
 Physicians should be alert to eosinophilia, vasculitic rash, worsening pulmonary symptoms, cardiac complications, and/or neuropathy presenting in their patients.
 A causal relationship between fluticasone propionate and these underlying conditions has not been established.
 

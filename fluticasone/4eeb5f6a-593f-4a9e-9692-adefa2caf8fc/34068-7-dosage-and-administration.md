@@ -15,7 +15,7 @@ Adult and Adolescent Patients Aged 12 Years and Older
 
 For patients aged 12 years and older, the dosage is 1 inhalation twice daily, approximately 12 hours apart.
 
-The recommended starting dosages for ADVAIR DISKUS for patients aged 12 years and older are based upon patients’ asthma severity.
+When choosing the starting dosage strength of ADVAIR DISKUS, consider the patients’ disease severity, based on their previous asthma therapy, including the ICS dosage, as well as the patients’ current control of asthma symptoms and risk of future exacerbation.
 
 The maximum recommended dosage is ADVAIR DISKUS 500/50 twice daily.
 
@@ -24,11 +24,11 @@ Individual patients will experience a variable time to onset and degree of sympt
 
 For patients who do not respond adequately to the starting dosage after 2 weeks of therapy, replacing the current strength of ADVAIR DISKUS with a higher strength may provide additional improvement in asthma control.
 
-If a previously effective dosage regimen fails to provide adequate improvement in asthma control, the therapeutic regimen should be reevaluated and additional therapeutic options (e.g., replacing the current strength of ADVAIR DISKUS with a higher strength, adding additional inhaled corticosteroid, initiating oral corticosteroids) should be considered.
+If a previously effective dosage regimen fails to provide adequate improvement in asthma control, the therapeutic regimen should be reevaluated and additional therapeutic options (e.g., replacing the current strength of ADVAIR DISKUS with a higher strength, adding additional ICS, initiating oral corticosteroids) should be considered.
 
 Pediatric Patients Aged 4 to 11 Years
 
-For patients with asthma aged 4 to 11 years who are not controlled on an inhaled corticosteroid, the dosage is 1 inhalation of ADVAIR DISKUS 100/50 twice daily, approximately 12 hours apart.
+For patients with asthma aged 4 to 11 years who are not controlled on an ICS, the dosage is 1 inhalation of ADVAIR DISKUS 100/50 twice daily, approximately 12 hours apart.
 
 ## 2.2 Chronic Obstructive Pulmonary Disease
 
