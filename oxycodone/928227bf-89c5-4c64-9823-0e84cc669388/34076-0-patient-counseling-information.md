@@ -54,11 +54,11 @@ Disposal of Unused Oxycodone Hydrochloride Tablets Advise patients to dispose of
 
 Mallinckrodt, the “M” brand mark, the Mallinckrodt Pharmaceuticals logo and M are trademarks of a Mallinckrodt company. © 2017 Mallinckrodt.
 
-Mallinckrodt Inc. Hazelwood, MO 63042 USA
+SpecGx LLC Webster Groves, MO 63119 USA
 
 To request medical information or to report suspected adverse reactions, contact Mallinckrodt at 1‑800‑778‑7898.
 
-Rev 04/2017
+Rev 07/2017
 
 MallinckrodtTM Pharmaceuticals
 
