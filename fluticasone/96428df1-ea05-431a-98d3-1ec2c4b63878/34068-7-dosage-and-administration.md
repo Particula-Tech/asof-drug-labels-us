@@ -20,18 +20,17 @@ If shortness of breath occurs in the period between doses, an inhaled, short-act
 
 ## 2.2 Asthma
 
-If asthma symptoms arise in the period between doses, an inhaled, short-acting beta2-agonist (rescue medicine, e.g., albuterol) should be taken for immediate relief.
-
 The recommended starting dosage is BREO ELLIPTA 100/25 or BREO ELLIPTA 200/25 administered as 1 inhalation once daily.
-The maximum recommended dosage is 1 inhalation of BREO ELLIPTA 200/25 once daily.
 
-The starting dosage is based on patients’ asthma severity.
-For patients previously treated with low- to mid-dose corticosteroid-containing treatment, BREO ELLIPTA 100/25 should be considered.
-For patients previously treated with mid- to high-dose corticosteroid-containing treatment, BREO ELLIPTA 200/25 should be considered.
+When choosing the starting dosage strength of BREO ELLIPTA, consider the patients’ disease severity, based on their previous asthma therapy, including the ICS dosage, as well as the patients’ current control of asthma symptoms and risk of future exacerbation.
+
+The maximum recommended dosage is 1 inhalation of BREO ELLIPTA 200/25 once daily.
 
 The median time to onset, defined as a 100-mL increase from baseline in mean forced expiratory volume in 1 second (FEV1), was approximately 15 minutes after beginning treatment.
 Individual patients will experience a variable time to onset and degree of symptom relief.
 
 For patients who do not respond adequately to BREO ELLIPTA 100/25, increasing the dose to BREO ELLIPTA 200/25 may provide additional improvement in asthma control.
 
-If a previously effective dosage regimen of BREO ELLIPTA fails to provide adequate improvement in asthma control, the therapeutic regimen should be reevaluated and additional therapeutic options (e.g., replacing the current strength of BREO ELLIPTA with a higher strength, adding additional inhaled corticosteroid, initiating oral corticosteroids) should be considered.
+If asthma symptoms arise in the period between doses, an inhaled, short-acting beta2-agonist (rescue medicine, e.g., albuterol) should be taken for immediate relief.
+
+If a previously effective dosage regimen of BREO ELLIPTA fails to provide adequate improvement in asthma control, the therapeutic regimen should be reevaluated and additional therapeutic options (e.g., replacing the current strength of BREO ELLIPTA with a higher strength, adding additional ICS, initiating oral corticosteroids) should be considered.

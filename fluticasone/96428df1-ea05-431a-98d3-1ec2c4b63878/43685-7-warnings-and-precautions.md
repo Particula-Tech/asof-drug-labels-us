@@ -1,17 +1,56 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Asthma-Related Death
+## 5.1 Serious Asthma-Related Events – Hospitalizations, Intubations, Death
 
-LABA, such as vilanterol, one of the active ingredients in BREO ELLIPTA, increase the risk of asthma-related death.
-Currently available data are inadequate to determine whether concurrent use of inhaled corticosteroids or other long-term asthma control drugs mitigates the increased risk of asthma-related death from LABA.
-Available data from controlled clinical trials suggest that LABA increase the risk of asthma-related hospitalization in pediatric and adolescent patients.
-Therefore, when treating patients with asthma, physicians should only prescribe BREO ELLIPTA for patients not adequately controlled on a long-term asthma control medication, such as an inhaled corticosteroid, or whose disease severity clearly warrants initiation of treatment with both an inhaled corticosteroid and a LABA.
-Once asthma control is achieved and maintained, assess the patient at regular intervals and step down therapy (e.g., discontinue BREO ELLIPTA) if possible without loss of asthma control and maintain the patient on a long-term asthma control medication, such as an inhaled corticosteroid.
-Do not use BREO ELLIPTA for patients whose asthma is adequately controlled on low- or medium-dose inhaled corticosteroids.
+Use of LABA as monotherapy (without ICS) for asthma is associated with an increased risk of asthma-related death [see Salmeterol Multicenter Asthma Research Trial (SMART)].
+Available data from controlled clinical trials also suggest that use of LABA as monotherapy increases the risk of asthma-related hospitalization in pediatric and adolescent patients.
+These findings are considered a class effect of LABA monotherapy.
+When LABA are used in fixed-dose combination with ICS, data from large clinical trials do not show a significant increase in the risk of serious asthma‑related events (hospitalizations, intubations, death) compared with ICS alone (see Serious Asthma-Related Events with Inhaled Corticosteroid/Long-acting Beta2-adrenergic Agonists).
 
-A 28-week, placebo-controlled, US trial that compared the safety of another LABA (salmeterol) with placebo, each added to usual asthma therapy, showed an increase in asthma-related deaths in subjects receiving salmeterol (13/13,176 in subjects treated with salmeterol vs. 3/13,179 in subjects treated with placebo; relative risk: 4.37 [95% CI: 1.25, 15.34]).
-The increased risk of asthma-related death is considered a class effect of LABA, including vilanterol, one of the active ingredients in BREO ELLIPTA.
-No trial adequate to determine whether the rate of asthma-related death is increased in subjects treated with BREO ELLIPTA has been conducted.
+Serious Asthma-Related Events with Inhaled Corticosteroid/Long-acting Beta2-adrenergic Agonists
+
+Four (4) large, 26-week, randomized, double-blind, active-controlled clinical safety trials were conducted to evaluate the risk of serious asthma-related events when LABA were used in fixed‑dose combination with ICS compared with ICS alone in subjects with asthma.
+Three (3) trials included adult and adolescent subjects aged 12 years and older: 1 trial compared budesonide/formoterol with budesonide, 1 trial compared fluticasone propionate/salmeterol inhalation powder with fluticasone propionate inhalation powder, and 1 trial compared mometasone furoate/formoterol with mometasone furoate.
+The fourth trial included pediatric subjects aged 4 to 11 years and compared fluticasone propionate/salmeterol inhalation powder with fluticasone propionate inhalation powder.
+The primary safety endpoint for all 4 trials was serious asthma-related events (hospitalizations, intubations, death).
+A blinded adjudication committee determined whether events were asthma related.
+
+The 3 adult and adolescent trials were designed to rule out a risk margin of 2.0, and the pediatric trial was designed to rule out a risk margin of 2.7.
+Each individual trial met its pre-specified objective and demonstrated non-inferiority of ICS/LABA to ICS alone.
+A meta-analysis of the 3 adult and adolescent trials did not show a significant increase in risk of a serious asthma-related event with ICS/LABA fixed-dose combination compared with ICS alone (Table 1).
+These trials were not designed to rule out all risk for serious asthma-related events with ICS/LABA compared with ICS.
+
+Table 1.
+Meta-analysis of Serious Asthma-Related Events in Subjects with Asthma Aged 12 Years and Older
+
+|  | ICS/LABA(n = 17,537)a | ICS(n = 17,552)a | ICS/LABA vs. ICSHazard Ratio (95% CI)b |
+| --- | --- | --- | --- |
+| Serious asthma-related eventc | 116 | 105 | 1.10 (0.85, 1.44) |
+| Asthma-related death | 2 | 0 |  |
+| Asthma-related intubation (endotracheal) | 1 | 2 |  |
+| Asthma-related hospitalization (≥24-hour stay) | 115 | 105 |  |
+
+ICS = Inhaled Corticosteroid, LABA = Long-acting Beta2-adrenergic Agonist.
+
+a Randomized subjects who had taken at least 1 dose of study drug.
+Planned treatment used for analysis.
+
+b Estimated using a Cox proportional hazards model for time to first event with baseline hazards stratified by each of the 3 trials.
+
+c Number of subjects with event that occurred within 6 months after the first use of study drug or 7 days after the last date of study drug, whichever date was later.
+Subjects can have one or more events, but only the first event was counted for analysis.
+A single, blinded, independent adjudication committee determined whether events were asthma related.
+
+The pediatric safety trial included 6,208 pediatric subjects aged 4 to 11 years who received ICS/LABA (fluticasone propionate/salmeterol inhalation powder) or ICS (fluticasone propionate inhalation powder).
+In this trial, 27/3,107 (0.9%) subjects randomized to ICS/LABA and 21/3,101 (0.7%) subjects randomized to ICS experienced a serious asthma-related event.
+There were no asthma-related deaths or intubations.
+ICS/LABA did not show a significantly increased risk of a serious asthma-related event compared with ICS based on the pre-specified risk margin (2.7), with an estimated hazard ratio of time to first event of 1.29 (95% CI: 0.73, 2.27).
+
+Salmeterol Multicenter Asthma Research Trial (SMART)
+
+A 28-week, placebo-controlled, U.S. trial that compared the safety of salmeterol with placebo, each added to usual asthma therapy, showed an increase in asthma-related deaths in subjects receiving salmeterol (13/13,176 in subjects treated with salmeterol versus 3/13,179 in subjects treated with placebo; relative risk: 4.37 [95% CI: 1.25, 15.34]).
+Use of background ICS was not required in SMART.
+The increased risk of asthma-related death is considered a class effect of LABA monotherapy.
 
 ## 5.2 Deterioration of Disease and Acute Episodes
 
@@ -25,7 +64,7 @@ In this setting a reevaluation of the patient and the COPD treatment regimen sho
 For COPD, increasing the daily dose of BREO ELLIPTA 100/25 is not appropriate in this situation.
 
 Increasing use of inhaled, short-acting beta2-agonists is a marker of deteriorating asthma.
-In this situation, the patient requires immediate reevaluation with reassessment of the treatment regimen, giving special consideration to the possible need for replacing the current strength of BREO ELLIPTA with a higher strength, adding additional inhaled corticosteroid, or initiating systemic corticosteroids.
+In this situation, the patient requires immediate reevaluation with reassessment of the treatment regimen, giving special consideration to the possible need for replacing the current strength of BREO ELLIPTA with a higher strength, adding additional ICS, or initiating systemic corticosteroids.
 Patients should not use more than 1 inhalation once daily of BREO ELLIPTA.
 
 BREO ELLIPTA should not be used for the relief of acute symptoms, i.e., as rescue therapy for the treatment of acute episodes of bronchospasm.
@@ -56,10 +95,10 @@ Physicians should remain vigilant for the possible development of pneumonia in p
 
 In replicate 12-month trials in 3,255 subjects with moderate to severe COPD who had experienced a COPD exacerbation in the previous year, there was a higher incidence of pneumonia reported in subjects receiving fluticasone furoate/vilanterol 50 mcg/25 mcg: 6% (48 of 820 subjects); BREO ELLIPTA 100/25: 6% (51 of 806 subjects); or BREO ELLIPTA 200/25: 7% (55 of 811 subjects) than in subjects receiving vilanterol 25 mcg: 3% (27 of 818 subjects).
 There was no fatal pneumonia in subjects receiving vilanterol or fluticasone furoate/vilanterol 50 mcg/25 mcg.
-There was fatal pneumonia in 1 subject receiving BREO ELLIPTA 100/25 and in 7 subjects receiving BREO ELLIPTA 200/25 (less than 1% for each treatment group).
+There was fatal pneumonia in 1 subject receiving BREO ELLIPTA 100/25 and in 7 subjects receiving BREO ELLIPTA 200/25 (<1% for each treatment group).
 
 In a mortality trial with a median treatment duration of 1.5 years in 16,568 subjects with moderate COPD and cardiovascular disease, the annualized incidence rate of pneumonia was 3.4 per 100 patient-years for BREO ELLIPTA 100/25, 3.2 for placebo, 3.3 for fluticasone furoate 100 mcg, and 2.3 for vilanterol 25 mcg.
-Adjudicated, on-treatment deaths due to pneumonia occurred in 13 subjects receiving BREO ELLIPTA 100/25, 9 subjects receiving placebo, 10 subjects receiving fluticasone furoate 100 mcg, and 6 subjects receiving vilanterol 25 mcg (less than 0.2 per 100 patient-years for each treatment group).
+Adjudicated, on-treatment deaths due to pneumonia occurred in 13 subjects receiving BREO ELLIPTA 100/25, 9 subjects receiving placebo, 10 subjects receiving fluticasone furoate 100 mcg, and 6 subjects receiving vilanterol 25 mcg (<0.2 per 100 patient-years for each treatment group).
 
 ## 5.6 Immunosuppression
 
@@ -73,11 +112,11 @@ If a patient is exposed to measles, prophylaxis with pooled intramuscular immuno
 (See the respective package inserts for complete VZIG and IG prescribing information.)
 If chickenpox develops, treatment with antiviral agents may be considered.
 
-Inhaled corticosteroids should be used with caution, if at all, in patients with active or quiescent tuberculosis infections of the respiratory tract; systemic fungal, bacterial, viral, or parasitic infections; or ocular herpes simplex.
+ICS should be used with caution, if at all, in patients with active or quiescent tuberculosis infections of the respiratory tract; systemic fungal, bacterial, viral, or parasitic infections; or ocular herpes simplex.
 
 ## 5.7 Transferring Patients from Systemic Corticosteroid Therapy
 
-Particular care is needed for patients who have been transferred from systemically active corticosteroids to inhaled corticosteroids because deaths due to adrenal insufficiency have occurred in patients with asthma during and after transfer from systemic corticosteroids to less systemically available inhaled corticosteroids.
+Particular care is needed for patients who have been transferred from systemically active corticosteroids to ICS because deaths due to adrenal insufficiency have occurred in patients with asthma during and after transfer from systemic corticosteroids to less systemically available ICS.
 After withdrawal from systemic corticosteroids, a number of months are required for recovery of hypothalamic-pituitary-adrenal (HPA) function.
 
 Patients who have been previously maintained on 20 mg or more of prednisone (or its equivalent) may be most susceptible, particularly when their systemic corticosteroids have been almost completely withdrawn.
@@ -102,7 +141,7 @@ Inhaled fluticasone furoate is absorbed into the circulation and can be systemic
 Effects of fluticasone furoate on the HPA axis are not observed with the therapeutic doses of BREO ELLIPTA.
 However, exceeding the recommended dosage or coadministration with a strong cytochrome P450 3A4 (CYP3A4) inhibitor may result in HPA dysfunction [see Warnings and Precautions (5.9), Drug Interactions (7.1)].
 
-Because of the possibility of significant systemic absorption of inhaled corticosteroids in sensitive patients, patients treated with BREO ELLIPTA should be observed carefully for any evidence of systemic corticosteroid effects.
+Because of the possibility of significant systemic absorption of ICS in sensitive patients, patients treated with BREO ELLIPTA should be observed carefully for any evidence of systemic corticosteroid effects.
 Particular care should be taken in observing patients postoperatively or during periods of stress for evidence of inadequate adrenal response.
 
 It is possible that systemic corticosteroid effects such as hypercorticism and adrenal suppression (including adrenal crisis) may appear in a small number of patients who are sensitive to these effects.
@@ -117,7 +156,7 @@ Caution should be exercised when considering the coadministration of BREO ELLIPT
 As with other inhaled medicines, BREO ELLIPTA can produce paradoxical bronchospasm, which may be life threatening.
 If paradoxical bronchospasm occurs following dosing with BREO ELLIPTA, it should be treated immediately with an inhaled, short-acting bronchodilator; BREO ELLIPTA should be discontinued immediately; and alternative therapy should be instituted.
 
-## 5.11 Hypersensitivity Reactions, Including Anaphylaxis
+## 5.11 Hypersensitivity Reactions, including Anaphylaxis
 
 Hypersensitivity reactions such as anaphylaxis, angioedema, rash, and urticaria may occur after administration of BREO ELLIPTA.
 Discontinue BREO ELLIPTA if such reactions occur.
@@ -138,19 +177,19 @@ Adjudicated, on-treatment deaths due to cardiovascular events occurred in 82 sub
 
 ## 5.13 Reduction in Bone Mineral Density
 
-Decreases in bone mineral density (BMD) have been observed with long-term administration of products containing inhaled corticosteroids.
+Decreases in bone mineral density (BMD) have been observed with long-term administration of products containing ICS.
 The clinical significance of small changes in BMD with regard to long-term consequences such as fracture is unknown.
 Patients with major risk factors for decreased bone mineral content, such as prolonged immobilization, family history of osteoporosis, postmenopausal status, tobacco use, advanced age, poor nutrition, or chronic use of drugs that can reduce bone mass (e.g., anticonvulsants, oral corticosteroids) should be monitored and treated with established standards of care.
 Since patients with COPD often have multiple risk factors for reduced BMD, assessment of BMD is recommended prior to initiating BREO ELLIPTA and periodically thereafter.
 If significant reductions in BMD are seen and BREO ELLIPTA is still considered medically important for that patient’s COPD therapy, use of medicine to treat or prevent osteoporosis should be strongly considered.
 
-In replicate 12-month trials in 3,255 subjects with moderate to severe COPD, bone fractures were reported by 2% of subjects receiving the fluticasone furoate/vilanterol combination (50 mcg/25 mcg: 2% [14 of 820 subjects]; 100 mcg/25 mcg: 2% [19 of 806 subjects]; or 200 mcg/25 mcg: 2% [14 of 811 subjects]) compared with less than 1% of subjects receiving vilanterol 25 mcg alone (8 of 818 subjects).
+In replicate 12-month trials in 3,255 subjects with moderate to severe COPD, bone fractures were reported by 2% of subjects receiving the fluticasone furoate/vilanterol combination (50 mcg/25 mcg: 2% [14 of 820 subjects]; 100 mcg/25 mcg: 2% [19 of 806 subjects]; or 200 mcg/25 mcg: 2% [14 of 811 subjects]) compared with <1% of subjects receiving vilanterol 25 mcg alone (8 of 818 subjects).
 
 Similar findings were seen in a mortality trial with a median treatment duration of 1.5 years in 16,568 subjects with moderate COPD and cardiovascular disease.
 
 ## 5.14 Glaucoma and Cataracts
 
-Glaucoma, increased intraocular pressure, and cataracts have been reported in patients with COPD or asthma following the long-term administration of inhaled corticosteroids.
+Glaucoma, increased intraocular pressure, and cataracts have been reported in patients with COPD or asthma following the long-term administration of ICS.
 Therefore, close monitoring is warranted in patients with a change in vision or with a history of increased intraocular pressure, glaucoma, and/or cataracts.
 
 ## 5.15 Coexisting Conditions

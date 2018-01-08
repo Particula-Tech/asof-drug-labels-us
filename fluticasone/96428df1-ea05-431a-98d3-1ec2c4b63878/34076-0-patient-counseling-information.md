@@ -1,11 +1,11 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Medication Guide and Instructions for Use).
+Advise the patient to read the FDA-approved patient labeling (Patient Information and Instructions for Use).
 
-Asthma-Related Death
+Serious Asthma-Related Events
 
-Inform patients with asthma that LABA, such as vilanterol, one of the active ingredients in BREO ELLIPTA, increase the risk of asthma-related death and may increase the risk of asthma-related hospitalization in pediatric and adolescent patients.
-Also inform them that currently available data are inadequate to determine whether concurrent use of inhaled corticosteroids or other long-term asthma control drugs mitigates the increased risk of asthma-related death from LABA.
+Inform patients with asthma that LABA when used alone increases the risk of asthma-related hospitalization or asthma-related death.
+Available data show that when ICS and LABA are used together, such as with BREO ELLIPTA, there is not a significant increase in the risk of these events.
 
 Not for Acute Symptoms
 
@@ -28,7 +28,7 @@ Instruct patients not to use other LABA for COPD and asthma.
 Local Effects
 
 Inform patients that localized infections with Candida albicans occurred in the mouth and pharynx in some patients.
-If oropharyngeal candidiasis develops, it should be treated with appropriate local or systemic (i.e., oral) antifungal therapy while still continuing therapy with BREO ELLIPTA, but at times therapy with BREO ELLIPTA may need to be temporarily interrupted under close medical supervision.
+If oropharyngeal candidiasis develops, treat it with appropriate local or systemic (i.e., oral) antifungal therapy while still continuing therapy with BREO ELLIPTA, but at times therapy with BREO ELLIPTA may need to be temporarily interrupted under close medical supervision.
 Advise patients to rinse the mouth with water without swallowing after inhalation to help reduce the risk of thrush.
 
 Pneumonia
@@ -52,7 +52,7 @@ Advise patients who are at an increased risk for decreased BMD that the use of c
 
 Ocular Effects
 
-Inform patients that long-term use of inhaled corticosteroids may increase the risk of some eye problems (cataracts or glaucoma); consider regular eye examinations.
+Inform patients that long-term use of ICS may increase the risk of some eye problems (cataracts or glaucoma); consider regular eye examinations.
 
 Risks Associated with Beta-agonist Therapy
 
@@ -66,7 +66,7 @@ There have been reports of anaphylactic reactions in patients with severe milk p
 
 Trademarks are owned by or licensed to the GSK group of companies.
 
-BREO ELLIPTA was developed in collaboration with Innoviva.
+BREO ELLIPTA was developed in collaboration with INNOVIVA.
 
 GlaxoSmithKline
 
@@ -74,4 +74,4 @@ Research Triangle Park, NC 27709
 
 ©2017 GSK group of companies or its licensor.
 
-BRE:8PI
+BRE:9PI

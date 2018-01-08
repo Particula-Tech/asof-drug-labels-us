@@ -28,7 +28,7 @@ The clinical relevance of this in vitro finding is unknown.
 Although beta2-receptors are the predominant adrenergic receptors in bronchial smooth muscle and beta1-receptors are the predominant receptors in the heart, there are also beta2-receptors in the human heart comprising 10% to 50% of the total beta-adrenergic receptors.
 The precise function of these receptors has not been established, but they raise the possibility that even highly selective beta2-agonists may have cardiac effects.
 
-The pharmacologic effects of beta2-adrenoceptor agonist drugs, including vilanterol, are at least in part attributable to stimulation of intracellular adenyl cyclase, the enzyme that catalyzes the conversion of adenosine triphosphate (ATP) to cyclic-3’,5’-adenosine monophosphate (cyclic AMP).
+The pharmacologic effects of beta2-adrenoceptor agonist drugs, including vilanterol, are at least in part attributable to stimulation of intracellular adenyl cyclase, the enzyme that catalyzes the conversion of adenosine triphosphate (ATP) to cyclic-3′,5′-adenosine monophosphate (cyclic AMP).
 Increased cyclic AMP levels cause relaxation of bronchial smooth muscle and inhibition of release of mediators of immediate hypersensitivity from cells, especially from mast cells.
 
 ## 12.2 Pharmacodynamics
@@ -41,7 +41,7 @@ The maximum mean (95% upper confidence bound) difference in QTcF from placebo af
 A dose-dependent increase in heart rate was also observed.
 The maximum mean (95% upper confidence bound) difference in heart rate from placebo after baseline-correction was 7.8 (9.4) beats/min and 17.1 (18.7) beats/min seen 10 minutes after dosing for fluticasone furoate/vilanterol 200 mcg/25 mcg and fluticasone furoate/vilanterol 800 mcg/100 mcg, respectively.
 
-HPA Axis Effects
+Hypothalamic-Pituitary-Adrenal Axis Effects
 
 Healthy Subjects: Inhaled fluticasone furoate at repeat doses up to 400 mcg was not associated with statistically significant decreases in serum or urinary cortisol in healthy subjects.
 Decreases in serum and urine cortisol levels were observed at fluticasone furoate exposures several-fold higher than exposures observed at the therapeutic dose.
@@ -67,7 +67,7 @@ Systemic exposure (AUC) in subjects with COPD or asthma was 46% or 7% lower, res
 Vilanterol: Vilanterol plasma levels may not predict therapeutic effect.
 Peak plasma concentrations are reached within 10 minutes following inhalation.
 Absolute bioavailability of vilanterol when administrated by inhalation was 27.3%, primarily due to absorption of the inhaled portion of the dose delivered to the lung.
-Oral bioavailability from the swallowed portion of the dose of vilanterol is low (less than 2%) due to extensive first-pass metabolism.
+Oral bioavailability from the swallowed portion of the dose of vilanterol is low (<2%) due to extensive first-pass metabolism.
 Systemic exposure (AUC) in subjects with COPD was 24% higher than observed in healthy subjects.
 Systemic exposure (AUC) in subjects with asthma was 21% lower than observed in healthy subjects.
 
@@ -100,10 +100,11 @@ The effect of renal and hepatic impairment and other intrinsic factors on the ph
 Figure 1.
 Impact of Intrinsic Factors on the Pharmacokinetics (PK) of Fluticasone Furoate (FF) and Vilanterol (VI) Following Administration as Fluticasone Furoate/Vilanterol Combination
 
-1. a Severe renal impairment (CrCl less than 30 mL/min) compared with healthy subjects; mild (Child-Pugh A), moderate (Child-Pugh B), and severe (Child-Pugh C) hepatic impairment compared with healthy subjects.
-2. b For COPD and asthma, the following comparisons were made: age compared with less than or equal to 65 years, gender compared with female, and ethnicity compared with white.
+a Severe renal impairment (CrCl <30 mL/min) compared with healthy subjects; mild (Child-Pugh A), moderate (Child-Pugh B), and severe (Child-Pugh C) hepatic impairment compared with healthy subjects.
 
-Racial Groups: Systemic exposure [AUC(0-24)] to inhaled fluticasone furoate 200 mcg was 27% to 49% higher in healthy subjects of Japanese, Korean, and Chinese heritage compared with white subjects.
+b For COPD and asthma, the following comparisons were made: age compared with ≤65 years, gender compared with female, and ethnicity compared with white.
+
+Racial or Ethnic Groups: Systemic exposure [AUC(0-24)] to inhaled fluticasone furoate 200 mcg was 27% to 49% higher in healthy subjects of Japanese, Korean, and Chinese heritage compared with white subjects.
 Similar differences were observed for subjects with COPD or asthma (Figure 1).
 However, there is no evidence that this higher exposure to fluticasone furoate results in clinically relevant effects on urinary cortisol excretion or on efficacy in these racial groups.
 
@@ -136,7 +137,7 @@ The increase in vilanterol exposure was not associated with an increase in beta-
 Figure 2.
 Impact of Coadministered Drugsa on the Pharmacokinetics (PK) of Fluticasone Furoate (FF) and Vilanterol (VI) Following Administration as Fluticasone Furoate/Vilanterol Combination or Vilanterol Coadministered with a Long-acting Muscarinic Antagonist
 
-1. a Compared with placebo group.
+a Compared with placebo group.
 
 Inhibitors of P-glycoprotein: Fluticasone furoate and vilanterol are both substrates of P-glycoprotein (P-gp).
 Coadministration of repeat-dose (240 mg once daily) verapamil (a potent P-gp inhibitor and moderate CYP3A4 inhibitor) did not affect the vilanterol Cmax or AUC in healthy subjects (Figure 2).
