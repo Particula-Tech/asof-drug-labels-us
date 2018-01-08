@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA204275"
+  ],
+  "inn": "fluticasone",
+  "labeler": "Glaxo Operations UK Ltd",
+  "package_ndcs": [
+    "63379-017-00",
+    "63379-017-01",
+    "63379-017-02",
+    "63379-059-00",
+    "63379-059-01",
+    "63379-059-02"
+  ],
+  "products": [
+    {
+      "form": "POWDER",
+      "generic": "fluticasone furoate and vilanterol trifenatate",
+      "name": "Breo Ellipta"
+    }
+  ],
+  "setid": "cc892e77-1203-4a1d-8a9d-46b816e4e583",
+  "source": "dailymed"
+}
