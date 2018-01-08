@@ -28,7 +28,8 @@ Meta-analysis of Serious Asthma-Related Events in Patients with Asthma Aged 12 Y
 | Serious asthma-related eventNumber of patients with event that occurred within 6 months after the first use of study drug or 7 days after the last date of study drug, whichever date was later. Patients can have one or more events, but only the first event was counted for analysis. A single, blinded, independent adjudication committee determined whether events were asthma-related. | 116 | 105 | 1.10 (0.85, 1.44) |
 | Asthma-related death | 2 | 0 |  |
 | Asthma-related intubation (endotracheal) | 1 | 2 |  |
-| Asthma-related hospitalization (≥24-hour stay)ICS = Inhaled Corticosteroid, LABA = Long-acting Beta2-adrenergic Agonist | 115 | 105 |  |
+| Asthma-related hospitalization (≥24-hour stay) | 115 | 105 |  |
+| ICS = Inhaled Corticosteroid, LABA = Long-acting Beta2-adrenergic Agonist |  |  |  |
 
 The pediatric safety trial included 6208 pediatric patients 4 to 11 years of age who received ICS/LABA (fluticasone propionate /salmeterol inhalation powder) or ICS (fluticasone propionate inhalation powder).
 In this trial, 27/3107 (0.9%) patients randomized to ICS/LABA and 21/3101 (0.7%) patients randomized to ICS experienced a serious asthma-related event.
