@@ -31,14 +31,15 @@ For each of the known and possible risk factors for metformin-associated lactic 
 Renal Impairment
 
 The postmarketing metformin-associated lactic acidosis cases primarily occurred in patients with significant renal impairment.
-The risk of metformin accumulation and metformin-associated lactic acidosis increases with the severity of renal impairment because metformin is substantially excreted by the kidney [see Clinical Pharmacology (12.3)].
+The risk of metformin accumulation and metformin-associated lactic acidosis increases with the severity of renal impairment because metformin is substantially excreted by the kidney.
+Clinical recommendations based upon the patient's renal function include [see Dosage and Administration (2.2), Clinical Pharmacology (12.3)].
 
 - Before initiating ACTOPLUS MET, obtain an eGFR.
 - ACTOPLUS MET is contraindicated in patients with an eGFR less than 30mL/min /1.73 m2.
-  Initiation of ACTOPLUS MET is not recommended in patients with eGFR between 30 – 45 mL/min/1.73 m2.
+  Initiation of ACTOPLUS MET is not recommended in patients with eGFR between 30 – 45 mL/min/1.73 m2 [see Contraindications (4)].
 - Obtain an eGFR at least annually in all patients taking ACTOPLUS MET.
   In patients at increased risk for the development of renal impairment (e.g., the elderly), renal function should be assessed more frequently.
-- In patients taking ACTOPLUS MET whose eGFR later falls below 45 mL/min/1.73 m2, assess the benefit and risk of continuing therapy [see Dosage and Administration (2.2), Contraindications (4) and Clinical Pharmacology (12.3)].
+- In patients taking ACTOPLUS MET whose eGFR later falls below 45 mL/min/1.73 m2, assess the benefit and risk of continuing therapy.
 
 Drug Interactions
 
@@ -165,4 +166,4 @@ In these patients, routine serum vitamin B12 measurements at two- to three-year 
 
 ## 5.10 Macrovascular Outcomes
 
-There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with ACTOPLUS MET or any other oral antidiabetic drug.
+There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with ACTOPLUS MET.

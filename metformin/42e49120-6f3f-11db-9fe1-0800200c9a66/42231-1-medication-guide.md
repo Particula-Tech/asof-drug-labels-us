@@ -9,49 +9,38 @@ What is the most important information I should know about ACTOPLUS MET?
 
 ACTOPLUS MET can cause serious side effects, including:
 
-- •new or worse heart failure.
+- new or worse heart failure.
   Pioglitazone, one of the medicines in ACTOPLUS MET, can cause your body to keep extra fluid (fluid retention), which leads to swelling (edema) and weight gain.
   Extra body fluid can make some heart problems worse or lead to heart failure.
   Heart failure means your heart does not pump blood well enough.
-- oDo not take ACTOPLUS MET if you have severe heart failure
-
-- oIf you have heart failure with symptoms (such as shortness of breath or swelling), even if these symptoms are not severe, ACTOPLUS MET may not be right for you.
-- Call your doctor right away if you have any of the following:
-
-- o swelling or fluid retention, especially in the ankles or legs
-
-- o shortness of breath or trouble breathing, especially when you lie down
-
-- o an unusually fast increase in weight
-
-- o unusual tiredness
-
-- •lactic acidosis.
+  - Do not take ACTOPLUS MET if you have severe heart failure
+  - If you have heart failure with symptoms (such as shortness of breath or swelling), even if these symptoms are not severe, ACTOPLUS MET may not be right for you.
+    Call your doctor right away if you have any of the following:
+  - swelling or fluid retention, especially in the ankles or legs
+  - shortness of breath or trouble breathing, especially when you lie down
+  - an unusually fast increase in weight
+  - unusual tiredness
+- lactic acidosis.
   Metformin, one of the medicines in ACTOPLUS MET, can cause a rare but serious condition called lactic acidosis (a buildup of an acid in the blood) that can cause death.
   Lactic acidosis is a medical emergency and must be treated in the hospital.
-  - Call your doctor right away if you have any of the following symptoms, which could be signs of lactic acidosis:
-- o you feel cold in your hands or feet
 
-- o you feel dizzy or lightheaded
+Call your doctor right away if you have any of the following symptoms, which could be signs of lactic acidosis:
 
-- o you have a slow or irregular heartbeat
-
-- o you feel very weak or tired
-
-- o you have unusual (not normal) muscle pain
-
-- o you have trouble breathing
-
-- o you feel sleepy or drowsy
-
-- o you have stomach pains, nausea, or vomiting
+- you feel cold in your hands or feet
+- you feel dizzy or lightheaded
+- you have a slow or irregular heartbeat
+- you feel very weak or tired
+- you have unusual (not normal) muscle pain
+- you have trouble breathing
+- you feel sleepy or drowsy
+- you have stomach pains, nausea, or vomiting
 
 Most people who have had lactic acidosis with metformin have other things that, combined with the metformin, led to the lactic acidosis.
 Tell your doctor if you have any of the following, because you have a higher chance for getting lactic acidosis with ACTOPLUS MET if you:
 
 - have severe kidney problems or your kidneys are affected by certain x-ray tests that use injectable dye. have liver problems
 - drink alcohol very often, or drink a lot of alcohol in short-term "binge" drinking
-- dehydrated (lose a large amount of body fluids).
+- get dehydrated (lose a large amount of body fluids).
   This can happen if you are sick with a fever, vomiting, or diarrhea.
   Dehydration can also happen when you sweat a lot with activity or exercise and do not drink enough fluids
 - have surgery
@@ -81,11 +70,11 @@ See "What is the most important information I should know about ACTOPLUS MET?"
 
 Do not take ACTOPLUS MET if you:
 
-- •have severe heart failure
-- •are allergic to pioglitazone, metformin, or any of the ingredients in ACTOPLUS MET.
+- have severe heart failure
+- are allergic to pioglitazone, metformin, or any of the ingredients in ACTOPLUS MET.
   See the end of this Medication Guide for a complete list of ingredients in ACTOPLUS MET
-- •have severe kidney problems
-- •have a condition called metabolic acidosis, including diabetic ketoacidosis.
+- have severe kidney problems
+- have a condition called metabolic acidosis, including diabetic ketoacidosis.
   Diabetic ketoacidosis should be treated with insulin
 
 Tell your doctor before taking ACTOPLUS MET if you have any of these conditions.
@@ -94,23 +83,23 @@ What should I tell my doctor before taking ACTOPLUS MET?
 
 Before you take ACTOPLUS MET, tell your doctor if you:
 
-- •have heart failure
-- •have severe kidney problems
-- •are going to have dye injected into a vein for an x-ray, CAT scan, heart study, or other type of scanning
-- •will be undergoing a surgical procedure
-- •drink a lot of alcohol (all the time or short binge drinking)
-- •have type 1 ("juvenile") diabetes or had diabetic ketoacidosis
-- •have a type of diabetic eye disease that causes swelling in the back of the eye (macular edema)
-- •have liver problems
-- •have or have had cancer of the bladder
-- •are pregnant or plan to become pregnant.
+- have heart failure
+- have severe kidney problems
+- are going to have dye injected into a vein for an x-ray, CAT scan, heart study, or other type of scanning
+- will be undergoing a surgical procedure
+- drink a lot of alcohol (all the time or short binge drinking)
+- have type 1 ("juvenile") diabetes or had diabetic ketoacidosis
+- have a type of diabetic eye disease that causes swelling in the back of the eye (macular edema)
+- have liver problems
+- have or have had cancer of the bladder
+- are pregnant or plan to become pregnant.
   It is not known if ACTOPLUS MET can harm your unborn baby.
   Talk to your doctor if you are pregnant or plan to become pregnant about the best way to control your blood glucose levels while pregnant
-- •are a premenopausal woman (before the "change of life") who does not have periods regularly or at all.
+- are a premenopausal woman (before the "change of life") who does not have periods regularly or at all.
   ACTOPLUS MET may increase your chance of becoming pregnant.
   Talk to your doctor about birth control choices while taking ACTOPLUS MET.
   Tell your doctor right away if you become pregnant while taking ACTOPLUS MET
-- •are breastfeeding or plan to breastfeed.
+- are breastfeeding or plan to breastfeed.
   It is not known if ACTOPLUS MET passes into your milk and if it can harm your baby.
   Talk to your doctor about the best way to control your blood glucose levels while breastfeeding
 
@@ -125,65 +114,56 @@ They will tell you if it is okay to take ACTOPLUS MET with other medicines.
 
 How should I take ACTOPLUS MET?
 
-- •Take ACTOPLUS MET exactly as your doctor tells you to take it
-- •Your doctor may need to change your dose of ACTOPLUS MET.
+- Take ACTOPLUS MET exactly as your doctor tells you to take it
+- Your doctor may need to change your dose of ACTOPLUS MET.
   Do not change your ACTOPLUS MET dose unless your doctor tells you to
-- •ACTOPLUS MET may be prescribed alone or with other diabetes medicines.
+- ACTOPLUS MET may be prescribed alone or with other diabetes medicines.
   This will depend on how well your blood sugar is controlled
-- •Take ACTOPLUS MET with meals to lower your chance of an upset stomach
-- •If you miss a dose of ACTOPLUS MET, take your next dose as prescribed unless your doctor tells you differently.
+- Take ACTOPLUS MET with meals to lower your chance of an upset stomach
+- If you miss a dose of ACTOPLUS MET, take your next dose as prescribed unless your doctor tells you differently.
   Do not take two doses at one time the next day
-- •If you take too much ACTOPLUS MET, call your doctor or go to the nearest hospital emergency room right away
-- •If your body is under stress such as from a fever, infection, accident, or surgery, the dose of your diabetes medicines may need to be changed.
+- If you take too much ACTOPLUS MET, call your doctor or go to the nearest hospital emergency room right away
+- If your body is under stress such as from a fever, infection, accident, or surgery, the dose of your diabetes medicines may need to be changed.
   Call your doctor right away
-- •Stay on your diet and exercise programs and test your blood sugar regularly while taking ACTOPLUS MET
-- •Your doctor should do certain blood tests before you start and while you take ACTOPLUS MET
-- •Your doctor should also do hemoglobin A1C testing to check how well your blood sugar is controlled with ACTOPLUS MET
-- •Your doctor should check your eyes regularly while you take ACTOPLUS MET
+- Stay on your diet and exercise programs and test your blood sugar regularly while taking ACTOPLUS MET
+- Your doctor should do certain blood tests before you start and while you take ACTOPLUS MET
+- Your doctor should also do hemoglobin A1C testing to check how well your blood sugar is controlled with ACTOPLUS MET
+- Your doctor should check your eyes regularly while you take ACTOPLUS MET
 
 What are the possible side effects of ACTOPLUS MET?
 
 ACTOPLUS MET may cause serious side effects, including:
 
-- •See "What is the most important information I should know about ACTOPLUS MET?"
-- •low blood sugar (hypoglycemia).
+- See "What is the most important information I should know about ACTOPLUS MET?"
+- low blood sugar (hypoglycemia).
   This can happen if you skip meals, if you also use another medicine that lowers blood sugar, or if you have certain medical problems.
   Lightheadedness, dizziness, shakiness, or hunger may happen if your blood sugar is too low.
   Call your doctor if low blood sugar levels are a problem for you
-- •liver problems.
+- liver problems.
   Call your doctor right away if you have:
-- onausea or vomiting
-
-- ostomach pain
-
-- ounusual or unexplained tiredness
-
-- oloss of appetite
-
-- odark urine
-
-- oyellowing of your skin or the whites of your eyes
-
-- •bladder cancer.
+  - nausea or vomiting
+  - stomach pain
+  - unusual or unexplained tiredness
+  - loss of appetite
+  - dark urine
+  - yellowing of your skin or the whites of your eyes
+- bladder cancer.
   There may be an increased chance of having bladder cancer when you take ACTOPLUS MET.
   You should not take ACTOPLUS MET if you are receiving treatment for bladder cancer.
   Tell your doctor right away if you have any of the following symptoms of bladder cancer:
-- oblood or a red color in your urine
-
-- oan increased need to urinate
-
-- opain while you urinate
-
-- •broken bones (fractures).
+  - blood or a red color in your urine
+  - an increased need to urinate
+  - pain while you urinate
+- broken bones (fractures).
   Usually in the hand, upper arm, or foot in women.
   Talk to your doctor for advice on how to keep your bones healthy
-- •diabetic eye disease with swelling in the back of the eye (macular edema).
+- diabetic eye disease with swelling in the back of the eye (macular edema).
   Tell your doctor right away if you have any changes in your vision.
   Your doctor should check your eyes regularly
-- •release of an egg from an ovary in a woman (ovulation) leading to pregnancy.
+- release of an egg from an ovary in a woman (ovulation) leading to pregnancy.
   Ovulation may happen when premenopausal women who do not have regular monthly periods take ACTOPLUS MET.
   This can increase your chance of getting pregnant.
-- •low red blood cell count (anemia).
+- low red blood cell count (anemia).
 
 The most common side effects of ACTOPLUS MET include:
 
@@ -202,7 +182,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store ACTOPLUS MET?
 
-- •Store ACTOPLUS MET at 68°F to 77°F (20°C to 25°C).
+- Store ACTOPLUS MET at 68°F to 77°F (20°C to 25°C).
   Keep ACTOPLUS MET in the original container and protect from light
 
 Keep the ACTOPLUS MET bottle tightly closed and keep tablets dry
@@ -236,6 +216,6 @@ Distributed by: Takeda Pharmaceuticals America, Inc. Deerfield, IL 60015
 
 Revised: December 2016
 
-© 2009 - 2016 Takeda Pharmaceuticals America, Inc.
+©2009 - 2017 Takeda Pharmaceuticals America, Inc.
 
-APM001 R14
+APM001 R15

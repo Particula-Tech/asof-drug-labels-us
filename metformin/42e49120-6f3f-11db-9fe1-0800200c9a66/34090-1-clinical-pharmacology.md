@@ -37,7 +37,7 @@ In controlled clinical trials, pioglitazone had an additive effect on glycemic c
 
 Patients with lipid abnormalities were included in clinical trials with pioglitazone.
 Overall, patients treated with pioglitazone had mean decreases in serum triglycerides, mean increases in HDL cholesterol, and no consistent mean changes in LDL and total cholesterol.
-There is no conclusive evidence of macrovascular benefit with pioglitazone or any other antidiabetic medication [see Warnings and Precautions (5.10) and Adverse Reactions (6.1)].
+There is no conclusive evidence of macrovascular benefit with pioglitazone [see Warnings and Precautions (5.10) and Adverse Reactions (6.1)].
 
 In a 26-week, placebo-controlled, dose-ranging monotherapy study, mean serum triglycerides decreased in the 15-mg, 30-mg, and 45-mg pioglitazone dose groups compared to a mean increase in the placebo group.
 Mean HDL cholesterol increased to a greater extent in patients treated with pioglitazone than in the placebo-treated patients.
@@ -152,7 +152,7 @@ Therefore, no dose adjustment in patients with renal impairment is required.
 
 Metformin hydrochloride
 
-In patients with decreased renal function (based on eGFR), the plasma and blood t1/2 of metformin is prolonged and the renal clearance is decreased in proportion to the decrease in eGFR [see Dosage and Administration (2.2), Contraindications (4) and Warnings and Precautions (5.2)].
+In patients with decreased renal function, the plasma and blood t1/2 of metformin is prolonged and the renal clearance is decreased [see Dosage and Administration (2.2), Contraindications (4) and Warnings and Precautions (5.2)].
 
 Hepatic Impairment
 
@@ -263,6 +263,8 @@ Pioglitazone
 | Nifedipine ER 30 mg daily for 7 days (N = 23) | 45 mg | ↑5% | ↑4% |
 | Atorvastatin Ca 80 mg daily for 7 days (N = 24) | 45 mg | ↓24% | ↓31% |
 | Theophylline 400 mg twice daily for 7 days (N = 22) | 45 mg | ↓4% | ↓2% |
+| Topiramate 96 mg twice daily for 7 daysIndicates duration of concomitant administration with highest twice-daily dose of topiramate from Day 14 onwards over the 22 days of study | 30 mg | ↓15%Additional decrease in active metabolites; 60% for M-III and 16% for M-IV | 0% |
+| (N = 26) |  |  |  |
 
 Metformin hydrochloride
 

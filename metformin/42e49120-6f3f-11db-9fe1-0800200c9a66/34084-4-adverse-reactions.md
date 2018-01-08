@@ -297,10 +297,10 @@ The relationship of these events to pioglitazone therapy is unknown.
 
 ## 6.2 Postmarketing Experience
 
-Pioglitazone
-
 The following adverse reactions have been identified during post-approval use of pioglitazone.
 Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Pioglitazone
 
 - •New onset or worsening diabetic macular edema with decreased visual acuity [see Warnings and Precautions (5.8)].
 - •Fatal and nonfatal hepatic failure [see Warnings and Precautions (5.5)].
@@ -309,3 +309,7 @@ Postmarketing reports of congestive heart failure have been reported in patients
 
 In postmarketing experience, there have been reports of unusually rapid increases in weight and increases in excess of that generally observed in clinical trials.
 Patients who experience such increases should be assessed for fluid accumulation and volume-related events such as excessive edema and congestive heart failure [see Boxed Warning and Warnings and Precautions (5.1)].
+
+Metformin
+
+Cholestatic, hepatocellular, and mixed hepatocellular liver injury.

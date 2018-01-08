@@ -18,8 +18,8 @@ Consider more frequent monitoring of these patients.
 
 ## 7.4 Drugs that Reduce Metformin Clearance
 
-Drugs that are eliminated by renal tubular secretion (e.g., cationic drugs such as cimetidine) have the potential for interaction with metformin by competing for common renal tubular transport systems, and may increase the accumulation of metformin and the risk for lactic acidosis [see Clinical Pharmacology (12.3)].
-Consider more frequent monitoring of these patients.
+Concomitant use of drugs that interfere with common renal tubular transport systems involved in the renal elimination of metformin (e.g., organic cationic transporter-2 [OCT2]/multidrug and toxin extrusion [MATE] inhibitors such as ranolazine, vandetanib, dolutegravir, and cimetidine) could increase systemic exposure to metformin and may increase the risk for lactic acidosis [see Clinical Pharmacology (12.3)].
+Consider the benefits and risks of concomitant use.
 
 ## 7.5 Alcohol
 
@@ -39,3 +39,8 @@ Certain drugs tend to produce hyperglycemia and may lead to loss of glycemic con
 These drugs include the thiazides and other diuretics, corticosteroids, phenothiazines, thyroid products, estrogens, oral contraceptives, phenytoin, nicotinic acid, sympathomimetics, calcium channel blockers, and isoniazid.
 When such drugs are administered to a patient receiving ACTOPLUS MET, the patient should be closely observed for loss of blood glucose control.
 When such drugs are withdrawn from a patient receiving ACTOPLUS MET, the patient should be observed closely for hypoglycemia.
+
+## 7.8 Topiramate
+
+A decrease in the exposure of pioglitazone and its active metabolites were noted with concomitant administration of pioglitazone and topiramate [see Clinical Pharmacology (12.3)].
+The clinical relevance of this decrease is unknown; however, when ACTOPLUS MET and topiramate are used concomitantly, monitor patients for adequate glycemic control.

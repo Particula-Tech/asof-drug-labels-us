@@ -6,15 +6,11 @@ ACTOPLUS MET should be taken with meals to reduce the gastrointestinal side effe
 
 If therapy with a combination tablet containing pioglitazone and metformin is considered appropriate the recommended starting dose is:
 
-15 mg/500 mg twice daily or 15 mg/850 mg once daily and gradually titrated, as needed, after assessing adequacy of therapeutic response and tolerability,
-
-for patients with New York Heart Association (NYHA) Class I or Class II congestive heart failure: 15 mg/500 mg or 15 mg/850 mg once daily and gradually titrated, as needed, after assessing adequacy of therapeutic response and tolerability,
-
-for patients inadequately controlled on metformin monotherapy: 15 mg/500 mg twice daily or 15 mg/850 mg once or twice daily (depending on the dose of metformin already being taken) and gradually titrated, as needed, after assessing adequacy of therapeutic response and tolerability,
-
-for patients inadequately controlled on pioglitazone monotherapy: 15 mg/500 mg twice daily or 15 mg/850 mg once daily and gradually titrated, as needed, after assessing adequacy of therapeutic response and tolerability,
-
-for patients who are changing from combination therapy of pioglitazone plus metformin as separate tablets: ACTOPLUS MET should be taken at doses that are as close as possible to the dose of pioglitazone and metformin already being taken.
+- 15 mg/500 mg twice daily or 15 mg/850 mg once daily and gradually titrated, as needed, after assessing adequacy of therapeutic response and tolerability,
+- for patients with New York Heart Association (NYHA) Class I or Class II congestive heart failure: 15 mg/500 mg or 15 mg/850 mg once daily and gradually titrated, as needed, after assessing adequacy of therapeutic response and tolerability,
+- for patients inadequately controlled on metformin monotherapy: 15 mg/500 mg twice daily or 15 mg/850 mg once or twice daily (depending on the dose of metformin already being taken) and gradually titrated, as needed, after assessing adequacy of therapeutic response and tolerability,
+- for patients inadequately controlled on pioglitazone monotherapy: 15 mg/500 mg twice daily or 15 mg/850 mg once daily and gradually titrated, as needed, after assessing adequacy of therapeutic response and tolerability,
+- for patients who are changing from combination therapy of pioglitazone plus metformin as separate tablets: ACTOPLUS MET should be taken at doses that are as close as possible to the dose of pioglitazone and metformin already being taken.
 
 ACTOPLUS MET may be titrated up to a maximum daily dose of 45 mg of pioglitazone and 2550 mg of metformin.
 
