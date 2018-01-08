@@ -61,11 +61,12 @@ Since there are no data from controlled trials on the use of ADVAIR HFA by nursi
 
 Thirty-eight (38) subjects aged 12 to 17 years were treated with ADVAIR HFA in U.S. pivotal clinical trials.
 Subjects in this age-group demonstrated efficacy results similar to those observed in subjects aged 18 years and older.
-There were no obvious differences in the type or frequency of adverse events reported in this age-group compared with subjects aged 18 years and older.
+There were no obvious differences in the type or frequency of adverse events reported in this age group compared with subjects aged 18 years and older.
 
-In a 12-week trial, the safety of ADVAIR HFA 45/21 given as 2 inhalations twice daily was compared with that of fluticasone propionate 44 mcg HFA (FLOVENT® HFA) 2 inhalations twice daily in 350 subjects aged 4 to 11 years with persistent asthma currently being treated with inhaled corticosteroids.
+In a 12-week trial, the safety of ADVAIR HFA 45/21 given as 2 inhalations twice daily was compared with that of fluticasone propionate 44 mcg HFA (FLOVENT HFA) 2 inhalations twice daily in 350 subjects aged 4 to 11 years with persistent asthma currently being treated with ICS.
 No new safety concerns were observed in children aged 4 to 11 years treated for 12 weeks with ADVAIR HFA 45/21 compared with adults and adolescents aged 12 years and older.
-Common adverse reactions (greater than or equal to 3%) seen in children aged 4 to 11 years treated with ADVAIR HFA 45/21 but not reported in the adult and adolescent clinical trials of ADVAIR HFA include: pyrexia, cough, pharyngolaryngeal pain, rhinitis, and sinusitis [see Adverse Reactions (6.1)].This trial was not designed to assess the effect of salmeterol, a component of ADVAIR HFA, on asthma hospitalizations and death in subjects aged 4 to 11 years.
+Common adverse reactions (≥3%) seen in children aged 4 to 11 years treated with ADVAIR HFA 45/21 but not reported in the adult and adolescent clinical trials of ADVAIR HFA include: pyrexia, cough, pharyngolaryngeal pain, rhinitis, and sinusitis [see Adverse Reactions (6.1)].
+This trial was not designed to assess the effect of salmeterol, a component of ADVAIR HFA, on asthma hospitalizations and death in subjects aged 4 to 11 years.
 
 The pharmacokinetics and pharmacodynamic effect on serum cortisol of 21 days of treatment with ADVAIR HFA 45/21 (2 inhalations twice daily with or without a spacer) or ADVAIR DISKUS 100/50 (1 inhalation twice daily) was evaluated in a trial of 31 children aged 4 to 11 years with mild asthma.
 Systemic exposure to salmeterol xinafoate was similar for ADVAIR HFA, ADVAIR HFA delivered with a spacer, and ADVAIR DISKUS while the systemic exposure to fluticasone propionate was lower with ADVAIR HFA compared with that of ADVAIR HFA delivered with a spacer or ADVAIR DISKUS.
@@ -75,10 +76,10 @@ The safety and effectiveness of ADVAIR HFA in children younger than 12 years hav
 
 Effects on Growth
 
-Inhaled corticosteroids, including fluticasone propionate, a component of ADVAIR HFA, may cause a reduction in growth velocity in children and adolescents [see Warnings and Precautions (5.14)].
+ICS, including fluticasone propionate, a component of ADVAIR HFA, may cause a reduction in growth velocity in children and adolescents [see Warnings and Precautions (5.14)].
 The growth of pediatric patients receiving orally inhaled corticosteroids, including ADVAIR HFA, should be monitored.
 
-A 52-week placebo-controlled trial to assess the potential growth effects of fluticasone propionate inhalation powder (FLOVENT® ROTADISK®) at 50 and 100 mcg twice daily was conducted in the U.S. in 325 prepubescent children (244 males and 81 females) aged 4 to 11 years.
+A 52-week placebo-controlled trial to assess the potential growth effects of fluticasone propionate inhalation powder (FLOVENT ROTADISK) at 50 and 100 mcg twice daily was conducted in the U.S. in 325 prepubescent children (244 males and 81 females) aged 4 to 11 years.
 The mean growth velocities at 52 weeks observed in the intent-to-treat population were 6.32 cm/year in the placebo group (n = 76), 6.07 cm/year in the 50-mcg group (n = 98), and 5.66 cm/year in the 100-mcg group (n = 89).
 An imbalance in the proportion of children entering puberty between groups and a higher dropout rate in the placebo group due to poorly controlled asthma may be confounding factors in interpreting these data.
 A separate subset analysis of children who remained prepubertal during the trial revealed growth rates at 52 weeks of 6.10 cm/year in the placebo group (n = 57), 5.91 cm/year in the 50-mcg group (n = 74), and 5.67 cm/year in the 100-mcg group (n = 79).
@@ -87,7 +88,7 @@ The clinical relevance of these growth data is not certain.
 
 If a child or adolescent on any corticosteroid appears to have growth suppression, the possibility that he/she is particularly sensitive to this effect of corticosteroids should be considered.
 The potential growth effects of prolonged treatment should be weighed against the clinical benefits obtained.
-To minimize the systemic effects of orally inhaled corticosteroids, including ADVAIR HFA, each patient should be titrated to the lowest strength that effectively controls his/her asthma [see Dosage and Administration (2.1)].
+To minimize the systemic effects of orally inhaled corticosteroids, including ADVAIR HFA, each patient should be titrated to the lowest strength that effectively controls his/her asthma [see Dosage and Administration (2)].
 
 ## 8.5 Geriatric Use
 

@@ -1,9 +1,9 @@
 # 6 ADVERSE REACTIONS
 
-LABA, such as salmeterol, one of the active ingredients in ADVAIR HFA, increase the risk of asthma-related death.
-Data from a large placebo-controlled U.S. trial that compared the safety of salmeterol or placebo added to usual asthma therapy showed an increase in asthma-related deaths in subjects receiving salmeterol [see Warnings and Precautions (5.1)].
-Currently available data are inadequate to determine whether concurrent use of inhaled corticosteroids or other long-term asthma control drugs mitigates the increased risk of asthma-related death from LABA.
-Available data from controlled clinical trials suggest that LABA increase the risk of asthma-related hospitalization in pediatric and adolescent patients [see Warnings and Precautions (5.1)].
+Use of LABA may result in the following:
+
+- •Serious asthma-related events – hospitalizations, intubations, death [see Warnings and Precautions (5.1)]
+- •Cardiovascular and central nervous system effects [see Warnings and Precautions (5.12)]
 
 Systemic and local corticosteroid use may result in the following:
 
@@ -22,7 +22,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 Adult and Adolescent Subjects Aged 12 Years and Older
 
 The incidence of adverse reactions associated with ADVAIR HFA in Table 2 is based upon two 12-week, placebo-controlled, U.S. clinical trials (Trials 1 and 3) and 1 active-controlled 12-week U.S. clinical trial (Trial 2).
-A total of 1,008 adult and adolescent subjects with asthma (556 females and 452 males) previously treated with albuterol alone, salmeterol, or inhaled corticosteroids were treated twice daily with 2 inhalations of ADVAIR HFA 45/21 or ADVAIR HFA 115/21, fluticasone propionate CFC inhalation aerosol (44- or 110-mcg doses), salmeterol CFC inhalation aerosol 21 mcg, or placebo HFA inhalation aerosol.
+A total of 1,008 adult and adolescent subjects with asthma (556 females and 452 males) previously treated with albuterol alone, salmeterol, or ICS were treated twice daily with 2 inhalations of ADVAIR HFA 45/21 or ADVAIR HFA 115/21, fluticasone propionate CFC inhalation aerosol (44- or 110-mcg doses), salmeterol CFC inhalation aerosol 21 mcg, or placebo HFA inhalation aerosol.
 The average duration of exposure was 71 to 81 days in the active treatment groups compared with 51 days in the placebo group.
 
 Table 2.
@@ -30,7 +30,7 @@ Adverse Reactions with ADVAIR HFA with ≥3% Incidence in Adult and Adolescent S
 
 | Adverse Event | ADVAIR HFA Inhalation Aerosol |  | Fluticasone Propionate CFC Inhalation Aerosol |  | Salmeterol CFC Inhalation Aerosol | Placebo HFA Inhalation Aerosol |
 | --- | --- | --- | --- | --- | --- | --- |
-| 45/21(n = 187)% | 115/21(n = 94)% | 44 mcg(n = 186)% | 110 mcg(n = 91)% | 21 mcg(n = 274)% | (n = 176)% |  |
+| 45/21 (n = 187) % | 115/21 (n = 94) % | 44 mcg (n = 186) % | 110 mcg (n = 91) % | 21 mcg (n = 274) % | (n = 176) % |  |
 | Ear, nose, and throat |  |  |  |  |  |  |
 | Upper respiratory tract infection | 16 | 24 | 13 | 15 | 17 | 13 |
 | Throat irritation | 9 | 7 | 12 | 13 | 9 | 7 |
@@ -49,7 +49,7 @@ Adverse Reactions with ADVAIR HFA with ≥3% Incidence in Adult and Adolescent S
 | Musculoskeletal pain | 5 | 7 | 8 | 2 | 4 | 4 |
 | Muscle pain | 4 | 1 | 1 | 1 | 3 | <1 |
 
-The incidence of common adverse reactions reported in Trial 4, a 12-week non-U.S. clinical trial in 509 subjects previously treated with inhaled corticosteroids who were treated twice daily with 2 inhalations of ADVAIR HFA 230/21, fluticasone propionate CFC inhalation aerosol 220 mcg, or 1 inhalation of ADVAIR DISKUS 500/50 was similar to the incidences reported in Table 2.
+The incidence of common adverse reactions reported in Trial 4, a 12-week non-U.S. clinical trial in 509 subjects previously treated with ICS who were treated twice daily with 2 inhalations of ADVAIR HFA 230/21, fluticasone propionate CFC inhalation aerosol 220 mcg, or 1 inhalation of ADVAIR DISKUS 500/50 was similar to the incidences reported in Table 2.
 
 Additional Adverse Reactions
 

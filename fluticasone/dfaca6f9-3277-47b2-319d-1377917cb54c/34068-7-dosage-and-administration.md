@@ -11,7 +11,7 @@ If asthma symptoms arise in the period between doses, an inhaled, short-acting b
 
 For patients aged 12 years and older, the dosage is 2 inhalations twice daily, approximately 12 hours apart.
 
-The recommended starting dosages for ADVAIR HFA for patients aged 12 years and older are based upon patients’ asthma severity.
+When choosing the starting dosage strength of ADVAIR HFA, consider the patients’ disease severity, based on their previous asthma therapy, including the ICS dosage, as well as the patients’ current control of asthma symptoms and risk of future exacerbation.
 
 The maximum recommended dosage is 2 inhalations of ADVAIR HFA 230/21 twice daily.
 
@@ -20,7 +20,7 @@ Individual patients will experience a variable time to onset and degree of sympt
 
 For patients who do not respond adequately to the starting dosage after 2 weeks of therapy, replacing the current strength of ADVAIR HFA with a higher strength may provide additional improvement in asthma control.
 
-If a previously effective dosage regimen fails to provide adequate improvement in asthma control, the therapeutic regimen should be reevaluated and additional therapeutic options (e.g., replacing the current strength of ADVAIR HFA with a higher strength, adding additional inhaled corticosteroid, initiating oral corticosteroids) should be considered.
+If a previously effective dosage regimen fails to provide adequate improvement in asthma control, the therapeutic regimen should be reevaluated and additional therapeutic options (e.g., replacing the current strength of ADVAIR HFA with a higher strength, adding additional ICS, initiating oral corticosteroids) should be considered.
 
 Prime ADVAIR HFA before using for the first time by releasing 4 sprays into the air away from the face, shaking well for 5 seconds before each spray.
 In cases where the inhaler has not been used for more than 4 weeks or when it has been dropped, prime the inhaler again by releasing 2 sprays into the air away from the face, shaking well for 5 seconds before each spray.

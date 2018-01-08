@@ -8,7 +8,7 @@ ADVAIR HFA 230/21 Inhalation Aerosol is supplied in 12-g pressurized aluminum ca
 
 Each canister is fitted with a counter and supplied with a purple actuator with a light purple strapcap.
 Each inhaler is sealed in a plastic-coated, moisture-protective foil pouch with a desiccant that should be discarded when the pouch is opened.
-Each inhaler is packaged with a Medication Guide leaflet.
+Each inhaler is packaged with a Patient Information leaflet.
 
 The purple actuator supplied with ADVAIR HFA should not be used with any other product canisters, and actuators from other products should not be used with an ADVAIR HFA canister.
 

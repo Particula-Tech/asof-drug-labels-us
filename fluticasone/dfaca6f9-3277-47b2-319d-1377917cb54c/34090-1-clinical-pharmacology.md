@@ -62,7 +62,7 @@ In a 12-week trial in adult and adolescent subjects with asthma, ADVAIR HFA 115/
 All treatments were administered as 2 inhalations twice daily.
 After 12 weeks of treatment with these therapeutic doses, the geometric mean ratio of urinary cortisol excretion compared with baseline was 0.9 for ADVAIR HFA and fluticasone propionate and 1.0 for placebo and salmeterol.
 In addition, the ability to increase cortisol production in response to stress, as assessed by 30-minute cosyntropin stimulation in 23 to 32 subjects per treatment group, remained intact for the majority of subjects and was similar across treatments.
-Three subjects who received ADVAIR HFA 115/21 had an abnormal response (peak serum cortisol less than 18 mcg/dL) after dosing, compared with 1 subject who received placebo, 2 subjects who received fluticasone propionate 110 mcg, and 1 subject who received salmeterol.
+Three (3) subjects who received ADVAIR HFA 115/21 had an abnormal response (peak serum cortisol <18 mcg/dL) after dosing, compared with 1 subject who received placebo, 2 subjects who received fluticasone propionate 110 mcg, and 1 subject who received salmeterol.
 
 In another 12-week trial in adult and adolescent subjects with asthma, ADVAIR HFA 230/21 (2 inhalations twice daily) was compared with ADVAIR DISKUS 500/50 (1 inhalation twice daily) and fluticasone propionate CFC inhalation aerosol 220 mcg (2 inhalations twice daily) [see Clinical Studies (14.1)].
 The geometric mean ratio of 24-hour urinary cortisol excretion at week 12 compared with baseline was 0.9 for all 3 treatment groups.
@@ -72,10 +72,10 @@ There were reductions in serum cortisol from baseline in all treatment groups (1
 
 Other Fluticasone Propionate Products
 
-Subjects with Asthma: Hypothalamic-Pituitary-Adrenal Axis Effects: In clinical trials with fluticasone propionate inhalation powder using dosages up to and including 250 mcg twice daily, occasional abnormal short cosyntropin tests (peak serum cortisol less than 18 mcg/dL assessed by radioimmunoassay) were noted both in subjects receiving fluticasone propionate and in subjects receiving placebo.
+Subjects with Asthma: Hypothalamic-Pituitary-Adrenal Axis Effects: In clinical trials with fluticasone propionate inhalation powder using dosages up to and including 250 mcg twice daily, occasional abnormal short cosyntropin tests (peak serum cortisol <18 mcg/dL assessed by radioimmunoassay) were noted both in subjects receiving fluticasone propionate and in subjects receiving placebo.
 The incidence of abnormal tests at 500 mcg twice daily was greater than placebo.
-In a 2-year trial carried out with the DISKHALER® inhalation device in 64 subjects with mild, persistent asthma (mean FEV1 91% of predicted) randomized to fluticasone propionate 500 mcg twice daily or placebo, no subject receiving fluticasone propionate had an abnormal response to 6-hour cosyntropin infusion (peak serum cortisol less than 18 mcg/dL).
-With a peak cortisol threshold of less than 35 mcg/dL, 1 subject receiving fluticasone propionate (4%) had an abnormal response at 1 year; repeat testing at 18 months and 2 years was normal.
+In a 2-year trial carried out with the DISKHALER inhalation device in 64 subjects with mild, persistent asthma (mean FEV1 91% of predicted) randomized to fluticasone propionate 500 mcg twice daily or placebo, no subject receiving fluticasone propionate had an abnormal response to 6-hour cosyntropin infusion (peak serum cortisol <18 mcg/dL).
+With a peak cortisol threshold of <35 mcg/dL, 1 subject receiving fluticasone propionate (4%) had an abnormal response at 1 year; repeat testing at 18 months and 2 years was normal.
 Another subject receiving fluticasone propionate (5%) had an abnormal response at 2 years.
 No subject on placebo had an abnormal response at 1 or 2 years.
 
@@ -95,19 +95,19 @@ Two percent (2%) of subjects receiving ADVAIR HFA in these trials averaged 6 or 
 No increase in frequency of cardiovascular adverse events was observed among subjects who averaged 6 or more inhalations per day.
 
 Methylxanthines: The concurrent use of intravenously or orally administered methylxanthines (e.g., aminophylline, theophylline) by subjects receiving ADVAIR HFA has not been completely evaluated.
-In five 12-week clinical trials (3 U.S. and 2 non-U.S.), 45 subjects receiving ADVAIR HFA 45/21, 115/21, or 230/21 twice daily concurrently with a theophylline product had adverse event rates similar to those in 577 subjects receiving ADVAIR HFA without theophylline.
+In five 12-week clinical trials (3 U.S. and 2 non-U.S.), 45 subjects receiving ADVAIR HFA 45/21, ADVAIR HFA 115/21, or ADVAIR HFA 230/21 twice daily concurrently with a theophylline product had adverse event rates similar to those in 577 subjects receiving ADVAIR HFA without theophylline.
 
-Fluticasone Propionate Nasal Spray: In subjects receiving ADVAIR HFA in three 12-week U.S. clinical trials, no difference in the profile of adverse events or HPA axis effects was noted between subjects receiving FLONASE® (fluticasone propionate) Nasal Spray, 50 mcg concurrently (n = 89) and those who were not (n = 192).
+Fluticasone Propionate Nasal Spray: In subjects receiving ADVAIR HFA in three 12-week U.S. clinical trials, no difference in the profile of adverse events or HPA axis effects was noted between subjects receiving FLONASE (fluticasone propionate) Nasal Spray, 50 mcg concurrently (n = 89) and those who were not (n = 192).
 
 ## 12.3 Pharmacokinetics
 
 Absorption
 
 Fluticasone Propionate: Healthy Subjects: Fluticasone propionate acts locally in the lung; therefore, plasma levels do not predict therapeutic effect.
-Trials using oral dosing of labeled and unlabeled drug have demonstrated that the oral systemic bioavailability of fluticasone propionate is negligible (less than 1%), primarily due to incomplete absorption and presystemic metabolism in the gut and liver.
+Trials using oral dosing of labeled and unlabeled drug have demonstrated that the oral systemic bioavailability of fluticasone propionate is negligible (<1%), primarily due to incomplete absorption and presystemic metabolism in the gut and liver.
 In contrast, the majority of the fluticasone propionate delivered to the lung is systemically absorbed.
 
-Three single-dose placebo-controlled crossover trials were conducted in healthy subjects: (1) a trial using 4 inhalations of ADVAIR HFA 230/21, salmeterol CFC inhalation aerosol 21 mcg, or fluticasone propionate CFC inhalation aerosol 220 mcg, (2) a trial using 8 inhalations of ADVAIR HFA 45/21, ADVAIR HFA 115/21, or ADVAIR HFA 230/21, and (3) a trial using 4 inhalations of ADVAIR HFA 230/21; 2 inhalations of ADVAIR DISKUS 500/50; 4 inhalations of fluticasone propionate CFC inhalation aerosol 220 mcg; or 1,010 mcg of fluticasone propionate given intravenously.
+Three (3) single-dose, placebo-controlled, crossover trials were conducted in healthy subjects: (1) a trial using 4 inhalations of ADVAIR HFA 230/21, salmeterol CFC inhalation aerosol 21 mcg, or fluticasone propionate CFC inhalation aerosol 220 mcg, (2) a trial using 8 inhalations of ADVAIR HFA 45/21, ADVAIR HFA 115/21, or ADVAIR HFA 230/21, and (3) a trial using 4 inhalations of ADVAIR HFA 230/21; 2 inhalations of ADVAIR DISKUS 500/50; 4 inhalations of fluticasone propionate CFC inhalation aerosol 220 mcg; or 1,010 mcg of fluticasone propionate given intravenously.
 Peak plasma concentrations of fluticasone propionate were achieved in 0.33 to 1.5 hours and those of salmeterol were achieved in 5 to 10 minutes.
 
 Peak plasma concentrations of fluticasone propionate (N = 20 subjects) following 8 inhalations of ADVAIR HFA 45/21, ADVAIR HFA 115/21, and ADVAIR HFA 230/21 averaged 41, 108, and 173 pg/mL, respectively.
@@ -153,7 +153,7 @@ Salmeterol: The percentage of salmeterol bound to human plasma proteins averages
 
 Metabolism
 
-Fluticasone Propionate: The total clearance of fluticasone propionate is high (average, 1,093 mL/min), with renal clearance accounting for less than 0.02% of the total.
+Fluticasone Propionate: The total clearance of fluticasone propionate is high (average, 1,093 mL/min), with renal clearance accounting for <0.02% of the total.
 The only circulating metabolite detected in man is the 17β-carboxylic acid derivative of fluticasone propionate, which is formed through the CYP3A4 pathway.
 This metabolite had less affinity (approximately 1/2,000) than the parent drug for the glucocorticoid receptor of human lung cytosol in vitro and negligible pharmacological activity in animal studies.
 Other metabolites detected in vitro using cultured human hepatoma cells have not been detected in man.
@@ -174,34 +174,34 @@ Salmeterol: In 2 healthy adult subjects who received 1 mg of radiolabeled salmet
 The terminal elimination half-life was about 5.5 hours (1 volunteer only).
 
 The xinafoate moiety has no apparent pharmacologic activity.
-The xinafoate moiety is highly protein bound (greater than 99%) and has a long elimination half-life of 11 days.
+The xinafoate moiety is highly protein bound (>99%) and has a long elimination half-life of 11 days.
 No terminal half-life estimates were calculated for salmeterol following administration of ADVAIR HFA.
 
-Special Populations
+Specific Populations
 
-A population pharmacokinetic analysis was performed for fluticasone propionate and salmeterol utilizing data from 9 controlled clinical trials that included 350 subjects with asthma aged 4 to 77 years who received treatment with ADVAIR DISKUS, ADVAIR HFA, fluticasone propionate inhalation powder (FLOVENT® DISKUS®), HFA-propelled fluticasone propionate inhalation aerosol (FLOVENT HFA), or CFC-propelled fluticasone propionate inhalation aerosol.
+A population pharmacokinetic analysis was performed for fluticasone propionate and salmeterol utilizing data from 9 controlled clinical trials that included 350 subjects with asthma aged 4 to 77 years who received treatment with ADVAIR DISKUS, ADVAIR HFA, fluticasone propionate inhalation powder (FLOVENT DISKUS), HFA-propelled fluticasone propionate inhalation aerosol (FLOVENT HFA), or CFC-propelled fluticasone propionate inhalation aerosol.
 The population pharmacokinetic analyses for fluticasone propionate and salmeterol showed no clinically relevant effects of age, gender, race, body weight, body mass index, or percent of predicted FEV1 on apparent clearance and apparent volume of distribution.
 
-Hepatic and Renal Impairment: Formal pharmacokinetic studies using ADVAIR HFA have not been conducted in patients with hepatic or renal impairment.
+Patients with Hepatic and Renal Impairment: Formal pharmacokinetic studies using ADVAIR HFA have not been conducted in patients with hepatic or renal impairment.
 However, since both fluticasone propionate and salmeterol are predominantly cleared by hepatic metabolism, impairment of liver function may lead to accumulation of fluticasone propionate and salmeterol in plasma.
 Therefore, patients with hepatic disease should be closely monitored.
 
-Drug Interactions
+Drug Interaction Studies
 
 In the repeat- and single-dose trials, there was no evidence of significant drug interaction in systemic exposure between fluticasone propionate and salmeterol when given alone or in combination via the DISKUS.
 Similar definitive studies have not been performed with ADVAIR HFA.
 The population pharmacokinetic analysis from 9 controlled clinical trials in 350 subjects with asthma showed no significant effects on fluticasone propionate or salmeterol pharmacokinetics following co-administration with beta2-agonists, corticosteroids, antihistamines, or theophyllines.
 
 Inhibitors of Cytochrome P450 3A4: Ritonavir: Fluticasone Propionate: Fluticasone propionate is a substrate of CYP3A4.
-Coadministration of fluticasone propionate and the strong CYP3A4 inhibitor ritonavir is not recommended based upon a multiple-dose crossover drug interaction trial in 18 healthy subjects.
+Coadministration of fluticasone propionate and the strong CYP3A4 inhibitor ritonavir is not recommended based upon a multiple-dose, crossover drug interaction trial in 18 healthy subjects.
 Fluticasone propionate aqueous nasal spray (200 mcg once daily) was coadministered for 7 days with ritonavir (100 mg twice daily).
-Plasma fluticasone propionate concentrations following fluticasone propionate aqueous nasal spray alone were undetectable (less than 10 pg/mL) in most subjects, and when concentrations were detectable peak levels (Cmax) averaged 11.9 pg/mL (range: 10.8 to 14.1 pg/mL) and AUC(0-τ) averaged 8.43 pg•h/mL (range: 4.2 to 18.8 pg•h/mL).
+Plasma fluticasone propionate concentrations following fluticasone propionate aqueous nasal spray alone were undetectable (<10 pg/mL) in most subjects, and when concentrations were detectable peak levels (Cmax) averaged 11.9 pg/mL (range: 10.8 to 14.1 pg/mL) and AUC(0-τ) averaged 8.43 pg•h/mL (range: 4.2 to 18.8 pg•h/mL).
 Fluticasone propionate Cmax and AUC(0-τ) increased to 318 pg/mL (range: 110 to 648 pg/mL) and 3,102.6 pg•h/mL (range: 1,207.1 to 5,662.0 pg•h/mL), respectively, after coadministration of ritonavir with fluticasone propionate aqueous nasal spray.
 This significant increase in plasma fluticasone propionate exposure resulted in a significant decrease (86%) in serum cortisol AUC.
 
 Ketoconazole: Fluticasone Propionate: In a placebo-controlled crossover trial in 8 healthy adult volunteers, coadministration of a single dose of orally inhaled fluticasone propionate (1,000 mcg) with multiple doses of ketoconazole (200 mg) to steady state resulted in increased plasma fluticasone propionate exposure, a reduction in plasma cortisol AUC, and no effect on urinary excretion of cortisol.
 
-Salmeterol: In a placebo-controlled crossover drug interaction trial in 20 healthy male and female subjects, coadministration of salmeterol (50 mcg twice daily) and the strong CYP3A4 inhibitor ketoconazole (400 mg once daily) for 7 days resulted in a significant increase in plasma salmeterol exposure as determined by a 16-fold increase in AUC (ratio with and without ketoconazole 15.76 [90% CI: 10.66, 23.31]) mainly due to increased bioavailability of the swallowed portion of the dose.
+Salmeterol: In a placebo-controlled, crossover drug interaction trial in 20 healthy male and female subjects, coadministration of salmeterol (50 mcg twice daily) and the strong CYP3A4 inhibitor ketoconazole (400 mg once daily) for 7 days resulted in a significant increase in plasma salmeterol exposure as determined by a 16-fold increase in AUC (ratio with and without ketoconazole 15.76 [90% CI: 10.66, 23.31]) mainly due to increased bioavailability of the swallowed portion of the dose.
 Peak plasma salmeterol concentrations were increased by 1.4-fold (90% CI: 1.23, 1.68).
 Three (3) out of 20 subjects (15%) were withdrawn from salmeterol and ketoconazole coadministration due to beta-agonist–mediated systemic effects (2 with QTc prolongation and 1 with palpitations and sinus tachycardia).
 Coadministration of salmeterol and ketoconazole did not result in a clinically significant effect on mean heart rate, mean blood potassium, or mean blood glucose.
@@ -209,4 +209,4 @@ Although there was no statistical effect on the mean QTc, coadministration of sa
 
 Erythromycin: Fluticasone Propionate: In a multiple-dose drug interaction trial, coadministration of orally inhaled fluticasone propionate (500 mcg twice daily) and erythromycin (333 mg 3 times daily) did not affect fluticasone propionate pharmacokinetics.
 
-Salmeterol: In a repeat-dose trial in 13 healthy subjects, concomitant administration of erythromycin (a moderate CYP3A4 inhibitor) and salmeterol inhalation aerosol resulted in a 40% increase in salmeterol Cmax at steady state (ratio with and without erythromycin 1.4 [90% CI: 0.96, 2.03], P = 0.12), a 3.6-beat/min increase in heart rate ([95% CI: 0.19, 7.03], P less than 0.04), a 5.8-msec increase in QTc interval ([95% CI: -6.14, 17.77], P = 0.34), and no change in plasma potassium.
+Salmeterol: In a repeat-dose trial in 13 healthy subjects, concomitant administration of erythromycin (a moderate CYP3A4 inhibitor) and salmeterol inhalation aerosol resulted in a 40% increase in salmeterol Cmax at steady state (ratio with and without erythromycin 1.4 [90% CI: 0.96, 2.03], P = 0.12), a 3.6-beat/min increase in heart rate ([95% CI: 0.19, 7.03], P<0.04), a 5.8-msec increase in QTc interval ([95% CI: -6.14, 17.77], P = 0.34), and no change in plasma potassium.
