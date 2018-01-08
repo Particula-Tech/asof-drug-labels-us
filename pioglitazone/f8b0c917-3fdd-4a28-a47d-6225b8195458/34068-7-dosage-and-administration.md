@@ -37,4 +37,4 @@ If gemfibrozil or other CYP2C8 inhibitors need to co-administered, patients shou
 ## 2.4 Concomitant Use with Colesevelam
 
 When colesevelam is coadministered with glimepiride, maximum plasma concentration and total exposure to glimepiride is reduced.
-Therefore, DUETACT should be administered at least four hours prior to colesevelam [see Drug Interactions (7.6) and Clinical Pharmacology (12.3)].
+Therefore, DUETACT should be administered at least four hours prior to colesevelam [see Drug Interactions (7.7) and Clinical Pharmacology (12.3)].

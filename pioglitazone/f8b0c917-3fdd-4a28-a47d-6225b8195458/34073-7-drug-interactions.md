@@ -15,7 +15,14 @@ Pioglitazone
 An inducer of CYP2C8 (e.g., rifampin) may significantly decrease the exposure (AUC) of pioglitazone.
 Therefore, if an inducer of CYP2C8 is started or stopped during treatment with pioglitazone, changes in diabetes treatment may be needed based on clinical response without exceeding the maximum recommended daily dose of 45 mg for pioglitazone [see Clinical Pharmacology (12.3)].
 
-## 7.3 Drugs Affecting Glucose Metabolism
+## 7.3 Topiramate
+
+Pioglitazone
+
+A decrease in the exposure of pioglitazone and its active metabolites were noted with concomitant administration of pioglitazone and topiramate [see Clinical Pharmacology (12.3)].
+The clinical relevance of this decrease is unknown; however, when DUETACT and topiramate are used concomitantly, monitor patients for adequate glycemic control.
+
+## 7.4 Drugs Affecting Glucose Metabolism
 
 Glimepiride
 
@@ -35,14 +42,14 @@ Both acute and chronic alcohol intake may potentiate or weaken the glucose-lower
 
 The signs of hypoglycemia may be reduced or absent in patients taking sympatholytic drugs such as beta-blockers, clonidine, guanethidine, and reserpine.
 
-## 7.4 Miconazole
+## 7.5 Miconazole
 
 Glimepiride
 
 A potential interaction between oral miconazole and sulfonylureas leading to severe hypoglycemia has been reported.
 Whether this interaction also occurs with other dosage forms of miconazole is not known.
 
-## 7.5 CYP2C9 Interactions
+## 7.6 CYP2C9 Interactions
 
 Glimepiride
 
@@ -50,7 +57,7 @@ There may be an interaction between glimepiride and inhibitors (e.g., fluconazol
 Fluconazole may inhibit the metabolism of glimepiride, causing increased plasma concentrations of glimepiride which may lead to hypoglycemia.
 Rifampin may induce the metabolism of glimepiride, causing decreased plasma concentrations of glimepiride which may lead to worsening glycemic control.
 
-## 7.6 Concomitant Administration of Colesevelam
+## 7.7 Concomitant Administration of Colesevelam
 
 Glimepiride
 

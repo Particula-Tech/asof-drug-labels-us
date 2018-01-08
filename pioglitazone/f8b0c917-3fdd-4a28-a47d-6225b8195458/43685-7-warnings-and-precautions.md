@@ -135,4 +135,4 @@ Patients with diabetes who report any visual symptoms should be promptly referre
 
 ## 5.11 Macrovascular Outcomes
 
-There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with DUETACT or any other antidiabetic drug.
+There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with DUETACT.

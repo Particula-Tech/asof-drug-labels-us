@@ -35,7 +35,7 @@ In controlled clinical trials, pioglitazone had an additive effect on glycemic c
 
 Patients with lipid abnormalities were included in clinical trials with pioglitazone.
 Overall, patients treated with pioglitazone had mean decreases in serum triglycerides, mean increases in HDL cholesterol, and no consistent mean changes in LDL and total cholesterol.
-There is no conclusive evidence of macrovascular benefit with pioglitazone or any other antidiabetic medication [see Warnings and Precautions (5.11) and Adverse Reactions (6.1)].
+There is no conclusive evidence of macrovascular benefit with pioglitazone [see Warnings and Precautions (5.11) and Adverse Reactions (6.1)].
 
 In a 26-week, placebo-controlled, dose-ranging monotherapy study, mean serum triglycerides decreased in the 15 mg, 30 mg, and 45 mg pioglitazone dose groups compared to a mean increase in the placebo group.
 Mean HDL cholesterol increased to a greater extent in patients treated with pioglitazone than in the placebo-treated patients.
@@ -272,19 +272,21 @@ Pioglitazone
 | 400 mg twice daily for 7 days | ↑2% |  | ↑5% |  |  |
 | *Daily for 7 days unless otherwise noted †% change (with/without coadministered drug and no change = 0%); symbols of ↑ and ↓ indicate the exposure increase and decrease, respectively ‡Pioglitazone had no clinically significant effect on prothrombin time |  |  |  |  |  |
 
-| Table 14. Effect of Coadministered Drugs on Pioglitazone Systemic Exposure |  |  |  |
+Table 14.
+Effect of Coadministered Drugs on Pioglitazone Systemic Exposure
+
+| Dose Regimen (mg)Daily for 7 days unless otherwise noted | Change in AUCMean ratio (with/without coadministered drug and no change = 1-fold) % change (with/without coadministered drug and no change = 0%); symbols of ↑ and ↓ indicate the exposure increase and decrease, respectively | Change in Cmax |  |
 | --- | --- | --- | --- |
 | Coadministered Drug and Dosage Regimen | Pioglitazone |  |  |
-| Dose Regimen (mg)* | Change in AUC† | Change in Cmax† |  |
-| Gemfibrozil 600 mg twice daily for 2 days (N=12) | 15 mg single dose | ↑3.2-fold‡ | ↑6% |
+| Gemfibrozil 600 mg twice daily for 2 days (N=12) | 15 mg single dose | ↑3.2-foldThe half-life of pioglitazone increased from 8.3 hours to 22.7 hours in the presence of gemfibrozil [see Dosage and Administration (2.3) and Drug Interactions (7)] | ↑6% |
 | Ketoconazole 200 mg twice daily for 7 days (N=28) | 45 mg | ↑34% | ↑14% |
 | Rifampin 600 mg daily for 5 days (N=10) | 30 mg single dose | ↓54% | ↓5% |
-| Fexofenadine 60 mg twice daily for 7 days (N=23) | 45 mg | ↑1% | 0% |
-| Ranitidine 150 mg twice daily for 4 days (N=23) | 45 mg | ↓13% | ↓16% |
+| Fexofenadine 60 mg twice daily for 7 days (N=23) | 45 mg | ↑ 1% | 0% |
+| Ranitidine 150 mg twice daily for 4 days (N=23) | 45 mg | ↓ 13% | ↓16% |
 | Nifedipine ER 30 mg daily for 7 days (N=23) | 45 mg | ↑5% | ↑4% |
 | Atorvastatin Ca 80 mg daily for 7 days (N = 24) | 45 mg | ↓24% | ↓31% |
 | Theophylline 400 mg twice daily for 7 days (N=22) | 45 mg | ↓4% | ↓2% |
-| *Daily for 7 days unless otherwise noted †Mean ratio (with/without coadministered drug and no change = 1-fold) % change (with/without coadministered drug and no change = 0%); symbols of ↑ and ↓ indicate the exposure increase and decrease, respectively ‡The half-life of pioglitazone increased from 8.3 hours to 22.7 hours in the presence of gemfibrozil [see Dosage and Administration (2.3) and Drug Interactions (7)] |  |  |  |
+| Topiramate 96 mg twice daily for 7 daysIndicates duration of concomitant administration with highest twice-daily dose of topiramate from Day 14 onwards over the 22 days of study (N=26) | 30 mg | ↓15%Additional decrease in active metabolites; 60% for M-III and 16% for M-IV | 0% |
 
 Glimepiride
 
@@ -320,4 +322,4 @@ The reductions in mean area under the prothrombin time (PT) curve and maximum PT
 Colesevelam
 
 Concomitant administration of colesevelam and glimepiride resulted in reductions in glimepiride AUC0-∞ and Cmax of 18% and 8%, respectively.
-When glimepiride was administered 4 hours prior to colesevelam, there was not significant change in glimepiride AUC0-∞ and Cmax, -6% and 3%, respectively [see Dosage and Administration (2.4) and Drug Interactions (7.6)].
+When glimepiride was administered 4 hours prior to colesevelam, there was not significant change in glimepiride AUC0-∞ and Cmax, -6% and 3%, respectively [see Dosage and Administration (2.4) and Drug Interactions (7.7)].
