@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Adults-Treatment of HIV-1 Infection
+## 2.1 Adults - Treatment of HIV-1 Infection
 
 Oral Dosing The recommended oral dose of zidovudine oral solution is 300 mg twice daily in combination with other antiretroviral agents.
 
@@ -13,7 +13,8 @@ If a child is unable to reliably swallow a zidovudine capsule, the zidovudine sy
 The recommended oral dosage in pediatric patients aged 4 weeks to less than 18 years and weighing greater than or equal to 4 kg is provided in Table 1.
 Zidovudine oral solution should be used to provide accurate dosage when capsules are not appropriate.
 
-Table 1: Recommended Pediatric Oral Dosage of Zidovudine Oral Solution
+Table 1.
+Recommended Pediatric Oral Dosage of Zidovudine Oral Solution
 
 | Twice Daily | Three Times Daily |  |  |
 | --- | --- | --- | --- |
