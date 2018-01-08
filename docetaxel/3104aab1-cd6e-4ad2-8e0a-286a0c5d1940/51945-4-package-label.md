@@ -1,12 +1,8 @@
 # PRINCIPAL DISPLAY PANEL - 1 mL Vial Label
 
-1 mL
+1 mL Rx only NDC 0409-0366-01
 
-Rx only
-
-NDC 0409-0366-01
-
-Docetaxel Injection 20 mg/mL
+Docetaxel Injection, USP 20 mg/mL
 
 Single use vial.
 Discard unused portion.
@@ -25,7 +21,9 @@ See package insert for complete instructions.
 
 NDC 0409-0366-01
 
-Docetaxel Injection 20 mg/mL
+Docetaxel Injection, USP
+
+20 mg/mL
 
 For Intravenous Infusion only
 
@@ -38,19 +36,13 @@ See package insert for complete instructions.
 
 # PRINCIPAL DISPLAY PANEL - 4 mL Vial Label
 
-4 mL Multi-use Vial
+4 mL Multi-use Vial Sterile NDC 0409-0367-01
 
-Sterile
-
-NDC 0409-0367-01
-
-Docetaxel Injection 80 mg/4 mL
+Docetaxel Injection, USP 80 mg/4 mL
 
 (20 mg/mL)
 
-For Intravenous Infusion only
-
-Rx only
+For Intravenous Infusion only Rx only
 
 Ready to add to infusion solution.
 Check concentration prior to preparation.
@@ -64,7 +56,7 @@ See package insert for complete instructions.
 
 NDC 0409-0367-01
 
-Docetaxel Injection 80 mg/4 mL
+Docetaxel Injection, USP 80 mg/4 mL
 
 (20 mg/mL)
 
@@ -79,19 +71,13 @@ See package insert for complete instructions.
 
 # PRINCIPAL DISPLAY PANEL - 8 mL Vial Label
 
-8 mL Multi-use Vial
+8 mL Multi-use Vial Sterile NDC 0409-0368-01
 
-Sterile
-
-NDC 0409-0368-01
-
-Docetaxel Injection 160 mg/8 mL
+Docetaxel Injection, USP 160 mg/8 mL
 
 (20 mg/mL)
 
-For Intravenous Infusion only
-
-Rx only
+For Intravenous Infusion only Rx only
 
 Ready to add to infusion solution.
 Check concentration prior to preparation.
@@ -105,7 +91,7 @@ See package insert for complete instructions.
 
 NDC 0409-0368-01
 
-Docetaxel Injection 160 mg/8 mL
+Docetaxel Injection, USP 160 mg/8 mL
 
 (20 mg/mL)
 
