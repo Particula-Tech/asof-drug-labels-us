@@ -177,11 +177,11 @@ Before starting citalopram tablets, tell your healthcare provider if you
 
 • Triptans used to treat migraine headache
 
-• Medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, SSRIs, SNRIs, or antipsychotics
+• Medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, SSRIs, SNRIs, amphetamines, or antipsychotics
 
 • Tramadol
 
-• Over-the-counter supplements such as tryptophan or St. John’s Wort
+• Over-the-counter supplements such as tryptophan or St. John's Wort
 
 - have liver problems
 - have kidney problems
@@ -300,20 +300,14 @@ Manufactured by:
 TORRENT PHARMACEUTICALS LTD., Indrad-382 721, Dist.
 Mehsana, INDIA.
 
-For:
-
-TORRENT PHARMA INC., 150 Allen Road, Suite 102, Basking Ridge, NJ 07920
-
-8050573 Revised August 2014
-
 OR
 
 Manufactured by:
 
 TORRENT PHARMACEUTICALS LTD., Bharuch-392130, INDIA.
 
-Manufactured For:
+For:
 
 TORRENT PHARMA INC., Basking Ridge, NJ 07920.
 
-8055781 Revised July 2015
+8063159 Revised January 2017
