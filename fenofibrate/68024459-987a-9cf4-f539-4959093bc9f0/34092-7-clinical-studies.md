@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Primary Hypercholesterolemia (Heterozygous Familial and Non Familial) and Mixed Dyslipidemia
+## 14.1 Primary Hypercholesterolemia (Heterozygous Familial and Non familial) and Mixed Dyslipidemia
 
 The effects of fenofibrate at a dose equivalent to 130 mg fenofibrate per day were assessed from four randomized, placebo-controlled, double-blind, parallel group studies including patients with the following mean baseline lipid values: total-C 306.9 mg/dL; LDL-C 213.8 mg/dL; HDL-C 52.3 mg/dL; and triglycerides 191.0 mg/dL.
 Fenofibrate therapy lowered LDL-C, Total-C, and the LDL-C/HDL-C ratio.

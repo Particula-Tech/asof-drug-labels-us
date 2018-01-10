@@ -60,7 +60,7 @@ The incidence of increases in transaminases levels related to fenofibrate therap
 Hepatocellular, chronic active and cholestatic hepatitis associated with fenofibrate therapy have been reported after exposures of weeks to several years.
 In extremely rare cases, cirrhosis has been reported in association with chronic active hepatitis.
 
-Baseline and regular periodic monitoring of liver function, including serum ALT (SGPT) should be performed for the duration of therapy with fenofibrate, and therapy discontinued if enzyme levels persist above 3 times the normal limit.
+Baseline and regular periodic monitoring of liver function, including serum ALT (SGPT) should be performed for the duration of therapy with fenofibrate, and therapy discontinued if enzyme levels persist above three times the normal limit.
 
 ## 5.4 Serum Creatinine
 
