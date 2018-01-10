@@ -1,0 +1,15 @@
+# CONTAINER LABEL 60g
+
+IMPOYZ CREAM, 60 g - Tube Label
+
+# CARTON 60g
+
+IMPOYZ CREAM, 60 g - Carton Label
+
+# CONTAINER LABEL 112g
+
+IMPOYZ CREAM, 112 g - Tube Label
+
+# CARTON 112g
+
+IMPOYZ CREAM, 112 g - Carton Label

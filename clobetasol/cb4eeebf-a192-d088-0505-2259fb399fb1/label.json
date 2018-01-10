@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA209483"
+  ],
+  "inn": "clobetasol",
+  "labeler": "Promius Pharma, LLC.",
+  "package_ndcs": [
+    "67857-811-57",
+    "67857-811-58"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "clobetasol propionate",
+      "name": "IMPOYZ"
+    }
+  ],
+  "setid": "cb4eeebf-a192-d088-0505-2259fb399fb1",
+  "source": "dailymed"
+}
