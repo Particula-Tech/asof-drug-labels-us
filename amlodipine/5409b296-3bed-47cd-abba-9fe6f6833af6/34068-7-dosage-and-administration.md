@@ -2,9 +2,9 @@
 
 ## 2.1 Adults
 
-The usual initial antihypertensive oral dose of amlodipine besylate tablet, USP is 5 mg once daily, and the maximum dose is 10 mg once daily.
+The usual initial antihypertensive oral dose of amlodipine besylate tablet is 5 mg once daily, and the maximum dose is 10 mg once daily.
 
-Small, fragile, or elderly patients, or patients with hepatic insufficiency may be started on 2.5 mg once daily and this dose may be used when adding amlodipine besylate tablet, USP to other antihypertensive therapy.
+Small, fragile, or elderly patients, or patients with hepatic insufficiency may be started on 2.5 mg once daily and this dose may be used when adding amlodipine besylate tablet to other antihypertensive therapy.
 
 Adjust dosage according to blood pressure goals.
 In general, wait 7 to 14 days between titration steps.
