@@ -1,4 +1,4 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 Hydromorphone Hydrochloride Tablets, USP 2 mg are light orange to orange colored, mottled, round, flat-faced beveled edge tablets debossed with ‘U’ on one side and ‘44’ on the other side.
 Bottles of 20 NDC 13107-107-20 Bottles of 100 NDC 13107-107-01 Bottles of 500 NDC 13107-107-05 Bottles of 1000 NDC 13107-107-99 Hydromorphone Hydrochloride Tablets, USP 4 mg are light yellow to yellow colored, round, flat-faced beveled edge tablets debossed with ‘U’ on one side and ‘45’ on the other side.
@@ -10,6 +10,3 @@ Dispense in a tight, light resistant container as defined in the USP.
 A Schedule CS-II Narcotic.
 DEA Order Form is required.
 Trademarks are the property of their respective owners.
-Manufactured by: Aurolife Pharma LLC Dayton, NJ 08810 Manufactured for: Aurobindo Pharma USA, Inc. Dayton, NJ 08810
-
-Revised: 05/2016
