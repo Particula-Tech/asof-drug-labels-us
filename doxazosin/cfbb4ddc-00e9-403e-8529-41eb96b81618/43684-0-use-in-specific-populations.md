@@ -2,20 +2,29 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C: CARDURA XL is not indicated for use in women.
-Doxazosin base was found to cross the placenta following oral administration to pregnant rats, resulting in fetal exposure.
-There was no evidence of teratogenicity or embryotoxicity in rat or rabbit fetuses at exposures 32- and 13- fold greater than the AUC values for doxazosin base in men given the maximum recommended human dose (MHRD) of 8 mg CARDURA XL.
-Maternal rat and rabbit doses were 20 mg/kg/day or 41 mg/kg/day doxazosin base, respectively, administered during major organ development.
-Embryolethality was observed in rabbits at a dose of 100 mg/kg/day of doxazosin mesylate when administered during major organ development.
-There are no adequate and well-controlled studies in pregnant women.
+Risk Summary
 
-Nonteratogenic Effects: In pre- and postnatal development studies in rats, postnatal development was delayed, as evidenced by body weight gain suppression and a slight delay in the appearance of developmental anatomical landmarks and reflexes at a doxazosin base exposure of 26-fold above the human exposure (AUC) at the MHRD of 8 mg CARDURA XL.
+CARDURA XL is not indicated for use in females and is not indicated for the treatment of hypertension.
+The limited available data with CARDURA XL in pregnant women are not sufficient to inform a drug-associated risk for major birth defects and miscarriage.
+No adverse developmental outcomes were observed in animal reproduction studies with oral administration of doxazosin to pregnant rats and rabbits at doses of up to 10 and 4 times, respectively, the 12 mg/day recommended dose.
+Postnatal development was delayed in rats at a dose of 8 times the 12 mg/day recommended dose [see Data].
 
-## 8.3 Nursing Mothers
+Data
 
-Doxazosin base was secreted into the milk in lactating rats at concentrations approximately 20-fold above the exposure found in the maternal plasma following an oral dose of 1 mg/kg.
-It is not known if doxazosin is excreted in human breast milk.
-Use of CARDURA XL in nursing mothers is not recommended.
+Animal Data
+
+Radioactivity was found to cross the placenta following oral administration of labeled doxazosin to pregnant rats.
+Studies in pregnant rabbits and rats at daily oral doses of up to 41 and 20 mg/kg, respectively (plasma drug concentrations of 10 and 4 times, respectively, the human AUC exposures with a 12 mg/day therapeutic dose), during organogenesis have revealed no evidence of adverse developmental effects.
+A dosage regimen of 82 mg/kg/day in the rabbit was associated with reduced fetal survival.
+In peri- and postnatal studies in rats, postnatal development at maternal doses of 40 or 50 mg/kg/day of doxazosin (about 8 times human AUC exposure with a 12 mg/day therapeutic dose) was delayed, as evidenced by slower body weight gain and slightly later appearance of anatomical features and reflexes.
+
+## 8.2 Lactation
+
+Risk Summary
+
+CARDURA XL is not indicated for use in females and is not indicated for the treatment of hypertension.
+Doxazosin is present in human milk.
+There is no information on the effects of CARDURA XL on the breastfeed infant or the effects on milk production.
 
 ## 8.4 Pediatric Use
 

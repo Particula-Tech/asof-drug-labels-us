@@ -77,7 +77,7 @@ CARDURA XL may cause serious side effects including:
 - a sudden drop in blood pressure (postural hypotension).
   Postural hypotension can happen at any time while you take CARDURA XL.
   The chance of having postural hypotension is higher a few hours after you take CARDURA XL or if you start taking a higher dose.
-  Symptoms of postural hypotension may happen after you stand up from a lying or sitting position and may include: You should get up slowly from a chair or bed until you know how CARDURA XL will affect you.
+  Symptoms of postural hypotension may happen after you stand up from a lying or sitting position and may include:You should get up slowly from a chair or bed until you know how CARDURA XL will affect you.
   If you begin to feel dizzy or lightheaded, sit or lie down with your legs and feet up.
   If your symptoms do not get better call your healthcare provider.
   - dizziness or
@@ -135,4 +135,4 @@ Active Ingredient: doxazosin mesylate
 
 Inactive Ingredients: polyethylene oxide, sodium chloride, hypromellose, red ferric oxide, titanium dioxide, magnesium stearate, cellulose acetate, Macrogol®, pharmaceutical glaze, and black iron oxide.
 
-LAB-0425-2.0 June 2015
+LAB-0425-3.0 February 2017

@@ -1,7 +1,7 @@
 # 11 DESCRIPTION
 
 CARDURA XL contains doxazosin mesylate which is a quinazoline compound with the chemical name 1-(4-amino-6,7-dimethoxy-2-quinazolinyl)-4-(1,4-benzodioxan-2-ylcarbonyl) piperazine methanesulfonate.
-The empirical formula for doxazosin mesylate is C23H25N5O5 • CH4O3S and the molecular weight is 547.6.
+The empirical formula for doxazosin mesylate is C23H25N5O5 ∙ CH4O3S and the molecular weight is 547.6.
 It has the following structure:
 
 CARDURA XL is an extended release tablet for oral use and is designed to deliver 4 or 8 mg of doxazosin as the free base.
