@@ -1,11 +1,11 @@
 # 14 CLINICAL STUDIES
 
-Adult clinical study
+Adult Clinical Study
 
 A double-blind, placebo-controlled, fixed-dose, parallel group, two-week study was conducted in 133 patients with persistent, moderate to severe pain, who were judged as having inadequate pain control with their current therapy.
-In this study, OXYCODONE HCl EXTENDED-RELEASE TABLETS 20 mg, but not 10 mg, were statistically significant in pain reduction compared with placebo.
+In this study, OXYCODONE HCl EXTENDED-RELEASE TABLETS 20 mg, but not 10 mg, was statistically significant in pain reduction compared with placebo.
 
-Pediatric clinical study
+Pediatric Clinical Study
 
 OXYCODONE HCl EXTENDED-RELEASE TABLETS has been evaluated in an open-label clinical trial of 155 opioid-tolerant pediatric patients with moderate to severe chronic pain.
 The mean duration of therapy was 20.7 days (range 1 to 43 days).

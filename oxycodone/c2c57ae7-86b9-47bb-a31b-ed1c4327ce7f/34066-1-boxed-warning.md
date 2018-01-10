@@ -1,9 +1,9 @@
-# WARNING: ADDICTION, ABUSE and MISUSE; LIFE-THREATENING RESPIRATORY DEPRESSION; ACCIDENTAL INGESTION; NEONATAL OPIOID WITHDRAWAL SYNDROME; and CYTOCHROME P450 3A4 INTERACTION
+# WARNING: ADDICTION, ABUSE AND MISUSE; LIFE-THREATENING RESPIRATORY DEPRESSION; ACCIDENTAL INGESTION; NEONATAL OPIOID WITHDRAWAL SYNDROME; CYTOCHROME P450 3A4 INTERACTION; and RISKS FROM CONCOMITANT USE WITH BENZODIAZEPINES OR OTHER CNS DEPRESSANTS
 
 Addiction, Abuse, and Misuse
 
-OXYCODONE HCl EXTENDED-RELEASE TABLETS expose patients and other users to the risks of opioid addiction, abuse and misuse, which can lead to overdose and death.
-Assess each patient’s risk prior to prescribing OXYCODONE HCl EXTENDED-RELEASE TABLETS and monitor all patients regularly for the development of these behaviors or conditions [see Warnings and Precautions (5.1)].
+OXYCODONE HCl EXTENDED-RELEASE TABLETS exposes patients and other users to the risks of opioid addiction, abuse and misuse, which can lead to overdose and death.
+Assess each patient’s risk prior to prescribing OXYCODONE HCl EXTENDED-RELEASE TABLETS and monitor all patients regularly for the development of these behaviors and conditions [see Warnings and Precautions (5.1)].
 
 Life-Threatening Respiratory Depression
 
@@ -24,4 +24,12 @@ Cytochrome P450 3A4 Interaction
 
 The concomitant use of OXYCODONE HCl EXTENDED-RELEASE TABLETS with all cytochrome P450 3A4 inhibitors may result in an increase in oxycodone plasma concentrations, which could increase or prolong adverse drug effects and may cause potentially fatal respiratory depression.
 In addition, discontinuation of a concomitantly used cytochrome P450 3A4 inducer may result in an increase in oxycodone plasma concentration.
-Monitor patients receiving OXYCODONE HCl EXTENDED-RELEASE TABLETS and any CYP3A4 inhibitor or inducer [see Warnings and Precautions (5.14) and Clinical Pharmacology (12.3)].
+Monitor patients receiving OXYCODONE HCl EXTENDED-RELEASE TABLETS and any CYP3A4 inhibitor or inducer [see Warnings and Precautions (5.4), Drug Interactions (7), Clinical Pharmacology (12.3)].
+
+Risks From Concomitant Use With Benzodiazepines Or Other CNS Depressants
+
+Concomitant use of opioids with benzodiazepines or other central nervous system (CNS) depressants, including alcohol, may result in profound sedation, respiratory depression, coma, and death [see Warnings and Precautions (5.5), Drug Interactions (7)].
+
+- Reserve concomitant prescribing of OXYCODONE HCl EXTENDED-RELEASE TABLETS and benzodiazepines or other CNS depressants for use in patients for whom alternative treatment options are inadequate.
+- Limit dosages and durations to the minimum required.
+- Follow patients for signs and symptoms of respiratory depression and sedation.

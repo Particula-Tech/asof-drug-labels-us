@@ -4,16 +4,22 @@
 
 OXYCODONE HCl EXTENDED-RELEASE TABLETS should be prescribed only by healthcare professionals who are knowledgeable in the use of potent opioids for the management of chronic pain.
 
-- Initiate the dosing regimen for each patient individually, taking into account the patient's prior analgesic treatment experience, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1)].
-- Monitor patients closely for respiratory depression, especially within the first 24-72 hours of initiating OXYCODONE HCl EXTENDED-RELEASE TABLETS therapy [see Warnings and Precautions (5.2)].
-- Must take OXYCODONE HCl EXTENDED-RELEASE TABLETS whole, with enough water to ensure complete swallowing immediately after placing in the mouth.
-  Must take OXYCODONE HCl EXTENDED-RELEASE TABLETS one tablet at a time and must not pre-soak, lick or otherwise wet the tablet prior to placing in the mouth [see Warnings and Precautions (5.9)].Cutting, breaking, crushing, chewing, or dissolving OXYCODONE HCl EXTENDED-RELEASE TABLETS will result in uncontrolled delivery of oxycodone and can lead to overdose or death [see Warnings and Precautions (5.1)].
-- OXYCODONE HCl EXTENDED-RELEASE TABLETS 60 mg and 80 mg tablets, a single dose greater than 40 mg, or a total daily dose greater than 80 mg are only for use in patients in whom tolerance to an opioid of comparable potency has been established.
+OXYCODONE HCl EXTENDED-RELEASE TABLETS 60 mg and 80 mg tablets, a single dose greater than 40 mg, or a total daily dose greater than 80 mg are only for use in patients in whom tolerance to an opioid of comparable potency has been established.
+Adult patients who are opioid tolerant are those receiving, for one week or longer, at least 60 mg oral morphine per day, 25 mcg transdermal fentanyl per hour, 30 mg oral oxycodone per day, 8 mg oral hydromorphone per day, 25 mg oral oxymorphone per day, 60 mg oral hydrocodone per day, or an equianalgesic dose of another opioid.
+
+- Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5.1)].
+- Initiate the dosing regimen for each patient individually; taking into account the patient's severity of pain, patient response, prior analgesic treatment experience, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1)].
+- Monitor patients closely for respiratory depression, especially within the first 24-72 hours of initiating therapy and following dosage increases OXYCODONE HCl EXTENDED-RELEASE TABLETS and adjust the dosage accordingly [see Warnings and Precautions (5.2)].
+
+Instruct patients to swallow OXYCODONE HCl EXTENDED-RELEASE TABLETS whole, one tablet at a time, with enough water to ensure complete swallowing immediately after placing in the mouth [see Patient Counseling Information (17)].
+Instruct patients not to pre-soak, lick, or otherwise wet the tablet prior to placing in the mouth [see Warnings and Precautions (5.10)].
+Cutting, breaking, crushing, chewing, or dissolving OXYCODONE HCl EXTENDED-RELEASE TABLETS will result in uncontrolled delivery of oxycodone and can lead to overdose or death [see Warnings and Precautions (5.1)].
+
+OXYCODONE HCl EXTENDED-RELEASE TABLETS is administered orally every 12 hours.
 
 ## 2.2 Initial Dosage in Adults who are not Opioid-Tolerant
 
 The starting dosage for patients who are not opioid tolerant is OXYCODONE HCl EXTENDED-RELEASE TABLETS 10 mg orally every 12 hours.
-Adult patients who are opioid tolerant are those receiving, for one week or longer, at least 60 mg oral morphine per day, 25 mcg transdermal fentanyl per hour, 30 mg oral oxycodone per day, 8 mg oral hydromorphone per day, 25 mg oral oxymorphone per day, or an equianalgesic dose of another opioid.
 
 Use of higher starting doses in patients who are not opioid tolerant may cause fatal respiratory depression [see Warnings and Precautions (5.2)].
 
@@ -25,11 +31,16 @@ If switching from other oral oxycodone formulations to OXYCODONE HCl EXTENDED-RE
 
 Conversion from Other Opioids to OXYCODONE HCl EXTENDED-RELEASE TABLETS
 
-There are no established conversion ratios for conversion from other opioids to OXYCODONE HCl EXTENDED-RELEASE TABLETS defined by clinical trials.
-Discontinue all other around-the-clock opioid drugs when OXYCODONE HCl EXTENDED-RELEASE TABLETS therapy is initiated and initiate dosing using OXYCODONE HCl EXTENDED-RELEASE TABLETS 10 mg orally every 12 hours.
+Discontinue all other around-the-clock opioid drugs when OXYCODONE HCl EXTENDED-RELEASE TABLETS therapy is initiated.
 
-It is safer to underestimate a patient’s 24-hour oral oxycodone requirements and provide rescue medication (e.g., immediate-release opioid) than to overestimate the 24-hour oral oxycodone requirements which could result in adverse reactions.
+There are no established conversion ratios for conversion from other opioids to OXYCODONE HCl EXTENDED-RELEASE TABLETS defined by clinical trials.
+Initiate dosing using OXYCODONE HCl EXTENDED-RELEASE TABLETS 10 mg orally every 12 hours.
+
+It is safer to underestimate a patient’s 24-hour oral oxycodone requirements and provide rescue medication (e.g., immediate-release opioid) than to overestimate the 24-hour oral oxycodone dosage and manage an adverse reaction due to an overdose.
 While useful tables of opioid equivalents are readily available, there is substantial inter-patient variability in the relative potency of different opioids.
+
+Close observation and frequent titration are warranted until pain management is stable on the new opioid.
+Monitor patients for signs and symptoms of opioid withdrawal and for signs of oversedation/toxicity after converting patients to OXYCODONE HCl EXTENDED-RELEASE TABLETS.
 
 Conversion from Methadone to OXYCODONE HCl EXTENDED-RELEASE TABLETS
 
@@ -39,7 +50,7 @@ Methadone has a long half-life and can accumulate in the plasma.
 
 Conversion from Transdermal Fentanyl to OXYCODONE HCl EXTENDED-RELEASE TABLETS
 
-If switching from transdermal fentanyl patch to OXYCODONE HCl EXTENDED-RELEASE TABLETS, ensure that the patch has been removed for at least 18 hours prior to starting OXYCODONE HCI EXTENDED-RELEASE TABLETS.
+Treatment with OXYCODONE HCl EXTENDED-RELEASE TABLETS can be initiated after the transdermal fentanyl patch has been removed for at least 18 hours.
 Although there has been no systematic assessment of such conversion, start with a conservative conversion: substitute 10 mg of OXYCODONE HCI EXTENDED-RELEASE TABLETS every 12 hours for each 25 mcg per hour fentanyl transdermal patch.
 Follow the patient closely during conversion from transdermal fentanyl to OXYCODONE HCl EXTENDED-RELEASE TABLETS, as there is limited documented experience with this conversion.
 
@@ -52,18 +63,16 @@ Table 1, based on clinical trial experience, displays the conversion factor when
 
 Discontinue all other around-the-clock opioid drugs when OXYCODONE HCl EXTENDED-RELEASE TABLETS therapy is initiated.
 
-Although tables of oral and parenteral equivalents are readily available, there is substantial inter-patient variability in the relative potency of different opioid drugs and formulations.
-As such, it is preferable to underestimate a patient’s 24-hour oral oxycodone requirements and provide rescue medication (e.g., immediate-release opioid) than to overestimate the 24-hour oral oxycodone requirements and manage an adverse reaction.
+There is substantial inter-patient variability in the relative potency of different opioid drugs and formulations.
+Therefore, a conservative approach is advised when determining the total daily dosage of OXYCODONE HCl EXTENDED-RELEASE TABLETS.
+It is safer to underestimate a patient’s 24-hour oral oxycodone requirements and provide rescue medication (e.g., immediate-release opioid) than to overestimate the 24-hour oral oxycodone requirements and manage an adverse reaction due to an overdose.
 
 Consider the following when using the information in Table 1.
 
 - This is not a table of equianalgesic doses.
-
 - The conversion factors in this table are only for the conversion from one of the listed oral opioid analgesics to OXYCODONE HCl EXTENDED-RELEASE TABLETS.
-
 - The table cannot be used to convert from OXYCODONE HCl EXTENDED-RELEASE TABLETS to another opioid.
   Doing so will result in an over-estimation of the dose of the new opioid and may result in fatal overdose.
-
 - The formula for conversion from prior opioids, including oral oxycodone, to the daily dose of OXYCODONE HCl EXTENDED-RELEASE TABLETS is mg per day of prior opioid x factor = mg per day of OXYCODONE HCl EXTENDED-RELEASE TABLETS.
   Divide the calculated total daily dose by 2 to get the every-12-hour OXYCODONE HCl EXTENDED-RELEASE TABLETS dose.
   If rounding is necessary, always round the dose down to the nearest OXYCODONE HCl EXTENDED-RELEASE TABLET strength available.
@@ -82,9 +91,7 @@ Table 1: Conversion Factors When Switching Pediatric Patients 11 Years and Older
 Step #1: To calculate the estimated total OXYCODONE HCl EXTENDED-RELEASE TABLETS daily dosage using Table 1:
 
 - For pediatric patients taking a single opioid, sum the current total daily dosage of the opioid and then multiply the total daily dosage by the approximate conversion factor to calculate the approximate OXYCODONE HCl EXTENDED-RELEASE TABLETS daily dosage.
-
 - For pediatric patients on a regimen of more than one opioid, calculate the approximate oxycodone dose for each opioid and sum the totals to obtain the approximate OXYCODONE HCl EXTENDED-RELEASE TABLETS daily dosage.
-
 - For pediatric patients on a regimen of fixed-ratio opioid/non-opioid analgesic products, use only the opioid component of these products in the conversion.
 
 Step #2: If rounding is necessary, always round the dosage down to the nearest OXYCODONE HCl EXTENDED-RELEASE TABLET strength available and initiate OXYCODONE HCl EXTENDED-RELEASE TABLETS therapy with that dose.
@@ -95,7 +102,7 @@ After rounding down to the nearest strength available, the recommended OXYCODONE
 
 Step #3: Close observation and titration are warranted until pain management is stable on the new opioid.
 Monitor patients for signs and symptoms of opioid withdrawal or for signs of over-sedation/toxicity after converting patients to OXYCODONE HCl EXTENDED-RELEASE TABLETS.
-[seeDosage and Administration (2.5)] for important instructions on titration and maintenance of therapy.
+See Dosage and Administration (2.5) for important instructions on titration and maintenance of therapy.
 
 There is limited experience with conversion from transdermal fentanyl to OXYCODONE HCl EXTENDED-RELEASE TABLETS in pediatric patients 11 years and older.
 If switching from transdermal fentanyl patch to OXYCODONE HCl EXTENDED-RELEASE TABLETS, ensure that the patch has been removed for at least 18 hours prior to starting OXYCODONE HCl EXTENDED-RELEASE TABLETS.
@@ -107,14 +114,15 @@ If using asymmetric dosing, instruct patients to take the higher dose in the mor
 ## 2.5 Titration and Maintenance of Therapy in Adults and Pediatric Patients 11 Years and Older
 
 Individually titrate OXYCODONE HCl EXTENDED-RELEASE TABLETS to a dosage that provides adequate analgesia and minimizes adverse reactions.
-Continually reevaluate patients receiving OXYCODONE HCl EXTENDED-RELEASE TABLETS to assess the maintenance of pain control, signs and symptoms of opioid withdrawal, and adverse reactions, as well as monitoring for the development of addiction, abuse and misuse.
+Continually reevaluate patients receiving OXYCODONE HCl EXTENDED-RELEASE TABLETS to assess the maintenance of pain control, signs and symptoms of opioid withdrawal, and adverse reactions, as well as monitoring for the development of addiction, abuse and misuse [see Warnings and Precautions (5.1)].
 Frequent communication is important among the prescriber, other members of the healthcare team, the patient, and the caregiver/family during periods of changing analgesic requirements, including initial titration.
 During chronic therapy, periodically reassess the continued need for the use of opioid analgesics.
 
-Patients who experience breakthrough pain may require a dosage increase of OXYCODONE HCl EXTENDED-RELEASE TABLETS or may need rescue medication with an appropriate dose of an immediate-release analgesic.
+Patients who experience breakthrough pain may require a dosage adjustment of OXYCODONE HCl EXTENDED-RELEASE TABLETS or may need rescue medication with an appropriate dose of an immediate-release analgesic.
 If the level of pain increases after dose stabilization, attempt to identify the source of increased pain before increasing the OXYCODONE HCl EXTENDED-RELEASE TABLETS dosage.
 Because steady-state plasma concentrations are approximated in 1 day, OXYCODONE HCl EXTENDED-RELEASE TABLETS dosage may be adjusted every 1 to 2 days.
-If unacceptable opioid-related adverse reactions are observed, the subsequent dose may be reduced.
+
+If unacceptable opioid-related adverse reactions are observed, consider reducing the dosage.
 Adjust the dosage to obtain an appropriate balance between management of pain and opioid-related adverse reactions.
 
 There are no well-controlled clinical studies evaluating the safety and efficacy with dosing more frequently than every 12 hours.
@@ -123,17 +131,19 @@ As a guideline for adults, the total daily oxycodone dosage usually can be incre
 
 ## 2.6 Dosage Modifications with Concomitant Use of Central Nervous System Depressants
 
-If the patient is currently taking a central nervous system (CNS) depressant and the decision is made to begin OXYCODONE HCl EXTENDED-RELEASE TABLETS, start with 1/3 to 1/2 the recommended starting dosage of OXYCODONE HCl EXTENDED-RELEASE TABLETS and monitor patients for signs of respiratory depression, sedation, and hypotension [see Warnings and Precautions (5.4), Drug Interactions (7.1)].
+If the patient is currently taking a central nervous system (CNS) depressant and the decision is made to begin OXYCODONE HCl EXTENDED-RELEASE TABLETS, start with one-third to one-half the recommended starting dosage of OXYCODONE HCl EXTENDED-RELEASE TABLETS, consider using a lower dosage of the concomitant CNS depressant, and monitor patients for signs of respiratory depression, sedation, and hypotension [see Warnings and Precautions (5.5), Drug Interactions (7)].
 
 ## 2.7 Dosage Modifications in Geriatric Patients who are Debilitated and not Opioid-Tolerant
 
-For geriatric patients who are debilitated and not opioid tolerant, start dosing patients at 1/3 to 1/2 the recommended starting dosage and titrate the dosage cautiously [see Use in Specific Populations (8.5)].
+For geriatric patients who are debilitated and not opioid tolerant, start dosing patients at one-third to one-half the recommended starting dosage and titrate the dosage cautiously [see Use in Specific Populations (8.5)].
 
 ## 2.8 Dosage Modifications in Patients with Hepatic Impairment
 
-For patients with hepatic impairment, start dosing patients at 1/3 to 1/2 the recommended starting dosage followed by careful dosage titration [see Clinical Pharmacology (12.3)].
+For patients with hepatic impairment, start dosing patients at one-third to one-half the recommended starting dosage and titrate the dosage carefully.
+Monitor for signs of respiratory depression, sedation, and hypotension [see Use in Specific Populations, (8.6), Clinical Pharmacology (12.3)].
 
 ## 2.9 Discontinuation of OXYCODONE HCl EXTENDED-RELEASE TABLETS
 
-When the patient no longer requires therapy with OXYCODONE HCl EXTENDED-RELEASE TABLETS, gradually titrate the dosage downward to prevent signs and symptoms of withdrawal in the physically dependent patient.
-Do not abruptly discontinue OXYCODONE HCl EXTENDED-RELEASE TABLETS.
+When the patient no longer requires therapy with OXYCODONE HCl EXTENDED-RELEASE TABLETS, taper the dosage gradually, by 25% to 50% every 2 to 4 days, while monitoring for signs and symptoms of withdrawal.
+If a patient develops these signs or symptoms, raise the dose to the previous level and taper more slowly, either by increasing the interval between decreases, decreasing the amount of change in dose, or both.
+Do not abruptly discontinue OXYCODONE HCl EXTENDED-RELEASE TABLETS [see Warnings and Precautions (5.13), Drug Abuse and Dependence (9.3)].

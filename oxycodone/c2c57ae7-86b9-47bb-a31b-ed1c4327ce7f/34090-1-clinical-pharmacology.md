@@ -1,50 +1,45 @@
 # 12 CLINICAL PHARMACOLOGY
 
-Oxycodone hydrochloride is a full opioid agonist and is relatively selective for the mu receptor, although it can bind to other opioid receptors at higher doses.
+## 12.1 Mechanism of Action
+
+Oxycodone is a full opioid agonist and is relatively selective for the mu receptor, although it can bind to other opioid receptors at higher doses.
 The principal therapeutic action of oxycodone is analgesia.
 Like all full opioid agonists, there is no ceiling effect to analgesia for oxycodone.
 Clinically, dosage is titrated to provide adequate analgesia and may be limited by adverse reactions, including respiratory and CNS depression.
-
-## 12.1 Mechanism of Action
-
-Central Nervous System
 
 The precise mechanism of the analgesic action is unknown.
 However, specific CNS opioid receptors for endogenous compounds with opioid-like activity have been identified throughout the brain and spinal cord and are thought to play a role in the analgesic effects of this drug.
 
 ## 12.2 Pharmacodynamics
 
-A single-dose, double-blind, placebo- and dose-controlled study was conducted using OXYCODONE HCl EXTENDED-RELEASE TABLETS (10, 20, and 30 mg) in an analgesic pain model involving 182 patients with moderate to severe pain.
-OXYCODONE HCl EXTENDED-RELEASE TABLETS doses of 20 mg and 30 mg produced statistically significant pain reduction compared to placebo.
-
 Effects on the Central Nervous System
 
 Oxycodone produces respiratory depression by direct action on brain stem respiratory centers.
-The respiratory depression involves both a reduction in the responsiveness of the brain stem respiratory centers to increases in CO2 tension and to electrical stimulation.
-
-Oxycodone depresses the cough reflex by direct effect on the cough center in the medulla.
-Antitussive effects may occur with doses lower than those usually required for analgesia.
+The respiratory depression involves a reduction in the responsiveness of the brain stem respiratory centers to both increases in CO2 tension and electrical stimulation.
 
 Oxycodone causes miosis, even in total darkness.
 Pinpoint pupils are a sign of opioid overdose but are not pathognomonic (e.g., pontine lesions of hemorrhagic or ischemic origin may produce similar findings).
-Marked mydriasis rather than miosis may be seen with hypoxia in the setting of oxycodone overdose [seeOverdosage (10)].
+Marked mydriasis rather than miosis may be seen with hypoxia in overdose situations [see Overdosage (10)].
 
 Effects on the Gastrointestinal Tract and Other Smooth Muscle
 
 Oxycodone causes a reduction in motility associated with an increase in smooth muscle tone in the antrum of the stomach and duodenum.
 Digestion of food in the small intestine is delayed and propulsive contractions are decreased.
-Propulsive peristaltic waves in the colon are decreased, while tone may be increased to the point of spasm resulting in constipation.
-Other opioid-induced effects may include a reduction in gastric, biliary and pancreatic secretions, spasm of sphincter of Oddi, and transient elevations in serum amylase.
+Propulsive peristaltic waves in the colon are decreased, while tone may be increased to the point of spasm, resulting in constipation.
+Other opioid-induced effects may include a reduction in biliary and pancreatic secretions, spasm of sphincter of Oddi, and transient elevations in serum amylase.
 
 Effects on the Cardiovascular System
 
-Oxycodone may produce release of histamine with or without associated peripheral vasodilation.
+Oxycodone produces peripheral vasodilation which may result in orthostatic hypotension or syncope.
 Manifestations of histamine release and/or peripheral vasodilation may include pruritus, flushing, red eyes, sweating, and/or orthostatic hypotension.
 
 Effects on the Endocrine System
 
-Opioids inhibit the secretion of ACTH, cortisol, testosterone, and luteinizing hormone (LH) in humans.
+Opioids inhibit the secretion of adrenocorticotropic hormone (ACTH), cortisol, and luteinizing hormone (LH) in humans [see Adverse Reactions (6.2)].
 They also stimulate prolactin, growth hormone (GH) secretion, and pancreatic secretion of insulin and glucagon.
+
+Chronic use of opioids may influence the hypothalamic-pituitary-gonadal axis, leading to androgen deficiency that may manifest as low libido, impotence, erectile dysfunction, amenorrhea, or infertility.
+The causal role of opioids in the clinical syndrome of hypogonadism is unknown because the various medical, physical, lifestyle, and psychological stressors that may influence gonadal hormone levels have not been adequately controlled for in studies conducted to date [see Adverse Reactions (6.2)].
 
 Effects on the Immune System
 
@@ -57,15 +52,12 @@ Concentration –Efficacy Relationships
 Studies in normal volunteers and patients reveal predictable relationships between oxycodone dosage and plasma oxycodone concentrations, as well as between concentration and certain expected opioid effects, such as pupillary constriction, sedation, overall subjective “drug effect”, analgesia and feelings of relaxation.
 
 The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with potent agonist opioids.
-As a result, patients must be treated with individualized titration of dosage to the desired effect.
-The minimum effective analgesic concentration of oxycodone for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome and/or the development of analgesic tolerance.
+The minimum effective analgesic concentration of oxycodone for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome and/or the development of analgesic tolerance [see Dosage and Administration (2.1, 2.5)].
 
 Concentration –Adverse Reaction Relationships
 
 There is a relationship between increasing oxycodone plasma concentration and increasing frequency of dose-related opioid adverse reactions such as nausea, vomiting, CNS effects, and respiratory depression.
-In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related side effects.
-
-The dose of OXYCODONE HCl EXTENDED-RELEASE TABLETS must be individualized because the effective analgesic dose for some patients will be too high to be tolerated by other patients [see Dosage and Administration (2.1)].
+In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.1, 2.5)].
 
 ## 12.3 Pharmacokinetics
 
@@ -88,11 +80,11 @@ This high oral bioavailability is due to low pre-systemic and/or first-pass meta
 
 Plasma Oxycodone Concentration over Time
 
-Dose proportionality has been established for OXYCODONE HCl EXTENDED-RELEASE TABLETS 10 mg, 15 mg, 20 mg, 30 mg, 40 mg, 60 mg, and 80 mg tablet strengths for both peak plasma concentrations (Cmax) and extent of absorption (AUC) (see Table 5).
+Dose proportionality has been established for OXYCODONE HCl EXTENDED-RELEASE TABLETS 10 mg, 15 mg, 20 mg, 30 mg, 40 mg, 60 mg, and 80 mg tablet strengths for both peak plasma concentrations (Cmax) and extent of absorption (AUC) (see Table 6).
 Given the short elimination t½ of oxycodone, steady-state plasma concentrations of oxycodone are achieved within 24-36 hours of initiation of dosing with OXYCODONE HCl EXTENDED-RELEASE TABLETS.
 In a study comparing 10 mg of OXYCODONE HCl EXTENDED-RELEASE TABLETS every 12 hours to 5 mg of immediate-release oxycodone every 6 hours, the two treatments were found to be equivalent for AUC and Cmax, and similar for Cmin (trough) concentrations.
 
-TABLE 5 Mean [% coefficient of variation]
+Table 6 Mean [% coefficient of variation]
 
 | Regimen | Dosage Form | AUC (ng∙hr/mL)for single-dose AUC = AUC0-inf | Cmax (ng/mL) | Tmax (hr) |
 | --- | --- | --- | --- | --- |
@@ -113,14 +105,16 @@ Distribution
 Following intravenous administration, the steady-state volume of distribution (Vss) for oxycodone was 2.6 L/kg.
 Oxycodone binding to plasma protein at 37°C and a pH of 7.4 was about 45%.
 Once absorbed, oxycodone is distributed to skeletal muscle, liver, intestinal tract, lungs, spleen, and brain.
-Oxycodone has been found in breast milk [see Use in Specific Populations (8.3)].
+Oxycodone has been found in breast milk [see Use in Specific Populations (8.4)].
+
+Elimination
 
 Metabolism
 
 Oxycodone is extensively metabolized by multiple metabolic pathways to produce noroxycodone, oxymorphone and noroxymorphone, which are subsequently glucuronidated.
 Noroxycodone and noroxymorphone are the major circulating metabolites.
 CYP3A mediated N-demethylation to noroxycodone is the primary metabolic pathway of oxycodone with a lower contribution from CYP2D6 mediated O-demethylation to oxymorphone.
-Therefore, the formation of these and related metabolites can, in theory, be affected by other drugs [see Drug Interactions (7.3)].
+Therefore, the formation of these and related metabolites can, in theory, be affected by other drugs [see Drug Interactions (7)].
 
 Noroxycodone exhibits very weak anti-nociceptive potency compared to oxycodone, however, it undergoes further oxidation to produce noroxymorphone, which is active at opioid receptors.
 Although noroxymorphone is an active metabolite and present at relatively high concentrations in circulation, it does not appear to cross the blood-brain barrier to a significant extent.
@@ -135,22 +129,20 @@ Oxycodone and its metabolites are excreted primarily via the kidney.
 The amounts measured in the urine have been reported as follows: free and conjugated oxycodone 8.9%, free noroxycodone 23%, free oxymorphone less than 1%, conjugated oxymorphone 10%, free and conjugated noroxymorphone 14%, reduced free and conjugated metabolites up to 18%.
 The total plasma clearance was approximately 1.4 L/min in adults.
 
-Special Populations
+Specfic Populations
 
-Geriatric Use
+Age: Geriatric Population
 
 The plasma concentrations of oxycodone are only nominally affected by age, being 15% greater in elderly as compared to young subjects (age 21-45).
 
-Gender
+Age: Pediatric Population
+
+In the pediatric age group of 11 years of age and older, systemic exposure of oxycodone is expected to be similar to adults at any given dose of OXYCODONE HCl EXTENDED-RELEASE TABLETS.
+
+Sex
 
 Across individual pharmacokinetic studies, average plasma oxycodone concentrations for female subjects were up to 25% higher than for male subjects on a body weight-adjusted basis.
 The reason for this difference is unknown [see Use in Specific Populations (8.8)].
-
-Renal Impairment
-
-Data from a pharmacokinetic study involving 13 patients with mild to severe renal dysfunction (creatinine clearance <60 mL/min) showed peak plasma oxycodone and noroxycodone concentrations 50% and 20% higher, respectively, and AUC values for oxycodone, noroxycodone, and oxymorphone 60%, 50%, and 40% higher than normal subjects, respectively.
-This was accompanied by an increase in sedation but not by differences in respiratory rate, pupillary constriction, or several other measures of drug effect.
-There was an increase in mean elimination t½ for oxycodone of 1 hour.
 
 Hepatic Impairment
 
@@ -160,22 +152,24 @@ Oxymorphone peak plasma concentrations and AUC values are lower by 30% and 40%.
 These differences are accompanied by increases in some, but not other, drug effects.
 The mean elimination t½ for oxycodone increased by 2.3 hours.
 
-Pediatric Use
+Renal Impairment
 
-In the pediatric age group of 11 years of age and older, systemic exposure of oxycodone is expected to be similar to adults at any given dose of OXYCODONE HCl EXTENDED-RELEASE TABLETS.
+Data from a pharmacokinetic study involving 13 patients with mild to severe renal dysfunction (creatinine clearance <60 mL/min) showed peak plasma oxycodone and noroxycodone concentrations 50% and 20% higher, respectively, and AUC values for oxycodone, noroxycodone, and oxymorphone 60%, 50%, and 40% higher than normal subjects, respectively.
+This was accompanied by an increase in sedation but not by differences in respiratory rate, pupillary constriction, or several other measures of drug effect.
+There was an increase in mean elimination t½ for oxycodone of 1 hour.
 
-Drug-Drug Interactions
+Drug Interaction Studies
 
 CYP3A4 Inhibitors
 
 CYP3A4 is the major isoenzyme involved in noroxycodone formation.
-Co-administration of OXYCODONE HCl EXTENDED-RELEASE TABLETS (10 mg single dose) and the CYP3A4 inhibitor ketoconazole (200 mg BID) increased oxycodone AUC and Cmax by 170% and 100%, respectively [see Drug Interactions (7.2)].
+Co-administration of OXYCODONE HCl EXTENDED-RELEASE TABLETS (10 mg single dose) and the CYP3A4 inhibitor ketoconazole (200 mg BID) increased oxycodone AUC and Cmax by 170% and 100%, respectively [see Drug Interactions (7)].
 
 CYP3A4 Inducers
 
-A published study showed that the co-administration of rifampin, a drug metabolizing enzyme inducer, decreased oxycodone AUC and Cmax values by 86% and 63%, respectively [see Drug Interactions (7.2)].
+A published study showed that the co-administration of rifampin, a drug metabolizing enzyme inducer, decreased oxycodone AUC and Cmax values by 86% and 63%, respectively [see Drug Interactions (7)].
 
 CYP2D6 Inhibitors
 
 Oxycodone is metabolized in part to oxymorphone via CYP2D6.
-While this pathway may be blocked by a variety of drugs such as certain cardiovascular drugs (e.g., quinidine) and antidepressants (e.g., fluoxetine), such blockade has not been shown to be of clinical significance with OXYCODONE HCl EXTENDED-RELEASE TABLETS [see Drug Interactions (7.2)].
+While this pathway may be blocked by a variety of drugs such as certain cardiovascular drugs (e.g., quinidine) and antidepressants (e.g., fluoxetine), such blockade has not been shown to be of clinical significance with OXYCODONE HCl EXTENDED-RELEASE TABLETS [see Drug Interactions (7)].

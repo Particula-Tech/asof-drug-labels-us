@@ -5,16 +5,19 @@ The following serious adverse reactions are described elsewhere in the labeling:
 - Addiction, Abuse, and Misuse [see Warnings and Precautions (5.1)]
 - Life-Threatening Respiratory Depression [see Warnings and Precautions (5.2)]
 - Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.3)]
-- Interactions with Other CNS Depressants [see Warnings and Precautions (5.4)]
-- Hypotensive Effects [see Warnings and Precautions (5.7)]
-- Gastrointestinal Effects [see Warnings and Precautions (5.9, 5.10)]
-- Seizures [see Warnings and Precautions (5.11)]
+- Interactions With Benzodiazepines and Other CNS Depressants [see Warnings and Precautions (5.5)]
+- Adrenal Insufficiency [see Warnings and Precautions (5.7)]
+- Severe Hypotension [see Warnings and Precautions (5.8)]
+- Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.10, 5.11)]
+- Seizures [see Warnings and Precautions (5.12)]
+- Withdrawal [see Warnings and Precautions (5.13)]
 
 ## 6.1 Clinical Trial Experience
 
 Adult Clinical Trial Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
 The safety of OXYCODONE HCl EXTENDED-RELEASE TABLETS was evaluated in double-blind clinical trials involving 713 patients with moderate to severe pain of various etiologies.
 In open-label studies of cancer pain, 187 patients received OXYCODONE HCl EXTENDED-RELEASE TABLETS in total daily doses ranging from 20 mg to 640 mg per day.
 The average total daily dose was approximately 105 mg per day.
@@ -25,7 +28,7 @@ The most common adverse reactions (>5%) reported by patients in clinical trials 
 
 TABLE 2: Common Adverse Reactions (>5%)
 
-|  | (%) | (%) |
+| (%) | (%) |  |
 | --- | --- | --- |
 | Adverse Reaction | Oxycodone HCl Extended-release Tablets (n=227) | Placebo (n=45) |
 | Constipation | (23) | (7) |
@@ -97,7 +100,7 @@ Table 3 includes a summary of the incidence of treatment emergent adverse events
 
 Table 3: Incidence of Adverse Reactions Reported in ≥ 5.0% Patients 11 to 16 Years
 
-| System Organ Class Preferred Term | 11 to 16 Years (N=140) n (%) |
+| System Organ ClassPreferred Term | 11 to 16 Years(N = 140)n (%) |
 | --- | --- |
 | Any Adverse Event >= 5% | 71 (51) |
 | GASTROINTESTINAL DISORDERS | 56 (40) |
@@ -109,7 +112,10 @@ Table 3: Incidence of Adverse Reactions Reported in ≥ 5.0% Patients 11 to 16 Y
 | Pyrexia | 15 (11) |
 | METABOLISM AND NUTRITION DISORDERS | 9 (6) |
 | Decreased appetite | 7 (5) |
-| NERVOUS SYSTEM DISORDERS | 23 (16) |
+| NERVOUS SYSTEM DISORDERS | 37 (26) |
+| Headache | 20 (14) |
+| Dizziness | 12 (9) |
+| SKIN AND SUBCUTANEOUS DISORDERS | 23 (16) |
 | Pruritus | 8 (6) |
 
 The following adverse reactions occurred in a clinical trial of OXYCODONE HCl EXTENDED-RELEASE TABLETS in patients 11 to 16 years of age with an incidence between ≥1.0% and < 5.0%.
@@ -127,7 +133,7 @@ Injury, poisoning, and procedural complications: procedural pain, seroma
 
 Investigations: oxygen saturation decreased, alanine aminotransferase increased, hemoglobin decreased, platelet count decreased, neutrophil count decreased, red blood cell count decreased, weight decreased
 
-Metabolic and nutrition disorders: hypochloremia, hyponatraemia
+Metabolic and nutrition disorders: hypochloremia, hyponatremia
 
 Musculoskeletal and connective tissue disorders: pain in extremity, musculoskeletal pain
 
@@ -143,9 +149,17 @@ Skin and subcutaneous tissue disorders: hyperhidrosis, rash
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use of controlled-release oxycodone: abuse, addiction, aggression, amenorrhea, cholestasis, completed suicide, death, dental caries, increased hepatic enzymes, hyperalgesia, hypogonadism, hyponatremia, ileus, intentional overdose, mood altered, muscular hypertonia, overdose, palpitations (in the context of withdrawal), seizures, suicidal attempt, suicidal ideation, syndrome of inappropriate antidiuretic hormone secretion, and urticaria.
+The following adverse reactions have been identified during post-approval use of extended-release oxycodone.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Anaphylaxis has been reported with ingredients contained in OXYCODONE HCl EXTENDED-RELEASE TABLETS.
-Advise patients how to recognize such a reaction and when to seek medical attention.
+Abuse, addiction, aggression, amenorrhea, cholestasis, completed suicide, death, dental caries, increased hepatic enzymes, hyperalgesia, hypogonadism, hyponatremia, ileus, intentional overdose, mood altered, muscular hypertonia, overdose, palpitations (in the context of withdrawal), seizures, suicidal attempt, suicidal ideation, syndrome of inappropriate antidiuretic hormone secretion, and urticaria.
 
 In addition to the events listed above, the following have also been reported, potentially due to the swelling and hydrogelling property of the tablet: choking, gagging, regurgitation, tablets stuck in the throat and difficulty swallowing the tablet.
+
+Serotonin syndrome: Cases of serotonin syndrome, a potentially life-threatening condition, have been reported during concomitant use of opioids with serotonergic drugs.
+
+Adrenal insufficiency: Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use.
+
+Anaphylaxis: Anaphylaxis has been reported with ingredients contained in OXYCODONE HCl EXTENDED-RELEASE TABLETS.
+
+Androgen deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [see Clinical Pharmacology (12.2)].

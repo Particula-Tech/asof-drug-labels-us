@@ -1,6 +1,6 @@
 # Medication Guide
 
-OXYCODONE Hydrochloride (ox-e-KO-don hye-droe-KLOR-ide) Extended-release Tablets, for oral use, CII
+OXYCODONE (OX-ee-KOH-dohn) HCl EXTENDED-RELEASE TABLETS, CII
 
 OXYCODONE HCl EXTENDED-RELEASE TABLETS are:
 
@@ -14,6 +14,7 @@ Important information about OXYCODONE HCl EXTENDED-RELEASE TABLETS:
 
 - Get emergency help right away if you take too much OXYCODONE HCl EXTENDED-RELEASE TABLETS (overdose).
   When you first start taking OXYCODONE HCl EXTENDED-RELEASE TABLETS, when your dose is changed, or if you take too much (overdose), serious or life-threatening breathing problems that can lead to death may occur.
+- Taking OXYCODONE HCl EXTENDED-RELEASE TABLETS with other opioid medicines, benzodiazepines, alcohol, or other central nervous system depressants (including street drugs) can cause severe drowsiness, decreased awareness, breathing problems, coma, and death.
 - Never give anyone else your OXYCODONE HCl EXTENDED-RELEASE TABLETS.
   They could die from taking it.
   Store OXYCODONE HCl EXTENDED-RELEASE TABLETS away from children and in a safe place to prevent stealing or abuse.
@@ -34,9 +35,12 @@ Before taking OXYCODONE HCl EXTENDED-RELEASE TABLETS, tell your healthcare provi
 
 Tell your healthcare provider if you are:
 
-- pregnant or planning to become pregnant.Prolonged use of OXYCODONE HCl EXTENDED-RELEASE TABLETS during pregnancy can cause withdrawal symptoms in your newborn baby that could be life-threatening if not recognized and treated.
+- pregnant or planning to become pregnant.
+  Prolonged use of OXYCODONE HCl EXTENDED-RELEASE TABLETS during pregnancy can cause withdrawal symptoms in your newborn baby that could be life-threatening if not recognized and treated.
 - breastfeeding.
-  OXYCODONE HCl EXTENDED-RELEASE TABLETS pass into breast milk and may harm your baby.
+  Not recommended during treatment with OXYCODONE HCl EXTENDED-RELEASE TABLETS.
+  It may harm your baby.
+
 - taking prescription or over-the-counter medicines, vitamins, or herbal supplements.
   Taking OXYCODONE HCl EXTENDED-RELEASE TABLETS with certain other medicines can cause serious side effects that could lead to death.
 
@@ -57,7 +61,7 @@ When taking oxycodone hydrochloride extended-release tablets:
 
 While taking OXYCODONE HCL EXTENDED-RELEASE TABLETS DO NOT:
 
-- Drive or operate heavy machinery, until you know how OXYCODONE HCL EXTENDED-RELEASE TABLETS affect you.
+- Drive or operate heavy machinery, until you know how OXYCODONE HCL EXTENDED-RELEASE TABLETS affects you.
   OXYCODONE HCL EXTENDED-RELEASE TABLETS can make you sleepy, dizzy, or lightheaded.
 - Drink alcohol, or use prescription or over-the-counter medicines that contain alcohol.
   Using products containing alcohol during treatment with OXYCODONE HCL EXTENDED-RELEASE TABLETS may cause you to overdose and die.
@@ -69,16 +73,17 @@ The possible side effects of OXYCODONE HCL EXTENDED-RELEASE TABLETS are:
 
 Get emergency medical help if you have:
 
-- trouble breathing, shortness of breath, fast heartbeat, chest pain, swelling of your face, tongue or throat, extreme drowsiness, light-headedness when changing positions, or you are feeling faint.
+- trouble breathing, shortness of breath, fast heartbeat, chest pain, swelling of your face, tongue, or throat, extreme drowsiness, light-headedness when changing positions, feeling faint, agitation, high body temperature, trouble walking, stiff muscles, or mental changes such as confusion.
 
 These are not all the possible side effects of OXYCODONE HCL EXTENDED-RELEASE TABLETS.
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
+
 For more information go to dailymed.nlm.nih.gov
+
+Distributed By: Impax Laboratories, Inc., Hayward, CA 94544
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Dist By: Impax Laboratories, Inc., Hayward, CA 94544
-
-Rev.
-08/2015 303911-0A
+303911-0B Rev.
+12/2016

@@ -15,9 +15,6 @@ OXYCODONE HCl EXTENDED-RELEASE TABLETS (oxycodone hydrochloride) extended-releas
 OXYCODONE HCl EXTENDED-RELEASE TABLETS (oxycodone hydrochloride) extended-release tablets 80 mg are film-coated, round, green-colored, bi-convex tablets debossed with OP on one side and 80 on the other and are supplied as child-resistant closure, opaque plastic bottles of 100 (NDC 0115-1562-01)
 
 Store at 25°C (77°F); excursions permitted between 15°-30°C (59°-86°F).
+[see USP Controlled Room Temperature]
 
 Dispense in tight, light-resistant container.
-
-CAUTION
-
-DEA FORM REQUIRED
