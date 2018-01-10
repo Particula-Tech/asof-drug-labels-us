@@ -1,10 +1,10 @@
-# Principal Display Panel - 2 mg Tablets
+# PRINCIPAL DISPLAY PANEL - 2 mg Tablet Bottle Label
 
 NDC 0406-3243-01
 
 100 TABLETS
 
-HYDROMORPHONE HYDROCHLORIDE TABLETS USP
+Hydromorphone Hydrochloride Tablets USP
 
 CII
 
@@ -13,21 +13,21 @@ CII
 Rx only
 
 Each tablet contains: Hydromorphone Hydrochloride USP.....
-2 mg
+2 mg PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
 Mallinckrodt™
 
 L00H07
 
-Rev 02/2016
+Rev 07/2017
 
-# Principal Display Panel - 4 mg Tablets
+# PRINCIPAL DISPLAY PANEL - 4 mg Tablet Bottle Label
 
 NDC 0406-3244-01
 
 100 TABLETS
 
-HYDROMORPHONE HYDROCHLORIDE TABLETS USP
+Hydromorphone Hydrochloride Tablets USP
 
 CII
 
@@ -36,21 +36,21 @@ CII
 Rx only
 
 Each tablet contains: Hydromorphone Hydrochloride USP.....
-4 mg
+4 mg PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
 Mallinckrodt™
 
 L00H08
 
-Rev 02/2016
+Rev 07/2017
 
-# Principal Display Panel - 8 mg Tablets
+# PRINCIPAL DISPLAY PANEL - 8 mg Tablet Bottle Label
 
 NDC 0406-3249-01
 
 100 TABLETS
 
-HYDROMORPHONE HYDROCHLORIDE TABLETS USP
+Hydromorphone Hydrochloride Tablets USP
 
 CII
 
@@ -59,10 +59,10 @@ CII
 Rx only
 
 Each tablet contains: Hydromorphone Hydrochloride USP.....
-8 mg
+8 mg PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
 Mallinckrodt™
 
 L00H79
 
-Rev 02/2016
+Rev 07/2017

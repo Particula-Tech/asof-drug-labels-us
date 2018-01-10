@@ -1,19 +1,13 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
-Hydromorphone Hydrochloride Tablets USP, 2 mg, 4 mg, and 8 mg are supplied in tablet form for oral administration.
+Hydromorphone hydrochloride tablets, a hydrogenated ketone of morphine, is an opioid agonist.
 
-Hydromorphone hydrochloride, a hydrogenated ketone of morphine, is an opioid analgesic.
+Hydromorphone Hydrochloride Tablets USP are supplied in 2 mg, 4 mg, and 8 mg tablets for oral administration.
+The tablet strengths describe the amount of hydromorphone hydrochloride in each tablet.
 
-The chemical name of hydromorphone hydrochloride tablets USP is 4,5α-epoxy-3-hydroxy-17-methylmorphinan-6-one hydrochloride.
-The structural formula of hydromorphone hydrochloride is:
+The chemical name is 4,5α-epoxy-3-hydroxy-17-methylmorphinan-6-one hydrochloride.
+It has the following chemical structure:
 
-Each Hydromorphone Hydrochloride Tablet USP, 2 mg contains: Hydromorphone Hydrochloride USP............
-2 mg
+Hydromorphone hydrochloride is a white or almost white crystalline powder that is freely soluble in water, very slightly soluble in ethanol (96%), and practically insoluble in methylene chloride.
 
-Each Hydromorphone Hydrochloride Tablet USP, 4 mg contains: Hydromorphone Hydrochloride USP............
-4 mg
-
-Each Hydromorphone Hydrochloride Tablet USP, 8 mg contains: Hydromorphone Hydrochloride USP............
-8 mg
-
-In addition, each tablet contains the following inactive ingredients: lactose monohydrate, magnesium stearate, microcrystalline cellulose and stearic acid.
+The 2 mg, 4 mg, and 8 mg tablets contain the following inactive ingredients: lactose monohydrate, magnesium stearate, microcrystalline cellulose and stearic acid.

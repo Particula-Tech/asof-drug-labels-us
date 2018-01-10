@@ -3,7 +3,7 @@
     "ANDA076855"
   ],
   "inn": "hydromorphone",
-  "labeler": "Mallinckrodt, Inc.",
+  "labeler": "SpecGx LLC",
   "package_ndcs": [
     "0406-3243-01",
     "0406-3244-01",
@@ -13,7 +13,7 @@
     {
       "form": "TABLET",
       "generic": "hydromorphone hydrochloride",
-      "name": "HYDROMORPHONE HYDROCHLORIDE"
+      "name": "Hydromorphone Hydrochloride"
     }
   ],
   "setid": "4c5c1cc8-c42b-46e3-ad68-8e22f57101f2",
