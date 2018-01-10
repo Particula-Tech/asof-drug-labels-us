@@ -21,15 +21,15 @@ Table 4: Outcome Events in the CURE Primary Analysis
 | Outcome | Clopidogrel (+ aspirin)Other standard therapies were used as appropriate. (n = 6259) | Placebo (+ aspirin)(n = 6303) | Relative Risk Reduction (%) (95% CI) |
 | --- | --- | --- | --- |
 | Primary outcome (Cardiovascular death, MI, stroke) | 582 (9.3%) | 719 (11.4%) | 20% (10.3, 27.9) p < 0.001 |
-| All Individual Outcome Events: The individual components do not represent a breakdown of the primary and co-primary outcomes, but rather the total number of subjects experiencing an event during the course of the study. |  |  |  |
+| All Individual Outcome Events: The individual components do not represent a breakdown of the primary and coprimary outcomes, but rather the total number of subjects experiencing an event during the course of the study. |  |  |  |
 | CV death MI Stroke | 318 (5.1%)324 (5.2%)75 (1.2%) | 345 (5.5%)419 (6.6%)87 (1.4%) | 7% (-7.7, 20.6)23% (11.0, 33.4)14% (-17.7, 36.6) |
 
 Most of the benefit of clopidogrel occurred in the first two months, but the difference from placebo was maintained throughout the course of the trial (up to 12 months) (see Figure 2).
 
 The effect of clopidogrel did not differ significantly in various subgroups, as shown in Figure 3.
-The benefits associated with clopidogrel were independent of the use of other acute and long-term cardiovascular therapies, including heparin/LMWH, intravenous glycoprotein IIb/IIIa (GPIIb/IIIa) inhibitors, lipid-lowering drugs, beta-blockers, and ACE-inhibitors.
+The benefits associated with clopidogrel were independent of the use of other acute and long-term cardiovascular therapies, including heparin/LMWH, intravenous glycoprotein IIb/IIIa (GPIIb/IIIa) inhibitors, lipid-lowering drugs, beta-blockers, and ACE inhibitors.
 The efficacy of clopidogrel was observed independently of the dose of aspirin (75 to 325 mg once daily).
-The use of oral anticoagulants, non-study antiplatelet drugs, and chronic NSAIDs was not allowed in CURE.
+The use of oral anticoagulants, nonstudy antiplatelet drugs, and chronic NSAIDs was not allowed in CURE.
 
 The use of clopidogrel in CURE was associated with a decrease in the use of thrombolytic therapy (71 patients [1.1%] in the clopidogrel group, 126 patients [2.0%] in the placebo group; relative risk reduction of 43%), and GPIIb/IIIa inhibitors (369 patients [5.9%] in the clopidogrel group, 454 patients [7.2%] in the placebo group, relative risk reduction of 18%).
 The use of clopidogrel in CURE did not affect the number of patients treated with CABG or PCI (with or without stenting), (2253 patients [36.0%] in the clopidogrel group, 2324 patients [36.9%] in the placebo group; relative risk reduction of 4.0%).
@@ -51,16 +51,16 @@ Table 5: Outcome Events in COMMIT
 
 | Event | Clopidogrel(+ aspirin)(N = 22961) | Placebo(+ aspirin)(N = 22891) | Odds ratio (95% CI) | p-value |
 | --- | --- | --- | --- | --- |
-| Composite endpoint: Death, MI, or Stroke9 patients (2 clopidogrel and 7 placebo) suffered both a non-fatal stroke and a non-fatal MI. | 2121 (9.2%) | 2310 (10.1%) | 0.91 (0.86, 0.97) | 0.002 |
+| Composite endpoint: Death, MI, or Stroke9 patients (2 clopidogrel and 7 placebo) suffered both a nonfatal stroke and a nonfatal MI. | 2121 (9.2%) | 2310 (10.1%) | 0.91 (0.86, 0.97) | 0.002 |
 | Death | 1726 (7.5%) | 1845 (8.1%) | 0.93 (0.87, 0.99) | 0.029 |
-| Non-fatal MINon-fatal MI and non-fatal stroke exclude patients who died (of any cause). | 270 (1.2%) | 330 (1.4%) | 0.81 (0.69, 0.95) | 0.011 |
-| Non-fatal Stroke | 127 (0.6%) | 142 (0.6%) | 0.89 (0.70, 1.13) | 0.33 |
+| Nonfatal MINonfatal MI and nonfatal stroke exclude patients who died (of any cause). | 270 (1.2%) | 330 (1.4%) | 0.81 (0.69, 0.95) | 0.011 |
+| Nonfatal Stroke | 127 (0.6%) | 142 (0.6%) | 0.89 (0.70, 1.13) | 0.33 |
 
 * All treated patients received aspirin.
 
 * All treated patients received aspirin.
 
-The effect of clopidogrel did not differ significantly in various pre-specified subgroups as shown in Figure 6.
+The effect of clopidogrel did not differ significantly in various prespecified subgroups as shown in Figure 6.
 The effect was also similar in non-prespecified subgroups including those based on infarct location, Killip class or prior MI history.
 Such subgroup analyses should be interpreted cautiously.
 
@@ -77,9 +77,9 @@ Deaths not easily attributable to nonvascular causes were all classified as vasc
 
 Table 6: Outcome Events in the CAPRIE Primary Analysis
 
-|  | Clopidogrel | aspirin |
+| Patients | Clopidogrel | Aspirin |
 | --- | --- | --- |
-| Patients | n = 9599 | n = 9586 |
+| n = 9599 | n = 9586 |  |
 | Ischemic stroke (fatal or not) | 438 (4.6%) | 461 (4.8%) |
 | MI (fatal or not) | 275 (2.9%) | 333 (3.5%) |
 | Other vascular death | 226 (2.4%) | 226 (2.4%) |

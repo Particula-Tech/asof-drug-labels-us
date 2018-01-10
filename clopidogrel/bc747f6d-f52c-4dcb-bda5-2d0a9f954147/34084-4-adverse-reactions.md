@@ -5,9 +5,9 @@ The following serious adverse reactions are discussed below and elsewhere in the
 1. •Bleeding [see Warnings and Precautions (5.2)]
 2. •Thrombotic thrombocytopenic purpura [see Warnings and Precautions (5.4)]
 
-## 6.1 Clinical Studies Experience
+## 6.1 Clinical Trials Experience
 
-Because clinical trials are conducted under widely varying conditions and durations of follow up, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+Because clinical trials are conducted under widely varying conditions and durations of follow-up, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 Clopidogrel has been evaluated for safety in more than 54,000 patients, including over 21,000 patients treated for one year or more.
 The clinically important adverse reactions observed in trials comparing clopidogrel plus aspirin to placebo plus aspirin and trials comparing clopidogrel alone to aspirin alone are discussed below.
@@ -46,19 +46,19 @@ In COMMIT, similar rates of major bleeding were observed in the clopidogrel and 
 
 Table 2: Incidence of Bleeding Events in COMMIT (% patients)
 
-| Type of bleeding | Clopidogrel(+ aspirin) (n = 22961) | Placebo (+ aspirin) (n = 22891) | p-value |
+| Type of Bleeding | Clopidogrel(+ aspirin) (n = 22961) | Placebo (+ aspirin) (n = 22891) | p-value |
 | --- | --- | --- | --- |
-| MajorMajor bleeds were cerebral bleeds or non-cerebral bleeds thought to have caused death or that required transfusion. noncerebral or cerebral bleeding | 0.6 | 0.5 | 0.59 |
+| MajorMajor bleeds were cerebral bleeds or noncerebral bleeds thought to have caused death or that required transfusion. noncerebral or cerebral bleeding | 0.6 | 0.5 | 0.59 |
 | Major noncerebral | 0.4 | 0.3 | 0.48 |
 | Fatal | 0.2 | 0.2 | 0.90 |
 | Hemorrhagic stroke | 0.2 | 0.2 | 0.91 |
 | Fatal | 0.2 | 0.2 | 0.81 |
-| Other noncerebral bleeding (non-major) | 3.6 | 3.1 | 0.005 |
+| Other noncerebral bleeding (nonmajor) | 3.6 | 3.1 | 0.005 |
 | Any noncerebral bleeding | 3.9 | 3.4 | 0.004 |
 
 CAPRIE (Clopidogrel vs. Aspirin)
 
-In CAPRIE, gastrointestinal hemorrhage occurred at a rate of 2.0% in those taking clopidogrel vs. 2.7% in those taking aspirin; bleeding requiring hospitalization occurred in 0.7% and 1.1%, respectively.
+In CAPRIE, gastrointestinal hemorrhage occurred at a rate of 2.0% in those taking clopidogrel versus 2.7% in those taking aspirin; bleeding requiring hospitalization occurred in 0.7% and 1.1%, respectively.
 The incidence of intracranial hemorrhage was 0.4% for clopidogrel compared to 0.5% for aspirin.
 
 Other bleeding events that were reported more frequently in the clopidogrel group were epistaxis and hematoma.
@@ -72,7 +72,7 @@ No other difference in the rate of adverse events (other than bleeding) was repo
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use of clopidogrel.
+The following adverse reactions have been identified during postapproval use of clopidogrel.
 Because these reactions are reported voluntarily from a population of an unknown size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Hemorrhages, including those with fatal outcome, have been reported in patients treated with clopidogrel.
@@ -80,10 +80,10 @@ Hemorrhages, including those with fatal outcome, have been reported in patients 
 - •Blood and lymphatic system disorders: Agranulocytosis, aplastic anemia/pancytopenia, thrombotic thrombocytopenic purpura (TTP), acquired hemophilia A
 - •Gastrointestinal disorders: Colitis (including ulcerative or lymphocytic colitis), pancreatitis, stomatitis, gastric/duodenal ulcer, diarrhea
 - •General disorders and administration site condition: Fever
-- •Hepato-biliary disorders: Acute liver failure, hepatitis (non-infectious), abnormal liver function test
+- •Hepatobiliary disorders: Acute liver failure, hepatitis (noninfectious), abnormal liver function test
 - •Immune system disorders: Hypersensitivity reactions, anaphylactoid reactions, serum sickness
 - •Musculoskeletal, connective tissue and bone disorders: Myalgia, arthralgia, arthritis
-- •Nervous system disorders: Taste disorders, headache
+- •Nervous system disorders: Taste disorders, headache, ageusia
 - •Psychiatric disorders: Confusion, hallucinations
 - •Respiratory, thoracic and mediastinal disorders: Bronchospasm, interstitial pneumonitis, eosinophilic pneumonia
 - •Renal and urinary disorders: Increased creatinine levels

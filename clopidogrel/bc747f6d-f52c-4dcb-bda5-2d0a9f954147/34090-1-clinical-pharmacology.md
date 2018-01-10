@@ -21,11 +21,11 @@ Geriatric Patients
 
 Elderly (≥ 75 years) and young healthy subjects had similar effects on platelet aggregation.
 
-Renally-Impaired Patients
+Renally Impaired Patients
 
 After repeated doses of 75 mg clopidogrel per day, patients with severe renal impairment (creatinine clearance from 5 to 15 mL/min) and moderate renal impairment (creatinine clearance from 30 to 60 mL/min) showed low (25%) inhibition of ADP-induced platelet aggregation.
 
-Hepatically-Impaired Patients
+Hepatically Impaired Patients
 
 After repeated doses of 75 mg clopidogrel per day for 10 days in patients with severe hepatic impairment, inhibition of ADP-induced platelet aggregation was similar to that observed in healthy subjects.
 
@@ -59,11 +59,11 @@ The active thiol metabolite binds rapidly and irreversibly to platelet receptors
 
 The Cmax of the active metabolite is twice as high following a single 300 mg clopidogrel loading dose as it is after four days of 75 mg maintenance dose.
 Cmax occurs approximately 30 to 60 minutes after dosing.
-In the 75 to 300 mg dose range, the pharmacokinetics of the active metabolite deviates from dose proportionality: 4-fold the dose results in 2.0- and 2.7-fold the Cmax and AUC, respectively.
+In the 75 to 300 mg dose range, the pharmacokinetics of the active metabolite deviates from dose proportionality: 4-fold the dose results in 2.0-fold and 2.7-fold the Cmax and AUC, respectively.
 
 Elimination
 
-Following an oral dose of 14C-labeled clopidogrel in humans, approximately 50% of total radioactivity was excreted in urine and approximately 46% in feces over the 5 days post-dosing.
+Following an oral dose of 14C-labeled clopidogrel in humans, approximately 50% of total radioactivity was excreted in urine and approximately 46% in feces over the 5 days post dosing.
 After a single, oral dose of 75 mg, clopidogrel has a half-life of approximately 6 hours.
 The half-life of the active metabolite is about 30 minutes.
 
@@ -74,7 +74,7 @@ Effect of other drugs on clopidogrel
 Clopidogrel is metabolized to its active metabolite in part by CYP2C19.
 Concomitant use of certain inhibitors of this enzyme results in reduced plasma concentrations of the active metabolite of clopidogrel and a reduction in platelet inhibition.
 
-Proton Pump Inhibitors (PPI)
+Proton pump inhibitors (PPI)
 
 The effect of proton pump inhibitors (PPI) on the systemic exposure to the clopidogrel active metabolite following multiple doses of clopidogrel 75 mg evaluated in dedicated drug interaction studies is presented in Figure 1.
 
@@ -98,18 +98,17 @@ Decreased active metabolite exposure and diminished inhibition of platelet aggre
 
 Table 3: Active Metabolite Pharmacokinetics and Antiplatelet Responses by CYP2C19 Metabolizer Status
 
-|  | Dose | Poor(n = 10) | IntermediateIntermediate metabolizers have one but not two nonfunctional alleles(n = 10) | Normal(n = 10) | UltrarapidUltrarapid metabolizers have at least one gain-of-function allele(n = 10) |
+|  | Dose | Poor(n = 10) | IntermediateIntermediate metabolizers have one but not two nonfunctional alleles.(n = 10) | Normal(n = 10) | UltrarapidUltrarapid metabolizers have at least one gain-of-function allele.(n = 10) |
 | --- | --- | --- | --- | --- | --- |
 | Cmax (ng/mL) | 300 mg (24 h) | 11 (4) | 23 (11) | 32 (21) | 24 (10) |
 |  | 600 mg (24 h) | 17 (6) | 39 (23) | 44 (27) | 36 (13) |
 |  | 75 mg (Day 5) | 4 (1) | 12 (5) | 13 (7) | 12 (6) |
 |  | 150 mg (Day 5) | 7 (2) | 18 (7) | 19 (5) | 16 (9) |
-| IPA (%)Inhibition of platelet aggregation with 5mcM ADP; larger value indicates greater platelet inhibition | 300 mg (24 h) | 24 (26) | 37 (21) | 39 (28) | 40 (21) |
+| IPA (%)Inhibition of platelet aggregation with 5 mcM ADP; larger value indicates greater platelet inhibition. | 300 mg (24 h) | 24 (26) | 37 (21) | 39 (28) | 40 (21) |
 |  | 600 mg (24 h) | 32 (25) | 56 (22) | 49 (23) | 51 (28) |
 |  | 75 mg (Day 5) | 37 (23) | 60 (18) | 58 (19) | 56 (13) |
 |  | 150 mg (Day 5) | 61 (14) | 74 (14) | 73 (9) | 68 (18) |
-| VASP-PRI (%)Vasodilator-stimulated phosphoprotein – platelet reactivity index; smaller value indicates greater platelet inhibition | 300 mg (24 h) | 91 (12) | 78 (12) | 68 (16) | 73 (12) |
+| VASP-PRI (%)Vasodilator-stimulated phosphoprotein – platelet reactivity index; smaller value indicates greater platelet inhibition. Values are mean (SD). | 300 mg (24 h) | 91 (12) | 78 (12) | 68 (16) | 73 (12) |
 |  | 600 mg (24 h) | 85 (14) | 56 (26) | 48 (20) | 51 (20) |
 |  | 75 mg (Day 5) | 83 (13) | 50 (16) | 39 (14) | 40 (9) |
 |  | 150 mg (Day 5) | 61 (18) | 29 (11) | 24 (10) | 20 (10) |
-| Values are mean (SD) |  |  |  |  |  |

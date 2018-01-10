@@ -29,4 +29,4 @@ Manufactured In Israel By: Teva Pharmaceutical Ind.
 Ltd. Jerusalem, 9777402, Israel Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
 Rev.
-I 7/2017
+J 11/2017
