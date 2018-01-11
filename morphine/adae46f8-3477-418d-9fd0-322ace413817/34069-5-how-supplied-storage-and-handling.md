@@ -16,6 +16,6 @@ KADIAN capsules contain white to off-white or tan colored polymer coated extende
 | Bottle Size | 60 |  |  |  |
 | NDC # | NDC 52544-220-60 |  |  |  |
 
-Store at 25°C (77°F); excursions permitted to 15°-30°C (59°-86°F).
+Store at 25°C (77°F); excursions permitted to 15°-30°C (59°-86°F)[see USP Controlled Room Temperature].
 Protect from light and moisture.
 Dispense in a sealed tamper-evident, childproof, light-resistant container.

@@ -1,23 +1,25 @@
 # 6 ADVERSE REACTIONS
 
-The following serious adverse reactions are discussed elsewhere in the labeling:
+The following serious adverse reactions are described, or described in greater detail, in other sections:
 
 - Addiction, Abuse, and Misuse [see Warnings and Precautions (5.1)]
 - Life Threatening Respiratory Depression [see Warnings and Precautions (5.2)]
 - Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.3)]
-- Interactions with Other CNS Depressants [see Warnings and Precautions (5.4)]
-- Hypotensive Effect [see Warnings and Precautions (5.7)]
-- Gastrointestinal Effects [see Warnings and Precautions (5.9)]
-- Seizures [see Warnings and Precautions (5.10)]
+- Interactions with Benzodiazepine or Other CNS Depressants [see Warnings and Precautions (5.4)]
+- Adrenal Insufficiency [see Warnings and Precautions (5.7)]
+- Severe Hypotension [see Warnings and Precautions (5.8)]
+- Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.10)]
+- Seizures [see Warnings and Precautions (5.11)]
+- Withdrawal [see Warnings and Precautions (5.12)]
+
+## 6.1Clinical Trial Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 In the randomized study, the most common adverse reactions with KADIAN therapy were drowsiness, constipation, nausea, dizziness, and anxiety.
 The most common adverse reactions leading to study discontinuation were nausea, constipation (may be severe), vomiting, fatigue, dizziness, pruritus, and somnolence.
 
-## 6.1 Clinical Trial Experience
-
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
-
-| Clinical trial patients with chronic cancer pain (n = 227) (AE by Body System as seen in 2% or more of patients) | Percentage % |
+| Clinical trial patients with chronic cancer pain (n=227) (AE by Body System as seen in 2% or more of patients) | Percentage % |
 | --- | --- |
 | CENTRAL NERVOUS SYSTEM | 28 |
 | Drowsiness | 9 |
@@ -73,7 +75,15 @@ In the open-label, 4-week safety study, 1418 patients ages 18 to 85 with chronic
 The most common adverse events reported at least once during therapy were constipation (12%), nausea (9%), and somnolence (3%).
 Other less common side effects occurring in less than 3% of patients were vomiting, pruritus, dizziness, sedation, dry mouth, headache, fatigue, and rash.
 
-## 6.2 Post-Marketing Experience
+## 6.2Post-Marketing Experience
 
-Anaphylaxis has been reported with ingredients contained in KADIAN.
-Advise patients how to recognize such a reaction and when to seek medical attention.
+The following adverse reactions have been identified during post approval use of morphine.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Serotonin syndrome: Cases of serotonin syndrome, a potentially life-threatening condition, have been reported during concomitant use of opioids with serotonergic drugs.
+
+Adrenal insufficiency: Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use.
+
+Anaphylaxis: Anaphylaxis has been reported with ingredients contained in KADIAN.
+
+Androgen deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [see Clinical Pharmacology (12.2)].

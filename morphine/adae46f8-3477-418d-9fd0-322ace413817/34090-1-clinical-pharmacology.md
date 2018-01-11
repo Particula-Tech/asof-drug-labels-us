@@ -1,20 +1,16 @@
 # 12 CLINICAL PHARMACOLOGY
 
-## 12.1 Mechanism of Action
+## 12.1Mechanism of Action
 
-Morphine sulfate, an opioid agonist, is relatively selective for the mu receptor, although it can interact with other opioid receptors at higher doses.
-In addition to analgesia, the widely diverse effects of morphine sulfate include analgesia, dysphoria, euphoria, somnolence, respiratory depression, diminished gastrointestinal motility, altered circulatory dynamics, histamine release, physical dependence, and alterations of the endocrine and autonomic nervous systems.
+Morphine is a full opioid agonist and is relatively selective for the mu-opioid receptor, although it can bind to other opioid receptors at higher doses.
+The principal therapeutic action of morphine is analgesia.
+Like all full opioid agonists, there is no ceiling effect for analgesia with morphine.
+Clinically, dosage is titrated to provide adequate analgesia and may be limited by adverse reactions, including respiratory and CNS depression.
 
-Morphine produces both its therapeutic and its adverse effects by interaction with one or more classes of specific opioid receptors located throughout the body.
-Morphine acts as a full agonist, binding with and activating opioid receptors at sites in the peri-aqueductal and peri-ventricular grey matter, the ventro-medial medulla and the spinal cord to produce analgesia.
+The precise mechanism of the analgesic action is unknown.
+However, specific CNS opioid receptors for endogenous compounds with opioid-like activity have been identified throughout the brain and spinal cord and are thought to play a role in the analgesic effects of this drug.
 
-## 12.2 Pharmacodynamics
-
-Plasma Level-Analgesia Relationships
-
-While plasma morphine-efficacy relationships can be demonstrated in non-tolerant individuals, they are influenced by a wide variety of factors and are not generally useful as a guide to the clinical use of morphine.
-The effective dose in opioid-tolerant patients may be 10 to 50 times as great (or greater) than the appropriate dose for opioid-naïve individuals.
-Dosages of morphine should be chosen and must be titrated on the basis of clinical evaluation of the patient and the balance between therapeutic and adverse effects.
+## 12.2Pharmacodynamics
 
 CNS Depressant/Alcohol Interaction
 
@@ -22,36 +18,32 @@ Additive pharmacodynamic effects may be expected when KADIAN is used in conjunct
 
 Effects on the Central Nervous System
 
-The principal actions of therapeutic value of morphine are analgesia and sedation.
-Specific CNS opiate receptors and endogenous compounds with morphine-like activity have been identified throughout the brain and spinal cord and are likely to play a role in the expression of analgesic effects.
-
 Morphine produces respiratory depression by direct action on brainstem respiratory centers.
-The mechanism of respiratory depression involves a reduction in the responsiveness of the brainstem respiratory centers to increases in carbon dioxide tension, and to electrical stimulation.
-Morphine depresses the cough reflex by direct effect on the cough center in the medulla.
+The respiratory depression involves a reduction in the responsiveness of the brainstem respiratory centers to both increases in carbon dioxide tension and to electrical stimulation.
 
-Morphine causes miosis, even in total darkness, and little tolerance develops to this effect.
+Morphine causes miosis, even in total darkness.
 Pinpoint pupils are a sign of opioid overdose but are not pathognomonic (e.g., pontine lesions of hemorrhagic or ischemic origins may produce similar findings).
-Marked mydriasis rather than miosis may be seen with worsening hypoxia in the setting of morphine overdose.
+Marked mydriasis rather than miosis may be seen with hypoxia in overdose situations.
 
 Effects on the Gastrointestinal Tract and Other Smooth Muscle
 
-Gastric, biliary and pancreatic secretions are decreased by morphine.
-Morphine causes a reduction in motility associated with an increase in tone in the antrum of the stomach and duodenum.
+Morphine causes a reduction in motility associated with an increase in smooth muscle tone in the antrum of the stomach and duodenum.
 Digestion of food in the small intestine is delayed and propulsive contractions are decreased.
-Propulsive peristaltic waves in the colon are decreased, while tone is increased to the point of spasm.
-The end result is constipation.
-Morphine can cause a marked increase in biliary tract pressure as a result of spasm of the sphincter of Oddi.
+Propulsive peristaltic waves in the colon are decreased, while tone may be increased to the point of spasm, resulting in constipation.
+Other opioid-induced effects may include a reduction in biliary and pancreatic secretions, spasm of sphincter of Oddi, and transient elevations in serum amylase.
 
 Effects on the Cardiovascular System
 
-Morphine produces peripheral vasodilation which may result in orthostatic hypotension or syncope.
-Release of histamine may be induced by morphine and can contribute to opioid-induced hypotension.
-Manifestations of histamine release or peripheral vasodilation may include pruritus, flushing, red eyes and sweating.
+Morphine produces peripheral vasodilation, which may result in orthostatic hypotension or syncope.
+Manifestations of histamine release or peripheral vasodilation may include pruritus, flushing, red eyes, sweating, and/or orthostatic hypotension.
 
 Effects on the Endocrine System
 
-Opioids inhibit the secretion of ACTH, cortisol, and luteinizing hormone (LH) in humans.
+Opioids inhibit the secretion of adrenocorticotropic hormone (ACTH), cortisol, and luteinizing hormone (LH) in humans [see Adverse Reactions (6.2)].
 They also stimulate prolactin, growth hormone (GH) secretion, and pancreatic secretion of insulin and glucagon.
+
+Chronic use of opioids may influence the hypothalamic-pituitary-gonadal axis, leading to androgen deficiency that may manifest as low libido, impotence, erectile dysfunction, amenorrhea, or infertility.
+The causal role of opioids in the clinical syndrome of hypogonadism is unknown because the various medical, physical, lifestyle, and psychological stressors that may influence gonadal hormone levels have not been adequately controlled for in studies conducted to date [see Adverse Reactions (6.2)].
 
 Effects on the Immune System
 
@@ -59,7 +51,17 @@ Opioids have been shown to have a variety of effects on components of the immune
 The clinical significance of these findings is unknown.
 Overall, the effects of opioids appear to be modestly immunosuppressive.
 
-## 12.3 Pharmacokinetics
+Concentration-Efficacy Relationships
+
+The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with potent agonist opioids.
+The minimum effective analgesic concentration of morphine for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.1, 2.2)].
+
+Concentration–Adverse Reaction Relationships
+
+There is a relationship between increasing morphine plasma concentration and increasing frequency of dose-related opioid adverse reactions such as nausea, vomiting, CNS effects, and respiratory depression.
+In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.1, 2.2, 2.3)].
+
+## 12.3Pharmacokinetics
 
 Absorption
 
@@ -67,27 +69,37 @@ KADIAN capsules contain polymer coated extended-release pellets of morphine sulf
 Following the administration of oral morphine solution, approximately 50% of the morphine absorbed reaches the systemic circulation within 30 minutes compared to 8 hours with an equal amount of KADIAN.
 Because of pre-systemic elimination, only about 20 to 40% of the administered dose reaches the systemic circulation.
 
-Both dose-normalized Cmax and dose-normalized AUC0-48hr values of morphine after a single dose administration of KADIAN in healthy volunteers are less than those for morphine oral solution or an extended-release tablet formulation (Table 1).
+Both dose-normalized Cmax and dose-normalized AUC0-48hr values of morphine after a single dose administration of KADIAN in healthy volunteers are less than those for morphine oral solution or an extended-release tablet formulation (Table 2).
 
 When KADIAN was given twice daily to 24 patients with chronic pain due to malignancy, steady-state was achieved in about two days.
 At steady-state, KADIAN has a significantly lower Cmax and a higher Cmin than equivalent doses of oral morphine solution given every 4 hrs and an extended-release tablet given twice daily.
-When given once daily to 24 patients with malignancy, KADIAN had a similar Cmax and higher Cmin at steady-state when compared to an extended-release morphine tablets, given twice daily at an equivalent total daily dosage (see Table 1).
+When given once daily to 24 patients with malignancy, KADIAN had a similar Cmax and higher Cmin at steady-state when compared to an extended-release morphine tablets, given twice daily at an equivalent total daily dosage (see Table 2).
 
 The single-dose pharmacokinetics of KADIAN are linear over the dosage range of 30 to 100 mg.
 
-Table 1: Mean pharmacokinetic parameters (% coefficient variation) resulting from a fasting single dose study in normal volunteers and a multiple-dose study in patients with cancer pain.
+Table 2: Mean pharmacokinetic parameters (% coefficient variation) resulting from a fasting single dose study in normal volunteers and a multiple-dose study in patients with cancer pain.
 
-| Regimen/Dosage Form | AUC* † (ng•h/mL) | Cmax † (ng/mL) | Tmax (h) | Cmin † (ng/mL) | Fluctuation‡ |
+| Regimen/Dosage Form | AUC#,+ (ng•h/mL) | Cmax+ (ng/mL) | Tmax (h) | Cmin+ (ng/mL) | Fluctuation* |
 | --- | --- | --- | --- | --- | --- |
 | Single Dose (n = 24) |  |  |  |  |  |
-| KADIAN Capsule | 271.0 (19.4) | 15.6 (24.4) | 8.6 (41.1) | na§ | na |
+| KADIAN Capsule | 271.0 (19.4) | 15.6 (24.4) | 8.6 (41.1) | na^ | na |
 | Extended-Release Tablet | 304.3 (19.1) | 30.5 (32.1) | 2.5 (52.6) | na | na |
 | Morphine Solution | 362.4 (42.6) | 64.4 (38.2) | 0.9 (55.8) | na | na |
 | Multiple Dose (n = 24) |  |  |  |  |  |
 | KADIAN Capsule Once Daily | 500.9 (38.6) | 37.3 (37.7) | 10.3 (32.2) | 9.9 (52.3) | 3.0 (45.5) |
 | Extended-Release Tablet Twice Daily | 457.3 (40.2) | 36.9 (42.0) | 4.4 (53.0) | 7.6 (60.3) | 4.1 (51.5) |
 
-* For single dose AUC = AUC0-48h, for multiple dose AUC = AUC0-24h at steady-state † For single dose parameter normalized to 100 mg, for multiple dose parameter normalized to 100 mg per 24 hours ‡ Steady-state fluctuation in plasma concentrations = Cmax-Cmin/Cmin § Not applicable Food effect: While concurrent administration of food slows the rate of absorption of KADIAN, the extent of absorption is not affected and KADIAN can be administered without regard to meals.
+# For single dose AUC = AUC0-48h, for multiple dose AUC = AUC0-24h at steady-state
+
++ For single dose parameter normalized to 100 mg, for multiple dose parameter normalized to 100 mg per 24 hours
+
+* Steady-state fluctuation in plasma concentrations = Cmax-Cmin/Cmin
+
+^ Not applicable
+
+Food Effect:
+
+While concurrent administration of food slows the rate of absorption of KADIAN, the extent of absorption is not affected and KADIAN can be administered without regard to meals.
 
 Distribution
 
@@ -95,7 +107,9 @@ Once absorbed, morphine is distributed to skeletal muscle, kidneys, liver, intes
 The volume of distribution of morphine is approximately 3 to 4 L/kg.
 Morphine is 30 to 35% reversibly bound to plasma proteins.
 Although the primary site of action of morphine is in the CNS, only small quantities pass the blood-brain barrier.
-Morphine also crosses the placental membranes [see Use in Specific Populations (8.1)] and has been found in breast milk [see Use in Specific Populations (8.3)].
+Morphine also crosses the placental membranes [see Use in Specific Populations (8.1)] and has been found in breast milk [see Use in Specific Populations (8.4)].
+
+Elimination
 
 Metabolism
 
@@ -119,20 +133,19 @@ The terminal elimination half-life of morphine following a single dose of KADIAN
 
 Specific Populations
 
-Geriatric Patients: The pharmacokinetics of KADIAN have not been investigated in elderly patients (> 65 years) although such patients were included in the clinical studies.
+Sex: No meaningful differences between male and female patients were demonstrated in the analysis of the pharmacokinetic data from clinical studies.
 
-Pediatric Patients: The pharmacokinetics of KADIAN have not been evaluated in a pediatric population.
+Race/Ethnicity: Chinese subjects given intravenous morphine in one study had a higher clearance when compared to Caucasian subjects (1852 + 116 mL/min versus 1495 + 80 mL/min).
 
-Gender: No meaningful differences between male and female patients were demonstrated in the analysis of the pharmacokinetic data from clinical studies.
+Hepatic Impairment
 
-Race: Chinese subjects given intravenous morphine in one study had a higher clearance when compared to Caucasian subjects (1852 ± 116 mL/min versus 1495 ± 80 mL/min).
-
-Hepatic Impairment: The pharmacokinetics of morphine were found to be significantly altered in individuals with alcoholic cirrhosis.
-The clearance was found to decrease with a corresponding increase in half-life.
-The M3G and M6G to morphine plasma AUC ratios also decreased in these patients indicating a decrease in metabolic activity.
+Morphine pharmacokinetics are altered in patients with alcoholic cirrhosis.
+Clearance was found to decrease with a corresponding increase in half-life.
+The M3G and M6G to morphine AUC ratios also decreased in these patients, indicating a decrease in metabolic activity.
 Adequate studies of the pharmacokinetics of morphine in patients with severe hepatic impairment have not been conducted.
 
-Renal Impairment: The pharmacokinetics of morphine are altered in patients with renal failure.
-The AUC is increased and clearance is decreased.
-Metabolites, M3G and M6G accumulate several fold in patients with renal failure compared to healthy subjects.
+Renal Impairment
+
+Morphine pharmacokinetics are altered in patients with renal failure.
+The AUC is increased and clearance is decreased and the metabolites, M3G and M6G, may accumulate to much higher plasma levels in patients with renal failure as compared to patients with normal renal function.
 Adequate studies of the pharmacokinetics of morphine in patients with severe renal impairment have not been conducted.

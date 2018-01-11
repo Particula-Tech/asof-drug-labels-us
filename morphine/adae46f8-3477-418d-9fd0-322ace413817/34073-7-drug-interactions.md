@@ -1,50 +1,41 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Alcohol
+Table 1 includes clinically significant drug interactions with KADIAN.
 
-Concomitant use of alcohol with KADIAN can result in an increase of morphine plasma levels and potentially fatal overdose of morphine.
-Instruct patients not to consume alcoholic beverages or use prescription or non-prescription products containing alcohol while on KADIAN therapy [See Clinical Pharmacology (12.3)].
+Table 1: Clinically Significant Drug Interactions with KADIAN
 
-## 7.2 CNS Depressants
-
-The concomitant use of KADIAN with other CNS depressants including sedatives, hypnotics, tranquilizers, general anesthetics, phenothiazines, other opioids, and alcohol can increase the risk of respiratory depression, profound sedation, coma and death.
-Monitor patients receiving CNS depressants and KADIAN for signs of respiratory depression, sedation and hypotension.
-
-When combined therapy with any of the above medications is considered, the dose of one or both agents should be reduced [see Dosage and Administration (2.2) and Warnings and Precautions (5.4)].
-
-## 7.3 Interactions with Mixed Agonist/Antagonist and Partial Agonist Opioid Analgesics
-
-Mixed agonist/antagonist (i.e., pentazocine, nalbuphine, butorphanol) and partial agonist (buprenorphine) analgesics may reduce the analgesic effect of KADIAN or precipitate withdrawal symptoms.
-Avoid the use of mixed agonist/antagonist and partial agonist analgesics in patients receiving KADIAN.
-
-## 7.4 Muscle Relaxants
-
-Morphine may enhance the neuromuscular blocking action of skeletal relaxants and produce an increased degree of respiratory depression.
-Monitor patients receiving muscle relaxants and KADIAN for signs of respiratory depression that may be greater than otherwise expected.
-
-## 7.5 Monoamine Oxidase Inhibitors (MAOIs)
-
-The effects of morphine may be potentiated by MAOIs.
-Monitor patients on concurrent therapy with an MAOI and KADIAN for increased respiratory and central nervous system depression.
-KADIAN should not be used in patients taking MAOIs or within 14 days of stopping such treatment.
-
-## 7.6 Cimetidine
-
-Cimetidine can potentiate morphine-induced respiratory depression.
-There is a report of confusion and severe respiratory depression when a patient undergoing hemodialysis was concurrently administered morphine and cimetidine.
-Monitor patients for respiratory depression when KADIAN and cimetidine are used concurrently.
-
-## 7.7 Diuretics
-
-Morphine can reduce the efficacy of diuretics by inducing the release of antidiuretic hormone.
-Morphine may also lead to acute retention of urine by causing spasm of the sphincter of the bladder, particularly in men with enlarged prostates.
-
-## 7.8 Anticholinergics
-
-Anticholinergics or other drugs with anticholinergic activity when used concurrently with opioid analgesics may result in increased risk of urinary retention and/or severe constipation, which may lead to paralytic ileus.
-Monitor patients for signs of urinary retention or reduced gastric motility when KADIAN is used concurrently with anticholinergic drugs.
-
-## 7.9 P-Glycoprotein (PGP) Inhibitors
-
-PGP inhibitors (e.g. quinidine) may increase the absorption/exposure of morphine by about two-fold.
-Monitor patients for signs of respiratory and central nervous system depression when PGP inhibitors are used concurrently with KADIAN.
+| Alcohol |  |
+| --- | --- |
+| Clinical Impact: | Concomitant use of alcohol with KADIAN can result in an increase of morphine plasma levels and potentially fatal overdose of morphine. |
+| Intervention: | Instruct patients not to consume alcoholic beverages or use prescription or non-prescription products containing alcohol while on KADIAN therapy [see Warnings and Precautions (5.4)]. |
+| Benzodiazepines and Other Central Nervous System (CNS) Depressants |  |
+| Clinical Impact: | Due to additive pharmacologic effect, the concomitant use of benzodiazepines or other CNS depressants, including alcohol, can increase the risk of hypotension, respiratory depression, profound sedation, coma, and death. |
+| Intervention: | Reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate. Limit dosages and durations to the minimum required. Follow patients closely for signs of respiratory depression and sedation [see Warnings and Precautions (5.2)]. |
+| Examples: | Benzodiazepines and other sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids, alcohol. |
+| Serotonergic Drugs |  |
+| Clinical Impact: | The concomitant use of opioids with other drugs that affect the serotonergic neurotransmitter system has resulted in serotonin syndrome. |
+| Intervention: | If concomitant use is warranted, carefully observe the patient, particularly during treatment initiation and dose adjustment. Discontinue KADIAN if serotonin syndrome is suspected. |
+| Examples: | Selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that effect the serotonin neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), monoamine oxidase (MAO) inhibitors (those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue). |
+| Monoamine Oxidase Inhibitors (MAOIs) |  |
+| Clinical Impact: | MAOI interactions with opioids may manifest as serotonin syndrome or opioid toxicity (e.g., respiratory depression, coma) [see Warnings and Precautions (5.6)]. |
+| Intervention: | Do not use KADIAN in patients taking MAOIs or within 14 days of stopping such treatment. |
+| Examples: | phenelzine, tranylcypromine, linezolid |
+| Mixed Agonist/Antagonist and Partial Agonist Opioid Analgesics |  |
+| Clinical Impact: | May reduce the analgesic effect of KADIAN and/or precipitate withdrawal symptoms. |
+| Intervention: | Avoid concomitant use. |
+| Examples: | butorphanol, nalbuphine, pentazocine, buprenorphine |
+| Muscle Relaxants |  |
+| Clinical Impact: | Morphine may enhance the neuromuscular blocking action of skeletal muscle relaxants and produce an increased degree of respiratory depression. |
+| Intervention: | Monitor patients for signs of respiratory depression that may be greater than otherwise expected and decrease the dosage of KADIAN and/or the muscle relaxant as necessary. |
+| Cimetidine |  |
+| Clinical Impact: | The concomitant use of cimetidine can potentiate morphine effects and increase risk of hypotension, respiratory depression, profound sedation, coma, and death. |
+| Intervention: | Monitor patients for signs of respiratory depression that may be greater than otherwise expected and decrease the dosage of KADIAN and/or cimetidine as necessary. |
+| Diuretics |  |
+| Clinical Impact: | Opioids can reduce the efficacy of diuretics by inducing the release of antidiuretic hormone. |
+| Intervention: | Monitor patients for signs of diminished diuresis and/or effects on blood pressure and increase the dosage of the diuretic as needed. |
+| Anticholinergic Drugs |  |
+| Clinical Impact: | The concomitant use of anticholinergic drugs may increase risk of urinary retention and/or severe constipation, which may lead to paralytic ileus. |
+| Intervention: | Monitor patients for signs of urinary retention or reduced gastric motility when KADIAN is used concomitantly with anticholinergic drugs. |
+| P-Glycoprotein (P-gp) Inhibitors |  |
+| Clinical Impact: | The concomitant use of PGP-inhibitors can increase the exposure to morphine by about two-fold and can increase risk of hypotension, respiratory depression, profound sedation, coma, and death. |
+| Intervention: | Monitor patients for signs of respiratory depression that may be greater than otherwise expected and decrease the dosage of KADIAN and/or the PGP-inhibitor as necessary. |

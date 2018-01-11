@@ -1,5 +1,6 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
+Extended-release capsules: 10 mg, 20 mg, 30 mg, 40 mg, 50 mg, 60 mg, 80 mg, 100 mg, 200 mg.
 KADIAN contains white to off-white or tan colored polymer coated pellets, have an outer opaque capsule with colors as identified below and are available in nine dose strengths:
 
 Each 10 mg extended-release capsule has a light blue opaque cap printed with “KADIAN” and a light blue opaque body printed with “10 mg”.
