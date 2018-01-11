@@ -79,7 +79,7 @@ Percentages were weighted by studies.
 Study weights were proportional to the harmonic mean of the three treatment sample sizes.
 In this pool, canagliflozin was also associated with the adverse reactions of fatigue (1.8% with comparator, 2.2% with canagliflozin 100 mg, and 2.0% with canagliflozin 300 mg) and loss of strength or energy (i.e., asthenia) (0.6% with comparator, 0.7% with canagliflozin 100 mg, and 1.1% with canagliflozin 300 mg).
 
-In the pool of eight clinical trials, the incidence rate of pancreatitis (acute or chronic) was 0.1, 0.2, and 0.1 receiving comparator, canagliflozin 100 mg, and canagliflozin 300 mg, respectively.
+In the pool of eight clinical trials, the incidence rate of pancreatitis (acute or chronic) was 0.1%, 0.2%, and 0.1% receiving comparator, canagliflozin 100 mg, and canagliflozin 300 mg, respectively.
 
 In the pool of eight clinical trials, hypersensitivity-related adverse reactions (including erythema, rash, pruritus, urticaria, and angioedema) occurred in 3.0%, 3.8%, and 4.2% of patients receiving comparator, canagliflozin 100 mg, and canagliflozin 300 mg, respectively.
 Five patients experienced serious adverse reactions of hypersensitivity with canagliflozin, which included 4 patients with urticaria and 1 patient with a diffuse rash and urticaria occurring within hours of exposure to canagliflozin.
@@ -189,7 +189,7 @@ Hypoglycemia
 
 In canagliflozin clinical trials, hypoglycemia was defined as any event regardless of symptoms, where biochemical hypoglycemia was documented (any glucose value below or equal to 70 mg/dL).
 Severe hypoglycemia was defined as an event consistent with hypoglycemia where the patient required the assistance of another person to recover, lost consciousness, or experienced a seizure (regardless of whether biochemical documentation of a low glucose value was obtained).
-In individual clinical trials [see Clinical Studies (14.6)], episodes of hypoglycemia occurred at a higher rate when canagliflozin was co-administered with insulin or sulfonylureas (Table 6) [see Warnings and Precautions (5.8)].
+In individual clinical trials [see Clinical Studies (14.8)], episodes of hypoglycemia occurred at a higher rate when canagliflozin was co-administered with insulin or sulfonylureas (Table 6) [see Warnings and Precautions (5.8)].
 
 Table 6: Incidence of HypoglycemiaNumber of patients experiencing at least one event of hypoglycemia based on either biochemically documented episodes or severe hypoglycemic events in the intent-to-treat population in Controlled Clinical Studies
 
