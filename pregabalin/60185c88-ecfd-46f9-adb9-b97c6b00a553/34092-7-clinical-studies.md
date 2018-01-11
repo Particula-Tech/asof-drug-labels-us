@@ -70,7 +70,9 @@ Some patients experienced a decrease in pain as early as Week 1, which persisted
 
 Figure 5: Patients Achieving Various Levels of Improvement in Pain Intensity– Study PHN 3
 
-## 14.3 Adjunctive Therapy for Adult Patients with Partial Onset Seizures
+## 14.3 Adjunctive Therapy for Patients 4 Years of Age and Older with Partial Onset Seizures
+
+Adjunctive Therapy for Adult Patients with Partial Onset Seizures
 
 The efficacy of LYRICA as adjunctive therapy in partial onset seizures was established in three 12-week, randomized, double-blind, placebo-controlled, multicenter studies in adult patients.
 Patients were enrolled who had partial onset seizures with or without secondary generalization and were not adequately controlled with 1 to 3 concomitant antiepileptic drugs (AEDs).
@@ -80,9 +82,9 @@ The mean duration of epilepsy was 25 years in these 3 studies and the mean and m
 Approximately half of the patients were taking 2 concurrent AEDs at baseline.
 Among the LYRICA-treated patients, 80% completed the double-blind phase of the studies.
 
-Table 8 shows median baseline seizure rates and median percent reduction in seizure frequency by dose.
+Table 9 shows median baseline seizure rates and median percent reduction in seizure frequency by dose.
 
-Table 8.
+Table 9.
 Seizure Response in Controlled, Add-On Epilepsy Studies
 
 | Daily Dose of Pregabalin | Dosing Regimen | N | Baseline Seizure Frequency/mo | Median % Change from Baseline | p-value, vs. placebo |
@@ -117,6 +119,40 @@ Figure 7: Seizure Reduction by Dose (All Partial Onset Seizures) for Studies E1,
 
 Subset evaluations of the antiseizure efficacy of LYRICA showed no clinically important differences as a function of age, gender, or race.
 
+Adjunctive Therapy for Pediatric Patients 4 to 16 Years of Age with Partial Onset Seizures
+
+The efficacy of LYRICA as adjunctive therapy in partial onset seizures was established in a 12-week, randomized, double-blind, placebo-controlled, multicenter study in children 4 to 16 years of age.
+Patients were enrolled who had partial onset seizures with or without secondary generalization and were on 1 to 3 concomitant AEDs.
+During an 8-week baseline period, patients had to experience at least 6 partial onset seizures with no seizure-free period exceeding 4 weeks.
+The mean duration of epilepsy was 6 years and the mean and median baseline seizure frequencies were 57 and 18 seizures per month, respectively.
+Approximately 74% of the patients were taking 2 to 3 concurrent AEDs at baseline.
+Among the LYRICA-treated patients, 87% completed the double-blind phase of the study.
+
+In this study, 2 dose levels of pregabalin were administered in 2 equal doses (twice a day dosing): 2.5 mg/kg/day (maximum 150 mg/day) and 10 mg/kg/day (maximum 600 mg/day).
+Due to higher weight normalized clearance in patients with body weight less than 30 kg [see Pharmacokinetics (12.3)], the pregabalin dose was increased by 40% to 3.5 mg/kg/day for patients weighing less than 30 kg randomized to the 2.5 mg/kg/day group or to 14 mg/kg/day for patients randomized to the 10 mg/kg/day group.
+
+Table 10 shows median baseline seizure rates and mean percent reduction in seizure frequency, the primary efficacy endpoint, by dose.
+
+Table 10.
+Seizure response in controlled add-on epilepsy study
+
+| Daily Dose of Pregabalin | Dosing Regimen | N | Baseline Seizure Frequency/ 28 days | % Difference Relative to Placebo | p-value, versus placebo |
+| --- | --- | --- | --- | --- | --- |
+| Placebo | BID | 93 | 16.5 | Not applicable |  |
+| 2.5 mg/kg/day 2.5 mg/kg/day: Maximum dose 150 mg/day. Includes patients less than 30 kg for whom dose was adjusted to 3.5 mg/kg/day. | BID | 104 | 23.8 | -9.9 | 0.2577 |
+| 10 mg/kg/day10 mg/kg/day: Maximum dose 600 mg/day. Includes patients less than 30 kg for whom dose was adjusted to 14 mg/kg/day. | BID | 97 | 17.5 | -19.9 | 0.0185 |
+| Abbreviations: BID=twice daily; N=number. |  |  |  |  |  |
+
+There was evidence of a dose-response relationship for total daily doses of LYRICA between 2.5 mg/kg/day and 10 mg/kg/day.
+A significant improvement in seizure rate was observed for pregabalin 10 mg/kg/day group compared with placebo.
+While the 2.5 mg/kg/day group performed numerically better than placebo, this difference was not statistically significant.
+
+A key secondary efficacy measure, the responder rate (proportion of patients with greater than or equal to 50% reduction from baseline in partial seizure frequency), showed statistical significance for pregabalin 10 mg/kg/day compared with placebo.
+Numerical improvement in responder rate for the pregabalin 2.5 mg/kg/day dose compared with placebo was observed which was not statistically significant.
+The following figure displays responder rate by dose:
+
+Figure 8: Responder Rate (greater than or equal to 50% Reduction)
+
 ## 14.4 Management of Fibromyalgia
 
 The efficacy of LYRICA for management of fibromyalgia was established in one 14-week, double-blind, placebo-controlled, multicenter study (F1) and one six-month, randomized withdrawal study (F2).
@@ -131,16 +167,16 @@ Responders to placebo in an initial one-week run-in phase were not randomized in
 A total of 64% of patients randomized to LYRICA completed the study.
 There was no evidence of a greater effect on pain scores of the 600 mg daily dose than the 450 mg daily dose, but there was evidence of dose-dependent adverse reactions [see Adverse Reactions (6.1)].
 Some patients experienced a decrease in pain as early as Week 1, which persisted throughout the study.
-The results are summarized in Figure 8 and Table 9.
+The results are summarized in Figure 9 and Table 11.
 
-For various levels of improvement in pain intensity from baseline to study endpoint, Figure 8 shows the fraction of patients achieving that level of improvement.
+For various levels of improvement in pain intensity from baseline to study endpoint, Figure 9 shows the fraction of patients achieving that level of improvement.
 The figure is cumulative.
 Patients who did not complete the study were assigned 0% improvement.
 Some patients experienced a decrease in pain as early as Week 1, which persisted throughout the study.
 
-Figure 8: Patients Achieving Various Levels of Improvement in Pain Intensity – Fibromyalgia Study F1
+Figure 9: Patients Achieving Various Levels of Improvement in Pain Intensity – Fibromyalgia Study F1
 
-Table 9.
+Table 11.
 Patient Global Response in Fibromyalgia Study F1
 
 | Treatment Group (mg/day) | % Any Improvement | 95% CI |
@@ -165,7 +201,7 @@ When considering return of pain or withdrawal due to adverse events as loss of r
 Fifty-three percent of the pregabalin-treated subjects compared to 33% of placebo patients remained on study drug and maintained a therapeutic response to Week 26 of the study.
 Treatment with LYRICA also resulted in a longer time to loss of response based on the FIQTime to worsening of the FIQ was defined as the time to a 1-point increase from double-blind baseline in each of the subscales, and a 5-point increase from double-blind baseline evaluation for the FIQ total score., and longer time to loss of overall assessment of patient status, as measured by the PGICTime to PGIC lack of improvement was defined as time to PGIC assessments indicating less improvement than "much improvement.".
 
-Figure 9: Time to Loss of Therapeutic Response, Fibromyalgia Study F2 (Kaplan-Meier Analysis)
+Figure 10: Time to Loss of Therapeutic Response, Fibromyalgia Study F2 (Kaplan-Meier Analysis)
 
 ## 14.5 Management of Neuropathic Pain Associated with Spinal Cord Injury
 
@@ -181,15 +217,15 @@ Patients were allowed to take acetaminophen and nonsteroidal anti-inflammatory d
 Study SCI 1: This 12-week, randomized, double-blind, parallel-group, multicenter, flexible dose (150–600 mg/day) study compared pregabalin with placebo.
 The 12-week study consisted of a 3-week dose adjustment phase and a 9-week dose maintenance phase.
 Treatment with LYRICA 150–600 mg/day statistically significantly improved the endpoint weekly mean pain score, and increased the proportion of patients with at least a 30% and 50% reduction in pain score from baseline.
-The fraction of patients achieving various levels of improvement in pain intensity from baseline to Week 12 is presented in Figure 10.
+The fraction of patients achieving various levels of improvement in pain intensity from baseline to Week 12 is presented in Figure 11.
 Some patients experienced a decrease in pain as early as week 1, which persisted throughout the study.
 
-Figure 10: Patients Achieving Various Levels of Improvement in Pain Intensity – Study SCI 1
+Figure 11: Patients Achieving Various Levels of Improvement in Pain Intensity – Study SCI 1
 
 Study SCI 2: This 16-week, randomized, double-blind, placebo-controlled, parallel-group, multicenter, flexible dose (150–600 mg/day, in increments of 150 mg) study compared the efficacy, safety and tolerability of pregabalin with placebo.
 The 16-week study consisted of a 4-week dose adjustment phase and a 12-week dose maintenance phase.
 Treatment with LYRICA statistically significantly improved the endpoint weekly mean pain score, and increased the proportion of patients with at least a 30% and 50% reduction in pain score from baseline.
-The fraction of patients achieving various levels of improvement in pain intensity from baseline to Week 16 is presented in Figure 11.
+The fraction of patients achieving various levels of improvement in pain intensity from baseline to Week 16 is presented in Figure 12.
 Some patients experienced a decrease in pain as early as week 1, which persisted throughout the study.
 
-Figure 11: Patients Achieving Various Levels of Improvement in Pain Intensity – Study SCI 2
+Figure 12: Patients Achieving Various Levels of Improvement in Pain Intensity – Study SCI 2

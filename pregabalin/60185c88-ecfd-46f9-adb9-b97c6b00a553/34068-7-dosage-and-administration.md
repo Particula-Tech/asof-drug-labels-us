@@ -24,15 +24,34 @@ Because LYRICA is eliminated primarily by renal excretion, adjust the dose in pa
 Patients who do not experience sufficient pain relief following 2 to 4 weeks of treatment with 300 mg/day, and who are able to tolerate LYRICA, may be treated with up to 300 mg two times a day, or 200 mg three times a day (600 mg/day).
 In view of the dose-dependent adverse reactions and the higher rate of treatment discontinuation due to adverse reactions, reserve dosing above 300 mg/day for those patients who have on-going pain and are tolerating 300 mg daily [see Adverse Reactions (6.1)].
 
-## 2.3 Adjunctive Therapy for Adult Patients with Partial Onset Seizures
+## 2.3 Adjunctive Therapy for Patients 4 Years of Age and Older with Partial Onset Seizures
 
+Adult patients (17 years of age and older)
+
+In general, it is recommended that patients be started on a total daily dose no greater than 150 mg/day (75 mg two times a day or 50 mg three times a day).
+Based on individual patient response and tolerability, the dose may be increased to a maximum dose of 600 mg/day.
+Administer the total daily dose in two or three divided doses.
 LYRICA at doses of 150 to 600 mg/day has been shown to be effective as adjunctive therapy in the treatment of partial onset seizures in adults.
 Both the efficacy and adverse event profiles of LYRICA have been shown to be dose-related.
-Administer the total daily dose in two or three divided doses.
-In general, it is recommended that patients be started on a total daily dose no greater than 150 mg/day (75 mg two times a day, or 50 mg three times a day).
-Based on individual patient response and tolerability, the dose may be increased to a maximum dose of 600 mg/day.
 
-Because LYRICA is eliminated primarily by renal excretion, adjust the dose in patients with reduced renal function [see Dosage and Administration (2.6)].
+Pediatric patients 4 to 16 years of age and greater than or equal to 30 kg total body weight
+
+Initiate dosing at 2.5 mg/kg/day (maximum of 150 mg/day), in 2 or 3 divided doses.
+Based on individual response and tolerability, dose may be increased approximately weekly up to a maximum of 10 mg/kg/day (maximum of 600 mg/day).
+
+Pediatric patients 4 to 16 years of age and less than 30 kg total body weight
+
+Initiate dosing at 3.5 mg/kg/day, in 2 or 3 divided doses.
+Based on individual response and tolerability, dose may be increased approximately weekly up to a maximum of 14 mg/kg/day.
+
+LYRICA may be administered as the oral solution or capsule.
+For capsule administration, only whole capsules should be administered.
+If the calculated dose cannot be administered with whole capsules then the dose should be rounded to that achievable with whole capsules.
+A total daily dose of 600 mg/day should not be exceeded.
+For oral solution dosing, see Oral Solution Concentration and Dispensing (2.7).
+
+Because LYRICA is eliminated primarily by renal excretion, adjust the dose in adult patients with reduced renal function [see Dosage and Administration (2.6)].
+The use of LYRICA in pediatric patients 4 to 16 years of age with compromised renal function has not been studied.
 
 The effect of dose escalation rate on the tolerability of LYRICA has not been formally studied.
 
@@ -78,10 +97,10 @@ Pregabalin Dosage Adjustment Based on Renal Function
 
 | Creatinine Clearance (CLcr) (mL/min) | Total Pregabalin Daily Dose (mg/day)Total daily dose (mg/day) should be divided as indicated by dose regimen to provide mg/dose. |  |  |  | Dose Regimen |
 | --- | --- | --- | --- | --- | --- |
-| ≥60 | 150 | 300 | 450 | 600 | BID or TID |
+| Greater than or equal to 60 | 150 | 300 | 450 | 600 | BID or TID |
 | 30–60 | 75 | 150 | 225 | 300 | BID or TID |
 | 15–30 | 25–50 | 75 | 100–150 | 150 | QD or BID |
-| <15 | 25 | 25–50 | 50–75 | 75 | QD |
+| Less than 15 | 25 | 25–50 | 50–75 | 75 | QD |
 | Supplementary dosage following hemodialysis (mg)Supplementary dose is a single additional dose. |  |  |  |  |  |
 | Patients on the 25 mg QD regimen: take one supplemental dose of 25 mg or 50 mg |  |  |  |  |  |
 | Patients on the 25–50 mg QD regimen: take one supplemental dose of 50 mg or 75 mg |  |  |  |  |  |
@@ -91,5 +110,5 @@ Pregabalin Dosage Adjustment Based on Renal Function
 
 ## 2.7 Oral Solution Concentration and Dispensing
 
-The oral solution is 20 mg pregabalin per milliliter (mL) and prescriptions should be written in milligrams (mg).
-The pharmacist will calculate the applicable dose in mL for dispensing (e.g., 150 mg equals 7.5 mL oral solution).
+The oral solution is 20 mg pregabalin per milliliter (mL) and prescriptions should be written in milligrams (mg) or mg/kg.
+The pharmacist will calculate the applicable dose in mL for dispensing (for instance, 150 mg equals 7.5 mL oral solution; or for body-weight based solution dosing, 2.5 mg/kg for a subject with 30 kg body-weight equals 2.5 mg/kg × 30 kg/20 mg/mL=3.75 mL).

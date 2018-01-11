@@ -74,6 +74,15 @@ Pediatric Pharmacokinetics
 
 In the pediatric age group of 12 years of age and older, systemic exposure of pregabalin is similar to adults at any given dose of LYRICA [see Pediatric Use (8.4)].
 
+Pregabalin pharmacokinetics were evaluated in pediatric subjects with partial onset seizures (age groups: 1 to 23 months, 2 to 6 years, 7 to 11 years, and 12 to 16 years) at dose levels of 2.5, 5, 10, and 15 mg/kg/day after single and multiple oral administration of pregabalin.
+Following oral administration, pregabalin reaches peak plasma concentration at 0.5 hours to 2 hours in the fasted state.
+Pregabalin Cmax and AUC increase linearly with increasing dose within each age group.
+The mean t½ is 3 to 4 hours in pediatric subjects up to 6 years of age, and 4 to 6 hours in those 7 years of age and older.
+Pregabalin clearance (CL/F) is nearly proportional to CLcr (mL/min).
+The relationship is similar in pediatric and adult subjects.
+When normalized per body weight, CL/F (mL/min/kg) in pediatric subjects weighing less than 30 kg is approximately 40% higher in comparison to subjects weighing greater than or equal to 30 kg.
+In the pediatric subjects 4 to 16 years of age, a 40% higher pregabalin dose (per kg body weight) is required in subjects weighing less than 30 kg compared to subjects weighing greater than or equal to 30 kg to achieve similar systemic exposure to adults at any dose of pregabalin.
+
 Drug Interactions
 
 In Vitro Studies
