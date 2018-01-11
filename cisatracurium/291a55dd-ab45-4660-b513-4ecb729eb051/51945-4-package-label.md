@@ -2,7 +2,7 @@
 
 NDC 0781-3150-75 Rx only
 
-CisatracuriumBesylate Injection
+Cisatracurium Besylate Injection
 
 10 mg/5 mL*
 
@@ -24,7 +24,7 @@ SANDOZ
 
 NDC 0781-3153-80
 
-CisatracuriumBesylate Injection
+Cisatracurium Besylate Injection
 
 200 mg/20 mL*
 

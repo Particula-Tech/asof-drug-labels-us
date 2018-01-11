@@ -51,7 +51,7 @@ The onset time was approximately 1 minute faster in patients with end-stage live
 
 ## Malignant Hyperthermia (MH)
 
-In a study of MH-susceptible pigs, cisatracurium (highest dose 2000 mcg/kg equivalent to 3 × ED95 in pigs and 40 × ED95 in humans) did not trigger MH.
+In a study of MH-susceptible pigs, cisatracurium besylate (highest dose 2000 mcg/kg equivalent to 3 × ED95 in pigs and 40 × ED95 in humans) did not trigger MH.
 Cisatracurium besylate has not been studied in MH-susceptible patients.
 Because MH can develop in the absence of established triggering agents, the clinician should be prepared to recognize and treat MH in any patient undergoing general anesthesia.
 
@@ -138,7 +138,7 @@ Because many drugs are excreted in human milk, caution should be exercised follo
 
 ## Pediatric Use
 
-Cisatracurium has not been studied in pediatric patients below the age of 1 month (see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION for clinical experience and recommendations for use in children 1 month to 12 years of age).
+Cisatracurium besylate has not been studied in pediatric patients below the age of 1 month (see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION for clinical experience and recommendations for use in children 1 month to 12 years of age).
 Intubation of the trachea in patients 1 to 4 years old was facilitated more reliably when cisatracurium besylate was used in combination with Halothane than when opioids and nitrous oxide were used for induction of anesthesia.
 
 ## Geriatric Use
@@ -147,4 +147,4 @@ Of the total number of subjects in clinical studies of cisatracurium besylate, 5
 The geriatric population included a subset of patients with significant cardiovascular disease (see CLINICAL PHARMACOLOGY - Hemodynamics Profile and Special Populations - Geriatric Patients subsections).
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between elderly and younger subjects, but greater sensitivity of some older individuals to cisatracurium besylate cannot be ruled out.
 
-Minor differences in the pharmacokinetics of cisatracurium between elderly and young adult patients are not associated with clinically significant differences in the recovery profile of cisatracurium besylate following a single 0.1 mg/kg dose; the time to maximum block is approximately 1 minute slower in elderly patients (see CLINICAL PHARMACOLOGY -Pharmacokinetics).
+Minor differences in the pharmacokinetics of cisatracurium besylate between elderly and young adult patients are not associated with clinically significant differences in the recovery profile of cisatracurium besylate following a single 0.1 mg/kg dose; the time to maximum block is approximately 1 minute slower in elderly patients (see CLINICAL PHARMACOLOGY -Pharmacokinetics).

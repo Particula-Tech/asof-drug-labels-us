@@ -4,13 +4,13 @@ Cisatracurium besylate injection, 2 mg cisatracurium per mL, is supplied in the 
 
 | NDC | Container | Size |
 | --- | --- | --- |
-| 0781-3150-95 | 5 mL Single-dose vial | Pack of 10's |
+| 0781-3150-95 | 5 mL Single-dose Vial | Pack of 10's |
 
 Cisatracurium besylate injection, 10 mg cisatracurium per mL, is supplied in the following:
 
 | NDC | Container | Size |
 | --- | --- | --- |
-| 0781-3153-95 | 20 mL Single-dose vial | Pack of 10's |
+| 0781-3153-95 | 20 mL Single-dose Vial | Pack of 10's |
 
 Intended only for use in the ICU.
 
@@ -27,4 +27,6 @@ Manufactured in India by Gland Pharma Limited
 
 for Sandoz Inc., Princeton, NJ 08540
 
-Rev: April 2012
+Rev: April 2017
+
+LEA-019404-01
