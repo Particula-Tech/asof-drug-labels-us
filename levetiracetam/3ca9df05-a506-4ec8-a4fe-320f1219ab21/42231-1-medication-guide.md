@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-KEPPRA® (KEPP-ruh) (levetiracetam) tablets and oral solution
+KEPPRA ® (KEPP-ruh) (levetiracetam) tablets and oral solution
 
 Read this Medication Guide before you start taking KEPPRA and each time you get a refill.
 There may be new information.
@@ -113,7 +113,7 @@ KEPPRA may make you dizzy or sleepy.
 
 What are the possible side effects of KEPPRA?
 
-- See "What is the most important information I should know about KEPPRA?"
+- See " What is the most important information I should know about KEPPRA?"
 
 KEPPRA can cause serious side effects.
 

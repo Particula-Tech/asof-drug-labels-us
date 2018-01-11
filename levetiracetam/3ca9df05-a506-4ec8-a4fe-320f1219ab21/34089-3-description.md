@@ -2,7 +2,7 @@
 
 KEPPRA is an antiepileptic drug available as 250 mg (blue), 500 mg (yellow), 750 mg (orange), and 1000 mg (white) tablets and as a clear, colorless, grape-flavored liquid (100 mg/mL) for oral administration.
 
-The chemical name of levetiracetam, a single enantiomer, is (-)-(S)-α-ethyl-2-oxo-1-pyrrolidine acetamide, its molecular formula is C8H14N2O2 and its molecular weight is 170.21.
+The chemical name of levetiracetam, a single enantiomer, is (-)-(S)-α-ethyl-2-oxo-1-pyrrolidine acetamide, its molecular formula is C 8H 14N 2O 2 and its molecular weight is 170.21.
 Levetiracetam is chemically unrelated to existing antiepileptic drugs (AEDs).
 It has the following structural formula:
 

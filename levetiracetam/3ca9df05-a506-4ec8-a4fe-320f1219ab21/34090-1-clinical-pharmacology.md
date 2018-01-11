@@ -34,7 +34,7 @@ Absorption and Distribution
 
 Absorption of levetiracetam is rapid, with peak plasma concentrations occurring in about an hour following oral administration in fasted subjects.
 The oral bioavailability of levetiracetam tablets is 100% and the tablets and oral solution are bioequivalent in rate and extent of absorption.
-Food does not affect the extent of absorption of levetiracetam but it decreases Cmax by 20% and delays Tmax by 1.5 hours.
+Food does not affect the extent of absorption of levetiracetam but it decreases C max by 20% and delays T max by 1.5 hours.
 The pharmacokinetics of levetiracetam are linear over the dose range of 500-5000 mg.
 Steady state is achieved after 2 days of multiple twice-daily dosing.
 Levetiracetam and its major metabolite are less than 10% bound to plasma proteins; clinically significant interactions with other drugs through competition for protein binding sites are therefore unlikely.
@@ -71,7 +71,7 @@ Pharmacokinetics of levetiracetam were evaluated in 24 pediatric patients (age 6
 The body weight adjusted apparent clearance of levetiracetam was approximately 40% higher than in adults.
 
 A repeat dose pharmacokinetic study was conducted in pediatric patients (age 4-12 years) at doses of 20 mg/kg/day, 40 mg/kg/day, and 60 mg/kg/day.
-The evaluation of the pharmacokinetic profile of levetiracetam and its metabolite (ucb L057) in 14 pediatric patients demonstrated rapid absorption of levetiracetam at all doses with a Tmax of about 1 hour and a t1/2 of 5 hours across the three dosing levels.
+The evaluation of the pharmacokinetic profile of levetiracetam and its metabolite (ucb L057) in 14 pediatric patients demonstrated rapid absorption of levetiracetam at all doses with a T max of about 1 hour and a t 1/2 of 5 hours across the three dosing levels.
 The pharmacokinetics of levetiracetam in children was linear between 20 to 60 mg/kg/day.
 The potential interaction of levetiracetam with other AEDs was also evaluated in these patients.
 Levetiracetam had no significant effect on the plasma concentrations of carbamazepine, valproic acid, topiramate or lamotrigine.
@@ -88,7 +88,7 @@ Levetiracetam levels may decrease during pregnancy.
 
 Gender
 
-Levetiracetam Cmax and AUC were 20% higher in women (N=11) compared to men (N=12).
+Levetiracetam C max and AUC were 20% higher in women (N=11) compared to men (N=12).
 However, clearances adjusted for body weight were comparable.
 
 Race
@@ -115,7 +115,7 @@ No dose adjustment is needed for patients with hepatic impairment.
 Drug Interactions
 
 In vitro data on metabolic interactions indicate that levetiracetam is unlikely to produce, or be subject to, pharmacokinetic interactions.
-Levetiracetam and its major metabolite, at concentrations well above Cmax levels achieved within the therapeutic dose range, are neither inhibitors of, nor high affinity substrates for, human liver cytochrome P450 isoforms, epoxide hydrolase or UDP-glucuronidation enzymes.
+Levetiracetam and its major metabolite, at concentrations well above C max levels achieved within the therapeutic dose range, are neither inhibitors of, nor high affinity substrates for, human liver cytochrome P450 isoforms, epoxide hydrolase or UDP-glucuronidation enzymes.
 In addition, levetiracetam does not affect the in vitro glucuronidation of valproic acid.
 
 Potential pharmacokinetic interactions of or with levetiracetam were assessed in clinical pharmacokinetic studies (phenytoin, valproate, warfarin, digoxin, oral contraceptive, probenecid) and through pharmacokinetic screening in the placebo-controlled clinical studies in epilepsy patients.
@@ -161,6 +161,6 @@ Coadministration of warfarin did not affect the pharmacokinetics of levetiraceta
 Probenecid
 
 Probenecid, a renal tubular secretion blocking agent, administered at a dose of 500 mg four times a day, did not change the pharmacokinetics of levetiracetam 1000 mg twice daily.
-Cssmax of the metabolite, ucb L057, was approximately doubled in the presence of probenecid while the fraction of drug excreted unchanged in the urine remained the same.
+C ssmax of the metabolite, ucb L057, was approximately doubled in the presence of probenecid while the fraction of drug excreted unchanged in the urine remained the same.
 Renal clearance of ucb L057 in the presence of probenecid decreased 60%, probably related to competitive inhibition of tubular secretion of ucb L057.
 The effect of KEPPRA on probenecid was not studied.

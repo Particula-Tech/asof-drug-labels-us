@@ -25,7 +25,7 @@ Table 10: Reduction in Mean Over Placebo in Weekly Frequency of Partial Onset Se
 
 |  | Placebo (N=95) | KEPPRA 1000 mg/day (N=97) | KEPPRA 3000 mg/day (N=101) |
 | --- | --- | --- | --- |
-| Percent reduction in partial seizure frequency over placebo | – | 26.1%statistically significant versus placebo | 30.1% |
+| Percent reduction in partial seizure frequency over placebo | – | 26.1% statistically significant versus placebo | 30.1% |
 
 The percentage of patients (y-axis) who achieved ≥50% reduction in weekly seizure rates from baseline in partial onset seizure frequency over the entire randomized treatment period (titration + evaluation period) within the three treatment groups (x-axis) is presented in Figure 1.
 
@@ -48,7 +48,7 @@ Table 11: Reduction in Mean Over Placebo in Weekly Frequency of Partial Onset Se
 
 |  | Placebo (N=111) | KEPPRA 1000 mg/day (N=106) | KEPPRA 2000 mg/day (N=105) |
 | --- | --- | --- | --- |
-| Percent reduction in partial seizure frequency over placebo | – | 17.1%statistically significant versus placebo | 21.4% |
+| Percent reduction in partial seizure frequency over placebo | – | 17.1% statistically significant versus placebo | 21.4% |
 
 The percentage of patients (y-axis) who achieved ≥50% reduction in weekly seizure rates from baseline in partial onset seizure frequency over the entire randomized treatment period (titration + evaluation period) within the three treatment groups (x-axis) is presented in Figure 2.
 
@@ -73,7 +73,7 @@ Table 12: Reduction in Mean Over Placebo in Weekly Frequency of Partial Onset Se
 
 |  | Placebo (N=104) | KEPPRA 3000 mg/day (N=180) |
 | --- | --- | --- |
-| Percent reduction in partial seizure frequency over placebo | – | 23.0%statistically significant versus placebo |
+| Percent reduction in partial seizure frequency over placebo | – | 23.0% statistically significant versus placebo |
 
 The percentage of patients (y-axis) who achieved ≥50% reduction in weekly seizure rates from baseline in partial onset seizure frequency over the entire randomized treatment period (titration + evaluation period) within the two treatment groups (x-axis) is presented in Figure 3.
 
@@ -97,7 +97,7 @@ Table 13: Reduction in Mean Over Placebo in Weekly Frequency of Partial Onset Se
 
 |  | Placebo (N=97) | KEPPRA (N=101) |
 | --- | --- | --- |
-| Percent reduction in partial seizure frequency over placebo | - | 26.8%statistically significant versus placebo |
+| Percent reduction in partial seizure frequency over placebo | - | 26.8% statistically significant versus placebo |
 
 The percentage of patients (y-axis) who achieved ≥ 50% reduction in weekly seizure rates from baseline in partial onset seizure frequency over the entire randomized treatment period (titration + evaluation period) within the two treatment groups (x-axis) is presented in Figure 4.
 
@@ -139,7 +139,7 @@ Table 14: Responder Rate (≥50% Reduction from Baseline) in Myoclonic Seizure D
 
 |  | Placebo (N=59) | KEPPRA (N=54) |
 | --- | --- | --- |
-| Percentage of responders | 23.7% | 60.4%statistically significant versus placebo |
+| Percentage of responders | 23.7% | 60.4% statistically significant versus placebo |
 
 ## 14.3 Primary Generalized Tonic-Clonic Seizures
 
@@ -160,7 +160,7 @@ Table 15: Median Percent Reduction from Baseline in PGTC Seizure Frequency per W
 
 |  | Placebo (N=84) | KEPPRA (N=78) |
 | --- | --- | --- |
-| Percent reduction in PGTC seizure frequency | 44.6% | 77.6%statistically significant versus placebo |
+| Percent reduction in PGTC seizure frequency | 44.6% | 77.6% statistically significant versus placebo |
 
 The percentage of patients (y-axis) who achieved ≥50% reduction in weekly seizure rates from baseline in PGTC seizure frequency over the entire randomized treatment period (titration + evaluation period) within the two treatment groups (x-axis) is presented in Figure 6.
 
