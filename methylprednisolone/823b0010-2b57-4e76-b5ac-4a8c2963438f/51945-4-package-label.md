@@ -1,24 +1,24 @@
-# PRINCIPAL DISPLAY PANEL - 20 mg Multidose Vial Label
+# PRINCIPAL DISPLAY PANEL - 100 mg/5 mL Vial Label
 
-NDC 0009-0274-01
+5 mL Multidose Vial NDC 0009-0274-01
 
-5 mL Multidose Vial
+Depo-Medrol® (methylPREDNISolone acetate injectable suspension, USP)
 
-Depo-Medrol® (methylprednisolone acetate injectable suspension, USP)
+100 mg/5 mL
 
-20 mg/mL
+(20 mg/mL) Rx only
 
-Rx only
-
-# PRINCIPAL DISPLAY PANEL - 20 mg Multidose Vial Carton
-
-NDC 0009-0274-01
+# PRINCIPAL DISPLAY PANEL - 100 mg/5 mL Vial Carton
 
 5 mL Multidose Vial
 
-Depo-Medrol® (methylprednisolone acetate injectable suspension, USP)
+NDC 0009-0274-01
 
-20 mg/mL
+Depo-Medrol® (methylPREDNISolone acetate injectable suspension, USP)
+
+100 mg/5 mL
+
+(20 mg/mL)
 
 For intramuscular, intrasynovial and soft tissue injection only
 
@@ -30,27 +30,25 @@ Rx only
 
 Pfizer Injectables
 
-# PRINCIPAL DISPLAY PANEL - 40 mg Multidose Vial Label
+# PRINCIPAL DISPLAY PANEL - 200 mg/5 mL Vial Label
 
-NDC 0009-0280-02
+5 mL Multidose Vial NDC 0009-0280-02
 
-5 mL Multidose Vial
+Depo-Medrol® (methylPREDNISolone acetate injectable suspension, USP)
 
-Depo-Medrol® (methylprednisolone acetate injectable suspension, USP)
-
-40 mg/mL
+200 mg/5 mL (40 mg/mL)
 
 Rx only
 
-# PRINCIPAL DISPLAY PANEL - 40 mg Multidose Vial Carton
+# PRINCIPAL DISPLAY PANEL - 200 mg/5 mL Vial Package
 
 25—5 mL Multidose Vials
 
 NDC 0009-0280-51 Contains 25 of NDC 0009-0280-02
 
-Depo-Medrol® (methylprednisolone acetate injectable suspension, USP)
+Depo-Medrol® (methylPREDNISolone acetate injectable suspension, USP)
 
-40 mg/mL
+200 mg/5 mL (40 mg/mL)
 
 For intramuscular, intrasynovial and soft tissue injection only NOT for IV use Contains Benzyl Alcohol as a Preservative
 
@@ -58,27 +56,25 @@ Pfizer Injectables
 
 Rx only
 
-# PRINCIPAL DISPLAY PANEL - 80 mg Multidose Vial Label
+# PRINCIPAL DISPLAY PANEL - 400 mg/5 mL Vial Label
 
-NDC 0009-0306-02
+5 mL Multidose Vial NDC 0009-0306-02
 
-5 mL Multidose Vial
+Depo-Medrol® (methylPREDNISolone acetate injectable suspension, USP)
 
-Depo-Medrol® (methylprednisolone acetate injectable suspension, USP)
-
-80 mg/mL
+400 mg/5 mL (80 mg/mL)
 
 Rx only
 
-# PRINCIPAL DISPLAY PANEL - 80 mg Multidose Vial Carton
-
-NDC 0009-0306-02
+# PRINCIPAL DISPLAY PANEL - 400 mg/5 mL Vial Carton
 
 5 mL Multidose Vial
 
-Depo-Medrol® (methylprednisolone acetate injectable suspension, USP)
+NDC 0009-0306-02
 
-80 mg/mL
+Depo-Medrol® (methylPREDNISolone acetate injectable suspension, USP)
+
+400 mg/5 mL (80 mg/mL)
 
 For intramuscular, intrasynovial and soft tissue injection only
 
