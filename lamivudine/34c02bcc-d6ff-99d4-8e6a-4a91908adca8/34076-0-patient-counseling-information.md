@@ -17,6 +17,10 @@ Risk of Pancreatitis Advise parents or guardians to monitor pediatric patients f
 
 Immune Reconstitution Syndrome Advise patients to inform their healthcare provider immediately of any signs and symptoms of infection as inflammation from previous infection may occur soon after combination antiretroviral therapy, including when Lamivudine tablets is started [see Warnings and Precautions (5.5)].
 
+Lower Virologic Suppression Rates and Increased Risk of Viral Resistance with Oral Solution
+
+Advise patients that an all-tablet regimen should be used when possible due to an increased rate of treatment failure among pediatric subjects who received EPIVIR oral solution concomitantly with other antiretroviral oral solutions [see Warnings and Precautions (5.6)].
+
 Redistribution/Accumulation of Body Fat Inform patients that redistribution or accumulation of body fat may occur in patients receiving antiretroviral therapy and that the cause and long-term health effects of these conditions are not known at this time [see Warnings and Precautions (5.7)].
 
 Pregnancy Registry Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to Lamivudine tablets during pregnancy [see Use in Specific Populations (8.1)].
@@ -39,6 +43,6 @@ APOTEX INC. LAMIVUDINE TABLETS, USP 150 mg and 300 mg
 | Toronto, Ontario | Weston, Florida |
 | Canada M9L 1T9 | USA 33326 |
 
-Revised: November 2016
+Revised: November 2017
 
-Revision: 10
+Revision: 11

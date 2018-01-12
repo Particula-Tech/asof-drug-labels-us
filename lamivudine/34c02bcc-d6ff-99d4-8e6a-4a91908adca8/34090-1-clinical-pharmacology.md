@@ -18,8 +18,7 @@ Inter-subject variability was greater for intracellular lamivudine triphosphate 
 The pharmacokinetics of lamivudine was evaluated in 12 adult HIV-1-infected subjects dosed with lamivudine 150 mg twice daily in combination with other antiretroviral agents.
 The geometric mean (95% CI) for AUC(0-12) was 5.53 (4.58, 6.67) mcg.h per mL and for Cmax was 1.40 (1.17, 1.69) mcg per mL.
 
-Absorption and Bioavailability Following oral administration, lamivudine is rapidly absorbed and extensively distributed.
-Absolute bioavailability in 12 adult subjects was 86% ± 16% (mean ± SD) for the 150-mg tablet and 87% ± 13% for the oral solution.
+Absorption and Bioavailability Absolute bioavailability in 12 adult subjects was 86% ± 16% (mean ± SD) for the 150-mg tablet and 87% ± 13% for the oral solution.
 After oral administration of 2 mg per kg twice a day to 9 adults with HIV-1, the peak serum lamivudine concentration (Cmax) was 1.5 ± 0.5 mcg per mL (mean ± SD).
 The area under the plasma concentration versus time curve (AUC) and Cmax increased in proportion to oral dose over the range from 0.25 to 10 mg per kg.
 
@@ -33,7 +32,7 @@ There was no significant difference in systemic exposure (AUC∞) in the fed and
 Distribution The apparent volume of distribution after IV administration of lamivudine to 20 subjects was 1.3 ± 0.4 L per kg, suggesting that lamivudine distributes into extravascular spaces.
 Volume of distribution was independent of dose and did not correlate with body weight.
 
-Binding of lamivudine to human plasma proteins is low (less than 36%).
+Binding of lamivudine to human plasma proteins is less than 36%.
 In vitro studies showed that over the concentration range of 0.1 to 100 mcg per mL, the amount of lamivudine associated with erythrocytes ranged from 53% to 57% and was independent of concentration.
 
 Metabolism Metabolism of lamivudine is a minor route of elimination.
@@ -49,7 +48,7 @@ In most single-dose trials in HIV-1-infected subjects, HBV-infected subjects, or
 In HIV-1-infected subjects, total clearance was 398.5 ± 69.1 mL per min (mean ± SD).
 Oral clearance and elimination half-life were independent of dose and body weight over an oral dosing range of 0.25 to 10 mg per kg.
 
-Special Populations Renal Impairment The pharmacokinetic properties of lamivudine have been determined in a small group of HIV-1-infected adults with impaired renal function (Table 7).
+Specific Populations Patients with Renal Impairment The pharmacokinetic properties of lamivudine have been determined in a small group of HIV-1-infected adults with impaired renal function (Table 7).
 
 Table 7.
 Pharmacokinetic Parameters (Mean ± SD) after a Single 300-mg Oral Dose of Lamivudine in 3 Groups of Adults with Varying Degrees of Renal Function
@@ -71,7 +70,7 @@ Therefore, it is recommended, following correction of dose for creatinine cleara
 
 The effects of renal impairment on lamivudine pharmacokinetics in pediatric patients are not known.
 
-Hepatic Impairment The pharmacokinetic properties of lamivudine have been determined in adults with impaired hepatic function.
+Patients with Hepatic Impairment The pharmacokinetic properties of lamivudine have been determined in adults with impaired hepatic function.
 Pharmacokinetic parameters were not altered by diminishing hepatic function.
 Safety and efficacy of lamivudine have not been established in the presence of decompensated liver disease.
 
@@ -80,11 +79,13 @@ Lamivudine pharmacokinetics in pregnant women were similar to those seen in non-
 Lamivudine concentrations were generally similar in maternal, neonatal, and umbilical cord serum samples.
 
 Pediatric Patients The pharmacokinetics of lamivudine have been studied after either single or repeat doses of lamivudine in 210 pediatric subjects.
-Pediatric subjects receiving lamivudine oral solution according to the recommended dosage regimen achieved approximately 25% lower plasma concentrations of lamivudine compared with HIV-1-infected adults.
+Pediatric subjects receiving lamivudine oral solution (dosed at approximately 8 mg per kg per day) achieved approximately 25% lower plasma concentrations of lamivudine compared with HIV-1-infected adults.
 Pediatric subjects receiving lamivudine oral tablets achieved plasma concentrations comparable to or slightly higher than those observed in adults.
 The absolute bioavailability of both lamivudine tablets and oral solution are lower in children than adults.
 The relative bioavailability of lamivudine oral solution is approximately 40% lower than tablets containing lamivudine in pediatric subjects despite no difference in adults.
-The mechanisms for the diminished absolute bioavailability of lamivudine and relative bioavailability of lamivudine solution are unknown.
+Lower lamivudine exposures in pediatric patients receiving lamivudine oral solution is likely due to the interaction between lamivudine and concomitant solutions containing sorbitol (such as ZIAGEN).
+Modeling of pharmacokinetic data suggests increasing the dosage of EPIVIR oral solution to 5 mg per kg taken orally twice daily (up to a maximum of 300 mg daily) is needed to achieve sufficient concentrations of lamivudine [see Dosage and Administration (2.2)].
+There are no clinical data in HIV-1 infected pediatric patients coadministered with sorbitol-containing medicines at this dose.
 
 Distribution of lamivudine into cerebrospinal fluid (CSF) was assessed in 38 pediatric subjects after multiple oral dosing with lamivudine.
 CSF samples were collected between 2 and 4 hours postdose.
@@ -99,14 +100,35 @@ However, due to ViiV Healthcare Company’s marketing exclusivity rights, this d
 
 Geriatric Patients The pharmacokinetics of lamivudine after administration of lamivudine tablets to subjects over 65 years have not been studied [see Use in Specific Populations (8.5)].
 
-Gender There are no significant or clinically relevant gender differences in lamivudine pharmacokinetics.
+Male and Female Patients There are no significant or clinically relevant gender differences in lamivudine pharmacokinetics.
 
-Race There are no significant or clinically relevant racial differences in lamivudine pharmacokinetics.
+Racial Groups There are no significant or clinically relevant racial differences in lamivudine pharmacokinetics.
 
-Drug Interactions Interferon Alfa There was no significant pharmacokinetic interaction between lamivudine and interferon alfa in a trial of 19 healthy male subjects [see Warnings and Precautions (5.3)].
+Drug Interactions Studies
+
+Effect of Lamivudine on the Pharmacokinetics of Other Agents
+
+Based on in vitro study results, lamivudine at therapeutic drug exposures is not expected to affect the pharmacokinetics of drugs that are substrates of the following transporters: organic anion transporter polypeptide 1B1/3 (OATP1B1/3), breast cancer resistance protein (BCRP), P-glycoprotein (P-gp), multidrug and toxin extrusion protein 1 (MATE1), MATE2-K, organic cation transporter 1 (OCT1), OCT2, or OCT3.
+
+Effect of Other Agents on the Pharmacokinetics of Lamivudine
+
+Lamivudine is a substrate of MATE1, MATE2-K, and OCT2 in vitro.
+Trimethoprim (an inhibitor of these drug transporters) has been shown to increase lamivudine plasma concentrations.
+This interaction is not considered clinically significant as no dose adjustment of lamivudine is needed.
+
+Lamivudine is a substrate of P-gp and BCRP; however, considering its absolute bioavailability (87%), it is unlikely that these transporters play a significant role in the absorption of lamivudine.
+Therefore, coadministration of drugs that are inhibitors of these efflux transporters is unlikely to affect the disposition and elimination of lamivudine.
+
+Interferon Alfa There was no significant pharmacokinetic interaction between lamivudine and interferon alfa in a trial of 19 healthy male subjects [see Warnings and Precautions (5.3)].
 
 Ribavirin In vitro data indicate ribavirin reduces phosphorylation of lamivudine, stavudine, and zidovudine.
 However, no pharmacokinetic (e.g., plasma concentrations or intracellular triphosphorylated active metabolite concentrations) or pharmacodynamic (e.g., loss of HIV-1/HCV virologic suppression) interaction was observed when ribavirin and lamivudine (n = 18), stavudine (n = 10), or zidovudine (n = 6) were coadministered as part of a multi-drug regimen to HIV-1/HCV co-infected subjects [see Warnings and Precautions (5.3)].
+
+Sorbitol (Excipient)
+
+Lamivudine and sorbitol solutions were coadministered to 16 healthy adult subjects in an open-label, randomized sequence, 4-period, crossover trial.
+Each subject received a single 300-mg dose of lamivudine oral solution alone or coadministered with a single dose of 3.2 grams, 10.2 grams, or 13.4 grams of sorbitol in solution.
+Coadministration of lamivudine with sorbitol resulted in dose-dependent decreases of 20%, 39%, and 44% in the AUC (0-24), 14%, 32%, and 36% in the AUC (∞), and 28%, 52%, and 55% in the Cmax of lamivudine.
 
 Trimethoprim/Sulfamethoxazole Lamivudine and TMP/SMX were coadministered to 14 HIV-1-positive subjects in a single-center, open-label, randomized, crossover trial.
 Each subject received treatment with a single 300-mg dose of lamivudine and TMP 160 mg/SMX 800 mg once a day for 5 days with concomitant administration of lamivudine 300 mg with the fifth dose in a crossover design.

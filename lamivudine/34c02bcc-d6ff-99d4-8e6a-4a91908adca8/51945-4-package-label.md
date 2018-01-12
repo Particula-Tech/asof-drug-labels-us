@@ -1,6 +1,6 @@
-Representative sample of labeling (see HOW SUPPLIED section for complete listing):
+# PRINCIPAL DISPLAY PANEL 150 mg
 
-PRINCIPAL DISPLAY PANEL - 150 MG BOTTLE LABEL
+Representative sample of labeling (see HOW SUPPLIED section for complete listing):
 
 APOTEX CORP. NDC 60505-3251-6
 
@@ -12,9 +12,9 @@ Rx only
 
 60 Tablets
 
-Representative sample of labeling (see HOW SUPPLIED section for complete listing):
+# Principal Display Panel 300 mg
 
-PRINCIPAL DISPLAY PANEL - 300 MG BOTTLE LABEL
+Representative sample of labeling (see HOW SUPPLIED section for complete listing):
 
 APOTEX CORP. NDC 60505-3252-3
 

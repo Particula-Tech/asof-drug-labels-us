@@ -49,9 +49,10 @@ Autoimmune disorders (such as Graves’ disease, polymyositis, and Guillain-Barr
 
 ## 5.6 Lower Virologic Suppression Rates and Increased Risk of Viral Resistance with Oral Solution
 
-Pediatric subjects who received lamivudine oral solution concomitantly with other antiretroviral oral solutions at any time in the ARROW trial had lower rates of virologic suppression, lower plasma lamivudine exposure, and developed viral resistance more frequently than those receiving lamivudine tablets [see Clinical Pharmacology (12.3), Microbiology (12.4), Clinical Studies (14.2)].
+Pediatric subjects who received lamivudine oral solution (at weight band-based doses approximating 8 mg per kg per day) concomitantly with other antiretroviral oral solutions at any time in the ARROW trial had lower rates of virologic suppression, lower plasma lamivudine exposure, and developed viral resistance more frequently than those receiving lamivudine tablets [see Clinical Pharmacology (12.3), Microbiology (12.4), Clinical Studies (14.2)].
 
 Lamivudine scored tablet is the preferred formulation for HIV-1-infected pediatric patients who weigh at least 14 kg and for whom a solid dosage form is appropriate.
+An all-tablet regimen should be used when possible to avoid a potential interaction with sorbitol [see Clinical Pharmacology (12.3)].
 Consider more frequent monitoring of HIV-1 viral load when treating with lamivudine oral solution.
 
 ## 5.7 Fat Redistribution

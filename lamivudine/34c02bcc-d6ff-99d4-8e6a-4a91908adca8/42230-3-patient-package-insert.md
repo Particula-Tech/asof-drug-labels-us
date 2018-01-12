@@ -141,7 +141,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store lamivudine tablets?
 
-- Store lamivudine tablets at 20° to 25°C (68° to 77°F); excursions permitted from 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
+- Store lamivudine tablets at 20°C to 25°C (68°F to 77°F); excursions permitted from 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
   Protect from moisture.
 
 Keep lamivudine tablets and all medicines out of the reach of children.
@@ -160,7 +160,7 @@ To report Suspected Adverse Reactions, contact Apotex Corp., at 1-800-706-5575 o
 What are the ingredients in lamivudine tablets?
 Active ingredient: lamivudine
 
-Inactive ingredients: black iron oxide, lactose anhydrous, crospovidone, colloidal silicon dioxide, hydroxypropyl methylcellulose, hydroxypropyl cellulose, magnesium stearate, polyethylene glycol, and titanium dioxide.
+Inactive ingredients: black iron oxide, colloidal silicon dioxide, crospovidone, hydroxypropyl cellulose, hydroxypropyl methylcellulose, lactose anhydrous, magnesium stearate, polyethylene glycol, and titanium dioxide.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
@@ -174,7 +174,7 @@ APOTEX INC. LAMIVUDINE TABLETS, USP 150 mg and 300 mg
 | Toronto, Ontario | Weston, Florida |
 | Canada M9L 1T9 | USA 33326 |
 
-Revised: November 2016
+Revised: November 2017
 
 Rev.
-10
+11
