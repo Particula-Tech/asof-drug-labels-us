@@ -23,15 +23,15 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 The stated frequencies of adverse reactions represent the proportion of individuals who experienced, at least once, a treatment-emergent adverse reaction of the type listed.
 A reaction was considered treatment-emergent if it occurred for the first time or worsened while receiving therapy following baseline evaluation.
 Reactions reported during the studies were not necessarily caused by the therapy, and the frequencies do not reflect investigator impression (assessment) of causality.
-Adults — The data described below reflect exposure to duloxetine in placebo-controlled trials for MDD (N=3,779), GAD (N=1,018), OA (N=503), CLBP (N=600), DPNP (N=906), and another indication (N=1,294).
+Adults — The data described below reflect exposure to duloxetine in placebo-controlled trials for MDD (N=3779), GAD (N=1018), OA (N=503), CLBP (N=600), DPNP (N=906), and another indication (N=1294).
 The population studied was 17 to 89 years of age; 65.7%, 60.8%, 60.6%, 42.9%, and 94.4% female; and 81.8%, 72.6%, 85.3%, 74%, and 85.7% Caucasian for MDD, GAD, OA and CLBP, DPNP, and another indication, respectively.
-Most patients received doses of a total of 60 to 120 mg per day [see Clinical Studies (14)].
-Children and Adolescents — The data described below reflect exposure to duloxetine in pediatric, 10-week, placebo-controlled trials for MDD (N=341) and another indication (N=135).
+Most patients received doses of a total of 60 mg to 120 mg per day [see Clinical Studies (14)].
+The data below do not include results of the trial examining the efficacy of duloxetine in patients ≥ 65 years old for the treatment of generalized anxiety disorder; however, the adverse reactions observed in this geriatric sample were generally similar to adverse reactions in the overall adult population.
+
+Children and Adolescents — The data described below reflect exposure to duloxetine in pediatric, 10-week, placebo-controlled trials for MDD (N=341) and GAD (N=135).
 The population studied (N=476) was 7 to 17 years of age with 42.4% children age 7 to 11 years of age, 50.6% female, and 68.6% white.
-Patients received 30 to 120 mg per day during placebo-controlled acute treatment studies.
-Additional data come from the overall total of 822 pediatric patients (age 7 to 17 years of age) with 41.7% children age 7 to 11 years of age and 51.8% female exposed to duloxetine in MDD and another indication clinical trials up to 36-weeks in length, in which most patients received 30 to 120 mg per day.
-Pediatric use information for patients with generalized anxiety disorder ages 7 to 17 years is approved for Eli Lilly and Company, Inc.'s CYMBALTA® (duloxetine) delayed-release capsules.
-However, due to Eli Lilly and Company, Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Patients received 30 mg to 120 mg per day during placebo-controlled acute treatment studies.
+Additional data come from the overall total of 822 pediatric patients (age 7 to 17 years of age) with 41.7% children age 7 to 11 years of age and 51.8% female exposed to duloxetine in MDD and GAD clinical trials up to 36-weeks in length, in which most patients received 30 mg to 120 mg per day.
 
 ## 6.2 Adverse Reactions Reported as Reasons for Discontinuation of Treatment in Adult Placebo-Controlled Trials
 
@@ -86,7 +86,7 @@ Table 2: Treatment-Emergent Adverse Reactions: Incidence of 5% or More and Great
 
 Pooled MDD and GAD Trials — Table 3 gives the incidence of treatment-emergent adverse reactions in MDD and GAD placebo-controlled trials for approved indications that occurred in 2% or more of patients treated with duloxetine and with an incidence greater than placebo.
 
-Table 3: Treatment-Emergent Adverse Reactions: Incidence of 2% or More and Greater than Placebo in MDD and GAD Placebo-Controlled TrialsThe inclusion of an event in the table is determined based on the percentages before rounding; however, the percentages displayed in the table are rounded to the nearest integer.
+Table 3: Treatment-Emergent Adverse Reactions: Incidence of 2% or More and Greater than Placebo in MDD and GAD Placebo-Controlled TrialsThe inclusion of an event in the table is determined based on the percentages before rounding; however, the percentages displayed in the table are rounded to the nearest integer.,For GAD, there were no adverse events that were significantly different between treatments in adults ≥65 years that were also not significant in the adults <65 years.
 
 |  | Percentage of Patients Reporting Reaction |  |
 | --- | --- | --- |
@@ -221,7 +221,7 @@ The following listing is not intended to include reactions (1) already listed in
 
 Reactions are categorized by body system according to the following definitions: frequent adverse reactions are those occurring in at least 1/100 patients; infrequent adverse reactions are those occurring in 1/100 to 1/1,000 patients; rare reactions are those occurring in fewer than 1/1,000 patients.
 
-Cardiac Disorders — Frequent: palpitations; Infrequent: myocardial infarction and tachycardia.
+Cardiac Disorders — Frequent: palpitations; Infrequent: myocardial infarction, tachycardia, and Takotsubo cardiomyopathy.
 
 Ear and Labyrinth Disorders — Frequent: vertigo; Infrequent: ear pain and tinnitus.
 
@@ -261,7 +261,7 @@ The adverse drug reaction profile observed in pediatric clinical trials (childre
 The specific adverse drug reactions observed in adult patients can be expected to be observed in pediatric patients (children and adolescents) [see Adverse Reactions (6.5)].
 The most common (≥5% and twice placebo) adverse reactions observed in pediatric clinical trials include: nausea, diarrhea, decreased weight, and dizziness.
 
-Table 6 provides the incidence of treatment-emergent adverse reactions in pediatric placebo- controlled trials that occurred in greater than 2% of patients treated with duloxetine and with an incidence greater than placebo.
+Table 6 provides the incidence of treatment-emergent adverse reactions in MDD and GAD pediatric placebo- controlled trials that occurred in greater than 2% of patients treated with duloxetine and with an incidence greater than placebo.
 
 Table 6: Treatment-Emergent Adverse Reactions: Incidence of 2% or More and Greater than Placebo in three 10- week Pediatric Placebo-Controlled TrialsThe inclusion of an event in the table is determined based on the percentages before rounding; however, the percentages displayed in the table are rounded to the nearest integer.
 
@@ -301,8 +301,6 @@ Subsequently, over the 4- to 6-month uncontrolled extension periods, duloxetine-
 In studies up to 9 months, duloxetine-treated pediatric patients experienced an increase in height of 1.7 cm on average (2.2 cm increase in children [7 to 11 years of age] and 1.3 cm increase in adolescents [12 to 17 years of age]).
 While height increase was observed during these studies, a mean decrease of 1% in height percentile was observed (decrease of 2% in children [7 to 11 years of age] and increase of 0.3% in adolescents [12 to 17 years of age]).
 Weight and height should be monitored regularly in children and adolescents treated with duloxetine.
-Pediatric use information for patients with generalized anxiety disorder ages 7 to 17 years is approved for Eli Lilly and Company, Inc.'s CYMBALTA® (duloxetine) delayed-release capsules.
-However, due to Eli Lilly and Company, Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 6.12 Postmarketing Spontaneous Reports
 

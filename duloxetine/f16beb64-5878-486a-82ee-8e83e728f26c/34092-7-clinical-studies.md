@@ -3,17 +3,14 @@
 The efficacy of duloxetine has been established in the following adequate and well-controlled trials:
 
 - Major Depressive Disorder (MDD): 4 short-term and 1 maintenance trial in adults [see Clinical Studies (14.1)].
-- Generalized Anxiety Disorder (GAD): 3 short-term trials in adults, 1 maintenance trial in adults [see Clinical Studies (14.2)].
+- Generalized Anxiety Disorder (GAD): 3 short-term trials in adults, 1 maintenance trial in adults, and 1 short-term trial in children and adolescents [see Clinical Studies (14.2)].
 - Diabetic Peripheral Neuropathic Pain (DPNP): Two 12-week trials in adults [see Clinical Studies (14.3)].
 - Chronic Musculoskeletal Pain: Two 12- to 13-week trials in adult patients with chronic low back pain (CLBP) and one 13-week trial in adult patients with chronic pain due to osteoarthritis [see Clinical Studies (14.5)].
-
-Pediatric use information for patients ages 7 to 17 years is approved for Eli Lilly and Company, Inc.'s CYMBALTA® (duloxetine) delayed-release capsules.
-However, due to Eli Lilly and Company, Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 14.1 Major Depressive Disorder
 
 The efficacy of duloxetine as a treatment for depression was established in 4 randomized, double-blind, placebo-controlled, fixed-dose studies in adult outpatients (18 to 83 years) meeting DSM-IV criteria for major depression.
-In 2 studies, patients were randomized to duloxetine 60 mg once daily (N=123 and N=128, respectively) or placebo (N=122 and N=139, respectively) for 9 weeks; in the third study, patients were randomized to duloxetine 20 or 40 mg twice daily (N=86 and N=91, respectively) or placebo (N=89) for 8 weeks; in the fourth study, patients were randomized to duloxetine 40 or 60 mg twice daily (N=95 and N=93, respectively) or placebo (N=93) for 8 weeks.
+In 2 studies, patients were randomized to duloxetine 60 mg once daily (N=123 and N=128, respectively) or placebo (N=122 and N=139, respectively) for 9 weeks; in the third study, patients were randomized to duloxetine 20 mg or 40 mg twice daily (N=86 and N=91, respectively) or placebo (N=89) for 8 weeks; in the fourth study, patients were randomized to duloxetine 40 mg or 60 mg twice daily (N=95 and N=93, respectively) or placebo (N=93) for 8 weeks.
 There is no evidence that doses greater than 60 mg/day confer additional benefits.
 In all 4 studies, duloxetine demonstrated superiority over placebo as measured by improvement in the 17-item Hamilton Depression Rating Scale (HAMD-17) total score (Studies 1 to 4 in Table 7).
 
@@ -43,40 +40,46 @@ The efficacy of duloxetine in the treatment of generalized anxiety disorder (GAD
 In 1 flexible-dose study and in the fixed-dose study, the starting dose was 60 mg once daily where down titration to 30 mg once daily was allowed for tolerability reasons before increasing it to 60 mg once daily.
 Fifteen percent of patients were down titrated.
 One flexible-dose study had a starting dose of 30 mg once daily for 1 week before increasing it to 60 mg once daily.
-
 The 2 flexible-dose studies involved dose titration with duloxetine doses ranging from 60 mg once daily to 120 mg once daily (N=168 and N=162) compared to placebo (N=159 and N=161) over a 10-week treatment period.
 The mean dose for completers at endpoint in the flexible-dose studies was 104.75 mg/day.
 The fixed-dose study evaluated duloxetine doses of 60 mg once daily (N=168) and 120 mg once daily (N=170) compared to placebo (N=175) over a 9-week treatment period.
 While a 120 mg/day dose was shown to be effective, there is no evidence that doses greater than 60 mg/day confer additional benefit.
-
 In all 3 studies, duloxetine demonstrated superiority over placebo as measured by greater improvement in the Hamilton Anxiety Scale (HAM-A) total score (Studies 1 to 3 in Table 8) and by the Sheehan Disability Scale (SDS) global functional impairment score.
 The SDS is a composite measurement of the extent emotional symptoms disrupt patient functioning in 3 life domains: work/school, social life/leisure activities, and family life/home responsibilities.
-
 In another study, 887 patients meeting DSM-IV-TR criteria for GAD received duloxetine 60 mg to 120 mg once daily during an initial 26-week open-label treatment phase.
 Four hundred and twenty-nine patients who responded to open-label treatment (defined as meeting the following criteria at weeks 24 and 26: a decrease from baseline HAM-A total score by at least 50% to a score no higher than 11, and a Clinical Global Impressions of Improvement [CGI-Improvement] score of 1 or 2) were randomly assigned to continuation of duloxetine at the same dose (N=216) or to placebo (N=213) and were observed for relapse.
 Of the patients randomized, 73% had been in a responder status for at least 10 weeks.
 Relapse was defined as an increase in CGI-Severity score at least 2 points to a score ≥4 and a MINI (Mini-International Neuropsychiatric Interview) diagnosis of GAD (excluding duration), or discontinuation due to lack of efficacy.
 Patients taking duloxetine experienced a statistically significantly longer time to relapse of GAD than did patients taking placebo (Study 4 in Figure 2).
-
 Subgroup analyses did not indicate that there were any differences in treatment outcomes as a function of age or gender.
+The efficacy of duloxetine in the treatment of patients ≥65 years of age with generalized anxiety disorder was established in one 10-week flexible-dose, randomized, double-blind, placebo-controlled trial in adults ≥65 years of age meeting the DSM-IV criteria for GAD.
+In this study, the starting dose was 30 mg once daily for 2 weeks before further dose increases in 30 mg increments at treatment weeks 2, 4, and 7 up to 120 mg once daily were allowed based on investigator judgment of clinical response and tolerability.
+The mean dose for patients completing the 10-week acute treatment phase was 50.95 mg.
+Patients treated with duloxetine (N=151) demonstrated significantly greater improvement compared with placebo (N=140) on mean change from baseline to endpoint as measured by the Hamilton Anxiety Rating Scale total score (Study 5 in Table 8).
+The efficacy of duloxetine in the treatment of pediatric patients 7 to 17 years of age with generalized anxiety disorder (GAD) was established in 1 flexible-dose randomized, double-blind, placebo-controlled trial in pediatric outpatients with GAD (based on DSM-IV criteria).
+In this study, the starting dose was 30 mg once daily for 2 weeks.
+Further dose increases in 30 mg increments up to 120 mg once daily were allowed based on investigator judgment of clinical response and tolerability.
+The mean dose for patients completing the 10-week treatment phase was 57.6 mg/day.
+In this study, duloxetine (N=135) demonstrated superiority over placebo (N=137) from baseline to endpoint as measured by greater improvement in the Pediatric Anxiety Rating Scale (PARS) for GAD severity score (Study 6 in Table 8).
 
 Table 8: Summary of the Primary Efficacy Results for Studies in General Anxiety Disorder
 
 | Study Number | Treatment Group | Primary Efficacy Measure |  |  |
 | --- | --- | --- | --- | --- |
 | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted DifferenceDifference (drug minus placebo) in least squares mean change from baseline. (95% CI) |  |  |
-| Study 1 (HAM-A) | DuloxetineDose statistically significantly superior to placebo. (60 mg/day) | 25.1 (7.18) | -12.8 (0.68) | -4.4 (-6.2, -2.5) |
+| Study 1 (HAM-A) | Duloxetine (60 mg/day)Dose statistically significantly superior to placebo. | 25.1 (7.18) | -12.8 (0.68) | -4.4 (-6.2, -2.5) |
 | Duloxetine (120 mg/day) | 25.1 (7.24) | -12.5 (0.67) | -4.1 (-5.9, -2.3) |  |
 | Placebo | 25.8 (7.66) | -8.4 (0.67) | -- |  |
-| Study 2 (HAM-A) | Duloxetine (60 to 120 mg/day) | 22.5 (7.44) | -8.1 (0.7) | -2.2 (-4.2, -0.3) |
+| Study 2 (HAM-A) | Duloxetine (60 mg/day to 120 mg/day) | 22.5 (7.44) | -8.1 (0.7) | -2.2 (-4.2, -0.3) |
 | Placebo | 23.5 (7.91) | -5.9 (0.7) | -- |  |
-| Study 3 (HAM-A) | Duloxetine (60 to 120 mg/day) | 25.8 (5.66) | -11.8 (0.69) | -2.6 (-4.5, -0.7) |
+| Study 3 (HAM-A) | Duloxetine (60 mg/day to 120 mg/day) | 25.8 (5.66) | -11.8 (0.69) | -2.6 (-4.5, -0.7) |
 | Placebo | 25 (5.82) | -9.2 (0.67) | -- |  |
+| Study 5 (Elderly) (HAM-A) | Duloxetine (60 mg/day to 120 mg/day) | 24.6 (6.21) | -11.7 (0.67) | -4.2 (-5.9, -2.5) |
+| Placebo | 24.5 (7.05) | -9.7 (0.50) | -- |  |
+| Study 6 (Pediatric) (PARS for GAD) | Duloxetine (30 mg/day to 120 mg/day) | 17.5 (1.98) | -9.7 (0.50) | -2.7 (-4, -1.3) |
+|  | Placebo | 17.4 (2.24) | -7.1 (0.50) | -- |
 
 SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: confidence interval, not adjusted for multiplicity in trials where multiple dose groups were included.
-
-Pediatric use information for patients ages 7 to 17 years is approved for Eli Lilly and Company, Inc.'s CYMBALTA® (duloxetine) delayed-release capsules.
-However, due to Eli Lilly and Company, Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 14.3 Diabetic Peripheral Neuropathic Pain
 
@@ -110,7 +113,7 @@ Patients in all studies had no signs of radiculopathy or spinal stenosis.
 Study CLBP-1: Two hundred thirty-six adult patients (N=115 on duloxetine, N=121 on placebo) enrolled and 182 (77%) completed 13-week treatment phase.
 After 7 weeks of treatment, duloxetine patients with less than 30% reduction in average daily pain and who were able to tolerate duloxetine 60 mg once daily had their dose of duloxetine, in a double-blinded fashion, increased to 120 mg once daily for the remainder of the study.
 Patients had a mean baseline pain rating of 6 on a numerical rating scale ranging from 0 (no pain) to 10 (worst possible pain).
-After 13 weeks of treatment, patients taking duloxetine 60 to 120 mg daily had a significantly greater pain reduction compared to placebo.
+After 13 weeks of treatment, patients taking duloxetine 60 mg to 120 mg daily had a significantly greater pain reduction compared to placebo.
 Randomization was stratified by the patients’ baseline NSAIDs-use status.
 Subgroup analyses did not indicate that there were differences in treatment outcomes as a function of NSAIDs use.
 
