@@ -5,8 +5,7 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide a
 Hyponatremia
 
 Inform patients that NOCTIVA can cause hyponatremia, which may be life-threatening.
-Inform patients to moderate fluid intake in the evening and nighttime hours, to monitor for symptoms of hyponatremia (such as headache, nausea or vomiting, restlessness, fatigue, drowsiness, dizziness, muscle cramping, or altered mental status), to undergo recommended serum sodium measurements, to inform their health care provider about new medications, and to stop NOCTIVA during illnesses that can cause fluid or electrolyte imbalance.
-[see Boxed Warning, Dosage and Administration (2.3), Contraindications (4), and Warnings and Precautions (5.1)].
+Inform patients to moderate fluid intake in the evening and nighttime hours, to monitor for symptoms of hyponatremia (such as headache, nausea or vomiting, restlessness, fatigue, drowsiness, dizziness, muscle cramping, or altered mental status), to undergo recommended serum sodium measurements, to inform their health care provider about new medications, and to stop NOCTIVA during illnesses that can cause fluid or electrolyte imbalance [see Boxed Warning, Dosage and Administration (2.3), Contraindications (4), and Warnings and Precautions (5.1)].
 
 Nasal Conditions
 
@@ -22,4 +21,4 @@ Instruct patients not to administer 2 sprays of the 0.83 mcg dose [see Dosage an
 Manufactured for: Avadel Specialty Pharmaceuticals, LLC Chesterfield, MO 63005
 
 Rev.
-10/17
+12/17

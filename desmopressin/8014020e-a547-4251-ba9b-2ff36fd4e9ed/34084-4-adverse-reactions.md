@@ -65,7 +65,7 @@ Table 3: Hyponatremia in 2, Double-Blind, Placebo-Controlled Clinical Trials in 
 | --- | --- | --- | --- |
 | 130-134 | 42 (12.3%) | 33 (9.3%) | 18 (5.2%) |
 | 126-129 | 7 (2.1%) | 8 (2.3%) | 0 |
-| <125 | 5 (1.5%) | 0 | 1 (0.3%) |
+| ≤125 | 5 (1.5%) | 0 | 1 (0.3%) |
 
 Of the 5 patients on NOCTIVA 1.66 mcg with serum sodium ≤125 mmol/L, all were 65 years of age or older.
 Four were men.
@@ -86,4 +86,4 @@ Table 4: Hyponatremia, Based on Age, in 2 Double-Blind, Placebo-Controlled Clini
 | --- | --- | --- | --- | --- | --- | --- |
 | 130-134 | 14 (9.6%) | 28 (14.4%) | 8 (5.4%) | 25 (12.1%) | 7 (4.9%) | 11 (5.4%) |
 | 126-129 | 0 | 7 (3.6%) | 2 (1.4%) | 6 (2.9%) | 0 | 0 |
-| <125 | 0 | 5 (2.6%) | 0 | 0 | 0 | 1 (0.5%) |
+| ≤125 | 0 | 5 (2.6%) | 0 | 0 | 0 | 1 (0.5%) |

@@ -5,7 +5,7 @@
 NOCTIVA can cause hyponatremia [see Boxed Warning and Adverse Reactions (6.1)].
 Severe hyponatremia can be life-threatening if it is not promptly diagnosed and treated, leading to seizures, coma, respiratory arrest, or death.
 
-NOCTIVA is contraindicated in patients at increased risk of severe hyponatremia, such as those with excessive fluid intake, those who have illnesses that can cause fluid or electrolyte imbalances, and in those using loop diuretics or systemic or inhaled glucocorticoids [see Boxed Warning, Contraindications (4), and Clinical Pharmacology (7.1)].
+NOCTIVA is contraindicated in patients at increased risk of severe hyponatremia, such as those with excessive fluid intake, those who have illnesses that can cause fluid or electrolyte imbalances, and in those using loop diuretics or systemic or inhaled glucocorticoids [see Boxed Warning, Contraindications (4), and Drug Interactions (7.1)].
 
 Before starting or resuming NOCTIVA, ensure that the serum sodium concentration is normal.
 Consider the 0.83 mcg dose as the starting dose for patients who may be at risk for hyponatremia [see Dosage and Administration (2.3, 2.2) and Clinical Studies (14)].

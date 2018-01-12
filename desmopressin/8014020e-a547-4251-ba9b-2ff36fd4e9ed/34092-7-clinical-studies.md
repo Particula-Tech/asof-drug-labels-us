@@ -32,7 +32,7 @@ Table 5: Co-Primary Efficacy Endpoints in the Pivotal Trials (Intent-to-Treat Po
 | Percentage of Patients Achieving at Least a 50% Reduction in Nocturic Episodes per Night From Baseline |  |  |  |  |  |  |
 |  | 47% | 35% | 27% | 49% | 41% | 29% |
 | Difference from placebo‡ | 21% | 8% | - | 20% | 12% | - |
-| 95% CI‡ | 12% to 30% | -0.4% to 17% |  | 9% to 31% | 1% to 23% |  |
+| 95% CI‡ | 12% to 30% | -0.4% to 17% | - | 9% to 31% | 1% to 23% | - |
 | *Intent-to-treat population: all randomized patients who received study drug and had at least 3 days of post-randomization efficacy data recorded in their diary. CI: confidence interval †: obtained from ANCOVA model; ‡: obtained from stratified Cochran-Mantel-Haenszel (CMH) analysis. |  |  |  |  |  |  |
 
 Figure 1 shows the percentage of patients in each treatment arm who achieved various reductions from baseline in the mean number of nightly nocturic episodes.
@@ -44,7 +44,7 @@ Figure 1: Percentage of Patients Achieving Various Reductions From Baseline in M
 
 The results for selected secondary efficacy endpoints among patients with nocturia due to nocturnal polyuria are shown in Table 6.
 
-Table 6: Selected Secondary Efficacy Endpoints in the Pivotal Trials (Intent-to-Treat* Population With Nocturia Dueto Nocturnal Polyuria)
+Table 6: Selected Secondary Efficacy Endpoints in the Pivotal Trials (Intent-to-Treat* Population With Nocturia Due to Nocturnal Polyuria)
 
 |  | Trial 1 |  |  | Trial 2 |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -58,10 +58,10 @@ Table 6: Selected Secondary Efficacy Endpoints in the Pivotal Trials (Intent-to-
 | Baseline (mean) | 0% | 0% | 0% | 0% | 0% | 0% |
 | Change from baseline† | 11% | 7% | 5% | 9% | 8% | 4% |
 | Difference from placebo† | 6% | 2% | - | 5% | 4% | - |
-| 95% CI† | 2% to 10% | -1% to 6% | - | 1% to 9% | 0.4% to 8% |  |
+| 95% CI† | 2% to 10% | -1% to 6% | - | 1% to 9% | 0.4% to 8% | - |
 | Change From Baseline in Percentage of Nights With at Most 1 Nocturia Episode |  |  |  |  |  |  |
 | Baseline (mean) | 1% | 1% | 1% | 1% | 2% | 1% |
 | Change from baseline† | 44% | 40% | 34% | 45% | 40% | 30% |
 | Difference from placebo† | 9% | 6% | - | 15% | 10% | - |
-| 95% CI† | 2% to 17% | -1% to 13% | - | 6% to 23% | 1% to 18% |  |
+| 95% CI† | 2% to 17% | -1% to 13% | - | 6% to 23% | 1% to 18% | - |
 | *Intent-to-treat population: all randomized patients who received study drug and had at least 3 days of post-randomization efficacy data recorded in their diary. CI: confidence interval †: obtained from ANCOVA model. |  |  |  |  |  |  |
