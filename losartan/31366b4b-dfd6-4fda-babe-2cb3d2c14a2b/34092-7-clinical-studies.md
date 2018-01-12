@@ -115,7 +115,6 @@ Almost all of the patients (96.6%) had a history of hypertension, and the patien
 The primary endpoint of the study was the time to first occurrence of any one of the following events: doubling of serum creatinine, end-stage renal disease (ESRD) (need for dialysis or transplantation), or death.
 Treatment with losartan potassium resulted in a 16% risk reduction in this endpoint (see Figure 4 and Table 4).
 Treatment with losartan potassium also reduced the occurrence of sustained doubling of serum creatinine by 25% and ESRD by 29% as separate endpoints, but had no effect on overall mortality (see Table 4).
-
 The mean baseline blood pressures were 152/82 mmHg for losartan potassium plus conventional antihypertensive therapy and 153/82 mmHg for placebo plus conventional antihypertensive therapy.
 At the end of the study, the mean blood pressures were 143/76 mmHg for the group treated with losartan potassium and 146/77 mmHg for the group treated with placebo.
 
