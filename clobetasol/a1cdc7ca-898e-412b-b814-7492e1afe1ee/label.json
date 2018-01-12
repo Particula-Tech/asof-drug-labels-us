@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA209483"
+  ],
+  "inn": "clobetasol",
+  "labeler": "Encore Dermatology, Inc",
+  "package_ndcs": [
+    "69482-700-60"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "clobetasol propionate",
+      "name": "Impoyz"
+    }
+  ],
+  "setid": "a1cdc7ca-898e-412b-b814-7492e1afe1ee",
+  "source": "dailymed"
+}
