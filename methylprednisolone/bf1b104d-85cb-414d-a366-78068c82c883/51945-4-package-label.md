@@ -1,8 +1,8 @@
-# PRINCIPAL DISPLAY PANEL - 40 mg/mL Vial Label
+# PRINCIPAL DISPLAY PANEL - 40 mg Vial Label
 
 NDC 0009-3073-22 Rx ONLY
 
-DEPO-MEDROL® Methylprednisolone Acetate Injectable Suspension, USP
+DEPO-MEDROL® MethylPREDNISolone Acetate Injectable Suspension, USP
 
 1 mL Single-Dose Vial
 
@@ -14,11 +14,11 @@ NOT for IV Use
 
 NOVAPLUS®
 
-# PRINCIPAL DISPLAY PANEL - 40 mg/mL Vial Carton
+# PRINCIPAL DISPLAY PANEL - 40 mg Vial Carton
 
 NDC 0009-3073-23 Contains 25 of NDC 0009-3073-22
 
-DEPO-MEDROL® Methylprednisolone Acetate Injectable Suspension, USP
+DEPO-MEDROL® MethylPREDNISolone Acetate Injectable Suspension, USP
 
 40 mg per mL
 
@@ -30,11 +30,11 @@ Rx ONLY
 
 NOVAPLUS®
 
-# PRINCIPAL DISPLAY PANEL - 80 mg/mL Vial Label
+# PRINCIPAL DISPLAY PANEL - 80 mg Vial Label
 
 NDC 0009-3475-22 Rx ONLY
 
-DEPO-MEDROL® Methylprednisolone Acetate Injectable Suspension, USP
+DEPO-MEDROL® MethylPREDNISolone Acetate Injectable Suspension, USP
 
 1 mL Single-Dose Vial
 
@@ -46,11 +46,11 @@ NOT for IV Use
 
 NOVAPLUS®
 
-# PRINCIPAL DISPLAY PANEL - 80 mg/mL Vial Carton
+# PRINCIPAL DISPLAY PANEL - 80 mg Vial Carton
 
 NDC 0009-3475-23 Contains 25 of NDC 0009-3475-22
 
-DEPO-MEDROL® Methylprednisolone Acetate Injectable Suspension, USP
+DEPO-MEDROL® MethylPREDNISolone Acetate Injectable Suspension, USP
 
 80 mg per mL
 
