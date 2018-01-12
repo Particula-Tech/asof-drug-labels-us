@@ -18,9 +18,9 @@ In healthy subjects, the acute cognitive and psychomotor effects of alcohol were
 
 Cardiac Electrophysiology
 
-In a dedicated thorough QTc study, conducted at steady state at supratherapeutic exposures in healthy volunteers (treated with 400 mg/day, twice the maximum recommended daily dose), the upper bound of the 2-sided 90% CI for the time matched Least Square mean difference of QTcF between sertraline and placebo (11.666 msec) was greater than the predefined threshold of 10 msec at the 4-hour postdose time point.
-Exposure-response analysis indicated a slightly positive relationship between QTcF and sertraline plasma concentrations [0.036 msec/(ng/mL); p<0.0001].
-Based on the exposure response model, the threshold for clinically significant prolongation of the QTcF (i.e., for predicted 90% CI to exceed 10 msec) is at least 2.6-fold greater than the average Cmax (86 ng/mL) following the highest recommended dose of sertraline (200 mg/day) [See Warnings and Precautions (5), Adverse Reactions (6), Drug Interactions (7), Overdosage (10)].
+The effect of sertraline on the QTc interval was evaluated in a randomized, double-blind, placebo- and positive-controlled three-period crossover thorough QTc study in 54 healthy adult subjects.
+At 2-fold the maximum recommended daily dose (~3-fold the steady-state exposure for sertraline and N-desmethylsertraline), the largest mean ΔΔQTc was 10 ms with upper bound of two-sided 90% confidence interval of 12 ms. The length of the QTc interval was also positively correlated with serum concentrations of sertraline and N- desmethylsertraline concentrations.
+These concentration-based analyses, however, indicated a lesser effect on QTc at maximally observed concentration than in the primary analysis [See Warnings and Precautions (5), Adverse Reactions (6), Drug Interactions (7), Overdosage (10)].
 
 ## 12.3 Pharmacokinetics
 
@@ -30,7 +30,7 @@ Following oral once-daily ZOLOFT dosing over the range of 50 to 200 mg for 14 da
 The average terminal elimination half-life of plasma sertraline is about 26 hours.
 Consistent with the terminal elimination half-life, there is an approximately two-fold accumulation up to steady-state concentrations, which are achieved after one week of once-daily dosing.
 Linear dose-proportional pharmacokinetics were demonstrated in a single dose study in which the Cmax and area under the plasma concentration time curve (AUC) of sertraline were proportional to dose over a range of 50 to 200 mg.
-The single dose bioavailability of ZOLOFT tablets is approximately equal to an equivalent dose of ZOLOFT oral concentrate and oral solution.
+The single dose bioavailability of ZOLOFT tablets is approximately equal to an equivalent dose of ZOLOFT oral solution.
 Administration with food causes a small increase in Cmax and AUC.
 
 Metabolism
@@ -85,7 +85,7 @@ Pimozide
 
 In a controlled study of a single dose (2 mg) of pimozide, 200 mg ZOLOFT (once daily) co-administration to steady state was associated with a mean increase in pimozide AUC and Cmax of about 40%, but was not associated with any changes in ECG.
 The highest recommended pimozide dose (10 mg) has not been evaluated in combination with ZOLOFT.
-The effect on QT interval and PK parameters at doses higher than 2 mg of pimozide are not known [See Drug Interactions (7.1)].
+The effect on QTc interval and PK parameters at doses higher than 2 mg of pimozide are not known [See Drug Interactions (7.1)].
 
 Drugs Metabolized by CYP2D6
 

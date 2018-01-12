@@ -15,7 +15,7 @@ The background risk of major birth defects and miscarriage for the indicated pop
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2–4% and 15–20%, respectively.
 Advise a pregnant woman of possible risks to the fetus when prescribing ZOLOFT.
 
-ZOLOFT oral concentrate and oral solution contain 12% alcohol and are not recommended during pregnancy because there is no known safe level of alcohol exposure during pregnancy.
+ZOLOFT oral solution contains 12% alcohol and is not recommended during pregnancy because there is no known safe level of alcohol exposure during pregnancy.
 
 Clinical Considerations
 
@@ -104,9 +104,9 @@ A subset of patients who completed the randomized controlled trials in patients 
 Those subjects who completed 34 weeks of ZOLOFT treatment (10 weeks in a placebo-controlled trial + 24 weeks open-label, n=68) had weight gain that was similar to that expected using data from age-adjusted peers.
 However, there are no studies that directly evaluate the long-term effects of ZOLOFT on the growth, development, and maturation in pediatric patients.
 
-Alcohol Content in ZOLOFT Oral Concentrate and Oral Solution
+Alcohol Content in ZOLOFT Oral Solution
 
-ZOLOFT oral concentrate and oral solution contain 12% alcohol.
+ZOLOFT oral solution contains 12% alcohol.
 
 Juvenile Animal Data
 
