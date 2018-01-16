@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA206505"
+  ],
+  "inn": "dapsone",
+  "labeler": "Novitium Pharma LLC",
+  "package_ndcs": [
+    "70954-135-10",
+    "70954-135-20",
+    "70954-136-10",
+    "70954-136-20"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "dapsone",
+      "name": "DAPSONE"
+    }
+  ],
+  "setid": "57a47368-d1f6-4d61-a2ee-c5f1fe7ff690",
+  "source": "dailymed"
+}
