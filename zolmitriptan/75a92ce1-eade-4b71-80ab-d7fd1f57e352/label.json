@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA204232"
+  ],
+  "inn": "zolmitriptan",
+  "labeler": "Alembic Pharmaceuticals Limited",
+  "package_ndcs": [
+    "46708-462-06",
+    "46708-463-03"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "zolmitriptan",
+      "name": "Zolmitriptan"
+    }
+  ],
+  "setid": "75a92ce1-eade-4b71-80ab-d7fd1f57e352",
+  "source": "dailymed"
+}
