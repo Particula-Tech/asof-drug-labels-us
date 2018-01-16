@@ -21,6 +21,7 @@ A statistically significant difference in the percentage of pediatric patients w
 In adult patients who had achieved ≥90% improvement at the end of treatment, 35% of those treated with Tacrolimus Ointment 0.03% and 41% of those treated with Tacrolimus Ointment 0.1%, regressed from this state of improvement at 2 weeks after end-of-treatment.
 In pediatric patients who had achieved ≥90% improvement, 54% of those treated with Tacrolimus Ointment 0.03% regressed from this state of improvement at 2 weeks after end-of-treatment.
 Because patients were not followed for longer than 2 weeks after end-of-treatment, it is not known how many additional patients regressed at periods longer than 2 weeks after cessation of therapy.
+
 In both Tacrolimus Ointment treatment groups in adults and in the Tacrolimus Ointment 0.03% treatment group in pediatric patients, a significantly greater improvement compared to vehicle (p < 0.001) was observed in the secondary efficacy endpoints of percent body surface area involved, patient evaluation of pruritus, erythema, edema, excoriation, oozing, scaling, and lichenification.
 The following two graphs depict the time course of improvement in the percent body surface area affected in adult and in pediatric patients as a result of treatment.
 

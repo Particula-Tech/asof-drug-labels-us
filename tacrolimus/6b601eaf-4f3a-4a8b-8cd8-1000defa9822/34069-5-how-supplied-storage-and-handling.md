@@ -30,19 +30,17 @@ NDC 45802-700-02
 
 Store at room temperature 25°C (77°F); excursions permitted to 15°-30°C (59°-86°F).
 
-Product of Japan
-
 Manufactured by:
 
-Astellas Pharma Tech Co., Ltd.
+LEO® ​
 
-Toyama Technology Center
+​LEO Laboratories Ltd.
 
-2-178 Kojin-machi, Toyama city,
+285 Cashel Road
 
-Toyama 930-0809, Japan
+Dublin, 12, Ireland
 
-Distributed By
+Distributed by:
 
 Perrigo
 
@@ -50,4 +48,4 @@ Allegan, MI 49010
 
 www.perrigo.com
 
-Revised: November, 2016
+Revised: 12/2017

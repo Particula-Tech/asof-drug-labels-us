@@ -1,6 +1,6 @@
 # WARNINGS
 
-| WARNINGLong-term Safety of Topical Calcineurin Inhibitors Has Not Been EstablishedAlthough a causal relationship has not been established, rare cases of malignancy (e.g., skin and lymphoma) have been reported in patients treated with topical calcineurin inhibitors, including Tacrolimus Ointment. Therefore: •Continuous long-term use of topical calcineurin inhibitors, including Tacrolimus Ointment, in any age group should be avoided, and application limited to areas of involvement with atopic dermatitis.•Tacrolimus Ointment is not indicated for use in children less than 2 years of age. Only 0.03% Tacrolimus Ointment is indicated for use in children 2-15 years of age. |
+| WARNINGLong-term Safety of Topical Calcineurin Inhibitors Has Not Been EstablishedAlthough a causal relationship has not been established, rare cases of malignancy (e.g., skin and lymphoma) have been reported in patients treated with topical calcineurin inhibitors, including Tacrolimus Ointment.Therefore: Continuous long-term use of topical calcineurin inhibitors, including Tacrolimus Ointment, in any age group should be avoided, and application limited to areas of involvement with atopic dermatitis.Tacrolimus Ointment is not indicated for use in children less than 2 years of age. Only 0.03% Tacrolimus Ointment is indicated for use in children 2-15 years of age. |
 | --- |
 
 Prolonged systemic use of calcineurin inhibitors for sustained immunosuppression in animal studies and transplant patients following systemic administration has been associated with an increased risk of infections, lymphomas, and skin malignancies.
@@ -10,9 +10,9 @@ Based on the information above and the mechanism of action, there is a concern a
 While a causal relationship has not been established, rare cases of skin malignancy and lymphoma have been reported in patients treated with topical calcineurin inhibitors, including Tacrolimus Ointment.
 Therefore:
 
-- •Tacrolimus Ointment should not be used in immunocompromised adults and children.
-- •If signs and symptoms of atopic dermatitis do not improve within 6 weeks, patients should be re-examined by their healthcare provider and their diagnosis be confirmed (see PRECAUTIONS: General).
-- •The safety of Tacrolimus Ointment has not been established beyond one year of non-continuous use.
+- Tacrolimus Ointment should not be used in immunocompromised adults and children.
+- If signs and symptoms of atopic dermatitis do not improve within 6 weeks, patients should be re-examined by their healthcare provider and their diagnosis be confirmed (see PRECAUTIONS: General).
+- The safety of Tacrolimus Ointment has not been established beyond one year of non-continuous use.
 
 (See CLINICAL PHARMACOLOGY, boxed WARNING, INDICATIONS AND USAGE, and DOSAGE AND ADMINISTRATION).
 
@@ -49,7 +49,7 @@ Patients who develop lymphadenopathy should be monitored to ensure that the lymp
 
 ## Sun Exposure
 
-During the course of treatment, patients should minimize or avoid natural or artificial sunlight exposure, even while Tacrolimus is not on the skin.
+During the course of treatment, patients should minimize or avoid natural or artificial sunlight exposure, even while Tacrolimus Ointment is not on the skin.
 It is not known whether Tacrolimus Ointment interferes with skin response to ultraviolet damage.
 
 ## Immunocompromised Patients
@@ -59,7 +59,7 @@ The safety and efficacy of Tacrolimus Ointment in immunocompromised patients hav
 ## Renal Insufficiency
 
 Rare post-marketing cases of acute renal failure have been reported in patients treated with Tacrolimus Ointment.
-Systemic absorption is more likely to occur in patients with epidermal barrier defects especially when Tacrolimus is applied to large body surface areas.
+Systemic absorption is more likely to occur in patients with epidermal barrier defects especially when Tacrolimus Ointment is applied to large body surface areas.
 Caution should also be exercised in patients predisposed to renal impairment.
 
 ## Information for Patients
@@ -76,14 +76,14 @@ A very small number of people who have used Tacrolimus Ointment have had cancer 
 However, a link with Tacrolimus Ointment has not been shown.
 Because of this concern, instruct patients:
 
-- •Do not use Tacrolimus Ointment continuously for a long time.
-- •Use Tacrolimus Ointment only on areas of skin that have eczema.
-- •Do not use Tacrolimus Ointment on a child under 2 years old.
+- Do not use Tacrolimus Ointment continuously for a long time.
+- Use Tacrolimus Ointment only on areas of skin that have eczema.
+- Do not use Tacrolimus Ointment on a child under 2 years old.
 
 Tacrolimus Ointment comes in two strengths:
 
-- •Only Tacrolimus Ointment 0.03% is for use on children aged 2 to 15 years.
-- •Either Tacrolimus Ointment 0.03% or 0.1% can be used by adults and children 16 years and older.
+- Only Tacrolimus Ointment 0.03% is for use on children aged 2 to 15 years.
+- Either Tacrolimus Ointment 0.03% or 0.1% can be used by adults and children 16 years and older.
 
 Advise patients to talk to their prescriber for more information.
 
@@ -91,29 +91,29 @@ How should Tacrolimus Ointment be used?
 
 Advise patients to:
 
-- •Use Tacrolimus Ointment exactly as prescribed.
-- •Use Tacrolimus Ointment only on areas of skin that have eczema.
-- •Use Tacrolimus Ointment for short periods, and if needed, treatment may be repeated with breaks in between.
-- •Stop Tacrolimus Ointment when the signs and symptoms of eczema, such as itching, rash, and redness go away, or as directed.
-- •Follow their doctor’s advice if symptoms of eczema return after treatment with Tacrolimus Ointment.
-- •Call their doctor if:
-- •Their symptoms get worse with Tacrolimus Ointment.
-- •They get an infection on their skin.
-- •Their symptoms do not improve after 6 weeks of treatment.
+- Use Tacrolimus Ointment exactly as prescribed.
+- Use Tacrolimus Ointment only on areas of skin that have eczema.
+- Use Tacrolimus Ointment for short periods, and if needed, treatment may be repeated with breaks in between.
+- Stop Tacrolimus Ointment when the signs and symptoms of eczema, such as itching, rash, and redness go away, or as directed.
+- Follow their doctor’s advice if symptoms of eczema return after treatment with Tacrolimus Ointment.
+- Call their doctor if:
+- Their symptoms get worse with Tacrolimus Ointment.
+- They get an infection on their skin.
+- Their symptoms do not improve after 6 weeks of treatment.
   Sometimes other skin diseases can look like eczema.
 
 To apply Tacrolimus Ointment:
 
 Advise patients:
 
-- •Wash their hands before applying Tacrolimus.
-- •Apply a thin layer of Tacrolimus Ointment twice daily to the areas of skin affected by eczema.
-- •Use the smallest amount of Tacrolimus Ointment needed to control the signs and symptoms of eczema.
-- •If they are a caregiver applying Tacrolimus Ointment to a patient, or if they are a patient who is not treating their hands, wash their hands with soap and water after applying Tacrolimus.
+- Wash their hands before applying Tacrolimus Ointment.
+- Apply a thin layer of Tacrolimus Ointment twice daily to the areas of skin affected by eczema.
+- Use the smallest amount of Tacrolimus Ointment needed to control the signs and symptoms of eczema.
+- If they are a caregiver applying Tacrolimus Ointment to a patient, or if they are a patient who is not treating their hands, wash their hands with soap and water after applying Tacrolimus Ointment.
   This should remove any ointment left on the hands.
-- •Do not bathe, shower, or swim right after applying Tacrolimus.
+- Do not bathe, shower, or swim right after applying Tacrolimus Ointment.
   This could wash off the ointment.
-- •Moisturizers can be used with Tacrolimus Ointment.
+- Moisturizers can be used with Tacrolimus Ointment.
   Make sure they check with their doctor first about the products that are right for them.
   Because the skin of patients with eczema can be very dry, it is important to keep up good skin care practices.
   If they use moisturizers, apply them after Tacrolimus Ointment.
@@ -122,13 +122,13 @@ What should patients avoid while using Tacrolimus Ointment?
 
 Advise patients:
 
-- •Do not use ultraviolet light therapy, sun lamps, or tanning beds during treatment with Tacrolimus Ointment.
-- •Limit sun exposure during treatment with Tacrolimus Ointment even when the medicine is not on their skin.
+- Do not use ultraviolet light therapy, sun lamps, or tanning beds during treatment with Tacrolimus Ointment.
+- Limit sun exposure during treatment with Tacrolimus Ointment even when the medicine is not on their skin.
   If patients need to be outdoors after applying Tacrolimus Ointment, wear loose fitting clothing that protects the treated area from the sun.
   Doctors should advise what other types of protection from the sun patients should use.
-- •Do not cover the skin being treated with bandages, dressings or wraps.
+- Do not cover the skin being treated with bandages, dressings or wraps.
   Patients can wear normal clothing.
-- •Avoid getting Tacrolimus Ointment in the eyes or mouth.
+- Avoid getting Tacrolimus Ointment in the eyes or mouth.
   Do not swallow Tacrolimus Ointment.
   Patients should call their doctor if they swallow Tacrolimus Ointment.
 
@@ -204,9 +204,9 @@ In the open-label safety studies, the incidence of adverse events, including inf
 In about 4,400 pediatric patients treated with Tacrolimus Ointment, 24 (0.5%) were reported with eczema herpeticum.
 Since the safety and efficacy of Tacrolimus Ointment have not been established in pediatric patients below 2 years of age, its use in this age group is not recommended.
 
-In an open-label study, immune response to a 23-valent pneumococcal polysaccharide vaccine was assessed in 23 children 2 to 12 years old with moderate to severe atopic dermatitis treated with tacrolimus ointment 0.03%.
+In an open-label study, immune response to a 23-valent pneumococcal polysaccharide vaccine was assessed in 23 children 2 to 12 years old with moderate to severe atopic dermatitis treated with Tacrolimus Ointment 0.03%.
 Protective antibody titers developed in all patients.
-Similarly, in a seven-month, double-blind trial, the vaccination response to meningococcal serogroup C was equivalent in children 2 to 11 years old with moderate to severe atopic dermatitis treated with tacrolimus ointment 0.03% (n=121), a hydrocortisone ointment regimen (n=111), or normal children (n=44).
+Similarly, in a seven-month, double-blind trial, the vaccination response to meningococcal serogroup C was equivalent in children 2 to 11 years old with moderate to severe atopic dermatitis treated with Tacrolimus Ointment 0.03% (n=121), a hydrocortisone ointment regimen (n=111), or normal children (n=44).
 
 ## Geriatric Use
 

@@ -142,19 +142,17 @@ Active Ingredient: tacrolimus, either 0.03% or 0.1%
 
 Inactive Ingredients: mineral oil, paraffin, propylene carbonate, white petrolatum and white wax.
 
-Product of Japan
-
 Manufactured by:
 
-Astellas Pharma Tech Co., Ltd.
+LEO® ​
 
-Toyama Technology Center
+​LEO Laboratories Ltd.
 
-2-178 Kojin-machi, Toyama city,
+285 Cashel Road
 
-Toyama 930-0809, Japan
+Dublin, 12, Ireland
 
-Distributed By
+Distributed by:
 
 Perrigo
 
@@ -162,12 +160,6 @@ Allegan, MI 49010
 
 www.perrigo.com
 
-4G400 RC IC1
-
-47793SgA
-
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Issued: November 2016
-
-14C019-PRT-MED
+Revised: 12/2017
