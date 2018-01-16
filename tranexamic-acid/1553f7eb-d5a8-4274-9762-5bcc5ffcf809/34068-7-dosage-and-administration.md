@@ -5,14 +5,13 @@ Following tooth extraction, intraveneous therapy, at a dose of 10 mg per kg body
 
 Note: For patients with moderate to severe impaired renal function, the following dosages are recommended:
 
-| Serum Creatinine (μmol/L) | Tranexamic Acid I.V. Dosage |
+| Serum Creatinine (μmol/L) | Tranexamic Acid Intravenous Dosage |
 | --- | --- |
-| 120 to 250 (1.36 to 2.83 mg/dL) | 10 mg/kg BID |
+| 120 to 250 (1.36 to 2.83 mg/dL) | 10 mg/kg twice daily |
 | 250 to 500 (2.83 to 5.66 mg/dL) | 10 mg/kg daily |
 | >500 (>5.66 mg/dL) | 10 mg/kg every 48 hours or 5 mg/kg every 24 hours |
 
 For intravenous infusion, tranexamic acid injection may be mixed with most solutions for infusion such as electrolyte solutions, carbohydrate solutions, amino acid solutions and Dextran solutions.
-The mixture should be prepared the same day the solution is to be used.
 Heparin may be added to tranexamic acid injection.
 Tranexamic acid injection should NOT be mixed with blood.
 The drug is a synthetic amino acid, and should NOT be mixed with solutions containing penicillin.

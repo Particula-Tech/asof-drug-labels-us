@@ -14,6 +14,8 @@ Tranexamic acid should be discontinued if changes in examination results are fou
 
 Convulsions have been reported in association with tranexamic acid treatment, particularly in patients receiving tranexamic acid during cardiovascular surgery and in patients inadvertently given tranexamic acid into the neuraxial system.
 
+Cases of allergic reaction with use of intravenous tranexamic acid, including anaphylaxis or anaphylactoid reaction have been reported that are suggestive of a causal relationship
+
 # PRECAUTIONS
 
 ## General
