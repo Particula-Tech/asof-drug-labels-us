@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA208507"
+  ],
+  "inn": "methocarbamol",
+  "labeler": "Bayshore Pharmaceuticals LLC",
+  "package_ndcs": [
+    "76385-123-01",
+    "76385-123-50",
+    "76385-124-01",
+    "76385-124-50"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "methocarbamol",
+      "name": "Methocarbamol"
+    }
+  ],
+  "setid": "5777cbb0-b5fd-4b36-ac1d-bc105fe96888",
+  "source": "dailymed"
+}
