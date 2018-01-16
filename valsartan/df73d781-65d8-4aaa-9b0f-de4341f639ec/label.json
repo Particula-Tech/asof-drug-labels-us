@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA209139"
+  ],
+  "inn": "valsartan",
+  "labeler": "Medicure International Inc.",
+  "package_ndcs": [
+    "25208-100-06",
+    "25208-100-07",
+    "25208-100-08"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "prexxartan",
+      "name": "PREXXARTAN"
+    }
+  ],
+  "setid": "df73d781-65d8-4aaa-9b0f-de4341f639ec",
+  "source": "dailymed"
+}
