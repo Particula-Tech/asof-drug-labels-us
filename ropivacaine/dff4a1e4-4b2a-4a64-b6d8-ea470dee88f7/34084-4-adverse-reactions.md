@@ -8,7 +8,7 @@ The studies used a variety of premedications, sedatives, and surgical procedures
 A total of 3,988 patients have been exposed to Naropin at concentrations up to 1% in clinical trials.
 Each patient was counted once for each type of adverse event.
 
-## Incidence ≥5%
+## Incidence ≥ 5%
 
 For the indications of epidural administration in surgery, cesarean section, postoperative pain management, peripheral nerve block, and local infiltration, the following treatment-emergent adverse events were reported with an incidence of ≥5% in all clinical studies (N=3988): hypotension (37%), nausea (24.8%), vomiting (11.6%), bradycardia (9.3%), fever (9.2%), pain (8%), postoperative complications (7.1%), anemia (6.1%), paresthesia (5.6%), headache (5.1%), pruritus (5.1%), and back pain (5%).
 
@@ -32,7 +32,7 @@ Postoperative Pain Management, Peripheral Nerve Block
 
 and Local Infiltration)
 
-| Adverse Reaction | Naropintotal N=1661 |  | Bupivacainetotal N=1433 |  |
+| Adverse Reaction | Naropin total N=1661 |  | Bupivacaine total N=1433 |  |
 | --- | --- | --- | --- | --- |
 | N | (%) | N | (%) |  |
 | Hypotension | 536 | (32.3) | 408 | (28.5) |
@@ -63,7 +63,7 @@ Neonates of Mothers Who Received Regional Anesthesia
 
 (Cesarean Section and Labor Studies)
 
-| Adverse Reaction | Naropintotal N=639 |  | Bupivacainetotal N=573 |  |
+| Adverse Reaction | Naropin total N=639 |  | Bupivacaine total N=573 |  |
 | --- | --- | --- | --- | --- |
 | N | (%) | N | (%) |  |
 | Fetal bradycardia | 77 | (12.1) | 68 | (11.9) |
@@ -80,7 +80,7 @@ Neonates of Mothers Who Received Regional Anesthesia
 
 ## Incidence <1%
 
-The following adverse events were reported during the Naropin clinical program in more than one patient (N=3988), occurred at an overall incidence of <1%, and were considered relevant: Application Site Reactions - injection site pain Cardiovascular System - vasovagal reaction, syncope, postural hypotension, non-specific ECG abnormalities Female Reproductive - poor progression of labor, uterine atony Gastrointestinal System - fecal incontinence, tenesmus, neonatal vomiting General and Other Disorders - hypothermia, malaise, asthenia, accident and/or injury Hearing and Vestibular - tinnitus, hearing abnormalities Heart Rate and Rhythm - extrasystoles, non-specific arrhythmias, atrial fibrillation Liver and Biliary System - jaundice Metabolic Disorders - hypomagnesemia Musculoskeletal System - myalgia Myo/Endo/Pericardium - ST segment changes, myocardial infarction Nervous System - tremor, Horner’s syndrome, paresis, dyskinesia, neuropathy, vertigo, coma, convulsion, hypokinesia, hypotonia, ptosis, stupor Psychiatric Disorders - agitation, confusion, somnolence, nervousness, amnesia, hallucination, emotional lability, insomnia, nightmares Respiratory System - bronchospasm, coughing Skin Disorders - rash, urticaria Urinary System Disorders - urinary incontinence, micturition disorder Vascular - deep vein thrombosis, phlebitis, pulmonary embolism Vision - vision abnormalities For the indication epidural anesthesia for surgery, the 15 most common adverse events were compared between different concentrations of Naropin and bupivacaine.
+The following adverse events were reported during the Naropin clinical program in more than one patient (N=3988), occurred at an overall incidence of <1%, and were considered relevant: Application Site Reactions injection site pain Cardiovascular System -vasovagal reaction, syncope, postural hypotension, non-specific ECG abnormalities Female Reproductive - poor progression of labor, uterine atony Gastrointestinal System - fecal incontinence, tenesmus, neonatal vomiting General and Other Disorders - hypothermia, malaise, asthenia, accident and/or injury Hearing and Vestibular - tinnitus, hearing abnormalities Heart Rate and Rhythm - extrasystoles, non-specific arrhythmias, atrial fibrillation Liver and Biliary System - jaundice Metabolic Disorders - hypomagnesemia Musculoskeletal System - myalgia Myo/Endo/Pericardium - ST segment changes, myocardial infarction Nervous System - tremor, Horner’s syndrome, paresis, dyskinesia, neuropathy, vertigo, coma, convulsion, hypokinesia, hypotonia, ptosis, stupor Psychiatric Disorders - agitation, confusion, somnolence, nervousness, amnesia, hallucination, emotional lability, insomnia, nightmares Respiratory System - bronchospasm, coughing Skin Disorders - rash, urticaria Urinary System Disorders - urinary incontinence, micturition disorder Vascular - deep vein thrombosis, phlebitis, pulmonary embolism Vision - vision abnormalities For the indication epidural anesthesia for surgery, the 15 most common adverse events were compared between different concentrations of Naropin and bupivacaine.
 Table 4 is based on data from trials in the U.S. and other countries where Naropin was administered as an epidural anesthetic for surgery.
 
 Table 4
@@ -89,7 +89,7 @@ Common Events (Epidural Administration)
 
 | Adverse Reaction | Naropin |  |  |  |  |  | Bupivacaine |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 5 mg/mLtotal N=256 |  | 7.5 mg/mLtotal N=297 |  | 10 mg/mLtotal N=207 |  | 5 mg/mLtotal N=236 |  | 7.5 mg/mLtotal N=174 |  |  |
+| 5 mg/mL total N=256 |  | 7.5 mg/mL total N=297 |  | 10 mg/mL total N=207 |  | 5 mg/mL total N=236 |  | 7.5 mg/mL total N=174 |  |  |
 | N | (%) | N | (%) | N | (%) | N | (%) | N | (%) |  |
 | hypotension | 99 | (38.7) | 146 | (49.2) | 113 | (54.6) | 91 | (38.6) | 89 | (51.1) |
 | nausea | 34 | (13.3) | 68 | (22.9) |  |  | 41 | (17.4) | 36 | (20.7) |

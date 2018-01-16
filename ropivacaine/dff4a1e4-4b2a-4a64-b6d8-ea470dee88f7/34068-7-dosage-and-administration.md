@@ -41,12 +41,12 @@ Dosage Recommendations
 | LABOR PAIN MANAGEMENT |  |  |  |  |  |  |
 | Lumbar Epidural Administration |  |  |  |  |  |  |
 | Initial Dose | 2 | (0.2%) | 10 to 20 | 20 to 40 | 10 to 15 | 0.5 to 1.5 |
-| Continuous infusion‡ | 2 | (0.2%) | 6 to 14mL/h | 12 to 28mg/h | n/a* | n/a* |
-| Incrementalinjections (top-up)‡ | 2 | (0.2%) | 10 to 15mL/h | 20 to 30mg/h | n/a* | n/a* |
+| Continuous infusion‡ | 2 | (0.2%) | 6 to 14 mL/h | 12 to 28 mg/h | n/a* | n/a* |
+| Incremental injections (top-up)‡ | 2 | (0.2%) | 10 to 15 mL/h | 20 to 30 mg/h | n/a* | n/a* |
 | POSTOPERATIVE PAIN MANAGEMENT |  |  |  |  |  |  |
 | Lumbar Epidural Administration |  |  |  |  |  |  |
-| Continuous infusion§ | 2 | (0.2%) | 6 to 14mL/h | 12 to 28mg/h | n/a* | n/a* |
-| Thoracic EpiduralAdministration | 2 | (0.2%) | 6 to 14mL/h | 12 to 28mg/h | n/a* | n/a* |
+| Continuous infusion§ | 2 | (0.2%) | 6 to 14 mL/h | 12 to 28 mg/h | n/a* | n/a* |
+| Thoracic Epidural Administration | 2 | (0.2%) | 6 to 14 mL/h | 12 to 28 mg/h | n/a* | n/a* |
 | Continuous infusion§ |  |  |  |  |  |  |
 | Infiltration | 2 | (0.2%) | 1 to 100 | 2 to 200 | 1 to 5 | 2 to 6 |
 | (eg, minor nerve block) | 5 | (0.5%) | 1 to 40 | 5 to 200 | 1 to 5 | 2 to 6 |
@@ -58,7 +58,7 @@ Supraclavicular brachial plexus blocks may be associated with a higher frequency
 
 ‡ = Median dose of 21 mg per hour was administered by continuous infusion or by incremental injections (top-ups) over a median delivery time of 5.5 hours.
 
-§ = Cumulative doses up to 770 mg of Naropin over 24 hours (intraoperative block plus postoperative infusion); Continuous epidural infusion at rates up to 28 mg per hour for 72 hours have been well tolerated in adults, ie, 2016 mg plus surgical dose of approximately 100 to 150 mg as top-up.
+§ = Cumulative doses up to 770 mg of Naropin over 24 hours (intraoperative block plus postoperative infusion); Continuous epidural infusion at rates up to 28 mg per hour for 72 hours have been well tolerated in adults, ie, 2,016 mg plus surgical dose of approximately 100 to 150 mg as top-up.
 
 The doses in the table are those considered to be necessary to produce a successful block and should be regarded as guidelines for use in adults.
 Individual variations in onset and duration occur.

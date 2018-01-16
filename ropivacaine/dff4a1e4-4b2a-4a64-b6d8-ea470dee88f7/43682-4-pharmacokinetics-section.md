@@ -136,7 +136,7 @@ META-ANALYSIS: MODE OF DELIVERY
 | Forceps | 28 |  | 42 |  |
 | Cesarean Section | 29 | 15 | 21 | 11 |
 
-* p=0.004 versus bupivacaine
+*p=0.004 versus bupivacaine
 
 Epidural Administration In Postoperative Pain Management There were 8 clinical studies performed in 382 patients to evaluate Naropin 2 mg/mL (0.2%) for postoperative pain management after upper and lower abdominal surgery and after orthopedic surgery.
 The studies utilized intravascular morphine via PCA as a rescue medication and quantified as an efficacy variable.
