@@ -1,6 +1,6 @@
 Rx only
 
-# MANAGEMENT OF LOCAL ANESTHETIC EMERGENCIES
+# MANAGEMENT OF LOCAL ANESTHETIC EMERGENCIES:
 
 Therapy with Naropin should be discontinued at the first sign of toxicity.
 No specific information is available for the treatment of toxicity with Naropin; therefore, treatment should be symptomatic and supportive.
@@ -24,13 +24,13 @@ These doses were associated with peak arterial total plasma concentrations of 11
 In human volunteers given intravenous Naropin, the mean (min-max) maximum tolerated total and free arterial plasma concentrations were 4.3 (3.4 to 5.3) and 0.6 (0.3 to 0.9) mcg/mL respectively, at which time moderate CNS symptoms (muscle twitching) were noted.
 
 Clinical data from patients experiencing local anesthetic induced convulsions demonstrated rapid development of hypoxia, hypercarbia and acidosis within a minute of the onset of convulsions.
-These observations suggest that oxygen consumption and carbon dioxide production are greatly increased during local anesthetic convulsions and emphasize the importance of immediate and effective ventilation with oxygen, which may avoid cardiac arrest.
+These observations suggest that oxygen consumption and carbon dioxide production are greatly increased during local anesthetic convulsions and emphasize the importance of immediate and effective ventilation with oxygen which may avoid cardiac arrest.
 
 If difficulty is encountered in the maintenance of a patent airway or if prolonged ventilatory support (assisted or controlled) is indicated, endotracheal intubation, employing drugs and techniques familiar to the clinician, may be indicated after initial administration of oxygen by mask.
 
 The supine position is dangerous in pregnant women at term because of aortocaval compression by the gravid uterus.
 Therefore, during treatment of systemic toxicity, maternal hypotension or fetal bradycardia following regional block, the parturient should be maintained in the left lateral decubitus position if possible, or manual displacement of the uterus off the great vessels should be accomplished.
-Resuscitation of obstetrical patients may take longer than resuscitation of nonpregnant patients and closed-chest cardiac compression may be ineffective.
+Resuscitation of obstetrical patients may take longer than resuscitation of non-pregnant patients and closed-chest cardiac compression may be ineffective.
 Rapid delivery of the fetus may improve the response to resuscitative efforts.
 
-January 2015
+Lake Zurich, IL 60047 www.fresenius-kabi.us Revised: May 2017

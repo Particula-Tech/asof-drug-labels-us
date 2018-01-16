@@ -1,4 +1,4 @@
-# WARNINGS
+# WARNINGS:
 
 In performing Naropin blocks, unintended intravenous injection is possible and may result in cardiac arrhythmia or cardiac arrest.
 The potential for successful resuscitation has not been studied in humans.
@@ -12,7 +12,7 @@ Historically, pregnant patients were reported to have a high risk for cardiac ar
 
 Prior to receiving major blocks the general condition of the patient should be optimized and the patient should have an IV line inserted.
 All necessary precautions should be taken to avoid intravascular injection.
-Local anesthetics should only be administered by clinicians who are well versed in the diagnosis and management of dose-related toxicity and other acute emergencies that may arise from the block to be employed, and then only after ensuring the immediate (without delay) availability of oxygen, other resuscitative drugs, cardiopulmonary resuscitative equipment, and the personnel resources needed for proper management of toxic reactions and related emergencies (see also ADVERSE REACTIONS, PRECAUTIONS and MANAGEMENT OF LOCAL ANESTHETIC EMERGENCIES).
+Local anesthetics should only be administered by clinicians who are well versed in the diagnosis and management of dose-related toxicity and other acute emergencies which might arise from the block to be employed, and then only after insuring the immediate (without delay) availability of oxygen, other resuscitative drugs, cardiopulmonary resuscitative equipment, and the personnel resources needed for proper management of toxic reactions and related emergencies (see also ADVERSE REACTIONS, PRECAUTIONS and MANAGEMENT OF LOCAL ANESTHETIC EMERGENCIES).
 Delay in proper management of dose-related toxicity, underventilation from any cause, and/or altered sensitivity may lead to the development of acidosis, cardiac arrest and, possibly, death.
 Solutions of Naropin should not be used for the production of obstetrical paracervical block anesthesia, retrobulbar block, or spinal anesthesia (subarachnoid block) due to insufficient data to support such use.
 Intravenous regional anesthesia (bier block) should not be performed due to a lack of clinical experience and the risk of attaining toxic blood levels of ropivacaine.
@@ -36,7 +36,7 @@ Naropin should be used with caution in patients receiving other local anesthetic
 
 Patients treated with class III antiarrhythmic drugs (eg, amiodarone) should be under close surveillance and ECG monitoring considered, since cardiac effects may be additive.
 
-# PRECAUTIONS
+# PRECAUTIONS:
 
 ## General
 
@@ -139,7 +139,7 @@ Reproduction toxicity studies have been performed in pregnant New Zealand white 
 During gestation days 6 to 18, rabbits received 1.3, 4.2, or 13 mg/kg/day subcutaneously.
 In rats, subcutaneous doses of 5.3, 11 and 26 mg/kg/day were administered during gestation days 6 to 15.
 No teratogenic effects were observed in rats and rabbits at the highest doses tested.
-The highest doses of 13 mg/kg/day (rabbits) and 26 mg/kg/day (rats) are approximately 1/3 of the maximum recommended human dose (epidural, 770 mg/24 hours) based on a mg/m 2 basis.
+The highest doses of 13 mg/kg/day (rabbits) and 26 mg/kg/day (rats) are approximately 1/3 of the maximum recommended human dose (epidural, 770 mg/24 hours) based on a mg/m2 basis.
 In 2 prenatal and postnatal studies, the female rats were dosed daily from day 15 of gestation to day 20 postpartum.
 The doses were 5.3, 11 and 26 mg/kg/day subcutaneously.
 There were no treatment-related effects on late fetal development, parturition, lactation, neonatal viability, or growth of the offspring.

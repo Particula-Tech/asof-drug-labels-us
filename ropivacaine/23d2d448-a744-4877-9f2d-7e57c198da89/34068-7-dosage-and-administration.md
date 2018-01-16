@@ -1,4 +1,4 @@
-# DOSAGE AND ADMINISTRATION
+# DOSAGE AND ADMINISTRATION:
 
 The rapid injection of a large volume of local anesthetic solution should be avoided and fractional (incremental) doses should always be used.
 The smallest dose and concentration required to produce the desired result should be administered.
@@ -10,7 +10,7 @@ The dose of any local anesthetic administered varies with the anesthetic procedu
 Patients in poor general condition due to aging or other compromising factors such as partial or complete heart conduction block, advanced liver disease or severe renal dysfunction require special attention although regional anesthesia is frequently indicated in these patients.
 To reduce the risk of potentially serious adverse reactions, attempts should be made to optimize the patient's condition before major blocks are performed, and the dosage should be adjusted accordingly.
 
-Use an adequate test dose (3 to 5 mL of a short-acting local anesthetic solution containing epinephrine) prior to induction of complete block.
+Use an adequate test dose (3 to 5 mL of a short acting local anesthetic solution containing epinephrine) prior to induction of complete block.
 This test dose should be repeated if the patient is moved in such a fashion as to have displaced the epidural catheter.
 Allow adequate time for onset of anesthesia following administration of each test dose.
 
@@ -32,20 +32,20 @@ Table 7 Dosage Recommendations
 | Thoracic Epidural | 5 | (0.5%) | 5 to 15 | 25 to 75 | 10 to 20 | n/a* |
 | Administration | 7.5 | (0.75%) | 5 to 15 | 38 to 113 | 10 to 20 | n/a* |
 | Surgery |  |  |  |  |  |  |
-| Major Nerve Block † | 5 | (0.5%) | 35 to 50 | 175 to 250 | 15 to 30 | 5 to 8 |
+| Major Nerve Block† | 5 | (0.5%) | 35 to 50 | 175 to 250 | 15 to 30 | 5 to 8 |
 | (eg, brachial plexus block) | 7.5 | (0.75%) | 10 to 40 | 75 to 300 | 10 to 25 | 6 to 10 |
 | Field Block | 5 | (0.5%) | 1 to 40 | 5 to 200 | 1 to 15 | 2 to 6 |
 | (eg, minor nerve blocks and infiltration) |  |  |  |  |  |  |
 | LABOR PAIN MANAGEMENT |  |  |  |  |  |  |
 | Lumbar Epidural Administration |  |  |  |  |  |  |
 | Initial Dose | 2 | (0.2%) | 10 to 20 | 20 to 40 | 10 to 15 | 0.5 to 1.5 |
-| Continuous infusion ‡ | 2 | (0.2%) | 6 to 14 mL/h | 12 to 28 mg/h | n/a* | n/a* |
-| Incremental injections (top-up) ‡ | 2 | (0.2%) | 10 to 15 mL/h | 20 to 30 mg/h | n/a* | n/a* |
+| Continuous infusion‡ | 2 | (0.2%) | 6 to 14 mL/h | 12 to 28 mg/h | n/a* | n/a* |
+| Incremental injections (top-up)‡ | 2 | (0.2%) | 10 to 15 mL/h | 20 to 30 mg/h | n/a* | n/a* |
 | POSTOPERATIVE PAIN MANAGEMENT |  |  |  |  |  |  |
 | Lumbar Epidural Administration |  |  |  |  |  |  |
-| Continuous infusion § | 2 | (0.2%) | 6 to 14 mL/h | 12 to 28 mg/h | n/a* | n/a* |
+| Continuous infusion§ | 2 | (0.2%) | 6 to 14 mL/h | 12 to 28 mg/h | n/a* | n/a* |
 | Thoracic Epidural Administration | 2 | (0.2%) | 6 to 14 mL/h | 12 to 28 mg/h | n/a* | n/a* |
-| Continuous infusion § |  |  |  |  |  |  |
+| Continuous infusion§ |  |  |  |  |  |  |
 | Infiltration | 2 | (0.2%) | 1 to 100 | 2 to 200 | 1 to 5 | 2 to 6 |
 | (eg, minor nerve block) | 5 | (0.5%) | 1 to 40 | 5 to 200 | 1 to 5 | 2 to 6 |
 
@@ -56,7 +56,7 @@ Supraclavicular brachial plexus blocks may be associated with a higher frequency
 
 ‡ = Median dose of 21 mg per hour was administered by continuous infusion or by incremental injections (top-ups) over a median delivery time of 5.5 hours.
 
-§ = Cumulative doses up to 770 mg of Naropin over 24 hours (intraoperative block plus postoperative infusion); Continuous epidural infusion at rates up to 28 mg per hour for 72 hours have been well tolerated in adults, ie, 2016 mg plus surgical dose of approximately 100 to 150 mg as top-up.
+§ = Cumulative doses up to 770 mg of Naropin over 24 hours (intraoperative block plus postoperative infusion); Continuous epidural infusion at rates up to 28 mg per hour for 72 hours have been well tolerated in adults, ie, 2,016 mg plus surgical dose of approximately 100 to 150 mg as top-up.
 
 The doses in the table are those considered to be necessary to produce a successful block and should be regarded as guidelines for use in adults.
 Individual variations in onset and duration occur.
@@ -64,8 +64,8 @@ The figures reflect the expected average dose range needed.
 For other local anesthetic techniques standard current textbooks should be consulted.
 
 When prolonged blocks are used, either through continuous infusion or through repeated bolus administration, the risks of reaching a toxic plasma concentration or inducing local neural injury must be considered.
-Experience to date indicates that a cumulative dose of up to 770 mg Naropin administered over 24 hours is well tolerated in adults when used for postoperative pain management: ie, 2016 mg.
-Caution should be exercised when administering Naropin for prolonged periods of time, eg, > 70 hours in debilitated patients.
+Experience to date indicates that a cumulative dose of up to 770 mg Naropin administered over 24 hours is well tolerated in adults when used for postoperative pain management: ie, 2,016 mg.
+Caution should be exercised when administering Naropin for prolonged periods of time, eg, >70 hours in debilitated patients.
 
 For treatment of postoperative pain, the following technique can be recommended: If regional anesthesia was not used intraoperatively, then an initial epidural block with 5 to 7 mL Naropin is induced via an epidural catheter.
 Analgesia is maintained with an infusion of Naropin, 2 mg/mL (0.2%).

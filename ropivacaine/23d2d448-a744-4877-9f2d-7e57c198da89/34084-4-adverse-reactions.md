@@ -1,4 +1,4 @@
-# ADVERSE REACTIONS
+# ADVERSE REACTIONS:
 
 Reactions to ropivacaine are characteristic of those associated with other amide-type local anesthetics.
 A major cause of adverse reactions to this group of drugs may be associated with excessive plasma levels, which may be due to overdosage, unintentional intravascular injection or slow metabolic degradation.
@@ -8,10 +8,7 @@ The reference drug was usually bupivacaine.
 The studies used a variety of premedications, sedatives, and surgical procedures of varying length.
 A total of 3,988 patients have been exposed to Naropin at concentrations up to 1% in clinical trials.
 Each patient was counted once for each type of adverse event.
-
-## Incidence ≥ 5%
-
-For the indications of epidural administration in surgery, cesarean section, postoperative pain management, peripheral nerve block, and local infiltration, the following treatment-emergent adverse events were reported with an incidence of ≥5% in all clinical studies (N=3988): hypotension (37%), nausea (24.8%), vomiting (11.6%), bradycardia (9.3%), fever (9.2%), pain (8%), postoperative complications (7.1%), anemia (6.1%), paresthesia (5.6%), headache (5.1%), pruritus (5.1%), and back pain (5%).
+Incidence ≥ 5% For the indications of epidural administration in surgery, cesarean section, postoperative pain management, peripheral nerve block, and local infiltration, the following treatment-emergent adverse events were reported with an incidence of ≥5% in all clinical studies (N=3988): hypotension (37%), nausea (24.8%), vomiting (11.6%), bradycardia (9.3%), fever (9.2%), pain (8%), postoperative complications (7.1%), anemia (6.1%), paresthesia (5.6%), headache (5.1%), pruritus (5.1%), and back pain (5%).
 
 ## Incidence 1 to 5%
 
@@ -19,11 +16,11 @@ Urinary retention, dizziness, rigors, hypertension, tachycardia, anxiety, oligur
 
 ## Incidence in Controlled Clinical Trials
 
-The reported adverse events are derived from controlled clinical studies with Naropin (concentrations ranged from 0.125% to 1% for Naropin and 0.25% to 0.75% for bupivacaine) in the U.S. and other countries involving 3094 patients.
+The reported adverse events are derived from controlled clinical studies with Naropin (concentrations ranged from 0.125% to 1% for Naropin and 0.25% to 0.75% for bupivacaine) in the U.S. and other countries involving 3,094 patients.
 Table 3A and 3B list adverse events (number and percentage) that occurred in at least 1% of Naropin-treated patients in these studies.
 The majority of patients receiving concentrations higher than 5 mg/mL (0.5%) were treated with Naropin.
 
-Table 3A Adverse Events Reported in ≥ 1% of Adult Patients Receiving Regional or Local Anesthesia (Surgery, Labor, Cesarean Section, Postoperative Pain Management, Peripheral Nerve Block and Local Infiltration)
+Table 3A Adverse Events Reported in ≥1% of Adult Patients Receiving Regional or Local Anesthesia (Surgery, Labor, Cesarean Section, Postoperative Pain Management, Peripheral Nerve Block and Local Infiltration)
 
 | Adverse Reaction | Naropin total N=1661 |  | Bupivacaine total N=1433 |  |
 | --- | --- | --- | --- | --- |
@@ -48,7 +45,7 @@ Table 3A Adverse Events Reported in ≥ 1% of Adult Patients Receiving Regional 
 | Breast disorder, breast-feeding | 21 | (1.3) | 12 | (0.8) |
 | Rhinitis | 18 | (1.1) | 13 | (0.9) |
 
-Table 3B Adverse Events Reported in ≥ 1% of Fetuses or Neonates of Mothers Who Received Regional Anesthesia (Cesarean Section and Labor Studies)
+Table 3B Adverse Events Reported in ≥1% of Fetuses or Neonates of Mothers Who Received Regional Anesthesia (Cesarean Section and Labor Studies)
 
 | Adverse Reaction | Naropin total N=639 |  | Bupivacaine total N=573 |  |
 | --- | --- | --- | --- | --- |
@@ -65,7 +62,7 @@ Table 3B Adverse Events Reported in ≥ 1% of Fetuses or Neonates of Mothers Who
 | Neonatal infection | 10 | (1.6) | 8 | (1.4) |
 | Neonatal hypoglycemia | 8 | (1.3) | 16 | (2.8) |
 
-## Incidence < 1%
+## Incidence <1%
 
 The following adverse events were reported during the Naropin clinical program in more than one patient (N=3988), occurred at an overall incidence of <1%, and were considered relevant:
 

@@ -1,4 +1,4 @@
-# INDICATIONS AND USAGE
+# INDICATIONS AND USAGE:
 
 Naropin is indicated for the production of local or regional anesthesia for surgery and for acute pain management.
 
