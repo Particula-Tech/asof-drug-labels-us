@@ -46,7 +46,7 @@ Patients who develop lymphadenopathy should be monitored to ensure that the lymp
 
 ## Sun Exposure
 
-During the course of treatment, patients should minimize or avoid natural or artificial sunlight exposure, even while PROTOPIC is not on the skin.
+During the course of treatment, patients should minimize or avoid natural or artificial sunlight exposure, even while PROTOPIC Ointment is not on the skin.
 It is not known whether PROTOPIC Ointment interferes with skin response to ultraviolet damage.
 
 ## Immunocompromised Patients
@@ -56,7 +56,7 @@ The safety and efficacy of PROTOPIC Ointment in immunocompromised patients have 
 ## Renal Insufficiency
 
 Rare post-marketing cases of acute renal failure have been reported in patients treated with PROTOPIC Ointment.
-Systemic absorption is more likely to occur in patients with epidermal barrier defects especially when PROTOPIC is applied to large body surface areas.
+Systemic absorption is more likely to occur in patients with epidermal barrier defects especially when PROTOPIC Ointment is applied to large body surface areas.
 Caution should also be exercised in patients predisposed to renal impairment.
 
 ## Information for Patients
@@ -103,12 +103,12 @@ To apply PROTOPIC Ointment:
 
 Advise patients:
 
-- Wash their hands before applying PROTOPIC.
+- Wash their hands before applying PROTOPIC Ointment.
 - Apply a thin layer of PROTOPIC Ointment twice daily to the areas of skin affected by eczema.
 - Use the smallest amount of PROTOPIC Ointment needed to control the signs and symptoms of eczema.
-- If they are a caregiver applying PROTOPIC Ointment to a patient, or if they are a patient who is not treating their hands, wash their hands with soap and water after applying PROTOPIC.
+- If they are a caregiver applying PROTOPIC Ointment to a patient, or if they are a patient who is not treating their hands, wash their hands with soap and water after applying PROTOPIC Ointment.
   This should remove any ointment left on the hands.
-- Do not bathe, shower, or swim right after applying PROTOPIC.
+- Do not bathe, shower, or swim right after applying PROTOPIC Ointment.
   This could wash off the ointment.
 - Moisturizers can be used with PROTOPIC Ointment.
   Make sure they check with their doctor first about the products that are right for them.
@@ -201,9 +201,9 @@ In the open-label safety studies, the incidence of adverse events, including inf
 In about 4,400 pediatric patients treated with PROTOPIC Ointment, 24 (0.5%) were reported with eczema herpeticum.
 Since the safety and efficacy of PROTOPIC Ointment have not been established in pediatric patients below 2 years of age, its use in this age group is not recommended.
 
-In an open-label study, immune response to a 23-valent pneumococcal polysaccharide vaccine was assessed in 23 children 2 to 12 years old with moderate to severe atopic dermatitis treated with tacrolimus ointment 0.03%.
+In an open-label study, immune response to a 23-valent pneumococcal polysaccharide vaccine was assessed in 23 children 2 to 12 years old with moderate to severe atopic dermatitis treated with Protopic Ointment 0.03%.
 Protective antibody titers developed in all patients.
-Similarly, in a seven-month, double-blind trial, the vaccination response to meningococcal serogroup C was equivalent in children 2 to 11 years old with moderate to severe atopic dermatitis treated with tacrolimus ointment 0.03% (n=121), a hydrocortisone ointment regimen (n=111), or normal children (n=44).
+Similarly, in a seven-month, double-blind trial, the vaccination response to meningococcal serogroup C was equivalent in children 2 to 11 years old with moderate to severe atopic dermatitis treated with Protopic Ointment 0.03% (n=121), a hydrocortisone ointment regimen (n=111), or normal children (n=44).
 
 ## Geriatric Use
 

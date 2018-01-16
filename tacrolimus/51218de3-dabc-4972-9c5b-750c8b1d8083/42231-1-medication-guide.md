@@ -119,7 +119,7 @@ These are not all the side effects with PROTOPIC Ointment.
 Ask your doctor or pharmacist for more information.
 
 Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088
+You may report side effects to FDA at: 1-800-FDA-1088
 
 How should I store PROTOPIC Ointment?
 
@@ -140,7 +140,7 @@ This Medication Guide summarizes the most important information about PROTOPIC O
 If you would like more information, talk with your doctor.
 
 Your doctor or pharmacist can give you information about PROTOPIC Ointment that is written for health care professionals.
-For more information, you can call 1-877-494-4536.
+For more information, you can call: 1-877-494-4536.
 
 What are the ingredients in PROTOPIC Ointment?
 
@@ -148,14 +148,22 @@ Active Ingredient: tacrolimus, either 0.03% or 0.1%
 
 Inactive Ingredients: mineral oil, paraffin, propylene carbonate, white petrolatum and white wax.
 
-Product of Japan
+LEO® ​
 
 Manufactured by:
 
-Astellas Pharma Tech Co., Ltd. Toyama Technology Center, 2-178 Kojin-machi, Toyama city, Toyama 930-0809, Japan
+LEO Laboratories Ltd.
 
-Distributed by: LEO Pharma Inc. Seven Giralda Farms, Madison, NJ 07940, USA
+285 Cashel Road
+
+Dublin, 12, Ireland
+
+Distributed by:
+
+LEO Pharma Inc.
+
+Seven Giralda Farms, Madison, NJ 07940, USA
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration
 
-Revised: November 2016
+Revised: 12/2017
