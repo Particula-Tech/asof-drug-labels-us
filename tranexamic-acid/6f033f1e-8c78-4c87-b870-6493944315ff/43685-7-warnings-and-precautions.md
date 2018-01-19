@@ -14,12 +14,13 @@ Tranexamic acid should be discontinued if changes in examination results are fou
 
 Convulsions have been reported in association with tranexamic acid treatment, particularly in patients receiving tranexamic acid during cardiovascular surgery and in patients inadvertently given tranexamic acid into the neuraxial system.
 
+Cases of allergic reaction with use of intravenous tranexamic acid, including anaphylaxis or anaphylactoid reaction have been reported that are suggestive of a causal relationship.
+
 # PRECAUTIONS
 
 ## General
 
-The dose of tranexamic acid injection should be reduced in patients with renal insufficiency because of the risk of accumulation.
-(See DOSAGE AND ADMINISTRATION.)
+The dose of tranexamic acid injection should be reduced in patients with renal insufficiency because of the risk of accumulation (see DOSAGE AND ADMINISTRATION).
 
 Ureteral obstruction due to clot formation in patients with upper urinary tract bleeding has been reported in patients treated with tranexamic acid injection.
 
@@ -50,7 +51,7 @@ No mutagenic activity has been demonstrated in several in vitro and in vivo test
 
 There are no clinical data to assess the effects of tranexamic acid on fertility.
 
-## Pregnancy (Category B)
+## Pregnancy
 
 Reproduction studies performed in mice, rats, and rabbits have not revealed any evidence of impaired fertility or adverse effects on the fetus due to tranexamic acid.
 

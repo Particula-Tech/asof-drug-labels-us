@@ -13,4 +13,4 @@ Manufactured for: Mylan Institutional LLC Rockford, IL 61103 U.S.A.
 
 Manufactured by: Mylan Institutional Galway, Ireland
 
-Revised: 6/2017 MI:TREXIJ:R5 0998L100
+Revised: 12/2017 MI:TREXIJ:R6 0998L101
