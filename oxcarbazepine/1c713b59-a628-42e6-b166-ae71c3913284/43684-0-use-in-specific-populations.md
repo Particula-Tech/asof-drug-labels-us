@@ -10,7 +10,7 @@ Pregnancy Category C
 
 Fetal Risk Summary
 
-There are no adequate and well-controlled clinical studies of oxcarbazepine in pregnant women; however, Oxcarbazepine is closely related structurally to carbamazepine, which is considered to be teratogenic in humans.
+There are no adequate and well-controlled clinical studies of oxcarbazepine in pregnant women; however, oxcarbazepine is closely related structurally to carbamazepine, which is considered to be teratogenic in humans.
 Data on a limited number of pregnancies from pregnancy registries suggest congenital malformations associated with oxcarbazepine monotherapy use (e.g., craniofacial defects such as oral clefts and cardiac malformations such as ventricular septal defects).
 Oxcarbazepine should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 

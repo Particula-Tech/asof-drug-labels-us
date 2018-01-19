@@ -74,11 +74,11 @@ Table 2 shows absolute and relative risk by indication for all evaluated AEDs.
 
 Table 2: Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
 
-| Indication | Placebo Patients with Events Per 1,000 Patients | Drug Patients with Events Per 1,000 Patients | Relative Risk: Incidence of Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events Per 1,000 Patients |
+| Indication | Placebo Patients with Events Per 1,000 Patients | Drug Patients with Events Per 1,000 Patients | Relative Risk: Incidenceof Events in Drug Patients/Incidence inPlacebo Patients | Risk Difference: Additional Drug Patients with Events Per 1,000 Patients |
 | --- | --- | --- | --- | --- |
-| Epilepsy | 1.0 | 3.4 | 3.5 | 2.4 |
+| Epilepsy | 1 | 3.4 | 3.5 | 2.4 |
 | Psychiatric | 5.7 | 8.5 | 1.5 | 2.9 |
-| Other | 1.0 | 1.8 | 1.9 | 0.9 |
+| Other | 1 | 1.8 | 1.9 | 0.9 |
 | Total | 2.4 | 4.3 | 1.8 | 1.9 |
 
 The relative risk for suicidal thoughts or behavior was higher in clinical trials for epilepsy than in clinical trials for psychiatric or other conditions, but the absolute risk differences were similar for the epilepsy and psychiatric indications.
@@ -92,7 +92,7 @@ Behaviors of concern should be reported immediately to healthcare providers.
 
 ## 5.6 Withdrawal of AEDs
 
-As with most antiepileptic drugs, Oxcarbazepine should generally be withdrawn gradually because of the risk of increased seizure frequency and status epilepticus [see Dosage and Administration (2.4) and Clinical Studies (14)].
+As with most antiepileptic drugs, oxcarbazepine should generally be withdrawn gradually because of the risk of increased seizure frequency and status epilepticus [see Dosage and Administration (2.4) and Clinical Studies (14)].
 But if withdrawal is needed because of a serious adverse event, rapid discontinuation can be considered.
 
 ## 5.7 Cognitive/Neuropsychiatric Adverse Reactions
@@ -104,7 +104,7 @@ Patients should be monitored for these signs and symptoms and advised not to dri
 
 Adult Patients
 
-In one large, fixed-dose study, Oxcarbazepine was added to existing AED therapy (up to three concomitant AEDs).
+In one large, fixed-dose study, oxcarbazepine was added to existing AED therapy (up to three concomitant AEDs).
 By protocol, the dosage of the concomitant AEDs could not be reduced as oxcarbazepine was added, reduction in oxcarbazepine dosage was not allowed if intolerance developed, and patients were discontinued if unable to tolerate their highest target maintenance doses.
 In this trial, 65% of patients were discontinued because they could not tolerate the 2400 mg/day dose of oxcarbazepine on top of existing AEDs.
 The adverse events seen in this study were primarily CNS related and the risk for discontinuation was dose related.
@@ -128,9 +128,9 @@ By protocol, the dosage of concomitant AEDs could not be reduced as oxcarbazepin
 Oxcarbazepine was titrated to reach a target dose ranging from 30 mg/kg to 46 mg/kg (based on a patient's body weight with fixed doses for predefined weight ranges).
 
 Cognitive adverse events occurred in 5.8% of oxcarbazepine-treated patients (the single most common event being concentration impairment, 4 of 138 patients) and in 3.1% of patients treated with placebo.
-In addition, 34.8% of oxcarbazepine-treated patients and 14.0% of placebo-treated patients experienced somnolence.
+In addition, 34.8% of oxcarbazepine-treated patients and 14% of placebo-treated patients experienced somnolence.
 (No patient discontinued due to a cognitive adverse reaction or somnolence.).
-Finally, 23.2% of oxcarbazepine-treated patients and 7.0% of placebo-treated patients experienced ataxia or gait disturbances.
+Finally, 23.2% of oxcarbazepine-treated patients and 7% of placebo-treated patients experienced ataxia or gait disturbances.
 Two (1.4%) oxcarbazepine-treated patients and 1 (0.8%) placebo-treated patient discontinued due to ataxia or gait disturbances.
 
 ## 5.8 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multi-Organ Hypersensitivity

@@ -5,7 +5,8 @@
 Initiate oxcarbazepine tablets with a dose of 600 mg/day, given twice-a-day.
 If clinically indicated, the dose may be increased by a maximum of 600 mg/day at approximately weekly intervals; the maximum recommended daily dose is 1200 mg/day.
 Daily doses above 1200 mg/day show somewhat greater effectiveness in controlled trials, but most patients were not able to tolerate the 2400 mg/day dose, primarily because of CNS effects.
-It is recommended that the patient be observed closely and plasma levels of the concomitant AEDs be monitored during the period of oxcarbazepine tablets titration, as these plasma levels may be altered, especially at oxcarbazepine tablets doses greater than 1200 mg/day [see Drug Interactions (7.1)].
+
+Dosage adjustment is recommended with concomitant use of strong CYP3A4 enzyme inducers or UGT inducers, which include certain antiepileptic drugs (AEDs) [see Drug Interactions (7.1, 7.2)].
 
 ## 2.2 Conversion to Monotherapy for Adults
 
@@ -26,11 +27,9 @@ Controlled trials in these patients examined the effectiveness of a 1200 mg/day 
 In pediatric patients aged 4 to 16 years, initiate oxcarbazepine tablets at a daily dose of 8 to 10 mg/kg generally not to exceed 600 mg/day, given twice-a-day.
 The target maintenance dose of oxcarbazepine tablets should be achieved over 2 weeks, and is dependent upon patient weight, according to the following chart:
 
-20 to 29 kg – 900 mg/day
-
-29.1 to 39 kg – 1200 mg/day
-
->39 kg – 1800 mg/day
+1. 20 to 29 kg – 900 mg/day
+2. 29.1 to 39 kg – 1200 mg/day
+3. >39 kg – 1800 mg/day
 
 In the clinical trial, in which the intention was to reach these target doses, the median daily dose was 31 mg/kg with a range of 6 to 51 mg/kg.
 
@@ -41,6 +40,8 @@ The maximum maintenance dose of oxcarbazepine tablets should be achieved over 2 
 In the clinical trial in pediatric patients (2 to 4 years of age) in which the intention was to reach the target dose of 60 mg/kg/day, 50% of patients reached a final dose of at least 55 mg/kg/day.
 
 Under adjunctive therapy (with and without enzyme-inducing AEDs), when normalized by body weight, apparent clearance (L/hr/kg) decreased when age increased such that children 2 to <4 years of age may require up to twice the oxcarbazepine dose per body weight compared to adults; and children 4 to ≤12 years of age may require a 50% higher oxcarbazepine dose per body weight compared to adults.
+
+Dosage adjustment is recommended with concomitant use of strong CYP3A4 enzyme inducers or UGT inducers, which include certain antiepileptic drugs (AEDs) [see Drug Interactions (7.1, 7.2)].
 
 ## 2.5 Conversion to Monotherapy for Pediatric Patients (Aged 4 to 16 Years)
 
@@ -81,4 +82,4 @@ In patients with impaired renal function (creatinine clearance <30 mL/min) initi
 
 Oxcarbazepine tablets can be taken with or without food [see Clinical Pharmacology (12.3)].
 
-Oxcarbazepine oral suspension and oxcarbazepine tablets may be interchanged at equal doses.
+Oxcarbazepine oral suspension and oxcarbazepine film-coated tablets may be interchanged at equal doses.

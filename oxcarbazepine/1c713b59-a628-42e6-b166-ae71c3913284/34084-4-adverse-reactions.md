@@ -22,7 +22,7 @@ Adjunctive Therapy/Monotherapy in Adults Previously Treated with Other AEDs
 The most common (≥10% more than placebo for adjunctive or low dose for monotherapy) adverse reactions with oxcarbazepine: dizziness, somnolence, diplopia, fatigue, nausea, vomiting, ataxia, abnormal vision, headache, nystagmus tremor, and abnormal gait.
 
 Approximately 23% of these 1,537 adult patients discontinued treatment because of an adverse reaction.
-The adverse reactions most commonly associated with discontinuation were: dizziness (6.4%), diplopia (5.9%), ataxia (5.2%), vomiting (5.1%), nausea (4.9%), somnolence (3.8%), headache (2.9%), fatigue (2.1%), abnormal vision (2.1%), tremor (1.8%), abnormal gait (1.7%), rash (1.4%), hyponatremia (1.0%).
+The adverse reactions most commonly associated with discontinuation were: dizziness (6.4%), diplopia (5.9%), ataxia (5.2%), vomiting (5.1%), nausea (4.9%), somnolence (3.8%), headache (2.9%), fatigue (2.1%), abnormal vision (2.1%), tremor (1.8%), abnormal gait (1.7%), rash (1.4%), hyponatremia (1%).
 
 Monotherapy in Adults Not Previously Treated with Other AEDs
 
@@ -36,7 +36,7 @@ Adjunctive Therapy/Monotherapy in Pediatric Patients 4 Years Old and Above Previ
 The most common (≥5%) adverse reactions with oxcarbazepine in these patients were similar to those seen in adults.
 
 Approximately 11% of these 456 pediatric patients discontinued treatment because of an adverse reaction.
-The adverse reactions most commonly associated with discontinuation were: somnolence (2.4%), vomiting (2.0%), ataxia (1.8%), diplopia (1.3%), dizziness (1.3%), fatigue (1.1%), nystagmus (1.1%).
+The adverse reactions most commonly associated with discontinuation were: somnolence (2.4%), vomiting (2%), ataxia (1.8%), diplopia (1.3%), dizziness (1.3%), fatigue (1.1%), nystagmus (1.1%).
 
 Monotherapy in Pediatric Patients 4 Years Old and Above Not Previously Treated with Other AEDs
 
@@ -216,7 +216,7 @@ Table 5: Adverse Reactions in a Controlled Clinical Study of Monotherapy with Ox
 
 Controlled Clinical Studies of Adjunctive Therapy/Monotherapy in Pediatric Patients Previously Treated with Other AEDs
 
-Caption: Table 6 lists adverse reactions that occurred in at least 2% of pediatric patients with epilepsy treated with oxcarbazepine or placebo as adjunctive treatment and were numerically more common in the patients treated with oxcarbazepine.
+Table 6 lists adverse reactions that occurred in at least 2% of pediatric patients with epilepsy treated with oxcarbazepine or placebo as adjunctive treatment and were numerically more common in the patients treated with oxcarbazepine.
 
 Table 6: Adverse Reactions in Controlled Clinical Studies of Adjunctive Therapy/Monotherapy with Oxcarbazepine in Pediatric Patients Previously Treated with Other AEDs
 
@@ -314,7 +314,7 @@ Metabolism and Nutrition Disorders: hypothyroidism and syndrome of inappropriate
 
 Skin and Subcutaneous Tissue Disorders: erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis [see Warnings and Precautions (5.4)], Acute Generalized Exanthematous Pustulosis (AGEP)
 
-Musculoskeletal, connective tissue and bone disorders: There have been reports of decreased bone mineral density, osteoporosis and fractures in patients on long-term therapy with Oxcarbazepine.
+Musculoskeletal, connective tissue and bone disorders: There have been reports of decreased bone mineral density, osteoporosis and fractures in patients on long-term therapy with oxcarbazepine.
 
 Injury, Poisoning, and Procedural Complications: fall
 

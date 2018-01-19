@@ -32,12 +32,12 @@ Your healthcare provider may do blood tests to check your sodium levels during y
 Oxcarbazepine tablets may also cause allergic reactions or serious problems which may affect organs and other parts of your body like the liver or blood cells.
 You may or may not have a rash with these types of reactions.
 
-Call your healthcare provider right away if you have any of the following:
+1. Call your healthcare provider right away if you have any of the following:
 
-| •swelling of your face, eyes, lips, or tongue•trouble swallowing or breathing•a skin rash •hives•fever, swollen glands, or sore throat that do not go away or come and go | •painful sores in the mouth or around your eyes•yellowing of your skin or eyes•unusual brusing or bleeding•severe fatigue or weakness•severe muscle pain•frequent infections or infections that do not go away |
+| •swelling of your face, eyes, lips, or tongue•trouble swallowing or breathing•a skin rash •hives•fever, swollen glands, or sore throat that do not go away or come and go | •painful sores in the mouth or around your eyes•yellowing of your skin or eyes•unusual bruising or bleeding•severe fatigue or weakness•severe muscle pain•frequent infections or infections that do not go away |
 | --- | --- |
 
-Many people who are allergic to carbamazepine are also allergic to oxcarbazepine.
+Many people who are allergic to carbamazepine are also allergic to oxcarbazepine tablets.
 Tell your healthcare provider if you are allergic to carbamazepine.
 
 3.
@@ -86,7 +86,7 @@ Oxcarbazepine tablets are a prescription medicine used:
 - •alone to treat partial seizures in children 4 years and older
 - •with other medicines to treat partial seizures in children 2 years and older
 
-It is not known if oxcarbazepine tablets is safe and effective for use alone to treat partial seizures in children less than 4 years of age or for use with other medicines to treat partial seizures in children less than 2 years of age.
+It is not known if oxcarbazepine tablets are safe and effective for use alone to treat partial seizures in children less than 4 years of age or for use with other medicines to treat partial seizures in children less than 2 years of age.
 
 Do not take oxcarbazepine tablets if you are allergic to oxcarbazepine tablets or any of the other ingredients in oxcarbazepine tablets, or to eslicarbazepine acetate.
 See the end of this Medication Guide for a complete list of ingredients in oxcarbazepine tablets.
@@ -100,7 +100,7 @@ Before taking oxcarbazepine tablets, tell your healthcare provider about all you
 - •have liver problems
 - •have kidney problems
 - •are allergic to carbamazepine.
-  Many people who are allergic to carbamazepine are also allergic to oxcarbazepine.
+  Many people who are allergic to carbamazepine are also allergic to oxcarbazepine tablets.
 - •use birth control medicine.
   Oxcarbazepine tablets may cause your birth control medicine to be less effective.
   Talk to your healthcare provider about the best birth control method to use.
@@ -112,7 +112,7 @@ Before taking oxcarbazepine tablets, tell your healthcare provider about all you
   The purpose of this registry is to collect information about the safety of antiepileptic medicine during pregnancy.
   You can enroll in this registry by calling 1-888-233-2334.
 - •are breastfeeding or plan to breastfeed.
-  Oxcarbazepine tablets passes into breast milk.
+  Oxcarbazepine passes into breast milk.
   You and your healthcare provider should decide if you will take oxcarbazepine tablets or breastfeed.
   You should not do both.
 
@@ -138,9 +138,8 @@ What should I avoid while taking oxcarbazepine tablets?
 
 - •Do not drive or operate machinery until you know how oxcarbazepine tablets affects you.
   Oxcarbazepine tablets may slow your thinking and motor skills.
-
-Do not drink alcohol or take other drugs that make you sleepy or dizzy while taking oxcarbazepine tablets until you talk to your healthcare provider.
-Oxcarbazepine tablets taken with alcohol or drugs that cause sleepiness or dizziness may make your sleepiness or dizziness worse.
+- •Do not drink alcohol or take other drugs that make you sleepy or dizzy while taking oxcarbazepine tablets until you talk to your healthcare provider.
+  Oxcarbazepine tablets taken with alcohol or drugs that cause sleepiness or dizziness may make your sleepiness or dizziness worse.
 
 What are the possible side effects of oxcarbazepine tablets?
 
@@ -170,8 +169,8 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store oxcarbazepine tablets?
 
-- •Store oxcarbazepine tablets at room temperature between 15°C to 30°C (59°F to 86°F)
-- •Keep oxcarbazepine tablets dry.
+- •Store oxcarbazepine film-coated tablets at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F).
+- •Keep oxcarbazepine film-coated tablets dry.
 
 Keep oxcarbazepine tablets and all medicines out of the reach of children.
 
@@ -188,9 +187,9 @@ What are the ingredients in oxcarbazepine tablets?
 
 Active ingredient: oxcarbazepine
 
-Inactive ingredients: colloidal silicon dioxide, crospovidone, ferric oxide (yellow), hypromellose, magnesium stearate, meglumine, microcrystalline cellulose, polyethylene glycol and titanium dioxide.
+Inactive ingredients:
 
-This Medication Guide has been approved by the U.S. Food and Drug Administration
+- •Film-coated tablets: colloidal silicon dioxide, crospovidone, ferric oxide (yellow), hypromellose, magnesium stearate, meglumine, microcrystalline cellulose, polyethylene glycol, and titanium dioxide.
 
 Manufactured by:
 
@@ -209,4 +208,6 @@ Questions?
 
 www.glenmarkpharma.com/usa
 
-May 2017
+January 2018
+
+This Medication Guide has been approved by the U.S. Food and Drug Administration

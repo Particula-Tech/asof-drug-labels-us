@@ -78,7 +78,7 @@ Table 8: Summary of Percentage Change in Partial Seizure Frequency from Baseline
 |  |  | N | Baseline Median Seizure Rate* | Median % Reduction |
 | 1 (pediatrics) | Oxcarbazepine | 136 | 12.5 | 34.81 |
 |  | Placebo | 128 | 13.1 | 9.4 |
-| 2 (adults) | Oxcarbazepine 2400 mg/day | 174 | 10.0 | 49.91 |
+| 2 (adults) | Oxcarbazepine 2400 mg/day | 174 | 10 | 49.91 |
 |  | Oxcarbazepine 1200 mg/day | 177 | 9.8 | 40.21 |
 |  | Oxcarbazepine 600 mg/day | 168 | 9.6 | 26.41 |
 |  | Placebo | 173 | 8.6 | 7.6 |

@@ -3,7 +3,7 @@
 ## 12.1 Mechanism of Action
 
 The pharmacological activity of oxcarbazepine is primarily exerted through the 10-monohydroxy metabolite (MHD) of oxcarbazepine [see Clinical Pharmacology (12.3)].
-The precise mechanism by which oxcarbazepine and MHD exert their antiseizure effect is unknown; however, in vitro electrophysiological studies indicate that they produce blockade of voltage-sensitive sodium channels, resulting in stabilization of hyperexcited neural membranes, inhibition of repetitive neuronal firing, and diminution of propagation of synaptic impulses.
+The precise mechanism by which oxcarbazepine and MHD exert their anti-seizure effect is unknown; however, in vitro electrophysiological studies indicate that they produce blockade of voltage-sensitive sodium channels, resulting in stabilization of hyperexcited neural membranes, inhibition of repetitive neuronal firing, and diminution of propagation of synaptic impulses.
 These actions are thought to be important in the prevention of seizure spread in the intact brain.
 In addition, increased potassium conductance and modulation of high-voltage activated calcium channels may contribute to the anticonvulsant effects of the drug.
 No significant interactions of oxcarbazepine or MHD with brain neurotransmitter or modulator receptor sites have been demonstrated.
@@ -118,6 +118,41 @@ For in vivo drug interactions [see Drug Interactions (7)].
 Hormonal Contraceptives
 
 Coadministration of oxcarbazepine with an oral contraceptive has been shown to influence the plasma concentrations of the two hormonal components, ethinylestradiol (EE) and levonorgestrel (LNG).
+The mean AUC values of EE were decreased by 48% [90% CI: 22 to 65] in one study and 52% [90% CI: 38 to 52] in another study.
+The mean AUC values of LNG were decreased by 32% [90% CI: 20 to 45] in one study and 52% [90% CI: 42 to 52] in another study.
+
+Other Drug Interactions
+
+Calcium Antagonists: After repeated coadministration of oxcarbazepine, the AUC of felodipine was lowered by 28% [90% CI: 20 to 33].
+Verapamil produced a decrease of 20% [90% CI: 18 to 27] of the plasma levels of MHD.
+
+Cimetidine, erythromycin and dextropropoxyphene had no effect on the pharmacokinetics of MHD.
+Results with warfarin show no evidence of interaction with either single or repeated doses of oxcarbazepine.
+
+Other Antiepileptic Drugs
+
+Potential interactions between oxcarbazepine and other AEDs were assessed in clinical studies.
+The effect of these interactions on mean AUCs and Cmin are summarized in Table 7 [see Drug Interactions (7.1, 7.2)].
+
+Table 7: Summary of AED Interactions with Oxcarbazepine
+
+| AED Coadministered | Dose of AED (mg/day) | Oxcarbazepine Dose (mg/day) | Influence of Oxcarbazepine on AED Concentration (Mean Change, 90% Confidence Interval) | Influence of AED on MHD Concentration (Mean Change, 90% Confidence Interval) |
+| --- | --- | --- | --- | --- |
+| Carbamazepine | 400 to 2000 | 900 | nc1 | 40% decrease[CI: 17% decrease,57% decrease] |
+| Phenobarbital | 100 to 150 | 600 to 1800 | 14% increase[CI: 2% increase, 24% increase] | 25% decrease[CI: 12% decrease,51% decrease] |
+| Phenytoin | 250 to 500 | 600 to 1800>1200 to 2400 | nc1,2up to 40% increase3 [CI: 12% increase,60% increase] | 30% decrease[CI: 3% decrease,48% decrease] |
+| Valproic acid | 400 to 2800 | 600 to 1800 | nc1 | 18% decrease[CI: 13% decrease,40% decrease] |
+| Lamotrigine | 200 | 1200 | nc1 | nc1 |
+
+1nc denotes a mean change of less than 10%
+
+2Pediatrics
+
+3Mean increase in adults at high oxcarbazepine doses
+
+Hormonal Contraceptives
+
+Coadministration of oxcarbazepine with an oral contraceptive has been shown to influence the plasma concentrations of the two hormonal components, ethinylestradiol (EE) and levonorgestrel (LNG) [see Drug Interactions (7.3)].
 The mean AUC values of EE were decreased by 48% [90% CI: 22 to 65] in one study and 52% [90% CI: 38 to 52] in another study.
 The mean AUC values of LNG were decreased by 32% [90% CI: 20 to 45] in one study and 52% [90% CI: 42 to 52] in another study.
 
