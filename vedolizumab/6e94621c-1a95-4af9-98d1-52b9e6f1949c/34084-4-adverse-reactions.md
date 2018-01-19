@@ -16,7 +16,7 @@ The data described below reflect exposure to ENTYVIO in 3,326 patients and healt
 The safety data described in Table 1 are derived from four controlled Phase 3 trials (UC Trials I and II, and CD Trials I and III); data from patients receiving open-label ENTYVIO treatment at Weeks 0 and 2 (prior to entry into UC Trial II and CD Trial III) and from Weeks 6 to 52 (non-responders at Week 6 of UC Trial I and CD Trial I) are included [see Clinical Studies (14.1 and 14.2)].
 
 In these trials, 1,434 patients received ENTYVIO 300 mg for up to 52 weeks, and 297 patients received placebo for up to 52 weeks.
-Of these, 769 patients had ulcerative colitis and 962 patients had Crohn’s disease.
+Of these, 769 patients had ulcerative colitis and 962 patients had Crohn's disease.
 Patients were exposed for a mean duration of 259 days (UC Trials I and II) and 247 days (CD Trials I and III).
 
 Adverse reactions were reported in 52% of patients treated with ENTYVIO and 45% of patients treated with placebo (UC Trials I and II: 49% with ENTYVIO and 37% with placebo; CD Trials I and III: 55% with ENTYVIO and 47% with placebo).
@@ -44,12 +44,12 @@ The most common adverse reactions (reported by ≥3% of patients treated with EN
 | Oropharyngeal pain | 3% | 1% |
 | Pain in extremities | 3% | 1% |
 
-Safety data for patients (n=279) in UC Trials I and II and CD Trials I and III who received ENTYVIO at Weeks 0 and 2 and were then randomized to placebo at Week 6 for up to 52 weeks, and for patients (n=416) in CD Trial II, a 10 week Crohn’s disease trial, are similar to those listed in Table 1.
+Safety data for patients (n=279) in UC Trials I and II and CD Trials I and III who received ENTYVIO at Weeks 0 and 2 and were then randomized to placebo at Week 6 for up to 52 weeks, and for patients (n=416) in CD Trial II, a 10 week Crohn's disease trial, are similar to those listed in Table 1.
 
 Infusion-Related Reactions and Hypersensitivity Reactions
 
 Serious infusion-related reactions and hypersensitivity reactions including anaphylaxis have been reported following ENTYVIO administration in clinical trials [see Warnings and Precautions (5.1)].
-In UC Trials I and II and Crohn’s Trials I and III, one case of anaphylaxis [one out of 1434 patients treated with ENTYVIO (0.07%)] was reported by a Crohn’s disease patient during the second infusion (symptoms reported were dyspnea, bronchospasm, urticaria, flushing, rash and increased blood pressure and heart rate) and was managed with discontinuation of infusion and treatment with antihistamine and intravenous hydrocortisone.
+In UC Trials I and II and Crohn's Trials I and III, one case of anaphylaxis [one out of 1434 patients treated with ENTYVIO (0.07%)] was reported by a Crohn's disease patient during the second infusion (symptoms reported were dyspnea, bronchospasm, urticaria, flushing, rash and increased blood pressure and heart rate) and was managed with discontinuation of infusion and treatment with antihistamine and intravenous hydrocortisone.
 
 In UC Trials I and II and CD Trials I and III, 4% of patients treated with ENTYVIO and 3% of patients treated with placebo experienced an infusion-related reaction (IRR).
 The most frequently observed IRR in the patients treated with ENTYVIO (reported more than twice) were nausea, headache, pruritus, dizziness, fatigue, infusion-related reaction, pyrexia, urticaria and vomiting (each of these adverse reactions occurred in <1% in all patients treated with ENTYVIO) and no individual adverse reaction reported occurred at a rate above 1%.
@@ -65,15 +65,15 @@ The infections consisted primarily of nasopharyngitis, upper respiratory tract i
 Two percent of patients discontinued ENTYVIO due to infections.
 
 In UC Trials I and II and CD Trials I and III, the rate of serious infections was 0.07 per patient-year in patients treated with ENTYVIO and 0.06 per patient-year in patients treated with placebo.
-Serious infections were more common in Crohn’s disease patients than ulcerative colitis patients, and anal abscesses were the most frequently reported serious adverse reaction in Crohn’s disease patients.
+Serious infections were more common in Crohn's disease patients than ulcerative colitis patients, and anal abscesses were the most frequently reported serious adverse reaction in Crohn's disease patients.
 Over 48 months, there was no increase in the rate of serious infections.
 
 In controlled- and open-label long-term extension trials in adults treated with ENTYVIO, serious infections have been reported, including anal abscess, sepsis (some fatal), tuberculosis, salmonella sepsis, Listeria meningitis, giardiasis and cytomegaloviral colitis.
 
 In UC Trials I and II and CD Trials I and III, sepsis, including bacterial sepsis and septic shock, was reported in four of 1434 (0.3%) patients treated with ENTYVIO and in two of 297 patients treated with placebo (0.7%).
-During these trials, two Crohn’s disease patients treated with ENTYVIO died due to reported sepsis or septic shock; both of these patients had significant comorbidities and a complicated hospital course that contributed to the deaths.
+During these trials, two Crohn's disease patients treated with ENTYVIO died due to reported sepsis or septic shock; both of these patients had significant comorbidities and a complicated hospital course that contributed to the deaths.
 In an open label long-term extension trial, additional cases of sepsis (some fatal), including bacterial sepsis and septic shock, were reported.
-The rate of sepsis in patients with ulcerative colitis or Crohn’s disease receiving ENTYVIO was two per 1000 patient-years.
+The rate of sepsis in patients with ulcerative colitis or Crohn's disease receiving ENTYVIO was two per 1000 patient-years.
 
 In clinical trials, all patients were screened for tuberculosis.
 One case of latent, pulmonary tuberculosis was diagnosed during the controlled trials with ENTYVIO.

@@ -1,6 +1,6 @@
 Medication Guide
 
-ENTYVIO (en ti’ vee oh)
+ENTYVIO (en ti' vee oh)
 
 (vedolizumab)
 
@@ -25,7 +25,7 @@ ENTYVIO may cause serious side effects, including:
   Liver problems can happen in people who receive ENTYVIO.
   Tell your healthcare provider right away if you have any of the following symptoms: tiredness, loss of appetite, pain on the right side of your stomach (abdomen), dark urine, or yellowing of the skin and eyes (jaundice).
 
-See “What are the possible side effects of ENTYVIO?” for more information about side effects.
+See "What are the possible side effects of ENTYVIO?" for more information about side effects.
 
 What is ENTYVIO?
 
@@ -36,9 +36,9 @@ ENTYVIO is a prescription medicine used in adults:
   - oin people who respond to ENTYVIO, to help get UC under control (induce remission) and keep UC under control (maintain remission)
   - ofor people who respond to ENTYVIO, you may be able to reduce or stop the use of corticosteroid medicines
   - oto improve the way the lining of your large intestine looks to your healthcare provider during colonoscopy
-- •with moderate to severe active Crohn’s disease when certain other Crohn’s disease medicines have not worked well enough or cannot be tolerated:
+- •with moderate to severe active Crohn's disease when certain other Crohn's disease medicines have not worked well enough or cannot be tolerated:
   - oto begin helping some of your symptoms
-  - oin people who respond to ENTYVIO, to help get Crohn’s disease under control (achieve remission)
+  - oin people who respond to ENTYVIO, to help get Crohn's disease under control (achieve remission)
   - ofor people who respond to ENTYVIO, you may be able to reduce or stop the use of corticosteroid medicines
 
 It is not known if ENTYVIO is safe and effective in children under 18 years of age.
@@ -50,7 +50,7 @@ See the end of this Medication Guide for a complete list of ingredients in ENTYV
 
 Before receiving ENTYVIO, tell your healthcare provider about all of your medical conditions, including if you:
 
-- •have an infection, think you may have an infection or have infections that keep coming back (see “What is the most important information I should know about ENTYVIO?”).
+- •have an infection, think you may have an infection or have infections that keep coming back (see "What is the most important information I should know about ENTYVIO?").
 - •have liver problems
 - •have tuberculosis (TB) or have been in close contact with someone with TB.
 - •have recently received or are scheduled to receive a vaccine.
@@ -72,7 +72,7 @@ How will I receive ENTYVIO?
 
 What are the possible side effects of ENTYVIO?
 
-ENTYVIO may cause serious side effects, See “What is the most important information I should know about ENTYVIO?”
+ENTYVIO may cause serious side effects, See "What is the most important information I should know about ENTYVIO?"
 
 The most common side effects of ENTYVIO include: common cold, headache, joint pain, nausea, fever, infections of the nose and throat, tiredness, cough, bronchitis, flu, back pain, rash, itching, sinus infection, throat pain, and pain in extremities.
 

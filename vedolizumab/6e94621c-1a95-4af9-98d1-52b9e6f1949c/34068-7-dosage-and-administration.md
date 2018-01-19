@@ -15,7 +15,7 @@ Observe patients during infusion and until the infusion is complete.
 
 Prior to initiating treatment with ENTYVIO, all patients should be brought up to date with all immunizations according to current immunization guidelines.
 
-## 2.3 Dosage in Adults with Ulcerative Colitis or Crohn’s Disease
+## 2.3 Dosage in Adults with Ulcerative Colitis or Crohn's Disease
 
 The recommended dosage of ENTYVIO in adults with ulcerative colitis or Crohn's disease is 300 mg administered by intravenous infusion at zero, two and six weeks and then every eight weeks thereafter.
 

@@ -65,9 +65,9 @@ The every four week dosing regimen is not the recommended dosing regimen [see Do
 | Clinical remission at both Weeks 6 and 52 | 9% | 21% | 0.008 | 12%(3%, 21%) |
 | Corticosteroid-free clinical remissionCorticosteroid-free clinical remission: Assessed in the subgroup of patients who were receiving corticosteroids at baseline and who were in clinical response at Week 6 (n=72 for placebo and n=70 for ENTYVIO every eight weeks). Corticosteroid-free clinical remission was defined as the proportion of patients in this subgroup that discontinued corticosteroids by Week 52 and were in clinical remission at Week 52. | 14% | 31% | 0.012 | 18%(4%, 31%) |
 
-## 14.2 Clinical Studies in Crohn’s Disease
+## 14.2 Clinical Studies in Crohn's Disease
 
-The safety and efficacy of ENTYVIO were evaluated in three randomized, double-blind, placebo-controlled clinical trials (CD Trials I, II, and III) in adult patients with moderately to severely active Crohn’s disease (CD) (Crohn’s Disease Activity Index [CDAI] score of 220 to 450).1
+The safety and efficacy of ENTYVIO were evaluated in three randomized, double-blind, placebo-controlled clinical trials (CD Trials I, II, and III) in adult patients with moderately to severely active Crohn's disease (CD) (Crohn's Disease Activity Index [CDAI] score of 220 to 450).1
 
 Enrolled patients in the United States (US) had over the previous five-year period an inadequate response or intolerance to immunomodulator therapy (i.e., azathioprine, 6-mercaptopurine, or methotrexate) and/or an inadequate response, loss of response, or intolerance to one or more TNF blockers.
 Outside the US, prior treatment with corticosteroids was sufficient for entry if over the previous five-year period the patients were corticosteroid dependent (i.e., unable to successfully taper corticosteroids without a return of the symptoms of CD) or had an inadequate response or intolerance to corticosteroids.

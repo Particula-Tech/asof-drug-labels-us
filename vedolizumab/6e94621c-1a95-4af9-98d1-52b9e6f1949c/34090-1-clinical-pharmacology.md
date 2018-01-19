@@ -7,13 +7,13 @@ Vedolizumab does not bind to or inhibit function of the α4β1 and αEβ7 integr
 
 The α4β7 integrin is expressed on the surface of a discrete subset of memory T-lymphocytes that preferentially migrate into the gastrointestinal tract.
 MAdCAM-1 is mainly expressed on gut endothelial cells and plays a critical role in the homing of T-lymphocytes to gut lymph tissue.
-The interaction of the α4β7 integrin with MAdCAM-1 has been implicated as an important contributor to the chronic inflammation that is a hallmark of ulcerative colitis and Crohn’s disease.
+The interaction of the α4β7 integrin with MAdCAM-1 has been implicated as an important contributor to the chronic inflammation that is a hallmark of ulcerative colitis and Crohn's disease.
 
 ## 12.2 Pharmacodynamics
 
 In clinical trials with ENTYVIO at doses ranging from 0.2 to 10 mg/kg (which includes doses outside of the recommended dose), saturation of α4β7 receptors on subsets of circulating lymphocytes involved in gut-immune surveillance was observed.
 
-In clinical trials with ENTYVIO at doses ranging from 0.2 to 10 mg/kg and 180 to 750 mg (which include doses outside of the recommended dose) in healthy subjects and in patients with ulcerative colitis or Crohn’s disease, vedolizumab did not elevate neutrophils, basophils, eosinophils, B-helper and cytotoxic T-lymphocytes, total memory helper T-lymphocytes, monocytes or natural killer cells.
+In clinical trials with ENTYVIO at doses ranging from 0.2 to 10 mg/kg and 180 to 750 mg (which include doses outside of the recommended dose) in healthy subjects and in patients with ulcerative colitis or Crohn's disease, vedolizumab did not elevate neutrophils, basophils, eosinophils, B-helper and cytotoxic T-lymphocytes, total memory helper T-lymphocytes, monocytes or natural killer cells.
 
 A reduction in gastrointestinal inflammation was observed in rectal biopsy specimens from Phase 2 ulcerative colitis patients exposed to ENTYVIO for four or six weeks compared to placebo control as assessed by histopathology.
 
@@ -21,14 +21,14 @@ In a study of 14 healthy subjects, ENTYVIO did not affect the CD4+ lymphocyte ce
 
 ## 12.3 Pharmacokinetics
 
-Similar pharmacokinetics were observed in ulcerative colitis and Crohn’s disease patients administered 300 mg ENTYVIO as a 30 minute intravenous infusion on Weeks 0 and 2, followed by 300 mg ENTYVIO every eight weeks starting from Week 6 (Table 2).
+Similar pharmacokinetics were observed in ulcerative colitis and Crohn's disease patients administered 300 mg ENTYVIO as a 30 minute intravenous infusion on Weeks 0 and 2, followed by 300 mg ENTYVIO every eight weeks starting from Week 6 (Table 2).
 
-| Table 2. Mean ± SD Vedolizumab Concentrations in PatientsData from patients in UC Trials I and II and CD Trials I and III with pharmacokinetic data available; data from patients with anti-vedolizumab antibody were excluded. with Ulcerative Colitis and Crohn’s Disease |  |  |
+| Table 2. Mean ± SD Vedolizumab Concentrations in PatientsData from patients in UC Trials I and II and CD Trials I and III with pharmacokinetic data available; data from patients with anti-vedolizumab antibody were excluded. with Ulcerative Colitis and Crohn's Disease |  |  |
 | --- | --- | --- |
 | Patient Population | Weeks 0 to 6 | Weeks 6 to 52ENTYVIO Every 8 Weeks |
 | Trough Serum Concentration at Week 6 (mcg/mL) | Trough Serum Concentrationat Week 46Steady-state trough serum concentration. (mcg/mL) |  |
 | Ulcerative Colitis | 26.3 ± 12.9(N=210) | 11.2 ± 7.2(N=77) |
-| Crohn’s Disease | 27.4 ± 19.2(N=198) | 13.0 ± 9.1(N=72) |
+| Crohn's Disease | 27.4 ± 19.2(N=198) | 13.0 ± 9.1(N=72) |
 
 The presence of persistent anti-vedolizumab antibody was observed to substantially reduce serum concentrations of vedolizumab, either to undetectable or negligible levels at Weeks 6 and 52 (n=8).
 
