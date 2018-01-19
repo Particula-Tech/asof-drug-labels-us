@@ -7,16 +7,16 @@ Treatment for periods longer than two weeks is not recommended.
 
 For use as an adjunct in the management of hepatic coma, the recommended dose is 4 to 12 grams per day given in the following regimen:
 
-- 1.Withdraw protein from diet.
-  Avoid use of diuretic agents.
-- 2.Give supportive therapy, including blood products, as indicated.
-- 3.Give neomycin sulfate tablets in doses of 4 to 12 grams of neomycin sulfate per day (eight to 24 tablets) in divided doses.
-  Treatment should be continued over a period of five to six days, during which time protein should be returned incrementally to the diet.
-- 4.If less potentially toxic drugs cannot be used for chronic hepatic insufficiency, neomycin in doses of up to four grams daily (eight tablets per day) may be necessary.
-  The risk for the development of neomycin-induced toxicity progressively increases when treatment must be extended to preserve the life of a patient with hepatic encephalopathy who has failed to fully respond.
-  Frequent periodic monitoring of these patients to ascertain the presence of drug toxicity is mandatory (see PRECAUTIONS).
-  Also, neomycin serum concentrations should be monitored to avoid potentially toxic levels.
-  The benefits to the patient should be weighed against the risks of nephrotoxicity, permanent ototoxicity and neuromuscular blockade following the accumulation of neomycin in the tissues.
+1. 1.Withdraw protein from diet.
+   Avoid use of diuretic agents.
+2. 2.Give supportive therapy, including blood products, as indicated.
+3. 3.Give neomycin sulfate tablets in doses of 4 to 12 grams of neomycin sulfate per day (eight to 24 tablets) in divided doses.
+   Treatment should be continued over a period of five to six days, during which time protein should be returned incrementally to the diet.
+4. 4.If less potentially toxic drugs cannot be used for chronic hepatic insufficiency, neomycin in doses of up to four grams daily (eight tablets per day) may be necessary.
+   The risk for the development of neomycin-induced toxicity progressively increases when treatment must be extended to preserve the life of a patient with hepatic encephalopathy who has failed to fully respond.
+   Frequent periodic monitoring of these patients to ascertain the presence of drug toxicity is mandatory (see PRECAUTIONS).
+   Also, neomycin serum concentrations should be monitored to avoid potentially toxic levels.
+   The benefits to the patient should be weighed against the risks of nephrotoxicity, permanent ototoxicity and neuromuscular blockade following the accumulation of neomycin in the tissues.
 
 ## Preoperative Prophylaxis for Elective Colorectal Surgery
 
