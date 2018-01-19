@@ -43,7 +43,8 @@ Follow applicable special handling and disposal procedures.1
 
 BENDEKA is in a multiple-dose vial.
 At room temperature, BENDEKA is a clear, and colorless to yellow ready-to-dilute solution.
-Store BENDEKA at recommended refrigerated storage conditions (2-8 ° C or 36-46° F). When refrigerated, the contents may partially freeze.
+Store BENDEKA at recommended refrigerated storage conditions (2-8°C or 36-46°F).
+When refrigerated, the contents may partially freeze.
 Allow the vial to reach room temperature (15-30°C or 59-86°F) prior to use.
 If particulate matter is observed after achieving room temperature, the product should not be used.
 

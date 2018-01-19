@@ -42,7 +42,7 @@ Progression-Free Survival
 
 | Progression – Free Survival (months) |  |  |
 | --- | --- | --- |
-| Study Treatment | ____ Bendamustine Hydrocholoride | _ _ _ Chlorambucil |
+| Study Treatment | ____ Bendamustine Hydrochloride | _ _ _ Chlorambucil |
 
 ## 14.2 Non-Hodgkin Lymphoma (NHL)
 

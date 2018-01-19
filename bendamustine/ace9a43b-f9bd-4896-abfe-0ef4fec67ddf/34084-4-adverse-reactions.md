@@ -209,8 +209,8 @@ In both studies, serious adverse reactions, regardless of causality, were report
 The most common serious adverse reactions occurring in ≥5% of patients were febrile neutropenia and pneumonia.
 Other important serious adverse reactions reported in clinical trials and/or postmarketing experience were acute renal failure, cardiac failure, hypersensitivity, skin reactions, pulmonary fibrosis, and myelodysplastic syndrome.
 
-Serious drug-related adverse reactions reported in clinical trials included myelosuppression, infection, pneumonia, tumor lysis syndrome and infusion reactions [see Warnings and Precautions (5)].
-Adverse reactions occurring less frequently but possibly related to bendamustine hydrochloride treatment were hemolysis, dysgeusia/taste disorder, atypical pneumonia, sepsis, herpes zoster, erythema, dermatitis, and skin necrosis.
+Serious drug-related adverse reactions reported in clinical trials included myelosuppression, infection, pneumonia, tumor lysis syndrome and infusion reactions.
+[see Warnings and Precautions (5)] Adverse reactions occurring less frequently but possibly related to bendamustine hydrochloride treatment were hemolysis, dysgeusia/taste disorder, atypical pneumonia, sepsis, herpes zoster, erythema, dermatitis, and skin necrosis.
 
 ## 6.4 Post-Marketing Experience
 
@@ -230,4 +230,4 @@ Infections and infestations: Pneumocystis jiroveci pneumonia.
 Respiratory, thoracic and mediastinal disorders: Pneumonitis.
 
 Skin and subcutaneous tissue disorders: Stevens-Johnson syndrome, Toxic epidermal necrolysis, DRESS (Drug reaction with eosinophilia and systemic symptoms).
-[see Warnings and Precautions (5.5)].
+[see Warnings and Precautions (5.5)]
