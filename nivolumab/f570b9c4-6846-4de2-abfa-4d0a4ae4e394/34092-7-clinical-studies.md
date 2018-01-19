@@ -4,7 +4,7 @@
 
 ### Previously Treated Metastatic Melanoma
 
-CHECKMATE-037 (NCT01721746) was a multicenter, open-label trial that randomized (2:1) patients with unresectable or metastatic melanoma to receive either OPDIVO administered intravenously at 3 mg/kg every 2 weeks or investigator’s choice of chemotherapy, either single-agent dacarbazine 1000 mg/m2 every 3 weeks or the combination of carboplatin AUC 6 every 3 weeks plus paclitaxel 175 mg/m2 every 3 weeks.
+CHECKMATE-037 (NCT01721746) was a multicenter, open-label trial that randomized (2:1) patients with unresectable or metastatic melanoma to receive either 3 mg/kg of OPDIVO by intravenous infusion every 2 weeks or investigator’s choice of chemotherapy, either single-agent dacarbazine 1000 mg/m2 every 3 weeks or the combination of carboplatin AUC 6 every 3 weeks plus paclitaxel 175 mg/m2 every 3 weeks.
 Patients were required to have progression of disease on or following ipilimumab treatment and, if BRAF V600 mutation positive, a BRAF inhibitor.
 The trial excluded patients with autoimmune disease, medical conditions requiring systemic immunosuppression, ocular melanoma, active brain metastasis, or a history of Grade 4 ipilimumab-related adverse reactions (except for endocrinopathies) or Grade 3 ipilimumab-related adverse reactions that had not resolved or were inadequately controlled within 12 weeks of the initiating event.
 Tumor assessments were conducted 9 weeks after randomization then every 6 weeks for the first year, and every 12 weeks thereafter.
@@ -25,7 +25,7 @@ There were responses in patients with and without BRAF V600 mutation-positive me
 #### CHECKMATE-066
 
 CHECKMATE-066 (NCT01721772) was a multicenter, double-blind, randomized (1:1) trial conducted in patients with BRAF V600 wild-type unresectable or metastatic melanoma.
-Patients were randomized to receive either OPDIVO 3 mg/kg by intravenous infusion every 2 weeks or dacarbazine 1000 mg/m2 by intravenous infusion every 3 weeks until disease progression or unacceptable toxicity.
+Patients were randomized to receive either 3 mg/kg of OPDIVO by intravenous infusion every 2 weeks or dacarbazine 1000 mg/m2 by intravenous infusion every 3 weeks until disease progression or unacceptable toxicity.
 Randomization was stratified by PD-L1 status (greater than or equal to 5% of tumor cell membrane staining by immunohistochemistry vs. less than 5% or indeterminate result) and M stage (M0/M1a/M1b versus M1c).
 Key eligibility criteria included histologically confirmed, unresectable or metastatic, cutaneous, mucosal, or acral melanoma; no prior therapy for metastatic disease; completion of prior adjuvant or neoadjuvant therapy at least 6 weeks prior to randomization; ECOG performance status 0 or 1; absence of autoimmune disease; and absence of active brain or leptomeningeal metastases.
 The trial excluded patients with ocular melanoma.
@@ -40,7 +40,7 @@ Disease characteristics were M1c stage disease (61%), cutaneous melanoma (74%), 
 More patients in the OPDIVO arm had an ECOG performance status of 0 (71% vs. 58%).
 
 CHECKMATE-066 demonstrated a statistically significant improvement in OS for the OPDIVO arm compared with the dacarbazine arm in an interim analysis based on 47% of the total planned events for OS.
-Table 16 and Figure 1 summarize the efficacy results.
+Table 18 and Figure 1 summarize the efficacy results.
 
 Table 18: Efficacy Results - CHECKMATE-066
 
@@ -88,7 +88,7 @@ The trial population characteristics were: median age 61 years (range: 18 to 90)
 Disease characteristics were: AJCC Stage IV disease (93%); M1c disease (58%); elevated LDH (36%); history of brain metastases (4%); BRAF V600 mutation-positive melanoma (32%); PD-L1 ≥5% tumor cell membrane expression as determined by the clinical trials assay (46%); and prior adjuvant therapy (22%).
 
 CHECKMATE-067 demonstrated statistically significant improvements in PFS for patients randomized to either OPDIVO-containing arm as compared with the ipilimumab arm.
-Efficacy results are presented in Table 17 and Figure 2.
+Efficacy results are presented in Table 19 and Figure 2.
 
 Table 19: Efficacy Results in CHECKMATE-067
 
@@ -120,14 +120,14 @@ Figure 3: Progression-free Survival by PD-L1 Expression (<1%) - CHECKMATE-067
 
 Figure 4: Progression-free Survival by PD-L1 Expression (≥1%) - CHECKMATE-067
 
-The data presented in the figure below summarize the results of exploratory analyses comparing the two OPDIVO-containing arms in subgroups defined by PD-L1 tumor expression.
+The data presented in Figure 5 summarize the results of exploratory analyses comparing the two OPDIVO-containing arms in subgroups defined by PD-L1 tumor expression.
 
 Figure 5: Forest Plot: PFS Based on PD-L1 Expression Comparing OPDIVO-Containing Arms - CHECKMATE-067
 
 ## 14.2 Adjuvant Treatment of Melanoma
 
 CHECKMATE-238 (NCT02388906) was a randomized, double-blind trial that enrolled patients with completely resected Stage IIIB/C or Stage IV melanoma.
-Patients were randomized (1:1) to receive OPDIVO administered as an intravenous infusion over 60 minutes at 3 mg/kg every 2 weeks or ipilimumab administered as an intravenous infusion at 10 mg/kg every 3 weeks for 4 doses then every 12 weeks beginning at Week 24 for up to 1 year.
+Patients were randomized (1:1) to receive 3 mg/kg of OPDIVO over 60 minutes by intravenous infusion every 2 weeks or ipilimumab administered as an intravenous infusion at 10 mg/kg every 3 weeks for 4 doses then every 12 weeks beginning at Week 24 for up to 1 year.
 Enrollment required complete resection of melanoma with margins negative for disease within 12 weeks prior to randomization.
 The trial excluded patients with a history of ocular/uveal melanoma, autoimmune disease, and any condition requiring systemic treatment with either corticosteroids (≥10 mg daily prednisone or equivalent) or other immunosuppressive medications, as well as patients with prior therapy for melanoma except surgery, adjuvant radiotherapy after neurosurgical resection for lesions of the central nervous system, and prior adjuvant interferon completed ≥6 months prior to randomization.
 Randomization was stratified by PD-L1 status (positive [based on 5% level] vs negative/indeterminate) and American Joint Committee on Cancer (AJCC) stage (Stage IIIB/C vs Stage IV M1a-M1b vs Stage IV M1c).The major efficacy outcome measure was recurrence-free survival (RFS) defined as the time between the date of randomization and the date of first recurrence (local, regional, or distant metastasis), new primary melanoma, or death, from any cause, whichever occurs first and as assessed by the investigator.
@@ -157,7 +157,7 @@ Figure 6: Recurrence-free Survival - CHECKMATE-238
 ### Second-line Treatment of Metastatic Squamous NSCLC
 
 CHECKMATE-017 (NCT01642004) was a randomized (1:1), open-label study enrolling 272 patients with metastatic squamous NSCLC who had experienced disease progression during or after one prior platinum doublet-based chemotherapy regimen.
-Patients received OPDIVO (n=135) administered intravenously at 3 mg/kg every 2 weeks or docetaxel (n=137) administered intravenously at 75 mg/m2 every 3 weeks.
+Patients received 3 mg/kg of OPDIVO (n=135) by intravenous infusion every 2 weeks or docetaxel (n=137) administered intravenously at 75 mg/m2 every 3 weeks.
 Randomization was stratified by prior paclitaxel vs. other prior treatment and region (US/Canada vs. Europe vs. Rest of World).
 This study included patients regardless of their PD-L1 status.
 The trial excluded patients with autoimmune disease, medical conditions requiring systemic immunosuppression, symptomatic interstitial lung disease, or untreated brain metastasis.
@@ -206,7 +206,7 @@ In pre-specified exploratory subgroup analyses, the hazard ratios for survival w
 
 CHECKMATE-057 (NCT01673867) was a randomized (1:1), open-label study of 582 patients with metastatic non-squamous NSCLC who had experienced disease progression during or after one prior platinum doublet-based chemotherapy regimen.
 Appropriate prior targeted therapy in patients with known sensitizing EGFR mutation or ALK translocation was allowed.
-Patients received OPDIVO (n=292) administered intravenously at 3 mg/kg every 2 weeks or docetaxel (n=290) administered intravenously at 75 mg/m2 every 3 weeks.
+Patients received 3 mg/kg of OPDIVO (n=292) by intravenous infusion every 2 weeks or docetaxel (n=290) administered intravenously at 75 mg/m2 every 3 weeks.
 Randomization was stratified by prior maintenance therapy (yes vs. no) and number of prior therapies (1 vs. 2).
 The trial excluded patients with autoimmune disease, medical conditions requiring systemic immunosuppression, symptomatic interstitial lung disease, or untreated brain metastasis.
 Patients with treated brain metastases were eligible if neurologically stable.
@@ -264,7 +264,7 @@ Patients had to have a Karnofsky Performance Score (KPS) ≥70% and patients wer
 CHECKMATE-025 excluded patients with any history of or concurrent brain metastases, prior treatment with an mTOR inhibitor, active autoimmune disease, or medical conditions requiring systemic immunosuppression.
 Patients were stratified by region, Memorial Sloan Kettering Cancer Center (MSKCC) Risk Group and the number of prior anti-angiogenic therapies.
 
-Patients were randomized to OPDIVO (n=410) administered intravenously at 3 mg/kg every 2 weeks or everolimus (n=411) administered orally 10 mg daily.
+Patients were randomized 3 mg/kg of OPDIVO (n=410) by intravenous infusion every 2 weeks or everolimus (n=411) administered orally 10 mg daily.
 The median age was 62 years (range: 18 to 88) with 40% ≥65 years of age and 9% ≥75 years of age.
 The majority of patients were male (75%) and white (88%) and 34% and 66% of patients had a baseline KPS of 70% to 80% and 90% to 100%, respectively.
 The majority of patients (77%) were treated with one prior anti-angiogenic therapy.
@@ -303,7 +303,7 @@ CHECKMATE-039 (NCT01592370) was an open-label, multicenter, dose escalation stud
 Both studies included patients regardless of their tumor PD-L1 status and excluded patients with ECOG performance status of 2 or greater, autoimmune disease, symptomatic interstitial lung disease, hepatic transaminases more than 3 times ULN, creatinine clearance less than 40 mL/min, prior allogeneic HSCT, or chest irradiation within 24 weeks.
 In addition, both studies required an adjusted diffusion capacity of the lungs for carbon monoxide (DLCO) of over 60% in patients with prior pulmonary toxicity.
 
-Patients received 3 mg/kg of OPDIVO administered intravenously over 60 minutes every 2 weeks until disease progression, maximal clinical benefit, or unacceptable toxicity.
+Patients received 3 mg/kg of OPDIVO over 60 minutes by intravenous infusion every 2 weeks until disease progression, maximal clinical benefit, or unacceptable toxicity.
 A cycle consisted of one dose.
 Dose reduction was not permitted.
 
@@ -353,7 +353,7 @@ Table 25: Efficacy in cHL after Autologous HSCT
 CHECKMATE-141 (NCT02105636) was a randomized (2:1), active-controlled, open-label study enrolling patients with metastatic or recurrent SCCHN who had experienced disease progression during or within 6 months of receiving platinum-based therapy administered in either the adjuvant, neo-adjuvant, primary (unresectable locally advanced) or metastatic setting.
 The trial excluded patients with autoimmune disease, medical conditions requiring immunosuppression, recurrent or metastatic carcinoma of the nasopharynx, squamous cell carcinoma of unknown primary histology, salivary gland or non-squamous histologies (e.g., mucosal melanoma), or untreated brain metastasis.
 Patients with treated brain metastases were eligible if neurologically stable.
-Patients were randomized to receive OPDIVO administered intravenously (IV) at 3 mg/kg every 2 weeks or investigator’s choice of:
+Patients were randomized to receive 3 mg/kg of OPDIVO by intravenous infusion every 2 weeks or investigator’s choice of:
 
 - •cetuximab 400 mg/m2 loading dose IV followed by 250 mg/m2 weekly,
 - •methotrexate 40 to 60 mg/m2 IV weekly, or
@@ -395,7 +395,7 @@ The HR for survival was 0.55 (95% CI: 0.36, 0.83) with median survivals of 8.7 a
 
 In CHECKMATE-275 (NCT02387996), 270 patients with locally advanced or metastatic urothelial carcinoma who had disease progression during or following platinum-containing chemotherapy or who had disease progression within 12 months of treatment with a platinum-containing neoadjuvant or adjuvant chemotherapy regimen were treated with OPDIVO.
 Patients were excluded for active brain or leptomeningeal metastases, active autoimmune disease, medical conditions requiring systemic immunosuppression, and ECOG performance status >1.
-Patients received an intravenous infusion of 3 mg/kg of OPDIVO every 2 weeks until unacceptable toxicity or either radiographic or clinical progression.
+Patients received 3 mg/kg of OPDIVO by intravenous infusion every 2 weeks until unacceptable toxicity or either radiographic or clinical progression.
 Tumor response assessments were conducted every 8 weeks for the first 48 weeks and every 12 weeks thereafter.
 Major efficacy outcome measures included confirmed overall response rate (ORR) as assessed by independent radiographic review committee (IRRC) using Response Evaluation Criteria in Solid Tumors (RECIST v1.1) and duration of response (DOR).
 
@@ -429,7 +429,7 @@ Table 27: Efficacy Results in CHECKMATE-275
 
 CHECKMATE-142 (NCT02060188) was a multicenter, open-label, single arm study conducted in patients with locally determined dMMR or MSI-H metastatic CRC who had disease progression during, after, or were intolerant to, prior treatment with fluoropyrimidine-, oxaliplatin-, or irinotecan-based chemotherapy.
 Key eligibility criteria were at least one prior line of treatment for metastatic disease, ECOG 0 or 1, and absence of the following: active brain metastases, active autoimmune disease, or medical conditions requiring systemic immunosuppression.
-All patients received OPDIVO 3 mg/kg by intravenous infusion every 2 weeks until unacceptable toxicity or radiographic progression.
+All patients received 3 mg/kg of OPDIVO by intravenous infusion every 2 weeks until unacceptable toxicity or radiographic progression.
 Tumor assessments were conducted every 6 weeks for the first 24 weeks and every 12 weeks thereafter.
 Efficacy outcome measures included overall response rate (ORR) as assessed by independent radiographic review committee (IRRC) using Response Evaluation Criteria in Solid Tumors (RECIST v1.1) and duration of response (DOR).
 
@@ -456,13 +456,13 @@ Table 28: Efficacy Results - CHECKMATE-142
 
 The efficacy of OPDIVO was evaluated in a 154-patient subgroup of CHECKMATE-040 (NCT 01658878), a multicenter, open-label trial conducted in patients with hepatocellular carcinoma (HCC) who progressed on or were intolerant to sorafenib.
 Additional eligibility criteria included histologic confirmation of HCC and Child-Pugh Class A. The trial excluded patients with active autoimmune disease, brain metastasis, a history of hepatic encephalopathy, clinically significant ascites, infection with HIV, or active co-infection with hepatitis B virus (HBV) and hepatitis C virus (HCV) or HBV and hepatitis D virus (HDV); however, patients with only active HBV or HCV were eligible.
-Patients received OPDIVO 3 mg/kg by intravenous infusion every 2 weeks.
+Patients received 3 mg/kg of OPDIVO by intravenous infusion every 2 weeks.
 Tumor assessments were conducted every 6 weeks for 48 weeks and every 12 weeks thereafter.
 
 The major efficacy outcome measure was confirmed overall response rate, as assessed by blinded independent central review using RECIST v1.1 and modified RECIST (mRECIST) for HCC.
 Duration of response was also assessed.
 
-A total of 154 patients received OPDIVO 3 mg/kg by intravenous infusion every 2 weeks.
+A total of 154 patients received 3 mg/kg of OPDIVO by intravenous infusion every 2 weeks.
 The median age was 63 years (range: 19 to 81), 77% were men, and 46% were White.
 Across the population, 31% had active HBV infection, 21% had active HCV infection, and 49% had no evidence of active HBV or HCV.
 The etiology for HCC was alcoholic liver disease in 18% and non-alcoholic liver disease in 6.5% of patients.

@@ -167,7 +167,7 @@ Administer corticosteroids at a dose of 1 to 2 mg/kg/day prednisone equivalents 
 Administer corticosteroids at a dose of 0.5 to 1 mg/kg/day prednisone equivalents for moderate (Grade 2) or severe (Grade 3) increased serum creatinine, if worsening or no improvement occurs, increase dose of corticosteroids to 1 to 2 mg/kg/day prednisone equivalents.
 
 Withhold OPDIVO for moderate (Grade 2) or severe (Grade 3) increased serum creatinine.
-Permanently discontinue OPDIVO for life-threatening (Grade 4) increased serum creatinine [see Dosage and Administration (2.10) and Adverse Reactions (6.1)].
+Permanently discontinue OPDIVO for life-threatening (Grade 4) increased serum creatinine [see Dosage and Administration (2.10)].
 
 ### OPDIVO as a Single Agent
 
@@ -223,7 +223,7 @@ Permanently discontinue OPDIVO for immune-mediated encephalitis [see Dosage and 
 
 In patients receiving OPDIVO as a single agent, encephalitis occurred in 0.2% (3/1994).
 Fatal limbic encephalitis occurred in one patient after 7.2 months of exposure despite discontinuation of OPDIVO and administration of corticosteroids.
-In the other two patients encephalitis occurred post-allogeneic HSCT [see Warnings and Precautions (5.10)].
+In the other two patients, encephalitis occurred post-allogeneic HSCT [see Warnings and Precautions (5.10)].
 
 ### OPDIVO with Ipilimumab
 
@@ -248,11 +248,14 @@ Interrupt or slow the rate of infusion in patients with mild or moderate infusio
 
 ### OPDIVO as a Single Agent
 
-In patients receiving OPDIVO as a single agent, infusion-related reactions occurred in 6.4% (127/1994) of patients.
+In patients receiving OPDIVO as a 60-minute intravenous infusion, infusion-related reactions occurred in 6.4% (127/1994) of patients.
+
+In a study assessing the pharmacokinetics and safety of a more rapid infusion, in which patients received OPDIVO as a 60-minute intravenous infusion or a 30-minute intravenous infusion, infusion-related reactions occurred in 2.2% (8/368) and 2.7% (10/369) patients, respectively.
+Additionally, 0.5% (2/368) and 1.4% (5/369) of patients, respectively, experienced adverse reactions within 48 hours of infusion that led to dose delay, permanent discontinuation or withholding of OPDIVO.
 
 ### OPDIVO with Ipilimumab
 
-In patients receiving OPDIVO with ipilimumab, infusion-related reactions occurred in 2.5% (10/407) of patients.
+In patients receiving OPDIVO as a 60-minute intravenous infusion prior to the infusion of ipilimumab, infusion-related reactions occurred in 2.5% (10/407) of patients.
 
 ## 5.10 Complications of Allogeneic HSCT after OPDIVO
 

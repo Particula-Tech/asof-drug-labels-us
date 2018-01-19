@@ -17,8 +17,8 @@ The following adverse reactions are discussed in greater detail in other section
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The data in the Warnings and Precautions section reflect exposure to OPDIVO, as a single agent, for clinically significant adverse reactions in 1994 patients enrolled in the CHECKMATE-037, CHECKMATE-017, CHECKMATE-057, CHECKMATE-066, CHECKMATE-025, CHECKMATE-067, CHECKMATE-205, CHECKMATE-039 trials or a single-arm trial in NSCLC (n=117) administering OPDIVO as a single agent [see Warnings and Precautions (5.1, 5.8)].
-In addition, clinically significant adverse reactions of OPDIVO administered with ipilimumab were evaluated in 407 patients with melanoma enrolled in CHECKMATE-067 (n=313) or a Phase 2 randomized study (n=94), administering OPDIVO with ipilimumab, supplemented by immune-mediated adverse reaction reports in ongoing clinical trials [see Warnings and Precautions (5.1, 5.8)].
+The data in the Warnings and Precautions section reflect exposure to OPDIVO, as a single agent, for clinically significant adverse reactions in 1994 patients enrolled in the CHECKMATE-037, CHECKMATE-017, CHECKMATE-057, CHECKMATE-066, CHECKMATE-025, CHECKMATE-067, CHECKMATE-205, CHECKMATE-039 trials or a single-arm trial in NSCLC (n=117) administering OPDIVO as a single agent [see Warnings and Precautions (5)].
+In addition, clinically significant adverse reactions of OPDIVO administered with ipilimumab were evaluated in 407 patients with melanoma enrolled in CHECKMATE-067 (n=313) or a Phase 2 randomized study (n=94), administering OPDIVO with ipilimumab, supplemented by immune-mediated adverse reaction reports in ongoing clinical trials [see Warnings and Precautions (5)].
 
 The data described below reflect exposure to OPDIVO as a single agent in CHECKMATE-037, CHECKMATE-066, and CHECKMATE-067, and to OPDIVO with ipilimumab in CHECKMATE-067, which are randomized, active-controlled trials conducted in patients with unresectable or metastatic melanoma.
 Also described below are single-agent OPDIVO data from CHECKMATE-238, a randomized trial for the adjuvant treatment of patients with completely resected Stage IIIB/C and IV melanoma, CHECKMATE-017 and CHECKMATE-057, which are randomized trials in patients with metastatic NSCLC, CHECKMATE-025, which is a randomized trial in patients with advanced RCC, CHECKMATE-205 and CHECKMATE-039, which are open-label, multiple-cohort trials in patients with cHL, CHECKMATE-141, a randomized trial in patients with recurrent or metastatic SCCHN, CHECKMATE-275, which is a single-arm trial in patients with urothelial carcinoma, and CHECKMATE-040, which is an open-label, multiple-cohort trial in patients with HCC.
@@ -27,7 +27,7 @@ Also described below are single-agent OPDIVO data from CHECKMATE-238, a randomiz
 
 #### Previously Treated Metastatic Melanoma
 
-The safety of OPDIVO as a single agent was evaluated in CHECKMATE-037, a randomized, open-label trial in which 370 patients with unresectable or metastatic melanoma received OPDIVO 3 mg/kg every 2 weeks (n=268) or investigator’s choice of chemotherapy (n=102), either dacarbazine 1000 mg/m2 every 3 weeks or the combination of carboplatin AUC 6 every 3 weeks plus paclitaxel 175 mg/m2 every 3 weeks [see Clinical Studies (14.1)].
+The safety of OPDIVO as a single agent was evaluated in CHECKMATE-037, a randomized, open-label trial in which 370 patients with unresectable or metastatic melanoma received 3 mg/kg of OPDIVO by intravenous infusion every 2 weeks (n=268) or investigator’s choice of chemotherapy (n=102), either dacarbazine 1000 mg/m2 every 3 weeks or the combination of carboplatin AUC 6 every 3 weeks plus paclitaxel 175 mg/m2 every 3 weeks [see Clinical Studies (14.1)].
 The median duration of exposure was 5.3 months (range: 1 day to 13.8+ months) in OPDIVO-treated patients and was 2 months (range: 1 day to 9.6+ months) in chemotherapy-treated patients.
 In this ongoing trial, 24% of patients received OPDIVO for greater than 6 months and 3% of patients received OPDIVO for greater than 1 year.
 
@@ -94,7 +94,7 @@ Table 3: Laboratory Abnormalities Worsening from Baseline Occurring in ≥10% of
 
 ##### CHECKMATE-066
 
-The safety of OPDIVO was also evaluated in CHECKMATE-066, a randomized, double-blind, active-controlled trial in which 411 previously untreated patients with BRAF V600 wild-type unresectable or metastatic melanoma received OPDIVO 3 mg/kg every 2 weeks (n=206) or dacarbazine 1000 mg/m2 every 3 weeks (n=205) [see Clinical Studies (14.1)].
+The safety of OPDIVO was also evaluated in CHECKMATE-066, a randomized, double-blind, active-controlled trial in which 411 previously untreated patients with BRAF V600 wild-type unresectable or metastatic melanoma received 3 mg/kg of OPDIVO by intravenous infusion every 2 weeks (n=206) or dacarbazine 1000 mg/m2 every 3 weeks (n=205) [see Clinical Studies (14.1)].
 The median duration of exposure was 6.5 months (range: 1 day to 16.6 months) in OPDIVO-treated patients.
 In this trial, 47% of patients received OPDIVO for greater than 6 months and 12% of patients received OPDIVO for greater than 1 year.
 
@@ -222,8 +222,8 @@ Table 7: Laboratory Abnormalities Worsening from Baseline Occurring in ≥20% of
 
 ### Adjuvant Treatment of Melanoma
 
-The safety of OPDIVO as a single agent was evaluated in CHECKMATE-238, a randomized (1:1), double-blind trial in which 905 patients with completely resected Stage IIIB/C or Stage IV melanoma received OPDIVO 3 mg/kg administered as an intravenous infusion every 2 weeks (n=452) or ipilimumab 10 mg/kg (n=453), administered as an intravenous infusion every 3 weeks for 4 doses then every 12 weeks beginning at Week 24 for up to a 1 year [see Clinical Studies (14.2)].
-The median duration of exposure was 11.5 months in OPDIVO treated patients and was 2.7 months in ipilimumab-treated patients.
+The safety of OPDIVO as a single agent was evaluated in CHECKMATE-238, a randomized (1:1), double-blind trial in which 905 patients with completely resected Stage IIIB/C or Stage IV melanoma received 3 mg/kg of OPDIVO by intravenous infusion every 2 weeks (n=452) or 10 mg/kg ipilimumab (n=453), by intravenous infusion every 3 weeks for 4 doses then every 12 weeks beginning at Week 24 for up to a 1 year [see Clinical Studies (14.2)].
+The median duration of exposure was 11.5 months in OPDIVO-treated patients and was 2.7 months in ipilimumab-treated patients.
 In this ongoing trial, 74% of patients received OPDIVO for greater than 6 months.
 
 Study therapy was discontinued for adverse reactions in 9% of OPDIVO-treated patients and 42% of ipilimumab-treated patients.
@@ -293,7 +293,7 @@ Table 9: Laboratory Abnormalities Worsening from Baseline Occurring in ≥10% of
 ### Metastatic Non-Small Cell Lung Cancer
 
 The safety of OPDIVO in metastatic NSCLC was evaluated in CHECKMATE-017, a randomized open-label, multicenter trial in patients with metastatic squamous NSCLC and progression on or after one prior platinum doublet-based chemotherapy regimen and in CHECKMATE-057, a randomized, open-label, multicenter trial in patients with metastatic non-squamous NSCLC and progression on or after one prior platinum doublet-based chemotherapy regimen [see Clinical Studies (14.3)].
-Patients received 3 mg/kg of OPDIVO administered intravenously over 60 minutes every 2 weeks or docetaxel administered intravenously at 75 mg/m2 every 3 weeks.
+Patients received 3 mg/kg of OPDIVO over 60 minutes by intravenous infusion every 2 weeks or docetaxel administered intravenously at 75 mg/m2 every 3 weeks.
 The median duration of therapy in OPDIVO-treated patients in CHECKMATE-017 was 3.3 months (range: 1 day to 21.7+ months) and in CHECKMATE-057 was 2.6 months (range: 0 to 24.0+ months).
 In CHECKMATE-017, 36% of patients received OPDIVO for at least 6 months and 18% of patients received OPDIVO for at least 1 year and in CHECKMATE-057, 30% of patients received OPDIVO for greater than 6 months and 20% of patients received OPDIVO for greater than 1 year.
 
@@ -344,7 +344,7 @@ a Each test incidence is based on the number of patients who had both baseline a
 
 ### Renal Cell Carcinoma
 
-The safety of OPDIVO was evaluated in CHECKMATE-025, a randomized open-label trial in which 803 patients with advanced RCC who had experienced disease progression during or after at least one anti-angiogenic treatment regimens received OPDIVO 3 mg/kg every 2 weeks (n=406) or everolimus 10 mg daily (n=397) [see Clinical Studies (14.4)].
+The safety of OPDIVO was evaluated in CHECKMATE-025, a randomized open-label trial in which 803 patients with advanced RCC who had experienced disease progression during or after at least one anti-angiogenic treatment regimens received 3 mg/kg of OPDIVO by intravenous infusion every 2 weeks (n=406) or everolimus 10 mg daily (n=397) [see Clinical Studies (14.4)].
 The median duration of treatment was 5.5 months (range: 1 day to 29.6+ months) in OPDIVO-treated patients and 3.7 months (range: 6 days to 25.7+ months) in everolimus-treated patients.
 
 Study therapy was discontinued for adverse reactions in 16% of OPDIVO patients and 19% of everolimus patients.
@@ -401,7 +401,7 @@ Investigations: weight decreased
 Skin Disorders: Palmar-plantar erythrodysesthesia
 
 The most common laboratory abnormalities which have worsened compared to baseline in ≥30% of patients include increased creatinine, lymphopenia, anemia, increased AST, increased alkaline phosphatase, hyponatremia, elevated triglycerides, and hyperkalemia.
-Table 11 summarizes the laboratory abnormalities that occurred in greater than 15% of OPDIVO-treated patients.
+Table 13 summarizes the laboratory abnormalities that occurred in greater than 15% of OPDIVO-treated patients.
 
 Table 13: Grade 1-4 Laboratory Values Worsening from Baseline Occurring in >15% of Patients on OPDIVO (CHECKMATE-025)
 
@@ -430,7 +430,7 @@ In addition, among patients with TSH less than ULN at baseline, a greater propor
 
 ### Classical Hodgkin Lymphoma
 
-The safety of OPDIVO 3 mg/kg every 2 weeks was evaluated in 266 adult patients with cHL (243 patients in the CHECKMATE-205 and 23 patients in the CHECKMATE-039 trials).
+The safety of 3 mg/kg of OPDIVO by intravenous infusion every 2 weeks was evaluated in 266 adult patients with cHL (243 patients in the CHECKMATE-205 and 23 patients in the CHECKMATE-039 trials).
 Treatment could continue until disease progression, maximal clinical benefit, or unacceptable toxicity.
 
 The median age was 34 years (range: 18 to 72), 98% of patients had received autologous HSCT, none had received allogeneic HSCT, and 74% had received brentuximab vedotin.
@@ -534,7 +534,7 @@ Table 15: Laboratory Abnormalities Worsening from Baseline Occurring in ≥10% o
 ### Recurrent or Metastatic Squamous Cell Carcinoma of the Head and Neck
 
 The safety of OPDIVO was evaluated in CHECKMATE-141, a randomized, active-controlled, open-label, multicenter trial in patients with recurrent or metastatic SCCHN with progression during or within 6 months of receiving prior platinum-based therapy [see Clinical Studies (14.6)].
-Patients received 3 mg/kg of OPDIVO (n=236) administered intravenously (IV) over 60 minutes every 2 weeks or investigator’s choice of either:
+Patients received 3 mg/kg of OPDIVO (n=236) over 60 minutes by intravenous infusion every 2 weeks or investigator’s choice of either:
 
 - •cetuximab (n=13), 400 mg/m2 loading dose IV followed by 250 mg/m2 weekly
 - •or methotrexate (n=46) 40 to 60 mg/m2 IV weekly, or
