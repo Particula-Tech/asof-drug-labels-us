@@ -4,11 +4,11 @@ NDC 0169-4060-13
 
 List 406013
 
-Victoza®
+VICTOZA®
 
-liraglutide
+(liraglutide) injection
 
-(rDNA origin) injection
+SINGLE PATIENT USE ONLY
 
 18 mg/3 mL (6 mg/mL)
 
@@ -19,8 +19,6 @@ Subcutaneous use only
 Discard pen 30 days after first use
 
 REFRIGERATE - DO NOT FREEZE
-
-SINGLE PATIENT USE ONLY
 
 Rx Only
 
@@ -38,11 +36,11 @@ NDC 0169-4060-12
 
 List 406012
 
-Victoza®
+VICTOZA®
 
-liraglutide
+(liraglutide) injection
 
-(rDNA origin) injection
+SINGLE PATIENT USE ONLY
 
 18 mg/3 mL (6 mg/mL)
 
@@ -53,8 +51,6 @@ Subcutaneous use only
 Discard pen 30 days after first use
 
 REFRIGERATE - DO NOT FREEZE
-
-SINGLE PATIENT USE ONLY
 
 Rx Only
 

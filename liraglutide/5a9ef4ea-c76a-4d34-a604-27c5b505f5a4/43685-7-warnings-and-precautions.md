@@ -64,6 +64,6 @@ Use caution in a patient with a history of anaphylaxis or angioedema with anothe
 
 ## 5.7 Acute Gallbladder Disease
 
-In the LEADER trial [see Clinical Studies (14.2)], 3.1% of Victoza-treated patients versus 1.9% of placebo-treated patients reported an acute event of gallbladder disease, such as cholelithiasis or cholecystitis.
+In the LEADER trial [see Clinical Studies (14.2)], 3.1% of VICTOZA-treated patients versus 1.9% of placebo-treated patients reported an acute event of gallbladder disease, such as cholelithiasis or cholecystitis.
 The majority of events required hospitalization or cholecystectomy.
 If cholelithiasis is suspected, gallbladder studies and appropriate clinical follow-up are indicated.
