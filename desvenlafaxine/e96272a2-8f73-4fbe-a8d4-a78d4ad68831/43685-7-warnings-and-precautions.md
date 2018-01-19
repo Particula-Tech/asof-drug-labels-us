@@ -70,7 +70,7 @@ Desvenlafaxine should be discontinued before initiating treatment with the MAOI 
 
 If concomitant use of desvenlafaxine with other serotonergic drugs, including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, amphetamines, tryptophan, and St. John's Wort is clinically warranted, patients should be made aware of a potential increased risk for serotonin syndrome, particularly during treatment initiation and dose increases.
 
-Treatment with desvenlafaxine and any concomitant serotonergic agents, should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
+Treatment with desvenlafaxine and any concomitant serotonergic agents should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
 
 ## 5.3 Elevated Blood Pressure
 
