@@ -2,7 +2,8 @@
 
 2 mg per mL Lorazepam Oral Concentrate USP
 
-NDC 0121-0770-01: Bottles of 30 mL with calibrated dropper (graduations of 0.25 mL [0.5 mg], 0.5 mL [1 mg], 0.75 mL [1.5 mg] and 1 mL [2 mg] on the dropper).
+| NDC 0121-0770-01: | 1 fl oz (30 mL) with calibrated dropper (graduations of 0.25 mL [0.5 mg], 0.5 mL [1 mg], 0.75 mL [1.5 mg] and 1 mL [2 mg] on the dropper). |
+| --- | --- |
 
 PROTECT FROM LIGHT
 

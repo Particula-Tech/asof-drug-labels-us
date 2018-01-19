@@ -3,7 +3,7 @@
 Pre-existing depression may emerge or worsen during use of benzodiazepines including lorazepam.
 Lorazepam is not recommended for use in patients with a primary depressive disorder or psychosis.
 
-Use of benzodiazepines, including lorazepam, both used alone and in combination with other CNS depressants, may lead to potentially fatal respiratory depression (seePRECAUTIONS: Clinically Significant Drug Interactions).
+Use of benzodiazepines, including lorazepam, both used alone and in combination with other CNS depressants, may lead to potentially fatal respiratory depression (see PRECAUTIONS: Clinically Significant Drug Interactions).
 
 Use of benzodiazepines, including lorazepam, may lead to physical and psychological dependence.
 

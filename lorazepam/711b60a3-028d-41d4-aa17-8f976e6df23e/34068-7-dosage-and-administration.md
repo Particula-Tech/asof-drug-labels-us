@@ -18,7 +18,7 @@ For optimal results, dose, frequency of administration, and duration of therapy 
 
 The usual range is 2 mg/day to 6 mg/day given in divided doses, the largest dose being taken before bedtime, but the daily dosage may vary from 1 mg/day to 10 mg/day.
 
-For anxiety, most patients require an initial dose of 2 mg/day to 3 mg/day given b.i.d. or t.i.d.
+For anxiety, most patients require an initial dose of 2 mg/day to 3 mg/day given twice a day or three times a day.
 
 For insomnia due to anxiety or transient situational stress, a single daily dose of 2 mg to 4 mg may be given, usually at bedtime.
 

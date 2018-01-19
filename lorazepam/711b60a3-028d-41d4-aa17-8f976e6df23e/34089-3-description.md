@@ -8,8 +8,8 @@ Lorazepam 2 mg
 
 Lorazepam Oral Concentrate contains polyethylene glycol and propylene glycol.
 
-Lorazepam, an antianxiety agent, has the chemical formula, 2H-1,4-benzodiazepin-2-one, 7-chloro-5-(2-chlorophenyl)-1,3-dihydro-3-hydroxy-, (±)-:
+Lorazepam, an antianxiety agent, has the chemical formula, 2 H-1,4-benzodiazepin-2-one, 7-chloro-5-(2-chlorophenyl)-1,3-dihydro-3-hydroxy-, (±)-:
 
-C15H10Cl2N2O2 MW: 321.16
+C 15H 10Cl 2N 2O 2 MW: 321.16
 
 Lorazepam is a nearly white powder almost insoluble in water.
