@@ -1,39 +1,3 @@
-# PRINCIPAL DISPLAY PANEL - 250 mg Tablet Bottle Label
-
-NDC 0004-6313-01
-
-Naprosyn® (naproxen tablets)
-
-250 mg
-
-Each tablet contains 250 mg naproxen.
-
-PHARMACIST: Dispense a Medication Guide with each prescription.
-
-100 tablets
-
-Rx only
-
-Genentech
-
-# PRINCIPAL DISPLAY PANEL - 375 mg Tablet Bottle Label
-
-NDC 0004-6314-01
-
-Naprosyn® (naproxen tablets)
-
-375 mg
-
-Each tablet contains 375 mg naproxen.
-
-PHARMACIST: Dispense a Medication Guide with each prescription.
-
-100 tablets
-
-Rx only
-
-Genentech
-
 # PRINCIPAL DISPLAY PANEL - 500 mg Tablet Bottle Label
 
 NDC 0004-6316-01
@@ -70,6 +34,8 @@ Rx only
 
 Genentech
 
+10165780
+
 # PRINCIPAL DISPLAY PANEL - 500 mg Enteric Coated Tablet Bottle Label
 
 NDC 0004-6416-01
@@ -80,47 +46,15 @@ Enteric Coated EC-Naprosyn® (naproxen delayed-release tablets)
 
 Each tablet contains 500 mg naproxen.
 
-PHARMACIST: Dispense a Medication Guide with each prescription.
-
-100 tablets
-
 Rx only
-
-Genentech
-
-# PRINCIPAL DISPLAY PANEL - 473 mL Bottle Carton
-
-NDC 0004-0028-28
-
-Naprosyn® (naproxen suspension)
-
-125 mg/5 mL
-
-PHARMACIST: Dispense a Medication Guide with each prescription.
-
-Rx only
-
-1 Pint (473 mL)
-
-Roche
-
-# PRINCIPAL DISPLAY PANEL - 275 mg Tablet Bottle Label
-
-NDC 0004-6202-01
-
-Anaprox® (naproxen sodium tablets)
-
-275 mg
-
-Each tablet contains 275 mg naproxen sodium.
 
 PHARMACIST: Dispense a Medication Guide with each prescription.
 
 100 tablets
 
-Rx only
-
 Genentech
+
+10161083
 
 # PRINCIPAL DISPLAY PANEL - 550 mg Tablet Bottle Label
 
@@ -132,10 +66,12 @@ Anaprox® DS (naproxen sodium tablets)
 
 Each tablet contains 550 mg naproxen sodium.
 
+Rx only
+
 PHARMACIST: Dispense a Medication Guide with each prescription.
 
 100 tablets
 
-Rx only
-
 Genentech
+
+10172485
