@@ -12,4 +12,4 @@ When prescribing solely for the treatment of moderate to severe symptoms of vulv
 
 Limitation of Use
 
-When prescribing solely for the prevention of postmenopausal osteoporosis, therapy should only be considered for women at significant risk of osteoporosis and non-estrogen medication should be carefully considered.
+1. When prescribing solely for the prevention of postmenopausal osteoporosis, therapy should only be considered for women at significant risk of osteoporosis and non-estrogen medication should be carefully considered.

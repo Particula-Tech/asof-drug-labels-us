@@ -29,7 +29,7 @@ For information contact:
 - Plainsboro, NJ 08536, USA
 - 1-866-668-6336
 
-www.novonordisk-us.com
+1. www.novonordisk-us.com
 
 Manufactured by:
 
