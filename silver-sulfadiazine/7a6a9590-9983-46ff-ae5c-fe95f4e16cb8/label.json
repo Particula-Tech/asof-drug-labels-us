@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA017381"
+  ],
+  "inn": "silver-sulfadiazine",
+  "labeler": "Greenstone LLC",
+  "package_ndcs": [
+    "59762-0131-0",
+    "59762-0131-2",
+    "59762-0131-4",
+    "59762-0131-5",
+    "59762-0131-6",
+    "59762-0131-8"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "silver sulfadiazine",
+      "name": "SILVER SULFADIAZINE"
+    }
+  ],
+  "setid": "7a6a9590-9983-46ff-ae5c-fe95f4e16cb8",
+  "source": "dailymed"
+}
