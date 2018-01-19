@@ -276,7 +276,7 @@ Reactions are categorized by body system according to the following definitions:
 
 Cardiac Disorders
 
-Frequent: palpitations; Infrequent: myocardial infarction and tachycardia.
+Frequent: palpitations; Infrequent: myocardial infarction, tachycardia, and Takotsubo cardiomyopathy.
 
 Ear and Labyrinth Disorders
 
