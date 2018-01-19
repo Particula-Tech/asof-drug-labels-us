@@ -1,9 +1,14 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-Levothyroxine sodium is used for the following indications:
+Hypothyroidism
 
-Hypothyroidism – As replacement or supplemental therapy in congenital or acquired hypothyroidism of any etiology, except transient hypothyroidism during the recovery phase of subacute thyroiditis.
-Specific indications include: primary (thyroidal), secondary (pituitary), and tertiary (hypothalamic) hypothyroidism and subclinical hypothyroidism.
-Primary hypothyroidism may result from functional deficiency, primary atrophy, partial or total congenital absence of the thyroid gland, or from the effects of surgery, radiation, or drugs, with or without the presence of goiter.
+LEVO-T is indicated as a replacement therapy in primary (thyroidal), secondary (pituitary), and tertiary (hypothalamic) congenital or acquired hypothyroidism.
 
-Pituitary TSH Suppression – In the treatment or prevention of various types of euthyroid goiters (see WARNINGS and PRECAUTIONS), including thyroid nodules (see WARNINGS and PRECAUTIONS), subacute or chronic lymphocytic thyroiditis (Hashimoto’s thyroiditis), multinodular goiter (see WARNINGS and PRECAUTIONS) and, as an adjunct to surgery and radioiodine therapy in the management of thyrotropin-dependent well-differentiated thyroid cancer.
+Pituitary Thyrotropin (Thyroid-Stimulating Hormone, TSH) Suppression
+
+LEVO-T is indicated as an adjunct to surgery and radioiodine therapy in the management of thyrotropin-dependent well-differentiated thyroid cancer.
+
+Limitations of Use:
+
+- LEVO-T is not indicated for suppression of benign thyroid nodules and nontoxic diffuse goiter in iodine-sufficient patients as there are no clinical benefits and overtreatment with LEVO-T may induce hyperthyroidism [see Warnings and Precautions (5.4)].
+- LEVO-T is not indicated for treatment of hypothyroidism during the recovery phase of subacute thyroiditis.

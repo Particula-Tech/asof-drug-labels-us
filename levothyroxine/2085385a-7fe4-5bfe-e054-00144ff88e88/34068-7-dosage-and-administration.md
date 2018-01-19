@@ -1,94 +1,116 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-General Principles
+## 2.1 General Administration Information
 
-The goal of replacement therapy is to achieve and maintain a clinical and biochemical euthyroid state.
-The goal of suppressive therapy is to inhibit growth and/or function of abnormal thyroid tissue.
-The dose of Levo-T® that is adequate to achieve these goals depends on a variety of factors including the patient’s age, body weight, cardiovascular status, concomitant medical conditions, including pregnancy, concomitant medications, and the specific nature of the condition being treated (see WARNINGS and PRECAUTIONS).
-Hence, the following recommendations serve only as dosing guidelines.
-Dosing must be individualized and adjustments made based on periodic assessment of the patient’s clinical response and laboratory parameters (see PRECAUTIONS, Laboratory Tests).
+Take LEVO-T with a full glass of water as the tablet may rapidly disintegrate.
 
-Levo-T® is administered as a single daily dose, preferably one-half to one hour before breakfast.
-Levo-T® should be taken at least 4 hours apart from drugs that are known to interfere with its absorption (see PRECAUTIONS, Drug Interactions).
-Levo-T® should be taken with a full glass of water, (see Information for Patients).
+Administer LEVO-T as a single daily dose, on an empty stomach, one-half to one hour before breakfast.
 
-Due to the long half-life of levothyroxine, the peak therapeutic effect at a given dose of Levo-T® may not be attained for 4-6 weeks.
+Administer LEVO-T at least 4 hours before or after drugs known to interfere with LEVO-T absorption [see Drug Interactions (7.1)].
 
-Caution should be exercised when administering Levo-T® to patients with underlying cardiovascular disease, to the elderly, and to those with concomitant adrenal insufficiency (see PRECAUTIONS).
+Evaluate the need for dose adjustments when regularly administering within one hour of certain foods that may affect LEVO-T absorption [see Drug Interactions (7.9) and Clinical Pharmacology (12.3)].
 
-Specific Patient Populations
+Administer LEVO-T to infants and children who cannot swallow intact tablets by crushing the tablet, suspending the freshly crushed tablet in a small amount (5 to 10 mL or 1 to 2 teaspoons) of water and immediately administering the suspension by spoon or dropper.
+Do not store the suspension.
+Do not administer in foods that decrease absorption of LEVO-T, such as soybean-based infant formula [see Drug Interactions (7.9)].
 
-Hypothyroidism in Adults and in Children in Whom Growth and Puberty are Complete (see WARNINGS and PRECAUTIONS, Laboratory Tests)
+## 2.2 General Principles of Dosing
 
-Therapy may begin at full replacement doses in otherwise healthy individuals who are at low risk of coronary artery disease.
-The average full replacement dose of levothyroxine sodium is approximately 1.7 mcg/kg/day (e.g., 100-125 mcg/day for a 70 kg adult).
-Older patients may require less than 1 mcg/kg/day.
-Levothyroxine sodium doses greater than 200 mcg/day are seldom required.
-An inadequate response to daily doses > 300 mcg/day is rare and may indicate poor compliance, malabsorption, and/or drug interactions.
+The dose of LEVO-T for hypothyroidism or pituitary TSH suppression depends on a variety of factors including: the patient's age, body weight, cardiovascular status, concomitant medical conditions (including pregnancy), concomitant medications, co-administered food and the specific nature of the condition being treated [see Dosage and Administration (2.3), Warnings and Precautions (5), and Drug Interactions (7)].
+Dosing must be individualized to account for these factors and dose adjustments made based on periodic assessment of the patient's clinical response and laboratory parameters [see Dosage and Administration (2.4)].
 
-For most patients older than 50 years or for patients under 50 years of age with underlying cardiac disease, an initial starting dose of 25-50 mcg/day of levothyroxine sodium is recommended, with gradual increments in dose at 6-8 week intervals, as needed.
-The recommended starting dose of levothyroxine sodium in elderly patients with cardiac disease is 12.5-25 mcg/day, with gradual dose increments at 4-6 week intervals.
-The levothyroxine sodium dose is generally adjusted in 12.5-25 mcg increments until the patient with primary hypothyroidism is clinically euthyroid and the serum TSH has normalized.
+The peak therapeutic effect of a given dose of LEVO-T may not be attained for 4 to 6 weeks.
 
-In patients with severe hypothyroidism, the recommended initial levothyroxine sodium dose is 12.5-25 mcg/day with increases of 25 mcg/day every 2-4 weeks, accompanied by clinical and laboratory assessment, until the TSH level is normalized.
+## 2.3 Dosing in Specific Patient Populations
 
-In patients with secondary (pituitary) or tertiary (hypothalamic) hypothyroidism, the levothyroxine sodium dose should be titrated until the patient is clinically euthyroid and the serum free-T4 level is restored to the upper half of the normal range.
+Primary Hypothyroidism in Adults and in Adolescents in Whom Growth and Puberty are Complete
 
-Pediatric Dosage – Congenital or Acquired Hypothyroidism (see PRECAUTIONS, Laboratory Tests)
+Start LEVO-T at the full replacement dose in otherwise healthy, non-elderly individuals who have been hypothyroid for only a short time (such as a few months).
+The average full replacement dose of LEVO-T is approximately 1.6 mcg per kg per day (for example: 100 to 125 mcg per day for a 70 kg adult).
 
-General Principles
+Adjust the dose by 12.5 to 25 mcg increments every 4 to 6 weeks until the patient is clinically euthyroid and the serum TSH returns to normal.
+Doses greater than 200 mcg per day are seldom required.
+An inadequate response to daily doses of greater than 300 mcg per day is rare and may indicate poor compliance, malabsorption, drug interactions, or a combination of these factors.
 
-In general, levothyroxine therapy should be instituted at full replacement doses as soon as possible.
-Delays in diagnosis and institution of therapy may have deleterious effects on the child’s intellectual and physical growth and development.
+For elderly patients or patients with underlying cardiac disease, start with a dose of 12.5 to 25 mcg per day.
+Increase the dose every 6 to 8 weeks, as needed until the patient is clinically euthyroid and the serum TSH returns to normal.
+The full replacement dose of LEVO-T may be less than 1 mcg per kg per day in elderly patients.
 
-Undertreatment and overtreatment should be avoided (see PRECAUTIONS, Pediatric Use).
+In patients with severe longstanding hypothyroidism, start with a dose of 12.5 to 25 mcg per day.
+Adjust the dose in 12.5 to 25 mcg increments every 2 to 4 weeks until the patient is clinically euthyroid and the serum TSH level is normalized.
 
-Levo-T® may be administered to infants and children who cannot swallow intact tablets by crushing the tablet and suspending the freshly crushed tablet in a small amount (5-10 mL or 1-2 teaspoons) of water.
-This suspension can be administered by spoon or dropper.
-DO NOT STORE THE SUSPENSION.
-Foods that decrease absorption of levothyroxine, such as soybean infant formula, should not be used for administering levothyroxine sodium tablets (see PRECAUTIONS, Drug-Food Interactions).
+Secondary or Tertiary Hypothyroidism
 
-Newborns
+Start LEVO-T at the full replacement dose in otherwise healthy, non-elderly individuals.
+Start with a lower dose in elderly patients, patients with underlying cardiovascular disease or patients with severe longstanding hypothyroidism as described above.
+Serum TSH is not a reliable measure of LEVO-T dose adequacy in patients with secondary or tertiary hypothyroidism and should not be used to monitor therapy.
+Use the serum free-T4 level to monitor adequacy of therapy in this patient population.
+Titrate LEVO-T dosing per above instructions until the patient is clinically euthyroid and the serum free-T4 level is restored to the upper half of the normal range.
 
-The recommended starting dose of levothyroxine sodium in newborn infants is 10-15 mcg/kg/day.
-A lower starting dose (e.g., 25 mcg/day) should be considered in infants at risk for cardiac failure, and the dose should be increased in 4-6 weeks as needed based on clinical and laboratory response to treatment.
-In infants with very low (< 5 mcg/dL) or undetectable serum T4 concentrations, the recommended initial starting dose is 50 mcg/day of levothyroxine sodium.
+Pediatric Dosage - Congenital or Acquired Hypothyroidism
 
-Infants and Children
+The recommended daily dose of LEVO-T in pediatric patients with hypothyroidism is based on body weight and changes with age as described in Table 1.
+Start LEVO-T at the full daily dose in most pediatric patients.
+Start at a lower starting dose in newborns (0-3 months) at risk for cardiac failure and in children at risk for hyperactivity (see below).
+Monitor for clinical and laboratory response [see Dosage and Administration (2.4)].
 
-Levothyroxine therapy is usually initiated at full replacement doses, with the recommended dose per body weight decreasing with age (see Table 3).
-However, in children with chronic or severe hypothyroidism, an initial dose of 25 mcg/day of levothyroxine sodium is recommended with increments of 25 mcg every 2-4 weeks until the desired effect is achieved.
+Table 1.
+LEVO-T Dosing Guidelines for Pediatric Hypothyroidism
 
-Hyperactivity in an older child can be minimized if the starting dose is one-fourth of the recommended full replacement dose, and the dose is then increased on a weekly basis by an amount equal to one-fourth the full-recommended replacement dose until the full recommended replacement dose is reached.
-
-| Table 3: Levothyroxine Sodium Dosing Guidelines for Pediatric Hypothyroidism |  |
+| AGE | Daily Dose Per Kg Body Weight The dose should be adjusted based on clinical response and laboratory parameters [see Dosage and Administration (2.4) and Use in Specific Populations (8.4)]. |
 | --- | --- |
-| AGE | Daily Dose Per Kg Body Weight a |
 | 0-3 months | 10-15 mcg/kg/day |
 | 3-6 months | 8-10 mcg/kg/day |
 | 6-12 months | 6-8 mcg/kg/day |
 | 1-5 years | 5-6 mcg/kg/day |
 | 6-12 years | 4-5 mcg/kg/day |
-| >12 years but growth and puberty incomplete | 2-3 mcg/kg/day |
-| Growth and puberty complete | 1.7 mcg/kg/day |
-| a The dose should be adjusted based on clinical response and laboratory parameters (see PRECAUTIONS, Labotarory Tests and Pediatric Use). |  |
+| Greater than 12 years but growth and puberty incomplete | 2-3 mcg/kg/day |
+| Growth and puberty complete | 1.6 mcg/kg/day |
 
-Pregnancy- Pregnancy may increase levothyroxine requirements (see Pregnancy).
+Newborns (0-3 months) at risk for cardiac failure: Consider a lower starting dose in newborns at risk for cardiac failure.
+Increase the dose every 4 to 6 weeks as needed based on clinical and laboratory response.
 
-Subclinical Hypothyroidism- If this condition is treated, a lower levothyroxine sodium dose (e.g., 1 mcg/kg/day) than that used for full replacement may be adequate to normalize the serum TSH level.
-Patients who are not treated should be monitored yearly for changes in clinical status and thyroid laboratory parameters.
+Children at risk for hyperactivity: To minimize the risk of hyperactivity in children, start at one-fourth the recommended full replacement dose, and increase on a weekly basis by one-fourth the full recommended replacement dose until the full recommended replacement dose is reached.
 
-TSH Suppression in Well-differentiated Thyroid Cancer and Thyroid Nodules –The target level for TSH suppression in these conditions has not been established with controlled studies.
-In addition, the efficacy of TSH suppression for benign nodular disease is controversial.
-Therefore, the dose of Levo-T® used for TSH suppression should be individualized based on the specific disease and the patient being treated.
+Pregnancy
 
-In the treatment of well-differentiated (papillary and follicular) thyroid cancer, levothyroxine is used as an adjunct to surgery and radioiodine therapy.
-Generally, TSH is suppressed to <0.1 mU/L, and this usually requires a levothyroxine sodium dose of greater than 2 mcg/kg/day.
-However, in patients with high-risk tumors, the target level for TSH suppression may be <0.01 mU/L.
+Pre-existing Hypothyroidism: LEVO-T dose requirements may increase during pregnancy.
+Measure serum TSH and free-T4 as soon as pregnancy is confirmed and, at minimum, during each trimester of pregnancy.
+In patients with primary hypothyroidism, maintain serum TSH in the trimester-specific reference range.
+For patients with serum TSH above the normal trimester-specific range, increase the dose of LEVO-T by 12.5 to 25 mcg/day and measure TSH every 4 weeks until a stable LEVO-T dose is reached and serum TSH is within the normal trimester-specific range.
+Reduce LEVO-T dosage to pre-pregnancy levels immediately after delivery and measure serum TSH levels 4 to 8 weeks postpartum to ensure LEVO-T dose is appropriate.
 
-In the treatment of benign nodules and nontoxic multinodular goiter, TSH is generally suppressed to a higher target (e.g., 0.1 to either 0.5 or 1.0 mU/L) than that used for the treatment of thyroid cancer.
-Levothyroxine sodium is contraindicated if the serum TSH is already suppressed due to the risk of precipitating overt thyrotoxicosis (see CONTRAINDICATIONS, WARNINGS and PRECAUTIONS).
+New Onset Hypothyroidism: Normalize thyroid function as rapidly as possible.
+In patients with moderate to severe signs and symptoms of hypothyroidism, start LEVO-T at the full replacement dose (1.6 mcg per kg body weight per day).
+In patients with mild hypothyroidism (TSH < 10 IU per liter) start LEVO-T at 1.0 mcg per kg body weight per day.
+Evaluate serum TSH every 4 weeks and adjust LEVO-T dosage until a serum TSH is within the normal trimester specific range [see Use in Specific Populations (8.1)].
 
-Myxedema Coma – Myxedema coma is a life-threatening emergency characterized by poor circulation and hypometabolism, and may result in unpredictable absorption of levothyroxine sodium from the gastrointestinal tract.
-Therefore, oral thyroid hormone drug products are not recommended to treat this condition.
-Intravenous levothyroxine sodium should be administered.
+TSH Suppression in Well-differentiated Thyroid Cancer
+
+Generally, TSH is suppressed to below 0.1 IU per liter, and this usually requires a LEVO-T dose of greater than 2 mcg per kg per day.
+However, in patients with high-risk tumors, the target level for TSH suppression may be lower.
+
+## 2.4 Monitoring TSH and/or Thyroxine (T4) Levels
+
+Assess the adequacy of therapy by periodic assessment of laboratory tests and clinical evaluation.
+Persistent clinical and laboratory evidence of hypothyroidism despite an apparent adequate replacement dose of LEVO-T may be evidence of inadequate absorption, poor compliance, drug interactions, or a combination of these factors.
+
+Adults
+
+In adult patients with primary hypothyroidism, monitor serum TSH levels after an interval of 6 to 8 weeks after any change in dose.
+In patients on a stable and appropriate replacement dose, evaluate clinical and biochemical response every 6 to 12 months and whenever there is a change in the patient's clinical status.
+
+Pediatrics
+
+In patients with congenital hypothyroidism, assess the adequacy of replacement therapy by measuring both serum TSH and total or free-T4.
+Monitor TSH and total or free-T4 in children as follows: 2 and 4 weeks after the initiation of treatment, 2 weeks after any change in dosage, and then every 3 to 12 months thereafter following dose stabilization until growth is completed.
+Poor compliance or abnormal values may necessitate more frequent monitoring.
+Perform routine clinical examination, including assessment of development, mental and physical growth, and bone maturation, at regular intervals.
+
+While the general aim of therapy is to normalize the serum TSH level, TSH may not normalize in some patients due to in utero hypothyroidism causing a resetting of pituitary-thyroid feedback.
+Failure of the serum T4 to increase into the upper half of the normal range within 2 weeks of initiation of LEVO-T therapy and/or of the serum TSH to decrease below 20 IU per liter within 4 weeks may indicate the child is not receiving adequate therapy.
+Assess compliance, dose of medication administered, and method of administration prior to increasing the dose of LEVO-T [see Warnings and Precautions (5.1) and Use in Specific Populations (8.4)].
+
+Secondary and Tertiary Hypothyroidism
+
+Monitor serum free-T4 levels and maintain in the upper half of the normal range in these patients.

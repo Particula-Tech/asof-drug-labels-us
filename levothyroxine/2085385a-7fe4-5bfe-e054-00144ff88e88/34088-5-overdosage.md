@@ -1,21 +1,12 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
-The signs and symptoms of overdosage are those of hyperthyroidism (see PRECAUTIONS and ADVERSE REACTIONS).
+The signs and symptoms of overdosage are those of hyperthyroidism [see Warnings and Precautions (5) and Adverse Reactions (6)].
 In addition, confusion and disorientation may occur.
 Cerebral embolism, shock, coma, and death have been reported.
-Seizures have occurred in a child ingesting 18 mg of levothyroxine.
+Seizures occurred in a 3-year-old child ingesting 3.6 mg of levothyroxine.
 Symptoms may not necessarily be evident or may not appear until several days after ingestion of levothyroxine sodium.
 
-Treatment of Overdosage
+Reduce the LEVO-T dose or discontinue temporarily if signs or symptoms of overdosage occur.
+Initiate appropriate supportive treatment as dictated by the patient's medical status.
 
-Levothyroxine sodium should be reduced in dose or temporarily discontinued if signs or symptoms of overdosage occur.
-
-Acute Massive Overdosage – This may be a life-threatening emergency, therefore, symptomatic and supportive therapy should be instituted immediately.
-If not contraindicated (e.g., by seizures, coma, or loss of the gag reflex), the stomach should be emptied by emesis or gastric lavage to decrease gastrointestinal absorption.
-Activated charcoal or cholestyramine may also be used to decrease absorption.
-Central and peripheral increased sympathetic activity may be treated by administering b-receptor antagonists, e.g., propranolol, provided there are no medical contraindications to their use.
-Provide respiratory support as needed; control congestive heart failure and arrhythmia; control fever, hypoglycemia, and fluid loss as necessary.
-Large doses of antithyroid drugs (e.g., methimazole or propylthiouracil) followed in one to two hours by large doses of iodine may be given to inhibit synthesis and release of thyroid hormones.
-Glucocorticoids may be given to inhibit the conversion of T 4 to T 3.
-Plasmapheresis, charcoal hemoperfusion, and exchange transfusion have been reserved for cases in which continued clinical deterioration occurs despite conventional therapy.
-Because T 4 is highly protein bound, very little drug will be removed by dialysis.
+For current information on the management of poisoning or overdosage, contact the National Poison Control Center at 1-800-222-1222 or www.poison.org.

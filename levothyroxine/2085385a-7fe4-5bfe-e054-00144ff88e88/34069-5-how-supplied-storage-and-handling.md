@@ -1,63 +1,23 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Levo-T® (levothyroxine sodium tablets, USP) are supplied as scored, color coded potency marked tablets as follows:
+LEVO-T (levothyroxine sodium, USP) tablets are supplied as follows:
 
-25 mcg, capsule shape tablets, orange color, on one side debossed with "25"; on the other side bisected and debossed with "GG" to the left of the bisect and "331" to the right:
+| Strength (mcg) | Color/Shape | Tablet Markings | NDC# for bottles of 90 | NDC # for bottles of 1000 |
+| --- | --- | --- | --- | --- |
+| 25 | Orange/Caplet | "25" and "GG/331" | 55466-104-11 | 55466-104-19 |
+| 50 | White/ Caplet | "50" and "GG/332" | 55466-105-11 | 55466-105-19 |
+| 75 | Violet/ Caplet | "75" and "GG/333" | 55466-106-11 | 55466-106-19 |
+| 88 | Olive Green/ Caplet | "88" and 'GG/334" | 55466-107-11 | -- |
+| 100 | Yellow/ Caplet | "100" and "GG/335" | 55466-108-11 | 55466-108-19 |
+| 112 | Rose/ Caplet | "112" and "GG/336" | 55466-109-11 | -- |
+| 125 | Brown/ Caplet | "125" and "GG/337" | 55466-110-11 | 55466-110-19 |
+| 137 | Turquoise/ Caplet | "137" and "GG/330" | 55466-111-11 | -- |
+| 150 | Blue/ Caplet | "150" and "GG/338" | 55466-112-11 | -- |
+| 175 | Lilac/ Caplet | "175" and "GG/339" | 55466-113-11 | -- |
+| 200 | Pink/ Caplet | "200" and "GG/340" | 55466-114-11 | -- |
+| 300 | Green/ Caplet | "300" and "GG/341" | 55466-115-11 | -- |
 
-NDC 55466-104-11 Bottle of 90’s
+Storage Conditions
 
-NDC 55466-104-19 Bottle of 1000’s
-
-50 mcg, capsule shape tablets, white color, on one side debossed with "50"; on the other side bisected and debossed with "GG" to the left of the bisect and "332" to the right:
-
-NDC 55466-105-11 Bottle of 90’s
-
-NDC 55466-105-19 Bottle of 1000’s
-
-75 mcg, capsule shape tablets, violet color, on one side debossed with "75"; on the other side bisected and debossed with "GG" to the left of the bisect and "333" to the right:
-
-NDC 55466-106-11 Bottle of 90’s
-
-NDC 55466-106-19 Bottle of 1000’s
-
-88 mcg, capsule shape tablets, olive green color, on one side debossed with "88"; on the other side bisected and debossed with "GG" to the left of the bisect and "334" to the right:
-
-NDC 55466-107-11 Bottle of 90’s
-
-100 mcg, capsule shape tablets, yellow color, on one side debossed with "100"; on the other side bisected and debossed with "GG" to the left of the bisect and "335" to the right:
-
-NDC 55466-108-11 Bottle of 90’s
-
-NDC 55466-108-19 Bottle of 1000’s
-
-112 mcg, capsule shape tablets, rose color, on one side debossed with "112"; on the other side bisected and debossed with "GG" to the left of the bisect and "336" to the right:
-
-NDC 55466-109-11 Bottle of 90’s
-
-125 mcg, capsule shape tablets, brown color, on one side debossed with "125"; on the other side bisected and debossed with "GG" to the left of the bisect and "337" to the right:
-
-NDC 55466-110-11 Bottle of 90’s
-
-NDC 55466-110-19 Bottle of 1000’s
-
-137 mcg, capsule shape tablets, turquoise color, on one side debossed with "137"; on the other side bisected and debossed with "GG" to the left of the bisect and "330" to the right:
-
-NDC 55466-111-11 Bottle of 90’s
-
-150 mcg, capsule shape tablets, blue color, on one side debossed with "150"; on the other side bisected and debossed with "GG" to the left of the bisect and "338" to the right:
-
-NDC 55466-112-11 Bottle of 90’s
-
-175 mcg, capsule shape tablets, lilac color, on one side debossed with "175"; on the other side bisected and debossed with
-
-"GG" to the left of the bisect and "339" to the right:
-
-NDC 55466-113-11 Bottle of 90’s
-
-200 mcg, capsule shape tablets, pink color, on one side debossed with "200"; on the other side bisected and debossed with "GG" to the left of the bisect and "340" to the right:
-
-NDC 55466-114-11 Bottle of 90’s
-
-300 mcg, capsule shape tablets, green color, on one side debossed with "300"; on the other side bisected and debossed with "GG" to the left of the bisect and "341" to the right:
-
-NDC 55466-115-11 Bottle of 90’s
+Store at 25°C (77°F); excursions permitted to 15° to 30° C (59° to 86° F) [see USP Controlled Room Temperature].
+LEVO-T tablets should be protected from light and moisture.
