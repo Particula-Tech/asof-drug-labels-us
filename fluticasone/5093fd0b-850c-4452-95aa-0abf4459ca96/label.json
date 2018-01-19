@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA205434"
+  ],
+  "inn": "fluticasone",
+  "labeler": "GlaxoSmithKline Inc",
+  "package_ndcs": [
+    "53873-038-00",
+    "53873-038-01",
+    "53873-038-02",
+    "53873-038-03"
+  ],
+  "products": [
+    {
+      "form": "SPRAY, METERED",
+      "generic": "fluticasone propionate",
+      "name": "FLONASE"
+    }
+  ],
+  "setid": "5093fd0b-850c-4452-95aa-0abf4459ca96",
+  "source": "dailymed"
+}
