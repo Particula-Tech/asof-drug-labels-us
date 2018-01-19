@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "NDA207975"
+  ],
+  "inn": "hydrocodone",
+  "labeler": "Cephalon, Inc.",
+  "package_ndcs": [
+    "63459-118-01",
+    "63459-120-01",
+    "63459-122-01",
+    "63459-130-01",
+    "63459-136-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "hydrocodone bitartrate",
+      "name": "Vantrela"
+    }
+  ],
+  "setid": "9ca41a03-243e-46d0-9c02-6ee3cd68fb63",
+  "source": "dailymed"
+}
