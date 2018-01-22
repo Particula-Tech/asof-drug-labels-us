@@ -2,7 +2,7 @@
 
 ## 2.1 Administration Information
 
-DULERA should be administered as two inhalations twice daily every day (morning and evening) by the orally inhaled route (see Patient Instructions for Use in the Medication Guide).
+DULERA should be administered as two inhalations twice daily every day (morning and evening) by the orally inhaled route (see Patient Instructions for Use in the Patient Information leaflet).
 Shake well prior to each inhalation.
 After each dose, the patient should be advised to rinse his/her mouth with water without swallowing.
 

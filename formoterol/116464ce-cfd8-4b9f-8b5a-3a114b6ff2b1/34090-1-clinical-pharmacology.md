@@ -57,7 +57,7 @@ HPA Axis Effects:
 
 The effects of inhaled mometasone furoate administered via DULERA on adrenal function were evaluated in two clinical trials in patients with asthma.
 HPA-axis function was assessed by 24-hour plasma cortisol AUC.
-Although both these trials have open-label design and contain small number of subjects per treatment arm, results from these trials taken together demonstrated suppression of 24-hour plasma cortisol AUC for DULERA 200 mcg/5 mcg compared to placebo consistent with the known systemic effects of inhaled corticosteroid.
+Although both these trials have open-label design and contain small number of patients per treatment arm, results from these trials taken together demonstrated suppression of 24-hour plasma cortisol AUC for DULERA 200 mcg/5 mcg compared to placebo consistent with the known systemic effects of inhaled corticosteroid.
 
 In a 42-day, open-label, placebo and active-controlled study 60 patients with asthma 18 years of age and older were randomized to receive two inhalations twice daily of 1 of the following treatments: DULERA 100 mcg/5 mcg, DULERA 200 mcg/5 mcg, fluticasone propionate/salmeterol xinafoate 230 mcg/21 mcg, or placebo.
 At Day 42, the mean change from baseline plasma cortisol AUC(0-24 hr) was 8%, 22% and 34% lower compared to placebo for the DULERA 100 mcg/5 mcg (n=13), DULERA 200 mcg/5 mcg (n=15) and fluticasone propionate/salmeterol xinafoate 230 mcg/21 mcg (n=16) treatment groups, respectively.
@@ -148,7 +148,7 @@ Special Populations
 
 Hepatic/Renal Impairment: There are no data regarding the specific use of DULERA in patients with hepatic or renal impairment.
 
-A study evaluating the administration of a single inhaled dose of 400 mcg mometasone furoate by a dry powder inhaler to subjects with mild (n=4), moderate (n=4), and severe (n=4) hepatic impairment resulted in only 1 or 2 subjects in each group having detectable peak plasma concentrations of mometasone furoate (ranging from 50–105 pcg/mL).
+A study evaluating the administration of a single inhaled dose of 400 mcg mometasone furoate by a dry powder inhaler to patients with mild (n=4), moderate (n=4), and severe (n=4) hepatic impairment resulted in only 1 or 2 patients in each group having detectable peak plasma concentrations of mometasone furoate (ranging from 50–105 pcg/mL).
 The observed peak plasma concentrations appear to increase with severity of hepatic impairment; however, the numbers of detectable levels were few.
 
 Gender and Race: Specific studies to examine the effects of gender and race on the pharmacokinetics of DULERA have not been specifically studied.

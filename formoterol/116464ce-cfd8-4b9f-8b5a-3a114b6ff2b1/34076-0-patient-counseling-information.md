@@ -1,12 +1,11 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Medication Guide and Instructions for Use).
+Advise the patient to read the FDA-approved patient labeling (Patient Information and Instructions for Use).
 
-Asthma-Related Death
+Serious Asthma-Related Events
 
-Patients should be informed that formoterol, one of the active ingredients in DULERA, increases the risk of asthma-related death.
-In pediatric and adolescent patients, formoterol may increase the risk of asthma-related hospitalization.
-They should also be informed that data are not adequate to determine whether the concurrent use of inhaled corticosteroids, the other component of DULERA, or other long-term asthma-control therapy mitigates or eliminates this risk [see Warnings and Precautions (5.1)].
+Inform patients with asthma that LABA when used alone increases the risk of asthma-related hospitalization, or asthma-related death.
+Available data show that when ICS and LABA are used together, such as with DULERA, there is not a significant increase in risk of these events.
 
 Not for Acute Symptoms
 
@@ -58,9 +57,11 @@ Instructions for Use
 
 Patients should be instructed regarding the following:
 
-- Read the Medication Guide before use and follow the Instructions for Use carefully.
+- Read the Patient Information before use and follow the Instructions for Use carefully.
 - Patients should be reminded to:
   - Remove the cap from the mouthpiece of the actuator before use.
+  - Rinse their mouth with water after breathing in the medicine.
+    To spit out the water and not to swallow it.
   - Not remove the canister from the actuator.
   - Not wash inhaler in water.
     The mouthpiece should be cleaned using a dry wipe after every 7 days of use.

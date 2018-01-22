@@ -1,9 +1,9 @@
 # 6 ADVERSE REACTIONS
 
-Long-acting beta2-adrenergic agonists, such as formoterol, one of the active ingredients in DULERA, increase the risk of asthma-related death.
-Currently available data are inadequate to determine whether concurrent use of inhaled corticosteroids or other long-term asthma control drugs mitigates the increased risk of asthma-related death from LABA.
-Available data from controlled clinical trials suggest that LABA increase the risk of asthma-related hospitalization in pediatric and adolescent patients.
-Data from a large placebo-controlled US trial that compared the safety of another long-acting beta2-adrenergic agonist (salmeterol) or placebo added to usual asthma therapy showed an increase in asthma-related deaths in patients receiving salmeterol [see Warnings and Precautions (5.1)].
+LABA use may result in the following:
+
+- Serious asthma-related events – hospitalizations, intubations, and death [see Warnings and Precautions (5.1)].
+- Cardiovascular and central nervous system effects [see Warnings and Precautions (5.11)].
 
 Systemic and local corticosteroid use may result in the following:
 
@@ -23,9 +23,9 @@ In the 12 to 26-week clinical trials, the population was 12 to 84 years of age, 
 Patients received two inhalations twice daily of DULERA (100 mcg/5 mcg or 200 mcg/5 mcg), mometasone furoate MDI (100 mcg or 200 mcg), formoterol MDI (5 mcg) or placebo.
 In the long-term 52-week active-comparator safety trial, the population was 12 years to 75 years of age with asthma, 37% male and 63% female, 47% Caucasians, 53% non-Caucasians and received two inhalations twice daily of DULERA 100 mcg/5 mcg or 200 mcg/5 mcg, or an active comparator.
 
-The incidence of treatment emergent adverse reactions associated with DULERA in Table 1 below is based upon pooled data from 2 clinical trials 12 to 26 weeks in duration in patients 12 years and older treated with two inhalations twice daily of DULERA (100 mcg/5 mcg or 200 mcg/5 mcg), mometasone furoate MDI (100 mcg or 200 mcg), formoterol MDI (5mcg) or placebo.
+The incidence of treatment emergent adverse reactions associated with DULERA in Table 2 below is based upon pooled data from 2 clinical trials 12 to 26 weeks in duration in patients 12 years and older treated with two inhalations twice daily of DULERA (100 mcg/5 mcg or 200 mcg/5 mcg), mometasone furoate MDI (100 mcg or 200 mcg), formoterol MDI (5mcg) or placebo.
 
-Table 1: Treatment-Emergent Adverse Reactions in DULERA Groups Occurring at an Incidence of ≥3% and More Commonly than Placebo
+Table 2: Treatment-Emergent Adverse Reactions in DULERA Groups Occurring at an Incidence of ≥3% and More Commonly than Placebo
 
 | 100 mcg/5 mcg n=424 n (%) | 200 mcg/5 mcg n=255 n (%) | 100 mcg n=192 n (%) | 200 mcg n=240 n (%) | 5 mcg n=202 n (%) | n=196 n (%) |  |
 | --- | --- | --- | --- | --- | --- | --- |

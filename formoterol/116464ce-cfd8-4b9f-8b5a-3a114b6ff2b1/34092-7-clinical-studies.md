@@ -30,7 +30,7 @@ Clinically judged deteriorations in asthma or reductions in lung function were a
 Deteriorations in asthma were defined as any of the following: a 20% decrease in FEV1; a 30% decrease in PEF on two or more consecutive days; emergency treatment, hospitalization, or treatment with systemic corticosteroids or other asthma medications not allowed per protocol.
 Fewer patients who received DULERA 100 mcg/5 mcg reported an event compared to patients who received formoterol 5 mcg (p<0.001).
 
-Table 2: Trial 1 - Clinically Judged Deterioration in Asthma or Reduction in Lung FunctionIncludes only the first event day for each patient.
+Table 3: Trial 1 - Clinically Judged Deterioration in Asthma or Reduction in Lung FunctionIncludes only the first event day for each patient.
 Patients could have experienced more than one event criterion.
 
 |  | DULERA 100 mcg/ 5 mcgTwo inhalations, twice daily. (n=191) | Mometasone Furoate 100 mcg (n=192) | Formoterol 5 mcg (n=202) | Placebo (n=196) |
@@ -43,9 +43,9 @@ Patients could have experienced more than one event criterion.
 | Treatment with excluded asthma medicationThirty patients received glucocorticosteroids; 1 patient received formoterol via dry powder inhaler in the Formoterol 5 mcg group. | 2 (1%) | 4 (2%) | 17 (8%) | 8 (4%) |
 
 The change in mean trough FEV1 from baseline to Week 12 was assessed as another endpoint to evaluate the contribution of mometasone furoate 100 mcg to DULERA 100 mcg/5 mcg.
-A significantly greater increase in mean trough FEV1 was observed for DULERA 100 mcg/5 mcg compared to formoterol 5 mcg (the primary treatment comparison) as well as to placebo (Table 3).
+A significantly greater increase in mean trough FEV1 was observed for DULERA 100 mcg/5 mcg compared to formoterol 5 mcg (the primary treatment comparison) as well as to placebo (Table 4).
 
-Table 3: Trial 1 – Change in Trough FEV1 from Baseline to Week 12
+Table 4: Trial 1 – Change in Trough FEV1 from Baseline to Week 12
 
 | Treatment Arm | N | Baseline (L) | Change From Baseline at Week 12 (L) | Treatment Difference from Placebo (L) | P-Value vs. Placebo | P-Value vs. Formoterol |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -76,10 +76,10 @@ The primary efficacy endpoint was the mean change in FEV1 AUC(0-12 hr) from base
 Patients receiving DULERA 100 mcg/5 mcg and DULERA 200 mcg/5 mcg had significantly greater increases from baseline at Day 1 in mean FEV1 AUC(0-12 hr) compared to mometasone furoate 200 mcg.
 The difference was maintained over 12 weeks of therapy.
 
-Mean change in trough FEV1 from baseline to Week 12 was also assessed to evaluate the relative contribution of mometasone furoate to DULERA 100 mcg/5 mcg and DULERA 200 mcg/5 mcg (Table 4).
+Mean change in trough FEV1 from baseline to Week 12 was also assessed to evaluate the relative contribution of mometasone furoate to DULERA 100 mcg/5 mcg and DULERA 200 mcg/5 mcg (Table 5).
 A greater numerical increase in the mean trough FEV1 was observed for DULERA 200 mcg/5 mcg compared to DULERA 100 mcg/5 mcg and mometasone furoate 200 mcg.
 
-Table 4: Trial 2 – Change in Trough FEV1 from Baseline to Week 12
+Table 5: Trial 2 – Change in Trough FEV1 from Baseline to Week 12
 
 | Treatment Arm | N | Baseline (L) | Change from Baseline at Week 12 (L) |
 | --- | --- | --- | --- |
@@ -90,7 +90,7 @@ Table 4: Trial 2 – Change in Trough FEV1 from Baseline to Week 12
 Clinically judged deterioration in asthma or reduction in lung function was assessed as an additional endpoint.
 Fewer patients who received DULERA 200 mcg/5 mcg or DULERA 100/5 mcg compared to mometasone furoate 200 mcg alone reported an event, defined as in Trial 1 by any of the following: a 20% decrease in FEV1; a 30% decrease in PEF on two or more consecutive days; emergency treatment, hospitalization, or treatment with systemic corticosteroids or other asthma medications not allowed per protocol.
 
-Table 5: Trial 2 - Clinically Judged Deterioration in Asthma or Reduction in Lung FunctionIncludes only the first event day for each patient.
+Table 6: Trial 2 - Clinically Judged Deterioration in Asthma or Reduction in Lung FunctionIncludes only the first event day for each patient.
 Patients could have experienced more than one event criterion.
 
 |  | DULERA 100 mcg/ 5 mcgTwo inhalations, twice daily. (n=233) | DULERA 200 mcg/ 5 mcg (n=255) | Mometasone Furoate 200 mcg (n=240) |
@@ -106,3 +106,29 @@ Other Studies
 
 In addition to Trial 1 and Trial 2, the safety and efficacy of the individual components, mometasone furoate MDI 100 mcg and 200 mcg, in comparison to placebo were demonstrated in three other, 12-week, placebo controlled trials which evaluated the mean change in FEV1 from baseline as a primary endpoint.
 The safety and efficacy of formoterol MDI 5 mcg alone in comparison to placebo was replicated in another 26-week trial that evaluated a lower dose of mometasone furoate MDI in combination with formoterol.
+
+Postmarketing Safety and Efficacy Trial with DULERA
+
+This 26-week double-blind, randomized control trial evaluated 11,729 patients, 12 years of age and older, who received at least one dose of DULERA (100 mcg/5 mcg or 200/5 mcg, n=5868) or mometasone furoate monotherapy (100 mcg or 200 mcg, n=5861) each administered as 2 inhalations twice daily by metered dose inhalation aerosols (NCT01471340).
+The primary safety objective was to evaluate whether the addition of formoterol to mometasone furoate (DULERA) was non-inferior to mometasone furoate in risk of serious asthma-related events (adjudicated hospitalization, intubation, and death).
+A blinded adjudication committee determined whether events were asthma-related.
+The study was designed to rule out a pre-defined risk margin of 2.0.
+Enrolled patients had a diagnosis of persistent asthma, had been receiving a stable dose of asthma maintenance therapy for at least 4 weeks and had a history of one to four asthma exacerbations requiring hospitalization or systemic corticosteroid use in the previous year.
+The assigned dose level of inhaled corticosteroid was based on the patients' disease severity, considering their prior asthma medication and current level of asthma control.
+The study included patients ranging in age from 12 to 88 years (median age 47 years), and were 66% female and 77% Caucasian.
+
+DULERA was non-inferior to mometasone furoate in terms of time to first serious asthma-related event based on the pre-specified risk margin with an estimated hazard ratio of 1.22 [95% CI: 0.76, 1.94].
+
+Table 7: Serious Asthma-Related Event (Postmarketing Trial)
+
+|  | DULERAActual treatment used for analysis. n (%) | Mometasone Furoate n (%) | Total n (%) | DULERA vs. Mometasone Furoate |
+| --- | --- | --- | --- | --- |
+| Patients in population | 5868 | 5861 | 11,729 | Hazard RatioThe hazard ratio for time to first event was based on a Cox proportional hazard model with covariates of treatment (DULERA vs. mometasone furoate) and inhaled corticosteroid dose level (100 mcg vs. 200 mcg), as treated. (95% CI) |
+| Serious Asthma-related EventResults provided for all randomized patients who received at least one dose of DULERA (100 mcg/5 mcg and 200 mcg/5 mcg, two inhalations, prescribed twice daily) or mometasone furoate (100 mcg and 200 mcg, two inhalations, prescribed twice daily).,Number of patients with an event that occurred within 6 months after the first use of study drug or 7 days after the last date of study drug, whichever date was later. Patients can have one or more events, but only the first event was counted for analysis. A blinded adjudication committee determined whether events were asthma related. | 39 (0.66) | 32 (0.55) | 71 (0.6) | 1.22 (0.76, 1.94) |
+| Asthma-Related Hospitalization (≥24 hr stay) | 39 (0.66) | 32 (0.55) | 71 (0.6) |  |
+| Asthma-Related Intubation (Endotracheal) | 0 | 0 | 0 |  |
+| Asthma-Related Death | 0 | 0 | 0 |  |
+
+The key efficacy endpoint was time to first asthma exacerbation [defined as a clinical deterioration of asthma associated with systemic corticosteroid use for ≥3 consecutive days (or ≥1 depot injectable), emergency department visits <24 hours requiring systemic corticosteroid, or hospital stays of ≥24 hours].
+The estimated hazard ratio for time to first exacerbation for DULERA relative to mometasone furoate was 0.89 [95% CI: 0.8, 0.98].
+This outcome was primarily driven by a reduction in those events requiring systemic corticosteroid use, which accounted for 87% of the total number of first asthma exacerbations.

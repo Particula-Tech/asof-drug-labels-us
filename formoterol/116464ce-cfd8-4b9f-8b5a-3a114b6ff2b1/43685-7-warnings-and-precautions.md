@@ -1,20 +1,50 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Asthma-Related Death
+## 5.1 Serious Asthma-Related Events – Hospitalizations, Intubations, and Death
 
-Long-acting beta2-adrenergic agonists, such as formoterol, one of the active ingredients in DULERA, increase the risk of asthma-related death.
-Currently available data are inadequate to determine whether concurrent use of inhaled corticosteroids or other long-term asthma control drugs mitigates the increased risk of asthma-related death from LABA.
-Available data from controlled clinical trials suggest that LABA increase the risk of asthma-related hospitalization in pediatric and adolescent patients.
-Therefore, when treating patients with asthma, physicians should only prescribe DULERA for patients with asthma not adequately controlled on a long-term asthma control medication, such as an inhaled corticosteroid or whose disease severity clearly warrants initiation of treatment with both an inhaled corticosteroid and LABA.
-Once asthma control is achieved and maintained, assess the patient at regular intervals and step down therapy (e.g., discontinue DULERA) if possible without loss of asthma control, and maintain the patient on a long-term asthma control medication, such as an inhaled corticosteroid.
-Do not use DULERA for patients whose asthma is adequately controlled on low or medium dose inhaled corticosteroids.
+Use of LABA as monotherapy (without ICS) for asthma is associated with an increased risk of asthma-related death [see Salmeterol Multicenter Asthma Research Trial (SMART)].
+Available data from controlled clinical trials also suggest that use of LABA as monotherapy increases the risk of asthma-related hospitalization in pediatric and adolescent patients.
+These findings are considered a class effect of LABA monotherapy.
+When LABA are used in fixed-dose combination with ICS, data from large clinical trials do not show a significant increase in the risk of serious asthma-related events (hospitalizations, intubations, death) compared to ICS alone [see Serious Asthma-Related Events with ICS/LABA].
 
-A 28-week, placebo-controlled US study comparing the safety of salmeterol with placebo, each added to usual asthma therapy, showed an increase in asthma-related deaths in patients receiving salmeterol (13/13,176 in patients treated with salmeterol vs. 3/13,179 in patients treated with placebo; RR 4.37, 95% CI 1.25, 15.34).
-This finding with salmeterol is considered a class effect of the LABAs, including formoterol, one of the active ingredients in DULERA.
-No study adequate to determine whether the rate of asthma-related death is increased with DULERA has been conducted.
+Serious Asthma-Related Events with ICS/LABA
 
-Clinical studies with formoterol suggested a higher incidence of serious asthma exacerbations in patients who received formoterol fumarate than in those who received placebo.
-The sizes of these studies were not adequate to precisely quantify the differences in serious asthma exacerbation rates between treatment groups.
+Four large, 26-week, randomized, blinded, active-controlled clinical safety trials were conducted to evaluate the risk of serious asthma-related events when LABA were used in fixed-dose combination with ICS compared to ICS alone in patients with asthma.
+Three trials included adult and adolescent patients aged ≥12 years: one trial compared mometasone furoate/formoterol (DULERA) to mometasone furoate [see Clinical Studies (14.1)]; one trial compared fluticasone propionate/salmeterol inhalation powder to fluticasone propionate inhalation powder; and one trial compared budesonide/formoterol to budesonide.
+The fourth trial included pediatric patients 4 to 11 years of age and compared fluticasone propionate/salmeterol inhalation powder to fluticasone propionate inhalation powder.
+The primary safety endpoint for all four trials was serious asthma-related events (hospitalizations, intubations and death).
+A blinded adjudication committee determined whether events were asthma-related.
+
+The three adult and adolescent trials were designed to rule out a risk margin of 2.0, and the pediatric trial was designed to rule out a risk of 2.7.
+Each individual trial met its pre-specified objective and demonstrated non-inferiority of ICS/LABA to ICS alone.
+A meta-analysis of the three adult and adolescent trials did not show a significant increase in risk of a serious asthma-related event with ICS/LABA fixed-dose combination compared with ICS alone (Table 1).
+These trials were not designed to rule out all risk for serious asthma-related events with ICS/LABA compared with ICS.
+
+Table 1: Meta-Analysis of Serious Asthma-Related Events in Patients with Asthma Aged 12 Years and Older
+
+|  | ICS/LABA (N=17,537)Randomized patients who had taken at least 1 dose of study drug. Planned treatment used for analysis. | ICS (N=17,552) | ICS/LABA vs. ICS Hazard ratio (95% CI)Estimated using a Cox proportional hazards model for time to first event with baseline hazards stratified by each of the 3 trials. |
+| --- | --- | --- | --- |
+| Serious asthma-related eventNumber of patients with events that occurred within 6 months after the first use of study drug or 7 days after the last date of study drug, whichever date was later. Patients can have one or more events, but only the first event was counted for analysis. A single, blinded, independent adjudication committee determined whether events were asthma-related. | 116 | 105 | 1.10 (0.85, 1.44) |
+| Asthma-related death | 2 | 0 |  |
+| Asthma-related intubation (endotracheal) | 1 | 2 |  |
+| Asthma-related hospitalization (≥24 hour stay) | 115 | 105 |  |
+| ICS = Inhaled Corticosteroid, LABA = Long-acting Beta2-adrenergic Agonist. |  |  |  |
+
+The pediatric safety trial included 6208 pediatric patients 4 to 11 years of age who received ICS/LABA (fluticasone propionate/salmeterol inhalation powder) or ICS (fluticasone propionate inhalation powder).
+In this trial, 27/3107 (0.9%) patients randomized to ICS/LABA and 21/3101 (0.7%) patients randomized to ICS experienced a serious asthma-related event.
+There were no asthma-related deaths or intubations.
+ICS/LABA did not show a significantly increased risk of a serious asthma-related event compared to ICS based on the pre-specified risk margin (2.7), with an estimated hazard ratio of time to first event of 1.29 (95% CI: 0.73, 2.27).
+
+Salmeterol Multicenter Asthma Research Trial (SMART)
+
+A 28-week, placebo-controlled U.S. trial that compared the safety of salmeterol with placebo, each added to usual asthma therapy, showed an increase in asthma-related deaths in patients receiving salmeterol (13/13,176 in patients treated with salmeterol vs. 3/13,179 in patients treated with placebo; relative risk: 4.37 [95% CI: 1.25, 15.34]).
+Use of background ICS was not required in SMART.
+The increased risk of asthma-related death is considered a class effect of LABA monotherapy.
+
+Formoterol Monotherapy Studies
+
+Clinical studies with formoterol used as monotherapy suggested a higher incidence of serious asthma exacerbation in patients who received formoterol than in those who received placebo.
+The sizes of these studies were not adequate to precisely quantify the difference in serious asthma exacerbations between treatment groups.
 
 ## 5.2 Deterioration of Disease and Acute Episodes
 

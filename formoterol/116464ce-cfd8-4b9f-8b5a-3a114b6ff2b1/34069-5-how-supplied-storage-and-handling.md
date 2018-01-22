@@ -2,9 +2,9 @@
 
 ## 16.1 How Supplied
 
-DULERA is available in two strengths and supplied in the following package sizes (Table 6):
+DULERA is available in two strengths and supplied in the following package sizes (Table 8):
 
-Table 6
+Table 8
 
 | Package | NDC |
 | --- | --- |
@@ -16,7 +16,7 @@ Table 6
 Each strength is supplied as a pressurized aluminum canister that has a blue plastic actuator integrated with a dose counter and a green dust cap.
 Each 120-inhalation canister has a net fill weight of 13 grams and each 60-inhalation canister has a net fill weight of 8.8 grams.
 Each canister is placed into a carton.
-Each carton contains 1 canister and a Medication Guide.
+Each carton contains 1 canister and a Patient Information leaflet.
 
 Initially the dose counter will display "64" or "124" actuations.
 After the initial priming with 4 actuations, the dose counter will read "60" or "120" and the inhaler is now ready for use.

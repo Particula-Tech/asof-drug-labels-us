@@ -8,7 +8,7 @@ The trademarks depicted herein are owned by their respective companies.
 
 Copyright © 2010-2017 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-uspi-mk0887a-ao-1706r025
+uspi-mk0887a-ao-1712r026
 
 Patient Instructions for Use
 
@@ -84,6 +84,8 @@ After using your DULERA inhaler:
 
 - 11.Replace the cap over the mouthpiece right away after use (see Figure 5).
 - 12.After you finish taking DULERA (2 puffs), rinse your mouth with water.
+  Spit out the water.
+  Do not swallow it.
 
 Reading the counter
 
@@ -99,9 +101,9 @@ When to replace your DULERA:
 - Never try to change the numbers on the counter or remove the counter from the actuator.
 - Do not use the inhaler after the expiration date.
 
-How do I store DULERA?
+How should I store DULERA?
 
-- Store DULERA at room temperature between 59°F to 86°F (15°C to 30°C).
+- Store DULERA at room temperature between 68°F to 77°F (20°C to 25°C).
 - The 120-actuation inhaler can be stored in any position.
   For the 60-actuation inhaler, after priming, store the inhaler with the mouthpiece down or sideways.
 - The contents of your DULERA canister are under pressure.
@@ -127,14 +129,14 @@ Manufactured for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., 
 
 Manufactured by: 3M Health Care Ltd., Loughborough, United Kingdom.
 
-This Medication Guide has been approved by the U.S. Food and Drug Administration.
+This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
 For patent information: www.merck.com/product/patent/home.html
 
 The trademarks depicted herein are owned by their respective companies.
 
-Copyright © 2010 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
+Copyright © 2010-2017 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 04/2015
+Revised: 12/2017
 
-usmg-mk0887a-ao-1504r018
+usppi-mk0887a-ao-1712r000
