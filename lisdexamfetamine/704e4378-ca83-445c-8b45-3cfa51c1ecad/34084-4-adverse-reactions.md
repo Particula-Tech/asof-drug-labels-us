@@ -124,7 +124,11 @@ In controlled trials of patients ages 18 to 55 years, 5.1% (19/373) of VYVANSE-t
 No single adverse reaction led to discontinuation in 1% or more of VYVANSE-treated patients.
 Less commonly reported adverse reactions (less than 1% or less than twice rate of placebo) included increased heart rate, headache, abdominal pain upper, dyspnea, rash, insomnia, irritability, feeling jittery and anxiety.
 
+Adverse Reactions Occurring at an Incidence of ≥5% or More Among VYVANSE Treated Patients with BED in Clinical Trials
+
 The most common adverse reactions (incidence ≥5% and at a rate at least twice placebo) reported in adults were dry mouth, insomnia, decreased appetite, increased heart rate, constipation, feeling jittery, and anxiety.
+
+Adverse Reactions Occurring at an Incidence of 2% or More Among VYVANSE Treated Patients with BED in Clinical Trials
 
 Adverse reactions reported in the pooled controlled trials in adult patients (Study 11 and 12) treated with VYVANSE or placebo are presented in Table 4 below.
 
@@ -145,7 +149,7 @@ Table 4 Adverse Reactions Reported by 2% or More of Adult Patients with BED Taki
 | Vomiting | 2% | 1% |
 | Gastroenteritis | 2% | 1% |
 | Paresthesia | 2% | 1% |
-| Pruritis | 2% | 1% |
+| Pruritus | 2% | 1% |
 | Upper Abdominal Pain | 2% | 0% |
 | Energy Increased | 2% | 0% |
 | Urinary Tract Infection | 2% | 0% |
