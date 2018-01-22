@@ -1,6 +1,6 @@
 # ADVERSE REACTIONS
 
-During clinical studies and the foreign postmarketing experience with Migranal® (dihydroergotamine mesylate, USP) Nasal Spray there have been no fatalities due to cardiac events.
+During clinical studies and the foreign postmarketing experience with Dihydroergotamine Mesylate, USP Nasal Spray there have been no fatalities due to cardiac events.
 
 Serious cardiac events, including some that have been fatal, have occurred following use of the parenteral form of dihydroergotamine mesylate (D.H.E.
 45® Injection), but are extremely rare.
@@ -11,16 +11,16 @@ Fibrotic complications have been reported in association with long term use of i
 
 ## Incidence in Controlled Clinical Trials
 
-Of the 1,796 patients and subjects treated with Migranal® (dihydroergotamine mesylate, USP) Nasal Spray doses 2 mg or less in U.S. and foreign clinical studies, 26 (1.4%) discontinued because of adverse events.
+Of the 1,796 patients and subjects treated with Dihydroergotamine Mesylate, USP Nasal Spray doses 2 mg or less in U.S. and foreign clinical studies, 26 (1.4%) discontinued because of adverse events.
 The adverse events associated with discontinuation were, in decreasing order of frequency: rhinitis 13, dizziness 2, facial edema 2, and one each due to cold sweats, accidental trauma, depression, elective surgery, somnolence, allergy, vomiting, hypotension, and paraesthesia.
 
-The most commonly reported adverse events associated with the use of Migranal® (dihydroergotamine mesylate, USP) Nasal Spray during placebo-controlled, double-blind studies for the treatment of migraine headache and not reported at an equal incidence by placebo-treated patients were rhinitis, altered sense of taste, application site reactions, dizziness, nausea, and vomiting.
+The most commonly reported adverse events associated with the use of Dihydroergotamine Mesylate, USP Nasal Spray during placebo-controlled, double-blind studies for the treatment of migraine headache and not reported at an equal incidence by placebo-treated patients were rhinitis, altered sense of taste, application site reactions, dizziness, nausea, and vomiting.
 The events cited reflect experience gained under closely monitored conditions of clinical trials in a highly selected patient population.
 In actual clinical practice or in other clinical trials, these frequency estimates may not apply, as the conditions of use, reporting behavior, and the kinds of patients treated may differ.
 
-Migranal® (dihydroergotamine mesylate, USP) Nasal Spray was generally well tolerated.
+Dihydroergotamine Mesylate, USP Nasal Spray was generally well tolerated.
 In most instances these events were transient and self-limited and did not result in patient discontinuation from a study.
-The following table summarizes the incidence rates of adverse events reported by at least 1% of patients who received Migranal® (dihydroergotamine mesylate, USP) Nasal Spray for the treatment of migraine headaches during placebo-controlled, double-blind clinical studies and were more frequent than in those patients receiving placebo.
+The following table summarizes the incidence rates of adverse events reported by at least 1% of patients who received Dihydroergotamine Mesylate, USP Nasal Spray for the treatment of migraine headaches during placebo-controlled, double-blind clinical studies and were more frequent than in those patients receiving placebo.
 
 Table 3: Adverse events reported by at least 1% of the Migranal® (dihydroergotamine mesylate, USP) Nasal Spray treated patients and occurred more frequently than in the placebo-group in the migraine placebo-controlled trials
 
@@ -54,9 +54,9 @@ Table 3: Adverse events reported by at least 1% of the Migranal® (dihydroergota
 ## Other Adverse Events During Clinical Trials
 
 In the paragraphs that follow, the frequencies of less commonly reported adverse clinical events are presented.
-Because the reports include events observed in open and uncontrolled studies, the role of Migranal® (dihydroergotamine mesylate, USP) Nasal Spray in their causation cannot be reliably determined.
+Because the reports include events observed in open and uncontrolled studies, the role of Dihydroergotamine Mesylate, USP Nasal Spray in their causation cannot be reliably determined.
 Furthermore, variability associated with adverse event reporting, the terminology used to describe adverse events, etc., limit the value of the quantitative frequency estimates provided.
-Event frequencies are calculated as the number of patients who used Migranal® (dihydroergotamine mesylate, USP) Nasal Spray in placebo-controlled trials and reported an event divided by the total number of patients (n=1796) exposed to Migranal® (dihydroergotamine mesylate, USP) Nasal Spray.
+Event frequencies are calculated as the number of patients who used Dihydroergotamine Mesylate, USP Nasal Spray in placebo-controlled trials and reported an event divided by the total number of patients (n=1796) exposed to Dihydroergotamine Mesylate, USP Nasal Spray.
 All reported events are included except those already listed in the previous table, those too general to be informative, and those not reasonably associated with the use of the drug.
 Events are further classified within body system categories and enumerated in order of decreasing frequency using the following definitions: frequent adverse events are defined as those occurring in at least 1/100 patients; infrequent adverse events are those occurring in 1/100 to 1/1,000 patients; and rare adverse events are those occurring in fewer than 1/1,000 patients.
 
@@ -91,5 +91,7 @@ Application Site: Infrequent: local anesthesia.
 Voluntary reports of adverse events temporally associated with dihydroergotamine products used in the management of migraine that have been received since the introduction of the injectable formulation are included in this section save for those already listed above.
 Because of their source (open and uncontrolled clinical use), whether or not events reported in association with the use of dihydroergotamine are causally related to it cannot be determined.
 There have been reports of pleural and retroperitoneal fibrosis in patients following prolonged daily use of injectable dihydroergotamine mesylate.
-Dihydroergotamine mesylate, USP nasal spray is not recommended for prolonged daily use.
+Dihydroergotamine Mesylate, USP Nasal Spray is not recommended for prolonged daily use.
 (See DOSAGE AND ADMINISTRATION)
+
+To report SUSPECTED ADVERSE REACTIONS, contact Valeant Pharmaceuticals North America LLC, at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

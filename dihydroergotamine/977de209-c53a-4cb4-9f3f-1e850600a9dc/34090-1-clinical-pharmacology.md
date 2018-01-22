@@ -45,7 +45,7 @@ The decline of plasma dihydroergotamine is biphasic with a terminal half-life of
 ### Subpopulations
 
 No studies have been conducted on the effect of renal or hepatic impairment, gender, race, or ethnicity on dihydroergotamine pharmacokinetics.
-Dihydroergotamine mesylate, USP nasal spray is contraindicated in patients with severely impaired hepatic or renal function.
+Dihydroergotamine Mesylate, USP Nasal Spray is contraindicated in patients with severely impaired hepatic or renal function.
 (See CONTRAINDICATIONS)
 
 ### Interactions

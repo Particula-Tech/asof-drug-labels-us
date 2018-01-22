@@ -1,14 +1,14 @@
 # DOSAGE AND ADMINISTRATION
 
-The solution used in dihydroergotamine mesylate, USP nasal spray (4 mg/mL) is intended for intranasal use and must not be injected.
+The solution used in Dihydroergotamine Mesylate, USP Nasal Spray (4 mg/mL) is intended for intranasal use and must not be injected.
 
-In clinical trials, Migranal® (dihydroergotamine mesylate, USP) Nasal Spray has been effective for the acute treatment of migraine headaches with or without aura.
-One spray (0.5 mg) of dihydroergotamine mesylate, USP nasal spray should be administered in each nostril.
-Fifteen minutes later, an additional one spray (0.5 mg) of dihydroergotamine mesylate, USP nasal spray should be administered in each nostril, for a total dosage of four sprays (2.0 mg) of dihydroergotamine mesylate, USP nasal spray.
+In clinical trials, Dihydroergotamine Mesylate, USP Nasal Spray has been effective for the acute treatment of migraine headaches with or without aura.
+One spray (0.5 mg) of Dihydroergotamine Mesylate, USP Nasal Spray should be administered in each nostril.
+Fifteen minutes later, an additional one spray (0.5 mg) of Dihydroergotamine Mesylate, USP Nasal Spray should be administered in each nostril, for a total dosage of four sprays (2.0 mg) of Dihydroergotamine Mesylate, USP Nasal Spray.
 Studies have shown no additional benefit from acute doses greater than 2.0 mg for a single migraine administration.
 The safety of doses greater than 3.0 mg in a 24 hour period and 4.0 mg in a 7 day period has not been established.
 
-Dihydroergotamine mesylate, USP nasal spray, should not be used for chronic daily administration.
+Dihydroergotamine Mesylate, USP Nasal Spray, should not be used for chronic daily administration.
 
 Prior to administration, the pump must be primed (i.e., squeeze 4 times) before use.
 (See administration instructions).
