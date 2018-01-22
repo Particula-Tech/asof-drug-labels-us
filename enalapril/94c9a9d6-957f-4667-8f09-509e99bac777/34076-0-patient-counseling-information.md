@@ -31,6 +31,6 @@ VASOTEC is a registered trademark of Valeant International Bermuda.
 
 Manufactured For: Silvergate Pharmaceuticals, Inc. 6251 Greenwood Plaza Blvd., Suite 101 Greenwood Village, CO 80111
 
-U. S. Patent 8568747; 8778366
+U. S. Patents: 8568747; 8778366; 9855214
 
-EN-1706
+EN-1810
