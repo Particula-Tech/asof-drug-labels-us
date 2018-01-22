@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA209640"
+  ],
+  "inn": "docetaxel",
+  "labeler": "Amneal Biosciences LLC",
+  "package_ndcs": [
+    "70121-1221-1",
+    "70121-1222-1",
+    "70121-1223-1"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "docetaxel",
+      "name": "Docetaxel"
+    }
+  ],
+  "setid": "67508df6-b96f-46fa-a792-0afcdfa9810e",
+  "source": "dailymed"
+}
