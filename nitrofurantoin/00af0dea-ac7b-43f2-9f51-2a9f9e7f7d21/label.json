@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA009175"
+  ],
+  "inn": "nitrofurantoin",
+  "labeler": "Casper Pharma LLC",
+  "package_ndcs": [
+    "70199-006-32"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "nitrofurantoin",
+      "name": "Furadantin"
+    }
+  ],
+  "setid": "00af0dea-ac7b-43f2-9f51-2a9f9e7f7d21",
+  "source": "dailymed"
+}
