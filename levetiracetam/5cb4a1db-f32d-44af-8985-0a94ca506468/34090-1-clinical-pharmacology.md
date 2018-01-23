@@ -11,7 +11,7 @@ The predictive value of these animal models for specific types of human epilepsy
 
 In vitro and in vivo recordings of epileptiform activity from the hippocampus have shown that levetiracetam inhibits burst firing without affecting normal neuronal excitability, suggesting that levetiracetam may selectively prevent hypersynchronization of epileptiform burst firing and propagation of seizure activity.
 
-Levetiracetam at concentrations of up to 10 µM did not demonstrate binding affinity for a variety of known receptors, such as those associated with benzodiazepines, GABA (gamma-aminobutyric acid), glycine, NMDA (N- methyl-D-aspartate), re-uptake sites, and second messenger systems.
+Levetiracetam at concentrations of up to 10 µM did not demonstrate binding affinity for a variety of known receptors, such as those associated with benzodiazepines, GABA (gamma-aminobutyric acid), glycine, NMDA (N-methyl-D-aspartate), re-uptake sites, and second messenger systems.
 Furthermore, in vitro studies have failed to find an effect of levetiracetam on neuronal voltage-gated sodium or T-type calcium currents and levetiracetam does not appear to directly facilitate GABAergic neurotransmission.
 However, in vitro studies have demonstrated that levetiracetam opposes the activity of negative modulators of GABA- and glycine-gated currents and partially inhibits N-type calcium currents in neuronal cells.
 
@@ -100,10 +100,10 @@ Because levetiracetam is primarily renally excreted and there are no important r
 Renal Impairment
 
 The disposition of levetiracetam was studied in adult subjects with varying degrees of renal function.
-Total body clearance of levetiracetam is reduced in patients with impaired renal function by 40% in the mild group (CLcr = 50 to 80 mL/min), 50% in the moderate group (CLcr = 30 to 50 mL/min) and 60% in the severe renal impairment group (CLcr less than 30 mL/min).
+Total body clearance of levetiracetam is reduced in patients with impaired renal function by 40% in the mild group (CLcr = 50 to 80 mL/min), 50% in the moderate group (CLcr = 30 to 50 mL/min) and 60% in the severe renal impairment group (CLcr <30 mL/min).
 Clearance of levetiracetam is correlated with creatinine clearance.
 
-In anuric (end stage renal disease) patients, the total body clearance decreased 70% compared to normal subjects (CLcr greater than 80 mL/min).
+In anuric (end stage renal disease) patients, the total body clearance decreased 70% compared to normal subjects (CLcr >80 mL/min).
 Approximately 50% of the pool of levetiracetam in the body is removed during a standard 4-hour hemodialysis procedure [see Dosage and Administration (2.5)].
 
 Hepatic Impairment

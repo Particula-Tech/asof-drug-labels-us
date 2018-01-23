@@ -162,11 +162,11 @@ It may harm them.
 This Medication Guide summarizes the most important information about levetiracetam oral solution.
 If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about levetiracetam oral solution that is written for health professionals.
-You can also get information about levetiracetam oral solution by calling Actavis at 1-888-838-2872.
+You can also get information about levetiracetam oral solution by calling Actavis at 1-800-432-8534.
 
 What are the ingredients of levetiracetam oral solution?
 
-Levetiracetam oral solution active ingredient: Levetiracetam, USP
+Active ingredient: Levetiracetam, USP
 
 Inactive ingredients: ammonium glycyrrhizate, citric acid monohydrate, glycerin, maltitol solution, methylparaben, potassium acesulfame, propylparaben, purified water, sodium citrate dihydrate and natural and artificial flavor.
 
@@ -176,10 +176,10 @@ The liquid is dye-free.
 
 This Medication Guide has been approved by the US Food and Drug Administration.
 
-Manufactured by: G&W Laboratories, Inc. 111 Coolidge Street South Plainfield, NJ 07054 USA
+Manufactured by: G&W Laboratories, Inc. South Plainfield, NJ 07080 USA
 
 Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
-Revised – April 2017
+Revised – January 2018
 
-I602-1130 GW7217
+I602-1130 GW7254

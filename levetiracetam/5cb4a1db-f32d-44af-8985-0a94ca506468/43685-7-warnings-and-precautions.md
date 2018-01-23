@@ -49,7 +49,7 @@ Table 2: Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
 
 |  |  |  | Placebo Patients | Per 1,000 Patients |
 | --- | --- | --- | --- | --- |
-| Indication | Placebo Patients with | Drug Patients with | Relative Risk: Incidence | Risk Difference: Additional |
+| Indication | Placebo Patients with | Drug Patients with | Relative Risk: Incidence | Risk Difference: |
 |  | Events Per 1,000 | Events Per 1,000 | of Events in Drug | Additional Drug |
 |  | Patients | Patients | Patients/Incidence in | Patients with Events |
 | Epilepsy | 1.0 | 3.4 | 3.5 | 2.4 |
@@ -123,9 +123,9 @@ Antiepileptic drugs, including levetiracetam, should be withdrawn gradually to m
 ## 5.8 Hematologic Abnormalities
 
 Levetiracetam can cause hematologic abnormalities.
-Hematologic abnormalities occurred in clinical trials and included decreases in red blood cell (RBC) counts, hemoglobin, and hematocrit, and increases in eosinophil counts.
-Decreased white blood cell (WBC) and neutrophil counts also occurred in clinical trials.
-Cases of agranulocytosis have been reported in the postmarketing setting.
+Hematologic abnormalities occurred in clinical trials and included decreases in white blood cell (WBC), neutrophil, and red blood cell (RBC) counts; decreases in hemoglobin and hematocrit; and increases in eosinophil counts.
+Cases of agranulocytosis, pancytopenia, and thrombocytopenia have been reported in the postmarketing setting.
+A complete blood count is recommended in patients experiencing significant weakness, pyrexia, recurrent infections, or coagulation disorders.
 
 Partial Onset Seizures
 
@@ -150,7 +150,7 @@ In the controlled cognitive and neuropsychological safety study, 5 patients (8.6
 
 ## 5.9 Increase in Blood Pressure
 
-In a randomized, placebo-controlled study in patients 1 month to less than 4 years of age, a significantly higher risk of increased diastolic blood pressure was observed in the levetiracetam-treated patients (17%), compared to the placebo- treated patients (2%).
+In a randomized, placebo-controlled study in patients 1 month to less than 4 years of age, a significantly higher risk of increased diastolic blood pressure was observed in the levetiracetam-treated patients (17%), compared to the placebo-treated patients (2%).
 There was no overall difference in mean diastolic blood pressure between the treatment groups.
 This disparity between the levetiracetam and placebo treatment groups was not observed in the studies of older children or in adults.
 

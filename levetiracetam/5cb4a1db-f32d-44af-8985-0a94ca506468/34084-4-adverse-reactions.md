@@ -22,7 +22,7 @@ Adults
 In controlled clinical studies in adults with partial onset seizures, the most common adverse reactions in patients receiving levetiracetam in combination with other AEDs, for events with rates greater than placebo, were somnolence, asthenia, infection, and dizziness.
 Of the most common adverse reactions in adults experiencing partial onset seizures, asthenia, somnolence, and dizziness occurred predominantly during the first 4 weeks of treatment with levetiracetam.
 
-Table 3 lists adverse reactions that occurred in at least 1% of adult epilepsy patients receiving levetiracetam in placebo- controlled studies and were numerically more common than in patients treated with placebo.
+Table 3 lists adverse reactions that occurred in at least 1% of adult epilepsy patients receiving levetiracetam in placebo-controlled studies and were numerically more common than in patients treated with placebo.
 In these studies, either levetiracetam or placebo was added to concurrent AED therapy.
 
 Table 3: Adverse Reactions in Pooled Placebo-Controlled, Add-On Studies in Adults Experiencing Partial Onset Seizures
@@ -217,5 +217,5 @@ The following adverse reactions have been identified during postapproval use of 
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 The following adverse reactions have been reported in patients receiving marketed levetiracetam worldwide.
-The listing is alphabetized: abnormal liver function test, acute kidney injury, anaphylaxis, angioedema, choreoathetosis, drug reaction with eosinophilia and systemic symptoms (DRESS), dyskinesia, erythema multiforme, hepatic failure, hepatitis, hyponatremia, muscular weakness, pancreatitis, pancytopenia (with bone marrow suppression identified in some of these cases), panic attack, thrombocytopenia, and weight loss.
+The listing is alphabetized: abnormal liver function test, acute kidney injury, anaphylaxis, angioedema, agranulocytosis, choreoathetosis, drug reaction with eosinophilia and systemic symptoms (DRESS), dyskinesia, erythema multiforme, hepatic failure, hepatitis, hyponatremia, muscular weakness, pancreatitis, pancytopenia (with bone marrow suppression identified in some of these cases), panic attack, thrombocytopenia, and weight loss.
 Alopecia has been reported with levetiracetam use; recovery was observed in majority of cases where levetiracetam was discontinued.

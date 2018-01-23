@@ -52,7 +52,7 @@ Levetiracetam Oral Solution Weight-Based Dosing Calculation for Pediatric Patien
 
 The following calculation should be used to determine the appropriate daily dose of oral solution for pediatric patients:
 
-## 2.3 Dosing for Myoclonic Seizures in Patients 12 Years of Age and Older With Juvenile Myoclonic Epilepsy
+## 2.3 Dosing for Myoclonic Seizures in Patients 12 Years of Age and Older with Juvenile Myoclonic Epilepsy
 
 Initiate treatment with a dose of 1,000 mg/day, given as twice-daily dosing (500 mg twice daily).
 Increase the dosage by 1,000 mg/day every 2 weeks to the recommended daily dose of 3,000 mg.
@@ -88,9 +88,9 @@ Table 1: Dosing Adjustment Regimen for Adult Patients with Renal Impairment
 |  | (mL/min/1.73m2) |  |  |
 | --- | --- | --- | --- |
 | Group | Creatinine Clearance | Dosage (mg) | Frequency |
-| Normal | > 80 | 500 to 1,500 | Every 12 hours |
-| Mild | 50 – 80 | 500 to 1,000 | Every 12 hours |
-| Moderate | 30 – 50 | 250 to 750 | Every 12 hours |
-| Severe | < 30 | 250 to 500 | Every 12 hours |
-| ESRD patients using dialysis | – | 500 to 1,0001 | Every 24 hours1 |
+| Normal | >80 | 500 to 1,500 | Every 12 hours |
+| Mild | 50 to 80 | 500 to 1,000 | Every 12 hours |
+| Moderate | 30 to 50 | 250 to 750 | Every 12 hours |
+| Severe | <30 | 250 to 500 | Every 12 hours |
+| ESRD patients using dialysis | ---- | 500 to 1,0001 | Every 24 hours1 |
 | 1Following dialysis, a 250 mg to 500 mg supplemental dose is recommended |  |  |  |

@@ -4,7 +4,7 @@
 
 The highest known dose of levetiracetam received in the clinical development program was 6,000 mg/day.
 Other than drowsiness, there were no adverse reactions in the few known cases of overdose in clinical trials.
-Cases of somnolence, agitation, aggression, depressed level of consciousness, respiratory depression and coma were observed with levetiracetam in overdoses in postmarketing use.
+Cases of somnolence, agitation, aggression, depressed level of consciousness, respiratory depression and coma were observed with levetiracetam overdoses in postmarketing use.
 
 ## 10.2 Management of Overdose
 

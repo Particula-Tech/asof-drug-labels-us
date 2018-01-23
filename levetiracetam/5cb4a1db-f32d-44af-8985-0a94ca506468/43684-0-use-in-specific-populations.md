@@ -37,7 +37,7 @@ The effect of levetiracetam on labor and delivery in humans is unknown.
 ## 8.3 Nursing Mothers
 
 Levetiracetam is excreted in human milk.
-Because of the potential for serious adverse reactions in nursing infants from levetiracetam in, a decision should be made whether to discontinue nursing or discontinue the drug, taking into account the importance of the drug to the mother.
+Because of the potential for serious adverse reactions in nursing infants from levetiracetam, a decision should be made whether to discontinue nursing or discontinue the drug, taking into account the importance of the drug to the mother.
 
 ## 8.4 Pediatric Use
 

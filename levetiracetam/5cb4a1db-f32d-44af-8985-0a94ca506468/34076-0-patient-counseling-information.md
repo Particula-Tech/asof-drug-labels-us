@@ -29,10 +29,10 @@ Encourage patients to enroll in the North American Antiepileptic Drug (NAAED) pr
 This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
 To enroll, patients can call the toll free number 1-888-233-2334 [see Use in Specific Populations (8.1)].
 
-Manufactured by: G&W Laboratories, Inc. 111 Coolidge Street South Plainfield, NJ 07054 USA
+Manufactured by: G&W Laboratories, Inc. South Plainfield, NJ 07080 USA
 
 Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
-Revised – April 2017
+Revised – January 2018
 
-I602-1130 GW7217
+I602-1130 GW7254
