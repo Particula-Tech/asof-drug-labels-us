@@ -15,7 +15,7 @@ There were differences in absolute risk of suicidality across the different indi
 The risk differences (drug vs placebo), however, were relatively stable within age strata and across indications.
 These risk differences (drug-placebo difference in the number of cases of suicidality per 1000 patients treated) are provided in Table 1.
 
-TABLE 1
+Table 1
 
 | Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1000 Patients Treated |
 | --- | --- |
