@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA018965"
+  ],
+  "inn": "naproxen",
+  "labeler": "Athena Bioscience",
+  "package_ndcs": [
+    "71511-701-16"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "naproxen",
+      "name": "Naprosyn"
+    }
+  ],
+  "setid": "f9b4173d-7836-4d7d-b149-1d96f9377ad0",
+  "source": "dailymed"
+}
