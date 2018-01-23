@@ -27,7 +27,7 @@ Use of cytochrome P450 3A4 inducers, 3A4 inhibitors, or 2D6 inhibitors with acet
   The discontinuation of a cytochrome P450 2D6 inhibitor may result in a decrease in codeine plasma concentrations and an increase in the plasma concentration of the active metabolite, morphine, which could which could increase or prolong adverse reactions and may cause potentially fatal respiratory depression.
   Follow patients receiving acetaminophen and codeine phosphate tablets and any CYP2D6 inhibitor for signs and symptoms that may reflect opioid toxicity and opioid withdrawal when acetaminophen and codeine phosphate tablets are used in conjunction with inhibitors of CYP2D6 (see WARNINGS and PRECAUTIONS, Drug Interactions).
 
-Risks From Concomitant Use With Benzodiazepines Or Other CNS Depressants Concomitant use of opioids with benzodiazepines or other central nervous system (CNS) depressants, including alcohol, may result in profound sedation, respiratory depression, coma, and death (see WARNINGS and PRECAUTIONS, Drug Interactions).
+Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants Concomitant use of opioids with benzodiazepines or other central nervous system (CNS) depressants, including alcohol, may result in profound sedation, respiratory depression, coma, and death (see WARNINGS and PRECAUTIONS, Drug Interactions).
 
 - Reserve concomitant prescribing of acetaminophen and codeine phosphate tablets and benzodiazepines or other CNS depressants for use in patients for whom alternative treatment options are inadequate.
 - Limit dosages and durations to the minimum required.

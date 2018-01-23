@@ -225,7 +225,7 @@ Adrenal Insufficiency – Inform patients that opioids could cause adrenal insuf
 Adrenal insufficiency may present with non-specific symptoms and signs such as nausea, vomiting, anorexia, fatigue, weakness, dizziness, and low blood pressure.
 Advise patients to seek medical attention if they experience a constellation of these symptoms (see WARNINGS).
 
-Important Administration Instructions – Instruct patients how to properly take acetaminophen and codeine phosphate tablets (see DOSAGE and ADMINISTRATION).
+Important Administration Instructions – Instruct patients how to properly take acetaminophen and codeine phosphate tablets (see DOSAGE AND ADMINISTRATION).
 
 Maximum Daily Dose of Acetaminophen
 
@@ -369,8 +369,8 @@ In contrast, there was no evidence of carcinogenic activity in male rats that re
 
 Mutagenesis – Codeine sulfate was not mutagenic in the in vitro bacterial reverse mutation assay or clastogenic in the in vitro Chinese hamster ovary cell chromosome aberration assay.
 
-In the published literature, acetaminophen has been reported to be clastogenic when administered at 1500 mg/kg/day to the rat model (3.6-times the MHDD, based on a body surface area comparison).
-In contrast, no clastogenicity was noted at a dose of 750 mg/kg/day (1.8-times the MHDD, based on a body surface area comparison), suggesting a threshold effect.
+In the published literature, acetaminophen has been reported to be clastogenic when administered at 1500 mg/kg/day to the rat model (3.6 times the MHDD, based on a body surface area comparison).
+In contrast, no clastogenicity was noted at a dose of 750 mg/kg/day (1.8 times the MHDD, based on a body surface area comparison), suggesting a threshold effect.
 
 Impairment of Fertility – No nonclinical fertility studies have been conducted with codeine or the combination of codeine and acetaminophen.
 

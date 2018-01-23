@@ -20,7 +20,7 @@ PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
 Mallinckrodt™
 
-L00A28 Rev 12/2016
+L00A28 Rev 08/2017
 
 # PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 300 mg/30 mg Bottle
 
@@ -46,7 +46,7 @@ PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
 Mallinckrodt™
 
-L00A34 Rev 12/2016
+L00A34 Rev 08/2017
 
 # PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 300 mg/60 mg Bottle
 
@@ -72,4 +72,4 @@ PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
 Mallinckrodt™
 
-L00A37 Rev 12/2016
+L00A37 Rev 08/2017
