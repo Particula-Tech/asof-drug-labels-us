@@ -6,14 +6,12 @@ DEA Order Form Required.
 
 Mallinckrodt, the “M” brand mark and the Mallinckrodt Pharmaceuticals logo are trademarks of a Mallinckrodt company.
 
-© 2016 Mallinckrodt.
+© 2017 Mallinckrodt.
 
-Mallinckrodt Inc.
+SpecGx LLC Webster Groves, MO 63119 USA
 
-Hazelwood, MO 63042 USA
+Rev 09/2017
 
-Rev 09/2016
-
-Mallinckrodt™ Pharmaceutical
+Mallinckrodt™ Pharmaceuticals
 
 An electronic copy of this medication guide can be obtained from www.mallinckrodt.com/Medguide/L20D10.pdf or by calling 1-800-778-7898 for alternate delivery options.

@@ -155,10 +155,10 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Mallinckrodt, the “M” brand mark and the Mallinckrodt Pharmaceuticals logo are trademarks of a Mallinckrodt company.
 
-© 2016 Mallinckrodt.
+© 2017 Mallinckrodt.
 
-Mallinckrodt Inc. Hazelwood, MO 63042 USA
+SpecGx LLC Webster Groves, MO 63119 USA
 
-Rev 09/2016
+Rev 09/2017
 
-Mallinckrodt™ Pharmaceutical
+Mallinckrodt™ Pharmaceuticals
