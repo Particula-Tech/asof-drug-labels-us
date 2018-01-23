@@ -3,7 +3,6 @@
 General
 
 Systemic absorption of topical corticosteroids has produced reversible hypothalamic-pituitary-adrenal (HPA) axis suppression, manifestations of Cushing’s syndrome, hyperglycemia, and glucosuria in some patients.
-
 Conditions which augment systemic absorption include the application of the more potent steroids, use over large surface areas, prolonged use, and the addition of occlusive dressings.
 
 Therefore, patients receiving a large dose of a potent topical steroid applied to a large surface area or under an occlusive dressing should be evaluated periodically for evidence of HPA axis suppression by using the urinary free cortisol and ACTH stimulation tests.
@@ -12,7 +11,7 @@ If HPA axis suppression is noted, an attempt should be made to withdraw the drug
 Recovery of HPA axis function is generally prompt and complete upon discontinuation of the drug.
 Infrequently, signs and symptoms of steroid withdrawal may occur, requiring supplemental systemic corticosteroids.
 
-Children may absorb proportionally larger amounts of topical corticosteroids and thus be more susceptible to systemic toxicity (See PRECAUTIONS-Pediatric Use).
+Pediatric patients may absorb proportionally larger amounts of topical corticosteroids and thus be more susceptible to systemic toxicity (See PRECAUTIONS-Pediatric Use).
 
 If irritation develops, topical corticosteroids should be discontinued and appropriate therapy instituted.
 

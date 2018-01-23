@@ -5,7 +5,11 @@
   "inn": "hydrocortisone",
   "labeler": "Crown Laboratories",
   "package_ndcs": [
-    "0316-0186-01"
+    "0316-0186-01",
+    "0316-0186-16",
+    "0316-0193-16",
+    "0316-0193-20",
+    "0316-0193-30"
   ],
   "products": [
     {

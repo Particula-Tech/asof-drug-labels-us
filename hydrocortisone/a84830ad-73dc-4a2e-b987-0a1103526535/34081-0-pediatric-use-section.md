@@ -7,4 +7,4 @@ Manifestations of adrenal suppression in children include linear growth retardat
 Manifestations of intracranial hypertension include bulging fontanelles, headaches, and bilateral papilledema.
 
 Administration of topical corticosteroids to pediatric patients should be limited to the least amount compatible with an effective therapeutic regimen.
-Chronic corticosteroid therapy may interfere with the growth and development of children.
+Chronic corticosteroid therapy may interfere with the growth and development of pediatric patients.
