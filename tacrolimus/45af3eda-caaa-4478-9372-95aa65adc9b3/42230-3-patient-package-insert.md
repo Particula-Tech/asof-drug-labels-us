@@ -17,11 +17,11 @@ Tacrolimus capsules can cause serious side effects, including:
    Tacrolimus capsules can lower the ability of your immune system to fight infections.
    Serious infections can happen in people receiving tacrolimus capsules that can cause death.
    Call your doctor right away if you have symptoms of an infection such as:
-   1. •fever
-   2. •sweats or chills
-   3. •cough or flu-like symptoms
-   4. •muscle aches
-   5. •warm, red, or painful areas on your skin
+   1. 1.fever
+   2. 2.sweats or chills
+   3. 3.cough or flu-like symptoms
+   4. 4.muscle aches
+   5. 5.warm, red, or painful areas on your skin
 
 What are tacrolimus capsules?
 
@@ -80,22 +80,22 @@ How should I take tacrolimus capsules?
   For example, if you choose to take tacrolimus capsules with food, you should always take tacrolimus capsules with food.
 - •Take tacrolimus capsules at the same time each day, 12 hours apart.
   For example, if you take your first dose at 7:00 a.m. you should take your second dose at 7:00 p.m.
-  - oTaking tacrolimus capsules at the same time each day helps to keep enough medicine in your body to give your transplanted organ the around-the-clock medicine it needs.
+  - •Taking tacrolimus capsules at the same time each day helps to keep enough medicine in your body to give your transplanted organ the around-the-clock medicine it needs.
 - •Do not eat grapefruit or drink grapefruit juice while taking tacrolimus capsules.
 - •If you take too many tacrolimus capsules, call your doctor or go to the nearest hospital emergency room right away.
 
 What should I avoid while taking tacrolimus capsules?
 
 - •While you take tacrolimus capsules you should not receive any live vaccines such as:
-  - oflu vaccine through your nose
-  - omeasles
-  - omumps
-  - orubella
-  - opolio by mouth
-  - oBCG (TB vaccine)
-  - oyellow fever
-  - ochicken pox (varicella)
-  - otyphoid
+  - •flu vaccine through your nose
+  - •measles
+  - •mumps
+  - •rubella
+  - •polio by mouth
+  - •BCG (TB vaccine)
+  - •yellow fever
+  - •chicken pox (varicella)
+  - •typhoid
 - •Avoid exposure to sunlight and UV light such as tanning machines.
   Wear protective clothing and use a sunscreen.
 
@@ -106,36 +106,36 @@ Tacrolimus capsules may cause serious side effects, including:
 - •high blood sugar (diabetes).
   Your doctor may do certain tests to check for diabetes while you take tacrolimus capsules.
   Call your doctor right away if you have:
-  - ofrequent urination
-  - oincreased thirst or hunger
-  - oblurred vision
-  - oconfusion
-  - odrowsiness
-  - oloss of appetite
-  - ofruity smell on your breath
-  - onausea, vomiting, or stomach pain
+  - •frequent urination
+  - •increased thirst or hunger
+  - •blurred vision
+  - •confusion
+  - •drowsiness
+  - •loss of appetite
+  - •fruity smell on your breath
+  - •nausea, vomiting, or stomach pain
 - •kidney problems.
   Your doctor may do certain tests to check your kidney function while you take tacrolimus capsules.
 - •nervous system problems.
   Call your doctor right away if you get any of these symptoms while taking tacrolimus capsules.
   These could be signs of a serious nervous system problem:
-  - oconfusion
-  - ocoma
-  - omuscle tremors
-  - onumbness and tingling
-  - oheadache
-  - oseizures
-  - ovision changes
+  - •confusion
+  - •coma
+  - •muscle tremors
+  - •numbness and tingling
+  - •headache
+  - •seizures
+  - •vision changes
 - •high levels of potassium in your blood.
   Your doctor may do certain tests to check your potassium level while you take tacrolimus capsules.
 - •high blood pressure.
   Your doctor will monitor your blood pressure while you take tacrolimus capsules.
 - •heart problems (myocardial hypertrophy).
   Tell your doctor right away if you get any of these symptoms of heart problems while taking tacrolimus capsules:
-  - oshortness of breath
-  - ochest pain
-  - ofeel lightheaded
-  - ofeel faint
+  - •shortness of breath
+  - •chest pain
+  - •feel lightheaded
+  - •feel faint
 
 The most common side effects of tacrolimus capsules in people receiving kidney transplants are:
 
