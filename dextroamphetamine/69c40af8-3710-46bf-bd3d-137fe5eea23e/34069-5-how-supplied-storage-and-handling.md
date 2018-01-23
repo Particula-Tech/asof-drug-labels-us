@@ -8,15 +8,15 @@ Available: 5 mg, 10 mg, and 15 mg in bottles of 100.
 
 5 mg Bottles of 100……………….NDC 0406-8960-01 10 mg Bottles of 100……………….NDC 0406-8961-01 15 mg Bottles of 100……………….NDC 0406-8962-01 Store at 20º to 25ºC (68º to 77ºF) [see USP Controlled Room Temperature].
 Dispense in a tight, light-resistant container with a child-resistant closure.
-Dextroamphetamine Sulfate Extended-Release Capsules are manufactured by Mallinckrodt Inc., Hobart, NY 13788.
 
 Mallinckrodt, the “M” brand mark, the Mallinckrodt Pharmaceuticals logo and are trademarks of a Mallinckrodt company.
 
 © 2017 Mallinckrodt.
-Mallinckrodt Inc. Hazelwood, MO 63042 USA
+
+SpecGx LLC Webster Groves, MO 63119 USA
+
+Rev 10/2017
 
 Mallinckrodt™ Pharmaceuticals
-
-Rev 02/2017
 
 An electronic copy of this medication guide can be obtained from www.mallinckrodt.com/Medguide/L20D09.pdf or by calling 1-800-778-7898 for alternate delivery options.

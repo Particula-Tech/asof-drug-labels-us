@@ -15,7 +15,7 @@ Mallinckrodt™
 
 L00D35
 
-Rev 04/2016
+Rev 09/2017
 
 # PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 10 mg capsule
 
@@ -27,7 +27,7 @@ Mallinckrodt™
 
 L00D38
 
-Rev 04/2016
+Rev 09/2017
 
 # PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 15 mg capsule
 
@@ -39,4 +39,4 @@ Mallinckrodt™
 
 L00D41
 
-Rev 04/2016
+Rev 09/2017
