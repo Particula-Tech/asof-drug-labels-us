@@ -33,11 +33,11 @@ Rx Only
 
 PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
-Distributed by: Mallinckrodt Brand Pharmaceuticals, Inc. Hazelwood, MO 63042 USA
+Distributed by: SpecGx LLC Webster Groves, MO 63119 USA
 
 Mallinckrodt™
 
-960B10 Rev 12/2016
+960B10 Rev 08/2017
 
 # PRINCIPAL DISPLAY PANEL - 30 mg
 
@@ -53,8 +53,8 @@ Rx Only
 
 PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
-Distributed by: Mallinckrodt Brand Pharmaceuticals, Inc. Hazelwood, MO 63042 USA
+Distributed by: SpecGx LLC Webster Groves, MO 63119 USA
 
 Mallinckrodt™
 
-961B10 Rev 12/2016
+961B10 Rev 08/2017

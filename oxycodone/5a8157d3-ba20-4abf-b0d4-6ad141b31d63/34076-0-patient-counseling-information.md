@@ -86,14 +86,16 @@ Disposal of Unused ROXICODONE
 
 Advise patients to dispose of unused ROXICODONE by flushing the tablets down the toilet or disposing of in accordance with local state guidelines and/or regulations.
 
-Mallinckrodt, the “M” brand mark, the Mallinckrodt Pharmaceuticals logo and other brands are trademarks of a Mallinckrodt company. © 2016 Mallinckrodt.
+Mallinckrodt, the “M” brand mark, the Mallinckrodt Pharmaceuticals logo and other brands are trademarks of a Mallinckrodt company.
 
-Distributed by: Mallinckrodt Brand Pharmaceuticals, Inc. Hazelwood, MO 63042 USA
+© 2017 Mallinckrodt.
+
+Distributed by: SpecGx LLC Webster Groves, MO 63119 USA
 
 To request medical information or to report suspected adverse reactions, contact Mallinckrodt at 1‑800‑778‑7898.
 
 960B00
 
-Rev 12/2016
+Rev 08/2017
 
 Mallinckrodt™ Pharmaceutical
