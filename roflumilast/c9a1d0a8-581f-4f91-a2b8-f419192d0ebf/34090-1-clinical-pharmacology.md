@@ -8,8 +8,8 @@ While the specific mechanism(s) by which DALIRESP exerts its therapeutic action 
 
 ## 12.2 Pharmacodynamics
 
-In COPD patients, 4-week treatment with DALIRESP 500 mcg oral once daily reduced sputum neutrophils and eosinophils by 31%, and 42%, respectively.
-In a pharmacodynamic study in healthy volunteers, DALIRESP 500 mcg once daily reduced the number of total cells, neutrophils and eosinophils found in bronchoalveolar lavage fluid following segmental pulmonary lipopolysaccharide (LPS) challenge by 35%, 38%, and 73%, respectively.
+In COPD patients, 4‑week treatment with DALIRESP 500 mcg oral once daily reduced sputum neutrophils and eosinophils by 31%, and 42%, respectively.
+In a pharmacodynamic study in healthy volunteers, DALIRESP 500 mcg once daily reduced the number of total cells, neutrophils and eosinophils found in bronchoalveolar lavage fluid following segmental pulmonary lipopolysaccharide (LPS) challenge by 35%, 38% and 73%, respectively.
 The clinical significance of these findings is unknown.
 
 ## 12.3 Pharmacokinetics
@@ -24,7 +24,7 @@ An in vitro study showed that roflumilast and roflumilast N-oxide did not inhibi
 Distribution
 
 Plasma protein binding of roflumilast and its N-oxide metabolite is approximately 99% and 97%, respectively.
-Volume of distribution for single-dose 500 mcg roflumilast is about 2.9 L/kg.
+Volume of distribution for single‑dose 500 mcg roflumilast is about 2.9 L/kg.
 Studies in rats with radiolabeled roflumilast indicate low penetration across the blood-brain barrier.
 
 Metabolism
@@ -46,28 +46,28 @@ Elimination
 
 The plasma clearance after short-term intravenous infusion of roflumilast is on average about 9.6 L/h.
 Following an oral dose, the median plasma effective half-life of roflumilast and its N-oxide metabolite are approximately 17 and 30 hours, respectively.
-Steady state plasma concentrations of roflumilast and its N-oxide metabolite are reached after approximately 4 days for roflumilast and 6 days for roflumilast N-oxide following once-daily dosing.
+Steady state plasma concentrations of roflumilast and its N-oxide metabolite are reached after approximately 4 days for roflumilast and 6 days for roflumilast N-oxide following once‑daily dosing.
 Following intravenous or oral administration of radiolabeled roflumilast, about 70% of the radioactivity was recovered in the urine.
 
 Special Populations
 
 Hepatic Impairment
 
-Roflumilast 250-mcg once daily for 14 days was studied in subjects with mild-to-moderate hepatic impairment classified as Child-Pugh A and B (8 subjects in each group).
+Roflumilast 250 mcg once daily for 14 days was studied in subjects with mild-to-moderate hepatic impairment classified as Child-Pugh A and B (8 subjects in each group).
 The AUC of roflumilast and roflumilast N-oxide were increased by 51% and 24%, respectively in Child-Pugh A subjects and by 92% and 41%, respectively, in Child-Pugh B subjects, as compared to age-, weight-, and gender-matched healthy subjects.
-The Cmax of roflumilast and roflumilast N-oxide were increased by 3% and 26%, respectively, in Child-Pugh A subjects and by 26% and 40%, respectively, in Child-Pugh B subjects, as compared to healthy subjects.
+The Cmax of roflumilast and roflumilast N-oxide were increased by 3% and 26%, respectively, in Child-Pugh A subjects and by 26% and 40%, respectively in Child-Pugh B subjects, as compared to healthy subjects.
 DALIRESP 500 mcg has not been studied in hepatically impaired patients.
 Clinicians should consider the risk-benefit of administering DALIRESP to patients who have mild liver impairment (Child-Pugh A). DALIRESP is not recommended for use in patients with moderate or severe liver impairment (Child-Pugh B or C) [see Contraindications (4) and Use in Specific Populations (8.6)].
 
 Renal Impairment
 
-In twelve subjects with severe renal impairment administered a single dose of 500 mcg roflumilast, roflumilast and roflumilast N-oxide AUCs were decreased by 21% and 7%, respectively, and Cmax were reduced by 16% and 12%, respectively.
+In twelve subjects with severe renal impairment administered a single dose of 500 mcg roflumilast, roflumilast and roflumilast N-oxide AUCs were decreased by 21% and 7%, respectively and Cmax were reduced by 16% and 12%, respectively.
 No dosage adjustment is necessary for patients with renal impairment [see Use in Specific Populations (8.7)].
 
 Age
 
 Roflumilast 500 mcg once daily for 15 days was studied in young, middle aged, and elderly healthy subjects.
-The exposure in elderly (>65 years of age) were 27% higher in AUC and 16% higher in Cmax for roflumilast and 19% higher in AUC and 13% higher in Cmax for roflumilast N-oxide than that in young volunteers (18-45 years old).
+The exposure in elderly (>65 years of age) were 27% higher in AUC and 16% higher in Cmax for roflumilast and 19% higher in AUC and 13% higher in Cmax for roflumilast-N-oxide than that in young volunteers (18-45 years old).
 No dosage adjustment is necessary for elderly patients [see Use in Specific Populations (8.5)].
 
 Gender
@@ -90,7 +90,7 @@ No dosage adjustment is necessary for race.
 Drug Interactions
 
 Drug interaction studies were performed with roflumilast and other drugs likely to be coadministered or drugs commonly used as probes for pharmacokinetic interaction [see Drug Interactions (7)].
-No significant drug interactions were observed when 500-mcg oral roflumilast was administered with inhaled salbutamol, formoterol, budesonide and oral montelukast, digoxin, theophylline, warfarin, sildenafil, midazolam, or antacids.
+No significant drug interactions were observed when 500 mcg oral roflumilast was administered with inhaled salbutamol, formoterol, budesonide and oral montelukast, digoxin, theophylline, warfarin, sildenafil, midazolam, or antacids.
 
 The effect of concomitant drugs on the exposure of roflumilast and roflumilast N-oxide is shown in the Figure 1 below.
 
@@ -107,12 +107,12 @@ Erythromycin: In an open-label crossover study in 16 healthy volunteers, the coa
 
 Ketoconazole: In an open-label crossover study in 16 healthy volunteers, the coadministration of a strong CYP3A4 inhibitor ketoconazole (200 mg twice daily for 13 days) with a single oral dose of 500 mcg DALIRESP resulted in 23% and 99% increase in Cmax and AUC for roflumilast, respectively, and a 38% reduction and 3% increase in Cmax and AUC for roflumilast N-oxide, respectively.
 
-Fluvoxamine: In an open-label crossover study in 16 healthy volunteers, the coadministration of dual CYP3A4/1A2 inhibitor fluvoxamine (50 mg daily for 14 days) with a single oral dose of 500 mcg DALIRESP showed a 12% and 156% increase in roflumilast Cmax and AUC along with a 210% decrease and 52% increase in roflumilast N-oxide Cmax and AUC, respectively.
+Fluvoxamine: In an open-label crossover study in 16 healthy volunteers, the coadministration of dual CYP 3A4/1A2 inhibitor fluvoxamine (50 mg daily for 14 days) with a single oral dose of 500 mcg DALIRESP showed a 12% and 156% increase in roflumilast Cmax and AUC along with a 210% decrease and 52% increase in roflumilast N-oxide Cmax and AUC, respectively.
 
-Enoxacin: In an open-label crossover study in 16 healthy volunteers, the coadministration of dual CYP3A4/1A2 inhibitor enoxacin (400 mg twice daily for 12 days) with a single oral dose of 500 mcg DALIRESP resulted in an increased Cmax and AUC of roflumilast by 20% and 56%, respectively.
+Enoxacin: In an open-label crossover study in 16 healthy volunteers, the coadministration of dual CYP 3A4/1A2 inhibitor enoxacin (400 mg twice daily for 12 days) with a single oral dose of 500 mcg DALIRESP resulted in an increased Cmax and AUC of roflumilast by 20% and 56%, respectively.
 Roflumilast N-oxide Cmax was decreased by 14% while roflumilast N-oxide AUC was increased by 23%.
 
-Cimetidine: In an open-label crossover study in 16 healthy volunteers, the coadministration of a dual CYP3A4/1A2 inhibitor cimetidine (400 mg twice daily for 7 days) with a single dose of 500 mcg oral DALIRESP resulted in a 46% and 85% increase in roflumilast Cmax and AUC; and a 4% decrease in Cmax and 27% increase in AUC for roflumilast N-oxide, respectively.
+Cimetidine: In an open-label crossover study in 16 healthy volunteers, the coadministration of a dual CYP 3A4/1A2 inhibitor cimetidine (400 mg twice daily for 7 days) with a single dose of 500 mcg oral DALIRESP resulted in a 46% and 85% increase in roflumilast Cmax and AUC; and a 4% decrease in Cmax and 27% increase in AUC for roflumilast N-oxide, respectively.
 
 Oral Contraceptives containing Gestodene and Ethinyl Estradiol:
 

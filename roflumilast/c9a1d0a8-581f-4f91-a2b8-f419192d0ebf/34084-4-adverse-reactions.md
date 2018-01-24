@@ -57,4 +57,4 @@ The safety profile of roflumilast reported during Trial 9 was consistent with th
 
 The following adverse reactions have been identified from spontaneous reports of DALIRESP received worldwide and have not been listed elsewhere.
 These adverse reactions have been chosen for inclusion due to a combination of seriousness, frequency of reporting or potential causal connection to DALIRESP.
-Because these adverse reactions were reported voluntarily from a population of uncertain size, it is not possible to estimate their frequency or establish a causal relationship to DALIRESP exposure: hypersensitivity reactions (including angioedema, urticaria, and rash), gynecomastia.
+Because these adverse reactions were reported voluntarily from a population of uncertain size, it is not possible to estimate their frequency or establish a causal relationship to DALIRESP exposure: hypersensitivity reactions (including angioedema, urticarial, and rash), gynecomastia.

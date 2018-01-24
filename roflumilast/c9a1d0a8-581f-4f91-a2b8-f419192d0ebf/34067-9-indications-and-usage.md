@@ -5,3 +5,5 @@ DALIRESP® is indicated as a treatment to reduce the risk of COPD exacerbations 
 Limitations of Use
 
 DALIRESP is not a bronchodilator and is not indicated for the relief of acute bronchospasm.
+
+DALIRESP 250 mcg is a starting dose, for the first 4 weeks of treatment only and is not the effective (therapeutic) dose.

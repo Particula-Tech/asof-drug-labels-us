@@ -2,10 +2,16 @@
 
 ## 16.1 How Supplied
 
-DALIRESP is supplied as white to off-white, round tablets, embossed with “D” on one side and “500” on the other side.
-Each tablet contains 500 mcg of roflumilast.
+DALIRESP 250 mcg is supplied as white to off-white, round tablets, embossed with “D” on one side and “250” on the other side.
 
-DALIRESP tablets are available:
+DALIRESP 250 mcg tablets are available:
+
+1. Blister pack 28: NDC 0310-0088-28
+2. 2X10 Unit Dose: NDC 0310-0088-39
+
+DALIRESP 500 mcg is supplied as white to off-white, round tablets, embossed with “D” on one side and “500” on the other side.
+
+DALIRESP 500 mcg tablets are available:
 
 1. Bottles of 30: NDC 0310-0095-30
 2. Bottles of 90: NDC 0310-0095-90
@@ -13,5 +19,5 @@ DALIRESP tablets are available:
 
 ## 16.2 Storage and Handling
 
-Store DALIRESP 500 mcg tablets at 20° - 25°C (68° - 77°F); excursions permitted to 15° - 30°C (59° - 86°F).
+Store DALIRESP tablets at 20° - 25°C (68° - 77°F); excursions permitted to 15° - 30°C (59° - 86°F).
 [See USP Controlled Room Temperature].

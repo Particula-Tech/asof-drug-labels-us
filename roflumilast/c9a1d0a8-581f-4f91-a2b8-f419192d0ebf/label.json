@@ -5,6 +5,9 @@
   "inn": "roflumilast",
   "labeler": "AstraZeneca Pharmaceuticals LP",
   "package_ndcs": [
+    "0310-0088-28",
+    "0310-0088-39",
+    "0310-0088-95",
     "0310-0095-30",
     "0310-0095-39",
     "0310-0095-90",

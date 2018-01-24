@@ -10,8 +10,9 @@ DALIRESP is not a bronchodilator and should not be used for immediate relief of 
 
 Treatment with DALIRESP is associated with an increase in psychiatric adverse reactions.
 Cases of suicidal ideation and behavior, including completed suicide, have been observed in the post-marketing setting in patients with or without a history of depression.
+
 The risks and benefits of treatment with DALIRESP in patients with a history of depression and/or suicidal thoughts or behavior should be carefully considered.
-Advise patients, caregivers, and families to be alert for the emergence or worsening of insomnia, anxiety, depression, suicidal thoughts, or other mood changes, and if such changes occur to contact their healthcare provider so that the risks and benefits of continuing treatment with DALIRESP may be considered [see Warnings and Precautions (5.2)].
+Advise patients, caregivers, and families to be alert for the emergence or worsening of insomnia, anxiety, depression, suicidal thoughts or other mood changes, and if such changes occur to contact their healthcare provider so that the risks and benefits of continuing treatment with DALIRESP may be considered [see Warnings and Precautions (5.2)].
 
 - •Weight Decrease
 
@@ -23,10 +24,10 @@ If unexplained weight loss occurs, patients should inform their healthcare provi
 - •Drug Interactions
 
 The use of cytochrome P450 enzyme inducers resulted in a reduction in exposure which may result in decreased therapeutic effectiveness of DALIRESP.
-The use of strong cytochrome P450 enzyme inducers (e.g., rifampicin, phenobarbital, carbamazepine, phenytoin) with DALIRESP is not recommended [see Drug Interactions (7.1) and Clinical Pharmacology (12.3)].
+The use of strong cytochrome P450 enzyme inducers (e.g., rifampicin, phenobarbital, carbamazepine, phenytoin) with DALIRESP is not recommended [see Drugs that Induce Cytochrome P450 (CYP) Enzymes (7.1) and Clinical Pharmacology (12.3)].
 
 Distributed by: AstraZeneca Pharmaceuticals LP, Wilmington, DE 19850
 
-Daliresp® is a registered trademark of AstraZeneca group of companies.
+Daliresp® is a registered trademark of the AstraZeneca group of companies.
 
 © AstraZeneca 2017

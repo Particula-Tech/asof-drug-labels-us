@@ -55,8 +55,8 @@ What should I tell my healthcare provider before taking DALIRESP?
 Before you take DALIRESP, tell your healthcare provider if you:
 
 - •have or have had a history of mental health problems including depression and suicidal behavior.
-- •have liver problems.
-- •have any other medical conditions.
+- •have liver problems
+- •have any other medical conditions
 - •are pregnant or plan to become pregnant.
   It is not known if DALIRESP will harm your unborn baby.
   Talk to your healthcare provider if you are pregnant or plan to become pregnant.

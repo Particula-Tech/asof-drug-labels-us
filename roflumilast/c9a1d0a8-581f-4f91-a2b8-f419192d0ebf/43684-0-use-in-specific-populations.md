@@ -44,7 +44,9 @@ DALIRESP induced stillbirth and decreased pup
 viability at doses corresponding to approximately 16 and 49 times, respectively, the MRHD (on a mg/m2
 
 basis at maternal doses >2 mg/kg/day and 6 mg/kg/day, respectively).
-DALIRESP induced delivery retardation in pregnant mice at doses greater or equal to approximately 16 times the MRHD (on a mg/m2 basis at maternal doses >2 mg/kg/day).
+DALIRESP induced delivery retardation in pregnant mice at doses greater or equal to approximately 16 times the MRHD (on a mg/m2
+
+basis at maternal doses >2 mg/kg/day).
 DALIRESP decreased pup rearing frequencies at approximately 49 times the MRHD (on a mg/m2 basis at a maternal dose of 6 mg/kg/day) during pregnancy and lactation.
 DALIRESP also decreased survival and forelimb grip reflex and delayed pinna detachment in mouse pups at approximately 97 times the MRHD (on a mg/m2 basis at a maternal dose of 12 mg/kg/day).
 
