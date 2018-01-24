@@ -2,60 +2,95 @@
 
 The following serious adverse reactions are described elsewhere in the labeling.
 
-- •APL Differentiation Syndrome [see Warnings and Precautions (5.1)]
-- •Cardiac Conduction Abnormalities: Torsade de Pointes, Complete Heart Block, and QT Prolongation [see Warnings and Precautions (5.2)]
-- •Carcinogenesis [see Warnings and Precautions (5.3)]
-- •Embryo-Fetal Toxicity [see Warnings and Precautions (5.4)]
+- Differentiation Syndrome [see Warnings and Precautions (5.1)]
+- Cardiac Conduction Abnormalities [see Warnings and Precautions (5.2)]
+- Hepatotoxicity [see Warnings and Precautions (5.3)]
+- Carcinogenesis [see Warnings and Precautions (5.4)]
+- Embryo-Fetal Toxicity [see Warnings and Precautions (5.5)]
 
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
+Newly-Diagnosed Low-Risk APL
+
+The safety evaluation of TRISENOX in combination with tretinoin is based on results from a randomized trial comparing TRISENOX plus tretinoin (n=129) versus chemotherapy plus tretinoin (n=137) in patients with newly-diagnosed APL (Study APL0406) [see Clinical Studies (14.1)].
+In the TRISENOX/tretinoin group, 98% of patients completed induction therapy and 89% completed at least three consolidation cycles.
+In the chemotherapy/tretinoin group, 96% completed induction therapy and 87% patients completed all three courses of consolidation therapy.
+
+Fatal adverse reactions were reported in 1 (1%) patient on the TRISENOX/tretinoin arm and 8 (6%) patients on the chemotherapy/tretinoin arm.
+TRISENOX/tretinoin was discontinued due to toxicity in 1 patient during induction and in 4 patients during the first three consolidation courses, whereas chemotherapy/tretinoin was discontinued due to toxicity in 4 patients during induction and in 6 patients during consolidation.
+Serious adverse reactions reported in 25% on the TRISENOX/ tretinoin arm and 24% on the chemotherapy/tretinoin arm.
+The serious adverse reactions reported in ≥ 2% of patients receiving TRISENOX/tretinoin were abnormal liver tests, differentiation syndrome, dyspnea, pneumonia, and other infections.
+
+Selected hematologic and nonhematologic toxicities that occurred during induction or consolidation are presented in Table 4 for the 129 patients treated with TRISENOX plus tretinoin and the 137 patients treated with chemotherapy plus tretinoin.
+
+Table 4: Selected Adverse Reactions of Trisenox in Combination with Tretinoin in Patients with Newly-Diagnosed APL
+
+|  | Induction | First Consolidation | Second Consolidation | Third Consolidation |
+| --- | --- | --- | --- | --- |
+| Adverse Reaction | n (%) | n (%) | n (%) | n (%) |
+| Thrombocytopenia > 15 days (Grade 3-4) |  |  |  |  |
+| TRISENOX/tretinoin | 74 (58%) | 6 (5%) | 6 (5%) | 8 (7%) |
+| Chemotherapy/tretinoin | 120 (88%) | 17 (14%) | 77 (63%) | 26 (22%) |
+| Neutropenia >15 days (Grade 3-4) |  |  |  |  |
+| TRISENOX/tretinoin | 61 (48%) | 8 (7%) | 7 (6%) | 5 (4%) |
+| Chemotherapy/tretinoin | 109 (80%) | 40 (32%) | 90 (73%) | 28 (24%) |
+| Hepatic toxicity (Grade 3-4) |  |  |  |  |
+| TRISENOX/tretinoin | 51 (40%) | 5 (4%) | 1 (1%) | 0 (0%) |
+| Chemotherapy/tretinoin | 4 (3%) | 1 (1%) | 0 (0%) | 0 (0%) |
+| Infection and fever of unknown origin |  |  |  |  |
+| TRISENOX/tretinoin | 30 (23%) | 10 (8%) | 4 (3%) | 2 (2%) |
+| Chemotherapy/tretinoin | 75 (55%) | 8 (6%) | 46 (38%) | 2 (2%) |
+| Hypertriglyceridemia |  |  |  |  |
+| TRISENOX/tretinoin | 29 (22%) | 22 (18%) | 17 (14%) | 16 (14%) |
+| Chemotherapy/tretinoin | 29 (22%) | 19 (15%) | 10 (8%) | 13 (11%) |
+| Hypercholesterolemia |  |  |  |  |
+| TRISENOX/tretinoin | 14 (10%) | 19 (16%) | 19 (16%) | 16 (14%) |
+| Chemotherapy/tretinoin | 12 (9%) | 12 (10%) | 12 (10%) | 11 (9%) |
+| QT prolongation |  |  |  |  |
+| TRISENOX/tretinoin | 11 (9%) | 3 (2%) | 3 (2%) | 2 (2%) |
+| Chemotherapy/tretinoin | 1 (1%) | 0 (0%) | 0 (0%) | 0 (0%) |
+| Gastrointestinal toxicity (Grade 3-4) |  |  |  |  |
+| TRISENOX/tretinoin | 3 (2%) | 0 (0%) | 0 (0%) | 0 (0%) |
+| Chemotherapy/tretinoin | 25 (18%) | 1 (1%) | 6 (5%) | 0 (0%) |
+| Neurotoxicity* |  |  |  |  |
+| TRISENOX/tretinoin | 1 (1%) | 5 (4%) | 6 (5%) | 7 (6%) |
+| Chemotherapy/tretinoin | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
+| Cardiac function (Grade 3-4) |  |  |  |  |
+| TRISENOX/tretinoin | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
+| Chemotherapy/tretinoin | 5 (4%) | 0 (0%) | 0 (0%) | 0 (0%) |
+
+*Mostly cases of reversible peripheral neuropathy
+
+Relapsed or Refractory APL
+
 Safety information was available for 52 patients with relapsed or refractory APL who participated in clinical trials of TRISENOX.
-Forty patients in the Phase 2 study received the recommended dose of 0.15 mg/kg of which 28 completed both induction and consolidation treatment cycles.
+Forty patients in the Phase 2 study received the recommended dose of 0.15 mg/kg, of whom 28 completed both induction and consolidation treatment cycles.
 An additional 12 patients with relapsed or refractory APL received doses generally similar to the recommended dose.
 Most patients experienced some drug-related toxicity, most commonly leukocytosis, gastrointestinal (nausea, vomiting, diarrhea, and abdominal pain), fatigue, edema, hyperglycemia, dyspnea, cough, rash or itching, headaches, and dizziness.
 These adverse effects have not been observed to be permanent or irreversible nor do they usually require interruption of therapy.
 
-Serious adverse events (SAEs), Grade 3/4 according to version 2 of the NCI Common Toxicity Criteria, were common.
+SAEs, Grade ≥3 according to version 2 of the NCI Common Toxicity Criteria, were common.
 Those SAEs attributed to TRISENOX in the Phase 2 study of 40 patients with refractory or relapsed APL included APL differentiation syndrome (n=3), hyperleukocytosis (n=3), QTc interval ≥ 500 msec (n=16, 1 with torsade de pointes), atrial dysrhythmias (n=2), and hyperglycemia (n=2).
 
-Table 1 describes the adverse events that were observed in patients, between the ages of 5-73 years, treated for APL with TRISENOX at the recommended dose at a rate of 5% or more.
-Similar adverse event profiles were seen in the other patient populations who received TRISENOX.
+Table 5 describes the adverse reactions that were observed in ≥ 5% patients, between the ages of 5-73 years, treated for APL with TRISENOX at the recommended dose.
+Similar adverse reactions profiles were seen in the other patient populations who received TRISENOX.
 
-Table 1
+Table 5: Adverse Reactions (Any Grade) Occurring in ≥ 5% of Patients Treated with TRISENOX Monotherapy for Relapsed or Refractory APL
 
-Adverse Events (Any Grade) Occurring in ≥ 5% of 40 Patients with APL Who Received
-
-TRISENOX (arsenic trioxide) Injection at a Dose of 0.15 mg/kg/day
-
-| System organ classAdverse event | All Adverse Events,Any Grade |  | Grade 3/4 Events |  |
-| --- | --- | --- | --- | --- |
 | n | % | n | % |  |
-| General disorders and administration site conditions |  |  |  |  |
-| Fatigue | 25 | 63 | 2 | 5 |
-| Pyrexia (fever) | 25 | 63 | 2 | 5 |
-| Edema - non-specific | 16 | 40 |  |  |
-| Rigors | 15 | 38 |  |  |
-| Chest pain | 10 | 25 | 2 | 5 |
-| Injection site pain | 8 | 20 |  |  |
-| Pain - non-specific | 6 | 15 | 1 | 3 |
-| Injection site erythema | 5 | 13 |  |  |
-| Injection site edema | 4 | 10 |  |  |
-| Weakness | 4 | 10 | 2 | 5 |
-| Hemorrhage | 3 | 8 |  |  |
-| Weight gain | 5 | 13 |  |  |
-| Weight loss | 3 | 8 |  |  |
-| Drug hypersensitivity | 2 | 5 | 1 | 3 |
+| --- | --- | --- | --- | --- |
+| Body System Adverse reaction | Any Grade Adverse Reactions |  | Grade ≥3 Adverse Reactions |  |
 | Gastrointestinal disorders |  |  |  |  |
 | Nausea | 30 | 75 |  |  |
-| Anorexia | 9 | 23 |  |  |
-| Appetite decreased | 6 | 15 |  |  |
-| Diarrhea | 21 | 53 |  |  |
-| Vomiting | 23 | 58 |  |  |
 | Abdominal pain (lower & upper) | 23 | 58 | 4 | 10 |
+| Vomiting | 23 | 58 |  |  |
+| Diarrhea | 21 | 53 |  |  |
 | Sore throat | 14 | 35 |  |  |
 | Constipation | 11 | 28 | 1 | 3 |
+| Anorexia | 9 | 23 |  |  |
+| Appetite decreased | 6 | 15 |  |  |
 | Loose stools | 4 | 10 |  |  |
 | Dyspepsia | 4 | 10 |  |  |
 | Oral blistering | 3 | 8 |  |  |
@@ -65,25 +100,6 @@ TRISENOX (arsenic trioxide) Injection at a Dose of 0.15 mg/kg/day
 | Abdominal tenderness | 3 | 8 |  |  |
 | Diarrhea hemorrhagic | 3 | 8 |  |  |
 | Abdominal distension | 3 | 8 |  |  |
-| Metabolism and nutrition disorders |  |  |  |  |
-| Hypokalemia | 20 | 50 | 5 | 13 |
-| Hypomagnesemia | 18 | 45 | 5 | 13 |
-| Hyperglycemia | 18 | 45 | 5 | 13 |
-| ALT increased | 8 | 20 | 2 | 5 |
-| Hyperkalemia | 7 | 18 | 2 | 5 |
-| AST increased | 5 | 13 | 1 | 3 |
-| Hypocalcemia | 4 | 10 |  |  |
-| Hypoglycemia | 3 | 8 |  |  |
-| Acidosis | 2 | 5 |  |  |
-| Nervous system disorders |  |  |  |  |
-| Headache | 24 | 60 | 1 | 3 |
-| Insomnia | 17 | 43 | 1 | 3 |
-| Paresthesia | 13 | 33 | 2 | 5 |
-| Dizziness (excluding vertigo) | 9 | 23 |  |  |
-| Tremor | 5 | 13 |  |  |
-| Convulsion | 3 | 8 | 2 | 5 |
-| Somnolence | 3 | 8 |  |  |
-| Coma | 2 | 5 | 2 | 5 |
 | Respiratory |  |  |  |  |
 | Cough | 26 | 65 |  |  |
 | Dyspnea | 21 | 53 | 4 | 10 |
@@ -98,7 +114,54 @@ TRISENOX (arsenic trioxide) Injection at a Dose of 0.15 mg/kg/day
 | Hemoptysis | 3 | 8 |  |  |
 | Tachypnea | 3 | 8 |  |  |
 | Rhonchi | 3 | 8 |  |  |
-| Skin & subcutaneous tissue disorders |  |  |  |  |
+| General disorders and administration site conditions |  |  |  |  |
+| Fatigue | 25 | 63 | 2 | 5 |
+| Pyrexia (fever) | 25 | 63 | 2 | 5 |
+| Edema - non-specific | 16 | 40 |  |  |
+| Rigors | 15 | 38 |  |  |
+| Chest pain | 10 | 25 | 2 | 5 |
+| Injection site pain | 8 | 20 |  |  |
+| Pain - non-specific | 6 | 15 | 1 | 3 |
+| Injection site erythema | 5 | 13 |  |  |
+| Weight gain | 5 | 13 |  |  |
+| Injection site edema | 4 | 10 |  |  |
+| Weakness | 4 | 10 | 2 | 5 |
+| Hemorrhage | 3 | 8 |  |  |
+| Weight loss | 3 | 8 |  |  |
+| Drug hypersensitivity | 2 | 5 | 1 | 3 |
+| Nervous system disorders |  |  |  |  |
+| Headache | 24 | 60 | 1 | 3 |
+| Insomnia | 17 | 43 | 1 | 3 |
+| Paresthesia | 13 | 33 | 2 | 5 |
+| Dizziness (excluding vertigo) | 9 | 23 |  |  |
+| Tremor | 5 | 13 |  |  |
+| Convulsion | 3 | 8 | 2 | 5 |
+| Somnolence | 3 | 8 |  |  |
+| Coma | 2 | 5 | 2 | 5 |
+| Cardiac disorders |  |  |  |  |
+| Tachycardia | 22 | 55 |  |  |
+| ECG QT corrected interval prolonged > 500 msec | 16 | 40 |  |  |
+| Palpitations | 4 | 10 |  |  |
+| ECG abnormal other than QT interval prolongation | 3 | 8 |  |  |
+| Metabolism and nutrition disorders |  |  |  |  |
+| Hypokalemia | 20 | 50 | 5 | 13 |
+| Hypomagnesemia | 18 | 45 | 5 | 13 |
+| Hyperglycemia | 18 | 45 | 5 | 13 |
+| ALT increased | 8 | 20 | 2 | 5 |
+| Hyperkalemia | 7 | 18 | 2 | 5 |
+| AST increased | 5 | 13 | 1 | 3 |
+| Hypocalcemia | 4 | 10 |  |  |
+| Hypoglycemia | 3 | 8 |  |  |
+| Acidosis | 2 | 5 |  |  |
+| Hematologic disorders |  |  |  |  |
+| Leukocytosis | 20 | 50 | 1 | 3 |
+| Anemia | 8 | 20 | 2 | 5 |
+| Thrombocytopenia | 7 | 18 | 5 | 13 |
+| Febrile neutropenia | 5 | 13 | 3 | 8 |
+| Neutropenia | 4 | 10 | 4 | 10 |
+| Disseminated intravascular coagulation | 3 | 8 | 3 | 8 |
+| Lymphadenopathy | 3 | 8 |  |  |
+| Skin and subcutaneous tissue disorders |  |  |  |  |
 | Dermatitis | 17 | 43 |  |  |
 | Pruritus | 13 | 33 | 1 | 3 |
 | Ecchymosis | 8 | 20 |  |  |
@@ -113,11 +176,23 @@ TRISENOX (arsenic trioxide) Injection at a Dose of 0.15 mg/kg/day
 | Urticaria | 3 | 8 |  |  |
 | Local exfoliation | 2 | 5 |  |  |
 | Eyelid edema | 2 | 5 |  |  |
-| Cardiac disorders |  |  |  |  |
-| Tachycardia | 22 | 55 |  |  |
-| ECG QT corrected interval prolonged > 500 msec | 16 | 40 |  |  |
-| Palpitations | 4 | 10 |  |  |
-| ECG abnormal other than QT interval prolongation | 3 | 8 |  |  |
+| Musculoskeletal, connective tissue, and bone disorders |  |  |  |  |
+| Arthralgia | 13 | 33 | 3 | 8 |
+| Myalgia | 10 | 25 | 2 | 5 |
+| Bone pain | 9 | 23 | 4 | 10 |
+| Back pain | 7 | 18 | 1 | 3 |
+| Neck pain | 5 | 13 |  |  |
+| Pain in limb | 5 | 13 | 2 | 5 |
+| Psychiatric disorders |  |  |  |  |
+| Anxiety | 12 | 30 |  |  |
+| Depression | 8 | 20 |  |  |
+| Agitation | 2 | 5 |  |  |
+| Confusion | 2 | 5 |  |  |
+| Vascular disorders |  |  |  |  |
+| Hypotension | 10 | 25 | 2 | 5 |
+| Flushing | 4 | 10 |  |  |
+| Hypertension | 4 | 10 |  |  |
+| Pallor | 4 | 10 |  |  |
 | Infections and infestations |  |  |  |  |
 | Sinusitis | 8 | 20 |  |  |
 | Herpes simplex | 5 | 13 |  |  |
@@ -127,31 +202,9 @@ TRISENOX (arsenic trioxide) Injection at a Dose of 0.15 mg/kg/day
 | Nasopharyngitis | 2 | 5 |  |  |
 | Oral candidiasis | 2 | 5 |  |  |
 | Sepsis | 2 | 5 | 2 | 5 |
-| Musculoskeletal, connective tissue and bone disorders |  |  |  |  |
-| Arthralgia | 13 | 33 | 3 | 8 |
-| Myalgia | 10 | 25 | 2 | 5 |
-| Bone pain | 9 | 23 | 4 | 10 |
-| Back pain | 7 | 18 | 1 | 3 |
-| Neck pain | 5 | 13 |  |  |
-| Pain in limb | 5 | 13 | 2 | 5 |
-| Hematologic disorders |  |  |  |  |
-| Leukocytosis | 20 | 50 | 1 | 3 |
-| Anemia | 8 | 20 | 2 | 5 |
-| Thrombocytopenia | 7 | 18 | 5 | 13 |
-| Febrile neutropenia | 5 | 13 | 3 | 8 |
-| Neutropenia | 4 | 10 | 4 | 10 |
-| Disseminated intravascular coagulation | 3 | 8 | 3 | 8 |
-| Lymphadenopathy | 3 | 8 |  |  |
-| Vascular disorders |  |  |  |  |
-| Hypotension | 10 | 25 | 2 | 5 |
-| Flushing | 4 | 10 |  |  |
-| Hypertension | 4 | 10 |  |  |
-| Pallor | 4 | 10 |  |  |
-| Psychiatric disorders |  |  |  |  |
-| Anxiety | 12 | 30 |  |  |
-| Depression | 8 | 20 |  |  |
-| Agitation | 2 | 5 |  |  |
-| Confusion | 2 | 5 |  |  |
+| Reproductive system disorders |  |  |  |  |
+| Vaginal hemorrhage | 5 | 13 |  |  |
+| Intermenstrual bleeding | 3 | 8 |  |  |
 | Ocular disorders |  |  |  |  |
 | Eye irritation | 4 | 10 |  |  |
 | Blurred vision | 4 | 10 |  |  |
@@ -162,27 +215,36 @@ TRISENOX (arsenic trioxide) Injection at a Dose of 0.15 mg/kg/day
 | Renal impairment | 3 | 8 |  |  |
 | Oliguria | 2 | 5 |  |  |
 | Incontinence | 2 | 5 |  |  |
-| Reproductive system disorders |  |  |  |  |
-| Vaginal hemorrhage | 5 | 13 |  |  |
-| Intermenstrual bleeding | 3 | 8 |  |  |
 | Ear disorders |  |  |  |  |
 | Earache | 3 | 8 |  |  |
 | Tinnitus | 2 | 5 |  |  |
 
-The following additional adverse events were reported as related to TRISENOX treatment in 13 pediatric patients (defined as ages 4 through 20): gastrointestinal (dysphagia, mucosal inflammation/stomatitis, oropharyngeal pain, caecitis), metabolic and nutrition disorders (hyponatremia, hypoalbuminemia, hypophosphatemia, and lipase increased), cardiac failure congestive, respiratory (acute respiratory distress syndrome, lung infiltration, pneumonitis, pulmonary edema, respiratory distress, capillary leak syndrome), neuralgia, and enuresis.
-Pulmonary edema (n=1) and caecitis (n=1) were considered serious reactions.
+Leukocytosis: TRISENOX in combination with tretinoin can induce proliferation of leukemic promyelocytes resulting in a rapid increase in white blood cell count.
+Leukocytosis greater than 10 Gi/L developed during induction therapy in 43% patients receiving TRISENOX/tretinoin for newly-diagnosed low-risk APL and in 50% of patients receiving TRISENOX monotherapy for relapsed/refractory APL.
+In the relapsed/refractory setting, a relationship did not exist between baseline WBC counts and development of hyperleukocytosis nor baseline WBC counts and peak WBC counts.
+Hyperleukocytosis due to TRISENOX may warrant treatment with hydroxyurea [see Dosage and Administration (2.2)].
 
 ## 6.2 Postmarketing Experience
 
 The following reactions have been reported from clinical trials and/or worldwide postmarketing surveillance.
 Because they are reported from a population of unknown size, precise estimates of frequency cannot be made.
 
-Cardiac disorders: ventricular extrasystoles in association with QT prolongation, and ventricular tachycardia in association with QT prolongation.
+Cardiac disorders: Ventricular extrasystoles in association with QT prolongation, ventricular tachycardia in association with QT prolongation, including torsade de pointes, atrioventricular block, and congestive heart failure
 
-Nervous system disorders: peripheral neuropathy
+Nervous system disorders: Peripheral neuropathy, paresis, seizures, confusion
 
-Hematologic disorders: pancytopenia
+Hematologic disorders: Pancytopenia, bone marrow necrosis
 
-Investigations: gamma-glutamyltransferase increased
+Infections and infestations: Herpes zoster
 
-Respiratory, thoracic, and mediastinal disorders: A differentiation syndrome, like retinoic acid syndrome, has been reported with the use of TRISENOX for the treatment of malignancies other than APL [see Boxed Warning].
+Investigations: Gamma-glutamyltransferase increased
+
+Musculoskeletal and connective tissue disorders: Bone pain, myalgia, rhabdomyolysis
+
+Respiratory, thoracic, and mediastinal disorders: Differentiation syndrome, like retinoic acid syndrome, has been reported with the use of TRISENOX for the treatment of malignancies other than APL [see Boxed Warning].
+
+Ear and labyrinth disorders: Deafness
+
+Neoplasms benign, malignant and unspecified: Melanoma, pancreatic cancer, squamous cell carcinoma
+
+Skin and subcutaneous tissue disorders: Toxic epidermal necrolysis
