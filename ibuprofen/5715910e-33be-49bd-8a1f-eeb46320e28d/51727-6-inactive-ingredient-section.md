@@ -1,3 +1,3 @@
 # Inactive ingredients
 
-carnauba wax, colloidal silicon dioxide, corn starch, FD&C yellow no. 6, hypromellose, iron oxide, magnesium stearate, polydextrose, polyethylene glycol, pregelatinized starch, propylene glycol, shellac, stearic acid, titanium dioxide
+colloidal silicon dioxide, corn starch, croscarmellose sodium, FD&C red no. 40 aluminum lake, FD&C yellow no. 6 aluminum lake, iron oxides, microcrystalline cellulose, polyethylene glycol, polyvinyl alcohol, stearic acid, talc, titanium dioxide

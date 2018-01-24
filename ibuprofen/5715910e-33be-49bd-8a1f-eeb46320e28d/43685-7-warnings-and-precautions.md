@@ -18,18 +18,18 @@ If an allergic reaction occurs, stop use and seek medical help right away.
 ## Stomach bleeding warning
 
 This product contains an NSAID, which may cause severe stomach bleeding.
-The chance is higher if you:
+The chances are higher if you
 
 - are age 60 or older
 - have had stomach ulcers or bleeding problems
 - take a blood thinning (anticoagulant) or steroid drug
-- take other drugs containing prescription or nonprescription NSAIDs (aspirin, ibuprofen, naproxen, or others)
+- take other drugs containing prescription or nonprescription NSAIDs [aspirin, ibuprofen, naproxen, or others]
 - have 3 or more alcoholic drinks every day while using this product
 - take more or for a longer time than directed
 
 ## Do not use
 
-- if you have ever had an allergic reaction to any other pain reliever/fever reducer
+- if you have ever had an allergic reaction to ibuprofen or any other pain reliever/fever reducer
 - right before or after heart surgery
 
 ## Ask a doctor before use if
@@ -54,7 +54,7 @@ The chance is higher if you:
 
 ## Stop use and ask a doctor if
 
-- you experience any of the following signs of stomach bleeding
+- you experience any of the following signs of stomach bleeding:
   - feel faint
   - vomit blood
   - have bloody or black stools
@@ -68,6 +68,5 @@ If pregnant or breast-feeding, ask a health professional before use.
 It is especially important not to use ibuprofen during the last 3 months of pregnancy unless definitely directed to do so by a doctor because it may cause problems in the unborn child or complications during delivery.
 
 Keep out of reach of children.
-
 In case of overdose, get medical help or contact a Poison Control Center right away.
 (1-800-222-1222)
