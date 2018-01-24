@@ -14,10 +14,10 @@ What is the most important information I should know about antidepressant medici
    Some people may have a particularly high risk of having suicidal thoughts or actions.
    These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
 3. 3.How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
-4. •Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
+4. 4.Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
    This is very important when an antidepressant medicine is started or when the dose is changed.
-5. •Call your healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
-6. •Keep all follow up visits with your healthcare provider as scheduled.
+5. 5.Call your healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
+6. 6.Keep all follow up visits with your healthcare provider as scheduled.
    Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.
 
 Call your healthcare provider right away if you or your family member has any of the following symptoms, especially if they are new, worse, or worry you:
@@ -95,8 +95,8 @@ You should also tell your healthcare provider about any symptoms you had during 
 What Other Important Information Should I Know About WELLBUTRIN XL?
 
 - •Seizures: There is a chance of having a seizure (convulsion, fit) with WELLBUTRIN XL, especially in people:
-  - owith certain medical problems.
-  - owho take certain medicines.
+  - •with certain medical problems.
+  - •who take certain medicines.
 
 The chance of having seizures increases with higher doses of WELLBUTRIN XL.
 For more information, see the sections “Who should not take WELLBUTRIN XL?” and “What should I tell my healthcare provider before takingWELLBUTRIN XL?”
@@ -111,13 +111,13 @@ Do not take WELLBUTRIN XL again if you have a seizure.
   The chance of high blood pressure may be higher if you also use nicotine replacement therapy (such as a nicotine patch) to help you stop smoking (see the section of this Medication Guide called “How should I take WELLBUTRIN XL?”).
 - •Manic episodes.
   Some people may have periods of mania while taking WELLBUTRIN XL, including:
-  - oGreatly increased energy
-  - oSevere trouble sleeping
-  - oRacing thoughts
-  - oReckless behavior
-  - oUnusually grand ideas
-  - oExcessive happiness or irritability
-  - oTalking more or faster than usual
+  - •Greatly increased energy
+  - •Severe trouble sleeping
+  - •Racing thoughts
+  - •Reckless behavior
+  - •Unusually grand ideas
+  - •Excessive happiness or irritability
+  - •Talking more or faster than usual
 
 If you have any of the above symptoms of mania, call your healthcare provider.
 
@@ -125,9 +125,9 @@ If you have any of the above symptoms of mania, call your healthcare provider.
   Some patients have unusual thoughts or behaviors while taking WELLBUTRIN XL, including delusions (believe you are someone else), hallucinations (seeing or hearing things that are not there), paranoia (feeling that people are against you), or feeling confused.
   If this happens to you, call your healthcare provider.
 - •Visual problems.
-  - oeye pain
-  - ochanges in vision
-  - oswelling or redness in or around the eye
+  - •eye pain
+  - •changes in vision
+  - •swelling or redness in or around the eye
 - Only some people are at risk for these problems.
   You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
 - •Severe allergic reactions.
@@ -153,8 +153,8 @@ Do not take WELLBUTRIN XL if you:
 - •drink a lot of alcohol and abruptly stop drinking, take medicines called sedatives (these make you sleepy) or benzodiazepines, or anti-seizure medicines, and you stop taking them all of a sudden.
 - •take a monoamine oxidase inhibitor (MAOI).
   Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
-  - odo not take an MAOI within 2 weeks of stopping WELLBUTRIN XL unless directed to do so by your healthcare provider.
-  - odo not start WELLBUTRIN XL if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your healthcare provider.
+  - •do not take an MAOI within 2 weeks of stopping WELLBUTRIN XL unless directed to do so by your healthcare provider.
+  - •do not start WELLBUTRIN XL if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your healthcare provider.
 - •are allergic to the active ingredient in WELLBUTRIN XL, bupropion, or to any of the inactive ingredients.
   See the end of this Medication Guide for a complete list of ingredients in WELLBUTRIN XL.
 
@@ -165,18 +165,18 @@ You should also tell your healthcare provider about any symptoms you had during 
 See “Quitting Smoking, Quit-Smoking Medications, Changes in Thinking and Behavior, Depression, and Suicidal Thoughts or Actions.”
 
 - •Tell your healthcare provider about your other medical conditions, including if you:
-- ohave liver problems, especially cirrhosis of the liver.
-- ohave kidney problems.
-- ohave, or have had, an eating disorder such as anorexia nervosa or bulimia.
-- ohave had a head injury.
-- ohave had a seizure (convulsion, fit).
-- ohave a tumor in your nervous system (brain or spine).
-- ohave had a heart attack, heart problems, or high blood pressure.
-- oare a diabetic taking insulin or other medicines to control your blood sugar.
-- odrink alcohol.
-- oabuse prescription medicines or street drugs.
-- oare pregnant or plan to become pregnant.
-- oare breastfeeding.
+- •have liver problems, especially cirrhosis of the liver.
+- •have kidney problems.
+- •have, or have had, an eating disorder such as anorexia nervosa or bulimia.
+- •have had a head injury.
+- •have had a seizure (convulsion, fit).
+- •have a tumor in your nervous system (brain or spine).
+- •have had a heart attack, heart problems, or high blood pressure.
+- •are a diabetic taking insulin or other medicines to control your blood sugar.
+- •drink alcohol.
+- •abuse prescription medicines or street drugs.
+- •are pregnant or plan to become pregnant.
+- •are breastfeeding.
   WELLBUTRIN XL passes into your milk in small amounts.
 
 Tell your healthcare provider about all the medicines you take, including prescription, over-the-counter medicines, vitamins, and herbal supplements.
@@ -204,9 +204,9 @@ How should I take WELLBUTRIN XL?
 - •It is not dangerous to smoke and take WELLBUTRIN XL at the same time.
   But, you will lower your chance of breaking your smoking habit if you smoke after the date you set to stop smoking.
 - •You may use WELLBUTRIN XL and nicotine patches (a type of nicotine replacement therapy) at the same time, following the precautions below.
-- oYou should only use WELLBUTRIN XL and nicotine patches together under the care of your healthcare provider.
+- •You should only use WELLBUTRIN XL and nicotine patches together under the care of your healthcare provider.
   Using WELLBUTRIN XL and nicotine patches together may raise your blood pressure, and sometimes this can be severe.
-- oTell your healthcare provider if you plan to use nicotine patches.
+- •Tell your healthcare provider if you plan to use nicotine patches.
   Your healthcare provider should check your blood pressure regularly if you use nicotine patches with WELLBUTRIN XL to help you quit smoking.
 - •If you miss a dose, do not take an extra dose to make up for the dose you missed.
   Wait and take your next dose at the regular time.
@@ -293,8 +293,8 @@ U.S. Patents 6,096,341; 7,537,784
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-9395604
+9395605
 
-20001958
+20002167
 
 Revised: 05/2017
