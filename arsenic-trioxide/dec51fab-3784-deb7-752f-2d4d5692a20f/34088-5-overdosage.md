@@ -2,7 +2,7 @@
 
 ## 10.1 Manifestations
 
-Manifestations of TRISENOX (arsenic trioxide) overdosage include convulsions, muscle weakness and confusion.
+Manifestations of TRISENOX (arsenic trioxide) overdosage include convulsions, muscle weakness, and confusion.
 
 ## 10.2 Management
 
