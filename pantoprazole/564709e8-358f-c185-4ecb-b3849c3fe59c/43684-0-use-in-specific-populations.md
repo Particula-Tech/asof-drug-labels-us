@@ -33,7 +33,7 @@ Based on the potential for tumorigenicity shown for pantoprazole sodium in roden
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of pantoprazole sodium for short-term treatment (up to eight weeks) of erosive esophagitis (EE) associated with GERD have been established in pediatric patients 1 year through 16 years of age.
+The safety and effectiveness of pantoprazole sodium for short-term treatment (up to eight weeks) of EE associated with GERD have been established in pediatric patients 1 year through 16 years of age.
 Effectiveness for EE has not been demonstrated in patients less than 1 year of age.
 In addition, for patients less than 5 years of age, there is no appropriate dosage strength in an age-appropriate formulation available.
 Therefore, pantoprazole sodium is indicated for the short-term treatment of EE associated with GERD for patients 5 years and older.
@@ -90,5 +90,5 @@ Full to partial recovery of these effects were noted in animals of both age grou
 
 ## 8.5 Geriatric Use
 
-In short-term U.S. clinical trials, erosive esophagitis healing rates in the 107 elderly patients (≥ 65 years old) treated with pantoprazole sodium were similar to those found in patients under the age of 65.
+In short-term U.S. clinical trials, EE healing rates in the 107 elderly patients (≥ 65 years old) treated with pantoprazole sodium were similar to those found in patients under the age of 65.
 The incidence rates of adverse reactions and laboratory abnormalities in patients aged 65 years and older were similar to those associated with patients younger than 65 years of age.
