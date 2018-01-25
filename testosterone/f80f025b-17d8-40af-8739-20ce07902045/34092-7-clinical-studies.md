@@ -9,17 +9,17 @@ The mean body mass index was 32 kg/m2.
 
 All patients received injections of Aveed 750 mg at baseline, at 4 weeks, and then every 10 weeks thereafter.
 
-The primary endpoint was the percentage of patients with average serum total testosterone concentration (Cavg) within the normal range (300-1000 ng/dL) after the third injection, at steady state.
+The primary endpoint was the percentage of patients with average serum total testosterone concentration (Cavg) within the normal range (300-1000 ng/dL) after the third injection, at steady-state.
 
 The secondary endpoint was the percentage of patients with maximum total testosterone concentration (Cmax) above three pre-determined limits: greater than 1500 ng/dL, between 1800 and 2499 ng/dL, and greater than 2500 ng/dL.
 
-A total of 117 out of 130 hypogonadal men completed study procedures through Week 24 and were included in the evaluation of testosterone pharmacokinetics after the third Aveed injection.
+A total of 117 out of 130 hypogonadal men completed study procedures through Week 24 and were included in the evaluation of testosterone pharmacokinetics after the 3rd Aveed injection.
 Ninety-four percent (94%) of patients maintained a Cavg within the normal range (300 to 1000 ng/dL).
 The percentages of patients with Cavg below the normal range (less than 300 ng/dL) and above the normal range (greater than 1000 ng/dL) were 5.1% and 0.9%, respectively.
 
 Table 2 summarizes the mean (SD) serum total testosterone pharmacokinetic parameters at steady state for these 117 patients.
 
-TABLE 2 Mean (SD) Serum Total Testosterone Concentrations at Steady State
+TABLE 2 Mean (SD) Serum Total Testosterone Concentrations at Steady-State
 
 | Pharmacokinetics at Steady State | Aveed 750 mg(N=117) |
 | --- | --- |

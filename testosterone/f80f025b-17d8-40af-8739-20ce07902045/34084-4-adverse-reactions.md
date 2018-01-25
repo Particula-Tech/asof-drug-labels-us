@@ -9,9 +9,7 @@ The most commonly reported adverse reactions (>2%) were: acne (5.2%), injection 
 
 Table 1 presents adverse reactions reported by ≥1% of patients in the 84-week clinical study.
 
-Table 1
-
-Adverse Reactions Reported in at Least 1% of Patients in the 84-Week Clinical Study of Aveed
+Table 1: Adverse Reactions Reported in at Least 1% of Patients in the 84-Week Clinical Study of Aveed
 
 | MedDRA Preferred term | Number of patients (%) |
 | --- | --- |
@@ -35,17 +33,17 @@ Adverse Reactions Reported in at Least 1% of Patients in the 84-Week Clinical St
 | Prostate induration | 2 (1.3%) |
 | Weight increased | 2 (1.3%) |
 
-*Prostate specific antigen increased defined as a serum PSA concentration >4 ng/mL.
+*Prostate-specific antigen increased defined as a serum PSA concentration >4 ng/mL.
 
 In the 84-week clinical trial, 7 patients (4.6%) discontinued treatment because of adverse reactions.
 Adverse reactions leading to discontinuation included: hematocrit increased, estradiol increased, prostatic specific antigen increased, prostate cancer, mood swings, prostatic dysplasia, acne, and deep vein thrombosis.
 
 During the 84-week clinical trial, the average serum PSA increased from 1.0 ± 0.8 ng/mL at baseline to 1.5 ± 1.3 ng/mL at the end of study.
-Fourteen patients (10.9%) in whom the baseline PSA was < 4 ng/mL had a post-baseline serum PSA of > 4 ng/mL during the 84-week treatment period.
+Fourteen (14)patients (10.9%) in whom the baseline PSA was < 4 ng/mL had a post-baseline serum PSA of > 4 ng/mL during the 84-week treatment period.
 
 A total of 725 hypogonadal men received intramuscular testosterone undecanoate in a total of 7 controlled clinical trials.
 In these clinical trials, the dose and dose frequency of intramuscular testosterone undecanoate varied from 750 mg to 1000 mg, and from every 9 weeks to every 14 weeks.
-Several of these clinical trials incorporated additional doses upon initiation of therapy (e.g., loading doses).
+Several of these clinical trials incorporated additional doses upon initiation of therapy (eg, loading doses).
 In addition to those adverse reactions noted in Table 1, the following adverse events were reported by at least 3% of patients in these trials, irrespective of the investigator’s assessment of relationship to study medication: sinusitis, prostatitis, arthralgia, nasopharyngitis, upper respiratory tract infection, bronchitis, back pain, hypertension, diarrhea and headache.
 
 Pulmonary Oil Microembolism (POME) and Anaphylaxis in Controlled Clinical Studies

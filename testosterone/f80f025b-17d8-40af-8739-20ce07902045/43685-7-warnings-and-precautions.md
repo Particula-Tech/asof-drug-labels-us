@@ -50,7 +50,7 @@ If a venous thromboembolic event is suspected, discontinue treatment with Aveed 
 
 ## 5.6 Cardiovascular Risk
 
-Long term clinical safety trials have not been conducted to assess the cardiovascular outcomes of testosterone replacement therapy in men.
+Long-term clinical safety trials have not been conducted to assess the cardiovascular outcomes of testosterone replacement therapy in men.
 To date, epidemiologic studies and randomized controlled trials have been inconclusive for determining the risk of major adverse cardiovascular events (MACE), such as non-fatal myocardial infarction, non-fatal stroke, and cardiovascular death, with the use of testosterone compared to non-use.
 Some studies, but not all, have reported an increased risk of MACE in association with use of testosterone replacement therapy in men.
 Patients should be informed of this possible risk when deciding whether to use or to continue to use Aveed.

@@ -31,7 +31,7 @@ The site for injection for Aveed is the gluteus medius muscle site located in th
 Care must be taken to avoid the needle hitting the superior gluteal arteries and sciatic nerve.
 Between consecutive injections, alternate the injection site between left and right buttock.
 
-Figure 1: Identifying the injection site
+Figure 1: Identifying the Injection Site
 
 Following antiseptic skin preparation, enter the muscle and maintain the syringe at a 90° angle with the needle in its deeply imbedded position.
 Grasp the barrel of the syringe firmly with one hand.
@@ -45,4 +45,4 @@ Withdraw the needle.
 Immediately upon removal of the needle from the muscle, apply gentle pressure with a sterile pad to the injection site.
 If there is bleeding at the site of injection, apply a bandage.
 
-Following each injection of Aveed, observe patients in the healthcare setting for 30 minutes in order to provide appropriate medical treatment in the event of serious POME reactions or anaphylaxis (5.1).
+Following each injection of Aveed, observe patients in the healthcare setting for 30 minutes in order to provide appropriate medical treatment in the event of serious POME reactions or anaphylaxis [see Warnings and Precautions (5.1)].
