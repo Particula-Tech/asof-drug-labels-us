@@ -5,8 +5,8 @@ Organon, Oss, The Netherlands, a subsidiary of Merck & Co., Inc., Whitehouse Sta
 
 For patent information: www.merck.com/product/patent/home.html
 
-Copyright © 2016 Merck Sharp & Dohme B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
+Copyright © 2017 Merck Sharp & Dohme B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 07/2016
+Revised: 11/2017
 
-uspi-mk8246-t-1607r010
+uspi-mk8246-t-1711r011
