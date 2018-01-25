@@ -191,8 +191,10 @@ For more information, ask your healthcare provider or pharmacist.
 Call your doctor for medical advice about side effects.
 You may report side effects to the FDA at 1-800-FDA-1088.
 How should I store sertraline hydrochloride tablets?
-Store sertraline hydrochloride tablets at room temperature, 20° to 25°C (68° to 77°F).
-Keep sertraline hydrochloride tablets bottle closed tightly.
+
+- Store sertraline hydrochloride tablets at room temperature, 20° to 25°C (68° to 77°F).
+- Keep sertraline hydrochloride tablets bottle closed tightly.
+
 Keep sertraline hydrochloride tablets and all medicines out of the reach of children.
 General information about the safe and effective use of sertraline hydrochloride tablets Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use sertraline hydrochloride tablets for a condition for which it was not prescribed.
@@ -210,4 +212,4 @@ Dispense with Medication Guide available at: www.aurobindousa.com/product-medica
 
 All brands listed are the trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
 
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad - 500 038, India Revised: 11/2017
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad - 500 038, India Revised: 01/2018

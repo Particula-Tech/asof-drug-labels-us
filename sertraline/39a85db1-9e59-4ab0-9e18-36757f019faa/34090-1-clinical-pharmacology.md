@@ -12,6 +12,11 @@ In vitro studies have shown that sertraline has no significant affinity for adre
 The chronic administration of sertraline was found in animals to down regulate brain norepinephrine receptors.
 Sertraline does not inhibit monoamine oxidase.
 Alcohol In healthy subjects, the acute cognitive and psychomotor effects of alcohol were not potentiated by sertraline hydrochloride.
+Cardiac Electrophysiology
+
+The effect of sertraline on the QTc interval was evaluated in a randomized, double-blind, placebo- and positive-controlled three-period crossover thorough QTc study in 54 healthy adult subjects.
+At 2-fold the maximum recommended daily dose (~3-fold the steady-state exposure for sertraline and N-desmethylsertraline), the largest mean ΔΔQTc was 10 ms with upper bound of two-sided 90% confidence interval of 12 ms. The length of the QTc interval was also positively correlated with serum concentrations of sertraline and N-desmethylsertraline concentrations.
+These concentration-based analyses, however, indicated a lesser effect on QTc at maximally observed concentration than in the primary analysis [See Warnings and Precautions (5), Adverse Reactions (6), Drug Interactions (7), Overdosage (10)].
 
 ## 12.3 Pharmacokinetics
 
@@ -48,7 +53,7 @@ In volunteers with mild to moderate (CLcr=30 to 60 mL/min), moderate to severe (
 Thus sertraline multiple dose pharmacokinetics appear to be unaffected by renal impairment [See Use in Specific Populations (8.7)].
 Drug Interaction Studies Pimozide In a controlled study of a single dose (2 mg) of pimozide, 200 mg sertraline hydrochloride (once daily) co-administration to steady state was associated with a mean increase in pimozide AUC and Cmax of about 40%, but was not associated with any changes in ECG.
 The highest recommended pimozide dose (10 mg) has not been evaluated in combination with sertraline hydrochloride.
-The effect on QT interval and PK parameters at doses higher than 2 mg of pimozide are not known [See Drug Interactions (7.1)].
+The effect on QTc interval and PK parameters at doses higher than 2 mg of pimozide are not known [See Drug Interactions (7.1)].
 Drugs Metabolized by CYP2D6 Many antidepressant drugs (e.g., SSRIs, including sertraline hydrochloride, and most tricyclic antidepressant drugs) inhibit the biochemical activity of the drug metabolizing isozyme CYP2D6 (debrisoquin hydroxylase), and, thus, may increase the plasma concentrations of co-administered drugs that are metabolized by CYP2D6.
 The drugs for which this potential interaction is of greatest concern are those metabolized primarily by CYP2D6 and that have a narrow therapeutic index (e.g., tricyclic antidepressant drugs and the Type 1C antiarrhythmics propafenone and flecainide).
 The extent to which this interaction is an important clinical problem depends on the extent of the inhibition of CYP2D6 by the antidepressant and the therapeutic index of the co-administered drug.
@@ -59,7 +64,8 @@ Cimetidine In a study assessing disposition of sertraline hydrochloride (100 mg)
 Diazepam In a study comparing the disposition of intravenously administered diazepam before and after 21 days of dosing with either sertraline hydrochloride (50 to 200 mg/day escalating dose) or placebo, there was a 32% decrease relative to baseline in diazepam clearance for the sertraline hydrochloride group compared to a 19% decrease relative to baseline for the placebo group (p<0.03).
 There was a 23% increase in Tmax for desmethyldiazepam in the sertraline hydrochloride group compared to a 20% decrease in the placebo group (p<0.03) [See Drug Interactions (7.2)].
 Lithium In a placebo-controlled trial in normal volunteers, the administration of two doses of sertraline hydrochloride did not significantly alter steady-state lithium levels or the renal clearance of lithium [See Drug Interactions (7.2)].
-Tolbutamide In a placebo-controlled trial in normal volunteers, administration of sertraline hydrochloride for 22 days (including 200 mg/day for the final 13 days) caused a statistically significant 16% decrease from baseline in the clearance of tolbutamide following an intravenous 1000 mg dose. sertraline hydrochloride administration did not noticeably change either the plasma protein binding or the apparent volume of distribution of tolbutamide, suggesting that the decreased clearance was due to a change in the metabolism of the drug [See Drug Interactions (7.2)].
+Tolbutamide In a placebo-controlled trial in normal volunteers, administration of sertraline hydrochloride for 22 days (including 200 mg/day for the final 13 days) caused a statistically significant 16% decrease from baseline in the clearance of tolbutamide following an intravenous 1000 mg dose.
+Sertraline hydrochloride administration did not noticeably change either the plasma protein binding or the apparent volume of distribution of tolbutamide, suggesting that the decreased clearance was due to a change in the metabolism of the drug [See Drug Interactions (7.2)].
 Atenolol Sertraline hydrochloride (100 mg) when administered to 10 healthy male subjects had no effect on the beta-adrenergic blocking ability of atenolol [See Drug Interactions (7.2)].
 Digoxin In a placebo-controlled trial in normal volunteers, administration of sertraline hydrochloride for 17 days (including 200 mg/day for the last 10 days) did not change serum digoxin levels or digoxin renal clearance [See Drug Interactions (7.2)].
 Drugs Metabolized by CYP3A4 In three separate in vivo interaction studies, sertraline hydrochloride was co-administered with CYP3A4 substrates, terfenadine, carbamazepine, or cisapride under steady-state conditions.

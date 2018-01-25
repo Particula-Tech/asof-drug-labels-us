@@ -21,7 +21,8 @@ Given the 24-hour elimination half-life of sertraline hydrochloride, the recomme
 
 ## 2.2 Dosage in Patients with PMDD
 
-The recommended starting sertraline hydrochloride dosage in adult women with PMDD is 50 mg per day. sertraline hydrochloride may be administered either continuously (every day throughout the menstrual cycle) or intermittently (only during the luteal phase of the menstrual cycle, i.e., starting the daily dosage 14 days prior to the anticipated onset of menstruation and continuing through the onset of menses).
+The recommended starting sertraline hydrochloride dosage in adult women with PMDD is 50 mg per day.
+Sertraline hydrochloride may be administered either continuously (every day throughout the menstrual cycle) or intermittently (only during the luteal phase of the menstrual cycle, i.e., starting the daily dosage 14 days prior to the anticipated onset of menstruation and continuing through the onset of menses).
 Intermittent dosing would be repeated with each new cycle.
 
 - When dosing continuously, patients not responding to a 50 mg dosage may benefit from dosage increases at 50 mg increments per menstrual cycle up to 150 mg per day.

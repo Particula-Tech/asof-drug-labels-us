@@ -13,7 +13,7 @@ Clinically-Significant Drug Interactions with Sertraline Hydrochloride
 | Intervention: | Sertraline hydrochloride is contraindicated in patients taking MAOIs, including MAOIs such as linezolid or intravenous methylene blue [See Dosage and Administration (2.5), Contraindications (4), Warnings and Precautions (5.2)]. |
 | Examples: | selegiline, tranylcypromine, isocarboxazid, phenelzine, linezolid, methylene blue |
 | Pimozide |  |
-| Clinical Impact: | Increased plasma concentrations of pimozide, a drug with a narrow therapeutic index, may increase the risk of QT prolongation and ventricular arrhythmias. |
+| Clinical Impact: | Increased plasma concentrations of pimozide, a drug with a narrow therapeutic index, may increase the risk of QTc prolongation and ventricular arrhythmias. |
 | Intervention: | Concomitant use of pimozide and sertraline hydrochloride is contraindicated [See Contraindications (4)]. |
 | Other Serotonergic Drugs |  |
 | Clinical Impact: | The concomitant use of serotonergic drugs with sertraline hydrochloride increases the risk of serotonin syndrome. |
@@ -35,6 +35,10 @@ Clinically-Significant Drug Interactions with Sertraline Hydrochloride
 | Clinical Impact: | Phenytoin is a narrow therapeutic index drug. Sertraline hydrochloride may increase phenytoin concentrations. |
 | Intervention: | Monitor phenytoin levels when initiating or titrating sertraline hydrochloride. Reduce phenytoin dosage if needed. |
 | Examples: | phenytoin, fosphenytoin |
+| Drugs that Prolong the QTc Interval |  |
+| Clinical Impact: | The risk of QTc prolongation and/or ventricular arrhythmias (e.g., TdP) is increased with concomitant use of other drugs which prolong the QTc interval [See Warnings and Precautions (5.10), Clinical Pharmacology (12.2)]. |
+| Intervention: | Pimozide is contraindicated for use with sertraline. Avoid the concomitant use of drugs known to prolong the QTc interval. |
+| Examples: | Specific antipsychotics (e.g., ziprasidone, iloperidone, chlorpromazine, mesoridazine, droperidol); specific antibiotics (e.g., erythromycin, gatifloxacin, moxifloxacin, sparfloxacin); Class 1A antiarrhythmic medications (e.g., quinidine, procainamide); Class III antiarrhythmics (e.g., amiodarone, sotalol); and others (e.g., pentamidine, levomethadyl acetate, methadone, halofantrine, mefloquine, dolasetron mesylate, probucol or tacrolimus). |
 
 ## 7.2 Drugs Having No Clinically Important Interactions with Sertraline Hydrochloride
 
