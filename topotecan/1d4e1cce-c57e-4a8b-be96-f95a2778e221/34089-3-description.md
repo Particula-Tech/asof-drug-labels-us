@@ -2,7 +2,7 @@
 
 Topotecan is a semi-synthetic derivative of camptothecin and is an anti-tumor drug with topoisomerase I-inhibitory activity.
 
-The chemical name for topotecan hydrochloride is (S)-10-[(dimethylamino)methyl]-4-ethyl-4,9-dihydroxy-1H-pyrano[3’,4’:6,7]indolizino[1,2-b]quinoline-3,14-(4H,12H)-dione 1.25 hydrochloride.
+The chemical name for topotecan hydrochloride is (S)-10-[(dimethylamino)methyl]-4-ethyl-4,9-dihydroxy-1H-pyrano[3',4':6,7]indolizino[1,2-b]quinoline-3,14-(4H,12H)-dione 1.25 hydrochloride.
 It has the molecular formula C23H23N3O5 nHCl (n=1.25) and a molecular weight of 467.02.
 Topotecan hydrochloride is soluble in water and melts with decomposition at 213°C to 218°C.
 As formulated in Topotecan injection, topotecan hydrochloride has the following structural formula:
