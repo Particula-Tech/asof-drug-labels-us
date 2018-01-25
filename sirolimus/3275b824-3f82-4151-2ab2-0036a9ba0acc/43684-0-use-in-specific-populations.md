@@ -9,7 +9,6 @@ In combination with cyclosporine, rats had increased embryo/feto mortality compa
 There were no effects on rabbit development at a maternally toxic dosage approximately 0.3 to 0.8 times the human doses (adjusted for body surface area).
 There are no adequate and well-controlled studies in pregnant women.
 Effective contraception must be initiated before Rapamune therapy, during Rapamune therapy, and for 12 weeks after Rapamune therapy has been stopped.
-Rapamune should be used during pregnancy only if the potential benefit outweighs the potential risk to the embryo/fetus.
 
 ## 8.3 Nursing Mothers
 
