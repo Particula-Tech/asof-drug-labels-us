@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA206959"
+  ],
+  "inn": "benzoyl-peroxide",
+  "labeler": "Taro Pharmaceuticals U.S.A., Inc.",
+  "package_ndcs": [
+    "51672-1364-3",
+    "51672-1364-6"
+  ],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "adapalene and benzoyl peroxide",
+      "name": "ADAPALENE and BENZOYL PEROXIDE"
+    }
+  ],
+  "setid": "a53f1aa5-d3d1-45af-8728-8f36090f49da",
+  "source": "dailymed"
+}
