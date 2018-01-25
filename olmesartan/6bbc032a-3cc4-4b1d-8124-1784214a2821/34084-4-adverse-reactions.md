@@ -5,7 +5,7 @@ The following adverse reactions with BENICAR HCT are described elsewhere:
 - Hypotension in Volume- or Salt-Depleted Patients [see Warnings and Precautions (5.2)]
 - Impaired Renal Function [see Warnings and Precautions (5.3)]
 - Hypersensitivity Reactions [see Warnings and Precautions (5.4)]
-- Electrolyte and Metabolic Imbalances [see Warnings and Precautions (5.5)]
+- Electrolyte and Metabolic Imbalances[see Warnings and Precautions (5.5)]
 - Acute Myopia and Secondary Angle-Closure Glaucoma [see Warnings and Precautions (5.6)]
 - Systemic Lupus Erythematosus [see Warnings and Precautions (5.7)]
 - Sprue-Like Enteropathy [see Warnings and Precautions (5.8)]

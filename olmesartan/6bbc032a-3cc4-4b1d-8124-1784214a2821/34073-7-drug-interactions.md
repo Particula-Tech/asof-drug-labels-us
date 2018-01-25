@@ -1,6 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Agents Increasing Serum Potassium
+## 7.1Agents Increasing Serum Potassium
 
 Coadministration of BENICAR HCT with other drugs that raise serum potassium levels may result in hyperkalemia.
 Monitor serum potassium in such patients.
@@ -10,7 +10,7 @@ Monitor serum potassium in such patients.
 Increases in serum lithium concentrations and lithium toxicity have been reported during concomitant administration of lithium with angiotensin II receptor antagonists or hydrochlorothiazide.
 Monitor serum lithium levels during concomitant use.
 
-## 7.3 Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors)
+## 7.3Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors)
 
 Olmesartan medoxomil
 
@@ -41,7 +41,7 @@ Concurrent administration of bile acid sequestering agent colesevelam hydrochlor
 Administration of olmesartan at least 4 hours prior to colesevelam hydrochloride decreased the drug interaction effect.
 Consider administering olmesartan at least 4 hours before the colesevelam hydrochloride dose [see Clinical Pharmacology (12.3)].
 
-## 7.6 Use of Hydrochlorothiazide with Other Drugs
+## 7.6Use of Hydrochlorothiazide with Other Drugs
 
 When administered concurrently the following drugs may interact with thiazide diuretics:
 

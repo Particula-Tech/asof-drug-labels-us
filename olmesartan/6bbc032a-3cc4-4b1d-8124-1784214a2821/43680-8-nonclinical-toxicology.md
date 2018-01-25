@@ -2,7 +2,9 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Olmesartan medoxomil and hydrochlorothiazide No carcinogenicity studies with olmesartan medoxomil and hydrochlorothiazide have been conducted.
+Olmesartan medoxomil and hydrochlorothiazide
+
+No carcinogenicity studies with olmesartan medoxomil and hydrochlorothiazide have been conducted.
 
 Olmesartan medoxomil and hydrochlorothiazide in a ratio of 20:12.5 were negative in the Salmonella-Escherichia coli/mammalian microsome reverse mutation test up to the maximum recommended plate concentration for the standard assays.
 Olmesartan medoxomil and hydrochlorothiazide were tested individually and in combination ratios of 40:12.5, 20:12.5 and 10:12.5, for clastogenic activity in the in vitro Chinese hamster lung (CHL) chromosomal aberration assay.
@@ -12,7 +14,9 @@ Olmesartan medoxomil and hydrochlorothiazide in a ratio of 20:12.5, administered
 
 No studies of impairment of fertility with olmesartan medoxomil and hydrochlorothiazide have been conducted.
 
-Olmesartan medoxomil Olmesartan medoxomil was not carcinogenic when administered by dietary administration to rats for up to 2 years.
+Olmesartan medoxomil
+
+Olmesartan medoxomil was not carcinogenic when administered by dietary administration to rats for up to 2 years.
 The highest dose tested (2000 mg/kg/day) was, on a mg/m2 basis, about 480 times the maximum recommended human dose (MRHD) of 40 mg/day.
 Two carcinogenicity studies conducted in mice, a 6-month gavage study in the p53 knockout mouse and a 6-month dietary administration study in the Hras2 transgenic mouse, at doses of up to 1000 mg/kg/day (about 120 times the MRHD), revealed no evidence of a carcinogenic effect of olmesartan medoxomil.
 
@@ -22,7 +26,9 @@ Olmesartan medoxomil tested negative in vivo for mutations in the MutaMouse inte
 
 Fertility of rats was unaffected by administration of olmesartan medoxomil at dose levels as high as 1000 mg/kg/day (240 times the MRHD) in a study in which dosing was begun 2 (female) or 9 (male) weeks prior to mating.
 
-Hydrochlorothiazide Two-year feeding studies in mice and rats conducted under the auspices of the National Toxicology Program (NTP) uncovered no evidence of a carcinogenic potential of hydrochlorothiazide in female mice (at doses of up to approximately 600 mg/kg/day) or in male and female rats (at doses of up to approximately 100 mg/kg/day).
+Hydrochlorothiazide
+
+Two-year feeding studies in mice and rats conducted under the auspices of the National Toxicology Program (NTP) uncovered no evidence of a carcinogenic potential of hydrochlorothiazide in female mice (at doses of up to approximately 600 mg/kg/day) or in male and female rats (at doses of up to approximately 100 mg/kg/day).
 The NTP, however, found equivocal evidence for hepatocarcinogenicity in male mice.
 
 Hydrochlorothiazide was not genotoxic in vitro in the Ames mutagenicity assay of Salmonella typhimurium strains TA 98, TA 100, TA 1535, TA 1537 and TA 1538, or in the Chinese Hamster Ovary (CHO) test for chromosomal aberrations.
@@ -33,6 +39,8 @@ Hydrochlorothiazide had no adverse effects on the fertility of mice and rats of 
 
 ## 13.3 Developmental Toxicity
 
-Olmesartan medoxomil and hydrochlorothiazide No teratogenic effects were observed when 1.6:1 combinations of olmesartan medoxomil and hydrochlorothiazide were administered to pregnant mice at oral doses up to 1625 mg/kg/day (122 times the maximum recommended human dose [MRHD] on a mg/m2 basis) or pregnant rats at oral doses up to 1625 mg/kg/day (280 times the MRHD on a mg/m2 basis).
+Olmesartan medoxomil and hydrochlorothiazide
+
+No teratogenic effects were observed when 1.6:1 combinations of olmesartan medoxomil and hydrochlorothiazide were administered to pregnant mice at oral doses up to 1625 mg/kg/day (122 times the maximum recommended human dose [MRHD] on a mg/m2 basis) or pregnant rats at oral doses up to 1625 mg/kg/day (280 times the MRHD on a mg/m2 basis).
 In rats, however, fetal body weights at 1625 mg/kg/day (a toxic, sometimes lethal dose in the dams) were significantly lower than control.
 The no observed effect dose for developmental toxicity in rats, 162.5 mg/kg/day, is about 28 times, on a mg/m2 basis, the MRHD of BENICAR HCT (40 mg olmesartan medoxomil /25 mg hydrochlorothiazide/day).

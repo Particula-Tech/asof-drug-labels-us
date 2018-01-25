@@ -1,6 +1,8 @@
 # 14 CLINICAL STUDIES
 
-Olmesartan medoxomil and hydrochlorothiazide In clinical trials 1230 patients were exposed to the combination of olmesartan medoxomil (2.5 mg to 40 mg) and hydrochlorothiazide (12.5 mg to 25 mg).
+Olmesartan medoxomil and hydrochlorothiazide
+
+In clinical trials 1230 patients were exposed to the combination of olmesartan medoxomil (2.5 mg to 40 mg) and hydrochlorothiazide (12.5 mg to 25 mg).
 These trials included one placebo-controlled factorial trial in mild-moderate hypertensive patients (n=502) with combinations of olmesartan medoxomil (10 mg, 20 mg, 40 mg, or placebo) and hydrochlorothiazide (12.5 mg, 25 mg, or placebo).
 The antihypertensive effect of the combination on trough blood pressure was related to the dose of each component (see Table 2).
 
@@ -8,9 +10,9 @@ Once-daily dosing with 20 mg olmesartan medoxomil and 12.5 mg hydrochlorothiazid
 
 Table 2: Placebo-Adjusted Reductions in Sitting Systolic/Diastolic Blood Pressure (mmHg)
 
-| HCTZ | Olmesartan Medoxomil |  |  |  |
+|  | Olmesartan Medoxomil |  |  |  |
 | --- | --- | --- | --- | --- |
-| 0 mg | 10 mg | 20 mg | 40 mg |  |
+| HCTZ | 0 mg | 10 mg | 20 mg | 40 mg |
 | 0 mg | -- | 7/5 | 12/5 | 13/7 |
 | 12.5 mg | 5/1 | 17/8 | 17/8 | 16/10 |
 | 25 mg | 14/5 | 19/11 | 22/11 | 24/14 |
@@ -21,7 +23,9 @@ No appreciable changes in trough heart rate were observed with combination thera
 
 There are no trials of BENICAR HCT demonstrating reductions in cardiovascular risk in patients with hypertension, but at least one drug pharmacologically similar to olmesartan medoxomil has demonstrated such benefits, and hydrochlorothiazide demonstrated reduction of cardiovascular risk in patients with hypertension.
 
-Olmesartan medoxomil The antihypertensive effects of olmesartan medoxomil have been demonstrated in seven placebo-controlled studies at doses ranging from 2.5 to 80 mg for 6 to 12 weeks, each showing statistically significant reductions in peak and trough blood pressure.
+Olmesartan medoxomil
+
+The antihypertensive effects of olmesartan medoxomil have been demonstrated in seven placebo-controlled studies at doses ranging from 2.5 to 80 mg for 6 to 12 weeks, each showing statistically significant reductions in peak and trough blood pressure.
 A total of 2693 patients (2145 olmesartan medoxomil; 548 placebo) with essential hypertension were studied.
 Olmesartan medoxomil once daily (QD) lowered diastolic and systolic blood pressure.
 The response was dose-related.
