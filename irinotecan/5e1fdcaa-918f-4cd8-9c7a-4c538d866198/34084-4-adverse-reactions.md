@@ -4,7 +4,7 @@
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-Common adverse reactions (≥30%) observed in single-agent therapy clinical studies are: nausea, vomiting, abdominal pain, diarrhea, constipation, anorexia, neutropenia, leukopenia (including lymphocytopenia), anemia, asthenia, fever, body weight decreasing, and alopecia.
+Common adverse reactions (greater than or equal to 30%) observed in single-agent therapy clinical studies are: nausea, vomiting, abdominal pain, diarrhea, constipation, anorexia, neutropenia, leukopenia (including lymphocytopenia), anemia, asthenia, fever, body weight decreasing, and alopecia.
 
 Serious opportunistic infections have not been observed, and no complications have specifically been attributed to lymphocytopenia.
 
@@ -24,10 +24,10 @@ The first dose of at least one cycle of Irinotecan Hydrochloride Injection was r
 Within-cycle dose reductions were required for 32% of the cycles initiated at the 125-mg/m2 dose level.
 The most common reasons for dose reduction were late diarrhea, neutropenia, and leukopenia.
 Thirteen (4.3%) patients discontinued treatment with Irinotecan Hydrochloride Injection because of adverse events.
-The adverse events in Table 7 are based on the experience of the 304 patients enrolled in the three studies described in CLINICAL STUDIES (14.1).
+The adverse events in Table 7 are based on the experience of the 304 patients enrolled in the three studies described in Clinical Studies (14.1).
 
 Table 7.
-Adverse Events Occurring in >10% of 304 Previously Treated Patients with Metastatic Carcinoma of the Colon or Rectuma
+Adverse Events Occurring in Greater Than 10% of 304 Previously Treated Patients with Metastatic Carcinoma of the Colon or Rectuma
 
 | Body System & Event | NCI Grades 1 to 4 | NCI Grades 3 & 4 |
 | --- | --- | --- |
@@ -80,8 +80,8 @@ Adverse Events Occurring in >10% of 304 Previously Treated Patients with Metasta
 | CARDIOVASCULAR |  |  |
 | Vasodilation (flushing) | 11 | 0 |
 | a Severity of adverse events based on NCI CTC (version 1.0) |  |  |
-| b Occurring > 24 hours after administration of Irinotecan Hydrochloride Injection |  |  |
-| c Occurring ≤24 hours after administration of Irinotecan Hydrochloride Injection |  |  |
+| b Occurring greater than 24 hours after administration of Irinotecan Hydrochloride Injection |  |  |
+| c Occurring less than or equal to 24 hours after administration of Irinotecan Hydrochloride Injection |  |  |
 | d Primarily upper respiratory infections |  |  |
 | e Not applicable; complete hair loss = NCI grade 2 |  |  |
 
@@ -96,7 +96,7 @@ Hospitalizations due to serious adverse events occurred at least once in 60% (18
 Eight percent of patients treated with irinotecan and 7% treated with 5-FU-based therapy discontinued treatment due to adverse events.
 
 Of the 316 patients treated with irinotecan, the most clinically significant adverse events (all grades, 1 to 4) were diarrhea (84%), alopecia (72%), nausea (70%), vomiting (62%), cholinergic symptoms (47%), and neutropenia (30%).
-Table 8 lists the grade 3 and 4 adverse events reported in the patients enrolled to all treatment arms of the two studies described in CLINICAL STUDIES (14.1).
+Table 8 lists the grade 3 and 4 adverse events reported in the patients enrolled to all treatment arms of the two studies described in Clinical Studies (14.1).
 
 Table 8.
 Percent Of Patients Experiencing Grade 3 & 4 Adverse Events In Comparative Studies Of Once-Every-3-Week Irinotecan Therapya
