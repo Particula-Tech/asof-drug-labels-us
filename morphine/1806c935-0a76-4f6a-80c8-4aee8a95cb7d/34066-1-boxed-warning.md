@@ -1,8 +1,8 @@
-# WARNING: ADDICTION, ABUSE, AND MISUSE; LIFE-THREATENING RESPIRATORY DEPRESSION; ACCIDENTAL INGESTION; NEONATAL OPIOID WITHDRAWAL SYNDROME; and RISKS FROM CONCOMITANT USE WITH BENZODIAZEPINES OR OTHER CNS DEPRESSANTS
+# WARNING: ADDICTION, ABUSE, AND MISUSE; LIFE-THREATENING RESPIRATORY DEPRESSION; ACCIDENTAL INGESTION; NEONATAL OPIOID WITHDRAWAL SYNDROME; AND RISKS FROM CONCOMITANT USE WITH BENZODIAZEPINES OR OTHER CNS DEPRESSANTS
 
 Addiction, Abuse, and Misuse
 
-MORPHABOND ER™ exposes patients and other users to the risks of opioid addiction, abuse, and misuse, which can lead to overdose and death.
+MORPHABOND™ ER exposes patients and other users to the risks of opioid addiction, abuse, and misuse, which can lead to overdose and death.
 Assess each patient’s risk prior to prescribing MORPHABOND ER, and monitor all patients regularly for the development of these behaviors and conditions [see Warnings and Precautions (5.1)].
 
 Life-Threatening Respiratory Depression

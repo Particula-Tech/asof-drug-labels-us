@@ -72,7 +72,7 @@ Decreased litter size and viability were observed in the offspring of male rats 
 Decreased viability and body weight and/or movement deficits in both first and second generation offspring were reported when male mice were treated for 5 days with escalating doses of 120 to 240 mg/kg/day morphine sulfate (9.7 to 19.5 times the HDD) or when female mice treated with escalating doses of 60 to 240 mg/kg/day (4.9 to 19.5 times the HDD) followed by a 5-day treatment-free recovery period prior to mating.
 Similar multigenerational findings were also seen in female rats pre-gestationally treated with escalating doses of 10 to 22 mg/kg/day morphine (1.6 to 3.6 times the HDD).
 
-## 8.2 Lactation
+## 8.2Lactation
 
 Risk Summary
 
@@ -114,12 +114,12 @@ Titrate the dosage of MORPHABOND ER slowly in geriatric patients and monitor clo
 Morphine is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
 
-## 8.6 Hepatic Impairment
+## 8.6Hepatic Impairment
 
 Morphine pharmacokinetics have been reported to be significantly altered in patients with cirrhosis.
 Start these patients with a lower than usual dosage of MORPHABOND ER and titrate slowly while monitoring for signs of respiratory depression, sedation, and hypotension [see Clinical Pharmacology (12.3)].
 
-## 8.7 Renal Impairment
+## 8.7Renal Impairment
 
 Morphine pharmacokinetics are altered in patients with renal failure.
 Start these patients with a lower than usual dosage of MORPHABOND ER and titrate slowly while monitoring for signs of respiratory depression, sedation, and hypotension [see Clinical Pharmacology (12.3)].

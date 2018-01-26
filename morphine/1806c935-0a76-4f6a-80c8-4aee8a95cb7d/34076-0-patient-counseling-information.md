@@ -59,9 +59,13 @@ Advise patients how to recognize such a reaction and when to seek medical attent
 
 Pregnancy
 
-Neonatal Opioid Withdrawal Syndrome Inform female patients of reproductive potential that prolonged use of MORPHABOND ER during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated [see Warnings and Precautions (5.3), Use in Specific Populations (8.1)].
+Neonatal Opioid Withdrawal Syndrome
 
-Embryo-Fetal Toxicity Inform female patients of reproductive potential that MORPHABOND ER can cause fetal harm and to inform the healthcare provider of a known or suspected pregnancy [see Use in Specific Populations (8.1)].
+Inform female patients of reproductive potential that prolonged use of MORPHABOND ER during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated [see Warnings and Precautions (5.3), Use in Specific Populations (8.1)].
+
+Embryo-Fetal Toxicity
+
+Inform female patients of reproductive potential that MORPHABOND ER can cause fetal harm and to inform the healthcare provider of a known or suspected pregnancy [see Use in Specific Populations (8.1)].
 
 Lactation
 
@@ -87,6 +91,8 @@ Advise patients to flush the unused tablets down the toilet when MORPHABOND ER i
 
 Healthcare professionals can telephone Daiichi Sankyo, Inc. (1-877-437-7763) for information on this product.
 
-Manufactured for: Daiichi Sankyo, Inc. Parsippany, NJ 07054
+Manufactured for: Daiichi Sankyo, Inc.
+
+Basking Ridge, NJ 07920
 
 ©2017, Daiichi Sankyo, Inc.

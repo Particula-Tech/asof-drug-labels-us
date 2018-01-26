@@ -59,7 +59,7 @@ Vascular disorders: flushing, hypotension, hypertension
 The following adverse reactions have been identified during post-approval use of morphine sulfate.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-amenorrhea, asthenia, bronchospasm, confusional state, drug hypersensitivity, fatigue, hyperalgesia, hypertonia, ileus, increased hepatic enzymes, intestinal obstruction, lethargy, malaise, pulmonary edema, thinking disturbances, somnolence, and vertigo.
+Amenorrhea, asthenia, bronchospasm, confusional state, drug hypersensitivity, fatigue, hyperalgesia, hypertonia, ileus, increased hepatic enzymes, intestinal obstruction, lethargy, malaise, pulmonary edema, thinking disturbances, somnolence, and vertigo.
 
 Serotonin syndrome: Cases of serotonin syndrome, a potentially life-threatening condition, have been reported during concomitant use of opioids with serotonergic drugs.
 

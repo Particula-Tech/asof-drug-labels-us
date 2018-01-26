@@ -1,4 +1,4 @@
-# 1 INDICATIONS AND USAGE
+# 1INDICATIONS AND USAGE
 
 MORPHABOND ER is indicated for the management of pain severe enough to require daily, around-the-clock, long-term opioid treatment and for which alternative treatment options are inadequate.
 

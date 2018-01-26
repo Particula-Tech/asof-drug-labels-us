@@ -1,10 +1,10 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Important Dosage and Administration Instructions
+## 2.1Important Dosage and Administration Instructions
 
 MORPHABOND ER should be prescribed only by healthcare professionals who are knowledgeable in the use of potent opioids for the management of chronic pain.
 
-MORPHABOND ER 100 mg tablets, a single dose greater than 60 mg, or a total daily dose greater than 120 mg, are only for use in patients in whom tolerance to an opioid of comparable potency has been established.
+MORPHABOND ER 100mg tablets, a single dose greater than 60 mg, or a total daily dose greater than 120 mg, are only for use in patients in whom tolerance to an opioid of comparable potency has been established.
 Patients who are opioid tolerant are those receiving, for one week or longer, at least 60 mg oral morphine per day, 25 mcg transdermal fentanyl per hour, 30 mg oral oxycodone per day, 8 mg oral hydromorphone per day, 25 mg oral oxymorphone per day, 60 mg oral hydrocodone per day, or an equianalgesic dose of another opioid.
 
 - Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5)].
@@ -16,7 +16,7 @@ Crushing, chewing, or dissolving MORPHABOND ER tablets will result in uncontroll
 
 MORPHABOND ER is administered orally every 12 hours.
 
-## 2.2 Initial Dosage
+## 2.2Initial Dosage
 
 Use of MORPHABOND ER as the First Opioid Analgesic (opioid-naïve patients)
 
@@ -62,7 +62,7 @@ Close monitoring is of particular importance when converting methadone to other 
 The ratio between methadone and other opioid agonists may vary widely as a function of previous dose exposure.
 Methadone has a long half-life and can accumulate in the plasma.
 
-## 2.3 Titration and Maintenance of Therapy
+## 2.3Titration and Maintenance of Therapy
 
 Individually titrate MORPHABOND ER to a dose that provides adequate analgesia and minimizes adverse reactions.
 Continually reevaluate patients receiving MORPHABOND ER to assess the maintenance of pain control and the relative incidence of adverse reactions, as well as monitoring for the development of addiction, abuse, or misuse [see Warnings and Precautions (5.1)].
@@ -76,7 +76,7 @@ Because steady-state plasma concentrations are approximated in 1 day, MORPHABOND
 If unacceptable opioid-related adverse reactions are observed, consider reducing the dosage.
 Adjust the dosage to obtain an appropriate balance between management of pain and opioid-related adverse reactions.
 
-## 2.4 Discontinuation of MORPHABOND ER
+## 2.4Discontinuation of MORPHABOND ER
 
 When the patient no longer requires therapy with MORPHABOND ER tablets, taper the dosage gradually, by 25% to 50% every 2 to 4 days, while monitoring carefully for signs and symptoms of withdrawal.
 If a patient develops these signs or symptoms, raise the dose to the previous level and taper more slowly, either by increasing the interval between decreases, decreasing the amount of change in dose, or both.
