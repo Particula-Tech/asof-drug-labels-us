@@ -1,31 +1,31 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-Hemorrhage Hemorrhage is the chief complication that may result from heparin therapy (see WARNINGS).
-An overly prolonged clotting time or minor bleeding during therapy can usually be controlled by withdrawing the drug (see OVERDOSAGE).
-It should be appreciated that gastrointestinal or urinary tract bleeding during anticoagulant therapy may indicate the presence of an underlying occult lesion.
-Bleeding can occur at any site but certain specific hemorrhagic complications may be difficult to detect:
+The following clinically significant adverse reactions are described elsewhere in the labeling:
 
-a. Adrenal hemorrhage, with resultant acute adrenal insufficiency, has occurred during anticoagulant therapy.
-Therefore, such treatment should be discontinued in patients who develop signs and symptoms of acute adrenal hemorrhage and insufficiency.
-Initiation of corrective therapy should not depend on laboratory confirmation of the diagnosis, since any delay in an acute situation may result in the patient's death.
+- Hemorrhage [see Warnings and Precautions (5.2)]
+- Heparin-Induced Thrombocytopenia and Heparin-Induced Thrombocytopenia and Thrombosis [see Warnings and Precautions (5.3)]
+- Risk of Serious Adverse Reactions in Infants Due to Benzyl Alcohol Preservative [see Warnings and Precautions (5.4)]
+- Thrombocytopenia [see Warnings and Precautions (5.5)]
+- Heparin Resistance [see Warnings and Precautions (5.7)]
+- Hypersensitivity [see Warnings and Precautions (5.8)]
 
-b. Ovarian (corpus luteum) hemorrhage developed in a number of women of reproductive age receiving short- or long-term anticoagulant therapy.
-This complication, if unrecognized, may be fatal.
+## 6.2 Postmarketing Experience
 
-c. Retroperitoneal hemorrhage.
+The following adverse reactions have been identified during post-approval use of Heparin Sodium Injection.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Thrombocytopenia, Heparin-induced Thrombocytopenia (HIT) (With or Without Thrombosis) and Delayed Onset of HIT (With or Without Thrombosis) See WARNINGS.
-
-Local Irritation Local irritation, erythema, mild pain, hematoma, or ulceration may follow deep subcutaneous (intrafat) injection of heparin sodium.
-These complications are much more common after intramuscular use, and such use is not recommended.
-
-Hypersensitivity Generalized hypersensitivity reactions have been reported, with chills, fever and urticaria as the most usual manifestations, and asthma, rhinitis, lacrimation, headache, nausea and vomiting, and anaphylactoid reactions, including shock, occurring more rarely.
-Itching and burning, especially on the plantar side of the feet, may occur.
-(See WARNINGS and PRECAUTIONS.)
-
-Certain episodes of painful, ischemic and cyanosed limbs have in the past been attributed to allergic vasospastic reactions.
-Whether these are in fact identical to the thrombocytopenia associated complications remains to be determined.
-
-Miscellaneous Osteoporosis following long-term administration of high doses of heparin, cutaneous necrosis after systemic administration, suppression of aldosterone synthesis, delayed transient alopecia, priapism, and rebound hyperlipemia on discontinuation of heparin sodium have also been reported.
-
-Significant elevations of aminotransferase (SGOT [S-AST] and SGPT [S-ALT]) levels have occurred in a high percentage of patients (and healthy subjects) who have received heparin.
+- Hemorrhage is the chief complication that may result from heparin therapy [see Warnings and Precautions (5.2)].
+  Gastrointestinal or urinary tract bleeding during anticoagulant therapy may indicate the presence of an underlying occult lesion.
+  Bleeding can occur at any site but certain specific hemorrhagic complications may be difficult to detect:
+  - Adrenal hemorrhage, with resultant acute adrenal insufficiency, has occurred with heparin therapy, including fatal cases.
+  - Ovarian (corpus luteum) hemorrhage developed in a number of women of reproductive age receiving short- or long-term heparin therapy.
+  - Retroperitoneal hemorrhage.
+- HIT and HITT, including delayed onset cases [see Warnings and Precautions (5.3)].
+- Local irritation-Local irritation, erythema, mild pain, hematoma or ulceration may follow deep subcutaneous (intrafat) injection of heparin sodium.
+  Because these complications are much more common after intramuscular use, the intramuscular route is not recommended.
+- Histamine-like reactions-Such reactions have been observed at the site of injections.
+  Necrosis of the skin has been reported at the site of subcutaneous injection of heparin, occasionally requiring skin grafting [see Warnings and Precautions (5.3)].
+- Hypersensitivity-Generalized hypersensitivity reactions have been reported, with chills, fever and urticaria as the most usual manifestations, and asthma, rhinitis, lacrimation, headache, nausea and vomiting, and anaphylactoid reactions, including shock, occurring less frequently.
+  Itching and burning, especially on the plantar side of the feet, may occur [see Warnings and Precautions (5.8)].
+- Elevations of aminotransferases-Significant elevations of aspartate aminotransferase (AST) and alanine aminotransferase (ALT) levels have occurred in patients who have received heparin.
+- Miscellaneous-Osteoporosis following long-term administration of high doses of heparin, cutaneous necrosis after systemic administration, suppression of aldosterone synthesis, delayed transient alopecia, priapism, and rebound hyperlipemia on discontinuation of heparin sodium have also been reported.

@@ -1,3 +1,3 @@
-Injection, USP
+Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
-Rx only
+LAB-1193-1.0
