@@ -123,11 +123,11 @@ Serious Asthma-Related Events in the 26-Week Trials 4 and 5
 | Asthma-related intubation (endotracheal) | 0 | 2 | 0 | 0 |
 | Asthma-related hospitalization (≥24-hour stay) | 34 | 33 | 27 | 21 |
 
-1. a Number of subjects with event that occurred within 6 months after the first use of study drug or 7 days after the last date of study drug treatment, whichever date was later.
-   Subjects can have one or more events, but only the first event was counted for analysis.
-   A blinded adjudication committee determined whether events were asthma related.
-2. b The hazard ratio for time to first event was based on a Cox proportional hazards model with a single covariate of treatment (ADVAIR DISKUS vs. fluticasone propionate) and baseline hazards stratified by incoming asthma medication/asthma control status.
-   If the resulting upper 95% CI estimate for the relative risk was <2.0 (Trial 4) or <2.7 (Trial 5), then non-inferiority was concluded.
+- a Number of subjects with event that occurred within 6 months after the first use of study drug or 7 days after the last date of study drug treatment, whichever date was later.
+  Subjects can have one or more events, but only the first event was counted for analysis.
+  A blinded adjudication committee determined whether events were asthma related.
+- b The hazard ratio for time to first event was based on a Cox proportional hazards model with a single covariate of treatment (ADVAIR DISKUS vs. fluticasone propionate) and baseline hazards stratified by incoming asthma medication/asthma control status.
+  If the resulting upper 95% CI estimate for the relative risk was <2.0 (Trial 4) or <2.7 (Trial 5), then non-inferiority was concluded.
 
 Effect on Exacerbation: Trials 4 and 5 included time to first exacerbation as a secondary endpoint, where exacerbation was defined as a deterioration of asthma requiring the use of systemic corticosteroids for at least 3 days or an in-patient hospitalization or emergency department visit due to asthma that required systemic corticosteroids.
 In Trials 4 and 5, the hazard ratio for the time to first asthma exacerbation for ADVAIR DISKUS relative to fluticasone propionate inhalation powder was 0.79 (95% CI: 0.70, 0.89) and 0.86 (95% CI: 0.73, 1.01), respectively.
