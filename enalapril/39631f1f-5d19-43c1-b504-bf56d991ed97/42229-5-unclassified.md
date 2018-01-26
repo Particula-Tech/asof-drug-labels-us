@@ -4,11 +4,15 @@ Manufactured for: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 0880
 
 Manufactured by: Valeant Pharmaceuticals International, Inc. Steinbach, MB R5G 1Z7 Canada
 
-Vasotec® is a registered trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
+Vasotec is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
 
-©Valeant Pharmaceuticals North America LLC
+All other product/brand names and/or logos are trademarks of their respective owners.
+
+© Valeant Pharmaceuticals North America LLC
+
+20001976
 
 Rev.
-07/17
+07/2017
 
-New Valeant p/n#
+9383003

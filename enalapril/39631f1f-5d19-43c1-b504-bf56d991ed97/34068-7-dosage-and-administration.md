@@ -67,9 +67,9 @@ VASOTEC is not recommended in neonates and in pediatric patients with glomerular
 
 Preparation of Suspension (for 200 mL of a 1.0 mg/mL suspension)
 
-Add 50 mL of Bicitra®Registered trademark of Alza Corporation to a polyethylene terephthalate (PET) bottle containing ten 20 mg tablets of VASOTEC and shake for at least 2 minutes.
+Add 50 mL of Bicitra to a polyethylene terephthalate (PET) bottle containing ten 20 mg tablets of VASOTEC and shake for at least 2 minutes.
 Let concentrate stand for 60 minutes.
 Following the 60-minute hold time, shake the concentrate for an additional minute.
-Add 150 mL of Ora-Sweet SF™Trademark of Paddock Laboratories, Inc. to the concentrate in the PET bottle and shake the suspension to disperse the ingredients.
+Add 150 mL of Ora-Sweet SF to the concentrate in the PET bottle and shake the suspension to disperse the ingredients.
 The suspension should be refrigerated at 2-8°C (36-46°F) and can be stored for up to 30 days.
 Shake the suspension before each use.
