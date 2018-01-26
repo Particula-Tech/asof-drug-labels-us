@@ -48,7 +48,9 @@ Acute rheumatic carditis
 
 Bullous dermatitis herpetiformis
 
-Severe erythema multiforme (Stevens-Johnson syndrome)
+Severe erythema multiforme
+
+(Stevens-Johnson syndrome)
 
 Severe seborrheic dermatitis
 

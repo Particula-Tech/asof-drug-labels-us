@@ -1,1 +1,4 @@
-LAB-0157-5.0 June 2013
+This product's label may have been updated.
+For current full prescribing information, please visit www.pfizer.com.
+
+LAB-0157-6.0 January 2018
