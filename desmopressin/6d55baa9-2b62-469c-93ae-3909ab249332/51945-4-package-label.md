@@ -2,7 +2,7 @@
 
 NDC 55566-2600-0
 
-DDAVP® Tablets desmopressin acetate
+DDAVP ® Tablets desmopressin acetate
 
 0.1 mg
 
@@ -16,7 +16,7 @@ FERRING PHARMACEUTICALS
 
 NDC 55566-2700-0
 
-DDAVP® Tablets desmopressin acetate
+DDAVP ® Tablets desmopressin acetate
 
 0.2 mg
 

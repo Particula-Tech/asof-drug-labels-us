@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-DDAVP® Tablets (desmopressin acetate) are a synthetic analogue of the natural pituitary hormone, 8-arginine vasopressin (ADH), an antidiuretic hormone affecting renal water conservation.
+DDAVP ® Tablets (desmopressin acetate) are a synthetic analogue of the natural pituitary hormone, 8-arginine vasopressin (ADH), an antidiuretic hormone affecting renal water conservation.
 It is chemically defined as follows:
 
 Mol. wt.

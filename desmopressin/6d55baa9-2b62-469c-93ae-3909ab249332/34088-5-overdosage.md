@@ -5,6 +5,6 @@ Signs of overdose may include confusion, drowsiness, continuing headache, proble
 In case of overdose, the dose should be reduced, frequency of administration decreased, or the drug withdrawn according to the severity of the condition.
 There is no known specific antidote for DDAVP.
 The patient should be observed and treated with appropriate symptomatic therapy.
-An oral LD50 has not been established.
+An oral LD 50 has not been established.
 Oral doses up to 0.2 mg/kg/day have been administered to dogs and rats for 6 months without any significant drug-related toxicities reported.
 An intravenous dose of 2 mg/kg in mice demonstrated no effect.

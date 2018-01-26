@@ -9,7 +9,7 @@ In most patients, doses of 0.1 mg to 0.2 mg produced optimal antidiuretic effect
 With doses of 0.4 mg, antidiuretic effects were observed for up to 12 hours; measurements beyond 12 hours were not recorded.
 Increasing oral doses produced dose dependent increases in the plasma levels of DDAVP (desmopressin acetate).
 
-The plasma half-life of DDAVP followed a monexponential time course with t1/2 values of 1.5 to 2.5 hours which was independent of dose.
+The plasma half-life of DDAVP followed a monexponential time course with t 1/2 values of 1.5 to 2.5 hours which was independent of dose.
 
 The bioavailability of DDAVP oral tablets is about 5% compared to intranasal DDAVP, and about 0.16% compared to intravenous DDAVP.
 The time to reach maximum plasma DDAVP levels ranged from 0.9 to 1.5 hours following oral or intranasal administration, respectively.
