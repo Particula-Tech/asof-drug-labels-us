@@ -70,8 +70,6 @@ No evidence of mutagenicity was observed in the Micronucleus Test or Ames Assay.
 
 ### Teratogenic Effects
 
-#### Pregnancy Category C
-
 Animal studies do not indicate that HEMABATE is teratogenic, however, it has been shown to be embryotoxic in rats and rabbits and any dose which produces increased uterine tone could put the embryo or fetus at risk.
 
 ## Pediatric Use
