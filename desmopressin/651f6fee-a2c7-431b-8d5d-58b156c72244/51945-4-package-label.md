@@ -2,7 +2,7 @@
 
 NDC 55566-2300-0
 
-DDAVP® Injection desmopressin acetate
+DDAVP ® Injection desmopressin acetate
 
 4 mcg/mL
 
@@ -18,7 +18,7 @@ Rx ONLY
 
 NDC-55566-2200-0
 
-DDAVP® Injection desmopressin acetate
+DDAVP ® Injection desmopressin acetate
 
 4 mcg/mL
 
