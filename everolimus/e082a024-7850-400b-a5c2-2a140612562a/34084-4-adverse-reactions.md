@@ -2,7 +2,7 @@
 
 ## 6.1 Serious and Otherwise Important Adverse Reactions
 
-The following adverse reactions are discussed in greater detail in other sections of the label:
+The following adverse reactions are discussed in greater detail in other sections of the label.
 
 - Hypersensitivity Reactions [see Contraindications (4.1)]
 - Lymphomas and Other Malignancies [see Boxed Warning, Warnings and Precautions (5.2)]
@@ -19,15 +19,15 @@ The following adverse reactions are discussed in greater detail in other section
 - Polyoma Virus Infections [see Warnings and Precautions (5.13)]
 - Thrombotic Microangiopathy/Thrombotic Thrombocytopenic Purpura/Hemolytic Uremic Syndrome (TMA/TTP/HUS) [see Warnings and Precautions (5.15)]
 - New Onset Diabetes After Transplant [see Warnings and Precautions (5.16)]
-- Male Infertility [see Warnings and Precautions (5.17)]
+- Male Infertility [see Warnings and Precautions (5.18)]
 
-## 6.2 Clinical Studies Experience
+## 6.2 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, the adverse reaction rates observed cannot be directly compared to rates in other trials and may not reflect the rates observed in clinical practice.
 
 Kidney transplantation
 
-The data described below reflect exposure to Zortress in an open-label, randomized trial of de novo kidney transplant patients of concentration-controlled everolimus at an initial Zortress starting dose of 1.5 mg per day [target trough concentrations 3 to 8 ng/mL with reduced exposure cyclosporine (N=274) compared to mycophenolic acid (N=273) with standard exposure cyclosporine].
+The data described below reflect exposure to Zortress in an open-label, randomized trial of de novo kidney transplant patients of concentration-controlled everolimus at an initial Zortress starting dose of 1.5 mg per day [target trough concentrations 3 to 8 ng/mL with reduced exposure cyclosporine (N = 274) compared to mycophenolic acid (N = 273) with standard exposure cyclosporine].
 All patients received basiliximab induction therapy and corticosteroids.
 The population was between 18 and 70 years, more than 43% were 50 years of age or older (mean age was 46 years in the Zortress group, 47 years control group); a majority of recipients were male (64% in the Zortress group, 69% control group); and a majority of patients were Caucasian (70% in the Zortress group, 69% control group).
 Demographic characteristics were comparable between treatment groups.
@@ -48,7 +48,7 @@ A total of 13 patients died during the first 12 months of study; 7 (3%) in the Z
 The most common causes of death across the study groups were related to cardiac conditions and infections.
 
 There were 12 (4%) graft losses in the Zortress group and 8 (3%) in the control group over the 12 month study period.
-Of the graft losses, 4 were due to renal artery and two due to renal vein thrombosis in the Zortress group (2%) compared to two renal artery thromboses in the control group (1%) [see Boxed Warning, Warnings and Precautions (5.4)].
+Of the graft losses, 4 were due to renal artery and two due to renal vein thrombosis in the Zortress group (2%) compared to two renal artery thromboses in the control group (1%) [see Boxed Warning and Warnings and Precautions (5.4)].
 
 The most common (greater than or equal to 20%) adverse reactions observed in the Zortress group were: peripheral edema, constipation, hypertension, nausea, anemia, urinary tract infection, and hyperlipidemia.
 
@@ -75,7 +75,7 @@ Neoplasms
 
 Adverse reactions due to malignant and benign neoplasms were reported in 3% of patients in the Zortress group and 6% in the control group.
 The most frequently reported neoplasms in the control group were basal cell carcinoma, squamous cell carcinoma, skin papilloma and seborrheic keratosis.
-One patient in the Zortress group who underwent a melanoma excision prior to transplantation died due to metastatic melanoma [see Boxed Warning, Warnings and Precautions (5.2)].
+One patient in the Zortress group who underwent a melanoma excision prior to transplantation died due to metastatic melanoma [see Boxed Warning and Warnings and Precautions (5.2)].
 
 New Onset Diabetes Mellitus (NODM)
 
@@ -93,7 +93,7 @@ Within each MedDRA system organ class, the adverse reactions are presented in or
 Table 2.
 Incidence Rates of Frequent (Greater than or Equal to 10% in Any Treatment Group) Adverse Reactions by Primary System Organ Class and Preferred Term after Kidney Transplantation (Safety Population*)
 
-| Primary System Organ ClassPreferred Term | Zortress (everolimus) 1.5 mg With reduced exposure cyclosporine N=274 n (%) | Mycophenolic acid 1.44 g With standard exposure cyclosporine N=273 n (%) |
+| Primary System Organ Class Preferred Term | Zortress (everolimus) 1.5 mg With reduced exposure cyclosporine N=274 n (%) | Mycophenolic acid 1.44 g With standard exposure cyclosporine N=273 n (%) |
 | --- | --- | --- |
 | Any Adverse Reactions* | 271 (99) | 270 (99) |
 | Blood lymphatic system disorders | 93 (34) | 111 (41) |
@@ -144,7 +144,7 @@ Incidence Rates of Frequent (Greater than or Equal to 10% in Any Treatment Group
 | Vascular disorders | 122 (45) | 124 (45) |
 | Hypertension | 81 (30) | 82 (30) |
 
-*The safety analysis population defined as all randomized kidney transplant patients who received at least one dose of treatment and had at least one postbaseline safety assessment.
+*The safety analysis population defined as all randomized kidney transplant patients who received at least one dose of treatment and had at least one post-baseline safety assessment.
 
 Adverse reaction that occurred with at least a 5% higher frequency in the Zortress 1.5 mg group compared to the control group were: peripheral edema (45% compared to 40%), hyperlipidemia (21% compared to 16%), dyslipidemia (15% compared to 9%), and stomatitis/mouth ulceration (8% compared to 3%).
 
@@ -159,10 +159,10 @@ These results indicate that Zortress increases the cyclosporine-induced nephroto
 Liver transplantation
 
 The data described below reflect exposure to Zortress starting 30 days after transplantation in an open-label, randomized trial of liver transplant patients.
-Seven hundred and nineteen (719) patients who fulfilled the inclusion/exclusion criteria [see Clinical Studies (14.2)] were randomized into one of the three treatment groups of the study.
-During the first 30 days prior to randomization patients received tacrolimus and corticosteroids, with or without mycophenolate mofetil (about 70 to 80% received MMF).
+Seven hundred and nineteen (719) patients who fulfilled the inclusion/exclusion criteria [see Clinical Studies section (14.2)] were randomized into one of the three treatment groups of the study.
+During the first 30 days prior to randomization patients received tacrolimus and corticosteroids, with or without mycophenolate mofetil (about 70% to 80% received MMF).
 No induction antibody was administered.
-At randomization, MMF was discontinued and patients were randomized to Zortress initial dose of 1.0 mg twice per day (2.0 mg daily) and adjusted to protocol specified target trough concentrations of 3 to 8 ng/mL with reduced exposure tacrolimus [protocol specified target troughs 3 to 5 ng/mL] (N=245) [see Clinical Pharmacology (12.7, 12.9)] or to a control group of standard exposure tacrolimus [protocol specified target troughs 8 to 12 ng/mL up to Month 4 posttransplant, then 6 to 10 ng/mL Month 4 through Month 12 posttransplant] (N=241).
+At randomization, MMF was discontinued and patients were randomized to Zortress initial dose of 1.0 mg twice per day (2.0 mg daily) and adjusted to protocol specified target trough concentrations of 3 to 8 ng/mL with reduced exposure tacrolimus [protocol specified target troughs 3 to 5 ng/mL] (N = 245) [see Clinical Pharmacology (12.7, 12.9)] or to a control group of standard exposure tacrolimus [protocol specified target troughs 8 to 12 ng/mL up to Month 4 post-transplant, then 6 to 10 ng/mL Month 4 through Month 12 post-transplant] (N=241).
 A third randomized group was discontinued prematurely [see Clinical Studies (14.2)] and is not described in this section.
 
 The population was between 18 and 70 years, more than 50% were 50 years of age (mean age was 54 years in the Zortress group, 55 years in the tacrolimus control group); 74% were male in both Zortress and control groups, respectively, and a majority were Caucasian (86% Zortress group, 80% control group).
@@ -175,14 +175,14 @@ The most common reason for discontinuation of study medication was due to advers
 At 24 months, the rate of discontinuation of study medication in liver transplant patients was greater for the Zortress group (42%) compared to tacrolimus control group (33%).
 
 The overall incidences of serious adverse reactions were 50% (122/245) in the Zortress group and 43% (104/241) in the control group at 12 months and similar at 24 months (56% and 54% respectively).
-Infections and infestations were reported as serious adverse reactions with the highest incidence followed by Gastrointestinal disorders and Hepatobiliary disorders.
+Infections and infestations were reported as serious adverse reactions with the highest incidence followed by gastrointestinal disorders and hepatobiliary disorders.
 
 During the first 12 months of study, 13 deaths were reported in the Zortress group (one patient never took Zortress).
 In the same 12 month period, 7 deaths were reported in the tacrolimus control group.
 Deaths occurred in both groups for a variety of reasons and were mostly associated with liver-related issues, infections and sepsis.
 In the following 12 months of study, four additional deaths were reported in each treatment group.
 
-The most common adverse reactions (reported for greater than or equal to 10% patients in any group) in the Zortress group were: diarrhea, headache, peripheral edema, hypertension, nausea, pyrexia, abdominal pain, and leukopenia (see Table 3).
+The most common adverse reactions (reported for greater or equal to 10% patients in any group) in the Zortress group were: diarrhea, headache, peripheral edema, hypertension, nausea, pyrexia, abdominal pain, and leukopenia (see Table 3).
 
 Infections
 
@@ -197,14 +197,14 @@ Pleural effusions were reported in 5% in both groups, and ascites in 4% of patie
 Neoplasms
 
 Malignant and benign neoplasms were reported as adverse reactions in 4% of patients in the Zortress group and 7% in the control group at 12 months.
-In the Zortress group 3 malignant tumors were reported compared to 9 cases in the control group.
+In the Zortress group, 3 malignant tumors were reported compared to 9 cases in the control group.
 For the Zortress group this included lymphoma, lymphoproliferative disorder and a hepatocellular carcinoma, and for the control group included Kaposi’s sarcoma (2), metastatic colorectal cancer, glioblastoma, malignant hepatic neoplasm, pancreatic neuroendocrine tumor, hemophagocytic histiocytosis, and squamous cell carcinomas.
-At 24 months, the rates of malignancies were similar (10% and 11% respectively) [see Boxed Warning, Warnings and Precautions (5.2)].
+At 24 months, the rates of malignancies were similar (10% and 11% respectively) [see Boxed Warning and Warnings and Precautions (5.2)].
 
 Lipid Abnormalities
 
 Hyperlipidemia adverse reactions (including the preferred terms: hyperlipidemia, hypercholesterolemia, blood cholesterol increased, blood triglycerides increased, hypertriglyceridemia lipids increased, total cholesterol/HDL ratio increased, and dyslipidemia) were reported for 24% Zortress patients, and 10% control patients at 12 months.
-Results were similar at 24 months (28% and 12%, respectively).
+Results were similar at 24 months (28% and 12% respectively).
 
 New Onset of Diabetes After Transplant (NODAT)
 
@@ -214,44 +214,44 @@ Table 3 compares the incidence of treatment-emergent adverse reactions reported 
 Within each MedDRA system organ class, the adverse reactions are presented in order of decreasing frequency.
 
 Table 3.
-Incidence Rates of most Frequent (Greater than or Equal to 10% in Any Treatment Group) Adverse Reactions by Primary System Organ Class and Preferred Term and Treatment at 12 Months and 24 Months after Liver Transplantation (Safety population*)
+Incidence Rates of most Frequent (Greater than or Equal to 10% in Any Treatment Group) Adverse Reactions by Primary System Organ Class and Preferred Term and Treatment at 12 Months and 24 Months after Liver Transplantation (Safety population)
 
 | Preferred System Organ Class Preferred Term | 12 month |  | 24 month |  |
 | --- | --- | --- | --- | --- |
-|  | Zortress with reduced exposure tacrolimus N=245 n (%) | Tacrolimus standard exposure N=241 n (%) | Zortress with reduced exposure tacrolimus N=245 n (%) | Tacrolimus standard exposure N=242 n (%) |
+|  | Zortress with reduced exposure tacrolimus N = 245 n (%) | Tacrolimus standard exposure N = 241 n (%) | Zortress with reduced exposure tacrolimus N = 245 n (%) | Tacrolimus standard exposure N = 242 n (%) |
 | Any Adverse Reaction/Infection | 232 (95) | 229 (95) | 236 (96) | 237 (98) |
 | Blood & lymphatic system disorders | 66 (27) | 47 (20) | 79 (32) | 58 (24) |
-| -Leucopenia | 29 (12) | 12 (5) | 31 (13) | 12 (5) |
+| -Leukopenia | 29 (12) | 12 (5) | 31 (13) | 12 (5) |
 | Gastrointestinal disorders | 136 (56) | 121 (50) | 148 (60) | 138 (57) |
 | -Diarrhea | 47 (19) | 50 (21) | 59 (24) | 61 (25) |
 | -Nausea | 33 (14) | 28 (12) | 36 (15) | 33 (14) |
-| -Abdominal pain | 32 (13) | 22 (9) | 37 (15) | 31(13) |
+| -Abdominal pain | 32 (13) | 22 (9) | 37 (15) | 31 (13) |
 | General disorders and administration site conditions | 94 (38) | 85 (35) | 113 (46) | 98 (41) |
 | -Peripheral edema | 43 (18) | 26 (11) | 49 (20) | 31 (13) |
 | -Pyrexia | 32 (13) | 25 (10) | 43 (18) | 28 (12) |
 | -Fatigue | 22 (9) | 26 (11) | 27 (11) | 28 (12) |
 | Infections and infestations | 123 (50) | 105 (44) | 135 (56) | 125 (52) |
-| -Hepatitis C** | 28 (11) | 19 (8) | 33 (14) | 24 (10) |
+| -Hepatitis C* | 28 (11) | 19 (8) | 33 (14) | 24 (10) |
 | Investigations | 81 (33) | 78 (32) | 92 (38) | 98 (41) |
 | -Liver function test abnormal | 16 (7) | 24 (10) | 19 (8) | 25 (10) |
-| Metabolism and nutrition disorders | 111(45) | 92(38) | 134(55) | 106(44) |
-| -Hypercholesterolemia | 23(9) | 6(3) | 27(11) | 9(4) |
+| Metabolism and nutrition disorders | 111 (45) | 92 (38) | 134 (55) | 106 (44) |
+| -Hypercholesterolemia | 23 (9) | 6 (3) | 27 (11) | 9 (4) |
 | Nervous system disorders | 89 (36) | 85 (35) | 99 (40) | 101 (42) |
 | -Headache | 47 (19) | 46 (19) | 53 (22) | 54 (22) |
-| -Tremor | 23 (9) | 29 (12) | 25 (10) | 37(15) |
+| -Tremor | 23 (9) | 29 (12) | 25 (10) | 37 (15) |
 | -Insomnia | 14 (6) | 19 (8) | 17 (7) | 24 (10) |
-| Renal and urinary disorder | 49(20) | 53(22) | 67(27) | 73(30) |
-| -Renal failure | 13(5) | 17(7) | 24(10) | 37(15) |
+| Renal and urinary disorders | 49 (20) | 53 (22) | 67 (27) | 73 (30) |
+| -Renal failure | 13 (5) | 17 (7) | 24 (10) | 37 (15) |
 | Vascular disorders | 56 (23) | 57 (24) | 72 (29) | 68 (28) |
 | -Hypertension | 42 (17) | 38 (16) | 52 (21) | 44 (18) |
 
 Primary system organ classes are presented alphabetically.
 
-*The safety analysis population is defined as all randomized liver transplant patients who received at least one dose of treatment and had at least one postbaseline safety assessment.
+*The safety analysis population is defined as all randomized liver transplant patients who received at least one dose of treatment and had at least one post-baseline safety assessment.
 
-**No de novo hepatitis C cases were reported
+**No de novo hepatitis C cases were reported.
 
-Less common adverse reactions, occurring overall in greater than or equal to 1% to less than 10% of either kidney or liver transplant patients treated with Zortress include:
+Less common adverse reactions, occurring overall in greater than or equal to 1% to less than10% of either kidney or liver transplant patients treated with Zortress include:
 
 Blood and Lymphatic System Disorders: anemia, leukocytosis, lymphadenopathy, neutropenia, pancytopenia, thrombocythemia, thrombocytopenia
 
@@ -267,7 +267,7 @@ General Disorders and Administrative Site Conditions: chest discomfort, chest pa
 
 Hepatobiliary Disorders: hepatic enzyme increased, bile duct stenosis, bilirubin increased, cholangitis, cholestasis, hepatitis (non-infectious)
 
-Infections and Infestations: BK virus infection [see Warnings and Precautions (5.13)], bacteremia, bronchitis, candidiasis, cellulitis, CMV, folliculitis, gastroenteritis, herpes infections, influenza, lower respiratory tract, nasopharyngitis, onychomycosis, oral candidiasis, oral herpes, osteomyelitis, pneumonia, pyelonephritis, sepsis, sinusitis, tinea pedis, upper respiratory tract infection, urethritis, urinary tract infection, wound infection [see Boxed Warning, Warnings and Precautions (5.3)].
+Infections and Infestations: BK virus infection [see Warnings and Precautions (5.13)], bacteremia, bronchitis, candidiasis, cellulitis, CMV, folliculitis, gastroenteritis, herpes infections, influenza, lower respiratory tract, nasopharyngitis, onychomycosis, oral candidiasis, oral herpes, osteomyelitis, pneumonia, pyelonephritis, sepsis, sinusitis, tinea pedis, upper respiratory tract infection, urethritis, urinary tract infection, wound infection [see Boxed Warning, Warnings and Precautions (5.3)]
 
 Injury Poisoning and Procedural Complications: incision site complications including infections, perinephric collection, seroma, wound dehiscence, incisional hernia, perinephric hematoma, localized intraabdominal fluid collection, impaired healing, lymophocele, lymphorrhea
 
@@ -281,7 +281,7 @@ Nervous System Disorders: dizziness, hemiparesis, hypoesthesia, lethargy, migrai
 
 Psychiatric Disorders: agitation, anxiety, depression, hallucination
 
-Renal and Urinary Disorders: bladder spasm, hydronephrosis, micturation urgency, nephritis interstitial, nocturia, pollakiuria, polyuria, proteinuria [see Warnings and Precautions (5.12)], pyuria, renal artery thrombosis [see Boxed Warning, Warnings and Precautions (5.4)], acute renal failure, renal impairment [see Warnings and Precautions (5.6)], renal tubular necrosis, urinary retention
+Renal and Urinary Disorders: bladder spasm, hydronephrosis, micturation urgency, nephritis interstitial, nocturia, pollakiuria, polyuria, proteinuria [see Warnings and Precautions (5.12)], pyuria, renal artery thrombosis [see Boxed Warning and Warnings and Precautions (5.4)], acute renal failure, renal impairment [see Warnings and Precautions (5.6)], renal tubular necrosis, urinary retention
 
 Reproductive System and Breast Disorders: amenorrhea, benign prostatic hyperplasia, erectile dysfunction, ovarian cyst, scrotal edema
 
@@ -291,14 +291,15 @@ Skin and Subcutaneous Tissue Disorders: acne, alopecia, dermatitis acneiform, ec
 
 Vascular Disorders: venous thromboembolism (including deep vein thrombosis), phlebitis, pulmonary embolism
 
-Less common, serious adverse reactions occurring overall in less than 1% of either kidney or liver transplant patients treated with Zortress include:
+Less common, serious adverse reactions occurring overall in less than1% of either kidney or liver transplant patients treated with Zortress include:
 
 - Angioedema [see Warnings and Precautions (5.8)]
-- Interstitial Lung Disease/Non-Infectious Pneumonitis [see Warnings and Precautions (5.10), Adverse Reactions (6.1)]
+- Interstitial Lung Disease/Non-Infectious Pneumonitis [see Warnings and Precautions (5.10) and Adverse Reactions (6.1)]
 - Pericardial effusions [see Warnings and Precautions (5.9)]
-- PancreatitisThrombotic Microangiopathy (TMA), Thrombotic Thrombocytopenic Purpura (TTP), and Hemolytic Uremic Syndrome (HUS) [see Warnings and Precautions (5.15)]
+- Pancreatitis
+- Thrombotic Microangiopathy (TMA), Thrombotic Thrombocytopenic Purpura (TTP), and Hemolytic Uremic Syndrome (HUS) [see Warnings and Precautions (5.15)]
 
 ## 6.3 Postmarketing Experience
 
 Adverse reactions identified from the postmarketing use of the combination regimen of Zortress and cyclosporine that are not specific to any one transplant indication include angioedema [see Warnings and Precautions (5.8)], erythroderma, leukocytoclastic vasculitis, pancreatitis, pulmonary alveolar proteinosis, and pulmonary embolism.
-There have also been reports of male infertility with mTOR inhibitors including Zortress [see Warnings and Precautions (5.17)].
+There have also been reports of male infertility with mTOR inhibitors including Zortress [see Warnings and Precautions (5.18)].

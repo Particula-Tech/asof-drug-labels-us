@@ -4,7 +4,7 @@
 
 Everolimus inhibits antigenic and interleukin (IL-2 and IL-15) stimulated activation and proliferation of T and B lymphocytes.
 
-In cells, everolimus binds to a cytoplasmic protein, the FK506 Binding Protein-12 (FKBP-12), to form an immunosuppressive complex (everolimus: FKBP-12) that binds to and inhibits the mammalian Target of Rapamycin (mTOR), a key regulatory kinase.
+In cells, everolimus binds to a cytoplasmic protein, the FK506 Binding Protein-12 (FKBP-12), to form an immunosuppressive complex (everolimus: FKBP-12) that binds to and inhibits the mammalian Target Of Rapamycin (mTOR), a key regulatory kinase.
 In the presence of everolimus phosphorylation of p70 S6 ribosomal protein kinase (p70S6K), a substrate of mTOR, is inhibited.
 Consequently, phosphorylation of the ribosomal S6 protein and subsequent protein synthesis and cell proliferation are inhibited.
 The everolimus: FKBP-12 complex has no effect on calcineurin activity.
@@ -35,8 +35,8 @@ Metabolism
 
 Everolimus is a substrate of CYP3A4 and P-gp.
 Following oral administration, everolimus is the main circulating component in human blood.
-Six main metabolites of everolimus have been detected in human blood, including 3monohydroxylated metabolites, 2 hydrolytic ring-opened products, and a phosphatidylcholine conjugate of everolimus.
-These metabolites were also identified in animal species used in toxicity studies, and showed approximately 100-times less activity than everolimus itself.
+Six main metabolites of everolimus have been detected in human blood, including 3 monohydroxylated metabolites, 2 hydrolytic ring-opened products, and a phosphatidylcholine conjugate of everolimus.
+These metabolites were also identified in animal species used in toxicity studies, and showed approximately 100 times less activity than everolimus itself.
 
 Excretion
 
@@ -55,7 +55,7 @@ Steady-State Pharmacokinetic Parameters (mean +/- SD) Following the Administrati
 | --- | --- | --- | --- | --- | --- |
 | 11.1 + 4.6 ng/mL | 1-2 h | 75 + 31 ng•h/mL | 8.8 L/h | 110 L | 30 ± 11h |
 
-1population pharmacokinetic analysis
+1 population pharmacokinetic analysis
 
 The half-life estimates from 12 maintenance renal transplant patients who received single doses of everolimus capsules at 0.75 mg or 2.5 mg with their maintenance cyclosporine regimen indicate that the pharmacokinetics of everolimus are linear over the clinically-relevant dose range.
 Results indicate the half-life of everolimus in maintenance renal transplant patients receiving single doses of 0.75 mg or 2.5 mg Zortress during steady-state cyclosporine treatment was 30 ± 11 hours (range 19 to 53 hours).
@@ -72,12 +72,12 @@ Everolimus concentrations may decrease when doses of cyclosporine are reduced, u
 In a single-dose study in healthy subjects, cyclosporine (Neoral) administered at a dose of 175 mg increased everolimus AUC by 168% (range, 46% to 365%) and Cmax by 82% (range, 25% to 158%) when administered with 2 mg Zortress compared with administration of Zortress alone [see Drug Interactions (7.2)].
 
 Ketoconazole and Other Strong CYP3A4 Inhibitors: Multiple-dose administration of 200 mg ketoconazole twice daily for 5 days to 12 healthy volunteers significantly increased everolimus Cmax, AUC, and half-life by 3.9-fold, 15-fold, and 89%, respectively, when coadministered with 2 mg Zortress.
-It is recommended that strong inhibitors of CYP3A4 (e.g., ketoconazole, itraconazole, voriconazole, clarithromycin, telithromycin, ritonavir, boceprevir, telaprevir) should not be co-administered with Zortress [see Warnings and Precautions (5.14), Drug Interactions (7.3)].
+It is recommended that strong inhibitors of CYP3A4 (e.g., ketoconazole, itraconazole, voriconazole, clarithromycin, telithromycin, ritonavir, boceprevir, telaprevir) should not be coadministered with Zortress [see Warnings and Precautions (5.14), Drug Interactions (7.3)].
 
 Erythromycin (Moderate CYP3A4 Inhibitor): Multiple-dose administration of 500 mg erythromycin 3 times daily for 5 days to 16 healthy volunteers significantly increased everolimus Cmax, AUC, and half-life by 2.0-fold, 4.4-fold, and 39%, respectively, when coadministered with 2 mg Zortress.
 If erythromycin is coadministered, everolimus blood concentrations should be monitored and a dose adjustment made as necessary [see Drug Interactions (7.4)].
 
-Verapamil (CYP3A4 Inhibitor and P-gp Substrate): Multiple-dose administration of 80 mg verapamil 3 times daily for 5 days to 16 healthy volunteers significantly increased everolimus Cmax and AUC by 2.3-fold and 3.5-fold, respectively, when co-administered with 2 mg Zortress.
+Verapamil (CYP3A4 Inhibitor and P-gp Substrate): Multiple-dose administration of 80 mg verapamil 3 times daily for 5 days to 16 healthy volunteers significantly increased everolimus Cmax and AUC by 2.3-fold and 3.5-fold, respectively, when coadministered with 2 mg Zortress.
 Everolimus half-life was not changed.
 If verapamil is coadministered, everolimus blood concentrations should be monitored and a dose adjustment made as necessary [see Drug Interactions (7.5)].
 
@@ -89,7 +89,7 @@ No dosage adjustments are needed for concomitant administration of Zortress and 
 
 Midazolam (CYP3A4/5 Substrate): In 25 healthy male subjects, coadministration of a single dose of midazolam 4 mg oral solution with steady-state everolimus (10 mg daily dose for 5 days) resulted in a 25% increase in midazolam Cmax and a 30% increase in midazolam AUC; whereas, the terminal half-life of midazolam and the metabolic AUC-ratio (1-hydroxymidazolam/midazolam) were not affected [see Drug Interactions (7.9)].
 
-Rifampin (Strong CYP3A4 and P-gp Inducer): Pretreatment of 12 healthy subjects with multiple-dose rifampin (600 mg once daily for 8 days) followed by a single dose of 4 mg Zortress increased everolimus clearance nearly 3-fold, and decreased Cmax by 58% and AUC by 63%.
+Rifampin (Strong CYP3A4 and P-gp Inducer): Pretreatment of 12 healthy subjects with multiple-dose rifampin (600 mg once-daily for 8 days) followed by a single dose of 4 mg Zortress increased everolimus clearance nearly 3-fold, and decreased Cmax by 58% and AUC by 63%.
 Combination with rifampin is not recommended [see Drug Interactions (7.8)].
 
 ## 12.6 Specific Populations
@@ -105,7 +105,7 @@ Further dose adjustment and/or dose titration should be made if a patient’s wh
 Renal Impairment
 
 No pharmacokinetic studies in patients with renal impairment were conducted.
-Posttransplant renal function (creatinine clearance range 11 to 107 mL/min) did not affect the pharmacokinetics of everolimus, therefore, no dosage adjustments are needed in patients with renal impairment.
+Post-transplant renal function (creatinine clearance range 11 to 107 mL/min) did not affect the pharmacokinetics of everolimus, therefore, no dosage adjustments are needed in patients with renal impairment.
 
 Geriatrics
 
@@ -125,23 +125,23 @@ Patients who attained everolimus trough concentrations within the range of 6 to 
 
 In the kidney clinical trial [see Clinical Studies (14.1)], everolimus whole blood trough concentrations were measured at Days 3, 7, and 14 and Months 1, 2, 3, 4, 6, 7, 9, and 12.
 The proportion of patients receiving 0.75 mg twice daily Zortress treatment regimen who had everolimus whole blood trough concentrations within the protocol specified target range of 3 to 8 ng/mL at Days 3, 7, and 14 were 55%, 71% and 69%, respectively.
-Approximately 80% of patients had everolimus whole blood trough concentrations within the 3 to 8 ng/mL target range by Month 1 and remained stable within range through Month 12 posttransplant.
+Approximately 80% of patients had everolimus whole blood trough concentrations within the 3 to 8 ng/mL target range by Month 1 and remained stable within range through Month 12 post-transplant.
 The median everolimus trough concentration for the 0.75 mg twice daily treatment group was between 3 and 8 ng/mL throughout the study duration.
 
 Everolimus in Liver Transplantation
 
-In the liver clinical trial [see Clinical Studies (14.2)], Zortress dosing was initiated after 30 days following transplantation.
+In the liver clinical trial [see Clinical Studies (14.2)] Zortress dosing was initiated after 30 days following transplantation.
 Whole blood trough everolimus concentrations were measured within 5 days after first dose, followed by weekly intervals for 3 to 4 weeks, and then monthly thereafter.
 Approximately 49%, 37%, and 18% of patients, respectively, were below 3 ng/mL at 1, 2, and 4 weeks after initiation of Zortress dosing.
-The majority of patients (approximately 80%) had everolimus trough blood concentrations within the target range of 3 to 8 ng/mL from Month 2 through Month 24 posttransplant.
+The majority of patients (approximately 70% to 80%) had everolimus trough blood concentrations within the target range of 3 to 8 ng/mL from Month 2 through Month 24 post-transplant.
 
 ## 12.8 Cyclosporine Concentrations Observed in Kidney Transplant Patients
 
-In the kidney transplant clinical trial [see Clinical Studies (14.1)], the target cyclosporine whole blood trough concentration for the Zortress treatment arm of 0.75 mg twice daily were 100 to 200 ng/mL through Month 1 posttransplant, 75 to 150 ng/mL at Months 2 and 3 posttransplant, 50 to 100 ng/mL at Month 4 posttransplant, and 25 to 50 ng/mL from Month 6 through Month 12 posttransplant.
+In the kidney transplant clinical trial [see Clinical Studies (14.1)], the target cyclosporine whole blood trough concentration for the Zortress treatment arm of 0.75 mg twice daily were 100 to 200 ng/mL through Month 1 post-transplant, 75 to 150 ng/mL at Months 2 and 3 post-transplant, 50 to 100 ng/mL at Month 4 post-transplant, and 25 to 50 ng/mL from Month 6 through Month 12 post-transplant.
 Table 5 below provides a summary of the observed cyclosporine whole blood trough concentrations during the study.
 
 Table 5.
-Cyclosporine Trough Concentrations Over 12 Months Posttransplant – Kidney Study Median Values (ng/mL) with 10th and 90th Percentiles
+Cyclosporine Trough Concentrations Over 12 Months Post-transplant – Kidney Study Median Values (ng/mL) with 10th and 90th Percentiles
 
 | Treatment group | Visit | N | Target (ng/mL) | Median | 10th Percentile | 90th Percentile |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -159,14 +159,14 @@ Cyclosporine Trough Concentrations Over 12 Months Posttransplant – Kidney Stud
 
 ## 12.9 Tacrolimus Concentrations in Liver Transplant
 
-In the liver transplant clinical trial [see Clinical Studies (14.2)], the target tacrolimus whole blood trough concentrations were greater than or equal to 8 ng/mL in the first 30 days posttransplant.
+In the liver transplant clinical trial [see Clinical Studies (14.2)], the target tacrolimus whole blood trough concentrations were greater than or equal to 8 ng/mL in the first 30 days post-transplant.
 The protocol required that patients had a tacrolimus trough concentration of at least 8 ng/mL in the week prior to initiation of Zortress.
-Zortress was initiated after 30 days posttransplant.
+Zortress was initiated after 30 days post-transplant.
 At that time, the target tacrolimus trough concentrations were reduced to 3 to 5 ng/mL.
-Table 6 below provides a summary of the tacrolimus whole blood trough concentrations observed during the study through Month 24 posttransplant.
+Table 6 below provides a summary of the tacrolimus whole blood trough concentrations observed during the study through Month 24 post-transplant.
 
 Table 6.
-Tacrolimus Trough Concentrations Over 24 Months Posttransplant–Liver Study Median Values (ng/mL) with 10th and 90th Percentiles
+Tacrolimus Trough Concentrations Over 24 Months Post-transplant – Liver Study Median Values (ng/mL) with 10th and 90th Percentiles
 
 | Treatment group | Visit | N | Target (ng/mL) | Median | 10th Percentile | 90th Percentile |
 | --- | --- | --- | --- | --- | --- | --- |

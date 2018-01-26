@@ -4,7 +4,7 @@ Administration
 
 Inform patients that Zortress should be taken orally twice a day approximately 12 hours apart consistently either with or without food.
 
-Inform patients to avoid grapefruit and grapefruit juice which increase blood drug concentrations of Zortress [see Warnings and Precautions (5.19)].
+Inform patients to avoid grapefruit and grapefruit juice which increase blood drug concentrations of Zortress [see Warnings and Precautions (5.20)].
 
 Advise patients that Zortress should be used concurrently with reduced doses of cyclosporine and that any change in doses of these medications should be made under physician supervision.
 A change in the cyclosporine dose may also require a change in the dosage of Zortress.
@@ -23,7 +23,7 @@ Advise patients to contact their physician if they develop any symptoms of infec
 
 Kidney Graft Thrombosis
 
-Inform patients that Zortress has been associated with an increased risk of kidney arterial and venous thrombosis, resulting in graft loss, usually within the first 30 days posttransplantation [see Warnings and Precautions (5.4)].
+Inform patients that Zortress has been associated with an increased risk of kidney arterial and venous thrombosis, resulting in graft loss, usually within the first 30 days post-transplantation [see Warnings and Precautions (5.4)].
 
 Zortress and Calcineurin Inhibitor-Induced Nephrotoxicity
 
@@ -41,7 +41,7 @@ Inform patients the use of Zortress has been associated with impaired or delayed
 
 Interstitial Lung Disease/Non-Infectious Pneumonitis
 
-Inform patients the use of Zortress may increase the risk of noninfectious pneumonitis.
+Inform patients the use of Zortress may increase the risk of non-infectious pneumonitis.
 Advise patients to seek medical attention if they develop clinical symptoms consistent with pneumonia [see Warnings and Precautions (5.10)].
 
 Hyperlipidemia
@@ -52,9 +52,16 @@ Proteinuria
 
 Inform patients the use of Zortress has been associated with an increased risk of proteinuria [see Warnings and Precautions (5.12)].
 
-Pregnancy
+Pregnancy and Lactation
 
 Advise women of childbearing age to avoid becoming pregnant throughout treatment and for 8 weeks after Zortress therapy has stopped.
+Zortress can cause fetal harm if taken during pregnancy.
+Advise a pregnant woman of the potential risk to a fetus.
+Also advise not to breastfeed while taking Zortress [see Use in Specific Populations (8.1, 8.2)].
+
+Male and Female Fertility
+
+Inform male and female patients that Zortress may impair fertility [see Warnings and Precautions (5.18), Use in Specific Populations (8.1, 8.3), NonClinical Toxicology (13.1)].
 
 Medications that Interfere with Zortress
 
@@ -69,14 +76,16 @@ Inform patients the use of Zortress may increase the risk of diabetes mellitus a
 Immunizations
 
 Inform patients that vaccinations may be less effective while they are being treated with Zortress.
-Advise patients live vaccines should be avoided [see Warnings and Precautions (5.18)].
+Advise patients live vaccines should be avoided [see Warnings and Precautions (5.19)].
 
 Patient with Hereditary Disorders
 
-Advise patients to inform their physicians that if they have hereditary disorders of galactose intolerance (Lapp-lactase deficiency or glucose-galactose malabsorption) not to take Zortress [see Warnings and Precautions (5.20)].
+Advise patients to inform their physicians that if they have hereditary disorders of galactose intolerance (Lapp-lactase deficiency or glucose-galactose malabsorption) not to take Zortress [see Warnings and Precautions (5.21)].
+
+Manufactured by: Novartis Pharma Stein AG Stein, Switzerland
 
 Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
 
 © Novartis
 
-T2016-87 October 2016
+T2018-03

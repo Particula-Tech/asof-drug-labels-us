@@ -2,24 +2,60 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C
+Risk Summary
 
-There are no adequate and well controlled studies of Zortress in pregnant women.
-In rats and rabbits, everolimus crossed the placenta and was toxic to the conceptus.
-The potential risk for humans is unknown.
-Zortress should be given to pregnant women only if the potential benefit to the mother justifies the potential risk to the fetus.
-Women of childbearing potential should be advised to use highly effective contraception methods while they are receiving Zortress and up to 8 weeks after treatment has been stopped.
+Based on animal studies and the mechanism of action [see Clinical Pharmacology (12.1)], Zortress can cause fetal harm when administered to a pregnant woman.
+There are limited case reports of Zortress use in pregnant women; however, these reports are insufficient to inform a drug associated risk of adverse developmental outcomes.
+Reproductive studies in animals have demonstrated that everolimus was maternally toxic in rabbits, and caused embryo-fetal toxicities in rats and rabbits, at exposures near or below those achieved in human transplant patients.
+Advise pregnant women of the potential risk to a fetus.
 
-Everolimus administered daily to pregnant rats by oral gavage at 0.1 mg/kg from before mating through organogenesis resulted in increased preimplantation loss and early resorptions of fetal implants.
-AUCs in rats at this dose were approximately one-third those in humans administered the starting dose (0.75 mg twice daily).
-Everolimus administered daily by oral gavage at 0.8 mg/kg to pregnant rabbits during organogenesis resulted in increased late resorptions of fetal implants.
-At this dose, AUCs in rabbits were slightly less than the AUCs in humans administered the starting clinical dose.
+The background risk of major birth defects and miscarriage for the indicated population is unknown; however, in the U.S. general population, the estimated background risk of major birth defects is 2-%4% and of miscarriage is 15%-20% of clinically recognized pregnancies.
 
-## 8.3 Nursing Mothers
+Data
 
-It is not known whether everolimus is excreted in human milk.
-Everolimus and/or its metabolites readily transferred into milk of lactating rats at a concentration 3.5 times higher than in maternal serum.
-Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from everolimus, women should avoid breast-feeding during treatment with Zortress.
+Animal Data
+
+Everolimus crossed the placenta and was toxic to the conceptus.
+
+Everolimus administered daily to pregnant rats by oral gavage at 0.1 mg/kg (approximately one tenth the exposure in humans administered the lowest starting dose of 0.75 mg twice daily), from before mating through organogenesis, resulted in increased preimplantation loss and embryonic resorptions.
+These effects occurred in the absence of maternal toxicities.
+
+Everolimus administered daily by oral gavage to pregnant rabbits during organogenesis resulted in abortions, maternal toxicity and lethality, and increased fetal resorptions.
+At these doses, exposure to everolimus (AUC) was approximately one-tenth, one-half, and one and one-half fold the exposures in humans administered the starting clinical dose, respectively.
+
+In a pre- and post-natal development study in rats, animals were dosed from implantation through lactation.
+At a dose of 0.1 mg/kg (0.6 mg/m2), there were no adverse effects on delivery and lactation or signs of maternal toxicity; however, there were reductions in body weight (up to 9% reduction) and in survival of offspring (~5%).
+There were no drug-related effects on the developmental parameters (morphological development, motor activity, learning, or fertility assessment) in the offspring.
+
+## 8.2 Lactation
+
+Risk Summary
+
+There is no data regarding the presence of Zortress in human milk, the effects on breastfed infants, or the effects on milk production.
+Everolimus and/or its metabolites are readily transferred into milk of lactating rats at a concentration 3.5 times higher than in maternal rat serum.
+In pre-post-natal and juvenile studies in rats, exposure to everolimus during the postnatal period caused developmental toxicity [see Use in Specific Populations (8.1) and Nonclinical Toxicology (13.2)].
+Advise lactating women not to breastfeed because of the potential for serious adverse reactions in infants exposed to everolimus.
+
+## 8.3 Females and Males of Reproductive Potential
+
+Contraception
+
+Females should not be pregnant or become pregnant while receiving Zortress.
+Advise females of reproductive potential that animal studies have been performed showing Zortress to be harmful to the mother and developing fetus [see Use in Specific Populations (8.1)].
+Females of reproductive potential are recommended to use highly effective contraception methods while receiving Zortress and up to 8 weeks after treatment has been stopped.
+
+Infertility
+
+Females
+
+Amenorrhea occurred in female patients taking Zortress [see Adverse Reactions (6.2)].
+Zortress may cause pre-implantation loss in females based on animal data [see Nonclinical Toxicology (13.1)].
+
+Female fertility may be compromised by treatment with Zortress.
+
+Males
+
+Zortress treatment may impair fertility in males based on human [see Warnings and Precautions (5.18), Adverse Reactions (6.2, 6.3)] and animal findings [see Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
 

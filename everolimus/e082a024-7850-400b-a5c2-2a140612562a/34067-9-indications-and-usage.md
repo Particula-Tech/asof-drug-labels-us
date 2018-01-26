@@ -9,7 +9,7 @@ Therapeutic drug monitoring (TDM) of everolimus and cyclosporine is recommended 
 ## 1.2 Prophylaxis of Organ Rejection in Liver Transplantation
 
 Zortress is indicated for the prophylaxis of allograft rejection in adult patients receiving a liver transplant.
-Zortress is to be administered no earlier than 30 days posttransplant concurrently in combination with reduced doses of tacrolimus and with corticosteroids [see Warnings and Precautions (5.5), Clinical Studies (14.2)].
+Zortress is to be administered no earlier than 30 days post-transplant concurrently in combination with reduced doses of tacrolimus and with corticosteroids [see Warnings and Precautions (5.5), Clinical Studies (14.2)].
 Therapeutic drug monitoring (TDM) of everolimus and tacrolimus is recommended for all patients receiving these products [see Dosage and Administration (2.3, 2.5)].
 
 ## 1.3 Limitations of Use
@@ -18,4 +18,4 @@ The safety and efficacy of Zortress has not been established in the following po
 
 - Kidney transplant patients at high immunologic risk
 - Recipients of transplanted organs other than kidney and liver [see Warnings and Precautions (5.7)]
-- Pediatric patients (less than18 years)
+- Pediatric patients (less than18 years).
