@@ -13,6 +13,8 @@ In instances where swelling has been confined to the face and lips the condition
 Angioedema associated with laryngeal edema may be fatal.
 Where there is involvement of the tongue, glottis or larynx, likely to cause airway obstruction, appropriate therapy, e.g., subcutaneous epinephrine solution 1:1000 (0.3 mL to 0.5 mL) and/or measures necessary to ensure a patent airway, should be promptly provided (see ADVERSE REACTIONS).
 
+Patients receiving coadministration of ACE inhibitor and mTOR (mammalian target of rapamycin) inhibitor (e.g., temsirolimus, sirolimus, everolimus) therapy or a neprilysin inhibitor may be at increased risk for angioedema (see PRECAUTIONS).
+
 Intestinal Angioedema: Intestinal angioedema has been reported in patients treated with ACE inhibitors.
 These patients presented with abdominal pain (with or without nausea or vomiting); in some cases there was no prior history of facial angioedema and C-1 esterase levels were normal.
 The angioedema was diagnosed by procedures including abdominal CT scan or ultrasound, or at surgery, and symptoms resolved after stopping the ACE inhibitor.
@@ -20,12 +22,12 @@ Intestinal angioedema should be included in the differential diagnosis of patien
 
 Patients with a history of angioedema unrelated to ACE inhibitor therapy may be at increased risk of angioedema while receiving an ACE inhibitor (see also INDICATIONS AND USAGE and CONTRAINDICATIONS).
 
-Anaphylactoid reactions during desensitization
+Anaphylactoid Reactions During Desensitization
 
 Two patients undergoing desensitizing treatment with hymenoptera venom while receiving ACE inhibitors sustained life-threatening anaphylactoid reactions.
 In the same patients, these reactions were avoided when ACE inhibitors were temporarily withheld, but they reappeared upon inadvertent rechallenge.
 
-Anaphylactoid reactions during membrane exposure
+Anaphylactoid Reactions During Membrane Exposure
 
 Anaphylactoid reactions have been reported in patients dialyzed with high-flux membranes and treated concomitantly with an ACE inhibitor.
 Anaphylactoid reactions have also been reported in patients undergoing low-density lipoprotein apheresis with dextran sulfate absorption.
@@ -34,7 +36,7 @@ Hypotension
 
 Excessive hypotension is rare in uncomplicated hypertensive patients treated with enalapril maleate alone.
 Patients with heart failure given enalapril maleate commonly have some reduction in blood pressure, especially with the first dose, but discontinuation of therapy for continuing symptomatic hypotension usually is not necessary when dosing instructions are followed; caution should be observed when initiating therapy (see DOSAGE AND ADMINISTRATION).
-Patients at risk for excessive hypotension, sometimes associated with oliguria and/or progressive azotemia, and rarely with acute renal failure and/or death, include those with the following conditions or characteristics: heart failure, hyponatremia, high dose diuretic therapy, recent intensive diuresis or increase in diuretic dose, renal dialysis, or severe volume and/or salt depletion of any etiology.
+Patients at risk for excessive hypotension, sometimes associated with oliguria and/or progressive azotemia, and rarely with acute renal failure and/or death, include those with the following conditions or characteristics: heart failure, hyponatremia, high-dose diuretic therapy, recent intensive diuresis or increase in diuretic dose, renal dialysis, or severe volume and/or salt depletion of any etiology.
 It may be advisable to eliminate the diuretic (except in patients with heart failure), reduce the diuretic dose or increase salt intake cautiously before initiating therapy with enalapril maleate in patients at risk for excessive hypotension who are able to tolerate such adjustments (see PRECAUTIONS, Drug Interactions and ADVERSE REACTIONS).
 In patients at risk for excessive hypotension, therapy should be started under very close medical supervision and such patients should be followed closely for the first two weeks of treatment and whenever the dose of enalapril and/or diuretic is increased.
 Similar considerations may apply to patients with ischemic heart or cerebrovascular disease, in whom an excessive fall in blood pressure could result in a myocardial infarction or cerebrovascular accident.
@@ -45,7 +47,7 @@ If symptomatic hypotension develops, a dose reduction or discontinuation of enal
 
 Neutropenia/Agranulocytosis
 
-Another angiotensin converting enzyme inhibitor, captopril, has been shown to cause agranulocytosis and bone marrow depression, rarely in uncomplicated patients but more frequently in patients with renal impairment especially if they also have a collagen vascular disease.
+Another angiotensin converting enzyme inhibitor, captopril, has been shown to cause agranulocytosis and bone marrow depression, rarely in uncomplicated patients but more frequently in patients with renal impairment, especially if they also have a collagen vascular disease.
 Available data from clinical trials of enalapril are insufficient to show that enalapril does not cause agranulocytosis at similar rates.
 Marketing experience has revealed cases of neutropenia or agranulocytosis in which a causal relationship to enalapril cannot be excluded.
 Periodic monitoring of white blood cell counts in patients with collagen vascular disease and renal disease should be considered.
@@ -57,8 +59,6 @@ The mechanism of this syndrome is not understood.
 Patients receiving ACE inhibitors who develop jaundice or marked elevations of hepatic enzymes should discontinue the ACE inhibitor and receive appropriate medical follow-up.
 
 Fetal Toxicity
-
-Pregnancy Category D
 
 Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death.
 Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations.
@@ -84,15 +84,15 @@ General
 
 Aortic Stenosis/Hypertrophic Cardiomyopathy:
 
-As with all vasodilators, enalapril maleate should be given with caution to patients with obstruction in the outflow tract of the left ventricle.
+As with all vasodilators, enalapril should be given with caution to patients with obstruction in the outflow tract of the left ventricle.
 
 Impaired Renal Function:
 
 As a consequence of inhibiting the renin-angiotensin-aldosterone system, changes in renal function may be anticipated in susceptible individuals.
-In patients with severe heart failure whose renal function may depend on the activity of the renin angiotensin- aldosterone system, treatment with angiotensin converting enzyme inhibitors, including enalapril maleate, may be associated with oliguria and/or progressive azotemia and rarely with acute renal failure and/or death (see PRECAUTIONS, Drug Interactions).
+In patients with severe heart failure whose renal function may depend on the activity of the renin-angiotensin-aldosterone system, treatment with angiotensin converting enzyme inhibitors, including enalapril maleate, may be associated with oliguria and/or progressive azotemia and rarely with acute renal failure and/or death (see PRECAUTIONS, Drug Interactions).
 
 In clinical studies in hypertensive patients with unilateral or bilateral renal artery stenosis, increases in blood urea nitrogen and serum creatinine were observed in 20 percent of patients.
-These increases were almost always reversible upon discontinuation of enalapril maleate and/or diuretic therapy.
+These increases were almost always reversible upon discontinuation of enalapril and/or diuretic therapy.
 In such patients renal function should be monitored during the first few weeks of therapy.
 
 Some patients with hypertension or heart failure with no apparent pre-existing renal vascular disease have developed increases in blood urea and serum creatinine, usually minor and transient, especially when enalapril maleate has been given concomitantly with a diuretic.
@@ -117,14 +117,14 @@ ACE inhibitor-induced cough should be considered in the differential diagnosis o
 
 Surgery/Anesthesia:
 
-In patients undergoing major surgery or during anesthesia with agents that produce hypotension, enalapril maleate may block angiotensin II formation secondary to compensatory renin release.
+In patients undergoing major surgery or during anesthesia with agents that produce hypotension, enalapril may block angiotensin II formation secondary to compensatory renin release.
 If hypotension occurs and is considered to be due to this mechanism, it can be corrected by volume expansion.
 
 Information for Patients
 
 Angioedema:
 
-Angioedema, including laryngeal edema, may occur at any time during treatment with angiotensin converting enzyme inhibitors, including enalapril maleate.
+Angioedema, including laryngeal edema, may occur at any time during treatment with angiotensin converting enzyme inhibitors, including enalapril.
 Patients should be so advised and told to report immediately any signs or symptoms suggesting angioedema (swelling of face, extremities, eyes, lips, tongue, difficulty in swallowing or breathing) and to take no more drug until they have consulted with the prescribing physician.
 
 Hypotension:
@@ -155,6 +155,11 @@ It is not a disclosure of all possible adverse or intended effects.
 
 Drug Interactions
 
+Neprilysin Inhibitors:
+
+Patients taking concomitant neprilysin inhibitors may be at increased risk for angioedema.
+(see WARNINGS)
+
 Dual Blockade of the Renin-Angiotensin System (RAS)
 
 Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy.
@@ -169,15 +174,15 @@ Hypotension — Patients on Diuretic Therapy:
 
 Patients on diuretics and especially those in whom diuretic therapy was recently instituted, may occasionally experience an excessive reduction of blood pressure after initiation of therapy with enalapril.
 The possibility of hypotensive effects with enalapril can be minimized by either discontinuing the diuretic or increasing the salt intake prior to initiation of treatment with enalapril.
-If it is necessary to continue the diuretic, provide close medical supervision after the initial dose for at least two hours and until blood pressure has stabilized for at least an additional hour (see WARNINGS and DOSAGE ANDADMINISTRATION).
+If it is necessary to continue the diuretic, provide close medical supervision after the initial dose for at least two hours and until blood pressure has stabilized for at least an additional hour (see WARNINGS and DOSAGE AND ADMINISTRATION).
 
 Agents Causing Renin Release:
 
 The antihypertensive effect of enalapril maleate is augmented by antihypertensive agents that cause renin release (e.g., diuretics).
 
-Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2Inhibitors (COX-2 Inhibitors):
+Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors):
 
-In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDs, including selective COX-2 inhibitors, with ACE inhibitors, including enalapril, may result in deterioration of renal function, including possible acute renal failure.
+In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, coadministration of NSAIDs, including selective COX-2 inhibitors, with ACE inhibitors, including enalapril, may result in deterioration of renal function, including possible acute renal failure.
 These effects are usually reversible.
 Monitor renal function periodically in patients receiving enalapril and NSAID therapy.
 
@@ -194,7 +199,7 @@ Agents Increasing Serum Potassium:
 Enalapril maleate attenuates potassium loss caused by thiazide-type diuretics.
 Potassium-sparing diuretics (e.g., spironolactone, triamterene, or amiloride), potassium supplements, or potassium-containing salt substitutes may lead to significant increases in serum potassium.
 Therefore, if concomitant use of these agents is indicated because of demonstrated hypokalemia, they should be used with caution and with frequent monitoring of serum potassium.
-Potassium sparing agents should generally not be used in patients with heart failure receiving enalapril maleate.
+Potassium-sparing agents should generally not be used in patients with heart failure receiving enalapril maleate.
 
 Lithium:
 
@@ -206,15 +211,19 @@ Gold:
 
 Nitritoid reactions (symptoms include facial flushing, nausea, vomiting and hypotension) have been reported rarely in patients on therapy with injectable gold (sodium aurothiomalate) and concomitant ACE inhibitor therapy including enalapril maleate.
 
+mTOR (mammalian target of rapamycin) inhibitors:
+
+Patients receiving coadministration of ACE inhibitor and mTOR inhibitor (e.g., temsirolimus, sirolimus, everolimus) therapy may be at increased risk for angioedema (see WARNINGS).
+
 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 There was no evidence of a tumorigenic effect when enalapril was administered for 106 weeks to male and female rats at doses up to 90 mg/kg/day or for 94 weeks to male and female mice at doses up to 90 and 180 mg/kg/day, respectively.
 These doses are 26 times (in rats and female mice) and 13 times (in male mice) the maximum recommended human daily dose (MRHDD) when compared on a body surface area basis.
 
 Neither enalapril maleate nor the active diacid was mutagenic in the Ames microbial mutagen test with or without metabolic activation.
-Enalapril maleate was also negative in the following genotoxicity studies: rec-assay, reverse mutation assay with E. coli, sister chromatid exchange with cultured mammalian cells, and the micronucleus test with mice, as well as in an in vivo cytogenic study using mouse bone marrow.
+Enalapril was also negative in the following genotoxicity studies: rec-assay, reverse mutation assay with E. coli, sister chromatid exchange with cultured mammalian cells, and the micronucleus test with mice, as well as in an in vivo cytogenic study using mouse bone marrow.
 
-There were no adverse effects on reproductive performance of male and female rats treated with up to 90 mg/kg/day of enalapril maleate (26 times the MRHDD when compared on a body surface area basis).
+There were no adverse effects on reproductive performance of male and female rats treated with up to 90 mg/kg/day of enalapril (26 times the MRHDD when compared on a body surface area basis).
 
 Pregnancy
 

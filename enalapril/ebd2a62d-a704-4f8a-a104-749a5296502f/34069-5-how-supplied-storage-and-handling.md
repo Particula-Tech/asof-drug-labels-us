@@ -1,52 +1,12 @@
 # HOW SUPPLIED
 
-Enalapril maleate tablets, 2.5 mg, are white, oval shaped tablet with “VASO 2.5” and scored on one side and scored on the other.
-
-They are supplied as follows:
-
-68682-710-30 bottles of 30 (with desiccant)
-
-68682-710-90 unit of use bottles of 90 (with desiccant)
-
-68682-710-01 bottles of 100 (with desiccant)
-
-68682-710-10 bottles of 1,000 (with desiccant)
-
-Enalapril maleate tablets, 5 mg, are white, rounded triangle shaped tablet with “VASO 5” on one side and scored on the other.
-
-They are supplied as follows:
-
-68682-711-30 bottles of 30 (with desiccant)
-
-68682-711-90 unit of use bottles of 90 (with desiccant)
-
-68682-711-01 bottles of 100 (with desiccant)
-
-68682-711-10 bottles of 1,000 (with desiccant)
-
-Enalapril maleate tablets, 10 mg, are rust red, rounded triangle shaped tablet with “VASO 10” on one side and scored on the other.
-
-They are supplied as follows:
-
-68682-712-30 bottles of 30 (with desiccant)
-
-68682-712-90 unit of use bottles of 90 (with desiccant)
-
-68682-712-01 bottles of 100 (with desiccant)
-
-68682-712-10 bottles of 1,000 (with desiccant)
-
-Enalapril maleate tablets, 20 mg, are peach, rounded triangle shaped tablet with “VASO 20” on one side and scored on the other.
-
-They are supplied as follows:
-
-68682-713-30 bottles of 30 (with desiccant)
-
-68682-713-90 unit of use bottles of 90 (with desiccant)
-
-68682-713-01 bottles of 100 (with desiccant)
-
-68682-713-10 bottles of 1,000 (with desiccant)
+| Enalapril maleate tablets |  |  |  |
+| --- | --- | --- | --- |
+| NDC Number | Strength | Quantity | Description |
+| 68682-710-3068682-710-9068682-710-0168682-710-10 | 2.5 mg | Bottles of 30(with desiccant)Bottles of 90(with desiccant)Bottles of 100(with desiccant)Bottles of 1,000(with desiccant) | White, oval shaped tablet imprinted with “VASO 2.5” and scored on one side andscored on the other. |
+| 68682-711-3068682-711-9068682-711-0168682-711-10 | 5 mg | Bottles of 30(with desiccant)Bottles of 90(with desiccant)Bottles of 100(with desiccant)Bottles of 1,000(with desiccant) | White, rounded triangle shaped tablet imprinted with “VASO 5” on one side and scored on the other. |
+| 68682-712-3068682-712-9068682-712-0168682-712-10 | 10 mg | Bottles of 30(with desiccant)Bottles of 90(with desiccant)Bottles of 100(with desiccant)Bottles of 1,000(with desiccant) | Rust red, rounded triangle shaped tablet imprinted with “VASO 10” on one side and scored on the other. |
+| 68682-713-3068682-713-9068682-713-0168682-713-10 | 20 mg | Bottles of 30(with desiccant)Bottles of 90(with desiccant)Bottles of 100(with desiccant)Bottles of 1,000(with desiccant) | Peach, rounded triangle shaped tablet imprinted with “VASO 20” on one side and scored on the other. |
 
 Storage
 
@@ -54,8 +14,6 @@ Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Con
 Keep container tightly closed.
 Protect from moisture.
 Dispense in a tight container as per USP, if product package is subdivided.
-
-Vasotec® is a registered trademark of Valeant Pharmaceuticals North America LLC.
 
 Manufactured for:
 
@@ -65,17 +23,20 @@ Valeant Pharmaceuticals North America LLC
 
 Bridgewater, NJ 08807 USA
 
-By:
+Manufactured by:
 
 Valeant Pharmaceuticals International, Inc.
 
-Steinbach, MB R5G 1Z7, Canada
+Steinbach, MB R5G 1Z7 Canada
 
-Made in Canada
+Vasotecis a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
+All other product/brand names and/or logos are trademarks of their respective owners.
 
-20000940
+© Valeant Pharmaceuticals North America LLC.
+
+20001977
 
 Rev.
-05/15
+07/2017
 
-9450101
+9450102
