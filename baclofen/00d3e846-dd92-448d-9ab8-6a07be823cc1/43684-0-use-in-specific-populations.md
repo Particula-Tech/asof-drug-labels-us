@@ -9,7 +9,7 @@ Pregnancy Category C
 There are no adequate and well-controlled studies in pregnant women.
 GABLOFEN should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-Baclofen given orally has been shown to increase the incidence of omphaloceles (ventral hernias) in fetuses of rats given approximately 13 times on a mg/kg basis, or 3 times on a mg/m2 basis, the maximum oral dose recommended for human use; this dose also caused reductions in food intake and weight gain in the dams.
+Baclofen given orally has been shown to increase the incidence of omphaloceles (ventral hernias) in fetuses of rats given approximately 13 times on a mg/kg basis, or 3 times on a mg/m 2 basis, the maximum oral dose recommended for human use; this dose also caused reductions in food intake and weight gain in the dams.
 This abnormality was not seen in mice or rabbits.
 
 ## 8.2 Labor & Delivery
