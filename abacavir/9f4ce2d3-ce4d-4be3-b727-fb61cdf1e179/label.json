@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA020978"
+  ],
+  "inn": "abacavir",
+  "labeler": "GlaxoSmithKline Inc",
+  "package_ndcs": [
+    "53873-034-00"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "abacavir sulfate",
+      "name": "ZIAGEN"
+    }
+  ],
+  "setid": "9f4ce2d3-ce4d-4be3-b727-fb61cdf1e179",
+  "source": "dailymed"
+}
