@@ -67,9 +67,7 @@ HOSPIRA, INC., LAKE FOREST, IL 60045 USA
 
 # PRINCIPAL DISPLAY PANEL - 1 mL Vial Carton
 
-1 mL Single-dose Fliptop Vial
-
-10 Units/ NDC 0409-1215-01
+1 mL Single-dose Fliptop Vial 10 Units/ NDC 0409-1215-01
 
 NALOXONE HYDROCHLORIDE Injection, USP
 
@@ -81,7 +79,7 @@ Protect from light.
 Store at 20 to 25°C (68 to 77°F).
 [See USP Controlled Room Temperature.]
 
-HOSPIRA, INC., LAKE FOREST, IL 60045 USA
+Hospira, Inc., Lake Forest, IL 60045 USA
 
 Hospira
 
@@ -118,6 +116,4 @@ Rx only
 
 Hospira
 
-©Hospira 2004 Printed in USA
-
-HOSPIRA, INC., LAKE FOREST, IL 60045 USA
+Hospira, Inc., Lake Forest, IL 60045 USA
