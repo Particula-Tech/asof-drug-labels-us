@@ -150,7 +150,7 @@ Mean Percentage Change From Baseline at Endpoint (Double-Blind, Randomized, Acti
 | 95% CI for Diff1 |  | -8.7, -2.7 | -10.1, -2.6 | -8.0, -1.1 | -15.1, -0.7 | -4.3, 3.9 | -9.6, -1.9 |
 
 1 A negative value for the 95% CI for the difference between treatments favors atorvastatin calcium for all except HDL-C, for which a positive value favors atorvastatin calcium.
-If the range does not include 0, this indicates a statistically significant difference. a Significantly different from pravastatin, ANCOVA, p ≤0.05 b Significantly different from lovastatin, ANCOVA, p ≤0.05 c Significantly different from simvastatin, ANCOVA, p ≤0.05
+If the range does not include 0, this indicates a statistically significant difference. a Significantly different from lovastatin, ANCOVA, p ≤0.05 b Significantly different from pravastatin, ANCOVA, p ≤0.05 c Significantly different from simvastatin, ANCOVA, p ≤0.05
 
 The impact on clinical outcomes of the differences in lipid-altering effects between treatments shown in Table 8 is not known.
 Table 8 does not contain data comparing the effects of atorvastatin calcium 10 mg and higher doses of lovastatin, pravastatin, and simvastatin.
@@ -217,10 +217,7 @@ Lipid-altering Effects of Atorvastatin Calcium in Adolescent Boys and Girls with
 
 The mean achieved LDL-C value was 130.7 mg/dL (range: 70.0 to 242.0 mg/dL) in the atorvastatin calcium group compared to 228.5 mg/dL (range: 152.0 to 385.0 mg/dL) in the placebo group during the 26-week double-blind phase.
 
-Atorvastatin was also studied in a three year open-label, uncontrolled trial that included 163patientswith HeFH who were 10years to 15 years old (82 boys and 81girls).
-All patients had a clinical diagnosis of HeFH confirmed by genetic analysis (if not already confirmed by family history).
-Approximately 98% were Caucasian, andlessthan1% were Black or Asian.
-Mean LDL-Cat baseline was 232mg/dL.The starting atorvastatin dosage was 10 mg once daily and doses were adjusted to achieve a target of < 130 mg/dL LDL-C.
-The reductions in LDL-C from baseline were generally consistent across age groups within the trial as well as with previous clinical studies in both adult and pediatric placebo-controlled trials.
-
 The long-term efficacy of atorvastatin calcium therapy in childhood to reduce morbidity and mortality in adulthood has not been established.
+
+Additional pediatric use information is approved for Pfizer’s LIPITOR (atorvastatin calcium) tablets.
+However, due to Pfizer’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.

@@ -60,14 +60,15 @@ Use of atorvastatin calcium for this indication is supported by evidence from [s
 - A placebo-controlled clinical trial of 6 months duration in 187 boys and postmenarchal girls,10 years to 17 years of age.
   Patients treated with 10 mg or 20 mg daily atorvastatin calcium had an adverse reaction profile generally similar to that of patients treated with placebo.
   In this limited controlled study, there was no significant effect on growth or sexual maturation in boys or on menstrual cycle length in girls.
-- A three year open-label uncontrolled trial that included 163 pediatric patients 10 to 15years of age with HeFH who were titrated to achieve a target LDL-C < 130 mg/dL.
-  The safety and efficacy of atorvastatin calcium in lowering LDL-C appeared generally consistent with that observed for adult patients, despite limitations of the uncontrolled study design
 
 Advise postmenarchal girls of contraception recommendations, if appropriate for the patient [see Use in Specific Populations (8.1), (8.3)].
 
 The long-term efficacy of atorvastatin calcium therapy initiated in childhood to reduce morbidity and mortality in adulthood has not been established.
 
 The safety and efficacy of atorvastatin calcium have not been established in pediatric patients younger than 10 years of age with HeFH.
+
+Additional pediatric use information is approved for Pfizer’s LIPITOR (atorvastatin calcium) tablets.
+However, due to Pfizer’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 Homozygous Familial Hypercholesterolemia (HoFH)
 
