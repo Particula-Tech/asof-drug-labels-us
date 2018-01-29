@@ -1,0 +1,28 @@
+{
+  "application_numbers": [
+    "ANDA090647"
+  ],
+  "inn": "tenofovir-disoproxil",
+  "labeler": "Aurobindo Pharma Limited",
+  "package_ndcs": [
+    "65862-421-30",
+    "65862-818-03",
+    "65862-818-10",
+    "65862-818-30",
+    "65862-819-03",
+    "65862-819-10",
+    "65862-819-30",
+    "65862-820-03",
+    "65862-820-10",
+    "65862-820-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "tenofovir disoproxil fumarate",
+      "name": "Tenofovir Disoproxil Fumarate"
+    }
+  ],
+  "setid": "a75c6be8-3719-4bb3-8a9e-06e5254d2a82",
+  "source": "dailymed"
+}
