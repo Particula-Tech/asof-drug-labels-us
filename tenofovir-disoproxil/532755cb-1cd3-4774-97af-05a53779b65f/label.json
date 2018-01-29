@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA203232"
+  ],
+  "inn": "tenofovir-disoproxil",
+  "labeler": "Macleods Pharmaceuticals Limited",
+  "package_ndcs": [
+    "33342-096-07"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "tenofovir disproxil fumarate",
+      "name": "tenofovir disproxil fumarate"
+    }
+  ],
+  "setid": "532755cb-1cd3-4774-97af-05a53779b65f",
+  "source": "dailymed"
+}
