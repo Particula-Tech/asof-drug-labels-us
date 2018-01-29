@@ -120,10 +120,10 @@ Effect of Pioglitazone Coadministration on Systemic Exposure of Other Drugs
 Table 16.
 Effect of Coadministered Drugs on Pioglitazone Systemic Exposure
 
-| Coadministered Drug and Dosage Regimen | Pioglitazone |  |  |
+| Dose Regimen (mg)* | Change in AUC† | Change in Cmax† |  |
 | --- | --- | --- | --- |
-| Dose Regimen (mg)Daily for 7 days unless otherwise noted | Change in AUCMean ratio (with/without coadministered drug and no change =1 fold) % change (with/without coadministered drug and no change = 0%); symbols of ↑ and ↓indicate the exposure increase and decrease, respectively. | Change in Cmax |  |
-| Gemfibrozil 600 mg twice daily for 2 days (N = 12) | 30 mg single dose | ↑ 3.4-fold‡ | ↑ 6% |
+| Coadministered Drug and Dosage Regimen | Pioglitazone |  |  |
+| Gemfibrozil 600 mg twice daily for 2 days (N = 12) | 15 mg single dose | ↑ 3.2-fold‡ | ↑ 6% |
 | Ketoconazole 200 mg twice daily for 7 days (N = 28) | 45 mg | ↑ 34% | ↑ 14% |
 | Rifampin 600 mg daily for 5 days (N = 10) | 30 mg single dose | ↓ 54% | ↓ 5% |
 | Fexofenadine 60 mg twice daily for 7 days (N = 23) | 45 mg | ↑ 1% | 0% |
@@ -131,4 +131,6 @@ Effect of Coadministered Drugs on Pioglitazone Systemic Exposure
 | Nifedipine ER 30 mg daily for 7 days (N = 23) | 45 mg | ↑ 5% | ↑ 4% |
 | Atorvastatin Ca 80 mg daily for 7 days (N = 24) | 45 mg | ↓ 24% | ↓ 31% |
 | Theophylline 400 mg twice daily for 7 days (N = 22) | 45 mg | ↓ 4% | ↓ 2% |
-| The half-life of pioglitazone increased from 8.3 hours to 22.7 hours in the presence of gemfibrozil [see Dosage and Administration (2.3) and Drug Interactions (7)] |  |  |  |
+| Topiramate 96 mg twice daily for 7 days§ (N = 26) | 30 mg§ | ↓15%¶ | 0% |
+
+*Daily for 7 days unless otherwise noted †Mean ratio (with/without coadministered drug and no change =1 fold) % change (with/without coadministered drug and no change = 0%); symbols of ↑ and ↓indicate the exposure increase and decrease, respectively ‡The half-life of pioglitazone increased from 8.3 hours to 22.7 hours in the presence of gemfibrozil [see Dosage and Administration (2.3) and Drug Interactions (7.1)] §Indicates duration of concomitant administration with highest twice-daily dose of topiramate from Day 14 onwards over the 22 days of study ¶Additional decrease in active metabolites; 60% for M-III and 16% for M-IV

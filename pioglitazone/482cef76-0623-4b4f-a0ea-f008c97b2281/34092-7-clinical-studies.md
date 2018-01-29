@@ -20,14 +20,14 @@ Glycemic Parameters in a 26-Week Placebo-Controlled Dose-Ranging Monotherapy Tri
 | Total Population |  |  |  |  |
 | HbA1c (%) | N=79 | N=79 | N=85 | N=76 |
 | Baseline (mean) | 10.4 | 10.2 | 10.2 | 10.3 |
-| Change from baseline (adjusted meanAdjusted for baseline, pooled center, and pooled center by treatment interaction) | 0.7 | -0.3 | -0.3 | -0.9 |
-| Difference from placebo (adjusted mean) 95% Confidence Interval |  | -1.0p ≤ 0.05 vs. placebo (-1.6, -0.4) | -1.0 (-1.6, -0.4) | -1.6 (-2.2, -1.0) |
+| Change from baseline (adjusted mean*) | 0.7 | -0.3 | -0.3 | -0.9 |
+| Difference from placebo (adjusted mean*) 95% Confidence Interval |  | -1.0† (-1.6, -0.4) | -1.0† (-1.6, -0.4) | -1.6† (-2.2, -1.0) |
 | Fasting Plasma Glucose (mg/dL) | N=79 | N=79 | N=84 | N=77 |
 | Baseline (mean) | 268 | 267 | 269 | 276 |
-| Change from baseline (adjusted mean) | 9 | -30 | -32 | -56 |
-| Difference from placebo (adjusted mean) 95% Confidence Interval |  | -39 (-63, -16) | -41 (-64, -18) | -65 (-89, -42) |
+| Change from baseline (adjusted mean*) | 9 | -30 | -32 | -56 |
+| Difference from placebo (adjusted mean*) 95% Confidence Interval |  | -39† (-63, -16) | -41† (-64, -18) | -65† (-89, -42) |
 
-In a 24-week placebo-controlled monotherapy trial, 260 patients with type 2 diabetes were randomized to one of two forced-titration pioglitazone hydrochloride treatment groups or a mock-titration placebo group.
+*Adjusted for baseline, pooled center, and pooled center by treatment interaction †p ≤ 0.05 vs. placebo In a 24-week placebo-controlled monotherapy trial, 260 patients with type 2 diabetes were randomized to one of two forced-titration pioglitazone hydrochloride treatment groups or a mock-titration placebo group.
 Therapy with any previous antidiabetic agent was discontinued 6 weeks prior to the double-blind period.
 In one pioglitazone hydrochloride treatment group, patients received an initial dose of 7.5 mg once daily.
 After four weeks, the dose was increased to 15 mg once daily and after another four weeks, the dose was increased to 30 mg once daily for the remainder of the trial (16 weeks).
@@ -36,34 +36,36 @@ Treatment with pioglitazone hydrochloride, as described, produced statistically 
 Table 18.
 Glycemic Parameters in a 24-Week Placebo-Controlled Forced-Titration Monotherapy Trial
 
-|  | Placebo | Pioglitazone Hydrochloride 30 mgFinal dose in forced titration Once Daily | Pioglitazone Hydrochloride 45 mg Once Daily |
+|  | Placebo | Pioglitazone Hydrochloride 30 mg* Once Daily | Pioglitazone Hydrochloride 45 mg* Once Daily |
 | --- | --- | --- | --- |
 | Total Population |  |  |  |
 | HbA1c (%) | N=83 | N=85 | N=85 |
 | Baseline (mean) | 10.8 | 10.3 | 10.8 |
-| Change from baseline (adjusted meanAdjusted for baseline, pooled center, and pooled center by treatment interaction) | 0.9 | -0.6 | -0.6 |
-| Difference from placebo (adjusted mean) 95% Confidence Interval |  | -1.5p ≤ 0.05 vs. placebo (-2.0, -1.0) | -1.5 (-2.0, -1.0) |
+| Change from baseline (adjusted mean†) | 0.9 | -0.6 | -0.6 |
+| Difference from placebo (adjusted mean†) 95% Confidence Interval |  | -1.5‡ (-2.0, -1.0) | -1.5‡ (-2.0, -1.0) |
 | Fasting Plasma Glucose (mg/dL) | N=78 | N=82 | N=85 |
 | Baseline (mean) | 279 | 268 | 281 |
-| Change from baseline (adjusted mean) | 18 | -44 | -50 |
-| Difference from placebo (adjusted mean) 95% Confidence Interval |  | -62 (-82, -.41) | -68 (-88, -.48) |
+| Change from baseline (adjusted mean†) | 18 | -44 | -50 |
+| Difference from placebo (adjusted mean†) 95% Confidence Interval |  | -62‡ (-82, -.41) | -68‡ (-88, -.48) |
 
-In a 16-week monotherapy trial, 197 patients with type 2 diabetes were randomized to treatment with 30 mg of pioglitazone hydrochloride or placebo once daily.
+*Final dose in forced titration †Adjusted for baseline, pooled center, and pooled center by treatment interaction ‡p ≤ 0.05 vs. placebo In a 16-week monotherapy trial, 197 patients with type 2 diabetes were randomized to treatment with 30 mg of pioglitazone hydrochloride or placebo once daily.
 Therapy with any previous antidiabetic agent was discontinued 6 weeks prior to the double-blind period.
 Treatment with 30 mg of pioglitazone hydrochloride produced statistically significant improvements in HbA1c and FPG at endpoint compared to placebo (see Table 19) Table 19.
 Glycemic Parameters in a 16-Week Placebo-Controlled Monotherapy Trial
 
-|  | Placebo | Pioglitazone Hydrochloride30 mg Once Daily |
+|  | Placebo | Pioglitazone Hydrochloride 30 mg Once Daily |
 | --- | --- | --- |
 | Total Population |  |  |
 | HbA1c (%) | N=93 | N=100 |
 | Baseline (mean) | 10.3 | 10.5 |
-| Change from baseline (adjusted meanAdjusted for baseline, pooled center, and pooled center by treatment interaction) | 0.8 | -0.6 |
-| Difference from placebo (adjusted mean) 95% Confidence Interval |  | -1.4p ≤ 0.05 vs. placebo (-1.8, -0.9) |
+| Change from baseline (adjusted mean*) | 0.8 | -0.6 |
+| Difference from placebo (adjusted mean*) 95% Confidence Interval |  | -1.4† (-1.8, -0.9) |
 | Fasting Plasma Glucose (mg/dL) | N=91 | N=99 |
 | Baseline (mean) | 270 | 273 |
-| Change from baseline (adjusted mean) | 8 | -50 |
-| Difference from placebo (adjusted mean) 95% Confidence Interval |  | -58 (-77, -38) |
+| Change from baseline (adjusted mean*) | 8 | -50 |
+| Difference from placebo (adjusted mean*) 95% Confidence Interval |  | -58† (-77, -38) |
+
+*Adjusted for baseline, pooled center, and pooled center by treatment interaction †p ≤ 0.05 vs. placebo
 
 ## 14.2 Combination Therapy
 
