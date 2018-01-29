@@ -23,7 +23,7 @@ In controlled clinical trials, pioglitazone hydrochloride had an additive effect
 
 Patients with lipid abnormalities were included in clinical trials with pioglitazone hydrochloride.
 Overall, patients treated with pioglitazone hydrochloride had mean decreases in serum triglycerides, mean increases in HDL cholesterol, and no consistent mean changes in LDL and total cholesterol.
-There is no conclusive evidence of macrovascular benefit with pioglitazone hydrochloride or any other antidiabetic medication [see Warnings and Precautions (5.8) and Adverse Reactions (6.1)].
+There is no conclusive evidence of macrovascular benefit with pioglitazone hydrochloride [see Warnings and Precautions (5.8) and Adverse Reactions (6.1)].
 
 In a 26 week, placebo-controlled, dose-ranging monotherapy study, mean serum triglycerides decreased in the 15 mg, 30 mg, and 45 mg pioglitazone dose groups compared to a mean increase in the placebo group.
 Mean HDL cholesterol increased to a greater extent in patients treated with pioglitazone hydrochloride than in the placebo-treated patients.
@@ -36,7 +36,7 @@ Lipids in a 26 Week Placebo-Controlled Monotherapy Dose-Ranging Study
 | --- | --- | --- | --- | --- |
 | Triglycerides (mg/dL) | N = 79 | N = 79 | N = 84 | N = 77 |
 | Baseline (mean) | 263 | 284 | 261 | 260 |
-| Percent change from baseline (adjusted mean Adjusted for baseline, pooled center, and pooled center by treatment interaction) | 4.8% | -9.0%p < 0.05 versus placebo | -9.6% | -9.3% |
+| Percent change from baseline (adjusted meanAdjusted for baseline, pooled center, and pooled center by treatment interaction) | 4.8% | -9.0%p < 0.05 versus placebo | -9.6% | -9.3% |
 | HDL Cholesterol (mg/dL) | N = 79 | N = 79 | N = 83 | N = 77 |
 | Baseline (mean) | 42 | 40 | 41 | 41 |
 | Percent change from baseline (adjusted mean) | 8.1% | 14.1% | 12.2% | 19.1% |
@@ -127,7 +127,7 @@ Table 15: Effect of Pioglitazone Coadministration on Systemic Exposure of Other 
 
 | Coadministered Drug |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Pioglitazone Dosage Regimen (mg) Daily for 7 days unless otherwise noted | Name and Dose Regimens | Change in AUC% change (with/without coadministered drug and no change = 0%); symbols of ↑ and ↓ indicate the exposure increase and decrease, respectively |  | Change in Cmax |  |
+| Pioglitazone Dosage Regimen (mg)Daily for 7 days unless otherwise noted | Name and Dose Regimens | Change in AUC% change (with/without coadministered drug and no change = 0%); symbols of ↑ and ↓ indicate the exposure increase and decrease, respectively |  | Change in Cmax |  |
 | 45 mg (N = 12) | WarfarinPioglitazone had no clinically significant effect on prothrombin time |  |  |  |  |
 | Daily loading then maintenance doses based PT and INR values Quick's Value = 35 ± 5% | R-Warfarin | ↓ 3% | R-Warfarin | ↓ 2% |  |
 | S-Warfarin | ↓ 1% | S-Warfarin | ↑ 1% |  |  |
@@ -166,3 +166,4 @@ Table 16: Effect of Coadministered Drugs on Pioglitazone Systemic Exposure
 | Nifedipine ER 30 mg daily for 7 days(N = 23) | 45 mg | ↑ 5% | ↑ 4% |
 | Atorvastatin Ca 80 mg daily for 7 days(N = 24) | 45 mg | ↓ 24% | ↓ 31% |
 | Theophylline 400 mg twice daily for 7 days(N = 22) | 45 mg | ↓ 4% | ↓ 2% |
+| Topiramate 96 mg twice daily for 7 daysIndicates duration of concomitant administration with highest twice-daily dose of topiramate from Day 14 onwards over the 22 days of study (N = 26) | 30 mg | ↓ 15%Additional decrease in active metabolites; 60% for M-III and 16% for M-IV | 0% |
