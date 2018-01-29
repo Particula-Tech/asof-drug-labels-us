@@ -1,8 +1,6 @@
 # Patient Information
 
-RIZATRIPTAN BENZOATE (RYE-za-TRIP-tan BEN-zo-ATE) TABLETS USP
-
-5 mg and 10 mg
+Rizatriptan Benzoate (RYE-za-TRIP-tan BEN-zo-ATE) Tablets USP
 
 Read this Patient Information before you start taking rizatriptan benzoate tablets and each time you get a refill.
 There may be new information.
@@ -186,17 +184,17 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 All brand names listed are the registered trademarks of their respective owners and are not trademarks of Teva Pharmaceuticals USA, Inc.
 
-Manufactured In Canada By:
+Manufactured In Croatia By:
 
-TEVA CANADA LIMITED
+Pliva Hrvatska d.o.o.
 
-Toronto, Canada M1B 2K9
+Zagreb, Croatia
 
 Manufactured For:
 
-TEVA PHARMACEUTICALS USA, INC.
+Teva Pharmaceuticals USA, Inc.
 
 North Wales, PA 19454
 
 Rev.
-C 11/2015
+D 4/2017

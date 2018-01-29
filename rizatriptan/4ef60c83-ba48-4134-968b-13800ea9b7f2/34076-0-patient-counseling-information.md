@@ -28,17 +28,17 @@ Medication Overuse Headache
 
 Inform patients that use of acute migraine drugs for 10 or more days per month may lead to an exacerbation of headache, and encourage patients to record headache frequency and drug use (e.g., by keeping a headache diary) [see Warnings and Precautions (5.6)].
 
-Manufactured In Canada By:
+Manufactured In Croatia By:
 
-TEVA CANADA LIMITED
+Pliva Hrvatska d.o.o.
 
-Toronto, Canada M1B 2K9
+Zagreb, Croatia
 
 Manufactured For:
 
-TEVA PHARMACEUTICALS USA, INC.
+Teva Pharmaceuticals USA, Inc.
 
 North Wales, PA 19454
 
 Rev.
-E 11/2015
+F 4/2017
