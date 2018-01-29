@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA078800"
+  ],
+  "inn": "tenofovir-disoproxil",
+  "labeler": "Cipla USA Inc.",
+  "package_ndcs": [
+    "69097-533-02",
+    "69097-533-15"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "tenofovir disoproxil fumarate",
+      "name": "Tenofovir disoproxil fumarate"
+    }
+  ],
+  "setid": "de27413a-6579-4586-80dc-39c712652952",
+  "source": "dailymed"
+}
