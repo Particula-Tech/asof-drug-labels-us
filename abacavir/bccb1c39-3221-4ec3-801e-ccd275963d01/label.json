@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA020977"
+  ],
+  "inn": "abacavir",
+  "labeler": "Glaxo Operations UK Ltd",
+  "package_ndcs": [
+    "63379-041-00",
+    "63379-041-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "abacavir sulfate",
+      "name": "ZIAGEN"
+    }
+  ],
+  "setid": "bccb1c39-3221-4ec3-801e-ccd275963d01",
+  "source": "dailymed"
+}
