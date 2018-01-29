@@ -2,7 +2,7 @@
 
 ## 1.1 Hypertension
 
-Amlodipine besylate tablets are indicated for the treatment of hypertension, to lower blood pressure.
+Amlodipine besylate tablets, USP are indicated for the treatment of hypertension, to lower blood pressure.
 Lowering blood pressure reduces the risk of fatal and nonfatal cardiovascular events, primarily strokes and myocardial infarctions.
 These benefits have been seen in controlled trials of antihypertensive drugs from a wide variety of pharmacologic classes including amlodipine besylate tablets.
 
@@ -23,10 +23,10 @@ Amlodipine besylate tablets may be used alone or in combination with other antih
 
 ## 1.2 Coronary Artery Disease (CAD)
 
-Chronic Stable Angina Amlodipine besylate tablets are indicated for the symptomatic treatment of chronic stable angina.
+Chronic Stable Angina Amlodipine besylate tablets, USP are indicated for the symptomatic treatment of chronic stable angina.
 Amlodipine besylate tablets may be used alone or in combination with other antianginal agents.
 
-Vasospastic Angina (Prinzmetal’s or Variant Angina) Amlodipine besylate tablets are indicated for the treatment of confirmed or suspected vasospastic angina.
-Amlodipine besylate tablets may be used as monotherapy or in combination with other antianginal agents.
+Vasospastic Angina (Prinzmetal’s or Variant Angina) Amlodipine besylate tablets, USP are indicated for the treatment of confirmed or suspected vasospastic angina.
+Amlodipine besylate tablets, USP may be used as monotherapy or in combination with other antianginal agents.
 
-Angiographically Documented CAD In patients with recently documented CAD by angiography and without heart failure or an ejection fraction <40%, amlodipine besylate tablets are indicated to reduce the risk of hospitalization for angina and to reduce the risk of a coronary revascularization procedure.
+Angiographically Documented CAD In patients with recently documented CAD by angiography and without heart failure or an ejection fraction <40%, amlodipine besylate tablets, USP are indicated to reduce the risk of hospitalization for angina and to reduce the risk of a coronary revascularization procedure.

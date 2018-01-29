@@ -25,4 +25,4 @@ Store at 20° to 25°C (68° to 77°F).
 
 Dispense in tight, light-resistant containers (USP).
 
-Revised: 10/2016
+Revised: 12/2017

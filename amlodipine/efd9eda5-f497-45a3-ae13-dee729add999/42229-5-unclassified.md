@@ -40,8 +40,7 @@ Tell your doctor if you:
 - are pregnant, or plan to become pregnant.
   Your doctor will decide if taking amlodipine besylate tablets is the best treatment for you.
 - are breast-feeding.
-  Do not breast-feed while taking amlodipine besylate tablets.
-  You can stop breast-feeding or take a different medicine.
+  Amlodipine passes into your milk.
 
 How should I take amlodipine besylate tablets?
 
@@ -58,8 +57,6 @@ How should I take amlodipine besylate tablets?
 
 What should I avoid while taking amlodipine besylate tablets?
 
-- Do not breast-feed.
-  It is not known if amlodipine besylate tablets will pass through your milk.
 - Do not start any new prescription or non-prescription medicines or supplements, unless you check with your doctor first.
 
 What are the possible side effects of amlodipine besylate tablets?
@@ -99,11 +96,9 @@ Do not give amlodipine besylate tablets to other people, even if they have the s
 It may harm them.
 
 You can ask your pharmacist or doctor for information about amlodipine besylate tablets, or you can visit exelan pharmaceuticals website at www.exelanpharma.com or call 1-855-295-7455.
-Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088 or at www.fda.gov/medwatch.
 
 Manufactured by: InvaGen Pharmaceuticals, Inc. Hauppauge, NY 11788
 
 Manufactured for: Exelan Pharmaceuticals, Inc. Lawrenceville, GA 30046
 
-Rev: 10/15
+Rev: 12/17
