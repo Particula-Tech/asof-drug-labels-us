@@ -13,4 +13,4 @@ C66H68CaF2N4O10•3H2O M.W.
 Atorvastatin calcium trihydrate (Form I) is a white to off-white powder that is insoluble in aqueous solutions of pH 4.5 and below.
 Atorvastatin calcium is very slightly soluble in distilled water, pH 7.8 phosphate buffer, and acetonitrile; slightly soluble in ethanol; and freely soluble in methanol.
 
-Atorvastatin calcium tablets for oral administration contain 10, 20, 40 or 80 mg atorvastatin and the following inactive ingredients: calcium carbonate, croscarmellose sodium, hydroxypropyl cellulose, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate, talc and titanium dioxide.
+Atorvastatin calcium tablets for oral administration contain 10, 20, 40, or 80 mg of atorvastatin and the following inactive ingredients: calcium carbonate, croscarmellose sodium, hydroxypropyl cellulose, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate, talc and titanium dioxide.

@@ -1,5 +1,7 @@
 # 17 PATIENT COUNSELING INFORMATION
 
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
+
 Patients taking atorvastatin calcium should be advised that cholesterol is a chronic condition and they should adhere to their medication along with their National Cholesterol Education Program (NCEP)-recommended diet, a regular exercise program as appropriate, and periodic testing of a fasting lipid panel to determine goal attainment.
 
 Patients should be advised about substances they should not take concomitantly with atorvastatin [see Warnings and Precautions (5.1)].
@@ -16,16 +18,13 @@ They should discuss all medication, both prescription and over the counter, with
 It is recommended that liver enzyme tests be performed before the initiation of atorvastatin calcium and if signs or symptoms of liver injury occur.
 All patients treated with atorvastatin calcium should be advised to report promptly any symptoms that may indicate liver injury, including fatigue, anorexia, right upper abdominal discomfort, dark urine, or jaundice.
 
-## 17.3 Pregnancy
+## 17.3 Embryofetal Toxicity
 
-Women of childbearing age should be advised to use an effective method of birth control to prevent pregnancy while using atorvastatin calcium.
-Discuss future pregnancy plans with your patients, and discuss when to stop atorvastatin calcium if they are trying to conceive.
-Patients should be advised that if they become pregnant, they should stop taking atorvastatin calcium and call their healthcare professional.
+Advise females of reproductive potential of the risk to a fetus, to use effective contraception during treatment and to inform their healthcare provider of a known or suspected pregnancy [see Contraindications (4) and Use in Specific Populations (8.1, 8.3)].
 
-## 17.4 Breastfeeding
+## 17.4 Lactation
 
-Women who are breastfeeding should be advised to not use atorvastatin calcium.
-Patients who have a lipid disorder and are breastfeeding, should be advised to discuss the options with their healthcare professional.
+Advise women not to breastfeed during treatment with atorvastatin calcium [see Contraindications (4) and Use in Specific Populations (8.2)].
 
 All brand names listed are the registered trademarks of their respective owners and are not trademarks of Teva Pharmaceuticals USA, Inc.
 
@@ -43,4 +42,4 @@ Teva Pharmaceuticals USA, Inc.
 North Wales, PA 19454
 
 Rev.
-B 6/2017
+C 12/2017

@@ -21,10 +21,10 @@ Physicians considering combined therapy with atorvastatin calcium and fibric aci
 Lower starting and maintenance doses of atorvastatin should be considered when taken concomitantly with the aforementioned drugs [see Drug Interactions (7)].
 Periodic creatine phosphokinase (CPK) determinations may be considered in such situations, but there is no assurance that such monitoring will prevent the occurrence of severe myopathy.
 
-Prescribing recommendations for interacting agents are summarized in Table 1 [see also Dosage and Administration (2.6), Drug Interactions (7), Clinical Pharmacology (12.3)].
+Prescribing recommendations for interacting agents are summarized in Table 2 [see Dosage and Administration (2.6), Drug Interactions (7), Clinical Pharmacology (12.3)].
 
-Table 1.
-Drug Interactions Associated With Increased Risk of Myopathy/Rhabdomyolysis
+Table 2.
+Drug Interactions Associated with Increased Risk of Myopathy/Rhabdomyolysis
 
 | Interacting Agents | Prescribing Recommendations |
 | --- | --- |
@@ -54,7 +54,7 @@ If serious liver injury with clinical symptoms and/or hyperbilirubinemia or jaun
 If an alternate etiology is not found, do not restart atorvastatin calcium.
 
 Atorvastatin calcium should be used with caution in patients who consume substantial quantities of alcohol and/or have a history of liver disease.
-Active liver disease or unexplained persistent transaminase elevations are contraindications to the use of atorvastatin calcium [see Contraindications (4.1)].
+Active liver disease or unexplained persistent transaminase elevations are contraindications to the use of atorvastatin calcium [see Contraindications (4)].
 
 ## 5.3 Endocrine Function
 
@@ -71,14 +71,14 @@ Caution should be exercised if a statin is administered concomitantly with drugs
 Brain hemorrhage was seen in a female dog treated for 3 months at 120 mg/kg/day.
 Brain hemorrhage and optic nerve vacuolation were seen in another female dog that was sacrificed in moribund condition after 11 weeks of escalating doses up to 280 mg/kg/day.
 The 120 mg/kg dose resulted in a systemic exposure approximately 16 times the human plasma area-under-the-curve (AUC, 0-24 hours) based on the maximum human dose of 80 mg/day.
-A single tonic convulsion was seen in each of 2 male dogs (one treated at 10 mg/kg/day and one at 120 mg/kg/day) in a 2 year study.
+A single tonic convulsion was seen in each of 2 male dogs (one treated at 10 mg/kg/day and one at 120 mg/kg/day) in a 2-year study.
 No CNS lesions have been observed in mice after chronic treatment for up to 2 years at doses up to 400 mg/kg/day or in rats at doses up to 100 mg/kg/day.
 These doses were 6 to 11 times (mouse) and 8 to 16 times (rat) the human AUC (0-24) based on the maximum recommended human dose of 80 mg/day.
 
 CNS vascular lesions, characterized by perivascular hemorrhages, edema, and mononuclear cell infiltration of perivascular spaces, have been observed in dogs treated with other members of this class.
 A chemically similar drug in this class produced optic nerve degeneration (Wallerian degeneration of retinogeniculate fibers) in clinically normal dogs in a dose-dependent fashion at a dose that produced plasma drug levels about 30 times higher than the mean drug level in humans taking the highest recommended dose.
 
-## 5.5 Use in Patients With Recent Stroke or TIA
+## 5.5 Use in Patients with Recent Stroke or TIA
 
 In a post-hoc analysis of the Stroke Prevention by Aggressive Reduction in Cholesterol Levels (SPARCL) study where atorvastatin 80 mg vs. placebo was administered in 4,731 subjects without CHD who had a stroke or TIA within the preceding 6 months, a higher incidence of hemorrhagic stroke was seen in the atorvastatin 80 mg group compared to placebo (55, 2.3% atorvastatin vs. 33, 1.4% placebo; HR: 1.68, 95% CI: 1.09, 2.59; p = 0.0168).
 The incidence of fatal hemorrhagic stroke was similar across treatment groups (17 vs. 18 for the atorvastatin and placebo groups, respectively).
