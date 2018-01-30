@@ -4,7 +4,7 @@
 
 Risk Summary
 
-There are limited and incomplete human data from clinical trials and postmarketing reports on use of ORKAMBI or its individual components, lumacaftor or ivacaftor, in pregnant women to inform a drug-associated risk.
+There are limited and incomplete human data from clinical trials and post-marketing reports on use of ORKAMBI or its individual components, lumacaftor or ivacaftor, in pregnant women to inform a drug-associated risk.
 In animal reproduction studies, oral administration of lumacaftor to pregnant rats and rabbits during organogenesis demonstrated no teratogenicity or adverse effects on fetal development at doses that produced maternal exposures up to approximately 8 (rats) and 5 (rabbits) times the exposure at the maximum recommended human dose (MRHD).
 Oral administration of ivacaftor to pregnant rats and rabbits during organogenesis demonstrated no teratogenicity or adverse effects on fetal development at doses that produced maternal exposures up to approximately 7 (rats) and 45 (rabbits) times the exposure at the MRHD.
 No adverse developmental effects were observed after oral administration of either lumacaftor or ivacaftor to pregnant rats from organogenesis through lactation at doses that produced maternal exposures approximately 8 and 5 times the exposures at the MRHD, respectively (see Data).
@@ -61,9 +61,9 @@ Hormonal contraceptives, including oral, injectable, transdermal, and implantabl
 
 The efficacy of ORKAMBI in children ages 6 through 11 years is extrapolated from efficacy in patients ages 12 years and older homozygous for the F508del mutation in the CFTR gene with support from population pharmacokinetic analyses showing similar drug exposure levels in patients ages 12 years and older and in children ages 6 through 11 years [see Clinical Pharmacology (12.3)].
 
-Additional safety data were obtained from a 24-week, open-label, Phase 3 clinical trial in 58 patients aged 6 through 11 years, mean age 9 years (Trial 3).
+Additional safety data were obtained from a 24-week, open-label, Phase 3 clinical trial in 58 patients aged 6 through 11 years, mean age 9 years (Trial 3) and a 24-week, placebo-controlled, Phase 3 clinical trial in 204 patients aged 6 through 11 years (Trial 4).
 Trial 3 evaluated subjects with a screening ppFEV1 ≥40 [mean ppFEV1 91.4 at baseline (range: 55 to 122.7)].
-The safety profile of ORKAMBI in children 6 through 11 years of age was similar to those in patients 12 years and older [see Adverse Reactions (6.1)].
+Trial 4 evaluated subjects with a screening ppFEV1 ≥ 70 (mean ppFEV1 89.8 at baseline [range: 48.6 to 119.6]).The safety profile of ORKAMBI in children 6 through 11 years of age was similar to those in patients 12 years and older [see Adverse Reactions (6.1)].
 
 In Trial 3, spirometry (ppFEV1) was assessed as a planned safety endpoint.
 The within-group LS mean absolute change from baseline in ppFEV1 at Week 24 was 2.5 percentage points.
@@ -94,7 +94,7 @@ Therefore, use with caution at a maximum dose of 1 tablet in the morning and 1 t
 ## 8.7 Renal Impairment
 
 ORKAMBI has not been studied in patients with mild, moderate, or severe renal impairment or in patients with end-stage renal disease.
-No dose adjustment is necessary for patients with mild and moderate renal impairment.
+No dose adjustment is necessary for patients with mild to moderate renal impairment.
 Caution is recommended while using ORKAMBI in patients with severe renal impairment (creatinine clearance less than or equal to 30 mL/min) or end-stage renal disease.
 
 ## 8.8 Patients with Severe Lung Dysfunction
