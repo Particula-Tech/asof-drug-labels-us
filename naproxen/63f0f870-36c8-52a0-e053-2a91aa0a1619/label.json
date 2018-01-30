@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA018965"
+  ],
+  "inn": "naproxen",
+  "labeler": "Entreprises ImportFAB Inc.",
+  "package_ndcs": [
+    "62973-126-73"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "naproxen",
+      "name": "Naprosyn"
+    }
+  ],
+  "setid": "63f0f870-36c8-52a0-e053-2a91aa0a1619",
+  "source": "dailymed"
+}
