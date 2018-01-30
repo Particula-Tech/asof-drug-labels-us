@@ -7,7 +7,7 @@ Medroxyprogesterone acetate injectable suspension, USP, 150 mg/mL is available a
 
 The 1 mL dose vials are packaged in individual cartons.
 
-| NDC 0548-5401-25 | 1 mL single dose vial | Stock No. 5401 |
+| NDC 0548-5400-25 | 1 mL single dose vial | Stock No. 5401 |
 | --- | --- | --- |
 
 The 1 mL dose vials are packaged with 25 vials per carton.
