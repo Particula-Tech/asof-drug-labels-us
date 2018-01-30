@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA090742"
+  ],
+  "inn": "tenofovir-disoproxil",
+  "labeler": "Strides Shasun Limited",
+  "package_ndcs": [
+    "64380-714-04"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "tenofovir disoproxil fumarate",
+      "name": "TENOFOVIR DISOPROXIL FUMARATE"
+    }
+  ],
+  "setid": "bcd3120b-60f6-41d8-a512-ed4a62c836b4",
+  "source": "dailymed"
+}
