@@ -14,7 +14,7 @@ Cautions: Do not add supplementary medication.
 Must not be used in series connections.
 Check for minute leaks and solution clarity.
 
-Each 50 mL contains: Clindamycin phosphate, USP equivalent to 300 mg clindamycin, 9 mg sodium chloride, USP, 2 mg edetate disodium dihydrate, USP, and Water for Injection, USP. pH may have been adjusted with sodium hydroxide and/or hydrochloric acid.
+Each 50 mL contains: Clindamycin phosphate, USP equivalent to 300 mg clindamycin, 450 mg sodium chloride, USP, 2 mg edetate disodium dihydrate, USP, and Water for Injection, USP. pH may have been adjusted with sodium hydroxide and/or hydrochloric acid.
 
 Dosage: See prescribing information.
 
@@ -27,15 +27,13 @@ BAXTER Logo
 
 Baxter and Galaxy are registered trademarks of Baxter International Inc. Baxter Healthcare Corporation, Deerfield, IL 60015 USA Made in USA
 
-07-34-78-222
+07-34-00-0002
 
 GALAXY Container PL 2501 Plastic
 
 BAXTER Logo
 
 Baxter and Galaxy are registered trademarks of Baxter International Inc. Baxter Healthcare Corporation, Deerfield, IL 60015 USA Made in USA
-
-07-04-78-223
 
 Clindamycin in 0.9% Sodium Chloride Injection Rx only NDC 0338-9545-24
 
@@ -44,33 +42,31 @@ Clindamycin in 0.9% Sodium Chloride Injection Rx only NDC 0338-9545-24
 Contains 12 - 50 mL Single Dose Containers Store at 20°C to 25°C (68°F to 77°F)[see USP Controlled Room Temperature].
 Avoid temperatures above 30°C.
 
-FOR BAR CODE POSITION ONLY (01) 20303389545242
+FOR BAR CODE POSITION ONLY (01) XXXXXXXXXXXX
 
 For Intravenous Infusion Only Sterile Nonpyrogenic
 
-Each 50 mL contains: Clindamycin phosphate, USP equivalent to 300 mg clindamycin, 9 mg sodium chloride, USP, 2 mg edetate disodium dihydrate, USP, and Water for Injection, USP. pH may have been adjusted with sodium hydroxide and/or hydrochloric acid.
+Each 50 mL contains: Clindamycin phosphate, USP equivalent to 300 mg clindamycin, 450 mg sodium chloride, USP, 2 mg edetate disodium dihydrate, USP, and Water for Injection, USP. pH may have been adjusted with sodium hydroxide and/or hydrochloric acid.
 Dosage: See prescribing information.
 Cautions: Do not add supplementary medication.
 Must not be used in series connections.
 Check for minute leaks and solution clarity.
 
-NDC 0338-9549-60 Clindamycin in 0.9% Sodium Chloride Injection
+NDC 0338-9549-50 Clindamycin in 0.9% Sodium Chloride Injection
 
 600 mg per 50 mL (12 mg / mL)
 
-GALAXY Code 2G3456
+50 mL Single Dose GALAXY Container Code 2G3456
 
-50 mL Single Dose Container Sterile Nonpyrogenic
+Discard unused portion Sterile Nonpyrogenic For Intravenous Use Only
 
-Discard unused portion For Intravenous Use
-
-Not for rapid injection or Intravenous push
-
-Each 50 mL contains: Clindamycin phosphate, USP equivalent to 600 mg clindamycin, 9 mg sodium chloride, USP, 2 mg edetate disodium dihydrate, USP, and Water for Injection, USP. pH may have been adjusted with sodium hydroxide and/or hydrochloric acid.
-Dosage: See prescribing information.
 Cautions: Do not add supplementary medication.
 Must not be used in series connections.
 Check for minute leaks and solution clarity.
+
+Each 50 mL contains: Clindamycin phosphate, USP equivalent to 600 mg clindamycin, 450 mg sodium chloride, USP, 2 mg edetate disodium dihydrate, USP, and Water for Injection, USP. pH may have been adjusted with sodium hydroxide and/or hydrochloric acid.
+
+Dosage: See prescribing information.
 
 Rx only Store at 20° to 25°C (68° to 77°F)[see USP Controlled Room Temperature].
 Avoid temperatures above 30°C.
@@ -81,7 +77,7 @@ BAXTER Logo
 
 Baxter and Galaxy are registered trademarks of Baxter International Inc. Baxter Healthcare Corporation, Deerfield, IL 60015 USA Made in USA
 
-07-34-75-085
+07-34-78-381
 
 GALAXY Container PL 2501 Plastic
 
@@ -89,7 +85,7 @@ BAXTER Logo
 
 Baxter and Galaxy are registered trademarks of Baxter International Inc. Baxter Healthcare Corporation, Deerfield, IL 60015 USA Made in USA
 
-07-04-75-092
+07-04-78-379
 
 Clindamycin in 0.9% Sodium Chloride Injection Rx only NDC 0338-9549-24
 
@@ -98,35 +94,29 @@ Clindamycin in 0.9% Sodium Chloride Injection Rx only NDC 0338-9549-24
 Contains 12 - 50 mL Single Dose Containers Store at 20°C to 25°C (68°F to 77°F)[see USP Controlled Room Temperature].
 Avoid temperatures above 30°C.
 
-FOR BAR CODE POSITION ONLY (01) 20303389549240
+FOR BAR CODE POSITION ONLY (01) XXXXXXXXXXXX
 
 For Intravenous Infusion Only Sterile Nonpyrogenic
 
-Not for rapid injection or Intravenous push
+Each 50 mL contains: Clindamycin phosphate, USP equivalent to 600 mg clindamycin, 450 mg sodium chloride, USP, 2 mg edetate disodium dihydrate, USP, and Water for Injection, USP. pH may have been adjusted with sodium hydroxide and/or hydrochloric acid.
 
-Each 50 mL contains: Clindamycin phosphate, USP equivalent to 600 mg clindamycin, 9 mg sodium chloride, USP, 2 mg edetate disodium dihydrate, USP, and Water for Injection, USP. pH may have been adjusted with sodium hydroxide and/or hydrochloric acid.
 Dosage: See prescribing information.
 Cautions: Do not add supplementary medication.
 Must not be used in series connections.
 Check for minute leaks and solution clarity.
 
-NDC 0338-9553-90 Clindamycin in 0.9% Sodium Chloride Injection
+NDC 0338-9553-50 Clindamycin in 0.9% Sodium Chloride Injection
 
 900 mg per 50 mL (18 mg / mL)
 
-GALAXY Code 2G3457
+1. 50 mL Single Dose GALAXY Container Discard unused portion Code 2G3457 Sterile Nonpyrogenic For Intravenous Infusion Only
 
-50 mL Single Dose Container Sterile Nonpyrogenic
-
-Discard unused portion For Intravenous Infusion Only
-
-Not for rapid injection or Intravenous push
-
-Each 50 mL contains: Clindamycin phosphate, USP equivalent to 900 mg clindamycin, 9 mg sodium chloride, USP, 2 mg edetate disodium dihydrate, USP, and Water for Injection, USP. pH may have been adjusted with sodium hydroxide and/or hydrochloric acid.
-Dosage: See prescribing information.
 Cautions: Do not add supplementary medication.
 Must not be used in series connections.
 Check for minute leaks and solution clarity.
+
+Each 50 mL contains: Clindamycin phosphate, USP equivalent to 900 mg clindamycin, 450 mg sodium chloride, USP, 2 mg edetate disodium dihydrate, USP, and Water for Injection, USP. pH may have been adjusted with sodium hydroxide and/or hydrochloric acid.
+Dosage: See prescribing information.
 
 Rx only Store at 20° to 25°C (68° to 77°F)[see USP Controlled Room Temperature].
 Avoid temperatures above 30°C.
@@ -137,7 +127,7 @@ BAXTER Logo
 
 Baxter and Galaxy are registered trademarks of Baxter International Inc. Baxter Healthcare Corporation, Deerfield, IL 60015 USA Made in USA
 
-07-34-75-086
+07-34-78-382
 
 GALAXY Container PL 2501 Plastic
 
@@ -145,7 +135,7 @@ BAXTER Logo
 
 Baxter and Galaxy are registered trademarks of Baxter International Inc. Baxter Healthcare Corporation, Deerfield, IL 60015 USA Made in USA
 
-07-04-75-094
+07-04-78-380
 
 Clindamycin in 0.9% Sodium Chloride Injection Rx only NDC 0338-9553-24
 
@@ -154,14 +144,14 @@ Clindamycin in 0.9% Sodium Chloride Injection Rx only NDC 0338-9553-24
 Contains 12 - 50 mL Single Dose Containers Store at 20°C to 25°C (68°F to 77°F)[see USP Controlled Room Temperature].
 Avoid temperatures above 30°C.
 
-FOR BAR CODE POSITION ONLY (01) 20303389553247
+FOR BAR CODE POSITION ONLY (01) XXXXXXXXXXXX
 
 For Intravenous Infusion Only Sterile Nonpyrogenic
 
-Not for rapid injection or Intravenous push
+Each 50 mL contains: Clindamycin phosphate, USP equivalent to 900 mg clindamycin, 450 mg sodium chloride, USP, 2 mg edetate disodium dihydrate, USP, and Water for Injection, USP. pH may have been adjusted with sodium hydroxide and/or hydrochloric acid.
 
-Each 50 mL contains: Clindamycin phosphate, USP equivalent to 900 mg clindamycin, 9 mg sodium chloride, USP, 2 mg edetate disodium dihydrate, USP, and Water for Injection, USP. pH may have been adjusted with sodium hydroxide and/or hydrochloric acid.
 Dosage: See prescribing information.
-Cautions: Do not add supplementary medication.
+
+Caution: Do not add supplementary medication.
 Must not be used in series connections.
 Check for minute leaks and solution clarity.
