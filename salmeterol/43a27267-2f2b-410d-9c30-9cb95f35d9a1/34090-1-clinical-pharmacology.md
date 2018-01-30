@@ -72,7 +72,7 @@ Fluticasone propionate/salmeterol MDPI acts locally in the lung; therefore, plas
 Trials using oral dosing of labeled and unlabeled drug have demonstrated that the oral systemic bioavailability of fluticasone propionate was negligible (<1%), primarily due to incomplete absorption and presystemic metabolism in the gut and liver.
 In contrast, the majority of the fluticasone propionate delivered to the lung was systemically absorbed.
 
-After administration of 232/14 mcg fluticasone propionate/salmeterol MDPI to patients aged 12 years and older with persistent asthma in a clinical trial, the mean Cmax value of fluticasone propionate was 66 pg/mL with a median tmax value of approximately 2 hour.
+After administration of 232/14 mcg fluticasone propionate/salmeterol MDPI to patients aged 12 years and older with persistent asthma in a clinical trial, the mean Cmax value of fluticasone propionate was 66 pg/mL with a median tmax value of approximately 2 hours.
 
 Salmeterol:
 
@@ -102,14 +102,14 @@ Fluticasone Propionate:
 Following intravenous dosing, fluticasone propionate showed polyexponential kinetics and had a terminal elimination half-life of approximately 7.8 hours.
 Terminal half-life estimates of fluticasone propionate following oral inhalation administration of fluticasone propionate/salmeterol MDPI were approximately 10.8 hours.
 
-1. Metabolism
+Metabolism
 
 The total clearance of fluticasone propionate is high (average, 1,093 mL/min), with renal clearance accounting for less than 0.02% of the total.
 The only circulating metabolite detected in man is the 17β carboxylic acid derivative of fluticasone propionate, which is formed through the CYP3A4 pathway.
 This metabolite has less affinity (approximately 1/2,000) than the parent drug for the glucocorticoid receptor of human lung cytosol in vitro and negligible pharmacological activity in animal studies.
 Other metabolites detected in vitro using cultured human hepatoma cells have not been detected in man.
 
-1. Excretion
+Excretion
 
 Less than 5% of a radiolabeled oral dose was excreted in the urine as metabolites, with the remainder excreted in the feces as parent drug and metabolites.
 
@@ -120,14 +120,14 @@ Terminal half-life estimates for salmeterol for fluticasone propionate/salmetero
 The xinafoate moiety has no apparent pharmacologic activity.
 The xinafoate moiety is highly protein bound (greater than 99%) and has a long elimination half-life of 11 days.
 
-1. Metabolism
+Metabolism
 
 Salmeterol base is extensively metabolized by hydroxylation.
 
 An in vitro study using human liver microsomes showed that salmeterol is extensively metabolized to α hydroxysalmeterol (aliphatic oxidation) by CYP3A4.
 Ketoconazole, a strong inhibitor of CYP3A4, essentially completely inhibited the formation of α hydroxysalmeterol in vitro.
 
-1. Excretion
+Excretion
 
 In 2 healthy adult subjects who received 1 mg of radiolabeled salmeterol (as salmeterol xinafoate) orally, approximately 25% and 60% of the radiolabeled salmeterol was eliminated in urine and feces, respectively, over a period of 7 days.
 
@@ -138,7 +138,7 @@ The population pharmacokinetic analyses for fluticasone propionate and salmetero
 
 Age: No pharmacokinetic studies have been performed with fluticasone propionate/salmeterol MDPI in children or geriatric patients.
 A subgroup analysis was conducted to compare patients aged 12-17 (n=15) and ≥18 (n=23) years following administration of 232/14 mcg fluticasone propionate/salmeterol MDPI.
-No overall differences in fluticasone propionate and salmeterolpharmacokinetics were observed.
+No overall differences in fluticasone propionate and salmeterol pharmacokinetics were observed.
 
 Sex: A subgroup analysis was conducted to compare male (n=21) and female (n=16) patients following administration of 232/14 mcg fluticasone propionate/salmeterol MDPI.
 No overall differences in fluticasone propionate and salmeterol pharmacokinetics were observed.

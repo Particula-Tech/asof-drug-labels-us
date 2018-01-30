@@ -1,8 +1,8 @@
 # 14 CLINICAL STUDIES
 
-The safety and efficacy of this Fluticasone Propionate/Salmeterol Multidose Dry Powder Inhaler (FS MDPI) were evaluated in 3004 patients with asthma.
+The safety and efficacy of Fluticasone Propionate/Salmeterol Multidose Dry Powder Inhaler (FS MDPI) were evaluated in 3004 patients with asthma.
 The development program included 2 confirmatory trials of 12 weeks duration, a 26 week safety trial and three dose-ranging trials.
-The efficacy of this fluticasone propionate/salmeterol MDPI is based primarily on the dose-ranging trials and the confirmatory trials described below.
+The efficacy of fluticasone propionate/salmeterol MDPI is based primarily on the dose-ranging trials and the confirmatory trials described below.
 
 ## 14.1 Dose-Ranging Studies
 
@@ -16,7 +16,7 @@ The trials were dose-ranging trials of Fluticasone Propionate Multidose Dry Powd
 The metered doses for fluticasone multidose dry powder inhaler (16, 28, 59, 118, 225, 434 mcg) used in Trial 201 and Trial 202 (see Figure 2) are slightly different from the metered doses for the comparator products (fluticasone inhalation powder) and the Phase 3 investigational products which are the basis of the proposed commercial labeled claim (55, 113, 232 mcg for fluticasone).
 The changes in doses between Phase 2 and 3 resulted from optimization of the manufacturing process.
 
-1. Figure 2: Baseline Adjusted Least Square Mean Change in Trough Morning FEV1 (L) over 12 weeks (FAS)a
+Figure 1: Baseline Adjusted Least Square Mean Change in Trough Morning FEV1 (L) over 12 weeks (FAS)a
 
 FAS = full analysis set; aTrials were not designed to provide comparative effectiveness data and should not be interpreted as superiority/inferiority to fluticasone propionate inhalation powder
 
@@ -26,11 +26,11 @@ The salmeterol doses studied were 6.8 mcg, 13.2 mcg, 26.8 mcg and 57.4 mcg in co
 The metered doses for salmeterol (6.8, 13.2, 26.8, 57.4 mcg) used in this study are slightly different from the metered doses for the comparator products (fluticasone/salmeterol inhalation powder) and the Phase 3 investigational products which are the basis of the proposed commercial labeled claim (55, 113, 232 mcg for fluticasone and 14 mcg for salmeterol).
 The phase 3 and commercial products were optimized to better match the strengths to the comparators.
 Plasma for pharmacokinetic characterization was obtained at each dosing period.
-Fluticasone propionate/salmeterol xinafoate MDPI 118/13.2 mcg had similar clinical efficacy with lower systemic exposure when compared to the 50 mcg of salmeterol in fluticasone propionate/salmeterol 100/50 mcg dry powder inhaler (Figure 3).
+Fluticasone propionate/salmeterol xinafoate MDPI 118/13.2 mcg had similar clinical efficacy with lower systemic exposure when compared to the 50 mcg of salmeterol in fluticasone propionate/salmeterol 100/50 mcg dry powder inhaler (Figure 2).
 
-1. Figure 3: Mean Baseline Adjusted FEV1 (mL) over 12 Hours (FAS)a
+Figure 2: Mean Baseline Adjusted FEV1 (mL) over 12 Hours (FAS)a
 
-FS MDPI = fluticasone propionate/salmeterol multidose dry powder inhaler: Fp MDPI = fluticasone propionate multidose dry powder inhaler; FS DPI = fluticasone propionate/salmeterol dry powder inhaler; FAS = full analysis set; FEV1 = forced expiratory volume in 1 second; aTrial was not designed to provide comparative effectiveness data and should not be interpreted as superiority/inferiority to fluticasone proprionate/salmeterol inhalation powder.
+FS MDPI = fluticasone propionate/salmeterol multidose dry powder inhaler: Fp MDPI = fluticasone propionate multidose dry powder inhaler; FS DPI = fluticasone propionate/salmeterol dry powder inhaler; FAS = full analysis set; FEV1 = forced expiratory volume in 1 second; aTrial was not designed to provide comparative effectiveness data and should not be interpreted as superiority/inferiority to fluticasone propionate/salmeterol inhalation powder.
 
 ## 14.2 Trials in the Maintenance Treatment of Asthma
 
@@ -55,7 +55,7 @@ The estimated mean difference between fluticasone propionate/salmeterol MDPI 113
 The estimated mean difference between fluticasone propionate/salmeterol MDPI 55/14 mcg and fluticasone propionate MDPI 55 mcg is 0.147 L (95% CI: 0.053, 0.242).
 In addition, the mean FEV1 results at each visit are displayed in Figure 4.
 
-1. Figure 4: Mean Change from Baseline in Trough FEV1 at Each Visit by Treatment Group Trial 1(FAS)
+Figure 3: Mean Change from Baseline in Trough FEV1 at Each Visit by Treatment Group Trial 1(FAS)
 
 FAS = full analysis set; FEV1 = forced expiratory volume in 1 second
 
@@ -70,11 +70,11 @@ Maximum improvement in FEV1 generally occurred within 3 hours for fluticasone pr
 Following the initial dose, predose FEV1 relative to day 1 baseline improved markedly over the first week of treatment and the improvement was sustained over the 12 weeks of treatment in the trial.
 No diminution in the 12 hour bronchodilator effect was observed with either fluticasone propionate/salmeterol MDPI dose as assessed by FEV1 following 12 weeks of therapy.
 
-1. Figure 5: Serial Spirometry: Mean Change from Baseline in FEV1 (L) at Day 1 by Time Point and Treatment Group Trial 1 (FAS; Serial Spirometry Subset)
+Figure 4: Serial Spirometry: Mean Change from Baseline in FEV1 (L) at Day 1 by Time Point and Treatment Group Trial 1 (FAS; Serial Spirometry Subset)
 
 FAS = full analysis set; FEV1 = forced expiratory volume in 1 second
 
-1. Figure 6: Serial Spirometry: Mean Change from Baseline in FEV1 (L) at Week 12 by Time Point and Treatment Group Trial 1 (FAS; Serial Spirometry Subset)
+Figure 5: Serial Spirometry: Mean Change from Baseline in FEV1 (L) at Week 12 by Time Point and Treatment Group Trial 1 (FAS; Serial Spirometry Subset)
 
 FAS = full analysis set; FEV1 = forced expiratory volume in 1 second
 
@@ -89,9 +89,9 @@ Estimated mean differences between fluticasone propionate/salmeterol MDPI 113/14
 The estimated mean differences between fluticasone propionate MDPI 113 mcg and fluticasone propionate MDPI 232 mcg compared to to placebo are 0.123 L (95% CI: 0.038, 0.208) and 0.183 L (95% CI: 0.098, 0.268), respectively.
 The estimated mean difference between fluticasone propionate/salmeterol MDPI 232/14 mcg and fluticasone propionate MDPI 232 mcg is 0.093 L (95% CI: 0.009, 0.178).
 The estimated mean difference between fluticasone propionate/salmeterol MDPI 113/14 mcg and fluticasone propionate MDPI 113 mcg is 0.152 L (95% CI: 0.066, 0.237).
-In addition, the mean FEV1 results at each visit are displayed in Figure 7.
+In addition, the mean FEV1 results at each visit are displayed in Figure 6.
 
-1. Figure 7: Mean Change from Baseline in Trough FEV1 at Each Visit by Treatment Group Trial 2 (FAS)
+Figure 6: Mean Change from Baseline in Trough FEV1 at Each Visit by Treatment Group Trial 2 (FAS)
 
 FAS = full analysis set; FEV1 = forced expiratory volume in 1 second
 
@@ -102,14 +102,14 @@ The responder rate for both measures was defined as an improvement in score of 0
 In Trial 2, the responder rate for patients receiving fluticasone propionate/salmeterol MDPI 113/14 mcg and fluticasone propionate/salmeterol MDPI 232/14 mcg was 48% and 41%, respectively, compared to 27% for patients receiving placebo, with an odds ratio of 2.59 (95% CI: 1.56, 4.31) and 1.94 (95% CI: 1.16, 3.23), respectively.
 
 Improvements in lung function occurred within 15 minutes of the first dose (15 minutes postdose, the difference in LS mean change from baseline in FEV1 was 0.160 L and 0.187 L compared with placebo for fluticasone propionate/salmeterol MDPI 113/14 mcg and 232/14 mcg, respectively; unadjusted p-value <0.0001 for both doses compared with placebo.
-Maximum improvement in FEV1 generally occurred within 3 hours for both fluticasone propionate/salmeterol MDPI dose groups, and improvements were sustained over the 12 hours of testing at weeks 1 and 12 (Figure 8 and Figure 9).
+Maximum improvement in FEV1 generally occurred within 3 hours for both fluticasone propionate/salmeterol MDPI dose groups, and improvements were sustained over the 12 hours of testing at weeks 1 and 12 (Figure 7 and Figure 8).
 Following the initial dose, predose FEV1 relative to day 1 baseline improved markedly over the first week of treatment and the improvement was sustained over the 12 weeks of treatment in the trial.
 No diminution in the 12 hour bronchodilator effect was observed with either fluticasone propionate/salmeterol MDPI dose as assessed by FEV1 following 12 weeks of therapy.
 
-1. Figure 8: Serial Spirometry: Mean Change from Baseline in FEV1 (L) at Day 1 by Time Point and Treatment Group Trial 2 (FAS; Serial Spirometry Subset)
+Figure 7: Serial Spirometry: Mean Change from Baseline in FEV1 (L) at Day 1 by Time Point and Treatment Group Trial 2 (FAS; Serial Spirometry Subset)
 
 FAS = full analysis set; FEV1 = forced expiratory volume in 1 second
 
-1. Figure 9: Serial Spirometry: Mean Change from Baseline in FEV1 (L) at Week 12 by Time Point and Treatment Group Trial 2 (FAS; Serial Spirometry Subset)
+Figure 8: Serial Spirometry: Mean Change from Baseline in FEV1 (L) at Week 12 by Time Point and Treatment Group Trial 2 (FAS; Serial Spirometry Subset)
 
 FAS = full analysis set; FEV1 = forced expiratory volume in 1 second

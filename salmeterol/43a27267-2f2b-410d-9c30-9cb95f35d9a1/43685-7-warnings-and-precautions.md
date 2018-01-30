@@ -1,59 +1,56 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Asthma-Related Death
+## 5.1 Serious Asthma-Related Events-Hospitalization, Death
 
-LABA, such as salmeterol, one of the active ingredients in this product, increase the risk of asthma‑related death.
-Currently available data are inadequate to determine whether concurrent use of inhaled corticosteroids or other long‑term asthma control drugs mitigates the increased risk of asthma‑related death from LABA.
-Available data from controlled clinical trials suggest that LABA increase the risk of asthma‑related hospitalization in pediatric and adolescent patients.
-Therefore, when treating patients with asthma, physicians should only prescribe fluticasone propionate/salmeterol MDPI for patients not adequately controlled on a long‑term asthma control medication, such as an inhaled corticosteroid, or whose disease severity clearly warrants initiation of treatment with both an inhaled corticosteroid and a LABA.
-Once asthma control is achieved and maintained, assess the patient at regular intervals and step down therapy (e.g., discontinue fluticasone propionate/salmeterol MDPI) if possible without loss of asthma control and maintain the patient on a long‑term asthma control medication, such as an inhaled corticosteroid.
-Do not use fluticasone propionate/salmeterol MDPI for patients whose asthma is adequately controlled on low‑ or medium‑dose inhaled corticosteroids.
+Use of LABA as monotherapy (without ICS) for asthma is associated with an increased risk of asthma-related death [see Salmeterol Multicenter Asthma Research Trial (SMART)].
+Available data from controlled clinical trials also suggest that use of LABA as monotherapy increases the risk of asthma-related hospitalization in pediatric and adolescent patients.
+These findings are considered a class effect of LABA monotherapy.
+When LABA are used in fixed-dose combination with ICS, data from large clinical trials do not show a significant increase in the risk of serious asthma-related events (hospitalizations, intubations, death) compared with ICS alone [see Serious Asthma-Related Events with Inhaled Corticosteroid/Long-acting Beta2-adrenergic Agonists].
 
-A large placebo‑controlled US trial that compared the safety of salmeterol with placebo, each added to usual asthma therapy, showed an increase in asthma‑related deaths in subjects receiving salmeterol.
-The Salmeterol Multicenter Asthma Research Trial (SMART) was a randomized double‑blind trial that enrolled LABA‑naïve subjects with asthma to assess the safety of salmeterol 42 mcg twice daily over 28 weeks compared with placebo when added to usual asthma therapy.
-A planned interim analysis was conducted when approximately half of the intended number of subjects had been enrolled (N=26,355), which led to premature termination of the trial.
-The results of the interim analysis showed that subjects receiving salmeterol were at increased risk for fatal asthma events (see Table 1 and Figure 1).
-In the total population, a higher rate of asthma‑related death occurred in subjects treated with salmeterol than those treated with placebo (0.10% versus 0.02%; relative risk: 4.37 [95% CI: 1.25, 15.34]).
+Serious Asthma-Related Events with Inhaled Corticosteroid/Long-acting Beta2-adrenergic Agonists
 
-Post‑hoc subpopulation analyses were performed.
-In Caucasians, asthma‑related death occurred at a higher rate in subjects treated with salmeterol than in subjects treated with placebo (0.07% versus 0.01%; relative risk: 5.82 [95% CI: 0.70, 48.37]).
-In African Americans also, asthma‑related death occurred at a higher rate in subjects treated with salmeterol than those treated with placebo (0.31% versus 0.04%; relative risk: 7.26 [95% CI: 0.89, 58.94]).
-Although the relative risks of asthma‑related death were similar in Caucasians and African Americans, the estimate of excess deaths in subjects treated with salmeterol was greater in African Americans because there was a higher overall rate of asthma‑related death in African American subjects (see Table 1).
-Given the similar basic mechanisms of action of beta2‑agonists, the findings seen in the SMART trial are considered a class effect.
+Four large, 26-week, randomized, blinded, active-controlled clinical safety trials were conducted to evaluate the risk of serious asthma-related events when LABA were used in fixed-dose combination with ICS compared with ICS alone in subjects with asthma.
+Three (3) trials included adult and adolescent subjects aged 12 years and older: 1 trial compared budesonide/formoterol to budesonide, 1 trial compared fluticasone propionate/salmeterol inhalation powder to fluticasone propionate inhalation powder, and 1 trial compared mometasone furoate/formoterol to mometasone furoate.
+The fourth trial included pediatric subjects aged 4 to 11 years and compared fluticasone propionate/salmeterol inhalation powder to fluticasone propionate inhalation powder.
+The primary safety endpoint for all 4 trials was serious asthma-related events (hospitalizations, intubations, death).
+A blinded adjudication committee determined whether events were asthma-related.
 
-Post‑hoc analyses in pediatric subjects aged 12 to 18 years were also performed.
-Pediatric subjects accounted for approximately 12% of subjects in each treatment arm.
-Respiratory‑related death or life‑threatening experience occurred at a similar rate in the salmeterol group (0.12% [2/1,653]) and the placebo group (0.12% [2/1,622]; relative risk: 1.0 [95% CI: 0.1, 7.2]).
-All‑cause hospitalization, however, was increased in the salmeterol group (2% [35/1,653]) versus the placebo group (<1% [16/1,622]; relative risk: 2.1 [95% CI: 1.1, 3.7]).
+The 3 adult and adolescent trials were designed to rule out a risk margin of 2.0, and the pediatric trial was designed to rule out a risk margin of 2.7.
+Each individual trial met its pre-specified objective and demonstrated non-inferiority of ICS/LABA to ICS alone.
+A meta-analysis of the 3 adult and adolescent trials did not show a significant increase in risk of a serious asthma-related event with ICS/LABA fixed-dose combination compared with ICS alone (Table 1).
+These trials were not designed to rule out all risk for serious asthma-related events with ICS/LABA compared with ICS.
 
-The data from the SMART trial are not adequate to determine whether concurrent use of inhaled corticosteroids, such as fluticasone propionate, the other active ingredient in this product, or other long‑term asthma control therapy mitigates the risk of asthma‑related death.
+Table 1.
+Meta-analysis of Serious Asthma-Related Events in Subjects with Asthma Aged 12 Years and Older
 
-1. Table 1:Asthma-Related Deaths in the 28‑Week Salmeterol Multicenter Asthma Research Trial (SMART)
+|  | ICS/LABA (n =17,537)a | ICS (n = 17,552)a | ICS/LABA vs. ICS Hazard Ratio (95% CI)b |
+| --- | --- | --- | --- |
+| Serious asthma-related eventc | 116 | 105 | 1.10 (0.85, 1.44) |
+| Asthma-related death | 2 | 0 |  |
+| Asthma-related intubation (endotracheal) | 1 | 2 |  |
+| Asthma-related hospitalization (≥24-hour stay) | 115 | 105 |  |
 
-|  | Salmeterol n (%a) | Placebo n (%a) | Relative Riskb (95% Confidence Interval) | Excess Deaths Expressed per 10,000 Subjectsc (95% Confidence Interval) |
-| --- | --- | --- | --- | --- |
-| Total PopulationdSalmeterol: n=13,176 Placebo: n=13,179 | 13 (0.10%) | 3 (0.02%) | 4.37 (1.25, 15.34) | 8 (3, 13) |
-| CaucasianSalmeterol: n=9,281 Placebo: n=9,361 | 6 (0.07%) | 1 (0.01%) | 5.82 (0.70, 48.37) | 6 (1, 10) |
-| African AmericanSalmeterol: n=2,366 Placebo: n=2,319 | 7 (0.31%) | 1 (0.04%) | 7.26 (0.89, 58.94) | 27 (8, 46) |
+ICS = Inhaled Corticosteroid; LABA = Long-acting Beta2-adrenergic Agonist.
 
-a Life‑table 28‑week estimate, adjusted according to the subjects’ actual lengths of exposure to trial treatment to account for early withdrawal of subjects from the trial.
+a Randomized subjects who had taken at least 1 dose of study drug.
+Planned treatment used foranalysis.
 
-b Relative risk is the ratio of the rate of asthma‑related death in the salmeterol group and the rate in the placebo group.
-The relative risk indicates how many more times likely an asthma‑related death occurred in the salmeterol group than in the placebo group in a 28‑week treatment period.
+b Estimated using a Cox proportional hazards model for time to first event with baseline hazardsstratified by each of the 3 trials.
 
-c Estimate of the number of additional asthma‑related deaths in subjects treated with salmeterol in SMART, assuming 10,000 subjects received salmeterol for a 28‑week treatment period.
-Estimate calculated as the difference between the salmeterol and placebo groups in the rates of asthma‑related death multiplied by 10,000.
+c Number of subjects with events that occurred within 6 months after the first use of study drug or 7 days after the last date of study drug, whichever date was later.
+Subjects can have one or more events, but only the first event was counted for analysis.
+A single, blinded, independent adjudication committee determined whether events were asthma related.
 
-d The Total Population includes the following ethnic origins listed on the case report form: Caucasian, African American, Hispanic, Asian, and “Other.”
-In addition, the Total Population includes those subjects whose ethnic origin was not reported.
-The results for Caucasian and African American subpopulations are shown above.
-No asthma‑related deaths occurred in the Hispanic (salmeterol n=996, placebo n=999), Asian (salmeterol n=173, placebo n=149), or “Other” (salmeterol n=230, placebo n=224) subpopulations.
-One asthma‑related death occurred in the placebo group in the subpopulation whose ethnic origin was not reported (salmeterol n=130, placebo n=127).
+The pediatric safety trial included 6,208 pediatric patients aged 4 to 11 years who received ICS/LABA (fluticasone propionate/salmeterol inhalation powder) or ICS (fluticasone propionate inhalation powder).
+In this trial 27/3,107 (0.9%) of patients treated with ICS/LABA and 21/3,101 (0.7%) of patients treated with ICS experienced a serious asthma‑related event.
+There were no asthma-related deaths or intubations.
+ICS/LABA did not show a significantly increased risk of a serious asthma-related event compared to ICS based on the prespecified risk margin (2.7), with an estimated hazard ratio of time to first event of 1.29 (95% CI: 0.73, 2.27).
 
-1. Figure 1: Cumulative Incidence of Asthma‑Related Deaths in the 28‑Week Salmeterol Multicenter Asthma Research Trial (SMART), by Duration of Treatment
+Salmeterol Multicenter Asthma Research Trial (SMART)
 
-A 16‑week clinical trial performed in the United Kingdom, the Salmeterol Nationwide Surveillance (SNS) trial, showed results similar to the SMART trial.
-In the SNS trial, the rate of asthma‑related death was numerically, though not statistically significantly, greater in subjects with asthma treated with salmeterol (42 mcg twice daily) than those treated with albuterol (180 mcg 4 times daily) added to usual asthma therapy.
+A 28-week, placebo-controlled, U.S. trial that compared the safety of salmeterol with placebo, each added to usual asthma therapy, showed an increase in asthma-related deaths in subjects receiving salmeterol (13/13,176 in subjects treated with salmeterol versus 3/13,179 in subjects treated with placebo; relative risk: 4.37 [95% CI: 1.25, 15.34]).
+Use of background ICS was not required in SMART.
+The increased risk of asthma‑related death is considered a class effect of LABA monotherapy.
 
 ## 5.2 Deterioration of Disease and Acute Episodes
 
@@ -84,7 +81,7 @@ Patients using fluticasone propionate/salmeterol MDPI should not use another med
 
 ## 5.4 Local Effects of Inhaled Corticosteroids
 
-In clinical trials, the development of localized infections of the mouth and pharynx with Candidaalbicans has occurred in subjects treated with fluticasone propionate/salmeterol MDPI.
+In clinical trials, the development of localized infections of the mouth and pharynx with Candida albicans has occurred in subjects treated with fluticasone propionate/salmeterol MDPI.
 When such an infection develops, it should be treated with appropriate local or systemic (i.e., oral) antifungal therapy while treatment with fluticasone propionate/salmeterol MDPI continues, but at times therapy with fluticasone propionate/salmeterol MDPI may need to be interrupted.
 Advise the patient to rinse his/her mouth with water without swallowing following inhalation to help reduce the risk of oropharyngeal candidiasis.
 

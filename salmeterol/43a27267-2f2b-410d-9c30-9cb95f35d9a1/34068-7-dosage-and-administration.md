@@ -39,9 +39,9 @@ Do not use fluticasone propionate/salmeterol MDPI with a spacer or volume holdin
 
 Cleaning:
 
-- •Keep the inhaler in a cool dry place.
+- Keep the inhaler in a cool dry place.
   Never wash or put any part of the inhaler in water.
-- •Routine maintenance is not required.
+- Routine maintenance is not required.
   If the mouthpiece needs cleaning, gently wipe the mouthpiece with a dry cloth or tissue as needed.
 
 Dose Counter: The fluticasone propionate/salmeterol MDPI inhaler has a dose counter.
