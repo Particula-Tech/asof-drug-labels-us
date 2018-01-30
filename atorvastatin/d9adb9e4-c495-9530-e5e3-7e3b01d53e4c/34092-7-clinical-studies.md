@@ -16,7 +16,7 @@ Due to the small number of events, results for women were inconclusive.
 
 Figure 1: Effect of Atorvastatin Calcium 10 mg/day on Cumulative Incidence of Non-Fatal Myocardial Infarction or Coronary Heart Disease Death (in ASCOT-LLA)
 
-Atorvastatin calcium also significantly decreased the relative risk for revascularization procedures by 42%.
+Atorvastatin calcium also significantly decreased the relative risk for revascularization procedures by 42% (incidences of 1.4% for atorvastatin calcium and 2.5% for placebo).
 Although the reduction of fatal and non-fatal strokes did not reach a pre-defined significance level (p=0.01), a favorable trend was observed with a 26% relative risk reduction (incidences of 1.7% for atorvastatin calcium and 2.3% for placebo).
 There was no significant difference between the treatment groups for death due to cardiovascular causes (p=0.51) or noncardiovascular causes (p=0.17).
 
@@ -46,42 +46,44 @@ Subjects were randomly assigned to either 10 mg/day or 80 mg/day of atorvastatin
 The primary endpoint was the time-to-first occurrence of any of the following major cardiovascular events (MCVE): death due to CHD, non-fatal myocardial infarction, resuscitated cardiac arrest, and fatal and non-fatal stroke.
 The mean LDL-C, TC, TG, non-HDL, and HDL cholesterol levels at 12 weeks were 73, 145, 128, 98, and 47 mg/dL during treatment with 80 mg of atorvastatin calcium and 99, 177, 152, 129, and 48 mg/dL during treatment with 10 mg of atorvastatin calcium.
 
-Treatment with atorvastatin calcium 80 mg/day significantly reduced the rate of MCVE (434 events in the 80 mg/day group vs. 548 events in the 10 mg/day group) with a relative risk reduction of 22%, HR 0.78, 95% CI (0.69, 0.89), p=0.0002 (see Figure 3 and Table 5).
+Treatment with atorvastatin calcium 80 mg/day significantly reduced the rate of MCVE (434 events in the 80 mg/day group vs. 548 events in the 10 mg/day group) with a relative risk reduction of 22%, HR 0.78, 95% CI (0.69, 0.89), p=0.0002 (see Figure 3 and Table 6).
 The overall risk reduction was consistent regardless of age (<65, ≥65) or gender.
 
 Figure 3: Effect of Atorvastatin Calcium 80 mg/day vs. 10 mg/day on Time to Occurrence of Major Cardiovascular Events (TNT)
 
-TABLE 5.
+TABLE 6.
 Overview of Efficacy Results in TNT
 
-| Endpoint | Atorvastatin 10 mg (N=5006) |  | Atorvastatin 80 mg (N=4995) |  | HRa (95%CI) |
-| --- | --- | --- | --- | --- | --- |
-| PRIMARY ENDPOINT | n | (%) | n | (%) |  |
-| First major cardiovascular endpoint | 548 | (10.9) | 434 | (8.7) | 0.78 (0.69, 0.89) |
-| Components of the Primary Endpoint |  |  |  |  |  |
-| CHD death | 127 | (2.5) | 101 | (2.0) | 0.80 (0.61, 1.03) |
-| Non-fatal, non-procedure related MI | 308 | (6.2) | 243 | (4.9) | 0.78 (0.66, 0.93) |
-| Resuscitated cardiac arrest | 26 | (0.5) | 25 | (0.5) | 0.96 (0.56, 1.67) |
-| Stroke (fatal and non-fatal) | 155 | (3.1) | 117 | (2.3) | 0.75 (0.59, 0.96) |
-| SECONDARY ENDPOINTS* |  |  |  |  |  |
-| First CHF with hospitalization | 164 | (3.3) | 122 | (2.4) | 0.74 (0.59, 0.94) |
-| First PVD endpoint | 282 | (5.6) | 275 | (5.5) | 0.97 (0.83, 1.15) |
-| First CABG or other coronary revascularization procedureb | 904 | (18.1) | 667 | (13.4) | 0.72 (0.65, 0.80) |
-| First documented angina endpointb | 615 | (12.3) | 545 | (10.9) | 0.88 (0.79, 0.99) |
-| All-cause mortality | 282 | (5.6) | 284 | (5.7) | 1.01 (0.85, 1.19) |
-| Components of All-Cause Mortality |  |  |  |  |  |
-| Cardiovascular death | 155 | (3.1) | 126 | (2.5) | 0.81 (0.64, 1.03) |
-| Noncardiovascular death | 127 | (2.5) | 158 | (3.2) | 1.25 (0.99, 1.57) |
-| Cancer death | 75 | (1.5) | 85 | (1.7) | 1.13 (0.83, 1.55) |
-| Other non-CV death | 43 | (0.9) | 58 | (1.2) | 1.35 (0.91, 2.00) |
-| Suicide, homicide, and other traumatic non-CV death | 9 | (0.2) | 15 | (0.3) | 1.67 (0.73, 3.82) |
-| a Atorvastatin 80 mg: atorvastatin 10 mg b Component of other secondary endpoints * Secondary endpoints not included in primary endpoint HR=hazard ratio; CHD=coronary heart disease; CI=confidence interval; MI=myocardial infarction; CHF=congestive heart failure; CV=cardiovascular; PVD=peripheral vascular disease; CABG=coronary artery bypass graft Confidence intervals for the Secondary Endpoints were not adjusted for multiple comparisons |  |  |  |  |  |
+| PRIMARY ENDPOINT |  | n | (%) | n | (%) |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Endpoint |  | Atorvastatin |  | Atorvastatin |  |  |
+|  |  | 10 mg |  | 80 mg |  | HRa (95%CI) |
+|  |  | (N=5006) |  | (N=4995) |  |  |
+| First major cardiovascular endpoint |  | 548 | (10.9) | 434 | (8.7) | 0.78 (0.69, 0.89) |
+| Components of the Primary Endpoint |  |  |  |  |  |  |
+|  | CHD death | 127 | (2.5) | 101 | (2.0) | 0.80 (0.61, 1.03) |
+|  | Non-fatal, non-procedure related MI | 308 | (6.2) | 243 | (4.9) | 0.78 (0.66, 0.93) |
+|  | Resuscitated cardiac arrest | 26 | (0.5) | 25 | (0.5) | 0.96 (0.56, 1.67) |
+|  | Stroke (fatal and non-fatal) | 155 | (3.1) | 117 | (2.3) | 0.75 (0.59, 0.96) |
+| SECONDARY ENDPOINTS* |  |  |  |  |  |  |
+| First CHF with hospitalization |  | 164 | (3.3) | 122 | (2.4) | 0.74 (0.59, 0.94) |
+| First PVD endpoint |  | 282 | (5.6) | 275 | (5.5) | 0.97 (0.83, 1.15) |
+| First CABG or other coronary revascularization procedureb |  | 904 | (18.1) | 667 | (13.4) | 0.72 (0.65, 0.80) |
+| First documented angina endpointb |  | 615 | (12.3) | 545 | (10.9) | 0.88 (0.79, 0.99) |
+| All-cause mortality |  | 282 | (5.6) | 284 | (5.7) | 1.01 (0.85, 1.19) |
+| Components of All-Cause Mortality |  |  |  |  |  |  |
+|  | Cardiovascular death | 155 | (3.1) | 126 | (2.5) | 0.81 (0.64, 1.03) |
+|  | Noncardiovascular death | 127 | (2.5) | 158 | (3.2) | 1.25 (0.99, 1.57) |
+|  | Cancer death | 75 | (1.5) | 85 | (1.7) | 1.13 (0.83, 1.55) |
+|  | Other non-CV death | 43 | (0.9) | 58 | (1.2) | 1.35 (0.91, 2.00) |
+|  | Suicide, homicide, and other traumatic non-CV death | 9 | (0.2) | 15 | (0.3) | 1.67 (0.73, 3.82) |
+| a Atorvastatin 80 mg: atorvastatin 10 mg b Component of other secondary endpoints * Secondary endpoints not included in primary endpoint HR=hazard ratio; CHD=coronary heart disease; CI=confidence interval; MI=myocardial infarction; CHF=congestive heart failure; CV=cardiovascular; PVD=peripheral vascular disease; CABG=coronary artery bypass graft Confidence intervals for the Secondary Endpoints were not adjusted for multiple comparisons |  |  |  |  |  |  |
 
-Of the events that comprised the primary efficacy endpoint, treatment with atorvastatin calcium 80 mg/day significantly reduced the rate of non-fatal, non-procedure related MI and fatal and non-fatal stroke, but not CHD death or resuscitated cardiac arrest (Table 5).
+Of the events that comprised the primary efficacy endpoint, treatment with atorvastatin calcium 80 mg/day significantly reduced the rate of non-fatal, non-procedure related MI and fatal and non-fatal stroke, but not CHD death or resuscitated cardiac arrest (Table 6).
 Of the predefined secondary endpoints, treatment with atorvastatin calcium 80 mg/day significantly reduced the rate of coronary revascularization, angina, and hospitalization for heart failure, but not peripheral vascular disease.
 The reduction in the rate of CHF with hospitalization was only observed in the 8% of patients with a prior history of CHF.
 
-There was no significant difference between the treatment groups for all-cause mortality (Table 5).
+There was no significant difference between the treatment groups for all-cause mortality (Table 6).
 The proportions of subjects who experienced cardiovascular death, including the components of CHD death and fatal stroke, were numerically smaller in the atorvastatin calcium 80 mg group than in the atorvastatin calcium 10 mg treatment group.
 The proportions of subjects who experienced noncardiovascular death were numerically larger in the atorvastatin calcium 80 mg group than in the atorvastatin calcium 10 mg treatment group.
 
@@ -95,63 +97,62 @@ There was no significant difference between the treatment groups for the primary
 There were no significant differences between the treatment groups for all-cause mortality: 366 (8.2%) in the atorvastatin calcium 80 mg/day group vs. 374 (8.4%) in the simvastatin 20 to 40 mg/day group.
 The proportions of subjects who experienced CV or non-CV death were similar for the atorvastatin calcium 80 mg group and the simvastatin 20 to 40 mg group.
 
-## 14.2 Hyperlipidemia (Heterozygous Familial and Nonfamilial) and Mixed Dyslipidemia (Fredrickson Types IIa and IIb)
+## 14.2 Hyperlipidemia and Mixed Dyslipidemia
 
-Atorvastatin calcium reduces total-C, LDL-C, VLDL-C, apo B, and TG, and increases HDL-C in patients with hyperlipidemia and mixed dyslipidemia.
+Atorvastatin calcium reduces total-C, LDL-C, VLDL-C, apo B, and TG, and increases HDL-C in patients with hyperlipidemia (heterozygous familial and nonfamilial) and mixed dyslipidemia (Fredrickson Types IIa and IIb).
 Therapeutic response is seen within 2 weeks, and maximum response is usually achieved within 4 weeks and maintained during chronic therapy.
 
 Atorvastatin calcium is effective in a wide variety of patient populations with hyperlipidemia, with and without hypertriglyceridemia, in men and women, and in the elderly.
 
 In two multicenter, placebo-controlled, dose-response studies in patients with hyperlipidemia, atorvastatin calcium given as a single dose over 6 weeks, significantly reduced total-C, LDL-C, apo B, and TG.
-(Pooled results are provided in Table 6.)
+(Pooled results are provided in Table 7.)
 
-TABLE 6.
-Dose Response in Patients With Primary Hyperlipidemia (Adjusted Mean % Change From Baseline)a
+TABLE 7.
+Dose Response in Patients With Primary Hyperlipidemia (Adjusted Mean % Change From Baseline)Results are pooled from 2 dose-response studies.
 
-| Dose | N | TC | LDL-C | Apo B | TG | HDL-C | Non-HDL- C/ HDL-C |
+| Dose | N | TC | LDL-C | Apo B | TG | HDL-C | Non-HDL-C/ HDL-C |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Placebo | 21 | 4 | 4 | 3 | 10 | -3 | 7 |
 | 10 | 22 | -29 | -39 | -32 | -19 | 6 | -34 |
 | 20 | 20 | -33 | -43 | -35 | -26 | 9 | -41 |
 | 40 | 21 | -37 | -50 | -42 | -29 | 6 | -45 |
 | 80 | 23 | -45 | -60 | -50 | -37 | 5 | -53 |
-| a Results are pooled from 2 dose-response studies. |  |  |  |  |  |  |  |
 
 In patients with Fredrickson Types IIa and IIb hyperlipoproteinemia pooled from 24 controlled trials, the median (25th and 75th percentile) percent changes from baseline in HDL-C for atorvastatin calcium 10, 20, 40, and 80 mg were 6.4 (-1.4, 14), 8.7 (0, 17), 7.8 (0, 16), and 5.1 (-2.7, 15), respectively.
 Additionally, analysis of the pooled data demonstrated consistent and significant decreases in total-C, LDL-C, TG, total-C/HDL-C, and LDL-C/HDL-C.
 
 In three multicenter, double-blind studies in patients with hyperlipidemia, atorvastatin calcium was compared to other statins.
-After randomization, patients were treated for 16 weeks with either atorvastatin calcium 10 mg per day or a fixed dose of the comparative agent (Table 7).
+After randomization, patients were treated for 16 weeks with either atorvastatin calcium 10 mg per day or a fixed dose of the comparative agent (Table 8).
 
-TABLE 7.
+TABLE 8.
 Mean Percentage Change From Baseline at Endpoint (Double-Blind, Randomized, Active-Controlled Trials)
 
 | Treatment (Daily Dose) | N | Total-C | LDL-C | Apo B | TG | HDL-C | Non-HDL-C/ HDL-C |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Study 1 |  |  |  |  |  |  |  |
-| Atorvastatin 10 mg | 707 | -27a | -36 a | -28 a | -17 a | +7 | -37 a |
+| Atorvastatin 10 mg | 707 | -27a | -36a | -28a | -17a | +7 | -37a |
 | Lovastatin 20 mg | 191 | -19 | -27 | -20 | -6 | +7 | -28 |
 | 95% CI for Diff1 |  | -9.2, -6.5 | -10.7, -7.1 | -10.0, -6.5 | -15.2, -7.1 | -1.7, 2.0 | -11.1, -7.1 |
 | Study 2 |  |  |  |  |  |  |  |
-| Atorvastatin 10 mg | 222 | -25b | -35 b | -27 b | -17 b | +6 | -36 b |
+| Atorvastatin 10 mg | 222 | -25b | -35b | -27b | -17b | +6 | -36b |
 | Pravastatin 20 mg | 77 | -17 | -23 | -17 | -9 | +8 | -28 |
 | 95% CI for Diff1 |  | -10.8, -6.1 | -14.5, -8.2 | -13.4, -7.4 | -14.1, -0.7 | -4.9, 1.6 | -11.5, -4.1 |
 | Study 3 |  |  |  |  |  |  |  |
-| Atorvastatin 10 mg | 132 | -29c | -37 c | -34 c | -23 c | +7 | -39 c |
+| Atorvastatin 10 mg | 132 | -29c | -37c | -34c | -23c | +7 | -39c |
 | Simvastatin 10 mg | 45 | -24 | -30 | -30 | -15 | +7 | -33 |
 | 95% CI for Diff1 |  | -8.7, -2.7 | -10.1, -2.6 | -8.0, -1.1 | -15.1, -0.7 | -4.3, 3.9 | -9.6, -1.9 |
 | 1 A negative value for the 95% CI for the difference between treatments favors atorvastatin for all except HDL-C, for which a positive value favors atorvastatin. If the range does not include 0, this indicates a statistically significant difference. a Significantly different from lovastatin, ANCOVA, p ≤0.05 b Significantly different from pravastatin, ANCOVA, p ≤0.05 c Significantly different from simvastatin, ANCOVA, p ≤0.05 |  |  |  |  |  |  |  |
 
-The impact on clinical outcomes of the differences in lipid-altering effects between treatments shown in Table 7 is not known.
-Table 7 does not contain data comparing the effects of atorvastatin 10 mg and higher doses of lovastatin, pravastatin, and simvastatin.
+The impact on clinical outcomes of the differences in lipid-altering effects between treatments shown in Table 8 is not known.
+Table 8 does not contain data comparing the effects of atorvastatin 10 mg and higher doses of lovastatin, pravastatin, and simvastatin.
 The drugs compared in the studies summarized in the table are not necessarily interchangeable.
 
-## 14.3 Hypertriglyceridemia (Fredrickson Type IV)
+## 14.3 Hypertriglyceridemia
 
-The response to atorvastatin calcium in 64 patients with isolated hypertriglyceridemia treated across several clinical trials is shown in the table below (Table 8).
+The response to atorvastatin calcium in 64 patients with isolated hypertriglyceridemia (Fredrickson Type IV) treated across several clinical trials is shown in the table below (Table 9).
 For the atorvastatin calcium -treated patients, median (min, max) baseline TG level was 565 (267 to 1502).
 
-TABLE 8.
+TABLE 9.
 Combined Patients With Isolated Elevated TG: Median (min, max) Percentage Change From Baseline
 
 |  | Placebo (N=12) | Atorvastatin 10 mg (N=37) | Atorvastatin 20 mg (N=13) | Atorvastatin 80 mg (N=14) |
@@ -163,16 +164,16 @@ Combined Patients With Isolated Elevated TG: Median (min, max) Percentage Change
 | VLDL-C | -1.0 (-31.9, 53.2) | -48.8 (-85.8, 57.3) | -44.6 (-62.2, -10.8) | -62.0 (-88.2, 37.6) |
 | non-HDL-C | -2.8 (-17.6, 30.0) | -33.0 (-52.1, -13.3) | -42.7 (-53.7, -17.4) | -51.5 (-72.9, -4.3) |
 
-## 14.4 Dysbetalipoproteinemia (Fredrickson Type III)
+## 14.4 Dysbetalipoproteinemia
 
-The results of an open-label crossover study of 16 patients (genotypes: 14 apo E2/E2 and 2 apo E3/E2) with dysbetalipoproteinemia (Fredrickson Type III) are shown in the table below (Table 9).
+The results of an open-label crossover study of 16 patients (genotypes: 14 apo E2/E2 and 2 apo E3/E2) with dysbetalipoproteinemia (Fredrickson Type III) are shown in the table below (Table 10).
 
-TABLE 9.
+TABLE 10.
 Open-Label Crossover Study of 16 Patients With Dysbetalipoproteinemia (Fredrickson Type III)
 
-|  | Median (min, max) at Baseline (mg/dL) | Median % Change (min, max) |  |
+|  |  | Median % Change (min, max) |  |
 | --- | --- | --- | --- |
-| Atorvastatin 10 mg | Atorvastatin 80 mg |  |  |
+|  | Median (min, max) at Baseline (mg/dL) | Atorvastatin 10 mg | Atorvastatin 80 mg |
 | Total-C | 442 (225, 1320) | -37 (-85, 17) | -58 (-90, -31) |
 | Triglycerides | 678 (273, 5990) | -39 (-92, -8) | -53 (-95, -30) |
 | IDL-C + VLDL-C | 215 (111, 613) | -32 (-76, 9) | -63 (-90, -8) |
@@ -180,7 +181,7 @@ Open-Label Crossover Study of 16 Patients With Dysbetalipoproteinemia (Fredricks
 
 ## 14.5 Homozygous Familial Hypercholesterolemia
 
-In a study without a concurrent control group, 29 patients ages 6 to 37 years with homozygous FH received maximum daily doses of 20 to 80 mg of atorvastatin calcium.
+In a study without a concurrent control group, 29 patients ages 6 years to 37 years with HoFH received maximum daily doses of 20 to 80 mg of atorvastatin calcium.
 The mean LDL-C reduction in this study was 18%.
 Twenty-five patients with a reduction in LDL-C had a mean response of 20% (range of 7% to 53%, median of 24%); the remaining 4 patients had 7% to 24% increases in LDL-C.
 Five of the 29 patients had absent LDL-receptor function.
@@ -189,15 +190,15 @@ The remaining 3 receptor-negative patients had a mean LDL-C reduction of 22%.
 
 ## 14.6 Heterozygous Familial Hypercholesterolemia in Pediatric Patients
 
-In a double-blind, placebo-controlled study followed by an open-label phase, 187 boys and postmenarchal girls 10 to 17 years of age (mean age 14.1 years) with heterozygous familial hypercholesterolemia (FH) or severe hypercholesterolemia, were randomized to atorvastatin calcium (n=140) or placebo (n=47) for 26 weeks and then all received atorvastatin calcium for 26 weeks.
+In a double-blind, placebo-controlled study followed by an open-label phase, 187 boys and postmenarchal girls 10 years to 17 years of age (mean age 14.1 years) with heterozygous familial hypercholesterolemia (HeFH) or severe hypercholesterolemia, were randomized to atorvastatin calcium (n=140) or placebo (n=47) for 26 weeks and then all received atorvastatin calcium for 26 weeks.
 Inclusion in the study required 1) a baseline LDL-C level ≥ 190 mg/dL or 2) a baseline LDL-C level ≥ 160 mg/dL and positive family history of FH or documented premature cardiovascular disease in a first or second-degree relative.
 The mean baseline LDL-C value was 218.6 mg/dL (range: 138.5 to 385.0 mg/dL) in the atorvastatin calcium group compared to 230.0 mg/dL (range: 160.0 to 324.5 mg/dL) in the placebo group.
 The dosage of atorvastatin calcium (once daily) was 10 mg for the first 4 weeks and uptitrated to 20 mg if the LDL-C level was > 130 mg/dL.
 The number of atorvastatin calcium-treated patients who required uptitration to 20 mg after Week 4 during the double-blind phase was 78 (55.7%).
 
-Atorvastatin calcium significantly decreased plasma levels of total-C, LDL-C, triglycerides, and apolipoprotein B during the 26-week double-blind phase (see Table 10).
+Atorvastatin calcium significantly decreased plasma levels of total-C, LDL-C, triglycerides, and apolipoprotein B during the 26-week double-blind phase (see Table 11).
 
-TABLE 10.
+TABLE 11.
 Lipid-altering Effects of Atorvastatin Calcium in Adolescent Boys and Girls with Heterozygous Familial Hypercholesterolemia or Severe Hypercholesterolemia (Mean Percentage Change From Baseline at Endpoint in Intention-to-Treat Population)
 
 | DOSAGE | N | Total-C | LDL-C | HDL-C | TG | Apolipoprotein B |
@@ -207,5 +208,7 @@ Lipid-altering Effects of Atorvastatin Calcium in Adolescent Boys and Girls with
 
 The mean achieved LDL-C value was 130.7 mg/dL (range: 70.0 to 242.0 mg/dL) in the atorvastatin calcium group compared to 228.5 mg/dL (range: 152.0 to 385.0 mg/dL) in the placebo group during the 26-week double-blind phase.
 
-The safety and efficacy of doses above 20 mg have not been studied in controlled trials in children.
-The long-term efficacy of atorvastatin therapy in childhood to reduce morbidity and mortality in adulthood has not been established.
+The long-term efficacy of atorvastatin calcium therapy in childhood to reduce morbidity and mortality in adulthood has not been established.
+
+Additional pediatric use information is approved for Pfizer’s LIPITOR (atorvastatin calcium) tablets.
+However, due to Pfizer’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.

@@ -6,20 +6,23 @@ Rhabdomyolysis and myopathy [see Warnings and Precautions (5.1)]
 
 Liver enzyme abnormalities [see Warnings and Precautions (5.2)]
 
-## 6.1 Clinical Trial Adverse Experiences
+## 6.1 Clinical Trials Experience
 
-Because clinical trials are conducted under widely varying conditions, the adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+Because clinical trials are conducted under widely varying conditions, the adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
 In the atorvastatin calcium placebo-controlled clinical trial database of 16,066 patients (8755 atorvastatin calcium vs. 7311 placebo; age range 10 to 93 years, 39% women, 91% Caucasians, 3% Blacks, 2% Asians, 4% other) with a median treatment duration of 53 weeks, 9.7% of patients on atorvastatin calcium and 9.5% of the patients on placebo discontinued due to adverse reactions regardless of causality.
 The five most common adverse reactions in patients treated with atorvastatin calcium that led to treatment discontinuation and occurred at a rate greater than placebo were: myalgia (0.7%), diarrhea (0.5%), nausea (0.4%), alanine aminotransferase increase (0.4%), and hepatic enzyme increase (0.4%).
 
 The most commonly reported adverse reactions (incidence ≥ 2% and greater than placebo) regardless of causality, in patients treated with atorvastatin calcium in placebo controlled trials (n=8755) were: nasopharyngitis (8.3%), arthralgia (6.9%), diarrhea (6.8%), pain in extremity (6.0%), and urinary tract infection (5.7%).
 
-Table 2 summarizes the frequency of clinical adverse reactions, regardless of causality, reported in ≥ 2% and at a rate greater than placebo in patients treated with atorvastatin calcium (n=8755), from seventeen placebo-controlled trials.
+Table 3 summarizes the frequency of clinical adverse reactions, regardless of causality, reported in ≥ 2% and at a rate greater than placebo in patients treated with atorvastatin calcium (n=8755), from seventeen placebo-controlled trials.
 
-| Table 2. Clinical adverse reactions occurring in ≥ 2% in patents treated with any dose of atorvastatin calcium and at an incidence greater than placebo regardless of causality (% of patients). |  |  |  |  |  |  |
+Table 3.
+Clinical adverse reactions occurring in ≥ 2% in patients treated with any dose of atorvastatin calcium and at an incidence greater than placebo regardless of causality (% of patients).
+
+| ReactionAdverse Reaction ≥ 2% in any dose greater than placebo | N=8755 | N=3908 | N=188 | N=604 | N=4055 | N=7311 |
 | --- | --- | --- | --- | --- | --- | --- |
-| Adverse Reaction* | Any dose N=8755 | 10 mg N=3908 | 20 mg N=188 | 40 mg N=604 | 80 mg N=4055 | Placebo N=7311 |
+| Adverse | Any dose | 10 mg | 20 mg | 40 mg | 80 mg | Placebo |
 | Nasopharyngitis | 8.3 | 12.9 | 5.3 | 7.0 | 4.2 | 8.2 |
 | Arthralgia | 6.9 | 8.9 | 11.7 | 10.6 | 4.3 | 6.5 |
 | Diarrhea | 6.8 | 7.3 | 6.4 | 14.1 | 5.2 | 6.3 |
@@ -32,7 +35,6 @@ Table 2 summarizes the frequency of clinical adverse reactions, regardless of ca
 | Myalgia | 3.5 | 3.6 | 5.9 | 8.4 | 2.7 | 3.1 |
 | Insomnia | 3.0 | 2.8 | 1.1 | 5.3 | 2.8 | 2.9 |
 | Pharyngolaryngeal pain | 2.3 | 3.9 | 1.6 | 2.8 | 0.7 | 2.1 |
-| * Adverse Reaction ≥ 2% in any dose greater than placebo |  |  |  |  |  |  |
 
 Other adverse reactions reported in placebo-controlled studies include
 
@@ -72,6 +74,10 @@ There were no significant differences between the treatment groups for all-cause
 The proportions of subjects who experienced cardiovascular death were numerically smaller in the atorvastatin calcium 80 mg group (3.3%) than in the placebo group (4.1%).
 The proportions of subjects who experienced non-cardiovascular death were numerically larger in the atorvastatin calcium 80 mg group (5.0%) than in the placebo group (4.0%).
 
+Adverse Reactions from Clinical Studies of Atorvastatin Calcium in Pediatric Patients
+
+In a 26-week controlled study in boys and postmenarchal girls with HeFH (ages 10 years to 17 years) (n=140, 31% female; 92% Caucasians, 1.6% Blacks, 1.6% Asians, 4.8% other), the safety and tolerability profile of atorvastatin calcium 10 to 20 mg daily, as an adjunct to diet to reduce total cholesterol, LDL-C, and apo B levels, was generally similar to that of placebo [see Use in Special Populations (8.4) and Clinical Studies (14.6)].
+
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during postapproval use of atorvastatin calcium.
@@ -84,7 +90,3 @@ There have been rare reports of immune-mediated necrotizing myopathy associated 
 There have been rare postmarketing reports of cognitive impairment (e.g., memory loss, forgetfulness, amnesia, memory impairment, confusion) associated with statin use.
 These cognitive issues have been reported for all statins.
 The reports are generally nonserious, and reversible upon statin discontinuation, with variable times to symptom onset (1 day to years) and symptom resolution (median of 3 weeks).
-
-## 6.3 Pediatric Patients (ages 10 to 17 years)
-
-In a 26-week controlled study in boys and postmenarchal girls (n=140, 31% female; 92% Caucasians, 1.6% Blacks, 1.6% Asians, 4.8% other), the safety and tolerability profile of atorvastatin calcium 10 to 20 mg daily was generally similar to that of placebo [see Clinical Studies (14.6) and Use in Special Populations, Pediatric Use (8.4)].

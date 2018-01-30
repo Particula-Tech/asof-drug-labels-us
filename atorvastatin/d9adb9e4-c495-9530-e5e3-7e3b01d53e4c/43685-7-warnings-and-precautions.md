@@ -21,18 +21,17 @@ Physicians considering combined therapy with atorvastatin and fibric acid deriva
 Lower starting and maintenance doses of atorvastatin should be considered when taken concomitantly with the aforementioned drugs [see Drug Interactions (7)].
 Periodic creatine phosphokinase (CPK) determinations may be considered in such situations, but there is no assurance that such monitoring will prevent the occurrence of severe myopathy.
 
-Prescribing recommendations for interacting agents are summarized in Table 1 [see also Dosage and Administration (2.6), Drug Interactions (7), Clinical Pharmacology (12.3)].
+Prescribing recommendations for interacting agents are summarized in Table 2 [see Dosage and Administration (2.6), Drug Interactions (7), Clinical Pharmacology (12.3)].
 
-Table 1.
+Table 2.
 Drug Interactions Associated with Increased Risk of Myopathy/Rhabdomyolysis
 
 | Interacting Agents | Prescribing Recommendations |
 | --- | --- |
 | Cyclosporine, HIV protease inhibitors (tipranavir plus ritonavir), hepatitis C protease inhibitor (telaprevir) | Avoid atorvastatin |
 | HIV protease inhibitor (lopinavir plus ritonavir) | Use with caution and lowest dose necessary |
-| Clarithromycin, itraconazole, HIV protease inhibitors (saquinavir plus ritonavir*, darunavir plus ritonavir, fosamprenavir, fosamprenavir plus ritonavir) | Do not exceed 20 mg atorvastatin daily |
+| Clarithromycin, itraconazole, HIV protease inhibitors (saquinavir plus ritonavirUse with caution and with the lowest dose necessary (12.3), darunavir plus ritonavir, fosamprenavir, fosamprenavir plus ritonavir) | Do not exceed 20 mg atorvastatin daily |
 | HIV protease inhibitor (nelfinavir) Hepatitis C protease inhibitor (boceprevir) | Do not exceed 40 mg atorvastatin daily |
-| *Use with caution and with the lowest dose necessary (12.3) |  |
 
 Cases of myopathy, including rhabdomyolysis, have been reported with atorvastatin co-administered with colchicine, and caution should be exercised when prescribing atorvastatin with colchicine [see Drug Interactions (7.11)].
 
@@ -55,7 +54,7 @@ If serious liver injury with clinical symptoms and/or hyperbilirubinemia or jaun
 If an alternate etiology is not found, do not restart atorvastatin.
 
 Atorvastatin should be used with caution in patients who consume substantial quantities of alcohol and/or have a history of liver disease.
-Active liver disease or unexplained persistent transaminase elevations are contraindications to the use of atorvastatin [see Contraindications (4.1)].
+Active liver disease or unexplained persistent transaminase elevations are contraindications to the use of atorvastatin [see Contraindications (4)].
 
 ## 5.3 Endocrine Function
 

@@ -4,7 +4,7 @@ Therapy with lipid-altering agents should be only one component of multiple risk
 Drug therapy is recommended as an adjunct to diet when the response to a diet restricted in saturated fat and cholesterol and other nonpharmacologic measures alone has been inadequate.
 In patients with CHD or multiple risk factors for CHD, atorvastatin calcium tablets can be started simultaneously with diet.
 
-## 1.1 Prevention of Cardiovascular Disease
+## 1.1 Prevention of Cardiovascular Disease in Adults
 
 In adult patients without clinically evident coronary heart disease, but with multiple risk factors for coronary heart disease such as age, smoking, hypertension, low HDL-C, or a family history of early coronary heart disease, atorvastatin calcium tablets are indicated to:
 
@@ -12,12 +12,12 @@ In adult patients without clinically evident coronary heart disease, but with mu
 - Reduce the risk of stroke
 - Reduce the risk for revascularization procedures and angina
 
-In patients with type 2 diabetes, and without clinically evident coronary heart disease, but with multiple risk factors for coronary heart disease such as retinopathy, albuminuria, smoking, or hypertension, atorvastatin calcium tablets are indicated to:
+In adult patients with type 2 diabetes, and without clinically evident coronary heart disease, but with multiple risk factors for coronary heart disease such as retinopathy, albuminuria, smoking, or hypertension, atorvastatin calcium tablets are indicated to:
 
 - Reduce the risk of myocardial infarction
 - Reduce the risk of stroke
 
-In patients with clinically evident coronary heart disease, atorvastatin calcium tablets are indicated to:
+In adult patients with clinically evident coronary heart disease, atorvastatin calcium tablets are indicated to:
 
 - Reduce the risk of non-fatal myocardial infarction
 - Reduce the risk of fatal and non-fatal stroke
@@ -29,11 +29,11 @@ In patients with clinically evident coronary heart disease, atorvastatin calcium
 
 Atorvastatin calcium tablets are indicated
 
-- As an adjunct to diet to reduce elevated total-C, LDL-C, apo B, and TG levels and to increase HDL-C in patients with primary hypercholesterolemia (heterozygous familial and nonfamilial) and mixed dyslipidemia (Fredrickson Types IIa and IIb);
-- As an adjunct to diet for the treatment of patients with elevated serum TG levels (Fredrickson Type IV);
-- For the treatment of patients with primary dysbetalipoproteinemia (Fredrickson Type III) who do not respond adequately to diet;
-- To reduce total-C and LDL-C in patients with homozygous familial hypercholesterolemia as an adjunct to other lipid-lowering treatments (e.g., LDL apheresis) or if such treatments are unavailable;
-- As an adjunct to diet to reduce total-C, LDL-C, and apo B levels in boys and postmenarchal girls, 10 to 17 years of age, with heterozygous familial hypercholesterolemia if after an adequate trial of diet therapy the following findings are present: a. LDL-C remains ≥ 190 mg/dL or b. LDL-C remains ≥ 160 mg/dL and:
+- As an adjunct to diet to reduce elevated total-C, LDL-C, apo B, and TG levels and to increase HDL-C in adult patients with primary hypercholesterolemia (heterozygous familial and nonfamilial) and mixed dyslipidemia (Fredrickson Types IIa and IIb);
+- As an adjunct to diet for the treatment of adult patients with elevated serum TG levels (Fredrickson Type IV);
+- For the treatment of adult patients with primary dysbetalipoproteinemia (Fredrickson Type III) who do not respond adequately to diet;
+- To reduce total-C and LDL-C in patients with homozygous familial hypercholesterolemia (HoFH) as an adjunct to other lipid-lowering treatments (e.g., LDL apheresis) or if such treatments are unavailable;
+- As an adjunct to diet to reduce total-C, LDL-C, and apo B levels in pediatric patients, 10 to 17 years of age, with heterozygous familial hypercholesterolemia (HeFH) if after an adequate trial of diet therapy the following findings are present: a. LDL-C remains ≥ 190 mg/dL or b. LDL-C remains ≥ 160 mg/dL and:
   - there is a positive family history of premature cardiovascular disease or
   - two or more other CVD risk factors are present in the pediatric patient
 

@@ -11,7 +11,8 @@ These findings occurred at plasma AUC (0 to 24) values of approximately 6 times 
 In vitro, atorvastatin was not mutagenic or clastogenic in the following tests with and without metabolic activation: the Ames test with Salmonella typhimurium and Escherichia coli, the HGPRT forward mutation assay in Chinese hamster lung cells, and the chromosomal aberration assay in Chinese hamster lung cells.
 Atorvastatin was negative in the in vivo mouse micronucleus test.
 
-Studies in rats performed at doses up to 175 mg/kg (15 times the human exposure) produced no changes in fertility.
+In female rats, atorvastatin at doses up to 225 mg/kg (56 times the human exposure) did not cause adverse effects on fertility.
+Studies in male rats performed at doses up to 175 mg/kg (15 times the human exposure) produced no changes in fertility.
 There was aplasia and aspermia in the epididymis of 2 of 10 rats treated with 100 mg/kg/day of atorvastatin for 3 months (16 times the human AUC at the 80 mg dose); testis weights were significantly lower at 30 and 100 mg/kg and epididymal weight was lower at 100 mg/kg.
 Male rats given 100 mg/kg/day for 11 weeks prior to mating had decreased sperm motility, spermatid head concentration, and increased abnormal sperm.
 Atorvastatin caused no adverse effects on semen parameters, or reproductive organ histopathology in dogs given doses of 10, 40, or 120 mg/kg for two years.

@@ -49,9 +49,9 @@ Do not take atorvastatin calcium tablets if you:
   The active ingredient is atorvastatin.
   See the end of this leaflet for a complete list of ingredients in atorvastatin calcium tablets.
 
-Atorvastatin calcium tablets have not been studied in children under 10 years of age.
+Atorvastatin calcium tablets dosing have not been established in children under 10 years of age.
 
-Before You Start Atorvastatin Calcium Tablets
+1Before You Start Atorvastatin Calcium Tablets
 
 Tell your doctor if you:
 
@@ -178,7 +178,7 @@ APOTEX INC. ATORVASTATIN CALCIUM TABLETS 10 mg, 20 mg, 40 mg, and 80 mg
 | Toronto, Ontario | Weston, Florida |
 | Canada, M9L 1T9 | 33326 |
 
-Revised: July 2017
+Revised: January 2018
 
 Rev.
-10
+11
