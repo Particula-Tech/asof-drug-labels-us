@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 15 mg Tablet Carton
+# PRINCIPAL DISPLAY PANEL - 15 mg Tablet Blister Pack Box
 
 NDC 0052-0106-30
 
@@ -15,7 +15,7 @@ Manufactured for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC. W
 
 Manufactured by: Cephalon, Inc., Salt Lake City, UT 84116, USA
 
-# PRINCIPAL DISPLAY PANEL - 30 mg Tablet Carton
+# PRINCIPAL DISPLAY PANEL - 30 mg Tablet Blister Pack Box
 
 NDC 0052-0108-30
 
@@ -32,7 +32,7 @@ Manufactured for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC. W
 
 Manufactured by: Cephalon, Inc., Salt Lake City, UT 84116, USA
 
-# PRINCIPAL DISPLAY PANEL - 45 mg Tablet Carton
+# PRINCIPAL DISPLAY PANEL - 45 mg Tablet Blister Pack Box
 
 NDC 0052-0110-30
 
