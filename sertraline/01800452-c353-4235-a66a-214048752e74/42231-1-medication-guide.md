@@ -252,4 +252,4 @@ Manufactured by: Aurobindo Pharma Limited
 
 Hyderabad-500 038, India
 
-Revised: 07/2017
+Revised: 01/2018

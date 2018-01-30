@@ -92,3 +92,10 @@ False-positive urine immunoassay screening tests for benzodiazepines have been r
 This finding is due to lack of specificity of the screening tests.
 False-positive test results may be expected for several days following discontinuation of sertraline hydrochloride.
 Confirmatory tests, such as gas chromatography/mass spectrometry, will help distinguish sertraline hydrochloride from benzodiazepines [See Drug Interactions (7.3)].
+
+## 5.10 QTc Prolongation
+
+During post-marketing use of sertraline, cases of QTc prolongation and Torsade de Pointes (TdP) have been reported.
+Most reports were confounded by other risk factors.
+In a randomized, double-blind, placebo- and positive-controlled three-period crossover thorough QTc study in 54 healthy adult subjects, there was a positive relationship between the length of the rate-adjusted QTc interval and serum sertraline concentration.
+Therefore, sertraline hydrochloride should be used with caution in patients with risk factors for QTc prolongation [See Drug Interactions (7.1), Clinical Pharmacology (12.2)].
