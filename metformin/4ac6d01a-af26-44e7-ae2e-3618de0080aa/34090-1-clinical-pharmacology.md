@@ -86,7 +86,7 @@ Table 2: Metformin Hydrochloride Tablets vs Placebo Summary of Mean Changes from
 | FPG (mg/dL) Baseline Change at FINAL VISIT | 241.5 -53 | 237.7 6.3 | NS ** 0.001 |
 | Hemoglobin A1c (%) Baseline Change at FINAL VISIT | 8.4 -1.4 | 8.2 0.4 | NS ** 0.001 |
 | Body Weight (lbs) Baseline Change at FINAL VISIT | 201 -1.4 | 206 -2.4 | NS ** NS ** |
-| * All patients on diet therapy at Baseline ** Not statistically significant |  |  |  |
+| *All patients on diet therapy at Baseline **Not statistically significant |  |  |  |
 
 A 29-week, double-blind, placebo-controlled study of metformin hydrochloride tablets and glyburide, alone and in combination, was conducted in obese patients with type 2 diabetes who had failed to achieve adequate glycemic control while on maximum doses of glyburide (baseline FPG of approximately 250 mg/dL) (see Table 3).
 Patients randomized to the combination arm started therapy with metformin hydrochloride tablets 500 mg and glyburide 20 mg.
@@ -104,9 +104,9 @@ Table 3: Combined Metformin Hydrochloride Tablets/Glyburide (Comb) vs Glyburide 
 | Glyb vs Comb | MET vs Comb | MET vs Glyb |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | Comb (n = 213) | Glyb (n = 209) | MET (n = 210) | p-values |  |  |
-| Fasting Plasma Glucose (mg/dL) Baseline Change at FINAL VISIT | 250.5 -63.5 | 247.5 13.7 | 253.9 -0.9 | NS ** 0.001 | NS ** 0.001 | NS ** 0.025 |
-| Hemoglobin A1c (%) Baseline Change at FINAL VISIT | 8.8 -1.7 | 8.5 0.2 | 8.9 -0.4 | NS ** 0.001 | NS ** 0.001 | 0.007 0.001 |
-| Body Weight (lbs) Baseline Change at FINAL VISIT | 202.2 0.9 | 203 -0.7 | 204 -8.4 | NS ** 0.011 | NS ** 0.001 | NS ** 0.001 |
+| Fasting Plasma Glucose (mg/dL) Baseline Change at FINAL VISIT | 250.5 -63.5 | 247.5 13.7 | 253.9 -0.9 | NS** 0.001 | NS** 0.001 | NS** 0.025 |
+| Hemoglobin A1c (%) Baseline Change at FINAL VISIT | 8.8 -1.7 | 8.5 0.2 | 8.9 -0.4 | NS** 0.001 | NS** 0.001 | 0.007 0.001 |
+| Body Weight (lbs) Baseline Change at FINAL VISIT | 202.2 0.9 | 203 -0.7 | 204 -8.4 | NS** 0.011 | NS** 0.001 | NS** 0.001 |
 | * All patients on glyburide, 20 mg/day, at Baseline ** Not statistically significant |  |  |  |  |  |  |
 
 The magnitude of the decline in fasting blood glucose concentration following the institution of metformin hydrochloride tablets therapy was proportional to the level of fasting hyperglycemia.
@@ -143,10 +143,10 @@ In addition, this study demonstrated that the combination of metformin hydrochlo
 
 In a double-blind, placebo-controlled study in pediatric patients aged 10 to 16 years with type 2 diabetes (mean FPG 182.2 mg/dL), treatment with metformin hydrochloride tablets (up to 2000 mg/day) for up to 16 weeks (mean duration of treatment 11 weeks) resulted in a significant mean net reduction in FPG of 64.3 mg/dL, compared with placebo (see Table 10).
 
-Table 10: Metformin Hydrochloride Tablets vs Placebo (Pediatricsa) Summary of Mean Changes from Baseline* in Plasma Glucose and Body weight at Final Visit
+Table 10: Metformin Hydrochloride Tablets vs Placebo (Pediatricsa) Summary of Mean Changes from Baseline* in Plasma Glucose and Body Weight at Final Visit
 
 |  | Metformin Hydrochloride Tablets | Placebo | p-Value |
 | --- | --- | --- | --- |
 | FPG (mg/dL) Baseline Change at FINAL VISIT | (n = 37) 162.4 -42.9 | (n = 36) 192.3 21.4 | <0.001 |
-| Body Weight (lbs) Baseline Change at FINAL VISIT | (n = 39) 205.3 -3.3 | (n = 38) 189 -2 | NS ** |
+| Body Weight (lbs) Baseline Change at FINAL VISIT | (n = 39) 205.3 -3.3 | (n = 38) 189 -2 | NS** |
 | a Pediatric patients mean age 13.8 years (range 10 to 16 years) * All patients on diet therapy at Baseline ** Not statistically significant |  |  |  |

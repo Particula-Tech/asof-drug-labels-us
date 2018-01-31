@@ -19,7 +19,7 @@ The dosage of metformin hydrochloride tablets must be individualized on the basi
 Patients can also be titrated from 500 mg twice a day to 850 mg twice a day after 2 weeks.
 For those patients requiring additional glycemic control, metformin hydrochloride tablets may be given to a maximum daily dose of 2550 mg per day.
 Doses above 2000 mg may be better tolerated given 3 times a day with meals.
-Pediatrics – The usual starting dose of metformin hydrochloride tablets is 500 mg twice a day, given with meals.
+Pediatrics The usual starting dose of metformin hydrochloride tablets is 500 mg twice a day, given with meals.
 Dosage increases should be made in increments of 500 mg weekly up to a maximum of 2000 mg per day, given in divided doses.
 The dosage of metformin hydrochloride tablets must be individualized on the basis of both effectiveness and tolerability.
 

@@ -55,7 +55,7 @@ Clinical recommendations based upon the patient’s renal function include (see 
 
 Vitamin B12 levels—In controlled clinical trials of metformin hydrochloride tablets of 29 weeks duration, a decrease to subnormal levels of previously normal serum vitamin B12 levels, without clinical manifestations, was observed in approximately 7% of patients.
 Such decrease, possibly due to interference with B12 absorption from the B12-intrinsic factor complex, is, however, very rarely associated with anemia and appears to be rapidly reversible with discontinuation of metformin hydrochloride tablets or vitamin B12 supplementation.
-Measurement of hematologic parameters on an annual basis is advised in patients on metformin and any apparent abnormalities should be appropriately investigated and managed (see PRECAUTIONS:Laboratory Tests).
+Measurement of hematologic parameters on an annual basis is advised in patients on metformin and any apparent abnormalities should be appropriately investigated and managed (see PRECAUTIONS: Laboratory Tests).
 
 Certain individuals (those with inadequate vitamin B12 or calcium intake or absorption) appear to be predisposed to developing subnormal vitamin B12 levels.
 In these patients, routine serum vitamin B12 measurements at 2- to 3-year intervals may be useful.
@@ -157,7 +157,7 @@ The safety and effectiveness of metformin hydrochloride tablets for the treatmen
 Use of metformin hydrochloride tablets in this age group is supported by evidence from adequate and well-controlled studies of metformin hydrochloride tablets in adults with additional data from a controlled clinical study in pediatric patients ages 10 to 16 years with type 2 diabetes, which demonstrated a similar response in glycemic control to that seen in adults.
 (See CLINICAL PHARMACOLOGY: Pediatric Clinical Studies.)
 In this study, adverse effects were similar to those described in adults.
-(See ADVERSE REACTIONS:Pediatric Patients.)
+(See ADVERSE REACTIONS: Pediatric Patients.)
 A maximum daily dose of 2000 mg is recommended (see DOSAGE AND ADMINISTRATION: Recommended Dosing Schedule: Pediatrics).
 
 ## Geriatric Use
