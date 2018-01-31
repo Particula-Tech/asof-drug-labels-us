@@ -9,7 +9,7 @@ LONHALA MAGNAIR is also supplied in a Refill Kit containing 60 unit-dose vials p
 | Package Configuration | Dosage Strength | NDC |
 | --- | --- | --- |
 | Starter Kit with 30 day supply (30 foil pouches with 2 vials per pouch) and complete MAGNAIR Nebulizer System | 25 mcg | NDC: 63402-201-00 |
-| Refill Kit with 30 day supply (30 foil pouches with 2 vials per pouch) and MAGNAIR Replacement Handset | 25 mcg | NDC: 63402-201-01 |
+| Refill Kit with 30 day supply (30 foil pouches with 2 vials per pouch) and MAGNAIR Replacement Handset | 25 mcg | NDC: 63402-301-01 |
 
 ## 16.2 Storage and Handling
 

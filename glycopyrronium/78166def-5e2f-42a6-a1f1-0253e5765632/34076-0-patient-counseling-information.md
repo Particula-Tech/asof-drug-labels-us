@@ -49,4 +49,4 @@ For Sunovion customer service, call 1-888-394-7377.
 For medical information, call 1-800-739-0665.
 To report suspected adverse events, call 1-877-737-7226.
 
-©2017 Sunovion Pharmaceuticals Inc. All rights reserved.
+©2018 Sunovion Pharmaceuticals Inc. All rights reserved.

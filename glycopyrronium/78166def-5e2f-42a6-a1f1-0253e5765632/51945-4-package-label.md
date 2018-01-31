@@ -8,7 +8,7 @@ Store at 20°-25°C (68°-77°F) [see USP Controlled Room Temperature].
 
 PRINCIPAL DISPLAY PANEL – Refill Kit
 
-NDC 63402-201-01
+NDC 63402-301-01
 
 Lonhala™Magnair™ (glycopyrrolate) Inhalation Solution 25mcg/1mL Refill Kit
 
