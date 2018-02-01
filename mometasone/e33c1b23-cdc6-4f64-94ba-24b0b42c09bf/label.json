@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA209310"
+  ],
+  "inn": "mometasone",
+  "labeler": "Intersect ENT, Inc.",
+  "package_ndcs": [
+    "10599-003-01"
+  ],
+  "products": [
+    {
+      "form": "IMPLANT",
+      "generic": "mometasone furoate",
+      "name": "Sinuva"
+    }
+  ],
+  "setid": "e33c1b23-cdc6-4f64-94ba-24b0b42c09bf",
+  "source": "dailymed"
+}
