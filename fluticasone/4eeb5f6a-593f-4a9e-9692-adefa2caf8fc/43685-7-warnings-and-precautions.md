@@ -17,7 +17,7 @@ A blinded adjudication committee determined whether events were asthma related.
 
 The 3 adult and adolescent trials were designed to rule out a risk margin of 2.0, and the pediatric trial was designed to rule out a risk margin of 2.7.
 Each individual trial met its pre-specified objective and demonstrated non-inferiority of ICS/LABA to ICS alone.
-A meta-analysis of the 3 adult and adolescent trials did not show a significant increase in risk of a serious asthma-related event with ICS/LABA fixed-dose combination compared with ICS alone (1).
+A meta-analysis of the 3 adult and adolescent trials did not show a significant increase in risk of a serious asthma-related event with ICS/LABA fixed-dose combination compared with ICS alone (Table 1).
 These trials were not designed to rule out all risk for serious asthma-related events with ICS/LABA compared with ICS.
 
 Table 1.
