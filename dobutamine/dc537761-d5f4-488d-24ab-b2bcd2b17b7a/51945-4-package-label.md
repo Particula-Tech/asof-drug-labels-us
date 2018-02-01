@@ -1,18 +1,15 @@
-# PRINCIPAL DISPLAY PANEL - 20 mL Vial Label
+# PRINCIPAL DISPLAY PANEL - 20 mL Vial Label - 2344-01
 
 20 mL Single-dose Fliptop Vial
 
 DOBUTamine Injection, USP
 
-250 mg Per 20 mL
+250 mg/20 mL (12.5 mg/mL)
 
 MUST BE DILUTED PRIOR TO USE.
-FOR I.V.
-USE ONLY.
+FOR INTRAVENOUS USE ONLY.
 
-Rx only
-
-HOSPIRA, INC., LAKE FOREST, IL 60045 USA
+Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
 # PRINCIPAL DISPLAY PANEL - 20 mL Vial Carton
 

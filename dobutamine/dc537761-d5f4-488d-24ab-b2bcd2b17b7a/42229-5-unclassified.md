@@ -6,8 +6,8 @@ MUST BE DILUTED PRIOR TO
 
 ADMINISTRATION
 
-Distributed by: Hospira, Inc., Lake Forest, IL 60045 USA
+Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
-LAB-1055-2.0
+LAB-1055-3.0
 
-Revised: 09/2017
+Revised: 11/2017
