@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 10 mg Bottle Label
+# PRINCIPAL DISPLAY PANEL - 10 mg Capsule Bottle Label
 
 Pfizer NDC 0069-2600-66
 
