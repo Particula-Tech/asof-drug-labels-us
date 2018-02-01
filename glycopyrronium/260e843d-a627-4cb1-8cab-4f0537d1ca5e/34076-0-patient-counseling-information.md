@@ -46,7 +46,7 @@ Instruct patients to not use 2 capsules at one time and to not use more than 2 c
 
 Manufactured for Sunovion Pharmaceuticals Inc. Marlborough MA 01752 USA Made in Switzerland
 
-© 2017 Sunovion Pharmaceuticals Inc.
+© 2018 Sunovion Pharmaceuticals Inc.
 
 For Customer Service, call 1-888-394-7377.
-For medical information, call 1-800-739-0565 To report suspected adverse events, call 1-877-737-7226 Revised: July 2017 902046R00
+For medical information, call 1-800-739-0565 To report suspected adverse events, call 1-877-737-7226 Revised: January 2018 902046R01

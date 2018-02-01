@@ -6,11 +6,9 @@ SEEBRI NEOHALER contains SEEBRI (glycopyrrolate (15.6 mcg) inhalation powder) or
 
 Unit Dose (blister pack), Box of 60 (10 blister cards with 6 orange transparent capsules each) NDC 63402-815-60
 
-Unit Dose (blister pack), Box of 6 (1 blister card with 6 orange transparent capsules) NDC 63402-815-01
+Unit Dose (blister pack), Box of 6 (1 blister card with 6 orange transparent capsules) NDC 63402-815-06
 
 The NEOHALER device consists of a white protective cap and a base with mouthpiece, capsule chamber and 2 orange push buttons.
-
-## Storage
 
 Storage and Handling
 

@@ -2,8 +2,6 @@
 
 ## 8.1 Pregnancy
 
-### Teratogenic Effects
-
 Teratogenic Effects: Pregnancy Category C
 
 There are no adequate and well-controlled studies with SEEBRI NEOHALER in pregnant women.
@@ -11,8 +9,6 @@ Because animal reproduction studies are not always predictive of human response,
 Women should be advised to contact their physician if they become pregnant while taking SEEBRI NEOHALER.
 
 Glycopyrrolate was not teratogenic in Wistar rats and New Zealand White rabbits at approximately 1400 and 530 times, respectively, the MRHD in adults (on an AUC basis at maternal inhaled doses up to 3.83 mg/kg/day in rats and up to 4.4 mg/kg/day in rabbits).
-
-### Nonteratogenic Effects
 
 Non-teratogenic Effects:
 
