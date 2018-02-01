@@ -3,8 +3,8 @@
 The following serious adverse reactions and/or conditions are described, or described in greater detail, in other sections:
 
 - •Respiratory Depression [see Warnings and Precautions (5.1)]
-- •QT Prolongation [see Warnings and Precautions (5.2)]
-- •Interactions with CNS Depressants [see Warnings and Precautions (5.8)]
+- •Interactions with Benzodiazepines and other CNS Depressants [see Warnings and Precautions (5.2)]
+- •QT Prolongation [see Warnings and Precautions (5.3)]
 - •Serotonin Syndrome [see Warnings and Precautions (5.9)]
 - •Adrenal Insufficiency [see Warnings and Precautions (5.10)]
 - •Severe Hypotension [see Warnings and Precautions (5.11)]

@@ -50,7 +50,7 @@ Overall, the effects of opioids appear to be modestly immunosuppressive.
 Concentration–Adverse Reaction Relationships
 
 There is a relationship between increasing methadone plasma concentration and increasing frequency of dose-related opioid adverse reactions such as nausea, vomiting, CNS effects, and respiratory depression.
-In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.3, 2.4, 2.5)].
+In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.4, 2.5, 2.6)].
 
 ## 12.3 Pharmacokinetics
 
@@ -82,10 +82,10 @@ The slow release from the liver and other tissues may prolong the duration of me
 Drug Interaction Studies
 
 Cytochrome P450 Interactions: Methadone undergoes hepatic N-demethylation by cytochrome P450 (CYP) isoforms, principally CYP3A4, CYP2B6, CYP2C19, CYP2C9, and CYP2D6.
-Coadministration of methadone with CYP inducers may result in more rapid metabolism and potential for decreased effects of methadone, whereas administration with CYP inhibitors may reduce metabolism and potentiate methadone’s effects.
+Co-administration of methadone with CYP inducers may result in more rapid metabolism and potential for decreased effects of methadone, whereas administration with CYP inhibitors may reduce metabolism and potentiate methadone’s effects.
 Although antiretroviral drugs such as efavirenz, nelfinavir, nevirapine, ritonavir, lopinavir+ritonavir combination are known to inhibit some CYPs, they are shown to reduce the plasma levels of methadone, possibly due to CYP induction activity [see Drug Interactions (7)].
 
-Cytochrome P450 Inducers: The following drug interactions were reported following coadministration of methadone with known inducers of cytochrome P450 enzymes:
+Cytochrome P450 Inducers: The following drug interactions were reported following co-administration of methadone with known inducers of cytochrome P450 enzymes:
 
 1. Rifampin: In patients well-stabilized on methadone, concomitant administration of rifampin resulted in a marked reduction in serum methadone levels and a concurrent appearance of withdrawal symptoms.
 2. Phenytoin:In a pharmacokinetic study with patients on methadone maintenance therapy, phenytoin administration (250 mg twice daily initially for 1 day followed by 300 mg daily for 3 to 4 days) resulted in an approximately 50% reduction in methadone exposure and withdrawal symptoms occurred concurrently.
@@ -98,12 +98,12 @@ Cytochrome P450 Inhibitors:
    Repeat dose administration of oral voriconazole (400 mg every 12 hours for 1 day, then 200 mg every 12 hours for 4 days) increased the peak plasma concentration (Cmax) and AUC of (R)-methadone by 31% and 47%, respectively, in subjects receiving a methadone maintenance dose (30 to 100 mg daily).
    The Cmax and AUC of (S)-methadone increased by 65% and 103%, respectively.
    Increased plasma concentrations of methadone have been associated with toxicity including QT prolongation.
-   Frequent monitoring for adverse events and toxicity related to methadone is recommended during coadministration.
+   Frequent monitoring for adverse events and toxicity related to methadone is recommended during co-administration.
    Dose reduction of methadone may be needed [see Drug Interactions (7)].
 
 Antiretroviral Drugs: Although antiretroviral drugs such as efavirenz, nelfinavir, nevirapine, ritonavir, telaprevir, lopinavir+ritonavir combination are known to inhibit some CYPs, they are shown to reduce the plasma levels of methadone, possibly due to CYP induction activity.
 
-1. Abacavir, amprenavir, darunavir+ritonavir, efavirenz, nelfinavir, nevirapine, ritonavir, telaprevir, lopinavir+ritonavir, saquinavir+ritonavir, tipranvir+ritonavir combination: Coadministration of these anti-retroviral agents resulted in increased clearance or decreased plasma levels of methadone [see Drug Interactions (7)].
+1. Abacavir, amprenavir, darunavir+ritonavir, efavirenz, nelfinavir, nevirapine, ritonavir, telaprevir, lopinavir+ritonavir, saquinavir+ritonavir, tipranavir+ritonavir combination: Co-administration of these anti-retroviral agents resulted in increased clearance or decreased plasma levels of methadone [see Drug Interactions (7)].
 2. Didanosine and Stavudine:Methadone decreased the AUC and peak levels for didanosine and stavudine, with a more significant decrease for didanosine.
    Methadone disposition was not substantially altered [see Drug Interactions (7)].
 3. Zidovudine:Methadone increased the AUC of zidovudine which could result in toxic effects [see Drug Interactions (7)].

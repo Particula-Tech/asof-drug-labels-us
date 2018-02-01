@@ -1,7 +1,11 @@
 # 7 DRUG INTERACTIONS
 
-| Inhibitors of CYP3A4, CYP2B6, CYP2C19, CYP2C9, or CYP2D6 |  |
+| Benzodiazepines and Other Central Nervous System (CNS) Depressants |  |
 | --- | --- |
+| Clinical Impact: | Due to additive pharmacologic effect, the concomitant use of benzodiazepines or other CNS depressants, including alcohol, increases the risk of respiratory depression, profound sedation, coma, and death. |
+| Intervention: | Cessation of benzodiazepines or other CNS depressants is preferred in most cases of concomitant use. In some cases, monitoring in a higher level of care for taper may be appropriate. In others, gradually tapering a patient off of a prescribed benzodiazepine or other CNS depressant or decreasing to the lowest effective dose may be appropriate.Before co-prescribing benzodiazepines for anxiety or insomnia, ensure that patients are appropriately diagnosed and consider alternative medications and non-pharmacologic treatments [see Warnings and Precautions (5.2)]. |
+| Examples: | Alcohol, benzodiazepines, and other sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids. |
+| Inhibitors of CYP3A4, CYP2B6, CYP2C19, CYP2C9, or CYP2D6 |  |
 | Clinical Impact: | Methadone undergoes hepatic N-demethylation by several cytochrome P450 (CYP) isoforms, including CYP3A4, CYP2B6, CYP2C19, CYP2C9, and CYP2D6. The concomitant use of DISKETS Dispersible Tablets and CYP3A4, CYP2B6, CYP2C19, CYP2C9, or CYP2D6 inhibitors can increase the plasma concentration of methadone, resulting in increased or prolonged opioid effects, and may result in a fatal overdose, particularly when an inhibitor is added after a stable dose of DISKETS Dispersible Tablets is achieved. These effects may be more pronounced with concomitant use of drugs that inhibit more than one of the CYP enzymes listed above. After stopping a CYP3A4, CYP2B6, CYP2C19, CYP2C9, or CYP2D6 inhibitor, as the effects of the inhibitor decline, the methadone plasma concentration can decrease [see Clinical Pharmacology (12.3)], resulting in decreased opioid efficacy or withdrawal symptoms in patients physically dependent on methadone. |
 | Intervention: | If concomitant use is necessary, consider dosage reduction of DISKETS Dispersible Tablets until stable drug effects are achieved. Monitor patients for respiratory depression and sedation at frequent intervals.If a CYP3A4, CYP2B6, CYP2C19, CYP2C9, or CYP2D6 inhibitor is discontinued, follow patients for signs of opioid withdrawal and consider increasing the DISKETS Dispersible Tablets dosage until stable drug effects are achieved. |
 | Examples: | Macrolide antibiotics (e.g., erythromycin), azole-antifungal agents (e.g. ketoconazole), protease inhibitors (e.g., ritonavir), fluconazole, fluvoxamine, some selective serotonin reuptake inhibitors (SSRIs) (e.g., sertraline, fluvoxamine). |
@@ -13,10 +17,6 @@
 | Clinical Impact: | Pharmacodynamic interactions may occur with concomitant use of methadone and potentially arrhythmogenic agents or drugs capable of inducing electrolyte disturbances (hypomagnesemia, hypokalemia). |
 | Intervention: | Monitor patients closely for cardiac conduction changes. |
 | Examples: | Drugs known to have potential to prolong QT interval: Class I and III antiarrhythmics, some neuroleptics and tricyclic antidepressants, and calcium channel blockers. Drugs capable of inducing electrolyte disturbances: Diuretics, laxatives, and, in rare cases, mineralocorticoid hormones. |
-| Central Nervous System (CNS) Depressants |  |
-| Clinical Impact: | Due to additive pharmacologic effect, the concomitant use of CNS depressants can increase the risk of hypotension, respiratory depression, profound sedation, coma, and death. |
-| Intervention: | Consider dose reduction of one or both drugs. Monitor patients for respiratory depression, sedation, and hypotension [see Warnings and Precautions (5.8)]. |
-| Examples: | Alcohol, benzodiazepines, and other sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids. |
 | Serotonergic Drugs |  |
 | Clinical Impact: | The concomitant use of opioids with other drugs that affect the serotonergic neurotransmitter system has resulted in serotonin syndrome [see Warnings and Precautions (5.9)]. |
 | Intervention: | If concomitant use is warranted, carefully observe the patient, particularly during treatment initiation and dose adjustment. Discontinue DISKETS if serotonin syndrome is suspected. |
@@ -41,7 +41,7 @@
 
 Paradoxical Effects of Antiretroviral Agents on Methadone
 
-Concurrent use of certain protease inhibitors with CYP3A4 inhibitory activity, alone and in combination, such as abacavir, amprenavir, darunavir+ritonavir, efavirenz, nelfinavir, nevirapine, ritonavir, telaprevir, lopinavir+ritonavir, saquinavir+ritonavir, and tipranvir+ritonavir, has resulted in increased clearance or decreased plasma levels of methadone.
+Concurrent use of certain protease inhibitors with CYP3A4 inhibitory activity, alone and in combination, such as abacavir, amprenavir, darunavir+ritonavir, efavirenz, nelfinavir, nevirapine, ritonavir, telaprevir, lopinavir+ritonavir, saquinavir+ritonavir, and tipranavir+ritonavir, has resulted in increased clearance or decreased plasma levels of methadone.
 This may result in reduced efficacy of DISKETS Dispersible Tablets and could precipitate a withdrawal syndrome.
 Monitor patients receiving DISKETS Dispersible Tablets and any of these anti-retroviral therapies closely for evidence of withdrawal effects and adjust the DISKETS Dispersible Tablets dose accordingly.
 

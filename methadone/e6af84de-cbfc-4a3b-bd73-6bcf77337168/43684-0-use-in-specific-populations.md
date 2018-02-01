@@ -4,7 +4,7 @@
 
 Risk Summary
 
-Neonatal opioid withdrawal syndrome (NOWS) is an expected and treatable outcome of prolonged use of opioids during pregnancy [see Warnings and Precautions (5.5)].
+Neonatal opioid withdrawal syndrome (NOWS) is an expected and treatable outcome of prolonged use of opioids during pregnancy [see Warnings and Precautions (5.6)].
 
 Pregnant women in methadone maintenance programs may have reduced incidence of obstetric and fetal complications and neonatal morbidity and mortality when compared to women using illicit drugs.
 Untreated opioid addiction in pregnancy is associated with adverse obstetrical outcomes and risk of continued or relapsing illicit opioid use.
@@ -29,14 +29,14 @@ Dosage Adjustment During Pregnancy: The disposition of oral methadone has been s
 Total body clearance of methadone was increased in pregnant patients compared to the same patients postpartum or to non-pregnant opioid-dependent women.
 The terminal half-life of methadone is decreased during 2nd and 3rd trimesters.
 The decrease in plasma half-life and increased clearance of methadone resulting in lower methadone trough levels during pregnancy can lead to withdrawal symptoms in some pregnant patients.
-The dosage may need to be increased or the dosing interval decreased in pregnant patients receiving DISKETS Dispersible Tablets to achieve therapeutic effect [see Dosage and Administration (2.8)].
+The dosage may need to be increased or the dosing interval decreased in pregnant patients receiving DISKETS Dispersible Tablets to achieve therapeutic effect [see Dosage and Administration (2.9)].
 
 Fetal/Neonatal Adverse Reactions: Neonatal opioid withdrawal syndrome may occur in newborn infants of mothers who are receiving treatment with DISKETS.
 
 Neonatal opioid withdrawal syndrome presents as irritability, hyperactivity and abnormal sleep pattern, high pitched cry, tremor, vomiting, diarrhea, and/or failure to gain weight.
 Signs of neonatal withdrawal usually occur in the first days after birth.
 The duration and severity of neonatal opioid withdrawal syndrome may vary.
-Observe newborns for signs of neonatal opioid withdrawal syndrome and manage accordingly [see Warnings and Precautions (5.5)].
+Observe newborns for signs of neonatal opioid withdrawal syndrome and manage accordingly [see Warnings and Precautions (5.6)].
 
 Labor or Delivery: Opioids cross the placenta and may produce respiratory depression and psycho-physiologic effects in neonates.
 An opioid antagonist, such as naloxone, must be available for reversal of opioid-induced respiratory depression in the neonate.

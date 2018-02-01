@@ -7,27 +7,25 @@ Life-Threatening Respiratory Depression
 Discuss the risk of respiratory depression with patients, explaining that the risk is greatest when starting DISKETS Dispersible Tablets or when the dose is increased [see Warnings and Precautions (5.1)].
 Advise patients how to recognize respiratory depression and to seek medical attention if they are experiencing breathing difficulties.
 
+Interactions with Benzodiazepines and Other CNS Depressants
+
+Inform patients and caregivers that potentially fatal additive effects may occur if DISKETS Dispersible Tablets are used with benzodiazepines or other CNS depressants, including alcohol.
+Counsel patients that such medications should not be used concomitantly unless supervised by a healthcare provider [see Warnings and Precautions (5.2)].
+
 Symptoms of Arrhythmia
 
-Instruct patients to seek medical attention immediately if they experience symptoms suggestive of an arrhythmia (such as palpitations, near syncope, or syncope) when taking DISKETS Dispersible Tablets [see Warnings and Precautions (5.2)].
+Instruct patients to seek medical attention immediately if they experience symptoms suggestive of an arrhythmia (such as palpitations, near syncope, or syncope) when taking DISKETS Dispersible Tablets [see Warnings and Precautions (5.3)].
 
 Accidental Ingestion
 
-Inform patients that accidental ingestion, especially by children, may result in respiratory depression or death [see Warnings and Precautions (5.3)].
+Inform patients that accidental ingestion, especially by children, may result in respiratory depression or death [see Warnings and Precautions (5.4)].
 Instruct patients to take steps to store DISKETS Dispersible Tablets securely.
 Advise patients to dispose of unused DISKETS Dispersible Tablets by flushing the tablets down the toilet.
 
 Abuse Potential
 
-Inform patients that DISKETS Dispersible Tablets contain methadone, a Schedule II controlled substance that is subject to abuse [see Warnings and Precautions (5.4)].
+Inform patients that DISKETS Dispersible Tablets contain methadone, a Schedule II controlled substance that is subject to abuse [see Warnings and Precautions (5.5)].
 Instruct patients not to share DISKETS Dispersible Tablets with others and to take steps to protect DISKETS Dispersible Tablets from theft or misuse.
-
-Risks from Concomitant Use of Alcohol and other CNS Depressants
-
-Inform patients that the concomitant use of alcohol with methadone can increase the risk of life-threatening respiratory depression.
-Instruct patients not to consume alcoholic beverages, as well as prescription and over-the-counter drug products that contain alcohol, during treatment with DISKETS Dispersible Tablets [see Warnings and Precautions (5.8)].
-
-Inform patients that potentially serious additive effects may occur if methadone is used with other CNS depressants, and not to use such drugs unless supervised by a health care provider.
 
 Important Administration Instructions [see Dosage and Administration (2)]
 
@@ -69,7 +67,7 @@ Advise patients how to recognize such a reaction and when to seek medical attent
 
 Neonatal Opioid Withdrawal
 
-Advise women that if they are pregnant while being treated with DISKETS, the baby may have signs of withdrawal at birth and that withdrawal is treatable [see Warnings and Precautions (5.5), Specific Populations (8.1)].
+Advise women that if they are pregnant while being treated with DISKETS, the baby may have signs of withdrawal at birth and that withdrawal is treatable [see Warnings and Precautions (5.6), Specific Populations (8.1)].
 
 Lactation
 
@@ -92,6 +90,6 @@ Pharmaceuticals Corp.
 
 Eatontown, NJ 07724
 
-10000879/09
+10000879/10
 
-Revised 12/2016
+Revised January 2018
