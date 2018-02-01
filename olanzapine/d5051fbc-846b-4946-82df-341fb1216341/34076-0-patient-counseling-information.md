@@ -95,11 +95,11 @@ Atypical antipsychotics are not intended for use in the pediatric patient who ex
 Appropriate educational placement is essential and psychosocial intervention is often helpful.
 The decision to prescribe atypical antipsychotic medication will depend upon the physician's assessment of the chronicity and severity of the patient's symptoms [see Indications and Usage (1.3)].
 
-Literature revised January 23, 2017
+Literature revised January 19, 2018
 
 Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA
 
-Copyright © 1997, 2017, Eli Lilly and Company.
+Copyright © 1997, 2018, Eli Lilly and Company.
 All rights reserved.
 
-ZYP-0005-USPI-20170123
+ZYP-0006-USPI-20180119
