@@ -228,7 +228,9 @@ This slight tendency to tachycardia may be related to olanzapine's potential for
 
 ## 6.4 Postmarketing Experience
 
-Adverse reactions reported since market introduction that were temporally (but not necessarily causally) related to ZYPREXA therapy include the following: allergic reaction (e.g., anaphylactoid reaction, angioedema, pruritus or urticaria), cholestatic or mixed liver injury, diabetic coma, diabetic ketoacidosis, discontinuation reaction (diaphoresis, nausea, or vomiting), Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), hepatitis, jaundice, neutropenia, pancreatitis, priapism, rash, restless legs syndrome, rhabdomyolysis, and venous thromboembolic events (including pulmonary embolism and deep venous thrombosis).
+Adverse reactions reported since market introduction that were temporally (but not necessarily causally) related to ZYPREXA therapy include the following: allergic reaction (e.g., anaphylactoid reaction, angioedema, pruritus or urticaria), cholestatic or mixed liver injury, diabetic coma, diabetic ketoacidosis, discontinuation reaction (diaphoresis, nausea, or vomiting), Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), hepatitis, jaundice, neutropenia, pancreatitis, priapism, rash, restless legs syndrome, rhabdomyolysis, stuttering1, and venous thromboembolic events (including pulmonary embolism and deep venous thrombosis).
 Random cholesterol levels of ≥240 mg/dL and random triglyceride levels of ≥1000 mg/dL have been reported.
 Additionally, injection site abscess has been reported in postmarketing reports with ZYPREXA RELPREVV therapy.
 Isolated cases required surgical intervention.
+
+1 Stuttering was only studied in oral and long acting injection (LAI) formulations.

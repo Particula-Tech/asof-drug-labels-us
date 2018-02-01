@@ -85,11 +85,11 @@ Nursing Mothers — Patients should be advised not to breast-feed an infant if t
 
 Pediatric Use — Safety and effectiveness of ZYPREXA RELPREVV in patients under 18 years have not been established [see Use in Specific Populations (8.4)].
 
-Literature revised January 23, 2017
+Literature revised January 19, 2018
 
 Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA
 
-Copyright © 2009, 2017, Eli Lilly and Company.
+Copyright © 2009, 2018, Eli Lilly and Company.
 All rights reserved.
 
-ZYPR-0006-USPI-20170123
+ZYPR-0007-USPI-20180119
