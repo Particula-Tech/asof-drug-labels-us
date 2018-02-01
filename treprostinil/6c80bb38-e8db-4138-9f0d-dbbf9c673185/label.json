@@ -8,13 +8,19 @@
     "66302-101-01",
     "66302-102-01",
     "66302-105-01",
-    "66302-110-01"
+    "66302-110-01",
+    "66302-150-50"
   ],
   "products": [
     {
       "form": "INJECTION, SOLUTION",
       "generic": "treprostinil",
       "name": "Remodulin"
+    },
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "water",
+      "name": "Sterile Diluent for Remodulin"
     }
   ],
   "setid": "6c80bb38-e8db-4138-9f0d-dbbf9c673185",
