@@ -6,7 +6,9 @@
   "labeler": "Boehringer Ingelheim Pharmaceuticals, Inc.",
   "package_ndcs": [
     "0597-0029-01",
-    "0597-0030-01"
+    "0597-0029-94",
+    "0597-0030-01",
+    "0597-0030-56"
   ],
   "products": [
     {
