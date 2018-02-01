@@ -32,7 +32,7 @@ Dosage Adjustment During Pregnancy: The disposition of oral methadone has been s
 Total body clearance of methadone was increased in pregnant patients compared to the same patients postpartum or to non-pregnant opioid-dependent women.
 The terminal half-life of methadone is decreased during second and third trimesters.
 The decrease in plasma half-life and increased clearance of methadone resulting in lower methadone trough levels during pregnancy can lead to withdrawal symptoms in some pregnant patients.
-The dosage may need to be increased or the dosing interval decreased in pregnant patients receiving methadone to achieve therapeutic effect [see Dosage and Administration (2.10)].
+The dosage may need to be increased or the dosing interval decreased in pregnant patients receiving methadone to achieve therapeutic effect [see Dosage and Administration (2.11)].
 
 Fetal/Neonatal Adverse Reactions: Neonatal opioid withdrawal syndrome may occur in newborn infants of mothers who are receiving treatment with DOLOPHINE Tablets.
 

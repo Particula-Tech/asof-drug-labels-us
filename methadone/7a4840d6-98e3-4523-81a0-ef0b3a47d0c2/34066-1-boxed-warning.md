@@ -38,10 +38,11 @@ Risks From Concomitant Use With Benzodiazepines Or Other CNS Depressants
 
 Concomitant use of opioids with benzodiazepines or other central nervous system (CNS) depressants, including alcohol, may result in profound sedation, respiratory depression, coma, and death [see Warnings and Precautions (5.6), Drug Interactions (7)].
 
-- •Reserve concomitant prescribing of DOLOPHINE Tablets and benzodiazepines or other CNS depressants for use in patients for whom alternative treatment options are inadequate.
-- •Limit dosages and durations to the minimum required.
+- •Reserve concomitant prescribing of DOLOPHINE Tablets and benzodiazepines or other CNS depressants for use in patients for whom alternatives to benzodiazepines or other CNS depressants are inadequate.
+- •Limit dosages and durations to the minimum required for patients being treated for pain.
 - •Follow patients for signs and symptoms of respiratory depression and sedation.
+  If the patient is visibly sedated, evaluate the cause of sedation, and consider delaying or omitting the daily methadone dose.
 
 Conditions For Distribution And Use Of Methadone Products For The Treatment Of Opioid Addiction
 
-For detoxification and maintenance of opioid dependence, methadone should be administered in accordance with the treatment standards cited in 42 CFR Section 8, including limitations on unsupervised administration [see Indications and Usage (1)].
+For detoxification and maintenance of opioid dependence, methadone should be administered in accordance with the treatment standards cited in 42 CFR Section 8, including limitations on unsupervised administration [see Indications and Usage (1), Dosage And Administration (2.1)].

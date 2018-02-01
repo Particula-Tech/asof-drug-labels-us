@@ -81,7 +81,7 @@ Advise patients not to perform such tasks until they know how they will react to
 
 Constipation
 
-Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention [see Adverse Reactions (6), Clinical Pharmacology (12.2).
+Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention [see Adverse Reactions (6), Clinical Pharmacology (12.2)].
 
 Disposal of Unused DOLOPHINE
 
@@ -93,6 +93,6 @@ Pharmaceuticals Corp.
 
 Eatontown, NJ 07724
 
-4077444//09
+4077444//10
 
-Revised January 2017
+Revised January 2018

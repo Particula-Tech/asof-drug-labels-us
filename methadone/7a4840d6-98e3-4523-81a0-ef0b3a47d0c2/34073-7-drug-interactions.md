@@ -11,7 +11,7 @@
 | Examples: | Rifampin, carbamazepine, phenytoin, St. John’s Wort, Phenobarbital |
 | Benzodiazepines and other Central Nervous System (CNS) Depressants |  |
 | Clinical Impact: | Due to additive pharmacologic effect, the concomitant use of benzodiazepines or other CNS depressants including alcohol, increases the risk of respiratory depression, profound sedation, coma, and death. |
-| Intervention: | Reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate. Limit dosages and durations to the minimum required. Follow patients closely for signs of respiratory depression and sedation [see Warnings and Precautions(5.6)]. |
+| Intervention: | For Patients Being Treated for PainReserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate. Limit dosages and durations to the minimum required. Follow patients closely for signs of respiratory depression and sedation [see Warnings and Precautions (5.6)].For Patients Being Treated for Opioid AddictionCessation of benzodiazepines or other CNS depressants is preferred in most cases of concomitant use. In some cases, monitoring in a higher level of care for taper may be appropriate. In others, gradually tapering a patient off of a prescribed benzodiazepine or other CNS depressant or decreasing to the lowest effective dose may be appropriate.Before co-prescribing benzodiazepines for anxiety or insomnia, ensure that patients are appropriately diagnosed and consider alternative medications and non-pharmacologic treatments. |
 | Examples: | Benzodiazepines and other sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids, alcohol. |
 | Potentially Arrhythmogenic Agents |  |
 | Clinical Impact: | Pharmacodynamic interactions may occur with concomitant use of methadone and potentially arrhythmogenic agents or drugs capable of inducing electrolyte disturbances (hypomagnesemia, hypokalemia). |
@@ -40,7 +40,7 @@
 
 Paradoxical Effects of Antiretroviral Agents on DOLOPHINE Tablets
 
-Concurrent use of certain antiretroviral agents with CYP3A4 inhibitory activity, alone and in combination, such as abacavir, amprenavir, darunavir+ritonavir, efavirenz, nelfinavir, nevirapine, ritonavir, telaprevir, lopinavir+ritonavir, saquinavir+ritonavir, and tipranvir+ritonavir, has resulted in increased clearanceor decreased plasma levels of methadone.
+Concurrent use of certain antiretroviral agents with CYP3A4 inhibitory activity, alone and in combination, such as abacavir, amprenavir, darunavir+ritonavir, efavirenz, nelfinavir, nevirapine, ritonavir, telaprevir, lopinavir+ritonavir, saquinavir+ritonavir, and tipranvair+ritonavir, has resulted in increased clearanceor decreased plasma levels of methadone.
 This may result in reduced efficacy of DOLOPHINE Tablets and could precipitate a withdrawal syndrome.
 Monitor methadone-maintained patients receiving any of these anti-retroviral therapies closely for evidence of withdrawal effects and adjust the methadone dose accordingly.
 

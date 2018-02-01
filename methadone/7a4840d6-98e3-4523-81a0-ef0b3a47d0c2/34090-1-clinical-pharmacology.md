@@ -51,12 +51,12 @@ Overall, the effects of opioids appear to be modestly immunosuppressive.
 Concentration–Efficacy Relationships
 
 The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with potent agonist opioids.
-The minimum effective analgesic concentration of methadone for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.1, 2.3)].
+The minimum effective analgesic concentration of methadone for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.2, 2.4)].
 
 Concentration–Adverse Reaction Relationships
 
 There is a relationship between increasing methadone plasma concentration and increasing frequency of dose-related opioid adverse reactions such as nausea, vomiting, CNS effects, and respiratory depression.
-In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.1, 2.2, 2.3)].
+In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.2, 2.3, 2.4)].
 
 ## 12.3 Pharmacokinetics
 
@@ -109,7 +109,7 @@ Cytochrome P450 Inhibitors:
 
 Antiretroviral Drugs: Although antiretroviral drugs such as efavirenz, nelfinavir, nevirapine, ritonavir, telaprevir, lopinavir+ritonavir combination are known to inhibit some CYPs, they are shown to reduce the plasma levels of methadone, possibly due to CYP induction activity.
 
-1. Abacavir, Amprenavir, Darunavir+Ritonavir, Efavirenz, Nelfinavir, Nevirapine, Ritonavir, Telaprevir, Lopinavir+Ritonavir, Saquinavir+Ritonavir, Tipranvir+Ritonavir Combination:
+1. Abacavir, Amprenavir, Darunavir+Ritonavir, Efavirenz, Nelfinavir, Nevirapine, Ritonavir, Telaprevir, Lopinavir+Ritonavir, Saquinavir+Ritonavir, Tipranvair+Ritonavir Combination:
 2. Co-administration of these anti-retroviral agents resulted in increased clearance or decreased plasma levels of methadone [see Drug Interactions (7)].
 3. 
 4. Didanosine and Stavudine: Methadone decreased the AUC and peak levels for didanosine and stavudine, with a more significant decrease for didanosine.
