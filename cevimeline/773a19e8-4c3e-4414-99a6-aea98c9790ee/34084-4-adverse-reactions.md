@@ -18,37 +18,41 @@ The following adverse events associated with muscarinic agonism were observed in
 | Asthenia | 0.5% | 0.0% |
 | Flushing | 0.3% | 0.6% |
 | Polyuria | 0.1% | 0.6% |
-| *n is the total number of patients exposed to the dose at any time during the study. |  |  |
+
+* n Is the total number of patients exposed to the dose at any time during the study.
 
 In addition, the following adverse events (≥3% incidence) were reported in the Sjögren’s clinical trials:
 
-| Adverse Event | Cevimeline 30 mg (tid) n*=533 | Placebo (tid) n=164 |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-| Headache | 14.4% | 20.1% |  |  |  |
-| Sinusitis | 12.3% | 10.9% |  |  |  |
-| Upper Respiratory Tract Infection | 11.4% | 9.1% |  |  |  |
-| Dyspepsia | 7.8% | 8.5% |  |  |  |
-| Abdominal Pain | 7.6% | 6.7% |  |  |  |
-| Urinary Tract Infection | 6.1% | 3.0% |  |  |  |
-| Coughing | 6.1% | 3.0% |  |  |  |
-| Pharyngitis | 5.2% | 5.4% |  |  |  |
-| Vomiting | 4.6% | 2.4% |  |  |  |
-| Injury | 4.5% | 2.4% |  |  |  |
-| Back Pain | 4.5% | 4.2% |  |  |  |
-| Rash | 4.3% | 6.0% |  |  |  |
-| Conjunctivitis | 4.3% | 3.6% |  |  |  |
-| Dizziness | 4.1% | 7.3% |  |  |  |
-| Bronchitis | 4.1% | 1.2% |  |  |  |
-| Arthralgia | 3.7% | 1.8% |  |  |  |
-| Surgical Intervention | 3.3% | 3.0% |  |  |  |
-| Fatigue | 3.3% | 1.2% |  |  |  |
-| Pain | 3.3% | 3.0% |  |  |  |
-| Skeletal Pain | 2.8% | 1.8% |  |  |  |
-| Insomnia | 2.4% | 1.2% |  |  |  |
-| Hot Flushes | 2.4% | 0.0% |  |  |  |
-| Rigors | 1.3% | 1.2% |  |  |  |
-| Anxiety | 1.3% | 1.2% |  |  |  |
-| *n is the total number of patients exposed to the dose at any time during the study. |  |  |  |  |  |
+| Adverse Event | Cevimeline 30 mg (tid) n*=533 | Placebo (tid) n=164 |
+| --- | --- | --- |
+| Headache | 14.4% | 20.1% |
+| Sinusitis | 12.3% | 10.9% |
+| Upper Respiratory Tract Infection | 11.4% | 9.1% |
+| Dyspepsia | 7.8% | 8.5% |
+| Abdominal Pain | 7.6% | 6.7% |
+| Urinary Tract Infection | 6.1% | 3.0% |
+| Coughing | 6.1% | 3.0% |
+| Pharyngitis | 5.2% | 5.4% |
+| Vomiting | 4.6% | 2.4% |
+| Injury | 4.5% | 2.4% |
+| Back Pain | 4.5% | 4.2% |
+| Rash | 4.3% | 6.0% |
+| Conjunctivitis | 4.3% | 3.6% |
+| Dizziness | 4.1% | 7.3% |
+| Bronchitis | 4.1% | 1.2% |
+| Arthralgia | 3.7% | 1.8% |
+| Surgical Intervention | 3.3% | 3.0% |
+| Fatigue | 3.3% | 1.2% |
+| Pain | 3.3% | 3.0% |
+| Skeletal Pain | 2.8% | 1.8% |
+| Insomnia | 2.4% | 1.2% |
+| Hot Flushes | 2.4% | 0.0% |
+| Rigors | 1.3% | 1.2% |
+| Anxiety | 1.3% | 1.2% |
+
+* n is the total number of patients exposed to the dose at any time during the study.
+
+The following events were reported in Sjögren’s patients at incidences of <3% and ≥1%: constipation, tremor, abnormal vision, hypertonia, peripheral edema, chest pain, myalgia, fever, anorexia, eye pain, earache, dry mouth, vertigo, salivary gland pain, pruritus, influenza-like symptoms, eye infection, post operative pain, vaginitis, skin disorder, depression, hiccup, hyporeflexia, infection, fungal infection, sialoadenitis, otitis media, erythematous rash, pneumonia, edema, salivary gland enlargement, allergy, gastroesophageal reflux, eye abnormality, migraine, tooth disorder, epistaxis, flatulence, toothache, ulcerative stomatitis, anemia, hypoesthesia, cystitis, leg cramps, abscess, eructation, moniliasis, palpitation, increased amylase, xerophthalmia, allergic reaction.
 
 The following events were reported rarely in treated Sjögren’s patients (<1%): Causal relation is unknown:
 
@@ -70,7 +74,7 @@ Musculoskeletal Disorders: arthritis, aggravated arthritis, arthropathy, femoral
 
 Neoplasms: basal cell carcinoma, squamous carcinoma
 
-Nervous Disorders: carpal tunnel syndrome, coma, abnormal coordination, dysesthesia, dyskinesia, dysphonia, aggravated multiple sclerosis, involuntary muscle contractions, neuralgia, neuropathy, paresthesia, speech disorder, agitation, confusion, depersonalization, aggravated depression, abnormal dreaming, emotional lability, manic reaction, paroniria, somnolence, abnormal thinking, hyperkinesia, hallucination
+Nervous Disorders: carpal tunnel syndrome, coma, abnormal coordination, dysesthesia, dyskinesia dysphonia, aggravated multiple sclerosis, involuntary muscle contractions, neuralgia, neuropathy, paresthesia, speech disorder, agitation, confusion, depersonalization, aggravated depression, abnormal dreaming, emotional lability, manic reaction, paroniria, somnolence, abnormal thinking, hyperkinesia, hallucination
 
 Miscellaneous Disorders: fall, food poisoning, heat stroke, joint dislocation, post-operative hemorrhage
 
@@ -92,11 +96,9 @@ The significance of these findings is unknown.
 
 Additional adverse events (relationship unknown) which occurred in other clinical studies (patient population different from Sjögren’s patients) are as follows:
 
-cholinergic syndrome, blood pressure fluctuation, cardiomegaly, postural hypotension, aphasia, convulsions, abnormal gait, hyperesthesia, paralysis, abnormal sexual function, enlarged abdomen, change in bowel habits, gum hyperplasia, intestinal obstruction, bundle branch block, increased creatine phosphokinase, electrolyte abnormality, glycosuria, gout, hyperkalemia, hyperproteinemia, increased lactic dehydrogenase (LDH), increased alkaline phosphatase, failure to thrive, abnormal platelets, aggressive reaction, amnesia, apathy, delirium, delusion, dementia, illusion, impotence, neurosis, paranoid reaction, personality disorder, hyperhemoglobinemia, apnea, atelectasis, yawning, oliguria, urinary retention, distended vein, lymphocytosis
+cholinergic syndrome, blood pressure fluctuation, cardiomegaly, postural hypotension, aphasia, convulsions, abnormal gait, hyperesthesia, paralysis, abnormal sexual function, enlarged abdomen, change in bowel habits, gum hyperplasia, intestinal obstruction, bundle branch block, increased creatine phosphokinase, electrolyte abnormality, glycosuria, gout, hyperkalemia, hyperproteinemia, increased lactic dehydrogenase (LDH), increased alkaline phosphatase, failure to thrive, abnormal platelets, aggressive reaction, amnesia, apathy, delirium, delusion, dementia, illusion, impotence, neurosis, paranoid reaction, personality disorder, hyperhemoglobinemia, apnea, atelectasis, yawning, oliguria, urinary retention, distended vein, lymphocytosis.
 
 The following adverse reaction has been identified during post-approval use of cevimeline.
 Because post-marketing adverse reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-## Post-Marketing Adverse Events
-
-Liver and Biliary System Disorders: cholecystitis
+Post-Marketing Adverse Events: Liver and Biliary System Disorders: cholecystitis

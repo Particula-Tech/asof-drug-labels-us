@@ -5,14 +5,14 @@ Cevimeline hydrochloride capsules have a white opaque cap and a white opaque bod
 The capsules are imprinted with “EVOXAC” on the cap and “30 mg” on the body with a black bar above “30 mg”.
 It is supplied in child resistant bottles of:
 
-100 capsules (NDC 63304-479-01)
+100 capsules (NDC 63304-479-01).
 
-Store at 25°C (77°F) excursion permitted to 15°-30°C (59°-86°F)
+Store at 25°C (77°F); excursion permitted to 15° to 30°C (59° to 86°F).
 
-Rx Only
+Rx only
 
 Distributed by:
 
-Ranbaxy Pharmaceuticals Inc.
+Sun Pharmaceutical Industries, Inc. Cranbury, NJ 08512
 
-Jacksonville, FL 32257 USA
+Revised 06/2017 Printed in U.S.A.

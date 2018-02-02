@@ -1,21 +1,21 @@
 # CLINICAL PHARMACOLOGY
 
-## Pharmacodynamics
+Pharmacodynamics
 
 Cevimeline is a cholinergic agonist which binds to muscarinic receptors.
 Muscarinic agonists in sufficient dosage can increase secretion of exocrine glands, such as salivary and sweat glands and increase tone of the smooth muscle in the gastrointestinal and urinary tracts.
 
-## Pharmacokinetics
+Pharmacokinetics
 
 Absorption: After administration of a single 30 mg capsule, cevimeline was rapidly absorbed with a mean time to peak concentration of 1.5 to 2 hours.
 No accumulation of active drug or its metabolites was observed following multiple dose administration.
-When administered with food, there is a decrease in the rate of absorption, with a fasting TMAX of 1.53 hours and a TMAX of 2.86 hours after a meal; the peak concentration is reduced by 17.3%.
+When administered with food, there is a decrease in the rate of absorption, with a fasting tMAX of 1.53 hours and a tMAX of 2.86 hours after a meal; the peak concentration is reduced by 17.3%.
 Single oral doses across the clinical dose range are dose proportional.
 
 Distribution: Cevimeline has a volume of distribution of approximately 6L/kg and is <20% bound to human plasma proteins.
 This suggests that cevimeline is extensively bound to tissues; however, the specific binding sites are unknown.
 
-Metabolism: lsozymes CYP2D6 and CYP3A3/4 are responsible for the metabolism of cevimeline.
+Metabolism: Isozymes CYP2D6 and CYP3A3/4 are responsible for the metabolism of cevimeline.
 After 24 hours, 86.7% of the dose was recovered (16.0% unchanged, 44.5% as cis and trans-sulfoxide, 22.3% of the dose as glucuronic acid conjugate and 4% of the dose as N-oxide of cevimeline).
 Approximately 8% of the trans-sulfoxide metabolite is then converted into the corresponding glucuronic acid conjugate and eliminated.
 Cevimeline did not inhibit cytochrome P450 isozymes 1A2, 2A6, 2C9, 2C19, 2D6, 2E1, and 3A4.
@@ -26,15 +26,15 @@ After seven days, 97% of the dose was recovered in the urine and 0.5% was recove
 
 Special Populations: The effects of renal impairment, hepatic impairment, or ethnicity on the pharmacokinetics of cevimeline have not been investigated.
 
-## Clinical Studies
+Clinical Studies
 
 Cevimeline has been shown to improve the symptoms of dry mouth in patients with Sjögren’s Syndrome.
 
 A 6-week, randomized, double blind, placebo-controlled study was conducted in 75 patients (10 men, 65 women) with a mean age of 53.6 years (range 33-75).
-The racial distribution was Caucasian 92%, Black 1% and other 7%.
+The racial distribution was Caucasian 92%, Black 1 % and other 7%.
 The effects of cevimeline at 30 mg tid (90 mg/day) and 60 mg tid (180 mg/day) were compared to those of placebo.
-Patients were evaluated by a measure called global improvement, which is defined as a response of “better” to the question, “Please rate the overall condition of your dry mouth now compared with how you felt before starting treatment in this study.”
-Patients also had the option of selecting “worse” or “no change’ as answers.
+Patients were evaluated by a measure called global improvement, which is defined as a response of "better" to the question, "Please rate the overall condition of your dry mouth now compared with how you felt before starting treatment in this study."
+Patients also had the option of selecting "worse" or "no change" as answers.
 Seventy-six percent of the patients in the 30 mg tid group reported a global improvement in their dry mouth symptoms compared to 35% of the patients in the placebo group.
 This difference was statistically significant at p=0.0043.
 There was no evidence that patients in the 60 mg tid group had better global evaluation scores than the patients in the 30 mg tid group.
@@ -47,7 +47,7 @@ Salivary flow showed statistically significant increases at both doses of cevime
 
 A second 12-week, randomized, double-blind, placebo-controlled study was conducted in 212 patients (11 men, 201 women) with a mean age of 55.3 years (range 24-75).
 The racial distribution was Caucasian 88.7%, Black 1.9% and other 9.4%.
-The effects of cevimeline at 15 mg tid (45mg/day) and 30 mg tid (90 mg/day) were compared to those of placebo.
+The effects of cevimeline at 15 mg tid (45 mg/day) and 30 mg tid (90 mg/day) were compared to those of placebo.
 No statistically significant differences were noted in the patient global evaluations.
 However, there was a higher placebo response rate in this study compared to the aforementioned studies.
-The 30 mg tid group showed a statistically significant increase in salivary flow from predose to post-dose compared to placebo (p=0.0017).
+The 30 mg tid group showed a statistically significant increase in salivary flow from pre-dose to post-dose compared to placebo (p=0.0017).
