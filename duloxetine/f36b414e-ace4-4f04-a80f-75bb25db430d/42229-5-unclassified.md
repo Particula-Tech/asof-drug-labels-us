@@ -4,7 +4,7 @@ Cadila Healthcare Ltd.
 
 Ahmedabad, India
 
-Rev.: 03/17
+Rev.: 01/18
 
 Medication Guide
 

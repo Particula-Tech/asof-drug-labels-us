@@ -30,9 +30,14 @@ Adults
 The data described below reflect exposure to duloxetine in placebo-controlled trials for MDD (N=3779), GAD (N=1018), OA (N=503), CLBP (N=600), DPNP (N=906) and another indication (N=1294).
 The population studied was 17 to 89 years of age; 65.7%, 60.8%, 60.6%, 42.9% and 94.4% female; and 81.8%, 72.6%, 85.3%, 74% and 85.7% Caucasian for MDD, GAD, OA, CLBP, DPNP and another indication respectively.
 Most patients received doses of a total of 60 to 120 mg per day [see Clinical Studies (14)].
+The data below do not include results of the trial examining the efficacy of duloxetine in patients ≥ 65 years old for the treatment of generalized anxiety disorder; however, the adverse reactions observed in this geriatric sample were generally similar to adverse reactions in the overall adult population.
 
-Pediatric use information for patients ages 7 to 17 years is approved for Eli Lilly and Company, Inc.'s CYMBALTA® (duloxetine) delayed-release capsules.
-However, due to Eli Lilly and Company, Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Children and Adolescents
+
+The data described below reflect exposure to duloxetine in pediatric, 10-week, placebo-controlled trials for MDD (N=341) and GAD (N=135).
+The population studied (N=476) was 7 to 17 years of age with 42.4% children age 7 to 11 years of age, 50.6% female, and 68.6% white.
+Patients received 30 to 120 mg per day during placebo-controlled acute treatment studies.
+Additional data come from the overall total of 822 pediatric patients (age 7 to 17 years of age) with 41.7% children age 7 to 11 years of age and 51.8% female exposed to duloxetine in MDD and GAD clinical trials up to 36-weeks in length, in which most patients received 30 to 120 mg per day.
 
 ## 6.2 Adverse Reactions Reported as Reasons for Discontinuation of Treatment in Adult Placebo-Controlled Trials
 
@@ -223,7 +228,7 @@ Cardiac Disorders
 
 Frequent: palpitations
 
-Infrequent: myocardial infarction and tachycardia
+Infrequent: myocardial infarction, tachycardia and Takosubo cardiomyopathy.
 
 Ear and Labyrinth Disorders
 
@@ -281,7 +286,7 @@ Infrequent: muscle tightness and muscle twitching
 
 Nervous System Disorders
 
-Frequent: dysgeusia, lethargy, and paresthesia/hypoesthesia
+Frequent: dysgeusia, lethargy, and paraesthesia/hypoesthesia
 
 Infrequent:disturbance in attention, dyskinesia, myoclonus, and poor quality sleep
 
@@ -335,7 +340,7 @@ The adverse drug reaction profile observed in pediatric clinical trials (childre
 The specific adverse drug reactions observed in adult patients can be expected to be observed in pediatric patients (children and adolescents) [see Adverse Reactions (6.5)].
 The most common (≥5% and twice placebo) adverse reactions observed in pediatric clinical trials include: nausea, diarrhea, decreased weight, and dizziness.
 
-Table 6 provides the incidence of treatment-emergent adverse reactions in MDD and another indication in pediatric placebo-controlled trials that occurred in greater than 2% of patients treated with duloxetine and with an incidence greater than placebo.
+Table 6 provides the incidence of treatment-emergent adverse reactions in MDD and GAD in pediatric placebo-controlled trials that occurred in greater than 2% of patients treated with duloxetine and with an incidence greater than placebo.
 
 Table 6 Treatment-Emergent Adverse Reactions: Incidence of 2% or More and Greater than Placebo in three 10- week Pediatric Placebo-Controlled Trialsa
 
@@ -371,9 +376,6 @@ Subsequently, over the 4- to 6-month uncontrolled extension periods, duloxetine-
 In studies up to 9 months, duloxetine-treated pediatric patients experienced an increase in height of 1.7 cm on average (2.2 cm increase in children [7 to 11 years of age] and 1.3 cm increase in adolescents [12 to 17 years of age]).
 While height increase was observed during these studies, a mean decrease of 1% in height percentile was observed (decrease of 2% in children [7 to 11 years of age] and increase of 0.3% in adolescents [12 to 17 years of age]).
 Weight and height should be monitored regularly in children and adolescents treated with duloxetine.
-
-Pediatric use information for patients ages 7 to 17 years is approved for Eli Lilly and Company, Inc.'s CYMBALTA® (duloxetine) delayed-release capsules.
-However, due to Eli Lilly and Company, Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 6.12 Postmarketing Spontaneous Reports
 

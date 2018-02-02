@@ -113,12 +113,10 @@ Instruct patients to consult with their healthcare provider if they develop any 
 
 ● Pediatric Use
 
-Pediatric use information for patients ages 7 to 17 years is approved for Eli Lilly and Company, Inc.'s CYMBALTA® (duloxetine) delayed-release capsules.
-However, due to Eli Lilly and Company, Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
-
-[See Use in Specific Populations (8.4)].
-
+Safety and efficacy of duloxetine in patients 7 to 17 years of age have been established for the treatment of GAD.
+The types of adverse reactions observed with duloxetine in children and adolescents were generally similar to those observed in adults.
 The safety and effectiveness of duloxetine have not been established in pediatric patients less than 18 years of age with other indications.
+[See Use in Specific Populations (8.4)].
 
 ● Interference with Psychomotor Performance
 

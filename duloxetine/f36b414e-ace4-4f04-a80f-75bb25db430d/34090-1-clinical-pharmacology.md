@@ -42,5 +42,8 @@ Only trace (< 1% of the dose) amounts of unchanged duloxetine are present in the
 Most (about 70%) of the duloxetine dose appears in the urine as metabolites of duloxetine; about 20% is excreted in the feces.
 Duloxetine undergoes extensive metabolism, but the major circulating metabolites have not been shown to contribute significantly to the pharmacologic activity of duloxetine.
 
-Pediatric use information for patients ages 7 to 17 years is approved for Eli Lilly and Company, Inc.'s CYMBALTA® (duloxetine) delayed-release capsules.
-However, due to Eli Lilly and Company, Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Children and Adolescents (ages 7 to 17 years)
+
+Duloxetine steady-state plasma concentration was comparable in children (7 to 12 years of age), adolescents (13 to 17 years of age) and adults.
+The average steady-state duloxetine concentration was approximately 30% lower in the pediatric population (children and adolescents) relative to the adults.
+The model-predicted duloxetine steady state plasma concentrations in children and adolescents were mostly within the concentration range observed in adult patients and did not exceed the concentration range in adults.
