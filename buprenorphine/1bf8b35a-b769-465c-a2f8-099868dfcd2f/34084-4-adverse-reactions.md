@@ -1,8 +1,21 @@
 # 6 ADVERSE REACTIONS
 
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+The following serious adverse reactions are described elsewhere in the labeling:
 
-## 6.1 Adverse Events in Clinical Trials
+- •Addiction, Abuse, and Misuse [see Warnings and Precautions (5.1)]
+- •Respiratory and CNS Depression [see Warnings and Precautions (5.2)]
+- •Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.5)]
+- •Adrenal Insufficiency [see Warnings and Precautions (5.6)]
+- •Opioid Withdrawal [see Warnings and Precautions (5.7, 5.10)]
+- •Hepatitis, Hepatic Events [see Warnings and Precautions (5.8)]
+- •Hypersensitivity Reactions [see Warnings and Precautions (5.9)]
+- •Orthostatic Hypotension [see Warnings and Precautions (5.14)]
+- •Elevation of Cerebrospinal Fluid Pressure [see Warnings and Precautions (5.15)]
+- •Elevation of Intracholedochal Pressure [see Warnings and Precautions (5.16)]
+
+## 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 The safety of Buprenorphine Sublingual Tablets was supported by clinical trials using Buprenorphine Sublingual Tablets, Buprenorphine and Naloxone Sublingual Tablets and other trials using buprenorphine sublingual solutions.
 In total, safety data were available from 3214 opioid-dependent subjects exposed to buprenorphine at doses in the range used in treatment of opioid addiction.
@@ -82,7 +95,10 @@ Table 2: Adverse Events (≥5%) by Body System and Treatment Group in a 16-Week 
 | Special Senses |  |  |  |  |  |
 | Runny Eyes | 13 (7%) | 9 (5%) | 6 (3%) | 6 (3%) | 34 (5%) |
 
-## 6.2 Adverse Events - Post-marketing Experience with Buprenorphine Sublingual Tablets
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post approval use of buprenorphine.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 The most frequently reported postmarketing adverse events with buprenorphine not observed in clinical trials, excluding drug exposure during pregnancy, was drug misuse or abuse.
 
@@ -93,3 +109,5 @@ Adrenal Insufficiency: Cases of adrenal insufficiency have been reported with op
 Anaphylaxis: Anaphylaxis has been reported with ingredients contained in Buprenorphine Sublingual Tablets.
 
 Androgen Deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [see Clinical Pharmacology (12.2)].
+
+Other: glossodynia, glossitis, oral mucosal erythema, oral hypoesthesia, and stomatitis

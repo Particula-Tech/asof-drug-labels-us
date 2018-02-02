@@ -2,7 +2,7 @@
 
 ## 9.1 Controlled Substance
 
-Buprenorphine is a Schedule III narcotic under the Controlled Substances Act.
+Buprenorphine Sublingual Tablets contain buprenorphine, a Schedule III controlled substance under the Controlled Substances Act.
 
 Under the Drug Addiction Treatment Act (DATA) codified at 21 U.S.C.
 823(g), prescription use of this product in the treatment of opioid dependence is limited to physicians who meet certain qualifying requirements, and who have notified the Secretary of Health and Human Services (HHS) of their intent to prescribe this product for the treatment of opioid dependence and have been assigned a unique identification number that must be included on every prescription.
@@ -18,7 +18,7 @@ Patients who continue to misuse, abuse, or divert, buprenorphine products or oth
 Abuse of buprenorphine poses a risk of overdose and death.
 This risk is increased with the abuse of buprenorphine and alcohol and other substances, especially benzodiazepines.
 
-The physician may be able to more easily detect misuse or diversion by maintaining records of medication prescribed including date, dose, quantity, frequency of refills, and renewal requests of medication prescribed.
+The healthcare provider may be able to more easily detect misuse or diversion by maintaining records of medication prescribed including date, dose, quantity, frequency of refills, and renewal requests of medication prescribed.
 
 Proper assessment of the patient, proper prescribing practices, periodic re-evaluation of therapy, and proper handling and storage of the medication are appropriate measures that help to limit abuse of opioid drugs.
 

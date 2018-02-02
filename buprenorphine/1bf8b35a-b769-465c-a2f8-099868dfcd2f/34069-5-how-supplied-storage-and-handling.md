@@ -19,5 +19,4 @@ Dispense in a tight, light-resistant container as defined in USP.
 
 CAUTION: DEA Order Form Required.
 
-Patients should be advised to store buprenorphine-containing medications safely and out of sight and reach of children.
-Destroy any unused medication appropriately [see Patient Counseling (17)].
+Advise patients to store buprenorphine-containing medications safely and out of sight and reach of children andto destroy any unused medication appropriately [see Patient Counseling Information (17)].
