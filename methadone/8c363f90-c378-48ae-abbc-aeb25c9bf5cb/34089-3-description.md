@@ -7,6 +7,5 @@
    Its octanol/water partition coefficient at pH 7.4 is 117.
    A solution (1:100) in water has a pH between 4.5 and 6.5.
 2. It has the following structural formula:
-3. 
 
-Each 5 mL of oral solution contains 5 mg or 10 mg of methadone hydrochloride USP and the following inactive ingredients: alcohol (8%), benzoic acid, citric acid, FD&C Red #40, FD&C Yellow #6, flavoring (lemon), glycerin, sorbitol, and water.
+Each 5 mL of Methadone Hydrochloride Oral Solution contains 5 mg or 10 mg of methadone hydrochloride USP and the following inactive ingredients: alcohol (8%), benzoic acid, citric acid, FD&C Red #40, FD&C Yellow #6, flavoring (lemon), glycerin, sorbitol, and water.

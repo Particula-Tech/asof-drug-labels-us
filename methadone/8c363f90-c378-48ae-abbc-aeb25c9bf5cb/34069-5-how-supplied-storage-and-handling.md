@@ -1,15 +1,12 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-## 16.1 Storage and Handling
-
-1. Methadone Hydrochloride Oral Solution USP contains methadone which is a controlled substance.
+1. Methadone is a controlled substance.
    Like fentanyl, morphine, oxycodone, hydromorphone, and oxymorphone, methadone is controlled under Schedule II of the Federal Controlled Substances Act.
    Methadone may be targeted for theft and diversion by criminals [see Warnings and Precautions (5.2)].
 2. Dispense in a tight, light-resistant container as defined in the USP/NF.
-3. Store at 20° to 25ºC (68º to 77°F); with excursions permitted between 15º to 30ºC (59º to 86ºF).
-   [See USP Controlled Room Temperature.]
 
-## 16.2 How Supplied
+Store at 20° to 25ºC (68º to 77°F).
+[See USP Controlled Room Temperature.]
 
 Methadone Hydrochloride Oral Solution USP
 
