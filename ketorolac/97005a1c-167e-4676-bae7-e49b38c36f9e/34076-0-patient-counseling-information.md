@@ -71,4 +71,4 @@ Manufactured for and Distributed by:
 
 Egalet US Inc. Wayne, PA 19087
 
-Issued: May/2016 LBL # 101.01
+Issued: Jan/2018 LBL # 101.02

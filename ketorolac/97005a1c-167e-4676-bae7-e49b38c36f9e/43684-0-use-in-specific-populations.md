@@ -68,6 +68,7 @@ Consider withdrawal of NSAIDs, including SPRIX, in women who have difficulties c
 
 ## 8.4 Pediatric Use
 
+Sprix is not for use in pediatric patients less than 2 years of age.
 The safety and effectiveness of ketorolac in pediatric patients 17 years of age and younger have not been established.
 
 ## 8.5 Geriatric Use

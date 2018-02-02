@@ -112,4 +112,4 @@ This Instructions for Use has been approved by the U.S. Food and Drug Administra
 
 Distributed by: Egalet US Inc. Wayne, PA 19087
 
-LBL # 102.01 Revised: 5/2016
+LBL # 102.02 Revised: 01/2018
