@@ -1,21 +1,19 @@
 Manufactured for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-Manufactured by: Patheon Inc., Whitby, Ontario L1N 5Z5, Canada
-
 For patent information: www.merck.com/product/patent/home.html
 
-Copyright © 2006, 2009 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
+Copyright © 2006-2018 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-uspi-mk4117a-t-d12-1403r005
+uspi-mk4117a-t-d12-1801r006
 
 Manufactured for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-Manufactured by: Patheon Inc., Whitby, Ontario L1N 5Z5, Canada
-
 For patent information: www.merck.com/product/patent/home.html
 
-Copyright © 2006, 2009 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
+The trademarks depicted herein are owned by their respective companies.
 
-Revised: 03/2014
+Copyright © 2006-2018 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-usppi-mk4117a-t-d12-1403r004
+Revised: 01/2018
+
+usppi-mk4117a-t-d12-1801r005
