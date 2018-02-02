@@ -8,7 +8,7 @@ Rx only
 
 actual size
 
-PRINCIPAL DISPLAY PANEL - 16 fl oz Bottle Carton
+PRINCIPAL DISPLAY PANEL - 473 mL Bottle Carton
 
 NDC 0085-1334-01 16 fl oz
 

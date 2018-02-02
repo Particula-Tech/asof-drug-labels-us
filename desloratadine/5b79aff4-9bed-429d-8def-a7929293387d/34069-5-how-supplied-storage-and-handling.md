@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-CLARINEX Tablets: Embossed "C5", light blue, film-coated tablets that are packaged in high-density polyethylene plastic bottles of 100 (NDC 0085-1264-01) and 500 (NDC 0085-1264-02).
+CLARINEX Tablets: Embossed "C5", light blue, film-coated tablets that are packaged in high-density polyethylene plastic bottles of 100 (NDC 0085-1264-01).
 
 CLARINEX Oral Solution: Clear orange-colored liquid containing 0.5 mg/1 mL desloratadine in a 16-ounce Amber glass bottle (NDC 0085-1334-01) and a 4-ounce Amber glass bottle (NDC 0085-1334-02).
 
