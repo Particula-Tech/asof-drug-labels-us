@@ -23,10 +23,10 @@ Gastroesophageal Reflux Disease (GERD)
 Safety in nine randomized comparative US clinical trials in patients with GERD included 1,473 patients on oral PROTONIX (20 mg or 40 mg), 299 patients on an H2-receptor antagonist, 46 patients on another PPI, and 82 patients on placebo.
 The most frequently occurring adverse reactions are listed in Table 1.
 
-The number of patients treated in comparative studies with I.V. pantoprazole is limited; however, the adverse reactions seen were similar to those seen in the oral studies.
-Thrombophlebitis was the only new adverse reaction identified with I.V. pantoprazole.
+The number of patients treated in comparative studies with PROTONIX I.V. is limited; however, the adverse reactions seen were similar to those seen in the oral studies.
+Thrombophlebitis was the only new adverse reaction identified with PROTONIX I.V.
 
-Table 1: Adverse Reactions Reported in Clinical Trials of Adult Patients with GERD at a Frequency of > 2%
+Table 1: Adverse Reactions Reported in Clinical Trials of Adult Patients with GERD at a Frequency of >2%
 
 |  | Oral PROTONIX (n=1473) % | Comparators (n=345) % | Placebo (n=82) % |
 | --- | --- | --- | --- |
@@ -39,7 +39,7 @@ Table 1: Adverse Reactions Reported in Clinical Trials of Adult Patients with GE
 | Dizziness | 3.0 | 2.9 | 1.2 |
 | Arthralgia | 2.8 | 1.4 | 1.2 |
 
-Additional adverse reactions that were reported for oral PROTONIX in US clinical trials with a frequency of ≤ 2% are listed below by body system:
+Additional adverse reactions that were reported for oral PROTONIX in US clinical trials with a frequency of ≤2% are listed below by body system:
 
 Body as a Whole: allergic reaction, fever, photosensitivity reaction, facial edema, thrombophlebitis (I.V. only)
 
@@ -57,9 +57,9 @@ Skin and Appendages: urticaria, rash, pruritus
 
 Special Senses: blurred vision
 
-Zollinger-Ellison Syndrome
+Zollinger-Ellison (ZE) Syndrome
 
-In clinical studies of Zollinger-Ellison Syndrome, adverse reactions reported in 35 patients administered PROTONIX I.V. doses of 80 mg to 240 mg per day for up to 2 years were similar to those reported in adult patients with GERD.
+In clinical studies of ZE Syndrome, adverse reactions reported in 35 patients administered PROTONIX I.V. doses of 80 mg to 240 mg per day for up to 2 years were similar to those reported in adult patients with GERD.
 
 ## 6.2 Postmarketing Experience
 
