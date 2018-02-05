@@ -14,8 +14,8 @@ In the gastric fundus, treatment with 5 to 50 mg/kg/day produced enterochromaffi
 Dose selection for this study may not have been adequate to comprehensively evaluate the carcinogenic potential of pantoprazole.
 
 In a 24-month carcinogenicity study, B6C3F1 mice were treated orally with pantoprazole doses of 5 to 150 mg/kg/day, 0.5 to 15 times the recommended human dose based on body surface area.
-In the liver, treatment at 150 mg/kg/day produced increased incidences of hepatocellular adenomas and carcinomas in female mice.
-Treatment at 5 to 150 mg/kg/day also produced gastric fundic ECL cell hyperplasia.
+In the liver, treatment with 150 mg/kg/day produced increased incidences of hepatocellular adenomas and carcinomas in female mice.
+Treatment with 5 to 150 mg/kg/day also produced gastric fundic ECL cell hyperplasia.
 
 A 26-week p53 +/- transgenic mouse carcinogenicity study was not positive.
 

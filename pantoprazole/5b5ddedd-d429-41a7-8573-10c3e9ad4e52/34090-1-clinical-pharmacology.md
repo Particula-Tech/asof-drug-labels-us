@@ -12,7 +12,7 @@ Antisecretory Activity
 
 The magnitude and time course for inhibition of pentagastrin-stimulated acid output (PSAO) by single doses (20 to 120 mg) of PROTONIX I.V. were assessed in a single-dose, open-label, placebo-controlled, dose-response study.
 The results of this study are shown in Table 3.
-Healthy subjects received a continuous infusion for 25 hours of pentagastrin (PG) at 1 mcg/kg/hour, a dose known to produce submaximal gastric acid secretion.
+Healthy subjects received a continuous infusion for 25 hours of pentagastrin (PG) at 1 mcg/kg/h, a dose known to produce submaximal gastric acid secretion.
 The placebo group showed a sustained, continuous acid output for 25 hours, validating the reliability of the testing model.
 PROTONIX I.V. had an onset of antisecretory activity within 15 to 30 minutes of administration.
 Doses of 20 to 80 mg of PROTONIX I.V. substantially reduced the 24-hour cumulative PSAO in a dose-dependent manner, despite a short plasma elimination half-life.
@@ -31,33 +31,34 @@ NA = not applicable.
 | 40 mg (n=8) | 5 ± 5 | 82 ± 11 | 4 ± 4 | 90 ± 11 | 11 ± 10 | 81 ± 13 | 16 ± 12 | 52 ± 36 |
 | 80 mg (n=8) | 0.1 ± 0.2 | 96 ± 6 | 0.3 ± 0.4 | 99 ± 1 | 2 ± 2 | 90 ± 7 | 7 ± 4 | 63 ± 18 |
 
-In one study of gastric pH in healthy subjects, pantoprazole was administered orally (40 mg enteric coated tablets) or intravenously (40 mg) once daily for 5 days and pH was measured for 24 hours following the fifth dose.
-The outcome measure was median percent of time that pH was ≥ 4 and the results were similar for intravenous and oral medications; however, the clinical significance of this parameter is unknown.
+In one study of gastric pH in healthy subjects, PROTONIX was administered orally (40 mg enteric coated tablets) or PROTONIX I.V.
+(40 mg) once daily for 5 days and pH was measured for 24 hours following the fifth dose.
+The outcome measure was median percent of time that pH was ≥4 and the results were similar for intravenous and oral medications; however, the clinical significance of this parameter is unknown.
 
 Serum Gastrin Effects
 
 Serum gastrin concentrations were assessed in two placebo-controlled studies.
 
-In a 5-day study of oral pantoprazole with 40 and 60 mg doses in healthy subjects, following the last dose on day 5, median 24-hour serum gastrin concentrations were elevated by 3 to 4 fold compared to placebo in both 40 and 60 mg dose groups.
+In a 5-day study of oral pantoprazole with 40 and 60 mg doses in healthy subjects, following the last dose on day 5, median 24-hour serum gastrin concentrations were elevated by 3-to 4-fold compared to placebo in both 40 and 60 mg dose groups.
 However, by 24 hours following the last dose, median serum gastrin concentrations for both groups returned to normal levels.
 
 In another placebo-controlled, 7-day study of 40 mg intravenous or oral pantoprazole in patients with GERD and a history of EE, the mean serum gastrin concentration increased approximately 50% from baseline and as compared with placebo, but remained within the normal range.
 
-During 6 days of repeated administration of PROTONIX I.V. in patients with Zollinger-Ellison Syndrome, consistent changes of serum gastrin concentrations from baseline were not observed.
+During 6 days of repeated administration of PROTONIX I.V. in patients with ZE Syndrome, consistent changes of serum gastrin concentrations from baseline were not observed.
 
 Enterochromaffin-Like (ECL) Cell Effects
 
 There are no data available on the effects of intravenous pantoprazole sodium on ECL cells.
 
-In a nonclinical study in Sprague-Dawley rats, lifetime exposure (24 months) to oral pantoprazole with doses of 0.5 to 200 mg/kg/day resulted in dose-related increases in gastric ECL-cell proliferation and gastric neuroendocrine (NE)-cell tumors.
+In a nonclinical study in Sprague-Dawley rats, lifetime exposure (24 months) to oral pantoprazole at doses of 0.5 to 200 mg/kg/day resulted in dose-related increases in gastric ECL-cell proliferation and gastric neuroendocrine (NE)-cell tumors.
 Gastric NE-cell tumors in rats may result from chronic elevation of serum gastrin concentrations.
 The high density of ECL cells in the rat stomach makes this species highly susceptible to the proliferative effects of elevated gastrin concentrations produced by PPIs.
-However, there were no observed elevations in serum gastrin following the administration of oral pantoprazole with a dose of 0.5 mg/kg/day.
+However, there were no observed elevations in serum gastrin following the administration of oral pantoprazole at a dose of 0.5 mg/kg/day.
 In a separate study, a gastric NE-cell tumor without concomitant ECL-cell proliferative changes was observed in 1 female rat following 12 months of dosing with oral pantoprazole at 5 mg/kg/day and a 9 month off-dose recovery [see Nonclinical Toxicology (13.1)].
 
 Endocrine Effects
 
-In a clinical pharmacology study, pantoprazole 40 mg given orally once daily for 2 weeks had no effect on the levels of the following hormones: cortisol, testosterone, triiodothyronine (T3), thyroxine (T1), thyroid-stimulating hormone, thyronine-binding protein, parathyroid hormone, insulin, glucagon, renin, aldosterone, follicle-stimulating hormone, luteinizing hormone, prolactin and growth hormone.
+In a clinical pharmacology study, pantoprazole 40 mg given orally once daily for 2 weeks had no effect on the levels of the following hormones: cortisol, testosterone, triiodothyronine (T3), thyroxine (T4), thyroid-stimulating hormone, thyronine-binding protein, parathyroid hormone, insulin, glucagon, renin, aldosterone, follicle-stimulating hormone, luteinizing hormone, prolactin and growth hormone.
 
 In a 1-year study of GERD patients treated with pantoprazole 40 mg or 20 mg, there were no changes from baseline in overall levels of T3, T4, and TSH.
 
@@ -92,27 +93,27 @@ There was no renal excretion of unchanged pantoprazole.
 
 Specific Populations
 
-Age: Geriatric Population
+Geriatric Patients
 
 After repeated intravenous administration in elderly subjects (65 to 76 years of age), the AUC and elimination half-life values of pantoprazole were similar to those observed in younger subjects.
 
-Sex
+Male and Female Patients
 
 After oral administration there was a modest increase in the AUC and Cmax of pantoprazole in women compared to men.
 However, weight-normalized clearance values are similar in women and men.
 
-Renal Impairment
+Patients with Renal Impairment
 
 In patients with severe renal impairment, pharmacokinetic parameters for pantoprazole were similar to those of healthy subjects.
 
-Hepatic Impairment
+Patients with Hepatic Impairment
 
 In patients with mild to severe hepatic impairment (Child-Pugh Class A to C), maximum pantoprazole concentrations increased only slightly (1.5-fold) relative to healthy subjects when pantoprazole sodium was administered orally.
 Although serum half-life values increased to 7 to 9 hours and AUC values increased by 5- to 7-fold in hepatic-impaired patients, these increases were no greater than those observed in CYP2C19 poor metabolizers, where no dosage adjustment is warranted.
 These pharmacokinetic changes in hepatic-impaired patients result in minimal drug accumulation following once-daily, multiple-dose administration.
 Oral pantoprazole doses higher than 40 mg per day have not been studied in hepatically impaired patients.
 
-Drug-Drug Interaction Studies
+Drug Interaction Studies
 
 Effect of Other Drugs on Pantoprazole
 
@@ -138,10 +139,10 @@ There was a 78% reduction in the Cmax and a 45% reduction in the AUC of MPA in p
 
 Other Drugs
 
-In vivo studies also suggest that pantoprazole does not significantly affect the kinetics of other drugs (cisapride, theophylline, diazepam [and its active metabolite, desmethyldiazepam], phenytoin, warfarin, metoprolol, nifedipine, carbamazepine, midazolam, clarithromycin, naproxen, piroxicam and oral contraceptives [levonorgestrel/ethinyl estradiol]).
+In vivo studies also suggest that pantoprazole does not significantly affect the kinetics of other drugs (cisapride, theophylline, diazepam [and its active metabolite, desmethyldiazepam], phenytoin, metoprolol, nifedipine, carbamazepine, midazolam, clarithromycin, diclofenac, naproxen, piroxicam and oral contraceptives [levonorgestrel/ethinyl estradiol]).
 In other in vivo studies, digoxin, ethanol, glyburide, antipyrine, caffeine, metronidazole, and amoxicillin had no clinically relevant interactions with pantoprazole.
 
-Although no significant drug-drug interactions have been observed in clinical studies, the potential for significant drug-drug interactions with more than once daily dosing with high doses of PROTONIX I.V. has not been studied in poor metabolizers or individuals who are hepatically impaired.
+Although no significant drug-drug interactions have been observed in clinical studies, the potential for significant drug-drug interactions with more than once daily dosing with high doses of pantoprazole has not been studied in poor metabolizers or individuals who are hepatically impaired.
 
 Antacids
 
@@ -150,7 +151,7 @@ There was also no interaction with concomitantly administered antacids.
 ## 12.5 Pharmacogenomics
 
 CYP2C19 displays a known genetic polymorphism due to its deficiency in some subpopulations (e.g., approximately 3% of Caucasians and African-Americans and 17% to 23% of Asians are poor metabolizers).
-Although these subpopulations of pantoprazole poor metabolizers have elimination half-life values of 3.5 to 10.0 hours in adults, they still have minimal accumulation (less than or equal to 23%) with once-daily dosing.
+Although these subpopulations of pantoprazole poor metabolizers have elimination half-life values of 3.5 to 10.0 hours in adults, they still have minimal accumulation (23% or less) with once-daily dosing.
 For adult patients who are CYP2C19 poor metabolizers, no dosage adjustment is needed.
 
 Similar to adults, pediatric patients who have the poor metabolizer genotype of CYP2C19 (CYP2C19 *2/*2) exhibited greater than a 6-fold increase in AUC compared to pediatric extensive (CYP2C19 *1/*1) and intermediate (CYP2C19 *1/*x) metabolizers.

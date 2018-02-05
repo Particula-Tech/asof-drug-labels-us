@@ -2,7 +2,7 @@
 
 ## 2.1 Dosage for Gastroesophageal Reflux Disease Associated With a History of Erosive Esophagitis
 
-The recommended adult dosage is 40 mg given once daily by intravenous infusion for 7 to 10 days.
+The recommended adult dosage of PROTONIX I.V. is 40 mg given once daily by intravenous infusion for 7 to 10 days.
 
 Discontinue treatment with PROTONIX® I.V. as soon as the patient is able to receive treatment with PROTONIX Delayed-Release Tablets or Oral Suspension.
 
@@ -12,7 +12,7 @@ PROTONIX I.V.
 
 ## 2.2 Preparation and Administration Instructions for Gastroesophageal Reflux Disease Associated With a History of Erosive Esophagitis
 
-Only for intravenous infusion: other parenteral routes of administration are not recommended.
+Only for intravenous infusion; other parenteral routes of administration are not recommended.
 
 Fifteen Minute Infusion
 
@@ -20,10 +20,10 @@ Fifteen Minute Infusion
 Reconstitute PROTONIX I.V. with 10 mL of 0.9% Sodium Chloride Injection, USP.
 
 2.
-Further dilute (admix) with 100 mL of 5% Dextrose Injection, USP, 0.9% Sodium Chloride Injection, USP, or Lactated Ringer's Injection, USP, to a final concentration of approximately 0.4 mg/mL.
+Further dilute with 100 mL of 5% Dextrose Injection, USP, 0.9% Sodium Chloride Injection, USP, or Lactated Ringer's Injection, USP, to a final concentration of approximately 0.4 mg/mL.
 
 3.
-Inspect the diluted Protonix I.V. solution visually for particulate matter and discoloration prior to and during administration.
+Inspect the diluted PROTONIX I.V. solution visually for particular matter and discoloration prior to and during administration.
 
 4.
 Administer intravenously over a period of approximately 15 minutes at a rate of approximately 7 mL/min.
@@ -42,10 +42,10 @@ Two Minute Infusion
 Reconstitute PROTONIX I.V. with 10 mL of 0.9% Sodium Chloride Injection, USP, to a final concentration of approximately 4 mg/mL.
 
 2.
-Inspect the diluted PROTONIX I.V. solution visually for particulate matter and discoloration prior to and during administration.
+Inspect the diluted PROTONIX I.V. solution visually for particular matter and discoloration prior to and during administration.
 
 3.
-Administered intravenously over a period of at least 2 minutes.
+Administer intravenously over a period of at least 2 minutes.
 
 Storage
 
@@ -55,17 +55,16 @@ Do not freeze the reconstituted solution.
 
 ## 2.3 Dosage for Pathological Hypersecretion Including Zollinger-Ellison Syndrome
 
-The dosage of PROTONIX I.V. in patients with pathological hypersecretory conditions including Zollinger-Ellison Syndrome varies with individual patients.
-The recommended adult dosage is 80 mg intravenously every 12 hours.
+The recommended adult dosage of PROTONIX I.V. is 80 mg intravenously every 12 hours.
 The frequency of dosing can be adjusted to individual patient needs based on acid output measurements.
 In those patients who need a higher dosage, 80 mg intravenously every 8 hours is expected to maintain acid output below 10 mEq/h.
 Daily doses higher than 240 mg or administered for more than 6 days have not been studied [see Clinical Studies (14)].
 Transition from oral to intravenous and from intravenous to oral formulations of gastric acid inhibitors should be performed in such a manner to ensure continuity of effect of suppression of acid secretion.
-Patients with Zollinger-Ellison Syndrome may be vulnerable to serious clinical complications of increased acid production even after a short period of loss of effective inhibition.
+Patients with ZE Syndrome may be vulnerable to serious clinical complications of increased acid production even after a short period of loss of effective inhibition.
 
 ## 2.4 Preparation and Administration Instructions for Pathological Hypersecretion Including Zollinger-Ellison Syndrome
 
-Only for intravenous infusion: other parenteral routes of administration are not recommended.
+Only for intravenous infusion; other parenteral routes of administration are not recommended.
 
 Fifteen Minute Infusion
 
@@ -73,13 +72,13 @@ Fifteen Minute Infusion
 Reconstitute each vial of PROTONIX I.V. with 10 mL of 0.9% Sodium Chloride Injection, USP.
 
 2.
-Combine the contents of the two vials and further dilute (admix) with 80 mL of 5% Dextrose Injection, USP, 0.9% Sodium Chloride Injection, USP, or Lactated Ringer's Injection, USP, to a total volume of 100 mL with a final concentration of approximately 0.8 mg/mL.
+Combine the contents of the two vials and further dilute with 80 mL of 5% Dextrose Injection, USP, 0.9% Sodium Chloride Injection, USP, or Lactated Ringer's Injection, USP, to a total volume of 100 mL with a final concentration of approximately 0.8 mg/mL.
 
 3.
-Inspect the diluted PROTONIX I.V. solution visually for particulate matter and discoloration prior to and during administration.
+Inspect the diluted PROTONIX I.V. solution visually for particular matter and discoloration prior to and during administration.
 
 4.
-Administer intravenously over a period of approximately 15 minutes ate a rate of approximately 7 mL/min.
+Administer intravenously over a period of approximately 15 minutes at a rate of approximately 7 mL/min.
 
 Storage
 
@@ -95,7 +94,7 @@ Two Minute Infusion
 Reconstitute PROTONIX I.V. with 10 mL of 0.9% Sodium Chloride Injection, USP, per vial to a final concentration of approximately 4 mg/mL.
 
 2.
-Inspect the diluted Protonix I.V. solution visually for particulate matter and discoloration prior to and during administration.
+Inspect the diluted PROTONIX I.V. solution visually for particular matter and discoloration prior to and during administration.
 
 3.
 Administer the total volume from both vials intravenously over a period of at least 2 minutes.
@@ -108,10 +107,9 @@ Do not freeze the reconstituted solution.
 
 ## 2.5 Compatibility Information
 
-Administer PROTONIX I.V. intravenously through a dedicated line or through a Y-site.
-
-- Flush the intravenous line before and after administration of PROTONIX I.V. with either 5% Dextrose Injection, USP, 0.9% Sodium Chloride Injection, USP, or Lactated Ringer's injection, USP.
-- When administered through a Y-site, PROTONIX I.V. is compatible with the following solutions: 5% Dextrose Injection, USP, 0.9% Sodium Chloride Injection, USP, or Lactated Ringer's injection, USP.
+- Administer PROTONIX I.V. intravenously through a dedicated line or through a Y-site.
+- Flush the intravenous line before and after administration of PROTONIX I.V. with either 5% Dextrose Injection, USP, 0.9% Sodium Chloride Injection, USP, or Lactated Ringer's Injection, USP.
+- When administered through a Y-site, PROTONIX I.V. is compatible with the following solutions: 5% Dextrose Injection, USP, 0.9% Sodium Chloride Injection, USP, or Lactated Ringer's Injection, USP.
 - Midazolam HCl has been shown to be incompatible with Y-site administration of PROTONIX I.V.
 - PROTONIX I.V. may not be compatible with products containing zinc [see Warnings and Precautions (5.4)].
 - When PROTONIX I.V. is administered through a Y-site, immediately stop use if precipitation or discoloration occurs.

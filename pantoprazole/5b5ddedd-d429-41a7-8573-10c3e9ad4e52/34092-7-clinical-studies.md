@@ -12,7 +12,7 @@ This study demonstrated that, after 10 days of repeated oral administration foll
 Also, patients on oral PROTONIX who were switched to intravenous placebo experienced a significant increase in acid output within 48 hours of their last oral dose (see Table 4).
 However, at 48 hours after their last oral dose, patients treated with PROTONIX I.V. had a significantly lower mean basal acid output (see Table 4) than those treated with placebo.
 
-Table 4: Antisecretory Effects (mEq/h) of 40 mg PROTONIX I.V. and 40 mg PROTONIX Delayed-Release Tablet in GERD Patients with a History of EE
+Table 4: Antisecretory Effects (mEq/h) of 40 mg PROTONIX I.V. and 40 mg PROTONIX Delayed-Release Tablets in GERD Patients with a History of EE
 
 | Parameter | PROTONIX Delayed-Release Tablets DAY 10 | PROTONIX I.V. DAY 7 | Intravenous Placebo DAY 7 |
 | --- | --- | --- | --- |
@@ -40,19 +40,19 @@ Patients (n=45, median age 56 years, 21 males and 24 females) with acute endosco
 After the initial 5 days, all patients were treated with 40 mg oral pantoprazole daily to complete a total of 8 weeks of treatment.
 Symptom relief was assessed by calculating the daily mean of the sums of the average scores for these 3 symptoms and the daily mean of the average score for each of the symptoms separately.
 There was no significant difference in symptom relief between PROTONIX I.V. and PROTONIX Delayed-Release Tablets within the first 5 days.
-A repeat endoscopy after 8 weeks of treatment revealed that 20 out of 23 (87%) of the patients treated with PROTONIX I.V. plus PROTONIX Delayed-Release Tablets and 19 out of 22 (86%) of the patients treated with PROTONIX Delayed-Release Tablets had endoscopically proven healing of their esophageal lesions.
+A repeat endoscopy after 8 weeks of treatment revealed that 20 out of 23 (87%) patients treated with PROTONIX I.V. plus PROTONIX Delayed-Release Tablets and 19 out of 22 (86%) of the patients treated with PROTONIX Delayed-Release Tablets had endoscopically proven healing of their esophageal lesions.
 
-Data comparing PROTONIX I.V. to other PPIs (oral or intravenous) or H2 receptor antagonists (oral or intravenous) are limited, and therefore, are inadequate to support any conclusions regarding comparative efficacy.
+Data comparing PROTONIX I.V. to other PPIs (oral or intravenous) or H2-receptor antagonists (oral or intravenous) are limited, and therefore, are inadequate to support any conclusions regarding comparative efficacy.
 
 ## 14.2 Pathological Hypersecretion Associated with Zollinger-Ellison Syndrome
 
-Two studies measured the pharmacodynamic effects of 6 day treatment with PROTONIX I.V. in patients with Zollinger-Ellison Syndrome (with and without multiple endocrine neoplasia type I). In one of these studies, an initial treatment with PROTONIX I.V. in 21 patients (29 to 75 years; 8 female; 4 Black, 1 Hispanic, 16 White) reduced acid output to the target level (less than or equal to 10 mEq/h) and significantly reduced H+ concentration and the volume of gastric secretions; target levels were achieved within 45 minutes of drug administration.
+Two studies measured the pharmacodynamic effects of 6 day treatment with PROTONIX I.V. in patients with ZE Syndrome (with and without multiple endocrine neoplasia type I). In one of these studies, an initial treatment with PROTONIX I.V. in 21 patients (29 to 75 years; 8 female; 4 Black, 1 Hispanic, 16 White) reduced acid output to the target level (10 mEq/h or less) and significantly reduced H+ concentration and the volume of gastric secretions; target levels were achieved within 45 minutes of drug administration.
 
-In the other study of 14 patients (38 to 67 years; 5 female; 2 Black, 12 White) with Zollinger-Ellison Syndrome, treatment was switched from an oral PPI to PROTONIX I.V.
+In the other study of 14 patients (38 to 67 years; 5 female; 2 Black, 12 White) with ZE Syndrome, treatment was switched from an oral PPI to PROTONIX I.V.
 PROTONIX I.V. maintained or improved control of gastric acid secretion.
 
 In both studies, total doses of 160 or 240 mg per day of PROTONIX I.V., administered in divided doses, maintained basal acid secretion below target levels in all patients.
-Target levels were 10 mEq/hour in patients without prior gastric surgery, and 5 mEq/h in all patients with prior gastric acid-reducing surgery.
+Target levels were 10 mEq/h in patients without prior gastric surgery, and 5 mEq/h in all patients with prior gastric acid-reducing surgery.
 Once gastric acid secretion was controlled, there was no evidence of tolerance during this 7 day study.
 Basal acid secretion was maintained below target levels for at least 24 hours in all patients and through the end of treatment in these studies (3 to 7 days) in all but 1 patient who required a dose adjustment guided by acid output measurements until acid control was achieved.
 In both studies, doses were adjusted to the individual patient need, but gastric acid secretion was controlled in greater than 80% of patients by a starting regimen of 80 mg every 12 hours.

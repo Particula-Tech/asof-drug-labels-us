@@ -8,4 +8,4 @@ Safety and efficacy of PROTONIX I.V. as a treatment of patients with GERD and a 
 
 ## 1.2 Pathological Hypersecretion Including Zollinger-Ellison Syndrome
 
-PROTONIX I.V. is indicated for the treatment of pathological hypersecretory conditions including Zollinger-Ellison Syndrome in adults.
+PROTONIX I.V. is indicated for the treatment of pathological hypersecretory conditions including Zollinger-Ellison (ZE) Syndrome in adults.
