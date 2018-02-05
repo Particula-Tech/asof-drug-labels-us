@@ -3,7 +3,7 @@
 Azor provided as a tablet for oral administration, is a combination of the calcium channel blocker (CCB) amlodipine besylate and the angiotensin II receptor blocker (ARB) olmesartan medoxomil.
 
 The amlodipine besylate component of Azor is chemically described as 3-ethyl-5-methyl (±)-2-[(2-aminoethoxy)methyl]-4-(2-chlorophenyl)-1,4-dihydro-6-methyl-3,5-pyridinedicarboxylate, monobenzenesulphonate.
-Its empirical formula is C20H25CIN2O5•C6H6O3S.
+Its empirical formula is C20H25ClN2O5•C6H6O3S.
 
 Olmesartan medoxomil, a prodrug, is hydrolyzed to olmesartan during absorption from the gastrointestinal tract.
 
@@ -20,4 +20,4 @@ Amlodipine besylate is slightly soluble in water and sparingly soluble in ethano
 Olmesartan medoxomil is practically insoluble in water and sparingly soluble in methanol.
 
 Each tablet of Azor also contains the following inactive ingredients: silicified microcrystalline cellulose, pregelatinized starch, croscarmellose sodium, and magnesium stearate.
-The color coatings contain polyvinyl alcohol, macrogol/polyethylene glycol 3350, titanium dioxide, talc, iron oxide yellow (5/40 mg, 10/20 mg, 10/40 mg tablets), iron oxide red (10/20 mg and 10/40 mg tablets), and iron oxide black (10/20 mg tablets).
+The color coatings contain polyvinyl alcohol, macrogol/ polyethylene glycol 3350, titanium dioxide, talc, iron oxide yellow (5/40 mg, 10/20 mg, 10/40 mg tablets), iron oxide red (10/20 mg and 10/40 mg tablets), and iron oxide black (10/20 mg tablets).

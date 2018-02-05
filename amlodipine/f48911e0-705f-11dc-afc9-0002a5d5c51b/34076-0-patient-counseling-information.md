@@ -4,7 +4,9 @@ Pregnancy: Tell female patients of childbearing age about the consequences of ex
 Discuss treatment options with women planning to become pregnant.
 Tell patients to report pregnancies to their physicians as soon as possible.
 
-Manufactured for Daiichi Sankyo, Inc., Parsippany, New Jersey 07054 Manufactured by Daiichi Sankyo Europe GmbH, Germany
+Manufactured for Daiichi Sankyo, Inc., Basking Ridge, NJ 07920
 
-Copyright © Daiichi Sankyo, Inc. 2016.
+Manufactured by Daiichi Sankyo Europe
+
+Copyright © Daiichi Sankyo, Inc. 2017.
 All rights reserved.

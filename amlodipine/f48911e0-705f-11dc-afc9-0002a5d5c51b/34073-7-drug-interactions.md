@@ -3,8 +3,7 @@
 ## 7.1 Drug Interactions with Amlodipine
 
 Simvastatin: Co-administration of simvastatin with amlodipine increases the systemic exposure of simvastatin.
-Limit the dose of simvastatin in patients on amlodipine to 20 mg daily.
-[see Clinical Pharmacology (12.3)].
+Limit the dose of simvastatin in patients on amlodipine to 20 mg daily [see Clinical Pharmacology (12.3)].
 
 Immunosuppressants: Amlodipine may increase the systemic exposure of cyclosporine or tacrolimus when co-administered.
 Frequent monitoring of trough blood levels of cyclosporine and tacrolimus is recommended and adjust the dose when appropriate [see Clinical Pharmacology (12.3)].

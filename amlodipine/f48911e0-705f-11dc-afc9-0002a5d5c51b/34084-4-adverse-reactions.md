@@ -4,7 +4,7 @@
 
 Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
 
-### Azor
+Azor
 
 The data described below reflect exposure to Azor in more than 1600 patients including more than 1000 exposed for at least 6 months and more than 700 exposed for 1 year.
 Azor was studied in one placebo-controlled factorial trial [see Clinical Trials (14.1)].
@@ -17,18 +17,20 @@ The reported adverse reactions were generally mild and seldom led to discontinua
 
 Edema
 
-Edema is a known, dose-dependent adverse effect of amlodipine but not of olmesartan medoxomil.The placebo-subtracted incidence of edema during the 8-week, randomized, double-blind treatment period was highest with amlodipine 10 mg monotherapy.
+Edema is a known, dose-dependent adverse effect of amlodipine but not of olmesartan medoxomil.
+
+The placebo-subtracted incidence of edema during the 8-week, randomized, double-blind treatment period was highest with amlodipine 10 mg monotherapy.
 The incidence was significantly reduced when 20 mg or 40 mg of olmesartan medoxomil was added to the 10 mg amlodipine dose.
 
-Placebo-Subtracted Incidence of Edema during the Double-Blind Treatment Period
+Placebo-Subtracted Incidence of Edema During the Double-Blind Treatment Period
 
-|  |  |  | Olmesartan Medoximil |  |
+|  |  | Olmesartan Medoxomil |  |  |
 | --- | --- | --- | --- | --- |
 |  |  | Placebo | 20 mg | 40 mg |
-|  | Placebo | * | -2.4% | 6.2% |
-| Almodopine | 5 mg | 0.7% | 5.7% | 6.2% |
+| Amlodipine | Placebo | －* | -2.4% | 6.2% |
+|  | 5 mg | 0.7% | 5.7% | 6.2% |
 |  | 10 mg | 24.5% | 13.3% | 11.2% |
-| *12.3%=actual placebo incidence |  |  |  |  |
+| *12.3% = actual placebo incidence |  |  |  |  |
 
 Across all treatment groups, the frequency of edema was generally higher in women than men, as has been observed in previous studies of amlodipine.
 
@@ -47,19 +49,17 @@ The incidences of discontinuation because of any treatment emergent adverse even
 
 Discontinuation for any Treatment Emergent Adverse Event1
 
-|  |  |  | Olmesartan | Medoximil |  |
+|  |  |  | Olmesartan Medoxomil |  |  |
 | --- | --- | --- | --- | --- | --- |
 |  |  | Placebo | 10 mg | 20 mg | 40 mg |
-|  | Placebo | 4.9% | 4.3% | 5.6% | 3.1% |
-| Almodopine | 5 mg | 3.7% | 0.0% | 1.2% | 3.7% |
+| Amlodipine | Placebo | 4.9% | 4.3% | 5.6% | 3.1% |
+|  | 5 mg | 3.7% | 0.0% | 1.2% | 3.7% |
 |  | 10 mg | 5.5% | 6.8% | 2.5% | 5.6% |
+| 1 Hypertension is counted as treatment failure and not as treatment emergent adverse event. N=160-163 subjects per treatment group. |  |  |  |  |  |
 
-*1Hypertension is counted as treatment failure and not as treatment emergent adverse event.
-N=160-163 subjects per treatment group
+Amlodipine.
 
-Amlodipine
-
-Amlodipine has been evaluated for safety in more than 11,000 patients in U.S. and foreign clinical trials.
+Amlodipine has been evaluated for safety in more than 11,000 patients in and foreign clinical trials.
 Most adverse reactions reported during therapy with amlodipine were of mild or moderate severity.
 In controlled clinical trials directly comparing amlodipine (N=1730) in doses up to 10 mg to placebo (N=1250), discontinuation of amlodipine due to adverse reactions was required in only about 1.5% of amlodipine-treated patients and about 1% of placebo-treated patients.
 The most common side effects were headache and edema.
@@ -72,7 +72,7 @@ The incidence (%) of dose-related side effects was as follows:
 | Flushing | 0.0 | 0.7 | 1.4 | 2.6 |
 | Palpitation | 0.6 | 0.7 | 1.4 | 4.5 |
 
-For several adverse experiences that appear to be drug- and dose-related, there was a greater incidence in women than men associated with amlodipine treatment as shown in the following table;
+For several adverse experiences that appear to be drug- and dose-related, there was a greater incidence in women than men associated with amlodipine treatment as shown in the following table:
 
 | Adverse Event | Placebo |  | Amlodipine |  |
 | --- | --- | --- | --- | --- |
@@ -83,6 +83,7 @@ For several adverse experiences that appear to be drug- and dose-related, there 
 | Somnolence | 0.8 | 0.3 | 1.3 | 1.6 |
 
 Olmesartan medoxomil.
+
 Olmesartan medoxomil has been evaluated for safety in more than 3825 patients/subjects, including more than 3275 patients treated for hypertension in controlled trials.
 This experience included about 900 patients treated for at least 6 months and more than 525 treated for at least 1 year.
 Treatment with olmesartan medoxomil was well tolerated, with an incidence of adverse events similar to that seen with placebo.

@@ -29,13 +29,13 @@ The figures below provide estimates of the likelihood of achieving the targeted 
 The curve of each treatment group was estimated by logistic regression modeling from all available data of that treatment group.
 The right tail of each curve is less reliable because of small numbers of subjects with high baseline blood pressures.
 
-Figure 1: Probability of Achieving Systolic Blood Pressure (SBP) <140 mmHg at Week 8 With LOCF
+Figure 1: Probability of Achieving Systolic Blood Pressure (SBP) < 140 mmHg at Week 8 With LOCF
 
-Figure 2: Probability of Achieving Diastolic Blood Pressure (DBP) <90 mmHg at Week 8 With LOCF
+Figure 2: Probability of Achieving Diastolic Blood Pressure (DBP) < 90 mmHg at Week 8 With LOCF
 
-Figure 3: Probability of Achieving Systolic Blood Pressure (SBP) <130 mmHg at Week 8 With LOCF
+Figure 3: Probability of Achieving Systolic Blood Pressure (SBP) < 130 mmHg at Week 8 With LOCF
 
-Figure 4: Probability of Achieving Diastolic Blood Pressure (DBP) <80 mmHg at Week 8 With LOCF
+Figure 4: Probability of Achieving Diastolic Blood Pressure (DBP) < 80 mmHg at Week 8 With LOCF
 
 The figures above provide an approximation of the likelihood of reaching a targeted blood pressure goal (e.g., Week 8 SBP <140 mmHg or <130 mmHg or a DBP <90 mmHg or <80 mmHg) for the high-dose treatment groups evaluated in the study.
 Azor 5/20 mg, the lowest dose combination treatment group, increases the probability of reaching blood pressure goal compared with the highest dose monotherapies, amlodipine 10 mg and olmesartan medoxomil 40 mg.

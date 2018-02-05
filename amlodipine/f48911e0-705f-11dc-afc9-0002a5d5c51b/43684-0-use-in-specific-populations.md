@@ -17,7 +17,7 @@ Perform serial ultrasound examinations to assess the intra-amniotic environment.
 If oligohydramnios is observed, discontinue Azor, unless it is considered lifesaving for the mother.
 Fetal testing may be appropriate, based on the week of pregnancy.
 Patients and physicians should be aware, however, that oligohydramnios may not appear until after the fetus has sustained irreversible injury.
-Closely observe infants with histories of in utero exposure to Azor for hypotension, oliguria, and hyperkalemia [see Use in Specific Populations(8.4)].
+Closely observe infants with histories of in utero exposure to Azor for hypotension, oliguria, and hyperkalemia [see Use in Specific Populations (8.4)].
 
 Olmesartan.
 No teratogenic effects were observed when olmesartan medoxomil was administered to pregnant rats at oral doses up to 1000 mg/kg/day (240 times the maximum recommended human dose (MRHD) on a mg/m2 basis) or pregnant rabbits at oral doses up to 1 mg/kg/day (half the MRHD on a mg/m2 basis; higher doses could not be evaluated for effects on fetal development as they were lethal to the does).
@@ -39,7 +39,9 @@ Because of the potential for adverse effects on the nursing infant, a decision s
 
 ## 8.4 Pediatric Use
 
-Neonates with a history of in utero exposure to Azor: If oliguria or hypotension occurs, direct attention toward support of blood pressure and renal perfusion.
+Neonates with a history of in utero exposure to Azor:
+
+If oliguria or hypotension occurs, direct attention toward support of blood pressure and renal perfusion.
 Exchange transfusions or dialysis may be required as a means of reversing hypotension and/or substituting for disordered renal function.
 
 The safety and effectiveness of Azor in pediatric patients have not been established.
