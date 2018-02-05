@@ -25,24 +25,11 @@ If focal tremors, myoclonus, or seizures occur, evaluate neurologically, placed 
 ## 5.3 Risk of Breakthrough Seizures Due to Drug Interaction with Valproic Acid
 
 The concomitant use of meropenem and valproic acid or divalproex sodium is generally not recommended.
-Case reports
-
-in the literature have shown that co-administration of carbapenems, including meropenem, to patients receiving valproic
-
-acid or divalproex sodium results in a reduction in valproic acid concentrations.
-The valproic acid concentrations may
-
-drop below the therapeutic range as a result of this interaction, therefore increasing the risk of breakthrough seizures.
-
+Case reports in the literature have shown that co-administration of carbapenems, including meropenem, to patients receiving valproic acid or divalproex sodium results in a reduction in valproic acid concentrations.
+The valproic acid concentrations may drop below the therapeutic range as a result of this interaction, therefore increasing the risk of breakthrough seizures.
 Increasing the dose of valproic acid or divalproex sodium may not be sufficient to overcome this interaction.
-Consider
-
-administration of antibacterial drugs other than carbapenems to treat infections in patients whose seizures are well
-
-controlled on valproic acid or divalproex sodium.
-If administration of MERREM IV is necessary, consider supplemental
-
-anti-convulsant therapy [see Drug Interactions (7.2)].
+Consider administration of antibacterial drugs other than carbapenems to treat infections in patients whose seizures are well controlled on valproic acid or divalproex sodium.
+If administration of MERREM IV is necessary, consider supplemental anti-convulsant therapy [see Drug Interactions (7.2)].
 
 ## 5.4 Clostridium difficile–associated Diarrhea
 

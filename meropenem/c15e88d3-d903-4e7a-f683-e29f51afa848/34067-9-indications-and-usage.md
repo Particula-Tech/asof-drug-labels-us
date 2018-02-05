@@ -16,12 +16,6 @@ MERREM IV has been found to be effective in eliminating concurrent bacteremia in
 
 ## 1.4 Usage
 
-To reduce the development of drug-resistant bacteria and maintain the effectiveness of MERREM IV and other antibacterial drugs, MERREM IV should only be used to treat or prevent infections that are proven or strongly suspected
-
-to be caused by susceptible bacteria.
-When culture and susceptibility information are available, they should be considered
-
-in selecting or modifying antibacterial therapy.
-In the absence of such data, local epidemiology and susceptibility patterns
-
-may contribute to the empiric selection of therapy.
+To reduce the development of drug-resistant bacteria and maintain the effectiveness of MERREM IV and other antibacterial drugs, MERREM IV should only be used to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
+When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy.
+In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy.

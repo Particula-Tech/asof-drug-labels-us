@@ -17,19 +17,17 @@ When only serum creatinine is available, the following formula (Cockcroft and Ga
 
 Males: Creatinine Clearance (mL/min) =
 
-Weight (kg) x (140 - age)
+Weight (kg) × (140 - age) 72 × serum creatinine (mg/dL)
 
-72 x serum creatinine (mg/dL)
-
-Females: 0.85 x above value
+Females: 0.85 × above value
 
 Table 1: Recommended MERREM IV Dosage Schedule for Adult Patients with Renal Impairment
 
 | Creatinine Clearance (mL/min) | Dose (dependent on type of infection) | Dosing Interval |
 | --- | --- | --- |
 | Greater than 50 | Recommended dose (500 mg cSSSI and 1 gram Intra-abdominal) | Every 8 hours |
-| 26-50 | Recommended dose | Every 12 hours |
-| 10-25 | One-half recommended dose | Every 12 hours |
+| 26–50 | Recommended dose | Every 12 hours |
+| 10–25 | One-half recommended dose | Every 12 hours |
 | Less than 10 | One-half recommended dose | Every 24 hours |
 
 There is inadequate information regarding the use of MERREM IV in patients on hemodialysis or peritoneal dialysis.
@@ -38,11 +36,11 @@ There is inadequate information regarding the use of MERREM IV in patients on he
 
 Pediatric Patients 3 Months of Age and Older
 
-- •For pediatric patients 3 months of age and older, the MERREM IV dose is 10 mg/kg, 20 mg/kg or 40 mg/kg every 8 hours (maximum dose is 2 grams every 8 hours), depending on the type of infection (cSSSI, cIAI, intra-abdominal infection or meningitis).
+- For pediatric patients 3 months of age and older, the MERREM IV dose is 10 mg/kg, 20 mg/kg or 40 mg/kg every 8 hours (maximum dose is 2 grams every 8 hours), depending on the type of infection (cSSSI, cIAI, intra-abdominal infection or meningitis).
   See dosing table 2 below.
-- •For pediatric patients weighing over 50 kg administer MERREM IV at a dose of 500 mg every 8 hours for cSSSI, 1 gram every 8 hours for cIAI and 2 grams every 8 hours for meningitis.
-- •Administer MERREM IV as an intravenous infusion over approximately 15 minutes to 30 minutes or as an intravenous bolus injection (5 mL to 20 mL) over approximately 3 minutes to 5 minutes.
-- •There is limited safety data available to support the administration of a 40 mg/kg (up to a maximum of 2 grams) bolus dose.
+- For pediatric patients weighing over 50 kg administer MERREM IV at a dose of 500 mg every 8 hours for cSSSI, 1 gram every 8 hours for cIAI and 2 grams every 8 hours for meningitis.
+- Administer MERREM IV as an intravenous infusion over approximately 15 minutes to 30 minutes or as an intravenous bolus injection (5 mL to 20 mL) over approximately 3 minutes to 5 minutes.
+- There is limited safety data available to support the administration of a 40 mg/kg (up to a maximum of 2 grams) bolus dose.
 
 Table 2: Recommended MERREM IV Dosage Schedule for Pediatric Patients 3 Months of Age and Older with Normal Renal Function
 
@@ -51,10 +49,7 @@ Table 2: Recommended MERREM IV Dosage Schedule for Pediatric Patients 3 Months o
 | Complicated skin and skin structure infections | 10 | 500 mg | Every 8 hours |
 | Complicated intra-abdominal infections | 20 | 1 gram | Every 8 hours |
 | Meningitis | 40 | 2 grams | Every 8 hours |
-
-There is no experience in pediatric patients with renal impairment.
-
-When treating cSSSI caused by P. aeruginosa, a dose of 20 mg/kg (or 1 gram for pediatric patients weighing over 50 kg) every 8 hours is recommended.
+| There is no experience in pediatric patients with renal impairment. When treating cSSSI caused by P. aeruginosa, a dose of 20 mg/kg (or 1 gram for pediatric patients weighing over 50 kg) every 8 hours is recommended. |  |  |  |
 
 Pediatric Patients Less Than 3 Months of Age
 
@@ -70,16 +65,13 @@ Table 3: Recommended MERREM IV Dosage Schedule for Pediatric Patients Less than 
 | Infants less than 32 weeks GA and PNA 2 weeks and older | 20 | Every 8 hours |
 | Infants 32 weeks and older GA and PNA less than 2 weeks | 20 | Every 8 hours |
 | Infants 32 weeks and older GA and PNA 2 weeks and older | 30 | Every 8 hours |
-
-There is no experience in pediatric patients with renal impairment.
+| There is no experience in pediatric patients with renal impairment. |  |  |
 
 ## 2.4 Preparation and Administration of MERREM IV
 
 Important Administration Instructions:
 
-Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration,
-
-whenever solution and container permit.
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 
 For Intravenous Bolus Administration
 
@@ -88,16 +80,16 @@ Shake to dissolve and let stand until clear.
 
 Table 4: Volume of Sterile Water for Injection for Reconstitution of Injection Vials
 
-| Vial Size | Amount of Diluent Added (mL) | Approximate Withdrawable Volume(mL) | Approximate Average Concentration (mg/mL) |
+| Vial Size | Amount of Diluent Added (mL) | Approximate Withdrawable Volume (mL) | Approximate Average Concentration (mg/mL) |
 | --- | --- | --- | --- |
 | 500 mg | 10 | 10 | 50 |
 | 1 gram | 20 | 20 | 50 |
 
 For Infusion
 
-- •Injection vials (500 mg and 1 gram) may be directly re-constituted with a compatible infusion fluid.
-- •Alternatively, an injection vial may be re-constituted, then the resulting solution added to an intravenous container and further diluted with an appropriate infusion fluid [see Dosage and Administration (2.5) and (2.6)].
-- •Do not use flexible container in series connections.
+- Injection vials (500 mg and 1 gram) may be directly re-constituted with a compatible infusion fluid.
+- Alternatively, an injection vial may be re-constituted, then the resulting solution added to an intravenous container and further diluted with an appropriate infusion fluid [see Dosage and Administration (2.5) and (2.6)].
+- Do not use flexible container in series connections.
 
 ## 2.5 Compatibility
 
@@ -112,10 +104,10 @@ Solutions of intravenous MERREM IV should not be frozen.
 
 Intravenous Bolus Administration
 
-MERREM IV injection vials re-constituted with sterile Water for Injection for bolus administration (up to 50 mg/mL of MERREM IV) may be stored for up to 3 hours at up to 25oC (77oF) or for 13 hours at up to 5oC (41oF).
+MERREM IV injection vials re-constituted with sterile Water for Injection for bolus administration (up to 50 mg/mL of MERREM IV) may be stored for up to 3 hours at up to 25°C (77°F) or for 13 hours at up to 5°C (41°F).
 
 Intravenous Infusion Administration
 
-Solutions prepared for infusion (MERREM IV concentrations ranging from 1 mg/mL to 20 mg/mL) re-constituted with Sodium Chloride Injection 0.9% may be stored for 1 hour at up to 25oC (77oF) or 15 hours at up to 5oC (41oF).
+Solutions prepared for infusion (MERREM IV concentrations ranging from 1 mg/mL to 20 mg/mL) re-constituted with Sodium Chloride Injection 0.9% may be stored for 1 hour at up to 25°C (77°F) or 15 hours at up to 5°C (41°F).
 
 Solutions prepared for infusion (MERREM IV concentrations ranging from 1 mg/mL to 20 mg/mL) re-constituted with Dextrose Injection 5% should be used immediately.
