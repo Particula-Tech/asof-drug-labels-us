@@ -16,7 +16,7 @@ Advise patients to report to their healthcare provider if they experience any si
 
 Drug Interactions
 
-Instruct patients to inform their healthcare provider of any other medications they are currently taking, including rilpivirine-containing products [Contraindications (4)], high dose methotrexate [Warnings and Precautions (5.12)] and over-the-counter medications.
+Instruct patients to inform their healthcare provider of any other medications they are currently taking, including rilpivirine-containing products [Contraindications (4)] and high dose methotrexate [Warnings and Precautions (5.13)].
 
 Pregnancy
 
