@@ -129,4 +129,4 @@ If bullous pemphigoid is suspected, alogliptin and pioglitazone tablets should b
 
 ## 5.12 Macrovascular Outcomes
 
-There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with alogliptin and pioglitazone tablets or any other antidiabetic drug.
+There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with alogliptin and pioglitazone tablets.

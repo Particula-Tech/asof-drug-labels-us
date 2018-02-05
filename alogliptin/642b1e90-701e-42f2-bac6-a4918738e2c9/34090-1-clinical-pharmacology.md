@@ -57,7 +57,7 @@ In patients with type 2 diabetes, the decreased insulin resistance produced by p
 In controlled clinical trials, pioglitazone had an additive effect on glycemic control when used in combination with a sulfonylurea, metformin or insulin [see Clinical Studies (14)].
 Patients with lipid abnormalities were included in clinical trials with pioglitazone.
 Overall, patients treated with pioglitazone had mean decreases in serum triglycerides, mean increases in HDL cholesterol and no consistent mean changes in LDL and total cholesterol.
-There is no conclusive evidence of macrovascular benefit with pioglitazone or any other antidiabetic medication [see Warnings and Precautions (5.11) and Adverse Reactions (6.1)].
+There is no conclusive evidence of macrovascular benefit with pioglitazone [see Warnings and Precautions (5.12) and Adverse Reactions (6.1)].
 
 In a 26 week, placebo-controlled, dose-ranging monotherapy study, mean serum triglycerides decreased in the pioglitazone 15 mg, 30 mg and 45 mg dose groups compared to a mean increase in the placebo group.
 Mean HDL cholesterol increased to a greater extent in patients treated with pioglitazone than in the placebo-treated patients.
@@ -195,7 +195,7 @@ Alogliptin
 Total exposure to alogliptin was approximately 10% lower and peak exposure was approximately 8% lower in patients with moderate hepatic impairment (Child-Pugh Grade B) compared to healthy subjects.
 The magnitude of these reductions is not considered to be clinically meaningful.
 Patients with severe hepatic impairment (Child-Pugh Grade C) have not been studied.
-Use caution when administering alogliptin and pioglitazone tablets to patients with liver disease [see Use in Specific Populations (8.6) and Warnings and Precautions (5.4)].
+Use caution when administering alogliptin and pioglitazone tablets to patients with liver disease [see Use in Specific Populations (8.7) and Warnings and Precautions (5.4)].
 
 Pioglitazone
 
@@ -275,8 +275,8 @@ No dose adjustment of alogliptin is recommended based on results of the describe
 Figure 1.
 Effect of Alogliptin on the Pharmacokinetic Exposure to Other Drugs
 
-*Warfarin was given once daily at a stable dose in the range of 1 mg to 10 mg.
-Alogliptin had no significant effect on the prothrombin time (PT) or International Normalized Ratio (INR). **Caffeine (1A2 substrate), tolbutamide (2C9 substrate), dextromethorphan (2D6 substrate), midazolam (3A4 substrate) and fexofenadine (P-gp substrate) were administered as a cocktail.
+* Warfarin was given once daily at a stable dose in the range of 1 mg to 10 mg.
+Alogliptin had no significant effect on the prothrombin time (PT) or International Normalized Ratio (INR). ** Caffeine (1A2 substrate), tolbutamide (2C9 substrate), dextromethorphan (2D6 substrate), midazolam (3A4 substrate) and fexofenadine (P-gp substrate) were administered as a cocktail.
 
 Effects of Other Drugs on the Pharmacokinetics of Alogliptin
 
@@ -329,6 +329,7 @@ Effect of Coadministered Drugs on Pioglitazone Systemic Exposure
 | Rifampin 600 mg daily for 5 days (N=10) | 30 mg single dose | ↓54% | ↓5% |
 | Fexofenadine 60 mg twice daily for 7 days (N=23) | 45 mg | ↑1% | 0% |
 | Ranitidine 150 mg twice daily for 4 days (N=23) | 45 mg | ↓13% | ↓16% |
-| Nifedipine ER 30 mg daily for 7 days (N = 23) | 45 mg | ↑5% | ↑4% |
+| Nifedipine ER 30 mg daily for 7 days (N=23) | 45 mg | ↑5% | ↑4% |
 | Atorvastatin Ca 80 mg daily for 7 days (N=24) | 45 mg | ↓24% | ↓31% |
 | Theophylline 400 mg twice daily for 7 days (N=22) | 45 mg | ↓4% | ↓2% |
+| Topiramate 96 mg twice daily for 7 daysIndicates duration of concomitant administration with highest twice-daily dose of topiramate from Day 14 onwards over the 22 days of study (N=26) | 30 mg | ↓15%Additional decrease in active metabolites; 60% for M-III and 16% for M-IV | 0% |

@@ -34,7 +34,7 @@ Alogliptin
 Alogliptin administered to pregnant rabbits and rats during the period of organogenesis did not cause adverse developmental effects at doses of up to 200 mg/kg and 500 mg/kg, or 149 times and 180 times, the 25 mg clinical dose, respectively, based on plasma drug exposure (AUC).
 Placental transfer of alogliptin into the fetus was observed following oral dosing to pregnant rats.
 
-No adverse developmental outcomes were observed in offspring when alogliptin was administered to pregnant rats during gestation and lactation at doses up to 250 mg/kg (~ 95 times the 25 mg clinical dose, based on AUC).
+No adverse developmental outcomes were observed in offspring when alogliptin was administered to pregnant rats during gestation and lactation at doses up to 250 mg/kg (~95 times the 25 mg clinical dose, based on AUC).
 
 Pioglitazone
 

@@ -61,7 +61,7 @@ Overall discontinuation of therapy due to adverse reactions was 6.8% with alogli
 Adverse reactions reported in ≥4% of patients treated with alogliptin 25 mg and more frequently than in patients who received placebo are summarized in Table 2.
 
 Table 2.
-Adverse Reactions Reported in ≥4% Patients Treated with Alogliptin 25 mg and More Frequently Than in Patients Given Placebo in Pooled Studies
+Adverse Reactions Reported in ≥4% Patients Treated with Alogliptin 25 mg and More Frequently than in Patients Given Placebo in Pooled Studies
 
 |  | N=6447 | N=3469 | N=2257 |
 | --- | --- | --- | --- |
@@ -243,7 +243,7 @@ Acute pancreatitis, hypersensitivity reactions including anaphylaxis, angioedema
 Pioglitazone
 
 The following adverse reactions have been identified during the postmarketing use of pioglitazone.
-Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 New onset or worsening diabetic macular edema with decreased visual acuity [see Warnings and Precautions (5.9)].
 

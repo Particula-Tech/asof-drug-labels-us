@@ -164,7 +164,7 @@ Distributed By Perrigo® Allegan, MI 49010 • www.perrigo.com
 
 All trademarks are the property of their respective owners
 
-ALS333 R3
+ALS333 R4
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 12/2016

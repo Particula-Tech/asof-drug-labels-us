@@ -9,7 +9,7 @@ As is typical for trials of agents to treat type 2 diabetes, the mean reduction 
 
 Alogliptin and Pioglitazone Coadministration in Patients with Type 2 Diabetes Inadequately Controlled on Diet and Exercise
 
-In a 26 week, double-blind, active-controlled study, a total of 655 patients inadequately controlled on diet and exercise alone (mean baseline A1C = 8.8%) were randomized to receive alogliptin 25 mg alone, pioglitazone 30 mg alone, alogliptin 12.5 mg with pioglitazone 30 mg or alogliptin 25 mg with pioglitazone 30 mg once daily.
+In a 26 week, double-blind, active-controlled study, a total of 655 patients inadequately controlled on diet and exercise alone (mean baseline A1C=8.8%) were randomized to receive alogliptin 25 mg alone, pioglitazone 30 mg alone, alogliptin 12.5 mg with pioglitazone 30 mg or alogliptin 25 mg with pioglitazone 30 mg once daily.
 Coadministration of alogliptin 25 mg with pioglitazone 30 mg resulted in statistically significant improvements from baseline in A1C and FPG compared to either alogliptin 25 mg alone or to pioglitazone 30 mg alone (Table 10).
 Coadministration of alogliptin 25 mg with pioglitazone 30 mg once daily resulted in statistically significant reductions in fasting plasma glucose (FPG) starting from Week 2 through Week 26 compared to either alogliptin 25 mg or pioglitazone 30 mg alone.
 A total of 3% of patients receiving alogliptin 25 mg coadministered with pioglitazone 30 mg, 11% of those receiving alogliptin 25 mg alone, and 6% of those receiving pioglitazone 30 mg alone required glycemic rescue.
@@ -69,7 +69,7 @@ Change from Baseline in A1C at Week 26 with Alogliptin and Pioglitazone Alone an
 Alogliptin Add-On Therapy in Patients with Type 2 Diabetes Inadequately Controlled on Metformin in Combination with Pioglitazone
 
 In a 52 week, active-comparator study, a total of 803 patients inadequately controlled (mean baseline A1C = 8.2%) on a current regimen of pioglitazone 30 mg and metformin at least 1500 mg per day or at the maximum tolerated dose were randomized to either receive the addition of alogliptin 25 mg or the titration of pioglitazone 30 mg to 45 mg following a four week, single-blind, placebo run-in period.
-Patients were maintained on a stable dose of metformin (median dose = 1700 mg).
+Patients were maintained on a stable dose of metformin (median dose=1700 mg).
 Patients who failed to meet prespecified hyperglycemic goals during the 52 week treatment period received glycemic rescue therapy.
 
 In combination with pioglitazone and metformin, alogliptin 25 mg was shown to be statistically superior in lowering A1C and FPG compared with the titration of pioglitazone from 30 mg to 45 mg at Week 26 and Week 52 (Table 12, results shown only for Week 52).
@@ -97,8 +97,8 @@ Glycemic Parameters at Week 52 in an Active-Controlled Study of Alogliptin as Ad
 Alogliptin Add-On Therapy to a Thiazolidinedione
 
 A 26 week, placebo-controlled study, was conducted to evaluate the efficacy and safety of alogliptin as add-on therapy to pioglitazone in patients with type 2 diabetes.
-A total of 493 patients inadequately controlled on a thiazolidinedione alone or in combination with metformin or a sulfonylurea (mean baseline A1C = 8%) were randomized to receive alogliptin 12.5 mg, alogliptin 25 mg or placebo.
-Patients were maintained on a stable dose of pioglitazone (median dose = 30 mg) during the treatment period and those who were also previously treated on metformin (median dose = 2000 mg) or sulfonylurea (median dose = 10 mg) prior to randomization were maintained on the combination therapy during the treatment period.
+A total of 493 patients inadequately controlled on a thiazolidinedione alone or in combination with metformin or a sulfonylurea (mean baseline A1C=8%) were randomized to receive alogliptin 12.5 mg, alogliptin 25 mg or placebo.
+Patients were maintained on a stable dose of pioglitazone (median dose=30 mg) during the treatment period and those who were also previously treated on metformin (median dose=2000 mg) or sulfonylurea (median dose=10 mg) prior to randomization were maintained on the combination therapy during the treatment period.
 All patients entered into a four week, single-blind, placebo run-in period prior to randomization.
 Following randomization, all patients continued to receive instruction on diet and exercise.
 Patients who failed to meet prespecified hyperglycemic goals during the 26 week treatment period received glycemic rescue.
@@ -159,8 +159,8 @@ Patients with MACE in EXAMINE
 | Number of Patients (%) | Rate per 100 PYPatient Years (PY) | Number of Patients (%) | Rate per 100 PY | (98% CI) |  |
 | N=2701 |  | N=2679 |  |  |  |
 | CV Death | 89 (3.3) | 2.2 | 111 (4.1) | 2.8 |  |
-| Non-fatal MI | 187 (6.9) | 4.6 | 173 (6.5) | 4.3 |  |
-| Non-fatal stroke | 29 (1.1) | 0.7 | 32 (1.2) | 0.8 |  |
+| Nonfatal MI | 187 (6.9) | 4.6 | 173 (6.5) | 4.3 |  |
+| Nonfatal stroke | 29 (1.1) | 0.7 | 32 (1.2) | 0.8 |  |
 
 The Kaplan-Meier based cumulative event probability is presented in Figure 4 for the time to first occurrence of the primary MACE composite endpoint by treatment arm.
 The curves for placebo and alogliptin overlap throughout the duration of the study.
