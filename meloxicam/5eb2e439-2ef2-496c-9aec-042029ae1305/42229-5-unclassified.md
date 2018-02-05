@@ -4,7 +4,7 @@ Cadila Healthcare Ltd.
 
 India.
 
-Rev.: 12/16
+Rev.: 02/18
 
 Manufactured by:
 
