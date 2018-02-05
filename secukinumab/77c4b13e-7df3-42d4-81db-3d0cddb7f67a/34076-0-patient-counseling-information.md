@@ -1,10 +1,10 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read FDA-approved patient labeling [Medication Guide and Instructions for Use].
+Advise the patient to read FDA-approved patient labeling (Medication Guide and Instructions for Use).
 
 Patient Counseling
 
-Instruct patients to read the Medication Guide before starting COSENTYX therapy and to reread the Medication Guide each time the prescription is renewed.
+Instruct patients to read the Medication Guide before starting COSENTYX therapy and to re-read the Medication Guide each time the prescription is renewed.
 
 Advise patients of the potential benefits and risks of COSENTYX.
 
@@ -30,4 +30,4 @@ Manufactured by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 0
 
 © Novartis
 
-T2017-94
+T2018-05

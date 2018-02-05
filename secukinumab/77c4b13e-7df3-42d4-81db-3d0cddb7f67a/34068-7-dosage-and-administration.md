@@ -26,7 +26,7 @@ Administer COSENTYX with or without a loading dosage by subcutaneous injection.
 The recommended dosage:
 
 - With a loading dosage is 150 mg at weeks 0, 1, 2, 3, and 4 and every 4 weeks thereafter
-- Without a loading dosage is 150 mg every 4 weeks
+- Without a loading dosage is 150 mg every 4 weeks.
 
 ## 2.4 Assessment Prior to Initiation of COSENTYX
 

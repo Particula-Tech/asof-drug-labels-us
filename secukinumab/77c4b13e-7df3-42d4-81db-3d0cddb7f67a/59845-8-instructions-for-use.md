@@ -1,6 +1,6 @@
 INSTRUCTIONS FOR USE
 
-COSENTYXTM (koe-sen’-tix)
+COSENTYX® (koe-sen-tix)
 
 (secukinumab)
 
@@ -30,7 +30,7 @@ Instructions for reconstitution of COSENTYX 150 mg for injection:
 | Step 1. Remove the vial of COSENTYX 150 mg for injection from the refrigerator and allow to stand for 15 to 30 minutes to reach room temperature. Ensure the Sterile Water for Injection (SWFI) is at room temperature. Step 2. Reconstitute the lyophilized powder by slowly injecting 1 mL of Sterile Water for Injection (SWFI) into the vial. Direct the stream of SWFI onto the lyophilized powder (See Figure A). | Figure A |
 | --- | --- |
 | Step 3. Tilt the vial to an angle of approximately 45 degrees and gently rotate between the fingertips for approximately 1 minute. Do not shake or invert the vial (See Figure B). Step 4. Keep the vial standing at room temperature for a minimum of 10 minutes to allow for dissolution. Note that foaming of the solution may occur. Step 5. Tilt the vial to an angle of approximately 45 degrees and gently rotate between the fingertips for approximately 1 minute. Do not shake or invert the vial (See Figure B). Step 6. Allow the vial to stand undisturbed at room temperature for approximately 5 minutes. The resulting solution should be clear. Its color may vary from colorless to slightly yellow. Do not use if the lyophilized powder has not fully dissolved or if the liquid contains visible particles, is cloudy or is discolored. Step 7. Prepare the required number of vials (1 vial for the 150 mg dose or 2 vials for the 300 mg dose). | Figure B |
-| After preparation, use the solution for subcutaneous injection immediately or store at 2°C to 8 °C (36°F to 46°F) for up to 24 hours. Do not freeze. After storage at 2°C to 8 °C (36°F to 46°F), allow the reconstituted solution to come to room temperature (15 to 30 minutes) before administration. Administer the solution within 1 hour after removal from the 2°C to 8°C (36°F to 46°F) storage. |  |
+| After preparation, use the solution for subcutaneous injection immediately or store at 2°C to 8°C (36°F to 46°F) for up to 24 hours. Do not freeze. After storage at 2°C to 8°C (36°F to 46°F), allow the reconstituted solution to come to room temperature (15 to 30 minutes) before administration. Administer the solution within 1 hour after removal from the 2°C to 8°C (36°F to 46°F) storage. |  |
 | Instructions for administration of COSENTYX solution: |  |
 | Step 1. Tilt the vial to an angle of approximately 45 degrees and position the needle tip at the very bottom of the solution in the vial when drawing the solution into the syringe. DO NOT invert the vial. Step 2. Carefully withdraw slightly more than 1 mL of the solution for subcutaneous injection from the vial into a 1 mL graduated disposable syringe using a suitable needle (e.g., 21G x 2”) (See Figure C). This needle will only be used for withdrawing COSENTYX into the disposable syringe. Prepare the required number of syringes (1 syringe for the 150 mg dose or 2 syringes for the 300 mg dose). | Figure C |
 | Step 3. With the needle pointing upward, gently tap the syringe to move any air bubbles to the top (See Figure D). | Figure D |
@@ -44,13 +44,13 @@ Instructions for reconstitution of COSENTYX 150 mg for injection:
 | When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container. There may be state or local laws about how you should throw away used needles and syringes. For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA’s website at: http://www.fda.gov/safesharpsdisposal. |  |
 | This Instructions for Use has been approved by the U.S. Food and Drug Administration. |  |
 | Manufactured by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936 US License Number 1244 |  |
-| Issued: January 2015 |  |
+| Revised: January 2018 |  |
 | © Novartis |  |
-| T2015-09 |  |
+| T2018-07 |  |
 
 INSTRUCTIONS FOR USE
 
-COSENTYXTM (koe-sen’-tix)
+COSENTYX® (koe-sen-tix)
 
 (secukinumab)
 
@@ -116,13 +116,13 @@ Keep COSENTYX and all medicines out of the reach of children.
 | Step 16. Put your used prefilled syringes in a FDA-cleared sharps disposal container right away after use (see Figure J). Do not throw away (dispose of) prefilled syringes in your household trash. If you do not have an FDA-cleared sharps disposal container, you may use a household container that is: made of a heavy-duty plastic,can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,upright and stable during use,leak-resistant, andproperly labeled to warn of hazardous waste inside the container. When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container. There may be state or local laws about how you should throw away used needles, syringes and prefilled syringes. For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA’s website at: http://www.fda.gov/safesharpsdisposal. | Figure J |
 | This Instructions for Use has been approved by the U.S. Food and Drug Administration. |  |
 | Manufactured by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936 US License Number 1244 |  |
-| Issued: January 2015 |  |
+| Revised: January 2018 |  |
 | © Novartis |  |
-| T2015-10 |  |
+| T2018-08 |  |
 
 INSTRUCTIONS FOR USE
 
-COSENTYXTM (koe-sen’-tix)
+COSENTYX® (koe-sen-tix)
 
 (secukinumab)
 
@@ -177,4 +177,4 @@ Keep COSENTYX and all medicines out of the reach of children.
 | Step 8. Check the green indicator fills the window (see Figure L): This means the medicine has been delivered. Contact your healthcare provider if the green indicator is not visible.There may be a small amount of blood at the injection site. You can press a cotton ball or gauze over the injection site and hold it for 10 seconds. Do not rub the injection site. You may cover the injection site with a small adhesive bandage, if needed. If your prescribed dose of COSENTYX is 300 mg, repeat steps 1 through 8 with a new COSENTYX Sensoready Pen. | Figure L |
 | How should I dispose of used COSENTYX Sensoready Pens? |  |
 | Step 9. Put your used Sensoready Pens in a FDA-cleared sharps disposal container right away after use (see Figure M). Do not throw away (dispose of) Sensoready Pens in your household trash. If you do not have an FDA-cleared sharps disposal container, you may use a household container that is: made of a heavy-duty plastic,can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,upright and stable during use,leak-resistant, andproperly labeled to warn of hazardous waste inside the container. When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container. There may be state or local laws about how you should throw away used needles, syringes, and Sensoready Pens. For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA’s website at: http://www.fda.gov/safesharpsdisposal. | Figure M |
-| This Instructions for Use has been approved by the U.S. Food and Drug Administration. Manufactured by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936 US License Number 1244 Issued: January 2015 © Novartis T2015-11 |  |
+| This Instructions for Use has been approved by the U.S. Food and Drug Administration. Manufactured by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936 US License Number 1244 Revised: January 2018 © Novartis T2018-09 |  |

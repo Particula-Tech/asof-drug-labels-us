@@ -44,7 +44,7 @@ Table 2: Clinical Outcomes at Week 12 in Adults with Plaque Psoriasis in Trials 
 
 |  | Trial 1 |  |  | Trial 2 |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | COSENTYX 300 mg (N=245) n (%) | COSENTYX 150 mg (N=245) n (%) | Placebo (N=248) n (%) | COSENTYX 300 mg (N=327) n (%) | COSENTYX 150 mg (N=327) n (%) | Placebo (N=326) n (%) |
+|  | COSENTYX 300 mg (N = 245) n (%) | COSENTYX 150 mg (N = 245) n (%) | Placebo (N = 248) n (%) | COSENTYX 300 mg (N = 327) n (%) | COSENTYX 150 mg (N = 327) n (%) | Placebo (N = 326) n (%) |
 | PASI 75 response | 200 (82) | 174 (71) | 11 (4) | 249 (76) | 219 (67) | 16 (5) |
 | IGA of clear or almost clear | 160 (65) | 125 (51) | 6 (2) | 202 (62) | 167 (51) | 9 (3) |
 
@@ -54,7 +54,7 @@ Table 3: Clinical Outcomes at Week 12 in Adults with Plaque Psoriasis in Trials 
 
 |  | Trial 3 |  |  | Trial 4 |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | COSENTYX 300 mg (N=59) n (%) | COSENTYX 150 mg (N=59) n (%) | Placebo (N=59) n (%) | COSENTYX 300 mg (N=60) n (%) | COSENTYX 150 mg (N=61) n (%) | Placebo (N=61) n (%) |
+|  | COSENTYX 300 mg (N = 59) n (%) | COSENTYX 150 mg (N = 59) n (%) | Placebo (N = 59) n (%) | COSENTYX 300 mg (N = 60) n (%) | COSENTYX 150 mg (N = 61) n (%) | Placebo (N = 61) n (%) |
 | PASI 75 response | 44 (75) | 41 (69) | 0 (0) | 52 (87) | 43 (70) | 2 (3) |
 | IGA of clear or almost clear | 40 (68) | 31 (53) | 0 (0) | 44 (73) | 32 (52) | 0 (0) |
 
@@ -70,6 +70,12 @@ Similarly in Trial 2, PASI 75 responders maintained their responses in 84% (210/
 Trial 2 subjects who were clear or almost clear on the IGA also maintained their responses in 80% (161/202) of subjects treated with COSENTYX 300 mg and in 68% (113/167) of subjects treated with COSENTYX 150 mg.
 
 Among the subjects who chose to participate (39%) in assessments of patient reported outcomes, improvements in signs and symptoms related to itching, pain, and scaling, at Week 12 compared to placebo (Trials 1 and 2) were observed using the Psoriasis Symptom Diary©.
+
+Psoriasis Lesions of Scalp
+
+A randomized, placebo-controlled study enrolled 102 subjects with moderate to severe psoriasis lesions of scalp, defined as having a Psoriasis Scalp Severity Index (PSSI) score of greater than or equal to 12, an IGA scalp only score of 3 or greater, and at least 30% of the scalp affected.
+In this study, 62% of subjects had at least 50% of scalp surface area affected.
+The proportions of subjects achieving an IGA scalp only score of 0 or 1 (clear or almost clear) were 56.9% and 5.9% for the COSENTYX 300 mg and the placebo groups, respectively.
 
 ## 14.2 Psoriatic Arthritis
 
@@ -93,13 +99,13 @@ In PsA1, patients treated with 150 mg or 300 mg COSENTYX demonstrated a greater 
 Responses were similar in patients regardless of concomitant methotrexate treatment.
 Responses were seen regardless of prior anti-TNFα exposure.
 
-In patients with coexistent plaque psoriasis receiving COSENTYX (n=99), the skin lesions of psoriasis improved with treatment, relative to placebo, as measured by the Psoriasis Area Severity Index (PASI).
+In patients with coexistent plaque psoriasis receiving COSENTYX (n = 99), the skin lesions of psoriasis improved with treatment, relative to placebo, as measured by the Psoriasis Area Severity Index (PASI).
 
 Table 4: Responsesa in PsA1 Study at Week 16 and Week 24
 
 |  | COSENTYX | COSENTYX | Placebo | Difference from placebo (95% CI) |  |
 | --- | --- | --- | --- | --- | --- |
-|  | 150 mg (N=100) | 300 mg (N=100) | (N=98) | COSENTYX 150 mg | COSENTYX 300 mg |
+|  | 150 mg (N = 100) | 300 mg (N = 100) | (N = 98) | COSENTYX 150 mg | COSENTYX 300 mg |
 | ACR20 response |  |  |  |  |  |
 | Week 16 (%) | 60 | 57 | 18 | 42 (30, 54) | 38 (26, 51) |
 | Week 24 (%) | 51 | 54 | 15 | 36 (24, 48) | 39 (27, 51) |
@@ -116,13 +122,13 @@ Patients on placebo who received COSENTYX without a loading regimen achieved sim
 
 Figure 1: Percent of Patients Achieving ACR 20 Responsea in PsA1 Study Through Week 24
 
-a Patients who met escape criteria (less than 20% improvement in tender or swollen joint counts) at Week 16 were considered non-responders
+aPatients who met escape criteria (less than 20% improvement in tender or swollen joint counts) at Week 16 were considered non-responders
 
 The improvements in the components of the ACR response criteria are shown in Table 5.
 
 Table 5: Mean Change from Baseline in ACR Components at Week 16a (PsA1 Study)
 
-|  | COSENTYX 150 mg (N=100) | COSENTYX 300 mg (N=100) | Placebo (N=98) |
+|  | COSENTYX 150 mg (N = 100) | COSENTYX 300 mg (N = 100) | Placebo (N = 98) |
 | --- | --- | --- | --- |
 | No. of Swollen Joints |  |  |  |
 | Baseline | 12.0 | 11.2 | 12.1 |

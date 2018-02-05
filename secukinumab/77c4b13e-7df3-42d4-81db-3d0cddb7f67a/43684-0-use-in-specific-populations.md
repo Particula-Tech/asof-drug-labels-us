@@ -2,22 +2,30 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category B
+Risk Summary
 
-There are no adequate and well controlled trials of COSENTYX in pregnant women.
-Developmental toxicity studies conducted with monkeys found no evidence of harm to the fetus due to secukinumab.
-COSENTYX should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Limited available human data with COSENTYX use in pregnant women are insufficient to inform a drug associated risk of adverse developmental outcomes.
+In an embryo-fetal development study, no adverse developmental effects were observed in infants born to pregnant monkeys after subcutaneous administration of secukinumab during organogenesis at doses up to 30 times the maximum recommended human dose (MRHD) (see Data).
 
-An embryofetal development study was performed in cynomolgus monkeys with secukinumab.
-No malformations or embryofetal toxicity were observed in fetuses from pregnant monkeys that were administered secukinumab weekly by the subcutaneous route during the period of organogenesis at doses up to 30 times the maximum recommended human dose (MRHD; on a mg/kg basis at a maternal dose of 150 mg/kg).
+The background risk of major birth defects and miscarriage for the indicated population is unknown; however, the background risk in the U.S. general population of major birth defects is 2%-4% and of miscarriage is 15%-20% of clinically recognized pregnancies.
+
+Data
+
+Animal Data
+
+An embryo-fetal development study was performed in cynomolgus monkeys with secukinumab.
+No malformations or embryo-fetal toxicity were observed in fetuses from pregnant monkeys that were administered secukinumab weekly by the subcutaneous route during the period of organogenesis at doses up to 30 times the MRHD (on a mg/kg basis at a maternal dose of 150 mg/kg).
 
 A pre- and post-natal development toxicity study was performed in mice with a murine analog of secukinumab.
 No treatment related effects on functional, morphological or immunological development were observed in fetuses from pregnant mice that were administered the murine analog of secukinumab on gestation days 6, 11, and 17 and on postpartum days 4, 10, and 16 at doses up to 150 mg/kg/dose.
 
-## 8.3 Nursing Mothers
+## 8.2 Lactation
+
+Risk Summary
 
 It is not known whether secukinumab is excreted in human milk or absorbed systemically after ingestion.
-Because many drugs are excreted in human milk, caution should be exercised when COSENTYX is administered to a nursing woman.
+There are no data on the effects of COSENTYX on the breastfed child or the effects on milk production.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for COSENTYX and any potential adverse effects on the breastfed child from COSENTYX or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
