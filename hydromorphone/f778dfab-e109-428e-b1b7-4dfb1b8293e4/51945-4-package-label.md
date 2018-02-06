@@ -8,4 +8,4 @@ NDC-13107-108-01 Hydromorphone Hydrochloride Tablets, USP CII 4 mg Bottles of 10
 
 # PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 8 mg (100 Tablet Bottle)
 
-NDC-13107-109-01 Hydromorphone Hydrochloride Tablets, USP CII 8 mg Bottles of 100 Tablets
+NDC 13107-109-01 Hydromorphone Hydrochloride Tablets, USP CII 8 mg Bottles of 100 Tablets
