@@ -2,10 +2,10 @@
 
 The following serious adverse reactions are discussed in greater detail in other sections of the labeling:
 
-- CNS-depressant effects and next-day impairment [see Warnings and Precautions (5.1)]
-- Serious anaphylactic and anaphylactoid reactions [see Warning and Precautions (5.3)]
-- Abnormal thinking and behavior changes, and complex behaviors [see Warning and Precautions (5.4)]
-- Withdrawal effects [see Warning and Precautions (5.7)]
+- •CNS-depressant effects and next-day impairment [see Warnings and Precautions (5.1)]
+- •Serious anaphylactic and anaphylactoid reactions [see Warning and Precautions (5.3)]
+- •Abnormal thinking and behavior changes, and complex behaviors [see Warning and Precautions (5.4)]
+- •Withdrawal effects [see Warning and Precautions (5.7)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -47,46 +47,39 @@ TABLE 1: Incidence of Treatment-Emergent Adverse Experiences in Placebo-Controll
 | Diarrhea | 1 | - |
 | *Reactions reported by at least 1% of patients treated with oral zolpidem and at a greater frequency than placebo. |  |  |
 
-The following table was derived from a pool of three placebo-controlled long-term efficacy trials involving oral zolpidem.
-These trials involved patients with chronic insomnia who were treated for 28 to 35 nights with zolpidem at doses of 5, 10, or 15 mg.
-The table is limited to data from doses up to and including 10 mg, the highest dose recommended for use.
-The table includes only adverse events occurring at an incidence of at least 1% for zolpidem patients.
-
 TABLE 2: Incidence of Treatment-Emergent Adverse Experiences in Placebo-Controlled Clinical Trials with zolpidem tartrate lasting up to 35 nights (Percentage of patients reporting)
 
-| Body System/ Adverse Event* | Zolpidem tartrate (≤ 10 mg) (N=152) | Placebo (N=161) |
-| --- | --- | --- |
-| Autonomic Nervous System | 3 | 1 |
-| Dry mouth |  |  |
-| Body as a Whole |  |  |
-| Allergy | 4 | 1 |
-| Back Pain | 3 | 2 |
-| Influenza-like symptoms | 2 | - |
-| Chest pain | 1 | - |
-| Cardiovascular System |  |  |
-| Palpitation | 2 | - |
-| Central and Peripheral Nervous System |  |  |
-| Drowsiness | 8 | 5 |
-| Dizziness | 5 | 1 |
-| Lethargy | 3 | 1 |
-| Drugged feeling | 3 | - |
-| Lightheadedness | 2 | 1 |
-| Depression | 2 | 1 |
-| Abnormal dreams | 1 | - |
-| Amnesia | 1 | - |
-| Sleep disorder | 1 | - |
-| Gastrointestinal System |  |  |
-| Diarrhea | 3 | 2 |
-| Abdominal pain | 2 | 2 |
-| Constipation | 2 | 1 |
-| Respiratory System |  |  |
-| Sinusitis | 4 | 2 |
-| Pharyngitis | 3 | 1 |
-| Skin and Appendages |  |  |
-| Rash | 2 | 1 |
-| *Reactions reported by at least 1% of patients treated with oral zolpidem and at a greater frequency than placebo. |  |  |
-
-Dose relationship for adverse reactions associated with oral zolpidem:
+| Body System/ Adverse Event* | Zolpidem tartrate (≤ 10 mg) (N=152) | Placebo (N=161) |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Autonomic Nervous System | 3 | 1 |  |  |  |
+| Dry mouth |  |  |  |  |  |
+| Body as a Whole |  |  |  |  |  |
+| Allergy | 4 | 1 |  |  |  |
+| Back Pain | 3 | 2 |  |  |  |
+| Influenza-like symptoms | 2 | - |  |  |  |
+| Chest pain | 1 | - |  |  |  |
+| Cardiovascular System |  |  |  |  |  |
+| Palpitation | 2 | - |  |  |  |
+| Central and Peripheral Nervous System |  |  |  |  |  |
+| Drowsiness | 8 | 5 |  |  |  |
+| Dizziness | 5 | 1 |  |  |  |
+| Lethargy | 3 | 1 |  |  |  |
+| Drugged feeling | 3 | - |  |  |  |
+| Lightheadedness | 2 | 1 |  |  |  |
+| Depression | 2 | 1 |  |  |  |
+| Abnormal dreams | 1 | - |  |  |  |
+| Amnesia | 1 | - |  |  |  |
+| Sleep disorder | 1 | - |  |  |  |
+| Gastrointestinal System |  |  |  |  |  |
+| Diarrhea | 3 | 2 |  |  |  |
+| Abdominal pain | 2 | 2 |  |  |  |
+| Constipation | 2 | 1 |  |  |  |
+| Respiratory System |  |  |  |  |  |
+| Sinusitis | 4 | 2 |  |  |  |
+| Pharyngitis | 3 | 1 |  |  |  |
+| Skin and Appendages |  |  |  |  |  |
+| Rash | 2 | 1 |  |  |  |
+| *Reactions reported by at least 1% of patients treated with oral zolpidem and at a greater frequency than placebo. |  |  |  |  |  |
 
 There is evidence from dose comparison trials suggesting a dose relationship for many of the adverse reactions associated with oral zolpidem use, particularly for certain CNS and gastrointestinal adverse events.
 
