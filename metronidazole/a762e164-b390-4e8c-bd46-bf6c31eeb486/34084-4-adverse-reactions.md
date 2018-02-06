@@ -48,9 +48,12 @@ Table 2: Adverse reactions with an incidence of ≥ 1% from North American trial
 | Rash Maculo-Papular | 2 (1.4%) | 0 |
 | Rash | 1 (0.7%) | 3 (2.0%) |
 | Pruritus | 0 | 4 (2.6%) |
-| *OBMT = Omeprazole + PYLERA |  |  |
-| **OAC = Omeprazole + Amoxicillin + Clarithromycin; |  |  |
-| *** Dark stools [see Warnings and Precautions (5.8)] |  |  |
+
+*OBMT = Omeprazole + PYLERA
+
+**OAC = Omeprazole + Amoxicillin + Clarithromycin;
+
+*** Dark stools [see Warnings and Precautions (5.8)]
 
 Adverse reactions with an incidence of <1% for OBMT group are: back pain, vomiting, tongue darkening [see Warnings and Precautions (5.8)], anxiety, gastritis, gastroenteritis, myalgia, chest pain, increased appetite, blood creatine phosphokinase increased, malaise, somnolence, tachycardia, duodenal ulcer, visual disturbance, weight increased.
 

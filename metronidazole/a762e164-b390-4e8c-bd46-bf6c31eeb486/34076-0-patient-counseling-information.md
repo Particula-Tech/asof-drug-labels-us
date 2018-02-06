@@ -61,7 +61,9 @@ Skipping doses or not completing the full course of therapy may (1) decrease the
 
 Distributed By: Allergan USA, Inc. Irvine, CA 92612
 
-© 2017 Allergan.
+© 2018 Allergan.
 All rights reserved.
 
 Pylera® is a registered trademark of Aptalis Pharma Canada ULC, an Allergan affiliate.
+
+Component Number: 73205US11

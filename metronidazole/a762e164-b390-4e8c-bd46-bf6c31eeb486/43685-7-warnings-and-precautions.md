@@ -73,7 +73,7 @@ Metronidazole is a nitroimidazole, and should be used with care in patients with
 A mild leukopenia has been observed during its administration; however, no persistent hematologic abnormalities attributable to metronidazole have been observed in clinical studies.
 Total and differential leukocyte counts are recommended before and after therapy [see Adverse Reactions (6.3)].
 
-## 5.10 Increased Plasma Concentrations in Patients with Hepatic Impairment
+## 5.10 Increased Drug Plasma Concentrations in Patients with Hepatic Impairment
 
 Patients with hepatic impairment metabolize metronidazole slowly, with resultant accumulation of metronidazole in the plasma.
 Patients with mild to moderate hepatic impairment should be monitored for metronidazole associated adverse events.
@@ -126,3 +126,11 @@ Busulfan
 Metronidazole has been reported to increase plasma concentrations of busulfan, which can result in an increased risk for serious busulfan toxicity.
 Do not administer PYLERA concomitantly with busulfan unless the benefit outweighs the risk.
 If no therapeutic alternatives to PYLERA are available, and concomitant administration with busulfan is medically needed, Monitor for busulfan toxicity and busulfan plasma concentrations and adjust the busulfan dose accordingly [see Drug Interactions (7.8)].
+
+## 5.15 Risk of Hepatotoxicity and Death in Patients with Cockayne Syndrome
+
+Cases of severe hepatotoxicity/acute hepatic failure, including cases with a fatal outcome with very rapid onset after treatment initiation in patients with Cockayne syndrome have been reported with products containing metronidazole for systemic use.
+In this population, metronidazole should therefore be used after careful benefit-risk assessment and only if no alternative treatment is available.
+Obtain liver function tests prior to the start of therapy, within the first 2-3 days after initiation of therapy, frequently during therapy and after end of treatment.
+Discontinue metronidazole if elevation of liver function occurs, and monitor liver function tests until the baseline values are reached.
+Advise patients with Cockayne syndrome to stop taking metronidazole immediately if they experience any symptoms of potential liver injury, such as abdominal pain, nausea, change in stool color or jaundice, and to contact their healthcare provider.

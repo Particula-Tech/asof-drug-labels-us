@@ -1,4 +1,4 @@
-# Principal Display Panel
+Principal Display Panel
 
 Pylera 120 count label
 

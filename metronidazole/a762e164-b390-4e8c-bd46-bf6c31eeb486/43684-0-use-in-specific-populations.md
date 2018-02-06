@@ -4,7 +4,7 @@
 
 Risk Summary
 
-PYLERA is contraindicated in women who are pregnant because treatment of Helicobacter pylori infection can be delayed in pregnant women, and the use of drugs of the tetracycline class during the second and third trimester pregnancy can also cause permanent discoloration of the teeth (yellow-gray brown) and possibly inhibit bone development [See Warnings and Precautions (5.2) and Data].
+PYLERA is contraindicated in women who are pregnant because treatment of Helicobacter pylori infection can be delayed in pregnant women, and the use of drugs of the tetracycline class during the second and third trimester pregnancy can also cause permanent discoloration of the teeth (yellow-gray brown) and possibly inhibit bone development [see Warnings and Precautions (5.2) and Data].
 Administration of oral tetracycline to pregnant rats at various doses resulted in yellow fluorescence in teeth and bones in the newborn animals.
 There are maternal risks with high intravenous doses of tetracycline [see Clinical Considerations].
 
@@ -102,4 +102,4 @@ In patients with severe renal impairment, higher serum concentrations of tetracy
 
 Patients with severe hepatic disease metabolize metronidazole slowly, with resultant accumulation of metronidazole and its metabolites in plasma.
 Patients with mild to moderate hepatic impairment should be monitored for metronidazole associated adverse events.
-PYLERA is not recommended in patients with severe hepatic impairment [see Warnings and Precautions (5.10), Clinical Pharmacology (12.3)].
+PYLERA is not recommended in patients with severe hepatic impairment [see Warnings and Precautions (5.10), Clinical Pharmacology (12.3)].].
