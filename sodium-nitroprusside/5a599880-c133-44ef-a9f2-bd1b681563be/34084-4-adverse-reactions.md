@@ -47,3 +47,5 @@ Hematologic: Decreased platelet aggregation.
 Neurologic: Increased intracranial pressure.
 
 Miscellaneous: Flushing, venous streaking, irritation at the infusion site.
+
+To report SUSPECTED ADVERSE REACTIONS, contact Micro Labs USA, Inc. at 1-855-839-8195 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
