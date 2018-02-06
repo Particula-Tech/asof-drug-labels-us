@@ -13,4 +13,4 @@ Tribenzor tablets are supplied for oral administration in the following strength
 | 40 /10 /12.5 mg | Bottle of 30 Bottle of 90 10 blisters of 10 | 65597-117-30 65597-117-90 65597-117-10 | C55 | Grayish red |
 | 40 /10 /25 mg | Bottle of 30 Bottle of 90 10 blisters of 10 | 65597-118-30 65597-118-90 65597-118-10 | C57 | Grayish red |
 
-Store at 25°C (77°F); excursions permitted to 15°C-30°C (59°F-86°F) [see USP Controlled Room Temperature].
+Store at 25ºC (77ºF); excursions permitted to 15ºC-30ºC (59ºF-86ºF) [see USP Controlled Room Temperature].

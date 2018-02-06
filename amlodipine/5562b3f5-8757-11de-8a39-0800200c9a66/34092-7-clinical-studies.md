@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Tribenzor
+## 14.1Tribenzor
 
 The antihypertensive efficacy of Tribenzor was studied in a double-blind, active-controlled study in hypertensive patients.
 A total of 2492 patients with hypertension (mean baseline blood pressure 169/101 mmHg) received olmesartan medoxomil/amlodipine/hydrochlorothiazide 40/10/25 mg (627 patients), olmesartan medoxomil/amlodipine 40/10 mg (628 patients), olmesartan medoxomil/hydrochlorothiazide 40/25 mg (637 patients), or amlodipine/hydrochlorothiazide 10/25 mg (600 patients).
@@ -20,7 +20,8 @@ Table 2 Additional blood pressure reductions on high-dose Tribenzor compared to 
 | Olmesartan medoxomil 40 / amlodipine 10 mg | HCTZ 25 mg | 8.4/4.5 mmHg |
 | Olmesartan medoxomil 40 / HCTZ 25 mg | Amlodipine 10 mg | 7.6/5.4 mmHg |
 | Amlodipine 10 / HCTZ 25 mg | Olmesartan medoxomil 40 mg | 8.1/5.4 mmHg |
-| *all highly statistically significant. |  |  |
+
+*all highly statistically significant.
 
 There were no apparent differences in terms of seated diastolic blood pressure (SeDBP) or seated systolic blood pressure (SeSBP) reductions in black and non-black patients treated with Tribenzor [see Use in Specific Populations (8.8)].
 
@@ -29,9 +30,9 @@ There were no apparent differences in terms of SeDBP or SeSBP reductions in diab
 A total of 440 patients participated in the ambulatory blood pressure monitoring portion of the study.
 Over the 24-hour period, there was a greater reduction in diastolic and systolic ambulatory blood pressure for olmesartan medoxomil/amlodipine/hydrochlorothiazide 40/10/25 mg compared to each of the dual combination therapies (see Figure 1 and Figure 2).
 
-Figure 1: Mean Ambulatory Diastolic Blood Pressure at Endpoint by Treatment and Hour
+Figure 1:Mean Ambulatory Diastolic Blood Pressure at Endpoint by Treatment and Hour
 
-Figure 2: Mean Ambulatory Systolic Blood Pressure at Endpoint by Treatment and Hour
+Figure 2:Mean Ambulatory Systolic Blood Pressure at Endpoint by Treatment and Hour
 
 The blood pressure lowering effects of lower dose strengths of Tribenzor (olmesartan medoxomil/amlodipine/hydrochlorothiazide 20/5/12.5 mg, 40/5/12.5 mg, 40/10/12.5 mg, and 40/5/25 mg) have not been studied.
 

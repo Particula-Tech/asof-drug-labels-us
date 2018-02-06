@@ -1,4 +1,10 @@
-FDA-Approved Patient Labeling Patient Information Tribenzor (TRY-BEN-ZOR) (olmesartan medoxomil, amlodipine, hydrochlorothiazide) Tablets
+FDA-Approved Patient Labeling
+
+Patient Information
+
+Tribenzor (TRY-BEN-ZOR)
+
+(olmesartan medoxomil, amlodipine, hydrochlorothiazide) Tablets
 
 Read the Patient Information that comes with Tribenzor before you take it and each time you get a refill.
 There may be new information.
@@ -7,10 +13,11 @@ This leaflet does not take the place of talking with your doctor about your medi
 What is the most important information I should know about Tribenzor?
 
 - Tribenzor can cause harm or death to an unborn baby.
-- Talk to your doctor about other ways to lower your blood pressure if you become pregnant.
+- Talk to your doctor about other ways to lower your blood pressure if you plan to become pregnant.
 - If you get pregnant while taking Tribenzor, tell your doctor right away.
 
 What is Tribenzor?
+
 Tribenzor is a prescription medicine used to lower blood pressure (hypertension).
 Medicines that lower blood pressure lower your chance of having a stroke or heart attack.
 Tribenzor is not for use as the first medicine to treat your high blood pressure.
@@ -33,6 +40,7 @@ Do not take Tribenzor if you:
 - are taking aliskiren and have diabetes.
 
 What should I tell my doctor before taking Tribenzor?
+
 Before taking Tribenzor, tell your doctor if you:
 
 - are pregnant or plan to become pregnant.
@@ -52,6 +60,7 @@ Before taking Tribenzor, tell your doctor if you:
 
 Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 Some of your other medicines and Tribenzor could affect each other, causing serious side effects.
+
 Especially tell your doctor if you are taking:
 
 - water pills (diuretics)
@@ -61,7 +70,7 @@ Especially tell your doctor if you are taking:
 - narcotic pain medicine
 - sleeping pills and anti-seizure medicines called barbiturates
 - lithium, a medicine used to treat certain kinds of depression
-- medicines used to treat pain or arthritis such as aspirin or non-steroidal anti inflammatory drugs (NSAIDs)
+- medicines used to treat pain or arthritis such as aspirin or non-steroidal anti-inflammatory drugs (NSAIDs)
 - steroids
 - cholesterol lowering medicines
 - tacrolimus and cyclosporine (medicines used to alter the way your immune system works)
@@ -81,11 +90,13 @@ How should I take Tribenzor?
 - If you take too much Tribenzor, call your doctor or Poison Control Center, or go to the nearest hospital emergency room.
 
 What should I avoid while taking Tribenzor?
+
 Drinking alcohol.
 Drinking alcohol during treatment with Tribenzor can cause you to have low blood pressure.
 See “What are the possible side effects of Tribenzor?”
 
 What are the possible side effects of Tribenzor?
+
 Tribenzor may cause serious side effects, including:
 
 - Harm to an unborn baby causing injury or death.
@@ -118,13 +129,13 @@ Tribenzor may cause serious side effects, including:
   - low or no urine output
   - fast heartbeat
   - nausea and vomiting
+
 - Eye problems.
   One of the medicines in Tribenzor can cause eye problems that may lead to vision loss.
   Symptoms of eye problems can happen within hours to weeks of starting Tribenzor.
-  Tell your doctor right away if you have:
-  - decrease in vision
-  - eye pain
-- Severe diarrhea and weight loss. ﻿Severe, chronic diarrhea with considerable weight loss may develop months to years after starting Tribenzor.
+  Tell your doctor right away if you have: ○ decrease in vision ○ eye pain
+- Severe diarrhea and weight loss.
+  Severe, chronic diarrhea with considerable weight loss may develop months to years after starting Tribenzor.
   Tell your doctor if you are experiencing these symptoms.
 
 The most common side effects of Tribenzor used to treat people with high blood pressure include:
@@ -151,10 +162,12 @@ You may report side effect to the FDA at 1-800-FDA1088.
 
 How do I store Tribenzor?
 
-- Store Tribenzor at 59°F to 86°F (15°C and 30°C).
+- Store Tribenzor at 59ºF to 86ºF (15ºC and 30ºC).
 - Keep Tribenzor and all medicines out of the reach of children.
 
-General Information about Tribenzor Medicines are sometimes prescribed for purposes other than those listed in a patient information leaflet.
+General Information about Tribenzor
+
+Medicines are sometimes prescribed for purposes other than those listed in a patient information leaflet.
 Do not use Tribenzor for a condition for which it was not prescribed.
 Do not give Tribenzor to other people, even if they have the same symptoms you have.
 It may harm them.
@@ -165,19 +178,23 @@ You can ask your doctor or pharmacist for information about Tribenzor that is wr
 For more information go to www.Tribenzor.com or call 1-877-437-7763.
 
 What are the ingredients in Tribenzor?
+
 Active ingredients: olmesartan medoxomil, amlodipine, and hydrochlorothiazide
 
 Inactive ingredients: silicified microcrystalline cellulose, pregelatinized starch, croscarmellose sodium, and magnesium stearate.
 The color coating contains polyvinyl alcohol, macrogol/polyethylene glycol 3350, titanium dioxide, talc, iron oxide yellow (20 /5 /12.5 mg, 40 /5 /12.5 mg, 40 /5 /25 mg, 40 /10 /12.5 mg, and 40 /10 /25 mg tablets), iron oxide red (20 /5 /12.5 mg, 40 /10 /12.5 mg, and 40 /10 /25 mg tablets), and iron oxide black (20 /5 /12.5 mg tablets).
 
 What is high blood pressure (hypertension)?
+
 Blood pressure is the force of blood in your blood vessels when your heart beats and when your heart rests.
 You have high blood pressure when the force is too much.
 
 High blood pressure makes the heart work harder to pump blood through the body and causes damage to blood vessels.
 Tribenzor can help your blood vessels relax so your blood pressure is lower.
 
-Manufactured for Daiichi Sankyo, Inc., Parsippany, New Jersey 07054 Manufactured by Daiichi Sankyo Europe GmbH, Germany
+Manufactured for Daiichi Sankyo, Inc., Basking Ridge, NJ 07920
 
-Copyright © Daiichi Sankyo, Inc. 2016.
+Manufactured by Daiichi Sankyo Europe GmbH, Germany
+
+Copyright © Daiichi Sankyo, Inc. 2017.
 All rights reserved.

@@ -101,7 +101,9 @@ Absolute bioavailability is estimated between 64% and 90%.
 Hydrochlorothiazide.
 When plasma levels have been followed for at least 24 hours, the plasma half-life has been observed to vary between 5.6 and 14.8 hours.
 
-Distribution Olmesartan medoxomil.
+Distribution
+
+Olmesartan medoxomil.
 The volume of distribution of olmesartan is approximately 17 L. Olmesartan is highly bound to plasma proteins (99%) and does not penetrate red blood cells.
 The protein binding is constant at plasma olmesartan concentrations well above the range achieved with recommended doses.
 
@@ -116,7 +118,9 @@ Steady-state plasma levels of amlodipine are reached after 7 to 8 days of consec
 Hydrochlorothiazide.
 Hydrochlorothiazide crosses the placental but not the blood-brain barrier and is excreted in breast milk.
 
-Metabolism and Excretion Olmesartan medoxomil.
+Metabolism and Excretion
+
+Olmesartan medoxomil.
 Following the rapid and complete conversion of olmesartan medoxomil to olmesartan during absorption, there is virtually no further metabolism of olmesartan.
 Total plasma clearance of olmesartan is 1.3 L/h, with a renal clearance of 0.6 L/h.
 Approximately 35% to 50% of the absorbed dose is recovered in urine while the remainder is eliminated in feces via the bile.
@@ -136,7 +140,9 @@ At least 61% of the oral dose is eliminated unchanged within 24 hours.
 
 Specific Populations
 
-Geriatric Olmesartan medoxomil.
+Geriatric
+
+Olmesartan medoxomil.
 The pharmacokinetics of olmesartan medoxomil were studied in the elderly (≥65 years).
 Overall, maximum plasma concentrations of olmesartan were similar in young adults and the elderly.
 Modest accumulation of olmesartan was observed in the elderly with repeated dosing; AUCѕѕ, τ was 33% higher in elderly patients, corresponding to an approximate 30% reduction in CLR.
@@ -144,14 +150,18 @@ Modest accumulation of olmesartan was observed in the elderly with repeated dosi
 Amlodipine.
 Elderly patients have decreased clearance of amlodipine with a resulting increase in AUC of approximately 40% to 60%, and a lower initial dose may be required.
 
-Gender Population pharmacokinetic analysis indicated that gender had no effect on the clearance of olmesartan and amlodipine.
+Gender
+
+Population pharmacokinetic analysis indicated that gender had no effect on the clearance of olmesartan and amlodipine.
 Female patients had approximately 20% smaller clearances of hydrochlorothiazide than male patients.
 
 Olmesartan medoxomil.
 Minor differences were observed in the pharmacokinetics of olmesartan medoxomil in women compared to men.
 Area under the curve and Cmax were 10% to 15% higher in women than in men.
 
-Renal Insufficiency Olmesartan medoxomil.
+Renal Insufficiency
+
+Olmesartan medoxomil.
 In patients with renal insufficiency, serum concentrations of olmesartan were elevated compared to subjects with normal renal function.
 After repeated dosing, the AUC was approximately tripled in patients with severe renal impairment (creatinine clearance <20 mL/min).
 The pharmacokinetics of olmesartan medoxomil in patients undergoing hemodialysis has not been studied.
@@ -159,26 +169,28 @@ The pharmacokinetics of olmesartan medoxomil in patients undergoing hemodialysis
 Amlodipine.
 The pharmacokinetics of amlodipine are not significantly influenced by renal impairment.
 
-Hepatic Insufficiency Olmesartan medoxomil.
+Hepatic Insufficiency
+
+Olmesartan medoxomil.
 Increases in AUC0-∞ and Cmax were observed in patients with moderate hepatic impairment compared to those in matched controls, with an increase in AUC of about 60%.
 
 Amlodipine.
 Patients with hepatic insufficiency have decreased clearance of amlodipine with a resulting increase in AUC of approximately 40% to 60%.
 
-Heart Failure Amlodipine.
+Heart Failure
+
+Amlodipine.
 Patients with heart failure have decreased clearance of amlodipine with a resulting increase in AUC of approximately 40% to 60%.
 
 Drug Interactions
 
-Simvastatin: Co-administration of multiple doses of 10 mg of amlodipine with 80 mg simvastatin resulted in a 77% increase in exposure to simvastatin compared to simvastatin alone.
-[see Drug Interactions (7.2)].
+Simvastatin: Co-administration of multiple doses of 10 mg of amlodipine with 80 mg simvastatin resulted in a 77% increase in exposure to simvastatin compared to simvastatin alone [see Drug Interactions (7.2)].
 
 CYP3A inhibitors: Co-administration of a 180 mg daily dose of diltiazem with 5 mg amlodipine in elderly hypertensive patients resulted in a 60% increase in amlodipine systemic exposure.
 Erythromycin co-administration in healthy volunteers did not significantly change amlodipine systemic exposure.
 However, strong inhibitors of CYP3A (e.g., itraconazole, clarithromycin) may increase the plasma concentrations of amlodipine to a greater extent [see Drug Interactions (7.2)].
 
-Cyclosporine: In a prospective study in renal transplant patients, an average 40% increase in trough cyclosporine levels was observed in the presence of amlodipine.
-[see Drug Interactions (7.2)].
+Cyclosporine: In a prospective study in renal transplant patients, an average 40% increase in trough cyclosporine levels was observed in the presence of amlodipine [see Drug Interactions (7.2)].
 
 Colesevelam: Concomitant administration of 40 mg olmesartan medoxomil and 3750 mg colesevelam hydrochloride in healthy subjects resulted in 28% reduction in Cmax and 39% reduction in AUC of olmesartan.
 Lesser effects, 4% and 15% reduction in Cmax and AUC respectively, were observed when olmesartan medoxomil was administered 4 hours prior to colesevelam hydrochloride [see Drug Interactions (7.1)].
@@ -187,7 +199,7 @@ Cimetidine: Co-administration of amlodipine with cimetidine did not alter the ph
 
 Grapefruit juice: Co-administration of 240 mL of grapefruit juice with a single oral dose of amlodipine 10 mg in 20 healthy volunteers had no significant effect on the pharmacokinetics of amlodipine.
 
-Maalox®(antacid): Co-administration of the antacid Maalox® with a single dose of amlodipine had no significant effect on the pharmacokinetics of amlodipine.
+Maalox® (antacid): Co-administration of the antacid Maalox® with a single dose of amlodipine had no significant effect on the pharmacokinetics of amlodipine.
 
 Sildenafil: A single 100 mg dose of sildenafil in subjects with essential hypertension had no effect on the pharmacokinetic parameters of amlodipine.
 When amlodipine and sildenafil were used in combination, each agent independently exerted its own blood pressure lowering effect.
@@ -196,11 +208,11 @@ Atorvastatin: Co-administration of multiple 10 mg doses of amlodipine with 80 mg
 
 Digoxin: Co-administration of amlodipine with digoxin did not change serum digoxin levels or digoxin renal clearance in normal volunteers.
 
+No significant drug interactions were reported in studies in which olmesartan medoxomil was coadministered with digoxin in healthy volunteers.
+
 Ethanol (alcohol): Single and multiple 10 mg doses of amlodipine had no significant effect on the pharmacokinetics of ethanol.
 
 Warfarin: Co-administration of amlodipine with warfarin did not change the warfarin prothrombin response time.
 No significant drug interactions were reported in studies in which olmesartan medoxomil was coadministered with warfarin in healthy volunteers.
-
-Digoxin: No significant drug interactions were reported in studies in which olmesartan medoxomil was coadministered with digoxin in healthy volunteers.
 
 Antacids: The bioavailability of olmesartan medoxomil was not significantly altered by the co-administration of antacids [Al(OH)3/Mg(OH)2].

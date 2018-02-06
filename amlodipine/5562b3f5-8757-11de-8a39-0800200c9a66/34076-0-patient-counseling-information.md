@@ -1,6 +1,8 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Patient Labeling Pregnancy: Tell female patients of childbearing age about the consequences of exposure to Azor during pregnancy.
+See FDA-Approved Patient Labeling
+
+Pregnancy: Tell female patients of childbearing age about the consequences of exposure to Tribenzor during pregnancy.
 Discuss treatment options with women planning to become pregnant.
 Tell patients to report pregnancies to their physicians as soon as possible.
 

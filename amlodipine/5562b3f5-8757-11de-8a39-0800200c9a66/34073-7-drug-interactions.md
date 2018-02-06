@@ -2,7 +2,9 @@
 
 ## 7.1 Drug Interactions with Olmesartan Medoxomil
 
-Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors) In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDs, including selective COX-2 inhibitors, with angiotensin II receptor antagonists, including olmesartan medoxomil, may result in deterioration of renal function, including possible acute renal failure.
+Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors)
+
+In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDs, including selective COX-2 inhibitors, with angiotensin II receptor antagonists, including olmesartan medoxomil, may result in deterioration of renal function, including possible acute renal failure.
 These effects are usually reversible.
 Monitor renal function periodically in patients receiving olmesartan medoxomil and NSAID therapy.
 
@@ -10,7 +12,9 @@ The antihypertensive effect of angiotensin II receptor antagonists, including ol
 
 Dual Blockade of the Renin-Angiotensin System (RAS)
 
-Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy.
+Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or
+
+aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy.
 Most patients receiving the combination of two RAS inhibitors do not obtain any additional benefit compared to monotherapy.
 In general, avoid combined use of RAS inhibitors.
 Closely monitor blood pressure, renal function and electrolytes in patients on Tribenzor and other agents that affect the RAS.
@@ -34,8 +38,7 @@ Monitor lithium levels in patients receiving Tribenzor and lithium.
 Simvastatin
 
 Co-administration of simvastatin with amlodipine increases the systemic exposure of simvastatin.
-Limit the dose of simvastatin in patients on amlodipine to 20 mg daily.
-[see Clinical Pharmacology (12.3)].
+Limit the dose of simvastatin in patients on amlodipine to 20 mg daily [see Clinical Pharmacology (12.3)].
 
 Immunosuppressants
 
@@ -54,9 +57,14 @@ Blood pressure should be closely monitored when amlodipine is co-administered wi
 
 ## 7.3 Drug Interactions with Hydrochlorothiazide
 
-When administered concurrently the following drugs may interact with thiazide diuretics: Antidiabetic Drugs (oral agents and insulin): Dosage adjustment of the antidiabetic drug may be required.
+When administered concurrently the following drugs may interact with thiazide diuretics:
+
+Antidiabetic Drugs (oral agents and insulin): Dosage adjustment of the antidiabetic drug may be required.
+
 Cholestyramine and Colestipol Resins: Absorption of hydrochlorothiazide is impaired in the presence of anionic exchange resins.
 Single dose of either cholestyramine or colestipol resins bind the hydrochlorothiazide and reduce its absorption from the gastrointestinal tract by up to 85% and 43%, respectively.
+
 Corticosteroids, ACTH: Intensified electrolyte depletion, particularly hypokalemia.
+
 Non-steroidal Anti-inflammatory Drugs: In some patients the administration of a non-steroidal anti-inflammatory agent can reduce the diuretic, natriuretic, and antihypertensive effects of loop, potassium-sparing and thiazide diuretics.
 Therefore, when hydrochlorothiazide tablets and non-steroidal anti-inflammatory agents are used concomitantly, the patients should be observed closely to determine if the desired effect of the diuretic is obtained.

@@ -4,7 +4,9 @@
 
 Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
 
-Tribenzor In the controlled trial of Tribenzor, patients were randomized to Tribenzor (olmesartan medoxomil/amlodipine/hydrochlorothiazide 40/10/25 mg), olmesartan medoxomil/amlodipine 40/10 mg, olmesartan medoxomil/hydrochlorothiazide 40/25 mg, or amlodipine/hydrochlorothiazide 10/25 mg.
+Tribenzor
+
+In the controlled trial of Tribenzor, patients were randomized to Tribenzor (olmesartan medoxomil/amlodipine/hydrochlorothiazide 40/10/25 mg), olmesartan medoxomil/amlodipine 40/10 mg, olmesartan medoxomil/hydrochlorothiazide 40/25 mg, or amlodipine/hydrochlorothiazide 10/25 mg.
 Subjects who received triple combination therapy were treated between two and four weeks with one of the three dual combination therapies.
 Safety data from this study were obtained in 574 patients with hypertension who received Tribenzor for 8 weeks.
 
@@ -33,18 +35,72 @@ Table 1
 
 Syncope was reported by 1% of Tribenzor subjects compared to 0.5% or less for the other treatment groups.
 
-Olmesartan medoxomil Olmesartan medoxomil has been evaluated for safety in more than 3825 patients/subjects, including more than 3275 patients treated for hypertension in controlled trials.
+Olmesartan medoxomil
+
+Olmesartan medoxomil has been evaluated for safety in more than 3825 patients/subjects, including more than 3275 patients treated for hypertension in controlled trials.
 This experience included about 900 patients treated for at least 6 months and more than 525 treated for at least 1 year.
 Treatment with olmesartan medoxomil was well tolerated, with an incidence of adverse reactions similar to that seen with placebo.
 Adverse reactions were generally mild, transient, and without relationship to the dose of olmesartan medoxomil.
 
-Amlodipine Amlodipine has been evaluated for safety in more than 11,000 patients in U.S. and foreign clinical trials.
+Amlodipine
 
-The following adverse reactions occurred in <1% but >0.1% of patients in controlled clinical trials under conditions of open trials or marketing experience where a causal relationship is uncertain; they are listed to alert physicians to a possible relationship: Cardiovascular: arrhythmia (including ventricular tachycardia and atrial fibrillation), bradycardia, chest pain, hypotension, peripheral ischemia, syncope, tachycardia, postural dizziness, postural hypotension, vasculitis Central and Peripheral Nervous System: hypoesthesia, neuropathy peripheral, paresthesia, tremor, vertigo Gastrointestinal: anorexia, constipation, dyspepsia*, dysphagia, diarrhea, flatulence, pancreatitis, vomiting, gingival hyperplasia General: allergic reaction, asthenia*, back pain, hot flushes, malaise, pain, rigors, weight gain, weight decrease Musculoskeletal System: arthralgia, arthrosis, muscle cramps*, myalgia Psychiatric: sexual dysfunction (male* and female), insomnia, nervousness, depression, abnormal dreams, anxiety, depersonalization Respiratory: dyspnea*, epistaxis Skin and Appendages: angioedema, erythema multiforme, pruritus*, rash*, rash erythematous, rash maculopapular Special Senses: abnormal vision, conjunctivitis, diplopia, eye pain, tinnitus Urinary System: micturition frequency, micturition disorder, nocturia Autonomic Nervous System: dry mouth, sweating increased Metabolic and Nutritional: hyperglycemia, thirst Hemopoietic: leukopenia, purpura, thrombocytopenia * = events that occurred in less than 1% in placebo-controlled trials, but the incidence of these side effects was between 1% and 2% in all multiple dose studies.
+Amlodipine has been evaluated for safety in more than 11,000 patients in U.S. and foreign clinical trials.
+
+The following adverse reactions occurred in <1% but >0.1% of patients in controlled clinical trials under conditions of open trials or marketing experience where a causal relationship is uncertain; they are listed to alert physicians to a possible relationship:
+
+Cardiovascular: arrhythmia (including ventricular tachycardia and atrial fibrillation), bradycardia, chest pain, hypotension, peripheral ischemia, syncope, tachycardia, postural dizziness, postural hypotension, vasculitis
+
+Central and Peripheral Nervous System: hypoesthesia, neuropathy peripheral, paresthesia, tremor, vertigo
+
+Gastrointestinal: anorexia, constipation, dyspepsia*, dysphagia, diarrhea, flatulence, pancreatitis, vomiting, gingival hyperplasia
+
+General: allergic reaction, asthenia*, back pain, hot flushes, malaise, pain, rigors, weight gain, weight decrease
+
+Musculoskeletal System: arthralgia, arthrosis, muscle cramps*, myalgia
+
+Psychiatric: sexual dysfunction (male* and female), insomnia, nervousness, depression, abnormal dreams, anxiety, depersonalization
+
+Respiratory: dyspnea*, epistaxis
+
+Skin and Appendages: angioedema, erythema multiforme, pruritus*, rash*, rash erythematous, rash maculopapular
+
+Special Senses: abnormal vision, conjunctivitis, diplopia, eye pain, tinnitus
+
+Urinary System: micturition frequency, micturition disorder, nocturia
+
+Autonomic Nervous System: dry mouth, sweating increased
+
+Metabolic and Nutritional: hyperglycemia, thirst
+
+Hemopoietic: leukopenia, purpura, thrombocytopenia
+
+* = events that occurred in less than 1% in placebo-controlled trials, but the incidence of these side effects was between 1% and 2% in all multiple dose studies.
 
 The following adverse reactions occurred in <0.1% of patients: cardiac failure, pulse irregularity, extrasystoles, skin discoloration, urticaria, skin dryness, alopecia, dermatitis, muscle weakness, twitching, ataxia, hypertonia, migraine, cold and clammy skin, apathy, agitation, amnesia, gastritis, increased appetite, loose stools, coughing, rhinitis, dysuria, polyuria, parosmia, taste perversion, abnormal visual accommodation, and xerophthalmia.
 
-Hydrochlorothiazide Other adverse reactions that have been reported with hydrochlorothiazide, without regard to causality, are listed below: Body as a Whole: weakness Digestive: pancreatitis, jaundice (intrahepatic cholestatic jaundice), sialadenitis, cramping, gastric irritation Hematologic: aplastic anemia, agranulocytosis, leukopenia, hemolytic anemia, thrombocytopenia Hypersensitivity: purpura, photosensitivity, urticaria, necrotizing angiitis (vasculitis and cutaneous vasculitis), fever, respiratory distress including pneumonitis and pulmonary edema, anaphylactic reactions Metabolic: hyperglycemia, glycosuria, hyperuricemia Musculoskeletal: muscle spasm Nervous System/Psychiatric: restlessness Renal: renal failure, renal dysfunction, interstitial nephritis Skin: erythema multiforme including Stevens-Johnson syndrome, exfoliative dermatitis including toxic epidermal necrolysis Special Senses: transient blurred vision, xanthopsia
+Hydrochlorothiazide
+
+Other adverse reactions that have been reported with hydrochlorothiazide, without regard to causality, are listed below:
+
+Body as a Whole: weakness
+
+Digestive: pancreatitis, jaundice (intrahepatic cholestatic jaundice), sialadenitis, cramping, gastric irritation
+
+Hematologic: aplastic anemia, agranulocytosis, leukopenia, hemolytic anemia, thrombocytopenia
+
+Hypersensitivity: purpura, photosensitivity, urticaria, necrotizing angiitis (vasculitis and cutaneous vasculitis), fever, respiratory distress including pneumonitis and pulmonary edema, anaphylactic reactions
+
+Metabolic: hyperglycemia, glycosuria, hyperuricemia
+
+Musculoskeletal: muscle spasm
+
+Nervous System/Psychiatric: restlessness
+
+Renal: renal failure, renal dysfunction, interstitial nephritis
+
+Skin: erythema multiforme including Stevens-Johnson syndrome, exfoliative dermatitis including toxic epidermal necrolysis
+
+Special Senses: transient blurred vision, xanthopsia
 
 ## 6.2 Post-Marketing Experience
 

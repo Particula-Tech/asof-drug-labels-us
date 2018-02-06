@@ -7,13 +7,13 @@ Pregnancy Category D
 Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death.
 Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations.
 Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death.
-When pregnancy is detected, discontinue Tribenzor as soon as possible [see Use in Specific Populations (8.1].
+When pregnancy is detected, discontinue Tribenzor as soon as possible [see Use in specific Populations (8.1].
 
 ## 5.2 Hypotension in Volume- or Salt-Depleted Patients
 
 Olmesartan medoxomil.
 In patients with an activated renin-angiotensin system, such as volume- and/or salt-depleted patients (e.g., those being treated with high doses of diuretics) symptomatic hypotension may be anticipated after initiation of treatment with olmesartan medoxomil.
-Initiate treatment with Azor under close medical supervision.
+Initiate treatment with Tribenzor under close medical supervision.
 If hypotension does occur, place the patient in the supine position and, if necessary, give an intravenous infusion of normal saline.
 A transient hypotensive response is not a contraindication to further treatment, which usually can be continued without difficulty once the blood pressure has stabilized.
 
@@ -30,6 +30,7 @@ The mechanism of this effect has not been elucidated.
 ## 5.4 Impaired Renal Function
 
 Tribenzor.
+
 Impaired renal function was reported in 2.1% of subjects receiving Tribenzor compared to 0.2% to 1.3% of subjects receiving dual combination therapy of olmesartan medoxomil and amlodipine, olmesartan medoxomil and hydrochlorothiazide or amlodipine and hydrochlorothiazide.
 
 If progressive renal impairment becomes evident consider withholding or discontinuing Tribenzor.
@@ -45,15 +46,15 @@ Hydrochlorothiazide.
 Thiazides may precipitate azotemia in patients with renal disease.
 Cumulative effects of the drug may develop in patients with impaired renal function.
 
-## 5.5 Patients with Hepatic Impairment
+## 5.5Patients with Hepatic Impairment
 
 Amlodipine.
 Since amlodipine is extensively metabolized by the liver and the plasma elimination half-life (t1/2) is 56 hours in patients with severely impaired hepatic function, titrate slowly when administering to patients with severe hepatic impairment.
 
 ## 5.6 Electrolyte and Metabolic Imbalances
 
-Tribenzor contains hydrochlorothiazide which can cause hypokalemia, hyponatremia and hypomagnesmia.
-Hypomagnesmia can result in hypokalemia which may be difficult to treat despite potassium repletion.
+Tribenzor contains hydrochlorothiazide which can cause hypokalemia, hyponatremia and hypomagnesemia.
+Hypomagnesemia can result in hypokalemia which may be difficult to treat despite potassium repletion.
 Tribenzor also contains olmesartan, a drug that affects the RAS.
 Drugs that inhibit the RAS can also cause hyperkalemia.
 
