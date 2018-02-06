@@ -26,14 +26,14 @@ A population-based retrospective cohort epidemiological study from the Swedish M
 The number of infants exposed in utero to omeprazole that had any malformation, low birth weight, low Apgar score, or hospitalization was similar to the number observed in this population.
 The number of infants born with ventricular septal defects and the number of stillborn infants was slightly higher in the omeprazole-exposed infants than the expected number in this population.
 
-A population-based retrospective cohort study covering all live births in Denmark from 1996-2009, reported on 1,800 live births whose mothers used omeprazole during the first trimester of pregnancy and 837, 317 live births whose mothers did not use any proton pump inhibitor.
+A population-based retrospective cohort study covering all live births in Denmark from 1996 to 2009, reported on 1,800 live births whose mothers used omeprazole during the first trimester of pregnancy and 837, 317 live births whose mothers did not use any proton pump inhibitor.
 The overall rate of birth defects in infants born to mothers with first trimester exposure to omeprazole was 2.9% and 2.6% in infants born to mothers not exposed to any proton pump inhibitor during the first trimester.
 
 A retrospective cohort study reported on 689 pregnant women exposed to either H2-blockers or omeprazole in the first trimester (134 exposed to omeprazole) and 1,572 pregnant women unexposed to either during the first trimester.
 The overall malformation rate in offspring born to mothers with first trimester exposure to omeprazole, an H2-blocker, or were unexposed was 3.6%, 5.5%, and 4.1% respectively.
 
-A small prospective observational cohort study followed 113 women exposed to omeprazole during pregnancy (89% first trimester exposures).
-The reported rate of major congenital malformations was 4% in the omeprazole group, 2% in controls exposed to nonteratogens, and 2.8% in disease-paired controls.
+A small prospective observational cohort study followed 113 women exposed to omeprazole during pregnancy (89% with first trimester exposures).
+The reported rate of major congenital malformations was 4% in the omeprazole group, 2% in controls exposed to non-teratogens, and 2.8% in disease-paired controls.
 Rates of spontaneous and elective abortions, preterm deliveries, gestational age at delivery, and mean birth weight were similar among the groups.
 
 Several studies have reported no apparent adverse short-term effects on the infant when single dose oral or intravenous omeprazole was administered to over 200 pregnant women as premedication for cesarean section under general anesthesia.
@@ -60,7 +60,7 @@ In addition, decreased femur length, width and thickness of cortical bone, decre
 Physeal dysplasia in the femur was observed in offspring of rats treated with oral doses of esomeprazole magnesium at doses equal to or greater than 138 mg/kg/day (about 34 times an oral human dose of 40 mg esomeprazole or 40 mg omeprazole on a body surface area basis).
 
 Effects on maternal bone were observed in pregnant and lactating rats in the pre- and postnatal toxicity study when esomeprazole magnesium was administered at oral doses of 14 to 280 mg /kg/day (about 3.4 to 68 times an oral human dose of 40 mg esomeprazole or 40 mg omeprazole on a body surface area basis).
-When rats were dosed from gestational day 7 through weaning on postnatal day 21, a statistically significant decrease in maternal femur weight of up to 14% (as compared to placebo treatment) was observed at doses equal to or greater than 138 mg/kg/day (about 34 times an oral human dose of 40 mg on a body surface area basis).
+When rats were dosed from gestational day 7 through weaning on postnatal day 21, a statistically significant decrease in maternal femur weight of up to 14% (as compared to placebo treatment) was observed at doses equal to or greater than 138 mg/kg/day (about 34 times an oral human dose of 40 mg esomeprazole or 40 mg omeprazole on a body surface area basis).
 
 A pre- and postnatal development study in rats with esomeprazole strontium (using equimolar doses compared to esomeprazole magnesium study) produced similar results in dams and pups as described above.
 
@@ -77,7 +77,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of omeprazole have been established in pediatric patients 1 to 16 years for the treatment of symptomatic GERD, treatment of EE due to acidmediated GERD, and maintenance of healing of EE due to acid-mediated GERD.
+The safety and effectiveness of omeprazole have been established in pediatric patients 1 to 16 years for the treatment of symptomatic GERD, treatment of EE due to acid-mediated GERD, and maintenance of healing of EE due to acid-mediated GERD.
 Use of omeprazole in this age group is supported by adequate and well-controlled studies in adults and uncontrolled safety, efficacy and pharmacokinetic studies performed in pediatric and adolescent patients [see Clinical Pharmacology (12.3), Clinical Studies (14.8)].
 
 The safety and effectiveness of omeprazole have been established in pediatric patients 1 month to less than 1 year of age for the treatment of EE due to acid-mediated GERD and is supported by adequate and well-controlled studies in adults and safety, pharmacokinetic, and pharmacodynamic studies performed in pediatric patients [see Clinical Pharmacology (12.3)].

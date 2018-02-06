@@ -74,7 +74,7 @@ Table 9 Per-Protocol and Intent-to-Treat H. pylori Eradication Rates % of Patien
 Dual Therapy (omeprazole/clarithromycin)
 
 Four randomized, double-blind, multi-center studies (4, 5, 6, and 7) evaluated omeprazole 40 mg once daily plus clarithromycin 500 mg three times daily for 14 days, followed by omeprazole 20 mg once daily, (Studies 4, 5, and 7) or by omeprazole 40 mg once daily (Study 6) for an additional 14 days in patients with active duodenal ulcer associated with H. pylori.
-Studies 4 and 5 were conducted in the U.S. and Canada and enrolled 242 and 256 patients 242 and 256 patients respectively.
+Studies 4 and 5 were conducted in the U.S. and Canada and enrolled 242 and 256 patients, respectively.
 H. pylori infection and duodenal ulcer were confirmed in 219 patients in Study 4 and 228 patients in Study 5.
 These studies compared the combination regimen to omeprazole and clarithromycin monotherapies.
 Studies 6 and 7 were conducted in Europe and enrolled 154 and 215 patients, respectively.
@@ -178,7 +178,7 @@ Result are shown below.
 
 ## 14.5 EE due to Acid-Mediated GERD
 
-In a U.S. multicenter double-blind placebo-controlled study of 20 mg or 40 mg of omeprazole delayed-release capsules in patients with symptoms of GERD and endoscopically diagnosed erosive esophagitis of grade 2 or above, the percentage healing rates (per protocol) were as follows:
+In a U.S. multicenter double-blind placebo-controlled study of 20 mg or 40 mg of omeprazole delayed-release capsules in patients with symptoms of GERD and endoscopically diagnosed EE of grade 2 or above, the percentage healing rates (per protocol) were as follows:
 
 |  | 20 mg Omeprazole (n = 83) | 40 mg Omeprazole (n = 87) | Placebo (n = 43) |
 | --- | --- | --- | --- |
@@ -188,7 +188,7 @@ In a U.S. multicenter double-blind placebo-controlled study of 20 mg or 40 mg of
 
 In this study, the 40 mg dose was not superior to the 20 mg dose of omeprazole in the percentage healing rate.
 Other controlled clinical trials have also shown that omeprazole is effective in severe GERD.
-In comparisons with histamine H2 receptor antagonists in patients with erosive esophagitis, grade 2 or above, omeprazole in a dose of 20 mg was significantly more effective than the active controls.
+In comparisons with histamine H2 receptor antagonists in patients with EE, grade 2 or above, omeprazole in a dose of 20 mg was significantly more effective than the active controls.
 Complete daytime and nighttime heartburn relief occurred significantly faster (p < 0.01) in patients treated with omeprazole than in those taking placebo or histamine H2- receptor antagonists.
 
 In this and five other controlled GERD studies, significantly more patients taking 20 mg omeprazole (84%) reported complete relief of GERD symptoms than patients receiving placebo (12%).
@@ -196,7 +196,7 @@ In this and five other controlled GERD studies, significantly more patients taki
 ## 14.6 Maintenance of Healing of EE due to Acid-Mediated GERD
 
 In a U.S. double-blind, randomized, multicenter, placebo-controlled study, two dose regimens of omeprazole were studied in patients with endoscopically confirmed healed esophagitis.
-Results to determine maintenance of healing of erosive esophagitis are shown below.
+Results to determine maintenance of healing of EE are shown below.
 
 Life Table Analysis
 
@@ -247,17 +247,17 @@ Results showed success rates of 60% (9/15; 10 mg omeprazole) and 59% (58/98; 20 
 
 Treatment of EE due to Acid-Mediated GERD
 
-In an uncontrolled, open-label dose-titration study, healing of erosive esophagitis in pediatric patients 1 to 16 years of age required doses that ranged from 0.7 to 3.5 mg/kg/day (80 mg/day).
+In an uncontrolled, open-label dose-titration study, for the treatment of EE in pediatric patients 1 to 16 years of age required doses that ranged from 0.7 to 3.5 mg/kg/day (80 mg/day).
 Doses were initiated at 0.7 mg/kg/day.
 Doses were increased in increments of 0.7 mg/kg/day (if intraesophageal pH showed a pH of < 4 for less than 6% of a 24 hour study).
 After titration, patients remained on treatment for 3 months.
 Forty-four percent of the patients were healed on a dose of 0.7 mg/kg body weight; most of the remaining patients were healed with 1.4 mg/kg after an additional 3 months' treatment.
-Erosive esophagitis was healed in 51 of 57 (90%) children who completed the first course of treatment in the healing phase of the study.
+EE was healed in 51 of 57 (90%) children who completed the first course of treatment in the healing phase of the study.
 In addition, after 3 months of treatment, 33% of the children had no overall symptoms, 57% had mild reflux symptoms, and 40% had less frequent regurgitation/vomiting.
 
-Maintenance of Healing of Erosive Esophagitis
+Maintenance of Healing of EE due to Acid-mediated GERD
 
-In an uncontrolled, open-label study of maintenance of healing of erosive esophagitis in 46 pediatric patients, 54% of patients required half the healing dose.
+In an uncontrolled, open-label study of maintenance of healing of erosive esophagitis in 46 pediatric patients1 to 16 years of age, 54% of patients required half the healing dose.
 The remaining patients increased the healing dose (0.7 to a maximum of 2.8 mg/kg/day) either for the entire maintenance period, or returned to half the dose before completion.
-Of the 46 patients who entered the maintenance phase, 19 (41%) had no relapse.
-In addition, maintenance therapy in erosive esophagitis patients resulted in 63% of patients having no overall symptoms.
+Of the 46 patients who entered the maintenance phase, 19 (41%) had no relapse during follow-up (range 4 to 25 months).
+In addition, maintenance therapy in EE patients resulted in 63% of patients having no overall symptoms.

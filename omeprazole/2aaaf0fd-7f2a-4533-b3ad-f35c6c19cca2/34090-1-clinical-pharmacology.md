@@ -53,7 +53,7 @@ Systemic effects of omeprazole in the CNS, cardiovascular and respiratory system
 Omeprazole, given in oral doses of 30 or 40 mg for 2 to 4 weeks, had no effect on thyroid function, carbohydrate metabolism, or circulating levels of parathyroid hormone, cortisol, estradiol, testosterone, prolactin, cholecystokinin or secretin.
 
 No effect on gastric emptying of the solid and liquid components of a test meal was demonstrated after a single dose of omeprazole 90 mg.
-In healthy subjects, a single I.V. dose of omeprazole (0.35 mg/kg) had no effect on intrinsic factor secretion.
+In healthy subjects, a single intravenous dose of omeprazole (0.35 mg/kg) had no effect on intrinsic factor secretion.
 No systematic dose-dependent effect has been observed on basal or stimulated pepsin output in humans.
 
 However, when intragastric pH is maintained at 4 or above, basal pepsin output is low, and pepsin activity is decreased.
@@ -77,16 +77,16 @@ Compared to the first dose, the systemic exposure (Cmax and AUC0-24h) at steady 
 Absorption
 
 Omeprazole delayed-release capsules contain an enteric-coated granule formulation of omeprazole (because omeprazole is acid-labile), so that absorption of omeprazole begins only after the granules leave the stomach.
-Absorption is rapid, with peak plasma levels of omeprazole occurring within 0.5 to 3.5 hours.
+Absorption is rapid, with peak plasma concentrations of omeprazole occurring within 0.5 to 3.5 hours.
 Peak plasma concentrations of omeprazole and AUC are approximately proportional to doses up to 40 mg, but because of a saturable first-pass effect, a greater than linear response in peak plasma concentration and AUC occurs with doses greater than 40 mg.
 Absolute bioavailability (compared with intravenous administration) is about 30 to 40% at doses of 20 to 40 mg, due in large part to presystemic metabolism.
 In healthy subjects the plasma half-life is 0.5 to 1 hour, and the total body clearance is 500 to 600 mL/min.
 
-Based on a relative bioavailability study, the AUC and Cmax of Omeprazole for delayedrelease oral suspension were 87% and 88% of those for Omeprazole delayed-release capsules, respectively.
+Based on a relative bioavailability study, the AUC and Cmax of Omeprazole for delayed-release oral suspension were 87% and 88% of those for Omeprazole delayed-release capsules, respectively.
 
 The bioavailability of omeprazole increases slightly upon repeated administration of omeprazole delayed-release capsules.
 
-The systemic exposure (Cmax and AUC) are similar when a 40 mg omeprazole delayedrelease capsule is administered with and without applesauce.
+The systemic exposure (Cmax and AUC) are similar when a 40 mg omeprazole delayed-release capsule is administered with and without applesauce.
 However, administration of a 20 mg omeprazole delayed-release capsule with applesauce, results in a mean 25% reduction in Cmax without a significant change in AUC compared to administration without applesauce.
 The clinical relevance of this finding is unknown.
 
@@ -121,7 +121,7 @@ The mean 24-hour gastric pH value was 5.2 when omeprazole was administered alone
 
 The plasma concentrations of clarithromycin and 14-hydroxy-clarithromycin were increased by the concomitant administration of omeprazole.
 For clarithromycin, the mean Cmax was 10% greater, the mean Cmin was 27% greater, and the mean AUC0-8 was 15% greater when clarithromycin was administered with omeprazole than when clarithromycin was administered alone.
-Similar results were seen for 14-hydroxy-clarihromycin, the mean Cmax was 45% greater, the mean Cmin was 57% greater, and the mean AUC0-8 was 45% greater.
+Similar results were seen for 14-hydroxy-clarithromycin, the mean Cmax was 45% greater, the mean Cmin was 57% greater, and the mean AUC0-8 was 45% greater.
 Clarithromycin concentrations in the gastric tissue and mucus were also increased by concomitant administration of omeprazole.
 
 Table 6 Clarithromycin Tissue Concentrations 2 hours after Dose1

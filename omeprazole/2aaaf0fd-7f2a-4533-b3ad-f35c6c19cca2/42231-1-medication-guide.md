@@ -15,6 +15,7 @@ Omeprazole delayed-release capsules can cause serious side effects, including:
 
 - A type of kidney problem (acute interstitial nephritis).
   Some people who take proton pump inhibitor (PPI) medicines, including omeprazole delayed-release capsules, may develop a kidney problem called acute interstitial nephritis that can happen at any time during treatment with omeprazole delayed-release capsules.
+  Call your doctor if you have a decrease in the amount that you urinateor if you have blood in your urine.
 - Diarrhea.
   Omeprazole delayed-release capsules may increase your risk of getting severe diarrhea.
   This diarrhea may be caused by an infection (Clostridium difficile) in your intestines.
@@ -40,7 +41,8 @@ Omeprazole delayed-release capsules are used in adults:
 
 - for up to 8 weeks for the healing of duodenal ulcers.
   The duodenal area is the area where food passes when it leaves the stomach.
-- with certain antibiotics to treat an infection caused by bacteria called H. pylori.
+- with certain antibiotics for 10 to 14 days to treat an infection caused by bacteria called H. pylori.
+  If needed, your doctor may decide to prescribe another 14 to 18 days of omeprazole delayed-release capsules by itself after the antibiotics.
   Sometimes H. pylori bacteria can cause duodenal ulcers.
   The infection needs to be treated to prevent the ulcers from coming back.
 - for up to 8 weeks for healing stomach ulcers
@@ -58,13 +60,13 @@ For children 1 to 16 years of age, omeprazole delayed-release capsules are used:
 
 - for up to 4 weeks to treat heartburn and other symptoms that happen with gastroesophageal reflux disease (GERD).
 
-- for up to 8 weeks to treat gastroesophageal reflux disease (GERD) with acid-related damage to the lining of the esophagus [called erosive esophagitis (or EE) due to acidmediated GERD].
+- for up to 8 weeks to treat gastroesophageal reflux disease (GERD) with acid-related damage to the lining of the esophagus [called erosive esophagitis (or EE) due to acid-mediated GERD].
 - to maintain healing of the esophagus.
   It is not known if omeprazole delayed-release capsules are safe and effective when used longer than 12 months (1 year) for this purpose.
 
 For children 1 month to less than 12 months (1 year) of age, omeprazole delayed-release capsules is used:
 
-- for up to 6 weeks to treat gastroesophageal reflux disease (GERD) with acid-related damage to the lining of the esophagus [called erosive esophagitis (or EE) due to acidmediated GERD].
+- for up to 6 weeks to treat gastroesophageal reflux disease (GERD) with acid-related damage to the lining of the esophagus [called erosive esophagitis (or EE) due to acid-mediated GERD].
   It is not known if omeprazole delayed-release capsules is safe and effective for other uses in children 1 month to less than 12 months (1 year) of age, or in children less than 1 month of age.
 
 Who should not take omeprazole delayed-release capsules?
@@ -78,7 +80,7 @@ Do not take omeprazole delayed-release capsules if you:
 
 What should I tell my doctor before taking omeprazole delayed-release capsules?
 
-Before you take omeprazole delayed-release capsules, tell your doctor if you:
+Before taking omeprazole delayed-release capsules, tell your doctor about all of your medical conditions, including if you:
 
 - have been told that you have low magnesium levels in your blood
 - have liver problems
@@ -127,7 +129,7 @@ Omeprazole delayed-release capsules can cause serious side effects, including:
   Stomach acid is needed to absorb vitamin B-12 properly.
   Talk with your doctor about the possibility of vitamin B-12 deficiency if you have been on Omeprazole delayed-release capsules for a long time (more than 3 years).
 - Low magnesium levels in your body.
-  Low magnesium can happen in some people who take a proton pump inhibitor medicine for at least 3 months.
+  Low magnesium can happen in some people who take a PPI medicine for at least 3 months.
   If low magnesium levels happen, it is usually after a year of treatment.
   You may or may not have symptoms of low magnesium.
 
@@ -171,7 +173,7 @@ Tell your doctor if you get any of the following symptoms with omeprazole delaye
 
 Your doctor may stop omeprazole delayed-release capsules if these symptoms happen.
 
-Tell your doctor if you have any side effect that bothers you or that do not go away.
+Tell your doctor if you have any side effect that bothers you or that does not go away.
 These are not all the possible side effects with omeprazole delayed-release capsules.
 For more information, ask your doctor or pharmacist.
 Call your doctor for medical advice about side effects.
@@ -185,7 +187,7 @@ How should I store omeprazole delayed-release capsules?
 
 Keep omeprazole delayed-release capsules and all medicines out of the reach of children.
 
-General information about omeprazole delayed-release capsules
+General information about the safe and effective use of omeprazole delayed-release capsules
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use omeprazole delayed-release capsules for a condition for which it was not prescribed.
@@ -196,7 +198,7 @@ This Medication Guide summarizes the most important information about omeprazole
 For more information, ask your doctor.
 You can ask your doctor or pharmacist for information that is written for healthcare professionals.
 
-Please address medical inquiries to, (MedicalAffairs@zydususa.com) Tel.: 1-877-993-8779.
+Please address medical inquiries to, MedicalAffairs@zydususa.com or Tel.: 1-877-993-8779.
 
 What are the ingredients in omeprazole delayed-release capsules?
 

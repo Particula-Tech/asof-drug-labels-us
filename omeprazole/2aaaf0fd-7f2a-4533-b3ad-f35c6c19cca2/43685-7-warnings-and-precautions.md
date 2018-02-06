@@ -88,3 +88,12 @@ If serial tests are performed (e.g., for monitoring), the same commercial labora
 
 Literature suggests that concomitant use of PPIs with methotrexate (primarily at high dose) may elevate and prolong serum levels of methotrexate and/or its metabolite, possibly leading to methotrexate toxicities.
 In high-dose methotrexate administration a temporary withdrawal of the PPI may be considered in some patients [see Drug Interactions (7)].
+
+## 5.12 Fundic Gland Polyps
+
+PPI use, including rabeprazole, is associated with an increased risk of fundic gland polyps which increases with long-term use, especially beyond one year.
+Most PPIs users who developed fundic gland polyps were asymptomatic and were diagnosed incidentally, but some patients presented with nausea, vomiting, or abdominal pain.
+Gastrointestinal bleeding and/or anemia were also reported in patients with ulcerated polyps.
+Patients with polyps may also be at risk for small intestinal blockage.
+
+Use the lowest dose and shortest duration of PPI therapy appropriate to the condition being treated.
