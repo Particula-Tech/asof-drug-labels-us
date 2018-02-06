@@ -1,0 +1,3 @@
+# 7 DRUG INTERACTIONS
+
+The potential for pharmacokinetic drug-drug interactions between alprostadil and other agents administered orally or intracavernosally has not been formally studied [see Warnings and Precautions (5.6)].

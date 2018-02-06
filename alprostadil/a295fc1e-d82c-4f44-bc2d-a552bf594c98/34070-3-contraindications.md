@@ -1,8 +1,8 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-CAVERJECT should not be used in patients who have a known hypersensitivity to the drug, in patients who have conditions that might predispose them to priapism, such as sickle cell anemia or trait, multiple myeloma, or leukemia, or in patients with anatomical deformation of the penis, such as angulation, cavernosal fibrosis, or Peyronie's disease.
-Patients with penile implants should not be treated with CAVERJECT.
+CAVERJECT is contraindicated:
 
-CAVERJECT is not indicated for use in children or newborns (see Precautions, benzyl alcohol).
-
-CAVERJECT should not be used in men for whom sexual activity is inadvisable or contraindicated.
+- in men who have a known hypersensitivity to the drug [see Adverse Reactions (6.1)]
+- in men who have conditions that predispose them to priapism, such as sickle cell anemia or sickle cell trait, multiple myeloma, or leukemia [see Warnings and Precautions (5.1)]
+- for the treatment of erectile dysfunction in men with fibrotic conditions of the penis, such as anatomical deformation, angulation, cavernosal fibrosis, or Peyronie's disease [see Warnings and Precautions (5.2)]
+- in men with penile implants.

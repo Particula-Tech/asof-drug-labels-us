@@ -1,5 +1,9 @@
-# INDICATION AND USAGE
+# 1 INDICATIONS AND USAGE
 
-CAVERJECT is indicated for the treatment of erectile dysfunction due to neurogenic, vasculogenic, psychogenic, or mixed etiology.
+## 1.1 Erectile Dysfunction
 
-Intracavernosal CAVERJECT may be a useful adjunct to other diagnostic tests in the diagnosis of erectile dysfunction.
+CAVERJECT is indicated for the treatment of erectile dysfunction.
+
+## 1.2 Diagnostic Testing for Erectile Dysfunction
+
+CAVERJECT is indicated as an adjunct to other diagnostic tests in the diagnosis of erectile dysfunction.
