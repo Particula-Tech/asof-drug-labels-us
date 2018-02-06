@@ -36,7 +36,7 @@ To report SUSPECTED ADVERSE REACTIONS, contact Sandoz Inc. at 1-800-525-8747 or 
 
 25 mg
 
-Distributed by
+Manufactured by
 
 Sandoz Inc.
 
@@ -56,12 +56,12 @@ Epic Pharma, LLC
 
 Laurelton, NY 11413
 
-46114010
+46192627
 
 Rev.
-October 2016
+December 2016
 
-MF0674REV10/16
+MF0674REV12/16
 
 OS7127
 
