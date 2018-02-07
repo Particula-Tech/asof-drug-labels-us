@@ -1,4 +1,4 @@
-# 2 DOSAGE AND ADMINISTRATION
+# 2. DOSAGE AND ADMINISTRATION
 
 ## 2.1 Adult Hypertension
 
@@ -25,6 +25,7 @@ For patients requiring further reduction in blood pressure after 2 weeks of ther
 Children <1 year of age must not receive Benicar for hypertension.
 
 For children who cannot swallow tablets, the same dose can be given using an extemporaneous suspension as described below [see Clinical Pharmacology (12.3)].
+
 Follow the suspension preparation instructions below to administer Benicar as a suspension.
 
 Preparation of Suspension (for 200 mL of a 2 mg/mL suspension)
@@ -34,4 +35,6 @@ Shake the container for at least 1 minute and allow the suspension to stand for 
 Repeat 1-minute shaking and 1-minute standing for four additional times.
 Add 100 mL of Ora-Sweet®* and 50 mL of Ora-Plus®* to the suspension and shake well for at least 1 minute.
 The suspension should be refrigerated at 2-8°C (36-46°F) and can be stored for up to 4 weeks.
-Shake the suspension well before each use and return promptly to the refrigerator. * Ora-Sweet® and Ora-Plus® are registered trademarks of Paddock Laboratories, Inc.
+Shake the suspension well before each use and return promptly to the refrigerator.
+
+* Ora-Sweet® and Ora-Plus® are registered trademarks of Paddock Laboratories, Inc.

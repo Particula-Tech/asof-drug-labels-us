@@ -1,8 +1,10 @@
-# 8 USE IN SPECIFIC POPULATIONS
+# 8.USE IN SPECIFIC POPULATIONS
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death.
+Pregnancy Category D
+
+Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death.
 Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations.
 Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death.
 When pregnancy is detected, discontinue Benicar as soon as possible.
@@ -24,7 +26,9 @@ Because of the potential for adverse effects on the nursing infant, a decision s
 
 ## 8.4 Pediatric Use
 
-Neonates with a history of in utero exposure to Benicar: If oliguria or hypotension occurs, direct attention toward support of blood pressure and renal perfusion.
+Neonates with a history of in utero exposure to Benicar:
+
+If oliguria or hypotension occurs, direct attention toward support of blood pressure and renal perfusion.
 Exchange transfusions or dialysis may be required as a means of reversing hypotension and/or substituting for disordered renal function.
 
 The antihypertensive effects of Benicar were evaluated in one randomized, double-blind clinical study in pediatric patients 1 to 16 years of age [see Clinical Studies (14.2)].
@@ -57,4 +61,4 @@ No initial dosage adjustment is recommended for patients with moderate to marked
 
 ## 8.8 Black Patients
 
-The antihypertensive effect of Benicar was smaller in black patients (usually a low renin population), as has been seen with ACE inhibitors, beta-blockers and other angiotensin receptor blockers.
+The antihypertensive effect of Benicar was smaller in black patients (usually a low-renin population), as has been seen with ACE inhibitors, beta-blockers and other angiotensin receptor blockers.

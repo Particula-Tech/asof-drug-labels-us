@@ -1,3 +1,3 @@
-# 4 CONTRAINDICATIONS
+# 4. CONTRAINDICATIONS
 
-Do not co-administer aliskiren with Benicar in patients with diabetes [see Drug Interactions (7)].
+Do not co-administer aliskiren with Benicar in patients with diabetes [See Drug Interactions (7)].

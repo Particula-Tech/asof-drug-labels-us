@@ -1,8 +1,8 @@
-# 14 CLINICAL STUDIES
+# 14.CLINICAL STUDIES
 
 ## 14.1 Adult Hypertension
 
-The antihypertensive effects of Benicar have been demonstrated in seven placebo controlled studies at doses ranging from 2.5 mg to 80 mg for 6 to 12 weeks, each showing statistically significant reductions in peak and trough blood pressure.
+The antihypertensive effects of Benicar have been demonstrated in seven placebo-controlled studies at doses ranging from 2.5 mg to 80 mg for 6 to 12 weeks, each showing statistically significant reductions in peak and trough blood pressure.
 A total of 2693 patients (2145 Benicar; 548 placebo) with essential hypertension were studied.
 Benicar once daily lowered diastolic and systolic blood pressure.
 The response was dose-related, as shown in the following graph.
@@ -17,7 +17,7 @@ The blood pressure lowering effect of Benicar, with and without hydrochlorothiaz
 There was no evidence of tachyphylaxis during long-term treatment with Benicar or rebound effect following abrupt withdrawal of olmesartan medoxomil after 1 year of treatment.
 
 The antihypertensive effect of Benicar was similar in men and women and in patients older and younger than 65 years.
-The effect was smaller in black patients (usually a low renin population), as has been seen with ACE inhibitors, beta-blockers and other angiotensin receptor blockers.
+The effect was smaller in black patients (usually a low-renin population), as has been seen with ACE inhibitors, beta-blockers and other angiotensin receptor blockers.
 Benicar had an additional blood pressure lowering effect when added to hydrochlorothiazide.
 
 There are no trials of Benicar demonstrating reductions in cardiovascular risk in patients with hypertension, but at least one pharmacologically similar drug has demonstrated such benefits.

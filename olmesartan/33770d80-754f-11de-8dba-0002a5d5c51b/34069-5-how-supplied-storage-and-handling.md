@@ -1,4 +1,4 @@
-# 16 HOW SUPPLIED/STORAGE AND HANDLING
+# 16. HOW SUPPLIED/STORAGE AND HANDLING
 
 Benicar is supplied as yellow, round, film-coated, non-scored tablets containing 5 mg of olmesartan medoxomil, as white, round, film-coated, non-scored tablets containing 20 mg of olmesartan medoxomil, and as white, oval-shaped, film-coated, non-scored tablets containing 40 mg of olmesartan medoxomil.
 Tablets are debossed with Sankyo on one side and C12, C14, or C15 on the other side of the 5, 20, and 40 mg tablets, respectively.
@@ -11,6 +11,8 @@ Tablets are supplied as follows:
 | Bottle of 90 | Not available | NDC 65597-103-90 | NDC 65597-104-90 |
 | Blister 10 cards x 10 | Not available | NDC 65597-103-10 | NDC 65597-104-10 |
 | Blister 1 card x 30 | Not available | NDC 65597-103-03 | NDC 65597-104-03 |
-| Carton 6 cards x 30 | Not available | NDC 65597-103-06 | NDC 65597-104-06 |
+| Carton of 6 cards x 30 | Not available | NDC 65597-103-06 | NDC 65597-104-06 |
 
-Storage Store at 20-25°C (68-77°F) [see USP Controlled Room Temperature].
+Storage
+
+Store at 20-25ºC (68-77ºF) [see USP Controlled Room Temperature].

@@ -1,4 +1,4 @@
-# 3 DOSAGE FORMS AND STRENGTHS
+# 3. DOSAGE FORMS AND STRENGTHS
 
 - 5 mg yellow, round, film-coated, non-scored tablets debossed with Sankyo on one side and C12 on the other side
 - 20 mg white, round, film-coated, non-scored tablets debossed with Sankyo on one side and C14 on the other side

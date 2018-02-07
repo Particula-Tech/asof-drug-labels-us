@@ -1,5 +1,11 @@
-# Package Label - Principal Display Panel – 5 mg 30 ct Bottle Label
+# PRINCIPAL DISPLAY PANEL
 
-# Package Label - Principal Display Panel – 20 mg 30 ct Sleeve
+NDC 65597-101-30 Benicar (olmesartan medoxomil) 5 mg 30 Tablets Rx Only
 
-# Package Label - Principal Display Panel – 40 mg 100 ct Carton
+# PRINCIPAL DISPLAY PANEL
+
+NDC 65597-103-30 Benicar (olmesartan medoxomil) 20 mg 30 Tablets Rx Only
+
+# PRINCIPAL DISPLAY PANEL
+
+NDC 65597-104-30 Benicar (olmesartan medoxomil) 40 mg 30 Tablets Rx Only
