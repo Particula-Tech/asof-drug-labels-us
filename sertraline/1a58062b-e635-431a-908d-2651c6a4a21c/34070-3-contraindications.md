@@ -1,16 +1,12 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-## All Dosage Forms of sertraline hydrochloride
+Sertraline hydrochloride is contraindicated in patients:
 
-The use of MAOIs intended to treat psychiatric disorders with sertraline hydrochloride or within 14 days of stopping treatment with sertraline hydrochloride is contraindicated because of an increased risk of serotonin syndrome.
-The use of sertraline hydrochloride within 14 days of stopping an MAOI intended to treat psychiatric disorders is also contraindicated (see WARNINGS and DOSAGE AND ADMINISTRATION).
+- Taking, or within 14 days of stopping, MAOIs, (including the MAOIs linezolid and intravenous methylene blue) because of an increased risk of serotonin syndrome [See Warnings and Precautions (5.2), Drug Interactions (7.1)].
+- Taking pimozide [See Drug Interactions (7.1)].
+- With known hypersensitivity to sertraline (e.g., anaphylaxis, angioedema) [See Adverse Reactions (6.1, 6.2)].
 
-Starting sertraline hydrochloride in a patient who is being treated with MAOIs such as linezolid or intravenous methylene blue is also contraindicated because of an increased risk of serotonin syndrome (see WARNINGS and DOSAGE AND ADMINISTRATION).
+In addition to the contraindications for all sertraline hydrochloride formulations listed above, sertraline hydrochloride oral concentrate and oral solution are contraindicated in patients:
 
-Concomitant use in patients taking pimozide is contraindicated (see PRECAUTIONS).
-
-Sertraline hydrochloride is contraindicated in patients with a hypersensitivity to sertraline or any of the inactive ingredients in sertraline hydrochloride.
-
-## Oral Concentrate
-
-Sertraline hydrochloride oral concentrate is contraindicated with ANTABUSE (disulfiram) due to the alcohol content of the concentrate.
+- Taking disulfiram.
+  Sertraline hydrochloride oral concentrate and oral solution contain alcohol, and concomitant use of sertraline hydrochloride and disulfiram may result in a disulfiram-alcohol reaction.

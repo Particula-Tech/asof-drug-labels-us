@@ -1,129 +1,60 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-## Initial Treatment
+## 2.1 Dosage in Patients with MDD, OCD, PD, PTSD, and SAD
 
-### Dosage for Adults
+The recommended initial dosage and maximum sertraline hydrochloride dosage in patients with MDD, OCD, PD, PTSD, and SAD are displayed in Table 1 below.
+A dosage of 25 mg or 50 mg per day is the initial therapeutic dosage.
 
-#### Major Depressive Disorder and Obsessive-Compulsive Disorder
+For adults and pediatric patients, subsequent dosages may be increased in case of an inadequate response in 25 to 50 mg per day increments once a week, depending on tolerability, up to a maximum of 200 mg per day.
+Given the 24-hour elimination half-life of sertraline hydrochloride, the recommended interval between dose changes is one week.
 
-Sertraline hydrochloride treatment should be administered at a dose of 50 mg once daily.
+Table 1: Recommended Daily Dosage of Sertraline Hydrochloride in Patients with MDD, OCD, PD, PTSD, and SAD
 
-#### Panic Disorder, Posttraumatic Stress Disorder and Social Anxiety Disorder
+| Indication | Starting Dose | Therapeutic Range |
+| --- | --- | --- |
+| Adults |  |  |
+| MDD | 50 mg | 50–200 mg |
+| OCD | 50 mg |  |
+| PD, PTSD, SAD | 25 mg |  |
+| Pediatric Patients |  |  |
+| OCD (ages 6–12 years old) | 25 mg | 50–200 mg |
+| OCD (ages 13–17 years old) | 50 mg |  |
 
-Sertraline hydrochloride treatment should be initiated with a dose of 25 mg once daily.
-After one week, the dose should be increased to 50 mg once daily.
+## 2.2 Dosage in Patients with PMDD
 
-While a relationship between dose and effect has not been established for major depressive disorder, OCD, panic disorder, PTSD or social anxiety disorder, patients were dosed in a range of 50–200 mg/day in the clinical trials demonstrating the effectiveness of sertraline hydrochloride for the treatment of these indications.
-Consequently, a dose of 50 mg, administered once daily, is recommended as the initial therapeutic dose.
-Patients not responding to a 50 mg dose may benefit from dose increases up to a maximum of 200 mg/day.
-Given the 24 hour elimination half-life of sertraline hydrochloride, dose changes should not occur at intervals of less than 1 week.
+The recommended starting sertraline hydrochloride dosage in adult women with PMDD is 50 mg per day.
+Sertraline hydrochloride may be administered either continuously (every day throughout the menstrual cycle) or intermittently (only during the luteal phase of the menstrual cycle, i.e., starting the daily dosage 14 days prior to the anticipated onset of menstruation and continuing through the onset of menses).
+Intermittent dosing would be repeated with each new cycle.
 
-#### Premenstrual Dysphoric Disorder
+- When dosing continuously, patients not responding to a 50 mg dosage may benefit from dosage increases at 50 mg increments per menstrual cycle up to 150 mg per day.
+- When dosing intermittently, patients not responding to a 50 mg dosage may benefit from increasing the dosage up to a maximum of 100 mg per day during the next menstrual cycle (and subsequent cycles) as follows: 50 mg per day during the first 3 days of dosing followed by 100 mg per day during the remaining days in the dosing cycle.
 
-Sertraline hydrochloride treatment should be initiated with a dose of 50 mg/day, either daily throughout the menstrual cycle or limited to the luteal phase of the menstrual cycle, depending on physician assessment.
+## 2.3 Screen for Bipolar Disorder Prior to Starting Sertraline Hydrochloride
 
-While a relationship between dose and effect has not been established for PMDD, patients were dosed in the range of 50–150 mg/day with dose increases at the onset of each new menstrual cycle (see Clinical Trials under CLINICAL PHARMACOLOGY).
-Patients not responding to a 50 mg/day dose may benefit from dose increases (at 50 mg increments/menstrual cycle) up to 150 mg/day when dosing daily throughout the menstrual cycle, or 100 mg/day when dosing during the luteal phase of the menstrual cycle.
-If a 100 mg/day dose has been established with luteal phase dosing, a 50 mg/day titration step for three days should be utilized at the beginning of each luteal phase dosing period.
+Prior to initiating treatment with sertraline hydrochloride or another antidepressant, screen patients for a personal or family history of bipolar disorder, mania, or hypomania [See Warnings and Precautions (5.4)].
 
-Sertraline hydrochloride should be administered once daily, either in the morning or evening.
+## 2.4 Dosage Modifications in Patients with Hepatic Impairment
 
-### Dosage for Pediatric Population (Children and Adolescents)
+Both the recommended starting dosage and therapeutic range in patients with mild hepatic impairment (Child Pugh scores 5 or 6) are half the recommended daily dosage [See Dosage and Administration (2.1, 2.2)].
+The use of sertraline hydrochloride in patients with moderate (Child Pugh scores 7 to 9) or severe hepatic impairment (Child Pugh scores 10–15) is not recommended [See Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
 
-#### Obsessive-Compulsive Disorder
+## 2.5 Switching Patients to or from a Monoamine Oxidase Inhibitor Antidepressant
 
-Sertraline hydrochloride treatment should be initiated with a dose of 25 mg once daily in children (ages 6–12) and at a dose of 50 mg once daily in adolescents (ages 13–17).
+At least 14 days must elapse between discontinuation of a monoamine oxidase inhibitor (MAOI) antidepressant and initiation of sertraline hydrochloride.
+In addition, at least 14 days must elapse after stopping sertraline hydrochloride before starting an MAOI antidepressant [See Contraindications (4), Warnings and Precautions (5.2)].
 
-While a relationship between dose and effect has not been established for OCD, patients were dosed in a range of 25–200 mg/day in the clinical trials demonstrating the effectiveness of sertraline hydrochloride for pediatric patients (6–17 years) with OCD.
-Patients not responding to an initial dose of 25 or 50 mg/day may benefit from dose increases up to a maximum of 200 mg/day.
-For children with OCD, their generally lower body weights compared to adults should be taken into consideration in advancing the dose, in order to avoid excess dosing.
-Given the 24 hour elimination half-life of sertraline hydrochloride, dose changes should not occur at intervals of less than 1 week.
+## 2.6 Discontinuation of Treatment with Sertraline Hydrochloride
 
-Sertraline hydrochloride should be administered once daily, either in the morning or evening.
+Adverse reactions may occur upon discontinuation of sertraline hydrochloride [See Warnings and Precautions (5.5)].
+Gradually reduce the dosage rather than stopping sertraline hydrochloride abruptly whenever possible.
 
-### Maintenance/Continuation/Extended Treatment
+## 2.7 Preparation of Sertraline Hydrochloride Oral Concentrate and Oral Solution
 
-#### Major Depressive Disorder
+Sertraline hydrochloride oral concentrate and oral solution must be diluted before use.
 
-It is generally agreed that acute episodes of major depressive disorder require several months or longer of sustained pharmacologic therapy beyond response to the acute episode.
-Systematic evaluation of sertraline hydrochloride has demonstrated that its antidepressant efficacy is maintained for periods of up to 44 weeks following 8 weeks of initial treatment at a dose of 50–200 mg/day (mean dose of 70 mg/day) (see Clinical Trials under CLINICAL PHARMACOLOGY).
-It is not known whether the dose of sertraline hydrochloride needed for maintenance treatment is identical to the dose needed to achieve an initial response.
-Patients should be periodically reassessed to determine the need for maintenance treatment.
+- Use the supplied calibrated dropper to measure the amount of sertraline hydrochloride oral concentrate and oral solution needed
+- Note: The supplied calibrated dropper has 25 mg and 50 mg graduation marks only
+- Mix with 4 ounces (1/2 cup) of water, ginger ale, lemon/lime soda, lemonade or orange juice ONLY.
+  After mixing, a slight haze may appear, which is normal.
 
-#### Posttraumatic Stress Disorder
-
-It is generally agreed that PTSD requires several months or longer of sustained pharmacological therapy beyond response to initial treatment.
-Systematic evaluation of sertraline hydrochloride has demonstrated that its efficacy in PTSD is maintained for periods of up to 28 weeks following 24 weeks of treatment at a dose of 50–200 mg/day (see Clinical Trials under CLINICAL PHARMACOLOGY).
-It is not known whether the dose of sertraline hydrochloride needed for maintenance treatment is identical to the dose needed to achieve an initial response.
-Patients should be periodically reassessed to determine the need for maintenance treatment.
-
-#### Social Anxiety Disorder
-
-Social anxiety disorder is a chronic condition that may require several months or longer of sustained pharmacological therapy beyond response to initial treatment.
-Systematic evaluation of sertraline hydrochloride has demonstrated that its efficacy in social anxiety disorder is maintained for periods of up to 24 weeks following 20 weeks of treatment at a dose of 50–200 mg/day (see Clinical Trials under CLINICAL PHARMACOLOGY).
-Dosage adjustments should be made to maintain patients on the lowest effective dose and patients should be periodically reassessed to determine the need for long-term treatment.
-
-#### Obsessive-Compulsive Disorder and Panic Disorder
-
-It is generally agreed that OCD and Panic Disorder require several months or longer of sustained pharmacological therapy beyond response to initial treatment.
-Systematic evaluation of continuing sertraline hydrochloride for periods of up to 28 weeks in patients with OCD and Panic Disorder who have responded while taking sertraline hydrochloride during initial treatment phases of 24 to 52 weeks of treatment at a dose range of 50–200 mg/day has demonstrated a benefit of such maintenance treatment (see Clinical Trials under CLINICAL PHARMACOLOGY).
-It is not known whether the dose of sertraline hydrochloride needed for maintenance treatment is identical to the dose needed to achieve an initial response.
-Nevertheless, patients should be periodically reassessed to determine the need for maintenance treatment.
-
-#### Premenstrual Dysphoric Disorder
-
-The effectiveness of sertraline hydrochloride in long-term use, that is, for more than 3 menstrual cycles, has not been systematically evaluated in controlled trials.
-However, as women commonly report that symptoms worsen with age until relieved by the onset of menopause, it is reasonable to consider continuation of a responding patient.
-Dosage adjustments, which may include changes between dosage regimens (e.g., daily throughout the menstrual cycle versus during the luteal phase of the menstrual cycle), may be needed to maintain the patient on the lowest effective dosage and patients should be periodically reassessed to determine the need for continued treatment.
-
-#### Switching a Patient To or From a Monoamine Oxidase Inhibitor (MAOI) Intended to Treat Psychiatric Disorders
-
-At least 14 days should elapse between discontinuation of an MAOI intended to treat psychiatric disorders and initiation of therapy with sertraline hydrochloride.
-Conversely, at least 14 days should be allowed after stopping sertraline hydrochloride before starting an MAOI intended to treat psychiatric disorders (see CONTRAINDICATIONS).
-
-#### Use of Sertraline Hydrochloride With Other MAOIs Such as Linezolid or Methylene Blue
-
-Do not start sertraline hydrochloride in a patient who is being treated with linezolid or intravenous methylene blue because there is increased risk of serotonin syndrome.
-In a patient who requires more urgent treatment of a psychiatric condition, other interventions, including hospitalization, should be considered (see CONTRAINDICATIONS).
-
-In some cases, a patient already receiving sertraline hydrochloride therapy may require urgent treatment with linezolid or intravenous methylene blue.
-If acceptable alternatives to linezolid or intravenous methylene blue treatment are not available and the potential benefits of linezolid or intravenous methylene blue treatment are judged to outweigh the risks of serotonin syndrome in a particular patient, sertraline hydrochloride should be stopped promptly, and linezolid or intravenous methylene blue can be administered.
-The patient should be monitored for symptoms of serotonin syndrome for 2 weeks or until 24 hours after the last dose of linezolid or intravenous methylene blue, whichever comes first.
-Therapy with sertraline hydrochloride may be resumed 24 hours after the last dose of linezolid or intravenous methylene blue (see WARNINGS).
-
-The risk of administering methylene blue by non-intravenous routes (such as oral tablets or by local injection) or in intravenous doses much lower than 1 mg/kg with sertraline hydrochloride is unclear.
-The clinician should, nevertheless, be aware of the possibility of emergent symptoms of serotonin syndrome with such use (see WARNINGS).
-
-### Special Populations
-
-#### Dosage for Hepatically Impaired Patients
-
-The use of sertraline in patients with liver disease should be approached with caution.
-The effects of sertraline in patients with moderate and severe hepatic impairment have not been studied.
-If sertraline is administered to patients with liver impairment, a lower or less frequent dose should be used (see CLINICAL PHARMACOLOGY and PRECAUTIONS).
-
-#### Treatment of Pregnant Women During the Third Trimester
-
-Neonates exposed to sertraline hydrochloride and other SSRIs or SNRIs, late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding (see PRECAUTIONS).
-When treating pregnant women with sertraline hydrochloride during the third trimester, the physician should carefully consider the potential risks and benefits of treatment.
-
-### Discontinuation of Treatment with Sertraline Hydrochloride
-
-Symptoms associated with discontinuation of sertraline hydrochloride and other SSRIs and SNRIs, have been reported (see PRECAUTIONS).
-Patients should be monitored for these symptoms when discontinuing treatment.
-A gradual reduction in the dose rather than abrupt cessation is recommended whenever possible.
-If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment, then resuming the previously prescribed dose may be considered.
-Subsequently, the physician may continue decreasing the dose but at a more gradual rate.
-
-### Sertraline Hydrochloride Oral Concentrate
-
-Sertraline hydrochloride oral concentrate contains 20 mg/mL of sertraline (as the hydrochloride) as the active ingredient and 12% alcohol.
-Sertraline hydrochloride oral concentrate must be diluted before use.
-Just before taking, use the dropper provided to remove the required amount of sertraline hydrochloride oral concentrate and mix with 4 oz (1/2 cup) of water, ginger ale, lemon/lime soda, lemonade or orange juice ONLY.
-Do not mix sertraline hydrochloride oral concentrate with anything other than the liquids listed.
-The dose should be taken immediately after mixing.
-Do not mix in advance.
-At times, a slight haze may appear after mixing; this is normal.
-Note that caution should be exercised for patients with latex sensitivity, as the dropper dispenser contains dry natural rubber.
-
-Sertraline hydrochloride oral concentrate is contraindicated with ANTABUSE (disulfiram) due to the alcohol content of the concentrate.
+Instruct patients or caregivers to immediately take the dose after mixing.

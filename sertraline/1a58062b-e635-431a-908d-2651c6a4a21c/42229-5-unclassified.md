@@ -1,5 +1,3 @@
-Rx only
+LAB-0340-30.0
 
-LAB-0340-28.0
-
-November 2016
+LAB-0541-9.0 June 2017
