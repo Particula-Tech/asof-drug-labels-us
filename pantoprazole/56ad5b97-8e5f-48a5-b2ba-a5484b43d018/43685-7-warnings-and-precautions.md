@@ -21,10 +21,10 @@ Patients should use the lowest dose and shortest duration of PPI therapy appropr
 
 ## 5.4 Bone Fracture
 
-Several published observational studies suggest that PPI therapy may be associated with an increased risk for osteoporosis-related fractures of the hip, wrist or spine.
+Several published observational studies suggest that PPI therapy may be associated with an increased risk for osteoporosis-related fractures of the hip, wrist, or spine.
 The risk of fracture was increased in patients who received high-dose, defined as multiple daily doses, and long-term PPI therapy (a year or longer).
 Patients should use the lowest dose and shortest duration of PPI therapy appropriate to the condition being treated.
-Patients at risk for osteoporosis-related fractures should be managed according to established treatment guidelines [see Dosage and Administration (2) and Adverse Reactions (6.2)].
+Patients at risk for osteoporosis-related fractures should be managed according to established treatment guidelines [see Dosage and Administration (2), Adverse Reactions (6.2)].
 
 ## 5.5 Cutaneous and Systemic Lupus Erythematosus
 
@@ -65,11 +65,18 @@ Due to the chronic nature of GERD, there may be a potential for prolonged admini
 In long-term rodent studies, pantoprazole was carcinogenic and caused rare types of gastrointestinal tumors.
 The relevance of these findings to tumor development in humans is unknown [see Nonclinical Toxicology (13.1)].
 
-## 5.9 Interference with Urine Screen for THC
+## 5.9 Interference with Investigations for Neuroendocrine Tumors
 
-There have been reports of false positive urine screening tests for tetrahydrocannabinol (THC) in patients receiving PPIs, including pantoprazole sodium delayed-release tablets [see Drug Interactions (7)].
+Serum chromogranin A (CgA) levels increase secondary to drug-induced decreases in gastric acidity.
+The increased CgA level may cause false positive results in diagnostic investigations for neuroendocrine tumors.
+Healthcare providers should temporarily stop pantoprazole sodium delayed-release tablet treatment at least 14 days before assessing CgA levels and consider repeating the test if initial CgA levels are high.
+If serial tests are performed (e.g., for monitoring), the same commercial laboratory should be used for testing, as reference ranges between tests may vary [see Clinical Pharmacology (12.2)].
 
-## 5.10 Concomitant Use of Pantoprazole Sodium Delayed-Release Tablets with Methotrexate
+## 5.10 Interference with Urine Screen for THC
+
+There have been reports of false-positive urine screening tests for tetrahydrocannabinol (THC) in patients receiving PPIs, including pantoprazole sodium delayed-release tablets [see Drug Interactions (7)].
+
+## 5.11 Concomitant Use of Pantoprazole Sodium Delayed-Release Tablets with Methotrexate
 
 Literature suggests that concomitant use of PPIs with methotrexate (primarily at high dose; see methotrexate prescribing information) may elevate and prolong serum levels of methotrexate and/or its metabolite, possibly leading to methotrexate toxicities.
 In high-dose methotrexate administration, a temporary withdrawal of the PPI may be considered in some patients [see Drug Interactions (7)].

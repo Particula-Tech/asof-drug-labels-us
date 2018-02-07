@@ -33,7 +33,7 @@ Based on the potential for tumorigenicity shown for pantoprazole in rodent carci
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of pantoprazole for short-term treatment (up to 8 weeks) of erosive esophagitis (EE) associated with GERD have been established in pediatric patients 1 year through 16 years of age.
+The safety and effectiveness of pantoprazole for short-term treatment (up to 8 weeks) of EE associated with GERD have been established in pediatric patients 1 year through 16 years of age.
 Effectiveness for EE has not been demonstrated in patients less than 1 year of age.
 In addition, for patients less than 5 years of age, there is no appropriate dosage strength in an age-appropriate formulation available.
 Therefore, pantoprazole sodium delayed-release tablets are indicated for the short-term treatment of EE associated with GERD for patients 5 years and older.
@@ -41,7 +41,7 @@ The safety and effectiveness of pantoprazole sodium delayed-release tablets for 
 
 ### 1 Year Through 16 Years of Age
 
-Use of pantoprazole in pediatric patients 1 year through 16 years of age for short-term treatment (up to 8 weeks) of EE associated with GERD is supported by: a) extrapolation of results from adequate and well-controlled studies that supported the approval of pantoprazole sodium delayed-release tablets for treatment of EE associated with GERD in adults, and b) safety, effectiveness, and pharmacokinetic studies performed in pediatric patients [see Clinical Studies (14.1), and Clinical Pharmacology (12.3)].
+Use of pantoprazole in pediatric patients 1 year through 16 years of age for short-term treatment (up to 8 weeks) of EE associated with GERD is supported by: a) extrapolation of results from adequate and well-controlled studies that supported the approval of pantoprazole sodium delayed-release tablets for treatment of EE associated with GERD in adults, and b) safety, effectiveness, and pharmacokinetic studies performed in pediatric patients [see Clinical Studies (14.1), Clinical Pharmacology (12.3)].
 
 Safety of pantoprazole in the treatment of EE associated with GERD in pediatric patients 1 through 16 years of age was evaluated in 3 multicenter, randomized, double-blind, parallel-treatment studies, involving 249 pediatric patients, including 8 with EE (4 patients ages 1 year to 5 years and 4 patients 5 years to 11 years).
 The children ages 1 year to 5 years with endoscopically diagnosed EE (defined as an endoscopic Hetzel-Dent score ≥ 2) were treated once daily for 8 weeks with one of two dose levels of pantoprazole (approximating 0.6 mg/kg or 1.2 mg/kg).
@@ -90,5 +90,5 @@ Full to partial recovery of these effects were noted in animals of both age grou
 
 ## 8.5 Geriatric Use
 
-In short-term U.S. clinical trials, erosive esophagitis healing rates in the 107 elderly patients (≥ 65 years old) treated with pantoprazole sodium delayed-release tablets were similar to those found in patients under the age of 65.
+In short-term U.S. clinical trials, EE healing rates in the 107 elderly patients (≥ 65 years old) treated with pantoprazole sodium delayed-release tablets were similar to those found in patients under the age of 65.
 The incidence rates of adverse reactions and laboratory abnormalities in patients aged 65 years and older were similar to those associated with patients younger than 65 years of age.

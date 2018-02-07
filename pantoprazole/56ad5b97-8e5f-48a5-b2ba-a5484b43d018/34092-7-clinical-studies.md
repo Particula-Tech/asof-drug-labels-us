@@ -36,7 +36,7 @@ Table 9: Erosive Esophagitis Healing Rates (Per Protocol)
 | 4 | 61.4% (p < 0.001) pantoprazole sodium delayed-release tablets vs. nizatidine | 64.0% | 22.2% |
 | 8 | 79.2% | 82.9% | 41.4% |
 
-Once daily treatment with pantoprazole sodium delayed-release tablets 40 mg or 20 mg resulted in significantly superior rates of healing at both 4 and 8 weeks compared with twice daily treatment with 150 mg of nizatidine.
+Once-daily treatment with pantoprazole sodium delayed-release tablets 40 mg or 20 mg resulted in significantly superior rates of healing at both 4 and 8 weeks compared with twice-daily treatment with 150 mg of nizatidine.
 For the 40 mg treatment group, significantly greater healing rates compared to nizatidine were achieved regardless of the H. pylori status.
 
 A significantly greater proportion of the patients in the pantoprazole sodium delayed-release tablet treatment groups experienced complete relief of nighttime heartburn and regurgitation, starting on the first day and of daytime heartburn on the second day, compared with those taking nizatidine 150 mg twice daily.
@@ -51,7 +51,7 @@ All 4 patients with EE were healed (Hetzel-Dent score of 0 or 1) at 8 weeks.
 
 ## 14.2 Long-Term Maintenance of Healing of Erosive Esophagitis
 
-Two independent, multicenter, randomized, double-blind, comparator-controlled trials of identical design were conducted in adult GERD patients with endoscopically confirmed healed erosive esophagitis to demonstrate efficacy of pantoprazole sodium delayed-release tablets in long-term maintenance of healing.
+Two independent, multicenter, randomized, double-blind, comparator-controlled trials of identical design were conducted in adult GERD patients with endoscopically confirmed healed EE to demonstrate efficacy of pantoprazole sodium delayed-release tablets in long-term maintenance of healing.
 The 2 U.S. studies enrolled 386 and 404 patients, respectively, to receive either 10 mg, 20 mg, or 40 mg of pantoprazole sodium delayed-release tablets once daily or 150 mg of ranitidine twice daily.
 As demonstrated in Table 10, pantoprazole sodium delayed-release tablets 40 mg and 20 mg were significantly superior to ranitidine at every timepoint with respect to the maintenance of healing.
 In addition, pantoprazole sodium delayed-release tablets 40 mg were superior to all other treatments studied.

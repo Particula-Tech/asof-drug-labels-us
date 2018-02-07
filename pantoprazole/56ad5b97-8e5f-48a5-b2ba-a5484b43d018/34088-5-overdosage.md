@@ -8,3 +8,5 @@ In case of overdosage, treatment should be symptomatic and supportive.
 
 Single oral doses of pantoprazole at 709 mg/kg, 798 mg/kg, and 887 mg/kg were lethal to mice, rats, and dogs, respectively.
 The symptoms of acute toxicity were hypoactivity, ataxia, hunched sitting, limb-splay, lateral position, segregation, absence of ear reflex, and tremor.
+
+If overexposure to pantoprazole sodium delayed-release tablets occurs, call your Poison Control Center at 1-800-222-1222 for current information on the management of poisoning or overdosage.

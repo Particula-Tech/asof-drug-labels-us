@@ -2,26 +2,29 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-Adverse Reactions:
+Gastric Malignancy: Advise patients to return to their healthcare provider if they have a suboptimal response or an early symptomatic relapse [see Warnings and Precautions (5.1)].
 
-- •Hypersensitivity Reactions [see Contraindications (4)]
-- •Acute Interstitial Nephritis [see Warnings and Precautions (5.2)]
-- •Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.3)]
-- •Bone Fracture [see Warnings and Precautions (5.4)]
-- •Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.5)]
-- •Cyanocobalamin (Vitamin B-12) Deficiency [see Warnings and Precautions (5.6)]
-- •Hypomagnesemia [see Warnings and Precautions (5.7)]
+Acute Interstitial Nephritis: Advise patients to call their healthcare provider immediately if they experience signs and/or symptoms associated with acute interstitial nephritis [see Warnings and Precautions (5.2)].
 
-Drug Interactions:
+Clostridium difficile-Associated Diarrhea: Advise patients to immediately call their healthcare provider if they experience diarrhea that does not improve [see Warnings and Precautions (5.3)].
 
-Instruct patients to inform their healthcare provider of any other medications they are currently taking, including rilpivirine-containing products [see Contraindications (4)], high dose methotrexate [see Warnings and Precautions (5.10)] and over-the-counter medications.
+Bone Fracture: Advise patients to report any fractures, especially of the hip, wrist or spine, to their healthcare provider [see Warnings and Precautions (5.4)].
 
-Pregnancy:
+Cutaneous and Systemic Lupus Erythematosus: Advise patients to immediately call their healthcare provider for any new or worsening of symptoms associated with cutaneous or systemic lupus erythematosus [see Warnings and Precautions (5.5)].
 
-Inform female patients of reproductive potential that pantoprazole sodium delayed-release tablets may cause fetal harm and to inform their prescriber of a known suspected pregnancy [see Use in Specific Populations (8.1)].
+Cyanocobalamin (Vitamin B-12) Deficiency: Advise patients to report any clinical symptoms that may be associated with cyanocobalamin deficiency to their healthcare provider if they have been receiving pantoprazole sodium delayed-release tablets for longer than 3 years [see Warnings and Precautions (5.6)].
+
+Hypomagnesemia: Advise patients to report any clinical symptoms that may be associated with hypomagnesemia to their healthcare provider, if they have been receiving pantoprazole sodium delayed-release tablets for at least 3 months [see Warnings and Precautions (5.7)].
+
+Drug Interactions: Instruct patients to inform their healthcare provider of any other medications they are currently taking, including rilpivirine-containing products [see Contraindications (4)], digoxin [see Warnings and Precautions (5.7)] and high dose methotrexate [see Warnings and Precautions (5.11)].
+
+Pregnancy: Inform female patients of reproductive potential that pantoprazole sodium delayed-release tablets may cause fetal harm and to inform their prescriber of a known or suspected pregnancy [see Use in Specific Populations (8.1)].
 
 Administration:
 
-- •Caution patients that pantoprazole sodium delayed-release tablets should not be split, crushed, or chewed.
-- •Tell patients that pantoprazole sodium delayed-release tablets should be swallowed whole, with or without food in the stomach.
-- •Let patients know that concomitant administration of antacids does not affect the absorption of pantoprazole sodium delayed-release tablets.
+- •Do not split, crush, or chew pantoprazole sodium delayed-release tablets.
+- •Swallow pantoprazole sodium delayed-release tablets whole, with or without food in the stomach.
+- •Concomitant administration of antacids does not affect the absorption of pantoprazole sodium delayed-release tablets.
+- •Take a missed dose as soon as possible.
+  If it is almost time for the next dose, skip the missed dose and take the next dose at the regular scheduled time.
+  Do not take 2 doses at the same time.
