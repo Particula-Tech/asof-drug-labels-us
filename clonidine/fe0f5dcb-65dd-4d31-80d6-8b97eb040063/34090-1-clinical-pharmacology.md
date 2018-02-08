@@ -1,13 +1,13 @@
 # CLINICAL PHARMACOLOGY
 
-Clonidine stimulates alpha-adrenoreceptors in the brain stem.
+Clonidine stimulates alpha‑adrenoreceptors in the brain stem.
 This action results in reduced sympathetic outflow from the central nervous system and in decreases in peripheral resistance, renal vascular resistance, heart rate, and blood pressure.
 Renal blood flow and glomerular filtration rate remain essentially unchanged.
 Normal postural reflexes are intact; therefore, orthostatic symptoms are mild and infrequent.
 
 Acute studies with clonidine hydrochloride in humans have demonstrated a moderate reduction (15% to 20%) of cardiac output in the supine position with no change in the peripheral resistance; at a 45° tilt there is a smaller reduction in cardiac output and a decrease of peripheral resistance.
 
-During long-term therapy, cardiac output tends to return to control values, while peripheral resistance remains decreased.
+During long‑term therapy, cardiac output tends to return to control values, while peripheral resistance remains decreased.
 Slowing of the pulse rate has been observed in most patients given clonidine, but the drug does not alter normal hemodynamic responses to exercise.
 
 Tolerance to the antihypertensive effect may develop in some patients, necessitating a reevaluation of therapy.
@@ -15,12 +15,12 @@ Tolerance to the antihypertensive effect may develop in some patients, necessita
 Other studies in patients have provided evidence of a reduction in plasma renin activity and in the excretion of aldosterone and catecholamines.
 The exact relationship of these pharmacologic actions to the antihypertensive effect of clonidine has not been fully elucidated.
 
-Clonidine acutely stimulates the release of growth hormone in children as well as adults but does not produce a chronic elevation of growth hormone with long-term use.
+Clonidine acutely stimulates the release of growth hormone in children as well as adults but does not produce a chronic elevation of growth hormone with long‑term use.
 
 ## Pharmacokinetics
 
-Catapres-TTS® (clonidine) transdermal therapeutic system delivers clonidine at an approximately constant rate for 7 days.
-The absolute bioavailability of clonidine from the Catapres-TTS transdermal therapeutic system dosage form is approximately 60%.
+Catapres‑TTS® (clonidine) transdermal therapeutic system delivers clonidine at an approximately constant rate for 7 days.
+The absolute bioavailability of clonidine from the Catapres‑TTS transdermal therapeutic system dosage form is approximately 60%.
 Steady-state clonidine plasma levels are obtained within 3 days after transdermal application to the upper outer arm and increase linearly with increasing size of the transdermal patch.
 Mean steady-state plasma concentrations with the 3.5 cm2, 7.0 cm2 and 10.5 cm2 systems are approximately 0.4 ng/mL, 0.8 ng/mL, and 1.1 ng/mL, respectively.
 Similar clonidine steady-state concentrations are reached after application to the chest.
@@ -36,4 +36,4 @@ It has been shown to cross the blood brain barrier in rats.
 Following oral administration, about 40% to 60% of the absorbed dose is recovered in the urine as unchanged drug within 24 hours.
 About 50% of the absorbed dose is metabolized in the liver.
 
-After removal of the Catapres-TTS transdermal therapeutic system, clonidine plasma concentrations decline slowly with a half-life of approximately 20 hours.
+After removal of the Catapres‑TTS transdermal therapeutic system, clonidine plasma concentrations decline slowly with a half-life of approximately 20 hours.

@@ -11,9 +11,9 @@
   ],
   "products": [
     {
-      "form": "PATCH, EXTENDED RELEASE",
+      "form": "PATCH",
       "generic": "clonidine",
-      "name": "Catapres"
+      "name": "Catapres-TTS"
     }
   ],
   "setid": "fe0f5dcb-65dd-4d31-80d6-8b97eb040063",

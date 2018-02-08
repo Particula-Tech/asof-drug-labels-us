@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-CATAPRES-TTS-1, CATAPRES-TTS-2, and CATAPRES-TTS-3 are supplied as 4 pouched systems and 4 adhesive covers per carton.
+CATAPRES‑TTS-1, CATAPRES‑TTS-2, and CATAPRES-TTS-3 are supplied as 4 pouched systems and 4 adhesive covers per carton.
 See chart below.
 
 |  | Programmed Delivery Clonidine in vivo |  |  |  |  |
