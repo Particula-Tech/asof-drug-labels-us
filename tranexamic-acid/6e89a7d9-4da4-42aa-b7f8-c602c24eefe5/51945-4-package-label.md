@@ -64,32 +64,20 @@ Rx only
 
 Pfizer Injectables
 
-# PRINCIPAL DISPLAY PANEL - 10 Vial Box Label
+# PRINCIPAL DISPLAY PANEL - 10 mL Vial Carton Box
 
-LOT/EXP
-
-Store at 25°C (77°F); excursions permitted to 15°-30°C (59°-86°F) [see USP Controlled Room Temperature].
-
-DOSAGE AND USE: See accompanying prescribing information.
-
-Each vial contains 1 g tranexamic acid.
-
-MADE IN JAPAN
-
-Distributed by Pharmacia & Upjohn Co Division of Pfizer Inc, NY, NY 10017
-
-NDC 0013-1114-21 Contains 10 of NDC 0013-1114-20
+NDC 0013-1114-21 Contains 10 of NDC 0013-1114-20 Rx only
 
 10 x 10 mL Vials
 
-Cyklokapron®
+Cyklokapron® (tranexamic acid injection)
 
-(tranexamic acid injection) 1000 mg/10 mL (100 mg/mL)
+1000 mg/10 mL (100 mg/mL)
 
 Solution for intravenous injection
 
 Single-Dose ONLY Discard any remaining portion after single use
 
-Rx only
+Pfizer Injectables
 
-PAA057067
+TEAR HERE
