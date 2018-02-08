@@ -12,7 +12,7 @@ Patients should be advised:
   Patients should also be advised to inform their physicians prescribing a new medication that they are taking FENOGLIDE.
 - •to inform their physician of any muscle pain, tenderness, or weakness; onset of abdominal pain; or any other new symptoms.
 
-Distributed by: Salix Pharmaceuticals, a division of
+Manufactured for: Salix Pharmaceuticals, a division of
 
 Valeant Pharmaceuticals North America LLC
 
@@ -24,8 +24,8 @@ Fenoglide is a trademark of Valeant Pharmaceuticals International, Inc. or its a
 
 U.S. Patent Numbers: 7,658,944, 8,124,125, 8,481,078, and 9,173,847
 
-Revised: 12/2015
+Revised: 01/2017
 
-9501800
+6906800
 
-750-08943
+70013008

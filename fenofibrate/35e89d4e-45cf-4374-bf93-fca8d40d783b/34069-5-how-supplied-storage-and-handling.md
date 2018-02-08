@@ -2,7 +2,7 @@
 
 FENOGLIDE® (fenofibrate) Tablets 40 mg, are white to off-white oval tablets debossed "FLO" on one side and blank on the other side.
 
-Bottle of 90 tablets, NDC 68012-490-90.
+Bottle of 90 tablets, NDC 68012-490-90
 
 FENOGLIDE® (fenofibrate) Tablets 120 mg are white to off-white oval tablets debossed "FHI" on one side and blank on the other side.
 
