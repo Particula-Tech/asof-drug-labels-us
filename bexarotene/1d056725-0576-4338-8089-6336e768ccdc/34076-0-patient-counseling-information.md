@@ -75,6 +75,6 @@ Any other product/brand names are trademarks of their respective owners.
 
 © Valeant Pharmaceuticals International, Inc.
 
-9391502
+9436600
 
-Revised: 07/2015
+Revised: 10/2015

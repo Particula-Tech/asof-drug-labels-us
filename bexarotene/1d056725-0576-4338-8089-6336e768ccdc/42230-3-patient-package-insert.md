@@ -171,4 +171,4 @@ For more information, call 1-800-321-4576.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Revised: 07/2015
+Revised: 10/2015
