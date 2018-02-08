@@ -158,8 +158,6 @@ Pregnancy
 
 Teratogenic Effects
 
-Pregnancy Category C
-
 Teratogenic studies have been performed with labetalol in rats and rabbits at oral doses up to approximately 6 and 4 times the maximum recommended human dose (MRHD), respectively.
 No reproducible evidence of fetal malformations was observed.
 Increased fetal resorptions were seen in both species at doses approximating the MRHD.
