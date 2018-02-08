@@ -1,8 +1,8 @@
-PRINCIPAL DISPLAY PANEL - 3 Ring Carton
+# PRINCIPAL DISPLAY PANEL - 3 Ring Pouch Carton
 
 For the Dispenser: Store refrigerated 2-8°C (36- 46°F).
 
-NDC 0052-0273-03
+NDC 0052-0273-05
 
 NUVARING® (etonogestrel/ethinyl estradiol vaginal ring) delivers 0.120 mg/0.015 mg per day
 
