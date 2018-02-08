@@ -39,10 +39,9 @@ Before using NITROSTAT, tell your doctor if:
 - You are taking any medicines that are used to treat angina, heart failure, or an irregular heartbeat.
 - You are taking any medicines that reduce blood pressure.
 - You are taking any diuretics (water pills).
-- You are taking medications to treat depression or psychiatric illness.
+- You are taking medicines that can cause dry mouth such as tricyclic antidepressants (e.g. amitriptyline, desipramine, doxepin), anticholinergic drugs, or any antimuscarinic drugs (e.g. atropine).
 - You are taking ergotamine or similar drugs for migraine headaches.
 - You are taking aspirin.
-- You are taking the blood thinner medicine heparin.
 - You are taking any medicines for erectile dysfunction.
 - You are pregnant or plan to become pregnant.
 - You are breastfeeding.
@@ -82,8 +81,6 @@ NITROSTAT may cause the following side effects:
 - flushing (warm or red condition of your skin)
 - other skin reactions that may be severe
 
-NITROSTAT may cause a false test result of decreased serum cholesterol.
-
 Tell your doctor if you are concerned about any side effects you experience.
 These are not all the possible side effects of NITROSTAT.
 For a complete list, ask your doctor or pharmacist.
@@ -103,4 +100,4 @@ It may harm them.
 
 You can ask your pharmacist or doctor for information about NITROSTAT, or you can visit the Pfizer website at www.pfizer.com or call 1-800-438-1985.
 
-LAB-0422-2.0 January 2017
+LAB-0422-3.0 Revised January 2018

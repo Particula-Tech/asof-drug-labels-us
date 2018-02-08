@@ -1,0 +1,6 @@
+# 17 PATIENT COUNSELING INFORMATION
+
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
+
+This product's label may have been updated.
+For full prescribing information, please visit www.pfizer.com.
