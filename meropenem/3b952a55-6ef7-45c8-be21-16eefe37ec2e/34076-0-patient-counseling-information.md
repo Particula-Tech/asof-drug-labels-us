@@ -10,7 +10,7 @@
 - Counsel patients to inform their physician if they are taking valproic acid or divalproex sodium.
   Valproic acid concentrations in the blood may drop below the therapeutic range upon co-administration with Meropenem for Injection USP and Sodium Chloride Injection USP.
   If treatment with Meropenem for Injection USP and Sodium Chloride Injection USP is necessary and continued, alternative or supplemental anti-convulsant medication to prevent and/or treat seizures may be needed [see Warnings and Precautions (5.3)].
-- Patients receiving Meropenem for Injection USP and Sodium Chloride Injection USP on an outpatient basis may develop adverse events such as seizures, delirium, headaches and/or paresthesias that could interfere with mental alertness and/or cause motor impairment.
+- Patients receiving Meropenem for Injection USP and Sodium Chloride Injection USP on an outpatient basis must be alerted of adverse events such as seizures, delirium, headaches and/or paresthesias that could interfere with mental alertness and/or cause motor impairment.
   Until it is reasonably well established that Meropenem for Injection USP and Sodium Chloride Injection USP is well tolerated, patients should not operate machinery or motorized vehicles [see Warnings and Precautions (5.10)].
 - Meropenem for Injection USP and Sodium Chloride Injection USP contains a high sodium load.
   Instruct patients to inform or report symptoms of difficulty breathing, swelling, or increased weight [see Warnings and Precautions (5.11)].

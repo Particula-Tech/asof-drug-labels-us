@@ -15,13 +15,12 @@ The success rates for clinically evaluable population are provided in Table 6.
 
 Table 6: Success Rates at Test-of-Cure Visit for Clinically Evaluable Population with Complicated Skin and Skin Structure Infections
 
-| Success RatePercent of satisfactory clinical response at follow-up evaluation. |  |  |
-| --- | --- | --- |
 | Population | Meropenem for Injection nn=number of patients with satisfactory response./NN=number of patients in the clinically evaluable population or respective subgroup within treatment groups.(%) | Imipenem-cilastatin n/N(%) |
+| --- | --- | --- |
 | Total | 225/261 (86) | 238/287 (83) |
 | Diabetes mellitus | 83/97 (86) | 76/105 (72) |
 | No diabetes mellitus | 142/164 (87) | 162/182 (89) |
-| less than 65 years of age | 190/218 (87) | 205/241 (85) |
+| Less than 65 years of age | 190/218 (87) | 205/241 (85) |
 | 65 years of age and older | 35/43 (81) | 33/46 (72) |
 | Men | 130/148 (88) | 137/172 (80) |
 | Women | 95/113 (84) | 101/115 (88) |
@@ -79,7 +78,7 @@ Patients were defined as clinically not cured if any one of the following three 
 2. During therapy the patient’s clinical status necessitated the addition of other antibacterial drugs.
 3. Either during or post-therapy, the patient developed a large subdural effusion needing surgical drainage, or a cerebral abscess, or a bacteriologic relapse.
 
-Using the definition, the following efficacy rates were obtained, per organism.
+Using the definition, the following efficacy rates were obtained, per organism (noted in Table 9).
 The values represent the number of patients clinically cured/number of clinically evaluable patients, with the percent cure in parentheses.
 
 Table 9: Efficacy Rates by Pathogen in the Clinically Evaluable Population with Bacterial Meningitis
@@ -95,11 +94,6 @@ Table 9: Efficacy Rates by Pathogen in the Clinically Evaluable Population with 
 Sequelae were the most common reason patients were assessed as clinically not cured.
 
 Five patients were found to be bacteriologically not cured, 3 in the comparator group (1 relapse and 2 patients with cerebral abscesses) and 2 in the meropenem group (1 relapse and 1 with continued growth of Pseudomonas aeruginosa).
-
-The adverse events seen were comparable between the two treatment groups both in type and frequency.
-The meropenem group did have a statistically higher number of patients with transient elevation of liver enzymes [see Adverse Reactions (6.1)].
-Rates of seizure activity during therapy were comparable between patients with no CNS abnormalities who received meropenem and those who received comparator agents.
-In the meropenem for injection treated group, 12/15 patients with seizures had late onset seizures (defined as occurring on day 3 or later) versus 7/20 in the comparator arm.
 
 With respect to hearing loss, 263 of the 271 evaluable patients had at least one hearing test performed post-therapy.
 The following table shows the degree of hearing loss between the meropenem-treated patients and the comparator-treated patients.

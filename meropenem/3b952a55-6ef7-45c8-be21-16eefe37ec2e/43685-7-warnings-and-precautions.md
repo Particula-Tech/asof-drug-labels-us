@@ -6,10 +6,8 @@ Serious and occasionally fatal hypersensitivity (anaphylactic) reactions have be
 These reactions are more likely to occur in individuals with a history of sensitivity to multiple allergens.
 
 There have been reports of individuals with a history of penicillin hypersensitivity who have experienced severe hypersensitivity reactions when treated with another beta-lactam.
-Before initiating therapy with Meropenem for Injection USP and Sodium Chloride Injection USP, careful inquiry should be made concerning previous hypersensitivity reactions to penicillins, cephalosporins, other beta-lactams, and other allergens.
+Before initiating therapy with Meropenem for Injection USP and Sodium Chloride Injection USP, it is important to inquire about previous hypersensitivity reactions to penicillins, cephalosporins, other beta-lactams, and other allergens.
 If an allergic reaction to Meropenem for Injection USP and Sodium Chloride Injection USP occurs, discontinue the drug immediately.
-Serious anaphylactic reactions require immediate emergency treatment with epinephrine, oxygen, intravenous steroids, and airway management, including intubation.
-Other therapy may also be administered as indicated.
 
 ## 5.2 Seizure Potential
 
@@ -19,20 +17,20 @@ These experiences have occurred most commonly in patients with CNS disorders (e.
 During clinical investigations, 2904 immunocompetent adult patients were treated for non-CNS infections with the overall seizure rate being 0.7% (based on 20 patients with this adverse event).
 All meropenem-treated patients with seizures had pre-existing contributing factors.
 Among these are included prior history of seizures or CNS abnormality and concomitant medications with seizure potential.
-Dosage adjustment is recommended in patients with advanced age and/or reduced renal function [see Dosage and Administration (2.2)].
+Dosage adjustment is recommended in patients with advanced age and/or adult patients with creatinine clearance of 50 mL/min or less [see Dosage and Administration (2.2)].
 
 Close adherence to the recommended dosage regimens is urged, especially in patients with known factors that predispose to convulsive activity.
 Anti-convulsant therapy should be continued in patients with known seizure disorders.
-If focal tremors, myoclonus, or seizures occur, patients should be evaluated neurologically, placed on anti-convulsant therapy if not already instituted, and the dosage of Meropenem for Injection USP and Sodium Chloride Injection USP re-examined to determine whether it should be decreased or the antibacterial drug discontinued.
+If focal tremors, myoclonus, or seizures occur, evaluate neurologically, place on anti-convulsant therapy if not already instituted, and re-examine the dosage of Meropenem for Injection USP and Sodium Chloride Injection USP to determine whether it should be decreased or discontinued.
 
-## 5.3 Interaction with Valproic Acid
+## 5.3 Risk of Breakthrough Seizures Due to Drug Interaction with Valproic Acid
 
+The concomitant use of meropenem and valproic acid or divalproex sodium is generally not recommended.
 Case reports in the literature have shown that co-administration of carbapenems, including meropenem, to patients receiving valproic acid or divalproex sodium results in a reduction in valproic acid concentrations.
 The valproic acid concentrations may drop below the therapeutic range as a result of this interaction, therefore increasing the risk of breakthrough seizures.
 Increasing the dose of valproic acid or divalproex sodium may not be sufficient to overcome this interaction.
-The concomitant use of meropenem and valproic acid or divalproex sodium is generally not recommended.
-Antibacterials other than carbapenems should be considered to treat infections in patients whose seizures are well controlled on valproic acid or divalproex sodium.
-If administration of Meropenem for Injection USP and Sodium Chloride Injection USP is necessary, supplemental anti-convulsant therapy should be considered [see Drug Interactions (7.2)].
+Consider administration of antibacterial drugs other than carbapenems to treat infections in patients whose seizures are well controlled on valproic acid or divalproex sodium.
+If administration of Meropenem for Injection USP and Sodium Chloride Injection USP is necessary, consider supplemental anti-convulsant therapy [see Drug Interactions (7.2)].
 
 ## 5.4 Clostridium difficile–Associated Diarrhea
 
@@ -57,24 +55,16 @@ As with other broad-spectrum antibacterial drugs, prolonged use of meropenem may
 Repeated evaluation of the patient is essential.
 If superinfection does occur during therapy, appropriate measures should be taken.
 
-## 5.7 Laboratory Tests
-
-While meropenem for injection possesses the characteristic low toxicity of the beta-lactam group of antibacterial drugs, periodic assessment of organ system functions, including renal, hepatic, and hematopoietic, is advisable during prolonged therapy.
-
-## 5.8 Patients with Renal Impairment
+## 5.7 Thrombocytopenia
 
 In patients with renal impairment, thrombocytopenia has been observed but no clinical bleeding reported [see Dosage and Administration (2.2), Adverse Reactions (6.1), Use In Specific Populations (8.5) and (8.6), and Clinical Pharmacology (12.3)].
 
-## 5.9 Dialysis
+## 5.8 Potential for Neuromotor Impairment
 
-There is inadequate information regarding the use of meropenem for injection in patients on hemodialysis or peritoneal dialysis.
+Alert patients receiving meropenem for injection on an outpatient basis regarding adverse events such as seizures, delirium, headaches and/or paresthesias that could interfere with mental alertness and/or cause motor impairment.
+Until it is reasonably well established that meropenem for injection is well tolerated, advise patients not to operate machinery or motorized vehicles [see Adverse Reactions (6.1)].
 
-## 5.10 Potential for Neuromotor Impairment
-
-Patients receiving meropenem for injection on an outpatient basis may develop adverse events such as seizures, headaches and/or paresthesias that could interfere with mental alertness and/or cause motor impairment.
-Until it is reasonably well established that meropenem for injection is well tolerated, patients should not operate machinery or motorized vehicles [see Adverse Reactions (6.1)].
-
-## 5.11 High Sodium Load
+## 5.9 High Sodium Load
 
 Each 500 mg of Meropenem for Injection USP and Sodium Chloride Injection USP delivers 245.1 mg (10.7 mEq) of sodium and each 1 gram of Meropenem for Injection USP and Sodium Chloride Injection USP delivers 290.2 mg (12.6 mEq) of sodium.
 Avoid use of Meropenem for Injection USP and Sodium Chloride Injection USP in patients with congestive heart failure, elderly patients and patients requiring restricted sodium intake.

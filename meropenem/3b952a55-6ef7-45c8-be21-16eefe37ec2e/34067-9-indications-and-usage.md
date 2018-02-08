@@ -1,18 +1,16 @@
 # 1 INDICATIONS AND USAGE
 
-Meropenem for Injection USP and Sodium Chloride Injection USP is useful as presumptive therapy in the indicated condition (e.g., intra-abdominal infections) prior to the identification of the causative organisms because of its broad spectrum of bactericidal activity.
+## 1.1 Complicated Skin and Skin Structure Infections (Adult Patients and Pediatric Patients 3 Months of age and older requiring the full adult dose only)
 
-## 1.1 Skin and Skin Structure Infections (Adult Patients and Pediatric Patients 3 months of age and older requiring the full adult dose only)
+Meropenem for Injection USP and Sodium Chloride Injection USP is indicated for the treatment of complicated skin and skin structure infections (cSSSI) due to Staphylococcus aureus (methicillin-susceptible isolates only), Streptococcus pyogenes, Streptococcus agalactiae, viridans group streptococci, Enterococcus faecalis (vancomycin-susceptible isolates only), Pseudomonas aeruginosa, Escherichia coli, Proteus mirabilis, Bacteroides fragilis, and Peptostreptococcus species.
 
-Meropenem for Injection USP and Sodium Chloride Injection USP is indicated as a single agent therapy for the treatment of complicated skin and skin structure infections due to Staphylococcus aureus (methicillin-susceptible isolates only), Streptococcus pyogenes, Streptococcus agalactiae, viridans group streptococci, Enterococcus faecalis (vancomycin-susceptible isolates only), Pseudomonas aeruginosa, Escherichia coli, Proteus mirabilis, Bacteroides fragilis, and Peptostreptococcus species.
+## 1.2 Complicated Intra-abdominal Infections (Adult Patients and Pediatric Patients 3 Months of age and older requiring the full adult dose only)
 
-## 1.2 Intra-abdominal Infections (Adult Patients and Pediatric Patients 3 months of age and older requiring the full adult dose only)
-
-Meropenem for Injection USP and Sodium Chloride Injection USP is indicated as a single agent therapy for the treatment of complicated appendicitis and peritonitis caused by viridans group streptococci, Escherichia coli, Klebsiella pneumoniae, Pseudomonas aeruginosa, Bacteroides fragilis, B. thetaiotaomicron, and Peptostreptococcus species.
+Meropenem for Injection USP and Sodium Chloride Injection USP is indicated for the treatment of complicated appendicitis and peritonitis caused by viridans group streptococci, Escherichia coli, Klebsiella pneumoniae, Pseudomonas aeruginosa, Bacteroides fragilis, B. thetaiotaomicron, and Peptostreptococcus species.
 
 ## 1.3 Bacterial Meningitis (Pediatric Patients 3 Months of age and older requiring the full adult dose only)
 
-Meropenem for Injection USP and Sodium Chloride Injection USP is indicated as a single agent therapy for the treatment of bacterial meningitis caused by Streptococcus pneumoniaeThe efficacy of meropenem as monotherapy in the treatment of meningitis caused by penicillin nonsusceptible isolates of Streptococcus pneumoniae has not been established., Haemophilus influenzae, and Neisseria meningitidis.
+Meropenem for Injection USP and Sodium Chloride Injection USP is indicated for the treatment of bacterial meningitis caused by Haemophilus influenzae, Neisseria meningitidis and penicillin-susceptible isolates of Streptococcus pneumoniae.
 
 Meropenem has been found to be effective in eliminating concurrent bacteremia in association with bacterial meningitis.
 

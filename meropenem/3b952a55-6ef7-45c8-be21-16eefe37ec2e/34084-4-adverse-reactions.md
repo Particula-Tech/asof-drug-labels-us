@@ -4,14 +4,13 @@ The following are discussed in greater detail in other sections of labeling:
 
 - Hypersensitivity Reactions [see Warnings and Precautions (5.1)]
 - Seizure Potential [see Warnings and Precautions (5.2)]
-- Interaction with Valproic Acid [see Warnings and Precautions (5.3)]
+- Risk of Breakthrough Seizures Due to Drug Interaction with Valproic Acid [see Warnings and Precautions (5.3)]
 - Clostridium difficile – Associated Diarrhea [see Warnings and Precautions (5.4)]
 - Development of Drug-Resistant Bacteria [see Warnings and Precautions (5.5)]
 - Overgrowth of Nonsusceptible Organisms [see Warnings and Precautions (5.6)]
-- Laboratory Tests [see Warnings and Precautions (5.7)]
-- Patients with Renal Impairment [see Warnings and Precautions (5.8)]
-- Dialysis [see Warnings and Precautions (5.9)]
-- Potential for Neuromotor Impairment [see Warnings and Precautions (5.10)]
+- Thrombocytopenia [see Warnings and Precautions (5.7)]
+- Potential for Neuromotor Impairment [see Warnings and Precautions (5.8)]
+- High Sodium Load [see Warnings and Precautions (5.9)]
 
 ## 6.1 Adverse Reactions from Clinical Trials
 
@@ -28,7 +27,7 @@ The following adverse reaction frequencies were derived from the clinical trials
 
 Local Adverse Reactions
 
-Local adverse reactions that were reported irrespective of the relationship to therapy with meropenem for injection were as follows:
+Local adverse reactions that were reported with meropenem for injection were as follows:
 
 | Inflammation at the injection site | 2.4% |
 | --- | --- |
@@ -39,11 +38,11 @@ Local adverse reactions that were reported irrespective of the relationship to t
 
 Systemic Adverse Reactions
 
-Systemic adverse reactions that were reported irrespective of the relationship to meropenem for injection occurring in greater than 1.0% of the patients were diarrhea (4.8%), nausea/vomiting (3.6%), headache (2.3%), rash (1.9%), sepsis (1.6%), constipation (1.4%), apnea (1.3%), shock (1.2%), and pruritus (1.2%).
+Systemic adverse events that were reported with meropenem for injection occurring in greater than 1.0% of the patients were diarrhea (4.8%), nausea/vomiting (3.6%), headache (2.3%), rash (1.9%), sepsis (1.6%), constipation (1.4%), apnea (1.3%), shock (1.2%), and pruritus (1.2%).
 
-Additional systemic adverse reactions that were reported irrespective of relationship to therapy with meropenem for injection and occurring in less than or equal to 1.0% but greater than 0.1% of the patients are listed below within each body system in order of decreasing frequency:
+Additional systemic adverse reactions that were reported with meropenem for injection and occurring in less than or equal to 1.0% but greater than 0.1% of the patients are listed below within each body system in order of decreasing frequency:
 
-Bleeding events were seen as follows: gastrointestinal hemorrhage (0.5%), melena (0.3%), epistaxis (0.2%), hemoperitoneum (0.2%), summing to 1.2%.
+Bleeding events were seen as follows: gastrointestinal hemorrhage (0.5%), melena (0.3%), epistaxis (0.2%), hemoperitoneum (0.2%).
 
 Body as a Whole: pain, abdominal pain, chest pain, fever, back pain, abdominal enlargement, chills, pelvic pain
 
@@ -55,7 +54,7 @@ Hemic/Lymphatic: anemia, hypochromic anemia, hypervolemia
 
 Metabolic/Nutritional: peripheral edema, hypoxia
 
-Nervous System: insomnia, agitation, delirium, confusion, dizziness, seizure, nervousness, paresthesia, hallucinations, somnolence, anxiety, depression, asthenia [see Warnings and Precautions (5.2) and (5.10)]
+Nervous System: insomnia, agitation, delirium, confusion, dizziness, seizure, nervousness, paresthesia, hallucinations, somnolence, anxiety, depression, asthenia [see Warnings and Precautions (5.2) and (5.8)]
 
 Respiratory: respiratory disorder, dyspnea, pleural effusion, asthma, cough increased, lung edema
 
@@ -65,15 +64,13 @@ Urogenital System: dysuria, kidney failure, vaginal moniliasis, urinary incontin
 
 Adverse Laboratory Changes
 
-Adverse laboratory changes that were reported irrespective of relationship to meropenem for injection and occurring in greater than 0.2% of the patients were as follows:
+Adverse laboratory changes that were reported and occurring in greater than 0.2% of the patients were as follows:
 
-Hepatic: increased SGPT (ALT), SGOT (AST), alkaline phosphatase, LDH, and bilirubin
+Hepatic: increased alanine transaminase (ALT), aspartate transaminase (AST), alkaline phosphatase, lactate dehydrogenase (LDH), and bilirubin
 
-Hematologic: increased platelets, increased eosinophils, decreased platelets, decreased hemoglobin, decreased hematocrit, decreased WBC, shortened prothrombin time and shortened partial thromboplastin time, leukocytosis, hypokalemia
+Hematologic: increased platelets, increased eosinophils, decreased platelets, decreased hemoglobin, decreased hematocrit, decreased white blood cell (WBC), shortened prothrombin time and shortened partial thromboplastin time, leukocytosis, hypokalemia
 
-Renal: increased creatinine and increased BUN
-
-NOTE: For patients with varying degrees of renal impairment, the incidence of heart failure, kidney failure, seizure and shock reported irrespective of relationship to meropenem for injection, increased in patients with moderately severe renal impairment (creatinine clearance greater than 10 to 26 mL/min) [see Dosage and Administration (2.2), Warnings and Precautions (5.8), Use in Specific Populations (8.5) and (8.6) and Clinical Pharmacology (12.3)].
+Renal: increased creatinine and increased blood urea nitrogen (BUN)
 
 Urinalysis: presence of red blood cells
 
@@ -83,20 +80,28 @@ In a study of complicated skin and skin structure infections, the adverse reacti
 The most common adverse events occurring in greater than 5% of the patients were: headache (7.8%), nausea (7.8%), constipation (7.0%), diarrhea (7.0%), anemia (5.5%), and pain (5.1%).
 Adverse events with an incidence of greater than 1%, and not listed above, include: pharyngitis, accidental injury, gastrointestinal disorder, hypoglycemia, peripheral vascular disorder, and pneumonia.
 
+Patients with Renal Impairment:
+
+For patients with varying degrees of renal impairment, the incidence of heart failure, kidney failure, seizure and shock reported irrespective of relationship to meropenem for injection, increased in patients with moderately severe renal impairment (creatinine clearance greater than 10 to 26 mL/min) [see Dosage and Administration (2.2), Warnings and Precautions (5.8), Use in Specific Populations (8.5) and (8.6) and Clinical Pharmacology (12.3)].
+
 Pediatric Patients
 
-Clinical Adverse Reactions
+Systemic and Local Adverse Reactions
+
+Pediatric Patients with Serious Bacterial Infections (excluding Bacterial Meningitis):
 
 Meropenem for injection was studied in 515 pediatric patients (3 months of age and older to below 13 years of age) with serious bacterial infections (excluding meningitis, see next section) at dosages of 10 to 20 mg/kg every 8 hours.
-The types of clinical adverse events seen in these patients are similar to the adults, with the most common adverse events reported as possibly, probably, or definitely related to meropenem for injection and their rates of occurrence as follows:
+The types of systemic and local adverse events seen in these patients are similar to the adults, with the most common adverse events reported as possibly, probably, or definitely related to meropenem for injection and their rates of occurrence as follows:
 
 | Diarrhea | 3.5% |  |
 | --- | --- | --- |
 | Rash | 1.6% |  |
 | Nausea and Vomiting | 0.8% |  |
 
+Pediatric Patients with Bacterial Meningitis:
+
 Meropenem for injection was studied in 321 pediatric patients (3 months of age and older to below 17 years of age) with meningitis at a dosage of 40 mg/kg every 8 hours.
-The types of clinical adverse events seen in these patients are similar to the adults, with the most common adverse events reported as possibly, probably, or definitely related to meropenem for injection and their rates of occurrence as follows:
+The types of systemic and local adverse events seen in these patients are similar to the adults, with the most common adverse events reported as possibly, probably, or definitely related to meropenem for injection and their rates of occurrence as follows:
 
 | Diarrhea | 4.7% |
 | --- | --- |
@@ -106,18 +111,17 @@ The types of clinical adverse events seen in these patients are similar to the a
 
 In the meningitis studies, the rates of seizure activity during therapy were comparable between patients with no CNS abnormalities who received meropenem and those who received comparator agents (either cefotaxime or ceftriaxone).
 In the meropenem for injection treated group, 12/15 patients with seizures had late onset seizures (defined as occurring on day 3 or later) versus 7/20 in the comparator arm.
-
-Adverse Laboratory Changes
-
-Laboratory changes seen in the pediatric studies, including the meningitis studies, were similar to those reported in the adult studies.
-
-There is no experience in pediatric patients with renal impairment.
+The meropenem group had a statistically higher number of patients with transient elevation of liver enzymes.
 
 ## 6.2 Post-Marketing Experience
 
 The following adverse reactions have been identified during post-approval use of meropenem for injection.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Worldwide post-marketing adverse reactions not otherwise listed in the Adverse Reactions section of this product label and reported as possibly, probably, or definitely drug related are listed within each body system in order of decreasing severity.
-Hematologic - agranulocytosis, neutropenia, and leukopenia; a positive direct or indirect Coombs test, and hemolytic anemia.
-Skin-toxic epidermal necrolysis, Stevens-Johnson Syndrome, angioedema, and erythema multiforme.
+Worldwide post-marketing adverse reactions not otherwise listed in the Adverse Reactions from Clinical Trials section of this prescribing information and reported as possibly, probably, or definitely drug related are listed within each body system in order of decreasing severity.
+
+Blood and Lymphatic System Disorders: agranulocytosis, neutropenia, and leukopenia; a positive direct or indirect Coombs test, and hemolytic anemia.
+
+Immune System Disorders: angioedema and drug rash with eosinophilia and systemic symptoms (DRESS syndrome).
+
+Skin and Subcutaneous Disorders: toxic epidermal necrolysis, Stevens-Johnson syndrome, and erythema multiforme.
