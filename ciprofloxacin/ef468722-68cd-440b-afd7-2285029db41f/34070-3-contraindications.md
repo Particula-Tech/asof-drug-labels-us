@@ -2,7 +2,7 @@
 
 ## 4.1 Hypersensitivity
 
-Ciprofloxacin is contraindicated in persons with a history of hypersensitivity to ciprofloxacin, any member of the quinolone class of antibacterials, or any of the product components [see Warnings and Precautions (5.3)].
+Ciprofloxacin tablet is contraindicated in persons with a history of hypersensitivity to ciprofloxacin, any member of the quinolone class of antibacterials, or any of the product components [see Warnings and Precautions (5.7)].
 
 ## 4.2 Tizanidine
 

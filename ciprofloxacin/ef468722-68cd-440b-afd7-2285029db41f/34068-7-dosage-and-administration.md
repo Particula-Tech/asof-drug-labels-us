@@ -4,34 +4,36 @@ Ciprofloxacin should be administered orally as described in the appropriate Dosa
 
 ## 2.1 Dosage in Adults
 
-The determination of dosage and duration for any particular patient must take into consideration the severity and nature of the infection, the susceptibility of the causative microorganism, the integrity of the patient’s host-defense mechanisms, and the status of renal and hepatic function.
+The determination of dosage and duration for any particular patient must take into consideration the severity and nature of the infection, the susceptibility of the causative microorganism, the integrity of the patient's host-defense mechanisms, and the status of renal and hepatic function.
+Ciprofloxacin tablets may be administered to adult patients when clinically indicated at the discretion of the physician.
 
-Table 1: Adult Dosage Guidelines
-
-| Infection | Dose | Frequency | Usual DurationsGenerally ciprofloxacin should be continued for at least 2 days after the signs and symptoms of infection have disappeared, except for inhalational anthrax (post-exposure). |
+| Table 1: Adult Dosage Guidelines |  |  |  |
 | --- | --- | --- | --- |
-| Urinary Tract | 250 mg- 500 mg | every 12 hours | 7 to 14 days |
-| Acute Uncomplicated Cystitis | 250 mg | every 12 hours | 3 days |
-| Chronic Bacterial Prostatitis | 500 mg | every 12 hours | 28 days |
-| Lower Respiratory Tract | 500 mg -750 mg | every 12 hours | 7 to 14 days |
-| Acute Sinusitis | 500 mg | every 12 hours | 10 days |
-| Skin and Skin Structure | 500 mg -750 mg | every 12 hours | 7 to 14 days |
-| Bone and Joint | 500 mg -750 mg | every 12 hours | 4 to 8 weeks |
-| Complicated Intra–AbdominalUsed in conjunction with metronidazole. | 500 mg | every 12 hours | 7 to 14 days |
+| Infection | Dose | Frequency | Usual Durations1 |
+| Skin and Skin Structure | 500-750 mg | every 12 hours | 7 to 14 days |
+| Bone and Joint | 500-750 mg | every 12 hours | 4 to 8 weeks |
+| Complicated Intra-Abdominal2 | 500 mg | every 12 hours | 7 to 14 days |
 | Infectious Diarrhea | 500 mg | every 12 hours | 5 to 7 days |
 | Typhoid Fever | 500 mg | every 12 hours | 10 days |
 | Uncomplicated Urethral and Cervical Gonococcal Infections | 250 mg | single dose | single dose |
-| Inhalational Anthrax (Post-Exposure)Begin drug administration as soon as possible after suspected or confirmed exposure. | 500 mg | every 12 hours | 60 days |
-| Plague | 500 mg - 750 mg | every 12 hours | 14 days |
+| Inhalational anthrax (post-exposure)3 | 500 mg | every 12 hours | 60 days |
+| Plague3 | 500-750 mg | every 12 hours | 14 days |
+| Chronic Bacterial Prostatitis | 500 mg | every 12 hours | 28 days |
+| Lower Respiratory Tract Infections | 500-750 mg | every 12 hours | 7 to 14 days |
+| Urinary Tract Infections | 250-500 mg | every 12 hours | 7 to 14 days |
+| Acute Uncomplicated Cystitis | 250 mg | every 12 hours | 3 days |
+| Acute Sinusitis | 500 mg | every 12 hours | 10 days |
+| 1. Generally ciprofloxacin should be continued for at least 2 days after the signs and symptoms of infection have disappeared, except for inhalational anthrax (post-exposure). |  |  |  |
+| 2. Used in conjunction with metronidazole. |  |  |  |
+| 3. Begin drug administration as soon as possible after suspected or confirmed exposure. |  |  |  |
 
 ### Conversion of IV to Oral Dosing in Adults
 
-Patients whose therapy is started with ciprofloxacin IV may be switched to ciprofloxacin tablets or Oral Suspension when clinically indicated at the discretion of the physician (Table 2) [see Clinical Pharmacology (12.3)].
+Patients whose therapy is started with ciprofloxacin IV may be switched to ciprofloxacin tablets or oral suspension when clinically indicated at the discretion of the physician (Table 2) [see Clinical Pharmacology (12.3)].
 
-Table 2: Equivalent AUC Dosing Regimens
-
-| Ciprofloxacin Oral Dosage | Equivalent Ciprofloxacin IV Dosage |
+| Table 2: Equivalent AUC Dosing Regimens |  |
 | --- | --- |
+| Ciprofloxacin Oral Dosage | Equivalent Ciprofloxacin IV Dosage |
 | 250 mg Tablet every 12 hours | 200 mg intravenous every 12 hours |
 | 500 mg Tablet every 12 hours | 400 mg intravenous every 12 hours |
 | 750 mg Tablet every 12 hours | 400 mg intravenous every 8 hours |
@@ -41,13 +43,13 @@ Table 2: Equivalent AUC Dosing Regimens
 Dosing and initial route of therapy (that is, IV or oral) for cUTI or pyelonephritis should be determined by the severity of the infection.
 Ciprofloxacin should be administered as described in Table 3.
 
-Table 3: Pediatric Dosage Guidelines
-
-| Infection | Dose | Frequency | Total Duration |
-| --- | --- | --- | --- |
-| Complicated Urinary Tract or Pyelonephritis (patients from 1 to 17 years of age) | 10 mg/kg to 20 mg/kg (maximum 750 mg per dose; not to be exceeded even in patients weighing more than 51 kg) | Every 12 hours | 10 to 21 days The total duration of therapy for cUTI and pyelonephritis in the clinical trial was determined by the physician. The mean duration of treatment was 11 days (range 10 to 21 days). |
-| Inhalational Anthrax (Post-Exposure) Begin drug administration as soon as possible after suspected or confirmed exposure. | 15 mg/kg (maximum 500 mg per dose) | Every 12 hours | 60 days |
-| Plague, Begin drug administration as soon as possible after suspected or confirmed exposure to Y. pestis. | 15 mg/kg (maximum 500 mg per dose) | Every 12 to 8 hours | 10 -21 days |
+| Table 3: Pediatric Dosage Guidelines |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Infection | Dose | Frequency | Total Duration |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Complicated Urinary Tract or Pyelonephritis (patients from 1 to 17 years of age) | 10 mg/kg to 20 mg/kg (maximum 750 mg per dose; not to be exceeded even in patients weighing more than 51 kg) | Every 12 hours | 10 to 21 days1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Inhalational Anthrax (Post-Exposure)2 | 15 mg/kg (maximum 500 mg per dose) | Every 12 hours | 60 days |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Plague2,3 | 15 mg/kg (maximum 500 mg per dose) | Every 8 to 12 hours | 10 -21 days |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 1. The total duration of therapy for cUTI and pyelonephritis in the clinical trial was determined by the physician. The mean duration of treatment was 11 days (range 10 to 21 days). 2. Begin drug administration as soon as possible after suspected or confirmed exposure. 3. Begin drug administration as soon as possible after suspected or confirmed exposure to Y. pestis. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 ## 2.3 Dosage Modifications in Patients with Renal Impairment
 
@@ -56,14 +58,13 @@ These alternative pathways of drug elimination appear to compensate for the redu
 Nonetheless, some modification of dosage is recommended, particularly for patients with severe renal dysfunction.
 Dosage guidelines for use in patients with renal impairment are shown in Table 4.
 
-Table 4: Recommended Starting and Maintenance Doses for Adult Patients with Impaired Renal Function
-
-| Creatinine Clearance (mL/min) | Dose |
+| Table 4: Recommended Starting and Maintenance Doses for Adult Patients with Impaired Renal Function |  |
 | --- | --- |
+| Creatinine Clearance (mL/min) | Dose |
 | > 50 | See Usual Dosage. |
-| 30 - 50 | 250 mg - 500 mg every 12 hours |
-| 5 - 29 | 250 mg - 500 mg every 18 hours |
-| Patients on hemodialysis or Peritoneal dialysis | 250 mg - 500 mg every 24 hours (after dialysis) |
+| 30 - 50 | 250-500 mg every 12 hours |
+| 5 - 29 | 250-500 mg every 18 hours |
+| Patients on hemodialysis or Peritoneal dialysis | 250 500 mg every 24 hours (after dialysis) |
 
 When only the serum creatinine concentration is known, the following formulas may be used to estimate creatinine clearance:
 
@@ -83,15 +84,15 @@ No information is available on dosing adjustments necessary for pediatric patien
 
 With Multivalent Cations
 
-Administer ciprofloxacin at least 2 hours before or 6 hours after magnesium/aluminum antacids; polymeric phosphate binders (for example, sevelamer, lanthanum carbonate) or sucralfate; Videx® (didanosine) chewable/buffered tablets or pediatric powder for oral solution; other highly buffered drugs; or other products containing calcium, iron or zinc.
+Administer ciprofloxacin tablets at least 2 hours before or 6 hours after magnesium/aluminum antacids; polymeric phosphate binders (for example, sevelamer, lanthanum carbonate) or sucralfate; Videx® (didanosine) chewable/buffered tablets or pediatric powder for oral solution; other highly buffered drugs; or other products containing calcium, iron or zinc.
 
 With Dairy Products
 
 Concomitant administration of ciprofloxacin with dairy products (like milk or yogurt) or calcium-fortified juices alone should be avoided since decreased absorption is possible; however, ciprofloxacin may be taken with a meal that contains these products.
 
-Hydration of Patients Receiving Ciprofloxacin
+Hydration of Patients Receiving Ciprofloxacin Tablets
 
-Assure adequate hydration of patients receiving ciprofloxacin to prevent the formation of highly concentrated urine.
+Assure adequate hydration of patients receiving ciprofloxacin tablets to prevent the formation of highly concentrated urine.
 Crystalluria has been reported with quinolones.
 
-Instruct the patient of the appropriate ciprofloxacin administration [see Patient Counseling Information (17)].
+Instruct the patient of the appropriate ciprofloxacin tablet administration [see Patient Counseling Information (17)].

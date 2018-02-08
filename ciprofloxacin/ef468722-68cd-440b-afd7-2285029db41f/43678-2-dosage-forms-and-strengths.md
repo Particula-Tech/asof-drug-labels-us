@@ -2,6 +2,6 @@
 
 ## 3.1 Tablets
 
-- 250 mg white to slightly yellowish, film-coated, round, biconvex, embossed with word “P” on one side and 250 on reverse side
-- 500 mg white to slightly yellowish, film-coated, capsule shaped, embossed with the word “P” on one side and “500” on reverse side
-- 750 mg white to slightly yellowish, film-coated, capsule shaped, embossed with the word “P” on one side and “750” on reverse side
+- For 250 mg: White colored, biconvex, circular, film coated tablets, embossed 'P' on one side and '250' on the other side.
+- For 500 mg: White colored, biconvex, capsule shaped, film coated tablets, embossed 'P' on one side and '500' on the other side.
+- For 750 mg: White colored, biconvex, capsule shaped, film coated tablets, embossed 'P' on one side and '750' on the other side.

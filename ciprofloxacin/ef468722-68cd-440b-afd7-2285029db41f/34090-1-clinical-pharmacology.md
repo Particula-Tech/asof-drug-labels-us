@@ -9,12 +9,11 @@ Ciprofloxacin is a member of the fluoroquinolone class of antibacterial agents [
 Absorption
 
 The absolute bioavailability of ciprofloxacin when given as an oral tablet is approximately 70% with no substantial loss by first pass metabolism.
-Ciprofloxacin maximum serum concentrations and area under the curve are shown in the chart for the 250 mg to 1000 mg dose range (Table 10).
+Ciprofloxacin maximum serum concentrations (Cmax)and area under the curve (AUC) are shown in the chart for the 250 mg to 1000 mg dose range (Table 12).
 
-Table 10: Maximum Serum Concentrations and Areas Under the Curve
-
-| Dose (mg) | Maximum Serum Concentration (mcg/mL) | Area Under Curve (AUC) (mcg•hr/mL) |
+| Table 12: Ciprofloxacin Cmax and AUC Following Administration of Single Doses of Ciprofloxacin Tablets to Healthy Subjects |  |  |
 | --- | --- | --- |
+| Dose (mg) | Cmax (mcg/mL) | AUC (mcg•hr/mL) |
 | 250 | 1.2 | 4.8 |
 | 500 | 2.4 | 11.6 |
 | 750 | 4.3 | 20.2 |
@@ -25,24 +24,21 @@ Mean concentrations 12 hours after dosing with 250, 500, or 750 mg are 0.1, 0.2,
 The serum elimination half-life in subjects with normal renal function is approximately 4 hours.
 Serum concentrations increase proportionately with doses up to 1000 mg.
 
-A 500 mg oral dose given every 12 hours has been shown to produce an area under the serum concentration time curve (AUC) equivalent to that produced by an intravenous infusion of 400 mg ciprofloxacin given over 60 minutes every 12 hours.
+A 500 mg oral dose given every 12 hours has been shown to produce an AUC equivalent to that produced by an intravenous infusion of 400 mg ciprofloxacin given over 60 minutes every 12 hours.
 A 750 mg oral dose given every 12 hours has been shown to produce an AUC at steady-state equivalent to that produced by an intravenous infusion of 400 mg given over 60 minutes every 8 hours.
 A 750 mg oral dose results in a Cmax similar to that observed with a 400 mg intravenous dose.
-A 250 mg oral dose given every 12 hours produces an AUC equivalent to that produced by an infusion of 200 mg ciprofloxacin given every 12 hours (Table 11).
+A 250 mg oral dose given every 12 hours produces an AUC equivalent to that produced by an infusion of 200 mg ciprofloxacin given every 12 hours (Table 13).
 
-Table 11: Steady-state Pharmacokinetic Parameters Following Multiple Oral and IV Doses
-
-| Parameters | 500 mg | 400 mg | 750 mg | 400 mg |
+| Table 13: Steady-state Cmax and AUC of Ciprofloxacin Following Administration of Multiple Oral and IV Ciprofloxacin Doses to Healthy Subjects |  |  |  |  |
 | --- | --- | --- | --- | --- |
-|  | Every 12 hours, orally | Every 12 hours, intravenous | Every 12 hours, orally | Every 8 hours, IV |
-| AUC (mcg•hr/mL) | 13.7AUC 0 to 12h | 12.7 | 31.6AUC 24h = AUC 0 to 12h x 2 | 32.9AUC 24h = AUC 0 to 8h x 3 |
+| Parameters | 500 mg | 400 mg | 750 mg | 400 mg |
+|  | every 12 hours, orally | every 12 hours, intravenous | every 12 hours, orally | every 8 hours, intravenous |
+| AUC (mcg•hr/mL) | 13.71. AUC 0–12h | 12.7 | 31.62. AUC 24h = AUC0–12h x 2 | 32.93. AUC 24h = AUC0–8h x 3 |
 | Cmax (mcg/mL) | 2.97 | 4.56 | 3.59 | 4.07 |
 
-Food
-
-When ciprofloxacin tablet is given concomitantly with food, there is a delay in the absorption of the drug, resulting in peak concentrations that occur closer to 2 hours after dosing rather than 1 hour.
-The overall absorption of ciprofloxacin tablets, however, is not substantially affected.
-Avoid concomitant administration of ciprofloxacin with dairy products (like milk or yogurt) or calcium-fortified juices alone since decreased absorption is possible; however, ciprofloxacin may be taken with a meal that contains these products
+Food When ciprofloxacin tablet is given concomitantly with food, there is a delay in the absorption of the drug, resulting in peak concentrations that occur closer to 2 hours after dosing rather than 1 hour.
+The overall absorption of ciprofloxacin tablet, however, is not substantially affected.
+Avoid concomitant administration of ciprofloxacin with dairy products (like milk or yogurt) or calcium-fortified juices alone since decreased absorption is possible; however, ciprofloxacin may be taken with a meal that contains these products.
 
 With oral administration, a 500 mg dose, given as 10 mL of the 5% ciprofloxacin suspension (containing 250 mg ciprofloxacin/5mL) is bioequivalent to the 500 mg tablet.
 
@@ -62,7 +58,7 @@ Metabolism
 Four metabolites have been identified in human urine which together account for approximately 15% of an oral dose.
 The metabolites have antimicrobial activity, but are less active than unchanged ciprofloxacin.
 Ciprofloxacin is an inhibitor of human cytochrome P450 1A2 (CYP1A2) mediated metabolism.
-Co-administration of ciprofloxacin with other drugs primarily metabolized by CYP1A2 results in increased plasma concentrations of these drugs and could lead to clinically significant adverse events of the co-administered drug [see Contraindications (4.2), Warnings and Precautions (5.6, 5.15), and Drug Interactions (7)].
+Co-administration of ciprofloxacin with other drugs primarily metabolized by CYP1A2 results in increased plasma concentrations of these drugs and could lead to clinically significant adverse events of the co-administered drug [see Contraindications (4.2), Warnings and Precautions (5.9, 5.15), and Drug Interactions (7)].
 
 Excretion
 
@@ -72,7 +68,7 @@ After a 250 mg oral dose, urine concentrations of ciprofloxacin usually exceed 2
 The urinary excretion of ciprofloxacin is virtually complete within 24 hours after dosing.
 The renal clearance of ciprofloxacin, which is approximately 300 mL/minute, exceeds the normal glomerular filtration rate of 120 mL/minute.
 Thus, active tubular secretion would seem to play a significant role in its elimination.
-Coadministration of probenecid with ciprofloxacin results in about a 50% reduction in the ciprofloxacin renal clearance and a 50% increase in its concentration in the systemic circulation.
+Co-administration of probenecid with ciprofloxacin results in about a 50% reduction in the ciprofloxacin renal clearance and a 50% increase in its concentration in the systemic circulation.
 
 Although bile concentrations of ciprofloxacin are several fold higher than serum concentrations after oral dosing, only a small amount of the dose administered is recovered from the bile as unchanged drug.
 An additional 1% to 2% of the dose is recovered from the bile in the form of metabolites.
@@ -99,20 +95,11 @@ Hepatic Impairment
 In preliminary studies in patients with stable chronic liver cirrhosis, no significant changes in ciprofloxacin pharmacokinetics have been observed.
 The kinetics of ciprofloxacin in patients with acute hepatic insufficiency, have not been fully studied.
 
-Pediatrics
-
-Following a single oral dose of 10 mg/kg ciprofloxacin suspension to 16 children ranging in age from 4 months to 7 years, the mean Cmax was 2.4 mcg/mL (range: 1.5 mcg/mL to 3.4 mcg/mL) and the mean AUC was 9.2 mcg*hr/mL (range: 5.8 mcg*hr/mL to 14.9 mcg*h/mL).
-There was no apparent age-dependence, and no notable increase in Cmax or AUC upon multiple dosing (10 mg/kg three times a day).
-In children with severe sepsis who were given ciprofloxacin IV (10 mg/kg as a 1-hour intravenous infusion), the mean Cmax was 6.1 mcg/mL (range: 4.6 mcg/mL to 8.3 mcg/mL) in 10 children less than 1 year of age; and 7.2 mcg/mL (range: 4.7 mcg/mL to 11.8 mcg/mL) in 10 children between 1 year and 5 years of age.
-The AUC values were 17.4 mcg*hr/mL (range: 11.8 mcg*hr/mL to 32 mcg*hr/mL) and 16.5 mcg*hr/mL (range: 11 mcg*hr/mL to 23.8 mcg*hr/mL) in the respective age groups.
-These values are within the range reported for adults at therapeutic doses.
-Based on population pharmacokinetic analysis of pediatric patients with various infections, the predicted mean half-life in children is approximately 4 hours to 5 hours, and the bioavailability of the oral suspension is approximately 60%.
-
 Drug-Drug Interactions
 
 Antacids
 
-Concurrent administration of antacids containing magnesium hydroxide or aluminum hydroxide may reduce the bioavailability of ciprofloxacin by as much as 90% [see Dosage and Administration (2.1) and Drug Interactions (7)].
+Concurrent administration of antacids containing magnesium hydroxide or aluminum hydroxide may reduce the bioavailability of ciprofloxacin by as much as 90% [see Dosage and Administration (2.4) and Drug Interactions (7)].
 
 Histamine H2-receptor antagonists
 
@@ -130,7 +117,7 @@ Concomitant administration of tizanidine and ciprofloxacin is contraindicated du
 Ropinirole
 
 In a study conducted in 12 patients with Parkinson’s disease who were administered 6 mg ropinirole once daily with 500 mg ciprofloxacin twice-daily, the mean Cmax and mean AUC of ropinirole were increased by 60% and 84%, respectively.
-Monitoring for ropinirole-related adverse reactions and appropriate dose adjustment of ropinirole is recommended during and shortly after co-administration with ciprofloxacin [see Warnings and Precautions (5.6)].
+Monitoring for ropinirole-related adverse reactions and appropriate dose adjustment of ropinirole is recommended during and shortly after co-administration with ciprofloxacin [see Warnings and Precautions (5.9)].
 
 Clozapine
 
@@ -140,7 +127,7 @@ Careful monitoring of clozapine associated adverse reactions and appropriate adj
 Sildenafil
 
 Following concomitant administration of a single oral dose of 50 mg sildenafil with 500 mg ciprofloxacin to healthy subjects, the mean Cmax and mean AUC of sildenafil were both increased approximately two-fold.
-Use sildenafil with caution when co-administered with ciprofloxacin due to the expected two-fold increase in the exposure of sildenafil upon coadministration of ciprofloxacin.
+Use sildenafil with caution when co-administered with ciprofloxacin due to the expected two-fold increase in the exposure of sildenafil upon co-administration of ciprofloxacin.
 
 Duloxetine
 
@@ -201,19 +188,18 @@ These reports should aid the physician in selecting an antibacterial drug produc
 
 Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
-The MICs should be determined using a standardized test method (broth and/or agar).5,6,7 The MIC values should be interpreted according to criteria provided in Table 11.
+The MICs should be determined using a standardized test method (broth and/or agar).5,6,7 The MIC values should be interpreted according to criteria provided in Table 14.
 
 #### Diffusion Techniques
 
 Quantitative methods that require measurement of zone diameters can also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
 The zone size provides an estimate of the susceptibility of bacteria to antimicrobial compounds.
 The zone size should be determined using a standardized test method.6,7,8 This procedure uses paper disks impregnated with 5 mcg ciprofloxacin to test the susceptibility of bacteria to ciprofloxacin.
-The disc diffusion interpretive criteria are provided in Table 12.
+The disc diffusion interpretive criteria are provided in Table 14.
 
-Table 12: Susceptibility Test Interpretive Criteria for Ciprofloxacin
-
-|  | MIC (mcg/mL) |  |  | Zone Diameter (mm) |  |  |
+| Table 14: Susceptibility Test Interpretive Criteria for Ciprofloxacin |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
+|  | MIC (mcg/mL) |  |  | Zone Diameter (mm) |  |  |
 | Bacteria | S | I | R | S | I | R |
 | Enterobacteriaceae | ≤ 1 | 2 | ≥ 4 | ≥ 21 | 16 - 20 | ≤ 15 |
 | Enterococcus faecalis | ≤ 1 | 2 | ≥ 4 | ≥ 21 | 16 - 20 | ≤ 15 |
@@ -231,7 +217,7 @@ Table 12: Susceptibility Test Interpretive Criteria for Ciprofloxacin
 | Yersinia pestis | ≤ 0.25 | - | - | - | - | - |
 | S=Susceptible, I=Intermediate, and R=Resistant. |  |  |  |  |  |  |
 
-A report of “Susceptible” indicates that the antimicrobial is likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentrations at the site of infection necessary to inhibit growth of the pathogen.
+A report of "Susceptible" indicates that the antimicrobial is likely to inhibit growth of the pathogen if the antimicrobial compound reaches the concentrations at the site of infection necessary to inhibit growth of the pathogen.
 A report of “Intermediate” indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
 This category implies possible clinical applicability in body sites where the drug is physiologically concentrated or in situations where high dosage of drug can be used.
 This category also provides a buffer zone that prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
@@ -239,13 +225,12 @@ A report of “Resistant” indicates that the antimicrobial is not likely to in
 
 #### Quality Control
 
-Standardized susceptibility test procedures require the use of laboratory controls to monitor the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test.5,6,7,8 Standard ciprofloxacin powder should provide the following range of MIC values noted in Table 13.
-For the diffusion technique using the ciprofloxacin 5 mcg disk the criteria in Table 11 should be achieved.
+Standardized susceptibility test procedures require the use of laboratory controls to monitor the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test.5,6,7,8 Standard ciprofloxacin powder should provide the following range of MIC values noted in Table 15.
+For the diffusion technique using the ciprofloxacin 5 mcg disk the criteria in Table 15 should be achieved.
 
-Table 13: Acceptable Quality Control Ranges for Ciprofloxacin
-
-| Bacteria | MIC range (mcg/mL) | Zone Diameter (mm) |
+| Table 15: Acceptable Quality Control Ranges for Ciprofloxacin |  |  |
 | --- | --- | --- |
+| Bacteria | MIC range (mcg/mL) | Zone Diameter (mm) |
 | Enterococcus faecalis ATCC 29212 | 0.25 - 2 | - |
 | Escherichia coli ATCC 25922 | 0.004 - 0.015 | 30 - 40 |
 | Haemophilus influenzae ATCC 49247 | 0.004 - 0.03 | 34 - 42 |
@@ -253,4 +238,4 @@ Table 13: Acceptable Quality Control Ranges for Ciprofloxacin
 | Staphylococcus aureus ATCC 29213 | 0.12 - 0.5 | - |
 | Staphylococcus aureus ATCC 25923 | - | 22 - 30 |
 | Neisseria gonorrhoeae ATCC 49226MIC is determined by the agar dilution method | 0.001 - 0.008 | 48 - 58 |
-| Campylobacter jejuni ATCC 33560 | 0.06- 0.25 and 0.03 - 0.12 |  |
+| Campylobacter jejuni ATCC 33560 | 0.06- 0.25 and 0.03 - 0.12 | - |

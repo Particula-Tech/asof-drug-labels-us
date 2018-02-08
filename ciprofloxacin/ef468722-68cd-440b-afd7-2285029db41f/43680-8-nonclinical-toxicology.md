@@ -12,9 +12,7 @@ Eight in vitro mutagenicity tests have been conducted with ciprofloxacin, and th
 - Saccharomyces cerevisiae Point Mutation Assay (Negative)
 - Saccharomyces cerevisiae Mitotic Crossover and Gene Conversion Assay (Negative)
 - Rat Hepatocyte DNA Repair Assay (Positive)
-
-Thus, 2 of the 8 tests were positive, but results of the following 3 in vivo test systems gave negative results:
-
+- Thus, 2 of the 8 tests were positive, but results of the following 3 in vivo test systems gave negative results:
 - Rat Hepatocyte DNA Repair Assay
 - Micronucleus Test (Mice)
 - Dominant Lethal Test (Mice)
@@ -22,8 +20,8 @@ Thus, 2 of the 8 tests were positive, but results of the following 3 in vivo tes
 Long-term carcinogenicity studies in rats and mice resulted in no carcinogenic or tumorigenic effects due to ciprofloxacin at daily oral dose levels up to 250 mg/kg and 750 mg/kg to rats and mice, respectively (approximately 1.7-and 2.5-times the highest recommended therapeutic dose based upon body surface area, respectively).
 
 Results from photo co-carcinogenicity testing indicate that ciprofloxacin does not reduce the time to appearance of UV-induced skin tumors as compared to vehicle control.
-Hairless (Skh-1) mice were exposed to UVA light for 3.5 hours five times every two weeks for up to 78 weeks while concurrently being administered ciprofloxacin tablets.
-The time to development of the first skin tumors was 50 weeks in mice treated concomitantly with UVA and ciprofloxacin tablets (mouse dose approximately equal to the maximum recommended human dose based upon body surface area), as opposed to 34 weeks when animals were treated with both UVA and vehicle.
+Hairless (Skh-1) mice were exposed to UVA light for 3.5 hours five times every two weeks for up to 78 weeks while concurrently being administered ciprofloxacin.
+The time to development of the first skin tumors was 50 weeks in mice treated concomitantly with UVA and ciprofloxacin (mouse dose approximately equal to the maximum recommended human dose based upon body surface area), as opposed to 34 weeks when animals were treated with both UVA and vehicle.
 The times to development of skin tumors ranged from 16 weeks to 32 weeks in mice treated concomitantly with UVA and other quinolones.9
 
 In this model, mice treated with ciprofloxacin alone did not develop skin or systemic tumors.
@@ -34,7 +32,7 @@ Fertility studies performed in rats at oral doses of ciprofloxacin up to 100 mg/
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 
-Ciprofloxacin and other quinolones have been shown to cause arthropathy in immature animals of most species tested [see Warnings and Precautions (5.11)].
+Ciprofloxacin and other quinolones have been shown to cause arthropathy in immature animals of most species tested [see Warnings and Precautions (5.12)].
 Damage of weight bearing joints was observed in juvenile dogs and rats.
 In young beagles, 100 mg/kg ciprofloxacin, given daily for 4 weeks, caused degenerative articular changes of the knee joint.
 At 30 mg/kg, the effect on the joint was minimal.
