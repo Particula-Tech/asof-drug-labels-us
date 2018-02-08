@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA210428"
+  ],
+  "inn": "metoprolol",
+  "labeler": "Sun Pharmaceutical Industries Inc.",
+  "package_ndcs": [
+    "63304-008-30",
+    "63304-009-30",
+    "63304-010-30",
+    "63304-011-30"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "metoprolol succinate",
+      "name": "Metoprolol Succinate"
+    }
+  ],
+  "setid": "90aa06a3-100f-4466-b950-506303707b01",
+  "source": "dailymed"
+}
