@@ -1,6 +1,8 @@
 # ADVERSE REACTIONS
 
-General
+To report SUSPECTED ADVERSE REACTIONS, contact Hospira, Inc. at 1-800-441-4100 or FDA at 1-800-FDA-1088 or www.fda.gov.
+
+## General
 
 Adverse event information is derived from controlled clinical trials and worldwide marketing experience.
 In the description below, rates of the more common events represent US/Canadian clinical study results.
@@ -8,21 +10,21 @@ Less frequent events are also derived from publications and marketing experience
 These studies were conducted using a variety of premedicants, varying lengths of surgical/diagnostic procedures, and various other anesthetic/sedative agents.
 Most adverse events were mild and transient.
 
-Anesthesia and MAC Sedation in Adults
+## Anesthesia and MAC Sedation in Adults
 
-The following estimates of adverse events for propofol injectable emulsion include data from clinical trials in general anesthesia/MAC sedation (N=2889 adult patients).
+The following estimates of adverse events for propofol injectable emulsion include data from clinical trials in general anesthesia/MAC sedation (N=2,889 adult patients).
 The adverse events listed below as probably causally related are those events in which the actual incidence rate in patients treated with propofol injectable emulsion was greater than the comparator incidence rate in these trials.
 Therefore, incidence rates for anesthesia and MAC sedation in adults generally represent estimates of the percentage of clinical trial patients which appeared to have probable causal relationship.
 
 The adverse experience profile from reports of 150 patients in the MAC sedation clinical trials is similar to the profile established with propofol during anesthesia (see below).
 During MAC sedation clinical trials, significant respiratory events included cough, upper airway obstruction, apnea, hypoventilation, and dyspnea.
 
-Anesthesia in Pediatric Patients
+## Anesthesia in Pediatric Patients
 
 Generally the adverse experience profile from reports of 506 propofol injectable emulsion pediatric patients from 6 days through 16 years of age in the US/Canadian anesthesia clinical trials is similar to the profile established with propofol injectable emulsion during anesthesia in adults (see Pediatric percentages [Peds %] below).
 Although not reported as an adverse event in clinical trials, apnea is frequently observed in pediatric patients.
 
-ICU Sedation in Adults
+## ICU Sedation in Adults
 
 The following estimates of adverse events include data from clinical trials in ICU sedation (N=159 adult patients).
 Probably related incidence rates for ICU sedation were determined by individual case report form review.
@@ -37,35 +39,59 @@ Incidence greater than 1% - Probably Causally Related
 | Cardiovascular: | Bradycardia | Bradycardia |
 |  | Arrhythmia [Peds: 1.2%] |  |
 |  | Tachycardia Nodal [Peds: 1.6%] |  |
-|  | HypotensionIncidence of events 3% to 10% [Peds: 17%](see also CLINICAL PHARMACOLOGY) | Decreased Cardiac Output |
+|  | HypotensionIncidence of events 3% to 10% [Peds: 17%] (see also CLINICAL PHARMACOLOGY) | Decreased Cardiac Output |
 |  | [Hypertension Peds: 8%] | Hypotension 26% |
 | Central Nervous System: | Movement [Peds: 17%] |  |
-| Injection Site: | Burning/Stinging or Pain, 17.6%[Peds: 10%] |  |
+| Injection Site: | Burning/Stinging or Pain, 17.6% [Peds: 10%] |  |
 | Metabolic/Nutritional: |  | Hyperlipemia |
 | Respiratory: | Apnea (see also CLINICAL PHARMACOLOGY) | Respiratory Acidosis During Weaning |
-| Skin and Appendages: | Rash [Peds: 5%]Pruritus [Peds: 2%] |  |
+| Skin and Appendages: | Rash [Peds: 5%] Pruritus [Peds: 2%] |  |
 | Events without an * or % had an incidence of 1% to 3% |  |  |
 
-|  | Incidence less than 1% - Probably Causally Related |  |
-| --- | --- | --- |
+Incidence less than 1% - Probably Causally Related
+
 |  | Anesthesia/MAC Sedation | ICU Sedation |
-| Body as a Whole: | Anaphylaxis/Anaphylactoid Reaction, Perinatal Disorder, [Tachycardia], [Bigeminy], [Bradycardia], [Premature Ventricular Contractions], [Hemorrhage], [ECG Abnormal], [Arrhythmia Atrial], [Fever], [Extremities Pain], [Anticholinergic Syndrome] |  |
-| Cardiovascular: | Premature Atrial Contractions, Syncope |  |
+| --- | --- | --- |
+| Body as a Whole: | Anaphylaxis/Anaphylactoid Reaction |  |
+|  | Perinatal Disorder |  |
+|  | Tachycardia |  |
+|  | Bigeminy |  |
+|  | Bradycardia |  |
+|  | Premature Ventricular Contractions |  |
+|  | Hemorrhage |  |
+|  | ECG Abnormal |  |
+|  | Arrhythmia Atrial |  |
+|  | Fever |  |
+|  | Extremities Pain |  |
+|  | Anticholinergic Syndrome |  |
+| Cardiovascular: | Premature Atrial Contractions |  |
+|  | Syncope |  |
 | Central Nervous System: | Hypertonia/Dystonia, Paresthesia | Agitation |
-| Digestive: | [Hypersalivation], [Nausea] |  |
-| Hemic/Lymphatic: | [Leukocytosis] |  |
-| Injection Site: | [Phlebitis], [Pruritus] |  |
-| Metabolic: | [Hypomagnesemia] |  |
+| Digestive: | Hypersalivation |  |
+|  | Nausea |  |
+| Hemic/Lymphatic: | Leukocytosis |  |
+| Injection Site: | Phlebitis |  |
+|  | Pruritus |  |
+| Metabolic: | Hypomagnesemia |  |
 | Musculoskeletal: | Myalgia |  |
-| Nervous: | [Dizziness], [Agitation], [Chills], [Somnolence], [Delirium] |  |
-| Respiratory: | Wheezing, [Cough], [Laryngospasm], [Hypoxia] | Decreased Lung Function |
+| Nervous: | Dizziness |  |
+|  | Agitation |  |
+|  | Chills |  |
+|  | Somnolence |  |
+|  | Delirium |  |
+| Respiratory: | Wheezing | Decreased Lung Function |
+|  | Cough |  |
+|  | Laryngospasm |  |
+|  | Hypoxia |  |
 | Skin and Appendages: | Flushing, Pruritus |  |
-| Special Senses: | Amblyopia, [Vision Abnormal] |  |
+| Special Senses: | Amblyopia |  |
+|  | Vision Abnormal |  |
 | Urogenital: | Cloudy Urine | Green Urine |
 
-| Incidence less than 1% - Causal Relationship Unknown |  |  |
-| --- | --- | --- |
+Incidence less than 1% - Causal Relationship Unknown
+
 |  | Anesthesia/MAC Sedation | ICU Sedation |
+| --- | --- | --- |
 | Body as a Whole: | Asthenia, Awareness, Chest Pain, Extremities Pain, Fever, Increased Drug Effect, Neck Rigidity/Stiffness, Trunk Pain | Fever, Sepsis, Trunk Pain, Whole Body Weakness |
 | Cardiovascular: | Arrhythmia, Atrial Fibrillation, Atrioventricular Heart Block, Bigeminy, Bleeding, Bundle Branch Block, Cardiac Arrest, ECG Abnormal, Edema, Extrasystole, Heart Block, Hypertension, Myocardial Infarction, Myocardial Ischemia, Premature Ventricular Contractions, ST Segment Depression, Supraventricular Tachycardia, Tachycardia, Ventricular Fibrillation | Arrhythmia, Atrial Fibrillation, Bigeminy, Cardiac Arrest, Extrasystole, Right Heart Failure, Ventricular Tachycardia |
 | Central Nervous System: | Abnormal Dreams, Agitation, Amorous Behavior, Anxiety, Bucking/Jerking/Thrashing, Chills/Shivering/Clonic/Myoclonic Movement, Combativeness, Confusion, Delirium, Depression, Dizziness, Emotional Lability, Euphoria, Fatigue, Hallucinations, Headache, Hypotonia, Hysteria, Insomnia, Moaning, Neuropathy, Opisthotonos, Rigidity, Seizures, Somnolence, Tremor, Twitching | Chills/Shivering, Intracranial Hypertension, Seizures, Somnolence, Thinking Abnormal |
