@@ -2,19 +2,20 @@
 
 The following serious adverse reactions are described, or described in greater detail, in other sections:
 
-- Addiction, Abuse, and Misuse [see Warnings and Precautions (5.2)]
-- Life-Threatening Respiratory Depression [see Warnings and Precautions (5.3)]
-- Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.4)]
-- Interactions with Benzodiazepines and Other CNS Depressants [see Warnings and Precautions (5.5)
-- Adrenal Insufficiency [see Warnings and Precautions (5.7)]
-- Severe Hypotension [see Warnings and Precautions (5.8)]
-- Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.10)]
-- Seizures [see Warnings and Precautions (5.11)] Withdrawal [see Warnings and Precautions (5.12)]
+- Addiction, Abuse, and Misuse [see Warnings and Precautions (5.1)]
+- Life-Threatening Respiratory Depression [see Warnings and Precautions (5.2)]
+- Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.3)]
+- Interactions with Benzodiazepines and Other CNS Depressants [see Warnings and Precautions (5.4)]
+- Adrenal Insufficiency [see Warnings and Precautions (5.6)]
+- Severe Hypotension [see Warnings and Precautions (5.7)]
+- Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.9)]
+- Seizures [see Warnings and Precautions (5.10)]
+- Withdrawal [see Warnings and Precautions (5.11)]
 
 The following adverse reactions associated with the use of hydromorphone were identified in clinical studies or postmarketing reports.
 Because some of these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Serious adverse reactions associated with DILAUDID INJECTION and DILAUDID-HP INJECTION include respiratory depression and apnea and, to a lesser degree, circulatory depression, respiratory arrest, shock, and cardiac arrest.
+Serious adverse reactions associated with DILAUDID INJECTION include respiratory depression and apnea and, to a lesser degree, circulatory depression, respiratory arrest, shock, and cardiac arrest.
 
 The most common adverse effects are lightheadedness, dizziness, sedation, nausea, vomiting, sweating, flushing, dysphoria, euphoria, dry mouth, and pruritus.
 These effects seem to be more prominent in ambulatory patients and in those not experiencing severe pain.
@@ -57,6 +58,6 @@ Serotonin syndrome: Cases of serotonin syndrome, a potentially life-threatening 
 
 Adrenal insufficiency: Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use.
 
-Anaphylaxis: Anaphylaxis has been reported with ingredients contained in DILAUDID INJECTION and DILAUDID-HP INJECTION.
+Anaphylaxis: Anaphylaxis has been reported with ingredients contained in DILAUDID INJECTION.
 
 Androgen deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [see Clinical Pharmacology (12.2)].

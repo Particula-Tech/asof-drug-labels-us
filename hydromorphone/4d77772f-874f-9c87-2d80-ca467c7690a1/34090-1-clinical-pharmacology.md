@@ -26,11 +26,11 @@ Other opioid-induced effects may include a reduction in biliary and pancreatic s
 
 Effects on the Cardiovascular System Hydromorphone produces peripheral vasodilation which may result in orthostatic hypotension or syncope, manifestations of histamine release and/or peripheral vasodilation may include pruritus, flushing, red eyes, and sweating and/or orthostatic hypotension.
 
-Effects on the Endocrine System Opioids inhibit the secretion of adrenocorticotropic hormone (ACTH), cortisol, and luteinizing hormone (LH) in humans [see Adverse Reactions (6.2)].
+Effects on the Endocrine System Opioids inhibit the secretion of adrenocorticotropic hormone (ACTH), cortisol, and luteinizing hormone (LH) in humans [see Adverse Reactions (6)].
 They also stimulate prolactin, growth hormone (GH) secretion, and pancreatic secretion of insulin and glucagon.
 
 Chronic use of opioids may influence the hypothalamic-pituitary-gonadal axis, leading to androgen deficiency that may manifest as low libido, impotence, erectile dysfunction, amenorrhea, or infertility.
-The causal role of opioids in the clinical syndrome of hypogonadism is unknown because the various medical, physical, lifestyle, and psychological stressors that may influence gonadal hormone levels have not been adequately controlled for in studies conducted to date [see Adverse Reactions (6.2)].
+The causal role of opioids in the clinical syndrome of hypogonadism is unknown because the various medical, physical, lifestyle, and psychological stressors that may influence gonadal hormone levels have not been adequately controlled for in studies conducted to date [see Adverse Reactions (6)].
 
 Effects on the Immune System Opioids have been shown to have a variety of effects on components of the immune system in in vitro and animal models.
 The clinical significance of these findings is unknown.
@@ -50,13 +50,9 @@ After an intravenous bolus dose, the steady state of volume of distribution [mea
 Elimination The systemic clearance is approximately 1.96 (20%) liters/minute.
 The terminal elimination half-life of hydromorphone after an intravenous dose is about 2.3 hours.
 
-Metabolism
+Metabolism Hydromorphone is extensively metabolized via glucuronidation in the liver, with greater than 95% of the dose metabolized to hydromorphone-3-glucuronide along with minor amounts of 6-hydroxy reduction metabolites.
 
-Hydromorphone is extensively metabolized via glucuronidation in the liver, with greater than 95% of the dose metabolized to hydromorphone-3-glucuronide along with minor amounts of 6-hydroxy reduction metabolites.
-
-Excretion
-
-Only a small amount of the hydromorphone dose is excreted unchanged in the urine.
+Excretion Only a small amount of the hydromorphone dose is excreted unchanged in the urine.
 Most of the dose is excreted as hydromorphone-3-glucuronide along with minor amounts of 6-hydroxy reduction metabolites.
 
 Special Populations
@@ -67,7 +63,7 @@ The pharmacokinetics of hydromorphone in patients with severe hepatic impairment
 A further increase in Cmax and AUC of hydromorphone in this group is expected and should be taken into consideration when selecting a starting dose [see Use in Specific Populations (8.6)].
 
 Renal Impairment The pharmacokinetics of hydromorphone following an oral administration of hydromorphone at a single 4 mg dose (2 mg hydromorphone immediate-release tablets) are affected by renal impairment.
-Mean exposure to hydromorphone (Cmax and AUC0-∞) is increased by 2-fold in patients with moderate (CLcr = 40 - 60 mL/min) renal impairment and increased by 4-fold in patients with severe (CLcr < 30 mL/min) renal impairment compared with normal subjects (CLcr > 80 mL/min).
+Mean exposure to hydromorphone (Cmax and AUC0-∞) is increased by 2-fold in patients with moderate (CLcr = 40 - 60 mL/min) renal impairment and increased by 4-fold in patients with severe (CLcr< 30 mL/min) renal impairment compared with normal subjects (CLcr> 80 mL/min).
 In addition, in patients with severe renal impairment, hydromorphone appeared to be more slowly eliminated with a longer terminal elimination half-life (40 hr) compared to patients with normal renal function (15 hr). Start patients with renal impairment on one-fourth to one-half the usual starting dose depending on the degree of impairment.
 Patients with renal impairment should be closely monitored during dose titration [see Use in Specific Populations (8.7)].
 
