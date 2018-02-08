@@ -4,7 +4,7 @@
 
 NDC 51672-4062-1
 
-Fluorouracil Topical Solution 2% w/w
+Fluorouracil Topical Solution USP, 2% w/w
 
 FOR TOPICAL USE ONLY – NOT FOR OPHTHALMIC, ORAL OR INTRAVAGINAL USE
 
@@ -20,7 +20,7 @@ TARO
 
 NDC 51672-4063-1
 
-Fluorouracil Topical Solution 5% w/w
+Fluorouracil Topical Solution USP, 5% w/w
 
 FOR TOPICAL USE ONLY – NOT FOR OPHTHALMIC, ORAL OR INTRAVAGINAL USE
 

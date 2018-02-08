@@ -6,5 +6,5 @@ Safety and efficacy in other indications have not been established.
 
 The diagnosis should be established prior to treatment, since this method has not been proven effective in other types of basal cell carcinomas.
 With isolated, easily accessible basal cell carcinomas, surgery is preferred since success with such lesions is almost 100%.
-The success rate with Fluorouracil Topical Solution is approximately 93%, based on 113 lesions in 54 patients.
+The success rate with fluorouracil topical solution is approximately 93%, based on 113 lesions in 54 patients.
 Twenty-five lesions treated with the solution produced 1 failure.

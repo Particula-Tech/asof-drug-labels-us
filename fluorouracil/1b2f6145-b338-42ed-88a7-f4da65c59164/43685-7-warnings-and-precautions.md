@@ -41,7 +41,7 @@ Adequate long-term studies in animals to evaluate carcinogenic potential have no
 Studies with the active ingredient 5-fluorouracil, have shown positive effects in in vitro tests for mutagenicity and on impairment of fertility.
 
 5-Fluorouracil was positive in three in vitro cell neoplastic transformation assays.
-In the C3H/10T1/2 clone 8 mouse embryo cell system, the resulting morphologically transformed cells formed tumors when inoculated into immunosuppressed syngeneic mice.
+In the C3H/10T½ clone 8 mouse embryo cell system, the resulting morphologically transformed cells formed tumors when inoculated into immunosuppressed syngeneic mice.
 
 While no evidence for mutagenic activity was observed in the Ames test (3 studies), fluorouracil has been shown to be mutagenic in the survival count rec-assay with Bacillus subtilis and in the Drosophilia wing-hair spot test.
 Fluorouracil produced petite mutations in Saccharomyces cerevisiae and was positive in the micronucleus test (bone marrow cells of male mice).
