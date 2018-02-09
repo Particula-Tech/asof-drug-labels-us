@@ -42,7 +42,7 @@ Because most trials included in the analysis did not extend beyond 24 weeks, the
 
 The risk of suicidal thoughts or behavior was generally consistent among drugs in the data analyzed.
 The finding of increased risk with AEDs of varying mechanisms of action and across a range of indications suggests that the risk applies to all AEDs used for any indication.
-The risk did not vary substantially by age (5 to 100 years) in the clinical trials analyzed.
+The risk did not vary substantially by age (5-100 years) in the clinical trials analyzed.
 Table 2 shows absolute and relative risk by indication for all evaluated AEDs.
 
 Table 2: Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
@@ -120,9 +120,9 @@ Antiepileptic drugs, including levetiracetam tablets, should be withdrawn gradua
 ## 5.8 Hematologic Abnormalities
 
 Levetiracetam tablets can cause hematologic abnormalities.
-Hematologic abnormalities occurred in clinical trials and included decreases in red blood cell (RBC) counts, hemoglobin, and hematocrit, and increases in eosinophil counts.
-Decreased white blood cell (WBC) and neutrophil counts also occurred in clinical trials.
-Cases of agranulocytosis have been reported in the postmarketing setting.
+Hematologic abnormalities occurred in clinical trials and included decreases in white blood cell (WBC), neutrophil, and red blood cell (RBC) counts; decreases in hemoglobin and hematocrit; and increases in eosinophil counts.
+Cases of agranulocytosis, pancytopenia, and thrombocytopenia have been reported in the postmarketing setting.
+A complete blood count is recommended in patients experiencing significant weakness, pyrexia, recurrent infections, or coagulation disorders.
 
 ### Partial Onset Seizures
 

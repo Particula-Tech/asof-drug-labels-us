@@ -35,7 +35,7 @@ Therefore, there was no evidence of significant QTc prolongation in this study.
 Absorption of levetiracetam is rapid, with peak plasma concentrations occurring in about an hour following oral administration in fasted subjects.
 The oral bioavailability of levetiracetam tablets is 100% and the tablets and oral solution are bioequivalent in rate and extent of absorption.
 Food does not affect the extent of absorption of levetiracetam but it decreases Cmax by 20% and delays Tmax by 1.5 hours.
-The pharmacokinetics of levetiracetam are linear over the dose range of 500 to 5000 mg.
+The pharmacokinetics of levetiracetam are linear over the dose range of 500-5000 mg.
 Steady state is achieved after 2 days of multiple twice-daily dosing.
 Levetiracetam and its major metabolite are less than 10% bound to plasma proteins; clinically significant interactions with other drugs through competition for protein binding sites are therefore unlikely.
 
@@ -61,16 +61,16 @@ Levetiracetam clearance is reduced in patients with renal impairment [see Use in
 
 #### Elderly
 
-Pharmacokinetics of levetiracetam were evaluated in 16 elderly subjects (age 61 to 88 years) with creatinine clearance ranging from 30 to 74 mL/min.
+Pharmacokinetics of levetiracetam were evaluated in 16 elderly subjects (age 61-88 years) with creatinine clearance ranging from 30 to 74 mL/min.
 Following oral administration of twice-daily dosing for 10 days, total body clearance decreased by 38% and the half-life was 2.5 hours longer in the elderly compared to healthy adults.
 This is most likely due to the decrease in renal function in these subjects.
 
 #### Pediatric Patients
 
-Pharmacokinetics of levetiracetam were evaluated in 24 pediatric patients (age 6 to 12 years) after single dose (20 mg/kg).
+Pharmacokinetics of levetiracetam were evaluated in 24 pediatric patients (age 6-12 years) after single dose (20 mg/kg).
 The body weight adjusted apparent clearance of levetiracetam was approximately 40% higher than in adults.
 
-A repeat dose pharmacokinetic study was conducted in pediatric patients (age 4 to 12 years) at doses of 20 mg/kg/day, 40 mg/kg/day, and 60 mg/kg/day.
+A repeat dose pharmacokinetic study was conducted in pediatric patients (age 4-12 years) at doses of 20 mg/kg/day, 40 mg/kg/day, and 60 mg/kg/day.
 The evaluation of the pharmacokinetic profile of levetiracetam and its metabolite (ucb L057) in 14 pediatric patients demonstrated rapid absorption of levetiracetam at all doses with a Tmax of about 1 hour and a t1/2 of 5 hours across the three dosing levels.
 The pharmacokinetics of levetiracetam in children was linear between 20 to 60 mg/kg/day.
 The potential interaction of levetiracetam with other AEDs was also evaluated in these patients.
@@ -100,7 +100,7 @@ Because levetiracetam is primarily renally excreted and there are no important r
 #### Renal Impairment
 
 The disposition of levetiracetam was studied in adult subjects with varying degrees of renal function.
-Total body clearance of levetiracetam is reduced in patients with impaired renal function by 40% in the mild group (CLcr = 50 to 80 mL/min), 50% in the moderate group (CLcr = 30 to 50 mL/min) and 60% in the severe renal impairment group (CLcr < 30 mL/min).
+Total body clearance of levetiracetam is reduced in patients with impaired renal function by 40% in the mild group (CLcr = 50-80 mL/min), 50% in the moderate group (CLcr = 30-50 mL/min) and 60% in the severe renal impairment group (CLcr < 30 mL/min).
 Clearance of levetiracetam is correlated with creatinine clearance.
 
 In anuric (end stage renal disease) patients, the total body clearance decreased 70% compared to normal subjects (CLcr > 80 mL/min).

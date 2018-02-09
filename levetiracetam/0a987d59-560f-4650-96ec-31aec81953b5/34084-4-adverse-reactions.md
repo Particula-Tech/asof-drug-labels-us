@@ -112,7 +112,7 @@ Table 5: Adverse Reactions in Pooled Placebo-Controlled, Add-On Studies in Pedia
 | Rhinitis | 2 | 0 |
 | Sedation | 2 | 1 |
 
-In the controlled pooled pediatric clinical studies in patients 4 to 16 years of age, 7% of patients receiving levetiracetam tablets and 9% receiving placebo discontinued as a result of an adverse reaction.
+In the controlled pooled pediatric clinical studies in patients 4-16 years of age, 7% of patients receiving levetiracetam tablets and 9% receiving placebo discontinued as a result of an adverse reaction.
 
 #### Pediatric Patients 1 Month to < 4 Years
 
@@ -209,5 +209,5 @@ The following adverse reactions have been identified during postapproval use of 
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 The following adverse reactions have been reported in patients receiving marketed levetiracetam tablets worldwide.
-The listing is alphabetized: abnormal liver function test, acute kidney injury, anaphylaxis, angioedema, choreoathetosis, drug reaction with eosinophilia and systemic symptoms (DRESS), dyskinesia, erythema multiforme, hepatic failure, hepatitis, hyponatremia, muscular weakness, pancreatitis, pancytopenia (with bone marrow suppression identified in some of these cases), panic attack, thrombocytopenia, and weight loss.
+The listing is alphabetized: abnormal liver function test, acute kidney injury, anaphylaxis, angioedema, agranulocytosis, choreoathetosis, drug reaction with eosinophilia and systemic symptoms (DRESS), dyskinesia, erythema multiforme, hepatic failure, hepatitis, hyponatremia, muscular weakness, pancreatitis, pancytopenia (with bone marrow suppression identified in some of these cases), panic attack, thrombocytopenia, and weight loss.
 Alopecia has been reported with levetiracetam tablets use; recovery was observed in majority of cases where levetiracetam tablets were discontinued.

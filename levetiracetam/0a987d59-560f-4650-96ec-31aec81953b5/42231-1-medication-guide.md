@@ -42,8 +42,8 @@ What are levetiracetam tablets?
 
 Levetiracetam tablets are a prescription medicine taken by mouth that is used with other medicines to treat:
 
-- •partial onset seizures in people 1 month of age and older with epilepsy.
-- •myoclonic seizures in people 12 years of age and older with juvenile myoclonic epilepsy.
+- •partial onset seizures in people 1 month of age and older with epilepsy
+- •myoclonic seizures in people 12 years of age and older with juvenile myoclonic epilepsy
 - •primary generalized tonic-clonic seizures in people 6 years of age and older with certain types of generalized epilepsy.
 
 It is not known if levetiracetam tablets are safe or effective in children under 1 month of age.
@@ -68,15 +68,15 @@ What should I tell my healthcare provider before starting levetiracetam tablets?
 
 Before taking levetiracetam tablets, tell your healthcare provider about all of your medical conditions, including if you:
 
-- •have or have had depression, mood problems or suicidal thoughts or behavior.
-- •have kidney problems.
+- •have or have had depression, mood problems or suicidal thoughts or behavior
+- •have kidney problems
 - •are pregnant or planning to become pregnant.
   It is not known if levetiracetam tablets will harm your unborn baby.
   You and your healthcare provider will have to decide if you should take levetiracetam tablets while you are pregnant.
   If you become pregnant while taking levetiracetam tablets, talk to your healthcare provider about registering with the North American Antiepileptic Drug Pregnancy Registry.
   You can enroll in this registry by calling 1-888-233-2334.
   The purpose of this registry is to collect information about the safety of levetiracetam tablets and other antiepileptic medicine during pregnancy.
-- •are breast-feeding.
+- •are breast feeding.
   Levetiracetam can pass into your milk and may harm your baby.
   You and your healthcare provider should discuss whether you should take levetiracetam tablets or breast-feed; you should not do both.
 
@@ -123,8 +123,8 @@ Call your healthcare provider right away if you have any of these symptoms:
 
 - •mood and behavior changes such as aggression, agitation, anger, anxiety, apathy, mood swings, depression, hostility, and irritability.
   A few people may get psychotic symptoms such as hallucinations (seeing or hearing things that are really not there), delusions (false or strange thoughts or beliefs) and unusual behavior.
-- •extreme sleepiness, tiredness, and weakness.
-- •problems with muscle coordination (problems walking and moving).
+- •extreme sleepiness, tiredness, and weakness
+- •problems with muscle coordination (problems walking and moving)
 - •allergic reactions such as swelling of the face, lips, eyes, tongue, and throat, trouble swallowing or breathing, and hives.
 - •a skin rash.
   Serious skin rashes can happen after you start taking levetiracetam tablets.
@@ -174,7 +174,7 @@ You can also get information about levetiracetam tablets by calling Mylan Pharma
 
 What are the ingredients of levetiracetam tablets?
 
-Active ingredient: levetiracetam.
+Active ingredient: levetiracetam
 
 Inactive ingredients: colloidal silicon dioxide, croscarmellose sodium, hypromellose, magnesium stearate, microcrystalline cellulose, polydextrose, polyethylene glycol, povidone, sodium lauryl sulfate, titanium dioxide and triacetin.
 
@@ -184,4 +184,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Revised: 6/2017 LVTC:R14mpbmh
+Revised: 1/2018 LVTC:R15mpbmh/MG:LVTC:R10mpb/ MG:LVTC:R11mh

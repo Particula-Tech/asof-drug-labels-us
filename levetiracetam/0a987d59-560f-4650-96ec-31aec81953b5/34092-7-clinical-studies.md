@@ -14,7 +14,7 @@ During the baseline period, patients had to have experienced at least two partia
 
 #### Study 1
 
-Study 1 was a double-blind, placebo-controlled, parallel-group study conducted at 41 sites in the United States comparing levetiracetam tablets 1000 mg/day (N = 97), levetiracetam tablets 3000 mg/day (N = 101) and placebo (N = 95) given in equally divided doses twice daily.
+Study 1 was a double-blind, placebo-controlled, parallel-group study conducted at 41 sites in the United States comparing levetiracetam tablets 1000 mg/day (N = 97), levetiracetam tablets 3000 mg/day (N = 101), and placebo (N = 95) given in equally divided doses twice daily.
 After a prospective baseline period of 12 weeks, patients were randomized to one of the three treatment groups described above.
 The 18-week treatment period consisted of a 6-week titration period, followed by a 12-week fixed dose evaluation period, during which concomitant AED regimens were held constant.
 The primary measure of effectiveness was a between group comparison of the percent reduction in weekly partial seizure frequency relative to placebo over the entire randomized treatment period (titration + evaluation period).
@@ -31,7 +31,7 @@ The percentage of patients (y-axis) who achieved ≥ 50% reduction in weekly sei
 
 #### Study 2
 
-Study 2 was a double-blind, placebo-controlled, crossover study conducted at 62 centers in Europe comparing levetiracetam tablets 1000 mg/day (N = 106), levetiracetam tablets 2000 mg/day (N = 105) and placebo (N = 111) given in equally divided doses twice daily.
+Study 2 was a double-blind, placebo-controlled, crossover study conducted at 62 centers in Europe comparing levetiracetam tablets 1000 mg/day (N = 106), levetiracetam tablets 2000 mg/day (N = 105), and placebo (N = 111) given in equally divided doses twice daily.
 
 The first period of the study (Period A) was designed to be analyzed as a parallel-group study.
 After a prospective baseline period of up to 12 weeks, patients were randomized to one of the three treatment groups described above.
@@ -72,7 +72,7 @@ The percentage of patients (y-axis) who achieved ≥ 50% reduction in weekly sei
 ### Effectiveness in Partial Onset Seizures in Pediatric Patients 4 Years to 16 Years with Epilepsy
 
 The effectiveness of levetiracetam tablets as adjunctive therapy (added to other antiepileptic drugs) in pediatric patients was established in one multicenter, randomized double-blind, placebo-controlled study (Study 4), conducted at 60 sites in North America, in pediatric patients 4 to 16 years of age with partial seizures uncontrolled by standard antiepileptic drugs (AEDs).
-Eligible patients on a stable dose of 1 to 2 AEDs, who still experienced at least 4 partial onset seizures during the 4 weeks prior to screening, as well as at least 4 partial onset seizures in each of the two 4-week baseline periods, were randomized to receive either levetiracetam tablets or placebo.
+Eligible patients on a stable dose of 1-2 AEDs, who still experienced at least 4 partial onset seizures during the 4 weeks prior to screening, as well as at least 4 partial onset seizures in each of the two 4-week baseline periods, were randomized to receive either levetiracetam tablets or placebo.
 The enrolled population included 198 patients (levetiracetam tablets N = 101, placebo N = 97) with refractory partial onset seizures, whether or not secondarily generalized.
 The study consisted of an 8-week baseline period and 4-week titration period followed by a 10-week evaluation period.
 Dosing was initiated at a dose of 20 mg/kg/day in two divided doses.
@@ -92,7 +92,7 @@ The percentage of patients (y-axis) who achieved ≥ 50% reduction in weekly sei
 ### Effectiveness in Partial Onset Seizures in Pediatric Patients 1 Month to < 4 Years with Epilepsy
 
 The effectiveness of levetiracetam tablets as adjunctive therapy in pediatric patients was established in one multicenter, randomized double-blind, placebo-controlled study (Study 5), conducted at 62 sites in North America, South America, and Europe in pediatric patients 1 month to less than 4 years of age with partial seizures, uncontrolled by standard epileptic drugs (AEDs).
-Eligible patients on a stable dose of 1 to 2 AEDs, who experienced at least 2 partial onset seizures during the 48-hour baseline video EEG were randomized to receive either levetiracetam tablets or placebo.
+Eligible patients on a stable dose of 1-2 AEDs, who experienced at least 2 partial onset seizures during the 48-hour baseline video EEG were randomized to receive either levetiracetam tablets or placebo.
 The enrolled population included 116 patients (levetiracetam tablets N = 60, placebo N = 56) with refractory partial onset seizures, whether or not secondarily generalized.
 Randomization was stratified by age range as follows: 1 month to less than 6 months of age (N = 4 treated with levetiracetam tablets), 6 months to less than 1 year of age (N = 8 treated with levetiracetam tablets), 1 year to less than 2 years of age (N = 20 treated with levetiracetam tablets), and 2 years to less than 4 years of age (N = 28 treated with levetiracetam tablets).
 The study consisted of a 5-day evaluation period which included a 1-day titration period followed by a 4-day maintenance period.
