@@ -32,3 +32,36 @@ in 0.9% Sodium Chloride Injection
 For Intravenous Infusion Only
 
 100 mL Single Dose Vial.
+
+Rx Only NDC 51754-1018-1
+
+NIPRIDE® RTU
+
+SODIUM NITROPRUSSIDE
+
+in 0.9% Sodium Chloride Injection
+
+(Ready to Use)
+
+10 mg/50mL (0.2 mg/mL)
+
+For Intravenous Infusion Only
+
+50 mL Single Dose Vial.
+Discard unused portion.
+
+NDC 51754-1018-1 Rx Only
+
+NIPRIDE® RTU
+
+SODIUM NITROPRUSSIDE
+
+in 0.9% Sodium Chloride Injection
+
+(Ready to Use)
+
+10 mg/50mL (0.2 mg/mL)
+
+For Intravenous Infusion Only
+
+50 mL Single Dose Vial.

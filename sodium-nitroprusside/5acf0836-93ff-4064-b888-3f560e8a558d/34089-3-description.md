@@ -9,3 +9,6 @@ Sodium nitroprusside solution is rapidly degraded by trace contaminants, often w
 
 NIPRIDE RTU is supplied as a sterile, unpreserved, colorless to red-brown solution packaged in a single-use 100-mL vial.
 Each 100 mL of solution in vial contains 50 mg of sodium nitroprusside (0.5 mg/mL), 900 mg of sodium chloride, USP (9 mg/mL), in sterile water for injection, USP.
+
+NIPRIDE RTU is also supplied as a sterile, unpreserved, colorless to red-brown solution packaged in a single-use 50-mL vial.
+Each 50 mL of solution in vial contains 10 mg of sodium nitroprusside (0.2 mg/mL), 450 mg of sodium chloride, USP (9 mg/mL), in sterile water for injection, USP.
