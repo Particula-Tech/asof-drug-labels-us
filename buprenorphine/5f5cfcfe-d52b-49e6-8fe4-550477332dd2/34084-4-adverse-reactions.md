@@ -1,5 +1,18 @@
 # 6ADVERSE REACTIONS
 
+The following serious adverse reactions are described elsewhere in the labeling:
+
+- Addiction, Abuse, and Misuse [see Warnings and Precautions (5.1)]
+- Respiratory and CNS Depression [see Warnings and Precautions (5.2, 5.3)]
+- Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.5)]
+- Adrenal Insufficiency [see Warnings and Precautions (5.6)]
+- Opioid Withdrawal [see Warnings and Precautions (5.7, 5.10)]
+- Hepatitis, Hepatic Events [see Warnings and Precautions (5.8)]
+- Hypersensitivity Reactions [see Warnings and Precautions (5.9)]
+- Orthostatic Hypotension [see Warnings and Precautions (5.14)]
+- Elevation of Cerebrospinal Fluid Pressure [see Warnings and Precautions (5.15)]
+- Elevation of Intracholedochal Pressure [see Warnings and Precautions (5.16)]
+
 ## 6.1Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
@@ -28,12 +41,10 @@ The prospective evaluation of buprenorphine/naloxone was supported by clinical t
 In total, safety data were available from 3214 opioid-dependent subjects exposed to buprenorphine at doses in the range used in treatment of opioid addiction.
 See Table 2.
 
-Table 2.
-Adverse Events > 5% by Body System and Treatment Group in a 4-week Study
-
-|  | N (%) | N (%) |
+| Table 2. Adverse Events > 5% by Body System and Treatment Group in a 4-week Study |  |  |
 | --- | --- | --- |
-| Body System / Adverse Event (COSTART Terminology) | Buprenorphine/ naloxone 16 mg/day N=107 | Placebo N=107 |
+|  | N (%) | N (%) |
+| Body System / Adverse Event (COSTART Terminology) | Buprenorphine/ naloxone 16/4 mg/day N=107 | Placebo N=107 |
 | Body as a Whole |  |  |
 | Asthenia | 7 (7%) | 7 (7%) |
 | Chills | 8 (8%) | 8 (8%) |
@@ -60,14 +71,11 @@ Adverse Events > 5% by Body System and Treatment Group in a 4-week Study
 The adverse event profile of buprenorphine was also characterized in the dose-controlled study of buprenorphine solution, over a range of doses in four months of treatment.
 Table 3 shows adverse events reported by at least 5% of subjects in any dose group in the dose-controlled study.
 
-Table 3.
-Adverse Events (≥ 5%) by Body System and Treatment Group in a 16-week Study
-
-| Body System /Adverse Event (COSTART Terminology) | Buprenorphine dose* |  |  |  |  |
+| Table 3. Adverse Events (≥ 5%) by Body System and Treatment Group in a 16-week Study |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
+| Body System /Adverse Event (COSTART Terminology) | Buprenorphine dose* |  |  |  |  |
 |  | Very Low* (N=184) | Low* (N=180) | Moderate* (N=186) | High* (N=181) | Total* (N=731) |
 |  | N (%) | N (%) | N (%) | N (%) | N (%) |
-| *Sublingual solution. Doses in this table cannot necessarily be delivered in tablet form, but for comparison purposes: "Very low" dose (1 mg solution) would be less than a Suboxone tablet dose of 2 mg "Low" dose (4 mg solution) approximates a 6 mg Suboxone tablet dose "Moderate" dose (8 mg solution) approximates a 12 mg Suboxone tablet dose "High" dose (16 mg solution) approximates a 24 mg Suboxone tablet dose |  |  |  |  |  |
 | Body as a Whole |  |  |  |  |  |
 | Abscess | 9 (5%) | 2 (1%) | 3 (2%) | 2 (1%) | 16 (2%) |
 | Asthenia | 26 (14%) | 28 (16%) | 26 (14%) | 24 (13%) | 104 (14%) |
@@ -102,6 +110,11 @@ Adverse Events (≥ 5%) by Body System and Treatment Group in a 16-week Study
 | Special Senses |  |  |  |  |  |
 | Runny Eyes | 13 (7%) | 9 (5%) | 6 (3%) | 6 (3%) | 34 (5%) |
 
+*Sublingual solution.
+Doses in this table cannot necessarily be delivered in tablet form, but for comparison purposes:
+
+"Very low" dose (1 mg solution) would be less than a tablet dose of 2 mg "Low" dose (4 mg solution) approximates a 6 mg tablet dose "Moderate" dose (8 mg solution) approximates a 12 mg tablet dose "High" dose (16 mg solution) approximates a 24 mg tablet dose
+
 ## 6.2Post-marketing Experience
 
 The following adverse reactions have been identified during post-approval use of buprenorphine and naloxone sublingual tablets.
@@ -116,3 +129,5 @@ Adrenal insufficiency: Cases of adrenal insufficiency have been reported with op
 Anaphylaxis: Anaphylaxis has been reported with ingredients contained in ZUBSOLV.
 
 Androgen deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [see Clinical Pharmacology (12.2)].
+
+Local reactions: Glossodynia, glossitis, oral mucosal erythema, oral hypoesthesia, and stomatitis

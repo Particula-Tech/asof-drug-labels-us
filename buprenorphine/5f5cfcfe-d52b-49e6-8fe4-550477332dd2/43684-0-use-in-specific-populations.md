@@ -14,7 +14,8 @@ Embryofetal death was observed in both rats and rabbits administered buprenorphi
 Pre- and post-natal development studies in rats demonstrated increased neonatal deaths at 0.3 times and above and dystocia at approximately 3 times the human sublingual dose of 16 mg/day of buprenorphine.
 No clear teratogenic effects were seen when buprenorphine was administered during organogenesis with a range of doses equivalent to or greater than the human sublingual dose of 16 mg/day of buprenorphine.
 However, increases in skeletal abnormalities were noted in rats and rabbits administered buprenorphine daily during organogenesis at doses approximately 0.6 and approximately equal to the human sublingual dose of 16 mg/day of buprenorphine, respectively.
-In a few studies, some events such as acephalus and omphalocele were also observed but these findings were not clearly treatment-related.
+In a few studies, some events such as acephalus and omphalocele were also observed but these findings were not clearly treatment-related [see Data].
+Based on animal data, advice pregnant women of the potential risk to a fetus.
 
 The estimated background risk of major birth defects and miscarriage for the indicated population are unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
@@ -34,7 +35,7 @@ Withdrawal signs and symptoms should be monitored closely and the dose adjusted 
 
 Fetal/neonatal Adverse Reactions
 
-Neonatal opioid withdrawal syndrome may occur in newborn infants of mothers who are receiving treatment with ZUBSOLV sublingual tablets.
+Neonatal opioid withdrawal syndrome may occur in newborn infants of mothers who are receiving treatment with ZUBSOLV.
 
 Neonatal opioid withdrawal syndrome presents as irritability, hyperactivity and abnormal sleep pattern, high pitched cry, tremor, vomiting, diarrhea, and/or failure to gain weight.
 Signs of neonatal withdrawal usually occur in the first days after birth.
@@ -99,7 +100,7 @@ Risk Summary
 
 Based on two studies in 13 lactating women, maintained on buprenorphine treatment, buprenorphine and its metabolite norbuprenorphine were present in low levels in human milk and available data have not shown adverse reactions in breastfed infants.
 There are no data on the combination product buprenorphine/naloxone in breastfeeding, however oral absorption of naloxone is limited.
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for ZUBSOLV sublingual tablet and any potential adverse effects on the breastfed child from the drug or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for ZUBSOLV and any potential adverse effects on the breastfed child from the drug or from the underlying maternal condition.
 
 Clinical Considerations
 
@@ -123,14 +124,14 @@ It is not known whether these effects on fertility are reversible [see Adverse R
 
 ## 8.4Pediatric Use
 
-The safety and effectiveness of ZUBSOLV sublingual tablets have not been established in pediatric patients.
+The safety and effectiveness of ZUBSOLV have not been established in pediatric patients.
 This product is not appropriate for the treatment of neonatal opioid withdrawal syndrome in neonates, because it contains naloxone, an opioid antagonist.
 
 ## 8.5Geriatric Use
 
 Clinical studies of buprenorphine/naloxone sublingual tablets did not include sufficient numbers of subjects aged 65 and over to determine whether they responded differently than younger subjects.
 Other reported clinical experience have not identified differences in responses between the elderly and younger patients.
-In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+Due to possible decreased hepatic, renal, or cardiac function and of concomitant disease or other drug therapy in geriatric patients, the decision to prescribe ZUBSOLV should be made cautiously in individuals 65 years of age or older and these patients should be monitored for signs and symptoms of toxicity or overdose.
 
 ## 8.6Hepatic Impairment
 

@@ -2,7 +2,7 @@
 
 ## 12.1Mechanism of Action
 
-ZUBSOLV sublingual tablet contains buprenorphine and naloxone.
+ZUBSOLV contains buprenorphine and naloxone.
 Buprenorphine is a partial agonist at the mu-opioid receptor and an antagonist at the kappa-opioid receptor.
 Naloxone is a potent antagonist at mu-opioid receptors and produces opioid withdrawal signs and symptoms, if administered parenterally, in individuals physically dependent on full opioid agonists.
 
@@ -40,13 +40,6 @@ The respiratory effects of sublingual buprenorphine were compared with the effec
 In this study, hypoventilation not requiring medical intervention was reported more frequently after buprenorphine doses of 4 mg and higher than after methadone.
 Both drugs decreased O2 saturation to the same degree.
 
-Androgen Deficiency
-
-Chronic use of opioids may influence the hypothalamic-pituitary-gonadal axis, leading to androgen deficiency that may manifest as low libido, impotence, erectile dysfunction, amenorrhea, or infertility.
-The causal role of opioids in the clinical syndrome of hypogonadism is unknown because the various medical, physical, lifestyle, and psychological stressors that may influence gonadal hormone levels have not been adequately controlled for in studies conducted to date.
-Patients presenting with symptoms of androgen deficiency should undergo laboratory evaluation.
-[see Adverse Reactions (6.2)].
-
 Effect of Naloxone
 
 Physiologic and subjective effects following acute sublingual administration of buprenorphine tablets and Suboxone tablets were similar at equivalent dose levels of buprenorphine.
@@ -57,11 +50,20 @@ However, clinicians should be aware that some opioid-dependent persons, particul
 In methadone-maintained patients and heroin-dependent subjects, IV administration of buprenorphine/naloxone combinations precipitated opioid withdrawal signs and symptoms and was perceived as unpleasant and dysphoric.
 In morphine-stabilized subjects, intravenously administered combinations of buprenorphine with naloxone produced opioid antagonist and withdrawal signs and symptoms that were ratio-dependent; the most intense withdrawal signs and symptoms were produced by 2:1 and 4:1 ratios, less intense by an 8:1 ratio.
 
+Effects on the Endocrine System
+
+Opioids inhibit the secretion of adrenocorticotropic hormone (ACTH), cortisol, and luteinizing hormone (LH) in humans [see Adverse Reactions (6.2)].
+They also stimulate prolactin, growth hormone (GH) secretion, and pancreatic secretion of insulin and glucagon.
+
+Chronic use of opioids may influence the hypothalamic-pituitary-gonadal axis, leading to androgen deficiency that may manifest as low libido, impotence, erectile dysfunction, amenorrhea, or infertility.
+The causal role of opioids in the clinical syndrome of hypogonadism is unknown because the various medical, physical, lifestyle, and psychological stressors that may influence gonadal hormone levels have not been adequately controlled for in studies conducted to date.
+Patients presenting with symptoms of androgen deficiency should undergo laboratory evaluation [see Adverse Reactions (6.2)].
+
 ## 12.3Pharmacokinetics
 
 Absorption
 
-Plasma levels of buprenorphine and naloxone increased with the sublingual dose of ZUBSOLV sublingual tablet.
+Plasma levels of buprenorphine and naloxone increased with the sublingual dose of ZUBSOLV.
 There was wide inter-patient variability in the sublingual absorption of buprenorphine and naloxone, but within subjects the variability was low.
 Both Cmax and AUC of buprenorphine increased with the increase in dose (in the range of 1.4 mg to 11.4 mg), although the increase was not directly dose-proportional.
 Naloxone did not affect the pharmacokinetics of buprenorphine.
@@ -75,11 +77,7 @@ Buprenorphine is approximately 96% protein bound, primarily to alpha and beta gl
 
 Naloxone is approximately 45% protein bound, primarily to albumin.
 
-Elimination
-
-Buprenorphine has a mean elimination half-life from plasma ranging from 24 to 42 hours and naloxone has a mean elimination half-life from plasma ranging from 2 to 12 hours.
-
-Metabolism
+Elimination Metabolism
 
 Buprenorphine undergoes both N-dealkylation to norbuprenorphine and glucuronidation.
 The N-dealkylation pathway is mediated primarily by the CYP3A4.
@@ -94,15 +92,14 @@ Almost all of the dose was accounted for in terms of buprenorphine, norbuprenorp
 In urine, most of buprenorphine and norbuprenorphine was conjugated (buprenorphine, 1% free and 9.4% conjugated; norbuprenorphine, 2.7% free and 11% conjugated).
 In feces, almost all of the buprenorphine and norbuprenorphine were free (buprenorphine, 33% free and 5% conjugated; norbuprenorphine, 21% free and 2% conjugated).
 
+When ZUBSOLV tablets are administered sublingually, buprenorphine has a mean elimination half-life from plasma ranging from 24 to 42 hours and naloxone has a mean elimination half-life from plasma ranging from 2 to 12 hours.
+
 Drug Interaction Studies
 
 CYP3A4 Inhibitors and Inducers
 
-Subjects receiving ZUBSOLV sublingual tablet should be monitored if inhibitors of CYP3A4 such as azole antifungal agents (e.g., ketoconazole), macrolide antibiotics (e.g., erythromycin) or HIV protease inhibitors and may require dose-reduction of one or both agents.
-The interaction of buprenorphine with all CYP3A4 inducers has not been studied, therefore it is recommended that patients receiving ZUBSOLV sublingual tablet be monitored for signs and symptoms of opioid withdrawal if inducers of CYP3A4 (e.g., phenobarbital, carbamazepine, phenytoin, rifampicin) are co-administered [see Drug Interactions (7)].
-
 Buprenorphine has been found to be a CYP2D6 and CYP3A4 inhibitor and its major metabolite, norbuprenorphine, has been found to be a moderate CYP2D6 inhibitor in in-vitro studies employing human liver microsomes.
-However, the relatively low plasma concentrations of buprenorphine and norbuprenorphine resulting from therapeutic doses are not expected to raise significant drug-drug interaction concerns.
+However, the relatively low plasma concentrations of buprenorphine and norbuprenorphine resulting from therapeutic doses are not expected to raise significant drug-drug interaction concerns [see Drug Interactions (7)].
 
 Specific Populations
 
@@ -128,10 +125,8 @@ Changes in Pharmacokinetic Parameters in Subjects with Moderate and Severe Hepat
 |  | AUC0-last | 181% | 1302% |
 |  | Half-life | 57% | 122% |
 
-The difference in magnitude of the effects on naloxone and buprenorphine are greater in subjects with severe hepatic impairment than subjects with moderate hepatic impairment, and therefore the clinical impact of these effects is likely to be greater in patients with severe hepatic impairment than in patients with moderate hepatic impairment.
-Buprenorphine/naloxone products should be avoided in patients with severe hepatic impairment and may not be appropriate for patients with moderate hepatic impairment [see Warnings and Precautions (5.12) and Use in Specific Populations (8.6)].
+The difference in magnitude of the effects on naloxone and buprenorphine are greater in subjects with severe hepatic impairment than subjects with moderate hepatic impairment [see Warnings and Precautions (5.12) and Use in Specific Populations (8.6)].
 
 HCV infection
 
 In subjects with HCV infection but no sign of hepatic impairment, the changes in the mean Cmax, AUC0-last, and half-life values of buprenorphine and naloxone were not clinically significant in comparison to healthy subjects without HCV infection.
-No dosing adjustment is needed in patients with HCV infection.

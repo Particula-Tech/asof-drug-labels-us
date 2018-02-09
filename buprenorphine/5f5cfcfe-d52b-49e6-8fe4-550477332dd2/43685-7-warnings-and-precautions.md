@@ -1,29 +1,43 @@
 # 5WARNINGS AND PRECAUTIONS
 
-## 5.1Abuse Potential
+## 5.1Addiction, Abuse and Misuse
 
-Buprenorphine can be abused in a manner similar to other opioids, legal or illicit.
+ZUBSOLV contains buprenorphine, a schedule III controlled substance that can be abused in a manner similar to other opioids, legal or illicit.
 Prescribe and dispense buprenorphine with appropriate precautions to minimize risk of misuse, abuse, or diversion, and ensure appropriate protection from theft, including in the home.
 Clinical monitoring appropriate to the patient’s level of stability is essential.
 Multiple refills should not be prescribed early in treatment or without appropriate patient follow-up visits [see Drug Abuse and Dependence (9.2)].
 
-## 5.2Respiratory Depression
+## 5.2Risk of Respiratory Depression and Central Nervous System (CNS) Depression
 
-Buprenorphine, particularly when taken by the IV route, in combination with benzodiazepines or other CNS depressants (including alcohol), has been associated with significant respiratory depression and death.
-Many, but not all, post-marketing reports regarding coma and death associated with the concomitant use of buprenorphine and benzodiazepines involved misuse by self-injection.
-Deaths have also been reported in association with concomitant administration of buprenorphine with other depressants such as alcohol or other CNS depressant drugs.
-Patients should be warned of the potential danger of self-administration of benzodiazepines or other depressants while under treatment with ZUBSOLV sublingual tablets [see Drug Interactions (7)].
+Buprenorphine has been associated with life-threatening respiratory depression and death.
+Many, but not all, post-marketing reports regarding coma and death involved misuse by self-injection or were associated with the concomitant use of buprenorphine and benzodiazepines or other CNS depressants, including alcohol.
+Warn patients of the potential danger of self-administration of benzodiazepines or other CNS depressants while under treatment with ZUBSOLV [see Warnings and Precautions (5.3), Drug Interactions (7)].
 
-In the case of overdose, the primary management should be the re-establishment of adequate ventilation with mechanical assistance of respiration, if required.
-Naloxone may be of value for the management of buprenorphine overdose.
-Higher than normal doses and repeated administration may be necessary.
+Use ZUBSOLV with caution in patients with compromised respiratory function (e.g., chronic obstructive pulmonary disease, cor pulmonale, decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression).
 
-ZUBSOLV sublingual tablets should be used with caution in patients with compromised respiratory function (e.g., chronic obstructive pulmonary disease, cor pulmonale, decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression).
+## 5.3Managing Risks from Concomitant Use of Benzodiazepines or Other CNS Depressants
 
-## 5.3CNS Depression
+Concomitant use of buprenorphine and benzodiazepines or other CNS depressants increases the risk of adverse reactions including overdose and death.
+Medication-assisted treatment of opioid use disorder, however, should not be categorically denied to patients taking these drugs.
+Prohibiting or creating barriers to treatment can pose an even greater risk of morbidity and mortality due to the opioid use disorder alone.
 
-Patients receiving buprenorphine in the presence of opioid analgesics, general anesthetics, benzodiazepines, phenothiazines, other tranquilizers, sedative/hypnotics, or other CNS depressants (including alcohol) may exhibit increased CNS depression.
-Consider dose reduction of CNS depressants, ZUBSOLV sublingual tablets, or both in situations of concomitant prescribing [see Drug Interactions (7)].
+As a routine part of orientation to buprenorphine treatment, educate patients about the risks of concomitant use of benzodiazepines, sedatives, opioid analgesics, and alcohol.
+
+Develop strategies to manage use of prescribed or illicit benzodiazepines or other CNS depressants at initiation of buprenorphine treatment, or if it emerges as a concern during treatment.
+Adjustments to induction procedures and additional monitoring may be required.
+There is no evidence to support dose limitations or arbitrary caps of buprenorphine as a strategy to address benzodiazepine use in buprenorphine-treated patients.
+However, if a patient is sedated at the time of buprenorphine dosing, delay or omit the buprenorphine dose if appropriate.
+
+Cessation of benzodiazepines or other CNS depressants is preferred in most cases of concomitant use.
+In some cases, monitoring in a higher level of care for taper may be appropriate.
+In others, gradually tapering a patient off of a prescribed benzodiazepine or other CNS depressant or decreasing to the lowest effective dose may be appropriate.
+
+For patients in buprenorphine treatment, benzodiazepines are not the treatment of choice for anxiety or insomnia.
+Before co-prescribing benzodiazepines, ensure that patients are appropriately diagnosed and consider alternative medications and non-pharmacologic treatments to address anxiety or insomnia.
+Ensure that other healthcare providers prescribing benzodiazepines or other CNS depressants are aware of the patient’s buprenorphine treatment and coordinate care to minimize the risks associated with concomitant use.
+
+In addition, take measures to confirm that patients are taking their medications as prescribed and are not diverting or supplementing with illicit drugs.
+Toxicology screening should test for prescribed and illicit benzodiazepines [see Drug Interactions (7)].
 
 ## 5.4Unintentional Pediatric Exposure
 
@@ -50,14 +64,13 @@ Wean the patient off of the opioid to allow adrenal function to recover and cont
 Other opioids may be tried as some cases reported use of a different opioid without recurrence of adrenal insufficiency.
 The information available does not identify any particular opioids as being more likely to be associated with adrenal insufficiency.
 
-## 5.7Dependence
+## 5.7Risk of Opioid Withdrawal with Abrupt Discontinuation
 
 Buprenorphine is a partial agonist at the mu-opioid receptor and chronic administration produces physical dependence of the opioid type, characterized by withdrawal signs and symptoms upon abrupt discontinuation or rapid taper.
 The withdrawal syndrome is typically milder than seen with full agonists and may be delayed in onset.
-Buprenorphine can be abused in a manner similar to other opioids.
-This should be considered when prescribing or dispensing buprenorphine in situations when the clinician is concerned about an increased risk of misuse, abuse, or diversion [see Drug Abuse and Dependence (9.3)].
+When discontinuing ZUBSOLV, gradually taper the dosage [see Dosage and Administration (2.8)].
 
-## 5.8Hepatitis, Hepatic Events
+## 5.8Risk of Hepatitis, Hepatic Events
 
 Cases of cytolytic hepatitis and hepatitis with jaundice have been observed in individuals receiving buprenorphine in clinical trials and through post-marketing adverse event reports.
 The spectrum of abnormalities ranges from transient asymptomatic elevations in hepatic transaminases to case reports of death, hepatic failure, hepatic necrosis, hepatorenal syndrome, and hepatic encephalopathy.
@@ -68,43 +81,44 @@ The possibility exists that buprenorphine had a causative or contributory role i
 Liver function tests, prior to initiation of treatment is recommended to establish a baseline.
 Periodic monitoring of liver function during treatment is also recommended.
 A biological and etiological evaluation is recommended when a hepatic event is suspected.
-Depending on the case, ZUBSOLV sublingual tablet may need to be carefully discontinued to prevent withdrawal signs and symptoms and a return by the patient to illicit drug use, and strict monitoring of the patient should be initiated.
+Depending on the case, ZUBSOLV may need to be carefully discontinued to prevent withdrawal signs and symptoms and a return by the patient to illicit drug use, and strict monitoring of the patient should be initiated.
 
-## 5.9Allergic Reactions
+## 5.9Hypersensitivity Reactions
 
 Cases of hypersensitivity to buprenorphine and naloxone containing products have been reported both in clinical trials and in the post-marketing experience.
 Cases of bronchospasm, angioneurotic edema, and anaphylactic shock have been reported.
 The most common signs and symptoms include rashes, hives, and pruritus.
-A history of hypersensitivity to buprenorphine or naloxone is a contraindication to the use of ZUBSOLV sublingual tablet.
+A history of hypersensitivity to buprenorphine or naloxone is a contraindication to the use of ZUBSOLV.
 
 ## 5.10Precipitation of Opioid Withdrawal Signs and Symptoms
 
-Because it contains naloxone, ZUBSOLV sublingual tablet is likely to produce withdrawal signs and symptoms if misused parenterally by individuals dependent on full opioid agonists such as heroin, morphine, or methadone.
-Because of the partial agonist properties of buprenorphine, ZUBSOLV sublingual tablet may precipitate opioid withdrawal signs and symptoms in such persons if administered sublingually before the agonist effects of the opioid have subsided.
+Because it contains naloxone, ZUBSOLV is likely to produce withdrawal signs and symptoms if misused parenterally by individuals dependent on full opioid agonists such as heroin, morphine, or methadone.
+Because of the partial agonist properties of buprenorphine, ZUBSOLV may precipitate opioid withdrawal signs and symptoms in such persons if administered sublingually before the agonist effects of the opioid have subsided.
 
-## 5.11Use in Opioid Naïve Patients
+## 5.11Risk of Overdose in Opioid Naïve Patients
 
 There have been reported deaths of opioid naive individuals who received a 2 mg dose of buprenorphine as a sublingual tablet for analgesia.
-ZUBSOLV sublingual tablet is not appropriate as an analgesic.
+ZUBSOLV is not appropriate as an analgesic.
 
 ## 5.12Use in Patients With Impaired Hepatic Function
 
 Buprenorphine/naloxone products are not recommended in patients with severe hepatic impairment and may not be appropriate for patients with moderate hepatic impairment.
 The doses of buprenorphine and naloxone in this fixed-dose combination product cannot be individually titrated, and hepatic impairment results in a reduced clearance of naloxone to a much greater extent than buprenorphine.
 Therefore, patients with severe hepatic impairment will be exposed to substantially higher levels of naloxone than patients with normal hepatic function.
-This may interfere with buprenorphine’s efficacy throughout treatment.
+This may result in an increased risk of precipitated withdrawal at the beginning of treatment (induction) and may interfere with buprenorphine’s efficacy throughout treatment.
 In patients with moderate hepatic impairment, the differential reduction of naloxone clearance compared to buprenorphine clearance is not as great as in subjects with severe hepatic impairment.
-Therefore, buprenorphine/naloxone products may be used with caution for maintenance treatment in patients with moderate hepatic impairment who have initiated treatment on a buprenorphine product without naloxone.
-However, patients should be carefully monitored and consideration given to the possibility of naloxone interfering with buprenorphine’s efficacy [see Use in Specific Populations (8.6)].
+However, buprenorphine/naloxone products are not recommended for initiation of treatment (induction) in patients with moderate hepatic impairment due to the increased risk of precipitated withdrawal.
+Buprenorphine/naloxone products may be used with caution for maintenance treatment in patients with moderate hepatic impairment who have initiated treatment on a buprenorphine product without naloxone.
+Patients should be carefully monitored and consideration given to the possibility of naloxone interfering with buprenorphine’s efficacy [see Use in Specific Populations (8.6)].
 
 ## 5.13Impairment of Ability to Drive or Operate Machinery
 
-ZUBSOLV sublingual tablet may impair the mental or physical abilities required for the performance of potentially dangerous tasks such as driving a car or operating machinery, especially during treatment induction and dose adjustment.
-Patients should be cautioned about driving or operating hazardous machinery until they are reasonably certain that ZUBSOLV sublingual tablet therapy does not adversely affect his or her ability to engage in such activities.
+ZUBSOLV may impair the mental or physical abilities required for the performance of potentially dangerous tasks such as driving a car or operating machinery, especially during treatment induction and dose adjustment.
+Caution patients about driving or operating hazardous machinery until they are reasonably certain that ZUBSOLV therapy does not adversely affect his or her ability to engage in such activities.
 
 ## 5.14Orthostatic Hypotension
 
-Like other opioids, ZUBSOLV sublingual tablets may produce orthostatic hypotension in ambulatory patients.
+Like other opioids, ZUBSOLV may produce orthostatic hypotension in ambulatory patients.
 
 ## 5.15Elevation of Cerebrospinal Fluid Pressure
 
@@ -118,7 +132,3 @@ Buprenorphine has been shown to increase intracholedochal pressure, as do other 
 ## 5.17Effects in Acute Abdominal Conditions
 
 As with other opioids, buprenorphine may obscure the diagnosis or clinical course of patients with acute abdominal conditions.
-
-## 5.18General Precautions
-
-ZUBSOLV sublingual tablet should be administered with caution in debilitated patients and those with myxedema or hypothyroidism, adrenal cortical insufficiency (e.g., Addison's disease); CNS depression or coma; toxic psychoses; prostatic hypertrophy or urethral stricture; acute alcoholism; delirium tremens; or kyphoscoliosis.
