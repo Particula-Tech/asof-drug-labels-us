@@ -26,7 +26,7 @@ Drug Interactions
 PREZCOBIX may interact with many drugs; therefore, inform patients of the potential serious drug interactions with PREZCOBIX, and that some drugs are contraindicated with PREZCOBIX and other drugs may require dosage adjustment.
 Advise patients to report to their healthcare provider the use of any other prescription or nonprescription medication or herbal products, including St. John's wort.
 
-Instruct patients receiving hormonal contraceptives to use additional or alternative contraceptive (non-hormonal) measures during therapy with PREZCOBIX because no data are available to make recommendations regarding use of hormonal contraceptives and PREZCOBIX [see Contraindications (4) and Drug Interactions (7)].
+Instruct patients receiving hormonal contraceptives to use additional or alternative contraceptive (non-hormonal) measures during therapy with PREZCOBIX [see Drug Interactions (7)].
 
 Immune Reconstitution Syndrome
 

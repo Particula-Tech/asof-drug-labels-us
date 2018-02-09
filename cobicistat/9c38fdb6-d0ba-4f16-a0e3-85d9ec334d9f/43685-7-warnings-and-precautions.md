@@ -46,7 +46,7 @@ Co-administration of PREZCOBIX and tenofovir DF is not recommended in patients w
 
 See cobicistat full prescribing information for additional information regarding cobicistat.
 
-## 5.5 Risk of Serious Adverse Reactions or Loss of Virologic response Due to Drug Interactions
+## 5.5 Risk of Serious Adverse Reactions or Loss of Virologic Response Due to Drug Interactions
 
 Initiation of PREZCOBIX, which inhibits CYP3A, in patients receiving medications metabolized by CYP3A, or initiation of medications metabolized by CYP3A in patients already receiving PREZCOBIX may increase plasma concentrations of medications metabolized by CYP3A.
 Initiation of medications that inhibit or induce CYP3A may respectively increase or decrease concentrations of PREZCOBIX.

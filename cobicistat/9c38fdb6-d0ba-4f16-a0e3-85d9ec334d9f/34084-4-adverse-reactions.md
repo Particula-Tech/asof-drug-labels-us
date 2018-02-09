@@ -5,7 +5,7 @@ The following adverse reactions are discussed in other sections of the labeling:
 - Hepatotoxicity [see Warnings and Precautions (5.1)]
 - Severe skin reactions [see Warnings and Precautions (5.2)]
 - Effects on serum creatinine [see Warnings and Precautions (5.3)]
-- New onset or worsening renal impairment when used with tenofovir disoproxil fumarate [see Warnings and Precautions (5.4)]
+- New onset or worsening renal impairment when used with tenofovir DF [see Warnings and Precautions (5.4)]
 
 ## 6.1 Clinical Trials Experience
 
