@@ -97,6 +97,4 @@ What are the ingredients in CLOBEX Lotion?
 Active ingredient: clobetasol propionate Inactive ingredients: hypromellose, propylene glycol, mineral oil, polyoxyethylene glycol 300 isostearate, carbomer 1342, sodium hydroxide and purified water.
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 Marketed by: GALDERMA LABORATORIES, L.P.
-Fort Worth, Texas 76177 USA Manufactured by: DPT Laboratories, Ltd. San Antonio, Texas 78215 USA GALDERMA is a registered trademark.
-US Patent Nos: 6,106,848 and foreign patents pending.
-P51405-0
+Fort Worth, Texas 76177 USA Made in Canada P53324-0 Revised 03/2017

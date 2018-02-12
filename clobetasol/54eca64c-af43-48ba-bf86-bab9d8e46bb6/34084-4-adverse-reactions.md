@@ -25,4 +25,4 @@ The following adverse reactions have been identified during post-approval use of
 
 - Endocrine disorders: Cushing’s syndrome, Adrenal suppression
 - Skin: Rash, Pain of skin, Skin exfoliation, Skin chapped, Scaling, Induration/papulation, Lichenification.
-- Other: Psoriasis (aggravation), plaque elevation, excoriation.
+- Other: Psoriasis (aggravation), Plaque Elevation, Excoriation.
