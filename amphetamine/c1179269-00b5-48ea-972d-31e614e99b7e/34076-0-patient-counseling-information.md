@@ -82,7 +82,7 @@ ADZENYS XR-ODT is a registered trademark of Neos Therapeutics, Inc.
 
 Copyright© 2016, Neos Therapeutics, Inc.
 
-Rev.
-10/2016 PIN020299
-
 Patent Number 8,709,491 B2
+
+Rev.
+02/2018 PIN020299
