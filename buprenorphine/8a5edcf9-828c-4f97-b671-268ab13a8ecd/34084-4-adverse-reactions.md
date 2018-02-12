@@ -1,5 +1,18 @@
 # 6 ADVERSE REACTIONS
 
+The following serious adverse reactions are described elsewhere in the labeling:
+
+- Addiction, Abuse, and Misuse [see Warnings and Precautions (5.1)]
+- Respiratory and CNS Depression [see Warnings and Precautions (5.2), (5.3)]
+- Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.5)]
+- Adrenal Insufficiency [see Warnings and Precautions (5.6)]
+- Opioid Withdrawal [see Warnings and Precautions (5.7, 5.10)]
+- Hepatitis, Hepatic Events [see Warnings and Precautions (5.8)]
+- Hypersensitivity Reactions [see Warnings and Precautions (5.9)]
+- Orthostatic Hypotension [see Warnings and Precautions (5.14)]
+- Elevation of Cerebrospinal Fluid Pressure [see Warnings and Precautions (5.15)]
+- Elevation of Intracholedochal Pressure [see Warnings and Precautions (5.16)
+
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
@@ -18,7 +31,7 @@ In a comparative study of SUBOXONE sublingual tablets and SUBUTEX sublingual tab
 The following adverse events were reported to occur by at least 5% of patients in a 4 week study of SUBOXONE sublingual tablets and SUBUTEX sublingual tablets.
 
 Table 2.
-Adverse Events (≥ 5%) by Body System and Treatment Group in a 4 Week Study
+Adverse Events (≥5%) by Body System and Treatment Group in a 4 Week Study
 
 | Body System/ Adverse Event (COSTART Terminology) | SUBOXONE sublingual tablets 16 mg/4 mg/day N=107 n (%) | SUBUTEX sublingual tablets 16 mg/day N=103 n (%) | Placebo N=107 n (%) |
 | --- | --- | --- | --- |
@@ -88,7 +101,11 @@ Adverse Events (≥5%) by Body System and Treatment Group in a 16 Week Study
 | Sweat | 23 (13%) | 21 (12%) | 20 (11%) | 23 (13%) | 87 (12%) |
 | Special Senses |  |  |  |  |  |
 | Runny eyes | 13 (7%) | 9 (5%) | 6 (3%) | 6 (3%) | 34 (5%) |
-| *Sublingual solution. Doses in this table cannot necessarily be delivered in tablet form, but for comparison purposes: 1 mg solution would be less than a tablet dose of 2 mg 4 mg solution approximates a 6 mg tablet dose 8 mg solution approximates a 12 mg tablet dose 16 mg solution approximates a 24 mg tablet dose |  |  |  |  |  |
+| *Sublingual solution. Doses in this table cannot necessarily be delivered in tablet form, but for comparison purposes: |  |  |  |  |  |
+| "Very low" dose (1 mg solution) would be less than a tablet dose of 2 mg |  |  |  |  |  |
+| "Low" dose (4 mg solution) approximates a 6 mg tablet dose |  |  |  |  |  |
+| "Moderate" dose (8 mg solution) approximates a 12 mg tablet dose |  |  |  |  |  |
+| "High" dose (16 mg solution) approximates a 24 mg tablet dose |  |  |  |  |  |
 
 The safety of SUBOXONE sublingual film during treatment induction is supported by a clinical trial using 16 patients treated with SUBOXONE sublingual film and 18 treated with a buprenorphine-only sublingual film.
 Few differences in the adverse event profiles were noted between SUBOXONE sublingual film and the buprenorphine-only sublingual film.
@@ -97,7 +114,7 @@ The most common adverse event occurring during treatment induction and the 3 day
 Other adverse events were anxiety, piloerection, stomach discomfort, irritability, headache, rhinorrhea, cold sweat, arthralgia, and lacrimation increased.
 
 Four subjects left the study early on the first day of sublingual film administration.
-However, there was not evidence to suggest that any of the four subjects experienced precipitated withdrawal secondary to the administration of buprenorphine or buprenorphine/naloxone sublingual films.
+However, there was no evidence to suggest that any of the four subjects experienced precipitated withdrawal secondary to the administration of buprenorphine or buprenorphine/naloxone sublingual films.
 
 ## 6.2 Postmarketing Experience
 
@@ -113,3 +130,5 @@ Adrenal insufficiency: Cases of adrenal insufficiency have been reported with op
 Anaphylaxis: Anaphylaxis has been reported with ingredients contained in SUBOXONE sublingual film.
 
 Androgen deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [see Clinical Pharmacology (12.2)].
+
+Local reactions: glossodynia, glossitis, oral mucosal erythema, oral hypoesthesia, and stomatitis

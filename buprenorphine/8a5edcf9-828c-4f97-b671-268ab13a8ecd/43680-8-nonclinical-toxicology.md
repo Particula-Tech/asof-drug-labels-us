@@ -7,7 +7,9 @@ Carcinogenicity
 Carcinogenicity data on SUBOXONE sublingual film are not available.
 
 A carcinogenicity study of buprenorphine/naloxone (4:1 ratio of the free bases) was performed in Alderley Park rats.
-Buprenorphine/naloxone was administered in the diet at doses of approximately 7, 31, and 123 mg/kg/day for 104 weeks (estimated exposure was approximately 4, 18, and 44 times the recommended human sublingual dose of 16 mg/4 mg buprenorphine/naloxone based on buprenorphine AUC comparisons).
+Buprenorphine/naloxone was administered in the diet at doses of approximately 7, 31, and
+
+123 mg/kg/day for 104 weeks (estimated exposure was approximately 4, 18, and 44 times the recommended human sublingual dose of 16 mg/4 mg buprenorphine/naloxone based on buprenorphine AUC comparisons).
 A statistically significant increase in Leydig cell adenomas was observed in all dose groups.
 No other drug-related tumors were noted.
 

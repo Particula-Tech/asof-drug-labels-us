@@ -1,6 +1,10 @@
 # 10 OVERDOSAGE
 
+Clinical Presentation
+
 The manifestations of acute overdose include pinpoint pupils, sedation, hypotension, respiratory depression, and death.
+
+Treatment of Overdose
 
 In the event of overdose, the respiratory and cardiac status of the patient should be monitored carefully.
 When respiratory or cardiac functions are depressed, primary attention should be given to the re-establishment of adequate respiratory exchange through provision of a patent airway and institution of assisted or controlled ventilation.
@@ -9,3 +13,5 @@ Oxygen, IV fluids, vasopressors, and other supportive measures should be employe
 In the case of overdose, the primary management should be the re-establishment of adequate ventilation with mechanical assistance of respiration, if required.
 Naloxone may be of value for the management of buprenorphine overdose.
 Higher than normal doses and repeated administration may be necessary.
+The long duration of action of SUBOXONE sublingual film should be taken into consideration when determining the length of treatment and medical surveillance needed to reverse the effects of an overdose.
+Insufficient duration of monitoring may put patients at risk.

@@ -2,7 +2,7 @@
 
 SUBOXONE sublingual film is supplied as an orange rectangular film with a white printed logo in four dosage strengths:
 
-- buprenorphine/naloxone 2 mg/0.5 mg,
-- buprenorphine/naloxone 4 mg/1 mg,
-- buprenorphine/naloxone 8 mg/2 mg and
-- buprenorphine/naloxone 12 mg/3 mg
+- Buprenorphine 2 mg/naloxone 0.5 mg,
+- Buprenorphine 4 mg/naloxone 1 mg,
+- Buprenorphine 8 mg/naloxone 2 mg and
+- Buprenorphine 12 mg/naloxone 3 mg

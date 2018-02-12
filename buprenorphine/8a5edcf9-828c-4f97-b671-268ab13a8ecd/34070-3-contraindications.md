@@ -1,3 +1,3 @@
 # 4 CONTRAINDICATIONS
 
-SUBOXONE sublingual film should not be administered to patients who have been shown to be hypersensitive to buprenorphine or naloxone as serious adverse reactions, including anaphylactic shock, have been reported [see Warnings and Precautions (5.9)].
+SUBOXONE sublingual film is contraindicated in patients with a history of hypersensitivity to buprenorphine or naloxone as serious adverse reactions, including anaphylactic shock, have been reported [see Warnings and Precautions (5.9)].

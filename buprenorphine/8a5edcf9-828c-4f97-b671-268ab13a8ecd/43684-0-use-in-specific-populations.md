@@ -15,8 +15,10 @@ Pre-and postnatal development studies in rats demonstrated increased neonatal de
 No clear teratogenic effects were seen when buprenorphine was administered during organogenesis with a range of doses equivalent to or greater than the human sublingual dose of 16 mg/day of buprenorphine.
 However, increases in skeletal abnormalities were noted in rats and rabbits administered buprenorphine daily during organogenesis at doses approximately 0.6 and approximately equal to the human sublingual dose of 16 mg/day of buprenorphine, respectively.
 In a few studies, some events such as acephalus and omphalocele were also observed but these findings were not clearly treatment-related [see Data].
+Based on animal data, advise pregnant women of the potential risk to a fetus.
 
 The estimated background risk of major birth defects and miscarriage for the indicated population are unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 
 Clinical Considerations
@@ -52,13 +54,13 @@ Studies have been conducted to evaluate neonatal outcomes in women exposed to bu
 Limited data on malformations from trials, observational studies, case series, and case reports on buprenorphine use in pregnancy do not indicate an increased risk of major malformations specifically due to buprenorphine.
 Several factors may complicate the interpretation of investigations of the children of women who take buprenorphine during pregnancy, including maternal use of illicit drugs, late presentation for prenatal care, infection, poor compliance, poor nutrition, and psychosocial circumstances.
 Interpretation of data is complicated further by the lack of information on untreated opioid-dependent pregnant women, who would be the most appropriate group for comparison.
-Rather, women on another form of opioid medication-assisted treatment, or women in the general population are generally used as the comparison group.
+Rather, women on another form of opioid medication- assisted treatment, or women in the general population are generally used as the comparison group.
 However, women in these comparison groups may be different from women prescribed buprenorphine-containing products with respect to maternal factors that may lead to poor pregnancy outcomes.
 
 In a multicenter, double-blind, randomized, controlled trial [Maternal Opioid Treatment: Human Experimental Research (MOTHER)] designed primarily to assess neonatal opioid withdrawal effects, opioid-dependent pregnant women were randomized to buprenorphine (n=86) or methadone (n=89) treatment, with enrollment at an average gestational age of 18.7 weeks in both groups.
 A total of 28 of the 86 women in the buprenorphine group (33%) and 16 of the 89 women in the methadone group (18%) discontinued treatment before the end of pregnancy.
 
-Among women who remained in treatment until delivery, there was no difference between buprenorphine-treated and methadone-treated groups in the number of neonates requiring NOWS treatment or in the peak severity of NOWS.
+Among women who remained in treatment until delivery, there was no difference between buprenorphine- treated and methadone-treated groups in the number of neonates requiring NOWS treatment or in the peak severity of NOWS.
 Buprenorphine-exposed neonates required less morphine (mean total dose, 1.1 mg vs. 10.4 mg), had shorter hospital stays (10.0 days vs. 17.5 days), and shorter duration of treatment for NOWS (4.1 days vs. 9.9 days) compared to the methadone-exposed group.
 There were no differences between groups in other primary outcomes (neonatal head circumference,) or secondary outcomes (weight and length at birth, preterm birth, gestational age at delivery, and 1-minute and 5-minute Apgar scores), or in the rates of maternal or neonatal adverse events.
 The outcomes among mothers who discontinued treatment before delivery and may have relapsed to illicit opioid use are not known.
@@ -72,8 +74,11 @@ Effects on embryo-fetal development were studied in Sprague-Dawley rats and Russ
 Following oral administration to rats no teratogenic effects were observed at buprenorphine doses up to 250 mg/kg/day (estimated exposure approximately 150 times the human sublingual dose of 16 mg) in the presence of maternal toxicity (mortality).
 Following oral administration to rabbits, no teratogenic effects were observed at buprenorphine doses up to 40 mg/kg/day (estimated exposure approximately 50 times, the human sublingual dose of 16 mg) in the absence of clear maternal toxicity.
 
-No definitive drug-related teratogenic effects were observed in rats and rabbits at IM doses up to 30 mg/kg/day (estimated exposure approximately 20 times and 35 times, respectively, the human sublingual dose of 16 mg).
+No definitive drug-related teratogenic effects were observed in rats and rabbits at IM doses up to
+
+30 mg/kg/day (estimated exposure approximately 20 times and 35 times, respectively, the human sublingual dose of 16 mg).
 Maternal toxicity resulting in mortality was noted in these studies in both rats and rabbits.
+
 Acephalus was observed in one rabbit fetus from the low-dose group and omphalocele was observed in two rabbit fetuses from the same litter in the mid-dose group; no findings were observed in fetuses from the high-dose group.
 Maternal toxicity was seen in the high-dose group but not at the lower doses where the findings were observed.
 Following oral administration of buprenorphine to rats, dose-related post-implantation losses, evidenced by increases in the numbers of early resorptions with consequent reductions in the numbers of fetuses, were observed at doses of 10 mg/kg/day or greater (estimated exposure approximately 6 times the human sublingual dose of 16 mg).
@@ -88,7 +93,8 @@ In rabbits, buprenorphine produced statistically significant pre-implantation lo
 No maternal toxicity was noted at doses causing post-implantation loss in this study.
 
 Dystocia was noted in pregnant rats treated intramuscularly with buprenorphine from Gestation Day 14 through Lactation Day 21 at 5 mg/kg/day (approximately 3 times the human sublingual dose of 16 mg).
-Fertility,pre- and post-natal development studies with buprenorphine in rats indicated increases in neonatal mortality after oral doses of 0.8 mg/kg/day and up (approximately 0.5 times the human daily sublingual dose of 16 mg), after IM doses of 0.5 mg/kg/day and up (approximately 0.3 times the human sublingual dose of 16 mg), and after SC doses of 0.1 mg/kg/day and up (approximately 0.06 times the human sublingual dose of 16 mg).
+Fertility, pre- and post-natal development studies with buprenorphine in rats indicated increases in neonatal mortality after oral doses of 0.8 mg/kg/day and up (approximately 0.5 times the human daily sublingual dose of 16 mg), after IM doses of 0.5 mg/kg/day and up (approximately 0.3 times the human sublingual dose of 16 mg), and after SC doses of 0.1 mg/kg/day and up (approximately 0.06 times the human sublingual dose of 16 mg).
+
 An apparent lack of milk production during these studies likely contributed to the decreased pup viability and lactation indices.
 
 Delays in the occurrence of righting reflex and startle response were noted in rat pups at an oral dose of 80 mg/kg/day (approximately 50 times the human sublingual dose of 16 mg).
@@ -97,31 +103,35 @@ Delays in the occurrence of righting reflex and startle response were noted in r
 
 Risk Summary
 
-Based on two studies in 13 lactating women maintained on buprenorphine treatment, buprenorphine and its metabolite norbuprenorphine were present in low levels in human milk and available data have not shown adverse reactions in breastfed infants.
+Based on two studies in 13 lactating women maintained on buprenorphine treatment, buprenorphine and its metabolite norbuprenorphine were present in low levels in human milk and infant urine.
+
+Available data have not shown adverse reactions in breastfed infants.
 There are no data on the combination product buprenorphine/naloxone in breastfeeding, however oral absorption of naloxone is limited.
 The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for SUBOXONE sublingual film and any potential adverse effects on the breastfed child from the drug or from the underlying maternal condition.
 
 Clinical Considerations
 
-Advise breastfeeding women taking buprenrophine products to monitor the infant for increased drowsiness and breathing difficulties.
+Advise breastfeeding women taking buprenorphine products to monitor the infant for increased drowsiness and breathing difficulties.
 
 Data
 
 Data were consistent from two studies (N=13) of breastfeeding infants whose mothers were maintained on sublingual doses of buprenorphine ranging from 2.4 to 24 mg/day, showing that the infants were exposed to less than 1% of the maternal daily dose.
 
-In a study of six lactating women who were taking a median sublingual buprenorphine dose of 0.29 mg/kg/day 5 to 8 days after delivery, breast milk provided a median infant dose of 0.42 mcg/kg/day of buprenorphine and 0.33 mcg/kg/day of norbuprenorphine, equal to 0.2% and 0.12%, respectively, of the maternal weight-adjusted dose (relative dose/kg (%) of norbuprenorphine was calculated from the assumption that buprenorphine and norbuprenorphine are equipotent).
+In a study of six lactating women who were taking a median sublingual buprenorphine dose of 0.29 mg/kg/day 5 to 8 days after delivery, breast milk provided a median infant dose of 0.42 mcg/kg/day of buprenorphine and
 
-Data from a study of seven lactating women who were taking a median sublingual buprenorphine dose of 7 mg/day an average of 1.12 months after delivery indicated that the mean milk concentrations (Cavg) of buprenorphine and norbuprenorphine were 3.65 mcg/L and 1.94 mcg/L respectively.
+0.33 mcg/kg/day of norbuprenorphine, equal to 0.2% and 0.12%, respectively, of the maternal weight-adjusted dose (relative dose/kg (%) of norbuprenorphine was calculated from the assumption that buprenorphine and norbuprenorphine are equipotent).
+
+Data from a study of seven lactating women who were taking a median sublingual buprenorphine dose of 7 mg/day an average of 1.12 months after delivery indicated that the mean milk concentrations (Cavg) of
+
+buprenorphine and norbuprenorphine were 3.65 mcg/L and 1.94 mcg/L respectively.
 Based on the study data, and assuming milk consumption of 150 mL/kg/day, an exclusively breastfed infant would receive an estimated mean absolute infant dose (AID) of 0.55 mcg/kg/day of buprenorphine and 0.29 mcg/kg/day of norbuprenorphine, or a mean relative infant dose (RID) of 0.38% and 0.18%, respectively, of the maternal weight-adjusted dose
 
 ## 8.3 Females and Males of Reproductive Potential
 
 Infertility
 
-Chronic use of opioids may cause reduced fertility in females and males of reproductive
-
-potential.
-It is not known whether these effects on fertility are reversible [see Adverse Reactions (6.2), Clinical Pharmacology (12.2), and Nonclinical Toxicology (13.1)].
+Chronic use of opioids may cause reduced fertility in females and males of reproductive potential.
+It is not known whether these effects on fertility are reversible [see Adverse Reactions (6.2), Clinical Pharmacology (12.2), Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
 
@@ -132,7 +142,7 @@ This product is not appropriate for the treatment of neonatal abstinence syndrom
 
 Clinical studies of SUBOXONE sublingual film, SUBOXONE sublingual tablets, or SUBUTEX sublingual tablets did not include sufficient numbers of subjects aged 65 and over to determine whether they responded differently than younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
-In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+Due to possible decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy in geriatric patients, the decision to prescribe SUBOXONE sublingual film should be made cautiously in individuals 65 years of age or older and these patients should be monitored for signs and symptoms of toxicity or overdose.
 
 ## 8.6 Hepatic Impairment
 
@@ -140,8 +150,9 @@ The effect of hepatic impairment on the pharmacokinetics of buprenorphine and na
 Both drugs are extensively metabolized in the liver.
 While no clinically significant changes have been observed in subjects with mild hepatic impairment; the plasma levels have been shown to be higher and half-life values have been shown to be longer for both buprenorphine and naloxone in subjects with moderate and severe hepatic impairment.
 The magnitude of the effects on naloxone are greater than that on buprenorphine in both moderately and severely impaired subjects.
-The difference in magnitude of the effects on naloxone and buprenorphine are greater in subjects with severe hepatic impairment than in subjects with moderate hepatic impairment, and therefore the clinical impact of these effects is likely to be greater in patients with severe hepatic impairment than in patients with moderate hepatic impairment.
-Buprenorphine/naloxone products should be avoided in patients with severe hepatic impairment and may not be appropriate for patients with moderate hepatic impairment [see Warnings and Precautions (5.12) and Clinical Pharmacology (12.3)].
+The difference in magnitude of the effects on naloxone and buprenorphine are greater in subjects with severe hepatic impairment than in subjectswith moderate hepatic impairment, and therefore the clinical impact of these effects is likely to be greater in patients with severe hepatic impairment than in patients with moderate hepatic impairment.
+
+Buprenorphine/naloxone products should be avoided in patients with severe hepatic impairment and may not be appropriate for patients with moderate hepatic impairment [see Warnings and Precautions (5.12), Clinical Pharmacology (12.3)].
 
 ## 8.7 Renal Impairment
 
