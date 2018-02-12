@@ -2,7 +2,7 @@
 
 Limited data are available in regard to overdosage in humans.
 
-Single oral doses of enalapril above 1000 mg/kg and ≥ 1775 mg/kg were associated with lethality in mice and rats, respectively.
+Single oral doses of enalapril above 1,000 mg/kg and ≥1,775 mg/kg were associated with lethality in mice and rats, respectively.
 
 The most likely manifestation of overdosage would be hypotension, for which the usual treatment would be intravenous infusion of normal saline solution.
 

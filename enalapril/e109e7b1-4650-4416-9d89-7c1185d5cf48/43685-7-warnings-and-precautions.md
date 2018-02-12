@@ -13,7 +13,7 @@ In instances where swelling has been confined to the face and lips the condition
 Angioedema associated with laryngeal edema may be fatal.
 Where there is involvement of the tongue, glottis or larynx, likely to cause airway obstruction, appropriate therapy, e.g., subcutaneous epinephrine solution 1:1000 (0.3 mL to 0.5 mL) and/or measures necessary to ensure a patent airway, should be promptly provided (see ADVERSE REACTIONS).
 
-Patients receiving coadministration of ACE inhibitor and mTOR (mammalian target of rapamycin) inhibitor (e.g., temsirolimus, sirolimus, everolimus) therapy may be at increased risk for angioedema (see PRECAUTIONS).
+Patients receiving coadministration of ACE inhibitor and mTOR (mammalian target of rapamycin) inhibitor (e.g., temsirolimus, sirolimus, everolimus) therapy or a neprilysin inhibitor may be at increased risk for angioedema (see PRECAUTIONS).
 
 ### Intestinal Angioedema
 
@@ -38,7 +38,7 @@ Anaphylactoid reactions have also been reported in patients undergoing low-densi
 
 Excessive hypotension is rare in uncomplicated hypertensive patients treated with enalapril maleate alone.
 Patients with heart failure given enalapril maleate commonly have some reduction in blood pressure, especially with the first dose, but discontinuation of therapy for continuing symptomatic hypotension usually is not necessary when dosing instructions are followed; caution should be observed when initiating therapy (see DOSAGE AND ADMINISTRATION).
-Patients at risk for excessive hypotension, sometimes associated with oliguria and/or progressive azotemia, and rarely with acute renal failure and/or death, include those with the following conditions or characteristics: heart failure, hyponatremia, high dose diuretic therapy, recent intensive diuresis or increase in diuretic dose, renal dialysis, or severe volume and/or salt depletion of any etiology.
+Patients at risk for excessive hypotension, sometimes associated with oliguria and/or progressive azotemia, and rarely with acute renal failure and/or death, include those with the following conditions or characteristics: heart failure, hyponatremia, high-dose diuretic therapy, recent intensive diuresis or increase in diuretic dose, renal dialysis, or severe volume and/or salt depletion of any etiology.
 It may be advisable to eliminate the diuretic (except in patients with heart failure), reduce the diuretic dose or increase salt intake cautiously before initiating therapy with enalapril maleate in patients at risk for excessive hypotension who are able to tolerate such adjustments (see PRECAUTIONS, Drug Interactions and ADVERSE REACTIONS).
 In patients at risk for excessive hypotension, therapy should be started under very close medical supervision and such patients should be followed closely for the first two weeks of treatment and whenever the dose of enalapril and/or diuretic is increased.
 Similar considerations may apply to patients with ischemic heart or cerebrovascular disease, in whom an excessive fall in blood pressure could result in a myocardial infarction or cerebrovascular accident.
@@ -49,7 +49,7 @@ If symptomatic hypotension develops, a dose reduction or discontinuation of enal
 
 ## Neutropenia/Agranulocytosis
 
-Another angiotensin converting enzyme inhibitor, captopril, has been shown to cause agranulocytosis and bone marrow depression, rarely in uncomplicated patients but more frequently in patients with renal impairment especially if they also have a collagen vascular disease.
+Another angiotensin converting enzyme inhibitor, captopril, has been shown to cause agranulocytosis and bone marrow depression, rarely in uncomplicated patients but more frequently in patients with renal impairment, especially if they also have a collagen vascular disease.
 Available data from clinical trials of enalapril are insufficient to show that enalapril does not cause agranulocytosis at similar rates.
 Marketing experience has revealed cases of neutropenia or agranulocytosis in which a causal relationship to enalapril cannot be excluded.
 Periodic monitoring of white blood cell counts in patients with collagen vascular disease and renal disease should be considered.
@@ -62,11 +62,9 @@ Patients receiving ACE inhibitors who develop jaundice or marked elevations of h
 
 ## Fetal Toxicity
 
-### Pregnancy Category D
-
 Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death.
 Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations.
-Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure and death.
+Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death.
 When pregnancy is detected, discontinue enalapril maleate as soon as possible.
 These adverse outcomes are usually associated with use of these drugs in the second and third trimester of pregnancy.
 Most epidemiologic studies examining fetal abnormalities after exposure to antihypertensive use in the first trimester have not distinguished drugs affecting the renin-angiotensin system from other antihypertensive agents.
@@ -93,7 +91,7 @@ As with all vasodilators, enalapril should be given with caution to patients wit
 ### Impaired Renal Function
 
 As a consequence of inhibiting the renin-angiotensin-aldosterone system, changes in renal function may be anticipated in susceptible individuals.
-In patients with severe heart failure whose renal function may depend on the activity of the renin-angiotensin-aldosterone system, treatment with angiotensin-converting enzyme inhibitors, including enalapril maleate, may be associated with oliguria and/or progressive azotemia and rarely with acute renal failure and/or death (see PRECAUTIONS, Drug Interactions).
+In patients with severe heart failure whose renal function may depend on the activity of the renin-angiotensin-aldosterone system, treatment with angiotensin converting enzyme inhibitors, including enalapril maleate, may be associated with oliguria and/or progressive azotemia and rarely with acute renal failure and/or death (see PRECAUTIONS, Drug Interactions).
 
 In clinical studies in hypertensive patients with unilateral or bilateral renal artery stenosis, increases in blood urea nitrogen and serum creatinine were observed in 20% of patients.
 These increases were almost always reversible upon discontinuation of enalapril and/or diuretic therapy.
@@ -103,7 +101,7 @@ Some patients with hypertension or heart failure with no apparent pre-existing r
 This is more likely to occur in patients with pre-existing renal impairment.
 Dosage reduction and/or discontinuation of the diuretic and/or enalapril maleate may be required.
 
-Evaluation of patients with hypertension or heart failure should always include assessment of renal function (seeDOSAGE AND ADMINISTRATION).
+Evaluation of patients with hypertension or heart failure should always include assessment of renal function (see DOSAGE AND ADMINISTRATION).
 
 ### Hyperkalemia
 
@@ -158,21 +156,25 @@ It is not a disclosure of all possible adverse or intended effects.
 
 ## Drug Interactions
 
+Neprilysin Inhibitors
+
+Patients taking concomitant neprilysin inhibitors may be at increased risk for angioedema (see WARNINGS).
+
 ### Dual Blockade of the Renin-Angiotensin System (RAS)
 
 Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy.
 Most patients receiving the combination of two RAS inhibitors do not obtain any additional benefit compared to monotherapy.
 In general, avoid combined use of RAS inhibitors.
-Closely monitor blood pressure, renal function and electrolytes in patients on enalapril maleate and other agents that affect the RAS.
+Closely monitor blood pressure, renal function, and electrolytes in patients on enalapril maleate and other agents that affect the RAS.
 
-Do not co-administer aliskiren with enalapril maleate in patients with diabetes.
-Avoid use of aliskiren with enalapril maleate in patients with renal impairment (GFR < 60 ml/min).
+Do not coadminister aliskiren with enalapril maleate in patients with diabetes.
+Avoid use of aliskiren with enalapril maleate in patients with renal impairment (GFR <60 mL/min).
 
 ### Hypotension—Patients on Diuretic Therapy
 
 Patients on diuretics and especially those in whom diuretic therapy was recently instituted, may occasionally experience an excessive reduction of blood pressure after initiation of therapy with enalapril.
 The possibility of hypotensive effects with enalapril can be minimized by either discontinuing the diuretic or increasing the salt intake prior to initiation of treatment with enalapril.
-If it is necessary to continue the diuretic, provide close medical supervision after the initial dose for at least 2 hours and until blood pressure has stabilized for at least an additional hour (see WARNINGSand DOSAGE AND ADMINISTRATION).
+If it is necessary to continue the diuretic, provide close medical supervision after the initial dose for at least 2 hours and until blood pressure has stabilized for at least an additional hour (see WARNINGS and DOSAGE AND ADMINISTRATION).
 
 ### Agents Causing Renin Release
 
@@ -197,7 +199,7 @@ Enalapril maleate has been used concomitantly with beta adrenergic-blocking agen
 Enalapril attenuates potassium loss caused by thiazide-type diuretics.
 Potassium-sparing diuretics (e.g., spironolactone, triamterene, or amiloride), potassium supplements, or potassium-containing salt substitutes may lead to significant increases in serum potassium.
 Therefore, if concomitant use of these agents is indicated because of demonstrated hypokalemia, they should be used with caution and with frequent monitoring of serum potassium.
-Potassium sparing agents should generally not be used in patients with heart failure receiving enalapril maleate.
+Potassium-sparing agents should generally not be used in patients with heart failure receiving enalapril maleate.
 
 ### Lithium
 

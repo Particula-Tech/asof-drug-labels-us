@@ -18,8 +18,8 @@ Concomitant administration of enalapril maleate tablets, USP with potassium supp
 
 ## Dosage Adjustment in Hypertensive Patients with Renal Impairment
 
-The usual dose of enalapril maleate tablets, USP is recommended for patients with a creatinine clearance >30 mL/min (serum creatinine of up to approximately 3 mg/dL).
-For patients with creatinine clearance ≤30 mL/min (serum creatinine ≥3 mg/dL), the first dose is 2.5 mg once daily.
+The usual dose of enalapril is recommended for patients with a creatinine clearance more than 30 mL/min (serum creatinine of up to approximately 3 mg/dL).
+For patients with creatinine clearance less than or equal to 30 mL/min (serum creatinine more than or equal to 3 mg/dL), the first dose is 2.5 mg once daily.
 The dosage may be titrated upward until blood pressure is controlled or to a maximum of 40 mg daily.
 
 | Renal Status | Creatinine-Clearance mL/min | Initial Dose mg/day |
@@ -35,7 +35,7 @@ Enalapril maleate tablets, USP are indicated for the treatment of symptomatic he
 In the placebo-controlled studies that demonstrated improved survival, patients were titrated as tolerated up to 40 mg, administered in two divided doses.
 
 The recommended initial dose is 2.5 mg.
-The recommended dosing range is 2.5 mg to 20 mg given twice a day.
+The recommended dosing range is 2.5 to 20 mg given twice a day.
 Doses should be titrated upward, as tolerated, over a period of a few days or weeks.
 The maximum daily dose administered in clinical trials was 40 mg in divided doses.
 
@@ -54,7 +54,7 @@ The appearance of hypotension after the initial dose of enalapril maleate tablet
 
 ## Dosage Adjustment in Patients with Heart Failure and Renal Impairment or Hyponatremia
 
-In patients with heart failure who have hyponatremia (serum sodium less than 130 mEq/L) or with serum creatinine greater than 1.6 mg/dL, therapy should be initiated at 2.5 mg daily under close medical supervision (see DOSAGE AND ADMINISTRATION, Heart Failure; WARNINGS; and PRECAUTIONS, Drug Interactions).
+In patients with heart failure who have hyponatremia (serum sodium less than 130 mEq/L) or with serum creatinine greater than 1.6 mg/dL, therapy should be initiated at 2.5 mg daily under close medical supervision (see DOSAGE AND ADMINISTRATION, Heart Failure, WARNINGS and PRECAUTIONS, Drug Interactions).
 The dose may be increased to 2.5 mg b.i.d., then 5 mg b.i.d. and higher as needed, usually at intervals of 4 days or more if at the time of dosage adjustment there is not excessive hypotension or significant deterioration of renal function.
 The maximum daily dose is 40 mg.
 

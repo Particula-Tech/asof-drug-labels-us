@@ -30,7 +30,7 @@ NDC 16714-445-02, bottles of 1000 tablets
 
 Storage
 
-Store at 20°to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
+Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 
 Keep container tightly closed.
 
@@ -42,9 +42,9 @@ Dispense in a tight container as per USP, if product package is subdivided.
 
 2 Trademark of Paddock Laboratories, Inc.
 
-Manufactured for: Northstar Rx LLC, Memphis, TN 38141.
+Manufactured for:
 
-Toll-free Number: 1-800-206-7821
+Northstar Rx LLC, Memphis, TN 38141.
 
 Finished drug product manufactured by:
 
@@ -55,4 +55,4 @@ S1-1526 Ljubljana, Slovenia.
 Product of India.
 
 Rev.
-September 2015
+October 2017

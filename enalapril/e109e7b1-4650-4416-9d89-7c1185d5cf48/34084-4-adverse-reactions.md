@@ -10,16 +10,16 @@ In patients with hypertension the overall percentage of patients treated with en
 ## Hypertension
 
 Adverse experiences occurring in greater than one percent of patients with hypertension treated with enalapril maleate in controlled clinical trials are shown below.
-In patients treated with enalapril maleate, the maximum duration of therapy was 3 years; in placebo treated patients the maximum duration of therapy was 12 weeks.
+In patients treated with enalapril maleate, the maximum duration of therapy was 3 years; in placebo-treated patients the maximum duration of therapy was 12 weeks.
 
-|  | Enalapril Maleate (n = 2314) Incidence (discontinuation) | Placebo (n = 230) Incidence |
+|  | Enalapril Maleate (n=2314) Incidence (discontinuation) | Placebo (n=230) Incidence |
 | --- | --- | --- |
-| Body as a Whole |  |  |
-| Fatigue | 3 (< 0.1) | 2.6 |
-| Orthostatic Effects | 1.2 (< 0.1) | 0 |
+| Body As A Whole |  |  |
+| Fatigue | 3 (<0.1) | 2.6 |
+| Orthostatic Effects | 1.2 (<0.1) | 0 |
 | Asthenia | 1.1 (0.1) | 0.9 |
 | Digestive |  |  |
-| Diarrhea | 1.4 (< 0.1) | 1.7 |
+| Diarrhea | 1.4 (<0.1) | 1.7 |
 | Nausea | 1.4 (0.2) | 1.7 |
 | Nervous/Psychiatric |  |  |
 | Headache | 5.2 (0.3) | 9.1 |
@@ -36,9 +36,9 @@ The incidences represent the experiences from both controlled and uncontrolled c
 In the placebo treated patients, the incidences reported are from the controlled trials (maximum duration of therapy is 12 weeks).
 The percentage of patients with severe heart failure (NYHA Class IV) was 29% and 43% for patients treated with enalapril maleate and placebo, respectively.
 
-|  | Enalapril Maleate (n = 673) Incidence (discontinuation) | Placebo (n = 339) Incidence |
+|  | Enalapril Maleate (n=673) Incidence (discontinuation) | Placebo (n=339) Incidence |
 | --- | --- | --- |
-| Body as a Whole |  |  |
+| Body As A Whole |  |  |
 | Orthostatic Effects | 2.2 (0.1) | 0.3 |
 | Syncope | 2.2 (0.1) | 0.9 |
 | Chest Pain | 2.1 (0) | 2.1 |
@@ -68,9 +68,9 @@ The percentage of patients with severe heart failure (NYHA Class IV) was 29% and
 | Urogenital |  |  |
 | Urinary Tract Infection | 1.3 (0) | 2.4 |
 
-Other serious clinical adverse experiences occurring since the drug was marketed or adverse experiences occurring in 0.5% to 1% of patients with hypertension or heart failure in clinical trials are listed below and, within each category, are in order of decreasing severity.
+Other serious clinical adverse experiences occurring since the drug was marketed or adverse experiences occurring in 0.5 to 1% of patients with hypertension or heart failure in clinical trials are listed below and, within each category, are in order of decreasing severity.
 
-Body as a Whole
+Body As A Whole
 
 Anaphylactoid reactions (see WARNINGS, Anaphylactoid and Possibly Related Reactions).
 
@@ -152,7 +152,7 @@ Increases in blood urea nitrogen or creatinine were a cause for discontinuation 
 
 Small decreases in hemoglobin and hematocrit (mean decreases of approximately 0.3 g percent and 1 vol percent, respectively) occur frequently in either hypertension or congestive heart failure patients treated with enalapril maleate but are rarely of clinical importance unless another cause of anemia coexists.
 In clinical trials, less than 0.1% of patients discontinued therapy due to anemia.
-Hemolytic anemia, including cases of hemolysis in patients with G-6-PD deficiency, has been reported; a causal relationship to enalapril cannot be excluded.
+Hemolytic anemia, including cases of hemolysis in patients with G6PD deficiency, has been reported; a causal relationship to enalapril cannot be excluded.
 
 ### Liver Function Tests
 

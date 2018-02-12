@@ -8,7 +8,7 @@ Angiotensin II also stimulates aldosterone secretion by the adrenal cortex.
 The beneficial effects of enalapril in hypertension and heart failure appear to result primarily from suppression of the renin-angiotensin-aldosterone system.
 Inhibition of ACE results in decreased plasma angiotensin II, which leads to decreased vasopressor activity and to decreased aldosterone secretion.
 Although the latter decrease is small, it results in small increases of serum potassium.
-In hypertensive patients treated with enalapril alone for up to 48 weeks, mean increases in serum potassium of approximately 0.2 mEq/L were observed.
+In hypertensive patients treated with enalapril maleate alone for up to 48 weeks, mean increases in serum potassium of approximately 0.2 mEq/L were observed.
 In patients treated with enalapril maleate plus a thiazide diuretic, there was essentially no change in serum potassium (see PRECAUTIONS).
 Removal of angiotensin II negative feedback on renin secretion leads to increased plasma renin activity.
 
@@ -74,14 +74,14 @@ In this study there was no evidence of a blunting of the antihypertensive action
 In trials in patients treated with digitalis and diuretics, treatment with enalapril resulted in decreased systemic vascular resistance, blood pressure, pulmonary capillary wedge pressure and heart size, and increased cardiac output and exercise tolerance.
 Heart rate was unchanged or slightly reduced, and mean ejection fraction was unchanged or increased.
 There was a beneficial effect on severity of heart failure as measured by the New York Heart Association (NYHA) classification and on symptoms of dyspnea and fatigue.
-Hemodynamic effects were observed after the first dose, and appeared to be maintained in uncontrolled studies lasting as long as four months.
+Hemodynamic effects were observed after the first dose and appeared to be maintained in uncontrolled studies lasting as long as four months.
 Effects on exercise tolerance, heart size, and severity and symptoms of heart failure were observed in placebo-controlled studies lasting from eight weeks to over one year.
 
 ### Heart Failure, Mortality Trials
 
 In a multicenter, placebo-controlled clinical trial, 2,569 patients with all degrees of symptomatic heart failure and ejection fraction ≤35% were randomized to placebo or enalapril and followed for up to 55 months (SOLVD-Treatment).
 Use of enalapril was associated with an 11% reduction in all-cause mortality and a 30% reduction in hospitalization for heart failure.
-Diseases that excluded patients from enrollment in the study included severe stable angina (>2 attacks/day), hemodynamically significant valvular or outflow tract obstruction, renal failure (creatinine >2.5 mg/dL), cerebral vascular disease (e.g., significant carotid artery disease), advanced pulmonary disease, malignancies, active myocarditis and constrictive pericarditis.
+Diseases that excluded patients from enrollment in the study included severe stable angina (>2 attacks/day), hemodynamically significant valvular or outflow tract obstruction, renal failure (creatinine >2.5 mg/dL), cerebrovascular disease (e.g., significant carotid artery disease), advanced pulmonary disease, malignancies, active myocarditis and constrictive pericarditis.
 The mortality benefit associated with enalapril does not appear to depend upon digitalis being present.
 
 A second multicenter trial used the SOLVD protocol for study of asymptomatic or minimally symptomatic patients.
@@ -112,15 +112,15 @@ In both CONSENSUS and SOLVD-Treatment trials, patients were also usually receivi
 
 ## Clinical Pharmacology in Pediatric Patients
 
-A multiple dose pharmacokinetic study was conducted in 40 hypertensive male and female pediatric patients aged 2 months to ≤ 16 years following daily oral administration of 0.07 to 0.14 mg/kg enalapril maleate.
-At steady state, the mean effective half-life for accumulation of enalaprilat was 14 hours and the mean urinary recovery of total enalapril and enalaprilat in 24 hours was 68% of the administered dose.
+A multiple dose pharmacokinetic study was conducted in 40 hypertensive male and female pediatric patients aged 2 months to ≤16 years following daily oral administration of 0.07 to 0.14 mg/kg enalapril maleate.
+At steady state, the mean effective half-life for accumulation of enalaprilat was 14 hours, and the mean urinary recovery of total enalapril and enalaprilat in 24 hours was 68% of the administered dose.
 Conversion of enalapril to enalaprilat was in the range of 63 to 76%.
-The overall results of this study indicate that the pharmacokinetics of enalapril in hypertensive children aged 2 months to ≤ 16 years are consistent across the studied age groups and consistent with pharmacokinetic historic data in healthy adults.
+The overall results of this study indicate that the pharmacokinetics of enalapril in hypertensive children aged 2 months to ≤16 years are consistent across the studied age groups and consistent with pharmacokinetic historic data in healthy adults.
 
-In a clinical study involving 110 hypertensive pediatric patients 6 to 16 years of age, patients who weighed <50 kg received either 0.625, 2.5 or 20 mg of enalapril daily and patients who weighed ≥50 kg received either 1.25, 5 or 40 mg of enalapril daily.
-Enalapril administration once daily lowered trough blood pressure in a dose dependent manner.
-The dose dependent antihypertensive efficacy of enalapril was consistent across all subgroups (age, Tanner stage, gender, race).
+In a clinical study involving 110 hypertensive pediatric patients 6 to 16 years of age, patients who weighed <50 kg received either 0.625, 2.5 or 20 mg of enalapril daily and patients who weighed ≥50 kg received either 1.25, 5, or 40 mg of enalapril daily.
+Enalapril administered once daily lowered trough blood pressure in a dose-dependent manner.
+The dose-dependent antihypertensive efficacy of enalapril was consistent across all subgroups (age, Tanner stage, gender, race).
 However, the lowest doses studied, 0.625 mg and 1.25 mg, corresponding to an average of 0.02 mg/kg once daily, did not appear to offer consistent antihypertensive efficacy.
 In this study, enalapril maleate was generally well tolerated.
 
-In the above pediatric studies, enalapril maleate was given as tablets and for those children and infants who were unable to swallow tablets or who required a lower dose than is available in tablet form, enalapril was administered in a suspension formulation (see Preparation of Suspension under DOSAGEAND ADMINISTRATION).
+In the above pediatric studies, enalapril maleate was given as tablets of enalapril maleate and for those children and infants who were unable to swallow tablets or who required a lower dose than is available in tablet form, enalapril was administered in a suspension formulation (see DOSAGE AND ADMINISTRATION, Preparation of Suspension).
