@@ -1,21 +1,22 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Drug Interactions
-
-Caution should be given to prescribing EDURANT with drugs that may reduce the exposure of rilpivirine [see Contraindications (4), Drug Interactions (7), and Clinical Pharmacology (12.3)].
-
-In healthy subjects, supratherapeutic doses of rilpivirine (75 mg once daily and 300 mg once daily) have been shown to prolong the QTc interval of the electrocardiogram [see Drug Interactions (7) and Clinical Pharmacology (12.2)].
-EDURANT should be used with caution when co-administered with a drug with a known risk of Torsade de Pointes.
-
-## 5.2 Skin and Hypersensitivity Reactions
+## 5.1 Skin and Hypersensitivity Reactions
 
 Severe skin and hypersensitivity reactions have been reported during the postmarketing experience, including cases of Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), with rilpivirine-containing regimens.
 While some skin reactions were accompanied by constitutional symptoms such as fever, other skin reactions were associated with organ dysfunctions, including elevations in hepatic serum biochemistries.
 During the Phase 3 clinical trials, treatment-related rashes with at least Grade 2 severity were reported in 3% of subjects receiving EDURANT.
-No grade 4 rash was reported.
+No Grade 4 rash was reported.
 Overall, most rashes were Grade 1 or 2 and occurred in the first four to six weeks of therapy [see Adverse Reactions (6 and 6.2)].
 Discontinue EDURANT immediately if signs or symptoms of severe skin or hypersensitivity reactions develop, including but not limited to, severe rash or rash accompanied by fever, blisters, mucosal involvement, conjunctivitis, facial edema, angioedema, hepatitis or eosinophilia.
 Clinical status including laboratory parameters should be monitored and appropriate therapy should be initiated.
+
+## 5.2 Hepatotoxicity
+
+Hepatic adverse events have been reported in patients receiving a rilpivirine-containing regimen.
+Patients with underlying hepatitis B or C virus infection, or marked elevations in transaminases prior to treatment may be at increased risk for worsening or development of transaminase elevations with use of EDURANT.
+A few cases of hepatic toxicity have been reported in adult patients receiving a rilpivirine-containing regimen who had no pre-existing hepatic disease or other identifiable risk factors.
+Appropriate laboratory testing prior to initiating therapy and monitoring for hepatotoxicity during therapy with EDURANT is recommended in patients with underlying hepatic disease such as hepatitis B or C virus infection, or in patients with marked elevations in transaminases prior to treatment initiation.
+Liver enzyme monitoring should also be considered for patients without pre-existing hepatic dysfunction or other risk factors.
 
 ## 5.3 Depressive Disorders
 
@@ -34,13 +35,17 @@ The incidence of Grade 3 and 4 depressive disorders (regardless of causality) wa
 None of the subjects discontinued due to depressive disorders.
 Suicidal ideation and suicide attempt were reported in 1 subject.
 
-## 5.4 Hepatotoxicity
+## 5.4 Risk of Adverse Reactions or Loss of Virologic Response Due to Drug Interactions
 
-Hepatic adverse events have been reported in patients receiving a rilpivirine containing regimen.
-Patients with underlying hepatitis B or C, or marked elevations in transaminases prior to treatment may be at increased risk for worsening or development of transaminase elevations with use of EDURANT.
-A few cases of hepatic toxicity have been reported in adult patients receiving a rilpivirine containing regimen who had no pre-existing hepatic disease or other identifiable risk factors.
-Appropriate laboratory testing prior to initiating therapy and monitoring for hepatotoxicity during therapy with EDURANT is recommended in patients with underlying hepatic disease such as hepatitis B or C, or in patients with marked elevations in transaminases prior to treatment initiation.
-Liver enzyme monitoring should also be considered for patients without pre-existing hepatic dysfunction or other risk factors.
+The concomitant use of EDURANT and other drugs may result in potentially significant drug interactions, some of which may lead to [see Dosage and Administration (2.2), Contraindications (4), and Drug Interactions (7)]:
+
+- Loss of therapeutic effect of EDURANT and possible development of resistance.
+
+In healthy subjects, 75 mg once daily and 300 mg once daily (3 times and 12 times the dose in EDURANT) have been shown to prolong the QTc interval of the electrocardiogram.
+Consider alternatives to EDURANT when coadministered with a drug that is known to have a risk of torsade de pointes [see Drug Interactions (7) and Clinical Pharmacology (12.2)].
+
+See Table 5 for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations.
+Consider the potential for drug interactions prior to and during EDURANT therapy and review concomitant medications during EDURANT therapy.
 
 ## 5.5 Fat Redistribution
 
@@ -51,6 +56,6 @@ A causal relationship has not been established.
 ## 5.6 Immune Reconstitution Syndrome
 
 Immune reconstitution syndrome has been reported in patients treated with combination antiretroviral therapy, including EDURANT.
-During the initial phase of combination antiretroviral treatment, patients whose immune system responds may develop an inflammatory response to indolent or residual opportunistic infections (such as Mycobacterium avium infection, cytomegalovirus, Pneumocystis jiroveci pneumonia or tuberculosis), which may necessitate further evaluation and treatment.
+During the initial phase of combination antiretroviral treatment, patients whose immune system responds may develop an inflammatory response to indolent or residual opportunistic infections (such as Mycobacterium avium infection, cytomegalovirus, Pneumocystis jirovecii pneumonia or tuberculosis), which may necessitate further evaluation and treatment.
 
 Autoimmune disorders (such as Graves' disease, polymyositis, and Guillain-Barré syndrome) have also been reported to occur in the setting of immune reconstitution; however, the time to onset is more variable, and can occur many months after initiation of treatment.

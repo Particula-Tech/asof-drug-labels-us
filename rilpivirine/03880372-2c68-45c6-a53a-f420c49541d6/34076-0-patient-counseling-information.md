@@ -2,41 +2,51 @@
 
 Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
-A statement to patients and healthcare providers is included on the product's bottle label: ALERT: Find out about medicines that should NOT be taken with EDURANT from your healthcare provider.
-A Patient Package Insert for EDURANT is available for patient information.
+Severe Skin and Hypersensitivity Reactions
 
-Patients should be informed that EDURANT is not a cure for HIV infection.
-Patients must stay on continuous HIV therapy to control HIV infection and decrease HIV-related illnesses.
-Patients should be advised to continue to practice safer sex and to use latex or polyurethane condoms to lower the chance of sexual contact with any body fluids such as semen, vaginal secretions or blood.
-Patients should also be advised to never re-use or share needles.
-Patients should be told that sustained decreases in plasma HIV RNA have been associated with a reduced risk of progression to AIDS and death.
-Patients should remain under the care of a physician while using EDURANT.
+Advise patients to immediately contact their healthcare provider if they develop a rash.
+Instruct patients to immediately stop taking EDURANT and seek medical attention if they develop a rash associated with any of the following symptoms as it may be a sign of more serious reactions such as DRESS severe hypersensitivity: fever, blisters, mucosal involvement, eye inflammation (conjunctivitis), severe allergic reaction causing a swelling of the face, eyes, lips, mouth, tongue or throat, which may lead to difficulty swallowing or breathing, and any signs and symptoms of liver problems as it may be a sign of a more serious reaction.
+Advise patients that if severe rash occurs, they will be closely monitored, laboratory tests will be performed and appropriate therapy will be initiated [see Warnings and Precautions (5.1)].
 
-Female patients should be advised not to breastfeed because it is unknown if EDURANT can be passed to the baby in the breast milk and whether it could harm the baby.
-Also, mothers with HIV-1 should not breastfeed because HIV-1 can be passed to the baby in the breast milk.
+Hepatotoxicity
 
-Patients should be advised to take EDURANT with a meal once a day as prescribed.
-A protein drink alone does not replace a meal.
-EDURANT must always be used in combination with other antiretroviral drugs.
-Patients should not alter the dose of EDURANT or discontinue therapy with EDURANT without consulting their physician.
-If the patient misses a dose of EDURANT within 12 hours of the time it is usually taken, the patient should take EDURANT with a meal as soon as possible and then take the next dose of EDURANT at the regularly scheduled time.
-If a patient misses a dose of EDURANT by more than 12 hours, the patient should not take the missed dose, but resume the usual dosing schedule.
-Inform the patient that he or she should not take more or less than the prescribed dose of EDURANT at any one time.
+Inform patients that hepatotoxicity has been reported with EDURANT.
+Inform patients that laboratory monitoring for hepatotoxicity during therapy with EDURANT is recommended, especially for patients with underlying liver disease such as hepatitis B or C virus infection [see Warnings and Precautions (5.2)].
 
-EDURANT may interact with many drugs; therefore, patients should be advised to report to their healthcare provider the use of any other prescription or nonprescription medication or herbal products, including St. John's wort.
+Depressive Disorders
 
-EDURANT should not be co-administered with the following drugs, as significant decreases in rilpivirine plasma concentrations may occur due to CYP3A enzyme induction or gastric pH increase, which may result in loss of virologic response and possible resistance to EDURANT or to the class of NNRTIs: the anticonvulsants carbamazepine, oxcarbazepine, phenobarbital, phenytoin; the antimycobacterials rifampin, rifapentine; proton pump inhibitors, such as esomeprazole, lansoprazole, omeprazole, pantoprazole, rabeprazole; the glucocorticoid systemic dexamethasone (more than a single dose); or St. John's wort (Hypericum perforatum).
+Inform patients that depressive disorders (depressed mood, depression, dysphoria, major depression, mood altered, negative thoughts, suicide attempt, suicidal ideation) have been reported with EDURANT.
+Advise patients to seek immediate medical evaluation if they experience depressive symptoms [see Warnings and Precautions (5.3)].
+
+Drug Interactions
+
+EDURANT may interact with many drugs; therefore, advise patients to report to their healthcare provider the use of any other prescription or nonprescription medication or herbal products, including St. John's wort [see Contraindications (4), Warnings and Precautions (5.4), and Drug Interactions (7)].
 
 For patients concomitantly receiving rifabutin, the EDURANT dose should be increased to 50 mg once daily, taken with a meal.
-When rifabutin co-administration is stopped, the EDURANT dose should be decreased to 25 mg once daily, taken with a meal.
+When rifabutin coadministration is stopped, the EDURANT dose should be decreased to 25 mg once daily, taken with a meal [see Dosage and Administration (2.2)].
 
-Patients should be informed that skin reactions ranging from mild to severe, including Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) have been reported with rilpivirine-containing regimens.
-Instruct patients to immediately stop taking EDURANT tablets and seek medical attention if they develop a rash associated with any of the following symptoms: fever, blisters, mucosal involvement, eye inflammation (conjunctivitis), severe allergic reaction causing a swelling of the face, eyes, lips, mouth, tongue or throat, which may lead to difficulty swallowing or breathing, and any signs and symptoms of liver problems as it may be a sign of a more serious reaction.
-Patients should understand that if severe rash occurs, they will be closely monitored, laboratory tests will be performed and appropriate therapy will be initiated.
+Fat Redistribution
 
-Patients should be informed that depressive disorders (depressed mood, depression, dysphoria, major depression, mood altered, negative thoughts, suicide attempt, suicidal ideation) have been reported with EDURANT.
-If they experience depressive symptoms, they should seek immediate medical evaluation.
+Inform patients that redistribution or accumulation of body fat may occur in patients receiving antiretroviral therapy, including EDURANT, and that the cause and long-term health effects of these conditions are not known at this time [see Warnings and Precautions (5.5)].
 
-Patients should be informed that hepatotoxicity has been reported with EDURANT.
+Immune Reconstitution Syndrome
 
-Patients should also be informed that redistribution or accumulation of body fat may occur in patients receiving antiretroviral therapy, including EDURANT, and that the cause and long-term health effects of these conditions are not known at this time.
+Advise patients to inform their healthcare provider immediately of any signs or symptoms of infection as inflammation from previous infection may occur soon after combination antiretroviral therapy, including when EDURANT is started [see Warnings and Precautions (5.6)].
+
+Administration Instruction
+
+Advise patients to take EDURANT with a meal once a day as prescribed.
+A protein drink alone does not replace a meal.
+EDURANT must always be used in combination with other antiretroviral drugs.
+Advise patients not to alter the dose of EDURANT or discontinue therapy with EDURANT without consulting their physician.
+If the patient misses a dose of EDURANT within 12 hours of the time it is usually taken, advise the patient to take EDURANT with a meal as soon as possible and then take the next dose of EDURANT at the regularly scheduled time.
+If a patient misses a dose of EDURANT by more than 12 hours, advise the patient to not take the missed dose, but resume the usual dosing schedule.
+Inform the patient that he or she should not take more or less than the prescribed dose of EDURANT at any one time.
+
+Pregnancy Registry
+
+Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to EDURANT during pregnancy [see Use in Specific Populations (8.1)].
+
+Lactation
+
+Instruct women with HIV-1 infection not to breastfeed because HIV-1 can be passed to the baby in the breast milk [see Use in Specific Populations (8.2)].

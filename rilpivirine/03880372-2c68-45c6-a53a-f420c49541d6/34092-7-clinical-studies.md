@@ -3,17 +3,17 @@
 ## 14.1 Treatment-Naïve Adult Subjects
 
 The evidence of efficacy of EDURANT is based on the analyses of 48- and 96-week data from 2 randomized, double-blinded, active controlled, Phase 3 trials TMC278-C209 (ECHO) and TMC278-C215 (THRIVE) in antiretroviral treatment-naïve adults.
-Antiretroviral treatment-naïve HIV-1 infected subjects enrolled in the Phase 3 trials had a plasma HIV-1 RNA ≥ 5000 copies/mL and were screened for susceptibility to N(t)RTIs and for absence of specific NNRTI RAMs.
-The Phase 3 trials were identical in design, with the exception of the background regimen (BR).
+Antiretroviral treatment-naïve HIV-1 infected subjects enrolled in the Phase 3 trials had a plasma HIV-1 RNA ≥ 5000 copies/mL and were screened for susceptibility to N(t)RTIs and for absence of specific NNRTI resistance-associated substitutions (RASs).
+The Phase 3 trials were identical in design, apart from the background regimen (BR).
 In TMC278-C209, the BR was fixed to the N(t)RTIs, tenofovir disoproxil fumarate plus emtricitabine.
 In TMC278-C215, the BR consisted of 2 investigator-selected N(t)RTIs: tenofovir disoproxil fumarate plus emtricitabine or zidovudine plus lamivudine or abacavir plus lamivudine.
 In both trials, randomization was stratified by screening viral load.
 In TMC278-C215, randomization was also stratified by N(t)RTI BR.
 
 In the pooled analysis for TMC278-C209 and TMC278-C215, demographics and baseline characteristics were balanced between the EDURANT arm and the efavirenz arm.
-Table 10 displays selected demographic and baseline disease characteristics of the subjects in the EDURANT and efavirenz arms.
+Table 12 displays selected demographic and baseline disease characteristics of the subjects in the EDURANT and efavirenz arms.
 
-Table 10: Demographic and Baseline Disease Characteristics of Antiretroviral Treatment-Naïve HIV-1-Infected Adult Subjects in the TMC278-C209 and TMC278-C215 Trials (Pooled Analysis)
+Table 12: Demographic and Baseline Disease Characteristics of Antiretroviral Treatment-Naïve HIV-1-Infected Adult Subjects in the TMC278-C209 and TMC278-C215 Trials (Pooled Analysis)
 
 |  | EDURANT + BR N=686 | Efavirenz + BR N=682 |
 | --- | --- | --- |
@@ -38,17 +38,18 @@ Table 10: Demographic and Baseline Disease Characteristics of Antiretroviral Tre
 | Median Baseline CD4+ Cell Count (range), cells/mm3 | 249 (1–888) | 260 (1–1137) |
 | Percentage of Subjects with: |  |  |
 | Hepatitis B/C Virus Co-infection | 7% | 10% |
-| Percentage of Patients with the following background regimens: |  |  |
+| Percentage of Patients with the Following Background Regimens: |  |  |
 | tenofovir disoproxil fumarate plus emtricitabine | 80% | 80% |
 | zidovudine plus lamivudine | 15% | 15% |
 | abacavir plus lamivudine | 5% | 5% |
 | BR=background regimen |  |  |
 
-Week 96 efficacy outcomes for subjects treated with EDURANT 25 mg once daily from the pooled analysis are shown in Table 11.
+Week 96 efficacy outcomes for subjects treated with EDURANT 25 mg once daily from the pooled analysis are shown in Table 13.
 The incidence of virologic failure was higher in the EDURANT arm than the efavirenz arm at Week 96.
 Virologic failures and discontinuations due to adverse events mostly occurred in the first 48 weeks of treatment.
+Regardless of HIV-1 RNA at the start of therapy, more EDURANT treated subjects with CD4+ cell count less than 200 cells/mm3 experienced virologic failure compared to EDURANT treated subjects with CD4+ cell count greater than or equal to 200 cells/mm3.
 
-Table 11: Virologic Outcome of Randomized Treatment of Studies TMC278-C209 and TMC278-C215 (Pooled Data) at Week 96
+Table 13: Virologic Outcome of Randomized Treatment of Studies TMC278-C209 and TMC278-C215 (Pooled Data) at Week 96
 
 |  | EDURANT + BR N=686 | Efavirenz + BR N=682 |
 | --- | --- | --- |
@@ -80,7 +81,7 @@ After Week 96, subjects randomized to one of the 3 doses of EDURANT were switche
 Subjects in the control arm received efavirenz 600 mg once daily in addition to a BR in both parts of the study.
 The BR consisted of 2 investigator-selected N(t)RTIs: zidovudine plus lamivudine or tenofovir disoproxil fumarate plus emtricitabine.
 
-Study TMC278-C204 enrolled 368 HIV-1-infected treatment-naïve adult subjects who had a plasma HIV-1 RNA ≥ 5000 copies/ml, previously received ≤ 2 weeks of treatment with an N(t)RTI or protease inhibitor, had no prior use of NNRTIs, and were screened for susceptibility to N(t)RTI and for absence of specific NNRTI RAMs.
+Study TMC278-C204 enrolled 368 HIV-1-infected treatment-naïve adult subjects who had a plasma HIV-1 RNA ≥ 5000 copies/ml, previously received ≤ 2 weeks of treatment with an N(t)RTI or protease inhibitor, had no prior use of NNRTIs, and were screened for susceptibility to N(t)RTI and for absence of specific NNRTI RASs.
 
 At 96 weeks, the proportion of subjects with <50 HIV-1 RNA copies/ml receiving EDURANT 25 mg (N = 93) compared to subjects receiving efavirenz (N = 89) was 76% and 71%, respectively.
 The mean increase from baseline in CD4+ counts was 146 cells/mm3 in subjects receiving EDURANT 25 mg and 160 cells/mm3 in subjects receiving efavirenz.

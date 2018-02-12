@@ -1,14 +1,16 @@
 # 6 ADVERSE REACTIONS
 
-The following adverse drug reactions (ADRs) are discussed in greater detail in other sections of the package insert:
+The following adverse reactions are discussed below and in other sections of the labeling:
 
-- Skin and Hypersensitivity Reactions [see Warnings and Precautions (5.2)]
+- Skin and Hypersensitivity Reactions [see Warnings and Precautions (5.1)]
+- Hepatotoxicity [see Warnings and Precautions (5.2)]
 - Depressive Disorders [see Warnings and Precautions (5.3)]
-- Hepatotoxicity [see Warnings and Precautions (5.4)]
 
-## 6.1 Clinical Trials Experience: Adults
+## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+Clinical Trials Experience in Adults
 
 The safety assessment is based on the Week 96 pooled data from 1368 patients in the Phase 3 controlled trials TMC278-C209 (ECHO) and TMC278-C215 (THRIVE) in antiretroviral treatment-naïve HIV-1 infected adult patients, 686 of whom received EDURANT (25 mg once daily) [see Clinical Studies (14.1)].
 The median duration of exposure for patients in the EDURANT arm and efavirenz arm was 104.3 and 104.1 weeks, respectively.
@@ -19,10 +21,10 @@ Rash led to discontinuation in 1 (0.1%) subject in the EDURANT arm and 10 (1.5%)
 
 Common Adverse Drug Reactions
 
-ADRs of at least moderate intensity (≥ Grade 2) reported in at least 2% of adult subjects are presented in Table 1.
-Selected treatment-emergent laboratory abnormalities are included in Table 2.
+ADRs of at least moderate intensity (≥ Grade 2) reported in at least 2% of adult subjects are presented in Table 2.
+Selected laboratory abnormalities are included in Table 3.
 
-Table 1: Selected Treatment-Emergent Adverse Drug Reactions of at least Moderate IntensityIntensities are defined as follows: Moderate (discomfort enough to cause interference with usual activity); Severe (incapacitating with inability to work or do usual activity).
+Table 2: Selected Adverse Drug Reactions of at least Moderate IntensityIntensities are defined as follows: Moderate (discomfort enough to cause interference with usual activity); Severe (incapacitating with inability to work or do usual activity).
 (Grades 2–4) Occurring in at Least 2% of Antiretroviral Treatment-Naïve HIV-1 Infected Adult Subjects (Week 96 Analysis)
 
 | EDURANT + BR N=686 | Efavirenz + BR N=682 |  |
@@ -50,7 +52,7 @@ The incidence of adverse events in the Phase 2b TMC278-C204 trial was similar to
 
 Less Common Adverse Drug Reactions
 
-Treatment-emergent ADRs of at least moderate intensity (≥ Grade 2) occurring in less than 2% of antiretroviral treatment-naïve subjects receiving EDURANT are listed below by System Organ Class.
+ADRs of at least moderate intensity (≥ Grade 2) occurring in less than 2% of antiretroviral treatment-naïve subjects receiving EDURANT are listed below by System Organ Class.
 Some adverse events have been included because of investigator's assessment of potential causal relationship and were considered serious or have been reported in more than 1 subject treated with EDURANT.
 
 Gastrointestinal Disorders: diarrhea, abdominal discomfort
@@ -67,9 +69,9 @@ Renal and Urinary Disorders: glomerulonephritis membranous, glomerulonephritis m
 
 Laboratory Abnormalities in Treatment-Naïve Subjects
 
-The percentage of subjects treated with EDURANT or efavirenz in the Phase 3 trials with selected treatment-emergent clinical laboratory abnormalities (Grades 1 to 4), representing worst Grade toxicity are shown in Table 2.
+The percentage of subjects treated with EDURANT or efavirenz in the Phase 3 trials with selected laboratory abnormalities (Grades 1 to 4), representing worst Grade toxicity are shown in Table 3.
 
-Table 2: Selected Treatment-Emergent Changes in Laboratory Parameters (Grades 1 to 4) Observed in Antiretroviral Treatment-Naïve HIV-1-Infected Adult Subjects (Week 96 Analysis)
+Table 3: Selected Changes in Laboratory Parameters (Grades 1 to 4) Observed in Antiretroviral Treatment-Naïve HIV-1-Infected Adult Subjects (Week 96 Analysis)
 
 | BIOCHEMISTRY |  |  |  |
 | --- | --- | --- | --- |
@@ -130,10 +132,10 @@ Serum creatinine increases occurred regardless of the background N(t)RTI regimen
 
 Serum Lipids
 
-Changes from baseline in total cholesterol, LDL-cholesterol, HDL-cholesterol and triglycerides are presented in Table 3.
+Changes from baseline in total cholesterol, LDL-cholesterol, HDL-cholesterol and triglycerides are presented in Table 4.
 The clinical benefit of these findings has not been demonstrated.
 
-Table 3: Lipid Values, Mean Change from BaselineExcludes subjects who received lipid lowering agents during the treatment period
+Table 4: Lipid Values, Mean Change from BaselineExcludes subjects who received lipid lowering agents during the treatment period
 
 | Mean (95% CI) |  | Mean (mg/dL) | Mean (mg/dL) | Mean ChangeThe change from baseline is the mean of within-patient changes from baseline for patients with both baseline and Week 96 values (mg/dL) |  | Mean (mg/dL) | Mean (mg/dL) | Mean Change (mg/dL) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -152,7 +154,7 @@ In subjects co-infected with hepatitis B or C virus receiving EDURANT, the incid
 This observation was the same in the efavirenz arm.
 The pharmacokinetic exposure of rilpivirine in co-infected subjects was comparable to that in subjects without co-infection.
 
-## 6.2 Clinical Trials Experience: Pediatric Patients
+Clinical Trials Experience in Pediatric Patients
 
 The safety assessment is based on the Week 48 analysis of the single-arm, open-label, Phase 2 trial, TMC278-C213, in which 36 antiretroviral treatment-naïve HIV-1 infected patients 12 to less than 18 years of age and weighing at least 32 kg received EDURANT (25 mg once daily) in combination with other antiretroviral agents [see Clinical Studies (14.2)].
 The median duration of exposure was 63.5 weeks.
@@ -174,7 +176,7 @@ Three of these subjects had an abnormal 250 micrograms ACTH stimulation test at 
 Overall, there were no serious adverse events, deaths, or treatment discontinuations that could clearly be attributed to adrenal insufficiency.
 The clinical significance of the abnormal 250 micrograms ACTH stimulation tests is not known.
 
-## 6.3 Postmarketing Experience
+## 6.2 Postmarketing Experience
 
 Adverse reactions have been identified during postmarketing experience in patients receiving a rilpivirine containing regimen.
 Because these reactions are reported voluntarily from a population of unknown size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
