@@ -2,23 +2,28 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects: Pregnancy Category C. There are no adequate and well-controlled studies in pregnant women.
-SPIRIVA HANDIHALER should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Risk Summary The limited human data with SPIRIVA HANDIHALER use during pregnancy are insufficient to inform a drug-associated risk of adverse pregnancy-related outcomes.
+Based on animal reproduction studies, no structural abnormalities were observed when tiotropium was administered by inhalation to pregnant rats and rabbits during the period of organogenesis at doses 790 and 8 times, respectively, the maximum recommended human daily inhalation dose (MRHDID).
+Increased post-implantation loss was observed in rats and rabbits administered tiotropium at maternally toxic doses 430 times and 40 times the MRHDID, respectively [see Data].
 
-No evidence of structural alterations was observed in rats and rabbits at approximately 790 and 8 times the maximum recommended human daily inhalation dose (MRHDID), respectively (on a mcg/m2 basis at maternal inhalation doses of 1471 and 7 mcg/kg/day in rats and rabbits, respectively).
-However, in rats, tiotropium caused fetal resorption, litter loss, decreases in the number of live pups at birth and the mean pup weights, and a delay in pup sexual maturation at inhalation tiotropium doses of approximately 40 times the MRHDID (on a mcg/m2 basis at a maternal inhalation dose of 78 mcg/kg/day).
-In rabbits, tiotropium caused an increase in post-implantation loss at an inhalation dose of approximately 430 times the MRHDID (on a mcg/m2 basis at a maternal inhalation dose of 400 mcg/kg/day).
-Such effects were not observed at inhalation doses of approximately 5 and 95 times the MRHDID, respectively (on a mcg/m2 basis at inhalation doses of 9 and 88 mcg/kg/day in rats and rabbits, respectively).
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
-## 8.2 Labor and Delivery
+Data Animal Data In 2 separate embryo-fetal development studies, pregnant rats and rabbits received tiotropium during the period of organogenesis at doses up to approximately 790 and 8 times the MRHDID, respectively (on a mcg/m2 basis at inhalation doses of 1471 and 7 mcg/kg/day in rats and rabbits, respectively).
+No evidence of structural abnormalities was observed in rats or rabbits.
+However, in rats, tiotropium caused fetal resorption, litter loss, decreases in the number of live pups at birth and the mean pup weights, and a delay in pup sexual maturation at tiotropium doses of approximately 40 times the MRHDID (on a mcg/m2 basis at a maternal inhalation dose of 78 mcg/kg/day).
+In rabbits, tiotropium caused an increase in post-implantation loss at a tiotropium dose of approximately 430 times the MRHDID (on a mcg/m2 basis at a maternal inhalation dose of 400 mcg/kg/day).
+Such effects were not observed at approximately 5 and 95 times the MRHDID, respectively (on a mcg/m2 basis at inhalation doses of 9 and 88 mcg/kg/day in rats and rabbits, respectively).
 
-The safety and effectiveness of SPIRIVA HANDIHALER has not been studied during labor and delivery.
+## 8.2 Lactation
 
-## 8.3 Nursing Mothers
+Risk Summary There are no data on the presence of tiotropium in human milk, the effects on the breastfed infant, or the effects on milk production.
+Tiotropium is present in milk of lactating rats; however, due to species-specific differences in lactation physiology, the clinical relevance of these data are not clear [see Data].
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for SPIRIVA HANDIHALER and any potential adverse effects on the breastfed child from SPIRIVA HANDIHALER or from the underlying maternal condition.
 
-Clinical data from nursing women exposed to tiotropium are not available.
-Based on lactating rodent studies, tiotropium is excreted into breast milk.
-It is not known whether tiotropium is excreted in human milk, but because many drugs are excreted in human milk and given these findings in rats, caution should be exercised if SPIRIVA HANDIHALER is administered to a nursing woman.
+Data The distribution of tiotropium bromide into milk was investigated after a single intravenous administration of 10 mg/kg to lactating rats.
+Tiotropium and/or its metabolites are present in the milk of lactating rats at concentrations above those in plasma.
 
 ## 8.4 Pediatric Use
 

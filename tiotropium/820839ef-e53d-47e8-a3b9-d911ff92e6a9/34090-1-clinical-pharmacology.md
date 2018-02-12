@@ -51,13 +51,13 @@ Thus, CYP450 2D6 and 3A4 are involved in the metabolic pathway that is responsib
 In vitro studies using human liver microsomes showed that tiotropium in supra-therapeutic concentrations did not inhibit CYP450 1A1, 1A2, 2B6, 2C9, 2C19, 2D6, 2E1, or 3A4.
 
 Excretion Intravenously administered tiotropium bromide is mainly excreted unchanged in urine (74%).
-After dry powder inhalation to COPD patients at steady state, urinary excretion was 7% (1.3 µg) of the unchanged dose over 24 hours.
+After dry powder inhalation to COPD patients at steady state, urinary excretion was 7% (1.3 mcg) of the unchanged dose over 24 hours.
 The renal clearance of tiotropium exceeds the creatinine clearance, indicating secretion into the urine.
 
 Specific Populations Geriatric Patients As expected for all predominantly renally excreted drugs, advancing age was associated with a decrease of tiotropium renal clearance (365 mL/min in COPD patients <65 years to 271 mL/min in COPD patients ≥65 years).
 This did not result in a corresponding increase in AUC0-6,ss and Cmax,ss values following administration via HANDIHALER device.
 
-Renal Impairment Following 4-week SPIRIVA HANDIHALER or SPIRIVA RESPIMAT once daily dosing in patients with COPD, mild renal impairment (creatinine clearance 60-90 mL/min) resulted in 6-23% higher AUC0-6,ss and 6-17% higher Cmax,ss values; moderate renal impairment (creatinine clearance 30-60 mL/min) resulted in 54-57% higher AUC0-6,ss and 15-31% higher Cmax,ss values compared to COPD patients with normal renal function (creatinine clearance >90 mL/min).
+Renal Impairment Following 4-week SPIRIVA HANDIHALER or SPIRIVA RESPIMAT once daily dosing in patients with COPD, mild renal impairment (creatinine clearance 60-<90 mL/min) resulted in 6-23% higher AUC0-6,ss and 6-17% higher Cmax,ss values; moderate renal impairment (creatinine clearance 30-<60 mL/min) resulted in 54-57% higher AUC0-6,ss and 15-31% higher Cmax,ss values compared to COPD patients with normal renal function (creatinine clearance ≥90 mL/min).
 There is insufficient data for tiotropium exposure in patients with severe renal impairment (creatinine clearance <30 mL/min) following inhalation of SPIRIVA HANDIHALER or SPIRIVA RESPIMAT.
 However AUC0-4 and Cmax were 94% and 52% higher, respectively, in patients with severe renal impairment following intravenous infusion of tiotropium bromide.
 

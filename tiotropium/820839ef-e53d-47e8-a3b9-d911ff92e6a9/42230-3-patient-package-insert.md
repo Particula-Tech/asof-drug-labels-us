@@ -153,7 +153,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 How do I store SPIRIVA HANDIHALER?
 
 - Do not store SPIRIVA capsules in the HANDIHALER device.
-- Store SPIRIVA capsules in the sealed blister package at room temperature between 68°F to 77°F (20°C to 25°C).
+- Store SPIRIVA capsules in the sealed blister package at room temperature 68°F to 77°F (20°C to 25°C).
 - Keep SPIRIVA capsules away from heat and cold (do not freeze).
 - Store SPIRIVA capsules in a dry place.
   Throw away any unused SPIRIVA capsules that have been open to air.
@@ -192,13 +192,11 @@ Licensed from: Boehringer Ingelheim International GmbH
 
 SPIRIVA® and HANDIHALER® are registered trademarks and are used under license from Boehringer Ingelheim International GmbH.
 
-Copyright © 2016 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+Copyright © 2018 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-Revised: January 2016
+Revised: February 2018
 
-IT1600AGA72016 10004551/13
-
-IT5300J 75740-09
+IT5300LA312018
 
 Instructions for Use
 
@@ -261,10 +259,8 @@ Licensed from: Boehringer Ingelheim International GmbH
 
 SPIRIVA® and HANDIHALER® are registered trademarks and are used under license from Boehringer Ingelheim International GmbH.
 
-Copyright © 2016 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+Copyright © 2018 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-Revised: January 2016
+Revised: February 2018
 
-IT1600AGA72016 10004551/13
-
-IT5300J 75740-09
+IT5300LA312018

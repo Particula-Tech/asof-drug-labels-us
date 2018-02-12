@@ -2,6 +2,11 @@
 
 Advise the patient to read the FDA-approved patient labeling (Patient Information and Instructions for Use).
 
+Not for Acute Use: Instruct patients that SPIRIVA HANDIHALER is a once-daily maintenance bronchodilator and should not be used for immediate relief of breathing problems (i.e., as a rescue medication).
+
+Immediate Hypersensitivity Reactions: Inform patients that anaphylaxis, angioedema (including swelling of the lips, tongue, or throat), urticaria, rash, bronchospasm, or itching, may occur after administration of SPIRIVA HANDIHALER.
+Advise patient to immediately discontinue treatment and consult a physician should any of these signs or symptoms develop.
+
 Paradoxical Bronchospasm: Inform patients that SPIRIVA HANDIHALER can produce paradoxical bronchospasm.
 Advise patients that if paradoxical bronchospasm occurs, patients should discontinue SPIRIVA HANDIHALER.
 
@@ -14,8 +19,6 @@ Since dizziness and blurred vision may occur with the use of SPIRIVA HANDIHALER,
 
 Worsening of Urinary Retention: Instruct patients to be alert for signs and symptoms of urinary retention (e.g., difficulty passing urine, painful urination).
 Instruct patients to consult a physician immediately should any of these signs or symptoms develop.
-
-Not for Acute Use: Instruct patients that SPIRIVA HANDIHALER is a once-daily maintenance bronchodilator and should not be used for immediate relief of breathing problems (i.e., as a rescue medication).
 
 Instructions for Administering SPIRIVA HANDIHALER:
 
@@ -32,8 +35,6 @@ Address medical inquiries to: (800) 542-6257 or (800) 459-9906 TTY.
 
 SPIRIVA® and HANDIHALER® are registered trademarks and are used under license from Boehringer Ingelheim International GmbH.
 
-Copyright © 2016 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+Copyright © 2018 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-IT1600AGA72016 10004551/13
-
-IT5300J 75740-09
+IT5300LA312018
