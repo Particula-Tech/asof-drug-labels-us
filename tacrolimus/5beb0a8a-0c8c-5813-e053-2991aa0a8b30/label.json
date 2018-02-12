@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA206406"
+  ],
+  "inn": "tacrolimus",
+  "labeler": "Carton Service, Incorporated",
+  "package_ndcs": [
+    "75929-010-10",
+    "75929-010-30",
+    "75929-040-10",
+    "75929-040-30",
+    "75929-075-10",
+    "75929-075-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "tacrolimus",
+      "name": "Envarsus"
+    }
+  ],
+  "setid": "5beb0a8a-0c8c-5813-e053-2991aa0a8b30",
+  "source": "dailymed"
+}
