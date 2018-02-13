@@ -184,4 +184,4 @@ Inactive ingredients: sucrose; sodium phosphate, tribasic, anhydrous; hydroxypro
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-LAB-0372-5.0 February 2017
+LAB-0372-5.0 Revised February 2017

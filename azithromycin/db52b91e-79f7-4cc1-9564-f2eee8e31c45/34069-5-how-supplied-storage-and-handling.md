@@ -2,23 +2,17 @@
 
 ZITHROMAX is supplied in the following strengths and package configurations:
 
-ZITHROMAX 250 mg tablets are supplied as pink modified capsular shaped, engraved, film-coated tablets containing azithromycin dihydrate equivalent to 250 mg of azithromycin.
-ZITHROMAX 250 mg tablets are engraved with "PFIZER" on one side and "306" on the other.
-These are packaged in bottles and blister cards of 6 tablets (Z-PAKS®) as follows:
-
-| Bottles of 30 | NDC 0069-3060-30 |
-| --- | --- |
-| Boxes of 3 (Z-PAKS® of 6) | NDC 0069-3060-75 |
-| Unit Dose package of 50 | NDC 0069-3060-86 |
-
-ZITHROMAX 500 mg tablets are supplied as pink modified capsular shaped, engraved, film-coated tablets containing azithromycin dihydrate equivalent to 500 mg of azithromycin.
-ZITHROMAX 500 mg tablets are engraved with "Pfizer" on one side and "ZTM500" on the other.
-These are packaged in bottles and blister cards of 3 tablets (TRI-PAKS™) as follows:
-
-| Bottles of 30 | NDC 0069-3070-30 |
-| --- | --- |
-| Boxes of 3 (TRI-PAKS™ of 3 tablets) | NDC 0069-3070-75 |
-| Unit Dose package of 50 | NDC 0069-3070-86 |
+| Tablet strength | Tablet Color/Shape | Tablet Markings | Package Size | NDC Code |
+| --- | --- | --- | --- | --- |
+| 250 mg (containing azithromycin dihydrate equivalent to 250 mg of azithromycin) | Pink modified capsular shaped, engraved, film-coated | Engraved with "PFIZER" on one side and "306" on the other | Bottles of 30 | NDC 0069-3060-30 |
+| Boxes of 3 (Z-PAKS® of 6) | NDC 0069-3060-75 |  |  |  |
+| Unit Dose package of 50 | NDC 0069-3060-86 |  |  |  |
+| Engraved with "PFIZER" on one side and "ZTM 250" on the other | Bottles of 30 | NDC 0069-4061-01 |  |  |
+| Boxes of 3 (Z-PAKS® of 6) | NDC 0069-4061-75 |  |  |  |
+| Unit Dose package of 50 | NDC 0069-4061-89 |  |  |  |
+| 500 mg (containing azithromycin dihydrate equivalent to 500 mg of azithromycin) | Pink modified capsular shaped, engraved, film coated | Engraved with "Pfizer" on one side and "ZTM500" on the other | Bottles of 30 | NDC 0069-3070-30 |
+| Boxes of 3 (TRI-PAKS™ of 3 tablets) | NDC 0069-3070-75 |  |  |  |
+| Unit Dose package of 50 | NDC 0069-3070-86 |  |  |  |
 
 ZITHROMAX tablets should be stored between 15° to 30°C (59° to 86°F).
 
