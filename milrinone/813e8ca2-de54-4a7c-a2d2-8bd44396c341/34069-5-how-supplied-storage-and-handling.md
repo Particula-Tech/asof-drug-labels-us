@@ -23,8 +23,6 @@ LEA-019490-00
 
 Manufactured for: Hospira Inc. Lake Forest, IL 60045, USA
 
-Made in India
+LAB-1255-1.0
 
-103/AP/RR/97/F/R All rights reserved.
-
-Revised: 2/2014 EN-3177
+Revised: 01/2018

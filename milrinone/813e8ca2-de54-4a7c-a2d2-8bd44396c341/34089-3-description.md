@@ -3,8 +3,7 @@
 Milrinone Lactate Injection, is a member of a new class of bipyridine inotropic/vasodilator agents with phosphodiesterase inhibitor activity, distinct from digitalis glycosides or catecholamines.
 Milrinone lactate is designated chemically as 1,6-Dihydro-2-methyl-6-oxo[3,4'-bipyridine]-5-carbonitrile lactate and has the following structural formula:
 
-Milrinone is an off-white to tan crystalline compound with a molecular weight of 211.2 and a molecular formula of C12H9N3O.
-It is slightly soluble in methanol, and very slightly soluble in chloroform and in water.
+Milrinone is an off-white to tan crystalline compound with a molecular weight of 211.2 and a molecular formula of C 12 H 9 N 3 O. It is slightly soluble in methanol, and very slightly soluble in chloroform and in water.
 As the lactate salt, it is stable and colorless to pale yellow in solution.
 Milrinone lactate injection is available as a sterile aqueous solution of the lactate salt of milrinone for injection or infusion intravenously.
 

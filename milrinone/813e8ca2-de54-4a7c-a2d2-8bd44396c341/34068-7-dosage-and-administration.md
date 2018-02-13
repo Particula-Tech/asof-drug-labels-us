@@ -18,7 +18,7 @@ The loading dose may be given undiluted, but diluting to a rounded total volume 
 
 | MAINTENANCE DOSE |  |  |  |
 | --- | --- | --- | --- |
-|  | Infusion Rate | Total Daily Dose(24 hours) |  |
+|  | Infusion Rate | Total Daily Dose (24 hours) |  |
 | Minimum | 0.375 mcg/kg/min | 0.59 mg/kg | Administer as a continuous intravenous infusion. |
 | Standard | 0.5 mcg/kg/min | 0.77 mg/kg |  |
 | Maximum | 0.75 mcg/kg/min | 1.13 mg/kg |  |
@@ -36,7 +36,7 @@ The infusion rate should be adjusted according to hemodynamic and clinical respo
 Patients should be closely monitored.
 In controlled clinical studies, most patients showed an improvement in hemodynamic status as evidenced by increases in cardiac output and reductions in pulmonary capillary wedge pressure.
 
-Note: See "Dosage Adjustment in Renally Impaired Patients."
+Note: See " Dosage Adjustment in Renally Impaired Patients."
 Dosage may be titrated to the maximum hemodynamic effect and should not exceed 1.13 mg/kg/day.
 Duration of therapy should depend upon patient responsiveness.
 
@@ -63,7 +63,7 @@ For patients with clinical evidence of renal impairment, the recommended infusio
 
 Creatinine Clearance Infusion Rate
 
-| Creatinine Clearance(mL/min/1.73 m2) | Infusion Rate(mcg/kg/min) |
+| Creatinine Clearance (mL/min/1.73 m 2) | Infusion Rate(mcg/kg/min) |
 | --- | --- |
 | 5 | 0.2 |
 | 10 | 0.23 |
