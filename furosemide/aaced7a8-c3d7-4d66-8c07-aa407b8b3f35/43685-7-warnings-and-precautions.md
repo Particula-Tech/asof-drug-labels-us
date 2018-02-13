@@ -88,7 +88,7 @@ In addition, nephrotoxicity of nephrotoxic drugs such as cisplatin may be enhanc
 
 Furosemide has a tendency to antagonize the skeletal muscle relaxing effect of tubocurarine and may potentiate the action of succinylcholine.
 
-Lithium generally should not be given with diuretics because they reduce lithium’s renal clearance and add a high risk of lithium toxicity.
+Lithium generally should not be given with diuretics because they reduce lithium's renal clearance and add a high risk of lithium toxicity.
 
 Furosemide combined with angiotensin converting enzyme inhibitors or angiotensin II receptor blockers may lead to severe hypotension and deterioration in renal function, including renal failure.
 An interruption or reduction in the dosage of furosemide, angiotensin converting enzyme inhibitors, or angiotensin receptor blockers may be necessary.
@@ -142,8 +142,6 @@ Furosemide produced no impairment of fertility in male or female rats, at 100 mg
 ## Pregnancy
 
 Teratogenic Effects
-
-Pregnancy Category C
 
 Furosemide has been shown to cause unexplained maternal deaths and abortions in rabbits at 2, 4, and 8 times the maximal recommended human oral dose.
 There are no adequate and well-controlled studies in pregnant women.
