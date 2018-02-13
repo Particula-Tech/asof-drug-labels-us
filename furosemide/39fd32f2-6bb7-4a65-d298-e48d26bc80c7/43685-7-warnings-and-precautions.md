@@ -141,8 +141,6 @@ Furosemide produced no impairment of fertility in male or female rats, at 100 mg
 
 ## Pregnancy Teratogenic Effects
 
-Pregnancy Category C
-
 Furosemide has been shown to cause unexplained maternal deaths and abortions in rabbits at 2, 4, and 8 times the maximal recommended human oral dose.
 There are no adequate and well-controlled studies in pregnant women.
 Furosemide should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.

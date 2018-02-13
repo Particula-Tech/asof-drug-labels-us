@@ -22,6 +22,6 @@ Discard unused portion.
 
 Hospira, Inc., Lake Forest, IL 60045 USA
 
-LAB-1025-1.0
+LAB-1025-2.0
 
-April 2017
+Revised: 01/2018
