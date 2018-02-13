@@ -13,6 +13,8 @@ Protect from light.
 Store at 20 to 25°C (68 to 77°F).
 [See USP Controlled Room Temperature.]
 
-2/2016 EN-4197
-
 Hospira, Inc., Lake Forest, IL 60045 USA
+
+LAB-1215-1.0
+
+Revised: 01/2018
