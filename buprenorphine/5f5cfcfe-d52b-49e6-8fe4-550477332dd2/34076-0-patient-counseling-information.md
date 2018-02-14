@@ -39,7 +39,7 @@ Instruct patients to read the Medication Guide each time ZUBSOLV is dispensed be
 - Advise women that if they are pregnant while being treated with ZUBSOLV, the baby may have signs of withdrawal at birth and that withdrawal is treatable [see Warnings and Precautions (5.5), Use in Specific Populations (8.1)].
 - Advise women who are breastfeeding to monitor the infant for drowsiness and difficulty breathing [see Use in Specific Populations (8.3)].
 - Inform patients that chronic use of opioids may cause reduced fertility.
-  It is not known whether these effects on fertility are reversible [see Adverse Reactions (0)].
+  It is not known whether these effects on fertility are reversible [see Adverse Reactions (6.2)].
 - Advise patients to inform their family members that, in the event of emergency, the treating healthcare provider or emergency room staff should be informed that the patient is physically dependent on an opioid and that the patient is being treated with ZUBSOLV.
 
 Disposal of Unused ZUBSOLV Sublingual Tablets
