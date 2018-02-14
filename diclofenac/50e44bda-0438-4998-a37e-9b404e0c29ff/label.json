@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA021234"
+  ],
+  "inn": "diclofenac",
+  "labeler": "Altergon Italia Srl",
+  "package_ndcs": [
+    "43328-005-00",
+    "43328-005-02",
+    "43328-005-05",
+    "43328-005-30"
+  ],
+  "products": [
+    {
+      "form": "PATCH",
+      "generic": "diclofenac epolamine",
+      "name": "Flector"
+    }
+  ],
+  "setid": "50e44bda-0438-4998-a37e-9b404e0c29ff",
+  "source": "dailymed"
+}
