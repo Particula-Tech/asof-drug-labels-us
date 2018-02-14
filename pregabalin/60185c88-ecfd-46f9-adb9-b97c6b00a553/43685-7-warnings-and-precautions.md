@@ -79,7 +79,7 @@ Because there are limited data on congestive heart failure patients with New Yor
 ## 5.6 Dizziness and Somnolence
 
 LYRICA may cause dizziness and somnolence.
-Inform patients that LYRICA-related dizziness and somnolence may impair their ability to perform tasks such as driving or operating machinery [see Patient Counseling Information (17)].
+Inform patients that LYRICA-related dizziness and somnolence may impair their ability to perform tasks such as driving or operating machinery [see Patient Counseling Information (17.5)].
 
 In the LYRICA controlled trials, dizziness was experienced by 30% of LYRICA-treated patients compared to 8% of placebo-treated patients; somnolence was experienced by 23% of LYRICA-treated patients compared to 8% of placebo-treated patients.
 Dizziness and somnolence generally began shortly after the initiation of LYRICA therapy and occurred more frequently at higher doses.
@@ -127,7 +127,7 @@ Funduscopic changes were observed in 2% of LYRICA-treated and 2% of placebo-trea
 
 Although the clinical significance of the ophthalmologic findings is unknown, inform patients to notify their physician if changes in vision occur.
 If visual disturbance persists, consider further assessment.
-Consider more frequent assessment for patients who are already routinely monitored for ocular conditions [see Patient Counseling Information (17)].
+Consider more frequent assessment for patients who are already routinely monitored for ocular conditions [see Patient Counseling Information (17.8)].
 
 ## 5.11 Creatine Kinase Elevations
 

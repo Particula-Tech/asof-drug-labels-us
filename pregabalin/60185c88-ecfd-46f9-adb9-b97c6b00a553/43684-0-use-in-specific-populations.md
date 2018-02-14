@@ -37,7 +37,7 @@ The effect on offspring survival was pronounced at doses greater than or equal t
 When offspring were tested as adults, neurobehavioral abnormalities (decreased auditory startle responding) were observed at greater than or equal to 250 mg/kg and reproductive impairment (decreased fertility and litter size) was seen at 1250 mg/kg.
 The no-effect dose for pre- and postnatal developmental toxicity in rats (50 mg/kg) produced a plasma exposure approximately 2 times human exposure at the MRD.
 
-In the prenatal-postnatal study in rats, pregabalin prolonged gestation and induced dystocia at exposures greater than or equal to 50 times the mean human exposure (AUC (0–24) of 123 µg∙hr/mL) at the MRD.
+In the prenatal-postnatal study in rats, pregabalin prolonged gestation and induced dystocia at exposures greater than or equal to 50 times the mean human exposure (AUC (0–24) of 123 µg∙hr/mL) at theMRD.
 
 ## 8.2 Lactation
 
@@ -83,25 +83,14 @@ In the animal fertility study with pregabalin in male rats, adverse reproductive
 
 ## 8.4 Pediatric Use
 
-Fibromyalgia
-
 The safety and efficacy of pregabalin in pediatric patients have not been established.
+
+Fibromyalgia
 
 A 15-week, placebo-controlled trial was conducted with 107 pediatric patients with fibromyalgia, ages 12 through 17 years, at LYRICA total daily doses of 75–450 mg per day.
 The primary efficacy endpoint of change from baseline to Week 15 in mean pain intensity (derived from an 11-point numeric rating scale) showed numerically greater improvement for the pregabalin-treated patients compared to placebo-treated patients, but did not reach statistical significance.
 The most frequently observed adverse reactions in the clinical trial included dizziness, nausea, headache, weight increased, and fatigue.
 The overall safety profile in adolescents was similar to that observed in adults with fibromyalgia.
-
-Adjunctive Therapy for Partial Onset Seizures
-
-The safety and efficacy of LYRICA as adjunctive treatment for epilepsy in pediatric patients 4 to 16 years of age with partial onset seizures have been established in a 12-week double-blind, placebo-controlled study (n = 295) [see Clinical Studies (14.3)].
-Adjunctive treatment with pregabalin 10 mg/kg/day resulted in a statistically significant reduction in seizure frequency compared to placebo (p = 0.0185), the primary efficacy objective of the study.
-The treatment difference was a 19.9% overall greater improvement in partial onset seizure reduction compared to placebo.
-Pregabalin 2.5 mg/kg/day also showed improvements in reducing partial onset seizure frequency compared to placebo (9.9% overall greater improvement compared to placebo); however, the magnitude of the results did not achieve statistical significance with this lower pregabalin dose level (p = 0.2577).
-Responder rates (greater than or equal to 50% reduction in partial onset seizure frequency) were a key secondary efficacy parameter and showed a significant result with pregabalin 10 mg/kg/day as superior to placebo, 40.6% versus 22.6%, respectively (p = 0.0068).
-The analysis of responder rate for pregabalin 2.5 mg/kg/day versus placebo was not significant, 29.1% versus 22.6%, respectively (p = 0.2600).
-The most common adverse events with pregabalin in this study were somnolence, weight increased, and increased appetite [see Adverse Reactions (6.1)].
-The safety and efficacy of pregabalin in patients less than 4 years of age have not been established.
 
 Juvenile Animal Data
 

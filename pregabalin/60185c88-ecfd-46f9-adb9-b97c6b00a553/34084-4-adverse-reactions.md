@@ -133,8 +133,6 @@ Treatment-emergent adverse reaction incidence in controlled trials in neuropathi
 | Urogenital System |  |  |  |  |  |  |
 | Urinary Incontinence | 0 | 1 | 1 | 2 | 1 | 0 |
 
-Controlled Add-On Studies in Adjunctive Therapy for Patients 4 Years of Age and Older with Partial Onset Seizures
-
 Controlled Add-On Studies in Adjunctive Therapy for Adult Patients with Partial Onset Seizures
 
 Adverse Reactions Leading to Discontinuation
@@ -187,36 +185,6 @@ Dose-related treatment-emergent adverse reaction incidence in controlled trials 
 | Diplopia | 5 | 7 | 12 | 9 | 4 |
 | Abnormal Vision | 3 | 1 | 5 | 4 | 1 |
 
-Controlled Add-On Studies in Adjunctive Therapy for Patients 4 to 16 Years of Age with Partial Onset Seizures
-
-Adverse Reactions Leading to Discontinuation
-
-Approximately 2.5% of patients receiving LYRICA and no patients receiving placebo in add-on epilepsy trials discontinued prematurely due to adverse reactions.
-In the LYRICA treatment group, the adverse reactions leading to discontinuation were somnolence (3 subjects), worsening of epilepsy (1 subject), and hallucination (1 subject).
-
-Most Common Adverse Reactions
-
-Table 6 lists all dose-related adverse reactions occurring in at least 2% of all LYRICA-treated patients.
-Dose-relatedness was defined as an incidence of the adverse event in the 10 mg/kg/day group that was at least 2% greater than the rate in both the placebo and 2.5 mg/kg/day groups.
-In this study, 201 patients received LYRICA and 94 patients received placebo for up to 12 weeks.
-Because patients were also treated with 1 to 3 other AEDs, it is not possible to determine whether the following adverse reactions can be ascribed to LYRICA alone, or the combination of LYRICA and other AEDs.
-A majority of pregabalin-treated patients in the clinical study had adverse reactions with a maximum intensity of "mild" or "moderate".
-
-Table 6.
-Dose-related treatment-emergent adverse reaction incidence in controlled trials in adjunctive therapy for patients 4 to 16 years of age with partial onset seizures (events in at least 2% of all LYRICA-treated patients and the adverse reaction in the 10 mg/kg/day group was greater than or equal to 2% the rate in both the placebo and 2.5 mg/kg/day groups)
-
-| Body System Preferred Term | 2.5 mg/kg/day2.5 mg/kg/day: Maximum dose 150 mg/day. Includes subjects less than 30 kg for whom dose was adjusted to 3.5 mg/kg/day. [N=104] % | 10 mg/kg/day10 mg/kg/day: Maximum dose 600 mg/day. Includes subjects less than 30 kg for whom dose was adjusted to 14 mg/kg/day. [N=97] % | All PGB [N=201] % | Placebo [N=94] % |
-| --- | --- | --- | --- | --- |
-| Gastrointestinal disorders |  |  |  |  |
-| Salivary hypersecretion | 1 | 4 | 2 | 0 |
-| Investigations |  |  |  |  |
-| Weight increased | 4 | 13 | 8 | 4 |
-| Metabolism and nutrition disorders |  |  |  |  |
-| Increased appetite | 7 | 10 | 8 | 4 |
-| Nervous system disorders |  |  |  |  |
-| Somnolence | 17 | 26 | 21 | 14 |
-| Abbreviations: N=number of patients; PGB=pregabalin. |  |  |  |  |
-
 Controlled Studies with Fibromyalgia
 
 Adverse Reactions Leading to Discontinuation
@@ -229,10 +197,10 @@ Each of these adverse reactions led to withdrawal in approximately 1% of patient
 
 Most Common Adverse Reactions
 
-Table 7 lists all adverse reactions, regardless of causality, occurring in greater than or equal to 2% of patients with fibromyalgia in the 'all pregabalin' treatment group for which the incidence was greater than in the placebo treatment group.
+Table 6 lists all adverse reactions, regardless of causality, occurring in greater than or equal to 2% of patients with fibromyalgia in the 'all pregabalin' treatment group for which the incidence was greater than in the placebo treatment group.
 A majority of pregabalin-treated patients in clinical studies experienced adverse reactions with a maximum intensity of "mild" or "moderate".
 
-Table 7.
+Table 6.
 Treatment-emergent adverse reaction incidence in controlled trials in fibromyalgia (events) in at least 2% of all LYRICA-treated patients and occurring more frequently in the all pregabalin-group than in the placebo treatment group)
 
 |  | [N=132] % | [N=502] % | [N=505] % | [N=378] % | [N=1517] % | [N=505] % |
@@ -298,16 +266,16 @@ Each of these adverse reactions led to withdrawal in less than 2% of patients.
 
 Most Common Adverse Reactions
 
-Table 8 lists all adverse reactions, regardless of causality, occurring in greater than or equal to 2% of patients with neuropathic pain associated with spinal cord injury in the controlled trials.
+Table 7 lists all adverse reactions, regardless of causality, occurring in greater than or equal to 2% of patients with neuropathic pain associated with spinal cord injury in the controlled trials.
 A majority of pregabalin-treated patients in clinical studies experienced adverse reactions with a maximum intensity of "mild" or "moderate".
 
-Table 8.
+Table 7.
 Treatment-emergent adverse reaction incidence in controlled trials in neuropathic pain associated with spinal cord injury (events in at least 2% of all LYRICA-treated patients and occurring more frequently in the all pregabalin-group than in the placebo treatment group)
 
 | % | % |  |
 | --- | --- | --- |
 | System Organ Class Preferred term | PGBPGB: Pregabalin (N=182) | Placebo (N=174) |
-| Ear and labyrinth disorders |  |  |
+| Ear and labryrinth disorders |  |  |
 | Vertigo | 2.7 | 1.1 |
 | Eye disorders |  |  |
 | Vision blurred | 6.6 | 1.1 |
@@ -363,13 +331,13 @@ Cardiovascular System – Infrequent: Deep thrombophlebitis, Heart failure, Hypo
 
 Digestive System – Frequent: Gastroenteritis, Increased appetite; Infrequent: Cholecystitis, Cholelithiasis, Colitis, Dysphagia, Esophagitis, Gastritis, Gastrointestinal hemorrhage, Melena, Mouth ulceration, Pancreatitis, Rectal hemorrhage, Tongue edema; Rare: Aphthous stomatitis, Esophageal Ulcer, Periodontal abscess
 
-Hemic and Lymphatic System – Frequent: Ecchymosis; Infrequent: Anemia, Eosinophilia, Hypochromic anemia, Leukocytosis, Leukopenia, Lymphadenopathy, Thrombocytopenia; Rare: Myelofibrosis, Polycythemia, Prothrombin decreased, Purpura, Thrombocythemia, Alanine aminotransferase increased, Aspartate aminotransferase increased
+Hemic and Lymphatic System – Frequent: Ecchymosis; Infrequent: Anemia, Eosinophilia, Hypochromic anemia, Leukocytosis, Leukopenia, Lymphadenopathy, Thrombocytopenia; Rare: Myelofibrosis, Polycythemia, Prothrombin decreased, Purpura, Thrombocythemia
 
 Metabolic and Nutritional Disorders – Rare: Glucose Tolerance Decreased, Urate Crystalluria
 
 Musculoskeletal System – Frequent: Arthralgia, Leg cramps, Myalgia, Myasthenia; Infrequent: Arthrosis; Rare: Chondrodystrophy, Generalized Spasm
 
-Nervous System – Frequent: Anxiety, Depersonalization, Hypertonia, Hypoesthesia, Libido decreased, Nystagmus, Paresthesia, Sedation, Stupor, Twitching; Infrequent: Abnormal dreams, Agitation, Apathy, Aphasia, Circumoral paresthesia, Dysarthria, Hallucinations, Hostility, Hyperalgesia, Hyperesthesia, Hyperkinesia, Hypokinesia, Hypotonia, Libido increased, Myoclonus, Neuralgia; Rare: Addiction, Cerebellar syndrome, Cogwheel rigidity, Coma, Delirium, Delusions, Dysautonomia, Dyskinesia, Dystonia, Encephalopathy, Extrapyramidal syndrome, Guillain-Barré syndrome, Hypalgesia, Intracranial hypertension, Manic reaction, Paranoid reaction, Peripheral neuritis, Personality disorder, Psychotic depression, Schizophrenic reaction, Sleep disorder, Torticollis, Trismus
+Nervous System – Frequent: Anxiety, Depersonalization, Hypertonia, Hypoesthesia, Libido decreased, Nystagmus, Paresthesia, Sedation, Stupor, Twitching; Infrequent: Abnormal dreams, Agitation, Apathy, Aphasia, Circumoral paresthesia, Dysarthria, Hallucinations, Hostility, Hyperalgesia, Hyperesthesia, Hyperkinesia, Hypokinesia, Hypotonia, Libido increased, Myoclonus, Neuralgia, Rare: Addiction, Cerebellar syndrome, Cogwheel rigidity, Coma, Delirium, Delusions, Dysautonomia, Dyskinesia, Dystonia, Encephalopathy, Extrapyramidal syndrome, Guillain-Barré syndrome, Hypalgesia, Intracranial hypertension, Manic reaction, Paranoid reaction, Peripheral neuritis, Personality disorder, Psychotic depression, Schizophrenic reaction, Sleep disorder, Torticollis, Trismus
 
 Respiratory System – Rare: Apnea, Atelectasis, Bronchiolitis, Hiccup, Laryngismus, Lung edema, Lung fibrosis, Yawn
 
