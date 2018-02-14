@@ -23,7 +23,7 @@ Table 4: Percent of Excellent or Good Intubating Conditions and Median (Range) T
 
 Table 5 presents the time to onset and clinical duration for the initial dose of rocuronium bromide injection under opioid/nitrous oxide/oxygen anesthesia in adults and geriatric patients, and under halothane anesthesia in pediatric patients.
 
-TABLE 5: Median (Range) Time to Onset and Clinical Duration Following Initial (Intubating) Dose During Opioid/Nitrous Oxide/Oxygen Anesthesia (Adults) and Halothane Anesthesia (Pediatric Patients)
+Table 5: Median (Range) Time to Onset and Clinical Duration Following Initial (Intubating) Dose During Opioid/Nitrous Oxide/Oxygen Anesthesia (Adults) and Halothane Anesthesia (Pediatric Patients)
 
 | Rocuronium Bromide Dose (mg/kg) Administered over 5 sec | Time to ≥80% Block (min) | Time to Maximum Block (min) | Clinical Duration (min) |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -46,7 +46,7 @@ TABLE 5: Median (Range) Time to Onset and Clinical Duration Following Initial (I
 
 Table 6 presents the time to onset and clinical duration for the initial dose of Rocuronium Bromide Injection under sevoflurane (induction) and isoflurane/nitrous oxide (maintenance) anesthesia in pediatric patients.
 
-TABLE 6: Median (Range) Time to Onset and Clinical Duration Following Initial (Intubating) Dose During Sevoflurane (induction) and Isoflurane/Nitrous Oxide (maintenance) Anesthesia (Pediatric Patients)
+Table 6: Median (Range) Time to Onset and Clinical Duration Following Initial (Intubating) Dose During Sevoflurane (induction) and Isoflurane/Nitrous Oxide (maintenance) Anesthesia (Pediatric Patients)
 
 | Rocuronium Bromide Dose (mg/kg) Administered over 5 sec | Time to Maximum Block (min) | Time to Reappearance T3 (min) |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -85,7 +85,7 @@ Increases or decreases in MAP were observed in 2% to 5% of geriatric and other a
 Heart rate changes (30% or greater) occurred in 0% to 2% of geriatric and other adult patients.
 Tachycardia (30% or greater) occurred in 12 of 127 pediatric patients.
 Most of the pediatric patients developing tachycardia were from a single study where the patients were anesthetized with halothane and who did not receive atropine for induction [see Clinical Studies (14.3)].
-In U.S. studies, laryngoscopy and tracheal intubation following rocuronium bromide administration were accompanied by transient tachycardia (30% or greater increases) in about one-third of adult patients under opioid/nitrous oxide/oxygen anesthesia.
+In US studies, laryngoscopy and tracheal intubation following rocuronium bromide administration were accompanied by transient tachycardia (30% or greater increases) in about one-third of adult patients under opioid/nitrous oxide/oxygen anesthesia.
 Animal studies have indicated that the ratio of vagal:neuromuscular block following rocuronium bromide administration is less than vecuronium but greater than pancuronium.
 The tachycardia observed in some patients may result from this vagal blocking activity.
 
@@ -104,9 +104,9 @@ These population-based estimates and a measure of the estimate variability are c
 Following intravenous administration of rocuronium bromide, plasma levels of rocuronium follow a three-compartment open model.
 The rapid distribution half-life is 1 to 2 minutes and the slower distribution half-life is 14 to 18 minutes.
 Rocuronium is approximately 30% bound to human plasma proteins.
-In geriatric and other adult surgical patients undergoing either opioid/nitrous oxide/oxygen or inhalational anesthesia, the observed pharmacokinetic profile was essentially unchanged.
+In geriatric and other adult surgical patients undergoing either opioid/nitrous oxide/oxygen or inhalational anesthesia, the observed pharmacokinetic profile was essentially unchanged [see Dosage and Administration (2.5)].
 
-TABLE 7: Mean (SD) Pharmacokinetic Parameters in Adults (n=22; ages 27 to 58 yrs) and Geriatric (n=20; 65 yrs or greater) During Opioid/Nitrous Oxide/Oxygen Anesthesia
+Table 7: Mean (SD) Pharmacokinetic Parameters in Adults (n=22; ages 27 to 58 yrs) and Geriatric (n=20; 65 yrs or greater) During Opioid/Nitrous Oxide/Oxygen Anesthesia
 
 | PK Parameters | Adults (Ages 27 to 58 yrs) | Geriatrics (≥65 yrs) |
 | --- | --- | --- |
@@ -125,7 +125,7 @@ In general, patients undergoing cadaver kidney transplant have a small reduction
 Patients with demonstrated liver cirrhosis have a marked increase in their volume of distribution resulting in a plasma half-life approximately twice that of patients with normal hepatic function.
 Table 8 shows the pharmacokinetic parameters in subjects with either impaired renal or hepatic function.
 
-TABLE 8: Mean (SD) Pharmacokinetic Parameters in Adults with Normal Renal and Hepatic Function (n=10, ages 23 to 65), Renal Transplant Patients (n=10, ages 21 to 45), and Hepatic Dysfunction Patients (n=9, ages 31 to 67) During Isoflurane Anesthesia
+Table 8: Mean (SD) Pharmacokinetic Parameters in Adults with Normal Renal and Hepatic Function (n=10, ages 23 to 65), Renal Transplant Patients (n=10, ages 21 to 45), and Hepatic Dysfunction Patients (n=9, ages 31 to 67) During Isoflurane Anesthesia
 
 | PK Parameters | Normal Renal and Hepatic Function | Renal Transplant Patients | Hepatic Dysfunction Patients |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -147,7 +147,7 @@ Pediatric Patients
 Under halothane anesthesia, the clinical duration of effects of rocuronium bromide did not vary with age in patients 4 months to 8 years of age.
 The terminal half-life and other pharmacokinetic parameters of rocuronium in these pediatric patients are presented in Table 9.
 
-TABLE 9: Mean (SD) Pharmacokinetic Parameters of Rocuronium in Pediatric Patients (ages 3 to less than 12 mos, n=6; 1 to less than 3 yrs, n=5; 3 to less than 8 yrs, n=7) During Halothane Anesthesia
+Table 9: Mean (SD) Pharmacokinetic Parameters of Rocuronium in Pediatric Patients (ages 3 to less than 12 mos, n=6; 1 to less than 3 yrs, n=5; 3 to less than 8 yrs, n=7) During Halothane Anesthesia
 
 | PK Parameters | Patient Age Range |  |  |
 | --- | --- | --- | --- |
@@ -162,7 +162,7 @@ In patients under the age of 18 years clearance (CL) and volume of distribution 
 As a result the terminal half-life of rocuronium bromide decreases with increasing age from 1.1 hour to 0.7-0.8 hour.
 Table 10 presents the pharmacokinetic parameters in the different age groups in the studies with sevoflurane (induction) and isoflurane/nitrous oxide (maintenance) anesthesia.
 
-TABLE 10: Mean (SD) Pharmacokinetic Parameters of Rocuronium in Pediatric Patients During Sevoflurane (induction) and Isoflurane/Nitrous Oxide (maintenance) Anesthesia
+Table 10: Mean (SD) Pharmacokinetic Parameters of Rocuronium in Pediatric Patients During Sevoflurane (induction) and Isoflurane/Nitrous Oxide (maintenance) Anesthesia
 
 | PK Parameters | Patient Age Range |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |

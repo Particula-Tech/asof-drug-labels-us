@@ -18,7 +18,7 @@ This dose may be expected to provide 31 (15 to 85) minutes of clinical relaxatio
 Under halothane, isoflurane, and enflurane anesthesia, some extension of the period of clinical relaxation should be expected [see Drug Interactions (7.3)].
 
 A lower dose of rocuronium bromide injection (0.45 mg/kg) may be used.
-Neuromuscular block sufficient for intubation (80% block or greater) is attained in a median (range) time of 1.3 (0.8 to 6.2) minute(s) and most patients have intubation completed within 2 minutes.
+Neuromuscular block sufficient for intubation (80% block or greater) is attained in a median (range) time of 1.3 (0.8 to 6.2) minute(s), and most patients have intubation completed within 2 minutes.
 Maximum blockade is achieved in most patients in less than 4 minutes.
 This dose may be expected to provide 22 (12 to 31) minutes of clinical relaxation under opioid/nitrous oxide/oxygen anesthesia.
 Patients receiving this low dose of 0.45 mg/kg who achieve less than 90% block (about 16% of these patients) may have a more rapid time to 25% recovery, 12 to 15 minutes.
@@ -55,7 +55,7 @@ Unused portions of infusion solutions should be discarded.
 
 Infusion rates of rocuronium bromide injection can be individualized for each patient using the following tables for three different concentrations of rocuronium bromide injection solution as guidelines:
 
-TABLE 1: Infusion Rates Using Rocuronium Bromide Injection (0.5 mg/mL)*
+Table 1: Infusion Rates Using Rocuronium Bromide Injection (0.5 mg/mL)*
 
 | Patient Weight |  | Drug Delivery Rate (mcg/kg/min) |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -74,7 +74,7 @@ TABLE 1: Infusion Rates Using Rocuronium Bromide Injection (0.5 mg/mL)*
 | 100 | 220 | 48 | 60 | 72 | 84 | 96 | 108 | 120 | 144 | 168 | 192 |
 | * 50 mg rocuronium bromide injection in 100 mL solution |  |  |  |  |  |  |  |  |  |  |  |
 
-TABLE 2: Infusion Rates Using Rocuronium Bromide Injection (1 mg/mL)**
+Table 2: Infusion Rates Using Rocuronium Bromide Injection (1 mg/mL)**
 
 | Patient Weight |  | Drug Delivery Rate (mcg/kg/min) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -93,7 +93,7 @@ TABLE 2: Infusion Rates Using Rocuronium Bromide Injection (1 mg/mL)**
 | 100 | 220 | 24 | 30 | 36 | 42 | 48 | 54 | 60 | 72 | 84 | 96 |  |  |  |  |  |  |  |  |  |  |  |  |
 | ** 100 mg rocuronium bromide injection in 100 mL solution |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-TABLE 3: Infusion Rates Using Rocuronium Bromide Injection (5 mg/mL)***
+Table 3: Infusion Rates Using Rocuronium Bromide Injection (5 mg/mL)***
 
 | Patient Weight |  | Drug Delivery Rate (mcg/kg/min) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -141,7 +141,8 @@ Rocuronium bromide injection is not recommended for rapid sequence intubation in
 Geriatric Patients
 
 Geriatric patients (65 years or older) exhibited a slightly prolonged median (range) clinical duration of 46 (22 to 73), 62 (49 to 75), and 94 (64 to 138) minutes under opioid/nitrous oxide/oxygen anesthesia following doses of 0.6, 0.9, and 1.2 mg/kg, respectively.
-No differences in duration of neuromuscular blockade following maintenance doses of rocuronium bromide injection were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in response between elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out [see Clinical Pharmacology (12.2, 12.3)].
+No differences in duration of neuromuscular blockade following maintenance doses of rocuronium bromide injection were observed between these subjects and younger subjects, but greater sensitivity of some older individuals cannot be ruled out [see Clinical Pharmacology (12.2) and Clinical Studies (14.2)].
+[See also Warnings and Precautions (5.4)].
 
 Patients with Renal or Hepatic Impairment
 
@@ -153,7 +154,7 @@ Obese Patients
 
 In obese patients, the initial dose of rocuronium bromide injection 0.6 mg/kg should be based upon the patient's actual body weight [see Clinical Studies (14.1)].
 
-An analysis across all US controlled clinical studies indicates that the pharmacodynamics of rocuronium bromide injection are not different between obese and non-obese patients when dosed based upon their actual body weight.
+An analysis across all US controlled clinical studies indicates that the pharmacodynamics of rocuronium bromide injection are not different between obese and nonobese patients when dosed based upon their actual body weight.
 
 Patients with Reduced Plasma Cholinesterase Activity
 

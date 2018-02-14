@@ -61,4 +61,4 @@ This possibility must also be considered for rocuronium bromide [see Warnings an
 The use of rocuronium bromide before succinylcholine, for the purpose of attenuating some of the side effects of succinylcholine, has not been studied.
 
 If rocuronium bromide is administered following administration of succinylcholine, it should not be given until recovery from succinylcholine has been observed.
-The median duration of action of rocuronium bromide 0.6 mg/kg administered after a 1 mg/kg dose of succinylcholine when T1 returned to 75% of control was 36 minutes (range 14 to 57, n=12) vs. 28 minutes (17 to 51, n=12) without succinylcholine.
+The median duration of action of rocuronium bromide 0.6 mg/kg administered after a 1 mg/kg dose of succinylcholine when T1 returned to 75% of control was 36 minutes (range: 14 to 57, n=12) vs. 28 minutes (range:17 to 51, n=12) without succinylcholine.

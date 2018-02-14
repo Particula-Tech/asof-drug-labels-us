@@ -21,6 +21,7 @@ Therefore, its administration must be accompanied by adequate anesthesia or seda
 ## 5.4 Residual Paralysis
 
 In order to prevent complications resulting from residual paralysis, it is recommended to extubate only after the patient has recovered sufficiently from neuromuscular block.
+Geriatric patients (65 years or older) may be at increased risk for residual neuromuscular block.
 Other factors which could cause residual paralysis after extubation in the post-operative phase (such as drug interactions or patient condition) should also be considered.
 If not used as part of standard clinical practice the use of a reversal agent should be considered, especially in those cases where residual paralysis is more likely to occur.
 
@@ -33,7 +34,7 @@ It is strongly recommended that neuromuscular transmission be monitored continuo
 Additional doses of rocuronium bromide or any other neuromuscular blocking agent should not be given until there is a definite response (one twitch of the train-of-four) to nerve stimulation.
 Prolonged paralysis and/or skeletal muscle weakness may be noted during initial attempts to wean from the ventilator patients who have chronically received neuromuscular blocking drugs in the ICU.
 
-Myopathy after long-term administration of other non-depolarizing neuromuscular blocking agents in the ICU alone or in combination with corticosteroid therapy has been reported.
+Myopathy after long-term administration of other nondepolarizing neuromuscular blocking agents in the ICU alone or in combination with corticosteroid therapy has been reported.
 Therefore, for patients receiving both neuromuscular blocking agents and corticosteroids, the period of use of the neuromuscular blocking agent should be limited as much as possible and only used in the setting where in the opinion of the prescribing physician, the specific advantages of the drug outweigh the risk.
 
 ## 5.6 Malignant Hyperthermia (MH)

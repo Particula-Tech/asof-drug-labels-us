@@ -6,6 +6,6 @@ If applicable, inform your patients that certain medical conditions and medicati
 In addition, inform your patient that severe anaphylactic reactions to neuromuscular blocking agents, including rocuronium bromide, have been reported.
 Since allergic cross-reactivity has been reported in this class, request information from your patients about previous anaphylactic reactions to other neuromuscular blocking agents.
 
-EN-3451
-
 Hospira, Inc., Lake Forest, IL 60045 USA
+
+LAB-1239-1.0

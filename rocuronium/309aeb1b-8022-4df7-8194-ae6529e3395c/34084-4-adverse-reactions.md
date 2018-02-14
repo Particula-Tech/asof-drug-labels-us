@@ -13,8 +13,8 @@ The following adverse reactions are described, or described in greater detail, i
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Clinical studies in the U.S. (n=1137) and Europe (n=1394) totaled 2531 patients.
-The patients exposed in the U.S. clinical studies provide the basis for calculation of adverse reaction rates.
+Clinical studies in the US (n=1137) and Europe (n=1394) totaled 2531 patients.
+The patients exposed in the US clinical studies provide the basis for calculation of adverse reaction rates.
 The following adverse reactions were reported in patients administered rocuronium bromide (all events judged by investigators during the clinical trials to have a possible causal relationship):
 
 Adverse reactions in greater than 1% of patients: None
@@ -23,8 +23,8 @@ Adverse reactions in less than 1% of patients (probably related or relationship 
 
 Cardiovascular: arrhythmia, abnormal electrocardiogram, tachycardia Digestive: nausea, vomiting Respiratory: asthma (bronchospasm, wheezing, or rhonchi), hiccup Skin and Appendages: rash, injection site edema, pruritus
 
-In the European studies, the most commonly reported reactions were transient hypotension (2%) and hypertension (2%); these are in greater frequency than the U.S. studies (0.1% and 0.1%).
-Changes in heart rate and blood pressure were defined differently from in the U.S. studies in which changes in cardiovascular parameters were not considered as adverse events unless judged by the investigator as unexpected, clinically significant, or thought to be histamine related.
+In the European studies, the most commonly reported reactions were transient hypotension (2%) and hypertension (2%); these are in greater frequency than the US studies (0.1% and 0.1%).
+Changes in heart rate and blood pressure were defined differently from in the US studies in which changes in cardiovascular parameters were not considered as adverse events unless judged by the investigator as unexpected, clinically significant, or thought to be histamine related.
 
 In a clinical study in patients with clinically significant cardiovascular disease undergoing coronary artery bypass graft, hypertension and tachycardia were reported in some patients, but these occurrences were less frequent in patients receiving beta or calcium channel-blocking drugs.
 In some patients, rocuronium bromide was associated with transient increases (30% or greater) in pulmonary vascular resistance.
