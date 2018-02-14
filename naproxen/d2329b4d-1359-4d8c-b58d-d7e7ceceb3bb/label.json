@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA021926"
+  ],
+  "inn": "naproxen",
+  "labeler": "Glaxo Operations UK Ltd",
+  "package_ndcs": [
+    "63379-039-00",
+    "63379-039-01",
+    "63379-039-02"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "sumatriptan and naproxen sodium",
+      "name": "TREXIMET"
+    }
+  ],
+  "setid": "d2329b4d-1359-4d8c-b58d-d7e7ceceb3bb",
+  "source": "dailymed"
+}
