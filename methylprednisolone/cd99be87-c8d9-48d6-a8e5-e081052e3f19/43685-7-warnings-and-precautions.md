@@ -144,6 +144,8 @@ Discontinuation of corticosteroids may result in clinical improvement.
 
 ## Cardio-renal
 
+Caution is required in patients with systemic sclerosis because an increased incidence of scleroderma renal crisis has been observed with corticosteroids, including methylprednisolone.
+
 As sodium retention with resultant edema and potassium loss may occur in patients receiving corticosteroids, these agents should be used with caution in patients with congestive heart failure, hypertension, or renal insufficiency.
 
 ## Endocrine
