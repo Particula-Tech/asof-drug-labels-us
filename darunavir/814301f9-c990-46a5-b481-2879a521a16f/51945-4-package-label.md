@@ -1,6 +1,8 @@
-PRINCIPAL DISPLAY PANEL - 75 mg Tablet Bottle Label
+# PRINCIPAL DISPLAY PANEL - 75 mg Tablet Bottle Label
 
-480 Tablets NDC 59676-563-01
+480 Tablets Rx only
+
+NDC 59676-563-01
 
 PREZISTA® (darunavir) tablets
 
@@ -8,13 +10,15 @@ PREZISTA® (darunavir) tablets
 
 Each tablet contains darunavir ethanolate equivalent to 75 mg of darunavir.
 
+ALERT Find out about medicines that should NOT be taken with PREZISTA.
+
 janssen
 
-Rx only
+# PRINCIPAL DISPLAY PANEL - 150 mg Tablet Bottle Label
 
-PRINCIPAL DISPLAY PANEL - 150 mg Tablet Bottle Label
+240 Tablets Rx only
 
-240 Tablets NDC 59676-564-01
+NDC 59676-564-01
 
 PREZISTA® (darunavir) tablets
 
@@ -22,13 +26,13 @@ PREZISTA® (darunavir) tablets
 
 Each tablet contains darunavir ethanolate equivalent to 150 mg of darunavir.
 
+ALERT Find out about medicines that should NOT be taken with PREZISTA.
+
 janssen
 
-Rx only
+# PRINCIPAL DISPLAY PANEL - 600 mg Tablet Bottle Label
 
-PRINCIPAL DISPLAY PANEL - 600 mg Tablet Bottle Label
-
-60 Tablets
+60 Tablets Rx only
 
 NDC 59676-562-01
 
@@ -38,13 +42,15 @@ PREZISTA® (darunavir) tablets
 
 Each tablet contains darunavir ethanolate equivalent to 600 mg of darunavir.
 
-Rx only
+ALERT Find out about medicines that should NOT be taken with PREZISTA.
 
 janssen
 
-PRINCIPAL DISPLAY PANEL - 800 mg Tablet Bottle Label
+# PRINCIPAL DISPLAY PANEL - 800 mg Tablet Bottle Label
 
-30 Tablets NDC 59676-566-30
+30 Tablets Rx only
+
+NDC 59676-566-30
 
 PREZISTA® (darunavir) tablets
 
@@ -52,11 +58,11 @@ PREZISTA® (darunavir) tablets
 
 Each tablet contains darunavir ethanolate equivalent to 800 mg of darunavir.
 
-Rx only
+ALERT Find out about medicines that should NOT be taken with PREZISTA.
 
 janssen
 
-PRINCIPAL DISPLAY PANEL - 200 mL Bottle Carton
+# PRINCIPAL DISPLAY PANEL - 200 mL Bottle Carton
 
 200 mL NDC 59676-565-01
 

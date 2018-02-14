@@ -31,11 +31,23 @@ Data
 Human Data
 
 PREZISTA/ritonavir (600/100 mg twice daily or 800/100 mg once daily) in combination with a background regimen was evaluated in a clinical trial of 34 pregnant women during the second and third trimesters, and postpartum.
-The pharmacokinetic data demonstrate that exposure to darunavir and ritonavir as part of an antiretroviral regimen was lower during pregnancy compared with postpartum (6-12 weeks).
-Virologic response was preserved throughout the trial period in both arms.
-No mother to child transmission occurred in the infants born to the 29 subjects who stayed on the antiretroviral treatment through delivery.
+Seventeen subjects were enrolled in each BID and QD treatment arms.
+Twenty-seven subjects completed the trial through the postpartum period (6–12 weeks after delivery) and 7 subjects discontinued before trial completion, 5 subjects in the BID arm and 2 subjects in the QD arm.
+
+The pharmacokinetic data demonstrate that exposure to darunavir and ritonavir as part of an antiretroviral regimen was lower during pregnancy compared with postpartum (6–12 weeks).
+Exposure reductions during pregnancy were greater for the once daily regimen as compared to the twice daily regimen [see Clinical Pharmacology (12.3)].
+
+Virologic response was preserved.
+In the BID arm, the proportion of subjects with HIV-1 RNA <50 copies/mL were 35% (6/17) at baseline, 59% (10/17) through the third trimester visit, and 59% (10/17) through the 6–12 week postpartum visit.
+Virologic outcomes during the third trimester visit showed HIV-1 RNA ≥50 copies/mL for 12% (2/17) of subjects and were missing for 5 subjects (1 subject discontinued prematurely due to virologic failure).
+In the QD arm, the proportion of subjects with HIV-1 RNA <50 copies/mL were 59% (10/17) at baseline, 82% (14/17) through the third trimester visit, and 82% (14/17) through the 6–12 week postpartum visit.
+Virologic outcomes during the third trimester visit showed HIV-1 RNA ≥50 copies/mL for none of the subjects and were missing for 3 subjects (1 subject discontinued prematurely due to virologic failure).
+
 PREZISTA/ritonavir was well tolerated during pregnancy and postpartum.
-There were no new clinically relevant safety findings compared with the known safety profile of PREZISTA/ritonavir in HIV-1-infected adults [see Clinical Pharmacology (12.3)].
+There were no new clinically relevant safety findings compared with the known safety profile of PREZISTA/ritonavir in HIV-1-infected adults.
+
+Among the 29 infants with HIV test results available data, born to the 29 HIV-infected pregnant women who completed trial through delivery or postpartum period, all 29 infants had test results that were negative for HIV-1 at the time of delivery and/or through 16 weeks postpartum.
+All 29 infants received antiretroviral prophylactic treatment containing zidovudine.
 
 Based on prospective reports to the APR of 615 live births following exposure to darunavir-containing regimens during pregnancy (including 385 exposed in the first trimester and 230 exposed in the second/third trimester), there was no difference in rate of overall birth defects for darunavir compared with the background rate for major birth defects in a U.S. reference population of the MACDP.
 

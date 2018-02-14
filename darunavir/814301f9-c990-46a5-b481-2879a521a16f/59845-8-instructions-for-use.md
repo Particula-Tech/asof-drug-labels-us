@@ -37,9 +37,8 @@ This Instruction for Use has been approved by the U.S. Food and Drug Administrat
 
 Product of Ireland
 
-Manufactured by: Janssen Pharmaceutica, N.V.
-Beerse, Belgium
+Manufactured by: Janssen Pharmaceutica, NV Beerse, Belgium
 
 Manufactured for: Janssen Therapeutics, Division of Janssen Products, LP, Titusville NJ 08560
 
-Revised: June 2016 © Janssen Pharmaceuticals, Inc. 2006
+Revised: January 2018 © 2006 Janssen Pharmaceutical Companies

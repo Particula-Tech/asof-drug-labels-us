@@ -240,7 +240,7 @@ Table 17: Drug Interactions: Pharmacokinetic Parameters for Co-Administered Drug
 |  | 10 mg q.d. when administered with darunavir/ritonavir |  |  |  |  |  |  |
 | Artemether | 80 mg single dose | 600/100 mg b.i.d. | 15 | ↓ | 0.85 (0.68–1.05) | 0.91 (0.78–1.06) | - |
 | Dihydroartemisinin |  |  | 15 | ↑ | 1.06 (0.82–1.39) | 1.12 (0.96–1.30) | - |
-| Artemether | artemether/lumefantrine 80/480 mg (6 doses at 0, 8,24, 36, 48, and 60hours) | 600/100 mg b.i.d. | 15 | ↓ | 0.82 (0.61–1.11) | 0.84 (0.69–1.02) | 0.97 (0.90–1.05) |
+| Artemether | artemether/lumefantrine 80/480 mg (6 doses at 0, 8, 24, 36, 48, and 60 hours) | 600/100 mg b.i.d. | 15 | ↓ | 0.82 (0.61–1.11) | 0.84 (0.69–1.02) | 0.97 (0.90–1.05) |
 | Dihydroartemisinin |  | 15 | ↓ | 0.82 (0.66–1.01) | 0.82 (0.74–0.91) | 1.00 (0.82–1.22) |  |
 | Lumefantrine |  | 15 | ↑ | 1.65 (1.49–1.83) | 2.75 (2.46–3.08) | 2.26 (1.92–2.67) |  |
 | Buprenorphine/Naloxone | 8/2 mg to 16/4 mg q.d. | 600/100 mg b.i.d. | 17 | ↔ | 0.92 ratio is for buprenorphine; mean Cmax and AUC24 for naloxone were comparable when buprenorphine/naloxone was administered with or without PREZISTA/ritonavir (0.79–1.08) | 0.89 (0.78–1.02) | 0.98 (0.82–1.16) |
