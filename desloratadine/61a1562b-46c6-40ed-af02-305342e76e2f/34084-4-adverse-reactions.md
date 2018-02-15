@@ -6,6 +6,7 @@ The following adverse reactions are discussed in greater detail in other section
 - Increased intraocular pressure [see Warnings and Precautions (5.2)]
 - Urinary retention in patients with prostatic hypertrophy [see Warnings and Precautions (5.2)]
 - Hypersensitivity reactions [see Warnings and Precautions (5.4)]
+- Severe Skin Reactions
 
 ## 6.1 Clinical Trials Experience
 
@@ -46,3 +47,5 @@ Because these events are reported voluntarily from a population of uncertain siz
 Adverse events identified from post-marketing surveillance on the use of CLARINEX-D 12 HOUR Extended Release Tablets include tachycardia, palpitations, dyspnea, rash and pruritus.
 
 In addition to these events, the following spontaneous adverse events have been reported during the marketing of desloratadine as a single ingredient product: headache, somnolence, dizziness and rarely hypersensitivity reactions (such as urticaria, edema and anaphylaxis), psychomotor hyperactivity, movement disorders (including dystonia, tics, and extrapyramidal symptoms), seizures, and elevated liver enzymes including bilirubin and, very rarely, hepatitis and increased appetite.
+
+Cases of severe skin reactions such as acute generalized exanthematous pustulosis (AGEP) have been reported with pseudoephedrine-containing products.

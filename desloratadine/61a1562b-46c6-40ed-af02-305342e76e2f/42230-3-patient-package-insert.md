@@ -96,6 +96,7 @@ CLARINEX-D 12 Hour Extended Release Tablets may cause serious side effects, incl
   - hives
   - swelling of your lips, tongue, face, and throat
   - shortness of breath or trouble breathing
+- Severe skin reactions including signs and symptoms such as fever, reddening of the skin, or many small pimples
 
 The most common side effects of CLARINEX-D 12 HOUR Extended Release Tablets include:
 
@@ -134,8 +135,6 @@ It may harm them.
 This patient information leaflet summarizes the most important information about CLARINEX-D 12 Hour Extended Release Tablets.
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about CLARINEX-D 12 Hour Extended Release Tablets that is written for health professionals.
-
-For more information, go to www.CLARINEX.com
 
 What are the ingredients in CLARINEX-D® 12 Hour Extended Release Tablets?
 

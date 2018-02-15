@@ -22,8 +22,8 @@ If such a reaction occurs, therapy with CLARINEX-D 12 HOUR Extended Release Tabl
 
 ## 5.5 Renal Impairment
 
-CLARINEX-D 12 HOUR Extended Release Tablets should generally be avoided in patients with renal impairment [see Clinical Pharmacology (12)].
+CLARINEX-D 12 HOUR Extended Release Tablets should generally be avoided in patients with renal impairment [see Clinical Pharmacology (12.3)].
 
 ## 5.6 Hepatic Impairment
 
-CLARINEX-D 12 HOUR Extended Release Tablets should generally be avoided in patients with hepatic impairment [see Clinical Pharmacology (12)].
+CLARINEX-D 12 HOUR Extended Release Tablets should generally be avoided in patients with hepatic impairment [see Clinical Pharmacology (12.3)].
