@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "ANDA090636"
+  ],
+  "inn": "tenofovir-disoproxil",
+  "labeler": "Camber Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "31722-535-01",
+    "31722-535-05",
+    "31722-535-10",
+    "31722-535-30",
+    "31722-535-60"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "tenofovir disoproxil fumarate",
+      "name": "Tenofovir Disoproxil Fumarate"
+    }
+  ],
+  "setid": "1ac4c628-f01f-42d4-b8e6-d12273aefc6d",
+  "source": "dailymed"
+}
