@@ -31,17 +31,17 @@ What should I tell my doctor before taking MICARDIS tablets?
 
 Before you take MICARDIS tablets, tell your doctor if you:
 
-- have liver problems
-- have kidney problems
-- have heart problems
-- have any other medical conditions
 - are pregnant or are planning to become pregnant.
-  See "What is the most important information I should know about MICARDIS tablets?"
+  See “What is the most important information I should know about MICARDIS tablets?”
 - are breast-feeding or plan to breast-feed.
   It is not known if MICARDIS passes into your breast milk.
   You and your doctor should decide if you will take MICARDIS tablets or breast-feed.
   You should not do both.
   Talk with your doctor about the best way to feed your baby if you take MICARDIS tablets.
+- have liver problems
+- have kidney problems
+- have heart problems
+- have any other medical conditions
 
 Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 
@@ -51,10 +51,10 @@ MICARDIS may affect the way other medicines work, and other medicines may affect
 Especially tell your doctor if you take:
 
 - aliskiren
-- digoxin (Lanoxin®, Lanoxicaps®)
-- lithium (Eskalith®, Lithobid®)
-- medicines used to treat pain and arthritis, called non-steroidal anti-inflammatory drugs (NSAIDs), including COX-2 inhibitors
-- ramipril (Altace®) or other medicines used to treat your high blood pressure or heart problem
+- digoxin (Lanoxin®)
+- lithium (Lithobid®, lithium carbonate, lithium citrate)
+- aspirin or other non-steroidal anti-inflammatory drugs (NSAIDs)
+- other medicines used to treat your high blood pressure or heart problem
 - water pills (diuretic)
 
 Know the medicines you take.
@@ -115,12 +115,13 @@ The most common side effects of MICARDIS tablets include:
 
 These are not all the possible side effects with MICARDIS tablets.
 Tell your doctor if you have any side effect that bothers you or that does not go away.
+
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store MICARDIS tablets?
 
-- Store MICARDIS tablets between 59°F to 86°F (15°C to 30°C).
+- Store MICARDIS tablets at room temperature 68°F to 77°F (20°C to 25°C).
 - Do not remove MICARDIS tablets from blisters until right before you take them.
 
 Keep MICARDIS tablets and all medicines out of the reach of children.
@@ -136,7 +137,7 @@ This Patient Information leaflet summarizes the most important information about
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about MICARDIS tablets that is written for health professionals.
 
-For more information, call Boehringer Ingelheim Pharmaceuticals, Inc. at 1-800-542-6257, or (TTY) 1-800-459-9906.
+For more information, scan the code below or go to www.us.micardis.com or call Boehringer Ingelheim Pharmaceuticals, Inc. at 1-800-542-6257, or (TTY) 1-800-459-9906.
 
 What are the ingredients in MICARDIS tablets?
 
@@ -169,12 +170,17 @@ Peel (Peel off the paper layer from the aluminum foil)
 3.
 Push (Push the tablet through the foil)
 
+This Patient Information has been approved by the U.S. Food and Drug Administration
+
 Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA
 
 Licensed from: Boehringer Ingelheim International GmbH, Ingelheim, Germany
 
-Copyright © 2014 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+Copyright © 2018 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-Revised: December 2014
+MICARDIS® is a registered trademark of and used under license from Boehringer Ingelheim International GmbH.
+The other brands listed are trademarks of their owners.
 
-OT1200XL172014 090340194/15
+Revised: February 2018
+
+OT1200YB072018

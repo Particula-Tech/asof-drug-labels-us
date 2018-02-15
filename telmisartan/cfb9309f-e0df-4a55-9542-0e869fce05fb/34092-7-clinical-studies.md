@@ -9,7 +9,7 @@ Larger doses (up to 160 mg) did not appear to cause a further decrease in blood 
 
 Upon initiation of antihypertensive treatment with telmisartan, blood pressure was reduced after the first dose, with a maximal reduction by about 4 weeks.
 With cessation of treatment with MICARDIS tablets, blood pressure gradually returned to baseline values over a period of several days to one week.
-During long term studies (without placebo control) the effect of telmisartan appeared to be maintained for up to at least one year.
+During long-term studies (without placebo control) the effect of telmisartan appeared to be maintained for up to at least one year.
 The antihypertensive effect of telmisartan is not influenced by patient age, gender, weight, or body mass index.
 Blood pressure response in black patients (usually a low-renin population) is noticeably less than that in Caucasian patients.
 This has been true for most, but not all, angiotensin II antagonists and ACE inhibitors.
@@ -19,7 +19,7 @@ Hydrochlorothiazide also had an added blood pressure effect when added to telmis
 
 The onset of antihypertensive activity occurs within 3 hours after administration of a single oral dose.
 At doses of 20, 40, and 80 mg, the antihypertensive effect of once daily administration of telmisartan is maintained for the full 24-hour dose interval.
-With automated ambulatory blood pressure monitoring and conventional blood pressure measurements, the 24-hour trough-to-peak ratio for 40 to 80 mg doses of telmisartan was 70 to 100% for both systolic and diastolic blood pressure.
+With automated ambulatory blood pressure monitoring and conventional blood pressure measurements, the 24-hour trough-to-peak ratio for 40 to 80 mg doses of telmisartan was 70% to 100% for both systolic and diastolic blood pressure.
 The incidence of symptomatic orthostasis after the first dose in all controlled trials was low (0.04%).
 
 There were no changes in the heart rate of patients treated with telmisartan in controlled trials.
@@ -71,7 +71,7 @@ Table 3 Incidence of the Primary and Secondary Outcomes from ONTARGET
 | Composite of CV death, myocardial infarction, or stroke | 1190 (13.9%) / 1210 (14.1%) | 0.99 (0.90 – 1.08) |
 
 Although the event rates in ONTARGET were similar on telmisartan and ramipril, the results did not unequivocally rule out that MICARDIS may not preserve a meaningful fraction of the effect of ramipril in reducing cardiovascular events.
-However, the results of both ONTARGET and TRANSCEND do adequately support MICARDIS being more effective than placebo would be in this setting, particularly for the end point of time to cardiovascular death, myocardial infarction, or stroke.
+However, the results of both ONTARGET and TRANSCEND do adequately support MICARDIS being more effective than placebo would be in this setting, particularly for the endpoint of time to cardiovascular death, myocardial infarction, or stroke.
 
 In ONTARGET, there was no evidence that combining ramipril and MICARDIS reduced the risk of death from cardiovascular causes, myocardial infarction, stroke, or hospitalization for heart failure greater than ramipril alone; instead, patients who received the combination of ramipril and telmisartan in ONTARGET experienced an increased incidence of clinically important renal dysfunction (e.g., acute renal failure) compared to patients receiving MICARDIS or ramipril alone.
 

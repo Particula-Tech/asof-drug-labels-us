@@ -14,12 +14,3 @@ These effects are usually reversible.
 Monitor renal function periodically in patients receiving telmisartan and NSAID therapy.
 
 The antihypertensive effect of angiotensin II receptor antagonists, including telmisartan may be attenuated by NSAIDs including selective COX-2 inhibitors.
-
-Ramipril and Ramiprilat: Co-administration of telmisartan 80 mg once daily and ramipril 10 mg once daily to healthy subjects increases steady-state Cmax and AUC of ramipril 2.3- and 2.1-fold, respectively, and Cmax and AUC of ramiprilat 2.4- and 1.5-fold, respectively.
-In contrast, Cmax and AUC of telmisartan decrease by 31% and 16%, respectively.
-When co-administering telmisartan and ramipril, the response may be greater because of the possibly additive pharmacodynamic effects of the combined drugs, and also because of the increased exposure to ramipril and ramiprilat in the presence of telmisartan.
-Concomitant use of MICARDIS and ramipril is not recommended.
-
-Other Drugs: Co-administration of telmisartan did not result in a clinically significant interaction with acetaminophen, amlodipine, glyburide, simvastatin, hydrochlorothiazide, warfarin, or ibuprofen.
-Telmisartan is not metabolized by the cytochrome P450 system and had no effects in vitro on cytochrome P450 enzymes, except for some inhibition of CYP2C19.
-Telmisartan is not expected to interact with drugs that inhibit cytochrome P450 enzymes; it is also not expected to interact with drugs metabolized by cytochrome P450 enzymes, except for possible inhibition of the metabolism of drugs metabolized by CYP2C19.
