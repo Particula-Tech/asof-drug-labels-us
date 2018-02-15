@@ -21,15 +21,13 @@ The “max” value represents determinations at a time of maximum effect (2 to 
 
 Table 5: Range of Mean Values from Multiple Studies of the Mean Antisecretory Effects of Omeprazole After Multiple Daily Dosing
 
-| Parameter | Max | Min | Max | Min |
-| --- | --- | --- | --- | --- |
 |  | Omeprazole 20 mg |  | Omeprazole 40 mg |  |
+| --- | --- | --- | --- | --- |
+| Parameter | Max Min |  | Max Min |  |
 | % Decrease in Basal Acid Output | 781 | 58 to 80 | 941 | 80 to 93 |
 | % Decrease in Peak Acid Output | 791 | 50 to 59 | 881 | 62 to 68 |
-| % Decrease in 24–hr. Intragastric Acidity |  | 80 to 97 |  | 92 to 94 |
-
-1.
-Single Studies
+| % Decrease in 24-hr. Intragastric Acidity |  | 80 to 97 |  | 92 to 94 |
+| 1. Single Studies |  |  |  |  |
 
 Single daily oral doses of omeprazole ranging from a dose of 10 mg to 40 mg have produced 100% inhibition of 24-hour intragastric acidity in some patients.
 
@@ -39,7 +37,6 @@ In studies involving more than 200 patients, serum gastrin levels increased duri
 No further increase in serum gastrin occurred with continued treatment.
 In comparison with histamine H2-receptor antagonists, the median increases produced by 20 mg doses of omeprazole were higher (1.3 to 3.6 fold vs. 1.1 to 1.8 fold increase).
 Gastrin values returned to pretreatment levels, usually within 1 to 2 weeks after discontinuation of therapy.
-
 Increased gastrin causes enterochromaffin-like cell hyperplasia and increased serum Chromogranin A (CgA) levels.
 The increased CgA levels may cause false positive results in diagnostic investigations for neuroendocrine tumors [see Warnings and Precautions (5.10)].
 

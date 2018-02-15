@@ -8,6 +8,7 @@ The following serious adverse reactions are described below and elsewhere in lab
 - Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.5)]
 - Cyanocobalamin (Vitamin B-12) Deficiency [see Warnings and Precautions (5.7)]
 - Hypomagnesemia [see Warnings and Precautions (5.8)]
+- Fundic Gland Polyps [see Warnings and Precautions (5.12)]
 
 ## 6.1 Clinical Trials Experience with Omeprazole Monotherapy
 
@@ -63,9 +64,8 @@ Gynecomastia
 
 Gastrointestinal
 
-Pancreatitis (some fatal), anorexia, irritable colon, fecal discoloration, esophageal candidiasis, mucosal atrophy of the tongue, stomatitis, abdominal swelling, dry mouth, microscopic colitis.
-During treatment with omeprazole, gastric fundic gland polyps have been noted rarely.
-These polyps are benign and appear to be reversible when treatment is discontinued.
+Pancreatitis (some fatal), anorexia, irritable colon, fecal discoloration, esophageal candidiasis, mucosal atrophy of the tongue, stomatitis, abdominal swelling, dry mouth, microscopic colitis, fundic gland polyps.
+
 Gastroduodenal carcinoids have been reported in patients with ZE syndrome on long-term treatment with omeprazole.
 This finding is believed to be a manifestation of the underlying condition, which is known to be associated with such tumors.
 

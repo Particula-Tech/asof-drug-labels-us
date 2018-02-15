@@ -65,12 +65,12 @@ The combination of omeprazole plus clarithromycin plus amoxicillin was effective
 
 Table 9: Per-Protocol and Intent-to-Treat H. pylori Eradication Rates % of Patients Cured [95% Confidence Interval]
 
-| ­ | Per-Protocol1 | Intent-to-Treat2 | Per-Protocol1 | Intent-to-Treat2 |
+|  | Omeprazole + clarithromycin + amoxicillin |  | Clarithromycin + amoxicillin |  |
 | --- | --- | --- | --- | --- |
-| ­ | Omeprazole + clarithromycin + amoxicillin |  | Clarithromycin + amoxicillin |  |
-| Study 1 | 773 [64, 86] (n = 64) | *69 [57, 79] (n = 80) | 43 [31, 56] (n = 67) | 37 [27, 48] (n = 84) |
-| Study 2 | 783 [67, 88] (n = 65) | *73 [61, 82] (n = 77) | 41 [29, 54] (n = 68) | 36 [26, 47] (n = 83) |
-| Study 3 | 903 [80, 96] (n = 69) | *83 [74, 91] (n = 84) | 33 [24, 44] (n = 93) | 32 [23, 42] (n = 99) |
+|  | Per-Protocol1 | Intent-to-Treat2 | Per-Protocol1 | Intent-to-Treat2 |
+| Study 1 | 773 [64, 86](n = 64) | 693 [57, 79](n = 80) | 43 [31, 56](n = 67) | 37 [27, 48](n = 84) |
+| Study 2 | 783 [67, 88](n = 65) | 733 [61, 82](n = 77) | 41 [29, 54](n = 68) | 36 [26, 47](n = 83) |
+| Study 3 | 903 [80, 96](n = 69) | 833 [74, 91](n = 84) | 33 [24, 44](n = 93) | 32 [23, 42](n = 99) |
 
 1.
 Patients were included in the analysis if they had confirmed duodenal ulcer disease (active ulcer, studies 1 and 2; history of ulcer within 5 years, study 3) and H. pylori infection at baseline defined as at least two of three positive endoscopic tests from CLOtest®, histology, and/or culture.
@@ -220,18 +220,20 @@ In this and five other controlled GERD studies, significantly more patients taki
 In a U.S. double-blind, randomized, multicenter, placebo controlled study, two dose regimens of omeprazole were studied in patients with endoscopically confirmed healed esophagitis.
 Results to determine maintenance of healing of EE are shown below.
 
-| Life Table Analysis |  |  |  |
-| --- | --- | --- | --- |
+Life Table Analysis
+
 |  | Omeprazole 20 mg once daily (n = 138) | Omeprazole 20 mg 3 days per week (n = 137) | Placebo (n = 131) |
+| --- | --- | --- | --- |
 | Percent in endoscopic remission at 6 months | 701 | 34 | 11 |
 | 1. (p < 0.01) Omeprazole 20 mg once daily versus Omeprazole 20 mg 3 consecutive days per week or placebo. |  |  |  |
 
 In an international multicenter double-blind study, omeprazole 20 mg daily and 10 mg daily were compared with ranitidine 150 mg twice daily in patients with endoscopically confirmed healed esophagitis.
 The table below provides the results of this study for maintenance of healing of EE.
 
-| Life Table Analysis |  |  |  |
-| --- | --- | --- | --- |
+Life Table Analysis
+
 |  | Omeprazole 20 mg once daily (n = 131) | Omeprazole 10 mg once daily (n = 133) | Ranitidine 150 mg twice daily (n = 128) |
+| --- | --- | --- | --- |
 | Percent in endoscopic remission at 12 months | 771 | 582 | 46 |
 | 1. (p = 0.01) omeprazole 20 mg once daily versus omeprazole 10 mg once daily or Ranitidine. 2. (p = 0.03) omeprazole 10 mg once daily versus Ranitidine. |  |  |  |
 

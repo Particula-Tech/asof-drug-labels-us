@@ -204,6 +204,7 @@ Active ingredient in omeprazole delayed-release capsules: omeprazole
 
 Inactive ingredients in omeprazole delayed-release capsules: magnesium hydroxide, mannitol, methacrylic acid copolymer dispersion, povidone and triethyl citrate.
 The capsule shells have the following inactive ingredients: D&C Red No. 28*, D&C Red No.33*, D&C Yellow No. 10*, FD&C Blue No. 1*, FD&C Red No. 40*, gelatin, iron oxide red* and titanium dioxide (*contains one or more of these ingredients).
+The capsule shells have the following inactive ingredients: gelatin, red iron oxide and titanium dioxide.
 The capsule imprinting ink contains ammonium hydroxide, black iron oxide, ethyl alcohol, isopropyl alcohol, n-butyl alcohol, potassium hydroxide, propylene glycol and shellac.
 
 This Medication Guide and Instructions for Use has been approved by the U.S. Food and Drug Administration.

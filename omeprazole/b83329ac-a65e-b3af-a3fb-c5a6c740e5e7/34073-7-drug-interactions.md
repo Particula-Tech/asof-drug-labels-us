@@ -37,7 +37,7 @@ Table 3: Clinically Relevant Interactions Affecting Drugs Co-Administered with O
 | Intervention: | Monitor digoxin concentrations. Dose adjustment may be needed to maintain therapeutic drug concentrations. See digoxin prescribing information. |
 | Drugs Dependent on Gastric pH for Absorption (e.g., iron salts, erlotinib, dasatinib, nilotinib, mycophenolate mofetil, ketoconazole/itraconazole) |  |
 | Clinical Impact: | Omeprazole can reduce the absorption of other drugs due to its effect on reducing intragastric acidity. |
-| Intervention: | Mycophenolate mofetil (MMF): Co-administration of omeprazole in healthy subjects and in transplant patients receiving MMF has been reported to reduce the exposure to the active metabolite, mycophenolic acid (MPA), possibly due to a decrease in MMF solubility at an increased gastric pH. The clinical relevance of reduced MPA exposure on organ rejection has not been established in transplant patients receiving omeprazole and MMF. Use omeprazole with caution in transplant patients receiving MMF [see Clinical Pharmacology (12.3)]. See the prescribing information for other drugs dependent on gastric pH for absorption. |
+| Intervention: | Mycophenolate mofetil (MMF): Co-administration of omeprazole in healthy subjects and in transplant patients receiving MMF has been reported to reduce the exposure to the active metabolite, mycophenolic acid (MPA), possibly due to a decrease in MMF solubility at an increased gastric pH. The clinical relevance of reduced MPA exposure on organ rejection has not been established in transplant patients receiving omeprazole and MMF. Use omeprazole with caution in transplant patients receiving MMF [see Clinical Pharmacology (12.3)].See the prescribing information for other drugs dependent on gastric pH for absorption. |
 | Combination Therapy with Clarithromycin and Amoxicillin |  |
 | Clinical Impact: | Concomitant administration of clarithromycin with other drugs can lead to serious adverse reactions, including potentially fatal arrhythmias, and are contraindicated. |
 |  | Amoxicillin also has drug interactions. |
@@ -63,7 +63,7 @@ Table 4: Clinically Relevant Interactions Affecting Omeprazole When Co-Administe
 | CYP2C19 or CYP3A4 Inducers |  |
 | --- | --- |
 | Clinical Impact: | Decreased exposure of omeprazole when used concomitantly with strong inducers [see Clinical Pharmacology (12.3)]. |
-| Intervention: | St. John’s Wort, rifampin: Avoid concomitant use with omeprazole [see Warnings and Precautions (5.9)]. Ritonavir-containing products: see prescribing information for specific drugs. |
+| Intervention: | St. John’s Wort, rifampin: Avoid concomitant use with omeprazole [see Warnings and Precautions (5.9)].Ritonavir-containing products: see prescribing information for specific drugs. |
 | CYP2C19 or CYP3A4 Inhibitors |  |
 | Clinical Impact: | Increased exposure of omeprazole [see Clinical Pharmacology (12.3)]. |
-| Intervention: | Voriconazole: Dose adjustment of omeprazole is not normally required. However, in patients with Zollinger-Ellison syndrome, who may require higher doses, dose adjustment may be considered. See prescribing information for voriconazole. |
+| Intervention: | Voriconazole: Dose adjustment of omeprazole is not normally required. However, in patients with Zollinger-Ellison syndrome, who may require higher doses, dose adjustment may be considered.See prescribing information for voriconazole. |

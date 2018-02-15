@@ -11,6 +11,7 @@ Adverse Reactions Advise patients to report to their healthcare provider if they
 - Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.5)]
 - Cyanocobalamin (Vitamin B-12) Deficiency [see Warnings and Precautions (5.7)].
 - Hypomagnesemia [see Warnings and Precautions (5.8)].
+- Fundic Gland Polyps [see Warnings and Precautions (5.12)]
 
 Drug Interactions Advise patients to report to their healthcare provider if they start treatment with clopidogrel, St. John’s Wort or rifampin; or, if they take high-dose methotrexate [see Warnings and Precautions (5.6, 5.9, 5.11)].
 
@@ -35,6 +36,6 @@ APOTEX INC. OMEPRAZOLE DELAYED-RELEASE CAPSULES, USP 10 mg, 20 mg and 40 mg
 | Toronto, Ontario | Weston, Florida |
 | Canada M9L 1T9 | USA 33326 |
 
-Revised: February 2017
+Revised: February 2018
 
-Revision: 21
+Revision: 22
