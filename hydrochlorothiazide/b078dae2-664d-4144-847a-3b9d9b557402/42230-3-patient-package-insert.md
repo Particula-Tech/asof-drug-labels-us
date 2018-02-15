@@ -23,14 +23,14 @@ Your doctor may prescribe other medicines for you to take along with MICARDIS HC
 It is not known if MICARDIS HCT is safe and effective in children.
 
 - have low or no urine output
-- are allergic (hypersensitive) to the active ingredients (telmisartan or hydrochlorothiazide) or any of the other ingredients listed at the end of this leaflet.
+- are allergic (hypersensitive) to the active ingredients (telmisartan or hydrochlorothiazide) or any of the other ingredients listed at the end of this leaflet
 
 What should I tell my doctor before using MICARDIS HCT tablets?
 
 Before you take MICARDIS HCT tablets, tell your doctor if you:
 
 - are pregnant or are planning to become pregnant.
-  See "What is the most important information I should know about MICARDIS HCT tablets?"
+  See “What is the most important information I should know about MICARDIS HCT tablets?”
 - are breast-feeding or plan to breast-feed.
   MICARDIS HCT can pass into your breast milk and may harm your baby.
   You and your doctor should decide if you will take MICARDIS HCT or breast-feed.
@@ -52,7 +52,7 @@ Especially tell your doctor if you take:
 
 - aliskiren
 - digoxin (Lanoxin®)
-- lithium (Lithobid®)
+- lithium (Lithobid®, lithium carbonate, lithium citrate)
 - other medicines used to treat your high blood pressure or a heart problem
 - water pills (diuretic)
 - aspirin or other non-steroidal anti-inflammatory drugs (NSAIDs)
@@ -62,7 +62,7 @@ Especially tell your doctor if you take:
 - sleeping pills
 - steroid medicine or Adrenocorticotrophic Hormone (ACTH)
 - barbiturates
-- certain cholesterol lowering medicines (resins that are used for cholesterol reduction, e.g.,cholestyramine and colestipol resins)
+- certain cholesterol lowering medicines (resins that are used for cholesterol reduction, e.g., cholestyramine and colestipol resins)
 
 Ask your doctor if you are not sure if you are taking one of the medicines listed above.
 
@@ -85,7 +85,7 @@ What are the possible side effects of MICARDIS HCT tablets?
 MICARDIS HCT tablets may cause serious side effects, including:
 
 - Injury or death to your unborn baby.
-  See "What is the most important information I should know about MICARDIS HCT tablets?"
+  See “What is the most important information I should know about MICARDIS HCT tablets?”
 - Low blood pressure (hypotension) is most likely to happen if you also:If you feel faint or dizzy, lie down and call your doctor right away.
   - take water pills (diuretics)
   - are on a low-salt diet
@@ -100,6 +100,12 @@ MICARDIS HCT tablets may cause serious side effects, including:
   - swelling in your feet, ankles, or hands
   - unexplained weight gain
 - Liver problems, which may get worse in people who already have liver problems and take MICARDIS HCT.
+- Eye problems.
+  One of the medicines in MICARDIS HCT can cause eye problems that may lead to vision loss.
+  Symptoms of eye problems can happen within hours to weeks of starting MICARDIS HCT.
+  Tell your doctor right away if you have:
+  - decrease in vision
+  - eye pain
 - Allergic reactions.
   Tell your doctor right away if you get any of these symptoms:
   - swelling of the face, tongue, throat
@@ -128,12 +134,12 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store MICARDIS HCT tablets?
 
-- Store MICARDIS HCT tablets between 59°F to 86°F (15°C to 30°C).
+- Store MICARDIS HCT tablets at room temperature 68°F to 77°F (20°C to 25°C).
 - Do not remove MICARDIS HCT tablets from blisters until right before you take them.
 
 Keep MICARDIS HCT tablets and all medicines out of the reach of children.
 
-General information about MICARDIS HCT tablets
+General information about MICARDIS HCT tablets:
 
 Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
 Do not use MICARDIS HCT tablets for a condition for which it was not prescribed.
@@ -144,7 +150,7 @@ This Patient Information leaflet summarizes the most important information about
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about MICARDIS HCT tablets that is written for health professionals.
 
-For more information, go to www.mymicardis.com or call Boehringer Ingelheim Pharmaceuticals, Inc. at 1-800-542-6257 or (TTY) 1-800-459-9906.
+For current prescribing information, scan the code below or call Boehringer Ingelheim Pharmaceuticals, Inc. at 1-800-542-6257 or (TTY) 1-800-459-9906.
 
 What are the ingredients in MICARDIS HCT tablets?
 
@@ -182,10 +188,10 @@ Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 
 
 Licensed from: Boehringer Ingelheim International GmbH Ingelheim, Germany
 
-Copyright © 2016 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+Copyright © 2018 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-MICARDIS® is a registered trademark under license from Boehringer Ingelheim International GmbH.
+MICARDIS® is a registered trademark of and used under license from Boehringer Ingelheim International GmbH.
 
-Revised: January 2016
+Revised: February 2018
 
-IT5825CA152016 090340139/7
+IT5825DB072018

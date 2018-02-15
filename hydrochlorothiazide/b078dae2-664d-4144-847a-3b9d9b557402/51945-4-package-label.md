@@ -21,11 +21,3 @@ Micardis HCT
 30 Tablets
 
 NDC 0597-0044-37
-
-Micardis HCT
-
-80 mg/12.5 mg
-
-7 Tablets
-
-NDC 0597-0044-70

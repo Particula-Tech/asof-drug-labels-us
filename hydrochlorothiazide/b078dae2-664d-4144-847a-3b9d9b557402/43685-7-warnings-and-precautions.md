@@ -2,12 +2,12 @@
 
 ## 5.1 Fetal Toxicity
 
-Pregnancy Category D Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death.
+Telmisartan Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death.
 Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations.
 Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death.
 When pregnancy is detected, discontinue MICARDIS HCT as soon as possible.
 
-Thiazides cross the placental barrier and appear in cord blood.
+Hydrochlorothiazide Thiazides cross the placental barrier and appear in cord blood.
 Adverse reactions include fetal or neonatal jaundice and thrombocytopenia [see Use in Specific Populations (8.1)].
 
 ## 5.2 Hypotension in Volume- or Salt-Depleted Patients
@@ -24,7 +24,7 @@ Consider withholding or discontinuing therapy in patients who develop a clinical
 
 ## 5.4 Electrolytes and Metabolic Disorders
 
-Drugs, including telmisartan, that inhibit the renin-angiotensin system can cause hyperkalemia, particularly in patients with renal insufficiency, diabetes, or combination use with other angiotensin receptor blockers or ACE inhibitors and the concomitant use of other drugs that raise serum potassium levels [see Drug Interactions (7.1,7.4)].
+Drugs, including telmisartan, that inhibit the renin-angiotensin system can cause hyperkalemia, particularly in patients with renal insufficiency, diabetes, or combination use with other angiotensin receptor blockers or ACE inhibitors and the concomitant use of other drugs that raise serum potassium levels [see Drug Interactions (7.1, 7.4)].
 
 Hydrochlorothiazide can cause hypokalemia and hyponatremia.
 Thiazides have been shown to increase the urinary excretion of magnesium; this may result in hypomagnesemia.

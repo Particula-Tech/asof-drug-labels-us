@@ -5,7 +5,7 @@
 Initiate a patient whose blood pressure is not adequately controlled with telmisartan monotherapy 80 mg on MICARDIS HCT, 80 mg/12.5 mg once daily.
 Dose can be titrated up to 160 mg/25 mg after 2 to 4 weeks, if necessary.
 
-Initiate a patient whose blood pressure is not adequately controlled by 25 mg once daily of hydrochlorothiazide, or is controlled but who experiences hypokalemia with this regimen on MICARDIS HCT 80 mg / 12.5 mg once daily.
+Initiate a patient whose blood pressure is not adequately controlled by 25 mg once daily of hydrochlorothiazide, or is controlled but who experiences hypokalemia with this regimen on MICARDIS HCT 80 mg/12.5 mg once daily.
 Dose can be titrated up to 160 mg/25 mg after 2 to 4 weeks, if necessary.
 
 Patients titrated to the individual components (telmisartan and hydrochlorothiazide) may instead receive the corresponding dose of MICARDIS HCT.
@@ -15,7 +15,7 @@ MICARDIS HCT may be administered with other antihypertensive drugs.
 ## 2.2 Dose Adjustment for Hepatic Impairment
 
 Initiate patients with biliary obstructive disorders or hepatic insufficiency under close medical supervision using the 40 mg/12.5 mg combination.
-MICARDIS HCT tablets are not recommended for patients with severe hepatic impairment [see Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
+MICARDIS HCT tablets are not recommended for patients with severe hepatic impairment [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
 ## 2.3 Important Administration Instructions
 
