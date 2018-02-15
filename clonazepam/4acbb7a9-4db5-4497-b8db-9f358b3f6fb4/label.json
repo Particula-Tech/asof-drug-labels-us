@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "ANDA077856"
+  ],
+  "inn": "clonazepam",
+  "labeler": "Solco Healthcare LLC",
+  "package_ndcs": [
+    "43547-406-10",
+    "43547-406-11",
+    "43547-406-50",
+    "43547-407-10",
+    "43547-407-11",
+    "43547-407-50",
+    "43547-408-10",
+    "43547-408-50"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "clonazepam",
+      "name": "Clonazepam"
+    }
+  ],
+  "setid": "4acbb7a9-4db5-4497-b8db-9f358b3f6fb4",
+  "source": "dailymed"
+}
