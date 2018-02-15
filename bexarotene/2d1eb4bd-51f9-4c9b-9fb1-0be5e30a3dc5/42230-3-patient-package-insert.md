@@ -1,156 +1,28 @@
-# PATIENT'S INSTRUCTIONS FOR USE
+# Patient Information
 
-BEXAROTENE (beks-AIR-oh-teen) CAPSULES, 75 MG
+| BEXAROTENE (beks-AIR-oh-teen) capsules |  |  |  |
+| --- | --- | --- | --- |
+| What is the most important information I should know about bexarotene capsules?Bexarotene capsules can cause serious side effects, including major birth defects to an unborn baby, if taken during pregnancy.For females who can become pregnant: •You should avoid becoming pregnant during treatment with bexarotene capsules.•Do not take bexarotene capsules if you are pregnant or plan to become pregnant.•Your healthcare provider will do a pregnancy test, within one week before you start bexarotene capsules, and each month during treatment with bexarotene capsules to make sure that you are not pregnant.•You must use two effective forms of birth control together starting one month before you begin treatment with bexarotene capsules, during treatment, and for one month after stopping bexarotene capsules. Birth control pills (oral contraceptives) and other hormonal forms of birth control may not be effective if used with bexarotene capsules. At least one of the forms of birth control that you choose should not contain hormones. Talk to your healthcare provider about what forms of birth control may be right for you during treatment with bexarotene capsules.•You should start taking bexarotene capsules on the second or third day of a normal menstrual period. Follow your healthcare provider’s instructions about when to start bexarotene capsules.•Call your healthcare provider right away, if you become pregnant or think that you are pregnant during treatment with bexarotene capsules, and for one month after you stop taking bexarotene capsules. For males: •You must use a condom with female partners who are pregnant, might be pregnant, or who are able to become pregnant, during treatment with bexarotene capsules and for at least one month after your last dose. |  |  |  |
+| What are bexarotene capsules?Bexarotene capsules are prescription medicine used to treat the skin problems that happen with a type of cancer called cutaneous T-cell lymphoma (CTCL) after treatment with at least one other type of medicine by mouth or injection, did not work or has stopped working.It is not known if bexarotene capsules is safe and effective in children. |  |  |  |
+| Who should not take bexarotene capsules? Do not take bexarotene capsules: •if you are pregnant or plan to become pregnant. See “What is the most important information I should know about bexarotene capsules?”•if you are allergic to bexarotene or any of the ingredients in bexarotene capsules. See the end of this leaflet for a complete list of ingredients in bexarotene capsules. |  |  |  |
+| Before taking bexarotene capsules, tell your healthcare provider about all of your medical conditions, including if you: •have or have had problems with your pancreas, including pancreatitis•have or have had gallbladder problems•have or have had liver problems•have thyroid problems•have diabetes•have high levels of fats (lipids) called cholesterol or triglycerides in your blood•have cataracts or a history of cataracts•drink alcohol•are pregnant, plan to become pregnant, or think you may be pregnant. See “What is the most important information I should know about bexarotene capsules?”•are breastfeeding or plan to breastfeed. It is not known if bexarotene passes into your breast milk. You should not breastfeed during treatment with bexarotene capsules. Talk to your healthcare provider about the best way to feed your baby during treatment with bexarotene capsules. Tell your healthcare provider about all of the medicines you take, including prescription and over-the counter medicines, vitamins, and herbal supplements. Using bexarotene capsules with certain other medicines can affect each other. |  |  |  |
+| How should I take bexarotene capsules? •Take bexarotene capsules exactly as your healthcare provider tells you.•Your healthcare provider will tell you how many bexarotene capsules to take each day. Your healthcare provider may change your daily dose of bexarotene capsules as needed to treat your CTCL or if you get certain side effects. You should not change your dose unless your healthcare provider tells you to. Take your dose of bexarotene capsules 1 time a day with a meal. Your healthcare provider will do blood tests before you start bexarotene capsules and during treatment to check for side effects. |  |  |  |
+| What should I avoid while taking bexarotene capsules? •Limit your exposure to sunlight and artificial types of sunlight. Bexarotene capsules can make your skin more sensitive to sunlight and you can get sunburn.•Limit the amount of vitamin A that you take during treatment with bexarotene capsules. Large doses of vitamin A may cause side effects that are similar to side effects that can happen in people who take bexarotene capsules. |  |  |  |
+| What are the possible side effects of bexarotene capsules? Bexarotene capsules can cause serious side effects, including: •See “What is the most important information I should know about bexarotene capsules?”•Increased levels of fats (lipids) called cholesterol or triglycerides, in your blood are common with bexarotene capsules, but can also be serious. Your healthcare provider may prescribe you medicines to treat high cholesterol or triglycerides levels, reduce your dose, temporarily stop treatment or completely stop treatment with bexarotene capsules if you have this problem.•Inflammation of the pancreas (acute pancreatitis). Bexarotene capsules can sometimes cause pancreatitis that comes on suddenly (acute), and that can lead to death. Your risk of developing acute pancreatitis may be greater if you: |  |  |  |
+| ohave had pancreatitis in the pastohigh levels of fats in your blood that are not controlledodrink large amounts of alcoholohave gallbladder problems |  | ohave diabetes that is not controlledotake certain medicines that can increase the amount of triglycerides in your bloodotake medicines that can harm your pancreas |  |
+| Tell your healthcare provider right away if you develop signs or symptoms of pancreatitis during treatment with bexarotene capsules, including: |  |  |  |
+| onausea that will not go away | ovomiting |  | ostomach-area (abdominal) or back pain |
+| •Liver problems, including liver failure. Bexarotene capsules can cause increased liver function blood test results, or liver problems that can lead to death.•Thyroid problems (hypothyroidism) are common with bexarotene capsules. Your healthcare provider may prescribe thyroid hormone treatment for you if needed.•Low white blood cell count is common with bexarotene capsules, but may sometimes be severe.•New or worse cataracts. Tell your healthcare provider about any changes in your vision during treatment with bexarotene capsules. You may need to have an eye examination.•Risk of low blood sugar in people who have diabetes. Bexarotene capsules can interact with certain medicines used to treat diabetes, such as insulin, sulfonylurea medicines, and thiazolinedione medicines. If you have diabetes, talk to your healthcare provider about your diabetes medicines and your risk for low blood sugar if you take bexarotene capsules. The most common side effects of bexarotene capsules include: |  |  |  |
+| •headache•asthenia•rash•nausea |  | •infection•stomach-area (abdomen) pain•swelling of your hands, arms, feet or legs•dry skin |  |
+| These are not all the possible side effects of bexarotene capsules. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |  |  |  |
+| How should I store bexarotene capsules? •Store bexarotene capsules between 36°F to 77°F (2°C to 25°C).•Store the bexarotene capsules bottle away from light, heat, and humidity.•The capsules should not be taken after the expiration date printed on the bottle. Keep bexarotene capsules and all medicines out of the reach of children. |  |  |  |
+| General information about the safe and effective use of bexarotene capsulesMedicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use bexarotene capsules for a condition for which it was not prescribed. Do not give bexarotene capsules to other people, even if they have the same symptoms that you have. It may harm them. You can ask your pharmacist or healthcare provider for information about bexarotene capsules that is written for health professionals. |  |  |  |
+| What are the ingredients in bexarotene capsules?Active ingredient: bexaroteneInactive ingredients: polyethylene glycol 400, polysorbate 20, povidone, and butylated hydroxyanisole. The capsule shell contains gelatin, water, sorbitol sorbitan solution, glycerin and titanium dioxide. The imprinting ink contains hypromellose, iron oxide black, and polyethylene glycol.Manufactured for: Mylan Pharmaceuticals Inc, Morgantown, WV 26505All trademarks or registered trademarks are the trademarks or registered trademarks of their respective owners. For more information, call 1-877-446-3679 (1-877-4-INFO-RX) |  |  |  |
 
-To help you get the full benefits from this medicine, you should read this leaflet carefully and ask your doctor to explain anything you do not understand.
+This Patient Information has been approved by the U. S. Food and Drug Administration.
 
-What are the most important things I should know about Bexarotene (beks-AIR-oh-teen) capsules?
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-• Bexarotene (beks-AIR-oh-teen) capsules can cause major damage to a fetus.
-Pregnancy must be avoided in patients receiving Bexarotene (beks-AIR-oh-teen) capsules.
+Manufactured by: Banner Pharmacaps Inc. 4125 Premier Drive High Point, NC 27265
 
-• Bexarotene (beks-AIR-oh-teen) capsules can greatly increase blood levels of lipids (triglycerides and cholesterol) and these levels must be monitored and, if elevated, treated.
-
-• Bexarotene (beks-AIR-oh-teen) capsules can cause an underactive thyroid and periodic blood tests will be needed to detect this.
-Medication to control the condition may be necessary.
-
-| Do not take Bexarotene (beks-AIR-oh-teen) capsules if you are pregnant or if you plan to become pregnant.• Bexarotene (beks-AIR-oh-teen) capsules may harm your fetus (unborn baby). You should contact your doctor immediately if you believe or suspect you are pregnant while you are taking Bexarotene (beks-AIR-oh-teen) capsules and until one month after you stop taking Bexarotene (beks-AIR-oh-teen) capsules.• If you are capable of becoming pregnant, you must have a pregnancy test, within one week before you start Bexarotene (beks-AIR-oh-teen) capsule therapy and monthly while you are taking Bexarotene (beks-AIR-oh-teen) capsules, confirming you are not pregnant.• You must use effective contraception (birth control) continuously starting one month before beginning treatment with Bexarotene (beks-AIR-oh-teen) capsules until one month after you stop taking Bexarotene (beks-AIR-oh-teen) capsules. It is strongly recommended that two reliable forms of contraception be used together. At least one of these two forms of contraception should include condoms, diaphragms, cervical caps, IUDs, or spermicides.• If you are male and your partner is pregnant or capable of becoming pregnant, you should discuss with your doctor the precautions you should take. |  |
-| --- | --- |
-
-What are Bexarotene (beks-AIR-oh-teen) capsules?
-
-Bexarotene (beks-AIR-oh-teen) capsules contain bexarotene (beks-AIR-oh-teen).
-Bexarotene (beks-AIR-oh-teen) capsules belong to a class of medicines known as retinoids.
-Each white to off-white, oblong soft gelatin Bexarotene capsule (beks-AIR-oh-teen) contains 75 mg of bexarotene (beks-AIR-oh-teen).
-Each capsule is printed with “B75” in black ink.
-
-What are the uses for Bexarotene (beks-AIR-oh-teen)capsules?
-
-This medicine is used to treat the skin problems arising from a disease called cutaneous T-cell lymphoma, or CTCL.
-Your doctor must supervise the use of Bexarotene (beks-AIR-oh-teen) capsules.
-
-Do not take Bexarotene (beks-AIR-oh-teen) capsules if you are allergic to this medicine.
-
-If you have any of the following conditions, make sure you have discussed them with your doctor before you start to take this medicine.
-
-• You are pregnant or think you may be pregnant.
-
-• You have or previously had an inflamed pancreas (pancreatitis).
-
-• You are breastfeeding.
-
-• You are taking gemfibrozil (Lopid®)*, a medication to reduce high triglyceride cholesterol (fats) levels in the blood.
-
-• You are taking tamoxifen (Nolvadex®)+,paclitaxel (Taxol®)***, and atorvastatin (Lipitor®)**
-
-• You are taking oral or systemic hormonal contraceptives.
-
-Medical conditions you should tell your doctor about.
-
-• If you are allergic to retinoid medications (for example: Accutane® [isotretinoin], Soriatane® [acitretin], Tegison® [etretinate], Vesanoid® [tretinoin])++
-
-• If you have or ever had high triglyceride (a fatty substance) levels in your blood.
-
-• If you have diabetes mellitus (sugar diabetes).
-
-• If you have a history of or currently have gall bladder disease.
-
-• If you have or have had any liver disease.
-
-• If you regularly drink more than a small amount of alcohol.
-
-• If you are currently taking any prescription medication especially for fungal infections, bacterial infections, or seizures.
-
-• If you eat a lot of grapefruit or drink a lot of grapefruit juice.
-
-When should you be extra careful while taking Bexarotene (beks-AIR-oh-teen) capsules?
-
-• Because vitamin A in large doses may cause some side effects which are similar to those seen in patients taking Bexarotene (beks-AIR-oh-teen) capsules, do not take more than the recommended daily dietary allowance of vitamin A (4000 to 5000 International Units).
-If you take vitamins, check the label to see how much vitamin A they contain.
-If you are not sure, ask your doctor or pharmacist.
-
-• Your skin may become more sensitive to sunlight while taking this medicine.
-Minimize exposure to sunlight and do not use a sunlamp.
-
-How should Bexarotene (beks-AIR-oh-teen) capsules be taken?
-
-• Always take Bexarotene (beks-AIR-oh-teen) capsules the way your doctor tells you.
-
-• Your doctor will tell you how many Bexarotene (beks-AIR-oh-teen) capsules to take each day.
-You should take your daily dose of Bexarotene (beks-AIR-oh-teen) capsules all at once.
-It is best to take them once each day with or immediately following a meal.
-For example, you might always take your daily amount of Bexarotene (beks-AIR-oh-teen) capsules with your evening meal.
-
-• Always swallow each capsule whole; do not chew them or dissolve them in liquid or in your mouth.
-Depending on your health and condition, your doctor may change your daily dose (the number of capsules you are taking) during your treatment.
-
-• If you miss a dose, take it as soon as possible, with food.
-However, if it is nearly time for your next dose, skip the missed dose and continue your dose schedule as before.
-Do not take a double dose.
-
-• If you take too many Bexarotene (beks-AIR-oh-teen) capsules or someone else accidentally takes your medicine, contact your doctor, emergency room or the nearest hospital immediately.
-
-How long before you can expect your CTCL to improve on Bexarotene (beks-AIR-oh-teen) capsule treatment?
-
-• Although some patients saw improvement within the first several weeks of Bexarotene (beks-AIR-oh-teen) capsule treatment, most patients required several months or more of treatment to improve.
-
-• Your doctor should determine how long you should be taking Bexarotene (beks-AIR-oh-teen) capsules, and when treatment may be stopped.
-
-What side effects do Bexarotene (beks-AIR-oh-teen) capsules have?
-
-The most common side effect is an increase in blood lipids (fats in the blood).
-Periodic blood tests will be needed to determine blood levels of lipids, including triglycerides and cholesterol.
-Medication may be needed to control high fat levels in the blood.
-
-Another common side effect is underactive thyroid.
-The symptoms of underactive thyroid may be difficult to detect because they may develop very gradually and may be very mild.
-For example, you may begin to feel always tired, low on energy, or feeling unusually cold all the time.
-A thyroid hormone medication is readily available to fully control these temporary symptoms, so contact your doctor early if you feel you are beginning to experience any of these symptoms.
-Periodic blood tests will be needed to detect this.
-
-When should you call your doctor about possible complications of Bexarotene (beks-AIR-oh-teen) capsule treatment?
-
-As an infrequent side effect of Bexarotene (beks-AIR-oh-teen) capsule treatment, pancreatitis (inflamed pancreas) may occur.
-Symptoms of pancreatitis include persistent nausea, vomiting, and abdominal or back pain.
-If you develop any of these symptoms while taking Bexarotene (beks-AIR-oh-teen) capsules, contact your doctor immediately.
-
-All medications have side effects.
-You should call your physician regarding any questions or concerns you may have when taking Bexarotene (beks-AIR-oh-teen)capsules.
-You can get more information by calling Mylan Pharmaceuticals Inc. at the following toll free number 1-877-446-3679 (1-877-4-INFO-RX).
-
-How should Bexarotene (beks-AIR-oh-teen) capsules be stored?
-
-• The capsules should be stored in a dry place in a closed container, away from light and heat.
-Store at 2°-25°C (36°-77°F).
-
-• The capsules should not be used after the expiration date printed on the bottle.
-
-• Keep this medicine out of the reach and sight of children.
-
-If Bexarotene (beks-AIR-oh-teen) capsules are broken or leaking, do not touch the capsules or the contents and notify your pharmacist immediately.
-Should the contents of a broken capsule get on your skin, immediately wash the area with soap and water and notify your physician.
-
-Further Information
-
-• You can get more information on Bexarotene (beks-AIR-oh-teen) capsules from your doctor or pharmacist.
-
-Call your doctor for medical advice about side effects.
-You may report side effects to FDA at
-
-1-800-FDA-1088.
-
-* Lopid® (gemfibrozil tablets, USP) is a registered trademark of Parke-Davis, Division of Warner-Lambert Co.
-
-+ Nolvadex® (tamoxifen citrate) is a registered trademark of AstraZeneca LP.
-
-++ Accutane® (isotretinoin) is a registered trademark of Roche Pharmaceuticals, Roche Laboratories Inc.
-
-++ Soriatane® (acitretin) is a registered trademark of Roche Pharmaceuticals, Roche Laboratories Inc.
-
-++ Tegison® (etretinate) is a registered trademark of Roche Pharmaceuticals, Roche Laboratories, Inc.
-
-++ Vesanoid® (tretinoin) is a registered trademark of Roche Pharmaceuticals, Roche Laboratories Inc.
-
-** Lipitor® (atorvastatin calcium) is a registered trademark of Pfizer Inc.
-
-***Taxol (paclitaxel) is a registered trademark of Bristol Myers Squib Company
+Revised: 06/2017 BNR:PL:BEXA:R2p

@@ -1,8 +1,5 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
-Doses up to 1000 mg/m2/day of Bexarotene capsules have been administered in short-term studies in patients with advanced cancer without acute toxic effects.
-Single doses of 1500 mg/kg and 720 mg/kg were tolerated without significant toxicity in rats and dogs, respectively.
+Doses up to 1,000 mg/m2/day of bexarotene have been administered in short-term trials in patients with advanced cancer without acute toxic effects.
+Single doses of 1,500 mg/kg and 720 mg/kg were tolerated without significant toxicity in rats and dogs, respectively.
 These doses are approximately 30 and 50 times, respectively, the recommended human dose on a mg/m2 basis.
-
-No clinical experience with an overdose of Bexarotene capsules has been reported.
-Any overdose with Bexarotene capsules should be treated with supportive care for the signs and symptoms exhibited by the patient.
