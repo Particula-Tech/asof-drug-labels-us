@@ -15,11 +15,11 @@ Hospira
 
 Hospira, Inc. Lake Forest, IL 60045 USA
 
-# PRINCIPAL DISPLAY PANEL - 1 mL Ampule Container
-
-NDC 0409-1212-01
+# PRINCIPAL DISPLAY PANEL - 1 mL Ampule Container Label
 
 1 mL 10 Single-dose Ampuls
+
+NDC 0409-1212-01
 
 NALOXONE HYDROCHLORIDE Injection, USP 0.4 mg/mL
 
@@ -36,11 +36,7 @@ Store at 20 to 25°C (68 to 77°F).
 
 Rx only
 
-©Hospira 2004
-
-Printed in USA
-
-HOSPIRA, INC., LAKE FOREST, IL 60045 USA
+©Hospira 2004 Printed in USA HOSPIRA, INC., LAKE FOREST, IL 60045 USA
 
 Hospira
 
@@ -55,6 +51,7 @@ NDC 0409-1215-01
 NALOXONE HCl Injection, USP 0.4 mg/mL
 
 For I.V., I.M., or S.C. use.
+
 Protect from light.
 
 Rx only
@@ -67,7 +64,9 @@ HOSPIRA, INC., LAKE FOREST, IL 60045 USA
 
 # PRINCIPAL DISPLAY PANEL - 1 mL Vial Carton
 
-1 mL Single-dose Fliptop Vial 10 Units/ NDC 0409-1215-01
+1 mL Single-dose Fliptop Vial
+
+10 Units/ NDC 0409-1215-01
 
 NALOXONE HYDROCHLORIDE Injection, USP
 
@@ -87,9 +86,7 @@ Hospira
 
 10 mL Multiple-dose
 
-NALOXONE HCl Inj., USP
-
-0.4 mg/mL
+NALOXONE HCl Inj., USP 0.4 mg/mL
 
 Rx only
 

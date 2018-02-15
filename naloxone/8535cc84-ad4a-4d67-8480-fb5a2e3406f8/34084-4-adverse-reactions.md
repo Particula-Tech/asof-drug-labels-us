@@ -4,7 +4,7 @@ Postoperative
 
 The following adverse events have been associated with the use of naloxone hydrochloride injection in postoperative patients: hypotension, hypertension, ventricular tachycardia and fibrillation, dyspnea, pulmonary edema, and cardiac arrest.
 Death, coma, and encephalopathy have been reported as sequelae of these events.
-Excessive doses of naloxone in postoperative patients may result in significant reversal of analgesia and may cause agitation (see PRECAUTIONS and DOSAGE and ADMINISTRATION; Usage in Adults-Postoperative Opioid Depression).
+Excessive doses of naloxone in postoperative patients may result in significant reversal of analgesia and may cause agitation (see PRECAUTIONS and DOSAGE AND ADMINISTRATION; Usage in Adults-Postoperative Opioid Depression).
 
 Opioid Depression
 

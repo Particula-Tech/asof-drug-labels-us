@@ -13,8 +13,10 @@ Store at 20 to 25°C (68 to 77°F).
 
 Protect from light.
 
-Revised: January, 2007
-
-Printed in USA EN-1367
+Printed in USA
 
 Hospira, Inc., Lake Forest, IL 60045 USA
+
+LAB-1216-1.0
+
+Revised: 01/2018
