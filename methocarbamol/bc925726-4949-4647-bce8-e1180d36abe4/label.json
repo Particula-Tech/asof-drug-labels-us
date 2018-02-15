@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA205404"
+  ],
+  "inn": "methocarbamol",
+  "labeler": "Sagent Pharmaceuticals",
+  "package_ndcs": [
+    "25021-675-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "methocarbamol",
+      "name": "Methocarbamol"
+    }
+  ],
+  "setid": "bc925726-4949-4647-bce8-e1180d36abe4",
+  "source": "dailymed"
+}
