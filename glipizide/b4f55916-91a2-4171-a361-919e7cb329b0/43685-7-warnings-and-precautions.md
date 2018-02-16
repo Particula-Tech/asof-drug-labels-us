@@ -103,6 +103,8 @@ Studies in rats of both sexes at doses up to 75 times the human dose showed no e
 
 ## Pregnancy
 
+### Pregnancy Category C
+
 GLUCOTROL (glipizide) was found to be mildly fetotoxic in rat reproductive studies at all dose levels (5–50 mg/kg).
 This fetotoxicity has been similarly noted with other sulfonylureas, such as tolbutamide and tolazamide.
 The effect is perinatal and believed to be directly related to the pharmacologic (hypoglycemic) action of GLUCOTROL.
@@ -112,7 +114,7 @@ GLUCOTROL should be used during pregnancy only if the potential benefit justifie
 
 Because recent information suggests that abnormal blood glucose levels during pregnancy are associated with a higher incidence of congenital abnormalities, many experts recommend that insulin be used during pregnancy to maintain blood glucose levels as close to normal as possible.
 
-## Nonteratogenic Effects
+### Nonteratogenic Effects
 
 Prolonged severe hypoglycemia (4 to 10 days) has been reported in neonates born to mothers who were receiving a sulfonylurea drug at the time of delivery.
 This has been reported more frequently with the use of agents with prolonged half-lives.

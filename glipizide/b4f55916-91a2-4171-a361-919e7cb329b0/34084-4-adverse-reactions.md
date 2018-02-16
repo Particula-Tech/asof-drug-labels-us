@@ -11,7 +11,7 @@ See PRECAUTIONS and OVERDOSAGE sections.
 
 Gastrointestinal disturbances are the most common reactions.
 Gastrointestinal complaints were reported with the following approximate incidence: nausea and diarrhea, one in seventy; constipation and gastralgia, one in one hundred.
-They appear to be dose-related and may disappear on division or reduction of dosage.
+They appear to be dose related and may disappear on division or reduction of dosage.
 Cholestatic jaundice may occur rarely with sulfonylureas: GLUCOTROL should be discontinued if this occurs.
 
 ## Dermatologic
