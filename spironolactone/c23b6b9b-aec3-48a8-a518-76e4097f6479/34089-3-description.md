@@ -4,6 +4,6 @@ Spironolactone oral tablets contain 25 mg, 50 mg, or 100 mg of the aldosterone a
 
 Spironolactone is practically insoluble in water, soluble in alcohol, and freely soluble in benzene and in chloroform.
 
-Spironolactone tablets, 25 mg contain the following inactive ingredients: anhydrous lactose, colloidal silicon dioxide, crospovidone, docusate sodium 85%/sodium benzoate 15%, entrapped peppermint flavor, magnesium stearate, microcrystalline cellulose, and sodium starch glycolate.
+Spironolactone tablets, 25 mg contain the following inactive ingredients: anhydrous lactose, colloidal silicon dioxide, povidone, docusate sodium 85%/sodium benzoate 15%, entrapped peppermint flavor, magnesium stearate, microcrystalline cellulose, and sodium starch glycolate.
 
 Spironolactone tablets, 50 mg and 100 mg contain the following inactive ingredients: anhydrous lactose, carnauba wax, colloidal silicon dioxide, docusate sodium 85%/sodium benzoate 15%, entrapped peppermint flavor, hypromellose, magnesium stearate, microcrystalline cellulose, polydextrose, polyethylene glycol, povidone, sodium starch glycolate, titanium dioxide, and triacetin.
