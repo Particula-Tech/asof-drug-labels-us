@@ -13,5 +13,8 @@ See FDA-Approved Patient Labeling (Medication Guide).
 - When using combination therapy with insulin or other antidiabetic medications, the risks of hypoglycemia, its symptoms and treatment, and conditions that predispose to its development should be explained to patients and their family members.
 - Inform female patients that treatment with pioglitazone, like other thiazolidinediones, may result in an unintended pregnancy in some premenopausal anovulatory females due to its effect on ovulation [see Use in Specific Populations (8.3)].
 
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 090, India Licensed – United States Patents Nos. 5,965,584, 6,166,043, 6,172,090, 6,211,205, 6,271,243, 6,329,404, and 6,303,640.
-Revised: 12/2016 Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520
+
+Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India
+
+Revised: 02/2018 Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides

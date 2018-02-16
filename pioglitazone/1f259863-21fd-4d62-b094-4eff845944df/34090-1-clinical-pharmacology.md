@@ -20,7 +20,7 @@ In patients with type 2 diabetes, the decreased insulin resistance produced by p
 In controlled clinical trials, pioglitazone had an additive effect on glycemic control when used in combination with a sulfonylurea, metformin, or insulin [see Clinical Studies (14.2)].
 Patients with lipid abnormalities were included in clinical trials with pioglitazone.
 Overall, patients treated with pioglitazone had mean decreases in serum triglycerides, mean increases in HDL cholesterol, and no consistent mean changes in LDL and total cholesterol.
-There is no conclusive evidence of macrovascular benefit with pioglitazone or any other antidiabetic medication [see Warnings and Precautions (5.8) and Adverse Reactions (6.1)].
+There is no conclusive evidence of macrovascular benefit with pioglitazone [see Warnings and Precautions (5.8) and Adverse Reactions (6.1)].
 In a 26-week, placebo-controlled, dose-ranging monotherapy study, mean serum triglycerides decreased in the 15 mg, 30 mg, and 45 mg pioglitazone dose groups compared to a mean increase in the placebo group.
 Mean HDL cholesterol increased to a greater extent in patients treated with pioglitazone than in the placebo-treated patients.
 There were no consistent differences for LDL and total cholesterol in patients treated with pioglitazone compared to placebo (see Table 14).
@@ -42,7 +42,7 @@ Lipids in a 26-Week Placebo-Controlled Monotherapy Dose-Ranging Study
 | Total Cholesterol (mg/dL) | N=79 | N=79 | N=84 | N=77 |
 | Baseline (mean) | 225 | 220 | 223 | 214 |
 | Percent change from baseline (adjusted mean*) | 4.4% | 4.6% | 3.3% | 6.4% |
-| * Adjusted for baseline, pooled center, and pooled center by treatment interaction † p < 0.05 versus placeboor table footer text type here! |  |  |  |  |
+| * Adjusted for baseline, pooled center, and pooled center by treatment interaction † p < 0.05 versus placebo. |  |  |  |  |
 
 In the two other monotherapy studies (16 weeks and 24 weeks) and in combination therapy studies with sulfonylurea (16 weeks and 24 weeks), metformin (16 weeks and 24 weeks) or insulin (16 weeks and 24 weeks), the results were generally consistent with the data above.
 
@@ -86,7 +86,8 @@ Ethnicity Pharmacokinetic data among various ethnic groups are not available.
 
 Drug-Drug Interactions
 
-Table 15: Effect of Pioglitazone Coadministration on Systemic Exposure of Other Drugs
+Table 15.
+Effect of Pioglitazone Coadministration on Systemic Exposure of Other Drugs
 
 |  | Coadministered Drug |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -115,19 +116,35 @@ Table 15: Effect of Pioglitazone Coadministration on Systemic Exposure of Other 
 | 80 mg daily for 7 days | ↓ 14% |  | ↓ 23% |  |  |
 | 45 mg (N = 22) | Theophylline |  |  |  |  |
 | 400 mg twice daily for 7 days | ↑ 2% |  | ↑ 5% |  |  |
-| * Daily for 7 days unless otherwise noted. † % change (with/without coadministered drug and no change = 0%); symbols of ↑ and ↓ indicate the exposure increase and decrease, respectively. ‡ Pioglitazone had no clinically significant effect on prothrombin time. |  |  |  |  |  |
 
-Table 16: Effect of Coadministered Drugs on Pioglitazone Systemic Exposure
+* Daily for 7 days unless otherwise noted.
+
+† % change (with/without coadministered drug and no change = 0%); symbols of ↑ and ↓ indicate the exposure increase and decrease, respectively.
+
+‡ Pioglitazone had no clinically significant effect on prothrombin time.
+
+Table 16.
+Effect of Coadministered Drugs on Pioglitazone Systemic Exposure
 
 | Coadministered Drug and Dosage Regimen | Pioglitazone |  |  |
 | --- | --- | --- | --- |
 | Dose Regimen (mg)* | Change in AUC† | Change in Cmax† |  |
 | Gemfibrozil 600 mg twice daily for 2 days (N = 12) | 15 mg single dose | ↑ 3.2-fold‡ | ↑ 6% |
-| Ketoconazole 200 mg twice daily for 7 days (N = 28) | 45 mg | ↑ 34% | ↑ 14% |
+| Ketoconazole 200 mg twice daily for 7 days (N = 28) | 45 mg | ↑ 34% | ↑ 14% |
 | Rifampin 600 mg daily for 5 days (N = 10) | 30 mg single dose | ↓ 54% | ↓ 5% |
 | Fexofenadine 60 mg twice daily for 7 days (N = 23) | 45 mg | ↑ 1% | 0% |
 | Ranitidine 150 mg twice daily for 4 days (N = 23) | 45 mg | ↓ 13% | ↓ 16% |
 | Nifedipine ER 30 mg daily for 7 days (N = 23) | 45 mg | ↑ 5% | ↑ 4% |
 | Atorvastatin Ca 80 mg daily for 7 days (N = 24) | 45 mg | ↓ 24% | ↓ 31% |
 | Theophylline 400 mg twice daily for 7 days (N = 22) | 45 mg | ↓ 4% | ↓ 2% |
-| * Daily for 7 days unless otherwise noted. † Mean ratio (with/without coadministered drug and no change = 1-fold) % change (with/without coadministered drug and no change = 0%); symbols of ↑ and ↓ indicate the exposure increase and decrease, respectively. ‡ The half-life of pioglitazone increased from 8.3 hours to 22.7 hours in the presence of gemfibrozil [see Dosage and Administration (2.3) and Drug Interactions (7)] |  |  |  |
+| Topiramate 96 mg twice daily for 7 days§ (N = 26) | 30 mg§ | ↓ 15%¶ | 0% |
+
+* Daily for 7 days unless otherwise noted.
+
+† Mean ratio (with/without coadministered drug and no change = 1-fold) % change (with/without coadministered drug and no change = 0%); symbols of ↑ and ↓ indicate the exposure increase and decrease, respectively.
+
+‡ The half-life of pioglitazone increased from 8.3 hours to 22.7 hours in the presence of gemfibrozil [see Dosage and Administration (2.3) and Drug Interactions (7.1)]
+
+§Indicates duration of concomitant administration with highest twice-daily dose of topiramate from Day 14 onwards over the 22 days of study
+
+¶Additional decrease in active metabolites; 60% for M-III and 16% for M-IV

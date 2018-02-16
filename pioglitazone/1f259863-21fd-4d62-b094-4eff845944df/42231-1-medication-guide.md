@@ -1,4 +1,4 @@
-# Medication Guide
+# MEDICATION GUIDE
 
 Pioglitazone Tablets, USP
 
@@ -97,7 +97,7 @@ How should I take pioglitazone tablets?
 What are the possible side effects of pioglitazone tablets?
 Pioglitazone tablets may cause serious side effects including:
 
-• See “What is the most important information I should know about pioglitazone tablets?” • low blood suger (hypoglycemia).
+• See “What is the most important information I should know about pioglitazone tablets?” • low blood sugar (hypoglycemia).
 This can happen if you skip meals, if you also use another medicine that lowers blood sugar, or if you have certain medical problems.
 Lightheadedness, dizziness, shakiness, or hunger may happen if your blood sugar is too low.
 Call your doctor if low blood sugar levels are a problem for you • liver problems.
@@ -148,7 +148,4 @@ Active Ingredient: pioglitazone Inactive Ingredients: carboxymethylcellulose cal
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides
-
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 090, India Licensed – United States Patents Nos. 5,965,584, 6,166,043, 6,172,090, 6,211,205, 6,271,243, 6,329,404, and 6,303,640.
-Revised: 12/2016
+Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 02/2018

@@ -66,7 +66,7 @@ Glycemic Parameters in a 16-Week Placebo-Controlled Monotherapy Trial
 | Baseline (mean) | 270 | 273 |
 | Change from baseline (adjusted mean*) | 8 | -50 |
 | Difference from placebo (adjusted mean*) 95% Confidence Interval |  | -58† (-77, -38) |
-| * Adjusted for baseline, pooled center, and pooled center by treatment interaction † p ≤ 0.050 vs. placebo |  |  |
+| * Adjusted for baseline, pooled center, and pooled center by treatment interaction † p ≤ 0.05 vs. placebo |  |  |
 
 ## 14.2 Combination Therapy
 
