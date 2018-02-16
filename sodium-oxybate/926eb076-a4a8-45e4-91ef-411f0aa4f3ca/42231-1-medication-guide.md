@@ -68,7 +68,7 @@ Before you take Xyrem, tell your doctor if you:
 - •are pregnant or plan to become pregnant.
   It is not known if Xyrem can harm your unborn baby.
 - •are breastfeeding or plan to breastfeed.
-  It is not known if Xyrem passes into your breast milk.
+  Xyrem passes into breast milk.
   You and your doctor should decide if you will take Xyrem or breastfeed.
 
 Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
