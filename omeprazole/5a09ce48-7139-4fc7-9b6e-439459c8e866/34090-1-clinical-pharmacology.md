@@ -4,7 +4,7 @@
 
 Omeprazole belongs to a class of antisecretory compounds, the substituted benzimidazoles, that suppress gastric acid secretion by specific inhibition of the H+/K+ ATPase enzyme system at the secretory surface of the gastric parietal cell.
 Because this enzyme system is regarded as the acid (proton) pump within the gastric mucosa, omeprazole has been characterized as a gastric acid-pump inhibitor, in that it blocks the final step of acid production.
-This effect is dose-related and leads to inhibition of both basal and stimulated acid secretion irrespective of the stimulus..
+This effect is dose-related and leads to inhibition of both basal and stimulated acid secretion irrespective of the stimulus.
 
 ## 12.2 Pharmacodynamics
 
@@ -26,7 +26,7 @@ Table 5 Range of Mean Values from Multiple Studies of the Mean Antisecretory Eff
 |  | Omeprazole 20 mg |  | Omeprazole 40 mg |  |
 | % Decrease in Basal Acid Output | 78Single Studies | 58–80 | 94 | 80–93 |
 | % Decrease in Peak Acid Output | 79 | 50–59 | 88 | 62–68 |
-| % Decrease in 24–hr Intragastric Acidity |  | 80–97 |  | 92–94 |
+| % Decrease in 24–hr. Intragastric Acidity |  | 80–97 |  | 92–94 |
 
 Single daily oral doses of omeprazole ranging from a dose of 10 mg to 40 mg have produced 100% inhibition of 24-hour intragastric acidity in some patients.
 
@@ -154,7 +154,7 @@ The pharmacokinetics of omeprazole have been investigated in pediatric patients 
 
 Table 7 Pharmacokinetic Parameters of Omeprazole Following Single and Repeated Oral Administration in Pediatric Populations Compared with Adults
 
-| Single or Repeated Oral Dosing /Parameter | Children* ≤20 kg 2-5 years 10 mg | Children* >20 kg 6-16 years 20 mg | Adults†(mean 76 kg) 23-29 years (n=12) |
+| Single or Repeated Oral Dosing/Parameter | Children* ≤20 kg 2-5 years 10 mg | Children* >20 kg 6-16 years 20 mg | Adults†(mean 76 kg) 23-29 years (n=12) |
 | --- | --- | --- | --- |
 | Single Dosing |  |  |  |
 | Cmax‡ (ng/mL) | 288 (n=10) | 495 (n=49) | 668 |
@@ -211,7 +211,7 @@ ATAZANAVIR
 
 Following multiple doses of atazanavir (400 mg, daily) and omeprazole (40 mg, daily, 2 hours before atazanavir), AUC was decreased by 94%, Cmax by 96%, and Cmin by 95%.
 
-SAQUINIVIR
+SAQUINAVIR
 
 Following multiple dosing of saquinavir/ritonavir (1000/100 mg) twice daily for 15 days with omeprazole 40 mg daily co-administered days 11 to 15.
 
@@ -275,16 +275,16 @@ One patient had an unconfirmed pretreatment amoxicillin minimum inhibitory conce
 
 Table 8 Clarithromycin Susceptibility Test Results and Clinical/Bacteriological Outcomes
 
-| Clarithromycin Susceptibility Test Results and Clinical/Bacteriological OutcomesIncludes only patients with pretreatment clarithromycin susceptibility test results |  |  |  |  |  |  |
+| Clarithromycin Susceptibility Test Results and Clinical/Bacteriological OutcomesIncludes only patients with pretreatment clarithromycin susceptibility test results. |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Clarithromycin Pretreatment Results |  |  | Clarithromycin Post-treatment Results |  |  |  |
 |  |  | H. pylori negative – eradicated | H. pylori positive – not eradicatedPost-treatment susceptibility results |  |  |  |
-|  |  |  | SSusceptible (S) MIC ≤0.25 mcg/mL, Intermediate (I) MIC 0.5 to 1 mcg/mL, Resistant (R) MIC ≥2 mcg/mL | I | R | No MIC |
+|  |  |  | SSusceptible (S) MIC ≤0.25 mcg/mL, Intermediate (I) MIC 0.5 to 1 mcg/mL, Resistant (R) MIC ≥2 mcg/mL. | I | R | No MIC |
 | Dual Therapy – (omeprazole 40 mg once daily/clarithromycin 500 mg three times daily for 14 days followed by omeprazole 20 mg once daily for another 14 days) (Studies 4, 5) |  |  |  |  |  |  |
 | Susceptible | 108 | 72 | 1 |  | 26 | 9 |
 | Intermediate | 1 |  |  |  | 1 |  |
 | Resistant | 4 |  |  |  | 4 |  |
-| Triple Therapy – (omeprazole 20 mg twice daily/clarithromycin 500 mg twice daily/amoxicillin 1 g twice daily for 10 days – Studies 1, 2, 3, followed by omeprazole 20 mg once daily for another 18 days – Studies 1, 2) |  |  |  |  |  |  |
+| Triple Therapy – (omeprazole 20 mg twice daily/clarithromycin 500 mg twice daily/amoxicillin 1 g twice daily for 10 days – Studies 1, 2, 3; followed by omeprazole 20 mg once daily for another 18 days – Studies 1, 2) |  |  |  |  |  |  |
 | Susceptible | 171 | 153 | 7 |  | 3 | 8 |
 | Intermediate |  |  |  |  |  |  |
 | Resistant | 14 | 4 | 1 |  | 6 | 3 |

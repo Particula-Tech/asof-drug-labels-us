@@ -13,6 +13,7 @@ Advise patients to report to their healthcare provider if they experience any si
 - •Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.5)].
 - •Cyanocobalamin (Vitamin B-12) Deficiency [see Warnings and Precautions (5.7)].
 - •Hypomagnesemia [see Warnings and Precautions (5.8)].
+- •Fundic Gland Polyps [see Warnings and Precautions (5.12)]
 
 Drug Interactions
 

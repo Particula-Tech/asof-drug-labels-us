@@ -8,6 +8,7 @@ The following serious adverse reactions are described below and elsewhere in lab
 - •Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.5)]
 - •Cyanocobalamin (Vitamin B-12) Deficiency [see Warnings and Precautions (5.7)]
 - •Hypomagnesemia [see Warnings and Precautions (5.8)]
+- •Fundic Gland Polyps [see Warnings and Precautions (5.12)]
 
 ## 6.1 Clinical Trials Experience with Omeprazole
 
@@ -34,12 +35,12 @@ Adverse reactions observed were limited to those previously reported with omepra
 
 Dual Therapy (omeprazole/clarithromycin)
 
-Adverse reactions observed in controlled clinical trials using combination therapy with omeprazole and clarithromycin (n = 346) that differed from those previously described for omeprazole alone were taste perversion (15%), tongue discoloration (2%), rhinitis (2%), pharyngitis (1%) and flu-syndrome (1%).
+Adverse reactions observed in controlled clinical trials using combination therapy with omeprazole and clarithromycin (n=346) that differed from those previously described for omeprazole alone were taste perversion (15%), tongue discoloration (2%), rhinitis (2%), pharyngitis (1%) and flu-syndrome (1%).
 (For more information on clarithromycin, refer to the clarithromycin prescribing information, Adverse Reactions section).
 
 Triple Therapy (omeprazole/clarithromycin/amoxicillin)
 
-The most frequent adverse reactions observed in clinical trials using combination therapy with omeprazole, clarithromycin, and amoxicillin (n = 274) were diarrhea (14%), taste perversion (10%), and headache (7%).
+The most frequent adverse reactions observed in clinical trials using combination therapy with omeprazole, clarithromycin, and amoxicillin (n=274) were diarrhea (14%), taste perversion (10%), and headache (7%).
 None of these occurred at a higher frequency than that reported by patients taking antimicrobial agents alone.
 (For more information on clarithromycin or amoxicillin, refer to the respective prescribing information, Adverse Reactions sections).
 
@@ -48,37 +49,69 @@ None of these occurred at a higher frequency than that reported by patients taki
 The following adverse reactions have been identified during post-approval use of omeprazole delayed-release capsules.
 Because these reactions are voluntarily reported from a population of uncertain size, it is not always possible to reliably estimate their actual frequency or establish a causal relationship to drug exposure.
 
-Body As a Whole: Hypersensitivity reactions including anaphylaxis, anaphylactic shock, angioedema, bronchospasm, interstitial nephritis, urticaria, (see also Skin below); fever; pain; fatigue; malaise; systemic lupus erythematosus
+Body As a Whole
 
-Cardiovascular: Chest pain or angina, tachycardia, bradycardia, palpitations, elevated blood pressure, peripheral edema
+Hypersensitivity reactions including anaphylaxis, anaphylactic shock, angioedema, bronchospasm, interstitial nephritis, urticaria, (see also Skin below); fever; pain; fatigue; malaise; systemic lupus erythematosus
 
-Endocrine: Gynecomastia
+Cardiovascular
 
-Gastrointestinal: Pancreatitis (some fatal), anorexia, irritable colon, fecal discoloration, esophageal candidiasis, mucosal atrophy of the tongue, stomatitis, abdominal swelling, dry mouth, microscopic colitis.
-During treatment with omeprazole, gastric fundic gland polyps have been noted rarely.
-These polyps are benign and appear to be reversible when treatment is discontinued.
+Chest pain or angina, tachycardia, bradycardia, palpitations, elevated blood pressure, peripheral edema
+
+Endocrine
+
+Gynecomastia
+
+Gastrointestinal
+
+Pancreatitis (some fatal), anorexia, irritable colon, fecal discoloration, esophageal candidiasis, mucosal atrophy of the tongue, stomatitis, abdominal swelling, dry mouth, microscopic colitis.
 
 Gastroduodenal carcinoids have been reported in patients with ZE syndrome on long-term treatment with omeprazole.
 This finding is believed to be a manifestation of the underlying condition, which is known to be associated with such tumors.
 
-Hepatic: Liver disease including hepatic failure (some fatal), liver necrosis (some fatal), hepatic encephalopathy hepatocellular disease, cholestatic disease, mixed hepatitis, jaundice, and elevations of liver function tests [ALT, AST, GGT, alkaline phosphatase, and bilirubin]
+Hepatic
 
-Infections and Infestations: Clostridium difficile-associated diarrhea
+Liver disease including hepatic failure (some fatal), liver necrosis (some fatal), hepatic encephalopathy hepatocellular disease, cholestatic disease, mixed hepatitis, jaundice, and elevations of liver function tests [ALT, AST, GGT, alkaline phosphatase, and bilirubin]
 
-Metabolism and Nutritional Disorders: Hypoglycemia, hypomagnesemia, with or without hypocalcemia and/or hypokalemia, hyponatremia, weight gain
+Infections and Infestations
 
-Musculoskeletal: Muscle weakness, myalgia, muscle cramps, joint pain, leg pain, bone fracture
+Clostridium difficile-associated diarrhea
 
-Nervous System/Psychiatric: Psychiatric and sleep disturbances including depression, agitation, aggression, hallucinations, confusion, insomnia, nervousness, apathy, somnolence, anxiety, and dream abnormalities; tremors, paresthesia; vertigo
+Metabolism and Nutritional Disorders
 
-Respiratory: Epistaxis, pharyngeal pain
+Hypoglycemia, hypomagnesemia, with or without hypocalcemia and/or hypokalemia, hyponatremia, weight gain
 
-Skin: Severe generalized skin reactions including toxic epidermal necrolysis (some fatal), Stevens-Johnson syndrome, cutaneous lupus erythematosus and erythema multiforme; photosensitivity; urticaria; rash; skin inflammation; pruritus; petechiae; purpura; alopecia; dry skin; hyperhidrosis
+Musculoskeletal
 
-Special Senses: Tinnitus, taste perversion
+Muscle weakness, myalgia, muscle cramps, joint pain, leg pain, bone fracture
 
-Ocular: Optic atrophy, anterior ischemic optic neuropathy, optic neuritis, dry eye syndrome, ocular irritation, blurred vision, double vision
+Nervous System/Psychiatric
 
-Urogenital: Interstitial nephritis, hematuria, proteinuria, elevated serum creatinine, microscopic pyuria, urinary tract infection, glycosuria, urinary frequency, testicular pain
+Psychiatric and sleep disturbances including depression, agitation, aggression, hallucinations, confusion, insomnia, nervousness, apathy, somnolence, anxiety, and dream abnormalities; tremors, paresthesia; vertigo
 
-Hematologic: Agranulocytosis (some fatal), hemolytic anemia, pancytopenia, neutropenia, anemia, thrombocytopenia, leukopenia, leukocytosis
+Respiratory
+
+Epistaxis, pharyngeal pain
+
+Skin
+
+Severe generalized skin reactions including toxic epidermal necrolysis (some fatal), Stevens-Johnson syndrome, cutaneous lupus erythematosus and erythema multiforme; photosensitivity; urticaria; rash; skin inflammation; pruritus; petechiae; purpura; alopecia; dry skin; hyperhidrosis
+
+Special Senses
+
+Tinnitus, taste perversion
+
+Ocular
+
+Optic atrophy, anterior ischemic optic neuropathy, optic neuritis, dry eye syndrome, ocular irritation, blurred vision, double vision
+
+Urogenital
+
+Interstitial nephritis, hematuria, proteinuria, elevated serum creatinine, microscopic pyuria, urinary tract infection, glycosuria, urinary frequency, testicular pain
+
+Hematologic
+
+Agranulocytosis (some fatal), hemolytic anemia, pancytopenia, neutropenia, anemia, thrombocytopenia, leukopenia, leukocytosis
+
+Gastrointestinal
+
+Fundic gland polyps.

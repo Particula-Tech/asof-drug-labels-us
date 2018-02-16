@@ -4,7 +4,7 @@
 
 Table 1 shows the recommended dosage of omeprazole delayed-release capsules in adult patients by indication.
 
-1. Table 1 Recommended Dosage Regimen of Omeprazole Delayed-Release Capsules in Adults by Indication.
+1. Table 1 Recommended Dosage Regimen of Omeprazole Delayed-Release Capsules in Adults by Indication
 
 | Indication | Dosage of Omeprazole Delayed-Release Capsules | Treatment Duration |
 | --- | --- | --- |

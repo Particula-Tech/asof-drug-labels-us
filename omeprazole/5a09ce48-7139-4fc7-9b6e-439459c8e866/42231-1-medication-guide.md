@@ -236,4 +236,4 @@ Finished Drug Product Manufactured by Lek Pharmaceuticals d.d., SI-1526 Ljubljan
 Sandoz Inc., Princeton, NJ 08540
 
 Rev.
-November 2017
+January 2018
