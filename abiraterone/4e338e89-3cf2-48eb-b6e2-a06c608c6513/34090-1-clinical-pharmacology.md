@@ -12,14 +12,14 @@ Inhibition of CYP17 by abiraterone can also result in increased mineralocorticoi
 Androgen sensitive prostatic carcinoma responds to treatment that decreases androgen levels.
 Androgen deprivation therapies, such as treatment with GnRH agonists or orchiectomy, decrease androgen production in the testes but do not affect androgen production by the adrenals or in the tumor.
 
-ZYTIGA decreased serum testosterone and other androgens in patients in the placebo-controlled Phase 3 clinical trial.
+ZYTIGA decreased serum testosterone and other androgens in patients in the placebo-controlled clinical trial.
 It is not necessary to monitor the effect of ZYTIGA on serum testosterone levels.
 
 Changes in serum prostate specific antigen (PSA) levels may be observed but have not been shown to correlate with clinical benefit in individual patients.
 
 ## 12.3 Pharmacokinetics
 
-Following administration of abiraterone acetate, the pharmacokinetics of abiraterone and abiraterone acetate have been studied in healthy subjects and in patients with metastatic castration-resistant prostate cancer (CRPC).
+Following administration of abiraterone acetate, the pharmacokinetics of abiraterone and abiraterone acetate have been studied in healthy subjects and in patients with metastatic CRPC.
 In vivo, abiraterone acetate is converted to abiraterone.
 In clinical studies, abiraterone acetate plasma concentrations were below detectable levels (<0.2 ng/mL) in >99% of the analyzed samples.
 
@@ -40,7 +40,7 @@ Systemic exposures of abiraterone in patients with metastatic CRPC, after repeat
 
 Given the normal variation in the content and composition of meals, taking ZYTIGA with meals has the potential to result in increased and highly variable exposures.
 Therefore, no food should be consumed for at least two hours before the dose of ZYTIGA is taken and for at least one hour after the dose of ZYTIGA is taken.
-The tablets should be swallowed whole with water [see Dosage and Administration (2.1)].
+The tablets should be swallowed whole with water [see Dosage and Administration (2.3)].
 
 Distribution and Protein Binding
 
@@ -68,7 +68,7 @@ The mean half-life of abiraterone is prolonged to approximately 18 hours in subj
 
 In another trial, the pharmacokinetics of abiraterone were examined in subjects with baseline severe (N=8) hepatic impairment (Child-Pugh Class C) and in 8 healthy control subjects with normal hepatic function.
 The systemic exposure (AUC) of abiraterone increased by approximately 7-fold in subjects with severe baseline hepatic impairment compared to subjects with normal hepatic function.
-In addition, the mean protein binding was found to be lower in the severe hepatic impairment group compared to the normal hepatic function group, which resulted in a two-fold increase in the fraction of free drug in patients with severe hepatic impairment [see Dosage and Administration (2.2) and Use in Specific Populations (8.6)].
+In addition, the mean protein binding was found to be lower in the severe hepatic impairment group compared to the normal hepatic function group, which resulted in a two-fold increase in the fraction of free drug in patients with severe hepatic impairment [see Dosage and Administration (2.4) and Use in Specific Populations (8.6)].
 
 Patients with Renal Impairment
 

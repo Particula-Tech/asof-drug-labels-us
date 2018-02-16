@@ -1,19 +1,8 @@
-500 mg Tablets Manufactured by:
-
-Patheon France S.A.S.
-
+500 mg Tablets Manufactured by: Patheon France S.A.S.
 Bourgoin Jallieu, France
 
-250 mg Tablets Manufactured by: Patheon Inc.
+250 mg Tablets Manufactured by: Patheon Inc. Mississauga, Canada
 
-Mississauga, Canada
+Manufactured for: Janssen Biotech, Inc. Horsham, PA 19044
 
-Manufactured for:
-
-Janssen Biotech, Inc.
-
-Horsham, PA 19044
-
-© 2011, 2017 Janssen Pharmaceutical Companies
-
-Revised: May 2017
+© 2011, 2017 Janssen Pharmaceutical Companies Revised: 02/2018
