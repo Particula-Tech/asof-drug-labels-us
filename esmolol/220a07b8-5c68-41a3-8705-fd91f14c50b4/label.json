@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA019386"
+  ],
+  "inn": "esmolol",
+  "labeler": "Baxter Healthcare Corporation",
+  "package_ndcs": [
+    "10019-668-10",
+    "10019-672-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "esmolol hydrochloride",
+      "name": "BREVIBLOC"
+    }
+  ],
+  "setid": "220a07b8-5c68-41a3-8705-fd91f14c50b4",
+  "source": "dailymed"
+}
