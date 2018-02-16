@@ -1,4 +1,4 @@
-# 5 WARNINGS AND PRECAUTIONS
+# 5WARNINGS AND PRECAUTIONS
 
 ## 5.1 Delayed Healing
 
@@ -6,7 +6,7 @@ Topical nonsteroidal anti-inflammatory drugs (NSAIDs) may slow or delay healing.
 Topical corticosteroids are also known to slow or delay healing.
 Concomitant use of topical NSAIDs and topical steroids may increase the potential for healing problems.
 
-## 5.2 Cross-Sensitivity or Hypersensitivity
+## 5.2Cross-Sensitivity or Hypersensitivity
 
 There is the potential for cross-sensitivity to acetylsalicylic acid, phenylacetic acid derivatives, and other NSAIDs.
 There have been reports of bronchospasm or exacerbation of asthma associated with the use of ketorolac tromethamine ophthalmic solution in patients who either have a known hypersensitivity to aspirin/non-steroidal anti-inflammatory drugs, or a past medical history of asthma.
@@ -19,7 +19,7 @@ There have been reports that ocularly applied nonsteroidal anti-inflammatory dru
 
 It is recommended that ACUVAIL® ophthalmic solution be used with caution in patients with known bleeding tendencies or who are receiving other medications, which may prolong bleeding time.
 
-## 5.4 Corneal Effects
+## 5.4Corneal Effects
 
 Use of topical NSAIDs may result in keratitis.
 In some susceptible patients, continued use of topical NSAIDs may result in epithelial breakdown, corneal thinning, corneal erosion, corneal ulceration, or corneal perforation.
@@ -31,6 +31,6 @@ Topical NSAIDs should be used with caution in these patients.
 
 Postmarketing experience with topical NSAIDs also suggests that use more than 1 day prior to surgery or use beyond 14 days post-surgery may increase patient risk for the occurrence and severity of corneal adverse events.
 
-## 5.5 Contact Lens Wear
+## 5.5Contact Lens Wear
 
 ACUVAIL® should not be administered while wearing contact lenses.

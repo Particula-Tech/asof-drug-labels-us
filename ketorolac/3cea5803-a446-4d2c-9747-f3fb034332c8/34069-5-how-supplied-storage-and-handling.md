@@ -4,5 +4,5 @@ ACUVAIL® (ketorolac tromethamine ophthalmic solution) 0.45% is available as a s
 
 30 Single-Use Vials 0.4 mL each: NDC 0023-3507-30
 
-Storage: Store at 15°-30° C (59°-86° F). Store the vials in the pouch, protected from light.
+Storage: Store at 15o-30º C (59o-86º F). Store the vials in the pouch, protected from light.
 Fold pouch ends closed.
