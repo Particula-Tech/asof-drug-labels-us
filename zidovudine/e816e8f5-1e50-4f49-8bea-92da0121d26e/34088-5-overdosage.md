@@ -1,12 +1,10 @@
 # 10 OVERDOSAGE
 
-Lamivudine and Zidovudine Tablet: There is no known antidote for lamivudine and zidovudine tablet.
-Lamivudine: One case of an adult ingesting 6 grams of lamivudine was reported; there were no clinical signs or symptoms noted and hematologic tests remained normal.
-Because a negligible amount of lamivudine was removed via (4-hour) hemodialysis, continuous ambulatory peritoneal dialysis, and automated peritoneal dialysis, it is not known if continuous hemodialysis would provide clinical benefit in a lamivudine overdose event.
-Zidovudine: Acute overdoses of zidovudine have been reported in pediatric patients and adults.
+There is no known specific treatment for overdose with lamivudine and zidovudine tablet.
+If overdose occurs, the patient should be monitored and standard supportive treatment applied as required.
+Lamivudine Because a negligible amount of lamivudine was removed via (4-hour) hemodialysis, continuous ambulatory peritoneal dialysis, and automated peritoneal dialysis, it is not known if continuous hemodialysis would provide clinical benefit in a lamivudine overdose event.
+Zidovudine Acute overdoses of zidovudine have been reported in pediatric patients and adults.
 These involved exposures up to 50 grams.
-The only consistent findings were nausea and vomiting.
-Other reported occurrences included headache, dizziness, drowsiness, lethargy, confusion, and 1 report of a grand mal seizure.
-Hematologic changes were transient.
-All patients recovered.
+No specific symptoms or signs have been identified following acute overdosage with zidovudine apart from those listed as adverse events such as fatigue, headache, vomiting, and occasional reports of hematological disturbances.
+Patients recovered without permanent sequelae.
 Hemodialysis and peritoneal dialysis appear to have a negligible effect on the removal of zidovudine, while elimination of its primary metabolite, 3'-azido-3'-deoxy-5'-O-β-D-glucopyranuronosylthymidine (GZDV), is enhanced.

@@ -1,16 +1,16 @@
 # 2 DOSAGE & ADMINISTRATION
 
-## 2.1 Adults and Adolescents Weighing ≥30 kg
+## 2.1 Recommended Dosage for Adults and Adolescents
 
-The recommended oral dose of lamivudine and zidovudine tablet in HIV-1-infected adults and adolescents weighing greater than or equal to 30 kg is 1 tablet (containing 150 mg of lamivudine and 300 mg of zidovudine) twice daily.
+The recommended dosage of lamivudine and zidovudine tablet in HIV-1-infected adults and adolescents weighing greater than or equal to 30 kg is 1 tablet (containing 150 mg of lamivudine and 300 mg of zidovudine) taken orally twice daily.
 
-## 2.2 Pediatric Patients
+## 2.2 Recommended Dosage for Pediatric Patients
 
-The recommended oral dosage of lamivudine and zidovudine tablets for pediatric patients who weigh greater than or equal to 30 kg and for whom a solid oral dosage form is appropriate is 1 tablet administered twice daily.
+The recommended oral dosage of scored lamivudine and zidovudine tablets for pediatric patients who weigh greater than or equal to 30 kg and for whom a solid oral dosage form is appropriate is 1 tablet administered orally twice daily.
 Before prescribing lamivudine and zidovudine tablets, children should be assessed for the ability to swallow tablets.
-If a child is unable to reliably swallow a lamivudine and zidovudine tablet, the liquid oralformulations should be prescribed: lamivudine oral solution and zidovudine oral solution.
+If a child is unable to reliably swallow a lamivudine and zidovudine tablet, the liquid oral formulations should be prescribed: lamivudine oral solution and zidovudine syrup.
 
-## 2.3 Patients Requiring Dosage Adjustment
+## 2.3 Not Recommended Due to Lack of Dosage Adjustment
 
-Because lamivudine and zidovudine is a fixed-dose combination tablet, it should not be prescribed for pediatric patients weighing less than 30 kg or patients requiring dosage adjustment, such as those with reduced renal function (creatinine clearance less than 50 mL/min), patients with hepatic impairment, or patients experiencing dose-limiting adverse reactions.
+Because lamivudine and zidovudine is a fixed-dose tablet and cannot be dose adjusted, lamivudine and zidovudine tablets are not recommended for: • pediatric patients weighing less than 30 kg [see Use in Specific Populations(8.4)]. • patients with creatinine clearance less than 50 mL per minute [see Use in Specific Populations (8.6)]. • patients with hepatic impairment [see Use in Specific Populations (8.7)]. • patients experiencing dose-limiting adverse reactions.
 Liquid and solid oral formulations of the individual components of lamivudine and zidovudine tablet are available for these populations.

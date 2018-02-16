@@ -1,15 +1,15 @@
 # 6 ADVERSE REACTIONS
 
-The following adverse reactions are discussed in greater detail in other sections of the labeling: • Hematologic toxicity, including neutropenia and anemia [see Boxed Warning,Warnings and Precautions (5.1)]. • Symptomatic myopathy [see Boxed Warning, Warnings and Precautions (5.2)]. • Lactic acidosis and hepatomegaly with steatosis [see Boxed Warning, Warnings and Precautions (5.3)]. • Acute exacerbations of hepatitis B [see Boxed Warning, Warnings and Precautions (5.4)] • Hepatic decompensation in patients co-infected with HIV-1 and hepatitis C [seeWarnings and Precautions (5.6)]. • Exacerbation of anemia in HIV-1/HCV co-infected patients receiving ribavirin and zidovudine [see Warnings and Precautions (5.6)]
-
-• Pancreatitis [see Warnings and Precautions (5.7)].
+The following adverse reactions are discussed in other sections of the labeling: •Hematologic toxicity, including neutropenia and anemia [see Boxed Warning, Warnings and Precautions (5.1)]. •Symptomatic myopathy [see Boxed Warning, Warnings and Precautions (5.2)]. •Lactic acidosis and severe hepatomegaly with steatosis [see Boxed Warning, Warnings and Precautions (5.3)]. •Exacerbations of hepatitis B [see Boxed Warning, Warnings and Precautions (5.4)]. •Hepatic decompensation in patients co-infected with HIV-1 and hepatitis C [see Warnings and Precautions (5.5)] •Exacerbation of anemia in HIV-1/HCV co-infected patients receiving ribavirin and zidovudine [see Warnings and Precautions(5.5]. •Pancreatitis [see Warnings and Precautions (5.6)]. • Immune reconstitution syndrome [see Warnings and Precautions (5.7)]. • Fat redistribution [see Warnings and Precautions (5.8)].
 
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
-Lamivudine Plus Zidovudine Administered As Separate Formulations: In4 randomized, controlled trials of lamivudine 300 mg per day plus zidovudine 600 mg per day, the following selected adverse reactions and laboratory abnormalities were observed (see Tables 1 and 2).
+Lamivudine Plus Zidovudine Administered As Separate Formulations:
+
+In4 randomized, controlled trials of lamivudine 300 mg per day plus zidovudine 600 mg per day, the following selected adverse reactions and laboratory abnormalities were observed (see Tables 1 and 2).
 Table 1.
-Selected Clinical Adverse Reactions (≥5% Frequency) in 4 Controlled Clinical Trials With lamivudine 300 mg/day and zidovudine 600 mg/day
+Selected Clinical Adverse Reactions (Greater than or Equal to 5% Frequency) in 4 Controlled Clinical Trials With lamivudine 300 mg per day and zidovudine 600 mg per day
 
 | Adverse Reaction | Lamivudine plus Zidovudine (n = 251) |
 | --- | --- |
@@ -40,43 +40,35 @@ Selected Clinical Adverse Reactions (≥5% Frequency) in 4 Controlled Clinical T
 | Myalgia | 8% |
 | Arthralgia | 5% |
 
-Pancreatitis was observed in 9 of the 2,613 adult patients (0.3%) who received lamivudine in controlled clinical trials [see Warnings and Precautions (5.7)].
+Pancreatitis was observed in 9 of the 2,613 adult subjects (0.3%) who received lamivudine in controlled clinical trials [see Warnings and Precautions (5.7)].
 Selected laboratory abnormalities observed during therapy are listed in Table 2.
 Table 2.
-Frequencies of Selected Laboratory Abnormalities Among Adults in 4 Controlled Clinical Trials of lamivudine 300 mg/day plus zidovudine 600 mg/daya
+Frequencies of Selected Laboratory Abnormalities Among Adults in 4 Controlled Clinical Trials of lamivudine 300 mg per day plus zidovudine 600 mg per daya
 
 | Test (Abnormal Level) | Lamivudine plus Zidovudine % (n) |
 | --- | --- |
 | Neutropenia (ANC<750/mm3) | 7.2% (237) |
-| Anemia (Hgb<8.0 g/dL) | 2.9% (241) |
+| Anemia (Hgb<8 g/dL) | 2.9% (241) |
 | Thrombocytopenia (platelets-<50,000/mm3) | 0.4% (240) |
-| ALT (>5.0 x ULN) | 3.7% (241) |
-| AST (>5.0 x ULN) | 1.7% (241) |
+| ALT (>5 x ULN) | 3.7% (241) |
+| AST (>5 x ULN) | 1.7% (241) |
 | Bilirubin (>2.5x ULN) | 0.8% (241) |
-| Amylase (>2.0 x ULN) | 4.2% (72) |
+| Amylase (>2 x ULN) | 4.2% (72) |
 
 ULN = Upper limit of normal.
-
-ANC = Absolute neutrophil count.
-
-n = Number of patients assessed.
-
-aFrequencies of these laboratory abnormalities were higher in patients with mild laboratory abnormalities at baseline.
+ANC = Absolute neutrophil count. n = Number of subjects assessed. a Frequencies of these laboratory abnormalities were higher in subjects with mild laboratory abnormalities at baseline.
 
 ## 6.2 Postmarketing Experience
 
-In addition to adverse reactions reported from clinical trials, the following reactions have been identified during post-approval use of lamivudine, zidovudine, and/or lamivudine and zidovudine tablet.
-Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made.
-These events have been chosen for inclusion due to a combination of their seriousness, frequency of reporting, or potential causal connection to lamivudine, zidovudine, and/or lamivudine and zidovudine tablet.
-Body as a Whole: Redistribution/accumulation of body fat [see Warnings and Precautions (5.9)].
-Cardiovascular: Cardiomyopathy.
-Endocrine and Metabolic: Gynecomastia, hyperglycemia.
-Gastrointestinal: Oral mucosal pigmentation, stomatitis.
-General: Vasculitis, weakness.
-Hemic and Lymphatic: Anemia, (including pure red cell aplasia and anemias progressing on therapy), lymphadenopathy, splenomegaly.
-Hepatic and Pancreatic: Lactic acidosis and hepatic steatosis, pancreatitis, posttreatment exacerbation of hepatitis B [see Boxed Warning, Warnings and Precautions (5.3), 5.4), (5.7)].
-Hypersensitivity: Sensitization reactions (including anaphylaxis), urticaria.
-Musculoskeletal: Muscle weakness, CPK elevation, rhabdomyolysis.
-Nervous: Paresthesia, peripheral neuropathy, seizures.
-Respiratory: Abnormal breath sounds/wheezing.
-Skin: Alopecia, erythema multiforme, Stevens-Johnson syndrome.
+The following adverse reactions have been identified during postmarketing use.
+Because these reactions are reported voluntarily from a population of unknown size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+Body as a Whole Redistribution/accumulation of body fat [see Warnings and Precautions (5.8)].Cardiovascular Cardiomyopathy.
+Endocrine and Metabolic Gynecomastia, hyperglycemia.
+Gastrointestinal Oral mucosal pigmentation, stomatitis.
+General Vasculitis, weakness.
+Hemic and Lymphatic Anemia, (including pure red cell aplasia and anemias progressing on therapy), lymphadenopathy, splenomegaly.
+Hepatic and Pancreatic Lactic acidosis and hepatic steatosis, pancreatitis, posttreatment exacerbation of hepatitis B [see Boxed Warning, Warnings and Precautions (5.3),5.4),(5.6)].Hypersensitivity Sensitization reactions (including anaphylaxis), urticaria.
+Musculoskeletal Muscle weakness, CPK elevation, rhabdomyolysis.
+Nervous Paresthesia, peripheral neuropathy, seizures.
+Respiratory Abnormal breath sounds/wheezing.
+Skin Alopecia, erythema multiforme, Stevens-Johnson syndrome.
