@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA209661"
+  ],
+  "inn": "doxylamine",
+  "labeler": "Duchesnay USA, Inc.",
+  "package_ndcs": [
+    "55494-120-10",
+    "55494-120-60",
+    "55494-120-99"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "doxylamine succinate and pyridoxine hydrochloride",
+      "name": "BONJESTA"
+    }
+  ],
+  "setid": "dba60bb4-54ff-4e06-b8d2-acbbd3717666",
+  "source": "dailymed"
+}
