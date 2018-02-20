@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Oxybutynin chloride) is an antispasmodic, muscarinic antagonist.
+Oxybutynin chloride, USP is an antispasmodic, muscarinic antagonist.
 Each oxybutynin chloride extended-release tablet, USP contains 5 mg, 10 mg, or 15 mg of oxybutynin chloride USP, formulated as a once-a-day controlled-release tablet for oral administration.
 Oxybutynin chloride, USP is administered as a racemate of R- and S-enantiomers.
 

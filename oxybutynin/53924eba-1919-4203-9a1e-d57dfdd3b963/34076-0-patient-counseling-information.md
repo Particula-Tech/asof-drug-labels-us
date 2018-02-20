@@ -19,7 +19,7 @@ For more information call 1-877-835-5472 or visit www.amneal.com
 
 * Trademarks are the property of their respective owners.
 
-Manufactured for: Amneal Pharmaceuticals Bridgewater, NJ 08807
+Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-10-2016-02
+03-2017-03

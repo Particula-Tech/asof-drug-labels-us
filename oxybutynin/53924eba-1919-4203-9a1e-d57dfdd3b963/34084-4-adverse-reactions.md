@@ -8,7 +8,7 @@ The safety and efficacy of oxybutynin chloride extended-release (5 to 30 mg/day)
 In four of the five studies, oxybutynin chloride immediate-release (5 to 20 mg/day in 199 subjects) was an active comparator.
 Adverse reactions reported by ≥ 1% of subjects are shown in Table 1.
 
-| Table 1: Adverse Drug Reactions Reported by ≥ 1% of Oxybutynin Chloride-treated Adult Subjects in Five Double-blind, Controlled Clinical Trials of Oxybutynin Chloride |  |  |
+| Table 1: Adverse Drug Reactions Reported by ≥ 1% of Oxybutynin Chloride Extended-release-treated Adult Subjects in Five Double-blind, Controlled Clinical Trials of Oxybutynin Chloride Extended-release |  |  |
 | --- | --- | --- |
 | System/Organ Class Preferred Term | Oxybutynin Chloride Extended-release 5 to 30 mg/day n = 774 % | Oxybutynin Chloride Immediate-release1 5 to 20 mg/day n = 199 % |
 | Psychiatric Disorders |  |  |

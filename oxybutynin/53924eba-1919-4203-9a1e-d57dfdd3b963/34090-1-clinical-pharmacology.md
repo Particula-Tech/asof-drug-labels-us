@@ -26,7 +26,7 @@ The plasma concentration-time profiles for R- and S-oxybutynin are similar in sh
 | Table 2: Mean (SD) R- and S-Oxybutynin Pharmacokinetic Parameters Following a Single Dose of Oxybutynin Chloride 10 mg (n=43) |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | Parameters (units) | R-Oxybutynin |  | S-Oxybutynin |  |
-| Cmax (ng/mL) | 1 | (0.6) | 1.8 | (1) |
+| Cmax (ng/mL) | 1.0 | (0.6) | 1.8 | (1.0) |
 | Tmax (h) | 12.7 | (5.4) | 11.8 | (5.3) |
 | t1/2 (h) | 13.2 | (6.2) | 12.4 | (6.1) |
 | AUC(0-48) (ng•h/mL) | 18.4 | (10.3) | 34.2 | (16.9) |
@@ -46,8 +46,8 @@ The plasma-time concentration profiles for R- and S-oxybutynin are similar in sh
 | --- | --- | --- | --- | --- |
 |  | R-Oxybutynin | S-Oxybutynin | R-Desethyloxybutynin | S-Desethyloxybutynin |
 | Cmax (ng/mL) | 0.7 ± 0.4 | 1.3 ± 0.8 | 7.8 ± 3.7 | 4.2 ± 2.3 |
-| Tmax (h) | 5 | 5 | 5 | 5 |
-| AUC (ng•h/mL) | 12.8 ± 7 | 23.7 ± 14.4 | 125.1 ± 66.7 | 73.6 ± 47.7 |
+| Tmax (h) | 5.0 | 5.0 | 5.0 | 5.0 |
+| AUC (ng•h/mL) | 12.8 ± 7.0 | 23.7 ± 14.4 | 125.1 ± 66.7 | 73.6 ± 47.7 |
 
 Figure 2: Mean steady-state (± SD) R-oxybutynin plasma concentrations following administration of 5 to 20 mg Oxybutynin Chloride once daily in children aged 5 to 15.
 Plot represents all available data normalized to an equivalent of Oxybutynin Chloride 5 mg once daily.
