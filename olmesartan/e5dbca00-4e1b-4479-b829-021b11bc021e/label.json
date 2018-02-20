@@ -1,0 +1,36 @@
+{
+  "application_numbers": [
+    "ANDA207662"
+  ],
+  "inn": "olmesartan",
+  "labeler": "Accord Healthcare Inc.",
+  "package_ndcs": [
+    "16729-320-10",
+    "16729-320-15",
+    "16729-320-16",
+    "16729-320-17",
+    "16729-320-45",
+    "16729-320-46",
+    "16729-321-10",
+    "16729-321-15",
+    "16729-321-16",
+    "16729-321-17",
+    "16729-321-45",
+    "16729-321-46",
+    "16729-322-10",
+    "16729-322-15",
+    "16729-322-16",
+    "16729-322-17",
+    "16729-322-45",
+    "16729-322-46"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "olmesartan medoxomil",
+      "name": "olmesartan medoxomil"
+    }
+  ],
+  "setid": "e5dbca00-4e1b-4479-b829-021b11bc021e",
+  "source": "dailymed"
+}
