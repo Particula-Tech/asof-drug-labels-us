@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA210251"
+  ],
+  "inn": "bictegravir",
+  "labeler": "Gilead Sciences, Inc.",
+  "package_ndcs": [
+    "61958-2501-1"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "bictegravir sodium, emtricitabine, and tenofovir alafenamide fumarate",
+      "name": "Biktarvy"
+    }
+  ],
+  "setid": "664cb8f0-1f65-441b-b0d9-ba3d798be309",
+  "source": "dailymed"
+}
