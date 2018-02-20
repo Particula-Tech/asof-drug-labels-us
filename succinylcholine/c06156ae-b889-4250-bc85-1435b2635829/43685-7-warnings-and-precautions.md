@@ -89,7 +89,7 @@ If other neuromuscular blocking agents are to be used during the same procedure,
 
 Carcinogenesis, Mutagenesis, Impairment of Fertility: There have been no long-term studies performed in animals to evaluate carcinogenic potential.
 
-Pregnancy: Teratogenic Effects: Pregnancy Category C.
+Pregnancy: Teratogenic Effects:
 
 Animal reproduction studies have not been conducted with succinylcholine chloride.
 It is also not known whether succinylcholine can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.
