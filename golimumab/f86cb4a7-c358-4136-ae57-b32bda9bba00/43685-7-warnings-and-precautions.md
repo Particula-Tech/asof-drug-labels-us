@@ -156,8 +156,7 @@ Care should be taken when switching from one biological product to another biolo
 
 ## 5.9 Hematologic Cytopenias
 
-There have been postmarketing reports of pancytopenia, leukopenia, neutropenia, aplastic anemia, and thrombocytopenia in patients receiving TNF blockers.
-In clinical trials, cases of pancytopenia, leukopenia, neutropenia, and thrombocytopenia have also occurred in SIMPONI-treated patients.
+There have been reports of pancytopenia, leukopenia, neutropenia, agranulocytosis, aplastic anemia, and thrombocytopenia in patients receiving golimumab.
 Caution should be exercised when using TNF blockers, including SIMPONI, in patients who have or have had significant cytopenias.
 
 ## 5.10 Vaccinations/Therapeutic Infectious Agents
