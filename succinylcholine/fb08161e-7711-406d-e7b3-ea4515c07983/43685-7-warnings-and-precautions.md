@@ -8,7 +8,7 @@ IN EMERGENCY SITUATIONS, HOWEVER, IT MAY BE NECESSARY TO ADMINISTER SUCCINYLCHOL
 
 SUCCINYLCHOLINE IS METABOLIZED BY PLASMA CHOLINESTERASE AND SHOULD BE USED WITH CAUTION, IF AT ALL, IN PATIENTS KNOWN TO BE OR SUSPECTED OF BEING HOMOZYGOUS FOR THE ATYPICAL PLASMA CHOLINESTERASE GENE.
 
-Hyperkalemia: (SEE BOX WARNING) Succinylcholine should be administered with GREAT CAUTION to patients suffering from electrolyte abnormalities and those who may have massive digitalis toxicity, because in these circumstances succinylcholine may induce serious cardiac arrhythmias or cardiac arrest due to hyperkalemia.
+Hyperkalemia: (see BOX WARNING) Succinylcholine should be administered with GREAT CAUTION to patients suffering from electrolyte abnormalities and those who may have massive digitalis toxicity, because in these circumstances succinylcholine may induce serious cardiac arrhythmias or cardiac arrest due to hyperkalemia.
 
 GREAT CAUTION should be observed if succinylcholine is administered to patients during the acute phase of injury following major burns, multiple trauma, extensive denervation of skeletal muscle, or upper motor neuron injury (see CONTRAINDICATIONS).
 The risk of hyperkalemia in these patients increases over time and usually peaks at 7 to 10 days after the injury.
@@ -89,7 +89,7 @@ If other neuromuscular blocking agents are to be used during the same procedure,
 
 Carcinogenesis, Mutagenesis, Impairment of Fertility: There have been no long-term studies performed in animals to evaluate carcinogenic potential.
 
-Pregnancy: Teratogenic Effects: Pregnancy Category C.
+Pregnancy: Teratogenic Effects:
 
 Animal reproduction studies have not been conducted with succinylcholine chloride.
 It is also not known whether succinylcholine can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.
