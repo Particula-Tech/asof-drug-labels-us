@@ -8,18 +8,14 @@ What is the most important information I should know about sirolimus?
 
 Sirolimus can cause serious side effects, including:
 
-1. increased risk of getting infections
-
-2. increased risk of getting certain cancers
-
-3.
+1.
 Increased risk of getting infections.
 Serious infections can happen including infections caused by viruses, bacteria, and fungi (yeast).
 Your doctor may put you on medicine to help prevent some of these infections.
 
 Call your doctor right away if you have symptoms of infection including fever or chills while taking sirolimus.
 
-4.
+2.
 Increased risk of getting certain cancers.
 People who take sirolimus have a higher risk of getting lymphoma, and other cancers, especially skin cancer.
 Talk with your doctor about your risk for cancer.
@@ -55,9 +51,12 @@ Before taking sirolimus, tell your doctor if you:
 - have liver problems
 - have skin cancer or it runs in your family
 - have high cholesterol or triglycerides (fat in your blood)
-- are pregnant or plan to become pregnant.
-  You must use an effective method of birth control during treatment and for 12 weeks after you stop treatment with sirolimus.
-  Tell your doctor right away if you become pregnant or think you are pregnant while taking sirolimus.
+- are pregnant or are a female who can become pregnant.
+  Sirolimus may harm your unborn baby.
+  You should not become pregnant during treatment with sirolimus and for 12 weeks after ending treatment with sirolimus tablets.
+  In order to avoid pregnancy, a female who can get pregnant should use effective birth control during treatment and for 12 weeks after your final dose of sirolimus tablets.
+  Talk with your doctor about what birth control method is right for you during this time.
+  Tell your doctor right away if you become pregnant or think you are pregnant during treatment with sirolimus or within 12 weeks after your final dose of sirolimus tablets.
 - It is not known whether sirolimus passes into breast milk.
   You and your doctor should decide if you will take sirolimus or breastfeed.
   You should not do both.
@@ -177,8 +176,7 @@ How should I store sirolimus?
 Sirolimus tablets:
 
 - Store sirolimus tablets at 20° to 25°C (68° to 77°F).
-- Bottles
-  - Keep the bottle of sirolimus tablets tightly closed.
+- Bottles: Keep the bottle of sirolimus tablets tightly closed.
 
 Safely throw away medicine that is out of date or no longer needed.
 
@@ -216,7 +214,7 @@ Dr. Reddy’s Laboratories Limited
 
 Visakhapatnam – 530 046 INDIA
 
-Revised: 0417
+Revised: 0218
 
 Dispense with Medication Guide available at:
 
