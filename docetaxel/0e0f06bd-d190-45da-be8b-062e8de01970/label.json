@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA201525"
+  ],
+  "inn": "docetaxel",
+  "labeler": "Baxter Healthcare Corporation",
+  "package_ndcs": [
+    "43066-001-01",
+    "43066-006-01",
+    "43066-010-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "docetaxel",
+      "name": "Docetaxel"
+    }
+  ],
+  "setid": "0e0f06bd-d190-45da-be8b-062e8de01970",
+  "source": "dailymed"
+}
