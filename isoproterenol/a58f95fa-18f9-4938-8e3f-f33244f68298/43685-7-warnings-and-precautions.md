@@ -33,7 +33,7 @@ Carcinogenesis, Mutagenesis, Impairment of Fertility Long-term studies in animal
 Mutagenic potential and effect on fertility have not been determined.
 There is no evidence from human experience that isoproterenol hydrochloride injection may be carcinogenic or mutagenic or that it impairs fertility.
 
-Pregnancy Category C Animal reproduction studies have not been conducted with isoproterenol hydrochloride.
+Pregnancy Animal reproduction studies have not been conducted with isoproterenol hydrochloride.
 It is also not known whether isoproterenol hydrochloride can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.
 Isoproterenol hydrochloride should be given to a pregnant woman only if clearly needed.
 
