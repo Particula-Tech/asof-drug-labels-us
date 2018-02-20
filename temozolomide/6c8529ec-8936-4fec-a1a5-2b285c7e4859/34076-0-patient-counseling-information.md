@@ -17,4 +17,4 @@ Physicians should discuss the following with their patients:
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-01-2017-04
+08-2017-05
