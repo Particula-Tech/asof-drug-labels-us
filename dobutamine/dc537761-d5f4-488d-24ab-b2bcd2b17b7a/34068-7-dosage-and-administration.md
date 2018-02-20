@@ -15,7 +15,7 @@ Table 1 Dobutamine Infusion Rate (mL/kg/min) for Concentrations of 250, 500, and
 | Drug Delivery Rate | Infusion Delivery Rate |  |  |  |
 | --- | --- | --- | --- | --- |
 | 250 mcg/mL* | 500 mcg/mL† | 1,000 mcg/mL‡ |  |  |
-| (mL/kg/min) | (mL/kg/min) | (mL/kg/min) | (mL/kg/min) |  |
+| (mcg/kg/min) | (mL/kg/min) | (mL/kg/min) | (mL/kg/min) |  |
 | 2.5 | 0.01 | 0.005 | 0.0025 |  |
 | 5 | 0.02 | 0.01 | 0.005 |  |
 | 7.5 | 0.03 | 0.015 | 0.0075 |  |

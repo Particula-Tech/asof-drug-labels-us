@@ -10,4 +10,4 @@ Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
 LAB-1055-3.0
 
-Revised: 11/2017
+11/2017
