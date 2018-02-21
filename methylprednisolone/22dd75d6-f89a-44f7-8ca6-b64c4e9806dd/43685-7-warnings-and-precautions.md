@@ -58,6 +58,8 @@ The lowest possible dose of corticosteroid should be used to control the conditi
 Psychic derangements may appear when corticosteroids are used, ranging from euphoria, insomnia, mood swings, personality changes, and severe depression to frank psychotic manifestations.
 Also, existing emotional instability or psychotic tendencies may be aggravated by corticosteroids.
 
+Caution is required in patients with systemic sclerosis because an increased incidence of scleroderma renal crisis has been observed with corticosteroids, including methylprednisolone.
+
 Steroids should be used with caution in nonspecific ulcerative colitis, if there is a probability of impending perforation, abscess, or other pyogenic infection; diverticulitis; fresh intestinal anastomoses; active or latent peptic ulcer; renal insufficiency; hypertension; osteoporosis; and myasthenia gravis.
 
 Growth and development of infants and children on prolonged corticosteroid therapy should be carefully observed.
