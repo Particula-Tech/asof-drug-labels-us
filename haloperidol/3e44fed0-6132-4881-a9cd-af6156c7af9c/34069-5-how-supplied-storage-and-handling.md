@@ -9,11 +9,9 @@ Protect from light.
 
 Dispense in a tight, light-resistant container as described in the USP.
 
-Manufactured by: Silarx Pharmaceuticals, Inc., a subsidiary of Lannett Company, Inc. Carmel, NY 10512
-
-Made in the USA
+Distributed by: Lannett Company, Inc. Philadelphia, PA 19154
 
 Rev.
-11/16, Revision 2
+10/17
 
 10-1100
