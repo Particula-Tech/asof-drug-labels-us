@@ -11,7 +11,7 @@ However, due to Otsuka America Pharmaceutical, Inc.’s marketing exclusivity ri
 
 Adults
 
-The efficacy of aripiprazole in the treatment of schizophrenia was evaluated in five short- term (4-week and 6-week), placebo-controlled trials of acutely relapsed inpatients who predominantly met DSM-III/IV criteria for schizophrenia.
+The efficacy of aripiprazole in the treatment of schizophrenia was evaluated in five short-term (4-week and 6-week), placebo-controlled trials of acutely relapsed inpatients who predominantly met DSM-III/IV criteria for schizophrenia.
 Four of the five trials were able to distinguish aripiprazole from placebo, but one study, the smallest, did not.
 Three of these studies also included an active control group consisting of either risperidone (one trial) or haloperidol (two trials), but they were not designed to allow for a comparison of aripiprazole and the active comparators.
 
@@ -20,7 +20,7 @@ Efficacy was evaluated using the total score on the Positive and Negative Syndro
 The PANSS is a 30 item scale that measures positive symptoms of schizophrenia (7 items), negative symptoms of schizophrenia (7 items), and general psychopathology (16 items), each rated on a scale of 1 (absent) to 7 (extreme); total PANSS scores range from 30 to 210.
 The Clinical Global Impression (CGI) assessment reflects the impression of a skilled observer, fully familiar with the manifestations of schizophrenia, about the overall clinical state of the patient.
 
-In a 4-week trial (n=414) comparing two fixed doses of aripiprazole (15 or 30 mg/day) to placebo, both doses of aripiprazole were superior to placebo in the PANSS total score (Study 1 in Table 15), PANSS positive subscale, and CGI- severity score.
+In a 4-week trial (n=414) comparing two fixed doses of aripiprazole (15 or 30 mg/day) to placebo, both doses of aripiprazole were superior to placebo in the PANSS total score (Study 1 in Table 15), PANSS positive subscale, and CGI-severity score.
 In addition, the 15 mg dose was superior to placebo in the PANSS negative subscale.
 
 In a 4-week trial (n=404) comparing two fixed doses of aripiprazole (20 or 30 mg/day) to placebo, both doses of aripiprazole were superior to placebo in the PANSS total score (Study 2 in Table 15), PANSS positive subscale, PANSS negative subscale, and CGI-severity score.

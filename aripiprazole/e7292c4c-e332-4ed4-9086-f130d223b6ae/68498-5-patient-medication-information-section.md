@@ -225,9 +225,7 @@ Lannett Company, Inc.
 
 Philadelphia, PA 19154
 
-Made in the USA
-
-PI# 0570-0117
+PI# 10-1187
 
 Rev.
-01/17
+10/2017

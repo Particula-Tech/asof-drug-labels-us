@@ -16,5 +16,4 @@ Table 14: Clinically Important Drug Interactions with Aripiprazole:
 Based on pharmacokinetic studies, no dosage adjustment of aripiprazole is required when administered concomitantly with famotidine, valproate, lithium, lorazepam.
 
 In addition, no dosage adjustment is necessary for substrates of CYP2D6 (e.g., dextromethorphan, fluoxetine, paroxetine, or venlafaxine), CYP2C9 (e.g., warfarin), CYP2C19 (e.g., omeprazole, warfarin, escitalopram), or CYP3A4 (e.g., dextromethorphan) when co-administered with aripiprazole.
-Additionally, no dosage adjustment is necessary for valproate, lithium, lamotrigine, lorazepam, or sertraline when co-administered with aripiprazole.
-[see CLINICAL PHARMACOLOGY (12.3)].
+Additionally, no dosage adjustment is necessary for valproate, lithium, lamotrigine, lorazepam, or sertraline when co-administered with aripiprazole [see CLINICAL PHARMACOLOGY (12.3)].

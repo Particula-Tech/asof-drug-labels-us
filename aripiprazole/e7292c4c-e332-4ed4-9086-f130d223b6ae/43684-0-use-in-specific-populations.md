@@ -41,7 +41,7 @@ Some maternal toxicity was seen at 30 mg/kg/day however, there was no evidence t
 
 In pregnant rats receiving aripiprazole injection intravenously (3, 9, and 27 mg/kg/day) during the period of organogenesis, decreased fetal weight and delayed skeletal ossification were seen at the highest dose where it also caused maternal toxicity.
 
-Pregnant rabbits were treated with oral doses of 10, 30, and 100 mg/kg/day (2, 3, and 11 times human exposure at MRHD based on AUC and 6, 19, and 65 times the MRHD based on mg/m2) of aripiprazole during the period of organogenesis.
+Pregnant rabbits were treated with oral doses of 10, 30 and 100 mg/kg/day (2, 3 and 11 times human exposure at MRHD based on AUC and 6, 19 and 65 times the MRHD based on mg/m2) of aripiprazole during the period of organogenesis.
 At the high dose of 100 mg/kg/day decreased maternal food consumption, and increased abortions were seen as well as increased fetal mortality, decreased fetal weight (also seen at 30 mg/kg/day), increased incidence of a skeletal abnormality (fused sternebrae) (also seen at 30 mg/kg/day).
 
 In pregnant rabbits receiving aripiprazole injection intravenously (3, 10, and 30 mg/kg/day) during the period of organogenesis, the highest dose, which caused pronounced maternal toxicity, resulted in decreased fetal weight, increased fetal abnormalities (primarily skeletal), and decreased fetal skeletal ossification.
