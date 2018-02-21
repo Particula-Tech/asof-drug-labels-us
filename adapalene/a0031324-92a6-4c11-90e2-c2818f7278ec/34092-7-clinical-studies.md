@@ -10,3 +10,11 @@ Success was defined as "Clear" or "Almost Clear" in the Investigator’s Global 
 The success rate, mean reduction, and percent reduction in acne lesion counts from Baseline after 12 weeks of treatment are presented in the following table:
 
 Table 3: Clinical study primary efficacy results at Week 12
+
+|  | DIFFERIN (adapalene) Gel, 0.3% | Adapalene Gel, 0.1% | Vehicle Gel |
+| --- | --- | --- | --- |
+|  | N = 258 | N = 261 | N = 134 |
+| IGA Success Rate | 53 (21%) | 41 (16%) | 12 (9%) |
+| Inflammatory Lesions Mean Baseline Count Mean Absolute (%) Reduction | 27.7 14.4 (51.6%) | 28.1 13.9 (49.7%) | 27.2 11.2 (40.7%) |
+| Non-Inflammatory Lesions Mean Baseline Count Mean Absolute (%) Reduction | 39.4 16.3 (39.7%) | 41.0 15.2 (35.2%) | 40.0 10.3 (27.2%) |
+| Total Lesions Mean Baseline Count Mean Absolute (%) Reduction | 67.1 30.6 (45.3%) | 69.1 29.0 (41.8%) | 67.2 21.4 (33.7%) |
