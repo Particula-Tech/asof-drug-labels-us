@@ -88,7 +88,7 @@ Rare postmarketing cases of hepatosplenic T-cell lymphoma (HSTCL) have been repo
 This rare type of T-cell lymphoma has a very aggressive disease course and is usually fatal.
 Nearly all of the reported TNF-blocker associated cases have occurred in patients with Crohn's disease or ulcerative colitis.
 The majority were in adolescent and young adult males.
-Almost all these patients had received treatment with azathioprine (AZA) or 6-mercaptopurine (6–MP) concomitantly with a TNF-blocker at or prior to diagnosis.
+Almost all these patients had received treatment with azathioprine (AZA) or 6-mercaptopurine (6-MP) concomitantly with a TNF-blocker at or prior to diagnosis.
 A risk for the development for hepatosplenic T-cell lymphoma in patients treated with TNF-blockers cannot be excluded.
 
 Melanoma and Merkel cell carcinoma have been reported in patients treated with TNF-blocking agents, including SIMPONI ARIA.
@@ -137,8 +137,7 @@ Care should be taken when switching from one biologic product to another biologi
 
 ## 5.9 Hematologic Cytopenias
 
-There have been postmarketing reports of pancytopenia, leukopenia, neutropenia, aplastic anemia, and thrombocytopenia in patients receiving TNF-blockers.
-In clinical studies, cases of pancytopenia, leukopenia, neutropenia, and thrombocytopenia have also occurred in SIMPONI ARIA-treated patients.
+There have been reports of pancytopenia, leukopenia, neutropenia, agranulocytosis, aplastic anemia, and thrombocytopenia in patients receiving golimumab.
 Caution should be exercised when using TNF-blockers, including SIMPONI ARIA, in patients who have or have had significant cytopenias.
 
 ## 5.10 Vaccinations/Therapeutic Infectious Agents
