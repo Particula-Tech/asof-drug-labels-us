@@ -5,21 +5,14 @@
 The recommended dose of JANUVIA is 100 mg once daily.
 JANUVIA can be taken with or without food.
 
-## 2.2 Patients with Renal Insufficiency
+## 2.2 Recommendations for Use in Renal Impairment
 
-For patients with mild renal insufficiency (creatinine clearance [CrCl] greater than or equal to 50 mL/min, approximately corresponding to serum creatinine levels of less than or equal to 1.7 mg/dL in men and less than or equal to 1.5 mg/dL in women), no dosage adjustment for JANUVIA is required.
+For patients with an estimated glomerular filtration rate [eGFR] greater than or equal to 45 mL/min/1.73 m2 to less than 90 mL/min/1.73 m2, no dosage adjustment for JANUVIA is required.
 
-For patients with moderate renal insufficiency (CrCl greater than or equal to 30 to less than 50 mL/min, approximately corresponding to serum creatinine levels of greater than 1.7 to less than or equal to 3.0 mg/dL in men and greater than 1.5 to less than or equal to 2.5 mg/dL in women), the dose of JANUVIA is 50 mg once daily.
+For patients with moderate renal impairment (eGFR greater than or equal to 30 mL/min/1.73 m2 to less than 45 mL/min/1.73 m2), the dose of JANUVIA is 50 mg once daily.
 
-For patients with severe renal insufficiency (CrCl less than 30 mL/min, approximately corresponding to serum creatinine levels of greater than 3.0 mg/dL in men and greater than 2.5 mg/dL in women) or with end-stage renal disease (ESRD) requiring hemodialysis or peritoneal dialysis, the dose of JANUVIA is 25 mg once daily.
+For patients with severe renal impairment (eGFR less than 30 mL/min/1.73 m2) or with end-stage renal disease (ESRD) requiring hemodialysis or peritoneal dialysis, the dose of JANUVIA is 25 mg once daily.
 JANUVIA may be administered without regard to the timing of dialysis.
 
 Because there is a need for dosage adjustment based upon renal function, assessment of renal function is recommended prior to initiation of JANUVIA and periodically thereafter.
-Creatinine clearance can be estimated from serum creatinine using the Cockcroft-Gault formula.
-[See Clinical Pharmacology (12.3).]
-There have been postmarketing reports of worsening renal function in patients with renal insufficiency, some of whom were prescribed inappropriate doses of sitagliptin.
-
-## 2.3 Concomitant Use with an Insulin Secretagogue (e.g., Sulfonylurea) or with Insulin
-
-When JANUVIA is used in combination with an insulin secretagogue (e.g., sulfonylurea) or with insulin, a lower dose of the insulin secretagogue or insulin may be required to reduce the risk of hypoglycemia.
-[See Warnings and Precautions (5.4).]
+There have been postmarketing reports of worsening renal function in patients with renal impairment, some of whom were prescribed inappropriate doses of sitagliptin.

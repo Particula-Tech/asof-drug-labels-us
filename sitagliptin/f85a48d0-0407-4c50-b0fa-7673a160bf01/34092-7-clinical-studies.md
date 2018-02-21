@@ -15,7 +15,7 @@ Patients with inadequate glycemic control (A1C 7% to 10%) after the washout peri
 In the 18-week study, 521 patients were randomized to placebo, JANUVIA 100 mg, or JANUVIA 200 mg, and in the 24-week study 741 patients were randomized to placebo, JANUVIA 100 mg, or JANUVIA 200 mg.
 Patients who failed to meet specific glycemic goals during the studies were treated with metformin rescue, added on to placebo or JANUVIA.
 
-Treatment with JANUVIA at 100 mg daily provided significant improvements in A1C, FPG, and 2-hour PPG compared to placebo (Table 4).
+Treatment with JANUVIA at 100 mg daily provided significant improvements in A1C, FPG, and 2-hour PPG compared to placebo (Table 6).
 In the 18-week study, 9% of patients receiving JANUVIA 100 mg and 17% who received placebo required rescue therapy.
 In the 24-week study, 9% of patients receiving JANUVIA 100 mg and 21% of patients receiving placebo required rescue therapy.
 The improvement in A1C compared to placebo was not affected by gender, age, race, prior antihyperglycemic therapy, or baseline BMI.
@@ -25,7 +25,7 @@ Overall, the 200 mg daily dose did not provide greater glycemic efficacy than th
 The effect of JANUVIA on lipid endpoints was similar to placebo.
 Body weight did not increase from baseline with JANUVIA therapy in either study, compared to a small reduction in patients given placebo.
 
-Table 4: Glycemic Parameters in 18- and 24-Week Placebo-Controlled Studies of JANUVIA in Patients with Type 2 DiabetesIntent-to-treat population using last observation on study prior to metformin rescue therapy.
+Table 6: Glycemic Parameters in 18- and 24-Week Placebo-Controlled Studies of JANUVIA in Patients with Type 2 DiabetesIntent-to-treat population using last observation on study prior to metformin rescue therapy.
 
 |  | JANUVIA 100 mg | Placebo | JANUVIA 100 mg | Placebo |
 | --- | --- | --- | --- | --- |
@@ -63,11 +63,11 @@ Patients on metformin and another antihyperglycemic agent (N=229) and patients n
 Patients with inadequate glycemic control (A1C 7% to 10%) were randomized to the addition of either 100 mg of JANUVIA or placebo, administered once daily.
 Patients who failed to meet specific glycemic goals during the studies were treated with pioglitazone rescue.
 
-In combination with metformin, JANUVIA provided significant improvements in A1C, FPG, and 2-hour PPG compared to placebo with metformin (Table 5).
+In combination with metformin, JANUVIA provided significant improvements in A1C, FPG, and 2-hour PPG compared to placebo with metformin (Table 7).
 Rescue glycemic therapy was used in 5% of patients treated with JANUVIA 100 mg and 14% of patients treated with placebo.
 A similar decrease in body weight was observed for both treatment groups.
 
-Table 5: Glycemic Parameters at Final Visit (24-Week Study) for JANUVIA in Add-on Combination Therapy with MetforminIntent-to-treat population using last observation on study prior to pioglitazone rescue therapy.
+Table 7: Glycemic Parameters at Final Visit (24-Week Study) for JANUVIA in Add-on Combination Therapy with MetforminIntent-to-treat population using last observation on study prior to pioglitazone rescue therapy.
 
 |  | JANUVIA 100 mg + Metformin | Placebo + Metformin |
 | --- | --- | --- |
@@ -94,13 +94,13 @@ Patients not on antihyperglycemic agents at study entry (N=550) with inadequate 
 Approximately equal numbers of patients were randomized to receive initial therapy with placebo, 100 mg of JANUVIA once daily, 500 mg or 1000 mg of metformin twice daily, or 50 mg of sitagliptin twice daily in combination with 500 mg or 1000 mg of metformin twice daily.
 Patients who failed to meet specific glycemic goals during the study were treated with glyburide (glibenclamide) rescue.
 
-Initial therapy with the combination of JANUVIA and metformin provided significant improvements in A1C, FPG, and 2-hour PPG compared to placebo, to metformin alone, and to JANUVIA alone (Table 6, Figure 1).
+Initial therapy with the combination of JANUVIA and metformin provided significant improvements in A1C, FPG, and 2-hour PPG compared to placebo, to metformin alone, and to JANUVIA alone (Table 8, Figure 1).
 Mean reductions from baseline in A1C were generally greater for patients with higher baseline A1C values.
 For patients not on an antihyperglycemic agent at study entry, mean reductions from baseline in A1C were: JANUVIA 100 mg once daily, -1.1%; metformin 500 mg bid, -1.1%; metformin 1000 mg bid, -1.2%; sitagliptin 50 mg bid with metformin 500 mg bid, -1.6%; sitagliptin 50 mg bid with metformin 1000 mg bid, -1.9%; and for patients receiving placebo, -0.2%.
 Lipid effects were generally neutral.
 The decrease in body weight in the groups given sitagliptin in combination with metformin was similar to that in the groups given metformin alone or placebo.
 
-Table 6: Glycemic Parameters at Final Visit (24-Week Study) for Sitagliptin and Metformin, Alone and in Combination as Initial TherapyIntent-to-treat population using last observation on study prior to glyburide (glibenclamide) rescue therapy.
+Table 8: Glycemic Parameters at Final Visit (24-Week Study) for Sitagliptin and Metformin, Alone and in Combination as Initial TherapyIntent-to-treat population using last observation on study prior to glyburide (glibenclamide) rescue therapy.
 
 |  | Placebo | Sitagliptin(JANUVIA)100 mg QD | Metformin 500 mg bid | Metformin 1000 mg bid | Sitagliptin 50 mg bid + Metformin 500 mg bid | Sitagliptin 50 mg bid + Metformin 1000 mg bid |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -131,11 +131,11 @@ Patients receiving glipizide were given an initial dosage of 5 mg/day and then e
 Thereafter, the glipizide dose was to be kept constant, except for down-titration to prevent hypoglycemia.
 The mean dose of glipizide after the titration period was 10 mg.
 
-After 52 weeks, JANUVIA and glipizide had similar mean reductions from baseline in A1C in the intent-to-treat analysis (Table 7).
+After 52 weeks, JANUVIA and glipizide had similar mean reductions from baseline in A1C in the intent-to-treat analysis (Table 9).
 These results were consistent with the per protocol analysis (Figure 2).
 A conclusion in favor of the non-inferiority of JANUVIA to glipizide may be limited to patients with baseline A1C comparable to those included in the study (over 70% of patients had baseline A1C <8% and over 90% had A1C <9%).
 
-Table 7: Glycemic Parameters in a 52-Week Study Comparing JANUVIA to Glipizide as Add-On Therapy in Patients Inadequately Controlled on Metformin (Intent-to-Treat Population)The intent-to-treat analysis used the patients' last observation in the study prior to discontinuation.
+Table 9: Glycemic Parameters in a 52-Week Study Comparing JANUVIA to Glipizide as Add-On Therapy in Patients Inadequately Controlled on Metformin (Intent-to-Treat Population)The intent-to-treat analysis used the patients' last observation in the study prior to discontinuation.
 
 |  | JANUVIA 100 mg | Glipizide |
 | --- | --- | --- |
@@ -157,11 +157,11 @@ After the run-in period on pioglitazone monotherapy, patients with inadequate gl
 Patients who failed to meet specific glycemic goals during the studies were treated with metformin rescue.
 Glycemic endpoints measured were A1C and fasting glucose.
 
-In combination with pioglitazone, JANUVIA provided significant improvements in A1C and FPG compared to placebo with pioglitazone (Table 8).
+In combination with pioglitazone, JANUVIA provided significant improvements in A1C and FPG compared to placebo with pioglitazone (Table 10).
 Rescue therapy was used in 7% of patients treated with JANUVIA 100 mg and 14% of patients treated with placebo.
 There was no significant difference between JANUVIA and placebo in body weight change.
 
-Table 8: Glycemic Parameters at Final Visit (24-Week Study) for JANUVIA in Add-on Combination Therapy with PioglitazoneIntent-to-treat population using last observation on study prior to metformin rescue therapy.
+Table 10: Glycemic Parameters at Final Visit (24-Week Study) for JANUVIA in Add-on Combination Therapy with PioglitazoneIntent-to-treat population using last observation on study prior to metformin rescue therapy.
 
 |  | JANUVIA 100 mg + Pioglitazone | Placebo + Pioglitazone |
 | --- | --- | --- |
@@ -182,12 +182,12 @@ Patients not on antihyperglycemic agents at study entry (<4 weeks cumulative the
 Approximately equal numbers of patients were randomized to receive initial therapy with 100 mg of JANUVIA in combination with 30 mg of pioglitazone once daily or 30 mg of pioglitazone once daily as monotherapy.
 There was no glycemic rescue therapy in this study.
 
-Initial therapy with the combination of JANUVIA and pioglitazone provided significant improvements in A1C, FPG, and 2-hour PPG compared to pioglitazone monotherapy (Table 9).
+Initial therapy with the combination of JANUVIA and pioglitazone provided significant improvements in A1C, FPG, and 2-hour PPG compared to pioglitazone monotherapy (Table 11).
 The improvement in A1C was generally consistent across subgroups defined by gender, age, race, baseline BMI, baseline A1C, or duration of disease.
 In this study, patients treated with JANUVIA in combination with pioglitazone had a mean increase in body weight of 1.1 kg compared to pioglitazone alone (3.0 kg vs. 1.9 kg).
 Lipid effects were generally neutral.
 
-Table 9: Glycemic Parameters at Final Visit (24-Week Study) for JANUVIA in Combination with Pioglitazone as Initial Therapy Intent-to-treat population using last observation on study.
+Table 11: Glycemic Parameters at Final Visit (24-Week Study) for JANUVIA in Combination with Pioglitazone as Initial Therapy Intent-to-treat population using last observation on study.
 
 |  | JANUVIA 100 mg + Pioglitazone | Pioglitazone |
 | --- | --- | --- |
@@ -214,12 +214,12 @@ After the run-in period, patients with inadequate glycemic control (A1C 7.5% to 
 Patients who failed to meet specific glycemic goals during the study were treated with glipizide (or other sulfonylurea) rescue.
 The primary time point for evaluation of glycemic parameters was Week 18.
 
-In combination with metformin and rosiglitazone, JANUVIA provided significant improvements in A1C, FPG, and 2-hour PPG compared to placebo with metformin and rosiglitazone (Table 10) at Week 18.
+In combination with metformin and rosiglitazone, JANUVIA provided significant improvements in A1C, FPG, and 2-hour PPG compared to placebo with metformin and rosiglitazone (Table 12) at Week 18.
 At Week 54, mean reduction in A1C was -1.0% for patients treated with JANUVIA and -0.3% for patients treated with placebo in an analysis based on the intent-to-treat population.
 Rescue therapy was used in 18% of patients treated with JANUVIA 100 mg and 40% of patients treated with placebo.
 There was no significant difference between JANUVIA and placebo in body weight change.
 
-Table 10: Glycemic Parameters at Week 18 for JANUVIA in Add-on Combination Therapy with Metformin and RosiglitazoneIntent-to-treat population using last observation on study prior to glipizide (or other sulfonylurea) rescue therapy.
+Table 12: Glycemic Parameters at Week 18 for JANUVIA in Add-on Combination Therapy with Metformin and RosiglitazoneIntent-to-treat population using last observation on study prior to glipizide (or other sulfonylurea) rescue therapy.
 
 |  | JANUVIA 100 mg + Metformin + Rosiglitazone | Placebo +Metformin + Rosiglitazone |
 | --- | --- | --- |
@@ -244,14 +244,14 @@ Patients entered a run-in treatment period on glimepiride (≥4 mg per day) alon
 After a dose-titration and dose-stable run-in period of up to 16 weeks and a 2-week placebo run-in period, patients with inadequate glycemic control (A1C 7.5% to 10.5%) were randomized to the addition of either 100 mg of JANUVIA or placebo, administered once daily.
 Patients who failed to meet specific glycemic goals during the studies were treated with pioglitazone rescue.
 
-In combination with glimepiride, with or without metformin, JANUVIA provided significant improvements in A1C and FPG compared to placebo (Table 11).
+In combination with glimepiride, with or without metformin, JANUVIA provided significant improvements in A1C and FPG compared to placebo (Table 13).
 In the entire study population (patients on JANUVIA in combination with glimepiride and patients on JANUVIA in combination with glimepiride and metformin), a mean reduction from baseline relative to placebo in A1C of -0.7% and in FPG of -20 mg/dL was seen.
 Rescue therapy was used in 12% of patients treated with JANUVIA 100 mg and 27% of patients treated with placebo.
 In this study, patients treated with JANUVIA had a mean increase in body weight of 1.1 kg vs. placebo (+0.8 kg vs. -0.4 kg).
 In addition, there was an increased rate of hypoglycemia.
 [See Warnings and Precautions (5.4); Adverse Reactions (6.1).]
 
-Table 11: Glycemic Parameters at Final Visit (24-Week Study) for JANUVIA as Add-On Combination Therapy with Glimepiride, with or without MetforminIntent-to-treat population using last observation on study prior to pioglitazone rescue therapy.
+Table 13: Glycemic Parameters at Final Visit (24-Week Study) for JANUVIA as Add-On Combination Therapy with Glimepiride, with or without MetforminIntent-to-treat population using last observation on study prior to pioglitazone rescue therapy.
 
 |  | JANUVIA 100 mg + Glimepiride | Placebo + Glimepiride | JANUVIA 100 mg + Glimepiride + Metformin | Placebo + Glimepiride + Metformin |
 | --- | --- | --- | --- | --- |
@@ -278,12 +278,12 @@ Patients who failed to meet specific glycemic goals during the double-blind trea
 
 The median daily insulin dose at baseline was 42 units in the patients treated with JANUVIA and 45 units in the placebo-treated patients.
 The median change from baseline in daily dose of insulin was zero for both groups at the end of the study.
-In combination with insulin (with or without metformin), JANUVIA provided significant improvements in A1C, FPG, and 2-hour PPG compared to placebo (Table 12).
+In combination with insulin (with or without metformin), JANUVIA provided significant improvements in A1C, FPG, and 2-hour PPG compared to placebo (Table 14).
 Both treatment groups had an adjusted mean increase in body weight of 0.1 kg from baseline to Week 24.
 There was an increased rate of hypoglycemia in patients treated with JANUVIA.
 [See Warnings and Precautions (5.4); Adverse Reactions (6.1).]
 
-Table 12: Glycemic Parameters at Final Visit (24-Week Study) for JANUVIA as Add-on Combination Therapy with InsulinIntent-to-treat population using last observation on study prior to rescue therapy.
+Table 14: Glycemic Parameters at Final Visit (24-Week Study) for JANUVIA as Add-on Combination Therapy with InsulinIntent-to-treat population using last observation on study prior to rescue therapy.
 
 |  | JANUVIA 100 mg+ Insulin(+/- Metformin) | Placebo +Insulin(+/- Metformin) |
 | --- | --- | --- |

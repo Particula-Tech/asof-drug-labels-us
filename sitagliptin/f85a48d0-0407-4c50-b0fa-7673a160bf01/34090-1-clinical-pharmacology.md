@@ -2,64 +2,71 @@
 
 ## 12.1 Mechanism of Action
 
-Sitagliptin is a DPP-4 inhibitor, which is believed to exert its actions in patients with type 2 diabetes by slowing the inactivation of incretin hormones.
-Concentrations of the active intact hormones are increased by JANUVIA, thereby increasing and prolonging the action of these hormones.
+Sitagliptin is a DPP-4 inhibitor, which is believed to exert its actions in patients with type 2 diabetes mellitus by slowing the inactivation of incretin hormones.
+Concentrations of the active intact hormones are increased by sitagliptin, thereby increasing and prolonging the action of these hormones.
 Incretin hormones, including glucagon-like peptide-1 (GLP-1) and glucose-dependent insulinotropic polypeptide (GIP), are released by the intestine throughout the day, and levels are increased in response to a meal.
 These hormones are rapidly inactivated by the enzyme, DPP-4.
 The incretins are part of an endogenous system involved in the physiologic regulation of glucose homeostasis.
 When blood glucose concentrations are normal or elevated, GLP-1 and GIP increase insulin synthesis and release from pancreatic beta cells by intracellular signaling pathways involving cyclic AMP.
 GLP-1 also lowers glucagon secretion from pancreatic alpha cells, leading to reduced hepatic glucose production.
-By increasing and prolonging active incretin levels, JANUVIA increases insulin release and decreases glucagon levels in the circulation in a glucose-dependent manner.
+By increasing and prolonging active incretin levels, sitagliptin increases insulin release and decreases glucagon levels in the circulation in a glucose-dependent manner.
 Sitagliptin demonstrates selectivity for DPP-4 and does not inhibit DPP-8 or DPP-9 activity in vitro at concentrations approximating those from therapeutic doses.
 
 ## 12.2 Pharmacodynamics
 
 General
 
-In patients with type 2 diabetes, administration of JANUVIA led to inhibition of DPP-4 enzyme activity for a 24-hour period.
+In patients with type 2 diabetes mellitus, administration of sitagliptin led to inhibition of DPP-4 enzyme activity for a 24-hour period.
 After an oral glucose load or a meal, this DPP-4 inhibition resulted in a 2- to 3-fold increase in circulating levels of active GLP-1 and GIP, decreased glucagon concentrations, and increased responsiveness of insulin release to glucose, resulting in higher C-peptide and insulin concentrations.
 The rise in insulin with the decrease in glucagon was associated with lower fasting glucose concentrations and reduced glucose excursion following an oral glucose load or a meal.
+
+In studies with healthy subjects, sitagliptin did not lower blood glucose or cause hypoglycemia.
+
+Sitagliptin and Metformin hydrochloride Coadministration
 
 In a two-day study in healthy subjects, sitagliptin alone increased active GLP-1 concentrations, whereas metformin alone increased active and total GLP-1 concentrations to similar extents.
 Coadministration of sitagliptin and metformin had an additive effect on active GLP-1 concentrations.
 Sitagliptin, but not metformin, increased active GIP concentrations.
-It is unclear how these findings relate to changes in glycemic control in patients with type 2 diabetes.
-
-In studies with healthy subjects, JANUVIA did not lower blood glucose or cause hypoglycemia.
+It is unclear how these findings relate to changes in glycemic control in patients with type 2 diabetes mellitus.
 
 Cardiac Electrophysiology
 
-In a randomized, placebo-controlled crossover study, 79 healthy subjects were administered a single oral dose of JANUVIA 100 mg, JANUVIA 800 mg (8 times the recommended dose), and placebo.
+In a randomized, placebo-controlled crossover study, 79 healthy subjects were administered a single oral dose of sitagliptin 100 mg, sitagliptin 800 mg (8 times the recommended dose), and placebo.
 At the recommended dose of 100 mg, there was no effect on the QTc interval obtained at the peak plasma concentration, or at any other time during the study.
 Following the 800 mg dose, the maximum increase in the placebo-corrected mean change in QTc from baseline was observed at 3 hours postdose and was 8.0 msec.
 This increase is not considered to be clinically significant.
-At the 800 mg dose, peak sitagliptin plasma concentrations were approximately 11 times higher than the peak concentrations following a 100 mg dose.
+At the 800 mg dose, peak sitagliptin plasma concentrations were approximately 11 times higher than the peak concentrations following a 100-mg dose.
 
-In patients with type 2 diabetes administered JANUVIA 100 mg (N=81) or JANUVIA 200 mg (N=63) daily, there were no meaningful changes in QTc interval based on ECG data obtained at the time of expected peak plasma concentration.
+In patients with type 2 diabetes mellitus administered sitagliptin 100 mg (N=81) or sitagliptin 200 mg (N=63) daily, there were no meaningful changes in QTc interval based on ECG data obtained at the time of expected peak plasma concentration.
 
 ## 12.3 Pharmacokinetics
 
-The pharmacokinetics of sitagliptin has been extensively characterized in healthy subjects and patients with type 2 diabetes.
-After oral administration of a 100 mg dose to healthy subjects, sitagliptin was rapidly absorbed, with peak plasma concentrations (median Tmax) occurring 1 to 4 hours postdose.
-Plasma AUC of sitagliptin increased in a dose-proportional manner.
-Following a single oral 100 mg dose to healthy volunteers, mean plasma AUC of sitagliptin was 8.52 μM•hr, Cmax was 950 nM, and apparent terminal half-life (t1/2) was 12.4 hours.
-Plasma AUC of sitagliptin increased approximately 14% following 100 mg doses at steady-state compared to the first dose.
+The pharmacokinetics of sitagliptin have been extensively characterized in healthy subjects and patients with type 2 diabetes mellitus.
+Following a single oral 100-mg dose to healthy volunteers, mean plasma AUC of sitagliptin was 8.52 μM•hr, Cmax was 950 nM, and apparent terminal half-life (t1/2) was 12.4 hours.
+Plasma AUC of sitagliptin increased in a dose-proportional manner and increased approximately 14% following 100 mg doses at steady-state compared to the first dose.
 The intra-subject and inter-subject coefficients of variation for sitagliptin AUC were small (5.8% and 15.1%).
-The pharmacokinetics of sitagliptin was generally similar in healthy subjects and in patients with type 2 diabetes.
+The pharmacokinetics of sitagliptin was generally similar in healthy subjects and in patients with type 2 diabetes mellitus.
 
 Absorption
 
+After oral administration of a 100 mg dose to healthy subjects, sitagliptin was rapidly absorbed with peak plasma concentrations (median Tmax) occurring 1 to 4 hours postdose.
 The absolute bioavailability of sitagliptin is approximately 87%.
-Because coadministration of a high-fat meal with JANUVIA had no effect on the pharmacokinetics, JANUVIA may be administered with or without food.
+
+Effect of Food
+
+Coadministration of a high-fat meal with sitagliptin had no effect on the pharmacokinetics of sitagliptin.
 
 Distribution
 
-The mean volume of distribution at steady state following a single 100 mg intravenous dose of sitagliptin to healthy subjects is approximately 198 liters.
+The mean volume of distribution at steady state following a single 100-mg intravenous dose of sitagliptin to healthy subjects is approximately 198 liters.
 The fraction of sitagliptin reversibly bound to plasma proteins is low (38%).
 
-Metabolism
+Elimination
 
 Approximately 79% of sitagliptin is excreted unchanged in the urine with metabolism being a minor pathway of elimination.
+The apparent terminal t1/2 following a 100 mg oral dose of sitagliptin was approximately 12.4 hours and renal clearance was approximately 350 mL/min.
+
+Metabolism
 
 Following a [14C]sitagliptin oral dose, approximately 16% of the radioactivity was excreted as metabolites of sitagliptin.
 Six metabolites were detected at trace levels and are not expected to contribute to the plasma DPP-4 inhibitory activity of sitagliptin.
@@ -68,71 +75,42 @@ In vitro studies indicated that the primary enzyme responsible for the limited m
 Excretion
 
 Following administration of an oral [14C]sitagliptin dose to healthy subjects, approximately 100% of the administered radioactivity was eliminated in feces (13%) or urine (87%) within one week of dosing.
-The apparent terminal t1/2 following a 100 mg oral dose of sitagliptin was approximately 12.4 hours and renal clearance was approximately 350 mL/min.
 
 Elimination of sitagliptin occurs primarily via renal excretion and involves active tubular secretion.
 Sitagliptin is a substrate for human organic anion transporter-3 (hOAT-3), which may be involved in the renal elimination of sitagliptin.
 The clinical relevance of hOAT-3 in sitagliptin transport has not been established.
-Sitagliptin is also a substrate of p-glycoprotein, which may also be involved in mediating the renal elimination of sitagliptin.
-However, cyclosporine, a p-glycoprotein inhibitor, did not reduce the renal clearance of sitagliptin.
+Sitagliptin is also a substrate of P-glycoprotein (P-gp), which may also be involved in mediating the renal elimination of sitagliptin.
+However, cyclosporine, a P-gp inhibitor, did not reduce the renal clearance of sitagliptin.
 
-Special Populations
+Specific Populations
 
-Renal Insufficiency
+Patients with Renal Impairment
 
-A single-dose, open-label study was conducted to evaluate the pharmacokinetics of JANUVIA (50 mg dose) in patients with varying degrees of chronic renal insufficiency compared to normal healthy control subjects.
-The study included patients with renal insufficiency classified on the basis of creatinine clearance as mild (50 to <80 mL/min), moderate (30 to <50 mL/min), and severe (<30 mL/min), as well as patients with ESRD on hemodialysis.
-In addition, the effects of renal insufficiency on sitagliptin pharmacokinetics in patients with type 2 diabetes and mild or moderate renal insufficiency were assessed using population pharmacokinetic analyses.
-Creatinine clearance was measured by 24‑hour urinary creatinine clearance measurements or estimated from serum creatinine based on the Cockcroft-Gault formula:
+An approximately 2-fold increase in the plasma AUC of sitagliptin was observed in patients with moderate renal impairment with eGFR of 30 to less than 45 mL/min/1.73 m2, and an approximately 4-fold increase was observed in patients with severe renal impairment, including patients with ESRD on hemodialysis, as compared to normal healthy control subjects.
 
-CrCl = [140 - age (years)] x weight (kg) {x 0.85 for female patients} [72 x serum creatinine (mg/dL)]
+Patients with Hepatic Impairment
 
-Compared to normal healthy control subjects, an approximate 1.1- to 1.6-fold increase in plasma AUC of sitagliptin was observed in patients with mild renal insufficiency.
-Because increases of this magnitude are not clinically relevant, dosage adjustment in patients with mild renal insufficiency is not necessary.
-Plasma AUC levels of sitagliptin were increased approximately 2-fold and 4-fold in patients with moderate renal insufficiency and in patients with severe renal insufficiency, including patients with ESRD on hemodialysis, respectively.
-Sitagliptin was modestly removed by hemodialysis (13.5% over a 3- to 4-hour hemodialysis session starting 4 hours postdose).
-To achieve plasma concentrations of sitagliptin similar to those in patients with normal renal function, lower dosages are recommended in patients with moderate and severe renal insufficiency, as well as in ESRD patients requiring dialysis.
-[See Dosage and Administration (2.2).]
-
-Hepatic Insufficiency
-
-In patients with moderate hepatic insufficiency (Child-Pugh score 7 to 9), mean AUC and Cmax of sitagliptin increased approximately 21% and 13%, respectively, compared to healthy matched controls following administration of a single 100 mg dose of JANUVIA.
+In patients with moderate hepatic impairment (Child-Pugh score 7 to 9), mean AUC and Cmax of sitagliptin increased approximately 21% and 13%, respectively, compared to healthy matched controls following administration of a single 100-mg dose of sitagliptin.
 These differences are not considered to be clinically meaningful.
-No dosage adjustment for JANUVIA is necessary for patients with mild or moderate hepatic insufficiency.
 
-There is no clinical experience in patients with severe hepatic insufficiency (Child-Pugh score >9).
+There is no clinical experience in patients with severe hepatic impairment (Child-Pugh score >9).
 
-Body Mass Index (BMI)
+Effects of Age, Body Mass Index (BMI), Gender, and Race
 
-No dosage adjustment is necessary based on BMI.
-Body mass index had no clinically meaningful effect on the pharmacokinetics of sitagliptin based on a composite analysis of Phase I pharmacokinetic data and on a population pharmacokinetic analysis of Phase I and Phase II data.
-
-Gender
-
-No dosage adjustment is necessary based on gender.
-Gender had no clinically meaningful effect on the pharmacokinetics of sitagliptin based on a composite analysis of Phase I pharmacokinetic data and on a population pharmacokinetic analysis of Phase I and Phase II data.
-
-Geriatric
-
-No dosage adjustment is required based solely on age.
+Based on a population pharmacokinetic analysis or a composite analysis of available pharmacokinetic data, BMI, gender, and race do not have a clinically meaningful effect on the pharmacokinetics of sitagliptin.
 When the effects of age on renal function are taken into account, age alone did not have a clinically meaningful impact on the pharmacokinetics of sitagliptin based on a population pharmacokinetic analysis.
 Elderly subjects (65 to 80 years) had approximately 19% higher plasma concentrations of sitagliptin compared to younger subjects.
 
-Pediatric
+Pediatric Patients
 
 Studies characterizing the pharmacokinetics of sitagliptin in pediatric patients have not been performed.
 
-Race
-
-No dosage adjustment is necessary based on race.
-Race had no clinically meaningful effect on the pharmacokinetics of sitagliptin based on a composite analysis of available pharmacokinetic data, including subjects of white, Hispanic, black, Asian, and other racial groups.
-
-Drug Interactions
+Drug Interaction Studies
 
 In Vitro Assessment of Drug Interactions
 
 Sitagliptin is not an inhibitor of CYP isozymes CYP3A4, 2C8, 2C9, 2D6, 1A2, 2C19 or 2B6, and is not an inducer of CYP3A4.
-Sitagliptin is a p-glycoprotein substrate, but does not inhibit p-glycoprotein mediated transport of digoxin.
+Sitagliptin is a P-gp substrate, but does not inhibit P-gp mediated transport of digoxin.
 Based on these results, sitagliptin is considered unlikely to cause interactions with other drugs that utilize these pathways.
 
 Sitagliptin is not extensively bound to plasma proteins.
@@ -142,35 +120,34 @@ In Vivo Assessment of Drug Interactions
 
 Effects of Sitagliptin on Other Drugs
 
-In clinical studies, as described below, sitagliptin did not meaningfully alter the pharmacokinetics of metformin, glyburide, simvastatin, rosiglitazone, warfarin, or oral contraceptives, providing in vivo evidence of a low propensity for causing drug interactions with substrates of CYP3A4, CYP2C8, CYP2C9, and organic cationic transporter (OCT).
+In clinical studies, sitagliptin did not meaningfully alter the pharmacokinetics of metformin, glyburide, simvastatin, rosiglitazone, digoxin, warfarin, or an oral contraceptive (ethinyl estradiol and norethindrone) (Table 4), providing in vivo evidence of a low propensity for causing drug interactions with substrates of CYP3A4, CYP2C8, CYP2C9, P-gp, and organic cationic transporter (OCT).
 
-Digoxin: Sitagliptin had a minimal effect on the pharmacokinetics of digoxin.
-Following administration of 0.25 mg digoxin concomitantly with 100 mg of JANUVIA daily for 10 days, the plasma AUC of digoxin was increased by 11%, and the plasma Cmax by 18%.
+Table 4: Effect of Sitagliptin on Systemic Exposure of Coadministered Drugs
 
-Metformin: Coadministration of multiple twice-daily doses of sitagliptin with metformin, an OCT substrate, did not meaningfully alter the pharmacokinetics of metformin in patients with type 2 diabetes.
-Therefore, sitagliptin is not an inhibitor of OCT-mediated transport.
-
-Sulfonylureas: Single-dose pharmacokinetics of glyburide, a CYP2C9 substrate, was not meaningfully altered in subjects receiving multiple doses of sitagliptin.
-Clinically meaningful interactions would not be expected with other sulfonylureas (e.g., glipizide, tolbutamide, and glimepiride) which, like glyburide, are primarily eliminated by CYP2C9.
-
-Simvastatin: Single-dose pharmacokinetics of simvastatin, a CYP3A4 substrate, was not meaningfully altered in subjects receiving multiple daily doses of sitagliptin.
-Therefore, sitagliptin is not an inhibitor of CYP3A4-mediated metabolism.
-
-Thiazolidinediones: Single-dose pharmacokinetics of rosiglitazone was not meaningfully altered in subjects receiving multiple daily doses of sitagliptin, indicating that JANUVIA is not an inhibitor of CYP2C8-mediated metabolism.
-
-Warfarin: Multiple daily doses of sitagliptin did not meaningfully alter the pharmacokinetics, as assessed by measurement of S(-) or R(+) warfarin enantiomers, or pharmacodynamics (as assessed by measurement of prothrombin INR) of a single dose of warfarin.
-Because S(-) warfarin is primarily metabolized by CYP2C9, these data also support the conclusion that sitagliptin is not a CYP2C9 inhibitor.
-
-Oral Contraceptives: Coadministration with sitagliptin did not meaningfully alter the steady-state pharmacokinetics of norethindrone or ethinyl estradiol.
+|  | AUCAUC is reported as AUC0-∞ unless otherwise specified. | Cmax |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Coadministered Drug | Dose of Coadministered DrugAll doses administered as single dose unless otherwise specified. | Dose of Sitagliptin | Geometric Mean Ratio (ratio with/without sitagliptin) No Effect = 1.00 |  |  |
+| No dosing adjustments required for the following: |  |  |  |  |  |
+| Digoxin | 0.25 mgMultiple dose. once daily for 10 days | 100 mg once daily for 10 days | Digoxin | 1.11AUC0-24hr. | 1.18 |
+| Glyburide | 1.25 mg | 200 mg once daily for 6 days | Glyburide | 1.09 | 1.01 |
+| Simvastatin | 20 mg | 200 mg once daily for 5 days | Simvastatin | 0.85AUC0-last. | 0.80 |
+| Simvastatin Acid | 1.12 | 1.06 |  |  |  |
+| Rosiglitazone | 4 mg | 200 mg once daily for 5 days | Rosiglitazone | 0.98 | 0.99 |
+| Warfarin | 30 mg single dose on day 5 | 200 mg once daily for 11 days | S(-) Warfarin | 0.95 | 0.89 |
+| R(+) Warfarin | 0.99 | 0.89 |  |  |  |
+| Ethinyl estradiol and norethindrone | 21 days once daily of 35 µg ethinyl estradiol with norethindrone 0.5 mg × 7 days, 0.75 mg × 7 days, 1.0 mg × 7 days | 200 mg once daily for 21 days | Ethinyl estradiol | 0.99 | 0.97 |
+| Norethindrone | 1.03 | 0.98 |  |  |  |
+| Metformin | 1000 mg twice daily for 14 days | 50 mg twice daily for 7 days | Metformin | 1.02AUC0-12hr. | 0.97 |
 
 Effects of Other Drugs on Sitagliptin
 
-Clinical data described below suggest that sitagliptin is not susceptible to clinically meaningful interactions by coadministered medications.
+Clinical data described below suggest that sitagliptin is not susceptible to clinically meaningful interactions by coadministered medications (Table 5).
 
-Metformin: Coadministration of multiple twice-daily doses of metformin with sitagliptin did not meaningfully alter the pharmacokinetics of sitagliptin in patients with type 2 diabetes.
+Table 5: Effect of Coadministered Drugs on Systemic Exposure of Sitagliptin
 
-Cyclosporine: A study was conducted to assess the effect of cyclosporine, a potent inhibitor of p-glycoprotein, on the pharmacokinetics of sitagliptin.
-Coadministration of a single 100 mg oral dose of JANUVIA and a single 600 mg oral dose of cyclosporine increased the AUC and Cmax of sitagliptin by approximately 29% and 68%, respectively.
-These modest changes in sitagliptin pharmacokinetics were not considered to be clinically meaningful.
-The renal clearance of sitagliptin was also not meaningfully altered.
-Therefore, meaningful interactions would not be expected with other p-glycoprotein inhibitors.
+|  | AUCAUC is reported as AUC0-∞ unless otherwise specified. | Cmax |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Coadministered Drug | Dose of Coadministered DrugAll doses administered as single dose unless otherwise specified. | Dose of Sitagliptin | Geometric Mean Ratio (ratio with/without coadministered drug) No Effect = 1.00 |  |  |
+| No dosing adjustments required for the following: |  |  |  |  |  |
+| Cyclosporine | 600 mg once daily | 100 mg once daily | Sitagliptin | 1.29 | 1.68 |
+| Metformin | 1000 mgMultiple dose. twice daily for 14 days | 50 mg twice daily for 7 days | Sitagliptin | 1.02AUC0-12hr. | 1.05 |
