@@ -229,9 +229,15 @@ Estrogens may decrease the hepatic metabolism of certain corticosteroids, thereb
 
 Drugs which induce hepatic microsomal drug-metabolizing enzyme activity may enhance the metabolism of corticosteroids and require that the dosage of the corticosteroid be increased.
 
-### Ketoconazole
+### Interactions with Strong CYP3A4 Inhibitors
+
+Corticosteroids (including betamethasone) are metabolized by CYP3A4.
 
 Ketoconazole has been reported to decrease the metabolism of certain corticosteroids by up to 60%, leading to an increased risk of corticosteroid side effects.
+
+Coadministration with other strong CYP3A4 inhibitors (e.g. itraconazole, clarithromycin, ritonavir, cobicistat-containing products) may lead to increased exposures of corticosteroids and therefore the potential for increased risk of systemic corticosteroid side effects.
+
+Consider the benefit of coadministration versus the potential risk of systemic corticosteroid effects, in which case patients should be monitored for systemic corticosteroid side effects.
 
 ### Nonsteroidal Anti-inflammatory Agents (NSAIDS)
 
