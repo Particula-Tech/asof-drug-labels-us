@@ -5,7 +5,7 @@ JANUMET is indicated as an adjunct to diet and exercise to improve glycemic cont
 
 Important Limitations of Use
 
-JANUMET should not be used in patients with type 1 diabetes or for the treatment of diabetic ketoacidosis.
+JANUMET should not be used in patients with type 1 diabetes mellitus or for the treatment of diabetic ketoacidosis.
 
 JANUMET has not been studied in patients with a history of pancreatitis.
 It is unknown whether patients with a history of pancreatitis are at increased risk for the development of pancreatitis while using JANUMET.

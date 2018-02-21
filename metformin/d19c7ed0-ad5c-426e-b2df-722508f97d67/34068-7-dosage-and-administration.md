@@ -30,7 +30,7 @@ Assess renal function prior to initiation of JANUMET and periodically thereafter
 
 JANUMET is contraindicated in patients with an estimated glomerular filtration rate (eGFR) below 30 mL/min/1.73 m2 [see Contraindications (4) and Warnings and Precautions (5.1)].
 
-JANUMET is not recommended in patients with an eGFR between 30 and <45 mL/min/1.73 m2 because these patients require a lower dosage of sitagliptin than what is available in the fixed combination JANUMET product.
+JANUMET is not recommended in patients with an eGFR between 30 and less than 45 mL/min/1.73 m2 because these patients require a lower dosage of sitagliptin than what is available in the fixed combination JANUMET product.
 
 ## 2.3 Discontinuation for Iodinated Contrast Imaging Procedures
 

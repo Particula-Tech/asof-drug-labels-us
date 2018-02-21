@@ -176,7 +176,7 @@ The mean dose of glipizide after the titration period was 10 mg.
 
 After 52 weeks, sitagliptin and glipizide had similar mean reductions from baseline in A1C in the intent-to-treat analysis (Table 13).
 These results were consistent with the per protocol analysis (Figure 2).
-A conclusion in favor of the non-inferiority of sitagliptin to glipizide may be limited to patients with baseline A1C comparable to those included in the study (over 70% of patients had baseline A1C <8% and over 90% had A1C <9%).
+A conclusion in favor of the non-inferiority of sitagliptin to glipizide may be limited to patients with baseline A1C comparable to those included in the study (over 70% of patients had baseline A1C less than 8% and over 90% had A1C less than 9%).
 
 Table 13: Glycemic Parameters in a 52-Week Study Comparing Sitagliptin to Glipizide as Add-On Therapy in Patients Inadequately Controlled on Metformin (Intent-to-Treat Population)The intent-to-treat analysis used the patients' last observation in the study prior to discontinuation.
 

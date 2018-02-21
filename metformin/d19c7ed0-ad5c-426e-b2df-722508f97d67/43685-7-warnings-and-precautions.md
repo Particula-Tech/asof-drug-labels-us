@@ -25,7 +25,7 @@ Clinical recommendations based upon the patient's renal function include [see Do
 
 - Before initiating JANUMET, obtain an estimated glomerular filtration rate (eGFR).
 - JANUMET is contraindicated in patients with an eGFR below 30 mL/min/1.73 m2 [see Contraindications (4)].
-- JANUMET is not recommended in patients with an eGFR between 30 and <45 mL/min/1.73 m2 because these patients require a lower dosage of sitagliptin than what is available in the fixed combination JANUMET product.
+- JANUMET is not recommended in patients with an eGFR between 30 and less than 45 mL/min/1.73 m2 because these patients require a lower dosage of sitagliptin than what is available in the fixed combination JANUMET product.
 - Obtain an eGFR at least annually in all patients taking JANUMET.
   In patients at increased risk for the development of renal impairment (e.g., the elderly), renal function should be assessed more frequently.
 
@@ -160,4 +160,4 @@ If bullous pemphigoid is suspected, JANUMET should be discontinued and referral 
 
 ## 5.12 Macrovascular Outcomes
 
-There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with JANUMET or any other anti-diabetic drug.
+There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with JANUMET.
