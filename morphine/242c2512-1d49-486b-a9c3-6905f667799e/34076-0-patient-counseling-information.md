@@ -101,9 +101,9 @@ Mallinckrodt, the “M” brand mark and the Mallinckrodt Pharmaceuticals logo a
 
 © 2017 Mallinckrodt.
 
-Manufactured by: Mallinckrodt Inc. Hazelwood, MO 63042 USA
+Manufactured by: SpecGx LLC Webster Groves, MO 63119 USA
 
-Issued 02/2017
+Issued 08/2017
 
 Mallinckrodt™ Pharmaceuticals
 
