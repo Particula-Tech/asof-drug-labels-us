@@ -4,7 +4,7 @@
 
 JANUMET XR
 
-JANUMET XR tablets combine two antidiabetic medications with complementary mechanisms of action to improve glycemic control in adults with type 2 diabetes: sitagliptin, a dipeptidyl peptidase-4 (DPP-4) inhibitor, and metformin hydrochloride extended-release, a member of the biguanide class.
+JANUMET XR tablets combine two antihyperglycemic agents with complementary mechanisms of action to improve glycemic control in adults with type 2 diabetes mellitus: sitagliptin, a dipeptidyl peptidase-4 (DPP-4) inhibitor, and metformin hydrochloride extended-release, a member of the biguanide class.
 
 Sitagliptin
 
@@ -20,27 +20,27 @@ Sitagliptin demonstrates selectivity for DPP-4 and does not inhibit DPP-8 or DPP
 
 Metformin hydrochloride
 
-Metformin is a biguanide that improves glycemic control in patients with type 2 diabetes, lowering both basal and postprandial plasma glucose.
+Metformin is a biguanide that improves glycemic control in patients with type 2 diabetes mellitus, lowering both basal and postprandial plasma glucose.
 Metformin decreases hepatic glucose production, decreases intestinal absorption of glucose, and improves insulin sensitivity by increasing peripheral glucose uptake and utilization.
-Metformin does not produce hypoglycemia in either patients with type 2 diabetes or healthy subjects except in certain circumstances [see Warnings and Precautions (5.7)] and does not cause hyperinsulinemia.
+Metformin does not produce hypoglycemia in either patients with type 2 diabetes mellitus or healthy subjects except in certain circumstances [see Warnings and Precautions (5.7)] and does not cause hyperinsulinemia.
 With metformin therapy, insulin secretion remains unchanged while fasting insulin levels and day-long plasma insulin response may actually decrease.
 
 ## 12.2 Pharmacodynamics
 
 Sitagliptin
 
-In patients with type 2 diabetes, administration of sitagliptin led to inhibition of DPP-4 enzyme activity for a 24-hour period.
+In patients with type 2 diabetes mellitus, administration of sitagliptin led to inhibition of DPP-4 enzyme activity for a 24-hour period.
 After an oral glucose load or a meal, this DPP-4 inhibition resulted in a 2- to 3-fold increase in circulating levels of active GLP-1 and GIP, decreased glucagon concentrations, and increased responsiveness of insulin release to glucose, resulting in higher C-peptide and insulin concentrations.
 The rise in insulin with the decrease in glucagon was associated with lower fasting glucose concentrations and reduced glucose excursion following an oral glucose load or a meal.
+
+In studies with healthy subjects, sitagliptin did not lower blood glucose or cause hypoglycemia.
 
 Sitagliptin and Metformin hydrochloride Coadministration
 
 In a two-day study in healthy subjects, sitagliptin alone increased active GLP-1 concentrations, whereas metformin alone increased active and total GLP-1 concentrations to similar extents.
 Coadministration of sitagliptin and metformin had an additive effect on active GLP-1 concentrations.
 Sitagliptin, but not metformin, increased active GIP concentrations.
-It is unclear what these findings mean for changes in glycemic control in patients with type 2 diabetes.
-
-In studies with healthy subjects, sitagliptin did not lower blood glucose or cause hypoglycemia.
+It is unclear what these findings mean for changes in glycemic control in patients with type 2 diabetes mellitus.
 
 Cardiac Electrophysiology
 
@@ -50,23 +50,30 @@ Following the 800-mg dose, the maximum increase in the placebo-corrected mean ch
 This increase is not considered to be clinically significant.
 At the 800-mg dose, peak sitagliptin plasma concentrations were approximately 11 times higher than the peak concentrations following a 100-mg dose.
 
-In patients with type 2 diabetes administered sitagliptin 100 mg (N=81) or sitagliptin 200 mg (N=63) daily, there were no meaningful changes in QTc interval based on ECG data obtained at the time of expected peak plasma concentration.
+In patients with type 2 diabetes mellitus administered sitagliptin 100 mg (N=81) or sitagliptin 200 mg (N=63) daily, there were no meaningful changes in QTc interval based on ECG data obtained at the time of expected peak plasma concentration.
 
 ## 12.3 Pharmacokinetics
 
 JANUMET XR
 
-The results of a study in healthy subjects demonstrated that the JANUMET XR (sitagliptin and metformin HCl extended-release) 50 mg/500 mg and 100 mg/1000 mg tablets are bioequivalent to coadministration of corresponding doses of sitagliptin and metformin hydrochloride extended-release.
-
-Bioequivalence between two JANUMET XR 50 mg/500 mg tablets and one JANUMET XR 100 mg/1000 mg tablet was also demonstrated.
-
 After administration of two JANUMET XR 50 mg/1000 mg tablets once daily with the evening meal for 7 days in healthy adult subjects, steady-state for sitagliptin and metformin is reached by Day 4 and 5, respectively.
-The median Tmax value for sitagliptin and metformin at steady state is approximately 3 and 8 hours postdose, respectively.
-The median Tmax value for sitagliptin and metformin after administration of a single tablet of JANUMET is 3 and 3.5 hours postdose, respectively.
+
+Sitagliptin
+
+The pharmacokinetics of sitagliptin have been extensively characterized in healthy subjects and patients with type 2 diabetes mellitus.
+Following a single oral 100-mg dose to healthy volunteers, mean plasma AUC of sitagliptin was 8.52 µM•hr, Cmax was 950 nM, and apparent terminal half-life (t½) was 12.4 hours.
+Plasma AUC of sitagliptin increased in a dose-proportional manner and increased approximately 14% following 100 mg doses at steady-state compared to the first dose.
+The intra-subject and inter-subject coefficients of variation for sitagliptin AUC were small (5.8% and 15.1%).
+The pharmacokinetics of sitagliptin was generally similar in healthy subjects and in patients with type 2 diabetes mellitus.
 
 Absorption
 
 JANUMET XR
+
+After administration of JANUMET XR tablets once daily, the median Tmax value for sitagliptin and metformin at steady state is approximately 3 and 8 hours postdose, respectively.
+The median Tmax value for sitagliptin and metformin after administration of a single tablet of JANUMET is 3 and 3.5 hours postdose, respectively.
+
+Effect of Food
 
 After administration of JANUMET XR tablets with a high-fat breakfast, the AUC for sitagliptin was not altered.
 The mean Cmax was decreased by 17%, although the median Tmax was unchanged relative to the fasted state.
@@ -74,8 +81,22 @@ After administration of JANUMET XR with a high-fat breakfast, the AUC for metfor
 
 Sitagliptin
 
+After oral administration of a 100 mg dose to healthy subjects, sitagliptin was rapidly absorbed with peak plasma concentrations (median Tmax) occurring 1 to 4 hours postdose.
 The absolute bioavailability of sitagliptin is approximately 87%.
+
+Effect of Food
+
 Coadministration of a high-fat meal with sitagliptin had no effect on the pharmacokinetics of sitagliptin.
+
+Metformin hydrochloride
+
+The absolute bioavailability of a metformin hydrochloride 500-mg tablet given under fasting conditions is approximately 50-60%.
+Studies using single oral doses of metformin hydrochloride tablets 500 mg to 1,500 mg, and 850 mg to 2,550 mg (approximately 1.3 times the maximum recommended daily dosage), indicate that there is a lack of dose proportionality with increasing doses, which is due to decreased absorption rather than an alteration in elimination.
+
+Effect of Food
+
+Food decreases the extent of and slightly delays the absorption of metformin, as shown by approximately a 40% lower mean peak plasma concentration (Cmax), a 25% lower area under the plasma concentration versus time curve (AUC), and a 35-minute prolongation of time to peak plasma concentration (Tmax) following administration of a single 850-mg tablet of metformin with food, compared to the same tablet strength administered fasting.
+The clinical relevance of these decreases is unknown.
 
 Distribution
 
@@ -88,14 +109,24 @@ Metformin hydrochloride
 
 Distribution studies with extended-release metformin have not been conducted; however, the apparent volume of distribution (V/F) of metformin following single oral doses of immediate-release metformin hydrochloride tablets 850 mg averaged 654 ± 358 L. Metformin is negligibly bound to plasma proteins.
 Metformin partitions into erythrocytes, most likely as a function of time.
-At usual clinical doses and dosing schedules of metformin hydrochloride tablets, steady-state plasma concentrations of metformin are reached within 24-48 hours and are generally <1 mcg/mL.
+At usual clinical doses and dosing schedules of metformin hydrochloride tablets, steady-state plasma concentrations of metformin are reached within 24-48 hours and are generally < 1 mcg/mL.
 During controlled clinical trials of metformin, maximum metformin plasma levels did not exceed 5 mcg/mL, even at maximum doses.
 
-Metabolism
+Elimination
 
 Sitagliptin
 
 Approximately 79% of sitagliptin is excreted unchanged in the urine with metabolism being a minor pathway of elimination.
+The apparent terminal t1/2 following a 100 mg oral dose of sitagliptin was approximately 12.4 hours and renal clearance was approximately 350 mL/min.
+
+Metformin hydrochloride
+
+Following oral administration, approximately 90% of the absorbed drug is eliminated via the renal route within the first 24 hours, with a plasma elimination half-life of approximately 6.2 hours.
+In blood, the elimination half-life is approximately 17.6 hours, suggesting that the erythrocyte mass may be a compartment of distribution.
+
+Metabolism
+
+Sitagliptin
 
 Following a [14C]sitagliptin oral dose, approximately 16% of the radioactivity was excreted as metabolites of sitagliptin.
 Six metabolites were detected at trace levels and are not expected to contribute to the plasma DPP-4 inhibitory activity of sitagliptin.
@@ -111,92 +142,79 @@ Excretion
 Sitagliptin
 
 Following administration of an oral [14C]sitagliptin dose to healthy subjects, approximately 100% of the administered radioactivity was eliminated in feces (13%) or urine (87%) within one week of dosing.
-The apparent terminal t1/2 following a 100-mg oral dose of sitagliptin was approximately 12.4 hours and renal clearance was approximately 350 mL/min.
 
 Elimination of sitagliptin occurs primarily via renal excretion and involves active tubular secretion.
 Sitagliptin is a substrate for human organic anion transporter-3 (hOAT-3), which may be involved in the renal elimination of sitagliptin.
 The clinical relevance of hOAT-3 in sitagliptin transport has not been established.
-Sitagliptin is also a substrate of p-glycoprotein, which may also be involved in mediating the renal elimination of sitagliptin.
-However, cyclosporine, a p-glycoprotein inhibitor, did not reduce the renal clearance of sitagliptin.
+Sitagliptin is also a substrate of p-glycoprotein (P-gp), which may also be involved in mediating the renal elimination of sitagliptin.
+However, cyclosporine, a P-gp inhibitor, did not reduce the renal clearance of sitagliptin.
 
 Metformin hydrochloride
 
+Elimination of metformin occurs primarily via renal excretion.
 Renal clearance is approximately 3.5 times greater than creatinine clearance, which indicates that tubular secretion is the major route of metformin elimination.
-Following oral administration, approximately 90% of the absorbed drug is eliminated via the renal route within the first 24 hours, with a plasma elimination half-life of approximately 6.2 hours.
-In blood, the elimination half-life is approximately 17.6 hours, suggesting that the erythrocyte mass may be a compartment of distribution.
 
 Specific Populations
 
-Renal Impairment
+Patients with Renal Impairment
+
+JANUMET XR
+
+Studies characterizing the pharmacokinetics of sitagliptin and metformin after administration of JANUMET XR in renally impaired patients have not been performed [see Dosage and Administration (2.2)].
 
 Sitagliptin
 
-An approximately 2-fold increase in the plasma AUC of sitagliptin was observed in patients with moderate renal impairment with eGFR of 30 to <45 mL/min/1.73 m2, and an approximately 4-fold increase was observed in patients with severe renal impairment including patients with end-stage renal disease (ESRD) on hemodialysis, as compared to normal healthy control subjects.
+An approximately 2-fold increase in the plasma AUC of sitagliptin was observed in patients with moderate renal impairment with eGFR of 30 to less than 45 mL/min/1.73 m2, and an approximately 4-fold increase was observed in patients with severe renal impairment including patients with end-stage renal disease (ESRD) on hemodialysis, as compared to normal healthy control subjects.
+[See Dosage and Administration (2.2).]
 
 Metformin hydrochloride
 
 In patients with decreased renal function, the plasma and blood half-life of metformin is prolonged and the renal clearance is decreased [see Contraindications (4), Warnings and Precautions (5.1)].
 
-Hepatic Impairment
+Patients with Hepatic Impairment
+
+JANUMET XR
+
+Studies characterizing the pharmacokinetics of sitagliptin and metformin after administration of JANUMET XR in patients with hepatic impairment have not been performed.
 
 Sitagliptin
 
 In patients with moderate hepatic impairment (Child-Pugh score 7 to 9), mean AUC and Cmax of sitagliptin increased approximately 21% and 13%, respectively, compared to healthy matched controls following administration of a single 100-mg dose of sitagliptin.
 These differences are not considered to be clinically meaningful.
-
-There is no clinical experience in patients with severe hepatic impairment (Child-Pugh score >9).
+There is no clinical experience in patients with severe hepatic impairment (Child-Pugh score >9) [see Use in Specific Populations (8.7)].
 
 Metformin hydrochloride
 
 No pharmacokinetic studies of metformin have been conducted in patients with hepatic impairment.
 
-Gender
+Effects of Age, Body Mass Index (BMI), Gender, and Race
 
 Sitagliptin
 
-Gender had no clinically meaningful effect on the pharmacokinetics of sitagliptin based on a composite analysis of Phase I pharmacokinetic data and on a population pharmacokinetic analysis of Phase I and Phase II data.
-
-Metformin hydrochloride
-
-Metformin pharmacokinetic parameters did not differ significantly between normal subjects and patients with type 2 diabetes when analyzed according to gender.
-Similarly, in controlled clinical studies in patients with type 2 diabetes, the antihyperglycemic effect of metformin was comparable in males and females.
-
-Geriatric
-
-Sitagliptin
-
+Based on a population pharmacokinetic analysis or a composite analysis of available pharmacokinetic data, BMI, gender, and race do not have a clinically meaningful effect on the pharmacokinetics of sitagliptin.
 When the effects of age on renal function are taken into account, age alone did not have a clinically meaningful impact on the pharmacokinetics of sitagliptin based on a population pharmacokinetic analysis.
 Elderly subjects (65 to 80 years) had approximately 19% higher plasma concentrations of sitagliptin compared to younger subjects.
 
 Metformin hydrochloride
 
-Limited data from controlled pharmacokinetic studies of metformin in healthy elderly subjects suggest that total plasma clearance of metformin is decreased, the half life is prolonged, and Cmax is increased, compared to healthy young subjects.
+Limited data from controlled pharmacokinetic studies of metformin in healthy elderly subjects suggest that total plasma clearance of metformin is decreased, the half-life is prolonged, and Cmax is increased, compared to healthy young subjects.
 From these data, it appears that the change in metformin pharmacokinetics with aging is primarily accounted for by a change in renal function.
 
-Pediatric
-
-No studies with JANUMET XR have been performed in pediatric patients.
-
-Race
-
-Sitagliptin
-
-Race had no clinically meaningful effect on the pharmacokinetics of sitagliptin based on a composite analysis of available pharmacokinetic data, including subjects of white, Hispanic, black, Asian, and other racial groups.
-
-Metformin hydrochloride
+Metformin pharmacokinetic parameters did not differ significantly between normal subjects and patients with type 2 diabetes mellitus when analyzed according to gender.
+Similarly, in controlled clinical studies in patients with type 2 diabetes mellitus, the antihyperglycemic effect of metformin was comparable in males and females.
 
 No studies of metformin pharmacokinetic parameters according to race have been performed.
-In controlled clinical studies of metformin in patients with type 2 diabetes, the antihyperglycemic effect was comparable in whites (n=249), blacks (n=51), and Hispanics (n=24).
+In controlled clinical studies of metformin in patients with type 2 diabetes mellitus, the antihyperglycemic effect was comparable in Whites (n=249), Blacks (n=51), and Hispanics (n=24).
 
-Body Mass Index (BMI)
+Pediatric Patients
 
 Sitagliptin
 
-Body mass index had no clinically meaningful effect on the pharmacokinetics of sitagliptin based on a composite analysis of Phase I pharmacokinetic data and on a population pharmacokinetic analysis of Phase I and Phase II data.
+Studies characterizing the pharmacokinetics of sitagliptin in pediatric patients have not been performed.
 
-Drug Interactions
+Drug Interaction Studies
 
-Sitagliptin and Metformin hydrochloride
+JANUMET XR
 
 Coadministration of multiple doses of sitagliptin (50 mg) and metformin (1000 mg) given twice daily did not meaningfully alter the pharmacokinetics of either sitagliptin or metformin in patients with type 2 diabetes.
 
@@ -207,7 +225,7 @@ Sitagliptin
 In Vitro Assessment of Drug Interactions
 
 Sitagliptin is not an inhibitor of CYP isozymes CYP3A4, 2C8, 2C9, 2D6, 1A2, 2C19 or 2B6, and is not an inducer of CYP3A4.
-Sitagliptin is a p-glycoprotein substrate, but does not inhibit p-glycoprotein mediated transport of digoxin.
+Sitagliptin is a P-gp substrate, but does not inhibit P-gp mediated transport of digoxin.
 Based on these results, sitagliptin is considered unlikely to cause interactions with other drugs that utilize these pathways.
 
 Sitagliptin is not extensively bound to plasma proteins.
@@ -215,31 +233,41 @@ Therefore, the propensity of sitagliptin to be involved in clinically meaningful
 
 In Vivo Assessment of Drug Interactions
 
+Effects of Sitagliptin on Other Drugs
+
+In clinical studies, sitagliptin did not meaningfully alter the pharmacokinetics of metformin, glyburide, simvastatin, rosiglitazone, digoxin, warfarin, or an oral contraception (ethinyl estradiol and norethindrone) (Table 4), providing in vivo evidence of a low propensity for causing drug interactions with substrates of CYP3A4, CYP2C8, CYP2C9, P-gp, and organic cationic transporter (OCT).
+
 Table 4: Effect of Sitagliptin on Systemic Exposure of Coadministered Drugs
 
-|  |  |  |  | AUCAUC is reported as AUC0-∞ unless otherwise specified | Cmax |
+|  |  |  |  | AUCAUC is reported as AUC0-∞ unless otherwise specified. | Cmax |
 | --- | --- | --- | --- | --- | --- |
-| Coadministered Drug | Dose of Coadministered DrugAll doses administered as single dose unless otherwise specified | Dose of Sitagliptin | Geometric Mean Ratio (ratio with/without sitagliptin) No Effect = 1.00 |  |  |
+| Coadministered Drug | Dose of Coadministered DrugAll doses administered as single dose unless otherwise specified. | Dose of Sitagliptin | Geometric Mean Ratio (ratio with/without sitagliptin) No Effect = 1.00 |  |  |
 | No dosing adjustments required for the following: |  |  |  |  |  |
-| Digoxin | 0.25 mgMultiple dose once daily for 10 days | 100 mg once daily for 10 days | Digoxin | 1.11AUC0-24hr | 1.18 |
+| Digoxin | 0.25 mgMultiple dose. once daily for 10 days | 100 mg once daily for 10 days | Digoxin | 1.11AUC0-24hr. | 1.18 |
 | Glyburide | 1.25 mg | 200 mg once daily for 6 days | Glyburide | 1.09 | 1.01 |
-| Simvastatin | 20 mg | 200 mg once daily for 5 days | Simvastatin | 0.85AUC0-last | 0.80 |
+| Simvastatin | 20 mg | 200 mg once daily for 5 days | Simvastatin | 0.85AUC0-last. | 0.80 |
 | Simvastatin Acid | 1.12 | 1.06 |  |  |  |
 | Rosiglitazone | 4 mg | 200 mg once daily for 5 days | Rosiglitazone | 0.98 | 0.99 |
 | Warfarin | 30 mg single dose on day 5 | 200 mg once daily for 11 days | S(-) Warfarin | 0.95 | 0.89 |
 | R(+) Warfarin | 0.99 | 0.89 |  |  |  |
 | Ethinyl estradiol and norethindrone | 21 days once daily of 35 µg ethinyl estradiol with norethindrone 0.5 mg × 7 days, 0.75 mg × 7 days, 1.0 mg × 7 days | 200 mg once daily for 21 days | Ethinyl estradiol | 0.99 | 0.97 |
 | Norethindrone | 1.03 | 0.98 |  |  |  |
-| Metformin | 1000 mg twice daily for 14 days | 50 mg twice daily for 7 days | Metformin | 1.02AUC0-12hr | 0.97 |
+| Metformin | 1000 mg twice daily for 14 days | 50 mg twice daily for 7 days | Metformin | 1.02AUC0-12hr. | 0.97 |
+
+Effects of Other Drugs on Sitagliptin
+
+Clinical data described below suggest that sitagliptin is not susceptible to clinically meaningful interactions by coadministered medications (Table 5).
 
 Table 5: Effect of Coadministered Drugs on Systemic Exposure of Sitagliptin
 
-|  |  |  |  | AUCAUC is reported as AUC0-∞ unless otherwise specified | Cmax |
+|  |  |  |  | AUCAUC is reported as AUC0-∞ unless otherwise specified. | Cmax |
 | --- | --- | --- | --- | --- | --- |
-| Coadministered Drug | Dose of Coadministered DrugAll doses administered as single dose unless otherwise specified | Dose of Sitagliptin | Geometric Mean Ratio (ratio with/without coadministered drug) No Effect = 1.00 |  |  |
+| Coadministered Drug | Dose of Coadministered DrugAll doses administered as single dose unless otherwise specified. | Dose of Sitagliptin | Geometric Mean Ratio (ratio with/without coadministered drug) No Effect = 1.00 |  |  |
 | No dosing adjustments required for the following: |  |  |  |  |  |
 | Cyclosporine | 600 mg once daily | 100 mg once daily | Sitagliptin | 1.29 | 1.68 |
-| Metformin | 1000 mgMultiple dose twice daily for 14 days | 50 mg twice daily for 7 days | Sitagliptin | 1.02AUC0-12hr | 1.05 |
+| Metformin | 1000 mgMultiple dose. twice daily for 14 days | 50 mg twice daily for 7 days | Sitagliptin | 1.02AUC0-12hr. | 1.05 |
+
+Metformin hydrochloride
 
 Table 6: Effect of Metformin on Systemic Exposure of Coadministered Drugs
 

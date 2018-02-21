@@ -43,8 +43,8 @@ Instruct patients to seek medical advice if blisters or erosions occur [see Warn
 Patients should be informed that the tablets must be swallowed whole and never split, crushed or chewed.
 
 Patients should be informed that incompletely dissolved JANUMET XR tablets may be eliminated in the feces.
-Tell patients that, if they repeatedly see tablets in feces, they should report this finding to their healthcare provider.
-If a patient reports repeatedly observing tablets in feces, the healthcare provider should assess adequacy of glycemic control.
+Tell patients that, if they repeatedly see tablets in feces, they should report this finding to their health care provider.
+If a patient reports repeatedly observing tablets in feces, the health care provider should assess adequacy of glycemic control.
 
 Physicians should instruct their patients to read the Medication Guide before starting JANUMET XR therapy and to reread each time the prescription is renewed.
 Patients should be instructed to inform their doctor if they develop any bothersome or unusual symptom, or if any symptom persists or worsens.

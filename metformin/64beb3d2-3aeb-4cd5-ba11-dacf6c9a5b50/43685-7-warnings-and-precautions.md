@@ -13,7 +13,7 @@ If metformin-associated lactic acidosis is suspected, general supportive measure
 In JANUMET XR-treated patients with a diagnosis or strong suspicion of lactic acidosis, prompt hemodialysis is recommended to correct the acidosis and remove accumulated metformin (metformin hydrochloride is dialyzable, with a clearance of up to 170 mL/min under good hemodynamic conditions).
 Hemodialysis has often resulted in reversal of symptoms and recovery.
 
-Educate patients and their families about the symptoms of lactic acidosis, and if these symptoms occur instruct them to discontinue JANUMET XR and report these symptoms to their healthcare provider.
+Educate patients and their families about the symptoms of lactic acidosis, and if these symptoms occur instruct them to discontinue JANUMET XR and report these symptoms to their health care provider.
 
 For each of the known and possible risk factors for metformin-associated lactic acidosis, recommendations to reduce the risk of and manage metformin-associated lactic acidosis are provided below:
 
@@ -159,4 +159,4 @@ If bullous pemphigoid is suspected, JANUMET XR should be discontinued and referr
 
 ## 5.12 Macrovascular Outcomes
 
-There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with JANUMET XR or any other anti-diabetic drug.
+There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with JANUMET XR.

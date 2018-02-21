@@ -26,3 +26,9 @@ Coadministration of JANUMET XR with an insulin secretagogue (e.g., sulfonylurea)
 Certain drugs tend to produce hyperglycemia and may lead to loss of glycemic control.
 These drugs include the thiazides and other diuretics, corticosteroids, phenothiazines, thyroid products, estrogens, oral contraceptives, phenytoin, nicotinic acid, sympathomimetics, calcium channel blocking drugs, and isoniazid.
 When such drugs are administered to a patient receiving JANUMET XR the patient should be closely observed to maintain adequate glycemic control.
+
+## 7.6 Digoxin
+
+There was a slight increase in the area under the curve (AUC, 11%) and mean peak drug concentration (Cmax, 18%) of digoxin with the coadministration of 100 mg sitagliptin for 10 days.
+Patients receiving digoxin should be monitored appropriately.
+No dosage adjustment of digoxin or JANUMET XR is recommended.

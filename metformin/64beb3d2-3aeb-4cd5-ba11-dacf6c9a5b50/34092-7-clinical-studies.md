@@ -52,7 +52,7 @@ Table 8: Glycemic Parameters at Final Visit (24-Week Study) for Sitagliptin and 
 | Figure 1: Mean Change from Baseline for A1C (%) over 24 Weeks with Sitagliptin and Metformin Immediate-Release, Alone and in Combination in Patients with Type 2 Diabetes Inadequately Controlled with Diet and ExerciseThe Completers Population: least squares means adjusted for prior antihyperglycemic therapy and baseline value. |
 | --- |
 
-Initial combination therapy or maintenance of combination therapy should be individualized and are left to the discretion of the healthcare provider.
+Initial combination therapy or maintenance of combination therapy should be individualized and are left to the discretion of the health care provider.
 
 Sitagliptin Add-on Therapy in Patients with Type 2 Diabetes Inadequately Controlled on Metformin Immediate-Release Alone
 
