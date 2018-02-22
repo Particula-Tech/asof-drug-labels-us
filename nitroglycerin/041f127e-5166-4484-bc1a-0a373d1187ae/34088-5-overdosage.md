@@ -1,23 +1,21 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
-## Hemodynamic Effects
+## 10.1 Signs and Symptoms, Methemoglobinemia
 
-The effects of nitroglycerin overdose are generally the results of nitroglycerin's capacity to induce vasodilatation, venous pooling, reduced cardiac output, and hypotension.
-These hemodynamic changes may have protean manifestations, including increased intracranial pressure, with any or all of persistent throbbing headache, confusion, and moderate fever; vertigo; palpitations; tachycardia; visual disturbances; nausea and vomiting (possibly with colic and even bloody diarrhea); syncope (especially in the upright posture); dyspnea, later followed by reduced ventilatory effort; diaphoresis, with the skin either flushed or cold and clammy; heart block and bradycardia; paralysis; coma; seizures; and death.
+Nitrate overdosage may result in: severe hypotension, persistent throbbing headache, vertigo, palpitation, visual disturbance, flushing and perspiring skin (later becoming cold and cyanotic), nausea and vomiting (possibly with colic and even bloody diarrhea), syncope (especially in the upright posture), methemoglobinemia with cyanosis and anorexia, initial hyperpnea, dyspnea and slow breathing, slow pulse (dicrotic and intermittent), heart block, increased intracranial pressure with cerebral symptoms of confusion and moderate fever, paralysis and coma followed by clonic convulsions, and possibly death due to circulatory collapse.
 
-No specific antagonist to the vasodilator effects of nitroglycerin is known, and no intervention has been subject to controlled study as a therapy of nitroglycerin overdose.
-Because the hypotension associated with nitroglycerin overdose is the result of venodilatation and arterial hypovolemia, prudent therapy in this situation should be directed toward increase in central fluid volume.
-Passive elevation of the patient's legs may be sufficient, but intravenous infusion of normal saline or similar fluid may also be necessary.
+Case reports of clinically significant methemoglobinemia are rare at conventional doses of organic nitrates.
+The formation of methemoglobin is dose-related and in the case of genetic abnormalities of hemoglobin that favor methemoglobin formation, even conventional doses of organic nitrates could produce harmful concentrations of methemoglobin.
 
-The use of epinephrine or other arterial vasoconstrictors in this setting is likely to do more harm than good.
+## 10.2 Treatment of Overdosage
 
-In patients with renal disease or congestive heart failure, therapy resulting in central volume expansion is not without hazard.
-Treatment of nitroglycerin overdose in these patients may be subtle and difficult, and invasive monitoring may be required.
+As hypotension associated with nitroglycerin overdose is the result of venodilatation and arterial hypovolemia, prudent therapy in this situation should be directed toward increase in central fluid volume.
+No specific antagonist to the vasodilator effects of nitroglycerin is known.
+Keep the patient recumbent in a shock position and comfortably warm.
+Passive movement of the extremities may aid venous return.
+Intravenous infusion of normal saline or similar fluid may also be necessary.
+Administer oxygen and artificial ventilation, if necessary.
+If methemoglobinemia is present, administration of methylene blue (1% solution), 1–2 mg per kilogram of body weight intravenously, may be required unless the patient is known to have G-6-PD deficiency.
+If an excessive quantity of nitroglycerin has been recently swallowed gastric lavage may be of use.
 
-## Methemoglobinemia
-
-Methemoglobinemia has been rarely reported in association with organic nitrates.
-The diagnosis should be suspected in patients who exhibit signs of impaired oxygen delivery despite adequate cardiac output and adequate arterial PO2.
-Classically, methemoglobinemic blood is described as chocolate brown, without color change on exposure to air.
-
-If methemoglobinemia is present, intravenous administration of methylene blue, 1 to 2 mg/kg of body weight, may be required.
+As epinephrine is ineffective in reversing the severe hypotensive events associated with overdosage, it is not recommended for resuscitation.
