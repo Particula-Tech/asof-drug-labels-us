@@ -1,0 +1,34 @@
+{
+  "application_numbers": [
+    "ANDA091390"
+  ],
+  "inn": "candesartan",
+  "labeler": "Cadila Healthcare Limited",
+  "package_ndcs": [
+    "70771-1204-3",
+    "70771-1204-5",
+    "70771-1204-9",
+    "70771-1205-3",
+    "70771-1205-5",
+    "70771-1205-9",
+    "70771-1206-0",
+    "70771-1206-1",
+    "70771-1206-3",
+    "70771-1206-5",
+    "70771-1206-9",
+    "70771-1207-0",
+    "70771-1207-1",
+    "70771-1207-3",
+    "70771-1207-5",
+    "70771-1207-9"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "candesartan cilexetil",
+      "name": "Candesartan cilexetil"
+    }
+  ],
+  "setid": "26df3269-3682-4ce0-be81-8c029254b5a8",
+  "source": "dailymed"
+}
