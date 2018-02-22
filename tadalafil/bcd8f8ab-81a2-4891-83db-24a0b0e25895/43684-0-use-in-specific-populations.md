@@ -2,32 +2,60 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category B — CIALIS (tadalafil) is not indicated for use in women.
-There are no adequate and well controlled studies of CIALIS use in pregnant women.
+Risk Summary
 
-Risk Summary — Based on animal data, CIALIS is not predicted to increase the risk of adverse developmental abnormalities in humans.
+CIALIS (tadalafil) is not indicated for use in females.
 
-Animal Data — Animal reproduction studies showed no evidence of teratogenicity, embryotoxicity, or fetotoxicity when tadalafil was given to pregnant rats or mice at exposures up to 11 times the maximum recommended human dose (MRHD) of 20 mg/day during organogenesis.
-In one of two perinatal/postnatal developmental studies in rats, postnatal pup survival decreased following maternal exposure to tadalafil doses greater than 10 times the MRHD based on AUC.
+There are no data with the use of CIALIS in pregnant women to inform any drug-associated risks for adverse developmental outcomes.
+In animal reproduction studies, no adverse developmental effects were observed with oral administration of tadalafil to pregnant rats or mice during organogenesis at exposures up to 11 times the maximum recommended human dose (MRHD) of 20 mg/day (see Data).
+
+Data
+
+Animal Data
+
+Animal reproduction studies showed no evidence of teratogenicity, embryotoxicity, or fetotoxicity when tadalafil was given orally to pregnant rats or mice at exposures up to 11 times the maximum recommended human dose (MRHD) of 20 mg/day during organogenesis.
+In a prenatal/postnatal developmental study in rats, postnatal pup survival decreased following maternal exposure to tadalafil doses greater than 10 times the MRHD based on AUC.
 Signs of maternal toxicity occurred at doses greater than 16 times the MRHD based on AUC.
 Surviving offspring had normal development and reproductive performance.
 
-In a rat prenatal and postnatal development study at doses of 60, 200, and 1000 mg/kg, a reduction in postnatal survival of pups was observed.
+In another rat prenatal and postnatal development study at doses of 60, 200, and 1000 mg/kg, a reduction in postnatal survival of pups was observed.
 The no observed effect level (NOEL) for maternal toxicity was 200 mg/kg/day and for developmental toxicity was 30 mg/kg/day.
 This gives approximately 16 and 10 fold exposure multiples, respectively, of the human AUC for the MRHD of 20 mg.
 
 Tadalafil and/or its metabolites cross the placenta, resulting in fetal exposure in rats.
 
-## 8.3 Nursing Mothers
+## 8.2 Lactation
 
-CIALIS is not indicated for use in women.
+Risk Summary
 
-Tadalafil and/or its metabolites were secreted into the milk in lactating rats at concentrations approximately 2.4-fold greater than found in the plasma.
+CIALIS is not indicated for use in females.
+
+There is no information on the presence of tadalafil and/or metabolites in human milk, the effects on the breastfed child, or the effects on milk production.
+Tadalafil and/or its metabolites are present in the milk of lactating rats at concentrations approximately 2.4-fold greater than found in the plasma.
+
+## 8.3 Females and Males of Reproductive Potential
+
+Infertility
+
+Based on the data from 3 studies in adult males, tadalafil decreased sperm concentrations in the study of 10 mg tadalafil for 6 months and the study of 20 mg tadalafil for 9 months.
+This effect was not seen in the study of 20 mg tadalafil taken for 6 months.
+There was no adverse effect of tadalafil 10 mg or 20 mg on mean concentrations of testosterone, luteinizing hormone or follicle stimulating hormone.
+The clinical significance of the decreased sperm concentrations in the two studies is unknown.
+There have been no studies evaluating the effect of tadalafil on fertility in men [see Clinical Pharmacology (12.2)].
+
+Based on studies in animals, a decrease in spermatogenesis was observed in dogs, but not in rats [see Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
 
 CIALIS is not indicated for use in pediatric patients.
-Safety and efficacy in patients below the age of 18 years has not been established.
+Safety and efficacy in patients below the age of 18 years have not been established.
+
+A randomized, double-blind, placebo-controlled trial in pediatric patients (7 to 14 years of age) with Duchenne muscular dystrophy, who received CIALIS 0.3 mg/kg, CIALIS 0.6 mg/kg, or placebo daily for 48 weeks failed to demonstrate any benefit of treatment with CIALIS on a range of assessments of muscle strength and performance.
+
+Juvenile Animal Study
+
+No adverse effects were observed in a study in which tadalafil was administered orally at doses of 60, 200, and 1000 mg/kg/day to juvenile rats on postnatal days 14 to 90.
+The highest plasma tadalafil exposures (AUC) achieved were approximately 10-fold that observed at the MRHD.
 
 ## 8.5 Geriatric Use
 

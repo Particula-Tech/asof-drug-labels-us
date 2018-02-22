@@ -286,8 +286,6 @@ Geriatric — Healthy male elderly subjects (65 years or over) had a lower oral 
 No dose adjustment is warranted based on age alone.
 However, greater sensitivity to medications in some older individuals should be considered [see Use in Specific Populations (8.5)].
 
-Pediatric — Tadalafil has not been evaluated in individuals less than 18 years old [see Use in Specific Populations (8.4)].
-
 Patients with Diabetes Mellitus — In male patients with diabetes mellitus after a 10 mg tadalafil dose, exposure (AUC) was reduced approximately 19% and Cmax was 5% lower than that observed in healthy subjects.
 No dose adjustment is warranted.
 
