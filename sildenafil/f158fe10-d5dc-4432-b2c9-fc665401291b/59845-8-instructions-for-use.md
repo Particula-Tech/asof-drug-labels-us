@@ -66,4 +66,4 @@ For current full prescribing information, please visit www.pfizer.com
 
 LAB-0575-3.0 January 2014
 
-Jan/2014
+Issued Jan/2014

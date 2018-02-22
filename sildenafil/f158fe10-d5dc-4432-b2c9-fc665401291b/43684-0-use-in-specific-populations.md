@@ -2,20 +2,36 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category B
+Risk Summary
 
-There are no adequate and well-controlled studies of sildenafil in pregnant women.
-No evidence of teratogenicity, embryotoxicity, or fetotoxicity was observed in pregnant rats or rabbits dosed with sildenafil 200 mg/kg/day during organogenesis, a level that is, on a mg/m2 basis, 32- and 68-times, respectively, the recommended human dose (RHD) of 20 mg three times a day.
+Limited published data from randomized controlled trials, case-controlled trials, and case series do not report a clear association with sildenafil and major birth defects, miscarriage, or adverse maternal or fetal outcomes when sildenafil is used during pregnancy.
+There are risks to the mother and fetus from untreated pulmonary arterial hypertension (see Clinical Considerations).
+Animal reproduction studies conducted with sildenafil showed no evidence of embryo-fetal toxicity or teratogenicity at doses up to 32- and 65-times the recommended human dose (RHD) of 20 mg three times a day in rats and rabbits, respectively [See Data].
+
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2–4% and 15–20%, respectively.
+
+Clinical Considerations
+
+Disease-Associated Maternal and/or Embryo/Fetal Risk
+
+Pregnant women with untreated pulmonary arterial hypertension are at risk for heart failure, stroke, preterm delivery, and maternal and fetal death.
+
+Data
+
+Animal Data
+
+No evidence of teratogenicity, embryotoxicity, or fetotoxicity was observed in pregnant rats or rabbits dosed with sildenafil 200 mg/kg/day during organogenesis, a level that is, on a mg/m2 basis, 32- and 65-times, respectively, the recommended human dose (RHD) of 20 mg three times a day.
 In a rat pre- and postnatal development study, the no-observed-adverse-effect dose was 30 mg/kg/day (equivalent to 5-times the RHD on a mg/m2 basis).
 
-## 8.2 Labor and Delivery
+## 8.2 Lactation
 
-The safety and efficacy of REVATIO during labor and delivery have not been studied.
+Risk Summary
 
-## 8.3 Nursing Mothers
-
-It is not known if sildenafil or its metabolites are excreted in human breast milk.
-Because many drugs are excreted in human milk, caution should be exercised when REVATIO is administered to a nursing woman.
+Limited published data from a case report describe the presence of sildenafil and its active metabolite in human milk.
+There is insufficient information about the effects of sildenafil on the breastfed infant and no information on the effects of sildenafil on milk production.
+Limited clinical data during lactation preclude a clear determination of the risk of REVATIO to an infant during lactation.
 
 ## 8.4 Pediatric Use
 

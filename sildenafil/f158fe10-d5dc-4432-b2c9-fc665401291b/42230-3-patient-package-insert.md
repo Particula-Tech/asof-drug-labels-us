@@ -67,7 +67,7 @@ Tell your doctor about all of your medical conditions, including if you
 - are pregnant or planning to become pregnant.
   It is not known if REVATIO could harm your unborn baby.
 - are breastfeeding.
-  It is not known if REVATIO passes into your breast milk or if it could harm your baby.
+  REVATIO passes into your breast milk, it is not known if it could harm your baby.
 
 Tell your doctor about all of the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal products.
 REVATIO and certain other medicines can cause side effects if you take them together.
@@ -177,4 +177,4 @@ For current full prescribing information, please visit www.pfizer.com
 
 This Patient Information has been approved by the U.S. Food and Drug Administration
 
-LAB-0335-10.0 April 2015
+LAB-0335-11.0 February 2018
