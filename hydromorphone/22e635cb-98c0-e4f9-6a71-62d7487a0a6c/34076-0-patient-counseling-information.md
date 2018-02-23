@@ -97,6 +97,6 @@ Advise patients to flush the unused tablets down the toilet when EXALGO is no lo
 
 Mallinckrodt, the “M” brand mark, the Mallinckrodt Pharmaceuticals logo and other brands are trademarks of a Mallinckrodt company. © 2016 Mallinckrodt.
 
-Distributed by: Mallinckrodt Brand Pharmaceuticals, Inc. Hazelwood, MO 63042 USA www.Exalgo.com or call 1-800-778-7898
+Distributed by: SpecGx LLC Webster Groves, MO 63119 USA www.Exalgo.com or call 1-800-778-7898
 
 Mallinckrodt™ Pharmaceuticals
