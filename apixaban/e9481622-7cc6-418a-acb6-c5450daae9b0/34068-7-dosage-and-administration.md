@@ -52,11 +52,11 @@ Switching from ELIQUIS to anticoagulants other than warfarin (oral or parenteral
 
 Switching from anticoagulants other than warfarin (oral or parenteral) to ELIQUIS: Discontinue the anticoagulant other than warfarin and begin taking ELIQUIS at the usual time of the next dose of the anticoagulant other than warfarin.
 
-## 2.5 Strong Dual Inhibitors of CYP3A4 and P-glycoprotein
+## 2.5 Combined P-gp and Strong CYP3A4 Inhibitors
 
-For patients receiving ELIQUIS doses of 5 mg or 10 mg twice daily, reduce the dose by 50% when ELIQUIS is coadministered with drugs that are strong dual inhibitors of cytochrome P450 3A4 (CYP3A4) and P-glycoprotein (P-gp) (e.g., ketoconazole, itraconazole, ritonavir, clarithromycin) [see Clinical Pharmacology (12.3)].
+For patients receiving ELIQUIS doses of 5 mg or 10 mg twice daily, reduce the dose by 50% when ELIQUIS is coadministered with drugs that are combined P-glycoprotein (P-gp) and strong cytochrome P450 3A4 (CYP3A4) inhibitors (e.g., ketoconazole, itraconazole, ritonavir) [see Clinical Pharmacology (12.3)].
 
-In patients already taking 2.5 mg twice daily, avoid coadministration of ELIQUIS with strong dual inhibitors of CYP3A4 and P-gp [see Drug Interactions (7.1)].
+In patients already taking 2.5 mg twice daily, avoid coadministration of ELIQUIS with combined P-gp and strong CYP3A4 inhibitors [see Drug Interactions (7.1)].
 
 ## 2.6 Administration Options
 

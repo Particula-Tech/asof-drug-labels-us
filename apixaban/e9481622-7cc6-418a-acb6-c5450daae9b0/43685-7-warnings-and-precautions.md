@@ -21,7 +21,8 @@ Discontinue ELIQUIS in patients with active pathological hemorrhage.
 A specific antidote for ELIQUIS is not available, and there is no established way to reverse bleeding in patients taking ELIQUIS.
 The pharmacodynamic effect of ELIQUIS can be expected to persist for at least 24 hours after the last dose, i.e., for about two drug half-lives.
 Use of procoagulant reversal agents, such as prothrombin complex concentrate (PCC), activated prothrombin complex concentrate or recombinant factor VIIa, may be considered but has not been evaluated in clinical studies [see Clinical Pharmacology (12.2)].
-When PCCs are used, monitoring for the anticoagulation effect of apixaban using a clotting test (PT, INR, or aPTT) or anti-factor Xa (FXa) activity is not useful and is not recommended.Activated oral charcoal reduces absorption of apixaban, thereby lowering apixaban plasma concentration [see Overdosage (10)].
+When PCCs are used, monitoring for the anticoagulation effect of apixaban using a clotting test (PT, INR, or aPTT) or anti-factor Xa (FXa) activity is not useful and is not recommended.
+Activated oral charcoal reduces absorption of apixaban, thereby lowering apixaban plasma concentration [see Overdosage (10)].
 
 Hemodialysis does not appear to have a substantial impact on apixaban exposure [see Clinical Pharmacology (12.3)].
 Protamine sulfate and vitamin K are not expected to affect the anticoagulant activity of apixaban.
@@ -38,7 +39,7 @@ The next dose of ELIQUIS should not be administered earlier than 5 hours after t
 The risk may also be increased by traumatic or repeated epidural or spinal puncture.
 If traumatic puncture occurs, delay the administration of ELIQUIS for 48 hours.
 
-Monitor patients frequently for signs and symptoms of neurological impairment (e.g., numbness or weakness of the legs, bowel, or bladder dysfunction).
+Monitor patients frequently for signs and symptoms of neurological impairment (e.g., numbness or weakness of the legs, or bowel or bladder dysfunction).
 If neurological compromise is noted, urgent diagnosis and treatment is necessary.
 Prior to neuraxial intervention the physician should consider the potential benefit versus the risk in anticoagulated patients or in patients to be anticoagulated for thromboprophylaxis.
 

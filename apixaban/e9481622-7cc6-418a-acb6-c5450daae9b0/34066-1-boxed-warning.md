@@ -3,9 +3,7 @@
 (A) PREMATURE DISCONTINUATION OF ELIQUIS INCREASES THE RISK OF THROMBOTIC EVENTS
 
 Premature discontinuation of any oral anticoagulant, including ELIQUIS, increases the risk of thrombotic events.
-If anticoagulation with ELIQUIS is discontinued for a reason other than pathological bleeding or completion of a course of therapy, consider coverage with another anticoagulant
-
-[see Dosage and Administration (2.4), Warnings and Precautions (5.1), and Clinical Studies (14.1)].
+If anticoagulation with ELIQUIS is discontinued for a reason other than pathological bleeding or completion of a course of therapy, consider coverage with another anticoagulant [see Dosage and Administration (2.4), Warnings and Precautions (5.1), and Clinical Studies (14.1)].
 
 (B) SPINAL/EPIDURAL HEMATOMA
 

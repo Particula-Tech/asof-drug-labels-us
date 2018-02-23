@@ -84,7 +84,7 @@ Apixaban is a substrate of transport proteins: P-gp and breast cancer resistance
 
 ### Drug Interaction Studies
 
-In vitro apixaban studies at concentrations significantly greater than therapeutic exposures, no inhibitory effect on the activity of CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2D6, CYP3A4/5, or CYP2C19, nor induction effect on the activity of CYP1A2, CYP2B6, or CYP3A4/5 were observed.
+In in vitro apixaban studies at concentrations significantly greater than therapeutic exposures, no inhibitory effect on the activity of CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2D6, CYP3A4/5, or CYP2C19, nor induction effect on the activity of CYP1A2, CYP2B6, or CYP3A4/5 were observed.
 Therefore, apixaban is not expected to alter the metabolic clearance of coadministered drugs that are metabolized by these enzymes.
 Apixaban is not a significant inhibitor of P-gp.
 
@@ -102,7 +102,7 @@ The effects of level of renal impairment, age, body weight, and level of hepatic
 
 Figure 3: Effect of Specific Populations on the Pharmacokinetics of Apixaban
 
-* ESRD subjects treated with intermittent hemodialysis; reported PK findings are following single dose of apixaban post hemodialysis. † Results reflect CrCl of 15 mL/min based on regression analysis. ‡ Dashed vertical lines illustrate pharmacokinetic changes that were used to inform dosing recommendations. § No dose adjustment is recommended for nonvalvular atrial fibrillation patients unless at least 2 of the following patient characteristics (age ≥80 years, body weight ≤60 kg, or serum creatinine ≥1.5 mg/dL) are present.
+* ESRD subjects treated with intermittent hemodialysis; reported PK findings are following single dose of apixaban post hemodialysis. † Results reflect CrCl of 15 mL/min based on regression analysis. ‡ Dashed vertical lines illustrate pharmacokinetic changes that were used to inform dosing recommendations. § No dose adjustment is recommended for nonvalvular atrial fibrillation patients unless at least 2 of the following patient characteristics (age greater than or equal to 80 years, body weight less than or equal to 60 kg, or serum creatinine greater than or equal to 1.5 mg/dL) are present.
 
 Gender: A study in healthy subjects comparing the pharmacokinetics in males and females showed no meaningful difference.
 

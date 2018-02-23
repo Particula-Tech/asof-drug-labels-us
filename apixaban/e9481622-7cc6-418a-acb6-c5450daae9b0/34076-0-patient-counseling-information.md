@@ -12,4 +12,4 @@ Advise patients of the following:
   If any of these symptoms occur, advise the patient to seek emergent medical attention.
 - •To tell their physicians if they are pregnant or plan to become pregnant or are breastfeeding or intend to breastfeed during treatment with ELIQUIS [see Use in Specific Populations (8.1, 8.3)].
 - •How to take ELIQUIS if they cannot swallow, or require a nasogastric tube [see Dosage and Administration (2.6)].
-- •What to do if a dose is missed [seeDosage and Administration (2.2)].
+- •What to do if a dose is missed [see Dosage and Administration (2.2)].

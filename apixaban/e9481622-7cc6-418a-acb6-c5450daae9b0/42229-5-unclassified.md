@@ -2,4 +2,4 @@ Marketed by: Bristol-Myers Squibb Company Princeton, New Jersey 08543 USA and Pf
 
 Rotachrom® is a registered trademark of Diagnostica Stago.
 
-1356514A3, 1356615A4, 1379244A0, 1382606A1
+[PRINT CODES]

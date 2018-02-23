@@ -5,12 +5,12 @@
 ### ARISTOTLE
 
 Evidence for the efficacy and safety of ELIQUIS was derived from ARISTOTLE, a multinational, double-blind study in patients with nonvalvular AF comparing the effects of ELIQUIS and warfarin on the risk of stroke and non-central nervous system (CNS) systemic embolism.
-In ARISTOTLE, patients were randomized to ELIQUIS 5 mg orally twice daily (or 2.5 mg twice daily in subjects with at least 2 of the following characteristics: age ≥80 years, body weight ≤60 kg, or serum creatinine ≥1.5 mg/dL) or to warfarin (targeted to an INR range of 2.0-3.0).
+In ARISTOTLE, patients were randomized to ELIQUIS 5 mg orally twice daily (or 2.5 mg twice daily in subjects with at least 2 of the following characteristics: age greater than or equal to 80 years, body weight less than or equal to 60 kg, or serum creatinine greater than or equal to 1.5 mg/dL) or to warfarin (targeted to an INR range of 2.0-3.0).
 Patients had to have one or more of the following additional risk factors for stroke:
 
 - •prior stroke or transient ischemic attack (TIA)
 - •prior systemic embolism
-- •age ≥75 years
+- •age greater than or equal to 75 years
 - •arterial hypertension requiring treatment
 - •diabetes mellitus
 - •heart failure ≥New York Heart Association Class 2
@@ -50,7 +50,7 @@ Figure 4: Kaplan-Meier Estimate of Time to First Stroke or Systemic Embolism in 
 
 All-cause death was assessed using a sequential testing strategy that allowed testing for superiority if effects on earlier endpoints (stroke plus systemic embolus and major bleeding) were demonstrated.
 ELIQUIS treatment resulted in a significantly lower rate of all-cause death (p = 0.046) than did treatment with warfarin, primarily because of a reduction in cardiovascular death, particularly stroke deaths.
-Non-vascular death rates were similar in the treatment arms.
+Non vascular death rates were similar in the treatment arms.
 
 In ARISTOTLE, the results for the primary efficacy endpoint were generally consistent across most major subgroups including weight, CHADS2 score (a scale from 0 to 6 used to predict risk of stroke in patients with AF, with higher scores predicting greater risk), prior warfarin use, level of renal impairment, geographic region, and aspirin use at randomization (Figure 5).
 
