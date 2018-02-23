@@ -137,4 +137,19 @@ For more information about valsartan tablets, ask your pharmacist or doctor, or 
 What are the ingredients in valsartan tablets?
 Active ingredient: valsartan Inactive ingredients: colloidal silicon dioxide, crospovidone, hypromellose, iron oxide red, iron oxide yellow, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, sodium lauryl sulfate, talc, and titanium dioxide.
 In addition 320 mg also contains iron oxide black.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt)-509302 India Revised: 04/2017
+
+Distributed by:
+
+Aurobindo Pharma USA, Inc.
+
+2400 Route 130 North
+
+Dayton, NJ 08810
+
+Manufactured by:
+
+Aurobindo Pharma Limited
+
+Hyderabad-500 038, India
+
+Revised: 06/2017
