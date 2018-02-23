@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Esomeprazole magnesium delayed-release capsules, USP 20 mg, are hard gelatin capsule, Opaque Amethyst cap & Opaque Amethyst body printed "ESO" on cap and "20" on the body in yellow ink.
+Esomeprazole magnesium delayed-release capsules, USP 20 mg, are hard gelatin capsule shell, Dark blue opaque cap & body imprinted with "ESO" on cap and "20" on the body in golden yellow ink.
 They are supplied as follows:
 
 NDC 67877-478-30 bottles of 30
@@ -13,8 +13,7 @@ NDC 67877-478-10 bottles of 1000
 
 NDC 67877-478-38 Unit-Dose Blister Packages of 100 (10×10)
 
-Esomeprazole magnesium delayed-release, capsules USP, 40 mg, are hard gelatin, Opaque Amethyst cap & Opaque Amethyst body printed "ESO" on cap and "40" on the body in yellow ink.
-They are supplied as follows:
+Esomeprazole magnesium delayed-release capsules, USP 40 mg, are hard gelatin capsule shell, Dark blue opaque cap & body imprinted with "ESO" on cap and "40" on the body in golden yellow ink.They are supplied as follows:
 
 NDC 67877-479-30 bottles of 30
 

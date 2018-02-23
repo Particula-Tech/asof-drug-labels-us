@@ -196,7 +196,7 @@ Active ingredient: esomeprazole magnesium dihydrate
 
 Inactive ingredients in esomeprazole magnesium delayed-release capsules, USP: Colloidal silicon dioxide, hypromellose, isopropyl alcohol, magnesium stearate, meglumine, methacrylic acid copolymer dispersion, methyl alcohol, methylene chloride, mono & diglycerides, poloxamer, Talc, triethyl citrate, and Sugar spheres (composed of sucrose, maize starch and purified water).
 
-The capsule shells and Imprinting Ink have the following inactive ingredients: Capsule shell: FD & C Blue 1, D & C Red 28, FD & C Red 40, gelatin, sodium lauryl sulphate and titanium dioxide and Imprinting Ink: butyl alcohol, dehydrated alcohol, isopropyl alcohol, propylene glycol, Shellac, strong ammonia solution, and yellow iron oxide.
+The capsule shells and Imprinting Ink have the following inactive ingredients: Capsule shell: FD & C Blue 1, FD & C Red 40, gelatin, sodium lauryl sulphate and titanium dioxide and Imprinting Ink: butyl alcohol, dehydrated alcohol, isopropyl alcohol, propylene glycol, Shellac, strong ammonia solution, and yellow iron oxide.
 
 Instructions for Use
 
@@ -236,6 +236,6 @@ Ascend Laboratories, LLC
 
 Parsippany, NJ 07054
 
-Revised: October, 2017
+Revised: January, 2018
 
-PT 2444
+PT 2445-01
