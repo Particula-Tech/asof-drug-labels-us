@@ -1,6 +1,6 @@
 # Medication Guide Clomipramine Hydrochloride Capsules USP
 
-Antidepressant Medicines, Depression and other Serious Mental Illnesses, and Suicidal Thoughts or Actions
+Antidepressant Medicines, Depression and Other Serious Mental Illnesses, and Suicidal Thoughts or Actions
 
 Read the Medication Guide that comes with you or your family member’s antidepressant medicine.
 This Medication Guide is only about the risk of suicidal thoughts and actions with antidepressant medicines.
@@ -79,10 +79,10 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Mallinckrodt, the “M” brand mark and the Mallinckrodt Pharmaceuticals logo are trademarks of a Mallinckrodt company.
 
-© 2015 Mallinckrodt.
+© 2017 Mallinckrodt.
 
-Manufactured by Patheon Inc. Whitby, Ontario, Canada L1N 5Z5 for Mallinckrodt Inc. Hazelwood, MO 63042 USA
+Manufactured by Patheon Inc. Whitby, Ontario, Canada L1N 5Z5 for SpecGx LLC Webster Groves, MO 63119 USA
 
-Rev 01/2015
+Rev 08/2017
 
 Mallinckrodt™ Pharmaceuticals

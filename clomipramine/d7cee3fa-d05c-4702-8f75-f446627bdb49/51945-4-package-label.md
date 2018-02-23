@@ -19,7 +19,7 @@ Mallinckrodt™
 
 2000009035
 
-Rev 04/2017
+Rev 08/2017
 
 # PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 50 mg Bottle
 
@@ -42,7 +42,7 @@ Mallinckrodt™
 
 2000009036
 
-Rev 04/2017
+Rev 08/2017
 
 # PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 75 mg Bottle
 
@@ -65,4 +65,4 @@ Mallinckrodt™
 
 2000009037
 
-Rev 04/2017
+Rev 08/2017

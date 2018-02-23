@@ -8,6 +8,6 @@ Mallinckrodt, the “M” brand mark, the Mallinckrodt Pharmaceuticals logo and 
 
 © 2017 Mallinckrodt.
 
-Manufactured by Patheon Inc. Whitby, Ontario, Canada L1N 5Z5 for Mallinckrodt Inc. Hazelwood, MO 63042 USA
+Manufactured by Patheon Inc. Whitby, Ontario, Canada L1N 5Z5 for SpecGx LLC Webster Groves, MO 63119 USA
 
-Rev 05/2017
+Rev 08/2017
