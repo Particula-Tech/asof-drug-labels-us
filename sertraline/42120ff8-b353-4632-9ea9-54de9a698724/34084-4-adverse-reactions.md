@@ -3,7 +3,7 @@
 The following adverse reactions are described in more detail in other sections of the prescribing information:
 
 - Hypersensitivity reactions to sertraline [See Contraindications (4)]
-- QT prolongation and ventricular arrhythmias when taken with pimozide [See Contraindications (4)]
+- QTc prolongation and ventricular arrhythmias when taken with pimozide [See Contraindications (4), Clinical Pharmacology (12.2)]]
 - Suicidal thoughts and behaviors [See Warnings and Precautions (5.1)]
 - Serotonin syndrome [See Contraindications (4), Warnings and Precautions (5.2), Drug Interactions (7.1)]
 - Increased risk of bleeding [See Warnings and Precautions (5.3)]
@@ -189,7 +189,7 @@ Increased coagulation times (altered platelet function)
 
 Cardiac Disorders
 
-AV block, bradycardia, atrial arrhythmias, QT-interval prolongation, ventricular tachycardia (including Torsade de Pointes)
+AV block, bradycardia, atrial arrhythmias, QTc-interval prolongation, ventricular tachycardia (including Torsade de Pointes) [See Clinical Pharmacology (12.2)]
 
 Endocrine Disorders
 
@@ -203,7 +203,7 @@ Hepatobiliary Disorders
 
 Severe liver events (including hepatitis, jaundice, liver failure with some fatal outcomes), pancreatitis
 
-Hemic and Lymphatic
+Hemic and Lymphatic Disorders
 
 Agranulocytosis, aplastic anemia and pancytopenia, leukopenia, thrombocytopenia, lupus-like syndrome, serum sickness
 
@@ -217,7 +217,7 @@ Hyponatremia, hyperglycemia
 
 Musculoskeletal and Connective Tissue Disorders
 
-Trismus
+Rhabdomyolysis, trismus
 
 Nervous System Disorders
 
