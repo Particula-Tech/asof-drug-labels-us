@@ -9,4 +9,4 @@ Store at 20°-25° C (68°-77° F). [See USP controlled room temperature.]
 Manufactured by: Leading Pharma, LLC Fairfield, NJ 07004
 
 Rev.
-01 03/17
+02 04/17
