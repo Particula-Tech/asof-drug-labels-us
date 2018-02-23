@@ -20,8 +20,8 @@ Ritalin is a registered trademark of Novartis Corporation.
 
 Distributed by: Shionogi Inc. Florham Park, NJ 07932
 
-Manufactured by: Mallinckrodt Inc. Hazelwood, MO 63042 USA
+Manufactured by: SpecGx LLC Webster Groves, MO 63119 US
 
-MOS-PI-06 L20M21 Rev 09/2016
+MOS-PI-07 L20M21 Rev 08/2017
 
 An electronic copy of this medication guide can be obtained from www.mallinckrodt.com/Medguide/L20M31.pdf or by calling 1-800-778-7898 for alternate delivery options.

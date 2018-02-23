@@ -141,6 +141,6 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Distributed by: Shionogi Inc. Florham Park, NJ 07932
 
-Manufactured by: Mallinckrodt Inc. Hazelwood, MO 63042 USA
+Manufactured by: SpecGx LLC Webster Groves, MO 63119 USA
 
-MOS-MG-04 L20M31 Rev 12/2013
+MOS-MG-05 L20M31 Rev 08/2017
