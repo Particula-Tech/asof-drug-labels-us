@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "BLA125553"
+  ],
+  "inn": "filgrastim",
+  "labeler": "Sandoz Inc.",
+  "package_ndcs": [
+    "61314-318-01",
+    "61314-318-05",
+    "61314-318-10",
+    "61314-326-01",
+    "61314-326-05",
+    "61314-326-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "filgrastim-sndz",
+      "name": "ZARXIO"
+    }
+  ],
+  "setid": "c0d1c22b-566b-4776-bdbf-00f96dad0cae",
+  "source": "dailymed"
+}
