@@ -45,4 +45,4 @@ Gastrointestinal: Reports of hepatotoxicity, including elevated liver enzymes (S
 Some of these cases were fatal.
 One case of Kawasaki-like syndrome which included hepatic function changes was also reported.
 
-Other: Postmarketing reports of anaphylactic reaction, Steven-Johnson syndrome (SJS), drug reaction with eosinophilia and systemic symptoms (DRESS), pneumonitis, granulocytopenia, systemic lupus erythematosis, acute renal failure, chronic renal failure and angioedema have been received in patients taking PENTASA.
+Other: Postmarketing reports of anaphylactic reaction, Stevens-Johnson syndrome (SJS), drug reaction with eosinophilia and systemic symptoms (DRESS), pneumonitis, granulocytopenia, systemic lupus erythematosus, lupus-like syndrome, acute renal failure, interstitial lung disease, Hypersensitivity pneumonitis (including interstitial pneumonitis, allergic alveolitis, eosinophilic pneumonitis), chronic renal failure, nephrogenic diabetes insipidus, intracranial hypertension and angioedema have been received in patients taking PENTASA.

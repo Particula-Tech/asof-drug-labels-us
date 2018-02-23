@@ -8,7 +8,7 @@ The 4-g dose of PENTASA induced remission as assessed by endoscopic and symptoma
 In some patients, the 2-g dose of PENTASA was observed to improve efficacy parameters measured.
 However, the 2-g dose gave inconsistent results in primary efficacy parameters across the two adequate and well-controlled trials.
 
-| Parameter Evaluated | Clinical Trial UC-1 |  |  | Clinical Trial-UC-2 |  |  |
+| Parameter Evaluated | Clinical Trial UC-1 |  |  | Clinical Trial UC-2 |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | PL (n=90) | PENTASA |  | PL (n=83) | PENTASA |  |  |
 | 4 g/day (n=95) | 2 g/day (n=97) | 4 g/day (n=85) | 2 g/day (n=83) |  |  |  |
