@@ -214,4 +214,4 @@ Disclaimer: Other brands listed are the registered trademarks of their respectiv
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration
 
-Manufactured for: Cipla USA, Inc. 1560 Sawgrass Corporate Parkway, Suite 130 Sunrise, FL 33323 Manufactured by: InvaGen Pharmaceuticals, Inc. (a subsidiary of Cipla Ltd.) Hauppauge, NY 11788 or Ascent Pharmaceuticals, Inc. Central Islip, NY 11722 Revised: 08/2017
+Manufactured for: Cipla USA, Inc. 1560 Sawgrass Corporate Parkway, Suite 130 Sunrise, FL 33323 Manufactured by: InvaGen Pharmaceuticals, Inc. (a subsidiary of Cipla Ltd.) Hauppauge, NY 11788 Revised: 08/2017
