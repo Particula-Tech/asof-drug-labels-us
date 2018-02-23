@@ -70,18 +70,19 @@ Dilution Techniques
 
 Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
-The MICs should be determined using a standardized test method1,2,4 (broth or agar).
+The MICs should be determined using a standardized test method 1,2,4 (broth or agar).
 The MIC values should be interpreted according to criteria provided in Table 1.
 
 Diffusion Techniques
 
 Quantitative methods that require measurement of zone diameters can also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
-The zone size should be determined using a standardized test method.1,3,4 This procedure uses paper disks impregnated with 30-µg doxycycline to test the susceptibility of microorganisms to doxycycline.
+The zone size should be determined using a standardized test method.
+1,3,4 This procedure uses paper disks impregnated with 30-µg doxycycline to test the susceptibility of microorganisms to doxycycline.
 The disk diffusion interpretive criteria are provided in Table 1.
 
 Anaerobic Techniques
 
-For anaerobic bacteria, the susceptibility to doxycycline can be determined by a standardized test method5.
+For anaerobic bacteria, the susceptibility to doxycycline can be determined by a standardized test method 5.
 The MIC values obtained should be interpreted according to the criteria provided in Table 1.
 
 Table 1: Susceptibility Test Interpretive Criteria for Doxycycline and Tetracycline
@@ -89,12 +90,12 @@ Table 1: Susceptibility Test Interpretive Criteria for Doxycycline and Tetracycl
 | BacteriaOrganisms susceptible to tetracycline are also considered susceptible to doxycycline. However, some organisms that are intermediate or resistant to tetracycline may be susceptible to doxycycline. | Minimal InhibitoryConcentration(mcg/mL) |  |  | Zone Diameter(mm) |  |  | Agar Dilution(mcg/mL) |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | S | I | R | S | I | R | S | I | R |
-| Acinetobacter spp. Doxycycline Tetracycline | ≤4 ≤4 | 88 | ≥16 ≥16 | ≥13 ≥15 | 10-1212-14 | ≤9 ≤11 | -- | -- | -- |
+| Acinetobacter spp. Doxycycline Tetracycline | ≤4 ≤4 | 88 | ≥16 ≥16 | ≥13 ≥15 | 10-1212-14 | ≤9 ≤11 | - - | -- | -- |
 | Anaerobes Tetracycline | - | - | - | - | - | - | ≤4 | 8 | ≥16 |
-| Bacillus anthracisThe current absence of resistance isolates precludes defining any results other than “Susceptible”. If isolates yielding MIC results other than susceptible, they should be submitted to a reference laboratory for further testing. Doxycycline Tetracycline | ≤1≤1 | -- | -- | -- | -- | -- | -- | -- | -- |
-| Brucella specie Doxycycline Tetracycline | ≤1 ≤1 | -- | -- | -- | -- | -- | -- | -- | -- |
-| Enterobacteriaceae Doxycycline Tetracycline | ≤4≤4 | 88 | ≥16 ≥16 | ≥14 ≥15 | 11-13 12-14 | ≤10 ≤11 | -- | -- | -- |
-| Francisella tularensis Doxycycline Tetracycline | ≤4≤4 | -- | -- | -- | -- | -- | -- | -- | -- |
+| Bacillus anthracisThe current absence of resistance isolates precludes defining any results other than “Susceptible”. If isolates yielding MIC results other than susceptible, they should be submitted to a reference laboratory for further testing. Doxycycline Tetracycline | ≤1 ≤1 | -- | -- | - - | -- | - - | - - | - - | -- |
+| Brucella specie Doxycycline Tetracycline | ≤1 ≤1 | -- | - - | - - | -- | - - | - - | - - | -- |
+| Enterobacteriaceae Doxycycline Tetracycline | ≤4 ≤4 | 88 | ≥16 ≥16 | ≥14 ≥15 | 11-13 12-14 | ≤10 ≤11 | -- | -- | -- |
+| Francisella tularensis Doxycycline Tetracycline | ≤4≤4 | -- | -- | - - | -- | - - | - - | - - | -- |
 | Haemophilus influenzae Tetracycline | ≤2 | 4 | ≥8 | ≥29 | 26-28 | ≤25 | - | - | - |
 | Mycoplasma pneumoniaeTetracycline | - | - | - | - | - | - | ≤2 | - | - |
 | Neisseria gonorrhoeaeGonococci with 30 mcg tetracycline disk zone diameters of <19 mm usually indicate a plasmid-mediated tetracycline resistant Neisseria gonorrhoeae isolate. Resistance in these strains should be confirmed by a dilution test (MIC ≥ 16 mcg/mL). Tetracycline | - | - | - | ≥38 | 31-37 | ≤30 | ≤0.25 | 0.5-1 | ≥2 |
@@ -112,7 +113,7 @@ A report of Resistant (R) indicates that the antimicrobial drug is not likely to
 
 Quality Control
 
-Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of the supplies and reagents used in the assay, and the techniques of the individuals performing the test1,2,3,4,5,6,7.
+Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of the supplies and reagents used in the assay, and the techniques of the individuals performing the test 1,2,3,4,5,6,7.
 Standard doxycycline and tetracycline powders should provide the following range of MIC values noted in Table 2.
 For the diffusion technique using the 30 mcg doxycycline disk the criteria noted in Table 2 should be achieved.
 
