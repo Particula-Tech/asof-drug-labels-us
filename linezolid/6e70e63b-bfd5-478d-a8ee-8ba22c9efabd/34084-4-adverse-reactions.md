@@ -145,15 +145,15 @@ Serum Chemistry Laboratory Value in Comparator-Controlled Clinical Trials with Z
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during postapproval use of ZYVOX.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure:
 
-Myelosuppression (including anemia, leukopenia, pancytopenia, and thrombocytopenia) has been reported during postmarketing use of ZYVOX [see Warnings and Precautions (5.1)].
-Peripheral neuropathy, and optic neuropathy sometimes progressing to loss of vision, have been reported in patients treated with ZYVOX [see Warnings and Precautions (5.2)].
-Lactic acidosis has been reported with the use of ZYVOX [see Warnings and Precautions (5.7)].
-Although these reports have primarily been in patients treated for longer than the maximum recommended duration of 28 days, these events have also been reported in patients receiving shorter courses of therapy.
-Serotonin syndrome has been reported in patients receiving concomitant serotonergic agents, including antidepressants such as selective serotonin reuptake inhibitors (SSRIs) and ZYVOX [see Warnings and Precautions (5.3)].
-Convulsions have been reported with the use of ZYVOX [see Warnings and Precautions (5.8)].
-Anaphylaxis, angioedema, and bullous skin disorders such as those described as Stevens-Johnson syndrome have been reported.
-Superficial tooth discoloration and tongue discoloration have been reported with the use of linezolid.
-The tooth discoloration was removable with professional dental cleaning (manual descaling) in cases with known outcome.
-Hypoglycemia, including symptomatic episodes, has been reported [see Warnings and Precautions (5.9)].
+- Myelosuppression (including anemia, leukopenia, pancytopenia, and thrombocytopenia) [see Warnings and Precautions (5.1)]; sideroblastic anemia.
+- Peripheral neuropathy, and optic neuropathy sometimes progressing to loss of vision [see Warnings and Precautions (5.2)].
+- Lactic acidosis [see Warnings and Precautions (5.7)].
+  Although these reports have primarily been in patients treated for longer than the maximum recommended duration of 28 days, these events have also been reported in patients receiving shorter courses of therapy.
+- Serotonin syndrome has been reported in patients receiving concomitant serotonergic agents, including antidepressants such as selective serotonin reuptake inhibitors (SSRIs) and ZYVOX [see Warnings and Precautions (5.3)].
+- Convulsions [see Warnings and Precautions (5.8)].
+- Anaphylaxis, angioedema, and bullous skin disorders including severe cutaneous adverse reactions (SCAR) such as toxic epidermal necrolysis and Stevens-Johnson syndrome.
+- Superficial tooth discoloration and tongue discoloration have been reported with the use of linezolid.
+  The tooth discoloration was removable with professional dental cleaning (manual descaling) in cases with known outcome.
+- Hypoglycemia, including symptomatic episodes [see Warnings and Precautions (5.9)].

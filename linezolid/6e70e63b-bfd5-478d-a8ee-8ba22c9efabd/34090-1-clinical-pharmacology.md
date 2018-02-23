@@ -317,8 +317,8 @@ Susceptibility Test Interpretive Criteria for Linezolid
 |  | Susceptibility Interpretive Criteria |  |  |  |  |  |
 | Pathogen | Minimal Inhibitory Concentrations (MIC in mcg/mL) |  |  | Disk Diffusion (Zone Diameters in mm) |  |  |
 | Enterococcus spp | ≤2 | 4 | ≥8 | ≥23 | 21–22 | ≤20 |
-| Staphylococcus sppFor disk diffusion testing of staphylococcal species, petri plates should be held up to the light source and read with transmitted light. The zone margin should be considered the area showing no obvious, visible growth that can be detected with the unaided eye. Ignore faint growth of tiny colonies that can be detected only with a magnifying lens at the edge of the zone of inhibited growth. Any discernible growth within the zone of inhibition is indicative of resistance. Resistant results obtained by the disk diffusion method should be confirmed using an MIC method. | ≤4 | --- | ≥8 | ≥21 | --- | ≤20 |
-| Streptococcus pneumoniaeThe current absence of data on resistant isolates precludes defining any categories other than "Susceptible." Isolates yielding test results suggestive of a "nonsusceptible" category should be retested, and if the result is confirmed, the isolate should be submitted to a reference laboratory for further testing. | ≤2 | --- | --- | ≥21 | --- | --- |
+| Staphylococcus spp For disk diffusion testing of staphylococcal species, petri plates should be held up to the light source and read with transmitted light. The zone margin should be considered the area showing no obvious, visible growth that can be detected with the unaided eye. Ignore faint growth of tiny colonies that can be detected only with a magnifying lens at the edge of the zone of inhibited growth. Any discernible growth within the zone of inhibition is indicative of resistance. Resistant results obtained by the disk diffusion method should be confirmed using an MIC method. | ≤4 | --- | ≥8 | ≥21 | --- | ≤20 |
+| Streptococcus pneumoniae The current absence of data on resistant isolates precludes defining any categories other than "Susceptible." Isolates yielding test results suggestive of a "nonsusceptible" category should be retested, and if the result is confirmed, the isolate should be submitted to a reference laboratory for further testing. | ≤2 | --- | --- | ≥21 | --- | --- |
 | Streptococcus spp other than S pneumoniae | ≤2 | --- | --- | ≥21 | --- | --- |
 | S=susceptible, I=intermediate, R=resistant |  |  |  |  |  |  |
 
@@ -342,4 +342,4 @@ Acceptable Quality Control Ranges for Linezolid
 | Enterococcus faecalis ATCC 29212 | 1 – 4 | Not applicable |
 | Staphylococcus aureus ATCC 29213 | 1 – 4 | Not applicable |
 | Staphylococcus aureus ATCC 25923 | Not applicable | 25 – 32 |
-| Streptococcus pneumoniae ATCC 49619This organism may be used for validation of susceptibility test results when testing Streptococcus spp. other than S. pneumoniae. | 0.25 – 2 | 25 – 34 |
+| Streptococcus pneumoniae ATCC 49619 This organism may be used for validation of susceptibility test results when testing Streptococcus spp. other than S. pneumoniae. | 0.25 – 2 | 25 – 34 |

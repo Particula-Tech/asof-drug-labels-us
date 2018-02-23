@@ -25,7 +25,7 @@ Cure Rates at the Test-of-Cure Visit for Microbiologically Evaluable Adult Patie
 |  | Cured |  |
 | Staphylococcus aureus | 23/38 (61) | 14/23 (61) |
 | Methicillin-resistant S. aureus | 13/22 (59) | 7/10 (70) |
-| Streptococcus pneumonia | 9/9 (100) | 9/10 (90) |
+| Streptococcus pneumoniae | 9/9 (100) | 9/10 (90) |
 
 Complicated Skin and Skin Structure Infections
 

@@ -10,7 +10,6 @@ The infusion bags are available in the following package sizes:
 | 100 mL bag (200 mg linezolid) | NDC 0009-5137-01 |
 | --- | --- |
 | 100 mL bag (200 mg linezolid) × 10 | NDC 0009-5137-04 |
-| 200 mL bag (400 mg linezolid) | NDC 0009-5139-01 |
 | 300 mL bag (600 mg linezolid) | NDC 0009-5140-01 |
 | 300 mL bag (600 mg linezolid) × 10 | NDC 0009-5140-04 |
 
@@ -40,10 +39,12 @@ ZYVOX for Oral Suspension is supplied as follows:
 | 100 mg/5 mL in 240-mL glass bottles | NDC 0009-5136-01 |
 | --- | --- |
 
-## 16.4 Storage
+## 16.4 Storage and Handling
 
 Store at 25°C (77°F).
 Protect from light.
 Keep bottles tightly closed to protect from moisture.
 It is recommended that the infusion bags be kept in the overwrap until ready to use.
+Each overwrap contains a peel-off label.
+Apply the peel- off label to the infusion bag for barcode scanning before use.
 Protect infusion bags from freezing.

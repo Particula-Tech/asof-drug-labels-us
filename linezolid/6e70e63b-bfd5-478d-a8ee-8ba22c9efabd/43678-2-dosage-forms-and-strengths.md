@@ -1,7 +1,7 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
 ZYVOX I.V.
-Injection: 100-mL (200 mg linezolid), 200-mL (400 mg linezolid) and 300-mL (600 mg linezolid) single-use, ready-to-use flexible plastic infusion bags in a foil laminate overwrap.
+Injection: 100-mL (200 mg linezolid) and 300-mL (600 mg linezolid) single-use, ready-to-use flexible plastic infusion bags in a foil laminate overwrap.
 The infusion bags and ports are latex-free.
 
 ZYVOX 600 mg Tablet:
