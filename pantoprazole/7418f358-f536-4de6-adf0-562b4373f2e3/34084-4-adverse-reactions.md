@@ -19,7 +19,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 Safety in nine randomized comparative U.S. clinical trials in patients with GERD included 1,473 patients on oral pantoprazole sodium delayed-release tablets (20 mg or 40 mg), 299 patients on an H2-receptor antagonist, 46 patients on another PPI, and 82 patients on placebo.
 The most frequently occurring adverse reactions are listed in Table 3.
 
-Table 3: Adverse Reactions Reported in Clinical Trials of Adult Patients with GERD at a Frequency of > 2%
+Table 3: Adverse Reactions Reported in Clinical Trials of Adult Patients with GERD at a Frequency of >2%
 
 |  | Pantoprazole Sodium Delayed-Release Tablets (n=1473) % | Comparators (n=345) % | Placebo (n=82) % |
 | --- | --- | --- | --- |
@@ -32,18 +32,18 @@ Table 3: Adverse Reactions Reported in Clinical Trials of Adult Patients with GE
 | Dizziness | 3 | 2.9 | 1.2 |
 | Arthralgia | 2.8 | 1.4 | 1.2 |
 
-Additional adverse reactions that were reported for pantoprazole sodium delayed-release tablets in clinical trials with a frequency of ≤ 2% are listed below by body system: Body as a Whole: allergic reaction, pyrexia, photosensitivity reaction, facial edema Gastrointestinal: constipation, dry mouth, hepatitis Hematologic: leukopenia, thrombocytopenia Metabolic/Nutritional: elevated CK (creatine kinase), generalized edema, elevated triglycerides, liver enzymes elevated Musculoskeletal: myalgia Nervous: depression, vertigo Skin and Appendages: urticaria, rash, pruritus Special Senses: blurred vision
+Additional adverse reactions that were reported for pantoprazole sodium delayed-release tablets in clinical trials with a frequency of ≤2% are listed below by body system: Body as a Whole: allergic reaction, pyrexia, photosensitivity reaction, facial edema Gastrointestinal: constipation, dry mouth, hepatitis Hematologic: leukopenia, thrombocytopenia Metabolic/Nutritional: elevated CK (creatine kinase), generalized edema, elevated triglycerides, liver enzymes elevated Musculoskeletal: myalgia Nervous: depression, vertigo Skin and Appendages: urticaria, rash, pruritus Special Senses: blurred vision
 
 ### Pediatric Patients
 
-Safety of pantoprazole sodium delayed-release tablets in the treatment of Erosive Esophagitis (EE) associated with GERD was evaluated in pediatric patients ages 1 year through 16 years in three clinical trials.
+Safety of pantoprazole sodium delayed-release tablets in the treatment of EE associated with GERD was evaluated in pediatric patients ages 1 year through 16 years in three clinical trials.
 Safety trials involved pediatric patients with EE; however, as EE is uncommon in the pediatric population, 249 pediatric patients with endoscopically-proven or symptomatic GERD were also evaluated.
 All adult adverse reactions to pantoprazole sodium delayed-release tablets are considered relevant to pediatric patients.
-In patients ages 1 year through 16 years, the most commonly reported (> 4%) adverse reactions include: URI, headache, fever, diarrhea, vomiting, rash, and abdominal pain.
+In patients ages 1 year through 16 years, the most commonly reported (>4%) adverse reactions include: URI, headache, fever, diarrhea, vomiting, rash, and abdominal pain.
 
 For safety information in patients less than 1 year of age see Use in Specific Populations (8.4).
 
-Additional adverse reactions that were reported for pantoprazole sodium delayed-release tablets in pediatric patients in clinical trials with a frequency of ≤ 4% are listed below by body system:
+Additional adverse reactions that were reported for pantoprazole sodium delayed-release tablets in pediatric patients in clinical trials with a frequency of ≤4% are listed below by body system:
 
 Body as a Whole: allergic reaction, facial edema
 
@@ -59,9 +59,9 @@ Skin and Appendages: urticaria
 
 The following adverse reactions seen in adults in clinical trials were not reported in pediatric patients in clinical trials, but are considered relevant to pediatric patients: photosensitivity reaction, dry mouth, hepatitis, thrombocytopenia, generalized edema, depression, pruritus, leukopenia, and blurred vision.
 
-### Zollinger-Ellison Syndrome
+### Zollinger-Ellison (ZE) Syndrome
 
-In clinical studies of Zollinger-Ellison Syndrome, adverse reactions reported in 35 patients taking pantoprazole sodium delayed-release tablets 80 mg/day to 240 mg/day for up to 2 years were similar to those reported in adult patients with GERD.
+In clinical studies of ZE Syndrome, adverse reactions reported in 35 patients taking pantoprazole sodium delayed-release tablets 80 mg/day to 240 mg/day for up to 2 years were similar to those reported in adult patients with GERD.
 
 ## 6.2 Postmarketing Experience
 

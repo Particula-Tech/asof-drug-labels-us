@@ -3,10 +3,10 @@
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 In a 24-month carcinogenicity study, Sprague-Dawley rats were treated orally with pantoprazole doses of 0.5 to 200 mg/kg/day, about 0.1 to 40 times the exposure on a body surface area basis of a 50 kg person dosed with 40 mg/day.
-In the gastric fundus, treatment at 0.5 to 200 mg/kg/day produced enterochromaffin-like (ECL) cell hyperplasia and benign and malignant neuroendocrine cell tumors in a dose-related manner.
+In the gastric fundus, treatment with 0.5 to 200 mg/kg/day produced enterochromaffin-like (ECL) cell hyperplasia and benign and malignant neuroendocrine cell tumors in a dose-related manner.
 In the forestomach, treatment with 50 and 200 mg/kg/day (about 10 and 40 times the recommended human dose on a body surface area basis) produced benign squamous cell papillomas and malignant squamous cell carcinomas.
 Rare gastrointestinal tumors associated with pantoprazole treatment included an adenocarcinoma of the duodenum with 50 mg/kg/day and benign polyps and adenocarcinomas of the gastric fundus with 200 mg/kg/day.
-In the liver, treatment at 0.5 to 200 mg/kg/day produced dose-related increases in the incidences of hepatocellular adenomas and carcinomas.
+In the liver, treatment with 0.5 to 200 mg/kg/day produced dose-related increases in the incidences of hepatocellular adenomas and carcinomas.
 In the thyroid gland, treatment with 200 mg/kg/day produced increased incidences of follicular cell adenomas and carcinomas for both male and female rats.
 In a 24-month carcinogenicity study, Fischer 344 rats were treated orally with doses of 5 to 50 mg/kg/day of pantoprazole, approximately 1 to 10 times the recommended human dose based on body surface area.
 In the gastric fundus, treatment with 5 to 50 mg/kg/day produced enterochromaffin-like (ECL) cell hyperplasia and benign and malignant neuroendocrine cell tumors.

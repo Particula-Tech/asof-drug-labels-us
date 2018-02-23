@@ -42,12 +42,12 @@ Pediatric Patients Ages 5 Years through 16 Years
 
 The efficacy of pantoprazole sodium delayed-release tablets in the treatment of EE associated with GERD in pediatric patients ages 5 years through 16 years is extrapolated from adequate and well-conducted trials in adults, as the pathophysiology is thought to be the same.
 Four pediatric patients with endoscopically diagnosed EE were studied in multicenter, randomized, double-blind, parallel-treatment trials.
-Children with endoscopically diagnosed EE (defined as an endoscopic Hetzel-Dent score ≥ 2) were treated once daily for 8 weeks with one of two dose levels of pantoprazole sodium delayed-release tablets (20 mg or 40 mg).
+Children with endoscopically diagnosed EE (defined as an endoscopic Hetzel-Dent score ≥2) were treated once daily for 8 weeks with one of two dose levels of pantoprazole sodium delayed-release tablets (20 mg or 40 mg).
 All 4 patients with EE were healed (Hetzel-Dent score of 0 or 1) at 8 weeks.
 
 ## 14.2 Long-Term Maintenance of Healing of Erosive Esophagitis
 
-Two independent, multicenter, randomized, double-blind, comparator-controlled trials of identical design were conducted in adult GERD patients with endoscopically confirmed healed erosive esophagitis to demonstrate efficacy of pantoprazole sodium delayed-release tablets in long-term maintenance of healing.
+Two independent, multicenter, randomized, double-blind, comparator-controlled trials of identical design were conducted in adult GERD patients with endoscopically confirmed healed EE to demonstrate efficacy of pantoprazole sodium delayed-release tablets in long-term maintenance of healing.
 The two U.S. studies enrolled 386 and 404 patients, respectively, to receive either 10 mg, 20 mg, or 40 mg of pantoprazole sodium delayed-release tablets once daily or 150 mg of ranitidine twice daily.
 As demonstrated in Table 10, pantoprazole sodium delayed-release tablets 40 mg and 20 mg were significantly superior to ranitidine at every timepoint with respect to the maintenance of healing.
 In addition, pantoprazole sodium delayed-release tablets 40 mg was superior to all other treatments studied.
@@ -66,9 +66,9 @@ Table 10: Long-Term Maintenance of Healing of Erosive Gastroesophageal Reflux Di
 | Month 3 | 78* | 91*# | 47 |
 | Month 6 | 72* | 88*# | 39 |
 | Month 12 | 72* | 83* | 37 |
-| * (p < 0.05 vs. ranitidine) # (p < 0.05 vs. pantoprazole sodium delayed-release tablets 20 mg) |  |  |  |
+| * (p <0.05 vs. ranitidine) # (p <0.05 vs. pantoprazole sodium delayed-release tablets 20 mg) |  |  |  |
 
-Note: Pantoprazole sodium delayed-release tablets 10 mg was superior (p < 0.05) to ranitidine in Study 2, but not Study 1.
+Note: Pantoprazole sodium delayed-release tablets 10 mg was superior (p <0.05) to ranitidine in Study 2, but not Study 1.
 Pantoprazole sodium delayed-release tablets 40 mg was superior to ranitidine in reducing the number of daytime and nighttime heartburn episodes from the first through the twelfth month of treatment.
 Pantoprazole sodium delayed-release tablets 20 mg, administered once daily, were also effective in reducing episodes of daytime and nighttime heartburn in one trial, as presented in Table 11.
 
@@ -80,11 +80,11 @@ Table 11: Number of Episodes of Heartburn (mean ± SD)
 | Nighttime | 3.9 ± 1.1* | 11.9 ± 1.1 |  |
 | Month 12 | Daytime | 2.9 ± 1.5* | 17.5 ± 1.5 |
 | Nighttime | 2.5 ± 1.2* | 13.8 ± 1.3 |  |
-| *(p < 0.001 vs. ranitidine, combined data from the two U.S. studies) |  |  |  |
+| *(p <0.001 vs. ranitidine, combined data from the two U.S. studies) |  |  |  |
 
 ## 14.3 Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome
 
-In a multicenter, open-label trial of 35 patients with pathological hypersecretory conditions, such as Zollinger-Ellison syndrome, with or without multiple endocrine neoplasia-type I, pantoprazole sodium delayed-release tablets successfully controlled gastric acid secretion.
+In a multicenter, open-label trial of 35 patients with pathological hypersecretory conditions, such as Zollinger-Ellison Syndrome, with or without multiple endocrine neoplasia-type I, pantoprazole sodium delayed-release tablets successfully controlled gastric acid secretion.
 Doses ranging from 80 mg daily to 240 mg daily maintained gastric acid output below 10 mEq/h in patients without prior acid-reducing surgery and below 5 mEq/h in patients with prior acid-reducing surgery.
 Doses were initially titrated to the individual patient needs, and adjusted in some patients based on the clinical response with time [see Dosage and Administration (2)].
 Pantoprazole sodium delayed-release tablets were well tolerated at these dose levels for prolonged periods (greater than 2 years in some patients).
