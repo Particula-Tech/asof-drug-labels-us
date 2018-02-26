@@ -31,7 +31,7 @@ Serious Adverse Reactions: deep vein thrombosis [see Warnings and Precautions (5
 The following adverse reactions have been identified during post-approval use of NuvaRing.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Immune system disorders: hypersensitivity
+Immune system disorders: hypersensitivity, including anaphylaxis and angioedema
 
 Nervous system disorders: stroke/cerebrovascular accident
 

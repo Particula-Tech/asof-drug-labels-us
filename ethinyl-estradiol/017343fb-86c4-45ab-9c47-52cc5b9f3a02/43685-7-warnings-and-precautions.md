@@ -106,7 +106,7 @@ The incidence of hypertension increases with increasing concentrations of proges
 
 NuvaRing may not be suitable for women with conditions that make the vagina more susceptible to vaginal irritation or ulceration.
 Vaginal/cervical erosion or ulceration in women using NuvaRing has been reported.
-In some cases, the ring adhered to vaginal tissue, necessitating removal by a healthcare provider.
+In some cases, the ring adhered to vaginal tissue, necessitating removal by a healthcare provider and in some instances (i.e., when the tissue had grown over the ring), removal was achieved by cutting the ring without incising the overlying vaginal tissue.
 
 Some women are aware of the ring on occasion during the 21 days of use or during intercourse, and sexual partners may feel NuvaRing in the vagina.
 

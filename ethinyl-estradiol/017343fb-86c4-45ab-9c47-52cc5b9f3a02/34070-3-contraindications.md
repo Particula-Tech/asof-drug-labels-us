@@ -18,5 +18,5 @@ Do not prescribe NuvaRing to women who are known to have or use the following:
 - Undiagnosed abnormal uterine bleeding [see Warnings and Precautions (5.10)]
 - Pregnancy, because there is no reason to use CHCs during pregnancy [see Use in Specific Populations (8.1)]
 - Breast cancer or other estrogen- or progestin-sensitive cancer, now or in the past [see Warnings and Precautions (5.13)]
-- Hypersensitivity to any of the components of NuvaRing [see Adverse Reactions (6)]
+- Hypersensitivity, including anaphylaxis and angioedema, to any of the components of NuvaRing [see Adverse Reactions (6)]
 - Use of Hepatitis C drug combinations containing ombitasvir/paritaprevir/ritonavir, with or without dasabuvir, due to potential for ALT elevations [see Warnings and Precautions (5.4)].

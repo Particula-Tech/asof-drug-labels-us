@@ -5,9 +5,9 @@ Organon, Oss, The Netherlands, a subsidiary of Merck & Co., Inc., Whitehouse Sta
 
 For patent information: www.merck.com/product/patent/home.html
 
-Copyright © 2001-2017 Merck Sharp & Dohme B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
+Copyright © 2001-2018 Merck Sharp & Dohme B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-uspi-mk8342a-rng-1708r009
+uspi-mk8342a-rng-1802r010
 
 Instructions for Use
 
@@ -95,6 +95,10 @@ Insert NuvaRing into your vagina.
   This is normal.
   Although some women may be aware of NuvaRing in the vagina, most women do not feel it when it is in place.
 
+|  | Figure F |  |
+| --- | --- | --- |
+| Figure G | Figure H | Figure I |
+
 Inserting NuvaRing (Figure F, Figure G) and positioning NuvaRing (Figure H, Figure I)
 
 Note:
@@ -102,7 +106,7 @@ Note:
 - If the NuvaRing feels uncomfortable, you may not have pushed the ring into your vagina far enough.
   Use your finger to gently push the NuvaRing as far as you can into your vagina.
   There is no danger of NuvaRing being pushed too far up in the vagina or getting lost (See Figure G).
-- Some women have accidently inserted NuvaRing into their bladder.
+- Some women have accidentally inserted NuvaRing into their bladder.
   If you have pain during or after insertion and you cannot find NuvaRing in your vagina, call your healthcare provider right away.
 - Regularly check that NuvaRing is in your vagina (for example, before and after intercourse) to ensure you are protected from pregnancy.
 
@@ -143,7 +147,7 @@ NuvaRing can slip or accidentally come out (expelled) of your vagina, for exampl
   - If you accidentally pull out your NuvaRing while using tampons, rinse your NuvaRing in cool to lukewarm (not hot) water and insert it again right away.
 - NuvaRing can be pushed out of (expelled from) your vagina, for example, during sexual intercourse or during a bowel movement.
   - If the expelled ring has been out of your vagina for less than 3 hours, rinse the expelled NuvaRing in cool to lukewarm (not hot) water and insert it again right away.
-  - If the expelled NuvaRing has been out of your vagina for more than 3 continuous hours:Note: You should only choose to do option 2 if you used NuvaRing for 7 days in a row, prior to the day that your previous NuvaRing was accidently removed or expelled.
+  - If the expelled NuvaRing has been out of your vagina for more than 3 continuous hours:Note: You should only choose to do option 2 if you used NuvaRing for 7 days in a row, prior to the day that your previous NuvaRing was accidentally removed or expelled.
     - During Weeks 1 and 2, you may not be protected from pregnancy.
       Reinsert the ring as soon as you remember (See Steps 1 through 4).
       Use another birth control method, such as male condoms with spermicide, until the ring has been in place for 7 days in a row.
@@ -167,11 +171,11 @@ Organon, Oss, The Netherlands, a subsidiary of Merck & Co., Inc., Whitehouse Sta
 
 For patent information: www.merck.com/product/patent/home.html
 
-Copyright © 2001-2017 Merck Sharp & Dohme B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
+Copyright © 2001-2018 Merck Sharp & Dohme B.V., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 08/2017
+Revised: 02/2018
 
-usppi-mk8342a-rng-1708r009
+usppi-mk8342a-rng-1802r010
 
 # Instructions for Use
 

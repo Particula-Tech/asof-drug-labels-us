@@ -66,7 +66,7 @@ To prevent loss of contraceptive efficacy, advise women not to deviate from the 
 NuvaRing should be left in the vagina for a continuous period of three weeks.
 Advise women to regularly check for the presence of NuvaRing in the vagina (for example, before and after intercourse).
 
-Inadvertent Removal or Expulsion
+Inadvertent Removal or Expulsion:
 
 NuvaRing can be accidentally expelled, for example, while removing a tampon, during intercourse, or with straining during a bowel movement.
 NuvaRing should be left in the vagina for a continuous period of three weeks.
@@ -95,11 +95,11 @@ In either case, a barrier method such as condoms with spermicides must be used u
 If NuvaRing was out of the vagina for an unknown amount of time, the possibility of pregnancy should be considered.
 A pregnancy test should be performed prior to inserting a new ring.
 
-Prolonged Ring-Free Interval
+Prolonged Ring-Free Interval:
 
 If the ring-free interval has been extended beyond one week, consider the possibility of pregnancy, and an additional method of contraception, such as male condoms with spermicide, MUST be used until NuvaRing has been used continuously for seven days.
 
-Prolonged Use of NuvaRing
+Prolonged Use of NuvaRing:
 
 If NuvaRing has been left in place for up to one extra week (i.e., up to four weeks total), the woman will remain protected.
 NuvaRing should be removed and the woman should insert a new ring after a one-week ring-free interval.
@@ -107,7 +107,7 @@ NuvaRing should be removed and the woman should insert a new ring after a one-we
 If NuvaRing has been left in place for longer than four weeks, instruct the woman to remove the ring, and rule out pregnancy.
 If pregnancy is ruled out, NuvaRing may be restarted, and an additional method of contraception, such as male condoms with spermicide, MUST be used until a new NuvaRing has been used continuously for seven days.
 
-Ring Breakage
+Ring Breakage:
 
 There have been reported cases of NuvaRing disconnecting at the weld joint.
 This is not expected to affect the contraceptive effectiveness of NuvaRing.
@@ -122,7 +122,7 @@ If a woman discovers that her NuvaRing has disconnected, she should discard the 
 
 ## 2.5 Use with Other Vaginal Products
 
-NuvaRing may interfere with the correct placement and position of certain female barrier methods such as a diaphragm or female condom.
+NuvaRing may interfere with the correct placement and position of certain female barrier methods such as a diaphragm, cervical cap or female condom.
 These methods are not recommended as back-up methods with NuvaRing use.
 
 Pharmacokinetic data show that the use of tampons has no effect on the systemic absorption of the hormones released by NuvaRing.

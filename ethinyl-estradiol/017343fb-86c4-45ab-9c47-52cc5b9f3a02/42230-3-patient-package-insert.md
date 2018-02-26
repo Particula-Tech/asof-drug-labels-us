@@ -103,7 +103,7 @@ Some medicines and herbal products may make hormonal birth control less effectiv
 
 Use an additional barrier contraceptive method (such as a male condom with spermicide) when you take medicines that may make NuvaRing less effective.
 Since the effect of another medicine on NuvaRing may last up to 28 days after stopping the medicine, it is necessary to use the additional barrier contraceptive method for that long to help prevent you from becoming pregnant.
-While using NuvaRing, you should not use certain female barrier contraceptive methods such as a vaginal diaphragm or female condom as your back-up method of birth control because NuvaRing may interfere with the correct placement and position of a diaphragm or female condom.
+While using NuvaRing, you should not use certain female barrier contraceptive methods such as a vaginal diaphragm, cervical cap or female condom as your back-up method of birth control because NuvaRing may interfere with the correct placement and position of a diaphragm, cervical cap or female condom.
 
 Some medicines and grapefruit juice may increase the level of ethinyl estradiol in your blood if used together, including:
 
@@ -134,7 +134,7 @@ How should I use NuvaRing?
     Note: Insert and remove NuvaRing on the same day of the week and at the same time:
     - For example, if you insert your NuvaRing on a Monday at 8:00 am, you should remove it on the Monday 3 weeks later at 8:00 am.
     - After your 1 week (7 days) break, you should insert a new NuvaRing on the next Monday at 8:00 am.
-- While using NuvaRing, you should not use certain female barrier contraceptive methods such as a vaginal diaphragm or female condom as your back-up method of birth control because NuvaRing may interfere with the correct placement and position of a diaphragm or female condom.
+- While using NuvaRing, you should not use certain female barrier contraceptive methods such as a vaginal diaphragm, cervical cap or female condom as your back-up method of birth control because NuvaRing may interfere with the correct placement and position of a diaphragm, cervical cap or female condom.
 - Use of spermicides or vaginal yeast products will not make NuvaRing less effective at preventing pregnancy.
 - Use of tampons will not make NuvaRing less effective or stop NuvaRing from working.
 - If NuvaRing has been left inside your vagina for more than 4 weeks (28 days), you may not be protected from pregnancy and you should see your healthcare provider to be sure you are not pregnant.
@@ -211,13 +211,16 @@ If these symptoms occur, do not stop using NuvaRing.
 The problem will usually go away.
 If it doesn't go away, check with your healthcare provider.
 
-Other side effects seen with NuvaRing include allergic reaction, hives, breast discharge, and penis discomfort of the partner (such as irritation, rash, itching).
+Other side effects seen with NuvaRing include allergic reactions, which may include swelling of the face, lips, tongue, and/or throat that may cause difficulty in breathing or swallowing (anaphylaxis and angioedema), hives; breast discharge; and penis discomfort of the partner (such as irritation, rash, itching).
 
 Less common side effects seen with combination hormonal birth control include:
 
 - Blotchy darkening of your skin, especially on your face
 - High blood sugar, especially in women who already have diabetes
 - High fat (cholesterol, triglycerides) levels in the blood
+
+There have been reports of the ring becoming stuck to the vaginal tissue and having to be removed by a healthcare provider.
+Call your healthcare provider if you are unable to remove your NuvaRing.
 
 Tell your healthcare provider about any side effect that bothers you or that does not go away.
 These are not all the possible side effects of NuvaRing.
