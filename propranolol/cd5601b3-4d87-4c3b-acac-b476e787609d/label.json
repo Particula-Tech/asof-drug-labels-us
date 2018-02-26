@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA021438"
+  ],
+  "inn": "propranolol",
+  "labeler": "ANI Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "62559-590-30",
+    "62559-590-77",
+    "62559-591-30",
+    "62559-591-77"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "propranolol hydrochloride",
+      "name": "InnoPran XL"
+    }
+  ],
+  "setid": "cd5601b3-4d87-4c3b-acac-b476e787609d",
+  "source": "dailymed"
+}
