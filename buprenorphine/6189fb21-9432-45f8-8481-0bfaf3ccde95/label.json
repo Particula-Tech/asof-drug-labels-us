@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA209819"
+  ],
+  "inn": "buprenorphine",
+  "labeler": "Indivior Inc.",
+  "package_ndcs": [
+    "12496-0100-1",
+    "12496-0100-2",
+    "12496-0100-5",
+    "12496-0300-1",
+    "12496-0300-2",
+    "12496-0300-5"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "buprenorphine",
+      "name": "SUBLOCADE"
+    }
+  ],
+  "setid": "6189fb21-9432-45f8-8481-0bfaf3ccde95",
+  "source": "dailymed"
+}
