@@ -73,7 +73,7 @@ Animal Data
 Ertugliflozin
 
 The lacteal excretion of radiolabeled ertugliflozin in lactating rats was evaluated 10 to 12 days after parturition.
-Ertugliflozin derived radioactivity exposure in milk and plasma were similar, with a milk/plasma ratio of 1.07, based on AUC.
+Ertugliflozin-derived radioactivity exposure in milk and plasma were similar, with a milk/plasma ratio of 1.07, based on AUC.
 Juvenile rats directly exposed to ertugliflozin during a developmental period corresponding to human kidney maturation were associated with a risk to the developing kidney (persistent increased organ weight, renal mineralization, and renal pelvic and tubular dilatations).
 
 Sitagliptin

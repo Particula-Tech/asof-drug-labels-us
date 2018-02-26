@@ -22,6 +22,6 @@ NDC 0006-5368-07 bulk bottles of 500
 
 Storage of Bottles
 
-Store at 20°C -25°C (68°F -77°F), excursions permitted between 15°C -30°C (between 59°F -86°F) [see USP Controlled Room Temperature].
+Store at 20°C-25°C (68°F-77°F), excursions permitted between 15°C-30°C (between 59°F-86°F) [see USP Controlled Room Temperature].
 Protect from moisture.
 Store in a dry place.

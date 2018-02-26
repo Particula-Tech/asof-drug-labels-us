@@ -125,7 +125,7 @@ In females, discontinuation due to genital mycotic infections occurred in 0% and
 In the same pool, male genital mycotic infections (e.g., balanitis candida, balanoposthitis, genital infection, genital infection fungal) occurred in 0.4%, 3.7%, and 4.2% of males treated with placebo, ertugliflozin 5 mg, ertugliflozin 15 mg, respectively (see Table 1).
 Male genital mycotic infections occurred more commonly in uncircumcised males.
 In males, discontinuations due to genital mycotic infections occurred in 0% and 0.2% of patients treated with placebo and ertugliflozin, respectively.
-Phimosis was reported in 8 of 1729 (0.5%) male ertugliflozin-treated patients, of which four required circumcision.
+Phimosis was reported in 8 of 1,729 (0.5%) male ertugliflozin-treated patients, of which four required circumcision.
 
 Sitagliptin
 
@@ -179,4 +179,4 @@ Sitagliptin
 Additional adverse reactions have been identified during postapproval use of sitagliptin, a component of STEGLUJAN, as monotherapy and/or in combination with other antihyperglycemic agents.
 Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Hypersensitivity reactions including anaphylaxis, angioedema, rash, urticaria, cutaneous vasculitis, and exfoliative skin conditions including Stevens-Johnson syndrome [see Warnings and Precautions (5.10)]; hepatic enzyme elevations; acute pancreatitis, including fatal and non-fatal hemorrhagic and necrotizing pancreatitis [see Indications and Usage (1) and Warnings and Precautions (5.1)]; worsening renal function, including acute renal failure (sometimes requiring dialysis) [see Warnings and Precautions (5.4)]; severe and disabling arthralgia [see Warnings and Precautions (5.12)]; bullous pemphigoid [see Warnings and Precautions (5.13)]; constipation; vomiting; headache; myalgia; pain in extremity; back pain; pruritus.
+Hypersensitivity reactions including anaphylaxis, angioedema, rash, urticaria, cutaneous vasculitis, and exfoliative skin conditions including Stevens-Johnson syndrome [see Warnings and Precautions (5.10)]; hepatic enzyme elevations; acute pancreatitis, including fatal and non-fatal hemorrhagic and necrotizing pancreatitis [see Indications and Usage (1) and Warnings and Precautions (5.1)]; worsening renal function, including acute renal failure (sometimes requiring dialysis) [see Warnings and Precautions (5.4)]; severe and disabling arthralgia [see Warnings and Precautions (5.12)]; bullous pemphigoid [see Warnings and Precautions (5.13)]; constipation; vomiting; headache; myalgia; pain in extremity; back pain; pruritus; mouth ulceration; stomatitis.

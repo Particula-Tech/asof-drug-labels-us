@@ -38,7 +38,7 @@ Instruct patients to seek medical advice if severe joint pain occurs [see Warnin
 
 Bullous Pemphigoid
 
-Inform patients that bullous pemphigoid may occur with the DPP_4 class of drugs.
+Inform patients that bullous pemphigoid may occur with the DPP-4 class of drugs.
 Instruct patients to seek medical advice if blisters or erosions occur [see Warnings and Precautions (5.13)].
 
 Hypoglycemia with Concomitant Use of Insulin and Insulin Secretagogue

@@ -170,7 +170,7 @@ Studies characterizing the pharmacokinetics of ertugliflozin and sitagliptin aft
 
 Ertugliflozin
 
-In a Phase 1 clinical pharmacology study in patients with type 2 diabetes mellitus and mild, moderate, or severe renal impairment (as determined by eGFR), following a single-dose administration of 15 mg ertugliflozin, the mean increases in AUC of ertugliflozin were 1.6-, 1.7-, and 1.6-fold, respectively, for mild, moderate and severe renally impaired patients, compared to subjects with normal renal function.
+In a Phase 1 clinical pharmacology study in patients with type 2 diabetes mellitus and mild, moderate, or severe renal impairment (as determined by eGFR), following a single-dose administration of 15 mg ertugliflozin, the mean increases in AUC of ertugliflozin were 1.6-, 1.7-, and 1.6-fold, respectively, for mild, moderate and severe renally-impaired patients, compared to subjects with normal renal function.
 These increases in ertugliflozin AUC are not considered clinically meaningful.
 The 24-hour urinary glucose excretion declined with increasing severity of renal impairment [see Warnings and Precautions (5.4) and Use in Specific Populations (8.6)].
 The plasma protein binding of ertugliflozin was unaffected in patients with renal impairment.
