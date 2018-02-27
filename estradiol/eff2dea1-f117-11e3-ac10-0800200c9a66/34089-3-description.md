@@ -8,4 +8,4 @@ It has a molecular formula of C18H24O2•½H2O and molecular weight of 281.4.
 The structural formula is:
 
 The active component of ELESTRIN is estradiol.
-The remaining components of the gel (ethanol, propylene glycol, diethylene glycol monoethyl ether, carbomer 940, triethanolamine, edetate disodium, and purified water) are pharmacologically inactive.
+The remaining components of the gel (ethanol, propylene glycol, diethylene glycol monoethyl ether, carbomer homopolymer type C, triethanolamine, edetate disodium, and purified water) are pharmacologically inactive.

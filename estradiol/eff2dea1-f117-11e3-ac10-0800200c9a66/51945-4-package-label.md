@@ -18,7 +18,7 @@ Attention pharmacist: Dispense with enclosed Patient Information leaflet.
 
 Important: Read accompanying directions carefully.
 
-Contents: Each gram of Elestrin® contains 0.6 mg estradiol in a hydroalcoholic gel containing purified water, ethanol, propylene glycol, diethylene glycol monoethyl ether, carbomer 940, triethanolamine and edetate disodium.
+Contents: Each gram of Elestrin® contains 0.6 mg estradiol in a hydroalcoholic gel containing purified water, ethanol, propylene glycol, diethylene glycol monoethyl ether, carbomer homopolymer type C, triethanolamine and edetate disodium.
 
 Usual Dose: Apply 1 or 2 actuations per day to upper arm/shoulder area as directed by your physician.
 See enclosed Prescribing Information.
@@ -49,8 +49,8 @@ U.S. Pat.
 No. 7,198,801 and U.S. Pat.
 No. 7,470,433
 
-UC-048002-02 Rev.
-2/2017
+UC-048002-03 Rev.
+10/2017
 
 # PRINCIPAL DISPLAY PANEL – 0.06%
 

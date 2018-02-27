@@ -246,7 +246,7 @@ What are the ingredients in ELESTRIN?
 
 Active ingredient: estradiol.
 
-Inactive ingredients: purified water, ethanol, propylene glycol, diethylene glycol monoethyl ether, carbomer 940, triethanolamine, and edetate disodium.
+Inactive ingredients: purified water, ethanol, propylene glycol, diethylene glycol monoethyl ether, carbomer homopolymer type C, triethanolamine, and edetate disodium.
 
 MEDA PHARMACEUTICALS and the MEDA PHARMACEUTICALS logo are trademarks and ELESTRIN is a registered trademark of Meda AB or a related entity.
 
@@ -259,4 +259,4 @@ No. 7,198,801 and U.S. Pat.
 No. 7,470,433
 
 Rev.
-10/2017 IN-0480-04 140893
+10/2017 IN-0480-05 140893
