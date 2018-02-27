@@ -16,7 +16,7 @@ The tablets should be protected from light and moisture and stored at 25°C
 
 (77°F); excursions permitted to 15°-30°C (59°-86°F) [see USP Controlled
 
-RoomTemperature].
+Room Temperature].
 Dispense in tight, light-resistant containers.
 
 Manufactured by:
@@ -27,9 +27,9 @@ Distributed by: Oceanside Pharmaceuticals, a division of Valeant Pharmaceuticals
 
 Bridgewater, NJ 08807 USA
 
-9495502
+9495503
 
-20001683
+20001722
 
 Rev.
 06/2016
