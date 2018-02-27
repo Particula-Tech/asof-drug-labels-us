@@ -240,6 +240,8 @@ Consider restarting OPDIVO after completion of corticosteroid taper based on the
 
 Across clinical trials of OPDIVO administered as a single agent or in combination with ipilimumab, the following clinically significant immune-mediated adverse reactions, some with fatal outcome, occurred in less than 1.0% of patients receiving OPDIVO: myocarditis, rhabdomyolysis, myositis, uveitis, iritis, pancreatitis, facial and abducens nerve paresis, demyelination, polymyalgia rheumatica, autoimmune neuropathy, Guillain-Barré syndrome, hypopituitarism, systemic inflammatory response syndrome, gastritis, duodenitis, sarcoidosis, histiocytic necrotizing lymphadenitis (Kikuchi lymphadenitis), motor dysfunction, vasculitis, and myasthenic syndrome.
 
+If uveitis occurs in combination with other immune-mediated adverse reactions, consider a Vogt-Koyanagi-Harada-like syndrome, which has been observed in patients receiving OPDIVO or OPDIVO in combination with ipilimumab and may require treatment with systemic steroids to reduce the risk of permanent vision loss.
+
 ## 5.9 Infusion Reactions
 
 OPDIVO can cause severe infusion reactions, which have been reported in less than 1.0% of patients in clinical trials.

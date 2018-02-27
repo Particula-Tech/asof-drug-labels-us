@@ -643,7 +643,14 @@ The toxicity profile observed in patients with advanced HCC was generally simila
 Treatment with OPDIVO resulted in treatment-emergent Grade 3 or 4 AST in 27 (18%) patients, Grade 3 or 4 ALT in 16 (11%) patients, and Grade 3 or 4 bilirubin in 11 (7%) patients.
 Immune-mediated hepatitis requiring systemic corticosteroids occurred in 8 (5%) patients.
 
-## 6.2 Immunogenicity
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post approval use of OPDIVO.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Eye disorders: Vogt-Koyanagi-Harada (VKH) syndrome
+
+## 6.3 Immunogenicity
 
 As with all therapeutic proteins, there is a potential for immunogenicity.
 
