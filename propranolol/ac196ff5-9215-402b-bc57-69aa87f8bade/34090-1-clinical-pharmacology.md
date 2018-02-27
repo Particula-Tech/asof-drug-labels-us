@@ -1,66 +1,137 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-Metoclopramide stimulates motility of the upper gastrointestinal tract without stimulating gastric, biliary or pancreatic secretions.
-Its mode of action is unclear.
-It seems to sensitize tissues to the action of acetylcholine.
-The effect of metoclopramide on motility is not dependent on intact vagal innervation, but it can be abolished by anticholinergic drugs.
+## 12.1 Mechanism of Action
 
-Metoclopramide increases the tone and amplitude of gastric (especially antral) contractions, relaxes the pyloric sphincter and the duodenal bulb, and increases peristalsis of the duodenum and jejunum resulting in accelerated gastric emptying and intestinal transit.
-It increases the resting tone of the lower esophageal sphincter.
-It has little, if any, effect on the motility of the colon or gall bladder.
+The mechanism of the antihypertensive effect of propranolol has not been established.
+Among factors that contribute to the antihypertensive action are: (1) decreased cardiac output, (2) inhibition of renin release by the kidneys, and (3) diminution of tonic sympathetic nerve outflow from vasomotor centers in the brain.
+Although total peripheral resistance may increase initially, it readjusts to or below the pretreatment level with chronic use.
+Effects of propranolol on plasma volume appear to be minor and somewhat variable.
 
-In patients with gastroesophageal reflux and low LESP (lower esophageal sphincter pressure), single oral doses of metoclopramide produce dose-related increases in LESP.
-Effects begin at about 5 mg and increase through 20 mg (the largest dose tested).
-The increase in LESP from a 5 mg dose lasts about 45 minutes and that of 20 mg lasts between 2 and 3 hours.
-Increased rate of stomach emptying has been observed with single oral doses of 10 mg.
+## 12.2 Pharmacodynamics
 
-The antiemetic properties of metoclopramide appear to be a result of its antagonism of central and peripheral dopamine receptors.
-Dopamine produces nausea and vomiting by stimulation of the medullary chemoreceptor trigger zone (CTZ), and metoclopramide blocks stimulation of the CTZ by agents like L-dopa or apomorphine, which are known to increase dopamine levels or to possess dopamine-like effects.
-Metoclopramide also abolishes the slowing of gastric emptying caused by apomorphine.
+Propranolol is a nonselective, beta-adrenergic receptor-blocking agent possessing no other autonomic nervous system activity.
+It specifically competes with beta-adrenergic receptor-stimulating agents for available receptor sites.
+Of the 2 enantiomers of propranolol, the S-enantiomer blocks beta-adrenergic receptors.
+When access to beta-receptor sites is blocked by propranolol, chronotropic, inotropic, and vasodilator responses to beta-adrenergic stimulation are decreased proportionately.
+At dosages greater than required for beta blockade, propranolol also exerts a quinidine-like or anesthetic-like membrane action, which affects the cardiac action potential.
+The significance of the membrane action in the treatment of arrhythmias is uncertain.
 
-Like the phenothiazines and related drugs, which are also dopamine antagonists, metoclopramide produces sedation and may produce extrapyramidal reactions, although these are comparatively rare (see WARNINGS).
-Metoclopramide inhibits the central and peripheral effects of apomorphine, induces release of prolactin and causes a transient increase in circulating aldosterone levels, which may be associated with transient fluid retention.
+## 12.3 Pharmacokinetics
 
-The onset of pharmacological action of metoclopramide is 1 to 3 minutes following an intravenous dose, 10 to 15 minutes following intramuscular administration, and 30 to 60 minutes following an oral dose; pharmacological effects persist for 1 to 2 hours.
+Absorption: Propranolol is highly lipophilic and is almost completely absorbed after oral administration.
+However, it undergoes high first-pass metabolism by the liver, and, on average, only about 25% of propranolol reaches the systemic circulation.
 
-## Pharmacokinetics
+A single-dose, food-effect study in 36 healthy subjects showed that a high fat meal administered with INDERAL XL at 10 p.m., increased the lag time from 3 to 5 hours and the time to reach the maximum concentration from 11.5 to 15.4 hours, with no effect on the AUC.
 
-Metoclopramide is rapidly and well absorbed.
-Relative to an intravenous dose of 20 mg, the absolute oral bioavailability of metoclopramide is 80% ± 15.5% as demonstrated in a crossover study of 18 subjects.
-Peak plasma concentrations occur at about 1-2 hours after a single oral dose.
-Similar time to peak is observed after individual doses at steady state.
+Following multiple-dose administration of INDERAL XL at 10 p.m. under fasting conditions, the steady state lag time was between 4 and 5 hours and propranolol peak plasma concentrations were reached approximately 12 to 14 hours after dosing.
+Propranolol trough levels were achieved 24 to 27 hours after dosing, and persisted for 3 to 5 hours after the next dose.
 
-In a single dose study of 12 subjects, the area under the drug concentration-time curve increases linearly with doses from 20 to 100 mg.
-Peak concentrations increase linearly with dose; time to peak concentrations remains the same; whole body clearance is unchanged; and the elimination rate remains the same.
-The average elimination half-life in individuals with normal renal function is 5-6 hours.
-Linear kinetic processes adequately describe the absorption and elimination of metoclopramide.
+The plasma levels of propranolol showed dose-proportional increases after single and multiple administration of 80, 120, and 160 mg of INDERAL XL.
 
-Approximately 85% of the radioactivity of an orally administered dose appears in the urine within 72 hours.
-Of the 85% eliminated in the urine, about half is present as free or conjugated metoclopramide.
+At steady state, the bioavailability of a 160 mg dose of INDERAL XL and propranolol hydrochloride long-acting capsules did not differ significantly.
 
-The drug is not extensively bound to plasma proteins (about 30%).
-The whole body volume of distribution is high (about 3.5L/kg) which suggests extensive distribution of the drug to the tissues.
+Distribution: Approximately 90% of circulating propranolol is bound to plasma proteins (albumin and alpha1 acid glycoprotein).
+The binding is enantiomer-selective.
+The S-isomer is preferentially bound to alpha1 glycoprotein and the R-isomer preferentially bound to albumin.
+The volume of distribution of propranolol is approximately 4 liters.
 
-Renal impairment affects the clearance of metoclopramide.
-In a study with patients with varying degrees of renal impairment, a reduction in creatinine clearance was correlated with a reduction in plasma clearance, renal clearance, non-renal clearance, and increase in elimination half-life.
-The kinetics of metoclopramide in the presence of renal impairment remained linear however.
-The reduction in clearance as a result of renal impairment suggests that adjustment downward of maintenance dosage should be done to avoid drug accumulation.
+Metabolism and Elimination: Propranolol is extensively metabolized with most metabolites appearing in the urine.
+Propranolol is metabolized through 3 primary routes: Aromatic hydroxylation (mainly 4-hydroxylation), N-dealkylation followed by further side-chain oxidation, and direct glucuronidation.
+It has been estimated that the percentage contributions of these routes to total metabolism are 42%, 41%, and 17%, respectively, but with considerable variability between individuals.
+The 4 major metabolites are propranolol glucuronide, naphthyloxylactic acid, and glucuronic acid and sulfate conjugates of 4-hydroxy propranolol.
 
-In pediatric patients, the pharmacodynamics of metoclopramide following oral and intravenous administration are highly variable and a concentration-effect relationship has not been established.
+In vitro studies have indicated that the aromatic hydroxylation of propranolol is catalyzed mainly by polymorphic CYP2D6.
+Side-chain oxidation is mediated mainly by CYP1A2 and to some extent by CYP2D6.
+4-hydroxy propranolol is a weak inhibitor of CYP2D6.
 
-There are insufficient reliable data to conclude whether the pharmacokinetics of metoclopramide in adults and the pediatric population are similar.
-Although there are insufficient data to support the efficacy of metoclopramide in pediatric patients with symptomatic gastroesophageal reflux (GER) or cancer chemotherapy related nausea and vomiting, its pharmacokinetics have been studied in these patient populations.
+Propranolol is also a substrate for CYP2C19 and a substrate for the intestinal efflux transporter, p-glycoprotein (p-gp).
+Studies suggest however that p-gp is not dose-limiting for intestinal absorption of propranolol in the usual therapeutic dose range.
 
-In an open-label study, six pediatric patients (age range, 3.5 weeks to 5.4 months) with GER received metoclopramide 0.15 mg/kg oral solution every 6 hours for 10 doses.
-The mean peak plasma concentration of metoclopramide after the tenth dose was 2-fold (56.8 mcg/L) higher compared to that observed after the first dose (29 mcg/L) indicating drug accumulation with repeated dosing.
-After the tenth dose, the mean time to reach peak concentrations (2.2 hr), half-life (4.1 hr), clearance (0.67 L/h/kg), and volume of distribution (4.4 L/kg) of metoclopramide were similar to those observed after the first dose.
-In the youngest patient (age, 3.5 weeks), metoclopramide half-life after the first and the tenth dose (23.1 and 10.3 hr, respectively) was significantly longer compared to other infants due to reduced clearance.
-This may be attributed to immature hepatic and renal systems at birth.
+In healthy subjects, no difference was observed between CYP2D6 extensive metabolizers (EMs) and poor metabolizers (PMs) with respect to oral clearance or elimination half-life.
+Partial clearance to 4-hydroxy propranolol was significantly higher and to naphthyloxylactic acid was significantly lower in EMs than PMs.
 
-Single intravenous doses of metoclopramide 0.22 to 0.46 mg/kg (mean, 0.35 mg/kg) were administered over 5 minutes to 9 pediatric cancer patients receiving chemotherapy (mean age, 11.7 years; range, 7 to 14 yr) for prophylaxis of cytotoxic-induced vomiting.
-The metoclopramide plasma concentrations extrapolated to time zero ranged from 65 to 395 mcg/L (mean, 152 mcg/L).
-The mean elimination half-life, clearance, and volume of distribution of metoclopramide were 4.4 hr (range, 1.7 to 8.3 hr), 0.56 L/h/kg (range, 0.12 to 1.20 L/h/kg), and 3 L/kg (range, 1 to 4.8 L/kg), respectively.
+In normal subjects receiving oral doses of racemic propranolol, S-enantiomer concentrations exceeded those of the R-enantiomer by 40 to 90% as a result of stereoselective hepatic metabolism.
 
-In another study, nine pediatric cancer patients (age range, 1 to 9 yr) received 4 to 5 intravenous infusions (over 30 minutes) of metoclopramide at a dose of 2 mg/kg to control emesis.
-After the last dose, the peak serum concentrations of metoclopramide ranged from 1060 to 5680 mcg/L.
-The mean elimination half-life, clearance, and volume of distribution of metoclopramide were 4.5 hr (range, 2 to 12.5 hr), 0.37 L/h/kg (range, 0.1 to 1.24 L/h/kg), and 1.93 L/kg (range, 0.95 to 5.5 L/kg), respectively.
+The elimination half-life of propranolol was approximately 8 hours.
+
+## 12.6 Specific Populations
+
+Pediatric: The pharmacokinetics of INDERAL XL have not been investigated in patients younger than 18 years of age.
+
+Geriatric: The pharmacokinetics of INDERAL XL have not been investigated in patients older than 65 years.
+In a study of 12 elderly (62 to 79 years old) and 12 young (25 to 33 years old) healthy subjects administered immediate-release propranolol, the clearance of the S-enantiomer of propranolol was decreased in the elderly.
+Additionally, the half-lives of both R- and S-propranolol were prolonged in the elderly compared with the young (11 hours versus 5 hours).
+
+Gender: In a dose-proportionality study, the pharmacokinetics of INDERAL XL were evaluated in 22 male and 14 female healthy volunteers.
+Following single doses under fasting conditions, the mean AUC and Cmax were about 49% and 16% higher for females across the dosage range.
+The mean elimination half-life was longer in females than in males (11 hours versus 7.5 hours).
+
+Race: A study conducted in 12 white and 13 African-American male subjects taking immediate-release propranolol showed, that at steady state, the clearance of R- and S-propranolol were about 76% and 53% higher in African-Americans than in whites, respectively.
+
+Renal Impairment: The pharmacokinetics of propranolol after administration of INDERAL XL have not been evaluated in patients with renal impairment.
+In a study conducted in 5 patients with chronic renal failure, 6 patients on regular dialysis, and 5 healthy subjects, who received a single oral dose of 40 mg of propranolol, the peak plasma concentrations (Cmax) of propranolol in the chronic renal failure group were 3- to 5-fold (161±41 ng/mL) those observed in the dialysis patients (47±9 ng/mL) and in the healthy subjects (26±1 ng/mL).
+Propranolol plasma clearance was also reduced in the patients with chronic renal failure.
+
+Chronic renal failure has been associated with a decrease in drug metabolism via down regulation of hepatic cytochrome P450 activity.
+
+Propranolol is not significantly dialyzable.
+
+Hepatic Impairment: The pharmacokinetics of propranolol after administration of INDERAL XL have not been evaluated in patients with hepatic impairment.
+However, propranolol is extensively metabolized by the liver.
+In a study conducted in 7 patients with cirrhosis and 9 healthy subjects receiving 80 mg oral propranolol every 8 hours for 7 doses, the steady-state unbound propranolol concentration in patients with cirrhosis was 3-fold that of controls.
+In cirrhosis, the half-life increased to 11 hours compared to 4 hours.
+
+## 12.7 Drug-Drug Interactions
+
+Impact of Propranolol on Other Drugs
+
+The effect of propranolol on exposure to other drugs is shown in Table 2.
+
+Table 2 Impact of propranolol on other drugs
+
+| Other drug | Effect on their exposure |
+| --- | --- |
+| Amide anesthetics (lidocaine, bupivacaine, mepivicaine) | Increased |
+| Warfarin | Increased |
+| Propafenone | Increased >200% |
+| Nifedipine | Increased 80% |
+| Verapamil | None |
+| Pravastatin, lovastatin | Decreased 20% |
+| Fluvastatin | None |
+| Zolmitriptan | Increased 60% |
+| Rizatriptan | Increased 80% |
+| Thioridazine | Increased 370% |
+| Diazepam | Increased |
+| Oxazepam, triazolam, lorazepam, alprazolam | None |
+| Theophylline | Increased 70% |
+
+Impact of Other Drugs on Propranolol
+
+The effect of propranolol on exposure to other drugs is shown in Table 3.
+
+Table 3 Impact of other drugs on exposure to propranolol
+
+| Other drug | Effect on propranolol exposure |
+| --- | --- |
+| Inhibitors of CYP2D6, CYP1A2, or CYP2C19 | Increased |
+| Inducers of CYP1A2 or CYP2C19 | Decreased |
+| Quinidine | Increased >200% |
+| Nisoldipine | Increased 50% |
+| Nicardipine | Increased 80% |
+| Chlorpromazine | Increased 70% |
+| Cimetidine | Increased 50% |
+| Cholestyramine, colestipol | Decreased 50% |
+| Alcohol | Increased |
+| Diazepam | None |
+| Verapamil | None |
+| Metochlopramide | None |
+| Ranitidine | None |
+| Lansoprazole | None |
+| Omeprazole | None |
+| Alcohol | Increase acutely or decrease chronically |
+| Propafenone | Increased 200% |
+| Quinidine | Increased 200% |
+| Cimetidine | Increased 40% |
+| Aluminum hydroxide | Decreased 50% |
+| Diazepam | None |
+| Nisoldipine, nicardipine, nifedipine | Increased 50-80% |

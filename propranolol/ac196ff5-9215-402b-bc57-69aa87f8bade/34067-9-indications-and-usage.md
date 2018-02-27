@@ -1,20 +1,18 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-The use of Metoclopramide Oral Solution is recommended for adults only.
-Therapy should not exceed 12 weeks in duration.
+INDERAL XL® is indicated for the treatment of hypertension, to lower blood pressure.
+Lowering blood pressure reduces the risk of fatal and nonfatal cardiovascular events, primarily strokes and myocardial infarctions.
+These benefits have been seen in controlled trials of antihypertensive drugs from a wide variety of pharmacologic classes, including beta-blockers.
 
-Symptomatic Gastroesophageal Reflux
+Control of high blood pressure should be part of comprehensive cardiovascular risk management, including, as appropriate, lipid control, diabetes management, antithrombotic therapy, smoking cessation, exercise, and limited sodium intake.
+Many patients will require more than one drug to achieve blood pressure goals.
+For specific advice on goals and management, see published guidelines, such as those of the National High Blood Pressure Education Program’s Joint National Committee on Prevention, Detection, Evaluation, and Treatment of High Blood Pressure (JNC).
 
-Metoclopramide Oral Solution is indicated as short-term (4 to 12 weeks) therapy for adults with symptomatic, documented gastroesophageal reflux who fail to respond to conventional therapy.
+Numerous antihypertensive drugs, from a variety of pharmacologic classes and with different mechanisms of action, have been shown in randomized controlled trials to reduce cardiovascular morbidity and mortality, and it can be concluded that it is blood pressure reduction, and not some other pharmacologic property of the drugs, that is largely responsible for those benefits.
+The largest and most consistent cardiovascular outcome benefit has been a reduction in the risk of stroke, but reductions in myocardial infarction and cardiovascular mortality also have been seen regularly.
 
-The principal effect of metoclopramide is on symptoms of postprandial and daytime heartburn with less observed effect on nocturnal symptoms.
-If symptoms are confined to particular situations, such as following the evening meal, use of metoclopramide as single doses prior to the provocative situation should be considered, rather than using the drug throughout the day.
-Healing of esophageal ulcers and erosions has been endoscopically demonstrated at the end of 12- week trial using doses of 15 mg q.i.d.
-As there is no documented correlation between symptoms and healing of esophageal lesions, patients with documented lesions should be monitored endoscopically.
+Elevated systolic or diastolic pressure causes increased cardiovascular risk, and the absolute risk increase per mm Hg is greater at higher blood pressures, so that even modest reductions of severe hypertension can provide substantial benefit.
+Relative risk reduction from blood pressure reduction is similar across populations with varying absolute risk, so the absolute benefit is greater in patients who are at higher risk independent of their hypertension (for example, patients with diabetes or hyperlipidemia), and such patients would be expected to benefit from more aggressive treatment to a lower blood pressure goal.
 
-Diabetic Gastroparesis (Diabetic Gastric Stasis)
-
-Metoclopramide is indicated for the relief of symptoms associated with acute and recurrent diabetic gastric stasis.
-The usual manifestations of delayed gastric emptying (e.g., nausea, vomiting, heartburn, persistent fullness after meals and anorexia) appear to respond to metoclopramide within different time intervals.
-Significant relief of nausea occurs early and continues to improve over a three-week period.
-Relief of vomiting and anorexia may precede the relief of abdominal fullness by one week or more.
+Some antihypertensive drugs have smaller blood pressure effects (as monotherapy) in black patients, and many antihypertensive drugs have additional approved indications and effects (e.g., on angina, heart failure, or diabetic kidney disease).
+These considerations may guide selection of therapy.

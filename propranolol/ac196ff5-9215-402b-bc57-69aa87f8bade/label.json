@@ -1,17 +1,20 @@
 {
   "application_numbers": [
-    "ANDA071402"
+    "NDA021438"
   ],
   "inn": "propranolol",
-  "labeler": "ANIP Acquisition Company",
+  "labeler": "ANI Pharmaceuticals, Inc.",
   "package_ndcs": [
-    "62559-1106-6"
+    "62559-600-30",
+    "62559-600-77",
+    "62559-601-30",
+    "62559-601-77"
   ],
   "products": [
     {
-      "form": "SOLUTION",
-      "generic": "metoclopramide hydrochloride",
-      "name": "Metoclopramide"
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "propranolol hydrochloride",
+      "name": "Inderal XL"
     }
   ],
   "setid": "ac196ff5-9215-402b-bc57-69aa87f8bade",

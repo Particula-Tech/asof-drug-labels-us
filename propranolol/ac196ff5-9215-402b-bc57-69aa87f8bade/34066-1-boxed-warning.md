@@ -1,24 +1,10 @@
-# WARNING: TARDIVE DYSKINESIA
+# WARNING: CARDIAC ISCHEMIA AFTER ABRUPT DISCONTINUATION
 
-Treatment with metoclopramide can cause tardive dyskinesia, a serious movement disorder that is often irreversible.
-The risk of developing tardive dyskinesia increases with duration of treatment and total cumulative dose.
+Following abrupt discontinuation of therapy with beta-blockers, exacerbations of angina pectoris and myocardial infarction have occurred.
 
-Metoclopramide therapy should be discontinued in patients who develop signs or symptoms of tardive dyskinesia.
-There is no known treatment for tardive dyskinesia.
-In some patients, symptoms may lessen or resolve after metoclopramide treatment is stopped.
+When discontinuing chronically administered INDERAL XL, particularly in patients with ischemic heart disease, gradually reduce the dose over a period of 1-2 weeks and monitor the patients.
+If angina markedly worsens or acute coronary insufficiency develops, promptly resume therapy, at least temporarily and take other measures appropriate for the management of unstable angina.
+Warn patients against interruption or discontinuation of therapy without physician’s advice.
 
-Treatment with metoclopramide for longer than 12 weeks should be avoided in all but rare cases where therapeutic benefit is thought to outweigh the risk of developing tardive dyskinesia.
-
-See WARNINGS
-
-Adult Pharmacokinetic Data
-
-Parameter Value
-
-Vd (L/Kg) ~ 3.5
-
-Plasma Protein Binding ~ 30%
-
-t ½ (hr) 5 to 6
-
-Oral Bioavailability 80% ± 15.5%
+Because coronary artery disease is common and may be unrecognized, avoid abrupt discontinuation of INDERAL XL therapy even in patient treated only for hypertension.
+(5.1)

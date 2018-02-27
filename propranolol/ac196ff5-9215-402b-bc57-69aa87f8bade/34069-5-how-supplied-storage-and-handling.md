@@ -1,22 +1,10 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Metoclopramide Oral Solution USP, 5 mg metoclopramide base (as the monohydrochloride monohydrate) per 5 mL (teaspoonful) is available as an orange-colored, palatable, aromatic, sugar-free and alcohol-free liquid for oral administration and is available in the following size:
+INDERAL XL (propranolol hydrochloride) Extended-Release Capsules are supplied as capsules containing either 80 mg or 120 mg propranolol hydrochloride.
+They are available follows:
 
-NDC 62559-1106-6 – bottle of 16 fl. oz.
-(473 mL)
+80 mg: A white opaque capsule, imprinted with ‘Inderal XL’, ‘80’, and 1 segmented band, is available in bottles of 30 capsules (NDC 62559-600-30) and professional samples of 7 capsules (NDC 62559-600-77).
 
-Dispense in a tight, light-resistant container.
+120 mg: A buff opaque capsule, imprinted with ‘Inderal XL’, ‘120’, and 3 segmented bands, is available in bottles of 30 capsules (NDC 62559-601-30) and professional samples of 7 capsules (NDC 62559-601-77).
 
-## RECOMMENDED STORAGE
-
-Store at controlled room temperature, between 20°C and 25°C (68° to 77°F) (see USP).
-
-Manufactured by
-
-ANI Pharmaceuticals, Inc.
-
-Baudette, MN 56623
-
-501-110616-3
-
-Rev 07/11
+Storage: Store at 25ºC (77ºF); excursions permitted to 15º and 30ºC (59º and 86ºF) [see USP Controlled Room Temperature] in a tightly closed container.

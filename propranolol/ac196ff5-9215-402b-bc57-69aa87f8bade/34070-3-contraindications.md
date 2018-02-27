@@ -1,13 +1,8 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-Metoclopramide should not be used whenever stimulation of gastrointestinal motility might be dangerous, e.g., in the presence of gastrointestinal hemorrhage, mechanical obstruction, or perforation.
+INDERAL XL is contraindicated in patients with:
 
-Metoclopramide is contraindicated in patients with pheochromocytoma because the drug may cause a hypertensive crisis, probably due to release of catecholamines from the tumor.
-Such hypertensive crises may be controlled by phentolamine.
-
-Metoclopramide is contraindicated in patients with pheochromocytoma because the drug may cause a hypertensive crisis, probably due to release of catecholamines from the tumor.
-Such hypertensive crises may be controlled by phentolamine.
-
-Metoclopramide is contraindicated in patients with known sensitivity or intolerance to the drug.
-
-Metoclopramide should not be used in epileptics or patients receiving other drugs, which are likely to cause extrapyramidal reactions, since the frequency and severity of seizures or extrapyramidal reactions may be increased.
+- •Cardiogenic shock or decompensated heart failure
+- •Sinus bradycardia, sick sinus syndrome, and greater than first-degree block unless a permanent pacemaker is in place
+- •Bronchial asthma
+- •Known hypersensitivity (e.g., anaphylactic reaction) to propranolol hydrochloride or any of the components of INDERAL XL

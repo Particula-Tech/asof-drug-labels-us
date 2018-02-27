@@ -1,17 +1,17 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
-Symptoms of overdosage may include drowsiness, disorientation and extrapyramidal reactions.
-Anticholinergic or antiparkinson drugs or antihistamines with anticholinergic properties may be helpful in controlling the extrapyramidal reactions.
-Symptoms are self-limiting and usually disappear within 24 hours.
+Most overdoses of propranolol are mild and respond to supportive care.
 
-Hemodialysis removes relatively little metoclopramide, probably because of the small amount of the drug in blood relative to tissues.
-Similarly, continuous ambulatory peritoneal dialysis does not remove significant amounts of drug.
-It is unlikely that dosage would need to be adjusted to compensate for losses through dialysis.
-Dialysis is not likely to be an effective method of drug removal in overdose situations.
+Propranolol is not significantly dialyzable.
 
-Unintentional overdose due to misadministration has been reported in infants and children with the use of metoclopramide oral solution.
-While there was no consistent pattern to the reports associated with these overdoses, events included seizures, extrapyramidal reactions, and lethargy.
+Hypotension and bradycardia have been reported following propranolol overdose and should be treated appropriately.
+Glucagon can exert potent inotropic and chronotropic effects and may be particularly useful for the treatment of hypotension or depressed myocardial function after a propranolol overdose.
 
-Methemoglobinemia has occurred in premature and full-term neonates who were given overdoses of metoclopramide (1 to 4 mg/kg/day orally, intramuscularly or intravenously for 1 to 3 or more days).
-Methemoglobinemia can be reversed by the intravenous administration of methylene blue.
-However, methylene blue may cause hemolytic anemia in patients with G6PD deficiency, which may be fatal (see PRECAUTIONS- Other Special Populations).
+Glucagon should be administered as 50-150 mcg/kg intravenously followed by continuous drip of 1-5 mg/hour for positive chronotropic effect.
+Isoproterenol, dopamine or phosphodiesterase inhibitors may also be useful.
+Epinephrine, however, may provoke uncontrolled hypertension.
+Bradycardia can be treated with atropine or isoproterenol.
+Serious bradycardia may require temporary cardiac pacing.
+
+Monitor the electrocardiogram, pulse, blood pressure, neurobehavioral status and intake and output balance.
+Isoproterenol and aminophylline may be used for bronchospasm.
