@@ -61,13 +61,13 @@ Gabapentin elimination half-life averaged 4.7 hours and was similar across the a
 
 A population pharmacokinetic analysis was performed in 253 pediatric subjects between 1 month and 13 years of age.
 Patients received 10 to 65 mg/kg/day given three times a day.
-Apparent oral clearance (CL/F) was directly proportional to creatinine clearance and this relationship was similar following a single dose and at steady state.
+Apparent oral clearance (CL/F) was directly proportional to creatinine clearance and this relationship was similar following a single dose and at steady-state.
 Higher oral clearance values were observed in children <5 years of age compared to those observed in children 5 years of age and older, when normalized per body weight.
 The clearance was highly variable in infants <1 year of age.
 The normalized CL/F values observed in pediatric patients 5 years of age and older were consistent with values observed in adults after a single dose.
 The oral volume of distribution normalized per body weight was constant across the age range.
 
-These pharmacokinetic data indicate that the effective daily dose in pediatric patients with epilepsy ages 3 and 4 years should be 40 mg/kg/day to achieve average plasma concentrations similar to those achieved in patients 5 years of age and older receiving gabapentin at 30 mg/kg/day [see Dosage and Administration (2.1)].
+These pharmacokinetic data indicate that the effective daily dose in pediatric patients with epilepsy ages 3 and 4 years should be 40 mg/kg/day to achieve average plasma concentrations similar to those achieved in patients 5 years of age and older receiving gabapentin at 30 mg/kg/day [see Dosage and Administration (2.2)].
 
 Adult Patients with Renal Impairment
 
@@ -88,7 +88,7 @@ Because gabapentin is not metabolized, no study was performed in patients with h
 Drug Interactions
 
 - In Vitro Studies In vitro studies were conducted to investigate the potential of gabapentin to inhibit the major cytochrome P450 enzymes (CYP1A2, CYP2A6, CYP2C9, CYP2C19, CYP2D6, CYP2E1, and CYP3A4) that mediate drug and xenobiotic metabolism using isoform selective marker substrates and human liver microsomal preparations.
-  Only at the highest concentration tested (171 mcg/mL; 1 mM) was a slight degree of inhibition (14%–30%) of isoform CYP2A6 observed.
+  Only at the highest concentration tested (171 mcg/mL; 1 mM) was a slight degree of inhibition (14% to 30%) of isoform CYP2A6 observed.
   No inhibition of any of the other isoforms tested was observed at gabapentin concentrations up to 171 mcg/mL (approximately 15 times the Cmax at 3600 mg/day).
 
 - In Vivo Studies The drug interaction data described in this section were obtained from studies involving healthy adults and adult patients with epilepsy.
@@ -132,7 +132,7 @@ Drug Interactions
 
 - Cimetidine
 
-- In the presence of cimetidine at 300 mg QID (N=12), the mean apparent oral clearance of gabapentin fell by 14% and creatinine clearance fell by 10%.
+- In the presence of cimetidine at 300 mg four times a day (N=12), the mean apparent oral clearance of gabapentin fell by 14% and creatinine clearance fell by 10%.
   Thus, cimetidine appeared to alter the renal excretion of both gabapentin and creatinine, an endogenous marker of renal function.
   This small decrease in excretion of gabapentin by cimetidine is not expected to be of clinical importance.
   The effect of gabapentin on cimetidine was not evaluated.

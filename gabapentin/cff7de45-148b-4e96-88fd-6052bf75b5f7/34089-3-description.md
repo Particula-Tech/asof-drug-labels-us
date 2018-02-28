@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-The active ingredient in gabapentin capsules, tablets, and oral solution is gabapentin,which has the chemical name 1-(aminomethyl)cyclohexaneacetic acid.
+The active ingredient in gabapentin capsules, tablets, and oral solution is gabapentin, which has the chemical name 1-(aminomethyl)cyclohexaneacetic acid.
 
 The molecular formula of gabapentin is C9H17NO2 and the molecular weight is 171.24.
 The structural formula of gabapentin is:
