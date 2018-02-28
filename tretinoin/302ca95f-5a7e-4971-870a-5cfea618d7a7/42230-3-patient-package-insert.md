@@ -27,7 +27,7 @@ However, investigations in this area are continuing.
 Use caution in the sun: When outside, even on hazy days, areas treated with AVITA® Cream should be protected.
 An effective sunscreen should be used any time you are outside (consult your physician for a recommendation of an SPF level which will provide you with the necessary high level of protection).
 For extended sun exposure, protective clothing, like a hat, should be worn.
-Do not use artificial sunlamps, or artificial sunlight while you are using AVITA® (tretinoin cream) Cream, 0.025%.
+Do not use artificial sunlamps or artificial sunlight while you are using AVITA® (tretinoin cream) Cream, 0.025%.
 If you do become sunburned, stop your therapy with AVITA® Cream until your skin has recovered.
 
 Avoid excessive exposure to wind or cold: Extremes of climate tend to dry or burn normal skin.
@@ -61,7 +61,7 @@ Pat skin dry with a towel.
 Let the face dry 20 to 30 minutes before applying AVITA® (tretinoin cream) Cream, 0.025%.
 Remember, excessive irritation such as rubbing, too much washing, use of other medications not suggested by your physician, etc., may worsen your acne.
 
-HOW TO USE AVITA® (TRETINOIN) CREAM
+HOW TO USE AVITA® (tretinoin) CREAM
 
 To get the best results with AVITA® Cream therapy, it is necessary to use it properly.
 Forget about the instructions given for other products and the advice of friends.
@@ -111,6 +111,8 @@ Once your acne is under control, you should continue regular application of AVIT
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Revised November 2013 Printed in U.S.A 023.5PL Patent #: 5,650,171
+Revised: 11/2017 023.6PL
+
+Printed in U.S.A.

@@ -14,6 +14,6 @@ Keep this and all medications out of the reach of children.
 
 Rx Only
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Revised November 2013 023.5 Patent #: 5,650,171
+Revised: 11/2017 023.6 AVITACR:R6

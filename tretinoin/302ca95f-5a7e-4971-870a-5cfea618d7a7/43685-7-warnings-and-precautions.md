@@ -3,7 +3,7 @@
 ## General
 
 If a reaction suggesting sensitivity or chemical irritation occurs, use of the medication should be discontinued.
-Exposure to sunlight, including sunlamps, or artificial sunlight should be minimized during the use of AVITA® Cream, and patients with sunburn should be advised not to use the product until fully recovered because of heightened susceptibility to sunlight as a result of the use of tretinoin.
+Exposure to sunlight, including sunlamps, or artificial sunlight, should be minimized during the use of AVITA® Cream, and patients with sunburn should be advised not to use the product until fully recovered because of heightened susceptibility to sunlight as a result of the use of tretinoin.
 Patients who may be required to have considerable sun exposure due to occupation and those with inherent sensitivity to the sun should exercise particular caution.
 Use of sunscreen products and protective clothing over treated areas is recommended when exposure cannot be avoided.
 Weather extremes, such as wind or cold, also may be irritating to patients under treatment with tretinoin.
