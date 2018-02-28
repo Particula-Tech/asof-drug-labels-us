@@ -1,17 +1,10 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-## 17.1 Low Blood Cell Counts
-
-Patients should be adequately informed of the risk of low blood cell counts and instructed to immediately contact their physician should any sign of infection develop including fever.
-Patients should also contact their physician if bleeding or symptoms of anemia occur [see Warnings and Precautions (5.2)].
-
-## 17.2 Pregnancy
-
-There are no adequate and well-controlled studies of gemcitabine in pregnant women.
-Based on animal studies gemcitabine can cause fetal harm when administered to a pregnant woman.
-If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the risks to the fetus need to be discussed with their physician [see Warnings and Precautions (5.6) and Use in Specific Populations (8.1)].
-
-## 17.3 Nursing Mothers
-
-It is not known whether this drug is excreted in human milk.
-Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from gemcitabine, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother [see Use in Specific Populations (8.3)].
+- Advise patients of the risk of low blood cell counts and the potential need for blood transfusions and increased susceptibility to infections.
+  Instruct patients to immediately contact their healthcare provider for development of signs or symptoms of infection, fever, prolonged or unexpected bleeding, bruising, or shortness of breath [see Warnings and Precautions (5.2)].
+- Advise patients of the risks of pulmonary toxicity including respiratory failure and death.
+  Instruct patients to immediately contact their healthcare provider for development of shortness of breath, wheezing, or cough [see Warnings and Precautions (5.3)].
+- Advise patients of the risks of hemolytic-uremic syndrome and associated renal failure.
+  Instruct patients to immediately contact their healthcare provider for changes in the color or volume of urine output or for increased bruising or bleeding [see Warnings and Precautions (5.4)].
+- Advise patients of the risks of hepatic toxicity including liver failure and death.
+  Instruct patients to immediately contact their healthcare provider for signs of jaundice or for pain/tenderness in the right upper abdominal quadrant [see Warnings and Precautions (5.5)].
