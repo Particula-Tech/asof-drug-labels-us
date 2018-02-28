@@ -22,11 +22,11 @@ The recommended dose of OPDIVO is 240 mg administered as an intravenous infusion
 
 ## 2.5 Recommended Dosage for cHL
 
-The recommended dose of OPDIVO is 3 mg/kg administered as an intravenous infusion over 30 minutes every 2 weeks until disease progression or unacceptable toxicity.
+The recommended dose of OPDIVO is 240 mg administered as an intravenous infusion over 30 minutes every 2 weeks until disease progression or unacceptable toxicity.
 
 ## 2.6 Recommended Dosage for SCCHN
 
-The recommended dose of OPDIVO is 3 mg/kg administered as an intravenous infusion over 30 minutes every 2 weeks until disease progression or unacceptable toxicity.
+The recommended dose of OPDIVO is 240 mg administered as an intravenous infusion over 30 minutes every 2 weeks until disease progression or unacceptable toxicity.
 
 ## 2.7 Recommended Dosage for Urothelial Carcinoma
 

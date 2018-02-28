@@ -10,10 +10,6 @@ In syngeneic mouse tumor models, blocking PD-1 activity resulted in decreased tu
 Combined nivolumab (anti-PD-1) and ipilimumab (anti-CTLA-4) mediated inhibition results in enhanced T-cell function that is greater than the effects of either antibody alone, and results in improved anti-tumor responses in metastatic melanoma.
 In murine syngeneic tumor models, dual blockade of PD-1 and CTLA-4 resulted in increased anti-tumor activity.
 
-## 12.2 Pharmacodynamics
-
-Based on dose/exposure efficacy and safety relationships, there are no clinically significant differences in safety and efficacy between a nivolumab dose of 240 mg or 3 mg/kg every 2 weeks in patients with melanoma, NSCLC, RCC, urothelial carcinoma, MSI-H CRC, and HCC.
-
 ## 12.3 Pharmacokinetics
 
 Nivolumab pharmacokinetics (PK) was assessed using a population PK approach for both single-agent OPDIVO and OPDIVO with ipilimumab.
