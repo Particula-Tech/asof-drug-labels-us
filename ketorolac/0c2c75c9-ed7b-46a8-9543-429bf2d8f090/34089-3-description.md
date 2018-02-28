@@ -10,7 +10,7 @@ Ketorolac tromethamine has a pKa of 3.5 and an n-octanol/water partition coeffic
 The molecular weight of ketorolac tromethamine is 376.41.
 Its molecular formula is C19H24N2O6.
 
-Ketorolac tromethamine is available for intravenous (IV) or intramuscular (IM) administration as: 30 mg in 1 mL (3%) in sterile solution; 60 mg in 2 mL (3%) of ketorolac tromethamine in sterile solution is available for intramuscular administration only.
+Ketorolac tromethamine is available for intravenous (IV) or intramuscular (IM) administration as: 15 mg in 1 mL (1.5%) and 30 mg in 1 mL (3%) in sterile solution; 60 mg in 2 mL (3%) of ketorolac tromethamine in sterile solution is available for intramuscular administration only.
 The solutions contain 0.1% citric acid, 10% (w/v) alcohol, USP, and 6.68 mg, 4.35 mg and 8.70 mg, respectively, of sodium chloride in sterile water.
 The pH is adjusted with sodium hydroxide or hydrochloric acid, and the solutions are packaged with nitrogen.
 The sterile solutions are clear and slightly yellow in color.

@@ -4,6 +4,8 @@ Ketorolac Tromethamine Injection, USP is available as follows:
 
 For IV or IM Single Dose use:
 
+NDC 0641-6041-25, 2 mL vials containing 1 mL of 15 mg/mL Ketorolac Tromethamine, USP, available in boxes of 25.
+
 NDC 0641-6042-25, 2 mL vials containing 1 mL of 30 mg/mL Ketorolac Tromethamine, USP, available in boxes of 25.
 
 For IM Single Dose use only:

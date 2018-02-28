@@ -125,7 +125,11 @@ It may harm them.
 If you would like more information about NSAIDs, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about NSAIDs that is written for health professionals.
 
-Manufactured by: West-Ward Pharmaceuticals Corp.
+Manufactured by:
+
+WEST-WARD
+
+A HIKMA COMPANY
 
 Eatontown, NJ 07724 USA
 
@@ -133,4 +137,4 @@ For Product Inquiry call 1-877-845-0689
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised September 2017 462-103-04
+Revised November 2017 462-103-05
