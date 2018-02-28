@@ -123,11 +123,10 @@ The detection of antibody formation is highly dependent on the sensitivity and s
 Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors, including assay methodology, sample handling, timing of sample collection, concomitant medications and underlying disease.
 For these reasons, comparison of the incidence of antibodies to ustekinumab in the studies described below with the incidence of antibodies to other products may be misleading.
 
-Approximately 6% of subjects treated with STELARA® in psoriasis and psoriatic arthritis clinical studies developed antibodies to ustekinumab, which were generally low-titer.
+Approximately 6–12.4% of subjects treated with STELARA® in psoriasis and psoriatic arthritis clinical studies developed antibodies to ustekinumab, which were generally low-titer.
 In Crohn's disease clinical studies, less than 3% of patients treated with STELARA® developed antibodies to ustekinumab.
-In psoriasis clinical studies, antibodies to ustekinumab were associated with reduced serum ustekinumab concentrations and reduced efficacy.
+In psoriasis clinical studies, antibodies to ustekinumab were associated with reduced or undetectable serum ustekinumab concentrations and reduced efficacy.
 No apparent association between the development of antibodies to ustekinumab and the development of injection site reactions was seen.
-No ustekinumab-related serious hypersensitivity reactions were observed in psoriasis, psoriatic arthritis and Crohn's disease clinical studies.
 In psoriasis studies, the majority of patients who were positive for antibodies to ustekinumab had neutralizing antibodies.
 
 ## 6.3 Postmarketing Experience

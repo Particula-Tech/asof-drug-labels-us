@@ -20,6 +20,7 @@ In adult subjects with psoriasis, the median time to reach the maximum serum con
 In healthy subjects (N=30), the median Tmax value (8.5 days) following a single subcutaneous administration of 90 mg of ustekinumab was comparable to that observed in subjects with psoriasis.
 
 Following multiple subcutaneous doses of STELARA® in adult subjects with psoriasis, steady-state serum concentrations of ustekinumab were achieved by Week 28.
+The mean (±SD) steady-state trough serum ustekinumab concentrations were 0.69 ± 0.69 mcg/mL for patients less than or equal to 100 kg receiving a 45 mg dose and 0.74 ± 0.78 mcg/mL for patients greater than 100 kg receiving a 90 mg dose.
 There was no apparent accumulation in serum ustekinumab concentration over time when given subcutaneously every 12 weeks.
 
 In patients with Crohn's disease, following the recommended intravenous induction dose, mean ±SD peak serum ustekinumab concentration was 125.2 ± 33.6 mcg/mL.

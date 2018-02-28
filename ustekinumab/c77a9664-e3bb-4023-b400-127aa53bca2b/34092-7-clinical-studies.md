@@ -77,7 +77,7 @@ The efficacy results at Week 12 for Ps STUDY 3 are presented in Table 9.
 
 Table 9: Summary of Efficacy Endpoints in the Adolescent Psoriasis Study at Week 12
 
-|  | Placebo n (%) | STELARA®Using the weight-based dosage regimen specified in Table 1and Table 2. n (%) |
+|  | Placebo n (%) | STELARA®Using the weight-based dosage regimen specified in Table 1 and Table 2. n (%) |
 | --- | --- | --- |
 |  | Ps STUDY 3 |  |
 | N | 37 | 36 |
