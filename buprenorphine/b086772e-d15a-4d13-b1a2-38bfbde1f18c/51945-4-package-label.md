@@ -35,4 +35,4 @@ For Intramuscular or Intravenous Use
 Protect from light Mfd. by Reckitt Benckiser,
 
 Hull, England HU8 7DS.
-RB125447
+3001049
