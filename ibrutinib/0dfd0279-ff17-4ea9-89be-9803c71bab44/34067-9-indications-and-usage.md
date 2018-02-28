@@ -9,15 +9,15 @@ Continued approval for this indication may be contingent upon verification and d
 
 ## 1.2 Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma
 
-IMBRUVICA is indicated for the treatment of adult patients with chronic lymphocytic leukemia (CLL)/small lymphocytic lymphoma (SLL) [see Clinical Studies (14.2)].
+IMBRUVICA is indicated for the treatment of adult patients with chronic lymphocytic leukemia (CLL)/small lymphocytic lymphoma (SLL).
 
 ## 1.3 Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma with 17p deletion
 
-IMBRUVICA is indicated for the treatment of adult patients with chronic lymphocytic leukemia (CLL)/small lymphocytic lymphoma (SLL) with 17p deletion [see Clinical Studies (14.2)].
+IMBRUVICA is indicated for the treatment of adult patients with chronic lymphocytic leukemia (CLL)/small lymphocytic lymphoma (SLL) with 17p deletion.
 
 ## 1.4 Waldenström's Macroglobulinemia
 
-IMBRUVICA is indicated for the treatment of adult patients with Waldenström's macroglobulinemia (WM) [see Clinical Studies (14.3)].
+IMBRUVICA is indicated for the treatment of adult patients with Waldenström’s macroglobulinemia (WM).
 
 ## 1.5 Marginal Zone Lymphoma
 
@@ -28,4 +28,4 @@ Continued approval for this indication may be contingent upon verification and d
 
 ## 1.6 Chronic Graft versus Host Disease
 
-IMBRUVICA is indicated for the treatment of adult patients with chronic graft-versus-host disease (cGVHD) after failure of one or more lines of systemic therapy [see Clinical Studies (14.5)]
+IMBRUVICA is indicated for the treatment of adult patients with chronic graft-versus-host disease (cGVHD) after failure of one or more lines of systemic therapy.

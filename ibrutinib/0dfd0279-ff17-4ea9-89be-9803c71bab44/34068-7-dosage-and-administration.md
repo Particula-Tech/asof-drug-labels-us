@@ -3,31 +3,32 @@
 ## 2.1 Dosing Guidelines
 
 Administer IMBRUVICA orally once daily at approximately the same time each day.
-Swallow the capsules whole with water.
+The dose should be taken orally with a glass of water.
 Do not open, break, or chew the capsules.
+Do not cut, crush, or chew the tablets.
 
 ## 2.2 Recommended Dosage
 
 Mantle Cell Lymphoma and Marginal Zone Lymphoma
 
-The recommended dose of IMBRUVICA for MCL and MZL is 560 mg (four 140 mg capsules) orally once daily until disease progression or unacceptable toxicity.
+The recommended dose of IMBRUVICA for MCL and MZL is 560 mg orally once daily until disease progression or unacceptable toxicity.
 
 Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma and Waldenström's Macroglobulinemia
 
-The recommended dose of IMBRUVICA for CLL/SLL and WM is 420 mg (three 140 mg capsules) orally once daily until disease progression or unacceptable toxicity.
+The recommended dose of IMBRUVICA for CLL/SLL and WM is 420 mg orally once daily until disease progression or unacceptable toxicity.
 
-The recommended dose of IMBRUVICA for CLL/SLL when used in combination with bendamustine and rituximab (administered every 28 days for up to 6 cycles) is 420 mg (three 140 mg capsules) orally once daily until disease progression or unacceptable toxicity.
+The recommended dose of IMBRUVICA for CLL/SLL when used in combination with bendamustine and rituximab (administered every 28 days for up to 6 cycles) is 420 mg orally once daily until disease progression or unacceptable toxicity.
 
 Chronic Graft versus Host Disease
 
-The recommended dose of IMBRUVICA for cGVHD is 420 mg (three 140 mg capsules) orally once daily until cGVHD progression, recurrence of an underlying malignancy, or unacceptable toxicity.
+The recommended dose of IMBRUVICA for cGVHD is 420 mg orally once daily until cGVHD progression, recurrence of an underlying malignancy, or unacceptable toxicity.
 When a patient no longer requires therapy for the treatment of cGVHD, IMBRUVICA should be discontinued considering the medical assessment of the individual patient.
 
 ## 2.3 Dose Modifications for Adverse Reactions
 
 Interrupt IMBRUVICA therapy for any Grade 3 or greater non-hematological toxicities, Grade 3 or greater neutropenia with infection or fever, or Grade 4 hematological toxicities.
 Once the symptoms of the toxicity have resolved to Grade 1 or baseline (recovery), IMBRUVICA therapy may be reinitiated at the starting dose.
-If the toxicity reoccurs, reduce dose by one capsule (140 mg per day).
+If the toxicity reoccurs, reduce dose by 140 mg per day.
 A second reduction of dose by 140 mg may be considered as needed.
 If these toxicities persist or recur following two dose reductions, discontinue IMBRUVICA.
 
@@ -67,4 +68,4 @@ Avoid the use of IMBRUVICA in patients with severe hepatic impairment (Child-Pug
 ## 2.6 Missed Dose
 
 If a dose of IMBRUVICA is not taken at the scheduled time, it can be taken as soon as possible on the same day with a return to the normal schedule the following day.
-Extra capsules of IMBRUVICA should not be taken to make up for the missed dose.
+Extra doses of IMBRUVICA should not be taken to make up for the missed dose.

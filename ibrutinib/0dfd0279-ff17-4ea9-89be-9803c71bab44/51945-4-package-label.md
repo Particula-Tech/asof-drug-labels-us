@@ -69,3 +69,219 @@ Rx Only
 Pharmacyclics LLC An AbbVie Company
 
 Janssen Biotech, Inc.
+
+# PRINCIPAL DISPLAY PANEL - 28 Tablet Blister Carton
+
+NDC 57962-014-28
+
+Imbruvica® (ibrutinib) tablets
+
+140 mg
+
+Each table contains: ibrutinib 140 mg Swallow tablet whole with water
+
+28 Tablets
+
+Rx Only
+
+Pharmacyclics LLC An AbbVie Company
+
+Janssen Biotech, Inc.
+
+# PRINCIPAL DISPLAY PANEL - 28 Tablet Blister Strip (Front)
+
+NDC 57962-014-28
+
+Imbruvica® (ibrutinib) tablets
+
+140 mg
+
+Each table contains: ibrutinib 140 mg Swallow tablet whole with water
+
+28 Tablets
+
+Rx Only
+
+Pharmacyclics LLC An AbbVie Company
+
+Janssen Biotech, Inc.
+
+# PRINCIPAL DISPLAY PANEL - 28 Tablet Blister Strip (Back)
+
+NDC 57962-014-28
+
+Imbruvica® (ibrutinib) tablets
+
+140 mg
+
+Each table contains: ibrutinib 140 mg Swallow tablet whole with water
+
+28 Tablets
+
+Rx Only
+
+Pharmacyclics LLC An AbbVie Company
+
+Janssen Biotech, Inc.
+
+# PRINCIPAL DISPLAY PANEL - 28 Tablet Blister Carton
+
+NDC 57962-280-28
+
+Imbruvica® (ibrutinib) tablets
+
+280 mg
+
+Each table contains: ibrutinib 280 mg Swallow tablet whole with water
+
+28 Tablets
+
+Rx Only
+
+Pharmacyclics LLC An AbbVie Company
+
+Janssen Biotech, Inc.
+
+# PRINCIPAL DISPLAY PANEL - 28 Tablet Blister Strip (Front)
+
+NDC 57962-280-28
+
+Imbruvica® (ibrutinib) tablets
+
+280 mg
+
+Each table contains: ibrutinib 280 mg Swallow tablet whole with water
+
+28 Tablets
+
+Rx Only
+
+Pharmacyclics LLC An AbbVie Company
+
+Janssen Biotech, Inc.
+
+# PRINCIPAL DISPLAY PANEL - 28 Tablet Blister Strip (Back)
+
+NDC 57962-280-28
+
+Imbruvica® (ibrutinib) tablets
+
+280 mg
+
+Each table contains: ibrutinib 280 mg Swallow tablet whole with water
+
+28 Tablets
+
+Rx Only
+
+Pharmacyclics LLC An AbbVie Company
+
+Janssen Biotech, Inc.
+
+# PRINCIPAL DISPLAY PANEL - 28 Tablet Blister Carton
+
+NDC 57962-420-28
+
+Imbruvica® (ibrutinib) tablets
+
+420 mg
+
+Each table contains: ibrutinib 420 mg Swallow tablet whole with water
+
+28 Tablets
+
+Rx Only
+
+Pharmacyclics LLC An AbbVie Company
+
+Janssen Biotech, Inc.
+
+# PRINCIPAL DISPLAY PANEL - 28 Tablet Blister Strip (Front)
+
+NDC 57962-420-28
+
+Imbruvica® (ibrutinib) tablets
+
+420 mg
+
+Each table contains: ibrutinib 420 mg Swallow tablet whole with water
+
+28 Tablets
+
+Rx Only
+
+Pharmacyclics LLC An AbbVie Company
+
+Janssen Biotech, Inc.
+
+# PRINCIPAL DISPLAY PANEL - 28 Tablet Blister Strip (Back)
+
+NDC 57962-420-28
+
+Imbruvica® (ibrutinib) tablets
+
+420 mg
+
+Each table contains: ibrutinib 420 mg Swallow tablet whole with water
+
+28 Tablets
+
+Rx Only
+
+Pharmacyclics LLC An AbbVie Company
+
+Janssen Biotech, Inc.
+
+# PRINCIPAL DISPLAY PANEL - 28 Tablet Blister Carton
+
+NDC 57962-560-28
+
+Imbruvica® (ibrutinib) tablets
+
+560 mg
+
+Each table contains: ibrutinib 560 mg Swallow tablet whole with water
+
+28 Tablets
+
+Rx Only
+
+Pharmacyclics LLC An AbbVie Company
+
+Janssen Biotech, Inc.
+
+# PRINCIPAL DISPLAY PANEL - 28 Tablet Blister Strip (Front)
+
+NDC 57962-560-28
+
+Imbruvica® (ibrutinib) tablets
+
+560 mg
+
+Each table contains: ibrutinib 560 mg Swallow tablet whole with water
+
+28 Tablets
+
+Rx Only
+
+Pharmacyclics LLC An AbbVie Company
+
+Janssen Biotech, Inc.
+
+# PRINCIPAL DISPLAY PANEL - 28 Tablet Blister Strip (Back)
+
+NDC 57962-560-28
+
+Imbruvica® (ibrutinib) tablets
+
+560 mg
+
+Each table contains: ibrutinib 560 mg Swallow tablet whole with water
+
+28 Tablets
+
+Rx Only
+
+Pharmacyclics LLC An AbbVie Company
+
+Janssen Biotech, Inc.

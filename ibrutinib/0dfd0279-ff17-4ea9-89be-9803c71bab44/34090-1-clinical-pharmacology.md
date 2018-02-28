@@ -12,12 +12,14 @@ Nonclinical studies show that ibrutinib inhibits malignant B-cell proliferation 
 
 In patients with recurrent B-cell lymphoma > 90% occupancy of the BTK active site in peripheral blood mononuclear cells was observed up to 24 hours after ibrutinib doses of ≥ 2.5 mg/kg/day (≥ 175 mg/day for average weight of 70 kg).
 
-At a single dose 3 times the maximum recommended dose (1680 mg), IMBRUVICA did not prolong the QT interval to any clinically relevant extent.
-
 In vitro Platelet Aggregation
 
 Ibrutinib demonstrated inhibition of collagen-induced platelet aggregation, with IC50 values at 4.6 μM (2026 ng/mL), 0.8 μM (352 ng/mL), and 3 μM (1321 ng/mL) in blood samples from healthy donors, donors taking warfarin, and donors with severe renal dysfunction, respectively.
 Ibrutinib did not show meaningful inhibition of platelet aggregation for ADP, arachidonic acid, ristocetin, and TRAP-6.
+
+Cardiac Electrophysiology
+
+At a single dose 3 times the maximum recommended dose (1680 mg), IMBRUVICA did not prolong the QT interval to any clinically relevant extent.
 
 ## 12.3 Pharmacokinetics
 

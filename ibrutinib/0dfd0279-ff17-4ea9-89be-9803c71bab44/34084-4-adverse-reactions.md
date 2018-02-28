@@ -167,7 +167,7 @@ Table 5: Adverse Reactions Reported in ≥ 10% of Patients and at Least 2% Great
 | Petechiae | 14 | 0 | 1 | 0 |
 | Bruising | 12 | 0 | 1 | 0 |
 | Musculoskeletal and connective tissue disorders |  |  |  |  |
-| Musculoskeletal Pain | 28 | 2 | 18 | 1 |
+| Musculoskeletal pain | 28 | 2 | 18 | 1 |
 | Arthralgia | 17 | 1 | 7 | 0 |
 | Nervous system disorders |  |  |  |  |
 | Headache | 14 | 1 | 6 | 0 |
@@ -204,7 +204,7 @@ Table 7: Adverse Reactions Reported in ≥ 10% of Patients and at Least 2% Great
 | Musculoskeletal pain | 36 | 4 | 20 | 0 |
 | Arthralgia | 16 | 1 | 7 | 1 |
 | Muscle spasms | 11 | 0 | 5 | 0 |
-| Eye Disorders |  |  |  |  |
+| Eye disorders |  |  |  |  |
 | Dry eye | 17 | 0 | 5 | 0 |
 | Lacrimation increased | 13 | 0 | 6 | 0 |
 | Vision blurred | 13 | 0 | 8 | 0 |
@@ -221,9 +221,9 @@ Table 7: Adverse Reactions Reported in ≥ 10% of Patients and at Least 2% Great
 | General disorders and administration site conditions |  |  |  |  |
 | Peripheral edema | 19 | 1 | 9 | 0 |
 | Pyrexia | 17 | 0 | 14 | 2 |
-| Vascular Disorders |  |  |  |  |
+| Vascular disorders |  |  |  |  |
 | Hypertension | 14 | 4 | 1 | 0 |
-| Nervous System Disorders |  |  |  |  |
+| Nervous system disorders |  |  |  |  |
 | Headache | 12 | 1 | 10 | 2 |
 | Subjects with multiple events for a given ADR term are counted once only for each ADR term. The body system and individual ADR terms are sorted in descending frequency order in the IMBRUVICA arm. |  |  |  |  |
 
@@ -244,13 +244,13 @@ Table 8: Adverse Reactions Reported in at Least 10% of Patients and at Least 2% 
 | Bruising | 20 | <1 | 8 | <1 |
 | Gastrointestinal disorders |  |  |  |  |
 | Diarrhea | 36 | 2 | 23 | 1 |
-| Abdominal Pain | 12 | 1 | 8 | <1 |
+| Abdominal pain | 12 | 1 | 8 | <1 |
 | Musculoskeletal and connective tissue disorders |  |  |  |  |
 | Musculoskeletal pain | 29 | 2 | 20 | 0 |
 | Muscle spasms | 12 | <1 | 5 | 0 |
 | General disorders and administration site conditions |  |  |  |  |
 | Pyrexia | 25 | 4 | 22 | 2 |
-| Vascular Disorders |  |  |  |  |
+| Vascular disorders |  |  |  |  |
 | Hemorrhage | 19 | 2 | 9 | 1 |
 | Hypertension | 11 | 5 | 5 | 2 |
 | Infections and infestations |  |  |  |  |
@@ -325,7 +325,7 @@ Table 11: Non-Hematologic Adverse Reactions in ≥ 10% in Patients with MZL in S
 | StomatitisIncludes multiple ADR terms. | 17 | 2 |  |  |  |
 | Abdominal pain | 16 | 2 |  |  |  |
 | Constipation | 14 | 0 |  |  |  |
-| Abdominal pain Upper | 13 | 0 |  |  |  |
+| Abdominal pain upper | 13 | 0 |  |  |  |
 | Vomiting | 11 | 2 |  |  |  |
 | General disorders and administrative site conditions | Fatigue | 44 | 6 |  |  |
 | Peripheral edema | 24 | 2 |  |  |  |
@@ -344,7 +344,7 @@ Table 11: Non-Hematologic Adverse Reactions in ≥ 10% in Patients with MZL in S
 | Hyperuricemia | 16 | 0 |  |  |  |
 | Hypoalbuminemia | 14 | 0 |  |  |  |
 | Hypokalemia | 13 | 0 |  |  |  |
-| Vascular Disorders | Hemorrhage | 30 | 0 |  |  |
+| Vascular disorders | Hemorrhage | 30 | 0 |  |  |
 | Hypertension | 14 | 5 |  |  |  |
 | Respiratory, thoracic and mediastinal disorders | Cough | 22 | 2 |  |  |
 | Dyspnea | 21 | 2 |  |  |  |
@@ -438,14 +438,9 @@ The median time from onset to resolution or improvement was 29 days (range, 1 to
 The following adverse reactions have been identified during post-approval use of IMBRUVICA.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Hepatobiliary disorders: hepatic failure
-
-Respiratory disorders: interstitial lung disease
-
-Metabolic and nutrition disorders: tumor lysis syndrome [see Warnings & Precautions (5.7)]
-
-Immune system disorders: anaphylactic shock, angioedema, urticaria
-
-Skin and subcutaneous tissue disorders: Stevens-Johnson Syndrome (SJS), onychoclasis
-
-Infections: hepatitis B reactivation
+- Hepatobiliary disorders: hepatic failure
+- Respiratory disorders: interstitial lung disease
+- Metabolic and nutrition disorders: tumor lysis syndrome [see Warnings & Precautions (5.7)]
+- Immune system disorders: anaphylactic shock, angioedema, urticaria
+- Skin and subcutaneous tissue disorders: Stevens-Johnson Syndrome (SJS), onychoclasis
+- Infections: hepatitis B reactivation

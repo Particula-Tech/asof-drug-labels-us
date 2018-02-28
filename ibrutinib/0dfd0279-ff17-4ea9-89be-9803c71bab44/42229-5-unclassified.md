@@ -4,4 +4,4 @@ Distributed and Marketed by: Pharmacyclics LLC Sunnyvale, CA USA 94085 and Marke
 
 Patent http://www.imbruvica.com IMBRUVICA® is a registered trademark owned by Pharmacyclics LLC
 
-© Pharmacyclics LLC 2017 © Janssen Biotech, Inc. 2017
+© Pharmacyclics LLC 2018 © Janssen Biotech, Inc. 2018

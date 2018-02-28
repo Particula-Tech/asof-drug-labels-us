@@ -249,7 +249,7 @@ Table 22: Best Overall Response Rate (ORR) and Sustained Response Rate Based on 
 | Complete Response (CR) | 9 (21%) |
 | Partial Response (PR) | 19 (45%) |
 | Sustained response rateb | 20 (48%) |
-| CI = confidence interval a Investigator assessment based on the 2005 NIH Response Criteria with two modifications (added “not evaluable” for organs with non-cGVHD abnormalities, and organ score change from 0 to 1 was not considered disease progression) b Sustained response rate is defined as the proportion of patients who achieved a CR or PR that was sustained for at least 20 weeks. |  |
+| CI = confidence interval a Investigator assessment based on the 2005 NIH Response Criteria with two modifications (added "not evaluable" for organs with non-cGVHD abnormalities, and organ score change from 0 to 1 was not considered disease progression) b Sustained response rate is defined as the proportion of patients who achieved a CR or PR that was sustained for at least 20 weeks. |  |
 
 The median time to response coinciding with the first scheduled response assessment was 12.3 weeks (range, 4.1 to 42.1 weeks).
 Responses were seen across all organs involved for cGVHD (skin, mouth, gastrointestinal tract, and liver).
