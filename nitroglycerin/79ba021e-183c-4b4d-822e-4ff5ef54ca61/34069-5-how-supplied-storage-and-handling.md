@@ -1,4 +1,4 @@
-# 16 HOW SUPLIED/STORAGE AND HANDLING
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 NITROSTAT is supplied as white, round, flat-faced tablets in 3 strengths (0.3 mg, 0.4 mg, and 0.6 mg) in bottles containing 100 tablets each, with color-coded labels, and in color-coded Patient Convenience Packages of 4 bottles of 25 tablets each.
 

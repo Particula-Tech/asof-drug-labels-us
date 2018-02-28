@@ -1,4 +1,4 @@
-# 10 OVERDOSE
+# 10 OVERDOSAGE
 
 ## 10.1 Signs and Symptoms, Methemoglobinemia
 

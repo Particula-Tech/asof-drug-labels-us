@@ -2,10 +2,10 @@
 
 ## 8.1 Pregnancy
 
-Risk summary
+Risk Summary
 
 Limited published data on the use of nitroglycerin are insufficient to determine a drug associated risk of major birth defects or miscarriage.
-In animal reproduction studies, there were no adverse developmental effects when nitroglycerin was administered intravenously to rabbits or intraperitoneally to rats during organogenesis at doses greater than 64-times the human dose (see Data).
+In animal reproduction studies, there were no adverse developmental effects when nitroglycerin was administered intravenously to rabbits or intraperitoneally to rats during organogenesis at doses greater than 64-times the human dose [see Data].
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2–4% and 15–20%, respectively.
@@ -18,7 +18,7 @@ No embryotoxic or postnatal development effects were observed with transdermal a
 
 ## 8.2 Lactation
 
-Risk summary
+Risk Summary
 
 Sublingual nitroglycerin has not been studied in lactating women.
 It is not known if nitroglycerin is present in human milk or if nitroglycerin has effects on milk production.
