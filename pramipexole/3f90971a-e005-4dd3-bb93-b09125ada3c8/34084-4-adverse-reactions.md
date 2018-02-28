@@ -34,7 +34,7 @@ The adverse reactions most commonly causing discontinuation of treatment were re
 Adverse-reaction Incidence in Controlled Clinical Studies in Early Parkinson's Disease: Table 4 lists adverse reactions that occurred in the double-blind, placebo-controlled studies in early Parkinson's disease that were reported by ≥1% of patients treated with pramipexole dihydrochloride tablets and were numerically more frequent than in the placebo group.
 In these studies, patients did not receive concomitant levodopa.
 
-Table 4 Adverse-Reactions in Pooled Double-Blind, Placebo-Controlled Trials with Pramipexole Dihydrochloride Tablets in Early Parkinson's Disease
+Table 4 Adverse-Reactions in Pooled Double-Blind, Placebo-Controlled Trials with Pramipexole Dihydrochloride Tablets in Early Parkinson’s Disease
 
 | Body System/Adverse Reaction | Pramipexole Dihydrochloride (N=388) % | Placebo (N=235) % |
 | --- | --- | --- |
@@ -86,7 +86,7 @@ In these studies, pramipexole dihydrochloride tablets or placebo was administere
 
 Table 5 Adverse-Reactions in Pooled Double-Blind, Placebo-Controlled Trials with Pramipexole Dihydrochloride Tablets in Advanced Parkinson's Disease
 
-| Body System/Adverse Reaction | Pramipexole Dihydrochloride (N=260) % | Placebo (N=264) % |
+| Body System/Adverse Reaction | Pramipexole Dihydrochloride(N=260) % | Placebo (N=264) % |
 | --- | --- | --- |
 | Nervous System |  |  |
 | Dyskinesia | 47 | 31 |
@@ -129,7 +129,7 @@ Table 5 Adverse-Reactions in Pooled Double-Blind, Placebo-Controlled Trials with
 | Accommodation abnormalities | 4 | 2 |
 | Vision abnormalities | 3 | 1 |
 | Diplopia | 1 | 0 |
-| Musculoskeletal System |  |  |
+| MusculoskeletalSystem |  |  |
 | Arthritis | 3 | 1 |
 | Twitching | 2 | 0 |
 | Bursitis | 2 | 0 |
@@ -140,10 +140,61 @@ Table 5 Adverse-Reactions in Pooled Double-Blind, Placebo-Controlled Trials with
 | Skin & Appendages |  |  |
 | Skin disorders | 2 | 1 |
 
+Restless Legs Syndrome
+
+Pramipexole dihydrochloride tablets for treatment of RLS have been evaluated for safety in 889 patients, including 427 treated for over six months and 75 for over one year.
+
+The overall safety assessment focuses on the results of three double-blind, placebo-controlled trials, in which 575 patients with RLS were treated with pramipexole dihydrochloride tablets for up to 12 weeks.
+The most common adverse reactions with pramipexole dihydrochloride tablets in the treatment of RLS (observed in >5% of pramipexole-treated patients and at a rate at least twice that observed in placebo-treated patients) were nausea and somnolence.
+Occurrences of nausea and somnolence in clinical trials were generally mild and transient.
+
+Approximately 7% of 575 patients treated with pramipexole dihydrochloride tablets during the double-blind periods of three placebo-controlled trials discontinued treatment due to adverse reactions compared to 5% of 223 patients who received placebo.
+The adverse reaction most commonly causing discontinuation of treatment was nausea (1%).
+
+Table 6 lists reactions that occurred in three double-blind, placebo-controlled studies in RLS patients that were reported by ≥2% of patients treated with pramipexole dihydrochloride tablets and were numerically more frequent than in the placebo group.
+
+Table 6 Adverse-Reactions in Pooled Double-Blind, Placebo-Controlled Trials with Pramipexole Dihydrochloride Tablets in Restless Legs Syndrome
+
+| Body System/Adverse Reaction | Pramipexole Dihydrochloride 0.125 to 0.75 mg/day (N=575) % | Placebo (N=223) % |
+| --- | --- | --- |
+| Gastrointestinal disorders |  |  |
+| Nausea | 16 | 5 |
+| Constipation | 4 | 1 |
+| Diarrhea | 3 | 1 |
+| Dry mouth | 3 | 1 |
+| Nervous system disorders |  |  |
+| Headache | 16 | 15 |
+| Somnolence | 6 | 3 |
+| General disorders and administration site conditions |  |  |
+| Fatigue | 9 | 7 |
+| Infections and infestations |  |  |
+| Influenza | 3 | 1 |
+
+Table 7 summarizes data for adverse reactions that appeared to be dose related in the 12-week fixed dose study.
+Table 7 Dose-Related Adverse Reactions in a 12-Week Double-Blind, Placebo-Controlled Fixed Dose Study in Restless Legs Syndrome (Occurring in ≥5% of all Patients in the Treatment Phase)
+
+| Body System/Adverse Reaction | Pramipexole Dihydrochloride 0.25 mg (N=88) % | Pramipexole Dihydrochloride 0.5 mg (N=80) % | Pramipexole Dihydrochloride 0.75 mg (N=90) % | Placebo (N=86) % |
+| --- | --- | --- | --- | --- |
+| Gastrointestinal disorders |  |  |  |  |
+| Nausea | 11 | 19 | 27 | 5 |
+| Diarrhea | 3 | 1 | 7 | 0 |
+| Dyspepsia | 3 | 1 | 4 | 7 |
+| Psychiatric disorders |  |  |  |  |
+| Insomnia | 9 | 9 | 13 | 9 |
+| Abnormal dreams | 2 | 1 | 8 | 2 |
+| General disorders and administration site conditions |  |  |  |  |
+| Fatigue | 3 | 5 | 7 | 5 |
+| Musculoskeletal and connective tissue disorders |  |  |  |  |
+| Pain in extremity | 3 | 3 | 7 | 1 |
+| Infections and infestations |  |  |  |  |
+| Influenza | 1 | 4 | 7 | 1 |
+| Respiratory, thoracic and mediastinal disorders |  |  |  |  |
+| Nasal congestion | 0 | 3 | 6 | 1 |
+
 Adverse Reactions: Relationship to Age, Gender, and Race
 
 Among the adverse reactions in patients treated with pramipexole dihydrochloride tablets, hallucination appeared to exhibit a positive relationship to age in patients with Parkinson’s disease.
-No gender-related differences were observed in Parkinson’s disease patients.
+Although no gender-related differences were observed in Parkinson’s disease patients, nausea and fatigue, both generally transient, were more frequently reported by female than male RLS patients.
 Less than 4% of patients enrolled were non-Caucasian: therefore, an evaluation of adverse reactions related to race is not possible.
 
 Laboratory Tests

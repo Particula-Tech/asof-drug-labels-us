@@ -7,6 +7,12 @@ Parkinson’s Disease The precise mechanism of action of pramipexole as a treatm
 This conclusion is supported by electrophysiologic studies in animals that have demonstrated that pramipexole influences striatal neuronal firing rates via activation of dopamine receptors in the striatum and the substantia nigra, the site of neurons that send projections to the striatum.
 The relevance of D3 receptor binding in Parkinson’s disease is unknown.
 
+Restless Legs Syndrome (RLS)
+
+The precise mechanism of action of pramipexole dihydrochloride tablets as a treatment for RLS is unknown.
+Although the pathophysiology of RLS is largely unknown, neuropharmacological evidence suggests primary dopaminergic system involvement.
+Positron Emission Tomographic (PET) studies suggest that a mild striatal presynaptic dopaminergic dysfunction may be involved in the pathogenesis of RLS.
+
 ## 12.2 Pharmacodynamics
 
 The effect of pramipexole on the QT interval of the ECG was investigated in a clinical study in 60 healthy male and female volunteers.
@@ -70,6 +76,10 @@ Parkinson's Disease Patients
 A cross-study comparison of data suggests that the clearance of pramipexole may be reduced by about 30% in Parkinson's disease patients compared with healthy elderly volunteers.
 The reason for this difference appears to be reduced renal function in Parkinson's disease patients, which may be related to their poorer general health.
 The pharmacokinetics of pramipexole were comparable between early and advanced Parkinson's disease patients.
+
+Restless Legs Syndrome Patients
+
+A cross-study comparison of data suggests that the pharmacokinetic profile of pramipexole administered once daily in RLS patients is similar to the pharmacokinetic profile of pramipexole in healthy volunteers.
 
 Hepatic Impairment
 

@@ -1,16 +1,25 @@
 # 17 PATIENT COUNSELING INFORMATION
 
 Advise the patient to read the FDA-approved patient labeling (Patient Information).
-Dosing Instructions Instruct patients to take pramipexole dihydrochloride tablets only as prescribed.
+
+Dosing Instructions
+
+Instruct patients to take pramipexole dihydrochloride tablets only as prescribed.
 If a dose is missed, advise patients not to double their next dose.
+
 Pramipexole dihydrochloride tablets can be taken with or without food.
 If patients develop nausea, advise that taking pramipexole dihydrochloride tablets with food may reduce the occurrence of nausea.
+
 Pramipexole is the active ingredient that is in both pramipexole dihydrochloride tablets and extended-release pramipexole tablets.
 Ensure that patients do not take both extended-release pramipexole and pramipexole dihydrochloride.
-Sedating Effects Alert patients to the potential sedating effects associated with pramipexole dihydrochloride tablets, including somnolence and the possibility of falling asleep while engaged in activities of daily living.
+
+Sedating Effects
+
+Alert patients to the potential sedating effects associated with pramipexole dihydrochloride tablets, including somnolence and the possibility of falling asleep while engaged in activities of daily living.
 Since somnolence is a frequent adverse reaction with potentially serious consequences, patients should neither drive a car nor engage in other potentially dangerous activities until they have gained sufficient experience with pramipexole dihydrochloride tablets to gauge whether or not it affects their mental and/or motor performance adversely.
 Advise patients that if increased somnolence or new episodes of falling asleep during activities of daily living (e.g., conversations or eating) are experienced at any time during treatment, they should not drive or participate in potentially dangerous activities until they have contacted their physician.
 Because of possible additive effects, advise caution when patients are taking other sedating medications or alcohol in combination with pramipexole dihydrochloride tablets and when taking concomitant medications that increase plasma levels of pramipexole (e.g., cimetidine) [see Warnings and Precautions (5.1)].
+
 Impulse Control Symptoms Including Compulsive Behaviors
 
 Alert patients and their caregivers to the possibility that they may experience intense urges to spend money uncontrollably, intense urges to gamble, increased sexual urges, binge eating and/or other intense urges and the inability to control these urges while taking pramipexole dihydrochloride [see Warnings and Precautions (5.3)].
@@ -35,4 +44,6 @@ Because of the possibility that pramipexole may be excreted in breast milk, advi
 
 Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810
 
-Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt)-509302 India Revised: 08/2016
+Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt)-509302 India
+
+Revised: 02/2018

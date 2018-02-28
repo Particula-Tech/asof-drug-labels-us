@@ -2,12 +2,20 @@
 
 ## 8.1 Pregnancy
 
-Risk Summary There are no adequate data on the developmental risk associated with the use of pramipexole dihydrochloride in pregnant women.
+Risk Summary
+
+There are no adequate data on the developmental risk associated with the use of pramipexole dihydrochloride in pregnant women.
 No adverse developmental effects were observed in animal studies in which pramipexole was administered to rabbits during pregnancy.
 Effects on embryofetal development could not be adequately assessed in pregnant rats; however, postnatal growth was inhibited at clinically relevant exposures [see Data].
-In the U.S. general population, the estimated background risk of major birth defects and of miscarriage in clinically recognized pregnancies is 2to4% and 15to20%, respectively.
+
+In the U.S. general population, the estimated background risk of major birth defects and of miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
-Data Animal Data Oral administration of pramipexole (0.1, 0.5, or 1.5 mg/kg/day) to pregnant rats during the period of organogenesis resulted in a high incidence of total resorption of embryos at the highest dose tested.
+
+Data
+
+Animal Data
+
+Oral administration of pramipexole (0.1, 0.5, or 1.5 mg/kg/day) to pregnant rats during the period of organogenesis resulted in a high incidence of total resorption of embryos at the highest dose tested.
 This increase in embryolethality is thought to result from the prolactin-lowering effect of pramipexole; prolactin is necessary for implantation and maintenance of early pregnancy in rats but not rabbits or humans.
 Because of pregnancy disruption and early embryonic loss in this study, the teratogenic potential of pramipexole could not be adequately assessed in rats.
 The highest no-effect dose for embryolethality in rats was associated with maternal plasma drug exposures (AUC) approximately equal to those in humans receiving the maximum recommended human dose (MRHD) of 4.5 mg/day.
@@ -21,7 +29,9 @@ Risk Summary There are no data on the presence of pramipexole in human milk, the
 However, inhibition of lactation is expected because pramipexole inhibits secretion of prolactin in humans.
 Pramipexole or metabolites, or both, are present in rat milk [see Data].
 The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for pramipexole dihydrochloride and any potential adverse effects on the breastfed infant from pramipexole dihydrochloride or from the underlying maternal condition.
-Data In a study of radio-labeled pramipexole, pramipexole or metabolites, or both, were present in rat milk at concentrations three to six times higher than those in maternal plasma.
+Data
+
+In a study of radio-labeled pramipexole, pramipexole or metabolites, or both, were present in rat milk at concentrations three to six times higher than those in maternal plasma.
 
 ## 8.4 Pediatric Use
 
@@ -31,8 +41,11 @@ Safety and effectiveness of pramipexole dihydrochloride in pediatric patients ha
 
 Pramipexole total oral clearance is approximately 30% lower in subjects older than 65 years compared with younger subjects, because of a decline in pramipexole renal clearance due to an age-related reduction in renal function.
 This resulted in an increase in elimination half-life from approximately 8.5 hours to 12 hours.
+
 In clinical studies with Parkinson’s disease patients, 38.7% of patients were older than 65 years.
 There were no apparent differences in efficacy or safety between older and younger patients, except that the relative risk of hallucination associated with the use of pramipexole dihydrochloride tablets was increased in the elderly.
+In clinical studies with RLS patients, 22% of patients were at least 65 years old.
+There were no apparent differences in efficacy or safety between older and younger patients.
 
 ## 8.6 Renal Impairment
 
