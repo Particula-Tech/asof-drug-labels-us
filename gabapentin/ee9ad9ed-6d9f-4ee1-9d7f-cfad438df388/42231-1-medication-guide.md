@@ -4,10 +4,6 @@ NEURONTIN (Neu rŏn' tĭn) (Gabapentin)
 
 Capsules, Tablets, and Oral Solution
 
-Read the Medication Guide before you start taking NEURONTIN and each time you get a refill.
-There may be new information.
-This information does not take the place of talking to your healthcare provider about your medical condition or treatment.
-
 What is the most important information I should know about NEURONTIN?
 
 Do not stop taking NEURONTIN without first talking to your healthcare provider.
@@ -77,7 +73,7 @@ Before taking NEURONTIN, tell your healthcare provider if you:
   It is not known if NEURONTIN can harm your unborn baby.
   Tell your healthcare provider right away if you become pregnant while taking NEURONTIN.
   You and your healthcare provider will decide if you should take NEURONTIN while you are pregnant.
-  - If you become pregnant while taking NEURONTIN, talk to your healthcare provider about registering with the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
+  - Pregnancy Registry: If you become pregnant while taking NEURONTIN, talk to your healthcare provider about registering with the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
     The purpose of this registry is to collect information about the safety of antiepileptic drugs during pregnancy.
     You can enroll in this registry by calling 1-888-233-2334.
 - are breast-feeding or plan to breast-feed.
@@ -169,4 +165,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 This product's label may have been updated.
 For current full prescribing information, please visit www.pfizer.com.
 
-LAB-0397-8.0 September 2015
+LAB-0397-9.0 Revised October 2017

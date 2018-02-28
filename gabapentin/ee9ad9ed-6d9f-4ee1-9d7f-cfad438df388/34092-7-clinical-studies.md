@@ -28,7 +28,16 @@ Comparable treatment effects were observed in all active treatment arms.
 Pharmacokinetic/pharmacodynamic modeling provided confirmatory evidence of efficacy across all doses.
 Figures 1 and 2 show pain intensity scores over time for Studies 1 and 2.
 
-The proportion of responders (those patients reporting at least 50% improvement in endpoint pain score compared with baseline) was calculated for each study (Figure 3).
+| Figure 1. Weekly Mean Pain Scores (Observed Cases in ITT Population): Study 1 |
+| --- |
+
+| Figure 2. Weekly Mean Pain Scores (Observed Cases in ITT Population): Study 2 |
+| --- |
+
+The proportion of responders (those patients reporting at least 50% improvement in endpoint pain score compared to baseline) was calculated for each study (Figure 3).
+
+| Figure 3. Proportion of Responders (patients with ≥50% reduction in pain score) at Endpoint: Controlled PHN Studies |
+| --- |
 
 ## 14.2 Epilepsy for Partial Onset Seizures (Adjunctive Therapy)
 
@@ -68,6 +77,9 @@ Analysis of responder rate using combined data from all three studies and all do
 In two of the three controlled studies, more than one dose of NEURONTIN was used.
 Within each study, the results did not show a consistently increased response to dose.
 However, looking across studies, a trend toward increasing efficacy with increasing dose is evident (see Figure 4).
+
+| Figure 4. Responder Rate in Patients Receiving NEURONTIN Expressed as a Difference from Placebo by Dose and Study: Adjunctive Therapy Studies in Patients ≥12 Years of Age with Partial Seizures |
+| --- |
 
 In the figure, treatment effect magnitude, measured on the Y axis in terms of the difference in the proportion of gabapentin and placebo-assigned patients attaining a 50% or greater reduction in seizure frequency from baseline, is plotted against the daily dose of gabapentin administered (X axis).
 
