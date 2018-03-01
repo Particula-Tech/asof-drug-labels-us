@@ -18,7 +18,7 @@ For information on systemic supplementation, see prescribing information for the
 Pediatric patients may be more susceptible to systemic toxicity from equivalent doses due to their larger skin surface to body mass ratios.
 (See PRECAUTIONS: Pediatric Use.)
 
-If irritation develops, Westcort® (hydrocortisone valerate ointment) Ointment, 0.2% should be discontinued and appropriate therapy instituted.
+If irritation develops, Westcort ® (hydrocortisone valerate ointment) Ointment, 0.2% should be discontinued and appropriate therapy instituted.
 Allergic contact dermatitis with corticosteroids is usually diagnosed by observing a failure to heal rather than noting a clinical exacerbation, as with most topical products not containing corticosteroids.
 Such an observation should be corroborated with appropriate diagnostic patch testing.
 
@@ -68,7 +68,7 @@ Some corticosteroids have been shown to be teratogenic after dermal application 
 
 Dermal embryofetal developmental studies were conducted in rabbits and rats with hydrocortisone valerate cream, 0.2%.
 Hydrocortisone valerate cream, 0.2%, was administered topically for 4 hours/day, rather than the preferred 24 hours/day, during the period of organogenesis in rats (gestational days 5-16) and rabbits (gestational days 6-19).
-Topical doses of hydrocortisone valerate up to 9 mg/kg/day (54 mg/m2/day) were administered to rats and 5 mg/kg/day (60 mg/m2/day) were administered to rabbits.
+Topical doses of hydrocortisone valerate up to 9 mg/kg/day (54 mg/m 2/day) were administered to rats and 5 mg/kg/day (60 mg/m 2/day) were administered to rabbits.
 In the absence of maternal toxicity, a significant increase in delayed skeletal ossification in fetuses was noted at 9 mg/kg/day [2.5X the Maximum Recommended Human Dose (MRHD) based on body surface area (BSA) comparisons] in the rat study.
 No malformations in the fetuses were noted at 9 mg/kg/day (2.5X MRHD based on BSA comparisons) in the rat study.
 Indicators of embryofetal toxicity, significant decrease in fetal weight at 2 mg/kg/day (1X MRHD based on BSA) and a significant increase in post-implantation loss and embryo resorption at 5 mg/kg (3X MRHD based on BSA), were noted in the rabbit study.
@@ -76,7 +76,7 @@ A significant increase in delayed skeletal ossification in fetuses was noted at 
 Increased numbers of fetal malformations (e.g., cleft palate, omphalocele and clubbed feet) were noted at 5 mg/kg/day (3X MRHD based on BSA comparisons) in the rabbit study.
 
 There are no adequate and well-controlled studies in pregnant women.
-Westcort® (hydrocortisone valerate ointment) Ointment, 0.2% should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Westcort ® (hydrocortisone valerate ointment) Ointment, 0.2% should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 ## Nursing Mothers
 

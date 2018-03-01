@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Westcort® (hydrocortisone valerate ointment) Ointment, 0.2% is supplied in the following tube sizes:
+Westcort ® (hydrocortisone valerate ointment) Ointment, 0.2% is supplied in the following tube sizes:
 
 15 g NDC 10631-105-15
 

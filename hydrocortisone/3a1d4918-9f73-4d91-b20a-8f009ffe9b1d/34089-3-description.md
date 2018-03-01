@@ -1,9 +1,9 @@
 # DESCRIPTION
 
-Westcort® (hydrocortisone valerate ointment) Ointment, 0.2% contains hydrocortisone valerate, 11,21-dihydroxy-17-[(1-oxopentyl)oxy]-(11β)-pregn-4-ene-3,20-dione, a synthetic corticosteroid for topical dermatologic use.
+Westcort ® (hydrocortisone valerate ointment) Ointment, 0.2% contains hydrocortisone valerate, 11,21-dihydroxy-17-[(1-oxopentyl)oxy]-(11β)-pregn-4-ene-3,20-dione, a synthetic corticosteroid for topical dermatologic use.
 The corticosteroids constitute a class of primarily synthetic steroids used topically as anti-inflammatory and antipruritic agents.
 
-Chemically, hydrocortisone valerate is C26H38O6.
+Chemically, hydrocortisone valerate is C 26H 38O 6.
 It has the following structural formula:
 
 Hydrocortisone valerate has a molecular weight of 446.58.
