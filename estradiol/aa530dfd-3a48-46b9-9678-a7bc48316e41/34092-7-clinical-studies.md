@@ -30,7 +30,7 @@ The WHI estrogen-alone substudy was stopped early because an increased risk of s
 Results of the estrogen-alone substudy, which included 10,739 women (average 63 years of age, range 50 to 79; 75.3 percent White, 15.1 percent Black, 6.1 percent Hispanic, 3.6 percent Other), after an average follow-up of 7.1 years are presented in Table 2.
 
 TABLE 2 - Relative and Absolute Risk Seen in the Estrogen-Alone Substudy of WHIAdapted from numerous WHI publications.
-WHI publications can be viewed at www.nhlbi.nih.gov/whi.
+WHI publications can be viewed at https://www.nhlbi.nih.gov/whi/.
 
 | Absolute Risk per 10,000 Women-Years |  |  |  |
 | --- | --- | --- | --- |
@@ -76,7 +76,7 @@ Results of the CE plus MPA substudy, which included 16,608 women (average 63 yea
 These results reflect centrally adjudicated data after an average follow-up of 5.6 years.
 
 TABLE 3 - Relative and Absolute Risk Seen in the Estrogen Plus Progestin Substudy of WHI at an Average of 5.6 YearsAdapted from numerous WHI publications.
-WHI publications can be viewed at www.nhlbi.nih.gov/whi.,Results are based on centrally adjudicated data.
+WHI publications can be viewed at https://www.nhlbi.nih.gov/whi/.,Results are based on centrally adjudicated data.
 
 | Absolute Risk per 10,000 Women-Years |  |  |  |
 | --- | --- | --- | --- |
