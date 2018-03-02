@@ -91,9 +91,9 @@ What are the ingredients in ENTYVIO?
 
 Active ingredient: vedolizumab
 
-Inactive ingredients: L-histidine, L-histidine monohydrochloride, L-arginine hydrochloride, sucrose and polysorbate 80
+Inactive ingredients: L-arginine hydrochloride, L-histidine, L-histidine monohydrochloride, polysorbate 80 and sucrose
 
-Distributed by:
+Manufactured by:
 
 Takeda Pharmaceuticals America, Inc.
 
@@ -105,12 +105,12 @@ For more information, go to www.ENTYVIO.com or call 1-877-825-3327
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Issued: May 2014
+Revised: February 2018
 
 ENTYVIO is a trademark of Millennium Pharmaceuticals Inc. and is used under license by Takeda Pharmaceuticals America, Inc.
 
 All other trademark names are the property of their respective owners.
 
-©2014 Takeda Pharmaceuticals America, Inc.
+©2014 – 2018 Takeda Pharmaceuticals America, Inc.
 
-VMB245 R1
+VMB245 R2

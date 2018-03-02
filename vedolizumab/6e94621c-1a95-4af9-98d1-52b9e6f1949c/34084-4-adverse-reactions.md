@@ -13,7 +13,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 The data described below reflect exposure to ENTYVIO in 3,326 patients and healthy volunteers in clinical trials, including 1,396 exposed for greater than one year, and 835 exposed for greater than two years.
 
-The safety data described in Table 1 are derived from four controlled Phase 3 trials (UC Trials I and II, and CD Trials I and III); data from patients receiving open-label ENTYVIO treatment at Weeks 0 and 2 (prior to entry into UC Trial II and CD Trial III) and from Weeks 6 to 52 (non-responders at Week 6 of UC Trial I and CD Trial I) are included [see Clinical Studies (14.1 and 14.2)].
+The safety data described in Table 2 are derived from four controlled Phase 3 trials (UC Trials I and II, and CD Trials I and III); data from patients receiving open-label ENTYVIO treatment at Weeks 0 and 2 (prior to entry into UC Trial II and CD Trial III) and from Weeks 6 to 52 (non-responders at Week 6 of UC Trial I and CD Trial I) are included [see Clinical Studies (14.1 and 14.2)].
 
 In these trials, 1,434 patients received ENTYVIO 300 mg for up to 52 weeks, and 297 patients received placebo for up to 52 weeks.
 Of these, 769 patients had ulcerative colitis and 962 patients had Crohn's disease.
@@ -22,9 +22,9 @@ Patients were exposed for a mean duration of 259 days (UC Trials I and II) and 2
 Adverse reactions were reported in 52% of patients treated with ENTYVIO and 45% of patients treated with placebo (UC Trials I and II: 49% with ENTYVIO and 37% with placebo; CD Trials I and III: 55% with ENTYVIO and 47% with placebo).
 Serious adverse reactions were reported in 7% of patients treated with ENTYVIO compared to 4% of patients treated with placebo (UC Trials I and II: 8% with ENTYVIO and 7% with placebo; CD Trials I and III: 12% with ENTYVIO and 9%, with placebo).
 
-The most common adverse reactions (reported by ≥3% of patients treated with ENTYVIO in the UC Trials I and II and CD Trials I and III combined group and ≥1% higher than in combined placebo group) were nasopharyngitis, headache, arthralgia, nausea, pyrexia, upper respiratory tract infection, fatigue, cough, bronchitis, influenza, back pain, rash, pruritus, sinusitis, oropharyngeal pain and pain in extremities (Table 1).
+The most common adverse reactions (reported by ≥3% of patients treated with ENTYVIO in the UC Trials I and II and CD Trials I and III combined group and ≥1% higher than in combined placebo group) were nasopharyngitis, headache, arthralgia, nausea, pyrexia, upper respiratory tract infection, fatigue, cough, bronchitis, influenza, back pain, rash, pruritus, sinusitis, oropharyngeal pain and pain in extremities (Table 2).
 
-| Table 1. Adverse Reactions in ≥3% of ENTYVIO-treated Patients and ≥1% Higher than in Placebo (UC Trials I and IIData from patients receiving open-label ENTYVIO treatment at Weeks 0 and 2 (prior to entry into UC Trial II and CD Trial III) and from Weeks 6 to 52 (non-responders at Week 6 of UC Trial I and CD Trial I) are included. and CD Trials I and III) |  |  |
+| Table 2. Adverse Reactions in ≥3% of ENTYVIO-treated Patients and ≥1% Higher than in Placebo (UC Trials I and IIData from patients receiving open-label ENTYVIO treatment at Weeks 0 and 2 (prior to entry into UC Trial II and CD Trial III) and from Weeks 6 to 52 (non-responders at Week 6 of UC Trial I and CD Trial I) are included. and CD Trials I and III) |  |  |
 | --- | --- | --- |
 | Adverse Reaction | ENTYVIOPatients who received ENTYVIO for up to 52 weeks. (N=1434) | PlaceboPatients who received placebo for up to 52 weeks. (N=297) |
 | Nasopharyngitis | 13% | 7% |
@@ -44,7 +44,7 @@ The most common adverse reactions (reported by ≥3% of patients treated with EN
 | Oropharyngeal pain | 3% | 1% |
 | Pain in extremities | 3% | 1% |
 
-Safety data for patients (n=279) in UC Trials I and II and CD Trials I and III who received ENTYVIO at Weeks 0 and 2 and were then randomized to placebo at Week 6 for up to 52 weeks, and for patients (n=416) in CD Trial II, a 10 week Crohn's disease trial, are similar to those listed in Table 1.
+Safety data for patients (n=279) in UC Trials I and II and CD Trials I and III who received ENTYVIO at Weeks 0 and 2 and were then randomized to placebo at Week 6 for up to 52 weeks, and for patients (n=416) in CD Trial II, a 10 week Crohn's disease trial, are similar to those listed in Table 2.
 
 Infusion-Related Reactions and Hypersensitivity Reactions
 
@@ -109,12 +109,12 @@ The impact on other oral vaccines and on nasal vaccines in patients is unknown.
 ## 6.2 Immunogenicity
 
 As with all therapeutic proteins, there is potential for immunogenicity.
+The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay.
+Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors, including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
+For these reasons, comparison of the incidence of antibodies to vedolizumab in the studies described below with the incidence of antibodies in other studies or to other products may be misleading.
+
 In UC Trials I and II and CD Trials I and III, in patients who received ENTYVIO, the frequency of antibodies detected in patients was 13% at 24 weeks after the last dose of study drug (greater than five half-lives after last dose).
 During treatment, 56 of 1434 (4%) of patients treated with ENTYVIO had detectable anti-vedolizumab antibody at any time during the 52 weeks of continuous treatment.
 Nine of 56 patients were persistently positive (at two or more study visits) for anti-vedolizumab antibody and 33 of 56 patients developed neutralizing antibodies to vedolizumab.
 Among eight of these nine subjects with persistently positive anti-vedolizumab antibody and available vedolizumab concentration data, six had undetectable and two had reduced vedolizumab concentrations [see Clinical Pharmacology (12.3)].
 None of the nine subjects with persistently positive anti-vedolizumab antibody achieved clinical remission at Weeks 6 or 52 in the controlled trials.
-
-The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay.
-Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors, including sample handling, timing of sample collection, concomitant medications, presence of vedolizumab, and underlying disease.
-For these reasons, comparison of the incidence of antibodies to ENTYVIO with the incidence of antibodies to other products may be misleading.

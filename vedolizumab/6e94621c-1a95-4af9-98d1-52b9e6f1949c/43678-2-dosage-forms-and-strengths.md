@@ -1,3 +1,3 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-ENTYVIO for injection: 300 mg of vedolizumab as a lyophilized cake in single dose 20 mL vials for reconstitution.
+For injection: 300 mg of vedolizumab as a white to off-white lyophilized cake in a single-dose vial for reconstitution.

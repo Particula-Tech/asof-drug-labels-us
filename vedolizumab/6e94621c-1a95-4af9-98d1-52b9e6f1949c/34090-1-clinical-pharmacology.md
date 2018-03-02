@@ -21,9 +21,9 @@ In a study of 14 healthy subjects, ENTYVIO did not affect the CD4+ lymphocyte ce
 
 ## 12.3 Pharmacokinetics
 
-Similar pharmacokinetics were observed in ulcerative colitis and Crohn's disease patients administered 300 mg ENTYVIO as a 30 minute intravenous infusion on Weeks 0 and 2, followed by 300 mg ENTYVIO every eight weeks starting from Week 6 (Table 2).
+Similar pharmacokinetics were observed in ulcerative colitis and Crohn's disease patients administered 300 mg ENTYVIO as a 30 minute intravenous infusion on Weeks 0 and 2, followed by 300 mg ENTYVIO every eight weeks starting from Week 6 (Table 3).
 
-| Table 2. Mean ± SD Vedolizumab Concentrations in PatientsData from patients in UC Trials I and II and CD Trials I and III with pharmacokinetic data available; data from patients with anti-vedolizumab antibody were excluded. with Ulcerative Colitis and Crohn's Disease |  |  |
+| Table 3. Mean ± SD Vedolizumab Concentrations in PatientsData from patients in UC Trials I and II and CD Trials I and III with pharmacokinetic data available; data from patients with anti-vedolizumab antibody were excluded. with Ulcerative Colitis and Crohn's Disease |  |  |
 | --- | --- | --- |
 | Patient Population | Weeks 0 to 6 | Weeks 6 to 52ENTYVIO Every 8 Weeks |
 | Trough Serum Concentration at Week 6 (mcg/mL) | Trough Serum Concentrationat Week 46Steady-state trough serum concentration. (mcg/mL) |  |
