@@ -123,7 +123,7 @@ Coadministration of EDURANT and drugs that induce CYP3A may result in decreased 
 Coadministration of EDURANT and drugs that inhibit CYP3A may result in increased plasma concentrations of rilpivirine.
 Coadministration of EDURANT with drugs that increase gastric pH may result in decreased plasma concentrations of rilpivirine and loss of virologic response and possible resistance to rilpivirine and to the class of NNRTIs.
 
-EDURANT at a dose of 25 mg once daily is not likely to have a clinically relevant effect on the exposure of medicinal products metabolised by CYP enzymes.
+EDURANT at a dose of 25 mg once daily is not likely to have a clinically relevant effect on the exposure of medicinal products metabolized by CYP enzymes.
 
 Drug interaction studies were performed with EDURANT and other drugs likely to be coadministered or commonly used as probes for pharmacokinetic interactions.
 The effects of coadministration of other drugs on the Cmax, AUC, and Cmin values of rilpivirine are summarized in Table 9 (effect of other drugs on EDURANT).
@@ -144,7 +144,7 @@ Table 9: Drug Interactions: Pharmacokinetic Parameters for Rilpivirine in the Pr
 | CoAdministration With HIV Integrase Strand Transfer Inhibitors |  |  |  |  |  |  |
 | Raltegravir | 400 mg b.i.d. | 25 mg q.d. | 23 | 1.12 (1.04–1.20) | 1.12 (1.05–1.19) | 1.03 (0.96–1.12) |
 | CoAdministration With other Antivirals |  |  |  |  |  |  |
-| Telaprevir | 750 mg q8h | 25 mg q.d. | 16 | 1.49 (1.20–1.84) | 1.78 (1.44–2.20) | 1.93 (1.55–2.41) |
+| Simeprevir | 150 mg q.d. | 25 mg q.d. | 23 | 1.04 (0.95–1.13) | 1.12 (1.05–1.19) | 1.25 (1.16–1.35) |
 | CoAdministration With Drugs other than Antiretrovirals |  |  |  |  |  |  |
 | Acetaminophen | 500 mg single dose | 150 mg q.d. | 16 | 1.09 (1.01–1.18) | 1.16 (1.10–1.22) | 1.26 (1.16–1.38) |
 | Atorvastatin | 40 mg q.d. | 150 mg q.d. | 16 | 0.91 (0.79–1.06) | 0.90 (0.81–0.99) | 0.90 (0.84–0.96) |

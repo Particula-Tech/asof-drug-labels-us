@@ -41,7 +41,7 @@ Table 5: Established and Other Potentially Significant Drug Interactions: Altera
 | Proton Pump Inhibitors: e.g., Esomeprazole Lansoprazole Omeprazole Pantoprazole Rabeprazole | ↓Rilpivirine | Coadministration is contraindicated with EDURANT [see Contraindications (4)]. |
 | ↑ = increase, ↓ = decrease, ↔ = no change |  |  |
 
-In addition to the drugs included in Table 5, the interaction between EDURANT and the following drugs was evaluated in clinical studies and no dose adjustment is needed for either drug [see Clinical Pharmacology (12.3)]: acetaminophen, atorvastatin, chlorzoxazone, ethinylestradiol, norethindrone, raltegravir, sildenafil, telaprevir and tenofovir disoproxil fumarate.
+In addition to the drugs included in Table 5, the interaction between EDURANT and the following drugs was evaluated in clinical studies and no dose adjustment is needed for either drug [see Clinical Pharmacology (12.3)]: acetaminophen, atorvastatin, chlorzoxazone, ethinylestradiol, norethindrone, raltegravir, sildenafil, simeprevir and tenofovir disoproxil fumarate.
 Rilpivirine did not have a clinically significant effect on the pharmacokinetics of digoxin or metformin.
 No clinically relevant drug-drug interaction is expected when EDURANT is coadministered with maraviroc, ribavirin or the NRTIs abacavir, emtricitabine, lamivudine, stavudine and zidovudine.
 
