@@ -1,1 +1,1 @@
-LAB-0170-6.0 January 2017
+LAB-0170-7.0 February 2018
