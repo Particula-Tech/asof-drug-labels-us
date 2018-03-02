@@ -21,19 +21,10 @@ Patients using adapalene gel, 0.3%, should receive the following information and
 11. Contact the doctor if skin rash, pruritus, hives, chest pain, edema, and shortness of breath occurs, as these may be signs of allergy or hypersensitivity.
 12. It is for external use only.
 
-Rx Only
+Manufactured by: G&W Laboratories, Inc. South Plainfield, NJ 07080 USA
 
-Manufactured by:
+Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
-Actavis Mid Atlantic LLC
+Revised - November 2017
 
-1877 Kawai Road
-
-Lincolnton, NC 28092 USA
-
-FORM NO. 0126
-
-Rev.
-07/12
-
-VC1048
+I600-6200 GW7205

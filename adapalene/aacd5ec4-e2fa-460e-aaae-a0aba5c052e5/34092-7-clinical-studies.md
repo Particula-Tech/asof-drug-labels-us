@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-The safety and efficacy of once daily use of adapalene gel, 0.3% for treatment of acne vulgaris were assessed in one 12 week, multi-center, controlled, clinical study, conducted in a total of 653 patients 12 to 52 years of age with acne vulgaris of mild to moderate severity.
+The safety and efficacy of once daily use of adapalene gel, 0.3% for treatment of acne vulgaris were assessed in one 12 week, multi-center, controlled, clinical study, conducted in a total of 653 patients 12 years to 52 years of age with acne vulgaris of mild to moderate severity.
 All female patients of child-bearing potential enrolled in the study were required to have a negative urine pregnancy test at the beginning of the study and were required to practice a highly effective method of contraception during the study.
 Female patients who were pregnant, nursing or planning to become pregnant were excluded from the study.
 

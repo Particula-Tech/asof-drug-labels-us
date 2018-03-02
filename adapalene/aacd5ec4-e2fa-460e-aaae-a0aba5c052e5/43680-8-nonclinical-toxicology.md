@@ -2,7 +2,7 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Carcinogenicity studies with adapalene have been conducted in mice at topical doses of 0.4, 1.3, and 4.0 mg/kg/day, and in rats at oral doses of 0.15, 0.5, and 1.5 mg/kg/day.
+Carcinogenicity studies with adapalene have been conducted in mice at topical doses of 0.4 mg/kg/day, 1.3 mg/kg/day, and 4.0 mg/kg/day, and in rats at oral doses of 0.15 mg/kg/day, 0.5 mg/kg/day, and 1.5 mg/kg/day.
 These doses are up to 3 times (mice) and 2 times (rats) in terms of mg/m2/day the potential exposure at the maximum recommended human dose (MRHD), assumed to be 2.5 grams adapalene gel, 0.3%.
 In the oral study, increased incidence of benign and malignant pheochromocytomas in the adrenal medullas of male rats was observed.
 

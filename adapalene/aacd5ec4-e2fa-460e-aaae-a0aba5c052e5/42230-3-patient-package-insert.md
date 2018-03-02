@@ -1,8 +1,6 @@
 # PATIENT INFORMATION
 
-Adapalene Gel, 0.3%
-
-Rx Only
+Adapalene (a dap' a leen) Gel, 0.3%
 
 Important: For use on the skin only (topical).
 Do not use adapalene gel, 0.3% in or on your mouth, eyes, or vagina.
@@ -25,8 +23,12 @@ Who should not use adapalene gel, 0.3%?
 Do not use adapalene gel, 0.3% if you:
 
 - are allergic to adapalene or any of the ingredients in adapalene gel, 0.3%.
-  See the end of this Patient Information for a complete list of ingredients in adapalene gel, 0.3%.What should I tell my doctor before using adapalene gel, 0.3%?
-  Before you use adapalene gel, 0.3%, tell your doctor if you:
+  See the end of this Patient Information for a complete list of ingredients in adapalene gel, 0.3%.
+
+What should I tell my doctor before using adapalene gel, 0.3%?
+
+Before you use adapalene gel, 0.3%, tell your doctor if you:
+
 - have other skin problems, including cuts or sunburn
 - have any other medical conditions
 - are pregnant or planning to become pregnant.
@@ -85,10 +87,15 @@ Adapalene gel, 0.3% may cause serious side effects including:
   Stop using adapalene gel, 0.3% and tell your doctor right away if you have any of these symptoms of an allergic reaction:
   - skin rash, itching or hives
   - trouble breathing or chest pain
-  - swelling of your face, eyes, lips, tongue or throatYou may use a moisturizer for relief of dry skin or irritation, however you should avoid products that contain alpha hydroxy or glycolic acid.The most common side effects of adapalene gel, 0.3% are:
-  - skin pain
-  - skin peeling
-  - sunburn
+  - swelling of your face, eyes, lips, tongue or throat
+
+You may use a moisturizer for relief of dry skin or irritation, however you should avoid products that contain alpha hydroxy or glycolic acid.
+
+The most common side effects of adapalene gel, 0.3% are:
+
+- skin pain
+- skin peeling
+- sunburn
 
 Tell your doctor if you have any side effect that bothers you or that does not go away.
 
@@ -102,7 +109,7 @@ You may also report side effects to Actavis at 1-800-432-8534.
 
 How should I store adapalene gel, 0.3%?
 
-- Store adapalene gel, 0.3% at room temperature between 68° F to 77° F (20° C to 25° C).
+- Store adapalene gel, 0.3% at room temperature between 68°F to 77°F (20°C to 25°C).
 - Do not freeze adapalene gel, 0.3%.
 
 Keep adapalene gel, 0.3% and all medicines out of the reach of children.
@@ -127,17 +134,10 @@ May contain hydrochloric acid for pH adjustment.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by:
+Manufactured by: G&W Laboratories, Inc. South Plainfield, NJ 07080 USA
 
-Actavis Mid Atlantic LLC
+Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
-1877 Kawai Road
+Revised - November 2017
 
-Lincolnton, NC 28092 USA
-
-FORM NO. 0126
-
-Rev.
-07/12
-
-VC1048
+I600-6200 GW7205

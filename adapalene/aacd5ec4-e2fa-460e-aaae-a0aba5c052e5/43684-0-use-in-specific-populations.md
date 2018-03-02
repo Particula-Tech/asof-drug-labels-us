@@ -2,8 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic effects.
-Pregnancy Category C.
+Teratogenic effects: Pregnancy Category C.
 
 Retinoids may cause fetal harm, when administered to pregnant women.
 Adapalene has been shown to be teratogenic in rats and rabbits when administered orally (see Animal Data below).
@@ -19,10 +18,10 @@ One patient elected to terminate the pregnancy, two patients delivered healthy b
 
 Animal Data
 
-- No teratogenic effects were seen in rats at oral doses of 0.15 to 5.0 mg/kg/day adapalene representing up to 6 times the maximum recommended human dose (MRHD) based on mg/m2 comparisons.
-  Adapalene has been shown to be teratogenic in rats and rabbits when administered orally at doses ≥ 25 mg/kg representing 32 and 65 times, respectively, the MRHD based on mg/m2 comparisons.
+- No teratogenic effects were seen in rats at oral doses of 0.15 mg/kg/day to 5.0 mg/kg/day adapalene representing up to 6 times the maximum recommended human dose (MRHD) based on mg/m2 comparisons.
+  Adapalene has been shown to be teratogenic in rats and rabbits when administered orally at doses greater than or equal to 25 mg/kg representing 32 and 65 times, respectively, the MRHD based on mg/m2 comparisons.
   Findings included cleft palate, microphthalmia, encephalocele and skeletal abnormalities in the rat and umbilical hernia, exophthalmos and kidney and skeletal abnormalities in the rabbit.
-- Cutaneous teratology studies in rats and rabbits at doses of 0.6, 2.0, and 6.0 mg/kg/day exhibited no fetotoxicity and only minimal increases in supernumerary ribs in both species and delayed ossification in rabbits.
+- Cutaneous teratology studies in rats and rabbits at doses of 0.6 mg/kg/day, 2.0 mg/kg/day, and 6.0 mg/kg/day exhibited no fetotoxicity and only minimal increases in supernumerary ribs in both species and delayed ossification in rabbits.
   Systemic exposure (AUC0-24h) to adapalene 0.3% gel at topical doses of 6.0 mg/kg/day in rats and rabbits represented 5.7 and 28.7 times, respectively, the exposure in acne patients treated with adapalene 0.3% gel applied to the face, chest and back (2 grams applied to 1000 cm2 of acne involved skin).
 
 ## 8.3 Nursing Mothers
