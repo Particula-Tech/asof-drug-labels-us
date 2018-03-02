@@ -12,7 +12,6 @@ Some patients have revealed a return to normal laboratory values in the face of 
 
 If symptoms compatible with hepatitis, accompanied by abnormalities in liver function tests or jaundice appear, Dantrium should be discontinued.
 If caused by Dantrium and detected early, the abnormalities in liver function characteristically have reverted to normal when the drug was discontinued.
-
 Dantrium therapy has been reinstituted in a few patients who have developed clinical and/or laboratory evidence of hepatocellular injury.
 If such reinstitution of therapy is done, it should be attempted only in patients who clearly need Dantrium and only after previous symptoms and laboratory abnormalities have cleared.
 The patient should be hospitalized and the drug should be restarted in very small and gradually increasing doses.

@@ -37,4 +37,4 @@ The published literature has included some reports of Dantrium use in patients w
 Dantrium capsules are not indicated for the treatment of NMS and patients may expire despite treatment with Dantrium capsules.
 
 For medical advice about adverse reactions contact your medical professional.
-Toreport SUSPECTED ADVERSE REACTIONS, contact Par Pharmaceutical Inc. at 1-800-828-9393 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Par Pharmaceutical, at 1-800-828-9393 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

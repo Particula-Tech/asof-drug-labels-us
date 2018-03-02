@@ -10,7 +10,7 @@ PERIPHERAL SKELETAL MUSCLE RELAXANT
 
 100 Capsules Rx Only
 
-PAR PHARMACEUTICAL COMPANIES, Inc.
+Par Pharmaceutical
 
 # PRINCIPAL DISPLAY PANEL - 50 mg Bottle label
 
@@ -24,7 +24,7 @@ PERIPHERAL SKELETAL MUSCLE RELAXANT
 
 100 Capsules Rx Only
 
-PAR PHARMCEUTICAL COMPANIES, Inc.
+Par Pharmaceutical
 
 # PRINCIPAL DISPLAY PANEL - 100 mg Bottle Label
 
@@ -36,8 +36,6 @@ Dantrium® (dantrolene sodium)
 
 PERIPHERAL SKELETAL MUSCLE RELAXANT
 
-100 Capsules
+100 Capsules Rx Only
 
-Rx Only
-
-PAR PHARMACEUTICAL COMPANIES, Inc.
+Par Pharmaceutical

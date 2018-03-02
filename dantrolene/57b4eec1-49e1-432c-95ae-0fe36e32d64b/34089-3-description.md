@@ -8,4 +8,4 @@ The structural formula for the hydrated salt is:
 
 Dantrium is supplied in capsules of 25 mg, 50 mg, and 100 mg.
 
-Inactive Ingredients: Each capsule contains edible black ink, FD&C Yellow No. 6, gelatin, lactose, magnesium stearate, starch, synthetic iron oxide red, synthetic iron oxide yellow, talc, and titanium dioxide.
+Inactive Ingredients: Each capsule contains Edible black ink, FD&C Yellow No. 6, Gelatin, Lactose, Magnesium stearate, Starch, Synthetic iron oxide red, Synthetic iron oxide yellow, Talc, and Titanium dioxide.
