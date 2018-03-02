@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "ANDA079108"
+  ],
+  "inn": "dexmethylphenidate",
+  "labeler": "Impax Generics",
+  "package_ndcs": [
+    "0115-9918-01",
+    "0115-9919-01",
+    "0115-9920-01",
+    "0115-9921-01",
+    "0115-9922-01"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "dexmethylphenidate hydrochloride",
+      "name": "Dexmethylphenidate hydrochloride"
+    }
+  ],
+  "setid": "93e56455-0f15-4ed9-a63a-7fbd0697d520",
+  "source": "dailymed"
+}
