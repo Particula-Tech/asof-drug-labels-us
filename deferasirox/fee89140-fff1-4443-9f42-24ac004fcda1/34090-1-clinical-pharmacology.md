@@ -21,8 +21,8 @@ No evidence of prolongation of the QTc interval was observed in this study.
 
 Absorption
 
-Based on studies in patients with the tablet for oral suspension, deferasirox is absorbed following oral administration with median times to maximum plasma concentration (tmax) of about 1.5 to 4 hours.
-In healthy subjects, JADENU showed comparable tmax.
+Based on studies in patients with the tablet for oral suspension, deferasirox is absorbed following oral administration with median times to maximum plasma concentration (Tmax) of about 1.5 to 4 hours.
+In healthy subjects, JADENU showed comparable Tmax.
 The maximal concentrations (Cmax) and area under the curve (AUC0-24h, AUCτ) of deferasirox increase approximately linearly with dose after both single administration and under steady-state conditions.
 Exposure to deferasirox increased by an accumulation factor of 1.3 to 2.3 after multiple doses with the tablet for oral suspension formulation.
 
@@ -92,7 +92,7 @@ In children less than 6 years of age, systemic exposure was about 50% lower than
 
 Sex: The apparent clearance is 17.5% lower in females compared to males.
 
-Renal Impairment: Compared to patients with MDS and CLcr greater than 60 mL/min, patients with MDS and CLcr 40 to 60 mL/min (n=34) had approximately 50% higher mean deferasirox trough plasma concentrations.
+Renal Impairment: Compared to patients with MDS and CLCr greater than 60 mL/min, patients with MDS and CLCr 40 to 60 mL/min (n = 34) had approximately 50% higher mean deferasirox trough plasma concentrations.
 
 Hepatic Impairment: In a single dose (20 mg/kg) study in patients with varying degrees of hepatic impairment, deferasirox exposure was increased compared to patients with normal hepatic function.
 The average total (free and bound) AUCinf of deferasirox increased 16% in 6 patients with mild (Child-Pugh A) hepatic impairment, and 76% in 6 patients with moderate (Child-Pugh B) hepatic impairment compared to 6 patients with normal hepatic function.

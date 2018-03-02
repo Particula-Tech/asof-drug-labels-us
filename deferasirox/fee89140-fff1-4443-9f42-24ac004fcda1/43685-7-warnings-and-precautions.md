@@ -7,12 +7,12 @@ Postmarketing experience showed that most fatalities occurred in patients with m
 In the clinical trials, deferasirox-treated patients experienced dose-dependent increases in serum creatinine.
 In patients with transfusional iron overload, these increases in creatinine occurred at a greater frequency compared to deferoxamine-treated patients (38% versus 14%, respectively, in Study 1 and 36% versus 22%, respectively, in Study 3) [see Adverse Reactions (6.1, 6.2)].
 
-Measure serum creatinine in duplicate (due to variations in measurements) and determine the CLcr (estimated by the Cockcroft-Gault method) before initiating therapy in all patients in order to establish a reliable pretreatment baseline.
+Measure serum creatinine in duplicate (due to variations in measurements) and determine the CLCr (estimated by the Cockcroft-Gault method) before initiating therapy in all patients in order to establish a reliable pretreatment baseline.
 Monitor serum creatinine weekly during the first month after initiation or modification of therapy and at least monthly thereafter.
-Monitor serum creatinine and/or CLcr more frequently if creatinine levels are increasing.
+Monitor serum creatinine and/or CLCr more frequently if creatinine levels are increasing.
 Dose reduction, interruption, or discontinuation based on increases in serum creatinine may be necessary [see Dosage and Administration (2.5)].
 
-JADENU is contraindicated in patients with CLcr less than 40 mL/minute or serum creatinine greater than 2 times the age appropriate ULN.
+JADENU is contraindicated in patients with CLCr less than 40 mL/minute or serum creatinine greater than 2 times the age appropriate ULN.
 
 Renal tubular damage, including Fanconi’s Syndrome, has been reported in patients treated with deferasirox, most commonly in children and adolescents with beta-thalassemia and serum ferritin levels less than 1500 mcg/L.
 
@@ -23,7 +23,7 @@ The mechanism and clinical significance of the proteinuria are uncertain [see Ad
 
 ## 5.2 Hepatic Toxicity and Failure
 
-Deferasirox can cause hepatic injury, fatal in some patients.
+JADENU can cause hepatic injury, fatal in some patients.
 In Study 1, 4 patients (1.3%) discontinued deferasirox because of hepatic toxicity (drug-induced hepatitis in 2 patients and increased serum transaminases in 2 additional patients).
 Hepatic toxicity appears to be more common in patients greater than 55 years of age.
 Hepatic failure was more common in patients with significant comorbidities, including liver cirrhosis and multiorgan failure [see Adverse Reactions (6.1)].
@@ -53,7 +53,7 @@ JADENU is contraindicated in patients with platelet counts below 50 x 109/L.
 
 ## 5.5 Increased Risk of Toxicity in the Elderly
 
-Deferasirox has been associated with serious and fatal adverse reactions in the postmarketing setting, predominantly in elderly patients.
+JADENU has been associated with serious and fatal adverse reactions in the postmarketing setting, predominantly in elderly patients.
 Monitor elderly patients treated with JADENU more frequently for toxicity [see Use in Specific Populations (8.5)].
 
 ## 5.6 Hypersensitivity
@@ -64,9 +64,10 @@ JADENU is contraindicated in patients with known hypersensitivity to deferasirox
 
 ## 5.7 Severe Skin Reactions
 
-Severe skin reactions, including Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), and erythema multiforme, have been reported during deferasirox therapy [see Adverse Reactions (6.2)].
-The risk of other skin reactions including DRESS (drug reaction with eosinophilia and systemic symptoms) cannot be excluded.
-If severe skin reactions are suspected, discontinue JADENU immediately and do not reintroduce JADENU therapy.
+Severe cutaneous adverse reactions (SCARs), including Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN) and drug reaction with eosinophilia and systemic symptoms (DRESS) which could be life-threatening or fatal have been reported during deferasirox therapy [see Adverse Reactions (6.1, 6.2)].
+Cases of erythema multiforme have been observed.
+Advise patients of the signs and symptoms of severe skin reactions, and closely monitor.
+If any severe skin reactions are suspected, discontinue JADENU immediately and do not reintroduce JADENU therapy.
 
 ## 5.8 Skin Rash
 

@@ -8,8 +8,8 @@ It has a molecular formula C21H15N3O4 and molecular weight of 373.4.
 It is insoluble in water with a pH of suspension of 4.1.
 
 JADENU tablets contain 90 mg, 180 mg, or 360 mg deferasirox.
-Inactive ingredients include microcrystalline cellulose, crospovidone, povidone (K30), magnesium stearate, colloidal silicon dioxide, and poloxamer (188).
+Inactive ingredients include microcrystalline cellulose, crospovidone, povidone (K-30), magnesium stearate, colloidal silicon dioxide, and poloxamer (188).
 The film coating contains opadry blue.
 
 JADENU Sprinkle granules contain 90 mg, 180 mg, or 360 mg deferasirox.
-Inactive ingredients include microcrystalline cellulose, crospovidone; povidone (K30), magnesium stearate, colloidal silicon dioxide, poloxamer (188).
+Inactive ingredients include microcrystalline cellulose, crospovidone; povidone (K-30), magnesium stearate, colloidal silicon dioxide, poloxamer (188).

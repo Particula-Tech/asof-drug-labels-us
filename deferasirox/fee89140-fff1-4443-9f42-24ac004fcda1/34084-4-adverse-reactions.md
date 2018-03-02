@@ -39,11 +39,11 @@ Abdominal pain, nausea, vomiting, diarrhea, skin rashes, and increases in serum 
 Gastrointestinal symptoms, increases in serum creatinine, and skin rash were dose related.
 
 Table 1.
-Adverse Reactions* Occurring in >5% of Deferasirox-treated Patients in Study 1, Study 3, and MDS Pool
+Adverse Reactions* Occurring in > 5% of Deferasirox-treated Patients in Study 1, Study 3, and MDS Pool
 
 |  | Study 1 (Beta-thalassemia) |  | Study 3 (Sickle Cell Disease) |  | MDS Pool |
 | --- | --- | --- | --- | --- | --- |
-| Preferred Term | Deferasirox N=296 n (%) | Deferoxamine N=290 n (%) | Deferasirox N=132 n (%) | Deferoxamine N=63 n (%) | Deferasirox N=627 n (%) |
+| Adverse Reaction | Deferasirox N = 296 n (%) | Deferoxamine N = 290 n (%) | Deferasirox N = 132 n (%) | Deferoxamine N = 63 n (%) | Deferasirox N = 627 n (%) |
 | Abdominal Pain** | 63 (21) | 41 (14) | 37 (28) | 9 (14) | 145 (23) |
 | Diarrhea | 35 (12) | 21 (7) | 26 (20) | 3 (5) | 297 (47) |
 | Creatinine Increased*** | 33 (11) | 0 (0) | 9 (7) | 0 | 89 (14) |
@@ -75,13 +75,13 @@ Number (%) of Patients with Increases in Serum Creatinine or SGPT/ALT in Study 1
 
 |  | Study 1 (Beta-thalassemia) |  | Study 3 (Sickle Cell Disease) |  | MDS Pool |
 | --- | --- | --- | --- | --- | --- |
-| Laboratory Parameter | Deferasirox N=296 n (%) | Deferoxamine N=290 n (%) | Deferasirox N=132 n (%) | Deferoxamine N=63 n (%) | Deferasirox N=627 n (%) |
+| Laboratory Parameter | Deferasirox N = 296 n (%) | Deferoxamine N = 290 n (%) | Deferasirox N = 132 n (%) | Deferoxamine N = 63 n (%) | Deferasirox N = 627 n (%) |
 | Serum Creatinine |  |  |  |  |  |
-| Creatinine increase >33% at 2 consecutive postbaseline visits | 113 (38) | 41 (14) | 48 (36) | 14 (22) | 229 (37) |
-| Creatinine increase >33% and >ULN at 2 consecutive postbaseline visits | 7 (2) | 1 (0) | 3 (2) | 2 (3) | 126 (20) |
+| Creatinine increase > 33% at 2 consecutive postbaseline visits | 113 (38) | 41 (14) | 48 (36) | 14 (22) | 229 (37) |
+| Creatinine increase > 33% and > ULN at 2 consecutive postbaseline visits | 7 (2) | 1 (0) | 3 (2) | 2 (3) | 126 (20) |
 | SGPT/ALT |  |  |  |  |  |
-| SGPT/ALT >5 x ULN at 2 postbaseline visits | 25 (8) | 7 (2) | 2 (2) | 0 | 9 (1) |
-| SGPT/ALT >5 x ULN at 2 consecutive postbaseline visits | 17 (6) | 5 (2) | 5 (4) | 0 | 5 (1) |
+| SGPT/ALT > 5 x ULN at 2 postbaseline visits | 25 (8) | 7 (2) | 2 (2) | 0 | 9 (1) |
+| SGPT/ALT > 5 x ULN at 2 consecutive postbaseline visits | 17 (6) | 5 (2) | 5 (4) | 0 | 5 (1) |
 
 Non-Transfusion-Dependent Thalassemia Syndromes
 
@@ -91,12 +91,12 @@ Table 3 displays adverse reactions occurring in greater than 5% in any group.
 The most frequent adverse reactions with a suspected relationship to study drug were nausea, rash, and diarrhea.
 
 Table 3.
-Adverse Reactions Occurring in >5% in NTDT Patients
+Adverse Reactions Occurring in > 5% in NTDT Patients
 
 |  | Study 4 |  | Study 5 |
 | --- | --- | --- | --- |
 |  | Deferasirox | Placebo | Deferasirox |
-|  | N=110 | N=56 | N=130 |
+|  | N = 110 | N = 56 | N = 130 |
 |  | n (%) | n (%) | n (%) |
 | Any adverse reaction | 31 (28) | 9 (16) | 27 (21) |
 | Nausea | 7 (6) | 4 (7) | 2 (2) |
@@ -114,10 +114,10 @@ Number (%) of NTDT Patients with Increases in Serum Creatinine or SGPT/ALT
 |  | Study 4 |  | Study 5 |
 | --- | --- | --- | --- |
 |  | Deferasirox | Placebo | Deferasirox |
-|  | N=110 | N=56 | N=130 |
+|  | N = 110 | N = 56 | N = 130 |
 | Laboratory Parameter | n (%) | n (%) | n (%) |
-| Serum creatinine (>33% increase from baseline and >ULN at ≥2 consecutive postbaseline values) | 3 (3) | 0 | 2 (2) |
-| SGPT/ALT (>5 x ULN and >2 x baseline) | 1 (1) | 1 (2) | 2 (2) |
+| Serum creatinine (> 33% increase from baseline and > ULN at ≥ 2 consecutive postbaseline values) | 3 (3) | 0 | 2 (2) |
+| SGPT/ALT (> 5 x ULN and > 2 x baseline) | 1 (1) | 1 (2) | 2 (2) |
 
 Proteinuria
 
@@ -127,7 +127,7 @@ Intermittent proteinuria (urine protein/creatinine ratio greater than 0.6 mg/mg)
 Other Adverse Reactions
 
 In the population of more than 5,000 patients with transfusional iron overload who have been treated with deferasirox during clinical trials, adverse reactions occurring in 0.1% to 1% of patients included gastritis, edema, sleep disorder, pigmentation disorder, dizziness, anxiety, maculopathy, cholelithiasis, pyrexia, fatigue, laryngeal pain, cataract, hearing loss, gastrointestinal hemorrhage, gastric ulcer (including multiple ulcers), duodenal ulcer, renal tubular disorder (Fanconi’s syndrome), and acute pancreatitis (with and without underlying biliary conditions).
-Adverse reactions occurring in 0.01% to 0.1% of patients included optic neuritis, esophagitis, and erythema multiforme.
+Adverse reactions occurring in 0.01% to 0.1% of patients included optic neuritis, esophagitis, erythema multiforme, and drug reaction with eosinophilia and systemic symptoms (DRESS).
 Adverse reactions which most frequently led to dose interruption or dose adjustment during clinical trials were rash, gastrointestinal disorders, infections, increased serum creatinine, and increased serum transaminases.
 
 ## 6.2 Postmarketing Experience
