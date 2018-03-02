@@ -42,7 +42,7 @@ Table 1 Adverse Reactions Reported in ≥2% of Patients Treated with JARDIANCE a
 | Arthralgia | 2.2% | 2.4% | 2.3% |
 | Male genital mycotic infectionsd | 0.4% | 3.1% | 1.6% |
 | Nausea | 1.4% | 2.3% | 1.1% |
-| a Predefined adverse event grouping, including, but not limited to, urinary tract infection, asymptomatic bacteriuria, cystitis |  |  |  |
+| aPredefined adverse event grouping, including, but not limited to, urinary tract infection, asymptomatic bacteriuria, cystitis |  |  |  |
 | bFemale genital mycotic infections include the following adverse reactions: vulvovaginal mycotic infection, vaginal infection, vulvitis, vulvovaginal candidiasis, genital infection, genital candidiasis, genital infection fungal, genitourinary tract infection, vulvovaginitis, cervicitis, urogenital infection fungal, vaginitis bacterial. Percentages calculated with the number of female subjects in each group as denominator: placebo (N=481), JARDIANCE 10 mg (N=443), JARDIANCE 25 mg (N=420). |  |  |  |
 | cPredefined adverse event grouping, including, but not limited to, polyuria, pollakiuria, and nocturia |  |  |  |
 | dMale genital mycotic infections include the following adverse reactions: balanoposthitis, balanitis, genital infections fungal, genitourinary tract infection, balanitis candida, scrotal abscess, penile infection. Percentages calculated with the number of male subjects in each group as denominator: placebo (N=514), JARDIANCE 10 mg (N=556), JARDIANCE 25 mg (N=557). |  |  |  |
