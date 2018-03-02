@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA207968"
+  ],
+  "inn": "deferasirox",
+  "labeler": "Catalent Germany Schorndorf GmbH",
+  "package_ndcs": [
+    "68621-0027-1",
+    "68621-0028-1",
+    "68621-0029-1"
+  ],
+  "products": [
+    {
+      "form": "GRANULE",
+      "generic": "deferasirox",
+      "name": "Jadenu"
+    }
+  ],
+  "setid": "87f79cd1-2799-478f-a591-85d20c44f207",
+  "source": "dailymed"
+}
