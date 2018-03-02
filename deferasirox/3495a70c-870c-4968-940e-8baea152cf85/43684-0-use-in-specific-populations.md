@@ -22,7 +22,7 @@ Because many drugs are excreted in human milk and because of the potential for s
 
 ## 8.4 Pediatric Use
 
-Of the 700 patients with transfusional iron overload who received Exjade during clinical studies, 292 were pediatric patients 2 to less than 16 years of age with various congenital and acquired anemias, including 52 patients age 2 to less than 6 years, 121 patients age 6 to less than 12 years and 119 patients age 12 to less than 16 years.
+Of the 700 patients with transfusional iron overload who received Exjade during clinical studies, 292 were pediatric patients age 2 to less than 16 years of age with various congenital and acquired anemias, including 52 patients age 2 to less than 6 years, 121 patients age 6 to less than 12 years and 119 patients age 12 to less than 16 years.
 Seventy percent of these patients had beta-thalassemia.
 Children between the ages of 2 to less than 6 years have a systemic exposure to Exjade approximately 50% of that of adults [see Clinical Pharmacology (12.3)].
 However, the safety and efficacy of Exjade in pediatric patients was similar to that of adult patients, and younger pediatric patients responded similarly to older pediatric patients.
@@ -31,7 +31,7 @@ The recommended starting dose and dosing modification are the same for children 
 Growth and development in patients with chronic iron overload due to blood transfusions were within normal limits in children followed for up to 5 years in clinical trials.
 
 Sixteen (16) pediatric patients (10 to less than 16 years of age) with chronic iron overload and NTDT were treated with Exjade in clinical studies.
-The safety and efficacy of Exjade in these children was similar to that seen in the adults.
+The safety and efficacy of Exjade in these children were similar to that seen in the adults.
 The recommended starting dose and dosing modification are the same for children and adults with chronic iron overload in NTDT [see Clinical Studies (14), Indications and Usage (1.2), Dosage and Administration (2.2)].
 
 Safety and effectiveness have not been established in pediatric patients with chronic iron overload due to blood transfusions who are less than 2 years of age or pediatric patients with chronic iron overload and NTDT who are less than 10 years of age.
@@ -39,7 +39,7 @@ Safety and effectiveness have not been established in pediatric patients with ch
 ## 8.5 Geriatric Use
 
 Four hundred thirty-one (431) patients greater than or equal to 65 years of age were studied in clinical trials of Exjade in the transfusional iron overload setting.
-The majority of these patients had myelodysplastic syndrome (MDS) (n=393).
+The majority of these patients had myelodysplastic syndrome (MDS) (n = 393).
 In these trials, elderly patients experienced a higher frequency of adverse reactions than younger patients.
 Monitor elderly patients for early signs or symptoms of adverse reactions that may require a dose adjustment.
 Elderly patients are at increased risk for toxicity due to the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
@@ -47,11 +47,11 @@ Dose selection for an elderly patient should be cautious, usually starting at th
 
 ## 8.6 Renal Impairment
 
-For patients with renal impairment (ClCr 40-60 mL/min), reduce the starting dose by 50% [see Dosage and Administration (2.4), Clinical Pharmacology (12.3)].
-Exjade is contraindicated in patients with a creatinine clearance less than 40 mL/min or serum creatinine greater than 2 times the age-appropriate ULN [see Contraindications (4)].
+For patients with renal impairment (CLCr 40-60 mL/min), reduce the starting dose by 50% [see Dosage and Administration (2.4), Clinical Pharmacology (12.3)].
+Exjade is contraindicated in patients with a CLCr less than 40 mL/min or serum creatinine greater than 2 times the age-appropriate ULN [see Contraindications (4)].
 
 Exjade can cause renal failure.
-Monitor serum creatinine and calculate creatinine clearance (using Cockcroft-Gault method) during treatment in all patients.
+Monitor serum creatinine and calculate CLCr (using Cockcroft-Gault method) during treatment in all patients.
 Reduce, interrupt or discontinue Exjade dosing based on increases in serum creatinine [see Dosage and Administration (2.4, 2.5), Warnings and Precautions (5.1)].
 
 ## 8.7 Hepatic Impairment

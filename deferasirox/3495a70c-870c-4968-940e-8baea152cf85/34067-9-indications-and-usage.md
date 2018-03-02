@@ -12,7 +12,7 @@ Exjade is indicated for the treatment of chronic iron overload in patients 10 ye
 This indication is based on achievement of an LIC less than 5 mg Fe/g dw [see Clinical Studies (14)].
 An improvement in survival or disease-related symptoms has not been established.
 
-## 1.3 Limitation of Use
+## 1.3 Limitations of Use
 
 Controlled clinical trials of Exjade with myelodysplastic syndromes (MDS) and chronic iron overload due to blood transfusions have not been performed [see Clinical Studies (14)].
 

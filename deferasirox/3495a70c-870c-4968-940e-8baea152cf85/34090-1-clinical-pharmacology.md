@@ -16,7 +16,7 @@ Iron excretion was predominantly fecal.
 
 Absorption
 
-Exjade is absorbed following oral administration with median times to maximum plasma concentration (tmax) of about 1.5-4 hours.
+Exjade is absorbed following oral administration with median times to maximum plasma concentration (Tmax) of about 1.5-4 hours.
 The Cmax and AUC of deferasirox increase approximately linearly with dose after both single administration and under steady-state conditions.
 Exposure to deferasirox increased by an accumulation factor of 1.3-2.3 after multiple doses.
 The absolute bioavailability (AUC) of deferasirox tablets for oral suspension is 70% compared to an intravenous dose.
@@ -72,7 +72,7 @@ Geriatric: The pharmacokinetics of deferasirox have not been studied in elderly 
 
 Gender: Females have a moderately lower apparent clearance (by 17.5%) for deferasirox compared to males.
 
-Renal Impairment: Compared to patients with MDS and ClCr greater than 60 mL/min, patients with MDS and ClCr 40 to 60 mL/min (n=34) had approximately 50% higher mean deferasirox trough plasma concentrations.
+Renal Impairment: Compared to patients with MDS and CLCr greater than 60 mL/min, patients with MDS and CLCr 40 to 60 mL/min (n = 34) had approximately 50% higher mean deferasirox trough plasma concentrations.
 
 ## 12.6 Cardiac Electrophysiology
 

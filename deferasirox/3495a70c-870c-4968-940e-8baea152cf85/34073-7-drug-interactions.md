@@ -1,6 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Aluminum Containing Antacid Preparations
+## 7.1 Aluminum-Containing Antacid Preparations
 
 The concomitant administration of Exjade and aluminum-containing antacid preparations has not been formally studied.
 Although deferasirox has a lower affinity for aluminum than for iron, avoid use of Exjade with aluminum-containing antacid preparations due to the mechanism of action of Exjade.

@@ -11,7 +11,7 @@ The primary efficacy endpoint was defined as a reduction in LIC of greater than 
 
 A total of 586 patients were randomized and treated, 296 with Exjade and 290 with deferoxamine.
 The mean age was 17.1 years (range, 2-53 years); 52% were females and 88% were Caucasian.
-The primary efficacy population consisted of 553 patients (Exjade n=276; deferoxamine n=277) who had LIC evaluated at baseline and 12 months or discontinued due to an adverse event.
+The primary efficacy population consisted of 553 patients (Exjade n = 276; deferoxamine n = 277) who had LIC evaluated at baseline and 12 months or discontinued due to an adverse event.
 The percentage of patients achieving the primary endpoint was 52.9% for Exjade and 66.4% for deferoxamine.
 The relative efficacy of Exjade to deferoxamine cannot be determined from this study.
 
@@ -24,7 +24,7 @@ Therefore, a starting dose of 20 mg per kg per day is recommended [see Dosage an
 Study 2 was an open-label, noncomparative trial of efficacy and safety of Exjade given for 1 year to patients with chronic anemias and transfusional hemosiderosis.
 Similar to Study 1, patients received 5, 10, 20, or 30 mg per kg per day of Exjade based on baseline LIC.
 
-A total of 184 patients were treated in this study: 85 patients with beta-thalassemia and 99 patients with other congenital or acquired anemias (myelodysplastic syndromes, n=47; Diamond-Blackfan syndrome, n=30; other, n=22).
+A total of 184 patients were treated in this study: 85 patients with beta-thalassemia and 99 patients with other congenital or acquired anemias (myelodysplastic syndromes, n = 47; Diamond-Blackfan syndrome, n = 30; other, n = 22).
 19% of patients were less than 16 years of age and 16% were greater than 65 years of age.
 There was a reduction in the absolute LIC from baseline to end of study (-4.2 mg Fe/g dry weight).
 
@@ -33,7 +33,7 @@ Patients were randomized to Exjade at doses of 5, 10, 20, or 30 mg per kg per da
 
 A total of 195 patients were treated in this study: 132 with Exjade and 63 with deferoxamine.
 44% of patients were less than 16 years of age and 91% were black.
-At end of study, the mean change in LIC (as measured by magnetic susceptometry by a superconducting quantum interference device) in the per protocol-1 (PP-1) population, which consisted of patients who had at least 1 post-baseline LIC assessment, was -1.3 mg Fe/g dry weight for patients receiving Exjade (n=113) and -0.7 mg Fe/g dry weight for patients receiving deferoxamine (n=54).
+At end of study, the mean change in LIC (as measured by magnetic susceptometry by a superconducting quantum interference device) in the per protocol-1 (PP-1) population, which consisted of patients who had at least 1 post-baseline LIC assessment, was -1.3 mg Fe/g dry weight for patients receiving Exjade (n = 113) and -0.7 mg Fe/g dry weight for patients receiving deferoxamine (n = 54).
 
 One-hundred five (105) patients with thalassemia major and cardiac iron overload were enrolled in a study assessing the change in cardiac MRI T2* value (measured in milliseconds, ms) before and after treatment with deferasirox.
 Cardiac T2* values at baseline ranged from 5 to less than 20 ms. The geometric mean of cardiac T2* in the 68 patients who completed 3 years of Exjade therapy increased from 11.98 ms at baseline to 17.12 ms at 3 years.
@@ -45,7 +45,7 @@ Planned duration of treatment in these trials ranged from 1 year (365 patients) 
 These trials evaluated the effects of Exjade therapy on parameters of iron overload, including LIC (125 patients) and serum ferritin (627 patients).
 Percent of patients completing planned duration of treatment was 51% in the largest 1 year study, 52% in the 3-year study and 22% in the 5 year study.
 The major causes for treatment discontinuation were withdrawal of consent, adverse reaction, and death.
-Over 1 year of follow-up across these pooled studies, mean change in serum ferritin was -332.8 (±2615.59) mcg/L (n=593) and mean change in LIC was -5.9 (±8.32) mg Fe/g dw (n=68).
+Over 1 year of follow-up across these pooled studies, mean change in serum ferritin was -332.8 (±2615.59) mcg/L (n = 593) and mean change in LIC was -5.9 (±8.32) mg Fe/g dw (n = 68).
 Results of these pooled studies in 627 patients with MDS suggest a progressive decrease in serum ferritin and LIC beyond 1 year in those patients who are able to continue Exjade.
 No controlled trials have been performed to demonstrate that these reductions improve morbidity or mortality in patients with MDS.
 Adverse reactions with Exjade therapy occur more frequently in older patients [see Use in Specific Populations (8.5)].
@@ -63,8 +63,8 @@ There were 17 pediatric patients in the study.
 Caucasians comprised 57% of the study population and Asians comprised 42%.
 The median baseline LIC (range) for all patients was 12.1 (2.6-49.1) mg Fe/g dw.
 Follow-up was for 1 year.
-The primary efficacy endpoint of change in LIC from baseline to Week 52 was statistically significant in favor of both Exjade dose groups compared with placebo (p ≤0.001) (Table 5).
-Furthermore, a statistically significant dose effect of Exjade was observed in favor of the 10 mg/kg/day dose group (10 versus 5 mg/kg/day, p=0.009).
+The primary efficacy endpoint of change in LIC from baseline to Week 52 was statistically significant in favor of both Exjade dose groups compared with placebo (p ≤ 0.001) (Table 5).
+Furthermore, a statistically significant dose effect of Exjade was observed in favor of the 10 mg/kg/day dose group (10 versus 5 mg/kg/day, p = 0.009).
 In a descriptive analysis, the target LIC (less than 5 mg Fe/g dw) was reached by 15 (27%) of 55 patients in the 10 mg/kg/day arm, 8 (15%) of 55 patients in the 5 mg/kg/day arm and 2 (4%) of 56 patients in the combined placebo groups.
 
 Table 5.
@@ -75,12 +75,12 @@ Absolute Change in LIC at Week 52 in NTDT Patients
 |  |  | Exjade | Exjade | Exjade |
 |  | Placebo | 5 mg/kg/day | 10 mg/kg/day | 20 mg/kg/day |
 | Study 42 |  |  |  |  |
-| Number of Patients | n=54 | n=51 | n=54 | - |
+| Number of Patients | n = 54 | n = 51 | n = 54 | - |
 | Mean LIC at Baseline (mg Fe/g dw) | 16.1 | 13.4 | 14.4 | - |
 | Mean Change (mg Fe/g dw) | +0.4 | -2.0 | -3.8 | - |
 | (95% Confidence Interval) | (-0.6, +1.3) | (-2.9, -1.0) | (-4.8, -2.9) | - |
 | Study 5 |  |  |  |  |
-| Number of Patients | - | n=8 | n=77 | n=43 |
+| Number of Patients | - | n = 8 | n = 77 | n = 43 |
 | Mean LIC at Baseline (mg Fe/g dw) | - | 5.6 | 8.8 | 23.5 |
 | Mean Change (mg Fe/g dw) | - | -1.5 | -2.8 | -9.1 |
 | (95% Confidence Interval) | - | (-3.7, +0.7) | (-3.4, -2.2) | (-11.0, -7.3) |

@@ -8,7 +8,7 @@ The evidence should include the transfusion of at least 100 mL/kg of packed red 
 Prior to starting therapy, obtain:
 
 - serum ferritin level
-- baseline serum creatinine in duplicate (due to variations in measurements) and determine the creatinine clearance (Cockcroft-Gault method) [see Dosage and Administration (2.4), Warnings and Precautions (5.1)]
+- baseline serum creatinine in duplicate (due to variations in measurements) and determine the CLCr (Cockcroft-Gault method) [see Dosage and Administration (2.4), Warnings and Precautions (5.1)]
 - serum transaminases and bilirubin [see Dosage and Administration (2.4), Warnings and Precautions (5.2)]
 - baseline auditory and ophthalmic examinations [see Warnings and Precautions (5.9)]
 
@@ -30,7 +30,7 @@ Prior to starting therapy, obtain:
 
 - LIC by liver biopsy or by an FDA-cleared or approved method for identifying patients for treatment with deferasirox therapy
 - Serum ferritin level on at least 2 measurements 1 month apart [see Clinical Studies (14)]
-- Baseline serum creatinine in duplicate (due to variations in measurements) and determine the creatinine clearance (Cockcroft-Gault method) [see Dosage and Administration (2.4), Warnings and Precautions (5.1)]
+- Baseline serum creatinine in duplicate (due to variations in measurements) and determine the CLCr (Cockcroft-Gault method) [see Dosage and Administration (2.4), Warnings and Precautions (5.1)]
 - Serum transaminases and bilirubin [see Dosage and Administration (2.4), Warnings and Precautions (5.2)]
 - Baseline auditory and ophthalmic examinations [see Warnings and Precautions (5.9)]
 
@@ -75,8 +75,8 @@ Severe (Child-Pugh C) hepatic impairment: Avoid Exjade [see Warnings and Precaut
 
 Patients with Baseline Renal Impairment
 
-For patients with renal impairment (ClCr 40–60 mL/min), reduce the starting dose by 50% [see Use in Specific Populations (8.6)].
-Do not use Exjade in patients with serum creatinine greater than 2 times the upper limit of normal (ULN) or creatinine clearance less than 40 mL/min [see Contraindications (4)].
+For patients with renal impairment (CLCr 40–60 mL/min), reduce the starting dose by 50% [see Use in Specific Populations (8.6)].
+Do not use Exjade in patients with serum creatinine greater than 2 times the upper limit of normal (ULN) or CLCr less than 40 mL/min [see Contraindications (4)].
 
 ## 2.5 Dose Modifications for Increases in Serum Creatinine on Exjade
 
@@ -94,7 +94,7 @@ Pediatric Patients (ages 2-15 years):
 
 All Patients (regardless of age):
 
-- Discontinue therapy for serum creatinine greater than 2 times the age-appropriate ULN or for creatinine clearance less than 40 mL/min [see Contraindications (4)].
+- Discontinue therapy for serum creatinine greater than 2 times the age-appropriate ULN or for CLCr less than 40 mL/min [see Contraindications (4)].
 
 Non-Transfusion-Dependent Thalassemia Syndromes
 
@@ -108,7 +108,7 @@ Pediatric Patients (ages 10-15 years):
 
 All Patients (regardless of age):
 
-- Discontinue therapy for serum creatinine greater than 2 times the age-appropriate ULN or for creatinine clearance less than 40 mL/min [see Contraindications (4)].
+- Discontinue therapy for serum creatinine greater than 2 times the age-appropriate ULN or for CLCr less than 40 mL/min [see Contraindications (4)].
 
 ## 2.6 Dose Modifications Based on Concomitant Medications
 

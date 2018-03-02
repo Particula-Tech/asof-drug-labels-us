@@ -2,7 +2,7 @@
 
 Exjade is contraindicated in patients with:
 
-- Serum creatinine greater than 2 times the age-appropriate ULN or creatinine clearance less than 40 mL/min [see Warning and Precautions (5.1)];
+- Serum creatinine greater than 2 times the age-appropriate ULN or CLCr less than 40 mL/min [see Warnings and Precautions (5.1)];
 - Poor performance status;
 - High-risk myelodysplastic syndromes;
 - Advanced malignancies;
