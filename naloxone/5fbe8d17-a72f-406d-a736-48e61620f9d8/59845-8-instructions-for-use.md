@@ -15,7 +15,7 @@ How to use EVZIO
 
 | Step 1. Pull EVZIO from the outer case. See Figure B. |  |  |
 | --- | --- | --- |
-| Do not not go to Step 2 (Do not remove the Red safety guard) until you are ready to use EVZIO. If you are not ready to use EVZIO, put it back in the outer case for later use. |  |  |
+| Do not go to Step 2 (Do not remove the Red safety guard) until you are ready to use EVZIO. If you are not ready to use EVZIO, put it back in the outer case for later use. |  |  |
 
 | Step 2. Pull off the Red safety guard. See Figure C. To reduce the chance of an accidental injection, do not touch the Black base of the auto-injector, which is where the needle comes out. |  |  |
 | --- | --- | --- |
@@ -25,7 +25,7 @@ How to use EVZIO
 | --- | --- | --- |
 | Note: EVZIO makes a distinct sound (click and hiss) when it is pressed against the thigh. This is normal and means that EVZIO is working correctly. Keep EVZIO firmly pressed on the thigh for 5 seconds after you hear the click and hiss sound. The needle will inject and then retract back up into the EVZIO auto-injector and is not visible after use. |  |  |
 
-| Step 4. After using EVZIO, get emergency medical help right away. If symptoms return after an injection with EVZIO, an additional injection using another EVZIO may be needed. Give additional injections using a new EVZIO auto-injector every 2 to 3 minutes and continue to closely watch the person until emergency help is received. EVZIO does not take the place of emergency medical care. EVZIO cannot be reused. After use, place the auto-injector back into its outer case. Do not replace the Red safety guard. |
+| Step 4. After using EVZIO, get emergency medical help right away. If symptoms return after an injection with EVZIO, an additional injection using another EVZIO auto-injector may be needed. Give additional injections using a new EVZIO auto-injector every 2 to 3 minutes and continue to closely watch the person until emergency help is received. EVZIO does not take the place of emergency medical care. EVZIO cannot be reused. After use, place the auto-injector back into its outer case. Do not replace the Red safety guard. |
 | --- |
 
 How to know that EVZIO has been used.
