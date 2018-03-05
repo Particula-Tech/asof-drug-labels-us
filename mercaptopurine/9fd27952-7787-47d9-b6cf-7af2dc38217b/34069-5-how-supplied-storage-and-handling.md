@@ -1,13 +1,14 @@
-# 16. HOW SUPPLIED/STORAGE AND HANDLING
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 ## 16.1 How Supplied
 
-PURIXAN (mercaptopurine) oral suspension 2000 mg/100 mL (20 mg/mL) is a pink to brown viscous liquid supplied in amber glass multiple-dose bottles with a child resistant closure.
+PURIXAN (mercaptopurine) oral suspension 2000 mg/100 mL (20 mg/mL) is a pink to brown viscous liquid supplied in amber glass multiple-dose bottles with a child-resistant cap.
 In addition, a press-in bottle adapter and two oral dispensing syringes (one 1 mL and one 5 mL) are provided.
 Each carton NDC 62484-0020-2 contains 1 bottle of PURIXAN NDC 62484-0020-1.
 
 ## 16.2 Storage and Handling
 
+- PURIXAN is packaged with a child-resistant cap.
 - Store PURIXAN between 59º to 77ºF (15º to 25ºC), in a dry place.
   Do not store above 25°C.
 - Store the oral dispensing syringe in a clean place, with the medicine.

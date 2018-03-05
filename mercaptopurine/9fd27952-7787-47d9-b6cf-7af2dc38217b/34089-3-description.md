@@ -1,4 +1,4 @@
-# 11. DESCRIPTION
+# 11 DESCRIPTION
 
 Mercaptopurine, a nucleoside metabolic inhibitor, known chemically as 1,7-dihydro-6H-purine-6-thione monohydrate, is an analogue of the purine bases adenine and hypoxanthine.
 Mercaptopurine is a yellow, odorless or practically odorless, crystalline powder with a molecular formula of C5H4N4S•H2O and a molecular weight of 170.20 as a monohydrate.

@@ -1,46 +1,51 @@
-# 2. DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
 ## 2.1 Maintenance Therapy
 
-The recommended starting dose of PURIXAN in multi-agent combination chemotherapy maintenance regimens is 1.5 to 2.5mg/kg (50 to 75 mg/m2) as a single daily dose.
-After initiating PURIXAN, continuation of appropriate dosing requires periodic monitoring of absolute neutrophil count (ANC) and platelet count to assure sufficient drug exposure (that is to maintain ANC at a desirable level) and to adjust for excessive hematological toxicity.
+The recommended starting dose of PURIXAN in multi-agent combination chemotherapy maintenance regimens is 1.5 to 2.5 mg/kg (50 to 75 mg/m2) as a single daily dose.
+After initiating PURIXAN, monitor complete blood counts (CBCs), transaminases, and bilirubin.
+Maintain ANC at a desirable level by reducing the dose in patients with excessive hematological toxicity.
+Evaluate the bone marrow in patients with prolonged or repeated marrow suppression to assess leukemia status and marrow cellularity.
+Evaluate thiopurine S-methyltransferase (TPMT) and nucleotide diphosphatase (NUDT15) status in patients with clinical or laboratory evidence of severe bone marrow toxicity, or repeated episodes of myelosuppression.
 
-## 2.2 Dosage in TPMT-deficient Patients
+## 2.2 Dosage in Patients with TPMT and/or NUDT15 Deficiency
 
-Patients with inherited little or no thiopurine S-methyltransferase (TPMT) activity are at increased risk for severe mercaptopurine toxicity from conventional doses of mercaptopurine and generally require dose reduction.
-Testing for TPMT gene polymorphism should be considered in patients who experience severe bone marrow toxicities [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.5)].
-Homozygous deficient patients may require up to a 90% dosage reduction (10% of the standard PURIXAN dose).
-Most patients with heterozygous TPMT deficiency tolerated recommended mercaptopurine doses, but some require dose reduction based on toxicities.
+Consider testing for TPMT and NUDT15 deficiency in patients who experience severe bone marrow toxicities or repeated episodes of myelosuppression [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.5)].
+Homozygous deficiency in either TPMT or NUDT15 Patients with homozygous deficiency of either enzyme typically require 10% or less of the standard PURIXAN dosage.
+Reduce initial dosage in patients who are known to have homozygous TPMT or NUDT15 deficiency.
+Heterozygous deficiency in TPMT and/or NUDT15 Reduce the PURIXAN dosage based on tolerability.
+Most patients with heterozygous TPMT or NUDT15 deficiency tolerate recommended mercaptopurine doses, but some require dose reduction based on toxicities.
+Patients who are heterozygous for both TPMT and NUDT15 may require more substantial dosage reductions.
 
 ## 2.3 Administration Instructions
 
 Prior to initiation of PURIXAN and on each visit to the clinic, train patients or caregivers on proper handling, storage, administration, disposal and clean-up of accidental spillage of the medication.
 Since PURIXAN is supplied with 1 mL and 5 mL oral dispensing syringes, provide appropriate instructions regarding which syringe to use and how to administer a specified dose.
-The bottle should be shaken vigorously for at least 30 seconds to ensure the oral suspension is well mixed.
+Prior to dispensing, shake the bottle vigorously for at least 30 seconds to ensure the oral suspension is well mixed.
 PURIXAN is a pink to brown viscous oral suspension.
 Once opened, PURIXAN should be used within 8 weeks.
 A press-in bottle adapter and two oral dispensing syringes (one 1 mL and one 5 mL) are provided.
 The oral dispensing syringe is intended for multiple use: wash the oral dispensing syringe with warm ‘soapy’ water and rinse well; hold the oral dispensing syringe under water and move the plunger up and down several times to make sure the inside of the oral dispensing syringe is clean; ensure the oral dispensing syringe is completely dry before use of the oral dispensing syringe again for dosing; and store the oral dispensing syringe in a hygienic place with the medicine.
-Instruct patients to minimize sun exposure due to risk of photosensitivity.
 PURIXAN is a cytotoxic drug.
 Follow special handling and disposal procedures.1
 
-## 3. DOSAGE FORMS AND STRENGTHS
+## 3 DOSAGE FORMS AND STRENGTHS
 
 Oral Suspension: 2000 mg/100 mL (20 mg/mL) - pink to brown in color.
 
-## 4. CONTRAINDICATIONS
+## 4 CONTRAINDICATIONS
 
 - None.
 
-## 5. WARNINGS AND PRECAUTIONS
+## 5 WARNINGS AND PRECAUTIONS
 
 ## 5.1 Myelosuppression
 
 The most consistent, dose-related toxicity of PURIXAN is bone marrow suppression, manifested by anemia, leukopenia, thrombocytopenia, or any combination of these.
 Monitor CBC and adjust the dose of PURIXAN for severe neutropenia and thrombocytopenia.
-Evaluate patients with repeated severe myelosuppression for thiopurine S-methyltransferase (TPMT) deficiency.
-Patients with homozygous-TPMT deficiency require substantial dose reductions of PURIXAN [see Dosage and Administration (2.1), and Clinical Pharmacology (12.5)].
+Evaluate patients with repeated severe myelosuppression for thiopurine S-methyltransferase (TPMT) or nucleotide diphosphatase (NUDT15) deficiency.
+TPMT genotyping or phenotyping (red blood cell TPMT activity) and NUDT15 genotyping can identify patients who have reduced activity of these enzymes.
+Patients with homozygous-TPMT or NUDT15 deficiency require substantial dosage reductions of PURIXAN [see Dosage and Administration (2.2), and Clinical Pharmacology (12.5)].
 Avoid the concurrent use of allopurinol and PURIXAN.
 Concomitant allopurinol and PURIXAN can result in a significant increase in bone marrow toxicity.
 Myelosuppression can be exacerbated by coadministration with drugs that inhibit TPMT (e.g., olsalazine, mesalamine, or sulfasalazine) or drugs whose primary or secondary toxicity is myelosuppression [see Drug Interactions (7.1, 7.3 and 7.4)].
@@ -90,13 +95,7 @@ Macrophage activation syndrome (MAS) (hemophagocytic lymphohistiocytosis) is a k
 If MAS occurs, or is suspected, discontinue mercaptopurine.
 Monitor for and promptly treat infections such as EBV and cytomegalovirus (CMV), as these are known triggers for MAS.
 
-## 5.7 Laboratory Tests
-
-Monitor the following laboratory tests in patients receiving PURIXAN: Complete blood counts (CBCs), transaminases, and bilirubin.
-Evaluate the bone marrow in patients with prolonged or repeated marrow suppression to assess leukemia status and marrow cellularity.
-Evaluate TPMT status in patients with clinical or laboratory evidence of severe bone marrow toxicity, or repeated episodes of myelosuppression.
-
-## 6. ADVERSE REACTIONS
+## 6 ADVERSE REACTIONS
 
 The following serious adverse reactions are described elsewhere in the prescribing information:
 
@@ -112,7 +111,7 @@ The following serious adverse reactions are described elsewhere in the prescribi
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 Based on multicenter cooperative group ALL trials, the most common adverse reaction occurring in > 20% of patients is mylelosuppression including anemia, neutropenia, lymphopenia and thrombocytopenia.
 Adverse reactions occurring 5 to 20 % include anorexia, nausea, vomiting, diarrhea, malaise, and rash.
-Adverse reactions occurring in < 5 % of patients include urticaria, hyperuricemia, oral lesions, elevated transaminases, hyperbilirubinemia, hyperpigmentation, and pancreatitis.
+Adverse reactions occurring in < 5 % of patients include urticaria, hyperuricemia, oral lesions, elevated transaminases, hyperbilirubinemia, hyperpigmentation, infections, and pancreatitis.
 Oral lesions resemble thrush rather than antifolic ulcerations.
 Delayed or late toxicities include hepatic fibrosis, hyperbilirubinemia, alopecia, pulmonary fibrosis, oligospermia and secondary malignancies.
 [see Warnings and Precautions (5.1 and 5.2)].
@@ -125,7 +124,7 @@ The following adverse reactions have been identified during post-approval use of
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 These reactions include: photosensitivity, hypoglycemia, portal hypertension and pancreatitis.
 
-## 7. DRUG INTERACTIONS
+## 7 DRUG INTERACTIONS
 
 ## 7.1 Allopurinol
 
@@ -149,11 +148,9 @@ Monitor CBC and adjust the dose of PURIXAN for severe neutropenia and thrombocyt
 Concurrent use of PURIXAN and aminosalicylate derivatives (e.g., olsalazine, mesalamine, or sulfasalazine) may inhibit the TPMT enzyme, resulting in an increased risk of bone marrow suppression.
 Should aminosalicylate derivatives and PURIXAN be coadministered, use the lowest possible doses of each drug and closely monitor the patient for bone marrow suppression [see Warnings and Precautions (5.1)].
 
-## 8. USE IN SPECIFIC POPULATIONS
+## 8 USE IN SPECIFIC POPULATIONS
 
 ## 8.1 Pregnancy
-
-Pregnancy Category D [see Warnings and Precautions (5.4)].
 
 Risk Summary PURIXAN can cause fetal harm when administered to a pregnant woman.
 Women receiving PURIXAN have an increased incidence of abortion and stillbirth.

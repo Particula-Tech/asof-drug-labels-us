@@ -30,7 +30,7 @@ Before you use PURIXAN oral suspension for the first time:
 | 9. | Pull back slowly on the plunger of the oral dispensing syringe to withdraw the prescribed dose of PURIXAN. Pull the plunger back to the mL mark of the syringe that corresponds to the dose prescribed (Figure F). If you are not sure about how much medicine to draw into the oral dispensing syringe, always ask your doctor, pharmacist or nurse for advice. |  |
 | 10. | Leave the oral dispensing syringe in the bottle adapter and turn the bottle right-side up. Place the bottle onto a flat surface. Hold the oral dispensing syringe by the barrel and carefully remove it from the adapter. Do not hold the oral dispensing syringe by the plunger, because the plunger may come out. |  |
 | 11. | Place the tip of the oral dispensing syringe in your mouth and aim the tip toward the inside of your cheek. |  |
-| 12. | Gently squirt the PURIXAN oral suspension into your mouth by pushing on the plunger until the oral dispensing syringe is empty. Swallow the medicine Do not forcefully push on the plunger. Do not squirt the medicine to the back of your mouth or throat. This may cause you to choke. |  |
+| 12. | Gently squirt the PURIXAN oral suspension into your mouth by pushing on the plunger until the oral dispensing syringe is empty. Swallow the medicine. Do not forcefully push on the plunger. Do not squirt the medicine to the back of your mouth or throat. This may cause you to choke. |  |
 | 13. | Remove the oral dispensing syringe from your mouth. |  |
 | 14. | Swallow the dose of oral suspension then drink some water, making sure no medicine is left in your mouth. |  |
 | 15. | Put the cap back on the bottle with the adapter left in place. Close the cap tightly. |  |
@@ -44,6 +44,7 @@ Inactive ingredients: xanthan gum, aspartame, concentrated raspberry juice, sucr
 
 How should I store PURIXAN oral suspension?
 
+- PURIXAN comes in a bottle with a child-resistant cap.
 - Store PURIXAN between 59ºF to 77ºF (15ºC to 25ºC), in a dry place.
   Do not store above 25°C.
 - Store the oral dispensing syringe in a clean place, with the medicine.
@@ -55,17 +56,17 @@ How should I store PURIXAN oral suspension?
   If a child accidentally takes PURIXAN, it could cause death.
   Ask your pharmacist how to dispose of (throw away) PURIXAN that is no longer needed.
 
-How should I dispose of Purixan?
+How should I dispose of PURIXAN?
 
-- Ask your pharmacist how to dispose of Purixan that is expired or no longer required.
+- Ask your pharmacist how to dispose of PURIXAN that is expired or no longer required.
   Medicines should not be disposed of via wastewater or household waste.
 
-How do I clean up spillage of Purixan?
+How do I clean up spillage of PURIXAN?
 Use appropriate personal protective equipment (disposable gloves and eye protection).
 Mop up and contain spill material in a compatible container.
 Wash your hands thoroughly afterwards.
 
-What do I do if Purixan came into contact with skin, eyes, or clothes?
+What do I do if PURIXAN came into contact with skin, eyes, or clothes?
 
 - Remove and launder contaminated clothing.
 - Wash skin or eyes immediately with water.
@@ -78,4 +79,4 @@ This Instructions for Use has been approved by the U.S. Food and Drug Administra
 Manufactured by: Nova Laboratories Ltd, Leicester, LE18 4YL, United Kingdom Manufactured for: Rare Disease Therapeutics, Inc., 2550 Meridian Blvd.
 Suite 150, Franklin, TN 37067
 
-Part Number: D000764/1 Revised: May 2017
+Part Number: D000901/1 Revised: February 2018

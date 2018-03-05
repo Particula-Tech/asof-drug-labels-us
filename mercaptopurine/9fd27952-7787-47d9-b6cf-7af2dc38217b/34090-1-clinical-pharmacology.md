@@ -1,4 +1,4 @@
-# 12. CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
 ## 12.1 Mechanism of Action
 
@@ -28,16 +28,11 @@ In one subject, a total of 46% of the dose could be accounted for in the urine (
 
 ## 12.5 Pharmacogenomics
 
-TPMT enzyme activity is highly variable in patients because of a genetic polymorphism in the TPMT gene.
-For Caucasians and African Americans, approximately 0.3% (1:300) of patients have two non-functional alleles (homozygous-deficient) of the TPMT gene and have little or no detectable TMPT activity.
-Approximately 10% of patients have one TPMT non-functional allele (heterozygous) leading to low or intermediate TPMT activity and 90% of patients have normal TPMT activity with two functional alleles.
-Homozygous-deficient patients with little or no detectable TPMT activity, if given usual doses of mercaptopurine, accumulate excessive cellular concentrations of active 6-TGNs predisposing them to mercaptopurine toxicity.
-Heterozygous patients with low or intermediate TPMT activity accumulate higher concentrations of active 6-TGNs than patients with normal TPMT activity and are more likely to experience mercaptopurine toxicity [see Warnings and Precautions (5.1)].
-TPMT genotyping or phenotyping (red blood cell TPMT activity) can identify patients who are homozygous deficient or have low or intermediate TPMT activity.
-
-TPMT Testing Genotypic and phenotypic testing of TPMT status are available.
-Genotypic testing can determine the allelic pattern of a patient.
-Currently, 3 alleles—TPMT*2, TPMT*3A and TPMT*3C— account for about 95% of individuals with reduced levels of TPMT activity.
-Individuals homozygous for these alleles are TPMT deficient and those heterozygous for these alleles have variable TPMT (low or intermediate) activity.
-Phenotypic testing determines the level of thiopurine nucleotides or TPMT activity in erythrocytes and can also be informative.
-Caution must be used with phenotyping since some coadministered drugs can influence measurement of TPMT activity in blood, and recent blood transfusions will misrepresent a patient’s actual TPMT activity.
+Several published studies indicate that patients with reduced TPMT or NUDT15 activity receiving usual doses of mercaptopurine, accumulate excessive cellular concentrations of active 6-TGNs, and are at higher risk for severe myelosuppression [see Warnings and Precautions (5.1)].
+In a study of 1028 children with ALL, the approximate tolerated mercaptopurine dosage range for patients with TPMT and/or NUDT15 deficiency on mercaptopurine maintenance therapy (as a percentage of the planned dosage) was as follows: heterozygous for either TPMT or NUDT15, 50-90%; heterozygous for both TPMT and NUDT15, 30-50%; homozygous for either TPMT or NUDT15, 5-10%.
+Approximately 0.3% (1:300) of patients of European or African ancestry have two loss-of-function alleles of the TPMT gene and have little or no TMPT activity (homozygous deficient or poor metabolizers), and approximately 10% of patients have one loss-of-function TPMT allele leading to intermediate TPMT activity (heterozygous deficient or intermediate metabolizers).
+The TPMT*2, TPMT*3A, and TPMT*3C alleles account for about 95% of individuals with reduced levels of TPMT activity.
+NUDT15 deficiency is detected in <1% of patients of European or African ancestry.
+Among patients of East Asian ancestry (i.e., Chinese, Japanese, Vietnamese), 2% have two loss-of-function alleles of the NUDT15 gene, and approximately 21% have one loss-of-function allele.
+The p.R139C variant of NUDT15 (present on the *2 and *3 alleles) is the most commonly observed, but other less common loss-of-function NUDT15 alleles have been observed.
+Consider all clinical information when interpreting results from phenotypic testing used to determine the level of thiopurine nucleotides or TPMT activity in erythrocytes, since some coadministered drugs can influence measurement of TPMT activity in blood, and blood from recent transfusions will misrepresent a patient’s actual TPMT activity [see Dosage and Administration (2.2) and see Warnings and Precautions (5.1)].
