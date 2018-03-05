@@ -1,8 +1,8 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Norditropin is available preloaded in the Norditropin FlexPro pens:
+NORDITROPINinjection is a clear and colorless solution available as follows:
 
-- •5 mg/1.5 mL (orange): Norditropin FlexPro pen
-- •10 mg/1.5 mL (blue): Norditropin FlexPro pen
-- •15 mg/1.5 mL (green): Norditropin FlexPro pen
-- •30 mg/3 mL (purple): Norditropin FlexPro pen
+- •5 mg in 1.5 mL (orange): NORDITROPINFlexPro pen
+- •10 mg in 1.5 mL (blue): NORDITROPIN FlexPro pen
+- •15 mg in 1.5 mL (green): NORDITROPIN FlexPro pen
+- •30 mg in 3 mL (purple): NORDITROPIN FlexPro pen

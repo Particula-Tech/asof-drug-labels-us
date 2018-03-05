@@ -4,91 +4,101 @@ NORDITROPIN® (Nor-dee-tro-pin)
 
 (somatropin) injection for subcutaneous use
 
-What is Norditropin?
+What is NORDITROPIN?
 
-Norditropin is a prescription medicine that contains human growth hormone, the same growth hormone made by the human body.
+NORDITROPIN is a prescription medicine that contains human growth hormone, the same growth hormone made by the human body.
 
-Norditropin is given by injection under the skin (subcutaneous) and is used to treat:
+NORDITROPIN is given by injection under the skin (subcutaneous) and is used to treat:
 
-- •children who are not growing because of low or no growth hormone
-- •children who are short (in stature) and who have Noonan syndrome or Turner syndrome
-- •children who are short (in stature) because they were born small (small for gestational age-SGA) and have not caught-up in growth by age 2 to 4 years
-- •adults who did not make enough growth hormone when they were children or when they became adults
+- •children who are not growing because of low or no growth hormone.
+- •children who are short (in stature) and who have Noonan syndrome, Turner syndrome, or were born small (small for gestational age-SGA) and have not caught-up in growth by age 2 to 4 years.
+- •children who have Idiopathic Short Stature (ISS).
+- •children who are not growing who have Prader-Willi syndrome (PWS).
+- •adults who do not make enough growth hormone.
 
-Do not use Norditropin if:
+Do not use NORDITROPIN if:
 
-- •you have a critical illness caused by certain types of heart or stomach surgery, trauma or breathing (respiratory) problems
-- •you are a child with Prader-Willi syndrome who is severely obese or has breathing problems including sleep apnea
-- •you have cancer or other tumors
-- •your healthcare provider tells you that you have certain types of eye problems caused by diabetes
-- •you are a child with closed bone growth plates (epiphyses)
-- •you are allergic to somatropin or any of the ingredients in Norditropin.
-  See the end of this leaflet for a complete list of ingredients in Norditropin.
+- •you have a critical illness caused by certain types of heart or stomach surgery, trauma or breathing (respiratory) problems.
+- •you are a child with Prader-Willi syndrome who is severely obese or has breathing problems including sleep apnea (briefly stop breathing during sleep).
+- •you have cancer or other tumors.
+- •you are allergic to somatropin or any of the ingredients in NORDITROPIN.
+  See the end of this leaflet for a complete list of ingredients in NORDITROPIN.
+- •your healthcare provider tells you that you have certain types of eye problems caused by diabetes (diabetic retinopathy).
+- •you are a child with closed bone growth plates (epiphyses).
 
-Before taking Norditropin, tell your healthcare provider about all of your medical conditions, including if you:
+Before taking NORDITROPIN, tell your healthcare provider about all of your medical conditions, including if you:
 
-- •have diabetes
-- •had cancer or any tumor
-- •have any other medical conditions
+- •have had heart or stomach surgery, trauma or serious breathing (respiratory) problems.
+- •have had a history of problems breathing while you sleep (sleep apnea).
+- •have or have had cancer or any tumor.
+- •have diabetes.
 - •are pregnant or plan to become pregnant.
-  It is not known if Norditropin will harm your unborn baby.
-  Talk to your doctor if you are pregnant or plan to become pregnant.
+  It is not known if NORDITROPIN will harm your unborn baby.
+  Talk to your healthcare provider if you are pregnant or plan to become pregnant.
 - •are breastfeeding or plan to breastfeed.
-  It is not known if Norditropin passes into your breast milk.
-  You and your healthcare provider should decide if you will take Norditropin while you breastfeed.
+  It is not known if NORDITROPIN passes into your breast milk.
+  You and your healthcare provider should decide if you will take NORDITROPIN while you breastfeed.
 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
+NORDITROPIN may affect how other medicines work, and other medicines may affect how NORDITROPIN works.
 
-Norditropin may affect how other medicines work, and other medicines may affect how Norditropin works.
+How should I use NORDITROPIN?
 
-How should I use Norditropin?
-
-- •Read the detailed Instructions for Use that come with Norditropin.
-- •Norditropin comes in 4 different dosage strengths.
+- •Read the detailed Instructions for Use that come with NORDITROPIN.
+- •NORDITROPIN comes in 4 different dosage strengths.
   Your healthcare provider will prescribe the dose that is right for you.
-- •Your healthcare provider will show you how to inject Norditropin.
-- •Use Norditropin exactly as your healthcare provider tells you to.
-- •Norditropin FlexPro pens are for use for 1 person only.
-- •Do not share your Norditropin pen and needles with another person.
+- •Your healthcare provider will show you how to inject NORDITROPIN.
+- •Use NORDITROPIN exactly as your healthcare provider tells you to.
+- •NORDITROPIN FlexPro pens are for use by 1 person only.
+- •Do not share your NORDITROPIN pens and needles with another person, even if the needle has been changed.
   You may give another person an infection or get an infection from them.
 
-What are the possible side effects of Norditropin?
+What are the possible side effects of NORDITROPIN?
 
-Norditropin may cause serious side effects, including:
+NORDITROPIN may cause serious side effects, including:
 
-- •high risk of death in people who have critical illnesses because of heart or stomach surgery, trauma or serious breathing (respiratory) problems
-- •high risk of death in children with Prader-Willi syndrome who are severely obese or have breathing problems, including sleep apnea
-- •return of tumor or cancerous growths
-- •high blood sugar (hyperglycemia)
+- •high risk of death in people who have critical illnesses because of heart or stomach surgery, trauma or serious breathing (respiratory) problems.
+- •high risk of sudden death in children with Prader-Willi syndrome who are severely obese or have breathing problems, including sleep apnea.
+- •increased risk of growth of cancer or a tumor that is already present and increased risk of the return of cancer or a tumor in people who were treated with radiation to the brain or head as children and who developed low growth hormone problems.
+  Your or your child’s healthcare provider will need to monitor you or your child for a return of cancer or a tumor.
+  Contact the healthcare provider if you or your child starts to have headaches, or have changes in behavior, changes in vision, or changes in moles, birthmarks, or the color of your skin.
+- •new or worsening high blood sugar (hyperglycemia) or diabetes.
+  Your or your child’s blood sugar may need to be monitored during treatment with NORDITROPIN.
 - •increase in pressure in the skull (intracranial hypertension).
-  If you have headaches, eye problems, nausea or vomiting, swollen hands and feet due to fluid retention contact your healthcare provider right away.
+  If you or your child has headaches, eye problems, nausea or vomiting, contact the healthcare provider.
 - •serious allergic reactions.
-  Get medical help right away if you have the following symptoms:
-- •swelling of your face, lips, mouth, or tongue
-- •trouble breathing
-- •wheezing
-- •severe itching
-- •skin rashes, redness, or swelling
-- •dizziness or fainting
-- •fast heartbeat or pounding in your chest
-- •sweating
+  Get medical help right away if you or your child has the following symptoms:
+  - oswelling of your face, lips, mouth, or tongue
+  - otrouble breathing
+  - owheezing
+  - osevere itching
+  - oskin rashes, redness, or swelling
+  - odizziness or fainting
+  - ofast heartbeat or pounding in your chest
+  - osweating
+- •your body holding too much fluid (fluid retention) such as swelling in the hands and feet, pain in your joints or muscles or nerve problems that cause pain, burning or tingling in the hands, arms, legs and feet.
+  Fluid retention can happen in adults during treatment with NORDITROPIN.
+  Tell your healthcare provider if you have any of these signs or symptoms of fluid retention.
 - •decrease in a hormone called cortisol.
-  Your healthcare provider will do blood tests to check your cortisol levels.
+  The healthcare provider will do blood tests to check your or your child’s cortisol levels.
+  Tell your or your child’s healthcare provider if you or your child has darkening of the skin, severe fatigue, dizziness, weakness, or weight loss.
 - •decrease in thyroid hormone levels.
-  Your healthcare provider will do blood tests to check your thyroid hormone levels.
+  Decreased thyroid hormone levels may affect how well NORDITROPIN works.
+  The healthcare provider will do blood tests to check your or your child’s thyroid hormone levels.
 - •hip and knee pain or a limp in children (slipped capital femoral epiphysis)
 - •worsening of curvature of the spine (scoliosis)
-- •middle ear infection, hearing problems or ear problems in people with Turner syndrome, redness, itching and tissue weakness in the area of skin you inject
+- •severe and constant abdominal pain.
+  This could be a sign of pancreatitis.
+  Tell your or your child’s healthcare provider if you or your child has any new abdominal pain.
+- •loss of fat and tissue weakness in the area of skin you inject.
+  Talk to your healthcare provider about rotating the areas where you inject NORDITROPIN.
 - •increase in phosphorus, alkaline phosphatase and parathyroid hormone levels in your blood.
-  Your healthcare provider will do blood tests to check this.
+  Your or your child’s healthcare provider will do blood tests to check this.
 
-The most common side effects of Norditropin include:
+The most common side effects of NORDITROPIN include:
 
+- •injection site reactions and rashes
 - •headaches
-- •muscle pain
-- •joint stiffness
-- •high blood sugar (hyperglycemia)
-- •sugar in your urine (glucosuria)
 
 These are not all the possible side effects of NORDITROPIN.
 
@@ -96,21 +106,21 @@ Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 You may also report side effects to Novo Nordisk at 1-888-668-6444.
 
-How should I store Norditropin?
+How should I store NORDITROPIN?
 
-- •Before you use Norditropin FlexPro pens for the first time:
-- •Store your new, unused Norditropin pen in a refrigerator between 36ºF to 46ºF (2ºC to 8ºC).
-- •Do not freeze or expose Norditropin to heat.
-- •Keep Norditropin away from direct light.
-- •Do not use Norditropin that has been frozen or in temperatures warmer than 77ºF (25ºC).
-- •Do not use Norditropin after the expiration date printed on the carton and the pen.
-- •After you use Norditropin FlexPro pens and there is still medicine left:
-- •Store remaining Norditropin in the refrigerator between 36ºF to 46ºF (2ºC to 8ºC) and use within 4 weeks, or
-- •Store remaining Norditropin at room temperature no warmer than 77ºF (25ºC) and use within 3 weeks.
+- •Before you use NORDITROPIN FlexPro pens for the first time:
+- •Store your new, unused NORDITROPIN pen in a refrigerator between 36ºF to 46ºF (2ºC to 8ºC).
+- •Do not freeze NORDITROPIN.
+- •Keep NORDITROPIN away from direct light.
+- •Do not use NORDITROPIN that has been frozen or in temperatures warmer than 77ºF (25ºC).
+- •Do not use NORDITROPIN after the expiration date printed on the carton and the pen.
+- •After you use NORDITROPIN FlexPro pens and there is still medicine left:
+- •Store remaining NORDITROPIN in the refrigerator between 36ºF to 46ºF (2ºC to 8ºC) and use within 4 weeks, or
+- •Store remaining NORDITROPIN at room temperature no warmer than 77ºF (25ºC) and use within 3 weeks.
 
-Keep Norditropin and all medicines out of the reach of children.
+Keep NORDITROPIN and all medicines out of the reach of children.
 
-General information about the safe and effective use of Norditropin.
+General information about the safe and effective use of NORDITROPIN.
 
 Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
 Do not use NORDITROPIN for a condition for which it was not prescribed.
@@ -118,7 +128,7 @@ Do not give NORDITROPIN to other people, even if they have the same symptoms tha
 It may harm them.
 You can ask your pharmacist or healthcare provider for information about NORDITROPIN that is written for health professionals.
 
-What are the ingredients in Norditropin?
+What are the ingredients in NORDITROPIN?
 
 Active ingredient: somatropin
 
@@ -130,9 +140,9 @@ Novo Nordisk A/S
 
 DK-2880 Bagsvaerd, Denmark
 
-This Patient Information has been approved by the U.S.Food and Drug Administration
+This Patient Information has been approved by the U.S.Food and Drug Administration.
 
-Revised: 08/2017
+Revised: 02/2018
 
 INSTRUCTIONS FOR USE
 
@@ -504,13 +514,13 @@ Figure H
 Step 3.
 Priming a new Pen.
 
-- •Checking the growth hormone flow in the pen (priming) is not needed for a Pen you have used before.
-  If the Pen has already been primed, go to Step 4.
-- •Before you use a new Pen you must first prepare it for use.
-  Hold the Pen with one hand and turn the dose selector clockwise to select 0.05 mg.
-  You will hear a faint click when you turn the dose selector.
-  This is the smallest amount of medicine for a dose.
-  See Figure I.
+1. 14.1Checking the growth hormone flow in the pen (priming) is not needed for a Pen you have used before.
+   If the Pen has already been primed, go to Step 4.
+2. 14.2Before you use a new Pen you must first prepare it for use.
+   Hold the Pen with one hand and turn the dose selector clockwise to select 0.05 mg.
+   You will hear a faint click when you turn the dose selector.
+   This is the smallest amount of medicine for a dose.
+   See Figure I.
 
 Figure I
 
@@ -614,11 +624,11 @@ Figure O
   Put your used needles and Pen in a FDA-cleared sharps disposal container right away after use.
   Do not throw away (dispose of) loose needles and Pens in your household trash.
 - •If you do not have a FDA-cleared sharps disposal container, you may use a household container that is:
-  - made of a heavy-duty plastic,
-  - can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
-  - upright and stable during use,
-  - leak-resistant, and
-  - properly labeled to warn of hazardous waste inside the container.
+  - omade of a heavy-duty plastic,
+  - ocan be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
+  - oupright and stable during use,
+  - oleak-resistant, and
+  - oproperly labeled to warn of hazardous waste inside the container.
 - •When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
   There may be state or local laws about how you should throw away used needles and Pens.
   For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA’s website at: http://www.fda.gov/safesharpsdisposal.
@@ -750,13 +760,13 @@ Attaching the needle to the Norditropin FlexPro Pen.
 
 Figure E
 
-- •Holding the Pen with one hand, firmly press the needle onto the needle thread of the Pen.
-- •Screw the needle in a clockwise direction until the needle will not turn anymore.
+- oHolding the Pen with one hand, firmly press the needle onto the needle thread of the Pen.
+- oScrew the needle in a clockwise direction until the needle will not turn anymore.
   See Figure F.
 
 Figure F
 
-- •Pull off the outer needle cap.
+- oPull off the outer needle cap.
   See Figure G.
 
 Figure G
@@ -788,8 +798,8 @@ Figure I
 
 Figure J
 
-- •Press the dose button until the “0” in the display window lines up with the pointer and a drop of liquid appears at the needle tip.
-  See Figure K.
+1. 1.Press the dose button until the “0” in the display window lines up with the pointer and a drop of liquid appears at the needle tip.
+   See Figure K.
 
 Figure K
 
@@ -882,11 +892,11 @@ Figure O
   Put your used needles and Pen in a FDA-cleared sharps disposal container right away after use.
   Do not throw away (dispose of) loose needles and Pens in your household trash.
 - •If you do not have a FDA-cleared sharps disposal container, you may use a household container that is:
-  - made of a heavy-duty plastic,
-  - can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
-  - upright and stable during use,
-  - leak-resistant, and
-  - properly labeled to warn of hazardous waste inside the container.
+  - omade of a heavy-duty plastic,
+  - ocan be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
+  - oupright and stable during use,
+  - oleak-resistant, and
+  - oproperly labeled to warn of hazardous waste inside the container.
 - •When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
   There may be state or local laws about how you should throw away used needles and Pens.
   For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA’s website at: http://www.fda.gov/safesharpsdisposal.
@@ -939,39 +949,40 @@ Denmark
 
 Revised: 08/2017
 
-| Supplies you will need: • Norditropin FlexPro prefilled Pen • Novo Nordisk disposable needles up to a length of 8 mm • a sharps container |  |
+| Norditropin®FlexPro®(Nor-dee-tro-pin)(somatropin) injection30 mg/3mLInstructionsfor use |  |
 | --- | --- |
+| Supplies you will need: • Norditropin FlexPro prefilled Pen • Novo Nordisk disposable needles up to a length of 8 mm • a sharps container |  |
 | How to use your Norditropin FlexPro Pen |  |
 | 5 steps you should follow for a Norditropin injection: Step 1: Prepare your Norditropin FlexPro Pen Step 2: Check the Norditropin flow with each new Pen Step 3: Select your dose Step 4: Inject your dose Step 5: After your injection For further information about your Pen: Frequently Asked Questions Important information Patient Information |  |
 | Norditropin is for use under the skin only (subcutaneous). |  |
 | Do not share your Norditropin Pen and needles with another person. You may give another person an infection or get an infection from them. Do not use your Pen without proper training from your healthcare provider. Make sure that you are confident in making an injection with the Pen before you start your treatment. If you are blind or have poor eyesight and cannot read the dose counter on the Pen, do not use this Pen without help. Get help from a person with good eyesight who is trained to use the Pen. |  |
 | Step 1. Prepare your Norditropin FlexPro Pen |  |
-| • Wash your hands with soap and water. •Check the name, strength, and colored label on your Pen to make sure that it contains Norditropin in the right strength. • Pull off the Pen cap. • Turn the Pen upside down once or twice to check that the Norditropin in your Pen is clear and colorless. See figure A. If the Norditropin looks cloudy, do not use the Pen. |  |
+| • Wash your hands with soap and water. • Check the name, strength, and colored label on your Pen to make sure that it contains Norditropin in the right strength. • Pull off the Pen cap. • Turn the Pen upside down once or twice to check that the Norditropin in your Pen is clear and colorless. See figure A. If the Norditropin looks cloudy, do not use the Pen. |  |
 | • When you are ready to take your injection, take a new disposable needle, and tear off the paper tab. • Push the needle straight onto the Pen. Turn the needle clockwise until it is on tight. See figure B. |  |
 | Always use a new needle for each injection. This reduces the risk of contamination, infection, leakage of Norditropin, and blocked needles leading to incorrect dosing. |  |
 | • Pull off the outer needle cap and dispose of it. See figure C. |  |
 | • Pull off the inner needle cap and dispose of it. See figure D. A drop of Norditropin may appear at the needle tip. This is normal, but you must still check the Norditropin flow with each new Pen. See step 2. |  |
 | Never use a bent or damaged needle. |  |
 | Step 2. Check the Norditropin flow with each new Pen |  |
-| If your Pen is already in use, proceed to step 3. Before using a new Pen, check the Norditropin flow to make sure the growth hormone can flow through the Pen and needle. • Turn the dose selector clockwise one tick mark to select 0.1 mg. You will hear a faint click. See figure E. |  |
+| If your Pen is already in use, proceed to step 3.Before using a new Pen, check the Norditropin flow to make sure the growth hormone can flow through the Pen and needle. •Turn the dose selector clockwise one tick mark to select 0.1 mg. You will hear a faint click. See figure E. |  |
 | •One tick mark equals 0.1 mg in the dose counter. See figure F. |  |
-| • Hold the Pen with the needle pointing up. Press and hold in the dose button until the dose counter returns to 0. The 0 must line up with the dose pointer. See figure G. |  |
-| • Check that a drop of Norditropin appears at the needle tip. See figure H.If no Norditropin appears, repeat step 2 up to 6 times.If you still do not see a drop of Norditropin, change the needle and repeat step 2 again.Do not use the Pen if a drop of Norditropin still does not appear after repeating step 2. Call Novo Nordisk at 1-888-668-6444 for help. |  |
+| •Hold the Pen with the needle pointing up. Press and hold in the dose button until the dose counter returns to 0. The 0 must line up with the dose pointer. See figure G. |  |
+| •Check that a drop of Norditropin appears at the needle tip. See figure H. If no Norditropin appears, repeat step 2 up to 6 times.If you still do not see a drop of Norditropin, change the needle and repeat step 2 again.Do not use the Pen if a drop of Norditropin still does not appear after repeating step 2. Call Novo Nordisk at 1-888-668-6444 for help. |  |
 | Step 3. Select your dose |  |
-| • To start, check that the dose counter is set at 0. • Turn the dose selector clockwise to select the dose you need. See figure I. When you have selected your dose, you can proceed to step 4.If there is not enough Norditropin left to select a full dose, see Frequently Asked Questions. |  |
+| •To start, check that the dose counter is set at 0.•Turn the dose selector clockwise to select the dose you need. See figure I. When you have selected your dose, you can proceed to step 4. If there is not enough Norditropin left to select a full dose, see Frequently Asked Questions. |  |
 | The dose counter shows the dose in mg. See figures J and K. Always use the dose counter to select the exact dose. Do not count the Pen clicks. Do not use the Pen scale. |  |
 | If you select the wrong dose, you can turn the dose selector clockwise or counterclockwise to the correct dose. See figure L. The Pen clicks sound and feel differently when the dose selector is turned clockwise, counterclockwise, or if you accidentally force it past the number of mg left. |  |
 | Step 4. Inject your dose |  |
-| • Norditropin can be injected under the skin (subcutaneously) of your hips, stomach area (abdomen), buttocks, upper legs (thighs), upper arms, or as otherwise instructed by your healthcare provider. Change the injection site every day. • Insert the needle into your skin as your healthcare provider has shown you. See figure M. Make sure you can see the dose counter. Do not cover it with your fingers. This could block the injection. |  |
-| • Press and hold down the dose button until the dose counter shows 0. See figure N. The 0 must line up with the dose pointer. You may then hear or feel a click. •Continue to hold the needle in your skin. If 0 does not appear in the dose counter after continuously pressing the dose button, your needle may be blocked or damaged, see Frequently Asked Questions. |  |
+| •Norditropin can be injected under the skin (subcutaneously) of your hips, stomach area (abdomen), buttocks, upper legs (thighs), upper arms, or as otherwise instructed by your healthcare provider. Change the injection site every day.•Insert the needle into your skin as your healthcare provider has shown you. See figure M. Make sure you can see the dose counter. Do not cover it with your fingers. This could block the injection. |  |
+| •Press and hold down the dose button until the dose counter shows 0. See figure N. The 0 must line up with the dose pointer. You may then hear or feel a click. •Continue to hold the needle in your skin. •If 0 does not appear in the dose counter after continuously pressing the dose button, your needle may be blocked or damaged, see Frequently Asked Questions. |  |
 | •Keep the needle in your skin after the dose counter has returned to 0. Count slowly to 6 to ensure that the full dose has been delivered. See figure O. |  |
-| • Carefully remove the needle from your skin. See figure P. If blood appears at the injection site, press lightly. Do not rub the area. You may see a drop of Norditropin at the needle tip after injecting. This is normal and does not affect your dose. |  |
+| •Carefully remove the needle from your skin. See figure P. If blood appears at the injection site, press lightly. Do not rub the area. You may see a drop of Norditropin at the needle tip after injecting. This is normal and does not affect your dose. |  |
 | Step 5. After your injection |  |
-| • Carefully remove the needle from the Pen by turning counterclockwise. See figure Q. |  |
-| • Place the needle in a sharps container immediately to reduce the risk of needle sticks. See figure R. |  |
+| •Carefully remove the needle from the Pen by turning counterclockwise. See figure Q. |  |
+| •Place the needle in a sharps container immediately to reduce the risk of needle sticks. See figure R. |  |
 | Do not try to put the needle caps back on. You may stick yourself with the needle. |  |
 | •Put the Pen cap on your Pen after each use to protect the Norditropin from direct light. See figure S. To store your Pen, see the Patient Information section. |  |
-| Always dispose of the needle after each injection. Put the needle and any empty or discarded Pen still containing Norditropin in an FDA-cleared sharps disposal container. See figure T. For further information about safe sharps disposal, see Frequently Asked Questions. |  |
+| •Always dispose of the needle after each injection. Put the needle and any empty or discarded Pen still containing Norditropin in an FDA-cleared sharps disposal container. See figure T. For further information about safe sharps disposal, see Frequently Asked Questions. |  |
 | Always remove the needle from your Pen. This reduces the risk of contamination, infection, leakage of Norditropin, and blocked needles leading to incorrect dosing. |  |
 | Frequently Asked QuestionsHow do I see how much Norditropin is left in my Pen? |  |
 | The Pen scale shows you approximately how much Norditropin is left in your Pen. See figure U below. |  |
@@ -985,7 +996,7 @@ Revised: 08/2017
 | How do I clean my Pen?Do not wash, soak, or lubricate your Pen. If necessary, clean it with mild detergent on a moistened cloth. |  |
 | How do I dispose of needles and Pens?Empty Pens should be disposed of as directed below. Put your used needles and Pen in an FDA-cleared sharps disposal container right away after use. Do not dispose of loose needles and Pens in your household trash. If you do not have an FDA-cleared sharps disposal container, you may use a household container that is: made of a heavy-duty plastic, can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out, upright and stable during use, leak-resistant, and properly labeled to warn of hazardous waste inside the container.Follow your community guidelines on how to dispose of your sharps disposal container. There may be state or local laws about how you should dispose of used needles and Pens. For specific information about safe sharps disposal in the state that you live in, go to the FDA’s website at: http://www.fda.gov/safesharpsdisposal. Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this.Do not recycle your used sharps disposal container. |  |
 | Important information |  |
-| • Caregivers must be very careful when handling needles – to reduce the risk of needle sticks and cross-infection. • Always keep your Pen and needles out of reach of others, especially children. • Norditropin ® FlexPro ® 30 mg/3 mL Pen is not compatible with FlexPro ® PenMate ®. • To store your Pen, see How do I store Norditropin in the Patient Information. |  |
+| •Caregivers must be very careful when handling needles – to reduce the risk of needle sticks and cross-infection.•Always keep your Pen and needles out of reach of others, especially children. •Norditropin® FlexPro® 30 mg/3 mL Pen is not compatible with FlexPro® PenMate®.•To store your Pen, see How do I store Norditropin in the Patient Information. |  |
 | [Patient Information] |  |
 | www.novotraining.com/flexpro30/us01 |  |
 | This Instructions for Use has been approved by the U.S. Food and Drug Administration.PATENT Information: http://novonordisk-us.com/patients/products/product-patents.htmlNorditropin® and FlexPro® are registered trademarks of Novo Nordisk Health Care AG.Novo Nordisk® and PenMate® are registered trademarks of Novo Nordisk A/S.© 2004-2017 Novo Nordisk Health Care AGFor further information contact:Novo Nordisk Inc.800 Scudders Mill RoadPlainsboro, NJ 08536, USA1-888-668-6444norditropin-us.comManufactured by:Novo Nordisk A/SDK-2880 BagsvaerdDenmarkRevised 08/2017 |  |
@@ -1333,11 +1344,11 @@ How should I dispose of my Pen and needles?
 - •Put your used needles and Pens in a FDA-cleared sharps disposal container right away after use.
   Do not throw away (dispose of) loose needles and Pens in your household trash.
 - •If you do not have a FDA-cleared sharps disposal container, you may use a household container that is:
-  - omade of a heavy-duty plastic,
-  - ocan be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
-  - oupright and stable during use,
-  - oleak-resistant, and
-  - oproperly labeled to warn of hazardous waste inside the container.
+  - 1.made of a heavy-duty plastic,
+  - 2.can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
+  - 3.upright and stable during use,
+  - 4.leak-resistant, and
+  - 5.properly labeled to warn of hazardous waste inside the container.
 - •When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
   There may be state or local laws about how you should throw away used needles and Pens.
   For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA’s website at: www.fda.gov/safesharpsdisposal.

@@ -1,30 +1,23 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Inhibition of 11ß-Hydroxysteroid Dehydrogenase Type 1 (11ßHSD-1)
+Table 2 includes a list of drugs with clinically important drug interactions when administered concomitantly with NORDITROPINand instructions for preventing or managing them.
 
-The microsomal enzyme 11ß-hydroxysteroid dehydrogenase type 1 (11βHSD-1) is required for conversion of cortisone to its active metabolite, cortisol, in hepatic and adipose tissue.
-GH and somatropin inhibit 11βHSD-1.
-Consequently, individuals with untreated GHD have relative increases in 11βHSD-1 and serum cortisol.
-Introduction of somatropin treatment may result in inhibition of 11βHSD-1 and reduced serum cortisol concentrations.
-As a consequence, previously undiagnosed central (secondary) hypoadrenalism may be unmasked and glucocorticoid replacement may be required in patients treated with somatropin.
-In addition, patients treated with glucocorticoid replacement for previously diagnosed hypoadrenalism may require an increase in their maintenance or stress doses following initiation of somatropin treatment; this may be especially true for patients treated with cortisone acetate and prednisone since conversion of these drugs to their biologically active metabolites is dependent on the activity of 11ßHSD-1 [see Warnings and Precautions (5.8)].
+Table 2: Clinically Important Drug Interactions with NORDITROPIN
 
-## 7.2 Pharmacologic Glucocorticoid Therapy and Supraphysiologic Glucocorticoid Treatment
-
-Pharmacologic glucocorticoid therapy and supraphysiologic glucocorticoid treatment may attenuate the growth promoting effects of somatropin in children.
-Therefore, glucocorticoid replacement dosing should be carefully adjusted in children receiving concomitant somatropin and glucocorticoid treatments to avoid both hypoadrenalism and an inhibitory effect on growth.
-
-## 7.3 Cytochrome P450-Metabolized Drugs
-
-Limited published data indicate that somatropin treatment increases cytochrome P450 (CYP450)- mediated antipyrine clearance in man.
-These data suggest that somatropin administration may alter the clearance of compounds known to be metabolized by CYP450 liver enzymes (e.g., corticosteroids, sex steroids, anticonvulsants, cyclosporine).
-Careful monitoring is advisable when somatropin is administered in combination with other drugs known to be metabolized by CYP450 liver enzymes.
-However, formal drug interaction studies have not been conducted.
-
-## 7.4 Oral Estrogen
-
-Because oral estrogens may reduce the serum IGF-1 response to somatropin treatment, girls and women receiving oral estrogen replacement may require greater somatropin dosages [see Dosage and Administration (2.2)].
-
-## 7.5 Insulin and/or Oral/Injectable Hypoglycemic Agents
-
-In patients with diabetes mellitus requiring drug therapy, the dose of insulin and/or oral/injectable agent may require adjustment when somatropin therapy is initiated [see Warnings and Precautions (5.4)].
+| Glucocorticoids |  |
+| --- | --- |
+| Clinical Impact: | Microsomal enzyme 11β-hydroxysteroid dehydrogenase type 1 (11βHSD-1) is required for conversion of cortisone to its active metabolite, cortisol, in hepatic and adipose tissue. NORDITROPINinhibits 11βHSD-1. Consequently, individuals with untreated GH deficiency have relative increases in 11βHSD-1 and serum cortisol. Initiation of NORDITROPINmay result in inhibition of 11βHSD-1 and reduced serum cortisol concentrations. |
+| Intervention: | Patients treated with glucocorticoid replacement for hypoadrenalism may require an increase in their maintenance or stress doses following initiation of NORDITROPIN [see Warnings and Precautions (5.8)]. |
+| Examples: | Cortisone acetate and prednisone may be effected more than others since conversion of these drugs to their biologically active metabolites is dependent on the activity of 11βHSD-1. |
+| Pharmacologic Glucocorticoid Therapy and Supraphysiologic Glucocorticoid Treatment |  |
+| Clinical Impact: | Pharmacologic glucocorticoid therapy and supraphysiologic glucocorticoid treatment may attenuate the growth promoting effects of NORDITROPINin pediatric patients. |
+| Intervention: | Carefully adjust glucocorticoid replacement dosing in pediatric patients receiving glucocorticoid treatments to avoid both hypoadrenalism and an inhibitory effect on growth. |
+| Cytochrome P450-Metabolized Drugs |  |
+| Clinical Impact: | Limited published data indicate that somatropin treatment increases cytochrome P450 (CP450)-mediated antipyrine clearance. NORDITROPINmay alter the clearance of compounds known to be metabolized by CP450 liver enzymes. |
+| Intervention: | Careful monitoring is advisable when NORDITROPINis administered in combination with drugs metabolized by CP450 liver enzymes. |
+| Oral Estrogen |  |
+| Clinical Impact: | Oral estrogens may reduce the serum IGF-1 response to NORDITROPIN. |
+| Intervention: | Patients receiving oral estrogen replacement may require greater NORDITROPINdosages [see Dosage and Administration (2.3)]. |
+| Insulin and/or Other Hypoglycemic Agents |  |
+| Clinical Impact: | Treatment with NORDITROPINmay decrease insulin sensitivity, particularly at higher doses. |
+| Intervention: | Patients with diabetes mellitus may require adjustment of their doses of insulin and/or other hypoglycemic agents [see Warnings and Precautions (5.4)]. |
