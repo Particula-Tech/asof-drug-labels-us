@@ -22,13 +22,13 @@ Tablets must be swallowed whole.
 
 AstraZeneca
 
-1362339
+3936000
 
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 5 mg/1000 mg
 
-30 Tablets
+60 Tablets
 
-NDC 0310-6260-30
+NDC 0310-6260-60
 
 xigduo®XR
 
@@ -48,7 +48,7 @@ Tablets must be swallowed whole.
 
 AstraZeneca
 
-1362340
+3936100
 
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 10 mg/500 mg
 
@@ -74,7 +74,7 @@ Tablets must be swallowed whole.
 
 AstraZeneca
 
-1362342
+3936200
 
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 10 mg/1000 mg
 
@@ -100,7 +100,7 @@ Tablets must be swallowed whole.
 
 AstraZeneca
 
-1362376
+3936300
 
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 2.5 mg/1000 mg
 
@@ -125,3 +125,5 @@ Do not crush, cut, or chew tablets.
 Tablets must be swallowed whole.
 
 AstraZeneca
+
+3941800

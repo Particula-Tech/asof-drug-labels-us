@@ -18,7 +18,7 @@ Assess renal function before initiating XIGDUO XR therapy and periodically there
 
 XIGDUO XR is contraindicated in patients with an estimated glomerular filtration rate (eGFR) below 60 mL/min/1.73 m2 [see Contraindications (4), Warnings and Precautions(5.1, 5.4), Adverse Reactions (6.1), and Use in Specific Populations (8.6)].
 
-No dose adjustment for XIGDUO XR is needed in patients with mild renal impairment (eGFR of 60 mL/min/1.73 m2 or greater).
+No dose adjustment for XIGDUO XR is needed in patients with mild renal impairment (eGFR of 60 mL/min/1.73m2 or greater).
 
 ## 2.3 Discontinuation for Iodinated Contrast Imaging Procedures
 

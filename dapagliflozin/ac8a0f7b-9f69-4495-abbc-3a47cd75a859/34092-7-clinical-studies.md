@@ -22,9 +22,8 @@ Dapagliflozin 10 mg as monotherapy also provided statistically significant impro
 
 Table 11: Results at Week 24 (LCOFLOCF: last observation (prior to rescue for rescued patients) carried forward.) in an Active-Controlled Study of Dapagliflozin Initial Combination Therapy with Metformin XR
 
-| Efficacy Parameter | Dapagliflozin 10 mg + Metformin XR | Dapagliflozin 10 mg | Metformin XR |
+| Efficacy Parameter | Dapagliflozin 10 mg + Metformin XR N=211All randomized patients who took at least one dose of double-blind study medication during the short-term double-blind period. | Dapagliflozin 10 mg N=219 | Metformin XR N=208 |
 | --- | --- | --- | --- |
-|  | N=211All randomized patients who took at least one dose of double-blind study medication during the short-term double-blind period. | N=219 | N=208 |
 | HbA1c (%) |  |  |  |
 | Baseline (mean) | 9.1 | 9.0 | 9.0 |
 | Change from baseline (adjusted meanLeast squares mean adjusted for baseline value.) | −2.0 | −1.5 | −1.4 |
@@ -50,9 +49,8 @@ The combination treatment of dapagliflozin 5 mg plus metformin XR provided stati
 
 Table 12: Results at Week 24 (LOCFLOCF: last observation (prior to rescue for rescued patients) carried forward.) in an Active-Controlled Study of Dapagliflozin Initial Combination Therapy with Metformin XR
 
-| Efficacy Parameter | Dapagliflozin 5 mg + Metformin XR | Dapagliflozin 5 mg | Metformin XR |
+| Efficacy Parameter | Dapagliflozin 5 mg + Metformin XR N=194All randomized patients who took at least one dose of double-blind study medication during the short-term double-blind period. | Dapagliflozin 5 mg N=203 | Metformin XR N=201 |
 | --- | --- | --- | --- |
-|  | N=194All randomized patients who took at least one dose of double-blind study medication during the short-term double-blind period. | N=203 | N=201 |
 | HbA1c (%) |  |  |  |
 | Baseline (mean) | 9.2 | 9.1 | 9.1 |
 | Change from baseline (adjusted meanLeast squares mean adjusted for baseline value.) | −2.1 | −1.2 | −1.4 |
