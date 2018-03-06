@@ -3,7 +3,7 @@
 One PROBUPHINE implant kit consists of four individually packaged sterile implants and one individually packaged sterile disposable applicator.
 Each implant is 26 mm in length and 2.5 mm in diameter and contains 74.2 mg of buprenorphine (equivalent to 80 mg of buprenorphine hydrochloride).
 
-One applicator kit consist of one sterile, single patient use, disposable PROBUPHINE applicator.
+One applicator kit consists of one sterile, single patient use, disposable PROBUPHINE applicator.
 
 Store PROBUPHINE at 20 to 25°C (68 to 77°F); excursions permitted at 15 to 30°C (59-86°F) [see USP Controlled Room Temperature].
 

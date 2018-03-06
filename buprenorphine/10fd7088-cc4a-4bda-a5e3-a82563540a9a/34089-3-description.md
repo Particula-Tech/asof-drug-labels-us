@@ -5,9 +5,6 @@ It is 26 mm in length and 2.5 mm in diameter.
 Each implant contains 74.2 mg buprenorphine (equivalent to 80 mg buprenorphine hydrochloride) and ethylene vinyl acetate (EVA).
 PROBUPHINE is designed to be implanted subdermally by a trained medical professional and to provide sustained delivery of buprenorphine for up to six months.
 
-| PROBUPHINE implant (not to scale) |
-| --- |
-
 The drug substance used is buprenorphine hydrochloride (HCl), an opioid partial agonist.
 Chemically, buprenorphine HCl is 6,14-Ethenomorphinan-7-methanol, 17-(cyclopropylmethyl)-a- (1,1-dimethylethyl)-4,5-epoxy-18,19-dihydro-3-hydroxy-6-methoxy-a-methyl, hydrochloride,[5a,7a(S)].
 It has the following chemical structure:

@@ -4,7 +4,7 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Instruct patients to read the Medication Guide each time PROBUPHINE is implanted because new information may be available.
 
-Risks Relating to the Insertion and Removal Procedure [see Warnings and Precautions (5.1)], Accidental Overdose, Misuse and Abuse If an Implant Comes Out or Protrudes from the Skin [see Warnings and Precautions (5.3, 5.7)].
+Risks Relating to the Insertion and Removal Procedure [see Warnings and Precautions (5.1)], Accidental Overdose, Misuse and Abuse if an Implant Comes Out or Protrudes from the Skin [see Warnings and Precautions (5.3)].
 
 - Inform patients that there are risks associated with the insertion and removal of PROBUPHINE, including:
   - –Migration with potential for embolism or nerve damage
@@ -36,39 +36,39 @@ Risks Relating to the Insertion and Removal Procedure [see Warnings and Precauti
 
 Interaction with Benzodiazepines and other CNS Depressants
 
-Warn patients that it is extremely dangerous to self-administer non-prescribed benzodiazepines or other CNS depressants (including alcohol) while taking PROBUPHINE.
-Patients prescribed benzodiazepines or other CNS depressants should be cautioned to use them only as directed by their healthcare providers [see Warnings and Precautions (5.5), Drug Interactions (7.3)].
+Inform patients and caregivers that potentially fatal additive effects may occur if PROBUPHINE is used with benzodiazepines or other CNS depressants, including alcohol, and not to use these concomitantly unless supervised by a health care provider.
+[see Warnings and Precautions (5.5), Drug Interactions (7)].
 
 Serotonin Syndrome
 
 Inform patients that PROBUPHINE could cause a rare but potentially life-threatening condition resulting from concomitant administration of serotonergic drugs.
 Warn patients of the symptoms of serotonin syndrome and to seek medical attention right away if symptoms develop.
-Instruct patients to inform their physicians if they are taking, or plan to take serotonergic medications [see Drug Interactions 7.4].
+Instruct patients to inform their physicians if they are taking, or plan to take serotonergic medications [see Drug Interactions 7].
 
 Adrenal Insufficiency
 
 Inform patients that PROBUPHINE could cause adrenal insufficiency, a potentially life-threatening condition.
 Adrenal insufficiency may present with non-specific symptoms and signs such as nausea, vomiting, anorexia, fatigue, weakness, dizziness, and low blood pressure.
-Advise patients to seek medical attention if they experience a constellation of these symptoms [see Warnings and Precautions (5.6)].
+Advise patients to seek medical attention if they experience a constellation of these symptoms [see Warnings and Precautions (5.7)].
 
 Anaphylaxis
 
 Inform patients that anaphylaxis has been reported with ingredients contained in PROBUPHINE.
-Advise patients how to recognize such a reaction and when to seek medical attention [see Warnings and Precautions (5.10)].
+Advise patients how to recognize such a reaction and when to seek medical attention [see Warnings and Precautions (5.11)].
 
 Driving or Operating Heavy Machinery
 
 Caution patients that PROBUPHINE may impair the mental or physical abilities required for the performance of potentially dangerous tasks such as driving or operating hazardous machinery.
 
-Instruct patients not to drive or operate hazardous machinery until they are reasonably certain that PROBUPHINE therapy does not adversely affect their ability to engage in such activities [see Warnings and Precautions (5.14)].
+Instruct patients not to drive or operate hazardous machinery until they are reasonably certain that PROBUPHINE therapy does not adversely affect their ability to engage in such activities [see Warnings and Precautions (5.15)].
 
 Dependence and Withdrawal
 
-Inform patients that PROBUPHINE can cause drug dependence and that withdrawal signs and symptoms may occur when the medication is discontinued [see Warnings and Precautions (5.8)].
+Inform patients that PROBUPHINE can cause drug dependence and that withdrawal signs and symptoms may occur when the medication is discontinued [see Warnings and Precautions (5.9)].
 
 Orthostatic Hypotension
 
-Inform patients that, like other opioids, PROBUPHINE may produce orthostatic hypotension in ambulatory individuals [see Warnings and Precautions (5.15)].
+Inform patients that, like other opioids, PROBUPHINE may produce orthostatic hypotension in ambulatory individuals [see Warnings and Precautions (5.16)].
 
 Drug Interactions
 
@@ -78,7 +78,7 @@ Pregnancy
 
 Neonatal Opioid Withdrawal Syndrome
 
-Advise women that if they are pregnant while being treated with PROBUPHINE, the baby may have signs of withdrawal at birth and that withdrawal is treatable [see Warnings and Precautions (5.5), Use in Specific Populations (8.1)].
+Advise women that if they are pregnant while being treated with PROBUPHINE, the baby may have signs of withdrawal at birth and that withdrawal is treatable [see Warnings and Precautions (5.6), Use in Specific Populations (8.1)].
 
 Embryo Fetal Toxicity
 
@@ -97,7 +97,7 @@ It is not known whether these effects on fertility are reversible [see Adverse R
 
 Emergency Analgesia
 
-Advise patients to instruct their family members to, in the event of emergency, inform the treating physician or emergency room staff that the patient is physically dependent on an opioid and that the patient is being treated with PROBUPHINE [see Warnings and Precautions (5.12)].
+Advise patients to instruct their family members to, in the event of emergency, inform the treating physician or emergency room staff that the patient is physically dependent on an opioid and that the patient is being treated with PROBUPHINE [see Warnings and Precautions (5.13)].
 
 PROBUPHINE REMS Program
 

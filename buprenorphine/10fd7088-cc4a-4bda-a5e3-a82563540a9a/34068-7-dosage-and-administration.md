@@ -3,9 +3,9 @@
 ## 2.1. Drug Addiction Treatment Act
 
 Under the Drug Addiction Treatment Act (DATA) codified at 21 United States Code (U.S.C.)
-823(g), use of this product in the treatment of opioid dependence is limited to physicians who meet certain qualifying requirements, and who have notified the Secretary of Health and Human Services (HHS) of their intent to prescribe or dispense this product for the treatment of opioid dependence and have been assigned a unique identification number that must be included on every prescription.
+823(g), use of this product in the treatment of opioid dependence is limited to healthcare providers who meet certain qualifying requirements, and who have notified the Secretary of Health and Human Services (HHS) of their intent to prescribe or dispense this product for the treatment of opioid dependence and have been assigned a unique identification number that must be included on every prescription.
 
-## 2.2. General Instructions
+## 2.2. Important Dosage and Administration Information
 
 PROBUPHINE implants should be used only in patients who are opioid tolerant.
 
@@ -23,7 +23,7 @@ Neither re-insertion into previously-used administration sites, nor into sites o
 
 ## 2.3. Healthcare Provider Training
 
-All Healthcare Providers who intend to prescribe PROBUPHINE must successfully complete a live training program [see PROBUPHINE REMS (5.2)].
+All Healthcare Providers who intend to prescribe PROBUPHINE must successfully complete a live training program [see Warnings and Precautions (5.2)].
 
 All Healthcare Providers performing insertions and/or removals of PROBUPHINE must successfully complete a live training program, and demonstrate procedural competency prior to inserting or removing the implants.
 
@@ -31,7 +31,7 @@ Information concerning the insertion and removal procedures can be obtained by c
 The basis for successful use and subsequent removal of PROBUPHINE is a correct and carefully-performed subdermal insertion of the four implants in accordance with the instructions.
 
 As a prerequisite for participating in the live training program leading to certification, the Healthcare Provider must have performed at least one qualifying surgical procedure in the last 3 months.
-Qualifying procedures are those performed under local anesthesia using aseptic technique, and include, at a minimum, making skin incisions, or placing sutures [see PROBUPHINE REMS (5.2)].
+Qualifying procedures are those performed under local anesthesia using aseptic technique, and include, at a minimum, making skin incisions, or placing sutures [see Warnings and Precautions (5.2)].
 
 ## 2.4. Patient Selection
 
@@ -40,7 +40,7 @@ PROBUPHINE implants are only for use in patients who meet ALL of the following c
 - Achieved and sustained prolonged clinical stability on transmucosal buprenorphine
 - Are currently on a maintenance dose of 8 mg per day or less of a Subutex or Suboxone sublingual tablet or its transmucosal buprenorphine product equivalent (the dose of transmucosal buprenorphine providing blood levels comparable or lower than the level provided by PROBUPHINE)
   - Patients should not be tapered to a lower dose for the sole purpose of transitioning to PROBUPHINE
-- Stable transmucosal buprenorphine dose (of 8 mg per day or less of a sublingual Subutex or Suboxone sublingual tablet or its transmucosal buprenorphine product equivalent) for three months or longer without any need for supplemental dosing or adjustments
+- Stable transmucosal buprenorphine dose (of 8 mg per day or less of a sublingual Subutex tablet or Suboxone sublingual tablet or its transmucosal buprenorphine product equivalent) for three months or longer without any need for supplemental dosing or adjustments
 
 Examples of acceptable doses of transmucosal buprenorphine include:
 
@@ -175,7 +175,8 @@ While applying counter- traction to the skin, insert only the tip of the applica
 
 | Figure 5 | Figure 6 |
 | --- | --- |
-| Figure 7 |  |
+
+Figure 7
 
 Step 14.
 Lower the applicator to a horizontal position, lift the skin up with the tip of the applicator but keep the cannula in the subdermal connective tissue (Figure 6).
@@ -218,7 +219,7 @@ By palpating both ends of the implant, you should be able to confirm the presenc
 If you cannot feel each of the four implants, or are in doubt of their presence, use other methods to confirm the presence of the implant.
 Suitable methods to locate are: Ultrasound with a high frequency linear array transducer (10 MHz or greater) or Magnetic Resonance Imaging (MRI).
 Please note that the PROBUPHINE implants are not radiopaque and cannot be seen by X-ray or CT scan.
-If ultrasound and MRI fail, call 1-844-859-6341.
+If ultrasound and MRI fail, call 1-844-859- 6341.
 
 Figure 13
 
@@ -277,7 +278,8 @@ Preparation
 Before removal of PROBUPHINE, confirm that:
 
 - The patient does not have allergies to the antiseptic or the anesthetic to be used.
-  Implants Should be Removed Under Aseptic Conditions.
+
+Implants Should be Removed Under Aseptic Conditions.
 
 The Following Equipment is Needed for Implant Removal:
 
@@ -429,7 +431,7 @@ If continued treatment is desired at the end of the first six-month treatment cy
 If new implants are not inserted on the same day as the removal, patients should be maintained on their previous dose of transmucosal buprenorphine (i.e., the dose from which they were transferred to PROBUPHINE treatment) prior to additional PROBUPHINE treatment [see Dosage and Administration (2.6), Warnings and Precautions (5.1)].
 
 There is no experience with inserting additional implants into other sites in the arm to recommend an approach to a second insertion into a previously-used arm.
-Neither re-insertion into previously-used administration sites, nor into sites other than the upper arm, have been studied.
+Neither re-insertion into previously- used administration sites, nor into sites other than the upper arm, have been studied.
 It is important to avoid previously-implanted sites because the effect of scarring and fibrosis in previously-used insertion sites on either the effectiveness of PROBUPHINE or the safety of insertion have not been evaluated.
 After one insertion in each arm, additional cycles of treatment should only be considered if the potential benefits of continuing PROBUPHINE outweigh the potential risks of additional insertion and removal procedures, taking into account the experience of the healthcare provider with PROBUPHINE procedures and related procedures, and the clinical need of the patient for ongoing treatment with subdermal medication.
 In most cases, patients should be transitioned back to a transmucosal buprenorphine-containing product for continued treatment.

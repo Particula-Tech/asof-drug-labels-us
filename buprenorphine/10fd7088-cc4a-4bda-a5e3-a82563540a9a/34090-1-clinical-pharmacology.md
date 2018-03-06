@@ -7,7 +7,7 @@ Buprenorphine is a partial agonist at the mu- opioid receptor and an antagonist 
 
 ## 12.2. Pharmacodynamics
 
-Four PROBUPHINE implants deliver circulating drug blood levels comparable to the average plasma concentrations observed following daily doses of 8 mg Subutex or Suboxone tablet equivalent.
+Four PROBUPHINE implants deliver circulating drug blood levels comparable to the average plasma concentrations observed following daily doses of: 8 mg Subutex or Suboxone tablet equivalent.
 
 Subjective Effects
 
@@ -57,8 +57,9 @@ Overall peak plasma buprenorphine concentrations were markedly lower after PROBU
 The steady-state buprenorphine AUC0-24 value after 4 implants of PROBUPHINE on Day 28 was 19.6 ± 33.7 ng*hr/mL, 31% of the steady-state buprenorphine AUC0- 24 value of 16 mg per day sublingual administration (62.7 ± 36.4 ng*hr/mL).
 The average steady- state buprenorphine concentration of PROBUPHINE on Day 28 was approximately 0.82 ng/mL, 8% of the peak concentration (10.4 ± 13.4 ng/mL), and 52% of the trough concentration (1.58 ± 0.60 ng/mL) of 16 mg per day sublingual buprenorphine at steady state.
 
-Figure 17: Buprenorphine concentration versus time profiles after daily administration of 16 mg sublingual buprenorphine for 5 days (Day -5 to Day -1), followed by 4 implants of PROBUPHINE (totally 320 mg buprenorphine hydrochloride) on Day 1.
 The figure below shows the steady state buprenorphine concentration of 16 mg per day sublingual buprenorphine on Day -1, the initial buprenorphine concentration after PROBUPHINE insertion on Day 1, and steady state buprenorphine after PROBUPHINE insertion on Day 28.
+
+Figure 17: Buprenorphine concentration versus time profiles after daily administration of 16 mg sublingual buprenorphine for 5 days (Day -5 to Day -1), followed by 4 implants of PROBUPHINE (totally 320 mg buprenorphine hydrochloride) on Day 1.
 
 Distribution
 
@@ -102,8 +103,5 @@ CYP3A4 Inhibitors and Inducers
 
 Buprenorphine is metabolized to norbuprenorphine primarily by cytochrome CYP3A4; therefore, potential interactions may occur when PROBUPHINE is given concurrently with agents that affect CYP3A4 activity.
 The effects of co-administered CYP3A4 inducers or inhibitors have been established in studies using transmucosal buprenorphine; the effects on buprenorphine exposure in patients treated with PROBUPHINE have not been studied, and the effects may be dependent on the route of administration.
-Patients who transfer to PROBUPHINE treatment from a regimen of transmucosal buprenorphine used concomitantly with CYP3A4 inhibitors (e.g., ketoconazole), macrolide antibiotics (e.g., erythromycin), or HIV protease inhibitors, or CYP3A4 inducer (e.g., phenobarbital, carbamazepine, phenytoin, rifampicin) should be monitored to ensure that the plasma buprenorphine level provided by PROBUPHINE is adequate and not excessive.
-[Drug Interactions (7.1)].
 
-Buprenorphine has been found to be a CYP2D6 and CYP3A4 inhibitor and its major metabolite, norbuprenorphine, has been found to be a moderate CYP2D6 inhibitor in in vitro studies employing human liver microsomes.
-However, the relatively low plasma concentrations of buprenorphine and norbuprenorphine resulting from therapeutic PROBUPHINE doses are not expected to raise significant drug-drug interaction concerns.
+Buprenorphine has been found to be a CYP2D6 and CYP3A4 inhibitor and its major metabolite, norbuprenorphine, has been found to be a moderate CYP2D6 inhibitor in in vitro studies employing human liver microsomes [see Drug Interactions (7)].

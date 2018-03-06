@@ -1,24 +1,23 @@
 # 8. USE IN SPECIFIC POPULATIONS
 
-There are no well-controlled studies of PROBUPHINE in the populations discussed in this section.
-The data noted in this section were reported from studies and post-marketing reports for other buprenorphine products marketed globally.
-
 ## 8.1. Pregnancy
 
 Risk Summary
 
 The data on use of buprenorphine, the active ingredient in PROBUPHINE implant, in pregnancy, are limited; however, these data do not indicate an increased risk of major malformations specifically due to buprenorphine exposure.
-There are limited data from randomized clinical trials in women maintained on buprenorphine that were not designed appropriately to assess the risk of major malformations [see Data].
-Observational studies have reported on congenital malformations among buprenorphine-exposed pregnancies, but were also not designed appropriately to assess the risk of congenital malformations specifically due to buprenorphine exposure [see Data].
+There are limited data from randomized clinical trials in women maintained on buprenorphine that were not designed appropriately to assess the risk of major malformations [see Human Data].
+
+Observational studies have reported on congenital malformations among buprenorphine-exposed pregnancies, but were also not designed appropriately to assess the risk of congenital malformations specifically due to buprenorphine exposure [see Human Data].
 Adequate and well-controlled studies have not been conducted with PROBUPHINE or buprenorphine in pregnant women.
-Neonatal opioid withdrawal syndrome has been reported in the infants of women treated with buprenorphine sublingual tablets during pregnancy [see Clinical Considerations below].
+Neonatal opioid withdrawal syndrome has been reported in the infants of women treated with buprenorphine sublingual tablets during pregnancy [see Clinical Considerations].
 
 Reproductive and developmental studies in rats and rabbits identified adverse events at clinically relevant and higher doses.
-Embryofetal death was observed in both rats and rabbits administered buprenorphine during the period of organogenesis at doses approximately 12 and 0.5 times, respectively, the human sublingual dose of 8 mg/day of buprenorphine, which represents the target exposure with the maximum recommended human dose (MRHD) of PROBUPHINE.
-Pre- and post-natal development studies in rats demonstrated increased neonatal deaths at a dose approximately equivalent to and dystocia at approximately 6-times the human sublingual dose of 8 mg/day of buprenorphine.
-No clear teratogenic effects were seen when buprenorphine was administered during organogenesis with a range of doses equivalent to or greater than the human sublingual dose of 8 mg/day of buprenorphine.
-However, increases in skeletal abnormalities were noted in rats and rabbits administered buprenorphine daily during organogenesis at a dose approximately 5 times- and approximately 2 times the human sublingual dose of 8 mg/day of buprenorphine, respectively.
-In a few studies, some events such as acephalus and omphalocele were also observed but these findings were not clearly treatment-related [see Data].
+Embryo Fetal death was observed in both rats and rabbits administered buprenorphine during the period of organogenesis at doses approximately 6 and 0.3-times, respectively, the human sublingual dose of 16 mg/day of buprenorphine.
+Pre- and post-natal development studies in rats demonstrated increased neonatal deaths at 0.3-times and above and dystocia at approximately 3-times the human sublingual dose of 16 mg/day of buprenorphine.
+No clear teratogenic effects were seen when buprenorphine was administered during organogenesis with a range of doses equivalent to or greater than the human sublingual dose of 16 mg/day of buprenorphine.
+However, increases in skeletal abnormalities were noted in rats administered buprenorphine daily during organogenesis at a dose approximately 0.6- and approximately equal to the human sublingual dose of 16 mg/day of buprenorphine, respectively.
+In a few studies, some events such as acephalous and omphalocele were also observed but these findings were not clearly treatment-related [see Animal Data].
+Based on animal data, advise pregnant women of the potential risk to a fetus.
 
 The estimated background risk of major birth defects and miscarriage for the indicated population are unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
@@ -33,10 +32,8 @@ In addition, untreated opioid addiction often results in continued or relapsing 
 
 Dose Adjustment during Pregnancy and the Postpartum Period
 
-Dosage adjustments of buprenorphine may be required during pregnancy, even if the patient was maintained on a stable dose prior to pregnancy.
-The PROBUPHINE dose cannot be adjusted.
-Therefore, women who become pregnant while being treated with PROBUPHINE should be closely monitored by their physicians to ensure that they are adequately treated.
-Likewise, because the dose of PROBUPHINE cannot be adjusted, PROBUPHINE may not be an appropriate treatment option to initiate in patients who are pregnant.
+Dose adjustments of buprenorphine may be required during pregnancy, even if the patient was maintained on a stable dose prior to pregnancy.
+Withdrawal signs and symptoms should be monitored closely and the dose adjusted as necessary.
 
 Fetal/neonatal adverse reactions
 
@@ -45,7 +42,7 @@ Neonatal opioid withdrawal syndrome may occur in newborn infants of mothers who 
 Neonatal opioid withdrawal syndrome presents as irritability, hyperactivity and abnormal sleep pattern, high pitched cry, tremor, vomiting, diarrhea, and/or failure to gain weight.
 Signs of neonatal withdrawal usually occur in the first days after birth.
 The duration and severity of neonatal opioid withdrawal syndrome may vary.
-Observe newborns for signs of neonatal opioid withdrawal syndrome and manage accordingly [see Warnings and Precautions (5.5)]
+Observe newborns for signs of neonatal opioid withdrawal syndrome and manage accordingly [see Warnings and Precautions (5.6)]
 
 Labor or Delivery
 
@@ -73,35 +70,37 @@ Because of the imbalance in discontinuation rates between the buprenorphine and 
 
 Animal Data
 
-The exposure margins listed below are based on body surface area comparisons (mg/m2) to the human sublingual dose of 8 mg buprenorphine via SUBUTEX sublingual tablet unless otherwise indicated.
+The exposure margins listed below are based on body surface area comparisons (mg/m2) to the human sublingual dose of 16 mg buprenorphine via SUBOXONE sublingual tablet.
 
-No definitive drug-related teratogenic effects were observed in rats and rabbits at IM doses up to 30 mg/kg/day (estimated exposure approximately 40 times and 70 times, respectively, the human sublingual dose of 8 mg).
+Effects on embryo-fetal development were studied in Sprague-Dawley rats and Russian white rabbits following oral (1:1) and intramuscular (IM; 3:2) administration of mixtures of buprenorphine and naloxone during the period of organogenesis.
+Following oral administration to rats, no teratogenic effects were observed at buprenorphine doses up to 250 mg/kg/day (estimated exposure approximately 150 times the human sublingual dose of 16 mg) in the presence of maternal toxicity (mortality).
+Following oral administration to rabbits, no teratogenic effects were observed at buprenorphine doses up to 40 mg/kg/day (estimated exposure approximately 50 times the human sublingual dose of 16 mg) in the absence of clear maternal toxicity.
+No definitive drug-related teratogenic effects were observed in rats and rabbits at IM doses up to 30 mg/kg/day (estimated exposure approximately 20 times and 35 times, respectively, the human sublingual dose of 16 mg).
 Maternal toxicity resulting in mortality was noted in these studies in both rats and rabbits.
-Acephalus was observed in one rabbit fetus from the low-dose group and omphalocele was observed in two rabbit fetuses from the same litter in the mid-dose group; no findings were observed in fetuses from the high-dose group.
+Acephalous was observed in one rabbit fetus from the low-dose group and omphalocele was observed in two rabbit fetuses from the same litter in the mid-dose group; no findings were observed in fetuses from the high-dose group.
 Maternal toxicity was seen in the high-dose group but not at the lower doses where the findings were observed.
-Following oral administration of buprenorphine to rats, dose-related post-implantation losses, evidenced by increases in the numbers of early resorptions with consequent reductions in the numbers of fetuses, were observed at doses of 10 mg/kg/day or greater (estimated exposure approximately 12 times the human sublingual dose of 8 mg).
+Following oral administration of buprenorphine to rats, dose-related post-implantation losses, evidenced by increases in the numbers of early resorptions with consequent reductions in the numbers of fetuses, were observed at doses of 10 mg/kg/day or greater (estimated exposure approximately 6 times the human sublingual dose of 16 mg).
 In the rabbit, increased post-implantation losses occurred at an oral dose of 40 mg/kg/day.
-Following IM administration in the rat and the rabbit, post-implantation losses, as evidenced by decreases in live fetuses and increases in resorptions, occurred at 30 mg/kg/day.
+Following IM administration in the rat and rabbit, post-implantation losses, as evidenced by decreases in live fetuses and increases in resorptions, occurred at 30 mg/kg/day.
 
-Buprenorphine was not teratogenic in rats and rabbits after subcutaneous (SC) doses of up to 5 mg/kg/day (estimated exposure was approximately 18 and 21 times, respectively, the highest daily exposure from the maximum recommended human dose (MRHD) of PROBUPHINE on an area under the blood level curve/AUC basis), after IM doses of up to 5 mg/kg/day (estimated exposure was approximately 6 and 12 times, respectively, the human sublingual dose of 8 mg), after IV doses up to 0.8 mg/kg/day (estimated exposure was approximately 1 and 2 times, respectively, the human sublingual dose of 8 mg), or after oral doses up to 160 mg/kg/day in rats (estimated exposure was approximately 190 times the human daily sublingual dose of 8 mg) and 25 mg/kg/day in rabbits (estimated exposure was approximately 60 times the human daily sublingual dose of 8 mg).
-Significant increases in skeletal abnormalities (e.g., extra thoracic vertebra or thoraco-lumbar ribs) were noted in rats after SC administration of 1 mg/kg/day and up (estimated exposure was approximately 5 times the highest daily exposure from the MRHD of PROBUPHINE on an AUC basis), but were not observed at oral doses up to 160 mg/kg/day.
-Increases in skeletal abnormalities in rabbits after IM administration of 5 mg/kg/day (estimated exposure was approximately 12 times the human daily sublingual dose of 8 mg) in the absence of maternal toxicity or oral administration of 1 mg/kg/day or greater (estimated exposure was approximately 2 times the human sublingual dose of 8 mg) were not statistically significant.
+Buprenorphine was not teratogenic in rats and rabbits after IM or subcutaneous (SC) doses of up to 5 mg/kg/day (estimated exposure was approximately 3 and 6 times, respectively, the human sublingual dose of 16 mg), after IV doses up to 0.8 mg/kg/day (estimated exposure was approximately 0.5 times and equal to, respectively, the human sublingual dose of 16 mg), or after oral doses up to 160 mg/kg/day in rats (estimated exposure was approximately 95 times the human daily sublingual dose of 16 mg) and 25 mg/kg/day in rabbits (estimated exposure was approximately 30 times the human daily sublingual dose of 16 mg).
+Significant increases in skeletal abnormalities (e.g., extra thoracic vertebra or thoracolumbar ribs) were noted in rats after SC administration of 1 mg/kg/day and up (estimated exposure was approximately 0.6 times the human sublingual dose of 16 mg), but were not observed at oral doses up to 160 mg/kg/day.
+Increases in skeletal abnormalities in rabbits after IM administration of 5 mg/kg/day (estimated exposure was approximately 6 times the human daily sublingual dose of 16 mg) in the absence of maternal toxicity or oral administration of 1 mg/kg/day or greater (estimated exposure was approximately equal to the human sublingual dose of 16 mg) were not statistically significant.
 
-In rabbits, buprenorphine produced statistically significant pre-implantation losses at oral doses of 1 mg/kg/day or greater and post-implantation losses that were statistically significant at IV doses of 0.2 mg/kg/day or greater (estimated exposure approximately 0.5 times the human daily sublingual dose of 8 mg.
+In rabbits, buprenorphine produced statistically significant pre-implantation losses at oral doses of 1 mg/kg/day or greater and post-implantation losses that were statistically significant at IV doses of 0.2 mg/kg/day or greater (estimated exposure approximately 0.3 times the human daily sublingual dose of 16 mg.
 No maternal toxicity was noted at doses causing post-implantation loss in this study.
 
-Dystocia was noted in pregnant rats treated intramuscularly with buprenorphine from Gestation Day 14 through Lactation Day 21 at 5 mg/kg/day (approximately 6 times the human sublingual does of 8 mg).
-
-Fertility, pre-, and post-natal development studies with buprenorphine in rats indicated increases in neonatal mortality after oral doses of 0.8 mg/kg/day and up (approximately equivalent to the human daily sublingual dose of 8 mg), after IM doses of 0.5 mg/kg/day and up (approximately 0.6 times the human sublingual dose of 8 mg), and after SC doses of 0.1 mg/kg/day and up (approximately equivalent to the highest daily exposure from the MRHD of PROBUPHINE on an AUC basis).
+Dystocia was noted in pregnant rats treated intramuscularly with buprenorphine from Gestation Day 14 through Lactation Day 21 at 5 mg/kg/day (approximately 3 times the human sublingual dose of 16 mg).
+Fertility, pre-, and post-natal development studies with buprenorphine in rats indicated increases in neonatal mortality after oral doses of 0.8 mg/kg/day and up (approximately 0.5 times the human daily sublingual dose of 16 mg), after IM doses of 0.5 mg/kg/day and up (approximately 0.3 times the human sublingual dose of 16 mg), and after SC doses of 0.1 mg/kg/day and up (approximately 0.06 times the human sublingual dose of 16 mg).
 An apparent lack of milk production during these studies likely contributed to the decreased pup viability and lactation indices.
-Delays in the occurrence of righting reflex and startle response were noted in rat pups at an oral dose of 80 mg/kg/day (approximately 97 times the human sublingual dose of 8 mg).
+Delays in the occurrence of righting reflex and startle response were noted in rat pups at an oral dose of 80 mg/kg/day (approximately 50 times the human sublingual dose of 16 mg).
 
 ## 8.2. Lactation
 
 Risk Summary
 
 Based on two studies in 13 lactating women maintained on sublingual buprenorphine treatment, buprenorphine and its metabolite norbuprenorphine were present in low levels in human milk and available data have not shown adverse reactions in breastfed infants.
-The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for buprenorphine treatment and any potential adverse effects on the breastfed child from the drug or from the underlying maternal condition.
+The development and health benefits of breastfeeding should be considered along with the mother's clinical need for buprenorphine treatment and any potential adverse effects on the breastfed child from the drug or from the underlying maternal condition.
 
 Clinical Considerations
 
@@ -120,14 +119,14 @@ Based on the study data, and assuming milk consumption of 150 mL/kg/day, an excl
 
 Infertility
 
-Dietary administration of buprenorphine in the rat at dose levels of 500 ppm or greater (equivalent to approximately 47 mg/kg/day or greater; estimated exposure approximately 22 times the highest daily exposure from PROBUPHINE on an AUC basis) produced a reduction in fertility demonstrated by reduced female conception rates [see Nonclinical Toxicology (13.1)]
+Dietary administration of buprenorphine in the rat at dose levels of 500 ppm or greater (equivalent to approximately 47 mg/kg/day or greater; estimated exposure approximately 22 times the highest daily exposure from PROBUPHINE on an AUC basis) produced a reduction in fertility demonstrated by reduced female conception rates [see Nonclinical Pharmacology (13.1)]
 
 Chronic use of opioids may cause reduced fertility in females and males of reproductive potential.
 It is not known whether these effects on fertility are reversible [see Adverse Reactions (6.2), Clinical Pharmacology (12.2)].
 
 ## 8.4. Pediatric Use
 
-The safety and effectiveness of PROBUPHINE have not been established in children or adolescents < 16 years of age.
+The safety and effectiveness of PROBUPHINE have not been established in children or adolescents younger than 16 years of age.
 
 ## 8.5. Geriatric Use
 

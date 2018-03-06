@@ -4,17 +4,17 @@ The following adverse reactions are discussed in more detail in other sections o
 
 - Serious Complications from Insertion and Removal of PROBUPHINE [see Warnings and Precautions (5.1)]
 - Addiction, Abuse, and Misuse [see Warnings and Precautions (5.3)]
-- Respiratory and CNS Depression [see Warnings and Precautions (5.4)]
-- Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.5)]
-- Adrenal Insufficiency [see Warnings and Precautions (5.6)]
-- Opioid Withdrawal [see Warnings and Precautions (5.8.
-  5.11)]
-- Hepatitis, Hepatic Events [see Warnings and Precautions (5.9)]
-- Hypersensitivity Reactions [see Warnings and Precautions (5.10)]
-- Orthostatic Hypotension [see Warnings and Precautions (5.15)]
-- Elevation of Cerebrospinal Fluid Pressure [see Warnings and Precautions (5.16)]
-- Elevation of Intracholedochal Pressure [see Warnings and Precautions (5.17)]
-- Infection [see Warnings and Precautions (5.19)]
+- Respiratory and CNS Depression [see Warnings and Precautions (5.4, 5.5)]
+- Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.6)]
+- Adrenal Insufficiency [see Warnings and Precautions (5.7)]
+- Opioid Withdrawal [see Warnings and Precautions (5.9.
+  5.12)]
+- Hepatitis, Hepatic Events [see Warnings and Precautions (5.10)]
+- Hypersensitivity Reactions [see Warnings and Precautions (5.11)]
+- Orthostatic Hypotension [see Warnings and Precautions (5.16)]
+- Elevation of Cerebrospinal Fluid Pressure [see Warnings and Precautions (5.17)]
+- Elevation of Intracholedochal Pressure [see Warnings and Precautions (5.18)]
+- Infection [see Warnings and Precautions (5.20)]
 
 ## 6.1. Clinical Trials Experience
 
@@ -23,7 +23,6 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 The safety of PROBUPHINE is supported by clinical trials using PROBUPHINE, and other trials using buprenorphine tablets and buprenorphine sublingual solutions.
 The safety of PROBUPHINE was evaluated in 349 opioid-dependent subjects across three double-blind trials (n = 309) and two open-label extension studies (n = 40).
 In these studies, there were a total of 258 subjects exposed to PROBUPHINE for at least 24 weeks and 82 subjects exposed for 48 weeks.
-
 The safety of the PROBUPHINE insertion and removal procedures has been evaluated in 568 unique subjects across the entire development program who received PROBUPHINE implants or placebo implants, with 507 subjects across the three double-blind trials, 40 subjects from two open- label extension trials, and 21 subjects from two phase 2 pharmacokinetic studies.
 
 In total, safety data from clinical studies are available from over 3000 opioid-dependent subjects exposed to buprenorphine at doses in the range used in the treatment of opioid dependence.
@@ -153,7 +152,7 @@ Table 3: Adverse events reported by at least 5% of subjects in any dose group in
 ## 6.2. Postmarketing Experience
 
 No post-marketing data exist at this time for PROBUPHINE.
-The most frequently reported post- marketing adverse event observed with buprenorphine sublingual tablets was drug misuse or abuse.
+The most frequently reported post- marketing adverse event observed with sublingual buprenorphine was drug misuse or abuse.
 The most frequently reported post-marketing adverse event with buprenorphine/naloxone sublingual tablets was peripheral edema.
 
 Serotonin syndrome: Cases of serotonin syndrome, a potentially life-threatening condition, have been reported during concomitant use of opioids with serotonergic drugs.
