@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA208784"
+  ],
+  "inn": "lansoprazole",
+  "labeler": "Teva Pharmaceuticals USA, Inc.",
+  "package_ndcs": [
+    "0093-3008-19",
+    "0093-3008-93",
+    "0093-3009-19",
+    "0093-3009-93"
+  ],
+  "products": [
+    {
+      "form": "TABLET, ORALLY DISINTEGRATING, DELAYED RELEASE",
+      "generic": "lansoprazole",
+      "name": "Lansoprazole"
+    }
+  ],
+  "setid": "6b8dd0e1-cd69-4f9a-887f-e42627b5d78e",
+  "source": "dailymed"
+}
