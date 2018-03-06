@@ -211,7 +211,7 @@ For Best Results, Stay with Your Patch Program
 
 - Replace your patch twice each week, on the 2 days you have chosen.
   Until it becomes a habit, try:
-  - Marking your schedule on the inside flap of the patch box;
+  - Marking your schedule on the back panel of the patch box;
   - Marking the days on your calendar;
   - Linking the days you change your patch to other things that always happen on those days (e.g., an exercise class, meetings, etc.).
 - Handle each patch with care.
@@ -262,7 +262,7 @@ For all medical inquiries contact: Allergan Medical Communications 1-800-678-160
 Distributed by: Allergan USA, Inc. Irvine, CA 92612
 
 Rev.
-11/2017
+03/2018
 
-© 2017 Allergan.
+© 2018 Allergan.
 All rights reserved.

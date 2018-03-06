@@ -37,7 +37,7 @@ Distributed by: Allergan USA, Inc.
 Irvine, CA 92612
 
 Rev.
-11/2017
+03/2018
 
-© 2017 Allergan.
+© 2018 Allergan.
 All rights reserved.
