@@ -4,7 +4,7 @@ Made in Israel
 
 Manufactured By Perrigo
 
-Yeruham 80500, Israel
+Yeruham, Israel
 
 OR
 
@@ -20,9 +20,9 @@ Allegan, MI 49010
 
 www.perrigo.com
 
-4L926RCF4
+4L926RCF5
 
-Rev 12-13
+Rev 03-17
 
 OR
 

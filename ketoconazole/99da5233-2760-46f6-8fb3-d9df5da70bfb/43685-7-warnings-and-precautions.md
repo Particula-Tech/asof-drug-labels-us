@@ -7,15 +7,13 @@ If a reaction suggesting sensitivity or chemical irritation should occur, use of
 
 Patients should be advised of the following:
 
-● Ketoconazole Shampoo, 2% may be irritating to mucous membranes of the eyes and contact with this area should be avoided.
-
-● The following have been reported with the use of ketoconazole shampoo, 2%: hair discoloration and abnormal hair texture, removal of the curl from permanently waved hair, itching, skin burning sensation and contact dermatitis, hypersensitivity, alopecia, rash, urticaria, skin irritation, dry skin, and application site reactions.
-
-● Patients who develop allergic reactions, such as generalized rash, skin reactions, severe swelling, or shortness of breath should discontinue Ketoconzole Shampoo, 2% and contact their physician immediately.
+- •Ketoconazole Shampoo, 2% may be irritating to mucous membranes of the eyes and contact with this area should be avoided.
+- •The following have been reported with the use of ketoconazole shampoo, 2%: hair discoloration and abnormal hair texture, removal of the curl from permanently waved hair, itching, skin burning sensation and contact dermatitis, hypersensitivity, angioedema, alopecia, rash, urticaria, skin irritation, dry skin, and application site reactions.
+- •Patients who develop allergic reactions, such as generalized rash, skin reactions, severe swelling, angioedema, or shortness of breath should discontinue Ketoconazole Shampoo, 2% and contact their physician immediately.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility-
 
-Long-term studies to assess the carcinogenic potential of ketoconzole shampoo, 2% have not been conducted.
+Long-term studies to assess the carcinogenic potential of ketoconazole shampoo, 2% have not been conducted.
 A long-term feeding study of ketoconazole in Swiss Albino mice and in Wistar rats showed no evidence of oncogenic activity.
 The dominant lethal mutation test in male and female mice revealed that single oral doses of ketoconazole as high as 80 mg/kg were not genotoxic.
 The Ames Salmonella microsomal activator assay was also negative.
