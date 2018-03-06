@@ -6,7 +6,7 @@ Finasteride tablets, USP are indicated for the treatment of symptomatic benign p
 
 ## 1.2 Combination with Alpha-Blocker
 
-Finasteride tablets, USP are administered in combination with the alpha-blocker doxazosin are indicated to reduce the risk of symptomatic progression of BPH (a confirmed ≥4 point increase in American Urological Association (AUA) symptom score).
+Finasteride tablets, USP administered in combination with the alpha-blocker doxazosin are indicated to reduce the risk of symptomatic progression of BPH (a confirmed ≥4 point increase in American Urological Association (AUA) symptom score).
 
 ## 1.3 Limitations of Use
 

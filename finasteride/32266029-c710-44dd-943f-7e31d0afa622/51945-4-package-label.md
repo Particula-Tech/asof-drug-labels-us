@@ -4,4 +4,4 @@ NDC 65862-149-01 Rx only Finasteride Tablets, USP 5 mg WARNING: Finasteride shou
 Women who are or may potentially be pregnant must not use finasteride.
 They should also not handle crushed or broken tablets of finasteride.
 (See accompanying circular.)
-100 Tablets AUROBINDO
+AUROBINDO 100 Tablets

@@ -7,7 +7,7 @@ Remember, this leaflet does not take the place of careful discussions with your 
 You and your doctor should discuss finasteride tablets when you start taking your medication and at regular checkups.
 What are finasteride tablets?
 Finasteride tablets are a medication used to treat symptoms of benign prostatic hyperplasia (BPH) in men with an enlarged prostate.
-Finasteride tablets may also be used to reduce the risk of a sudden inability to pass urine and the need for surgery related to BPH in men with an enlarged prostate.
+Finasteride tablets may also be used to reduce the need for surgery related to BPH in men with an enlarged prostate.
 Finasteride tablets may be prescribed along with another medicine, an alpha-blocker called doxazosin, to help you better manage your BPH symptoms.
 Who should NOT take finasteride tablets?
 Finasteride tablets are for use by MEN only.
@@ -88,7 +88,7 @@ Do not give your finasteride tablets to anyone else.
 It has been prescribed only for you.
 For more information call 1-866-850-2876.
 What are the ingredients in finasteride tablets?
-Active ingredients: finasteride Inactive ingredients: lactose monohydrate, microcrystalline cellulose, sodium starch glycolate, pregelatinised starch (maize), docusate sodium, magnesium stearate, hypromellose, hydroxypropyl cellulose, titanium dioxide, talc, iron oxide yellow, and FD&C Blue #2 aluminum lake.
+Active ingredient: finasteride Inactive ingredients: lactose monohydrate, microcrystalline cellulose, sodium starch glycolate, pregelatinised starch (maize), docusate sodium, magnesium stearate, hypromellose, hydroxypropyl cellulose, titanium dioxide, talc, iron oxide yellow, and FD&C Blue #2 aluminum lake.
 What is BPH?
 BPH is an enlargement of the prostate gland.
 The prostate is located below the bladder.
@@ -112,4 +112,4 @@ However, since each case of BPH is different, you should know that:
 - You may need to take finasteride tablets for six (6) months or more to see whether it improves your symptoms.
 - Therapy with finasteride tablets may reduce the need for surgery for an enlarged prostate.
 
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 090, India Revised: 05/2016
+Distributed by: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 038, India Revised: 09/2017
