@@ -19,6 +19,6 @@ Relative risk reduction from blood pressure reduction is similar across populati
 Some antihypertensive drugs have smaller blood pressure effects (as monotherapy) in black patients, and many antihypertensive drugs have additional approved indications and effects (e.g., on angina, heart failure, or diabetic kidney disease).
 These considerations may guide selection of therapy.
 
-It may be used alone or in combination with other antihypertensive agents [see Clinical Studies (14.1)].
+Telmisartan may be used alone or in combination with other antihypertensive agents [see Clinical Studies (14.1)].
 
 Use of telmisartan and ACE inhibitor is not recommended [see Warning and Precautions (5.6)].

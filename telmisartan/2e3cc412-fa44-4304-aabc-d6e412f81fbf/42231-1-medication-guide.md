@@ -34,10 +34,6 @@ What should I tell my doctor before taking telmisartan tablets?
 
 Before you take telmisartan tablets, tell your doctor if you:
 
-- have liver problems
-- have kidney problems
-- have heart problems
-- have any other medical conditions
 - are pregnant or are planning to become pregnant.
   See "WhatisthemostimportantinformationIshouldknowabouttelmisartantablets?"
 - are breast-feeding or plan to breast-feed.
@@ -45,6 +41,10 @@ Before you take telmisartan tablets, tell your doctor if you:
   You and your doctor should decide if you will take telmisartan tablets or breastfeed.
   You should not do both.
   Talk with your doctor about the best way to feed your baby if you take telmisartan tablets.
+- have liver problems
+- have kidney problems
+- have heart problems
+- have any other medical conditions
 
 Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 
@@ -54,10 +54,10 @@ Telmisartan may affect the way other medicines work, and other medicines may aff
 Especially tell your doctor if you take:
 
 - aliskiren
-- digoxin (Lanoxin®, Lanoxicaps®)
-- lithium (Eskalith®, Lithobid®)
-- medicines used to treat pain and arthritis, called non-steroidal anti-inflammatory drugs (NSAIDs), including COX-2 inhibitors
-- ramipril (Altace®) or other medicines used to treat your high blood pressure or heart problem
+- digoxin (Lanoxin®)
+- lithium (Lithobid®, lithium carbonate, lithium citrate)
+- aspirin or other non-steroidal anti-inflammatory drugs (NSAIDs)
+- other medicines used to treat your high blood pressure or heart problem
 - water pills (diuretic)
 
 Know the medicines you take.
@@ -147,7 +147,7 @@ This Patient Information leaflet summarizes the most important information about
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about telmisartan tablets that is written for health professionals.
 
-Please address medical inquiries to, (MedicalAffairs@zydususa.com) Tel.:1-877-993-8779.
+Please address medical inquiries to, MedicalAffairs@zydususa.com or Tel.:1-877-993-8779.
 
 What are the ingredients in telmisartan tablets, USP?
 
@@ -175,3 +175,5 @@ How to open the blister:
 
 The product's labeling may have been updated.
 For latest package insert, please visit www.zydususa.com
+
+This Patient Information has been approved by the U.S. Food and Drug Administration

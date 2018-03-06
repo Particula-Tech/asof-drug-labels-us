@@ -2,6 +2,8 @@
 
 The following adverse reaction is described elsewhere in labeling: Renal dysfunction upon use with ramipril [see Warnings and Precautions (5.6)]
 
+- Renal dysfunction upon use with ramipril [see Warnings and Precautions (5.6)]
+
 ## 6.1 Clinical Trials Experience
 
 Because clinical studies are conducted under widely varying conditions, adverse reactions rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.

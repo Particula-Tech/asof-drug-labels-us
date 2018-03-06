@@ -30,6 +30,8 @@ In 30 hypertensive patients with normal renal function treated for 8 weeks with 
 
 ## 12.3 Pharmacokinetics
 
+Absorption
+
 Following oral administration, peak concentrations (Cmax) of telmisartan are reached in 0.5 to 1 hour after dosing.
 Food slightly reduces the bioavailability of telmisartan, with a reduction in the area under the plasma concentration-time curve (AUC) of about 6% with the 40 mg tablet and about 20% after a 160 mg dose.
 The absolute bioavailability of telmisartan is dose dependent.
@@ -80,3 +82,17 @@ The pharmacokinetics of telmisartan do not differ between the elderly and those 
 Pediatric Patients
 
 Telmisartan pharmacokinetics have not been investigated in patients < 18 years of age.
+
+Drug Interaction Studies
+
+Telmisartan Ramipril and Ramiprilat:
+
+Coadministration of telmisartan 80 mg once daily and ramipril 10 mg once daily to healthy subjects increases steady-state Cmax and AUC of ramipril 2.3-and 2.1-fold, respectively, and Cmax and AUC of ramiprilat 2.4-and 1.5-fold, respectively.
+In contrast, Cmax and AUC of telmisartan decrease by 31% and 16%, respectively.
+When co-administering telmisartan and ramipril, the response may be greater because of the possibly additive pharmacodynamic effects of the combined drugs, and also because of the increased exposure to ramipril and ramiprilat in the presence of telmisartan.
+
+Other Drugs:
+
+Coadministration of telmisartan did not result in a clinically significant interaction with acetaminophen, amlodipine, glyburide, simvastatin, hydrochlorothiazide, warfarin, or ibuprofen.
+Telmisartan is not metabolized by the cytochrome P450 system and had no effects in vitro on cytochrome P450 enzymes, except for some inhibition of CYP2C19.
+Telmisartan is not expected to interact with drugs that inhibit cytochrome P450 enzymes; it is also not expected to interact with drugs metabolized by cytochrome P450 enzymes, except for possible inhibition of the metabolism of drugs metabolized by CYP2C19.

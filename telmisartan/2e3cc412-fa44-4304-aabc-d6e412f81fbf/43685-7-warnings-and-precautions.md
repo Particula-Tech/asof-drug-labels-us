@@ -2,8 +2,6 @@
 
 ## 5.1 Fetal Toxicity
 
-Pregnancy Category D
-
 Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death.
 Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations.
 Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death.
@@ -34,9 +32,9 @@ In patients whose renal function may depend on the activity of the renin-angiote
 Similar results have been reported with telmisartan [see Clinical Pharmacology (12.3)].
 
 In studies of ACE inhibitors in patients with unilateral or bilateral renal artery stenosis, increases in serum creatinine or blood urea nitrogen were observed.
-There has been no long term use of telmisartan in patients with unilateral or bilateral renal artery stenosis, but anticipate an effect similar to that seen with ACE inhibitors.
+There has been no long-term use of telmisartan in patients with unilateral or bilateral renal artery stenosis, but anticipate an effect similar to that seen with ACE inhibitors.
 
-## 5.6 Dual Blockade of the Renin-Angiotensin-Aldosterone System
+## 5.6 Dual Blockade of the Renin-Angiotensin-Aldosterone System (RAS)
 
 Dual blockade of the RAS with angiotensin-receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy.
 
