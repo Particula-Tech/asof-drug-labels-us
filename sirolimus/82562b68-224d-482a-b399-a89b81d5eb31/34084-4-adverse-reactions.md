@@ -2,18 +2,18 @@
 
 The following adverse reactions are discussed in greater detail in other sections of the label.
 
-- Increased susceptibility to infection, lymphoma, and malignancy [seeBOXED WARNING, WARNINGS AND PRECAUTIONS (5.1)]
-- Excess mortality, graft loss, and hepatic artery thrombosis in liver transplant patients [seeBOXED WARNING, WARNINGS AND PRECAUTIONS (5.2)]
-- Bronchial anastomotic dehiscence in lung transplant patients [seeBOXED WARNING, WARNINGS AND PRECAUTIONS (5.3)]
-- Hypersensitivity reactions [seeWARNINGS AND PRECAUTIONS (5.4)]
-- Exfoliative dermatitis [seeWARNINGS AND PRECAUTIONS (5.4)]
-- Angioedema [seeWARNINGS AND PRECAUTIONS (5.5)]
-- Fluid Accumulation and Impairment of Wound Healing [seeWARNINGS AND PRECAUTIONS (5.6)]
-- Hypertriglyceridemia, hypercholesterolemia [seeWARNINGS AND PRECAUTIONS (5.7)]
-- Decline in renal function in long-term combination of cyclosporine with sirolimus [seeWARNINGS AND PRECAUTIONS (5.8)]
-- Proteinuria [seeWARNINGS AND PRECAUTIONS (5.9)]
-- Interstitial lung disease [seeWARNINGS AND PRECAUTIONS (5.11)]
-- Increased risk of calcineurin inhibitor-induced HUS/TTP/TMA [seeWARNINGS AND PRECAUTIONS (5.13)].
+- Increased susceptibility to infection, lymphoma, and malignancy [see Boxed Warning, Warnings and Precautions (5.1)]
+- Excess mortality, graft loss, and hepatic artery thrombosis in liver transplant patients [see Boxed Warning, Warnings and Precautions (5.2)]
+- Bronchial anastomotic dehiscence in lung transplant patients [see Boxed Warning, Warnings and Precautions (5.3)]
+- Hypersensitivity reactions [see Warnings and Precautions (5.4)]
+- Exfoliative dermatitis [see Warnings and Precautions (5.4)]
+- Angioedema [see Warnings and Precautions (5.5)]
+- Fluid Accumulation and Impairment of Wound Healing [see Warnings and Precautions (5.6)]
+- Hypertriglyceridemia, hypercholesterolemia [see Warnings and Precautions (5.7)]
+- Decline in renal function in long-term combination of cyclosporine with sirolimus [see Warnings and Precautions (5.8)]
+- Proteinuria [see Warnings and Precautions (5.9)]
+- Interstitial lung disease [see Warnings and Precautions (5.11)]
+- Increased risk of calcineurin inhibitor-induced HUS/TTP/TMA [see Warnings and Precautions (5.13)].
 
 The most common (≥ 30%) adverse reactions observed with sirolimus in clinical studies for organ rejection prophylaxis in recipients of renal transplantation are: peripheral edema, hypertriglyceridemia, hypertension, hypercholesterolemia, creatinine increased, constipation, abdominal pain, diarrhea, headache, fever, urinary tract infection, anemia, nausea, arthralgia, pain, and thrombocytopenia.
 
@@ -21,7 +21,7 @@ The following adverse reactions resulted in a rate of discontinuation of > 5% in
 
 ## 6.1 Clinical Studies Experience in Prophylaxis of Organ Rejection Following Renal Transplantation
 
-The safety and efficacy of sirolimus oral solution for the prevention of organ rejection following renal transplantation were assessed in two randomized, double blind, multicenter, controlled trials [see CLINICAL STUDIES (14.1)].
+The safety and efficacy of sirolimus oral solution for the prevention of organ rejection following renal transplantation were assessed in two randomized, double blind, multicenter, controlled trials [see Clinical Studies (14.1)].
 The safety profiles in the two studies were similar.
 
 The incidence of adverse reactions in the randomized, double blind, multicenter, placebo-controlled trial (Study 2) in which 219 renal transplant patients received sirolimus oral solution 2 mg/day, 208 received sirolimus oral solution 5 mg/day, and 124 received placebo is presented in Table 1 below.
@@ -29,7 +29,7 @@ The study population had a mean age of 46 years (range 15 to 71 years), the dist
 All patients were treated with cyclosporine and corticosteroids.
 Data (≥ 12 months post-transplant) presented in the following table show the adverse reactions that occurred in at least one of the sirolimus treatment groups with an incidence of ≥ 20%.
 
-The safety profile of the tablet did not differ from that of the oral solution formulation [see CLINICAL STUDIES (14.1)].
+The safety profile of the tablet did not differ from that of the oral solution formulation [see Clinical Studies (14.1)].
 
 In general, adverse reactions related to the administration of sirolimus were dependent on dose/concentration.
 Although a daily maintenance dose of 5 mg, with a loading dose of 15 mg, was shown to be safe and effective, no efficacy advantage over the 2 mg dose could be established for renal transplant patients.
@@ -73,7 +73,7 @@ The following adverse reactions were reported less frequently (≥ 3%, but < 20%
 - Musculoskeletal System – Bone necrosis.
 - Respiratory System – Pneumonia, epistaxis.
 - Skin – Melanoma, squamous cell carcinoma, basal cell carcinoma.
-- Urogenital System – Pyelonephritis, decline in renal function (creatinine increased) in long-term combination of cyclosporine with sirolimus [see WARNINGS AND PRECAUTIONS(5.8)], ovarian cysts, menstrual disorders (including amenorrhea and menorrhagia).
+- Urogenital System – Pyelonephritis, decline in renal function (creatinine increased) in long-term combination of cyclosporine with sirolimus [see Warnings and Precautions (5.8)], ovarian cysts, menstrual disorders (including amenorrhea and menorrhagia).
 
 Less frequently (< 3%) occurring adverse reactions included: lymphoma/post-transplant lymphoproliferative disorder, mycobacterial infections (including M. tuberculosis), pancreatitis, cytomegalovirus (CMV), and Epstein-Barr virus.
 
@@ -85,7 +85,7 @@ In Studies 1 and 2, in de novo renal transplant patients who began the study wit
 
 Treatment of new-onset hypercholesterolemia with lipid-lowering agents was required in 42 to 52% of patients enrolled in the sirolimus arms of Studies 1 and 2 compared with 16% of patients in the placebo arm and 22% of patients in the azathioprine arm.
 In other sirolimus renal transplant studies, up to 90% of patients required treatment for hyperlipidemia and hypercholesterolemia with anti-lipid therapy (e.g., statins, fibrates).
-Despite anti-lipid management, up to 50% of patients had fasting serum cholesterol levels > 240 mg/dL and triglycerides above recommended target levels [see WARNINGS AND PRECAUTIONS (5.7)].
+Despite anti-lipid management, up to 50% of patients had fasting serum cholesterol levels > 240 mg/dL and triglycerides above recommended target levels [see Warnings and Precautions (5.7)].
 
 Abnormal Healing
 
@@ -93,13 +93,13 @@ Abnormal healing events following transplant surgery include fascial dehiscence,
 
 Malignancies
 
-Table 2 below summarizes the incidence of malignancies in the two controlled trials (Studies 1 and 2) for the prevention of acute rejection [see CLINICAL STUDIES (14.1)].
+Table 2 below summarizes the incidence of malignancies in the two controlled trials (Studies 1 and 2) for the prevention of acute rejection [see Clinical Studies (14.1)].
 
 At 24 months (Study 1) and 36 months (Study 2) post-transplant, there were no significant differences among treatment groups.
 
 TABLE 2 INCIDENCE (%) OF MALIGNANCIES IN STUDY 1 (24 MONTHS) AND STUDY 2 (36 MONTHS) POST-TRANSPLANTa,b
 
-| Header$ | Sirolimus Oral Solution 2 mg/day |  | Sirolimus Oral Solution 5 mg/day |  | Azathioprine 2 to 3 mg/kg/day | Placebo |
+|  | Sirolimus Oral Solution 2 mg/day |  | Sirolimus Oral Solution 5 mg/day |  | Azathioprine 2 to 3 mg/kg/day | Placebo |
 | --- | --- | --- | --- | --- | --- | --- |
 | Header$Malignancy | Study 1 (n = 284) | Study 2 (n = 227) | Study 1 (n = 274) | Study 2 (n = 219) | Study 1 (n = 161) | Study 2 (n = 130) |
 | Lymphoma/ lymphoproliferative disease | 0.7 | 1.8 | 1.1 | 3.2 | 0.6 | 0.8 |
@@ -116,7 +116,7 @@ TABLE 2 INCIDENCE (%) OF MALIGNANCIES IN STUDY 1 (24 MONTHS) AND STUDY 2 (36 MON
 
 ## 6.2 Sirolimus Following Cyclosporine Withdrawal
 
-The incidence of adverse reactions was determined through 36 months in a randomized, multicenter, controlled trial (Study 3) in which 215 renal transplant patients received sirolimus as a maintenance regimen following cyclosporine withdrawal, and 215 patients received sirolimus with cyclosporine therapy [see CLINICAL STUDIES (14.2)].
+The incidence of adverse reactions was determined through 36 months in a randomized, multicenter, controlled trial (Study 3) in which 215 renal transplant patients received sirolimus as a maintenance regimen following cyclosporine withdrawal, and 215 patients received sirolimus with cyclosporine therapy [see Clinical Studies (14.2)].
 All patients were treated with corticosteroids.
 The safety profile prior to randomization (start of cyclosporine withdrawal) was similar to that of the 2 mg sirolimus groups in Studies 1 and 2.
 
@@ -126,7 +126,7 @@ Mean systolic and diastolic blood pressure improved significantly following cycl
 
 Malignancies
 
-The incidence of malignancies in Study 3 [see CLINICAL STUDIES (14.2)] is presented in the Table 3.
+The incidence of malignancies in Study 3 [see Clinical Studies (14.2)] is presented in the Table 3.
 
 In Study 3, the incidence of lymphoma/lymphoproliferative disease was similar in all treatment groups.
 The overall incidence of malignancy was higher in patients receiving sirolimus plus cyclosporine compared with patients who had cyclosporine withdrawn.
@@ -135,7 +135,7 @@ In addition, more patients in the sirolimus with cyclosporine group had a pretra
 
 TABLE 3 INCIDENCE (%) OF MALIGNANCIES IN STUDY 3 (CYCLOSPORINE WITHDRAWAL STUDY) AT 36 MONTHS POST-TRANSPLANTa,b
 
-| Header$Malignancy | Nonrandomized (n = 95) | Sirolimus with Cyclosporine Therapy (n = 215) | Sirolimus Following Cyclosporine Withdrawal (n = 215) |
+| Malignancy | Nonrandomized (n = 95) | Sirolimus with Cyclosporine Therapy (n = 215) | Sirolimus Following Cyclosporine Withdrawal (n = 215) |
 | --- | --- | --- | --- |
 | Lymphoma/ Lymphoproliferative disease | 1.1 | 1.4 | 0.5 |
 | Skin Carcinoma |  |  |  |
@@ -157,7 +157,7 @@ The incidence of malignancy was 1.3 % at 12 months.
 
 ## 6.4 Conversion from Calcineurin Inhibitors to sirolimus in Maintenance Renal Transplant Population
 
-The safety and efficacy of conversion from calcineurin inhibitors to sirolimus in maintenance renal transplant population have not been established [see CLINICAL STUDIES (14.4)].
+The safety and efficacy of conversion from calcineurin inhibitors to sirolimus in maintenance renal transplant population have not been established [see Clinical Studies (14.4)].
 In a study evaluating the safety and efficacy of conversion from calcineurin inhibitors to sirolimus (initial target sirolimus concentrations of 12 to 20 ng/mL, and then 8 to 20 ng/mL, by chromatographic assay) in maintenance renal transplant patients, enrollment was stopped in the subset of patients (n = 87) with a baseline glomerular filtration rate of less than 40 mL/min.
 There was a higher rate of serious adverse events, including pneumonia, acute rejection, graft loss and death, in this stratum of the sirolimus treatment arm.
 
@@ -170,7 +170,7 @@ Overall in this study, a 5-fold increase in the reports of tuberculosis among si
 
 ## 6.5 Pediatric Renal Transplant Patients
 
-Safety was assessed in a controlled clinical trial in pediatric (< 18 years of age) renal transplant patients considered at high-immunologic risk, defined as a history of one or more acute allograft rejection episodes and/or the presence of chronic allograft nephropathy on a renal biopsy [see CLINICAL STUDIES (14.6)].
+Safety was assessed in a controlled clinical trial in pediatric (< 18 years of age) renal transplant patients considered at high-immunologic risk, defined as a history of one or more acute allograft rejection episodes and/or the presence of chronic allograft nephropathy on a renal biopsy [see Clinical Studies (14.6)].
 The use of sirolimus in combination with calcineurin inhibitors and corticosteroids was associated with a higher incidence of deterioration of renal function (creatinine increased) compared to calcineurin inhibitor-based therapy, serum lipid abnormalities (including, but not limited to, increased serum triglycerides and cholesterol), and urinary tract infections.
 
 ## 6.7 Postmarketing Experience
@@ -183,17 +183,17 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - Digestive System – Ascites.
 - Hematological/Lymphatic –Pancytopenia, neutropenia.
 - Hepatobiliary Disorders – Hepatotoxicity, including fatal hepatic necrosis, with elevated sirolimus trough concentrations.
-- Immune System - Hypersensitivity reactions, including anaphylactic/anaphylactoid reactions, angioedema, and hypersensitivity vasculitis [see WARNINGS AND PRECAUTIONS(5.4)].
+- Immune System - Hypersensitivity reactions, including anaphylactic/anaphylactoid reactions, angioedema, and hypersensitivity vasculitis [see Warnings and Precautions (5.4)].
 - Infections – Tuberculosis.
   BK virus associated nephropathy has been observed in patients receiving immunosuppressants, including sirolimus.
   This infection may be associated with serious outcomes, including deteriorating renal function and renal graft loss.
-  Cases of progressive multifocal leukoencephalopathy (PML), sometimes fatal, have been reported in patients treated with immunosuppressants, including sirolimus [see WARNINGS AND PRECAUTIONS(5.10)].
+  Cases of progressive multifocal leukoencephalopathy (PML), sometimes fatal, have been reported in patients treated with immunosuppressants, including sirolimus [see Warnings and Precautions (5.10)].
   Clostridium difficile enterocolitis.
 - Metabolic/Nutritional – Liver function test abnormal, AST/SGOT increased, ALT/SGPT increased, hypophosphatemia, hyperglycemia, diabetes mellitus.
 - Nervous system - Posterior reversible encephalopathy syndrome.
 - Respiratory – Cases of interstitial lung disease (including pneumonitis, bronchiolitis obliterans organizing pneumonia [BOOP], and pulmonary fibrosis), some fatal, with no identified infectious etiology have occurred in patients receiving immunosuppressive regimens including sirolimus.
   In some cases, the interstitial lung disease has resolved upon discontinuation or dose reduction of sirolimus.
-  The risk may be increased as the sirolimus trough concentration increases [see WARNINGS AND PRECAUTIONS(5.11)]; pulmonary hemorrhage; pleural effusion; alveolar proteinosis.
-- Skin – Neuroendocrine carcinoma of the skin (Merkel cell carcinoma)[see Warnings and Precautions (5.16)], exfoliative dermatitis [see WARNINGS AND PRECAUTIONS (5.4)].
+  The risk may be increased as the sirolimus trough concentration increases [see Warnings and Precautions (5.11)]; pulmonary hemorrhage; pleural effusion; alveolar proteinosis.
+- Skin – Neuroendocrine carcinoma of the skin (Merkel cell carcinoma)[see Warnings and Precautions (5.17)], exfoliative dermatitis [see Warnings And Precautions (5.4)].
 - Urogenital - Nephrotic syndrome, proteinuria, focal segmental glomerulosclerosis, ovarian cysts, menstrual disorders (including amenorrhea and menorrhagia).
   Azoospermia has been reported with the use of sirolimus and has been reversible upon discontinuation of sirolimus in most cases.

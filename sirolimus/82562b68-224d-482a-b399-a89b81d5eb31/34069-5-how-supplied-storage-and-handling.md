@@ -10,17 +10,7 @@ The expiration date refers to the last day of that month.
 
 Sirolimus Tablets, 0.5 mg are yellow, round, biconvex, coated tablets imprinted with "1" in black ink on one side and plain on other side and are supplied as follows:
 
-NDC 65841-771-06 in bottle of 30 tablets
-
-NDC 65841-771-16 in bottle of 90 tablets
-
 NDC 65841-771-01 in bottle of 100 tablets
-
-NDC 65841-771-05 in bottle of 500 tablets
-
-NDC 65841-771-10 in bottle of 1000 tablets
-
-NDC 65841-771-77 in unit-dose blister cartons of 100 (10 x 10) unit dose tablets
 
 Storage
 

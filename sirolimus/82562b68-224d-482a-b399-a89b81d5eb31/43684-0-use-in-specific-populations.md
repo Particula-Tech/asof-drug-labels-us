@@ -11,7 +11,6 @@ In combination with cyclosporine, rats had increased embryo/feto mortality compa
 There were no effects on rabbit development at a maternally toxic dosage approximately 0.3 to 0.8 times the human doses (adjusted for body surface area).
 There are no adequate and well-controlled studies in pregnant women.
 Effective contraception must be initiated before sirolimus therapy, during sirolimus therapy, and for 12 weeks after sirolimus therapy has been stopped.
-Sirolimus should be used during pregnancy only if the potential benefit outweighs the potential risk to the embryo/fetus.
 
 ## 8.3 Nursing Mothers
 
@@ -27,9 +26,9 @@ Renal Transplant
 The safety and efficacy of sirolimus in pediatric patients < 13 years have not been established.
 
 The safety and efficacy of sirolimus oral solution and sirolimus tablets have been established for prophylaxis of organ rejection in renal transplantation in children ≥ 13 years judged to be at low- to moderate-immunologic risk.
-Use of sirolimus oral solution and sirolimus tablets in this subpopulation of children ≥ 13 years is supported by evidence from adequate and well-controlled trials of sirolimus oral solution in adults with additional pharmacokinetic data in pediatric renal transplantation patients [see CLINICAL PHARMACOLOGY (12.3)].
+Use of sirolimus oral solution and sirolimus tablets in this subpopulation of children ≥ 13 years is supported by evidence from adequate and well-controlled trials of sirolimus oral solution in adults with additional pharmacokinetic data in pediatric renal transplantation patients [see Clinical Pharmacology (12.3)].
 
-Safety and efficacy information from a controlled clinical trial in pediatric and adolescent (< 18 years of age) renal transplant patients judged to be at high-immunologic risk, defined as a history of one or more acute rejection episodes and/or the presence of chronic allograft nephropathy, do not support the chronic use of sirolimus oral solution or tablets in combination with calcineurin inhibitors and corticosteroids, due to the higher incidence of lipid abnormalities and deterioration of renal function associated with these immunosuppressive regimens compared to calcineurin inhibitors, without increased benefit with respect to acute rejection, graft survival, or patient survival [see CLINICAL STUDIES (14.6)].
+Safety and efficacy information from a controlled clinical trial in pediatric and adolescent (< 18 years of age) renal transplant patients judged to be at high-immunologic risk, defined as a history of one or more acute rejection episodes and/or the presence of chronic allograft nephropathy, do not support the chronic use of sirolimus oral solution or tablets in combination with calcineurin inhibitors and corticosteroids, due to the higher incidence of lipid abnormalities and deterioration of renal function associated with these immunosuppressive regimens compared to calcineurin inhibitors, without increased benefit with respect to acute rejection, graft survival, or patient survival [see Clinical Studies (14.6)].
 
 ## 8.5 Geriatric Use
 
@@ -40,8 +39,8 @@ In general, dose selection for an elderly patient should be cautious, usually st
 
 ## 8.6 Patients with Hepatic Impairment
 
-The maintenance dose of sirolimus should be reduced in patients with hepatic impairment [see DOSAGE AND ADMINISTRATION (2.7), CLINICAL PHARMACOLOGY (12.3)].
+The maintenance dose of sirolimus should be reduced in patients with hepatic impairment [see Dosage and Administration (2.7), Clinical Pharmacology (12.3)].
 
 ## 8.7 Patients with Renal Impairment
 
-Dosage adjustment is not required in patients with renal impairment [see DOSAGE AND ADMINISTRATION (2.8), CLINICAL PHARMACOLOGY (12.3)].
+Dosage adjustment is not required in patients with renal impairment [see Dosage and Administration (2.8), Clinical Pharmacology (12.3)].

@@ -10,15 +10,13 @@ What is the most important information I should know about sirolimus?
 
 Sirolimus can cause serious side effects, including:
 
-1. Increased risk of getting infections
-2. Increased risk of getting certain cancers
-3. Increased risk of getting infections.
+1. Increased risk of getting infections.
    Serious infections can happen including infections caused by viruses, bacteria, and fungi (yeast).
    Your doctor may put you on medicine to help prevent some of these infections.
 
 Call your doctor right away if you have symptoms of infection including fever or chills while taking sirolimus.
 
-4.
+2.
 Increased risk of getting certain cancers.
 People who take Sirolimus have a higher risk of getting lymphoma, and other cancers, especially skin cancer.
 Talk with your doctor about your risk for cancer.
@@ -54,9 +52,12 @@ Before taking sirolimus, tell your doctor if you:
 - have liver problems
 - have skin cancer or it runs in your family
 - have high cholesterol or triglycerides (fat in your blood)
-- are pregnant or plan to become pregnant.
-  You must use an effective method of birth control during treatment and for 12 weeks after you stop treatment with sirolimus.
-  Tell your doctor right away if you become pregnant or think you are pregnant while taking sirolimus.
+- are pregnant or are a female who can become pregnant.
+  Sirolimus may harm your unborn baby.
+  You should not become pregnant during treatment with sirolimus and for 12 weeks after ending treatment with sirolimus.
+  In order to avoid pregnancy, a female who can get pregnant should use effective birth control during treatment and for 12 weeks after your final dose of sirolimus.
+  Talk with your doctor about what birth control method is right for you during this time.
+  Tell your doctor right away if you become pregnant or think you are pregnant during treatment with sirolimus or within 12 weeks after your final dose of sirolimus.
 - It is not known whether sirolimus passes into breastmilk.
   You and your doctor should decide if you will take sirolimus or breastfeed.
   You should not do both.
@@ -110,8 +111,7 @@ What are the possible side effects of sirolimus?
 
 Sirolimus may cause serious side effects, including:
 
-See "What is the most important information I should know about sirolimus?"
-
+- See "What is the most important information I should know about sirolimus?"
 - Serious allergic reactions.
   Tell your doctor or get medical help right away if you get any of following symptoms of an allergic reaction:
 - swelling of your face, eyes, or mouth

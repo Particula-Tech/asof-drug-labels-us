@@ -4,7 +4,13 @@ Cadila Healthcare Ltd.
 
 Ahmedabad, India
 
-Rev.: 06/2017
+Distributed by:
+
+Zydus Pharmaceuticals (USA) Inc.
+
+Pennington, NJ 08534
+
+Rev.: 02/18
 
 Manufactured by:
 
@@ -12,4 +18,10 @@ Cadila Healthcare Ltd.
 
 Ahmedabad, India
 
-Rev.: 06/17
+Distributed by:
+
+Zydus Pharmaceuticals (USA) Inc.
+
+Pennington, NJ 08534
+
+Rev.: 02/18

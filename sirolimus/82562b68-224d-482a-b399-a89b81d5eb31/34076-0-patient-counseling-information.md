@@ -11,11 +11,11 @@ Patients should be given complete dosage instructions [see FDA-Approved Medicati
 
 ## 17.2 Skin Cancer Events
 
-Patients should be told that exposure to sunlight and ultraviolet (UV) light should be limited by wearing protective clothing and using a sunscreen with a high protection factor because of the increased risk for skin cancer [see WARNINGS AND PRECAUTIONS (5.16)].
+Patients should be told that exposure to sunlight and ultraviolet (UV) light should be limited by wearing protective clothing and using a sunscreen with a high protection factor because of the increased risk for skin cancer [see Warnings and Precautions (5.17)].
 
 ## 17.3 Pregnancy Risks
 
-Women of childbearing potential should be informed of the potential risks during pregnancy and told that they should use effective contraception prior to initiation of sirolimus therapy, during sirolimus therapy, and for 12 weeks after sirolimus therapy has been stopped [see USE IN SPECIFIC POPULATIONS (8.1)].
+Women of childbearing potential should be informed of the potential risks during pregnancy and told that they should use effective contraception prior to initiation of sirolimus therapy, during sirolimus therapy, and for 12 weeks after sirolimus therapy has been stopped [see Use In Specific Populations (8.1)].
 
 $Neoral® Soft Gelatin Capsules is the registered trade mark of Novartis
 

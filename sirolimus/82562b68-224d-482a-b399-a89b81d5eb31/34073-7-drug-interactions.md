@@ -7,21 +7,21 @@ Inducers of CYP3A4 and P-gp may decrease sirolimus concentrations whereas inhibi
 
 Cyclosporine, a substrate and inhibitor of CYP3A4 and P-gp, was demonstrated to increase sirolimus concentrations when coadministered with sirolimus.
 In order to diminish the effect of this interaction with cyclosporine, it is recommended that sirolimus be taken 4 hours after administration of cyclosporine oral solution (MODIFIED) and/or cyclosporine capsules (MODIFIED).
-If cyclosporine is withdrawn from combination therapy with sirolimus, higher doses of sirolimus are needed to maintain the recommended sirolimus trough concentration ranges [see DOSAGE AND ADMINISTRATION (2.2), CLINICAL PHARMACOLOGY (12.3)].
+If cyclosporine is withdrawn from combination therapy with sirolimus, higher doses of sirolimus are needed to maintain the recommended sirolimus trough concentration ranges [see Dosage and Administration (2.2), Clinical Pharmacology (12.3)].
 
 ## 7.2 Strong Inducers and Strong Inhibitors of CYP3A4 and P-gp
 
 Avoid concomitant use of sirolimus with strong inducers (e.g., rifampin, rifabutin) and strong inhibitors (e.g., ketoconazole, voriconazole, itraconazole, erythromycin, telithromycin, clarithromycin) of CYP3A4 and P-gp.
-Alternative agents with lesser interaction potential with sirolimus should be considered [see WARNINGS AND PRECAUTIONS (5.17), CLINICAL PHARMACOLOGY (12.3)].
+Alternative agents with lesser interaction potential with sirolimus should be considered [see Warnings and Precautions (5.18), Clinical Pharmacology (12.3)].
 
 ## 7.3 Grapefruit Juice
 
-Because grapefruit juice inhibits the CYP3A4-mediated metabolism of sirolimus, it must not be taken with or be used for dilution of sirolimus [see DRUG INTERACTIONS (7.3), CLINICAL PHARMACOLOGY (12.3)].
+Because grapefruit juice inhibits the CYP3A4-mediated metabolism of sirolimus, it must not be taken with or be used for dilution of sirolimus [see Drug Interactions (7.3), Clinical Pharmacology (12.3)].
 
 ## 7.4 Weak and Moderate Inducers or Inhibitors of CYP3A4 and P-gp
 
 Exercise caution when using sirolimus with drugs or agents that are modulators of CYP3A4 and P-gp.
-The dosage of sirolimus and/or the coadministered drug may need to be adjusted [see CLINICAL PHARMACOLOGY (12.3)].
+The dosage of sirolimus and/or the coadministered drug may need to be adjusted [see Clinical Pharmacology (12.3)].
 
 - Drugs that could increase sirolimus blood concentrations
 
