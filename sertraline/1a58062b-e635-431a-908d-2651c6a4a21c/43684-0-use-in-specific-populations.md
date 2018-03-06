@@ -15,7 +15,7 @@ The background risk of major birth defects and miscarriage for the indicated pop
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2–4% and 15–20%, respectively.
 Advise a pregnant woman of possible risks to the fetus when prescribing sertraline hydrochloride.
 
-Sertraline hydrochloride oral concentrate and oral solution contain 12% alcohol and are not recommended during pregnancy because there is no known safe level of alcohol exposure during pregnancy.
+Sertraline hydrochloride oral solution contains 12% alcohol and is not recommended during pregnancy because there is no known safe level of alcohol exposure during pregnancy.
 
 Clinical Considerations
 
@@ -104,9 +104,9 @@ A subset of patients who completed the randomized controlled trials in patients 
 Those subjects who completed 34 weeks of sertraline hydrochloride treatment (10 weeks in a placebo-controlled trial + 24 weeks open-label, n=68) had weight gain that was similar to that expected using data from age-adjusted peers.
 However, there are no studies that directly evaluate the long-term effects of sertraline hydrochloride on the growth, development, and maturation in pediatric patients.
 
-Alcohol Content in Sertraline Hydrochloride Oral Concentrate and Oral Solution
+Alcohol Content in Sertraline Hydrochloride Oral Solution
 
-Sertraline hydrochloride oral concentrate and oral solution contain 12% alcohol.
+Sertraline hydrochloride oral solution contains 12% alcohol.
 
 Juvenile Animal Data
 

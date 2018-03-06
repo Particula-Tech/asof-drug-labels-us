@@ -6,22 +6,22 @@ Suicidal Thoughts and Behaviors
 
 Advise patients and caregivers to look for the emergence of suicidality, especially early during treatment and when the dosage is adjusted up or down, and instruct them to report such symptoms to the healthcare provider [See Boxed Warning and Warnings and Precautions (5.1)].
 
-Important Administration Instructions for Oral Concentrate and Oral Solution
+Important Administration Instructions for Oral Solution
 
-For patients prescribed sertraline hydrochloride oral concentrate and oral solution, inform them that:
+For patients prescribed sertraline hydrochloride oral solution, inform them that:
 
-- Sertraline hydrochloride oral concentrate and oral solution must be diluted before use.
+- Sertraline hydrochloride oral solution must be diluted before use.
   Do not mix in advance.
-- Use the dropper provided to remove the required amount of sertraline hydrochloride oral concentrate and oral solution and mix with 4 ounces (1/2 cup) of water, ginger ale, lemon/lime soda, lemonade or orange juice ONLY.
-  Do not mix sertraline hydrochloride oral concentrate and oral solution with anything other than the liquids listed.
+- Use the dropper provided to remove the required amount of sertraline hydrochloride oral solution and mix with 4 ounces (1/2 cup) of water, ginger ale, lemon/lime soda, lemonade or orange juice ONLY.
+  Do not mix sertraline hydrochloride oral solution with anything other than the liquids listed.
 - Take the dose immediately after mixing.
   At times, a slight haze may appear after mixing; this is normal.
 - The dropper dispenser contains dry natural rubber, a consideration for patients with latex sensitivity.
 
-Disulfiram Contraindication for sertraline hydrochloride Oral Concentrate and Oral Solution
+Disulfiram Contraindication for sertraline hydrochloride Oral Solution
 
-Inform patients not to take disulfiram when taking sertraline hydrochloride oral concentrate and oral solution.
-Concomitant use is contraindicated due the alcohol content of the oral concentrate and oral solution [See Contraindication (4)].
+Inform patients not to take disulfiram when taking sertraline hydrochloride oral solution.
+Concomitant use is contraindicated due the alcohol content of the oral solution [See Contraindication (4)].
 
 Serotonin Syndrome
 

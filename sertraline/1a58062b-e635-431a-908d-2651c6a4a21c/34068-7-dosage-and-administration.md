@@ -48,11 +48,11 @@ In addition, at least 14 days must elapse after stopping sertraline hydrochlorid
 Adverse reactions may occur upon discontinuation of sertraline hydrochloride [See Warnings and Precautions (5.5)].
 Gradually reduce the dosage rather than stopping sertraline hydrochloride abruptly whenever possible.
 
-## 2.7 Preparation of Sertraline Hydrochloride Oral Concentrate and Oral Solution
+## 2.7 Preparation of Sertraline Hydrochloride Oral Solution
 
-Sertraline hydrochloride oral concentrate and oral solution must be diluted before use.
+Sertraline hydrochloride oral solution must be diluted before use.
 
-- Use the supplied calibrated dropper to measure the amount of sertraline hydrochloride oral concentrate and oral solution needed
+- Use the supplied calibrated dropper to measure the amount of sertraline hydrochloride oral solution needed
 - Note: The supplied calibrated dropper has 25 mg and 50 mg graduation marks only
 - Mix with 4 ounces (1/2 cup) of water, ginger ale, lemon/lime soda, lemonade or orange juice ONLY.
   After mixing, a slight haze may appear, which is normal.
