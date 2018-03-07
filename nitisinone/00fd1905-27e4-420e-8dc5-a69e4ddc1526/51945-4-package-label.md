@@ -1,4 +1,4 @@
-Principal Display Panel - 2 mg Carton Label
+Principal Display Panel - 2 mg Carton
 
 NDC 70709-002-60
 
@@ -27,7 +27,7 @@ Store at room temperature between 20°C to 25°C (68°F to 77°F).
 
 Rx only CYCLE PHARMA 60 tablets
 
-Principal Display Panel - 5 mg Carton Label
+Principal Display Panel - 5 mg Carton
 
 NDC 70709-005-60
 
@@ -56,7 +56,7 @@ Store at room temperature between 20°C to 25°C (68°F to 77°F).
 
 Rx only CYCLE PHARMA 60 tablets
 
-Principal Display Panel - 10 mg Carton Label
+Principal Display Panel - 10 mg Carton
 
 NDC 70709-000-60
 
