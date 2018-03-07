@@ -1,4 +1,4 @@
-# 14. CLINICAL STUDIES
+# 14 CLINICAL STUDIES
 
 ## 14.1 Primary Hypercholesterolemia (Heterozygous Familial and Non familial) and Mixed Dyslipidemia
 

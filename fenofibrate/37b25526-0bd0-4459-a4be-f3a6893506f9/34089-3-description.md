@@ -1,4 +1,4 @@
-# 11. DESCRIPTION
+# 11 DESCRIPTION
 
 Fenofibrate, is a lipid regulating agent available as capsules for oral administration.
 Each capsule contains 43 mg or 130 mg of micronized fenofibrate.
@@ -10,3 +10,5 @@ Fenofibrate is a white solid which is stable under ordinary conditions.
 
 Inactive Ingredients: Each gelatin capsule contains sugar spheres, hypromellose, sodium lauryl sulfate, dimethicone, simethicone, and talc.
 The gelatin capsules also contain black iron oxide, D&C Yellow #10, Indigo carmine FD&C Blue #2, shellac, soya lecithin, sulfur dioxide, titanium dioxide and yellow iron oxide.
+
+Fenofibrate capsules meets USP Dissolution Test 5.

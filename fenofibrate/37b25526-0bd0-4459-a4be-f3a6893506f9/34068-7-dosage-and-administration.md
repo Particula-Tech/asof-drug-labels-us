@@ -1,6 +1,6 @@
-# 2. DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 General Considerations
+## 2.1 General Consideration
 
 Patients should be placed on an appropriate lipid-lowering diet before receiving fenofibrate capsules, and should continue this diet during treatment with fenofibrate.
 Fenofibrate capsules can be given without regard to meals.
