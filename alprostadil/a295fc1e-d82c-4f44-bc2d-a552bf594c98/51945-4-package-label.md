@@ -34,7 +34,7 @@ For Intracavernosal Use Only
 
 20 mcg
 
-Diluent to be Used With This Product Contains Benzyl Alcohol as a Preservative
+Diluent to be used with this product should contain benzyl alcohol as a preservative.
 
 This Package Does NOT Contain Diluent Rx only
 
@@ -66,6 +66,6 @@ For Intracavernosal Use Only
 
 40 mcg
 
-Diluent to be Used With This Product Contains Benzyl Alcohol as a Preservative
+Diluent to be used with this product should contain benzyl alcohol as a preservative.
 
 This Package Does NOT Contain Diluent Rx only
