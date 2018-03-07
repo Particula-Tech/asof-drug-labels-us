@@ -2,7 +2,7 @@
 
 Calcitriol Capsules
 
-0.25 mg capsules are supplied as yellow, oval soft gelatin capsules, imprinted with “547” in black ink.
+0.25 mcg capsules are supplied as yellow, oval soft gelatin capsules, imprinted with “547” in black ink.
 
 NDC 0054-0007-13: Bottle of 30 Capsules
 

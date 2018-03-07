@@ -1,1 +1,5 @@
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
+
+Calcitriol Capsules,.25 mcg
+
+0054-0007-13, Rx Only
