@@ -33,7 +33,7 @@ Doses ≤30 mg/kg/day (systemic exposures ≤60 times the human exposure at 40 m
 Juvenile Toxicology Study
 
 In a juvenile study, rats were dosed by oral gavage with 10 or 50 mg/kg/day from weaning for 9 weeks prior to pairing, throughout pairing and up to the day before necropsy for males or up to gestation day 7 for females.
-No effects on sexual development, testicular and epididymal appearance or fertility were observed at either dose level.
+No effects on sexual development, testicular and epididymal appearance or fertility were observed at either dose level (2 times or up to 24 times the human exposure (AUC) at the maximum pediatric dose of 20 mg/day).
 
 Pediatric information is approved for AstraZeneca’s CRESTOR (rosuvastatin calcium)tablets.
 However, due to AstraZeneca’s marketing exclusivity rights, this drug product isnot labeled with that pediatric information.

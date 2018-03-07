@@ -166,4 +166,4 @@ Lic.
 No. KTK/25/460/2001
 
 Biocon Pharma Inc. Revised.
-January, 2017
+September, 2017
