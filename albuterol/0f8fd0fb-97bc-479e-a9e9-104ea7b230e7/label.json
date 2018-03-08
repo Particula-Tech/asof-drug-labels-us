@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA020503"
+  ],
+  "inn": "albuterol",
+  "labeler": "Merck Sharp & Dohme Corp.",
+  "package_ndcs": [
+    "0085-1132-04"
+  ],
+  "products": [
+    {
+      "form": "AEROSOL, METERED",
+      "generic": "albuterol sulfate",
+      "name": "Proventil HFA"
+    }
+  ],
+  "setid": "0f8fd0fb-97bc-479e-a9e9-104ea7b230e7",
+  "source": "dailymed"
+}
