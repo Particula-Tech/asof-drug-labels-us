@@ -31,6 +31,6 @@ BEN-005
 Distributed By: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
 Rev.
-09/2017
+03/2018
 
 All rights reserved.
