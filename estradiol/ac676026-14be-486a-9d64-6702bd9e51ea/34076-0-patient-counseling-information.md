@@ -134,11 +134,11 @@ Step 1.
 Choose your schedule for twice-a-week application.
 
 Put on a new patch twice a week.
-Use one of the schedules on the patch box.
+Use one of the schedules on the back panel of the patch box.
 
 For example, if you apply your first patch on Sunday, take that patch off on Wednesday and put on a new one.
 Stay on this schedule as long as you use Alora.
-To help remind yourself, mark the schedule on the patch box.
+To help remind yourself, mark the schedule on the back panel of the patch box.
 Put a check next to the first day you apply the patch.
 When you change your patch, don’t put the new one in the same place.
 To help reduce the chance of skin redness or irritation, wait at least 1 week before you reuse a spot.
@@ -161,32 +161,21 @@ Choose a spot for the patch
 Step 4.
 How to apply the patch
 
-- Open the pouch that contains the patch.
-- Locate the notch on the top left or right corner of the pouch.
-- Hold the pouch at the notch and tear off the top edge.
+- Open the pouch that contains the patch by tearing off the edge.
   Do not cut the pouch with scissors, which might damage the patch inside.
 - Pull the patch out.
 
-- Apply one half of the patch to your skin.
+- A clear, protective liner covers the sticky side of the patch – the side that will be put on your skin.
+  The liner has triangular notches in the middle to help you remove it from the patch.
+  With the sticky side facing you, tear half of the liner away from the patch starting at the middle notch, as shown in the illustration below
+- Hold the patch at one of the outside edges (touch the sticky side as little as possible).
+  If you touch the sticky surface, the patch may not stay on as well.
 
-- Remove half of the liner, which covers the sticky surface of the patch.
-  To find the liner, bend the patch in half.
-  Then grab the clear straight edge of the liner and pull that piece off.
-- Without touching the sticky surface, press the sticky half of the patch onto your skin.
-  (If you touch the sticky surface, the patch may not stay on as well.)
-- Rub the sticky half firmly to ensure full contact with your skin.
-- Apply the second half of the patch to your skin.
-
-- Bend the patch back over itself.
-  Press down on the liner firmly.
-- Push the liner forward a little to loosen the edge.
-
-- Grab the loose edge at either corner and peel off the second piece of the liner.
-  Try not to touch the sticky surface of the patch.
-- Press the entire patch firmly onto the skin with your finger tips.
-
-Press for at least 10 seconds to make sure the patch will stay in place.
-Be sure all of it sticks to your skin, even around the edges.
+- Immediately apply the sticky half of the patch to your skin.
+  Press for at least 10 seconds to make sure the patch will stay in place.
+- Pull off the other half of the protective liner.
+  Apply the second half of the patch to your skin.
+  Be sure all of it sticks to your skin, even around the edges.
 
 To help the patch stay in place:
 
@@ -262,7 +251,9 @@ For all medical inquiries contact: Allergan Medical Communications 1-800-678-160
 Distributed by: Allergan USA, Inc. Irvine, CA 92612
 
 Rev.
-03/2018
+02/2018
 
 © 2018 Allergan.
 All rights reserved.
+
+ALORA® is a registered trademark of Allergan Sales, LLC.

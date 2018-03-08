@@ -37,7 +37,9 @@ Distributed by: Allergan USA, Inc.
 Irvine, CA 92612
 
 Rev.
-03/2018
+02/2018
 
 © 2018 Allergan.
 All rights reserved.
+
+ALORA® is a registered trademark of Allergan Sales, LLC.
