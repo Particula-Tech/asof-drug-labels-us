@@ -34,7 +34,9 @@ Table 9: Treatment-Emergent Adverse Reactions: Incidence in a Short-Term, Placeb
 
 |  | Percentage of Patients Reporting Adverse Event |  |  |  |
 | --- | --- | --- | --- | --- |
-| Body System/Adverse Reaction | Placebo (N=98) | ZYPREXA RELPREVV 405 mg/4 wks (N=100) | ZYPREXA RELPREVV 210 mg/2 wks (N=106) | ZYPREXA RELPREVV 300 mg/2 wks (N=100) |
+|  |  | ZYPREXA RELPREVV | ZYPREXA RELPREVV | ZYPREXA RELPREVV |
+|  | Placebo | 405 mg/4 wks | 210 mg/2 wks | 300 mg/2 wks |
+| Body System/Adverse Reaction | (N=98) | (N=100) | (N=106) | (N=100) |
 | Ear and Labyrinth Disorders |  |  |  |  |
 | Ear pain | 2 | 1 | 1 | 4 |
 | Gastrointestinal Disorders |  |  |  |  |
@@ -115,7 +117,8 @@ Table 10: Treatment-Emergent Extrapyramidal Symptoms Assessed by Rating Scales I
 
 |  | Percentage of Patients Reporting Event |  |  |  |
 | --- | --- | --- | --- | --- |
-| Placebo | Olanzapine 5 ± 2.5 mg/day | Olanzapine 10 ± 2.5 mg/day | Olanzapine 15 ± 2.5 mg/day |  |
+|  |  | Olanzapine | Olanzapine | Olanzapine |
+|  | Placebo | 5 ± 2.5 mg/day | 10 ± 2.5 mg/day | 15 ± 2.5 mg/day |
 | Parkinsonisma | 15 | 14 | 12 | 14 |
 | Akathisiab | 23 | 16 | 19 | 27 |
 | a Percentage of patients with a Simpson-Angus Scale total score >3. |  |  |  |  |
@@ -127,7 +130,9 @@ Table 11: Treatment-Emergent Extrapyramidal Symptoms Assessed by Adverse Reactio
 
 |  | Percentage of Patients Reporting Event |  |  |  |
 | --- | --- | --- | --- | --- |
-| Placebo (N=68) | Olanzapine 5 ± 2.5 mg/day (N=65) | Olanzapine 10 ± 2.5 mg/day (N=64) | Olanzapine 15 ± 2.5 mg/day (N=69) |  |
+|  |  | Olanzapine | Olanzapine | Olanzapine |
+|  | Placebo | 5 ± 2.5 mg/day | 10 ± 2.5 mg/day | 15 ± 2.5 mg/day |
+|  | (N=68) | (N=65) | (N=64) | (N=69) |
 | Dystonic eventsa | 1 | 3 | 2 | 3 |
 | Parkinsonism eventsb | 10 | 8 | 14 | 20 |
 | Akathisia eventsc | 1 | 5 | 11 | 10 |
@@ -167,17 +172,27 @@ Following is a list of treatment-emergent adverse reactions reported by patients
 This listing is not intended to include reactions (1) already listed in previous tables or elsewhere in labeling, (2) for which a drug cause was remote, (3) which were so general as to be uninformative, (4) which were not considered to have significant clinical implications, or (5) which occurred at a rate equal to or less than placebo.
 Reactions are classified by body system using the following definitions: frequent adverse reactions are those occurring in at least 1/100 patients; infrequent adverse reactions are those occurring in 1/100 to 1/1000 patients; rare adverse reactions are those occurring in fewer than 1/1000 patients.
 
-- Body as a Whole — Infrequent: chills, face edema, photosensitivity reaction, suicide attempt1; Rare: chills and fever, hangover effect, sudden death1.
-- Cardiovascular System — Infrequent: cerebrovascular accident, vasodilatation.
-- Digestive System — Infrequent: abdominal distension, nausea and vomiting, tongue edema; Rare: ileus, intestinal obstruction, liver fatty deposit.
-- Hemic and Lymphatic System — Infrequent: thrombocytopenia.
-- Metabolic and Nutritional Disorders — Frequent: alkaline phosphatase increased; Infrequent: bilirubinemia, hypoproteinemia.
-- Musculoskeletal System — Rare: osteoporosis.
-- Nervous System — Infrequent: ataxia, dysarthria, libido decreased, stupor; Rare: coma.
-- Respiratory System — Infrequent: epistaxis; Rare: lung edema.
-- Skin and Appendages — Infrequent: alopecia.
-- Special Senses — Infrequent: abnormality of accommodation, dry eyes; Rare: mydriasis.
-- Urogenital System — Infrequent: amenorrhea2, breast pain, decreased menstruation, impotence2, increased menstruation2, menorrhagia2, metrorrhagia2, polyuria2, urinary frequency, urinary retention, urinary urgency, urination impaired.
+Body as a Whole — Infrequent: chills, face edema, photosensitivity reaction, suicide attempt1; Rare: chills and fever, hangover effect, sudden death1.
+
+Cardiovascular System — Infrequent: cerebrovascular accident, vasodilatation.
+
+Digestive System — Infrequent: abdominal distension, nausea and vomiting, tongue edema; Rare: ileus, intestinal obstruction, liver fatty deposit.
+
+Hemic and Lymphatic System — Infrequent: thrombocytopenia.
+
+Metabolic and Nutritional Disorders — Frequent: alkaline phosphatase increased; Infrequent: bilirubinemia, hypoproteinemia.
+
+Musculoskeletal System — Rare: osteoporosis.
+
+Nervous System — Infrequent: ataxia, dysarthria, libido decreased, stupor; Rare: coma.
+
+Respiratory System — Infrequent: epistaxis; Rare: lung edema.
+
+Skin and Appendages — Infrequent: alopecia.
+
+Special Senses — Infrequent: abnormality of accommodation, dry eyes; Rare: mydriasis.
+
+Urogenital System — Infrequent: amenorrhea2, breast pain, decreased menstruation, impotence2, increased menstruation2, menorrhagia2, metrorrhagia2, polyuria2, urinary frequency, urinary retention, urinary urgency, urination impaired.
 
 1 These terms represent serious adverse events but do not meet the definition for adverse drug reactions.
 They are included here because of their seriousness.

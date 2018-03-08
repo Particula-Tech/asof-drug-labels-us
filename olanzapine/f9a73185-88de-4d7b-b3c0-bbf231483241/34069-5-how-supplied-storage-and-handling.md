@@ -7,9 +7,11 @@ Each carton includes one vial of olanzapine pamoate monohydrate in dosage streng
 
 Needle-Pro® is a registered trademark of Smiths Medical.
 
-- NDC 0002-7635-11 — single-use convenience kit: 210 mg vial (VL7635) with rust flip-off cap and 3-mL vial of sterile diluent (VL7622) with gray flip-off cap
-- NDC 0002-7636-11 — single-use convenience kit: 300 mg vial (VL7636) with olive flip-off cap and 3-mL vial of sterile diluent (VL7622) with gray flip-off cap
-- NDC 0002-7637-11 — single-use convenience kit: 405 mg vial (VL7637) with steel blue flip-off cap and 3-mL vial of sterile diluent (VL7622) with gray flip-off cap
+NDC 0002-7635-11 — single-use convenience kit: 210 mg vial (VL7635) with rust flip-off cap and 3-mL vial of sterile diluent (VL7622) with gray flip-off cap
+
+NDC 0002-7636-11 — single-use convenience kit: 300 mg vial (VL7636) with olive flip-off cap and 3-mL vial of sterile diluent (VL7622) with gray flip-off cap
+
+NDC 0002-7637-11 — single-use convenience kit: 405 mg vial (VL7637) with steel blue flip-off cap and 3-mL vial of sterile diluent (VL7622) with gray flip-off cap
 
 ## 16.2 Storage and Handling
 

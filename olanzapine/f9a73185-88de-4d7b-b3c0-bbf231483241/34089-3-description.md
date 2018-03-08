@@ -1,7 +1,7 @@
 # 11 DESCRIPTION
 
 ZYPREXA RELPREVV is an atypical antipsychotic that belongs to the thienobenzodiazepine class.
-The chemical designation is 10H-thieno[2,3-b][1,5]benzodiazepine, 2-methyl-4-(4-methyl-1-piperazinyl)-,4,4'-methylenebis[3-hydroxy-2-naphthalenecarboxylate] (1:1), monohydrate.
+The chemical designation is 10H-thieno[2,3-b][1,5]benzodiazepine, 2-methyl-4-(4-methyl-1-piperazinyl)-,4,4′-methylenebis[3-hydroxy-2-naphthalenecarboxylate] (1:1), monohydrate.
 The formula is C17H22N4S•C23H14O6•H2O, which corresponds to a molecular weight of 718.8.
 The chemical structure is:
 

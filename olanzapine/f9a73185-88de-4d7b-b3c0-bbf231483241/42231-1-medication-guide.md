@@ -206,9 +206,7 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Medication Guide revised October 6, 2016
 
-Marketed by: Lilly USA, LLC
-
-Indianapolis, IN 46285, USA
+Marketed by: Lilly USA, LLC Indianapolis, IN 46285, USA
 
 www.zyprexarelprevv.com
 

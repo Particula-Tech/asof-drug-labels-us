@@ -23,8 +23,10 @@ Table 1: Recommended Dosing for ZYPREXA RELPREVV Based on Correspondence to Oral
 
 | Target Oral ZYPREXA Dose | Dosing of ZYPREXA RELPREVV During the First 8 Weeks | Maintenance Dose After 8 Weeks of ZYPREXA RELPREVV Treatment |
 | --- | --- | --- |
-| 10 mg/day | 210 mg/2 weeks or 405 mg/4 weeks | 150 mg/2 weeks or 300 mg/4 weeks |
-| 15 mg/day | 300 mg/2 weeks | 210 mg/2 weeks or 405 mg/4 weeks |
+| 10 mg/day | 210 mg/2 weeks or | 150 mg/2 weeks or |
+|  | 405 mg/4 weeks | 300 mg/4 weeks |
+| 15 mg/day | 300 mg/2 weeks | 210 mg/2 weeks or |
+|  |  | 405 mg/4 weeks |
 | 20 mg/day | 300 mg/2 weeks | 300 mg/2 weeks |
 
 ZYPREXA RELPREVV doses greater than 405 mg every 4 weeks or 300 mg every 2 weeks have not been evaluated in clinical trials.
@@ -95,23 +97,43 @@ Step 3: Reconstituting ZYPREXA RELPREVV
 Please read the Hypodermic Needle-Pro Instructions for Use before proceeding with Step 3.
 Failure to follow these instructions may result in a needlestick injury.
 
-- Loosen the powder by lightly tapping the vial.
-- Open the prepackaged Hypodermic Needle-Pro syringe and needle with needle protection device.
-- Withdraw the pre-determined diluent volume (Step 2) into the syringe.
-- Inject the diluent into the powder vial.
-- Withdraw air to equalize the pressure in the vial by pulling back slightly on the plunger in the syringe.
-- Remove the needle from the vial, holding the vial upright to prevent any loss of material.
-- Engage the needle safety device (refer to complete Hypodermic Needle-Pro Instructions for Use).
-- Pad a hard surface to cushion impact (see Figure 1).
-  Tap the vial firmly and repeatedly on the surface until no powder is visible.
-- Visually check the vial for clumps.
-  Unsuspended powder appears as yellow, dry clumps clinging to the vial.
-  Additional tapping may be required if large clumps remain (see Figure 2).
-- Shake the vial vigorously until the suspension appears smooth and is consistent in color and texture.
-  The suspended product will be yellow and opaque (see Figure 3).
-- If foam forms, let vial stand to allow foam to dissipate.
-- If the product is not used right away, it should be shaken vigorously to re-suspend.
-  Reconstituted ZYPREXA RELPREVV remains stable for up to 24 hours in the vial.
+Loosen the powder by lightly tapping the vial.
+
+Open the prepackaged Hypodermic Needle-Pro syringe and needle with needle protection device.
+
+Withdraw the pre-determined diluent volume (Step 2) into the syringe.
+
+Inject the diluent into the powder vial.
+
+Withdraw air to equalize the pressure in the vial by pulling back slightly on the plunger in the syringe.
+
+Remove the needle from the vial, holding the vial upright to prevent any loss of material.
+
+Engage the needle safety device (refer to complete Hypodermic Needle-Pro Instructions for Use).
+
+Pad a hard surface to cushion impact (see Figure 1).
+Tap the vial firmly and repeatedly on the surface until no powder is visible.
+
+| Figure 1: Tap firmly to mix. |
+| --- |
+
+Visually check the vial for clumps.
+Unsuspended powder appears as yellow, dry clumps clinging to the vial.
+Additional tapping may be required if large clumps remain (see Figure 2).
+
+| Figure 2: Check for unsuspended powder and repeat tapping if needed. |
+| --- |
+
+Shake the vial vigorously until the suspension appears smooth and is consistent in color and texture.
+The suspended product will be yellow and opaque (see Figure 3).
+
+| Figure 3: Vigorously shake vial. |
+| --- |
+
+If foam forms, let vial stand to allow foam to dissipate.
+
+If the product is not used right away, it should be shaken vigorously to re-suspend.
+Reconstituted ZYPREXA RELPREVV remains stable for up to 24 hours in the vial.
 
 Step 4: Injecting ZYPREXA RELPREVV
 
@@ -128,22 +150,33 @@ Suspension concentration is 150 mg/mL ZYPREXA RELPREVV.
 | 300 mg | 2 mL |
 | 405 mg | 2.7 mL |
 
-- Attach a new safety needle to the syringe.
-- Slowly withdraw the desired amount into the syringe.
-- Some excess product will remain in the vial.
-- Engage the needle safety device and remove needle from syringe.
-- For administration, select the 19-gauge, 1.5-inch (38 mm) Hypodermic Needle-Pro needle with needle protection device.
-  For obese patients, a 2-inch (50 mm), 19-gauge or larger needle (not included in convenience kit) may be used.
-  To help prevent clogging, a 19-gauge or larger needle must be used.
-- Attach the new safety needle to the syringe prior to injection.
-  Once the suspension has been removed from the vial, it should be injected immediately.
-- For deep intramuscular gluteal injection only.
-  Do not inject intravenously or subcutaneously.
-- Select and prepare a site for injection in the gluteal area.
-- After insertion of the needle into the muscle, aspirate for several seconds to ensure that no blood appears.
-  If any blood is drawn into the syringe, discard the syringe and the dose and begin with a new convenience kit.
-  The injection should be performed with steady, continuous pressure.
-- Do not massage the injection site.
-- Engage the needle safety device.
-- Dispose of the vials, needles, and syringe appropriately after injection.
-  The vial is for single-use only.
+Attach a new safety needle to the syringe.
+
+Slowly withdraw the desired amount into the syringe.
+
+Some excess product will remain in the vial.
+
+Engage the needle safety device and remove needle from syringe.
+
+For administration, select the 19-gauge, 1.5-inch (38 mm) Hypodermic Needle-Pro needle with needle protection device.
+For obese patients, a 2-inch (50 mm), 19-gauge or larger needle (not included in convenience kit) may be used.
+To help prevent clogging, a 19-gauge or larger needle must be used.
+
+Attach the new safety needle to the syringe prior to injection.
+Once the suspension has been removed from the vial, it should be injected immediately.
+
+For deep intramuscular gluteal injection only.
+Do not inject intravenously or subcutaneously.
+
+Select and prepare a site for injection in the gluteal area.
+
+After insertion of the needle into the muscle, aspirate for several seconds to ensure that no blood appears.
+If any blood is drawn into the syringe, discard the syringe and the dose and begin with a new convenience kit.
+The injection should be performed with steady, continuous pressure.
+
+Do not massage the injection site.
+
+Engage the needle safety device.
+
+Dispose of the vials, needles, and syringe appropriately after injection.
+The vial is for single-use only.

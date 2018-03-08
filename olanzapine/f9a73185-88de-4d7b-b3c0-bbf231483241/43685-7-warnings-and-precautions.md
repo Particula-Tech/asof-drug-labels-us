@@ -109,10 +109,10 @@ Table 2: Changes in Fasting Glucose Levels from Adult Olanzapine Monotherapy Stu
 |  |  |  | Up to 12 weeks exposure |  | At least 48 weeks exposure |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Laboratory Analyte | Category Change (at least once) from Baseline | Treatment Arm | N | Patients | N | Patients |
-| Fasting Glucose | Normal to High (<100 mg/dL to ≥126 mg/dL) | Olanzapine | 543 | 2.2% | 345 | 12.8% |
-| Placebo | 293 | 3.4% | NAa | NAa |  |  |
-| Borderline to High (≥100 mg/dL and <126 mg/dL to ≥126 mg/dL) | Olanzapine | 178 | 17.4% | 127 | 26.0% |  |
-| Placebo | 96 | 11.5% | NAa | NAa |  |  |
+|  | Normal to High | Olanzapine | 543 | 2.2% | 345 | 12.8% |
+| Fasting | (<100 mg/dL to ≥126 mg/dL) | Placebo | 293 | 3.4% | NAa | NAa |
+| Glucose | Borderline to High | Olanzapine | 178 | 17.4% | 127 | 26.0% |
+|  | (≥100 mg/dL and <126 mg/dL to ≥126 mg/dL) | Placebo | 96 | 11.5% | NAa | NAa |
 | a Not Applicable. |  |  |  |  |  |  |
 
 The mean change in fasting glucose for patients exposed at least 48 weeks was 4.2 mg/dL (N=487).
@@ -129,10 +129,10 @@ Table 3: Changes in Fasting Glucose Levels from Adolescent Oral Olanzapine Monot
 |  |  |  | Up to 12 weeks exposure |  | At least 24 weeks exposure |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Laboratory Analyte | Category Change (at least once) from Baseline | Treatment Arm | N | Patients | N | Patients |
-| Fasting Glucose | Normal to High (<100 mg/dL to ≥126 mg/dL) | Olanzapine | 124 | 0% | 108 | 0.9% |
-| Placebo | 53 | 1.9% | NAa | NAa |  |  |
-| Borderline to High (≥100 mg/dL and <126 mg/dL to ≥126 mg/dL) | Olanzapine | 14 | 14.3% | 13 | 23.1% |  |
-| Placebo | 13 | 0% | NAa | NAa |  |  |
+|  | Normal to High | Olanzapine | 124 | 0% | 108 | 0.9% |
+| Fasting | (<100 mg/dL to ≥126 mg/dL) | Placebo | 53 | 1.9% | NAa | NAa |
+| Glucose | Borderline to High | Olanzapine | 14 | 14.3% | 13 | 23.1% |
+|  | (≥100 mg/dL and <126 mg/dL to ≥126 mg/dL) | Placebo | 13 | 0% | NAa | NAa |
 | a Not Applicable. |  |  |  |  |  |  |
 
 Dyslipidemia
@@ -158,24 +158,24 @@ Table 4: Changes in Fasting Lipids Values from Adult Olanzapine Monotherapy Stud
 |  |  |  | Up to 12 weeks exposure |  | At least 48 weeks exposure |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Laboratory Analyte | Category Change (at least once) from Baseline | Treatment Arm | N | Patients | N | Patients |
-| Fasting Triglycerides | Increase by ≥50 mg/dL | Olanzapine | 745 | 39.6% | 487 | 61.4% |
-| Placebo | 402 | 26.1% | NAa | NAa |  |  |
-| Normal to High (<150 mg/dL to ≥200 mg/dL) | Olanzapine | 457 | 9.2% | 293 | 32.4% |  |
-| Placebo | 251 | 4.4% | NAa | NAa |  |  |
-| Borderline to High (≥150 mg/dL and <200 mg/dL to ≥200 mg/dL) | Olanzapine | 135 | 39.3% | 75 | 70.7% |  |
-| Placebo | 65 | 20.0% | NAa | NAa |  |  |
-| Fasting Total Cholesterol | Increase by ≥40 mg/dL | Olanzapine | 745 | 21.6% | 489 | 32.9% |
-| Placebo | 402 | 9.5% | NAa | NAa |  |  |
-| Normal to High (<200 mg/dL to ≥240 mg/dL) | Olanzapine | 392 | 2.8% | 283 | 14.8% |  |
-| Placebo | 207 | 2.4% | NAa | NAa |  |  |
-| Borderline to High (≥200 mg/dL and <240 mg/dL to ≥240 mg/dL) | Olanzapine | 222 | 23.0% | 125 | 55.2% |  |
-| Placebo | 112 | 12.5% | NAa | NAa |  |  |
-| Fasting LDL Cholesterol | Increase by ≥30 mg/dL | Olanzapine | 536 | 23.7% | 483 | 39.8% |
-| Placebo | 304 | 14.1% | NAa | NAa |  |  |
-| Normal to High (<100 mg/dL to ≥160 mg/dL) | Olanzapine | 154 | 0% | 123 | 7.3% |  |
-| Placebo | 82 | 1.2% | NAa | NAa |  |  |
-| Borderline to High (≥100 mg/dL and <160 mg/dL to ≥160 mg/dL) | Olanzapine | 302 | 10.6% | 284 | 31.0% |  |
-| Placebo | 173 | 8.1% | NAa | NAa |  |  |
+|  | Increase by ≥50 mg/dL | Olanzapine | 745 | 39.6% | 487 | 61.4% |
+|  |  | Placebo | 402 | 26.1% | NAa | NAa |
+| Fasting | Normal to High | Olanzapine | 457 | 9.2% | 293 | 32.4% |
+| Triglycerides | (<150 mg/dL to ≥200 mg/dL) | Placebo | 251 | 4.4% | NAa | NAa |
+|  | Borderline to High | Olanzapine | 135 | 39.3% | 75 | 70.7% |
+|  | (≥150 mg/dL and <200 mg/dL to ≥200 mg/dL) | Placebo | 65 | 20.0% | NAa | NAa |
+|  | Increase by ≥40 mg/dL | Olanzapine | 745 | 21.6% | 489 | 32.9% |
+|  |  | Placebo | 402 | 9.5% | NAa | NAa |
+| Fasting Total | Normal to High | Olanzapine | 392 | 2.8% | 283 | 14.8% |
+| Cholesterol | (<200 mg/dL to ≥240 mg/dL) | Placebo | 207 | 2.4% | NAa | NAa |
+|  | Borderline to High | Olanzapine | 222 | 23.0% | 125 | 55.2% |
+|  | (≥200 mg/dL and <240 mg/dL to ≥240 mg/dL) | Placebo | 112 | 12.5% | NAa | NAa |
+|  | Increase by ≥30 mg/dL | Olanzapine | 536 | 23.7% | 483 | 39.8% |
+|  |  | Placebo | 304 | 14.1% | NAa | NAa |
+| Fasting LDL | Normal to High | Olanzapine | 154 | 0% | 123 | 7.3% |
+| Cholesterol | (<100 mg/dL to ≥160 mg/dL) | Placebo | 82 | 1.2% | NAa | NAa |
+|  | Borderline to High | Olanzapine | 302 | 10.6% | 284 | 31.0% |
+|  | (≥100 mg/dL and <160 mg/dL to ≥160 mg/dL) | Placebo | 173 | 8.1% | NAa | NAa |
 | a Not Applicable. |  |  |  |  |  |  |
 
 In phase 1 of the Clinical Antipsychotic Trials of Intervention Effectiveness (CATIE), over a median exposure of 9.2 months, the mean increase in triglycerides in patients taking olanzapine was 40.5 mg/dL.
@@ -198,24 +198,24 @@ Table 5: Changes in Fasting Lipids Values from Adolescent Oral Olanzapine Monoth
 |  |  |  | Up to 6 weeks exposure |  | At least 24 weeks exposure |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Laboratory Analyte | Category Change (at least once) from Baseline | Treatment Arm | N | Patients | N | Patients |
-| Fasting Triglycerides | Increase by ≥50 mg/dL | Olanzapine | 138 | 37.0% | 122 | 45.9% |
-| Placebo | 66 | 15.2% | NAa | NAa |  |  |
-| Normal to High (<90 mg/dL to >130 mg/dL) | Olanzapine | 67 | 26.9% | 66 | 36.4% |  |
-| Placebo | 28 | 10.7% | NAa | NAa |  |  |
-| Borderline to High (≥90 mg/dL and ≤130 mg/dL to >130 mg/dL) | Olanzapine | 37 | 59.5% | 31 | 64.5% |  |
-| Placebo | 17 | 35.3% | NAa | NAa |  |  |
-| Fasting Total Cholesterol | Increase by ≥40 mg/dL | Olanzapine | 138 | 14.5% | 122 | 14.8% |
-| Placebo | 66 | 4.5% | NAa | NAa |  |  |
-| Normal to High (<170 mg/dL to ≥200 mg/dL) | Olanzapine | 87 | 6.9% | 78 | 7.7% |  |
-| Placebo | 43 | 2.3% | NAa | NAa |  |  |
-| Borderline to High (≥170 mg/dL and <200 mg/dL to ≥200 mg/dL) | Olanzapine | 36 | 38.9% | 33 | 57.6% |  |
-| Placebo | 13 | 7.7% | NAa | NAa |  |  |
-| Fasting LDL Cholesterol | Increase by ≥30 mg/dL | Olanzapine | 137 | 17.5% | 121 | 22.3% |
-| Placebo | 63 | 11.1% | NAa | NAa |  |  |
-| Normal to High (<110 mg/dL to ≥130 mg/dL) | Olanzapine | 98 | 5.1% | 92 | 10.9% |  |
-| Placebo | 44 | 4.5% | NAa | NAa |  |  |
-| Borderline to High (≥110 mg/dL and <130 mg/dL to ≥130 mg/dL) | Olanzapine | 29 | 48.3% | 21 | 47.6% |  |
-| Placebo | 9 | 0% | NAa | NAa |  |  |
+|  | Increase by ≥50 mg/dL | Olanzapine | 138 | 37.0% | 122 | 45.9% |
+|  |  | Placebo | 66 | 15.2% | NAa | NAa |
+| Fasting | Normal to High | Olanzapine | 67 | 26.9% | 66 | 36.4% |
+| Triglycerides | (<90 mg/dL to >130 mg/dL) | Placebo | 28 | 10.7% | NAa | NAa |
+|  | Borderline to High | Olanzapine | 37 | 59.5% | 31 | 64.5% |
+|  | (≥90 mg/dL and ≤130 mg/dL to >130 mg/dL) | Placebo | 17 | 35.3% | NAa | NAa |
+|  | Increase by ≥40 mg/dL | Olanzapine | 138 | 14.5% | 122 | 14.8% |
+|  |  | Placebo | 66 | 4.5% | NAa | NAa |
+| Fasting Total | Normal to High | Olanzapine | 87 | 6.9% | 78 | 7.7% |
+| Cholesterol | (<170 mg/dL to ≥200 mg/dL) | Placebo | 43 | 2.3% | NAa | NAa |
+|  | Borderline to High | Olanzapine | 36 | 38.9% | 33 | 57.6% |
+|  | (≥170 mg/dL and <200 mg/dL to ≥200 mg/dL) | Placebo | 13 | 7.7% | NAa | NAa |
+|  | Increase by ≥30 mg/dL | Olanzapine | 137 | 17.5% | 121 | 22.3% |
+|  |  | Placebo | 63 | 11.1% | NAa | NAa |
+| Fasting LDL | Normal to High | Olanzapine | 98 | 5.1% | 92 | 10.9% |
+| Cholesterol | (<110 mg/dL to ≥130 mg/dL) | Placebo | 44 | 4.5% | NAa | NAa |
+|  | Borderline to High | Olanzapine | 29 | 48.3% | 21 | 47.6% |
+|  | (≥110 mg/dL and <130 mg/dL to ≥130 mg/dL) | Placebo | 9 | 0% | NAa | NAa |
 | a Not Applicable. |  |  |  |  |  |  |
 
 Weight Gain
@@ -236,8 +236,10 @@ The data in each column represent data for those patients who completed treatmen
 
 Table 6: Weight Gain with Olanzapine Use in Adults
 
-| Amount Gained kg (lb) | 6 Weeks (N=7465) (%) | 6 Months (N=4162) (%) | 12 Months (N=1345) (%) | 24 Months (N=474) (%) | 36 Months (N=147) (%) |
+|  | 6 Weeks | 6 Months | 12 Months | 24 Months | 36 Months |
 | --- | --- | --- | --- | --- | --- |
+| Amount Gained | (N=7465) | (N=4162) | (N=1345) | (N=474) | (N=147) |
+| kg (lb) | (%) | (%) | (%) | (%) | (%) |
 | ≤0 | 26.2 | 24.3 | 20.8 | 23.2 | 17.0 |
 | 0 to ≤5 (0-11 lb) | 57.0 | 36.0 | 26.0 | 23.4 | 25.2 |
 | >5 to ≤10 (11-22 lb) | 14.9 | 24.6 | 24.2 | 24.1 | 18.4 |
@@ -261,8 +263,10 @@ Table 7: Weight Gain with Oral Olanzapine Use in Adolescents from 4 Placebo-Cont
 |  | Olanzapine-treated patients | Placebo-treated patients |
 | --- | --- | --- |
 | Mean change in body weight from baseline (median exposure = 3 weeks) | 4.6 kg (10.1 lb) | 0.3 kg (0.7 lb) |
-| Percentage of patients who gained at least 7% of baseline body weight | 40.6% (median exposure to 7% = 4 weeks) | 9.8% (median exposure to 7% = 8 weeks) |
-| Percentage of patients who gained at least 15% of baseline body weight | 7.1% (median exposure to 15% = 19 weeks) | 2.7% (median exposure to 15% = 8 weeks) |
+| Percentage of patients who gained at least 7% of baseline body weight | 40.6% | 9.8% |
+| (median exposure to 7% = 4 weeks) | (median exposure to 7% = 8 weeks) |  |
+| Percentage of patients who gained at least 15% of baseline body weight | 7.1% | 2.7% |
+| (median exposure to 15% = 19 weeks) | (median exposure to 15% = 8 weeks) |  |
 
 In long-term studies (at least 24 weeks), the mean weight gain was 11.2 kg (24.6 lb); (median exposure of 201 days, N=179).
 The percentages of adolescents who gained at least 7%, 15%, or 25% of their baseline body weight with long-term exposure were 89%, 55%, and 29%, respectively.
@@ -275,8 +279,10 @@ Little clinical trial data is available on weight gain in adolescents with olanz
 
 Table 8: Weight Gain with Olanzapine Use in Adolescents
 
-| Amount Gained kg (lb) | 6 Weeks (N=243) (%) | 6 Months (N=191) (%) |
+|  | 6 Weeks | 6 Months |
 | --- | --- | --- |
+| Amount Gained | (N=243) | (N=191) |
+| kg (lb) | (%) | (%) |
 | ≤0 | 2.9 | 2.1 |
 | 0 to ≤5 (0-11 lb) | 47.3 | 24.6 |
 | >5 to ≤10 (11-22 lb) | 42.4 | 26.7 |
@@ -402,11 +408,13 @@ In placebo-controlled olanzapine monotherapy studies in adolescent patients (up 
 In a pooled analysis from clinical trials including 454 adolescents treated with olanzapine, potentially associated clinical manifestations included menstrual-related events1 (1% [2/168] of females), sexual function-related events2 (0.7% [3/454] of females and males), and breast-related events3 (2% [3/168] of females, 2% [7/286] of males) [see Use in Specific Populations (8.4)].
 
 1 Based on a search of the following terms: amenorrhea, hypomenorrhea, menstruation delayed, and oligomenorrhea.
+
 2 Based on a search of the following terms: anorgasmia, delayed ejaculation, erectile dysfunction, decreased libido, loss of libido, abnormal orgasm, and sexual dysfunction.
+
 3 Based on a search of the following terms: breast discharge, enlargement or swelling, galactorrhea, gynecomastia, and lactation disorder.
 
 Dose group differences with respect to prolactin elevation have been observed in some studies.
-In a 24-week randomized, double-blind, fixed-dose study with ZYPREXA RELPREVV, statistically significant differences among dose groups were observed for prolactin levels, with a mean baseline-to-endpoint increase observed in the highest dose group (300 mg/2 weeks, n=115: 3.57 ng/mL) relative to mean decreases in the lower dose groups (150 mg/2 weeks, n=109: –5.61 ng/mL; 405 mg/4 weeks, n=259: –2.76 ng/mL).
+In a 24-week randomized, double-blind, fixed-dose study with ZYPREXA RELPREVV, statistically significant differences among dose groups were observed for prolactin levels, with a mean baseline-to-endpoint increase observed in the highest dose group (300 mg/2 weeks, n=115: 3.57 ng/mL) relative to mean decreases in the lower dose groups (150 mg/2 weeks, n=109: -5.61 ng/mL; 405 mg/4 weeks, n=259: -2.76 ng/mL).
 In a single 8-week randomized, double-blind, fixed-dose study comparing 10 (N=199), 20 (N=200) and 40 (N=200) mg/day of oral olanzapine in adult patients with schizophrenia or schizoaffective disorder, incidence of prolactin elevation >24.2 ng/mL (female) or >18.77 ng/mL (male) at any time during the trial (10 mg/day: 31.2%; 20 mg/day: 42.7%; 40 mg/day: 61.1%) indicated significant differences between 10 vs 40 mg/day and 20 vs 40 mg/day.
 
 ## 5.18 Laboratory Tests
