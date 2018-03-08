@@ -8,8 +8,6 @@ Adverse events reported by 2% or more of patients treated with fenofibrate and g
 Adverse reactions led to discontinuation of treatment in 5.0% of patients treated with fenofibrate and in 3.0% treated with placebo.
 Increases in liver function tests were the most frequent events, causing discontinuation of fenofibrate treatment in 1.6% of patients in double-blind trials.
 
-Table 1 Adverse Reactions Reported by 2% or More of Patients Treated with Fenofibrate and Greater than Placebo During the Double-Blind, Placebo-Controlled Trials
-
 | Body System Adverse Reaction | FenofibrateDosage equivalent to 90 mg fenofibrate (N=439) | Placebo (N=365) |
 | --- | --- | --- |
 | Body As A Whole |  |  |
@@ -28,7 +26,11 @@ Table 1 Adverse Reactions Reported by 2% or More of Patients Treated with Fenofi
 | Respiratory Disorder | 6.2% | 5.5% |
 | Rhinitis | 2.3% | 1.1% |
 
+Urticaria was seen in 1.1 vs. 0%, and rash in 1.4 vs. 0.8% of fenofibrate and placebo patients, respectively, in controlled trials.
+
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post approval use of fenofibrate: myalgia, rhabdomyolysis, pancreatitis, renal failure, muscle spasms, acute renal failure, hepatitis, cirrhosis, anemia, arthralgia, asthenia and severely depressed HDL-cholesterol levels.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a casual relationship to drug exposure.
+The following adverse reactions have been identified during post approval use of fenofibrate.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure: myalgia, rhabdomyolysis, pancreatitis, renal failure, muscle spasms, acute renal failure, hepatitis, cirrhosis, anemia, arthralgia, asthenia and severely depressed HDL-cholesterol levels.
+Photosensitivity reactions have occurred days to months after initiation.
+Some cases also reported photosensitivity to ketoprofen.

@@ -12,3 +12,5 @@ Inactive Ingredients: Each gelatin capsule contains hypromellose, simethicone em
 The capsule shell contains the following inactive ingredients: black iron oxide, D & C Yellow 10, potassium hydroxide, propylene glycol, gelatin, shellac, sodium lauryl sulphate, titanium dioxide.
 The 30 mg capsule shell contains following additional inactive ingredients: FD & C Blue 2, yellow iron oxide.
 The 90 mg capsule shell contains following additional inactive ingredients: FD & C Blue 1, FD & C Yellow 6.
+
+Antara meets USP Dissolution Test 5.

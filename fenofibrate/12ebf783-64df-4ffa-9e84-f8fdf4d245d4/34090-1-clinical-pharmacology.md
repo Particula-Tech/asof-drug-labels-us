@@ -56,7 +56,7 @@ Elimination
 After absorption, fenofibrate is mainly excreted in the urine in the form of metabolites, primarily fenofibric acid and fenofibric acid glucuronide.
 After administration of radiolabeled fenofibrate, approximately 60% of the dose appeared in the urine and 25% was excreted in the feces.
 
-Fenofibrate acid from Antara is eliminated with a half-life of 23 hours, allowing once daily administration in a clinical setting.
+Fenofibrate acid from Antara is eliminated with a half-life of 23 hours, allowing once daily dosing.
 
 Geriatrics
 
