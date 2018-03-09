@@ -1,0 +1,36 @@
+{
+  "application_numbers": [
+    "NDA208379"
+  ],
+  "inn": "pitavastatin",
+  "labeler": "Medicure International Inc",
+  "package_ndcs": [
+    "25208-200-09",
+    "25208-200-11",
+    "25208-200-12",
+    "25208-200-13",
+    "25208-200-14",
+    "25208-200-15",
+    "25208-201-09",
+    "25208-201-11",
+    "25208-201-12",
+    "25208-201-13",
+    "25208-201-14",
+    "25208-201-15",
+    "25208-202-09",
+    "25208-202-11",
+    "25208-202-12",
+    "25208-202-13",
+    "25208-202-14",
+    "25208-202-15"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "pitavastatin magnesium",
+      "name": "ZYPITAMAG"
+    }
+  ],
+  "setid": "c8c50e03-5cb8-43f4-bdef-8edd12f1945f",
+  "source": "dailymed"
+}
