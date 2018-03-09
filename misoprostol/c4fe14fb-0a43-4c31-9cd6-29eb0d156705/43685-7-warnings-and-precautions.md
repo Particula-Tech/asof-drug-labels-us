@@ -98,6 +98,10 @@ Misoprostol should not be used in cases where uterotonic drugs are generally con
 The effect of misoprostol on later growth, development, and functional maturation of the child when misoprostol is used for cervical ripening or induction of labor has not been established.
 Information on misoprostol's effect on the need for forceps delivery or other intervention is unknown.
 
+The use of misoprostol for the management of postpartum hemorrhage has been associated with reports of high fevers (greater than 40 degrees Celsius or 104 degrees Fahrenheit), accompanied by autonomic and central nervous system effects, such as tachycardia, disorientation, agitation, and convulsions.
+These fevers were transient in nature.
+Supportive therapy should be dictated by the patient's clinical presentation.
+
 ## Nursing mothers
 
 Misoprostol is rapidly metabolized in the mother to misoprostol acid, which is biologically active and is excreted in breast milk.
