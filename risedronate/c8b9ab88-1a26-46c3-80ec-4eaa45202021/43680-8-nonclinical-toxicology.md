@@ -1,6 +1,6 @@
-# 13 NONCLINICAL TOXICOLOGY
+# 13NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+## 13.1Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Carcinogenesis
 
@@ -28,7 +28,7 @@ These findings tended to increase in severity with increased dose and exposure t
 Dosing multiples provided above are based on the recommended human Paget’s disease dose of 30 mg/day and normalized using body surface area (mg/m2).
 Actual doses were 24 mg/kg/day in rats, 32 mg/kg/day in mice, and 8, 16 and 40 mg/kg/day in dogs.
 
-## 13.2 Animal Toxicology and/or Pharmacology
+## 13.2Animal Toxicology and/or Pharmacology
 
 Risedronate demonstrated potent anti-osteoclast, antiresorptive activity in ovariectomized rats and minipigs.
 Bone mass and biomechanical strength were increased dose-dependently at daily oral doses up to 4 and 25 times the recommended human dose of 5 mg/day for rats and minipigs, respectively.

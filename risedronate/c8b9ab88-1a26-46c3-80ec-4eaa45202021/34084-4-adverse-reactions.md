@@ -1,6 +1,6 @@
-# 6 ADVERSE REACTIONS
+# 6ADVERSE REACTIONS
 
-## 6.1 Clinical Studies Experience
+## 6.1Clinical Studies Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
@@ -20,11 +20,13 @@ The overall safety and tolerability profiles of the two dosing regimens were sim
 Table 1 lists adverse reactions reported in greater than or equal to 2% of patients.
 Adverse reactions are shown without attribution of causality.
 
-Table 1.
-Adverse Reactions Occurring at a Frequency of greater than or equal to 2% in Either Treatment Group
+Table 1 Adverse Reactions Occurring at a Frequency of greater than or equal to 2% in Either Treatment Group
 
-| System Organ Class Preferred Term | 35 mg Atelvia Weekly N = 307 % | 5 mg Risedronate sodium Immediate- release Daily N = 307 % |
+|  | 35 mg Atelvia | 5 mg Risedronate sodium Immediate- release |
 | --- | --- | --- |
+|  | Weekly | Daily |
+| System Organ Class | N = 307 | N = 307 |
+| Preferred Term | % | % |
 | Gastrointestinal disorders |  |  |
 | Diarrhea | 8.8 | 4.9 |
 | Abdominal pain | 5.2 | 2.9 |

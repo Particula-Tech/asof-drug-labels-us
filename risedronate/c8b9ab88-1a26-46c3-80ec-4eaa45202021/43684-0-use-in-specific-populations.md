@@ -1,6 +1,6 @@
-# 8 USE IN SPECIFIC POPULATIONS
+# 8USE IN SPECIFIC POPULATIONS
 
-## 8.1 Pregnancy
+## 8.1Pregnancy
 
 Pregnancy Category C: There are no adequate and well-controlled studies of Atelvia in pregnant women.
 Atelvia should be used during pregnancy only if the potential benefit justifies the potential risk to the mother and fetus.
@@ -26,13 +26,13 @@ Similar to other bisphosphonates, treatment during mating and gestation with dos
 Dosing multiples provided above are based on the recommended human Paget’s disease dose of 30 mg/day and normalized using body surface area (mg/m2).
 Actual animal doses were 3.2, 7.1 and 16 mg/kg/day in the rat and 10 mg/kg/day in the rabbit.
 
-## 8.3 Nursing Mothers
+## 8.3Nursing Mothers
 
 Risedronate was detected in feeding pups exposed to lactating rats for a 24-hour period post-dosing, indicating a small degree of lacteal transfer.
 It is not known whether Atelvia is excreted in human milk.
 Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from Atelvia, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 
-## 8.4 Pediatric Use
+## 8.4Pediatric Use
 
 Atelvia is not indicated for use in pediatric patients.
 
@@ -48,7 +48,7 @@ However, there was an increased incidence of vomiting compared to placebo.
 In this study, vomiting was observed in 15% of children treated with risedronate sodium immediate-release and 6% of patients treated with placebo.
 Other adverse reactions reported in greater than or equal to 10% of patients treated with risedronate sodium immediate-release and with a higher frequency than placebo were: pain in the extremity (21% with risedronate sodium immediate-release versus 16% with placebo), headache (20% versus 8%), back pain (17% versus 10%), pain (15% versus 10%), upper abdominal pain (11% versus 8%), and bone pain (10% versus 4%).
 
-## 8.5 Geriatric Use
+## 8.5Geriatric Use
 
 Of the patients receiving Atelvia in postmenopausal osteoporosis studies, 59% were 65 and over, while 13% were 75 and over.
 No overall differences in safety or effectiveness were observed between these patients and younger patients, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.

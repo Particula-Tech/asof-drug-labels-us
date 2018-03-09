@@ -1,16 +1,16 @@
-# 12 CLINICAL PHARMACOLOGY
+# 12CLINICAL PHARMACOLOGY
 
-## 12.1 Mechanism of Action
+## 12.1Mechanism of Action
 
 Risedronate has an affinity for hydroxyapatite crystals in bone and acts as an antiresorptive agent.
 At the cellular level, risedronate inhibits osteoclasts.
 The osteoclasts adhere normally to the bone surface, but show evidence of reduced active resorption (for example, lack of ruffled border).
 Histomorphometry in rats, dogs, and minipigs showed that risedronate treatment reduces bone turnover (activation frequency, that is, the rate at which bone remodeling sites are activated) and bone resorption at remodeling sites.
 
-## 12.2 Pharmacodynamics
+## 12.2Pharmacodynamics
 
 Risedronate treatment decreases the elevated rate of bone turnover that is typically seen in postmenopausal osteoporosis.
-In clinical trials, administration of risedronate sodium immediate-release to postmenopausal women resulted in decreases in biochemical markers of bone turnover, including urinary deoxypyridinoline/creatinine and urinary collagen cross-linked N-telopeptide (markers of bone resorption) and serum bone-specific alkaline phosphatase (a marker of bone formation).
+In clinical trials, administration of risedronate sodium immediate- release to postmenopausal women resulted in decreases in biochemical markers of bone turnover, including urinary deoxypyridinoline/creatinine and urinary collagen cross-linked N-telopeptide (markers of bone resorption) and serum bone-specific alkaline phosphatase (a marker of bone formation).
 At the 5 mg daily dose, decreases in deoxypyridinoline/creatinine were evident within 14 days of treatment.
 Changes in bone formation markers were observed later than changes in resorption markers, as expected, due to the coupled nature of bone resorption and bone formation; decreases in bone-specific alkaline phosphatase of about 20% were evident within 3 months of treatment.
 Bone turnover markers reached a nadir of about 40% below baseline values by the sixth month of treatment and remained stable with continued treatment for up to 3 years.
@@ -77,7 +77,7 @@ Therefore, dosage adjustment is unlikely to be needed in patients with hepatic i
 
 Drug Interactions: Risedronate is not metabolized and does not induce or inhibit hepatic microsomal drug-metabolizing enzymes (for example, Cytochrome P450).
 
-Calcium supplement: A Phase 1 single-dose, cross-over study in 101 postmenopausal women evaluated the relative bioavailability of Atelvia 35 mg delayed-release tablets taken after breakfast and following a 600 mg elemental calcium/400 international units vitamin D supplement, compared to Atelvia alone taken after breakfast without calcium or vitamin D supplemention.
+Calcium supplement: A Phase 1 single-dose, cross-over study in 101 postmenopausal women evaluated the relative bioavailability of Atelvia 35 mg delayed-release tablets taken after breakfast and following a 600 mg elemental calcium/400 international units vitamin D supplement, compared to Atelvia alone taken after breakfast without calcium or vitamin D supplementation.
 The addition of the calcium/vitamin D supplement following the meal resulted in an approximate 38% reduction in the amount of risedronate absorbed [see Drug Interactions (7)].
 
 Proton Pump Inhibitors: A Phase 1, 2-period, cross-over study in 60 healthy postmenopausal female subjects evaluated the relative bioavailability of a single dose Atelvia 35 mg delayed-release tablet taken after breakfast following 6 days of esomeprazole magnesium delayed release 40 mg capsules.

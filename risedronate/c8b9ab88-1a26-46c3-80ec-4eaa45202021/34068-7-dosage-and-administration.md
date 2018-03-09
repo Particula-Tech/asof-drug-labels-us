@@ -8,7 +8,7 @@ The recommended regimen is:
 
 - one 35 mg delayed-release tablet orally, taken once-a-week
 
-## 2.2 Important Administration Instructions
+## 2.2Important Administration Instructions
 
 Instruct patients to do the following:
 

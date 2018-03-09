@@ -1,6 +1,4 @@
-# Medication Guide
-
-Atelvia® (uh-TEL-v-uh) (risedronate sodium) delayed-release tablets
+Medication Guide Atelvia® (uh-TEL-v-uh) (risedronate sodium) delayed-release tablets
 
 Read this Medication Guide that comes with Atelvia® before you start taking it and each time you get a refill.
 There may be new information.
@@ -11,12 +9,11 @@ What is the most important information I should know about Atelvia?
 
 Atelvia can cause serious side effects including:
 
-1.
-Esophagus problems 2.
-Low calcium levels in your blood (hypocalcemia) 3.
-Severe jaw bone problems (osteonecrosis) 4.
-Bone, joint, or muscle pain 5.
-Unusual thigh bone fractures
+1. Esophagus problems
+2. Low calcium levels in your blood (hypocalcemia)
+3. Severe jaw bone problems (osteonecrosis)
+4. Bone, joint, or muscle pain
+5. Unusual thigh bone fractures
 
 1.
 Esophagus problems.
@@ -186,7 +183,7 @@ This Medication Guide summarizes the most important information about Atelvia.
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about Atelvia that is written for health professionals.
 
-For more information, go to www.Atelvia.com or call 1-800-521-8813.
+For more information, go to www.Atelvia.com or call 1-800-678-1605.
 
 What are the ingredients in Atelvia?
 
@@ -196,4 +193,16 @@ Inactive ingredients: Edetate disodium, ferric oxide yellow, magnesium stearate,
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by: Norwich Pharmaceuticals, Inc. North Norwich, NY 13814 Marketed by: Warner Chilcott (US), LLC Rockaway, NJ 07866 1-800-521-8813 Content Updated: March 2015
+Distributed by: Allergan USA, Inc. Irvine, CA, 92612
+
+For all medical inquiries contact: Allergan Medical Communications 1-800-678-1605
+
+© 2018 Allergan.
+All rights reserved.
+
+ATELVIA® is a registered trademark of Allergan Pharmaceuticals International Limited.
+Allergan® and its design are trademarks of Allergan, Inc.
+
+Content Updated: March 2015
+
+73166US11

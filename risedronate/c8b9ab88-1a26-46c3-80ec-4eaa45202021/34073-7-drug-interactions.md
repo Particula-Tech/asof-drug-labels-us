@@ -1,8 +1,8 @@
-# 7 DRUG INTERACTIONS
+# 7DRUG INTERACTIONS
 
 Risedronate is not metabolized and does not induce or inhibit hepatic microsomal drug-metabolizing enzymes (for example, Cytochrome P450).
 
-## 7.1 Calcium Supplements/Antacids
+## 7.1Calcium Supplements/Antacids
 
 When Atelvia was administered following breakfast, the co-administration of a tablet containing 600 mg of elemental calcium and 400 international units vitamin D reduced risedronate bioavailability by approximately 38% [see Clinical Pharmacology (12.3)].
 Calcium supplements, antacids, magnesium-based supplements or laxatives, and iron preparations interfere with the absorption of Atelvia and should not be taken together.
@@ -15,7 +15,7 @@ The maximum plasma concentration (Cmax) and the area under the plasma concentrat
 
 Concomitant administration of Atelvia and H2 blockers or PPIs is not recommended.
 
-## 7.3 Hormone Therapy
+## 7.3Hormone Therapy
 
 Concomitant use of Atelvia with estrogens and estrogen agonist/antagonists has not been studied.
 
