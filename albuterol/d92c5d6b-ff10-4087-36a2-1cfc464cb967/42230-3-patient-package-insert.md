@@ -1,6 +1,6 @@
 - Patient Information
 
-VENTOLIN®[vent′ o-lin] HFA
+VENTOLIN [vent′ o-lin] HFA
 
 (albuterol sulfate)
 
@@ -292,15 +292,14 @@ If you have questions about VENTOLIN HFA or how to use your inhaler, call GlaxoS
 
 This Patient Information and Instructions for Use have been approved by the U.S. Food and Drug Administration.
 
-VENTOLIN is a registered trademark of the GSK group of companies.
+Trademarks are owned by or licensed to the GSK group of companies.
 
 GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2014, the GSK group of companies.
-All rights reserved.
+©2017 GSK group of companies or its licensor.
 
-December 2014
+May 2017
 
-VNT:9PIL
+VNT:10PIL

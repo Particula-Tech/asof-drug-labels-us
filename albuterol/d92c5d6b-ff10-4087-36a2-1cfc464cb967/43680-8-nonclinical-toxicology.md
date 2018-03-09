@@ -14,13 +14,17 @@ Reproduction studies in rats demonstrated no evidence of impaired fertility at o
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 
-Preclinical: Intravenous studies in rats with albuterol sulfate have demonstrated that albuterol crosses the blood-brain barrier and reaches brain concentrations amounting to approximately 5.0% of the plasma concentrations.
+Preclinical
+
+Intravenous studies in rats with albuterol sulfate have demonstrated that albuterol crosses the blood-brain barrier and reaches brain concentrations amounting to approximately 5.0% of the plasma concentrations.
 In structures outside the blood-brain barrier (pineal and pituitary glands), albuterol concentrations were found to be 100 times those in the whole brain.
 
 Studies in laboratory animals (minipigs, rodents, and dogs) have demonstrated the occurrence of cardiac arrhythmias and sudden death (with histologic evidence of myocardial necrosis) when beta-agonists and methylxanthines are administered concurrently.
 The clinical relevance of these findings is unknown.
 
-Propellant HFA-134a: In animals and humans, propellant HFA-134a was found to be rapidly absorbed and rapidly eliminated, with an elimination half-life of 3 to 27 minutes in animals and 5 to 7 minutes in humans.
+Propellant HFA-134a
+
+In animals and humans, propellant HFA-134a was found to be rapidly absorbed and rapidly eliminated, with an elimination half-life of 3 to 27 minutes in animals and 5 to 7 minutes in humans.
 Time to maximum plasma concentration (Tmax) and mean residence time are both extremely short, leading to a transient appearance of HFA-134a in the blood with no evidence of accumulation.
 
 Propellant HFA-134a is devoid of pharmacological activity except at very high doses in animals (i.e., 380 to 1,300 times the maximum human exposure based on comparisons of area under the plasma concentration versus time curve [AUC] values), primarily producing ataxia, tremors, dyspnea, or salivation.

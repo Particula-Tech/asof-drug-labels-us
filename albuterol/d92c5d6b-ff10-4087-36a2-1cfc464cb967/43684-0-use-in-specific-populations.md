@@ -2,7 +2,9 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects: Pregnancy Category C. There are no adequate and well-controlled trials with VENTOLIN HFA or albuterol sulfate in pregnant women.
+Teratogenic Effects
+
+Pregnancy Category C. There are no adequate and well-controlled trials with VENTOLIN HFA or albuterol sulfate in pregnant women.
 During worldwide marketing experience, various congenital anomalies, including cleft palate and limb defects, have been reported in the offspring of patients being treated with albuterol.
 Some of the mothers were taking multiple medications during their pregnancies.
 No consistent pattern of defects can be discerned, and a relationship between albuterol use and congenital anomalies has not been established.
@@ -18,7 +20,9 @@ In a rabbit reproduction study, orally administered albuterol sulfate produced c
 
 In another rabbit study, an albuterol sulfate/HFA-134a formulation administered by inhalation produced enlargement of the frontal portion of the fetal fontanelles at approximately one third of the MRHDID.
 
-Nonteratogenic Effects: A study in which pregnant rats were dosed with radiolabeled albuterol sulfate demonstrated that drug-related material is transferred from the maternal circulation to the fetus.
+Nonteratogenic Effects
+
+A study in which pregnant rats were dosed with radiolabeled albuterol sulfate demonstrated that drug-related material is transferred from the maternal circulation to the fetus.
 
 ## 8.2 Labor and Delivery
 
@@ -38,7 +42,7 @@ The safety and effectiveness of VENTOLIN HFA in children younger than 4 years ha
 Three trials have been conducted to evaluate the safety and efficacy of VENTOLIN HFA in subjects younger than 4 years and the findings are described below.
 
 Two 4-week randomized, double-blind, placebo-controlled trials were conducted in 163 pediatric subjects aged from birth to 48 months with symptoms of bronchospasm associated with obstructive airway disease (presenting symptoms included: wheeze, cough, dyspnea, or chest tightness).
-VENTOLIN HFA or placebo HFA was delivered with either an AeroChamber Plus® Valved Holding Chamber or an Optichamber® Valved Holding Chamber with mask 3 times daily.
+VENTOLIN HFA or placebo HFA was delivered with either an AeroChamber Plus Valved Holding Chamber or an Optichamber Valved Holding Chamber with mask 3 times daily.
 In one trial, VENTOLIN HFA 90 mcg (n = 26), VENTOLIN HFA 180 mcg (n = 25), and placebo HFA (n = 26) were administered to children aged between 24 and 48 months.
 In the second trial, VENTOLIN HFA 90 mcg (n = 29), VENTOLIN HFA 180 mcg (n = 29), and placebo HFA (n = 28) were administered to children aged between birth and 24 months.
 Over the 4-week treatment period, there were no treatment differences in asthma symptom scores between the groups receiving VENTOLIN HFA 90 mcg, VENTOLIN HFA 180 mcg, and placebo in either trial.
@@ -50,11 +54,11 @@ There were no significant differences in asthma symptom scores and mean change f
 In vitro dose characterization studies were performed to evaluate the delivery of VENTOLIN HFA via holding chambers with attached masks.
 The studies were conducted with 2 different holding chambers with masks (small and medium size).
 The in vitro study data when simulating patient breathing suggest that the dose of VENTOLIN HFA presented for inhalation via a valved holding chamber with mask will be comparable to the dose delivered in adults without a spacer and mask per kilogram of body weight (Table 2).
-However, clinical trials in children younger than 4 years described above suggest that either the optimal dose of VENTOLIN HFA has not been defined in this age-group or VENTOLIN HFA is not effective in this age-group.
+However, clinical trials in children younger than 4 years described above suggest that either the optimal dose of VENTOLIN HFA has not been defined in this age group or VENTOLIN HFA is not effective in this age group.
 The safety and effectiveness of VENTOLIN HFA administered with or without a spacer device in children younger than 4 years have not been demonstrated.
 
 Table 2.
-In Vitro Medication Delivery through AeroChamber Plus® Valved Holding Chamber with a Mask
+In Vitro Medication Delivery through AeroChamber Plus Valved Holding Chamber with a Mask
 
 | Age | Mask | Flow Rate (L/min) | Holding Time (seconds) | Mean Medication Delivery through AeroChamber Plus (mcg/actuation) | Body Weight 50th Percentile (kg)a | Medication Delivered per Actuation (mcg/kg)b |
 | --- | --- | --- | --- | --- | --- | --- |

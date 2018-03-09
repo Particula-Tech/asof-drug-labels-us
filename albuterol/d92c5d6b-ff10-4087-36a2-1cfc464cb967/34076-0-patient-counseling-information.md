@@ -2,35 +2,49 @@
 
 Advise the patient to read the FDA-approved patient labeling (Patient Information and Instructions for Use).
 
-Frequency of Use: Inform patients that the action of VENTOLIN HFA should last up to 4 to 6 hours.
+Frequency of Use
+
+Inform patients that the action of VENTOLIN HFA should last up to 4 to 6 hours.
 Do not use VENTOLIN HFA more frequently than recommended.
 Instruct patients not to increase the dose or frequency of doses of VENTOLIN HFA without consulting the physician.
 Instruct patients to seek medical attention immediately if treatment with VENTOLIN HFA becomes less effective for symptomatic relief, symptoms become worse, and/or they need to use the product more frequently than usual.
 
-Priming: Instruct patients to prime VENTOLIN HFA before using for the first time, when the inhaler has not been used for more than 2 weeks, or when the inhaler has been dropped.
+Priming
+
+Instruct patients to prime VENTOLIN HFA before using for the first time, when the inhaler has not been used for more than 2 weeks, or when the inhaler has been dropped.
 To prime VENTOLIN HFA, release 4 sprays into the air away from the face, shaking well before each spray.
 
-Cleaning: To ensure proper dosing and to prevent actuator orifice blockage, instruct patients to wash the actuator with warm water and let it air-dry completely at least once a week.
+Cleaning
+
+To ensure proper dosing and to prevent actuator orifice blockage, instruct patients to wash the actuator with warm water and let it air-dry completely at least once a week.
 Inform patients that detailed cleaning instructions are included in the Patient Information leaflet.
 
-Paradoxical Bronchospasm: Inform patients that VENTOLIN HFA can produce paradoxical bronchospasm.
+Paradoxical Bronchospasm
+
+Inform patients that VENTOLIN HFA can produce paradoxical bronchospasm.
 Instruct them to discontinue VENTOLIN HFA if paradoxical bronchospasm occurs.
 
-Concomitant Drug Use: Advise patients that while they are using VENTOLIN HFA, other inhaled drugs and asthma medications should be taken only as directed by the physician.
+Concomitant Drug Use
 
-Common Adverse Effects: Common adverse effects of treatment with inhaled albuterol include palpitations, chest pain, rapid heart rate, tremor, and nervousness.
+Advise patients that while they are using VENTOLIN HFA, other inhaled drugs and asthma medications should be taken only as directed by the physician.
 
-Pregnancy: Advise patients who are pregnant or nursing to contact their physicians about the use of VENTOLIN HFA.
+Common Adverse Effects
 
-VENTOLIN is a registered trademark of the GSK group of companies.
-The other brands listed are trademarks of their respective owners and are not trademarks of the GSK group of companies.
+Common adverse effects of treatment with inhaled albuterol include palpitations, chest pain, rapid heart rate, tremor, and nervousness.
+
+Pregnancy
+
+Advise patients who are pregnant or nursing to contact their physicians about the use of VENTOLIN HFA.
+
+VENTOLIN is owned by or licensed to the GSK group of companies.
+
+The other brands listed are trademarks owned by or licensed to their respective owners and are not owned by or licensed to the GSK group of companies.
 The makers of these brands are not affiliated with and do not endorse the GSK group of companies or its products.
 
 GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2014, the GSK group of companies.
-All rights reserved.
+©2017 GSK group of companies or its licensor.
 
-VNT:9PI
+VNT:10PI
