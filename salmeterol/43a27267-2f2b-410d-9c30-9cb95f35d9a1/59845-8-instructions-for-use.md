@@ -67,11 +67,12 @@ Figure C
 
 Remember:
 
-- For the correct use of your inhaler, hold it upright as you open the yellow cap.See Figure D.
+- For the correct use of your inhaler, hold it upright as you open the yellow cap.
+  See Figure D.
 
 - Do not hold the inhaler in any other way as you open the yellow cap.
 
-Do not open the yellow cap until you are ready to take a dose of fluticasone propionate/salmeterol.
+- Do not open the yellow cap until you are ready to take a dose of fluticasone propionate/salmeterol.
 
 Figure D
 
@@ -85,7 +86,8 @@ Inhale
 
 Figure E
 
-- Put the mouthpiece in your mouth and close your lips tightly around it.See Figure F.
+- Put the mouthpiece in your mouth and close your lips tightly around it.
+  See Figure F.
 
 Figure F
 
@@ -165,9 +167,9 @@ Support
 
 These Instructions for Use have been approved by the U.S. Food and Drug Administration.
 
-Marketed by: Teva Respiratory, LLC, Frazer, PA 19355; Manufactured by: Teva Pharmaceutical Industries, Ltd., Jerusalem, Israel; Copyright ©2017, Teva Respiratory, LLC; All rights reserved; AIRDUO® and RESPICLICK® are trademarks owned by Teva Respiratory, LLC.
+Marketed by: Teva Respiratory, LLC, Frazer, PA 19355; Manufactured by: Teva Pharmaceutical Industries, Ltd., Jerusalem, Israel; Copyright ©2018, Teva Respiratory, LLC; All rights reserved.
 
-FPSIFU-001
+FPSIFU-002
 
 Rev.
-January 2018
+March 2018

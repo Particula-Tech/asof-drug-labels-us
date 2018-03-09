@@ -1,6 +1,6 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Serious Asthma-Related Events-Hospitalization, Death
+## 5.1 Serious Asthma-Related Events – Hospitalizations, Intubations, Death
 
 Use of LABA as monotherapy (without ICS) for asthma is associated with an increased risk of asthma-related death [see Salmeterol Multicenter Asthma Research Trial (SMART)].
 Available data from controlled clinical trials also suggest that use of LABA as monotherapy increases the risk of asthma-related hospitalization in pediatric and adolescent patients.

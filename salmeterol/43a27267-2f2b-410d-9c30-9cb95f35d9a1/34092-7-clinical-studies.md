@@ -13,7 +13,7 @@ This trial contained an open-label active comparator fluticasone propionate inha
 Trial 202 was conducted in patients who were uncontrolled at baseline and had been treated with high dose ICS with or without a LABA.
 This study contained an open-label active comparator fluticasone propionate inhalation powder 250 mcg twice daily.
 The trials were dose-ranging trials of Fluticasone Propionate Multidose Dry Powder Inhaler (Fluticasone Propionate MDPI) not designed to provide comparative effectiveness data and should not be interpreted as evidence of superiority/inferiority to fluticasone propionate inhalation powder.
-The metered doses for fluticasone multidose dry powder inhaler (16, 28, 59, 118, 225, 434 mcg) used in Trial 201 and Trial 202 (see Figure 2) are slightly different from the metered doses for the comparator products (fluticasone inhalation powder) and the Phase 3 investigational products which are the basis of the proposed commercial labeled claim (55, 113, 232 mcg for fluticasone).
+The metered doses for fluticasone multidose dry powder inhaler (16, 28, 59, 118, 225, 434 mcg) used in Trial 201 and Trial 202 (see Figure 1) are slightly different from the metered doses for the comparator products (fluticasone inhalation powder) and the Phase 3 investigational products which are the basis of the proposed commercial labeled claim (55, 113, 232 mcg for fluticasone).
 The changes in doses between Phase 2 and 3 resulted from optimization of the manufacturing process.
 
 Figure 1: Baseline Adjusted Least Square Mean Change in Trough Morning FEV1 (L) over 12 weeks (FAS)a
@@ -53,7 +53,7 @@ Estimated mean differences between fluticasone propionate/salmeterol MDPI 55/14 
 The estimated mean differences between fluticasone propionate MDPI 55 mcg and fluticasone propionate MDPI 113 mcg compared to placebo are 0.119 L (95% CI: 0.025, 0.212) and 0.151 L (95% CI: 0.057, 0.244), respectively.
 The estimated mean difference between fluticasone propionate/salmeterol MDPI 113/14 mcg and fluticasone propionate MDPI 113 mcg is 0.111 L (95% CI: 0.017, 0.206).
 The estimated mean difference between fluticasone propionate/salmeterol MDPI 55/14 mcg and fluticasone propionate MDPI 55 mcg is 0.147 L (95% CI: 0.053, 0.242).
-In addition, the mean FEV1 results at each visit are displayed in Figure 4.
+In addition, the mean FEV1 results at each visit are displayed in Figure 3.
 
 Figure 3: Mean Change from Baseline in Trough FEV1 at Each Visit by Treatment Group Trial 1(FAS)
 
@@ -65,8 +65,8 @@ The responder rate for both measures was defined as an improvement in score of 0
 In Trial 1, the responder rate for patients receiving fluticasone propionate/salmeterol MDPI 55/14 mcg and fluticasone propionate/salmeterol MDPI 113/14 mcg was 51% and 57%, respectively, compared to 40% for patients receiving placebo, with an odds ratio of 1.53 (95% CI: 0.93, 2.55) and 2.04 (95% CI: 1.23, 3.41), respectively.
 
 Improvements in lung function occurred within 15 minutes of the first dose (15 minutes postdose, the difference in LS mean change from baseline in FEV1 was 0.216 and 0.164 L compared with placebo for fluticasone propionate/salmeterol MDPI 55/14 mcg and 113/14 mcg, respectively; unadjusted p-value <0.0001 for both doses compared with placebo.
-Refer to Figure 5 below.
-Maximum improvement in FEV1 generally occurred within 3 hours for fluticasone propionate/salmeterol MDPI 55/14 mcg and within 6 hours for fluticasone propionate/salmeterol MDPI 113/14 mcg and improvements were sustained over the 12 hours of testing at weeks 1 and 12 (Figure 5 and Figure 6).
+Refer to Figure 4 below.
+Maximum improvement in FEV1 generally occurred within 3 hours for fluticasone propionate/salmeterol MDPI 55/14 mcg and within 6 hours for fluticasone propionate/salmeterol MDPI 113/14 mcg and improvements were sustained over the 12 hours of testing at weeks 1 and 12 (Figure 4 and Figure 5).
 Following the initial dose, predose FEV1 relative to day 1 baseline improved markedly over the first week of treatment and the improvement was sustained over the 12 weeks of treatment in the trial.
 No diminution in the 12 hour bronchodilator effect was observed with either fluticasone propionate/salmeterol MDPI dose as assessed by FEV1 following 12 weeks of therapy.
 
@@ -86,7 +86,7 @@ Baseline FEV1 measurements were similar across treatments: fluticasone propionat
 Efficacy results in this trial were similar to those observed in Trial 1.
 Patients receiving fluticasone propionate/salmeterol MDPI 113/14 mcg and fluticasone propionate/salmeterol MDPI 232/14 mcg had significantly greater improvements in trough FEV1 (fluticasone propionate/salmeterol MDPI 113/14 mcg, LS mean change of 0.271 L at 12 weeks and fluticasone propionate/salmeterol MDPI 232/14 mcg, LS mean change of 0.272 L at 12 weeks) compared with fluticasone propionate MDPI 113 mcg (LS mean change of 0.119 L at 12 weeks), fluticasone propionate MDPI 232 mcg (LS mean change of 0.179 L at 12 weeks), and placebo (LS mean change of -0.004 L at 12 weeks).
 Estimated mean differences between fluticasone propionate/salmeterol MDPI 113/14 mcg and fluticasone propionate/salmeterol MDPI 232/14 mcg compared to placebo are 0.274 L (95% CI: 0.189, 0.360) and 0.276 L (95% CI: 0.191, 0.361), respectively.
-The estimated mean differences between fluticasone propionate MDPI 113 mcg and fluticasone propionate MDPI 232 mcg compared to to placebo are 0.123 L (95% CI: 0.038, 0.208) and 0.183 L (95% CI: 0.098, 0.268), respectively.
+The estimated mean differences between fluticasone propionate MDPI 113 mcg and fluticasone propionate MDPI 232 mcg compared to placebo are 0.123 L (95% CI: 0.038, 0.208) and 0.183 L (95% CI: 0.098, 0.268), respectively.
 The estimated mean difference between fluticasone propionate/salmeterol MDPI 232/14 mcg and fluticasone propionate MDPI 232 mcg is 0.093 L (95% CI: 0.009, 0.178).
 The estimated mean difference between fluticasone propionate/salmeterol MDPI 113/14 mcg and fluticasone propionate MDPI 113 mcg is 0.152 L (95% CI: 0.066, 0.237).
 In addition, the mean FEV1 results at each visit are displayed in Figure 6.

@@ -23,7 +23,7 @@ A total of 1,364 adolescent and adult patients previously treated with inhaled c
 Sixty percent of patients were female and 80% of patients were white.
 The average duration of exposure was 82 to 84 days in the active treatment groups compared with 75 days in the placebo group.
 
-- Table 2: Adverse Reactions with ≥3% Incidence with Fluticasone Propionate/Salmeterol MDPI, and More Common than Placebo in Subjects with Asthma
+Table 2: Adverse Reactions with ≥3% Incidence with Fluticasone Propionate/Salmeterol MDPI, and More Common than Placebo in Subjects with Asthma
 
 | Adverse Reaction | fluticasone propionate MDPI 55 mcg (n=129) % | fluticasone propionate MDPI 113 mcg (n=274) % | fluticasone propionate MDPI 232 mcg (n=146) % | fluticasone propionate/salmeterol MDPI 55/14 mcg (n=128) % | fluticasone propionate/salmeterol MDPI 113/14 mcg (n=269) % | fluticasone propionate/salmeterol MDPI 232/14 mcg (n=145) % | Placebo (n=273) % |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -57,7 +57,7 @@ Cardiac Disorders: Arrhythmias (including atrial fibrillation, extrasystoles, su
 
 Endocrine Disorders: Cushing’s syndrome, Cushingoid features, growth velocity reduction in children/adolescents, hypercorticism.
 
-Eye Disorders: Glaucoma.
+Eye Disorders: Glaucoma, blurred vision and central serous chorioretinopathy.
 
 Gastrointestinal Disorders: Abdominal pain, dyspepsia, xerostomia.
 
