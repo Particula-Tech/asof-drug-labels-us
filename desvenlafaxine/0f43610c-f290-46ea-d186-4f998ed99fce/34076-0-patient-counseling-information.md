@@ -1,15 +1,10 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Medication Guide).
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-Advise patients, their families, and their caregivers about the benefits and risks associated with treatment with PRISTIQ and counsel them in its appropriate use.
+Suicidal Thoughts and Behaviors
 
-Advise patients, their families, and their caregivers to read the Medication Guide and assist them in understanding its contents.
-The complete text of the Medication Guide is reprinted at the end of this document.
-
-Suicide Risk
-
-Advise patients, their families and caregivers to look for the emergence of suicidality, especially early during treatment and when the dose is adjusted up or down [see Boxed Warning and Warnings and Precautions (5.1)].
+Advise patients and caregivers to look for the emergence of suicidality, especially early during treatment and when the dose is adjusted up or down, and instruct them to report such symptoms to the healthcare provider [see Boxed Warning and Warnings and Precautions (5.1)].
 
 Concomitant Medication
 
@@ -24,17 +19,10 @@ Elevated Blood Pressure
 
 Advise patients that they should have regular monitoring of blood pressure when taking PRISTIQ [see Warnings and Precautions (5.3)].
 
-Abnormal Bleeding
+Increased Risk of Bleeding
 
-Patients should be cautioned about the concomitant use of PRISTIQ and NSAIDs, aspirin, warfarin, or other drugs that affect coagulation since combined use of psychotropic drugs that interfere with serotonin reuptake and these agents has been associated with an increased risk of bleeding [see Warnings and Precautions (5.4)].
-
-Angle Closure Glaucoma
-
-Patients should be advised that taking Pristiq can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle closure glaucoma.
-Pre-existing glaucoma is almost always open-angle glaucoma because angle closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
-Open-angle glaucoma is not a risk factor for angle closure glaucoma.
-Patients may wish to be examined to determine whether they are susceptible to angle closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible.
-[see Warnings and Precautions (5.5)]
+Inform patients about the concomitant use of PRISTIQ with NSAIDs, aspirin, other antiplatelet drugs, warfarin, or other coagulants because the combined use of has been associated with an increased risk of bleeding.
+Advise patients to inform their health care providers if they are taking or planning to take any prescription or over-the-counter medications that increase the risk of bleeding [see Warnings and Precautions (5.4)].
 
 Activation of Mania/Hypomania
 
@@ -42,7 +30,7 @@ Advise patients, their families and caregivers to observe for signs of activatio
 
 Discontinuation
 
-Advise patients not to stop taking PRISTIQ without talking first with their healthcare professional.
+Advise patients not to abruptly stop taking PRISTIQ without talking first with their healthcare professional.
 Patients should be aware that discontinuation effects may occur when stopping PRISTIQ, and a dose of 25 mg per day is available for discontinuing therapy [see Warnings and Precautions (5.7) and Adverse Reactions (6.1)].
 
 Switching Patients From Other Antidepressants to PRISTIQ
@@ -56,7 +44,7 @@ Caution patients about operating hazardous machinery, including automobiles, unt
 
 Alcohol
 
-Advise patients to avoid alcohol while taking PRISTIQ [see Drug Interactions (7.7)].
+Advise patients to avoid alcohol while taking PRISTIQ [see Drug Interactions (7.3].
 
 Allergic Reactions
 
@@ -64,11 +52,8 @@ Advise patients to notify their physician if they develop allergic phenomena suc
 
 Pregnancy
 
-Advise patients to notify their physician if they become pregnant or intend to become pregnant during therapy [see Use in Specific Populations (8.1)].
-
-Nursing
-
-Advise patients to notify their physician if they are breastfeeding an infant [see Use in Specific Populations (8.3)].
+Advise patients to notify their physician if they become pregnant or intend to become pregnant during therapy.
+Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to PRISTIQ during pregnancy [see Use in Specific Populations (8.1)].
 
 Residual Inert Matrix Tablet
 

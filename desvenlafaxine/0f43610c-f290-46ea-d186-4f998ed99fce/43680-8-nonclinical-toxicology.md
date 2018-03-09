@@ -7,10 +7,10 @@ Carcinogenesis
 Desvenlafaxine succinate administered by oral gavage to mice and rats for 2 years did not increase the incidence of tumors in either study.
 
 Mice received desvenlafaxine succinate at dosages up to 500/300 mg/kg/day (dosage lowered after 45 weeks of dosing).
-The 300 mg/kg/day dose is 15 times a human dose of 100 mg per day on a mg/m2 basis.
+The AUC exposure at 300 mg/kg/day dose is estimated at 10 times the AUC exposure at an adult human dose of 100 mg per day.
 
 Rats received desvenlafaxine succinate at dosages up to 300 mg/kg/day (males) or 500 mg/kg/day (females).
-The highest dose is 29 (males) or 48 (females) times a human dose of 100 mg per day on a mg/m2 basis.
+The AUC exposure at the highest dose is estimated at 11 (males) or 26 (females) times the AUC exposure at an adult human dose of 100 mg per day.
 
 Mutagenesis
 
@@ -19,5 +19,6 @@ Additionally, desvenlafaxine was not genotoxic in the in vitro CHO mammalian cel
 
 Impairment of fertility
 
-When desvenlafaxine succinate was administered orally to male and female rats, fertility was reduced at the high dose of 300 mg/kg/day, which is 30 times a human dose of 100 mg per day (on a mg/m2 basis).
-There was no effect on fertility at 100 mg/kg/day, approximately 10 times a human dose of 100 mg per day (on a mg/m2 basis).
+When desvenlafaxine succinate was administered orally to male and female rats, fertility was reduced at the high dose of 300 mg/kg/day, which is 10 (males) and 19 (females) times the AUC exposure at an adult human dose of 100 mg per day.
+There was no effect on fertility at 100 mg/kg/day, which is 3 (males) or 5 (females) times the AUC exposure at an adult human dose of 100 mg per day These studies did not address reversibility of the effect on fertility.
+The relevance of these findings to humans is not known.

@@ -1,5 +1,7 @@
 # 14 CLINICAL STUDIES
 
+Major Depressive Disorder
+
 The efficacy of PRISTIQ as a treatment for depression was established in four 8-week, randomized, double-blind, placebo-controlled, fixed-dose studies (at doses of 50 mg per day to 400 mg per day) in adult outpatients who met the Diagnostic and Statistical Manual of Mental Disorders (DSM-IV) criteria for major depressive disorder.
 In the first study, patients received 100 mg (n = 114), 200 mg (n = 116), or 400 mg (n = 113) of PRISTIQ once daily, or placebo (n = 118).
 In a second study, patients received either 200 mg (n = 121) or 400 mg (n = 124) of PRISTIQ once daily, or placebo (n = 124).
@@ -8,19 +10,19 @@ In two additional studies, patients received 50 mg (n = 150 and n = 164) or 100 
 PRISTIQ showed superiority over placebo as measured by improvement in the 17-item Hamilton Rating Scale for Depression (HAM-D17) total score in four studies and overall improvement, as measured by the Clinical Global Impressions Scale - Improvement (CGI-I), in three of the four studies.
 In studies directly comparing 50 mg per day and 100 mg per day there was no suggestion of a greater effect with the higher dose and adverse reactions and discontinuations were more frequent at higher doses [see Dosage and Administration (2.1)].
 
-Table 8: Primary Efficacy (HAM-D17) Results for Short-term Studies
+Table 9: Primary Efficacy (HAM-D17) Results for Short-term Studies
 
 | Study No. | Primary Endpoint: HAM-D17 | Placebo | 50 mg/day | 100 mg/day | 200 mg/day | 400 mg/day |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  | PRISTIQ |  |  |  |
 | 1 | Baseline Score (SDStandard deviation;) | 23.1 (2.5) |  | 23.2 (2.5) | 22.9 (2.4) | 23.0 (2.2) |
-| Difference from Placebo (95% CI Difference between least squares means at final evaluation, calculated as drug response minus placebo response; unadjusted 95% confidence intervals) |  |  | -2.9Adjusted p-value < 0.05; (-5.1, -0.8) | -2.0 | -3.1 (-5.2, -0.9) |  |
+|  | Difference from Placebo (95% CI Difference between least squares means at final evaluation, calculated as drug response minus placebo response; unadjusted 95% confidence intervals) |  |  | -2.9Adjusted p-value < 0.05; (-5.1, -0.8) | -2.0 | -3.1 (-5.2, -0.9) |
 | 2 | Baseline Score (SD) | 25.3 (3.3) |  |  | 24.8 (2.9) | 25.2 (3.2) |
-| Difference from Placebo (95% CI) |  |  |  | -3.3 (-5.3, -1.2) | -2.8 (-4.8, -0.7) |  |
+|  | Difference from Placebo (95% CI) |  |  |  | -3.3 (-5.3, -1.2) | -2.8 (-4.8, -0.7) |
 | 3 | Baseline Score (SD) | 23.0 (2.6) | 23.4 (2.6) | 23.4 (2.6) |  |  |
-| Difference from Placebo (95% CI) |  | -1.9 (-3.5, -0.3) | -1.5 |  |  |  |
+|  | Difference from Placebo (95% CI) |  | -1.9 (-3.5, -0.3) | -1.5 |  |  |
 | 4 | Baseline Score (SD) | 24.3 (2.6) | 24.3 (2.4) | 24.4 (2.7) |  |  |
-| Difference from Placebo (95% CI) |  | -2.5 (-4.1, -0.9) | -3.0 (-4.7, -1.4) |  |  |  |
+|  | Difference from Placebo (95% CI) |  | -2.5 (-4.1, -0.9) | -3.0 (-4.7, -1.4) |  |  |
 
 Analyses of the relationships between treatment outcome and age and treatment outcome and gender did not suggest any differential responsiveness on the basis of these patient characteristics.
 There was insufficient information to determine the effect of race on outcome in these studies.

@@ -3,10 +3,10 @@
 The following adverse reactions are discussed in greater detail in other sections of the label.
 
 - Hypersensitivity [see Contraindications (4)]
-- Suicidal Thoughts and Behaviors in Adolescents and Young Adults [see Warnings and Precautions (5.1)]
+- Suicidal Thoughts and Behaviors in Pediatric and Young Adult Patients [see Warnings and Precautions (5.1)]
 - Serotonin Syndrome [see Warnings and Precautions (5.2)]
 - Elevated Blood Pressure [see Warnings and Precautions (5.3)]
-- Abnormal Bleeding [see Warnings and Precautions (5.4)]
+- Increased Risk of Bleeding [see Warnings and Precautions (5.4)]
 - Angle Closure Glaucoma [see Warnings and Precautions (5.5)]
 - Activation of Mania/Hypomania [see Warnings and Precautions (5.6)]
 - Discontinuation Syndrome [see Warnings and Precautions (5.7)]
@@ -37,7 +37,7 @@ Common adverse reactions in placebo-controlled MDD studies
 
 The most commonly observed adverse reactions in PRISTIQ treated MDD patients in pre-marketing pooled 8-week, placebo-controlled, fixed-dose studies (incidence ≥ 5% and at least twice the rate of placebo in the 50 or 100 mg dose groups) were: nausea, dizziness, insomnia, hyperhidrosis, constipation, somnolence, decreased appetite, anxiety, and specific male sexual function disorders.
 
-Table 2 shows the incidence of common adverse reactions that occurred in ≥ 2% of PRISTIQ treated MDD patients and twice the rate of placebo at any dose in the pre-marketing pooled 8-week, placebo-controlled, fixed dose clinical studies
+Table 2 shows the incidence of common adverse reactions that occurred in ≥ 2% of PRISTIQ treated MDD patients and twice the rate of placebo at any dose in the pre-marketing pooled 8-week, placebo-controlled, fixed dose clinical studies.
 
 Table 2: Common Adverse Reactions (≥ 2% in any Fixed-Dose Group and Twice the Rate of Placebo) in Pre-marketing Pooled MDD 8-Week Placebo-Controlled Studies
 
@@ -200,8 +200,8 @@ In the pre-marketing short-term, placebo-controlled clinical studies with doses 
 The following adverse reaction has been identified during post-approval use of PRISTIQ.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure:
 
-Skin and subcutaneous tissue disorders – Stevens-Johnson syndrome.
+Skin and subcutaneous tissue disorders – Stevens-Johnson syndrome
 
-Gastrointestinal disorders – Pancreatitis acute.
+Gastrointestinal disorders – Pancreatitis acute
 
-Cardiovascular system – Takotsubo cardiomyopathy.
+Cardiovascular system – Takotsubo cardiomyopathy
