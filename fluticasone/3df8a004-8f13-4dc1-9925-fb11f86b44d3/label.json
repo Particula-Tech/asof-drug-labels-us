@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "NDA020833"
+  ],
+  "inn": "fluticasone",
+  "labeler": "Glaxo Operations UK Ltd",
+  "package_ndcs": [
+    "63379-046-00",
+    "63379-046-01",
+    "63379-046-02",
+    "63379-047-00",
+    "63379-047-01",
+    "63379-047-02",
+    "63379-048-00",
+    "63379-048-01"
+  ],
+  "products": [
+    {
+      "form": "POWDER, METERED",
+      "generic": "fluticasone propionate",
+      "name": "FLOVENT"
+    }
+  ],
+  "setid": "3df8a004-8f13-4dc1-9925-fb11f86b44d3",
+  "source": "dailymed"
+}
