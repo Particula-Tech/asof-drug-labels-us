@@ -4,6 +4,6 @@ By: MERCK SHARP & DOHME LTD. Cramlington, Northumberland, UK NE23 3JU
 
 For patent information: www.merck.com/product/patent/home.html
 
-Copyright © 1999-2015 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
+Copyright © 1999-2018 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-uspi-mk0733-t-1503r065
+uspi-mk0733-t-1802r066

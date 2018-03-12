@@ -4,7 +4,7 @@
 
 Simvastatin occasionally causes myopathy manifested as muscle pain, tenderness or weakness with creatine kinase (CK) above ten times the upper limit of normal (ULN).
 Myopathy sometimes takes the form of rhabdomyolysis with or without acute renal failure secondary to myoglobinuria, and rare fatalities have occurred.
-The risk of myopathy is increased by high levels of statin activity in plasma.
+The risk of myopathy is increased by elevated plasma levels of simvastatin and simvastatin acid.
 Predisposing factors for myopathy include advanced age (≥65 years), female gender, uncontrolled hypothyroidism, and renal impairment.
 
 The risk of myopathy, including rhabdomyolysis, is dose related.
@@ -39,7 +39,7 @@ ZOCOR therapy should also be temporarily withheld in any patient experiencing an
 
 Drug Interactions
 
-The risk of myopathy and rhabdomyolysis is increased by high levels of statin activity in plasma.
+The risk of myopathy and rhabdomyolysis is increased by elevated plasma levels of simvastatin and simvastatin acid.
 Simvastatin is metabolized by the cytochrome P450 isoform 3A4.
 Certain drugs which inhibit this metabolic pathway can raise the plasma levels of simvastatin and may increase the risk of myopathy.
 These include itraconazole, ketoconazole, posaconazole, voriconazole, the macrolide antibiotics erythromycin and clarithromycin, and the ketolide antibiotic telithromycin, HIV protease inhibitors, boceprevir, telaprevir, the antidepressant nefazodone, cobicistat-containing products, or grapefruit juice [see Clinical Pharmacology (12.3)].
