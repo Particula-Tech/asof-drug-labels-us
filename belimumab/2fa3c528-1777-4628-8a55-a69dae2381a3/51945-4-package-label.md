@@ -72,8 +72,6 @@ Rev.
 
 10000000141890
 
-# Click here to enter text.
-
 PRINCIPAL DISPLAY PANEL
 
 NDC 49401-088-35
@@ -99,9 +97,9 @@ Contents:
 
 Federal Law requires dispensing of BENLYSTA with the Medication Guide provided with this package.
 
-2017 GSK group of companies or is licensor.
+©2017 GSK group of companies or is licensor.
 
 Rev.
-6/17
+7/17
 
-DEVCOMP-0004313
+10000000147097
