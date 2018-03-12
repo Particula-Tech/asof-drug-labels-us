@@ -6,4 +6,4 @@ AIRDUO RESPICLICK is contraindicated in the primary treatment of status asthmati
 
 ## 4.2 Hypersensitivity
 
-1. AIRDUO RESPICLICK is contraindicated in patients with known severe hypersensitivity to milk proteins or who have demonstrated hypersensitivity to fluticasone propionate or any of the excipients [see Warnings and Precautions (5.10), Description (11)].
+AIRDUO RESPICLICK is contraindicated in patients with known severe hypersensitivity to milk proteins or who have demonstrated hypersensitivity to fluticasone propionate or any of the excipients [see Warnings and Precautions (5.10), Description (11)].

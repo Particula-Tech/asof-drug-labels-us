@@ -2,17 +2,17 @@
 
 Use of LABA may result in the following:
 
-- •Serious asthma-related events – hospitalizations, intubations, death [see Warnings and Precautions (5.1)]
-- •Cardiovascular and central nervous system effects [see Warnings and Precautions (5.11)]
+- Serious asthma-related events – hospitalizations, intubations, death [see Warnings and Precautions (5.1)]
+- Cardiovascular and central nervous system effects [see Warnings and Precautions (5.11)]
 
 Systemic and local corticosteroid use may result in the following:
 
-- •Candida albicans infection [see Warnings and Precautions (5.4)]
-- •Immunosuppression [see Warnings and Precautions (5.5)]
-- •Hypercorticism and adrenal suppression [see Warnings and Precautions (5.7)]
-- •Reduction in bone mineral density [see Warnings and Precautions (5.12)]
-- •Growth effects in pediatrics [see Warnings and Precautions (5.13)]
-- •Glaucoma and cataracts [see Warnings and Precautions (5.14)]
+- Candida albicans infection [see Warnings and Precautions (5.4)]
+- Immunosuppression [see Warnings and Precautions (5.5)]
+- Hypercorticism and adrenal suppression [see Warnings and Precautions (5.7)]
+- Reduction in bone mineral density [see Warnings and Precautions (5.12)]
+- Growth effects in pediatrics [see Warnings and Precautions (5.13)]
+- Glaucoma and cataracts [see Warnings and Precautions (5.14)]
 
 ## 6.1 Clinical Trials Experience in Asthma
 
@@ -23,7 +23,7 @@ A total of 1,364 adolescent and adult patients previously treated with inhaled c
 Sixty percent of patients were female and 80% of patients were white.
 The average duration of exposure was 82 to 84 days in the active treatment groups compared with 75 days in the placebo group.
 
-1. Table 2: Adverse Reactions with ≥3% Incidence with AIRDUO RESPICLICK, and More Common than Placebo in Subjects with Asthma
+Table 2: Adverse Reactions with ≥3% Incidence with AIRDUO RESPICLICK, and More Common than Placebo in Subjects with Asthma
 
 | Adverse Reaction | ARMONAIR RESPICLICK 55 mcg (n=129) % | ARMONAIR RESPICLICK 113 mcg (n=274) % | ARMONAIR RESPICLICK 232 mcg (n=146) % | AIRDUO RESPICLICK 55/14 mcg (n=128) % | AIRDUO RESPICLICK 113/14 mcg (n=269) % | AIRDUO RESPICLICK 232/14 mcg (n=145) % | Placebo (n=273) % |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -57,7 +57,7 @@ Cardiac Disorders: Arrhythmias (including atrial fibrillation, extrasystoles, su
 
 Endocrine Disorders: Cushing’s syndrome, Cushingoid features, growth velocity reduction in children/adolescents, hypercorticism.
 
-Eye Disorders: Glaucoma.
+Eye Disorders: Glaucoma, blurred vision and central serous chorioretinopathy.
 
 Gastrointestinal Disorders: Abdominal pain, dyspepsia, xerostomia.
 
@@ -75,7 +75,7 @@ Nervous System Disorders: Paresthesia, restlessness.
 Psychiatric Disorders: Agitation, aggression, depression.
 Behavioral changes, including hyperactivity and irritability, have been reported very rarely and primarily in children.
 
-1. Reproductive System and Breast Disorders: Dysmenorrhea.
+Reproductive System and Breast Disorders: Dysmenorrhea.
 
 Respiratory, Thoracic, and Mediastinal Disorders: Chest congestion; chest tightness, dyspnea; facial and oropharyngeal edema, immediate bronchospasm; paradoxical bronchospasm; tracheitis; wheezing; reports of upper respiratory symptoms of laryngeal spasm, irritation, or swelling such as stridor or choking.
 

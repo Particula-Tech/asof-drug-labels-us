@@ -11,7 +11,7 @@ Inform patients with asthma that LABA when used alone increases the risk of asth
 hospitalization and asthma-related death.
 Available data show that when ICS and LABA are
 
-used together, such as with AIRDUO, there is not a significant increase in the risk of these events.
+used together, such as with AIRDUO RESPICLICK, there is not a significant increase in the risk of these events.
 
 Not for Acute Symptoms
 
@@ -21,10 +21,9 @@ Provide patients with such medication and instruct them in how it should be used
 
 Instruct patients to seek medical attention if they experience any of the following:
 
-- 
-  - •Decreasing effectiveness of inhaled, short‑acting beta2‑agonists
-  - •Need for more inhalations than usual of inhaled, short‑acting beta2‑agonists
-  - •Significant decrease in lung function as outlined by the physician
+- Decreasing effectiveness of inhaled, short‑acting beta2‑agonists
+- Need for more inhalations than usual of inhaled, short‑acting beta2‑agonists
+- Significant decrease in lung function as outlined by the physician
 
 Tell patients they should not stop therapy with AIRDUO RESPICLICK without physician/provider guidance since symptoms may recur after discontinuation.
 
@@ -115,15 +114,13 @@ Marketed by: Teva Respiratory, LLC Frazer, PA 19355
 
 Manufactured by: Teva Pharmaceutical Industries Ltd. Jerusalem, Israel
 
-Copyright ©2017 Teva Respiratory, LLC
+Copyright ©2018 Teva Respiratory, LLC
 
 All rights reserved.
 
-AIRDUO®, ARMONAIR™ and RESPICLICK® are trademarks owned by Teva Respiratory, LLC.
+United States Patent Nos. 6701917, 6718972, 6748947, 6871646, 7540282, 8006690, 8651103, 8714149, 8978966, 9066957, 9216260, 9415008, 9463288, 9616024, 9731087.
 
-United States Patent Nos. 6446627, 6701917, 6718972, 6748947, 6871646, 7540282, 8006690, 8651103, 8714149, 8978966, 9066957, 9216260, 9415008, 9463288, 9616024, 9731087.
-
-AIRDPI-002
+AIRDPI-003
 
 Rev.
-December 2017
+March 2018

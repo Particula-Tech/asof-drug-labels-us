@@ -20,8 +20,8 @@ Each individual trial met its pre-specified objective and demonstrated non-infer
 A meta-analysis of the 3 adult and adolescent trials did not show a significant increase in risk of a serious asthma-related event with ICS/LABA fixed-dose combination compared with ICS alone (Table 1).
 These trials were not designed to rule out all risk for serious asthma-related events with ICS/LABA compared with ICS.
 
-1. Table 1.
-   Meta-analysis of Serious Asthma-Related Events in Subjects with Asthma Aged 12 Years and Older
+Table 1.
+Meta-analysis of Serious Asthma-Related Events in Subjects with Asthma Aged 12 Years and Older
 
 |  | ICS/LABA(n =17,537) a | ICS(n = 17,552) a | ICS/LABA vs.ICSHazard Ratio (95% CI)b |
 | --- | --- | --- | --- |
@@ -30,14 +30,18 @@ These trials were not designed to rule out all risk for serious asthma-related e
 | Asthma-related intubation (endotracheal) | 1 | 2 |  |
 | Asthma-related hospitalization (≥24-hour stay) | 115 | 105 |  |
 
-1. ICS = Inhaled Corticosteroid; LABA = Long-acting Beta2-adrenergic Agonist.
-2. a Randomized subjects who had taken at least 1 dose of study drug.
-   Planned treatment used for analysis.
-3. b Estimated using a Cox proportional hazards model for time to first event with baseline hazards
-4. stratified by each of the 3 trials.
-5. c Number of subjects with events that occurred within 6 months after the first use of study drug or 7 days after the last date of study drug, whichever date was later.
-   Subjects can have one or more events, but only the first event was counted for analysis.
-   A single, blinded, independent adjudication committee determined whether events were asthma related.
+ICS = Inhaled Corticosteroid; LABA = Long-acting Beta2-adrenergic Agonist.
+
+a Randomized subjects who had taken at least 1 dose of study drug.
+Planned treatment used for analysis.
+
+b Estimated using a Cox proportional hazards model for time to first event with baseline hazards
+
+stratified by each of the 3 trials.
+
+c Number of subjects with events that occurred within 6 months after the first use of study drug or 7 days after the last date of study drug, whichever date was later.
+Subjects can have one or more events, but only the first event was counted for analysis.
+A single, blinded, independent adjudication committee determined whether events were asthma related.
 
 The pediatric safety trial included 6,208 pediatric patients aged 4 to 11 years who received ICS/LABA (fluticasone propionate/salmeterol inhalation powder) or ICS (fluticasone propionate inhalation powder).
 In this trial 27/3,107 (0.9%) of patients treated with ICS/LABA and 21/3,101 (0.7%) of patients treated with ICS experienced a serious asthma‑related event.
