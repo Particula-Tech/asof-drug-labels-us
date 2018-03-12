@@ -39,7 +39,7 @@ Abiraterone AUC0–∞ was approximately 7-fold or 1.6-fold higher, respectively
 Systemic exposures of abiraterone in patients with metastatic CRPC, after repeated dosing of abiraterone acetate were similar when abiraterone acetate was taken with low-fat meals for 7 days and increased approximately 2-fold when taken with high-fat meals for 7 days compared to when taken at least 2 hours after a meal and at least 1 hour before a meal for 7 days.
 
 Given the normal variation in the content and composition of meals, taking ZYTIGA with meals has the potential to result in increased and highly variable exposures.
-Therefore, no food should be consumed for at least two hours before the dose of ZYTIGA is taken and for at least one hour after the dose of ZYTIGA is taken.
+Therefore, ZYTIGA must be taken on an empty stomach, either one hour before or two hours after a meal.
 The tablets should be swallowed whole with water [see Dosage and Administration (2.3)].
 
 Distribution and Protein Binding

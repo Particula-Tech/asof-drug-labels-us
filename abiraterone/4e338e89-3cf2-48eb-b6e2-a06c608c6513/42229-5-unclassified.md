@@ -5,4 +5,4 @@ Bourgoin Jallieu, France
 
 Manufactured for: Janssen Biotech, Inc. Horsham, PA 19044
 
-© 2011, 2017 Janssen Pharmaceutical Companies Revised: 02/2018
+© 2011, 2017 Janssen Pharmaceutical Companies Revised: 03/2018
