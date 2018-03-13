@@ -1,4 +1,4 @@
-# Package/Label Display Panel - CLINDAGEL
+# Package/Label Display Panel Carton - CLINDAGEL
 
 Rx only
 
@@ -18,4 +18,4 @@ For Topical Use Only
 
 75 mL
 
-VALEANT
+Ortho Dermatologics

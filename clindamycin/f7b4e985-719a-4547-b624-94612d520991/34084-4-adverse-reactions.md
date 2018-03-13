@@ -1,8 +1,8 @@
 # ADVERSE REACTIONS
 
-In the one well-controlled clinical study comparing Clindagel® and its vehicle, the incidence of skin and appendages adverse events occurring in ≥1% of the patients in either group is presented below:
+In the one well-controlled clinical study comparing CLINDAGEL and its vehicle, the incidence of skin and appendages adverse events occurring in ≥1% of the patients in either group is presented below:
 
-| Body System/Adverse Event | Clindagel® QD N=168 | Vehicle Gel QD N=84 |
+| Body System/Adverse Event | CLINDAGELQD N=168 | Vehicle Gel QD N=84 |
 | --- | --- | --- |
 |  | Number (%) of Patients |  |
 | Skin and appendages disorders |  |  |
@@ -21,4 +21,4 @@ Orally and parenterally administered clindamycin has been associated with severe
 Cases of diarrhea, bloody diarrhea, and colitis (including pseudomembranous colitis) have been reported as adverse reactions in patients treated with oral and parenteral formulations of clindamycin and rarely with topical clindamycin (see WARNINGS).
 Abdominal pain and gastrointestinal disturbances, as well as gram-negative folliculitis, have also been reported in association with the use of topical formulations of clindamycin.
 
-To report SUSPECTED ADVERSE REACTIONS, contact Valeant Pharmaceuticals North America LLC at 1-800-321-4576 and/or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch
+To report SUSPECTED ADVERSE REACTIONS, contact Valeant Pharmaceuticals North America LLC at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

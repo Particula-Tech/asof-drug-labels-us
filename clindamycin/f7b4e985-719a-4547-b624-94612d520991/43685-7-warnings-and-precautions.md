@@ -17,44 +17,44 @@ Diarrhea, colitis, and pseudomembranous colitis have been observed to begin up t
 
 # PRECAUTIONS
 
-General: Clindagel® should be prescribed with caution in atopic individuals.
+General: CLINDAGEL should be prescribed with caution in atopic individuals.
 
 Drug Interactions: Clindamycin has been shown to have neuromuscular blocking properties that may enhance the action of other neuromuscular blocking agents.
 Therefore, it should be used with caution in patients receiving such agents.
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
+## Carcinogenesis, Mutagenesis, Impairment of Fertility:
 
-The carcinogenicity of a 1% clindamycin phosphate gel similar to Clindagel® was evaluated by daily application to mice for two years.
-The daily doses used in this study were approximately 3 and 15 times higher than the human dose of clindamycin phosphate from 5 milliliters of Clindagel®, assuming complete absorption and based on a body surface area comparison.
+The carcinogenicity of a 1% clindamycin phosphate gel similar to CLINDAGEL was evaluated by daily application to mice for 2 years.
+The daily doses used in this study were approximately 3 and 15 times higher than the human dose of clindamycin phosphate from 5 mL of CLINDAGEL, assuming complete absorption and based on a body surface area comparison.
 No significant increase in tumors was noted in the treated animals.
 
-A 1% clindamycin phosphate gel similar to Clindagel® caused a statistically significant shortening of the median time to tumor onset in a study in hairless mice in which tumors were induced by exposure to simulated sunlight.
+A 1% clindamycin phosphate gel similar to CLINDAGEL caused a statistically significant shortening of the median time to tumor onset in a study in hairless mice in which tumors were induced by exposure to simulated sunlight.
 
 Genotoxicity tests performed included a rat micronucleus test and an Ames Salmonella reversion test.
 Both tests were negative.
 Reproduction studies in rats using oral doses of clindamycin hydrochloride and clindamycin palmitate hydrochloride have revealed no evidence of impaired fertility.
 
-## Pregnancy
+## Pregnancy:
 
-Teratogenic effects-Pregnancy Category B
+Teratogenic Effects:
 
-Reproduction studies have been performed in rats and mice using subcutaneous and oral doses of clindamycin phosphate, clindamycin hydrochloride and clindamycin palmitate hydrochloride.
+Reproduction studies have been performed in rats and mice using subcutaneous and oral doses of clindamycin phosphate, clindamycin hydrochloride, and clindamycin palmitate hydrochloride.
 These studies revealed no evidence of fetal harm.
 The highest dose used in the rat and mouse teratogenicity studies was equivalent to a clindamycin phosphate dose of 432 mg/kg.
-For a rat, this dose is 84 fold higher and for a mouse 42 fold higher, than the anticipated human dose of clindamycin phosphate from Clindagel® based on a mg/m2 comparison.
+For a rat, this dose is 84- fold higher and for a mouse, 42-fold higher than the anticipated human dose of clindamycin phosphate from CLINDAGELbased on a mg/m2 comparison.
 There are, however, no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 
-## Nursing Mothers
+## Nursing Mothers:
 
-It is not known whether clindamycin is excreted in human milk following use of Clindagel®.
+It is not known whether clindamycin is excreted in human milk following use of CLINDAGEL.
 However, orally and parenterally administered clindamycin has been reported to appear in breast milk.
 Because of the potential for serious adverse reactions in nursing infants, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 
-## Pediatric Use
+## Pediatric Use:
 
 Safety and effectiveness in children under the age of 12 have not been established.
 
-## Geriatric Use
+## Geriatric Use:
 
-The clinical study with Clindagel® did not include sufficient numbers of patients aged 65 and over to determine if they respond differently than younger patients.
+The clinical study with CLINDAGEL did not include sufficient numbers of patients aged 65 and over to determine if they respond differently than younger patients.
