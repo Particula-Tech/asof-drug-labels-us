@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA207986"
+  ],
+  "inn": "ciprofloxacin",
+  "labeler": "Alliance Medical Products Inc. (dba Siegfried Irvine)",
+  "package_ndcs": [
+    "71991-003-02"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "ciprofloxacin otic suspension",
+      "name": "OTIPRIO"
+    }
+  ],
+  "setid": "60b6362b-123b-0a1f-e053-2991aa0a1812",
+  "source": "dailymed"
+}
