@@ -1,4 +1,4 @@
-# MEDICATION GUIDE
+# Medication Guide
 
 Desvenlafaxine Extended-Release Tablets (des VEN la FAX een)
 
@@ -173,4 +173,4 @@ Distributed by: Breckenridge Pharmaceutical, Inc. Boca Raton, FL 33487
 
 Manufactured by: Alembic Pharmaceuticals Limited (Formulation Division), Village Panelav, P. O. Tajpura, Near Baska, Taluka-Halol, Panchmahal, Gujarat, India.
 
-Revised: 01/2017
+Revised: 01/2018
