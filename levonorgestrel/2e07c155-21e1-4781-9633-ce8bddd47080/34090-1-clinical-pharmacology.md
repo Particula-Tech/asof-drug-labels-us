@@ -21,7 +21,7 @@ In the fourth year, evidence of ovulation was observed in the one woman remainin
 Low doses of LNG are administered into the uterine cavity with the Kyleena intrauterine delivery system.
 The in vivo release rate is approximately 17.5 mcg/day after 24 days and is reduced to approximately 15.3 mcg/day after 60 days and to 9.8 mcg/day after 1 year.
 It then declines progressively to approximately 7.9 mcg/day after 3 years and 7.4 mcg/day after 5 years.
-The average LNG in vivo release rate is approximately 9 mcg/day over the period of 5 years.
+The average LNG in vivo release rate is approximately 12.6 mcg/day over the first year and 9.0 mcg/day over the period of 5 years.
 
 In a subset of 6 subjects, the maximum observed serum LNG concentration (mean ±SD) was 302 ± 170 pg/mL, reached after 7.5 days (median) of Kyleena insertion.
 Thereafter, the LNG serum concentrations (mean ±SD) at Year 1, 2, 3, 4 and 5 were 199 ± 171 pg/mL (N=6), 120 ± 57 pg/mL (N=6), 122 ± 65 pg/mL (N=6), 79 ± 12 pg/mL (N=3) and 65 ± 15 pg/mL (N=3), respectively.
@@ -42,10 +42,10 @@ Metabolic clearance rates may differ among individuals by several-fold, and this
 
 #### Metabolism
 
-1. Following absorption, LNG is extensively metabolized.
-   The most important metabolic pathways are the reduction of the Δ4-3-oxo group and hydroxylations at positions 2α, 1β and 16β, followed by conjugation.
-   Significant amounts of conjugated and unconjugated 3α, 5β- are also present in serum, along with much smaller amounts of 3α, 5α-tetrahydrolevonorgestrel and 16β-hydroxylevonorgestrel.
-   CYP3A4 is the main enzyme involved in the oxidative metabolism of LNG.
+- Following absorption, LNG is extensively metabolized.
+  The most important metabolic pathways are the reduction of the Δ4-3-oxo group and hydroxylations at positions 2α, 1β and 16β, followed by conjugation.
+  Significant amounts of conjugated and unconjugated 3α, 5β- are also present in serum, along with much smaller amounts of 3α, 5α-tetrahydrolevonorgestrel and 16β-hydroxylevonorgestrel.
+  CYP3A4 is the main enzyme involved in the oxidative metabolism of LNG.
 
 #### Excretion
 

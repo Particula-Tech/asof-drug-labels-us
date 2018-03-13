@@ -35,9 +35,9 @@ The most common adverse reactions (occurring in ≥ 5% users) were vulvovaginiti
 In the combined studies, 22% discontinued prematurely due to an adverse reaction.
 The most common adverse reactions (>1%) leading to discontinuation were increased bleeding (4.5%), abdominal pain/pelvic pain (4.2%), device expulsion (3.1%), acne/seborrhea (2.3%), and dysmenorrhea/uterine spasm (1.3%).
 
-Common adverse reactions (occurring in ≥1% users) are summarized in Table 3 (presented as crude incidences).
+Common adverse reactions (occurring in ≥1% users) are summarized in Table4 (presented as crude incidences).
 
-Table 3: Adverse reactions that occurred in at least 1% of Kyleena users in clinical trials by System Organ Class (SOC)
+Table 4: Adverse reactions that occurred in at least 1% of Kyleena users in clinical trials by System Organ Class (SOC)
 
 | System Organ Class | Adverse Reaction | Incidence (%) (N=1,697) |
 | --- | --- | --- |

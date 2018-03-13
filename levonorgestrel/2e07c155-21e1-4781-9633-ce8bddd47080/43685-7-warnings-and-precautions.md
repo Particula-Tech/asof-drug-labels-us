@@ -71,16 +71,18 @@ When possible, confirm a Pap smear diagnosis with cultures.
 
 Perforation (total or partial, including penetration/embedment of Kyleena in the uterine wall or cervix) may occur most often during insertion, although the perforation may not be detected until sometime later.
 Perforation may reduce contraceptive efficacy and result in pregnancy.
-The incidence of perforation during clinical trials was <0.1%.
+The incidence of perforation during clinical trials was < 0.1%.
 
 If perforation occurs, locate and remove Kyleena.
 Surgery may be required.
 Delayed detection or removal of Kyleena in case of perforation may result in migration outside the uterine cavity, adhesions, peritonitis, intestinal perforations, intestinal obstruction, abscesses and erosion of adjacent viscera.
 
-Clinical trials with Kyleena excluded breast-feeding women.
-An analysis from a large postmarketing safety study with another LNG-releasing IUS and copper IUDs shows an increased risk of perforation in lactating women.
-The risk of perforation may be increased if Kyleena is inserted when the uterus is fixed retroverted or not completely involuted during the postpartum period.
+The risk of perforation may be increased if Kyleena is inserted when the uterus is fixed retroverted or not completely involuted.
 Delay Kyleena insertion a minimum of six weeks or until involution is complete following a delivery or a second trimester abortion.
+
+Clinical trials with Kyleena excluded breast-feeding women.
+A large postmarketing safety study conducted in Europe over a 1-year observational period reported that lactation at the time of insertion of an IUD/IUS was associated with an increased risk of perforation.
+For users of another LNG-releasing IUS, the incidence of uterine perforation was reported as 6.3 per 1,000 insertions for lactating women, compared to 1.0 per 1,000 insertions for non-lactating women.
 
 ## 5.6 Expulsion
 
@@ -92,7 +94,7 @@ In clinical trials, a 5-year expulsion rate of 3.5% (59 out of 1,690 subjects) w
 
 Delay Kyleena insertion a minimum of six weeks or until uterine involution is complete following a delivery or a second trimester abortion.
 Remove a partially expelled Kyleena.
-If expulsion has occurred, Kyleena may be replaced within 7 days after the onset of a menstrual period after pregnancy has been ruled out.
+If expulsion has occurred, a new Kyleena can be inserted any time the provider can be reasonably certain the woman is not pregnant.
 
 ## 5.7 Ovarian Cysts
 
@@ -111,10 +113,10 @@ Thereafter, the number of bleeding and spotting days usually decreases but bleed
 
 In Kyleena clinical trials, amenorrhea developed by the end of the first year of use in approximately 12% of Kyleena users.
 A total of 81 subjects out of 1,697 (4.8%) discontinued due to uterine bleeding complaints.
-Table 1 shows the bleeding patterns as documented in the Kyleena clinical trials based on 90-day reference periods.
-Table 2 shows the number of bleeding and spotting days based on 28-day cycle equivalents.
+Table 2 shows the bleeding patterns as documented in the Kyleena clinical trials based on 90-day reference periods.
+Table 3 shows the number of bleeding and spotting days based on 28-day cycle equivalents.
 
-Table 1: Bleeding Patterns Reported with Kyleena in Contraception Studies (by 90-day reference periods)
+Table 2: Bleeding Patterns Reported with Kyleena in Contraception Studies (by 90-day reference periods)
 
 | Kyleena | First 90 days N=1,566 | Second 90 days N=1,511 | End of year 1 N=1,371 | End of year 3 N=975 | End of year 5N=530 |
 | --- | --- | --- | --- | --- | --- |
@@ -135,7 +137,7 @@ Subjects with prolonged bleeding may also be included in one of the other catego
 
 5Defined as subjects with 3 to 5 bleeding/spotting episodes and less than 3 bleeding/spotting-free intervals of 14 or more days
 
-Table 2: Mean number of Bleeding and Spotting Days per 28-day Cycle Equivalent
+Table 3: Mean number of Bleeding and Spotting Days per 28-day Cycle Equivalent
 
 | 28-day Cycle Equivalent | Cycle 1N=1,619 | Cycle 4N=1,575 | Cycle 7N=1,518 | Cycle 13N=1,394 | Cycle 39N=913 | Cycle 65N=322 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -153,7 +155,7 @@ Once pregnancy has been excluded, repeated pregnancy tests are generally not nec
 
 Women who currently have or have had breast cancer, or have a suspicion of breast cancer, should not use hormonal contraception, including Kyleena, because some breast cancers are hormone-sensitive [see Contraindications (4)].
 
-Spontaneous reports of breast cancer have been received during postmarketing experience with another LNG-releasing IUS.
+Spontaneous reports of breast cancer have been received during postmarketing experience with a LNG-releasing IUS.
 Observational studies of the risk of breast cancer with use of a LNG-releasing IUS do not provide conclusive evidence of increased risk.
 
 ## 5.10 Clinical Considerations for Use and Removal
@@ -178,7 +180,7 @@ If Kyleena is displaced, remove it.
 A new Kyleena may be inserted at that time or during the next menses if it is certain that conception has not occurred.
 If Kyleena is in place with no evidence of perforation, no intervention is indicated.
 
-## 5.11 Magnetic Resonance Imaging (MRI) Information
+## 5.11 Magnetic Resonance Imaging (MRI) Safety Information
 
 Non-clinical testing has demonstrated that Kyleena is MR Conditional.
 A patient with Kyleena can be safely scanned in an MR system meeting the following conditions:

@@ -13,9 +13,9 @@ Of Kyleena-treated women, 22% discontinued the study treatment due to an adverse
 The pregnancy rate calculated as the Pearl Index (PI) in women aged 18–35 years was the primary efficacy endpoint used to assess contraceptive reliability.
 The PI was calculated based on 28-day equivalent exposure cycles; evaluable cycles excluded those in which back-up contraception was used unless a pregnancy occurred in that cycle.
 The Year 1 PI was based on 2 pregnancies and the cumulative 5-year pregnancy rate was based on 13 pregnancies that occurred after the onset of treatment and within 7 days after Kyleena removal or expulsion.
-Table 4 shows the calculated annual and
+Table 5 shows the calculated annual and cumulative pregnancy rates.
 
-Table 4: Pearl Indices by Year and 5-Year Cumulative Pregnancy Rate
+Table 5: Pearl Indices by Year and 5-Year Cumulative Pregnancy Rate
 
 | Kyleena Clinical Trial | Pearl Index |  |  |  |  | Cumulative 5-Year Kaplan Meier Rate |
 | --- | --- | --- | --- | --- | --- | --- |

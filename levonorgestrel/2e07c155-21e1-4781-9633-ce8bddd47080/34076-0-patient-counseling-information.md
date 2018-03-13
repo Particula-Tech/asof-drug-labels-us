@@ -6,8 +6,9 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
 - •Risk of Ectopic Pregnancy: Inform the patient about the risks of ectopic pregnancy, including the loss of fertility.
   Teach her to recognize and report to her healthcare provider promptly any symptoms of ectopic pregnancy.
   [See Warnings and Precautions (5.1).]
-- •Risks of Intrauterine Pregnancy: Instruct the patient to contact her healthcare provider if she thinks she might be pregnant.
+- •Risks of Intrauterine Pregnancy::Instruct the patient to contact her healthcare provider if she thinks she might be pregnant.
   Inform the patient about the risks of intrauterine pregnancy while using Kyleena, including the risks of leaving Kyleena in place and the risks of removing Kyleena or probing of the uterus.
+  If Kyleena cannot be removed in a pregnant patient, advise her to report immediately any symptom that suggests complications of the pregnancy.
   [See Warnings and Precautions (5.2) and Use in Special Populations (8.1).]
 - •Sepsis: Counsel the patient that severe infection or sepsis, including Group A streptococcal sepsis (GAS), can occur within the first few days after Kyleena is inserted.
   Instruct her to contact a healthcare provider immediately if she develops severe pain or fever shortly after Kyleena is inserted.
@@ -40,10 +41,8 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
 - •Unusual vaginal discharge or genital sores
 - •Severe vaginal bleeding or bleeding that lasts a long time, or if she misses a menstrual period
 - •Inability to feel Kyleena's threads
-
-Magnetic Resonance Imaging (MRI) Safety Information: Inform the patient that Kyleena can be safely scanned with MRI only under specific conditions [see Warnings and Precautions (5.11)].
-Instruct patients who will have an MRI to tell their doctor that they have Kyleena.
-This information is included on the Follow-Up Reminder Card.
-[See Warnings and Precautions (5.11).]
-
-- •Complete the Follow-up Reminder Card and give it to the patient.
+- •Magnetic Resonance Imaging (MRI) Safety Information: Inform the patient that Kyleena can be safely scanned with MRI only under specific conditions [see Warnings and Precautions (5.11)].
+  Instruct patients who will have an MRI to tell their doctor that they have Kyleena.
+  This information is included on the Follow-Up Reminder Card.
+  [See Warnings and Precautions (5.11).]
+- Complete the Follow-up Reminder Card and give it to the patient.
