@@ -6,7 +6,7 @@ Ciprofloxacin is a fluoroquinolone antibacterial [see Microbiology (12.4)].
 
 ## 12.3 Pharmacokinetics
 
-The plasma concentration of ciprofloxacin following bilateral administration of 0.1 mL OTIPRIO was not measured.
+The plasma concentration of ciprofloxacin following otic administration of OTIPRIO was not measured.
 
 ## 12.4 Microbiology
 

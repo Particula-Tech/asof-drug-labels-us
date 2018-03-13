@@ -21,3 +21,12 @@ The safety and effectiveness of OTIPRIO in infants below six months of age have 
 
 The safety and effectiveness of OTIPRIO was established in 530 pediatric patients with bilateral otitis media with middle ear effusion undergoing myringotomy with tympanostomy tube placement.
 The median age of patients enrolled in the clinical trials was 1.5 years; 62% of patients were 6 months through 2 years of age and 38% of patients were greater than 2 years of age [see Adverse Reactions (6.1) and Clinical Studies (14)].
+
+The safety and effectiveness of OTIPRIO was established in 64 acute otitis externa pediatric patients that participated in the pivotal Phase 3 study.
+Efficacy observed in the pediatric patients in that study was no different from the older population.
+[see Adverse Reactions (6.1) and Clinical Studies (14)]
+
+## 8.5 Geriatric Use
+
+Clinical studies of OTIPRIO did not include sufficient numbers of patients aged 65 and over to determine whether they respond differently from younger patients.
+Other reported clinical experience has not identified differences in responses between the elderly and younger patients [see Adverse Reactions (6.1) and Clinical Studies (14)].
