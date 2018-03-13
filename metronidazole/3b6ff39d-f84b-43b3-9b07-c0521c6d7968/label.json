@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA205223"
+  ],
+  "inn": "metronidazole",
+  "labeler": "Exeltis USA, Inc.",
+  "package_ndcs": [
+    "0642-7466-05",
+    "0642-7466-06"
+  ],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "metronidazole",
+      "name": "Nuvessa"
+    }
+  ],
+  "setid": "3b6ff39d-f84b-43b3-9b07-c0521c6d7968",
+  "source": "dailymed"
+}
