@@ -2,26 +2,5 @@
 
 No drug-drug interaction studies have been conducted with Skyla.
 
-Drugs or herbal products that induce enzymes, including CYP3A4, that metabolize progestins may decrease the serum concentrations of progestins.
-
-Some drugs or herbal products that may decrease the serum concentration of LNG include:
-
-- •Barbiturates
-- •Bosentan
-- •Carbamazepine
-- •Efavirenz
-- •Felbamate
-- •Griseofulvin
-- •Nevirapine
-- •Oxcarbazepine
-- •Phenytoin
-- •Rifabutin
-- •Rifampin
-- •St.
-  John’s wort
-- •Topiramate
-
-Significant changes (increase or decrease) in the serum concentrations of the progestin have been noted in some cases of co-administration with HIV protease inhibitors or with non-nucleoside reverse transcriptase inhibitors.
-CYP3A4 inhibitors such as itraconazole or ketoconazole may increase plasma hormone levels.
-
-Consult the labeling of all concurrently used drugs to obtain further information about interactions with Skyla or the potential for enzyme alterations.
+Drugs or herbal products that induce or inhibit LNG metabolizing enzymes, including CYP3A4, may decrease or increase, respectively, the serum concentrations of LNG during the use of Skyla.
+However, the contraceptive effect of Skyla is mediated via the direct release of LNG into the uterine cavity and is unlikely to be affected by drug interactions via enzyme induction or inhibition.
