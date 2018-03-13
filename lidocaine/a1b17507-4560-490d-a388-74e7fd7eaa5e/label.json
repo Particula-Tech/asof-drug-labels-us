@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA207962"
+  ],
+  "inn": "lidocaine",
+  "labeler": "Scilex Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "69557-111-30"
+  ],
+  "products": [
+    {
+      "form": "PATCH",
+      "generic": "lidocaine",
+      "name": "Ztlido"
+    }
+  ],
+  "setid": "a1b17507-4560-490d-a388-74e7fd7eaa5e",
+  "source": "dailymed"
+}
