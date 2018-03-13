@@ -1,0 +1,18 @@
+{
+  "application_numbers": [],
+  "inn": "budesonide",
+  "labeler": "ASM AEROSOL-SERVICE AG",
+  "package_ndcs": [
+    "72032-651-02",
+    "72032-651-03"
+  ],
+  "products": [
+    {
+      "form": "AEROSOL, FOAM",
+      "generic": "budesonide",
+      "name": "Uceris"
+    }
+  ],
+  "setid": "fbeb0985-0c7f-401b-b2f8-fbd2637b6814",
+  "source": "dailymed"
+}
