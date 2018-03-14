@@ -1,0 +1,18 @@
+WARNING: SERIOUS SKIN RASHES
+
+SUBVENITETM can cause serious rashes requiring hospitalization and discontinuation of treatment.
+The incidence of these rashes, which have included Stevens-Johnson syndrome, is approximately 0.3% to 0.8% in pediatric patients (aged 2 to 17 years) and 0.08% to 0.3% in adults receiving SUBVENITE.
+One rash-related death was reported in a prospectively followed cohort of 1,983 pediatric patients (aged 2 to 16 years) with epilepsy taking SUBVENITE as adjunctive therapy.
+In worldwide postmarketing experience, rare cases of toxic epidermal necrolysis and/or rash-related death have been reported in adult and pediatric patients, but their numbers are too few to permit a precise estimate of the rate.
+
+Other than age, there are as yet no factors identified that are known to predict the risk of occurrence or the severity of rash caused by SUBVENITE.
+There are suggestions, yet to be proven, that the risk of rash may also be increased by (1) coadministration of SUBVENITE with valproate (includes valproic acid and divalproex sodium), (2) exceeding the recommended initial dose of SUBVENITE, or (3) exceeding the recommended dose escalation for SUBVENITE.
+However, cases have occurred in the absence of these factors.
+
+Nearly all cases of life-threatening rashes caused by SUBVENITE have occurred within 2 to 8 weeks of treatment initiation.
+However, isolated cases have occurred after prolonged treatment (e.g., 6 months).
+Accordingly, duration of therapy cannot be relied upon as means to predict the potential risk heralded by the first appearance of a rash.
+
+Although benign rashes are also caused by SUBVENITE, it is not possible to predict reliably which rashes will prove to be serious or life threatening.
+Accordingly,SUBVENITE should ordinarily be discontinued at the first sign of rash, unless the rash is clearly not drug related.
+Discontinuation of treatment may not prevent a rash from becoming life threatening or permanently disabling or disfiguring [see Warnings and Precautions (5.1)].

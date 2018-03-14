@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA078947"
+  ],
+  "inn": "lamotrigine",
+  "labeler": "OWP Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "69102-025-04",
+    "69102-025-20",
+    "69102-150-06"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "lamotrigine",
+      "name": "SUBVENITE"
+    }
+  ],
+  "setid": "7ad18b68-ba16-4810-9c3e-27fa970454e8",
+  "source": "dailymed"
+}
