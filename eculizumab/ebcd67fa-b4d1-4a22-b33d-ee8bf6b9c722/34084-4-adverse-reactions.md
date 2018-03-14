@@ -58,11 +58,12 @@ aHUS
 
 The safety of Soliris therapy in patients with aHUS was evaluated in four prospective, single-arm studies, three in adult and adolescent patients (Studies C08-002A/B, C08-003A/B, and C10-004), one in pediatric and adolescent patients (Study C10-003), and one retrospective study (Study C09-001r).
 
-The data described below were derived from 78 adult and adolescent patients with Studies C08-002A/B, C08-003A/B and C10-004All patients received the recommended dosage of Soliris.
+The data described below were derived from 78 adult and adolescent patients with Studies C08-002A/B, C08-003A/B and C10-004.
+All patients received the recommended dosage of Soliris.
 Median exposure was 67 weeks (range: 2-145 weeks).
 Table 5 summarizes all adverse events reported in at least 10% of patients in Studies C08-002A/B, C08-003A/B and C10-004 combined.
 
-Table 5: Per Patient Incidence of Adverse Events in 10% or More Adult and Adolescent Patients Enrolled in Studies C08-002A/B, C08-003A/B and C10-004Separately and in Total
+Table 5: Per Patient Incidence of Adverse Events in 10% or More Adult and Adolescent Patients Enrolled in Studies C08-002A/B, C08-003A/B and C10-004 Separately and in Total
 
 |  | C08-002A/B (n=17) | C08-003A/B (n=20) | C10-004 (n=41) | Total (n=78) |
 | --- | --- | --- | --- | --- |
@@ -185,7 +186,7 @@ Table 8 displays the most common adverse reactions from gMG Study 1 that occurre
 
 Table 8: Adverse Reactions Reported in 5% or More of Soliris-Treated Patients in gMG Study 1 and at a Greater Frequency than in Placebo-Treated Patients
 
-| Adverse Reaction | Soliris (N=62) n (%) | Placebo (N=63) n (%) |
+|  | Soliris (N=62) n (%) | Placebo (N=63) n (%) |
 | --- | --- | --- |
 | Gastrointestinal Disorders |  |  |
 | Abdominal pain | 5 (8) | 3 (5) |

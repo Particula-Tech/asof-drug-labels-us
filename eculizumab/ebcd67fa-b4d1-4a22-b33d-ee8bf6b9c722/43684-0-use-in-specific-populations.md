@@ -2,24 +2,33 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Exposure Registry
+Risk Summary
+
+Limited data on outcomes of pregnancies that have occurred following Soliris use in pregnant women have not identified a concern for specific adverse developmental outcomes (see Data).
+There are risks to the mother and fetus associated with untreated paroxysmal nocturnal hemoglobinuria (PNH) and atypical hemolytic uremic syndrome (aHUS) in pregnancy (see Clinical Considerations).
+Animal studies using a mouse analogue of the Soliris molecule (murine anti-C5 antibody) showed increased rates of developmental abnormalities and an increased rate of dead and moribund offspring at doses 2-8 times the human dose (see Data).
 
 Alexion's PNH and aHUS disease registries collect pregnancy outcomes in women exposed to Soliris during pregnancy.
 To enroll or to obtain information, contact www.pnhregistry.com or www.ahusregistry.com, or call (215)-616-3558.
 In cases where gMG patients become pregnant, call (215)-616-3558.
 
-Risk Summary
+The estimated background risk of major birth defects and miscarriage for the indicated populations is unknown.All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defect and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 
-There are no available data on Soliris use in pregnant women to inform a drug-associated risk of major birth defects and miscarriage.
-Soliris, a recombinant IgG molecule (humanized anti-C5 antibody), is expected to cross the placenta.
-Animal studies using a mouse analogue of the Soliris molecule (murine anti-C5 antibody) showed increased rates of developmental abnormalities and an increased rate of dead and moribund offspring at doses 2-8 times the human dose.
-Advise pregnant women of the potential risk to a fetus.
+Clinical Considerations
 
-Adverse outcomes in pregnancy occur regardless of the health of the mother or the use of medications.
-The estimated background risk of major birth defects and miscarriage for the indicated populations is unknown.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+Disease-associated maternal and/or fetal/neonatal risk
+
+PNH in pregnancy is associated with adverse maternal outcomes, including worsening cytopenias, thrombotic events, infections, bleeding, miscarriages and increased maternal mortality, and adverse fetal outcomes, including fetal death and premature delivery.
+
+aHUS in pregnancy is associated with adverse maternal outcomes, including pre-eclampsia and preterm delivery, and adverse fetal/neonatal outcomes, including intrauterine growth restriction (IUGR), fetal death and low birth weight.
 
 Data
+
+Human Data
+
+A pooled analysis of prospectively (50.3%) and retrospectively (49.7%) collected data in more than 300 pregnant women with live births following exposure to Soliris have not suggested safety concerns.
+However, these data cannot definitively exclude any drug-associated risk during pregnancy, because of the limited sample size.
 
 Animal Data
 
@@ -33,10 +42,10 @@ Surviving offspring had normal development and reproductive function.
 
 Risk Summary
 
-There is no information regarding the presence of eculizumab in human milk, the effects on the breastfed infant, or the effects on milk production.
-IgG is excreted in human milk, so it is expected that eculizumab will be present in human milk.
-However, published data suggest that antibodies in human milk do not enter the neonatal and infant circulation in substantial amounts.
-The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for Soliris and any potential adverse effects on the breastfed child from Soliris or from the underlying maternal condition.
+Although limited published data does not report detectable levels of eculizumab in human milk, maternal IgG is known to be present in human milk.
+Available information is insufficient to inform the effect of eculizumab on the breastfed infant.
+There are no data on the effects of eculizumab on milk production.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for Soliris and any potential adverse effects on the breastfed child from eculizumab or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 

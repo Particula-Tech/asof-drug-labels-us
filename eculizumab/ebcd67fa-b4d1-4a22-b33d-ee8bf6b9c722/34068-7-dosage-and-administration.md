@@ -1,12 +1,14 @@
 # 2 DOSAGE AND ADMINISTRATION
 
+## 2.1 Important Dosing Considerations
+
 Healthcare professionals who prescribe Soliris must enroll in the Soliris REMS [see Warnings and Precautions (5.2)].
 
-Vaccinate patients according to current ACIP guidelines to reduce the risk of serious infection [see Warnings and Precautions (5.1) and (5.2)].
+Vaccinate patients according to current ACIP guidelines to reduce the risk of serious infection [see Warnings and Precautions (5.1 and 5.2)].
 
 Only administer as an intravenous infusion.
 
-## 2.1 Recommended Dosage Regimen – PNH
+## 2.2 Recommended Dosage Regimen – PNH
 
 For patients 18 years of age and older, Soliris therapy consists of:
 
@@ -16,7 +18,7 @@ For patients 18 years of age and older, Soliris therapy consists of:
 
 Administer Soliris at the recommended dosage regimen time points, or within two days of these time points [see Warnings and Precautions (5.4)].
 
-## 2.2 Recommended Dosage Regimen – aHUS
+## 2.3 Recommended Dosage Regimen – aHUS
 
 For patients 18 years of age and older, Soliris therapy consists of:
 
@@ -38,7 +40,7 @@ Table 1: Dosing Recommendations in Patients Less Than 18 Years of Age
 
 Administer Soliris at the recommended dosage regimen time points, or within two days of these time points.
 
-## 2.3 Recommended Dosage Regimen – gMG
+## 2.4 Recommended Dosage Regimen – gMG
 
 For patients with generalized Myasthenia Gravis, Soliris therapy consists of:
 
@@ -48,7 +50,7 @@ For patients with generalized Myasthenia Gravis, Soliris therapy consists of:
 
 Administer Soliris at the recommended dosage regimen time points, or within two days of these time points.
 
-## 2.4 Dose Adjustment in Case of Plasmapheresis, Plasma Exchange, or Fresh Frozen Plasma Infusion
+## 2.5 Dose Adjustment in Case of Plasmapheresis, Plasma Exchange, or Fresh Frozen Plasma Infusion
 
 For adult and pediatric patients with aHUS and adult patients with gMG, supplemental dosing of Soliris is required in the setting of concomitant plasmapheresis or plasma exchange, or fresh frozen plasma infusion (PE/PI) (Table 2).
 
@@ -60,7 +62,7 @@ Table 2: Supplemental Dose of Soliris after PE/PI
 | ≥600 mg | 600 mg per each plasmapheresis or plasma exchange session |  |  |
 | Fresh frozen plasma infusion | ≥300 mg | 300 mg per infusion of fresh frozen plasma | 60 minutes prior to each infusion of fresh frozen plasma |
 
-## 2.5 Preparation
+## 2.6 Preparation
 
 Dilute Soliris to a final admixture concentration of 5 mg/mL using the following steps:
 
@@ -86,7 +88,7 @@ Prior to administration, the admixture should be allowed to adjust to room tempe
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 
-## 2.6 Administration
+## 2.7 Administration
 
 Do Not Administer As An Intravenous Push or Bolus Injection
 

@@ -67,7 +67,7 @@ However, the majority of patients received concomitant anticoagulants; the effec
 Five single-arm studies [four prospective: C08-002A/B (NCT00844545 and NCT00844844), C08-003A/B (NCT00838513 and NCT00844428), C10-003 (NCT01193348), and C10-004 (NCT01194973); and one retrospective: C09-001r (NCT01770951)] evaluated the safety and efficacy of Soliris for the treatment of aHUS.
 Patients with aHUS received meningococcal vaccination prior to receipt of Soliris or received prophylactic treatment with antibiotics until 2 weeks after vaccination.
 In all studies, the dose of Soliris in adult and adolescent patients was 900 mg every 7 ± 2 days for 4 weeks, followed by 1200 mg 7 ± 2 days later, then 1200 mg every 14 ± 2 days thereafter.
-The dosage regimen for pediatric patients weighing less than 40 kg enrolled in Study C09-001r and Study C10-003 was based on body weight [see Dosage and Administration (2.2)].
+The dosage regimen for pediatric patients weighing less than 40 kg enrolled in Study C09-001r and Study C10-003 was based on body weight [see Dosage and Administration (2.3)].
 Efficacy evaluations were based on thrombotic microangiopathy (TMA) endpoints.
 
 Endpoints related to TMA included the following:
@@ -121,8 +121,7 @@ Table 12: Efficacy Results for Study C08-002A/B
 | Median Duration of complete TMA response, weeks (range) | 38 (25, 56) | 99 (25, 139) |
 | eGFR improvement ≥15 mL/min/1.73 m2, n (%) | 9 (53) | 10 (59) |
 | Median duration of eGFR improvement, days (range) | 251 (70, 392) | ND |
-| Hematologic normalization, n (%) | 13 (76) 37 (25, 62) | 15 (88) 99 (25, 145) |
-| Median Duration of hematologic normalization, weeks (range) |  |  |
+| Hematologic normalization, n (%) Median Duration of hematologic normalization, weeks (range) | 13 (76) 37 (25, 62) | 15 (88) 99 (25, 145) |
 | TMA event-free status, n (%) | 15 (88) | 15 (88) |
 | Daily TMA intervention rate, median (range) |  |  |
 | Before eculizumab | 0.82 (0.04, 1.52) | 0.82 (0.04, 1.52) |
@@ -175,8 +174,7 @@ Table 14: Efficacy Results for Study C08-003A/B
 | Daily TMA intervention rate, median (range) |  |  |
 | Before eculizumab | 0.23 (0.05, 1.07) | 0.23 (0.05, 1.07) |
 | On eculizumab treatment | 0 | 0 (0, 0.01) |
-| Hematologic normalizationIn Study C08-003A/B, 85% of patients had normal platelet counts and 80% of patients had normal serum LDH levels at baseline, so hematologic normalization in this population reflects maintenance of normal parameters in the absence of PE/PI., n (%) |  |  |
-| Median duration of hematologic normalization, weeks (range)Calculated at each post-dose day of measurement (excluding Days 1 to 4) using a repeated measurement ANOVA model. | 18 (90) 38 (22, 52) | 18 (90) 114 (33, 125) |
+| Hematologic normalizationIn Study C08-003A/B, 85% of patients had normal platelet counts and 80% of patients had normal serum LDH levels at baseline, so hematologic normalization in this population reflects maintenance of normal parameters in the absence of PE/PI., n (%) Median duration of hematologic normalization, weeks (range)Calculated at each post-dose day of measurement (excluding Days 1 to 4) using a repeated measurement ANOVA model. | 18 (90) 38 (22, 52) | 18 (90) 114 (33, 125) |
 
 Retrospective Study in Patients with aHUS (C09-001r)
 
@@ -310,7 +308,7 @@ Baseline characteristics were similar between treatment groups, including age at
 Over 95% of patients in each group were receiving acetylcholinesterase (AchE) inhibitors, and 98% were receiving immunosuppressant therapies (ISTs).
 Approximately 50% of each group had been previously treated with at least 3 ISTs.
 
-Soliris was administered according to the recommended dosage regimen [see Dosage and Administration (2.3)].
+Soliris was administered according to the recommended dosage regimen [see Dosage and Administration (2.4)].
 
 The primary efficacy endpoint for gMG Study 1 was a comparison of the change from baseline between treatment groups in the Myasthenia Gravis-Specific Activities of Daily Living scale (MG-ADL) total score at Week 26.
 The MG-ADL is a categorical scale that assesses the impact on daily function of 8 signs or symptoms that are typically affected in gMG.
