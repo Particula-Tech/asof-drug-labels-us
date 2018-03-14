@@ -1,0 +1,36 @@
+{
+  "application_numbers": [
+    "NDA208379"
+  ],
+  "inn": "pitavastatin",
+  "labeler": "Cadila Healthcare Limited",
+  "package_ndcs": [
+    "70771-1116-0",
+    "70771-1116-1",
+    "70771-1116-3",
+    "70771-1116-4",
+    "70771-1116-5",
+    "70771-1116-9",
+    "70771-1117-0",
+    "70771-1117-1",
+    "70771-1117-3",
+    "70771-1117-4",
+    "70771-1117-5",
+    "70771-1117-9",
+    "70771-1118-0",
+    "70771-1118-1",
+    "70771-1118-3",
+    "70771-1118-4",
+    "70771-1118-5",
+    "70771-1118-9"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "pitavastatin magnesium",
+      "name": "ZYPITAMAG"
+    }
+  ],
+  "setid": "e9f0fe3a-0462-4c24-8f22-3c89afe8fcea",
+  "source": "dailymed"
+}
