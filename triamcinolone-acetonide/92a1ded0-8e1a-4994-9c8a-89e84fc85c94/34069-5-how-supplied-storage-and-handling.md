@@ -18,3 +18,9 @@ Fougera PHARMACEUTICALS INC.
 E. FOUGERA & CO. A division of Fougera Pharmaceuticals Inc. Melville New York 11747
 
 I20215G/IF20215G R09/11 #227
+
+46165001A
+
+R06/15
+
+#65
