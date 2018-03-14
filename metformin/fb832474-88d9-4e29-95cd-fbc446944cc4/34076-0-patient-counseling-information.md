@@ -20,11 +20,11 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
 
 Manufactured for: Salix Pharmaceuticals, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
-U.S. Patent Numbers: 6,488,962; 6,723,340; 7,780,987; and 8,323,692
+U.S. Patent Numbers: 6,488,962; 6,723,340; 7,780,987 and 8,323,692
 
 Glumetza is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
 
-©Valeant Pharmaceuticals North America LLC
+© Valeant Pharmaceuticals North America LLC
 
-1. 500 mg: 9599000 70012758
-2. 1000 mg: 9519103 20001996
+- 500 mg: Update p/n
+- 1000 mg: Update p/n

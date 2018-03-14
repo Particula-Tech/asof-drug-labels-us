@@ -18,7 +18,7 @@ In patients taking GLUMETZA whose eGFR later falls below 45 mL/min/1.73 m2, asse
 
 Discontinue GLUMETZA if the patient’s eGFR later falls below 30 mL/minute/1.73 m2 [see Contraindications (4) and Warnings and Precautions (5.1)].
 
-## 2.3 Switching from Immediate-Release Metformin to Glumetza
+## 2.3 Switching from Immediate-Release Metformin to GLUMETZA
 
 If switching from immediate-release metformin to GLUMETZA, initiate GLUMETZA once daily at the same total dose, up to 2000 mg once daily.
 

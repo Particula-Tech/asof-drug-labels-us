@@ -23,19 +23,19 @@ Table 4: Mean±SE Changes from Baseline to Final Visit in HbA1c, Fasting Plasma 
 | N | 169 | 175 | 159 | 170 |
 | Baseline | 8.2±0.3 | 8.5±0.2 | 8.3±0.2 | 8.7±0.3 |
 | Mean Change±SE at Final Visit | -0.7±0.1 | -0.7±0.1 | -1.1±0.1 | -0.7±0.1 |
-| Mean Difference± SE from Metformin IR | 0±0.1 | 0±0.1 | -0.4±0.1 | N/A |
+| Mean Difference±SE from Metformin IR | 0±0.1 | 0±0.1 | -0.4±0.1 | N/A |
 | 98.4% CI for Difference | (-0.3, 0.3) | (-0.3, 0.3) | (-0.7, -0.1) |  |
 | Fasting Plasma Glucose (mg/dL) |  |  |  |  |
 | N | 175 | 179 | 170 | 172 |
 | Baseline | 190±10 | 192.3±10 | 184±10 | 197±11 |
 | Mean Change±SE at Final Visit | -39±4 | -32±4 | -42±5 | -32±5 |
-| Mean Difference± SE from Metformin IR | -6±4 | 0±4 | -10±4 | N/A |
+| Mean Difference±SE from Metformin IR | -6±4 | 0±4 | -10±4 | N/A |
 | 95% CI for Difference | (-15, 2) | (-8, 9) | (-19, -1) |  |
 | Body Weight (kg) |  |  |  |  |
 | N | 176 | 180 | 171 | 173 |
 | Baseline | 88.2±3.7 | 90.5±3.7 | 87.7±3.7 | 88.7±3.9 |
-| Mean Change± SE at Final Visit | -0.9±0.4 | -0.7±0.4 | -1.1±0.4 | -0.9±0.4 |
-| Mean Difference± SE from Metformin IR | -0.1±0.4 | 0.2±0.4 | -0.3±0.4 | N/A |
+| Mean Change±SE at Final Visit | -0.9±0.4 | -0.7±0.4 | -1.1±0.4 | -0.9±0.4 |
+| Mean Difference±SE from Metformin IR | -0.1±0.4 | 0.2±0.4 | -0.3±0.4 | N/A |
 | 95% CI for Difference | (-0.9, 0.7) | (-0.6, 0.9) | (-1.0, 0.5) |  |
 
 A Double-Blind, Randomized, Parallel-Group Study to Compare the Safety, Efficacy, and Tolerability of Metformin Extended-Release (M-ER) Tablets in Combination with a Sulfonylurea (SU) and SU Alone in the Management of Patients with Type 2 Diabetes Mellitus
@@ -56,14 +56,14 @@ Table 5: Mean±SE Changes from Baseline to Final Visit in HbA1c, Fasting Plasma 
 | N | 136 | 136 | 144 | 141 |
 | Baseline | 7.9±0.1 | 7.8±0.1 | 7.7±0.1 | 8.1±0.1 |
 | Mean Change±SE at Final Visit | -0.7±0.1 | -0.8±0.1 | -0.7±0.1 | -0.1±0.1 |
-| Mean Difference± SE from Glyburide Alone | -0.8±0.1 | -0.9±0.1 | -0.8±0.1 | N/A |
+| Mean Difference±SE from Glyburide Alone | -0.8±0.1 | -0.9±0.1 | -0.8±0.1 | N/A |
 | 95% CI for Difference | (-1.0, -0.6) | (-1.1, -0.7) | (-1.0, -0.6) |  |
 | p-Value for Pairwise Comparison | <0.001 | <0.001 | <0.001 |  |
 | Fasting Plasma Glucose (mg/dL) |  |  |  |  |
 | N | 143 | 141 | 145 | 144 |
 | Baseline | 163±5 | 163±5 | 159±5 | 164±5 |
-| Mean Change± SE at Final Visit | -14±4 | -16±4 | -9±4 | 16±4 |
-| Mean Difference± SE from Glyburide Alone | -29.2±4.9 | -31.2±40.9 | -24.9±4.9 | N/A |
+| Mean Change±SE at Final Visit | -14±4 | -16±4 | -9±4 | 16±4 |
+| Mean Difference±SE from Glyburide Alone | -29.2±4.9 | -31.2±40.9 | -24.9±4.9 | N/A |
 | 95% CI for Difference | (-39, -20) | (-41, -22) | (-35, -15) |  |
 | p-Value for Pairwise Comparison | <0.001 | <0.001 | <0.001 |  |
 | Body Weight (kg) |  |  |  |  |

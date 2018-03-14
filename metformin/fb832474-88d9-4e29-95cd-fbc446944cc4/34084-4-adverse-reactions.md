@@ -15,7 +15,7 @@ In the 24-week monotherapy trial comparing GLUMETZA to immediate-release metform
 In the add-on to sulfonylurea study, patients receiving background glyburide therapy were randomized to receive add-on treatment of either one of three different regimens of GLUMETZA or placebo.
 In total, 431 patients received GLUMETZA and glyburide and 144 patients received placebo and glyburide.
 A serious adverse reaction was reported in 2.1% (9/431) of the GLUMETZA and glyburide-treated patients compared to 1.4% (2/144) of the placebo and glyburide-treated patients.
-When the data from the monotherapy and add-on to sulfonylurea clinical trials were combined, the most frequently (incidence ≥0.5 %) reported serious adverse reactions classified by system organ class were gastrointestinal disorders (1.0% of GLUMETZA-treated patients compared to 0% of patients not treated with GLUMETZA) and cardiac disorders (0.4% of GLUMETZA-treated patients compared to 0.5% of patients not treated with GLUMETZA).
+When the data from the monotherapy and add-on to sulfonylurea clinical trials were combined, the most frequently (incidence ≥0.5%) reported serious adverse reactions classified by system organ class were gastrointestinal disorders (1.0% of GLUMETZA-treated patients compared to 0% of patients not treated with GLUMETZA) and cardiac disorders (0.4% of GLUMETZA-treated patients compared to 0.5% of patients not treated with GLUMETZA).
 Only 2 serious adverse reactions (unstable angina [n=2] and pancreatitis [n=2]) were reported in more than one GLUMETZA-treated patient.
 
 Adverse reactions reported in greater than 5% of patients treated with GLUMETZA that were more common in the combined GLUMETZA and glyburide group than in the placebo and glyburide group are shown in Table 1.
