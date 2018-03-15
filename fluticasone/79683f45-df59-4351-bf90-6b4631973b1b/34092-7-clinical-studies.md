@@ -16,7 +16,7 @@ The trials were dose-ranging trials of ARMONAIR RESPICLICK and not designed to p
 The metered doses for fluticasone multidose dry powder inhaler (16, 28, 59, 118, 225, 434 mcg) used in Trial 201 and Trial 202 (see Figure 1) are slightly different from the metered doses for the comparator products (fluticasone inhalation powder) and the Phase 3 investigational products which are the basis of the proposed commercial labeled claim (55, 113, 232 mcg for fluticasone).
 The changes in doses between Phase 2 and 3 resulted from optimization of the manufacturing process.
 
-1. Figure 1 Baseline Adjusted Least Square Mean Change in Trough Morning FEV1 (L) over 12 weeks (FAS)a
+Figure 1 Baseline Adjusted Least Square Mean Change in Trough Morning FEV1 (L) over 12 weeks (FAS)a
 
 FAS = full analysis set; aTrials were not designed to provide comparative effectiveness data and should not be interpreted as superiority/inferiority to fluticasone propionate inhalation powder.
 
@@ -40,7 +40,7 @@ Patients receiving ARMONAIR RESPICLICK 55 mcg and ARMONAIR RESPICLICK 113 mcg ha
 Estimated mean differences between ARMONAIR RESPICLICK 55 mcg and ARMONAIR RESPICLICK 113 mcg compared to placebo are 0.119 L (95% CI: 0.025, 0.212) and 0.151 L (95% CI: 0.057, 0.244), respectively.
 In addition, the mean FEV1 results at each visit are displayed in Figure 2.
 
-1. Figure 2: Mean Change from Baseline in Trough FEV1 at Each Visit by Treatment Group Trial 1 (FAS)
+Figure 2: Mean Change from Baseline in Trough FEV1 at Each Visit by Treatment Group Trial 1 (FAS)
 
 FAS = full analysis set; FEV1 = forced expiratory volume in 1 second
 
@@ -52,7 +52,7 @@ In Trial 1, the responder rate for patients receiving ARMONAIR RESPICLICK 55 mcg
 Improvements in FEV1 for both ARMONAIR RESPICLICK dose groups were sustained over the 12 hours of testing at week 12 (Figure 3).
 No diminution in the 12 hour bronchodilator effect was observed with ARMONAIR RESPICLICK as assessed by FEV1 following 12 weeks of therapy.
 
-1. Figure 3: Serial Spirometry: Mean Change from Baseline in FEV1 (L) at Week 12 by Time Point and Treatment Group Trial 1 (FAS; Serial Spirometry Subset)
+Figure 3: Serial Spirometry: Mean Change from Baseline in FEV1 (L) at Week 12 by Time Point and Treatment Group Trial 1 (FAS; Serial Spirometry Subset)
 
 FAS = full analysis set; FEV1 = forced expiratory volume in 1 second
 
@@ -66,7 +66,7 @@ Patients receiving ARMONAIR RESPICLICK 113 mcg and ARMONAIR RESPICLICK 232 mcg h
 Estimated mean differences between ARMONAIR RESPICLICK 113 mcg and ARMONAIR RESPICLICK 232 mcg compared to placebo are 0.123 L (95% CI: 0.038, 0.208) and 0.183 L (95% CI: 0.098, 0.268), respectively.
 In addition, the mean FEV1 results at each visit are displayed in Figure 4.
 
-1. Figure 4: Mean (Change from Baseline in Trough FEV1 at Each Visit by Treatment Group Trial 2 (FAS)
+Figure 4: Mean (Change from Baseline in Trough FEV1 at Each Visit by Treatment Group Trial 2 (FAS)
 
 FAS = full analysis set; FEV1 = forced expiratory volume in 1 second
 
@@ -78,6 +78,6 @@ The responder rate for patients receiving ARMONAIR RESPICLICK 113 mcg and ARMONA
 Improvements in FEV1 for both ARMONAIR RESPICLICK dose groups were sustained over the 12 hours of testing at week 12 (Figure 5).
 No diminution in the 12 hour bronchodilator effect was observed with ARMONAIR RESPICLICK as assessed by FEV1 following 12 weeks of therapy.
 
-1. Figure 5: Serial Spirometry: Mean Change from Baseline in FEV1 (L) at Week 12 by Time Point and Treatment Group Trial 2 (FAS; Serial Spirometry Subset)
+Figure 5: Serial Spirometry: Mean Change from Baseline in FEV1 (L) at Week 12 by Time Point and Treatment Group Trial 2 (FAS; Serial Spirometry Subset)
 
 FAS = full analysis set; FEV1 = forced expiratory volume in 1 second

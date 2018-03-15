@@ -94,7 +94,7 @@ If bronchospasm occurs following dosing with ARMONAIR RESPICLICK, it should be t
 
 The use of strong cytochrome P450 3A4 (CYP3A4) inhibitors (e.g., ritonavir, atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, saquinavir, ketoconazole, telithromycin) with ARMONAIR RESPICLICK is not recommended because increased systemic corticosteroid adverse effects may occur [see Drug Interactions (7.1), Clinical Pharmacology (12.3)].
 
-## 5.12 Eosinophilic Conditions and ChurgStrauss Syndrome
+## 5.12 Eosinophilic Conditions and Churg-Strauss Syndrome
 
 In rare cases, patients on inhaled fluticasone propionate may present with systemic eosinophilic conditions.
 Some of these patients have clinical features of vasculitis consistent with Churg‑Strauss syndrome, a condition that is often treated with systemic corticosteroid therapy.

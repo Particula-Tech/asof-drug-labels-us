@@ -53,14 +53,14 @@ Elimination
 
 Terminal half-life estimate of fluticasone propionate following oral inhalation administration of ARMONAIR RESPICLICK was approximately 11.2 hours.
 
-1. Metabolism
+Metabolism
 
 The total clearance of fluticasone propionate is high (average, 1,093 mL/min), with renal clearance accounting for less than 0.02% of the total.
 The only circulating metabolite detected in man is the 17β carboxylic acid derivative of fluticasone propionate, which is formed through the CYP3A4 pathway.
 This metabolite has less affinity (approximately 1/2,000) than the parent drug for the glucocorticoid receptor of human lung cytosol in vitro and negligible pharmacological activity in animal studies.
 Other metabolites detected in vitro using cultured human hepatoma cells have not been detected in man.
 
-1. Excretion
+Excretion
 
 Less than 5% of a radiolabeled oral dose of fluticasone propionate was excreted in the urine as metabolites, with the remainder excreted in the feces as parent drug and metabolites.
 

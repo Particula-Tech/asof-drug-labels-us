@@ -32,9 +32,9 @@ Do not use ARMONAIR RESPICLICK with a spacer or volume holding chamber.
 
 Cleaning:
 
-- •Keep the inhaler in a cool dry place.
+- Keep the inhaler in a cool dry place.
   Never wash or put any part of the inhaler in water.
-- •Routine maintenance is not required.
+- Routine maintenance is not required.
   If the mouthpiece needs cleaning, gently wipe the mouthpiece with a dry cloth or tissue as needed.
 
 Dose Counter: The ARMONAIR RESPICLICK inhaler has a dose counter.

@@ -2,25 +2,23 @@
 
 Systemic and local corticosteroid use may result in the following:
 
-- 
-  - 
-    - •Candida albicans infection [see Warnings and Precautions (5.1)]
-    - •Immunosuppression [see Warnings and Precautions (5.3)]
-    - •Hypercorticism and adrenal suppression [see Warnings and Precautions (5.5)]
-    - •Reduction in bone mineral density [see Warnings and Precautions (5.7)]
-    - •Growth effects in pediatrics [see Warnings and Precautions (5.8)]
-    - •Glaucoma and cataracts [see Warnings and Precautions (5.9)]
+- Candida albicans infection [see Warnings and Precautions (5.1)]
+- Immunosuppression [see Warnings and Precautions (5.3)]
+- Hypercorticism and adrenal suppression [see Warnings and Precautions (5.5)]
+- Reduction in bone mineral density [see Warnings and Precautions (5.7)]
+- Growth effects in pediatrics [see Warnings and Precautions (5.8)]
+- Glaucoma and cataracts [see Warnings and Precautions (5.9)]
 
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The incidence of adverse reactions associated with ARMONAIR RESPICLICK in Table 1is based upon two placebo-controlled, 12-week, clinical studies (Study 1 and 2).
+The incidence of adverse reactions associated with ARMONAIR RESPICLICK in Table 1 is based upon two placebo-controlled, 12-week, clinical studies (Study 1 and 2).
 A total of 822 adolescent and adult patients previously treated with inhaled corticosteroids were treated with twice daily ARMONAIR RESPICLICK 55 mcg, 113 mcg, 232 mcg or placebo.
 Sixty percent of patients were female and 80% of patients were white.
 The average duration of exposure was 82 days in ARMONAIR RESPICLICK groups compared with 75 days in the placebo group.
 
-1. Table 1: Adverse Reactions with ≥ 3% Incidence with ARMONAIR RESPICLICK, and More Common than Placebo in Subjects with Asthma
+Table 1: Adverse Reactions with ≥ 3% Incidence with ARMONAIR RESPICLICK, and More Common than Placebo in Subjects with Asthma
 
 | Adverse Reaction | ARMONAIR RESPICLICK 55 mcg (n=129) % | ARMONAIR RESPICLICK 113 mcg (n=274) % | ARMONAIR RESPICLICK 232 mcg (n=146) % | Placebo (n=273) % |
 | --- | --- | --- | --- | --- |
@@ -52,7 +50,7 @@ Ear, Nose, and Throat: Aphonia, facial and oropharyngeal edema, and throat soren
 
 Endocrine and Metabolic: Cushingoid features, growth velocity reduction in children/adolescents, hyperglycemia, and osteoporosis.
 
-Eye: Cataracts.
+Eye: Cataracts, blurred vision, and central serous chorioretinopathy.
 
 Immune System Disorders: Immediate and delayed hypersensitivity reactions, including anaphylaxis, rash, angioedema, and bronchospasm, have been reported.
 Anaphylactic reactions in patients with severe milk protein allergy have been reported.

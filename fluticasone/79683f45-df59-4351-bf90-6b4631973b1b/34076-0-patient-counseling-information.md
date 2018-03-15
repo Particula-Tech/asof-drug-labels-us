@@ -90,12 +90,13 @@ Marketed by: Teva Respiratory, LLC Frazer, PA 19355
 
 Manufactured by: IVAX Pharmaceuticals Ireland Waterford, Ireland
 
-Copyright ©2017 Teva Respiratory, LLC
+Copyright ©2018 Teva Respiratory, LLC
 
 All rights reserved.
 
-ARMONAIR™ and RESPICLICK®are trademarks owned by Teva Respiratory, LLC.
+United States Patent Nos. 6701917, 6718972, 6748947, 6871646, 7540282, 8006690, 8651103, 8714149, 8978966, 9216260, 9463288, 9616024, 9731087.
 
-United States Patent Nos. 6446627, 6701917, 6718972, 6748947, 6871646, 7540282, 8006690, 8651103, 8714149, 8978966, 9216260, 9463288
+ARMON-002
 
-ARMON-001
+Rev.
+March 2018
