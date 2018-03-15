@@ -54,7 +54,7 @@ The target dose was 60 mg/kg/day.
 Neurocognitive effects were measured by the Leiter-R Attention and Memory (AM) Battery, which measures various aspects of a child's memory and attention.
 Although no substantive differences were observed between the placebo and drug treated groups in the median change from baseline in this battery, the study was not adequate to assess formal statistical non-inferiority of the drug and placebo.
 The Achenbach Child Behavior Checklist (CBCL/6-18), a standardized validated tool used to assess a child's competencies and behavioral/emotional problems, was also assessed in this study.
-An analysis of the CBCL/6-18 indicated on average a worsening in levetiracetam-treated patients in aggressive behavior, one of the eight syndrome scores.
+An analysis of the CBCL/6-18 indicated on average a worsening in levetiracetam-treated patients in aggressive behavior, one of the eight syndrome scores [see Warnings and Precautions (5.1)].
 
 Myoclonic Seizures
 

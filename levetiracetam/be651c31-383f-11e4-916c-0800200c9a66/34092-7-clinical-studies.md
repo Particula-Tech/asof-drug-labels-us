@@ -45,7 +45,7 @@ The primary measure of effectiveness was a between group comparison of the perce
 Secondary outcome variables included the responder rate (incidence of patients with ≥ 50% reduction from baseline in partial onset seizure frequency).
 The results of the analysis of Period A are displayed in Table 10.
 
-Table 10: Reduction In Mean Over Placebo In Weekly Frequency Of Partial Onset Seizures In Study 2 Period A
+Table 10: Reduction In Mean Over Placebo In Weekly Frequency Of Partial Onset Seizures In Study 2: Period A
 
 |  | Placebo (N=111) | Levetiracetam 1000 mg/day (N=106) | Levetiracetam 2000 mg/day (N=105) |
 | --- | --- | --- | --- |

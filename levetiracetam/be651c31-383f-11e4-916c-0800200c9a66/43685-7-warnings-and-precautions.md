@@ -3,6 +3,7 @@
 ## 5.1 Behavioral Abnormalities and Psychotic Symptoms
 
 SPRITAM may cause behavioral abnormalities and psychotic symptoms.
+Patients treated with SPRITAM should be monitored for psychiatric signs and symptoms.
 
 Behavioral abnormalities
 
@@ -119,9 +120,9 @@ Antiepileptic drugs, including SPRITAM, should be withdrawn gradually to minimiz
 ## 5.8 Hematologic Abnormalities
 
 SPRITAM can cause hematologic abnormalities.
-Hematologic abnormalities occurred in clinical trials with levetiracetam and included decreases in red blood cell (RBC) counts, hemoglobin and hematocrit, and increases in eosinophil counts.
-Decreased white blood cell (WBC) and neutrophil counts also occurred in clinical trials.
-Cases of agranulocytosis have been reported in the postmarketing setting.
+Hematologic abnormalities occurred in clinical trials with levetiracetam and included decreases in white blood cell (WBC), neutrophil, and red blood cell (RBC) counts; decreases in hemoglobin and hematocrit; and increases in eosinophil counts.
+Cases of agranulocytosis, pancytopenia, and thrombocytopenia have been reported in the postmarketing setting.
+A complete blood count is recommended in patients experiencing significant weakness, pyrexia, recurrent infections, or coagulation disorders.
 
 Partial Onset Seizures
 

@@ -2,14 +2,14 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
+Psychiatric Reactions and Changes in Behavior
+
+Advise patients that SPRITAM may cause changes in behavior (e.g. aggression, agitation, anger, anxiety, apathy, depression, hostility, and irritability) and psychotic symptoms [see Warnings and Precautions (5.1)].
+
 Suicidal Behavior and Ideation
 
 Counsel patients, their caregivers, and/or families that antiepileptic drugs (AEDs), including SPRITAM, may increase the risk of suicidal thoughts and behavior and advise patients to be alert for the emergence or worsening of symptoms of depression; unusual changes in mood or behavior; or suicidal thoughts, behavior, or thoughts about self-harm.
-Advise patients, their caregivers, and/or families to immediately report behaviors of concern to a healthcare provider [see Warnings and Precautions (5.1)]
-
-Psychiatric Reactions and Changes in Behavior
-
-Advise patients that SPRITAM may cause changes in behavior (e.g. aggression, agitation, anger, anxiety, apathy, depression, hostility, and irritability) and psychotic symptoms have occurred [see Warnings and Precautions (5.2)]
+Advise patients, their caregivers, and/or families to immediately report behaviors of concern to a healthcare provider [see Warnings and Precautions (5.2)].
 
 Effects on Driving or Operating Machinery
 
@@ -46,18 +46,18 @@ No attempts should be made to administer partial quantities of the dispersed tab
 
 Instruct patients to peel the foil from the blister by bending up and lifting the peel tab around the blister seal.
 
-SPRITAM is manufactured by:
+Manufactured by Aprecia Pharmaceuticals, LLC, Blue Ash, OH 45242 USA
 
-Aprecia Pharmaceuticals Company, East Windsor, NJ 08520
+Distributed by Prasco, LLC, Mason, OH 45040 USA
 
-SPRITAM® is a registered trademark of Aprecia Pharmaceuticals Company.
+SPRITAM® is a registered trademark of Aprecia Pharmaceuticals, LLC.
 
-© 2017 Aprecia Pharmaceuticals Company all rights reserved.
+© 2018 Aprecia Pharmaceuticals, LLC all rights reserved.
 
-Printed in the U.S.A.
+Printed in the USA
 
 Patent(s): www.aprecia.com/patents
 
-LB-PI-0001.M
+LB-PI-0001.N
 
-Revised: 06/2017
+Revised: 02/2018
