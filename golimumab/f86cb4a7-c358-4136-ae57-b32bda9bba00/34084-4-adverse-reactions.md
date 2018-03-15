@@ -9,7 +9,7 @@ These 5 trials included 639 control-treated patients and 1659 SIMPONI-treated pa
 The safety data in 1233 SIMPONI-treated patients with ulcerative colitis from 3 pooled, randomized, double-blind, controlled Phase 2/3 trials are also described below (Trials UC-1, UC-2, and UC-3) [see Clinical Studies (14.4)].
 The proportion of patients who discontinued treatment due to adverse reactions in the controlled Phase 3 trials through Week 16 in RA, PsA and AS was 2% for SIMPONI-treated patients and 3% for placebo-treated patients.
 The most common adverse reactions leading to discontinuation of SIMPONI in the controlled Phase 3 trials in RA, PsA and AS through Week 16 were sepsis (0.2%), alanine aminotransferase increased (0.2%), and aspartate aminotransferase increased (0.2%).
-The most common adverse drug reactions leading to discontinuation through Week 60 of the UC trials in patients who received SIMPONI induction and 100 mg during maintenance compared with patients who received SIMPONI induction and placebo during maintenance were tuberculosis (0.3% vs 0.6%) and anemia (0.3% vs 0%), respectively.
+The most common adverse drug reactions leading to discontinuation through Week 60 of the UC trials in patients who received SIMPONI induction and 100 mg during maintenance compared with patients who received SIMPONI induction and placebo during maintenance were tuberculosis (0.3% vs. 0.6%) and anemia (0.3% vs. 0%), respectively.
 
 The most serious adverse reactions were:
 
@@ -58,24 +58,6 @@ The majority of the injection site reactions were mild and moderate and the most
 
 In controlled Phase 2 and 3 trials in RA, PsA, AS, and Phase 2/3 UC trials, no patients treated with SIMPONI developed anaphylactic reactions.
 
-Immunogenicity
-
-Antibodies to SIMPONI were detected in 57 (4%) of SIMPONI-treated patients across the Phase 3 RA, PsA, and AS trials through Week 24.
-Similar rates were observed in each of the 3 indications.
-Patients who received SIMPONI with concomitant MTX had a lower proportion of antibodies to SIMPONI than patients who received SIMPONI without MTX (approximately 2% vs. 7%, respectively).
-
-The presence of serum concentrations of golimumab can interfere with the detection of antibodies to SIMPONI leading to inconclusive results.
-In UC trials, 34 (3%), 341 (28%) and 823 (69%) of SIMPONI-treated subjects were positive, negative and inconclusive for antibodies to SIMPONI, respectively.
-Treatment with concomitant immunomodulators (AZA, 6-MP and MTX) resulted in a lower proportion of patients with antibodies to SIMPONI than patients receiving SIMPONI without immunomodulators (2% vs. 4%, respectively).
-
-Of the patients with a positive antibody response to SIMPONI in the Phase 2 and 3 trials, most were determined to have neutralizing antibodies to golimumab as measured by a cell-based functional assay.
-
-The small number of patients positive for antibodies to SIMPONI limits the ability to draw definitive conclusions regarding the relationship between antibodies to golimumab and clinical efficacy or safety measures.
-
-The data above reflect the percentage of patients whose test results were considered positive for antibodies to SIMPONI in an ELISA assay, and are highly dependent on the sensitivity and specificity of the assay.
-Additionally, the observed incidence of antibody positivity in an assay may be influenced by several factors including sample handling, timing of sample collection, concomitant medications, and underlying disease.
-For these reasons, comparison of the incidence of antibodies to SIMPONI with the incidence of antibodies to other products or results from different assays may be misleading.
-
 Other Adverse Reactions
 
 Table 1 summarizes the adverse drug reactions that occurred at a rate of at least 1% in the SIMPONI ± DMARD group and with a higher incidence than in the placebo ± DMARD group during the controlled period of the 5 pooled Phase 3 trials through Week 16 in patients with RA, PsA, and AS.
@@ -121,7 +103,41 @@ Other Clinical Trial Adverse Drug Reactions in Ulcerative Colitis Clinical Trial
 
 In the Phase 2/3 trials in UC evaluating 1233 SIMPONI-treated patients, no new adverse drug reactions were identified and the frequency of adverse drug reactions was similar to the safety profile observed in patients with RA, PsA and AS.
 
-## 6.2 Postmarketing Experience
+## 6.2 Immunogenicity
+
+As with all therapeutic proteins, there is potential for immunogenicity.
+The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay.
+Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
+For these reasons, comparison of the incidence of antibodies to golimumab in the trials described below with the incidence of antibodies in other trials or to other products may be misleading.
+
+Results from the EIA Method
+
+Using an enzyme immunoassay (EIA method), antibodies to golimumab were detected in 57 (4%) of SIMPONI-treated patients across the Phase 3 RA, PsA and AS trials through Week 24.
+Similar rates were observed in each of the 3 indications.
+Patients who received SIMPONI with concomitant MTX had a lower proportion of antibodies to golimumab than patients who received SIMPONI without MTX (approximately 2% vs. 7%, respectively).
+
+With the EIA method, the presence of serum concentrations of golimumab can interfere with the detection of antibodies to golimumab leading to inconclusive results.
+In UC trials, 34 (3%), 341 (28%) and 823 (69%) of SIMPONI-treated patients were positive, negative and inconclusive for antibodies to golimumab, respectively.
+Treatment with concomitant immunomodulators (AZA, 6-MP or MTX) resulted in a lower proportion of patients with antibodies to golimumab than patients receiving SIMPONI without immunomodulators (2% vs. 4%, respectively).
+
+Of the patients with a positive antibody response to golimumab in the Phase 2 and 3 trials, most were determined to have neutralizing antibodies to golimumab as measured by a cell-based functional assay.
+
+Results from the Drug-Tolerant EIA Method
+
+A drug-tolerant enzyme immunoassay (drug-tolerant EIA) method for detecting antibodies to golimumab was developed and validated, which eliminated the inconclusive category as reported above.
+This method is approximately 16-fold more sensitive than the original EIA method with less interference from golimumab in serum.
+
+Based on the drug tolerant EIA method, 246 (23%) of SIMPONI-treated patients across the Phase 3 RA, PsA and AS trials, antibodies to golimumab were detected in 59 (16%), 106 (28%), and 81 (24%) patients, respectively.
+Treatment with concomitant MTX resulted in a lower proportion of patients with antibodies to golimumab than in patients receiving SIMPONI without MTX in RA patients (7% vs. 35%), in PsA patients (18% vs. 38%) and in AS patients (6% vs. 29%).
+A trend of decreasing drug concentrations with increasing antibody titers was observed.
+While an overall decrease in clinical efficacy for ADA positive patients compared with ADA negative patients was not observed in patients with RA (ACR 20: 75% vs. 75%), PsA (ACR 20: 72% vs. 66%) and AS (ASAS 20: 57% vs. 65%), higher titer antibodies may be associated with diminished efficacy.
+
+In the UC trials, 254 (21%) of SIMPONI-treated patients were positive for antibodies to golimumab through week 54 while the remaining 941 (79%) patients were negative.
+Treatment with concomitant immunomodulators (AZA, 6-MP or MTX) in the UC trials resulted in a lower proportion of patients with antibodies to golimumab than in patients receiving SIMPONI without immunomodulators (12% vs. 26%).
+There is a trend of decreasing drug concentrations with increasing antibody titers.
+Although the development of antibodies to golimumab did not preclude clinical response, a trend toward decreased efficacy in ADA positive patients was observed compared to ADA negative patients in the UC trials (clinical response 38% vs. 53%).
+
+## 6.3 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of golimumab.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to SIMPONI exposure.
