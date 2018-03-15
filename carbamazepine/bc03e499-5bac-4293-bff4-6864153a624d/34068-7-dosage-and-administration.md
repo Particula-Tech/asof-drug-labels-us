@@ -29,7 +29,7 @@ If satisfactory clinical response has not been achieved, plasma levels should be
 No recommendation regarding the safety of Carbatrol® for use at doses above 35 mg/kg/24 hours can be made.
 
 Combination Therapy: Carbatrol® may be used alone or with other anticonvulsants.
-When added to existing anticonvulsant therapy, the drug should be added gradually while the other anticonvulsants are maintained or gradually decreased, except phenytoin, which may have to be increased (see PRECAUTIONS, Drug Interactions, and Pregnancy Category D).
+When added to existing anticonvulsant therapy, the drug should be added gradually while the other anticonvulsants are maintained or gradually decreased, except phenytoin, which may have to be increased (see PRECAUTIONS, Drug Interactions).
 
 Trigeminal Neuralgia (see INDICATIONS AND USAGE)
 

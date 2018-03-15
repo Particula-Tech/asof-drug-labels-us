@@ -22,6 +22,6 @@ Manufactured for: Shire US Inc. 300 Shire Way, Lexington, MA 02421
 
 To report SUSPECTED ADVERSE REACTIONS, contact Shire US Inc. at 1-800-828-2088 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch
 
-© 2015 Shire US Inc. Rev 11/2015
+© 2018 Shire US Inc. Rev 02/2018
 
 Carbatrol® is registered in the US Patent and Trade Office

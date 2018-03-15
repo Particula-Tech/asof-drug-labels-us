@@ -34,7 +34,7 @@ This urinary radioactivity was composed largely of hydroxylated and conjugated m
 
 Carbamazepine-10,11-epoxide (CBZ-E): Carbamazepine-10,11-epoxide is considered to be an active metabolite of carbamazepine.
 Following a single 200 mg oral extended-release dose of carbamazepine, the peak plasma concentration of carbamazepine-10,11-epoxide was 0.11 ± 0.012 μg/mL and the time to reach the peak was 36 ± 6 hours.
-Following chronic administration of a extended-release dose of carbamazepine (800 mg every 12 hours), the peak levels of carbamazepine-10,11-epoxide were 2.2 ± 0.9 μg/mL and the time to reach the peak was 14 ± 8 hours.
+Following chronic administration of an extended-release dose of carbamazepine (800 mg every 12 hours), the peak levels of carbamazepine-10,11-epoxide were 2.2 ± 0.9 μg/mL and the time to reach the peak was 14 ± 8 hours.
 The plasma half-life of carbamazepine-10,11-epoxide following administration of carbamazepine is 34 ± 9 hours.
 Following a single oral dose of extended-release carbamazepine (200-800 mg) the AUC and Cmax of carbamazepine-10,11-epoxide were less than 10% of carbamazepine.
 Following multiple dosing of extended-release carbamazepine (800-1600 mg daily for 14 days), the AUC and Cmax of carbamazepine-10,11-epoxide were dose related, ranging from 15.7 μg.hr/mL and 1.5 μg/mL at 800 mg/day to 32.6 μg.hr/mL and 3.2 μg/mL at 1600 mg/day, respectively, and were less than 30% of carbamazepine.

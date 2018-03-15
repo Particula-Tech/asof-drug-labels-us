@@ -19,6 +19,8 @@ Cardiovascular System: Congestive heart failure, edema, aggravation of hypertens
 Some of these cardiovascular complications have resulted in fatalities.
 Myocardial infarction has been associated with other tricyclic compounds.
 
+Immune system disorders: Hypogammaglobulinemia.
+
 Liver: Abnormalities in liver function tests, cholestatic and hepatocellular jaundice, hepatitis, and hepatic failure.
 
 Pancreatic: Pancreatitis.

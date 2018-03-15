@@ -241,7 +241,7 @@ Agents Highly Bound to Plasma Protein:
 
 Carbamazepine is not highly bound to plasma proteins; therefore, administration of Carbatrol® to a patient taking another drug that is highly protein bound should not cause increased free concentrations of the other drug.
 
-Agents that Inhibits Cytochrome P450 Isoenzymes and/or Epoxide Hydrolase:
+Agents that Inhibit Cytochrome P450 Isoenzymes and/or Epoxide Hydrolase:
 
 Carbamazepine is metabolized mainly by cytochrome P450 (CYP) 3A4 to the active carbamazepine 10,11-epoxide, which is further metabolized to the trans-diol by epoxide hydrolase.
 Therefore, the potential exists for interaction between carbamazepine and any agent that inhibits CYP3A4 and/or epoxide hydrolase.
@@ -271,21 +271,21 @@ Carbamazepine is known to induce CYP1A2 and CYP3A4.
 Therefore, the potential exists for interaction between carbamazepine and any agent metabolized by one (or more) of these enzymes.
 Agents that have been found, or are expected to have decreased plasma levels in the presence of Carbatrol® due to induction of CYP enzymes are the following:
 
-Acetaminophen, alprazolam, amitriptyline, bupropion, buspirone, citalopram, clobazam, clonazepam, clozapine, cyclosporin, delavirdine, desipramine, diazepam, dicumarol, doxycycline, ethosuximide, felbamate, felodipine, glucocorticoids, haloperidol, itraconazole, lamotrigine, levothyroxine, lorazepam, methadone, midazolam, mirtazapine, nefazodone(7), nortriptyline, olanzapine, oral and other hormonal contraceptives(3), oxcarbazepine, phenytoin(4), praziquantel, protease inhibitors, quetiapine, risperidone, theophylline, topiramate, tiagabine, tramadol, triazolam, trazodone(5), valproate, warfarin(6), ziprasidone, and zonisamide.
+Acetaminophen, alprazolam, amitriptyline, bupropion, buspirone, citalopram, clobazam, clonazepam, clozapine, cyclosporin, delavirdine, desipramine, diazepam, dicumarol, doxycycline, ethosuximide, felbamate, felodipine, glucocorticoids, haloperidol, itraconazole, lamotrigine, levothyroxine, lorazepam, methadone, midazolam, mirtazapine, nefazodone(3), nortriptyline, olanzapine, oral and other hormonal contraceptives(4), oxcarbazepine, phenytoin(5), praziquantel, protease inhibitors, quetiapine, risperidone, theophylline, topiramate, tiagabine, tramadol, triazolam, trazodone(6), valproate, warfarin(7), ziprasidone, and zonisamide.
 
-(3)Concomitant use of Carbatrol® with hormonal contraceptive products (e.g., oral and levonorgestrel subdermal implant contraceptives) may render the contraceptives less effective because the plasma concentrations of the hormones may be decreased.
+(3)Coadministration of carbamazepine and nefazodone may result in insufficient plasma concentrations of nefazodone and its active metabolite to achieve a therapeutic effect.
+Coadministration of carbamazepine with nefazodone is contraindicated (see CONTRAINDICATIONS).
+
+(4)Concomitant use of Carbatrol® with hormonal contraceptive products (e.g., oral and levonorgestrel subdermal implant contraceptives) may render the contraceptives less effective because the plasma concentrations of the hormones may be decreased.
 Breakthrough bleeding and unintended pregnancies have been reported with carbamazepine.
 Alternative or back-up methods of contraception should be considered.
 
-(4)Phenytoin has also been reported to increase in the presence of carbamazepine.
+(5)Phenytoin has also been reported to increase in the presence of carbamazepine.
 Careful monitoring of phenytoin plasma levels following co-medication with carbamazepine is advised.
 
-(5)Following co-administration of carbamazepine 400mg/day with trazodone 100mg to 300mg daily, carbamazepine reduced trough plasma concentrations of trazodone (as well as meta-chlorophenylpiperazine [mCPP]) by 76 and 60% respectively, compared to precarbamazepine values.
+(6)Following co-administration of carbamazepine 400mg/day with trazodone 100mg to 300mg daily, carbamazepine reduced trough plasma concentrations of trazodone (as well as meta-chlorophenylpiperazine [mCPP]) by 76 and 60% respectively, compared to precarbamazepine values.
 
-(6)Warfarin's anticoagulant effect can be reduced in the presence of carbamazepine.
-
-(7) Coadministration of carbamazepine and nefazodone may result in insufficient plasma concentrations of nefazodone and its active metabolite to achieve a therapeutic effect.
-Coadministration of carbamazepine with nefazodone is contraindicated (see CONTRAINDICATIONS).
+(7) Warfarin's anticoagulant effect can be reduced in the presence of carbamazepine.
 
 Thus, if a patient has been titrated to a stable dosage on one of the agents in this category, and then begins a course of treatment with Carbatrol®, it is reasonable to expect that a dose increase for the concomitant agent may be necessary.
 
@@ -323,7 +323,7 @@ The significance of these findings relative to the use of carbamazepine in human
 
 ## Usage in Pregnancy
 
-Pregnancy Category D (See WARNINGS)
+Carbamazepine can cause fetal harm when administered to a pregnant woman (See WARNINGS)
 
 ## Labor and Delivery
 
