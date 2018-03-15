@@ -1,7 +1,6 @@
 # ADVERSE REACTIONS
 
-Erythromycin has been associated with QT prolongation and ventricular arrhythmias, including ventricular tachycardia and torsades de pointes.
-(See WARNINGS.)
+Erythromycin has been associated with QT prolongation and ventricular arrhythmias, including ventricular tachycardia and torsades de pointes (See WARNINGS).
 
 Side effects following the use of intravenous erythromycin are rare.
 Occasional venous irritation has been encountered, but if the infusion is given slowly, in dilute solution, preferably by continuous intravenous infusion or intermittent infusion in no less than 20 to 60 minutes, pain and vessel trauma are minimized.
@@ -11,5 +10,4 @@ Skin reactions ranging from mild eruptions to erythema multiforme, Stevens-Johns
 
 There have been isolated reports of reversible hearing loss occurring chiefly in patients with renal insufficiency and in patients receiving high doses of erythromycin.
 
-Elderly patients, particularly those with reduced renal or hepatic function, may also be at increased risk for developing this effect when ErythrocinTM doses of 4 grams/day or higher are given.
-(See DOSAGE AND ADMINISTRATION.)
+Elderly patients, particularly those with reduced renal or hepatic function, may also be at increased risk for developing this effect when ErythrocinTM doses of 4 grams/day or higher are given (See DOSAGE AND ADMINISTRATION).

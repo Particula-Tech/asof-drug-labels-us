@@ -26,7 +26,7 @@ Administration of doses of ≥ 4 g/day may increase the risk for the development
 In the treatment of Group A beta-hemolytic streptococcal infections of the upper respiratory tract (e.g., tonsillitis or pharyngitis), the therapeutic dosage of erythromycin should be administered for ten days.
 The American Heart Association suggests a dosage of 250 mg of erythromycin orally, twice a day in long-term prophylaxis of streptococcal upper respiratory tract infections for the prevention of recurring attacks of rheumatic fever in patients allergic to penicillin and sulfonamides.4
 
-In prophylaxis against bacterial endocarditis (see INDICATIONS AND USAGE) the oral regimen for penicillin allergic patients is erythromycin 1 gram, 1 hour before the procedure followed by 500 mg six hours later.5
+In prophylaxis against bacterial endocarditis (See INDICATIONS AND USAGE) the oral regimen for penicillin allergic patients is erythromycin 1 gram, 1 hour before the procedure followed by 500 mg six hours later.5
 
 Preparation of Solution:
 
