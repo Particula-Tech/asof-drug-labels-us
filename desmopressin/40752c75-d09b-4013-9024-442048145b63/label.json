@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA204751"
+  ],
+  "inn": "desmopressin",
+  "labeler": "Sagent Pharmaceuticals",
+  "package_ndcs": [
+    "25021-461-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "desmopressin acetate",
+      "name": "desmopressin acetate"
+    }
+  ],
+  "setid": "40752c75-d09b-4013-9024-442048145b63",
+  "source": "dailymed"
+}
