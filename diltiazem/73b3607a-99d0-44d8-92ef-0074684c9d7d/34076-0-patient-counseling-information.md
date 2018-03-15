@@ -3,23 +3,19 @@
 Advise patients:
 
 - •That the Diltiazem Hydrochloride Extended-Release Tablets should be swallowed whole and not chewed or crushed.
-- •To consult the physician who prescribed Diltiazem Hydrochloride Extended-Release Tablets before taking or stopping any other medications, including over-the-counter products or nutritional supplements, such as St John’s wort.
+- •To consult the physician who prescribed Diltiazem Hydrochloride Extended-Release Tablets before taking or stopping any other medications, including over-the-counter products or nutritional supplements, such as St. John’s wort.
 - •To contact the physician who prescribed Diltiazem Hydrochloride Extended-Release Tablets or any other physician immediately if they experience possible adverse reactions, including bradycardia, arrhythmias, symptoms indicative of hypotension or heart failure, hepatic and skin reactions.
 - •To consult their physician if they become pregnant while taking Diltiazem Hydrochloride Extended-Release Tablets or plan to become pregnant.
 
-Manufactured in Canada by:
+Manufactured for: Oceanside Pharmaceuticals, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
-Valeant Pharmaceuticals International, Inc.
+By: Valeant Pharmaceuticals International, Inc. Steinbach, MB R5G 1Z7 Canada
 
-Steinbach, MB R5G 1Z7 Canada
+©Valeant Pharmaceuticals North America LLC
 
-Distributed by:
+Rev.
+02/2017
 
-Oceanside Pharmaceuticals, a division of Valeant Pharmaceuticals North America LLC
+9474101
 
-Bridgewater, NJ 08807 USA Rev.
-07/15
-
-20001190
-
-9474100
+20001734

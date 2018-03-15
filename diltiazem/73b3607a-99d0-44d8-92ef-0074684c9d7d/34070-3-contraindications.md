@@ -1,9 +1,9 @@
 # 4 CONTRAINDICATIONS
 
-Diltiazem Hydrochloride Extended-Release Tablet are contraindicated in:
+Diltiazem Hydrochloride Extended-Release Tablets are contraindicated in:
 
-- •Patients with sick sinus syndrome except in the presence of a functioning ventricular pacemaker
-- •Patients with second- or third-degree AV block except in the presence of a functioning ventricular pacemaker
-- •Patients with hypotension (less than 90 mm Hg systolic)
-- •Patients who have demonstrated hypersensitivity to the drug
-- •Patients with acute myocardial infarction and pulmonary
+- •Patients with sick sinus syndrome except in the presence of a functioning ventricular pacemaker.
+- •Patients with second- or third-degree AV block except in the presence of a functioning ventricular pacemaker.
+- •Patients with hypotension (less than 90 mm Hg systolic).
+- •Patients who have demonstrated hypersensitivity to the drug.
+- •Patients with acute myocardial infarction and pulmonary.

@@ -5,7 +5,7 @@ The following adverse reactions are described in greater detail, in other sectio
 - •Bradycardia and AV block [see Warnings and Precautions (5.1)]
 - •Heart failure [see Warnings and Precautions (5.2)]
 - •Acute hepatic injury [see Warnings and Precautions (5.3)]
-- •Severe Skin reactions [see Warnings and Precautions (5.4)]
+- •Severe skin reactions [see Warnings and Precautions (5.4)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -13,7 +13,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 For the hypertension studies, the following table presents adverse reactions more common on diltiazem than on placebo (but excluding events with no plausible relationship to treatment), as reported in placebo-controlled hypertension trials in patients receiving a diltiazem hydrochloride extended-release formulation (once-a-day dosing) up to 540 mg.
 
-| Adverse Reactions (MedDRA Term) | n= 120 # pts. (%) | 120-360 mg n= 501 # pts. (%) | 540 mg n= 123 # pts. (%) |
+| Adverse Reactions (MedDRA Term) | n=120 # pts. (%) | 120-360 mg n=501 # pts. (%) | 540 mg n=123 # pts. (%) |
 | --- | --- | --- | --- |
 |  | Placebo | Diltiazem hydrochloride extended-release |  |
 | Edema lower limb | 4 (3) | 24 (5) | 10 (8) |
@@ -31,7 +31,7 @@ Nervous System: Abnormal dreams, amnesia, depression, gait abnormality, hallucin
 
 Gastrointestinal: Anorexia, constipation, diarrhea, dry mouth, dysgeusia, dyspepsia, thirst, vomiting, weight increase.
 
-Dermatological: Petechiae, photosensitivity, pruritus, urticarial [see Warnings and Precautions (5.4)].
+Dermatological: Petechiae, photosensitivity, pruritus, urticaria [see Warnings and Precautions (5.4)].
 
 Other: Amblyopia, CPK increase, dyspnea, epistaxis, eye irritation, hyperglycemia, hyperuricemia, impotence, muscle cramps, nasal congestion, nocturia, osteoarticular pain, polyuria, sexual difficulties.
 

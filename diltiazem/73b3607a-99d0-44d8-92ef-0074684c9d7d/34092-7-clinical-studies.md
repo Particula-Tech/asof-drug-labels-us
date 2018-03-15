@@ -23,10 +23,10 @@ No reflex tachycardia is associated with the chronic antihypertensive effects.
 
 ## 14.2 Angina
 
-The effects of Diltiazem Hydrochloride Extended-Release Tablets on angina were evaluated in a randomized, double-blind, parallel group, dose-response trial of 311 patients with chronic stable angina.
+The effects of Diltiazem Hydrochloride Extended-Release Tablets on angina were evaluated in a randomized, double-blind, parallel-group, dose-response trial of 311 patients with chronic stable angina.
 Evening doses of 180, 360, and 420 mg were compared to placebo and to 360 mg administered in the morning.
 All doses of Diltiazem Hydrochloride Extended-Release Tablets administered at night increased exercise tolerance when compared with placebo after 21 hours.
 The mean effect, placebo-subtracted, was 20 to 28 seconds for all three doses, and no dose-response was demonstrated.
-Diltiazem Hydrochloride Extended-Release Tablet, 360 mg, given in the morning, also improved exercise tolerance when measured 25 hours later.
+Diltiazem Hydrochloride Extended-Release Tablets, 360 mg, given in the morning, also improved exercise tolerance when measured 25 hours later.
 As expected, the effect was smaller than the effects measured only 21 hours following nighttime administration.
 Diltiazem Hydrochloride Extended-Release Tablets had a larger effect to increase exercise tolerance at peak serum concentrations than at trough.

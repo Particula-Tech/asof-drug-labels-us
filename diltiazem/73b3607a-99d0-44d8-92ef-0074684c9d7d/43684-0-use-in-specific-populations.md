@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy category C. Reproduction studies have been conducted in mice, rats, and rabbits.
+Pregnancy Category C. Reproduction studies have been conducted in mice, rats, and rabbits.
 Administration of doses ranging from five to ten times (on a mg/kg basis) the daily recommended therapeutic dose has resulted in embryo and fetal lethality.
 These doses, in some studies, have been reported to cause skeletal abnormalities.
 In the perinatal/postnatal studies, there was an increased incidence of stillbirths at doses of 20 times the human dose or greater.

@@ -4,18 +4,16 @@
 
 The therapeutic effects of diltiazem are believed to be related to its ability to inhibit the cellular influx of calcium ions during membrane depolarization of cardiac and vascular smooth muscle.
 
-Hypertension.
-Diltiazem produces its antihypertensive effect primarily by relaxation of vascular smooth muscle and the resultant decrease in peripheral vascular resistance.
+Hypertension: Diltiazem produces its antihypertensive effect primarily by relaxation of vascular smooth muscle and the resultant decrease in peripheral vascular resistance.
 The magnitude of blood pressure reduction is related to the degree of hypertension; thus hypertensive individuals experience an antihypertensive effect, whereas there is only a modest fall in blood pressure in normotensives.
 
-Angina.
-Diltiazem has been shown to produce increases in exercise tolerance, probably due to its ability to reduce myocardial oxygen demand.
+Angina: Diltiazem has been shown to produce increases in exercise tolerance, probably due to its ability to reduce myocardial oxygen demand.
 This is accomplished via reductions in heart rate and systemic blood pressure at submaximal and maximal workloads.
 Diltiazem has been shown to be a potent dilator of coronary arteries, both epicardial and subendocardial.
-Spontaneous and ergonovine-induced coronary artery spasm are inhibited by diltiazem.
+Spontaneous and ergonovine-induced coronary artery spasms are inhibited by diltiazem.
 
 In animal models, diltiazem interferes with the slow inward (depolarizing) current in excitable tissue.
-Diltiazem causes excitationcontraction uncoupling in various myocardial.
+Diltiazem causes excitation-contraction uncoupling in various myocardial.
 Diltiazem produces relaxation of coronary vascular smooth muscle and dilation of both large and small coronary arteries at drug levels which cause little or no negative inotropic effect.
 The resultant increases in coronary blood flow (epicardial and subendocardial) occur in ischemic and nonischemic models and are accompanied by dose-dependent decreases in systemic blood pressure and decreases in peripheral resistance.
 
@@ -25,7 +23,7 @@ Like other calcium channel antagonists, diltiazem decreases sinoatrial and atrio
 In the intact animal, prolongation of the AH interval can be seen at higher doses.
 
 In man, diltiazem prevents spontaneous and ergonovine-provoked coronary artery spasm.
-It causes a decrease in peripheral vascular resistance and a modest fall in blood pressure in normotensive individuals and, in exercise tolerance studies in patients with ischemic heart disease, reduces the heart rate-blood pressure product for any given work load.
+It causes a decrease in peripheral vascular resistance and a modest fall in blood pressure in normotensive individuals and, in exercise tolerance studies in patients with ischemic heart disease, reduces the heart rate-blood pressure product for any given workload.
 Studies to date, primarily in patients with good ventricular function, have not revealed evidence of a negative inotropic effect; cardiac output, ejection fraction, and left ventricular end diastolic pressure have not been affected.
 Such data have no predictive value with respect to effects in patients with poor ventricular function, and increased heart failure has been reported in patients with preexisting impairment of ventricular function.
 There are as yet few data on the interaction of diltiazem and beta-blockers in patients with poor ventricular function.
@@ -34,7 +32,7 @@ Diltiazem decreases vascular resistance, increases cardiac output (by increasing
 
 During dynamic exercise, increases in diastolic pressure are inhibited, while maximum achievable systolic pressure is usually reduced.
 Chronic therapy with diltiazem produces no change or an increase in plasma catecholamines.
-No increased activity of the reninangiotensin-aldosterone axis has been observed.
+No increased activity of the renin-angiotensin-aldosterone axis has been observed.
 Diltiazem reduces the renal and peripheral effects of angiotensin II.
 Hypertensive animal models respond to diltiazem with reductions in blood pressure and increased urinary output and natriuresis without a change in urinary sodium/potassium ratio.
 
@@ -63,15 +61,14 @@ There is a departure from linearity when dose strengths are increased; the half-
 A study that compared patients with normal hepatic function to patients with cirrhosis found an increase in half-life and a 69% increase in bioavailability in the hepatically impaired patients.
 A single study in nine patients with severely impaired renal function showed no difference in the pharmacokinetic profile of diltiazem compared to patients with normal renal function.
 
-Diltiazem Hydrochloride Extended-Release Tablets.
-A single 360 mg dose of Diltiazem Hydrochloride Extended-Release Tablets results in detectable plasma levels within 3 to 4 hours and peak plasma levels between 11 and 18 hours; absorption occurs throughout the dosing interval.
+Diltiazem Hydrochloride Extended-Release Tablets: A single 360 mg dose of Diltiazem Hydrochloride Extended-Release Tablets results in detectable plasma levels within 3 to 4 hours and peak plasma levels between 11 and 18 hours; absorption occurs throughout the dosing interval.
 The apparent elimination half-life for Diltiazem Hydrochloride Extended-Release Tablets after single or multiple dosing is 6 to 9 hours.
 When Diltiazem Hydrochloride Extended-Release Tablets were coadministered with a high fat content breakfast, diltiazem peak and systemic exposures were not affected indicating that the tablet can be administered without regard to food.
 As the dose of Diltiazem Hydrochloride Extended-Release Tablets is increased from 120 to 240 mg, area-under-the-curve increases 2.5-fold.
 
 Drug Interactions
 
-Impact of diltiazem on other co-administered drugs
+Impact of Diltiazem on Other Coadministered Drugs
 
 Anesthetics: The depression of cardiac contractility, conductivity, and automaticity as well as the vascular dilation associated with anesthetics may be potentiated by calcium channel blockers.
 When used concomitantly, anesthetics and calcium blockers should be titrated carefully.
@@ -110,28 +107,24 @@ Monitor for quinidine adverse effects and adjust the dose adjusted.
 
 Statins: Diltiazem has been shown to increase significantly the AUC of some statins.
 The risk of myopathy and rhabdomyolysis with statins metabolized by CYP3A4 may be increased with concomitant use of diltiazem.
-When possible, use a non-CYP3A4-metabolized statin together with diltiazem; otherwise, dose adjustments for both diltiazem and the statin should be considered along with close monitoring for signs and symptoms of any statin related adverse events.
+When possible, use a non-CYP3A4-metabolized statin together with diltiazem; otherwise, dose adjustments for both diltiazem and the statin should be considered along with close monitoring for signs and symptoms of any statin-related adverse events.
 
-In a healthy volunteer cross-over study (N=10), co-administration of a single 20 mg dose of simvastatin at the end of a 14 day regimen with 120 mg BID diltiazem SR resulted in a 5-fold increase in mean simvastatin AUC versus simvastatin alone.
+In a healthy volunteer cross-over study (N=10), coadministration of a single 20 mg dose of simvastatin at the end of a 14-day regimen with 120 mg BID diltiazem SR resulted in a 5-fold increase in mean simvastatin AUC versus simvastatin alone.
 Subjects with increased average steady-state exposures of diltiazem showed a greater fold increase in simvastatin exposure.
 Computer-based simulations showed that at a daily dose of 480 mg of diltiazem, an 8- to 9-fold mean increase in simvastatin AUC can be expected.
-If co-administration of simvastatin with diltiazem is required, limit the daily doses of simvastatin to 10 mg and diltiazem to 240 mg.
+If coadministration of simvastatin with diltiazem is required, limit the daily doses of simvastatin to 10 mg and diltiazem to 240 mg.
 
-In a ten-subject randomized, open label, 4-way cross-over study, co-administration of diltiazem (120 mg BID diltiazem SR for 2 weeks) with a single 20 mg dose of lovastatin resulted in 3- to 4-fold increase in mean lovastatin AUC and Cmax versus lovastatin alone.
+In a ten-subject randomized, open label, 4-way cross-over study, coadministration of diltiazem (120 mg BID diltiazem SR for 2 weeks) with a single 20 mg dose of lovastatin resulted in 3- to 4-fold increase in mean lovastatin AUC and Cmax versus lovastatin alone.
 In the same study, there was no significant change in 20 mg single dose pravastatin AUC and Cmax during diltiazem coadministration.
 Diltiazem plasma levels were not significantly affected by lovastatin or pravastatin.
 
-Impact of other co-administered drugs on diltiazem include, but not limited to:
+Impact of Other Coadministered Drugs on Diltiazem Include, but Not Limited to:
 
-Rifampin
-
-Coadministration of rifampin with diltiazem lowered the diltiazem plasma concentrations to undetectable levels.
+Rifampin:Coadministration of rifampin with diltiazem lowered the diltiazem plasma concentrations to undetectable levels.
 Coadministration of diltiazem with rifampin or any known CYP3A4 inducer should be avoided when possible, and alternative therapy considered.
 
-Cimetidine and Ranitidine
-
-A study in six healthy volunteers has shown a significant increase in peak diltiazem plasma levels (58%) and AUC (53%) after a 1-week course of cimetidine at 1200 mg per day and a single dose of diltiazem 60 mg.
+Cimetidine and Ranitidine:A study in six healthy volunteers has shown a significant increase in peak diltiazem plasma levels (58%) and AUC (53%) after a 1-week course of cimetidine at 1200 mg per day and a single dose of diltiazem 60 mg.
 Ranitidine produced smaller, non-significant increases.
-The effect may be mediated by cimetidine’s known inhibition of hepatic cytochrome P-450, the enzyme system responsible for the first-pass metabolism of diltiazem.
+The effect may be mediated by cimetidine’s known inhibition of hepatic cytochrome P450, the enzyme system responsible for the first-pass metabolism of diltiazem.
 Patients currently receiving diltiazem therapy should be carefully monitored for a change in pharmacological effect when initiating and discontinuing therapy with cimetidine.
 An adjustment in the diltiazem dose may be warranted.
