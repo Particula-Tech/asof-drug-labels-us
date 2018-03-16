@@ -73,7 +73,7 @@ None of the injection site reactions were serious.
 One reaction, an injection site ulcer, led to study treatment discontinuation.
 
 Table 3.
-Injection Site Adverse Drug Reactions Reported by ≥2 Subjects in the Phase 3 Double-Blind Study
+Injection Site Adverse Drug Reactions Reported by ≥2 Subjects in the Phase 3 Studies
 
 | Preferred term, n (%) | 13-0001 (Ph3DB) |  |  | 13-0003 (Ph3OL) |  |  |  | All Phase 3* |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |

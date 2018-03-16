@@ -23,5 +23,5 @@ Amounts of Raw Materials and Delivered Volume for the Dosage Strengths
 | Approximate Delivered Volume | 0.5 mL | 1.5 mL |
 
 The molecular weight of buprenorphine free base is 467.6, and its molecular formula is C29H41NO4.
-Chemically, buprenorphine is (2S)-2-[17-(Cyclopropylmethyl)-4,5?-epoxy-3-hydroxy-6-methoxy-6α,14-ethano-14α-morphinan-7α-γl]-3,3-dimethylbutan-2-ol.
+Chemically, buprenorphine is (2S)-2-[17-(Cyclopropylmethyl)-4,5α-epoxy-3-hydroxy-6-methoxy-6α,14-ethano-14α-morphinan-7α-γl]-3,3-dimethylbutan-2-ol.
 The structural formula is:
