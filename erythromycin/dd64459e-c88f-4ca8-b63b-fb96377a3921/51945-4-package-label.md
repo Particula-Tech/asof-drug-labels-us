@@ -2,10 +2,10 @@
 
 Rx Only
 
-45802-966-96
+45802-966-94
 
 Erythromycin Topical Gel USP, 2%
 
 For Dermatologic Use Only - Not for Ophthalmic Use
 
-Net Wt 60 g
+Net Wt 30 g
