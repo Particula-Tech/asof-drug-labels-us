@@ -1,5 +1,8 @@
+This product's label may have been updated.
+For current full prescribing information, please visit www.pfizer.com.
+
 Distributed by Pharmacia & Upjohn Co Division of Pfizer Inc NY, NY 10017
 
-PremierProRx® is a registered trademark of Premier, Inc., used under license.
+PREMIERProRx® is a registered trademark of Premier Healthcare Alliance, L.P., used under license.
 
-LAB-0739-3.0
+LAB-0739-5.0
