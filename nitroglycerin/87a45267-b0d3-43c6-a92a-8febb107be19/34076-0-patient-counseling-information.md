@@ -40,4 +40,4 @@ Marketed and Distributed by: Mist Pharmaceuticals, LLC Cranford, NJ 07016 USA
 
 NitroMist is a registered trademark of Mist Pharmaceuticals
 
-143F001 Revised 06/2016
+143F002 Revised 02/2018

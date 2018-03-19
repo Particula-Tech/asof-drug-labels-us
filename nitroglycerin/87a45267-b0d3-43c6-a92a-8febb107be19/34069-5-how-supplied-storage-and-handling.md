@@ -5,6 +5,6 @@ NitroMist is available as an 8.5 g (Net Content) of nitroglycerin lingual aeroso
 
 230 metered sprays: NDC 76299-430-08 90 metered sprays: NDC 76299-430-04
 
-- Storage Store at room temperature (25oC, 77oF); excursions permitted to 15oto30oC (59o to 85 oF)
+- Storage Store at room temperature (25°C, 77°F); excursions permitted to 15° to 30°C (59° to 85°F)
 - Handling NitroMist contains a highly flammable propellant (butane).
   Do not forcefully open a NitroMist bottle, do not have the container burned after use, and do not spray directly toward flames.

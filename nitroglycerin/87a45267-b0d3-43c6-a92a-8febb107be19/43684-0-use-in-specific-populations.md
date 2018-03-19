@@ -23,5 +23,5 @@ The safety and effectiveness of nitroglycerin in pediatric patients have not bee
 ## 8.5 Geriatric Use
 
 Clinical studies of NitroMist did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
-Other reported clinical experience has not identified differences in responses between elderly (greater than or equal to 65 years) and younger (less than65 years) patients.
+Other reported clinical experience has not identified differences in responses between elderly (greater than or equal to 65 years) and younger (less than 65 years) patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
