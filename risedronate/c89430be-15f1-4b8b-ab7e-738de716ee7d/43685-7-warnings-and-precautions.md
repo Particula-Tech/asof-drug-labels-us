@@ -1,0 +1,72 @@
+# 5WARNINGS AND PRECAUTIONS
+
+## 5.1Drug Products with the Same Active Ingredient
+
+Risedronate sodium contains the same active ingredient found in Actonel®.
+A patient being treated with Actonel should not receive Risedronate sodium.
+
+## 5.2 Upper Gastrointestinal Adverse Reactions
+
+Risedronate sodium, like other bisphosphonates administered orally, may cause local irritation of the upper gastrointestinal mucosa.
+Because of these possible irritant effects and a potential for worsening of the underlying disease, caution should be used when Risedronate sodium is given to patients with active upper gastrointestinal problems (such as known Barrett’s esophagus, dysphagia, other esophageal diseases, gastritis, duodenitis or ulcers) [see Contraindications (4), Adverse Reactions (6.1), Information for Patients (17)].
+
+Esophageal adverse experiences, such as esophagitis, esophageal ulcers and esophageal erosions, occasionally with bleeding and rarely followed by esophageal stricture or perforation, have been reported in patients receiving treatment with oral bisphosphonates.
+In some cases, these have been severe and required hospitalization.
+Physicians should therefore be alert to any signs or symptoms signaling a possible esophageal reaction and patients should be instructed to discontinue Risedronate sodium and seek medical attention if they develop dysphagia, odynophagia, retrosternal pain or new or worsening heartburn.
+
+The risk of severe esophageal adverse experiences appears to be greater in patients who lie down after taking oral bisphosphonates and/or who fail to swallow it with the recommended 4 ounces of water, and/or who continue to take oral bisphosphonates after developing symptoms suggestive of esophageal irritation.
+Therefore, it is very important that the full dosing instructions are provided to, and understood by, the patient [see Dosage and Administration (2)].
+In patients who cannot comply with dosing instructions due to mental disability, therapy with Risedronate sodium should be used under appropriate supervision.
+
+There have been post-marketing reports of gastric and duodenal ulcers with oral bisphosphonate use, some severe and with complications, although no increased risk was observed in controlled clinical trials.
+
+## 5.3Mineral Metabolism
+
+Hypocalcemia has been reported in patients taking Risedronate sodium.
+Treat hypocalcemia and other disturbances of bone and mineral metabolism should be effectively treated before starting Risedronate sodium therapy.
+Instruct patients to take supplemental calcium and vitamin D if their dietary intake is inadequate.
+Adequate intake of calcium and vitamin D is important in all patients [see Contraindications (4), Adverse Reactions (6.1), Information for Patients (17)].
+
+## 5.4Jaw Osteonecrosis
+
+Osteonecrosis of the jaw (ONJ), which can occur spontaneously, is generally associated with tooth extraction and/or local infection with delayed healing, and has been reported in patients taking bisphosphonates, including risedronate.
+Known risk factors for osteonecrosis of the jaw include invasive dental procedures (for example, tooth extraction, dental implants, boney surgery), diagnosis of cancer, concomitant therapies (for example, chemotherapy, corticosteroids, angiogenesis inhibitors), poor oral hygiene, and co-morbid disorders (for example, periodontal and/or other pre-existing dental disease, anemia, coagulopathy, infection, ill-fitting dentures).
+The risk of ONJ may increase with duration of exposure to bisphosphonates.
+
+For patients requiring invasive dental procedures, discontinuation of bisphosphonate treatment may reduce the risk for ONJ.
+Clinical judgment of the treating physician and/or oral surgeon should guide the management plan of each patient based on individual benefit/risk assessment.
+
+Patients who develop ONJ while on bisphosphonate therapy should receive care by an oral surgeon.
+In these patients, extensive dental surgery to treat ONJ may exacerbate the condition.
+Discontinuation of bisphosphonate therapy should be considered based on individual benefit/risk assessment [see Adverse Reactions (6.2)].
+
+## 5.5Musculoskeletal Pain
+
+In postmarketing experience, there have been reports of severe and occasionally incapacitating bone, joint, and/or muscle pain in patients taking bisphosphonates [see Adverse Reactions (6.2)].
+The time to onset of symptoms varied from one day to several months after starting the drug.
+Most patients had relief of symptoms after stopping medication.
+A subset had recurrence of symptoms when rechallenged with the same drug or another bisphosphonate.
+Consider discontinuing use if severe symptoms develop.
+
+## 5.6 Atypical Subtrochanteric and Diaphyseal Femoral Fractures
+
+Atypical, low-energy, or low trauma fractures of the femoral shaft have been reported in bisphosphonate-treated patients.
+These fractures can occur anywhere in the femoral shaft from just below the lesser trochanter to above the supracondylar flare and are traverse or short oblique in orientation without evidence of comminution.
+Causality has not been established as these fractures also occur in osteoporotic patients who have not been treated with bisphosphonates.
+
+Atypical femur fractures most commonly occur with minimal or no trauma to the affected area.
+They may be bilateral and many patients report prodromal pain in the affected area, usually presenting as dull, aching thigh pain, weeks to months before a complete fracture occurs.
+A number of reports note that patients were also receiving treatment with glucocorticoids (for example, prednisone) at the time of fracture.
+
+Any patient with a history of bisphosphonate exposure who presents with thigh or groin pain should be suspected of having an atypical fracture and should be evaluated to rule out an incomplete femur fracture.
+Patients presenting with an atypical fracture should also be assessed for symptoms and signs of fracture in the contralateral limb.
+Interruption of bisphosphonate therapy should be considered, pending a risk/benefit assessment, on an individual basis.
+
+## 5.7Renal Impairment
+
+Risedronate sodium is not recommended for use in patients with severe renal impairment (creatinine clearance less than 30 mL/min) because of lack of clinical experience.
+
+## 5.8 Laboratory Test Interactions
+
+Bisphosphonates are known to interfere with the use of bone-imaging agents.
+Specific studies with Risedronate sodium have not been performed.

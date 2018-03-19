@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA022560"
+  ],
+  "inn": "risedronate",
+  "labeler": "Greenstone LLC",
+  "package_ndcs": [
+    "59762-0407-4"
+  ],
+  "products": [
+    {
+      "form": "TABLET, DELAYED RELEASE",
+      "generic": "risedronate sodium",
+      "name": "Risedronate Sodium"
+    }
+  ],
+  "setid": "c89430be-15f1-4b8b-ab7e-738de716ee7d",
+  "source": "dailymed"
+}
