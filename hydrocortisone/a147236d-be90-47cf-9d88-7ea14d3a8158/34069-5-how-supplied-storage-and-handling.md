@@ -1,8 +1,8 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Locoid® Lotion, 0.1%, is white to off white in color and supplied in bottles of 2 fl. oz.
+LOCOID Lotion, 0.1% is white to off-white in color and supplied in bottles of 2 fl. oz.
 (NDC 16781-392-02) and 4 fl. oz.
 (NDC 16781-392-04).
 
-Store at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
+Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 Protect from freezing.

@@ -10,7 +10,7 @@ Arachidonic acid is released from membrane phospholipids by phospholipase A2.
 
 ## 12.3 Pharmacokinetics
 
-No studies were conducted to determine the pharmacokinetics of Locoid® Lotion.
+No studies were conducted to determine the pharmacokinetics of LOCOIDLotion.
 
 The extent of percutaneous absorption of topical corticosteroids is determined by many factors, including the vehicle, the integrity of the epidermal barrier, and the use of occlusive dressings.
 

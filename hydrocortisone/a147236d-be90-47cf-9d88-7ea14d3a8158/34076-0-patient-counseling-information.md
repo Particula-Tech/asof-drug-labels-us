@@ -1,18 +1,16 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Patients using Locoid® Lotion should receive the following information and instructions:
+Patients using LOCOIDLotion should receive the following information and instructions:
 
-- •Apply a thin layer to the affected skin two times daily, and rub in gently.
-- •Discontinue Locoid® Lotion when control is achieved.
+- •Apply a thin layer to the affected skin two times daily and rub in gently.
+- •Discontinue LOCOIDLotion when control is achieved.
 - •Do not use for longer than 4 weeks.
 - •Avoid contact with the eyes.
 - •Do not bandage, otherwise cover, or wrap the affected skin area so as to be occlusive unless directed by physician.
-- •Do not use Locoid® Lotion in the diaper area, as diapers or plastic pants may constitute occlusive dressings.
-- •Do not use Locoid® Lotion on the face, underarms, or groin areas unless directed by physician.
+- •Do not use LOCOIDLotion in the diaper area, as diapers or plastic pants may constitute occlusive dressings.
+- •Do not use LOCOIDLotion on the face, underarms, or groin areas unless directed by physician.
 - •If no improvement is seen within 2 weeks, contact physician.
-- •Do not use other corticosteroid-containing products while using Locoid® Lotion without first consulting physician.
-
-Rx only
+- •Do not use other corticosteroid-containing products while using LOCOIDLotion without first consulting physician.
 
 Manufactured for:
 
@@ -24,12 +22,14 @@ By:
 
 Ferndale Laboratories, Inc.
 
-Ferndale, MI 48220
+Ferndale, MI 48220 USA
 
-Locoid is a registered trademark of Astellas Pharma Europe B.V. under license.
+U.S. Patent Number: 7,981,877
 
-©Valeant Pharmaceuticals International.
+Locoid is a trademark of Leo Pharma A/S used under license.
 
-9421800
+© Valeant Pharmaceuticals North America LLC
 
-Revised: 10/2014
+9421801
+
+Revised: 01/2018

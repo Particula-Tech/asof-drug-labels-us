@@ -1,6 +1,6 @@
-PRINCIPAL DISPLAY PANEL - Locoid® Lotion 2 fl oz Carton
+PRINCIPAL DISPLAY PANEL - Locoid® Lotion 4 fl oz Carton
 
-NDC 16781-392-02
+NDC 16781-392-04
 
 Locoid®
 
@@ -8,10 +8,12 @@ Locoid®
 
 Lotion, 0.1%
 
-For topical use only.
+For topical use only
 
-Not for eye use.
+Not for eye use
 
 Rx only
 
-2 fl oz (59 mL)
+4 fl oz (118 mL)
+
+Ortho Dermatologics
