@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA210155"
+  ],
+  "inn": "vigabatrin",
+  "labeler": "Amneal Pharmaceuticals LLC",
+  "package_ndcs": [
+    "69238-1425-5"
+  ],
+  "products": [
+    {
+      "form": "FOR SOLUTION",
+      "generic": "vigabatrin",
+      "name": "Vigabatrin"
+    }
+  ],
+  "setid": "5b8fb137-848b-45fd-9107-a6db5a675360",
+  "source": "dailymed"
+}
