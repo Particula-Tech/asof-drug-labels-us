@@ -18,4 +18,4 @@ BRILINTA® is a trademark of the AstraZeneca group of companies.
 
 Distributed by: AstraZeneca Pharmaceuticals LP, Wilmington, DE 19850
 
-© AstraZeneca 2016
+© AstraZeneca 2018

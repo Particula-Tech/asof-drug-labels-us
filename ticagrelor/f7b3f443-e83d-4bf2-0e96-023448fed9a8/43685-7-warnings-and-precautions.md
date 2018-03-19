@@ -40,4 +40,4 @@ Patients with a history of sick sinus syndrome, 2nd or 3rd degree AV block or br
 
 Avoid use of BRILINTA in patients with severe hepatic impairment.
 Severe hepatic impairment is likely to increase serum concentration of ticagrelor.
-There are no studies of BRILINTA patients with severe hepatic impairment [seeClinical Pharmacology (12.3)].
+There are no studies of BRILINTA patients with severe hepatic impairment [see Clinical Pharmacology (12.3)].

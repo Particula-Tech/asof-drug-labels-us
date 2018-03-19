@@ -45,7 +45,7 @@ The Kaplan-Meier curve (Figure 8) shows time to first occurrence of the primary 
 
 Figure 8 – Time to first occurrence of CV death, MI, or stroke (PLATO)
 
-The curves separate by 30 days [relative risk reduction (RRR) 12%] and continue to diverge throughout the 12 month treatment period (RRR 16%).
+The curves separate by 30 days [relative risk reduction (RRR) 12%] and continue to diverge throughout the 12-month treatment period (RRR 16%).
 
 Among 11289 patients with PCI receiving any stent during PLATO, there was a lower risk of stent thrombosis (1.3% for adjudicated “definite”) than with clopidogrel (1.9%) (HR 0.67, 95% CI 0.50-0.91; p=0.009).
 The results were similar for drug-eluting and bare metal stents.
@@ -107,7 +107,7 @@ Based on information external to PEGASUS, 102 patients with a history of stroke 
 
 Patients were treated for at least 12 months and up to 48 months with a median follow up time of 33 months.
 
-Patients were predominantly male (76%) Caucasian (87%) with a mean age of 65 years, and 99.8% of patients received prior Aspirin therapy.
+Patients were predominantly male (76%) Caucasian (87%) with a mean age of 65 years, and 99.8% of patients received prior aspirin therapy.
 See Table 7 for key baseline features.
 
 Table 7 - Baseline features (PEGASUS)
@@ -141,12 +141,12 @@ Table 8 - Incidences of the primary composite endpoint, primary composite endpoi
 | Time to first CV death, MI, or strokePrimary endpoint | 487 | 7.8 | 578 | 9.0 | 0.84 (0.74, 0.95) | 0.0043 |
 | CV DeathFor the components, the first-occurring component of the composite is included. | 116 |  | 128 |  |  |  |
 | Myocardial infarction | 283 |  | 336 |  |  |  |
-| Strokea | 88 |  | 114 |  |  |  |
-| Subjects with events at any time CV DeathThe number of first events for the components CV Death, MI and Stroke are the actual number of first events for each component and do not add up to the number of events in the composite endpoint.Secondary endpoints | 174 | 2.9 | 210 | 3.4 | 0.83 (0.68, 1.01) |  |
+| Stroke | 88 |  | 114 |  |  |  |
+| Subjects with events at any time CV DeathSecondary endpoints, The number of first events for the components CV Death, MI and Stroke are the actual number of first events for each component and do not add up to the number of events in the composite endpoint. | 174 | 2.9 | 210 | 3.4 | 0.83 (0.68, 1.01) |  |
 | Myocardial infarction | 285 | 4.5 | 338 | 5.2 | 0.84 (0.72, 0.98) |  |
 | Stroke | 91 | 1.5 | 122 | 1.9 | 0.75 (0.57, 0.98) |  |
 | All-cause mortality | 289 | 4.7 | 326 | 5.2 | 0.89 (0.76, 1.04) |  |
-| CI = Confidence interval; CV = Cardiovascular; HR = Hazard ratio; KM = Kaplan-Meier percentage calculated at 36 months; MI = Myocardial infarction; N = Number of patients; |  |  |  |  |  |  |
+| CI = Confidence interval; CV = Cardiovascular; HR = Hazard ratio; KM = Kaplan-Meier percentage calculated at 36 months; MI = Myocardial infarction; N = Number of patients. |  |  |  |  |  |  |
 
 In PEGASUS, the RRR for the composite endpoint from 1 to 360 days (17% RRR) and from 361 days and onwards (16% RRR) were similar.
 

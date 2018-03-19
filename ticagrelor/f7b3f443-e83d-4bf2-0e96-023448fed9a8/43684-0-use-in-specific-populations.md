@@ -38,7 +38,7 @@ No overall differences in safety or effectiveness were observed between elderly 
 Ticagrelor is metabolized by the liver and impaired hepatic function can increase risks for bleeding and other adverse events.
 Avoid use of BRILINTA in patients with severe hepatic impairment.
 There is limited experience with BRILINTA in patients with moderate hepatic impairment; consider the risks and benefits of treatment, noting the probable increase in exposure to ticagrelor.
-No dosage adjustment is needed in patients with mild hepatic impairment [see Warnings and Precautions (5.6) and Clinical Pharmacology (12.3)].
+No dosage adjustment is needed in patients with mild hepatic impairment [see Warnings and Precautions (5.5) and Clinical Pharmacology (12.3)].
 
 ## 8.7 Renal Impairment
 

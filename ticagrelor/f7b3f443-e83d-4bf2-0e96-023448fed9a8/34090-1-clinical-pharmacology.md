@@ -7,7 +7,7 @@ Ticagrelor and its active metabolite are approximately equipotent.
 
 ## 12.2 Pharmacodynamics
 
-The inhibition of platelet aggregation (IPA) by ticagrelor and clopidogrel was compared in a 6 week study examining both acute and chronic platelet inhibition effects in response to 20 μM ADP as the platelet aggregation agonist.
+The inhibition of platelet aggregation (IPA) by ticagrelor and clopidogrel was compared in a 6-week study examining both acute and chronic platelet inhibition effects in response to 20 μM ADP as the platelet aggregation agonist.
 
 The onset of IPA was evaluated on Day 1 of the study following loading doses of 180 mg ticagrelor or 600 mg clopidogrel.
 As shown in Figure 3, IPA was higher in the ticagrelor group at all time points.
@@ -77,7 +77,17 @@ Moderate CYP3A inhibitors have lesser effects (e.g., diltiazem).
 CYP3A inducers (e.g., rifampin) substantially reduce ticagrelor blood levels.
 P-gp inhibitors (e.g., cyclosporine) increase ticagrelor exposure.
 
+Co-administration of 5 mg intravenous morphine with 180 mg loading dose of ticagrelor decreased observed mean ticagrelor exposure by up to 25% in healthy adults and up to 36% in ACS patients undergoing PCI.
+Tmax was delayed by 1-2 hours.
+Exposure of the active metabolite decreased to a similar extent.
+Morphine co-administration did not delay or decrease platelet inhibition in healthy adults.
+Mean platelet aggregation was higher up to 3 hours post loading dose in ACS patients co-administered with morphine.
+
+Co-administration of intravenous fentanyl with 180 mg loading dose of ticagrelor in ACS patients undergoing PCI resulted in similar effects on ticagrelor exposure and platelet inhibition.
+
 Figure 6 - Effect of co-administered drugs on the pharmacokinetics of ticagrelor
+
+*See Dosage and Administration (2)
 
 Effects of BRILINTA on Other Drugs
 
