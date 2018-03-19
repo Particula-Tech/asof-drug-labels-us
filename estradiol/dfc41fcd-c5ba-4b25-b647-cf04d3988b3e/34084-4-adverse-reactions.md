@@ -37,4 +37,4 @@ Headache; migraine; dizziness; mental depression; nervousness; mood disturbances
 
 ## 8. Miscellaneous
 
-Increase or decrease in weight; glucose intolerance; edema; arthralgias; leg cramps; changes in libido; urticaria, exacerbation of asthma; increased triglycerides; hypersensitivity (including erythema multiforme).
+Increase or decrease in weight; glucose intolerance; edema; arthralgias; leg cramps; changes in libido; urticaria; exacerbation of asthma; increased triglycerides; hypersensitivity.

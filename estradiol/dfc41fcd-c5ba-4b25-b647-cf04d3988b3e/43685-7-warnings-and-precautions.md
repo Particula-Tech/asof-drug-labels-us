@@ -5,24 +5,24 @@ See BOXED WARNINGS.
 Systemic absorption may occur with the use of ESTRACE (estradiol vaginal cream, USP, 0.01%).
 The warnings, precautions, and adverse reactions associated with oral estrogen treatment should be taken into account.
 
-## 1. Cardiovascular disorders
+## 1. Cardiovascular Disorders
 
 An increased risk of stroke and DVT has been reported with estrogen-alone therapy.
 An increased risk of PE, DVT, stroke and MI has been reported with estrogen plus progestin therapy.
-Should any of these occur or be suspected, estrogens should be discontinued immediately.
+Should any of these occur or be suspected, estrogen with or without progestin therapy should be discontinued immediately.
 
-Risk factors for arterial vascular disease (e.g., hypertension, diabetes mellitus, tobacco use, hypercholesterolemia, and obesity) and/or venous thromboembolism (e.g., personal history or family history of VTE, obesity, and systemic lupus erythematosus) should be managed appropriately.
+Risk factors for arterial vascular disease (e.g., hypertension, diabetes mellitus, tobacco use, hypercholesterolemia, and obesity) and/or venous thromboembolism (VTE) (e.g., personal history or family history of VTE, obesity, and systemic lupus erythematosus) should be managed appropriately.
 
 ### a.Stroke
 
-In the WHI estrogen-alone substudy, a statistically significant increased risk of stroke was reported in women 50 to 79 years of age receiving placebo (45 versus 33 per 10,000 women-years).
+In the WHI estrogen-alone substudy, a statistically significant increased risk of stroke was reported in women 50 to 79 years of age receiving daily CE (0.625 mg)-alone compared to women in the same age group receiving placebo (45 versus 33 per 10,000 women-years).
 The increase in risk was demonstrated in year one and persisted [see CLINICAL STUDIES].
 Should a stroke occur or be suspected, estrogen-alone therapy should be discontinued immediately.
 
-Subgroup analyses of women 50 to 59 years of age suggest no increased risk of stroke for those women receiving CE (0.625 mg)-alone versus those receiving placebo (18 versus 21 per 10,000 women years)3.
+Subgroup analyses of women 50 to 59 years of age suggest no increased risk of stroke for those women receiving CE (0.625 mg)-alone versus those receiving placebo (18 versus 21 per 10,000 women-years)3.
 
 In the WHI estrogen plus progestin substudy, a statistically significant increased risk of stroke was reported in women 50 to 79 years of age receiving daily CE (0.625 mg) plus MPA (2.5 mg) compared to women in the same age group receiving placebo (33 versus 25 per 10,000 women-years) [see CLINICAL STUDIES].
-The increase in risk was demonstrated after the first year and persisted 3.
+The increase in risk was demonstrated after the first year and persisted3.
 Should a stroke occur or be suspected, estrogen plus progestin therapy should be discontinued immediately.
 
 ### b.Coronary Heart Disease
@@ -49,7 +49,7 @@ Should a VTE occur or be suspected, estrogen-alone therapy should be discontinue
 
 In the WHI estrogen plus progestin substudy, a statistically significant 2-fold greater rate of VTE was reported in women receiving daily CE (0.625 mg) plus MPA (2.5 mg) compared to women receiving placebo (35 versus 17 per 10,000 women-years).
 Statistically significant increases in risk for both DVT (26 versus 13 per 10,000 women-years) and PE (18 versus 8 per 10,000 women-years) were also demonstrated.
-The increase in VTE risk was observed during the first year and persisted 6[see CLINICAL STUDIES].
+The increase in VTE risk was observed during the first year and persisted6 [see CLINICAL STUDIES].
 Should a VTE occur or be suspected, estrogen plus progestin therapy should be discontinued immediately.
 
 If feasible, estrogens should be discontinued at least 4 to 6 weeks before surgery of the type associated with an increased risk of thromboembolism, or during periods of prolonged immobilization.
@@ -64,7 +64,7 @@ Most studies show no significant increased risk associated with use of estrogens
 The greatest risk appears associated with prolonged use, with increased risks of 15- to 24-fold for five to ten years or more and this risk has been shown to persist for at least 8 to 15 years after estrogen therapy is discontinued.
 
 Clinical surveillance of all women using estrogen-alone or estrogen plus progestin therapy is important.
-Adequate diagnostic measures, including directed or random endometrial sampling when indicated, should be undertaken to rule out malignancy in postmenopausal women with undiagnosed persistent or recurring abnormal vaginal bleeding.
+Adequate diagnostic measures, including directed or random endometrial sampling when indicated, should be undertaken to rule out malignancy in postmenopausal women with undiagnosed persistent or recurring abnormal genital bleeding.
 
 There is no evidence that the use of natural estrogens results in a different endometrial risk profile than synthetic estrogens of equivalent estrogen dose.
 Adding a progestin to estrogen therapy has been shown to reduce the risk of endometrial hyperplasia, which may be a precursor to endometrial cancer.
@@ -104,7 +104,7 @@ However, the duration of exposure associated with increased risk is not consiste
 
 ## 3.Probable Dementia
 
-In the WHIMS estrogen-alone ancillary study of WHI, a population 2,947 hysterectomized women 65 to 79 years of age was randomized to daily CE (0.625 mg)-alone or placebo.
+In the WHIMS estrogen-alone ancillary study of WHI, a population of 2,947 hysterectomized women 65 to 79 years of age was randomized to daily CE (0.625 mg)-alone or placebo.
 
 After an average follow-up of 5.2 years, 28 women in the estrogen-alone group and 19 women in the placebo group were diagnosed with probable dementia.
 The relative risk of probable dementia for CE-alone versus placebo was 1.49 (95 percent CI, 0.83-2.66).
@@ -214,16 +214,17 @@ Serum FSH and estradiol levels have not been shown to be useful in the managemen
 2. Increased thyroid-binding globulin (TBG) leading to increased circulating total thyroid hormone levels, as measured by protein-bound iodine (PBI), T4 levels (by column or by radioimmunoassay) or T3 levels by radioimmunoassay.
    T3 resin uptake is decreased, reflecting the elevated TBG.
    Free T4 and free T3 concentrations are unaltered.
-   Women on thyroid replacement therapy may require higher doses of thyroid hormone.
+   Women on thyroid replacement therapy may require higher dose of thyroid hormone.
 3. Other binding proteins may be elevated in serum, i.e., corticosteroid binding globulin (CBG), sex hormone-binding globulin (SHBG), leading to increased total circulating corticosteroids and sex steroids, respectively.
    Free hormone concentrations, such as testosterone and estradiol, may be decreased.
    Other plasma proteins may be increased (angiotensinogen/renin substrate, alpha-1-antitrypsin, ceruloplasmin).
-4. Increased plasma high-density (HDL) and HDL2 cholesterol subfraction concentrations, reduced low density lipoprotein (LDL) cholesterol concentration, increased triglycerides levels.
+4. Increased plasma high-density lipoprotein (HDL) and HDL2 cholesterol subfraction concentrations, reduced low-density lipoprotein (LDL) cholesterol concentration, increased triglycerides levels.
 5. Impaired glucose tolerance.
 
 ## E. Carcinogenesis, Mutagenesis, and Impairment of Fertility
 
-Long-term continuous administration of estrogen, with and without progestin, in women with and without a uterus, has shown an increased risk of endometrial cancer, breast cancer, and ovarian cancer (See BOXED WARNINGS, WARNINGS and PRECAUTIONS).
+Long-term continuous administration of estrogen, with and without progestin, in women with and without a uterus, has shown an increased risk of endometrial cancer, breast cancer, and ovarian cancer.
+(See BOXED WARNINGS, WARNINGS and PRECAUTIONS.)
 
 Long term continuous administration of natural and synthetic estrogens in certain animal species increases the frequency of carcinomas of the breast, uterus, cervix, vagina, testis, and liver.
 

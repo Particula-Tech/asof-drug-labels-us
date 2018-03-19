@@ -50,10 +50,10 @@ Shumaker SA, et al. Conjugated Equine Estrogens and Incidence of Probable Dement
 JAMA.
 2004;291:29472958.
 
-Distributed By: Allergan USA, Inc. Irvine, CA 92612
+Distributed by: Allergan USA, Inc. Irvine, CA 92612
 
-© 2017 Allergan.
+© 2018 Allergan.
 All rights reserved.
-Revised: 05/2017
+Revised: 02/2018
 
-ESTRACE®CREAM Rx only (estradiol vaginal cream, USP, 0.01%)
+ESTRACE® CREAM Rx only (estradiol vaginal cream, USP, 0.01%)

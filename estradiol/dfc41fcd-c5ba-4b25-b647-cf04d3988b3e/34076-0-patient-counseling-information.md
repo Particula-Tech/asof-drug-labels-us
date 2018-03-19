@@ -1,11 +1,12 @@
 # INFORMATION FOR THE PATIENT
 
-Read this PATIENT INFORMATION before you start using ESTRACE Vaginal Cream and read what you get each time you refill your ESTRACE Vaginal Cream prescrption.
+Read this PATIENT INFORMATION before you start using ESTRACE Vaginal Cream and read what you get each time you refill your ESTRACE Vaginal Cream prescription.
 There may be new information.
 This information does not take the place of talking with your healthcare provider about your menopausal symptoms or your treatment.
 
-| What is the most important information I should know about ESTRACE Vaginal Cream (an estrogen hormone)? Using estrogen-alone may increase your chance of getting cancer of the uterus (womb). Report any unusual vaginal bleeding right away while you are using ESTRACE Vaginal Cream. Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb). Your healthcare provider should check any unusual vaginal bleeding to find out the cause. Do not use estrogen-alone to prevent heart disease, heart attacks, strokes or dementia (decline in brain function) Using estrogen-alone may increase your chances of getting strokes or blood clots Using estrogen-alone may increase your chance of getting dementia, based on a study of women age 65 years of age or older Do not use estrogens with progestins to prevent heart disease, heart attacks, strokes or dementia Using estrogens with progestins may increase your chances of getting heart attacks, strokes, breast cancer, or blood clots. Using estrogens with progestins may increase your chance of getting dementia, based on a study of women age 65 years of age or older You and your healthcare provider should talk regularly about whether you still need treatment with ESTRACE Vaginal Cream. |
+| What is the most important information I should know about ESTRACE Vaginal Cream (an estrogen hormone)? |
 | --- |
+| Using estrogen-alone may increase your chance of getting cancer of the uterus (womb). Report any unusual vaginal bleeding right away while you are using ESTRACE Vaginal Cream. Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb). Your healthcare provider should check any unusual vaginal bleeding to find out the cause. Do not use estrogen-alone to prevent heart disease, heart attacks, strokes or dementia (decline in brain function) Using estrogen-alone may increase your chances of getting strokes or blood clots Using estrogen-alone may increase your chance of getting dementia, based on a study of women age 65 years of age or older Do not use estrogens with progestins to prevent heart disease, heart attacks, strokes or dementia Using estrogens with progestins may increase your chances of getting heart attacks, strokes, breast cancer, or blood clots Using estrogens with progestins may increase your chance of getting dementia, based on a study of women age 65 years of age or older You and your healthcare provider should talk regularly about whether you still need treatment with ESTRACE Vaginal Cream |
 
 What is ESTRACE Vaginal Cream?
 
@@ -59,37 +60,28 @@ ESTRACE Vaginal Cream is a cream that you place in your vagina with the applicat
 - Estrogens should be used at the lowest dose possible for your treatment only as long as needed.
   You and your healthcare provider should talk regularly (for example, every 3 to 6 months) about the dose you are using and whether you still need treatment with ESTRACE Vaginal Cream
 
-Step 1.
-Remove the cap from the tube.
-(There is no seal on tube)
-
-Step 2.
-Do not separate plunger from applicator.
-
-Step 3.
-Screw threaded end of applicator onto the open tube until secure.
-
-Step 4.
-Position upright in order to view the calibrated gram amounts.
-
-Step 5.
-Gently squeeze tube from the bottom to expel the prescribed amount of ESTRACE Vaginal Cream into the applicator.
-As cream is squeezed out, plunger will rise to indicate amount of grams.
-
-Step 6.
-Unscrew applicator from tube.
-
-Step 7.
-Replace cap on tube.
-
-Step 8.
-Lie on back with knees drawn up.
-To deliver medication, gently insert applicator deeply into the vagina and press plunger downward to its original position.
-
-Step 9.
-To cleanse applicator: Pull plunger to remove it from barrel.
-Wash with mild soap and warm water.
-(DO NOT BOIL OR USE HOT WATER.)
+- Step 1.
+  Remove the cap from the tube.
+  (There is no seal on tube)
+- Step 2.
+  Do not separate plunger from applicator.
+- Step 3.
+  Screw threaded end of applicator onto the open tube until secure.
+- Step 4.
+  Position upright in order to view the calibrated gram amounts.
+- Step 5.
+  Gently squeeze tube from the bottom to expel the prescribed amount of ESTRACE Vaginal Cream into the applicator.
+  As cream is squeezed out, plunger will rise to indicate amount of grams.
+- Step 6.
+  Unscrew applicator from tube.
+- Step 7.
+  Replace cap on tube.
+- Step 8.
+  Lie on back with knees drawn up.
+  To deliver medication, gently insert applicator deeply into vagina and press plunger downward to its original position.
+- Step 9.
+  To cleanse applicator: Pull plunger to remove it from barrel.
+  Wash with mild soap and warm water (DO NOT BOIL OR USE HOT WATER).
 
 What are the possible side effects of ESTRACE Vaginal Cream?
 
