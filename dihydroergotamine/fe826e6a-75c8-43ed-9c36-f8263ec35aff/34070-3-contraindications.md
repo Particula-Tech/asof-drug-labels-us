@@ -1,10 +1,10 @@
 # CONTRAINDICATIONS
 
-There have been a few reports of serious adverse events associated with the coadministration of dihydroergotamine and potent CYP 3A4 inhibitors, such as protease inhibitors and macrolide antibiotics, resulting in vasospasm that led to cerebral ischemia and/or ischemia of the extremities.
-The use of potent CYP 3A4 inhibitors (ritonavir, nelfinavir, indinavir, erythromycin, clarithromycin, troleandomycin, ketoconazole, itraconazole) with dihydroergotamine is, therefore contraindicated (See WARNINGS: CYP 3A4 Inhibitors).
+There have been a few reports of serious adverse events associated with the coadministration of dihydroergotamine and potent CYP3A4 inhibitors, such as protease inhibitors and macrolide antibiotics, resulting in vasospasm that led to cerebral ischemia and/or ischemia of the extremities.
+The use of potent CYP3A4 inhibitors (i.e., ritonavir, nelfinavir, indinavir, erythromycin, clarithromycin, troleandomycin, ketoconazole, itraconazole) with dihydroergotamine is, therefore, contraindicated (see WARNINGS, CYP3A4 Inhibitors).
 
 D.H.E.
-45® (dihydroergotamine mesylate) Injection, USP should not be given to patients with ischemic heart disease (angina pectoris, history of myocardial infarction, or documented silent ischemia) or to patients who have clinical symptoms or findings consistent with coronary artery vasospasm including Prinzmetal's variant angina.
+45® (dihydroergotamine mesylate) Injection, USP should not be given to patients with ischemic heart disease (e.g., angina pectoris, history of myocardial infarction, or documented silent ischemia) or to patients who have clinical symptoms or findings consistent with coronary artery vasospasm including Prinzmetal's variant angina.
 (See WARNINGS.)
 
 Because D.H.E.
@@ -25,8 +25,8 @@ Dihydroergotamine possesses oxytocic properties and, therefore, should not be ad
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
 
 There are no adequate studies of dihydroergotamine in human pregnancy, but developmental toxicity has been demonstrated in experimental animals.
-In embryo-fetal development studies of dihydroergotamine mesylate nasal spray, intranasal administration to pregnant rats throughout the period of organogenesis resulted in decreased fetal body weights and/or skeletal ossification at doses of 0.16 mg/day (associated with maternal plasma dihydroergotamine exposures [AUC] approximately 0.4-1.2 times the exposures in humans receiving the MRDD of 4 mg) or greater.
-A no effect level for embryo-fetal toxicity was not established in rats.
+In embryofetal development studies of dihydroergotamine mesylate nasal spray, intranasal administration to pregnant rats throughout the period of organogenesis resulted in decreased fetal body weights and/or skeletal ossification at doses of 0.16 mg/day (associated with maternal plasma dihydroergotamine exposures [AUC] approximately 0.4-1.2 times the exposures in humans receiving the MRDD of 4 mg) or greater.
+A no effect level for embryofetal toxicity was not established in rats.
 Delayed skeletal ossification was also noted in rabbit fetuses following intranasal administration of 3.6 mg/day (maternal exposures approximately 7 times human exposures at the MRDD) during organogenesis.
 A no effect level was seen at 1.2 mg/day (maternal exposures approximately 2.5 times human exposures at the MRDD).
 

@@ -7,9 +7,8 @@ D.H.E.
 
 1 mg/mL (1 mL ampul)
 
-FOR I.V., I.M. or S.C.
-USE
+FOR INTRAVENOUS, INTRAMUSCULAR, AND SUBCUTANEOUS USE ONLY
 
 10 × 1 mL ampuls Unit Dose Package
 
-VALEANT® Pharmaceuticals North America
+VALEANT

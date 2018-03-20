@@ -3,8 +3,8 @@
 Serious cardiac events, including some that have been fatal, have occurred following use of D.H.E.
 45® (dihydroergotamine mesylate) Injection, USP, but are extremely rare.
 Events reported have included coronary artery vasospasm, transient myocardial ischemia, myocardial infarction, ventricular tachycardia, and ventricular fibrillation.
-(See CONTRAINDICATIONS, WARNINGS, and PRECAUTIONS.).
-Fibrotic complications have been reported in association with long term use of injectable dihydroergotamine mesylate (See WARNINGS: Fibrotic Complications).
+(See CONTRAINDICATIONS, WARNINGS, and PRECAUTIONS.)
+Fibrotic complications have been reported in association with long term use of injectable dihydroergotamine mesylate (see WARNINGS, Fibrotic Complications).
 
 ## Post-introduction Reports
 
@@ -16,3 +16,5 @@ A causal relationship has not been established.
 D.H.E.
 45® (dihydroergotamine mesylate) Injection, USP is not recommended for prolonged daily use.
 (See DOSAGE AND ADMINISTRATION.)
+
+To report SUSPECTED ADVERSE REACTIONS, contact Valeant Pharmaceuticals North America LLC, at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

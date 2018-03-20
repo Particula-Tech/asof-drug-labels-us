@@ -3,14 +3,14 @@
 D.H.E.
 45® (dihydroergotamine mesylate) Injection, USP should only be used where a clear diagnosis of migraine headache has been established.
 
-## CYP 3A4 Inhibitors (e.g. Macrolide Antibiotics and Protease Inhibitors)
+## CYP3A4 Inhibitors (e.g., Macrolide Antibiotics and Protease Inhibitors)
 
-There have been rare reports of serious adverse events in connection with the coadministration of dihydroergotamine and potent CYP 3A4 inhibitors, such as protease inhibitors and macrolide antibiotics, resulting in vasospasm that led to cerebral ischemia and/or and ischemia of the extremities.
-The use of potent CYP 3A4 inhibitors with dihydroergotamine should therefore be avoided (see CONTRAINDICATIONS).
-Examples of some of the more potent CYP 3A4 inhibitors include: anti-fungals ketoconazole and itraconazole, the protease inhibitors ritonavir, nelfinavir, and indinavir, and macrolide antibiotics erythromycin, clarithromycin, and troleandomycin.
-Other less potent CYP 3A4 inhibitors should be administered with caution.
+There have been rare reports of serious adverse events in connection with the coadministration of dihydroergotamine and potent CYPA4 inhibitors, such as protease inhibitors and macrolide antibiotics, resulting in vasospasm that led to cerebral ischemia and/or and ischemia of the extremities.
+The use of potent CYP3A4 inhibitors with dihydroergotamine should therefore be avoided (see CONTRAINDICATIONS).
+Examples of some of the more potent CYP3A4 inhibitors include: antifungals ketoconazole and itraconazole, the protease inhibitors ritonavir, nelfinavir, and indinavir, and macrolide antibiotics erythromycin, clarithromycin, and troleandomycin.
+Other less potent CYP3A4 inhibitors should be administered with caution.
 Less potent inhibitors include saquinavir, nefazodone, fluconazole, grapefruit juice, fluoxetine, fluvoxamine, zileuton, and clotrimazole.
-These lists are not exhaustive, and the prescriber should consider the effects on CYP 3A4 of other agents being considered for concomitant use with dihydroergotamine.
+These lists are not exhaustive, and the prescriber should consider the effects on CYP3A4 of other agents being considered for concomitant use with dihydroergotamine.
 
 ## Fibrotic Complications
 
@@ -37,12 +37,12 @@ For patients with risk factors predictive of CAD who are determined to have a sa
 45® (dihydroergotamine mesylate)
 
 Injection, USP take place in the setting of a physician's office or similar medically staffed and equipped facility unless the patient has previously received dihydroergotamine mesylate.
-Because cardiac ischemia can occur in the absence of clinical symptoms, consideration should be given to obtaining on the first occasion of use an electrocardiogram (ECG) during the interval immediately following D.H.E.
-45® (dihydroergotamine mesylate) Injection, USP, in those patients with risk factors.
+Because cardiac ischemia can occur in the absence of clinical symptoms, consideration should be given to obtaining on the first occasion of use, an electrocardiogram (ECG) during the interval immediately following D.H.E.
+45® (dihydroergotamine mesylate) Injection, USP in those patients with risk factors.
 
 It is recommended that patients who are intermittent long-term users of D.H.E.
 45® (dihydroergotamine mesylate) Injection, USP and who have or acquire risk factors predictive of CAD, as described above, undergo periodic interval cardiovascular evaluation as they continue to use D.H.E.
-45® (dihydroergotamine mesylate) injection, USP.
+45® (dihydroergotamine mesylate) Injection, USP.
 
 The systematic approach described above is currently recommended as a method to identify patients in whom D.H.E.
 45® (dihydroergotamine mesylate) Injection, USP may be used to treat migraine headaches with an acceptable margin of cardiovascular safety.
@@ -57,10 +57,11 @@ Considering the extent of use of dihydroergotamine mesylate in patients with mig
 
 Cerebral hemorrhage, subarachnoid hemorrhage, stroke, and other cerebrovascular events have been reported in patients treated with D.H.E.
 45® (dihydroergotamine mesylate) Injection, USP; and some have resulted in fatalities.
-In a number of cases, it appears possible that the cerebrovascular events were primary, the D.H.E.45® (dihydroergotamine mesylate) Injection, USP having been administered in the incorrect belief that the symptoms experienced were a consequence of migraine, when they were not.
+In a number of cases, it appears possible that the cerebrovascular events were primary, the D.H.E.
+45® (dihydroergotamine mesylate) Injection, USP having been administered in the incorrect belief that the symptoms experienced were a consequence of migraine, when they were not.
 It should be noted that patients with migraine may be at increased risk of certain cerebrovascular events (e.g., stroke, hemorrhage, transient ischemic attack).
 
-## Other Vasospasm Related Events
+## Other Vasospasm-Related Events
 
 D.H.E.
 45® (dihydroergotamine mesylate) Injection, USP, like other ergot alkaloids, may cause vasospastic reactions other than coronary artery vasospasm.
@@ -73,7 +74,7 @@ In patients with compromised circulation, persistent vasospasm may result in gan
 D.H.E.
 45® (dihydroergotamine mesylate) Injection, USP should be discontinued immediately if signs or symptoms of vasoconstriction develop.
 
-## Increase In Blood Pressure
+## Increase in Blood Pressure
 
 Significant elevation in blood pressure has been reported on rare occasions in patients with and without a history of hypertension treated with dihydroergotamine mesylate injection.
 D.H.E.
@@ -91,10 +92,6 @@ D.H.E.
 Similarly, patients who experience other symptoms or signs suggestive of decreased arterial flow, such as ischemic bowel syndrome or Raynaud's syndrome following the use of any 5-HT agonist are candidates for further evaluation.
 (See WARNINGS.)
 
-### Fibrotic Complications
-
-see WARNINGS: Fibrotic Complications
-
 ## Information for Patients
 
 The text of a patient information sheet is printed at the end of this insert.
@@ -103,11 +100,10 @@ To assure safe and effective use of D.H.E.
 
 Patients should be advised to report to the physician immediately any of the following: numbness or tingling in the fingers and toes, muscle pain in the arms and legs, weakness in the legs, pain in the chest, temporary speeding or slowing of the heart rate, swelling, or itching.
 
-Prior to the initial use of the product by a patient, the prescriber should take steps to ensure that the patient understands how to use the product as provided.
-(See Patient Information Sheet and product packaging.)
+Prior to the initial use of the product by a patient, the prescriber should take steps to ensure that the patient understands how to use the product as provided (see Patient Information Sheet and product packaging).
 
 Administration of D.H.E.
-45® (dihydroergotamine mesylate) Injection USP, should not exceed the dosing guidelines and should not be used for chronic daily administration (see DOSAGE AND ADMINISTRATION).
+45® (dihydroergotamine mesylate) Injection, USP should not exceed the dosing guidelines and should not be used for chronic daily administration (see DOSAGE AND ADMINISTRATION).
 
 ## Drug Interactions
 
@@ -133,9 +129,7 @@ Although the results of a clinical study did not indicate a safety problem assoc
 
 Nicotine may provoke vasoconstriction in some patients, predisposing to a greater ischemic response to ergot therapy.
 
-### CYP 3A4 Inhibitors (e.g. Macrolide Antibiotics and Protease Inhibitors)
-
-See CONTRAINDICATIONS and WARNINGS.
+### CYP3A4 Inhibitors (e.g., Macrolide Antibiotics and Protease Inhibitors) (See CONTRAINDICATIONS and WARNINGS.)
 
 ### SSRI's
 
@@ -168,9 +162,7 @@ There was no evidence of impairment of fertility in rats given intranasal doses 
 
 ## Pregnancy
 
-### Pregnancy Category X
-
-See CONTRAINDICATIONS.
+### Pregnancy Category X (See CONTRAINDICATIONS.)
 
 ## Nursing Mothers
 

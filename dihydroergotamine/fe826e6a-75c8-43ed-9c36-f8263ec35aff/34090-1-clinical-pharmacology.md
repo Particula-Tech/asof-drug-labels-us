@@ -7,7 +7,7 @@ It also binds with high affinity to serotonin 5-HT1A, 5-HT2A, and 5-HT2C recepto
 
 The therapeutic activity of dihydroergotamine in migraine is generally attributed to the agonist effect at 5-HT1D receptors.
 Two current theories have been proposed to explain the efficacy of 5-HT1D receptor agonists in migraine.
-One theory suggests that activation of 5-HT1D receptors located on intracranial blood vessels, including those on arterio-venous anastomoses, leads to vasoconstriction, which correlates with the relief of migraine headache.
+One theory suggests that activation of 5-HT1D receptors located on intracranial blood vessels, including those on arteriovenous anastomoses, leads to vasoconstriction, which correlates with the relief of migraine headache.
 The alternative hypothesis suggests that activation of 5-HT1D receptors on sensory nerve endings of the trigeminal system results in the inhibition of pro-inflammatory neuropeptide release.
 
 In addition, dihydroergotamine possesses oxytocic properties.
@@ -17,7 +17,7 @@ In addition, dihydroergotamine possesses oxytocic properties.
 
 ### Absorption
 
-Absolute bioavailability for the subcutaneous and intramuscular route have not been determined, however, no difference was observed in dihydroergotamine bioavailability from intramuscular and subcutaneous doses.
+Absolute bioavailability for the subcutaneous and intramuscular route have not been determined; however, no difference was observed in dihydroergotamine bioavailability from intramuscular and subcutaneous doses.
 
 Dihydroergotamine mesylate is poorly bioavailable following oral administration.
 
@@ -30,7 +30,7 @@ The apparent steady-state volume of distribution is approximately 800 liters.
 
 Four dihydroergotamine mesylate metabolites have been identified in human plasma following oral administration.
 The major metabolite, 8´-β-hydroxydihydroergotamine, exhibits affinity equivalent to its parent for adrenergic and 5-HT receptors and demonstrates equivalent potency in several venoconstrictor activity models, in vivo and in vitro.
-The other metabolites, i.e., dihydrolysergic acid, dihydrolysergic amide, and a metabolite formed by oxidative opening of the proline ring are of minor importance.
+The other metabolites, (i.e., dihydrolysergic acid, dihydrolysergic amide) and a metabolite formed by oxidative opening of the proline ring are of minor importance.
 Following nasal administration, total metabolites represent only 20%-30% of plasma AUC.
 Quantitative pharmacokinetic characterization of the four metabolites has not been performed.
 
@@ -46,10 +46,10 @@ The decline of plasma dihydroergotamine after intramuscular or intravenous admin
 
 No studies have been conducted on the effect of renal or hepatic impairment, gender, race, or ethnicity on dihydroergotamine pharmacokinetics.
 D.H.E.
-45® (dihydroergotamine mesylate) Injection, USP is contraindicated in patients with severely impaired hepatic or renal function (See CONTRAINDICATIONS.)
+45® (dihydroergotamine mesylate) Injection, USP is contraindicated in patients with severely impaired hepatic or renal function (see CONTRAINDICATIONS).
 
 ### Interactions
 
-Pharmacokinetic interactions have been reported in patients treated orally with other ergot alkaloids (e.g., increased levels of ergotamine) and macrolide antibiotics, principally troleandomycin, presumably due to inhibition of cytochrome P450 3A metabolism of the alkaloids by troleandomycin.
-Dihydroergotamine has also been shown to be an inhibitor of cytochrome P450 3A catalyzed reactions and rare reports of ergotism have been obtained from patients treated with dihydroergotamine and macrolide antibiotics (e.g., troleandomycin, clarithromycin, erythromycin), and in patients treated with dihydroergotamine and protease inhibitors (e.g. ritonavir), presumably due to inhibition of cytochrome P450 3A metabolism of ergotamine (See CONTRAINDICATIONS).
+Pharmacokinetic interactions have been reported in patients treated orally with other ergot alkaloids (e.g., increased levels of ergotamine) and macrolide antibiotics, principally troleandomycin, presumably due to inhibition of cytochrome P4503A metabolism of the alkaloids by troleandomycin.
+Dihydroergotamine has also been shown to be an inhibitor of cytochrome P4503A catalyzed reactions and rare reports of ergotism have been obtained from patients treated with dihydroergotamine and macrolide antibiotics (e.g., troleandomycin, clarithromycin, erythromycin), and in patients treated with dihydroergotamine and protease inhibitors (e.g., ritonavir), presumably due to inhibition of cytochrome P4503A metabolism of ergotamine (see CONTRAINDICATIONS).
 No pharmacokinetic interactions involving other cytochrome P450 isoenzymes are known.
