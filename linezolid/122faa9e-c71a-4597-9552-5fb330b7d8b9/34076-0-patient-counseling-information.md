@@ -25,8 +25,13 @@ Patients should be advised that:
 - Inform patient, particularly those with diabetes mellitus that hypoglycemic reactions, such as diaphoresis and tremulousness, along with low blood glucose measurements may occur when treated with linezolid.
   If such reactions occur, patients should contact a physician or other health professional for proper treatment.
 
+This product's label may have been updated.
+For current full prescribing information, please visit www.pfizer.com.
+
 Distributed by Pharmacia & Upjohn Co Division of Pfizer Inc NY, NY 10017
 
-NOVAPLUS is a registered trademark of Novation, LLC.
+novaplus™
 
-LAB-0738-3.0
+NOVAPLUS is a registered trademark of Vizient, Inc.
+
+LAB-0738-5.0
