@@ -9,7 +9,7 @@ Dosage Guidelines for Linezolid
 
 | InfectionDue to the designated pathogens [see Indications and Usage (1)] | Pediatric PatientsNeonates less than 7 days: Most pre-term neonates less than 7 days of age (gestational age less than 34 weeks) have lower systemic linezolid clearance values and larger AUC values than many full-term neonates and older infants. These neonates should be initiated with a dosing regimen of 10 mg/kg every 12 hours. Consideration may be given to the use of 10 mg/kg every 8 hours regimen in neonates with a sub-optimal clinical response. All neonatal patients should receive 10 mg/kg every 8 hours by 7 days of life [see Use in Specific Populations (8.4) and Clinical Pharmacology (12.3)]. (Birth through 11 Years of Age) | Adults and Adolescents (12 Years and Older) |  |
 | --- | --- | --- | --- |
-|  | Dosage and Route of Administration |  | Recommended Duration of Treatment (consecutive days) |
+|  | Dosage, Route and Frequency of Administration |  | Recommended Duration of Treatment (consecutive days) |
 | Nosocomial pneumonia | 10 mg/kg intravenously or oralOral dosing using either linezolid tablets or linezolid for oral suspension [see How Supplied/Storage and Handling (16)]. every 8 hours | 600 mg intravenously or oral every 12 hours | 10 to 14 |
 | Community-acquired pneumonia, including concurrent bacteremia |  |  |  |
 | Complicated skin and skin structure infections |  |  |  |
