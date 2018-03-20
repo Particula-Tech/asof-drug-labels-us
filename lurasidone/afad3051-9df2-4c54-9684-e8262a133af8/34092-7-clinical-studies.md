@@ -27,9 +27,9 @@ The results of the studies follow:
 4. Study 4: In a 6-week, placebo-controlled trial (N=489) involving three fixed doses of LATUDA (40, 80 or 120 mg/day), only the 80 mg/day dose of LATUDA at Endpoint was superior to placebo on the PANSS total score, and the CGI-S.
 5. Study 5: In a 6-week, placebo- and active-controlled trial (N=482) involving two fixed doses of LATUDA (80 or 160 mg/day) and an active control (quetiapine extended-release), both LATUDA doses and the active control at Endpoint were superior to placebo on the PANSS total score, and the CGI-S.
 
-Thus, the efficacy of LATUDA at doses of 40, 80, 120 and 160 mg/day has been established (Table 30).
+Thus, the efficacy of LATUDA at doses of 40, 80, 120 and 160 mg/day has been established (Table 35).
 
-Table 30: Primary Efficacy Results for Studies in Adult Patients with Schizophrenia (BPRSd or PANSS Scores)
+Table 35: Primary Efficacy Results for Studies in Adult Patients with Schizophrenia (BPRSd or PANSS Scores)
 
 | Study | Treatment Group | Primary Efficacy Measure: BPRSd |  |  |
 | --- | --- | --- | --- | --- |
@@ -59,7 +59,7 @@ Table 30: Primary Efficacy Results for Studies in Adult Patients with Schizophre
 
 Examination of population subgroups based on age (there were few patients over 65), gender and race did not reveal any clear evidence of differential responsiveness.
 
-Adolescents
+Adolescents (13-17 years)
 
 The efficacy of LATUDA, was established in a 6-week, multicenter, randomized, double-blind, placebo-controlled study of adolescents (13 to 17 years) who met DSM-IV-TR criteria for schizophrenia (N=326).
 Patients were randomized to one of two fixed-doses of LATUDA (40 or 80 mg/day) or placebo.
@@ -70,13 +70,13 @@ The key secondary instrument was the CGI-S.
 For both dose groups, LATUDA was superior to placebo in reduction of PANSS and CGI-S scores at Week 6.
 On average, the 80 mg/day dose did not provide additional benefit compared to the 40 mg/day dose.
 
-The primary efficacy results are provided in Table 31.
+The primary efficacy results are provided in Table 36.
 
-Table 31: Primary Efficacy Results (PANSS Total Score) for the Adolescent Schizophrenia Study
+Table 36: Primary Efficacy Results (PANSS Total Score) for the Adolescent Schizophrenia Study
 
-| Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Difference (95% CI) |  |  |
-| --- | --- | --- | --- | --- |
 |  | Treatment Group | Primary Efficacy Measure: PANSS |  |  |
+| --- | --- | --- | --- | --- |
+| Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Difference a (95% CI) |  |  |
 |  | LATUDA (40 mg/day)* | 94.5 (10.97) | -18.6 (1.59) | -8.0 (-12.4, -3.7) |
 | LATUDA (80 mg/day)* | 94.0 (11.12) | -18.3 (1.60) | -7.7 (-12.1, -3.4) |  |
 | Placebo | 92.8 (11.08) | -10.5 (1.59) | -- |  |
@@ -84,7 +84,9 @@ Table 31: Primary Efficacy Results (PANSS Total Score) for the Adolescent Schizo
 | a Difference (drug minus placebo) in least-squares mean change from baseline. |  |  |  |  |
 | * Doses statistically significantly superior to placebo. |  |  |  |  |
 
-## 14.2. Depressive Episodes Associated with Bipolar I Disorder
+## 14.2 Depressive Episodes Associated with Bipolar I Disorder
+
+Adults
 
 Monotherapy
 
@@ -96,7 +98,7 @@ The primary endpoint was the change from baseline in MADRS score at Week 6.
 The key secondary instrument was the Clinical Global Impression-Bipolar-Severity of Illness scale (CGI-BP-S), a clinician-rated scale that measures the subject's current illness state on a 7-point scale, where a higher score is associated with greater illness severity.
 
 For both dose groups, LATUDA was superior to placebo in reduction of MADRS and CGI-BP-S scores at Week 6.
-The primary efficacy results are provided in Table 32.
+The primary efficacy results are provided in Table 37.
 The high dose range (80 to 120 mg per day) did not provide additional efficacy on average, compared to the low dose range (20 to 60 mg per day).
 
 Adjunctive Therapy with Lithium or Valproate
@@ -108,9 +110,9 @@ The primary rating instrument used to assess depressive symptoms in this study w
 The primary endpoint was the change from baseline in MADRS score at Week 6.
 The key secondary instrument was the CGI-BP-S scale.
 
-LATUDA was superior to placebo in reduction of MADRS and CGI-BP-S scores at Week 6, as an adjunctive therapy with lithium or valproate (Table 32).
+LATUDA was superior to placebo in reduction of MADRS and CGI-BP-S scores at Week 6, as an adjunctive therapy with lithium or valproate (Table 37).
 
-Table 32: Primary Efficacy Results for Adult Studies in Depressive Episodes Associated with Bipolar I Disorder (MADRS Scores)
+Table 37: Primary Efficacy Results for Adult Studies in Depressive Episodes Associated with Bipolar I Disorder (MADRS Scores)
 
 | Study | Treatment Group | Primary Efficacy Measure: MADRS |  |  |
 | --- | --- | --- | --- | --- |
@@ -122,3 +124,28 @@ Table 32: Primary Efficacy Results for Adult Studies in Depressive Episodes Asso
 | Placebo + lithium or valproate | 30.8 (4.8) | -13.5 (0.9) | -- |  |
 | SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: confidence interval, unadjusted for multiple comparisons. |  |  |  |  |
 | a Difference (drug minus placebo) in least-squares mean change from baseline. * Treatment group statistically significantly superior to placebo. |  |  |  |  |
+
+Pediatric Patients (10 to 17 years)
+
+The efficacy of LATUDA was established in a 6-week, multicenter, randomized, double-blind, placebo-controlled study of pediatric patients (10 to 17 years) who met DSM-5 criteria for a major depressive episode associated with bipolar I disorder, with or without rapid cycling, and without psychotic features (N=343).
+Patients were randomized to flexibly dosed LATUDA 20 to 80 mg/day or placebo.
+At the end of the clinical study, most patients (67%) received 20 mg/day or 40 mg/day.
+
+The primary rating scale used to assess depressive symptoms in this study was the Children's Depression Rating Scale, Revised (CDRS-R) total score.
+The CDRS-R is a 17-item clinician-rated scale with total scores ranging from 17 to 113.
+The primary endpoint was the change from baseline in CDRS-R score at Week 6.
+The key secondary endpoint was the change from baseline in CGI-BP-S depression score.
+
+LATUDA was superior to placebo in reduction of CDRS-R total score and CGI-BP-S depression score at Week 6.
+The primary efficacy results are provided in Table 38.
+
+Table 38: Primary Efficacy Results for the Study in Depressive Episodes Associated with Bipolar I Disorder (CDRS-R Total Score) in Pediatric Patients (10 to 17 years)
+
+|  | Treatment Group | Primary Efficacy Measure: CDRS-R |  |  |
+| --- | --- | --- | --- | --- |
+| Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Differencea (95% CI) |  |  |
+|  | LATUDA (20 to 80 mg/day)* | 59.2 (8.24) | -21.0 (1.06) | -5.7 (-8.4,-3.0) |
+| Placebo | 58.6 (8.26) | -15.3 (1.08) | -- |  |
+| SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: confidence interval, unadjusted for multiple comparisons. |  |  |  |  |
+| a Difference (drug minus placebo) in least-squares mean change from baseline. |  |  |  |  |
+| * Treatment group statistically significantly superior to placebo. |  |  |  |  |

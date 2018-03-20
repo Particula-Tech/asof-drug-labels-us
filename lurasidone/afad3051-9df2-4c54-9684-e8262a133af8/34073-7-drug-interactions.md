@@ -2,7 +2,7 @@
 
 ## 7.1 Drugs Having Clinically Important Interactions with LATUDA
 
-Table 29: Clinically Important Drug Interactions with Latuda
+Table 34: Clinically Important Drug Interactions with LATUDA
 
 | Strong CYP3A4 Inhibitors |  |
 | --- | --- |
@@ -15,10 +15,10 @@ Table 29: Clinically Important Drug Interactions with Latuda
 | Examples: | Diltiazem, atazanavir, erythromycin, fluconazole, verapamil |
 | Strong CYP3A4 Inducers |  |
 | Clinical Impact: | Concomitant use of LATUDA with strong CYP3A4 inducers decreased the exposure of lurasidone compared to the use of LATUDA alone [see Clinical Pharmacology (12.3)]. |
-| Intervention: | LATUDA should not be used concomitantly with strong CYP3A4 inhibitors [see Contraindications (4)]. |
+| Intervention: | LATUDA should not be used concomitantly with strong CYP3A4 inducers [see Contraindications (4)]. |
 | Examples: | Rifampin, avasimibe, St. John's wort, phenytoin, carbamazepine |
 | Moderate CYP3A4 Inducers |  |
-| Clinical Impact: | Concomitant use of LATUDA with strong CYP3A4 inducers decreased the exposure of lurasidone compared to the use of LATUDA alone [see Clinical Pharmacology (12.3)]. |
+| Clinical Impact: | Concomitant use of LATUDA with moderate CYP3A4 inducers decreased the exposure of lurasidone compared to the use of LATUDA alone [see Clinical Pharmacology (12.3)]. |
 | Intervention: | LATUDA dose should be increased when used concomitantly with moderate inducers of CYP3A4 [see Dosage and Administration (2.6)]. |
 | Examples: | Bosentan, efavirenz, etravirine, modafinil, nafcillin |
 

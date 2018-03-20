@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-The mechanism of action of lurasidone in the treatment of schizophrenia and bipolar depression is unknown.
+The mechanism of action of lurasidone in the treatment of schizophrenia and bipolar depression is unclear.
 However, its efficacy in schizophrenia and bipolar depression could be mediated through a combination of central dopamine D2 and serotonin Type 2 (5HT2A) receptor antagonism.
 
 ## 12.2 Pharmacodynamics
