@@ -9,21 +9,21 @@ Healthcare providers are encouraged to register patients by calling the Antiretr
 
 Risk Summary
 
-Available data from the APR show no difference in the rate of overall birth defects for raltegravir compared to the background rate for major birth defects of 2.7% in the U.S. reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP) [see Data].
+Available data from the APR show no difference in the rate of overall birth defects for raltegravir compared to the background rate for major birth defects of 2.7% in the U.S. reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP) (see Data).
 The rate of miscarriage is not reported in the APR.
 The estimated background rate of miscarriage in clinically recognized pregnancies in the U.S. general population is 15-20%.
 The background risk for major birth defects and miscarriage for the indicated population is unknown.
 Methodological limitations of the APR include the use of MACDP as the external comparator group.
-The MACDP population is not disease-specific, evaluates women and infants from a limited geographic area, and does not include outcomes for births that occurred at <20 weeks gestation [see Data].
+The MACDP population is not disease-specific, evaluates women and infants from a limited geographic area, and does not include outcomes for births that occurred at <20 weeks gestation (see Data).
 
-In animal reproduction studies in rats and rabbits, no evidence of adverse developmental outcomes was observed with oral administration of raltegravir during organogenesis at doses that produced exposures up to approximately 4 times the maximal recommended human dose (MRHD) of 1200 mg [see Data].
+In animal reproduction studies in rats and rabbits, no evidence of adverse developmental outcomes was observed with oral administration of raltegravir during organogenesis at doses that produced exposures up to approximately 4 times the maximal recommended human dose (MRHD) of 1200 mg (see Data).
 
 Data
 
 Human Data
 
-Based on prospective reports from the APR of over 400 exposures to raltegravir during pregnancy resulting in live births (including over 200 exposures in the first trimester), there was no difference between the overall risk of birth defects for raltegravir compared with the background birth defect rate of 2.7% in the U.S. reference population of the MACDP.
-The prevalence of defects in live births was 2.8% (95% CI: 1.1% to 5.8%) following first trimester exposure to raltegravir-containing regimens and 3.4% (95% CI: 1.5% to 6.6%) following second and third trimester exposure to raltegravir-containing regimens.
+Based on prospective reports from the APR of over 500 exposures to raltegravir during pregnancy resulting in live births (including over 250 exposures in the first trimester), there was no difference between the overall risk of birth defects for raltegravir compared with the background birth defect rate of 2.7% in the U.S. reference population of the MACDP.
+The prevalence of defects in live births was 2.9% (95% CI: 1.2% to 5.6%) following first trimester exposure to raltegravir-containing regimens and 3.6% (95% CI: 1.6% to 6.6%) following second and third trimester exposure to raltegravir-containing regimens.
 
 Animal Data
 

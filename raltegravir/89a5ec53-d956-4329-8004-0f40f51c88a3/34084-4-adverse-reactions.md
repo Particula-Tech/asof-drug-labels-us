@@ -19,21 +19,21 @@ In STARTMRK, the rate of discontinuation of therapy due to adverse events throug
 ONCEMRK (ISENTRESS HD 1200 mg [2 × 600 mg] once daily)
 
 In ONCEMRK, subjects received ISENTRESS HD 1200 mg once daily (n=531) or ISENTRESS 400 mg twice daily (n=266) both in combination with emtricitabine (+) tenofovir disoproxil fumarate.
-During double-blind treatment, the total follow-up for subjects with ISENTRESS HD 1200 mg once daily was 516 patient-years and for ISENTRESS 400 mg twice daily was 258 patient-years.
+During double-blind treatment, the total follow-up for subjects with ISENTRESS HD 1200 mg once daily was 913 patient-years and for ISENTRESS 400 mg twice daily was 450 patient-years.
 
-In ONCEMRK, the rate of discontinuation of therapy due to adverse events through Week 48 was 1% in subjects receiving ISENTRESS HD 1200 mg (2 × 600 mg) once daily and 2% in subjects receiving ISENTRESS 400 mg twice daily.
+In ONCEMRK, the rate of discontinuation of therapy due to adverse events through Week 96 was 1% in subjects receiving ISENTRESS HD 1200 mg (2 × 600 mg) once daily and 2% in subjects receiving ISENTRESS 400 mg twice daily.
 
-Clinical adverse reactions of moderate to severe intensity occurring in ≥2% of treatment-naïve subjects treated with ISENTRESS 400 mg twice daily or efavirenz in STARTMRK through Week 240 or ISENTRESS HD 1200 mg once daily or ISENTRESS 400 mg twice daily in ONCEMRK through Week 48 are presented in Table 6.
+Clinical adverse reactions of moderate to severe intensity occurring in ≥2% of treatment-naïve subjects treated with ISENTRESS 400 mg twice daily or efavirenz in STARTMRK through Week 240 or ISENTRESS HD 1200 mg once daily or ISENTRESS 400 mg twice daily in ONCEMRK through Week 96 are presented in Table 6.
 
 In STARTMRK, clinical adverse reactions of all intensities (mild, moderate and severe) occurring in ≥2% of subjects on ISENTRESS 400 mg twice daily through Week 240 also include diarrhea, flatulence, asthenia, decreased appetite, abnormal dreams, depression and nightmare.
-In ONCEMRK, clinical adverse reactions of all intensities (mild, moderate and severe) occurring in ≥2% of subjects on ISENTRESS HD or ISENTRESS 400 mg twice daily through Week 48 also include abdominal pain, diarrhea, vomiting, and decreased appetite.
+In ONCEMRK, clinical adverse reactions of all intensities (mild, moderate and severe) occurring in ≥2% of subjects on ISENTRESS HD or ISENTRESS 400 mg twice daily through Week 96 also include abdominal pain, diarrhea, vomiting, and decreased appetite.
 
 Table 6: Adverse ReactionsIncludes adverse experiences considered by investigators to be at least possibly, probably, or definitely related to the drug. of Moderate to Severe IntensityIntensities are defined as follows: Moderate (discomfort enough to cause interference with usual activity); Severe (incapacitating with inability to work or do usual activity).
 Occurring in ≥2% of Treatment-Naïve Adult Subjects Receiving ISENTRESS and ISENTRESS HD
 
 | ISENTRESS 400 mg Twice Daily (N= 281) | Efavirenz 600 mg At Bedtime (N= 282) | ISENTRESS HD 1200 mg Once Daily (N=531) | ISENTRESS 400 mg Twice Daily (N=266) |  |
 | --- | --- | --- | --- | --- |
-| System Organ Class, Preferred Term | STARTMRK Week 240 |  | ONCEMRK Week 48 |  |
+| System Organ Class, Preferred Term | STARTMRK Week 240 |  | ONCEMRK Week 96 |  |
 | Headache | 4% | 5% | 1% | <1% |
 | Insomnia | 4% | 4% | <1% | <1% |
 | Nausea | 3% | 4% | 1% | 0% |
@@ -50,12 +50,12 @@ Table 7: Selected Grade 2 to 4 Laboratory Abnormalities Reported in Treatment-Na
 
 | Laboratory Parameter Preferred Term (Unit) | Limit | ISENTRESS 400 mg Twice Daily (N = 281) | Efavirenz 600 mg At Bedtime (N = 282) | ISENTRESS HD 1200 mg Once Daily (N=531) | ISENTRESS 400 mg Twice Daily (N=266) |
 | --- | --- | --- | --- | --- | --- |
-|  |  | STARTMRK Week 240 |  | ONCEMRK Week 48 |  |
+|  |  | STARTMRK Week 240 |  | ONCEMRK Week 96 |  |
 | Hematology |  |  |  |  |  |
 | Absolute neutrophil count (103/µL) |  |  |  |  |  |
-| Grade 2 | 0.75 - 0.999 | 3% | 5% | 1% | 1% |
+| Grade 2 | 0.75 - 0.999 | 3% | 5% | 2% | 1% |
 | Grade 3 | 0.50 - 0.749 | 3% | 1% | 1% | 1% |
-| Grade 4 | <0.50 | 1% | 1% | 0% | 0% |
+| Grade 4 | <0.50 | 1% | 1% | <1% | 0% |
 | Hemoglobin (gm/dL) |  |  |  |  |  |
 | Grade 2 | 7.5 - 8.4 | 1% | 1% | 0% | 0% |
 | Grade 3 | 6.5 - 7.4 | 1% | 1% | 0% | 0% |
@@ -70,33 +70,33 @@ Table 7: Selected Grade 2 to 4 Laboratory Abnormalities Reported in Treatment-Na
 | Grade 3 | 251 - 500 | 2% | 1% | - | - |
 | Grade 4 | >500 | 0% | 0% | - | - |
 | Total serum bilirubin |  |  |  |  |  |
-| Grade 2 | 1.6 - 2.5 × ULN | 5% | <1% | 1% | 1% |
-| Grade 3 | 2.6 - 5.0 × ULN | 1% | 0% | 1% | 0% |
+| Grade 2 | 1.6 - 2.5 × ULN | 5% | <1% | 3% | 2% |
+| Grade 3 | 2.6 - 5.0 × ULN | 1% | 0% | 1% | <1% |
 | Grade 4 | >5.0 × ULN | <1% | 0% | <1% | 0% |
 | Creatinine |  |  |  |  |  |
 | Grade 2 | 1.4-1.8 × ULN | 1% | 1% | 0% | <1% |
 | Grade 3 | 1.9-3.4 × ULN | 0% | <1% | 0% | 0% |
 | Grade 4 | ≥3.5 × ULN | 0% | 0% | 0% | 0% |
 | Serum aspartate aminotransferase |  |  |  |  |  |
-| Grade 2 | 2.6 - 5.0 × ULN | 8% | 10% | 3% | 2% |
-| Grade 3 | 5.1 - 10.0 × ULN | 5% | 3% | 1% | <1% |
-| Grade 4 | >10.0 × ULN | 1% | <1% | <1% | 0% |
+| Grade 2 | 2.6 - 5.0 × ULN | 8% | 10% | 5% | 3% |
+| Grade 3 | 5.1 - 10.0 × ULN | 5% | 3% | 2% | <1% |
+| Grade 4 | >10.0 × ULN | 1% | <1% | 1% | <1% |
 | Serum alanine aminotransferase |  |  |  |  |  |
-| Grade 2 | 2.6 - 5.0 × ULN | 11% | 12% | 3% | 1% |
+| Grade 2 | 2.6 - 5.0 × ULN | 11% | 12% | 4% | 2% |
 | Grade 3 | 5.1 - 10.0 × ULN | 2% | 2% | 1% | <1% |
-| Grade 4 | >10.0 × ULN | 2% | 1% | <1% | 0% |
+| Grade 4 | >10.0 × ULN | 2% | 1% | 1% | <1% |
 | Serum alkaline phosphatase |  |  |  |  |  |
 | Grade 2 | 2.6 - 5.0 × ULN | 1% | 3% | 1% | 0% |
-| Grade 3 | 5.1 - 10.0 × ULN | 0% | 1% | 0% | 0% |
+| Grade 3 | 5.1 - 10.0 × ULN | 0% | 1% | <1% | 0% |
 | Grade 4 | >10.0 × ULN | <1% | <1% | 0% | 0% |
 | LipaseTest not done in STARTMRK |  |  |  |  |  |
-| Grade 2 | 1.6-3.0 x ULN | - | - | 5% | 5% |
-| Grade 3 | 3.1-5.0 × ULN | - | - | 2% | <1% |
-| Grade 4 | >5.0 × ULN | - | - | 1% | 0% |
+| Grade 2 | 1.6-3.0 x ULN | - | - | 7% | 5% |
+| Grade 3 | 3.1-5.0 × ULN | - | - | 2% | 1% |
+| Grade 4 | >5.0 × ULN | - | - | 2% | 1% |
 | Creatine kinase |  |  |  |  |  |
-| Grade 2 | 6.0-9.9 × ULN | - | - | 3% | 2% |
-| Grade 3 | 10.0-19.9 × ULN | - | - | 1% | 3% |
-| Grade 4 | ≥20.0 × ULN | - | - | 2% | 2% |
+| Grade 2 | 6.0-9.9 × ULN | - | - | 4% | 5% |
+| Grade 3 | 10.0-19.9 × ULN | - | - | 3% | 3% |
+| Grade 4 | ≥20.0 × ULN | - | - | 3% | 2% |
 | ULN = Upper limit of normal range |  |  |  |  |  |
 | Notes: ISENTRESS BID, ISENTRESS HD and Efavirenz were administered with emtricitabine (+) tenofovir disoproxil fumarate |  |  |  |  |  |
 
@@ -239,7 +239,7 @@ In general the safety profile of ISENTRESS in subjects with hepatitis B and/or h
 At 96 weeks, in treatment-experienced subjects receiving ISENTRESS 400 mg twice daily, Grade 2 or higher laboratory abnormalities that represent a worsening Grade from baseline of AST, ALT or total bilirubin occurred in 29%, 34% and 13%, respectively, of co-infected subjects treated with ISENTRESS as compared to 11%, 10% and 9% of all other subjects treated with ISENTRESS.
 At 240 weeks, in treatment-naïve subjects receiving ISENTRESS 400 mg twice daily, Grade 2 or higher laboratory abnormalities that represent a worsening Grade from baseline of AST, ALT or total bilirubin occurred in 22%, 44% and 17%, respectively, of co-infected subjects treated with ISENTRESS as compared to 13%, 13% and 5% of all other subjects treated with ISENTRESS.
 
-At 48 weeks, in treatment-naïve subjects receiving ISENTRESS HD 1200 mg (2 × 600 mg) once daily, Grade 2 or higher laboratory abnormalities that represent a worsening Grade from baseline of AST, ALT or total bilirubin occurred in 13%, 33% and 13%, respectively, of co-infected subjects treated with ISENTRESS HD 1200 mg once daily as compared to 4%, 3% and 2% of all other subjects treated with ISENTRESS HD 1200 mg once daily.
+At 96 weeks, in treatment-naïve subjects receiving ISENTRESS HD 1200 mg (2 × 600 mg) once daily, Grade 2 or higher laboratory abnormalities that represent a worsening Grade from baseline of AST, ALT or total bilirubin occurred in 27%, 40% and 13%, respectively, of co-infected subjects treated with ISENTRESS HD 1200 mg once daily as compared to 7%, 5% and 3% of all other subjects treated with ISENTRESS HD 1200 mg once daily.
 
 Pediatrics
 

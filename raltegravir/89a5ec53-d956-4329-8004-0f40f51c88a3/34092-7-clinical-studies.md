@@ -2,7 +2,7 @@
 
 ## 14.1 Description of Clinical Studies
 
-The evidence of durable efficacy of ISENTRESS 400 mg twice daily is based on the analyses of 240-week data from a randomized, double-blind, active-controlled trial, STARTMRK evaluating ISENTRESS 400 mg twice daily in antiretroviral treatment-naïve HIV-1 infected adult subjects, the analysis of 48-week data from a randomized, double-blind, active-control trial, ONCEMRK evaluating ISENTRESS HD 1200 mg (2 × 600 mg) once daily in treatment-naïve adult subjects, and 96-week data from 2 randomized, double-blind, placebo-controlled studies, BENCHMRK 1 and BENCHMRK 2, evaluating ISENTRESS 400 mg twice daily in antiretroviral treatment-experienced HIV-1 infected adult subjects.
+The evidence of durable efficacy of ISENTRESS 400 mg twice daily is based on the analyses of 240-week data from a randomized, double-blind, active-controlled trial, STARTMRK evaluating ISENTRESS 400 mg twice daily in antiretroviral treatment-naïve HIV-1 infected adult subjects, the analysis of 96-week data from a randomized, double-blind, active-control trial, ONCEMRK evaluating ISENTRESS HD 1200 mg (2 × 600 mg) once daily in treatment-naïve adult subjects, and 96-week data from 2 randomized, double-blind, placebo-controlled studies, BENCHMRK 1 and BENCHMRK 2, evaluating ISENTRESS 400 mg twice daily in antiretroviral treatment-experienced HIV-1 infected adult subjects.
 See Table 18.
 
 Table 18: Trials Conducted with ISENTRESS and ISENTRESS HD in Subjects with HIV-1 Infection
@@ -10,7 +10,7 @@ Table 18: Trials Conducted with ISENTRESS and ISENTRESS HD in Subjects with HIV-
 | Trial | Study Type | Population | Study Arms (N) | Dose/Formulation | Timepoint |
 | --- | --- | --- | --- | --- | --- |
 | STARTMRK | Randomized, double-blind, active-controlled | Treatment-Naïve Adults | ISENTRESS 400 mg Twice Daily (281) Efavirenz 600 mg At Bedtime (282) Both in combination with emtricitabine (+) tenofovir disoproxil fumarate | 400 mg film-coated tablet | Week 240 |
-| ONCEMRK | Randomized, double-blind, active-controlled | Treatment-Naïve Adults | ISENTRESS HD 1200 mg Once Daily (531) | 600 mg film-coated tablet | Week 48 |
+| ONCEMRK | Randomized, double-blind, active-controlled | Treatment-Naïve Adults | ISENTRESS HD 1200 mg Once Daily (531) | 600 mg film-coated tablet | Week 96 |
 |  |  |  | ISENTRESS 400 mg Twice Daily (266) Both in combination with emtricitabine (+) tenofovir disoproxil fumarate | 400 mg film-coated tablet |  |
 | BENCHMRK 1 | Randomized, double-blind, placebo-controlled | Treatment-Experienced Adults | ISENTRESS 400 mg Twice Daily (232) Placebo (118) Both in combination with optimized background therapy | 400 mg film-coated tablet | Week 240 (Week 156 on double-blind plus Week 84 on open-label) |
 | BENCHMRK 2 | Randomized, double-blind, placebo-controlled | Treatment-Experienced Adults | ISENTRESS 400 mg Twice Daily (230) Placebo (119) Both in combination with optimized background therapy | 400 mg film-coated tablet | Week 240 (Week 156 on double-blind plus Week 84 on open-label) |
@@ -42,20 +42,20 @@ Table 19: Virologic Outcomes of Randomized Treatment in STARTMRK and ONCEMRK (Sn
 
 |  | ISENTRESS 400 mg Twice Daily (N=281) | Efavirenz 600 mg At Bedtime (N=282) | ISENTRESS HD 1200 mg Once Daily (N=531) | ISENTRESS 400 mg Twice Daily (N=266) |
 | --- | --- | --- | --- | --- |
-|  | STARTMRK Week 240 |  | ONCEMRK Week 48 |  |
-| HIV RNA < Lower Limit of QuantitationLower Limit of Quantitation: STARTMRK <50 copies/mL; ONCEMRK < 40 copies/mL. | 66% | 60% | 89% | 88% |
-| Treatment Difference | 6.6% (95% CI: -1.4%, 14.5%) |  | 0.5% (95% CI: -4.2%, 5.2%) |  |
-| HIV RNA ≥ Lower Limit of Quantitation | 8% | 15% | 5% | 6% |
-| No Virologic Data at Analysis Timepoint | 26% | 26% | 6% | 6% |
+|  | STARTMRK Week 240 |  | ONCEMRK Week 96 |  |
+| HIV RNA < Lower Limit of QuantitationLower Limit of Quantitation: STARTMRK <50 copies/mL; ONCEMRK < 40 copies/mL. | 66% | 60% | 82% | 80% |
+| Treatment Difference | 6.6% (95% CI: -1.4%, 14.5%) |  | 1.4% (95% CI: -4.4%, 7.3%) |  |
+| HIV RNA ≥ Lower Limit of Quantitation | 8% | 15% | 9% | 8% |
+| No Virologic Data at Analysis Timepoint | 26% | 26% | 9% | 12% |
 | Reasons |  |  |  |  |
-| Discontinued trial due to AE or DeathIncludes subjects who discontinued because of adverse event (AE) or death at any time point from Day 1 through the time window if this resulted in no virologic data on treatment during the specified window. | 5% | 10% | 1% | 2% |
-| Discontinued trial for Other ReasonsOther Reasons includes: lost to follow-up, moved, non-compliance with study drug, physician decision, pregnancy, withdrawal by subject. | 15% | 14% | 4% | 3% |
-| On trial but missing data at timepoint | 6% | 2% | 1% | 1% |
+| Discontinued trial due to AE or DeathIncludes subjects who discontinued because of adverse event (AE) or death at any time point from Day 1 through the time window if this resulted in no virologic data on treatment during the specified window. | 5% | 10% | 1% | 3% |
+| Discontinued trial for Other ReasonsOther Reasons includes: lost to follow-up, moved, non-compliance with study drug, physician decision, pregnancy, withdrawal by subject. | 15% | 14% | 7% | 8% |
+| On trial but missing data at timepoint | 6% | 2% | 1% | 2% |
 | Notes: ISENTRESS BID, ISENTRESS HD and Efavirenz were administered with emtricitabine (+) tenofovir disoproxil fumarate |  |  |  |  |
 
 In the ONCEMRK trial, ISENTRESS HD 1200 mg (2 × 600 mg) once daily demonstrated consistent virologic and immunologic efficacy relative to ISENTRESS 400 mg twice daily, both in combination with emtricitabine (+) tenofovir disoproxil fumarate, across demographic and baseline prognostic factors, including: baseline HIV RNA levels >100,000 copies/mL and demographic groups (including age, gender, race, ethnicity and region), concomitant proton pump inhibitors/H2 blockers use and viral subtypes (comparing non-clade B as a group to clade B).
 
-Consistent efficacy in subjects receiving ISENTRESS HD 1200 mg (2 × 600 mg) once daily was observed across HIV subtypes with 88.4% (296/335) and 90.2% (175/194) of subjects with B and non-B subtypes respectively, achieving HIV RNA <40 copies/mL at week 48 (Snapshot approach).
+Consistent efficacy in subjects receiving ISENTRESS HD 1200 mg (2 × 600 mg) once daily was observed across HIV subtypes with 80.6% (270/335) and 83.5% (162/194) of subjects with B and non-B subtypes respectively, achieving HIV RNA <40 copies/mL at week 96 (Snapshot approach).
 
 ## 14.3 Treatment-Experienced Adult Subjects
 

@@ -209,11 +209,13 @@ No antagonism was observed when human T-lymphoid cells infected with the H9IIIB 
 Resistance
 
 The mutations observed in the HIV-1 integrase coding sequence that contributed to raltegravir resistance (evolved either in cell culture or in subjects treated with raltegravir) generally included an amino acid substitution at either Y143 (changed to C, H, or R) or Q148 (changed to H, K, or R) or N155 (changed to H) plus one or more additional substitutions (i.e., L74M, E92Q, Q95K/R, T97A, E138A/K, G140A/S, V151I, G163R, H183P, Y226C/D/F/H, S230R, and D232N).
-E92Q and F121C are occasionally seen in the absence of substitutions at Y143, Q148, or N155 in raltegravir-treatment failure subjects.
+E92Q, T97A, and F121C are occasionally seen in the absence of substitutions at Y143, Q148, or N155 in raltegravir-treatment failure subjects.
 
 Treatment-Naïve Adult Subjects: By Week 240 in the STARTMRK trial, the primary raltegravir resistance-associated substitutions were observed in 4 (2 with Y143H/R and 2 with Q148H/R) of the 12 virologic failure subjects with evaluable genotypic data from paired baseline and raltegravir treatment-failure isolates.
-By Week 48 in the ONCEMRK trial, primary resistance substitutions were observed in on-treatment isolates obtained from 4 (N155H/I203M, N155H/V151I/D232N, N155H, E92Q/L74M) of the 14 virologic failure subjects with evaluable genotypic data.
-These isolates exhibited 9.3- to 19-fold reductions in susceptibility to raltegravir.
+By Week 96 in the ONCEMRK trial, primary raltegravir resistance substitutions were observed in on treatment isolates obtained from 4 (3 with N155H and 1 with E92Q) of 14 virologic failure subjects with evaluable genotypic data in the 1,200 mg QD arm and 2 (1 with N155H and 1 with T97A) of 6 virologic failure subjects in the 400 mg BID arm.
+Additional integrase substitutions observed included L74M, Q95K, V151I, E170A, I203M and D232N.
+These resistant isolates exhibited 6.2- to 19-fold reductions in susceptibility to raltegravir.
+Overall, at Week 96, detection of raltegravir resistance was not different between the QD and BID arms in subjects who were failing treatment and had resistance data evaluable (28.6% versus 33.3%, respectively).
 
 Treatment-Experienced Adult Subjects: By Week 96 in the BENCHMRK trials, at least one of the primary raltegravir resistance-associated substitutions, Y143C/H/R, Q148H/K/R, and N155H, was observed in 76 of the 112 virologic failure subjects with evaluable genotypic data from paired baseline and raltegravir treatment-failure isolates.
 The emergence of the primary raltegravir resistance-associated substitutions was observed cumulatively in 70 subjects by Week 48 and 78 subjects by Week 96, 15.2% and 17% of the raltegravir recipients, respectively.
