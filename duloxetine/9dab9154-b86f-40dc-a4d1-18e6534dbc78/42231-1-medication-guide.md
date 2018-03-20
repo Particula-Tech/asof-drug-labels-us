@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-Duloxetine (doo lox' e teen) Delayed-Release Capsules, USP
+Duloxetine (doo lox' e teen) Delayed-Release Capsules
 
 Rx Only
 
@@ -115,6 +115,7 @@ Especially tell your healthcare provider if you take:
 - triptans used to treat migraine headache
 - medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, buspirone, SSRIs, SNRIs or MAOIs
 - tramadol and fentanyl
+- amphetamines
 - cimetidine
 - the antibiotics ciprofloxacin, enoxacin
 - medicine to treat irregular heart rate (like propafenone, flecainide, quinidine)
@@ -292,7 +293,7 @@ For more information about duloxetine delayed-release capsules call Actavis at 1
 
 What are the ingredients in duloxetine delayed-release capsules?
 
-Active ingredient: duloxetine hydrochloride, USP
+Active ingredient: duloxetine hydrochloride
 
 Inactive ingredients: ammonium hydroxide, black iron oxide, gelatin, hydroxypropyl cellulose, hydroxypropyl methylcellulose phthalate, hypromellose, potassium hydroxide, propylene glycol, shellac, sugar spheres (which contain sucrose and corn starch), talc, titanium dioxide, and triethyl citrate.
 The 20 mg and 30 mg capsules also contain FD&C Blue #1 Aluminum Lake.
@@ -305,6 +306,5 @@ Manufactured by: Actavis Elizabeth LLC Elizabeth, NJ 07207 USA
 
 Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
-40-9086
-
-(MG 41-1124/1016)
+Iss.
+2/2018

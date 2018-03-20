@@ -262,7 +262,7 @@ The following listing is not intended to include reactions (1) already listed in
 
 Reactions are categorized by body system according to the following definitions: frequent adverse reactions are those occurring in at least 1/100 patients; infrequent adverse reactions are those occurring in 1/100 to 1/1000 patients; rare reactions are those occurring in fewer than 1/1000 patients.
 
-Cardiac Disorders - Frequent: palpitations; Infrequent: myocardial infarction and tachycardia.
+Cardiac Disorders - Frequent: palpitations; Infrequent: myocardial infarction, tachycardia, and Takotsubo cardiomyopathy.
 
 Ear and Labyrinth Disorders - Frequent: vertigo; Infrequent: ear pain and tinnitus.
 
