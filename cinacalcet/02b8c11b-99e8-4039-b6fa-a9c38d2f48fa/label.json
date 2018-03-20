@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA208915"
+  ],
+  "inn": "cinacalcet",
+  "labeler": "Cipla USA Inc.",
+  "package_ndcs": [
+    "69097-410-02",
+    "69097-411-02",
+    "69097-412-02"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "cinacalcet",
+      "name": "CINACALCET"
+    }
+  ],
+  "setid": "02b8c11b-99e8-4039-b6fa-a9c38d2f48fa",
+  "source": "dailymed"
+}
