@@ -9,4 +9,13 @@ Preparation and storage of bulk dilutions is not recommended.
 
 Recommended Storage Store at 20°-25°C (68°-77°F); excursion permitted to 15°-30°C (59°-86°F) [see USP Controlled Room Temperature].
 
-Manufactured by: Silarx Pharmaceuticals, Inc. Carmel, New York 10512
+Distributed by:
+
+Lannett Company, Inc.
+
+Philadelphia, PA 19154
+
+10-1104
+
+Rev.
+01/18

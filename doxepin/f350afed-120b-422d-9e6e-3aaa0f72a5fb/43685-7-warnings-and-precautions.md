@@ -18,11 +18,11 @@ Table 1
 | Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1000 Patients Treated |
 | --- | --- |
 |  | Increases Compared to Placebo |
-| < 18 | 14 additional cases |
-| 18 to 24 | 5 additional cases |
+| <18 | 14 additional cases |
+| 18-24 | 5 additional cases |
 |  | Decreases Compared to Placebo |
-| 25 to 64 | 1 fewer case |
-| ≥ 65 | 6 fewer cases |
+| 25-64 | 1 fewer case |
+| > 65 | 6 fewer cases |
 
 No suicides occurred in any of the pediatric trials.
 There were suicides in the adult trials, but the number was not sufficient to reach any conclusion about drug effect on suicide.
@@ -40,7 +40,7 @@ It is generally believed (though not established in controlled trials) that trea
 Whether any of the symptoms described above represent such a conversion is unknown.
 However, prior to initiating treatment with an antidepressant, patients with depressive symptoms should be adequately screened to determine if they are at risk for bipolar disorder; such screening should include a detailed psychiatric history, including a family history of suicide, bipolar disorder, and depression.
 It should be noted that Doxepin Hydrochloride Oral Solution is not approved for use in treating bipolar depression.
-Angle-Closure GlaucomaThe pupillary dilation that occurs following use of many antidepressant drugs including Doxepin Hydrochloride Oral Solution may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
+Angle-Closure Glaucoma: The pupillary dilation that occurs following use of many antidepressant drugs including Doxepin Hydrochloride Oral Solution may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
 Usage in Geriatrics: The use of doxepin on a once-a-day dosage regimen in geriatric patients should be adjusted carefully based on the patient's condition - (see PRECAUTIONS – Geriatric Use).
 Usage in Pregnancy: Reproduction studies have been performed in rats, rabbits, monkeys and dogs and there was no evidence of harm to the animal fetus.
 The relevance to humans is not known.
