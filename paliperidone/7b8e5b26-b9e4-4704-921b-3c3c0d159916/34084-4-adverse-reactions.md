@@ -377,7 +377,7 @@ Adverse reactions reported during the long-term double-blind phase of this study
 
 ## 6.10 Postmarketing Experience
 
-The following adverse reactions have been identified during postapproval use of INVEGA®; because these reactions were reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency: angioedema, ileus, priapism, swollen tongue, tardive dyskinesia, urinary incontinence, urinary retention.
+The following adverse reactions have been identified during postapproval use of INVEGA®; because these reactions were reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency: angioedema, ileus, priapism, somnambulism, swollen tongue, tardive dyskinesia, urinary incontinence, urinary retention.
 
 ## 6.11 Adverse Reactions Reported With Risperidone
 
