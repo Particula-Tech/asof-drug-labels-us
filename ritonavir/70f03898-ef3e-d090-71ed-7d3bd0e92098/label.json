@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA022417"
+  ],
+  "inn": "ritonavir",
+  "labeler": "Zydus Pharmaceuticals USA Inc",
+  "package_ndcs": [
+    "68382-696-06"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "ritonavir",
+      "name": "Norvir"
+    }
+  ],
+  "setid": "70f03898-ef3e-d090-71ed-7d3bd0e92098",
+  "source": "dailymed"
+}
