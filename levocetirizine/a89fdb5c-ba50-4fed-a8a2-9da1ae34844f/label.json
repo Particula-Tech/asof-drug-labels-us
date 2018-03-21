@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA022064"
+  ],
+  "inn": "levocetirizine",
+  "labeler": "Valeant Pharmaceuticals International Inc.",
+  "package_ndcs": [
+    "64734-920-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "levocetirizine dihydrochloride",
+      "name": "XYZAL"
+    }
+  ],
+  "setid": "a89fdb5c-ba50-4fed-a8a2-9da1ae34844f",
+  "source": "dailymed"
+}
