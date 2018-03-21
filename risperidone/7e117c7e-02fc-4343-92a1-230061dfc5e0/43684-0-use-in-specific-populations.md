@@ -105,7 +105,7 @@ Most cases were mild or moderate in severity.
 These events were most often of early onset with peak incidence occurring during the first two weeks of treatment, and transient with a median duration of 16 days.
 Somnolence was the most commonly observed adverse reaction in the clinical trial of bipolar disorder in children and adolescents, as well as in the schizophrenia trials in adolescents.
 As was seen in the autistic disorder trials, these adverse reactions were most often of early onset and transient in duration [see Adverse Reactions (6.1 and 6.2)].
-Patients experiencing persistent somnolence may benefit from a change in dosing regimen [see Dosage and Administration (2.1, 2.2, and 2.3)].
+Patients experiencing persistent somnolence may benefit from a change in dosing regimen see Dosage and Administration (2.1, 2.2, and 2.3)].
 
 Hyperprolactinemia
 
