@@ -1,4 +1,4 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
 The oral LD50 of ALDACTONE is greater than 1000 mg/kg in mice, rats, and rabbits.
 
@@ -6,16 +6,8 @@ Acute overdosage of ALDACTONE may be manifested by drowsiness, mental confusion,
 Rarely, instances of hyponatremia, hyperkalemia, or hepatic coma may occur in patients with severe liver disease, but these are unlikely due to acute overdosage.
 Hyperkalemia may occur, especially in patients with impaired renal function.
 
-## Treatment
-
-Induce vomiting or evacuate the stomach by lavage.
+Treatment: Induce vomiting or evacuate the stomach by lavage.
 There is no specific antidote.
 Treatment is supportive to maintain hydration, electrolyte balance, and vital functions.
-
-Patients who have renal impairment may develop spironolactone-induced hyperkalemia.
-In such cases, ALDACTONE should be discontinued immediately.
-With severe hyperkalemia, the clinical situation dictates the procedures to be employed.
-These may include the intravenous administration of calcium chloride solution, sodium bicarbonate solution and/or the oral or parenteral administration of glucose with a rapid-acting insulin preparation.
-These are temporary measures to be repeated as required.
-Cationic exchange resins such as sodium polystyrene sulfonate may be orally or rectally administered.
-Persistent hyperkalemia may require dialysis.
+Patients who have renal impairment may develop hyperkalemia.
+In such cases, discontinue ALDACTONE.
