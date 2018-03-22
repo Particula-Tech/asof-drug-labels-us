@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA205433"
+  ],
+  "inn": "tobramycin",
+  "labeler": "Catalent Pharma Solutions,LLC",
+  "package_ndcs": [
+    "11014-0291-1"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "tobramycin",
+      "name": "Kitabis Pak"
+    }
+  ],
+  "setid": "58518637-fea9-45f4-82d1-9d8d760c5a8d",
+  "source": "dailymed"
+}
