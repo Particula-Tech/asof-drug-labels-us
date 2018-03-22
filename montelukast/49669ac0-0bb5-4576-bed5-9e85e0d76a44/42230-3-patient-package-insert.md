@@ -1,6 +1,6 @@
 # Patient Information
 
-Montelukast Sodium Tablets and Montelukast Sodium Chewable Tablets (mon te loo' kast soe' dee um) Read the Patient Information Leaflet that comes with montelukast sodium tablets and/or chewable tablets before you start taking them and each time you get a refill.
+Montelukast Sodium Tablets USP and Montelukast Sodium Chewable Tablets USP (mon te loo' kast soe' dee um) Read the Patient Information Leaflet that comes with montelukast sodium tablets and/or chewable tablets before you start taking them and each time you get a refill.
 There may be new information.
 This leaflet does not take the place of talking with your healthcare provider about your medical condition or your treatment.
 What is montelukast sodium?
@@ -99,6 +99,7 @@ Montelukast sodium may cause serious side effects.
   - suicidal thoughts and actions (including suicide)
   - tremor
   - trouble sleeping
+  - uncontrolled muscle movements
 - Increase in certain white blood cells (eosinophils) and possible inflamed blood vessels throughout the body (systemic vasculitis).
   Rarely, this can happen in people with asthma who take montelukast sodium.
   This sometimes happens in people who also take a steroid medicine by mouth that is being stopped or the dose is being lowered.
@@ -157,9 +158,9 @@ Keep montelukast sodium and all medicines out of the reach of children.
 This leaflet summarizes information about montelukast sodium.
 If you would like more information, talk to your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about montelukast sodium that is written for health professionals.
-For more information, call Citron Pharma LLC. at 1-855-5-CITRON (1-855-524-8766).
+For more information, call Rising Health, LLC at 1-833-395-6928.
 What are the ingredients in montelukast sodium tablets and montelukast sodium chewable tablets?
 Active ingredient: montelukast sodium Inactive ingredients: 4 mg and 5 mg chewable tablet: artificial cherry flavor, aspartame, croscarmellose sodium, ferric oxide, hydroxypropyl cellulose, magnesium stearate, mannitol, and microcrystalline cellulose.
 People with Phenylketonuria: Montelukast sodium chewable tablets 4 mg contain 0.674 mg of phenylalanine, and montelukast sodium chewable tablets 5 mg contain 0.842 mg of phenylalanine.
 10 mg tablet: carnauba wax, croscarmellose sodium, hydroxypropyl cellulose, hypromellose, iron oxide red, iron oxide yellow, lactose monohydrate, magnesium stearate, microcrystalline cellulose, and titanium dioxide.
-Distributed by: Citron Pharma LLC Suite -1101 2 Tower Center Blvd East Brunswick NJ 08816 Code No.: DRUGS/AP/22/2009 Made in India Revised: 04/2016
+Distributed by: Rising Health, LLC Saddle Brook, NJ 07663 Made in India Code: TS/DRUGS/22/2009 Revised: 10/2017

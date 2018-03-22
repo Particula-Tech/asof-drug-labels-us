@@ -19,7 +19,7 @@ Although montelukast sodium is effective in improving airway function in asthmat
 ## 5.4 Neuropsychiatric Events
 
 Neuropsychiatric events have been reported in adult, adolescent, and pediatric patients taking montelukast sodium.
-Post-marketing reports with montelukast sodium use include agitation, aggressive behavior or hostility, anxiousness, depression, disorientation, disturbance in attention, dream abnormalities, hallucinations, insomnia, irritability, memory impairment, restlessness, somnambulism, suicidal thinking and behavior (including suicide), and tremor.
+Post-marketing reports with montelukast sodium use include agitation, aggressive behavior or hostility, anxiousness, depression, disorientation, disturbance in attention, dream abnormalities, hallucinations, insomnia, irritability, memory impairment, restlessness, somnambulism, suicidal thinking and behavior (including suicide), tic, and tremor.
 The clinical details of some post-marketing reports involving montelukast sodium appear consistent with a drug-induced effect.
 
 Patients and prescribers should be alert for neuropsychiatric events.

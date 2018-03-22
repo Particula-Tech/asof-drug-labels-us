@@ -29,10 +29,10 @@ TABLE 2: Effect of Montelukast Sodium on Primary and Secondary Endpoints in a Mu
 | * p<0.001, compared with placebo |  |  |  |  |  |  |
 
 Both studies evaluated the effect of montelukast sodium on secondary outcomes, including asthma attack (utilization of health-care resources such as an unscheduled visit to a doctor’s office, emergency room, or hospital; or treatment with oral, intravenous, or intramuscular corticosteroid), and use of oral corticosteroids for asthma rescue.
-In the Multinational study, significantly fewer patients (15.6% of patients) on montelukast sodium experienced asthma attacks compared with patients on placebo (27.3%, p < 0.001).
-In the U.S. study, 7.8% of patients on montelukast sodium and 10.3% of patients on placebo experienced asthma attacks, but the difference between the two treatment groups was not significant (p = 0.334).
-In the Multinational study, significantly fewer patients (14.8% of patients) on montelukast sodium were prescribed oral corticosteroids for asthma rescue compared with patients on placebo (25.7%, p < 0.001).
-In the U.S. study, 6.9% of patients on montelukast sodium and 9.9% of patients on placebo were prescribed oral corticosteroids for asthma rescue, but the difference between the two treatment groups was not significant (p = 0.196).
+In the Multinational study, significantly fewer patients (15.6% of patients) on montelukast sodium experienced asthma attacks compared with patients on placebo (27.3%, p<0.001).
+In the U.S. study, 7.8% of patients on montelukast sodium and 10.3% of patients on placebo experienced asthma attacks, but the difference between the two treatment groups was not significant (p=0.334).
+In the Multinational study, significantly fewer patients (14.8% of patients) on montelukast sodium were prescribed oral corticosteroids for asthma rescue compared with patients on placebo (25.7%, p<0.001).
+In the U.S. study, 6.9% of patients on montelukast sodium and 9.9% of patients on placebo were prescribed oral corticosteroids for asthma rescue, but the difference between the two treatment groups was not significant (p=0.196).
 Onset of Action and Maintenance of Effects In each placebo-controlled trial in adults, the treatment effect of montelukast sodium, measured by daily diary card parameters, including symptom scores, “as-needed” β-agonist use, and PEFR measurements, was achieved after the first dose and was maintained throughout the dosing interval (24 hours).
 No significant change in treatment effect was observed during continuous once-daily evening administration in non­-placebo-controlled extension trials for up to one year.
 Withdrawal of montelukast sodium in asthmatic patients after 12 weeks of continuous use did not cause rebound worsening of asthma.
@@ -68,7 +68,7 @@ The effect of montelukast sodium on the bronchoconstrictor response to aspirin o
 
 ## 14.2 Exercise-Induced Bronchoconstriction (EIB)
 
-Exercise-Induced Bronchoconstriction (Adults, Adolescents, and Pediatric Patients 6 years of age and older) The efficacy of montelukast 10 mg, when given as a single dose 2 hours before exercise for the prevention of EIB was investigated in three (U.S. and Multinational), randomized, double-blind, placebo­-controlled crossover studies that included a total of 160 adult and adolescent patients 15 years of age and older with EIB.
+Exercise-Induced Bronchoconstriction (Adults, Adolescents, and Pediatric Patients 6 years of age and older) The efficacy of montelukast, 10 mg, when given as a single dose 2 hours before exercise for the prevention of EIB was investigated in three (U.S. and Multinational), randomized, double-blind, placebo­-controlled crossover studies that included a total of 160 adult and adolescent patients 15 years of age and older with EIB.
 Exercise challenge testing was conducted at 2 hours, 8.5 or 12 hours, and 24 hours following administration of a single dose of study drug (montelukast 10 mg or placebo).
 The primary endpoint was the mean maximum percent fall in FEV1 following the 2 hours post-dose exercise challenge in all three studies (Study A, Study B, and Study C). In Study A, a single dose of montelukast 10 mg demonstrated a statistically significant protective benefit against EIB when taken 2 hours prior to exercise.
 Some patients were protected from EIB at 8.5 and 24 hours after administration; however, some patients were not.
@@ -76,13 +76,13 @@ The results for the mean maximum percent fall at each timepoint in Study A are s
 
 TABLE 3: Mean Maximum Percent Fall in FEV1 Following Exercise Challenge in Study A (N=47) ANOVA Model
 
-| Time of exercise challenge following medication administration | Mean Maximum percent fall in FEV1* |  | Treatment difference % for Montelukast Sodium versus Placebo (95%CI)* |
+| Time of exercise challenge following medication administration | Mean Maximum percent fall in FEV1* |  | Treatment difference % for Montelukast Sodium versus Placebo (95% CI)* |
 | --- | --- | --- | --- |
 | Montelukast Sodium | Placebo |  |  |
 | 2 hours | 13 | 22 | -9 (-12, -5) |
 | 8.5 hours | 12 | 17 | -5 (-9, -2) |
 | 24 hours | 10 | 14 | -4 (-7, -1) |
-| * Least squares-mean |  |  |  |
+| *Least squares-mean |  |  |  |
 
 The efficacy of montelukast 5 mg chewable tablets, when given as a single dose 2 hours before exercise for the prevention of EIB, was investigated in one multinational, randomized, double-blind, placebo-controlled crossover study that included a total of 64 pediatric patients 6 to 14 years of age with EIB.
 Exercise challenge testing was conducted at 2 hours and 24 hours following administration of a single dose of study drug (montelukast 5 mg or placebo).
@@ -92,9 +92,9 @@ Similar results were shown at 24 hours post-dose (a secondary endpoint).
 Some patients were protected from EIB at 24 hours after administration; however, some patients were not.
 No timepoints were assessed between 2 and 24 hours post-dose.
 
-Table 4: Mean Maximum Percent Fall in FEV1 Following Exercise Challenge in Pediatric Patients (N=64) ANOVA Model
+TABLE 4: Mean Maximum Percent Fall in FEV1 Following Exercise Challenge in Pediatric Patients (N=64) ANOVA Model
 
-| Time of exercise challenge following medication administration | Mean Maximum percent fall in FEV1* |  | Treatment difference % for Montelukast Sodium versus Placebo (95%CI)* |
+| Time of exercise challenge following medication administration | Mean Maximum percent fall in FEV1* |  | Treatment difference % for Montelukast Sodium versus Placebo (95% CI)* |
 | --- | --- | --- | --- |
 |  | Montelukast Sodium | Placebo |  |
 | 2 hours | 15 | 20 | -5 (-9, -1) |

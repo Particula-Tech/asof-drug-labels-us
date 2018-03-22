@@ -7,6 +7,6 @@ The structural formula is:
 
 Montelukast sodium USP is a hygroscopic, optically active, off-white to pale yellow colored powder.
 Montelukast sodium is freely soluble in ethanol, methanol, and water and practically insoluble in acetonitrile.
-Each 10 mg film-coated montelukast sodium tablet contains 10.38 mg montelukast sodium USP, which is equivalent to 10 mg of montelukast, and the following inactive ingredients: carnauba wax, croscarmellose sodium, hydroxypropyl cellulose, hypromellose, iron oxide red, iron oxide yellow, lactose monohydrate, magnesium stearate, microcrystalline cellulose, and titanium dioxide.
-Each 4 mg and 5 mg montelukast sodium chewable tablet contains 4.15 mg and 5.19 mg montelukast sodium USP, respectively, which are equivalent to 4 mg and 5 mg of montelukast, respectively.
+Each 10 mg film-coated montelukast sodium tablet USP contains 10.38 mg montelukast sodium USP, which is equivalent to 10 mg of montelukast, and the following inactive ingredients: carnauba wax, croscarmellose sodium, hydroxypropyl cellulose, hypromellose, iron oxide red, iron oxide yellow, lactose monohydrate, magnesium stearate, microcrystalline cellulose, and titanium dioxide.
+Each 4 mg and 5 mg montelukast sodium chewable tablet USP contains 4.15 mg and 5.19 mg montelukast sodium USP, respectively, which are equivalent to 4 mg and 5 mg of montelukast, respectively.
 Both chewable tablets contain the following inactive ingredients: artificial cherry flavor, aspartame, croscarmellose sodium, ferric oxide, hydroxypropyl cellulose, magnesium stearate, mannitol, and microcrystalline cellulose.

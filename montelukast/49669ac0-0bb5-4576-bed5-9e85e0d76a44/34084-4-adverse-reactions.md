@@ -41,7 +41,7 @@ The safety profile of montelukast sodium, when administered as a single dose for
 Cumulatively, 569 patients were treated with montelukast sodium for at least 6 months, 480 for one year, and 49 for two years in clinical trials.
 With prolonged treatment, the adverse experience profile did not significantly change.
 Pediatric Patients 6 to 14 Years of Age with Asthma Montelukast sodium has been evaluated for safety in 476 pediatric patients 6 to 14 years of age.
-Cumulatively, 289 pediatric patients were treated with montelukast sodium for atleast 6 months, and 241 for one year or longer in clinical trials.
+Cumulatively, 289 pediatric patients were treated with montelukast sodium for at least 6 months, and 241 for one year or longer in clinical trials.
 The safety profile of montelukast sodium in the 8-week, double-blind, pediatric efficacy trial was generally similar to the adult safety profile.
 In pediatric patients 6 to 14 years of age receiving montelukast sodium, the following events occurred with a frequency ≥2% and more frequently than in pediatric patients who received placebo: pharyngitis, influenza, fever, sinusitis, nausea, diarrhea, dyspepsia, otitis, viral infection, and laryngitis.
 The frequency of less common adverse events was comparable between montelukast sodium and placebo.
@@ -64,7 +64,7 @@ Adults and Adolescents 15 Years of Age and Older with Perennial Allergic Rhiniti
 Montelukast sodium administered once daily had a safety profile consistent with that observed in patients with seasonal allergic rhinitis and similar to that of placebo.
 In these two studies, the following events were reported with montelukast sodium with a frequency ≥1% and at an incidence greater than placebo: sinusitis, upper respiratory infection, sinus headache, cough, epistaxis, and increased ALT.
 The incidence of somnolence was similar to that of placebo.
-Pediatric Patients 2 Years to 14 Years of Age with Perennial Allergic Rhinitis The safety in patients 2 to 14 years of age with perennial allergic rhinitis is supported by the safety in patients 2 to 14 years of age with seasonal allergic rhinitis.
+Pediatric Patients 2 to 14 Years of Age with Perennial Allergic Rhinitis The safety in patients 2 to 14 years of age with perennial allergic rhinitis is supported by the safety in patients 2 to 14 years of age with seasonal allergic rhinitis.
 
 ## 6.2 Post-Marketing Experience
 
@@ -72,7 +72,7 @@ The following adverse reactions have been identified during post-approval use of
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 Blood and lymphatic system disorders: increased bleeding tendency, thrombocytopenia.
 Immune system disorders: hypersensitivity reactions including anaphylaxis, hepatic eosinophilic infiltration.
-Psychiatric disorders: agitation including aggressive behavior or hostility, anxiousness, depression, disorientation, disturbance in attention, dream abnormalities, hallucinations, insomnia, irritability, memory impairment, restlessness, somnambulism, suicidal thinking and behavior (including suicide), and tremor [see Warnings and Precautions (5.4)].
+Psychiatric disorders: agitation including aggressive behavior or hostility, anxiousness, depression, disorientation, disturbance in attention, dream abnormalities, hallucinations, insomnia, irritability, memory impairment, restlessness, somnambulism, suicidal thinking and behavior (including suicide), tic, and tremor [see Warnings and Precautions (5.4)].
 Nervous system disorders: drowsiness, paraesthesia/hypoesthesia, seizures.
 Cardiac disorders: palpitations.
 Respiratory, thoracic and mediastinal disorders: epistaxis, pulmonary eosinophilia.

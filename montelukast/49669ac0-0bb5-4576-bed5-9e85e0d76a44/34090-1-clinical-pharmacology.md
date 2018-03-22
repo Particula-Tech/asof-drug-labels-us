@@ -33,7 +33,7 @@ For the 5 mg chewable tablet, the mean Cmax is achieved in 2 to 2.5 hours after 
 The mean oral bioavailability is 73% in the fasted state versus 63% when administered with a standard meal in the morning.
 For the 4 mg chewable tablet, the mean Cmax is achieved 2 hours after administration in pediatric patients 2 to 5 years of age in the fasted state.
 The 4 mg oral granule formulation is bioequivalent to the 4 mg chewable tablet when administered to adults in the fasted state.
-The safety and efficacy of montelukast in patients with asthma were demonstrated in clinical trials in which the 10 mg film-coated tablet and 5 mg chewable tablet formulation were administered in the evening without regard to the time of food ingestion.
+The safety and efficacy of montelukast in patients with asthma were demonstrated in clinical trials in which the 10 mg film-coated tablet and 5 mg chewable tablet formulations were administered in the evening without regard to the time of food ingestion.
 The safety of montelukast in patients with asthma was also demonstrated in clinical trials in which the 4 mg chewable tablet formulation was administered in the evening without regard to the time of food ingestion.
 The safety and efficacy of montelukast in patients with seasonal allergic rhinitis were demonstrated in clinical trials in which the 10 mg film-coated tablet was administered in the morning or evening without regard to the time of food ingestion.
 The comparative pharmacokinetics of montelukast when administered as two 5 mg chewable tablets versus one 10 mg film-coated tablet have not been evaluated.
