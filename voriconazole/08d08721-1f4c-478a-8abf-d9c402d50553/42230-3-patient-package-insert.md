@@ -1,8 +1,4 @@
-FDA-Approved Patient Labeling
-
-VFEND® /VEE-fend/
-
-(voriconazole) IV injection
+# VFEND® /VEE-fend/ (voriconazole) IV injection
 
 Read the Patient Information that comes with VFEND before you start taking it and each time you get a refill.
 There may be new information.

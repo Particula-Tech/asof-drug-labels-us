@@ -94,7 +94,7 @@ The overall clinical and mycological success rates by Candida species in Study 1
 
 Table 14: Overall Success Rates Sustained From EOT To The Fixed 12-Week Follow-Up Time Point By Baseline PathogenA few patients had more than one pathogen at baseline.,Patients who did not have a 12-week assessment for any reason were considered a treatment failure.
 
-| Voriconazole | Amphotericin B --> Fluconazole |  |
+|  | Voriconazole | Amphotericin B --> Fluconazole |
 | --- | --- | --- |
 | Baseline Pathogen | Clinical and Mycological Success (%) |  |
 | C. albicans | 46/107 (43%) | 30/63 (48%) |
@@ -128,10 +128,10 @@ Microbiologic success rates by Candida species are presented in Table 16.
 
 Table 16: Clinical and mycological outcome by baseline pathogen in patients with esophageal candidiasis (Study-150-305)
 
-| Success/Total (%) | Eradication/Total (%) | Success/Total (%) | Eradication/Total (%) |  |
+|  | Success/Total (%) | Eradication/Total (%) | Success/Total (%) | Eradication/Total (%) |
 | --- | --- | --- | --- | --- |
 | PathogenSome patients had more than one species isolated at baseline | Voriconazole |  | Fluconazole |  |
-| Favorable endoscopic responsePatients with endoscopic and/or mycological assessment at end of therapy | Mycological eradication | Favorable endoscopic response | Mycological eradication |  |
+|  | Favorable endoscopic responsePatients with endoscopic and/or mycological assessment at end of therapy | Mycological eradication | Favorable endoscopic response | Mycological eradication |
 | C. albicans | 134/140 (96%) | 90/107 (84%) | 147/156 (94%) | 91/115 (79%) |
 | C. glabrata | 8/8 (100%) | 4/7 (57%) | 4/4 (100%) | 1/4 (25%) |
 | C. krusei | 1/1 | 1/1 | 2/2 (100%) | 0/0 |

@@ -24,13 +24,13 @@ Study 305 evaluated the effects of oral voriconazole (200 patients) and oral flu
 The rate of discontinuation from voriconazole study medication in Study 305 due to adverse events was 7% (14/200 patients).
 Laboratory test abnormalities for these studies are discussed under Clinical Laboratory Values below.
 
-Table 3: Treatment Emergent Adverse Events Rate ≥ 2% on Voriconazole or Adverse Events of Concern in All Therapeutic Studies Population, Studies 307/602–608 Combined, or Study 305.
+Table 3: Treatment Emergent Adverse Events Rate ≥ 2% on Voriconazole or Adverse Events of Concern in All Therapeutic Studies Population, Studies 307/602-608 Combined, or Study 305.
 Possibly Related to Therapy or Causality UnknownStudy 307/602: invasive aspergillosis; Study 608: candidemia; Study 305: esophageal candidiasis
 
 |  | N (%) | N (%) | N (%) | N (%) | N (%) | N (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | All Therapeutic Studies | Studies 307/602 and 608 (IV/ oral therapy) |  |  | Study 305 (oral therapy) |  |
-| Voriconazole N=1655 | Voriconazole N=468 | Ampho BAmphotericin B followed by other licensed antifungal therapy N=185 | Ampho B→ Fluconazole N=131 | Voriconazole N=200 | Fluconazole N=191 |  |
+|  | Voriconazole N=1655 | Voriconazole N=468 | Ampho BAmphotericin B followed by other licensed antifungal therapy N=185 | Ampho B→ Fluconazole N=131 | Voriconazole N=200 | Fluconazole N=191 |
 | Special SensesSee Warnings and Precautions (5.3) |  |  |  |  |  |  |
 | Abnormal vision | 310 (18.7) | 63 (13.5) | 1 (0.5) | 0 | 31 (15.5) | 8 (4.2) |
 | Photophobia | 37 (2.2) | 8 (1.7) | 0 | 0 | 5 (2.5) | 2 (1.0) |
@@ -93,7 +93,7 @@ Less Common Adverse Events
 
 The following adverse events occurred in <2% of all voriconazole-treated patients in all therapeutic studies (N=1655).
 This listing includes events where a causal relationship to voriconazole cannot be ruled out or those which may help the physician in managing the risks to the patients.
-The list does not include events included in Table 5 above and does not include every event reported in the voriconazole clinical program.
+The list does not include events included in Table 3 above and does not include every event reported in the voriconazole clinical program.
 
 Body as a Whole: abdominal pain, abdomen enlarged, allergic reaction, anaphylactoid reaction [see Warnings and Precautions (5.6)], ascites, asthenia, back pain, chest pain, cellulitis, edema, face edema, flank pain, flu syndrome, graft versus host reaction, granuloma, infection, bacterial infection, fungal infection, injection site pain, injection site infection/inflammation, mucous membrane disorder, multi-organ failure, pain, pelvic pain, peritonitis, sepsis, substernal chest pain.
 
@@ -152,9 +152,7 @@ Table 4: Protocol 305 – Patients with Esophageal Candidiasis Clinically Signif
 | AST | >3.0× ULN | 38/187 (20.3) | 15/186 (8.1) |
 | ALT | >3.0× ULN | 20/187 (10.7) | 12/186 (6.5) |
 | Alk phos | >3.0× ULN | 19/187 (10.2) | 14/186 (7.5) |
-| n = number of patients with a clinically significant abnormality while on study therapy |  |  |  |
-| N = total number of patients with at least one observation of the given lab test while on study therapy |  |  |  |
-| ULN = upper limit of normal |  |  |  |
+| n = number of patients with a clinically significant abnormality while on study therapy N = total number of patients with at least one observation of the given lab test while on study therapy ULN = upper limit of normal |  |  |  |
 
 Table 5: Protocol 307/602 – Primary Treatment of Invasive Aspergillosis Clinically Significant Laboratory Test Abnormalities
 
@@ -167,10 +165,7 @@ Table 5: Protocol 307/602 – Primary Treatment of Invasive Aspergillosis Clinic
 | Alk phos | >3.0× ULN | 29/181 (16.0) | 38/173 (22.0) |
 | Creatinine | >1.3× ULN | 39/182 (21.4) | 102/177 (57.6) |
 | Potassium | <0.9× LLN | 30/181 (16.6) | 70/178 (39.3) |
-| n = number of patients with a clinically significant abnormality while on study therapy |  |  |  |
-| N = total number of patients with at least one observation of the given lab test while on study therapy |  |  |  |
-| ULN = upper limit of normal |  |  |  |
-| LLN = lower limit of normal |  |  |  |
+| n = number of patients with a clinically significant abnormality while on study therapy N = total number of patients with at least one observation of the given lab test while on study therapy ULN = upper limit of normal LLN = lower limit of normal |  |  |  |
 
 Table 6: Protocol 608 – Treatment of Candidemia Clinically Significant Laboratory Test Abnormalities
 
@@ -183,10 +178,7 @@ Table 6: Protocol 608 – Treatment of Candidemia Clinically Significant Laborat
 | Alk phos | >3.0× ULN | 59/261 (22.6) | 26/115 (22.6) |
 | Creatinine | >1.3× ULN | 39/260 (15.0) | 32/118 (27.1) |
 | Potassium | <0.9× LLN | 43/258 (16.7) | 35/118 (29.7) |
-| n = number of patients with a clinically significant abnormality while on study therapy |  |  |  |
-| N = total number of patients with at least one observation of the given lab test while on study therapy |  |  |  |
-| ULN = upper limit of normal |  |  |  |
-| LLN = lower limit of normal |  |  |  |
+| n = number of patients with a clinically significant abnormality while on study therapy N = total number of patients with at least one observation of the given lab test while on study therapy ULN = upper limit of normal LLN = lower limit of normal |  |  |  |
 
 ## 6.4 Postmarketing Experience
 

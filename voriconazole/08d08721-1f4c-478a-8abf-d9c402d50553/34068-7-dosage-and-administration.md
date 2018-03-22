@@ -92,9 +92,9 @@ The final VFEND solution must be infused over 1–2 hours at a maximum rate of 3
 
 Table 2: Required Volumes of 10 mg/mL VFEND Concentrate
 
-| 3 mg/kg dose (number of vials) | 4 mg/kg dose (number of vials) | 6 mg/kg dose (number of vials) |  |
+| Body Weight (kg) | 3 mg/kg dose (number of vials) | 4 mg/kg dose (number of vials) | 6 mg/kg dose (number of vials) |
 | --- | --- | --- | --- |
-| Body Weight (kg) | Volume of VFEND Concentrate (10 mg/mL) required for: |  |  |
+|  | Volume of VFEND Concentrate (10 mg/mL) required for: |  |  |
 | 30 | 9.0 mL (1) | 12 mL (1) | 18 mL (1) |
 | 35 | 10.5 mL (1) | 14 mL (1) | 21 mL (2) |
 | 40 | 12.0 mL (1) | 16 mL (1) | 24 mL (2) |
@@ -119,21 +119,7 @@ Only clear solutions without particles should be used.
 
 The reconstituted solution can be diluted with:
 
-9 mg/mL (0.9%) Sodium Chloride USP
-
-Lactated Ringers USP
-
-5% Dextrose and Lactated Ringers USP
-
-5% Dextrose and 0.45% Sodium Chloride USP
-
-5% Dextrose USP
-
-5% Dextrose and 20 mEq Potassium Chloride USP
-
-0.45% Sodium Chloride USP
-
-5% Dextrose and 0.9% Sodium Chloride USP
+9 mg/mL (0.9%) Sodium Chloride USP Lactated Ringers USP 5% Dextrose and Lactated Ringers USP 5% Dextrose and 0.45% Sodium Chloride USP 5% Dextrose USP 5% Dextrose and 20 mEq Potassium Chloride USP 0.45% Sodium Chloride USP 5% Dextrose and 0.9% Sodium Chloride USP
 
 The compatibility of VFEND I.V. with diluents other than those described above is unknown (see Incompatibilities below).
 
