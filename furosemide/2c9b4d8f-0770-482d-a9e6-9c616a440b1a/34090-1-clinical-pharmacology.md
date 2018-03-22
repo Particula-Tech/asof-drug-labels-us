@@ -1,7 +1,7 @@
 # CLINICAL PHARMACOLOGY
 
 Investigations into the mode of action of LASIX have utilized micropuncture studies in rats, stop flow experiments in dogs and various clearance studies in both humans and experimental animals.
-It has been demonstrated that LASIX inhibits primarily the absorption of sodium and chloride not only in the proximal and distal tubules but also in the loop of Henle.
+It has been demonstrated that LASIX inhibits primarily the absorption of sodium and chloride not only in the proximal and distal tubu but also in the loop of Henle.
 The high degree of efficacy is largely due to the unique site of action.
 The action on the distal tubule is independent of any inhibitory effect on carbonic anhydrase and aldosterone.
 
@@ -26,6 +26,5 @@ There are no significant differences between the two oral formulations in the am
 
 Furosemide binding to albumin may be reduced in elderly patients.
 Furosemide is predominantly excreted unchanged in the urine.
-The renal clearance of furosemide after intravenous administration in older healthy male subjects (60-70 years of age) is statistically significantly smaller than in younger healthy male subjects (20-35 years of age).
-The initial diuretic effect of furosemide in older subjects is decreased relative to younger subjects.
-(See PRECAUTIONS: Geriatric Use.)
+The renal clearance of furosemide after intravenous administration in older healthy male subjects (60 to 70 years of age) is statistically significantly smaller than in younger healthy male subjects (20 to 35 years of age).
+The initial diuretic effect of furosemide in older subjects is decreased relative to younger subjects (see PRECAUTIONS: Geriatric Use).

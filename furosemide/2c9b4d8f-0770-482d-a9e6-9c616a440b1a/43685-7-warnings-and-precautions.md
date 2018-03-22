@@ -1,3 +1,8 @@
+# WARNING
+
+LASIX® (furosemide) is a potent diuretic which, if given in excessive amounts, can lead to a profound diuresis with water and electrolyte depletion.
+Therefore, careful medical supervision is required and dose and dose schedule must be adjusted to the individual patient’s needs (see DOSAGE AND ADMINISTRATION).
+
 # WARNINGS
 
 In patients with hepatic cirrhosis and ascites, LASIX therapy is best initiated in the hospital.
@@ -9,8 +14,7 @@ If increasing azotemia and oliguria occur during treatment of severe progressive
 
 Cases of tinnitus and reversible or irreversible hearing impairment and deafness have been reported.
 Reports usually indicate that LASIX ototoxicity is associated with rapid injection, severe renal impairment, the use of higher than recommended doses, hypoproteinemia or concomitant therapy with aminoglycoside antibiotics, ethacrynic acid, or other ototoxic drugs.
-If the physician elects to use high dose parenteral therapy, controlled intravenous infusion is advisable (for adults, an infusion rate not exceeding 4 mg LASIX per minute has been used).
-(See PRECAUTIONS: Drug Interactions)
+If the physician elects to use high dose parenteral therapy, controlled intravenous infusion is advisable (for adults, an infusion rate not exceeding 4mg LASIX per minute has been used) (see PRECAUTIONS: Drug Interactions).
 
 # PRECAUTIONS
 
@@ -63,8 +67,7 @@ Urine and blood glucose should be checked periodically in diabetics receiving LA
 LASIX may lower serum levels of calcium (rarely cases of tetany have been reported) and magnesium.
 Accordingly, serum levels of these electrolytes should be determined periodically.
 
-In premature infants LASIX may precipitate nephrocalcinosis/nephrolithiasis, therefore renal function must be monitored and renal ultrasonography performed.
-(See PRECAUTIONS: Pediatric Use)
+In premature infants LASIX may precipitate nephrocalcinosis/nephrolithiasis, therefore renal function must be monitored and renal ultrasonography performed (see PRECAUTIONS: Pediatric Use).
 
 ## Drug Interactions
 
@@ -77,11 +80,11 @@ Patients receiving high doses of salicylates concomitantly with LASIX, as in rhe
 There is a risk of ototoxic effects if cisplatin and LASIX are given concomitantly.
 In addition, nephrotoxicity of nephrotoxic drugs such as cisplatin may be enhanced if LASIX is not given in lower doses and with positive fluid balance when used to achieve forced diuresis during cisplatin treatment.
 
-LASIX has a tendency to antagonize the skeletal muscle relaxing effect of tubocurarine and may potentiate the action of succinylcholine.
+LASIX has a tendency to antagonize the skeletal muscle-relaxing effect of tubocurarine and may potentiate the action of succinylcholine.
 
 Lithium generally should not be given with diuretics because they reduce lithium’s renal clearance and add a high risk of lithium toxicity.
 
-LASIX combined with angiotensin converting enzyme inhibitors or angiotensin II receptor blockers may lead to severe hypotension and deterioration in renal function, including renal failure.
+LASIX combined with angiotensin-converting enzyme inhibitors or angiotensin II receptor blockers may lead to severe hypotension and deterioration in renal function, including renal failure.
 An interruption or reduction in the dosage of LASIX, angiotensin-converting enzyme inhibitors, or angiotensin receptor blockers may be necessary.
 
 Potentiation occurs with ganglionic or peripheral adrenergic blocking drugs.
@@ -107,7 +110,7 @@ LASIX can increase the risk of cephalosporin-induced nephrotoxicity even in the 
 
 Concomitant use of cyclosporine and LASIX is associated with increased risk of gouty arthritis secondary to LASIX-induced hyperurecemia and cyclosporine impairment of renal urate excretion.
 
-High doses (>80 mg) of furosemide may inhibit the binding of thyroid hormones to carrier proteins and result in transient increase in free thyroid hormones, followed by an overall decrease in total thyroid hormone levels.
+High doses (>80mg) of furosemide may inhibit the binding of thyroid hormones to carrier proteins and result in transient increase in free thyroid hormones, followed by an overall decrease in total thyroid hormone levels.
 
 One study in six subjects demonstrated that the combination of furosemide and acetylsalicylic acid temporarily reduced creatinine clearance in patients with chronic renal insufficiency.
 There are case reports of patients who developed increased BUN, serum creatinine and serum potassium levels, and weight gain when furosemide was used in conjunction with NSAIDs.
@@ -119,7 +122,7 @@ Patients receiving both indomethacin and LASIX should be observed closely to det
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Furosemide was tested for carcinogenicity by oral administration in one strain of mice and one strain of rats.
-A small but significantly increased incidence of mammary gland carcinomas occurred in female mice at a dose 17.5 times the maximum human dose of 600 mg.
+A small but significantly increased incidence of mammary gland carcinomas occurred in female mice at a dose 17.5 times the maximum human dose of 600mg.
 There were marginal increases in uncommon tumors in male rats at a dose of 15 mg/kg (slightly greater than the maximum human dose) but not at 30 mg/kg.
 
 Furosemide was devoid of mutagenic activity in various strains of Salmonella typhimurium when tested in the presence or absence of an in vitro metabolic activation system, and questionably positive for gene mutation in mouse lymphoma cells in the presence of rat liver S9 at the highest dose tested.
@@ -159,7 +162,7 @@ In premature infants LASIX may precipitate nephrocalcinosis/nephrolithiasis.
 Nephrocalcinosis/nephrolithiasis has also been observed in children under 4 years of age with no history of prematurity who have been treated chronically with LASIX.
 Monitor renal function, and renal ultrasonography should be considered, in pediatric patients receiving LASIX.
 
-If LASIX is administered to premature infants during the first weeks of life, it may increase the risk of persistence of patent ductus arteriosus
+If LASIX is administered to premature infants during the first weeks of life, it may increase the risk of persistence of patent ductus arteriosus.
 
 ## Geriatric Use
 
@@ -168,5 +171,4 @@ Other reported clinical experience has not identified differences in responses b
 In general, dose selection for the elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 
 This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection and it may be useful to monitor renal function.
-(See PRECAUTIONS: General and DOSAGE AND ADMINISTRATION.)
+Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection and it may be useful to monitor renal function (see PRECAUTIONS: General and DOSAGE AND ADMINISTRATION).

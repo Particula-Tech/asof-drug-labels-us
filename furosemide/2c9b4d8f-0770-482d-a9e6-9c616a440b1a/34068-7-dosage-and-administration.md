@@ -4,17 +4,16 @@
 
 Therapy should be individualized according to patient response to gain maximal therapeutic response and to determine the minimal dose needed to maintain that response.
 
-Adults -- The usual initial dose of LASIX is 20 to 80 mg given as a single dose.
+Adults -- The usual initial dose of LASIX is 20 to 80mg given as a single dose.
 Ordinarily a prompt diuresis ensues.
 If needed, the same dose can be administered 6 to 8 hours later or the dose may be increased.
-The dose may be raised by 20 or 40 mg and given not sooner than 6 to 8 hours after the previous dose until the desired diuretic effect has been obtained.
-The individually determined single dose should then be given once or twice daily (eg, at 8 am and 2 pm).
+The dose may be raised by 20 or 40mg and given not sooner than 6 to 8 hours after the previous dose until the desired diuretic effect has been obtained.
+The individually determined single dose should then be given once or twice daily (e.g., at 8 am and 2 pm).
 The dose of LASIX may be carefully titrated up to 600 mg/day in patients with clinically severe edematous states.
 
 Edema may be most efficiently and safely mobilized by giving LASIX on 2 to 4 consecutive days each week.
 
-When doses exceeding 80 mg/day are given for prolonged periods, careful clinical observation and laboratory monitoring are particularly advisable.
-(See PRECAUTIONS: Laboratory Tests.)
+When doses exceeding 80 mg/day are given for prolonged periods, careful clinical observation and laboratory monitoring are particularly advisable (see PRECAUTIONS: Laboratory Test).
 
 Geriatric patients -- In general, dose selection for the elderly patient should be cautious, usually starting at the low end of the dosing range (see PRECAUTIONS: Geriatric Use).
 
@@ -27,7 +26,7 @@ For maintenance therapy in pediatric patients, the dose should be adjusted to th
 
 Therapy should be individualized according to the patient’s response to gain maximal therapeutic response and to determine the minimal dose needed to maintain the therapeutic response.
 
-Adults -- The usual initial dose of LASIX for hypertension is 80 mg, usually divided into 40 mg twice a day.
+Adults -- The usual initial dose of LASIX for hypertension is 80mg, usually divided into 40mg twice a day.
 Dosage should then be adjusted according to response.
 If response is not satisfactory, add other antihypertensive agents.
 
