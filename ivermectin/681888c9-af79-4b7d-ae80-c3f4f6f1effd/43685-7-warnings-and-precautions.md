@@ -45,8 +45,6 @@ Ivermectin had no adverse effects on the fertility in rats in studies at repeate
 
 ### Teratogenic Effects
 
-#### Pregnancy Category C
-
 Ivermectin has been shown to be teratogenic in mice, rats, and rabbits when given in repeated doses of 0.2, 8.1, and 4.5 times the maximum recommended human dose, respectively (on a mg/m2/day basis).
 Teratogenicity was characterized in the three species tested by cleft palate; clubbed forepaws were additionally observed in rabbits.
 These developmental effects were found only at or near doses that were maternotoxic to the pregnant female.
