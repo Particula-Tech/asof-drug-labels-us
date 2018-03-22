@@ -3,7 +3,7 @@
 ## 2.1 Recommended Dosage
 
 The starting dose of GLUMETZA in patients who are not currently taking metformin is 500 mg orally, once daily with the evening meal.
-Increase the dose in 500 mg increments every 1-2 weeks if a higher dose of GLUMETZA is needed and there are no gastrointestinal adverse reactions.
+Increase the dose in 500 mg increments every 1-2 weeks if a higher dose of GLUMETZA is needed and there are no gastrointestinal (GI) adverse reactions.
 The dosage of GLUMETZA must be individualized on the basis of both effectiveness and tolerability, while not exceeding the maximum recommended daily dose of 2000 mg.
 
 ## 2.2 Recommendations for Use in Renal Impairment

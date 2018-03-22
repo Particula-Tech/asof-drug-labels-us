@@ -2,7 +2,7 @@
 
 PATIENT INFORMATION
 
-GLUMETZA (Gloo-met-za)
+GLUMETZA® (Gloo-met-za)
 
 (metformin hydrochloride extended-release tablets)
 
@@ -74,7 +74,8 @@ Before you take GLUMETZA, tell your doctor if you:
 - •have a history or risk for diabetic ketoacidosis (high levels of certain acids, known as ketones, in the blood or urine).
   GLUMETZA should not be used for the treatment of diabetic ketoacidosis.
 - •have severe kidney problems
-- •are going to get an injection of dye or contrast agents for an x-ray procedure, GLUMETZA may need to be stopped for a short time.
+- •are going to get an injection of dye or contrast agents for an x-ray procedure.
+  GLUMETZA may need to be stopped for a short time.
   Talk to your doctor about when you should stop GLUMETZA and when you should start GLUMETZA again.
   See “What is the most important information I should know about GLUMETZA?”
 - •have liver problems
@@ -174,7 +175,7 @@ This Patient Information summarizes the most important information about GLUMETZ
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about GLUMETZA that is written for health professionals.
 
-For more information, go to www.GlumetzaXR.com or call 1-800-508-0024.
+For more information, go to www.GlumetzaXR.com or call 1-800-321-4576.
 
 What are the ingredients in GLUMETZA?
 
@@ -201,8 +202,6 @@ Manufactured for: Salix Pharmaceuticals, a division of Valeant Pharmaceuticals N
 
 www.GlumetzaXR.com
 
-For prescription only
-
 U.S. Patent Numbers: 6,488,962; 6,723,340; 7,780,987 and 8,323,692
 
 Glumetza is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
@@ -210,6 +209,6 @@ Glumetza is a trademark of Valeant Pharmaceuticals International, Inc. or its af
 © Valeant Pharmaceuticals North America LLC
 
 - Rev.
-  500 mg: Update p/n
+  03/2018 500 mg: Update p/n
 
 1000 mg: Update p/n

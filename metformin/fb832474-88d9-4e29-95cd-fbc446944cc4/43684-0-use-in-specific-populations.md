@@ -30,7 +30,7 @@ Clinical studies of GLUMETZA did not include sufficient numbers of subjects aged
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy and the higher risk of lactic acidosis.
 Assess renal function more frequently in elderly patients.
-[See Warnings and Precautions (5.1) and Dosage and Administration (2.2).]
+[See Dosage and Administration (2.2) and Warnings and Precautions (5.1).]
 
 ## 8.6 Renal Impairment
 

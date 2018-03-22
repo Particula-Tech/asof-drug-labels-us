@@ -1,6 +1,6 @@
-PACKAGE LABEL – PRINCIPAL DISPLAY PANEL 500 MG
+## PACKAGE LABEL – PRINCIPAL DISPLAY PANEL 500 MG
 
-NDC 68012-XXX-XX
+NDC 68012-004-50
 
 Rx only
 
@@ -10,11 +10,27 @@ Glumetza® (metformin hydrochloride extended-release tablets)
 
 ONCE DAILY
 
-500 Tablets
+100 Tablets
 
 Salix
 
-PACKAGE LABEL – PRINCIPAL DISPLAY PANEL 1000 MG
+## PACKAGE LABEL – PRINCIPAL DISPLAY PANEL 500 MG
+
+NDC 68012-002-13
+
+Rx only
+
+Glumetza® (metformin hydrochloride extended-release tablets)
+
+500 mg
+
+ONCE DAILY
+
+100 Tablets
+
+Salix
+
+## PACKAGE LABEL – PRINCIPAL DISPLAY PANEL 1000 MG
 
 NDC 68012-003-16
 

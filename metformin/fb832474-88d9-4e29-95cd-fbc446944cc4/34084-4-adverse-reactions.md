@@ -8,7 +8,7 @@ The following adverse reactions are discussed in more detail in other sections o
 - • Vitamin B12 Levels [see Warnings and Precautions (5.2)]
 - • Hypoglycemia [see Warnings and Precautions (5.3)]
 
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 In clinical trials conducted in the U.S., over 1000 patients with type 2 diabetes mellitus have been treated with GLUMETZA 1500 to 2000 mg/day in active-controlled and placebo-controlled studies with the 500 mg dosage form.
 
 In the 24-week monotherapy trial comparing GLUMETZA to immediate-release metformin, serious adverse reactions were reported in 3.6% (19/528) of the GLUMETZA-treated patients compared to 2.9% (5/174) of the patients treated with immediate-release metformin.
@@ -38,7 +38,7 @@ Measurement of hematologic parameters on an annual basis is advised in patients 
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use.
-Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+The following adverse reactions have been identified during post-approval use of GLUMETZA.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Cholestatic, hepatocellular, and mixed hepatocellular liver injury.
