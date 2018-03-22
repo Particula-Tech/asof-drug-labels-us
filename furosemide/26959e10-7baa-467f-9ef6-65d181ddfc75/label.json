@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA016273"
+  ],
+  "inn": "furosemide",
+  "labeler": "Valeant Pharmaceuticals International Inc.",
+  "package_ndcs": [
+    "64734-066-05"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "furosemide",
+      "name": "Lasix"
+    }
+  ],
+  "setid": "26959e10-7baa-467f-9ef6-65d181ddfc75",
+  "source": "dailymed"
+}
