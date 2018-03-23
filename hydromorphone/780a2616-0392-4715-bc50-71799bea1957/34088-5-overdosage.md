@@ -2,7 +2,7 @@
 
 Clinical Presentation
 
-Acute overdosage with hydromorphone hydrochloride extended release tablets can be manifested by respiratory depression, somnolence progressing to stupor or coma, skeletal muscle flaccidity, cold and clammy skin, constricted pupils, and, in some cases pulmonary edema, bradycardia, hypotension, partial or complete airway obstruction, atypical snoring, and death.
+Acute overdosage with hydromorphone hydrochloride extended-release tablets can be manifested by respiratory depression, somnolence progressing to stupor or coma, skeletal muscle flaccidity, cold and clammy skin, constricted pupils, and, in some cases pulmonary edema, bradycardia, hypotension, partial or complete airway obstruction, atypical snoring, and death.
 Marked mydriasis rather than miosis may be seen with hypoxia in overdose situations.
 
 Treatment of Overdose
@@ -15,8 +15,8 @@ The opioid antagonists, naloxone and nalmefene, are specific antidotes to respir
 For clinically significant respiratory or circulatory depression secondary to hydromorphone overdose, administer an opioid antagonist.
 Opioid antagonists should not be administered in the absence of clinically significant respiratory or circulatory depression secondary to hydromorphone overdose.
 
-Because the duration of reversal is expected to be less than the duration of action of hydromorphone in hydromorphone hydrochloride extended release tablets, carefully monitor the patient until spontaneous respiration is reliably reestablished.
-Hydromorphone hydrochloride extended release tablets will continue to release hydromorphone and add to the hydromorphone load for up to 24 to 48 hours or longer following ingestion, necessitating prolonged monitoring.
+Because the duration of reversal is expected to be less than the duration of action of hydromorphone in hydromorphone hydrochloride extended-release tablets, carefully monitor the patient until spontaneous respiration is reliably reestablished.
+Hydromorphone hydrochloride extended-release tablets will continue to release hydromorphone and add to the hydromorphone load for up to 24 to 48 hours or longer following ingestion, necessitating prolonged monitoring.
 If the response to opioid antagonist is suboptimal or only brief in nature, administer additional antagonist as directed by the product's prescribing information.
 
 In an individual physically dependent on opioids, administration of the recommended usual dosage of the antagonist will precipitate an acute withdrawal syndrome.

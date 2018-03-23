@@ -1,10 +1,12 @@
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 8 mg
 
+Rx Only
+
 NDC 0574-0293-01
 
 Once Daily
 
-HYDROmorphone HCl Extended-Release Tables 8 mg
+HYDROmorphone HCl Extended-Release Tablets 8 mg
 
 CII
 
@@ -13,8 +15,6 @@ For opioid tolerant patients only
 Dispense the accompanying Medication Guide to each patient
 
 100 Tablets
-
-Rx Only
 
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 12 mg
 

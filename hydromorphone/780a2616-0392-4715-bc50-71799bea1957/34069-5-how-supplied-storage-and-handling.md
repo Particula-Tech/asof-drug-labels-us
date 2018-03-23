@@ -2,7 +2,7 @@
 
 How Supplied
 
-| Hydromorphone Hydrochloride Extended Release Tablets Strengths |  |  |  |  |
+| Hydromorphone Hydrochloride Extended-Release Tablets Strengths |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | Strength | Color | Tablet Description | Bottle Count | NDC |
 | 8 mg | Dark Beige | Round, biconvex, imprinted with “P293” over “8” on one side | 100 | 0574-0293-01 |

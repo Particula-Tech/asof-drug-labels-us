@@ -15,7 +15,7 @@ However, specific CNS opioid receptors for endogenous compounds with opioid-like
 
 CNS Depressant/Alcohol Interaction
 
-Additive pharmacodynamic effects may be expected when hydromorphone hydrochloride extended release tablets are used in conjunction with alcohol, other opioids, legal or illicit drugs that cause central nervous system depression.
+Additive pharmacodynamic effects may be expected when hydromorphone hydrochloride extended-release tablets are used in conjunction with alcohol, other opioids, legal or illicit drugs that cause central nervous system depression.
 
 Effects on the Central Nervous System
 
@@ -67,14 +67,14 @@ In opioid-tolerant patients, the situation may be altered by the development of 
 
 Absorption
 
-Hydromorphone hydrochloride extended release tablets are an extended-release formulation of hydromorphone that produces a gradual increase in hydromorphone concentrations.
-Following a single-dose administration of hydromorphone hydrochloride extended release tablets, plasma concentrations gradually increase over 6 to 8 hours, and thereafter concentrations are sustained for approximately 18 to 24 hours post-dose.
+Hydromorphone hydrochloride extended-release tablets are an extended-release formulation of hydromorphone that produces a gradual increase in hydromorphone concentrations.
+Following a single-dose administration of hydromorphone hydrochloride extended-release tablets, plasma concentrations gradually increase over 6 to 8 hours, and thereafter concentrations are sustained for approximately 18 to 24 hours post-dose.
 The median Tmax values ranged from 12 to 16 hours.
 The mean half-life was approximately 11 hours, ranging from 8 to 15 hours in most individual subjects.
-Linear pharmacokinetics has been demonstrated for hydromorphone hydrochloride extended release tablets over the dose range 8 to 64 mg, with a dose-proportional increase in Cmax and overall exposure (AUC0-∞) (see Table 5).
-Steady-state plasma concentrations are approximately twice those observed following the first dose, and steady state is reached after 3 to 4 days of once-daily dosing of hydromorphone hydrochloride extended release tablets.
-At steady state, hydromorphone hydrochloride extended release tablets given once daily maintained hydromorphone plasma concentrations within the same concentration range as the immediate-release tablet given 4 times daily at the same total daily dose and diminished the fluctuations between peak and trough concentrations seen with the immediate-release tablet (see Figure 1).
-The bioavailability of hydromorphone hydrochloride extended release tablets once daily and immediate-release hydromorphone four times daily in adults is comparable, as presented in Table 5.
+Linear pharmacokinetics has been demonstrated for hydromorphone hydrochloride extended-release tablets over the dose range 8 to 64 mg, with a dose-proportional increase in Cmax and overall exposure (AUC0-∞) (see Table 5).
+Steady-state plasma concentrations are approximately twice those observed following the first dose, and steady state is reached after 3 to 4 days of once-daily dosing of hydromorphone hydrochloride extended-release tablets.
+At steady state, hydromorphone hydrochloride extended-release tablets given once daily maintained hydromorphone plasma concentrations within the same concentration range as the immediate-release tablet given 4 times daily at the same total daily dose and diminished the fluctuations between peak and trough concentrations seen with the immediate-release tablet (see Figure 1).
+The bioavailability of hydromorphone hydrochloride extended-release tablets once daily and immediate-release hydromorphone four times daily in adults is comparable, as presented in Table 5.
 
 Figure 1.
 
@@ -82,7 +82,7 @@ Mean Steady-State Plasma Concentration Profile
 
 Table 5.
 
-Mean (±SD) Hydromorphone Hydrochloride Extended Release Tablets Pharmacokinetic Parameters
+Mean (±SD) Hydromorphone Hydrochloride Extended-Release Tablets Pharmacokinetic Parameters
 
 | Regimen | Dosage | Tmax* (hrs) | Cmax (ng/mL) | AUC (ng●hr/mL) | T1/2 (hr) |
 | --- | --- | --- | --- | --- | --- |
@@ -105,9 +105,9 @@ NA = not applicable
 
 Food Effect
 
-The pharmacokinetics of hydromorphone hydrochloride extended release tablets are not affected by food as indicated by bioequivalence when administered under fed and fasting conditions.
-Therefore, hydromorphone hydrochloride extended release tablets may be administered without regard to meals.
-When a 16 mg dose of hydromorphone hydrochloride extended release tablets was administered to healthy volunteers immediately following a high-fat meal, the median time to Cmax (Tmax) was minimally affected by the high-fat meal occurring at 16 hours compared to 18 hours while fasting.
+The pharmacokinetics of hydromorphone hydrochloride extended-release tablets are not affected by food as indicated by bioequivalence when administered under fed and fasting conditions.
+Therefore, hydromorphone hydrochloride extended-release tablets may be administered without regard to meals.
+When a 16 mg dose of hydromorphone hydrochloride extended-release tablets was administered to healthy volunteers immediately following a high-fat meal, the median time to Cmax (Tmax) was minimally affected by the high-fat meal occurring at 16 hours compared to 18 hours while fasting.
 
 Distribution
 
@@ -132,7 +132,7 @@ Specific Populations
 
 Age: Geriatric Patients
 
-Population PK analysis performed on plasma concentration data from 407 osteoarthritis (OA) patients using hydromorphone hydrochloride extended release tablets showed an average 11% increase in hydromorphone AUC in the elderly group (65 to 75 years of age) when compared to the younger age group (less than or equal to 65 years of age).
+Population PK analysis performed on plasma concentration data from 407 osteoarthritis (OA) patients using hydromorphone hydrochloride extended-release tablets showed an average 11% increase in hydromorphone AUC in the elderly group (65 to 75 years of age) when compared to the younger age group (less than or equal to 65 years of age).
 
 Sex
 
@@ -142,25 +142,25 @@ Hepatic Impairment
 
 In a study that used a single 4 mg oral dose of immediate-release hydromorphone tablets, four-fold increases in plasma levels of hydromorphone (Cmax and AUC0-∞) were observed in patients with moderate hepatic impairment (Child-Pugh Group B). Pharmacokinetics of hydromorphone in severe hepatic impairment patients has not been studied.
 Further increase in Cmax and AUC0-∞ of hydromorphone in this group is expected.
-Start patients with moderate hepatic impairment on 25% of the usual dose of hydromorphone hydrochloride extended release tablets and closely monitor for respiratory and central nervous system depression during dose titration.
+Start patients with moderate hepatic impairment on 25% of the usual dose of hydromorphone hydrochloride extended-release tablets and closely monitor for respiratory and central nervous system depression during dose titration.
 Consider alternate analgesic therapy for patients with severe hepatic impairment [see Dosage and Administration (2.5) and Specific Populations (8.6)].
 
 Renal Impairment
 
 Renal impairment affected the pharmacokinetics of hydromorphone and its metabolites following administration of a single 4 mg dose of immediate-release tablets.
 The effects of renal impairment on hydromorphone pharmacokinetics were two-fold and four-fold increases in plasma levels of hydromorphone (Cmax and AUC0-48h) in moderate (CLcr = 40 to 60 mL/min) and severe (CLcr < 30 mL/min) impairment, respectively.
-In addition, in patients with severe renal impairment hydromorphone appeared to be more slowly eliminated with longer terminal elimination half-life (40 hr) compared to subjects with normal renal function (15 hr). Start patients with moderate renal impairment on 50% of the usual hydromorphone hydrochloride extended release tablets dose for patients with normal renal function and closely monitor for respiratory and central nervous system depression during dose titration.
-As hydromorphone hydrochloride extended release tablets are only intended for once-daily administration, consider use of an alternate analgesic that may permit more flexibility with the dosing interval in patients with severe renal impairment [see Dosage and Administration (2.6) and Use in Specific Populations (8.7)].
+In addition, in patients with severe renal impairment hydromorphone appeared to be more slowly eliminated with longer terminal elimination half-life (40 hr) compared to subjects with normal renal function (15 hr). Start patients with moderate renal impairment on 50% of the usual hydromorphone hydrochloride extended-release tablets dose for patients with normal renal function and closely monitor for respiratory and central nervous system depression during dose titration.
+As hydromorphone hydrochloride extended-release tablets are only intended for once-daily administration, consider use of an alternate analgesic that may permit more flexibility with the dosing interval in patients with severe renal impairment [see Dosage and Administration (2.6) and Use in Specific Populations (8.7)].
 
 Drug Interaction Studies
 
 Alcohol Interaction
 
-An in vivo study examined the effect of alcohol (40%, 20%, 4% and 0%) on the bioavailability of a single dose of 16 mg of hydromorphone hydrochloride extended release tablets in healthy, fasted or fed volunteers.
+An in vivo study examined the effect of alcohol (40%, 20%, 4% and 0%) on the bioavailability of a single dose of 16 mg of hydromorphone hydrochloride extended-release tablets in healthy, fasted or fed volunteers.
 The results showed that the hydromorphone mean AUC0-∞ was 5% higher and 4% lower (not statistically significant) in the fasted and fed groups respectively after co-administration of 240 mL of 40% alcohol.
-The AUC0-∞ was similarly unaffected in subjects following the co-administration of hydromorphone hydrochloride extended release tablets and alcohol (240 mL of 20% or 4% alcohol).
+The AUC0-∞ was similarly unaffected in subjects following the co-administration of hydromorphone hydrochloride extended-release tablets and alcohol (240 mL of 20% or 4% alcohol).
 
-The change in geometric mean Cmax with concomitant administration of alcohol and hydromorphone hydrochloride extended release tablets ranged from an increase of 10% to 31% across all conditions studied.
+The change in geometric mean Cmax with concomitant administration of alcohol and hydromorphone hydrochloride extended-release tablets ranged from an increase of 10% to 31% across all conditions studied.
 The change in mean Cmax was greater in the fasted group of subjects.
 Following concomitant administration of 240 mL of 40% alcohol while fasting, the mean Cmax increased by 37% and up to 151% in an individual subject.
 Following the concomitant administration of 240 mL of 20% alcohol while fasting, the mean Cmax increased by 35% and up to 139% in an individual subject.

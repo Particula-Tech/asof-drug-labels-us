@@ -2,12 +2,12 @@
 
 ## 9.1 Controlled Substance
 
-Hydromorphone hydrochloride extended release tablets contain hydromorphone, a Schedule II controlled substance.
+Hydromorphone hydrochloride extended-release tablets contain hydromorphone, a Schedule II controlled substance.
 
 ## 9.2 Abuse
 
-Hydromorphone hydrochloride extended release tablets contain hydromorphone, a substance with a high potential for abuse similar to other opioids including fentanyl, hydrocodone, oxycodone, methadone, morphine, oxymorphone and tapentadol.
-Hydromorphone hydrochloride extended release tablets can be abused and is subject to misuse, abuse, addiction, and criminal diversion [see Warnings and Precautions (5.1)].
+Hydromorphone hydrochloride extended-release tablets contain hydromorphone, a substance with a high potential for abuse similar to other opioids including fentanyl, hydrocodone, oxycodone, methadone, morphine, oxymorphone and tapentadol.
+Hydromorphone hydrochloride extended-release tablets can be abused and is subject to misuse, abuse, addiction, and criminal diversion [see Warnings and Precautions (5.1)].
 
 The high drug content in extended-release formulations adds to the risk of adverse outcomes from abuse and misuse.
 
@@ -26,20 +26,20 @@ Abuse and addiction are separate and distinct from physical dependence and toler
 Healthcare providers should be aware that addiction may not be accompanied by concurrent tolerance and symptoms of physical dependence in all addicts.
 In addition, abuse of opioids can occur in the absence of true addiction.
 
-Hydromorphone hydrochloride extended release tablets, like other opioids, can be diverted for non-medical use into illicit channels of distribution.
+Hydromorphone hydrochloride extended-release tablets, like other opioids, can be diverted for non-medical use into illicit channels of distribution.
 Careful record-keeping of prescribing information, including quantity, frequency, and renewal requests, as required by state and federal law, is strongly advised.
 
 Proper assessment of the patient, proper prescribing practices, periodic re-evaluation of therapy, and proper dispensing and storage are appropriate measures that help to limit abuse of opioid drugs.
 
-Risks Specific to Abuse of Hydromorphone Hydrochloride Extended Release Tablets
+Risks Specific to Abuse of Hydromorphone Hydrochloride Extended-Release Tablets
 
-Hydromorphone hydrochloride extended release tablets are for oral use only.
+Hydromorphone hydrochloride extended-release tablets are for oral use only.
 
-Abuse of hydromorphone hydrochloride extended release tablets poses a risk of overdose and death.
-This risk is increased with concurrent abuse of hydromorphone hydrochloride extended release tablets with alcohol and other central nervous system depressants.
-Taking cut, broken, chewed, crushed, or dissolved hydromorphone hydrochloride extended release tablets enhances drug release and increases the risk of overdose and death.
+Abuse of hydromorphone hydrochloride extended-release tablets poses a risk of overdose and death.
+This risk is increased with concurrent abuse of hydromorphone hydrochloride extended-release tablets with alcohol and other central nervous system depressants.
+Taking cut, broken, chewed, crushed, or dissolved hydromorphone hydrochloride extended-release tablets enhances drug release and increases the risk of overdose and death.
 
-With intravenous abuse, the inactive ingredients in hydromorphone hydrochloride extended release tablets, may result in local tissue necrosis, infection, pulmonary granulomas, embolism and death, and increased risk of endocarditis and valvular heart injury.
+With intravenous abuse, the inactive ingredients in hydromorphone hydrochloride extended-release tablets, may result in local tissue necrosis, infection, pulmonary granulomas, embolism and death, and increased risk of endocarditis and valvular heart injury.
 Parenteral drug abuse is commonly associated with transmission of infectious disease such as hepatitis and HIV.
 
 ## 9.3 Dependence
@@ -52,8 +52,8 @@ Physical dependence results in withdrawal symptoms after abrupt discontinuation 
 Withdrawal also may be precipitated through the administration of drugs with opioid antagonist activity, e.g., naloxone, nalmefene, mixed agonist/antagonist analgesics (e.g., pentazocine, butorphanol, nalbuphine), or partial agonists (e.g., buprenorphine).
 Physical dependence may not occur to a clinically significant degree until after several days to weeks of continued opioid usage.
 
-Hydromorphone hydrochloride extended release tablets should not be abruptly discontinued [see Dosage and Administration (2.3)].
-If hydromorphone hydrochloride extended release tablets are abruptly discontinued in a physically-dependent patient, an abstinence syndrome may occur.
+Hydromorphone hydrochloride extended-release tablets should not be abruptly discontinued [see Dosage and Administration (2.3)].
+If hydromorphone hydrochloride extended-release tablets are abruptly discontinued in a physically-dependent patient, an abstinence syndrome may occur.
 Some or all of the following can characterize this syndrome: restlessness, lacrimation, rhinorrhea, yawning, perspiration, chills, piloerection, myalgia, mydriasis, irritability, anxiety, backache, joint pain, weakness, abdominal cramps, insomnia, nausea, anorexia, vomiting, diarrhea, increased blood pressure, respiratory rate, or heart rate.
 
 Infants born to mothers physically dependent on opioids will also be physically dependent and may exhibit respiratory difficulties and withdrawal signs [see Warnings and Precautions (5.3)].

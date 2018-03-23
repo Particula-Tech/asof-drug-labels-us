@@ -16,8 +16,8 @@ The following serious adverse reactions are discussed elsewhere in the labeling:
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-Hydromorphone hydrochloride extended release tablets were administered to a total of 2,524 patients in 15 controlled and uncontrolled clinical studies.
-Of these, 423 patients were exposed to hydromorphone hydrochloride extended release tablets for greater than 6 months and 141 exposed for greater than one year.
+Hydromorphone hydrochloride extended-release tablets were administered to a total of 2,524 patients in 15 controlled and uncontrolled clinical studies.
+Of these, 423 patients were exposed to hydromorphone hydrochloride extended-release tablets for greater than 6 months and 141 exposed for greater than one year.
 
 The most common adverse reactions leading to study discontinuation were nausea, vomiting, constipation, somnolence, and dizziness.
 The most common treatment-related serious adverse reactions from controlled and uncontrolled chronic pain studies were drug withdrawal syndrome, overdose, confusional state, and constipation.
@@ -35,7 +35,7 @@ Number (%) of Patients with Adverse Reactions Reported in ≥ 2% of Patients wit
 
 | Preferred Term | Open-Label Titration Phase | Double-Blind Treatment Phase |  |
 | --- | --- | --- | --- |
-|  | Hydromorphone Hydrochloride Extended Release Tablets(N=447) | Hydromorphone Hydrochloride Extended Release Tablets(N=134) | Placebo(N=134) |
+|  | Hydromorphone Hydrochloride Extended-Release Tablets(N=447) | Hydromorphone Hydrochloride Extended-Release Tablets(N=134) | Placebo(N=134) |
 | Constipation | 69 (15) | 10 (7) | 5 (4) |
 | Nausea | 53 (12) | 12 (9) | 10 (7) |
 | Somnolence | 39 (9) | 1 (1) | 0 (0) |
@@ -57,7 +57,7 @@ The adverse reactions that were reported in at least 2% of the total treated pat
 
 Table 3.
 
-Number (%) of Patients with Adverse Reactions Reported in ≥ 2% of Patients with Chronic Pain Receiving Hydromorphone Hydrochloride Extended Release Tablets in 14 Clinical Studies by Preferred Term
+Number (%) of Patients with Adverse Reactions Reported in ≥ 2% of Patients with Chronic Pain Receiving Hydromorphone Hydrochloride Extended-Release Tablets in 14 Clinical Studies by Preferred Term
 
 | Preferred Term | All Patients (N=2,474) |
 | --- | --- |
@@ -116,7 +116,9 @@ Metabolism and nutrition disorders: dehydration, fluid retention, increased appe
 
 Musculoskeletal and connective tissue disorders: myalgia
 
-Nervous system disorders: tremor, sedation, hypoesthesia, paresthesia, disturbance in attention, memory impairment, dysarthria, syncope, balance disorder, dysgeusia, depressed level of consciousness, coordination abnormal, hyperesthesia, myoclonus, dyskinesia, crying, hyperreflexia, encephalopathy, cognitive disorder, convulsion, psychomotor hyperactivity Psychiatric disorders: confusional state, nervousness, restlessness, abnormal dreams, mood altered, hallucination, panic attack, euphoric mood, paranoia, dysphoria, listless, suicide ideation, libido decreased, aggression
+Nervous system disorders: tremor, sedation, hypoesthesia, paresthesia, disturbance in attention, memory impairment, dysarthria, syncope, balance disorder, dysgeusia, depressed level of consciousness, coordination abnormal, hyperesthesia, myoclonus, dyskinesia, crying, hyperreflexia, encephalopathy, cognitive disorder, convulsion, psychomotor hyperactivity
+
+Psychiatric disorders: confusional state, nervousness, restlessness, abnormal dreams, mood altered, hallucination, panic attack, euphoric mood, paranoia, dysphoria, listless, suicide ideation, libido decreased, aggression
 
 Renal and urinary disorders: dysuria, urinary retention, urinary frequency, urinary hesitation, micturition disorder
 
@@ -137,6 +139,6 @@ Serotonin syndrome: Cases of serotonin syndrome, a potentially life-threatening 
 
 Adrenal insufficiency: Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use [see Warnings and Precautions (5.6)].
 
-Anaphylaxis: Anaphylactic reaction has been reported with ingredients contained in hydromorphone hydrochloride extended release tablets [see Contraindications (4) and Warnings and Precautions (5.12)].
+Anaphylaxis: Anaphylactic reaction has been reported with ingredients contained in hydromorphone hydrochloride extended-release tablets [see Contraindications (4) and Warnings and Precautions (5.12)].
 
 Androgen deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [see Clinical Pharmacology (12.2)].
