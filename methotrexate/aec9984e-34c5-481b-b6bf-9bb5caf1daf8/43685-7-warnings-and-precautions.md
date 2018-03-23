@@ -29,7 +29,7 @@ Patients with peptic ulcer disease or ulcerative colitis are at a greater risk o
 
 Interrupt or discontinue XATMEP and institute appropriate supportive care as needed.
 
-Unexpectedly severe and fatal gastrointestinal toxicity can occur with concomitant administration of XATMEP (primarily at high dosage) and nonsteroidal anti-inflammatory drugs (NSAIDs) [see Drug Interactions (7.2)].
+Unexpectedly severe and fatal gastrointestinal toxicity can occur with concomitant administration of XATMEP (primarily at high dosage) and nonsteroidal anti-inflammatory drugs (NSAIDs) [see Drug Interactions (7.1)].
 
 ## 5.5 Hepatic Toxicity
 
@@ -118,4 +118,4 @@ Both the physician and pharmacist should emphasize to the patient that the recom
 
 Advise patients to measure XATMEP with an accurate milliliter measuring device.
 Inform patients that a household teaspoon is not an accurate measuring device and could lead to overdosage, which can result in serious adverse reactions [see Overdosage (10)].
-Advise patients to ask their pharmacist to recommend an appropriate measuring device and for instructions for measuring the correct dose [see Dosage and Administration (2.5), Patient Counseling Information (17)].
+Advise patients to ask their pharmacist to recommend an appropriate measuring device and for instructions for measuring the correct dose [see Dosage and Administration (2.1), Patient Counseling Information (17)].

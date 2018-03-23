@@ -2,7 +2,7 @@
 
 Importance of Proper Dosing and Administration
 
-Advise patient that the recommended dose should be taken one time weekly, as directed, and that mistaken daily use of the recommended dose has led to fatal toxicity [see Dosage and Administration (2.1), Warnings and Precautions (5.5)].
+Advise patient that the recommended dose should be taken one time weekly, as directed, and that mistaken daily use of the recommended dose has led to fatal toxicity [see Dosage and Administration (2.1), Warnings and Precautions (5.15)].
 
 Advise patients and caregivers to measure XATMEP with an accurate milliliter measuring device.
 A household teaspoon is not an accurate measuring device.
@@ -71,4 +71,4 @@ Silvergate Pharmaceuticals, Inc. 6251 Greenwood Plaza Blvd, Ste 101 Greenwood Vi
 
 US Patent 9,259,427
 
-MTX-1711
+MTX-1801

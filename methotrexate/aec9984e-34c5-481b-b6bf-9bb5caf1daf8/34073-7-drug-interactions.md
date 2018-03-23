@@ -20,6 +20,12 @@ Probenecid
 Probenecid may reduce renal elimination of methotrexate.
 Consider alternative drugs.
 
+Nitrous Oxide Anesthesia
+
+The use of nitrous oxide anesthesia potentiates the effect of methotrexate on folate-dependent metabolic pathways, resulting in the potential for increase toxicity such as neurotoxicity.
+Avoid concomitant nitrous oxide anesthesia in patients receiving methotrexate.
+Use caution when administering methotrexate after a recent history of nitrous oxide administration.
+
 ## 7.2 Effect of XATMEP on Other Drugs
 
 Theophylline

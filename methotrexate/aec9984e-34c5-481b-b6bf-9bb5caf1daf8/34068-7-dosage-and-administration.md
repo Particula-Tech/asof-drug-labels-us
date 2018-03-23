@@ -4,9 +4,9 @@
 
 XATMEP is intended for oral use only.
 Use another formulation of methotrexate for alternative dosing in patients who require dosing via other routes of administration.
-Instruct patients and caregivers that the recommended dose should be taken weekly, as directed, and that mistaken daily use of the recommended dose has led to fatal toxicity [see Warnings and Precautions (5.5), Overdosage (10)].
+Instruct patients and caregivers that the recommended dose should be taken weekly, as directed, and that mistaken daily use of the recommended dose has led to fatal toxicity [see Warnings and Precautions (5.15), Overdosage (10)].
 
-It is important that XATMEP be measured with an accurate measuring device [see Warnings and Precautions (5.5), Patient Counseling Information (17)].
+It is important that XATMEP be measured with an accurate measuring device [see Warnings and Precautions (5.15), Patient Counseling Information (17)].
 A household teaspoon is not an accurate measuring device.
 A pharmacist can provide an appropriate device and can provide instructions for measuring the correct dose.
 
@@ -30,7 +30,7 @@ Certain side effects such as mouth sores may be reduced by folate supplementatio
 ## 2.4 Evaluations Prior to Starting Methotrexate
 
 Assess hematologic, hepatic, and renal function before beginning, as well as periodically during and before reinstituting, therapy with XATMEP [see Warnings and Precautions (5.1, 5.3, 5.5, 5.7, 5.14)].
-Exclude pregnancy in females of reproductive potential before starting XATMEP [see Contraindications (4), Warnings and Precautions (5.2), Use in Specific Populations (8.1, 8.3)].
+Exclude pregnancy in females of reproductive potential before starting XATMEP [see Contraindications (4), Warnings and Precautions (5.9), Use in Specific Populations (8.1, 8.3)].
 
 ## 2.5 Handling Information
 
