@@ -6,14 +6,14 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 In clinical trials with CLOBEX Shampoo, 0.05%, the following adverse reactions have been reported: headache, burning/stinging, pruritus, edema, folliculitis, acne, dry skin, irritant dermatitis, alopecia, urticaria, skin atrophy and telangiectasia.
 Table 1 summarizes selected adverse reactions that occurred in at least 1% of subjects in the Phase 2 and 3 studies for scalp psoriasis.
 
-Table 1: Summary of Selected Adverse Reactions ≥1% by Body System
+Table 1: Summary of Selected Averse Reactions ≥ 1% by Body System
 
-| Body System | CLOBEX Shampoo, 0.05%N=558 | Vehicle Shampoo, 0.05%N=127 |
+| Body System | Clobex Shampoo, 0.05% N=558 | Vehicle Shampoo N=127 |
 | --- | --- | --- |
 | Skin and Appendages | 49 (8.8%) | 28 (22.0%) |
 | Discomfort Skin | 26 (4.7%) | 16 (12.6%) |
 | Pruritus | 3 (0.5%) | 9 (7.1%) |
-| Body As A Whole | 33 (5.9%) | 12 (9.4%) |
+| Body as a Whole | 33 (5.9%) | 12 (9.4%) |
 | Headache | 10 (1.8%) | 1 (0.8%) |
 
 Systemic absorption of topical corticosteroids has produced reversible HPA axis suppression, manifestations of Cushing's syndrome, hyperglycemia, and glucosuria in some patients.

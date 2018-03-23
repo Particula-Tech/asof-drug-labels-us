@@ -26,32 +26,17 @@ Apply a thin film to affected areas of the scalp once daily; apply on dry scalp 
 Do not apply CLOBEX® (clobetasol propionate) Shampoo, 0.05% to the face, underarms or groin, and avoid contact with eyes and lips.
 Do not use for longer than 4 weeks.
 See package insert for complete prescribing information.
+See carton closure for lot number and expiration date.
 
-Each mL contains: Active ingredient: clobetasol propionate, 0.05%.
+Each mL contains:Active ingredient: clobetasol propionate, 0.05%.
 
 Excipients: alcohol, citric acid, coco-betaine, polyquaternium-10, purified water, sodium citrate, and sodium laureth sulfate.
 
 Storage: Keep tightly closed.
-Store at controlled room temperature 68F to 77F (20C-25C).
-
-US Patent Pending
+Store at controlled room temperature 68° to 77°F (20°- 25°C) with excursions permitted between 59° to 86°F (15°- 30°C).
 
 Marketed by:
 
 GALDERMA LABORATORIES, L.P.
 
-Fort Worth, Texas 76177 USA
-
-Manufactured by:
-
-G Production Inc.
-
-Baie d'Urfe, QC, H9X 3S4 Canada
-
-Made in Canada
-
-GALDERMA is a registered trademark.
-
-www.clobex.com
-
-P51351-1
+Fort Worth, Texas 76177 USA All trademarks are the property of their respective owners. www.clobex.com P51351-2
