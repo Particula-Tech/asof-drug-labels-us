@@ -1,6 +1,12 @@
-Patient Information Guanfacine (gwahn' fa seen) Extended-Release Tablets
+# Patient Information
 
-Rx Only Read the Patient Information that comes with guanfacine extended-release before you start taking it and each time you get a refill.
+Guanfacine (gwahn' fa seen)
+
+Extended-Release Tablets
+
+Rx Only
+
+Read the Patient Information that comes with guanfacine extended-release before you start taking it and each time you get a refill.
 There may be new information.
 This leaflet does not take the place of talking with your doctor about your medical condition or your treatment.
 
@@ -24,7 +30,7 @@ Before you take guanfacine extended-release tablets, tell your doctor if you:
 
 - have heart problems or a low heart rate
 - have fainted
-- have low blood pressure
+- have low or high blood pressure
 - have liver or kidney problems
 - have any other medical conditions
 - are pregnant or plan to become pregnant.
@@ -58,6 +64,10 @@ How should I take guanfacine extended-release tablets?
 - Take guanfacine extended-release tablets exactly as your doctor tells you.
 - Your doctor may change your dose.
   Do not change your dose of guanfacine extended-release tablets without talking to your doctor.
+- Try not to miss your dose of guanfacine extended-release tablets.
+  If you miss a dose of guanfacine extended-release tablets, take the next dose at your regular time.
+  If you miss 2 or more doses, talk to your doctor, as you may need to restart guanfacine extended-release tablets with a lower dose.
+- Do not take a double dose to make up for a missed dose.
 - Do not stop taking guanfacine extended-release tablets without talking to your doctor.
 - Guanfacine extended-release tablets should be taken 1 time a day in the morning or in the evening, either alone or in combination with an ADHD stimulant medicine that your doctor may prescribe.
   Your doctor will tell you when to take guanfacine extended-release tablets and when to take your ADHD stimulant medication.
@@ -76,6 +86,8 @@ What should I avoid while taking guanfacine extended-release tablets?
   Guanfacine extended-release tablets taken with alcohol or medicines that cause sleepiness or dizziness may make your sleepiness or dizziness worse.
 - Do not become dehydrated or overheated.
   This may increase your chance of having low blood pressure or fainting while taking guanfacine extended-release tablets.
+- Do not suddenly stop guanfacine extended-release tablets.
+  Tell your healthcare provider if you have been vomiting and cannot take guanfacine extended-release tablets, you may be at risk for rebound hypertension.
 
 What are the possible side effects of guanfacine extended-release tablets?
 
@@ -85,6 +97,9 @@ Guanfacine extended-release tablets may cause serious side effects including:
 - low heart rate
 - fainting
 - sleepiness
+- increased blood pressure and heart rate after suddenly stopping guanfacine extended-release tablets (rebound hypertension).
+  Suddenly stopping guanfacine extended-release tablets can cause increased blood pressure and heart rate and other withdrawal symptoms such as headache, confusion, nervousness, agitation, and tremors.
+  If these symptoms continue to get worse and are left untreated, it could lead to a very serious condition including very high blood pressure, feeling very sleepy or tired, severe headache, vomiting, vision problems, seizures.
 
 Get medical help right away, if you have any of the symptoms listed above.
 
@@ -130,8 +145,8 @@ You can ask your pharmacist or doctor for information about guanfacine extended-
 For more information, call Actavis at 1-800-432-8534.
 
 What are the ingredients in guanfacine extended-release tablets?
-Active ingredient: guanfacine hydrochloride, USP Inactive ingredients: colloidal silicon dioxide, crospovidone, fumaric acid, glyceryl behenate, hydroxypropyl cellulose, hypromellose, lactose monohydrate, microcrystalline cellulose, and povidone.
-In addition, the 1 mg and 2 mg tablets contain FD&C Yellow #6 Aluminum Lake and the 3 mg and 4 mg tablets contain D&C Yellow #10.
+Active ingredient: guanfacine hydrochloride Inactive ingredients: colloidal silicon dioxide, crospovidone, fumaric acid, glyceryl behenate, hydroxypropyl cellulose, hypromellose, lactose monohydrate, microcrystalline cellulose, and povidone.
+In addition, the 1 mg and 2 mg tablets contain FD&C Yellow #6 Aluminum Lake and the 3 mg and 4 mg tablets contain D&C Yellow #10 Aluminum Lake.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
@@ -139,4 +154,8 @@ Manufactured by: Actavis Elizabeth LLC Elizabeth, NJ 07207 USA
 
 Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
-40-9117 (PIL 41-1183/0816)
+40-9117
+
+(PIL 41-1183/0118)
+
+Revised – January 2018

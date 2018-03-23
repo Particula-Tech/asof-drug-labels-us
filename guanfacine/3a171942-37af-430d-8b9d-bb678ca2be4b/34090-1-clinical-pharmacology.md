@@ -30,15 +30,17 @@ A comparison across studies suggests that the Cmax is 60% lower and AUC0-∞ 43%
 Therefore, the relative bioavailability of guanfacine extended-release to immediate-release guanfacine is 58%.
 The mean pharmacokinetic parameters in adults following the administration of guanfacine extended-release 1 mg once daily and immediate-release guanfacine 1 mg once daily are summarized in Table 15.
 
-Table 15: Comparison of Pharmacokinetics: Guanfacine Extended-Release vs. Immediate Release Guanfacine in Adults
+Table 15: Comparison of Pharmacokinetics: Guanfacine Extended-Release vs. Immediate release Guanfacine in Adults
 
-| Parameter | Guanfacine Extended-Release 1 mg once daily (n=52) | Immediate-Release Guanfacine 1 mg once daily (n=12) |
+| Parameter | Guanfacine Extended-Release 1 mg once daily (n=52) | Immediate-release guanfacine 1 mg once daily (n=12) |
 | --- | --- | --- |
 | Cmax (ng/mL) | 1.0 ± 0.3 | 2.5 ± 0.6 |
 | AUC0-∞ (ng.h/mL) | 32 ± 9 | 56 ± 15 |
 | tmax (h) | 6.0 (4.0 – 8.0) | 3.0 (1.5-4.0) |
 | t½ (h) | 18 ± 4 | 16 ± 3 |
 | Note: Values are mean +/- SD, except for tmax which is median (range) |  |  |
+
+Figure 1: Comparison of Pharmacokinetics: Guanfacine Extended-Release vs. Immediate-release Guanfacine in Adults
 
 Exposure to guanfacine was higher in children (ages 6 to 12) compared to adolescents (ages 13 to 17) and adults.
 After oral administration of multiple doses of guanfacine extended-release 4 mg, the Cmax was 10 ng/mL compared to 7 ng/mL and the AUC was 162 ng•h/mL compared to 116 ng•h/mL in children (ages 6 to 12) and adolescents (ages 13 to 17), respectively.

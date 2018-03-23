@@ -22,3 +22,14 @@ Advise patients to avoid use with alcohol.
 
 The sympatholytic action of guanfacine extended-release may worsen sinus node dysfunction and atrioventricular (AV) block, especially in patients taking other sympatholytic drugs.
 Titrate guanfacine extended-release slowly and monitor vital signs frequently in patients with cardiac conduction abnormalities or patients concomitantly treated with other sympatholytic drugs.
+
+## 5.4 Rebound Hypertension
+
+In post marketing experience, abrupt discontinuation of guanfacine extended-release tablets has resulted in clinically significant and persistent rebound hypertension above baseline levels and increases in heart rate.
+Hypertensive encephalopathy has also been reported in association with rebound hypertension with both guanfacine extended-release tablets and immediate release guanfacine [see Adverse Reactions (6.2)].
+In these cases, high-dosage guanfacine was discontinued; concomitant stimulant use was also reported, which may potentially increase hypertensive response upon abrupt discontinuation of guanfacine.
+Children commonly have gastrointestinal illnesses that lead to vomiting, and a resulting inability to take medications, so they may be especially at risk for rebound hypertension.
+
+To minimize the risk of rebound hypertension upon discontinuation, the total daily dose of guanfacine extended-release tablets should be tapered in decrements of no more than 1 mg every 3 to 7 days [see Dosage and Administration (2.5)].
+Blood pressure and heart rate should be monitored when reducing the dose or discontinuing guanfacine extended-release tablets.
+If abrupt discontinuation occurs (especially with concomitant stimulant use), patients should be closely followed for rebound hypertension.

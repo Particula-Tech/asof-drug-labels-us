@@ -5,6 +5,7 @@ The following serious adverse reactions are described elsewhere in the labeling:
 - Hypotension, bradycardia, and syncope [see Warnings and Precautions (5.1)]
 - Sedation and somnolence [see Warnings and Precautions (5.2)]
 - Cardiac conduction abnormalities [see Warnings and Precautions (5.3)]
+- Rebound Hypertension [see Warnings and Precautions (5.4)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -184,4 +185,4 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Less frequent, possibly guanfacine-related events observed in the postmarketing study and/or reported spontaneously, not included in section 6.1, include:
 
-General: edema, malaise, tremor Cardiovascular: palpitations, tachycardia Central Nervous System: paresthesias, vertigo Eye Disorders: blurred vision Musculoskeletal System: arthralgia, leg cramps, leg pain, myalgia Psychiatric: confusion, hallucinations Reproductive System, Male: impotence Respiratory System: dyspnea Skin and Appendages: alopecia, dermatitis, exfoliative dermatitis, pruritus, rash Special Senses: alterations in taste
+General: edema, malaise, tremor Cardiovascular: palpitations, tachycardia, rebound hypertension, hypertensive encephalopathy Central Nervous System: paresthesias, vertigo Eye Disorders: blurred vision Musculoskeletal System: arthralgia, leg cramps, leg pain, myalgia Psychiatric: confusion, hallucinations Reproductive System, Male: impotence Respiratory System: dyspnea Skin and Appendages: alopecia, dermatitis, exfoliative dermatitis, pruritus, rash Special Senses: alterations in taste

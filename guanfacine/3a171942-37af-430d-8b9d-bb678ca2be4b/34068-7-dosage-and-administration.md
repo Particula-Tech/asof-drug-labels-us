@@ -38,7 +38,7 @@ However, due to Shire US Inc.'s marketing exclusivity rights, this drug product 
 
 ## 2.5 Discontinuation of Treatment
 
-Following discontinuation of guanfacine extended-release, patients may experience increases in blood pressure and heart rate [see Adverse Reactions (6.1)].
+Following discontinuation of guanfacine extended-release, patients may experience increases in blood pressure and heart rate [see Warnings and Precautions (5.4) and Adverse Reactions (6)].
 Patients/caregivers should be instructed not to discontinue guanfacine extended-release without consulting their health care provider.
 Monitor blood pressure and pulse when reducing the dose or discontinuing the drug.
 Taper the daily dose in decrements of no more than 1 mg every 3 to 7 days to avoid rebound hypertension.

@@ -9,7 +9,9 @@ Tablets should not be crushed, chewed or broken prior to administration because 
 Patients should not take guanfacine extended-release tablets together with a high-fat meal, since this can raise blood levels of guanfacine extended-release.
 Instruct the parent or caregiver to supervise the child or adolescent taking guanfacine extended-release tablets and to keep the bottle of tablets out of reach of children.
 
-Instruct patients on how to properly taper the medication, if the health care provider decides to discontinue treatment [see Dosage and Administration (2.5)].
+Advise patients not to abruptly discontinue guanfacine extended-release tablets as abrupt discontinuation can result in clinically significant rebound hypertension.
+Concomitant stimulant use and abrupt discontinuation of guanfacine extended-release tablets may increase this hypertensive response.
+Instruct patients on how to properly taper the dose to minimize the risk of rebound hypertension [see Dosage and Administration (2.5) and Warnings and Precautions (5.4)].
 
 Adverse Reactions
 
@@ -29,4 +31,4 @@ Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
 40-9117
 
-Revised – August 2016
+Revised – January 2018
