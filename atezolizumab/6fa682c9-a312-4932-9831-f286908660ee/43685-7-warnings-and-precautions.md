@@ -149,12 +149,12 @@ New onset diabetes with ketoacidosis has occurred in patients receiving TECENTRI
 Diabetes mellitus without an alternative etiology occurred in one (0.2%) patient with urothelial carcinoma and three (0.3%) patients with NSCLC.
 
 Initiate treatment with insulin for type 1 diabetes mellitus.
-For ≥ Grade 3 hyperglycemia (fasting glucose >250–500 mg/dL), withhold TECENTRIQ.
+For ≥ Grade 3 hyperglycemia (fasting glucose >250 mg/dL), withhold TECENTRIQ.
 Resume treatment with TECENTRIQ when metabolic control is achieved on insulin replacement therapy [see Dosage and Administration (2.2) and Adverse Reactions (6.1)].
 
 ## 5.5 Other Immune-Related Adverse Reactions
 
-Other immune-related adverse reactions including meningoencephalitis, myasthenic syndrome/myasthenia gravis, Guillain-Barré, ocular inflammatory toxicity, and pancreatitis, including increases in serum amylase and lipase levels, have occurred in ≤ 1.0% of patients treated with TECENTRIQ.
+Other immune-related adverse reactions including meningoencephalitis, myasthenic syndrome/myasthenia gravis, Guillain-Barré, ocular inflammatory toxicity, pancreatitis, including increases in serum amylase and lipase levels, and myocarditis have occurred in ≤ 1.0% of patients treated with TECENTRIQ.
 
 Meningitis / Encephalitis
 
@@ -179,6 +179,13 @@ Treat with 1–2 mg/kg IV methylprednisolone or equivalent per day.
 Once symptoms improve, follow with 1–2 mg/kg of oral prednisone or equivalent per day.
 Resume treatment with TECENTRIQ when serum amylase and lipase levels improve to ≤ Grade 1 within 12 weeks or symptoms of pancreatitis have resolved, and corticosteroids have been reduced to ≤ 10 mg oral prednisone or equivalent per day.
 Permanently discontinue TECENTRIQ for Grade 4 or any grade of recurrent pancreatitis [see Dosage and Administration (2.2) and Adverse Reactions (6.1)].
+
+Myocarditis
+
+Monitor patients for signs and symptoms of myocarditis.
+Withhold TECENTRIQ for Grade 2 myocarditis.
+Permanently discontinue TECENTRIQ for Grade 3 or 4 myocarditis.
+Consider initiation of treatment with systemic corticosteroids [see Dosage and Administration (2.2)].
 
 ## 5.6 Infection
 

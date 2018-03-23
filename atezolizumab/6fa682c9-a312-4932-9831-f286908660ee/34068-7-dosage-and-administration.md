@@ -18,6 +18,7 @@ Withhold TECENTRIQ for any of the following:
 - Symptomatic hypophysitis, adrenal insufficiency, hypothyroidism, hyperthyroidism, or Grade 3 or 4 hyperglycemia [see Warnings and Precautions (5.4)]
 - Grade 2 ocular inflammatory toxicity [see Warnings and Precautions (5.5)]
 - Grade 2 or 3 pancreatitis, or Grade 3 or 4 increases in amylase or lipase levels (greater than 2.0 times ULN) [see Warnings and Precautions (5.5)]
+- Grade 2 myocarditis [see Warnings and Precautions (5.5)]
 - Grade 3 or 4 infection [see Warnings and Precautions (5.6)]
 - Grade 2 infusion-related reactions [see Warnings and Precautions (5.7)]
 - Grade 3 rash
@@ -33,6 +34,7 @@ Permanently discontinue TECENTRIQ for any of the following:
 - Myasthenic syndrome/myasthenia gravis, Guillain-Barré or meningoencephalitis (all grades) [see Warnings and Precautions (5.5)]
 - Grade 3 or 4 ocular inflammatory toxicity [see Warnings and Precautions (5.5)]
 - Grade 4 or any grade of recurrent pancreatitis [see Warnings and Precautions (5.5)]
+- Grade 3 or 4 myocarditis [see Warnings and Precautions (5.5)]
 - Grade 3 or 4 infusion-related reactions [see Warnings and Precautions (5.7)]
 - Grade 4 rash
 

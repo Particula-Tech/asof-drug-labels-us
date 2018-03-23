@@ -11,6 +11,7 @@ Inform patients of the risk of immune-related adverse reactions that may require
 - Meningoencephalitis, Myasthenic syndrome/Myasthenia Gravis, and Guillain-Barré syndrome: Advise patients to contact their healthcare provider immediately for signs or symptoms of meningitis, myasthenic syndrome/myasthenia gravis, or Guillain-Barré syndrome [see Warnings and Precautions (5.5)].
 - Ocular Inflammatory Toxicity: Advise patients to contact their healthcare provider immediately for signs or symptoms of ocular inflammatory toxicity [see Warnings and Precautions (5.5)].
 - Pancreatitis: Advise patients to contact their healthcare provider immediately for signs and symptoms of pancreatitis [see Warnings and Precautions (5.5)].
+- Myocarditis: Advise patients to contact their healthcare provider immediately for signs and symptoms of myocarditis [see Warnings and Precautions (5.5)].
 - Infection: Advise patients to contact their healthcare provider immediately for signs or symptoms of infection [see Warnings and Precautions (5.6)].
 - Infusion-Related Reactions: Advise patients to contact their healthcare provider immediately for signs or symptoms of infusion-related reactions [see Warnings and Precautions (5.7)].
 - Rash: Advise patients to contact their healthcare provider immediately for signs or symptoms of rash [see Dosage and Administration (2.2)].

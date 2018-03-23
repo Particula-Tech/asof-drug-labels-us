@@ -15,6 +15,8 @@
 | severe muscle weaknessnumbness or tingling in hands or feetfeverconfusion |  | changes in mood or behaviorextreme sensitivity to lightneck stiffness |  |  |
 | Inflammation of the eyes. Signs and symptoms may include: |  |  |  |  |
 | blurry vision, double vision, or other vision problems |  | eye pain or redness |  |  |
+| Heart problems. Signs and symptoms may include: |  |  |  |  |
+| chest painshortness of breathirregular heartbeat |  | decreased exercise toleranceankle swelling |  |  |
 | Severe infections. Signs and symptoms of infection may include: |  |  |  |  |
 | fevercoughfrequent urination |  | flu-like symptomspain when urinating |  |  |
 | Severe infusion reactions. Signs and symptoms of infusion reactions may include: |  |  |  |  |
@@ -44,4 +46,4 @@
 | Manufactured by: Genentech, Inc., A Member of the Roche Group, 1 DNA Way, South San Francisco, CA 94080-4990 USA |  |  |  |  |
 | U.S. License No. 1048 TECENTRIQ is a registered trademark of Genentech, Inc. |  |  |  |  |
 | For more information, call 1-844-832-3687 or go to www.TECENTRIQ.com. |  |  |  |  |
-| This Medication Guide has been approved by the U.S. Food and Drug Administration. |  |  | Revised: 4/2017 |  |
+| This Medication Guide has been approved by the U.S. Food and Drug Administration. |  |  | Revised: 3/2018 |  |
