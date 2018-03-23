@@ -120,7 +120,7 @@ Table 4: Recommended Dosage of REYATAZ and Ritonavir in Pregnant Patientsa
 
 For patients with renal impairment, including those with severe renal impairment who are not managed with hemodialysis, no dose adjustment is required for REYATAZ.
 Treatment-naive patients with end-stage renal disease managed with hemodialysis should receive REYATAZ 300 mg with ritonavir 100 mg.
-REYATAZ is not recommended in HIV-treatment-experienced patients with end-stage renal disease managed with hemodialysis [see Use in Specific Populations (8.7)].
+REYATAZ is not recommended in HIV-treatment-experienced patients with end-stage renal disease managed with hemodialysis[see Use in Specific Populations (8.7)].
 
 ## 2.8 Dosage Adjustments in Patients with Hepatic Impairment
 

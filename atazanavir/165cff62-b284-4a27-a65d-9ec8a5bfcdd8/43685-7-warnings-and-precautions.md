@@ -31,7 +31,7 @@ REYATAZ capsules do not contain phenylalanine.
 ## 5.4 Hepatotoxicity
 
 Patients with underlying hepatitis B or C viral infections or marked elevations in transaminases before treatment may be at increased risk for developing further transaminase elevations or hepatic decompensation.
-In these patients, hepatic laboratory testing should be conducted prior to initiating therapy with REYATAZ and during treatment [see Dosing and Administration (2.2), Adverse Reactions (6.1), and Use in Specific Populations (8.8)].
+In these patients, hepatic laboratory testing should be conducted prior to initiating therapy with REYATAZ and during treatment [see Dosage and Administration (2.2), Adverse Reactions (6.1), and Use in Specific Populations (8.8)].
 
 ## 5.5 Chronic Kidney Disease
 
@@ -40,7 +40,7 @@ Reports included biopsy-proven cases of granulomatous interstitial nephritis ass
 Consider alternatives to REYATAZ in patients at high risk for renal disease or with preexisting renal disease.
 Renal laboratory testing (including serum creatinine, estimated creatinine clearance, and urinalysis with microscopic examination) should be conducted in all patients prior to initiating therapy with REYATAZ and continued during treatment with REYATAZ.
 Expert consultation is advised for patients who have confirmed renal laboratory abnormalities while taking REYATAZ.
-In patients with progressive kidney disease, discontinuation of REYATAZ may be considered [see Dosing and Administration (2.2 and 2.7) and Adverse Reactions (6.2)].
+In patients with progressive kidney disease, discontinuation of REYATAZ may be considered [see Dosage and Administration (2.2 and 2.7) and Adverse Reactions (6.2)].
 
 ## 5.6 Nephrolithiasis and Cholelithiasis
 

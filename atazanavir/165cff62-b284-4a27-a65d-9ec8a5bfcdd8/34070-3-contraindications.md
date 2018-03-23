@@ -21,6 +21,7 @@ Table 6: Drugs that are Contraindicated with REYATAZ (Information in the table a
 | Ergot Derivatives | Dihydroergotamine, ergotamine, ergonovine, methylergonovine | Potential for serious and/or life-threatening events such as acute ergot toxicity characterized by peripheral vasospasm and ischemia of the extremities and other tissues. |
 | GI Motility Agent | Cisapride | Potential for serious and/or life-threatening reactions such as cardiac arrhythmias. |
 | Hepatitis C Direct-Acting Antivirals | Elbasvir/grazoprevir | May increase the risk of ALT elevations due to a significant increase in grazoprevir plasma concentrations. |
+| Glecaprevir/pibrentasvir | May increase the risk of ALT elevations due to an increase in glecaprevir and pibrentasvir concentrations. |  |
 | Herbal Products | St. John’s wort (Hypericum perforatum) | Coadministration of St. John’s wort and REYATAZ may result in loss of therapeutic effect and development of resistance. |
 | HMG-CoA Reductase Inhibitors | Lovastatin, simvastatin | Potential for serious reactions such as myopathy, including rhabdomyolysis. |
 | PDE5 Inhibitor | Sildenafilb when dosed as REVATIO® for the treatment of pulmonary arterial hypertension | Potential for sildenafil-associated adverse events (which include visual disturbances, hypotension, priapism, and syncope). |

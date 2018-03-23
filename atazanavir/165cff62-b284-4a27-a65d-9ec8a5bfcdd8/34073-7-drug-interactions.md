@@ -37,6 +37,7 @@ Table 16: Established and Other Potentially Significant Drug Interactions: Alter
 | Others | ↑ other protease inhibitor | Although not studied, the coadministration of REYATAZ/ritonavir and an additional protease inhibitor would be expected to increase exposure to the other protease inhibitor. Such coadministration is not recommended. |
 | HCV Antiviral Agents |  |  |
 | Protease Inhibitors: boceprevir | ↓ atazanavir ↓ ritonavir | Concomitant administration of boceprevir and atazanavir/ritonavir resulted in reduced steady-state exposures to atazanavir and ritonavir. Coadministration of REYATAZ/ritonavir and boceprevir is not recommended. |
+| sofosbuvir, velpatasvir, voxilaprevir | ↑ voxilaprevir | Coadministration with REYATAZ is not recommended. |
 | Other Agents |  |  |
 | Antacids and buffered medications | ↓ atazanavir | Reduced plasma concentrations of atazanavir are expected if antacids, including buffered medications, are administered with REYATAZ. REYATAZ should be administered 2 hours before or 1 hour after these medications. |
 | Antiarrhythmics: amiodarone, bepridil, lidocaine (systemic), quinidine | ↑ amiodarone, bepridil, lidocaine (systemic), quinidine | Coadministration with REYATAZ has the potential to produce serious and/or life-threatening adverse events and has not been studied. Caution is warranted and therapeutic concentration monitoring of these drugs is recommended if they are used concomitantly with REYATAZ. |
