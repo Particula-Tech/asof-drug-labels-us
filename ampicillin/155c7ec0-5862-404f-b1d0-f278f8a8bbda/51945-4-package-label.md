@@ -18,7 +18,7 @@ NDC 0049-0013-81 Rx only
 
 Unasyn®
 
-(ampicillin sodium/ sulbactam sodium) for Injection
+(ampicillin sodium/sulbactam sodium) for Injection
 
 1.5 g* per vial
 
