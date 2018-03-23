@@ -30,22 +30,6 @@ GALDERMA LABORATORIES, L.P.
 
 Fort Worth, Texas 76177 USA
 
-Manufactured by:
+All trademarks are the property of their respective owners.
 
-G Production Inc.
-
-Baie d'Urfé, QC
-
-H9X 3S4 Canada
-
-Made in Canada.
-
-GALDERMA is a registered trademark.
-
-P50446-2
-
-www.differin.com
-
-Lot:
-
-Exp.:
+P50446-3
