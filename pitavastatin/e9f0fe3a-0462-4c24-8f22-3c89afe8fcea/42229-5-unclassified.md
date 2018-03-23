@@ -1,4 +1,4 @@
 | Manufactured by: Cadila Healthcare Ltd. Ahmedabad, India |
 | --- |
-| Rev.: 01/2018 |
-| PIM-ZYP-01 |
+| Rev.: 03/2018 |
+| PIM-ZYP-02 |
