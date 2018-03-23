@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA040156"
+  ],
+  "inn": "hydroxyzine",
+  "labeler": "Impax Generics",
+  "package_ndcs": [
+    "0115-1803-01",
+    "0115-1803-02",
+    "0115-1804-01",
+    "0115-1804-02"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "hydroxyzine pamoate",
+      "name": "Hydroxyzine Pamoate"
+    }
+  ],
+  "setid": "bc82aaaf-30c7-4afe-a908-d138ea1268ef",
+  "source": "dailymed"
+}

@@ -1,0 +1,11 @@
+# CONTRAINDICATIONS
+
+Hydroxyzine, when administered to the pregnant mouse, rat, and rabbit, induced fetal abnormalities in the rat and mouse at doses substantially above the human therapeutic range.
+Clinical data in human beings are inadequate to establish safety in early pregnancy.
+Until such data are available, hydroxyzine is contraindicated in early pregnancy.
+
+Hydroxyzine is contraindicated in patients with a prolonged QT interval.
+
+Hydroxyzine pamoate is contraindicated for patients who have shown a previous hypersensitivity to any component of this medication.
+
+Hydroxyzine is contraindicated in patients with known hypersensitivity to hydroxyzine products, and in patients with known hypersensitivity to cetirizine hydrochloride or levocetrizine hydrochloride.
