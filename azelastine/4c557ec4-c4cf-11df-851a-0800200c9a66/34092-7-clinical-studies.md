@@ -31,24 +31,18 @@ Mean Change from Baseline in Reflective Total Nasal Symptom Scores over 2 Weeks*
 | * Sum of AM and PM rTNSS for each day (Maximum Score =24) and averaged over the 14 day treatment period † Not commercially marketed |  |  |  |  |  |  |
 | LS Mean, 95% CI, and p-value are obtained from the repeated-measures analysis of covariance model using observed data. |  |  |  |  |  |  |
 
-In these trials, DYMISTA also demonstrated statistically significant, greater decreases in iTNSS as compared to placebo, as did the azelastine hydrochloride and fluticasone propionate comparators.
-Representative results from one of the trials are shown below (Table 4).
-
 Table 4.
 Mean Change from Baseline in Instantaneous Total Nasal Symptom Scores over 2 Weeks* in Adults and Children ≥ 12 years with Seasonal Allergic Rhinitis
 
-|  |  | Baseline | Change from Baseline | Difference From Placebo |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| Treatment (one spray /nostril twice daily) | N | LS Mean | LS Mean | LS Mean | 95% CI | P-value |
-| DYMISTA | 207 | 17.2 | -5.2 | -2.6 | (-3.4, -1.8) | <0.001 |
-| Azelastine HCl Nasal Spray† | 208 | 16.8 | -3.9 | -1.3 | (-2.0, -0.6) | <0.001 |
-| Fluticasone Propionate Nasal Spray† | 207 | 16.8 | -4.5 | -1.9 | (-2.6, -1.2) | <0.001 |
-| Placebo | 209 | 17.3 | -2.7 | -- | -- | -- |
-| * Sum of AM and PM iTNSS for each day (Maximum Score =24) and averaged over the 14 day treatment period † Not commercially marketed |  |  |  |  |  |  |
-| LS Mean, 95% CI, and p-value are obtained from the repeated-measures analysis of covariance model using observed data. |  |  |  |  |  |  |
-
-Onset of action, defined as the first timepoint at which DYMISTA was statistically superior to placebo in the mean change from baseline in iTNSS and which was sustained thereafter, was assessed in each of the three trials.
-Onset of action was observed as early as 30 minutes following the initial dose of DYMISTA.
+|  |  | Baseline | Change from Baseline | Difference From Placebo |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Treatment (one spray /nostril twice daily) | N | LS Mean | LS Mean | LS Mean | 95% CI | P-value |  |  |  |  |  |  |  |
+| DYMISTA | 207 | 17.2 | -5.2 | -2.6 | (-3.4, -1.8) | <0.001 |  |  |  |  |  |  |  |
+| Azelastine HCl Nasal Spray† | 208 | 16.8 | -3.9 | -1.3 | (-2.0, -0.6) | <0.001 |  |  |  |  |  |  |  |
+| Fluticasone Propionate Nasal Spray† | 207 | 16.8 | -4.5 | -1.9 | (-2.6, -1.2) | <0.001 |  |  |  |  |  |  |  |
+| Placebo | 209 | 17.3 | -2.7 | -- | -- | -- |  |  |  |  |  |  |  |
+| * Sum of AM and PM iTNSS for each day (Maximum Score =24) and averaged over the 14 day treatment period † Not commercially marketed |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| LS Mean, 95% CI, and p-value are obtained from the repeated-measures analysis of covariance model using observed data. |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 The subjective impact of seasonal allergic rhinitis on patient's health-related quality of life was evaluated by the Rhinoconjunctivitis Quality of Life Questionnaire (RQLQ) (28 items in 7 domains (activities, sleep, non-nose/eye symptoms, practical problems, nasal symptoms, eye symptoms, and emotional) evaluated on a 7-point scale where 0=no impairment and 6=maximum impairment), which was administered to patients 18 years of age and older.
 An overall RQLQ score is calculated from the mean of all items in the instrument.
@@ -67,8 +61,8 @@ DYMISTA was not statistically significantly different than placebo, but the resu
 
 Table 5: Mean Change from Baseline in Reflective Total Nasal Symptom Scores over 2 weeks in Children age 6 to 11 years
 
-| Treatment | Baseline | LS Mean Change from baseline | LS Mean Difference (95% CI) | P-value |
-| --- | --- | --- | --- | --- |
-| DYMISTA N=152 | 18.4 | -3.7 | -0.8 (-1.8, 0.2) | 0.099 |
-| Placebo N=152 | 18.0 | -2.9 |  |  |
-| CI = confidence interval LS Mean, 95% CI, and p-value are obtained from the repeated-measures analysis of covariance model using observed data |  |  |  |  |
+| Treatment | Baseline | LS Mean Change from baselin | LS Mean Difference (95% CI) | P-value |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| DYMISTA N=152 | 18.4 | -3.7 | -0.8 (-1.8, 0.2) | 0.099 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Placebo N=152 | 18.0 | -2.9 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| CI = confidence interval LS Mean, 95% CI, and p-value are obtained from the repeated-measures analysis of covariance model using observed data |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |

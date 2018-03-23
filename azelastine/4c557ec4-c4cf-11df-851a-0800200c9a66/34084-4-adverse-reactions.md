@@ -2,11 +2,11 @@
 
 Systemic and local corticosteroid use may result in the following:
 
-- Somnolence [see Warnings and Precautions (5.1)]
-- Local nasal effects, including epistaxis, nasal ulceration, nasal septal perforation, impaired wound healing, and Candida albicans infection [see Warnings and Precautions (5.2)]
-- Glaucoma and cataracts [see Warnings and Precautions (5.3)]
-- Immunosuppression [see Warnings and Precautions (5.4)]
-- Hypothalamic-pituitary-adrenal (HPA) axis effects, including growth reduction [see Warnings and Precautions (5.5 and 5.7), Use in Specific Populations (8.4)]
+- •Somnolence [see Warnings and Precautions (5.1)]
+- •Local nasal effects, including epistaxis, nasal ulceration, nasal septal perforation, impaired wound healing, and Candida albicans infection [see Warnings and Precautions (5.2)]
+- •Glaucoma and cataracts [see Warnings and Precautions (5.3)]
+- •Immunosuppression [see Warnings and Precautions (5.4)]
+- •Hypothalamic-pituitary-adrenal (HPA) axis effects, including growth reduction [see Warnings and Precautions (5.5 and 5.7), Use in Specific Populations (8.4)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -35,8 +35,6 @@ Adverse Reactions with ≥2% Incidence and More Frequently than Placebo in Place
 | Epistaxis | 16(2%) | 14(2%) | 14(2%) | 15(2%) |
 | *Safety population N=853, intent-to-treat population N=848 † Not commercially marketed |  |  |  |  |
 
-In the above trials, somnolence was reported in <1% of patients treated with DYMISTA (6 of 853) or vehicle placebo (1 of 861) [see Warnings and Precautions (5.1)].
-
 Pediatric Patients 6-11 Years of Age
 
 The safety data described below in children 6-11 years of age reflect exposure to DYMISTA in 152 patients (6-11 years of age; 57% male and 43% female) with seasonal allergic rhinitis in one double-blind, placebo-controlled clinical trial of 2-week duration.
@@ -51,14 +49,12 @@ Table 2 contains adverse reactions reported with frequencies greater than or equ
 Table 2.
 Adverse Reactions with ≥2% Incidence and More Frequently than Placebo in Placebo-Controlled Trials of 2 Weeks Duration with DYMISTA in Children 6 to 11 Years of Age With Seasonal Allergic Rhinitis
 
-|  | 1 spray per nostril twice daily |  |  |  |
-| --- | --- | --- | --- | --- |
-| DYMISTA (N=152)* | Vehicle Placebo (N=152) |  |  |  |
-| Dysgeusia | 6 (4%) | 0 (0%) |  |  |
-| Epistaxis | 6 (4%) | 4 (3%) |  |  |
-| *Safety population N=152, intent-to-treat population N=152 |  |  |  |  |
-
-In the above trial, somnolence was not reported [see Warnings and Precautions (5.1)].
+|  | 1 spray per nostril twice daily |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| DYMISTA (N=152)* | Vehicle Placebo (N=152) |  |  |  |  |  |  |  |
+| Dysgeusia | 6 (4%) | 0 (0%) |  |  |  |  |  |  |
+| Epistaxis | 6 (4%) | 4 (3%) |  |  |  |  |  |  |
+| *Safety population N=152, intent-to-treat population N=152 |  |  |  |  |  |  |  |  |
 
 Long-Term (12-Month) Safety Trial in Adults and Adolescents 12 Years of Age and Older:
 

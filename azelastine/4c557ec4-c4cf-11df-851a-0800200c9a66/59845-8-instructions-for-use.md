@@ -8,8 +8,8 @@ Important: For use in your nose only
 
 What is DYMISTA?
 
-- DYMISTA is a prescription medicine used to treat symptoms of seasonal allergic rhinitis in people 6 years of age and older, who need treatment with both azelastine hydrochloride and fluticasone propionate.
-- DYMISTA may help to reduce your nasal symptoms including stuffy nose, runny nose, itching, and sneezing.
+- •DYMISTA is a prescription medicine used to treat symptoms of seasonal allergic rhinitis in people 6 years of age and older, who need treatment with both azelastine hydrochloride and fluticasone propionate.
+- •DYMISTA may help to reduce your nasal symptoms including stuffy nose, runny nose, itching, and sneezing.
 
 It is not known if DYMISTA is safe or effective in children under 4 years of age.
 
@@ -17,16 +17,16 @@ What should I tell my healthcare provider before using DYMISTA?
 
 Before using DYMISTA tell your healthcare provider if you:
 
-- have had recent nasal sores, nasal surgery, or nasal injury
-- have eye or vision problems, such as cataracts or glaucoma (increased pressure in your eye)
-- have tuberculosis or any untreated fungal, bacterial, viral infections or eye infections caused by herpes
-- have been near someone who has chickenpox or measles
-- are not feeling well or have any other symptoms that you do not understand
-- have any other medical conditions
-- are pregnant or plan to become pregnant.
+- •have had recent nasal sores, nasal surgery, or nasal injury
+- •have eye or vision problems, such as cataracts or glaucoma (increased pressure in your eye)
+- •have tuberculosis or any untreated fungal, bacterial, viral infections or eye infections caused by herpes
+- •have been near someone who has chickenpox or measles
+- •are not feeling well or have any other symptoms that you do not understand
+- •have any other medical conditions
+- •are pregnant or plan to become pregnant.
   It is not known if DYMISTA will harm your unborn baby.
   Talk to your healthcare provider if you are pregnant or plan to become pregnant.
-- are breastfeeding or plan to breastfeed.
+- •are breastfeeding or plan to breastfeed.
   It is not known if DYMISTA passes into your breast milk.
   Talk to your healthcare provider about the best way to feed your baby while using DYMISTA.
 
@@ -36,8 +36,8 @@ DYMISTA and other medicines may affect each other,causing side effects.
 
 Especially tell your healthcare provider if you take:
 
-- ritanovir (Norvir) or medicines that contain ritanovir (commonly used to treat HIV infection or AIDS)
-- ketoconazole, fluconazole, or itraconazole (for fungal infections)
+- •ritanovir (Norvir) or medicines that contain ritanovir (commonly used to treat HIV infection or AIDS)
+- •ketoconazole, fluconazole, or itraconazole (for fungal infections)
 
 Ask your healthcare provider or pharmacist for a list of these medications, if you are not sure.
 
@@ -46,67 +46,67 @@ Keep a list of your medicines and show it to your healthcare provider and pharma
 
 How should I use DYMISTA?
 
-- Read the Instructions for Use at the end of this leaflet for information about the right way to use DYMISTA.
-- An adult should help a young child use DYMISTA.
-- DYMISTA is for use in your nose only.
+- •Read the Instructions for Use at the end of this leaflet for information about the right way to use DYMISTA.
+- •An adult should help a young child use DYMISTA.
+- •DYMISTA is for use in your nose only.
   Do not spray it into your eyes or mouth.
   If you spray DYMISTA into your eyes, flush your eye(s) with large amounts of water for 10 minutes and then call your healthcare provider.
-- Use DYMISTA exactly as your healthcare provider tells you to use it.
+- •Use DYMISTA exactly as your healthcare provider tells you to use it.
   Your healthcare provider will tell you how much DYMISTA to use and when to use it.
-- If a child accidentally swallows DYMISTA or you use too much DYMISTA, call your healthcare provider or go to the nearest hospital emergency room right away.
+- •If a child accidentally swallows DYMISTA or you use too much DYMISTA, call your healthcare provider or go to the nearest hospital emergency room right away.
 
 What should I avoid while using DYMISTA?
 
-- DYMISTA can cause sleepiness or drowsiness.
+- •DYMISTA can cause sleepiness or drowsiness.
   Do not drive, operate machinery, or do anything that needs you to be alert until you know how DYMISTA affects you.
-- Do not drink alcohol or take any other medicines that may cause you to feel sleepy while using DYMISTA.
+- •Do not drink alcohol or take any other medicines that may cause you to feel sleepy while using DYMISTA.
   It can increase your chances of having serious side effects.
 
 What are the possible side effects of DYMISTA?
 
 DYMISTA may cause serious side effects including:
 
-- Sleepiness or drowsiness.
-- Nasal Problems.
+- •Sleepiness or drowsiness.
+- •Nasal Problems.
   Symptoms of nasal problems may include:
-  - crusting in the nose
-  - nosebleeds
-  - runny nose
-  - hole in the cartilage between your nose (nasal septal perforation).
+  - ocrusting in the nose
+  - onosebleeds
+  - orunny nose
+  - ohole in the cartilage between your nose (nasal septal perforation).
     A whistling sound when you breathe may be a symptom of nasal septal perforation.
-- Slow wound healing.
+- •Slow wound healing.
   You should not use DYMISTA until your nose has healed if you have a sore in your nose, if you have had surgery on your nose, or if your nose has been injured.
-- Thrush (candida), a fungal infection in your nose and throat.
+- •Thrush (candida), a fungal infection in your nose and throat.
   Tell your healthcare provider if you have any redness or white colored patches in your nose or mouth.
-- Eye problems, such as glaucoma or cataracts.
+- •Eye problems, such as glaucoma or cataracts.
   Some people may have eye problems, including glaucoma and cataracts.
   You should have regular eye exams when using DYMISTA.
-- Immune system problems that may increase your risk of infections.
+- •Immune system problems that may increase your risk of infections.
   DYMISTA may cause problems with the way your immune system protects your body against infection and increase your risk of infection.
   Avoid contact with people who have contagious diseases such as chickenpox or measles while you use DYMISTA.
   Symptoms of infection may include:
-  - fever
-  - aches or pains
-  - chills
-  - feeling tired
-- Adrenal Insufficiency.
+  - ofever
+  - oaches or pains
+  - ochills
+  - ofeeling tired
+- •Adrenal Insufficiency.
   Adrenal insufficiency is a condition in which the adrenal glands do not make enough steroid hormones.
   Symptoms of adrenal insufficiency may include:
-  - tiredness
-  - weakness
-  - nausea
-  - vomiting
-  - low blood pressure
-- Slowed or delayed growth in children.
+  - otiredness
+  - oweakness
+  - onausea
+  - ovomiting
+  - olow blood pressure
+- •Slowed or delayed growth in children.
   A child's growth should be checked regularly while using DYMISTA.
 
 Call your healthcare provider or get medical help right away if you have symptoms of any of the serious side effects listed above.
 
 The most common side effects of Dymista Nasal Spray include:
 
-- changes in taste
-- nosebleeds
-- headache
+- •changes in taste
+- •nosebleeds
+- •headache
 
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 These are not all of the possible side effects of DYMISTA.
@@ -117,11 +117,11 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store DYMISTA?
 
-- Store DYMISTA upright at controlled room temperature 68° to 77°F (20° to 25°C).
-- Do not freeze or refrigerate DYMISTA.
-- Protect DYMISTA from light.
-- Safely throw away medicine that is out of date or no longer needed.
-- Throw away your DYMISTA bottle after using 120 sprays after initial priming.
+- •Store DYMISTA upright at controlled room temperature 68° to 77°F (20° to 25°C).
+- •Do not freeze or refrigerate DYMISTA.
+- •Protect DYMISTA from light.
+- •Safely throw away medicine that is out of date or no longer needed.
+- •Throw away your DYMISTA bottle after using 120 sprays after initial priming.
   Even though the bottle may not be completely empty, you may not get the correct dose of medicine if you continue to use it.
 
 Keep DYMISTA and all medicines out of reach of children.
@@ -186,15 +186,15 @@ Step 2.
 Hold the bottle upright with two fingers on the shoulders of the spray pump unit and put your thumb on the bottom of the bottle.
 Press upward with your thumb and release for the pumping action.
 
-- Repeat the pumping action until you see a fine mist.
+- •Repeat the pumping action until you see a fine mist.
   You should see a fine mist of the medicine after 6 pumps or less.
   (See Figure C)
-- To get a fine mist of medicine, you must repeat the pumping action fast and use firm pressure against the bottom of the bottle.
-- If you see a stream of liquid, the spray will not work right and may cause nasal discomfort.
-- If you do not use DYMISTA for 14 or more days, you will need to shake the bottle gently, and prime the pump with 1 spray or until you see a fine mist.
+- •To get a fine mist of medicine, you must repeat the pumping action fast and use firm pressure against the bottom of the bottle.
+- •If you see a stream of liquid, the spray will not work right and may cause nasal discomfort.
+- •If you do not use DYMISTA for 14 or more days, you will need to shake the bottle gently, and prime the pump with 1 spray or until you see a fine mist.
   If you do not see a fine mist, clean the tip of the spray nozzle.
   See the cleaning section below.
-- Once you see the fine mist of medicine, your DYMISTA pump is ready for use.
+- •Once you see the fine mist of medicine, your DYMISTA pump is ready for use.
 
 Figure C
 
@@ -225,10 +225,10 @@ For each spray firmly press the pump 1 time.
 Keep your head tilted down and at the same time, gently breathe in through your nostril.
 (See Figure F) Do not spray directly onto the nasal septum (the wall between your 2 nostrils).
 
-- Repeat Step 5 in your other nostril.
-- Do not tilt your head back.
+- •Repeat Step 5 in your other nostril.
+- •Do not tilt your head back.
   This will help to keep the medicine from going into your throat.
-- If the medicine goes into your throat you may get a bitter taste in your mouth.
+- •If the medicine goes into your throat you may get a bitter taste in your mouth.
   This is normal.
 
 Figure F
