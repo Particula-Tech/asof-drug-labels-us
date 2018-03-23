@@ -14,7 +14,7 @@ Cases of Stevens-Johnson syndrome, erythema multiforme, and toxic skin eruptions
 EVOTAZ should be discontinued if severe rash develops.
 
 Mild-to-moderate maculopapular skin eruptions have also been reported in atazanavir clinical trials.
-These reactions had a median time to onset of 7.3 weeks and median duration of 1.4 weeks and generally did not result in treatment discontinuation.
+These reactions had a median time to onset of 7.3 weeks and median duration of 1.4 week and generally did not result in treatment discontinuation.
 
 ## 5.3 Effects on Serum Creatinine
 
@@ -42,19 +42,28 @@ One subject in the cobicistat group had renal impairment at baseline (e.g., esti
 The laboratory findings in these 7 subjects with evidence of proximal tubulopathy improved but did not completely resolve in all subjects upon discontinuation of cobicistat coadministered with atazanavir and tenofovir DF.
 Renal replacement therapy was not required in any subject.
 
-## 5.5 Nephrolithiasis and Cholelithiasis
+## 5.5 Chronic Kidney Disease
+
+Chronic kidney disease in HIV-infected patients treated with atazanavir, with or without ritonavir, has been reported during postmarketing surveillance.
+Reports included biopsy-proven cases of granulomatous interstitial nephritis associated with the deposition of atazanavir drug crystals in the renal parenchyma.
+Consider alternatives to EVOTAZ in patients at high risk for renal disease or with preexisting renal disease.
+Renal laboratory testing (including serum creatinine, estimated creatinine clearance, and urinalysis with microscopic examination) should be conducted in all patients prior to initiating therapy with EVOTAZ and continued during treatment with EVOTAZ.
+Expert consultation is advised for patients who have confirmed renal laboratory abnormalities while taking EVOTAZ.
+In patients with progressive kidney disease, discontinuation of EVOTAZ may be considered [see Dosage and Administration (2.1 and 2.3) and Adverse Reactions (6.2)].
+
+## 5.6 Nephrolithiasis and Cholelithiasis
 
 Cases of nephrolithiasis and/or cholelithiasis have been reported during postmarketing surveillance in HIV-infected patients receiving atazanavir therapy.
 Some patients required hospitalization for additional management and some had complications.
 Because these events were reported voluntarily during clinical practice, estimates of frequency cannot be made.
 If signs or symptoms of nephrolithiasis and/or cholelithiasis occur, temporary interruption or discontinuation of therapy may be considered [see Adverse Reactions (6.1, 6.2)].
 
-## 5.6 Hepatotoxicity
+## 5.7 Hepatotoxicity
 
 Patients with underlying hepatitis B or C viral infections or marked elevations in transaminases may be at increased risk for developing further transaminase elevations or hepatic decompensation.
 In these patients, hepatic laboratory testing should be conducted prior to initiating therapy with EVOTAZ and during treatment [see Dosage and Administration (2.4) and Use in Specific Populations (8.7)].
 
-## 5.7 Risk of Serious Adverse Reactions or Loss of Virologic Response Due to Drug Interactions
+## 5.8 Risk of Serious Adverse Reactions or Loss of Virologic Response Due to Drug Interactions
 
 Initiation of EVOTAZ, a CYP3A inhibitor, in patients receiving medications metabolized by CYP3A or initiation of medications metabolized by CYP3A in patients already receiving EVOTAZ, may increase plasma concentrations of medications metabolized by CYP3A.
 
@@ -75,7 +84,7 @@ Consider the potential for drug interactions prior to and during EVOTAZ therapy;
 When used with concomitant medications, EVOTAZ may result in different drug interactions than those observed or expected with atazanavir coadministered with ritonavir.
 Complex or unknown mechanisms of drug interactions preclude extrapolation of drug interactions with atazanavir coadministered with ritonavir to certain EVOTAZ interactions [see Drug Interactions (7), and Clinical Pharmacology (12.3)].
 
-## 5.8 Antiretrovirals that are Not Recommended
+## 5.9 Antiretrovirals that are Not Recommended
 
 EVOTAZ is not recommended in combination with other antiretroviral drugs that require CYP3A inhibition to achieve adequate exposures (e.g., other HIV protease inhibitors or elvitegravir) because dosing recommendations for such combinations have not been established and coadministration may result in decreased plasma concentrations of the antiretroviral agents, leading to loss of therapeutic effect and development of resistance.
 
@@ -83,7 +92,7 @@ EVOTAZ is not recommended in combination with ritonavir or products containing r
 
 See Drug Interactions (7) for additional recommendations on use with other antiretroviral agents.
 
-## 5.9 Hyperbilirubinemia
+## 5.10 Hyperbilirubinemia
 
 Most patients taking atazanavir experience asymptomatic elevations in indirect (unconjugated) bilirubin related to inhibition of UDP-glucuronosyltransferase (UGT).
 This hyperbilirubinemia is reversible upon discontinuation of atazanavir.
@@ -91,14 +100,14 @@ Hepatic transaminase elevations that occur with hyperbilirubinemia should be eva
 No long-term safety data are available for patients experiencing persistent elevations in total bilirubin greater than 5 times the upper limit of normal (ULN).
 Alternative antiretroviral therapy to EVOTAZ may be considered if jaundice or scleral icterus associated with bilirubin elevations presents cosmetic concerns for patients [see Adverse Reactions (6)].
 
-## 5.10 Immune Reconstitution Syndrome
+## 5.11 Immune Reconstitution Syndrome
 
 Immune reconstitution syndrome has been reported in patients treated with combination antiretroviral therapy, including atazanavir, a component of EVOTAZ.
 During the initial phase of combination antiretroviral treatment, patients whose immune system responds may develop an inflammatory response to indolent or residual opportunistic infections (such as Mycobacterium avium infection, cytomegalovirus, Pneumocystis jiroveci pneumonia, or tuberculosis), which may necessitate further evaluation and treatment.
 
 Autoimmune disorders (such as Graves’ disease, polymyositis, and Guillain-Barré syndrome) have also been reported to occur in the setting of immune reconstitution; however, the time to onset is more variable, and can occur many months after initiation of treatment.
 
-## 5.11 Diabetes Mellitus/Hyperglycemia
+## 5.12 Diabetes Mellitus/Hyperglycemia
 
 New-onset diabetes mellitus, exacerbation of preexisting diabetes mellitus, and hyperglycemia have been reported during postmarketing surveillance in HIV-infected patients receiving protease inhibitor therapy.
 Some patients required either initiation or dose adjustments of insulin or oral hypoglycemic agents for treatment of these events.
@@ -106,13 +115,13 @@ In some cases, diabetic ketoacidosis has occurred.
 In those patients who discontinued protease inhibitor therapy, hyperglycemia persisted in some cases.
 Because these events have been reported voluntarily during clinical practice, estimates of frequency cannot be made and a causal relationship between protease inhibitor therapy and these events has not been established.
 
-## 5.12 Fat Redistribution
+## 5.13 Fat Redistribution
 
 Redistribution/accumulation of body fat including central obesity, dorsocervical fat enlargement (buffalo hump), peripheral wasting, facial wasting, breast enlargement, and “cushingoid appearance” have been observed in patients receiving antiretroviral therapy.
 The mechanism and long-term consequences of these events are currently unknown.
 A causal relationship has not been established.
 
-## 5.13 Hemophilia
+## 5.14 Hemophilia
 
 There have been reports of increased bleeding, including spontaneous skin hematomas and hemarthrosis, in patients with hemophilia type A and B treated with protease inhibitors.
 In some patients additional factor VIII was given.

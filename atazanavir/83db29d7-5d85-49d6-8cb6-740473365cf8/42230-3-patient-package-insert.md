@@ -49,11 +49,14 @@ Do not take EVOTAZ if you:
   - ocisapride (PROPULSID®, PROPULSID® QUICKSOLV®)
   - ocolchicine (COLCRYS®, MITIGARE™), if you have liver or kidney problems
   - odronedarone hydrochloride (MULTAQ®)
+  - odrospirenone/ethinyl estradiol (BEYAZ®, SAFYRAL®, YASMIN®, YAZ®)
+  - oelbasvir/grazoprevir (ZEPATIER®)
   - oergot-containing medicines:
     - ▪dihydroergotamine mesylate (D.H.E.
       45®, EMBOLEX®, MIGRANAL®)
     - ▪ergotamine tartrate (CAFERGOT®, MIGERGOT®, ERGOMAR®, ERGOSTAT®, MEDIHALER®, WIGRAINE®, WIGRETTES®)
     - ▪methylergonovine (METHERGINE®)
+  - oglecaprevir/pibrentasvir (MAVYRET®)
   - oindinavir (CRIXIVAN®)
   - oirinotecan (CAMPTOSAR®)
   - olovastatin (ADVICOR®, ALTOPREV®, MEVACOR®)
@@ -61,7 +64,7 @@ Do not take EVOTAZ if you:
   - omidazolam (VERSED®), when taken by mouth for sedation
   - onevirapine (VIRAMUNE®, VIRAMUNE XR®)
   - ophenobarbital (LUMINAL®)
-  - ophenytoin (DILANTIN®, PHENYTEX®)
+  - ophenytoin (DILANTIN®, PHENYTEK®)
   - opimozide (ORAP®)
   - oranolazine (RANEXA®)
   - orifampin (RIMACTANE®, RIFADIN®, RIFATER®, RIFAMATE®)
@@ -137,6 +140,9 @@ EVOTAZ can cause serious side effects, including:
 - •Kidney problems.
   EVOTAZ, when taken with certain other medicines, can cause new or worse kidney problems, including kidney failure.
   Your healthcare provider should check your kidneys before you start and while you are taking EVOTAZ.
+- •Chronic kidney disease.
+  EVOTAZ may affect how well your kidneys work.
+  Your healthcare provider will do blood and urine tests to check your kidneys before you start EVOTAZ and during treatment.
 - •Kidney stones have happened in some people who take atazanavir, one of the medicines in EVOTAZ.
   Tell your healthcare provider right away if you get symptoms of kidney stones, which may include pain in your low back or low stomach area, blood in your urine, or pain when you urinate.
 - •Gallbladder disorders have happened in some people who take atazanavir, one of the medicines in EVOTAZ.
@@ -209,11 +215,9 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 Manufactured for: Bristol-Myers Squibb Company Princeton, NJ 08543 USA
 
-Product of Canada
+[print code]
 
-1337404A5
-
-Revised: January 2017
+Revised: March 2018
 
 REYATAZ and EVOTAZ are trademarks of Bristol-Myers Squibb Company.
 Other brands listed are the trademarks of their respective owners and are not trademarks of Bristol-Myers Squibb Company.

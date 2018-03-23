@@ -35,9 +35,10 @@ Absorption, Distribution, Metabolism, and Excretion
 The pharmacokinetic (PK) properties of the components of EVOTAZ (atazanavir 300 mg and cobicistat 150 mg) were evaluated in healthy adult volunteers.
 Results are summarized in Table 6.
 
+Table 6: Pharmacokinetic Properties of the Components of EVOTAZ
+
 |  | Atazanavir | Cobicistat |
 | --- | --- | --- |
-| Table 6: Pharmacokinetic Properties of the Components of EVOTAZ |  |  |
 | Absorption |  |  |
 | Tmax (h) | 2.0 | 2.0 |
 | Effect of light meal (relative to fasting) AUC ratiob | 1.28 (1.17,1.40) | 1.24 (1.15,1.34) |
@@ -62,64 +63,61 @@ The steady-state pharmacokinetic parameters of atazanavir coadministered with co
 
 Table 7: Pharmacokinetic Parameters (Mean ± SD) of Atazanavir in the Pharmacokinetic Substudy of Study 114
 
-| Parameter | Atazanavir coadministered with cobicistat and emtricitabine/tenofovir DF (n=22) |  |
-| --- | --- | --- |
-| AUC (µg•h/mL) | 46.13 ± 26.18 |  |
-| Cmax (µg/mL) | 3.91 ± 1.94 |  |
-| Ctau (µg/mL) | 0.80 ± 0.72 |  |
+| Parameter | Atazanavir coadministered with cobicistat and emtricitabine/tenofovir DF (n=22) |
+| --- | --- |
+| AUC (µg•h/mL) | 46.13 ± 26.18 |
+| Cmax (µg/mL) | 3.91 ± 1.94 |
+| Ctau (µg/mL) | 0.80 ± 0.72 |
 
 ### Specific Populations
 
 #### Renal Impairment
 
 Atazanavir: In healthy subjects, the renal elimination of unchanged atazanavir was approximately 7% of the administered dose.
-Atazanavir has been studied in adult subjects with severe renal impairment (n=20), including those on hemodialysis, at multiple doses of 400 mg once daily.
+Atazanavir has been studied in adult subjects (n=20) with severe renal impairment (estimated creatinine clearance <30 mL/min, using 24 hour urinary creatinine and serum creatinine levels), including those on hemodialysis, at multiple doses of 400 mg once daily.
 The mean atazanavir Cmax was 9% lower, AUC was 19% higher, and Cmin was 96% higher in subjects with severe renal impairment not undergoing hemodialysis (n=10), than in age-, weight-, and gender-matched subjects with normal renal function.
 In a 4-hour dialysis session, 2.1% of the administered dose was removed.
 When atazanavir was administered either prior to, or following hemodialysis (n=10), the geometric means for Cmax, AUC, and Cmin were approximately 25% to 43% lower compared to subjects with normal renal function.
 The mechanism of this decrease is unknown.
 
-Cobicistat: A study of the pharmacokinetics of cobicistat was performed in non−HIV-1 infected subjects with severe renal impairment (estimated creatinine clearance below 30 mL/min).
-No clinically relevant differences in cobicistat pharmacokinetics were observed between subjects with severe renal impairment and healthy subjects [see Use in Specific Populations (8.6)].
+Cobicistat: No clinically relevant differences in cobicistat pharmacokinetics were observed between subjects with severe renal impairment (estimated creatinine clearance <30 mL/min, using the Cockcroft-Gault method) and healthy subjects [see Use in Specific Populations (8.6)].
 
 #### Hepatic Impairment
 
 EVOTAZ has not been studied in patients with hepatic impairment.
 
-Atazanavir: Atazanavir is primarily metabolized and eliminated by the liver.
-Increased concentrations of atazanavir are expected in patients with moderately or severely impaired hepatic function.
+Atazanavir: Increased concentrations of atazanavir are expected in patients with moderately or severely impaired hepatic function.
 
-Cobicistat: Cobicistat is primarily metabolized and eliminated by the liver.
-No clinically relevant differences in cobicistat pharmacokinetics were observed between subjects with moderate hepatic impairment (Child-Pugh Class B) and healthy subjects.
+Cobicistat: No clinically relevant differences in cobicistat pharmacokinetics were observed between subjects with moderate hepatic impairment (Child-Pugh Class B) and healthy subjects.
 The effect of severe hepatic impairment (Child-Pugh Class C) on the pharmacokinetics of cobicistat has not been studied [see Use in Specific Populations (8.7)].
 
-#### Gender and Age
+#### Gender, Age, and Race
 
-Atazanavir: There were no clinically important pharmacokinetic differences observed due to age or gender.
+Atazanavir: No clinically important differences in atazanavir pharmacokinetics were observed based on age or gender.
 
-Cobicistat: No clinically relevant pharmacokinetic differences have been observed between men and women for cobicistat.
+Cobicistat: No clinically relevant differences in cobicistat pharmacokinetics were observed based on race or gender.
 
 #### Assessment of Drug Interactions
 
 Atazanavir has been shown in vivo not to induce its own metabolism, nor to increase the biotransformation of some drugs metabolized by CYP3A.
 In a multiple-dose study, atazanavir decreased the urinary ratio of endogenous 6β-OH cortisol to cortisol versus baseline, indicating that CYP3A production was not induced.
 
-Drug interaction studies were not conducted for EVOTAZ or for atazanavir coadministered with cobicistat.
-Drug interaction studies of cobicistat were conducted with desipramine, digoxin, and efavirenz.
-Drug interaction studies of cobicistat coadministered with elvitegravir included rosuvastatin and rifabutin.
 The effects of cobicistat on the exposure of coadministered drugs are summarized in Table 8.
-For information regarding clinical recommendations, [see Drug Interactions (7)].
 
-Table 8: Drug Interactions: Pharmacokinetic Parameters for Coadministered Drugs in the Presence of Cobicistata
+Table 8: Drug Interactions: Pharmacokinetic Parameters for Coadministered Drugs in the Presence of Cobicistata,b
 
-| Cmax | AUC | Cmin |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-| Note: The information listed below is not a comprehensive list of all the available drug interaction data for concomitant medications with cobicistat-containing regimens. Please refer to the U.S. prescribing information for antiretroviral medications administered in combination with cobicistat for additional drug interaction information. |  |  |  |  |  |
-| Coadministered Drug | Coadministered Drug Dose/Schedule | Cobicistat Dose/Schedule | Ratio (90% Confidence Interval) of Coadministered Drug Pharmacokinetic Parameters with/without cobicistat; No Effect = 1.00 |  |  |
-| desipramine | 50 mg single dose (n=8) | 150 mg QD (n=8) | 1.24 (1.08, 1.44) | 1.65 (1.36, 2.02) | NC |
-| digoxin | 0.5 mg single dose (n=22) | 150 mg QD (n=22) | 1.41 (1.29, 1.55) | 1.08 (1.00, 1.17) | NC |
-| efavirenz | 600 mg single dose (n=17) | 150 mg QD (n=17) | 0.87(0.80, 0.94) | 0.93(0.89, 0.97) | NC |
-| a All interaction studies conducted in healthy volunteers. NC = not calculated |  |  |  |  |  |
+| Cmax | AUC |  |  |  |
+| --- | --- | --- | --- | --- |
+| Note: The information listed below is not a comprehensive list of all the available drug interaction data for concomitant medications with cobicistat-containing regimens. Please refer to the U.S. prescribing information for antiretroviral medications administered in combination with cobicistat for additional drug interaction information. |  |  |  |  |
+| Coadministered Drug | Coadministered Drug Dose/Schedule | Cobicistat Dose/Schedule | Ratio (90% Confidence Interval) of Coadministered Drug Pharmacokinetic Parameters with/without cobicistat; No effect = 1.00 |  |
+| atorvastatin | 10 mg single dose (n=16) | 150 mg QD (n=16) | 18.85b (13.53, 26.27) | 9.22b (7.58, 11.22) |
+| desipramine | 50 mg single dose (n=8) | 150 mg QD (n=8) | 1.24 (1.08, 1.44) | 1.65 (1.36, 2.02) |
+| digoxin | 0.5 mg single dose (n=22) | 150 mg QD (n=22) | 1.41 (1.29, 1.55) | 1.08 (1.00, 1.17) |
+| drospirenone/ ethinyl estradiol | 3 mg drospirenone single dose (n=14) | 150 mg QD (n=14) | 1.12b (1.05, 1.19) | 2.30b (2.00, 2.64) |
+| 0.02 ethinyl estradiol single dose (n=14) | 150 mg QD (n=14) | 0.82b (0.76, 0.89) | 0.78b (0.73, 0.85) |  |
+| efavirenz | 600 mg single dose (n=17) | 150 mg QD (n=17) | 0.87 (0.80, 0.94) | 0.93 (0.89, 0.97) |
+| rosuvastatin | 10 mg single dose (n=16) | 150 mg QD (n=16) | 10.58b (8.72, 12.83) | 3.42b (2.87, 4.07) |
+| a All interaction studies conducted in healthy volunteers. b Studies of cobicistat conducted in the presence of atazanavir 300 mg. |  |  |  |  |
 
 ## 12.4 Microbiology
 
@@ -152,7 +150,7 @@ The I50L and I50V substitutions yielded selective resistance to ATV and amprenav
 Clinical Studies: Resistance to EVOTAZ is driven by atazanavir as cobicistat lacks antiviral activity.
 For the complete atazanavir resistance-associated substitutions, refer to the atazanavir full prescribing information.
 
-Clinical Studies of Treatment-Naive Patients Receiving Atazanavir 300 mg Coadministered with Cobicistat 150 mg: n an analysis of treatment-failure subjects who received atazanavir coadministered with cobicistat in Study 114 through Week 144, evaluable genotypic data from paired baseline and treatment-failure isolates from subjects who had HIV-1 RNA greater than or equal to 400 copies/mL were available for all 21 virologic failures in this group (6%, 21/344).
+Clinical Studies of Treatment-Naive Patients Receiving Atazanavir 300 mg Coadministered with Cobicistat 150 mg: In an analysis of treatment-failure subjects who received atazanavir coadministered with cobicistat in Study 114 through Week 144, evaluable genotypic data from paired baseline and treatment-failure isolates from subjects who had HIV-1 RNA greater than or equal to 400 copies/mL were available for all 21 virologic failures in this group (6%, 21/344).
 Among the 21 subjects, 3 developed the emtricitabine-associated resistance substitution M184V.
 No subject developed the tenofovir-associated resistance substitution K65R or K70E, or any primary resistance substitution associated with protease inhibitors.
 In the ritonavir group, evaluable genotypic data were available for all 19 virologic failures (5%, 19/348).

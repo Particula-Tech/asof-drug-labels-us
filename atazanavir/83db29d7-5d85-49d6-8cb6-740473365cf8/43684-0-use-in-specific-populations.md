@@ -119,4 +119,4 @@ EVOTAZ is not recommended for use in HIV-treatment-experienced patients with end
 
 ## 8.7 Hepatic Impairment
 
-EVOTAZ is not recommended for use in patients with any degree of hepatic impairment [see Dosage and Administration (2.4), Warnings and Precautions (5.6), and Clinical Pharmacology (12.3)].
+EVOTAZ is not recommended for use in patients with any degree of hepatic impairment [see Dosage and Administration (2.4), Warnings and Precautions (5.7), and Clinical Pharmacology (12.3)].

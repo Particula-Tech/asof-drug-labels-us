@@ -6,11 +6,12 @@ The following adverse reactions are discussed in greater detail in other section
 - •rash [see Warnings and Precautions (5.2)]
 - •effects on serum creatinine [see Warnings and Precautions (5.3)]
 - •new onset or worsening renal impairment when used with tenofovir DF [see Warnings and Precautions (5.4)]
-- •nephrolithiasis and cholelithiasis [see Warnings and Precautions (5.5)]
-- •hepatotoxicity [see Warnings and Precautions (5.6)]
-- •hyperbilirubinemia [see Warnings and Precautions (5.9)]
+- •chronic kidney disease [see Warnings and Precautions (5.5)]
+- •nephrolithiasis and cholelithiasis [see Warnings and Precautions (5.6)]
+- •hepatotoxicity [see Warnings and Precautions (5.7)]
+- •hyperbilirubinemia [see Warnings and Precautions (5.10)]
 
-For additional safety information about atazanavir and cobicistat consult the full prescribing information for these individual products.
+For additional safety information about atazanavir and cobicistat, consult the full prescribing information for these individual products.
 
 ## 6.1 Clinical Trial Experience in Adults
 
@@ -23,7 +24,7 @@ The safety of atazanavir and cobicistat coadministered as single agents is based
 
 The most common adverse reactions (Grades 2-4) and reported in ≥5% of subjects in the atazanavir coadministered with cobicistat group were jaundice (6%) and rash (5%).
 
-The proportion of subjects who discontinued study treatment due to adverse events, regardless of severity, was 11% in both the atazanavir coadministered with cobicistat and atazanavir coadministered with ritonavir groups.
+The proportion of subjects who discontinued study treatment due to adverse events regardless of severity was 11% in both the atazanavir coadministered with cobicistat and atazanavir coadministered with ritonavir groups.
 Table 2 lists the frequency of adverse reactions (Grades 2-4) occurring in at least 2% of subjects in the atazanavir coadministered with cobicistat group in Study 114.
 
 Table 2: Selected Adverse Reactionsa (Grades 2-4) Reported in ≥2% of HIV-1 Infected Treatment-Naive Adults in the Atazanavir Coadministered with Cobicistat Group in Study 114 (Week 144 analysis)
@@ -75,7 +76,7 @@ Table 3: Laboratory Abnormalities (Grades 3-4) Reported in ≥2% of HIV-1 Infect
 | a For subjects with serum amylase >1.5 × upper limit of normal, lipase test was also performed. The frequency of increased lipase (Grades 3-4) occurring in the atazanavir coadministered with cobicistat group (N=46) and atazanavir coadministered with ritonavir group (N=35) was 7% and 3%, respectively. |  |  |
 
 Increase in Serum Creatinine: Cobicistat, a component of EVOTAZ, has been shown to increase serum creatinine and decrease estimated creatinine clearance due to inhibition of tubular secretion of creatinine without affecting actual renal glomerular function [see Warnings and Precautions (5.3) and Clinical Pharmacology (12.2)].
-In Study 114, increases in serum creatinine and decreases in estimated creatinine clearance occurred early in treatment in the atazanavir coadministered with cobicistat group after which they stabilized.
+In Study 114, increases in serum creatinine and decreases in estimated creatinine clearance occurred early in treatment in the atazanavir coadministered with cobicistat group, after which they stabilized.
 The mean (± SD) change in estimated glomerular filtration rate (eGFR) by Cockcroft-Gault method after 144 weeks of treatment was −15.1 ± 16.5 mL/min in the atazanavir coadministered with cobicistat group and −8.0 ± 16.8 mL/min in the atazanavir coadministered with ritonavir group.
 
 ### Serum Lipids

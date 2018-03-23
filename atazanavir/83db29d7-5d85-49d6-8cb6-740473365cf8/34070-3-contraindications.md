@@ -24,8 +24,10 @@ Table 1: Drugs that are Contraindicated with EVOTAZ
 | Ergot Derivatives | Dihydroergotamine, ergotamine, methylergonovine | Potential for serious and/or life-threatening events such as acute ergot toxicity characterized by peripheral vasospasm and ischemia of the extremities and other tissues. |
 | GI Motility Agent | Cisapride | Potential for serious and/or life-threatening reactions such as cardiac arrhythmias. |
 | Hepatitis C Direct-Acting Antivirals | Elbasvir/grazoprevir | May increase the risk of ALT elevations due to a significant increase in grazoprevir plasma concentrations caused by OATP1B1/3 inhibition. |
+| Glecaprevir/pibrentasvir | May increase the risk of ALT elevations due to an increase in glecaprevir and pibrentasvir concentrations. |  |
 | Herbal Products | St. John’s wort (Hypericum perforatum) | Coadministration of products containing St. John’s wort and EVOTAZ may result in loss of therapeutic effect and development of resistance. |
 | HMG-CoA Reductase Inhibitors | Lovastatin, simvastatin | Potential for serious reactions such as myopathy including rhabdomyolysis. |
+| Hormonal Contraceptives | Drospirenone/ethinyl estradiol | Potential for increased drospirenone concentrations, which can result in hyperkalemia. |
 | Non-nucleoside Reverse Transcriptase Inhibitors | Nevirapine | Nevirapine substantially decreases atazanavir exposure which may result in loss of therapeutic effect and development of resistance. Potential risk for nevirapine-associated adverse reactions due to increased nevirapine exposures. |
 | Phosphodiesterase-5 (PDE-5) Inhibitors | Sildenafilb when administered for the treatment of pulmonary arterial hypertension | Potential for sildenafil-associated adverse events (which include visual disturbances, hypotension, priapism, and syncope). |
 | Protease Inhibitors | Indinavir | Both atazanavir and indinavir are associated with indirect (unconjugated) hyperbilirubinemia. |

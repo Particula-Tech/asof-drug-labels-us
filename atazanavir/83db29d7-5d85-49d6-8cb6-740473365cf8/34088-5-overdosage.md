@@ -7,4 +7,4 @@ Since atazanavir is extensively metabolized by the liver and both atazanavir and
 Atazanavir: Human experience of acute overdose with atazanavir is limited.
 A single self-administered overdose of 29.2 g of atazanavir in an HIV-infected patient (73 times the 400-mg recommended dose of atazanavir administered without a CYP3A inhibitor) was associated with asymptomatic bifascicular block and PR interval prolongation.
 These events resolved spontaneously.
-At atazanavir doses resulting in high atazanavir exposures, jaundice due to indirect (unconjugated) hyperbilirubinemia (without associated liver function test changes) or PR interval prolongation may be observed [see Warnings and Precautions (5.1, 5.9) and Clinical Pharmacology (12.2)].
+At atazanavir doses resulting in high atazanavir exposures, jaundice due to indirect (unconjugated) hyperbilirubinemia (without associated liver function test changes) or PR interval prolongation may be observed [see Warnings and Precautions (5.1, 5.10) and Clinical Pharmacology (12.2)].
