@@ -14,11 +14,14 @@ Fatal outcomes have been reported in patients with serious underlying diseases.
 Patients with deep seated fungal infections who develop rashes during treatment with DIFLUCAN should be monitored closely and the drug discontinued if lesions progress.
 Fluconazole should be discontinued in patients treated for superficial fungal infection who develop a rash that may be attributed to fluconazole.
 
-(4) Use in Pregnancy: There are no adequate and well-controlled studies of DIFLUCAN in pregnant women.
-Available human data do not suggest an increased risk of congenital anomalies following a single maternal dose of 150 mg.
-A few published case reports describe a rare pattern of distinct congenital anomalies in infants exposed in utero to high dose maternal fluconazole (400–800 mg/day) during most or all of the first trimester.
+(4) Potential for Fetal Harm
+
+There are no adequate and well-controlled clinical trials of DIFLUCAN in pregnant women.
+Case reports describe a pattern of distinct congenital anomalies in infants exposed in utero to high dose maternal fluconazole (400–800 mg/day) during most or all of the first trimester.
 These reported anomalies are similar to those seen in animal studies.
-If this drug is used during pregnancy or if the patient becomes pregnant while taking the drug, the patient should be informed of the potential hazard to the fetus (See PRECAUTIONS, Pregnancy.)
+If DIFLUCAN is used during pregnancy or if the patient becomes pregnant while taking the drug, the patient should be informed of the potential hazard to the fetus.
+Effective contraceptive measures should be considered in women of child-bearing potential who are being treated with DIFLUCAN 400 to 800 mg/day and should continue throughout the treatment period and for approximately 1 week (5 to 6 half-lives) after the final dose.
+Epidemiological studies suggest a potential risk of spontaneous abortion and congenital abnormalities in infants whose mothers were treated with 150 mg of fluconazole as a single or repeated dose in the first trimester, but these epidemiological studies have limitations and these findings have not been confirmed in controlled clinical trials (See PRECAUTIONS: Pregnancy.)
 
 # PRECAUTIONS
 
@@ -26,10 +29,11 @@ If this drug is used during pregnancy or if the patient becomes pregnant while t
 
 Some azoles, including fluconazole, have been associated with prolongation of the QT interval on the electrocardiogram.
 Fluconazole causes QT prolongation via the inhibition of Rectifier Potassium Channel current (Ikr).
-The QT prolongation caused by other medicinal products (such as amiodarone) may be amplified via the inhibition of cytochrome P450 (CYP) 3A4 (see PRECAUTIONS, Drug Interactions).
+The QT prolongation caused by other medicinal products (such as amiodarone) may be amplified via the inhibition of cytochrome P450 (CYP) 3A4.
+(See PRECAUTIONS: Drug Interactions.)
 During post-marketing surveillance, there have been rare cases of QT prolongation and torsade de pointes in patients taking fluconazole.
 Most of these reports involved seriously ill patients with multiple confounding risk factors, such as structural heart disease, electrolyte abnormalities, and concomitant medications that may have been contributory.
-Patients with hypokalemia and advanced cardiac failure are at an increased risk for the occurrence of life-threatening ventricular arrhythmias and torsades de pointes.
+Patients with hypokalemia and advanced cardiac failure are at an increased risk for the occurrence of life-threatening ventricular arrhythmias and torsade de pointes.
 
 Fluconazole should be administered with caution to patients with these potentially proarrhythmic conditions.
 
@@ -39,7 +43,7 @@ This combination should be avoided.
 Fluconazole should be administered with caution to patients with renal dysfunction.
 
 Fluconazole is a potent CYP2C9 inhibitor and a moderate CYP3A4 inhibitor.
-Fluconazole treated patients who are concomitantly treated with drugs with a narrow therapeutic window metabolized through CYP2C9 and CYP3A4 should be monitored.
+Fluconazole treated-patients who are concomitantly treated with drugs with a narrow therapeutic window metabolized through CYP2C9 and CYP3A4 should be monitored.
 
 DIFLUCAN Powder for Oral Suspension contains sucrose and should not be used in patients with hereditary fructose, glucose/galactose malabsorption, and sucrase-isomaltase deficiency.
 
@@ -56,7 +60,7 @@ The convenience and efficacy of the single dose oral tablet of fluconazole regim
 DIFLUCAN is a potent inhibitor of cytochrome P450 (CYP) isoenzyme 2C9 and 2C19, and a moderate inhibitor of CYP3A4.
 In addition to the observed /documented interactions mentioned below, there is a risk of increased plasma concentration of other compounds metabolized by CYP2C9, CYP2C19, and CYP3A4 coadministered with fluconazole.
 Therefore, caution should be exercised when using these combinations and the patients should be carefully monitored.
-The enzyme inhibiting effect of fluconazole persists 4–5 days after discontinuation of fluconazole treatment due to the long half-life of fluconazole.
+The enzyme inhibiting effect of fluconazole persists 4 to 5 days after discontinuation of fluconazole treatment due to the long half-life of fluconazole.
 Clinically or potentially significant drug interactions between DIFLUCAN and the following agents/classes have been observed.
 These are described in greater detail below:
 
@@ -106,7 +110,7 @@ Careful monitoring of serum theophylline concentrations in patients receiving DI
 
 Because of the occurrence of serious cardiac dysrhythmias secondary to prolongation of the QTc interval in patients receiving azole antifungals in conjunction with terfenadine, interaction studies have been performed.
 One study at a 200 mg daily dose of fluconazole failed to demonstrate a prolongation in QTc interval.
-Another study at a 400 mg and 800 mg daily dose of fluconazole demonstrated that DIFLUCAN taken in doses of 400 mg per day or greater significantly increases plasma levels of terfenadine when taken concomitantly.
+Another study at a 400 mg and 800 mg daily dose of fluconazole demonstrated that DIFLUCAN taken in doses of 400 mg/ day or greater significantly increases plasma levels of terfenadine when taken concomitantly.
 The combined use of fluconazole at doses of 400 mg or greater with terfenadine is contraindicated.
 (See CONTRAINDICATIONS and CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
 The coadministration of fluconazole at doses lower than 400 mg/day with terfenadine should be carefully monitored.
@@ -114,7 +118,7 @@ The coadministration of fluconazole at doses lower than 400 mg/day with terfenad
 ### Cisapride
 
 There have been reports of cardiac events, including torsade de pointes, in patients to whom fluconazole and cisapride were coadministered.
-A controlled study found that concomitant fluconazole 200 mg once daily and cisapride 20 mg four times a day yielded a significant increase in cisapride plasma levels and prolongation of QTc interval.
+A controlled study found that concomitant treatment with fluconazole 200 mg once daily and cisapride 20 mg four times a day yielded a significant increase in cisapride plasma levels and prolongation of QTc interval.
 The combined use of fluconazole with cisapride is contraindicated.
 (See CONTRAINDICATIONS and CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
 
@@ -160,14 +164,14 @@ Reduce the dose of tofacitinib when given concomitantly with fluconazole (i.e., 
 
 ### Triazolam
 
-Fluconazole increases the AUC of triazolam (single dose) by approximately 50%, Cmax by 20–32%, and increases t½ by 25–50 % due to the inhibition of metabolism of triazolam.
+Fluconazole increases the AUC of triazolam (single dose) by approximately 50%, Cmax by 20% to 32%, and increases t½ by 25% to 50 % due to the inhibition of metabolism of triazolam.
 Dosage adjustments of triazolam may be necessary.
 
-### Oral Contraceptives
+### Oral contraceptives
 
 Two pharmacokinetic studies with a combined oral contraceptive have been performed using multiple doses of fluconazole.
 There were no relevant effects on hormone level in the 50 mg fluconazole study, while at 200 mg daily, the AUCs of ethinyl estradiol and levonorgestrel were increased 40% and 24%, respectively.
-Thus, multiple dose use of fluconazole at these doses is unlikely to have an effect on the efficacy of the combined oral contraceptive.
+Thus, multiple-dose use of fluconazole at these doses is unlikely to have an effect on the efficacy of the combined oral contraceptive.
 
 ### Pimozide
 
@@ -178,7 +182,7 @@ Coadministration of fluconazole and pimozide is contraindicated.
 ### Quinidine
 
 Although not studied in vitro or in vivo, concomitant administration of fluconazole with quinidine may result in inhibition of quinidine metabolism.
-Use of quinidine has been associated with QT prolongation and rare occurrences of torsades de pointes.
+Use of quinidine has been associated with QT prolongation and rare occurrences of torsade de pointes.
 Coadministration of fluconazole and quinidine is contraindicated.
 (See CONTRAINDICATIONS.)
 
@@ -189,7 +193,7 @@ An effect of this magnitude should not necessitate a change in the fluconazole d
 
 ### Alfentanil
 
-A study observed a reduction in clearance and distribution volume as well as prolongation of T½ of alfentanil following concomitant treatment with fluconazole.
+A study observed a reduction in clearance and distribution volume as well as prolongation of t½ of alfentanil following concomitant treatment with fluconazole.
 A possible mechanism of action is fluconazole's inhibition of CYP3A4.
 Dosage adjustment of alfentanil may be necessary.
 
@@ -201,12 +205,12 @@ Caution must be exercised if the concomitant use of fluconazole and amiodarone i
 ### Amitriptyline, nortriptyline
 
 Fluconazole increases the effect of amitriptyline and nortriptyline.
-5- nortriptyline and/or S-amitriptyline may be measured at initiation of the combination therapy and after one week.
+5-Nortriptyline and/or S-amitriptyline may be measured at initiation of the combination therapy and after 1 week.
 Dosage of amitriptyline/nortriptyline should be adjusted, if necessary.
 
 ### Amphotericin B
 
-Concurrent administration of fluconazole and amphotericin B in infected normal and immunosuppressed mice showed the following results: a small additive antifungal effect in systemic infection with C. albicans, no interaction in intracranial infection with Cryptococcus neoformans, and antagonism of the two drugs in systemic infection with A. fumigatus.
+Concurrent administration of fluconazole and amphotericin B in infected normal and immunosuppressed mice showed the following results: a small additive antifungal effect in systemic infection with Candida albicans, no interaction in intracranial infection with Cryptococcus neoformans, and antagonism of the two drugs in systemic infection with A. fumigatus.
 The clinical significance of results obtained in these studies is unknown.
 
 ### Azithromycin
@@ -220,7 +224,7 @@ Fluconazole inhibits the metabolism of carbamazepine and an increase in serum ca
 There is a risk of developing carbamazepine toxicity.
 Dosage adjustment of carbamazepine may be necessary depending on concentration measurements/effect.
 
-### Calcium Channel Blockers
+### Calcium channel blockers
 
 Certain calcium channel antagonists (nifedipine, isradipine, amlodipine, verapamil, and felodipine) are metabolized by CYP3A4.
 Fluconazole has the potential to increase the systemic exposure of the calcium channel antagonists.
@@ -238,9 +242,9 @@ The combination may be used while taking increased consideration to the risk of 
 
 ### Fentanyl
 
-One fatal case of possible fentanyl fluconazole interaction was reported.
+One fatal case of possible fentanyl-fluconazole interaction was reported.
 The author judged that the patient died from fentanyl intoxication.
-Furthermore, in a randomized crossover study with 12 healthy volunteers it was shown that fluconazole delayed the elimination of fentanyl significantly.
+Furthermore, in a randomized crossover study with 12 healthy volunteers, it was shown that fluconazole delayed the elimination of fentanyl significantly.
 Elevated fentanyl concentration may lead to respiratory depression.
 
 ### Halofantrine
@@ -268,19 +272,19 @@ Dosage adjustment of methadone may be necessary.
 The Cmax and AUC of flurbiprofen were increased by 23% and 81%, respectively, when coadministered with fluconazole compared to administration of flurbiprofen alone.
 Similarly, the Cmax and AUC of the pharmacologically active isomer [S-(+)-ibuprofen] were increased by 15% and 82%, respectively, when fluconazole was coadministered with racemic ibuprofen (400 mg) compared to administration of racemic ibuprofen alone.
 
-Although not specifically studied, fluconazole has the potential to increase the systemic exposure of other NSAIDs that are metabolized by CYP2C9 (e.g., naproxen, lornoxicam, meloxicam, diclofenac).
+Although not specifically studied, fluconazole has the potential to increase the systemic exposure of other non-steroidal anti-inflammatory drugs (NSAIDs) that are metabolized by CYP2C9 (e.g., naproxen, lornoxicam, meloxicam, diclofenac).
 Frequent monitoring for adverse events and toxicity related to NSAIDs is recommended.
 Adjustment of dosage of NSAIDs may be needed.
 
 ### Prednisone
 
-There was a case report that a liver-transplanted patient treated with prednisone developed acute adrenal cortex insufficiency when a three month therapy with fluconazole was discontinued.
+There was a case report that a liver-transplanted patient treated with prednisone developed acute adrenal cortex insufficiency when a 3 month therapy with fluconazole was discontinued.
 The discontinuation of fluconazole presumably caused an enhanced CYP3A4 activity which led to increased metabolism of prednisone.
 Patients on long-term treatment with fluconazole and prednisone should be carefully monitored for adrenal cortex insufficiency when fluconazole is discontinued.
 
 ### Saquinavir
 
-Fluconazole increases the AUC of saquinavir by approximately 50%, Cmax by approximately 55%, and decreases clearance of saquinavir by approximately 50% due to inhibition of saquinavir's hepatic metabolism by CYP3A4 and inhibition of P-glycoprotein.
+Fluconazole increases the AUC of saquinavir by approximately 50%, Cmax by approximately 55%, and decreases the clearance of saquinavir by approximately 50% due to inhibition of saquinavir's hepatic metabolism by CYP3A4 and inhibition of P-glycoprotein.
 Dosage adjustment of saquinavir may be necessary.
 
 ### Sirolimus
@@ -288,18 +292,18 @@ Dosage adjustment of saquinavir may be necessary.
 Fluconazole increases plasma concentrations of sirolimus presumably by inhibiting the metabolism of sirolimus via CYP3A4 and P-glycoprotein.
 This combination may be used with a dosage adjustment of sirolimus depending on the effect/concentration measurements.
 
-### Vinca Alkaloids
+### Vinca alkaloids
 
 Although not studied, fluconazole may increase the plasma levels of the vinca alkaloids (e.g., vincristine and vinblastine) and lead to neurotoxicity, which is possibly due to an inhibitory effect on CYP3A4.
 
 ### Vitamin A
 
-Based on a case report in one patient receiving combination therapy with all-trans-retinoid acid (an acid form of vitamin A) and fluconazole, CNS related undesirable effects have developed in the form of pseudotumour cerebri, which disappeared after discontinuation of fluconazole treatment.
+Based on a case report in one patient receiving combination therapy with all-trans-retinoid acid (an acid form of vitamin A) and fluconazole, central nervous system (CNS) related undesirable effects have developed in the form of pseudotumor cerebri, which disappeared after discontinuation of fluconazole treatment.
 This combination may be used but the incidence of CNS related undesirable effects should be borne in mind.
 
 ### Zidovudine
 
-Fluconazole increases Cmax and AUC of zidovudine by 84% and 74%, respectively, due to an approximately 45% decrease in oral zidovudine clearance.
+Fluconazole increases the Cmax and AUC of zidovudine by 84% and 74%, respectively, due to an approximately 45% decrease in oral zidovudine clearance.
 The half-life of zidovudine was likewise prolonged by approximately 128% following combination therapy with fluconazole.
 Patients receiving this combination should be monitored for the development of zidovudine-related adverse reactions.
 Dosage reduction of zidovudine may be considered.
@@ -308,14 +312,14 @@ Physicians should be aware that interaction studies with medications other than 
 
 ## Carcinogenesis, Mutagenesis, and Impairment of Fertility
 
-Fluconazole showed no evidence of carcinogenic potential in mice and rats treated orally for 24 months at doses of 2.5, 5, or 10 mg/kg/day (approximately 2–7× the recommended human dose).
+Fluconazole showed no evidence of carcinogenic potential in mice and rats treated orally for 24 months at doses of 2.5, 5, or 10 mg/kg/day (approximately 2 to 7 times the recommended human dose).
 Male rats treated with 5 and 10 mg/kg/day had an increased incidence of hepatocellular adenomas.
 
-Fluconazole, with or without metabolic activation, was negative in tests for mutagenicity in 4 strains of S. typhimurium, and in the mouse lymphoma L5178Y system.
-Cytogenetic studies in vivo (murine bone marrow cells, following oral administration of fluconazole) and in vitro (human lymphocytes exposed to fluconazole at 1000 µg/mL) showed no evidence of chromosomal mutations.
+Fluconazole, with or without metabolic activation, was negative in tests for mutagenicity in four strains of S. typhimurium, and in the mouse lymphoma L5178Y system.
+Cytogenetic studies in vivo (murine bone marrow cells, following oral administration of fluconazole) and in vitro (human lymphocytes exposed to fluconazole at 1000 mcg/mL) showed no evidence of chromosomal mutations.
 
-Fluconazole did not affect the fertility of male or female rats treated orally with daily doses of 5, 10, or 20 mg/kg or with parenteral doses of 5, 25, or 75 mg/kg, although the onset of parturition was slightly delayed at 20 mg/kg PO.
-In an intravenous perinatal study in rats at 5, 20, and 40 mg/kg, dystocia and prolongation of parturition were observed in a few dams at 20 mg/kg (approximately 5–15× the recommended human dose) and 40 mg/kg, but not at 5 mg/kg.
+Fluconazole did not affect the fertility of male or female rats treated orally with daily doses of 5 mg/kg, 10 mg/kg, or 20 mg/kg or with parenteral doses of 5 mg/kg, 25 mg/kg, or 75 mg/kg, although the onset of parturition was slightly delayed at 20 mg/kg PO.
+In an intravenous perinatal study in rats at 5 mg/kg, 20 mg/kg, and 40 mg/kg, dystocia and prolongation of parturition were observed in a few dams at 20 mg/kg (approximately 5 to 15 times the recommended human dose) and 40 mg/kg, but not at 5 mg/kg.
 The disturbances in parturition were reflected by a slight increase in the number of still born pups and decrease of neonatal survival at these dose levels.
 The effects on parturition in rats are consistent with the species specific estrogen-lowering property produced by high doses of fluconazole.
 Such a hormone change has not been observed in women treated with fluconazole.
@@ -325,38 +329,32 @@ Such a hormone change has not been observed in women treated with fluconazole.
 
 ### Teratogenic Effects
 
-#### Pregnancy Category C
-
-##### Single 150 mg tablet use for Vaginal Candidiasis
-
-There are no adequate and well-controlled studies of Diflucan in pregnant women.
-Available human data do not suggest an increased risk of congenital anomalies following a single maternal dose of 150 mg.
-
-#### Pregnancy Category D
-
-##### All other indications
-
-A few published case reports describe a rare pattern of distinct congenital anomalies in infants exposed in utero to high dose maternal fluconazole (400–800 mg/day) during most or all of the first trimester.
+Potential for Fetal Harm: Use in pregnancy should be avoided except in patients with severe or potentially life-threatening fungal infections in whom fluconazole may be used if the anticipated benefit outweighs the possible risk to the fetus.
+A few published case reports describe a pattern of distinct congenital anomalies in infants exposed in utero to high dose maternal fluconazole (400–800 mg/day) during most or all of the first trimester.
 These reported anomalies are similar to those seen in animal studies.
-If this drug is used during pregnancy, or if the patient becomes pregnant while taking the drug, the patient should be informed of the potential hazard to the fetus.
-(See WARNINGS, Use in Pregnancy.)
+Effective contraceptive measures should be considered in women of child-bearing potential who are being treated with DIFLUCAN 400–800 mg/day and should continue throughout the treatment period and for approximately 1 week (5 to 6 half-lives) after the final dose.
+If DIFLUCAN is used during pregnancy, or if the patient becomes pregnant while taking the drug, the patient should be informed of the potential hazard to the fetus.
+Spontaneous abortions and congenital abnormalities have been suggested as potential risks associated with 150 mg of fluconazole as a single or repeated dose in the first trimester of pregnancy based on retrospective epidemiological studies.
+There are no adequate and well-controlled studies of DIFLUCAN in pregnant women.
+(See WARNINGS: Use in Pregnancy.)
 
-###### Human Data
+Human Data
 
-Several published epidemiologic studies do not suggest an increased risk of congenital anomalies associated with low dose exposure to fluconazole in pregnancy (most subjects received a single oral dose of 150 mg).
-A few published case reports describe a distinctive and rare pattern of birth defects among infants whose mothers received high-dose (400–800 mg/day) fluconazole during most or all of the first trimester of pregnancy.
-The features seen in these infants include: brachycephaly, abnormal facies, abnormal calvarial development, cleft palate, femoral bowing, thin ribs and long bones, arthrogryposis, and congenital heart disease.
+Case reports describe a distinctive and rare pattern of birth defects among infants whose mothers received high-dose (400 mg/day - 800 mg/day) fluconazole during most or all of the first trimester of pregnancy.
+The features seen in these infants include brachycephaly, abnormal facies, abnormal calvarial development, cleft palate, femoral bowing, thin ribs and long bones, arthrogryposis, and congenital heart disease.
 These effects are similar to those seen in animal studies.
 
-###### Animal Data
+Epidemiological studies suggest a potential risk of spontaneous abortion and congenital abnormalities in infants whose mothers were treated with 150 mg of fluconazole as a single or repeated dose in the first trimester, but these epidemiological studies have limitations and these findings have not been confirmed in controlled clinical trials.
+
+Animal Data
 
 Fluconazole was administered orally to pregnant rabbits during organogenesis in two studies at doses of 5, 10, and 20 mg/kg and at 5, 25, and 75 mg/kg, respectively.
-Maternal weight gain was impaired at all dose levels (approximately 0.25 to 4 times the 400 mg clinical dose based on BSA), and abortions occurred at 75 mg/kg (approximately 4 times the 400 mg clinical dose based on BSA); no adverse fetal effects were observed.
+Maternal weight gain was impaired at all dose levels (approximately 0.25 to 4 times the 400 mg clinical dose based on body surface area [BSA] comparison), and abortions occurred at 75 mg/kg (approximately 4 times the 400 mg clinical dose based on BSA); no adverse fetal effects were observed.
 
 In several studies in which pregnant rats received fluconazole orally during organogenesis, maternal weight gain was impaired and placental weights were increased at 25 mg/kg.
-There were no fetal effects at 5 or 10 mg/kg; increases in fetal anatomical variants (supernumerary ribs, renal pelvis dilation) and delays in ossification were observed at 25 and 50 mg/kg and higher doses.
-At doses ranging from 80 to 320 mg/kg (approximately 2 to 8 times the 400 mg clinical dose based on BSA), embryolethality in rats was increased and fetal abnormalities included wavy ribs, cleft palate, and abnormal cranio-facial ossification.
-These effects are consistent with the inhibition of estrogen synthesis in rats and may be a result of known effects of lowered estrogen on pregnancy, organogenesis, and parturition
+There were no fetal effects at 5 mg/kg or 10 mg/kg; increases in fetal anatomical variants (supernumerary ribs, renal pelvis dilation) and delays in ossification were observed at 25 mg/kg and 50 mg/kg and higher doses.
+At doses ranging from 80 to 320 mg/kg (approximately 2 to 8 times the 400 mg clinical dose based on BSA), embryolethality in rats was increased and fetal abnormalities included wavy ribs, cleft palate, and abnormal craniofacial ossification.
+These effects are consistent with the inhibition of estrogen synthesis in rats and may be a result of known effects of lowered estrogen on pregnancy, organogenesis, and parturition.
 
 ## Nursing Mothers
 

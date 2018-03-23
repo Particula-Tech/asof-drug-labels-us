@@ -55,7 +55,7 @@ An open-label, comparative study of the efficacy and safety of DIFLUCAN (2–3 m
 4 times daily) in immunocompromised children with oropharyngeal candidiasis was conducted.
 Clinical and mycological response rates were higher in the children treated with fluconazole.
 
-Clinical cure at the end of treatment was reported for 86% of fluconazole treated patients compared to 46% of nystatin treated patients.
+Clinical cure at the end of treatment was reported for 86% of fluconazole-treated patients compared to 46% of nystatin treated patients.
 Mycologically, 76% of fluconazole treated patients had the infecting organism eradicated compared to 11% for nystatin treated patients.
 
 |  | Fluconazole | Nystatin |
