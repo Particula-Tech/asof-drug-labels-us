@@ -35,7 +35,7 @@ Risks Specific to Abuse of ARYMO ER
 
 ARYMO ER is for oral use only.
 Abuse of ARYMO ER poses a risk of overdose and death.
-This risk is increased with concurrent abuse of ARYMO ER with alcohol and other central nervous system depressant.
+This risk is increased with concurrent abuse of ARYMO ER with alcohol and other central nervous system depressants.
 Attempting to cut, break, chew, crush, or dissolve ARYMO ER tablets may compromise some of the extended-release properties, resulting in delivery of morphine that could lead to overdose and death.
 
 Parenteral abuse of ARYMO ER can be expected to result in local tissue necrosis, infection, pulmonary granulomas, and increased risk of endocarditis and valvular heart injury.
@@ -45,7 +45,7 @@ Abuse Deterrence Studies
 
 ARYMO ER is formulated with inactive ingredients that make the tablet more difficult to manipulate for misuse and abuse.
 
-To evaluate the ability of ARYMO ER to reduce the potential for misuse and abuse, a series of abuse-deterrent in vitro laboratory physical manipulation, chemical extraction, and syringeability studies was conducted.
+To evaluate the ability of ARYMO ER to reduce the potential for misuse and abuse, a series of abuse-deterrent in vitro laboratory physical manipulation, chemical extraction, and syringeability studies were conducted.
 An oral pharmacokinetic study and an oral clinical abuse potential study were also conducted.
 
 In Vitro Testing

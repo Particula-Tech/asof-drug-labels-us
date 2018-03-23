@@ -2,7 +2,7 @@
 
 Addiction, Abuse, and Misuse
 
-ARYMO™ ER exposes patients and other users to the risks of opioid addiction, abuse, and misuse, which can lead to overdose and death.
+ARYMO® ER exposes patients and other users to the risks of opioid addiction, abuse, and misuse, which can lead to overdose and death.
 Assess each patient’s risk prior to prescribing ARYMO ER, and monitor all patients regularly for the development of these behaviors or conditions [see Warnings and Precautions (5.1)].
 
 Life-Threatening Respiratory Depression

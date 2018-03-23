@@ -69,7 +69,7 @@ These studies were conducted with morphine treatment usually in the range of 4 t
 
 Additionally, delayed sexual maturation and decreased sexual behaviors in female offspring at 20 mg/kg/day (3.2 times the HDD), and decreased plasma and testicular levels of luteinizing hormone and testosterone, decreased testes weights, seminiferous tubule shrinkage, germinal cell aplasia, and decreased spermatogenesis in male offspring were also observed at 20 mg/kg/day (3.2 times the HDD).
 Decreased litter size and viability were observed in the offspring of male rats that were intraperitoneally administered morphine sulfate for 1 day prior to mating at 25 mg/kg/day (4.1 times the HDD) and mated to untreated females.
-Decreased viability and body weight and/or movement deficits in both first and second generation offspring were reported when male mice were treated for 5 days with escalating doses of 120 to 240 mg/kg/day morphine sulfate (9.7 to 19.5 times the HDD) or when female mice treated with escalating doses of 60 to 240 mg/kg/day (4.9 to 19.5 times the HDD) followed by a 5-day treatment-free recovery period prior to mating.
+Decreased viability and body weight and/or movement deficits in both first and second generation offspring were reported when male mice were treated for 5 days with escalating doses of 120 to 240 mg/kg/day morphine sulfate (9.7 to 19.5 times the HDD) or when female mice were treated with escalating doses of 60 to 240 mg/kg/day (4.9 to 19.5 times the HDD) followed by a 5-day treatment-free recovery period prior to mating.
 Similar multigenerational findings were also seen in female rats pre-gestationally treated with escalating doses of 10 to 22 mg/kg/day morphine (1.6 to 3.6 times the HDD).
 
 ## 8.2 Lactation
@@ -94,7 +94,7 @@ Infertility
 Chronic use of opioids may cause reduced fertility in females and males of reproductive potential.
 It is not known whether these effects on fertility are reversible [see Adverse Reactions (6.2), Clinical Pharmacology (12.2), Nonclinical Toxicology (13.1)].
 
-In published animal studies, morphine administration adversely effected fertility and reproductive endpoints in male rats and prolonged estrus cycle in female rats [see Nonclinical Toxicology (13.1)].
+In published animal studies, morphine administration adversely affected fertility and reproductive endpoints in male rats and prolonged estrus cycle in female rats [see Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
 

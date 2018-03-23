@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-ARYMO™ ER (morphine sulfate) extended-release tablets are for oral use and contain morphine sulfate, an opioid agonist.
+ARYMO ER (morphine sulfate) extended-release tablets are for oral use and contain morphine sulfate, an opioid agonist.
 
 Each tablet contains the following inactive ingredients common to all strengths: polyethylene oxide 400,000, butylated hydroxytoluene, polyvinyl alcohol, polyethylene glycol 3350, talc, and titanium dioxide.
 
