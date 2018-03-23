@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA205703"
+  ],
+  "inn": "esmolol",
+  "labeler": "WG Critical Care, LLC",
+  "package_ndcs": [
+    "44567-811-10",
+    "44567-812-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "esmolol hydrochloride",
+      "name": "Esmolol Hydrochloride"
+    }
+  ],
+  "setid": "60b10020-f802-4fef-a487-0f11eca246c5",
+  "source": "dailymed"
+}
