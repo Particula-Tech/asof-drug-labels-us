@@ -1,0 +1,19 @@
+# 11 DESCRIPTION
+
+Palonosetron hydrochloride is an antiemetic and antinauseant agent.
+It is a serotonin-3 (5-HT3) receptor antagonist with a strong binding affinity for this receptor.
+Chemically, palonosetron hydrochloride is: (3aS)-2-[(S)-1-Azabicyclo [2.2.2]oct-3-yl]-2,3,3a,4,5,6-hexahydro-1-oxo- 1Hbenz[de]isoquinoline hydrochloride.
+The empirical formula is C19H24N2O.HCl, with a molecular weight of 332.87.
+Palonosetron hydrochloride exists as a single isomer and has the following structural formula:
+
+Palonosetron hydrochloride is a white to off-white crystalline powder.
+It is freely soluble in water and soluble in methanol.
+
+Palonosetron hydrochloride injection is a sterile, clear, colorless, non pyrogenic, isotonic, buffered solution for intravenous administration.
+Palonosetron hydrochloride injection is available as 5 mL single use vial or 1.5 mL single use vial.
+
+Each 5 mL vial contains 0.25 mg palonosetron base as hydrochloride, 207.5 mg mannitol, disodium edetate and sodium acetate trihydrate in water for intravenous administration.
+
+Each 1.5 mL vial contains 0.075 mg palonosetron base as hydrochloride, 62.25 mg mannitol, disodium edetate and sodium acetate trihydrate in water for intravenous administration.
+
+The pH of the solution in the 5 mL and 1.5 mL vials is 4.5 to 5.5, Hydrochloric acid or sodium hydroxide may have been added to adjust pH.

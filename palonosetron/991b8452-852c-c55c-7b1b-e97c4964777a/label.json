@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA201533"
+  ],
+  "inn": "palonosetron",
+  "labeler": "Dr.Reddy's Laboratories Limited",
+  "package_ndcs": [
+    "55111-694-07",
+    "55111-694-15",
+    "55111-694-19"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "palonosetron",
+      "name": "Palonosetron"
+    }
+  ],
+  "setid": "991b8452-852c-c55c-7b1b-e97c4964777a",
+  "source": "dailymed"
+}
