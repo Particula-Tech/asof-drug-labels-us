@@ -3,10 +3,10 @@
 The following adverse reactions are discussed in greater detail in other sections of the label.
 
 - Hypersensitivity [see Contraindications (4)]
-- Suicidal Thoughts and Behaviors in Adolescents and Young Adults [see Warnings and Precautions (5.1)]
+- Suicidal Thoughts and Behaviors in Pediatric and Young Adult Patients [see Warnings and Precautions (5.1)]
 - Serotonin Syndrome [see Warnings and Precautions (5.2)]
 - Elevated Blood Pressure [see Warnings and Precautions (5.3)]
-- Abnormal Bleeding [see Warnings and Precautions (5.4)]
+- Increased Risk of Bleeding [see Warnings and Precautions (5.4)]
 - Angle Closure Glaucoma [see Warnings and Precautions (5.5)]
 - Activation of Mania/Hypomania [see Warnings and Precautions (5.6)]
 - Discontinuation Syndrome [see Warnings and Precautions (5.7)]
@@ -35,9 +35,9 @@ In a longer-term study, up to 9 months, the most common was vomiting (2%).
 
 Common adverse reactions in placebo-controlled MDD studies
 
-The most commonly observed adverse reactions in desvenlafaxine extended-release tablets treated MDD patients in pre-marketing pooled 8-week, placebo-controlled, fixed-dose studies (incidence greater than or equal to 5% and at least twice the rate of placebo in the 50 or 100 mg dose groups) were: nausea, dizziness, insomnia, hyperhidrosis, constipation, somnolence, decreased appetite, anxiety, and specific male sexual function disorders.
+The most commonly observed adverse reactions in desvenlafaxine extended-release tablets treated MDD patients in pre-marketing pooled 8-week, placebo-controlled, fixed-dose studies (incidence ≥ 5% and at least twice the rate of placebo in the 50 or 100 mg dose groups) were: nausea, dizziness, insomnia, hyperhidrosis, constipation, somnolence, decreased appetite, anxiety, and specific male sexual function disorders.
 
-Table 2 shows the incidence of common adverse reactions that occurred in greater than or equal to 2% of desvenlafaxine extended-release tablets treated MDD patients and twice the rate of placebo at any dose in the pre-marketing pooled 8-week, placebo-controlled, fixed dose clinical studies.
+Table 2 shows the incidence of common adverse reactions that occurred in ≥ 2% of desvenlafaxine extended-release tablets treated MDD patients and twice the rate of placebo at any dose in the pre-marketing pooled 8-week, placebo-controlled, fixed dose clinical studies.
 
 Table 2: Common Adverse Reactions (≥2% in any Fixed-Dose Group and Twice the Rate of Placebo) in Pre-marketing Pooled MDD 8-Week Placebo-Controlled Studies
 
@@ -85,7 +85,7 @@ Table 2: Common Adverse Reactions (≥2% in any Fixed-Dose Group and Twice the R
 
 Sexual function adverse reactions
 
-Table 3 shows the incidence of sexual function adverse reactions that occurred in greater than or equal to 2% of desvenlafaxine extended-release tablets treated MDD patients in any fixed-dose group (pre-marketing pooled 8-week, placebo-controlled, fixed-dose, clinical studies).
+Table 3 shows the incidence of sexual function adverse reactions that occurred in ≥2% of desvenlafaxine extended-release tablets treated MDD patients in any fixed-dose group (pre-marketing pooled 8-week, placebo-controlled, fixed-dose, clinical studies).
 
 Table 3: Sexual Function Adverse Reactions (≥ 2% in Men or Women in any Desvenlafaxine Extended-Release Tablets Group) During the On-Therapy Period
 
@@ -177,7 +177,7 @@ Table 6: Mean Changes in Vital Signs at Final on Therapy for All Short-term, Fix
 | Supine pulse (bpm) | -0.3 | 1.3 | 1.3 | 0.9 | 4.1 |
 | Weight (kg) | 0.0 | -0.4 | -0.6 | -0.9 | -1.1 |
 
-Treatment with desvenlafaxine extended-release tablets at all doses from 50 mg per day to 400 mg per day in controlled studies was associated with sustained hypertension, defined as treatment-emergent supine diastolic blood pressure (SDBP) greater than or equal to 90 mm Hg and greater than or equal to 10 mm Hg above baseline for 3 consecutive on-therapy visits (see Table 7).
+Treatment with desvenlafaxine extended-release tablets at all doses from 50 mg per day to 400 mg per day in controlled studies was associated with sustained hypertension, defined as treatment-emergent supine diastolic blood pressure (SDBP) ≥90 mm Hg and ≥10 mm Hg above baseline for 3 consecutive on-therapy visits (see Table 7).
 Analyses of patients in desvenlafaxine extended-release tablets pre-marketing short-term controlled studies who met criteria for sustained hypertension revealed a consistent increase in the proportion of patients who developed sustained hypertension.
 This was seen at all doses with a suggestion of a higher rate at 400 mg per day.
 
@@ -193,12 +193,13 @@ Table 7: Proportion of Patients with Sustained Elevation of Supine Diastolic Blo
 
 Orthostatic hypotension
 
-In the pre-marketing short-term, placebo-controlled clinical studies with doses of 50 to 400 mg, systolic orthostatic hypotension (decrease greater than or equal to 30 mm Hg from supine to standing position) occurred more frequently in patients greater than or equal to 65 years of age receiving desvenlafaxine extended-release tablets (8%, 7/87) versus placebo (2.5%, 1/40), compared to patients less than 65 years of age receiving desvenlafaxine extended-release tablets (0.9%, 18/1,937) versus placebo (0.7%, 8/1,218).
+In the pre-marketing short-term, placebo-controlled clinical studies with doses of 50 to 400 mg, systolic orthostatic hypotension (decrease ≥30 mm Hg from supine to standing position) occurred more frequently in patients ≥65 years of age receiving desvenlafaxine extended-release tablets (8%, 7/87) versus placebo (2.5%, 1/40), compared to patients less than 65 years of age receiving desvenlafaxine extended-release tablets (0.9%, 18/1,937) versus placebo (0.7%, 8/1,218).
 
 ## 6.2 Postmarketing Experience
 
 The following adverse reaction has been identified during post-approval use of desvenlafaxine extended-release tablets.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure:
 
-Skin and subcutaneous tissue disorders – Stevens-Johnson syndrome.
-Gastrointestinal disorders – Pancreatitis acute.
+Skin and subcutaneous tissue disorders – Stevens-Johnson syndrome Gastrointestinal disorders – Pancreatitis acute
+
+Cardiovascular system – Takotsubo cardiomyopathy

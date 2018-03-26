@@ -1,8 +1,8 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Suicidal Thoughts and Behaviors in Children, Adolescents and Young Adults
+## 5.1 Suicidal Thoughts and Behaviors in Pediatric and Young Adult Patients
 
-Patients with major depressive disorder (MDD), both adult and pediatric, may experience worsening of their depression and/or the emergence of suicidal ideation and behavior (suicidality) or unusual changes in behavior, whether or not they are taking antidepressant medications, and this risk may persist until significant remission occurs.
+Patients with MDD, both adult and pediatric, may experience worsening of their depression and/or the emergence of suicidal ideation and behavior (suicidality) or unusual changes in behavior, whether or not they are taking antidepressant medications, and this risk may persist until significant remission occurs.
 Suicide is a known risk of depression and certain other psychiatric disorders, and these disorders themselves are the strongest predictors of suicide.
 There has been a long-standing concern, however, that antidepressants may have a role in inducing worsening of depression and the emergence of suicidality in certain patients during the early phases of treatment.
 Pooled analyses of short-term placebo-controlled studies of antidepressant drugs (SSRIs and others) showed that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18 to 24) with major depressive disorder (MDD) and other psychiatric disorders.
@@ -34,7 +34,7 @@ The following symptoms, anxiety, agitation, panic attacks, insomnia, irritabilit
 Although a causal link between the emergence of such symptoms and either the worsening of depression and/or the emergence of suicidal impulses has not been established, there is concern that such symptoms may represent precursors to emerging suicidality.
 Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients whose depression is persistently worse, or who are experiencing emergent suicidality or symptoms that might be precursors to worsening depression or suicidality, especially if these symptoms are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
 
-If the decision has been made to discontinue treatment, medication should be tapered, as rapidly as is feasible, but with recognition that abrupt discontinuation can be associated with certain symptoms [see Dosage and Administration (2.4) and Warnings and Precautions (5.7) for a description of the risks of discontinuation of desvenlafaxine extended-release tablets].
+If the decision has been made to discontinue treatment, medication should be tapered, as rapidly as is feasible, but with recognition that abrupt discontinuation can be associated with certain symptoms [see Dosage and Administration (2.4), Warnings and Precautions (5.7)].
 
 Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to healthcare providers.
 Such monitoring should include daily observation by families and caregivers.
@@ -51,21 +51,20 @@ It should be noted that desvenlafaxine extended-release tablets are not approved
 
 ## 5.2 Serotonin Syndrome
 
-The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including desvenlafaxine extended-release tablets, alone but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, and St. John’s Wort), and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
+Serotonin-norepinephrine reuptake inhibitors (SNRIs) and selective-serotonin reuptake inhibitors (SSRIs), including desvenlafaxine extended-release tablets, can precipitate serotonin syndrome, a potentially life-threatening condition.
+The risk is increased with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, and St. John’s Wort) and with drugs that impair metabolism of serotonin, i.e., MAOIs [see Contraindications (4), Drug Interactions (7.1)].
+Serotonin syndrome can also occur when these drugs are used alone.
 
-Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
-Patients should be monitored for the emergence of serotonin syndrome.
+Serotonin syndrome signs and symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
 
-The concomitant use of desvenlafaxine extended-release tablets with MAOIs intended to treat psychiatric disorders is contraindicated.
-Desvenlafaxine extended-release tablets should also not be started in a patient who is being treated with MAOIs such as linezolid or intravenous methylene blue.
-All reports with methylene blue that provided information on the route of administration involved intravenous administration in the dose range of 1 mg/kg to 8 mg/kg.
-No reports involved the administration of methylene blue by other routes (such as oral tablets or local tissue injection) or at lower doses.
-There may be circumstances when it is necessary to initiate treatment with a MAOI such as linezolid or intravenous methylene blue in a patient taking desvenlafaxine extended-release tablets.
-Desvenlafaxine extended-release tablets should be discontinued before initiating treatment with the MAOI [see Contraindications (4.2) and Dosage and Administration (2.6)].
+The concomitant use of desvenlafaxine extended-release tablets with MAOIs is contraindicated.
+In addition, do not initiate Desvenlafaxine extended-release tablets in a patient being treated with MAOIs such as linezolid or intravenous methylene blue.
+No reports involved the administration of methylene blue by other routes (such as oral tablets or local tissue injection).
+If it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking desvenlafaxine extended-release tablets, discontinue desvenlafaxine extended-release tablets before initiating treatment with the MAOI [see Contraindications (4), Drug Interactions (7.1)].
 
-If concomitant use of desvenlafaxine extended-release tablets with other serotonergic drugs, including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, amphetamines, tryptophan, and St. John's Wort is clinically warranted, patients should be made aware of a potential increased risk for serotonin syndrome, particularly during treatment initiation and dose increases.
-
-Treatment with desvenlafaxine extended-release tablets and any concomitant serotonergic agents should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
+Monitor all patients taking desvenlafaxine extended-release tablets for the emergence of serotonin syndrome.
+Discontinue treatment with desvenlafaxine extended-release tablets and any concomitant serotonergic agents immediately if the above symptoms occur, and initiate supportive symptomatic treatment.
+If concomitant use of desvenlafaxine extended-release tablets with other serotonergic drugs is clinically warranted, inform patients of the increased risk for serotonin syndrome and monitor for symptoms.
 
 ## 5.3 Elevated Blood Pressure
 
@@ -76,17 +75,19 @@ Cases of elevated blood pressure requiring immediate treatment have been reporte
 Sustained blood pressure increases could have adverse consequences.
 For patients who experience a sustained increase in blood pressure while receiving desvenlafaxine extended-release tablets, either dose reduction or discontinuation should be considered [see Adverse Reactions (6.1)].
 
-## 5.4 Abnormal Bleeding
+## 5.4 Increased Risk of Bleeding
 
-SSRIs and SNRIs, including desvenlafaxine extended-release tablets, may increase the risk of bleeding events.
+Drugs that interfere with serotonin reuptake inhibition, including desvenlafaxine extended-release tablets, may increase the risk of bleeding events.
 Concomitant use of aspirin, nonsteroidal anti-inflammatory drugs, warfarin, and other anticoagulants may add to this risk.
 Case reports and epidemiological studies (case-control and cohort design) have demonstrated an association between use of drugs that interfere with serotonin reuptake and the occurrence of gastrointestinal bleeding.
 Bleeding events related to SSRIs and SNRIs have ranged from ecchymosis, hematoma, epistaxis, and petechiae to life-threatening hemorrhages.
-Patients should be cautioned about the risk of bleeding associated with the concomitant use of desvenlafaxine extended-release tablets and NSAIDs, aspirin, or other drugs that affect coagulation or bleeding.
+Inform patients about the risk of bleeding associated with the concomitant use of desvenlafaxine extended-release tablets and antiplatelet agents or anticoagulants.
+For patients taking warfarin, carefully monitor coagulation indices when initiating, titrating, or discontinuing desvenlafaxine extended-release tablets.
 
 ## 5.5 Angle Closure Glaucoma
 
-Angle-Closure Glaucoma: The pupillary dilation that occurs following use of many antidepressant drugs including desvenlafaxine extended-release tablets may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
+The pupillary dilation that occurs following use of many antidepressant drugs including desvenlafaxine extended-release tablets may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
+Avoid use of antidepressants, including desvenlafaxine extended-release tablets, in patients with untreated anatomically narrow angles.
 
 ## 5.6 Activation of Mania/Hypomania
 
@@ -96,15 +97,8 @@ As with all antidepressants, desvenlafaxine extended-release tablets should be u
 
 ## 5.7 Discontinuation Syndrome
 
-Discontinuation symptoms have been systematically and prospectively evaluated in patients treated with desvenlafaxine extended-release tablets during clinical studies in Major Depressive Disorder.
-Abrupt discontinuation or dose reduction has been associated with the appearance of new symptoms that include dizziness, nausea, headache, irritability, insomnia, diarrhea, anxiety, fatigue, abnormal dreams, and hyperhidrosis.
-In general, discontinuation events occurred more frequently with longer duration of therapy.
-During marketing of SNRIs (Serotonin and Norepinephrine Reuptake Inhibitors), and SSRIs (Selective Serotonin Reuptake Inhibitors), there have been spontaneous reports of adverse events occurring upon discontinuation of these drugs, particularly when abrupt, including the following: dysphoric mood, irritability, agitation, dizziness, sensory disturbances (e.g., paresthesia, such as electric shock sensations), anxiety, confusion, headache, lethargy, emotional lability, insomnia, hypomania, tinnitus, and seizures.
-While these events are generally self-limiting, there have been reports of serious discontinuation symptoms.
-Patients should be monitored for these symptoms when discontinuing treatment with desvenlafaxine extended-release tablets.
-A gradual reduction in the dose rather than abrupt cessation is recommended whenever possible.
-If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment, then resuming the previously prescribed dose may be considered.
-Subsequently, the physician may continue decreasing the dose, but at a more gradual rate [see Dosage and Administration (2.4) and Adverse Reactions (6.1)].
+Adverse reactions after discontinuation of serotonergic antidepressants, particularly after abrupt discontinuation, include: nausea, sweating, dysphoric mood, irritability, agitation, dizziness, sensory disturbances (e.g., paresthesia, such as electric shock sensations), tremor, anxiety, confusion, headache, lethargy, emotional lability, insomnia, hypomania, tinnitus, and seizures.
+A gradual reduction in dosage rather than abrupt cessation is recommended whenever possible [see Dosage and Administration (2.5), Adverse Reaction (6.1)].
 
 ## 5.8 Seizure
 
@@ -119,7 +113,7 @@ Hyponatremia may occur as a result of treatment with SSRIs and SNRIs, including 
 In many cases, this hyponatremia appears to be the result of the syndrome of inappropriate antidiuretic hormone secretion (SIADH).
 Cases with serum sodium lower than 110 mmol/L have been reported.
 Elderly patients may be at greater risk of developing hyponatremia with SSRIs and SNRIs.
-Also, patients taking diuretics or who are otherwise volume depleted can be at greater risk [see Use in Specific Populations (8.5) and Clinical Pharmacology (12.6)].
+Also, patients taking diuretics or who are otherwise volume depleted can be at greater risk [see Use in Specific Populations (8.5) and Clinical Pharmacology (12.3)].
 Discontinuation of desvenlafaxine extended-release tablets should be considered in patients with symptomatic hyponatremia and appropriate medical intervention should be instituted.
 
 Signs and symptoms of hyponatremia include headache, difficulty concentrating, memory impairment, confusion, weakness, and unsteadiness, which can lead to falls.
