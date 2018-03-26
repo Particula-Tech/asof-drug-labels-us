@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA021372"
+  ],
+  "inn": "palonosetron",
+  "labeler": "Cipla USA Inc.",
+  "package_ndcs": [
+    "69097-927-35"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "palonosetron hydrochloride",
+      "name": "palonosetron hydrochloride"
+    }
+  ],
+  "setid": "37e7ef89-fd77-44e0-9271-ae91f8822603",
+  "source": "dailymed"
+}
