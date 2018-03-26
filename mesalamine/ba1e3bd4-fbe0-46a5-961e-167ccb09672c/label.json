@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA203817"
+  ],
+  "inn": "mesalamine",
+  "labeler": "Actavis Pharma, Inc.",
+  "package_ndcs": [
+    "0591-2245-10",
+    "0591-2245-22"
+  ],
+  "products": [
+    {
+      "form": "TABLET, DELAYED RELEASE",
+      "generic": "mesalamine",
+      "name": "Mesalamine"
+    }
+  ],
+  "setid": "ba1e3bd4-fbe0-46a5-961e-167ccb09672c",
+  "source": "dailymed"
+}
