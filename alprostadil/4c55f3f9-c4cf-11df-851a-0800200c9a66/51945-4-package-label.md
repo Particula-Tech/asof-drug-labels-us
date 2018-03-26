@@ -114,6 +114,6 @@ Distributed by: MEDA PHARMACEUTICALS® Somerset, New Jersey 08873-4120
 CAT.
 NO. 06-10-10006D
 
-UC-100400-04
+UC-100400-05
 
-Revised 06/2017
+Revised 2/2018
