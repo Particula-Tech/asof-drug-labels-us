@@ -13,68 +13,43 @@ The principal pharmacokinetic/pharmacodynamic parameter best associated with cli
 Cardiac Electrophysiology
 
 QTc interval prolongation was studied in a randomized, placebo-controlled parallel trial in 116 healthy subjects who received either chloroquine (1000 mg) alone or in combination with oral azithromycin (500 mg, 1000 mg, and 1500 mg once daily).
-Co- administration of azithromycin increased the QTc interval in a dose- and concentration- dependent manner.
+Co-administration of azithromycin increased the QTc interval in a dose- and concentration- dependent manner.
 In comparison to chloroquine alone, the maximum mean (95% upper confidence bound) increases in QTcF were 5 (10) ms, 7 (12) ms and 9 (14) ms with the co-administration of 500 mg, 1000 mg and 1500 mg azithromycin, respectively.
 
 ## 12.3 Pharmacokinetics
 
-The pharmacokinetic parameters of azithromycin in plasma after dosing as per labeled recommendations in healthy young adults and asymptomatic HIV-positive adults (age 18–40 years old) are portrayed in the following chart:
+Following oral administration of a single 500 mg dose (two 250 mg tablets) to 36 fasted healthy male volunteers, the mean (SD) pharmacokinetic parameters were AUC0–72=4.3 (1.2) mcg∙hr/mL; Cmax=0.5 (0.2) mcg/mL; Tmax=2.2 (0.9) hours.
+Two azithromycin 250 mg tablets are bioequivalent to a single 500 mg tablet.
 
-MEAN (CV%) PK PARAMETER
+In a two-way crossover study, 12 adult healthy volunteers (6 males, 6 females) received 1500 mg of azithromycin administered in single daily doses over either 5 days (two 250 mg tablets on day 1, followed by one 250 mg tablet on days 2–5) or 3 days (500 mg per day for days 1–3).
+Due to limited serum samples on day 2 (3-day regimen) and days 2–4 (5-day regimen), the serum concentration-time profile of each subject was fit to a 3-compartment model and the AUC0–∞ for the fitted concentration profile was comparable between the 5-day and 3-day regimens.
 
-| DOSE/DOSAGE FORM (serum, except as indicated) | Subjects | Day No. | Cmax (mcg/mL) | Tmax (hr) | C24 (mcg/mL) | AUC (mcg∙hr/mL) | T½ (hr) | Urinary Excretion (% of dose) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 500 mg/250 mg capsule | 12 | 1 | 0.41 | 2.5 | 0.05 | 2.6AUC0–24; | – | 4.5 |
-| and 250 mg on Days 2–5 | 12 | 5 | 0.24 | 3.2 | 0.05 | 2.1 | – | 6.5 |
-| 1200 mg/600 mg tablets | 12 | 1 | 0.66 | 2.5 | 0.074 | 6.80–last. | 40 | – |
-| %CV |  |  | (62%) | (79%) | (49%) | (64%) | (33%) |  |
-| 600 mg tablet/day | 7 | 1 | 0.33 | 2.0 | 0.039 | 2.4 |  |  |
-| %CV |  |  | 25% | (50%) | (36%) | (19%) |  |  |
-|  | 7 | 22 | 0.55 | 2.1 | 0.14 | 5.8 | 84.5 | - |
-| %CV |  |  | (18%) | (52%) | (26%) | (25%) |  | - |
-| 600 mg tablet/day (leukocytes) | 7 | 22 | 252 | 10.9 | 146 | 4763 | 82.8 | - |
-| %CV |  |  | (49%) | (28%) | (33%) | (42%) | - | - |
-
-With a regimen of 500 mg on Day 1 and 250 mg/day on Days 2–5, Cmin and Cmax remained essentially unchanged from Day 2 through Day 5 of therapy.
-However, without a loading dose, azithromycin Cmin levels required 5 to 7 days to reach steady state.
-
-In asymptomatic HIV-positive adult subjects receiving 600 mg ZITHROMAX tablets once daily for 22 days, steady state azithromycin serum levels were achieved by Day 15 of dosing.
-
-The high values in adults for apparent steady-state volume of distribution (31.1 L/kg) and plasma clearance (630 mL/min) suggest that the prolonged half-life is due to extensive uptake and subsequent release of drug from tissues.
+| Pharmacokinetic Parameter [mean (SD)] | Day 1 | Day 3 | Day 1 | Day 5 |
+| --- | --- | --- | --- | --- |
+|  | 3-Day Regimen |  | 5-Day Regimen |  |
+| Cmax (serum, mcg/mL) | 0.44 (0.22) | 0.54 (0.25) | 0.43 (0.20) | 0.24 (0.06) |
+| Serum AUC0–∞ (mcg∙hr/mL) | 17.4 (6.2)Total AUC for the entire 3-day and 5-day regimens. |  | 14.9 (3.1) |  |
+| Serum T1/2 | 71.8 hr |  | 68.9 hr |  |
 
 Absorption
 
-The 1 gram single-dose packet is bioequivalent to four 250 mg azithromycin capsule
+The absolute bioavailability of azithromycin 250 mg capsules is 38%.
 
-When the oral suspension of azithromycin was administered with food, the Cmax increased by 46% and the AUC by 14%.
+In a two-way crossover study in which 12 healthy subjects received a single 500 mg dose of azithromycin (two 250 mg tablets) with or without a high fat meal, food was shown to increase Cmax by 23% but had no effect on AUC.
 
-The absolute bioavailability of two 600 mg tablets was 34% (CV=56%).
-Administration of two 600 mg tablets with food increased Cmax by 31% (CV=43%) while the extent of absorption (AUC) was unchanged (mean ratio of AUCs=1.00; CV=55%).
+When azithromycin oral suspension was administered with food to 28 adult healthy male subjects, Cmax increased by 56% and AUC was unchanged.
 
 Distribution
 
-The serum protein binding of azithromycin is variable in the concentration range approximating human exposure, decreasing from 51% at 0.02 µg/mL to 7% at 2 µg/mL.
+The serum protein binding of azithromycin is variable in the concentration range approximating human exposure, decreasing from 51% at 0.02 mcg/mL to 7% at 2 mcg/mL.
 
-The antibacterial activity of azithromycin is pH related and appears to be reduced with decreasing pH.
-However, the extensive distribution of drug to tissues may be relevant to clinical activity.
+The antibacterial activity of azithromycin is pH related and appears to be reduced with decreasing pH, However, the extensive distribution of drug to tissues may be relevant to clinical activity.
 
-Azithromycin has been shown to penetrate into tissues in humans, including skin, lung, tonsil, and cervix.
+Azithromycin has been shown to penetrate into human tissues, including skin, lung, tonsil, and cervix.
 Extensive tissue distribution was confirmed by examination of additional tissues and fluids (bone, ejaculum, prostate, ovary, uterus, salpinx, stomach, liver, and gallbladder).
-As there are no data from adequate and well-controlled studies of azithromycin treatment of infections in these additional body sites, the clinical importance of these tissue concentration data is unknown.
+As there are no data from adequate and well-controlled studies of azithromycin treatment of infections in these additional body sites, the clinical significance of these tissue concentration data is unknown.
 
-Azithromycin concentrates in phagocytes and fibroblasts as demonstrated by in vitro incubation techniques.
-Using such methodology, the ratio of intracellular to extracellular concentration was >30 after one hr of incubation.
-In vivo studies suggest that concentration in phagocytes may contribute to drug distribution to inflamed tissues.
-
-Following oral administration of a single 1200 mg dose (two 600 mg tablets), the mean maximum concentration in peripheral leukocytes was 140 µg/mL.
-Concentration remained above 32 µg/mL, for approximately 60 hr. The mean half-lives for 6 males and 6 females were 34 hr and 57 hr, respectively.
-Leukocyte-to-plasma Cmax ratios for males and females were 258 (±77%) and 175 (±60%), respectively, and the AUC ratios were 804 (±31%) and 541 (±28%) respectively.
-The clinical relevance of these findings is unknown.
-
-Following oral administration of multiple daily doses of 600 mg (1 tablet/day) to asymptomatic HIV-positive adults, mean maximum concentration in peripheral leukocytes was 252 µg/mL (±49%).
-Trough concentrations in peripheral leukocytes at steady-state averaged 146 µg/mL (±33%).
-The mean leukocyte-to-serum Cmax ratio was 456 (±38%) and the mean leukocyte to serum AUC ratio was 816 (±31%).
-The clinical relevance of these findings is unknown..
+Following a regimen of 500 mg on the first day and 250 mg daily for 4 days, very low concentrations were noted in cerebrospinal fluid (less than 0.01 mcg/mL) in the presence of noninflamed meninges.
 
 Metabolism
 
@@ -82,7 +57,8 @@ In vitro and in vivo studies to assess the metabolism of azithromycin have not b
 
 Elimination
 
-Plasma concentrations of azithromycin following single 500 mg oral and IV doses declined in a polyphasic pattern resulting in an average terminal half-life of 68 hr. Biliary excretion of azithromycin, predominantly as unchanged drug, is a major route of elimination.
+Plasma concentrations of azithromycin following single 500 mg oral and IV doses declined in a polyphasic pattern resulting in a mean apparent plasma clearance of 630 mL/min and terminal elimination half-life of 68 hr. The prolonged terminal half-life is thought to be due to extensive uptake and subsequent release of drug from tissues.
+Biliary excretion of azithromycin, predominantly as unchanged drug, is a major route of elimination.
 Over the course of a week, approximately 6% of the administered dose appears as unchanged drug in urine.
 
 Specific Populations
@@ -90,8 +66,8 @@ Specific Populations
 Renal Insufficiency
 
 Azithromycin pharmacokinetics was investigated in 42 adults (21 to 85 years of age) with varying degrees of renal impairment.
-Following the oral administration of a single 1.0 g dose of azithromycin (4 × 250 mg capsules), the mean Cmax and AUC0–120 increased by 5.1% and 4.2%, respectively, in subjects with GFR 10 to 80 mL/min compared to subjects with normal renal function (GFR >80 mL/min).
-The mean Cmax and AUC0–120 increased 61% and 35%, respectively, in subjects with end-stage renal disease (GFR <10 mL/min) compared to subjects with normal renal function (GFR >80 mL/min).
+Following the oral administration of a single 1.0 g dose of azithromycin (4 × 250 mg capsules), mean Cmax and AUC0–120 increased by 5.1% and 4.2%, respectively, in subjects with mild to moderate renal impairment (GFR 10 to 80 mL/min) compared to subjects with normal renal function (GFR >80 mL/min).
+The mean Cmax and AUC0–120 increased 61% and 35%, respectively, in subjects with severe renal impairment (GFR <10 mL/min) compared to subjects with normal renal function (GFR >80 mL/min).
 
 Hepatic Insufficiency
 
@@ -100,19 +76,34 @@ The pharmacokinetics of azithromycin in subjects with hepatic impairment has not
 Gender
 
 There are no significant differences in the disposition of azithromycin between male and female subjects.
-No dosage adjustment is recommended on the basis of gender.
+No dosage adjustment is recommended based on gender.
 
 Geriatric Patients
 
-Pharmacokinetic parameters in older volunteers (65 to 85 years old) were similar to those in younger volunteers (18 to 40 years old) for the 5-day therapeutic regimen.
+Pharmacokinetic parameters in older volunteers (65 to 85 years old) were similar to those in young adults (18 to 40 years old) for the 5-day therapeutic regimen.
 Dosage adjustment does not appear to be necessary for older patients with normal renal and hepatic function receiving treatment with this dosage regimen.
 [see Geriatric Use (8.5)]
 
 Pediatric Patients
 
-For information regarding the pharmacokinetics of ZITHROMAX (azithromycin for oral suspension) in pediatric patients, see the prescribing information for ZITHROMAX (azithromycin for oral suspension) 100 mg/5 mL and 200 mg/5 mL bottles.
+In two clinical studies, azithromycin for oral suspension was dosed at 10 mg/kg on day 1, followed by 5 mg/kg on days 2 through 5 in two groups of pediatric patients (aged 1–5 years and 5–15 years, respectively).
+The mean pharmacokinetic parameters on day 5 were Cmax=0.216 mcg/mL, Tmax=1.9 hr, and AUC0–24=1.822 mcg∙hr/mL for the 1 to 5-year-old group and were Cmax=0.383 mcg/mL, Tmax=2.4 hr, and AUC0–24=3.109 mcg∙hr/mL for the 5 to 15-year-old group.
 
-Drug-drug Interactions
+In another study, 33 pediatric patients received doses of 12 mg/kg/day (maximum daily dose 500 mg) for 5 days, of whom 31 patients were evaluated for azithromycin pharmacokinetics following a low fat breakfast.
+In this study, azithromycin concentrations were determined over a 24 hr period following the last daily dose.
+Patients weighing above 41.7 kg received the maximum adult daily dose of 500 mg.
+Seventeen patients (weighing 41.7 kg or less) received a total dose of 60 mg/kg.
+The following table shows pharmacokinetic data in the subset of pediatric patients who received a total dose of 60 mg/kg.
+
+| Pharmacokinetic Parameter [mean (SD)] | 5-Day Regimen (12 mg/kg for 5 days) |
+| --- | --- |
+| N | 17 |
+| Cmax (mcg/mL) | 0.5 (0.4) |
+| Tmax (hr) | 2.2 (0.8) |
+| AUC0–24(mcg∙hr/mL) | 3.9 (1.9) |
+
+Single dose pharmacokinetics of azithromycin in pediatric patients given doses of 30 mg/kg have not been studied.
+[see Dosage and Administration (2)]
 
 Drug interaction studies were performed with azithromycin and other drugs likely to be co-administered.
 The effects of co-administration of azithromycin on the pharmacokinetics of other drugs are shown in Table 1 and the effects of other drugs on the pharmacokinetics of azithromycin are shown in Table 2.
@@ -134,23 +125,23 @@ Drug Interactions: Pharmacokinetic Parameters for Co-administered Drugs in the P
 | Atorvastatin | 10 mg/day for 8 days | 500 mg/day orally on days 6–8 | 12 | 0.83 (0.63 to 1.08) | 1.01 (0.81 to 1.25) |
 | Carbamazepine | 200 mg/day for 2 days, then 200 mg twice a day for 18 days | 500 mg/day orally for days 16–18 | 7 | 0.97 (0.88 to 1.06) | 0.96 (0.88 to 1.06) |
 | Cetirizine | 20 mg/day for 11 days | 500 mg orally on day 7, then 250 mg/day on days 8–11 | 14 | 1.03 (0.93 to 1.14) | 1.02 (0.92 to 1.13) |
-| Didanosine | 200 mg orally twice a day for 21 days | 1,200 mg/day orally on days 8–21 | 6 | 1.44 (0.85 to 2.43) | 1.14 (0.83 to 1.57) |
+| Didanosine | 200 mg orally twice a day for 21 days | 1200 mg/day orally on days 8–21 | 6 | 1.44 (0.85 to 2.43) | 1.14 (0.83 to 1.57) |
 | Efavirenz | 400 mg/day for 7 days | 600 mg orally on day 7 | 14 | 1.04- 90% Confidence interval not reported | 0.95 |
-| Fluconazole | 200 mg orally single dose | 1,200 mg orally single dose | 18 | 1.04 (0.98 to 1.11) | 1.01 (0.97 to 1.05) |
-| Indinavir | 800 mg three times a day for 5 days | 1,200 mg orally on day 5 | 18 | 0.96 (0.86 to 1.08) | 0.90 (0.81 to 1.00) |
+| Fluconazole | 200 mg orally single dose | 1200 mg orally single dose | 18 | 1.04 (0.98 to 1.11) | 1.01 (0.97 to 1.05) |
+| Indinavir | 800 mg three times a day for 5 days | 1200 mg orally on day 5 | 18 | 0.96 (0.86 to 1.08) | 0.90 (0.81 to 1.00) |
 | Midazolam | 15 mg orally on day 3 | 500 mg/day orally for 3 days | 12 | 1.27 (0.89 to 1.81) | 1.26 (1.01 to 1.56) |
 | Nelfinavir | 750 mg three times a day for 11 days | 1,200 mg orally on day 9 | 14 | 0.90 (0.81 to 1.01) | 0.85 (0.78 to 0.93) |
 | Sildenafil | 100 mg on days 1 and 4 | 500 mg/day orally for 3 days | 12 | 1.16 (0.86 to 1.57) | 0.92 (0.75 to 1.12) |
 | Theophylline | 4 mg/kg IV on days 1, 11, 25 | 500 mg orally on day 7, 250 mg/day on days 8–11 | 10 | 1.19 (1.02 to 1.40) | 1.02 (0.86 to 1.22) |
-| Theophylline | 300 mg orally BID ×15 days | 500 mg orally on day 6, then 250 mg/day on days 7–10 | 8 | 1.09 (0.92 to 1.29) | 1.08 (0.89 to 1.31) |
+| Theophylline | 300 mg orally twice a day for 15 days | 500 mg orally on day 6, then 250 mg/day on days 7–10 | 8 | 1.09 (0.92 to 1.29) | 1.08 (0.89 to 1.31) |
 | Triazolam | 0.125 mg on day 2 | 500 mg orally on day 1, then 250 mg/day on day 2 | 12 | 1.06 | 1.02 |
-| Trimethoprim/ Sulfamethoxazole | 160 mg/800 mg/day orally for 7 days | 1,200 mg orally on day 7 | 12 | 0.85 (0.75 to 0.97)/ 0.90 (0.78 to 1.03) | 0.87 (0.80 to 0.95/ 0.96 (0.88 to 1.03) |
-| Zidovudine | 500 mg/day orally for 21 days | 600 mg/day orally for 14 days | 5 | 1.12 (0.42 to 3.02) | 0.94 (0.52 to 1.70) |
-| Zidovudine | 500 mg/day orally for 21 days | 1,200 mg/day orally for 14 days | 4 | 1.31 (0.43 to 3.97) | 1.30 (0.69 to 2.43) |
+| Trimethoprim/ Sulfamethoxazole | 160 mg/800 mg/day orally for 7 days | 1200 mg orally on day 7 | 12 | 0.85 (0.75 to 0.97)/0.90 (0.78 to 1.03) | 0.87 (0.80 to 0.95/0.96 (0.88 to 1.03) |
+| Zidovudine | 500 mg/day orally for 21 days | 600 mg/day orally for14 days | 5 | 1.12 (0.42 to 3.02) | 0.94 (0.52 to 1.70) |
+| Zidovudine | 500 mg/day orally for 21 days | 1200 mg/day orally for 14 days | 4 | 1.31 (0.43 to 3.97) | 1.30 (0.69 to 2.43) |
 
 Table 2.
 Drug Interactions: Pharmacokinetic Parameters for Azithromycin in the Presence of Co-administered Drugs.
-[see Drug Interactions (7.3)]
+[see Drug Interactions (7)]
 
 | Mean Cmax | Mean AUC |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -167,31 +158,106 @@ Azithromycin acts by binding to the 23S rRNA of the 50S ribosomal subunit of sus
 
 Resistance
 
+Azithromycin demonstrates cross resistance with erythromycin.
 The most frequently encountered mechanism of resistance to azithromycin is modification of the 23S rRNA target, most often by methylation.
 Ribosomal modifications can determine cross resistance to other macrolides, lincosamides, and streptogramin B (MLSB phenotype).
-The mechanism of acquired mutational resistance in isolates of Mycobacterium avium complex (i.e., 23S rRNA genemutation) is the same for both clarithromycin and azithromycin.
 
 Antimicrobial Activity
 
-Azithromycin has been shown to be active against the following microorganisms, both in vitro and in clinical infections.
+Azithromycin has been shown to be active against most isolates of the following microorganisms, both in vitro and in clinical infections.
 [see Indications and Usage (1)]
 
-Mycobacteria
+Gram-Positive Bacteria
 
-- Mycobacterium avium complex (MAC) consisting of:
-  - Mycobacterium avium
-  - Mycobacterium intracellulare
+- Staphylococcus aureus
+- Streptococcus agalactiae
+- Streptococcus pneumoniae
+- Streptococcus pyogenes
 
-Other Microorganisms
+Gram-Negative Bacteria
 
+- Haemophilus ducreyi
+- Haemophilus influenzae
+- Moraxella catarrhalis
+- Neisseria gonorrhoeae
+
+Other Bacteria
+
+- Chlamydophila pneumoniae
 - Chlamydia trachomatis
+- Mycoplasma pneumoniae
 
-Susceptibility Test Methods
+The following in vitro data are available, but their clinical significance is unknown.
+At least 90 percent of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for azithromycin against isolates of similar genus or organism group.
+However, the efficacy of azithromycin in treating clinical infections caused by these bacteria has not been established in adequate and well-controlled clinical trials.
 
-When available, the clinical microbiology laboratory should provide cumulative reports of in vitro susceptibility test results for antimicrobial drugs used in local hospitals and practice areas to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
+Gram-Positive Bacteria
+
+- Beta-hemolytic streptococci (Groups C, F, G)
+- Viridans group streptococci
+
+Gram-Negative Bacteria
+
+- Bordetella pertussis
+- Legionella pneumophila
+
+Anaerobic Bacteria
+
+- Prevotella bivia
+- Peptostreptococcus species
+
+Other Bacteria
+
+- Ureaplasma urealyticum
+
+Susceptibility Testing Methods
+
+When available, the clinical microbiology laboratory should provide cumulative reports of in vitro susceptibility test results for antibacterial drugs used in local hospitals and practice areas to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
 These reports should aid the physician in selecting an antibacterial drug for treatment.
 
-Mycobacteria
+Dilution Techniques
 
-Susceptibility testing of azithromycin is not recommended because of the technical difficulties associated with testing azithromycin (i.e., poor solubility at the high concentration of drug that must be tested).
-Clarithromycin is the most appropriate class drug for testing the macrolides 1.
+Quantitative methods are used to determine antimicrobial MICs.
+These MICs provide estimates of the susceptibility of bacteria to antibacterial compounds.
+The MICs should be determined using a standardized test method 1,2,3,4 (broth and/or agar).
+The MIC values should be interpreted according to criteria provided in Table 3.
+
+Diffusion Techniques
+
+Quantitative methods that require measurement of zone diameters can also provide reproducible estimates of the susceptibility of bacteria to antibacterial compounds.
+The zone size should be determined using a standardized method 2,3,4.
+This procedure uses paper disk impregnated with 15 mcg azithromycin to test the susceptibility of bacteria to azithromycin.
+The disk diffusion breakpoints are provided in Table 3.
+
+Table 3.
+Susceptibility Test Interpretive Criteria for Azithromycin
+
+| S | I | R | S | I | R |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Pathogen | Minimum Inhibitory Concentrations (mcg/mL) |  |  | Disk Diffusion (zone diameter in mm) |  |  |
+| Haemophilus influenzaeInsufficient information is available to determine Intermediate or Resistant interpretive criteria | ≤4 | - | - | ≥12 |  |  |
+| Staphylococcus aureus | ≤2 | 4 | ≥8 | ≥18 | 14–17 | ≤13 |
+| Streptococci including S. pneumoniae | ≤0.5 | 1 | ≥2 | ≥18 | 14–17 | ≤13 |
+| Moraxella catarrhalis | ≤0.25 | - | - | ≥26 | - | - |
+
+A report of Susceptible (S) indicates that the antimicrobial drug is likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentration usually achievable at the site of infection.
+A report of Intermediate (I) indicates that the result should be considered equivocal and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
+This category implies possible clinical applicability in body sites where the drug is physiologically concentrated or in situations where a high dosage of the drug can be used.
+This category also provides a buffer zone that prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
+A report of Resistant (R) indicates that the antimicrobial drug is not likely to inhibit growth of the pathogen if the antimicrobial drug reaches the concentrations usually achievable at the infection site; other therapy should be selected.
+
+Quality Control
+
+Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test 1,2,3,4.
+Standard azithromycin powder should provide the following range of MIC values provided in Table 4.
+For the diffusion technique using the 15 mcg azithromycin disk the criteria provided in Table 4 should be achieved.
+
+Table 4: Acceptable Quality Control Ranges for Susceptibility Testing
+
+| Quality Control Organism | Minimum Inhibitory Concentrations (mcg/mL) | Disk Diffusion (zone diameters in mm) |
+| --- | --- | --- |
+| Staphylococcus aureus ATCCATCC = American Type Culture Collection 25923 | Not Applicable | 21–26 |
+| Staphylococcus aureus ATCC 29213 | 0.5–2 | Not Applicable |
+| Haemophilus Influenzae ATCC 49247 | 1–4 | 13–21 |
+| Streptococcus pneumoniae ATCC 49619 | 0.06–0.25 | 19–25 |
+| Neisseria gonorrhoeae ATCC 49226 | 0.25–1 | Not Applicable |

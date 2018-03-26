@@ -20,7 +20,9 @@ FOR ORAL ADMINISTRATION
 
 1 g*
 
-Pfizer Pfizer Labs Division of Pfizer Inc, NY, NY 10017
+Pfizer
+
+Distributed by Pfizer Labs Division of Pfizer Inc, NY, NY 10017
 
 # PRINCIPAL DISPLAY PANEL - 1 g Single Dose Packet Box
 
@@ -32,7 +34,11 @@ Zithromax® (azithromycin for oral suspension) one gram* single dose packet
 
 For Oral Administration
 
-Pfizer Pfizer Labs Division of Pfizer Inc, NY, NY 10017
+Pfizer
+
+Distributed by Pfizer Labs Division of Pfizer Inc, NY, NY 10017
+
+Rx only
 
 # PRINCIPAL DISPLAY PANEL - 1 g Single Dose Regimen Box
 

@@ -1,189 +1,148 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Clinical Studies in Patients with Advanced HIV Infection for the Prevention and Treatment of Disease Due to Disseminated Mycobacterium avium Complex (MAC)
+## 14.1 Adult Patients
 
-[see Indications and Usage (1)]
+Acute Bacterial Exacerbations of Chronic Bronchitis
 
-Prevention of Disseminated MAC Disease
+In a randomized, double-blind controlled clinical trial of acute exacerbation of chronic bronchitis (AECB), azithromycin (500 mg once daily for 3 days) was compared with clarithromycin (500 mg twice daily for 10 days).
+The primary endpoint of this trial was the clinical cure rate at Days 21– 24.
+For the 304 patients analyzed in the modified intent-to-treat analysis at the Days 21–24 visit, the clinical cure rate for 3 days of azithromycin was 85% (125/147) compared to 82% (129/157) for 10 days of clarithromycin.
 
-Two randomized, double-blind clinical trials were performed in patients with CD4 counts <100 cells/µL.
-The first trial (Study 155) compared azithromycin (1200 mg once weekly) to placebo and enrolled 182 patients with a mean CD4 count of 35 cells/mcgL.
-The second trial (Study 174) randomized 723 patients to either azithromycin (1200 mg once weekly), rifabutin (300 mg daily), or the combination of both.
-The mean CD4 count was 51 cells/mcgL.
-The primary endpoint in these trials was disseminated MAC disease.
-Other endpoints included the incidence of clinically significant MAC disease and discontinuations from therapy for drug-related side effects.
+The following outcomes were the clinical cure rates at the Days 21–24 visit for the bacteriologically evaluable patients by pathogen:
 
-MAC bacteremia
-
-In Study 155, 85 patients randomized to receive azithromycin and 89 patients randomized to receive placebo met the entrance criteria.
-Cumulative incidences at 6, 12, and 18 months of the possible outcomes are in the following table:
-
-| Cumulative Incidence Rate, %: Placebo (n=89) |  |  |  |  |
-| --- | --- | --- | --- | --- |
-| Month | MAC Free and Alive | MAC | Adverse Experience | Lost to Follow-up |
-| 6 | 69.7 | 13.5 | 6.7 | 10.1 |
-| 12 | 47.2 | 19.1 | 15.7 | 18.0 |
-| 18 | 37.1 | 22.5 | 18.0 | 22.5 |
-| Cumulative Incidence Rate, %: Azithromycin (n=85) |  |  |  |  |
-| Month | MAC Free and Alive | MAC | Adverse Experience | Lost to Follow-up |
-| 6 | 84.7 | 3.5 | 9.4 | 2.4 |
-| 12 | 63.5 | 8.2 | 16.5 | 11.8 |
-| 18 | 44.7 | 11.8 | 25.9 | 17.6 |
-
-The difference in the one-year cumulative incidence rates of disseminated MAC disease (placebo – azithromycin) is 10.9%.
-This difference is statistically significant (p=0.037) with a 95% confidence interval for this difference of 0.8%, 20.9%.
-The comparable number of patients experiencing adverse events and the fewer number of patients lost to follow-up on azithromycin should be taken into account when interpreting the significance of this difference.
-
-In Study 174, 223 patients randomized to receive rifabutin, 223 patients randomized to receive azithromycin, and 218 patients randomized to receive both rifabutin and azithromycin met the entrance criteria.
-Cumulative incidences at 6, 12, and 18 months of the possible outcomes are recorded in the following table:
-
-| Cumulative Incidence Rate, %: Rifabutin (n=223) |  |  |  |  |
-| --- | --- | --- | --- | --- |
-| Month | MAC Free and Alive | MAC | Adverse Experience | Lost to Follow-up |
-| 6 | 83.4 | 7.2 | 8.1 | 1.3 |
-| 12 | 60.1 | 15.2 | 16.1 | 8.5 |
-| 18 | 40.8 | 21.5 | 24.2 | 13.5 |
-| Cumulative Incidence Rate, %: Azithromycin (n=223) |  |  |  |  |
-| Month | MAC Free and Alive | MAC | Adverse Experience | Lost to Follow-up |
-| 6 | 85.2 | 3.6 | 5.8 | 5.4 |
-| 12 | 65.5 | 7.6 | 16.1 | 10.8 |
-| 18 | 45.3 | 12.1 | 23.8 | 18.8 |
-| Cumulative Incidence Rate, %: Azithromycin/Rifabutin Combination (n=218) |  |  |  |  |
-| Month | MAC Free and Alive | MAC | Adverse Experience | Lost to Follow-up |
-| 6 | 89.4 | 1.8 | 5.5 | 3.2 |
-| 12 | 71.6 | 2.8 | 15.1 | 10.6 |
-| 18 | 49.1 | 6.4 | 29.4 | 15.1 |
-
-Comparing the cumulative one-year incidence rates, azithromycin monotherapy is at least as effective as rifabutin monotherapy.
-The difference (rifabutin – azithromycin) in the one-year rates (7.6%) is statistically significant (p=0.022) with an adjusted 95% confidence interval (0.9%, 14.3%).
-Additionally, azithromycin/rifabutin combination therapy is more effective than rifabutin alone.
-The difference (rifabutin – azithromycin/rifabutin) in the cumulative one-year incidence rates (12.5%) is statistically significant (p<0.001) with an adjusted 95% confidence interval of 6.6%, 18.4%.
-The comparable number of patients experiencing adverse events and the fewer number of patients lost to follow-up on rifabutin should be taken into account when interpreting the significance of this difference.
-
-In Study 174, sensitivity testing2 was performed on all available MAC isolates from subjects randomized to either azithromycin, rifabutin, or the combination.
-The distribution of MIC values for azithromycin from susceptibility testing of the breakthrough isolates was similar between trial arms.
-As the efficacy of azithromycin in the treatment of disseminated MAC has not been established, the clinical relevance of these in vitro MICs as an indicator of susceptibility or resistance is not known.
-
-Clinically Significant Disseminated MAC Disease
-
-In association with the decreased incidence of bacteremia, patients in the groups randomized to either azithromycin alone or azithromycin in combination with rifabutin showed reductions in the signs and symptoms of disseminated MAC disease, including fever or night sweats, weight loss, and anemia.
-
-Discontinuations from Therapy for Drug-Related Side Effects
-
-In Study 155, discontinuations for drug-related toxicity occurred in 8.2% of subjects treated with azithromycin and 2.3% of those given placebo (p=0.121).
-In Study 174, more subjects discontinued from the combination of azithromycin and rifabutin (22.7%) than from azithromycin alone (13.5%; p=0.026) or rifabutin alone (15.9%; p=0.209).
-
-Safety
-
-As these patients with advanced HIV disease were taking multiple concomitant medications and experienced a variety of intercurrent illnesses, it was often difficult to attribute adverse reactions to study medication.
-Overall, the nature of adverse reactions seen on the weekly dosage regimen of azithromycin over a period of approximately one year in patients with advanced HIV disease were similar to that previously reported for shorter course therapies.
-
-INCIDENCE OF ONE OR MORE TREATMENT-RELATEDIncludes those reactions considered possibly or probably related to study drug ADVERSE REACTIONS>2% adverse reaction rates for any group (except uveitis) IN HIV INFECTED PATIENTS RECEIVING PROPHYLAXIS FOR DISSEMINATED MAC OVER APPROXIMATELY 1 YEAR
-
-|  | (N=91) | (N=89) | (N=233) | (N=236) | (N=224) |
-| --- | --- | --- | --- | --- | --- |
-|  | Study 155 |  | Study 174 |  |  |
-|  | Placebo | Azithromycin 1200 mg weekly | Azithromycin 1200 mg weekly | Rifabutin 300 mg daily | Azithromycin + Rifabutin |
-| Mean Duration of Therapy (days) | 303.8 | 402.9 | 315 | 296.1 | 344.4 |
-| Discontinuation of Therapy | 2.3 | 8.2 | 13.5 | 15.9 | 22.7 |
-| Autonomic Nervous System |  |  |  |  |  |
-| Mouth Dry | 0 | 0 | 0 | 3.0 | 2.7 |
-| Central Nervous System |  |  |  |  |  |
-| Dizziness | 0 | 1.1 | 3.9 | 1.7 | 0.4 |
-| Headache | 0 | 0 | 3.0 | 5.5 | 4.5 |
-| Gastrointestinal |  |  |  |  |  |
-| Diarrhea | 15.4 | 52.8 | 50.2 | 19.1 | 50.9 |
-| Loose Stools | 6.6 | 19.1 | 12.9 | 3.0 | 9.4 |
-| Abdominal Pain | 6.6 | 27 | 32.2 | 12.3 | 31.7 |
-| Dyspepsia | 1.1 | 9 | 4.7 | 1.7 | 1.8 |
-| Flatulence | 4.4 | 9 | 10.7 | 5.1 | 5.8 |
-| Nausea | 11 | 32.6 | 27.0 | 16.5 | 28.1 |
-| Vomiting | 1.1 | 6.7 | 9.0 | 3.8 | 5.8 |
-| General |  |  |  |  |  |
-| Fever | 1.1 | 0 | 2.1 | 4.2 | 4.9 |
-| Fatigue | 0 | 2.2 | 3.9 | 2.1 | 3.1 |
-| Malaise | 0 | 1.1 | 0.4 | 0 | 2.2 |
-| Musculoskeletal |  |  |  |  |  |
-| Arthralgia | 0 | 0 | 3.0 | 4.2 | 7.1 |
-| Psychiatric |  |  |  |  |  |
-| Anorexia | 1.1 | 0 | 2.1 | 2.1 | 3.1 |
-| Skin & Appendages |  |  |  |  |  |
-| Pruritus | 3.3 | 0 | 3.9 | 3.4 | 7.6 |
-| Rash | 3.2 | 3.4 | 8.1 | 9.4 | 11.1 |
-| Skin discoloration | 0 | 0 | 0 | 2.1 | 2.2 |
-| Special Senses |  |  |  |  |  |
-| Tinnitus | 4.4 | 3.4 | 0.9 | 1.3 | 0.9 |
-| Hearing Decreased | 2.2 | 1.1 | 0.9 | 0.4 | 0 |
-| Uveitis | 0 | 0 | 0.4 | 1.3 | 1.8 |
-| Taste Perversion | 0 | 0 | 1.3 | 2.5 | 1.3 |
-
-Adverse reactions related to the gastrointestinal tract were seen more frequently in patients receiving azithromycin than in those receiving placebo or rifabutin.
-In Study 174, 86% of diarrheal episodes were mild to moderate in nature with discontinuation of therapy for this reason occurring in only 9/233 (3.8%) of patients.
-
-Changes in Laboratory Values
-
-In these immunocompromised patients with advanced HIV infection, it was necessary to assess laboratory abnormalities developing on trial with additional criteria if baseline values were outside the relevant normal range.
-
-PROPHYLAXIS AGAINST DISSEMINATED MAC ABNORMAL LABORATORY VALUESexcludes subjects outside of the relevant normal range at baseline
-
-|  |  | Placebo |  | Azithromycin 1200 mg weekly |  | Rifabutin 300 mg daily |  | Azithromycin & Rifabutin |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Hemoglobin | <8 g/dL | 1/51 | 2% | 4/170 | 2% | 4/114 | 4% | 8/107 | 8% |
-| Platelet Count | <50 × 103/mm3 | 1/71 | 1% | 4/260 | 2% | 2/182 | 1% | 6/181 | 3% |
-| WBC Count | <1 × 103/mm3 | 0/8 | 0% | 2/70 | 3% | 2/47 | 4% | 0/43 | 0% |
-| Neutrophils | <500/mm3 | 0/26 | 0% | 4/106 | 4% | 3/82 | 4% | 2/78 | 3% |
-| SGOT | >5 × ULNUpper Limit of Normal | 1/41 | 2% | 8/158 | 5% | 3/121 | 3% | 6/114 | 5% |
-| SGPT | >5 × ULN | 0/49 | 0% | 8/166 | 5% | 3/130 | 2% | 5/117 | 4% |
-| Alk Phos | >5 × ULN | 1/80 | 1% | 4/247 | 2% | 2/172 | 1% | 3/164 | 2% |
-
-Treatment of Disseminated MAC Disease
-
-One randomized, double-blind clinical trial (Study 189) was performed in patients with disseminated MAC.
-In this trial, 246 HIV-infected patients with disseminated MAC received either azithromycin 250 mg daily (N=65), azithromycin 600 mg daily (N=91), or clarithromycin 500 mg twice a day (N=90), each administered with ethambutol 15 mg/kg daily, for 24 weeks.
-Blood cultures and clinical assessments were performed every 3 weeks through week 12 and monthly thereafter through week 24.
-After week 24, patients were switched to any open-label therapy at the discretion of the investigator and followed every 3 months through the last follow-up visit of the trial.
-Patients were followed from the baseline visit for a period of up to 3.7 years (median: 9 months).
-MAC isolates recovered during treatment or post-treatment were obtained whenever possible.
-
-The primary endpoint was sterilization by week 24.
-Sterilization was based on data from the central laboratory, and was defined as two consecutive observed negative blood cultures for MAC, independent of missing culture data between the two negative observations.
-Analyses were performed on all randomized patients who had a positive baseline culture for MAC.
-
-The azithromycin 250 mg arm was discontinued after an interim analysis at 12 weeks showed a significantly lower clearance of bacteremia compared to clarithromycin 500 mg twice a day.
-Efficacy results for the azithromycin 600 mg daily and clarithromycin 500 mg twice a day treatment regimens are described in the following table:
-
-RESPONSE TO THERAPY OF PATIENTS TAKING ETHAMBUTOL AND EITHER AZITHROMYCIN 600 MG DAILY OR CLARITHROMYCIN 500 MG TWICE A DAY
-
-|  | Azithromycin 600 mg daily | Clarithromycin 500 mg twice a day | [95% confidence interval] on difference in rates (azithromycin-clarithromycin)95.1% CI on difference |
-| --- | --- | --- | --- |
-| Patients with positive culture at baseline | 68 | 57 |  |
-| Week 24 |  |  |  |
-| Two consecutive negative blood culturesPrimary endpoint | 31/68 (46%) | 32/57 (56%) | [-28, 7] |
-| Mortality | 16/68 (24%) | 15/57 (26%) | [-18, 13] |
-
-The primary endpoint, rate of sterilization of blood cultures (two consecutive negative cultures) at 24 weeks, was lower in the azithromycin 600 mg daily group than in the clarithromycin 500 mg twice a day group.
-
-Sterilization by Baseline Colony Count
-
-Within both treatment groups, the sterilization rates at week 24 decreased as the range of MAC cfu/mL increased.
-
-| groups stratified by MAC colony counts at baseline | no. (%) subjects in stratified group sterile at week 24 | no. (%) subjects in stratified group sterile at week 24 |
+| Pathogen | Azithromycin (3 Days) | Clarithromycin (10 Days) |
 | --- | --- | --- |
-|  | Azithromycin 600 mg (N=68) | Clarithromycin 500 mg twice a day (N=57) |
-| ≤10 cfu/mL | 10/15 (66.7%) | 12/17 (70.6%) |
-| 11–100 cfu/mL | 13/28 (46.4%) | 13/19 (68.4%) |
-| 101–1,000 cfu/mL | 7/19 (36.8%) | 5/13 (38.5%) |
-| 1,001–10,000 cfu/mL | 1/5 (20.0%) | 1/5 (20%) |
-| >10,000 cfu/mL | 0/1 (0.0%) | 1/3 (33.3%) |
+| S. pneumoniae | 29/32 (91%) | 21/27 (78%) |
+| H. influenzae | 12/14 (86%) | 14/16 (88%) |
+| M. catarrhalis | 11/12 (92%) | 12/15 (80%) |
 
-Susceptibility Pattern of MAC Isolates
+Acute Bacterial Sinusitis
 
-Susceptibility testing was performed on MAC isolates recovered at baseline, at the time of breakthrough on therapy or during post-therapy follow-up.
-The T100 radiometric broth method was employed to determine azithromycin and clarithromycin MIC values.
-Azithromycin MIC values ranged from <4 to >256 µg/mL and clarithromycin MICs ranged from <1 to >32 µg/mL.
-The individual MAC susceptibility results demonstrated that azithromycin MIC values could be 4 to 32-fold higher than clarithromycin MIC values.
+In a randomized, double-blind, double-dummy controlled clinical trial of acute bacterial sinusitis, azithromycin (500 mg once daily for 3 days) was compared with amoxicillin/clavulanate (500/125 mg three times a day for 10 days).
+Clinical response assessments were made at Day 10 and Day 28.
+The primary endpoint of this trial was prospectively defined as the clinical cure rate at Day 28.
+For the 594 patients analyzed in the modified intent to treat analysis at the Day 10 visit, the clinical cure rate for 3 days of azithromycin was 88% (268/303) compared to 85% (248/291) for 10 days of amoxicillin/clavulanate.
+For the 586 patients analyzed in the modified intent to treat analysis at the Day 28 visit, the clinical cure rate for 3 days of azithromycin was 71.5% (213/298) compared to 71.5% (206/288), with a 97.5% confidence interval of –8.4 to 8.3, for 10 days of amoxicillin/clavulanate.
 
-During treatment and post-treatment follow-up for up to 3.7 years (median: 9 months) in Study 189, a total of 6/68 (9%) and 6/57 (11%) of the patients randomized to azithromycin 600 mg daily and clarithromycin 500 mg twice a day respectively, developed MAC blood culture isolates that had a sharp increase in MIC values.
-All twelve MAC isolates had azithromycin MICs ≥256 µg/mL and clarithromycin MICs >32 µg/mL.
-These high MIC values suggest development of drug resistance.
-However, at this time, specific breakpoints for separating susceptible and resistant MAC isolates have not been established for either macrolide.
+In an open label, non-comparative study requiring baseline transantral sinus punctures, the following outcomes were the clinical success rates at the Day 7 and Day 28 visits for the modified intent to treat patients administered 500 mg of azithromycin once daily for 3 days with the following pathogens:
+
+Clinical Success Rates of Azithromycin (500 mg per day for 3 Days)
+
+| Pathogen | Day 7 | Day28 |
+| --- | --- | --- |
+| S. pneumoniae | 23/26 (88%) | 21/25 (84%) |
+| H. influenzae | 28/32 (87%) | 24/32 (75%) |
+| M. catarrhalis | 14/15 (93%) | 13/15 (87%) |
+
+## 14.2 Pediatric Patients
+
+From the perspective of evaluating pediatric clinical trials, Days 11–14 were considered on-therapy evaluations because of the extended half-life of azithromycin.
+Days 11–14 data are provided for clinical guidance.
+Days 24–32 evaluations were considered the primary test of cure endpoint.
+
+Pharyngitis/Tonsillitis
+
+In three double-blind controlled studies, conducted in the United States, azithromycin (12 mg/kg once a day for 5 days) was compared to penicillin V (250 mg three times a day for 10 days) in the treatment of pharyngitis due to documented Group A β-hemolytic streptococci (GABHS or S. pyogenes).
+Azithromycin was clinically and microbiologically statistically superior to penicillin at Day 14 and Day 30 with the following clinical success (i.e., cure and improvement) and bacteriologic efficacy rates (for the combined evaluable patient with documented GABHS):
+
+Three U.S. Streptococcal Pharyngitis Studies Azithromycin vs. Penicillin V EFFICACY RESULTS
+
+|  | Day 14 | Day 30 |
+| --- | --- | --- |
+| Bacteriologic Eradication: |  |  |
+| Azithromycin | 323/340 (95%) | 255/330 (77%) |
+| Penicillin V | 242/332 (73%) | 206/325 (63%) |
+| Clinical Success (cure plus improvement): |  |  |
+| Azithromycin | 336/343 (98%) | 310/330 (94%) |
+| Penicillin V | 284/338 (84%) | 241/325 (74%) |
+
+Approximately 1% of azithromycin-susceptible S. pyogenes isolates were resistant to azithromycin following therapy.
+
+Acute Otitis Media
+
+Efficacy using azithromycin given over 5 days (10 mg/kg on Day 1 followed by 5 mg/kg on Days 2–5).
+
+Trial 1
+
+In a double-blind, controlled clinical study of acute otitis media performed in the United States, azithromycin (10 mg/kg on Day 1 followed by 5 mg/kg on Days 2–5) was compared to amoxicillin/clavulanate potassium (4:1).
+For the 553 patients who were evaluated for clinical efficacy, the clinical success rate (i.e., cure plus improvement) at the Day 11 visit was 88% for azithromycin and 88% for the control agent.
+For the 521 patients who were evaluated at the Day 30 visit, the clinical success rate was 73% for azithromycin and 71% for the control agent.
+
+Trial 2
+
+In a non-comparative clinical and microbiologic trial performed in the United States, where significant rates of beta-lactamase producing organisms (35%) were found, 131 patients were evaluable for clinical efficacy.
+The combined clinical success rate (i.e., cure and improvement) at the Day 11 visit was 84% for azithromycin.
+For the 122 patients who were evaluated at the Day 30 visit, the clinical success rate was 70% for azithromycin.
+
+Microbiologic determinations were made at the pre-treatment visit.
+Microbiology was not reassessed at later visits.
+The following clinical success rates were obtained from the evaluable group:
+
+|  | Azithromycin | Azithromycin |
+| --- | --- | --- |
+| Pathogen |  |  |
+|  | Day 11 | Day 30 |
+| S. pneumoniae | 61/74 (82%) | 40/56 (71%) |
+| H. influenzae | 43/54 (80%) | 30/47 (64%) |
+| M. catarrhalis | 28/35 (80%) | 19/26 (73%) |
+| S. pyogenes | 11/11 (100%) | 7/7 (100%) |
+| Overall | 177/217 (82%) | 97/137 (73%) |
+
+Trial 3
+
+In another controlled comparative clinical and microbiologic study of otitis media performed in the United States, azithromycin (10 mg/kg on Day 1 followed by 5 mg/kg on Days 2–5).was compared to amoxicillin/clavulanate potassium (4:1).
+This study utilized two of the same investigators as Protocol 2 (above), and these two investigators enrolled 90% of the patients in Protocol 3.
+For this reason, Protocol 3 was not considered to be an independent study.
+Significant rates of beta-lactamase producing organisms (20%) were found.
+Ninety-two (92) patients were evaluable for clinical and microbiologic efficacy.
+The combined clinical success rate (i.e., cure and improvement) of those patients with a baseline pathogen at the Day 11 visit was 88% for azithromycin vs. 100% for control; at the Day 30 visit, the clinical success rate was 82% for azithromycin vs. 80% for control.
+
+Microbiologic determinations were made at the pre-treatment visit.
+Microbiology was not reassessed at later visits.
+At the Day 11 and Day 30 visits, the following clinical success rates were obtained from the evaluable group:
+
+| Pathogen | Azithromycin | Control | Azithromycin | Control |
+| --- | --- | --- | --- | --- |
+|  | Day 11 |  | Day 30 |  |
+| S. pneumoniae | 25/29 (86%) | 26/26 (100%) | 22/28 (79%) | 18/22 (82%) |
+| H. influenzae | 9/11 (82%) | 9/9 (100%) | 8/10 (80%) | 6/8 (75%) |
+| M. catarrhalis | 7/7 (100%) | 5/5 (100%) | 5/5 (100%) | 2/3 (66%) |
+| S. pyogenes | 2/2 (100%) | 5/5 (100%) | 2/2 (100%) | 4/4 (100%) |
+| Overall | 43/49 (88%) | 45/45 (100%) | 37/45 (82%) | 30/37 (81%) |
+
+Efficacy using azithromycin given over 3 days (10 mg/kg/day).
+
+Trial 4
+
+In a double-blind, controlled, randomized clinical study of acute otitis media in pediatric patients from 6 months to 12 years of age, azithromycin (10 mg/kg per day for 3 days) was compared to amoxicillin/clavulanate potassium (7:1) in divided doses q12h for 10 days.
+Each patient received active drug and placebo matched for the comparator.
+
+For the 366 patients who were evaluated for clinical efficacy at the Day 12 visit, the clinical success rate (i.e., cure plus improvement) was 83% for azithromycin and 88% for the control agent.
+For the 362 patients who were evaluated at the Days 24–28 visit, the clinical success rate was 74% for azithromycin and 69% for the control agent.
+
+Efficacy using azithromycin 30 mg/kg given as a single dose
+
+Trial 5
+
+A double-blind, controlled, randomized trial was performed at nine clinical centers.
+Pediatric patients from 6 months to 12 years of age were randomized 1:1 to treatment with either azithromycin (given at 30 mg/kg as a single dose on Day 1) or amoxicillin/clavulanate potassium (7:1), divided q12h for 10 days.
+Each child received active drug, and placebo matched for the comparator.
+
+Clinical response (Cure, Improvement, Failure) was evaluated at End of Therapy (Days 12–16) and Test of Cure (Days 28–32).
+Safety was evaluated throughout the trial for all treated subjects.
+For the 321 subjects who were evaluated at End of Treatment, the clinical success rate (cure plus improvement) was 87% for azithromycin, and 88% for the comparator.
+For the 305 subjects who were evaluated at Test of Cure, the clinical success rate was 75% for both azithromycin and the comparator.
+
+Trial 6
+
+In a non-comparative clinical and microbiological trial, 248 patients from 6 months to 12 years of age with documented acute otitis media were dosed with a single oral dose of azithromycin (30 mg/kg on Day 1).
+
+For the 240 patients who were evaluable for clinical modified Intent-to-Treat (MITT) analysis, the clinical success rate (i.e., cure plus improvement) at Day 10 was 89% and for the 242 patients evaluable at Days 24–28, the clinical success rate (cure) was 85%.
+
+|  | Day 10 | Days 24–28 |
+| --- | --- | --- |
+| Presumed Bacteriologic Eradication |  |  |
+| S. pneumoniae | 70/76 (92%) | 67/76 (88%) |
+| H. influenzae | 30/42 (71%) | 28/44 (64%) |
+| M. catarrhalis | 10/10 (100%) | 10/10 (100%) |
+| Overall | 110/128 (86%) | 105/130 (81%) |

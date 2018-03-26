@@ -2,7 +2,7 @@
 
 ## 5.1 Hypersensitivity
 
-Serious allergic reactions, including angioedema, anaphylaxis, and dermatologic reactions including Acute Generalized Exanthematous Pustulosis (AGEP), Stevens-Johnson Syndrome, and toxic epidermal necrolysis, have been reported rarely in patients on azithromycin therapy.
+Serious allergic reactions, including angioedema, anaphylaxis, and dermatologic reactions including Acute Generalized Exanthematous Pustulosis (AGEP), Stevens-Johnson syndrome, and toxic epidermal necrolysis have been reported in patients on azithromycin therapy.
 [see Contraindications (4.1)]
 
 Fatalities have been reported.
@@ -12,7 +12,7 @@ These patients required prolonged periods of observation and symptomatic treatme
 The relationship of these episodes to the long tissue half-life of azithromycin and subsequent prolonged exposure to antigen is presently unknown.
 
 If an allergic reaction occurs, the drug should be discontinued and appropriate therapy should be instituted.
-Physicians should be aware that allergic symptoms may reappear when symptomatic therapy is discontinued.
+Physicians should be aware that allergic symptoms may reappear when symptomatic therapy has been discontinued.
 
 ## 5.2 Hepatotoxicity
 
@@ -38,11 +38,11 @@ Elderly patients may be more susceptible to drug-associated effects on the QT in
 
 ## 5.5 Clostridium difficile-Associated Diarrhea (CDAD)
 
-CDAD has been reported with use of nearly all antibacterial agents, including ZITHROMAX, and may range in severity from mild diarrhea to fatal colitis.
+Clostridium difficile-associated diarrhea has been reported with use of nearly all antibacterial agents, including ZITHROMAX, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon, leading to overgrowth of C. difficile.
 
 C. difficile produces toxins A and B which contribute to the development of CDAD.
-Hypertoxin-producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antibacterial therapy and may require colectomy.
+Hypertoxin producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antibacterial therapy and may require colectomy.
 CDAD must be considered in all patients who present with diarrhea following antibiotic use.
 Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
 
@@ -51,15 +51,15 @@ Appropriate fluid and electrolyte management, protein supplementation, antibioti
 
 ## 5.6 Exacerbation of Myasthenia Gravis
 
-Exacerbations of symptoms of myasthenia gravis and new onset of myasthenic syndrome have been reported in patients receiving azithromycin therapy.
+Exacerbation of symptoms of myasthenia gravis and new onset of myasthenic syndrome have been reported in patients receiving azithromycin therapy.
 
 ## 5.7 Use in Sexually Transmitted Infections
 
-ZITHROMAX, (single dose 1 g packet) at the recommended dose, should not be relied upon to treat gonorrhea or syphilis.
-Antibacterial agents used in high doses for short periods of time to treat non-gonococcal urethritis may mask or delay the symptoms of incubating gonorrhea or syphilis.
-All patients with sexually transmitted urethritis or cervicitis should have a serologic test for syphilis and appropriate cultures for gonorrhea performed at the time of diagnosis.
+ZITHROMAX, at the recommended dose, should not be relied upon to treat syphilis.
+Antibacterial agents used to treat non-gonococcal urethritis may mask or delay the symptoms of incubating syphilis.
+All patients with sexually transmitted urethritis or cervicitis should have a serologic test for syphilis and appropriate testing for gonorrhea performed at the time of diagnosis.
 Appropriate antibacterial therapy and follow-up tests for these diseases should be initiated if infection is confirmed.
 
 ## 5.8 Development of Drug-Resistant Bacteria
 
-Prescribing ZITHROMAX in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
+Prescribing ZITHROMAX in the absence of a proven or strongly suspected bacterial infection is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
