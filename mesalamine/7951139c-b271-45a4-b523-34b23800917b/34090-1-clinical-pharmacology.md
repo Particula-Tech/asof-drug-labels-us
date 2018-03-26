@@ -13,41 +13,41 @@ The pharmacokinetics of 5-ASA and its metabolite, N-acetyl-5-aminosalicylic acid
 In the multiple-dose period, each subject received APRISO 1.5 g (4 x 0.375 g capsules) every 24 hours (QD) for 7 consecutive days.
 Steady state was reached on Day 6 of QD dosing based on trough concentrations.
 
-After single and multiple doses of APRISO, peak plasma concentrations were observed at about 4 hours post dose.
+After single and multiple doses of APRISO, peak plasma concentrations were observed at about 4 hours post-dose.
 At steady state, moderate increases (1.5-fold and 1.7-fold) in systemic exposure (AUC0-24) to 5-ASA and N-Ac-5-ASA were observed when compared with a single-dose of APRISO.
 
 Pharmacokinetic parameters after a single dose of 1.5 g APRISO and at steady state in healthy subjects under fasting condition are shown in Table 2.
 
-Table 2: Single Dose and Multiple Dose Mean (±SD) Plasma Pharmacokinetic Parameters of Mesalamine (5-ASA) and N-Ac-5-ASA after 1.5 g APRISO Administration in Healthy Subjects
+Table 2: Single Dose and Multiple Dose Mean (±SD) Plasma Pharmacokinetic Parameters of Mesalamine (5-ASA) and N-Ac-5-ASA After 1.5 g APRISO Administration in Healthy Subjects
 
 | Mesalamine (5-ASA) | Single Dose (n=24) | Multiple Dosec (n=24) |
 | --- | --- | --- |
-| AUC0-24 (μg*h/mL) | 11 ± 5 | 17 ± 6 |
-| AUC0-inf (μg*h/mL) | 14 ± 5 | - |
-| Cmax (μg/mL) | 2.1 ± 1.1 | 2.7 ± 1.1 |
+| AUC0-24 (mcg*h/mL) | 11 ± 5 | 17 ± 6 |
+| AUC0-inf (mcg*h/mL) | 14 ± 5 | - |
+| Cmax (mcg/mL) | 2.1 ± 1.1 | 2.7 ± 1.1 |
 | Tmax (h)a | 4 (2, 16) | 4 (2, 8) |
 | t½ (h)b | 9 ± 7 | 10 ± 8 |
 | N-Ac-5-ASA |  |  |
-| AUC0-24 (μg*h/mL) | 26 ± 6 | 37 ± 9 |
-| AUC0-inf (μg*h/mL) | 51 ± 23 | - |
-| Cmax (μg/mL) | 2.8 ± 0.8 | 3.4 ± 0.9 |
+| AUC0-24 (mcg*h/mL) | 26 ± 6 | 37 ± 9 |
+| AUC0-inf (mcg*h/mL) | 51 ± 23 | - |
+| Cmax (mcg/mL) | 2.8 ± 0.8 | 3.4 ± 0.9 |
 | Tmax (h)a | 4 (4, 12) | 5 (2, 8) |
 | t½ (h)b | 12 ± 11 | 14 ± 10 |
 | a Median (range); b Harmonic mean (pseudo SD); c after 7 days of treatment |  |  |
 
-In a separate study (n = 30), it was observed that under fasting conditions about 32% ± 11% (mean ± SD) of the administered dose was systemically absorbed based on the combined cumulative urinary excretion of 5-ASA and N-Ac-5-ASA over 96 hours post-dose.
+In a separate study (n=30), it was observed that under fasting conditions about 32% ± 11% (mean ± SD) of the administered dose was systemically absorbed based on the combined cumulative urinary excretion of 5-ASA and N-Ac-5-ASA over 96 hours post-dose.
 
 The effect of a high fat meal intake on absorption of mesalamine granules (the same granules contained in APRISO capsules) was evaluated in 30 healthy subjects.
 Subjects received 1.6 g of mesalamine granules in sachet (2 x 0.8 g) following an overnight fast or a high fat meal in a crossover study.
-Under fed conditions, tmax for both 5-ASA and N-Ac-5-ASA was prolonged by 4 and 2 hours, respectively.
+Under fed conditions, Tmax for both 5-ASA and N-Ac-5-ASA was prolonged by 4 and 2 hours, respectively.
 A high fat meal did not affect Cmax for 5-ASA, but a 27% increase in the cumulative urinary excretion of 5-ASA was observed with a high fat meal.
 The overall extent of absorption of N-Ac-5-ASA was not affected by a high fat meal.
 As APRISO and mesalamine granules in sachet were bioequivalent, APRISO can be taken without regard to food.
 
 Distribution
 
-In an in vitro study, at 2.5 μg/mL, mesalamine and N-Ac-5-ASA are 43 ± 6% and 78 ± 1% bound, respectively, to plasma proteins.
-Protein binding of N-Ac-5-ASA does not appear to be concentration dependent at concentrations ranging from 1 to 10 μg/mL.
+In an in vitro study, at 2.5 mcg/mL, mesalamine and N-Ac-5-ASA are 43 ± 6% and 78 ± 1% bound, respectively, to plasma proteins.
+Protein binding of N-Ac-5-ASA does not appear to be concentration dependent at concentrations ranging from 1 to 10 mcg/mL.
 
 Metabolism
 

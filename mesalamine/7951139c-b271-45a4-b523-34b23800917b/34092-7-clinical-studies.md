@@ -17,13 +17,13 @@ For the table below (Table 3) all patients who prematurely withdrew from the stu
 
 In both studies, the proportion of patients who remained relapse-free at six months was greater for APRISO than for placebo.
 
-Table 3: Percentage of Patients Relapse-Free* through 6 Months in APRISO Maintenance Studies
+Table 3: Percentage of Patients Relapse-Free* Through 6 Months in APRISO Maintenance Studies
 
 |  | APRISO 1.5 g/day % (# no relapse/N) | Placebo % (# no relapse/N) | Difference (95% C.I.) | P-value |
 | --- | --- | --- | --- | --- |
 | Study 1 | 68% (143/209) | 51% (49/96) | 17% (5.5, 29.2) | <0.001 |
 | Study 2 | 71% (117/164) | 59% (55/93) | 12% (0, 24.5) | 0.046 |
-| *Relapse counted as rectal bleeding score ≥ 1 and mucosal appearance score ≥ 2, or premature withdrawal from study. |  |  |  |  |
+| *Relapse counted as rectal bleeding score ≥1 and mucosal appearance score ≥2, or premature withdrawal from study. |  |  |  |  |
 
 Examination of gender subgroups did not identify difference in response to APRISO among these subgroups.
 There were too few elderly and too few African-American patients to adequately assess difference in effects in those populations.
