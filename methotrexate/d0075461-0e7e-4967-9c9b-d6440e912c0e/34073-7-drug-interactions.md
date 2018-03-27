@@ -53,7 +53,12 @@ Trimethoprim/sulfamethoxazole has been reported rarely to increase bone marrow s
 Methotrexate increases the plasma levels of mercaptopurine.
 The combination of Rasuvo and mercaptopurine may therefore require dose adjustment.
 
-## 7.8 Other Drugs
+## 7.8 Nitrous oxide
+
+The use of nitrous oxide anesthesia potentiates the effect of methotrexate on folate dependent metabolic pathways, resulting in the potential for increased toxicity.
+Avoid the simultaneous use of nitrous oxide and methotrexate.
+
+## 7.9 Other Drugs
 
 Methotrexate is partially bound to serum albumin, and toxicity may be increased because of displacement by certain drugs, such as salicylates, phenylbutazone, phenytoin, and sulfonamides.
 
