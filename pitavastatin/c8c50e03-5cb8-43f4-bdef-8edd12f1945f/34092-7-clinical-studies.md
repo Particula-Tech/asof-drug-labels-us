@@ -54,8 +54,8 @@ Table 6 Response by Dose of Pitavastatin and Simvastatin in Patients with Primar
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Pitavastatin 2 mg daily | 307 | -39 | -30 | -28 | -16 | 6 | -36 |
 | Pitavastatin 4 mg daily | 319 | -44 | -35 | -32 | -17 | 6 | -41 |
-| Simvastatin 10 mg daily | 107 | -35 | -27 | -25 | -16 | 6 | -32 |
-| Simvastatin 20 mg daily | 110 | -43 | -34 | -31 | -16 | 7 | -39 |
+| Simvastatin 20 mg daily | 107 | -35 | -27 | -25 | -16 | 6 | -32 |
+| Simvastatin 40 mg daily | 110 | -43 | -34 | -31 | -16 | 7 | -39 |
 | Simvastatin 80 mg daily | -----------------------------------------Not Studied------------------------------------ |  |  |  |  |  |  |
 
 Active-controlled study with pravastatin in elderly (NK-104-306)
