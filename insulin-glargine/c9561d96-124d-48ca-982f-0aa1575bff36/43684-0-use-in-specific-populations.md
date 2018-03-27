@@ -1,4 +1,4 @@
-# 8. USE IN SPECIFIC POPULATIONS
+# 8 USE IN SPECIFIC POPULATIONS
 
 ## 8.1 Pregnancy
 
@@ -9,7 +9,7 @@ This background risk is increased in pregnancies complicated by hyperglycemia an
 It is essential for patients with diabetes or a history of gestational diabetes to maintain good metabolic control before conception and throughout pregnancy.
 In patients with diabetes or gestational diabetes, insulin requirements may decrease during the first trimester, generally increase during the second and third trimesters, and rapidly decline after delivery.
 Careful monitoring of glucose control is essential in these patients.
-Therefore, female patients should be advised to tell their physicians if they intend to become, or if they become pregnant while taking TOUJEO.
+Therefore, female patients should be advised to tell their physicians if they intend to become, or if they become, pregnant while taking TOUJEO.
 
 Human data
 
@@ -37,22 +37,22 @@ The safety and effectiveness of TOUJEO have not been established in pediatric pa
 
 ## 8.5 Geriatric Use
 
-In controlled clinical studies, 30 of 304 (9.8%) TOUJEO treated patients with type 1 diabetes and 327 of 1242 (26.3%) TOUJEO treated patients with type 2 diabetes were ≥65 years of age, among them 2.0 % of the patients with type 1 and 3.0% of the patients with type 2 diabetes were ≥75 years of age.
+In controlled clinical studies, 30 of 304 (9.8%) TOUJEO-treated patients with type 1 diabetes and 327 of 1242 (26.3%) TOUJEO-treated patients with type 2 diabetes were ≥65 years of age, among them 2.0% of the patients with type 1 and 3.0% of the patients with type 2 diabetes were ≥75 years of age.
 No overall differences in effectiveness and safety were observed in the subgroup analyses across the age groups.
 
 Nevertheless, caution should be exercised when TOUJEO is administered to geriatric patients.
-In elderly patients with diabetes, the initial dosing, dose increments, and maintenance dosage should be conservative to avoid hypoglycemia [See Warnings and Precautions (5.3), Adverse reactions (6) and Clinical Studies (14)].
+In elderly patients with diabetes, the initial dosing, dose increments, and maintenance dosage should be conservative to avoid hypoglycemia [see Warnings and Precautions (5.3), Adverse Reactions (6), and Clinical Studies (14)].
 
 ## 8.6 Hepatic Impairment
 
 The effect of hepatic impairment on the pharmacokinetics of TOUJEO has not been studied.
-Frequent glucose monitoring and dose adjustment may be necessary for TOUJEO in patients with hepatic impairment [See Warnings and Precautions (5.3)].
+Frequent glucose monitoring and dose adjustment may be necessary for TOUJEO in patients with hepatic impairment [see Warnings and Precautions (5.3)].
 
 ## 8.7 Renal Impairment
 
 The effect of renal impairment on the pharmacokinetics of TOUJEO has not been studied.
 Some studies with human insulin have shown increased circulating levels of insulin in patients with renal failure.
-Frequent glucose monitoring and dose adjustment may be necessary for TOUJEO in patients with renal impairment [See Warnings and Precautions (5.3)].
+Frequent glucose monitoring and dose adjustment may be necessary for TOUJEO in patients with renal impairment [see Warnings and Precautions (5.3)].
 
 ## 8.8 Obesity
 

@@ -1,6 +1,6 @@
-# 4. CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
 TOUJEO is contraindicated:
 
-- During episodes of hypoglycemia [See Warnings and Precautions (5.3)].
-- In patients with hypersensitivity to insulin glargine or one of its excipients [See Warnings and Precautions (5.5)].
+- During episodes of hypoglycemia [see Warnings and Precautions (5.3)].
+- In patients with hypersensitivity to insulin glargine or one of its excipients [see Warnings and Precautions (5.5)].

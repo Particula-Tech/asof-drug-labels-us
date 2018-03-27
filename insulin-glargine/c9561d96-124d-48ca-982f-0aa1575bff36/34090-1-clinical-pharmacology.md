@@ -1,4 +1,4 @@
-# 12. CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
 ## 12.1 Mechanism of Action
 
@@ -10,24 +10,24 @@ Insulin inhibits lipolysis and proteolysis, and enhances protein synthesis.
 
 Onset of Action
 
-The pharmacodynamic profiles for TOUJEO given subcutaneously as a single dose of 0.4, 0.6, or 0.9 U/kg in a euglycemic clamp study in patients with type 1 diabetes showed that on average, the onset of action develops over 6 hours post-dose for all three single doses of TOUJEO.
+The pharmacodynamic profiles for TOUJEO given subcutaneously as a single dose of 0.4, 0.6, or 0.9 U/kg in a euglycemic clamp study in patients with type 1 diabetes showed that on average, the onset of action develops over 6 hours post dose for all three single doses of TOUJEO.
 
-Single Dose Pharmacodynamics
+Single-Dose Pharmacodynamics
 
 The pharmacodynamics for single 0.4, 0.6, and 0.9 U/kg doses of TOUJEO in 24 patients with type 1 diabetes mellitus was evaluated in a euglycemic clamp study.
-On a unit-to-unit basis, TOUJEO had a lower maximum (GIRmax) and 24 hour glucose lowering effect (GIR-AUC0–24) compared to LANTUS.
+On a unit-to-unit basis, TOUJEO had a lower maximum (GIRmax) and 24-hour glucose lowering effect (GIR-AUC0–24) compared to LANTUS.
 The overall glucose lowering effect of TOUJEO 0.4 U/kg was 12% of the glucose lowering effect of an equivalent dose of LANTUS.
 Glucose lowering at least 30% of the effect of a single 0.4 U/kg dose of LANTUS was not observed until the single dose of TOUJEO exceeded 0.6 U/kg.
 
-Multiple Once Daily Dose Pharmacodynamics
+Multiple Once-Daily Dose Pharmacodynamics
 
 The pharmacodynamics of TOUJEO after 8 days of daily injection was evaluated in 30 patients with type 1 diabetes.
-At steady state, the 24 hour glucose lowering effect (GIR-AUC0–24) of TOUJEO 0.4 U/kg was approximately 27% lower with a different distribution profile than that of an equivalent dose of LANTUS [See Dosage and Administration (2), Warning and Precautions (5.2) and Clinical Pharmacology (12.3)].
+At steady state, the 24-hour glucose lowering effect (GIR-AUC0–24) of TOUJEO 0.4 U/kg was approximately 27% lower with a different distribution profile than that of an equivalent dose of LANTUS [see Dosage and Administration (2), Warning and Precautions (5.2), and Clinical Pharmacology (12.3)].
 The glucose lowering effect of a TOUJEO dose increased with each daily administration.
 
-The pharmacodynamic profile for TOUJEO given subcutaneously as multiple once-daily subcutaneous injections of 0.4 U/kg in a euglycemic clamp study in patients with type 1 diabetes, is shown in Figure 1.
+The pharmacodynamic profile for TOUJEO given subcutaneously as multiple once-daily subcutaneous injections of 0.4 U/kg in a euglycemic clamp study in patients with type 1 diabetes is shown in Figure 1.
 
-Figure 1: Glucose infusion rate in Patients with type 1 diabetes in multiple dose administration of TOUJEO
+Figure 1: Glucose Infusion Rate in Patients with Type 1 Diabetes in Multiple-Dose Administration of TOUJEO
 
 Glucose infusion rate: determined as amount of glucose infused to maintain constant plasma glucose levels.
 
@@ -39,7 +39,7 @@ The pharmacokinetic profiles for single 0.4, 0.6, and 0.9 U/kg doses of TOUJEO i
 The median time to maximum serum insulin concentration was 12 (8–14), 12 (12–18), and 16 (12–20) hours, respectively.
 Mean serum insulin concentrations declined to the lower limit of quantitation of 5.02 µU/mL by 16, 28, and beyond 36 hours, respectively.
 
-Steady state insulin concentrations are reached by at least 5 days of once daily subcutaneous administration of 0.4 U/kg to 0.6 U/kg doses of TOUJEO over 8 days in patients with type 1 diabetes mellitus.
+Steady-state insulin concentrations are reached by at least 5 days of once-daily subcutaneous administration of 0.4 U/kg to 0.6 U/kg doses of TOUJEO over 8 days in patients with type 1 diabetes mellitus.
 
 After subcutaneous injection of TOUJEO, the intra-subject variability, defined as the coefficient of variation for the insulin exposure during 24 hours was 21.0% at steady state.
 

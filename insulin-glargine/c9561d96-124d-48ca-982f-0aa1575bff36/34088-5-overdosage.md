@@ -1,4 +1,4 @@
-# 10. OVERDOSAGE
+# 10 OVERDOSAGE
 
 Excess insulin administration may cause hypoglycemia and hypokalemia [see Warnings and Precautions (5.3, 5.6)].
 Mild episodes of hypoglycemia can be treated with oral glucose.
