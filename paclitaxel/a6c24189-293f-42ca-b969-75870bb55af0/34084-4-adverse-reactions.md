@@ -173,6 +173,7 @@ The incidences of severe hematologic toxicities, infections, mucositis, and card
 ## Breast Cancer After Failure of Initial Chemotherapy:
 
 For the 458 patients who received single-agent paclitaxel in the Phase 3 breast carcinoma study, the following table shows the incidence of important adverse events by treatment arm (each arm was administered by a 3-hour infusion).
+
 TABLE 14: FREQUENCYa OF IMPORTANT ADVERSE EVENTS IN THE PHASE 3 STUDY OF BREAST CANCER AFTER FAILURE OF INITIAL CHEMOTHERAPY OR WITHIN 6 MONTHS OF ADJUVANT CHEMOTHERAPY
 
 |  | Percent of Patients |  |
@@ -248,12 +249,12 @@ Toxicity was generally more severe in the high-dose paclitaxel treatment arm (T2
 Compared to the cisplatin/etoposide arm, patients in the low-dose paclitaxel arm experienced more arthralgia/myalgia of any grade and more severe neutropenia.
 The incidence of febrile neutropenia was not reported in this study.
 
-Kaposi’s Sarcoma
+Kaposi's Sarcoma
 
 The following table shows the frequency of important adverse events in the 85 patients with KS treated with 2 different single-agent paclitaxel regimens.
 
 TABLE 16.
-FREQUENCYa OF IMPORTANT ADVERSE EVENTS IN THE AIDS -RELATED KAPOSI’S SARCOMA STUDIES
+FREQUENCYa OF IMPORTANT ADVERSE EVENTS IN THE AIDS -RELATED KAPOSI'S SARCOMA STUDIES
 
 |  | Percent of Patients |  |
 | --- | --- | --- |
@@ -305,8 +306,8 @@ Toxicities that occurred with greater severity or frequency in previously untrea
 The frequency and severity of important adverse events for the Phase 3 ovarian carcinoma, breast carcinoma, NSCLC, and the Phase 2 Kaposi’s sarcoma carcinoma studies are presented above in tabular form by treatment arm.
 In addition, rare events have been reported from postmarketing experience or from other clinical studies.
 The frequency and severity of adverse events have been generally similar for patients receiving paclitaxel for the treatment of ovarian, breast, or lung carcinoma or Kaposi’s sarcoma, but patients with AIDS-related Kaposi’s sarcoma may have more frequent and severe hematologic toxicity, infections (including opportunistic infections, see TABLE 16), and febrile neutropenia.
-These patients require a lower dose intensity and supportive care (see CLINICAL STUDIES, AIDS-Related Kaposi’s Sarcoma).
-Toxicities that were observed only in or were noted to have occurred with greater severity in the population with Kaposi’s sarcoma and that occurred with a difference that was clinically significant in this population are described.
+These patients require a lower dose intensity and supportive care (see CLINICAL STUDIES, AIDS-Related Kaposi's Sarcoma).
+Toxicities that were observed only in or were noted to have occurred with greater severity in the population with Kaposi's sarcoma and that occurred with a difference that was clinically significant in this population are described.
 Elevated liver function tests and renal toxicity have a higher incidence in KS patients as compared to patients with solid tumors.
 
 Hematologic
@@ -326,7 +327,7 @@ Fever was frequent (12% of all treatment courses).
 Infectious episodes occurred in 30% of all patients and 9% of all courses; these episodes were fatal in 1% of all patients, and included sepsis, pneumonia and peritonitis.
 In the Phase 3 second-line ovarian study, infectious episodes were reported in 20% and 26% of the patients treated with a dose of 135 mg/m2 or 175 mg/m2 given as a 3-hour infusions respectively.
 Urinary tract infections and upper respiratory tract infections were the most frequently reported infectious complications.
-In the immunosuppressed patient population with advanced HIV disease and poor-risk AIDS-related Kaposi’s sarcoma, 61% of the patients reported at least one opportunistic infection (see CLINICAL STUDIES, AIDS-Related Kaposi’s Sarcoma).
+In the immunosuppressed patient population with advanced HIV disease and poor-risk AIDS-related Kaposi’s sarcoma, 61% of the patients reported at least one opportunistic infection (see CLINICAL STUDIES, AIDS-Related Kaposi's Sarcoma).
 The use of supportive therapy, including G-CSF, is recommended for patients who have experienced severe neutropenia (see DOSAGE AND ADMINISTRATION).
 
 Thrombocytopenia was reported.
@@ -343,7 +344,7 @@ Red cell transfusions were required in 25% of all patients and in 12% of those w
 
 Hypersensitivity Reactions (HSRs)
 
-All patients received premedication prior to paclitaxel administration (see WARNINGS and PRECAUTIONS: Hypersensitivity Reactions).
+All patients received premedication prior to paclitaxel administration (see WARNINGSand PRECAUTIONS: Hypersensitivity Reactions).
 The frequency and severity of HSRs were not affected by the dose or schedule of paclitaxel administration.
 In the Phase 3 second-line ovarian study, the 3-hour infusion was not associated with a greater increase in HSRs when compared to the 24-hour infusion.
 Hypersensitivity reactions were observed in 20% of all courses and in 41% of all patients.
@@ -387,6 +388,7 @@ Atrial fibrillation and supraventricular tachycardia have been reported.
 Respiratory
 
 Interstitial pneumonia, lung fibrosis, and pulmonary embolism have been reported.
+
 Radiation pneumonitis has been reported in patients receiving concurrent radiotherapy.
 
 Pleural effusion and respiratory failure have been reported.
@@ -420,6 +422,7 @@ Other than peripheral neuropathy, serious neurologic events following paclitaxel
 Autonomic neuropathy resulting in paralytic ileus has been reported.
 Optic nerve and/or visual disturbances (scintillating scotomata) have also been reported, particularly in patients who have received higher doses than those recommended.
 These effects generally have been reversible.
+
 However, reports in the literature of abnormal visual evoked potentials in patients have suggested persistent optic nerve damage.
 Postmarketing reports of ototoxicity (hearing loss and tinnitus) have also been received.
 
@@ -455,7 +458,7 @@ These manifestations were usually mild to moderate.
 Mucositis was schedule dependent and occurred more frequently with the 24-hour than with the 3-hour infusion.
 
 In patients with poor-risk AIDS-related Kaposi’s sarcoma, nausea/vomiting, diarrhea, and mucositis were reported by 69%, 79%, and 28% of patients, respectively.
-One-third of patients with Kaposi’s sarcoma complained of diarrhea prior to study start (see CLINICAL STUDIES: AIDS-Related Kaposi’s Sarcoma).
+One-third of patients with Kaposi’s sarcoma complained of diarrhea prior to study start (see CLINICAL STUDIES: AIDS-Related Kaposi's Sarcoma).
 
 In the first-line Phase 3 ovarian carcinoma studies, the incidence of nausea and vomiting when paclitaxel was administered in combination with cisplatin appeared to be greater compared with the database for single-agent paclitaxel in ovarian and breast carcinoma.
 In addition, diarrhea of any grade was reported more frequently compared to the control arm, but there was no difference for severe diarrhea in these studies.

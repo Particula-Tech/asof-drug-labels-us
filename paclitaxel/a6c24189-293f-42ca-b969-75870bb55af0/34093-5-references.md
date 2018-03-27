@@ -4,15 +4,18 @@
 NIOSH Alert: Preventing occupational exposures to antineoplastic and other hazardous drugs in healthcare settings.
 2004.
 U.S. Department of Health and Human Services, Public Health Service, Centers for Disease Control and Prevention, National Institute for Occupational Safety and Health, DHHS (NIOSH) Publication No. 2004-165.
+
 2.
 OSHA Technical Manual, TED 1-0.15A, Section VI: Chapter 2.
 Controlling occupational exposure to hazardous drugs.
 OSHA, 1999. http://www.osha.gov/dts/osta/otm/otm_vi/otm_vi_2.html.
+
 3.
 American Society of Health-System Pharmacists.
 ASHP guidelines on handling hazardous drugs.
 Am J Health-Syst Pharm.
 2006;63:1172-1193.
+
 4.
 Polovich M, White JM, Kelleher LO, eds.
 2005.
@@ -34,8 +37,10 @@ Lake Zurich, IL 60047
 
 Made in India
 
-For Product Inquiry: 1-800-551-7176 or www.fresenius-kabi.us
+For Product Inquiry:
 
-451169C (Cipla)/451224 (Baddi)/Revised August 2016
+1-800-551-7176 or www.fresenius-kabi.com/us
 
-7220132246 (Cipla)/7220132396 (Baddi)
+451224D/Revised December 2017
+
+7220132602

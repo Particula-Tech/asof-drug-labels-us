@@ -11,4 +11,4 @@ Prior therapy should have included an anthracycline unless clinically contraindi
 
 Paclitaxel Injection, USP, in combination with cisplatin, is indicated for the first-line treatment of non-small cell lung cancer in patients who are not candidates for potentially curative surgery and/or radiation therapy.
 
-Paclitaxel Injection, USP is indicated for the second-line treatment of AIDS-related Kaposi’s sarcoma.
+Paclitaxel Injection, USP is indicated for the second-line treatment of AIDS-related Kaposi's sarcoma.

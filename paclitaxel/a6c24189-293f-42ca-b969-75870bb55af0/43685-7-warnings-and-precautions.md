@@ -14,7 +14,9 @@ Patients should not be re-treated with subsequent cycles of paclitaxel until neu
 Severe conduction abnormalities have been documented in <1% of patients during paclitaxel therapy and in some cases requiring pacemaker placement.
 If patients develop significant conduction abnormalities during paclitaxel infusion, appropriate therapy should be administered and continuous cardiac monitoring should be performed during subsequent therapy with paclitaxel.
 
-Pregnancy Paclitaxel can cause fetal harm when administered to a pregnant woman.
+Pregnancy
+
+Paclitaxel can cause fetal harm when administered to a pregnant woman.
 Administration of paclitaxel during the period of organogenesis to rabbits at doses of 3 mg/kg/day (about 0.2 the daily maximum recommended human dose on a mg/m2 basis) caused embryo-and fetotoxicity, as indicated by intrauterine mortality, increased resorptions, and increased fetal deaths.
 Maternal toxicity was also observed at this dose.
 No teratogenic effects were observed at 1 mg/kg/day (about 1/15 the daily maximum recommended human dose on a mg/m2 basis); teratogenic potential could not be assessed at higher doses due to extensive fetal mortality.
@@ -53,12 +55,12 @@ In order to monitor the occurrence of myelotoxicity, it is recommended that freq
 Patients should not be re-treated with subsequent cycles of paclitaxel until neutrophils recover to a level >1,500 cells/mm3 and platelets recover to a level >100,000 cells/mm3.
 In the case of severe neutropenia (<500 cells/mm3 for 7 days or more) during a course of paclitaxel therapy, a 20% reduction in dose for subsequent courses of therapy is recommended.
 
-For patients with advanced HIV disease and poor-risk AIDS-related Kaposi’s sarcoma, paclitaxel, at the recommended dose for this disease, can be initiated and repeated if the neutrophil count is at least 1,000 cells/mm3.
+For patients with advanced HIV disease and poor-risk AIDS-related Kaposi's sarcoma, paclitaxel, at the recommended dose for this disease, can be initiated and repeated if the neutrophil count is at least 1,000 cells/mm3.
 
 Hypersensitivity Reactions
 
 Patients with a history of severe hypersensitivity reactions to products containing polyoxyl 35 castor oil (e.g., cyclosporin for injection concentrate and teniposide for injection concentrate) should not be treated with paclitaxel.
-In order to avoid the occurrence of severe hypersensitivity reactions, all patients treated with paclitaxel should be premedicated with corticosteroids (such as dexamethasone), diphenhydramine and H2 antagonists (such as cimetidine or ranitidine).
+In order to avoid the occurrence of severe hypersensitivity reactions, all patients treated with paclitaxel should be premedicated with corticosteroids (such as dexamethasone), diphenhydramine and H antagonists (such as cimetidine or ranitidine).
 Minor symptoms such as flushing, skin reactions, dyspnea, hypotension, or tachycardia do not require interruption of therapy.
 However, severe reactions, such as hypotension requiring treatment, dyspnea requiring bronchodilators, angioedema, or generalized urticaria require immediate discontinuation of paclitaxel and aggressive symptomatic therapy.
 Patients who have developed severe hypersensitivity reactions should not be rechallenged with paclitaxel.
@@ -82,7 +84,9 @@ Hepatic
 There is limited evidence that the myelotoxicity of paclitaxel may be exacerbated in patients with serum total bilirubin >2 times ULN (see CLINICAL PHARMACOLOGY).
 Extreme caution should be exercised when administering paclitaxel to such patients, with dose reduction as recommended in DOSAGE AND ADMINISTRATION, TABLE 17.
 
-Injection Site Reaction Injection site reactions, including reactions secondary to extravasation, were usually mild and consisted of erythema, tenderness, skin discoloration, or swelling at the injection site.
+Injection Site Reaction
+
+Injection site reactions, including reactions secondary to extravasation, were usually mild and consisted of erythema, tenderness, skin discoloration, or swelling at the injection site.
 These reactions have been observed more frequently with the 24-hour infusion than with the 3-hour infusion.
 Recurrence of skin reactions at a site of previous extravasation following administration of paclitaxel at a different site, i.e., “recall”, has been reported.
 
@@ -130,6 +134,7 @@ In 2 clinical studies in NSCLC, the elderly patients treated with paclitaxel had
 Estimates of efficacy appeared similar in elderly patients and in younger patients; however, comparative efficacy cannot be determined with confidence due to the small number of elderly patients studied.
 In a study of first-line treatment of ovarian cancer, elderly patients had a lower median survival than younger patients, but no other efficacy parameters favored the younger group.
 TABLE 9 presents the incidences of Grade IV neutropenia and severe neuropathy in clinical studies according to age.
+
 TABLE 9: SELECTED ADVERSE EVENTS IN GERIATRIC PATIENTS RECEIVING PACLITAXEL IN CLINICAL STUDIES
 
 | (Study/Regimen) | ≥65 | <65 | ≥65 | <65 |
@@ -155,4 +160,4 @@ TABLE 9: SELECTED ADVERSE EVENTS IN GERIATRIC PATIENTS RECEIVING PACLITAXEL IN C
 | (Phase 3/T175/3 c80a) | 37/89 (42)* | 56/267 (21) | 11/91 (12)* | 11/271 (4) |
 | * p<0.05 a Paclitaxel dose in mg/m2/infusion duration in hours; cisplatin doses in mg/m2. b Peripheral neuropathy was included within the neurotoxicity category in the Intergroup First-Line Ovarian Cancer study (see TABLE 11). c Paclitaxel dose in mg/m2/infusion duration in hours. d Paclitaxel (T) following 4 courses of doxorubicin and cyclophosphamide (AC) at a dose of 175 mg/m2/3 hours every 3 weeks for 4 courses. e Peripheral neuropathy reported as neurosensory toxicity in the Intergroup Adjuvant Breast Cancer study (see TABLE 13). f Peripheral neuropathy reported as neurosensory toxicity in the ECOG NSCLC study (see TABLE 15). |  |  |  |  |
 
-Information for Patients (see Patient Information Leaflet).
+Information for Patients (seePatient Information Leaflet).

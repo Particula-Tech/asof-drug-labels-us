@@ -8,7 +8,9 @@ Following intravenous administration of paclitaxel, paclitaxel plasma concentrat
 The initial rapid decline represents distribution to the peripheral compartment and elimination of the drug.
 The later phase is due, in part, to a relatively slow efflux of paclitaxel from the peripheral compartment.
 
-Pharmacokinetic parameters of paclitaxel following 3- and 24-hour infusions of paclitaxel at dose levels of 135 and 175 mg/m2 were determined in a Phase 3 randomized study in ovarian cancer patients and are summarized in the following table: TABLE 1.
+Pharmacokinetic parameters of paclitaxel following 3- and 24-hour infusions of paclitaxel at dose levels of 135 and 175 mg/m2 were determined in a Phase 3 randomized study in ovarian cancer patients and are summarized in the following table:
+
+TABLE 1.
 SUMMARY OF PHARMACOKINETIC PARAMETERS – MEAN VALUES
 
 | Dose (mg/m2) | Infusion Duration (h) | N (patients) | Cmax (ng/mL) | AUC(0-∞) (ng•h/mL) | T-HALF (h) | CLT (L/h/m2) |
@@ -25,7 +27,7 @@ The mean apparent volume of distribution at steady state, with the 24-hour infus
 
 The pharmacokinetics of paclitaxel were also evaluated in adult cancer patients who received single doses of 15 to 135 mg/m2 given by 1-hour infusions (n=15), 30 to 275 mg/m2 given by 6-hour infusions (n=36), and 200 to 275 mg/m2 given by 24-hour infusions (n=54) in Phase 1 and 2 studies.
 Values for CLT and volume of distribution were consistent with the findings in the Phase 3 study.
-The pharmacokinetics of paclitaxel in patients with AIDS-related Kaposi’s sarcoma have not been studied.
+The pharmacokinetics of paclitaxel in patients with AIDS-related Kaposi's sarcoma have not been studied.
 
 In vitro studies of binding to human serum proteins, using paclitaxel concentrations ranging from 0.1 to 50 mcg/mL, indicate that between 89 to 98% of drug is bound; the presence of cimetidine, ranitidine, dexamethasone, or diphenhydramine did not affect protein binding of paclitaxel.
 

@@ -14,7 +14,9 @@ For patients with carcinoma of the ovary, the following regimens are recommended
 For previously untreated patients with carcinoma of the ovary, one of the following recommended regimens may be given every 3 weeks.
 In selecting the appropriate regimen, differences in toxicities should be considered (see TABLE 11 in ADVERSE REACTIONS, Disease-Specific Adverse Event Experiences).
 
-1 Paclitaxel administered intravenously over 3 hours at a dose of 175 mg/m2 followed by cisplatin at a dose of 75 mg/m2; or 2 Paclitaxel administered intravenously over 24 hours at a dose of 135 mg/m2 followed by cisplatin at a dose of 75 mg/m2.
+1 Paclitaxel administered intravenously over 3 hours at a dose of 175 mg/m2 followed by cisplatin at a dose of 75 mg/m2; or
+
+2 Paclitaxel administered intravenously over 24 hours at a dose of 135 mg/m2 followed by cisplatin at a dose of 75 mg/m2.
 
 2.
 In patients previously treated with chemotherapy for carcinoma of the ovary, paclitaxel has been used at several doses and schedules; however, the optimal regimen is not yet clear.
@@ -33,10 +35,12 @@ After failure of initial chemotherapy for metastatic disease or relapse within 6
 For patients with non-small cell lung carcinoma, the recommended regimen, given every 3 weeks, is paclitaxel administered intravenously over 24 hours at a dose of 135 mg/m2 followed by cisplatin, 75 mg/m2.
 
 For patients with AIDS-related Kaposi’s sarcoma, paclitaxel administered at a dose of 135 mg/m2 given intravenously over 3 hours every 3 weeks or at a dose of 100 mg/m2 given intravenously over 3 hours every 2 weeks is recommended (dose intensity 45 to 50 mg/m2/week).
-In the 2 clinical trials evaluating these schedules (see CLINICAL STUDIES, AIDS-Related Kaposi’s Sarcoma), the former schedule (135 mg/m2 every 3 weeks) was more toxic than the latter.
+In the 2 clinical trials evaluating these schedules (see CLINICAL STUDIES, AIDS-Related Kaposi'sSarcoma), the former schedule (135 mg/m2 every 3 weeks) was more toxic than the latter.
 In addition, all patients with low performance status were treated with the latter schedule (100 mg/m2 every 2 weeks).
 
-Based upon the immunosuppression in patients with advanced HIV disease, the following modifications are recommended in these patients: 1.
+Based upon the immunosuppression in patients with advanced HIV disease, the following modifications are recommended in these patients:
+
+1.
 Reduce the dose of dexamethasone as 1 of the 3 premedication drugs to 10 mg PO (instead of 20 mg PO);
 
 2.
@@ -56,6 +60,10 @@ The incidence of neurotoxicity and the severity of neutropenia increase with dos
 Preparation and Administration Precautions:
 
 Paclitaxel is a cytotoxic anticancer drug and, as with other potentially toxic compounds, caution should be exercised in handling paclitaxel.
+Adequate puncture technique should be used to reduce the probability of coring.
+Injection needles or cannulas larger than 21G in diameter tends to promote coring.
+Stoppers should be punctured slowly in the center of vial stopper.
+Multiple puncturing at same site, rapid puncturing, puncturing with blunt spiking devices and puncturing near the edge of the stopper increases the probability of coring.
 The use of gloves is recommended.
 If paclitaxel solution contacts the skin, wash the skin immediately and thoroughly with soap and water.
 Following topical exposure, events have included tingling, burning and redness.
