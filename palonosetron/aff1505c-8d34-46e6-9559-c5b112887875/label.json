@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA202521"
+  ],
+  "inn": "palonosetron",
+  "labeler": "Sandoz Inc",
+  "package_ndcs": [
+    "0781-3312-75"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "palonosetron hydrochloride",
+      "name": "Palonosetron Hydrochloride"
+    }
+  ],
+  "setid": "aff1505c-8d34-46e6-9559-c5b112887875",
+  "source": "dailymed"
+}
