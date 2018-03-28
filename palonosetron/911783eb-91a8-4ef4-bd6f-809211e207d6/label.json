@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA090713"
+  ],
+  "inn": "palonosetron",
+  "labeler": "Teva Parenteral Medicines, Inc.",
+  "package_ndcs": [
+    "0703-4094-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "palonosetron hydrochloride",
+      "name": "Palonosetron Hydrochloride"
+    }
+  ],
+  "setid": "911783eb-91a8-4ef4-bd6f-809211e207d6",
+  "source": "dailymed"
+}
