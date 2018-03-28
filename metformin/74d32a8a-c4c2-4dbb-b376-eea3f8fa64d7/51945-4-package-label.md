@@ -14,7 +14,23 @@ ONCE DAILY
 
 Oceanside Pharmaceuticals
 
-# Package/Label Display Panel
+# Package/Label Display Panel- 500 mg
+
+NDC 68682-021-50
+
+Rx only
+
+Metformin Hydrochloride Extended-Release Tablets
+
+500 mg
+
+ONCE DAILY
+
+100 Tablets
+
+OCEANSIDE Pharmaceuticals
+
+# Package/Label Display Panel -1000 mg
 
 NDC 68682-018-90
 

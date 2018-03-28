@@ -1,6 +1,4 @@
-# Patient Package Insert
-
-Patient Information
+# PATIENT INFORMATION
 
 Metformin Hydrochloride Extended-Release Tablets
 
@@ -72,7 +70,8 @@ Before you take Metformin Hydrochloride Extended-Release Tablets, tell your doct
 - •have a history or risk for diabetic ketoacidosis (high levels of certain acids, known as ketones, in the blood or urine).
   Metformin Hydrochloride Extended-Release Tablets should not be used for the treatment of diabetic ketoacidosis.
 - •have severe kidney problems
-- •are going to get an injection of dye or contrast agents for an x-ray procedure, Metformin Hydrochloride Extended-Release Tablets may need to be stopped for a short time.
+- •are going to get an injection of dye or contrast agents for an x-ray procedure.
+  Metformin Hydrochloride Extended-Release Tablets may need to be stopped for a short time.
   Talk to your doctor about when you should stop Metformin Hydrochloride Extended-Release Tablets and when you should start Metformin Hydrochloride Extended-Release Tablets again.
   See “What is the most important information I should know about Metformin Hydrochloride Extended-Release Tablets?”
 - •have liver problems
@@ -84,7 +83,7 @@ Before you take Metformin Hydrochloride Extended-Release Tablets, tell your doct
   It is not known if Metformin Hydrochloride Extended-Release Tablets can harm your unborn baby.
   If you are pregnant, talk with your doctor about the best way to control your blood sugar while you are pregnant.
 - •are breastfeeding or plan to breastfeed.
-  It is not known if Metformin Hydrochloride Extended-Release Tablets passes into your breast milk.
+  It is not known if Metformin Hydrochloride Extended-Release Tablets pass into your breast milk.
   Talk with your doctor about the best way to feed your baby while you take Metformin Hydrochloride Extended-Release Tablets.
 
 Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins and herbal supplements.
@@ -163,7 +162,7 @@ Keep Metformin Hydrochloride Extended-Release Tablets and all medicines out of t
 General information about the safe and effective use of Metformin Hydrochloride Extended-Release Tablets.
 
 Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
-Do not use Metformin Hydrochloride Extended-Release Tablets for a condition for which it was not prescribed.
+Do not use Metformin Hydrochloride Extended-Release Tablets for a condition for which they were not prescribed.
 
 Do not give Metformin Hydrochloride Extended-Release Tablets to other people, even if they have the same symptoms you have.
 It may harm them.
@@ -172,7 +171,7 @@ This Patient Information summarizes the most important information about Metform
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about Metformin Hydrochloride Extended-Release Tablets that is written for health professionals.
 
-For more information, go to www.GlumetzaXR.com or call 1-800-508-0024.
+For more information, call 1-800-321-4576.
 
 What are the ingredients in Metformin Hydrochloride Extended-Release Tablets?
 
@@ -197,21 +196,11 @@ Talk to your doctor about how to prevent, recognize, and take care of low blood 
 
 Manufactured for: Oceanside Pharmaceuticals, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
-For prescription only
+U.S. Patent Numbers: 6,488,962; 6,723,340; 7,780,987 and 8,323,692
 
-U.S. Patent Numbers: 6,488,962; 6,723,340; 7,780,987; 8,323,692
-
-©Valeant Pharmaceuticals North America LLC
+© Valeant Pharmaceuticals North America LLC
 
 Rev.
-04/2017
+03/2018
 
-For 500 mg:
-
-9580801 70012765
-
-For 1000 mg:
-
-9572501
-
-20001973
+9619001 20002286

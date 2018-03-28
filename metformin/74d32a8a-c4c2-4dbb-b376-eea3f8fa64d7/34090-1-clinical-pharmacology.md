@@ -4,7 +4,7 @@
 
 Metformin is a biguanide that improves glucose tolerance in patients with type 2 diabetes, lowering both basal and postprandial plasma glucose.
 Metformin decreases hepatic glucose production, decreases intestinal absorption of glucose, and improves insulin sensitivity by increasing peripheral glucose uptake and utilization.
-Metformin does not produce hypoglycemia in patients with type 2 diabetes or in healthy subjects except in special circumstances, [see Warnings and Precautions (5)] and does not cause hyperinsulinemia.
+Metformin does not produce hypoglycemia in patients with type 2 diabetes or in healthy subjects except in special circumstances, [see Warnings and Precautions (5.3)] and does not cause hyperinsulinemia.
 With metformin therapy, insulin secretion remains unchanged while fasting insulin levels and daylong plasma insulin response may actually decrease.
 
 ## 12.3 Pharmacokinetics
@@ -12,7 +12,7 @@ With metformin therapy, insulin secretion remains unchanged while fasting insuli
 Absorption
 
 Following a single oral dose of 1000 mg (2x500 mg tablets) Metformin Hydrochloride Extended-Release Tablets after a meal, the time to reach maximum plasma metformin concentration (Tmax) is achieved at approximately 7-8 hours.
-In both single- and multiple-dose studies in healthy subjects, once daily 1000 mg (2x500 mg tablets) dosing provides equivalent systemic exposure, as measured by area-under-the-curve (AUC), and up to 35% higher Cmax, of metformin relative to the immediate release given as 500 mg twice daily.
+In both single- and multiple-dose studies in healthy subjects, once daily 1000 mg (2x500 mg tablets) dosing provides equivalent systemic exposure, as measured by area under the curve (AUC), and up to 35% higher Cmax, of metformin relative to the immediate release given as 500 mg twice daily.
 Metformin Hydrochloride Extended-Release Tablets must be administered immediately after a meal to maximize therapeutic benefit.
 
 Single oral doses of Metformin Hydrochloride Extended-Release Tablets from 500 mg to 2500 mg resulted in less than proportional increase in both AUC and Cmax.
@@ -50,7 +50,7 @@ Hepatic Impairment: No pharmacokinetic studies of Metformin Hydrochloride Extend
 
 Geriatrics: Limited data from controlled pharmacokinetic studies of metformin hydrochloride in healthy elderly subjects suggest that total plasma clearance of metformin is decreased by 35%, the half-life is prolonged by 64% and Cmax is increased by 76%, compared to healthy young subjects.
 From these data, it appears that the change in metformin pharmacokinetics with aging is primarily accounted for by a change in renal function.
-[See Warnings and Precautions (5.1) and Dosage and Administration (2).]
+[See Dosage and Administration (2) and Warnings and Precautions (5.1).]
 
 Gender: In the pharmacokinetic studies in healthy volunteers, there were no important differences between male and female subjects with respect to metformin AUC and t1/2.
 However, Cmax for metformin was 40% higher in female subjects as compared to males.

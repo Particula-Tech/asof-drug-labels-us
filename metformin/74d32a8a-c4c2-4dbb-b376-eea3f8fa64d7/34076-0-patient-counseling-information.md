@@ -20,14 +20,13 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
 
 Manufactured for:
 
-Oceanside Pharmaceuticals, a division of Valeant Pharmaceuticals North America LLC, Bridgewater, NJ 08807 USA
+Oceanside Pharmaceuticals, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
-U.S. Patent Numbers: 6,488,962; 6,723,340; 7,780,987; 8,323,692 ©Valeant Pharmaceuticals North America LLC
+U.S. Patent Numbers: 6,488,962; 6,723,340; 7,780,987 and 8,323,692 © Valeant Pharmaceuticals North America LLC
 
-For 500 mg:
+9619001
 
-9580801 70012765
+20002286
 
-For 1000 mg:
-
-9572501 20001973
+Rev.
+03/2018
