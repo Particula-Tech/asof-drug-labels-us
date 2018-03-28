@@ -7,7 +7,7 @@ Each RETISERT is approximately 3 mm x 2 mm x 5 mm.
 Each implant is stored in a clear polycarbonate case within a foil pouch within a Tyvek peelable overwrap.
 Each packaged implant is provided in a carton which includes the package insert.
 
-NDC 24208-416-01
+NDC 24208-416-01 0.59 mg 1 count
 
-Storage: Store in the original container at 15° - 25°C (59° - 77°F).
+Storage: Store in the original container at 15°-25°C (59° -77°F).
 Protect from freezing.

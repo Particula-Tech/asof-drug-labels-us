@@ -2,13 +2,11 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C
-
 No adequate animal reproduction studies have been conducted with fluocinolone acetonide.
 
 Corticosteroids are generally teratogenic in laboratory animals when administered systemically at relatively low dosage levels.
 Fluocinolone acetonide when administered subcutaneously at a dose of 0.13 mg/kg/day (approximately 10,000 times the daily clinical dose of RETISERT), during days 6 to 18 of pregnancy in the rabbit, induced abortion at the end of the third and at the beginning of the fourth gestational week.
-When administered subcutaneously to rats and rabbits during gestation at a maternal toxic dose of 50 µg/kg/day (approximately 4,000 times the clinical dose of RETISERT), fluocinolone acetonide caused abortions and malformations in a few surviving fetuses.
+When administered subcutaneously to rats and rabbits during gestation at a maternal toxic dose of 50 mcg/kg/day (approximately 4,000 times the clinical dose of RETISERT), fluocinolone acetonide caused abortions and malformations in a few surviving fetuses.
 
 There are no adequate and well-controlled studies in pregnant women.
 RETISERT should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.

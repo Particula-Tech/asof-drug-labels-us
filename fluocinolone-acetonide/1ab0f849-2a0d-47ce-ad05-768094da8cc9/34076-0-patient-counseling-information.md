@@ -7,21 +7,18 @@ Potential complications accompanying intraocular surgery to place RETISERT into 
 
 Following implantation of RETISERT, nearly all patients will experience an immediate and temporary decrease in visual acuity in the implanted eye which lasts for approximately one to four weeks post-operatively.
 
-Based on clinical trials with RETISERT, within 3 years post-implantation, approximately 77% of patients will require IOP lowering medications to control intraocular pressure and 37% of patients will require filtering procedures to control intraocular pressure.
-(see 6.1 Clinical Trials Experience - Ocular Events section).
+Based on clinical trials with RETISERT, within 3 years post-implantation, approximately 77% of patients will require IOP lowering medications to control intraocular pressure and 37% of patients will require filtering procedures to control intraocular pressure.[(see Adverse Reactions (6.1)].
 
 Based on clinical trials with RETISERT, during the 3-year post-implantation period, nearly all phakic eyes are expected to develop cataracts and require cataract surgery.
 
-MANUFACTURER INFORMATION
+Manufactured for: Bausch + Lomb, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
-Revised May 2012
+Manufactured by: Valeant Pharmaceuticals Ireland Limited d/b/a Bausch & Lomb Ireland Waterford, Ireland
 
-Marketed by: Bausch & Lomb Incorporated Rochester, NY 14609
+U.S. Patent Numbers: 6,217,895 and 6,548,078
 
-Manufactured by: Bausch & Lomb Incorporated Waterford, Ireland
+Retisert is a trademark of Bausch & Lomb Incorporated or its affiliates. © Bausch & Lomb Incorporated
 
-U.S. Patent # 6,217,895 U.S. Patent # 6,548,078
+9028008
 
-™/® denote trademarks of Bausch & Lomb Incorporated. © Bausch & Lomb Incorporated
-
-9028007
+Revised 12/2017

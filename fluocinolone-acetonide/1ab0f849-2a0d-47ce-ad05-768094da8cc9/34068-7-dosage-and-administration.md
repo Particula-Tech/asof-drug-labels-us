@@ -5,7 +5,7 @@
 RETISERT (fluocinolone acetonide intravitreal implant) 0.59 mg is implanted into the posterior segment of the affected eye through a pars plana incision.
 
 The implant contains one tablet of 0.59 mg of fluocinolone acetonide.
-RETISERT is designed to release fluocinolone acetonide at a nominal initial rate of 0.6 µg/day, decreasing over the first month to a steady state between 0.3-0.4 µg/day over approximately 30 months.
+RETISERT is designed to release fluocinolone acetonide at a nominal initial rate of 0.6 mcg/day, decreasing over the first month to a steady state between 0.3-0.4 mcg/day over approximately 30 months.
 Following depletion of fluocinolone acetonide as evidenced by recurrence of uveitis, RETISERT may be replaced.
 
 ## 2.2 Handling of Implant

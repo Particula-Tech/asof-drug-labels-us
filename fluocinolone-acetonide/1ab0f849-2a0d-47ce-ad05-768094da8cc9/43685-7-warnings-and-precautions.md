@@ -4,7 +4,7 @@
 
 Use of corticosteroids may result in posterior subcapsular cataract formation.
 
-Based on clinical trials with RETISERT, during the 3-year post implantation period, nearly all phakic eyes are expected to develop cataracts and require cataract surgery.
+Based on clinical trials with RETISERT, during the 3-year post-implantation period, nearly all phakic eyes are expected to develop cataracts and require cataract surgery.
 
 ## 5.2 Endophthalmitis and Surgical Complications
 
@@ -22,8 +22,8 @@ Prolonged use of corticosteroids may result in elevated IOP and/or glaucoma with
 Steroids should be used with caution in the presence of glaucoma.
 Patients must be monitored for elevated IOP.
 
-Based on clinical trials with RETISERT, within 3-years post implantation, approximately 77% of patients will require IOP lowering medications to control intraocular pressure and 37% of patients will require filtering procedures to control intraocular pressure.
-(see 6.1 Clinical Trials Experience - Ocular Events section).
+Based on clinical trials with RETISERT, within 3-years post-implantation, approximately 77% of patients will require IOP lowering medications to control intraocular pressure and 37% of patients will require filtering procedures to control intraocular pressure.
+[see Adverse Reactions (6.1)].
 
 ## 5.4 Separation of Implant Components
 

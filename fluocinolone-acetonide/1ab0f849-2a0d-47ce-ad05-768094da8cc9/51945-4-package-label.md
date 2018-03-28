@@ -1,6 +1,6 @@
 NDC 24208-416-01
 
-Bausch & Lomb
+Rx only
 
 Retisert® (fluocinolone acetonide
 
@@ -10,6 +10,8 @@ STERILE
 
 FOR INTRAVITREAL IMPLANTATION ONLY
 
-Rx only
+Contents: One sterile Retisert® (fluocinolone acetonide intravitreal implant) 0.59 mg
 
-Contents: One Sterile Retisert™ (fluocinolone acetonide intravitreal implant) 0.59 mg
+Content sterile in unopened, undamaged package.
+
+BAUSCH + LOMB
