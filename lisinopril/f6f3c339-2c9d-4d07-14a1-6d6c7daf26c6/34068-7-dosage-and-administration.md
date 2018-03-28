@@ -27,7 +27,7 @@ The recommended starting dose for PRINIVIL, when used with diuretics and (usuall
 The recommended starting dose in these patients with hyponatremia (serum sodium <130 mEq/L) is 2.5 mg once daily.
 Increase as tolerated to a maximum of 40 mg once daily.
 
-Diuretic dose may need to be adjusted to help minimize hypovolemia, which may contribute to hypotension [see Warnings and Precautions (5.4), and Drug Interactions (7.1)].
+Diuretic dose may need to be adjusted to help minimize hypovolemia, which may contribute to hypotension [see Warnings and Precautions (5.4) and Drug Interactions (7.1)].
 The appearance of hypotension after the initial dose of PRINIVIL does not preclude subsequent careful dose titration with the drug, following effective management of the hypotension.
 
 ## 2.3 Acute Myocardial Infarction
