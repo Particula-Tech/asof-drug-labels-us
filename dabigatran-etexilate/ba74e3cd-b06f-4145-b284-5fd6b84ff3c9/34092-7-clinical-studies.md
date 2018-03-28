@@ -30,7 +30,7 @@ Table 9 First Occurrence of Stroke or Systemic Embolism in the RE-LY Study*
 |  | PRADAXA 150 mg twice daily | PRADAXA 110 mg twice daily | Warfarin |
 | --- | --- | --- | --- |
 | Patients randomized | 6076 | 6015 | 6022 |
-| Patients (%) with events | 135 (2.2%) | 183 (3%) | 203 (3.4%) |
+| Patients (% per yr) with events | 135 (1.12%) | 183 (1.54%) | 203 (1.72%) |
 | Hazard ratio vs. warfarin (95% CI) | 0.65 (0.52, 0.81) | 0.89 (0.73, 1.09) |  |
 | P-value for superiority | 0.0001 | 0.27 |  |
 | Hazard ratio vs. PRADAXA 110 mg (95% CI) | 0.72 (0.58, 0.91) |  |  |

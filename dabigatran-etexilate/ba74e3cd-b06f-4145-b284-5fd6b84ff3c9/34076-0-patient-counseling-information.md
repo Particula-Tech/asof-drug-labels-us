@@ -58,8 +58,16 @@ Ask patients to list all prescription medications, over-the-counter medications,
 
 Instruct patients to inform their health care provider if they will have or have had surgery to place a prosthetic heart valve.
 
+## 17.7 Pregnancy
+
+Advise patients to inform their healthcare provider immediately if they become pregnant or intend to become pregnant during treatment with PRADAXA [see Use in Specific Populations (8.1)].
+
+## 17.8 Lactation
+
+Advise patients not to breastfeed if they are taking PRADAXA [see Use in Specific Populations (8.2)].
+
 Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA
 
-Copyright 2017 Boehringer Ingelheim Pharmaceuticals, Inc. ALL RIGHTS RESERVED
+Copyright 2018 Boehringer Ingelheim Pharmaceuticals, Inc. ALL RIGHTS RESERVED
 
-IT5060AIG262017
+IT5060AKC142018
