@@ -54,7 +54,7 @@ For subcutaneous use only
 
 Rx Only
 
-Recommended for use with NovoFine®, NovoFine® Plus or NovoTwist® disposable needles.
+Recommended for use with NovoFine®, NovoFine® Plus or NovoTwist® disposable needles. disposable needles.
 
 Keep in a cold place until first use.
 

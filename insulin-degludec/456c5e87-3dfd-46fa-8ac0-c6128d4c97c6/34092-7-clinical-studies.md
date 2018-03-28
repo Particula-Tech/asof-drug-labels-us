@@ -42,7 +42,7 @@ The mean BMI was approximately 23.9 kg/m2.
 At week 26, the difference in HbA1c reduction from baseline between TRESIBA and insulin detemir was -0.09% with a 95% confidence interval of [-0.23%; 0.05%] and met the pre-specified non-inferiority margin (0.4%).
 See Table 6, Study B.
 
-TABLE 6: Results at Week 52 in a Trial Comparing TRESIBA to Insulin Glargine U-100 (Study A) and Week 26 in a Trial Comparing TRESIBA to Insulin Detemir (Study B) in Adult Patients with Type 1 Diabetes Mellitus Receiving Insulin Aspart at Mealtimes
+Table 6: Results at Week 52 in a Trial Comparing TRESIBA to Insulin Glargine U-100 (Study A) and Week 26 in a Trial Comparing TRESIBA to Insulin Detemir (Study B) in Adult Patients with Type 1 Diabetes Mellitus Receiving Insulin Aspart at Mealtimes
 
 |  | Study A |  | Study B |  |
 | --- | --- | --- | --- | --- |
@@ -400,3 +400,78 @@ Table 14: Results at Week 26 in a Trial Comparing TRESIBA to Sitagliptin in Adul
 2. **The change from baseline to end of treatment visit in HbA1c was analysed using ANOVA with treatment, region, sex, and anti-diabetic treatment at screening as fixed effects, and age and baseline HbA1c as covariates.
 3. In Study I, there were 20.9% of subjects in the TRESIBA and 22.5% Sitagliptin arms for whom data was missing at the time of the HbA1c measurement.
 4. 1p <0.001; 1-sided p-value evaluated at 2.5% level for superiority
+
+## 14.4 Safety Outcomes Trial
+
+DEVOTE (NCT01959529) Cardiovascular Outcomes Trial of TRESIBA Administered Once-Daily Between Dinner and Bedtime in Combination with Standard of Care in Subjects with Type 2 Diabetes and Atherosclerotic Cardiovascular Disease
+
+DEVOTE was a multi-center, multi-national, randomized, double-blinded, active-controlled, treat-to-target, event-driven trial.
+7,637 patients with inadequately controlled type 2 diabetes and atherosclerotic cardiovascular disease were randomized to either TRESIBA or insulin glargine U-100.
+Each was administered once-daily between dinner and bedtime in addition to standard of care for diabetes and cardiovascular disease for a median duration of 2 years.
+
+Patients eligible to enter the trial were; 50 years of age or older and had established, stable, cardiovascular, cerebrovascular, peripheral artery disease, chronic kidney disease or NYHA class II and III heart failure (85% of the enrolled population) or were 60 years of age or older and had other specified risk factors for cardiovascular disease (15% of the enrolled population).
+
+At baseline, demographic and disease characteristics were balanced between treatment groups.
+The mean age of the trial population was 65 years and the mean duration of diabetes was 16.4 years.
+The population was 62.6% male, 75.6% White 10.9% Black or African American, 10.2% Asian.
+14.9% had Hispanic ethnicity.
+The mean HbA1c was 8.4% and the mean BMI was 33.6 kg/m2.
+The baseline mean estimated glomular filtration rate (eGFR) was 68 mL/min/1.73m2.
+41% of patients had eGFR 60-90 mL/min/1.73m2; 35% of patients had eGFR 30 to 60 mL/min/1.73 m2 and 3% of patients had eGFR <30 mL/min/1.73 m2.
+Previous history of severe hypoglycemia was not captured in the trial.
+
+At baseline, patients treated their diabetes with oral antidiabetic drugs (72%) and with an insulin regimen (84%).
+Types of insulins included long acting insulin (60%), intermediate acting insulin (14%) short acting insulin (37%) and premixed insulin (10%).
+16% of patients were insulin naive.
+The most common background oral antidiabetic drugs used at baseline were metformin (60%), sulfonylureas (29%) and DPP-4 inhibitors (12%).
+
+During the trial, investigators could modify anti-diabetic and cardiovascular medications to achieve local standard of care treatment targets for lipids and blood pressure.
+
+Cardiovascular Outcomes - Patients with T2DM and Atherosclerotic CVD
+
+The incidence of major cardiovascular events with TRESIBA was evaluated in DEVOTE.
+Subjects treated with TRESIBA had a similar incidence of major adverse cardiovascular events (MACE) when compared to those treated with insulin glargine U-100.
+
+The primary endpoint in DEVOTE was time from randomization to the first occurrence of a 3-component major adverse cardiovascular event (MACE): cardiovascular death, non-fatal myocardial infarction, or non-fatal stroke.
+The study was designed to exclude a pre-specified risk margin of 1.3 for the hazard ratio of MACE comparing TRESIBA to insulin glargine U-100.
+The primary outcome at end of trial was available for 98.2% of participants in each treatment group.
+
+The time to first occurrence of MACE with TRESIBA as compared to insulin glargine U-100 was non-inferior (HR: 0.91; 95% CI [0.78;1.06]; see Figure 3).
+The results of the primary composite MACE endpoint and a summary of its individual components are shown in Table 15.
+
+Table 15: Analysis of the Composite 3-point MACE and Individual Cardiovascular Endpoints in DEVOTE
+
+|  | TRESIBA |  | Insulin glargine U-100 |  |  |
+| --- | --- | --- | --- | --- | --- |
+| N | 3818 |  | 3819 |  |  |
+|  | Number of Patients (%) | Rate per 100 PYO* | Number of Patients (%) | Rate per 100 PYO* | Hazard Ratio(95% CI) |
+| Composite of first event of CV death, non-fatal MI, or non-fatal stroke (3-Point MACE) | 325 (8.5) | 4.41 | 356 (9.3) | 4.86 | 0.91[0.78; 1.06] |
+| CV death | 136 (3.6) | 1.85 | 142 (3.7) | 1.94 |  |
+| Non-fatal MI | 144 (3.8) | 1.95 | 169 (4.4) | 2.31 |  |
+| Non-fatal stroke | 71(1.9) | 0.96 | 79(2.1) | 1.08 |  |
+
+* PYO = patient-years of observation until first MACE, death, or trial discontinuation
+
+Figure 3: Cumulative Event Probability for Time to First MACE in DEVOTE
+
+Hypoglycemia Outcomes - Patients with T2DM and Atherosclerotic CVD
+
+The pre-specified secondary endpoints of event and incidence rates of severe hypoglycemia were sequentially tested.
+
+Severe hypoglycemia was defined as an episode requiring assistance of another person to actively administer carbohydrate, glucagon, or other resuscitative actions and during which plasma glucose concentration may not have been available, but where neurological recovery following the return of plasma glucose to normal was considered sufficient evidence that the event was induced by a low plasma glucose concentration.
+
+The incidence of severe hypoglycemia was lower in the TRESIBA group as compared to the insulin glargine U-100 group (Table 16).
+Glycemic control between the two groups was similar at baseline and throughout the trial.
+
+Table 16: Severe Hypoglycemic Episodes in Patients Treated with TRESIBA or Insulin Glargine U-100 in DEVOTE
+
+|  | TRESIBA | Insulin glargine U-100 |
+| --- | --- | --- |
+| N | 3818 | 3819 |
+| Severe Hypoglycemia |  |  |
+| Percent of patients with events | 4.9% | 6.6% |
+| Estimated odds ratio [95%CI] TRESIBA/Insulin glargine U-100 | 0.73 [0.60; 0.89]* |  |
+| Events per 100 Patient Years of Observation | 3.70 | 6.25 |
+| Estimated rate ratio [95%CI] TRESIBA/Insulin glargine U-100 | 0.60 [0.48; 0.76]* |  |
+
+* Test for superiority evaluated at 5% level for significance, (2-sided p<0.001)

@@ -442,15 +442,15 @@ Check to make sure the dose selector is set at 0.
 
 Giving your injection:
 
-- •Inject your TRESIBA exactly as your healthcare provider has shown you.
-  Your healthcare provider should tell you if you need to pinch the skin before injecting.
-- •TRESIBA can be injected under the skin (subcutaneously) of your upper legs (thighs), upper arms, or stomach area (abdomen).
-- •Change (rotate) your injection sites within the area you choose for each dose.
-  Do not use the same injection site for each injection.
+1. 1.Inject your TRESIBA exactly as your healthcare provider has shown you.
+   Your healthcare provider should tell you if you need to pinch the skin before injecting.
+2. 2.TRESIBA can be injected under the skin (subcutaneously) of your upper legs (thighs), upper arms, or stomach area (abdomen).
+3. 3.Change (rotate) your injection sites within the area you choose for each dose.
+   Do not use the same injection site for each injection.
 
 Step 11:
 
-- •Choose your injection site and wipe the skin with an alcohol swab (See Figure M). Let the injection site dry before you inject your dose.
+1. 1.Choose your injection site and wipe the skin with an alcohol swab (See Figure M). Let the injection site dry before you inject your dose.
 
 Step 12:
 

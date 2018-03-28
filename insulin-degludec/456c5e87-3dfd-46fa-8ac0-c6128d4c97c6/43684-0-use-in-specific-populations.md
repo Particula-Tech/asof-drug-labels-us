@@ -26,7 +26,7 @@ Data
 
 Animal Data
 
-Insulin degludec was investigated in studies covering fertility, embryo-fetal development and pre- and post-natal development in rats and during the period of embryofetal development in rabbits.
+Insulin degludec was investigated in studies covering fertility, embryo-fetal development and pre- and post-natal development in rats and during the period of embryo-fetal development in rabbits.
 Human insulin (NPH insulin) was included as comparator.
 In these studies insulin degludec caused pre- and post-implantation losses and visceral/skeletal abnormalities when given subcutaneously at up to 21 U/kg/day in rats and 3.3 U/kg/day in rabbits, resulting in 5 times (rat) and 10 times (rabbit) the human exposure (AUC) at a human subcutaneous dose of 0.75 U/kg/day.
 Overall, the effects of insulin degludec were similar to those observed with human insulin, which were probably secondary to maternal hypoglycemia.
@@ -59,6 +59,9 @@ In controlled clinical studies [see Clinical Studies (14)] a total of 77 (7%) of
 A total of 670 (25%) of the 2713 TRESIBA-treated patients with type 2 diabetes were 65 years or older and 80 (3%) were 75 years or older.
 Differences in safety or effectiveness were not suggested in subgroup analyses comparing subjects older than 65 years to younger subjects.
 
+In the safety outcomes trial (DEVOTE), a total of 1983 (52%) of the 3818 TRESIBA-treated patients with type 2 diabetes were 65 years or older and 381 (10%) were 75 years or older.
+Differences in safety or effectiveness were not observed in these subgroup analyses.
+
 Nevertheless, greater caution should be exercised when TRESIBA is administered to geriatric patients since greater sensitivity of some older individuals to the effects of TRESIBA cannot be ruled out.
 The initial dosing, dose increments, and maintenance dosage should be conservative to avoid hypoglycemia.
 Hypoglycemia may be more difficult to recognize in the elderly.
@@ -67,6 +70,9 @@ Hypoglycemia may be more difficult to recognize in the elderly.
 
 In clinical studies [see Clinical Studies (14)] a total of 75 (7%) of the 1102 TRESIBA-treated patients with type 1 diabetes had an eGFR less than 60 mL/min/1.73 m2 and 1 (0.1%) had an eGFR less than 30 mL/min/1.73 m2.
 A total of 250 (9%) of the 2713 TRESIBA-treated patients with type 2 diabetes had an eGFR less than 60 mL/min/1.73 m2 and no subjects had an eGFR less than 30 mL/min/1.73 m2.
+
+In the safety outcomes trial (DEVOTE), a total of 1429 (37.4%) of the 3818 TRESIBA-treated patients with type 2 diabetes had an eGFR less than 60 mL/min/1.73 m2, and 108 (2.8%) subjects had an eGFR less than 30 mL/min/1.73 m2.
+Differences in safety or effectiveness were not observed in the subgroup analyses.
 
 No clinically relevant difference in the pharmacokinetics of TRESIBA was identified in a study comparing healthy subjects and subjects with renal impairment including subjects with end stage renal disease [see Clinical Pharmacology (12.3)].
 However, as with all insulin products, glucose monitoring should be intensified and the TRESIBA dosage adjusted on an individual basis in patients with renal impairment.

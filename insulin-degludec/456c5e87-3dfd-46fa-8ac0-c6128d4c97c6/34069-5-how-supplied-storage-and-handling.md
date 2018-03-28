@@ -2,9 +2,9 @@
 
 ## 16.1 How Supplied
 
-TRESIBA is available as a clear and colorless solution in the following package sizes (see Table 15).
+TRESIBA is available as a clear and colorless solution in the following package sizes (see Table 17).
 
-Table 15 Presentations of TRESIBA
+Table 17: Presentations of TRESIBA
 
 | TRESIBA | Total volume | Concentration | Total units available in presentation | NDC number | Max dose per injection | Dose increment | Package Size |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -13,24 +13,14 @@ Table 15 Presentations of TRESIBA
 
 ## 16.2 Recommended Storage
 
-Unused TRESIBA should be stored between 36°F to 46°F (2°C to 8°C).
+Unused TRESIBA should be stored in a refrigerator (36ºF to 46ºF [2ºC to 8ºC]).
 Do not store in the freezer or directly adjacent to the refrigerator cooling element.
 Do not freeze.
 Do not use TRESIBA if it has been frozen.
 
-Unopened FlexTouch disposable prefilled pen:
+The storage conditions are summarized in Table 18:
 
-Not in-use (unopened) TRESIBA disposable prefilled pen should be stored in a refrigerator (36°F to 46°F [2°C to 8°C]).
-Discard after expiration date.
-
-Open (In-Use) FlexTouch disposable prefilled pen:
-
-The in-use TRESIBA FlexTouch pen should be refrigerated (36°F to 46°F [2°C to 8°C]) or be kept at room temperature (below 86°F [30°C]) away from direct heat and light.
-The opened (in-use) TRESIBA FlexTouch pen may be used for up to 56 days (8 weeks) after being opened, if it is refrigerated or kept at room temperature.
-
-The storage conditions are summarized in Table 16:
-
-Table 16: Storage Conditions for TRESIBA FlexTouch
+Table 18: Storage Conditions for TRESIBA FlexTouch
 
 |  | Not in-use (unopened) |  | In-use (opened) |  |
 | --- | --- | --- | --- | --- |

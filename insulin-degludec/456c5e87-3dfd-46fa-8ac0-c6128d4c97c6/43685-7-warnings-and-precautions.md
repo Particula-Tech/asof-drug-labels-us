@@ -9,7 +9,7 @@ Sharing poses a risk for transmission of blood-borne pathogens.
 
 Changes in insulin, manufacturer, type, or method of administration may affect glycemic control and predispose to hypoglycemia or hyperglycemia.
 These changes should be made cautiously and only under medical supervision and the frequency of blood glucose monitoring should be increased.
-For patients with type 2 diabetes, adjustments in concomitant oral anti-diabetic treatment may be needed.
+For patients with type 2 diabetes, adjustments in concomitant anti-diabetic treatment may be needed.
 When converting from other insulin therapies to TRESIBA follow dosing recommendations [see Dosage and Administration (2.4)].
 
 ## 5.3 Hypoglycemia
@@ -42,8 +42,7 @@ In patients at higher risk for hypoglycemia and patients who have reduced sympto
 Accidental mix-ups between basal insulin products and other insulins, particularly rapid-acting insulins, have been reported.
 To avoid medication errors between TRESIBA and other insulins, instruct patients to always check the insulin label before each injection.
 
-Do not transfer TRESIBA from the TRESIBA pen to a syringe.
-The markings on the insulin syringe will not measure the dose correctly and can result in overdosage and severe hypoglycemia [see Dosage and Administration (2.1) and Warnings and Precautions (5.3)].
+To avoid dosing errors and potential overdose, never use a syringe to remove TRESIBA from the TRESIBA pen into a syringe [see Dosage and Administration (2.1) and Warnings and Precautions (5.3)].
 
 ## 5.5 Hypersensitivity and Allergic Reactions
 
