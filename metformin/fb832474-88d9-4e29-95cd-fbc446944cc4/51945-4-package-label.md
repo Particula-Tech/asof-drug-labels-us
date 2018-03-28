@@ -1,4 +1,4 @@
-## PACKAGE LABEL – PRINCIPAL DISPLAY PANEL 500 MG
+# Package/Label Display Panel – 500 mg
 
 NDC 68012-004-50
 
@@ -14,7 +14,7 @@ ONCE DAILY
 
 Salix
 
-## PACKAGE LABEL – PRINCIPAL DISPLAY PANEL 500 MG
+# Package/Label Display Panel – 500 mg
 
 NDC 68012-002-13
 
@@ -30,7 +30,7 @@ ONCE DAILY
 
 Salix
 
-## PACKAGE LABEL – PRINCIPAL DISPLAY PANEL 1000 MG
+# Package/Label Display Panel – 1000 mg
 
 NDC 68012-003-16
 

@@ -26,5 +26,5 @@ Glumetza is a trademark of Valeant Pharmaceuticals International, Inc. or its af
 
 © Valeant Pharmaceuticals North America LLC
 
-- 500 mg: Update p/n
-- 1000 mg: Update p/n
+- 9618901
+- 20002285

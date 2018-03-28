@@ -1,6 +1,4 @@
-# Patient Package Insert
-
-PATIENT INFORMATION
+# PATIENT INFORMATION
 
 GLUMETZA® (Gloo-met-za)
 
@@ -209,6 +207,6 @@ Glumetza is a trademark of Valeant Pharmaceuticals International, Inc. or its af
 © Valeant Pharmaceuticals North America LLC
 
 - Rev.
-  03/2018 500 mg: Update p/n
-
-1000 mg: Update p/n
+  03/2018
+- 9618901
+- 20002285
