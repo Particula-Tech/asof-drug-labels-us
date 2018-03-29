@@ -190,6 +190,6 @@ Inactive ingredients: hydrochloric acid, sodium chloride, sodium hydroxide and w
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Manufactured for: Antares Pharma, Inc. 100 Princeton South, Suite 300 Ewing, NJ 08628 USA ©2014 Antares Pharma, Inc., Ewing, NJ 08628
+Manufactured for: Antares Pharma, Inc. 100 Princeton South, Suite 300 Ewing, NJ 08628 USA ©2018 Antares Pharma, Inc., Ewing, NJ 08628
 
-Issued: 12/2016
+Issued: 03/2018

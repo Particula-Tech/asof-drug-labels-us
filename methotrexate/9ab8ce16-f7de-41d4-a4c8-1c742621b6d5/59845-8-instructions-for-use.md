@@ -97,6 +97,6 @@ This Instructions for Use has been approved by the U.S. Food and Drug Administra
 Mfd.
 For Antares Pharma, Inc. Ewing, NJ 08628
 
-12/2016
+03/2018
 
-PII-13-001 V08
+PII-13-001 V10
