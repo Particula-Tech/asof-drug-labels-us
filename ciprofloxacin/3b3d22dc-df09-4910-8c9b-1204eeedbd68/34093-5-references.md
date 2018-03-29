@@ -1,4 +1,4 @@
-# 15REFERENCES
+# 15 REFERENCES
 
 1. 21 CFR 314.510 (Subpart H–Accelerated Approval of New Drugs for Life-Threatening Illnesses).
 2. Friedman J, Polifka J. Teratogenic effects of drugs: a resource for clinicians (TERIS).
@@ -16,12 +16,12 @@
    Clinical and Laboratory Standards Institute, 950 West Valley Rd., Suite 2500, Wayne, PA.
    19087-1898.
 6. Clinical and Laboratory Standards Institute (CLSI).
-   Performance Standards for Antimicrobial Susceptibility Testing; Twenty-sixth Informational Supplement.
-   CLSI Document M100 S26 [2016].
+   Performance Standards for Antimicrobial Susceptibility Testing; Twenty-seventh Informational Supplement.
+   CLSI Document M100 S27 [2017].
    Clinical and Laboratory Standards Institute, 950 West Valley Rd., Suite 2500, Wayne, PA.
    19087-1898.
 7. Clinical and Laboratory Standards Institute (CLSI).
-   Methods for Antimicrobial Dilution and Disk Susceptibility Testing of Infrequently Isolated or Fastidious Bacteria; Approved Guideline–Third Edition.
+   Methods for Antimicrobial Dilution and Disk Susceptibility Testing of Infrequently Isolated or Fastidious Bacteria; Approved Guideline–ThirdEdition.
    CLSI Document M45-A3 [2016].
    Clinical and Laboratory Standards Institute, 950 West Valley Rd., Suite 2500, Wayne, PA.
    19087-1898.

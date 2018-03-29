@@ -1,25 +1,27 @@
-# 2DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
 Ciprofloxacin tablets should be administered orally as described in the appropriate Dosage Guidelines tables.
 
-## 2.1Dosage in Adults
+## 2.1 Dosage in Adults
 
 The determination of dosage and duration for any particular patient must take into consideration the severity and nature of the infection, the susceptibility of the causative microorganism, the integrity of the patient’s host-defense mechanisms, and the status of renal and hepatic function.
+Ciprofloxacin tablets may be administered to adult patients when clinically indicated at the discretion of the physician.
 
 Table 1: Adult Dosage Guidelines
 
 | Infection | Dose | Frequency | Usual Durations1 |
 | --- | --- | --- | --- |
-| Skin and Skin Structure Bone and Joint | 500–750 mg 500–750 mg | every 12 hours every 12 hours | 7 to 14 days 4 to 8 weeks |
-| Complicated Intra–Abdominal2 | 500 mg | every 12 hours | 7 to 14 days |
+| Skin and Skin Structure | 500-750 mg | every 12 hours | 7 to 14 days |
+| Bone and Joint | 500-750 mg | every 12 hours | 4 to 8 weeks |
+| Complicated Intra-Abdominal2 | 500 mg | every 12 hours | 7 to 14 days |
 | Infectious Diarrhea | 500 mg | every 12 hours | 5 to 7 days |
 | Typhoid Fever | 500 mg | every 12 hours | 10 days |
 | Uncomplicated Urethral and Cervical Gonococcal Infections | 250 mg | single dose | single dose |
-| Inhalational anthrax (postexposure)3 | 500 mg | every 12 hours | 60 days |
-| Plague3 | 500–750 mg | every 12 hours | 14 days |
+| Inhalational anthrax (post-exposure)3 | 500 mg | every 12 hours | 60 days |
+| Plague3 | 500-750 mg | every 12 hours | 14 days |
 | Chronic Bacterial Prostatitis | 500 mg | every 12 hours | 28 days |
-| Lower Respiratory Tract Infections | 500–750 mg | every 12 hours | 7 to 14 days |
-| Urinary Tract Infections | 250–500 mg | every 12 hours | 7 to 14 days |
+| Lower Respiratory Tract Infections | 500-750 mg | every 12 hours | 7 to 14 days |
+| Urinary Tract Infections | 250-500 mg | every 12 hours | 7 to 14 days |
 | Acute Uncomplicated Cystitis | 250 mg | every 12 hours | 3 days |
 | Acute Sinusitis | 500 mg | every 12 hours | 10 days |
 
@@ -33,13 +35,13 @@ Patients whose therapy is started with ciprofloxacin IV may be switched to cipro
 
 Table 2: Equivalent AUC Dosing Regimens
 
-| Ciprofloxacin Oral Dosage | Equivalent Ciprofloxacin IV Dosage |
+| Ciprofloxacin Tablets Oral Dosage | Equivalent Ciprofloxacin IV Dosage |
 | --- | --- |
 | 250 mg Tablet every 12 hours | 200 mg intravenous every 12 hours |
 | 500 mg Tablet every 12 hours | 400 mg intravenous every 12 hours |
 | 750 mg Tablet every 12 hours | 400 mg intravenous every 8 hours |
 
-## 2.2Dosage in Pediatric Patients
+## 2.2 Dosage in Pediatric Patients
 
 Dosing and initial route of therapy (that is, IV or oral) for cUTI or pyelonephritis should be determined by the severity of the infection.
 Ciprofloxacin tablets should be administered as described in Table 3.
@@ -57,7 +59,7 @@ Table 3: Pediatric Dosage Guidelines
 2. Begin drug administration as soon as possible after suspected or confirmed exposure.
 3. Begin drug administration as soon as possible after suspected or confirmed exposure to Y. pestis.
 
-## 2.3Dosage Modifications in Patients with Renal Impairment
+## 2.3 Dosage Modifications in Patients with Renal Impairment
 
 Ciprofloxacin is eliminated primarily by renal excretion; however, the drug is also metabolized and partially cleared through the biliary system of the liver and through the intestine.
 These alternative pathways of drug elimination appear to compensate for the reduced renal excretion in patients with renal impairment.
@@ -85,7 +87,7 @@ Patients should be carefully monitored.
 Pediatric patients with moderate to severe renal insufficiency were excluded from the clinical trial of cUTI and pyelonephritis.
 No information is available on dosing adjustments necessary for pediatric patients with moderate to severe renal insufficiency (that is, creatinine clearance of < 50 mL/min/1.73m2).
 
-## 2.4Important Administration Instructions
+## 2.4 Important Administration Instructions
 
 With Multivalent Cations
 

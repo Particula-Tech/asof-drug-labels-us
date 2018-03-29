@@ -1,4 +1,4 @@
-# 10OVERDOSAGE
+# 10 OVERDOSAGE
 
 In the event of acute overdosage, reversible renal toxicity has been reported in some cases.
 Empty the stomach by inducing vomiting or by gastric lavage.

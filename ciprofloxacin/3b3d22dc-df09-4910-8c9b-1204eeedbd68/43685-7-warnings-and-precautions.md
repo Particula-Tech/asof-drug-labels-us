@@ -1,6 +1,6 @@
-# 5WARNINGS AND PRECAUTIONS
+# 5 WARNINGS AND PRECAUTIONS
 
-## 5.1Disabling and Potentially Irreversible Serious Adverse Reactions Including Tendinitis and Tendon Rupture, Peripheral Neuropathy, and Central Nervous System Effects
+## 5.1 Disabling and Potentially Irreversible Serious Adverse Reactions Including Tendinitis and Tendon Rupture, Peripheral Neuropathy, and Central Nervous System Effects
 
 Fluoroquinolones, including ciprofloxacin tablets have been associated with disabling and potentially irreversible serious adverse reactions from different body systems that can occur together in the same patient.
 Commonly seen adverse reactions include tendinitis, tendon rupture, arthralgia, myalgia, peripheral neuropathy, and central nervous system effects (hallucinations, anxiety, depression, insomnia, severe headaches, and confusion).
@@ -10,9 +10,9 @@ Patients of any age or without pre-existing risk factors have experienced these 
 Discontinue ciprofloxacin tablets immediately at the first signs or symptoms of any serious adverse reaction.
 In addition, avoid the use of fluoroquinolones, including ciprofloxacin tablets in patients who have experienced any of these serious adverse reactions associated with fluoroquinolones.
 
-## 5.2Tendinitis and Tendon Rupture
+## 5.2 Tendinitis and Tendon Rupture
 
-Fluoroquinolones, including ciprofloxacin tablets are associated with an increased risk of tendinitis and tendon rupture in all ages [see Warnings and Precautions (5.1) and Adverse Reactions (6.2)].
+Fluoroquinolones, including ciprofloxacin tablets have been associated with an increased risk of tendinitis and tendon rupture in all ages [see Warnings and Precautions (5.1) and Adverse Reactions (6.2)].
 This adverse reaction most frequently involves the Achilles tendon, and has also been reported with the rotator cuff (the shoulder), the hand, the biceps, the thumb, and other tendons.
 Tendinitis or tendon rupture can occur, within hours or days of starting ciprofloxacin tablets or as long as several months after completion of fluoroquinolone therapy.
 Tendinitis and tendon rupture can occur bilaterally.
@@ -23,7 +23,7 @@ Tendinitis and tendon rupture have also occurred in patients taking fluoroquinol
 Discontinue ciprofloxacin tablets immediately if the patient experiences pain, swelling, inflammation or rupture of a tendon.
 Avoid fluoroquinolones, including ciprofloxacin tablets in patients who have a history of tendon disorders or have experienced tendinitis or tendon rupture [see Adverse Reactions (6.2)].
 
-## 5.3Peripheral Neuropathy
+## 5.3 Peripheral Neuropathy
 
 Fluoroquinolones, including ciprofloxacin tablets have been associated with an increased risk of peripheral neuropathy.
 Cases of sensory or sensorimotor axonal polyneuropathy affecting small and/or large axons resulting in paresthesias, hypoesthesias, dysesthesias and weakness have been reported in patients receiving fluoroquinolones, including ciprofloxacin tablets.
@@ -32,9 +32,10 @@ Symptoms may occur soon after initiation of ciprofloxacin tablets and may be irr
 Discontinue ciprofloxacin tablets immediately if the patient experiences symptoms of peripheral neuropathy including pain, burning, tingling, numbness, and/or weakness, or other alterations in sensations including light touch, pain, temperature, position sense and vibratory sensation, and/or motor strength in order to minimize the development of an irreversible condition.
 Avoid fluoroquinolones, including ciprofloxacin tablets in patients who have previously experienced peripheral neuropathy [see Adverse Reactions (6.1, 6.2)].
 
-## 5.4Central Nervous System Effects
+## 5.4 Central Nervous System Effects
 
-Fluoroquinolones, including ciprofloxacin tablets have been associated with an increased risk of central nervous system (CNS) effects, including. convulsions, increased intracranial pressure (including pseudotumor cerebri), and toxic psychosis ciprofloxacin tablets may also cause central nervous system (CNS) events including: nervousness, agitation, insomnia, anxiety, nightmares, paranoia, dizziness, confusion, tremors, hallucinations, depression, and psychotic reactions have progressed to suicidal ideations/thoughts and self-injurious behavior such as attempted or completed suicide.
+Fluoroquinolones, including ciprofloxacin tablets have been associated with an increased risk of central nervous system (CNS) effects, including: convulsions, increased intracranial pressure (including pseudotumor cerebri), and toxic psychosis.
+Ciprofloxacin tablets may also cause central nervous system (CNS) events including: nervousness, agitation, insomnia, anxiety, nightmares, paranoia, dizziness, confusion, tremors, hallucinations, depression, and psychotic reactions have progressed to suicidal ideations/thoughts and self-injurious behavior such as attempted or completed suicide.
 These reactions may occur following the first dose.
 Advise patients receiving ciprofloxacin tablets to inform their healthcare provider immediately if these reactions occur, discontinue the drug, and institute appropriate care.
 Ciprofloxacin tablets, like other fluoroquinolones, is known to trigger seizures or lower the seizure threshold.
@@ -43,13 +44,13 @@ Use ciprofloxacin tablets when the benefits of treatment exceed the risks, since
 Cases of status epilepticus have been reported.
 If seizures occur, discontinue ciprofloxacin tablets [see Adverse Reactions (6.1) and Drug Interactions (7)].
 
-## 5.5Exacerbation of Myasthenia Gravis
+## 5.5 Exacerbation of Myasthenia Gravis
 
 Fluoroquinolones, including ciprofloxacin tablets have neuromuscular blocking activity and may exacerbate muscle weakness in patients with myasthenia gravis.
 Postmarketing serious adverse reactions, including deaths and requirement for ventilatory support, have been associated with fluoroquinolone use in patients with myasthenia gravis.
 Avoid ciprofloxacin tablets in patients with known history of myasthenia gravis [see Adverse Reactions (6.2)].
 
-## 5.6Other Serious and Sometimes Fatal Adverse Reactions
+## 5.6 Other Serious and Sometimes Fatal Adverse Reactions
 
 Other serious and sometimes fatal adverse reactions, some due to hypersensitivity, and some due to uncertain etiology, have been reported in patients receiving therapy with quinolones, including ciprofloxacin tablets.
 These events may be severe and generally occur following the administration of multiple doses.
@@ -64,14 +65,14 @@ Clinical manifestations may include one or more of the following:
 
 Discontinued ciprofloxacin tablets immediately at the first appearance of a skin rash, jaundice, or any other sign of hypersensitivity and supportive measures instituted [see Adverse Reactions (6.1, 6.2)].
 
-## 5.7Hypersensitivity Reactions
+## 5.7 Hypersensitivity Reactions
 
 Serious and occasionally fatal hypersensitivity (anaphylactic) reactions, some following the first dose, have been reported in patients receiving fluoroquinolone therapy including ciprofloxacin tablets.
 Some reactions were accompanied by cardiovascular collapse, loss of consciousness, tingling, pharyngeal or facial edema, dyspnea, urticaria, and itching.
 Only a few patients had a history of hypersensitivity reactions.
 Serious anaphylactic reactions require immediate emergency treatment with epinephrine and other resuscitation measures, including oxygen, intravenous fluids, intravenous antihistamines, corticosteroids, pressor amines, and airway management, including intubation, as indicated [see Adverse Reactions (6.1)].
 
-## 5.8Hepatotoxicity
+## 5.8 Hepatotoxicity
 
 Cases of severe hepatotoxicity, including hepatic necrosis, life-threatening hepatic failure, and fatal events, have been reported with ciprofloxacin tablets.
 Acute liver injury is rapid in onset (range 1-39 days), and is often associated with hypersensitivity.
@@ -81,7 +82,7 @@ In the event of any signs and symptoms of hepatitis (such as anorexia, jaundice,
 
 There can be a temporary increase in transaminases, alkaline phosphatase, or cholestatic jaundice, especially in patients with previous liver damage, who are treated with ciprofloxacin tablets [see Adverse Reactions (6.2, 6.3)].
 
-## 5.9Serious Adverse Reactions with Concomitant Theophylline
+## 5.9 Serious Adverse Reactions with Concomitant Theophylline
 
 Serious and fatal reactions have been reported in patients receiving concurrent administration of ciprofloxacin tablets and theophylline.
 These reactions have included cardiac arrest, seizure, status epilepticus, and respiratory failure.
@@ -90,7 +91,7 @@ Instances of nausea, vomiting, tremor, irritability, or palpitation have also oc
 Although similar serious adverse effects have been reported in patients receiving theophylline alone, the possibility that these reactions may be potentiated by ciprofloxacin tablets cannot be eliminated.
 If concomitant use cannot be avoided, monitor serum levels of theophylline and adjust dosage as appropriate [see Drug Interactions (7)].
 
-## 5.10Clostridium difficile-Associated Diarrhea
+## 5.10 Clostridium difficile-Associated Diarrhea
 
 Clostridium difficile (C. difficile)-associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including ciprofloxacin tablets and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
@@ -103,7 +104,7 @@ Careful medical history is necessary since CDAD has been reported to occur over 
 If CDAD is suspected or confirmed, ongoing antibacterial use not directed against C. difficile may need to be discontinued.
 Appropriate fluid and electrolyte management, protein supplementation, antibacterial treatment of C. difficile, and institute surgical evaluation as clinically indicated [see Adverse Reactions (6.1)].
 
-## 5.11Prolongation of the QT Interval
+## 5.11 Prolongation of the QT Interval
 
 Some fluoroquinolones, including ciprofloxacin tablets have been associated with prolongation of the QT interval on the electrocardiogram and cases of arrhythmia.
 Cases of torsade de pointes have been reported during postmarketing surveillance in patients receiving fluoroquinolones, including ciprofloxacin tablets.
@@ -111,7 +112,7 @@ Cases of torsade de pointes have been reported during postmarketing surveillance
 Avoid ciprofloxacin tablets in patients with known prolongation of the QT interval, risk factors for QT prolongation or torsade de pointes (for example, congenital long QT syndrome, uncorrected electrolyte imbalance, such as hypokalemia or hypomagnesemia and cardiac disease, such as heart failure, myocardial infarction, or bradycardia), and patients receiving Class IA antiarrhythmic agents (quinidine, procainamide), or Class III antiarrhythmic agents (amiodarone, sotalol), tricyclic antidepressants, macrolides, and antipsychotics.
 Elderly patients may also be more susceptible to drug-associated effects on the QT interval [see Adverse Reactions (6.2), Use in Specific Populations (8.5)].
 
-## 5.12Musculoskeletal Disorders in Pediatric Patients and Arthropathic Effects in Animals
+## 5.12 Musculoskeletal Disorders in Pediatric Patients and Arthropathic Effects in Animals
 
 Ciprofloxacin tablets is indicated in pediatric patients (less than 18 years of age) only for cUTI, prevention of inhalational anthrax (post exposure), and plague [see Indications and Usage (1.7, 1.8, 1.11)].
 An increased incidence of adverse reactions compared to controls, including reactions related to joints and/or surrounding tissues, has been observed [see Adverse Reactions (6.1)].
@@ -120,29 +121,29 @@ In pre-clinical studies, oral administration of ciprofloxacin tablets caused lam
 Histopathological examination of the weight-bearing joints of these dogs revealed permanent lesions of the cartilage.
 Related quinolone-class drugs also produce erosions of cartilage of weight-bearing joints and other signs of arthropathy in immature animals of various species [see Use in Specific Populations (8.4) and Nonclinical Toxicology (13.2)].
 
-## 5.13Photosensitivity/Phototoxicity
+## 5.13 Photosensitivity/Phototoxicity
 
 Moderate to severe photosensitivity/phototoxicity reactions, the latter of which may manifest as exaggerated sunburn reactions (for example, burning, erythema, exudation, vesicles, blistering, edema) involving areas exposed to light (typically the face, “V” area of the neck, extensor surfaces of the forearms, dorsa of the hands), can be associated with the use of quinolones including ciprofloxacin tablets after sun or UV light exposure.
 Therefore, avoid excessive exposure to these sources of light.
-Discontinue ciprofloxacin tablets if phototoxicity occurs [see Adverse Reactions (6.1).
+Discontinue ciprofloxacin tablets if phototoxicity occurs [see Adverse Reactions (6.1)].
 
-## 5.14Development of Drug Resistant Bacteria
+## 5.14 Development of Drug Resistant Bacteria
 
 Prescribing ciprofloxacin tablets in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 
-## 5.15Potential Risks with Concomitant Use of Drugs Metabolized by Cytochrome P450 1A2 Enzymes
+## 5.15 Potential Risks with Concomitant Use of Drugs Metabolized by Cytochrome P450 1A2 Enzymes
 
 Ciprofloxacin tablets are an inhibitor of the hepatic CYP1A2 enzyme pathway.
-Co-administration of ciprofloxacin tablets and other drugs primarily metabolized by CYP1A2 (for example, theophylline, methylxanthines, caffeine, tizanidine, ropinirole, clozapine, olanzapine) results in increased plasma concentrations of the co-administered drug and could lead to clinically significant pharmacodynamic adverse reactions of the co-administered drug [See Drug Interactions (7) and Clinical Pharmacology (12.3)].
+Co-administration of ciprofloxacin tablets and other drugs primarily metabolized by CYP1A2 (for example, theophylline, methylxanthines, caffeine, tizanidine, ropinirole, clozapine, olanzapine and zolpidem) results in increased plasma concentrations of the co-administered drug and could lead to clinically significant pharmacodynamic adverse reactions of the co-administered drug [See Drug Interactions (7) and Clinical Pharmacology (12.3)].
 
-## 5.16Interference with Timely Diagnosis of Syphilis
+## 5.16 Interference with Timely Diagnosis of Syphilis
 
 Ciprofloxacin tablets have not been shown to be effective in the treatment of syphilis.
 Antimicrobial agents used in high dose for short periods of time to treat gonorrhea may mask or delay the symptoms of incubating syphilis.
 Perform a serologic test for syphilis in all patients with gonorrhea at the time of diagnosis.
 Perform follow-up serologic test for syphilis three months after ciprofloxacin tablets treatment.
 
-## 5.17Crystalluria
+## 5.17 Crystalluria
 
 Crystals of ciprofloxacin have been observed rarely in the urine of human subjects but more frequently in the urine of laboratory animals, which is usually alkaline [see Nonclinical Toxicology (13.2)].
 Crystalluria related to ciprofloxacin tablets has been reported only rarely in humans because human urine is usually acidic.

@@ -1,4 +1,4 @@
-# 1INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
 ## 1.1 Skin and Skin Structure Infections
 
@@ -33,7 +33,7 @@ Ciprofloxacin tablets, USP are indicated in adults and pediatric patients from b
 
 Ciprofloxacin serum concentrations achieved in humans served as a surrogate endpoint reasonably likely to predict clinical benefit and provided the initial basis for approval of this indication.1 Supportive clinical information for ciprofloxacin for anthrax post-exposure prophylaxis was obtained during the anthrax bioterror attacks of October 2001 [see Clinical Studies (14.2)].
 
-## 1.8Plague
+## 1.8 Plague
 
 Ciprofloxacin tablets, USP are indicated for treatment of plague, including pneumonic and septicemic plague, due to Yersinia pestis (Y. pestis) and prophylaxis for plague in adults and pediatric patients from birth to 17 years of age.
 Efficacy studies of ciprofloxacin could not be conducted in humans with plague for feasibility reasons.
@@ -43,15 +43,15 @@ Therefore this indication is based on an efficacy study conducted in animals onl
 
 Ciprofloxacin tablets, USP are indicated in adult patients for treatment of chronic bacterial prostatitis caused by Escherichia coli or Proteus mirabilis.
 
-## 1.10Lower Respiratory Tract Infections
+## 1.10 Lower Respiratory Tract Infections
 
 Ciprofloxacin tablets, USP are indicated in adult patients for treatment of lower respiratory tract infections caused by Escherichia coli, Klebsiella pneumoniae, Enterobacter cloacae, Proteus mirabilis, Pseudomonas aeruginosa, Haemophilus influenzae, Haemophilus parainfluenzae, or Streptococcus pneumoniae.
 
-Ciprofloxacin tablets, USP are not a drug of first choice in the treatment of presumed or confirmed pneumonia secondary to Streptococcus pneumonia.
+Ciprofloxacin tablets, USP are not a drug of first choice in the treatment of presumed or confirmed pneumonia secondary to Streptococcus pneumoniae.
 
 Ciprofloxacin tablets, USP are indicated for the treatment of acute exacerbations of chronic bronchitis (AECB) caused by Moraxella catarrhalis.
 
-Because fluoroquinolones, including ciprofloxacin tablets, USP have been associated with serious adverse reactions [see Warnings and Precautions (5.1–5.15)] and for some patients AECB is self-limiting, reserve ciprofloxacin tablets, USP for treatment of AECB in patients who have no alternative treatment options.
+Because fluoroquinolones, including ciprofloxacin tablets, USP, have been associated with serious adverse reactions [see Warnings and Precautions (5.1–5.15)] and for some patients AECB is self-limiting, reserve ciprofloxacin tablets, USP for treatment of AECB in patients who have no alternative treatment options.
 
 ## 1.11 Urinary Tract Infections
 
@@ -70,7 +70,7 @@ Complicated Urinary Tract Infection and Pyelonephritis in Pediatric Patients
 Ciprofloxacin tablets, USP are indicated in pediatric patients aged one to 17 years of age for treatment of complicated urinary tract infections (cUTI) and pyelonephritis due to Escherichia coli [see Use in Specific Populations (8.4)].
 
 Although effective in clinical trials, ciprofloxacin tablets, USP are not a drug of first choice in the pediatric population due to an increased incidence of adverse reactions compared to controls, including reactions related to joints and/or surrounding tissues.
-Ciprofloxacin tablets, USP like other fluoroquinolones, is associated with arthropathy and histopathological changes in weight-bearing joints of juvenile animals [see Warnings and Precautions (5.12), Adverse Reactions (6.1), Use in Specific Populations (8.4) and Nonclinical Toxicology (13.2)].
+Ciprofloxacin tablets, USP, like other fluoroquinolones, is associated with arthropathy and histopathological changes in weight-bearing joints of juvenile animals [see Warnings and Precautions (5.12), Adverse Reactions (6.1), Use in Specific Populations (8.4) and Nonclinical Toxicology (13.2)].
 
 ## 1.12 Acute Sinusitis
 

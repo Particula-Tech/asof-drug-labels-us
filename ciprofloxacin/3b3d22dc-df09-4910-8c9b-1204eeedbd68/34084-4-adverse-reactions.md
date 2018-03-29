@@ -1,9 +1,9 @@
-# 6ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
 The following serious and otherwise important adverse drug reactions are discussed in greater detail in other sections of labeling:
 
 - Disabling and Potentially Irreversible Serious Adverse Reactions [see Warnings and Precautions (5.1)]
-- Tendinitis and Tendon Rupture [see Warnings and Precautions (5.2)]
+- Tendinitis and Tendon Rupture [seeWarnings and Precautions (5.2)]
 - Peripheral Neuropathy [see Warnings and Precautions (5.3)]
 - Central Nervous System Effects [see Warnings and Precautions (5.4)]
 - Exacerbation of Myasthenia Gravis [see Warnings and Precautions (5.5)]
@@ -17,7 +17,7 @@ The following serious and otherwise important adverse drug reactions are discuss
 - Photosensitivity/Phototoxicity [see Warnings and Precautions (5.13)]
 - Development of Drug Resistant Bacteria [see Warnings and Precautions (5.14)]
 
-## 6.1Clinical Trials Experience
+## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
@@ -27,13 +27,13 @@ During clinical investigations with oral and parenteral ciprofloxacin 49,038 pat
 
 The most frequently reported adverse reactions, from clinical trials of all formulations, all dosages, all drug-therapy durations, and for all indications of ciprofloxacin therapy were nausea (2.5%), diarrhea (1.6%), liver function tests abnormal (1.3%), vomiting (1%), and rash (1%).
 
-Table 6: Medically Important Adverse Reactions That Occurred In less than 1% of Ciprofloxacin Patients
+Table 8: Medically Important Adverse Reactions That Occurred In less than 1% of Ciprofloxacin Patients
 
 | System Organ Class | Adverse Reactions |
 | --- | --- |
 | Body as a Whole | Headache Abdominal Pain/Discomfort Pain |
 | Cardiovascular | Syncope Angina Pectoris Myocardial Infarction Cardiopulmonary Arrest Tachycardia Hypotension |
-| Central Nervous System | Restlessness Dizziness Insomnia Nightmares Hallucinations Paranoia Psychosis (toxic) Manic Reaction Irritability Tremor Ataxia Seizures (including Status Epilepticus) Malaise Anorexia Phobia Depersonalization Depression (potentially culminating in self-injurious behavior (such as suicidal ideations/thoughts and attempted or completed suicide) Paresthesia Abnormal Gait Migraine |
+| Central Nervous System | Restlessness Dizziness Insomnia Nightmares Hallucinations Paranoia Psychosis (toxic) Manic Reaction Irritability Tremor Ataxia Seizures (including Status Epilepticus) Malaise Anorexia Phobia Depersonalization Depression (potentially culminating in self-injurious behavior such as suicidal ideations/thoughts and attempted or completed suicide) Paresthesia Abnormal Gait Migraine |
 | Gastrointestinal | Intestinal Perforation Gastrointestinal Bleeding Cholestatic Jaundice Hepatitis Pancreatitis |
 | Hemic/Lymphatic | Petechia |
 | Metabolic/Nutritional | Hyperglycemia Hypoglycemia |
@@ -57,11 +57,11 @@ All musculoskeletal adverse reactions occurring by 6 weeks resolved (clinical re
 Radiological evaluations were not routinely used to confirm resolution of the adverse reactions.
 Ciprofloxacin-treated patients were more likely to report more than one adverse reaction and on more than one occasion compared to control patients.
 The rate of musculoskeletal adverse reactions was consistently higher in the ciprofloxacin group compared to the control group across all age subgroups.
-At the end of 1 year, the rate of these adverse reactions reported at any time during that period was 13.7% (46/335) in the ciprofloxacin-treated group versus 9.5% (33/349) in the comparator-treated patients (Table 7).
+At the end of 1 year, the rate of these adverse reactions reported at any time during that period was 13.7% (46/335) in the ciprofloxacin-treated group versus 9.5% (33/349) in the comparator-treated patients (Table 9).
 
-Table 7: Musculoskeletal Adverse Reactions1 as Assessed by the IPSC
+Table 9: Musculoskeletal Adverse Reactions1 as Assessed by the IPSC
 
-|  | Ciprofloxacin Tablets | Comparator |  |
+|  | Ciprofloxacin | Comparator |  |
 | --- | --- | --- | --- |
 | All Patients (within 6 weeks) | 31/335 (9.3%) | 21/349 (6%) |  |
 | 95% Confidence Interval2 | (-0.8%, +7.2%) |  |  |
@@ -97,12 +97,12 @@ The efficacy of ciprofloxacin tablets for the treatment of acute pulmonary exace
 
 In addition to the adverse reactions reported in pediatric patients in clinical trials, it should be expected that adverse reactions reported in adults during clinical trials or postmarketing experience may also occur in pediatric patients.
 
-## 6.2Postmarketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been reported from worldwide marketing experience with fluoroquinolones, including ciprofloxacin tablets.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure (Table 8).
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure (Table 10).
 
-Table 8: Postmarketing Reports of Adverse Drug Reactions
+Table 10: Postmarketing Reports of Adverse Drug Reactions
 
 | System Organ Class | Adverse Reactions |
 | --- | --- |
@@ -110,7 +110,7 @@ Table 8: Postmarketing Reports of Adverse Drug Reactions
 | Central Nervous System | Hypertonia Myasthenia Exacerbation of myasthenia gravis Peripheral neuropathy Polyneuropathy Twitching |
 | Eye Disorders | Nystagmus |
 | Gastrointestinal | Pseudomembranous colitis |
-| Hemic/Lymphatic | Pancytopenia (life threatening or fatal outcome) Methemoglobinemia |
+| Hemic/Lymphatic | Pancytopenia (life-threatening or fatal outcome) Methemoglobinemia |
 | Hepatobiliary | Hepatic failure (including fatal cases) |
 | Infections and Infestations | Candidiasis (oral, gastrointestinal, vaginal) |
 | Investigations | Prothrombin time prolongation or decrease Cholesterol elevation (serum) Potassium elevation (serum) |
@@ -119,7 +119,7 @@ Table 8: Postmarketing Reports of Adverse Drug Reactions
 | Skin/Hypersensitivity | Acute generalize exanthematous pustulosis (AGEP) Fixed eruption Serum sickness-like reaction |
 | Special Senses | Anosmia Hyperesthesia Hypesthesia Taste loss |
 
-## 6.3Adverse Laboratory Changes
+## 6.3 Adverse Laboratory Changes
 
 Changes in laboratory parameters while on ciprofloxacin tablets are listed below:
 

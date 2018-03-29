@@ -1,6 +1,6 @@
-# 8USE IN SPECIFIC POPULATIONS
+# 8 USE IN SPECIFIC POPULATIONS
 
-## 8.1Pregnancy
+## 8.1 Pregnancy
 
 Pregnancy Category C
 
@@ -23,35 +23,35 @@ Reproduction studies have been performed in rats and mice using oral doses up to
 In rabbits, oral ciprofloxacin dose levels of 30 and 100 mg/kg (approximately 0.4-and 1.3-times the highest recommended therapeutic dose based upon body surface area) produced gastrointestinal toxicity resulting in maternal weight loss and an increased incidence of abortion, but no teratogenicity was observed at either dose level.
 After intravenous administration of doses up to 20 mg/kg (approximately 0.3-times the highest recommended therapeutic dose based upon body surface area), no maternal toxicity was produced and no embryotoxicity or teratogenicity was observed.
 
-## 8.3Nursing Mothers
+## 8.3 Nursing Mothers
 
 Ciprofloxacin is excreted in human milk.
 The amount of ciprofloxacin absorbed by the nursing infant is unknown.
 Because of the potential risk of serious adverse reactions (including articular damage) in infants nursing from mothers taking ciprofloxacin tablets a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 
-## 8.4Pediatric Use
+## 8.4 Pediatric Use
 
-Although effective in clinical trials, ciprofloxacin tablets is not a drug of first choice in the pediatric population due to an increased incidence of adverse reactions compared to controls.
-Quinolones, including ciprofloxacin tablets cause arthropathy in juvenile animals [see Warnings and Precautions (5.12) and Nonclinical Toxicology (13.2)].
+Although effective in clinical trials, ciprofloxacin tablets are not a drug of first choice in the pediatric population due to an increased incidence of adverse reactions compared to controls.
+Quinolones, including ciprofloxacin tablets, cause arthropathy (arthralgia, arthritis) in juvenile animals [see Warnings and Precautions (5.12) and Nonclinical Toxicology (13.2)].
 
 Complicated Urinary Tract Infection and Pyelonephritis
 
 Ciprofloxacin tablets are indicated for the treatment of cUTI and pyelonephritis due to Escherichia coli in pediatric patients 1 to 17 years of age.
-Although effective in clinical trials, ciprofloxacin tablets is not a drug of first choice in the pediatric population due to an increased incidence of adverse reactions compared to the controls, including events related to joints and/or surrounding tissues [see Adverse Reactions (6.1) and Clinical Studies (14.1)].
+Although effective in clinical trials, ciprofloxacin tablets are not a drug of first choice in the pediatric population due to an increased incidence of adverse reactions compared to the controls, including events related to joints and/or surrounding tissues [see Adverse Reactions (6.1) and Clinical Studies (14.1)].
 
 Inhalational Anthrax (Post-Exposure)
 
-Ciprofloxacin tablets is indicated in pediatric patients from birth to 17 years of age, for inhalational anthrax (post-exposure).
+Ciprofloxacin tablets are indicated in pediatric patients from birth to 17 years of age, for inhalational anthrax (post-exposure).
 The risk-benefit assessment indicates that administration of ciprofloxacin to pediatric patients is appropriate [see Dosage and Administration (2.2) and Clinical Studies (14.2)].
 
 Plague
 
-Ciprofloxacin tablets is indicated in pediatric patients from birth to 17 years of age, for treatment of plague, including pneumonic and septicemic plague due to Yersinia pestis (Y. pestis) and prophylaxis for plague.
+Ciprofloxacin tablets are indicated in pediatric patients from birth to 17 years of age, for treatment of plague, including pneumonic and septicemic plague due to Yersinia pestis (Y. pestis) and prophylaxis for plague.
 Efficacy studies of ciprofloxacin tablets could not be conducted in humans with pneumonic plague for feasibility reasons.
 Therefore, approval of this indication was based on an efficacy study conducted in animals.
 The risk-benefit assessment indicates that administration of ciprofloxacin tablets to pediatric patients is appropriate [see Indications and Usage (1.8), Dosage and Administration (2.2) and Clinical Studies (14.3)].
 
-## 8.5Geriatric Use
+## 8.5 Geriatric Use
 
 Geriatric patients are at increased risk for developing severe tendon disorders including tendon rupture when being treated with a fluoroquinolone such as ciprofloxacin tablets.
 This risk is further increased in patients receiving concomitant corticosteroid therapy.
@@ -68,13 +68,13 @@ However, since some older individuals experience reduced renal function by virtu
 In general, elderly patients may be more susceptible to drug-associated effects on the QT interval.
 Therefore, precaution should be taken when using ciprofloxacin tablets with concomitant drugs that can result in prolongation of the QT interval (for example, class IA or class III antiarrhythmics) or in patients with risk factors for torsade de pointes (for example, known QT prolongation, uncorrected hypokalemia) [see Warnings and Precautions (5.11)].
 
-## 8.6Renal Impairment
+## 8.6 Renal Impairment
 
 Ciprofloxacin is eliminated primarily by renal excretion; however, the drug is also metabolized and partially cleared through the biliary system of the liver and through the intestine.
 These alternative pathways of drug elimination appear to compensate for the reduced renal excretion in patients with renal impairment.
 Nonetheless, some modification of dosage is recommended, particularly for patients with severe renal dysfunction [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
 
-## 8.7Hepatic Impairment
+## 8.7 Hepatic Impairment
 
 In preliminary studies in patients with stable chronic liver cirrhosis, no significant changes in ciprofloxacin pharmacokinetics have been observed.
 The pharmacokinetics of ciprofloxacin in patients with acute hepatic insufficiency, have not been studied.

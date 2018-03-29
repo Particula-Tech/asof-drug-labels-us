@@ -1,11 +1,5 @@
-Principal Display Panel
+NDC 0143-9927-01 Ciprofloxacin Tablets, USP 250 mg 100 Tablets Rx Only
 
-Ciprofloxacin Tablets, USP 250 mg/100 Tablets NDC # 0143-9927-01
+NDC 0143-9928-05 Ciprofloxacin Tablets, USP 500 mg 500 Tablets Rx Only
 
-Principal Display Panel
-
-Ciprofloxacin Tablets, USP 500 mg/100 Tablets NDC# 0143-9928-01
-
-Principal Display Panel
-
-Ciprofloxacin Tablets, USP 750 mg/100 Tablets NDC# 0143-9929-01
+NDC 0143-9929-01 Ciprofloxacin Tablets, USP 750 mg 100 Tablets Rx Only

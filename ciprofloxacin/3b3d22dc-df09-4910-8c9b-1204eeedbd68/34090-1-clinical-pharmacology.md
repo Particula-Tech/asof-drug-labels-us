@@ -1,17 +1,17 @@
-# 12CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-## 12.1Mechanism of Action
+## 12.1 Mechanism of Action
 
 Ciprofloxacin is a member of the fluoroquinolone class of antibacterial agents [see Microbiology (12.4)].
 
-## 12.3Pharmacokinetics
+## 12.3 Pharmacokinetics
 
 Absorption The absolute bioavailability of ciprofloxacin when given as an oral tablet is approximately 70% with no substantial loss by first pass metabolism.
-Ciprofloxacin maximum serum concentrations and area under the curve are shown in the chart for the 250 mg to 1000 mg dose range (Table 10).
+Ciprofloxacin maximum serum concentrations (Cmax) and area under the curve (AUC) are shown in the chart for the 250 mg to 1000 mg dose range (Table 12).
 
-Table 10: Maximum Serum Concentrations and Areas Under the Curve
+Table 12: Ciprofloxacin Cmax and AUC Following Administration of Single Doses of Ciprofloxacin Tablets to Healthy Subjects
 
-| Dose (mg) | Maximum Serum Concentration (mcg/mL) | Area Under Curve (AUC) (mcg•hr/mL) |
+| Dose (mg) | Cmax (mcg/mL) | AUC (mcg•hr/mL) |
 | --- | --- | --- |
 | 250 | 1.2 | 4.8 |
 | 500 | 2.4 | 11.6 |
@@ -23,12 +23,12 @@ Mean concentrations 12 hours after dosing with 250, 500, or 750 mg are 0.1, 0.2,
 The serum elimination half-life in subjects with normal renal function is approximately 4 hours.
 Serum concentrations increase proportionately with doses up to 1000 mg.
 
-A 500 mg oral dose given every 12 hours has been shown to produce an area under the serum concentration time curve (AUC) equivalent to that produced by an intravenous infusion of 400 mg ciprofloxacin given over 60 minutes every 12 hours.
+A 500 mg oral dose given every 12 hours has been shown to produce an AUC equivalent to that produced by an intravenous infusion of 400 mg ciprofloxacin given over 60 minutes every 12 hours.
 A 750 mg oral dose given every 12 hours has been shown to produce an AUC at steady-state equivalent to that produced by an intravenous infusion of 400 mg given over 60 minutes every 8 hours.
 A 750 mg oral dose results in a Cmax similar to that observed with a 400 mg intravenous dose.
-A 250 mg oral dose given every 12 hours produces an AUC equivalent to that produced by an infusion of 200 mg ciprofloxacin given every 12 hours (Table 11)
+A 250 mg oral dose given every 12 hours produces an AUC equivalent to that produced by an infusion of 200 mg ciprofloxacin given every 12 hours (Table 13)
 
-Table 11: Steady-state Pharmacokinetic Parameters Following Multiple Oral and IV Doses
+Table 13: Steady-state Cmax and AUC of Ciprofloxacin Following Administration of Multiple Oral and IV Ciprofloxacin Doses to Healthy Subjects
 
 | Parameters | 500 mg | 400 mg | 750 mg | 400 mg |
 | --- | --- | --- | --- | --- |
@@ -36,20 +36,17 @@ Table 11: Steady-state Pharmacokinetic Parameters Following Multiple Oral and IV
 | AUC (mcg•hr/mL) | 13.71 | 12.71 | 31.62 | 32.93 |
 | Cmax (mcg/mL) | 2.97 | 4.56 | 3.59 | 4.07 |
 
-1.
-AUC 0–12h
+1.AUC0–12h
 
-2.
-AUC 24h = AUC 0–12h x 2
+2.AUC24h=AUC0–12hx2
 
 3.
-AUC 24h = AUC 0–8h x 3
+AUC24h=AUC0–8hx3
 
 Food
 
 When ciprofloxacin tablets are given concomitantly with food, there is a delay in the absorption of the drug, resulting in peak concentrations that occur closer to 2 hours after dosing rather than 1 hour.
 The overall absorption of ciprofloxacin tablets, however, is not substantially affected.
-The pharmacokinetics of ciprofloxacin given as the suspension are also not affected by food.
 Avoid concomitant administration of ciprofloxacin tablets with dairy products (like milk or yogurt) or calcium-fortified juices alone since decreased absorption is possible; however, ciprofloxacin tablets may be taken with a meal that contains these products
 
 Distribution
@@ -153,7 +150,7 @@ In clinical studies it was demonstrated that concomitant use of duloxetine with 
 
 Lidocaine
 
-In a study conducted in 9 healthy volunteers, concomitant use of 1.5 mg/kg IV lidocaine with ciprofloxacin 500 mg twice daily resulted in an increase of lidocaine Cmax and AUC by 12% and 26%, respectively.
+In a study conducted in 9 healthy volunteers, concomitant use of 1.5 mg/kg IV lidocaine with ciprofloxacin tablets 500 mg twice daily resulted in an increase of lidocaine Cmax and AUC by 12% and 26%, respectively.
 Although lidocaine treatment was well tolerated at this elevated exposure, a possible interaction with ciprofloxacin tablets and an increase in adverse reactions related to lidocaine may occur upon concomitant administration.
 
 Metoclopramide Metoclopramide significantly accelerates the absorption of oral ciprofloxacin resulting in a shorter time to reach maximum plasma concentrations.
@@ -162,7 +159,7 @@ No significant effect was observed on the bioavailability of ciprofloxacin.
 Omeprazole When ciprofloxacin tablets was administered as a single 1000 mg dose concomitantly with omeprazole (40 mg once daily for three days) to 18 healthy volunteers, the mean AUC and Cmax of ciprofloxacin were reduced by 20% and 23%, respectively.
 The clinical significance of this interaction has not been determined.
 
-## 12.4Microbiology
+## 12.4 Microbiology
 
 Mechanism of Action
 
@@ -183,7 +180,7 @@ Ciprofloxacin has been shown to be active against most isolates of the following
 
 Gram-positive bacteria Bacillus anthracis Enterococcus faecalis Staphylococcus aureus (methicillin-susceptible isolates only) Staphylococcus epidermidis (methicillin-susceptible isolates only) Staphylococcus saprophyticus Streptococcus pneumoniae Streptococcus pyogenes
 
-Gram-negative bacteria Campylobacter jejuni Citrobacter koseri Citrobacter freundii Enterobacter cloacae Escherichia coli Haemophilus influenza Haemophilus parainfluenzae Klebsiella pneumonia Moraxella catarrhalis Morganella morganii Neisseria gonorrhoeae Proteus mirabilis Proteus vulgaris Providencia rettgeri Providencia stuartii Pseudomonas aeruginosa Salmonella typhi Serratia marcescens Shigella boydii Shigella dysenteriae Shigella flexneri Shigella sonnei Yersinia pestis
+Gram-negative bacteria Campylobacter jejuni Citrobacter koseri Citrobacter freundii Enterobacter cloacae Escherichia coli Haemophilus influenza Haemophilus parainfluenzae Klebsiella pneumoniae Moraxella catarrhalis Morganella morganii Neisseria gonorrhoeae Proteus mirabilis Proteus vulgaris Providencia rettgeri Providencia stuartii Pseudomonas aeruginosa Salmonella typhi Serratia marcescens Shigella boydii Shigella dysenteriae Shigella flexneri Shigella sonnei Yersinia pestis
 
 The following in vitro data are available, but their clinical significance is unknown.
 At least 90 percent of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for ciprofloxacin (≤1 mcg/mL).
@@ -191,7 +188,7 @@ However, the efficacy of ciprofloxacin in treating clinical infections due to th
 
 Gram-positive bacteria Staphylococcus haemolyticus (methicillin-susceptible isolates only) Staphylococcus hominis (methicillin-susceptible isolates only)
 
-Gram-negative bacteria Acinetobacter lwoffi Aeromonas hydrophila Edwardsiella tarda Enterobacter aerogenes Klebsiella oxytoca Legionella pneumophila Pasteurella multocida Salmonella enteritidis Vibrio cholera Vibrio parahaemolyticus Vibrio vulnificus Yersinia enterocolitica Susceptibility
+Gram-negative bacteria Acinetobacter lwoffi Aeromonas hydrophila Edwardsiella tarda Enterobacter aerogenes Klebsiella oxytoca Legionella pneumophila Pasteurella multocida Salmonella enteritidis Vibrio cholerae Vibrio parahaemolyticus Vibrio vulnificus Yersinia enterocolitica Susceptibility
 
 Test Methods
 
@@ -202,7 +199,7 @@ Dilution Techniques
 
 Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MICs).
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
-The MICs should be determined using a standardized test method (broth and/or agar).5,6,7 The MIC values should be interpreted according to criteria provided in Table 12.
+The MICs should be determined using a standardized test method (broth and/or agar).5,6,7 The MIC values should be interpreted according to criteria provided in Table 14.
 
 Diffusion Techniques
 
@@ -210,9 +207,9 @@ Quantitative methods that require measurement of zone diameters can also provide
 The zone size provides an estimate of the susceptibility of bacteria to antimicrobial compounds.
 The zone size should be determined using a standardized test method.
 6,7,8 This procedure uses paper disks impregnated with 5 mcg ciprofloxacin to test the susceptibility of bacteria to ciprofloxacin.
-The disc diffusion interpretive criteria are provided in Table 12.
+The disc diffusion interpretive criteria are provided in Table 14.
 
-Table 12: Susceptibility Test Interpretive Criteria for Ciprofloxacin
+Table 14: Susceptibility Test Interpretive Criteria for Ciprofloxacin
 
 |  | MIC (mcg/ mL) |  |  | Zone Diameter (mm) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -246,10 +243,10 @@ A report of “Resistant” indicates that the antimicrobial is not likely to in
 Quality Control:
 
 Standardized susceptibility test procedures require the use of laboratory controls to monitor the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test.
-5,6,7,8 Standard ciprofloxacin powder should provide the following range of MIC values noted in Table 13.
-For the diffusion technique using the ciprofloxacin 5 mcg disk the criteria in Table 13 should be achieved.
+5,6,7,8 Standard ciprofloxacin powder should provide the following range of MIC values noted in Table 15.
+For the diffusion technique using the ciprofloxacin 5 mcg disk the criteria in Table 15 should be achieved.
 
-Table 13: Acceptable Quality Control Ranges for Ciprofloxacin
+Table 15: Acceptable Quality Control Ranges for Ciprofloxacin
 
 | Bacteria | MIC range (mcg/mL) | Zone Diameter (mm) |
 | --- | --- | --- |

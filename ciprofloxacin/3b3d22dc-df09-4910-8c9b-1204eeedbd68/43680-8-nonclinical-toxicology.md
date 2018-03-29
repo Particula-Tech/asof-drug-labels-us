@@ -1,6 +1,6 @@
-# 13NONCLINICAL TOXICOLOGY
+# 13 NONCLINICAL TOXICOLOGY
 
-## 13.1Carcinogenesis, Mutagenesis, Impairment of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Eight in vitro mutagenicity tests have been conducted with ciprofloxacin tablets and the test results are listed below:
 
@@ -30,7 +30,7 @@ The clinical significance of these findings to humans is unknown.
 
 Fertility studies performed in rats at oral doses of ciprofloxacin tablets up to 100 mg/kg (approximately 0.7-times the highest recommended therapeutic dose based upon body surface area) revealed no evidence of impairment.
 
-## 13.2Animal Toxicology and/or Pharmacology
+## 13.2 Animal Toxicology and/or Pharmacology
 
 Ciprofloxacin and other quinolones have been shown to cause arthropathy in immature animals of most species tested [see Warnings and Precautions (5.12)].
 Damage of weight bearing joints was observed in juvenile dogs and rats.
