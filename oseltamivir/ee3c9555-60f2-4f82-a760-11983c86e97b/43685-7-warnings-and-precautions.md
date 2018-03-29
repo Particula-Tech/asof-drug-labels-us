@@ -8,7 +8,7 @@ The use of TAMIFLU is contraindicated in patients with known serious hypersensit
 
 ## 5.2 Neuropsychiatric Events
 
-There have been postmarketing reports (mostly from Japan) of delirium and abnormal behavior leading to injury, and in some cases resulting in fatal outcomes, in patients with influenza who were receiving TAMIFLU [see Adverse Reactions (6.2)].
+There have been postmarketing reports of delirium and abnormal behavior leading to injury, and in some cases resulting in fatal outcomes, in patients with influenza who were receiving TAMIFLU [see Adverse Reactions (6.2)].
 Because these events were reported voluntarily during clinical practice, estimates of frequency cannot be made but they appear to be uncommon based on TAMIFLU usage data.
 These events were reported primarily among pediatric patients and often had an abrupt onset and rapid resolution.
 The contribution of TAMIFLU to these events has not been established.
