@@ -18,3 +18,4 @@ Storage and Handling
 Cefepime for Injection, USP in the dry state should be stored at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 Protect from light.
 Retain in carton until time of use.
+Discard unused portion.

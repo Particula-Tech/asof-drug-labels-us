@@ -46,13 +46,13 @@ Distribution
 The average steady-state volume of distribution of cefepime is 18 (±2) L. The serum protein binding of cefepime is approximately 20% and is independent of its concentration in serum.
 
 Cefepime is excreted in human milk at a concentration of 0.5 mcg/mL.
-A nursing infant consuming approximately 1000 mL of human milk per day would receive approximately 0.5 mg of cefepime per day [see Use in Specific Populations (8.3)].
+A nursing infant consuming approximately 1,000 mL of human milk per day would receive approximately 0.5 mg of cefepime per day [see Use in Specific Populations (8.3)].
 
 Concentrations of cefepime achieved in specific tissues and body fluids are listed in Table 9.
 
 Table 9: Mean Concentrations of Cefepime in Specific Body Fluids (mcg/mL) or Tissues (mcg/g)
 
-| Tissue or Fluid | Dose/ Route | # of Patients | Mean Time of Sample Post-Dose (h) | Mean Concentration |
+| Tissue or Fluid | Dose/ Route | # of Patients | Mean Time of Sample Post-dose (h) | Mean Concentration |
 | --- | --- | --- | --- | --- |
 | Blister Fluid | 2 g IV | 6 | 1.5 | 81.4 mcg/mL |
 | Bronchial Mucosa | 2 g IV | 20 | 4.8 | 24.1 mcg/g |
