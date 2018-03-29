@@ -1,11 +1,13 @@
 # 7 DRUG INTERACTIONS
 
-Table 3 Includes clinically significant drug interactions with Buprenorphine Sublingual Tablets
+Table 3 includes clinically significant drug interactions with Buprenorphine Sublingual Tablets.
 
-| Benzodiazepines and other Central Nervous System (CNS) Depressants |  |
+Table 3: Clinically Significant Drug Interactions
+
+| Benzodiazepines or other Central Nervous System (CNS) Depressants |  |
 | --- | --- |
-| Clinical Impact: | Due to additive pharmacologic effects, the concomitant use of benzodiazepines and other CNS depressants, including alcohol, increases the risk of respiratory depression, profound sedation, coma, and death. |
-| Intervention: | Cessation of benzodiazepines or other CNS depressants is preferred in most cases of concomitant use. In some cases, monitoring in a higher level of care for taper may be appropriate. In others, gradually tapering a patient off of a prescribed benzodiazepine or other CNS depressant or decreasing to the lowest effective dose may be appropriate. Before co-prescribing benzodiazepines for anxiety or insomnia, ensure that patients are appropriately diagnosed and consider alternative medications and non-pharmacologic treatments [see Warnings and Precautions (5.2, 5.3)]. |
+| Clinical Impact: | Due to additive pharmacologic effects, the concomitant use of benzodiazepines or other CNS depressants, including alcohol, increases the risk of respiratory depression, profound sedation, coma, and death. |
+| Intervention: | Cessation of benzodiazepines or other CNS depressants is preferred in most cases of concomitant use. In some cases, monitoring in a higher level of care for taper may be appropriate. In others, gradually tapering a patient off of a prescribed benzodiazepine or CNS depressant or decreasing to the lowest effective dose may be appropriate. Before co-prescribing benzodiazepines for anxiety or insomnia, ensure that patients are appropriately diagnosed and consider alternative medications and non-pharmacologic treatments [see Warnings and Precautions (5.2, 5.3)]. |
 | Examples: | Alcohol, non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, and other opioids. |
 | Inhibitors of CYP3A4 |  |
 | Clinical Impact: | The concomitant use of buprenorphine and CYP3A4 inhibitors can increase the plasma concentration of buprenorphine, resulting in increased or prolonged opioid effects, particularly when an inhibitor is added after a stable dose of Buprenorphine Sublingual Tablets is achieved.After stopping a CYP3A4 inhibitor, as the effects of the inhibitor decline, the buprenorphine plasma concentration will decrease [see Clinical Pharmacology (12.3)], potentially resulting in decreased opioid efficacy or a withdrawal syndrome in patients who had developed physical dependence to buprenorphine. |
@@ -16,11 +18,11 @@ Table 3 Includes clinically significant drug interactions with Buprenorphine Sub
 | Intervention: | If concomitant use is necessary, consider increasing the Buprenorphine Sublingual Tablets dosage until stable drug effects are achieved. Monitor for signs of opioid withdrawal.If a CYP3A4 inducer is discontinued, consider Buprenorphine Sublingual Tablets dosage reduction and monitor for signs of respiratory depression. |
 | Examples: | Rifampin, carbamazepine, phenytoin |
 | Antiretrovirals: Non-nucleoside reverse transcriptase inhibitors (NNRTIs) |  |
-| Clinical Impact: | Non-nucleoside reverse transcriptase inhibitors (NNRTIs) are metabolized principally by CYP3A4. Efavirenz, nevirapine, and etravirine are known CYP3A inducers, whereas delaviridine is a CYP3A inhibitor. Significant pharmacokinetic interactions between NNRTIs (e.g., efavirenz and delavirdine) and buprenorphine have been shown in clinical studies, but these pharmacokinetic interactions did not result in any significant pharmacodynamic effects. |
+| Clinical Impact: | Non-nucleoside reverse transcriptase inhibitors (NNRTIs) are metabolized principally by CYP3A4. Efavirenz, nevirapine, and etravirine are known CYP3A inducers, whereas delavirdine is a CYP3A inhibitor. Significant pharmacokinetic interactions between NNRTIs (e.g., efavirenz and delavirdine) and buprenorphine have been shown in clinical studies, but these pharmacokinetic interactions did not result in any significant pharmacodynamic effects. |
 | Intervention: | Patients who are on chronic Buprenorphine Sublingual Tablets treatment should have their dose monitored if NNRTIs are added to their treatment regimen. |
 | Examples: | efavirenz, nevirapine, etravirine, delavirdine |
 | Antiretrovirals: Protease inhibitors (PIs) |  |
-| Clinical Impact: | Studies have shown some antiretroviral protease inhibitors (PIs) with CYP3A4 inhibitory activity (nelfinavir, lopinavir/ritonavir, ritonavir) have little effect on buprenorphine pharmacokinetic and no significant pharmacodynamic effects. Other PIs with CYP3A4 inhibitory activity (atazanavir and atazanavir/ritonavir) resulted in elevated levels of buprenorphine and norbuprenorphine, and patients in one study reported increased sedation. Symptoms of opioid excess have been found in post-marketing reports of patients receiving buprenorphine and atazanavir with and without ritonavir concomitantly. |
+| Clinical Impact: | Studies have shown some antiretroviral protease inhibitors (PIs) with CYP3A4 inhibitory activity (nelfinavir, lopinavir/ritonavir, ritonavir) have little effect on buprenorphine pharmacokinetic and no significant pharmacodynamic effects. Other PIs with CYP3A4 inhibitory activity (atazanavir and atazanavir/ritonavir) resulted in elevated levels of buprenorphine and norbuprenorphine, and patients in one study reported increased sedation. Symptoms of opioid excess have been found in postmarketing reports of patients receiving buprenorphine and atazanavir with and without ritonavir concomitantly. |
 | Intervention: | Monitor patients taking Buprenorphine Sublingual Tablets and atazanavir with and without ritonavir, and reduce dose of Buprenorphine Sublingual Tablets if warranted. |
 | Examples: | atazanavir, ritonavir |
 | Antiretrovirals: Nucleoside reverse transcriptase inhibitors (NRTIs) |  |
@@ -32,7 +34,7 @@ Table 3 Includes clinically significant drug interactions with Buprenorphine Sub
 | Examples: | Selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that affect the serotonin neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), monoamine oxidase (MAO) inhibitors (those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue). |
 | Monoamine Oxidase Inhibitors (MAOIs) |  |
 | Clinical Impact: | MAOI interactions with opioids may manifest as serotonin syndrome or opioid toxicity (e.g., respiratory depression, coma). |
-| Intervention: | The use of Buprenorphine Sublingual Tablets are not recommended for patients taking MAOIs or within 14 days of stopping such treatment. |
+| Intervention: | The use of Buprenorphine Sublingual Tablets is not recommended for patients taking MAOIs or within 14 days of stopping such treatment. |
 | Examples: | phenelzine, tranylcypromine, linezolid |
 | Muscle Relaxants |  |
 | Clinical Impact: | Buprenorphine may enhance the neuromuscular blocking action of skeletal muscle relaxants and produce an increased degree of respiratory depression. |

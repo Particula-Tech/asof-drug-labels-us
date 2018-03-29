@@ -13,9 +13,11 @@ Embryofetal death was observed in both rats and rabbits administered buprenorphi
 Pre- and post-natal development studies in rats demonstrated increased neonatal deaths at 0.3 times and above and dystocia at approximately 3 times the human sublingual dose of 16 mg/day of buprenorphine.
 No clear teratogenic effects were seen when buprenorphine was administered during organogenesis with a range of doses equivalent to or greater than the human sublingual dose of 16 mg/day of buprenorphine.
 However, increases in skeletal abnormalities were noted in rats and rabbits administered buprenorphine daily during organogenesis at doses approximately 0.6 times and approximately equal to the human sublingual dose of 16 mg/day of buprenorphine, respectively.
-In a few studies, some events such as acephalus and omphalocele were also observed but these findings were not clearly treatment-related.
+In a few studies, some events such as acephalus and omphalocele were also observed but these findings were not clearly treatment-related [see Data].
+Based on animal data, advice pregnant women of the potential risk to a fetus.
 
 The estimated background risks of major birth defects and miscarriage for the indicated population are unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
 Clinical Considerations
@@ -122,14 +124,15 @@ The safety and effectiveness of Buprenorphine Sublingual Tablets has not been es
 
 Clinical studies of Buprenorphine Sublingual Tablets, buprenorphine and naloxone sublingual film, or buprenorphine and naloxone sublingual tablet did not include sufficient numbers of subjects aged 65 and over to determine whether they responded differently than younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
-In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+
+Due to possible decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy in geriatric patients, the decision to prescribe Buprenorphine Sublingual Tablets should be made cautiously in individuals 65 years of age or older and these patients should be monitored for signs and symptoms of toxicity or overdose.
 
 ## 8.6 Hepatic Impairment
 
 The effects of hepatic impairment on the pharmacokinetics of buprenorphine were evaluated in a pharmacokinetic study.
 Buprenorphine is extensively metabolized in the liver and buprenorphine plasma levels were found to be higher and the half-life was found to be longer in subjects with moderate and severe hepatic impairment, but not in subjects with mild hepatic impairment.
 
-For patients with severe hepatic impairment, a dose adjustment is recommended, and patients with moderate or severe hepatic impairment should be monitored for signs and symptoms of toxicity or overdose caused by increased levels of buprenorphine [see Dosage and Administration (2.5), Warnings and Precautions (5.11) and Clinical Pharmacology (12.3)].
+For patients with severe hepatic impairment, a dose adjustment is recommended, and patients with moderate or severe hepatic impairment should be monitored for signs and symptoms of toxicity or overdose caused by increased levels of buprenorphine [see Dosage and Administration (2.7), Warnings and Precautions (5.12), Clinical Pharmacology (12.3)].
 
 ## 8.7 Renal Impairment
 

@@ -26,7 +26,6 @@ Maintenance dosing continued through Week 17, and then medications were tapered 
 Subjects received individual and/or group counseling weekly.
 
 Based on retention in treatment and the percentage of thrice-weekly urine samples negative for non-study opioids, buprenorphine was more effective than the low dose of the control, in keeping heroin addicts in treatment and in reducing their use of opioids while in treatment.
-
 The effectiveness of buprenorphine, 8 mg per day was similar to that of the moderate active control dose, but equivalence was not demonstrated.
 
 In a dose-controlled, double-blind, parallel-group, 16-week study, 731 subjects were randomized to receive one of four doses of buprenorphine ethanolic solution: 1 mg, 4 mg, 8 mg, and 16 mg.

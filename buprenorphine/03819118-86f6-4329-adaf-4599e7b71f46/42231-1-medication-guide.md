@@ -25,7 +25,7 @@ What is the most important information I should know about Buprenorphine Subling
 - An overdose, and even death, can happen if you take benzodiazepines, sedatives, tranquilizers, antidepressants, or alcohol while using Buprenorphine Sublingual Tablets.
   Ask your doctor what you should do if you are taking one of these.
 - Call a doctor or get emergency help right away if you: ○ Feel sleepy and uncoordinated ○ Have blurred vision ○ Have slurred speech ○ Cannot think well or clearly ○ Have slowed reflexes and breathing
-- Do not inject (“shoot-up”) Buprenorphine Sublingual Tablets. ○ Injecting this medicine may cause life-threatening infections and other serious health problems. ○ Injecting this medicine may cause serious withdrawal symptoms such as pain, cramps, vomiting, diarrhea, anxiety, sleep problems, and cravings.
+- Do not inject (“shoot-up”) Buprenorphine Sublingual Tablets. ○ Injecting Buprenorphine Sublingual Tablets may cause life-threatening infections and other serious health problems. ○ Injecting Buprenorphine Sublingual Tablets may cause serious withdrawal symptoms such as pain, cramps, vomiting, diarrhea, anxiety, sleep problems, and cravings.
 - In an emergency, have family members tell the emergency department staff that you are physically dependent on an opioid and are being treated with Buprenorphine Sublingual Tablets.
 
 What are Buprenorphine Sublingual Tablets?
@@ -169,6 +169,7 @@ How should I dispose of unused Buprenorphine Sublingual Tablets?
 
 - Dispose of unused Buprenorphine Sublingual Tablets as soon as you no longer need them.
 - Unused tablets should be flushed down the toilet.
+  If you need help with disposal of buprenorphine and naloxone, call 1-800-432-8534.
 
 General information about the safe and effective use of Buprenorphine Sublingual Tablets
 

@@ -32,7 +32,10 @@ The respiratory effects of sublingual buprenorphine were compared with the effec
 In this study, hypoventilation not requiring medical intervention was reported more frequently after buprenorphine doses of 4 mg and higher than after methadone.
 Both drugs decreased O2 saturation to the same degree.
 
-Androgen Deficiency
+Effects on the Endocrine System
+
+Opioids inhibit the secretion of adrenocorticotropic hormone (ACTH), cortisol, and luteinizing hormone (LH) in humans [see Adverse Reactions (6.2)].
+They also stimulate prolactin, growth hormone (GH) secretion, and pancreatic secretion of insulin and glucagon.
 
 Chronic use of opioids may influence the hypothalamic-pituitary-gonadal axis, leading to androgen deficiency that may manifest as low libido, impotence, erectile dysfunction, amenorrhea, or infertility.
 The causal role of opioids in the clinical syndrome of hypogonadism is unknown because the various medical, physical, lifestyle, and psychological stressors that may influence gonadal hormone levels have not been adequately controlled for in studies conducted to date.
@@ -46,7 +49,7 @@ Plasma levels of buprenorphine increased with the sublingual dose of Buprenorphi
 There was wide inter-patient variability in the sublingual absorption of buprenorphine, but within subjects the variability was low.
 Both Cmax and AUC of buprenorphine increased in a linear fashion with the increase in dose (in the range of 4 mg to 16 mg), although the increase was not directly dose-proportional.
 
-Table 4 Pharmacokinetic Parameters of Buprenorphine and Norbuprenorphine After the Sublingual Administration of Buprenorphine Sublingual Tablets
+Table 4: Pharmacokinetic Parameters of Buprenorphine and Norbuprenorphine After the Sublingual Administration of Buprenorphine Sublingual Tablets
 
 | Dose | Analyte | Mean SD | Cmax (ng/mL) | Tmax (h) | AUCinf (h•ng/mL) | t1/2 (h) |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -61,7 +64,7 @@ Distribution
 
 Buprenorphine is approximately 96% protein bound, primarily to alpha and beta globulin.
 
-Excretion
+Elimination
 
 Metabolism
 
@@ -70,7 +73,7 @@ The N-dealkylation pathway is mediated primarily by CYP3A4.
 Norbuprenorphine, the major metabolite, can further undergo glucuronidation.
 Norbuprenorphine has been found to bind opioid receptors in vitro; however, it is not known whether norbuprenorphine contributes to the overall effect of Buprenorphine Sublingual Tablets.
 
-Elimination
+Excretion
 
 A mass balance study of buprenorphine showed complete recovery of radiolabel in urine (30%) and feces (69%) collected up to 11 days after dosing.
 Almost all of the dose was accounted for in terms of buprenorphine, norbuprenorphine, and two unidentified buprenorphine metabolites.
@@ -83,25 +86,21 @@ Drug Interactions Studies
 
 CYP3A4 Inhibitors and Inducers
 
-Subjects receiving Buprenorphine Sublingual Tablets should be monitored if inhibitors of CYP3A4 such as azole antifungal agents (e.g., ketoconazole), macrolide antibiotics (e.g., erythromycin) or HIV protease inhibitors and may require dose-reduction of one or both agents.
-The interaction of buprenorphine with all CYP3A4 inducers has not been studied, therefore it is recommended that patients receiving Buprenorphine Sublingual Tablets be monitored for signs and symptoms of opioid withdrawal if inducers of CYP3A4 (e.g., phenobarbital, carbamazepine, phenytoin, rifampicin) are co-administered [see Drug Interactions (7)].
-
 Buprenorphine has been found to be a CYP2D6 and CYP3A4 inhibitor and its major metabolite, norbuprenorphine has been found to be a moderate CYP2D6 inhibitor in in vitro studies employing human liver microsomes.
-However, the relatively low plasma concentrations of buprenorphine and norbuprenorphine resulting from therapeutic doses are not expected to raise significant drug-drug interaction concerns.
+However, the relatively low plasma concentrations of buprenorphine and norbuprenorphine resulting from therapeutic doses are not expected to raise significant drug-drug interaction concerns [see Drug Interactions (7)].
 
-Special Populations
+Specific Populations
 
 Hepatic Impairment
 
-In a pharmacokinetic study, the disposition of buprenorphine was determined after administering a 2 mg/0.5 mg buprenorphine and naloxone sublingual tablet in subjects with varied degrees of hepatic impairment as indicated by Child-Pugh criteria.
+In a pharmacokinetic study, the disposition of buprenorphine was determined after administering a 2.0 mg/0.5 mg buprenorphine and naloxone sublingual tablet in subjects with varied degrees of hepatic impairment as indicated by Child-Pugh criteria.
 The disposition of buprenorphine in patients with hepatic impairment was compared to disposition in subjects with normal hepatic function.
 
 In subjects with mild hepatic impairment, the changes in mean Cmax, AUC0-last, and half-life values of buprenorphine were not clinically significant.
-No dose adjustment is needed in patients with mild hepatic impairment.
 
-For subjects with moderate and severe hepatic impairment, mean Cmax, AUC0-last, and half-life values of buprenorphine were increased (Table 5) [see Warnings and Precautions (5.12) and Use in Specific Populations (8.6)].
+For subjects with moderate and severe hepatic impairment, mean Cmax, AUC0-last, and half-life values of buprenorphine were increased (Table 5) [see Warnings and Precautions (5.12), Use in Specific Populations (8.6)].
 
-Table 5 Changes in Buprenorphine Pharmacokinetic Parameters in Subjects with Moderate and Severe Hepatic Impairment
+Table 5: Changes in Buprenorphine Pharmacokinetic Parameters in Subjects with Moderate and Severe Hepatic Impairment
 
 | Hepatic Impairment | PK Parameters | Increase in buprenorphine compared to healthy subjects |
 | --- | --- | --- |
@@ -115,4 +114,3 @@ Table 5 Changes in Buprenorphine Pharmacokinetic Parameters in Subjects with Mod
 HCV infection
 
 In subjects with HCV infection but no sign of hepatic impairment, the changes in the mean Cmax, AUC0-last, and half-life values of buprenorphine were not clinically significant in comparison to healthy subjects without HCV infection.
-No dose adjustment is needed in patients with HCV infection.

@@ -1,8 +1,8 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Abuse Potential
+## 5.1 Addiction, Abuse, and Misuse
 
-Buprenorphine can be abused in a manner similar to other opioids, legal or illicit.
+Buprenorphine is a Schedule III controlled substance that can be abused in a manner similar to other opioids, legal or illicit.
 Prescribe and dispense buprenorphine with appropriate precautions to minimize risk of misuse, abuse, or diversion, and ensure appropriate protection from theft, including in the home.
 Clinical monitoring appropriate to the patient’s level of stability is essential.
 Multiple refills should not be prescribed early in treatment or without appropriate patient follow-up visits [see Drug Abuse and Dependence (9.2)].
@@ -10,7 +10,7 @@ Multiple refills should not be prescribed early in treatment or without appropri
 ## 5.2 Risk of Respiratory and Central Nervous System (CNS) Depression
 
 Buprenorphine has been associated with life-threatening respiratory depression and death.
-Many, but not all, postmarketing reports regarding coma and death involved misuse by self-injection or were associated with the concomitant use of benzodiazepines or other CNS depressants, including alcohol.
+Many, but not all, postmarketing reports regarding coma and death involved misuses by self-injection or were associated with the concomitant use of benzodiazepines or other CNS depressants, including alcohol.
 Warn patients of the potential danger of self-administration of benzodiazepines or other CNS depressants while under treatment with Buprenorphine Sublingual Tablets [see Warnings and Precautions (5.3), Drug Interactions (7)].
 
 Use Buprenorphine Sublingual Tablets with caution in patients with compromised respiratory function (e.g., chronic obstructive pulmonary disease, cor pulmonale, decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression).
@@ -64,14 +64,13 @@ Wean the patient off of the opioid to allow adrenal function to recover and cont
 Other opioids may be tried as some cases reported use of a different opioid without recurrence of adrenal insufficiency.
 The information available does not identify any particular opioids as being more likely to be associated with adrenal insufficiency.
 
-## 5.7 Dependence
+## 5.7 Risk of Opioid Withdrawal with Abrupt Discontinuation
 
 Buprenorphine is a partial agonist at the mu-opioid receptor and chronic administration produces physical dependence of the opioid type, characterized by withdrawal signs and symptoms upon abrupt discontinuation or rapid taper.
-The withdrawal syndrome is typically milder than seen with full agonists and may be delayed in onset.
-Buprenorphine can be abused in a manner similar to other opioids.
-This should be considered when prescribing or dispensing buprenorphine in situations when the clinician is concerned about an increased risk of misuse, abuse, or diversion [see Drug Abuse and Dependence (9.3)].
+The withdrawal syndrome is typically milder than seen with full agonists and may be delayed in onset [see Drug Abuse and Dependence (9.3)].
+When discontinuing Buprenorphine Sublingual Tablets, gradually taper the dosage [see Dosage and Administration (2.9)].
 
-## 5.8 Hepatitis, Hepatic Events
+## 5.8 Risk of Hepatitis, Hepatic Events
 
 Cases of cytolytic hepatitis and hepatitis with jaundice have been observed in individuals receiving buprenorphine in clinical trials and through postmarketing adverse event reports.
 The spectrum of abnormalities ranges from transient asymptomatic elevations in hepatic transaminases to case reports of death, hepatic failure, hepatic necrosis, hepatorenal syndrome, and hepatic encephalopathy.
@@ -84,10 +83,10 @@ Periodic monitoring of liver function during treatment is also recommended.
 A biological and etiological evaluation is recommended when a hepatic event is suspected.
 Depending on the case, Buprenorphine Sublingual Tablets may need to be carefully discontinued to prevent withdrawal signs and symptoms and a return by the patient to illicit drug use, and strict monitoring of the patient should be initiated.
 
-## 5.9 Allergic Reactions
+## 5.9 Hypersensitivity Reactions
 
 Cases of hypersensitivity to buprenorphine products have been reported both in clinical trials and in the postmarketing experience.
-Cases of bronchospasm, angioneutrotic edema, and anaphylactic shock have been reported.
+Cases of bronchospasm, angioneurotic edema, and anaphylactic shock have been reported.
 The most common signs and symptoms include rashes, hives, and pruritus.
 A history of hypersensitivity to buprenorphine is a contraindication to the use of Buprenorphine Sublingual Tablets.
 
@@ -95,7 +94,7 @@ A history of hypersensitivity to buprenorphine is a contraindication to the use 
 
 Because of the partial agonist properties of buprenorphine, Buprenorphine Sublingual Tablets may precipitate opioid withdrawal signs and symptoms in individuals physically dependent on full opioid agonists if administered sublingually or parenterally before the agonist effects of other opioids have subsided.
 
-## 5.11 Use in Opioid Naïve Patients
+## 5.11 Risk of Overdose in Opioid Naïve Patients
 
 There have been reported deaths of opioid naïve individuals who received a 2 mg dose of buprenorphine as a sublingual tablet for analgesia.
 Buprenorphine Sublingual Tablets are not appropriate as an analgesic.
@@ -104,12 +103,12 @@ Buprenorphine Sublingual Tablets are not appropriate as an analgesic.
 
 In a pharmacokinetic study, buprenorphine plasma levels were found to be higher and the half-life was found to be longer in subjects with moderate and severe hepatic impairment, but not in subjects with mild hepatic impairment.
 
-For patients with severe hepatic impairment, a dose adjustment is recommended, and patients with moderate or severe hepatic impairment should be monitored for signs and symptoms of toxicity or overdose caused by increased levels of buprenorphine [see Dosage and Administration (2.6) and Use in Specific Populations (8.6)].
+For patients with severe hepatic impairment, a dose adjustment is recommended, and patients with moderate or severe hepatic impairment should be monitored for signs and symptoms of toxicity or overdose caused by increased levels of buprenorphine [see Dosage and Administration (2.7), Use in Specific Populations (8.6)].
 
 ## 5.13 Impairment of Ability to Drive or Operate Machinery
 
 Buprenorphine Sublingual Tablets may impair the mental or physical abilities required for the performance of potentially dangerous tasks such as driving a car or operating machinery, especially during treatment induction and dose adjustment.
-Patients should be cautioned about driving or operating hazardous machinery until they are reasonably certain that buprenorphine therapy does not adversely affect his or her ability to engage in such activities.
+Caution patients about driving or operating hazardous machinery until they are reasonably certain that buprenorphine therapy does not adversely affect his or her ability to engage in such activities.
 
 ## 5.14 Orthostatic Hypotension
 
@@ -127,7 +126,3 @@ Buprenorphine has been shown to increase intracholedochal pressure, as do other 
 ## 5.17 Effects in Acute Abdominal Conditions
 
 As with other opioids, buprenorphine may obscure the diagnosis or clinical course of patients with acute abdominal conditions.
-
-## 5.18 General Precautions
-
-Buprenorphine Sublingual Tablets should be administered with caution in debilitated patients and those with myxedema or hypothyroidism; adrenal cortical insufficiency (e.g., Addison's disease); CNS depression or coma; toxic psychoses; prostatic hypertrophy or urethral stricture; acute alcoholism; delirium tremens; or kyphoscoliosis.

@@ -1,22 +1,28 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Important Dosage and Administration Instructions
+## 2.1 Drug Addiction Treatment Act
+
+Under the Drug Addiction Treatment Act (DATA) codified at 21 U.S.C.
+823(g), prescription use of this product in the treatment of opioid dependence is limited to healthcare providers who meet certain qualifying requirements, and who have notified the Secretary of Health and Human Services (HHS) of their intent to prescribe this product for the treatment of opioid dependence and have been assigned a unique identification number that must be included on every prescription.
+
+## 2.2 Important Dosage and Administration Instructions
 
 Buprenorphine Sublingual Tablets are administered sublingually as a single daily dose.
-Buprenorphine Sublingual Tablets contain no naloxone HCl and is preferred for use only during induction.
+
+Buprenorphine Sublingual Tablets do not contain naloxone HCl and is preferred for use only during induction.
 Following induction, Buprenorphine and Naloxone Sublingual Film or Buprenorphine and Naloxone Sublingual Tablet is preferred due to the presence of naloxone when clinical use includes unsupervised administration.
 The use of Buprenorphine Sublingual Tablets for unsupervised administration should be limited to those patients who cannot tolerate Buprenorphine and Naloxone Sublingual Film or Buprenorphine and Naloxone Sublingual Tablet; for example, those patients who have been shown to be hypersensitive to naloxone.
 
 Medication should be prescribed in consideration of the frequency of visits.
 Provision of multiple refills is not advised early in treatment or without appropriate patient follow-up visits.
 
-## 2.2 Induction
+## 2.3 Induction
 
-Prior to induction, consideration should be given to the type of opioid dependence (i.e., long- or short-acting opioid), the time since last opioid use, and the degree or level of opioid dependence.
+Prior to induction, consideration should be given to the type of opioid dependence (i.e., long- or short-acting opioid products), the time since last opioid use, and the degree or level of opioid dependence.
 
-Patients taking heroin or other short-acting opioid products:
+Patients dependent on heroin or other short-acting opioid products:
 
-The first dose of Buprenorphine Sublingual Tablets should only be administered when objective and clear signs of moderate opioid withdrawal appear, and not less than 4 hours after the patient last used an opioid.
+At treatment initiation, the first dose of Buprenorphine Sublingual Tablets should be administered only when objective and clear signs of moderate opioid withdrawal appear, and not less than 4 hours after the patient last used an opioid.
 
 It is recommended that an adequate treatment dose, titrated to clinical effectiveness, should be achieved as rapidly as possible.
 The dosing on the initial day of treatment may be given in 2 mg to 4 mg increments if preferred.
@@ -26,7 +32,7 @@ In a one-month study, patients received 8 mg of Buprenorphine Sublingual Tablets
 From Day 3 onward, patients received either buprenorphine and naloxone sublingual tablet or Buprenorphine Sublingual Tablet at the same buprenorphine dose as Day 2 based on their assigned treatment.
 Induction in the studies of buprenorphine solution was accomplished over 3 to 4 days, depending on the target dose.
 
-Patients on methadone or other long-acting opioid products:
+Patients dependent on methadone or other long-acting opioid products:
 
 Patients dependent upon methadone or other long-acting opioid products may be more susceptible to precipitated and prolonged withdrawal during induction than those on short-acting opioid products; therefore, the first dose of Buprenorphine Sublingual Tablets should only be administered when objective and clear signs of moderate opioid withdrawal appear, and generally not less than 24 hours after the patient last used a long-acting opioid product.
 
@@ -34,7 +40,7 @@ There is little controlled experience with the transfer of methadone-maintained 
 Available evidence suggests that withdrawal signs and symptoms are possible during induction onto buprenorphine.
 Withdrawal appears more likely in patients maintained on higher doses of methadone (greater than 30 mg) and when the first buprenorphine dose is administered shortly after the last methadone dose.
 
-## 2.3 Maintenance
+## 2.4 Maintenance
 
 - Buprenorphine and naloxone is preferred for maintenance treatment.
 - Where buprenorphine is used in maintenance in patients who cannot tolerate the presence of naloxone, the dosage of buprenorphine should be progressively adjusted in increments / decrements of 2 mg or 4 mg buprenorphine to a level that holds the patient in treatment and suppresses opioid withdrawal signs and symptoms.
@@ -45,22 +51,25 @@ Withdrawal appears more likely in patients maintained on higher doses of methado
 - There is no maximum recommended duration of maintenance treatment.
   Patients may require treatment indefinitely and should continue for as long as patients are benefiting and the use of Buprenorphine Sublingual Tablets contributes to the intended treatment goals.
 
-## 2.4 Method of Administration
+## 2.5 Method of Administration
 
-Buprenorphine Sublingual Tablets should be placed under the tongue until it is dissolved.
+Buprenorphine Sublingual Tablets must be administered whole.
+Do not cut, chew, or swallow Buprenorphine Sublingual Tablets.
+Advise patients not to eat or drink anything until the tablet is completely dissolved.
+
+Buprenorphine Sublingual Tablet should be placed under the tongue until it is dissolved.
 For doses requiring the use of more than two tablets, patients are advised to either place all the tablets at once or alternatively (if they cannot fit in more than two tablets comfortably), place two tablets at a time under the tongue.
 Either way, the patients should continue to hold the tablets under the tongue until they dissolve; swallowing the tablets reduces the bioavailability of the drug.
 To ensure consistency in bioavailability, patients should follow the same manner of dosing with continued use of the product.
-Do not chew or swallow Buprenorphine Sublingual Tablets.
 
 Proper administration technique should be demonstrated to the patient.
 
-## 2.5 Clinical Supervision
+## 2.6 Clinical Supervision
 
 Treatment should be initiated with supervised administration, progressing to unsupervised administration as the patient’s clinical stability permits.
 The use of buprenorphine for unsupervised administration should be limited to those patients who cannot tolerate buprenorphine and naloxone, for example those patients with known hypersensitivity to naloxone.
 Buprenorphine and naloxone and buprenorphine are both subject to diversion and abuse.
-When determining the size of the prescription quantity for unsupervised administration, consider the patient’s level of stability, the security of his or her home situation, and other factors likely to affect the ability of the patient to manage supplies of take-home medication.
+When determining the prescription quantity for unsupervised administration, consider the patient’s level of stability, the security of his or her home situation, and other factors likely to affect the ability of the patient to manage supplies of take-home medication.
 
 Ideally, patients should be seen at reasonable intervals (e.g., at least weekly during the first month of treatment) based upon the individual circumstances of the patient.
 Medication should be prescribed in consideration of the frequency of visits.
@@ -79,16 +88,11 @@ Continuation or modification of pharmacotherapy should be based on the healthcar
 
 If treatment goals are not being achieved, the healthcare provider should re-evaluate the appropriateness of continuing the current treatment.
 
-## 2.6 Patients with Hepatic Impairment
+## 2.7 Patients with Severe Hepatic Impairment
 
-Severe hepatic impairment: Consider reducing the starting and titration incremental dose by half compared to patients with normal liver function, and monitor for signs and symptoms of toxicity or overdose caused by increased levels of buprenorphine.
+Consider reducing the starting and titration incremental dose by half and monitor for signs and symptoms of toxicity or overdose caused by increased levels of buprenorphine.
 
-Moderate hepatic impairment: Although no dose adjustment is necessary for patients with moderate hepatic impairment, Buprenorphine Sublingual Tablets should be used with caution in these patients and prescribers should monitor patients for signs and symptoms of toxicity or overdose caused by increased levels of buprenorphine.
-
-Mild hepatic impairment: No clinically significant differences in pharmacokinetic parameters were observed in subjects with mild hepatic impairment.
-No dose adjustment is needed in patients with mild hepatic impairment [see Warnings and Precautions (5.12)].
-
-## 2.7 Unstable Patients
+## 2.8 Unstable Patients
 
 Healthcare providers will need to decide when they cannot appropriately provide further management for particular patients.
 For example, some patients may be abusing or dependent on various drugs, or unresponsive to psychosocial intervention such that the healthcare provider does not feel that he/she has the expertise to manage the patient.
@@ -97,7 +101,7 @@ Decisions should be based on a treatment plan established and agreed upon with t
 
 Patients who continue to misuse, abuse, or divert buprenorphine products or other opioids should be provided with, or referred to, more intensive and structured treatment.
 
-## 2.8 Stopping Treatment
+## 2.9 Discontinuing Treatment
 
 The decision to discontinue therapy with buprenorphine and naloxone or buprenorphine after a period of maintenance should be made as part of a comprehensive treatment plan.
 Advise patients of the potential to relapse to illicit drug use following discontinuation of opioid agonist/partial agonist medication-assisted treatment.
