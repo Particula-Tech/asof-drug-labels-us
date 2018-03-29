@@ -179,4 +179,4 @@ The tablets are coated with a film that is made of hypromellose, iron oxide yell
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 The brands listed are trademarks of their respective owners and are not trademarks of the Aurobindo Pharma Limited.
 The markers of these brands are not affiliated with and do not endorse the Aurobindo Pharma Limited or its products.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt)-509302 India Revised: 04/2017
+Distributed by: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 03/2018

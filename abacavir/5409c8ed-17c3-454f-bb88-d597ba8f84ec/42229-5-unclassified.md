@@ -16,4 +16,4 @@ Ask your pharmacist how to properly dispose of medicines.
 If you take abacavir tablets or another abacavir-containing medicine again after you have had an allergic reaction, WITHIN HOURS you may get life-threatening symptoms that may include very low blood pressure or death.
 Please read the Medication Guide for additional information on abacavir tablets.
 EPZICOM, TRIUMEQ, and TRIZIVIR are registered trademarks of the ViiV Healthcare group of companies.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt)-509302 India Revised: 04/2017
+Distributed by: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 03/2018

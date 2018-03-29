@@ -51,12 +51,13 @@ Pregnancy: Abacavir: Abacavir pharmacokinetics were studied in 25 pregnant women
 Abacavir exposure (AUC) during pregnancy was similar to those in postpartum and in HIV-infected non-pregnant historical controls.
 Consistent with passive diffusion of abacavir across the placenta, abacavir concentrations in neonatal plasma cord samples at birth were essentially equal to those in maternal plasma at delivery.
 
-Pediatric Patients: The pharmacokinetics of abacavir have been studied after either single or repeat doses of abacavir in pediatric subjects.
+Pediatric Patients: The pharmacokinetics of abacavir have been studied after either single or repeat doses of abacavir in 169 pediatric subjects.
 Subjects receiving abacavir oral solution according to the recommended dosage regimen achieved plasma concentrations of abacavir similar to adults.
 Subjects receiving abacavir oral tablets achieved higher plasma concentrations of abacavir than subjects receiving oral solution.
-
-Additional pediatric use information for patients aged 3 months and above is approved for ViiV Healthcare Company’s ZIAGEN® (abacavir sulfate) tablets.
-However, due to ViiV Healthcare Company’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+The pharmacokinetics of abacavir dosed once daily in HIV-1-infected pediatric subjects aged 3 months through 12 years was evaluated in 3 trials (PENTA 13 [n = 14], PENTA 15 [n = 18], and ARROW [n = 36]).
+All 3 trials were 2-period, crossover, open-label pharmacokinetic trials of twice-versus once-daily dosing of abacavir and lamivudine.
+For the oral solution as well as the tablet formulation, these 3 trials demonstrated that once-daily dosing provides comparable AUC0-24 to twice-daily dosing of abacavir at the same total daily dose.
+The mean Cmax was approximately 1.6- to 2.3-fold higher with abacavir once-daily dosing compared with twice-daily dosing.
 
 Geriatric Patients: The pharmacokinetics of abacavir have not been studied in subjects older than 65 years.
 

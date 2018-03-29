@@ -22,7 +22,6 @@ Lactic Acidosis/Hepatomegaly with Steatosis
 
 Advise patients that lactic acidosis and severe hepatomegaly with steatosis have been reported with use of nucleoside analogues and other antiretrovirals.
 Advise patients to stop taking abacavir if they develop clinical symptoms suggestive of lactic acidosis or pronounced hepatotoxicity [see Boxed Warning, Warnings and Precautions (5.2)].
-
 Immune Reconstitution Syndrome
 
 Advise patients to inform their healthcare provider immediately of any signs and symptoms of infection as inflammation from previous infection may occur soon after combination antiretroviral therapy, including when abacavir is started [see Warnings and Precautions (5.3)].
@@ -49,22 +48,4 @@ Availability of Medication Guide
 Instruct patients to read the Medication Guide before starting abacavir and to re-read it each time the prescription is renewed.
 Instruct patients to inform their physician or pharmacist if they develop any unusual symptom, or if any known symptom persists or worsens.
 
-Manufactured for:
-
-Aurobindo Pharma USA, Inc.
-
-2400 Route 130 North
-
-Dayton, NJ 08810
-
-Manufactured by:
-
-Aurobindo Pharma Limited
-
-Unit-VII (SEZ)
-
-Mahaboob Nagar (Dt)-509302
-
-India
-
-Revised: 04/2017
+Distributed by: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 03/2018
