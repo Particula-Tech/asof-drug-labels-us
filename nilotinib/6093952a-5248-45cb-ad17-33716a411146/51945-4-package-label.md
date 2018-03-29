@@ -1,5 +1,23 @@
 PRINCIPAL DISPLAY PANEL
 
+Package Label – 50 mg
+
+NDC 0078-0951-66
+
+120 Capsules
+
+Rx Only
+
+TASIGNA® (nilotinib) capsules
+
+50 mg
+
+Dispense with Medication Guide
+
+Novartis
+
+PRINCIPAL DISPLAY PANEL
+
 Package Label – 150 mg
 
 Rx Only NDC 0078-0592-87

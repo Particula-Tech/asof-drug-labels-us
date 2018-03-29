@@ -51,7 +51,7 @@ No rat metabolites of nilotinib were detected that were unique to milk.
 
 ## 8.3 Females and Males of Reproductive Potential
 
-Pregnancy
+Pregnancy Testing
 
 Based on animal studies, Tasigna can cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1)].
 Females of reproductive potential should have a pregnancy test prior to starting treatment with Tasigna.
@@ -66,11 +66,23 @@ Advise females of reproductive potential to use effective contraception during t
 Infertility
 
 The risk of infertility in females or males of reproductive potential has not been studied in humans.
-In studies in rats and rabbits, the fertility in males and females was not affected [see Nonclincal Toxicology (13.1)].
+In studies in rats and rabbits, the fertility in males and females was not affected [see Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of Tasigna in pediatric patients have not been established.
+The safety and effectiveness of Tasigna have been established in pediatric patients greater than or equal to 1 year of age with newly diagnosed and resistant or intolerant Ph+ CML in chronic phase [see Clinical Studies (14.5)].
+There are no data for pediatric patients under 2 years of age.
+Use of Tasigna in pediatric patients 1 to less than 2 years of age is supported by efficacy in pediatric patients 2 to 6 years of age.
+
+Use of Tasigna in pediatric patients 1 to less than 18 years of age is supported by evidence from two clinical trials [see Clinical Studies (14.5)].
+The 25 patients with newly diagnosed Ph+ CML-CP were in the following age groups: 6 children (age 2 to less than 12 years) and 19 adolescents (age 12 to less than 18 years).
+The 44 patients with resistant or intolerant Ph+ CML-CP included 18 children (age 2 to less than 12 years) and 26 adolescents (age 12 to less than 18 years).
+All pediatric patients received Tasigna treatment at a dose of 230 mg/m2 twice daily, rounded to the nearest 50 mg dose (to a maximum single dose of 400 mg).
+No differences in efficacy or safety were observed between the different age subgroups in the two trials.
+
+The frequency, type, and severity of adverse reactions observed were generally consistent with those observed in adults, with the exception of the laboratory abnormalities of hyperbilirubinemia (Grade 3/4: 13%) and transaminase elevation (AST Grade 3/4: 1%, ALT Grade 3/4: 9%), which were reported at a higher frequency in pediatric patients than in adults [see Adverse Reactions (6.1)].
+
+The long-term effects of prolonged treatment with Tasigna in pediatric patients are unknown.
 
 ## 8.5 Geriatric Use
 
@@ -89,27 +101,4 @@ Caution should be exercised in patients with relevant cardiac disorders [see Box
 
 ## 8.7 Hepatic Impairment
 
-Nilotinib exposure is increased in patients with impaired hepatic function.
-In a study of subjects with mild to severe hepatic impairment following a single dose administration of 200 mg of Tasigna, the mean AUC values were increased on average of 35%, 35%, and 56% in subjects with mild (Child-Pugh class A, score 5 to 6), moderate (Child-Pugh class B, score 7 to 9) and severe hepatic impairment (Child-Pugh class C, score 10 to 15), respectively, compared to a control group of subjects with normal hepatic function.
-Table 9 summarizes the Child-Pugh Liver Function Classification applied in this study.
-A lower starting dose is recommended in patients with hepatic impairment and the QT interval should be monitored closely in these patients [see Dosage and Administration (2.4), and Warnings and Precautions (5.10)].
-
-Table 9: Child-Pugh Liver Function Classification
-
-| Assessment | Degree of Abnormality | Score |
-| --- | --- | --- |
-| Encephalopathy Grade | None | 1 |
-|  | 1 or 2 | 2 |
-|  | 3 or 4 | 3 |
-| Ascites | Absent | 1 |
-|  | Slight | 2 |
-|  | Moderate | 3 |
-| Total Bilirubin (mg/dL) | <2 | 1 |
-|  | 2–3 | 2 |
-|  | >3 | 3 |
-| Serum Albumin (g/dL) | >3.5 | 1 |
-|  | 2.8–3.5 | 2 |
-|  | <2.8 | 3 |
-| Prothrombin Time (seconds prolonged) | <4 | 1 |
-|  | 4–6 | 2 |
-|  | >6 | 3 |
+Reduce the Tasigna dosage in patients with hepatic impairment and monitor the QT interval closely in these patients [see Dosage and Administration (2.7), and Clinical Pharmacology (12.3)].

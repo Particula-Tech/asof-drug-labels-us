@@ -25,6 +25,11 @@ Pancreatitis and Elevated Serum Lipase
 Advise patients that Tasigna can increase the risk of pancreatitis and that patients with a previous history of pancreatitis may be at greater risk.
 Advise patients to seek immediate medical attention if symptoms suggestive of pancreatitis occur, such as sudden stomach area pain with accompanying nausea and vomiting [see Warnings and Precautions (5.5)].
 
+Hepatotoxicity
+
+Advise patients that Tasigna can increase the risk of hepatotoxicity and that patients with previous history of liver diseases may be at risk.
+Advise patients to seek immediate medical attention if any symptoms suggestive of hepatotoxicity occur, such as stomach pain, yellow skin and eyes, and dark-colored urine [see Warnings and Precautions (5.6)].
+
 Taking Tasigna
 
 Advise patients to take Tasigna doses twice daily approximately 12 hours apart.
@@ -32,7 +37,7 @@ The capsules should be swallowed whole with water.
 
 Advise patients to take Tasigna on an empty stomach.
 No food should be consumed for at least 2 hours before the dose is taken and for at least 1 hour after the dose is taken.
-Patients should not consume grapefruit products and other foods that are known to inhibit CYP3A4 at any time during Tasigna treatment [see Dosage and Administration (2.4), Warnings and Precautions (5.8, 5.9) and Medication Guide].
+Patients should not consume grapefruit products and other foods that are known to inhibit CYP3A4 at any time during Tasigna treatment [see Dosage and Administration (2.1), Drug Interactions (7.1, 7.2) and Medication Guide].
 
 If the patient missed a dose of Tasigna, the patient should take the next scheduled dose at its regular time.
 The patient should not take two doses at the same time.
@@ -41,32 +46,37 @@ Should patients be unable to swallow capsules, the contents of each capsule may 
 
 Tumor Lysis Syndrome
 
-Advise patients that Tasigna can cause tumor lysis syndrome and to seek immediate medical attention if any symptoms suggestive of tumor lysis syndrome occur such as an abnormal heartbeat or less urine production [see Warnings and Precautions (5.11)].
+Advise patients that Tasigna can cause tumor lysis syndrome and to seek immediate medical attention if any symptoms suggestive of tumor lysis syndrome occur such as an abnormal heartbeat or less urine production [see Warnings and Precautions (5.8)].
 
 Hemorrhage
 
 Advise patients that serious hemorrhagic events, including fatal events, have occurred in patients with CML treated with Tasigna.
-Advise patients to seek immediate medical attention if symptoms suggestive of hemorrhage occur, such as uncontrolled bleeding, changes in eyesight, unconsciousness, or sudden headache or sudden confusion in surroundings [see Warnings and Precautions (5.12)].
+Advise patients to seek immediate medical attention if symptoms suggestive of hemorrhage occur, such as uncontrolled bleeding, changes in eyesight, unconsciousness, or sudden headache or sudden confusion in surroundings [see Warnings and Precautions (5.9)].
 
 Fluid Retention
 
-Advise patients that Tasigna can cause fluid retention and to seek immediate medical attention if any symptoms suggestive of fluid retention such as shortness of breath, rapid weight gain, or swelling occur [see Warnings and Precautions (5.16)].
+Advise patients that Tasigna can cause fluid retention and to seek immediate medical attention if any symptoms suggestive of fluid retention such as shortness of breath, rapid weight gain, or swelling occur [see Warnings and Precautions (5.13)].
+
+Effects on Growth and Development in Pediatric Patients
+
+Inform pediatric patients and their caregivers of the possibility of developing growth abnormalities.
+Therefore, monitor growth and development in pediatric patients [see Warnings and Precautions (5.14)].
 
 Treatment Free Remission (TFR)
 
 Advise patients that frequent monitoring is required to detect possible loss of remission if TFR is attempted.
-Advise patients that musculoskeletal symptoms such as muscle pain, pain in extremity, joint pain, bone pain, or spinal pain, may occur more frequently than before treatment discontinuation [see Warnings and Precautions (5.18) and Medication Guide].
+Advise patients that musculoskeletal symptoms such as muscle pain, pain in extremity, joint pain, bone pain, or spinal pain, may occur more frequently than before treatment discontinuation [see Warnings and Precautions (5.16) and Medication Guide].
 
 Drug Interactions
 
-Advise patients that Tasigna and certain other medicines, including over the counter medications or herbal supplements (such as St. John’s Wort), can interact with each other [see Warnings and Precautions (5.8) and Drug Interactions (7)].
+Advise patients that Tasigna and certain other medicines, including over the counter medications or herbal supplements (such as St. John’s Wort), can interact with each other [see Drug Interactions (7)].
 
 Embryo-Fetal Toxicity
 
 Advise females to inform their healthcare provider if they are pregnant or become pregnant.
 Inform female patients of the risk to a fetus and potential loss of the pregnancy [see Use in Specific Populations (8.1)].
 
-Advise females of reproductive potential to use effective contraception during treatment and for at least 14 days after receiving the last dose of Tasigna [see Warnings and Precautions (5.17) and Use in Specific Populations (8.1, 8.3)].
+Advise females of reproductive potential to use effective contraception during treatment and for at least 14 days after receiving the last dose of Tasigna [see Warnings and Precautions (5.15) and Use in Specific Populations (8.1, 8.3)].
 
 Lactation
 
@@ -82,4 +92,4 @@ Advise patients of the following:
 - If a dose is missed, take the next dose as scheduled.
   Do not take a double dose to make up for the missed capsules.
 
-T2018-11
+T2018-18
