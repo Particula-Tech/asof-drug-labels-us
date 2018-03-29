@@ -24,7 +24,7 @@ Pfizer
 
 Distributed by Pfizer Labs Division of Pfizer Inc, NY, NY 10017
 
-# PRINCIPAL DISPLAY PANEL - 1 g Single Dose Packet Box
+# PRINCIPAL DISPLAY PANEL - 1 gram Single Dose Packet Box
 
 NDC 0069-3051-75
 
@@ -40,7 +40,7 @@ Distributed by Pfizer Labs Division of Pfizer Inc, NY, NY 10017
 
 Rx only
 
-# PRINCIPAL DISPLAY PANEL - 1 g Single Dose Regimen Box
+# PRINCIPAL DISPLAY PANEL - 1 gram Single Dose Regimen Box
 
 NDC 0069-3051-75
 

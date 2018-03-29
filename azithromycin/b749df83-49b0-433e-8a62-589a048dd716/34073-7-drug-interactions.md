@@ -8,11 +8,11 @@ Although a dose adjustment of azithromycin is not recommended when administered 
 
 ## 7.2 Warfarin
 
-Spontaneous postmarketing reports suggest that concomitant administration of azithromycin may potentiate the effects of oral anticoagulants such as warfarin, although the prothrombin time was not affected in the dedicated drug interaction study with azithromycin and warfarin.
+Spontaneous post-marketing reports suggest that concomitant administration of azithromycin may potentiate the effects of oral anticoagulants such as warfarin, although the prothrombin time was not affected in the dedicated drug interaction study with azithromycin and warfarin.
 Prothrombin times should be carefully monitored while patients are receiving azithromycin and oral anticoagulants concomitantly.
 
-## 7.3 Potential Drug-Drug Interactions with Macrolides
+## 7.3 Potential Drug-Drug Interaction with Macrolides
 
-Interactions with digoxin or phenytoin have not been reported in clinical trials with azithromycin; however, no specific drug interaction studies have been performed to evaluate potential drug-drug interactions.
+Interactions with the following drugs listed below have not been reported in clinical trials with azithromycin; however, no specific drug interaction studies have been performed to evaluate potential drug-drug interaction.
 However, drug interactions have been observed with other macrolide products.
-Until further data are developed regarding drug interactions when digoxin or phenytoin are used concomitantly with azithromycin careful monitoring of patients is advised.
+Until further data are developed regarding drug interactions when digoxin or phenytoin are used with azithromycin careful monitoring of patients is advised.

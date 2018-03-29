@@ -1,38 +1,18 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-ZITHROMAX is supplied in the following strengths and package configurations:
+ZITHROMAX 600 mg tablets (engraved on front with "PFIZER" and on back with "308") are supplied as white, modified oval-shaped, film-coated tablets containing azithromycin dihydrate equivalent to 600 mg azithromycin.
+These are packaged in bottles of 30 tablets.
+ZITHROMAX tablets are supplied as follows:
 
-ZITHROMAX 250 mg tablets are supplied as pink modified capsular shaped, engraved, film-coated tablets containing azithromycin dihydrate equivalent to 250 mg of azithromycin.
-ZITHROMAX 250 mg tablets are engraved with "PFIZER" on one side and "306" on the other.
-These are packaged in bottles and blister cards of 6 tablets (Z-PAKS®) as follows:
-
-| Bottles of 30 | NDC 0069-3060-30 |
+| Bottles of 30 | NDC 0069-3080-30 |
 | --- | --- |
-| Boxes of 3 (Z-PAKS® of 6) | NDC 0069-3060-75 |
-| Unit Dose package of 50 | NDC 0069-3060-86 |
 
-ZITHROMAX 500 mg tablets are supplied as pink modified capsular shaped, engraved, film-coated tablets containing azithromycin dihydrate equivalent to 500 mg of azithromycin.
-ZITHROMAX 500 mg tablets are engraved with "Pfizer" on one side and "ZTM500" on the other.
-These are packaged in bottles and blister cards of 3 tablets (TRI-PAKS™) as follows:
+Tablets should be stored at or below 30°C (86°F).
 
-| Bottles of 30 | NDC 0069-3070-30 |
+ZITHROMAX for oral suspension is supplied in single-dose packets containing azithromycin dihydrate equivalent to 1 gram of azithromycin as follows:
+
+| Boxes of 10 single-dose packets (1 g) | NDC 0069-3051-07 |
 | --- | --- |
-| Boxes of 3 (TRI-PAKS™ of 3 tablets) | NDC 0069-3070-75 |
-| Unit Dose package of 50 | NDC 0069-3070-86 |
+| Boxes of 3 single-dose packets (1 g) | NDC 0069-3051-75 |
 
-ZITHROMAX tablets should be stored between 15° to 30°C (59° to 86°F).
-
-ZITHROMAX for oral suspension after constitution contains a flavored suspension.
-ZITHROMAX for oral suspension is supplied to provide 100 mg/5 mL or 200 mg/5 mL suspension in bottles as follows:
-
-| Azithromycin contents per bottle | NDC |
-| --- | --- |
-| 300 mg | 0069-3110-19 |
-| 600 mg | 0069-3120-19 |
-| 900 mg | 0069-3130-19 |
-| 1200 mg | 0069-3140-19 |
-
-[see Dosage and Administration (2)] for constitution instructions with each bottle type.
-
-Storage: Store dry powder below 30°C (86°F).
-Store constituted suspension between 5° to 30°C (41° to 86°F) and discard when full dosing is completed.
+Store single-dose packets between 5° and 30°C (41° and 86°F).
