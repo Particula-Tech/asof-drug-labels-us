@@ -26,10 +26,9 @@ If treatment continues beyond 28 days, visual function including visual acuity, 
 
 Voriconazole can cause fetal harm when administered to a pregnant woman.
 
-In animals, voriconazole administration was associated with teratogenicity, embryotoxicity, increased gestational length, dystocia and embryomortality.
-Please refer to section 8.1 (Use in Pregnancy) for additional details.
+In animals, voriconazole administration was associated with teratogenicity, embryotoxicity, increased gestational length, dystocia and embryomortality [see Use in Specific Populations (8.1)].
 
-If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be informed of the potential hazard to the fetus.
+If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, inform the patient of the potential hazard to the fetus.
 
 ## 5.5 Arrhythmias and QT Prolongation
 
@@ -63,8 +62,8 @@ Patient management should include laboratory evaluation of renal (particularly s
 
 It is recommended that the standard loading dose regimens be used but that the maintenance dose be halved in patients with mild to moderate hepatic cirrhosis (Child-Pugh Class A and B) receiving VFEND [see Clinical Pharmacology (12.3) and Dosage and Administration (2.6)].
 
-VFEND has not been studied in patients with severe cirrhosis (Child-Pugh Class C). VFEND has been associated with elevations in liver function tests and clinical signs of liver damage, such as jaundice, and should only be used in patients with severe hepatic insufficiency if the benefit outweighs the potential risk.
-Patients with hepatic insufficiency must be carefully monitored for drug toxicity.
+VFEND has not been studied in patients with severe cirrhosis (Child-Pugh Class C). VFEND has been associated with elevations in liver function tests and clinical signs of liver damage, such as jaundice, and should only be used in patients with severe hepatic impairment if the benefit outweighs the potential risk.
+Patients with hepatic impairment must be carefully monitored for drug toxicity.
 
 ## 5.9 Patients With Renal Impairment
 
