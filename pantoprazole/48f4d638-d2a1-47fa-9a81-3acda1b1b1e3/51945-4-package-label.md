@@ -36,9 +36,21 @@ NOVAPLUS®
 
 # PRINCIPAL DISPLAY PANEL - 10 Unit Carton Bundle Label
 
-NDC 0008-0941-02
+Contains 1 mg edetate disodium
 
-Rx ONLY
+Store at 20°-25°C (68°-77°F); excursions permitted to 15°-30°C (59°-86°F).
+[See USP Controlled Room Temperature].
+Protect vials from light; use of vial carton is recommended.
+
+Distributed by Wyeth Pharmaceuticals Inc A subsidiary of Pfizer Inc Philadelphia, PA 19101 under license from Takeda GmbH D78467 Konstanz, Germany
+
+N+ and NOVAPLUS are registered trademarks of Vizient, Inc.
+
+MADE IN FRANCE
+
+14278801 R.1/0417/6171039
+
+NDC 0008-0941-02 Rx ONLY
 
 PROTONIX® I.V.
 (pantoprazole sodium) for Injection
@@ -51,7 +63,13 @@ Equivalent to 40 mg pantoprazole per vial
 
 NOVAPLUS®
 
-LOT EXP
+LOT
+
+EXP
+
+SN
+
+GTIN: 00300080941027
 
 # PRINCIPAL DISPLAY PANEL - 25 Vial Carton
 
