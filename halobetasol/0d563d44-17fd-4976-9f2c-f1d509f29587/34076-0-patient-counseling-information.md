@@ -28,12 +28,14 @@ These reactions may be more likely to occur with occlusive use, prolonged use or
 
 Rx Only
 
-ULTRAVATE is a trademark of Ranbaxy Laboratories, Inc.
+ULTRAVATE is a trademark of Sun Pharmaceutical Industries, Inc.
 
-Manufactured for Ranbaxy Laboratories, Inc., Jacksonville, FL 32257 By: Ferndale Laboratories, Inc., Ferndale MI 48220
+Manufactured by: Ferndale Laboratories, Inc., Ferndale, MI 48220
+
+Distributed by: Sun Pharmaceutical Industries, Inc., Cranbury, NJ 08512
 
 U.S. Patent 8,962,028
 
-Document Control No. 6997I
+Document Control No. 6997I.
 
-Revised: 01/2017
+Revised: 11/2017

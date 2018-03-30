@@ -1,6 +1,6 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Hypothalamic-Pituitary-Adrenal (HPA) Axis Suppression
+## 5.1 Effects on Endocrine System
 
 ULTRAVATE lotion is a topical corticosteroid that has been shown to suppress the hypothalamic-pituitary-adrenal (HPA) axis.
 
