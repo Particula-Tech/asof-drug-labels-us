@@ -1,7 +1,5 @@
 # Package/Label Display Panel
 
-## Diamox® Sequels® (acetazolamide extended-release capsules) 500 mg, 100s Label Text
-
 NDC 51285-754-02
 
 Diamox®
@@ -16,4 +14,4 @@ Capsules)
 
 100 Capsules
 
-1. TEVA Rx only
+TEVA Rx only

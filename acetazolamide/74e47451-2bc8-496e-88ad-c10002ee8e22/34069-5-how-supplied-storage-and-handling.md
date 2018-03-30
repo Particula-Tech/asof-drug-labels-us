@@ -11,3 +11,12 @@ Available in bottles of:
 | --- | --- |
 
 Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
+
+Distributed by:
+
+TEVA PHARMACEUTICALS USA, INC.
+
+North Wales, PA 19454
+
+Rev.
+1/2018
