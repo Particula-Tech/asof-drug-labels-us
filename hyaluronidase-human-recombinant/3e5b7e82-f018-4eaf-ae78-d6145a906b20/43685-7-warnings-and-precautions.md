@@ -15,7 +15,7 @@ Reactivation of HBV replication is often followed by hepatitis, i.e., increase i
 In severe cases increase in bilirubin levels, liver failure, and death can occur.
 
 Screen all patients for HBV infection by measuring HBsAg and anti-HBc before initiating treatment with a rituximab-containing product.
-For patients who show evidence of prior hepatitis B infection (HBsAg positive [regardless of antibody status] or HBsAg negative but anti-HBc positive), consult with physicians with expertise in managing hepatitis B regarding monitoring and consideration for HBV antiviral therapy before and/or during treatment with a rituximab- containing product.
+For patients who show evidence of prior hepatitis B infection (HBsAg positive [regardless of antibody status] or HBsAg negative but anti-HBc positive), consult with physicians with expertise in managing hepatitis B regarding monitoring and consideration for HBV antiviral therapy before and/or during treatment with a rituximab-containing product.
 Monitor patients with evidence of current or prior HBV infection for clinical and laboratory signs of hepatitis or HBV reactivation during and for several months following RITUXAN HYCELA.
 HBV reactivation has been reported up to 24 months following completion of therapy containing rituximab.
 

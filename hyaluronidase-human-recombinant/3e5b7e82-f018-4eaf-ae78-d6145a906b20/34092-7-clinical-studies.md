@@ -4,13 +4,12 @@
 
 The SABRINA study [NCT01200758] was a randomized, two-stage, open-label, multicenter study that enrolled a total of 410 patients with previously untreated, CD20-positive follicular lymphoma of Grade 1, 2 or 3a requiring therapy.
 The study design is identical in stage 1 and 2.
-Patients were randomized (1:1) to receive either a rituximab product by intravenous infusion 375 mg/m2 for 8 cycles or 1 cycle of a rituximab product by intravenous infusion 375 mg/m2 followed by 7 cycles of RITUXAN HYCELA 1,400mg/23,400 Units (1,400 mg rituximab and 23,400 Units hyaluronidase human) both every 3 weeks in combination with a total of 6–8 cycles of CHOP or 8 cycles of CVP chemotherapy.
+Patients were randomized (1:1) to receive either a rituximab product by intravenous infusion 375 mg/m2 for 8 cycles or 1 cycle of a rituximab product by intravenous infusion 375 mg/m2 followed by 7 cycles of RITUXAN HYCELA 1,400 mg/23,400 Units (1,400 mg rituximab and 23,400 Units hyaluronidase human) both every 3 weeks in combination with a total of 6–8 cycles of CHOP or 8 cycles of CVP chemotherapy.
 Patients underwent interim staging after 4 cycles.
 Patients who received R-CHOP and achieved a CR, CRu, PR or SD at the interim assessment could receive either 4 more cycles of R-CHOP or 2 cycles of R-CHOP followed by 2 cycles of monotherapy with rituximab product or RITUXAN HYCELA depending on randomization arm (i.e., a total of 8 cycles of rituximab product or RITUXAN HYCELA).
 Patients with at least a PR after combination treatment with chemotherapy continued with single agent maintenance treatment administered every 8 weeks for 24 months with rituximab product or RITUXAN HYCELA as per their randomization (i.e., total of 12 cycles of maintenance treatment).
 
 Randomization was stratified by: underlying chemotherapy backbone (CHOP vs CVP), Follicular Lymphoma International Prognostic Index (FLIPI) (low-risk vs. intermediate-risk vs. high-risk), and region (Europe and North America vs. South and Central America vs Asia).
-
 The main outcome measure for Stage 1 was the estimated ratio of observed rituximab serum Ctrough SC/Ctrough IV at Cycle 7 of combination treatment with chemotherapy every 3 weeks.
 The main outcome measure for Stage 2 was the investigator-assessed ORR consisting of CR, CRu, and PR at the completion of combination treatment with chemotherapy.
 Additional outcome measures were CRR (CR and CRu) at the end of completion of combination treatment with chemotherapy, ORR and CRR at the end of completion of maintenance treatment, and time-to-event endpoints (progression-free survival (PFS), and overall survival (OS)).
@@ -83,12 +82,12 @@ Table 7: Efficacy Results for MabEase Study
 ## 14.3 Chronic Lymphocytic Leukemia (CLL)
 
 The SAWYER study [NCT01292603] was a randomized, two-part, open-label, multicenter study that enrolled a total of 176 patients with previously untreated CLL.
-Patients were randomized (1:1) to receive either a rituximab product by intravenous infusion, 375 mg/m2, in Cycle 1 followed by up to 5 cycles of rituximab, 500 mg/m2, or rituximab, 375 mg/m2, in Cycle 1 followed by subsequent cycles (2–6) of RITUXAN HYCELA 1,600 mg /26,800 Units (1,600 mg rituximab and 26,800 Units hyaluronidase human), both in combination with fludarabine and cyclophosphamide (FC) chemotherapy.
+Patients were randomized (1:1) to receive either a rituximab product by intravenous infusion, 375 mg/m2, in Cycle 1 followed by up to 5 cycles of rituximab, 500 mg/m2, or rituximab, 375 mg/m2, in Cycle 1 followed by subsequent cycles (2–6) of RITUXAN HYCELA 1,600 mg/26,800 Units (1,600 mg rituximab and 26,800 Units hyaluronidase human), both in combination with fludarabine and cyclophosphamide (FC) chemotherapy.
 The main outcome measure was the non-inferiority of the pharmacokinetic profile of RITUXAN HYCELA compared to rituximab.
 
 The patient population comprised 96% Caucasians, 65% males, a median age of 60 years (range 25–78 years), median BSA of 1.9 m2, 62% had Binet Stage B disease and 93% had typical CLL characterization.
 
-The PK results demonstrated that RITUXAN HYCELA 1,600mg/26,800 Units serum rituximab Ctrough level was non-inferior compared with rituximab at 500 mg/m2 in patients receiving combination treatment with chemotherapy [see Clinical Pharmacology (12.3)].
+The PK results demonstrated that RITUXAN HYCELA 1,600 mg/26,800 Units serum rituximab Ctrough level was non-inferior compared with rituximab at 500 mg/m2 in patients receiving combination treatment with chemotherapy [see Clinical Pharmacology (12.3)].
 
 An additional outcome measure in Part 2 was investigator-assessed response rates.
 Overall response rate was 85% (95% CI: 76; 92) in RITUXAN HYCELA and 81% (95% CI: 71; 88) in the rituximab groups.
@@ -97,7 +96,7 @@ Complete response rate point estimates were 26% (95% CI: 17; 37) and 33% (95% CI
 
 ## 14.4 Patient Experience
 
-Previously untreated adult patients outside of the United States with CD20+ diffuse large B-cell lymphoma (DLBCL) or CD20+ follicular non-Hodgkin's lymphoma (FL) Grades 1, 2, or 3a were randomized to receive a standard chemotherapy regimen (CHOP, CVP, or bendamustine) and either RITUXAN HYCELA 1,400mg/23,400 Units at Cycles 2–4 (after the first cycle with intravenous rituximab) or a rituximab product by intravenous infusion at Cycles 1–4.
+Previously untreated adult patients outside of the United States with CD20+ diffuse large B-cell lymphoma (DLBCL) or CD20+ follicular non-Hodgkin's lymphoma (FL) Grades 1, 2, or 3a were randomized to receive a standard chemotherapy regimen (CHOP, CVP, or bendamustine) and either RITUXAN HYCELA 1,400 mg/23,400 Units at Cycles 2–4 (after the first cycle with intravenous rituximab) or a rituximab product by intravenous infusion at Cycles 1–4.
 After the fourth cycle, patients were crossed over to the alternative route of administration for the remaining 4 cycles.
 After Cycle 8, 477 of 620 patients (77%) reported preferring subcutaneous administration of RITUXAN HYCELA over intravenous rituximab and the most common reason was that administration required less time in the clinic.
 After Cycle 8, 66 of 620 patients (11%) preferred rituximab intravenous administration and the most common reason was that it felt more comfortable during administration.

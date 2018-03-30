@@ -298,7 +298,7 @@ The incidence of treatment-induced/enhanced anti-recombinant human hyaluronidase
 All patients who tested positive for anti-recombinant human hyaluronidase antibodies at any point during the study were negative for neutralizing antibodies.
 
 In the SAWYER study, where previously untreated patients with CLL were treated with RITUXAN HYCELA or rituximab in combination with FC, the incidence of treatment-induced/enhanced anti-rituximab antibodies was 2.4% in the RITUXAN HYCELA group vs. 6.7% in rituximab group.
-The incidence of treatment-induced/enhanced anti- recombinant human hyaluronidase antibodies was 10.6% in the RITUXAN HYCELA treatment arm.
+The incidence of treatment-induced/enhanced anti-recombinant human hyaluronidase antibodies was 10.6% in the RITUXAN HYCELA treatment arm.
 None of the patients who tested positive for anti-recombinant human hyaluronidase antibodies tested positive for neutralizing antibodies.
 
 The clinical relevance of the development of anti-rituximab or anti-recombinant human hyaluronidase antibodies after treatment with RITUXAN HYCELA is not known.
