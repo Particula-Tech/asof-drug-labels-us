@@ -32,4 +32,4 @@ Information on the registry can also be found at the website http://www.aedpregn
 
 # Usage in Pregnancy
 
-Pregnancy Category D (see WARNINGS).
+(see WARNINGS).

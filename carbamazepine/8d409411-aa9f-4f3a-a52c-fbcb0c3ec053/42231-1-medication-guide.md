@@ -34,7 +34,21 @@ TEGRETOL can cause serious side effects, including:
    - red or purple spots on your body
    - bleeding gums or nose bleeds
    - severe fatigue or weakness
-3. Like other antiepileptic drugs, TEGRETOL may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
+3. TEGRETOL may cause allergic reactions or serious problems, which may affect organs and other parts of your body like the liver or blood cells.
+   You may or may not have a rash with these types of reactions.
+   Call your healthcare provider right away if you have any of the following:
+   - swelling of your face, eyes, lips, or tongue
+   - a skin rash
+   - painful sores in the mouth or around your eyes
+   - unusual bruising or bleeding
+   - frequent infections or infections that do not go away
+   - fever, swollen glands, or sore throat that do not go away or come and go
+   - trouble swallowing or breathing
+   - hives
+   - yellowing of your skin or eyes
+   - severe fatigue or weakness
+   - severe muscle pain
+4. Like other antiepileptic drugs, TEGRETOL may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
    Call your healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
    - thoughts about suicide or dying
    - attempts to commit suicide
@@ -228,4 +242,4 @@ Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07
 
 © Novartis
 
-T2014-05 January 2014
+T2018-28 March 2018

@@ -40,7 +40,7 @@ If satisfactory clinical response has not been achieved, plasma levels should be
 No recommendation regarding the safety of carbamazepine for use at doses above 35 mg/kg/24 hours can be made.
 
 Combination Therapy: Tegretol may be used alone or with other anticonvulsants.
-When added to existing anticonvulsant therapy, the drug should be added gradually while the other anticonvulsants are maintained or gradually decreased, except phenytoin, which may have to be increased (see PRECAUTIONS, Drug Interactions, and Pregnancy Category D).
+When added to existing anticonvulsant therapy, the drug should be added gradually while the other anticonvulsants are maintained or gradually decreased, except phenytoin, which may have to be increased (see PRECAUTIONS, Drug Interactions, and Pregnancy).
 
 Trigeminal Neuralgia (SEE INDICATIONS AND USAGE)
 
@@ -57,7 +57,7 @@ At least once every 3 months throughout the treatment period, attempts should be
 | Indication | Tablet* | XR† | Suspension | Tablet* | XR† | Suspension | Tablet* | XR† | Suspension |
 | Epilepsy Under 6 yr | 10-20 mg/kg/day twice a day or 3 times a day |  | 10-20 mg/kg/day 4 times a day | Increase weekly to achieve optimal clinical response, 3 times a day or 4 times a day |  | Increase weekly to achieve optimal clinical response, 3 times a day or 4 times a day | 35 mg/kg/24 hr (see Dosage and Administration section above) |  | 35 mg/kg/24 hr (see Dosage and Administration section above) |
 | 6-12 yr | 100 mg twice a day (200 mg/day) | 100 mg twice a day (200 mg/day) | ½ tsp 4 times a day (200 mg/day) | Add up to 100 mg/day at weekly intervals, 3 times a day or 4 times a day | Add 100 mg/day at weekly intervals, twice a day | Add up to 1 tsp (100 mg)/day at weekly intervals, 3 times a day or 4 times a day |  | 1000 mg/24 hr |  |
-| Over 12 yr | 200 mg twice a day (400 mg/day) | 200 mg twice a day (400 mg/day) | 1 tsp 4 times a day (400 mg/day) | Add up to 200 mg/day at weekly intervals, 3 times a day or 4 times a day | Add up to 200 mg/day at weekly intervals, twice a day | Add up to 2 tsp (200 mg)/day at weekly intervals, 3 times a day or 4 times a day | 1000 mg/24 hr (12-15 yr) 1200 mg/24 hr (>15 yr) 1600 mg/24 hr (adults, in rare instances) |  |  |
+| Over 12 yr | 200 mg twice a day (400 mg/day) | 200 mg twice a day (400 mg/day) | 1 tsp 4 times a day (400 mg/day) | Add up to 200 mg/day at weekly intervals, 3 times a day or 4 times a day | Add up to 200 mg/day at weekly intervals, twice a day | Add up to 2 tsp (200 mg)/day at weekly intervals, 3 times a day or 4 times a day | 1000 mg/24 hr (12-15 yr) 1200 mg/24 hr (> 15 yr) 1600 mg/24 hr (adults, in rare instances) |  |  |
 | Trigeminal Neuralgia | 100 mg twice a day (200 mg/day) | 100 mg twice a day (200 mg/day) | ½ tsp 4 times a day (200 mg/day) | Add up to 200 mg/day in increments of 100 mg every 12 hr | Add up to 200 mg/day in increments of 100 mg every 12 hr | Add up to 2 tsp (200 mg)/day in increments of 50 mg (½ tsp) 4 times a day |  | 1200 mg/24 hr |  |
 
 *Tablet = Chewable or conventional tablets

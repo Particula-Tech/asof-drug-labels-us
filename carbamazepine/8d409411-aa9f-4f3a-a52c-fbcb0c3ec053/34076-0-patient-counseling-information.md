@@ -10,6 +10,9 @@ In addition, the patient should be advised that these signs and symptoms should 
 Patients should be advised that serious skin reactions have been reported in association with Tegretol.
 In the event a skin reaction should occur while taking Tegretol, patients should consult with their physician immediately (see WARNINGS).
 
+Patients should be advised that anaphylactic reactions and angioedema may occur during treatment with Tegretol (see WARNINGS).
+Advise patients to immediately report signs and symptoms suggesting angioedema (swelling of the face, eyes, lips, or tongue, or difficulty in swallowing or breathing) and to stop taking the drug until they have consulted with their healthcare provider.
+
 Patients, their caregivers, and families should be counseled that AEDs, including Tegretol, may increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
 Behaviors of concern should be reported immediately to healthcare providers.
 
