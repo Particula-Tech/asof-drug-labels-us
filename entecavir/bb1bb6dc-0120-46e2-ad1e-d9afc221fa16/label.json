@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA208782"
+  ],
+  "inn": "entecavir",
+  "labeler": "Solco Healthcare LLC",
+  "package_ndcs": [
+    "43547-436-03",
+    "43547-436-09",
+    "43547-436-15",
+    "43547-437-03",
+    "43547-437-09",
+    "43547-437-15"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "telmisartan and hydrochlorothiazide",
+      "name": "ENTECAVIR"
+    }
+  ],
+  "setid": "bb1bb6dc-0120-46e2-ad1e-d9afc221fa16",
+  "source": "dailymed"
+}
