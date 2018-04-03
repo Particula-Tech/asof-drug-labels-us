@@ -8,7 +8,9 @@ Paricalcitol Capsules
 
 1 mcg
 
-30 Capsules Rx only
+30 Capsules
+
+Rx only
 
 # PRINCIPAL DISPLAY PANEL - 2 mcg Capsule Bottle Label
 
@@ -20,7 +22,9 @@ Paricalcitol Capsules
 
 2 mcg
 
-30 Capsules Rx only
+30 Capsules
+
+Rx only
 
 # PRINCIPAL DISPLAY PANEL - 4 mcg Capsule Bottle Label
 
@@ -32,4 +36,6 @@ Paricalcitol Capsules
 
 4 mcg
 
-30 Capsules Rx only
+30 Capsules
+
+Rx only
