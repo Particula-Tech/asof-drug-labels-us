@@ -3,11 +3,13 @@
     "ANDA074625"
   ],
   "inn": "oxybutynin",
-  "labeler": "Upsher-Smith Laboratories, Inc.",
+  "labeler": "Upsher-Smith Laboratories, LLC",
   "package_ndcs": [
     "0832-0038-00",
+    "0832-0038-01",
     "0832-0038-10",
-    "0832-0038-50"
+    "0832-0038-50",
+    "0832-0038-89"
   ],
   "products": [
     {
