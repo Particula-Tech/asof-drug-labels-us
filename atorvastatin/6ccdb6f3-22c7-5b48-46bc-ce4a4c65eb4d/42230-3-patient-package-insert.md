@@ -2,6 +2,8 @@ PATIENT INFORMATION
 
 Atorvastatin Calcium Tablets
 
+(a tor'' va stat' in kal' see um)
+
 Read the Patient Information that comes with atorvastatin calcium tablets before you start taking it and each time you get a refill.
 There may be new information.
 This leaflet does not take the place of talking with your doctor about your condition or treatment.
@@ -47,7 +49,7 @@ Do not take atorvastatin calcium tablets if you:
   The active ingredient is atorvastatin.
   See the end of this leaflet for a complete list of ingredients in atorvastatin calcium tablets.
 
-Atorvastatin calcium tablets have not been studied in children under 10 years of age.
+Atorvastatin calcium tablets dosing has not been established in children under 10 years of age.
 
 Before you start atorvastatin calcium tablets
 
@@ -144,7 +146,7 @@ Ask your doctor or pharmacist for a complete list.
 
 How do I store atorvastatin calcium tablets
 
-- Store atorvastatin calcium tablets at 20° - 25°C (68° - 77°F) [see USP Controlled Room Temperature].
+- Store atorvastatin calcium tablets at 20°C - 25°C (68°F - 77°F)
 - Do not keep medicine that is out of date or that you no longer need.
 - Keep atorvastatin calcium tablets and all medicines out of the reach of children.
   Be sure that if you throw medicine away, it is out of the reach of children.
@@ -175,7 +177,7 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally - 500 090 INDIA
 
-Revised: 0717
+Revised: 0218
 
 or
 
@@ -185,7 +187,7 @@ Dr. Reddy's Laboratories Limited
 
 Srikakulam - 532 409 INDIA
 
-Revised: 0717
+Revised: 0218
 
 Dispense with Patient Information Sheet available at:
 

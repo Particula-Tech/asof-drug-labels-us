@@ -1,37 +1,38 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Hyperlipidemia (Heterozygous Familial and Nonfamilial) and Mixed Dyslipidemia (Fredrickson Types IIa and IIb)
+## 2.1 Hyperlipidemia and Mixed Dyslipidemia
 
 The recommended starting dose of atorvastatin calcium tablets is 10 or 20 mg once daily.
 Patients who require a large reduction in LDL-C (more than 45%) may be started at 40 mg once daily.
 The dosage range of atorvastatin calcium tablets is 10 to 80 mg once daily.
 Atorvastatin calcium tablets can be administered as a single dose at any time of the day, with or without food.
-The starting dose and maintenance doses of atorvastatin calcium tablets should be individualized according to patient characteristics such as goal of therapy and response (see current NCEP Guidelines).
+The starting dose and maintenance doses of atorvastatin calcium tablets should be individualized according to patient characteristics such as goal of therapy and response.
 After initiation and/or upon titration of atorvastatin calcium tablets, lipid levels should be analyzed within 2 to 4 weeks and dosage adjusted accordingly.
 
-## 2.2 Heterozygous Familial Hypercholesterolemia in Pediatric Patients (10 to 17 years of age)
+## 2.2 Heterozygous Familial Hypercholesterolemia in Pediatric Patients (10 Years to 17 Years of Age)
 
-The recommended starting dose of atorvastatin calcium tablets is 10 mg/day; the maximum recommended dose is 20 mg/day (doses greater than 20 mg have not been studied in this patient population).
-Doses should be individualized according to the recommended goal of therapy [see current NCEP Pediatric Panel Guidelines, Clinical Pharmacology (12), and Indications and Usage (1.2)].
-Adjustments should be made at intervals of 4 weeks or more.
+The recommended starting dose of atorvastatin calcium tablets is 10 mg/day; the usual dose range is 10 to 20 mg orally once daily [see Clinical Studies (14.6)].
+Doses should be individualized according to the recommended goal of therapy [see Indications and Usage (1.2) and Clinical Pharmacology (12)].
+Doses should be individualized according to the recommended goal of therapy [see Indications and Usage (1.2) and Clinical Pharmacology (12)].
+Adjustments should be made at intervals of 4 weeks or more
 
 ## 2.3 Homozygous Familial Hypercholesterolemia
 
-The dosage of atorvastatin calcium tablets in patients with homozygous FH is 10 to 80 mg daily.
+The dosage of atorvastatin calcium tablets in patients with HoFH is 10 to 80 mg daily.
 Atorvastatin calcium tablets should be used as an adjunct to other lipid-lowering treatments (e.g., LDL apheresis) in these patients or if such treatments are unavailable.
 
 ## 2.4 Concomitant Lipid-Lowering Therapy
 
 Atorvastatin calcium tablets may be used with bile acid resins.
-The combination of HMG-CoA reductase inhibitors (statins) and fibrates should generally be used with caution [see Warnings and Precautions, Skeletal Muscle (5.1), Drug Interactions (7)].
+The combination of HMG-CoA reductase inhibitors (statins) and fibrates should generally be used with caution [see Warnings and Precautions(5.1) and Drug Interactions (7)].
 
 ## 2.5 Dosage in Patients with Renal Impairment
 
-Renal disease does not affect the plasma concentrations nor LDL-C reduction of atorvastatin calcium tablets; thus, dosage adjustment in patients with renal dysfunction is not necessary [see Warnings and Precautions, Skeletal Muscle (5.1), Clinical Pharmacology, Pharmacokinetics (12.3)].
+Renal disease does not affect the plasma concentrations nor LDL-C reduction of atorvastatin calcium tablets; thus, dosage adjustment in patients with renal dysfunction is not necessary [see Warnings and Precautions (5.1)and Clinical Pharmacology, (12.3)].
 
 ## 2.6 Dosage in Patients Taking Cyclosporine, Clarithromycin, Itraconazole, or Certain Protease Inhibitors
 
 In patients taking cyclosporine or the HIV protease inhibitors (tipranavir plus ritonavir) or the hepatitis C protease inhibitor (telaprevir), therapy with atorvastatin calcium tablets should be avoided.
 In patients with HIV taking lopinavir plus ritonavir, caution should be used when prescribing atorvastatin calcium tablets and the lowest dose necessary employed.
 In patients taking clarithromycin, itraconazole, or in patients with HIV taking a combination of saquinavir plus ritonavir, darunavir plus ritonavir, fosamprenavir, or fosamprenavir plus ritonavir, therapy with atorvastatin calcium tablets should be limited to 20 mg, and appropriate clinical assessment is recommended to ensure that the lowest dose necessary of atorvastatin calcium is employed.
-In patients taking the HIV protease inhibitor nelfinavir or the hepatitis C protease inhibitor boceprevir, therapy with atorvastatin calcium tablets should be limited to 40 mg, and appropriate clinical assessment is recommended to ensure that the lowest dose necessary of atorvastatin calcium tablets is employed [see Warnings and Precautions, Skeletal Muscle (5.1), Drug Interactions (7)].
+In patients taking the HIV protease inhibitor nelfinavir or the hepatitis C protease inhibitor boceprevir, therapy with atorvastatin calcium tablets should be limited to 40 mg, and appropriate clinical assessment is recommended to ensure that the lowest dose necessary of atorvastatin calcium tablets is employed [see Warnings and Precautions (5.1) and Drug Interactions (7)].
