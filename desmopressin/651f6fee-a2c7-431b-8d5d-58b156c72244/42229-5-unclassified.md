@@ -7,6 +7,6 @@ Manufactured for: Ferring Pharmaceuticals Inc. Parsippany, NJ 07054 USA
 Origin Sweden
 
 Rev.
-04/2015
+03/2018
 
-2009054214
+XXXXXXXXXX
