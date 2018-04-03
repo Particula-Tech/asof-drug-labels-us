@@ -46,12 +46,12 @@ Subjects were randomly assigned to either 10 mg/day or 80 mg/day of atorvastatin
 The primary endpoint was the time-to-first occurrence of any of the following major cardiovascular events (MCVE): death due to CHD, non-fatal myocardial infarction, resuscitated cardiac arrest, and fatal and non-fatal stroke.
 The mean LDL-C, TC, TG, non-HDL, and HDL cholesterol levels at 12 weeks were 73, 145, 128, 98, and 47 mg/dL during treatment with 80 mg of atorvastatin calcium and 99, 177, 152, 129, and 48 mg/dL during treatment with 10 mg of atorvastatin calcium.
 
-Treatment with atorvastatin calcium 80 mg/day significantly reduced the rate of MCVE (434 events in the 80 mg/day group vs. 548 events in the 10 mg/day group) with a relative risk reduction of 22%, HR 0.78, 95% CI (0.69, 0.89), p=0.0002 (see Figure 3 and Table 5).
+Treatment with atorvastatin calcium 80 mg/day significantly reduced the rate of MCVE (434 events in the 80 mg/day group vs. 548 events in the 10 mg/day group) with a relative risk reduction of 22%, HR 0.78, 95% CI (0.69, 0.89), p=0.0002 (see Figure 3 and Table 6).
 The overall risk reduction was consistent regardless of age (<65, ≥65) or gender.
 
 Figure 3: Effect of Atorvastatin Calcium 80 mg/day vs. 10 mg/day on Time to Occurrence of Major Cardiovascular Events (TNT)
 
-TABLE 5.
+TABLE 6.
 Overview of Efficacy Results in TNT
 
 | Endpoint | Atorvastatin |  | Atorvastatin |  | HRa (95%CI) |
@@ -104,17 +104,17 @@ There was no significant difference between the treatment groups for the primary
 There were no significant differences between the treatment groups for all-cause mortality: 366 (8.2%) in the atorvastatin calcium 80 mg/day group vs. 374 (8.4%) in the simvastatin 20 to 40 mg/day group.
 The proportions of subjects who experienced CV or non-CV death were similar for the atorvastatin calcium 80 mg group and the simvastatin 20 to 40 mg group.
 
-## 14.2 Hyperlipidemia (Heterozygous Familial and Nonfamilial) and Mixed Dyslipidemia (Fredrickson Types IIa and IIb)
+## 14.2 Hyperlipidemia and Mixed Dyslipidemia
 
-Atorvastatin calcium reduces total-C, LDL-C, VLDL-C, apo B, and TG, and increases HDL-C in patients with hyperlipidemia and mixed dyslipidemia.
+Atorvastatin calcium reduces total-C, LDL-C, VLDL-C, apo B, and TG, and increases HDL-C in patients with hyperlipidemia (heterozygous familial and nonfamilial) and mixed dyslipidemia (Fredrickson Types IIa and IIb).
 Therapeutic response is seen within 2 weeks, and maximum response is usually achieved within 4 weeks and maintained during chronic therapy.
 
 Atorvastatin calcium is effective in a wide variety of patient populations with hyperlipidemia, with and without hypertriglyceridemia, in men and women, and in the elderly.
 
 In two multicenter, placebo-controlled, dose-response studies in patients with hyperlipidemia, atorvastatin calcium given as a single dose over 6 weeks, significantly reduced total-C, LDL-C, apo B, and TG.
-(Pooled results are provided in Table 6.)
+(Pooled results are provided in Table 7.)
 
-TABLE 6.
+TABLE 7.
 Dose Response in Patients With Primary Hyperlipidemia (Adjusted Mean % Change From Baseline)a
 
 | Dose | N | TC | LDL-C | Apo B | TG | HDL-C | Non-HDLC/ HDL-C |
@@ -131,9 +131,9 @@ In patients with Fredrickson Types IIa and IIb hyperlipoproteinemia pooled from 
 Additionally, analysis of the pooled data demonstrated consistent and significant decreases in total-C, LDL-C, TG, total-C/HDL-C, and LDL-C/HDL-C.
 
 In three multicenter, double-blind studies in patients with hyperlipidemia, atorvastatin calcium was compared to other statins.
-After randomization, patients were treated for 16 weeks with either atorvastatin calcium 10 mg per day or a fixed dose of the comparative agent (Table 7).
+After randomization, patients were treated for 16 weeks with either atorvastatin calcium 10 mg per day or a fixed dose of the comparative agent (Table 8).
 
-TABLE 7.
+TABLE 8.
 Mean Percentage Change From Baseline at Endpoint (Double-Blind, Randomized, Active-Controlled Trials)
 
 | Treatment (Daily Dose) | N | Total-C | LDL-C | Apo B | TG | HDL-C | Non-HDL-C/ HDL-C |
@@ -160,12 +160,12 @@ The impact on clinical outcomes of the differences in lipid-altering effects bet
 Table 7 does not contain data comparing the effects of atorvastatin calcium 10 mg and higher doses of lovastatin, pravastatin, and simvastatin.
 The drugs compared in the studies summarized in the table are not necessarily interchangeable.
 
-## 14.3 Hypertriglyceridemia (Fredrickson Type IV)
+## 14.3 Hypertriglyceridemia
 
-The response to atorvastatin calcium in 64 patients with isolated hypertriglyceridemia treated across several clinical trials is shown in the table below (Table 8).
+The response to atorvastatin calcium in 64 patients with isolated hypertriglyceridemia(Fredrickson Type IV) treated across several clinical trials is shown in the table below (Table 9).
 For the atorvastatin calcium-treated patients, median (min, max) baseline TG level was 565 (267 to 1502).
 
-TABLE 8.
+TABLE 9.
 Combined Patients With Isolated Elevated TG: Median (min, max) Percentage Change From Baseline
 
 |  | Placebo | Atorvastatin Calcium | Atorvastatin Calcium | Atorvastatin Calcium |
@@ -179,11 +179,11 @@ Combined Patients With Isolated Elevated TG: Median (min, max) Percentage Change
 | VLDL-C | -1 (-31.9, 53.2) | -48.8 (-85.8, 57.3) | -44.6 (-62.2, -10.8) | -62 (-88.2, 37.6) |
 | non-HDL-C | -2.8 (-17.6, 30) | -33 (-52.1, -13.3) | -42.7 (-53.7, -17.4) | -51.5 (-72.9, -4.3) |
 
-## 14.4 Dysbetalipoproteinemia (Fredrickson Type III)
+## 14.4 Dysbetalipoproteinemia
 
-The results of an open-label crossover study of 16 patients (genotypes: 14 apo E2/E2 and 2 apo E3/E2) with dysbetalipoproteinemia (Fredrickson Type III) are shown in the table below (Table 9).
+The results of an open-label crossover study of 16 patients (genotypes: 14 apo E2/E2 and 2 apo E3/E2) with dysbetalipoproteinemia (Fredrickson Type III) are shown in the table below (Table 10).
 
-TABLE 9.
+TABLE 10.
 Open-Label Crossover Study of 16 Patients With Dysbetalipoproteinemia (Fredrickson Type III)
 
 |  |  | Median % Change (min, max) |  |
@@ -197,7 +197,7 @@ Open-Label Crossover Study of 16 Patients With Dysbetalipoproteinemia (Fredricks
 
 ## 14.5 Homozygous Familial Hypercholesterolemia
 
-In a study without a concurrent control group, 29 patients ages 6 to 37 years with homozygous FH received maximum daily doses of 20 to 80 mg of atorvastatin calcium.
+In a study without a concurrent control group, 29 patients ages 6 years to 37 years with HoFH received maximum daily doses of 20 to 80 mg of atorvastatin calcium.
 The mean LDL-C reduction in this study was 18%.
 Twenty-five patients with a reduction in LDL-C had a mean response of 20% (range of 7% to 53%, median of 24%); the remaining 4 patients had 7% to 24% increases in LDL-C.
 Five of the 29 patients had absent LDL-receptor function.
@@ -206,15 +206,15 @@ The remaining 3 receptor-negative patients had a mean LDL-C reduction of 22%.
 
 ## 14.6 Heterozygous Familial Hypercholesterolemia in Pediatric Patients
 
-In a double-blind, placebo-controlled study followed by an open-label phase, 187 boys and postmenarchal girls 10 to 17 years of age (mean age 14.1 years) with heterozygous familial hypercholesterolemia (FH) or severe hypercholesterolemia, were randomized to atorvastatin calcium (n=140) or placebo (n=47) for 26 weeks and then all received atorvastatin calcium for 26 weeks.
+In a double-blind, placebo-controlled study followed by an open-label phase, 187 boys and post-menarchal girls 10 years to 17 years of age (mean age 14.1 years) with heterozygous familial hypercholesterolemia (HeFH) or severe hypercholesterolemia, were randomized to atorvastatin calcium (n=140) or placebo (n=47) for 26 weeks and then all received atorvastatin calcium for 26 weeks.
 Inclusion in the study required 1) a baseline LDL-C level ≥ 190 mg/dL or 2) a baseline LDL-C level ≥ 160 mg/dL and positive family history of FH or documented premature cardiovascular disease in a first or second-degree relative.
 The mean baseline LDL-C value was 218.6 mg/dL (range: 138.5 to 385 mg/dL) in the atorvastatin calcium group compared to 230 mg/dL (range: 160 to 324.5 mg/dL) in the placebo group.
 The dosage of atorvastatin calcium (once daily) was 10 mg for the first 4 weeks and uptitrated to 20 mg if the LDL-C level was > 130 mg/dL.
 The number of atorvastatin calcium-treated patients who required uptitration to 20 mg after Week 4 during the double-blind phase was 78 (55.7%).
 
-Atorvastatin calcium significantly decreased plasma levels of total-C, LDL-C, triglycerides, and apolipoprotein B during the 26-week double-blind phase (see Table 10).
+Atorvastatin calcium significantly decreased plasma levels of total-C, LDL-C, triglycerides, and apolipoprotein B during the 26-week double-blind phase (see Table 11).
 
-TABLE 10.
+TABLE 11.
 Lipid-altering Effects of Atorvastatin Calcium in Adolescent Boys and Girls with Heterozygous Familial Hypercholesterolemia or Severe Hypercholesterolemia (Mean Percentage Change From Baseline at Endpoint in Intention-to-Treat Population)
 
 | DOSAGE | N | Total-C | LDL-C | HDL-C | TG | Apolipoprotein B |
@@ -224,5 +224,7 @@ Lipid-altering Effects of Atorvastatin Calcium in Adolescent Boys and Girls with
 
 The mean achieved LDL-C value was 130.7 mg/dL (range: 70 to 242 mg/dL) in the atorvastatin calcium group compared to 228.5 mg/dL (range: 152 to 385 mg/dL) in the placebo group during the 26-week double-blind phase.
 
-The safety and efficacy of doses above 20 mg have not been studied in controlled trials in children.
 The long-term efficacy of atorvastatin calcium therapy in childhood to reduce morbidity and mortality in adulthood has not been established.
+
+Additional pediatric use information is approved for Pfizer’s LIPITOR (atorvastatin calcium) tablets.
+However, due to Pfizer’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.

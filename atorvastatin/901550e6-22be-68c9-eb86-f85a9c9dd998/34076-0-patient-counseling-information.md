@@ -1,5 +1,7 @@
 # 17 PATIENT COUNSELING INFORMATION
 
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
+
 Patients taking atorvastatin calcium should be advised that cholesterol is a chronic condition and they should adhere to their medication along with their National Cholesterol Education Program (NCEP)-recommended diet, a regular exercise program as appropriate, and periodic testing of a fasting lipid panel to determine goal attainment.
 
 Patients should be advised about substances they should not take concomitantly with atorvastatin [see Warnings and Precautions (5.1)].
@@ -16,20 +18,19 @@ They should discuss all medication, both prescription and over the counter, with
 It is recommended that liver enzyme tests be performed before the initiation of atorvastatin calcium and if signs or symptoms of liver injury occur.
 All patients treated with atorvastatin calcium should be advised to report promptly any symptoms that may indicate liver injury, including fatigue, anorexia, right upper abdominal discomfort, dark urine, or jaundice.
 
-## 17.3 Pregnancy
+## 17.3 Embryofetal Toxicity
 
-Women of childbearing age should be advised to use an effective method of birth control to prevent pregnancy while using atorvastatin calcium.
-Discuss future pregnancy plans with your patients, and discuss when to stop atorvastatin calcium if they are trying to conceive.
-Patients should be advised that if they become pregnant, they should stop taking atorvastatin calcium and call their healthcare professional.
+Advise females of reproductive potential of the risk to a fetus, to use effective contraception during treatment and to inform their healthcare provider of a known or suspected pregnancy [see Contraindications (4) and Use in Specific Populations (8.1, 8.3)].
 
-## 17.4 Breastfeeding
+## 17.4 Lactation
 
-Women who are breastfeeding should be advised to not use atorvastatin calcium.
-Patients who have a lipid disorder and are breast-feeding, should be advised to discuss the options with their healthcare professional.
+Advise women not to breastfeed during treatment with atorvastatin calcium [see Contraindications (4) and Use in Specific Populations (8.2)].
 
 PATIENT INFORMATION
 
 Atorvastatin Calcium Tablets
+
+(a tor'' va stat' in kal' see um)
 
 Read the Patient Information that comes with atorvastatin calcium tablets before you start taking it and each time you get a refill.
 There may be new information.
@@ -76,7 +77,7 @@ Do not take atorvastatin calcium tablets if you:
   The active ingredient is atorvastatin.
   See the end of this leaflet for a complete list of ingredients in atorvastatin calcium tablets.
 
-Atorvastatin calcium tablets has not been studied in children under 10 years of age.
+Atorvastatin calcium tablets dosing has not been established in children under 10 years of age.
 
 Before you start atorvastatin calcium tablets
 
@@ -173,7 +174,7 @@ Ask your doctor or pharmacist for a complete list.
 
 How do I store atorvastatin calcium tablets
 
-- Store atorvastatin calcium tablets at 20° - 25°C (68° - 77°F) [see USP Controlled Room Temperature].
+- Store atorvastatin calcium tablets at 20°C - 25°C (68°F - 77°F).
 - Do not keep medicine that is out of date or that you no longer need.
 - Keep atorvastatin calcium tablets and all medicines out of the reach of children.
   Be sure that if you throw medicine away, it is out of the reach of children.
@@ -204,7 +205,7 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally – 500 090 INDIA
 
-Revised: 0717
+Revised: 0218
 
 or
 
@@ -214,7 +215,7 @@ Dr. Reddy’s Laboratories Limited
 
 Srikakulam - 532 409 INDIA
 
-Revised: 0717
+Revised: 0218
 
 Dispense with Patient Information Sheet available at:
 

@@ -18,12 +18,12 @@ Atorvastatin calcium therapy should be discontinued if markedly elevated CPK lev
 
 The risk of myopathy during treatment with drugs in this class is increased with concurrent administration of cyclosporine, fibric acid derivatives, erythromycin, clarithromycin, the hepatitis C protease inhibitor telaprevir, combinations of HIV protease inhibitors, including saquinavir plus ritonavir, lopinavir plus ritonavir, tipranavir plus ritonavir, darunavir plus ritonavir, fosamprenavir, and fosamprenavir plus ritonavir, niacin, or azole antifungals.
 Physicians considering combined therapy with atorvastatin calcium and fibric acid derivatives, erythromycin, clarithromycin, a combination of saquinavir plus ritonavir, lopinavir plus ritonavir, darunavir plus ritonavir, fosamprenavir, or fosamprenavir plus ritonavir, azole antifungals, or lipid-modifying doses of niacin should carefully weigh the potential benefits and risks and should carefully monitor patients for any signs or symptoms of muscle pain, tenderness, or weakness, particularly during the initial months of therapy and during any periods of upward dosage titration of either drug.
-Lower starting and maintenance doses of atorvastatin should be considered when taken concomitantly with the aforementioned drugs (see Drug Interactions (7)).
+Lower starting and maintenance doses of atorvastatin should be considered when taken concomitantly with the aforementioned drugs [see Drug Interactions (7)].
 Periodic creatine phosphokinase (CPK) determinations may be considered in such situations, but there is no assurance that such monitoring will prevent the occurrence of severe myopathy.
 
-Prescribing recommendations for interacting agents are summarized in Table 1 [see also Dosage and Administration (2.6), Drug Interactions (7), Clinical Pharmacology (12.3)].
+Prescribing recommendations for interacting agents are summarized in Table 2 [see also Dosage and Administration (2.6), Drug Interactions (7), Clinical Pharmacology (12.3)].
 
-Table 1.
+Table 2.
 Drug Interactions Associated with Increased Risk of Myopathy/Rhabdomyolysis
 
 | Interacting Agents | Prescribing Recommendations |
@@ -56,7 +56,7 @@ If serious liver injury with clinical symptoms and/or hyperbilirubinemia or jaun
 If an alternate etiology is not found, do not restart atorvastatin calcium.
 
 Atorvastatin calcium should be used with caution in patients who consume substantial quantities of alcohol and/or have a history of liver disease.
-Active liver disease or unexplained persistent transaminase elevations are contraindications to the use of atorvastatin calcium [see Contraindications (4.1)].
+Active liver disease or unexplained persistent transaminase elevations are contraindications to the use of atorvastatin calcium [see Contraindications (4)].
 
 ## 5.3 Endocrine Function
 
