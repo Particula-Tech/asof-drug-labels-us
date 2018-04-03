@@ -4,7 +4,10 @@ LEVOPHED (norepinephrine bitartrate) injection, USP, contains the equivalent of 
 
 Supplied as:
 
-5 mL vials (4 mL fill, 4 mg/4 mL) in boxes of 10 (NDC No. 0409-3375-04)
+| Unit of Sale | Concentration |
+| --- | --- |
+| NDC 0409-3375-04 | 4 mg/4 mL |
+| 10 in a Carton | (1 mg/mL) |
 
 Store at 20 to 25°C (68 to 77°F); excursions permitted to 15 to 30°C (59 to 86°F).
 [See USP Controlled Room Temperature.]
@@ -13,8 +16,8 @@ Protect from light.
 
 Regitine, trademark, CIBA Pharmaceuticals Company.
 
-Created: June, 2007
+Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
-Printed in USA EN-1544
+LAB-1150-1.0
 
-Hospira, Inc., Lake Forest, IL 60045 USA
+Revised: 03/2018
