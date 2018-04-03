@@ -10,7 +10,9 @@ Benzonatate Capsules, USP
 
 Protect from Light
 
-Rx only 100 Soft Gelatin Capsules
+Rx only
+
+100 Soft Gelatin Capsules
 
 # PRINCIPAL DISPLAY PANEL - 200 mg Capsule Bottle Label
 
@@ -24,4 +26,6 @@ Benzonatate Capsules, USP
 
 Protect from Light
 
-Rx only 100 Soft Gelatin Capsules
+Rx only
+
+100 Soft Gelatin Capsules
