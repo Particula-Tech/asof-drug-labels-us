@@ -53,20 +53,23 @@ Note: the dose must be set to 0.05 mL.
 
 | Device description |  |
 | --- | --- |
+| LUCENTIS prefilled syringes are available in 2 dose strengths: LUCENTIS 0.5 mg prefilled syringe with a CLEAR finger grip. |  |
+| LUCENTIS 0.3 mg prefilled syringe with an ORANGE finger grip. |  |
+| Check the labels on the LUCENTIS carton, syringe tray and prefilled syringe to make sure you have the correct dose strength. |  |
 | Step 1: Prepare |  |
-| Make sure that your pack contains a sterile prefilled syringe in a sealed tray. Peel the lid off the syringe tray and, using aseptic technique, remove the syringe. |  |
+| Make sure that your pack contains a sterile prefilled syringe in a sealed tray.Peel the lid off the syringe tray and, using aseptic technique, remove the syringe. |  |
 | Step 2: Inspect syringe |  |
-| LUCENTIS should be colorless to pale yellow.Do not use the prefilled syringe if: –the syringe cap is detached from the Luer lock. –the syringe is damaged. –particulates, cloudiness, or discoloration are visible. |  |
+| LUCENTIS should be colorless to pale yellow.Do not use the prefilled syringe if: -the syringe cap is detached from the Luer lock.-the syringe is damaged.-particulates, cloudiness, or discoloration are visible. |  |
 | Step 3: Remove syringe cap |  |
 | Snap off (do not turn or twist) the syringe cap (see Figure 2). |  |
 | Step 4: Attach needle |  |
-| Attach a 30G × ½ inch sterile injection needle firmly onto the syringe by screwing it tightly onto the Luer lock (see Figure 3). Carefully remove the needle cap by pulling it straight off. Note: Do not wipe the needle at any time. |  |
+| Attach a 30G × ½ inch sterile injection needle firmly onto the syringe by screwing it tightly onto the Luer lock (see Figure 3).Carefully remove the needle cap by pulling it straight off. Note: Do not wipe the needle at any time. |  |
 | Step 5: Dislodge air bubbles |  |
-| Hold the syringe with the needle pointing up. If there are any air bubbles, gently tap the syringe with your finger until the bubbles rise to the top (see Figure 4). |  |
+| Hold the syringe with the needle pointing up.If there are any air bubbles, gently tap the syringe with your finger until the bubbles rise to the top (see Figure 4). |  |
 | Step 6: Expel air and adjust drug dose |  |
 | Hold the syringe at eye level, and carefully push the plunger rod until the edge below the dome of the rubber stopper is aligned with the 0.05 mL dose mark (see Figure 5). Note: The plunger rod is not attached to the rubber stopper – this is to prevent air being drawn into the syringe. |  |
 | Step 7: Inject |  |
-| The injection procedure should be carried out under aseptic conditions.Insert the needle into the injection site. Inject slowly until rubber stopper reaches the bottom of the syringe to deliver the volume of 0.05 mL.After injection, do not recap the needle or detach it from the syringe. Dispose of the used syringe together with the needle in a sharps disposal container or in accordance with local requirements. |  |
+| The injection procedure should be carried out under aseptic conditions.Insert the needle into the injection site.Inject slowly until rubber stopper reaches the bottom of the syringe to deliver the volume of 0.05 mL.After injection, do not recap the needle or detach it from the syringe. Dispose of the used syringe together with the needle in a sharps disposal container or in accordance with local requirements. |  |
 
 Vial:
 

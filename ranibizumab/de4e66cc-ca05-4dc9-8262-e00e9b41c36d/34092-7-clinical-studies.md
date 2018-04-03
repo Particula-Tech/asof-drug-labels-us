@@ -181,8 +181,9 @@ At Month 24, DR improvement by ≥3-steps in ETDRS-DRSS from baseline in subgrou
 
 The difference in the proportion of patients treated with LUCENTIS 0.3 mg compared to sham who achieved DR improvement based on the ETDRS-DRSS was observed as early as Month 3 for ≥2-step improvement or at Month 12 for ≥3-step improvement.
 
-| Figure 7 Proportion of Patients with ≥ 3-Step and ≥ 2-Step Improvement from Baseline in ETDRS Diabetic Retinopathy Severity Level over Time in Study D-1 and Study D-2 |
-| --- |
+| Figure 7 Proportion of Patients with ≥ 3-Step and ≥ 2-Step Improvement from Baseline in ETDRS Diabetic Retinopathy Severity Level over Time in Study D-1 and Study D-2 |  |  |  |
+| --- | --- | --- | --- |
+|  | ≥3-Step Improvement from Baseline Over Time | ≥2-Step Improvement from Baseline Over Time |  |
 
 Study D-3 enrolled DR patients with and without DME; 88 (22%) eyes with baseline DME and 306 (78%) eyes without baseline DME and balanced across treatment groups.
 Study D-3 was a randomized, active-controlled study where patient age ranged from 20 to 83 with a mean age of 51 years.

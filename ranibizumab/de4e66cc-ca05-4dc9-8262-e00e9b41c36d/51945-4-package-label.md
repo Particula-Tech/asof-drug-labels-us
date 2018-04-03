@@ -22,27 +22,29 @@ Genentech
 
 10183353
 
-# PRINCIPAL DISPLAY PANEL - 0.3 mg Vial Carton
+# PRINCIPAL DISPLAY PANEL - 0.3 mg Syringe Packet
 
-NDC 50242-082-02
+NDC 50242-082-03
 
 LUCENTIS® RANIBIZUMAB INJECTION
 
-0.3 mg DOSE SINGLE-USE VIAL
+0.3 mg DOSE PREFILLED SYRINGE STERILE.
+SINGLE USE.
+
+INDICATED FOR
+
+Diabetic macular edema (DME) Diabetic retinopathy (DR)
 
 0.3 mg DME | DR
 
-IMPORTANT: A 5-micron sterile filter needle (19-gauge x 1-1/2 inch) is required for preparation, but not included.
-See enclosed package insert.
-
 For intravitreal injection only.
-
-KEEP REFRIGERATED.
-DO NOT FREEZE.
-PROTECT VIAL FROM LIGHT.
 
 Rx only
 
+KEEP REFRIGERATED.
+DO NOT FREEZE.
+PROTECT FROM LIGHT.
+
 Genentech
 
-10173443
+10188247
