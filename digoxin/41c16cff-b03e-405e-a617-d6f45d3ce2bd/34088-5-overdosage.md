@@ -25,7 +25,7 @@ Visual manifestations may also occur with aberration in color vision (predominan
 Neurological and visual symptoms may persist after other signs of toxicity have resolved.
 In chronic toxicity, non-specific extra-cardiac symptoms, such as malaise and weakness, may predominate.
 
-Children:In pediatric patients, signs and symptoms of toxicity can occur during or shortly after the dose of digoxin.
+Children: In pediatric patients, signs and symptoms of toxicity can occur during or shortly after the dose of digoxin.
 Frequent non-cardiac effects are similar to those observed in adults although nausea and vomiting are not seen frequently in infants and small pediatric patients.
 Other reported manifestations of overdose are weight loss in older age groups, failure to thrive in infants, abdominal pain caused by mesenteric artery ischemia, drowsiness, and behavioral disturbances including psychotic episodes.
 Arrhythmias and combinations of arrhythmias that occur in adult patients can also occur in pediatric patients although sinus tachycardia, supraventricular tachycardia, and rapid atrial fibrillation are seen less frequently in pediatric patients.

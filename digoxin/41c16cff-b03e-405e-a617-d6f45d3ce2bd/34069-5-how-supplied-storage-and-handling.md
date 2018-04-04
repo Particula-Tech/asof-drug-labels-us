@@ -6,7 +6,7 @@ Bottles of 100 tablets.
 Bottles of 1000 tablets.
 Bottles of 5000 tablets.
 
-Digoxin Tablets, USP 0.25 mg are White, Round, Scored Tablets, Debossed "WW41" on Scored Side
+Digoxin Tablets, USP 0.25 mg are White, Round, Scored Tablets, Debossed "WW 41" on Scored Side
 
 Bottles of 100 tablets.
 Bottles of 1000 tablets.
