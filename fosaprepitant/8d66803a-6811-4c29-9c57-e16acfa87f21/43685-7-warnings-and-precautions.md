@@ -20,12 +20,23 @@ Monitor patients during and after infusion.
 If hypersensitivity reactions occur, discontinue the infusion and administer appropriate medical therapy.
 Do not reinitiate EMEND in patients who experience these symptoms with first-time use [see Contraindications (4)].
 
-## 5.3 Decrease in INR with Concomitant Warfarin
+## 5.3 Infusion Site Reactions
+
+Infusion site reactions (ISRs) have been reported with the use of EMEND for injection [see Adverse Reactions (6.1)].
+The majority of severe ISRs, including thrombophlebitis and vasculitis, were reported with concomitant vesicant (anthracycline-based) chemotherapy administration, particularly when associated with extravasation.
+Necrosis was also reported in some patients with concomitant vesicant chemotherapy.
+Most ISRs occurred with the first, second or third exposure to single doses of EMEND for injection and in some cases, reactions persisted for two weeks or longer.
+Treatment of severe ISRs consisted of medical, and in some cases surgical, intervention.
+
+Avoid infusion of EMEND for injection into small veins or through a butterfly catheter.
+If a severe ISR develops during infusion, discontinue the infusion and administer appropriate medical treatment.
+
+## 5.4 Decrease in INR with Concomitant Warfarin
 
 Coadministration of EMEND with warfarin, a CYP2C9 substrate, may result in a clinically significant decrease in the International Normalized Ratio (INR) of prothrombin time [see Clinical Pharmacology (12.3)].
 Monitor the INR in patients on chronic warfarin therapy in the 2-week period, particularly at 7 to 10 days, following initiation of EMEND with each chemotherapy cycle [see Drug Interactions (7.1)].
 
-## 5.4 Risk of Reduced Efficacy of Hormonal Contraceptives
+## 5.5 Risk of Reduced Efficacy of Hormonal Contraceptives
 
 Upon coadministration with EMEND, the efficacy of hormonal contraceptives may be reduced during administration of and for 28 days following the last dose of EMEND [see Clinical Pharmacology (12.3)].
 Advise patients to use effective alternative or back-up methods of contraception during treatment with EMEND and for 1 month following administration of EMEND [see Drug Interactions (7.1), Use in Specific Populations (8.3)].

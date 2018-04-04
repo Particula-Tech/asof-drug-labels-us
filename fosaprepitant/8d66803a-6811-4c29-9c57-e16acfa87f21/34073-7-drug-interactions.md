@@ -33,12 +33,12 @@ Table 5 Effects of Fosaprepitant/Aprepitant on the Pharmacokinetics of Other Dru
 | Clinical Impact | Increased exposure of the chemotherapeutic agent may increase the risk of adverse reactions [see Clinical Pharmacology (12.3)]. |
 | Intervention | Vinblastine, vincristine, or ifosfamide or other chemotherapeutic agents Monitor for chemotherapeutic-related adverse reactions. Etoposide, vinorelbine, paclitaxel, and docetaxel No dosage adjustment needed. |
 | Hormonal Contraceptives |  |
-| Clinical Impact | Decreased hormonal exposure during administration of and for 28 days after administration of the last dose of EMEND [see Warnings and Precautions (5.4), Use in Specific Populations (8.3), and Clinical Pharmacology (12.3)]. |
+| Clinical Impact | Decreased hormonal exposure during administration of and for 28 days after administration of the last dose of EMEND [see Warnings and Precautions (5.5), Use in Specific Populations (8.3), and Clinical Pharmacology (12.3)]. |
 | Intervention | Effective alternative or back-up methods of contraception (such as condoms and spermicides) should be used during treatment with EMEND and for 1 month following administration of EMEND. |
 | Examples | birth control pills, skin patches, implants, and certain IUDs |
 | CYP2C9 Substrates |  |
 | Warfarin |  |
-| Clinical Impact | Decreased warfarin exposure and prolongation of prothrombin time (INR) [see Warnings and Precautions (5.3), Clinical Pharmacology (12.3)]. |
+| Clinical Impact | Decreased warfarin exposure and prolongation of prothrombin time (INR) [see Warnings and Precautions (5.4), Clinical Pharmacology (12.3)]. |
 | Intervention | In patients on chronic warfarin therapy, monitor the prothrombin time (INR) in the 2-week period, particularly at 7 to 10 days, following administration of EMEND with each chemotherapy cycle. |
 | Other |  |
 | 5-HT3 Antagonists |  |

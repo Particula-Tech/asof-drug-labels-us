@@ -5,6 +5,6 @@ Highway, Greenville, NC 27834, USA
 
 For patent information: www.merck.com/product/patent/home.html
 
-Copyright © 2008-2017 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
+Copyright © 2008-2018 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-uspi-mk0517-ivedta5-1708r002
+uspi-mk0517-ivedta5-1803r003
