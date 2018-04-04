@@ -13,12 +13,12 @@ Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 
 Mallinckrodt, the “M” brand mark, the Mallinckrodt Pharmaceuticals logo and other brands are trademarks of a Mallinckrodt company.
 
-© 2017 Mallinckrodt.
+© 2018 Mallinckrodt.
 
 SpecGx LLC Webster Groves, MO 63119 USA
 
 Made in USA
 
-Rev 07/2017
+Rev 02/2018
 
 Mallinckrodt™ Pharmaceuticals

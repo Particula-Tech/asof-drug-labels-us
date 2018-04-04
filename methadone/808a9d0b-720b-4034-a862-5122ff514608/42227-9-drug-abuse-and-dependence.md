@@ -29,4 +29,4 @@ Physical dependence is expected during opioid agonist therapy of opioid addictio
 METHADOSE should not be abruptly discontinued (see DOSAGE AND ADMINISTRATION).
 If METHADOSE is abruptly discontinued in a physically dependent patient, a withdrawal syndrome may occur.
 Some or all of the following can characterize this syndrome: restlessness, lacrimation, rhinorrhea, yawning, perspiration, chills, myalgia, and mydriasis.
-Other symptoms also may develop, including irritability, anxiety, backache, joint pain, weakness, abdominal cramps, insomnia, nausea, anorexia, vomiting, diarrhea, or increased blood pressure, respiratory rate, or heart rate (see DOSAGE AND ADMINISTRATION, For Medically Supervised Withdrawal After a Period of Maintenance Treatment).
+Other symptoms also may develop, including irritability, anxiety, backache, joint pain, weakness, abdominal cramps, insomnia, nausea, anorexia, vomiting, diarrhea, or increased blood pressure, respiratory rate, or heart rate (see DOSAGE AND ADMINISTRATION, Medically Supervised Withdrawal After a Period of Maintenance Treatment).

@@ -5,6 +5,14 @@ Proper dosing and titration are essential and METHADOSE should only be prescribe
 Monitor for respiratory depression, especially during initiation of METHADOSE or following a dose increase.
 The peak respiratory depressant effect of methadone occurs later, and persists longer than the peak pharmacologic effect, especially during the initial dosing period (see WARNINGS).
 
+Risks From Concomitant Use With Benzodiazepines or Other CNS Depressants
+
+Concomitant use with benzodiazepines or other central nervous system (CNS) depressants, including alcohol, is a risk factor for respiratory depression and death (see WARNINGS and PRECAUTIONS).
+
+- Reserve concomitant prescribing of benzodiazepines or other CNS depressants in patients in methadone treatment to those for whom alternatives to benzodiazepines or other CNS depressants are inadequate.
+- Follow patients for signs and symptoms of respiratory depression and sedation.
+  If the patient is visibly sedated, evaluate the cause of sedation and consider delaying or omitting daily methadone dosing.
+
 Life-Threatening QT Prolongation QT interval prolongation and serious arrhythmia (torsades de pointes) have occurred during treatment with methadone (see WARNINGS).
 Most cases involve patients being treated for pain with large, multiple daily doses of methadone, although cases have been reported in patients receiving doses commonly used for maintenance treatment of opioid addiction.
 Closely monitor patients with risk factors for development of prolonged QT interval, a history of cardiac conduction abnormalities, and those taking medications affecting cardiac conduction for changes in cardiac rhythm during initiation and titration of METHADOSE (see WARNINGS).
@@ -17,4 +25,4 @@ Interactions with Drugs Affecting Cytochrome P450 Isoenzymes The concomitant use
 In addition, discontinuation of concomitantly used cytochrome P450 3A4 2B6, 2C19, or 2C9 inducers may also result in an increase in methadone plasma concentration.
 Follow patients closely for respiratory depression and sedation, and consider dosage reduction with any changes of concomitant medications that can result in an increase in methadone levels (see WARNINGS and PRECAUTIONS, Drug Interactions).
 
-Conditions for Distribution and Use of Methadone Products for the Treatment of Opioid Addiction For detoxification and maintenance of opioid dependence, methadone should be administered in accordance with the treatment standards cited in 42 CFR Section 8, including limitations on unsupervised administration (see INDICATIONS AND USAGE).
+Conditions for Distribution and Use of Methadone Products for the Treatment of Opioid Addiction For detoxification and maintenance of opioid dependence, methadone should be administered in accordance with the treatment standards cited in 42 CFR Section 8, including limitations on unsupervised administration (see DOSAGE AND ADMINISTRATION).

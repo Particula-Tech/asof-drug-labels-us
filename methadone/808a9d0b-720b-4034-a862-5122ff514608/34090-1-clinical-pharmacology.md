@@ -134,7 +134,7 @@ The following drug interactions were reported following coadministration of meth
 
 Rifampin – In patients well-stabilized on methadone, concomitant administration of rifampin resulted in a marked reduction in serum methadone levels and a concurrent appearance of withdrawal symptoms.
 
-Phenytoin – In a pharmacokinetic study with patients on methadone maintenance therapy, phenytoin administration (250 mg b.i.d. initially for 1 day followed by 300 mg QD for 3 to 4 days) resulted in an approximately 50% reduction in methadone exposure and withdrawal symptoms occurred concurrently.
+Phenytoin – In a pharmacokinetic study with patients on methadone maintenance therapy, phenytoin administration (250 mg twice daily initially for 1 day followed by 300 mg daily for 3 to 4 days) resulted in an approximately 50% reduction in methadone exposure and withdrawal symptoms occurred concurrently.
 Upon discontinuation of phenytoin, the incidence of withdrawal symptoms decreased and methadone exposure increased to a level comparable to that prior to phenytoin administration.
 
 St. John’s Wort, Phenobarbital, Carbamazepine – Administration of methadone with other CYP3A4 inducers may result in withdrawal symptoms.

@@ -28,6 +28,30 @@ To further reduce the risk of respiratory depression, consider the following:
   Follow induction directions closely to avoid inadvertent overdose (see DOSAGE AND ADMINISTRATION).
 - Proper dosing and titration are essential and methadone should be overseen only by healthcare professionals who are knowledgeable in the pharmacokinetics and pharmacodynamics of methadone.
 
+Risks from Concomitant Use of Benzodiazepines or Other CNS Depressants with Methadone
+
+Concomitant use of methadone and benzodiazepines or other CNS depressants increases the risk of adverse reactions including overdose and death.
+Medication-assisted treatment of opioid use disorder, however, should not be categorically denied to patients taking these drugs.
+Prohibiting or creating barriers to treatment can pose an even greater risk of morbidity and mortality due to the opioid use disorder alone.
+
+As a routine part of orientation to methadone treatment, educate patients about the risks of concomitant use of benzodiazepines, sedatives, opioid analgesics, or alcohol.
+
+Develop strategies to manage use of prescribed or illicit benzodiazepines or other CNS depressants at admission to methadone treatment, or if it emerges as a concern during treatment.
+Adjustments to induction procedures and additional monitoring may be required.
+There is no evidence to support dose limitations or arbitrary caps of methadone as a strategy to address benzodiazepine use in methadone-treated patients.
+However, if a patient is sedated at the time of methadone dosing, ensure that a medically-trained healthcare provider evaluates the cause of sedation and delays or omits the methadone dose if appropriate.
+
+Cessation of benzodiazepines or other CNS depressants is preferred in most cases of concomitant use.
+In some cases monitoring in a higher level of care for taper may be appropriate.
+In others, gradually tapering a patient off a prescribed benzodiazepine or other CNS depressant or decreasing to the lowest effective dose may be appropriate.
+
+For patients in methadone treatment, benzodiazepines are not the treatment of choice for anxiety or insomnia.
+Before co-prescribing benzodiazepines, ensure that patients are appropriately diagnosed and consider alternative medications and non-pharmacologic treatments to address anxiety or insomnia.
+Ensure that other healthcare providers prescribing benzodiazepines or other CNS depressants are aware of the patient’s methadone treatment and coordinate care to minimize the risks associated with concomitant use.
+
+In addition, take measures to confirm that patients are taking the medications prescribed and not diverting or supplementing with illicit drugs.
+Toxicology screening should test for prescribed and illicit benzodiazepines (see PRECAUTIONS, Drug Interactions).
+
 Life-Threatening QT Prolongation
 
 Cases of QT interval prolongation and serious arrhythmia (torsades de pointes) have been observed during treatment with methadone.
@@ -85,16 +109,7 @@ Patients with Chronic Pulmonary Disease – METHADOSE-treated patients with sign
 
 Elderly, Cachectic, or Debilitated Patients – Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients because they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients (see WARNINGS, Life-Threatening Respiratory Depression).
 
-Monitor such patients closely, particularly when initiating and titrating METHADOSE and when METHADOSE is given concomitantly with other drugs that depress respiration(see WARNINGS, Risks Due to Interactions Concomitant Use with CNS Depressants and Illicit Drugs).
-
-Risks Due to Interactions Concomitant Use with CNS Depressants and Illicit Drugs
-
-Profound sedation, respiratory depression, coma, and death may result if methadone is used concomitantly with other CNS depressants (e.g., sedatives, anxiolytics, hypnotics, neuroleptics, other opioids).
-When considering the use of METHADOSE in a patient taking a CNS depressant, assess the duration of use of the CNS depressant and the patient’s response, including the degree of tolerance that has developed to CNS depression.
-Additionally, consider the patient’s use, if any, of alcohol or illicit drugs that cause CNS depression.
-If methadone therapy is to be initiated in a patient taking a CNS depressant, start with a lower methadone dose than usual and monitor patients for signs of sedation and respiratory depression and consider using a lower dose of the concomitant CNS depressant (see PRECAUTIONS, Drug Interactions).
-
-Deaths associated with illicit use of methadone have frequently involved concomitant benzodiazepine abuse.
+Monitor such patients closely, particularly when initiating and titrating METHADOSE and when METHADOSE is given concomitantly with other drugs that depress respiration.
 
 Serotonin Syndrome with Concomitant Use of Serotonergic Drugs
 
@@ -173,6 +188,11 @@ Life-Threatening Respiratory Depression
 Discuss the risk of respiratory depression with patients, explaining that the risk is greatest when starting METHADOSE or when the dose is increased (see WARNINGS).
 Advise patients how to recognize respiratory depression and to seek medical attention if they are experiencing breathing difficulties.
 
+Interactions with Benzodiazepines and Other CNS Depressants
+
+Inform patients and caregivers that potentially fatal additive effects may occur if METHADOSE is used with benzodiazepines or other CNS depressants, including alcohol.
+Counsel patients that such medications should not be used concomitantly unless supervised by a healthcare provider (see WARNINGS and PRECAUTIONS, Drug Interactions).
+
 Symptoms of Arrhythmia
 
 Instruct patients to seek medical attention immediately if they experience symptoms suggestive of an arrhythmia (such as palpitations, near syncope, or syncope) when taking METHADOSE (see WARNINGS).
@@ -187,13 +207,6 @@ Abuse Potential
 
 Inform patients that METHADOSE contain methadone, a Schedule II controlled substance that is subject to abuse (see WARNINGS).
 Instruct patients not to share METHADOSE with others and to take steps to protect METHADOSE from theft or misuse.
-
-Risks from Concomitant Use of Alcohol and Other CNS Depressants
-
-Inform patients that the concomitant use of alcohol with methadone can increase the risk of life-threatening respiratory depression.
-Instruct patients not to consume alcoholic beverages, as well as prescription and over-the-counter drug products that contain alcohol, during treatment with METHADOSE (see WARNINGS).
-
-Inform patients that potentially serious additive effects may occur if methadone is used with other CNS depressants, and not to use such drugs unless supervised by a health care provider.
 
 Important Administration Instructions (see DOSAGE AND ADMINISTRATION)
 
@@ -244,8 +257,14 @@ Advise patients of the potential for severe constipation, including management i
 
 Drug Interactions
 
-| Inhibitors of CYP3A4, CYP2B6, CYP2C19, CYP2C9, or CYP2D6 |  |
+Drug Interactions
+
+| Benzodiazepines and Other Central Nervous System (CNS) Depressants |  |
 | --- | --- |
+| Clinical Impact: | Due to additive pharmacologic effect, the concomitant use of benzodiazepines or other CNS depressants, including alcohol, increases the risk of respiratory depression, profound sedation, coma, and death. |
+| Intervention: | Cessation of benzodiazepines or other CNS depressants is preferred in most cases of concomitant use. In some cases, monitoring in a higher level of care for taper may be appropriate. In others, gradually tapering a patient off of a prescribed benzodiazepine or other CNS depressant or decreasing to the lowest effective dose may be appropriate.Before co-prescribing benzodiazepines for anxiety or insomnia, ensure that patients are appropriately diagnosed and consider alternative medications and non-pharmacologic treatments (see WARNINGS). |
+| Examples: | Alcohol, benzodiazepines, and other sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids. |
+| Inhibitors of CYP3A4, CYP2B6, CYP2C19, CYP2C9, or CYP2D6 |  |
 | Clinical Impact: | Methadone undergoes hepatic N-demethylation by several cytochrome P450 (CYP) isoforms, including CYP3A4, CYP2B6, CYP2C19, CYP2C9, and CYP2D6. The concomitant use of methadone and CYP3A4, CYP2B6, CYP2C19, CYP2C9, or CYP2D6 inhibitors can increase the plasma concentration of methadone, resulting in increased or prolonged opioid effects, and may result in a fatal overdose, particularly when an inhibitor is added after a stable dose of methadone is achieved. These effects may be more pronounced with concomitant use of drugs that inhibit more than one of the CYP enzymes listed above. After stopping a CYP3A4, CYP2B6, CYP2C19, CYP2C9, or CYP2D6 inhibitor, as the effects of the inhibitor decline, the methadone plasma concentration can decrease, resulting in decreased opioid efficacy or withdrawal symptoms in patients physically dependent on methadone. |
 | Intervention: | If concomitant use is necessary, consider dosage reduction of methadone until stable drug effects are achieved. Monitor patients for respiratory depression and sedation at frequent intervals.If a CYP3A4, CYP2B6, CYP2C19, CYP2C9, or CYP2D6 inhibitor is discontinued, follow patients for signs of opioid withdrawal and consider increasing the methadone dosage until stable drug effects are achieved. |
 | Examples: | Macrolide antibiotics (e.g., erythromycin), azole-antifungal agents (e.g., ketoconazole), protease inhibitors (e.g., ritonavir), fluconazole, fluvoxamine, some selective serotonin reuptake inhibitors (SSRIs) (e.g., sertraline, fluvoxamine) |
@@ -257,10 +276,6 @@ Drug Interactions
 | Clinical Impact: | Pharmacodynamic interactions may occur with concomitant use of methadone and potentially arrhythmogenic agents or drugs capable of inducing electrolyte disturbances (hypomagnesemia, hypokalemia). |
 | Intervention: | Monitor patients closely for cardiac conduction changes. |
 | Examples: | Drugs known to have potential to prolong QT interval: Class I and III antiarrhythmics, some neuroleptics and tricyclic antidepressants, and calcium channel blockers. Drugs capable of inducing electrolyte disturbances: Diuretics, laxatives, and, in rare cases, mineralocortocoid hormones. |
-| Central Nervous System (CNS) Depressants |  |
-| Clinical Impact: | Due to additive pharmacologic effect, the concomitant use of CNS depressants can increase the risk of hypotension, respiratory depression, profound sedation, coma, and death. |
-| Intervention: | Consider dose reduction of one or both drugs. Monitor patients for respiratory depression, sedation, and hypotension (see WARNINGS). |
-| Examples: | Alcohol, benzodiazepines, and other sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids. |
 | Serotonergic Drugs |  |
 | Clinical Impact: | The concomitant use of opioids with other drugs that affect the serotonergic neurotransmitter system has resulted in serotonin syndrome (see WARNINGS). |
 | Intervention: | If concomitant use is warranted, carefully observe the patient, particularly during treatment initiation and dose adjustment. Discontinue METHADOSE if serotonin syndrome is suspected. |
