@@ -169,4 +169,4 @@ Inactive ingredients: hypromellose, magnesium stearate, microcrystalline cellulo
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
 The brands listed are trademarks of their respective owners and are not trademarks of the Aurobindo Pharma Limited.
-Distributed by: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 10/2017
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 03/2018

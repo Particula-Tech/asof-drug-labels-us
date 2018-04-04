@@ -14,7 +14,7 @@ The following adverse reactions are discussed in other sections of the labeling:
 Clinical Trials Experience in Adult Subjects Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 The safety profile of lamivudine in adults is primarily based on 3,568 HIV-1-infected subjects in 7 clinical trials.
 The most common adverse reactions are headache, nausea, malaise, fatigue, nasal signs and symptoms, diarrhea, and cough.
-Selected clinical adverse reactions in greater than or equal to 5% of subjects during therapy with lamivudine 150 mg twice daily plus RETROVIR® 200 mg 3 times daily for up to 24 weeks are listed in Table 3.
+Selected clinical adverse reactions in greater than or equal to 5% of subjects during therapy with lamivudine 150 mg twice daily plus RETROVIR 200 mg 3 times daily for up to 24 weeks are listed in Table 3.
 
 Table 3.
 Selected Clinical Adverse Reactions (Greater than or Equal to 5% Frequency) in Four Controlled Clinical Trials (NUCA3001, NUCA3002, NUCB3001, NUCB3002)
@@ -55,7 +55,7 @@ Three of these subjects died of complications of pancreatitis.
 In a second open-label trial (NUCA2005), 12 subjects (18%) developed pancreatitis.
 In Trial ACTG300, pancreatitis was not observed in 236 subjects randomized to lamivudine plus RETROVIR.
 Pancreatitis was observed in 1 subject in this trial who received open-label lamivudine in combination with RETROVIR and ritonavir following discontinuation of didanosine monotherapy [see Warnings and Precautions (5.4)].
-Paresthesias and Peripheral Neuropathies Paresthesias and peripheral neuropathies were reported in 15 subjects (15%) in Trial NUCA2002, 6 subjects (9%) in Trial NUCA2005, and 2 subjects (less than 1%) in Trial ACTG300.
+Paresthesias and Peripheral Neuropathies: Paresthesias and peripheral neuropathies were reported in 15 subjects (15%) in Trial NUCA2002, 6 subjects (9%) in Trial NUCA2005, and 2 subjects (less than 1%) in Trial ACTG300.
 Selected laboratory abnormalities experienced by therapy-naive (less than or equal to 56 days of antiretroviral therapy) pediatric subjects are listed in Table 6.
 
 Table 6.
@@ -66,9 +66,11 @@ Frequencies of Selected Grade 3 to 4 Laboratory Abnormalities in Pediatric Subje
 | Absolute neutrophil count (<400/mm3) Hemoglobin (<7.0 g/dL) Platelets (<50,000/mm3) ALT (>10 x ULN) AST (>10 x ULN) Lipase (>2.5 x ULN) Total Amylase (>2.5 x ULN) | 8% 4% 1% 1% 2% 3% 3% | 3% 2% 3% 3% 4% 3% 3% |
 | ULN = Upper limit of normal. |  |  |
 
-Additional pediatric use information for patients aged 3 months and above is approved for ViiV Healthcare Company's EPIVIR® (lamivudine) tablets.
-However, due to ViiV Healthcare Company's marketing exclusivity rights, this drug product is not labeled with that pediatric information.
-Neonates Limited short-term safety information is available from 2 small, uncontrolled trials in South Africa in neonates receiving lamivudine with or without zidovudine for the first week of life following maternal treatment starting at Week 38 or 36 of gestation [see Clinical Pharmacology (12.3)].
+Pediatric Subjects Once-Daily versus Twice-Daily Dosing (COL105677): The safety of once-daily compared with twice-daily dosing of lamivudine was assessed in the ARROW trial.
+Primary safety assessment in the ARROW trial was based on Grade 3 and Grade 4 adverse events.
+The frequency of Grade 3 and 4 adverse events was similar among subjects randomized to once-daily dosing compared with subjects randomized to twice-daily dosing.
+One event of Grade 4 hepatitis in the once-daily cohort was considered as uncertain causality by the investigator and all other Grade 3 or 4 adverse events were considered not related by the investigator.
+Neonates: Limited short-term safety information is available from 2 small, uncontrolled trials in South Africa in neonates receiving lamivudine with or without zidovudine for the first week of life following maternal treatment starting at Week 38 or 36 of gestation [see Clinical Pharmacology (12.3)].
 Selected adverse reactions reported in these neonates included increased liver function tests, anemia, diarrhea, electrolyte disturbances, hypoglycemia, jaundice and hepatomegaly, rash, respiratory infections, and sepsis; 3 neonates died (1 from gastroenteritis with acidosis and convulsions, 1 from traumatic injury, and 1 from unknown causes).
 Two other nonfatal gastroenteritis or diarrhea cases were reported, including 1 with convulsions; 1 infant had transient renal insufficiency associated with dehydration.
 The absence of control groups limits assessments of causality, but it should be assumed that perinatally exposed infants may be at risk for adverse reactions comparable to those reported in pediatric and adult HIV-1-infected patients treated with lamivudine-containing combination regimens.
