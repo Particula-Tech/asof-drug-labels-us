@@ -6,7 +6,7 @@ The following adverse reactions have been reported for doses of hydrochlorothiaz
 Body as a whole: Weakness.
 Cardiovascular: Hypotension including orthostatic Hypotension (may be aggravated by alcohol, barbiturates, narcotics or antihypertensive drugs).
 Digestive: Pancreatitis, jaundice (intrahepatic cholestatic jaundice), diarrhea, vomiting, sialadenitis, cramping, constipation, gastric irritation, nausea, anorexia.
-Hematologic: Aplastic anemia, agranulocytosis, leukopenia, hemolytic anemia, thrombo-cytopenia.
+Hematologic: Aplastic anemia, agranulocytosis, leukopenia, hemolytic anemia, thrombocytopenia.
 Hypersensitivity: Anaphylactic reactions, necrotizing angiitis (vasculitis and cutaneous vasculitis), respiratory distress including pneumonitis and pulmonary edema, photosensitivity, fever, urticaria, rash, purpura.
 Metabolic: Electrolyte imbalance (see PRECAUTIONS), hyperglycemia, glycosuria, hyperuricemia.
 Musculoskeletal: Muscle Spasm.

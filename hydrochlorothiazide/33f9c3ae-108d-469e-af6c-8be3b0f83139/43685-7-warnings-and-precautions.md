@@ -40,7 +40,7 @@ When hydrochloro­thiazide and non-steroidal anti-inflammatory agents are used c
 
 Thiazides should be discontinued before carrying out tests for parathyroid function (see PRECAUTIONS, General).
 
-## Carcinogenesis, Mutagenesis, Impairment Of Fertility
+## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Two-year feeding studies in mice and rats conducted under the auspices of the National Toxicology Program (NTP) uncovered no evidence of a carcinogenic potential of hydrochlorothiazide in female mice (at doses of up to approximately 600 mg/kg/day) or in male and female rats (at doses of approximately 100 mg/kg/day).
 The NTP, however, found equivocal evidence for hepato-carcinogenicity in male mice.

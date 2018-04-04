@@ -24,7 +24,7 @@ When hydrochloro­thiazide is adminis­tered with food, its bioavailabil­ity is
 
 Acute antihypertensive effects of thi­azides are thought to result from a reduction in blood vol­ume and cardiac output, sec­ondary to a natriuretic effect, although a direct vasodilatory mechanism has also been pro­posed.
 With chronic adminis­tration, plasma volume returns toward normal, but peripheral vascular resistance is de­creased.
-The exact mechanism of the antihypertensive effect of hydrochlorothiazide is not known.
+The exact mechanism of the anti-hypertensive effect of hydrochlorothiazide is not known.
 Thiazides do not affect normal blood pressure.
 Onset of action occurs within 2 hours of dos­ing, peak effect is observed at about 4 hours, and activity per­sists for up to 24 hours.
 
