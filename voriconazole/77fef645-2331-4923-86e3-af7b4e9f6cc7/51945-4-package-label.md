@@ -14,7 +14,7 @@ Infusion Only
 
 Rx only
 
-Amerinet Choice®
+INTALERE CHOICESM
 
 # PRINCIPAL DISPLAY PANEL - 200 mg Vial Carton
 
@@ -30,4 +30,4 @@ No Latex No Preservatives
 Sterile Single Use Vial For I.V.
 Infusion Only
 
-Amerinet Choice®
+INTALERE CHOICESM
