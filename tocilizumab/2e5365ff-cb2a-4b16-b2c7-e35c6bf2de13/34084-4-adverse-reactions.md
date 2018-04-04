@@ -368,8 +368,9 @@ No adverse reactions related to tocilizumab were reported [see Clinical Studies 
 
 ## 6.7 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use of intravenous ACTEMRA.
+The following adverse reactions have been identified during post-approval use of ACTEMRA.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 - Fatal anaphylaxis [see Warnings and Precautions (5.5)]
 - Stevens-Johnson Syndrome
+- Pancreatitis
