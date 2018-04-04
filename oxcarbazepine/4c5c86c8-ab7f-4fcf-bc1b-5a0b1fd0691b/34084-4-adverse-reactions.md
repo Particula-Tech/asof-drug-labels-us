@@ -19,35 +19,35 @@ Most Common Adverse Reactions in All Clinical Studies
 
 Adjunctive Therapy/Monotherapy in Adults Previously Treated with Other AEDs
 
-The most common (≥ 10% more than placebo for adjunctive or low dose for monotherapy) adverse reactions with TRILEPTAL: dizziness, somnolence, diplopia, fatigue, nausea, vomiting, ataxia, abnormal vision, headache, nystagmus tremor, and abnormal gait.
+The most common (≥10% more than placebo for adjunctive or low dose for monotherapy) adverse reactions with TRILEPTAL: dizziness, somnolence, diplopia, fatigue, nausea, vomiting, ataxia, abnormal vision, headache, nystagmus tremor, and abnormal gait.
 
 Approximately 23% of these 1,537 adult patients discontinued treatment because of an adverse reaction.
 The adverse reactions most commonly associated with discontinuation were: dizziness (6.4%), diplopia (5.9%), ataxia (5.2%), vomiting (5.1%), nausea (4.9%), somnolence (3.8%), headache (2.9%), fatigue (2.1%), abnormal vision (2.1%), tremor (1.8%), abnormal gait (1.7%), rash (1.4%), hyponatremia (1.0%).
 
 Monotherapy in Adults Not Previously Treated with Other AEDs
 
-The most common (≥ 5%) adverse reactions with TRILEPTAL in these patients were similar to those in previously treated patients.
+The most common (≥5%) adverse reactions with TRILEPTAL in these patients were similar to those in previously treated patients.
 
 Approximately 9% of these 295 adult patients discontinued treatment because of an adverse reaction.
 The adverse reactions most commonly associated with discontinuation were: dizziness (1.7%), nausea (1.7%), rash (1.7%), headache (1.4%).
 
 Adjunctive Therapy/Monotherapy in Pediatric Patients 4 Years Old and Above Previously Treated with Other AEDs
 
-The most common (≥ 5%) adverse reactions with TRILEPTAL in these patients were similar to those seen in adults.
+The most common (≥5%) adverse reactions with TRILEPTAL in these patients were similar to those seen in adults.
 
 Approximately 11% of these 456 pediatric patients discontinued treatment because of an adverse reaction.
 The adverse reactions most commonly associated with discontinuation were: somnolence (2.4%), vomiting (2.0%), ataxia (1.8%), diplopia (1.3%), dizziness (1.3%), fatigue (1.1%), nystagmus (1.1%).
 
 Monotherapy in Pediatric Patients 4 Years Old and Above Not Previously Treated with Other AEDs
 
-The most common (≥ 5%) adverse reactions with TRILEPTAL in these patients were similar to those in adults.
+The most common (≥5%) adverse reactions with TRILEPTAL in these patients were similar to those in adults.
 
 Approximately 9.2% of 152 pediatric patients discontinued treatment because of an adverse reaction.
 The adverse reactions most commonly associated (≥1%) with discontinuation were rash (5.3%) and maculopapular rash (1.3%).
 
-Adjunctive Therapy/Monotherapy in Pediatric Patients 1 Month to < 4 Years Old Previously Treated or Not Previously Treated with Other AEDs:
+Adjunctive Therapy/Monotherapy in Pediatric Patients 1 Month to <4 Years Old Previously Treated or Not Previously Treated with Other AEDs:
 
-The most common (≥ 5%) adverse reactions with TRILEPTAL in these patients were similar to those seen in older children and adults except for infections and infestations which were more frequently seen in these younger children.
+The most common (≥5%) adverse reactions with TRILEPTAL in these patients were similar to those seen in older children and adults except for infections and infestations which were more frequently seen in these younger children.
 
 Approximately 11% of these 241 pediatric patients discontinued treatment because of an adverse reaction.
 The adverse reactions most commonly associated with discontinuation were: convulsions (3.7%), status epilepticus (1.2%), and ataxia (1.2%).
@@ -63,7 +63,7 @@ Table 3: Adverse Reactions in a Controlled Clinical Study of Adjunctive Therapy 
 
 |  | TRILEPTAL Dosage (mg/day) |  |  |  |
 | --- | --- | --- | --- | --- |
-| Body System/ Adverse Reaction | TRILEPTAL 600 N = 163 % | TRILEPTAL 1200 N = 171 % | TRILEPTAL 2400 N = 126 % | Placebo N = 166 % |
+| Body System/ Adverse Reaction | TRILEPTAL 600 N=163 % | TRILEPTAL 1200 N=171 % | TRILEPTAL 2400 N=126 % | Placebo N=166 % |
 | Body as a Whole |  |  |  |  |
 | Fatigue | 15 | 12 | 15 | 7 |
 | Asthenia | 6 | 3 | 6 | 5 |
@@ -115,7 +115,7 @@ Table 3: Adverse Reactions in a Controlled Clinical Study of Adjunctive Therapy 
 
 Table 4: Adverse Reactions in Controlled Clinical Studies of Monotherapy with TRILEPTAL in Adults Previously Treated with Other AEDs
 
-| Body System/ Adverse Reaction | TRILEPTAL 2400 mg/day N = 86 % | TRILEPTAL 300 mg/day N = 86 % |
+| Body System/ Adverse Reaction | TRILEPTAL 2400 mg/day N=86 % | TRILEPTAL 300 mg/day N=86 % |
 | --- | --- | --- |
 | Body as a Whole |  |  |
 | Fatigue | 21 | 5 |
@@ -184,7 +184,7 @@ Table 5 lists adverse reactions in a controlled clinical study of monotherapy in
 
 Table 5: Adverse Reactions in a Controlled Clinical Study of Monotherapy with TRILEPTAL in Adults Not Previously Treated with Other AEDs
 
-| Body System/ Adverse Reaction | TRILEPTAL N = 55 % | Placebo N = 49 % |
+| Body System/ Adverse Reaction | TRILEPTAL N=55 % | Placebo N=49 % |
 | --- | --- | --- |
 | Body as a Whole |  |  |
 | Falling Down NOS | 4 | 0 |
@@ -220,7 +220,7 @@ Table 6 lists adverse reactions that occurred in at least 2% of pediatric patien
 
 Table 6: Adverse Reactions in Controlled Clinical Studies of Adjunctive Therapy/Monotherapy with TRILEPTAL in Pediatric Patients Previously Treated with Other AEDs
 
-| Body System/ Adverse Reaction | TRILEPTAL N = 171 % | Placebo N = 139 % |
+| Body System/ Adverse Reaction | TRILEPTAL N=171 % | Placebo N=139 % |
 | --- | --- | --- |
 | Body as a Whole |  |  |
 | Fatigue | 13 | 9 |

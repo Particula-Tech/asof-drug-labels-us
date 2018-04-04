@@ -5,9 +5,9 @@
 Carcinogenesis
 
 In 2-year carcinogenicity studies, oxcarbazepine was administered in the diet at doses of up to 100 mg/kg/day to mice and by gavage at doses of up to 250 mg/kg/day to rats, and the pharmacologically active 10-hydroxy metabolite (MHD) was administered orally at doses of up to 600 mg/kg/day to rats.
-In mice, a dose-related increase in the incidence of hepatocellular adenomas was observed at oxcarbazepine doses ≥ 70 mg/kg/day or approximately 0.1 times the maximum recommended human dose (MRHD) on a mg/m2 basis.
-In rats, the incidence of hepatocellular carcinomas was increased in females treated with oxcarbazepine at doses ≥ 25 mg/kg/day (0.1 times the MRHD on a mg/m2 basis), and incidences of hepatocellular adenomas and/or carcinomas were increased in males and females treated with MHD at doses of 600 mg/kg/day (2.4 times the MRHD on a mg/m2 basis) and ≥ 250 mg/kg/day (equivalent to the MRHD on a mg/m2 basis), respectively.
-There was an increase in the incidence of benign testicular interstitial cell tumors in rats at 250 mg oxcarbazepine/kg/day and at ≥ 250 mg MHD/kg/day, and an increase in the incidence of granular cell tumors in the cervix and vagina in rats at 600 mg MHD/kg/day.
+In mice, a dose-related increase in the incidence of hepatocellular adenomas was observed at oxcarbazepine doses ≥70 mg/kg/day or approximately 0.1 times the maximum recommended human dose (MRHD) on a mg/m2 basis.
+In rats, the incidence of hepatocellular carcinomas was increased in females treated with oxcarbazepine at doses ≥25 mg/kg/day (0.1 times the MRHD on a mg/m2 basis), and incidences of hepatocellular adenomas and/or carcinomas were increased in males and females treated with MHD at doses of 600 mg/kg/day (2.4 times the MRHD on a mg/m2 basis) and ≥250 mg/kg/day (equivalent to the MRHD on a mg/m2 basis), respectively.
+There was an increase in the incidence of benign testicular interstitial cell tumors in rats at 250 mg oxcarbazepine/kg/day and at ≥250 mg MHD/kg/day, and an increase in the incidence of granular cell tumors in the cervix and vagina in rats at 600 mg MHD/kg/day.
 
 Mutagenesis
 

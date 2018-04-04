@@ -2,7 +2,7 @@
 
 Tablets
 
-150 mg Film-coated Tablets: pale grey-green, ovaloid, slightly biconvex, scored on both sides.
+150 mg Film-Coated Tablets: pale grey-green, ovaloid, slightly biconvex, scored on both sides.
 Imprinted with T/D on one side and C/G on the other side.
 
 Bottle of 100……………………………………………………………………………………………...NDC 0078-0456-05
@@ -11,7 +11,7 @@ Unit Dose (blister pack)
 
 Box of 100 (strips of 10)………………………………………………………………………………....NDC 0078-0456-35
 
-300 mg Film-coated Tablets: yellow, ovaloid, slightly biconvex, scored on both sides.
+300 mg Film-Coated Tablets: yellow, ovaloid, slightly biconvex, scored on both sides.
 Imprinted with TE/TE on one side and CG/CG on the other side.
 
 Bottle of 100……………………………………………………………………………………………...NDC 0078-0337-05
@@ -20,7 +20,7 @@ Unit Dose (blister pack)
 
 Box of 100 (strips of 10)…………………………………………………………………………………NDC 0078-0337-06
 
-600 mg Film-coated Tablets: light pink, ovaloid, slightly biconvex, scored on both sides.
+600 mg Film-Coated Tablets: light pink, ovaloid, slightly biconvex, scored on both sides.
 Imprinted with TF/TF on one side and CG/CG on the other side.
 
 Bottle of 100……………………………………………………………………………………………...NDC 0078-0457-05

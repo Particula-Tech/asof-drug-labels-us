@@ -22,7 +22,7 @@ Increased incidences of fetal structural abnormalities and other manifestations 
 
 When pregnant rats were given oxcarbazepine (30, 300, or 1000 mg/kg) orally throughout the period of organogenesis, increased incidences of fetal malformations (craniofacial, cardiovascular, and skeletal) and variations were observed at the intermediate and high doses (approximately 1.2 and 4 times, respectively, the MRHD on a mg/m2 basis).
 Increased embryofetal death and decreased fetal body weights were seen at the high dose.
-Doses ≥ 300 mg/kg were also maternally toxic (decreased body weight gain, clinical signs), but there is no evidence to suggest that teratogenicity was secondary to the maternal effects.
+Doses ≥300 mg/kg were also maternally toxic (decreased body weight gain, clinical signs), but there is no evidence to suggest that teratogenicity was secondary to the maternal effects.
 
 In a study in which pregnant rabbits were orally administered MHD (20, 100, or 200 mg/kg) during organogenesis, embryofetal mortality was increased at the highest dose (1.5 times the MRHD on a mg/m2 basis).
 This dose produced only minimal maternal toxicity.
@@ -63,4 +63,4 @@ Close monitoring of sodium levels is required in elderly patients at risk for hy
 
 ## 8.6 Renal Impairment
 
-Dose adjustment is recommended for renally impaired patients (CLCr < 30 mL/min) [see Dosage and Administration (2.7) and Clinical Pharmacology (12.3)].
+Dose adjustment is recommended for renally impaired patients (CLcr <30 mL/min) [see Dosage and Administration (2.7) and Clinical Pharmacology (12.3)].

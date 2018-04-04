@@ -2,9 +2,9 @@
 
 ## 5.1 Hyponatremia
 
-Clinically significant hyponatremia (sodium < 125 mmol/L) can develop during TRILEPTAL use.
+Clinically significant hyponatremia (sodium <125 mmol/L) can develop during TRILEPTAL use.
 In the 14 controlled epilepsy studies 2.5% of TRILEPTAL-treated patients (38/1,524) had a sodium of less than 125 mmol/L at some point during treatment, compared to no such patients assigned placebo or active control (carbamazepine and phenobarbital for adjunctive and monotherapy substitution studies, and phenytoin and valproate for the monotherapy initiation studies).
-Clinically significant hyponatremia generally occurred during the first 3 months of treatment with TRILEPTAL, although there were patients who first developed a serum sodium < 125 mmol/L more than 1 year after initiation of therapy.
+Clinically significant hyponatremia generally occurred during the first 3 months of treatment with TRILEPTAL, although there were patients who first developed a serum sodium <125 mmol/L more than 1 year after initiation of therapy.
 Most patients who developed hyponatremia were asymptomatic but patients in the clinical trials were frequently monitored and some had their TRILEPTAL dose reduced, discontinued, or had their fluid intake restricted for hyponatremia.
 Whether or not these maneuvers prevented the occurrence of more severe events is unknown.
 Cases of symptomatic hyponatremia and syndrome of inappropriate antidiuretic hormone secretion (SIADH) have been reported during postmarketing use.
@@ -19,7 +19,7 @@ Angioedema associated with laryngeal edema can be fatal.
 If a patient develops any of these reactions after treatment with TRILEPTAL, the drug should be discontinued and an alternative treatment started.
 These patients should not be rechallenged with the drug [see Warnings and Precautions (5.3)].
 
-## 5.3 Cross-Hypersensitivity Reaction to Carbamazepine
+## 5.3 Cross Hypersensitivity Reaction to Carbamazepine
 
 Approximately 25% to 30% of patients who have had hypersensitivity reactions to carbamazepine will experience hypersensitivity reactions with TRILEPTAL.
 For this reason patients should be specifically questioned about any prior experience with carbamazepine, and patients with a history of hypersensitivity reactions to carbamazepine should ordinarily be treated with TRILEPTAL only if the potential benefit justifies the potential risk.
@@ -38,14 +38,15 @@ Therefore, if a patient develops a skin reaction while taking TRILEPTAL, conside
 
 Association with HLA-B*1502
 
-Patients carrying the HLA-B*1502 allele may be at increased risk for SJS/TEN with TRILEPTAL treatment.
+Patients carrying the HLA-B*1502 allele may be at increased risk for SJS/TEN with Trileptal treatment.
+
 Human Leukocyte Antigen (HLA) allele B*1502 increases the risk for developing SJS/TEN in patients treated with carbamazepine.
 The chemical structure of Trileptal is similar to that of carbamazepine.
-Available clinical evidence, and data from nonclinical studies showing a direct interaction between TRILEPTAL and HLA-B*1502 protein, suggest that the HLA-B*1502 allele may also increase the risk for SJS/TEN with TRILEPTAL.
+Available clinical evidence, and data from nonclinical studies showing a direct interaction between Trileptal and HLA-B*1502 protein, suggest that the HLA-B*1502 allele may also increase the risk for SJS/TEN with Trileptal.
 
 The frequency of HLA-B*1502 allele ranges from 2 to 12% in Han Chinese populations, is about 8% in Thai populations, and above 15% in the Philippines and in some Malaysian populations.
 Allele frequencies up to about 2% and 6% have been reported in Korea and India, respectively.
-The frequency of the HLA-B*1502 allele is negligible in people from European descent, several African populations, indigenous peoples of the Americas, Hispanic populations, and in Japanese (< 1%).
+The frequency of the HLA-B*1502 allele is negligible in people from European descent, several African populations, indigenous peoples of the Americas, Hispanic populations, and in Japanese (<1%).
 
 Testing for the presence of the HLA-B*1502 allele should be considered in patients with ancestry in genetically at-risk populations, prior to initiating treatment with Trileptal.
 The use of Trileptal should be avoided in patients positive for HLA-B*1502 unless the benefits clearly outweigh the risks.
