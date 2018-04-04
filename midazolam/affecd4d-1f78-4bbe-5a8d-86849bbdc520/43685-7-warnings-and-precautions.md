@@ -90,7 +90,7 @@ There have been rare reports of deaths, primarily in preterm infants, associated
 The amount of benzyl alcohol from medications is usually considered negligible compared to that received in flush solutions containing benzyl alcohol.
 Administration of high dosages of medications (including midazolam) containing this preservative must take into account the total amount of benzyl alcohol administered.
 The recommended dosage range of midazolam for preterm and term infants includes amounts of benzyl alcohol well below that associated with toxicity; however, the amount of benzyl alcohol at which toxicity may occur is not known.
-If the patient requires more than the recommended dosages or other medications containing this preservative, the practitioner must consider the daily metabolic load of benzyl alcohol from these combined sources (see WARNINGS and PRECAUTIONS/Pediatric Use)
+If the patient requires more than the recommended dosages or other medications containing this preservative, the practitioner must consider the daily metabolic load of benzyl alcohol from these combined sources (see WARNINGS and PRECAUTIONS/Pediatric Use).
 
 ## Pediatric Neurotoxicity
 
@@ -158,7 +158,7 @@ Cimetidine increased the mean midazolam steady-state concentration from 57 to 71
 Ranitidine increased the mean steady-state concentration to 62 ng/mL.
 No change in choice reaction time or sedation index was detected after dosing with the H2 receptor antagonists.
 
-In a placebo-controlled study, erythromycin administered as a 500 mg dose, three times a day, for 1 week (n=6), reduced the clearance of midazolam following a single 0.5 mg/kg IV dose.
+In a placebo-controlled study, erythromycin administered as a 500 mg dose, three times a day, for 1 week (n=6), reduced the clearance of midazolam following a single 0.5 mg/kg intravenous dose.
 The half-life was approximately doubled.
 
 Caution is advised when midazolam is administered to patients receiving erythromycin since this may result in a decrease in the plasma clearance of midazolam.
@@ -167,7 +167,7 @@ The effects of diltiazem (60 mg three times a day) and verapamil (80 mg three ti
 The half-life of midazolam increased from 5 to 7 hours when midazolam was taken in conjunction with verapamil or diltiazem.
 No interaction was observed in healthy subjects between midazolam and nifedipine.
 
-In a placebo-controlled study, where saquinavir or placebo was administered orally as a 1200 mg dose, three times a day, for 5 days (n=12), a 56% reduction in the clearance of midazolam following a single 0.05 mg/kg IV dose was observed.
+In a placebo-controlled study, where saquinavir or placebo was administered orally as a 1200 mg dose, three times a day, for 5 days (n=12), a 56% reduction in the clearance of midazolam following a single 0.05 mg/kg intravenous dose was observed.
 The half-life was approximately doubled.
 
 A moderate reduction in induction dosage requirements of thiopental (about 15%) has been noted following use of intramuscular midazolam for premedication in adults.
@@ -212,13 +212,10 @@ There were no adverse effects on either male or female fertility noted.
 
 ### Teratogenic Effects
 
-#### Pregnancy Category D
-
 (see WARNINGS).
 
 Published studies in pregnant primates demonstrate that the administration of anesthetic and sedation drugs that block NMDA receptors and/or potentiate GABA activity during the period of peak brain development increases neuronal apoptosis in the developing brain of the offspring when used for longer than 3 hours.
-There are no data on pregnancy exposures in primates corresponding to periods prior to the third trimester in humans.
-(see Data).
+There are no data on pregnancy exposures in primates corresponding to periods prior to the third trimester in humans (see Data).
 
 ### Data
 
@@ -269,7 +266,7 @@ When midazolam is given in conjunction with opioids or other sedatives, the pote
 The health care practitioner who uses this medication in pediatric patients should be aware of and follow accepted professional guidelines for pediatric sedation appropriate to their situation.
 
 Midazolam should not be administered by rapid injection in the neonatal population.
-Severe hypotension and seizures have been reported following rapid IV administration, particularly, with concomitant use of fentanyl.
+Severe hypotension and seizures have been reported following rapid intravenous administration, particularly, with concomitant use of fentanyl.
 
 Midazolam injection contains benzyl alcohol as a preservative.
 Benzyl alcohol, a component of this product, has been associated with serious adverse events and death, particularly in pediatric patients.
@@ -293,7 +290,7 @@ The clinical significance of these nonclinical findings is not known, and health
 Because geriatric patients may have altered drug distribution and diminished hepatic and/or renal function, reduced doses of midazolam are recommended.
 Intravenous and intramuscular midazolam should be decreased for elderly and for debilitated patients (see WARNINGS and DOSAGE AND ADMINISTRATION) and subjects over 70 years of age may be particularly sensitive.
 These patients will also probably take longer to recover completely after midazolam administration for the induction of anesthesia.
-Administration of IM and IV midazolam to elderly and/or high risk surgical patients has been associated with rare reports of death under circumstances compatible with cardiorespiratory depression.
+Administration of intramuscular and intravenous midazolam to elderly and/or high risk surgical patients has been associated with rare reports of death under circumstances compatible with cardiorespiratory depression.
 In most of these cases, the patients also received other central nervous system depressants capable of depressing respiration, especially narcotics (see DOSAGE AND ADMINISTRATION).
 
-Specific dosing and monitoring guidelines for geriatric patients are provided in the DOSAGE AND ADMINISTRATION section for premedicated patients for sedation/anxiolysis/amnesia following IV and IM administration, for induction of anesthesia following IV administration and for continuous infusion.
+Specific dosing and monitoring guidelines for geriatric patients are provided in the DOSAGE AND ADMINISTRATION section for premedicated patients for sedation/anxiolysis/amnesia following intravenous and intramuscular administration, for induction of anesthesia following intravenous administration and for continuous infusion.

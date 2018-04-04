@@ -5,20 +5,20 @@
 Midazolam is a short-acting benzodiazepine central nervous system (CNS) depressant.
 
 The effects of midazolam on the CNS are dependent on the dose administered, the route of administration, and the presence or absence of other medications.
-Onset time of sedative effects after IM administration in adults is 15 minutes, with peak sedation occurring 30 to 60 minutes following injection.
+Onset time of sedative effects after intramuscular administration in adults is 15 minutes, with peak sedation occurring 30 to 60 minutes following injection.
 In one adult study, when tested the following day, 73% of the patients who received midazolam intramuscularly had no recall of memory cards shown 30 minutes following drug administration; 40% had no recall of the memory cards shown 60 minutes following drug administration.
 Onset time of sedative effects in the pediatric population begins within 5 minutes and peaks at 15 to 30 minutes depending upon the dose administered.
 In pediatric patients, up to 85% had no recall of pictures shown after receiving intramuscular midazolam compared with 5% of the placebo controls.
 
-Sedation in adult and pediatric patients is achieved within 3 to 5 minutes after intravenous (IV) injection; the time of onset is affected by total dose administered and the concurrent administration of narcotic premedication.
+Sedation in adult and pediatric patients is achieved within 3 to 5 minutes after intravenous injection; the time of onset is affected by total dose administered and the concurrent administration of narcotic premedication.
 Seventy-one percent of the adult patients in endoscopy studies had no recall of introduction of the endoscope; 82% of the patients had no recall of withdrawal of the endoscope.
 In one study of pediatric patients undergoing lumbar puncture or bone marrow aspiration, 88% of patients had impaired recall vs 9% of the placebo controls.
 In another pediatric oncology study, 91% of midazolam treated patients were amnestic compared with 35% of patients who had received fentanyl alone.
 
-When midazolam is given IV as an anesthetic induction agent, induction of anesthesia occurs in approximately 1.5 minutes when narcotic premedication has been administered and in 2 to 2.5 minutes without narcotic premedication or other sedative premedication.
+When midazolam is given intravenous as an anesthetic induction agent, induction of anesthesia occurs in approximately 1.5 minutes when narcotic premedication has been administered and in 2 to 2.5 minutes without narcotic premedication or other sedative premedication.
 Some impairment in a test of memory was noted in 90% of the patients studied.
-A dose response study of pediatric patients premedicated with 1 mg/kg intramuscular (IM) meperidine found that only 4 out of 6 pediatric patients who received 600 mcg/kg IV midazolam lost consciousness, with eye closing at 108 ±140 seconds.
-This group was compared with pediatric patients who were given thiopental 5 mg/kg IV; 6 out of 6 closed their eyes at 20 ± 3.2 seconds.
+A dose response study of pediatric patients premedicated with 1 mg/kg intramuscular meperidine found that only 4 out of 6 pediatric patients who received 600 mcg/kg intravenous midazolam lost consciousness, with eye closing at 108 ±140 seconds.
+This group was compared with pediatric patients who were given thiopental 5 mg/kg intravenous; 6 out of 6 closed their eyes at 20 ± 3.2 seconds.
 Midazolam did not dependably induce anesthesia at this dose despite concomitant opioid administration in pediatric patients.
 
 Midazolam, used as directed, does not delay awakening from general anesthesia in adults.
@@ -26,35 +26,35 @@ Gross tests of recovery after awakening (orientation, ability to stand and walk,
 When compared with patients who received thiopental, patients who received midazolam generally recovered at a slightly slower rate.
 Recovery from anesthesia or sedation for procedures in pediatric patients depends on the dose of midazolam administered, coadministration of other medications causing CNS depression and duration of the procedure.
 
-In patients without intracranial lesions, induction of general anesthesia with IV midazolam is associated with a moderate decrease in cerebrospinal fluid pressure (lumbar puncture measurements), similar to that observed following IV thiopental.
+In patients without intracranial lesions, induction of general anesthesia with intravenous midazolam is associated with a moderate decrease in cerebrospinal fluid pressure (lumbar puncture measurements), similar to that observed following intravenous thiopental.
 Preliminary data in neurosurgical patients with normal intracranial pressure but decreased compliance (subarachnoid screw measurements) show comparable elevations of intracranial pressure with midazolam and with thiopental during intubation.
 No similar studies have been reported in pediatric patients.
 
 The usual recommended intramuscular premedicating doses of midazolam do not depress the ventilatory response to carbon dioxide stimulation to a clinically significant extent in adults.
 Intravenous induction doses of midazolam depress the ventilatory response to carbon dioxide stimulation for 15 minutes or more beyond the duration of ventilatory depression following administration of thiopental in adults.
 Impairment of ventilatory response to carbon dioxide is more marked in adult patients with chronic obstructive pulmonary disease (COPD).
-Sedation with IV midazolam does not adversely affect the mechanics of respiration (resistance, static recoil, most lung volume measurements); total lung capacity and peak expiratory flow decrease significantly but static compliance and maximum expiratory flow at 50% of awake total lung capacity (Vmax) increase.
+Sedation with intravenous midazolam does not adversely affect the mechanics of respiration (resistance, static recoil, most lung volume measurements); total lung capacity and peak expiratory flow decrease significantly but static compliance and maximum expiratory flow at 50% of awake total lung capacity (Vmax) increase.
 In one study of pediatric patients under general anesthesia, intramuscular midazolam (100 g/kg or 200 g/kg) was shown to depress the response to carbon dioxide in a dose-related manner.
 
-In cardiac hemodynamic studies in adults, IV induction of general anesthesia with midazolam was associated with a slight to moderate decrease in mean arterial pressure, cardiac output, stroke volume and systemic vascular resistance.
+In cardiac hemodynamic studies in adults, intravenous induction of general anesthesia with midazolam was associated with a slight to moderate decrease in mean arterial pressure, cardiac output, stroke volume and systemic vascular resistance.
 Slow heart rates (less than 65/minute), particularly in patients taking propranolol for angina, tended to rise slightly; faster heart rates (e.g., 85/minute) tended to slow slightly.
-In pediatric patients, a comparison of IV midazolam (500 g/kg) with propofol (2.5 mg/kg) revealed a mean 15% decrease in systolic blood pressure in patients who had received IV midazolam vs a mean 25% decrease in systolic blood pressure following propofol.
+In pediatric patients, a comparison of intravenous midazolam (500 g/kg) with propofol (2.5 mg/kg) revealed a mean 15% decrease in systolic blood pressure in patients who had received intravenous midazolam vs a mean 25% decrease in systolic blood pressure following propofol.
 
 ## Pharmacokinetics
 
 Midazolam's activity is primarily due to the parent drug.
 Elimination of the parent drug takes place via hepatic metabolism of midazolam to hydroxylated metabolites that are conjugated and excreted in the urine.
 Six single-dose pharmacokinetic studies involving healthy adults yield pharmacokinetic parameters for midazolam in the following ranges: volume of distribution (Vd), 1.0 to 3.1 L/kg; elimination half-life, 1.8 to 6.4 hours (mean approximately 3 hours); total clearance (Cl), 0.25 to 0.54 L/hr/kg.
-In a parallel group study, there was no difference in the clearance, in subjects administered 0.15 mg/kg (n=4) and 0.3 mg/kg (n=4) IV doses indicating linear kinetics.
+In a parallel group study, there was no difference in the clearance, in subjects administered 0.15 mg/kg (n=4) and 0.3 mg/kg (n=4) intravenous doses indicating linear kinetics.
 The clearance was successively reduced by approximately 30% at doses of 0.45 mg/kg (n=4) and 0.6 mg/kg (n=5) indicating non-linear kinetics in this dose range.
 
 ### Absorption
 
-The absolute bioavailability of the intramuscular route was greater than 90% in a cross-over study in which healthy subjects (n=17) were administered a 7.5 mg IV or IM dose.
-The mean peak concentration (Cmax) and time to peak (Tmax) following the IM dose was 90 ng/mL (20% cv) and 0.5 hour (50% cv).
-Cmax for the 1-hydroxy metabolite following the IM dose was 8 ng/mL (Tmax=1.0 hour).
+The absolute bioavailability of the intramuscular route was greater than 90% in a cross-over study in which healthy subjects (n=17) were administered a 7.5 mg intravenous or intramuscular dose.
+The mean peak concentration (Cmax) and time to peak (Tmax) following the intramuscular dose was 90 ng/mL (20% cv) and 0.5 hour (50% cv).
+Cmax for the 1-hydroxy metabolite following the intramuscular dose was 8 ng/mL (Tmax=1.0 hour).
 
-Following IM administration, Cmax for midazolam and its 1-hydroxy metabolite were approximately one-half of those achieved after intravenous injection.
+Following intramuscular administration, Cmax for midazolam and its 1-hydroxy metabolite were approximately one-half of those achieved after intravenous injection.
 
 ### Distribution
 
@@ -82,8 +82,8 @@ In vitro studies have demonstrated that the affinities of 1- and 4-hydroxy-midaz
 Clearance of midazolam is reduced in association with old age, congestive heart failure, liver disease (cirrhosis) or conditions which diminish cardiac output and hepatic blood flow.
 
 The principal urinary excretion product is 1-hydroxy-midazolam in the form of a glucuronide conjugate; smaller amounts of the glucuronide conjugates of 4-hydroxy- and dihydroxy-midazolam are detected as well.
-The amount of midazolam excreted unchanged in the urine after a single IV dose is less than 0.5% (n=5).
-Following a single IV infusion in 5 healthy volunteers, 45% to 57% of the dose was excreted in the urine as 1-hydroxymethyl midazolam conjugate.
+The amount of midazolam excreted unchanged in the urine after a single intravenous dose is less than 0.5% (n=5).
+Following a single intravenous infusion in 5 healthy volunteers, 45% to 57% of the dose was excreted in the urine as 1-hydroxymethyl midazolam conjugate.
 
 ### Pharmacokinetics-Continuous Infusion
 
@@ -120,7 +120,7 @@ The clearance was not significantly different between groups.
 
 ### Geriatric
 
-In three parallel group studies, the pharmacokinetics of midazolam administered IV or IM were compared in young (mean age 29, n=52) and healthy elderly subjects (mean age 73, n=53).
+In three parallel group studies, the pharmacokinetics of midazolam administered intravenously or intramuscularly were compared in young (mean age 29, n=52) and healthy elderly subjects (mean age 73, n=53).
 Plasma half-life was approximately two-fold higher in the elderly.
 The mean Vd based on total body weight increased consistently between 15% to 100% in the elderly.
 The mean Cl decreased approximately 25% in the elderly in two studies and was similar to that of the younger patients in the other.
@@ -131,7 +131,7 @@ In patients suffering from congestive heart failure, there appeared to be a two-
 
 ### Hepatic Impairment
 
-Midazolam pharmacokinetics were studied after an IV single dose (0.075 mg/kg) was administered to 7 patients with biopsy proven alcoholic cirrhosis and 8 control patients.
+Midazolam pharmacokinetics were studied after an intravenous single dose (0.075 mg/kg) was administered to 7 patients with biopsy proven alcoholic cirrhosis and 8 control patients.
 The mean half-life of midazolam increased 2.5-fold in the alcoholic patients.
 Clearance was reduced by 50% and the Vd increased by 20%.
 In another study in 21 male patients with cirrhosis, without ascites and with normal kidney function as determined by creatinine clearance, no changes in the pharmacokinetics of midazolam or 1-hydroxy-midazolam were observed when compared to healthy individuals.
@@ -147,15 +147,15 @@ The renal clearance of the 1-hydroxy-midazolam glucuronide was prolonged in the 
 Plasma levels accumulated in all ARF patients to about ten times that of the parent drug.
 The relationship between accumulating metabolite levels and prolonged sedation is unclear.
 
-In a study of chronic renal failure patients (n=15) receiving a single IV dose, there was a two-fold increase in the clearance and volume of distribution but the half-life remained unchanged.
+In a study of chronic renal failure patients (n=15) receiving a single intravenous dose, there was a two-fold increase in the clearance and volume of distribution but the half-life remained unchanged.
 Metabolite levels were not studied.
 
 ### Plasma Concentration-Effect Relationship
 
-Concentration-effect relationships (after an IV dose) have been demonstrated for a variety of pharmacodynamic measures (eg, reaction time, eye movement, sedation) and are associated with extensive intersubject variability.
+Concentration-effect relationships (after an intravenous dose) have been demonstrated for a variety of pharmacodynamic measures (eg, reaction time, eye movement, sedation) and are associated with extensive intersubject variability.
 Logistic regression analysis of sedation scores and steady-state plasma concentration indicated that at plasma concentrations greater than 100 ng/mL there was at least a 50% probability that patients would be sedated, but respond to verbal commands (sedation score = 3).
 At 200 ng/mL there was at least a 50% probability that patients would be asleep, but respond to glabellar tap (sedation score = 4).
 
 ### Drug Interactions
 
-For information concerning pharmacokinetic drug interactions with midazolam (see PRECAUTIONS.)
+For information concerning pharmacokinetic drug interactions with midazolam (see PRECAUTIONS).

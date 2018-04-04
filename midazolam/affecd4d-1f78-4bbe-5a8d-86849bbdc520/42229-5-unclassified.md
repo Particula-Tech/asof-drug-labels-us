@@ -8,6 +8,6 @@ NOT FOR USE IN NEONATES
 
 CONTAINS BENZYL ALCOHOL
 
-Hospira, Inc., Lake Forest, IL 60045 USA
+Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
-LAB-0851-4.0 April 2017
+LAB-0851-5.0 03/2018
