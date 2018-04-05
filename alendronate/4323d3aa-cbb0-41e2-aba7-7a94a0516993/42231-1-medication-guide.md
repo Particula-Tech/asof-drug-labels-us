@@ -25,7 +25,7 @@ These problems include irritation, inflammation, or ulcers of the esophagus whic
 2.
 Low calcium levels in your blood (hypocalcemia).
 Alendronate sodium tablets may lower the calcium levels in your blood.
-If you have low blood calcium before you start taking alendronate sodium tablets, they may get worse during treatment.
+If you have low blood calcium before you start taking alendronate sodium tablets, it may get worse during treatment.
 Your low blood calcium must be treated before you take alendronate sodium tablets.
 Most people with low blood calcium levels do not have symptoms, but some people may have symptoms.
 Call your doctor right away if you have symptoms of low blood calcium such as:
@@ -164,5 +164,5 @@ Active ingredient: alendronate monosodium salt trihydrate Inactive ingredients: 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 Medication Guides available at www.northstarrxllc.com/products or call 1-800-206-7821.
 Manufactured for: Northstar Rx LLC Memphis, TN 38141.
-Toll Free: 1-800-206-7821 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 090, India.
-M.L.No.: 19/HD/AP/95/F/R Revised: 05/2016
+Manufactured by: Aurobindo Pharma Limited Hyderabad-500 090, India.
+M.L.No.: 19/HD/AP/95/F/R Revised: 12/2017
