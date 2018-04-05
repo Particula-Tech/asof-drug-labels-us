@@ -46,25 +46,7 @@ Cyklokapron®
 
 (100 mg/mL) Rx only
 
-# PRINCIPAL DISPLAY PANEL - 10 mL Vial Carton
-
-NDC 0013-1114-20
-
-Contains 1 Vial 10 mL
-
-Cyklokapron® (tranexamic acid injection)
-
-1000 mg/10 mL (100 mg/mL)
-
-Solution for intravenous injection
-
-Single-Dose ONLY Discard any remaining portion after single use
-
-Rx only
-
-Pfizer Injectables
-
-# PRINCIPAL DISPLAY PANEL - 10 mL Vial Carton Box
+# PRINCIPAL DISPLAY PANEL - 10 mL Vial Box
 
 NDC 0013-1114-21 Contains 10 of NDC 0013-1114-20 Rx only
 
