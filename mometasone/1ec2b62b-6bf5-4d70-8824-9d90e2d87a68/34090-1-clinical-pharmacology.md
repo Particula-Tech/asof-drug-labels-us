@@ -44,7 +44,7 @@ Distribution: Based on the study employing a 1000 mcg inhaled dose of tritiated 
 Following an intravenous 400 mcg dose of mometasone furoate, the plasma concentrations showed a biphasic decline, with a mean terminal half-life of about 5 hours and the mean steady-state volume of distribution of 152 L. The in vitro protein binding for mometasone furoate was reported to be 98% to 99% (in a concentration range of 5–500 ng/mL).
 
 Metabolism: Studies have shown that mometasone furoate is primarily and extensively metabolized in the liver of all species investigated and undergoes extensive metabolism to multiple metabolites.
-In vitro studies have confirmed the primary role of CYP 3A4 in the metabolism of this compound; however, no major metabolites were identified.
+In vitro studies have confirmed the primary role of CYP3A4 in the metabolism of this compound; however, no major metabolites were identified.
 
 Excretion: Following an intravenous dosing, the terminal half-life was reported to be about 5 hours.
 Following the inhaled dose of tritiated 1000 mcg mometasone furoate, the radioactivity is excreted mainly in the feces (a mean of 74%), and to a small extent in the urine (a mean of 8%) up to 7 days.

@@ -102,6 +102,21 @@ After dose "01" the counter will read "00".
 When you replace the cap, the unit will lock and then must be thrown away.
 Start using a new ASMANEX TWISTHALER as instructed by your health care provider.
 
+BEFORE AND DURING TREATMENT WITH ASMANEX TWISTHALER
+
+Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
+
+ASMANEX TWISTHALER may affect the way other medicines work, and other medicines may affect how ASMANEX TWISTHALER works.
+
+Especially, tell your healthcare provider if you take antifungal medicines, antibiotic medicines, or anti-HIV medicines such as: ritonavir, ketoconazole, nefazodone, nelfinavir, indinavir, atazanavir, clarithromycin, saquinavir, telithromycin, itraconazole, and cobicistat-containing products.
+
+For some medicines (including medicines for HIV such as ritonavir, cobicistat-containing products, and certain antifungals and antibiotics) your doctor may wish to monitor you carefully.
+
+Ask your healthcare provider if you are not sure if any of your medicines are the kinds listed above.
+
+Know the medicines you take.
+Keep a list and show it to your healthcare provider and pharmacist each time you get a new medicine.
+
 POSSIBLE SIDE EFFECTS WITH ASMANEX TWISTHALER
 
 Serious Side Effects may include:
@@ -125,6 +140,8 @@ Serious Side Effects may include:
 - Decreased bone mass (bone mineral density).
   Patients who use inhaled steroid medicines for a long time may have an increased risk of decreased bone mass, which can affect bone strength.
   Talk with your health care provider about any questions about bone health.
+- Glaucoma, cataract, and visual disturbance.
+  Contact your doctor if you experience blurred vision or other changes in your vision.
 
 The most common side effects with ASMANEX TWISTHALER include: headache, nasal allergy symptoms, sore throat, upper respiratory tract infection, sinus infection, fungal infections in the mouth, painful menstrual periods, muscle and bone pain, back pain, and upset stomach.
 

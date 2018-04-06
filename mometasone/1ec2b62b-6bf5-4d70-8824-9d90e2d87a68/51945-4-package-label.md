@@ -1,4 +1,4 @@
-PRINCIPAL DISPLAY PANEL - 220 mcg - 120 Dose Carton
+# PRINCIPAL DISPLAY PANEL - 220 mcg - 120 Dose Inhaler Pouch Carton
 
 NDC 0085-1341-01
 
@@ -12,7 +12,7 @@ Discard Twisthaler inhaler 45 days after opening foil pouch or when dose counter
 
 Attention Pharmacist: Detach Patient's Instructions for Use and dispense with inhaler
 
-PRINCIPAL DISPLAY PANEL - 110 mcg - 30 Dose Carton
+# PRINCIPAL DISPLAY PANEL - 110 mcg - 30 Dose Inhaler Pouch Carton
 
 NDC 0085-1461-02
 

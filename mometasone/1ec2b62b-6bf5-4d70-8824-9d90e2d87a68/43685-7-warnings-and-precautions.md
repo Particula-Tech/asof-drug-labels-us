@@ -83,7 +83,7 @@ To minimize the systemic effects of orally inhaled corticosteroids, including AS
 ## 5.9 Glaucoma and Cataracts
 
 In clinical trials, glaucoma, increased intraocular pressure, and cataracts have been reported in 8 of 3007 patients following the administration of ASMANEX TWISTHALER.
-Close monitoring is warranted in patients with a change in vision or with a history of increased intraocular pressure, glaucoma, and/or cataracts.
+Consider referral to an ophthalmologist in patients who develop ocular symptoms or use ASMANEX TWISTHALER long term.
 
 ## 5.10 Paradoxical Bronchospasm
 
@@ -91,3 +91,7 @@ As with other inhaled asthma medications, bronchospasm may occur with an immedia
 If bronchospasm occurs following dosing with ASMANEX TWISTHALER, it should be treated immediately with a fast-acting inhaled bronchodilator.
 
 Treatment with ASMANEX TWISTHALER should be discontinued and alternative therapy instituted.
+
+## 5.11 Drug Interactions with Strong Cytochrome P450 3A4 Inhibitors
+
+Caution should be exercised when considering the coadministration of ASMANEX TWISTHALER with ketoconazole, and other known strong CYP3A4 inhibitors (e.g., ritonavir, cobicistat-containing products, atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, saquinavir, telithromycin) because adverse effects related to increased systemic exposure to mometasone furoate may occur [see Drug Interactions (7.1) and Clinical Pharmacology (12.3)].
