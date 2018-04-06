@@ -22,7 +22,7 @@ Advise patients that they should have regular monitoring of blood pressure when 
 Increased Risk of Bleeding
 
 Inform patients about the concomitant use of PRISTIQ with NSAIDs, aspirin, other antiplatelet drugs, warfarin, or other coagulants because the combined use of has been associated with an increased risk of bleeding.
-Advise patients to inform their health care providers if they are taking or planning to take any prescription or over-the-counter medications that increase the risk of bleeding [see Warnings and Precautions (5.4)].
+Advise patients to inform their healthcare providers if they are taking or planning to take any prescription or over-the-counter medications that increase the risk of bleeding [see Warnings and Precautions (5.4)].
 
 Activation of Mania/Hypomania
 

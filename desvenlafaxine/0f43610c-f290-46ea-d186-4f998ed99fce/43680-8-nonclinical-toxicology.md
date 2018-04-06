@@ -20,5 +20,6 @@ Additionally, desvenlafaxine was not genotoxic in the in vitro CHO mammalian cel
 Impairment of fertility
 
 When desvenlafaxine succinate was administered orally to male and female rats, fertility was reduced at the high dose of 300 mg/kg/day, which is 10 (males) and 19 (females) times the AUC exposure at an adult human dose of 100 mg per day.
-There was no effect on fertility at 100 mg/kg/day, which is 3 (males) or 5 (females) times the AUC exposure at an adult human dose of 100 mg per day These studies did not address reversibility of the effect on fertility.
+There was no effect on fertility at 100 mg/kg/day, which is 3 (males) or 5 (females) times the AUC exposure at an adult human dose of 100 mg per day.
+These studies did not address reversibility of the effect on fertility.
 The relevance of these findings to humans is not known.

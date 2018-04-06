@@ -40,38 +40,6 @@ Unit of Use 30 Tablets
 
 Rx only
 
-# PRINCIPAL DISPLAY PANEL - 50 mg Tablet Sample Wallet
-
-ALWAYS DISPENSE WITH MEDICATION GUIDE
-
-PROFESSIONAL SAMPLE–NOT FOR SALE NDC 0008-1211-70
-
-Patient Sample Pack
-
-Pristiq® desvenlafazine EXTENDED-RELEASE TABLETS
-
-50 mg*
-
-One Card Containing 7 Tablets
-
-*Each tablet contains 76 mg desvenlafaxine succinate equivalent to 50 mg desvenlafaxine
-
-Please see Full Prescribing Information, including boxed warning, and Medication Guide enclosed.
-
-# PRINCIPAL DISPLAY PANEL - 50 mg Tablet Sample Wallet Carton
-
-PROFESSIONAL SAMPLE–NOT FOR SALE NDC 0008-1211-70
-
-5 PATIENT SAMPLE PACKS
-
-ALWAYS DISPENSE WITH MEDICATION GUIDE
-
-Pristiq® desvenlafazine EXTENDED-RELEASE TABLETS
-
-50 mg* Rx only
-
-Please see Full Prescribing Information, including boxed warning, and Medication Guide inside display carton.
-
 # PRINCIPAL DISPLAY PANEL - 100 mg Tablet Blister Pack Carton
 
 ALWAYS DISPENSE WITH MEDICATION GUIDE

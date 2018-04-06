@@ -51,7 +51,7 @@ Retrospective cohort studies based on claims data have suggested an association 
 One study showed an increased risk for postpartum hemorrhage when venlafaxine exposure occurred through delivery, compared to unexposed depressed women [adj RR 2.24 (95% CI 1.69–2.97)].
 There was no increased risk in women who were exposed to venlafaxine earlier in pregnancy.
 Limitations of this study include possible confounding due to depression severity and other confounders.
-Another study showed an increased risk for postpartum hemorrhage when SNRI exposure occurred for at least 15 days in in the last month of pregnancy or through delivery, compared to unexposed women (adj RR 1.64–1.76).
+Another study showed an increased risk for postpartum hemorrhage when SNRI exposure occurred for at least 15 days in the last month of pregnancy or through delivery, compared to unexposed women (adj RR 1.64–1.76).
 The results of this study may be confounded by the effects of depression.
 
 Neonates exposed to SNRIs or SSRIs, late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
