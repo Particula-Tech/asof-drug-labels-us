@@ -62,7 +62,7 @@ If such effects occur, the dosage of ASMANEX HFA should be reduced slowly, consi
 
 ## 5.6 Drug Interactions with Strong Cytochrome P450 3A4 Inhibitors
 
-Caution should be exercised when considering the coadministration of ASMANEX HFA with ketoconazole, and other known strong cytochrome P450 (CYP) isoenzyme 3A4 (CYP3A4) inhibitors (e.g., ritonavir, atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, saquinavir, telithromycin) because adverse effects related to increased systemic exposure to mometasone furoate may occur [see Drug Interactions (7.1) and Clinical Pharmacology (12.3)].
+Caution should be exercised when considering the coadministration of ASMANEX HFA with ketoconazole, and other known strong cytochrome P450 (CYP) isoenzyme 3A4 (CYP3A4) inhibitors (e.g., ritonavir, cobicistat-containing products, atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, saquinavir, telithromycin) because adverse effects related to increased systemic exposure to mometasone furoate may occur [see Drug Interactions (7.1) and Clinical Pharmacology (12.3)].
 
 ## 5.7 Paradoxical Bronchospasm and Upper Airway Symptoms
 
@@ -97,4 +97,4 @@ To minimize the systemic effects of orally inhaled corticosteroids, including AS
 ## 5.11 Glaucoma and Cataracts
 
 Glaucoma, increased intraocular pressure, and cataracts have been reported following the use of long-term administration of inhaled corticosteroids, including mometasone furoate.
-Therefore, close monitoring is warranted in patients with a change in vision or with a history of increased intraocular pressure, glaucoma, and/or cataracts [see Adverse Reactions (6)].
+Consider referral to an ophthalmologist in patients who develop ocular symptoms or use ASMANEX HFA long term [see Adverse Reactions (6)].

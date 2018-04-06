@@ -49,6 +49,8 @@ However, the postmarketing safety experience with mometasone furoate dry powder 
 The following adverse reactions have been reported during post-approval use of mometasone furoate dry powder inhaler.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
+Eye disorders: Vision blurred [see Warnings and Precautions (5.11)].
+
 Immune System Disorders: Immediate and delayed hypersensitivity reactions including rash, pruritus, angioedema and anaphylactic reaction [see Contraindications (4.2) and Warnings and Precautions (5.8)].
 
 Respiratory, Thoracic and Mediastinal Disorders: Asthma aggravation, which may include cough, dyspnea, wheezing and bronchospasm.
