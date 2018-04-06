@@ -4,12 +4,15 @@ NDC 67457-228-05
 
 Rocuronium Bromide Injection 50 mg/5 mL (10 mg/mL)
 
+WARNING: Paralyzing Agent
+
 For Intravenous Use Only
 
-WARNING: Rocuronium Bromide may cause respiratory depression.
-Facilities for artificial respiration must be immediately available.
-
 Rx only 10 x 5 mL Multi-Dose Vials
+
+WARNING: Paralyzing Agent.
+Causes Respiratory Arrest.
+Facilities must be immediately available for artificial respiration.
 
 Sterile.
 Non-pyrogenic.
@@ -24,12 +27,12 @@ DO NOT FREEZE.
 Upon removal from refrigeration to room temperature storage conditions (25°C/77°F), use within 60 days.
 Use opened vials within 30 days.
 
+Mylan.com
+
 Manufactured for: Mylan Institutional LLC Rockford, IL 61103 U.S.A.
 
 Made in India
 
 Code No.: AP/DRUGS/103/97
 
-Mylan.com
-
-MI:22805:10C:R5
+MI:22805:10C:R6
