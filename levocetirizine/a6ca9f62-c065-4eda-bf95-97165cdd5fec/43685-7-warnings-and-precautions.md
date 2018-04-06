@@ -8,6 +8,6 @@ Concurrent use of XYZAL with alcohol or other central nervous system depressants
 
 ## 5.2 Urinary Retention
 
-Urinary retention has been reported post-marketing with XYZAL.
+Urinary retention has been reported post marketing with XYZAL.
 XYZAL should be used with caution in patients with predisposing factors of urinary retention (e.g. spinal cord lesion, prostatic hyperplasia) as XYZAL may increase the risk of urinary retention.
 Discontinue XYZAL if urinary retention occurs.

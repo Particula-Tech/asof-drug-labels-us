@@ -89,7 +89,7 @@ The elevations were transient and did not lead to discontinuation in any patient
 
 ## 6.2 Postmarketing Experience
 
-In addition to the adverse reactions reported during clinical trials and listed above, the following adverse reactions have also been identified during post-approval use of XYZAL.
+In addition to the adverse reactions reported during clinical trials and listed above, the following adverse reactions have also been identified during postapproval use of XYZAL.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 - Cardiac disorders: palpitations, tachycardia
@@ -107,7 +107,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - Respiratory, thoracic, and mediastinal disorders: dyspnea
 - Skin and subcutaneous tissue disorders: angioedema, fixed drug eruption, pruritus, rash and urticaria
 
-Besides these reactions reported under treatment with XYZAL, other potentially severe adverse events have been reported from the post-marketing experience with cetirizine.
+Besides these reactions reported under treatment with XYZAL, other potentially severe adverse events have been reported from the postmarketing experience with cetirizine.
 Since levocetirizine is the principal pharmacologically active component of cetirizine, one should take into account the fact that the following adverse events could also potentially occur under treatment with XYZAL.
 
 - Cardiac disorders: severe hypotension
@@ -115,4 +115,4 @@ Since levocetirizine is the principal pharmacologically active component of ceti
 - Nervous system disorders: extrapyramidal symptoms, myoclonus, orofacial dyskinesia, tic
 - Pregnancy, puerperium and perinatal conditions: stillbirth
 - Renal and urinary disorders: glomerulonephritis
-- Skin and subcutaneous tissue disorders: acute generalized exanthematous pustulosis (AGEP)
+- Skin and subcutaneous tissue disorders: acute generalized exanthematous pustulosis (AGEP); rebound pruritus - pruritus within a few days after discontinuation of cetirizine, usually after long-term use (e.g. months to years) of cetirizine.

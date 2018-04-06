@@ -17,7 +17,7 @@ The clinical relevance of histamine wheal skin testing is unknown.
 A QT/QTc study using a single dose of 30 mg of levocetirizine did not demonstrate an effect on the QTc interval.
 While a single dose of levocetirizine had no effect, the effects of levocetirizine may not be at steady state following single dose.
 The effect of levocetirizine on the QTc interval following multiple dose administration is unknown.
-Levocetirizine is not expected to have QT/QTc effects because of the results of QTc studies with cetirizine and the long post-marketing history of cetirizine without reports of QT prolongation.
+Levocetirizine is not expected to have QT/QTc effects because of the results of QTc studies with cetirizine and the long postmarketing history of cetirizine without reports of QT prolongation.
 
 ## 12.3 Pharmacokinetics
 
@@ -32,7 +32,7 @@ Peak concentrations are typically 270 ng/mL and 308 ng/mL following a single and
 Food had no effect on the extent of exposure (AUC) of the levocetirizine tablet, but Tmax was delayed by about 1.25 hours and Cmax was decreased by about 36% after administration with a high fat meal; therefore, levocetirizine can be administered with or without food.
 
 A dose of 5 mg (10 mL) of XYZAL oral solution is bioequivalent to a 5 mg dose of XYZAL tablets.
-Following oral administration of a 5 mg dose of XYZAL oral solution to healthy adult subjects, the mean peak plasma concentrations were achieved approximately 0.5 hour post-dose.
+Following oral administration of a 5 mg dose of XYZAL oral solution to healthy adult subjects, the mean peak plasma concentrations were achieved approximately 0.5 hour post dose.
 
 Distribution
 
