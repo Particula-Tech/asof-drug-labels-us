@@ -13,12 +13,10 @@ All units carry a date of expiration.
 Store in refrigerator 2° to 8°C (36° to 46°F).
 The multi-dose vials are stable for up to 14 days at room temperature without significant loss of potency.
 
-Manufactured by
+Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
-Hospira, Inc., Lake Forest, IL 60045 USA
+Novaplus is a registered trademark of Vizient, Inc.
 
-N+ and NOVAPLUS are registered trademarks of Novation, LLC
+LAB-1247-2.0
 
-LAB-1247-1.0
-
-Revised: 01/2018
+Revised: 04/2018
