@@ -8,4 +8,4 @@ Bristol-Myers Squibb Company Princeton, NJ 08543 USA Product of Spain
 
 1221154A7
 
-Revised: January 2016
+Revised: March 2018
