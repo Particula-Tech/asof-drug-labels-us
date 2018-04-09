@@ -1,10 +1,10 @@
 # DESCRIPTION
 
 Albuterol sulfate inhalation solution is a sterile, clear, colorless solution of the sulfate salt of racemic albuterol, albuterol sulfate.
-Albuterol sulfate is a relatively selective beta2-adrenergic bronchodilator (see CLINICAL PHARMACOLOGY).
-The chemical name for albuterol sulfate is α1-[(tert-Butylamino)methyl]-4-hydroxy-m-xylene-α,α'-diol sulfate (2:1) (salt), and its established chemical structure is as follows:
+Albuterol sulfate is a relatively selective beta 2-adrenergic bronchodilator (see CLINICAL PHARMACOLOGY).
+The chemical name for albuterol sulfate is α 1-[(tert-Butylamino)methyl]-4-hydroxy- m-xylene-α,α'-diol sulfate (2:1) (salt), and its established chemical structure is as follows:
 
-The molecular weight of albuterol sulfate is 576.7 and the empirical formula is (C13H21NO3)2 • H2SO4.
+The molecular weight of albuterol sulfate is 576.7 and the empirical formula is (C 13H 21NO 3) 2 • H 2SO 4.
 Albuterol sulfate is a white crystalline powder, soluble in water and slightly soluble in ethanol.
 The World Health Organization’s recommended name for albuterol is salbutamol.
 

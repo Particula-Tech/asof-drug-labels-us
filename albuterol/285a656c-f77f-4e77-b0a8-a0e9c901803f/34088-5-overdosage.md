@@ -7,6 +7,6 @@ Treatment consists of discontinuation of albuterol sulfate inhalation solution t
 The judicious use of a cardioselective beta-receptor blocker may be considered, bearing in mind that such medication can produce bronchospasm.
 There is insufficient evidence to determine if dialysis is beneficial for overdosage of albuterol sulfate inhalation solution.
 
-The oral median lethal dose of albuterol sulfate in mice is greater than 2000 mg/kg (approximately 580 times the maximum recommended daily inhalation dose of albuterol sulfate on a mg/m2 basis).
-The subcutaneous median lethal dose of albuterol sulfate in mature rats and small young rats is approximately 450 mg/kg and 2000 mg/kg, respectively (approximately 260 and 1200 times the maximum recommended daily inhalation dose of albuterol sulfate on a mg/m2 basis).
+The oral median lethal dose of albuterol sulfate in mice is greater than 2000 mg/kg (approximately 580 times the maximum recommended daily inhalation dose of albuterol sulfate on a mg/m 2 basis).
+The subcutaneous median lethal dose of albuterol sulfate in mature rats and small young rats is approximately 450 mg/kg and 2000 mg/kg, respectively (approximately 260 and 1200 times the maximum recommended daily inhalation dose of albuterol sulfate on a mg/m 2 basis).
 The inhalation median lethal dose has not been determined in animals.

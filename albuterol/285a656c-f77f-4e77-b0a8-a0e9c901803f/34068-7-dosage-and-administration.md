@@ -9,7 +9,7 @@ Adjust nebulizer flow rate to deliver albuterol sulfate inhalation solution over
 The use of albuterol sulfate inhalation solution can be continued as medically indicated to control recurring bouts of bronchospasm.
 During this time most patients gain optimum benefit from regular use of the inhalation solution.
 
-Patients 6 to 12 years of age with more severe asthma (baseline FEV1 less than 60% predicted), weight > 40 kg, or patients 11 to 12 years of age may achieve a better initial response with the 1.25 mg dose.
+Patients 6 to 12 years of age with more severe asthma (baseline FEV 1 less than 60% predicted), weight > 40 kg, or patients 11 to 12 years of age may achieve a better initial response with the 1.25 mg dose.
 
 Albuterol sulfate inhalation solution has not been studied in the setting of acute attacks of bronchospasm.
 A 2.5 mg dose of albuterol provided by a higher concentration product (2.5 mg albuterol per 3 mL) may be more appropriate for treating acute exacerbations, particularly in children 6 years old and above.

@@ -2,11 +2,11 @@
 
 The prime action of beta-adrenergic drugs is to stimulate adenyl cyclase, the enzyme which catalyzes the formation of cyclic-3',-5'-adenosine monophosphate (cyclic AMP) from adenosine triphosphate (ATP).
 The cyclic AMP thus formed mediates the cellular responses.
-In vitro studies and in vivo pharmacologic studies have demonstrated that albuterol has a preferential effect on beta2-adrenergic receptors compared with isoproterenol.
-While it is recognized that beta2 -adrenergic receptors are the predominant receptors in bronchial smooth muscle, recent data indicate that 10% to 50% of the beta-receptors in the human heart may be beta2-receptors.
+In vitro studies and in vivo pharmacologic studies have demonstrated that albuterol has a preferential effect on beta 2-adrenergic receptors compared with isoproterenol.
+While it is recognized that beta 2 -adrenergic receptors are the predominant receptors in bronchial smooth muscle, recent data indicate that 10% to 50% of the beta-receptors in the human heart may be beta 2-receptors.
 The precise function of these receptors, however, is not yet established.
 Controlled clinical studies and other clinical experience have shown that inhaled albuterol, like other beta-adrenergic agonist drugs, can produce a significant cardiovascular effect in some patients, as measured by pulse rate, blood pressure, symptoms, and/or electrocardiographic changes.
-Albuterol is longer acting than isoproterenol in most patients by any route of administration because it is not a substrate for the cellular uptake processes for catecholamines nor for catechol-O-methyl transferase.
+Albuterol is longer acting than isoproterenol in most patients by any route of administration because it is not a substrate for the cellular uptake processes for catecholamines nor for catechol- O-methyl transferase.
 
 ## Pharmacokinetics
 

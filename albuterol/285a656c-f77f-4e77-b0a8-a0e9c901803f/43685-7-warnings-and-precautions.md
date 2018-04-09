@@ -76,16 +76,16 @@ Nevertheless, it would be prudent to carefully evaluate the serum digoxin levels
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-In a 2-year study in Sprague-Dawley rats, albuterol sulfate caused a significant dose-related increase in the incidence of benign leiomyomas of the mesovarium at and above dietary doses of 2 mg/kg (approximately equivalent to the maximum recommended daily inhalation dose for albuterol sulfate on a mg/m2 basis).
+In a 2-year study in Sprague-Dawley rats, albuterol sulfate caused a significant dose-related increase in the incidence of benign leiomyomas of the mesovarium at and above dietary doses of 2 mg/kg (approximately equivalent to the maximum recommended daily inhalation dose for albuterol sulfate on a mg/m 2 basis).
 In another study, this effect was blocked by the co-administration of propranolol, a non-selective beta-adrenergic antagonist.
 
-In an 18-month study in CD-1 mice, albuterol sulfate showed no evidence of tumorigenicity at dietary doses up to 500 mg/kg (approximately 140 times the maximum recommended daily inhalation dose of albuterol sulfate on a mg/m2 basis).
-In a 22-month study in Golden hamsters, albuterol sulfate showed no evidence of tumorigenicity at dietary doses up to 50 mg/kg (approximately 20 times the maximum recommended daily inhalation dose of albuterol sulfate on a mg/m2 basis).
+In an 18-month study in CD-1 mice, albuterol sulfate showed no evidence of tumorigenicity at dietary doses up to 500 mg/kg (approximately 140 times the maximum recommended daily inhalation dose of albuterol sulfate on a mg/m 2 basis).
+In a 22-month study in Golden hamsters, albuterol sulfate showed no evidence of tumorigenicity at dietary doses up to 50 mg/kg (approximately 20 times the maximum recommended daily inhalation dose of albuterol sulfate on a mg/m 2 basis).
 
 Albuterol sulfate was not mutagenic in the Ames test or a mutation test in yeast.
-Albuterol sulfate was not clastogenic in a human peripheral lymphocyte assay or in an AH1 strain mouse micronucleus assay.
+Albuterol sulfate was not clastogenic in a human peripheral lymphocyte assay or in an AH 1 strain mouse micronucleus assay.
 
-Reproduction studies in rats demonstrated no evidence of impaired fertility at oral doses of albuterol sulfate up to 50 mg/kg (approximately 30 times the maximum recommended daily inhalation dose of albuterol sulfate on a mg/m2 basis).
+Reproduction studies in rats demonstrated no evidence of impaired fertility at oral doses of albuterol sulfate up to 50 mg/kg (approximately 30 times the maximum recommended daily inhalation dose of albuterol sulfate on a mg/m 2 basis).
 
 ## Pregnancy
 
@@ -94,10 +94,10 @@ Reproduction studies in rats demonstrated no evidence of impaired fertility at o
 #### Pregnancy Category C
 
 Albuterol has been shown to be teratogenic in mice.
-A study in CD-1 mice given albuterol subcutaneously showed cleft palate formation in 5 of 111 (4.5%) fetuses at 0.25 mg/kg (less than the maximum recommended daily inhalation dose of albuterol sulfate on a mg/m2 basis) and cleft palate formation in 10 of 108 (9.3%) fetuses at 2.5 mg/kg (approximately equal to the maximum recommended daily inhalation dose of albuterol sulfate on a mg/m2 basis).
-The drug did not induce cleft palate formation when administered subcutaneously at a dose of 0.025 mg/kg (less than the maximum recommended daily inhalation dose of albuterol sulfate on a mg/m2 basis).
+A study in CD-1 mice given albuterol subcutaneously showed cleft palate formation in 5 of 111 (4.5%) fetuses at 0.25 mg/kg (less than the maximum recommended daily inhalation dose of albuterol sulfate on a mg/m 2 basis) and cleft palate formation in 10 of 108 (9.3%) fetuses at 2.5 mg/kg (approximately equal to the maximum recommended daily inhalation dose of albuterol sulfate on a mg/m 2 basis).
+The drug did not induce cleft palate formation when administered subcutaneously at a dose of 0.025 mg/kg (less than the maximum recommended daily inhalation dose of albuterol sulfate on a mg/m 2 basis).
 Cleft palate formation also occurred in 23 of 72 (30.5%) fetuses from females treated subcutaneously with 2.5 mg/kg isoproterenol (positive control).
-A reproduction study in Stride rabbits revealed cranioschisis in 7 of 19 (37%) fetuses when albuterol sulfate was administered orally at 50 mg/kg (approximately 60 times the maximum recommended daily inhalation dose of albuterol sulfate on a mg/m2 basis).
+A reproduction study in Stride rabbits revealed cranioschisis in 7 of 19 (37%) fetuses when albuterol sulfate was administered orally at 50 mg/kg (approximately 60 times the maximum recommended daily inhalation dose of albuterol sulfate on a mg/m 2 basis).
 
 A study in which pregnant rats were dosed with radiolabelled albuterol sulfate demonstrated that drug-related material was transferred from the maternal circulation to the fetus.
 
