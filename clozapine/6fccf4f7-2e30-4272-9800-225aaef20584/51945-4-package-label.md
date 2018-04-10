@@ -1,5 +1,21 @@
 # Package/Label Display Panel
 
+## Clozapine Orally Disintegrating Tablets 12.5 mg, 100s Label Text
+
+NDC 0093-5416-01
+
+Clozapine Orally Disintegrating Tablets 12.5 mg
+
+Phenylketonurics: Contains phenylalanine 1.4 mg per each 12.5 mg orally disintegrating tablet.
+
+Rx only
+
+100 TABLETS
+
+TEVA
+
+# Package/Label Display Panel
+
 ## Clozapine Orally Disintegrating Tablets 25 mg, 100s Label Text
 
 NDC 0093-5417-01

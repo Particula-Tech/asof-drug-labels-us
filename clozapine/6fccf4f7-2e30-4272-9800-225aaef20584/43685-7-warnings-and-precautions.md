@@ -29,11 +29,11 @@ Table 2: Clozapine Treatment Recommendations Based on Absolute Neutrophil Count 
 
 | ANC Level | ClozapineTreatment Recommendations | ANC Monitoring |
 | --- | --- | --- |
-| Normal range (≥1500/μL) | •Initiate treatment •If treatment interrupted: -<30 days, continue monitoring as before -≥30 days, monitor as if new patient | •Weekly from initiation to 6 months •Every 2 weeks from 6 to 12 months •Monthly after 12 months |
-| •Discontinuation for reasons other than neutropenia | •See Section 2.4 |  |
-| Mild Neutropenia (1000 to 1499/μL)Confirm all initial reports of ANC less than 1500/μL with a repeat ANC measurement within 24 hours | •Continue treatment | •Three times weekly until ANC ≥1500/μL •Once ANC ≥1500/μL, return to patient’s last “Normal Range” ANC monitoring intervalIf clinically appropriate |
-| Moderate Neutropenia (500 to 999/μL | •Recommend hematology consultation •Interrupt treatment for suspected clozapine induced neutropenia •Resume treatment once ANC ≥1000/μL | •Daily until ANC ≥1000/μL, then •Three times weekly until ANC ≥1500/μL •Once ANC ≥1500/μL, check ANC weekly for 4 weeks, then return to patient’s last “Normal Range” ANC monitoring interval |
-| Severe Neutropenia (less than 500/μL | •Recommend hematology consultation •Interrupt treatment for suspected clozapine-induced neutropenia •Do not rechallenge unless prescriber determines benefits outweigh risks | •Daily until ANC ≥1000/μL, then •Three times weekly until ANC ≥1500/μL •If patient rechallenged, resume treatment as a new patient under “Normal Range” monitoring once ANC ≥1500/μL |
+| Normal range (≥1500/μL) | Initiate treatment If treatment interrupted: <30 days, continue monitoring as before ≥30 days, monitor as if new patient | Weekly from initiation to 6 months Every 2 weeks from 6 to 12 months Monthly after 12 months |
+| Discontinuation for reasons other than neutropenia | See Section 2.4 |  |
+| Mild Neutropenia (1000 to 1499/μL)* | Continue treatment | Three times weekly until ANC ≥1500/μL Once ANC ≥1500/μL, return to patient’s last “Normal Range” ANC monitoring interval† |
+| Moderate Neutropenia (500 to 999/μL* | Recommend hematology consultation Interrupt treatment for suspected clozapine induced neutropenia Resume treatment once ANC ≥1000/μL | Daily until ANC ≥1000/μL, then Three times weekly until ANC ≥1500/μL Once ANC ≥1500/μL, check ANC weekly for 4 weeks, then return to patient’s last “Normal Range” ANC monitoring interval† |
+| Severe Neutropenia (less than 500/μL* | Recommend hematology consultation Interrupt treatment for suspected clozapine-induced neutropenia Do not rechallenge unless prescriber determines benefits outweigh risks | Daily until ANC ≥1000/μL, then Three times weekly until ANC ≥1500/μL If patient rechallenged, resume treatment as a new patient under “Normal Range” monitoring once ANC ≥1500/μL |
 
 ### Clozapine Treatment and Monitoring in Patients with Benign Ethnic Neutropenia (see Table 3)
 
@@ -52,18 +52,18 @@ Table 3: Patients with Benign Ethnic Neutropenia (BEN); Clozapine Treatment Reco
 
 | ANC Level | Treatment Recommendations | ANC Monitoring |
 | --- | --- | --- |
-| Normal BEN Range (Established ANC baseline ≥1000/μL) | •Obtain at least two baseline ANC levels before initiating treatment •If treatment interrupted -<30 days, continue monitoring as before -≥30 days, monitor as if new patient | •Weekly from initiation to 6 months •Every 2 weeks from 6 to 12 months •Monthly after 12 months |
-| •Discontinuation of treatment for reasons other than neutropenia | •See Section 2.4 |  |
-| BEN Neutropenia 500 to 999/μLConfirm all initial reports of ANC less than 1500/μL with a repeat ANC measurement within 24 hours | •Recommend hematology consultation •Continue treatment | •Three times weekly until ANC ≥1000/μL or ≥ patient’s known baseline •Once ANC ≥1000/μL or at patient’s known baseline, check ANC weekly for 4 weeks, then return to patient’s last “Normal BEN Range” ANC monitoring interval.If clinically appropriate |
-| BEN Severe Neutropenia less than 500/μL | •Recommend hematology consultation •Interrupt treatment for suspected clozapine-induced neutropenia •Do not rechallenge unless prescriber determines benefits outweigh risks | •Daily until ANC ≥500/μL, then •Three times weekly until ANC ≥patient’s baseline •If patient rechallenged, resume treatment as a new patient under “Normal Range” monitoring once ANC ≥1000/μL or at patient’s baseline |
+| Normal BEN Range (Established ANC baseline ≥1000/μL) | Obtain at least two baseline ANC levels before initiating treatment If treatment interrupted <30 days, continue monitoring as before ≥30 days, monitor as if new patient | Weekly from initiation to 6 months Every 2 weeks from 6 to 12 months Monthly after 12 months |
+| Discontinuation of treatment for reasons other than neutropenia | See Section 2.4 |  |
+| BEN Neutropenia 500 to 999/μL* | Recommend hematology consultation Continue treatment | Three times weekly until ANC ≥1000/μL or ≥ patient’s known baseline Once ANC ≥1000/μL or at patient’s known baseline, check ANC weekly for 4 weeks, then return to patient’s last “Normal BEN Range” ANC monitoring interval.† |
+| BEN Severe Neutropenia less than 500/μL* | Recommend hematology consultation Interrupt treatment for suspected clozapine-induced neutropenia Do not rechallenge unless prescriber determines benefits outweigh risks | Daily until ANC ≥500/μL, then Three times weekly until ANC ≥patient’s baseline If patient rechallenged, resume treatment as a new patient under “Normal Range” monitoring once ANC ≥1000/μL or at patient’s baseline |
 
 ### General Guidelines for Management of All Patients with Fever or with Neutropenia
 
-- •Fever: Interrupt clozapine as a precautionary measure in any patient who develops fever, defined as a temperature of 38.5°C [101.3°F] or greater, and obtain an ANC level.
+- Fever: Interrupt clozapine as a precautionary measure in any patient who develops fever, defined as a temperature of 38.5°C [101.3°F] or greater, and obtain an ANC level.
   Fever is often the first sign of neutropenic infection.
-- •ANC less than 1000/μL: If fever occurs in any patient with an ANC less than 1000/μL, initiate appropriate workup and treatment for infection and refer to Tables 2 or 3 for management.
-- •Consider hematology consultation.
-- •See Neuroleptic Malignant Syndrome (NMS) and Fever under WARNINGS AND PRECAUTIONS (5) and Instructions for Patients, under PATIENT COUNSELING INFORMATION (17).
+- ANC less than 1000/μL: If fever occurs in any patient with an ANC less than 1000/μL, initiate appropriate workup and treatment for infection and refer to Tables 2 or 3 for management.
+- Consider hematology consultation.
+- See Neuroleptic Malignant Syndrome (NMS) and Fever under WARNINGS AND PRECAUTIONS (5) and Instructions for Patients, under PATIENT COUNSELING INFORMATION (17).
 
 ### Rechallenge after an ANC less than 500/μL (severe neutropenia)
 
@@ -86,9 +86,9 @@ Clozapine is only available through a restricted program under a REMS called the
 
 Notable requirements of the Clozapine REMS Program include:
 
-- •Healthcare professionals who prescribe clozapine must be certified with the program by enrolling and completing training
-- •Patients who receive clozapine must be enrolled in the program and comply with the ANC testing and monitoring requirements
-- •Pharmacies dispensing clozapine must be certified with the program by enrolling and completing training and must only dispense to patients who are eligible to receive clozapine
+- Healthcare professionals who prescribe clozapine must be certified with the program by enrolling and completing training
+- Patients who receive clozapine must be enrolled in the program and comply with the ANC testing and monitoring requirements
+- Pharmacies dispensing clozapine must be certified with the program by enrolling and completing training and must only dispense to patients who are eligible to receive clozapine
 
 Further information is available at www.clozapinerems.com or 1-844-267-8678.
 
@@ -375,6 +375,7 @@ The effect of symptom suppression on the long-term course of TD is unknown.
 ## 5.18 Patients with Phenylketonuria
 
 Phenylketonuric patients should be informed that clozapine orally disintegrating tablets contain phenylalanine (a component of aspartame).
+Each 12.5 mg, orally disintegrating tablet contains 1.4 mg phenylalanine.
 Each 25 mg, orally disintegrating tablet contains 2.8 mg phenylalanine.
 Each 100 mg, orally disintegrating tablet contains 11.2 mg phenylalanine.
 

@@ -2,6 +2,11 @@
 
 ## 16.1 How Supplied
 
+12.5 mg
+
+Yellow, round, flat-faced, beveled-edge, unscored tablet.
+Debossed with I3 on one side and plain on the other side.
+Available in bottles of 100 (NDC 0093-5416-01).
 25 mg
 
 Yellow, round, flat-faced, beveled-edge, unscored tablet.

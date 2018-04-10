@@ -36,11 +36,11 @@ Generally, patients responding to clozapine orally disintegrating tablets should
 
 Method of treatment discontinuation will vary depending on the patient’s last ANC:
 
-- •See Tables 2 or 3 for appropriate ANC monitoring based on the level of neutropenia if abrupt treatment discontinuation is necessary because of moderate to severe neutropenia.
-- •Reduce the dose gradually over a period of 1 to 2 weeks if termination of clozapine therapy is planned and there is no evidence of moderate to severe neutropenia.
-- •For abrupt clozapine discontinuation for a reason unrelated to neutropenia, continuation of the existing ANC monitoring is recommended for general population patients until their ANC is ≥1500/μL and for BEN patients until their ANC is ≥1000/μL or above their baseline.
-- •Additional ANC monitoring is required for any patient reporting onset of fever (temperature of 38.5°C or 101.3°F, or greater) during the 2 weeks after discontinuation [see Warnings and Precautions (5.1)].
-- •Monitor all patients carefully for the recurrence of psychotic symptoms and symptoms related to cholinergic rebound such as profuse sweating, headache, nausea, vomiting, and diarrhea.
+- See Tables 2 or 3 for appropriate ANC monitoring based on the level of neutropenia if abrupt treatment discontinuation is necessary because of moderate to severe neutropenia.
+- Reduce the dose gradually over a period of 1 to 2 weeks if termination of clozapine therapy is planned and there is no evidence of moderate to severe neutropenia.
+- For abrupt clozapine discontinuation for a reason unrelated to neutropenia, continuation of the existing ANC monitoring is recommended for general population patients until their ANC is ≥1500/μL and for BEN patients until their ANC is ≥1000/μL or above their baseline.
+- Additional ANC monitoring is required for any patient reporting onset of fever (temperature of 38.5°C or 101.3°F, or greater) during the 2 weeks after discontinuation [see Warnings and Precautions (5.1)].
+- Monitor all patients carefully for the recurrence of psychotic symptoms and symptoms related to cholinergic rebound such as profuse sweating, headache, nausea, vomiting, and diarrhea.
 
 ## 2.6 Re-Initiation of Treatment
 
