@@ -12,7 +12,7 @@ Although this study did not specifically address the impact of the interaction o
 The primary determinant of contraceptive efficacy is the progestin component of the combination oral contraceptive, so higher exposure to the progestin would not be expected to be deleterious.
 
 However, irregular bleeding (spotting) may occur more frequently due to both the increased exposure to the progestin and lower exposure to the estrogen, which tends to stabilize the endometrium.
-Patients should be informed not to discontinue their combination oral contraceptive if spotting occurs, but to notify their health care provider if the spotting is troubling to them.
+Patients should be informed not to discontinue their combination oral contraceptive if spotting occurs, but to notify their healthcare provider if the spotting is troubling to them.
 
 ## 7.3 CNS Depressants Including Alcohol
 
@@ -38,3 +38,8 @@ It may be prudent to examine blood ammonia in patients in whom the onset of hypo
 
 Concomitant use of topiramate, a component of Qsymia, with any other carbonic anhydrase inhibitor (e.g., zonisamide, acetazolamide, or dichlorphenamide) may increase the severity of metabolic acidosis and may also increase the risk of kidney stone formation.
 Avoid the use of Qsymia with other drugs that inhibit carbonic anhydrase [see Warnings and Precautions (5.7)].
+
+## 7.7 Pioglitazone
+
+A decrease in the exposure of pioglitazone and its active metabolites were noted with the concurrent use of pioglitazone and topiramate in a clinical trial.
+The clinical relevance of these observations is unknown; however, when Qsymia is added to pioglitazone therapy or pioglitazone is added to Qsymia therapy, careful attention should be given to the routine monitoring of patients for adequate control of their diabetic disease state [see Clinical Pharmacology (12.3)].

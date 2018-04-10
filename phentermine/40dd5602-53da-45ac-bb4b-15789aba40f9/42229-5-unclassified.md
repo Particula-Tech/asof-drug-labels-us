@@ -173,4 +173,4 @@ US Patent Numbers: 7,056,890; 7,553,818; 7,659,256; 7,674,776; 8,580,298; 8,580,
 
 Qsymia is a registered trademark of VIVUS, Inc.
 
-PH-03-002-08
+PH-03-002-09

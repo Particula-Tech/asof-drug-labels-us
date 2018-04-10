@@ -104,9 +104,12 @@ However, if persistent metabolic acidosis develops while taking Qsymia, reduce t
 
 ## 5.8 Elevation in Creatinine
 
-Qsymia can cause an increase in serum creatinine.Peak increases in serum creatinine were observed after 4 to 8 weeks of treatment.
-On average, serum creatinine gradually declined but remained elevated over baseline creatinine values Elevations in serum creatinine often signify a decrease in renal function, but the cause for Qsymia-associated changes in serum creatinine has not been definitively established..Therefore, measurement of serum creatinine prior to starting Qsymia and during Qsymia treatment is recommended.
-If persistent elevations in creatinine occur while taking Qsymia, reduce the dose or discontinue Qsymia [see Adverse Reactions (6.1)].
+Qsymia can cause an increase in serum creatinine that reflects a decrease in renal function (glomerular filtration rate).
+In phase 3 trials, peak increases in serum creatinine were observed after 4 to 8 weeks of treatment.
+On average, serum creatinine gradually declined but remained elevated over baseline creatinine values.
+The changes in serum creatinine (and measured GFR) with short-term Qsymia treatment appear reversible with treatment discontinuation, but the effect of chronic treatment on renal function is not known.
+Therefore, measurement of serum creatinine prior to starting Qsymia and during Qsymia treatment is recommended.
+If persistent elevations in creatinine occur while taking Qsymia, reduce the dose or discontinue Qsymia [see Adverse Reactions (6.1), Pharmacodynamics (12.2)].
 
 ## 5.9 Potential Risk of Hypoglycemia in Patients with Type 2 Diabetes Mellitus on Anti-Diabetic Therapy
 

@@ -21,6 +21,12 @@ The effect of Qsymia on the QTc interval was evaluated in a randomized, double-b
 A total of 54 healthy subjects were administered Qsymia 7.5 mg/46 mg at steady state and then titrated to Qsymia 22.5 mg/138 mg at steady state.
 Qsymia 22.5 mg/138 mg [a supra-therapeutic dose resulting in a phentermine and topiramate maximum concentration (C max) of 4- and 3- times higher than those at Qsymia 7.5 mg/46 mg, respectively] did not affect cardiac repolarization as measured by the change from baseline in QTc.
 
+Glomerular Filtration Rate (GFR)
+
+Healthy obese men and women received Qsymia daily for 4 weeks (3.75 mg/23 mg on Days 1 to 3, 7.5 mg/46 mg on Days 4 to 6, 11.25 mg/69 mg on Days 7 to 9, and 15 mg/92 mg on Days 10 to 28).
+The glomerular filtration rate (GFR) of these participants was assessed via iohexol clearance.
+On average, GFR decreased during Qsymia treatment and returned to baseline within 4 weeks after discontinuing Qsymia [See Warnings and Precautions (5.8)]
+
 ## 12.3 Pharmacokinetics
 
 Phentermine
@@ -172,12 +178,11 @@ Clinical laboratory results indicated decreases in serum potassium after topiram
 
 Pioglitazone
 
-A drug-drug interaction study conducted in healthy volunteers evaluated the steady-state pharmacokinetics of topiramate and pioglitazone when administered alone and concomitantly.
+A drug-drug interaction study conducted in healthy volunteers evaluated the steady-state pharmacokinetics of topiramate (96 mg twice daily) and pioglitazone (30 mg daily) when administered alone and concomitantly for 7 days.
 A 15% decrease in the area under the concentration-time curve during a dosage interval at steady state (AUC τ,ss) of pioglitazone with no alteration in maximum steady-state plasma drug concentration during a dosage interval (C max,ss) was observed.
 This finding was not statistically significant.
 In addition, a 13% and 16% decrease in C max,ss and AUC τ,ss respectively, of the active hydroxy-metabolite was noted as well as a 60% decrease in C max,ss and AUC τ,ss of the active keto-metabolite.
 The clinical significance of these findings is not known.
-When topiramate is added to pioglitazone therapy or pioglitazone is added to topiramate therapy, careful attention should be given to the routine monitoring of patients for adequate control of their diabetic disease state.
 
 Glyburide
 
