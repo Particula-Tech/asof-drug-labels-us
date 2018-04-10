@@ -8,8 +8,9 @@ The drug interactions of the combination are expected to reflect those of the in
 
 The main route of metabolism of corticosteroids, including mometasone furoate, a component of DULERA, is via cytochrome P450 (CYP) isoenzyme 3A4 (CYP3A4).
 After oral administration of ketoconazole, a strong inhibitor of CYP3A4, the mean plasma concentration of orally inhaled mometasone furoate increased.
-Concomitant administration of CYP3A4 inhibitors may inhibit the metabolism of, and increase the systemic exposure to, mometasone furoate.
-Caution should be exercised when considering the coadministration of DULERA with long-term ketoconazole and other known strong CYP3A4 inhibitors (e.g., ritonavir, atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, saquinavir, telithromycin) [see Warnings and Precautions (5.8) and Clinical Pharmacology (12.3)].
+Concomitant administration of CYP3A4 inhibitors may inhibit the metabolism of, and increase the systemic exposure to, mometasone furoate and potentially increase the risk for systemic corticosteroid side effects.
+Caution should be exercised when considering the coadministration of DULERA with long-term ketoconazole and other known strong CYP3A4 inhibitors (e.g., ritonavir, cobicistat-containing products, atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, saquinavir, telithromycin) [see Warnings and Precautions (5.8) and Clinical Pharmacology (12.3)].
+Consider the benefit of coadministration versus the potential risk of systemic corticosteroid effects, in which case patients should be monitored for systemic corticosteroid side effects.
 
 ## 7.2 Adrenergic Agents
 

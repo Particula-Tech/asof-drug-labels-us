@@ -51,6 +51,8 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Cardiac disorders: angina pectoris, cardiac arrhythmias, e.g., atrial fibrillation, ventricular extrasystoles, tachyarrhythmia
 
+Eye disorders: vision blurred [see Warnings and Precautions (5.14)]
+
 Immune system disorders: immediate and delayed hypersensitivity reactions including anaphylactic reaction, angioedema, severe hypotension, rash, pruritus
 
 Investigations: electrocardiogram QT prolonged, blood pressure increased (including hypertension)

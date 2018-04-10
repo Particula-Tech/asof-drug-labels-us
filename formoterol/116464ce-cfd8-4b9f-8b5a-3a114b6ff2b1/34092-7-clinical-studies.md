@@ -109,7 +109,7 @@ The safety and efficacy of formoterol MDI 5 mcg alone in comparison to placebo w
 
 Postmarketing Safety and Efficacy Trial with DULERA
 
-This 26-week double-blind, randomized control trial evaluated 11,729 patients, 12 years of age and older, who received at least one dose of DULERA (100 mcg/5 mcg or 200/5 mcg, n=5868) or mometasone furoate monotherapy (100 mcg or 200 mcg, n=5861) each administered as 2 inhalations twice daily by metered dose inhalation aerosols (NCT01471340).
+This 26-week double-blind, randomized control trial evaluated 11,729 patients, 12 years of age and older, who received at least one dose of DULERA (100 mcg/5 mcg or 200 mcg/5 mcg, n=5868) or mometasone furoate monotherapy (100 mcg or 200 mcg, n=5861) each administered as 2 inhalations twice daily by metered dose inhalation aerosols (NCT01471340).
 The primary safety objective was to evaluate whether the addition of formoterol to mometasone furoate (DULERA) was non-inferior to mometasone furoate in risk of serious asthma-related events (adjudicated hospitalization, intubation, and death).
 A blinded adjudication committee determined whether events were asthma-related.
 The study was designed to rule out a pre-defined risk margin of 2.0.

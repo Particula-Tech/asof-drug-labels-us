@@ -121,7 +121,7 @@ If such effects occur, the dosage of DULERA should be reduced slowly, consistent
 
 ## 5.8 Drug Interactions with Strong Cytochrome P450 3A4 Inhibitors
 
-Caution should be exercised when considering the coadministration of DULERA with ketoconazole, and other known strong CYP3A4 inhibitors (e.g., ritonavir, atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, saquinavir, telithromycin) because adverse effects related to increased systemic exposure to mometasone furoate may occur [see Drug Interactions (7.1) and Clinical Pharmacology (12.3)].
+Caution should be exercised when considering the coadministration of DULERA with ketoconazole, and other known strong CYP3A4 inhibitors (e.g., ritonavir, cobicistat-containing products, atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, saquinavir, telithromycin) because adverse effects related to increased systemic exposure to mometasone furoate may occur [see Drug Interactions (7.1) and Clinical Pharmacology (12.3)].
 
 ## 5.9 Paradoxical Bronchospasm and Upper Airway Symptoms
 
@@ -164,7 +164,7 @@ To minimize the systemic effects of orally inhaled corticosteroids, including DU
 ## 5.14 Glaucoma and Cataracts
 
 Glaucoma, increased intraocular pressure, and cataracts have been reported following the use of long-term administration of inhaled corticosteroids, including mometasone furoate, a component of DULERA.
-Therefore, close monitoring is warranted in patients with a change in vision or with a history of increased intraocular pressure, glaucoma, and/or cataracts [see Adverse Reactions (6)].
+Consider referral to an ophthalmologist in patients who develop ocular symptoms or use DULERA long term [see Adverse Reactions (6)].
 
 ## 5.15 Coexisting Conditions
 
