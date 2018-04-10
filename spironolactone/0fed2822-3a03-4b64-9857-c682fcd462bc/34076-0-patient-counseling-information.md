@@ -3,6 +3,6 @@
 Patients who receive ALDACTONE should be advised to avoid potassium supplements and foods containing high levels of potassium, including salt substitutes.
 
 This product's label may have been updated.
-For full prescribing information, please visit www.pfizer.com.
+For current full prescribing information, please visit www.pfizer.com.
 
-LAB-0231-12.0
+LAB-0231-13.0
