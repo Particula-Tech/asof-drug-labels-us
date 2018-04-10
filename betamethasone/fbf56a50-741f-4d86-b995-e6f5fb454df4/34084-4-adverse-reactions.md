@@ -17,3 +17,5 @@ Because adverse reactions are reported voluntarily from a population of uncertai
 Postmarketing reports for local adverse reactions to topical corticosteroids may also include: burning, itching, irritation, dryness, folliculitis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, hypertrichosis, skin atrophy, striae, and miliaria.
 
 Hypersensitivity reactions, consisting of predominantly skin signs and symptoms, e.g., contact dermatitis, pruritus, bullous dermatitis, and erythematous rash have been reported.
+
+Ophthalmic adverse reactions of cataracts, glaucoma, increased intraocular pressure, and central serous chorioretinopathy have been reported with the use of topical corticosteroids, including topical betamethasone products.
