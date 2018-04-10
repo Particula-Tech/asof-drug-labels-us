@@ -37,7 +37,7 @@ Mean ± SD and Range of Pharmacokinetic Parameters of Methylphenidate After a Si
 
 | Population | Children |  | Adult Males |  |
 | --- | --- | --- | --- | --- |
-| Formulation Dose | Methylphenidate Hydrochloride Tablets 10 mg & 10 mg | Methylphenidate Hydrochloride Extended-Release Capsules 20 mg | Methylphenidate Hydrochloride Tablets 10 mg & 10 mg | Methylphenidate Hydrochloride Extended-Release Capsules20 mg |
+| Formulation Dose | Methylphenidate Hydrochloride Tablets 10 mg & 10 mg | Methylphenidate Hydrochloride Extended-Release Capsules 20 mg | Methylphenidate Hydrochloride Tablets 10 mg & 10 mg | Methylphenidate Hydrochloride Extended-Release Capsules 20 mg |
 | N | 21 | 18 | 9 | 8 |
 | Tlag (h) | 0.24 ± 0.44 | 0.28 ± 0.46 | 1.0 ± 0.5 | 0.7 ± 0.2 |
 |  | 0 - 1 | 0 - 1 | 0.7 - 1.3 | 0.3 - 1.0 |
@@ -65,11 +65,11 @@ After oral administration of methylphenidate hydrochloride extended-release 20 m
 Distribution
 
 Binding to plasma proteins is low (10%-33%).
-The volume of distribution was 2.65±1.11 L/kg for d-methylphenidate and 1.80±0.91 L/kg for 1-methylphenidate.
+The volume of distribution was 2.65±1.11 L/kg for d-methylphenidate and 1.80±0.91 L/kg for l-methylphenidate.
 
 Metabolism
 
-The absolute oral bioavailability of methylphenidate in children was 22±8% for d-methylphenidate and 5±3% for 1-methylphenidate, suggesting pronounced presystemic metabolism.
+The absolute oral bioavailability of methylphenidate in children was 22±8% for d-methylphenidate and 5±3% for l-methylphenidate, suggesting pronounced presystemic metabolism.
 Biotransformation of methylphenidate by the carboxylesterase CES1A1 is rapid and extensive leading to the main, de-esterified metabolite α-phenyl-2-piperidine acetic acid (ritalinic acid).
 Only small amounts of hydroxylated metabolites (e.g., hydroxymethylphenidate and hydroxyritalinic acid) are detectable in plasma.
 Therapeutic activity is principally due to the parent compound.
