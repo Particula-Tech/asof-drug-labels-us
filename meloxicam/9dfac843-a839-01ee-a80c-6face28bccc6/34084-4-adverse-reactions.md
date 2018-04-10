@@ -32,7 +32,7 @@ Table 1a depicts adverse events that occurred in ≥2% of the MOBIC treatment gr
 
 Table 1b depicts adverse events that occurred in ≥2% of the MOBIC treatment groups in two 12-week placebo-controlled rheumatoid arthritis trials.
 
-Table 1a Adverse Events (%) Occurring in ≥ 2% of MOBIC Patients in a 12-Week Osteoarthritis Placebo- and Active-Controlled Trial
+Table 1a Adverse Events (%) Occurring in ≥2% of MOBIC Patients in a 12-Week Osteoarthritis Placebo- and Active-Controlled Trial
 
 |  | Placebo | MOBIC 7.5 mg daily | MOBIC 15 mg daily | Diclofenac 100 mg daily |  |
 | --- | --- | --- | --- | --- | --- |
