@@ -1,6 +1,8 @@
 # 6 ADVERSE REACTIONS
 
-The following adverse reaction is described elsewhere in labeling: Renal dysfunction upon use with ramipril [see Warnings and Precautions (5.6)]
+The following adverse reaction is described elsewhere in labeling:
+
+- Renal dysfunction upon use with ramipril [see Warnings and Precautions (5.6)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -25,7 +27,7 @@ Table 1 Adverse Events Occurring at an Incidence of ≥1% in Patients Treated wi
 | Diarrhea | 3 | 2 |
 | Pharyngitis | 1 | 0 |
 
-In addition to the adverse events in the table, the following events occurred at a rate of ≥1% but were at least as frequent in the placebo group: influenza-like symptoms, dyspepsia, myalgia, urinary tract infection, abdominal pain, headache, dizziness, pain, fatigue, coughing, hypertension, chest pain, nausea and peripheral edema.
+In addition to the adverse events in the table, the following events occurred at a rate of ≥1% but were at least as frequent in the placebo group: influenza-like symptoms, dyspepsia, myalgia, urinary tract infection, abdominal pain, headache, dizziness, pain, fatigue, coughing, hypertension, chest pain, nausea, and peripheral edema.
 Discontinuation of therapy because of adverse events was required in 2.8% of 1455 patients treated with telmisartan tablets and 6.1% of 380 placebo patients in placebo-controlled clinical trials.
 
 The incidence of adverse events was not dose-related and did not correlate with gender, age, or race of patients.
@@ -35,61 +37,9 @@ The incidence of cough occurring with telmisartan in 6 placebo-controlled trials
 In addition to those listed above, adverse events that occurred in more than 0.3% of 3500 patients treated with telmisartan monotherapy in controlled or open trials are listed below.
 It cannot be determined whether these events were causally related to telmisartan tablets:
 
-Autonomic Nervous System
+Autonomic Nervous System: impotence, increased sweating, flushing; Body as a Whole: allergy, fever, leg pain, malaise; Cardiovascular: palpitation, dependent edema, angina pectoris, tachycardia, leg edema, abnormal ECG; CNS: insomnia, somnolence, migraine, vertigo, paresthesia, involuntary muscle contractions, hypoesthesia; Gastrointestinal: flatulence, constipation, gastritis, vomiting, dry mouth, hemorrhoids, gastroenteritis, enteritis, gastroesophageal reflux, toothache, non-­specific gastrointestinal disorders; Metabolic: gout, hypercholesterolemia, diabetes mellitus; Musculoskeletal: arthritis, arthralgia, leg cramps; Psychiatric: anxiety, depression, nervousness; Resistance Mechanism: infection, fungal infection, abscess, otitis media; Respiratory: asthma, bronchitis, rhinitis, dyspnea, epistaxis; Skin: dermatitis, rash, eczema, pruritus; Urinary: micturition frequency, cystitis;
 
-Impotence, increased sweating, flushing;
-
-Body as a Whole
-
-Allergy, fever, leg pain, malaise;
-
-Cardiovascular
-
-Palpitation, dependent edema, angina pectoris, tachycardia, leg edema, abnormal ECG;
-
-CNS
-
-Insomnia, somnolence, migraine, vertigo, paresthesia, involuntary muscle contractions, hypoesthesia;
-
-Gastrointestinal
-
-Flatulence, constipation, gastritis, vomiting, dry mouth, hemorrhoids, gastroenteritis, enteritis, gastroesophageal reflux, toothache, non-­specific gastrointestinal disorders;
-
-Metabolic
-
-Gout, hypercholesterolemia, diabetes mellitus;
-
-Musculoskeletal
-
-Arthritis, arthralgia, leg cramps;
-
-Psychiatric
-
-Anxiety, depression, nervousness;
-
-Resistance Mechanism
-
-Infection, fungal infection, abscess, otitis media;
-
-Respiratory
-
-Asthma, bronchitis, rhinitis, dyspnea, epistaxis;
-
-Skin
-
-Dermatitis, rash, eczema, pruritus;
-
-Urinary
-
-Micturition frequency, cystitis;
-
-Vascular
-
-Cerebrovascular disorder; and
-
-Special Senses
-
-Abnormal vision, conjunctivitis, tinnitus, earache.
+Vascular: cerebrovascular disorder; and Special Senses: abnormal vision, conjunctivitis, tinnitus, earache.
 
 During initial clinical studies, a single case of angioedema was reported (among a total of 3781 patients treated).
 
@@ -97,19 +47,13 @@ Clinical Laboratory Findings
 
 In placebo-controlled clinical trials, clinically relevant changes in standard laboratory test parameters were rarely associated with administration of telmisartan tablets.
 
-Hemoglobin
-
-A greater than 2 g/dL decrease in hemoglobin was observed in 0.8% telmisartan patients compared with 0.3% placebo patients.
+Hemoglobin: A greater than 2 g/dL decrease in hemoglobin was observed in 0.8% telmisartan patients compared with 0.3% placebo patients.
 No patients discontinued therapy because of anemia.
 
-Creatinine
-
-A 0.5 mg/dL rise or greater in creatinine was observed in 0.4% telmisartan patients compared with 0.3% placebo patients.
+Creatinine: A 0.5 mg/dL rise or greater in creatinine was observed in 0.4% telmisartan patients compared with 0.3% placebo patients.
 One telmisartan-treated patient discontinued therapy because of increases in creatinine and blood urea nitrogen.
 
-Liver Enzymes
-
-Occasional elevations of liver chemistries occurred in patients treated with telmisartan; all marked elevations occurred at a higher frequency with placebo.
+Liver Enzymes: Occasional elevations of liver chemistries occurred in patients treated with telmisartan; all marked elevations occurred at a higher frequency with placebo.
 No telmisartan-treated patients discontinued therapy because of abnormal hepatic function.
 
 ## 6.2 Postmarketing Experience

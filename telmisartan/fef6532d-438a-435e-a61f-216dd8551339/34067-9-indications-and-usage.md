@@ -2,7 +2,7 @@
 
 ## 1.1 Hypertension
 
-Telmisartan tablets USP are indicated for the treatment of hypertension, to lower blood pressure.
+Telmisartan tablets are indicated for the treatment of hypertension, to lower blood pressure.
 Lowering blood pressure reduces the risk of fatal and nonfatal cardiovascular events, primarily strokes and myocardial infarctions.
 These benefits have been seen in controlled trials of antihypertensive drugs from a wide variety of pharmacologic classes including the class to which this drug principally belongs.
 Control of high blood pressure should be part of comprehensive cardiovascular risk management, including, as appropriate, lipid control, diabetes management, antithrombotic therapy, smoking cessation, exercise, and limited sodium intake.
@@ -15,5 +15,5 @@ Relative risk reduction from blood pressure reduction is similar across populati
 Some antihypertensive drugs have smaller blood pressure effects (as monotherapy) in black patients, and many antihypertensive drugs have additional approved indications and effects (e.g., on angina, heart failure, or diabetic kidney disease).
 These considerations may guide selection of therapy.
 
-It may be used alone or in combination with other antihypertensive agents [see Clinical Studies (14.1)].
-Use of telmisartan and ACE inhibitor is not recommended [see Warning and Precautions (5.6)].
+Telmisartan may be used alone or in combination with other antihypertensive agents [see Clinical Studies (14.1)].
+Use of telmisartan and ACE inhibitor is not recommended [see Warnings and Precautions (5.6)].

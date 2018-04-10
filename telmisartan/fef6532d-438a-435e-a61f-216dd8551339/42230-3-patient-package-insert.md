@@ -1,50 +1,68 @@
 # Patient Information
 
-Telmisartan (TEL-mi-SAR-tan) Tablets USP Read this Patient Information before you start taking telmisartan tablets and each time you get a refill.
+Telmisartan
+
+(TEL-mi-SAR-tan)
+
+Tablets USP
+
+Read this Patient Information before you start taking telmisartan tablets and each time you get a refill.
 There may be new information.
 This information does not take the place of talking to your doctor about your medical condition or your treatment.
+
 What is the most important information I should know about telmisartan tablets?
+
 Telmisartan tablets can cause harm or death to an unborn baby.
 Talk to your doctor about other ways to lower your blood pressure if you plan to become pregnant.
 If you get pregnant while taking telmisartan tablets, tell your doctor right away.
+
 What are telmisartan tablets?
+
 Telmisartan tablets are a prescription medicine used:
 
 - to treat high blood pressure (hypertension)
 
 It is not known if telmisartan tablets are safe and effective in children.
+
 Who should not take telmisartan tablets?
+
 You should not take telmisartan tablets if you are allergic (hypersensitive) to the active ingredient (telmisartan) or any of the other ingredients listed at the end of this leaflet.
+
 For patients with diabetes, if you are taking telmisartan tablets you should not take aliskiren.
+
 What should I tell my doctor before taking telmisartan tablets?
+
 Before you take telmisartan tablets, tell your doctor if you:
 
-- have liver problems
-- have kidney problems
-- have heart problems
-- have any other medical conditions
 - are pregnant or are planning to become pregnant.
   See “What is the most important information I should know about telmisartan tablets?”
 - are breast-feeding or plan to breast-feed.
   It is not known if telmisartan passes into your breast milk.
-  You and your doctor should decide if you will take telmisartan tablets or breastfeed.
+  You and your doctor should decide if you will take telmisartan tablets or breast-feed.
   You should not do both.
   Talk with your doctor about the best way to feed your baby if you take telmisartan tablets.
+- have liver problems
+- have kidney problems
+- have heart problems
+- have any other medical conditions
 
 Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
+
 For patients with diabetes, if you are taking telmisartan tablets you should not take aliskiren.
+
 Telmisartan tablets may affect the way other medicines work, and other medicines may affect how telmisartan tablets work.
 Especially tell your doctor if you take:
 
 - aliskiren
-- digoxin (Lanoxin®, Lanoxicaps®)
-- lithium (Eskalith®, Lithobid®)
-- medicines used to treat pain and arthritis, called non-steroidal anti-inflammatory drugs (NSAIDs), including COX-2 inhibitors
-- ramipril (Altace®) or other medicines used to treat your high blood pressure or heart problem
+- digoxin (Lanoxin®)
+- lithium (Lithobid®, lithium carbonate, lithium citrate)
+- aspirin or other non-steroidal anti-inflammatory drugs (NSAIDs)
+- other medicines used to treat your high blood pressure or heart problem
 - water pills (diuretic)
 
 Know the medicines you take.
 Keep a list of them and show it to your doctor or pharmacist when you get a new medicine.
+
 How should I take telmisartan tablets?
 
 - Take telmisartan tablets exactly as your doctor tells you to take it.
@@ -60,10 +78,12 @@ How should I take telmisartan tablets?
   Talk with your doctor if you do not understand the instructions.
 
 What are the possible side effects of telmisartan tablets?
-Telmisartan tablets may cause serious side effects, including
+
+Telmisartan tablets may cause serious side effects, including:
 
 - Injury or death to your unborn baby.
   See “What is the most important information I should know about telmisartan tablets?”
+
 - Low blood pressure (hypotension) is most likely to happen if you also:
   - take water pills (diuretics)
   - are on a low-salt diet
@@ -99,8 +119,10 @@ The most common side effects of telmisartan tablets include:
 
 These are not all the possible side effects with telmisartan tablets.
 Tell your doctor if you have any side effect that bothers you or that does not go away.
+
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
+
 How should I store telmisartan tablets?
 
 - Store telmisartan tablets between 20° to 25°C (68° to 77°F).
@@ -134,9 +156,34 @@ Blood pressure is the force in your blood vessels when your heart beats and when
 You have high blood pressure when the force is too much.
 Telmisartan tablets can help your blood vessels relax so your blood pressure is lower.
 Medicines that lower your blood pressure lower your chance of having a stroke or heart attack.
+
 High blood pressure makes the heart work harder to pump blood throughout the body and causes damage to the blood vessels.
 If high blood pressure is not treated, it can lead to stroke, heart attack, heart failure, kidney failure, and vision problems.
+
 How to open the blister: 1.
 Bend & Tear (You may also use scissors to tear the blister apart) 2.
-Peel (Peel off the paper layer) The brands listed are trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt)-509302 India Revised: 10/2015
+Peel (Peel off the paper layer)
+
+This Patient Information has been approved by the U.S. Food and Drug Administration
+
+The brands listed are trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
+
+Manufactured for:
+
+Aurobindo Pharma USA, Inc.
+
+2400 Route 130 North
+
+Dayton, NJ 08810
+
+Manufactured by:
+
+Aurobindo Pharma Limited
+
+Unit-VII (SEZ)
+
+Mahaboob Nagar (Dt)-509302
+
+India
+
+Revised: 03/2018
