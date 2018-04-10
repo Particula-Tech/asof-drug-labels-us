@@ -21,7 +21,15 @@ These events are rare and generally occur after prolonged exposure to excessivel
 
 Pediatric patients may be more susceptible to systemic toxicity due to their larger skin surface to body mass ratios [see Use in Specific Populations (8.4)].
 
-## 5.2 Allergic Contact Dermatitis
+## 5.2 Visual Disturbance
+
+Use of topical corticosteroids, including DIPROLENE Ointment, may increase the risk of posterior subcapsular cataracts and glaucoma.
+Cataracts and glaucoma have been reported postmarketing with the use of topical corticosteroid products, including DIPROLENE Ointment [see Adverse Reactions (6.2)].
+
+Avoid contact of DIPROLENE Ointment with eyes.
+Advise patients to report any visual symptoms and consider referral to an ophthalmologist for evaluation.
+
+## 5.3 Allergic Contact Dermatitis
 
 Allergic contact dermatitis with corticosteroids is usually diagnosed by observing failure to heal rather than noting a clinical exacerbation.
 Such an observation should be corroborated with appropriate diagnostic patch testing.
