@@ -49,7 +49,7 @@ Table 10: Clinical Efficacy Rates by Pathogen for Clinically Evaluable Populatio
 | Proteus mirabilis | 11/13 (85) | 6/7 (86) |
 | Anaerobes |  |  |
 | Bacteroides fragilis | 10/11 (91) | 9/10 (90) |
-| Peptostreptococcus species | 10/13 (77) | 14/16 (88) |
+| Peptostreptococcus Species | 10/13 (77) | 14/16 (88) |
 
 1. Patients may have more than one pretreatment pathogen.
 2. n=number of patients with satisfactory response.

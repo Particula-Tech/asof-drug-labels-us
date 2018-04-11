@@ -11,12 +11,10 @@
   Valproic acid concentrations in the blood may drop below the therapeutic range upon co-administration with Meropenem for Injection, USP.
   If treatment with Meropenem for Injection, USP is necessary and continued, alternative or supplemental anti-convulsant medication to prevent and/or treat seizures may be needed [see Warnings and Precautions (5.3)].
 - Patients receiving Meropenem for Injection, USP on an outpatient basis must be alerted of adverse events such as seizures, delirium, headaches and/or paresthesias that could interfere with mental alertness and/or cause motor impairment.
-  Until it is reasonably well established that Meropenem for Injection, USP is well tolerated, patients should not operate machinery or motorized vehicles [see Warnings and Precautions (5.10)].
+  Until it is reasonably well established that Meropenem for Injection, USP is well tolerated, patients should not operate machinery or motorized vehicles [see Warnings and Precautions (5.8)].
 
 Manufactured by:
 
-Gland Pharma Limited
+Gland Pharma Limited Pashamylaram, Patancheru, Hyderabad - 502 307, India
 
-Hyderabad, India
-
-February 2017
+March 2018

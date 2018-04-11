@@ -48,8 +48,8 @@ Table 2: Recommended Meropenem for Injection, USP Dosage Schedule for Pediatric 
 
 | Type of Infection | Dose (mg/kg) | Up to a Maximum Dose | Dosing Interval |
 | --- | --- | --- | --- |
-| Complicated skin and skin structure Infections | 10 | 500 mg | Every 8 hours |
-| Complicated intra-abdominal Infections | 20 | 1 gram | Every 8 hours |
+| Complicated skin and skin structure infections | 10 | 500 mg | Every 8 hours |
+| Complicated intra-abdominal infections | 20 | 1 gram | Every 8 hours |
 | Meningitis | 40 | 2 grams | Every 8 hours |
 | There is no experience in pediatric patients with renal impairment. |  |  |  |
 
