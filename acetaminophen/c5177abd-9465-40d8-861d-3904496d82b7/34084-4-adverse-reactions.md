@@ -19,15 +19,20 @@ A total of 13.1% (n=134) received OFIRMEV 650 mg every 4 hours.
 All adverse reactions that occurred in adult patients treated with either OFIRMEV or placebo in repeated dose, placebo-controlled clinical trials at an incidence ≥ 3% and at a greater frequency than placebo are listed in Table 4.
 The most common adverse events in adult patients treated with OFIRMEV (incidence ≥ 5% and greater than placebo) were nausea, vomiting, headache, and insomnia.
 
-Table 4.­ Treatment-Emergent Adverse Reactions Occurring in ≥ 3% of OFIRMEV-treated Adult Patients and at a Greater Frequency than Placebo in Placebo-Controlled, Repeated Dose Studies
+Table 4.
+Treatment-Emergent Adverse Reactions Occurring in ≥ 3% of OFIRMEV-treated Adult Patients and at a Greater Frequency than Placebo in Placebo-Controlled, Repeated Dose Studies
 
 | System Organ Class – Preferred Term | OFIRMEV (N=402) n (%) | Placebo (N=379) n (%) |
 | --- | --- | --- |
-| Gastrointestinal Disorders Nausea Vomiting | 138 (34) 62 (15) | 119 (31) 42 (11) |
-| General Disorders and Administration Site Conditions Pyrexia* | 22 (5) | 52 (14) |
-| Nervous System Disorders Headache | 39 (10) | 33 (9) |
-| Psychiatric Disorders Insomnia | 30 (7) | 21 (5) |
-| * Pyrexia adverse reaction frequency data is included in order to alert healthcare practitioners that the antipyretic effects of OFIRMEV may mask fever. |  |  |
+| Gastrointestinal Disorders |  |  |
+| Nausea | 138 (34) | 119 (31) |
+| Vomiting | 62 (15) | 42 (11) |
+| General Disorders and Administration Site Conditions |  |  |
+| PyrexiaPyrexia adverse reaction frequency data is included in order to alert healthcare practitioners that the antipyretic effects of OFIRMEV may mask fever. | 22 (5) | 52 (14) |
+| Nervous System Disorders |  |  |
+| Headache | 39 (10) | 33 (9) |
+| Psychiatric Disorders |  |  |
+| Insomnia | 30 (7) | 21 (5) |
 
 Other Adverse Reactions Observed During Clinical Studies of OFIRMEV in Adults
 
@@ -61,22 +66,22 @@ Other Adverse Reactions Observed During Clinical Studies of OFIRMEV in Pediatric
 
 The following additional treatment-emergent adverse reactions were reported by pediatric subjects treated with OFIRMEV (n=483) that occurred with an incidence of at least 1%.
 
-Blood and lymphatic system disorders:­ anemia
+Blood and lymphatic system disorders: anemia
 
-Gastrointestinal disorders:­ diarrhea
+Gastrointestinal disorders: diarrhea
 
-General disorders and administration site conditions:­ pyrexia, injection site pain
+General disorders and administration site conditions: pyrexia, injection site pain
 
-Metabolism and nutrition disorders:­ hypokalemia, hypomagnesemia, hypoalbuminemia, hypophosphatemia
+Metabolism and nutrition disorders: hypokalemia, hypomagnesemia, hypoalbuminemia, hypophosphatemia
 
-Musculoskeletal and connective tissue disorders:­ muscle spasm
+Musculoskeletal and connective tissue disorders: muscle spasm
 
-Nervous system disorders:­ headache
+Nervous system disorders: headache
 
-Psychiatric disorders:­ agitation
+Psychiatric disorders: agitation
 
-Renal and urinary disorders:­ oliguria
+Renal and urinary disorders: oliguria
 
-Respiratory, thoracic and mediastinal disorders:­ atelectasis, pleural effusion, pulmonary edema, stridor, wheezing
+Respiratory, thoracic and mediastinal disorders: atelectasis, pleural effusion, pulmonary edema, stridor, wheezing
 
-Vascular disorders:­ hypotension, hypertension
+Vascular disorders: hypotension, hypertension

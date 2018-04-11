@@ -24,11 +24,12 @@ Compared to the same dose of oral acetaminophen, the Cmax following administrati
 
 Pharmacokinetic parameters of OFIRMEV (AUC, Cmax, terminal elimination half-life [T½], systemic clearance [CL], and volume of distribution at steady state [Vss]) following administration of a single intravenous dose of 15 mg/kg in children and adolescents and 1000 mg in adults are summarized in Table 5.
 
-Table 5.­ OFIRMEV Pharmacokinetic Parameters
+Table 5.
+OFIRMEV Pharmacokinetic Parameters
 
-| Subpopulations | Mean (SD) |  |  |  |  |
+| AUC0-6h (µg × h/mL) | Cmax (µg/mL) | T½ (h) | CL (L/h/kg) | Vss (L/kg) |  |
 | --- | --- | --- | --- | --- | --- |
-| AUC0-6h(µg × h/mL) | Cmax(µg/mL) | T½(h) | CL(L/h/kg) | Vss(L/kg) |  |
+| Subpopulations | Mean (SD) |  |  |  |  |
 | Children | 38 (8) | 29 (7) | 3.0 (1.5) | 0.34 (0.10) | 1.2 (0.3) |
 | Adolescents | 41 (7) | 31 (9) | 2.9 (0.7) | 0.29 (0.08) | 1.1 (0.3) |
 | Adults | 43 (11) | 28 (21) | 2.4 (0.6) | 0.27 (0.08) | 0.8 (0.2) |

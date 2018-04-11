@@ -42,7 +42,7 @@ Infants 29 days to 2 years of age: the recommended dosage of OFIRMEV is 15 mg/kg
 Table 3.
 Dosing for Treatment of Fever in Neonates and Infants
 
-| Age group | Dose given every 6hours | Maximum total daily dose of acetaminophen (by all routes) |
+| Age group | Dose given every 6 hours | Maximum total daily dose of acetaminophen (by all routes) |
 | --- | --- | --- |
 | Neonates (birth to 28 days) | 12.5 mg/kg | 50 mg/kg |
 | Infants (29 days to 2 years) | 15 mg/kg | 60 mg/kg |

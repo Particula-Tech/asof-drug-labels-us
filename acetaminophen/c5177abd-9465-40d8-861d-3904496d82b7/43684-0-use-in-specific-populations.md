@@ -29,13 +29,15 @@ However, these studies cannot definitely establish the absence of any risk becau
 
 Animal Data
 
-Studies in pregnant rats that received oral acetaminophen during organogenesis at doses up to 0.85 times the maximum human daily dose (MHDD = 4 grams/day, based on a body surface area comparison) showed evidence of fetotoxicity (reduced fetal weight and length) and a dose‑related increase in bone variations (reduced ossification and rudimentary rib changes).
+Studies in pregnant rats that received oral acetaminophen during organogenesis at doses up to 0.85 times the maximum human daily dose (MHDD = 4 grams/day, based on a body surface area comparison) showed evidence of fetotoxicity (reduced fetal weight and length) and a dose-related increase in bone variations (reduced ossification and rudimentary rib changes).
 Offspring had no evidence of external, visceral, or skeletal malformations.
 When pregnant rats received oral acetaminophen throughout gestation at doses of 1.2 times the MHDD (based on a body surface area comparison), areas of necrosis occurred in both the liver and kidney of pregnant rats and fetuses.
 These effects did not occur in animals that received oral acetaminophen at doses 0.3 times the MHDD, based on a body surface area comparison.
 
 In a continuous breeding study, pregnant mice received 0.25, 0.5, or 1.0% acetaminophen via the diet (357, 715, or 1430 mg/kg/day).
 These doses are approximately 0.43, 0.87, and 1.7 times the MHDD, respectively, based on a body surface area comparison.
+A dose related reduction in body weights of fourth and fifth litter offspring of the treated mating pair occurred during lactation and post-weaning at all doses.
+Animals in the high dose group had a reduced number of litters per mating pair, male offspring with an increased percentage of abnormal sperm, and reduced birth weights in the next generation pups.
 
 ## 8.2 Lactation
 
@@ -45,7 +47,7 @@ There is no information regarding the presence of OFIRMEV in human milk, the eff
 However, limited published studies report that acetaminophen passes rapidly into human milk with similar levels in the milk and plasma.
 Average and maximum neonatal doses of 1% and 2%, respectively, of the weight-adjusted maternal dose are reported after a single oral administration of 1 gram APAP.
 There is one well-documented report of a rash in a breast-fed infant that resolved when the mother stopped acetaminophen use and recurred when she resumed acetaminophen use.
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for OFIRMEV and any potential adverse effects on the breastfed infant from OFIRMEV or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for OFIRMEV and any potential adverse effects on the breastfed infant from OFIRMEV or from the underlying maternal condition.
 
 ## 8.3 Females and Males of Reproductive Potential
 

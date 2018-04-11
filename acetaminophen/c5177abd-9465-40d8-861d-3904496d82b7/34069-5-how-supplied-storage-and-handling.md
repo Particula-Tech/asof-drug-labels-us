@@ -16,15 +16,3 @@ OFIRMEV should be stored at 20°C to 25°C (68°F to 77°F) [see USP Controlled 
 For single-dose only.
 The product should be used within 6 hours after opening.
 Do not refrigerate or freeze.
-
-Manufactured for: Mallinckrodt Hospital Products Inc. Hazelwood, MO 63042 USA
-
-Revised: 01/2017
-
-Mallinckrodt, the “M” brand mark, the Mallinckrodt Pharmaceuticals logo and other brands are trademarks of a Mallinckrodt company.
-
-© 2017 Mallinckrodt.
-
-U.S. PATENT NUMBERS: 6,028,222; 6,992,218
-
-Mallinckrodt™ Pharmaceuticals
