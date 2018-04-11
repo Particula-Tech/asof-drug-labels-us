@@ -12,11 +12,11 @@ This section of the Medication Guide is only about the risk of suicidal thoughts
 What is the most important information I should know about antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions?
 
 1. 1.
-   Antidepressant medicines may increasethe risk of suicidal thoughts or actions in some children, teenagers, or young adults within the first few months of treatment.
+   Antidepressant medicines may increase the risk of suicidal thoughts or actions in some children, teenagers, or young adults within the first few months of treatment.
 2. 2.
    Depression or other serious mental illnesses are the most important causes of suicidal thoughts and actions.
    Some people may have a particularly high risk of having suicidal thoughts or actions.
-   These includepeople who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
+   These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
 3. 3.
    How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
 4. • Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
@@ -143,7 +143,7 @@ Do not take bupropion hydrochloride tablets if you
 
 - •have or had a seizure disorder or epilepsy.
 - •have or had an eating disorder such as anorexia nervosa or bulimia.
-- •are taking any other medicines that contain bupropion, including ZYBAN (used to help people stop smoking) WELLBUTRIN SR®, WELLBUTRIN XL®, APLENZIN®, or FORFIVO XL®,.
+- •are taking any other medicines that contain bupropion, including ZYBAN (used to help people stop smoking) WELLBUTRIN SR®, WELLBUTRIN XL®, APLENZIN®, or FORFIVO XL®.
   Bupropion is the same active ingredient that is in bupropion hydrochloride tablets.
 - •drink a lot of alcohol and abruptly stop drinking, or use medicines called sedatives (these make you sleepy), benzodiazepines, or anti-seizure medicines, and you stop using them all of a sudden.
 - •take a monoamine oxidase inhibitor (MAOI).
@@ -188,8 +188,8 @@ How should I take bupropion hydrochloride tablets?
 - •You may take bupropion hydrochloride tablets with or without food.
 - •If you miss a dose, do not take an extra dose to make up for the dose you missed.
   Wait and take your next dose at the regular time.
-  This is veryimportant.
-  Too much bupropion hydrochloride tablets can increase your chance of having aseizure.
+  This is very important.
+  Too much bupropion hydrochloride tablets can increase your chance of having a seizure.
 - •If you take too much bupropion hydrochloride tablets, or overdose, call your local emergency room or poison control center right away.
 - •Do not take any other medicines while taking bupropion hydrochloride tablets unless your healthcare provider has told you it is okay.
 - •If you are taking bupropion hydrochloride tablets for the treatment of major depressive disorder, it may take several weeks for you to feel that bupropion hydrochloride tablets are working.
@@ -206,23 +206,22 @@ What should I avoid while taking bupropion hydrochloride tablets?
 
 What are possible side effects of bupropion hydrochloride tablets?
 
-See "What Other Important Information Should I Know About Bupropion Hydrochloride Tablets?"
-
 Bupropion hydrochloride tablets can cause serious side effects.
+See the sections at the beginning of this Medication Guide for information about the serious side effects of bupropion hydrochloride tablets.
 
 The most common side effects of bupropion hydrochloride tablets include:
 
-- •Nervousness
-- •Dry mouth
-- •Constipation
-- •Headache
-- •Nausea or vomiting
-- •Dizziness
-- •Heavy sweating
-- •Shakiness (tremor)
-- •Trouble sleeping
-- •Blurred vision
-- •Fast heartbeat
+- •nervousness
+- •dry mouth
+- •constipation
+- •headache
+- •nausea or vomiting
+- •dizziness
+- •heavy sweating
+- •shakiness (tremor)
+- •trouble sleeping
+- •blurred vision
+- •fast heartbeat
 
 If you have nausea, take your medicine with food.
 If you have trouble sleeping, do not take your medicine too close to bedtime.
@@ -239,13 +238,13 @@ You may also report side effects to Apotex Corp. at 1-800-706-5575.
 
 How should I store bupropion hydrochloride tablets?
 
-- •Store bupropion hydrochloride tablets at room temperature, 68 to 77oF (20 to 25oC).
+- •Store bupropion hydrochloride tablets at room temperature.
   Store out of direct sunlight.
   Keep bupropion hydrochloride tablets in its tightly closed bottle.
 
 Keep bupropion hydrochloride tablets and all medicines out of the reach of children.
 
-General Information about bupropion hydrochloride tablets.
+General Information about the safe and effective use of bupropion hydrochloride tablets.
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use bupropion hydrochloride tablets for a condition for which it was not prescribed.
@@ -289,4 +288,4 @@ APOTEX INC. BUPROPION HYDROCHLORIDE TABLETS, USP 75 mg and 100 mg
 | Toronto, Ontario |  |
 | Canada M9L 1T9For BluePoint Laboratories |  |
 
-Revised: 05/2017
+Revised: 08/2017

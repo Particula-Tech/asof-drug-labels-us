@@ -92,7 +92,7 @@ APLENZIN® is a registered trademark of Sanofi Aventis U.S. LLC BUPROPION HYDROC
 | Toronto, Ontario |  |
 | Canada M9L 1T9For BluePoint Laboratories |  |
 
-Revised: 05/2017
+Revised: 08/2017
 
 Rev.
-14a
+15

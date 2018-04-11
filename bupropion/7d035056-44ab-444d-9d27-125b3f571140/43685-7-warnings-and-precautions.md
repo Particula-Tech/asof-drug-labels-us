@@ -49,7 +49,7 @@ Prescriptions for bupropion hydrochloride tablets should be written for the smal
 
 Bupropion hydrochloride tablets are not approved for smoking cessation treatment; however, it contains the same active ingredient as the smoking cessation medication Zyban®.
 Serious neuropsychiatric symptoms have been reported in patients taking bupropion for smoking cessation.
-These postmarketing reports have included changes in mood (including depression and mania), psychosis, hallucinations, paranoia, delusions, homicidal ideation, hostility, agitation, aggression, anxiety, and panic, as well as suicidal ideation, suicide attempt, and completed suicide [see Boxed Warning and Adverse Reactions (6.2)].
+These postmarketing reports have included changes in mood (including depression and mania), psychosis, hallucinations, paranoia, delusions, homicidal ideation, aggression,hostility, agitation, anxiety, and panic, as well as suicidal ideation, suicide attempt, and completed suicide [see Boxed Warning and Adverse Reactions (6.2)].
 Some patients who stopped smoking may have been experiencing symptoms of nicotine withdrawal, including depressed mood.
 Depression, rarely including suicidal ideation, has been reported in smokers undergoing a smoking cessations attempt without medication.
 However, some of these adverse events occurred in patients taking bupropion who continued to smoke.

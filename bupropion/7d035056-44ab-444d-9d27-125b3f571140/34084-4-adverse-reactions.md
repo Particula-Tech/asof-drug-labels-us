@@ -3,7 +3,7 @@
 The following adverse reactions are discussed in greater detail in other sections of the labeling:
 
 - •Suicidal thoughts and behaviors in adolescents and young adults [see Boxed Warning and Warnings and Precautions (5.1)]
-- •Neuropsychiatric symptoms and suicide risk in smoking cessation treatment [see Boxed Warning and Warnings and Precautions (5.2)]
+- •Neuropsychiatric symptoms and suicide risk in smoking cessation treatment [see Warnings and Precautions (5.2)]
 - •Seizure [see Warnings and Precautions (5.3)]
 - •Hypertension [see Warnings and Precautions (5.4)]
 - •Activation of mania or hypomania [see Warnings and Precautions (5.5)]
@@ -26,10 +26,8 @@ Table 2 summarizes the adverse reactions that occurred in placebo-controlled tri
 Table 2.
 Adverse Reactions Reported by at Least 1% of Subjects and at a Greater Frequency than Placebo in Controlled Clinical Trials
 
-|  | Bupropion Hydrochloride Tablets | Placebo |
+| Adverse Reaction | Bupropion Hydrochloride Tablets(n = 323)% | Placebo(n = 185)% |
 | --- | --- | --- |
-|  | (n = 323) | (n = 185) |
-| Adverse Reaction | % | % |
 | Cardiovascular |  |  |
 | Cardiac arrhythmias | 5.3 | 4.3 |
 | Dizziness | 22.3 | 16.2 |
@@ -54,8 +52,7 @@ Adverse Reactions Reported by at Least 1% of Subjects and at a Greater Frequency
 | Arthritis | 3.1 | 2.7 |
 | Neurological |  |  |
 | Akathisia | 1.5 | 1.1 |
-| Cutaneous temperature | 1.9 | 1.6 |
-| disturbance |  |  |
+| Cutaneous temperaturedisturbance | 1.9 | 1.6 |
 | Dry mouth | 27.6 | 18.4 |
 | Excessive sweating | 22.3 | 14.6 |
 | Headache/migraine | 25.7 | 22.2 |
@@ -123,7 +120,7 @@ These symptoms may resemble serum sickness [see Warnings and Precautions (5.8)].
 
 Cardiovascular Hypertension (in some cases severe), orthostatic hypotension, third-degree heart block.
 
-Endocrine Syndrome of inappropriate antidiuretic hormone secretion, hyperglycemia, hypoglycemia.
+Endocrine Hyponatremia, syndrome of inappropriate antidiuretic hormone secretion, hyperglycemia, hypoglycemia.
 
 Gastrointestinal Esophagitis, hepatitis.
 
