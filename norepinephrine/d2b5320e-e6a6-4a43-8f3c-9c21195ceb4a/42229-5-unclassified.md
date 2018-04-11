@@ -1,3 +1,1 @@
 Rx only
-
-NOVAPLUS®
