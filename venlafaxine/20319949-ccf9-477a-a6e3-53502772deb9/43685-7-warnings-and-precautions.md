@@ -491,7 +491,7 @@ The safety of venlafaxine hydrochloride extended-release capsule treatment for p
 In the studies conducted in pediatric patients (ages 6 to 17), the occurrence of blood pressure and cholesterol increases considered to be clinically relevant in pediatric patients was similar to that observed in adult patients.
 Consequently, the precautions for adults apply to pediatric patients (see
 
-WARNINGS, Sustained Hypertension and PRECAUTIONS, General, Serum Cholesterol Elevation).
+WARNINGS, Sustained Hypertension, and PRECAUTIONS, General, Serum Cholesterol Elevation).
 
 ## Geriatric Use
 

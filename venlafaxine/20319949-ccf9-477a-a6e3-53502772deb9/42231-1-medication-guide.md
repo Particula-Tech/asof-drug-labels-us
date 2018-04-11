@@ -258,7 +258,7 @@ They may harm them.
 This Medication Guide summarizes the most important information about venlafaxine tablets.
 If you would like more information, talk with your healthcare provider.
 You may ask your healthcare provider or pharmacist for information about venlafaxine tablets that is written for healthcare professionals.
-For more information about venlafaxine tablets call Citron Pharma LLC. at 1-855-5-CITRON (1-855-524-8766).
+For more information about venlafaxine tablets call 1-833-395-6928.
 What are the ingredients in venlafaxine tablets?
 Active ingredient: venlafaxine hydrochloride Inactive ingredients:
 
@@ -266,4 +266,4 @@ Active ingredient: venlafaxine hydrochloride Inactive ingredients:
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration for all antidepressants.
 Coumadin® is a registered trademark of Bristol Myers Squibb.
-Jantoven® is a registered trademark of Upsher-Smith Laboratories Inc. Distributed by: Citron Pharma LLC Suite -1101 2 Tower Center Blvd East Brunswick NJ 08816 Code No.: DRUGS/AP/19/1993 Made in India Revised: 10/2016
+Jantoven® is a registered trademark of Upsher-Smith Laboratories Inc. Dispense with medication guide available at: http://www.risingpharma.com/med-guides.html Distributed by: Rising Health, LLC Saddle Brook, NJ 07663 Made in India Code: TS/DRUGS/19/1993 Revised: 12/2017
