@@ -15,8 +15,8 @@ Protect syringe from light.
 
 Note: To prevent needle-stick injuries, needles and blunt cannulas should not be recapped, purposely bent, or broken by hand.
 
-Hospira, Inc., Lake Forest, IL 60045 USA
+Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
-LAB-1223-1.0
+LAB-1223-2.0
 
-Revised: 01/2018
+Revised: 04/2018
