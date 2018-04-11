@@ -2,61 +2,128 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects: Pregnancy Category C
+Risk Summary
 
-There are no adequate and well-controlled studies in pregnant women.
-Use Tramadol Hydrochloride Extended-Release during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Prolonged use of opioid analgesics during pregnancy may cause neonatal opioid withdrawal syndrome [see Warnings and Precautions (5.3)].
+Available data with Tramadol Hydrochloride Extended-Release Capsules in pregnant women are insufficient to inform a drug-associated risk for major birth defects and miscarriage.
 
-Neonatal seizures, neonatal withdrawal syndrome, fetal death and still birth have been reported during post-marketing reports with tramadol HCl immediate-release products.
-Tramadol Hydrochloride Extended-Release should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+In animal reproduction studies, tramadol administration during organogenesis decreased fetal weights and reduced ossification in mice, rats, and rabbits at 1.4, 0.6, and 3.6 times the maximum recommended human daily dosage (MRHD).
+Tramadol decreased pup body weight and increased pup mortality at 1.2 and 1.9 times the MRHD [see Data].
+Based on animal data, advise pregnant women of the potential risk to a fetus.
 
-Tramadol was not teratogenic at oral dose levels up to 50 mg/kg/day (1.6-fold the maximum daily human dose (MDHD)) in rats and 100 mg/kg (approximately 6.5-fold MDHD) in rabbits during organogenesis.
-However, embryo-fetal lethality, reductions in fetal weight and skeletal ossification, and increased supernumerary ribs were observed at a maternal toxic dose of 140 mg/kg in mice (approximately 2.3-fold MDHD), 80 mg/kg in rats (2.6-fold MDHD) or 300 mg/kg in rabbits (approximately 19-fold MDHD).
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 
-Non-teratogenic Effects
+Clinical Considerations
 
-Tramadol caused a reduction in neonatal body weight at a dose of 50 mg/kg (1.6-fold the MDHD) and reduced pup survival at an oral dose of 80 mg/kg (approximately 2.6-fold MDHD) when rats were treated during late gestation throughout lactation period.
+Fetal/Neonatal Adverse Reactions
 
-## 8.2 Labor and Delivery
+Prolonged use of opioid analgesics during pregnancy for medical or nonmedical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
+Neonatal opioid withdrawal syndrome presents as irritability, hyperactivity and abnormal sleep pattern, high pitched cry, tremor, vomiting, diarrhea, and failure to gain weight.
+The onset, duration, and severity of neonatal opioid withdrawal syndrome vary based on the specific opioid used, duration of use, timing and amount of last maternal use, and rate of elimination of the drug by the newborn.
+Observe newborns for symptoms of neonatal opioid withdrawal syndrome and manage accordingly [see Warnings and Precautions (5.4)].
 
-Tramadol Hydrochloride Extended-Release should not be used in pregnant women prior to or during labor unless the potential benefits outweigh the risks.
-Safe use in pregnancy has not been established.
-Chronic use during pregnancy may lead to physical dependence and post-partum withdrawal symptoms in the newborn [see DRUG ABUSE AND DEPENDENCE (9.1)].
+Neonatal seizures, neonatal withdrawal syndrome, fetal death and still birth have been reported with tramadol during post-approval use of tramadol immediate-release products.
+
+Labor or Delivery
+
+Opioids cross the placenta and may produce respiratory depression and psycho-physiologic effects in neonates.
+An opioid antagonist, such as naloxone, must be available for reversal of opioid-induced respiratory depression in the neonate.
+Tramadol Hydrochloride Extended-Release Capsules are not recommended for use in pregnant women during or immediately prior to labor, when use of shorter-acting analgesics or other analgesic techniques are more appropriate.
+Opioid analgesics, including Tramadol Hydrochloride Extended-Release Capsules can prolong labor through actions which temporarily reduce the strength, duration, and frequency of uterine contractions.
+However, this effect is not consistent and may be offset by an increased rate of cervical dilation, which tends to shorten labor.
+Monitor neonates exposed to opioid analgesics during labor for signs of excess sedation and respiratory depression.
+
 Tramadol has been shown to cross the placenta.
 The mean ratio of serum tramadol in the umbilical veins compared to maternal veins was 0.83 for 40 women given tramadol during labor.
 
-The effect of Tramadol Hydrochloride Extended-Release, if any, on the later growth, development, and functional maturation of the child is unknown.
+The effect of Tramadol Hydrochloride Extended-Release Capsules, if any, on the later growth, development, and functional maturation of the child is unknown.
 
-## 8.3 Nursing Mothers
+Data
 
-Tramadol Hydrochloride Extended-Release is not recommended for obstetrical preoperative medication or for post-delivery analgesia in nursing mothers because its safety in infants and newborns has not been studied.
-Following a single IV 100 mg dose of tramadol, the cumulative excretion in breast milk within 16 hours post-dose was 100 μg of tramadol (0.1% of the maternal dose) and 27 μg of M1.
-It is not known whether this drug is excreted in human milk following an oral dose.
+Animal Data
+
+Tramadol has been shown to be embryotoxic and fetotoxic in mice, (120 mg/kg), rats (25 mg/kg) and rabbits (75 mg/kg) at maternally toxic dosages, but was not teratogenic at these dose levels.
+These doses on a mg/m 2 basis are 1.9, 0.8, and 4.9 times the maximum recommended human daily dosage (MRHD) for mouse, rat and rabbit, respectively.
+
+No drug-related teratogenic effects were observed in progeny of mice (up to 140 mg/kg), rats (up to 80 mg/kg) or rabbits (up to 300 mg/kg) treated with tramadol by various routes.
+Embryo and fetal toxicity consisted primarily of decreased fetal weights, decreased skeletal ossification, and increased supernumerary ribs at maternally toxic dose levels.
+Transient delays in developmental or behavioral parameters were also seen in pups from rat dams allowed to deliver.
+Embryo and fetal lethality were reported only in one rabbit study at 300 mg/kg, a dose that would cause extreme maternal toxicity in the rabbit.
+The dosages listed for mouse, rat, and rabbit are 2.3, 2.6, and 19 times the MRHD, respectively.
+
+Tramadol was evaluated in pre- and post-natal studies in rats.
+Progeny of dams receiving oral (gavage) dose levels of 50 mg/kg (1.6 times the MRHD) or greater had decreased weights, and pup survival was decreased early in lactation at 80 mg/kg (2.6 times the MRHD).
+
+## 8.2 Lactation
+
+Risk Summary
+
+Tramadol Hydrochloride Extended-Release Capsules are not recommended for obstetrical preoperative medication or for post-delivery analgesia in nursing mothers because its safety in infants and newborns has not been studied.
+
+Tramadol and its metabolite, O-desmethyl tramadol (M1), are present in human milk.
+There is no information on the effects of the drug on the breastfed infant or the effects of the drug on milk production.
+The M1 metabolite is more potent than tramadol in mu opioid receptor binding [see Clinical Pharmacology (12.1)].
+Published studies have reported tramadol and M1 in colostrum with administration of tramadol to nursing mothers in the early post-partum period.
+Women who are ultra-rapid metabolizers of tramadol may have higher than expected serum levels of M1, potentially leading to higher levels of M1 in breast milk that can be dangerous in their breastfed infants.
+In women with normal tramadol metabolism, the amount of tramadol secreted into human milk is low and dose-dependent.
+Because of the potential for serious adverse reactions, including excess sedation and respiratory depression in a breastfed infant, advise patients that breastfeeding is not recommended during treatment with Tramadol Hydrochloride Extended-Release Capsules.
+
+Clinical Considerations
+
+If infants are exposed to Tramadol Hydrochloride Extended-Release Capsules through breast milk, they should be monitored for excess sedation and respiratory depression.
+Withdrawal symptoms can occur in breastfed infants when maternal administration of an opioid analgesic is stopped, or when breast-feeding is stopped.
+
+Data
+
+Following a single IV 100 mg dose of tramadol, the cumulative excretion in breast milk within 16 hours post dose was 100 mcg of tramadol (0.1% of the maternal dose) and 27 mcg of M1.
+
+## 8.3 Females and Males of Reproductive Potential
+
+Infertility
+
+Chronic use of opioids may cause reduced fertility in females and males of reproductive potential.
+It is not known whether these effects on fertility are reversible [see Adverse Reactions (6.2), Clinical Pharmacology (12.2), Nonclinical Pharmacology (13.1)].
 
 ## 8.4 Pediatric Use
 
-The safety and efficacy of Tramadol Hydrochloride Extended-Release in patients under 18 years of age have not been established.
-The use of Tramadol Hydrochloride Extended-Release in the pediatric population is not recommended.
+The safety and effectiveness of Tramadol Hydrochloride Extended-Release Capsules in pediatric patients have not been established.
+
+Life-threatening respiratory depression and death have occurred in children who received tramadol [see Warnings and Precautions (5.3)].
+In some of the reported cases, these events followed tonsillectomy and/or adenoidectomy, and one of the children had evidence of being an ultra-rapid metabolizer of tramadol (i.e., multiple copies of the gene for cytochrome P450 isoenzyme 2D6).
+Children with sleep apnea may be particularly sensitive to the respiratory depressant effects of tramadol.
+Because of the risk of life-threatening respiratory depression and death:
+
+- Tramadol Hydrochloride Extended-Release Capsules are contraindicated for all children younger than age 12 years of age [see Contraindications (4)].
+
+- Tramadol Hydrochloride Extended-Release Capsules are contraindicated for post-operative management in pediatric patients younger than 18 years of age following tonsillectomy and/or adenoidectomy [see Contraindications (4)].
+
+- Avoid the use of Tramadol Hydrochloride Extended-Release Capsules in adolescents 12 to 18 years of age who have other risk factors that may increase their sensitivity to the respiratory depressant effects of tramadol unless the benefits outweigh the risks.
+  Risk factors include conditions associated with hypoventilation, such as postoperative status, obstructive sleep apnea, obesity, severe pulmonary disease, neuromuscular disease, and concomitant use of other medications that cause respiratory depression.
+  [see Warnings and Precautions (5.3)].
 
 ## 8.5 Geriatric Use
 
-In general, caution should be used when selecting the dose for an elderly patient.
-Usually, dose administration should start at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal or cardiac function and of concomitant disease or other drug therapy.
-
-Eight hundred and twelve elderly (65 years of age or older) subjects were exposed to Tramadol Hydrochloride Extended-Release in clinical trials.
+Eight hundred and twelve elderly (65 years of age or older) subjects were exposed to Tramadol Hydrochloride Extended-Release Capsules in clinical trials.
 Of those subjects, two hundred and forty were 75 years of age and older.
 In general, higher incidence rates of adverse events were observed for patients older than 65 years of age compared with patients 65 years and younger, particularly for the following adverse events: nausea, constipation, somnolence, dizziness, dry mouth, vomiting, asthenia, pruritus, anorexia sweating, fatigue, weakness, postural hypotension and dyspepsia.
-For this reason, Tramadol Hydrochloride Extended-Release should be used with great caution in patients older than 75 years of age [see DOSAGE AND ADMINISTRATION (2.3)].
+For this reason, Tramadol Hydrochloride Extended-Release Capsules should be used with great caution in patients older than 75 years of age [see Dosage and Administration (2.3)].
 
-## 8.6 Patients with Renal Impairment
+Respiratory depression is the chief risk for elderly patients treated with opioids, and has occurred after large initial doses were administered to patients who were not opioid-tolerant or when opioids were co-administered with other agents that depress respiration.
+Titrate the dosage of Tramadol Hydrochloride Extended-Release Capsules slowly in geriatric patients and monitor closely for signs of central nervous system and respiratory depression [see Warnings and Precautions (5.2)].
 
-Tramadol Hydrochloride Extended-Release has not been studied in patients with renal impairment.
+Tramadol is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
+Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
+
+## 8.6 Hepatic Impairment
+
+Metabolism of tramadol and M1 is reduced in patients with advanced cirrhosis of the liver.
+Tramadol Hydrochloride Extended-Release Capsules has not been studied in patients with hepatic impairment.
+The limited availability of dose strengths of Tramadol Hydrochloride Extended-Release Capsules does not permit the dosing flexibility required for safe use in patients with severe hepatic impairment (Child-Pugh Class C). Therefore, Tramadol Hydrochloride Extended-Release Capsules should not be used in patients with severe hepatic impairment [see Clinical Pharmacology (12.3)].
+
+## 8.7 Renal Impairment
+
+Tramadol Hydrochloride Extended-Release Capsules has not been studied in patients with renal impairment.
 Impaired renal function results in a decreased rate and extent of excretion of tramadol and its active metabolite, M1.
-The limited availability of dose strengths of Tramadol Hydrochloride Extended-Release does not permit the dosing flexibility required for safe use in patients with severe renal impairment.
-Therefore, Tramadol Hydrochloride Extended-Release should not be used in patients with severe renal impairment [see DOSAGE AND ADMINISTRATION (2.3), WARNINGS AND PRECAUTIONS (5.14), and CLINICAL PHARMACOLOGY (12.3)].
-
-## 8.7 Patients with Hepatic Impairment
-
-Tramadol Hydrochloride Extended-Release has not been studied in patients with hepatic impairment.
-The limited availability of dose strengths of Tramadol Hydrochloride Extended-Release does not permit the dosing flexibility required for safe use in patients with severe hepatic impairment.
-Therefore, Tramadol Hydrochloride Extended-Release should not be used in patients with severe hepatic impairment [see DOSAGE AND ADMINISTRATION (2.3), WARNINGS AND PRECAUTIONS, (5.14), and CLINICAL PHARMACOLOGY (12.3)].
+The limited availability of dose strengths of Tramadol Hydrochloride Extended-Release Capsules does not permit the dosing flexibility required for safe use in patients with severe renal impairment (Child-Pugh Class C). Therefore, Tramadol Hydrochloride Extended-Release Capsules should not be used in patients with severe renal impairment [see Clinical Pharmacology (12.3)].

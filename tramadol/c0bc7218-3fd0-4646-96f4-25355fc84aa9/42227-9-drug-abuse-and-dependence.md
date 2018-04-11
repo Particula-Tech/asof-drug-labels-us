@@ -1,56 +1,56 @@
-# 9 DRUG ABUSE and DEPENDENCE
+# 9 DRUG ABUSE AND DEPENDENCE
 
 ## 9.1 Controlled Substance
 
-Tramadol Hydrochloride Extended-Release is classified as a Schedule IV controlled substance by federal regulation.
+Tramadol Hydrochloride Extended-Release Capsules contains tramadol, a Schedule IV controlled substance.
 
 ## 9.2 Abuse
 
-Tramadol Hydrochloride Extended-Release contains tramadol, a mu-agonist opioid.
-Tramadol, like other opioids used in analgesia, can be abused and is subject to criminal diversion.
+Tramadol Hydrochloride Extended-Release Capsules contains tramadol, a substance with a high potential for abuse similar to other opioids, and can be abused and is subject to misuse, addiction, and criminal diversion [see Warnings and Precautions (5.1)].
 
-Addiction is a primary, chronic, neurobiologic disease, with genetic, psychosocial, and environmental factors influencing its development and manifestations.
-It is characterized by behaviors that include one or more of the following: impaired control over drug use, compulsive use, continued use despite harm, and craving.
-Drug addiction is a treatable disease, utilizing a multidisciplinary approach, but relapse is common.
+The high drug content in extended-release formulations adds to the risk of adverse outcomes from abuse and misuse.
 
-“Drug-seeking” behavior is very common in addicts and drug abusers.
-Drug-seeking tactics include emergency calls or visits near the end of office hours, refusal to undergo appropriate examination, testing or referral, repeated “loss” of prescriptions, tampering with prescriptions and reluctance to provide prior medical records or contact information for other treating physician(s).
-“Doctor shopping” to obtain additional prescriptions is common among drug abusers and people suffering from untreated addiction.
+All patients treated with opioids require careful monitoring for signs of abuse and addiction, because use of opioid analgesic products carries the risk of addiction even under appropriate medical use.
+
+Prescription drug abuse is the intentional non-therapeutic use of a prescription drug, even once, for its rewarding psychological or physiological effects.
+
+Drug addiction is a cluster of behavioral, cognitive, and physiological phenomena that develop after repeated substance use and includes: a strong desire to take the drug, difficulties in controlling its use, persisting in its use despite harmful consequences, a higher priority given to drug use than to other activities and obligations, increased tolerance, and sometimes a physical withdrawal.
+
+“Drug-seeking” behavior is very common in persons with substance use disorders.
+Drug-seeking tactics include emergency calls or visits near the end of office hours, refusal to undergo appropriate examination, testing, or referral, repeated “loss” of prescriptions, tampering with prescriptions, and reluctance to provide prior medical records or contact information for other treating healthcare providers.
+“Doctor shopping” (visiting multiple prescribers to obtain additional prescriptions) is common among drug abusers and people suffering from untreated addiction.
+Preoccupation with achieving adequate pain relief can be appropriate behavior in a patient with poor pain control.
 
 Abuse and addiction are separate and distinct from physical dependence and tolerance.
-Physicians should be aware that addiction may not be accompanied by concurrent tolerance and symptoms of physical dependence in all addicts.
-In addition, abuse of opioids can occur in the absence of true addiction and is characterized by misuse for non-medical purposes, often in combination with other psychoactive substances.
-Tramadol Hydrochloride Extended-Release, like other opioids, may be diverted for non-medical use.
-Careful record keeping of prescribing information, including quantity, frequency, and renewal requests is strongly advised.
+Healthcare providers should be aware that addiction may not be accompanied by concurrent tolerance and symptoms of physical dependence in all addicts.
+In addition, abuse of opioids can occur in the absence of true addiction.
+
+Tramadol Hydrochloride Extended-Release Capsules, like other opioids, can be diverted for non-medical use into illicit channels of distribution.
+Careful record-keeping of prescribing information, including quantity, frequency, and renewal requests, as required by state and federal law, is strongly advised.
 
 Proper assessment of the patient, proper prescribing practices, periodic re-evaluation of therapy, and proper dispensing and storage are appropriate measures that help to limit abuse of opioid drugs.
 
-Tramadol Hydrochloride Extended-Release is intended for oral use only.
-The crushed capsule poses a hazard of overdose and death.
-This risk is increased with concurrent abuse of alcohol and other substances.
-With parenteral abuse, the capsule excipients can be expected to result in local tissue necrosis, infection, pulmonary granulomas, and increased risk of endocarditis and valvular heart injury.
+Risks Specific to Abuse of Tramadol Hydrochloride Extended-Release Capsules
+
+Tramadol Hydrochloride Extended-Release Capsules are for oral use only.
+The abuse of Tramadol Hydrochloride Extended-Release Capsules poses a risk of overdose and death.
+The risk is increased with concurrent use of Tramadol Hydrochloride Extended-Release Capsules with alcohol and other central nervous system depressants.
+With intravenous abuse, the inactive ingredients in Tramadol Hydrochloride Extended-Release Capsules can result in local tissue necrosis, infection, pulmonary granulomas, embolism and death, and increased risk of endocarditis and valvular heart injury.
 Parenteral drug abuse is commonly associated with transmission of infectious diseases such as hepatitis and HIV.
 
-## 9.3 Use in Drug and Alcohol Addiction
+## 9.3 Dependence
 
-Tramadol Hydrochloride Extended-Release is an opioid with no approved use for the management of addictive disorders.
-Its proper usage in individuals with drug or alcohol dependence, either active or in remission is for the management of pain requiring opioid analgesia.
-Concerns about abuse and addiction should not prevent the proper management of pain.
-However all patients treated with opioids require careful monitoring for signs of abuse and addiction, because use of opioid analgesic products carries the risk of addiction even under appropriate medical use.
-
-## 9.4 Dependence
-
+Both tolerance and physical dependence can develop during chronic opioid therapy.
 Tolerance is the need for increasing doses of opioids to maintain a defined effect such as analgesia (in the absence of disease progression or other external factors).
-Physical dependence is manifested by withdrawal symptoms after abrupt discontinuation of a drug or upon administration of an antagonist.
+Tolerance may occur to both the desired and undesired effects of drugs, and may develop at different rates for different effects.
 
-## 9.5 Withdrawal Symptoms
+Physical dependence results in withdrawal symptoms after abrupt discontinuation or a significant dosage reduction of a drug.
+Withdrawal also may be precipitated through the administration of drugs with opioid antagonist activity (e.g., naloxone, nalmefene), mixed agonist/antagonist analgesics (e.g., pentazocine, butorphanol, nalbuphine), or partial agonists (e.g., buprenorphine).
+Physical dependence may not occur to a clinically significant degree until after several days to weeks of continued opioid usage.
 
-The opioid abstinence or withdrawal syndrome is characterized by some or all of the following: restlessness, lacrimation, rhinorrhea, yawning, perspiration, chills, myalgia, and mydriasis.
-Other symptoms also may develop, including irritability, anxiety, backache, joint pain, weakness, abdominal cramps, insomnia, nausea, anorexia, vomiting, diarrhea, or increased blood pressure, respiratory rate, or heart rate.
+Tramadol Hydrochloride Extended-Release Capsules should not be abruptly discontinued in a physically-dependent patient [see Dosage and Administration (2.4)].
+If Tramadol Hydrochloride Extended-Release Capsules are abruptly discontinued in a physically-dependent patient, withdrawal syndrome may occur.
+Some or all of the following can characterize this syndrome: restlessness, lacrimation, rhinorrhea, yawning, perspiration, chills, myalgia, and mydriasis.
+Other signs and symptoms also may develop, including irritability, anxiety, backache, joint pain, weakness, abdominal cramps, insomnia, nausea, anorexia, vomiting, diarrhea or increased blood pressure, respiratory rate, or heart rate.
 
-Generally, tolerance and/or withdrawal are more likely to occur the longer a patient is on continuous opioid therapy.
-
-Withdrawal symptoms may occur if Tramadol Hydrochloride Extended-Release is discontinued abruptly.
-Onset of adverse events are likely to occur after treatment is stopped.
-These symptoms may include: anxiety, sweating, insomnia, rigors, pain, nausea, tremors, diarrhea, upper respiratory symptoms, piloerection, and rarely hallucinations.
-Clinical experiences with tramadol suggests that withdrawal symptoms may be reduced by tapering Tramadol Hydrochloride Extended-Release when discontinuing tramadol therapy [see DOSAGE AND ADMINISTRATION (2) and WARNINGS AND PRECAUTIONS (5.10)].
+Infants born to mothers physically dependent on opioids will also be physically dependent and may exhibit respiratory difficulties and withdrawal signs [see Use in Specific Populations (8.1)].

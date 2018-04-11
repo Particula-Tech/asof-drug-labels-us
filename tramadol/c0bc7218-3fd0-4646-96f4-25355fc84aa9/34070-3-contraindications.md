@@ -1,8 +1,12 @@
 # 4 CONTRAINDICATIONS
 
-Tramadol Hydrochloride Extended-Release is contraindicated in patients who have previously demonstrated hypersensitivity to tramadol, any other component of Tramadol Hydrochloride Extended-Release, or opioids.
-Reactions range from pruritis to fatal anaphylactoid reactions [see WARNINGS AND PRECAUTIONS (5.4)].
+Tramadol Hydrochloride Extended-Release Capsules are contraindicated for:
 
-Tramadol Hydrochloride Extended-Release is contraindicated in patients with significant respiratory depression in unmonitored settings or the absence of resuscitative equipment.
-
-Tramadol Hydrochloride Extended-Release is contraindicated in patients with acute or severe bronchial asthma or hypercapnia in unmonitored settings or the absence of resuscitative equipment.
+- all children younger than 12 years of age [see Warnings and Precautions (5.3)]
+- post-operative management in children younger than 18 years of age following tonsillectomy and/or adenoidectomy [see Warnings and Precautions (5.3)].
+  Tramadol Hydrochloride Extended-Release Capsules are also contraindicated in patients with:
+- Significant respiratory depression [see Warnings and Precautions (5.2)]
+- Acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment [see Warnings and Precautions (5.11)]
+- Known or suspected gastrointestinal obstruction, including paralytic ileus [see Warnings and Precautions (5.14)]
+- Hypersensitivity to tramadol (e.g., anaphylaxis) [see Warnings and Precautions (5.15), Adverse Reactions (6)]
+- Concurrent use of monoamine oxidase inhibitors (MAOIs) or use within the last 14 days [see Drug Interactions (7)]

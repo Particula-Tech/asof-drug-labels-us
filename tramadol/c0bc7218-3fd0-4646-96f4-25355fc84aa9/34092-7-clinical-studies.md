@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-Tramadol Hydrochloride Extended-Release is bioequivalent under fasting conditions to another extended-release tramadol product [see CLINICAL PHARMACOLOGY (12.3)] which did demonstrate efficacy in two of four clinical trials of patients with chronic pain.
+Tramadol Hydrochloride Extended-Release Capsules are bioequivalent under fasting conditions to another extended-release tramadol product [see Clinical Pharmacology (12.3)] which demonstrated efficacy in two of four clinical trials of patients with chronic pain.
 To qualify for inclusion into these studies, patients were required to have moderate to moderately severe pain as defined by a pain intensity score of ≥40 mm, off previous medications, on a 0 – 100 mm visual analog scale (VAS).
 
 In one 12-week randomized, double-blind, placebo-controlled study, patients with moderate to moderately severe pain due to osteoarthritis of the knee and/or hip were administered doses from 100 mg to 400 mg daily.
@@ -21,7 +21,7 @@ The active treatment group demonstrated a statistically significant decrease in 
 
 Figure 3
 
-Four randomized, placebo-controlled clinical trials of Tramadol Hydrochloride Extended-Release were conducted, none of which demonstrated efficacy but which differed in design from the preceding clinical studies described.
-Two trials were 12-week randomized placebo-controlled trials of Tramadol Hydrochloride Extended-Release 100 mg/day, 200 mg/day, and 300 mg/day versus placebo in patients with moderate to moderately severe osteoarthritis pain of the hip and knee.
-The other two 12 week trials were similar in design, but only studied Tramadol Hydrochloride Extended-Release 300 mg/day.
+Four randomized, placebo-controlled clinical trials of Tramadol Hydrochloride Extended-Release Capsules were conducted, none of which demonstrated efficacy but which differed in design from the preceding clinical studies described.
+Two trials were 12-week randomized placebo-controlled trials of Tramadol Hydrochloride Extended-Release Capsules 100 mg/day, 200 mg/day, and 300 mg/day versus placebo in patients with moderate to moderately severe osteoarthritis pain of the hip and knee.
+The other two 12 week trials were similar in design, but only studied Tramadol Hydrochloride Extended-Release Capsules 300 mg/day.
 In this fixed-dose design, subjects were required to titrate to a fixed dose, even if their pain responded to a lower titration dose.

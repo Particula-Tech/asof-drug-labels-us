@@ -1,50 +1,50 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Drugs Affecting Seizure Threshold
+Table 2 includes clinically significant drug interactions with Tramadol Hydrochloride Extended-Release Capsules.
 
-Concomitant use of tramadol increases the seizure risk in patients taking SSRI/SNRI antidepressants or anorectics, TCA antidepressants and other tricyclic compounds, other opioids, MAOIs, neuroleptics or other drugs that lower the seizure threshold [see WARNINGS AND PRECAUTIONS (5.1)].
+Table 2: Clinically Significant Drug Interactions with Tramadol Hydrochloride Extended-Release Capsules
 
-## 7.2 CYP2D6 and/or CYP3A4 inhibitors
-
-Tramadol is metabolized by CYP2D6 to form the active metabolite, O-desmethyl tramadol (M1).
-In vitro drug interaction studies in human liver microsomes indicate that concomitant administration with inhibitors of CYP2D6 such as fluoxetine, paroxetine, and amitriptyline could result in some inhibition of the metabolism of tramadol.
-
-Tramadol is also metabolized by CYP3A4 [see CLINICAL PHARMACOLOGY (12.3)].
-Administration of CYP3A4 inhibitors, such as ketoconazole and erythromycin with Tramadol Hydrochloride Extended-Release may affect the metabolism of tramadol leading to altered tramadol exposure.
-
-Concomitant administration of CYP2D6 and/or CYP3A4 inhibitors, such as quinidine, fluoxetine, paroxetine and amitriptyline (CYP2D6 inhibitors), and ketoconazole and erythromycin (CYP3A4 inhibitors), may reduce metabolic clearance of tramadol increasing the risk for serious adverse events including seizures and serotonin syndrome [see CLINICAL PHARMACOLOGY (12.3)].
-
-## 7.3 Serotonergic Drugs
-
-There have been post-marketing reports of serotonin syndrome with use of tramadol and SSRIs/SNRIs or MAOIs and α2-adrenergic blockers.
-Caution is advised when Tramadol Hydrochloride Extended-Release is co-administered with other drugs that may affect the serotonergic neurotransmitter systems, such as SSRIs, MAOIs, triptans, linezolid (an antibiotic which is a reversible non-selective MAOI), lithium, or St. John's Wort.
-If concomitant treatment of Tramadol Hydrochloride Extended-Release with a drug affecting the serotonergic neurotransmitter system is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases [see WARNINGS AND PRECAUTIONS (5.3)].
-
-## 7.4 Triptans
-
-Based on the mechanism of action of tramadol and the potential for serotonin syndrome, caution is advised when Tramadol Hydrochloride Extended-Release is co-administered with a triptan.
-If concomitant treatment of Tramadol Hydrochloride Extended-Release with a triptan is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases [see WARNINGS AND PRECAUTIONS (5.3)].
-
-## 7.5 Interaction With Central Nervous System (CNS) Depressants
-
-Tramadol Hydrochloride Extended-Release should be used with caution and in reduced dosages when administered to patients receiving CNS depressants such as opioids, anesthetic agents, narcotics, phenothiazines, tranquilizers or sedative hypnotics.
-Tramadol Hydrochloride Extended-Release increases the risk of CNS and respiratory depression in these patients [see WARNINGS AND PRECAUTIONS (5.6)].
-
-## 7.6 Quinidine
-
-Quinidine is a strong inhibitor of CYP2D6.
-Coadministration of quinidine with an extended-release tramadol product resulted in a 50-60% increase in tramadol exposure and a 50-60% decrease in M1 exposure.
-The clinical consequences of these findings are unknown.
-[see CLINICAL PHARMACOLOGY (12.3)].
-In vitro drug interaction studies in human liver microsomes indicate that tramadol has no effect on quinidine metabolism.
-
-## 7.7 Digoxin and Warfarins
-
-Post-marketing surveillance of tramadol has revealed rare reports of digoxin toxicity and alteration of warfarin effect, including elevation of prothrombin times.
-
-## 7.8 CYP3A4 Inducers
-
-Administration of CYP3A4 inducers, such as carbamazepine, rifampin and St. John's Wort, with Tramadol Hydrochloride Extended-Release may affect the metabolism of tramadol leading to reduced tramadol exposure [see CLINICAL PHARMACOLOGY (12.3)].
-
-Patients taking carbamazepine, a CYP3A4 inducer, may have a significantly reduced analgesic effect of tramadol.
-Because carbamazepine increases tramadol metabolism and because of the seizure risk associated with tramadol, concomitant administration of Tramadol Hydrochloride Extended-Release and carbamazepine is not recommended.
+| Inhibitors of CYP2D6 |  |
+| --- | --- |
+| Clinical Impact: | The concomitant use of Tramadol Hydrochloride Extended-Release Capsules and CYP2D6 inhibitors may result in an increase in the plasma concentration of tramadol and a decrease in the plasma concentration of M1, particularly when an inhibitor is added after a stable dose of Tramadol Hydrochloride Extended-Release Capsules are achieved. Since M1 is a more potent µ-opioid agonist, decreased M1 exposure could result in decreased therapeutic effects, and may result in signs and symptoms of opioid withdrawal in patients who had developed physical dependence to tramadol. Increased tramadol exposure can result in increased or prolonged therapeutic effects and increased risk for serious adverse events including seizures and serotonin syndrome. After stopping a CYP2D6 inhibitor, as the effects of the inhibitor decline, the tramadol plasma concentration will decrease and the M1 plasma concentration will increase which could increase or prolong therapeutic effects but also increase adverse reactions related to opioid toxicity, and may cause potentially fatal respiratory depression [see Clinical Pharmacology (12.3)]. |
+| Intervention: | If concomitant use of a CYP2D6 inhibitor is necessary, follow patients closely for adverse reactions including opioid withdrawal, seizures, and serotonin syndrome.If a CYP2D6 inhibitor is discontinued, consider lowering Tramadol Hydrochloride Extended-Release Capsules dosage until stable drug effects are achieved. Follow patients closely for adverse events including respiratory depression and sedation. |
+| Examples | Quinidine, fluoxetine, paroxetine and bupropion |
+| Inhibitors of CYP3A4 |  |
+| Clinical Impact: | The concomitant use of Tramadol Hydrochloride Extended-Release Capsules and CYP3A4 inhibitors can increase the plasma concentration of tramadol and may result in a greater amount of metabolism via CYP2D6 and greater levels of M1. Follow patients closely for increased risk of serious adverse events including seizures and serotonin syndrome, and adverse reactions related to opioid toxicity including potentially fatal respiratory depression, particularly when an inhibitor is added after a stable dose of Tramadol Hydrochloride Extended-Release Capsules are achieved. After stopping a CYP3A4 inhibitor, as the effects of the inhibitor decline, the tramadol plasma concentration will decrease [see Clinical Pharmacology (12.3)], resulting in decreased opioid efficacy and possibly signs and symptoms of opioid withdrawal in patients who had developed physical dependence to tramadol. |
+| Intervention: | If concomitant use is necessary, consider dosage reduction of Tramadol Hydrochloride Extended-Release Capsules until stable drug effects are achieved. Follow patients closely for seizures and serotonin syndrome, and signs of respiratory depression and sedation at frequent intervals.If a CYP3A4 inhibitor is discontinued, consider increasing the Tramadol Hydrochloride Extended-Release Capsules dosage until stable drug effects are achieved and follow patients for signs and symptoms of opioid withdrawal. |
+| Examples | Macrolide antibiotics (e.g., erythromycin), azole-antifungal agents (e.g. ketoconazole), protease inhibitors (e.g., ritonavir) |
+| CYP3A4 Inducers |  |
+| Clinical Impact: | The concomitant use of Tramadol Hydrochloride Extended-Release Capsules and CYP3A4 inducers can decrease the plasma concentration of tramadol, [see Clinical Pharmacology (12.3)], resulting in decreased efficacy or onset of a withdrawal syndrome in patients who have developed physical dependence to tramadol, [see Warnings and Precautions (5.5)]. After stopping a CYP3A4 inducer, as the effects of the inducer decline, the tramadol plasma concentration will increase [see Clinical Pharmacology (12.3)], which could increase or prolong both the therapeutic effects and adverse reactions, and may cause seizures and serotonin syndrome, and potentially fatal respiratory depression. |
+| Intervention: | If concomitant use is necessary, consider increasing the Tramadol Hydrochloride Extended-Release Capsules dosage until stable drug effects are achieved. Follow patients for signs of opioid withdrawal. If a CYP3A4 inducer is discontinued, consider Tramadol Hydrochloride Extended-Release Capsules dosage reduction and monitor for seizures and serotonin syndrome, and signs of sedation and respiratory depression.Patients taking carbamazepine, a CYP3A4 inducer, may have a significantly reduced analgesic effect of tramadol. Because carbamazepine increases tramadol metabolism and because of the seizure risk associated with tramadol, concomitant administration of Tramadol Hydrochloride Extended-Release Capsules and carbamazepine is not recommended. |
+| Examples: | Rifampin, carbamazepine, phenytoin |
+| Benzodiazepines and Other Central Nervous System (CNS) Depressants |  |
+| Clinical Impact: | Due to additive pharmacologic effect, the concomitant use of benzodiazepines or other CNS depressants, including alcohol, can increase the risk of hypotension, respiratory depression, profound sedation, coma, and death. |
+| Intervention: | Reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate. Limit dosages and durations to the minimum required. Follow patients closely for signs of respiratory depression and sedation [see Warnings and Precautions (5.6)]. |
+| Examples: | Benzodiazepines and other sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids, alcohol. |
+| Serotonergic Drugs |  |
+| Clinical Impact: | The concomitant use of opioids with other drugs that affect the serotonergic neurotransmitter system has resulted in serotonin syndrome. |
+| Intervention: | If concomitant use is warranted, carefully observe the patient, particularly during treatment initiation and dose adjustment. Discontinue Tramadol Hydrochloride Extended-Release Capsules if serotonin syndrome is suspected. |
+| Examples: | Selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that affect the serotonin neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), monoamine oxidase (MAO) inhibitors (those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue). |
+| Monoamine Oxidase Inhibitors (MAOIs) |  |
+| Clinical Impact: | MAOI interactions with opioids may manifest as serotonin syndrome [see Warnings and Precautions (5.8)] or opioid toxicity (e.g., respiratory depression, coma) [see Warnings and Precautions (5.2)]. |
+| Intervention: | Do not use Tramadol Hydrochloride Extended-Release Capsules in patients taking MAOIs or within 14 days of stopping such treatment. |
+| Examples: | phenelzine, tranylcypromine, linezolid |
+| Mixed Agonist/Antagonist and Partial Agonist Opioid Analgesics |  |
+| Clinical Impact: | May reduce the analgesic effect of Tramadol Hydrochloride Extended-Release Capsules and/or precipitate withdrawal symptoms. |
+| Intervention: | Avoid concomitant use. |
+| Examples: | butorphanol, nalbuphine, pentazocine, buprenorphine |
+| Muscle Relaxants |  |
+| Clinical Impact: | Tramadol may enhance the neuromuscular blocking action of skeletal muscle relaxants and produce an increased degree of respiratory depression. |
+| Intervention: | Monitor patients for signs of respiratory depression that may be greater than otherwise expected and decrease the dosage of Tramadol Hydrochloride Extended-Release Capsules and/or the muscle relaxant as necessary. |
+| Diuretics |  |
+| Clinical Impact: | Opioids can reduce the efficacy of diuretics by inducing the release of antidiuretic hormone. |
+| Intervention: | Monitor patients for signs of diminished diuresis and/or effects on blood pressure and increase the dosage of the diuretic as needed. |
+| Anticholinergic Drugs |  |
+| Clinical Impact: | The concomitant use of anticholinergic drugs may increase risk of urinary retention and/or severe constipation, which may lead to paralytic ileus. |
+| Intervention: | Monitor patients for signs of urinary retention or reduced gastric motility when Tramadol Hydrochloride Extended-Release Capsules are used concomitantly with anticholinergic drugs. |
+| Digoxin |  |
+| Clinical Impact: | Post-marketing surveillance of tramadol has revealed rare reports of digoxin toxicity. |
+| Intervention: | Follow patients for signs of digoxin toxicity and adjust dosage of digoxin as needed. |
+| Warfarin |  |
+| Clinical Impact: | Post-marketing surveillance of tramadol has revealed rare reports of alteration of warfarin effect, including elevation of prothrombin times. |
+| Intervention: | Monitor the prothrombin time of patients on warfarin for signs of an interaction and adjust the dosage of warfarin as needed. |
