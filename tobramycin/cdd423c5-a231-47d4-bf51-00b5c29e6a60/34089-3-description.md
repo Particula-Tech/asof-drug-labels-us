@@ -10,14 +10,12 @@ Tobramycin is a water-soluble aminoglycoside antibiotic active against a wide va
 
 The chemical structure of tobramycin is:
 
-Molecular formula:
+Molecular Formula:
 
 C18H37N5O9
 
-Molecular weight:
+Molecular Weight: 467.52
 
-467.52
-
-Chemical name:
+Chemical Name:
 
 0-{3-amino-3-deoxy-α-D-gluco-pyranosyl-(1→4) }-0-{2,6-diamino-2,3,6-trideoxy-α-D-ribohexo-pyranosyl-(1→6) }-2-deoxystreptamine.
