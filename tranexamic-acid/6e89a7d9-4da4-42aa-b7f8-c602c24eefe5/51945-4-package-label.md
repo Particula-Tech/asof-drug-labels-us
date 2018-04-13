@@ -10,9 +10,25 @@ NDC 0013-1114-01
 
 PAA058409
 
-# PRINCIPAL DISPLAY PANEL - 10 mL Ampule Carton
+# PRINCIPAL DISPLAY PANEL - 10 mL Ampule Carton - NDC 0013-1114-01
 
 NDC 0013-1114-01
+
+Contains 1 Ampule 10 mL Cyklokapron® tranexamic acid injection
+
+1000 mg/10 mL (100 mg/mL)
+
+Solution for intravenous injection
+
+Single-Dose ONLY Discard any remaining portion after single use
+
+Rx only
+
+Pfizer Injectables
+
+# PRINCIPAL DISPLAY PANEL - 10 mL Ampule Carton - NDC 0013-1114-15
+
+NDC 0013-1114-15
 
 Contains 1 Ampule 10 mL Cyklokapron® tranexamic acid injection
 
