@@ -1,6 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-GLUMETZA® (metformin hydrochloride extended-release tablets) is indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus.
+GLUMETZA® is indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus.
 
 Important Limitations of Use
 
