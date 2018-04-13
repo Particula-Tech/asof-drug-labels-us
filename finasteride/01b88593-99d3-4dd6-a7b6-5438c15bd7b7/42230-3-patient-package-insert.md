@@ -87,9 +87,9 @@ They may harm them.
 This Patient Information leaflet summarizes the most important information about finasteride tablets.
 If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about finasteride tablets that is written for health professionals.
-For more information, Call Citron Pharma LLC. at 1-855-5-CITRON (1-855-524-8766).
+For more information, call Rising Health, LLC at 1-833-395-6928.
 What are the ingredients in finasteride tablets?
 Active ingredient: finasteride.
 Inactive ingredients: docusate sodium, hydroxypropyl cellulose, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, pregelatinised starch (maize), sodium starch glycolate, talc, and titanium dioxide.
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-Distributed by: Citron Pharma LLC Suite-1101 2 Tower Center Blvd East Brunswick NJ 08816 Code No.: DRUGS/AP/19/1993 Made in India Revised: 02/2015
+Distributed by: Rising Health, LLC Saddle Brook, NJ 07663 Made in India Code: TS/DRUGS/19/1993 Revised: 12/2017

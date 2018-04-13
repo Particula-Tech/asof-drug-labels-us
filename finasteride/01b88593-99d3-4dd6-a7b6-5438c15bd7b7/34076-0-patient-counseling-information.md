@@ -18,4 +18,4 @@ Physicians should instruct their patients to promptly report any changes in thei
 Breast changes including breast enlargement, tenderness and neoplasm have been reported [see Adverse Reactions (6.1)].
 Physicians should instruct their patients to read the patient package insert before starting therapy with finasteride and to read it again each time the prescription is renewed so that they are aware of current information for patients regarding finasteride.
 The brands listed are trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
-Distributed by: Citron Pharma LLC Suite-1101 2 Tower Center Blvd East Brunswick NJ 08816 Code No.: DRUGS/AP/19/1993 Made in India Revised: 02/2015
+Distributed by: Rising Health, LLC Saddle Brook, NJ 07663 Made in India Code: TS/DRUGS/19/1993 Revised: 12/2017

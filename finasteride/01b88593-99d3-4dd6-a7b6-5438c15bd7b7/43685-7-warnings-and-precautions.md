@@ -16,7 +16,7 @@ These findings should be taken into account for proper interpretation of serum P
 Any confirmed increase from the lowest PSA value while on finasteride may signal the presence of prostate cancer and should be evaluated, even if PSA levels are still within the normal range for men not taking a 5α-reductase inhibitor.
 Non-compliance to therapy with finasteride may also affect PSA test results.
 
-## 5.3 Increased Risk of High-Grade Prostate Cancer with 5-Reductase Inhibitors
+## 5.3 Increased Risk of High-Grade Prostate Cancer with 5α-Reductase Inhibitors
 
 Men aged 55 and over with a normal digital rectal examination and PSA ≤3 ng/mL at baseline taking finasteride 5 mg/day (5 times the dose of finasteride) in the 7-year Prostate Cancer Prevention Trial (PCPT) had an increased risk of Gleason score 8 to 10 prostate cancer (finasteride 1.8% vs. placebo 1.1%).
 [See Adverse Reactions (6.1).]
