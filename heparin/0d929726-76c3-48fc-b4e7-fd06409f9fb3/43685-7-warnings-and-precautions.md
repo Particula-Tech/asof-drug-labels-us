@@ -26,7 +26,7 @@ Other - Menstruation, liver disease with impaired hemostasis.
 ## Coagulation Testing
 
 When heparin sodium is administered in therapeutic amounts, its dosage should be regulated by frequent blood coagulation tests.
-If the coagulation test is unduly prolonged or if hemorrhage occurs, heparin sodium should be discontinued promptly (see Overdosage).
+If the coagulation test is unduly prolonged or if hemorrhage occurs, heparin sodium should be discontinued promptly (see OVERDOSAGE).
 
 ## Thrombocytopenia
 
@@ -94,7 +94,7 @@ These solutions should be used with caution in patients receiving corticosteroid
 
 ## Laboratory Tests
 
-Periodic platelet counts, hematocrits, and tests for occult blood in stool are recommended during the entire course of heparin therapy, regardless of the route of administration (see Dosage and Administration).
+Periodic platelet counts, hematocrits, and tests for occult blood in stool are recommended during the entire course of heparin therapy, regardless of the route of administration (see DOSAGE AND ADMINISTRATION).
 
 ## Drug Interactions
 
@@ -121,8 +121,6 @@ Also, no reproduction studies in animals have been performed concerning mutagene
 
 ### Teratogenic Effects
 
-#### Pregnancy Category C
-
 Animal reproduction studies have not been conducted with heparin sodium.
 It is not known whether heparin sodium can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.
 Heparin sodium should be given to a pregnant woman only if clearly needed.
@@ -137,11 +135,11 @@ Heparin is not excreted in human milk.
 
 Safety and effectiveness in pediatric patients have not been established.
 
-See Dosage and Administration.
+See DOSAGE AND ADMINISTRATION.
 
 ## Geriatric Use
 
-A higher incidence of bleeding has been reported in patients over 60 years of age, especially women (see Precautions, General).
-Clinical studies indicate that lower doses of heparin may be indicated in these patients (see Precautions, General and Clinical Pharmacology).
+A higher incidence of bleeding has been reported in patients over 60 years of age, especially women (see PRECAUTIONS, General).
+Clinical studies indicate that lower doses of heparin may be indicated in these patients (see PRECAUTIONS, General and CLINICAL PHARMACOLOGY).
 
 Do not administer unless solution is clear and seal is intact.

@@ -11,6 +11,6 @@ Although the rate for infusion of the 2 units/mL formulation is dependent upon a
 
 Periodic platelet counts, hematocrits, and tests for occult blood in stool are recommended during the entire course of heparin therapy, regardless of the route of administration.
 
-All injections in VIAFLEX Plus plastic containers are intended for administration using sterile equipment.
+All injections in VIAFLEX PLUS plastic containers are intended for administration using sterile equipment.
 
 Because dosages of this drug are titrated to response, no additives should be made to Heparin Sodium and 0.9% Sodium Chloride Injection.

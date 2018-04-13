@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Heparin Sodium and 0.9% Sodium Chloride Injection in VIAFLEX Plus plastic container is supplied as follows:
+Heparin Sodium and 0.9% Sodium Chloride Injection in VIAFLEX PLUS plastic container is supplied as follows:
 
 | Code | Size (mL) | NDC | Product Name |
 | --- | --- | --- | --- |

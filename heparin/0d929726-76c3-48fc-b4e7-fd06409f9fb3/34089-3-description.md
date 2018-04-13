@@ -21,9 +21,9 @@ Table 1
 | 1000 USP Heparin Units and 0.9% Sodium Chloride Injection | 500 | 2 | 9 | 4.34 | 0.4 | 322 | 7.0 (6.0 to 8.0) | 186 | 154 | 32 (16 mmol/L) | 6 |
 | 2000 USP Heparin Units and 0.9% Sodium Chloride Injection | 1000 | 2 | 9 | 4.34 | 0.4 | 322 | 7.0 (6.0 to 8.0) | 186 | 154 | 32 (16 mmol/L) | 6 |
 
-This VIAFLEX Plus plastic container is fabricated from a specially formulated polyvinyl chloride (PL 146 Plastic).
-VIAFLEX Plus on the container indicates the presence of a drug additive in a drug vehicle.
-The VIAFLEX Plus plastic container system utilizes the same container as the VIAFLEX plastic container system.
+This VIAFLEX PLUS plastic container is fabricated from a specially formulated polyvinyl chloride (PL 146 Plastic).
+VIAFLEX PLUS on the container indicates the presence of a drug additive in a drug vehicle.
+The VIAFLEX PLUS plastic container system utilizes the same container as the VIAFLEX plastic container system.
 The amount of water that can permeate from inside the container into the overwrap is insufficient to affect the solution significantly.
 Solutions in contact with the plastic container can leach out certain of its chemical components in very small amounts within the expiration period, e.g., di-2-ethylhexyl phthalate (DEHP), up to 5 parts per million.
 However, the safety of the plastic has been confirmed in tests in animals according to USP biological tests for plastic containers as well as by tissue culture toxicity studies.

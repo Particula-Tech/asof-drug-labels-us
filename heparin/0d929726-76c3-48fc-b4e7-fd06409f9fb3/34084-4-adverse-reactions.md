@@ -2,8 +2,8 @@
 
 ## Hemorrhage
 
-Hemorrhage is the chief complication that may result from heparin therapy (see Warnings).
-An overly prolonged clotting time or minor bleeding during therapy can usually be controlled by withdrawing the drug (see Overdosage).
+Hemorrhage is the chief complication that may result from heparin therapy (see WARNINGS).
+An overly prolonged clotting time or minor bleeding during therapy can usually be controlled by withdrawing the drug (see OVERDOSAGE).
 It should be appreciated that gastrointestinal or urinary tract bleeding during anticoagulant therapy may indicate the presence of an underlying occult lesion.
 Bleeding can occur at any site but certain specific hemorrhage complications may be difficult to detect:
 
@@ -29,7 +29,7 @@ These complications are much more common after intramuscular use, and such use i
 
 General hypersensitivity reactions have been reported, with chills, fever, and urticaria as the most usual manifestations, and asthma, rhinitis, lacrimation, headache, nausea and vomiting, and anaphylactoid reactions, including shock, occurring more rarely.
 Itching and burning, especially on the plantar site of the feet, may occur.
-(See Warnings, Precautions.)
+(See WARNINGS, PRECAUTIONS.)
 
 Certain episodes of painful, ischemic, and cyanosed limbs have in the past been attributed to allergic vasospastic reactions.
 Whether these are in fact identical to the thrombocytopenia associated complications remains to be determined.
