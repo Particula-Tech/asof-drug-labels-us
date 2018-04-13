@@ -13,7 +13,7 @@ Doses of 1 gram may also be administered as an intravenous bolus injection (5 mL
 Dosage should be reduced in patients with creatinine clearance of 50 mL/min or less.
 (See dosing table below.)
 
-When only serum creatinine is available, the following formula (Cockcroft and Gault equation)5 may be used to estimate creatinine clearance.
+When only serum creatinine is available, the following formula (Cockcroft and Gault equation)1 may be used to estimate creatinine clearance.
 
 Males: Creatinine Clearance (mL/min) =
 
@@ -50,8 +50,8 @@ Dosage Schedule for Pediatric Patients 3 Months of Age and Older with Normal Ren
 
 | Type of Infection | Dose (mg/kg) | Up to a Maximum Dose | Dosing Interval |
 | --- | --- | --- | --- |
-| Complicated skin and skin structure Infections | 10 | 500 mg | Every 8 hours |
-| Complicated intra-abdominal Infections | 20 | 1 gram | Every 8 hours |
+| Complicated skin and skin structure infections | 10 | 500 mg | Every 8 hours |
+| Complicated intra-abdominal infections | 20 | 1 gram | Every 8 hours |
 | Meningitis | 40 | 2 grams | Every 8 hours |
 
 There is no experience in pediatric patients with renal impairment.
@@ -98,7 +98,7 @@ For Infusion
 
 - Injection vials (500 mg and 1 gram) may be directly re-constituted with a compatible infusion fluid.
 - Alternatively, an injection vial may be re-constituted, then the resulting solution added to an intravenous container and further diluted with an appropriate infusion fluid [see Dosage and Administration (2.5) and (2.6)].
-  Do not use flexible container in series connections.
+- Do not use flexible container in series connections.
 
 ## 2.5 Compatibility
 
@@ -113,7 +113,7 @@ Solutions of intravenous meropenem for injection (I.V.) should not be frozen.
 
 Intravenous Bolus Administration
 
-Meropenem for injection (I.V.) vials re-constituted with sterile Water for Injection for bolus administration (up to 50 mg/mL of meropenem for injection (I.V.) may be stored for up to 3 hours at up to 25°C (77°F) or for 13 hours at up to 5°C (41°F).
+Meropenem for injection (I.V.) vials re-constituted with sterile Water for Injection for bolus administration (up to 50 mg/mL of meropenem for injection (I.V.)) may be stored for up to 3 hours at up to 25°C (77°F) or for 13 hours at up to 5°C (41°F).
 
 Intravenous Infusion Administration
 

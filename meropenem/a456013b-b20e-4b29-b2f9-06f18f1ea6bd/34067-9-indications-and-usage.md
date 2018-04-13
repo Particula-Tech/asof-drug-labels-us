@@ -10,12 +10,12 @@ Meropenem for injection (I.V.) is indicated for the treatment of complicated app
 
 ## 1.3 Bacterial Meningitis (Pediatric Patients 3 Months of Age and Older Only)
 
-Meropenem for injection (I.V.) is indicated for the treatment of bacterial meningitis caused by Haemophilus influenzae, Neisseria meningitidis, and penicillin-susceptible isolates of Streptococcus pneumoniae.
+Meropenem for injection (I.V.) is indicated for the treatment of bacterial meningitis caused by Haemophilus influenzae, Neisseria meningitidis and penicillin-susceptible isolates of Streptococcus pneumoniae.
 
 Meropenem for injection (I.V.) has been found to be effective in eliminating concurrent bacteremia in association with bacterial meningitis.
 
 ## 1.4 Usage
 
-To reduce the development of drug-resistant bacteria and maintain the effectiveness of meropenem for injection (I.V.) and other antibacterial drugs, meropenem for injection(I.V.) should only be used to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
+To reduce the development of drug-resistant bacteria and maintain the effectiveness of meropenem for injection (I.V.) and other antibacterial drugs, meropenem for injection (I.V.) should only be used to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
 When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy.
 In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy.

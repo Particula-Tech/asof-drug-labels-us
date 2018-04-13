@@ -11,11 +11,11 @@
   Valproic acid concentrations in the blood may drop below the therapeutic range upon co-administration with meropenem.
   If treatment with meropenem is necessary and continued, alternative or supplemental anti-convulsant medication to prevent and/or treat seizures may be needed [see Warnings and Precautions (5.3)].
 - Patients receiving meropenem on an outpatient basis must be alerted of adverse events such as seizures, delirium, headaches and/or paresthesias that could interfere with mental alertness and/or cause motor impairment.
-  Until it is reasonably well established that meropenem is well tolerated, patients should not operate machinery or motorized vehicles [see Warnings and Precautions (5.10)].
+  Until it is reasonably well established that meropenem is well tolerated, patients should not operate machinery or motorized vehicles [see Warnings and Precautions (5.8)].
 
 Manufactured for: Amneal Biosciences LLC Bridgewater, NJ 08807
 
 Made in Taiwan
 
 Rev.
-03-2017-03
+03-2018-04

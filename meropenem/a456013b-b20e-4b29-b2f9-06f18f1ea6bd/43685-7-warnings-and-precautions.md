@@ -57,7 +57,7 @@ If superinfection does occur during therapy, appropriate measures should be take
 
 ## 5.7 Thrombocytopenia
 
-In patients with renal impairment, thrombocytopenia has been observed but no clinical bleeding reported [see Dosage and Administration (2.2), Adverse Reactions (6.1), Use in Specific Populations (8.5)and (8.6), and Clinical Pharmacology (12.3)].
+In patients with renal impairment, thrombocytopenia has been observed but no clinical bleeding reported [see Dosage and Administration (2.2), Adverse Reactions (6.1), Use in Specific Populations (8.5) and (8.6), and Clinical Pharmacology (12.3)].
 
 ## 5.8 Potential for Neuromotor Impairment
 

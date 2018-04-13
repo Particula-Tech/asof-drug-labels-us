@@ -24,11 +24,7 @@ Table 9: Success Rates at Test-of-Cure Visit for Clinically Evaluable Population
 | 65 years of age or older | 35/43 (81) | 33/46 (72) |
 | Men | 130/148 (88) | 137/172 (80) |
 | Women | 95/113 (84) | 101/115 (88) |
-
-1. n=number of patients with satisfactory response.
-
-2.
-N=number of patients in the clinically evaluable population or respective subgroup within treatment groups.
+| 1. n=number of patients with satisfactory response.2. N=number of patients in the clinically evaluable population or respective subgroup within treatment groups. |  |  |
 
 The clinical efficacy rates by pathogen are provided in Table 10.
 The values represent the number of patients clinically cured/number of clinically evaluable patients at the post-treatment follow-up visit, with the percent cure in parentheses (Fully Evaluable analysis set).
@@ -49,17 +45,8 @@ Table 10: Clinical Efficacy Rates by Pathogen for Clinically Evaluable Populatio
 | Proteus mirabilis | 11/13 (85) | 6/7 (86) |
 | Anaerobes |  |  |
 | Bacteroides fragilis | 10/11 (91) | 9/10 (90) |
-| Peptostreptococcus species | 10/13 (77) | 14/16 (88) |
-
-1.
-Patients may have more than one pretreatment pathogen.
-
-2. n=number of patients with satisfactory response.
-
-3.
-N=number of patients in the clinically evaluable population or subgroup within treatment groups.
-
-4. %= Percent of satisfactory clinical response at follow-up evaluation.
+| Peptostreptococcus Species | 10/13 (77) | 14/16 (88) |
+| 1. Patients may have more than one pretreatment pathogen.2. n=number of patients with satisfactory response.3. N=number of patients in the clinically evaluable population or subgroup within treatment groups.4. %= Percent of satisfactory clinical response at follow-up evaluation. |  |  |
 
 The proportion of patients who discontinued study treatment due to an adverse event was similar for both treatment groups (meropenem, 2.5% and imipenem-cilastatin, 2.7%).
 
@@ -105,12 +92,7 @@ Table 12: Efficacy rates by Pathogen in the Clinically Evaluable Population with
 | H. influenzae (-/NT)2 | 44/59 (75) | 44/60 (73) |
 | N. meningitidis | 30/35 (86) | 35/39 (90) |
 | Total (including others) | 102/131 (78) | 108/140 (77) |
-
-1.
-(+) β-lactamase-producing
-
-2.
-(-/NT) non-β-lactamase-producing or not tested
+| 1. (+) β-lactamase-producing2. (-/NT) non-β-lactamase-producing or not tested |  |  |
 
 Sequelae were the most common reason patients were assessed as clinically not cured.
 

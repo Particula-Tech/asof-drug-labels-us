@@ -40,9 +40,9 @@ Edema at the injection site 0.2%
 
 Systemic Adverse Reactions
 
-Systemic adverse events that were reported with meropenem occurring in greater than 1% of the patients were diarrhea (4.8%), nausea/vomiting (3.6%), headache (2.3%), rash (1.9%), sepsis (1.6%), constipation (1.4%), apnea (1.3%), shock (1.2%) and pruritus (1.2%).
+Systemic adverse events that were reported with meropenem occurring in greater than 1.0% of the patients were diarrhea (4.8%), nausea/vomiting (3.6%), headache (2.3%), rash (1.9%), sepsis (1.6%), constipation (1.4%), apnea (1.3%), shock (1.2%) and pruritus (1.2%).
 
-Additional systemic adverse events that were reported with meropenem and occurring in less than or equal to 1% but greater than 0.1% of the patients are listed below within each body system in order of decreasing frequency:
+Additional systemic adverse events that were reported with meropenem and occurring in less than or equal to 1.0% but greater than 0.1% of the patients are listed below within each body system in order of decreasing frequency:
 
 Bleeding events were seen as follows: gastrointestinal hemorrhage (0.5%), melena (0.3%), epistaxis (0.2%), hemoperitoneum (0.2%).
 
@@ -79,7 +79,7 @@ Urinalysis: presence of red blood cells
 Complicated Skin and Skin Structure Infections
 
 In a study of complicated skin and skin structure infections, the adverse reactions were similar to those listed above.
-The most common adverse events occurring in greater than 5% of the patients were: headache (7.8%), nausea (7.8%), constipation (7%), diarrhea (7%), anemia (5.5%), and pain (5.1%).
+The most common adverse events occurring in greater than 5% of the patients were: headache (7.8%), nausea (7.8%), constipation (7.0%), diarrhea (7.0%), anemia (5.5%), and pain (5.1%).
 Adverse events with an incidence of greater than 1%, and not listed above, include: pharyngitis, accidental injury, gastrointestinal disorder, hypoglycemia, peripheral vascular disorder, and pneumonia.
 
 Patients with Renal Impairment:
@@ -135,7 +135,7 @@ Adverse Laboratory Changes in Pediatric Patients:
 
 Laboratory changes seen in the pediatric studies, including the meningitis studies, were similar to those reported in the adult studies.
 
-## 6.2 Post-marketing Experience
+## 6.2 Post marketing Experience
 
 The following adverse reactions have been identified during post-approval use of meropenem.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
