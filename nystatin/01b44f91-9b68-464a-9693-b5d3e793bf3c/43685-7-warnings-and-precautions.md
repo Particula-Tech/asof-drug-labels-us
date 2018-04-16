@@ -43,7 +43,7 @@ Caution should be exercised when nystatin is prescribed for a nursing woman.
 ## Pediatric Use
 
 Safety and effectiveness have been established in the pediatric population from birth to 16 years.
-(see DOSAGE AND ADMINISTRATION).
+[see DOSAGE AND ADMINISTRATION].
 
 ## Geriatric Use
 

@@ -15,3 +15,5 @@ Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (5
 Avoid excessive heat (40°C/104°F).
 Keep tightly closed.
 Keep out of reach of children.
+
+Nyamyc is a registered trademark of Upsher-Smith Laboratories, LLC.
