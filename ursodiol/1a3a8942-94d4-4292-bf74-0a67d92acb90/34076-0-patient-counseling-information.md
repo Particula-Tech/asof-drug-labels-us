@@ -24,7 +24,7 @@ Mfg. by:
 
 Par Formulations Private Limited,
 
-1/58, Pudupakkam, Kelambakkam - 603 103.
+9/215, Pudupakkam, Kelambakkam - 603 103.
 
 Made in India
 
@@ -34,8 +34,6 @@ Mfg.
 Lic.
 No.: TN00002121
 
-OS412-01-74-03
+OS412-01-74-01
 
-SE7513/02
-
-R02/16
+R03/17
