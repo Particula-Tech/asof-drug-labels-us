@@ -29,6 +29,6 @@ Manufactured for: Mylan Institutional LLC Rockford, IL 61103 U.S.A.
 
 Manufactured by: Mylan Institutional Galway, Ireland
 
-MI:299:10C:R1
+MI:299:10C:R2
 
 Mylan.com

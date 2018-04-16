@@ -15,6 +15,6 @@ Manufactured for: Mylan Institutional LLC Rockford, IL 61103 U.S.A.
 
 Manufactured by: Mylan Institutional Galway, Ireland
 
-0836L101
+1017L100
 
-REVISED FEBRUARY 2016 MI:NALOIJM:R1
+Revised: 1/2018 MI:NALOIJM:R2
