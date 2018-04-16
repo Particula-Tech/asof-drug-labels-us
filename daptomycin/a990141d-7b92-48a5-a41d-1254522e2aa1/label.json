@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA206077"
+  ],
+  "inn": "daptomycin",
+  "labeler": "Fresenius Kabi USA, LLC",
+  "package_ndcs": [
+    "63323-371-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "daptomycin",
+      "name": "Daptomycin"
+    }
+  ],
+  "setid": "a990141d-7b92-48a5-a41d-1254522e2aa1",
+  "source": "dailymed"
+}
