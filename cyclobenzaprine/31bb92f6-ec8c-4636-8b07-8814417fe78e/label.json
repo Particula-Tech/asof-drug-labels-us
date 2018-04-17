@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA078218"
+  ],
+  "inn": "cyclobenzaprine",
+  "labeler": "Amneal Pharmaceuticals of New York LLC",
+  "package_ndcs": [
+    "53746-540-01",
+    "53746-540-05",
+    "53746-540-10",
+    "53746-541-01",
+    "53746-541-05",
+    "53746-541-10"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "cyclobenzaprine hydrochloride",
+      "name": "CYCLOBENZAPRINE HYDROCHLORIDE"
+    }
+  ],
+  "setid": "31bb92f6-ec8c-4636-8b07-8814417fe78e",
+  "source": "dailymed"
+}
