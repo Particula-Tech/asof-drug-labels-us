@@ -123,5 +123,5 @@ You can ask your healthcare provider or pharmacist for information about valacyc
 What are the ingredients in valacyclovir tablets?
 Active Ingredient: valacyclovir hydrochloride Inactive Ingredients: crospovidone, FD&C blue #2/indigo carmine aluminum lake, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate 80, povidone, and titanium dioxide.
 Manufactured for: Northstar Rx LLC Memphis, TN 38141.
-Toll Free: 1-800-206-7821 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahabubnagar (Dt) 509302, India.
-M.L.No.: 22/MN/AP/2009/F/R Revised: 10/2016
+Manufactured by: Aurobindo Pharma Limited Hyderabad-500 090, India.
+M.L.No.: 19/HD/AP/95/F/R Revised: 11/2017
