@@ -5,11 +5,22 @@
   "inn": "lamotrigine",
   "labeler": "OWP Pharmaceuticals, Inc.",
   "package_ndcs": [
-    "69102-025-04",
-    "69102-025-20",
-    "69102-150-06"
+    "69102-150-06",
+    "69102-300-01",
+    "69102-301-01",
+    "69102-301-02",
+    "69102-306-01",
+    "69102-312-01",
+    "69102-319-01",
+    "69102-319-02",
+    "69102-320-01"
   ],
   "products": [
+    {
+      "form": "KIT",
+      "generic": "lamotrigine",
+      "name": "SUBVENITE"
+    },
     {
       "form": "TABLET",
       "generic": "lamotrigine",
