@@ -2,9 +2,9 @@
 
 NDC 55566-2400-0
 
-DDAVP® Rhinal Tube desmopressin acetate
+DDAVP ® Rhinal Tube desmopressin acetate
 
-10 mcg/0.1 mL
+10 mcg/ 0.1 mL
 
 FOR INTRANASAL USE ONLY
 

@@ -49,7 +49,7 @@ Studies with DDAVP have not been performed to evaluate carcinogenic potential, m
 ## Pregnancy Category B
 
 Fertility studies have not been done.
-Teratology studies in rats and rabbits at doses from 0.05 to 10 mcg/kg/day (approximately 0.1 times the maximum systemic human exposure in rats and up to 38 times the maximum systemic human exposure in rabbits based on surface area, mg/m2) revealed no harm to the fetus due to DDAVP.
+Teratology studies in rats and rabbits at doses from 0.05 to 10 mcg/kg/day (approximately 0.1 times the maximum systemic human exposure in rats and up to 38 times the maximum systemic human exposure in rabbits based on surface area, mg/m 2) revealed no harm to the fetus due to DDAVP.
 There are, however, no adequate and well controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 
