@@ -2,10 +2,10 @@
 
 Vitamin K1 Injection (Phytonadione Injectable Emulsion, USP) is supplied in a package of 25 as follows:
 
-| ListNo. | Container | Amount ofVitamin K1Inj. InContainer | Volume | Concentration |
-| --- | --- | --- | --- | --- |
-| 9157 | 1 mL Ampul | 1 mg | 0.5 mL | 2 mg/mL |
-| 9158 | 1 mL Ampul | 10 mg | 1 mL | 10 mg/mL |
+| Unit of Sale | Concentration |
+| --- | --- |
+| NDC 0409-9157-01 25 ampuls in a package | 1 mg/0.5 mL (2 mg/mL) |
+| NDC 0409-9158-01 25 ampuls in a package | 10 mg/mL |
 
 Store at 20 to 25°C (68 to 77°F).
 [See USP Controlled Room Temperature.]
@@ -13,8 +13,8 @@ Store at 20 to 25°C (68 to 77°F).
 Protect from light.
 Keep ampuls in tray until time of use.
 
-Revised: November, 2004
+Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
-©Hospira 2004 EN-0538 Printed in USA
+LAB-1141-1.0
 
-HOSPIRA, INC., LAKE FOREST, IL 60045 USA
+Revised: 04/2018

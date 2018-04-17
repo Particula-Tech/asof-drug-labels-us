@@ -13,5 +13,4 @@ Infrequently, usually after repeated injection, erythematous, indurated, pruriti
 In other cases, these lesions have resembled erythema perstans.
 
 Hyperbilirubinemia has been observed in the newborn following administration of phytonadione.
-This has occurred rarely and primarily with doses above those recommended.
-(See PRECAUTIONS, Pediatric Use.)
+This has occurred rarely and primarily with doses above those recommended (See PRECAUTIONS, Pediatric Use).

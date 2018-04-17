@@ -1,7 +1,6 @@
 # DOSAGE AND ADMINISTRATION
 
-Whenever possible, Vitamin K1 Injection (Phytonadione Injectable Emulsion, USP) should be given by the subcutaneous route.
-(See Box Warning.)
+Whenever possible, Vitamin K1 Injection (Phytonadione Injectable Emulsion, USP) should be given by the subcutaneous route (See Box Warning).
 When intravenous administration is considered unavoidable, the drug should be injected very slowly, not exceeding 1 mg per minute.
 
 Protect from light at all times.
@@ -12,7 +11,7 @@ Directions for Dilution
 
 Vitamin K1 Injection may be diluted with 0.9% Sodium Chloride Injection, 5% Dextrose Injection, or 5% Dextrose and Sodium Chloride Injection.
 Benzyl alcohol as a preservative has been associated with toxicity in newborns.
-Therefore, all of the above diluents should be preservative-free (see WARNINGS).
+Therefore, all of the above diluents should be preservative-free (See WARNINGS).
 Other diluents should not be used.
 When dilutions are indicated, administration should be started immediately after mixture with the diluent, and unused portions of the dilution should be discarded, as well as unused contents of the ampul.
 
@@ -36,7 +35,7 @@ Anticoagulant-Induced Prothrombin Deficiency in Adults
 
 To correct excessively prolonged prothrombin time caused by oral anticoagulant therapy—2.5 to 10 mg or up to 25 mg initially is recommended.
 In rare instances 50 mg may be required.
-Frequency and amount of subsequent doses should be determined by prothrombin time response or clinical condition (see WARNINGS).
+Frequency and amount of subsequent doses should be determined by prothrombin time response or clinical condition (See WARNINGS).
 If in 6 to 8 hours after parenteral administration the prothrombin time has not been shortened satisfactorily, the dose should be repeated.
 
 Vitamin K1 Injection (Phytonadione Injectable Emulsion, USP) Summary of Dosage Guidelines (See circular text for details)

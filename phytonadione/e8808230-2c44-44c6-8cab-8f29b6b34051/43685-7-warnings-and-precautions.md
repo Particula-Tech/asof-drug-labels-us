@@ -43,7 +43,7 @@ Studies of carcinogenicity, mutagenesis or impairment of fertility have not been
 
 ## Pregnancy
 
-Pregnancy Category C: Animal reproduction studies have not been conducted with Vitamin K1 Injection.
+Animal reproduction studies have not been conducted with Vitamin K1 Injection.
 It is also not known whether Vitamin K1 Injection can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.
 Vitamin K1 Injection should be given to a pregnant woman only if clearly needed.
 
@@ -55,4 +55,4 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 ## Pediatric Use
 
 Hemolysis, jaundice, and hyperbilirubinemia in neonates, particularly those that are premature, may be related to the dose of Vitamin K1 Injection.
-Therefore, the recommended dose should not be exceeded (see ADVERSE REACTIONS and DOSAGE AND ADMINISTRATION).
+Therefore, the recommended dose should not be exceeded (See ADVERSE REACTIONS and DOSAGE AND ADMINISTRATION).
