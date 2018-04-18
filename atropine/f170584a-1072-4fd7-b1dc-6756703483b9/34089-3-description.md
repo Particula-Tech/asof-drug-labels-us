@@ -1,9 +1,8 @@
 # DESCRIPTION
 
-| Each Lomotil tablet contains: |  |  |
-| --- | --- | --- |
-| diphenoxylate hydrochloride | 2.5 mg |  |
-| atropine sulfate | 0.025 mg |  |
+Each Lomotil tablet contains:
+
+2.5 mg of diphenoxylate hydrochloride USP (equivalent to 2.3 mg of diphenoxylate) and 0.025 mg of atropine sulfate USP (equivalent to 0.01 mg of atropine)
 
 Diphenoxylate hydrochloride, an antidiarrheal, is ethyl 1-(3-cyano-3,3-diphenylpropyl)-4-phenylisonipecotate monohydrochloride and has the following structural formula:
 

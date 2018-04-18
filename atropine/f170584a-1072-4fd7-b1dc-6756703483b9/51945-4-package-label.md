@@ -6,7 +6,7 @@ NDC 0025-0061-31
 
 Lomotil® CV
 
-(diphenoxylate hydrochloride and atropine sulfate tablets USP)
+(diphenoxylate hydrochloride and atropine sulfate) tablets, USP
 
 2.5 mg/0.025 mg*
 
