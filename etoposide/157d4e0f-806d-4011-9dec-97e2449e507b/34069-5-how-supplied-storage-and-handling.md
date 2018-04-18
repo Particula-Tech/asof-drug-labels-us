@@ -14,5 +14,5 @@ Etoposide Injection USP, 20 mg/mL, is supplied as follows:
 
 50 mL vials are packed individually per shelf pack with NDC 68001-265-27.
 
-Store at 20° to 25°C (68° to 77°F).
+Store between 20° to 25°C (68° to 77°F).
 See USP controlled room temperature.

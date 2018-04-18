@@ -86,7 +86,7 @@ Safety and effectiveness in pediatric patients have not been established.
 
 Etoposide Injection USP contains polysorbate 80.
 In premature infants, a life-threatening syndrome consisting of liver and renal failure, pulmonary deterioration, thrombocytopenia, and ascites has been associated with an injectable vitamin E product containing polysorbate 80.
-Anaphylactic reactions have been reported in pediatric patients (see WARNINGS).
+Anaphylactic reactions have been reported in pediatric patients (See WARNINGS).
 
 ## Geriatric Use
 
