@@ -9,7 +9,7 @@ Fosaprepitant, a prodrug of aprepitant, is a weak inhibitor of CYP3A4, and aprep
 - Use of EMEND with strong or moderate CYP3A4 inhibitors (e.g., ketoconazole, diltiazem) may increase plasma concentrations of aprepitant and result in an increased risk of adverse reactions related to EMEND.
 - Use of EMEND with strong CYP3A4 inducers (e.g., rifampin) may result in a reduction in aprepitant plasma concentrations and decreased efficacy of EMEND.
 
-See Table 5 and Table 6 for a listing of potentially significant drug interactions [see Drug Interactions (7.1, 7.2)].
+See Table 7 and Table 8 for a listing of potentially significant drug interactions [see Drug Interactions (7.1, 7.2)].
 
 ## 5.2 Hypersensitivity Reactions
 
@@ -18,7 +18,7 @@ Symptoms including flushing, erythema, dyspnea, hypotension and syncope have bee
 
 Monitor patients during and after infusion.
 If hypersensitivity reactions occur, discontinue the infusion and administer appropriate medical therapy.
-Do not reinitiate EMEND in patients who experience these symptoms with first-time use [see Contraindications (4)].
+Do not reinitiate EMEND in patients who experience these symptoms with previous use [see Contraindications (4)].
 
 ## 5.3 Infusion Site Reactions
 

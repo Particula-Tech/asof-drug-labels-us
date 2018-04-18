@@ -11,9 +11,9 @@ Aprepitant is a substrate, an inhibitor, and an inducer of CYP3A4.
 Aprepitant is also an inducer of CYP2C9 [see Clinical Pharmacology (12.3)].
 
 Some substrates of CYP3A4 are contraindicated with EMEND [see Contraindications (4)].
-Dosage adjustment of some CYP3A4 and CYP2C9 substrates may be warranted, as shown in Table 5.
+Dosage adjustment of some CYP3A4 and CYP2C9 substrates may be warranted, as shown in Table 7.
 
-Table 5 Effects of Fosaprepitant/Aprepitant on the Pharmacokinetics of Other Drugs
+Table 7 Effects of Fosaprepitant/Aprepitant on the Pharmacokinetics of Other Drugs
 
 | CYP3A4 Substrates |  |
 | --- | --- |
@@ -49,16 +49,15 @@ Table 5 Effects of Fosaprepitant/Aprepitant on the Pharmacokinetics of Other Dru
 ## 7.2 Effect of Other Drugs on the Pharmacokinetics of Fosaprepitant/Aprepitant
 
 Aprepitant is a CYP3A4 substrate [see Clinical Pharmacology (12.3)].
-Co-administration of EMEND with drugs that are inhibitors or inducers of CYP3A4 may result in increased or decreased plasma concentrations of aprepitant, respectively, as shown in Table 6.
+Co-administration of EMEND with drugs that are inhibitors or inducers of CYP3A4 may result in increased or decreased plasma concentrations of aprepitant, respectively, as shown in Table 8.
 
-Table 6 Effects of Other Drugs on Pharmacokinetics of Fosaprepitant/Aprepitant
+Table 8 Effects of Other Drugs on Pharmacokinetics of Fosaprepitant/Aprepitant
 
 | Moderate to Strong CYP3A4 Inhibitors |  |
 | --- | --- |
 | Clinical Impact | Significantly increased exposure of aprepitant may increase the risk of adverse reactions associated with EMEND [see Adverse Reactions (6.1), Clinical Pharmacology (12.3)]. |
 | Intervention | Avoid concomitant use of EMEND |
-| Examples | Moderate inhibitor: diltiazem |
-|  | Strong inhibitors: ketoconazole, itraconazole, nefazodone, troleandomycin, clarithromycin, ritonavir, nelfinavir |
+| Examples | Moderate inhibitor: diltiazem Strong inhibitors: ketoconazole, itraconazole, nefazodone, troleandomycin, clarithromycin, ritonavir, nelfinavir |
 | Strong CYP3A4 Inducers |  |
 | Clinical Impact | Substantially decreased exposure of aprepitant in patients chronically taking a strong CYP3A4 inducer may decrease the efficacy of EMEND [see Clinical Pharmacology (12.3)]. |
 | Intervention | Avoid concomitant use of EMEND |

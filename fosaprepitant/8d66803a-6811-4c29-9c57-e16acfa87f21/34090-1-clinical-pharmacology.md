@@ -8,7 +8,7 @@ Aprepitant is a selective high-affinity antagonist of human substance P/neurokin
 Aprepitant has little or no affinity for serotonin (5-HT3), dopamine, and corticosteroid receptors, the targets of existing therapies for chemotherapy-induced nausea and vomiting (CINV).
 Aprepitant has been shown in animal models to inhibit emesis induced by cytotoxic chemotherapeutic agents, such as cisplatin, via central actions.
 Animal and human Positron Emission Tomography (PET) studies with aprepitant have shown that it crosses the blood brain barrier and occupies brain NK1 receptors.
-Animal and human studies show that aprepitant augments the antiemetic activity of the 5-HT3-receptor antagonist ondansetron and the corticosteroid dexamethasone and inhibits both the acute and delayed phases of cisplatin-induced emesis.
+Animal and human studies have shown that aprepitant augments the antiemetic activity of the 5-HT3-receptor antagonist ondansetron and the corticosteroid dexamethasone and inhibits both the acute and delayed phases of cisplatin-induced emesis.
 
 ## 12.2 Pharmacodynamics
 
@@ -60,11 +60,40 @@ Following oral administration of a single 125-mg dose of aprepitant on Day 1 and
 The Cmax was 10% higher on Day 1 and 24% higher on Day 5 in elderly relative to younger adults.
 These differences are not considered clinically meaningful [see Use in Specific Populations (8.5)].
 
+Age: Pediatric Population
+
+Single-Dose EMEND for Injection Regimen: Simulated systemic exposures of aprepitant in patients 2 years to less than 12 years and observed systemic exposures in patients 6 months to less than 2 years and 12 to 17 years are shown in Table 9, including AUC0-24hr, peak plasma concentration (Cmax) on Day 1 and concentrations at the end of Day 1 (C24), Day 2 (C48) and Day 3 (C72).
+
+Table 9 Systemic Exposures of Aprepitant for Single-Dose EMEND for Injection Regimen in Pediatric Patients
+
+| AUC 0-24hr. (mcg*hr/mL) | Cmax (mcg/mL) | C24 (mcg/mL) | C48 (mcg/mL) | C72 (mcg/mL) |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Population | Single-Dose of EMEND for Injection Regimen | Geometric Mean |  |  |  |  |
+| 12 Years to 17 Years | 150 mg | 29.4 | 3.4 | 0.7 | NDND = Not Determined. Pharmacokinetic samples were not collected to support the parameter value of interest. | ND |
+| 6 Years to less than 12 Years | 4 mg/kg | 35.2 | 3.6 | 0.7 | 0.2 | 0.05 |
+| 2 Years to less than 6 Years |  | 28.2 | 3.1 | 0.4 | 0.1 | 0.02 |
+| 6 Months to less than 2 Years | 5 mg/kg | 32.7 | 3.3 | 0.4 | NENE = Not Estimated. The geometric mean could not be estimated due to values being below the limitation of quantification. | ND |
+
+3-Day IV/Oral/Oral EMEND Regimen: Simulated aprepitant systemic exposures in patients 6 months to less than 12 years and observed systemic exposures in patients 12 to 17 years are shown in Table 10, including AUC0-24hr, peak plasma concentration (Cmax) on Day 1 and concentrations at the end of Day 1 (C24), Day 2 (C48) and Day 3 (C72).
+
+Table 10 Systemic Exposures of Aprepitant for 3-Day IV/Oral/Oral Regimen in Pediatric Patients
+
+| AUC 0-24hr. (mcg*hr/mL) | Cmax (mcg/mL) | C24 (mcg/mL) | C48 (mcg/mL) | C72 (mcg/mL) |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Population | 3-Day Dose of EMEND (IV/Oral/OralIV on Day 1, Oral on Day 2, and Oral on Day 3) | Geometric Mean |  |  |  |  |
+| 12 Years to 17 Years | 115/80/80 mg | 18.0 | 3.0 | 0.4 | 0.2 | NENE = Not Estimated. The geometric mean could not be estimated due to values being below the limitation of quantification. |
+| 6 Years to less than 12 Years | 3/2/2 mg/kg | 25.7 | 2.7 | 0.5 | 0.3 | 0.3 |
+| 2 Years to less than 6 Years |  | 20.2 | 2.3 | 0.3 | 0.2 | 0.2 |
+| 6 Months to less than 2 Years |  | 16.6 | 1.9 | 0.2 | 0.1 | 0.1 |
+
+Plasma concentrations of fosaprepitant are negligible within 15 – 30 minutes after the completion of the infusion in pediatric patients.
+
 Sex
 
 Following oral administration of a single dose of aprepitant, ranging from 40 mg to 375 mg, the AUC0-24hr and Cmax are 9% and 17% higher in females as compared with males.
 The half-life of aprepitant is approximately 25% lower in females as compared with males and Tmax occurs at approximately the same time.
 These differences are not considered clinically meaningful.
+A population pharmacokinetic analysis of aprepitant in pediatric patients (6 months to 17 years) suggests that sex has no clinically meaningful effect on the pharmacokinetics of aprepitant.
 
 Race/Ethnicity
 
@@ -72,6 +101,7 @@ Following oral administration of a single dose of aprepitant, ranging from 40 mg
 The AUC0-24hr and Cmax were 74% and 47% higher in Asians as compared to Caucasians.
 There was no difference in AUC0-24hr or Cmax between Caucasians and Blacks.
 These differences are not considered clinically meaningful.
+A population pharmacokinetic analysis of aprepitant in pediatric patients (6 months to 17 years) suggests that race has no clinically meaningful effect on the pharmacokinetics of aprepitant.
 
 Renal Impairment
 
