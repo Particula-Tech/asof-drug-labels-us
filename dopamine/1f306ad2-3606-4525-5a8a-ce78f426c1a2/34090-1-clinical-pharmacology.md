@@ -6,7 +6,7 @@ It is a precursor to norepinephrine in noradrenergic nerves and is also a neurot
 Dopamine produces positive chronotropic and inotropic effects on the myocardium, resulting in increased heart rate and cardiac contractility.
 This is accomplished directly by exerting an agonist action on beta-adrenoceptors and indirectly by causing release of norepinephrine from storage sites in sympathetic nerve endings.
 
-Dopamine’s onset of action occurs within five minutes of intravenous administration, and with dopamine’s plasma half-life of about two minutes, the duration of action is less than ten minutes.
+Dopamine's onset of action occurs within five minutes of intravenous administration, and with dopamine's plasma half-life of about two minutes, the duration of action is less than ten minutes.
 However, if monoamine oxidase (MAO) inhibitors are present, the duration may increase to one hour.
 The drug is widely distributed in the body but does not cross the blood-brain barrier to a significant extent.
 Dopamine is metabolized in the liver, kidney, and plasma by MAO and catechol-O-methyltransferase to the inactive compounds homovanillic acid (HVA) and 3,4-dihydroxyphenylacetic acid.

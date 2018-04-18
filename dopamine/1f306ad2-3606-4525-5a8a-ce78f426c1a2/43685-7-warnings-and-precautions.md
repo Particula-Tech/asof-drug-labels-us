@@ -24,17 +24,17 @@ See Drug Interactions below.
 7. 7.Extravasation – Dopamine HCl should be infused into a large vein whenever possible to prevent the possibility of extravasation into tissue adjacent to the infusion site.
    Extravasation may cause necrosis and sloughing of surrounding tissue.
    Large veins of the antecubital fossa are preferred to veins in the dorsum of the hand or ankle.
-   Less suitable infusion sites should be used only if the patient’s condition requires immediate attention.
+   Less suitable infusion sites should be used only if the patient's condition requires immediate attention.
    The physician should switch to more suitable sites as rapidly as possible.
    The infusion site should be continuously monitored for free flow.
-8. 8.Occlusive Vascular Disease – Patients with a history of occlusive vascular disease (for example, atherosclerosis, arterial embolism, Raynaud’s disease, cold injury, diabetic endarteritis, and Buerger’s disease) should be closely monitored for any changes in color or temperature of the skin in the extremities.
+8. 8.Occlusive Vascular Disease – Patients with a history of occlusive vascular disease (for example, atherosclerosis, arterial embolism, Raynaud's disease, cold injury, diabetic endarteritis, and Buerger's disease) should be closely monitored for any changes in color or temperature of the skin in the extremities.
    If a change in skin color or temperature occurs and is thought to be the result of compromised circulation in the extremities, the benefits of continued dopamine HCl infusion should be weighed against the risk of possible necrosis.
    This condition may be reversed by either decreasing the rate or discontinuing the infusion.
 
 | IMPORTANT Antidote for Peripheral Ischemia: To prevent sloughing and necrosis in ischemic areas, the area should be infiltrated as soon as possible with 10 to 15 mL of saline solution containing from 5 to 10 mg of phentolamine mesylate, an adrenergic blocking agent. A syringe with a fine hypodermic needle should be used, and the solution liberally infiltrated throughout the ischemic area. Sympathetic blockade with phentolamine causes immediate and conspicuous local hyperemic changes if the area is infiltrated within 12 hours. Therefore, phentolamine should be given as soon as possible after the extravasation is noted. |
 | --- |
 
-1. 9.Weaning – When discontinuing the infusion, it may be necessary to gradually decrease the dose of dopamine HCl while expanding blood volume with I.V. fluids, since sudden cessation may result in marked hypotension.
+1. 9.Weaning – When discontinuing the infusion, it may be necessary to gradually decrease the dose of dopamine HCl while expanding blood volume with intravenous fluids, since sudden cessation may result in marked hypotension.
 
 ## Drug Interactions
 
@@ -56,7 +56,7 @@ See Drug Interactions below.
 8. 8.Administration of phenytoin to patients receiving dopamine HCl has been reported to lead to hypotension and bradycardia.
    It is suggested that in patients receiving dopamine HCl, alternatives to phenytoin should be used if anticonvulsant therapy is needed.
 
-Pregnancy: Teratogenic Effects: Pregnancy Category C Animal studies have revealed no evidence of teratogenic effects due to dopamine.
+Pregnancy: Teratogenic Effects: Animal studies have revealed no evidence of teratogenic effects due to dopamine.
 However, in one study, administration of dopamine HCl to pregnant rats resulted in a decreased survival rate of the newborn and a potential for cataract formation in the survivors.
 There are no adequate and well-controlled studies in pregnant women and it is not known if dopamine crosses the placental barrier.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if, in the judgment of the physician, the potential benefit justifies the potential risk to the fetus.

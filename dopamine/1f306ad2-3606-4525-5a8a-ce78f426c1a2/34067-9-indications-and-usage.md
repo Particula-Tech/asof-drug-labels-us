@@ -14,7 +14,7 @@ Nevertheless, in a number of oliguric or anuric patients, administration of dopa
 Dopamine HCl may also increase urine flow in patients whose output is within normal limits and thus may be of value in reducing the degree of pre-existing fluid accumulation.
 It should be noted that at doses above those optimal for the individual patient, urine flow may decrease, necessitating reduction of dosage.
 
-Low Cardiac Output – Increased cardiac output is related to dopamine’s direct inotropic effect on the myocardium.
+Low Cardiac Output – Increased cardiac output is related to dopamine's direct inotropic effect on the myocardium.
 Increased cardiac output at low or moderate doses appears to be related to a favorable prognosis.
 Increase in cardiac output has been associated with either static or decreased systemic vascular resistance (SVR).
 Static or decreased SVR associated with low or moderate movements in cardiac output is believed to be a reflection of differential effects on specific vascular beds with increased resistance in peripheral beds (e.g., femoral) and concomitant decreases in mesenteric and renal vascular beds.
@@ -24,6 +24,6 @@ In many instances the renal fraction of the total cardiac output has been found 
 Increase in cardiac output produced by dopamine is not associated with substantial decreases in systemic vascular resistance as may occur with isoproterenol.
 
 Hypotension – Hypotension due to inadequate cardiac output can be managed by administration of low to moderate doses of dopamine HCl which have little effect on SVR.
-At high therapeutic doses, dopamine’s alpha-adrenergic activity becomes more prominent and thus may correct hypotension due to diminished SVR.
+At high therapeutic doses, dopamine's alpha-adrenergic activity becomes more prominent and thus may correct hypotension due to diminished SVR.
 As in the case of other circulatory decompensation states, prognosis is better in patients whose blood pressure and urine flow have not undergone profound deterioration.
 Therefore, it is suggested that the physician administer dopamine HCl as soon as a definite trend toward decreased systolic and diastolic pressure becomes evident.
