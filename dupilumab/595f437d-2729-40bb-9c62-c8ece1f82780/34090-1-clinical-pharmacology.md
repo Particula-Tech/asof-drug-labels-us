@@ -60,4 +60,8 @@ No formal trial of the effect of hepatic or renal impairment on the pharmacokine
 
 Drug Interaction Studies
 
-Drug interaction studies have not been conducted with DUPIXENT.
+Cytochrome P450 Substrates
+
+The effects of dupilumab on the pharmacokinetics of midazolam (metabolized by CYP3A4), warfarin (metabolized by CYP2C9), omeprazole (metabolized by CYP2C19), metoprolol (metabolized by CYP2D6), and caffeine (metabolized by CYP1A2) were evaluated in a study with 12-13 evaluable subjects with atopic dermatitis (a SC loading dose of 600 mg followed by 300 mg SC weekly for six weeks).
+No clinically significant changes in AUC were observed.
+The largest effect was observed for metoprolol (CYP2D6) with an increase in AUC of 29%.

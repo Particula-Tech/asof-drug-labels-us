@@ -54,3 +54,8 @@ Table 3: Efficacy Results (IGA 0 or 1) of DUPIXENT with Concomitant TCS at Week 
 Treatment effects in subgroups (weight, age, gender, race, and prior treatment, including immunosuppressants) in Trials 1, 2, and 3 were generally consistent with the results in the overall study population.
 
 In Trials 1, 2, and 3, a third randomized treatment arm of DUPIXENT 300 mg QW did not demonstrate additional treatment benefit over DUPIXENT 300 mg Q2W.
+
+Subjects in Trials 1 and 2 who had an IGA 0 or 1 with a reduction of ≥2 points were re-randomized into Trial 5.
+Trial 5 evaluated multiple DUPIXENT monotherapy dose regimens for maintaining treatment response.
+The study included subjects randomized to continue with DUPIXENT 300 mg Q2W (62 subjects) or switch to placebo (31 subjects) for 36 weeks.
+IGA 0 or 1 responses at Week 36 were as follows: 33 (53%) in the Q2W group and 3 (10%) in the placebo group.
