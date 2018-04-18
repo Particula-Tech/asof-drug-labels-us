@@ -5,8 +5,6 @@
 Rituximab is a monoclonal antibody that targets the CD20 antigen expressed on the surface of pre-B and mature B-lymphocytes.
 Upon binding to CD20, rituximab mediates B-cell lysis.
 Possible mechanisms of cell lysis include complement dependent cytotoxicity (CDC) and antibody dependent cell mediated cytotoxicity (ADCC).
-The antibody induced apoptosis in the DHL 4 human B cell lymphoma cell line.
-
 B cells are believed to play a role in the pathogenesis of rheumatoid arthritis (RA) and associated chronic synovitis.
 In this setting, B cells may be acting at multiple sites in the autoimmune/inflammatory process, including through production of rheumatoid factor (RF) and other autoantibodies, antigen presentation, T-cell activation, and/or proinflammatory cytokine production.
 
@@ -14,7 +12,7 @@ In this setting, B cells may be acting at multiple sites in the autoimmune/infla
 
 Non-Hodgkin's Lymphoma (NHL)
 
-In NHL patients, administration of Rituxan resulted in depletion of circulating and tissue-based B cells.
+In NHL patients, administration of RITUXAN resulted in depletion of circulating and tissue-based B cells.
 Among 166 patients in Study 1, circulating CD19-positive B cells were depleted within the first three weeks with sustained depletion for up to 6 to 9 months post treatment in 83% of patients.
 B-cell recovery began at approximately 6 months and median B-cell levels returned to normal by 12 months following completion of treatment.
 
@@ -22,20 +20,20 @@ There were sustained and statistically significant reductions in both IgM and Ig
 
 Rheumatoid Arthritis
 
-In RA patients, treatment with Rituxan induced depletion of peripheral B lymphocytes, with the majority of patients demonstrating near complete depletion (CD19 counts below the lower limit of quantification, 20 cells/µl) within 2 weeks after receiving the first dose of Rituxan.
+In RA patients, treatment with RITUXAN induced depletion of peripheral B lymphocytes, with the majority of patients demonstrating near complete depletion (CD19 counts below the lower limit of quantification, 20 cells/µl) within 2 weeks after receiving the first dose of RITUXAN.
 The majority of patients showed peripheral B-cell depletion for at least 6 months.
 A small proportion of patients (~4%) had prolonged peripheral B-cell depletion lasting more than 3 years after a single course of treatment.
 
 Total serum immunoglobulin levels, IgM, IgG, and IgA were reduced at 6 months with the greatest change observed in IgM.
-At Week 24 of the first course of Rituxan treatment, small proportions of patients experienced decreases in IgM (10%), IgG (2.8%), and IgA (0.8%) levels below the lower limit of normal (LLN).
-In the experience with Rituxan in RA patients during repeated Rituxan treatment, 23.3%, 5.5%, and 0.5% of patients experienced decreases in IgM, IgG, and IgA concentrations below LLN at any time after receiving Rituxan, respectively.
-The clinical consequences of decreases in immunoglobulin levels in RA patients treated with Rituxan are unclear.
+At Week 24 of the first course of RITUXAN treatment, small proportions of patients experienced decreases in IgM (10%), IgG (2.8%), and IgA (0.8%) levels below the lower limit of normal (LLN).
+In the experience with RITUXAN in RA patients during repeated RITUXAN treatment, 23.3%, 5.5%, and 0.5% of patients experienced decreases in IgM, IgG, and IgA concentrations below LLN at any time after receiving RITUXAN, respectively.
+The clinical consequences of decreases in immunoglobulin levels in RA patients treated with RITUXAN are unclear.
 
 Treatment with rituximab in patients with RA was associated with reduction of certain biologic markers of inflammation such as interleukin-6 (IL-6), C-reactive protein (CRP), serum amyloid protein (SAA), S100 A8/S100 A9 heterodimer complex (S100 A8/9), anti-citrullinated peptide (anti-CCP), and RF.
 
 Granulomatosis with Polyangiitis (GPA) (Wegener's Granulomatosis) and Microscopic Polyangiitis
 
-In GPA and MPA patients, peripheral blood CD19 B-cells depleted to less than 10 cells/µl following the first two infusions of Rituxan, and remained at that level in most (84%) patients through Month 6.
+In GPA and MPA patients, peripheral blood CD19 B-cells depleted to less than 10 cells/μl following the first two infusions of RITUXAN, and remained at that level in most (84%) patients through Month 6.
 By Month 12, the majority of patients (81%) showed signs of B-cell return with counts >10 cells/μL.
 By Month 18, most patients (87%) had counts >10 cells/μL.
 
@@ -43,7 +41,7 @@ By Month 18, most patients (87%) had counts >10 cells/μL.
 
 Non-Hodgkin's Lymphoma (NHL)
 
-Pharmacokinetics were characterized in 203 NHL patients receiving 375 mg/m2 Rituxan weekly by intravenous infusion for 4 doses.
+Pharmacokinetics were characterized in 203 NHL patients receiving 375 mg/m2 RITUXAN weekly by intravenous infusion for 4 doses.
 Rituximab was detectable in the serum of patients 3 to 6 months after completion of treatment.
 
 The pharmacokinetic profile of rituximab when administered as 6 infusions of 375 mg/m2 in combination with 6 cycles of CHOP chemotherapy was similar to that seen with rituximab alone.
@@ -58,9 +56,9 @@ The estimated median terminal half-life of rituximab was 32 days (range, 14 to 6
 
 Rheumatoid Arthritis
 
-Following administration of 2 doses of Rituxan in patients with RA, the mean (± S.D.; % CV) concentrations after the first infusion (Cmax first) and second infusion (Cmax second) were 157 (± 46; 29%) and 183 (± 55; 30%) mcg/mL, and 318 (± 86; 27%) and 381 (± 98; 26%) mcg/mL for the 2 × 500 mg and 2 × 1000 mg doses, respectively.
+Following administration of 2 doses of RITUXAN in patients with RA, the mean (± S.D.; % CV) concentrations after the first infusion (Cmax first) and second infusion (Cmax second) were 157 (± 46; 29%) and 183 (± 55; 30%) mcg/mL, and 318 (± 86; 27%) and 381 (± 98; 26%) mcg/mL for the 2 × 500 mg and 2 × 1000 mg doses, respectively.
 
-Based on a population pharmacokinetic analysis of data from 2005 RA patients who received Rituxan, the estimated clearance of rituximab was 0.335 L/day; volume of distribution was 3.1 L and mean terminal elimination half-life was 18.0 days (range, 5.17 to 77.5 days).
+Based on a population pharmacokinetic analysis of data from 2005 RA patients who received RITUXAN, the estimated clearance of rituximab was 0.335 L/day; volume of distribution was 3.1 L and mean terminal elimination half-life was 18.0 days (range, 5.17 to 77.5 days).
 Age, weight and gender had no effect on the pharmacokinetics of rituximab in RA patients.
 
 Granulomatosis with Polyangiitis (GPA) (Wegener's Granulomatosis) and Microscopic Polyangiitis
@@ -68,8 +66,15 @@ Granulomatosis with Polyangiitis (GPA) (Wegener's Granulomatosis) and Microscopi
 Based on the population pharmacokinetic analysis of data in 97 GPA and MPA patients who received 375 mg/m2 rituximab once weekly by intravenous infusion for four weeks, the estimated median terminal elimination half-life was 23 days (range, 9 to 49 days).
 Rituximab mean clearance and volume of distribution were 0.
 312 L/day (range, 0.115 to 0.728 L/day) and 4.50 L (range, 2.21 to 7.52 L) respectively.
-Male patients and patients with higher BSA or positive HACA levels have higher clearance.
-However, further dose adjustment based on gender or HACA status is not necessary.
+Male patients and patients with higher BSA or positive anti-rituximab antibody levels have higher clearance.
+However, further dose adjustment based on gender or anti-rituximab antibody status is not necessary.
+
+Specific Populations
 
 The pharmacokinetics of rituximab have not been studied in children and adolescents.
+
 No formal studies were conducted to examine the effects of either renal or hepatic impairment on the pharmacokinetics of rituximab.
+
+Drug Interaction Studies
+
+Formal drug interaction studies have not been performed with RITUXAN.
