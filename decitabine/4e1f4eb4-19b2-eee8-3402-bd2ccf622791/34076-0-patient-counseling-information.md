@@ -9,19 +9,15 @@ Patients should be advised to monitor and report any symptoms of neutropenia, th
 
 Rx Only
 
-Manufactured for: Dr. Reddy’s Laboratories Limited
+Distributed by:
 
-By:Cipla Limited, at S-103 to S-105 &
-
-S-107 to S-112, Verna Industrial Estate, Verna Goa -403722 INDIA
-
-Distributor:
-
-Dr. Reddy’s Laboratories Inc.,
+Dr.Reddy’s Laboratories Inc.,
 
 Princeton, NJ 08540
 
-Revised: 1116
+Made in India
+
+Revised: 0917
 
 OR
 
@@ -37,4 +33,4 @@ Dr. Reddy’s Laboratories Inc.,
 
 Princeton, NJ 08540
 
-Revised: 1116
+Revised: 0517

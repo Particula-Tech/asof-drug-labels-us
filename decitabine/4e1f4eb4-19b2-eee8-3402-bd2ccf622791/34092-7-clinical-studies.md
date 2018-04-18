@@ -111,8 +111,9 @@ Table 7 Baseline Demographics and Other Patient
 | Black | 6 (6) |
 | Asian | 4 (4) |
 | Other | 3 (3) |
-| Days From MDS Diagnosis to First Dose | 444±626 |
-| Mean (±SD) Median (Range: min-max) | 154 (7-3079) |
+| Days From MDS Diagnosis to First Dose |  |
+| Mean (±SD) | 444±626 |
+| Median (Range: min-max) | 154 (7-3079) |
 | Previous MDS Therapy n (%) |  |
 | Yes | 27 (27) |
 | No | 72 (73) |
