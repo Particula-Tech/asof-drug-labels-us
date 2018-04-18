@@ -1,8 +1,10 @@
+# Package/Label Display Panel
+
 NDC 24208-443-35
 
-Bausch & Lomb
+Lotemax®
 
-Lotemax
+BAUSCH + LOMB
 
 loteprednol etabonate
 
@@ -10,6 +12,7 @@ ophthalmic ointment 0.5%
 
 Sterile Rx only
 
-Net. wt.
+Net.
+Wt.
 1/8oz.
-(3.5g)
+(3.5 g)

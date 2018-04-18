@@ -1,6 +1,6 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Intraocular pressure (IOP) increase
+## 5.1 Intraocular Pressure (IOP increase)
 
 Prolonged use of corticosteroids may result in glaucoma with damage to the optic nerve, defects in visual acuity and fields of vision.
 If this product is used for 10 days or longer, IOP should be monitored even though it may be difficult in children and uncooperative patients.
@@ -9,25 +9,25 @@ If this product is used for 10 days or longer, IOP should be monitored even thou
 
 Use of corticosteroids may result in posterior subcapsular cataract formation.
 
-## 5.3 Delayed healing
+## 5.3 Delayed Healing
 
 The use of steroids after cataract surgery may delay healing and increase the incidence of bleb formation.
 In those diseases causing thinning of the cornea or sclera, perforations have been known to occur with the use of topical steroids.
 
 The initial prescription and renewal of the medication order beyond 14 days should be made by a physician only after examination of the patient with the aid of magnification such as slit lamp biomicroscopy and, where appropriate, fluorescein staining.
 
-## 5.4 Bacterial infections
+## 5.4 Bacteria Infections
 
 Prolonged use of corticosteroids may suppress the host response and thus increase the hazard of secondary ocular infections.
 In acute purulent conditions, steroids may mask infection or enhance existing infection.
 If signs and symptoms fail to improve after 2 days, the patient should be re-evaluated.
 
-## 5.5 Viral infections
+## 5.5 Viral Infections
 
 Employment of a corticosteroid medication in the treatment of patients with a history of herpes simplex requires great caution.
 Use of ocular steroids may prolong the course and may exacerbate the severity of many viral infections of the eye (including herpes simplex).
 
-## 5.6 Fungal infections
+## 5.6 Fungal Infections
 
 Fungal infections of the cornea are particularly prone to develop coincidentally with long-term local steroid application.
 Fungus invasion must be considered in any persistent corneal ulceration where a steroid has been used or is in use.
@@ -40,8 +40,8 @@ Patients should not wear contact lenses during their course of therapy with LOTE
 ## 5.8 Amblyopia
 
 LOTEMAX (loteprednol etabonate ophthalmic ointment), 0.5% should not be used in children following ocular surgery.
-Its use may interfere with amblyopia treatment by hindering the child’s ability to see out of the operated eye (see Pediatric Use, 8.4).
+Its use may interfere with amblyopia treatment by hindering the child’s ability to see out of the operated eye [see Use inSpecific Populations, Pediatric Use(8.4)].
 
-## 5.9 Topical ophthalmic use only
+## 5.9 Topical Ophthalmic Use Only
 
 Lotemax is not indicated for intraocular administration.

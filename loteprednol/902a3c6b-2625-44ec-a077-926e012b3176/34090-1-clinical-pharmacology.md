@@ -12,4 +12,4 @@ However, corticosteroids are thought to inhibit prostaglandin production through
 The systemic exposure to loteprednol etabonate following ocular administration of LOTEMAX ointment has not been studied in humans.
 However, results from a bioavailability study with LOTEMAX suspension in normal volunteers established that plasma concentrations of loteprednol etabonate and Δ¹ cortienic acid etabonate (PJ 91), its primary, inactive metabolite, were below the limit of quantitation (1 ng/mL) at all sampling times.
 The results were obtained following the ocular administration of one drop in each eye of 0.5% loteprednol etabonate suspension, 8 times daily for 2 days or 4 times daily for 42 days.
-The maximum systemic exposure to loteprednol following administration of the ointment product dosed four times daily is not expected to exceed exposures attained with LOTEMAX suspension dosed up to two drops four times daily.
+The maximum systemic exposure to loteprednol following administration of the ointment product dosed 4 times daily is not expected to exceed exposures attained with LOTEMAX suspension dosed up to two drops 4 times daily.

@@ -1,32 +1,30 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-## 17.1 Risk of Contamination
+## Patients should also be advised not to wear contact lenses during their course of therapy.
+
+## Risk of Contamination
 
 Patients should be advised not to touch the eyelid or surrounding areas with the tip of the tube.
 The cap should remain on the tube when not in use.
 
 Patients should be advised to wash hands prior to using LOTEMAX ointment.
 
-Do not use if tamper evident skirt is visible on bottom of cap.
+## Contact Lens Wear
 
-## 17.2 Contact Lens Wear
+### Patients should also be advised not to wear contact lenses during their course of therapy.
 
-Patients should also be advised not to wear contact lenses during their course of therapy.
-
-## 17.3 Risk of Secondary Infection
+## Risk of Secondary Infection
 
 If pain, redness, itching or inflammation becomes aggravated, the patient should be advised to consult a physician.
 
-MANUFACTURER INFORMATION
+Bausch + Lomb, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
-Bausch & Lomb Incorporated
+Product of France
 
-Tampa, Florida 33637 USA
+Lotemax is a trademark of Bausch & Lomb Incorporated or its affiliates.
 
-©Bausch & Lomb Incorporated
+© Bausch & Lomb Incorporated
 
-Lotemax is a registered trademark of Bausch & Lomb Incorporated
+9234802 (Flat)
 
-9234801 (flat)
-
-9234901 (folded)
+9234902 (Folded)
