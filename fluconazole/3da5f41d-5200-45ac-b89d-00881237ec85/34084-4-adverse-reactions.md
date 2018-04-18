@@ -24,7 +24,7 @@ The proportions of patients discontinuing therapy due to clinical adverse events
 
 The following treatment-related clinical adverse events occurred at an incidence of 1% or greater in 4048 patients receiving fluconazole for 7 or more days in clinical trials: nausea 3.7%, headache 1.9%, skin rash 1.8%, vomiting 1.7%, abdominal pain 1.7%, and diarrhea 1.5%.
 
-Hepatobiliary: In combined clinical trials and marketing experience, there have been rare cases of serious hepatic reactions during treatment with fluconazole.
+Hepato-biliary: In combined clinical trials and marketing experience, there have been rare cases of serious hepatic reactions during treatment with fluconazole.
 (See WARNINGS.)
 The spectrum of these hepatic reactions has ranged from mild transient elevations in transaminases to clinical hepatitis, cholestasis and fulminant hepatic failure, including fatalities.
 Instances of fatal hepatic reactions were noted to occur primarily in patients with serious underlying medical conditions (predominantly AIDS or malignancy) and often while taking multiple concomitant medications.
@@ -61,7 +61,7 @@ Musculoskeletal System: myalgia.
 
 Nervous System: Insomnia, paresthesia, somnolence, tremor, vertigo.
 
-Skin and Appendages: Acute generalized exanthematous-pustulosis, drug eruption, increased sweating, exfoliative skin disorders including Stevens-Johnson syndrome and toxic epidermal necrolysis (see WARNINGS), alopecia.
+Skin and Appendages: Acute generalized exanthematous pustulosis, drug eruption, increased sweating, exfoliative skin disorders including Stevens-Johnson syndrome and toxic epidermal necrolysis (see WARNINGS), alopecia.
 
 Adverse Reactions in Children:
 

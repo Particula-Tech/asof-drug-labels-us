@@ -1,10 +1,8 @@
 # PATIENT INFORMATION
 
-FLUCONAZOLE TABLETS USP
+FLUCONAZOLE (floo-KON-a-zole) TABLETS
 
-Rx Only
-
-This leaflet contains important information about fluconazole (floo kon' a zole).
+This leaflet contains important information about fluconazole (floo-KON-a-zole).
 It is not meant to take the place of your doctor’s instructions.
 Read this information carefully before you take fluconazole.
 Ask your doctor or pharmacist if you do not understand any of this information or if you want to know more about fluconazole.
@@ -57,6 +55,7 @@ Therefore, tell your doctor about all the medicines you take including:
 - •theophylline to control asthma
 - •cisapride for heartburn
 - •quinidine (used to correct disturbances in heart rhythm)
+- •amiodarone (used for treating uneven heartbeats ‘arrhythmias’)
 - •amitriptyline or nortriptyline for depression
 - •pimozide for psychiatric illness
 - •amphotericin B or voriconazole for fungal infections
@@ -78,6 +77,7 @@ Since there are many brand names for these medicines, check with your doctor or 
 - •have any other medical conditions
 - •are pregnant, plan to become pregnant, or think you might be pregnant.
   Your doctor will discuss whether fluconazole is right for you.
+  Women who can become pregnant should think about using effective birth control while taking fluconazole.
 - •are breast-feeding.
   Fluconazole can pass through breast milk to the baby.
 - •are allergic to any other medicines including those used to treat yeast and other fungal infections.
@@ -152,11 +152,13 @@ This leaflet summarizes the most important information about fluconazole.
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about fluconazole that is written for health professionals.
 
+*Trademarks are the property of their respective owners.
+
 Manufactured by:
 
 Glenmark Pharmaceuticals Ltd.
 
-Colvale-Bardez, Goa 403513, India
+Colvale-Bardez, Goa 403513, India.
 
 Manufactured for:
 
@@ -169,4 +171,4 @@ Questions?
 
 www.glenmarkpharma.com/usa
 
-December 2017
+April 2018

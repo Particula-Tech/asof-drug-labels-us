@@ -34,7 +34,7 @@ The recommended duration of treatment for initial therapy of cryptococcal mening
 The recommended dosage of fluconazole for suppression of relapse of cryptococcal meningitis in patients with AIDS is 200 mg once daily.
 
 Prophylaxis in patients undergoing bone marrow transplantation: The recommended fluconazole daily dosage for the prevention of candidiasis in patients undergoing bone marrow transplantation is 400 mg, once daily.
-Patients who are anticipated to have severe granulocytopenia (less than 500 neutrophils per cu mm) should start fluconazole prophylaxis several days before the anticipated onset of neutropenia, and continue for 7 days after the neutrophil count rises above 1000 cells per cu mm.
+Patients who are anticipated to have severe granulocytopenia (less than 500 neutrophils cells/mm3) should start fluconazole prophylaxis several days before the anticipated onset of neutropenia, and continue for 7 days after the neutrophil count rises above 1000 cells/mm3.
 
 Dosage and Administration in Children:
 
@@ -73,14 +73,14 @@ Dosage In Patients With Impaired Renal Function:
 
 Fluconazole is cleared primarily by renal excretion as unchanged drug.
 There is no need to adjust single dose therapy for vaginal candidiasis because of impaired renal function.
-In patients with impaired renal function who will receive multiple doses of fluconazole, an initial loading dose of 50 to 400 mg should be given.
+In patients with impaired renal function who will receive multiple doses of fluconazole, an initial loading dose of 50 mg to 400 mg should be given.
 After the loading dose, the daily dose (according to indication) should be based on the following table:
 
-| Creatinine Clearance (mL/min) | Percent of Recommended Dose |
+| Creatinine Clearance (mL/min) | Recommended Dose (%) |
 | --- | --- |
-| >50 | 100% |
-| ≤50 (no dialysis) | 50% |
-| Regular dialysis | 100% after each dialysis |
+| >50 | 100 |
+| ≤50 (no dialysis) | 50 |
+| Regular dialysis | 100 after each dialysis |
 
 Patients on regular dialysis should receive 100% of the recommended dose after each dialysis; on non-dialysis days, patients should receive a reduced dose according to their creatinine clearance.
 
@@ -89,24 +89,20 @@ Further adjustment may be needed depending upon clinical condition.
 
 When serum creatinine is the only measure of renal function available, the following formula (based on sex, weight, and age of the patient) should be used to estimate the creatinine clearance in adults:
 
-Males:
+Males: Weight (kg) × (140 – age)______
 
-Weight (kg) × (140 – age) 72 × serum creatinine (mg/100 mL)
-
-Females:
-
-0.85 × above value
+1. 72 × serum creatinine (mg/100 mL)
+2. Females: 0.85 × above value
 
 Although the pharmacokinetics of fluconazole has not been studied in children with renal insufficiency, dosage reduction in children with renal insufficiency should parallel that recommended for adults.
 The following formula may be used to estimate creatinine clearance in children:
 
-K × linear length or height (cm)
-
-serum creatinine (mg/100 mL)
+1. K × linear len gth or hei ght (cm)
+2. serum creatinine (mg/100 mL)
 
 (Where K=0.55 for children older than 1 year and 0.45 for infants.)
 
 Administration
 
-Fluconazole is administered orally.
-Fluconazole can be taken with or without food.
+Fluconazole tablets are administered orally.
+Fluconazole tablets can be taken with or without food.
