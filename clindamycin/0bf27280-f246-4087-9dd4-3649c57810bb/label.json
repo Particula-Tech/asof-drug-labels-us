@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA050801"
+  ],
+  "inn": "clindamycin",
+  "labeler": "Mylan Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "0378-8134-01",
+    "0378-8134-50",
+    "0378-8134-99"
+  ],
+  "products": [
+    {
+      "form": "AEROSOL, FOAM",
+      "generic": "clindamycin phosphate",
+      "name": "EVOCLIN"
+    }
+  ],
+  "setid": "0bf27280-f246-4087-9dd4-3649c57810bb",
+  "source": "dailymed"
+}
