@@ -9,7 +9,7 @@ In vitro, osimertinib also inhibited the activity of HER2, HER3, HER4, ACK1, and
 
 In cultured cells and animal tumor implantation models, osimertinib exhibited anti-tumor activity against NSCLC lines harboring EGFR-mutations (T790M/L858R, L858R, T790M/exon 19 deletion, and exon 19 deletion) and, to a lesser extent, wild-type EGFR amplifications.
 Osimertinib distributed to the brain in multiple animal species (monkey, rat, and mouse) with brain to plasma AUC ratios of approximately 2 following oral dosing.
-These data are consistent with observations of tumor regression and increased survival in osimertinib- versus control-treated animals in a pre-clinical mutant-EGFR intracranial mouse metastasis xenograft model (PC9; exon 19 del).
+These data are consistent with observations of tumor regression and increased survival in osimertinib- versus control-treated animals in a pre-clinical mutant-EGFR intracranial mouse metastasis xenograft model (PC9; exon 19 deletion).
 
 ## 12.2 Pharmacodynamics
 
@@ -36,11 +36,11 @@ Following administration of a 20 mg TAGRISSO tablet with a high-fat, high-calori
 
 Distribution
 
-The mean volume of distribution at steady-state (Vss/F) of osimertinib was 997 L. Plasma protein binding of osimertinib was 95%.
+The mean volume of distribution at steady-state (Vss/F) of osimertinib was 918 L. Plasma protein binding of osimertinib was 95%.
 
 Elimination
 
-Osimertinib plasma concentrations decreased with time and a population estimated mean half-life of osimertinib was 48 hours, and oral clearance (CL/F) was 14.2 (L/h).
+Osimertinib plasma concentrations decreased with time and a population estimated mean half-life of osimertinib was 48 hours, and oral clearance (CL/F) was 14.3 (L/h).
 
 Metabolism
 
@@ -55,10 +55,10 @@ Unchanged osimertinib accounted for approximately 2% of the elimination.
 
 Specific Populations
 
-No clinically significant differences in the pharmacokinetics of osimertinib were observed based on age, sex, ethnicity, body weight, baseline albumin, smoking status, mild (CLcr 60-89 mL/min, as estimated by C-G), moderate (CLcr 30-59 mL/min, as estimated by C-G), or severe (CLcr 15-29 mL/min) renal impairment, or mild (total bilirubin less than or equal to ULN and AST greater than ULN or total bilirubin between 1 to 1.5 times ULN and any AST) or moderate (total bilirubin between 1.5 to 3 times ULN and any AST) hepatic impairment.
-The pharmacokinetics of osimertinib in patients with end-stage renal disease (CLcr less than 15 mL/min) or with severe hepatic impairment (total bilirubin between 3 to 10 times ULN and any AST) are unknown.
+No clinically significant differences in the pharmacokinetics of osimertinib were observed based on age, sex, ethnicity, body weight, baseline albumin, line of therapy, smoking status, mild (CLcr 60-89 mL/min), moderate (CLcr 30-59 mL/min, as estimated by C-G), or severe (CLcr 15-29 mL/min) renal impairment, or mild (total bilirubin ≤ ULN and AST > ULN or total bilirubin between 1 to 1.5 times ULN and any AST) or moderate (total bilirubin between 1.5 to 3 times ULN and any AST) hepatic impairment.
+The pharmacokinetics of osimertinib in patients with end-stage renal disease (CLcr < 15 mL/min) or with severe hepatic impairment (total bilirubin between 3 to 10 times ULN and any AST) are unknown.
 
-Drug Interactions
+Drug Interaction Studies
 
 Effect of Other Drugs on TAGRISSO in Clinical Pharmacokinetic Studies
 
@@ -70,9 +70,9 @@ Gastric Acid Reducing Agents: The exposure of osimertinib was not affected by co
 
 Effect of Osimertinib on Other Drugs in Clinical Pharmacokinetic Studies
 
-BCRP substrates: Coadministering TAGRISSO with rosuvastatin (a BCRP substrate) increased rosuvastatin AUC by 35% and Cmax by 72% in a clinical pharmacokinetic study [see Drug Interactions (7.2)].
+BCRP substrates: Coadministering TAGRISSO with rosuvastatin (a BCRP substrate) increased rosuvastatin AUC by 35% and Cmax by 72% [see Drug Interactions (7.2)].
 
-CYP3A4 substrates: Coadministering TAGRISSO with simvastatin (a CYP3A4 substrate) had no clinically significant effect on the exposure of simvastatin in a clinical pharmacokinetic study.
+CYP3A4 substrates: Coadministering TAGRISSO with simvastatin (a CYP3A4 substrate) had no clinically significant effect on the exposure of simvastatin.
 
 In Vitro Studies
 

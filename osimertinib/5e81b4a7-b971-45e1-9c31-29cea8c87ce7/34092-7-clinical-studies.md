@@ -1,9 +1,73 @@
 # 14 CLINICAL STUDIES
 
-AURA3 Trial
+## 14.1 Previously Untreated EGFR Mutation-Positive Metastatic Non-Small Cell Lung Cancer
+
+The efficacy of TAGRISSO was demonstrated in a randomized, multicenter, double-blind, active-controlled trial (FLAURA [NCT02296125]) in patients with EGFR exon 19 deletion or exon 21 L858R mutation-positive, metastatic NSCLC, who had not received previous systemic treatment for metastatic disease.
+Patients were required to have measurable disease per RECIST v1.1, a WHO performance status of 0-1, and EGFR exon 19 deletion or exon 21 L858R mutation in tumor prospectively identified by the cobas® EGFR Mutation Test in a central laboratory or by an investigational assay at a CLIA-certified or accredited laboratory.
+Patients with CNS metastases not requiring steroids and with stable neurologic status for at least two weeks after completion of definitive surgery or radiotherapy were eligible.
+Patients were assessed at the investigator’s discretion for CNS metastases if they had a history of, or suspected, CNS metastases at study entry.
+
+Patients were randomized (1:1) to receive TAGRISSO 80 mg orally once daily or to receive gefitinib 250 mg orally once daily or erlotinib 150 mg orally once daily until disease progression or unacceptable toxicity.
+Randomization was stratified by EGFR mutation type (exon 19 deletion or exon 21 L858R mutation) and ethnicity (Asian or non-Asian).
+Patients randomized to the control arm were offered TAGRISSO at the time of disease progression if tumor samples tested positive for the EGFR T790M mutation.
+The major efficacy outcome measure was progression-free survival (PFS), as assessed by investigator.
+Additional efficacy outcome measures included overall survival (OS) and overall response rate (ORR).
+
+A total of 556 patients were randomized to TAGRISSO (n=279) or to control (gefitinib n=183; erlotinib n=94).
+The median age was 64 years (range 26-93 years); 54% were < 65 years of age; 63% were female; 62% were Asian and 64% were never smokers.
+Baseline WHO performance status was 0 (41%) or 1 (59%); 5% had Stage IIIb and 95% had Stage IV; and 7% received prior systemic cytotoxic chemotherapy as neoadjuvant or adjuvant therapy.
+With regard to EGFR tumor testing, 63% were exon 19 deletion and 37% were exon 21 L858R; 5 patients (<1%) also had a concomitant de novo T790M mutation.
+EGFR mutation status was confirmed centrally using the cobas EGFR Mutation Test in 90% of patients.
+Of those randomized to investigator’s choice of erlotinib or gefitinib, 55 patients (20%) received TAGRISSO as the next line of antineoplastic therapy.
+
+FLAURA demonstrated a statistically significant improvement in PFS for patients randomized to TAGRISSO as compared to erlotinib or gefitinib (see Table 6 and Figure 1).
+Overall survival data were not mature at the time of the final PFS analysis.
+
+Table 6.
+Efficacy Results in FLAURA according to Investigator Assessment
+
+| Efficacy Parameter | TAGRISSO (N=279) | EGFR TKI (gefitinib or erlotinib) (N=277) |
+| --- | --- | --- |
+| Progression-Free Survival (PFS) |  |  |
+| PFS events (%) | 136 (49) | 206 (74) |
+| Progressive disease (%) | 125 (45) | 192 (69) |
+| DeathWithout documented radiological disease progression (%) | 11 (4) | 14 (5) |
+| Median PFS in months (95% CI) | 18.9 (15.2, 21.4) | 10.2 (9.6, 11.4) |
+| Hazard Ratio (95% CI)Stratified by ethnicity (Asian vs. non-Asian) and mutation status (Ex19del vs. L858R)Pike estimator | 0.46 (0.37, 0.57) |  |
+| P-valueStratified log-rank test | P < 0.0001 |  |
+| Overall Response Rate (ORR) |  |  |
+| ORR % (95% CI) | 77 (71, 82) | 69 (63, 74) |
+| Complete response, % | 2% | 1% |
+| Partial response, % | 75% | 68% |
+| Duration of Response (DoR)Confirmed responses |  |  |
+| Median Duration (95% CI) | 17.6 (13.8, 22.0) | 9.6 (8.3, 11.1) |
+
+Figure 1.
+Kaplan-Meier Curves of PFS by Investigator Assessment in FLAURA
+
+In a supportive analysis of PFS according to blinded independent central review, median PFS was 17.7 months in the TAGRISSO arm compared to 9.7 months in the EGFR TKI comparator arm (HR=0.45; 95% CI: 0.36, 0.57).
+
+Of 556 patients, 200 patients (36%) had baseline brain scans reviewed by BICR; this included 106 patients in the TAGRISSO arm and 94 patients in the investigator choice of EGFR TKI arm.
+Of these 200 patients, 41 had measurable CNS lesions per RECIST v1.1.
+Results of pre-specified exploratory analyses of CNS ORR and DoR by BICR in the subset of patients with measurable CNS lesions at baseline are summarized in Table 7.
+
+Table 7.
+CNS ORR and DOR by BICR in Patients with Measurable CNS Lesions at Baseline in FLAURA
+
+|  | TAGRISSON=22 | EGFR TKI(gefitinib or erlotinib)N=19 |
+| --- | --- | --- |
+| CNS Tumor Response AssessmentAccording to RECIST v1.1.Based on confirmed response. |  |  |
+| CNS ORR, % (95% CI) | 77% (55, 92) | 63% (38, 84) |
+| Complete response | 18% | 0% |
+| Duration of CNS Response |  |  |
+| Number of responders | 17 | 12 |
+| Response Duration ≥6 months | 88% | 50% |
+| Response Duration ≥12 months | 47% | 33% |
+
+## 14.2 Previously Treated EGFR T790M Mutation-Positive Metastatic Non-Small Cell Lung Cancer
 
 The efficacy of TAGRISSO was demonstrated in a randomized, multicenter open-label, active-controlled trial in patients with metastatic EGFR T790M mutation-positive NSCLC who had progressed on prior systemic therapy, including an EGFR TKI (AURA3).
-All patients were required to have EGFR T790M mutation-positive NSCLC identified by the cobas® EGFR mutation test performed in a central laboratory prior to randomization.
+All patients were required to have EGFR T790M mutation-positive NSCLC identified by the cobas® EGFR Mutation Test performed in a central laboratory prior to randomization.
 
 A total of 419 patients were randomized 2:1 to receive TAGRISSO (n=279) or platinum-based doublet chemotherapy (n=140).
 Randomization was stratified by ethnicity (Asian vs. non-Asian).
@@ -11,7 +75,7 @@ Patients in the TAGRISSO arm received TAGRISSO 80 mg orally once daily until int
 Patients in the chemotherapy arm received pemetrexed 500 mg/m2 with carboplatin AUC5 or pemetrexed 500mg/m2 with cisplatin 75 mg/m2 on Day 1 of every 21-day cycle for up to 6 cycles.
 Patients whose disease had not progressed after four cycles of platinum-based chemotherapy could have received pemetrexed maintenance therapy (pemetrexed 500 mg/m2 on Day 1 of every 21-day cycle).
 
-The major efficacy outcome measure was progression-free survival (PFS) according to Response Evaluation Criteria in Solid Tumors (RECIST v1.1) by investigator assessment.
+The major efficacy outcome measure was progression free survival (PFS) according to Response Evaluation Criteria in Solid Tumors (RECIST v1.1) by investigator assessment.
 Additional efficacy outcome measures included objective response rate (ORR), duration of response (DoR), and overall survival (OS).
 Patients randomized to the chemotherapy arm who had radiological progression according to both investigator and blinded independent central review (BICR) were permitted to cross over to receive treatment with TAGRISSO.
 
@@ -19,76 +83,45 @@ The baseline demographic and disease characteristics of the overall trial popula
 Fifty-four percent (54%) of patients had extra-thoracic visceral metastases, including 34% with central nervous system (CNS) metastases (including 11% with measurable CNS metastases) and 23% with liver metastases.
 Forty-two percent (42%) of patients had metastatic bone disease.
 
-In AURA3, there was a statistically significant improvement in PFS in the patients randomized to TAGRISSO compared to chemotherapy (See Table 4 and Figure 1).
+In AURA3, there was a statistically significant improvement in PFS in the patients randomized to TAGRISSO compared to chemotherapy (See Table 8 and Figure 2).
 Overall survival data were not mature at the time of the PFS analysis.
 
-Table 4.
-AURA3 Efficacy Results According to Investigator Assessment
+Table 8.
+Efficacy Results According to Investigator Assessment in AURA3
 
-| Efficacy Parameter | TAGRISSO(N=279) | Chemotherapy(N=140) |
+| Efficacy Parameter | TAGRISSO (N=279) | Chemotherapy (N=140) |
 | --- | --- | --- |
 | Progression-Free Survival |  |  |
 | Number of events (%) | 140 (50) | 110 (79) |
 | Progressive disease | 129 (46) | 104 (74) |
 | DeathWithout documented radiological disease progression | 11 (4) | 6 (4) |
 | Median PFS in months (95% CI) | 10.1 (8.3, 12.3) | 4.4 (4.2, 5.6) |
-| Hazard Ratio (95% CI)Stratified by ethnicity (Asian vs. non-Asian)Pike estimator | 0.30 (0.23, 0.41) |  |
+| Hazard Ratio (95% CI)Stratified by ethnicity (Asian vs. non-Asian)Pike estimator | 0.30 (0.23,0.41) |  |
 | P-valueStratified log-rank test | <0.001 |  |
-| Objective Response RateConfirmed |  |  |
-| Objective Response Rate | 65% | 29% |
-| (95% CI)Chi-square test | (59%, 70%) | (21%, 37%) |
+| Overall Response RateConfirmed |  |  |
+| Overall Response Rate | 65% | 29% |
+| (95% CI) | (59%, 70%) | (21%, 37%) |
 | Complete response | 1% | 1% |
 | Partial response | 63% | 27% |
-| P-value | <0.001 |  |
+| P-valueLogistic regression analysis | <0.001 |  |
 | Duration of Response (DoR) |  |  |
 | Median Duration of Response in months (95% CI) | 11.0 (8.6, 12.6) | 4.2 (3.0, 5.9) |
 
-Figure 1.
-Kaplan-Meier Curves of PFS by Investigator Assessment in AURA3
+In a supportive analysis of PFS according to blinded independent central review, median PFS was 11 months in the TAGRISSO arm compared to 4.2 months in the chemotherapy arm (HR 0.28; 95% CI: 0.20, 0.38).
 
-In a sensitivity analysis of PFS according to blinded independent central review, median PFS was 11 months in the TAGRISSO arm compared to 4.2 months in the chemotherapy arm (HR 0.28; 95% CI: 0.20, 0.38).
+Of 419 patients, 205 (49%) had baseline brain scans reviewed by BICR; this included 134 (48%) patients in the TAGRISSO arm and 71 (52%) patients in the chemotherapy arm.
+Assessment of CNS efficacy by RECIST v1.1 was performed in the subgroup of 46/419 (11%) patients identified by BICR to have measurable CNS lesions on a baseline brain scan.
+Results are summarized in Table 9.
 
-CNS Metastases Efficacy Data in AURA3
+Table 9.
+CNS ORR and DoR by BICR in Patients with Measurable CNS Lesions at Baseline in AURA3
 
-A BICR assessment of CNS efficacy by RECIST 1.1 in the subgroup of 46/419 (11%) patients identified to have measurable CNS lesions on a baseline brain scan are summarized in Table 5.
-
-Table 5.
-CNS Efficacy by BICR in Patients with Measurable CNS Lesions at Baseline Brain Scan in AURA3
-
-| Efficacy Parameter | TAGRISSON=30 | ChemotherapyN=16 |
+|  | TAGRISSON=30 | ChemotherapyN=16 |
 | --- | --- | --- |
-| CNS Objective Response RateAccording to RECIST v1.1.Based on confirmed response. |  |  |
-| CNS Objective Response Rate | 57% | 25% |
-| (95% CI) | (37%, 75%) | (7%, 52%) |
+| CNS Tumor Response AssessmentAccording to RECIST v1.1Based on confirmed response |  |  |
+| CNS ORR, % (95% CI) | 57% (37, 75) | 25% (7. 52) |
 | Complete response | 7% | 0% |
-| Partial response | 50% | 25% |
-| CNS Duration of ResponseBased on patients with response only; DoR defined as the time from the date of first documented response (complete response or partial response) until progression or death event. |  |  |
-| Median Duration of Response, Months(Range) | NR (1.4, 12.5) | 5.7 (1.4, 5.7) |
-| NR Not Reached |  |  |
-
-Pretreated T790M Positive NSCLC Patients – AURA Extension and AURA2
-
-The efficacy of TAGRISSO was demonstrated in two multicenter, single-arm, open-label clinical trials, AURA Extension and AURA2, in patients with metastatic EGFR T790M mutation-positive NSCLC who had progressed on prior systemic therapy, including an EGFR TKI.
-All patients were required to have EGFR T790M mutation-positive NSCLC as detected by the cobas® EGFR mutation test and received TAGRISSO 80 mg once daily.
-The major efficacy outcome measure of both trials was ORR according to RECIST v1.1 as evaluated by a Blinded Independent Central Review (BICR).
-Duration of response (DOR) and Progression-Free Survival (PFS) were additional outcome measures.
-
-AURA Extension and AURA2 population characteristics were: median age 63 years (range 35 to 89), female (68%), White (36%), Asian (60%), never smoker (72%), World Health Organization (WHO) performance status 0 (37%) or 1 (63%), adenocarcinoma histology (96%), 1 prior line of therapy [EGFR-TKI treatment only, second line, chemotherapy-naïve] (31%), 2 or more prior lines of therapy (69%).
-Fifty-nine percent (59%) of patients had extra-thoracic visceral metastasis including 39% with CNS metastases (identified by CNS lesion site at baseline, medical history, and/or prior surgery and/or prior radiotherapy to CNS metastases) and 29% with liver metastases.
-47% of patients had metastatic bone disease.
-Somatic EGFR mutations in addition to T790M were exon 19 deletion (68%), L858R (29%), G719X (2%), and S768I (2%).
-
-Efficacy results by BICR from AURA Extension and AURA2 are summarized in Table 6.
-The majority (96%) of patients with confirmed objective responses had ongoing responses ranging from 1.1 to 5.6 months after a median duration of follow-up of 4.2 months for AURA Extension and 4.0 months for AURA2.
-
-Table 6.
-Efficacy Results by BICR in AURA Extension and AURA2
-
-| Efficacy Parameter | Study 1 (N=201) | Study 2 (N=210) | OverallPooled analysis of AURA Extension and AURA2(N=411) |
-| --- | --- | --- | --- |
-| Objective Response RateObjective response rate according to RECIST v1.1. (95% CI) | 57% (50, 64) | 61% (54, 68) | 59%(54, 64) |
-| Complete Response | 0 | 1% | 0.5% |
-| Partial Response | 57% | 60% | 59% |
-
-In a separate dose finding part of AURA Extension, 63 patients with centrally confirmed T790M-positive NSCLC progressed on prior systemic therapy, including an EGFR TKI were administered TAGRISSO 80 mg.
-In these patients, the BICR-confirmed objective response rate was 51% (32/63) and the median duration of response was 12.4 months from the time of first documented response.
+| Duration of CNS ResponseBased on patients with response only; DoR definedas the time from the date of first documented response (complete response or partial response) until progression or death event. |  |  |
+| Number of responders | 17 | 4 |
+| Response Duration ≥ 6 months | 47% | 0 |
+| Response Duration ≥ 9 months | 12% | 0 |

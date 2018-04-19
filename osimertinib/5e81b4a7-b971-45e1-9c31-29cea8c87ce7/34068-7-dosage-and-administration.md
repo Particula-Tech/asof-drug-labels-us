@@ -2,14 +2,20 @@
 
 ## 2.1 Patient Selection
 
-Confirm the presence of a T790M EGFR mutation in tumor or plasma specimens prior to initiation of treatment with TAGRISSO [see Indications and Usage (1) and Clinical Studies (14)].
-Testing for the presence of the mutation in plasma specimens is recommended only in patients for whom a tumor biopsy cannot be obtained.
+Select patients for the first-line treatment of metastatic EGFR-positive NSCLC with TAGRISSO based on the presence of EGFR exon 19 deletions or exon 21 L858R mutations in tumor specimens [see Clinical Studies (14)].
+If these mutations are not detected in a plasma specimen, test tumor tissue if feasible.
+
+Select patients for the treatment of metastatic EGFR T790M mutation-positive NSCLC with TAGRISSO following progression on or after EGFR TKI therapy based on the presence of an EGFR T790M mutation in tumor or plasma specimens [see Clinical Studies (14)].
+Testing for the presence of the T790M mutation in plasma specimens is recommended only in patients for whom a tumor biopsy cannot be obtained.
 If this mutation is not detected in a plasma specimen, re-evaluate the feasibility of biopsy for tumor tissue testing.
-Information on FDA-approved tests for the detection of T790M mutations is available at http://www.fda.gov/companiondiagnostics.
+
+Information on FDA-approved tests for the detection of EGFR mutations is available at http://www.fda.gov/companiondiagnostics.
+
+.
 
 ## 2.2 Recommended Dosage Regimen
 
-The recommended dose of TAGRISSO is 80 mg tablet once a day until disease progression or unacceptable toxicity.
+The recommended dosage of TAGRISSO is 80 mg tablet once a day until disease progression or unacceptable toxicity.
 TAGRISSO can be taken with or without food.
 
 If a dose of TAGRISSO is missed, do not make up the missed dose and take the next dose as scheduled.
@@ -24,19 +30,19 @@ Rinse the container with 120 mL to 240 mL (4 to 8 ounces of) water and immediate
 If administration via nasogastric tube is required, disperse the tablet as above in 15 mL of non-carbonated water, and then use an additional 15 mL of water to transfer any residues to the syringe.
 The resulting 30 mL liquid should be administered as per the nasogastric tube instructions with appropriate water flushes (approximately 30 mL).
 
-## 2.4 Dosage Modification
+## 2.4 Dosage Modifications
 
 Adverse Reactions
 
 Table 1.
-Recommended Dose Modifications for TAGRISSO
+Recommended Dosage Modifications for TAGRISSO
 
-| Target Organ | Adverse ReactionAdverse reactions graded by the National Cancer Institute Common Terminology Criteria for Adverse Events version 4.0 (NCI CTCAE v4.0). | Dose Modification |
+| Target Organ | Adverse ReactionAdverse reactions graded by the National Cancer Institute Common Terminology Criteria for Adverse Events version 4.0 (NCI CTCAE v4.0). | Dosage Modification |
 | --- | --- | --- |
 | Pulmonary | Interstitial lung disease (ILD)/Pneumonitis | Permanently discontinue TAGRISSO. |
 | Cardiac | QTcQTc = QT interval corrected for heart rate interval greater than 500 msec on at least 2 separate ECGsECGs = Electrocardiograms | Withhold TAGRISSO until QTc interval is less than 481 msec or recovery to baseline if baseline QTc is greater than or equal to 481 msec, then resume at 40 mg dose. |
 | QTc interval prolongation with signs/symptoms of life-threatening arrhythmia | Permanently discontinue TAGRISSO. |  |
-| Symptomatic congestive heart failure or asymptomatic left ventricular dysfunction that persists ≥4 weeks | Permanently discontinue TAGRISSO. |  |
+| Symptomatic congestive heart failure | Permanently discontinue TAGRISSO. |  |
 | Other | Adverse reaction of Grade 3 or greater severity | Withhold TAGRISSO for up to 3 weeks. |
 | If improvement to Grade 0-2 within 3 weeks | Resume at 80 mg or 40 mg daily. |  |
 | If no improvement within 3 weeks | Permanently discontinue TAGRISSO. |  |
@@ -44,4 +50,4 @@ Recommended Dose Modifications for TAGRISSO
 Drug Interactions
 
 Strong CYP3A4 Inducers If concurrent use is unavoidable, increase TAGRISSO dosage to 160 mg daily when coadministering with a strong CYP3A inducer.
-Resume TAGRISSO at 80 mg 3 weeks after discontinuation of the strong CYP3A4 inducer [see Drug Interactions (7), and Clinical Pharmacology (12.3)].
+Resume TAGRISSO at 80 mg 3 weeks after discontinuation of the strong CYP3A4 inducer [see Drug Interactions (7) and Clinical Pharmacology (12.3)].

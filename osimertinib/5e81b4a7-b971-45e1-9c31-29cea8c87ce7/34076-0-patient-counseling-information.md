@@ -12,9 +12,10 @@ QTc Interval Prolongation
 Inform patients of symptoms that may be indicative of significant QTc prolongation including dizziness, lightheadedness, and syncope.
 Advise patients to report these symptoms and to inform their physician about the use of any heart or blood pressure medications [see Warnings and Precautions (5.2)].
 
+Cardiomyopathy
+
 - •TAGRISSO can cause cardiomyopathy.
-  Advise patients to immediately report any signs or symptoms
-- •of heart failure to their healthcare provider [see Warnings and Precautions (5.3)].
+  Advise patients to immediately report any signs or symptoms of heart failure to their healthcare provider [see Warnings and Precautions (5.3)].
 
 Keratitis
 
@@ -39,4 +40,4 @@ Distributed by: AstraZeneca Pharmaceuticals LP Wilmington, DE 19850
 
 TAGRISSO is a registered trademark of the AstraZeneca group of companies.
 
-©AstraZeneca 2017
+©AstraZeneca 2018
