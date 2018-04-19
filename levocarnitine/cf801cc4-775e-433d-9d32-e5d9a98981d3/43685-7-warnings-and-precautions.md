@@ -1,6 +1,13 @@
 # WARNINGS
 
-None.
+## Hypersensitivity Reactions
+
+Serious hypersensitivity reactions, including anaphylaxis, laryngeal edema, and bronchospasm have been reported following CARNITOR® administration, mostly in patients with end stage renal disease who are undergoing dialysis.
+Some reactions occurred within minutes after intravenous administration of CARNITOR®.
+
+If a severe hypersensitivity reaction occurs, discontinue CARNITOR® treatment and initiate appropriate medical treatment.
+Consider the risks and benefits of re-administering CARNITOR® to individual patients following a severe reaction.
+If the decision is made to re-administer the product, monitor patients for a reoccurrence of signs and symptoms of a severe hypersensitivity reaction.
 
 # PRECAUTIONS
 
@@ -20,8 +27,6 @@ Mutagenicity tests performed in Salmonella typhimurium, Saccharomyces cerevisiae
 No long-term animal studies have been performed to evaluate the carcinogenic potential of levocarnitine.
 
 ## Pregnancy
-
-Pregnancy Category B.
 
 Reproductive studies have been performed in rats and rabbits at doses up to 3.8 times the human dose on the basis of surface area and have revealed no evidence of impaired fertility or harm to the fetus due to CARNITOR®.
 There are, however, no adequate and well controlled studies in pregnant women.

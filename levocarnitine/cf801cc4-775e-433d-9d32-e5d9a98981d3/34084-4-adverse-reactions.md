@@ -1,11 +1,10 @@
 # ADVERSE REACTIONS
 
+## Clinical Trials Experience
+
 Transient nausea and vomiting have been observed.
 Less frequent adverse reactions are body odor, nausea, and gastritis.
 An incidence for these reactions is difficult to estimate due to the confounding effects of the underlying pathology.
-
-Seizures have been reported to occur in patients, with or without pre-existing seizure activity, receiving either oral or intravenous levocarnitine.
-In patients with pre-existing seizure activity, an increase in seizure frequency and/or severity has been reported.
 
 The table below lists the adverse events that have been reported in two double-blind, placebo-controlled trials in patients on chronic hemodialysis.
 Events occurring at ≥5% are reported without regard to causality.
@@ -89,3 +88,12 @@ Adverse Events with a Frequency ≥5% Regardless of Causality by Body System
 | Urogenital |  |  |  |  |  |
 | Urinary tract infect | 6 | 3 | 3 |  | 2 |
 | Kidney failure | 5 | 6 | 6 | 6 | 6 |
+
+## Postmarketing Experience
+
+The following adverse reactions have been reported:
+
+Neurologic Reactions: Seizures have been reported to occur in patients, with or without pre-existing seizure activity, receiving either oral or intravenous levocarnitine.
+In patients with pre-existing seizure activity, an increase in seizure frequency and/or severity has been reported.
+
+Hypersensitivity reactions: Anaphylaxis, laryngeal edema and bronchospasm (see WARNINGS).

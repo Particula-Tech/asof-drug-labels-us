@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL - CARTON LABEL
 
-Carnitor® (levocarnitine)
+CARNITOR® (levocarnitine)
 
 Injection 1g/5mL [200 mg/mL]
 
@@ -8,7 +8,7 @@ FOR INTRAVENOUS USE ONLY
 
 US Patent Nos, 6,335,369; 6,429,230; 6,696,493
 
-Carnitor® (levocarnitine)
+CARNITOR® (levocarnitine)
 
 Injection 1g/5mL [200 mg/mL]
 

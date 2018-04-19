@@ -51,4 +51,4 @@
     Quantitative estimation of absorption and degradation of a carnitine supplement by human adults.
     Metabolism 40:1305-1310.
 
-PREVIOUS EDITION IS OBSOLETE Date of Issue: 02/17 VPI-14
+PREVIOUS EDITION IS OBSOLETE Date of Issue: 04/18 VPI-15
