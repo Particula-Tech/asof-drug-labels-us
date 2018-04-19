@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL
 
-CARNITOR (levocarnitine)
+CARNITOR® (levocarnitine)
 
 330 mg tablets
 
