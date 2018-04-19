@@ -9,10 +9,11 @@ Carton of 60 individually wrapped unit dose vials, NDC 49502-605-61
 
 Storage and Handling:
 
-Prior to dispensing to the patient: Store in a refrigerator, 2°C to 8°C (36°F to 46°F)
+Prior to dispensing to the patient: Store in a refrigerator, 2°C to 8°C (36°F to 46°F).
+Protect pouch from light and heat.
 
-After dispensing to the patient: Store at 2°C to 25°C (36°F to 77°F) for up to 3 months.
-Protect pouch from heat.
+After dispensing to the patient: Store in a refrigerator at 2°C to 8°C (36°F to 46°F) and discard when drug expires or store at room temperature, 20°C to 25°C (68°F to 77°F) and discard if not used after 3 months.
+Protect pouch from light and heat.
 
 - •PERFOROMIST Inhalation Solution should only be administered via a standard jet nebulizer connected to an air compressor with an adequate airflow and equipped with a facemask or mouthpiece.
 - •Vial should always be stored in the foil pouch, and only removed IMMEDIATELY before use.

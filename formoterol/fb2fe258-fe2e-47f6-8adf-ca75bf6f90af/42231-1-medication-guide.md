@@ -154,8 +154,7 @@ If you would like more information, talk with your health care provider.
 You can ask your health care provider or pharmacist for information about PERFOROMIST Inhalation Solution that was written for health care professionals.
 
 - •For customer service, call 1-800-395-3376
-- •To report side effects, call 1-877-446-3679
-- •For medical information, call 1-800-429-7751
+- •To report side effects and for medical information, call 1-877-446-3679
 
 Instructions for Using PERFOROMIST (formoterol fumarate) Inhalation Solution
 
@@ -186,4 +185,4 @@ Manufactured by: The Ritedose Corporation Columbia, SC 29203 U.S.A.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration
 
-Revised: 3/2013 MG:FORMIS:R1
+Revised: 3/2018 MG:FORMIS:R2
