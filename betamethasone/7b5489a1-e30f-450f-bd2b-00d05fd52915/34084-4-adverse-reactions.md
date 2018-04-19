@@ -39,7 +39,7 @@ Arachnoiditis, meningitis, paraparesis/paraplegia, and sensory disturbances have
 
 ## Ophthalmic
 
-Exophthalmos, glaucoma, increased intraocular pressure, posterior subcapsular cataracts, rare instances of blindness associated with periocular injections.
+Exophthalmos, glaucoma, increased intraocular pressure, posterior subcapsular cataracts, rare instances of blindness associated with periocular injections, vision blurred.
 
 ## Other
 

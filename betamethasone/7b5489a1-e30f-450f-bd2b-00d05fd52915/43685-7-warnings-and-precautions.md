@@ -11,7 +11,8 @@ The safety and effectiveness of epidural administration of corticosteroids have 
 
 ## General
 
-Rare instances of anaphylactoid reactions have occurred in patients receiving corticosteroid therapy (see ADVERSE REACTIONS).
+Rare instances of anaphylactoid/anaphylactic reactions with a possibility of shock have occurred in patients receiving parenteral corticosteroid therapy (see ADVERSE REACTIONS).
+Use caution in patients who have a history of allergic reactions to corticosteroids.
 
 In patients on corticosteroid therapy subjected to any unusual stress, hydrocortisone or cortisone is the drug of choice as a supplement during and after the event.
 
@@ -91,7 +92,8 @@ High doses of corticosteroids, including CELESTONE SOLUSPAN, should not be used 
 
 ## Ophthalmic
 
-Use of corticosteroids may produce posterior subcapsular cataracts, glaucoma with possible damage to the optic nerves, and may enhance the establishment of secondary ocular infections due to bacteria, fungi, or viruses.
+Use of corticosteroids may produce posterior subcapsular cataracts, increased intraocular pressure, glaucoma with possible damage to the optic nerves, and may enhance the establishment of secondary ocular infections due to bacteria, fungi, or viruses.
+Consider referral to an ophthalmologist for patients who develop ocular symptoms or use corticosteroid-containing products for more than 6 weeks.
 The use of oral corticosteroids is not recommended in the treatment of optic neuritis and may lead to an increase in the risk of new episodes.
 Corticosteroids should not be used in active ocular herpes simplex.
 
@@ -162,11 +164,6 @@ Clinical improvement or recovery after stopping corticosteroids may require week
 
 Psychic derangements may appear when corticosteroids are used, ranging from euphoria, insomnia, mood swings, personality changes, and severe depression to frank psychotic manifestations.
 Also, existing emotional instability or psychotic tendencies may be aggravated by corticosteroids.
-
-## Ophthalmic
-
-Intraocular pressure may become elevated in some individuals.
-If steroid therapy is continued for more than 6 weeks, intraocular pressure should be monitored.
 
 ## Information for Patients
 
