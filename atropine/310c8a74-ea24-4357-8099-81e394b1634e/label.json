@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA209260"
+  ],
+  "inn": "atropine",
+  "labeler": "Fresenius Kabi USA, LLC",
+  "package_ndcs": [
+    "63323-580-20"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "atropine sulfate",
+      "name": "Atropine Sulfate"
+    }
+  ],
+  "setid": "310c8a74-ea24-4357-8099-81e394b1634e",
+  "source": "dailymed"
+}
