@@ -2,7 +2,9 @@
 
 ## 8.1 Pregnancy
 
-Risk Summary Neonatal opioid withdrawal syndrome (NOWS) is an expected and treatable outcome of prolonged use of opioids during pregnancy [see Warnings and Precautions (5.5)].
+Risk Summary
+
+Neonatal opioid withdrawal syndrome (NOWS) is an expected and treatable outcome of prolonged use of opioids during pregnancy [see Warnings and Precautions (5.6)].
 
 Pregnant women in methadone maintenance programs may have reduced incidence of obstetric and fetal complications and neonatal morbidity and mortality when compared to women using illicit drugs.
 Untreated opioid addiction in pregnancy is associated with adverse obstetrical outcomes and risk of continued or relapsing illicit opioid use.
@@ -18,28 +20,32 @@ The estimated background risk of major birth defects and miscarriage for the ind
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
-Clinical Considerations Disease-Associated Maternal and Embryo-Fetal Risk: Untreated opioid addiction in pregnancy is associated with adverse obstetrical outcomes such as low birth weight, preterm birth, and fetal death.
+Clinical Considerations
+
+Disease-Associated Maternal and Embryo-Fetal Risk: Untreated opioid addiction in pregnancy is associated with adverse obstetrical outcomes such as low birth weight, preterm birth, and fetal death.
 In addition, untreated opioid addiction often results in continued or relapsing illicit opioid use.
 
 Dosage Adjustment During Pregnancy: The disposition of oral methadone has been studied in approximately 30 pregnant patients in 2nd and 3rd trimesters.
 Total body clearance of methadone was increased in pregnant patients compared to the same patients postpartum or to non-pregnant opioid-dependent women.
 The terminal half-life of methadone is decreased during 2nd and 3rd trimesters.
 The decrease in plasma half-life and increased clearance of methadone resulting in lower methadone trough levels during pregnancy can lead to withdrawal symptoms in some pregnant patients.
-The dosage may need to be increased or the dosing interval decreased in pregnant patients receiving methadone hydrochloride tablets for oral suspension to achieve therapeutic effect [see Dosage and Administration (2.8)].
+The dosage may need to be increased or the dosing interval decreased in pregnant patients receiving methadone hydrochloride tablets for oral suspension to achieve therapeutic effect [see Dosage and Administration (2.9)].
 
 Fetal/Neonatal Adverse Reactions: Neonatal opioid withdrawal syndrome may occur in newborn infants of mothers who are receiving treatment with methadone hydrochloride tablets for oral suspension.
 
 Neonatal opioid withdrawal syndrome presents as irritability, hyperactivity and abnormal sleep pattern, high-pitched cry, tremor, vomiting, diarrhea, and/or failure to gain weight.
 Signs of neonatal withdrawal usually occur in the first days after birth.
 The duration and severity of neonatal opioid withdrawal syndrome may vary.
-Observe newborns for signs of neonatal opioid withdrawal syndrome and manage accordingly [see Warnings and Precautions (5.5)].
+Observe newborns for signs of neonatal opioid withdrawal syndrome and manage accordingly [see Warnings and Precautions (5.6)].
 
 Labor or Delivery: Opioids cross the placenta and may produce respiratory depression and psycho-physiologic effects in neonates.
 An opioid antagonist, such as naloxone, must be available for reversal of opioid-induced respiratory depression in the neonate.
 Opioids, including methadone hydrochloride tablets for oral suspension can prolong labor through actions which temporarily reduce the strength, duration, and frequency of uterine contractions.
 However, this effect is not consistent and may be offset by an increased rate of cervical dilation, which tends to shorten labor.
 
-Human Data Reported studies have generally compared the benefit of methadone to the risk of untreated addiction to illicit drugs.
+Human Data
+
+Reported studies have generally compared the benefit of methadone to the risk of untreated addiction to illicit drugs.
 Pregnant women involved in methadone maintenance programs have been reported to have significantly improved prenatal care leading to significantly reduced incidence of obstetric and fetal complications and neonatal morbidity and mortality when compared to women using illicit drugs.
 Several factors, including maternal use of illicit drugs, nutrition, infection and psychosocial circumstances, complicate the interpretation of investigations of the children of women who take methadone during pregnancy.
 Information is limited regarding dose and duration of methadone use during pregnancy, and most maternal exposure appears to occur after the first trimester of pregnancy.

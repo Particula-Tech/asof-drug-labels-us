@@ -12,7 +12,7 @@ Each METHADOSE™ Dispersible Tablet contains 40 mg of methadone hydrochloride, 
 Each Methadone Hydrochloride Tablet USP (dispersible, orange flavored) contains 40 mg of methadone hydrochloride, USP and the following inactive ingredients: colloidal silicon dioxide; monobasic potassium phosphate; magnesium stearate; microcrystalline cellulose; pregelatinized starch; stearic acid; orange blend: FD&C yellow #6, FD&C yellow #6 lake, and FD&C yellow #5 lake; orange flavor.
 
 Methadone hydrochloride tablets for oral suspension are cross-scored, allowing for flexible dosage adjustment.
-Each tablet may be broken or cut in half to yield two 20 mg doses, or in quarters to yield four 10 mg doses.
+Each tablet may be broken or cut in half to yield two 20-mg doses, or in quarters to yield four 10-mg doses.
 
 Methadone hydrochloride tablets for oral suspension are for oral administration following dispersion in a liquid.
 

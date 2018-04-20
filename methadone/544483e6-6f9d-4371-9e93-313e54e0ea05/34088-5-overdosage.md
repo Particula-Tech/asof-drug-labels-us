@@ -6,7 +6,7 @@ In severe overdosage, particularly by the intravenous route, apnea, circulatory 
 
 Treatment of Overdose In case of overdose, priorities are the re-establishment of a patent and protected airway and institution of assisted or controlled ventilation if needed.
 Employ other supportive measures (including oxygen, vasopressors) in the management of circulatory shock and pulmonary edema as indicated.
-Cardiac arrest or arrhythmias will require advanced life support techniques.
+Cardiac arrest or arrhythmias will require advanced life-support techniques.
 
 The opioid antagonists, such as naloxone or nalmefene, are specific antidotes to respiratory depression resulting from opioid overdose.
 For clinically significant respiratory or circulatory depression secondary to methadone overdose, administer an opioid antagonist.

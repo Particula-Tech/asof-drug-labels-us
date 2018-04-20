@@ -7,7 +7,7 @@ Methadone hydrochloride tablets for oral suspension contain methadone, a Schedul
 ## 9.2 Abuse
 
 Methadone hydrochloride tablets for oral suspension contain methadone, a substance with a high potential for abuse similar to other opioids including fentanyl, hydrocodone, hydromorphone, morphine, oxycodone, oxymorphone, and tapentadol.
-Methadone hydrochloride tablets for oral suspension can be abused and is subject to misuse, addiction, and criminal diversion [see Warnings and Precautions (5.4)].
+Methadone hydrochloride tablets for oral suspension can be abused and is subject to misuse, addiction, and criminal diversion [see Warnings and Precautions (5.5)].
 
 Prescription drug abuse is the intentional non-therapeutic use of a prescription drug, even once, for its rewarding psychological or physiological effects.
 
@@ -43,9 +43,9 @@ Withdrawal is also precipitated through the administration of drugs with opioid 
 Physical dependence may not occur to a clinically significant degree until after several days to weeks of continued opioid usage.
 Physical dependence is expected during opioid agonist therapy of opioid addiction.
 
-Methadone hydrochloride tablets for oral suspension should not be abruptly discontinued [see Dosage and Administration (2.4), (2.5)].
+Methadone hydrochloride tablets for oral suspension should not be abruptly discontinued [see Dosage and Administration (2.5), (2.6)].
 If methadone hydrochloride tablets for oral suspension are abruptly discontinued in a physically dependent patient, a withdrawal syndrome may occur.
 Some or all of the following can characterize this syndrome: restlessness, lacrimation, rhinorrhea, yawning, perspiration, chills, myalgia, and mydriasis.
 Other symptoms also may develop, including irritability, anxiety, backache, joint pain, weakness, abdominal cramps, insomnia, nausea, anorexia, vomiting, diarrhea, or increased blood pressure, respiratory rate, or heart rate.
 
-Neonatal opioid withdrawal syndrome (NOWS) is an expected and treatable outcome of prolonged use of opioids during pregnancy [see Warnings and Precautions (5.5)].
+Neonatal opioid withdrawal syndrome (NOWS) is an expected and treatable outcome of prolonged use of opioids during pregnancy [see Warnings and Precautions (5.6)].

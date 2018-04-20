@@ -38,7 +38,7 @@ The clinical significance of these findings is unknown.
 Overall, the effects of opioids appear to be modestly immunosuppressive.
 
 Concentration-Adverse Reaction Relationships There is a relationship between increasing methadone plasma concentration and increasing frequency of dose-related opioid adverse reactions such as nausea, vomiting, CNS effects, and respiratory depression.
-In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.3), (2.4), (2.5)].
+In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.4), (2.5), (2.6)].
 
 ## 12.3 Pharmacokinetics
 
@@ -52,7 +52,7 @@ In plasma, methadone is predominantly bound to α1-acid glycoprotein (85% to 90%
 Methadone is secreted in saliva, breast milk, amniotic fluid and umbilical cord plasma.
 
 Elimination Metabolism: Methadone is primarily metabolized by N-demethylation to an inactive metabolite, 2-ethylidene-1,5-dimethyl-3,3-diphenylpyrrolidene (EDDP).
-Cytochrome P450 enzymes, primarily CYP3A4, CYP2B6, CYP2C19 CYP2C9 and CYP2D6, are responsible for conversion of methadone to EDDP and other inactive metabolites, which are excreted mainly in the urine.
+Cytochrome P450 enzymes, primarily CYP3A4, CYP2B6, CYP2C19, CYP2C9 and CYP2D6, are responsible for conversion of methadone to EDDP and other inactive metabolites, which are excreted mainly in the urine.
 Methadone appears to be a substrate for P-glycoprotein but its pharmacokinetics do not appear to be significantly altered in case of P-glycoprotein polymorphism or inhibition.
 
 Excretion: The elimination of methadone is mediated by extensive biotransformation, followed by renal and fecal excretion.
@@ -83,7 +83,7 @@ Dose reduction of methadone may be needed [see Drug Interactions (7)].
 
 Antiretroviral Drugs: Although antiretroviral drugs such as efavirenz, nelfinavir, nevirapine, ritonavir, telaprevir, lopinavir+ritonavir combination are known to inhibit some CYPs, they are shown to reduce the plasma levels of methadone, possibly due to CYP induction activity.
 
-Abacavir, amprenavir, darunavir+ritonavir, efavirenz, nelfinavir, nevirapine, ritonavir, telaprevir, lopinavir+ritonavir, saquinavir+ritonavir, tipranvir+ritonavir combination: Coadministration of these antiretroviral agents resulted in increased clearance or decreased plasma levels of methadone [see Drug Interactions (7)].
+Abacavir, amprenavir, darunavir+ritonavir, efavirenz, nelfinavir, nevirapine, ritonavir, telaprevir, lopinavir+ritonavir, saquinavir+ritonavir, tipranavir+ritonavir combination: Coadministration of these antiretroviral agents resulted in increased clearance or decreased plasma levels of methadone [see Drug Interactions (7)].
 
 Didanosine and Stavudine: Methadone decreased the AUC and peak levels for didanosine and stavudine, with a more significant decrease for didanosine.
 Methadone disposition was not substantially altered [see Drug Interactions (7)].
