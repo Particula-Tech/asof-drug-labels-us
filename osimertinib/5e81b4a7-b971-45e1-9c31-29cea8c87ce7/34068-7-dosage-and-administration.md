@@ -2,7 +2,7 @@
 
 ## 2.1 Patient Selection
 
-Select patients for the first-line treatment of metastatic EGFR-positive NSCLC with TAGRISSO based on the presence of EGFR exon 19 deletions or exon 21 L858R mutations in tumor specimens [see Clinical Studies (14)].
+Select patients for the first-line treatment of metastatic EGFR-positive NSCLC with TAGRISSO based on the presence of EGFR exon 19 deletions or exon 21 L858R mutations in tumor or plasma specimens [see Clinical Studies (14)].
 If these mutations are not detected in a plasma specimen, test tumor tissue if feasible.
 
 Select patients for the treatment of metastatic EGFR T790M mutation-positive NSCLC with TAGRISSO following progression on or after EGFR TKI therapy based on the presence of an EGFR T790M mutation in tumor or plasma specimens [see Clinical Studies (14)].
@@ -10,8 +10,6 @@ Testing for the presence of the T790M mutation in plasma specimens is recommende
 If this mutation is not detected in a plasma specimen, re-evaluate the feasibility of biopsy for tumor tissue testing.
 
 Information on FDA-approved tests for the detection of EGFR mutations is available at http://www.fda.gov/companiondiagnostics.
-
-.
 
 ## 2.2 Recommended Dosage Regimen
 

@@ -107,6 +107,9 @@ Efficacy Results According to Investigator Assessment in AURA3
 | Duration of Response (DoR) |  |  |
 | Median Duration of Response in months (95% CI) | 11.0 (8.6, 12.6) | 4.2 (3.0, 5.9) |
 
+Figure 2.
+Kaplan-Meier Curves of PFS by Investigator Assessment in Aura 3
+
 In a supportive analysis of PFS according to blinded independent central review, median PFS was 11 months in the TAGRISSO arm compared to 4.2 months in the chemotherapy arm (HR 0.28; 95% CI: 0.20, 0.38).
 
 Of 419 patients, 205 (49%) had baseline brain scans reviewed by BICR; this included 134 (48%) patients in the TAGRISSO arm and 71 (52%) patients in the chemotherapy arm.

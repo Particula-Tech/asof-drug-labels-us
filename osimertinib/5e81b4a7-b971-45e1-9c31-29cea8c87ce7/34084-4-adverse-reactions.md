@@ -35,7 +35,7 @@ Tables 2 and 3 summarize common adverse reactions and laboratory abnormalities w
 FLAURA was not designed to demonstrate a statistically significant reduction in adverse reaction rates for TAGRISSO, or for the control arm, for any adverse reaction listed in Tables 2 and 3.
 
 Table 2.
-Adverse Reactions Occurring in ≥10% of Patients Receiving TAGRISSO in FLAURA
+Adverse Reactions Occurring in ≥10% of Patients Receiving TAGRISSO in FLAURA*
 
 | Adverse Reaction | TAGRISSO(N=279) |  | EGFR TKI comparator(gefitinib or erlotinib)(N=277) |  |
 | --- | --- | --- | --- | --- |
@@ -125,7 +125,7 @@ Adverse Reactions Occuring in ≥10% of Patients Receiving TAGRISSO in AURA3*
 | RashIncludes rash, rash generalized, rash erythematous, rash macular, rash maculo-papular, rash papular, rash pustular, erythema, folliculitis, acne, dermatitis and acneform dermatitis. | 34 | 0.7 |  | 5.9 | 0 |  |
 | Dry skinIncludes dry skin, eczema, skin fissures, xerosis. | 23 | 0 |  | 4.4 | 0 |  |
 | Nail toxicityIncludes nail disorders, nail bed disorders, nail bed inflammation, nail bed tenderness, nail discoloration, nail disorder, nail dystrophy, nail infection, nail ridging, nail toxicity, onychoclasis, onycholysis, onychomadesis, paronychia. | 22 | 0 |  | 1.5 | 0 |  |
-| Pruritus | 13 | 0 |  | 5.1 | 0 |  |
+| PruritusIncludes nail disorders, nail bed disorders, nail bed inflammation, nail bed tenderness, nail discoloration, nail disorder, nail dystrophy, nail infection, nail ridging, nail toxicity, onychoclasis, onycholysis, onychomadesis, paronychia. | 13 | 0 |  | 5.1 | 0 |  |
 | Metabolism and Nutrition Disorders |  |  |  |  |  |  |
 | Decreased appetite | 18 |  | 1.1 | 36 |  | 2.9 |
 | Respiratory, Thoracic and Mediastinal Disorders |  |  |  |  |  |  |

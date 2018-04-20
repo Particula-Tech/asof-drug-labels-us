@@ -1,6 +1,6 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-The following information for ILD/ Pneumonitis, QTc Interval Prolongation, Cardiomyopathy and Keratitis reflects exposure to TAGRISSO in 1142 patients with EGFR mutation-positive metastatic NSCLC who received TAGRISSO at the recommended dose of 80 mg once daily in FLAURA (n=279), AURA3 (n=279), AURA Extension (n=201), AURA2 (n=210), and an expansion cohort in the first-in-human trial of osimertinib (AURA1, n=173).
+Click here to enter Warnings and Precautions
 
 ## 5.1 Interstitial Lung Disease/Pneumonitis
 
