@@ -10,7 +10,9 @@ Monitor patients closely for respiratory depression, especially within the first
 
 Initial Dosage
 
-Initiating Treatment with Acetaminophen and Codeine Phosphate Tablets – Dosage should be adjusted according to severity of pain and response of the patient.
+Initiating Treatment with Acetaminophen and Codeine Phosphate Tablets
+
+Dosage should be adjusted according to severity of pain and response of the patient.
 However, it should be kept in mind that tolerance to codeine can develop with continued use and that the incidence of untoward effects is dose related.
 Adult doses of codeine higher than 60 mg are associated with an increased incidence of adverse reactions and are not associated with greater efficacy.
 
@@ -25,12 +27,14 @@ Acetaminophen and Codeine Phosphate Tablets (codeine 60 mg and acetaminophen 300
 |  | Single Doses (Range) | Maximum 24-Hour Dose |
 | --- | --- | --- |
 | Codeine Phosphate | 15 mg to 60 mg | 360 mg |
-| Acetaminophen | 300 mg to 1000 mg | 4000 mg |
+| Acetaminophen | 300 mg to 1,000 mg | 4,000 mg |
 
 The prescriber must determine the number of tablets per dose, and the maximum number of tablets per 24 hours, based upon the above dosage guidance.
 This information should be conveyed in the prescription.
 
-Conversion from Other Opioids to Acetaminophen and Codeine Phosphate Tablets – There is inter-patient variability in the potency of opioid drugs and opioid formulations.
+Conversion from Other Opioids to Acetaminophen and Codeine Phosphate Tablets
+
+There is inter-patient variability in the potency of opioid drugs and opioid formulations.
 Therefore, a conservative approach is advised when determining the total daily dosage of acetaminophen and codeine phosphate tablets.
 It is safer to underestimate a patient’s 24-hour acetaminophen and codeine phosphate tablets dosage than to overestimate the 24-hour acetaminophen and codeine phosphate tablets dosage and manage an adverse reaction due to overdose.
 

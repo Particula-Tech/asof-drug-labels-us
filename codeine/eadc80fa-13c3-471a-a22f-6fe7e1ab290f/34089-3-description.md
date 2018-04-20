@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-Acetaminophen and codeine phosphate tablets are available in tablet form for oral administration.
+Acetaminophen and codeine phosphate tablets are supplied in tablet form for oral administration.
 
 Acetaminophen, 4′-hydroxyacetanilide, a slightly bitter, white, odorless, crystalline powder, is a non-opiate, non-salicylate analgesic and antipyretic.
 It has the following structural formula:

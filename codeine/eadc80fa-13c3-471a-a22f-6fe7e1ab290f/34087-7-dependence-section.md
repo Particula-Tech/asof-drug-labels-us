@@ -2,7 +2,8 @@
 
 Controlled Substance
 
-Acetaminophen and codeine phosphate tablets contain codeine, a Schedule II controlled substance.
+Acetaminophen and codeine phosphate tablets contain codeine.
+Codeine in combination with acetaminophen, is a Schedule III controlled substance.
 
 Abuse
 
@@ -16,12 +17,12 @@ Prescription drug abuse is the intentional non-therapeutic use of a prescription
 Drug addiction is a cluster of behavioral, cognitive, and physiological phenomena that develop after repeated substance use and includes: a strong desire to take the drug, difficulties in controlling its use, persisting in its use despite harmful, or potentially harmful, consequences, a higher priority given to drug use than to other activities and obligations, increased tolerance, and sometimes a physical withdrawal.
 
 “Drug-seeking” behavior is very common in persons with substance use disorders.
-Drug-seeking tactics include emergency calls or visits near the end of office hours, refusal to undergo appropriate examination, testing, or referral, repeated “loss” of prescriptions, tampering with prescriptions and reluctance to provide prior medical records or contact information for other treating health care providers.
+Drug-seeking tactics include emergency calls or visits near the end of office hours, refusal to undergo appropriate examination, testing, or referral, repeated “loss” of prescriptions, tampering with prescriptions and reluctance to provide prior medical records or contact information for other treating healthcare providers.
 “Doctor shopping” (visiting multiple prescribers to obtain additional prescriptions) is common among drug abusers and people suffering from untreated addiction.
 Preoccupation with achieving adequate pain relief can be appropriate behavior in a patient with poor pain control.
 
 Abuse and addiction are separate and distinct from physical dependence and tolerance.
-Health care providers should be aware that addiction may not be accompanied by concurrent tolerance and symptoms of physical dependence in all addicts.
+Healthcare providers should be aware that addiction may not be accompanied by concurrent tolerance and symptoms of physical dependence in all addicts.
 In addition, abuse of opioids can occur in the absence of true addiction.
 
 Acetaminophen and codeine phosphate tablets, like other opioids, can be diverted for non-medical use into illicit channels of distribution.
@@ -29,7 +30,9 @@ Careful record-keeping of prescribing information, including quantity, frequency
 
 Proper assessment of the patient, proper prescribing practices, periodic re-evaluation of therapy, and proper dispensing and storage are appropriate measures that help to limit abuse of opioid drugs.
 
-Risks Specific to Abuse of Acetaminophen and Codeine Phosphate Tablets – Acetaminophen and codeine phosphate tablets are for oral use only.
+Risks Specific to Abuse of Acetaminophen and Codeine Phosphate Tablets
+
+Acetaminophen and codeine phosphate tablets are for oral use only.
 Abuse of acetaminophen and codeine phosphate tablets poses a risk of overdose and death.
 The risk is increased with concurrent use of acetaminophen and codeine phosphate tablets with alcohol and other central nervous system depressants.
 

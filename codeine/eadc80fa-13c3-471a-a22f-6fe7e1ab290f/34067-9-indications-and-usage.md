@@ -1,6 +1,6 @@
 # INDICATIONS AND USAGE
 
-Acetaminophen and codeine phosphate tablets are indicated for the management of mild to moderate pain where treatment with an opioid is appropriate and for which alternative treatments are inadequate.
+Acetaminophen and codeine phosphate tablets are indicated for the management of mild to moderate pain, where treatment with an opioid is appropriate and for which alternative treatments are inadequate.
 
 Limitations of Use
 
