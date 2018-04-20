@@ -1,6 +1,6 @@
-# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+# Package Label - Principal Display Panel - 5 mg
 
-5 mg: 100s Label
+Pack Size: 100 Tablets:
 
 NDC 10702-018-01
 
@@ -8,11 +8,15 @@ Oxycodone Hydrochloride Tablets, USP CII
 
 5 mg
 
-Rx only 100 Tablets
+Pharmacist: Dispense the accompanying Medication Guide to each patient.
 
-KVK-TECH, INC
+Rx Only
 
-5 mg: 500s Label
+100 TABLETS
+
+KVK-Tech, Inc.
+
+Pack Size: 500 Tablets:
 
 NDC 10702-018-50
 
@@ -20,11 +24,17 @@ Oxycodone Hydrochloride Tablets, USP CII
 
 5 mg
 
-Rx only 500 Tablets
+Pharmacist: Dispense the accompanying Medication Guide to each patient.
 
-KVK-TECH, INC
+Rx Only
 
-10 mg: 100s Label
+500 TABLETS
+
+KVK-Tech, Inc.
+
+# Package Label - Principal Display Panel - 10 mg
+
+Pack Size: 100 Tablets:
 
 NDC 10702-056-01
 
@@ -32,11 +42,15 @@ Oxycodone Hydrochloride Tablets, USP CII
 
 10 mg
 
-Rx only 100 Tablets
+Pharmacist: Dispense the accompanying Medication Guide to each patient.
 
-KVK-TECH, INC
+Rx Only
 
-10 mg: 500s Label
+100 TABLETS
+
+KVK-Tech, Inc.
+
+Pack Size: 500 Tablets:
 
 NDC 10702-056-50
 
@@ -44,11 +58,17 @@ Oxycodone Hydrochloride Tablets, USP CII
 
 10 mg
 
-Rx only 500 Tablets
+Pharmacist: Dispense the accompanying Medication Guide to each patient.
 
-KVK-TECH, INC
+Rx Only
 
-15 mg: 100s Label
+500 TABLETS
+
+KVK-Tech, Inc.
+
+# Package Label - Principal Display Panel - 15 mg
+
+Pack Size: 100 Tablets:
 
 NDC 10702-008-01
 
@@ -56,11 +76,15 @@ Oxycodone Hydrochloride Tablets, USP CII
 
 15 mg
 
-Rx only 100 Tablets
+Pharmacist: Dispense the accompanying Medication Guide to each patient.
 
-KVK-TECH, INC
+Rx Only
 
-15 mg: 500s Label
+100 TABLETS
+
+KVK-Tech, Inc.
+
+Pack Size: 500 Tablets:
 
 NDC 10702-008-50
 
@@ -68,11 +92,17 @@ Oxycodone Hydrochloride Tablets, USP CII
 
 15 mg
 
-Rx only 500 Tablets
+Pharmacist: Dispense the accompanying Medication Guide to each patient.
 
-KVK-TECH, INC
+Rx Only
 
-20 mg: 100s Label
+500 TABLETS
+
+KVK-Tech, Inc.
+
+# Package Label - Principal Display Panel - 20 mg
+
+Pack Size: 100 Tablets:
 
 NDC 10702-057-01
 
@@ -80,11 +110,15 @@ Oxycodone Hydrochloride Tablets, USP CII
 
 20 mg
 
-Rx only 100 Tablets
+Pharmacist: Dispense the accompanying Medication Guide to each patient.
 
-KVK-TECH, INC
+Rx Only
 
-20 mg: 500s Label
+100 TABLETS
+
+KVK-Tech, Inc.
+
+Pack Size: 500 Tablets:
 
 NDC 10702-057-50
 
@@ -92,11 +126,17 @@ Oxycodone Hydrochloride Tablets, USP CII
 
 20 mg
 
-Rx only 500 Tablets
+Pharmacist: Dispense the accompanying Medication Guide to each patient.
 
-KVK-TECH, INC
+Rx Only
 
-30 mg: 100s Label
+500 TABLETS
+
+KVK-Tech, Inc.
+
+# Package Label - Principal Display Panel - 30 mg
+
+Pack Size: 100 Tablets:
 
 NDC 10702-009-01
 
@@ -104,11 +144,15 @@ Oxycodone Hydrochloride Tablets, USP CII
 
 30 mg
 
-Rx only 100 Tablets
+Pharmacist: Dispense the accompanying Medication Guide to each patient.
 
-KVK-TECH, INC
+Rx Only
 
-30 mg: 500s Label
+100 TABLETS
+
+KVK-Tech, Inc.
+
+Pack Size: 500 Tablets:
 
 NDC 10702-009-50
 
@@ -116,6 +160,10 @@ Oxycodone Hydrochloride Tablets, USP CII
 
 30 mg
 
-Rx only 500 Tablets
+Pharmacist: Dispense the accompanying Medication Guide to each patient.
 
-KVK-TECH, INC
+Rx Only
+
+500 TABLETS
+
+KVK-Tech, Inc.

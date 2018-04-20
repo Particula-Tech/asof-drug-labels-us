@@ -1,81 +1,77 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-Oxycodone hydrochloride tablets have been evaluated in open label clinical trials in patients with cancer and nonmalignant pain.
-Oxycodone hydrochloride tablets are associated with adverse experiences similar to those seen with other opioids.
+The following serious adverse reactions are described, or described in greater detail, in other sections:
 
-Serious adverse reactions that may be associated with oxycodone hydrochloride tablets therapy in clinical use are those observed with other opioid analgesics and include: respiratory depression, respiratory arrest, circulatory depression, cardiac arrest, hypotension, and/or shock (see overdosage,WARNINGS).
+- Addiction, Abuse, and Misuse [see Warnings and Precautions (5.1)]
+- Life-Threatening Respiratory Depression [see Warnings and Precautions (5.2)]
+- Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.3)]
+- Interactions with Benzodiazepines or Other CNS Depressants [see Warnings and Precautions (5.5)]
+- Adrenal Insufficiency [see Warnings and Precautions (5.7)]
+- Severe Hypotension [see Warnings and Precautions (5.8)]
+- Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.10)]
+- Seizures [see Warnings and Precautions (5.11)]
+- Withdrawal [see Warnings and Precautions (5.12)]
 
-The less severe adverse events seen on initiation of therapy with oxycodone hydrochloride tablets are also typical opioid side effects.
-These events are dose dependent, and their frequency depends on the clinical setting, the patient's level of opioid tolerance, and host factors specific to the individual.
-They should be expected and managed as a part of opioid analgesia.
-The most frequent of these include nausea, constipation, vomiting, headache, and pruritus.
+## 6.1 Clinical Trials Experience
 
-In many cases the frequency of adverse events during initiation of opioid therapy may be minimized by careful individualization of starting dosage, slow titration and the avoidance of large rapid swings in plasma concentration of the opioid.
-Many of these adverse events will abate as therapy is continued and some degree of tolerance is developed, but others may be expected to remain throughout therapy.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-In all patients for whom dosing information was available (n=191) from the open-label and double-blind studies involving oxycodone hydrochloride tablets, the following adverse events were recorded in oxycodone hydrochloride tablets treated patients with an incidence ≥ 3%.
-In descending order of frequency they were: nausea, constipation, vomiting, headache, pruritus, insomnia, dizziness, asthenia, and somnolence.
+Oxycodone Hydrochloride Tablets have been evaluated in open label clinical trials in patients with cancer and nonmalignant pain.
+Oxycodone Hydrochloride Tablets are associated with adverse experiences similar to those seen with other opioids.
 
-The following adverse experiences occurred in less than 3% of patients involved in clinical trials with oxycodone:
+Serious adverse reactions associated with Oxycodone Hydrochloride Tablets use included: respiratory depression, respiratory arrest, circulatory depression, cardiac arrest, hypotension, and/or shock.
 
-Body as a Whole: abdominal pain, accidental injury, allergic reaction, back pain, chills and fever, fever, flu syndrome, infection, neck pain, pain, photosensitivity reaction, and sepsis.
+The common adverse reactions seen on initiation of therapy with Oxycodone Hydrochloride Tablets are dose-related and are typical opioid-related adverse reactions.
+The most frequent of these included nausea, constipation, vomiting, headache, pruritus, insomnia, dizziness, asthenia, and somnolence.
+The frequency of these reactions depended on several factors, including clinical setting, the patient’s level of opioid tolerance, and host factors specific to the individual.
 
-Cardiovascular: deep thrombophlebitis, heart failure, hemorrhage, hypotension, migraine, palpitation, and tachycardia.
+In all patients for whom dosing information was available (n=191) from the open-label and double-blind studies involving Oxycodone Hydrochloride Tablets, the following adverse events were recorded in Oxycodone Hydrochloride Tablets treated patients with an incidence ≥ 3%.
+In descending order of frequency, they were: nausea, constipation, vomiting, headache, pruritus, insomnia, dizziness, asthenia, and somnolence.
 
-Digestive: anorexia, diarrhea, dyspepsia, dysphagia, gingivitis, glossitis, and nausea and vomiting.
+Other less frequently observed adverse reactions from opioid analgesics, including Oxycodone Hydrochloride Tablets included:
 
-Hemic and Lymphatic: anemia and leukopenia.
+Blood and lymphatic system disorders: anemia, leukopenia
 
-Metabolic and Nutritional: edema, gout, hyperglycemia, iron deficiency anemia and peripheral edema.
+Cardiac disorders: cardiac failure, palpitation, tachycardia
 
-Musculoskeletal: arthralgia, arthritis, bone pain, myalgia and pathological fracture.
+Gastrointestinal disorders: abdominal pain, dry mouth, diarrhea, dyspepsia, dysphagia, glossitis, nausea, vomiting.
 
-Nervous: agitation, anxiety, confusion, dry mouth, hypertonia, hypesthesia, nervousness, neuralgia, personality disorder, tremor, and vasodilation.
+General disorders and administration site conditions: chills, edema, edema peripheral, pain, pyrexia
 
-Respiratory: bronchitis, cough increased, dyspnea, epistaxis, laryngismus, lung disorder, pharyngitis, rhinitis, and sinusitis.
+Immune system disorders: hypersensitivity
 
-Skin and Appendages: herpes simplex, rash, sweating, and urticaria.
+Infections and infestations: bronchitis, gingivitis, infection, pharyngitis, rhinitis, sepsis, sinusitis, urinary tract infection
 
-Special Senses: amblyopia.
+Injury, poisoning and procedural complications: injury
 
-Urogenital: urinary tract infection.
+Metabolism and nutrition disorders: decreased appetite, gout, hyperglycemia
 
-DRUG ABUSE AND DEPENDENCE
+Musculoskeletal and connective tissue disorders: arthralgia, arthritis, back pain, bone pain, myalgia, neck pain, pathological fracture
 
-Controlled Substance:
+Nervous system disorders: hypertonia, hypoesthesia, migraine, neuralgia, tremor, vasodilation
 
-Oxycodone Hydrochloride Tablets contain Oxycodone, a mu-agonist opioid if the morphine type and is a Schedule II controlled substance.
-Oxycodone hydrochloride, like other opioids used in analgesia, can be abused and is subject to criminal diversion.
+Psychiatric disorders: agitation, anxiety, confusional state, nervousness, personality disorder
 
-Abuse:
+Respiratory, thoracic and mediastinal disorders: cough, dyspnea, epistaxis, laryngospasm, lung disorder
 
-Drug addiction is characterized by compulsive use, use for non-medical purposes, and continued use despite harm or risk of harm.
-Drug addiction is a treatable disease, utilizing a multi-disciplinary approach, but relapse is common.
+Skin and subcutaneous tissue disorders: photosensitivity reaction, rash, hyperhidrosis, urticaria
 
-“Drug-seeking” behavior is very common in addicts and drug abusers.
-Drug-seeking tactics include emergency calls or visits near the end of office hours, refusal to undergo appropriate examination, testing or referral, repeated “loss” of prescriptions, tampering with prescriptions and reluctance to provide prior medical records or contact information for other treating physician(s).
-“Doctor shopping” to obtain additional prescriptions is common among drug abusers and people suffering from untreated addiction.
+Vascular disorders: thrombophlebitis, hemorrhage, hypotension, vasodilatation
 
-Abuse and addiction are separate and distinct from physical dependence and tolerance.
-Physicians should be aware that addiction may not be accompanied by concurrent tolerance and symptoms of physical dependence.
-In addition, abuse of opioids can occur in the absence of true addiction and is characterized by misuse for nonmedical purposes, often in combination with other psychoactive substances.
-Careful record-keeping of prescribing information, including quantity, frequency, and renewal requests is strongly advised.
+## 6.2 Postmarketing Experience
 
-Oxycodone hydrochloride is intended for oral use only.
-Abuse of oxycodone hydrochloride tablets poses a risk of overdose and death.
-The risk is increased with concurrent abuse of alcohol and other substances.
-Parenteral drug abuse is commonly associated with transmission of infectious diseases such as hepatitis and HIV.
+The following adverse reactions have been identified during post approval use of oxycodone.
 
-Proper assessment of the patient, proper prescribing practices, periodic re-evaluation of therapy, and proper dispening and storage are appropriate measures that help to limit abuse of opioid drugs.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Infants born to mothers physically dependent on opioids will also be physically dependent and may exhibit respiratory difficulties and withdrawal symptoms.
+General disorders and administrative site disorders: drug withdrawal syndrome neonatal [see Warnings and Precautions (5.3)]
 
-Dependence:
+Respiratory, thoracic and mediastinal disorders: pharyngeal edema
 
-Tolerance is the need for increasing doses of opioids to maintain a defined effect such as analgesia (in the absence of disease progression or other external factors).
-Physical dependence is manifested by withdrawal symptoms after abrupt discontinuation of a drug or upon administration of an antagonist.
-Physical dependence and tolerance are not unusual during chronic opioid therapy.
+Serotonin syndrome: Cases of serotonin syndrome, a potentially life-threatening condition, have been reported during concomitant use of opioids with serotonergic drugs [see Drug Interactions (7)].
 
-The opioid abstinence or withdrawal syndrome is characterized by some or all of the following: restlessness, lacrimation, rhinorrhea, yawning, perspiration, chills, myalgia, and mydriasis.
-Other symptoms also may develop, including irritability, anxiety, backache, joint pain, weakness, abdominal cramps, insomnia, nausea, anorexia, vomiting, diarrhea, or increased blood pressure, respiratory rate, or heart rate.
-In general, opioids should not be abruptly discontinued.
+Adrenal insufficiency: Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use [see Warnings and Precautions (5.7)].
+
+Anaphylaxis: Anaphylactic reaction has been reported with ingredients contained in ROXICODONE [see Contraindications (4)].
+
+Androgen deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [see Clinical Pharmacology (12.2)].
