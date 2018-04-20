@@ -27,7 +27,7 @@ Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Mylan.com
 
-RM3515H8
+RM3515H10
 
 PRINCIPAL DISPLAY PANEL - 30 mg
 
@@ -58,7 +58,7 @@ Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Mylan.com
 
-RM3530H8
+RM3530H10
 
 PRINCIPAL DISPLAY PANEL - 45 mg
 
@@ -89,4 +89,4 @@ Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Mylan.com
 
-RM3545H8
+RM3545H10
