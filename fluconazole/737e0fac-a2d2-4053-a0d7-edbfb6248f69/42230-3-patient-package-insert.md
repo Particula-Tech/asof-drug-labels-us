@@ -74,6 +74,7 @@ Since there are many brand names for these medicines, check with your doctor or 
 - have any other medical conditions
 - are pregnant, plan to become pregnant, or think you might be pregnant.
   Your doctor will discuss whether FLUCONAZOLE is right for you.
+  Women who can become pregnant should think about using effective birth control while taking FLUCONAZOLE.
 - are breast-feeding.
   FLUCONAZOLE can pass through breast milk to the baby.
 - are allergic to any other medicines including those used to treat yeast and other fungal infections.
@@ -151,4 +152,4 @@ You can ask your pharmacist or doctor for information about FLUCONAZOLE that is 
 This product's label may have been updated.
 For current full prescribing information, please visit www.greenstonellc.com
 
-LAB-0367-10.0 September 2017
+LAB-0367-11.0 Revised April 2018

@@ -36,19 +36,19 @@ In open, noncomparative studies of small numbers of patients, doses of up to 400
 
 #### Urinary tract infections and peritonitis
 
-For the treatment of Candida urinary tract infections and peritonitis, daily doses of 50–200 mg have been used in open, noncomparative studies of small numbers of patients.
+For the treatment of Candida urinary tract infections and peritonitis, daily doses of 50 to 200 mg have been used in open, noncomparative studies of small numbers of patients.
 
 #### Cryptococcal meningitis
 
 The recommended dosage for treatment of acute cryptococcal meningitis is 400 mg on the first day, followed by 200 mg once daily.
 A dosage of 400 mg once daily may be used, based on medical judgment of the patient's response to therapy.
-The recommended duration of treatment for initial therapy of cryptococcal meningitis is 10–12 weeks after the cerebrospinal fluid becomes culture negative.
+The recommended duration of treatment for initial therapy of cryptococcal meningitis is 10 to 12 weeks after the cerebrospinal fluid becomes culture negative.
 The recommended dosage of fluconazole for suppression of relapse of cryptococcal meningitis in patients with AIDS is 200 mg once daily.
 
 #### Prophylaxis in patients undergoing bone marrow transplantation
 
 The recommended fluconazole daily dosage for the prevention of candidiasis in patients undergoing bone marrow transplantation is 400 mg, once daily.
-Patients who are anticipated to have severe granulocytopenia (less than 500 neutrophils per cu mm) should start fluconazole prophylaxis several days before the anticipated onset of neutropenia, and continue for 7 days after the neutrophil count rises above 1000 cells per cu mm.
+Patients who are anticipated to have severe granulocytopenia (less than 500 neutrophils cells/mm3) should start fluconazole prophylaxis several days before the anticipated onset of neutropenia, and continue for 7 days after the neutrophil count rises above 1000 cells/mm3.
 
 ## Dosage and Administration in Children
 
@@ -61,8 +61,7 @@ The following dose equivalency scheme should generally provide equivalent exposu
 | 12Some older children may have clearances similar to that of adults. Absolute doses exceeding 600 mg/day are not recommended. mg/kg | 400 mg |
 
 Experience with fluconazole in neonates is limited to pharmacokinetic studies in premature newborns.
-(See CLINICAL PHARMACOLOGY.)
-Based on the prolonged half-life seen in premature newborns (gestational age 26 to 29 weeks), these children, in the first two weeks of life, should receive the same dosage (mg/kg) as in older children, but administered every 72 hours.
+(See CLINICAL PHARMACOLOGY) Based on the prolonged half-life seen in premature newborns (gestational age 26 to 29 weeks), these children, in the first two weeks of life, should receive the same dosage (mg/kg) as in older children, but administered every 72 hours.
 After the first two weeks, these children should be dosed once daily.
 No information regarding fluconazole pharmacokinetics in full-term newborns is available.
 
@@ -85,21 +84,21 @@ For the treatment of candidemia and disseminated Candida infections, daily doses
 
 For the treatment of acute cryptococcal meningitis, the recommended dosage is 12 mg/kg on the first day, followed by 6 mg/kg once daily.
 A dosage of 12 mg/kg once daily may be used, based on medical judgment of the patient's response to therapy.
-The recommended duration of treatment for initial therapy of cryptococcal meningitis is 10–12 weeks after the cerebrospinal fluid becomes culture negative.
+The recommended duration of treatment for initial therapy of cryptococcal meningitis is 10 to 12 weeks after the cerebrospinal fluid becomes culture negative.
 For suppression of relapse of cryptococcal meningitis in children with AIDS, the recommended dose of fluconazole is 6 mg/kg once daily.
 
 ## Dosage In Patients With Impaired Renal Function
 
 Fluconazole is cleared primarily by renal excretion as unchanged drug.
 There is no need to adjust single dose therapy for vaginal candidiasis because of impaired renal function.
-In patients with impaired renal function who will receive multiple doses of fluconazole, an initial loading dose of 50 to 400 mg should be given.
+In patients with impaired renal function who will receive multiple doses of fluconazole, an initial loading dose of 50 mg to 400 mg should be given.
 After the loading dose, the daily dose (according to indication) should be based on the following table:
 
-| Creatinine Clearance (mL/min) | Percent of Recommended Dose |
+| Creatinine Clearance (mL/min) | Recommended Dose (%) |
 | --- | --- |
-| >50 | 100% |
-| ≤50 (no dialysis) | 50% |
-| Regular dialysis | 100% after each dialysis |
+| >50 | 100 |
+| ≤50 (no dialysis) | 50 |
+| Regular dialysis | 100 after each dialysis |
 
 Patients on regular dialysis should receive 100% of the recommended dose after each dialysis; on non-dialysis days, patients should receive a reduced dose according to their creatinine clearance.
 
