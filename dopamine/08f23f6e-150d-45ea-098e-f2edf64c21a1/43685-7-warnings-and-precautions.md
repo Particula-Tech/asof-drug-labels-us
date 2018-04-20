@@ -46,7 +46,7 @@ The physician should switch to a more suitable site as soon as possible and the 
 
 Laboratory Tests: Infusion of dopamine suppresses pituitary secretion of thyroid–stimulating hormone, growth hormone, and prolactin.
 
-Weaning: When discontinuing the infusion, it may be necessary to gradually decrease the dose of dopamine HCl while expanding blood volume with IV fluids.
+Weaning: When discontinuing the infusion, it may be necessary to gradually decrease the dose of dopamine HCl while expanding blood volume with intravenous fluids.
 Sudden cessation may result in marked hypotension.
 
 Drug Interactions: Cyclopropane or halogenated hydrocarbon anesthetics increase cardiac autonomic irritability and may sensitize the myocardium to the action of certain intravenously administered catecholamines, such as dopamine.
@@ -80,7 +80,7 @@ In the L5178Y TK+/- mouse lymphoma assay, dopamine HCl at the highest concentrat
 
 No clear evidence of clastogenic potential was reported in the in vivo mouse or male rat bone marrow micronucleus test when the animals were treated intravenously with up to 224 mg/kg and 30 mg/kg of dopamine HCl, respectively.
 
-Pregnancy: Pregnancy Category C: Teratogenic Effects: Teratogenicity studies in rats and rabbits at dopamine HCl dosages up to 6 mg/kg/day intravenously during organogenesis produced no detectable teratogenic or embryotoxic effects, although maternal toxicity consisting of mortalities, decreased body weight gain, and pharmacotoxic signs were observed in rats.
+Pregnancy: Teratogenic Effects: Teratogenicity studies in rats and rabbits at dopamine HCl dosages up to 6 mg/kg/day intravenously during organogenesis produced no detectable teratogenic or embryotoxic effects, although maternal toxicity consisting of mortalities, decreased body weight gain, and pharmacotoxic signs were observed in rats.
 In a published study, dopamine HCl administered at 10 mg/kg subcutaneously for 30 days, markedly prolonged metestrus and increased mean pituitary and ovary weights in female rats.
 Similar administration to pregnant rats throughout gestation or for 5 days starting on gestation day 10 or 15 resulted in decreased body weight gains, increased mortalities and slight increases in cataract formation among the offspring.
 There are no adequate and well-controlled studies in pregnant women, and it is not known if dopamine HCl crosses the placental barrier.

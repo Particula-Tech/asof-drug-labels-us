@@ -19,7 +19,7 @@ The more concentrated 1600 mcg/mL or 3200 mcg/mL solutions, may be preferred in 
 
 Rate of Administration: Administration into an umbilical artery catheter is not recommended.
 
-Dopamine in 5% Dextrose Injection should not be infused through ordinary I.V. apparatus, regulated only by gravity and mechanical clamps.
+Dopamine in 5% Dextrose Injection should not be infused through ordinary intravenous apparatus, regulated only by gravity and mechanical clamps.
 Only an infusion pump, preferably a volumetric pump, should be used.
 
 Each patient must be individually titrated to the desired hemodynamic or renal response to dopamine.
@@ -31,7 +31,7 @@ If a disproportionate rise in diastolic pressure (i.e., a marked decrease in pul
 Administration rates greater than 50 mcg/kg/min have safely been used in adults in advanced circulatory decompensation states.
 If unnecessary fluid expansion is of concern, adjustment of drug concentration may be preferred over increasing the flow rate of a less concentrated dilution.
 
-When discontinuing the infusion, it may be necessary to gradually decrease the dose of dopamine HCl while expanding the blood volume with I.V. fluids to prevent the development of marked hypotension.
+When discontinuing the infusion, it may be necessary to gradually decrease the dose of dopamine HCl while expanding the blood volume with intravenous fluids to prevent the development of marked hypotension.
 
 Suggested Regimen:
 
