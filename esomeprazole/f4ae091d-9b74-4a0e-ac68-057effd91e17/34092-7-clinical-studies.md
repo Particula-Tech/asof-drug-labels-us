@@ -62,8 +62,6 @@ No additional clinical benefit was seen with esomeprazole magnesium delayed-rele
 
 The percentages of patients that maintained healing of erosive esophagitis at the various time points are shown in the Figures 2 and 3:
 
-Figure 3: Maintenance of Healing Rates by Month (Study 178)
-
 Patients remained in remission significantly longer and the number of recurrences of erosive esophagitis was significantly less in patients treated with esomeprazole magnesium delayed-release capsules compared to placebo.
 
 In both studies, the proportion of patients on esomeprazole magnesium delayed-release capsules who remained in remission and were free of heartburn and other GERD symptoms was well differentiated from placebo.
@@ -123,7 +121,7 @@ The second study (193) compared esomeprazole magnesium delayed-release capsules 
 H. pylori eradication rates, defined as at least two negative tests and no positive tests from CLOtest®, histology and/or culture, at 4 weeks post-therapy were significantly higher in the esomeprazole magnesium delayed-release capsules plus amoxicillin and clarithromycin group than in the esomeprazole magnesium delayed-release capsules plus clarithromycin or esomeprazole magnesium delayed-release capsules alone group.
 The results are shown in Table 12:
 
-Table 12: H. pyloriEradication Rates at 4 Weeks after 10 Day Treatment Regimen % of Patients Cured [95% Confidence Interval](Number of Patients)
+Table 12: H. pylori Eradication Rates at 4 Weeks after 10 Day Treatment Regimen % of Patients Cured [95% Confidence Interval](Number of Patients)
 
 | Study | Treatment Group | Per-Protocol1 | Intent-to-Treat2 |
 | --- | --- | --- | --- |

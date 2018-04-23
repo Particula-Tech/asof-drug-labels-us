@@ -21,7 +21,9 @@ Esomeprazole magnesium delayed-release capsules can cause serious side effects, 
 - Diarrhea.
   Esomeprazole magnesium delayed-release capsules may increase your risk of getting severe diarrhea.
   This diarrhea may be caused by an infection (Clostridium difficile) in your intestines.
-- Call your doctor right away if you have watery stool, stomach pain, and fever that does not go away.
+
+Call your doctor right away if you have watery stool, stomach pain, and fever that does not go away.
+
 - Bone fractures.
   People who take multiple daily doses of PPI medicines for a long period of time (a year or longer) may have an increased risk of fractures of the hip, wrist, or spine.
   You should take esomeprazole magnesium delayed-release capsules exactly as prescribed, at the lowest dose possible for your treatment and for the shortest time needed.
@@ -43,8 +45,10 @@ Esomeprazole magnesium delayed-release capsules are used in adults:
 
 - for 4 to 8 weeks to treat the symptoms of gastroesophageal reflux disease (GERD).
   Esomeprazole magnesium delayed-release capsules may also be prescribed to heal acid-related damage to the lining of the esophagus (erosive esophagitis), and to help continue this healing.
-- GERD happens when acid in your stomach backs up into the tube (esophagus) that connects your mouth to your stomach.
-  This may cause a burning feeling in your chest or throat, sour taste, or burping.
+
+GERD happens when acid in your stomach backs up into the tube (esophagus) that connects your mouth to your stomach.
+This may cause a burning feeling in your chest or throat, sour taste, or burping.
+
 - for up to 6 months to reduce the risk of stomach ulcers in some people taking pain medicines called non-steroidal anti-inflammatory drugs (NSAIDs).
 - to treat patients with a stomach infection (Helicobacter pylori), along with the antibiotics amoxicillin and clarithromycin.
 - for the long-term treatment of conditions where your stomach makes too much acid, including Zollinger-Ellison Syndrome.
@@ -217,6 +221,8 @@ Follow the instructions below:
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 The brands listed are trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
-Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810
+Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides Distributed by: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810
 
-Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahaboob Nagar (Dt)-509302 India Revised: 01/2017
+Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India
+
+Revised: 09/2017

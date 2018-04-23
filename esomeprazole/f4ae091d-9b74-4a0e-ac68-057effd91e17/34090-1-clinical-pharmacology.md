@@ -108,7 +108,7 @@ Table 6: Summary of PK Parameters in 1 to 11 Year Olds with GERD following 5 Day
 | AUC (µmol.h/L)1 | 4.83 | 3.7 | 6.28 |
 | Cmax (µmol/L)1 | 2.98 | 1.77 | 3.73 |
 | tmax (h) 2 | 1.44 | 1.79 | 1.75 |
-| t½lz (h)1 | 0.74 | 0.88 | 0.73 |
+| t½λz (h)1 | 0.74 | 0.88 | 0.73 |
 | C1/F (L/h)1 | 5.99 | 7.84 | 9.22 |
 
 1.
@@ -131,8 +131,8 @@ Table 7: Comparison of PK Parameters in 12 to 17 Year Olds with GERD and Adults 
 | AUC (µmol.h/L) | 3.65 | 13.86 | 4.2 | 12.6 |
 | Cmax (µmol/L) | 1.45 | 5.13 | 2.1 | 4.7 |
 | tmax (h) | 2 | 1.75 | 1.6 | 1.6 |
-| t½lz (h) | 0.82 | 1.22 | 1.2 | 1.5 |
-| Data presented are geometric means for AUC, Cmax and t½lz, and median value for tmax. |  |  |  |  |
+| t½λz (h) | 0.82 | 1.22 | 1.2 | 1.5 |
+| Data presented are geometric means for AUC, Cmax and t½λz, and median value for tmax. |  |  |  |  |
 
 1.
 Duration of treatment for 12 to 17 year olds and adults were 8 days and 5 days, respectively.
@@ -151,8 +151,8 @@ Studies evaluating concomitant administration of esomeprazole and either naproxe
 ## 12.4 Microbiology
 
 Esomeprazole magnesium delayed-release capsules, amoxicillin, and clarithromycin triple therapy has been shown to be active against most strains of Helicobacter pylori (H. pylori) in vitro and in clinical infections [see Indications and Usage (1) and Clinical Studies (14)].
-Helicobacter pylori:Susceptibility testing of H. pylori isolates was performed for amoxicillin and clarithromycin using agar dilution methodology, and minimum inhibitory concentrations (MICs) were determined.
-Pretreatment Resistance:Clarithromycin pretreatment resistance rate (MIC ≥ 1 mcg/mL) to H. pylori was 15% (66/445) at baseline in all treatment groups combined.
+Helicobacter pylori: Susceptibility testing of H. pylori isolates was performed for amoxicillin and clarithromycin using agar dilution methodology, and minimum inhibitory concentrations (MICs) were determined.
+Pretreatment Resistance: Clarithromycin pretreatment resistance rate (MIC ≥ 1 mcg/mL) to H. pylori was 15% (66/445) at baseline in all treatment groups combined.
 A total of > 99% (394/395) of patients had H. pylori isolates that were considered to be susceptible (MIC ≤ 0.25 mcg/mL) to amoxicillin at baseline.
 One patient had a baseline H. pylori isolate with an amoxicillin MIC = 0.5 mcg/mL.
 Clarithromycin Susceptibility Test Results and Clinical/Bacteriologic Outcomes: The baseline H. pylori clarithromycin susceptibility results and the H. pylori eradication results at the Day 38 visit are shown in the Table 8:
@@ -179,6 +179,6 @@ Amoxicillin Susceptibility Test Results and Clinical/Bacteriological Outcomes: I
 Of the 36 patients who were not eradicated of H. pylori on triple therapy, 16 had no post-treatment susceptibility test results and 20 had post-treatment H. pylori isolates with amoxicillin susceptible MICs.
 Fifteen of the patients who were not eradicated of H. pylori on triple therapy also had post-treatment H. pylori isolates with clarithromycin resistant MICs.
 There were no patients with H. pylori isolates who developed treatment emergent resistance to amoxicillin.
-Susceptibility Test for Helicobacter pylori:For susceptibility testing information about Helicobacter pylori, see Microbiology section in prescribing information for clarithromycin and amoxicillin.
+Susceptibility Test for Helicobacter pylori: For susceptibility testing information about Helicobacter pylori, see Microbiology section in prescribing information for clarithromycin and amoxicillin.
 Effects on Gastrointestinal Microbial Ecology: Decreased gastric acidity due to any means, including proton pump inhibitors, increases gastric counts of bacteria normally present in the gastrointestinal tract.
 Treatment with proton pump inhibitors may lead to slightly increased risk of gastrointestinal infections such as Salmonella and Campylobacter and possibly Clostridium difficile in hospitalized patients.
