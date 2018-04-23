@@ -11,10 +11,6 @@
 
 Manufactured by: Hospira Australia Pty Ltd Mulgrave VIC 3170 Australia
 
-Manufactured for:
+Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
-Hospira, Inc., Lake Forest, IL 60045 USA
-
-Product of Australia
-
-LAB-0919-1.0
+LAB-0919-2.0

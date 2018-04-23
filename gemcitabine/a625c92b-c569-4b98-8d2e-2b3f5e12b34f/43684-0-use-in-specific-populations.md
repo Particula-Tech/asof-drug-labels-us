@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D [see Warnings and Precautions (5.6)].
+[see Warnings and Precautions (5.6)].
 
 Risk Summary
 
