@@ -32,7 +32,7 @@ Although there is experience with dosing up to 30 mg/m2/week in JIA, the publish
 
 Additional adverse reactions which have been identified during postmarketing use of methotrexate are listed below by organ system.
 
-Blood and Lymphatic System Disorders: Suppressed hematopoiesis causing anemia, aplastic anemia, pancytopenia, leukopenia, neutropenia, thrombocytopenia, lymphaden-opathy, lymphoproliferative disorders (including reversible), hypogammaglobulinemia
+Blood and Lymphatic System Disorders: Suppressed hematopoiesis causing anemia, aplastic anemia, pancytopenia, leukopenia, neutropenia, thrombocytopenia, lymphadenopathy, lymphoproliferative disorders (including reversible), hypogammaglobulinemia
 
 Cardiovascular: Thromboembolic events (including arterial thrombosis, cerebral thrombosis, deep vein thrombosis, retinal vein thrombosis, thrombophlebitis, and pulmonary embolus), pericarditis, pericardial effusion, hypotension
 

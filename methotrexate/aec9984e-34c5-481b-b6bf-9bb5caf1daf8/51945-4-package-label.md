@@ -20,11 +20,11 @@ Each 1 mL contains 2.5 mg methotrexate (equivalent to 2.74 mg methotrexate sodiu
 
 Usual Dose: See prescribing information.
 
-Store refrigerated 2° - 8°C (36° - 46°F).
-After dispensing, may be stored at room temperature 15° - 30°C (59° - 86°F) for 60 days.
+Store refrigerated 2° - 8°C (36° - 46°F) Patients may store Xatmep either refrigerated or at room temperature (20° - 35°C/68° - 77°F).
+If stored at room temperature, discard after 60 days.
+
+Manufactured for: Silvergate Pharmaceuticals, Inc. Greenwood Village, CO 80111 COO (API): Germany
+
+Lot: Exp:
 
 KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN
-
-Manufactured for: Silvergate Pharmaceuticals, Inc. Greenwood Village, CO 80111
-
-Lot: EXp:

@@ -114,7 +114,7 @@ Pulmonary function tests may be useful if methotrexate-induced lung disease is s
 
 ## 5.15 Risk of Improper Dosing
 
-Both the physician and pharmacist should emphasize to the patient that the recommended dose is taken one time weekly, as directed, and that mistaken daily use of the recommended dose has led to fatal toxicity [see Dosage and Administration (2.5), Overdosage (10)].
+Both the physician and pharmacist should emphasize to the patient that the recommended dose is taken one time weekly, as directed, and that mistaken daily use of the recommended dose has led to fatal toxicity [see Dosage and Administration (2.1), Overdosage (10)].
 
 Advise patients to measure XATMEP with an accurate milliliter measuring device.
 Inform patients that a household teaspoon is not an accurate measuring device and could lead to overdosage, which can result in serious adverse reactions [see Overdosage (10)].

@@ -2,7 +2,7 @@
 
 Importance of Proper Dosing and Administration
 
-Advise patient that the recommended dose should be taken one time weekly, as directed, and that mistaken daily use of the recommended dose has led to fatal toxicity [see Dosage and Administration (2.1), Warnings and Precautions (5.15)].
+Advise patients that the recommended dose should be taken one time weekly, as directed, and that mistaken daily use of the recommended dose has led to fatal toxicity [see Dosage and Administration (2.1), Warnings and Precautions (5.15)].
 
 Advise patients and caregivers to measure XATMEP with an accurate milliliter measuring device.
 A household teaspoon is not an accurate measuring device.
@@ -10,7 +10,7 @@ Advise patients and caregivers to ask their pharmacist to recommend an appropria
 
 Bone Marrow Suppression and Serious Infections
 
-Advise patient to contact their healthcare provider for new onset fever, symptoms of infection, easy bruising or persistent bleeding [see Warnings and Precautions (5.1, 5.2)].
+Advise patients to contact their healthcare provider for new onset fever, symptoms of infection, easy bruising or persistent bleeding [see Warnings and Precautions (5.1, 5.2)].
 
 Renal Toxicity
 
@@ -60,15 +60,14 @@ Advise females not to breastfeed during therapy with XATMEP [see Use in Specific
 
 Proper Storage and Disposal
 
-Advise patients to store XATMEP either refrigerated (2°C to 8°C/36°F to 46°F) or at room temperature (20°C to 25°C/68°F to 77°F).
+Advise patients to store XATMEP either refrigerated (2°C to 8°C/36°F to 46°F) or at room temperature (20°C to 25°C/68°F to 77°F) with excursions permitted to 15°C to 30°C/59°F to 86°F.
 If stored at room temperature, discard after 60 days.
-Excursions permitted to 15°C to 30°C (59°F to 86°F).
 Inform patients and caregivers of the need for proper storage and disposal of dispensing bottles and dosing devices [see References (15)].
 
-Manufactured For:
+Manufactured for:
 
-Silvergate Pharmaceuticals, Inc. 6251 Greenwood Plaza Blvd, Ste 101 Greenwood Village, CO 80111
+Silvergate Pharmaceuticals, Inc. 6251 Greenwood Plaza Blvd., Ste 101 Greenwood Village, CO 80111
 
-US Patent 9,259,427
+U.S. Patent: 9,259,427
 
-MTX-1801
+MTX-1803
