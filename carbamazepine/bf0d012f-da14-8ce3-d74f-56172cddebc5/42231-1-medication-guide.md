@@ -39,6 +39,24 @@ Symptoms may include:
 - severe fatigue or weakness
 
 3.
+Carbamazepine tablets may cause allergic reactions or serious problems, which may affect organs and other parts of your body like the liver or blood cells.
+You may or may not have a rash with these types of reactions.
+
+Call your healthcare provider right away if you have any of the following:
+
+- swelling of your face, eyes, lips, or tongue
+- a skin rash
+- painful sores in the mouth or around your eyes
+- unusual bruising or bleeding
+- frequent infections or infections that do not go away
+- fever, swollen glands, or sore throat that do not go away or come and go
+- trouble swallowing or breathing
+- hives
+- yellowing of your skin or eyes
+- severe fatigue or weakness
+- severe muscle pain
+
+4.
 Like other antiepileptic drugs, carbamazepine tablets may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
 
 Call your healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
@@ -187,7 +205,8 @@ You may report side effects to FDA at 1-800-FDA­-1088.
 
 How should I store carbamazepine tablets, USP?
 
-- Do not store above 30°C (86°F). • Keep carbamazepine tablets dry.
+- Do not store above 30°C (86°F).
+  - Keep carbamazepine tablets dry.
 
 Keep carbamazepine tablets and all medicines out of the reach of children.
 
@@ -224,7 +243,7 @@ Toronto, Ontario Weston, Florida
 
 Canada M9L 1T9 33326
 
-September 2015
+March 2018
 
 Rev.
-4
+5
