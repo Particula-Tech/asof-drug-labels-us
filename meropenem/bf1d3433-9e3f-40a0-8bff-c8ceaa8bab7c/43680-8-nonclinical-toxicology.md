@@ -13,5 +13,5 @@ There was no evidence of mutagenic potential found in any of these tests.
 
 Impairment of Fertility:
 
-Reproductive studies were performed with meropenem in rats at doses up to 1000 mg/kg/day, and cynomolgus monkeys at doses up to 360 mg/kg/day (on the basis of AUC comparisons, approximately 1.8 times and 3.7 times, respectively, to the human exposure at the usual dose of 1 gram every 8 hours).
+Reproductive studies were performed with meropenem in rats at doses up to 1,000 mg/kg/day, and cynomolgus monkeys at doses up to 360 mg/kg/day (on the basis of AUC comparisons, approximately 1.8 times and 3.7 times, respectively, to the human exposure at the usual dose of 1 gram every 8 hours).
 There was no reproductive toxicity seen.

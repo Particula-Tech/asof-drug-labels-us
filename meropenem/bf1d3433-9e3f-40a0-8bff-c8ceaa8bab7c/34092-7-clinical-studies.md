@@ -45,7 +45,7 @@ Table 10: Clinical Efficacy Rates by Pathogen for Clinically Evaluable Populatio
 | Proteus mirabilis | 11/13 (85) | 6/7 (86) |
 | Anaerobes |  |  |
 | Bacteroides fragilis | 10/11 (91) | 9/10 (90) |
-| Peptostreptococcus species | 10/13 (77) | 14/16 (88) |
+| Peptostreptococcus Species | 10/13 (77) | 14/16 (88) |
 | 1. Patients may have more than one pretreatment pathogen. 2. n = number of patients with satisfactory response. 3. N = number of patients in the clinically evaluable population or subgroup within treatment groups. 4. % = Percent of satisfactory clinical response at follow-up evaluation. |  |  |
 
 The proportion of patients who discontinued study treatment due to an adverse event was similar for both treatment groups (meropenem, 2.5% and imipenem-cilastatin, 2.7%).

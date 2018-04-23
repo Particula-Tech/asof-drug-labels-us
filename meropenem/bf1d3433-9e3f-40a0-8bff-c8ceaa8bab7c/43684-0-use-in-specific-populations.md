@@ -7,7 +7,7 @@ Pregnancy Category B.
 There are no adequate and well-controlled studies with meropenem in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 
-Reproductive studies have been performed with meropenem in rats at doses of up to 1000 mg/kg/day, and cynomolgus monkeys at doses of up to 360 mg/kg/day (on the basis of AUC comparisons, approximately 1.8 times and 3.7 times higher, respectively, than human exposure at the usual dose of 1 gram every 8 hours).
+Reproductive studies have been performed with meropenem in rats at doses of up to 1,000 mg/kg/day, and cynomolgus monkeys at doses of up to 360 mg/kg/day (on the basis of AUC comparisons, approximately 1.8 times and 3.7 times higher, respectively, than human exposure at the usual dose of 1 gram every 8 hours).
 These studies revealed no evidence of impaired fertility or harm to the fetus due to meropenem, although there were slight changes in fetal body weight at doses of 250 mg/kg/day (on the basis of AUC comparisons, 0.4 times the human exposure at a dose of 1 gram every 8 hours) and above in rats.
 
 ## 8.3 Nursing Mothers
@@ -34,7 +34,7 @@ Use of Meropenem for Injection in pediatric patients 3 months of age and older w
 
 ## 8.5 Geriatric Use
 
-Of the total number of subjects in clinical studies of Meropenem for Injection, approximately 1100 (30%) were 65 years of age and older, while 400 (11%) were 75 years and older.
+Of the total number of subjects in clinical studies of Meropenem for Injection, approximately 1,100 (30%) were 65 years of age and older, while 400 (11%) were 75 years and older.
 Additionally, in a study of 511 patients with complicated skin and skin structure infections, 93 (18%) were 65 years of age and older, while 38 (7%) were 75 years and older.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects; spontaneous reports and other reported clinical experience have not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 

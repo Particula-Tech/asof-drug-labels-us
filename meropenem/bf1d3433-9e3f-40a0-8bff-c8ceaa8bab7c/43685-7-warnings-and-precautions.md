@@ -14,7 +14,7 @@ If an allergic reaction to Meropenem for Injection occurs, discontinue the drug 
 Seizures and other adverse CNS experiences have been reported during treatment with Meropenem for Injection.
 These experiences have occurred most commonly in patients with CNS disorders (e.g., brain lesions or history of seizures) or with bacterial meningitis and/or compromised renal function [see Adverse Reactions (6.1) and Drug Interactions (7.2)].
 
-During clinical investigations, 2904 immunocompetent adult patients were treated for non-CNS infections with the overall seizure rate being 0.7% (based on 20 patients with this adverse event).
+During clinical investigations, 2,904 immunocompetent adult patients were treated for non-CNS infections with the overall seizure rate being 0.7% (based on 20 patients with this adverse event).
 All meropenem-treated patients with seizures had pre-existing contributing factors.
 Among these are included prior history of seizures or CNS abnormality and concomitant medications with seizure potential.
 Dosage adjustment is recommended in patients with advanced age and/or adult patients with creatinine clearance of 50 mL/min or less [see Dosage and Administration (2.2)].
@@ -57,7 +57,7 @@ If superinfection does occur during therapy, appropriate measures should be take
 
 ## 5.7 Thrombocytopenia
 
-In patients with renal impairment, thrombocytopenia has been observed but no clinical bleeding reported [see Dsage and Administration (2.2), Adverse Reactions (6.1), Use in Specific Populations (8.5) and (8.6), and Clinical Pharmacology (12.3)].
+In patients with renal impairment, thrombocytopenia has been observed but no clinical bleeding reported [see Dosage and Administration (2.2), Adverse Reactions (6.1), Use in Specific Populations (8.5) and (8.6), and Clinical Pharmacology (12.3)].
 
 ## 5.8 Potential for Neuromotor Impairment
 

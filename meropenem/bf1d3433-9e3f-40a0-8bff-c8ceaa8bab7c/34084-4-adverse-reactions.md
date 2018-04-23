@@ -17,12 +17,12 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Adult Patients:
 
-During clinical investigations, 2904 immunocompetent adult patients were treated for non-CNS infections with Meropenem for Injection (500 mg or 1 gram every 8 hours).
+During clinical investigations, 2,904 immunocompetent adult patients were treated for non-CNS infections with Meropenem for Injection (500 mg or 1 gram every 8 hours).
 Deaths in 5 patients were assessed as possibly related to meropenem; 36 (1.2%) patients had meropenem discontinued because of adverse events.
 Many patients in these trials were severely ill and had multiple background diseases, physiological impairments and were receiving multiple other drug therapies.
 In the seriously ill patient population, it was not possible to determine the relationship between observed adverse events and therapy with Meropenem for Injection.
 
-The following adverse reaction frequencies were derived from the clinical trials in the 2904 patients treated with Meropenem for Injection.
+The following adverse reaction frequencies were derived from the clinical trials in the 2,904 patients treated with Meropenem for Injection.
 
 Local Adverse Reactions Local adverse events that were reported with Meropenem for Injection were as follows:
 
@@ -106,12 +106,12 @@ Adverse Laboratory Changes in Pediatric Patients:
 
 Laboratory changes seen in the pediatric studies, including the meningitis studies, were similar to those reported in the adult studies.
 
-## 6.2 Post-marketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of Meropenem for Injection.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Worldwide post-marketing adverse reactions not otherwise listed in the Adverse Reactions from Clinical Trials section of this prescribing information and reported as possibly, probably, or definitely drug related are listed within each body system in order of decreasing severity.
+Worldwide postmarketing adverse reactions not otherwise listed in the Adverse Reactions from Clinical Trials section of this prescribing information and reported as possibly, probably, or definitely drug related are listed within each body system in order of decreasing severity.
 
 Blood and Lymphatic System Disorders: agranulocytosis, neutropenia, and leukopenia; a positive direct or indirect Coombs test, and hemolytic anemia.
 

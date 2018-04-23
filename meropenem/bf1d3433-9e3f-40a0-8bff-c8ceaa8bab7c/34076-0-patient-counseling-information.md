@@ -13,5 +13,5 @@
 - Patients receiving Meropenem for Injection on an outpatient basis must be alerted of adverse events such as seizures, delirium, headaches and/or paresthesias that could interfere with mental alertness and/or cause motor impairment.
   Until it is reasonably well established that Meropenem for Injection is well tolerated, patients should not operate machinery or motorized vehicles [see Warnings and Precautions (5.8)].
 
-Manufactured for: AuroMedics Pharma LLC 6 Wheeling Road Dayton, NJ 08810 Manufactured by: Auronext Pharma Pvt.
-Ltd. A-1128, RIICO Industrial Area, Phase III Bhiwadi-301019, Dist - Alwar Rajasthan, India
+Distributed by: AuroMedics Pharma LLC 279 Princeton-Hightstown Rd.
+E. Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad – 500038 India
