@@ -166,7 +166,7 @@ PRINICIPAL DISPLAY PANEL
 
 NDC 49702-237-55
 
-Selzentry®
+Selzentry
 
 (maraviroc) oral solution
 
@@ -187,9 +187,9 @@ Rx only
 
 230 mL
 
-©2016 the ViiV Healthcare group of companies
+©2017 the ViiV Healthcare group of companies or its licensor.
 
 Rev.
-10/16
+8/17
 
-PAA072611
+PAA091184
