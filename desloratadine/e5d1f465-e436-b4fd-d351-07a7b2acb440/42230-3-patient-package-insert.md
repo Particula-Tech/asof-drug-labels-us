@@ -2,6 +2,8 @@ PATIENT INFORMATION
 
 Desloratadine Orally Disintegrating Tablets
 
+(des′′ lor a′ ta deen)
+
 Read the Patient Information that comes with desloratadine before you start taking it and each time you get a refill.
 There may be new information.
 This leaflet is a summary of the information for patients.
@@ -120,4 +122,16 @@ Patients with Phenylketonuria: Desloratadine orally disintegrating tablets 5 mg 
 
 Inactive ingredients in desloratadine tablets: anhydrous citric acid, aspartame, colloidal silicon dioxide, crospovidone, ferric oxide, mannitol, lactose anhydrous, microcrystalline cellulose, polacrilex resin, sodium stearyl fumarate, talc, tutti frutti flavor.
 
-To reorder additional Patient Information Sheets, contact Dr. Reddy’s Customer Service at 1-866-733-3952.
+Rx Only
+
+Manufactured by:
+
+Dr. Reddy's Laboratories Limited
+
+Bachupally - 500 090 INDIA
+
+Revised: 1217
+
+Dispense with Patient Information Sheet available at:
+
+www.drreddys.com/pi/desloratadineodtabs.pdf

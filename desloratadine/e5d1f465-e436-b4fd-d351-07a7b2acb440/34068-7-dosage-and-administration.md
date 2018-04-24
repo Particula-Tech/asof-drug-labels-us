@@ -6,11 +6,11 @@ Tablet disintegration occurs rapidly.
 Administer with or without water.
 Take tablet immediately after opening the blister.
 
-## 2.1 Adults and adolescents 12 years of age and over
+## 2.1 Adults and Adolescents 12 Years of Age and Over
 
 The recommended dose of desloratadine orally disintegrating tablets is one 5 mg tablet once daily.
 
-## 2.2 Children 6 to 11 years of age
+## 2.2 Children 6 to 11 Years of Age
 
 The recommended dose of desloratadine orally disintegrating tablet is one 2.5 mg tablet once daily.
 

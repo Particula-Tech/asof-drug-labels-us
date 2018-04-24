@@ -26,7 +26,7 @@ No clinically relevant adverse events were reported.
 
 Absorption
 
-The pharmacokinetic profile of desloratadine orally disintegrating tablets was evaluated in a three way crossover study in 24 adult volunteers.
+The pharmacokinetic profile of desloratadine orally disintegrating tablets was evaluated in a three-way crossover study in 24 adult volunteers.
 A single desloratadine orally disintegrating tablets containing 5 mg of desloratadine was bioequivalent to a single 5 mg desloratadine orally disintegrating tablets (original formulation) for both desloratadine and 3-hydroxydesloratadine.
 Food and water had no effect on the bioavailability (AUC and Cmax) of desloratadine orally disintegrating tablets.
 
@@ -40,8 +40,8 @@ Metabolism
 Desloratadine (a major metabolite of loratadine) is extensively metabolized to 3-hydroxydesloratadine, an active metabolite, which is subsequently glucuronidated.
 The enzyme(s) responsible for the formation of 3-hydroxydesloratadine have not been identified.
 Data from clinical trials indicate that a subset of the general population has a decreased ability to form 3-hydroxydesloratadine, and are poor metabolizers of desloratadine.
-In pharmacokinetic studies (n=3,748), approximately 6% of subjects were poor metabolizers of desloratadine (defined as a subject with an AUC ratio of 3-hydroxydesloratadine to desloratadine less than 0.1, or a subject with a desloratadine half-life exceeding 50 hours).
-These pharmacokinetic studies included subjects between the ages of 2 and 70 years, including 977 subjects aged 2 to 5 years, 1,575 subjects aged 6 to 11 years, and 1196 subjects aged 12 to 70 years.
+In pharmacokinetic studies (n=3748), approximately 6% of subjects were poor metabolizers of desloratadine (defined as a subject with an AUC ratio of 3-hydroxydesloratadine to desloratadine less than 0.1, or a subject with a desloratadine half-life exceeding 50 hours).
+These pharmacokinetic studies included subjects between the ages of 2 and 70 years, including 977 subjects aged 2 to 5 years, 1575 subjects aged 6 to 11 years, and 1196 subjects aged 12 to 70 years.
 There was no difference in the prevalence of poor metabolizers across age groups.
 The frequency of poor metabolizers was higher in Blacks (17%, n=988) as compared to Caucasians (2%, n=1,462) and Hispanics (2%, n=1,063).
 The median exposure (AUC) to desloratadine in the poor metabolizers was approximately 6-fold greater than in the subjects who are not poor metabolizers.
@@ -110,7 +110,7 @@ Changes in Desloratadine and 3-Hydroxydesloratadine Pharmacokinetics in Healthy 
 
 |  | Desloratadine |  | 3-Hydroxydesloratadine |  |
 | --- | --- | --- | --- | --- |
-|  | Cmax | AUC 0-24hrs | Cmax | AUC 0-24hrs |
+|  | Cmax | AUC 0-24hrs | Cmax | AUC0-24hrs |
 | Erythromycin (500 mg Q8h) | + 24% | + 14% | + 43% | + 40% |
 | Ketoconazole (200 mg Q12h) | + 45% | + 39% | + 43% | + 72% |
 | Azithromycin (500 mg day 1,250 mg QD x 4 days) | + 15% | + 5% | + 15% | + 4% |
