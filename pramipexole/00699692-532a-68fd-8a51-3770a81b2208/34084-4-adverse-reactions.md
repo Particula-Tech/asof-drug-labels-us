@@ -117,7 +117,7 @@ Because this flexible dose study used a titration design, it was not possible to
 Adverse reactions can initially occur in either the titration or maintenance phase.
 Some adverse reactions developed in pramipexole dihydrochloride extended-release-treated patients during the titration phase and persisted (≥7 days) into the maintenance phase (i.e., pramipexole dihydrochloride extended-release % - placebo % = treatment difference ≥2%); persistent adverse reactions were dyskinesia and insomnia.
 
-Laboratory Testing
+Laboratory Tests
 
 During the development of pramipexole dihydrochloride extended-release tablets, no systematic abnormalities on routine laboratory testing were noted.
 

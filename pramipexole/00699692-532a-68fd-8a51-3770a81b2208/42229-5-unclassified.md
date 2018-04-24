@@ -2,6 +2,8 @@
 
 Pramipexole Dihydrochloride Extended-Release Tablets
 
+(pram" i pex' ole dye hye" droe klor' ide)
+
 Read this Patient Information before you start taking pramipexole dihydrochloride extended-release tablets and each time you get a refill.
 There may be new information.
 This information does not take the place of talking with your doctor about your medical condition or your treatment.
@@ -131,7 +133,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store pramipexole dihydrochloride extended-release tablets?
 
-- Store pramipexole dihydrochloride extended-release tablets at 20°-25°C (68°-77°F).[see USP Controlled Room Temperature].
+- Store pramipexole dihydrochloride extended-release tablets at 20°-25°C (68°-77°F).
 - Keep pramipexole dihydrochloride extended-release tablets away from high humidity or moisture.
 - Keep pramipexole dihydrochloride extended-release tablets and all medicines out of the reach of children.
 
@@ -156,8 +158,6 @@ Inactive Ingredients: carbomer homopolymer, colloidal silicon dioxide, hypromell
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-To reorder additional Patient Information sheets contact Dr. Reddy’s Customer Service at 1-866-733-3952.
-
 Rx Only
 
 Manufactured by:
@@ -166,4 +166,4 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally – 500 090 INDIA
 
-Revised: 0816
+Revised: 0218
