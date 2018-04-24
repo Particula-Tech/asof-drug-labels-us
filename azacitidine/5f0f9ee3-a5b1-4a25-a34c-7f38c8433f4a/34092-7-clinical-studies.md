@@ -2,7 +2,7 @@
 
 Myelodysplastic Syndromes (MDS)
 
-Study 1 was a randomized, open-label, controlled trial carried out in 53 U.S. sites compared the safety and efficacy of subcutaneous Azacitidine for Injection plus supportive care with supportive care alone (“observation”) in patients with any of the five FAB subtypes of myelodysplastic syndromes (MDS): refractory anemia (RA), RA with ringed sideroblasts (RARS), RA with excess blasts (RAEB), RAEB in transformation (RAEB-T), and chronic myelomonocytic leukemia (CMMoL).
+Study 1 was a randomized, open-label, controlled trial carried out in 53 U.S. sites that compared the safety and efficacy of subcutaneous Azacitidine for Injection plus supportive care with supportive care alone (“observation”) in patients with any of the five FAB subtypes of myelodysplastic syndromes (MDS): refractory anemia (RA), RA with ringed sideroblasts (RARS), RA with excess blasts (RAEB), RAEB in transformation (RAEB-T), and chronic myelomonocytic leukemia (CMMoL).
 RA and RARS patients were included if they met one or more of the following criteria: required packed RBC transfusions; had platelet counts less than or equal to 50 x 109/L; required platelet transfusions; or were neutropenic (ANC less than 1 x 109/L) with infections requiring treatment with antibiotics.
 Patients with acute myelogenous leukemia (AML) were not intended to be included.
 Supportive care allowed in this study included blood transfusion products, antibiotics, antiemetics, analgesics and antipyretics.
@@ -58,17 +58,11 @@ Response Criteria
 
 |  |  | RA | RARS | RAEB | RAEB-T | CMMoL |
 | --- | --- | --- | --- | --- | --- | --- |
-| Complete Response | Marrow | <5% blasts |  |  |  |  |
-| Peripheral | Normal CBC if abnormal at baseline |  |  |  |  |  |
-| (CR), duration | Blood | Absence of blasts in the peripheral circulation |  |  |  |  |
-| ≥4 weeks |  |  |  |  |  |  |
-| Partial | Marrow | No marrow requirements |  | ≥50% decrease in blasts |  |  |
-| Response |  |  |  | Improvement of marrow dyspoiesis |  |  |
-| (PR), duration | Peripheral | ≥50% restoration in the deficit from normal levels of baseline white cells, |  |  |  |  |
-| ≥4 weeks | Blood | hemoglobin and platelets if abnormal at baseline |  |  |  |  |
-|  |  | No blasts in the peripheral circulation |  |  |  |  |
-|  |  | For CMMoL, if WBC is elevated at baseline, a ≥75% reduction in the excess |  |  |  |  |
-|  |  | count over the upper limit of normal |  |  |  |  |
+| Complete Response (CR), duration ≥4 weeks | Marrow | <5% blasts |  |  |  |  |
+| Blood | Normal CBC if abnormal at baseline Absence of blasts in the peripheral circulation |  |  |  |  |  |
+| Partial Response (PR), duration ≥4 weeks | Marrow | No marrow requirements |  | ≥50% decrease in blasts Improvement of marrow dyspoiesis |  |  |
+| Peripheral Blood | ≥50% restoration in the deficit from normal levels of baseline white cells, hemoglobin and platelets if abnormal at baseline No blasts in the peripheral circulation |  |  |  |  |  |
+|  |  | For CMMoL, if WBC is elevated at baseline, a ≥75% reduction in the excess count over the upper limit of normal |  |  |  |  |
 
 The overall response rate (CR + PR) of 15.7% in Azacitidine for Injection-treated patients without AML (16.2% for all Azacitidine for Injection randomized patients including AML) was statistically significantly higher than the response rate of 0% in the observation group (p<0.0001) (Table 5).
 The majority of patients who achieved either CR or PR had either 2 or 3 cell line abnormalities at baseline (79%; 11/14) and had elevated bone marrow blasts or were transfusion dependent at baseline.
@@ -81,10 +75,8 @@ Response occurred in all MDS subtypes as well as in patients with adjudicated ba
 Table 5.
 Response Rates
 
-|  | Azacitidine for | Observation Before |  |
+|  | Azacitidine forInjection(N=89) | Observation Before Crossover(N=83) |  |
 | --- | --- | --- | --- |
-|  | Injection | Crossover |  |
-|  | (N=89) | (N=83) |  |
 | Response | n (%) | n (%) | P value |
 | Overall (CR+PR) | 14 (15.7) | 0 (0.0) | (<0.0001) |
 | Complete (CR) | 5 (5.6) | 0 (0.0) | (0.06) |
@@ -132,16 +124,8 @@ In patients treated with azacitidine who were RBC transfusion dependent at basel
 Table 6.
 Effect of Azacitidine on RBC Transfusions in MDS Patients
 
-|  | (n= 179) | (n= 179) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Efficacy Parameter | Azacitidine plus BSC (n= 179) | Conventional Care Regimens (n= 179) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Efficacy Parameter |  | Conventional Care |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  | Azacitidine plus BSC | Regimens |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Number and percent of patients who were | 50/111 (45.0%) | 13/114 (11.4%) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| transfusion dependent at baseline who became |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| transfusion independent on treatment1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  | (95% CI: 35.6%, 54.8%) | (95% CI: 6.2%, 18.7%) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Number and percent of patients who were |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| transfusion-independent at baseline who | 10/68 (14.7%) | 28/65 (43.1%) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Number and percent of patients who were transfusion dependent at baseline who became transfusion independent on treatment1 Number and percent of patients who were transfusion-independent at baseline who | 50/111 (45.0%) (95% CI: 35.6%, 54.8%) 10/68 (14.7%) (95% CI: 7.3%, 25.4%) | 13/114 (11.4%) (95% CI: 6.2%, 18.7%) 28/65 (43.1%) (95% CI: 30.9%, 56.0%) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | became transfusion-dependent on treatment |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  | (95% CI: 7.3%, 25.4%) | (95% CI: 30.9%, 56.0%) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | 1 A patient was considered RBC transfusion independent during the treatment period if the patient had no RBC transfusions during any 56 consecutive days or more during the treatment period. Otherwise, the patient was considered transfusion dependent. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |

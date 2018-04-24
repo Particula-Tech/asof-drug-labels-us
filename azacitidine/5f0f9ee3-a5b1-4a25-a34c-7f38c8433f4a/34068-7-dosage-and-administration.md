@@ -3,72 +3,64 @@
 ## 2.1 First Treatment Cycle
 
 The recommended starting dose for the first treatment cycle, for all patients regardless of baseline hematology laboratory values, is 75 mg/m2 subcutaneously or intravenously, daily for 7 days.
-Patients should be premedicated for nausea and vomiting.
+Premedicate patients for nausea and vomiting.
 
-Complete blood counts, liver chemistries and serum creatinine should be obtained prior to first dose.
+Obtain complete blood counts, liver chemistries and serum creatinine prior to the first dose.
 
 ## 2.2 Subsequent Treatment Cycles
 
-Cycles should be repeated every 4 weeks.
+Repeat cycles every 4 weeks.
 The dose may be increased to 100 mg/m2 if no beneficial effect is seen after 2 treatment cycles and if no toxicity other than nausea and vomiting has occurred.
-Treat patients for a minimum of 4 to 6 cycles.
+It is recommended that patients be treated for a minimum of 4 to 6 cycles.
 However, complete or partial response may require additional treatment cycles.
 Treatment may be continued as long as the patient continues to benefit.
 
-Patients should be monitored for hematologic response and renal toxicities [see Warnings and Precautions (5.3)], and dosage delay or reduction as described below may be necessary.
+Monitor patients for hematologic response and renal toxicities [see Warnings and Precautions (5.3)], and delay or reduce dosage if necessary as described below.
 
 ## 2.3 Dosage Adjustment Based on Hematology Laboratory Values
 
 - •For patients with baseline (start of treatment) WBC greater than or equal to 3 x109/L, ANC greater than or equal to 1.5 x109/L, and platelets greater than or equal to 75 x109/L, adjust the dose as follows, based on nadir counts for any given cycle:
 
-| Nadir Counts |  | % Dose in the Next |
+| Nadir Counts |  | % Dose in the Next Course |
 | --- | --- | --- |
-|  |  | Course |
-| ANC (x109/L) | Platelets (x109/L) |  |
-| <0.5 | <25 | 50% |
-| 0.5 to 1.5 | 25.0 to 50 | 67% |
-| >1.5 | >50 | 100% |
+| ANC (x109/L)<0.50.5 to 1.5>1.5 | Platelets (x109/L)<2525 to 50>50 | 50%67%100% |
 
-- •For patients whose baseline counts are WBC less than 3 x109/L, ANC less than 1.5 x109/L, or platelets less than 75 x109/L, dose adjustments should be based on nadir counts and bone marrow biopsy cellularity at the time of the nadir as noted below, unless there is clear improvement in differentiation (percentage of mature granulocytes is higher and ANC is higher than at onset of that course) at the time of the next cycle, in which case the dose of the current treatment should be continued.
+- •For patients whose baseline counts are WBC less than 3 x109/L, ANC less than 1.5 x109/L, or platelets less than 75 x109/L, base dose adjustments on nadir counts and bone marrow biopsy cellularity at the time of the nadir as noted below, unless there is clear improvement in differentiation (percentage of mature granulocytes is higher and ANC is higher than at onset of that course) at the time of the next cycle, in which case continue the current dose.
 
-| WBC or Platelet | Bone Marrow |  |  |
+| WBC or PlateletNadir% decrease incounts from baseline | Bone MarrowBiopsy Cellularity at Time of Nadir(%) |  |  |
 | --- | --- | --- | --- |
-| Nadir | Biopsy Cellularity at Time of Nadir |  |  |
-| % decrease in | (%) |  |  |
-| counts from baseline | 30 to 60 | 15 to 30 | <15 |
-|  | % Dose in the Next Course |  |  |
-| 50 to 75 | 100 | 50 | 33 |
-| >75 | 75 | 50 | 33 |
+| 30 to 60 | 15 to 30 | <15 |  |
+| 50 to 75>75 | % Dose in the Next Course |  |  |
+| 100 | 50 | 33 |  |
+| 75 | 50 | 33 |  |
 
-If a nadir as defined in the table above has occurred, the next course of treatment should be given 28 days after the start of the preceding course, provided that both the WBC and the platelet counts are greater than 25% above the nadir and rising.
-If a greater than 25% increase above the nadir is not seen by day 28, counts should be reassessed every 7 days.
-If a 25% increase is not seen by day 42, then the patient should be treated with 50% of the scheduled dose.
+If a nadir as defined in the table above has occurred, give the next course 28 days after the start of the preceding course, provided that both the WBC and the platelet counts are greater than 25% above the nadir and rising.
+If a greater than 25% increase above the nadir is not seen by day 28, reassess counts every 7 days.
+If a 25% increase is not seen by day 42, reduce the scheduled dose by 50%.
 
 ## 2.4 Dosage Adjustment Based on Serum Electrolytes and Renal Toxicity
 
-If unexplained reductions in serum bicarbonate levels to less than 20 mEq/L occur, the dosage should be reduced by 50% on the next course.
-Similarly, if unexplained elevations of BUN or serum creatinine occur, the next cycle should be delayed until values return to normal or baseline and the dose should be reduced by 50% on the next treatment course [see Warnings and Precautions (5.3)].
+If unexplained reductions in serum bicarbonate levels to less than 20 mEq/L occur, reduce the dosage by 50% for the next course.
+Similarly, if unexplained elevations of BUN or serum creatinine occur, delay the next cycle until values return to normal or baseline and reduce the dose by 50% for the next course [see Warnings and Precautions (5.3)].
 
 ## 2.5 Use in Geriatric Patients
 
 Azacitidine and its metabolites are known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function [see Warnings and Precautions (5.3) and Use in Specific Populations (8.5)].
+Because elderly patients are more likely to have decreased renal function, select the dose carefully and monitor renal function [see Warnings and Precautions (5.3) and Use in Specific Populations (8.5)].
 
 ## 2.6 Preparation of Azacitidine for Injection
 
-Azacitidine for Injection is a cytotoxic drug and, as with other potentially toxic compounds, caution should be exercised when handling and preparing Azacitidine for Injection suspensions [see How Supplied/Storage and Handling (16)].
-
-If reconstituted Azacitidine for Injection comes into contact with the skin, immediately and thoroughly wash with soap and water.
-If it comes into contact with mucous membranes, flush thoroughly with water.
+Azacitidine for Injection is a cytotoxic drug.
+Follow applicable special handling and disposal procedures.1
 
 The Azacitidine for Injection vial is single-dose and does not contain any preservatives.
-Unused portions of each vial should be discarded properly [see How Supplied/Storage and Handling (16)].
+Discard unused portions of each vial properly [see How Supplied/Storage and Handling (16)].
 Do not save any unused portions for later administration.
 
 ## 2.7 Instructions for Subcutaneous Administration
 
-Azacitidine for Injection should be reconstituted aseptically with 4 mL sterile water for injection.
-The diluent should be injected slowly into the vial.
+Reconstitute Azacitidine for Injection aseptically with 4 mL sterile water for injection.
+Inject the diluent slowly into the vial.
 Vigorously shake or roll the vial until a uniform suspension is achieved.
 The suspension will be cloudy.
 The resulting suspension will contain azacitidine 25 mg/mL.
