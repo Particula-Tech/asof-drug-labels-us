@@ -2,14 +2,14 @@
 
 ## 5.1 Pheochromocytoma
 
-Glucagon is contraindicated in patients with pheochromocytoma because Glucagon may stimulate the release of catecholamines from the tumor.
+GlucaGen is contraindicated in patients with pheochromocytoma because GlucaGen may stimulate the release of catecholamines from the tumor.
 If the patient develops a dramatic increase in blood pressure, 5 to 10 mg of phentolamine mesylate has been shown to be effective in lowering blood pressure for the short time that control would be needed.
 
 ## 5.2 Insulinoma and Glucagonoma
 
 GlucaGen should not be administered to patients suspected of having insulinoma.
-In patients with insulinoma, intravenous administration of glucagon may produce an initial increase in blood glucose; however, glucagon administration may directly or indirectly (through an initial rise in blood glucose) stimulate exaggerated insulin release from an insulinoma.
-A patient developing symptoms of hypoglycemia after a dose of glucagon should be given glucose orally or intravenously, whichever is most appropriate.
+In patients with insulinoma, intravenous administration of glucagon may produce an initial increase in blood glucose; however, GlucaGen administration may directly or indirectly (through an initial rise in blood glucose) stimulate exaggerated insulin release from an insulinoma.
+A patient developing symptoms of hypoglycemia after a dose of GlucaGen should be given glucose orally or intravenously, whichever is most appropriate.
 Caution should be observed in administering GlucaGen to patients with glucagonoma.
 
 ## 5.3 Hypersensitivity and Allergic Reactions
@@ -25,7 +25,7 @@ Therefore, GlucaGen should be used with caution in patients with conditions such
 
 ## 5.5 Cardiac Disease
 
-Caution should be observed when glucagon is used as an adjunct in endoscopic or radiographic procedures to inhibit gastrointestinal motility in patients with known cardiac disease.
+Caution should be observed when GlucaGen is used as an adjunct in endoscopic or radiographic procedures to inhibit gastrointestinal motility in patients with known cardiac disease.
 
 ## 5.6 Laboratory Tests
 

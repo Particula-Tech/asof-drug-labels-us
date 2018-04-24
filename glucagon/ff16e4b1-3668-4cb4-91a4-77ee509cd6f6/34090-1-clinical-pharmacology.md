@@ -21,12 +21,15 @@ For use as a diagnostic aid:
 
 Table 2 Pharmacodynamic Properties of Glucagon
 
-| Route of Administration | DoseThe usual diagnostic dose for relaxation of the stomach, duodenal bulb, duodenum, and small bowel is 0.2 – 0.5 mg given intravenously or 1 mg given intramuscularly; the usual dose to relax the colon is 0.5 – 0.75 mg intravenously and 1 – 2 mg intramuscularly. | Time of Maximal Glucose Concentration | Time of Onset of Action for GI Smooth Muscle Relaxation | Duration of Smooth Muscle RelaxationNote: The time of maximal glucose concentration for GlucaGen administered subcutaneously is 30-45 minutes. |
+| Route of Administration | Dose* | Time of Maximal Glucose Concentration | Time of Onset of Action for GI Smooth Muscle Relaxation | Duration of Smooth Muscle Relaxation1 |
 | --- | --- | --- | --- | --- |
-| IV | 0.25-0.5 mg (0.25-0.5 units) | 5-20 minutes | 45 seconds | 9-17 minutes |
-| 2 mg (2 units) | 5-20 minutes | 45 seconds | 22-25 minutes |  |
-| IM | 1 mg (1 unit) | 30 minutes | 8-10 minutes | 12-27 minutes |
-| 2 mg (2 units) | 30 minutes | 4-7 minutes | 21-32 minutes |  |
+| IV | 0.25-0.5 mg | 5-20 minutes | 45 seconds | 9-17 minutes |
+| 2 mg | 5-20 minutes | 45 seconds | 22-25 minutes |  |
+| IM | 1 mg | 30 minutes | 8-10 minutes | 12-27 minutes |
+| 2 mg | 30 minutes | 4-7 minutes | 21-32 minutes |  |
+
+1. *The usual diagnostic dose for relaxation of the stomach, duodenal bulb, duodenum, and small bowel is 0.2 – 0.5 mg given intravenously or 1 mg given intramuscularly; the usual dose to relax the colon is 0.5 – 0.75 mg intravenously and 1 – 2 mg intramuscularly.
+2. 1Note: The time of maximal glucose concentration for GlucaGen administered subcutaneously is 30-45 minutes.
 
 ## 12.3 Pharmacokinetics
 

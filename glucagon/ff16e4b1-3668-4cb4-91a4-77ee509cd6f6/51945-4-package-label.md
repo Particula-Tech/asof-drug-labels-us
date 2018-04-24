@@ -4,7 +4,7 @@ NDC 0597-0260-10
 
 GlucaGen®
 
-[glucagon (rDNA origin) for injection]
+(glucagon) for injection
 
 1 mg per vial
 
@@ -32,7 +32,7 @@ NDC 0597-0053-45
 
 GlucaGen®
 
-[glucagon (rDNA origin) for injection]
+(glucagon) for injection
 
 1 mg per vial
 
