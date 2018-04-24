@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "ANDA207707"
+  ],
+  "inn": "dopamine",
+  "labeler": "West-Ward Pharmaceuticals Corp",
+  "package_ndcs": [
+    "0143-9252-01",
+    "0143-9252-25",
+    "0143-9253-01",
+    "0143-9253-25",
+    "0143-9254-01",
+    "0143-9254-25",
+    "0143-9255-01",
+    "0143-9255-25"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "dopamine hydrochloride",
+      "name": "Dopamine Hydrochloride"
+    }
+  ],
+  "setid": "0e499952-46c7-4172-8c70-186312e240a3",
+  "source": "dailymed"
+}
