@@ -1,39 +1,18 @@
 # 7 DRUG INTERACTIONS
 
-Everolimus is a substrate of CYP3A4, and also a substrate and moderate inhibitor of the multidrug efflux pump PgP.
-In vitro, everolimus is a competitive inhibitor of CYP3A4 and a mixed inhibitor of CYP2D6.
+## 7.1 Effect of Other Drugs on AFINITOR/AFINITOR DISPERZ
 
-## 7.1 Agents That May Increase Everolimus Blood Concentrations
+Inhibitors
 
-CYP3A4 Inhibitors and PgP Inhibitors
+Avoid the concomitant use of P-gp and strong CYP3A4 inhibitors [see Dosage and Administration (2.11), Clinical Pharmacology (12.3)].
 
-In healthy subjects, compared to AFINITOR treatment alone there were significant increases in everolimus exposure when AFINITOR was coadministered with:
+Reduce the dose for patients taking AFINITOR/AFINITOR DISPERZ with a P-gp and moderate CYP3A4 inhibitor as recommended [see Dosage and Administration (2.11), Clinical Pharmacology (12.3)].
 
-- ketoconazole (a strong CYP3A4 inhibitor and a PgP inhibitor) - Cmax and AUC increased by 3.9- and 15.0-fold, respectively.
-- erythromycin (a moderate CYP3A4 inhibitor and a PgP inhibitor) - Cmax and AUC increased by 2.0- and 4.4-fold, respectively.
-- verapamil (a moderate CYP3A4 inhibitor and a PgP inhibitor) - Cmax and AUC increased by 2.3- and 3.5-fold, respectively.
+Inducers
 
-Concomitant strong inhibitors of CYP3A4/PgP should not be used [see Dosage and Administration (2.2, 2.5) and Warnings and Precautions (5.9)].
+Increase the dose for patients taking AFINITOR/AFINITOR DISPERZ with a P-gp and strong CYP3A4 inducer as recommended [see Dosage and Administration (2.12), Clinical Pharmacology (12.3)].
 
-Use caution when AFINITOR is used in combination with moderate CYP3A4/PgP inhibitors.
-If alternative treatment cannot be administered reduce the AFINITOR dose [see Dosage and Administration (2.2, 2.5) and Warnings and Precautions (5.9)].
+## 7.2 Effects of Combination Use of Angiotensin Converting Enzyme (ACE) Inhibitors
 
-## 7.2 Agents That May Decrease Everolimus Blood Concentrations
-
-CYP3A4/PgP Inducers
-
-In healthy subjects, co-administration of AFINITOR with rifampin, a strong inducer of CYP3A4 and an inducer of PgP, decreased everolimus AUC and Cmax by 63% and 58% respectively, compared to everolimus treatment alone.
-Consider a dose increase of AFINITOR when co-administered with strong CYP3A4/PgP inducers if alternative treatment cannot be administered.
-St. John’s Wort may decrease everolimus exposure unpredictably and should be avoided [see Dosage and Administration (2.2, 2.5)].
-
-## 7.3 Drugs That May Have Their Plasma Concentrations Altered by Everolimus
-
-Studies in healthy subjects indicate that there are no clinically significant pharmacokinetic interactions between AFINITOR and the HMG-CoA reductase inhibitors atorvastatin (a CYP3A4 substrate) and pravastatin (a non-CYP3A4 substrate) and population pharmacokinetic analyses also detected no influence of simvastatin (a CYP3A4 substrate) on the clearance of AFINITOR.
-
-A study in healthy subjects demonstrated that co-administration of an oral dose of midazolam (sensitive CYP3A4 substrate) with everolimus resulted in a 25% increase in midazolam Cmax and a 30% increase in midazolam AUC(0-inf).
-
-Co-administration of everolimus and exemestane increased exemestane Cmin by 45% and C2h by 64%.
-However, the corresponding estradiol levels at steady state (4 weeks) were not different between the 2 treatment arms.
-No increase in adverse events related to exemestane was observed in patients with hormone receptor-positive, HER2-negative advanced breast cancer receiving the combination.
-
-Co-administration of everolimus and depot octreotide increased octreotide Cmin by approximately 50%.
+Patients taking concomitant ACE inhibitors with AFINITOR/AFINITOR DISPERZ may be at increased risk for angioedema.
+Avoid the concomitant use of ACE inhibitors with AFINITOR/AFINITOR DISPERZ [see Warnings and Precautions (5.4)].

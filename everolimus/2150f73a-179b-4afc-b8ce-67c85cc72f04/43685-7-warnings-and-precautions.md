@@ -2,124 +2,108 @@
 
 ## 5.1 Non-infectious Pneumonitis
 
-Non-infectious pneumonitis is a class effect of rapamycin derivatives, including AFINITOR.
-Non-infectious pneumonitis was reported in up to 19% of patients treated with AFINITOR in clinical trials, some cases reported with pulmonary hypertension (including pulmonary arterial hypertension) as a secondary event.
-The incidence of Common Terminology Criteria (CTC) Grade 3 and 4 non-infectious pneumonitis was up to 4.0% and up to 0.2%, respectively [see Adverse Reactions (6.1, 6.2, 6.3, 6.4, 6.5)].
+Non-infectious pneumonitis is a class effect of rapamycin derivatives.
+Non-infectious pneumonitis was reported in up to 19% of patients treated with AFINITOR/AFINITOR DISPERZ in clinical trials, some cases were reported with pulmonary hypertension (including pulmonary arterial hypertension) as a secondary event.
+The incidence of Grade 3 and 4 non-infectious pneumonitis was up to 4% and up to 0.2%, respectively [see Adverse Reactions (6.1)].
 Fatal outcomes have been observed.
 
-Consider a diagnosis of non-infectious pneumonitis in patients presenting with non-specific respiratory signs and symptoms such as hypoxia, pleural effusion, cough, or dyspnea, and in whom infectious, neoplastic, and other causes have been excluded by means of appropriate investigations.
-Opportunistic infections such as pneumocystis jiroveci pneumonia (PJP) should be considered in the differential diagnosis.
+Consider a diagnosis of non-infectious pneumonitis in patients presenting with non-specific respiratory signs and symptoms.
+Consider opportunistic infections such as pneumocystis jiroveci pneumonia (PJP) in the differential diagnosis.
 Advise patients to report promptly any new or worsening respiratory symptoms.
 
-Patients who develop radiological changes suggestive of non-infectious pneumonitis and have few or no symptoms may continue AFINITOR therapy without dose alteration.
+Continue AFINITOR/AFINITOR DISPERZ without dose alteration in patients who develop radiological changes suggestive of non-infectious pneumonitis and have few or no symptoms.
 Imaging appears to overestimate the incidence of clinical pneumonitis.
 
-If symptoms are moderate, consider interrupting therapy until symptoms improve.
-The use of corticosteroids may be indicated.
-AFINITOR may be reintroduced at a daily dose approximately 50% lower than the dose previously administered [see Table 1 in Dosage and Administration (2.2)].
-
-For cases of Grade 3 non-infectious pneumonitis, interrupt AFINITOR until resolution to less than or equal to Grade 1.
-AFINITOR may be re-introduced at a daily dose approximately 50% lower than the dose previously administered depending on the individual clinical circumstances [see Dosage and Administration (2.2)].
-If toxicity recurs at Grade 3, consider discontinuation of AFINITOR.
-For cases of Grade 4 non-infectious pneumonitis, discontinue AFINITOR.
+For Grade 2 to 4 non-infectious pneumonitis, withhold or permanently discontinue AFINITOR/AFINITOR DISPERZ based on severity [see Dosage and Administration (2.9)].
 Corticosteroids may be indicated until clinical symptoms resolve.
-For patients who require use of corticosteroids for treatment of non-infectious pneumonitis, prophylaxis for PJP may be considered.
+Administer prophylaxis for PJP when concomitant use of corticosteroids or other immunosuppressive agents are required.
 The development of pneumonitis has been reported even at a reduced dose.
 
 ## 5.2 Infections
 
-AFINITOR has immunosuppressive properties and may predispose patients to bacterial, fungal, viral, or protozoal infections, including infections with opportunistic pathogens [see Adverse Reactions (6.1, 6.2, 6.3, 6.4, 6.5)].
-Localized and systemic infections, including pneumonia, mycobacterial infections, other bacterial infections, invasive fungal infections, such as aspergillosis, candidiasis, or pneumocystis jiroveci pneumonia (PJP) and viral infections including reactivation of hepatitis B virus have occurred in patients taking AFINITOR.
-Some of these infections have been severe (e.g., leading to sepsis, respiratory or hepatic failure) or fatal.
-Physicians and patients should be aware of the increased risk of infection with AFINITOR.
-Complete treatment of pre-existing invasive fungal infections prior to starting treatment with AFINITOR.
-While taking AFINITOR, be vigilant for signs and symptoms of infection; if a diagnosis of an infection is made, institute appropriate treatment promptly and consider interruption or discontinuation of AFINITOR.
-If a diagnosis of invasive systemic fungal infection is made, discontinue AFINITOR and treat with appropriate antifungal therapy.
+AFINITOR/AFINITOR DISPERZ has immunosuppressive properties and may predispose patients to bacterial, fungal, viral, or protozoal infections, including infections with opportunistic pathogens [see Adverse Reactions (6.1)].
+Localized and systemic infections, including pneumonia, mycobacterial infections, other bacterial infections, invasive fungal infections (e.g., aspergillosis, candidiasis, or PJP) and viral infections (e.g., reactivation of hepatitis B virus) have occurred.
+Some of these infections have been severe (e.g., sepsis, septic shock, or resulting in multisystem organ failure) or fatal.
+The incidence of Grade 3 and 4 infections was up to 10% and up to 3%, respectively.
+The incidence of serious infections was reported at a higher frequency in patients < 6 years of age [see Use in Specific Populations (8.4)].
 
-Pneumocystis jiroveci pneumonia, some with a fatal outcome, has been reported in patients who received everolimus.
-This may be associated with concomitant use of corticosteroids or other immunosuppressive agents.
-Prophylaxis for PJP should be considered when concomitant use of corticosteroids or other immunosuppressive agents are required.
+Complete treatment of preexisting invasive fungal infections prior to starting treatment.
+Monitor for signs and symptoms of infection.
+Withhold or permanently discontinue AFINITOR/AFINITOR DISPERZ based on severity of infection [see Dosage and Administration (2.9)].
 
-## 5.3 Angioedema with Concomitant Use of Angiotensin-Converting Enzyme (ACE) Inhibitors
+Administer prophylaxis for PJP when concomitant use of corticosteroids or other immunosuppressive agents are required.
 
-Patients taking concomitant ACE inhibitor therapy may be at increased risk for angioedema (e.g., swelling of the airways or tongue, with or without respiratory impairment).
-In a pooled analysis of randomized double-blind oncology clinical trials, the incidence of angioedema in patients taking everolimus with an ACE inhibitor was 6.8% compared to 1.3% in the control arm with an ACE inhibitor.
+## 5.3 Severe Hypersensitivity Reactions
 
-## 5.4 Stomatitis
+Hypersensitivity reactions to AFINITOR/AFINITOR DISPERZ have been observed and include anaphylaxis, dyspnea, flushing, chest pain, and angioedema (e.g., swelling of the airways or tongue, with or without respiratory impairment) [see Contraindications (4)].
+The incidence of Grade 3 hypersensitivity reactions was up to 1%.
+Permanently discontinue AFINITOR/AFINITOR DISPERZ for the development of clinically significant hypersensitivity.
 
-Stomatitis, including mouth ulcers and oral mucositis, has occurred in patients treated with AFINITOR at an incidence ranging from 44%-78% across the clinical trial experience.
-Grade 3 or 4 stomatitis was reported in 4%-9% of patients [see Adverse Reactions (6.1, 6.2, 6.3, 6.4, 6.5)].
+## 5.4 Angioedema with Concomitant Use of Angiotensin-Converting Enzyme (ACE) Inhibitors
+
+Patients taking concomitant ACE inhibitors with AFINITOR/AFINITOR DISPERZ may be at increased risk for angioedema (e.g., swelling of the airways or tongue, with or without respiratory impairment).
+In a pooled analysis of randomized double-blind oncology clinical trials, the incidence of angioedema in patients taking AFINITOR with an ACE inhibitor was 6.8% compared to 1.3% in the control arm with an ACE inhibitor.
+Permanently discontinue AFINITOR/AFINITOR DISPERZ for angioedema.
+
+## 5.5 Stomatitis
+
+Stomatitis, including mouth ulcers and oral mucositis, has occurred in patients treated with AFINITOR/AFINITOR DISPERZ at an incidence ranging from 44% to 78% across clinical trials.
+Grades 3-4 stomatitis was reported in 4% to 9% of patients [see Adverse Reactions (6.1)].
 Stomatitis most often occurs within the first 8 weeks of treatment.
-When starting AFINITOR, initiating dexamethasone alcohol-free oral solution as a swish and spit mouthwash reduces the incidence and severity of stomatitis [see Adverse Reactions (6.1) and Use in Specific Populations (8.4)].
-If stomatitis does occur, mouthwashes and/or other topical treatments are recommended, but alcohol-, hydrogen peroxide-, iodine-, or thyme- containing products should be avoided as they may exacerbate the condition [see Dosage and Administration (2.2)].
-Antifungal agents should not be used unless fungal infection has been diagnosed [see Drug Interactions (7.1)].
+When starting AFINITOR/AFINITOR DISPERZ, initiating dexamethasone alcohol-free oral solution as a swish and spit mouthwash reduces the incidence and severity of stomatitis [see Adverse Reactions (6.1)].
+If stomatitis does occur, mouthwashes and/or other topical treatments are recommended.
+Avoid alcohol-, hydrogen peroxide-, iodine-, or thyme- containing products, as they may exacerbate the condition.
+Do not administer antifungal agents, unless fungal infection has been diagnosed.
 
-## 5.5 Renal Failure
+## 5.6 Renal Failure
 
-Cases of renal failure (including acute renal failure), some with a fatal outcome, have been observed in patients treated with AFINITOR [see Laboratory Tests and Monitoring (5.8)].
+Cases of renal failure (including acute renal failure), some with a fatal outcome, have occurred in patients taking AFINITOR.
+Elevations of serum creatinine and proteinuria have been reported in patients taking AFINITOR/AFINITOR DISPERZ [see Adverse Reactions (6.1)].
+The incidence of Grade 3 and 4 elevations of serum creatinine was up to 2% and up to 1%, respectively.
+The incidence of Grade 3 and 4 proteinuria was up to 1% and up to 0.5%, respectively.
+Monitor renal function prior to starting AFINITOR/AFINITOR DISPERZ and annually thereafter.
+Monitor renal function at least every 6 months in patients who have additional risk factors for renal failure.
 
-## 5.6 Impaired Wound Healing
+## 5.7 Impaired Wound Healing
 
-Everolimus delays wound healing and increases the occurrence of wound-related complications like wound dehiscence, wound infection, incisional hernia, lymphocele, and seroma.
+AFINITOR/AFINITOR DISPERZ delays wound healing and increases the occurrence of wound-related complications like wound dehiscence, wound infection, incisional hernia, lymphocele, and seroma.
 These wound-related complications may require surgical intervention.
-Exercise caution with the use of AFINITOR in the peri-surgical period.
+Exercise caution with the use of AFINITOR/AFINITOR DISPERZ in the peri-surgical period.
 
-## 5.7 Geriatric Patients
+## 5.8 Geriatric Patients
 
-In the randomized advanced hormone receptor-positive, HER2-negative breast cancer study (BOLERO-2), the incidence of deaths due to any cause within 28 days of the last AFINITOR dose was 6% in patients ≥ 65 years of age compared to 2% in patients < 65 years of age.
+In the randomized hormone receptor-positive, HER2-negative breast cancer study (BOLERO-2), the incidence of deaths due to any cause within 28 days of the last AFINITOR dose was 6% in patients ≥ 65 years of age compared to 2% in patients < 65 years of age.
 Adverse reactions leading to permanent treatment discontinuation occurred in 33% of patients ≥ 65 years of age compared to 17% in patients < 65 years of age.
-Careful monitoring and appropriate dose adjustments for adverse reactions are recommended [see Dosage and Administration (2.2), Use in Specific Populations (8.5)].
+Careful monitoring and appropriate dose adjustments for adverse reactions are recommended [see Dosage and Administration (2.9), Use in Specific Populations (8.5)].
 
-## 5.8 Laboratory Tests and Monitoring
+## 5.9 Metabolic Disorders
 
-Renal Function
+Hyperglycemia, hypercholesterolemia, and hypertriglyceridemia have been reported in patients taking AFINITOR/AFINITOR DISPERZ at an incidence up to 75%, 86%, and 73%, respectively.
+The incidence of these Grade 3 and 4 laboratory abnormalities was up to 15% and up to 0.4%, respectively [see Adverse Reactions (6.1)].
+In non-diabetic patients, monitor fasting serum glucose prior to starting AFINITOR/AFINITOR DISPERZ and annually thereafter.
+In diabetic patients, monitor fasting serum glucose more frequently as clinically indicated.
+Monitor lipid profile prior to starting AFINITOR/AFINITOR DISPERZ and annually thereafter.
+When possible, achieve optimal glucose and lipid control prior to starting AFINITOR/AFINITOR DISPERZ.
+For Grade 3 to 4 metabolic events, withhold or permanently discontinue AFINITOR/AFINITOR DISPERZ based on severity [see Dosage and Administration (2.9)].
 
-Elevations of serum creatinine and proteinuria have been reported in patients taking AFINITOR [see Adverse Reactions (6.1, 6.2, 6.3, 6.4, 6.5)].
-Monitoring of renal function, including measurement of blood urea nitrogen (BUN), urinary protein, or serum creatinine, is recommended prior to the start of AFINITOR therapy and periodically thereafter.
-Renal function of patients should be monitored particularly where patients have additional risk factors that may further impair renal function.
+## 5.10 Myelosuppression
 
-Blood Glucose and Lipids
+Anemia, lymphopenia, neutropenia, and thrombocytopenia have been reported in patients taking AFINITOR/AFINITOR DISPERZ.
+The incidence of these Grade 3 and 4 laboratory abnormalities was up to 16% and up to 2%, respectively [see Adverse Reactions (6.1)].
+Monitor complete blood count prior to starting AFINITOR/AFINITOR DISPERZ every 6 months for the first year of treatment and annually thereafter.
+Withhold or permanently discontinue AFINITOR/AFINITOR DISPERZ based on severity [see Dosage and Administration (2.9)].
 
-Hyperglycemia, hyperlipidemia, and hypertriglyceridemia have been reported in patients taking AFINITOR [see Adverse Reactions (6.1, 6.2, 6.3, 6.4, 6.5)].
-Monitoring of fasting serum glucose and lipid profile is recommended prior to the start of AFINITOR therapy and periodically thereafter as well as management with appropriate medical therapy.
-More frequent monitoring is recommended when AFINITOR is co-administered with other drugs that may induce hyperglycemia.
-When possible, optimal glucose and lipid control should be achieved before starting a patient on AFINITOR.
+## 5.11 Risk of Infection or Reduced Immune Response with Vaccination
 
-Hematologic Parameters
-
-Decreased hemoglobin, lymphocytes, neutrophils, and platelets have been reported in patients taking AFINITOR [see Adverse Reactions (6.1, 6.2, 6.3, 6.4, 6.5)].
-Monitoring of complete blood count is recommended prior to the start of AFINITOR therapy and periodically thereafter.
-
-## 5.9 Drug-Drug Interactions
-
-Due to significant increases in exposure of everolimus, co-administration with strong CYP3A4/PgP inhibitors should be avoided [see Dosage and Administration (2.2, 2.5) and Drug Interactions (7.1)].
-
-A reduction of the AFINITOR dose is recommended when co-administered with a moderate CYP3A4/PgP inhibitor [see Dosage and Administration (2.2, 2.5) and Drug Interactions (7.1)].
-
-An increase in the AFINITOR dose is recommended when co-administered with a strong CYP3A4/PgP inducer [see Dosage and Administration (2.2, 2.5) and Drug Interactions (7.2)].
-
-## 5.10 Hepatic Impairment
-
-Exposure to everolimus was increased in patients with hepatic impairment [see Clinical Pharmacology (12.3)].
-
-For advanced HR+ BC, advanced NET, advanced RCC, and renal angiomyolipoma with TSC patients with severe hepatic impairment (Child-Pugh class C), AFINITOR may be used at a reduced dose if the desired benefit outweighs the risk.
-For patients with mild (Child-Pugh class A) or moderate (Child-Pugh class B) hepatic impairment, a dose reduction is recommended [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
-
-For patients with SEGA and mild or moderate hepatic impairment, adjust the dose of AFINITOR Tablets or AFINITOR DISPERZ based on therapeutic drug monitoring.
-For patients with SEGA and severe hepatic impairment, reduce the starting dose of AFINITOR Tablets or AFINITOR DISPERZ by approximately 50% and adjust subsequent doses based on therapeutic drug monitoring [see Dosage and Administration (2.4, 2.5)].
-
-## 5.11 Vaccinations
-
-During AFINITOR treatment, avoid the use of live vaccines and avoid close contact with individuals who have received live vaccines (e.g., intranasal influenza, measles, mumps, rubella, oral polio, BCG, yellow fever, varicella, and TY21a typhoid vaccines).
-
-For pediatric patients with SEGA that do not require immediate treatment, complete the recommended childhood series of live virus vaccinations according to American Council on Immunization Practices (ACIP) guidelines prior to the start of therapy.
+The safety of immunization with live vaccines during AFINITOR/AFINITOR DISPERZ therapy has not been studied.
+Due to the potential increased risk of infection, avoid the use of live vaccines and close contact with individuals who have received live vaccines during treatment with AFINITOR/AFINITOR DISPERZ.
+Due to the potential increased risk of infection or reduced immune response with vaccination, complete the recommended childhood series of vaccinations according to American Council on Immunization Practices (ACIP) guidelines prior to the start of therapy.
 An accelerated vaccination schedule may be appropriate.
 
 ## 5.12 Embryo-Fetal Toxicity
 
-Based on animal studies and the mechanism of action [see Clinical Pharmacology (12.1)], AFINITOR can cause fetal harm when administered to a pregnant woman.
-In animal studies, everolimus caused embryo-fetal toxicities in rats when administered during the period of organogenesis at maternal exposures that were lower than human exposures at the clinical dose of 10 mg daily.
+Based on animal studies and the mechanism of action, AFINITOR/AFINITOR DISPERZ can cause fetal harm when administered to a pregnant woman.
+In animal studies, everolimus caused embryo-fetal toxicities in rats when administered during the period of organogenesis at maternal exposures that were lower than human exposures at the clinical dose of 10 mg once daily.
 Advise pregnant women of the potential risk to a fetus.
-
-Advise female patients of reproductive potential to avoid becoming pregnant and to use effective contraception during treatment with AFINITOR and for 8 weeks after the last dose.
-Advise male patients with female partners of reproductive potential to use effective contraception during treatment with AFINITOR and for 4 weeks after the last dose [see Use in Specific Populations (8.1, 8.3)].
+Advise female patients of reproductive potential to avoid becoming pregnant and to use effective contraception during treatment with AFINITOR/AFINITOR DISPERZ and for 8 weeks after the last dose.
+Advise male patients with female partners of reproductive potential to use effective contraception during treatment with AFINITOR/AFINITOR DISPERZ and for 4 weeks after the last dose [see Use in Specific Populations (8.1, 8.3)].

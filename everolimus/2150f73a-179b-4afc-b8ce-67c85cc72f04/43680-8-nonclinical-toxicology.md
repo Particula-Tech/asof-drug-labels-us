@@ -2,19 +2,19 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Administration of everolimus for up to 2 years did not indicate oncogenic potential in mice and rats up to the highest doses tested (0.9 mg/kg) corresponding respectively to 3.9 and 0.2 times the estimated clinical exposure (AUC0-24h) at the 10 mg daily human dose.
+Administration of everolimus for up to 2 years did not indicate oncogenic potential in mice and rats up to the highest doses tested (0.9 mg/kg) corresponding respectively to 3.9 and 0.2 times the estimated human exposure based on area under the curve (AUC) at the recommended dose of AFINITOR 10 mg orally once daily.
 
 Everolimus was not genotoxic in a battery of in vitro assays (Ames mutation test in Salmonella, mutation test in L5178Y mouse lymphoma cells, and chromosome aberration assay in V79 Chinese hamster cells).
-Everolimus was not genotoxic in an in vivo mouse bone marrow micronucleus test at doses up to 500 mg/kg/day (1500 mg/m2/day, approximately 255-fold the 10 mg daily human dose, and 103-fold the maximum dose administered to patients with SEGA, based on the body surface area), administered as 2 doses, 24 hours apart.
+Everolimus was not genotoxic in an in vivo mouse bone marrow micronucleus test at doses up to 500 mg/kg/day (1500 mg/m2/day, approximately 255-fold the recommended dose of AFINITOR 10 mg orally once daily, and approximately 200-fold the median dose administered to patients with TSC-associated SEGA and TSC-associated partial-onset seizures, based on the body surface area), administered as 2 doses, 24 hours apart.
 
-Based on non-clinical findings, male fertility may be compromised by treatment with AFINITOR.
-In a 13-week male fertility study in rats, testicular morphology was affected at 0.5 mg/kg and above.
+Based on non-clinical findings, AFINITOR/AFINITOR DISPERZ may impair male fertility.
+In a 13-week male fertility study in rats, testicular morphology was affected at doses of 0.5 mg/kg and above.
 Sperm motility, sperm count, and plasma testosterone levels were diminished in rats treated with 5 mg/kg.
-These doses result in exposures which are within the range of therapeutic exposure (52 ng•hr/mL and 414 ng•hr/mL respectively compared to 560 ng•hr/mL human exposure at 10 mg/day), and resulted in infertility in the rats at 5 mg/kg.
-Effects on male fertility occurred at the AUC0-24h values below that of therapeutic exposure (approximately 10%-81% of the AUC0-24h in patients receiving the 10 mg daily dose).
-After a 10-13 week non-treatment period, the fertility index increased from zero (infertility) to 60% (12/20 mated females were pregnant).
+The exposures at these doses (52 ng•hr/mL and 414 ng•hr/mL, respectively) were within the range of human exposure at the recommended dose of AFINITOR 10 mg orally once daily (560 ng•hr/mL) and resulted in infertility in the rats at 5 mg/kg.
+Effects on male fertility occurred at AUC0-24h values 10% to 81% lower than human exposure at the recommended dose of AFINITOR 10 mg orally once daily.
+After a 10-13 week non-treatment period, the fertility index increased from zero (infertility) to 60%.
 
-Oral doses of everolimus in female rats at ≥0.1 mg/kg (approximately 4% the AUC0-24h in patients receiving the 10 mg daily dose) resulted in increased incidence of pre-implantation loss, suggesting that the drug may reduce female fertility.
+Oral doses of everolimus in female rats at doses ≥ 0.1 mg/kg (approximately 4% the human exposure based on AUC at the recommended dose of AFINITOR 10 mg orally once daily) resulted in increased incidence of pre-implantation loss, suggesting that the drug may reduce female fertility.
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 

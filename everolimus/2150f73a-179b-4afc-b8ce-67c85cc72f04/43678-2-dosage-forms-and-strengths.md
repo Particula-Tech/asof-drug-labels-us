@@ -1,33 +1,18 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-## 3.1 AFINITOR Tablets
+AFINITOR
 
-2.5 mg tablet
+Tablets, white to slightly yellow and elongated with a bevelled edge:
 
-White to slightly yellow, elongated tablets with a bevelled edge and engraved with “LCL” on one side and “NVR” on the other.
+- 2.5 mg: engraved with “LCL” on one side and “NVR” on the other.
+- 5 mg: engraved with “5” on one side and “NVR” on the other.
+- 7.5 mg: engraved with “7P5” on one side and “NVR” on the other.
+- 10 mg: engraved with “UHE” on one side and “NVR” on the other.
 
-5 mg tablet
+AFINITOR DISPERZ
 
-White to slightly yellow, elongated tablets with a bevelled edge and engraved with “5” on one side and “NVR” on the other.
+Tablets for oral suspension, white to slightly yellowish, round, and flat with a bevelled edge:
 
-7.5 mg tablet
-
-White to slightly yellow, elongated tablets with a bevelled edge and engraved with “7P5” on one side and “NVR” on the other.
-
-10 mg tablet
-
-White to slightly yellow, elongated tablets with a bevelled edge and engraved with “UHE” on one side and “NVR” on the other.
-
-## 3.2 AFINITOR DISPERZ
-
-2 mg tablet for oral suspension
-
-White to slightly yellowish, round, flat tablets with a bevelled edge and engraved with “D2” on one side and “NVR” on the other.
-
-3 mg tablet for oral suspension
-
-White to slightly yellowish, round, flat tablets with a bevelled edge and engraved with “D3” on one side and “NVR” on the other.
-
-5 mg tablet for oral suspension
-
-White to slightly yellowish, round, flat tablets with a bevelled edge and engraved with “D5” on one side and “NVR” on the other.
+- 2 mg: engraved with “D2” on one side and “NVR” on the other.
+- 3 mg: engraved with “D3” on one side and “NVR” on the other.
+- 5 mg: engraved with “D5” on one side and “NVR” on the other.
