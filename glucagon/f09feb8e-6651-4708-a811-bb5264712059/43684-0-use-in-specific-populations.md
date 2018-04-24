@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category B. Reproduction studies were performed in rats and rabbits at GlucaGen doses of 0.4, 2.0, and 10 mg/kg.
+Reproduction studies were performed in rats and rabbits at GlucaGen doses of 0.4, 2.0, and 10 mg/kg.
 These doses represent exposures of up to 100 and 200 times the human dose based on mg/m2 for rats and rabbits, respectively, and revealed no evidence of harm to the fetus.
 There are, however, no adequate and well-controlled studies in pregnant women.
 Glucagon does not cross the human placenta barrier.

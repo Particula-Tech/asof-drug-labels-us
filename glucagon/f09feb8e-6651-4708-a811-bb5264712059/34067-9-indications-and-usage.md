@@ -9,6 +9,5 @@ Medical evaluation is recommended for all patients who experience severe hypogly
 ## 1.2 Use as a diagnostic aid
 
 GlucaGen is indicated for use during radiologic examinations to temporarily inhibit movement of the gastrointestinal tract.
-Glucagon is as effective for this examination as are the anticholinergic drugs.
-However, the addition of the anticholinergic agent may result in increased side effects.
+GlucaGen is not recommended in combination with anticholinergic agents due to the possibility of increased side effects.
 After the end of the diagnostic procedure, give oral carbohydrates to patients who have been fasting, if this is compatible with the diagnostic procedure applied.
