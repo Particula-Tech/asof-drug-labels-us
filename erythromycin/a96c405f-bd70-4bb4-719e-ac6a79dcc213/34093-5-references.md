@@ -18,6 +18,6 @@
 
 Hospira, Inc., Lake Forest, IL 60045 USA
 
-LAB-1218-1.0
+LAB-1218-2.0
 
-Revised: 01/2018
+Revised: 04/2018

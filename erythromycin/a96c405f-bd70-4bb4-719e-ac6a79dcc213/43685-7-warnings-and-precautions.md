@@ -55,7 +55,7 @@ Rare cases of serious cardiovascular adverse events, including electrocardiograp
 In addition, deaths have been reported rarely with concomitant administration of terfenadine and erythromycin.
 
 The use of erythromycin in patients concurrently taking drugs metabolized by the cytochrome P450 system may be associated with elevations in serum levels of these other drugs.
-There have been reports of interactions of erythromycin with carbamazepine, cyclosporine, hexobarbital, phenytoin, alfentanil, disopyramide, lovastatin, bromocriptine, valproate, terfenadine, and astemizole.
+There have been reports of interactions of erythromycin with carbamazepine, cyclosporine, hexobarbital, phenytoin, alfentanil, disopyramide, bromocriptine, valproate, terfenadine, and astemizole.
 Serum concentrations of drugs metabolized by the cytochrome P450 system should be monitored closely in patients concurrently receiving erythromycin.
 
 Carcinogenesis, Mutagenesis, Impairment of Fertility
