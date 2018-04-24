@@ -51,7 +51,7 @@ The cardiovascular consequences of hypertriglyceridemia associated with isotreti
 
 Animal Studies
 
-In rats given 8 or 32 mg/kg/day of isotretinoin (1.3 to 5.3 times the recommended clinical dose of 1 mg/kg/day after normalization for total body surface area) for 18 months or longer, the incidences of focal calcification, fibrosis and inflammation of the myocardium, calcification of coronary, pulmonary and mesenteric arteries and metastatic calcification of the gastric mucosa were greater than in control and mesenteric arteries, and metastatic calcification of the gastric mucosa were greater than in control rats of similar age.
+In rats given 8 or 32 mg/kg/day of isotretinoin (1.3 to 5.3 times the recommended clinical dose of 1 mg/kg/day after normalization for total body surface area) for 18 months or longer, the incidences of focal calcification, fibrosis and inflammation of the myocardium, calcification of coronary, pulmonary and mesenteric arteries and metastatic calcification of the gastric mucosa were greater than in control rats of similar age.
 Focal endocardial and myocardial calcifications associated with calcification of the coronary arteries were observed in two dogs after approximately 6 to 7 months of treatment with isotretinoin at a dosage of 60 to 120 mg/kg/day (30 to 60 times the recommended clinical dose of 1 mg/kg/day, respectively, after normalization for total body surface area).
 
 Hearing Impairment
@@ -152,7 +152,7 @@ Prescribers can only activate their registration by affirming that they meet req
 - I know the risk and severity of fetal injury/birth defects from isotretinoin.
 - I know the risk factors for unplanned pregnancy and the effective measures for avoidance of unplanned pregnancy.
 - I have the expertise to provide the patient with detailed pregnancy prevention counseling, or I will refer her to an expert for such counseling, reimbursed by the manufacturer.
-- I will comply with the iPLEDGE Program requirements described in the booklets entitled Guide To Best Practices for the iPLEDGE Program and The iPLEDGE Program Prescriber Contraception Counseling Guide.
+- I will comply with the iPLEDGE Program requirements described in the booklets entitled Guide To Best Practices for the iPLEDGE Program and Prescriber Contraception Counseling Guide.
 - Before beginning treatment of females of reproductive potential (FRP) with isotretinoin, and on a monthly basis, the patient will be counseled to avoid pregnancy by using two methods of contraception simultaneously and continuously for at least one month prior to initiation of isotretinoin treatment, during isotretinoin treatment and for one month after discontinuing isotretinoin treatment, unless the patient commits to continuous abstinence.
 - I will not prescribe isotretinoin to any female of reproductive potential (FRP) until verifying she has a negative screening pregnancy test and monthly negative CLIA-certified (Clinical Laboratory Improvement Amendment) pregnancy tests.
   Patients should have a pregnancy test at the completion of the entire course of isotretinoin and another pregnancy test one month later.
@@ -167,7 +167,7 @@ Register each patient in the iPLEDGE Program.
 Confirm monthly that each patient has received counseling and education.
 
 3.
-For females of reproductivepotential (FRP):
+For females of reproductive potential (FRP):
 
 - Enter patient’s two chosen methods of contraception each month.
 - Enter monthly result from CLIA-certified laboratory conducted pregnancy test.
@@ -215,7 +215,7 @@ Barrier:
 
 Other:
 
-- ·vaginal sponge (contains spermicide)
+- vaginal sponge (contains spermicide)
 
 Any birth control method can fail.
 There have been reports of pregnancy from female patients who have used oral contraceptives, as well as transdermal patch/injectable/implantable/vaginal ring hormonal birth control products; these pregnancies occurred while these patients were taking isotretinoin.
@@ -232,7 +232,7 @@ Pregnancies have been reported by users of combined hormonal contraceptives who 
 
 If a pregnancy does occur during isotretinoin treatment, isotretinoin must be discontinued immediately.
 The patient should be referred to an Obstetrician-Gynecologist experienced in reproductive toxicity for further evaluation and counseling.
-Any suspected fetal exposure during or one month after isotretinoin therapy must be reported immediately to the FDA via the MedWatch number 1-800-FDA-1088 and also the iPLEDGE pregnancy registry at 1-866-495-0654 or via the internet (www.ipledgeprogram.com).
+Any suspected fetal exposure during or one month after isotretinoin therapy must be reported immediately to the FDA via the MedWatch number 1-800-FDA-1088 and also the iPLEDGE Pregnancy Registry at 1-866-495-0654 or via the internet (www.ipledgeprogram.com).
 
 All Patients
 
@@ -298,7 +298,7 @@ This isotretinoin capsules Medication Guide is an important part of the risk man
 
 Isotretinoin capsules must not be prescribed, dispensed or otherwise obtained through the internet or any other means outside of the iPLEDGE Program.
 Only FDA-approved isotretinoin products must be distributed, prescribed, dispensed and used.
-Patients must fill isotretinoin prescriptions only at US licensed pharmacies.
+Patients must obtain isotretinoin prescriptions only at US licensed pharmacies.
 
 A description of the iPLEDGE Program educational materials available with iPLEDGE is provided below.
 The main goal of these educational materials is to explain the iPLEDGE Program requirements and to reinforce the educational messages.
@@ -313,7 +313,7 @@ The main goal of these educational materials is to explain the iPLEDGE Program r
 6. The booklet for females of non-reproductive potential (FNRP) and male patients, Guide to Isotretinoin for Male Patients and Female Patients Who Cannot Get Pregnant, also includes information about male reproduction and a warning not to share isotretinoin with others or to donate blood during isotretinoin therapy and for one month following discontinuation of isotretinoin
 7. The booklet for females of reproductive potential (FRP), Guide to Isotretinoin for Female Patients Who Can Get Pregnant, includes a referral program that offers female patients free contraception counseling, reimbursed by the manufacturer, by a reproductive specialist; and a second Patient Information/Informed Consent About Birth Defects (for female patients who can get pregnant) form concerning birth defects
 8. The booklet, Birth Control Workbook includes information on the types of contraceptive methods, the selection and use of appropriate, effective contraception, the rates of possible contraceptive failure and a toll-free contraception counseling line.
-9. In addition to the booklets, patient educational video and/or videos also include the iPLEDGE Program Birth Control Information Sheet and the following — “Be Prepared, Be Protected” and “Be Aware: The Risk of Pregnancy While on Isotretinoin” (see Information for Patients).
+9. In addition to the booklets, patient educational materials also include the iPLEDGE Program Birth Control Information Sheet and the following — “Be Prepared, Be Protected” and “Be Aware: The Risk of Pregnancy While on Isotretinoin” (see Information for Patients).
 
 ## General
 
@@ -397,9 +397,9 @@ Severe allergic reaction necessitates discontinuation of therapy and appropriate
   These reports are more frequent for female patients who use only a single method of contraception.
   It is not known if hormonal contraceptives differ in their effectiveness when used with isotretinoin.
   Therefore, it is critically important for females of reproductive potential (FRP) to select and commit to use two methods of effective contraception simultaneously, at least one of which must be a primary method (see PRECAUTIONS).
-- Norethindrone/ethinyl estradiol: In a study of 31 premenopausal female patients with severe recalcitrant nodular acne receiving OrthoNovum® 7/7/7 Tablets as an oral contraceptive agent, isotretinoin at the recommended dose of 1 mg/kg/day, did not induce clinically relevant changes in the pharmacokinetics of ethinyl estradiol and norethindrone and in the serum levels of progesterone, follicle-stimulating hormone (FSH) and luteinizing hormone (LH).
+- Norethindrone/ethinyl estradiol: In a study of 31 premenopausal female patients with severe recalcitrant nodular acne receiving Ortho-Novum® 7/7/7 Tablets as an oral contraceptive agent, isotretinoin at the recommended dose of 1 mg/kg/day, did not induce clinically relevant changes in the pharmacokinetics of ethinyl estradiol and norethindrone and in the serum levels of progesterone, follicle-stimulating hormone (FSH) and luteinizing hormone (LH).
   Prescribers are advised to consult the package insert of medication administered concomitantly with hormonal contraceptives, since some medications may decrease the effectiveness of these birth control products.
-- St. John’s Wort: Isotretinoin use is associated with depression in some patients (see WARNINGS, Psychiatric Disorders and ADVERSE REACTIONS, Psychiatric).
+- St. John’s Wort:Isotretinoin use is associated with depression in some patients (see WARNINGS, Psychiatric Disorders and ADVERSE REACTIONS, Psychiatric).
   Patients should be prospectively cautioned not to self-medicate with the herbal supplement St. John’s Wort because a possible interaction has been suggested with hormonal contraceptives based on reports of breakthrough bleeding on oral contraceptives shortly after starting St. John’s Wort.
   Pregnancies have been reported by users of combined hormonal contraceptives who also used some form of St. John’s Wort.
 - Phenytoin: Isotretinoin has not been shown to alter the pharmacokinetics of phenytoin in a study in seven healthy volunteers.

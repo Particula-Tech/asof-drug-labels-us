@@ -21,8 +21,6 @@ Monthly Required iPLEDGE Interactions
 
 ---------------------------------------------------------------------------------------------------------------------
 
-Patient Information/Informed Consent About Birth Defects (for female patients who can get pregnant)
-
 To be completed by the patient (and her parent or guardian* if patient is under age 18) and signed by her doctor.
 
 Read each item below and initial in the space provided to show that you understand each item and agree to follow your doctor’s instructions.
@@ -44,8 +42,16 @@ ______________________________________________________________________________
    Combination birth control pills and other hormonal products include skin patches, shots, under-the-skin implants, vaginal rings and intrauterine devices (IUDs).
    Any method of birth control can fail.
    That is why I must use two different birth control methods at the same time, starting one month before, during, and for one month after stopping therapy every time I have sexual intercourse, even if one of the methods I choose is hormonal birth control.Initial: __________
-5. I understand that the following are effective methods of birth control:Primary methodsSecondary methodsBarrier:Other:A diaphragm and cervical cap must each be used with spermicide, a special cream that kills sperm.
+5. I understand that the following are effective methods of birth control:Primary methods Secondary methodsBarrier:Other:A diaphragm and cervical cap must each be used with spermicide, a special cream that kills sperm.
    I understand that at least one of my two methods of birth control must be a primary method.Initial: __________
+   - tubal sterilization (tying my tubes)
+   - male vasectomy
+   - intrauterine device
+   - hormonal (combination birth control pills, skin patches, shots, under-the skin implants, or vaginal ring.
+   - male latex condom with or without spermicide
+   - diaphragm with spermicide
+   - cervical cap with spermicide
+   - vaginal sponge (contains spermicide)
 6. I will talk with my doctor about any medicines including herbal products I plan to take during my isotretinoin treatment because hormonal birth control methods may not work if I am taking certain medicines or herbal products.Initial: __________
 7. I may receive a free birth control counseling session from a doctor or other family planning expert.
    My isotretinoin doctor can give me an Isotretinoin Conctraception Referral Form for this free consultation.Initial: __________
@@ -54,34 +60,16 @@ ______________________________________________________________________________
    The first pregnancy test should be done when my doctor decides to prescribe isotretinoin.
    The second pregnancy test must be done in a lab during the first 5 days of my menstrual period right before starting isotretinoin therapy treatment or as instructed by my doctor.
    I will then have one pregnancy test; in a lab.
-   I must not start taking isotretinoin until I am sure that I am not pregnant, have negative results from two pregnancy tests, and the second test has been done in a lab.Initial:__________
+   I must not start taking isotretinoin until I am sure that I am not pregnant, have negative results from two pregnancy tests, and the second test has been done in a lab.
+   Initial:__________
+   - every month during treatment
+   - at the end of treatment
+   - and 1 month after stopping treatment
 10. I have read and understand the materials my doctor has provided to me, including the Guide to Isotretinoin for Female Patients Who Can Get Pregnant, Birth Control Workbook and Patient Introductory Brochure.I have received information on emergency birth control.My doctor provided me and asked me to watch a video about birth control and a video about birth defects and isotretinoin.Initial: __________
 11. I must stop taking isotretinoin right away and call my doctor if I get pregnant, miss my expected menstrual period, stop using birth control, or have sexual intercourse without using my two birth control methods at any time.Initial: __________
 12. My doctor provided me information about the purpose and importance of providing information to the iPLEDGE Program should I become pregnant while taking isotretinoin or within one month of the last dose.
     I understand that if I become pregnant, information about my pregnancy, my health and my baby’s health may be shared with the makers of isotretinoin, authorized parties who maintain the iPLEDGE Program for the makers of isotretinoin, and government health regulatory authorities.Initial: __________
 13. I understand that being qualified to receive isotretinoin in the iPLEDGE Program means that I:
-
-- tubal sterilization (tying my tubes)
-
-- male vasectomy
-
-- intrauterine device
-
-- hormonal (combination birth control pills, skin patches, shots, under-the skin implants, or vaginal ring.
-
-- male latex condom with or without spermicide
-
-- diaphragm with spermicide
-
-- cervical cap with spermicide
-
-- vaginal sponge (contains spermicide)
-
-- every month during treatment
-
-- at the end of treatment
-
-- and 1 month after stopping treatment
 
 - have had two negative urine or blood pregnancy tests before receiving the first isotretinoin prescription.
   The second test must be done in a lab.
@@ -121,7 +109,7 @@ PLEASE PROVIDE A COPY TO THE PATIENT.
 
 # Patient Information/Informed Consent (for all patients)
 
-Patient Information/Informed Consent (for all patients)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 To be completed by patient (and parent or guardian if patient is under age 18) and signed by the doctor.
 
@@ -151,7 +139,19 @@ Do not sign this agreement and do not take isotretinoin if there is anything tha
    Being psychotic means having a loss of contact with reality, such as hearing voices or seeing things that are not there.Initials: __________
 6. Before I start taking isotretinoin, I agree to tell my doctor if, to the best of my knowledge, anyone in my family has ever had symptoms of depression, been psychotic, attempted suicide, or had any other serious mental problems.Initials: __________
 7. Once I start taking isotretinoin, I agree to stop using isotretinoin and tell my doctor right away if any of the following signs and symptoms of depression or psychosis happen.
-   I:Initials: __________
+   I: Initials: __________
+   - Start to feel sad or have crying spells
+   - Lose interest in activities I once enjoyed
+   - Sleep too much or have trouble sleeping
+   - Become more irritable, angry, or aggressive than usual (for example, temper outbursts, thoughts of violence)
+   - Have a change in my appetite or body weight
+   - Have trouble concentrating
+   - Withdraw from my friends or family
+   - Feel like I have no energy
+   - Have feelings of worthlessness or guilt
+   - Start having thoughts about hurting myself or taking my own life (suicidal thoughts)
+   - Start acting on dangerous impulses
+   - Start seeing or hearing things that are not real
 8. I agree to return to see my doctor every month I take isotretinoin to get a new prescription for isotretinoin, to check my progress and to check for signs of side effects.Initials: __________
 9. Isotretinoin will be prescribed just for me – I will not share isotretinoin with other people because it may cause serious side effects, including birth defects.Initials: __________
 10. I will not give blood while taking isotretinoin or for one month after I stop taking isotretinoin.
@@ -162,32 +162,7 @@ Do not sign this agreement and do not take isotretinoin if there is anything tha
     I understand that I must be qualified in the iPLEDGE Program to have my prescription filled each month.
     I understand that I can stop taking isotretinoin at any time.
     I agree to tell my doctor if I stop taking isotretinoin.
-
-- Start to feel sad or have crying spells
-
-- Lose interest in activities I once enjoyed
-
-- Sleep too much or have trouble sleeping
-
-- Become more irritable, angry, or aggressive than usual (for example, temper outbursts, thoughts of violence)
-
-- Have a change in my appetite or body weight
-
-- Have trouble concentrating
-
-- Withdraw from my friends or family
-
-- Feel like I have no energy
-
-- Have feelings of worthlessness or guilt
-
-- Start having thoughts about hurting myself or taking my own life (suicidal thoughts)
-
-- Start acting on dangerous impulses
-
-- Start seeing or hearing things that are not real
-
-Initials: __________
+    Initials: __________
 
 I now allow my doctor _______________________ to begin my treatment with isotretinoin.
 
