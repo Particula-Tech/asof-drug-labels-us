@@ -1,10 +1,12 @@
 # 10 OVERDOSAGE
 
-1. Overdosage has been reported with levocetirizine dihydrochloride.
-2. Symptoms of overdose may include drowsiness in adults.
-   In children agitation and restlessness may initially occur, followed by drowsiness.
-   There is no known specific antidote to levocetirizine dihydrochloride.
-   Should overdose occur, symptomatic or supportive treatment is recommended.
-   Levocetirizine dihydrochloride is not effectively removed by dialysis, and dialysis will be ineffective unless a dialyzable agent has been concomitantly ingested.
-3. The acute maximal non-lethal oral dose of levocetirizine was 240 mg/kg in mice (approximately 190 times the maximum recommended daily oral dose in adults, approximately 230 times the maximum recommended daily oral dose in children 6 to 11 years of age, and approximately 180 times the maximum recommended daily oral dose in children 6 months to 5 years of age on a mg/m2 basis).
-   In rats the maximal non-lethal oral dose was 240 mg/kg (approximately 390 times the maximum recommended daily oral dose in adults, approximately 460 times the maximum recommended daily oral dose in children 6 to 11 years of age, and approximately 370 times the maximum recommended daily oral dose in children 6 months to 5 years of age on a mg/m2 basis).
+Overdosage has been reported with levocetirizine dihydrochloride.
+
+Symptoms of overdose may include drowsiness in adults.
+In children agitation and restlessness may initially occur, followed by drowsiness.
+There is no known specific antidote to levocetirizine dihydrochloride.
+Should overdose occur, symptomatic or supportive treatment is recommended.
+Levocetirizine dihydrochloride is not effectively removed by dialysis, and dialysis will be ineffective unless a dialyzable agent has been concomitantly ingested.
+
+The acute maximal non-lethal oral dose of levocetirizine was 240 mg/kg in mice (approximately 190 times the maximum recommended daily oral dose in adults, approximately 230 times the maximum recommended daily oral dose in children 6 to 11 years of age, and approximately 180 times the maximum recommended daily oral dose in children 6 months to 5 years of age on a mg/m2 basis).
+In rats the maximal non-lethal oral dose was 240 mg/kg (approximately 390 times the maximum recommended daily oral dose in adults, approximately 460 times the maximum recommended daily oral dose in children 6 to 11 years of age, and approximately 370 times the maximum recommended daily oral dose in children 6 months to 5 years of age on a mg/m2 basis).
