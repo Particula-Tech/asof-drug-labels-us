@@ -56,10 +56,14 @@ No overall differences in safety or effectiveness were reported between elderly 
 In CHECKMATE-238 (Adjuvant Treatment of Melanoma), 26% of patients were 65 years or older and 3% were 75 years or older.
 No overall differences in safety or effectiveness were reported between elderly patients and younger patients.
 
-CHECKMATE-037, CHECKMATE-205, CHECKMATE-039, CHECKMATE-141, and CHECKMATE-142, and CHECKMATE-040 did not include sufficient numbers of patients aged 65 years and older to determine whether they respond differently from younger patients.
+CHECKMATE-037, CHECKMATE-205, CHECKMATE-039, CHECKMATE-141, CHECKMATE-142, and CHECKMATE-040 did not include sufficient numbers of patients aged 65 years and older to determine whether they respond differently from younger patients.
 
 Of the 314 patients randomized to OPDIVO administered with ipilimumab in CHECKMATE-067, 41% were 65 years or older and 11% were 75 years or older.
 No overall differences in safety or effectiveness were reported between elderly patients and younger patients.
+
+Of the 550 patients randomized to ipilimumab 1 mg/kg administered with nivolumab 3 mg/kg in CHECKMATE-214 (Renal Cell Carcinoma), 38% were 65 years or older and 8% were 75 years or older.
+No overall difference in safety was reported between elderly patients and younger patients.
+In elderly patients with intermediate or poor risk, no overall difference in effectiveness was reported.
 
 ## 8.6 Renal Impairment
 

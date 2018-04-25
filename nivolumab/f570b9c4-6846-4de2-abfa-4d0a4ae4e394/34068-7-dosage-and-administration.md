@@ -13,7 +13,7 @@ administered as an intravenous infusion over 30 minutes until disease progressio
 
 With Ipilimumab
 
-The recommended dose of OPDIVO is 1 mg/kg administered as an intravenous infusion over 30 minutes, followed by ipilimumab on the same day, every 3 weeks for 4 doses.
+The recommended dose of OPDIVO is 1 mg/kg administered as an intravenous infusion over 30 minutes, followed by ipilimumab 3 mg/kg administered as an intravenous infusion over 90 minutes on the same day, every 3 weeks for a maximum of 4 doses or until unacceptable toxicity, whichever occurs earlier.
 After completing 4 doses of the combination, administer OPDIVO as a single agent, either:
 
 - •240 mg every 2 weeks or
@@ -42,12 +42,23 @@ administered as an intravenous infusion over 30 minutes until disease progressio
 
 ## 2.4 Recommended Dosage for RCC
 
-The recommended dose of OPDIVO is either:
+The recommended dose of OPDIVO as a single agent is either:
 
 - •240 mg every 2 weeks or
 - •480 mg every 4 weeks
 
 administered as an intravenous infusion over 30 minutes until disease progression or unacceptable toxicity.
+
+With Ipilimumab
+
+The recommended dose of OPDIVO in combination with ipilimumab is OPDIVO 3 mg/kg administered as an intravenous infusion over 30 minutes, followed by ipilimumab 1 mg/kg administered as an intravenous infusion over 30 minutes on the same day, every 3 weeks for 4 doses [see Clinical Studies (14.4)].
+After completing 4 doses of the combination, administer OPDIVO as a single agent, either:
+
+- •240 mg every 2 weeks, or
+- •480 mg every 4 weeks
+
+administered as an intravenous infusion over 30 minutes until disease progression or unacceptable toxicity.
+Review the Full Prescribing Information for ipilimumab prior to initiation.
 
 ## 2.5 Recommended Dosage for cHL
 
@@ -65,7 +76,7 @@ The recommended dose of OPDIVO is either:
 - •240 mg every 2 weeks or
 - •480 mg every 4 weeks
 
-administered as an intravenous infusion over 30 minutes until disease progression or unacceptable toxicity..
+administered as an intravenous infusion over 30 minutes until disease progression or unacceptable toxicity.
 
 ## 2.7 Recommended Dosage for Urothelial Carcinoma
 
@@ -74,11 +85,11 @@ The recommended dose of OPDIVO is either:
 - •240 mg every 2 weeks or
 - •480 mg every 4 weeks
 
-administered as an intravenous infusion over 30 minutes until disease progression or unacceptable toxicity..
+administered as an intravenous infusion over 30 minutes until disease progression or unacceptable toxicity.
 
 ## 2.8 Recommended Dosage for CRC
 
-The recommended dose of OPDIVO is:
+The recommended dose of OPDIVO is
 
 - •240 mg every 2 weeks
 
@@ -97,6 +108,7 @@ administered as an intravenous infusion over 30 minutes until disease progressio
 
 Recommendations for OPDIVO modifications are provided in Table 1.
 When OPDIVO is administered in combination with ipilimumab, if OPDIVO is withheld, ipilimumab should also be withheld.
+Review the Full Prescribing Information for ipilimumab for recommended dose modifications.
 
 There are no recommended dose modifications for hypothyroidism or hyperthyroidism.
 
@@ -136,9 +148,7 @@ Table 1: Recommended Dose Modifications for OPDIVO
 | Grade 3 myocarditis | Permanently discontinue |  |
 | Requirement for 10 mg per day or greater prednisone or equivalent for more than 12 weeks | Permanently discontinue |  |
 | Persistent Grade 2 or 3 adverse reactions lasting 12 weeks or longer | Permanently discontinue |  |
-
-* Toxicity was graded per National Cancer Institute Common Terminology Criteria for Adverse Events.
-Version 4.0 (NCI CTCAE v4). a Resume treatment when adverse reaction improves to Grade 0 or 1. b HCC: hepatocellular carcinoma. c Resume treatment when AST/ALT returns to baseline.
+| * Toxicity was graded per National Cancer Institute Common Terminology Criteria for Adverse Events. Version 4.0 (NCI CTCAE v4). a Resume treatment when adverse reaction improves to Grade 0 or 1. b HCC: hepatocellular carcinoma. c Resume treatment when AST/ALT returns to baseline. |  |  |
 
 ## 2.11 Preparation and Administration
 

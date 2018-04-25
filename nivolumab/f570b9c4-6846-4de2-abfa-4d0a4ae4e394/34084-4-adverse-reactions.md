@@ -19,9 +19,10 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 The data in the Warnings and Precautions section reflect exposure to OPDIVO, as a single agent, for clinically significant adverse reactions in 1994 patients enrolled in the CHECKMATE-037, CHECKMATE-017, CHECKMATE-057, CHECKMATE-066, CHECKMATE-025, CHECKMATE-067, CHECKMATE-205, CHECKMATE-039 trials or a single-arm trial in NSCLC (n=117) administering OPDIVO as a single agent [see Warnings and Precautions (5)].
 In addition, clinically significant adverse reactions of OPDIVO administered with ipilimumab were evaluated in 407 patients with melanoma enrolled in CHECKMATE-067 (n=313) or a Phase 2 randomized study (n=94), administering OPDIVO with ipilimumab, supplemented by immune-mediated adverse reaction reports in ongoing clinical trials [see Warnings and Precautions (5)].
+Clinically significant adverse reactions of OPDIVO 3 mg/kg administered with ipilimumab 1 mg/kg were evaluated in 547 patients with advanced renal cell carcinoma enrolled in CHECKMATE-214.
 
 The data described below reflect exposure to OPDIVO as a single agent in CHECKMATE-037, CHECKMATE-066, and CHECKMATE-067, and to OPDIVO with ipilimumab in CHECKMATE-067, which are randomized, active-controlled trials conducted in patients with unresectable or metastatic melanoma.
-Also described below are single-agent OPDIVO data from CHECKMATE-238, a randomized trial for the adjuvant treatment of patients with completely resected Stage IIIB/C and IV melanoma, CHECKMATE-017 and CHECKMATE-057, which are randomized trials in patients with metastatic NSCLC, CHECKMATE-025, which is a randomized trial in patients with advanced RCC, CHECKMATE-205 and CHECKMATE-039, which are open-label, multiple-cohort trials in patients with cHL, CHECKMATE-141, a randomized trial in patients with recurrent or metastatic SCCHN, CHECKMATE-275, which is a single-arm trial in patients with urothelial carcinoma, and CHECKMATE-040, which is an open-label, multiple-cohort trial in patients with HCC.
+Also described below are single-agent OPDIVO data from CHECKMATE-238, a randomized trial for the adjuvant treatment of patients with completely resected Stage IIIB/C and IV melanoma, CHECKMATE-017 and CHECKMATE-057, which are randomized trials in patients with metastatic NSCLC, CHECKMATE-025, which is a randomized trial in patients with advanced RCC, CHECKMATE-214, a randomized trial of OPDIVO 3 mg/kg with ipilimumab 1 mg/kg in previously untreated patients with advanced RCC, CHECKMATE-205 and CHECKMATE-039, which are open-label, multiple-cohort trials in patients with cHL, CHECKMATE-141, a randomized trial in patients with recurrent or metastatic SCCHN, CHECKMATE-275, which is a single-arm trial in patients with urothelial carcinoma, and CHECKMATE-040, which is an open-label, multiple-cohort trial in patients with HCC.
 
 ### Unresectable or Metastatic Melanoma
 
@@ -344,6 +345,8 @@ a Each test incidence is based on the number of patients who had both baseline a
 
 ### Renal Cell Carcinoma
 
+Previously Treated Renal Cell Carcinoma
+
 The safety of OPDIVO was evaluated in CHECKMATE-025, a randomized open-label trial in which 803 patients with advanced RCC who had experienced disease progression during or after at least one anti-angiogenic treatment regimens received 3 mg/kg of OPDIVO by intravenous infusion every 2 weeks (n=406) or everolimus 10 mg daily (n=397) [see Clinical Studies (14.4)].
 The median duration of treatment was 5.5 months (range: 1 day to 29.6+ months) in OPDIVO-treated patients and 3.7 months (range: 6 days to 25.7+ months) in everolimus-treated patients.
 
@@ -354,7 +357,7 @@ The most frequent serious adverse reactions reported in at least 2% of patients 
 
 Rate of death on treatment or within 30 days of the last dose of study drug was 4.7% on the OPDIVO arm versus 8.6% on the everolimus arm.
 
-The most common adverse reactions (reported in at least 20% of patients) were asthenic conditions, cough, nausea, rash, dyspnea, diarrhea, constipation, decreased appetite, back pain, and arthralgia.
+The most common adverse reactions (reported in at least 20% of patients) were fatigue, cough, nausea, rash, dyspnea, diarrhea, constipation, decreased appetite, back pain, and arthralgia.
 Table 12 summarizes adverse reactions that occurred in greater than 15% of OPDIVO-treated patients.
 
 Table 12: Grade 1-4 Adverse Reactions in >15% of Patients Receiving OPDIVO (CHECKMATE-025)
@@ -365,7 +368,7 @@ Table 12: Grade 1-4 Adverse Reactions in >15% of Patients Receiving OPDIVO (CHEC
 | Grades 1-4 | Grades 3-4 | Grades 1-4 | Grades 3-4 |  |
 | Adverse Reaction | 98 | 56 | 96 | 62 |
 | General Disorders and Administration Site Conditions |  |  |  |  |
-| Asthenic conditionsa | 56 | 6 | 57 | 7 |
+| Fatiguea | 56 | 6 | 57 | 7 |
 | Pyrexia | 17 | 0.7 | 20 | 0.8 |
 | Respiratory, Thoracic and Mediastinal Disorders |  |  |  |  |
 | Cough/productive cough | 34 | 0 | 38 | 0.5 |
@@ -384,7 +387,7 @@ Table 12: Grade 1-4 Adverse Reactions in >15% of Patients Receiving OPDIVO (CHEC
 | Musculoskeletal and Connective Tissue Disorders |  |  |  |  |
 | Arthralgia | 20 | 1.0 | 14 | 0.5 |
 | Back pain | 21 | 3.4 | 16 | 2.8 |
-| Toxicity was graded per NCI CTCAE v4. a Asthenic conditions covering PTs asthenia, decreased activity, fatigue, and malaise. b Includes nasopharyngitis, pharyngitis, rhinitis, and viral URI. c Includes colitis, enterocolitis, and gastroenteritis. d Includes dermatitis, acneiform dermatitis, erythematous rash, generalized rash, macular rash, maculopapular rash, papular rash, pruritic rash, erythema multiforme, and erythema. |  |  |  |  |
+| Toxicity was graded per NCI CTCAE v4. a Includes asthenia, decreased activity, fatigue, and malaise. b Includes nasopharyngitis, pharyngitis, rhinitis, and viral URI. c Includes colitis, enterocolitis, and gastroenteritis. d Includes dermatitis, acneiform dermatitis, erythematous rash, generalized rash, macular rash, maculopapular rash, papular rash, pruritic rash, erythema multiforme, and erythema. |  |  |  |  |
 
 Other clinically important adverse reactions in CHECKMATE-025 were:
 
@@ -428,6 +431,82 @@ Table 13: Grade 1-4 Laboratory Values Worsening from Baseline Occurring in >15% 
 
 In addition, among patients with TSH less than ULN at baseline, a greater proportion of patients experienced a treatment-emergent elevation of TSH greater than ULN in the OPDIVO group compared to the everolimus group (26% and 14%, respectively).
 
+Previously Untreated Renal Cell Carcinoma
+
+The safety of OPDIVO 3 mg/kg, administered with ipilimumab 1 mg/kg was evaluated in CHECKMATE-214, a randomized open-label trial in which 1082 patients with previously untreated advanced RCC received OPDIVO 3 mg/kg in combination with ipilimumab 1 mg/kg every 3 weeks for 4 doses followed by OPDIVO monotherapy at the 3 mg/kg dose (n=547) every 2 weeks or sunitinib administered orally 50 mg daily for 4 weeks followed by 2 weeks off, every cycle (n=535) [see Clinical Studies (14.4)].
+The median duration of treatment was 7.9 months (range: 1 day to 21.4+ months) in OPDIVO plus ipilimumab-treated patients and 7.8 months (range: 1 day to 20.2+ months) in sunitinib-treated patients.
+In this trial, 57% of patients in the OPDIVO plus ipilimumab arm were exposed to treatment for greater than 6 months, and 38% of patients were exposed to treatment for greater than 1 year.
+
+Study therapy was discontinued for adverse reactions in 31% of OPDIVO plus ipilimumab patients and in 21% of sunitinib patients.
+Fifty-four percent (54%) of patients receiving OPDIVO plus ipilimumab and 43% of patients receiving sunitinib had a drug delay for an adverse reaction.
+In the sunitinib group, 53% of patients required a dose reduction; dose reductions were not permitted in the OPDIVO plus ipilimumab treatment group.
+Serious adverse reactions occurred in 59% of patients receiving OPDIVO plus ipilimumab and in 43% of patients receiving sunitinib.
+The most frequent serious adverse reactions reported in at least 2% of patients treated with OPDIVO plus ipilimumab were diarrhea, pyrexia, pneumonia, pneumonitis, hypophysitis, acute kidney injury, dyspnea, adrenal insufficiency, and colitis; in patients treated with sunitinib, they were pneumonia, pleural effusion, and dyspnea.
+
+The most common adverse reactions (reported in at least 20% of OPDIVO plus ipilimumab-treated patients) were fatigue, rash, diarrhea, musculoskeletal pain, pruritus, nausea, cough, pyrexia, arthralgia, and decreased appetite.
+Table 14 summarizes adverse reactions that occurred in greater than 15% of OPDIVO plus ipilimumab-treated patients.
+
+Table 14: Grade 1-4 Adverse Reactions in >15% of Patients Receiving OPDIVO plus Ipilimumab (CHECKMATE-214)
+
+|  | OPDIVO plus Ipilimumab (n=547) |  | Sunitinib (n=535) |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Percentage (%) of Patients |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Grades 1-4 | Grades 3-4 | Grades 1-4 | Grades 3-4 |  |  |  |  |  |  |  |  |  |  |  |
+| Adverse Reaction | 99 | 65 | 99 | 76 |  |  |  |  |  |  |  |  |  |  |
+| General Disorders and Administration Site Conditions |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Fatiguea | 58 | 8 | 69 | 13 |  |  |  |  |  |  |  |  |  |  |
+| Pyrexia | 25 | 0.7 | 17 | 0.6 |  |  |  |  |  |  |  |  |  |  |
+| Edemab | 16 | 0.5 | 17 | 0.6 |  |  |  |  |  |  |  |  |  |  |
+| Respiratory, Thoracic, and Mediastinal Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Cough/productive cough | 28 | 0.2 | 25 | 0.4 |  |  |  |  |  |  |  |  |  |  |
+| Dyspnea/exertional dyspnea | 20 | 2.4 | 21 | 2.1 |  |  |  |  |  |  |  |  |  |  |
+| Gastrointestinal Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Diarrhea | 38 | 4.6 | 58 | 6 |  |  |  |  |  |  |  |  |  |  |
+| Nausea | 30 | 2.0 | 43 | 1.5 |  |  |  |  |  |  |  |  |  |  |
+| Vomiting | 20 | 0.9 | 28 | 2.1 |  |  |  |  |  |  |  |  |  |  |
+| Abdominal pain | 19 | 1.6 | 24 | 1.9 |  |  |  |  |  |  |  |  |  |  |
+| Constipation | 17 | 0.4 | 18 | 0 |  |  |  |  |  |  |  |  |  |  |
+| Skin and Subcutaneous Tissue Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Rashc | 39 | 3.7 | 25 | 1.1 |  |  |  |  |  |  |  |  |  |  |
+| Pruritus/generalized pruritus | 33 | 0.5 | 11 | 0 |  |  |  |  |  |  |  |  |  |  |
+| Endocrine Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Hypothyroidism | 18 | 0.4 | 27 | 0.2 |  |  |  |  |  |  |  |  |  |  |
+| Nervous System Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Headache | 19 | 0.9 | 23 | 0.9 |  |  |  |  |  |  |  |  |  |  |
+| Metabolism and Nutrition Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Decreased appetite | 21 | 1.8 | 29 | 0.9 |  |  |  |  |  |  |  |  |  |  |
+| Musculoskeletal and Connective Tissue Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Musculoskeletal paind | 37 | 4.0 | 40 | 2.6 |  |  |  |  |  |  |  |  |  |  |
+| Arthralgia | 23 | 1.3 | 16 | 0 |  |  |  |  |  |  |  |  |  |  |
+| Toxicity was graded per NCI CTCAE v4. a Includes asthenia. b Includes peripheral edema, peripheral swelling. c Includes dermatitis described as acneiform, bullous, and exfoliative, drug eruption, rash described as exfoliative, erythematous, follicular, generalized, macular, maculopapular, papular, pruritic, and pustular, fixed-drug eruption. d Includes back pain, bone pain, musculoskeletal chest pain, musculoskeletal discomfort, myalgia, neck pain, pain in extremity, spinal pain. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+The most common laboratory abnormalities which have worsened compared to baseline in ≥30% of OPDIVO plus ipilimumab-treated patients include increased lipase, anemia, increased creatinine, increased ALT, increased AST, hyponatremia, increased amylase, and lymphopenia.
+Table 15 summarizes the laboratory abnormalities that occurred in greater than 15% of OPDIVO plus ipilimumab-treated patients.
+
+Table 15: Grade 1-4 Laboratory Values Worsening from Baseline Occurring in >15% of Patients on OPDIVO plus Ipilimumab (CHECKMATE-214)
+
+|  | Percentage of Patients with Worsening Laboratory Test from Baselinea |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Laboratory Abnormality | OPDIVO plus Ipilimumab |  | Sunitinib |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Grades 1-4 | Grades 3-4 | Grades 1-4 | Grades 3-4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Hematology |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Anemia | 43 | 3.0 | 64 | 9 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Lymphopenia | 36 | 5 | 63 | 14 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Chemistry |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Increased lipase | 48 | 20 | 51 | 20 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Increased creatinine | 42 | 2.1 | 46 | 1.7 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Increased ALT | 41 | 7 | 44 | 2.7 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Increased AST | 40 | 4.8 | 60 | 2.1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Increased amylase | 39 | 12 | 33 | 7 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Hyponatremia | 39 | 10 | 36 | 7 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Increased alkaline phosphatase | 29 | 2.0 | 32 | 1.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Hyperkalemia | 29 | 2.4 | 28 | 2.9 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Hypocalcemia | 21 | 0.4 | 35 | 0.6 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Hypomagnesemia | 16 | 0.4 | 26 | 1.6 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| a Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: OPDIVO plus ipilimumab group (range: 490 to 538 patients) and sunitinib group (range: 485 to 523 patients). |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+In addition, among patients with TSH less than or equal to the ULN at baseline, a lower proportion of patients experienced a treatment-emergent elevation of TSH greater than the ULN in the OPDIVO plus ipilimumab group compared to the sunitinib group (31% and 61%, respectively).
+
 ### Classical Hodgkin Lymphoma
 
 The safety of 3 mg/kg of OPDIVO by intravenous infusion every 2 weeks was evaluated in 266 adult patients with cHL (243 patients in the CHECKMATE-205 and 23 patients in the CHECKMATE-039 trials).
@@ -445,9 +524,9 @@ Eleven patients died from causes other than disease progression: 3 from adverse 
 
 The most common adverse reactions (reported in at least 20%) among all patients were upper respiratory tract infection, fatigue, cough, diarrhea, pyrexia, musculoskeletal pain, rash, nausea, and pruritus.
 
-Table 14 summarizes the adverse reactions, excluding laboratory terms, that occurred in at least 10% of patients in the safety population.
+Table 16 summarizes the adverse reactions, excluding laboratory terms, that occurred in at least 10% of patients in the safety population.
 
-Table 14: Non-Laboratory Adverse Reactions Occurring in ≥10% of Patients with cHL (CHECKMATE-205 and CHECKMATE-039)
+Table 16: Non-Laboratory Adverse Reactions Occurring in ≥10% of Patients with cHL (CHECKMATE-205 and CHECKMATE-039)
 
 |  | OPDIVO cHL Safety Population (n=266) |  |
 | --- | --- | --- |
@@ -500,11 +579,11 @@ The median time to onset was 50 (range: 1 to 309) days.
 
 Complications of allogeneic HSCT after OPDIVO: [see Warnings and Precautions (5.10)].
 
-Table 15 summarizes laboratory abnormalities that developed or worsened in at least 10% of patients with cHL.
+Table 17 summarizes laboratory abnormalities that developed or worsened in at least 10% of patients with cHL.
 The most common (reported in at least 20%) treatment-emergent laboratory events included cytopenias, liver function abnormalities, and elevated lipase.
 Other common findings (reported in at least 10%) included elevated creatinine, electrolyte abnormalities, and elevated amylase.
 
-Table 15: Laboratory Abnormalities Worsening from Baseline Occurring in ≥10% of OPDIVO-Treated Patients with cHL (CHECKMATE-205 and CHECKMATE-039)
+Table 17: Laboratory Abnormalities Worsening from Baseline Occurring in ≥10% of OPDIVO-Treated Patients with cHL (CHECKMATE-205 and CHECKMATE-039)
 
 |  | OPDIVO cHL Safety Populationa (n=266) |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -572,9 +651,9 @@ Twenty-five (9%) patients received an oral prednisone dose equivalent to ≥40 m
 
 The most common adverse reactions (reported in at least 20% of patients) were fatigue, musculoskeletal pain, nausea, and decreased appetite.
 
-Table 16 summarizes adverse reactions that occurred in greater than 10% of patients.
+Table 18 summarizes adverse reactions that occurred in greater than 10% of patients.
 
-Table 16: Adverse Reactions Occurring in ≥10% of Patients (CHECKMATE-275)
+Table 18: Adverse Reactions Occurring in ≥10% of Patients (CHECKMATE-275)
 
 |  | OPDIVO Urothelial Carcinoma |  |
 | --- | --- | --- |
@@ -608,7 +687,7 @@ Table 16: Adverse Reactions Occurring in ≥10% of Patients (CHECKMATE-275)
 | Thyroid disordersd | 15 | 0 |
 | Toxicity was graded per NCI CTCAE v4. a Includes abdominal discomfort, lower and upper abdominal pain. b Includes dermatitis, dermatitis acneiform, dermatitis bullous, and rash described as generalized, macular, maculopapular, or pruritic. c Includes back pain, bone pain, musculoskeletal chest pain, musculoskeletal discomfort, myalgia, neck pain, pain in extremity and spinal pain. d Includes autoimmune thyroiditis, blood TSH decrease, blood TSH increase, hyperthyroidism, hypothyroidism, thyroiditis, thyroxine decreased, thyroxine free increased, thyroxine increased, tri-iodothyronine free increased, tri-iodothyronine increased. |  |  |
 
-Table 17: Laboratory Abnormalities Worsening from Baseline Occurring in ≥10% of Patients (CHECKMATE-275)
+Table 19: Laboratory Abnormalities Worsening from Baseline Occurring in ≥10% of Patients (CHECKMATE-275)
 
 | Test | OPDIVO Urothelial Carcinomaa |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -657,9 +736,11 @@ As with all therapeutic proteins, there is a potential for immunogenicity.
 Of 2085 patients who were treated with OPDIVO as a single agent 3 mg/kg every 2 weeks and evaluable for the presence of anti-nivolumab antibodies, 233 patients (11.2%) tested positive for treatment-emergent anti-nivolumab antibodies by an electrochemiluminescent (ECL) assay and 15 patients (0.7%) had neutralizing antibodies against nivolumab.
 There was no evidence of altered pharmacokinetic profile or increased incidence of infusion reactions with anti-nivolumab antibody development.
 
-Of 394 patients who were treated with OPDIVO with ipilimumab and evaluable for the presence of anti-nivolumab antibodies, 149 patients (37.8%) tested positive for treatment-emergent anti-nivolumab antibodies by an ECL assay and 18 patients (4.6%) had neutralizing antibodies against nivolumab.
-Of the 391 patients evaluable for the presence of anti-ipilimumab antibodies, 33 patients (8.4%) tested positive for treatment-emergent anti-ipilimumab antibodies by an ECL assay and one patient (0.3%) had neutralizing antibodies against ipilimumab.
-There was no evidence of increased incidence of infusion reactions with anti-nivolumab antibody development.
+Of the patients who were treated with OPDIVO and ipilimumab and evaluable for the presence of anti-nivolumab antibodies, the incidence of anti-nivolumab antibodies was 26.0% with nivolumab 3 mg/kg followed by ipilimumab 1 mg/kg every 3 weeks and 37.8% with nivolumab 1 mg/kg followed by ipilimumab 3 mg/kg every 3 weeks.
+The incidence of neutralizing antibodies against nivolumab was 0.5% with nivolumab 3 mg/kg followed by ipilimumab 1 mg/kg every 3 weeks and 4.6% with nivolumab 1 mg/kg followed by ipilimumab 3 mg/kg every 3 weeks.
+Of patients evaluable for the presence of anti-ipilimumab antibodies, the incidence of anti-ipilimumab antibodies ranged from 6.3 to 8.4% and neutralizing antibodies against ipilimumab ranged from 0 to 0.3%.
+
+Overall, there was no evidence of increased incidence of infusion reactions or effects on efficacy with anti-nivolumab antibody development.
 
 The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay.
 Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.

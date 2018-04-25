@@ -19,9 +19,10 @@ OPDIVO is indicated for the adjuvant treatment of patients with melanoma with in
 OPDIVO is indicated for the treatment of patients with metastatic non-small cell lung cancer (NSCLC) with progression on or after platinum-based chemotherapy.
 Patients with EGFR or ALK genomic tumor aberrations should have disease progression on FDA-approved therapy for these aberrations prior to receiving OPDIVO [see Clinical Studies (14.3)].
 
-## 1.4 Renal Cell Carcinoma
+## 1.4 Advanced Renal Cell Carcinoma
 
-OPDIVO is indicated for the treatment of patients with advanced renal cell carcinoma (RCC) who have received prior anti-angiogenic therapy [see Clinical Studies (14.4)].
+- •OPDIVO as a single agent is indicated for the treatment of patients with advanced renal cell carcinoma (RCC) who have received prior anti-angiogenic therapy [see Clinical Studies (14.4)].
+- •OPDIVO, in combination with ipilimumab, is indicated for the treatment of patients with intermediate or poor risk, previously untreated advanced renal cell carcinoma (RCC) [see Clinical Studies (14.4)].
 
 ## 1.5 Classical Hodgkin Lymphoma
 
