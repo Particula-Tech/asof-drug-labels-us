@@ -1,15 +1,16 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Asthma-Related Death
+## 5.1 Serious Asthma-Related Events – Hospitalizations, Intubations, Death
 
-Data from a large placebo-controlled trial in subjects with asthma showed that LABA may increase the risk of asthma-related death.
-
-A 28-week, placebo-controlled, U.S. trial that compared the safety of another LABA (salmeterol) with placebo, each added to usual asthma therapy, showed an increase in asthma-related deaths in subjects receiving salmeterol (13/13,176 in subjects treated with salmeterol vs. 3/13,179 in subjects treated with placebo; relative risk: 4.37 [95% CI: 1.25, 15.34]).
-The increased risk of asthma-related death is considered a class effect of LABA, including vilanterol, one of the active ingredients in TRELEGY ELLIPTA.
-
-No trial adequate to determine whether the rate of asthma-related death is increased in subjects treated with TRELEGY ELLIPTA has been conducted.
 The safety and efficacy of TRELEGY ELLIPTA in patients with asthma have not been established.
 TRELEGY ELLIPTA is not indicated for the treatment of asthma.
+
+Use of long-acting beta2-adrenergic agonists (LABA) as monotherapy [without inhaled corticosteroid (ICS)] for asthma is associated with an increased risk of asthma-related death.
+Available data from controlled clinical trials also suggest that use of LABA as monotherapy increases the risk of asthma-related hospitalization in pediatric and adolescent patients.
+These findings are considered a class effect of LABA monotherapy.
+When LABA are used in fixed‑dose combination with ICS, data from large clinical trials do not show a significant increase in the risk of serious asthma-related events (hospitalizations, intubations, death) compared with ICS alone.
+
+Available data from clinical trials in subjects with COPD do not suggest an increased risk of death with use of LABA in patients with COPD.
 
 ## 5.2 Deterioration of Disease and Acute Episodes
 
@@ -36,7 +37,7 @@ Patients using TRELEGY ELLIPTA should not use another medicine containing a LABA
 
 ## 5.4 Local Effects of Inhaled Corticosteroids
 
-TRELEGY ELLIPTA contains fluticasone furoate, an inhaled corticosteroid (ICS).
+TRELEGY ELLIPTA contains fluticasone furoate, an ICS.
 Localized infections of the mouth and pharynx with Candida albicans have occurred in subjects treated with orally inhaled drug products containing fluticasone furoate.
 When such an infection develops, it should be treated with appropriate local or systemic (i.e., oral) antifungal therapy while treatment with TRELEGY ELLIPTA continues, but at times therapy with TRELEGY ELLIPTA may need to be interrupted.
 Advise the patient to rinse his/her mouth with water without swallowing following inhalation to help reduce the risk of oropharyngeal candidiasis.
@@ -46,10 +47,14 @@ Advise the patient to rinse his/her mouth with water without swallowing followin
 Physicians should remain vigilant for the possible development of pneumonia in patients with COPD as clinical features of pneumonia and exacerbations frequently overlap.
 Lower respiratory tract infections, including pneumonia, have been reported following the inhaled administration of corticosteroids.
 
-In two 12-week trials of subjects with COPD (N = 824), the incidence of pneumonia was less than 1% for both treatment arms: umeclidinium 62.5 mcg + fluticasone furoate/vilanterol 100 mcg/25 mcg or placebo + fluticasone furoate/vilanterol 100 mcg/25 mcg.
+In two 12-week trials of subjects with COPD (N = 824), the incidence of pneumonia was <1% for both treatment arms: umeclidinium 62.5 mcg + fluticasone furoate/vilanterol 100 mcg/25 mcg or placebo + fluticasone furoate/vilanterol 100 mcg/25 mcg.
 Fatal pneumonia occurred in 1 subject receiving placebo + fluticasone furoate/vilanterol 100 mcg/25 mcg.
+
+In a 52-week trial of subjects with COPD (N = 10,355), the incidence of pneumonia was 8% for TRELEGY ELLIPTA (n = 4,151), 7% for fluticasone furoate/vilanterol 100 mcg/25 mcg (n = 4,134), and 5% for umeclidinium/vilanterol 62.5 mcg/25 mcg (n = 2,070).
+Fatal pneumonia occurred in 12 of 4,151 patients (0.35 per 100 patient-years) receiving TRELEGY ELLIPTA, 5 of 4,134 patients (0.17 per 100 patient-years) receiving fluticasone furoate/vilanterol, and 5 of 2,070 patients (0.29 per 100 patient-years) receiving umeclidinium/vilanterol.
+
 In a mortality trial with fluticasone furoate/vilanterol with a median treatment duration of 1.5 years in 16,568 subjects with moderate COPD and cardiovascular disease, the annualized incidence rate of pneumonia was 3.4 per 100 patient-years for fluticasone furoate/vilanterol 100 mcg/25 mcg, 3.2 for placebo, 3.3 for fluticasone furoate 100 mcg, and 2.3 for vilanterol 25 mcg.
-Adjudicated, on‑treatment deaths due to pneumonia occurred in 13 subjects receiving fluticasone furoate/vilanterol 100 mcg/25 mcg, 9 subjects receiving placebo, 10 subjects receiving fluticasone furoate 100 mcg, and 6 subjects receiving vilanterol 25 mcg (less than 0.2 per 100 patient-years for each treatment group).
+Adjudicated, on‑treatment deaths due to pneumonia occurred in 13 subjects receiving fluticasone furoate/vilanterol 100 mcg/25 mcg, 9 subjects receiving placebo, 10 subjects receiving fluticasone furoate 100 mcg, and 6 subjects receiving vilanterol 25 mcg (<0.2 per 100 patient-years for each treatment group).
 
 ## 5.6 Immunosuppression
 
@@ -122,6 +127,9 @@ Fatalities have been reported in association with excessive use of inhaled sympa
 
 TRELEGY ELLIPTA, like other sympathomimetic amines, should be used with caution in patients with cardiovascular disorders, especially coronary insufficiency, cardiac arrhythmias, and hypertension.
 
+In a 52-week trial of subjects with COPD, the exposure-adjusted rates for any on-treatment major adverse cardiac event, including non-fatal central nervous system hemorrhages and cerebrovascular conditions, non-fatal myocardial infarction (MI), non-fatal acute MI, and adjudicated on-treatment death due to cardiovascular events, was 2.2 per 100 patient-years for TRELEGY ELLIPTA (n = 4,151), 1.9 per 100 patient-years for fluticasone furoate/vilanterol 100 mcg/25 mcg (n = 4,134), and 2.2 per 100 patient-years for umeclidinium/vilanterol 62.5 mcg/25 mcg (n = 2,070).
+Adjudicated on-treatment deaths due to cardiovascular events occurred in 20 of 4,151 patients (0.54 per 100 patient-years) receiving TRELEGY ELLIPTA, 27 of 4,134 patients (0.78 per 100 patient-years) receiving fluticasone furoate/vilanterol, and 16 of 2,070 patients (0.94 per 100 patient-years) receiving umeclidinium/vilanterol.
+
 In a mortality trial with fluticasone furoate/vilanterol with a median treatment duration of 1.5 years in 16,568 subjects with moderate COPD and cardiovascular disease, the annualized incidence rate of adjudicated cardiovascular events (composite of myocardial infarction, stroke, unstable angina, transient ischemic attack, or on-treatment death due to cardiovascular events) was 2.5 per 100 patient-years for fluticasone furoate/vilanterol 100 mcg/25 mcg, 2.7 for placebo, 2.4 for fluticasone furoate 100 mcg, and 2.6 for vilanterol 25 mcg.
 Adjudicated, on-treatment deaths due to cardiovascular events occurred in 82 subjects receiving fluticasone furoate/vilanterol 100 mcg/25 mcg, 86 subjects receiving placebo, 80 subjects receiving fluticasone furoate 100 mcg, and 90 subjects receiving vilanterol 25 mcg (annualized incidence rate ranged from 1.2 to 1.3 per 100 patient-years for the treatment groups).
 
@@ -138,14 +146,14 @@ If significant reductions in BMD are seen and TRELEGY ELLIPTA is still considere
 Glaucoma, increased intraocular pressure, and cataracts have been reported in patients with COPD following the long-term administration of ICS or with use of inhaled anticholinergics.
 TRELEGY ELLIPTA should be used with caution in patients with narrow-angle glaucoma.
 Prescribers and patients should also be alert for signs and symptoms of acute narrow-angle glaucoma (e.g., eye pain or discomfort, blurred vision, visual halos or colored images in association with red eyes from conjunctival congestion and corneal edema).
-Instruct patients to consult a healthcare provider immediately if any of these signs or symptoms develops.
+Instruct patients to consult a healthcare provider immediately if any of these signs or symptoms develop.
 Close monitoring is warranted in patients with a change in vision or with a history of increased intraocular pressure, narrow- or open-angle glaucoma, and/or cataracts.
 
 ## 5.15 Worsening of Urinary Retention
 
 TRELEGY ELLIPTA, like all medicines containing an anticholinergic, should be used with caution in patients with urinary retention.
 Prescribers and patients should be alert for signs and symptoms of urinary retention (e.g., difficulty passing urine, painful urination), especially in patients with prostatic hyperplasia or bladder-neck obstruction.
-Instruct patients to consult a healthcare provider immediately if any of these signs or symptoms develops.
+Instruct patients to consult a healthcare provider immediately if any of these signs or symptoms develop.
 
 ## 5.16 Coexisting Conditions
 

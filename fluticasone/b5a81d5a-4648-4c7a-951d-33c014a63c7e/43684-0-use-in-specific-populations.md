@@ -4,11 +4,11 @@
 
 Risk Summary
 
-There are insufficient data on the use of TRELEGY ELLIPTA or its individual components, fluticasone furoate, umeclidinium, and vilanterol, in pregnant women to inform a drug-associated risk.
-[See Clinical Considerations.]
+There are insufficient data on the use of TRELEGY ELLIPTA or its individual components, fluticasone furoate, umeclidinium, and vilanterol, in pregnant women to inform a drug‑associated risk.
+(See Clinical Considerations.)
 In an animal reproduction study, fluticasone furoate and vilanterol administered by inhalation alone or in combination to pregnant rats during the period of organogenesis produced no fetal structural abnormalities.
 The highest fluticasone furoate and vilanterol doses in this study were approximately 9 and 40 times the maximum recommended human daily inhalation doses (MRHDID) of 100 and 25 mcg in adults, respectively.
-[See Data.]
+(See Data.)
 Umeclidinium administered via inhalation or subcutaneously to pregnant rats and rabbits was not associated with adverse effect on embryofetal development at exposures approximately 50 and 200 times, respectively, the human exposure at the MRHDID.
 
 The estimated risk of major birth defects and miscarriage for the indicated populations is unknown.
@@ -48,7 +48,7 @@ No evidence of effects in offspring development was observed.
 Risk Summary
 
 There is no information available on the presence of fluticasone furoate, umeclidinium, or vilanterol in human milk; the effects on the breastfed child; or the effects on milk production.
-Umeclidinium is present in rat milk [see Data].
+Umeclidinium is present in rat milk (see Data).
 The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for TRELEGY ELLIPTA and any potential adverse effects on the breastfed child from fluticasone furoate, umeclidinium, or vilanterol or from the underlying maternal condition.
 
 Data
@@ -65,6 +65,7 @@ The safety and efficacy in pediatric patients have not been established.
 Based on available data, no adjustment of the dosage of TRELEGY ELLIPTA in geriatric patients is necessary, but greater sensitivity in some older individuals cannot be ruled out.
 
 In Trials 1 and 2 (coadministration trials), 189 subjects aged 65 years and older, of which 39 subjects were aged 75 years and older, were administered umeclidinium 62.5 mcg + fluticasone furoate/vilanterol 100 mcg/25 mcg.
+In Trial 3, 2,265 subjects aged 65 years and older, of which 565 subjects were aged 75 years and older, were administered TRELEGY ELLIPTA.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger subjects.
 
 ## 8.6 Hepatic Impairment
@@ -90,10 +91,10 @@ Information on the individual components is provided below.
 
 Fluticasone Furoate/Vilanterol
 
-There were no significant increases in either fluticasone furoate or vilanterol exposure in subjects with severe renal impairment (CrCl less than 30 mL/min) compared with healthy subjects.
+There were no significant increases in either fluticasone furoate or vilanterol exposure in subjects with severe renal impairment (CrCl <30 mL/min) compared with healthy subjects.
 No dosage adjustment is required in patients with renal impairment [see Clinical Pharmacology (12.3)].
 
 Umeclidinium
 
-Patients with severe renal impairment (CrCl less than 30 mL/min) showed no relevant increases in Cmax or AUC, nor did protein binding differ between subjects with severe renal impairment and their healthy controls.
+Patients with severe renal impairment (CrCl <30 mL/min) showed no relevant increases in Cmax or AUC, nor did protein binding differ between subjects with severe renal impairment and their healthy controls.
 No dosage adjustment is required in patients with renal impairment [see Clinical Pharmacology (12.3)].

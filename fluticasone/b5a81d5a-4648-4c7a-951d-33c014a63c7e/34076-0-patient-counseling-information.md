@@ -1,11 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Medication Guide and Instructions for Use).
-
-Asthma-Related Death
-
-Inform patients that LABA, such as vilanterol, one of the active ingredients in TRELEGY ELLIPTA, increase the risk of asthma-related death.
-TRELEGY ELLIPTA is not indicated for the treatment of asthma.
+Advise the patient to read the FDA-approved patient labeling (Patient Information and Instructions for Use).
 
 Not for Acute Symptoms
 
@@ -28,7 +23,7 @@ Instruct patients not to use other LABA.
 Local Effects
 
 Inform patients that localized infections with Candida albicans occurred in the mouth and pharynx in some patients.
-If oropharyngeal candidiasis develops, it should be treated with appropriate local or systemic (i.e., oral) antifungal therapy while still continuing therapy with TRELEGY ELLIPTA, but at times therapy with TRELEGY ELLIPTA may need to be temporarily interrupted under close medical supervision.
+If oropharyngeal candidiasis develops, treat it with appropriate local or systemic (i.e., oral) antifungal therapy while still continuing therapy with TRELEGY ELLIPTA, but at times therapy with TRELEGY ELLIPTA may need to be temporarily interrupted under close medical supervision.
 Advise patients to rinse the mouth with water without swallowing after inhalation to help reduce the risk of thrush.
 
 Pneumonia
@@ -66,12 +61,12 @@ Ocular Effects
 Inform patients that long-term use of ICS may increase the risk of some eye problems (cataracts or glaucoma); consider regular eye examinations.
 
 Instruct patients to be alert for signs and symptoms of acute narrow-angle glaucoma (e.g., eye pain or discomfort, blurred vision, visual halos or colored images in association with red eyes from conjunctival congestion and corneal edema).
-Instruct patients to consult a physician immediately if any of these signs or symptoms develops.
+Instruct patients to consult a physician immediately if any of these signs or symptoms develop.
 
 Worsening of Urinary Retention
 
 Instruct patients to be alert for signs and symptoms of urinary retention (e.g., difficulty passing urine, painful urination).
-Instruct patients to consult a physician immediately if any of these signs or symptoms develops.
+Instruct patients to consult a physician immediately if any of these signs or symptoms develop.
 
 Risks Associated with Beta-agonist Therapy
 
@@ -85,6 +80,6 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2017 GSK group of companies or its licensor.
+©2018 GSK group of companies or its licensor.
 
-TRL:2PI
+TRL:3PI

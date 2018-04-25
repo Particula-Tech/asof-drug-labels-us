@@ -26,5 +26,5 @@ Comparative in vitro data for drug delivery and aerodynamic particle size distri
 
 Under standardized in vitro test conditions, TRELEGY ELLIPTA delivers 92, 55, and 22 mcg of fluticasone furoate, umeclidinium, and vilanterol, respectively, per dose when tested at a flow rate of 60 L/min for 4 seconds.
 
-In adult subjects with very severe COPD (FEV1/FVC [forced vital capacity] less than 70% and FEV1 less than 30% predicted), mean peak inspiratory flow through the ELLIPTA inhaler was 65.8 L/min (range: 43.5 to 94.1 L/min).
+In adult subjects with very severe COPD (FEV1/FVC [forced vital capacity] <70% and FEV1 <30% predicted), mean peak inspiratory flow through the ELLIPTA inhaler was 65.8 L/min (range: 43.5 to 94.1 L/min).
 The actual amount of drug delivered to the lung will depend on patient factors, such as inspiratory flow profile.

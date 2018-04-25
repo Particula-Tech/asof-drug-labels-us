@@ -13,7 +13,7 @@ Fluticasone furoate produced no treatment-related increases in the incidence of 
 Fluticasone furoate did not induce gene mutation in bacteria or chromosomal damage in a mammalian cell mutation test in mouse lymphoma L5178Y cells in vitro.
 There was also no evidence of genotoxicity in the in vivo micronucleus test in rats.
 
-No evidence of impairment of fertility was observed in male and female rats at inhaled fluticasone furoate doses up to 29 and 91 mcg/kg/day, respectively (approximately 8 and 21 times, respectively, the MRHDID for adults on AUC basis).
+No evidence of impairment of fertility was observed in male and female rats at inhaled fluticasone furoate doses up to 29 and 91 mcg/kg/day, respectively (approximately 8 and 21 times, respectively, the MRHDID for adults on an AUC basis).
 
 Umeclidinium
 
