@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA022142"
+  ],
+  "inn": "lamivudine",
+  "labeler": "Mylan Specialty L.P.",
+  "package_ndcs": [
+    "49502-475-93"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "efavirenz, lamivudine and tenofovir disoproxil fumarate",
+      "name": "SYMFI"
+    }
+  ],
+  "setid": "81a55dd9-78a8-49c3-88ab-8f5bffafa359",
+  "source": "dailymed"
+}
