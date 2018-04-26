@@ -84,7 +84,7 @@ An imbalance with regard to histology was observed with 48% of patients on the c
 The Kaplan-Meier survival curve is shown in Figure 3.
 Median survival time on the gemcitabine plus cisplatin arm was 9.0 months compared to 7.6 months on the single-agent cisplatin arm (Log rank p=0.008, two-sided).
 Median time to disease progression was 5.2 months on the gemcitabine plus cisplatin arm compared to 3.7 months on the cisplatin arm (Log rank p=0.009, two-sided).
-The objective response rate on the gemcitabine plus cisplatin arm was 26% compared to 10% with cisplatin (Fisher’s Exact p<0.0001, two-sided).
+The objective response rate on the gemcitabine plus cisplatin arm was 26% compared to 10% with cisplatin (Fisher's Exact p<0.0001, two-sided).
 No difference between treatment arms with regard to duration of response was observed.
 
 Gemcitabine plus cisplatin versus etoposide plus cisplatin: A second, multicenter, study in Stage IIIB or IV NSCLC randomized 135 patients to gemcitabine 1250 mg/m2 on Days 1 and 8, and cisplatin 100 mg/m2 on Day 1 of a 21-day cycle or to intravenous etoposide 100 mg/m2 on Days 1, 2, and 3 and cisplatin 100 mg/m2 on Day 1 of a 21-day cycle (Table 13).
@@ -92,7 +92,7 @@ Gemcitabine plus cisplatin versus etoposide plus cisplatin: A second, multicente
 There was no significant difference in survival between the two treatment arms (Log rank p=0.18, two-sided).
 The median survival was 8.7 months for the gemcitabine plus cisplatin arm versus 7.0 months for the etoposide plus cisplatin arm.
 Median time to disease progression for the gemcitabine plus cisplatin arm was 5.0 months compared to 4.1 months on the etoposide plus cisplatin arm (Log rank p=0.015, two-sided).
-The objective response rate for the gemcitabine plus cisplatin arm was 33% compared to 14% on the etoposide plus cisplatin arm (Fisher’s Exact p=0.01, two-sided).
+The objective response rate for the gemcitabine plus cisplatin arm was 33% compared to 14% on the etoposide plus cisplatin arm (Fisher's Exact p=0.01, two-sided).
 
 Figure 3: Kaplan-Meier Survival Curve in Gemcitabine Plus Cisplatin Versus Cisplatin NSCLC Study (N=522)
 
@@ -108,7 +108,7 @@ Table 13: Randomized Trials of Combination Therapy With Gemcitabine Plus Cisplat
 | Survival Median, months (95%, C.I.) months | 9.0 8.2, 11.0 | 7.6 6.6, 8.8 | p=0.008 | 8.7 7.8, 10.1 | 7.0 6.0, 9.7 | p=0.18 |
 | Time to Disease Progression Median, months (95%, C.I.) months | 5.2 4.2, 5.7 | 3.7 3.0, 4.3 | p=0.009 | 5.0 4.2, 6.4 | 4.1 2.4, 4.5 | p=0.015 |
 | Tumor Response | 26% | 10% | p<0.0001e | 33% | 14% | p=0.01e |
-| a 28-day schedule — Gemcitabine plus cisplatin: Gemcitabine 1000 mg/m2 on Days 1, 8, and 15 and cisplatin 100 mg/m2 on Day 1 every 28 days; Single-agent cisplatin: cisplatin 100 mg/m2 on Day 1 every 28 days. b 21-day schedule — Gemcitabine plus cisplatin: Gemcitabine 1250 mg/m2 on Days 1 and 8 and cisplatin 100 mg/m2 on Day 1 every 21 days; Etoposide plus Cisplatin: cisplatin 100 mg/m2 on Day 1 and intravenous etoposide 100 mg/m2 on Days 1, 2, and 3 every 21 days. c N/A Not applicable. d Karnofsky Performance Status. e p-value for tumor response was calculated using the two-sided Fisher’s Exact test for difference in binomial proportions. All other p-values were calculated using the Log rank test for difference in overall time to an event. |  |  |  |  |  |  |
+| a 28-day schedule — Gemcitabine plus cisplatin: Gemcitabine 1000 mg/m2 on Days 1, 8, and 15 and cisplatin 100 mg/m2 on Day 1 every 28 days; Single-agent cisplatin: cisplatin 100 mg/m2 on Day 1 every 28 days. b 21-day schedule — Gemcitabine plus cisplatin: Gemcitabine 1250 mg/m2 on Days 1 and 8 and cisplatin 100 mg/m2 on Day 1 every 21 days; Etoposide plus Cisplatin: cisplatin 100 mg/m2 on Day 1 and intravenous etoposide 100 mg/m2 on Days 1, 2, and 3 every 21 days. c N/A Not applicable. d Karnofsky Performance Status. e p-value for tumor response was calculated using the two-sided Fisher's Exact test for difference in binomial proportions. All other p-values were calculated using the Log rank test for difference in overall time to an event. |  |  |  |  |  |  |
 
 ## 14.4 Pancreatic Cancer
 
@@ -118,7 +118,7 @@ A second trial studied the use of gemcitabine in pancreatic cancer patients prev
 In both studies, the first cycle of gemcitabine was administered intravenously at a dose of 1000 mg/m2 over 30 minutes once weekly for up to 7 weeks (or until toxicity necessitated holding a dose) followed by a week of rest from treatment with gemcitabine.
 Subsequent cycles consisted of injections once weekly for 3 consecutive weeks out of every 4 weeks.
 
-The primary efficacy parameter in these studies was “clinical benefit response,” which is a measure of clinical improvement based on analgesic consumption, pain intensity, performance status, and weight change.
+The primary efficacy parameter in these studies was "clinical benefit response," which is a measure of clinical improvement based on analgesic consumption, pain intensity, performance status, and weight change.
 Definitions for improvement in these variables were formulated prospectively during the design of the 2 trials.
 A patient was considered a clinical benefit responder if either:
 

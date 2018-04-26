@@ -24,7 +24,7 @@ Table 1: Day 8 Dosage Reduction Guidelines for Gemcitabine Injection in Combinat
 | <1000 | And/or | <75,000 | Hold |
 
 In general, for severe (Grade 3 or 4) non-hematological toxicity, except nausea/vomiting, therapy with Gemcitabine Injection should be held or decreased by 50% depending on the judgment of the treating physician.
-For carboplatin dosage adjustment, see manufacturer’s prescribing information.
+For carboplatin dosage adjustment, see manufacturer's prescribing information.
 
 Dose adjustment for Gemcitabine Injection in combination with carboplatin for subsequent cycles is based upon observed toxicity.
 The dose of Gemcitabine Injection in subsequent cycles should be reduced to 800 mg/m2 on Days 1 and 8 in case of any of the following hematologic toxicities:
@@ -59,7 +59,7 @@ Table 2: Day 8 Dosage Reduction Guidelines for Gemcitabine Injection in Combinat
 | <700 | Or | <50,000 | Hold |
 
 In general, for severe (Grade 3 or 4) non-hematological toxicity, except alopecia and nausea/vomiting, therapy with Gemcitabine Injection should be held or decreased by 50% depending on the judgment of the treating physician.
-For paclitaxel dosage adjustment, see manufacturer’s prescribing information.
+For paclitaxel dosage adjustment, see manufacturer's prescribing information.
 
 ## 2.3 Non-Small Cell Lung Cancer
 
@@ -76,7 +76,7 @@ Dosage adjustments for hematologic toxicity may be required for Gemcitabine Inje
 Gemcitabine Injection dosage adjustment for hematological toxicity is based on the granulocyte and platelet counts taken on the day of therapy.
 Patients receiving Gemcitabine Injection should be monitored prior to each dose with a complete blood count (CBC), including differential and platelet counts.
 If marrow suppression is detected, therapy should be modified or suspended according to the guidelines in Table 3.
-For cisplatin dosage adjustment, see manufacturer’s prescribing information.
+For cisplatin dosage adjustment, see manufacturer's prescribing information.
 
 In general, for severe (Grade 3 or 4) non-hematological toxicity, except alopecia and nausea/vomiting, therapy with Gemcitabine Injection plus cisplatin should be held or decreased by 50% depending on the judgment of the treating physician.
 During combination therapy with cisplatin, serum creatinine, serum potassium, serum calcium, and serum magnesium should be carefully monitored (Grade 3/4 serum creatinine toxicity for Gemcitabine Injection plus cisplatin was 5% versus 2% for cisplatin alone).

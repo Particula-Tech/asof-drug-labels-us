@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D. [See Warnings and Precautions (5).]
+[See Warnings and Precautions (5).]
 
 Gemcitabine can cause fetal harm when administered to a pregnant woman.
 Based on its mechanism of action, gemcitabine is expected to result in adverse reproductive effects.
