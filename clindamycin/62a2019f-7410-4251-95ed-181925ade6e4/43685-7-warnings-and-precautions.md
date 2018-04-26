@@ -23,24 +23,43 @@ Diarrhea, colitis, and pseudomembranous colitis have been observed to begin up t
 
 # PRECAUTIONS
 
-General: Clindamycin Phosphate Topical Solution contains an alcohol base which will cause burning and irritation of the eye.
+General:
+
+Clindamycin Phosphate Topical Solution contains an alcohol base which will cause burning and irritation of the eye.
 In the event of accidental contact with sensitive surfaces (eye, abraded skin, mucous membranes), bathe with copious amounts of cool tap water.
 The solution has an unpleasant taste and caution should be exercised when applying medication around the mouth.
 
 Clindamycin phosphate should be prescribed with caution in atopic individuals.
 
-Drug Interactions: Clindamycin has been shown to have neuromuscular blocking properties that may enhance the action of other neuromuscular blocking agents.
+Drug Interactions:
+
+Clindamycin has been shown to have neuromuscular blocking properties that may enhance the action of other neuromuscular blocking agents.
 Therefore it should be used with caution in patients receiving such agents.
 
-Pregnancy: Teratogenic Effects—Pregnancy Category B. In clinical trials with pregnant women, the systemic administration of clindamycin during the second and third trimesters has not been associated with an increased frequency of congenital abnormalities.
+Pregnancy:
+
+Teratogenic effects
+
+In clinical trials with pregnant women, the systemic administration of clindamycin during the second and third trimesters, has not been associated with an increased frequency of congenital abnormalities.
 There are no adequate studies in pregnant women during the first trimester of pregnancy.
 Clindamycin should be used during the first trimester of pregnancy only if clearly needed.
 
-Nursing Mothers: It is not known whether clindamycin is excreted in human milk following use of clindamycin phosphate.
+Nursing Mothers:
+
+It is not known whether clindamycin is excreted in human milk following use of clindamycin phosphate.
 However, orally and parenterally administered clindamycin has been reported to appear in breast milk.
-Because of the potential for serious adverse reactions in nursing infants, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 
-Pediatric Use: Safety and effectiveness in pediatric patients under the age of 12 have not been established.
+Clindamycin has the potential to cause adverse effects on the breastfed infant's gastrointestinal flora.
+If oral or intravenous clindamycin is required by a nursing mother, it is not a reason to discontinue breastfeeding, but an alternate drug may be preferred.
+Monitor the infant for possible adverse effects on the gastrointestinal flora, such as diarrhea, candidiasis (thrush, diaper rash) or rarely, blood in the stool indicating possible antibiotic-associated colitis.
 
-Geriatric Use: Clinical studies for topical Clindamycin products did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for clindamycin and any potential adverse effects on the breastfed child from clindamycin or from the underlying maternal condition.
+
+Pediatric Use:
+
+Safety and effectiveness in pediatric patients under the age of 12 have not been established.
+
+Geriatric Use:
+
+Clinical studies for topical Clindamycin products did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
