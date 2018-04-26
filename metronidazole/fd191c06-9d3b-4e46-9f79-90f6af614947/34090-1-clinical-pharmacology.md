@@ -53,14 +53,14 @@ Metronidazole has been shown to be active against most isolates of the following
 - Bacteroides fragilis group (B. fragilis, B. distasonis, B. ovatus, B. thetaiotaomicron, B. vulgatus)
 - Fusobacterium species
 
-### ​Gram positive anaerobes:
+### Gram positive anaerobes:
 
 - Clostridium species
 - Eubacterium species
 - Peptococcus species
 - Peptostreptococcus species
 
-The following in vitro data are available, but their clinical significance is unknown: Metronidazole exhibits in vitro minimal inhibitory concentrations (MIC’s) of 8 mcg/mL or less against most (≥90%) isolates of the following bacteria; however, the safety and effectiveness of metronidazole in treating clinical infections due to these bacteria have not been established in adequate and well-controlled clinical trials:
+The following in vitro data are available, but their clinical significance is unknown: Metronidazole exhibits in vitro minimal inhibitory concentrations (MIC’s) of 8 mcg/mL or less against most (≥90%) isolates of the following bacteria; however, the safety and effectiveness of metronidazole in treating clinical infections due to these bacteria have not been established in adequate and well-controlled clinical trials.
 
 ### Gram negative anaerobes
 
@@ -83,7 +83,7 @@ The MIC values obtained should be interpreted according to the criteria provided
 
 | Table 1: Susceptibility Test Interpretive Criteria for Metronidazole |  |  |  |
 | --- | --- | --- | --- |
-| Pathogen | Minimum Inhibitory Concentration (mcg/mL)Agar dilution method is recommended for all anaerobes.Broth dilution method is recommended for testing of Bacteroides fragilis group only; for this group, MIC values by agar and broth dilution methods are consisered equivalent. |  |  |
+| Pathogen | Minimum Inhibitory Concentration (mcg/mL)Agar dilution method is recommended for all anaerobes.Broth dilution method is recommended for testing of Bacteroides fragilis group only; for this group, MIC values by agar and broth dilution methods are considered equivalent. |  |  |
 | S | I | R |  |
 | Anaerobes | ≤ 8 | 16 | ≥ 32 |
 

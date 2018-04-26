@@ -6,7 +6,7 @@ To reduce the development of drug-resistant bacteria and maintain the effectiven
 
 Rx only
 
-Revised: November 2015
+Revised: April 2018
 
 PAB is a registered trademark of B. Braun Medical Inc.
 
@@ -38,7 +38,7 @@ WARNING: DO NOT USE PLASTIC CONTAINER IN SERIES CONNECTION.
 2. Caution – Adding additives into the Metronidazole Injection USP solution bag is prohibited.
    If used with a primary intravenous fluid system, the primary solution should be discontinued during metronidazole infusion.
    Do not use equipment containing aluminum (e.g., needles, cannulae, etc.) that may contact the drug solution.
-3. To Attach Administration Set To aseptically remove the set port closure: hold container below the set port and grasp the foil tab between the thumb and forefinger then pull the tab in two steps shown in Figure B Steps 1 and 2.
+3. To Attach Administration Set To aseptically remove the set port closure: hold container below the set port and grasp the foil tab between the thumb and forefinger then pull the tab in two steps as shown in Figure B Steps 1 and 2.
 4. Push spike through the diaphragm of the port (See Figure C). Hang container using hole on the lower flap.
    Prime set in accordance with the Directions for Use provided with the set in use.
 
@@ -46,4 +46,4 @@ PAB® containers can be safely transported in a standard 6-inch carrier through 
 
 B. Braun Medical Inc. Bethlehem, PA 18018-3524 USA 1-800-227-2862
 
-Y36-002-917 LD-438-5
+Y36-002-938 LD-438-6

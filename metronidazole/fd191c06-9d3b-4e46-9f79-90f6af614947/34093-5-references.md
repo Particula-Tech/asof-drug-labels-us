@@ -7,7 +7,7 @@
 2. Clinical and Laboratory Standards Institute (CLSI).
    Performance Standards for Antimicrobial Susceptibility Testing; Twenty-fifth Informational Supplement.
    CLSI document M100-S25.
-   Clinical and Laboratory Standards Institute, 950West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA, 2015.
+   Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA, 2015.
 3. Ralph ED, Kirby WMM: Bioassay of Metronidazole With Either Anaerobic or Aerobic Incubation, J. Infect.
    Dis.
    132:587-591 (Nov.)
