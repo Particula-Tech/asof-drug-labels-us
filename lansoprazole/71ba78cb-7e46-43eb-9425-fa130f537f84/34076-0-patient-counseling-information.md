@@ -36,15 +36,14 @@ Administration
 
 - Missed doses: If a dose is missed, administer as soon as possible.
   However, if the next scheduled dose is due, do not take the missed dose, and take the next dose on time.
-  Do not take two doses at one time to make up for a missed dose.
+  Do not take two doses at one time to make up for a missed dose.PREVACID CapsulesPREVACID SoluTab
   - PREVACID or PREVACID SoluTab should be taken before eating.
   - Do not crush or chew PREVACID capsule or PREVACID SoluTab.
   - Take PREVACID or PREVACID SoluTab at least 30 minutes prior to sucralfate.
   - Phenylketonurics: Contains Phenylalanine 2.5 mg per 15 mg PREVACID SoluTab Tablet and 5.1 mg per 30 mg PREVACID SoluTab Tablet.
-    PREVACID Capsules
   - Swallow whole; do not chew.
-  - For patients who have difficulty swallowing capsules:PREVACID SoluTab
-    - PREVACID capsules can be opened and sprinkled on applesauce, ENSURE pudding, cottage cheese, yogurt or strained pears.
+  - For patients who have difficulty swallowing capsules:
+    - PREVACID capsules can be opened and sprinkled on applesauce, ENSURE pudding, cottage cheese, yogurt or strained pears
     - PREVACID capsules may also be emptied into a small volume of either apple juice, orange juice or tomato juice
     - Alternatively, PREVACID capsules can be administered with apple juice via nasogastric tube
     - See the Instructions for Use for a description of all preparation and administration instructions

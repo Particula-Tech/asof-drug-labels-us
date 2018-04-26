@@ -96,10 +96,9 @@ In a U.S. multi-center, double-blind, placebo-controlled study of 253 patients w
 Table 14.
 Gastric Ulcer Healing Rates
 
-| (N=65) | (N=63) | (N=61) | (N=64) |  |
+| 15 mg daily (N=65) | 30 mg daily (N=63) | 60 mg daily (N=61) |  |  |
 | --- | --- | --- | --- | --- |
-| Week | PREVACID |  |  | Placebo |
-| 15 mg daily | 30 mg daily | 60 mg daily |  |  |
+| Week | PREVACID |  |  | Placebo (N=64) |
 | 4 | 64.6%(p≤0.05) vs placebo. | 58.1% | 53.3% | 37.5% |
 | 8 | 92.2% | 96.8% | 93.2% | 76.7% |
 
@@ -133,7 +132,7 @@ NSAID-Associated Gastric Ulcer Healing RatesActual observed ulcer(s) healed at t
 In one large U.S., multi-center, double-blind, placebo- and misoprostol-controlled (misoprostol blinded only to the endoscopist) study in patients who required chronic use of an NSAID and who had a history of an endoscopically documented gastric ulcer, the proportion of patients remaining free from gastric ulcer at four, eight, and 12 weeks was significantly higher with 15 or 30 mg of PREVACID than placebo.
 A total of 537 patients were enrolled in the study, and 535 patients were treated.
 Patients ranged in age from 23 to 89 years (median age 60 years), with 65% female patients and 35% male patients.
-Race was distributed as follows: 90% Caucasian, 6% Black, 4% other.
+Race was distributed as follows: 90% Caucasian, 6% Black, 4% Other.
 The 30 mg dose of PREVACID demonstrated no additional benefit in risk reduction of the NSAID-associated gastric ulcer than the 15 mg dose (Table 16) [see Indications and Usage (1.6)].
 
 Table 16.
@@ -252,7 +251,7 @@ Endoscopic Remission Rates
 
 Regardless of initial grade of erosive esophagitis, PREVACID 15 and 30 mg were similar in maintaining remission.
 
-In a U.S., randomized, double-blind study, PREVACID 15 mg daily (n = 100) was compared with ranitidine 150 mg twice daily (n = 106), at the recommended dosage, in patients with endoscopically-proven healed erosive esophagitis over a 12 month period.
+In a U.S., randomized, double-blind study, PREVACID 15 mg daily (n=100) was compared with ranitidine 150 mg twice daily (n=106), at the recommended dosage, in patients with endoscopically-proven healed erosive esophagitis over a 12 month period.
 Treatment with PREVACID resulted in patients remaining healed (Grade 0 lesions) of erosive esophagitis for significantly longer periods of time than those treated with ranitidine (p<0.001).
 In addition, PREVACID was significantly more effective than ranitidine in providing complete relief of both daytime and nighttime heartburn.
 Patients treated with PREVACID remained asymptomatic for a significantly longer period of time than patients treated with ranitidine [see Indications and Usage (1.9)].

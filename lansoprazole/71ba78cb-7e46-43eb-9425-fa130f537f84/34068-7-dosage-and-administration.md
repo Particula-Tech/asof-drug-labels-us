@@ -17,7 +17,7 @@
 | Amoxicillin | 1 gram | Three times daily for 14 days |
 | Benign Gastric Ulcer |  |  |
 | Short-Term Treatment | 30 mg | Once daily for up to 8 weeks |
-| NSAID-associated Gastric Ulcer |  |  |
+| NSAID-Associated Gastric Ulcer |  |  |
 | Healing | 30 mg | Once daily for 8 weeksControlled studies did not extend beyond indicated duration. |
 | Risk Reduction | 15 mg | Once daily for up to 12 weeks |
 | Gastroesophageal Reflux Disease (GERD) |  |  |
@@ -61,23 +61,21 @@ PREVACID capsules
 - Swallow whole; do not chew.
 - For patients who have difficulty swallowing capsules, PREVACID capsules can be opened and administered orally or via a nasogastric tube in the soft foods or liquids specified below.
 - Administration of PREVACID in foods or liquids other than those discussed below have not been studied clinically and therefore are not recommended.
-  - Administration in Soft Foods (applesauce, ENSURE pudding, cottage cheese, yogurt or strained pears):
-    1. Open capsule.
-    2. Sprinkle intact granules on one tablespoon of either applesauce, ENSURE pudding, cottage cheese, yogurt or strained pears.
-    3. Swallow immediately.
-  - Administration in Liquids (apple juice, orange juice or tomato juice):
-    1. Open capsule.
-    2. Sprinkle intact granules into a small volume of either apple juice, orange juice or tomato juice (60 mL – approximately two ounces).
-    3. Mix briefly.
-    4. Swallow immediately.
-    5. To ensure complete delivery of the dose, rinse the glass with two or more volumes of juice and swallow the contents immediately.
-  - Administration with Apple Juice Through a Nasogastric Tube (≥16 French)
-    1. Open capsule.
-    2. Sprinkle intact granules into 40 mL of apple juice.
-    3. Mix briefly.
-    4. Using a catheter tipped syringe, draw up the mixture.
-    5. Inject through the nasogastric tube into the stomach.
-    6. Flush with additional apple juice to clear the tube.
+  Administration in Soft Foods (applesauce, ENSURE pudding, cottage cheese, yogurt or strained pears):Administration in Liquids (apple juice, orange juice or tomato juice):Administration with Apple Juice Through a Nasogastric Tube (≥16 French)
+  1. Open capsule.
+  2. Sprinkle intact granules on one tablespoon of either applesauce, ENSURE pudding, cottage cheese, yogurt or strained pears.
+  3. Swallow immediately.
+  1. Open capsule.
+  2. Sprinkle intact granules into a small volume of either apple juice, orange juice or tomato juice (60 mL – approximately two ounces).
+  3. Mix briefly.
+  4. Swallow immediately.
+  5. To ensure complete delivery of the dose, rinse the glass with two or more volumes of juice and swallow the contents immediately.
+  1. Open capsule.
+  2. Sprinkle intact granules into 40 mL of apple juice.
+  3. Mix briefly.
+  4. Using a catheter tipped syringe, draw up the mixture.
+  5. Inject through the nasogastric tube into the stomach.
+  6. Flush with additional apple juice to clear the tube.
 
 PREVACID SoluTab
 
@@ -85,16 +83,14 @@ PREVACID SoluTab
 - Place the tablet on the tongue, allow it to disintegrate, with or without water, until the microgranules can be swallowed.
   Do not chew the microgranules.
 - The tablet typically disintegrates in less than one minute.
-- Alternatively, for children or other patients who have difficulty swallowing tablets, PREVACID SoluTab can be administered with water via oral syringe or NG tube as follows:
-  - Administration with Water in an Oral Syringe
-    1. Place a 15 mg tablet in oral syringe and draw up 4 mL of water, or place a 30 mg tablet in oral syringe and draw up 10 mL of water.
-    2. Shake gently to allow for a quick dispersal.
-    3. After the tablet has dispersed, administer the contents within 15 minutes of mixing into the mouth.
-       Do not save the water and microgranule mixture for later use.
-    4. Refill the syringe with approximately 2 mL (5 mL for the 30 mg tablet) of water, shake gently, and administer any remaining contents.
-  - Administration with Water via a NG Tube (≥8 French)
-    1. Place a 15 mg tablet in a catheter-tip syringe and draw up 4 mL of water, or place a 30 mg tablet in a catheter-tip syringe and draw up 10 mL of water.
-    2. Shake gently to allow for a quick dispersal.
-    3. After the tablet has dispersed, shake the catheter-tip syringe gently in order to keep the microgranules from settling, and immediately inject the mixture through the NG tube into the stomach within 15 minutes of mixing.
-       Do not save the water and microgranule mixture for later use.
-    4. Refill the catheter-tip syringe with approximately 5 mL of water, shake gently, and flush the tube.
+- Alternatively, for children or other patients who have difficulty swallowing tablets, PREVACID SoluTab can be administered with water via oral syringe or NG tube as follows: Administration with Water in an Oral SyringeAdministration with Water via a NG Tube (≥8 French)
+  1. Place a 15 mg tablet in oral syringe and draw up 4 mL of water, or place a 30 mg tablet in oral syringe and draw up 10 mL of water.
+  2. Shake gently to allow for a quick dispersal.
+  3. After the tablet has dispersed, administer the contents within 15 minutes of mixing into the mouth.
+     Do not save the water and microgranule mixture for later use.
+  4. Refill the syringe with approximately 2 mL (5 mL for the 30 mg tablet) of water, shake gently, and administer any remaining contents.
+  1. Place a 15 mg tablet in a catheter-tip syringe and draw up 4 mL of water, or place a 30 mg tablet in a catheter-tip syringe and draw up 10 mL of water.
+  2. Shake gently to allow for a quick dispersal.
+  3. After the tablet has dispersed, shake the catheter-tip syringe gently in order to keep the microgranules from settling, and immediately inject the mixture through the NG tube into the stomach within 15 minutes of mixing.
+     Do not save the water and microgranule mixture for later use.
+  4. Refill the catheter-tip syringe with approximately 5 mL of water, shake gently, and flush the tube.

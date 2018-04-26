@@ -154,8 +154,8 @@ Therefore, the pharmacokinetics of lansoprazole were not clinically different in
 
 Patients with Hepatic Impairment:
 
-In patients with mild (Child-Pugh Class A) or moderate (Child-Pugh Class B) hepatic impairment there was an approximate 3-fold increase in mean AUC compared to healthy subjects with normal hepatic function following multiple oral doses of 30 mg PREVACID for 7 days.
-The corresponding mean plasma half-life of lansoprazole was prolonged from 1.5 hours to 4 hours (Child-Pugh A) or 5 hours (Child-Pugh B).
+In patients with mild (Child-Pugh Class A) or moderate (Child-Pugh Class B) hepatic impairment there was an approximate 3-fold increase in mean AUC compared to healthy subjects with normal hepatic function following multiple oral doses of 30 mg PREVACID for seven days.
+The corresponding mean plasma half-life of lansoprazole was prolonged from 1.5 to four hours (Child-Pugh A) or five hours (Child-Pugh B).
 
 In patients with compensated and decompensated cirrhosis, there was an approximate 6- and 5-fold increase in AUC, respectively, compared to healthy subjects with normal hepatic function following a single oral dose of 30 mg PREVACID [see Dosage and Administration (2.3), Use in Specific Populations (8.6)].
 
