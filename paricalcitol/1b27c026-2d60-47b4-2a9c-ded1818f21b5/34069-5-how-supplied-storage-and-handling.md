@@ -2,13 +2,17 @@
 
 ZEMPLAR capsules are available as 1 mcg and 2 mcg capsules.
 
-The 1 mcg capsule is an oval, gray, soft gelatin capsule imprinted with the “a” logo and ZA, and is available in the following package size:
+The 1 mcg capsule is an oval, gray, soft gelatin capsule supplied and imprinted as follows:
 
-Bottles of 30 (NDC 0074-4317-30)
+Bottles of 30 – NDC 0074-9036-30 (imprinted with “ZA”)
 
-The 2 mcg capsule is an oval, orange-brown, soft gelatin capsule imprinted with the “a” logo and ZF, and is available in the following package size:
+Bottles of 30 – NDC 0074-4317-30 (imprinted with the “a” logo and “ZA”)
 
-Bottles of 30 (NDC 0074-4314-30)
+The 2 mcg capsule is an oval, orange-brown, soft gelatin capsule supplied and imprinted as follows:
+
+Bottles of 30 – NDC 0074-9037-30 (imprinted with “ZF”)
+
+Bottles of 30 – NDC 0074-4314-30 (imprinted with the “a” logo and “ZF”)
 
 Storage
 
