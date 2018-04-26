@@ -6,7 +6,7 @@ NDC 0049-4960-30
 
 Pfizer
 
-Zoloft ® (sertraline HCl) tablets
+Zoloft ® (sertraline hydrochloride) tablets
 
 25 mg*
 
@@ -20,7 +20,7 @@ NDC 0049-4900-30
 
 Pfizer
 
-Zoloft® (sertraline HCl) tablets
+Zoloft ® (sertraline hydrochloride) tablets
 
 50 mg*
 
@@ -48,7 +48,7 @@ NDC 0049-4900-41
 
 Pfizer
 
-Zoloft® (sertraline HCl) tablets
+Zoloft ® (sertraline hydrochloride) tablets
 
 50 mg *
 
@@ -64,7 +64,7 @@ NDC 0049-4910-30
 
 Pfizer
 
-Zoloft® (sertraline HCl) tablets
+Zoloft ® (sertraline hydrochloride) tablets
 
 100 mg*
 
@@ -92,7 +92,7 @@ NDC 0049-4910-41
 
 Pfizer
 
-Zoloft® (sertraline HCl) tablets
+Zoloft ® (sertraline hydrochloride) tablets
 
 100 mg *
 
