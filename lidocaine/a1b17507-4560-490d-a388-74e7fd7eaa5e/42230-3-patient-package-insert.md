@@ -123,7 +123,7 @@ Manufactured for: Scilex Pharmaceuticals Inc., San Diego, CA 92121 USA
 
 ZTlido™ is a trademark owned by Scilex Pharmaceuticals Inc. © 2018 Scilex Pharmaceuticals Inc. All rights reserved.
 
-For more information call [1-xxx-xxx-xxxx] or visit www.ZTLIDO.com.
+For more information call [1-844-SCILEX1] or visit www.ZTLIDO.com.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-Issued: February 2018
+Issued: April 2018

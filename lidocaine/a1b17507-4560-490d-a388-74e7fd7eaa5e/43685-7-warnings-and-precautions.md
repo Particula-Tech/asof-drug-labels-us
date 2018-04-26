@@ -15,25 +15,17 @@ Longer duration of application, application of more than the recommended number 
 If lidocaine overdose is suspected, check drug blood concentration.
 Management of overdose includes close monitoring, supportive care, and symptomatic treatment [see Overdosage (10)].
 
-Improper Application and Duration of Use:
-
-Application of more than the recommended number of ZTLIDO or applying ZTLIDO for longer than the recommended wearing time (12 hours of every 24 hours) could result in increased absorption and high blood concentrations of lidocaine, leading to adverse effects.
+Improper Application and Duration of Use: Application of more than the recommended number of ZTLIDO or applying ZTLIDO for longer than the recommended wearing time (12 hours of every 24 hours) could result in increased absorption and high blood concentrations of lidocaine, leading to adverse effects.
 Advise patients on proper application and duration [see Patient Counseling Information (17)].
 
-Hepatic Disease:
-
-Impaired elimination may contribute to increasing blood concentrations of lidocaine.
+Hepatic Disease: Impaired elimination may contribute to increasing blood concentrations of lidocaine.
 Patients with severe hepatic disease are at greater risk of developing toxic blood concentrations of lidocaine because of their inability to metabolize lidocaine normally.
 
-Use on Non-Intact Skin:
-
-Application to broken or inflamed skin, although not tested, may result in higher blood concentrations of lidocaine from increased absorption.
+Use on Non-Intact Skin: Application to broken or inflamed skin, although not tested, may result in higher blood concentrations of lidocaine from increased absorption.
 ZTLIDO is only recommended for use on intact skin.
 Advise patients not to apply ZTLIDO to non-intact skin [see Patient Counseling Information (17)].
 
-External Heat Sources:
-
-External heat sources may increase drug exposure, leading to overexposure to lidocaine.
+External Heat Sources: External heat sources may increase drug exposure, leading to overexposure to lidocaine.
 Advise patients not to apply external heat sources to ZTLIDO during administration [seeClinical Pharmacology (12.3), Patient Counseling Information (17)].
 
 ## 5.3 Application Site Reactions

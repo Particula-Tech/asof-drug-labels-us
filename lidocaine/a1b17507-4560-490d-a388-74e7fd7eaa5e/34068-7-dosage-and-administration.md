@@ -2,8 +2,8 @@
 
 ## 2.1 Important Dosage and Administration Instructions
 
-Because of the difference in bioavailability of ZTLIDO compared to Lidoderm® (lidocaine patch 5%), a different dosage strength is required to be administered to the patient.
-One ZTLIDO (lidocaine topical system) 1.8% provides equivalent lidocaine exposure to one Lidoderm® (lidocaine patch 5%) [see Clinical Pharmacology (12.3)].
+Because of the difference in bioavailability of ZTLIDO compared to Lidoderm (lidocaine patch 5%), a different dosage strength is required to be administered to the patient.
+One ZTLIDO (lidocaine topical system) 1.8% provides equivalent lidocaine exposure to one Lidoderm (lidocaine patch 5%) [see Clinical Pharmacology (12.3)].
 
 When ZTLIDO is used concomitantly with other products containing local anesthetic agents, the total amount of drug absorbed from all formulations must be considered.
 

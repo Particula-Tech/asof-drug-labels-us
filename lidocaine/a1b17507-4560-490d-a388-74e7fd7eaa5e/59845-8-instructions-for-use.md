@@ -1,6 +1,6 @@
 Instructions for Use ZTLIDO™ (ZEE-TEE-LIE-DOH) (lidocaine topical system)
 
-Read this Instructions for Use before you start using the ZTLIDO and each time you get a refill.
+Read this Instructions for Use before you start using ZTLIDO and each time you get a refill.
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your medical treatment or condition.
 
@@ -16,7 +16,7 @@ Important information:
 - Avoid contact with water, such as bathing, swimming or showering while using ZTLIDO.
   ZTLIDO may not stick if it gets wet.
 - ZTLIDO topical systems that have lifted at edges may be re-attached by pressing firmly on the edges.
-  If a your ZTLIDO comes off completely and will not stick to your skin, it should be thrown away (see Step 6).
+  If your ZTLIDO comes off completely and will not stick to your skin, it should be thrown away (see Step 6).
   If your ZTLIDO topical system comes off completely, you may put on a new ZTLIDO topical system for a total duration of 12 hours for used and new topical systems together.
 
 Figure A: ZTLIDO Topical System
@@ -29,7 +29,7 @@ Figure A: ZTLIDO Topical System
 
 Removing your ZTLIDO topical system:
 
-| Step 5: Remove ZTLIDO from you skin after you have worn it for up to 12 hours. Fold the used ZTLIDO so that the sticky sides stick together. |  |
+| Step 5: Remove ZTLIDO from your skin after you have worn it for up to 12 hours. Fold the used ZTLIDO so that the sticky sides stick together. |  |
 | --- | --- |
 | Step 6: Throw away the used whole or cut pieces of ZTLIDO where children and pets cannot get to them. Wash your hands right away after removing ZTLIDO. |  |
 
@@ -44,4 +44,4 @@ Manufactured for: Scilex Pharmaceuticals Inc. San Diego, CA 92121 USA
 
 ZTLIDO™ is a trademark owned by Scilex Pharmaceuticals Inc. © 2018 Scilex Pharmaceuticals Inc. All rights reserved.
 
-Issued: February 2018
+Issued: April 2018

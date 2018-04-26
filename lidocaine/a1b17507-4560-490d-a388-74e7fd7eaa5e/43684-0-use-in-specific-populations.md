@@ -40,9 +40,9 @@ Risk Summary
 
 Lidocaine is excreted into human milk.
 When lidocaine was used as an epidural anesthetic for cesarean section in 27 women, a milk:plasma ratio of 1.07 was observed using AUC values.
-Lactating women undergoing a dental procedure had an 0.4 milk:plasma ratio.
+Lactating women undergoing a dental procedure had a 0.4 milk:plasma ratio.
 In another dental procedure study, a single patient was administered 20 mg of lidocaine and the milk:plasma ratio was reported as 1.1 at five to six hours after injection.
-These data and the low concentrations of lidocaine in the plasma after topical administration of ZTLIDO in recommended doses, suggest that a small amount of lidocaine would be ingested orally by a suckling infant.
+These data, and the low concentrations of lidocaine in the plasma after topical administration of ZTLIDO in recommended doses, suggest that a small amount of lidocaine would be ingested orally by a suckling infant.
 However, caution should be exercised when ZTLIDO is administered to a nursing mother, especially when administered with other local anesthetics.
 
 ## 8.4 Pediatric Use

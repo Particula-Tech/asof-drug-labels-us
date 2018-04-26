@@ -11,8 +11,8 @@ The penetration of lidocaine into intact skin after application of ZTLIDO is suf
 
 ## 12.3 Pharmacokinetics
 
-ZTLIDO has different bioavailability compared to Lidoderm®.
-In a single-dose, crossover study conducted in 53 healthy volunteers, ZTLIDO (lidocaine topical system) 1.8% demonstrated equivalent exposure (AUC) and peak concentration (Cmax) of lidocaine to Lidoderm® (lidocaine patch 5%).
+ZTLIDO has different bioavailability compared to Lidoderm.
+In a single-dose, crossover study conducted in 53 healthy volunteers, ZTLIDO (lidocaine topical system) 1.8% demonstrated equivalent exposure (AUC) and peak concentration (C max) of lidocaine to Lidoderm (lidocaine patch 5%).
 
 Absorption
 
@@ -30,18 +30,18 @@ Table 1
 
 *median (min, max)
 
-Repeated application of three Lidoderm® patches simultaneously for 12 hours (recommended maximum daily dose), once per day for three days, indicated that the lidocaine concentration does not increase with daily use.
+Repeated application of three Lidoderm patches simultaneously for 12 hours (recommended maximum daily dose), once per day for three days, indicated that the lidocaine concentration does not increase with daily use.
 The mean plasma pharmacokinetic profile for the 15 healthy volunteers is shown in Figure 1.
 
 Figure 1
 
 Mean lidocaine blood concentrations after three consecutive daily applications of three Lidoderm patches simultaneously for 12 hours per day in healthy volunteers (n = 15).
 
-The pharmacokinetics of ZTLIDO (n=3 topical systems) was assessed in 12 healthy volunteers with exposure to external heat source (heating pad at medium setting applied for 20 minutes at Time 0 and 8.5 hours) or undergoing moderate exercise (cycling for 30 minutes at a heart rate of 108 bpm at Time 0, 2.5, 5.5 and 8.5 hours) and compared to pharmacokinetics of ZTLIDO at rest.
+The pharmacokinetics of ZTLIDO (n = 3 topical systems) was assessed in 12 healthy volunteers with exposure to external heat source (heating pad at medium setting applied for 20 minutes at Time 0 and 8.5 hours) or undergoing moderate exercise (cycling for 30 minutes at a heart rate of 108 bpm at Time 0, 2.5, 5.5 and 8.5 hours) and compared to pharmacokinetics of ZTLIDO at rest.
 Exposure to external heat at 0 and 8.5 hours results in increased peak plasma levels of lidocaine with a mean (SD) of 160.3 ± 100.1 ng/mL versus the peak plasma levels observed at rest with a mean (SD) of 97.6 ± 36.9 ng/mL.
 For this reason, instruct patients not to apply heating pads directly to ZTLIDO.
 Concentrations returned to normal within 4 hours after the heat was removed.
-No clinically relevant differences in systemic absorption were observed under exercise conditions with a mean (SD) peak plasma concentrations of 90.5 ± 25.4 ng/mL.
+No clinically relevant differences in systemic absorption were observed under exercise conditions with a mean (SD) peak plasma concentration of 90.5 ± 25.4 ng/mL.
 
 A separate study in 12 healthy volunteers showed that there was no effect on ZTLIDO pharmacokinetics when the topical system is applied to the administration site after external heat exposure (heating pad at medium setting applied for 15 minutes prior to the topical system application) or after engagement in exercise (walking at a moderate pace on a treadmill for approximately 20 minutes beginning approximately 30 minutes prior to the topical system application).
 

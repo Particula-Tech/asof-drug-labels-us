@@ -15,7 +15,7 @@ Advise patients:
 - not to apply more than the prescribed number (up to 3 ZTLIDO) [see Dosage and Administration (2.2), Warnings and Precautions (5.2)].
 - not to wear ZTLIDO longer than the recommended wearing time (12 hours of every 24 hours) [see Dosage and Administration, Warnings and Precautions (5.2)].
 - not to apply ZTLIDO to non-intact skin [see Warnings and Precautions (5.2)].
-- to reattach by pressing firmly on the edges, ZTLIDO that are lifting at the edges.
+- to reattach by pressing firmly on the edges of ZTLIDO that are lifting.
   If a ZTLIDO topical system comes off completely and will not stick to patient’s skin, it should be thrown away and a new ZTLIDO topical system should be applied for a total duration of 12 hours of used and new topical system together [see Dosage and Administration (2.1)].
 
 Eye Exposure
