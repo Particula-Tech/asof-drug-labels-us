@@ -1,8 +1,6 @@
-PATIENT INFORMATION TELMISARTAN TABLETS, USP
+# Patient Information
 
-(tel″ mi sar′ tan)
-
-20 mg, 40 mg and 80 mg
+Telmisartan Tablets, USP (tel″ mi sar′ tan)
 
 Read this Patient Information before you start taking telmisartan tablets and each time you get a refill.
 There may be new information.
@@ -32,10 +30,6 @@ What should I tell my doctor before taking telmisartan tablets?
 
 Before you take telmisartan tablets, tell your doctor if you:
 
-- •have liver problems
-- •have kidney problems
-- •have heart problems
-- •have any other medical conditions
 - •are pregnant or are planning to become pregnant.
   See “What is the most important information I should know about telmisartan tablets?”
 - •are breast-feeding or plan to breast-feed.
@@ -43,6 +37,10 @@ Before you take telmisartan tablets, tell your doctor if you:
   You and your doctor should decide if you will take telmisartan tablets or breast-feed.
   You should not do both.
   Talk with your doctor about the best way to feed your baby if you take telmisartan tablets.
+- •have liver problems
+- •have kidney problems
+- •have heart problems
+- •have any other medical conditions
 
 Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 
@@ -52,10 +50,10 @@ Telmisartan tablets may affect the way other medicines work, and other medicines
 Especially tell your doctor if you take:
 
 - •aliskiren
-- •digoxin (Lanoxin®, Lanoxicaps®)
-- •lithium (Eskalith®, Lithobid®)
-- •medicines used to treat pain and arthritis, called non-steroidal anti-inflammatory drugs (NSAIDs), including COX-2 inhibitors
-- •ramipril (Altace®) or other medicines used to treat your high blood pressure or heart problem
+- •digoxin (Lanoxin®)
+- •lithium (Lithobid®, lithium carbonate, lithium citrate)
+- •aspirin or other non-steroidal anti-inflammatory drugs (NSAIDs)
+- •other medicines used to treat your high blood pressure or heart problem
 - •water pills (diuretic)
 
 Know the medicines you take.
@@ -63,15 +61,15 @@ Keep a list of them and show it to your doctor or pharmacist when you get a new 
 
 How should I take telmisartan tablets?
 
-- •Take telmisartan tablets exactly as your doctor tells you to take it.
-- •Your doctor will tell you how much telmisartan to take and when to take it.
+- •Take telmisartan tablets exactly as your doctor tells you to take them.
+- •Your doctor will tell you how many telmisartan tablets to take and when to take them.
 - •Do not change your dose unless your doctor tells you to.
 - •Take telmisartan tablets one time each day at the same time.
 - •Take telmisartan tablets with or without food.
 - •If you miss a dose, take it as soon as you remember.
   If it is close to your next dose, do not take the missed dose.
   Take the next dose at your regular time.
-- •If you take too much telmisartan, call your doctor, or go to the nearest hospital emergency room right away.
+- •If you take too many telmisartan tablets, call your doctor, or go to the nearest hospital emergency room right away.
 
 What are the possible side effects of telmisartan tablets?
 
@@ -116,7 +114,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store telmisartan tablets?
 
-- •Store telmisartan tablets at 20° to 25°C (68° to 77°F).
+- •Store telmisartan tablets at room temperature 20° to 25°C (68° to 77°F).
 - •Do not remove telmisartan tablets from bottles until right before you take them.
 
 Keep telmisartan tablets and all medicines out of the reach of children.
@@ -124,19 +122,19 @@ Keep telmisartan tablets and all medicines out of the reach of children.
 General information about telmisartan tablets
 
 Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
-Do not use telmisartan for a condition for which it was not prescribed.
-Do not give telmisartan to other people, even if they have the same condition you have.
-It may harm them.
+Do not use telmisartan tablets for a condition for which they were not prescribed.
+Do not give telmisartan tablets to other people, even if they have the same condition you have.
+They may harm them.
 
 This Patient Information leaflet summarizes the most important information about telmisartan tablets.
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about telmisartan tablets that is written for health professionals.
 
-For more information, call Mylan Pharmaceuticals Inc. at 1-877-446-3679 (1-877-4-INFO-RX).
+For more information, call Mylan at 1-877-446-3679 (1-877-4-INFO-RX).
 
 What are the ingredients in telmisartan tablets?
 
-Active Ingredient: telmisartan, USP
+Active Ingredient: telmisartan
 
 Inactive Ingredients: magnesium stearate, mannitol, meglumine, povidone and sodium hydroxide
 
@@ -150,12 +148,14 @@ Medicines that lower your blood pressure lower your chance of having a stroke or
 High blood pressure makes the heart work harder to pump blood throughout the body and causes damage to the blood vessels.
 If high blood pressure is not treated, it can lead to stroke, heart attack, heart failure, kidney failure, and vision problems.
 
+This Patient Information has been approved by the U.S. Food and Drug Administration
+
 The brands listed are trademarks of their respective owners.
 
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Manufactured in India by: Mylan Laboratories Limited Hyderabad — 500 034, India Code No.: MH/DRUGS/25/NKD/89
+Manufactured by: Mylan Laboratories Limited Hyderabad — 500 096, India
 
-75057937
+75064479
 
-REVISED NOVEMBER 2015 MX:TLMS:R4p
+Revised: 3/2018 MX:TLMS:R5p/MX:PL:TLMS:R3p
