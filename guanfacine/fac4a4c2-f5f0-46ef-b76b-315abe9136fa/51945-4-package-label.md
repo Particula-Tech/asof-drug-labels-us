@@ -6,7 +6,7 @@ Rx Only
 
 100 Tablets
 
-# PRINCIPAL DISPLAY PANEL – 2 mg
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 2 mg
 
 Guanfacine Tablets USP, 2 mg
 
