@@ -169,7 +169,7 @@ Complicated Skin and Skin Structure Infection Trial in Pediatric Patients
 The safety of CUBICIN was evaluated in one clinical trial (in cSSSI), which included 256 pediatric patients (1 to 17 years of age) treated with intravenous CUBICIN and 133 patients treated with comparator agents.
 Patients were given age-dependent doses once daily for a treatment period of up to 14 days (median treatment period was 3 days).
 The doses given by age group were as follows: 10mg/kg for 1 to < 2 years, 9 mg/kg for 2 to 6 years, 7mg/kg for 7 to 11 years and 5 mg/kg for 12 to 17 years of age [see Clinical Studies (14)].
-Patients treated with CUBICIN were (51%) male, (49%) female and (46 %) Caucasian and (32 %) Asian.
+Patients treated with CUBICIN were (51%) male, (49%) female and (46%) Caucasian and (32%) Asian.
 
 Adverse Reactions Leading to Discontinuation
 
@@ -231,13 +231,15 @@ Table 10: Incidence of Adverse Reactions that Occurred in ≥5% of Pediatric Pat
 The following adverse reactions have been identified during post-approval use of CUBICIN.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Blood and lymphatic system disorders: anemia
+Blood and lymphatic system disorders: anemia, thrombocytopenia
 
 General and administration site conditions: pyrexia
 
 Immune System Disorders: anaphylaxis; hypersensitivity reactions, including angioedema, drug rash with eosinophilia and systemic symptoms (DRESS), pruritus, hives, shortness of breath, difficulty swallowing, truncal erythema, and pulmonary eosinophilia [see Contraindications (4), Warnings and Precautions (5.1)]
 
 Infections and Infestations: Clostridium difficile–associated diarrhea [see Warnings and Precautions (5.6)]
+
+Investigations: platelet count decreased
 
 Musculoskeletal Disorders: myoglobin increased; rhabdomyolysis (some reports involved patients treated concurrently with CUBICIN and HMG-CoA reductase inhibitors) [see Warnings and Precautions (5.2), Drug Interactions (7.1), and Clinical Pharmacology (12.3)]
 

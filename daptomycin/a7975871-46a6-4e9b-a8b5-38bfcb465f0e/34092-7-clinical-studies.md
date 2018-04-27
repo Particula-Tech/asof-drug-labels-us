@@ -4,12 +4,12 @@
 
 Adults with cSSSI
 
-Adult patients with clinically documented complicated skin and skin structure infections (cSSSI) (Table 17) were enrolled in two randomized, multinational, multicenter, investigator-blinded trials comparing CUBICIN (4 mg/kg IV q24h) with either vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 4 to 12 g IV per day).
+Adult patients with clinically documented complicated skin and skin structure infections (cSSSI) (Table 15) were enrolled in two randomized, multinational, multicenter, investigator-blinded trials comparing CUBICIN (4 mg/kg IV q24h) with either vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 4 to 12 g IV per day).
 Patients could switch to oral therapy after a minimum of 4 days of IV treatment if clinical improvement was demonstrated.
 Patients known to have bacteremia at baseline were excluded.
 Patients with creatinine clearance (CLCR) between 30 and 70 mL/min were to receive a lower dose of CUBICIN as specified in the protocol; however, the majority of patients in this subpopulation did not have the dose of CUBICIN adjusted.
 
-Table 17: Investigator's Primary Diagnosis in the cSSSI Trials in Adult Patients (Population: ITT)
+Table 15: Investigator's Primary Diagnosis in the cSSSI Trials in Adult Patients (Population: ITT)
 
 | Study 9801 N=264 / N=266 | Study 9901 N=270 / N=292 | Pooled N=534 / N=558 |  |
 | --- | --- | --- | --- |
@@ -30,9 +30,9 @@ Clinical success rates in the CE population were 76.0% (158/208) in patients tre
 In study 9901, clinical success rates in the ITT population were 80.4% (217/270) in patients treated with CUBICIN and 80.5% (235/292) in patients treated with comparator drugs.
 Clinical success rates in the CE population were 89.9% (214/238) in patients treated with CUBICIN and 90.4% (226/250) in patients treated with comparator drugs.
 
-The success rates by pathogen for microbiologically evaluable patients are presented in Table 18.
+The success rates by pathogen for microbiologically evaluable patients are presented in Table 16.
 
-Table 18: Clinical Success Rates by Infecting Pathogen in the cSSSI Trials in Adult Patients (Population: Microbiologically Evaluable)
+Table 16: Clinical Success Rates by Infecting Pathogen in the cSSSI Trials in Adult Patients (Population: Microbiologically Evaluable)
 
 | CUBICIN | ComparatorComparator: vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 4 to 12 g/day IV in divided doses). |  |
 | --- | --- | --- |
@@ -66,7 +66,7 @@ The clinical success rates determined at 7–14 days after last dose of therapy 
 
 ## 14.2 S. aureus Bacteremia/Endocarditis
 
-Adults with S.aureus Bacteremia/Endocarditis
+Adults with S. aureus Bacteremia/Endocarditis
 
 The efficacy of CUBICIN in the treatment of adult patients with S. aureus bacteremia was demonstrated in a randomized, controlled, multinational, multicenter, open-label trial.
 In this trial, adult patients with at least one positive blood culture for S. aureus obtained within 2 calendar days prior to the first dose of study drug and irrespective of source were enrolled and randomized to either CUBICIN (6 mg/kg IV q24h) or standard of care [an anti-staphylococcal semi-synthetic penicillin 2 g IV q4h (nafcillin, oxacillin, cloxacillin, or flucloxacillin) or vancomycin 1 g IV q12h, each with initial gentamicin 1 mg/kg IV every 8 hours for first 4 days].
@@ -103,9 +103,9 @@ The coprimary efficacy endpoints in the trial were the Adjudication Committee su
 The overall Adjudication Committee success rates in the ITT population were 44.2% (53/120) in patients treated with CUBICIN and 41.7% (48/115) in patients treated with comparator (difference = 2.4% [95% CI −10.2, 15.1]).
 The success rates in the PP population were 54.4% (43/79) in patients treated with CUBICIN and 53.3% (32/60) in patients treated with comparator (difference = 1.1% [95% CI −15.6, 17.8]).
 
-Adjudication Committee success rates are shown in Table 19.
+Adjudication Committee success rates are shown in Table 17.
 
-Table 19: Adjudication Committee Success Rates at Test of Cure in the S. aureus Bacteremia/Endocarditis Trial in Adult Patients (Population: ITT)
+Table 17: Adjudication Committee Success Rates at Test of Cure in the S. aureus Bacteremia/Endocarditis Trial in Adult Patients (Population: ITT)
 
 | CUBICIN 6 mg/kg | ComparatorComparator: vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 2 g IV q4h), each with initial low-dose gentamicin. |  |  |
 | --- | --- | --- | --- |
@@ -114,7 +114,7 @@ Table 19: Adjudication Committee Success Rates at Test of Cure in the S. aureus 
 | Baseline Pathogen |  |  |  |
 | Methicillin-susceptible S. aureus | 33/74 (45%) | 34/70 (49%) | −4.0% (−22.6, 14.6)97.5% Confidence Interval (adjusted for multiplicity) |
 | Methicillin-resistant S. aureus | 20/45 (44%) | 14/44 (32%) | 12.6% (−10.2, 35.5) |
-| Entry DiagnosisAccording to the modified Duke criteria8 |  |  |  |
+| Entry DiagnosisAccording to the modified Duke criteria5 |  |  |  |
 | Definite or Possible Infective Endocarditis | 41/90 (46%) | 37/91 (41%) | 4.9% (−11.6, 21.4) |
 | Not Infective Endocarditis | 12/30 (40%) | 11/24 (46%) | −5.8% (−36.2, 24.5) |
 | Final Diagnosis |  |  |  |
@@ -136,7 +136,7 @@ Failure of treatment due to persisting or relapsing S. aureus infections was ass
 Among all failures, isolates from 6 CUBICIN-treated patients and 1 vancomycin-treated patient developed increasing MICs (reduced susceptibility) by central laboratory testing during or following therapy.
 Most patients who failed due to persisting or relapsing S. aureus infection had deep-seated infection and did not receive necessary surgical intervention [see Warnings and Precautions (5.7)].
 
-Pediatric Patients (1 to 17 Years of Age) with S.aureus Bacteremia
+Pediatric Patients (1 to 17 Years of Age) with S. aureus Bacteremia
 
 The pediatric S. aureus bacteremia study was designed as a prospective multi-center, randomized, comparative trial to treat pediatric patients aged 1 to 17 years with bacteremia.
 Patients known to have endocarditis or pneumonia at baseline were excluded.
