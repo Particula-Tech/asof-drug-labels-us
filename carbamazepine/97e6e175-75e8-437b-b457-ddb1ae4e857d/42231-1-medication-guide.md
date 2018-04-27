@@ -38,6 +38,17 @@ Symptoms may include:
 - bleeding gums or nose bleeds
 - severe fatigue or weakness
 
+Call your healthcare provider right away if you have any of the following:
+
+- swelling of your face, eyes, lips, or tongue
+- a skin rash
+- painful sores in the mouth or around your eyes
+- unusual bruising or bleeding
+- frequent infections or infections that do not go away
+- fever, swollen glands, or sore throat that do not go away or come and go
+- trouble swallowing or breathing
+- hives
+
 3.
 Like other antiepileptic drugs, carbamazepine tablets or chewable tablets may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
 
@@ -204,7 +215,7 @@ This Medication Guide summarizes the most important information about carbamazep
 If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for the full prescribing information about carbamazepine tablets or chewable tablets that is written for health professionals.
 
-For more information, call 1-269-544-2299.
+For more information, call Torrent Pharma Inc. at 1- 800-912-9561.
 
 What are the ingredients in carbamazepine tablets or chewable tablets?
 
@@ -225,20 +236,14 @@ Manufactured by:
 TORRENT PHARMACEUTICALS LTD., Indrad-382 721, Dist.
 Mehsana, INDIA.
 
-For:
-
-TORRENT PHARMA INC., 150 Allen Road, Suite 102, Basking Ridge, NJ 07920.
-
-8051524 Revised October 2014
-
 OR
 
 Manufactured by:
 
-TORRENT PHARMACEUTICALS LTD., Bharuch-392130, INDIA.
+TORRENT PHARMACEUTICALS LTD., Bharuch-392 130, INDIA.
 
 For:
 
 TORRENT PHARMA INC., 150 Allen Road, Suite 102, Basking Ridge, NJ 07920.
 
-8057121 Revised August 2015
+8068523 Revised April 2018
