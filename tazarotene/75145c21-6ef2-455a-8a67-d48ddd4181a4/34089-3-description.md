@@ -1,17 +1,13 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
-TAZORAC® Gel is a translucent, aqueous gel and contains the compound tazarotene, a member of the acetylenic class of retinoids.
-It is for topical dermatologic use only.
-The active ingredient is represented by the following structural formula:
+TAZORAC (tazarotene) Gel, 0.05% and 0.1% is for topical use and contains the active ingredient, tazarotene.
+Each gram of TAZORAC Gel, 0.05% and 0.1% contains 0.5 and 1 mg of tazarotene, respectively in a translucent, aqueous gel.
 
-Formula: C21H21NO2S Molecular Weight: 351.46
+Tazarotene is a member of the acetylenic class of retinoids.
+Chemically, tazarotene is ethyl 6-[(4,4-dimethylthiochroman-6-yl)ethynyl]nicotinate.
+The compound has an empirical formula of C21H21NO2S and molecular weight of 351.46.
+The structural formula is shown below:
 
-Chemical Name: Ethyl 6-[(4,4-dimethylthiochroman-6-yl)ethynyl]nicotinate
+TAZORAC Gel contains the following inactive ingredients:
 
-Contains:
-
-Active: Tazarotene 0.05% or 0.1% (w/w)
-
-Preservative: Benzyl alcohol 1% (w/w)
-
-Inactives: Ascorbic acid; butylated hydroxyanisole; butylated hydroxytoluene; carbomer homopolymer type B; edetate disodium; hexylene glycol; poloxamer 407; polyethylene glycol 400; polysorbate 40; purified water; and tromethamine.
+benzyl alcohol 1%;ascorbic acid; butylated hydroxyanisole; butylated hydroxytoluene; carbomer homopolymer type B; edetate disodium; hexylene glycol; poloxamer 407; polyethylene glycol 400; polysorbate 40; purified water; and tromethamine.

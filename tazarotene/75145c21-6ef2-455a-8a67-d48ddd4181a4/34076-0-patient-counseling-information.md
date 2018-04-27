@@ -1,0 +1,56 @@
+# 17 PATIENT COUNSELING INFORMATION
+
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
+
+Embryofetal Toxicity
+
+Inform females of reproductive potential of the potential risk to a fetus.
+Advise these patients to use effective contraception during treatment with TAZORAC Gel.
+Advise patients to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions (5.1) and Use in Specific Populations (8.1, 8.3)].
+
+Photosensitivity and Risk of Sunburn
+
+Advise patients to avoid excessive sun exposure and to use of sunscreens and protective measures (hat, visor).
+Advise patients to avoid using TAZORAC Gel if also taking other medicines may increase sensitivity to sunlight.
+
+Important Administration Instructions
+
+Advise the patient of the following:
+
+1.
+For the patient with psoriasis, apply TAZORAC Gel only to psoriasis skin lesions, avoiding uninvolved skin.
+
+2.
+If undue irritation (redness, peeling, or discomfort) occurs, reduce frequency of application or temporarily interrupt treatment.
+Treatment may be resumed once irritation subsides [see Dosage and Adminstration (2.1)].
+
+3.
+Moisturizers may be used as frequently as desired.
+
+4.
+Patients with psoriasis may use a cream or lotion to soften or moisten skin at least 1 hour before applying TAZORAC Gel.
+
+5.
+Avoid contact with the eyes.
+If TAZORAC Gel gets in or near eyes, rinse thoroughly with water.
+Seek medical attention if eye irritation continues.
+
+6.
+TAZORAC Gel is for topical use only.
+Do not apply to eyes, mouth, or other mucous membrane.
+Not for ophthalmic, oral, or intravaginal use.
+
+7.
+Wash hands thoroughly after applying TAZORAC Gel.
+
+Revised: 04/2018
+
+Distributed by: Allergan USA, Inc. Madison, NJ 07940
+
+© 2018 Allergan.
+All rights reserved.
+All trademarks are the property of their respective owners.
+
+71722US17
+
+Pharmacist: Please cut or tear at dotted line and provide this patient package insert to your customer.
