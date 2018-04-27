@@ -42,7 +42,7 @@ LEVOPHED should be used with extreme caution in patients receiving monoamine oxi
 
 Studies have not been performed.
 
-## Pregnancy Category C:
+## Pregnancy:
 
 Animal reproduction studies have not been conducted with LEVOPHED.
 It is also not known whether LEVOPHED can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.
