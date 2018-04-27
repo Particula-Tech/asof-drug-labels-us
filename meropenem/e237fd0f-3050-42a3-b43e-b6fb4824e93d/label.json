@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA209776"
+  ],
+  "inn": "meropenem",
+  "labeler": "Melinta Therapeutics, Inc.",
+  "package_ndcs": [
+    "70842-120-01",
+    "70842-120-06"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, FOR SOLUTION",
+      "generic": "meropenem-vaborbactam",
+      "name": "VABOMERE"
+    }
+  ],
+  "setid": "e237fd0f-3050-42a3-b43e-b6fb4824e93d",
+  "source": "dailymed"
+}
