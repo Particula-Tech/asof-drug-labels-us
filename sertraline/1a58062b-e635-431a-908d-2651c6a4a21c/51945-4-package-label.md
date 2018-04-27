@@ -139,3 +139,41 @@ ORAL CONCENTRATE CALIBRATED DROPPER ENCLOSED
 equivalent to 20 mg/mL* of sertraline
 
 Rx only
+
+# PRINCIPAL DISPLAY PANEL - 60 mL Bottle Label - NDC 59762-0067-1
+
+ALWAYS DISPENSE WITH MEDICATION GUIDE
+
+NDC 59762-0067-1
+
+GREENSTONE® BRAND
+
+60 mL
+
+sertraline hydrochloride ORAL SOLUTION
+
+equivalent to 20 mg/mL* of sertraline
+
+Must Be Diluted Before Use (see side panel for instructions)
+
+Rx only
+
+# PRINCIPAL DISPLAY PANEL - 60 mL Bottle Carton - NDC 59762-0067-1
+
+ALWAYS DISPENSE WITH MEDICATION GUIDE
+
+NDC 59762-0067-1
+
+GREENSTONE® BRAND
+
+New Label, Same Product.
+
+60 mL
+
+sertraline hydrochloride ORAL SOLUTION CALIBRATED DROPPER ENCLOSED
+
+equivalent to 20 mg/mL* of sertraline
+
+Must Be Diluted Before Use (see side panel for instructions)
+
+Distributed by: Greenstone LLC Peapack, NJ 07977
