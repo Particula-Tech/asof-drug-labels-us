@@ -20,20 +20,18 @@ When a container is required to have a sterile outside, a Sterile-Pak should be 
 Glass containers may, as an alternative, be autoclaved once.
 Stability has been demonstrated using a targeted F0 of 7 minutes at 121°C.
 Solutions should be stored at 20º to 25°C (68º to 77°F) [see USP Controlled Room Temperature].
-This container closure is not made with natural rubber latex.
-These products are intended for single use and are free from preservatives.
+The container closure is not made with natural rubber latex.
+These products are intended for single dose and are free from preservatives.
 Any solution remaining from an opened container should be discarded promptly.
 In addition, continuous infusion bottles should not be left in place for more than 24 hours.
 NAROPIN is a trademark of Fresenius Kabi USA, LLC.
 
-N+ and NOVAPLUS are registered trademarks of Novation, LLC.
+NOVAPLUS is a registered trademark of Vizient, Inc.
 
 Manufactured by:
 
-Fresenius Kabi USA, LLC
+Fresenius Kabi Lake Zurich, IL 60047 www.fresenius-kabi.us
 
-Lake Zurich, IL 60047
+451113E
 
-451113D
-
-Revised: December 2012
+Revised: June 2017

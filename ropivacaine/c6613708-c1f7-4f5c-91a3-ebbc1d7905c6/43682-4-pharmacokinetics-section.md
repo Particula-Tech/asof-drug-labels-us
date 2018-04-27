@@ -3,7 +3,6 @@
 ## Absorption
 
 The systemic concentration of ropivacaine is dependent on the total dose and concentration of drug administered, the route of administration, the patient's hemodynamic/circulatory condition, and the vascularity of the administration site.
-
 From the epidural space, ropivacaine shows complete and biphasic absorption.
 The half-lives of the 2 phases, (mean ± SD) are 14 ± 7 minutes and 4.2 ± 0.9 h, respectively.
 The slow absorption is the rate limiting factor in the elimination of ropivacaine that explains why the terminal half-life is longer after epidural than after intravenous administration.
