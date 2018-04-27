@@ -1,21 +1,21 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labelling (Medication Guide).
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-Additional patient information leaflets can be obtained by calling Unichem at 1-866-562-4616.
+Additional Medication Guides can be obtained by calling Unichem at 1-866-562-4616
 
 Eye Disorders
 
-Instruct patients taking topiramate to seek immediate medical attention if they experience blurred vision, visual disturbances or periorbital pain [see Warnings and Precautions (5.1), (5.2)].
+Instruct patients taking topiramate to seek immediate medical attention if they experience blurred vision, visual disturbances, or periorbital pain [see Warnings and Precautions (5.1, 5.2)].
 
-Oligohydrosis and Hyperthermia
+Oligohidrosis and Hyperthermia
 
 Closely monitor topiramate-treated patients, especially pediatric patients, for evidence of decreased sweating and increased body temperature, especially in hot weather.
 Counsel patients to contact their healthcare professionals immediately if they develop a high or persistent fever, or decreased sweating [see Warnings and Precautions (5.3)].
 
 Metabolic Acidosis
 
-Warn patients about the potential significant risk for metabolic acidosis that may be asymptomatic and may be associated with adverse effects on kidneys (e.g., kidney stones, nephrocalcinosis), bones (e.g., osteoporosis, osteomalacia, and/or rickets in children), and growth (e.g., growth delay/retardation) in pediatric patients, and on the fetus [see Warnings and Precautions (5.4) and Use in Specific Populations (8.1)].
+Warn patients about the potential significant risk for metabolic acidosis that may e asymptomatic and may be associated with adverse effects on kidneys (e.g., kidney stones, nephrocalcinosis), bones (e.g., osteoporosis, osteomalacia, and/or rickets in children), and growth (e.g., growth delay/retardation) in pediatric patients, and on the fetus [see Warnings and Precautions (5.4), Use in Specific Populations (8.1)].
 
 Suicidal Behavior and Ideation
 
@@ -33,28 +33,27 @@ Discuss the appropriate level of caution with patients, before patients with epi
 Fetal Toxicity
 
 Inform pregnant women and women of childbearing potential that use of topiramate during pregnancy can cause fetal harm, including an increased risk for cleft lip and/or cleft palate (oral clefts), which occur early in pregnancy before many women know they are pregnant.
-There may also be risks to the fetus from chronic metabolic acidosis with use of topiramate during pregnancy [see Warnings and Precautions (5.7) and Use in Specific Populations (8.1), (8.9)].
+Also inform patients that infants exposed to topiramate monotherapy in utero may be small for their gestational age [see Use in Specific Populations (8.1)].
+There may also be risks to the fetus from chronic metabolic acidosis with use of topiramate during pregnancy [see Warnings and Precautions (5.7), Use in Specific Populations (8.1, 8.8)].
 When appropriate, counsel pregnant women and women of childbearing potential about alternative therapeutic options.
 This is particularly important when topiramate use is considered for a condition not usually associated with permanent injury or death.
 
 Advise women of childbearing potential who are not planning a pregnancy to use effective contraception while using topiramate, keeping in mind that there is a potential for decreased contraceptive efficacy when using estrogen-containing birth control with topiramate [see Drug Interactions (7.3)].
 
 Encourage pregnant women using topiramate, to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
-The registry is collecting information about the safety of antiepileptic drugs during pregnancy.
-To enroll, patients can call the toll-free number, 1-888-233-2334.
-Information about the North American Drug Pregnancy Registry can be found at http://www.massgeneral.org/aed/ [see Use in Specific Populations (8.1)].
+The registry is collecting information about the safety of antiepileptic drugs during pregnancy [see Use in Specific Populations (8.1)].
 
 Hyperammonemia and Encephalopathy
 
 Warn patients about the possible development of hyperammonemia with or without encephalopathy.
-Although hyperammonemia may be asymptomatic, clinical symptoms of hyperammonemic encephalopathy often include acute alterations in level of consciousness and/or cognitive function with lethargy or vomiting.
+Although hyperammonemia may be asymptomatic, clinical symptoms of hyperammonemic encephalopathy often include acute alterations in level of consciousness and/or cognitive function with lethargy and/or vomiting.
 This hyperammonemia and encephalopathy can develop with topiramate treatment alone or with topiramate treatment with concomitant valproic acid (VPA).
 
-Instruct patients to contact their physician if they develop unexplained lethargy, vomiting, or changes in mental status [see Warnings and Precautions (5.10)].
+Instruct patients to contact their physician if they develop unexplained lethargy, vomiting, or changes in mental status [see Warnings and Precautions (5.9)].
 
 Kidney Stones
 
-Instruct patients, particularly those with predisposing factors, to maintain an adequate fluid intake in order to minimize the risk of kidney stone formation [see Warnings and Precautions (5.11)].
+Instruct patients, particularly those with predisposing factors, to maintain an adequate fluid intake in order to minimize the risk of kidney stone formation [see Warnings and Precautions (5.10)].
 
 Instructions for a Missing Dose
 
@@ -63,4 +62,4 @@ However, if a patient is within 6 hours of taking the next scheduled dose, tell 
 Tell patients that they should not take a double dose in the event of a missed dose.
 Advise patients to contact their healthcare provider if they have missed more than one dose.
 
-08-R-08/2016
+09-R-01/2018

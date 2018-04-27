@@ -11,10 +11,9 @@ Topiramate has anticonvulsant activity in rat and mouse maximal electroshock sei
 Topiramate is only weakly effective in blocking clonic seizures induced by the GABAA receptor antagonist, pentylenetetrazole.
 Topiramate is also effective in rodent models of epilepsy, which include tonic and absence-like seizures in the spontaneous epileptic rat (SER) and tonic and clonic seizures induced in rats by kindling of the amygdala or by global ischemia.
 
-Changes (increases and decreases) from baseline in vital signs (systolic blood pressure-SBP, diastolic blood pressure-DBP, pulse) occurred more frequently in pediatric patients (6 to 17 years) treated with various daily doses of topiramate (50 mg, 100 mg, 200 mg, 2 to 3 mg/kg) than in patients treated with placebo in controlled trials for another indication.
-The most notable changes were SBP < 90 mm Hg, DBP < 50 mm Hg, SBP or DBP increases or decreases ≥ 20 mm Hg, and pulse increases or decreases ≥ 30 beats per minute.
+Changes (increases and decreases) from baseline in vital signs (systolic blood pressure-SBP, diastolic blood pressure-DBP, pulse) occurred more frequently in pediatric patients (6 to 17 years) treated with various daily doses of topiramate (50 mg, 100 mg, 200 mg, 2 to 3 mg/kg) than in patients treated with placebo in controlled trials for migraine prophylaxis.
+The most notable changes were SBP <90 mm Hg, DBP <50 mm Hg, SBP or DBP increases or decreases ≥20 mm Hg, and pulse increases or decreases ≥30 beats per minute.
 These changes were often dose-related, and were most frequently associated with the greatest treatment difference at the 200 mg dose level.
-When a position was specified for measurement of vital signs in a trial, measurements were made in a sitting position.
 Systematic collection of orthostatic vital signs has not been conducted.
 The clinical significance of these various changes in vital signs has not been clearly established.
 
@@ -48,42 +47,36 @@ Specific Populations
 
 Renal Impairment
 
-The clearance of topiramate was reduced by 42% in moderately renally impaired (creatinine clearance 30 to 69 mL/min/1.73 m2) and by 54% in severely renally impaired subjects (creatinine clearance <30 mL/min/1.73 m2) compared to normal renal function subjects (creatinine clearance >70 mL/min/1.73 m2).
-Since topiramate is presumed to undergo significant tubular reabsorption, it is uncertain whether this experience can be generalized to all situations of renal impairment.
-It is conceivable that some forms of renal disease could differentially affect glomerular filtration rate and tubular reabsorption resulting in a clearance of topiramate not predicted by creatinine clearance.
-In general, however, use of one-half the usual starting and maintenance dose is recommended in patients with moderate or severe renal impairment [see Dosage and Administration (2.4) and (2.5) and Warnings and Precautions (5.14)].
+The clearance of topiramate was reduced by 42% in subjects with moderate renal impairment (creatinine clearance 30 to 69 mL/min/1.73 m2) and by 54% in subjects with severe renal impairment (creatinine clearance <30 mL/min/1.73 m2) compared to subjects with normal renal function (creatinine clearance >70 mL/min/1.73 m2) [see Dosage and Administration (2.4) and (2.5)].
 
 Hemodialysis
 
 Topiramate is cleared by hemodialysis.
 Using a high-efficiency, counterflow, single pass-dialysate hemodialysis procedure, topiramate dialysis clearance was 120 mL/min with blood flow through the dialyzer at 400 mL/min.
-This high clearance (compared to 20 to 30 mL/min total oral clearance in healthy adults) will remove a clinically significant amount of topiramate from the patient over the hemodialysis treatment period.
-Therefore, a supplemental dose may be required [see Dosage and Administration (2.6)].
+This high clearance (compared to 20 to 30 mL/min total oral clearance in healthy adults) will remove a clinically significant amount of topiramate from the patient over the hemodialysis treatment period [see Dosage and Administration (2.6), Use in Specific Populations (8.7)].
 
 Hepatic Impairment
 
-In hepatically impaired subjects, the clearance of topiramate may be decreased; the mechanism underlying the decrease is not well understood [see Dosage and Administration (2.7)].
+Plasma clearance of topiramate decreased a mean of 26% in patients with moderate to severe hepatic impairment.
 
 Age, Gender, and Race
 
-The pharmacokinetics of topiramate in elderly subjects (65 to 85 years of age, N = 16) were evaluated in a controlled clinical study.
+The pharmacokinetics of topiramate in elderly subjects (65 to 85 years of age, N=16) were evaluated in a controlled clinical study.
 The elderly subject population had reduced renal function (creatinine clearance [-20%]) compared to young adults.
 Following a single oral 100 mg dose, maximum plasma concentration for elderly and young adults was achieved at approximately 1 to 2 hours.
 Reflecting the primary renal elimination of topiramate, topiramate plasma and renal clearance were reduced 21% and 19%, respectively, in elderly subjects, compared to young adults.
 Similarly, topiramate half-life was longer (13%) in the elderly.
 Reduced topiramate clearance resulted in slightly higher maximum plasma concentration (23%) and AUC (25%) in elderly subjects than observed in young adults.
-Topiramate clearance is decreased in the elderly only to the extent that renal function is reduced.
-As recommended for all patients, dosage adjustment may be indicated in the elderly patient when impaired renal function (creatinine clearance rate <70 mL/min/1.73 m2) is evident.
-It may be useful to monitor renal function in the elderly patient [see Dosage and Administration (2.4) and Warnings and Precautions (5.14)].
+Topiramate clearance is decreased in the elderly only to the extent that renal function is reduced [see Dosage and Administration (2.4) and Use in Specific Populations (8.5)].
 
 Clearance of topiramate in adults was not affected by gender or race.
 
 Pediatric Pharmacokinetics
 
-Pharmacokinetics of topiramate were evaluated in patients aged 2 to <16 years.
+Pharmacokinetics of topiramate were evaluated in patients age 2 to <16 years.
 Patients received either no or a combination of other antiepileptic drugs.
 A population pharmacokinetic model was developed on the basis of pharmacokinetic data from relevant topiramate clinical studies.
-This dataset contained data from 1217 subjects including 258 pediatric patients aged 2 to <16 years (95 pediatric patients <10 years of age).
+This dataset contained data from 1217 subjects including 258 pediatric patients age 2 to <16 years (95 pediatric patients <10 years of age).
 
 Pediatric patients on adjunctive treatment exhibited a higher oral clearance (L/h) of topiramate compared to patients on monotherapy, presumably because of increased clearance from concomitant enzyme-inducing antiepileptic drugs.
 In comparison, topiramate clearance per kg is greater in pediatric patients than in adults and in young pediatric patients (down to 2 years) than in older pediatric patients.
@@ -92,17 +85,20 @@ Clearance was independent of dose.
 
 As in adults, hepatic enzyme-inducing antiepileptic drugs decrease the steady state plasma concentrations of topiramate.
 
-Drug-Drug Interactions
+Drug Interactions
+
+In vitro studies indicate that topiramate does not inhibit CYP1A2, CYP2A6, CYP2B6, CYP2C9, CYP2D6, CYP2E1, or CYP3A4/5 isozymes.
+In vitro studies indicate that topiramate is a mild inhibitor of CYP2C19 and a mild inducer of CYP3A4.
 
 Antiepileptic Drugs
 
 Potential interactions between topiramate and standard AEDs were assessed in controlled clinical pharmacokinetic studies in patients with epilepsy.
-The effects of these interactions on mean plasma AUCs are summarized in Table 13.
+The effects of these interactions on mean plasma AUCs are summarized in Table 10.
 
-In Table 13, the second column (AED concentration) describes what happens to the concentration of the AED listed in the first column when topiramate is added.
-The third column (topiramate concentration) describes how the co-administration of a drug listed in the first column modifies the concentration of topiramate in experimental settings when topiramate was given alone.
+In Table 10, the second column (AED concentration) describes what happens to the concentration of the co-administered AED listed in the first column when topiramate is added.
+The third column (topiramate concentration) describes how the co-administration of a drug listed in the first column modifies the concentration of topiramate when compared to topiramate given alone.
 
-Table 13: Summary of AED Interactions with Topiramate
+Table 10: Summary of AED Interactions with Topiramate
 
 | AED Co-administered | AED Concentration | Topiramate Concentration |
 | --- | --- | --- |
@@ -113,30 +109,14 @@ Table 13: Summary of AED Interactions with Topiramate
 | Phenobarbital | NC | NE |
 | Primidone | NC | NE |
 | Lamotrigine | NC at TPM doses up to 400 mg/day | 13% decrease |
-| a = Plasma concentration increased 25% in some patients, generally those on a twice a day dosing regimen of phenytoin. |  |  |
-| b= Is not administered but is an active metabolite of carbamazepine. |  |  |
-| NC = Less than 10% change in plasma concentration. |  |  |
-| AED = Antiepileptic drug. |  |  |
-| NE = Not evaluated. |  |  |
-| TPM = Topiramate |  |  |
-
-In addition to the pharmacokinetic interaction described in the above table, concomitant administration of valproic acid and topiramate has been associated with hyperammonemia with and without encephalopathy and hypothermia [see Warnings and Precautions (5.10), (5.12) and Drug Interactions (7.1)].
-
-CNS Depressants
-
-Concomitant administration of topiramate and alcohol or other CNS depressant drugs has not been evaluated in clinical studies.
-Because of the potential of topiramate to cause CNS depression, as well as other cognitive and/or neuropsychiatric adverse reactions, topiramate should be used with extreme caution if used in combination with alcohol and other CNS depressants [see Drug Interactions (7.2)].
+| a = Plasma concentration increased 25% in some patients, generally those on a twice a day dosing regimen of phenytoin. b = Is not administered but is an active metabolite of carbamazepine. NC = Less than 10% change in plasma concentration. AED = Antiepileptic drug. NE = Not Evaluated. TPM = Topiramate |  |  |
 
 Oral Contraceptives
 
 In a pharmacokinetic interaction study in healthy volunteers with a concomitantly administered combination oral contraceptive product containing 1 mg norethindrone (NET) plus 35 mcg ethinyl estradiol (EE), topiramate, given in the absence of other medications at doses of 50 to 200 mg/day, was not associated with statistically significant changes in mean exposure (AUC) to either component of the oral contraceptive.
 In another study, exposure to EE was statistically significantly decreased at doses of 200, 400, and 800 mg/day (18%, 21%, and 30%, respectively) when given as adjunctive therapy in patients taking valproic acid.
-In both studies, topiramate (50 mg/day to 800 mg/day) did not significantly affect exposure to NET.
-Although there was a dose-dependent decrease in EE exposure for doses between 200 and 800 mg/day, there was no significant dose-dependent change in EE exposure for doses of 50 to 200 mg/day.
-The clinical significance of the changes observed is not known.
-The possibility of decreased contraceptive efficacy and increased breakthrough bleeding should be considered in patients taking combination oral contraceptive products with topiramate.
-Patients taking estrogen-containing contraceptives should be asked to report any change in their bleeding patterns.
-Contraceptive efficacy can be decreased even in the absence of breakthrough bleeding [see Drug Interactions (7.3)].
+In both studies, topiramate (50 mg/day to 800 mg/day) did not significantly affect exposure to NET and there was no significant dose-dependent change in EE exposure for doses of 50 to 200 mg/day.
+The clinical significance of the changes observed is not known [see Drug Interactions (7.3)].
 
 Digoxin
 
@@ -145,32 +125,28 @@ The clinical relevance of this observation has not been established.
 
 Hydrochlorothiazide
 
-A drug-drug interaction study conducted in healthy volunteers evaluated the steady-state pharmacokinetics of hydrochlorothiazide (HCTZ) (25 mg q24h) and topiramate (96 mg q12h) when administered alone and concomitantly.
+A drug interaction study conducted in healthy volunteers evaluated the steady-state pharmacokinetics of hydrochlorothiazide (HCTZ) (25 mg every 24 hours) and topiramate (96 mg every 12 hours) when administered alone and concomitantly.
 The results of this study indicate that topiramate Cmax increased by 27% and AUC increased by 29% when HCTZ was added to topiramate.
 The clinical significance of this change is unknown.
-The addition of HCTZ to topiramate therapy may require an adjustment of the topiramate dose.
 The steady-state pharmacokinetics of HCTZ were not significantly influenced by the concomitant administration of topiramate.
 Clinical laboratory results indicated decreases in serum potassium after topiramate or HCTZ administration, which were greater when HCTZ and topiramate were administered in combination.
 
 Metformin
 
-Topiramate treatment can frequently cause metabolic acidosis, a condition for which the use of metformin is contraindicated.
-
-A drug-drug interaction study conducted in healthy volunteers evaluated the steady-state pharmacokinetics of metformin (500 mg every 12 hr) and topiramate in plasma when metformin was given alone and when metformin and topiramate (100 mg every 12 hr) were given simultaneously.
+A drug interaction study conducted in healthy volunteers evaluated the steady-state pharmacokinetics of metformin (500 mg every 12 hours) and topiramate in plasma when metformin was given alone and when metformin and topiramate (100 mg every 12 hours) were given simultaneously.
 The results of this study indicated that the mean metformin Cmax and AUC0-12h increased by 18% and 25%, respectively, when topiramate was added.
 Topiramate did not affect metformin tmax.
 The clinical significance of the effect of topiramate on metformin pharmacokinetics is not known.
 Oral plasma clearance of topiramate appears to be reduced when administered with metformin.
-The clinical significance of the effect of metformin on topiramate pharmacokinetics is unclear [see Drug Interactions (7.4)].
+The clinical significance of the effect of metformin on topiramate pharmacokinetics is unclear.
 
 Pioglitazone
 
-A drug-drug interaction study conducted in healthy volunteers evaluated the steady-state pharmacokinetics of topiramate and pioglitazone when administered alone and concomitantly.
+A drug interaction study conducted in healthy volunteers evaluated the steady-state pharmacokinetics of topiramate and pioglitazone when administered alone and concomitantly.
 A 15% decrease in the AUCt,ss of pioglitazone with no alteration in Cmax,ss was observed.
 This finding was not statistically significant.
-In addition, a 13% and 16% decrease in Cmax,ss and AUCt,ss, respectively, of the active hydroxy-metabolite was noted as well as a 60% decrease in Cmax,ss and AUCt,ss of the active keto-metabolite.
+In addition, a 13% and 16% decrease in Cmax,ss and AUCt,ss respectively, of the active hydroxy-metabolite was noted as well as a 60% decrease in Cmax,ss and AUCt,ss of the active keto-metabolite.
 The clinical significance of these findings is not known.
-When topiramate is added to pioglitazone therapy or pioglitazone is added to topiramate therapy, careful attention should be given to the routine monitoring of patients for adequate control of their diabetic disease state.
 
 Glyburide
 
@@ -181,8 +157,7 @@ The steady-state pharmacokinetics of topiramate were unaffected by concomitant a
 
 Lithium
 
-In patients, the pharmacokinetics of lithium were unaffected during treatment with topiramate at doses of 200 mg/day; however, there was an observed increase in systemic exposure of lithium (27% for Cmax and 26% for AUC) following topiramate doses up to 600 mg/day.
-Lithium levels should be monitored when co-administered with high-dose topiramate [see Drug Interactions (7.5)].
+In patients, the pharmacokinetics of lithium were unaffected during treatment with topiramate at doses of 200 mg/day; however, there was an observed increase in systemic exposure of lithium (27% for Cmax and 26% for AUC) following topiramate doses up to 600 mg/day [see Drug Interactions (7.5)].
 
 Haloperidol
 
@@ -190,19 +165,17 @@ The pharmacokinetics of a single dose of haloperidol (5 mg) were not affected fo
 
 Amitriptyline
 
-There was a 12% increase in AUC and Cmax for amitriptyline (25 mg per day) in 18 normal subjects (9 males; 9 females) receiving 200 mg/day of topiramate.
-Some subjects may experience a large increase in amitriptyline concentration in the presence of topiramate and any adjustments in amitriptyline dose should be made according to the patient's clinical response and not on the basis of plasma levels.
+There was a 12% increase in AUC and Cmax for amitriptyline (25 mg per day) in 18 healthy subjects (9 males, 9 females) receiving 200 mg/day of topiramate.
 
 Sumatriptan
 
-Multiple dosing of topiramate (100 mg every 12 hrs) in 24 healthy volunteers (14 males, 10 females) did not affect the pharmacokinetics of single-dose sumatriptan either orally (100 mg) or subcutaneously (6 mg).
+Multiple dosing of topiramate (100 mg every 12 hours) in 24 healthy volunteers (14 males, 10 females) did not affect the pharmacokinetics of single-dose sumatriptan either orally (100 mg) or subcutaneously (6 mg).
 
 Risperidone
 
 When administered concomitantly with topiramate at escalating doses of 100, 250, and 400 mg/day, there was a reduction in risperidone systemic exposure (16% and 33% for steady-state AUC at the 250 and 400 mg/day doses of topiramate).
 No alterations of 9-hydroxyrisperidone levels were observed.
-Co-administration of topiramate 400 mg/day with risperidone resulted in a 14% increase in Cmax and a 12% increase in AUC12 of topiramate.
-There were no clinically significant changes in the systemic exposure of risperidone plus 9-hydroxyrisperidone or of topiramate; therefore, this interaction is not likely to be of clinical significance.
+Co-administration of topiramate 400 mg/day with risperidone resulted in a 14% increase in Cmax and a 12% increase in AUC12 of topiramate.There were no clinically significant changes in the systemic exposure of risperidone plus 9-hydroxyrisperidone or of topiramate; therefore, this interaction is not likely to be of clinical significance.
 
 Propranolol
 
@@ -222,13 +195,4 @@ Co-administration of topiramate with diltiazem resulted in a 16% increase in Cma
 Venlafaxine
 
 Multiple dosing of topiramate (150 mg/day) in healthy volunteers did not affect the pharmacokinetics of venlafaxine or O-desmethyl venlafaxine.
-Multiple dosing of venlafaxine (150 mg Effexor XR®) did not affect the pharmacokinetics of topiramate.
-
-Other Carbonic Anhydrase Inhibitors
-
-Concomitant use of topiramate, a carbonic anhydrase inhibitor, with any other carbonic anhydrase inhibitor (e.g., zonisamide, acetazolamide or dichlorphenamide) may increase the severity of metabolic acidosis and may also increase the risk of kidney stone formation.
-Therefore, if topiramate is given concomitantly with another carbonic anhydrase inhibitor, the patient should be monitored for the appearance or worsening of metabolic acidosis [see Drug Interactions (7.6)].
-
-Drug/Laboratory Tests Interactions
-
-There are no known interactions of topiramate with commonly used laboratory tests.
+Multiple dosing of venlafaxine (150 mg) did not affect the pharmacokinetics of topiramate.

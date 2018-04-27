@@ -1,6 +1,6 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Topiramate tablets are available as round, biconvex, film-coated tablets in the following strengths and colors:
+Topiramate tablets, USP are available as round, biconvex, film-coated tablets in the following strengths and colors:
 
 25 mg: Light yellow with 'U' debossed on one side and '115' debossed on other side.
 

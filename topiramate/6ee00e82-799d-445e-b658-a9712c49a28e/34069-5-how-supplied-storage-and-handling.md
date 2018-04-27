@@ -2,7 +2,7 @@
 
 ## 16.1 How Supplied.
 
-Topiramate Tablets USP are available as:
+Topiramate Tablets, USP are available as:
 
 25 mg Tablet:
 
@@ -54,7 +54,7 @@ Bottles of 1000: NDC 29300-118-10
 
 ## 16.2 Storage and Handling.
 
-Store at 200 to 250C (680 to 770F) [See USP Controlled Room Temperature].
+Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 Protect from moisture.
 
-Dispense in a tight, light–resistant container.
+Dispense in a tight, light-resistant container.
