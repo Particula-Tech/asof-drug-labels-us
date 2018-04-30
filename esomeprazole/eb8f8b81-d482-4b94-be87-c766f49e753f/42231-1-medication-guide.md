@@ -5,7 +5,7 @@ Esomeprazole Magnesium (ES-oh-MEP-ra-zole mag-NEE-zee-um)
 Delayed-release Capsules, USP
 
 CIA77978A Rev.
-06/2017
+04/2018
 
 Read the Medication Guide that comes with Esomeprazole Magnesium Delayed-release Capsules before you start taking Esomeprazole Magnesium Delayed-release Capsules and each time you get a refill.
 There may be new information.
@@ -235,6 +235,6 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Distributed by: Lannett Company, Inc. Philadelphia, PA 19154
 
-CIA77978A Revised: 06/2017
+CIA77978A Revised: 04/2018
 
 All brand names are the trademarks of their respective owners.
