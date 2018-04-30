@@ -2,7 +2,7 @@
 
 NDC 67919-012-02
 
-Cubicin® RF (daptomycin for injection) 500 mg per vial
+Cubicin®RF (daptomycin for injection) 500 mg per vial
 
 For Intravenous Use
 

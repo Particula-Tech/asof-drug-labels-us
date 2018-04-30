@@ -244,45 +244,6 @@ Gram-Positive Bacteria
 - Staphylococcus epidermidis (including methicillin-resistant isolates)
 - Staphylococcus haemolyticus
 
-Susceptibility Test Methods
+Susceptibility Testing
 
-When available, the clinical microbiology laboratory should provide the results of in vitro susceptibility test for antimicrobial drugs used in resident hospitals to the physician as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
-These reports should aid in the selection of an appropriate antibacterial drug for treatment.
-
-Dilution Techniques
-
-Quantitative methods are used to determine antimicrobial MICs.
-These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
-The MICs should be determined using a standardized broth test method5,6 with the broth adjusted to a calcium content of 50 mg/L.
-The use of the agar dilution method is not recommended with daptomycin5.
-The MICs should be interpreted according to criteria provided in Table 16.
-
-Diffusion Techniques
-
-Quantitative methods that require measurement of zone diameters have not been shown to provide reproducible estimates of the susceptibility of bacteria to daptomycin.
-The use of the disk diffusion method is not recommended with daptomycin6,7.
-
-Table 16: Susceptibility Interpretive Criteria for Daptomycin
-
-| S | I | R |  |
-| --- | --- | --- | --- |
-| Pathogen | Broth Dilution MICThe MIC interpretive criteria for S. aureus and E. faecalis are applicable only to tests performed by broth dilution using Mueller-Hinton broth adjusted to a calcium content of 50 mg/L; the MIC interpretive criteria for Streptococcus spp. other than S. pneumoniae are applicable only to tests performed by broth dilution using Mueller-Hinton broth adjusted to a calcium content of 50 mg/L, supplemented with 2 to 5% lysed horse blood, inoculated with a direct colony suspension and incubated in ambient air at 35ºC for 20 to 24 hours. (mcg/mL) |  |  |
-| Staphylococcus aureus (methicillin-susceptible and methicillin-resistant) | ≤1 | (The current absence of data on daptomycin-resistant isolates precludes defining any categories other than "Susceptible." Isolates yielding test results suggestive of a "Non-Susceptible" category should be retested, and if the result is confirmed, the isolate should be submitted to a reference laboratory for further testing.) | () |
-| Streptococcus pyogenes, Streptococcus agalactiae, and Streptococcus dysgalactiae subsp. equisimilis | ≤1 | () | () |
-| Enterococcus faecalis (vancomycin-susceptible only) | ≤4 | () | () |
-| Note: S, Susceptible; I, Intermediate; R, Resistant. |  |  |  |
-
-A report of Susceptible (S) indicates that the antimicrobial drug is likely to inhibit the growth of the pathogen if the antimicrobial drug reaches the concentration usually achievable at the site of infection.
-
-Quality Control
-
-Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test5,6.
-Standard daptomycin powder should provide the ranges of MIC values noted in Table 17.
-
-Table 17: Acceptable Quality Control Ranges for Daptomycin to Be Used in Validation of Susceptibility Test Results
-
-| Quality Control Strain | Broth Dilution MIC RangeThe quality control ranges for S. aureus and E. faecalis are applicable only to tests performed by broth dilution using Mueller-Hinton broth adjusted to a calcium content of 50 mg/L; the quality control range for Streptococcus pneumoniae is applicable only to tests performed by broth dilution using Mueller-Hinton broth adjusted to a calcium content of 50 mg/L, supplemented with 2 to 5% lysed horse blood, inoculated with a direct colony suspension and incubated in ambient air at 35ºC for 20 to 24 hours. (mcg/mL) |
-| --- | --- |
-| Enterococcus faecalis ATCC 29212 | 1–4 |
-| Staphylococcus aureus ATCC 29213 | 0.12–1 |
-| Streptococcus pneumoniae ATCC 49619This strain may be used for validation of susceptibility test results when testing Streptococcus spp. other than S. pneumoniae. | 0.06–0.5 |
+For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for daptomycin, please see: https://www.fda.gov/STIC.

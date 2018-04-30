@@ -4,12 +4,12 @@
 
 Adults with cSSSI
 
-Adult patients with clinically documented complicated skin and skin structure infections (cSSSI) (Table 18) were enrolled in two randomized, multinational, multicenter, investigator-blinded trials comparing CUBICIN (4 mg/kg IV q24h) with either vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 4 to 12 g IV per day).
+Adult patients with clinically documented complicated skin and skin structure infections (cSSSI) (Table 16) were enrolled in two randomized, multinational, multicenter, investigator-blinded trials comparing CUBICIN (4 mg/kg IV q24h) with either vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 4 to 12 g IV per day).
 Patients could switch to oral therapy after a minimum of 4 days of IV treatment if clinical improvement was demonstrated.
 Patients known to have bacteremia at baseline were excluded.
 Patients with creatinine clearance (CLCR) between 30 and 70 mL/min were to receive a lower dose of CUBICIN as specified in the protocol; however, the majority of patients in this subpopulation did not have the dose of CUBICIN adjusted.
 
-Table 18: Investigator's Primary Diagnosis in the cSSSI Trials in Adult Patients (Population: ITT)
+Table 16: Investigator's Primary Diagnosis in the cSSSI Trials in Adult Patients (Population: ITT)
 
 | Study 9801 N=264 / N=266 | Study 9901 N=270 / N=292 | Pooled N=534 / N=558 |  |
 | --- | --- | --- | --- |
@@ -30,9 +30,9 @@ Clinical success rates in the CE population were 76.0% (158/208) in patients tre
 In study 9901, clinical success rates in the ITT population were 80.4% (217/270) in patients treated with CUBICIN and 80.5% (235/292) in patients treated with comparator drugs.
 Clinical success rates in the CE population were 89.9% (214/238) in patients treated with CUBICIN and 90.4% (226/250) in patients treated with comparator drugs.
 
-The success rates by pathogen for microbiologically evaluable patients are presented in Table 19.
+The success rates by pathogen for microbiologically evaluable patients are presented in Table 17.
 
-Table 19: Clinical Success Rates by Infecting Pathogen in the cSSSI Trials in Adult Patients (Population: Microbiologically Evaluable)
+Table 17: Clinical Success Rates by Infecting Pathogen in the cSSSI Trials in Adult Patients (Population: Microbiologically Evaluable)
 
 | CUBICIN | ComparatorComparator: vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 4 to 12 g/day IV in divided doses). |  |
 | --- | --- | --- |
@@ -103,9 +103,9 @@ The coprimary efficacy endpoints in the trial were the Adjudication Committee su
 The overall Adjudication Committee success rates in the ITT population were 44.2% (53/120) in patients treated with CUBICIN and 41.7% (48/115) in patients treated with comparator (difference = 2.4% [95% CI −10.2, 15.1]).
 The success rates in the PP population were 54.4% (43/79) in patients treated with CUBICIN and 53.3% (32/60) in patients treated with comparator (difference = 1.1% [95% CI −15.6, 17.8]).
 
-Adjudication Committee success rates are shown in Table 20.
+Adjudication Committee success rates are shown in Table 18.
 
-Table 20: Adjudication Committee Success Rates at Test of Cure in the S. aureus Bacteremia/Endocarditis Trial in Adult Patients (Population: ITT)
+Table 18: Adjudication Committee Success Rates at Test of Cure in the S. aureus Bacteremia/Endocarditis Trial in Adult Patients (Population: ITT)
 
 | CUBICIN 6 mg/kg | ComparatorComparator: vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 2 g IV q4h), each with initial low-dose gentamicin. |  |  |
 | --- | --- | --- | --- |
@@ -114,7 +114,7 @@ Table 20: Adjudication Committee Success Rates at Test of Cure in the S. aureus 
 | Baseline Pathogen |  |  |  |
 | Methicillin-susceptible S. aureus | 33/74 (45%) | 34/70 (49%) | −4.0% (−22.6, 14.6)97.5% Confidence Interval (adjusted for multiplicity) |
 | Methicillin-resistant S. aureus | 20/45 (44%) | 14/44 (32%) | 12.6% (−10.2, 35.5) |
-| Entry DiagnosisAccording to the modified Duke criteria8 |  |  |  |
+| Entry DiagnosisAccording to the modified Duke criteria5 |  |  |  |
 | Definite or Possible Infective Endocarditis | 41/90 (46%) | 37/91 (41%) | 4.9% (−11.6, 21.4) |
 | Not Infective Endocarditis | 12/30 (40%) | 11/24 (46%) | −5.8% (−36.2, 24.5) |
 | Final Diagnosis |  |  |  |
