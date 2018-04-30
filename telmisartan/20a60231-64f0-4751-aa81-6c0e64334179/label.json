@@ -1,0 +1,32 @@
+{
+  "application_numbers": [
+    "ANDA204415"
+  ],
+  "inn": "telmisartan",
+  "labeler": "Amneal Pharmaceuticals LLC",
+  "package_ndcs": [
+    "65162-291-03",
+    "65162-291-09",
+    "65162-291-50",
+    "65162-291-63",
+    "65162-292-03",
+    "65162-292-09",
+    "65162-292-11",
+    "65162-292-50",
+    "65162-292-63",
+    "65162-293-03",
+    "65162-293-09",
+    "65162-293-11",
+    "65162-293-50",
+    "65162-293-63"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "telmisartan",
+      "name": "Telmisartan"
+    }
+  ],
+  "setid": "20a60231-64f0-4751-aa81-6c0e64334179",
+  "source": "dailymed"
+}
