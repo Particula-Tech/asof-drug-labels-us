@@ -2,10 +2,8 @@
 
 ZYTIGA® (abiraterone acetate) Tablets are available in the strengths and packages listed below:
 
-- ZYTIGA® 500 mg film-coated Tablets Purple, oval-shaped tablets debossed with "AA" one side and "500" on the other side.
+- ZYTIGA®500 mg film-coated Tablets Purple, oval-shaped tablets debossed with "AA" one side and "500" on the other side.
   NDC 57894-195-06 60 tablets available in high-density polyethylene bottles
-- ZYTIGA® 250 mg film-coated Tablets Pink, oval-shaped tablets debossed with "AA250" on one side.
-  NDC 57894-184-12 120 tablets available in high-density polyethylene bottles
 - ZYTIGA® 250 mg uncoated Tablets White to off-white, oval-shaped tablets debossed with "AA250" on one side.
   NDC 57894-150-12 120 tablets available in high-density polyethylene bottles
 
