@@ -1,22 +1,22 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 Spironolactone Tablets, USP are available containing 25 mg, 50 mg or 100 mg of spironolactone, USP.
 
-The 25 mg tablet is a white film-coated, round, unscored tablet debossed with M over 146 on one side of the tablet and blank on the other side.
+The 25 mg tablets are white, film-coated, round, unscored tablets debossed with M over 146 on one side of the tablet and blankon the other side.
 They are available as follows:
 
 NDC 0378-2146-01 bottles of 100 tablets
 
 NDC 0378-2146-05 bottles of 500 tablets
 
-The 50 mg tablet is a white film-coated, round tablet debossed with M over 243 on one side of the tablet and scored on the other side.
+The 50 mg tablets are white, film-coated, round tablets debossed with M over 243 on one side of the tablet and scored on the other side.
 They are available as follows:
 
 NDC 0378-0243-01 bottles of 100 tablets
 
 NDC 0378-0243-05 bottles of 500 tablets
 
-The 100 mg tablet is a white film-coated, round tablet debossed with M over 437 on one side of the tablet and scored on the other side.
+The 100 mg tablets are white, film-coated, round tablets debossed with M over 437 on one side of the tablet and scored on the other side.
 They are available as follows:
 
 NDC 0378-0437-01 bottles of 100 tablets
@@ -27,7 +27,3 @@ Store at 20° to 25°C (68° to 77°F).
 Protect from light.
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
-
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
-
-REVISED NOVEMBER 2014 SP:R22
