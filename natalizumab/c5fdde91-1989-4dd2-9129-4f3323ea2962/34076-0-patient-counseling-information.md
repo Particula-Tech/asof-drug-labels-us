@@ -49,9 +49,9 @@ Immunosuppression/Infections
 Inform patients that TYSABRI may lower the ability of their immune system to fight infections.
 Instruct the patient of the importance of contacting their doctor if they develop any symptoms of infection [see Warnings and Precautions (5.6)].
 
-I61061-24
+I61061-25
 
-TYSABRI (natalizumab) Manufactured by: Biogen Inc. Cambridge, MA 02142 USA 1-800-456-2255
+TYSABRI (natalizumab) Manufactured by: Biogen Inc. Cambridge, MA 02142 USA US License No. 1697 1-800-456-2255
 
-© 2015-2017 Biogen Inc. All rights reserved.
+© 2015-2018 Biogen Inc. All rights reserved.
 U.S. Patent Numbers: 5,840,299; 6,602,503

@@ -91,7 +91,7 @@ Table 4: Adverse Reactions in Study CD3 (Maintenance Study)
 | Adverse Reactions* | TYSABRI n=214 % | Placebo n=214 % |
 | --- | --- | --- |
 | General Headache Influenza-like illness Peripheral edema Toothache | 37 11 6 4 | 31 6 3 <1 |
-| Infection Influenza Sinusitis Viral infection Vaginal infections** | 12 8 8 7 | 5 4 <1 3 |
+| Infection Influenza Sinusitis Vaginal infections** Viral infection | 12 8 8 7 | 5 4 <1 3 |
 | Respiratory Cough | 7 | 5 |
 | Gastrointestinal Lower abdominal pain | 4 | 2 |
 | Musculoskeletal and Connective Tissue Back pain | 12 | 8 |
@@ -143,6 +143,11 @@ MS and CD patients who became persistently positive for antibodies to TYSABRI we
 
 ## 6.2. Immunogenicity
 
+As with all therapeutic proteins, there is a potential for immunogenicity.
+The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay.
+Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
+For these reasons, comparison of the incidence of antibodies to natlizumab in the studies described below with the incidence of antibodies in other studies or to other products may be misleading.
+
 Patients in Study MS1 [see Clinical Studies (14.1)] were tested for antibodies to natalizumab every 12 weeks.
 The assays used were unable to detect low to moderate levels of antibodies to natalizumab.
 Approximately 9% of patients receiving TYSABRI developed detectable antibodies at least once during treatment.
@@ -165,10 +170,6 @@ Five percent (5%) of patients had positive antibodies on more than one occasion.
 Persistent antibodies resulted in reduced efficacy and an increase in infusion-related reactions with symptoms that include urticaria, pruritus, nausea, flushing, and dyspnea.
 
 The long-term immunogenicity of TYSABRI and the effects of low to moderate levels of antibody to natalizumab are unknown [see Warnings and Precautions (5.5), Adverse Reactions (6.1)].
-
-Immunogenicity data are highly dependent on the sensitivity and specificity of the assay.
-Additionally, the observed incidence of antibody-positivity in an assay may be influenced by several factors, including sample handling, timing of sample collection, concomitant medications, and underlying disease.
-For these reasons, comparison of the incidence of antibodies to TYSABRI with the incidence of antibodies to other products may be misleading.
 
 ## 6.3. Postmarketing Experience
 

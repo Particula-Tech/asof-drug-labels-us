@@ -21,18 +21,19 @@ Other than the initial six-month taper, prescribers should consider discontinuin
 
 1. Use aseptic technique when preparing TYSABRI solution for intravenous infusion.
    Each vial is intended for single use only.
-2. TYSABRI is a colorless, clear to slightly opalescent concentrate.
+   Discard any unused portion.
+2. TYSABRI is a colorless, clear to slightly opalescent solution.
    Inspect the TYSABRI vial for particulate material and discoloration prior to dilution and administration.
    If visible particulates are observed and/or the liquid in the vial is discolored, the vial must not be used.
-3. To prepare the solution, withdraw 15 mL of TYSABRI concentrate from the vial using a sterile needle and syringe.
-   Inject the concentrate into 100 mL of 0.9% Sodium Chloride Injection, USP.
-   No other IV diluents may be used to prepare the TYSABRI solution.
-4. Gently invert the TYSABRI solution to mix completely.
+3. To prepare the diluted solution, withdraw 15 mL of TYSABRI from the vial using a sterile needle and syringe.
+   Inject TYSABRI into 100 mL of 0.9% Sodium Chloride Injection, USP.
+   No other intravenous diluents may be used to prepare the TYSABRI diluted solution.
+4. Gently invert the TYSABRI diluted solution to mix completely.
    Do not shake.
    Inspect the solution visually for particulate material prior to administration.
-5. The final dosage solution has a concentration of 2.6 mg/mL.
-6. Following dilution, infuse TYSABRI solution immediately, or refrigerate solution at 2°C to 8°C, and use within 8 hours.
-   If stored at 2°C to 8°C, allow the solution to warm to room temperature prior to infusion.
+5. The final dosage diluted solution has a concentration of 2.6 mg/mL.
+6. Following dilution, infuse TYSABRI solution immediately, or refrigerate the diluted solution at 2°C to 8°C, and use within 8 hours.
+   If stored at 2°C to 8°C, allow the diluted solution to warm to room temperature prior to infusion.
    DO NOT FREEZE.
 
 ## 2.4. Administration Instructions

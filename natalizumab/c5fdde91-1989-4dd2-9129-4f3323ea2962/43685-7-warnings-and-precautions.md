@@ -26,6 +26,8 @@ Table 1: Estimated United States Incidence of PML Stratified by Risk Factor
 | †Data beyond 6 years of treatment are limited. |  |  |  |
 | The anti-JCV antibody status was determined using an anti-JCV antibody test (ELISA) that has been analytically and clinically validated and is configured with detection and inhibition steps to confirm the presence of JCV-specific antibodies with an analytical false negative rate of 3%. |  |  |  |
 
+Retrospective analyses of postmarketing data from various sources, including observational studies and spontaneous reports obtained worldwide, suggest that the risk of developing PML may be associated with relative levels of serum anti-JCV antibody compared to a calibrator as measured by ELISA (often described as an anti-JCV antibody index value).
+
 Ordinarily, patients receiving chronic immunosuppressant or immunomodulatory therapy or who have systemic medical conditions resulting in significantly compromised immune system function should not be treated with TYSABRI.
 Infection by the JC virus is required for the development of PML.
 Anti-JCV antibody testing should not be used to diagnose PML.
@@ -47,8 +49,8 @@ Withhold TYSABRI dosing immediately and perform an appropriate diagnostic evalua
 
 MRI findings may be apparent before clinical signs or symptoms.
 Cases of PML, diagnosed based on MRI findings and the detection of JCV DNA in the cerebrospinal fluid in the absence of clinical signs or symptoms specific to PML, have been reported.
-Many of these patients subsequently became symptomatic.
-Periodic monitoring for radiographic signs consistent with PML should be considered to allow for an early diagnosis of PML.
+Many of these patients subsequently became symptomatic with PML.
+Therefore, monitoring with MRI for signs that may be consistent with PML may be useful, and any suspicious findings should lead to further investigation to allow for an early diagnosis of PML, if present.
 Consider monitoring patients at high risk for PML more frequently.
 Lower PML-related mortality and morbidity have been reported following TYSABRI discontinuation in patients with PML who were initially asymptomatic compared to patients with PML who had characteristic clinical signs and symptoms at diagnosis.
 It is not known whether these differences are due to early detection and discontinuation of TYSABRI or due to differences in disease in these patients.
@@ -166,11 +168,12 @@ One opportunistic infection, a cryptosporidial gastroenteritis with a prolonged 
 In Studies MS1 and MS2, an increase in infections was seen in patients concurrently receiving short courses of corticosteroids.
 However, the increase in infections in TYSABRI-treated patients who received steroids was similar to the increase in placebo-treated patients who received steroids.
 
+In a long-term safety study of patients treated with TYSABRI for multiple sclerosis, opportunistic infections (pulmonary mycobacterium avium intracellulare, aspergilloma, cryptococcal fungemia and meningitis, and Candida pneumonia) have been observed in <1% of TYSABRI-treated patients.
+
 In CD clinical studies, opportunistic infections (pneumocystis carinii pneumonia, pulmonary mycobacterium avium intracellulare, bronchopulmonary aspergillosis, and burkholderia cepacia) have been observed in <1% of TYSABRI-treated patients; some of these patients were receiving concurrent immunosuppressants [see Warnings and Precautions (5.1), Adverse Reactions (6.1)].
 
 In Studies CD1 and CD2, an increase in infections was seen in patients concurrently receiving corticosteroids.
 However, the increase in infections was similar in placebo-treated and TYSABRI-treated patients who received steroids.
-
 Concurrent use of antineoplastic, immunosuppressant, or immunomodulating agents may further increase the risk of infections, including PML and other opportunistic infections, over the risk observed with use of TYSABRI alone [see Warnings and Precautions (5.1), Adverse Reactions (6.1)].
 The safety and efficacy of TYSABRI in combination with antineoplastic, immunosuppressant, or immunomodulating agents have not been established.
 Patients receiving chronic immunosuppressant or immunomodulatory therapy or who have systemic medical conditions resulting in significantly compromised immune system function should not ordinarily be treated with TYSABRI.
