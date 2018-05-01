@@ -1,0 +1,15 @@
+# PRINCIPAL DISPLAY PANEL
+
+NDC 68682-309-30
+
+Rx only
+
+BUDESONIDE Extended Release Tablets
+
+9 mg
+
+Swallow tablet whole, do not chew, crush, or break.
+
+30 Tablets
+
+OCEANSIDE PHARMACEUTICALS

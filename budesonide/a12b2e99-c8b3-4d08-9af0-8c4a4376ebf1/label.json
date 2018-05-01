@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA203634"
+  ],
+  "inn": "budesonide",
+  "labeler": "Oceanside Pharmaceuticals",
+  "package_ndcs": [
+    "68682-309-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "budesonide",
+      "name": "budesonide"
+    }
+  ],
+  "setid": "a12b2e99-c8b3-4d08-9af0-8c4a4376ebf1",
+  "source": "dailymed"
+}
