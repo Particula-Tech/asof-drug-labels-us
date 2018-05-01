@@ -24,7 +24,7 @@ The majority of patients receiving concentrations higher than 5 mg/mL (0.5%) wer
 
 Table 3A Adverse Events Reported in ≥1% of Adult Patients Receiving Regional or Local Anesthesia (Surgery, Labor, Cesarean Section, Post-Operative Pain Management, Peripheral Nerve Block and Local Infiltration)
 
-| Adverse Reaction | Naropintotal N=1661 |  | Bupivacainetotal N=1433 |  |
+| Adverse Reaction | Naropin total N=1661 |  | Bupivacaine total N=1433 |  |
 | --- | --- | --- | --- | --- |
 | N | (%) | N | (%) |  |
 | Hypotension | 536 | (32.3) | 408 | (28.5) |
@@ -49,7 +49,7 @@ Table 3A Adverse Events Reported in ≥1% of Adult Patients Receiving Regional o
 
 Table 3B Adverse Events Reported in ≥1% of Fetuses or Neonates of Mothers Who Received Regional Anesthesia (Cesarean Section and Labor Studies)
 
-| Adverse Reaction | Naropintotal N=639 |  | Bupivacainetotal N=573 |  |
+| Adverse Reaction | Naropin total N=639 |  | Bupivacaine total N=573 |  |
 | --- | --- | --- | --- | --- |
 | N | (%) | N | (%) |  |
 | Fetal bradycardia | 77 | (12.1) | 68 | (11.9) |
@@ -71,7 +71,7 @@ Table 4 is based on data from trials in the U.S. and other countries where Narop
 
 Table 4 Common Events (Epidural Administration)
 
-| AdverseReaction | Naropin |  |  |  |  |  | Bupivacaine |  |  |  |
+| Adverse Reaction | Naropin |  |  |  |  |  | Bupivacaine |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | 5 mg/mL total N=256 |  | 7.5 mg/mL total N=297 |  | 10 mg/mL total N=207 |  | 5 mg/mL total N=236 |  | 7.5 mg/mL total N=174 |  |
 |  | N | (%) | N | (%) | N | (%) | N | (%) | N | (%) |

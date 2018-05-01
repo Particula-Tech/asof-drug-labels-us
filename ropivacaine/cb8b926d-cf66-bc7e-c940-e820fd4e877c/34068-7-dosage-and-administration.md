@@ -29,16 +29,16 @@ Table 7 Dosage Recommendations
 | Major Nerve Block = The dose for a major nerve block must be adjusted according to site of administration and patient status. Supraclavicular brachial plexus blocks may be associated with a higher frequency of serious adverse reactions, regardless of the local anesthetic used (see PRECAUTIONS). | 5 | (0.5%) | 35-50 | 175-250 | 15-30 | 5-8 |
 | (eg, brachial plexus block) | 7.5 | (0.75%) | 10-40 | 75-300 | 10-25 | 6-10 |
 | Field Block | 5 | (0.5%) | 1-40 | 5-200 | 1-15 | 2-6 |
-| (eg, minor nerve blocksand infiltration) |  |  |  |  |  |  |
+| (eg, minor nerve blocks and infiltration) |  |  |  |  |  |  |
 | LABOR PAIN MANAGEMENT |  |  |  |  |  |  |
 | Lumbar Epidural Administration |  |  |  |  |  |  |
 | Initial Dose | 2 | (0.2%) | 10-20 | 20-40 | 10-15 | 0.5-1.5 |
-| Continuousinfusion = Median dose of 21 mg per hour was administered by continuous infusion or by incremental injections (top-ups) over a median delivery time of 5.5 hours. | 2 | (0.2%) | 6-14mL/h | 12-28mg/h | n/a | n/a |
-| Incrementalinjections (top-up) | 2 | (0.2%) | 10-15mL/h | 20-30mg/h | n/a | n/a |
+| Continuous infusion = Median dose of 21 mg per hour was administered by continuous infusion or by incremental injections (top-ups) over a median delivery time of 5.5 hours. | 2 | (0.2%) | 6-14 mL/h | 12-28 mg/h | n/a | n/a |
+| Incremental injections (top-up) | 2 | (0.2%) | 10-15 mL/h | 20-30 mg/h | n/a | n/a |
 | POSTOPERATIVE PAIN MANAGEMENT |  |  |  |  |  |  |
 | Lumbar Epidural Administration |  |  |  |  |  |  |
-| Continuousinfusion = Cumulative doses up to 770 mg of Naropin over 24 hours (intraoperative block plus postoperative infusion); Continuous epidural infusion at rates up to 28 mg per hour for 72 hours have been well tolerated in adults, ie, 2016 mg plus surgical dose of approximately 100 to 150 mg as top-up. | 2 | (0.2%) | 6-14mL/h | 12-28mg/h | n/a | n/a |
-| Thoracic EpiduralAdministration | 2 | (0.2%) | 6-14mL/h | 12-28mg/h | n/a | n/a |
+| Continuous infusion = Cumulative doses up to 770 mg of Naropin over 24 hours (intraoperative block plus postoperative infusion); Continuous epidural infusion at rates up to 28 mg per hour for 72 hours have been well tolerated in adults, ie, 2016 mg plus surgical dose of approximately 100 to 150 mg as top-up. | 2 | (0.2%) | 6-14 mL/h | 12-28 mg/h | n/a | n/a |
+| Thoracic Epidural Administration | 2 | (0.2%) | 6-14 mL/h | 12-28 mg/h | n/a | n/a |
 | Continuous infusion |  |  |  |  |  |  |
 | Infiltration | 2 | (0.2%) | 1-100 | 2-200 | 1-5 | 2-6 |
 | (eg, minor nerve block) | 5 | (0.5%) | 1-40 | 5-200 | 1-5 | 2-6 |

@@ -10,7 +10,7 @@ Ropivacaine shows dose-proportionality up to the highest intravenous dose studie
 
 Table 1 Pharmacokinetic (plasma concentration-time) data from clinical trials
 
-| Route | Epidural Infusion Continuous 72 hour epidural infusion after an epidural block with 5 or 10 mg/mL. |  | EpiduralInfusion | EpiduralBlock Epidural anesthesia with 7.5 mg/mL (0.75%) for cesarean delivery. | EpiduralBlock | PlexusBlock Brachial plexus block with 7.5 mg/mL (0.75%) ropivacaine. | IVInfusion 20 minute IV infusion to volunteers (40 mg). |
+| Route | Epidural Infusion Continuous 72 hour epidural infusion after an epidural block with 5 or 10 mg/mL. |  | Epidural Infusion | Epidural Block Epidural anesthesia with 7.5 mg/mL (0.75%) for cesarean delivery. | Epidural Block | Plexus Block Brachial plexus block with 7.5 mg/mL (0.75%) ropivacaine. | IV Infusion 20 minute IV infusion to volunteers (40 mg). |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Dose (mg) | 1493±10 | 2075±206 | 1217±277 | 150 | 187.5 | 300 | 40 |
 | N | 12 | 12 | 11 | 8 | 8 | 10 | 12 |
@@ -99,7 +99,7 @@ There were significantly fewer instrumental deliveries in mothers receiving ropi
 
 Table 2 LABOR AND DELIVERY META-ANALYSIS: MODE OF DELIVERY
 
-| Delivery Mode | Naropin n=199 |  | Bupivacainen=188 |  |
+| Delivery Mode | Naropin n=199 |  | Bupivacaine n=188 |  |
 | --- | --- | --- | --- | --- |
 |  | n | % | n | % |
 | Spontaneous Vertex | 116 | 58 | 92 | 49 |
