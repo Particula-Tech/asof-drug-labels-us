@@ -3,5 +3,5 @@
 - Hypersensitivity to desvenlafaxine succinate, venlafaxine hydrochloride or to any excipients in the desvenlafaxine formulation.
   Angioedema has been reported in patients treated with desvenlafaxine [see ADVERSE REACTIONS (6.1)].
 - The use of MAOIs intended to treat psychiatric disorders with desvenlafaxine or within 7 days of stopping treatment with desvenlafaxine is contraindicated because of an increased risk of serotonin syndrome.
-  The use of desvenlafaxine within 14 days of stopping an MAOI intended to treat psychiatric disorders is also contraindicated [see DOSAGE AND ADMINISTRATION (2.6) and WARNINGS AND PRECAUTIONS (5.2)].
-- Starting desvenlafaxine in a patient who is being treated with MAOIs such as linezolid or intravenous methylene blue is also contraindicated because of an increased risk of serotonin syndrome [see DOSAGE AND ADMINISTRATION (2.6) and WARNINGS AND PRECAUTIONS (5.2)].
+  The use of desvenlafaxine within 14 days of stopping an MAOI intended to treat psychiatric disorders is also contraindicated [see DOSAGE AND ADMINISTRATION (2.7) and WARNINGS AND PRECAUTIONS (5.2)].
+- Starting desvenlafaxine in a patient who is being treated with MAOIs such as linezolid or intravenous methylene blue is also contraindicated because of an increased risk of serotonin syndrome [see DOSAGE AND ADMINISTRATION (2.8) and WARNINGS AND PRECAUTIONS (5.2)].

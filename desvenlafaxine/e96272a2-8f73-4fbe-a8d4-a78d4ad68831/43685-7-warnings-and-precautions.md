@@ -1,14 +1,16 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Suicidal Thoughts and Behaviors in Children, Adolescents and Young Adults
+## 5.1 Suicidal Thoughts and Behaviors in Pediatric and Young Adult Patients
 
-Patients with major depressive disorder (MDD), both adult and pediatric, may experience worsening of their depression and/or the emergence of suicidal ideation and behavior (suicidality) or unusual changes in behavior, whether or not they are taking antidepressant medications, and this risk may persist until significant remission occurs.
+Patients with MDD, both adult and pediatric, may experience worsening of their depression and/or the emergence of suicidal ideation and behavior (suicidality) or unusual changes in behavior, whether or not they are taking antidepressant medications, and this risk may persist until significant remission occurs.
 Suicide is a known risk of depression and certain other psychiatric disorders, and these disorders themselves are the strongest predictors of suicide.
 There has been a long-standing concern, however, that antidepressants may have a role in inducing worsening of depression and the emergence of suicidality in certain patients during the early phases of treatment.
 Pooled analyses of short-term placebo-controlled studies of antidepressant drugs (SSRIs and others) showed that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18 to 24) with major depressive disorder (MDD) and other psychiatric disorders.
 Short-term studies did not show an increase in the risk of suicidality with antidepressants compared to placebo in adults beyond age 24; there was a reduction with antidepressants compared to placebo in adults aged 65 and older.
 
-The pooled analyses of placebo-controlled studies in children and adolescents with MDD, obsessive compulsive disorder (OCD), or other psychiatric disorders included a total of 24 short-term studies of 9 antidepressant drugs in over 4,400 patients.
+The pooled analyses of placebo-controlled studies in children and adolescents with MDD, obsessive compulsive disorder (OCD), or other psychiatric disorders included a total of 24
+
+short-term studies of 9 antidepressant drugs in over 4,400 patients.
 The pooled analyses of placebo-controlled studies in adults with MDD or other psychiatric disorders included a total of 295 short-term studies (median duration of 2 months) of 11 antidepressant drugs in over 77,000 patients.
 There was considerable variation in risk of suicidality among drugs, but a tendency toward an increase in the younger patients for almost all drugs studied.
 There were differences in absolute risk of suicidality across the different indications, with the highest incidence in MDD.
@@ -39,7 +41,7 @@ Although a causal link between the emergence of such symptoms and either the wor
 
 Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients whose depression is persistently worse, or who are experiencing emergent suicidality or symptoms that might be precursors to worsening depression or suicidality, especially if these symptoms are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
 
-If the decision has been made to discontinue treatment, medication should be tapered, as rapidly as is feasible, but with recognition that abrupt discontinuation can be associated with certain symptoms [see DOSAGE AND ADMINISTRATION (2.4) and WARNINGS AND PRECAUTIONS (5.7) for a description of the risks of discontinuation of desvenlafaxine].
+If the decision has been made to discontinue treatment, medication should be tapered, as rapidly as is feasible, but with recognition that abrupt discontinuation can be associated with certain symptoms [see DOSAGE AND ADMINISTRATION (2.4) and WARNINGS AND PRECAUTIONS (5.7)].
 
 Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to healthcare providers.
 Such monitoring should include daily observation by families and caregivers.
@@ -56,21 +58,20 @@ It should be noted that desvenlafaxine is not approved for use in treating bipol
 
 ## 5.2 Serotonin Syndrome
 
-The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including desvenlafaxine, alone but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, and St. John's Wort), and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
+Serotonin-norepinephrine reuptake inhibitors (SNRIs) and selective-serotonin reuptake inhibitors (SSRIs), including desvenlafaxine, can precipitate serotonin syndrome, a potentially life-threatening condition.
+The risk is increased with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, and St. John's Wort) and with drugs that impair metabolism of serotonin, i.e., MAOIs [see CONTRAINDICATIONS (4), DRUG INTERACTIONS (7.1)].
+Serotonin syndrome can also occur when these drugs are used alone.
 
-Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
-Patients should be monitored for the emergence of serotonin syndrome.
+Serotonin syndrome signs and symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
 
-The concomitant use of desvenlafaxine with MAOIs intended to treat psychiatric disorders is contraindicated.
-Desvenlafaxine should also not be started in a patient who is being treated with MAOIs such as linezolid or intravenous methylene blue.
-All reports with methylene blue that provided information on the route of administration involved intravenous administration in the dose range of 1 mg/kg to 8 mg/kg.
-No reports involved the administration of methylene blue by other routes (such as oral tablets or local tissue injection) or at lower doses.
-There may be circumstances when it is necessary to initiate treatment with a MAOI such as linezolid or intravenous methylene blue in a patient taking desvenlafaxine.
-Desvenlafaxine should be discontinued before initiating treatment with the MAOI [see CONTRAINDICATIONS (4.2) and DOSAGE AND ADMINISTRATION (2.6)].
+The concomitant use of desvenlafaxine with MAOIs is contraindicated.
+In addition, do not initiate desvenlafaxine in a patient being treated with MAOIs such as linezolid or intravenous methylene blue.
+No reports involved the administration of methylene blue by other routes (such as oral tablets or local tissue injection).
+If it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking desvenlafaxine, discontinue desvenlafaxine before initiating treatment with the MAOI [see CONTRAINDICATIONS (4), DRUG INTERACTIONS (7.1)].
 
-If concomitant use of desvenlafaxine with other serotonergic drugs, including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, amphetamines, tryptophan, and St. John's Wort is clinically warranted, patients should be made aware of a potential increased risk for serotonin syndrome, particularly during treatment initiation and dose increases.
-
-Treatment with desvenlafaxine and any concomitant serotonergic agents should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
+Monitor all patients taking desvenlafaxine for the emergence of serotonin syndrome.
+Discontinue treatment with desvenlafaxine and any concomitant serotonergic agents immediately if the above symptoms occur, and initiate supportive symptomatic treatment.
+If concomitant use of desvenlafaxine with other serotonergic drugs is clinically warranted, inform patients of the increased risk for serotonin syndrome and monitor for symptoms.
 
 ## 5.3 Elevated Blood Pressure
 
@@ -82,17 +83,19 @@ Cases of elevated blood pressure requiring immediate treatment have been reporte
 Sustained blood pressure increases could have adverse consequences.
 For patients who experience a sustained increase in blood pressure while receiving desvenlafaxine extended-release tablets, either dose reduction or discontinuation should be considered [see ADVERSE REACTIONS (6.1)].
 
-## 5.4 Abnormal Bleeding
+## 5.4 Increased Risk of Bleeding
 
-SSRIs and SNRIs, including desvenlafaxine, may increase the risk of bleeding events.
+Drugs that interfere with serotonin reuptake inhibition, including desvenlafaxine, may increase the risk of bleeding events.
 Concomitant use of aspirin, nonsteroidal anti-inflammatory drugs, warfarin, and other anticoagulants may add to this risk.
 Case reports and epidemiological studies (case-control and cohort design) have demonstrated an association between use of drugs that interfere with serotonin reuptake and the occurrence of gastrointestinal bleeding.
-Bleeding events related to SSRIs and SNRIs have ranged from ecchymosis, hematoma, epistaxis, and petechiae to life-threatening hemorrhages.
-Patients should be cautioned about the risk of bleeding associated with the concomitant use of desvenlafaxine and NSAIDs, aspirin, or other drugs that affect coagulation or bleeding.
+Bleeding events related to SSRIs and SNRIs have ranged from ecchymosis, hematoma, epistaxis, and petechiae to life- threatening hemorrhages.
+Inform patients about the risk of bleeding associated with the concomitant use of desvenlafaxine and antiplatelet agents or anticoagulants.
+For patients taking warfarin, carefully monitor coagulation indices when initiating, titrating, or discontinuing desvenlafaxine..
 
 ## 5.5 Angle Closure Glaucoma
 
-Angle-Closure Glaucoma: The pupillary dilation that occurs following use of many antidepressant drugs including desvenlafaxine extended-release tablets may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
+The pupillary dilation that occurs following use of many antidepressant drugs including desvenlafaxine extended-release tablets may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
+Avoid use of antidepressants, including desvenlafaxine in patients with untreated anatomically narrow angles.
 
 ## 5.6 Activation of Mania/Hypomania
 
@@ -102,17 +105,8 @@ As with all antidepressants, desvenlafaxine should be used cautiously in patient
 
 ## 5.7 Discontinuation Syndrome
 
-Discontinuation symptoms have been systematically and prospectively evaluated in patients treated with desvenlafaxine succinate during clinical studies in Major Depressive Disorder.
-Abrupt discontinuation or dose reduction has been associated with the appearance of new symptoms that include dizziness, nausea, headache, irritability, insomnia, diarrhea, anxiety, fatigue, abnormal dreams, and hyperhidrosis.
-In general, discontinuation events occurred more frequently with longer duration of therapy.
-
-During marketing of SNRIs (Serotonin and Norepinephrine Reuptake Inhibitors), and SSRIs (Selective Serotonin Reuptake Inhibitors), there have been spontaneous reports of adverse events occurring upon discontinuation of these drugs, particularly when abrupt, including the following: dysphoric mood, irritability, agitation, dizziness, sensory disturbances (e.g., paresthesia, such as electric shock sensations), anxiety, confusion, headache, lethargy, emotional lability, insomnia, hypomania, tinnitus, and seizures.
-While these events are generally self-limiting, there have been reports of serious discontinuation symptoms.
-
-Patients should be monitored for these symptoms when discontinuing treatment with desvenlafaxine.
-A gradual reduction in the dose rather than abrupt cessation is recommended whenever possible.
-If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment, then resuming the previously prescribed dose may be considered.
-Subsequently, the physician may continue decreasing the dose, but at a more gradual rate [see DOSAGE AND ADMINISTRATION (2.4) and ADVERSE REACTIONS (6.1)].
+Adverse reactions after discontinuation of serotonergic antidepressants, particularly after abrupt discontinuation, include: nausea, sweating, dysphoric mood, irritability, agitation, dizziness, sensory disturbances (e.g., paresthesia, such as electric shock sensations), tremor, anxiety, confusion, headache, lethargy, emotional lability, insomnia, hypomania, tinnitus, and seizures.
+A gradual reduction in dosage rather than abrupt cessation is recommended whenever possible [see DOSAGE AND ADMINISTRATION (2.4) and, ADVERSE REACTIONS (6.1)].
 
 ## 5.8 Seizure
 
@@ -127,7 +121,7 @@ Hyponatremia may occur as a result of treatment with SSRIs and SNRIs, including 
 In many cases, this hyponatremia appears to be the result of the syndrome of inappropriate antidiuretic hormone secretion (SIADH).
 Cases with serum sodium lower than 110 mmol/L have been reported.
 Elderly patients may be at greater risk of developing hyponatremia with SSRIs and SNRIs.
-Also, patients taking diuretics or who are otherwise volume depleted can be at greater risk [see USE IN SPECIFIC POPULATIONS (8.5) and CLINICAL PHARMACOLOGY (12.6)].
+Also, patients taking diuretics or who are otherwise volume depleted can be at greater risk [see USE IN SPECIFIC POPULATIONS (8.5) and CLINICAL PHARMACOLOGY (12.3)].
 Discontinuation of desvenlafaxine should be considered in patients with symptomatic hyponatremia and appropriate medical intervention should be instituted.
 
 Signs and symptoms of hyponatremia include headache, difficulty concentrating, memory impairment, confusion, weakness, and unsteadiness, which can lead to falls.

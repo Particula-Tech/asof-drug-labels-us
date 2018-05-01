@@ -20,6 +20,6 @@ NDC 68180-593-02, bottle of 500 tablets
 
 Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 
-Each tablet contains 76 mg or 152 mg of desvenlafaxine succinate monohydrate equivalent to 50 mg or 100 mg of desvenlafaxine, respectively.
+Each tablet contains 76 mg or 152 mg of desvenlafaxine succinate monohydrate equivalent to
 
-The unit-of-use package is intended to be dispensed as a unit.
+50 mg or 100 mg of desvenlafaxine, respectively.
