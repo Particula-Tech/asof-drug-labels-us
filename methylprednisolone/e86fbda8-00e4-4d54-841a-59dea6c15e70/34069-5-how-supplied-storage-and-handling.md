@@ -10,11 +10,23 @@ Methylprednisolone sodium succinate for injection, USP is supplied as a white to
 
 25 vials in 1 carton NDC 70121-1001-5
 
-Manufactured by: Amneal Pharmaceuticals Pvt.
-Ltd. Parenteral Unit Plot No. 15, PHARMEZ Special Economic Zone, Sarkhej-Bavla N.H.
-No. 8A, Vil.: Matoda, Tal.: Sanand, Ahmedabad, Gujarat 382213, India
+This product’s label may have been updated.
+For current full prescribing information, please visit www.amneal.com.
 
-Distributed by: Amneal Biosciences Bridgewater, NJ 08807
+Manufactured by:
+
+Amneal Pharmaceuticals Pvt.
+Ltd.
+
+Parenteral Unit
+
+Ahmedabad 382213, INDIA
+
+Distributed by:
+
+Amneal Biosciences LLC
+
+Bridgewater, NJ 08807
 
 Rev.
-11-2016-00
+04-2018-01
