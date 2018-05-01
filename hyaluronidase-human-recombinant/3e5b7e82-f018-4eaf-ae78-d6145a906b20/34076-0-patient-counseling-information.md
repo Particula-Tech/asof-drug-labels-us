@@ -40,12 +40,12 @@ Inform patients of the need for healthcare providers to monitor kidney function 
 
 Bowel Obstruction and Perforation
 
-Advise patients to contact their healthcare provider immediately for sign and symptoms of bowel obstruction and perforation, including severe abdominal pain or repeated vomiting [see Warnings and Precautions (5.9)].
+Advise patients to contact their healthcare provider immediately for signs and symptoms of bowel obstruction and perforation, including severe abdominal pain or repeated vomiting [see Warnings and Precautions (5.9)].
 
 Embryo-Fetal Toxicity
 
 Advise a pregnant woman of the potential risk to a fetus.
-Advise female patients that rituximab containing products can cause fetal harm if taken during pregnancy and to use effective contraception during treatment with RITUXAN HYCELA and for at least 12 months after the last dose of RITUXAN HYCELA.
+Advise female patients that rituximab-containing products can cause fetal harm if taken during pregnancy and to use effective contraception during treatment with RITUXAN HYCELA and for at least 12 months after the last dose of RITUXAN HYCELA.
 Advise patients to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions (5.11) and Use in Specific Populations (8.1, 8.3)].
 
 Lactation

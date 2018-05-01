@@ -19,7 +19,7 @@ Ninety percent of patients completed all 8 cycles of combination treatment with 
 Median treatment duration was 27.1 months in both groups.
 The median number of cycles received was 20 in both groups.
 
-The PK results for the primary endpoint in Stage 1, rituximab Ctrough at Cycle 7 (i.e., 21 days after Cycle 7 rituximab administration), demonstrated that RITUXAN HYCELA 1,400 mg/23,400 Units was non-inferior compared with rituximab at 375 mg/m2 in patients receiving combination treatment with chemotherapy[see Clinical Pharmacology (12.3)].
+The PK results for the primary endpoint in Stage 1, rituximab Ctrough at Cycle 7 (i.e., 21 days after Cycle 7 rituximab administration), demonstrated that RITUXAN HYCELA 1,400 mg/23,400 Units was non-inferior compared with rituximab at 375 mg/m2 in patients receiving combination treatment with chemotherapy [see Clinical Pharmacology (12.3)].
 The efficacy results for RITUXAN HYCELA were comparable with rituximab and are presented in Table 6.
 
 Table 6: Efficacy Results for SABRINA Study
@@ -51,7 +51,7 @@ Table 6: Efficacy Results for SABRINA Study
 ## 14.2 Diffuse Large B-Cell Lymphoma (DLBCL)
 
 The MabEase study [NCT01649856] enrolled a total of 576 patients with previously untreated CD20-positive DLBCL.
-Patients were randomized (2:1) to receive either a rituximab product by intravenous infusion, 375 mg/m2 for 8 cycles or 1 cycle of an rituximab product by intravenous infusion 375 mg/m2 followed by 7 cycles of RITUXAN HYCELA 1,400 mg/23,400 Units (1,400 mg rituximab and 23,400 Units hyaluronidase human), both in combination with up to 6–8 cycles of CHOP chemotherapy, every 14 (CHOP-14) or 21 days (CHOP-21).
+Patients were randomized (2:1) to receive either a rituximab product by intravenous infusion, 375 mg/m2 for 8 cycles or 1 cycle of a rituximab product by intravenous infusion 375 mg/m2 followed by 7 cycles of RITUXAN HYCELA 1,400 mg/23,400 Units (1,400 mg rituximab and 23,400 Units hyaluronidase human), both in combination with up to 6–8 cycles of CHOP chemotherapy, every 14 (CHOP-14) or 21 days (CHOP-21).
 Randomization was stratified by: age (< 60 years, ≥ 60 years), International Prognostic Index (IPI) risk category (low, low-intermediate, high-intermediate, high), and chemotherapy regimen (CHOP-21 or CHOP-14).
 The main outcome measure was investigator-assessed complete response rate (CR/CRu) at the end of combination treatment with chemotherapy.
 Additional outcome measures were time-to-event endpoints (PFS and OS).
