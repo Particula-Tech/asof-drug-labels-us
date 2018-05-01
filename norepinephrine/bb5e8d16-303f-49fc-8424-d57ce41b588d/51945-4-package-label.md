@@ -1,14 +1,14 @@
 # PRINCIPAL DISPLAY PANEL - 4 mL Ampule Label
 
-RL-4157
+RL10020
 
-NDC 0409-1443-25 Rx only 4 mL
+NDC 0409-1443-55 Rx only 4 mL
 
 Levophed™ norepinephrine bitartrate injection, USP
 
 4 mg/4 mL (1 mg/mL)
 
-FOR IV INFUSION ONLY.
+FOR INTRAVENOUS INFUSION ONLY.
 
 Each mL contains norepinephrine bitartrate equal to 1 mg norepinephrine base.
 
