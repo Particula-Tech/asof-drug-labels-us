@@ -1,9 +1,13 @@
-# PRINCIPAL DISPLAY PANEL - 50 mL Bottle Label
+# PRINCIPAL DISPLAY PANEL - 50 mL Vial Label
 
-NDC 42023-130-06
+NDC42023-130-06
 
 Pitocin® (Oxytocin Injection, USP) Synthetic
 
-10 units per mL 50 mL
+500 units/50 mL (10 units/mL)
 
 Pharmacy Bulk Package - Not for Direct Infusion
+
+For Intravenous Infusion or Intramuscular Injection
+
+50 mL Vial

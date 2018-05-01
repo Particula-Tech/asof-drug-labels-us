@@ -2,8 +2,10 @@ Pharmacy Bulk Package – Not for Direct Infusion
 
 Rx only.
 
-Prescribing Information as of March 2013.
+Distributed by: Par Pharmaceutical Chestnut Ridge, NY 10977
 
-Manufactured and Distributed by: JHP Pharmaceuticals, LLC, Rochester, MI 48307
+R01/18
 
-3003253A
+OS130J-01-90-02
+
+3003253C
