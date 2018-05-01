@@ -2,7 +2,7 @@
 
 The following adverse reactions are discussed in other sections of the labeling:
 
-Hepatotoxicity [see Warnings and Precautions (5.2)].
+- Hepatotoxicity [see Warnings and Precautions (5.2)].
 
 ## 6.1 Clinical Trials Experience
 
@@ -12,7 +12,7 @@ Additionally, because many subjects who participated in clinical trials with ato
 
 PCP Prevention Trials
 
-In two clinical trials, atovaquone oral suspension was compared with dapsone or aerosolized pentamidine in HIV-1-infected adolescent (13 to 18 years) and adult subjects at risk of PCP (CD4 count <200 cells/mm3 or a prior episode of PCP) and unable to tolerate TMP-SMX.
+In 2 clinical trials, atovaquone oral suspension was compared with dapsone or aerosolized pentamidine in HIV-1-infected adolescent (13 to 18 years) and adult subjects at risk of PCP (CD4 count <200 cells/mm3 or a prior episode of PCP) and unable to tolerate TMP-SMX.
 
 Dapsone Comparative Trial: In the dapsone comparative trial (n = 1,057), the majority of subjects were white (64%), male (88%), and receiving prophylaxis for PCP at randomization (73%); the mean age was 38 years.
 Subjects received atovaquone oral suspension 1,500 mg once daily (n = 536) or dapsone 100 mg once daily (n = 521); median durations of exposure were 6.7 and 6.5 months, respectively.

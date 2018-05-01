@@ -37,7 +37,7 @@ Trial results did not show superiority of atovaquone to the comparator.
 
 c The confidence level of the interval for the dapsone comparative trial was 95% and for the pentamidine comparative trial was 97.5%.
 
-An analysis of all PCP events (intent-to-treat analysis) for both trials showed results similar to those shown in Table 7.c
+An analysis of all PCP events (intent-to-treat analysis) for both trials showed results similar to those shown in Table 7.
 
 ## 14.2 Treatment of PCP
 
@@ -45,7 +45,7 @@ The indication for treatment of mild-to-moderate PCP is based on the results of 
 Both trials were conducted with the tablet formulation using 750 mg three times daily.
 Results from these efficacy trials established a relationship between plasma atovaquone concentration and successful outcome.
 Successful outcome was defined as improvement in clinical and respiratory measures persisting at least 4 weeks after cessation of therapy.
-Comparative pharmacokinetic trials of the suspension and tablet formulations established the currently recommended suspension dose of 750 mg twice daily [see Clinical Pharmacology (12.3)].
+Comparative pharmacokinetic trials of the oral suspension and tablet formulations established the currently recommended oral suspension dose of 750 mg twice daily [see Clinical Pharmacology (12.3)].
 
 TMP-SMX Comparative Trial
 
@@ -86,13 +86,13 @@ The failure rate due to lack of response was significantly higher for subjects r
 
 Pentamidine Comparative Trial
 
-This unblinded, randomized trial was designed to compare the safety and efficacy of atovaquone with that of pentamidine for the treatment of histologically confirmed mild or moderate PCP in subjects with HIV/AIDS.
+This unblinded, randomized trial was designed to compare the safety and efficacy of atovaquone with that of pentamidine for the treatment of histologically- confirmed mild or moderate PCP in subjects with HIV/AIDS.
 Approximately 80% of the subjects either had a history of intolerance to trimethoprim or sulfa antimicrobials (the primary therapy group) or were experiencing intolerance to TMP-SMX with treatment of an episode of PCP at the time of enrollment in the trial (the salvage treatment group).
 A total of 174 subjects were enrolled into the trial.
 Subjects were randomized to receive atovaquone 750 mg (three 250-mg tablets) 3 times daily for 21 days or pentamidine isethionate 3- to 4-mg/kg single IV infusion daily for 21 days.
 The majority of subjects were white (72%) and male (97%); the mean age was approximately 37 years.
 Thirty-nine subjects without histologic confirmation of PCP were excluded from the efficacy analyses.
-Of the 135 subjects with histologically confirmed PCP, 70 were randomized to receive atovaquone and 65 to pentamidine.
+Of the 135 subjects with histologically-confirmed PCP, 70 were randomized to receive atovaquone and 65 to pentamidine.
 One hundred and ten (110) of these were in the primary therapy group and 25 were in the salvage therapy group.
 One subject in the primary therapy group randomized to receive pentamidine did not receive trial medication.
 

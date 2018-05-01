@@ -29,7 +29,7 @@ The minimum plasma atovaquone concentration (Cmin) associated with the 750-mg tw
 
 Distribution
 
-Following IV administration of atovaquone, the volume of distribution at steady state (Vdss) was
+Following IV administration of atovaquone, the volume of distribution at steady-state (Vdss) was
 
 0.60 ± 0.17 L/kg (n = 9).
 Atovaquone is extensively bound to plasma proteins (99.9%) over the concentration range of 1 to 90 mcg/mL.
@@ -56,7 +56,7 @@ Analysis of these data established a relationship between plasma atovaquone conc
 Table 6.
 Relationship between Plasma Atovaquone Concentration and Successful Treatment
 
-| Steady-state Plasma Atovaquone Concentrations mcg/mL) | Successful Treatmenta No. Successes/No. in Group (%) |  |  |  |
+| Steady-state Plasma Atovaquone Concentrations (mcg/mL) | Successful Treatmenta No. Successes/No. in Group (%) |  |  |  |
 | --- | --- | --- | --- | --- |
 | Observed |  | Predictedb |  |  |
 | 0 to <5 | 0/6 | 0% | 1.5/6 | 25% |
@@ -72,7 +72,7 @@ This analysis was based on data from subjects for whom both outcome and steady-s
 
 b Based on logistic regression analysis.
 
-A dosing regimen of atovaquone oral suspension for the treatment of mild-to-moderate PCP was selected to achieve average plasma atovaquone concentrations of approximately 20 mcg/mL, because this plasma concentration was previously shown to be well tolerated and associated with the highest treatment success rates (Table 6).
+A dosing regimen of atovaquone oral suspension for the treatment of mild-to-moderate PCP was selected to achieve average plasma atovaquone concentrations of approximately 20 mcg/mL, because this plasma concentration was previously shown to be well-tolerated and associated with the highest treatment success rates (Table 6).
 In an open-label PCP treatment trial with atovaquone oral suspension, dosing regimens of 1,000 mg once daily, 750 mg twice daily, 1,500 mg once daily, and 1,000 mg twice daily were explored.
 The average steady-state plasma atovaquone concentration achieved at the 750-mg twice-daily dose given with meals was 22 ± 10.1 mcg/mL (n = 18).
 
@@ -89,7 +89,7 @@ Metoclopramide: Concomitant treatment with metoclopramide has been associated wi
 Indinavir: Concomitant administration of atovaquone (750 mg twice daily with food for 14 days) and indinavir (800 mg three times daily without food for 14 days) did not result in any change in the steady-state AUC and Cmax of indinavir, but resulted in a decrease in the Ctrough of indinavir (23% decrease [90% CI: 8%, 35%]).
 
 Trimethoprim/Sulfamethoxazole: The possible interaction between atovaquone and TMP-SMX was evaluated in 6 HIV-1-infected adult volunteers as part of a larger multiple-dose, dose-escalation, and chronic dosing trial of atovaquone oral suspension.
-In this crossover trial, atovaquone oral suspension 500 mg once daily (not the approved dosage), or TMP-SMX tablets (trimethoprim 160 mg and sulfamethoxazole 800 mg) twice daily, or the combination were administered with food to achieve steady state.
+In this crossover trial, atovaquone oral suspension 500 mg once daily (not the approved dosage), or TMP-SMX tablets (trimethoprim 160 mg and sulfamethoxazole 800 mg) twice daily, or the combination were administered with food to achieve steady-state.
 No difference was observed in the average steady-state plasma atovaquone concentration after co-administration with TMP-SMX.
 Co-administration of atovaquone with TMP-SMX resulted in a 17% and 8% decrease in average steady-state concentrations of trimethoprim and sulfamethoxazole in plasma, respectively.
 
@@ -103,7 +103,7 @@ Zidovudine had no effect on atovaquone pharmacokinetics.
 Mechanism of Action
 
 Atovaquone is a hydroxy-1,4-naphthoquinone, an analog of ubiquinone, with antipneumocystis activity.
-The mechanism of action against Pneumocystis jiroveci has not been fully elucidated.
+The mechanism of action against Pneumocystis jirovecii has not been fully elucidated.
 In Plasmodium species, the site of action appears to be the cytochrome bc1 complex (Complex III).
 Several metabolic enzymes are linked to the mitochondrial electron transport chain via ubiquinone.
 Inhibition of electron transport by atovaquone results in indirect inhibition of these enzymes.
@@ -111,10 +111,10 @@ The ultimate metabolic effects of such blockade may include inhibition of nuclei
 
 Activity In Vitro
 
-Several laboratories, using different in vitro methodologies, have shown the IC50 (50% inhibitory concentration) of atovaquone against P. jiroveci to be 0.1 to 3 mcg/mL.
+Several laboratories, using different in vitro methodologies, have shown the IC50 (50% inhibitory concentration) of atovaquone against P. jirovecii to be 0.1 to 3 mcg/mL.
 
 Drug Resistance
 
-Phenotypic resistance to atovaquone in vitro has not been demonstrated for P. jiroveci.
-However, in 2 subjects who developed PCP after prophylaxis with atovaquone, DNA sequence analysis identified mutations in the predicted amino acid sequence of P. jiroveci cytochrome b (a likely target site for atovaquone).
+Phenotypic resistance to atovaquone in vitro has not been demonstrated for P. jirovecii.
+However, in 2 subjects who developed PCP after prophylaxis with atovaquone, DNA sequence analysis identified mutations in the predicted amino acid sequence of P. jirovecii cytochrome b (a likely target site for atovaquone).
 The clinical significance of this is unknown.

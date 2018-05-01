@@ -36,7 +36,7 @@ Average Steady-state Plasma Atovaquone Concentrations in Pediatric Subjects
 | >3 to 24 months | 5.7 ± 5.1 (n = 4) | 9.8 ± 3.2 (n = 4) | 15.4 ± 6.6 (n = 4) |
 | >2 to 13 years | 16.8 ± 6.4 (n = 4) | 37.1 ± 10.9 (n = 3) | _ |
 
-Css = Concentration at steady state.
+Css = Concentration at steady-state.
 
 ## 8.5 Geriatric Use
 

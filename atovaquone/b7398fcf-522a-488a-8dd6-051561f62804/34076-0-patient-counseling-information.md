@@ -8,7 +8,9 @@ Instruct patients to:
 - Take their daily doses of atovaquone oral suspension with food, as food will significantly improve the absorption of the drug.
 - Shake atovaquone oral suspension gently before use each time.
 
-Manufactured by: Amneal Pharmaceuticals Bridgewater, NJ 08807
+Distributed by:
+
+Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-11-2015-01
+12-2017-02
