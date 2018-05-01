@@ -62,7 +62,7 @@ Other less common reactions included decreased hematocrit, headache, upper respi
 There are no recent placebo-controlled trials in patients with psoriasis.
 There are two literature reports (Roenigk, 1969, and Nyfors, 1978) describing large series (n=204, 248) of psoriasis patients treated with methotrexate.
 Dosages ranged up to 25 mg per week and treatment was administered for up to four years.
-With the exception of alopecia, photosensitivity, and “burning of skin lesions” (each 3% to 10%), the adverse reaction rates in these reports were very similar to those in the rheumatoid arthritis studies.
+With the exception of alopecia, photosensitivity, and "burning of skin lesions" (each 3% to 10%), the adverse reaction rates in these reports were very similar to those in the rheumatoid arthritis studies.
 Rarely, painful plaque erosions may appear (Pearce, HP and Wilson, BB: Am Acad Dermatol 35: 835-838, 1996).
 
 ## Adverse Reactions in JRA Studies

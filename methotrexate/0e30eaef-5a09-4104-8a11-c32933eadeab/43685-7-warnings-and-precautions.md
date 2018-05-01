@@ -81,12 +81,16 @@ However, high doses of leucovorin may reduce the efficacy of intrathecally admin
 Folate deficiency states may increase methotrexate toxicity.
 Trimethoprim/sulfamethoxazole has been reported rarely to increase bone marrow suppression in patients receiving methotrexate, probably by decreased tubular secretion and/or an additive antifolate effect.
 
+The use of nitrous oxide anesthesia potentiates the effect of methotrexate on folate-dependent metabolic pathways, resulting in the potential for increased toxicity such as stomatitis, myelosuppression, and neurotoxicity.
+Avoid concomitant nitrous oxide anesthesia in patients receiving methotrexate.
+Use caution when administering methotrexate after a recent history of nitrous oxide administration.
+
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 No controlled human data exist regarding the risk of neoplasia with methotrexate.
 Methotrexate has been evaluated in a number of animal studies for carcinogenic potential with inconclusive results.
 Although there is evidence that methotrexate causes chromosomal damage to animal somatic cells and human bone marrow cells, the clinical significance remains uncertain.
-Non-Hodgkin’s lymphoma and other tumors have been reported in patients receiving low-dose oral methotrexate.
+Non-Hodgkin's lymphoma and other tumors have been reported in patients receiving low-dose oral methotrexate.
 However, there have been instances of malignant lymphoma arising during treatment with low-dose oral methotrexate, which have regressed completely following withdrawal of methotrexate, without requiring active anti-lymphoma treatment.
 Benefits should be weighed against the potential risk before using methotrexate alone or in combination with other drugs, especially in pediatric patients or young adults.
 Methotrexate causes embryotoxicity, abortion, and fetal defects in humans.
@@ -111,7 +115,7 @@ For intrathecal and high-dose methotrexate therapy, use the preservative-free fo
 Do not use the preserved formulation of Methotrexate for intrathecal or high-dose therapy because it contains benzyl alcohol.
 
 Use the preservative-free formulation of methotrexate in neonates.
-There have been reports of fatal ‘gasping syndrome’ in neonates (children less than one month of age) following the administration of intravenous solutions containing the preservative benzyl alcohol.
+There have been reports of fatal 'gasping syndrome' in neonates (children less than one month of age) following the administration of intravenous solutions containing the preservative benzyl alcohol.
 Symptoms include a striking onset of gasping respiration, hypotension, bradycardia, and cardiovascular collapse.
 
 Serious neurotoxicity, frequently manifested as generalized or focal seizures, has been reported with unexpectedly increased frequency among pediatric patients with acute lymphoblastic leukemia who were treated with intermediate-dose intravenous methotrexate (1 gm/m2).
@@ -212,4 +216,4 @@ In patients with significant third space accumulations, it is advisable to evacu
 
 Lesions of psoriasis may be aggravated by concomitant exposure to ultraviolet radiation.
 
-Radiation dermatitis and sunburn may be “recalled” by the use of methotrexate.
+Radiation dermatitis and sunburn may be "recalled" by the use of methotrexate.

@@ -6,7 +6,7 @@ WARNINGS
 - •DEATHS HAVE BEEN REPORTED WITH THE USE OF METHOTREXATE IN THE TREATMENT OF MALIGNANCY, PSORIASIS, AND RHEUMATOID ARTHRITIS.
 - •PATIENTS SHOULD BE CLOSELY MONITORED FOR BONE MARROW, LIVER, LUNG AND KIDNEY TOXICITIES.
   (See PRECAUTIONS.)
-- •PATIENTS SHOULD BE INFORMED BY THEIR PHYSICIAN OF THE RISKS INVOLVED AND BE UNDER A PHYSICIAN’S CARE THROUGHOUT THERAPY.
+- •PATIENTS SHOULD BE INFORMED BY THEIR PHYSICIAN OF THE RISKS INVOLVED AND BE UNDER A PHYSICIAN'S CARE THROUGHOUT THERAPY.
 - •THE USE OF METHOTREXATE HIGH-DOSE REGIMENS RECOMMENDED FOR OSTEOSARCOMA REQUIRES METICULOUS CARE.
   (See DOSAGE AND ADMINISTRATION.)
   HIGH-DOSE REGIMENS FOR OTHER NEOPLASTIC DISEASES ARE INVESTIGATIONAL AND A THERAPEUTIC ADVANTAGE HAS NOT BEEN ESTABLISHED.
@@ -31,7 +31,7 @@ WARNINGS
 - •Diarrhea and ulcerative stomatitis require interruption of therapy: otherwise, hemorrhagic enteritis and death from intestinal perforation may occur.
 - •Malignant lymphomas, which may regress following withdrawal of methotrexate, may occur in patients receiving low-dose methotrexate and, thus, may not require cytotoxic treatment.
   Discontinue methotrexate first and, if the lymphoma does not regress, appropriate treatment should be instituted.
-- •Like other cytotoxic drugs, methotrexate may induce “tumor lysis syndrome” in patients with rapidly growing tumors.
+- •Like other cytotoxic drugs, methotrexate may induce "tumor lysis syndrome" in patients with rapidly growing tumors.
   Appropriate supportive and pharmacologic measures may prevent or alleviate this complication.
 - •Severe, occasionally fatal, skin reactions have been reported following single or multiple doses of methotrexate.
   Reactions have occurred within days of oral, intramuscular, intravenous, or intrathecal methotrexate administration.

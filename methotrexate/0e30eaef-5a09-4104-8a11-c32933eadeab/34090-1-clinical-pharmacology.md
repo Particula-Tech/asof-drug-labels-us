@@ -9,7 +9,7 @@ When cellular proliferation in malignant tissues is greater than in most normal 
 The mechanism of action in rheumatoid arthritis is unknown; it may affect immune function.
 Two reports describe in vitro methotrexate inhibition of DNA precursor uptake by stimulated mononuclear cells, and another describes in animal polyarthritis partial correction by methotrexate of spleen cell hyporesponsiveness and suppressed IL 2 production.
 Other laboratories, however, have been unable to demonstrate similar effects.
-Clarification of methotrexate’s effect on immune activity and its relation to rheumatoid immunopathogenesis await further studies.
+Clarification of methotrexate's effect on immune activity and its relation to rheumatoid immunopathogenesis await further studies.
 
 In patients with rheumatoid arthritis, effects of methotrexate on articular swelling and tenderness can be seen as early as 3 to 6 weeks.
 Although methotrexate clearly ameliorates symptoms of inflammation (pain, swelling, stiffness), there is no evidence that it induces remission of rheumatoid arthritis nor has a beneficial effect been demonstrated on bone erosions and other radiologic changes which result in impaired joint use, functional disability, and deformity.
@@ -25,7 +25,7 @@ The original rationale for high-dose methotrexate therapy was based on the conce
 More recent evidence suggests that high-dose methotrexate may also overcome methotrexate resistance caused by impaired active transport, decreased affinity of dihydrofolic acid reductase for methotrexate, increased levels of dihydrofolic acid reductase resulting from gene amplification, or decreased polyglutamation of methotrexate.
 The actual mechanism of action is unknown.
 
-In a 6-month double-blind, placebo-controlled trial of 127 pediatric patients with juvenile rheumatoid arthritis (JRA) (mean age, 10.1 years; age range, 2.5 to 18 years; mean duration of disease, 5.1 years) on background nonsteroidal anti-inflammatory drugs (NSAIDs) and/or prednisone, methotrexate given weekly at an oral dose of 10 mg/m2 provided significant clinical improvement compared to placebo as measured by either the physician’s global assessment, or by a patient composite (25% reduction in the articular-severity score plus improvement in parent and physician global assessments of disease activity).
+In a 6-month double-blind, placebo-controlled trial of 127 pediatric patients with juvenile rheumatoid arthritis (JRA) (mean age, 10.1 years; age range, 2.5 to 18 years; mean duration of disease, 5.1 years) on background nonsteroidal anti-inflammatory drugs (NSAIDs) and/or prednisone, methotrexate given weekly at an oral dose of 10 mg/m2 provided significant clinical improvement compared to placebo as measured by either the physician's global assessment, or by a patient composite (25% reduction in the articular-severity score plus improvement in parent and physician global assessments of disease activity).
 Over two-thirds of the patients in this trial had polyarticular-course JRA, and the numerically greatest response was seen in this subgroup treated with 10 mg/m2/wk methotrexate.
 The overwhelming majority of the remaining patients had systemic-course JRA.
 All patients were unresponsive to NSAIDs; approximately one-third were using low dose corticosteroids.
