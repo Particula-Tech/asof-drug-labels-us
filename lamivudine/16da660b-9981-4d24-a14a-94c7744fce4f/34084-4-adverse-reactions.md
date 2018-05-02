@@ -6,11 +6,11 @@ The following adverse reactions are discussed in other sections of the labeling:
 - •Symptomatic myopathy [see Boxed Warning, Warnings and Precautions (5.2)].
 - •Lactic acidosis and severe hepatomegaly with steatosis [see Boxed Warning, Warnings and Precautions (5.3)].
 - •Exacerbations of hepatitis B [see Boxed Warning, Warnings and Precautions (5.4)].
-- •Hepatic decompensation in patients co-infected with HIV-1 and hepatitis C [see Warnings and Precautions (5.5)].
-- •Exacerbation of anemia in HIV-1/HCV co-infected patients receiving ribavirin and zidovudine [see Warnings and Precautions (5.5)].
+- •Hepatic decompensation in patients co-infected with HIV‑1 and hepatitis C [see Warnings and Precautions (5.5)].
+- •Exacerbation of anemia in HIV‑1/HCV co-infected patients receiving ribavirin and zidovudine [see Warnings and Precautions (5.5)].
 - •Pancreatitis [see Warnings and Precautions (5.6)].
 - •Immune reconstitution syndrome [see Warnings and Precautions (5.7)].
-- •Fat redistribution [see Warnings and Precautions (5.8)].
+- •Lipoatrophy [see Warnings and Precautions (5.8)].
 
 ## 6.1 Clinical Trials Experience
 
@@ -61,9 +61,9 @@ Frequencies of Selected Laboratory Abnormalities among Adults in 4 Controlled Cl
 
 | Test(Abnormal Level) | EPIVIR plus RETROVIR% (n) |
 | --- | --- |
-| Neutropenia (ANC<750/mm3) | 7.2% (237) |
-| Anemia (Hgb<8.0 g/dL) | 2.9% (241) |
-| Thrombocytopenia (platelets<50,000/mm3) | 0.4% (240) |
+| Neutropenia (ANC <750/mm3) | 7.2% (237) |
+| Anemia (Hgb <8.0 g/dL) | 2.9% (241) |
+| Thrombocytopenia (platelets <50,000/mm3) | 0.4% (240) |
 | ALT (>5.0 x ULN) | 3.7% (241) |
 | AST (>5.0 x ULN) | 1.7% (241) |
 | Bilirubin (>2.5 x ULN) | 0.8% (241) |
@@ -124,4 +124,4 @@ Abnormal breath sounds/wheezing.
 
 Skin
 
-Alopecia, erythema multiforme, Stevens-Johnson syndrome.
+Alopecia, erythema multiforme, Stevens‑Johnson syndrome.

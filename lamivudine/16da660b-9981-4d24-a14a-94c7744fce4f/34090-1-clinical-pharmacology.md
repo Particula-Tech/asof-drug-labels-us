@@ -8,7 +8,7 @@ COMBIVIR is an antiretroviral agent [see Microbiology (12.4)].
 
 Pharmacokinetics in Adults
 
-One COMBIVIR tablet was bioequivalent to 1 EPIVIR tablet (150 mg) plus 1 RETROVIR tablet (300 mg) following single-dose administration to fasting healthy subjects (n = 24).
+One COMBIVIR tablet was bioequivalent to 1 EPIVIR tablet (150 mg) plus 1 RETROVIR tablet (300 mg) following single‑dose administration to fasting healthy subjects (n = 24).
 
 Lamivudine: Following oral administration, lamivudine is rapidly absorbed and extensively distributed.
 Binding to plasma protein is low.
@@ -20,10 +20,10 @@ Zidovudine: Following oral administration, zidovudine is rapidly absorbed and ex
 Binding to plasma protein is low.
 Zidovudine is eliminated primarily by hepatic metabolism.
 The major metabolite of zidovudine is GZDV.
-GZDV area under the curve (AUC) is about 3-fold greater than the zidovudine AUC.
+GZDV area under the curve (AUC) is about 3‑fold greater than the zidovudine AUC.
 Urinary recovery of zidovudine and GZDV accounts for 14% and 74% of the dose following oral administration, respectively.
 A second metabolite, 3′-amino-3′-deoxythymidine (AMT), has been identified in plasma.
-The AMT AUC was one fifth of the zidovudine AUC.
+The AMT AUC was one-fifth of the zidovudine AUC.
 
 In humans, lamivudine and zidovudine are not significantly metabolized by cytochrome P450 enzymes.
 
@@ -52,11 +52,11 @@ The lamivudine and zidovudine AUC following administration of COMBIVIR with food
 
 Specific Populations
 
-Renal Impairment: COMBIVIR: The effect of renal impairment on the combination of lamivudine and zidovudine has not been evaluated (see the U.S. prescribing information for the individual lamivudine and zidovudine components).
+Patients with Renal Impairment: COMBIVIR: The effect of renal impairment on the combination of lamivudine and zidovudine has not been evaluated (see the U.S. prescribing information for the individual lamivudine and zidovudine components).
 
-Hepatic Impairment: COMBIVIR: The effect of hepatic impairment on the combination of lamivudine, and zidovudine has not been evaluated (see the U.S. prescribing information for the individual lamivudine and zidovudine components).
+Patients with Hepatic Impairment: COMBIVIR: The effect of hepatic impairment on the combination of lamivudine, and zidovudine has not been evaluated (see the U.S. prescribing information for the individual lamivudine and zidovudine components).
 
-Pregnancy: Lamivudine: Lamivudine pharmacokinetics were studied in 36 pregnant women during 2 clinical trials conducted in South Africa.
+Pregnant Women: Lamivudine: Lamivudine pharmacokinetics were studied in 36 pregnant women during 2 clinical trials conducted in South Africa.
 Lamivudine pharmacokinetics in pregnant women were similar to those seen in non-pregnant adults and in postpartum women.
 Lamivudine concentrations were generally similar in maternal, neonatal, and umbilical cord serum samples.
 
@@ -66,32 +66,28 @@ Consistent with passive transmission of the drug across the placenta, zidovudine
 
 Although data are limited, methadone maintenance therapy in 5 pregnant women did not appear to alter zidovudine pharmacokinetics.
 
-Geriatric Patients
+Geriatric Patients: The pharmacokinetics of lamivudine and zidovudine have not been studied in subjects over 65 years of age.
 
-The pharmacokinetics of lamivudine and zidovudine have not been studied in subjects over 65 years of age.
+Male and Female Patients: There are no significant or clinically relevant gender differences in the pharmacokinetics of the individual components (lamivudine or zidovudine) based on the available information that was analyzed for each of the individual components.
 
-Gender
-
-There are no significant or clinically relevant gender differences in the pharmacokinetics of the individual components (lamivudine or zidovudine) based on the available information that was analyzed for each of the individual components.
-
-Race
-
-Lamivudine: There are no significant or clinically relevant racial differences in lamivudine pharmacokinetics based on the available information that was analyzed for the individual lamivudine component.
+Racial Groups: Lamivudine: There are no significant or clinically relevant racial differences in lamivudine pharmacokinetics based on the available information that was analyzed for the individual lamivudine component.
 
 Zidovudine: The pharmacokinetics of zidovudine with respect to race have not been determined.
 
-Drug Interactions
+Drug Interaction Studies
 
 No drug interaction trials have been conducted using COMBIVIR tablets.
 
 Lamivudine and Zidovudine: No clinically significant alterations in lamivudine or zidovudine pharmacokinetics were observed in 12 asymptomatic HIV‑1-infected adult subjects given a single dose of zidovudine (200 mg) in combination with multiple doses of lamivudine (300 mg every 12 hours).
 
-Other Interactions
-
 Interferon Alfa: There was no significant pharmacokinetic interaction between lamivudine and interferon alfa in a trial of 19 healthy male subjects.
 
 Ribavirin: In vitro data indicate ribavirin reduces phosphorylation of lamivudine, stavudine, and zidovudine.
 However, no pharmacokinetic (e.g., plasma concentrations or intracellular triphosphorylated active metabolite concentrations) or pharmacodynamic (e.g., loss of HIV‑1/HCV virologic suppression) interaction was observed when ribavirin and lamivudine (n = 18), stavudine (n = 10), or zidovudine (n = 6) were coadministered as part of a multi-drug regimen to HIV‑1/HCV co‑infected subjects.
+
+Sorbitol (Excipient): Lamivudine and sorbitol solutions were coadministered to 16 healthy adult subjects in an open-label, randomized-sequence, 4-period, crossover trial.
+Each subject received a single 300-mg dose of lamivudine oral solution alone or coadministered with a single dose of 3.2 grams, 10.2 grams, or 13.4 grams of sorbitol in solution.
+Coadministration of lamivudine with sorbitol resulted in dose-dependent decreases of 20%, 39%, and 44% in the AUC(0-24); 14%, 32%, and 36% in the AUC(∞); and 28%, 52%, and 55% in the Cmax: of lamivudine, respectively.
 
 Table 4 presents drug interaction information for the individual components of COMBIVIR.
 
@@ -103,13 +99,13 @@ Effect of Coadministered Drugs on Lamivudine and Zidovudine AUCa
 | AUC | Variability |  |  |  |  |
 | Nelfinavir 750 mg every 8 h x 7 to 10 days | Lamivudinesingle 150 mg | 11 | ↑10% | 95% CI:1% to 20% | ↔ |
 | Trimethoprim 160 mg/ Sulfamethoxazole 800 mg daily x 5 days | Lamivudinesingle 300 mg | 14 | ↑43% | 90% CI:32% to 55% | ↔ |
-| Atovaquone 750 mg every 12 h with food | Zidovudine200 mg every 8 h | 14 | ↑31% | Range:23% to 78%b | ↔ |
+| Atovaquone 750 mg every 12 hwith food | Zidovudine200 mg every 8 h | 14 | ↑31% | Range:23% to 78%b | ↔ |
 | Clarithromycin 500 mg twice daily | Zidovudine 100 mg every 4 h x 7 days | 4 | ↓12% | Range:↓34% to ↑14% | Not Reported |
 | Fluconazole 400 mg daily | Zidovudine 200 mg every 8 h | 12 | ↑74% | 95% CI:54% to 98% | Not Reported |
 | Methadone 30 to 90 mg daily | Zidovudine 200 mg every 4 h | 9 | ↑43% | Range:16% to 64%b | ↔ |
 | Nelfinavir 750 mg every 8 h x 7 to 10 days | Zidovudine single 200 mg | 11 | ↓35% | Range:28% to 41% | ↔ |
 | Probenecid 500 mg every 6 h x 2 days | Zidovudine 2 mg/kg every 8 h x 3 days | 3 | ↑106% | Range:100% to 170%b | Not Assessed |
-| Rifampin 600 mg daily x 14 days | Zidovudine 200 mg every 8 h x 14 days | 8 | ↓47% | 90% CI:41% to 53% | Not Assessed |
+| Rifampin 600 mg daily x14 days | Zidovudine 200 mg every 8 h x 14 days | 8 | ↓47% | 90% CI:41% to 53% | Not Assessed |
 | Ritonavir 300 mg every 6 h x 4 days | Zidovudine 200 mg every 8 h x 4 days | 9 | ↓25% | 95% CI:15% to 34% | ↔ |
 | Valproic acid 250 mg or 500 mg every 8 h x 4 days | Zidovudine 100 mg every 8 h x 4 days | 6 | ↑80% | Range:64% to 130%b | Not Assessed |
 | ↑ = Increase; ↓= Decrease; ↔ = No significant change; AUC = Area under the concentration versus time curve; CI = Confidence interval. |  |  |  |  |  |
@@ -121,16 +117,16 @@ Effect of Coadministered Drugs on Lamivudine and Zidovudine AUCa
 Mechanism of Action
 
 Lamivudine: Lamivudine is a synthetic nucleoside analogue.
-Intracellularly, lamivudine is phosphorylated to its active 5′-triphosphate metabolite, lamivudine triphosphate (3TC-TP).
-The principal mode of action of 3TC-TP is inhibition of reverse transcriptase (RT) via DNA chain termination after incorporation of the nucleotide analogue.
+Intracellularly, lamivudine is phosphorylated to its active 5′-triphosphate metabolite, lamivudine triphosphate (3TC‑TP).
+The principal mode of action of 3TC‑TP is inhibition of reverse transcriptase (RT) via DNA chain termination after incorporation of the nucleotide analogue.
 
 Zidovudine: Zidovudine is a synthetic nucleoside analogue.
-Intracellularly, zidovudine is phosphorylated to its active 5′-triphosphate metabolite, zidovudine triphosphate (ZDV-TP).
-The principal mode of action of ZDV-TP is inhibition of RT via DNA chain termination after incorporation of the nucleotide analogue.
+Intracellularly, zidovudine is phosphorylated to its active 5′-triphosphate metabolite, zidovudine triphosphate (ZDV‑TP).
+The principal mode of action of ZDV‑TP is inhibition of RT via DNA chain termination after incorporation of the nucleotide analogue.
 
 Antiviral Activity
 
-Lamivudine plus Zidovudine: In HIV-1–infected MT‑4 cells, lamivudine in combination with zidovudine at various ratios was not antagonistic.
+Lamivudine plus Zidovudine: In HIV‑1-infected MT‑4 cells, lamivudine in combination with zidovudine at various ratios was not antagonistic.
 
 Lamivudine: The antiviral activity of lamivudine against HIV‑1 was assessed in a number of cell lines including monocytes and fresh human peripheral blood lymphocytes (PBMCs) using standard susceptibility assays.
 EC50 values were in the range of 0.003 to 15 microM (1 microM = 0.23 mcg per mL).

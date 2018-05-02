@@ -18,3 +18,10 @@ Coadministration with the following drugs may increase the hematologic toxicity 
 - •Interferon alfa
 - •Ribavirin
 - •Other bone marrow suppressive or cytotoxic agents
+
+## 7.2 Lamivudine
+
+Sorbitol
+
+Coadministration of single doses of lamivudine and sorbitol resulted in a sorbitol dose-dependent reduction in lamivudine exposures.
+When possible, avoid use of sorbitol-containing medicines with lamivudine-containing medicines [see Clinical Pharmacology (12.3)].
