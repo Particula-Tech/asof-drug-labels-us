@@ -8,9 +8,9 @@ ADD-Vantage® is a registered trademark of Hospira Inc.
 
 CLEOCIN PHOSPHATE IV Solution in GALAXY plastic containers is manufactured for Pfizer Inc by Baxter Healthcare Corporation, Deerfield, IL 60015.
 
-Galaxy and Mini-bag are registered trademarks of Baxter International Inc.
+Galaxy and Mini-Bag are registered trademarks of Baxter International Inc.
 
 This product's label may have been updated.
 For current full prescribing information, please visit www.pfizer.com.
 
-LAB-0044-18.0 September 2017
+LAB-0044-19.0 April 2018
