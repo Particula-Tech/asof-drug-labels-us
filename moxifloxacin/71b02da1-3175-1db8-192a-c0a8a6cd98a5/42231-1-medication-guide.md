@@ -4,6 +4,8 @@ MEDICATION GUIDE
 
 Moxifloxacin Hydrochloride Tablets
 
+(mox'' i flox' a sin hye'' droe klor' ide)
+
 Read the Medication Guide that comes with moxifloxacin hydrochloride tablets before you start taking it and each time you get a refill.
 There may be new information.
 This Medication Guide does not take the place of talking to your healthcare provider about your medical condition or your treatment.
@@ -314,7 +316,7 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally – 500 090 INDIA
 
-Revised: 0217
+Revised: 0317
 
 Dispense the medication guide available at:
 
