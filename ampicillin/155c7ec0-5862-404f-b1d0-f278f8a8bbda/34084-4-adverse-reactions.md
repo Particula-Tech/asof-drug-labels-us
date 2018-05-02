@@ -50,16 +50,16 @@ Blood and Lymphatic System Disorders: Hemolytic anemia, thrombocytopenic purpura
 These reactions are usually reversible on discontinuation of therapy and are believed to be hypersensitivity phenomena.
 Some individuals have developed positive direct Coombs Tests during treatment with UNASYN, as with other beta-lactam antibacterials.
 
-Gastrointestinal Disorders: Abdominal pain, cholestatic hepatitis, cholestasis, hyperbilirubinemia, jaundice, abnormal hepatic function, melena, gastritis, stomatitis, dyspepsia, black "hairy" tongue and Clostridium difficileassociated diarrhea (see CONTRAINDICATIONS and WARNINGS sections).
+Gastrointestinal Disorders: Abdominal pain, cholestatic hepatitis, cholestasis, hyperbilirubinemia, jaundice, abnormal hepatic function, melena, gastritis, stomatitis, dyspepsia, black "hairy" tongue, and Clostridium difficile associated diarrhea (see CONTRAINDICATIONS and WARNINGS sections).
 
-General Disorders and Administration Site Conditions: Fatigue, malaise, and injection site reaction
+General Disorders and Administration Site Conditions: Injection site reaction
 
-Immune System Disorders: Serious and fatal hypersensitivity (anaphylactic) reactions (See WARNINGS section), anaphylactic shock.
+Immune System Disorders: Serious and fatal hypersensitivity (anaphylactic) reactions (See WARNINGS section).
 
-Nervous System Disorders: Headache, convulsion, dizziness, somnolence, and sedation
+Nervous System Disorders: Convulsion and dizziness
 
 Renal and Urinary Disorders: Tubulointerstitial nephritis
 
 Respiratory, Thoracic and Mediastinal Disorders: Dyspnea
 
-Skin and Subcutaneous Tissue Disorders: Toxic epidermal necrolysis, Stevens-Johnson syndrome, angioedema, Acute generalized exanthematous pustulosis (AGEP), erythema multiforme, exfoliative dermatitis, urticaria, and dermatitis (see CONTRAINDICATIONS and WARNINGS sections).
+Skin and Subcutaneous Tissue Disorders: Toxic epidermal necrolysis, Stevens-Johnson syndrome, angioedema, Acute generalized exanthematous pustulosis (AGEP), erythema multiforme, exfoliative dermatitis, and urticaria (see CONTRAINDICATIONS and WARNINGS sections).

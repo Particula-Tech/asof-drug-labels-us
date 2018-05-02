@@ -76,7 +76,7 @@ Broth, agar, microdilution or equivalent methods may be used to determine the mi
 The recommended dilution method employs a constant ampicillin/sulbactam ratio of 2:1 in all tubes with increasing concentrations of ampicillin.
 MIC's are reported in terms of ampicillin concentration in the presence of sulbactam at a constant 2 parts ampicillin to 1 part sulbactam.
 
-TABLE 2 Recommended Ampicillin/Sulbactam, Disk Diffusion and MIC Susceptibility RangesThe non-beta-lactamase producing organisms which are normally susceptible to ampicillin, such as Streptococci, will have similar zone sizes as for ampicillin disks.,Staphylococci resistant to methicillin, oxacillin, or nafcillin must be considered resistant to UNASYN.,The quality control cultures should have the following assigned daily ranges for ampicillin/sulbactam(see TABLE 3): (Zone diameter in mm)
+TABLE 2 Recommended Ampicillin/Sulbactam, Disk Diffusion and MIC Susceptibility RangesThe non-beta-lactamase producing organisms which are normally susceptible to ampicillin, such as Streptococci, will have similar zone sizes as for ampicillin disks., Staphylococci resistant to methicillin, oxacillin, or nafcillin must be considered resistant to UNASYN., The quality control cultures should have the following assigned daily ranges for ampicillin/sulbactam(see TABLE 3): (Zone diameter in mm)
 
 |  | Resistant | Intermediate | Susceptible | Resistant | Intermediate | Susceptible |
 | --- | --- | --- | --- | --- | --- | --- |
