@@ -1,7 +1,6 @@
 # WARNINGS
 
-LOCAL ANESTHETICS SHOULD ONLY BE EMPLOYED BY CLINICIANS WHO ARE WELL VERSED IN DIAGNOSIS AND MANAGEMENT OF DOSE-RELATED TOXICITY AND OTHER ACUTE EMERGENCIES WHICH MIGHT ARISE FROM THE BLOCK TO BE EMPLOYED, AND THEN ONLY AFTER INSURING THE IMMEDIATE AVAILABILITY OF OXYGEN, OTHER RESUSCITATIVE DRUGS, CARDIOPULMONARY RESUSCITATIVE EQUIPMENT, AND THE PERSONNEL RESOURCES NEEDED FOR PROPER MANAGEMENT OF TOXIC REACTIONS AND RELATED EMERGENCIES.
-(See also ADVERSE REACTIONS, PRECAUTIONS and OVERDOSAGE.)
+LOCAL ANESTHETICS SHOULD ONLY BE EMPLOYED BY CLINICIANS WHO ARE WELL VERSED IN DIAGNOSIS AND MANAGEMENT OF DOSE-RELATED TOXICITY AND OTHER ACUTE EMERGENCIES WHICH MIGHT ARISE FROM THE BLOCK TO BE EMPLOYED, AND THEN ONLY AFTER INSURING THE IMMEDIATE AVAILABILITY OF OXYGEN, OTHER RESUSCITATIVE DRUGS, CARDIOPULMONARY RESUSCITATIVE EQUIPMENT, AND THE PERSONNEL RESOURCES NEEDED FOR PROPER MANAGEMENT OF TOXIC REACTIONS AND RELATED EMERGENCIES (see also ADVERSE REACTIONS, PRECAUTIONS and OVERDOSAGE).
 DELAY IN PROPER MANAGEMENT OF DOSE-RELATED TOXICITY, UNDERVENTILATION FROM ANY CAUSE AND/OR ALTERED SENSITIVITY MAY LEAD TO THE DEVELOPMENT OF ACIDOSIS, CARDIAC ARREST, AND, POSSIBLY, DEATH.
 
 Intra-articular infusions of local anesthetics following arthroscopic and other surgical procedures is an unapproved use, and there have been post-marketing reports of chondrolysis in patients receiving such infusions.
@@ -25,9 +24,8 @@ Mixing or the prior or intercurrent use of any other local anesthetic with bupiv
 # PRECAUTIONS
 
 General: The safety and effectiveness of spinal anesthetics depend on proper dosage, correct technique, adequate precautions and readiness for emergencies.
-Resuscitative equipment, oxygen and other resuscitative drugs should be available for immediate use.
-(See WARNINGS, ADVERSE REACTIONS and OVERDOSAGE.)
-The patient should have I.V. fluids running via an indwelling catheter to assure a functioning intravenous pathway.
+Resuscitative equipment, oxygen and other resuscitative drugs should be available for immediate use (see WARNINGS, ADVERSE REACTIONS and OVERDOSAGE).
+The patient should have intravenous fluids running via an indwelling catheter to assure a functioning intravenous pathway.
 The lowest dosage of local anesthetic that results in effective anesthesia should be used.
 Aspiration for blood should be performed before injection and injection should be made slowly.
 Tolerance varies with the status of the patient.
@@ -56,8 +54,7 @@ In deciding whether to use these products concurrently in the same patient, the 
 Many drugs used during the conduct of anesthesia are considered potential triggering agents for familial malignant hyperthermia.
 Because it is not known whether amide-type local anesthetics may trigger this reaction and because the need for supplemental general anesthesia cannot be predicted in advance, it is suggested that a standard protocol for management should be available.
 Early unexplained signs of tachycardia, tachypnea, labile blood pressure, and metabolic acidosis may precede temperature elevation.
-Successful outcome is dependent on early diagnosis, prompt discontinuance of the suspect triggering agent(s) and prompt institution of treatment, including oxygen therapy, indicated supportive measures, and dantrolene.
-(Consult dantrolene sodium intravenous package insert before using.)
+Successful outcome is dependent on early diagnosis, prompt discontinuance of the suspect triggering agent(s) and prompt institution of treatment, including oxygen therapy, indicated supportive measures, and dantrolene (Consult dantrolene sodium intravenous package insert before using).
 
 The following conditions may preclude the use of spinal anesthesia, depending upon the physician's evaluation of the situation and ability to deal with the complications or complaints which may occur:
 
@@ -85,11 +82,10 @@ Phenothiazines and butyrophenones may reduce or reverse the pressor effect of ep
 Carcinogenesis, Mutagenesis and Impairment of Fertility: Long-term studies in animals to evaluate the carcinogenic potential of bupivacaine hydrochloride have not been conducted.
 The mutagenic potential and the effect on fertility of bupivacaine hydrochloride have not been determined.
 
-Pregnancy Category C: There are no adequate and well-controlled studies in pregnant women.
+Pregnancy: There are no adequate and well-controlled studies in pregnant women.
 Bupivacaine Spinal should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 Bupivacaine hydrochloride produced developmental toxicity when administered subcutaneously to pregnant rats and rabbits at clinically relevant doses.
-This does not exclude the use of Bupivacaine Spinal at term for obstetrical anesthesia or analgesia.
-(See Labor and Delivery.)
+This does not exclude the use of Bupivacaine Spinal at term for obstetrical anesthesia or analgesia (see Labor and Delivery).
 
 Bupivacaine hydrochloride was administered subcutaneously to rats at doses of 4.4, 13.3, & 40 mg/kg and to rabbits at doses of 1.3, 5.8, & 22.2 mg/kg during the period of organogenesis (implantation to closure of the hard palate).
 The high doses are approximately 30-times the daily maximum recommended human dose (MRHD) of 12 mg/day on a mg dose/m2 body surface area (BSA) basis.
