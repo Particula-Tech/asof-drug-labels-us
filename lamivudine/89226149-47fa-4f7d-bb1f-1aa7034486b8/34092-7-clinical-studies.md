@@ -29,7 +29,7 @@ More recent uses of lamivudine in treatment of HIV-1 infection incorporate it in
 
 Dose Regimen Comparison Surrogate Endpoint Trials in Therapy-Naive Adults: EPV20001 was a multicenter, double-blind, controlled trial in which subjects were randomized 1:1 to receive EPIVIR 300 mg once daily or EPIVIR 150 mg twice daily, in combination with zidovudine 300 mg twice daily and efavirenz 600 mg once daily.
 A total of 554 antiretroviral treatment-naive HIV‑1-infected adults enrolled: male (79%), white (50%), median age of 35 years, baseline CD4+ cell counts of 69 to 1,089 cells per mm3 (median = 362 cells per mm3), and median baseline plasma HIV-1 RNA of 4.66 log10 copies per mL.
-Outcomes of treatment through 48 weeks are summarized in Figure 1 and.
+Outcomes of treatment through 48 weeks are summarized in Figure 1 and Table 10.
 
 Figure 1.
 Virologic Response through Week 48, EPV20001a,b (Intent-to-Treat)

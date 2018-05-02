@@ -3,7 +3,7 @@
 ## 2.1 Recommended Dosage for Adult Patients
 
 The recommended dosage of EPIVIR in HIV‑1-infected adults is 300 mg daily, administered as either 150 mg taken orally twice daily or 300 mg taken orally once daily with or without food.
-If lamivudine is administered to a patient infected with HIV‑1 and HBV, the dosage indicated for HIV‑1 therapy should be used as part of an appropriate combination regimen [see Warnings and Precautions (5.2)].
+If lamivudine is administered to a patient infected with HIV‑1 and HBV, the dosage indicated for HIV‑1 therapy should be used as part of an appropriate combination regimen [see Warnings and Precautions (5.1)].
 
 ## 2.2 Recommended Dosage for Pediatric Patients
 

@@ -2,12 +2,11 @@
 
 The following adverse reactions are discussed in other sections of the labeling:
 
-- •Lactic acidosis and severe hepatomegaly with steatosis [see Boxed Warning, Warnings and Precautions (5.1)].
-- •Exacerbations of hepatitis B [see Boxed Warning, Warnings and Precautions (5.2)].
+- •Exacerbations of hepatitis B [see Boxed Warning, Warnings and Precautions (5.1)].
+- •Lactic acidosis and severe hepatomegaly with steatosis [see Warnings and Precautions (5.2)].
 - •Hepatic decompensation in patients co-infected with HIV-1 and hepatitis C [see Warnings and Precautions (5.3)].
 - •Pancreatitis [see Warnings and Precautions (5.4)].
 - •Immune reconstitution syndrome [see Warnings and Precautions (5.5)].
-- •Fat redistribution [see Warnings and Precautions (5.7)].
 
 ## 6.1 Clinical Trials Experience
 
@@ -24,7 +23,7 @@ Selected clinical adverse reactions in greater than or equal to 5% of subjects d
 Table 3.
 Selected Clinical Adverse Reactions (Greater than or Equal to 5% Frequency) in Four Controlled Clinical Trials (NUCA3001, NUCA3002, NUCB3001, NUCB3002)
 
-| Adverse Reaction | EPIVIR 150 mg Twice Daily plus RETROVIR(n = 251) | RETROVIRa(n = 230) |
+| Adverse Reaction | EPIVIR 150 mgTwice Daily plus RETROVIR(n = 251) | RETROVIRa(n = 230) |
 | --- | --- | --- |
 | Body as a Whole |  |  |
 | Headache | 35% | 27% |
@@ -65,7 +64,7 @@ Frequencies of Selected Grade 3-4 Laboratory Abnormalities in Adults in Four 24-
 
 | Test(Threshold Level) | 24-Week Surrogate EndpointTrialsa |  | Clinical EndpointTriala |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| EPIVIR plus RETROVIR | RETROVIRb | EPIVIR plus Current Therapyc | Placebo plus Current Therapyc |  |  |  |  |
+| EPIVIR plus RETROVIR | RETROVIRb | EPIVIR plusCurrent Therapyc | Placebo plusCurrent Therapyc |  |  |  |  |
 | Absolute neutrophil count (<750/mm3) | 7.2% | 5.4% | 15% | 13% |  |  |  |
 | Hemoglobin (<8.0 g/dL) | 2.9% | 1.8% | 2.2% | 3.4% |  |  |  |
 | Platelets (<50,000/mm3) | 0.4% | 1.3% | 2.8% | 3.8% |  |  |  |
@@ -151,7 +150,7 @@ These reactions have been chosen for inclusion due to a combination of their ser
 
 Body as a Whole
 
-Redistribution/accumulation of body fat [see Warnings and Precautions (5.7)].
+Redistribution/accumulation of body fat.
 
 Endocrine and Metabolic
 
@@ -167,7 +166,7 @@ Anemia (including pure red cell aplasia and severe anemias progressing on therap
 
 Hepatic and Pancreatic
 
-Lactic acidosis and hepatic steatosis [see Warnings and Precautions (5.1)], posttreatment exacerbations of hepatitis B [see Warnings and Precautions (5.2)].
+Lactic acidosis and hepatic steatosis [see Warnings and Precautions (5.2)], posttreatment exacerbations of hepatitis B [see Warnings and Precautions (5.1)].
 
 Hypersensitivity
 

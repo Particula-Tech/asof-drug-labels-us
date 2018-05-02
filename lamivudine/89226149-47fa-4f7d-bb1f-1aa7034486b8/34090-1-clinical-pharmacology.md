@@ -78,7 +78,7 @@ Patients with Hepatic Impairment: The pharmacokinetic properties of lamivudine h
 Pharmacokinetic parameters were not altered by diminishing hepatic function.
 Safety and efficacy of lamivudine have not been established in the presence of decompensated liver disease.
 
-Pregnancy: Lamivudine pharmacokinetics were studied in 36 pregnant women during 2 clinical trials conducted in South Africa.
+Pregnant Women: Lamivudine pharmacokinetics were studied in 36 pregnant women during 2 clinical trials conducted in South Africa.
 Lamivudine pharmacokinetics in pregnant women were similar to those seen in non-pregnant adults and in postpartum women.
 Lamivudine concentrations were generally similar in maternal, neonatal, and umbilical cord serum samples.
 
@@ -125,7 +125,7 @@ Racial Groups: There are no significant or clinically relevant racial difference
 
 Drug Interaction Studies
 
-Effect of Lamivudine on the Pharmacokinetics of Other Agents: Based on in vitro study results, lamivudine at therapeutic drug exposures is not expected to affect the pharmacokinetics of drugs that are substrates of the following transporters: organic anion transporter polypeptide 1B1/3 (OATP1B1/3), breast cancer resistance protein (BCRP), P-glycoprotein (P-gp), multidrug and toxin extrusion protein 1 (MATE1), MATE2-K, organic cation transporter 1 (OCT1), OCT2, or OCT3.
+Effect of Lamivudine on the Pharmacokinetics of Other Agents: Based on in vitro study results, lamivudine at therapeutic drug exposures is not expected to affect the pharmacokinetics of drugs that are substrates of the following transporters: organic anion transporter polypeptide 1B1/3 (OATP1B1/3), breast cancer resistance protein (BCRP), P-glycoprotein (P-gp), multidrug and toxin extrusion protein 1 (MATE)1, MATE2-K, organic cation transporter 1 (OCT)1, OCT2, or OCT3.
 
 Effect of Other Agents on the Pharmacokinetics of Lamivudine: Lamivudine is a substrate of MATE1, MATE2-K, and OCT2 in vitro.
 Trimethoprim (an inhibitor of these drug transporters) has been shown to increase lamivudine plasma concentrations.
@@ -139,9 +139,9 @@ Interferon Alfa: There was no significant pharmacokinetic interaction between la
 Ribavirin: In vitro data indicate ribavirin reduces phosphorylation of lamivudine, stavudine, and zidovudine.
 However, no pharmacokinetic (e.g., plasma concentrations or intracellular triphosphorylated active metabolite concentrations) or pharmacodynamic (e.g., loss of HIV‑1/HCV virologic suppression) interaction was observed when ribavirin and lamivudine (n = 18), stavudine (n = 10), or zidovudine (n = 6) were coadministered as part of a multi‑drug regimen to HIV‑1/HCV co‑infected subjects [see Warnings and Precautions (5.3)].
 
-Sorbitol (Excipient): Lamivudine and sorbitol solutions were coadministered to 16 healthy adult subjects in an open-label, randomized sequence, 4-period, crossover trial.
+Sorbitol (Excipient): Lamivudine and sorbitol solutions were coadministered to 16 healthy adult subjects in an open-label, randomized-sequence, 4-period, crossover trial.
 Each subject received a single 300-mg dose of lamivudine oral solution alone or coadministered with a single dose of 3.2 grams, 10.2 grams, or 13.4 grams of sorbitol in solution.
-Coadministration of lamivudine with sorbitol resulted in dose-dependent decreases of 20%, 39%, and 44% in the AUC(0-24), 14%, 32%, and 36% in the AUC(∞), and 28%, 52%, and 55% in the Cmax of lamivudine.
+Coadministration of lamivudine with sorbitol resulted in dose-dependent decreases of 20%, 39%, and 44% in the AUC(0-24), 14%, 32%, and 36% in the AUC(∞), and 28%, 52%, and 55% in the Cmax; of lamivudine, respectively.
 
 Trimethoprim/Sulfamethoxazole: Lamivudine and TMP/SMX were coadministered to 14 HIV‑1‑positive subjects in a single‑center, open‑label, randomized, crossover trial.
 Each subject received treatment with a single 300‑mg dose of lamivudine and TMP 160 mg/SMX 800 mg once a day for 5 days with concomitant administration of lamivudine 300 mg with the fifth dose in a crossover design.

@@ -20,10 +20,6 @@ See prescribing information for dosage information.
 
 Store at 25oC (77oF); excursions permitted to 15o to 30oC (59o to 86oF) [see USP Controlled Room Temperature].
 
-Manufactured under agreement from Shire Pharmaceuticals Group plc
-
-Basingstoke, UK
-
 Manufactured for:
 
 ViiV Healthcare
