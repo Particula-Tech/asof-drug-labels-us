@@ -293,8 +293,6 @@ HP-β-CD has no antifertile effect, and is not mutagenic.
 
 ### Teratogenic effects
 
-#### Pregnancy Category C
-
 Itraconazole was found to cause a dose-related increase in maternal toxicity, embryotoxicity, and teratogenicity in rats at dosage levels of approximately 40–160 mg/kg/day (5–20 times the MRHD), and in mice at dosage levels of approximately 80 mg/kg/day (10 times the MRHD).
 Itraconazole has been shown to cross the placenta in a rat model.
 In rats, the teratogenicity consisted of major skeletal defects; in mice, it consisted of encephaloceles and/or macroglossia.
