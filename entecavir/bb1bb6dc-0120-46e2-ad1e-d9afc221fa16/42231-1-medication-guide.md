@@ -175,11 +175,11 @@ Tablet film-coat: titanium dioxide, talc, polyethylene glycol 3350, lecithin (so
 
 Distributed by: Solco Healthcare US, LLC
 
-1. Cranbury, NJ 08512, USA
+- Cranbury, NJ 08512, USA
 
 Manufactured by: Zhejiang Huahai Pharmaceutical Co., Ltd.
 
-1. Xunqiao, Linhai, Zhejiang, 317024, China
+- Xunqiao, Linhai, Zhejiang, 317024, China
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 

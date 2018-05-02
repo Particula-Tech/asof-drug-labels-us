@@ -27,11 +27,11 @@ They should be informed that if they have HIV infection and are not receiving ef
 
 Distributed by: Solco Healthcare US, LLC
 
-1. Cranbury, NJ 08512, USA
+- Cranbury, NJ 08512, USA
 
 Manufactured by: Zhejiang Huahai Pharmaceutical Co., Ltd.
 
-1. Xunqiao, Linhai, Zhejiang, 317024, China
+- Xunqiao, Linhai, Zhejiang, 317024, China
 
 Revised: 01/2018
 
