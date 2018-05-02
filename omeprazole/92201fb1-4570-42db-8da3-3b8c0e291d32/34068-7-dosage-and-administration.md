@@ -1,12 +1,5 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-Omeprazole Delayed-Release Capsules should be taken before eating.
-In the clinical trials, antacids were used concomitantly with Omeprazole Delayed-Release Capsules.
-
-Patients should be informed that the Omeprazole Delayed-Release Capsule should be swallowed whole.
-
-For patients unable to swallow an intact capsule, alternative administration options are available [see Dosage and Administration (2.8)].
-
 ## 2.1 Recommended Adult Dosage Regimen by Indication
 
 Table 1 shows the recommended dosage of Omeprazole Delayed-Release Capsules in adult patients by indication.
@@ -62,6 +55,6 @@ Omeprazole Delayed-Release Capsules
 2. Open the capsule.
 3. Carefully empty all of the microtablets inside the capsule on the applesauce.
 4. Mix the microtablets with the applesauce.
-5. Swallow applesauce and microtablets immediately with a glass of cool water to ensure complete swallowing of the pellets.
+5. Swallow applesauce and microtablets immediately with a glass of cool water to ensure complete swallowing of the microtablets.
    Do not chew or crush the microtablets.
    Do not save the applesauce and microtablets for future use.

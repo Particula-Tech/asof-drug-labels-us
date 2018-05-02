@@ -7,7 +7,7 @@ Gastric carcinoids seldom occur in the untreated rat.
 In addition, ECL cell hyperplasia was present in all treated groups of both sexes.
 In one of these studies, female rats were treated with 13.8 mg omeprazole/kg/day (about 3.4 times a human dose of 40 mg/day, based on body surface area) for one year, and then followed for an additional year without the drug.
 No carcinoids were seen in these rats.
-An increased incidence of treatment-related ECL cell hyperplasia was observed at the end of one year (94% treated vs 10% controls).
+An increased incidence of treatment-related ECL cell hyperplasia was observed at the end of one year (94% treated vs. 10% controls).
 By the second year the difference between treated and control rats was much smaller (46% vs. 26%) but still showed more hyperplasia in the treated group.
 Gastric adenocarcinoma was seen in one rat (2%).
 No similar tumor was seen in male or female rats treated for two years.

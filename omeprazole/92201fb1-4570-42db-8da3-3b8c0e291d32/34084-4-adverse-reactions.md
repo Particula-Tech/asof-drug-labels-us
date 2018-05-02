@@ -8,8 +8,9 @@ The following serious adverse reactions are described below and elsewhere in lab
 - Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.5)]
 - Cyanocobalamin (Vitamin B-12) Deficiency [see Warnings and Precautions (5.7)]
 - Hypomagnesemia [see Warnings and Precautions (5.8)]
+- Fundic Gland Polyps [see Warnings and Precautions (5.12)]
 
-## 6.1 Clinical Trials Experience with Omeprazole Delayed-Release Capsules Monotherapy
+## 6.1 Clinical Trials Experience with Omeprazole Delayed-Release Capsules
 
 Monotherapy
 
@@ -25,8 +26,8 @@ Additional adverse reactions that were reported with an incidence ≥ 1% include
 The clinical trial safety profile in patients greater than 65 years of age was similar to that in patients 65 years of age or less.
 
 The clinical trial safety profile in pediatric patients who received Omeprazole Delayed-Release Capsules was similar to that in adult patients.
-Unique to the pediatric population, however, adverse reactions of the respiratory system were most frequently reported in the 2 to 16 year age group (19%).
-Similarly, accidental injuries were reported frequently in the 2 to 16 year age group (4%) [see Use in Specific Populations (8.4)].
+Unique to the pediatric population, however, adverse reactions of the respiratory system were frequently reported in the 1 to <2 year age group and the 2 to 16 year age group (75% and 19% respectively).
+In addition, fever was frequently reported in the 1 <2 year age group (33%), and accidental injuries were reported frequently in the 2 to 16 year age group (4%) [see Use in Specific Populations (8.4)].
 
 ## 6.2 Clinical Trials Experience with Omeprazole Delayed-Release Capsules in Combination Therapy for H. pylori Eradication
 
@@ -55,9 +56,8 @@ Cardiovascular: Chest pain or angina, tachycardia, bradycardia, palpitations, el
 
 Endocrine: Gynecomastia
 
-Gastrointestinal: Pancreatitis (some fatal), anorexia, irritable colon, fecal discoloration, esophageal candidiasis, mucosal atrophy of the tongue, stomatitis, abdominal swelling, dry mouth, microscopic colitis.
-During treatment with omeprazole, gastric fundic gland polyps have been noted rarely.
-These polyps are benign and appear to be reversible when treatment is discontinued.
+Gastrointestinal: Pancreatitis (some fatal), anorexia, irritable colon, fecal discoloration, esophageal candidiasis, mucosal atrophy of the tongue, stomatitis, abdominal swelling, dry mouth, microscopic colitis, fundic gland polyps
+
 Gastroduodenal carcinoids have been reported in patients with ZE syndrome on long-term treatment with Omeprazole Delayed-Release Capsules.
 This finding is believed to be a manifestation of the underlying condition, which is known to be associated with such tumors.
 

@@ -31,7 +31,7 @@ Table 5: Range of Mean Values from Multiple Studies of the Mean Antisecretory Ef
 
 Single daily oral doses of omeprazole ranging from a dose of 10 mg to 40 mg have produced 100% inhibition of 24-hour intragastric acidity in some patients.
 
-### Serum Gastric Effects
+### Serum Gastrin Effects
 
 In studies involving more than 200 patients, serum gastrin levels increased during the first 1 to 2 weeks of once-daily administration of therapeutic doses of omeprazole in parallel with inhibition of acid secretion.
 No further increase in serum gastrin occurred with continued treatment.
@@ -231,11 +231,11 @@ Effect of Other Drugs on Omeprazole
 Voriconazole
 
 Concomitant administration of omeprazole and voriconazole (a combined inhibitor of CYP2C19 and CYP3A4) resulted in more than doubling of the omeprazole exposure.
-When voriconazole (400 mg every 12 hours for one day, followed by 200 mg once daily for 6 days) was given with omeprazole (40 mg once daily for 7 days) to healthy subjects, the steady- state Cmax and AUC0-24 of omeprazole significantly increased: an average of 2 times (90% CI: 1.8, 2.6) and 4 times (90% CI: 3.3, 4.4), respectively, as compared to when omeprazole was given without voriconazole [see Drug Interactions (7)].
+When voriconazole (400 mg every 12 hours for one day, followed by 200 mg once daily for 6 days) was given with omeprazole (40 mg once daily for 7 days) to healthy subjects, the steady-state Cmax and AUC0-24 of omeprazole significantly increased: an average of 2 times (90% CI: 1.8, 2.6) and 4 times (90% CI: 3.3, 4.4), respectively, as compared to when omeprazole was given without voriconazole [see Drug Interactions (7)].
 
 ## 12.4 Microbiology
 
-Omeprazole and clarithromycin dual therapy and omeprazole, clarithromycin and amoxicillin triple therapy have been shown to be active against most strains of Helicobacter pylori in vitro and in clinical infections [see Indications andUsage (1.2), Clinical Studies (14.2)].
+Omeprazole and clarithromycin dual therapy and omeprazole, clarithromycin and amoxicillin triple therapy have been shown to be active against most strains of Helicobacter pylori in vitro and in clinical infections [see Indications and Usage (1.2), Clinical Studies (14.2)].
 
 Helicobacter pylori
 

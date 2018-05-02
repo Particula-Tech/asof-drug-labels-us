@@ -27,7 +27,7 @@ For more information specific to antibacterial agents (clarithromycin and amoxic
 Several published observational studies suggest that proton pump inhibitor (PPI) therapy may be associated with an increased risk for osteoporosis-related fractures of the hip, wrist, or spine.
 The risk of fracture was increased in patients who received high-dose, defined as multiple daily doses, and long-term PPI therapy (a year or longer).
 Patients should use the lowest dose and shortest duration of PPI therapy appropriate to the condition being treated.
-Patients at risk for osteoporosis-related fractures should be managed according to established treatment guidelines [see Dosage andAdministration (2.1), Adverse Reactions (6.3)].
+Patients at risk for osteoporosis-related fractures should be managed according to established treatment guidelines [see Dosage and Administration (2.1), Adverse Reactions (6.3)].
 
 ## 5.5 Cutaneous and Systemic Lupus Erythematosus
 
@@ -46,8 +46,7 @@ The majority of patients presented with rash; however, arthralgia and cytopenia 
 Avoid administration of PPIs for longer than medically indicated.
 If signs or symptoms consistent with CLE or SLE are noted in patients receiving Omeprazole Delayed-Release Capsules, discontinue the drug and refer the patient to the appropriate specialist for evaluation.
 Most patients improve with discontinuation of the PPI alone in 4 to 12 weeks.
-Serological testing (e.g.
-ANA) may be positive and elevated serological test results may take longer to resolve than clinical manifestations.
+Serological testing (e.g., ANA) may be positive and elevated serological test results may take longer to resolve than clinical manifestations.
 
 ## 5.6 Interaction with Clopidogrel
 
@@ -82,10 +81,18 @@ Avoid concomitant use of Omeprazole Delayed-Release Capsules with St. John’s W
 Serum chromogranin A (CgA) levels increase secondary to drug-induced decreases in gastric acidity.
 The increased CgA level may cause false positive results in diagnostic investigations for neuroendocrine tumors.
 Healthcare providers should temporarily stop Omeprazole Delayed-Release Capsules treatment at least 14 days before assessing CgA levels and consider repeating the test if initial CgA levels are high.
-If serial tests are performed (e.g., for monitoring), the same commercial laboratory should be used for testing, as reference ranges between tests may vary.
-[see Drug Interactions (7)].
+If serial tests are performed (e.g., for monitoring), the same commercial laboratory should be used for testing, as reference ranges between tests may vary [see Drug Interactions (7)].
 
 ## 5.11 Interaction with Methotrexate
 
 Literature suggests that concomitant use of PPIs with methotrexate (primarily at high dose) may elevate and prolong serum levels of methotrexate and/or its metabolite, possibly leading to methotrexate toxicities.
 In high-dose methotrexate administration a temporary withdrawal of the PPI may be considered in some patients [see Drug Interactions (7)].
+
+## 5.12 Fundic Gland Polyps
+
+PPI use, including rabeprazole, is associated with an increased risk of fundic gland polyps which increases with long-term use, especially beyond one year.
+Most PPIs users who developed fundic gland polyps were asymptomatic and were diagnosed incidentally, but some patients presented with nausea, vomiting, or abdominal pain.
+Gastrointestinal bleeding and/or anemia were also reported in patients with ulcerated polyps.
+Patients with polyps may also be at risk for small intestinal blockage.
+
+Use the lowest dose and shortest duration of PPI therapy appropriate to the condition being treated.

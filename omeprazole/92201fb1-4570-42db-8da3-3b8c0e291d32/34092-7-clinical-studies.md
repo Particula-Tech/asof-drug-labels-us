@@ -62,7 +62,7 @@ The combination of omeprazole plus clarithromycin plus amoxicillin was effective
 | Study 1 | 773 [64, 86] (n = 64) | 693 [57, 79] (n = 80) | 43 [31, 56] (n = 67) | 37 [27, 48] (n = 84) |
 | Study 2 | 783 [67, 88] (n = 65) | 733 [61, 82] (n = 77) | 41 [29, 54] (n = 68) | 36 [26, 47] (n = 83) |
 | Study 3 | 903 [80, 96] (n = 69) | 833 [74, 91] (n = 84) | 33 [24, 44] (n = 93) | 32 [23, 42] (n = 99) |
-| 1.Patients were included in the analysis if they had confirmed duodenal ulcer disease (active ulcer, studies 1 and 2; history of ulcer within 5 years, study 3) and H. pylori infection at baseline defined as at least two of three positive endoscopic tests from CLOtest®, histology, and/or culture. Patients were included in the analysis if they completed the study. Additionally, if patients dropped out of the study due to an adverse event related to the study drug, they were included in the analysis as failures of therapy. The impact of eradication on ulcer recurrence has not been assessed in patients with a past history of ulcer.2. Patients were included in the analysis if they had documented H. pylori infection at baseline and had confirmed duodenal ulcer disease. All dropouts were included as failures of therapy.3. (p < 0.05) versus clarithromycin plus amoxicillin. |  |  |  |  |
+| 1. Patients were included in the analysis if they had confirmed duodenal ulcer disease (active ulcer, studies 1 and 2; history of ulcer within 5 years, study 3) and H. pylori infection at baseline defined as at least two of three positive endoscopic tests from CLOtest®, histology, and/or culture. Patients were included in the analysis if they completed the study. Additionally, if patients dropped out of the study due to an adverse event related to the study drug, they were included in the analysis as failures of therapy. The impact of eradication on ulcer recurrence has not been assessed in patients with a past history of ulcer.2. Patients were included in the analysis if they had documented H. pylori infection at baseline and had confirmed duodenal ulcer disease. All dropouts were included as failures of therapy.3. (p < 0.05) versus clarithromycin plus amoxicillin. |  |  |  |  |
 
 Dual Therapy (Omeprazole Delayed-Release Capsules/clarithromycin)
 
@@ -88,7 +88,7 @@ The combination of omeprazole and clarithromycin was effective in eradicating H.
 | Non U.S. Studies |  |  |  |
 | Study 6 | 83 [71, 92]2 (n=60) | 1[0, 7] (n=74) | N/A |
 | Study 7 | 74 [64, 83]2 (n=86) | 1[0, 6] (n=90) | N/A |
-| 1.Statistically significantly higher than clarithromycin monotherapy (p < 0.05). 2. Statistically significantly higher than omeprazole monotherapy (p < 0.05). |  |  |  |
+| 1.Statistically significantly higher than clarithromycin monotherapy (p < 0.05). 2.Statistically significantly higher than omeprazole monotherapy (p < 0.05). |  |  |  |
 
 Ulcer healing was not significantly different when clarithromycin was added to omeprazole therapy compared with omeprazole therapy alone.
 
@@ -204,7 +204,7 @@ The first study enrolled 12 pediatric patients 1 to 2 years of age with a histor
 Patients were administered a single dose of omeprazole (0.5 mg/kg, 1 mg/kg, or 1.5 mg/kg) for 8 weeks as an open capsule in 8.4% sodium bicarbonate solution.
 Seventy-five percent (9/12) of the patients had vomiting/regurgitation episodes decreased from baseline by at least 50%.
 
-The study enrolled 113 pediatric patients 2 to 16 years of age with a history of symptoms suggestive of nonerosive GERD.
+The second study enrolled 113 pediatric patients 2 to 16 years of age with a history of symptoms suggestive of symptomatic GERD.
 Patients were administered a single dose of omeprazole (10 mg or 20 mg, based on body weight) for 4 weeks either as an intact capsule or as an open capsule in applesauce.
 Successful response was defined as no moderate or severe episodes of either pain-related symptoms or vomiting/regurgitation during the last 4 days of treatment.
 Results showed success rates of 60% (9/15; 10 mg omeprazole) and 59% (58/98; 20 mg omeprazole), respectively.
