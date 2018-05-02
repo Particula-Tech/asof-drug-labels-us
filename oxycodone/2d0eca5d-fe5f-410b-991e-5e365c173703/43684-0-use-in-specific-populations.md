@@ -23,7 +23,7 @@ Prolonged use of opioid analgesics during pregnancy for medical or nonmedical pu
 
 Neonatal opioid withdrawal syndrome presents as irritability, hyperactivity, and abnormal sleep pattern, high pitched cry, tremor, vomiting, diarrhea, and failure to gain weight.
 The onset, duration, and severity of neonatal opioid withdrawal syndrome vary based on the specific opioid used, duration of use, timing and amount of last maternal use, and rate of elimination of the drug by the newborn.
-Observe newborns for symptoms of neonatal opioid withdrawal syndrome and manage accordingly [see Warnings and Precautions (5.3)]
+Observe newborns for symptoms of neonatal opioid withdrawal syndrome and manage accordingly [see Warnings and Precautions (5.3)].
 
 Labor or Delivery
 
@@ -46,11 +46,11 @@ Methodological limitations of these studies, including small sample size, recall
 Animal Data
 
 In embryo-fetal development studies in rats and rabbits, pregnant animals received oral doses of oxycodone hydrochloride administered during the period of organogenesis up to 16 mg/kg/day and up to 25 mg/kg/day, respectively.
-These studies revealed no evidence of teratogenicity or embryo fetal toxicity due to oxycodone.
+These studies revealed no evidence of teratogenicity or embryo-fetal toxicity due to oxycodone.
 The highest doses tested in rats and rabbits were equivalent to approximately 2.6 and 8.1 times an adult human dose of 60 mg/day, respectively, on a mg/m2 basis.
 In published studies, offspring of pregnant rats administered oxycodone during gestation have been reported to exhibit neurobehavioral effects including altered stress responses, increased anxiety-like behavior (2 mg/kg/day IV from Gestation Day 8 to 21 and Postnatal Day 1, 3, and 5; 0.3-times an adult human dose of 60 mg/day, on a mg/m2 basis) and altered learning and memory (15 mg/kg/day orally from breeding through parturition; 2.4 times an adult human dose of 60 mg/day, on a mg/m2 basis).
 
-## 8.2 Lactation
+## 8.2Lactation
 
 Risk Summary
 
@@ -65,7 +65,7 @@ Clinical Considerations
 Infants exposed to ROXYBOND through breast milk should be monitored for excess sedation and respiratory depression.
 Withdrawal symptoms can occur in breastfed infants when maternal administration of an opioid analgesic is stopped or when breast-feeding is stopped.
 
-## 8.3 Females and Males of Reproductive Potential
+## 8.3Females and Males of Reproductive Potential
 
 Infertility
 
@@ -90,13 +90,13 @@ Titrate the dosage of ROXYBOND slowly in geriatric patients and monitor closely 
 Oxycodone is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
 
-## 8.6 Hepatic Impairment
+## 8.6Hepatic Impairment
 
 Because oxycodone is extensively metabolized in the liver, its clearance may decrease in patients with hepatic impairment.
 Initiate therapy in these patients with a lower than usual dosage of ROXYBOND and titrate carefully.
 Monitor closely for adverse events such as respiratory depression, sedation, and hypotension [see Clinical Pharmacology (12.3)].
 
-## 8.7 Renal Impairment
+## 8.7Renal Impairment
 
 Because oxycodone is known to be substantially excreted by the kidney, its clearance may decrease in patients with renal impairment.
 Initiate therapy with a lower than usual dosage of ROXYBOND and titrate carefully.

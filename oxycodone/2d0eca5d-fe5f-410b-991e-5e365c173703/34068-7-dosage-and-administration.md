@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Important Dosage and Administration Instructions
+## 2.1Important Dosage and Administration Instructions
 
 Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5)].
 
@@ -8,7 +8,7 @@ Initiate the dosing regimen for each patient individually; taking into account t
 
 Monitor patients closely for respiratory depression, especially within the first 24 to 72 hours of initiating therapy and following dosage increases with ROXYBOND and adjust the dosage accordingly [see Warnings and Precautions (5.2)].
 
-## 2.2 Initial Dosage
+## 2.2Initial Dosage
 
 Use of ROXYBOND as the First Opioid Analgesic Initiate treatment with ROXYBOND in a dosing range of 5 to 15 mg every 4 to 6 hours as needed for pain.
 Titrate the dose based upon the individual patient’s response to their initial dose of ROXYBOND.
@@ -16,7 +16,7 @@ This dose can then be adjusted to an acceptable level of analgesia taking into a
 
 For control of severe chronic pain, consider dosing ROXYBOND on a regularly scheduled basis, every 4 to 6 hours, at the lowest dosage level that will achieve adequate analgesia.
 
-Although it is not possible to list every condition that is important to the selection of the initial dose of ROXYBOND, attention should be given to: 1) the daily dose, potency, and characteristics of any prior opioid 2) the reliability of any relative potency estimate used to calculate the dose of oxycodone needed, 3) the degree of opioid tolerance, 4) the general condition and medical status of the patient, and 5) the balance between pain control and adverse experiences
+Although it is not possible to list every condition that is important to the selection of the initial dose of ROXYBOND, attention should be given to: 1) the daily dose, potency, and characteristics of any prior opioid 2) the reliability of any relative potency estimate used to calculate the dose of oxycodone needed, 3) the degree of opioid tolerance, 4) the general condition and medical status of the patient, and 5) the balance between pain control and adverse experiences.
 
 Conversion from Other Opioids to ROXYBOND There is inter-patient variability in the potency of opioid drugs and opioid formulations.
 Therefore, a conservative approach is advised when determining the total daily dosage of ROXYBOND.
@@ -36,7 +36,7 @@ Conversion from ROXYBOND to Extended-Release Oxycodone The relative bioavailabil
 Conversion from Oxycodone Immediate-Release Tablets Oxycodone pharmacokinetics are similar for ROXYBOND and oxycodone immediate-release tablets.
 Patients can be converted from oxycodone immediate-release to the same dose and dosing regimen of ROXYBOND.
 
-## 2.3 Titration and Maintenance of Therapy
+## 2.3Titration and Maintenance of Therapy
 
 Individually titrate ROXYBOND to a dose that provides adequate analgesia and minimizes adverse reactions.
 Continually reevaluate patients receiving ROXYBOND to assess the maintenance of pain control and the relative incidence of adverse reactions, as well as monitoring for the development of addiction, abuse, or misuse [see Warnings and Precautions (5.1)].
@@ -46,7 +46,7 @@ If the level of pain increases after dosage stabilization, attempt to identify t
 If unacceptable opioid-related adverse reactions are observed, consider reducing the dosage.
 Adjust the dosage to obtain an appropriate balance between management of pain and opioid-related adverse reactions.
 
-## 2.4 Discontinuation of ROXYBOND
+## 2.4Discontinuation of ROXYBOND
 
 When a patient who has been taking ROXYBOND regularly and may be physically-dependent no longer requires therapy with ROXYBOND, taper the dose gradually, by 25% to 50% every 2 to 4 days, while monitoring carefully for signs and symptoms of withdrawal.
 If the patient develops these signs or symptoms, raise the dose to the previous level and taper more slowly, either by increasing the interval between decreases, decreasing the amount of change in dose, or both.

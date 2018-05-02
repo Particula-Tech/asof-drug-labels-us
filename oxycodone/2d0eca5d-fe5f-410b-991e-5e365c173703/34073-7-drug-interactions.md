@@ -2,9 +2,11 @@
 
 Table 1 includes clinically significant drug interactions with ROXYBOND.
 
-| Table 1. Clinically Significant Drug Interactions with ROXYBOND |  |
-| --- | --- |
+Table 1.
+Clinically Significant Drug Interactions with ROXYBOND
+
 | Inhibitors of CYP3A4 and CYP2D6 |  |
+| --- | --- |
 | Clinical Impact: | The concomitant use of ROXYBOND and CYP3A4 inhibitors can increase the plasma concentration of oxycodone, resulting in increased or prolonged opioid effects. These effects could be more pronounced with concomitant use of ROXYBOND and CYP2D6 and CYP3A4 inhibitors, particularly when an inhibitor is added after a stable dose of ROXYBOND is achieved [see Warnings and Precautions (5.4)]. After stopping a CYP3A4 inhibitor, as the effects of the inhibitor decline, the oxycodone plasma concentration will decrease [see Clinical Pharmacology (12.3)], resulting in decreased opioid efficacy or a withdrawal syndrome in patients who had developed physical dependence to oxycodone. |
 | Intervention: | If concomitant use is necessary, consider dosage reduction of ROXYBOND until stable drug effects are achieved. Monitor patients for respiratory depression and sedation at frequent intervals. If a CYP3A4 inhibitor is discontinued, consider increasing the ROXYBOND dosage until stable drug effects are achieved. Monitor for signs of opioid withdrawal. |
 | Examples: | Macrolide antibiotics (e.g., erythromycin), azole-antifungal agents (e.g., ketoconazole), protease inhibitors (e.g., ritonavir). |

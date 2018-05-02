@@ -1,4 +1,4 @@
-# 9 DRUG ABUSE AND DEPENDENCE
+# 9. DRUG ABUSE AND DEPENDENCE
 
 ## 9.1 Controlled Substance
 
@@ -67,9 +67,10 @@ When crushed and insufflated, ROXYBOND showed a lower peak oxycodone plasma conc
 Similar results were demonstrated when crushed and insufflated ROXYBOND was compared to intact oral ROXYBOND with a reduction in Cmax and a longer time to Tmax.
 Intact oral ROXYBOND resulted in a Cmax of oxycodone similar to that of crushed and insufflated oxycodone immediate-release tablets, with a similar Tmax.
 
-| Table 2 Summary of Plasma Oxycodone Pharmacokinetic Parameters From the Intranasal Abuse Potential Study (n=31) |  |  |  |
-| --- | --- | --- | --- |
+Table 2 Summary of Plasma Oxycodone Pharmacokinetic Parameters From the Intranasal Abuse Potential Study (n=31)
+
 | Treatment or Comparison | Cmax (ng/mL) LS Mean | AUC0-t (ng*hr/mL) LS Mean | Tmax (hr) Median |
+| --- | --- | --- | --- |
 | Crushed, Insufflated oxycodone immediate-release tablets 30 mg | 55.56 | 330.77 | 1.7 |
 | Crushed, Insufflated ROXYBOND 30 mg | 40.04 | 309.21 | 2.3 |
 | Intact, oral ROXYBOND | 56.97 | 265.38 | 1.3 |
@@ -80,16 +81,15 @@ Similar reductions in drug liking and willingness to take the drug again were re
 These data are consistent with the slowing of the intended immediate-release properties of ROXYBOND when manipulated then insufflated compared to taking ROXYBOND orally intact.
 No statistically significant differences in Emax of Drug Liking or Take Drug Again were observed between crushed intranasal oxycodone immediate-release tablets and intact oral ROXYBOND.
 
-| Table 3. Summary of Maximum Drug Liking (Emax), and Take Drug Again (Emax), Following Administration of ROXYBOND, Oxycodone Immediate-release Tablets, and Placebo in Recreational Opioid Users (N=29) |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-| VAS |  | Crushed Intranasal ROXYBOND 30 mg | Crushed Intranasal Oxycodone immediate-release tablets 30 mg | Intact Oral ROXYBOND 30 mg | Placebo |
-| Drug Liking (Emax) | Mean (SD) | 71.1 (12.01) | 82.9 (11.55) | 81.5 (11.49) | 53.4 (6.34) |
-| Median (Range) | 71 (50 to 100) | 82 (50 to 100) | 82.00 (56 to 100) | 51.0 (50 to 77) |  |
-| Take Drug Again (Emax) | Mean (SD) | 62.2 (24.51) | 82.1 (16.44) | 77.3 (18.11) | 41.9 (20.09) |
-| Median (Range) | 62.0 (3 to 99) | 86.0 (37 to 100) | 81.0 (13 to 100) | 50.0 (0.0 to 78) |  |
+Table 3.
+Summary of Maximum Drug Liking (Emax), and Take Drug Again (Emax), Following Administration of ROXYBOND, Oxycodone Immediate-release Tablets, and Placebo in Recreational Opioid Users (N=29)
 
-Figure 1.
-Mean Drug Liking VAS Scores Over Time (N=29)
+| VAS |  | Crushed Intranasal ROXYBOND 30 mg | Crushed Intranasal Oxycodone immediate-release tablets 30 mg | Intact Oral ROXYBOND 30 mg | Placebo |
+| --- | --- | --- | --- | --- | --- |
+| Drug Liking (Emax) | Mean (SD) | 71.1 (12.01) | 82.9 (11.55) | 81.5 (11.49) | 53.4 (6.34) |
+|  | Median (Range) | 71 (50 to 100) | 82 (50 to 100) | 82.00 (56 to 100) | 51.0 (50 to 77) |
+| Take Drug Again (Emax) | Mean (SD) | 62.2 (24.51) | 82.1 (16.44) | 77.3 (18.11) | 41.9 (20.09) |
+|  | Median (Range) | 62.0 (3 to 99) | 86.0 (37 to 100) | 81.0 (13 to 100) | 50.0 (0.0 to 78) |
 
 The majority of subjects (86%; n=25) experienced some reduction in Emax of Drug Liking VAS with crushed intranasal ROXYBOND compared with crushed intranasal oxycodone immediate-release tablets, whereas 59% (n=17) experienced at least a 30% reduction in Emax of drug liking and 21% (n=6) experienced at least a 50% reduction in Emax of drug liking.
 
@@ -102,7 +102,7 @@ However, abuse by the intranasal, oral, and intravenous route is still possible.
 Additional data, including epidemiological data, when available, may provide further information on the impact of the current formulation of ROXYBOND on the abuse liability of the drug.
 Accordingly, this section may be updated in the future as appropriate.
 
-## 9.3 Dependence
+## 9.3Dependence
 
 Both tolerance and physical dependence can develop during chronic opioid therapy.
 Tolerance is the need for increasing doses of opioids to maintain a defined effect such as analgesia (in the absence of disease progression or other external factors).

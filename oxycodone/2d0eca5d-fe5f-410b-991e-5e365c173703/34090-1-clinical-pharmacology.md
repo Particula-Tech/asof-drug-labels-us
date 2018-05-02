@@ -16,6 +16,7 @@ Effects on the Central Nervous System
 
 Oxycodone produces respiratory depression by direct action on brain stem respiratory centers.
 The respiratory depression involves a reduction in the responsiveness of the brain stem respiratory centers to both increases in carbon dioxide tension and electrical stimulation.
+
 Oxycodone causes miosis, even in total darkness.
 Pinpoint pupils are a sign of opioid overdose but are not pathognomonic (e.g., pontine lesions of hemorrhagic or ischemic origins may produce similar findings).
 Marked mydriasis rather than miosis may be seen due to hypoxia in overdose situations.
@@ -67,7 +68,7 @@ In the fasted state, the extent of absorption (AUC) is equivalent, the rate of a
 Table 4.
 Pharmacokinetic Parameters (Mean ± SD)
 
-| Dose\Parameters | AUC0-t (ng·hr/mL) | AUC0-inf (ng·hr/mL) | Cmax (ng/mL) | Tmax (hr) | Half-Life (hr) |
+| Dose\Parameters | AUC0-t (ng∙hr/mL) | AUC0-inf (ng∙hr/mL) | Cmax (ng/mL) | Tmax (hr) | Half-Life (hr) |
 | --- | --- | --- | --- | --- | --- |
 | Single Dose Pharmacokinetics Study |  |  |  |  |  |
 | ROXYBOND 5 mg tab (fasted) | 45.5±15.4 | 49.0±16.1 | 8.3±2.1 | 1.5a (0.7 to 5.0) | 3.9±1.2 |
@@ -84,9 +85,6 @@ About 60% to 87% of an oral dose of oxycodone reaches the systemic circulation i
 This high oral bioavailability (compared to other oral opioids) is due to lower presystemic and/or first-pass metabolism of oxycodone.
 Dose proportionality of oxycodone has been established using the ROXYBOND 5 mg, 15 mg, and 30 mg tablets based on maximum plasma concentration (Cmax) and extent of absorption (AUC) (Figure 2).
 It takes approximately 18 to 24 hours to reach steady-state plasma concentrations of oxycodone with oxycodone hydrochloride.
-
-Figure 2.
-Mean Oxycodone Pharmacokinetic Profiles of 5-, 15-, 30-mg ROXYBOND Tablets (n=51)
 
 Food Effect
 

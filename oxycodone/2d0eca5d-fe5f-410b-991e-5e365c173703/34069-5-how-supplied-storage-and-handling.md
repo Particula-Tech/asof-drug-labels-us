@@ -6,10 +6,9 @@ The tablets are packaged in 100 tablet opaque HDPE bottles.
 | NDC | Strength | Tablet Shape | Tablet Color | Ink-Print on Tablet Side 1 | Ink-Print on Tablet Side 2 |
 | --- | --- | --- | --- | --- | --- |
 | 65597-501-10 | 5 mg | Round coated tablets | White | IDT/O 5 | None |
-| 65597-502-10 | 15 mg | Green | IDT/O 15 | None |  |
-| 65597-503-10 | 30 mg | Blue | IDT/O 30 | None |  |
+| 65597-502-10 | 15 mg |  | Green | IDT/O 15 | None |
+| 65597-503-10 | 30 mg |  | Blue | IDT/O 30 | None |
 
 Dispense in a tight, light-resistant container, with a child-resistant closure.
 Protect from moisture.
-
 Store at controlled room temperature, 20°C to 25°C (68°F to 77°F), with excursions to 15°C to 30°C (59°F to 86°F).

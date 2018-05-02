@@ -1,4 +1,4 @@
-# 1 INDICATIONS AND USAGE
+# 1INDICATIONS AND USAGE
 
 ROXYBOND is indicated for the management of pain severe enough to require an opioid analgesic and for which alternative treatments are inadequate.
 
