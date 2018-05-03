@@ -79,6 +79,7 @@ If chickenpox develops, treatment with antiviral agents should be considered.
 ### Ophthalmic
 
 Use of corticosteroids may produce posterior subcapsular cataracts, glaucoma with possible damage to the optic nerves, and may enhance the establishment of secondary ocular infections due to bacteria, fungi, or viruses.
+Consider referral to an ophthalmologist for patients who develop ocular symptoms or use corticosteroid-containing products for more than 6 weeks.
 The use of oral corticosteroids is not recommended in the treatment of optic neuritis and may lead to an increase in the risk of new episodes.
 Corticosteroids should not be used in active ocular herpes simplex.
 

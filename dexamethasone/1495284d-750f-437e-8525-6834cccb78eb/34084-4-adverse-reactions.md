@@ -20,6 +20,6 @@ Musculoskeletal: Aseptic necrosis of femoral and humeral heads, loss of muscle m
 
 Neurological/Psychiatric: Convulsions, depression, emotional instability, euphoria, headache, increased intracranial pressure with papilledema (pseudotumor cerebri) usually following discontinuation of treatment, insomnia, mood swings, neuritis, neuropathy, paresthesia, personality changes, psychic disorders, vertigo.
 
-Ophthalmic: Exophthalmos, glaucoma, increased intraocular pressure, posterior subcapsular cataracts.
+Ophthalmic: Exophthalmos, glaucoma, increased intraocular pressure, posterior subcapsular cataracts, vision blurred.
 
 Other: Abnormal fat deposits, decreased resistance to infection, hiccups, increased or decreased motility and number of spermatozoa, malaise, moon face, weight gain.

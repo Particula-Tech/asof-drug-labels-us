@@ -6,7 +6,7 @@ They are available as follows:
 
 No. 7601 — 0.75 mg, bluish-green in color and coded MSD 63.
 
-NDC 0006-0063-12 5-12 PAK (package of 12)
+NDC 0006-0063-12 5-12 PAK® (package of 12)
 
 NDC 0006-0063-68 bottles of 100.
 
