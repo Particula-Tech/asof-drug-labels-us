@@ -44,8 +44,9 @@ There were no relevant differences in adverse reactions for subgroups of patient
 
 In addition to the adverse reactions reported during clinical trials and listed above, adverse events have been identified during post approval use of CLARINEX-D 12 HOUR Extended Release Tablets.
 Because these events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-Adverse events identified from post-marketing surveillance on the use of CLARINEX-D 12 HOUR Extended Release Tablets include tachycardia, palpitations, dyspnea, rash and pruritus.
 
-In addition to these events, the following spontaneous adverse events have been reported during the marketing of desloratadine as a single ingredient product: headache, somnolence, dizziness and rarely hypersensitivity reactions (such as urticaria, edema and anaphylaxis), psychomotor hyperactivity, movement disorders (including dystonia, tics, and extrapyramidal symptoms), seizures, and elevated liver enzymes including bilirubin and, very rarely, hepatitis and increased appetite.
+Adverse events identified from post-marketing surveillance on the use of CLARINEX-D 12 HOUR Extended Release Tablets include: Cardiac disorders: tachycardia, palpitations Respiratory, thoracic and mediastinal disorders: dyspnea Skin and subcutaneous tissue disorders: rash, pruritus
+
+In addition to these events, the following spontaneous adverse events have been reported during the marketing of desloratadine as a single ingredient product: Nervous system disorders: headache, somnolence, dizziness, psychomotor hyperactivity, movement disorders (including dystonia, tics, and extrapyramidal symptoms), seizures (reported in patients with and without a known seizure disorder) Immune system disorders: hypersensitivity reactions (such as urticaria, edema and anaphylaxis) Investigations: elevated liver enzymes including bilirubin Hepatobiliary disorders: hepatitis Metabolism and nutrition disorders: increased appetite
 
 Cases of severe skin reactions such as acute generalized exanthematous pustulosis (AGEP) have been reported with pseudoephedrine-containing products.

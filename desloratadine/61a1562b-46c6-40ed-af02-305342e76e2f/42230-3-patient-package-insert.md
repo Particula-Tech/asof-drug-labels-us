@@ -40,6 +40,7 @@ Before you take CLARINEX-D 12 Hour Extended Release Tablets, tell your doctor if
 - hyperthyroidism
 - have prostate problems
 - have liver or kidney problems
+- have a medical or family history of seizures
 - have any other medical conditions
 - are pregnant or plan to become pregnant.
   It is not known if CLARINEX-D 12 Hour Extended Release Tablets will harm your unborn baby.

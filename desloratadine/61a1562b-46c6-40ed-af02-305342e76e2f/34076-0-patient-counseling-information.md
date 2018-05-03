@@ -4,7 +4,7 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
 
 ## 17.1 Cardiovascular and Central Nervous System Effects
 
-Patients should be informed that pseudoephedrine, one of the active ingredients in CLARINEX-D 12 HOUR Extended Release Tablets may cause cardiovascular or central nervous system effects such as insomnia, dizziness, tremor, or arrhythmia.
+Patients should be informed that pseudoephedrine, one of the active ingredients in CLARINEX-D 12 HOUR Extended Release Tablets may cause cardiovascular or central nervous system effects such as insomnia, dizziness, tremor, convulsions or arrhythmia.
 
 ## 17.2 Dosing
 
