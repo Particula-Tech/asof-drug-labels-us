@@ -1,8 +1,8 @@
-# PACKAGE CARTON – ALIMTA 100 mg single-use vial
+PACKAGE CARTON – ALIMTA 100 mg single-dose vial
 
 NDC 0002-7640-01
 
-Single-Use Vial
+Single-Dose Vial
 
 VL7640
 
@@ -20,9 +20,9 @@ www.ALIMTA.com
 
 Lilly
 
-# PACKAGE CARTON – ALIMTA 500 mg single-use vial
+PACKAGE CARTON – ALIMTA 500 mg single-dose vial
 
-Single-Use Vial
+Single-Dose Vial
 
 NDC 0002-7623-01
 
