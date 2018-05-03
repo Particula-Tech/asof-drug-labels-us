@@ -32,7 +32,7 @@ Ophthalmic: conjunctivitis, serious visual changes of unknown etiology.
 
 Pulmonary System: respiratory fibrosis, respiratory failure, interstitial pneumonitis; deaths have been reported, and chronic interstitial obstructive pulmonary disease has occasionally occurred.
 
-Skin: erythematous rashes, pruritus, urticaria, photosensitivity, pigmentary changes, alopecia, ecchymosis, telangiectasia, acne, furunculosis, erythema multiforme, toxic epidermal necrolysis, Stevens-Johnson Syndrome, skin necrosis, skin ulceration, and exfoliative dermatitis.
+Skin: erythematous rashes, pruritus, urticaria, photosensitivity, pigmentary changes, alopecia, ecchymosis, telangiectasia, acne, furunculosis, erythema multiforme, toxic epidermal necrolysis, Stevens-Johnson syndrome, skin necrosis, skin ulceration, and exfoliative dermatitis.
 
 Urogenital System: severe nephropathy or renal failure, azotemia, cystitis, hematuria; defective oogenesis or spermatogenesis, transient oligospermia, menstrual dysfunction, vaginal discharge, and gynecomastia; infertility, abortion, fetal defects.
 

@@ -20,9 +20,7 @@ CA - A Cancer Journal for Clinicians Sept/Oct 1983; 258-263.
 American Society of Hospital Pharmacists technical assistance bulletin on handling cytotoxic and hazardous drugs.
 Am J Hosp Pharm 1990; 47:1033-1049.
 
-TEVA PHARMACEUTICALS USA, INC.
-
-North Wales, PA 19454
+TEVA PHARMACEUTICALS USA, INC. North Wales, PA 19454
 
 Rev.
-B 2/2016
+C 3/2018

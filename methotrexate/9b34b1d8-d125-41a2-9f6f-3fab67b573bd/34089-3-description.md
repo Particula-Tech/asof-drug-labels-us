@@ -4,8 +4,8 @@ Methotrexate, USP (formerly Amethopterin) is an antimetabolite used in the treat
 Chemically methotrexate is N-[4-[[(2,4-diamino-6-pteridinyl)methyl]methylamino]benzoyl]-L-glutamic acid.
 The structural formula is:
 
-1. C20H22N8O5 M.W.
-   454.45
+C20H22N8O5 M.W.
+454.45
 
 Methotrexate Tablets USP for oral administration, are available in bottles of 36 and 100.
 Methotrexate Tablets USP contain an amount of methotrexate sodium equivalent to 2.5 mg of methotrexate, USP.

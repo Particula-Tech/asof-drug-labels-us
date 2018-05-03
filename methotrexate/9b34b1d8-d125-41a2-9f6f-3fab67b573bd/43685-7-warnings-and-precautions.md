@@ -24,6 +24,7 @@ Due to diminished hepatic and renal function as well as decreased folate stores 
 Patients should be informed of the early signs and symptoms of toxicity, of the need to see their physician promptly if they occur, and the need for close follow-up, including periodic laboratory tests to monitor toxicity.
 
 Both the physician and pharmacist should emphasize to the patient that the recommended dose is taken weekly in rheumatoid arthritis and psoriasis, and that mistaken daily use of the recommended dose has led to fatal toxicity.
+Patients should be encouraged to read the Patient Instructions sheet within the Dose Pack.
 Prescriptions should not be written or refilled on a PRN basis.
 
 Patients should be informed of the potential benefit and risk in the use of methotrexate.
@@ -74,6 +75,10 @@ Certain side effects such as mouth sores may be reduced by folate supplementatio
 
 Trimethoprim/sulfa-methoxazole has been reported rarely to increase bone marrow suppression in patients receiving methotrexate, probably by an additive antifolate effect.
 
+The use of nitrous oxide anesthesia potentiates the effect of methotrexate on folate-dependent metabolic pathways, resulting in the potential for increased toxicity such as stomatitis, myelosuppression, and neurotoxicity.
+Avoid concomitant nitrous oxide anesthesia in patients receiving methotrexate.
+Use caution when administering methotrexate after a recent history of nitrous oxide administration.
+
 ## Carcinogenesis, Mutagenesis, and Impairment of Fertility
 
 No controlled human data exist regarding the risk of neoplasia with methotrexate.
@@ -98,12 +103,12 @@ See CONTRAINDICATIONS.
 Safety and effectiveness in pediatric patients have been established only in cancer chemotherapy and in polyarticular-course juvenile rheumatoid arthritis.
 
 Published clinical studies evaluating the use of methotrexate in children and adolescents (i.e., patients 2 to 16 years of age) with JRA demonstrated safety comparable to that observed in adults with rheumatoid arthritis.
-(See CLINICAL PHARMACOLOGY,ADVERSE REACTIONS and DOSAGE AND ADMINISTRATION.)
+(See CLINICAL PHARMACOLOGY, ADVERSE REACTIONS and DOSAGE AND ADMINISTRATION.)
 
 ## Geriatric Use
 
 Clinical studies of methotrexate did not include sufficient numbers of subjects age 65 and over to determine whether they respond differently from younger subjects.
-In general, dose selection for an elderly patient should be cautious reflecting the greater frequency of decreased hepatic and renal function, decreased folate stores, concomitant disease or other drug therapy (i.e. that interfere with renal function, methotrexate or folate metabolism) in this population (see PRECAUTIONS, Drug Interactions).
+In general, dose selection for an elderly patient should be cautious reflecting the greater frequency of decreased hepatic and renal function, decreased folate stores, concomitant disease or other drug therapy (i.e. that interfere with renal function, methotrexate or folate metabolism) in this population (See PRECAUTIONS, Drug Interactions.)
 Since decline in renal function may be associated with increases in adverse events and serum creatinine measurements may over estimate renal function in the elderly, more accurate methods (i.e., creatine clearance) should be considered.
 Serum methotrexate levels may also be helpful.
 Elderly patients should be closely monitored for early signs of hepatic, bone marrow and renal toxicity.
