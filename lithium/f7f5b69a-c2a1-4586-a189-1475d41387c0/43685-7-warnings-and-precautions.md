@@ -112,7 +112,7 @@ Monitor patients for signs and symptoms of serotonin syndrome, particularly duri
 If serotonin syndrome occurs, consider discontinuation of lithium and/or concomitant serotonergic drugs.
 Examples of serotonergic drugs include selective serotonin reuptake inhibitors (SSRI), serotonin and norepinephrine reuptake inhibitors (SNRI), and monoamine oxidase inhibitors (MAOI).
 
-Concomitant administration of methyldopa, phenytoin, or carbamazepine with lithium may increase the risk of toxic side effects of these drugs.
+Concomitant administration of methyldopa, phenytoin, or carbamazepine with lithium may increase the risk of adverse reactions with these drugs.
 
 The following drugs can lower serum lithium concentrations by increasing urinary lithium excretion: acetazolamide, urea, xanthine preparations, and alkalinizing agents such as sodium bicarbonate.
 
