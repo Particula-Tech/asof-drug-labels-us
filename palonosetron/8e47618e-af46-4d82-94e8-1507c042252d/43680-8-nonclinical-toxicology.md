@@ -7,7 +7,16 @@ Netupitant
 Long-term studies in animals to evaluate carcinogenic potential have not been performed with netupitant.
 Netupitant was not genotoxic in the Ames test, the mouse lymphoma cell mutation test, or the in vivo rat micronucleus test.
 
-Daily oral administration of netupitant in rats at doses up to 30 mg/kg (1.9 times the human AUC in male rats and 3.7 times the human AUC in female rats at the recommended human dose) had no effects on fertility or reproductive performance.
+Daily oral administration of netupitant in rats at doses up to 30 mg/kg (1.9 times the human AUC in male rats and 3.7 times the human AUC in female rats at the recommended dose) had no effects on fertility or reproductive performance.
+
+Fosnetupitant
+
+Long-term studies in animals to evaluate carcinogenic potential have not been performed with fosnetupitant.
+
+Fosnetupitant was not genotoxic in the Ames test and in vivo rat micronucleus test.
+In human lymphocytes, fosnetupitant did not induce structural chromosomal aberrations.
+
+Daily intravenous administration of fosnetupitant in rats at doses up to 39 mg/kg (1.3 times the human AUC for fosnetupitant and 4.3 times the human AUC for netupitant at the recommended single dose to be given with each cycle of chemotherapy) had no effects on fertility or reproductive performance.
 
 Palonosetron
 
@@ -21,4 +30,4 @@ In female rats, it produced hepatocellular adenoma and carcinoma and increased t
 
 Palonosetron was not genotoxic in the Ames test, the Chinese hamster ovarian cell (CHO/HGPRT) forward mutation test, the ex vivo hepatocyte unscheduled DNA synthesis (UDS) test, or the mouse micronucleus test.
 It was, however, positive for clastogenic effects in the Chinese hamster ovarian (CHO) cell chromosomal aberration test.
-Palonosetron at oral doses up to 60 mg/kg/day (about 921 times the recommended human oral dose based on body surface area) was found to have no effect on fertility and reproductive performance of male and female rats.
+Palonosetron at oral doses up to 60 mg/kg/day (about 921 times the recommended oral dose based on body surface area) was found to have no effect on fertility and reproductive performance of male and female rats.

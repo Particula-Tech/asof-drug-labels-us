@@ -1,14 +1,21 @@
 {
   "application_numbers": [
-    "NDA205718"
+    "NDA205718",
+    "NDA210493"
   ],
   "inn": "palonosetron",
   "labeler": "Helsinn Therapeutics (U.S.), Inc.",
   "package_ndcs": [
     "69639-101-01",
-    "69639-101-04"
+    "69639-101-04",
+    "69639-102-01"
   ],
   "products": [
+    {
+      "form": "INJECTION",
+      "generic": "fosnetupitant and palonosetron",
+      "name": "AKYNZEO"
+    },
     {
       "form": "CAPSULE",
       "generic": "netupitant and palonosetron",

@@ -2,7 +2,7 @@
 
 ## 5.1 Hypersensitivity
 
-Hypersensitivity reactions, including anaphylaxis, have been reported with or without known hypersensitivity to other 5-HT3 receptor antagonists.
+Hypersensitivity reactions, including anaphylaxis, have been reported in patients treated with palonosetron, one of the components of AKYNZEO, with or without known hypersensitivity to other 5-HT3 receptor antagonists.
 
 ## 5.2 Serotonin Syndrome
 
@@ -15,4 +15,4 @@ The majority of reports of serotonin syndrome related to 5-HT3 receptor antagoni
 Symptoms associated with serotonin syndrome may include the following combination of signs and symptoms: mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, and hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, and incoordination), seizures, with or without gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
 Patients should be monitored for the emergence of serotonin syndrome, especially with concomitant use of AKYNZEO and other serotonergic drugs.
 If symptoms of serotonin syndrome occur, discontinue AKYNZEO and initiate supportive treatment.
-Patients should be informed of the increased risk of serotonin syndrome, especially if AKYNZEO is used concomitantly with other serotonergic drugs [see Drug Interactions (7), Patient Counseling Information (17)].
+Patients should be informed of the increased risk of serotonin syndrome, especially if AKYNZEO is used concomitantly with other serotonergic drugs [see Drug Interactions (7.3)].

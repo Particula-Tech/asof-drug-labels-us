@@ -4,38 +4,43 @@
 
 Interaction with CYP3A4 Substrates
 
-Netupitant, a component of AKYNZEO, is a moderate inhibitor of CYP3A4.
+Netupitant is a moderate inhibitor of CYP3A4.
 
 AKYNZEO should be used with caution in patients receiving concomitant medications that are primarily metabolized through CYP3A4.
-A single dose of netupitant 300 mg (or Akynzeo containing netupitant 300 mg) significantly inhibits CYP3A4 for 6 days.
+A single oral dose of netupitant 300 mg significantly inhibits CYP3A4 for 6 days.
 Avoid concomitant use of drugs that are CYP3A4 substrates for one week, if feasible.
 If not avoidable, consider dose reduction of CYP3A4 substrates.
 
 Dexamethasone
 
-A single dose of netupitant increased the systemic exposure of concomitant dexamethasone by more than 2-fold on Days 2 and 4.
-Administer a reduced dose of dexamethasone with AKYNZEO [see Dosage and Administration (2), Clinical Pharmacology (12.3)].
+A single oral dose of netupitant 300 mg or a single fosnetupitant infusion of 235 mg increased the systemic exposure of concomitant dexamethasone more than 2-fold on Days 2 and 4.
+Administer a reduced dose of dexamethasone with AKYNZEO [see Dosage and Administration (2.1), Clinical Pharmacology (12.3)].
 
 Midazolam
 
 When administered with netupitant, the systemic exposure to midazolam was significantly increased.
-Consider the potential effects of increased plasma concentrations of midazolam or other benzodiazepines metabolized via CYP3A4 (alprazolam, triazolam) when administering these drugs with AKYNZEO.
+Consider the potential effects of increased plasma concentrations of midazolam or other benzodiazepines metabolized via CYP3A4 (alprazolam, triazolam) when administering these drugs with AKYNZEO [see Clinical Pharmacology (12.3)].
 
-Interaction with chemotherapeutic agents
+Chemotherapeutic Agents
 
 The systemic exposure of chemotherapy agents metabolized by CYP3A4 can increase when administered with AKYNZEO.
 Chemotherapy agents that are known to be metabolized by CYP3A4 include docetaxel, paclitaxel, etoposide, irinotecan, cyclophosphamide, ifosfamide, imatinib, vinorelbine, vinblastine, and vincristine [see Clinical Pharmacology (12.3)].
 Caution and monitoring for chemotherapeutic related adverse reactions are advised in patients receiving chemotherapy agents metabolized primarily by CYP3A4.
 
-Interaction with oral contraceptives
+Oral Contraceptives
 
-Clinically significant effect of AKYNZEO on the efficacy of oral contraceptives containing levonorgestrel and ethinyl estradiol is unlikely.
+There is no clinically significant effect of AKYNZEO on the efficacy of oral contraceptives containing levonorgestrel and ethinyl estradiol [see Clinical Pharmacology (12.3)].
+
+Warfarin
+
+Although it was predicted that co-administration of intravenous AKYNZEO with warfarin would not substantially increase the systemic exposure to S-warfarin (CYP2C9 substrate), the active enantiomer, the effects of AKYNZEO for injection and AKYNZEO capsules on INR and prothrombin time have not been studied.
+Monitor INR and adjust the dosage of warfarin, as needed with concomitant use of AKYNZEO, to maintain the target INR range.
 
 ## 7.2 Effects of Other Drugs on AKYNZEO
 
-Netupitant, a component of AKYNZEO, is mainly metabolized by CYP3A4 [see Clinical Pharmacology (12.3)].
+Netupitant is mainly metabolized by CYP3A4.
 
-In vitro metabolism studies have suggested that CYP2D6 and to a lesser extent CYP3A4 and CYP1A2 are involved in the metabolism of palonosetron.
+Palonosetron is mainly metabolized by CYP2D6 and to a lesser extent by CYP3A4 and CYP1A2.
 
 CYP3A4 Inducers
 
@@ -44,9 +49,10 @@ A strong CYP3A inducer can decrease the efficacy of AKYNZEO by substantially red
 
 CYP3A4 Inhibitors
 
-Concomitant use of AKYNZEO with a strong CYP3A4 inhibitor (e.g., ketoconazole) can significantly increase the systemic exposure to the netupitant component of AKYNZEO.
+Concomitant use of AKYNZEO with a strong CYP3A4 inhibitor (e.g., ketoconazole) can increase the systemic exposure to the netupitant component of AKYNZEO.
 However, no dosage adjustment is necessary for single dose administration of AKYNZEO [see Clinical Pharmacology (12.3)].
 
 ## 7.3 Serotonergic Drugs
 
-Serotonin syndrome (including altered mental status, autonomic instability, and neuromuscular symptoms) has been described following the concomitant use of 5-HT3 receptor antagonists and other serotonergic drugs, including selective serotonin reuptake inhibitors (SSRIs) and serotonin and noradrenaline reuptake inhibitors (SNRIs) [see Warnings and Precautions (5.2)].
+Serotonin syndrome (including altered mental status, autonomic instability, and neuromuscular symptoms) has been described following the concomitant use of 5-HT3 receptor antagonists and other serotonergic drugs, including selective serotonin reuptake inhibitors (SSRIs) and serotonin and noradrenaline reuptake inhibitors (SNRIs).
+If symptoms occur, discontinue AKYNZEO and initiate supportive treatment [see Warnings and Precautions (5.2)].

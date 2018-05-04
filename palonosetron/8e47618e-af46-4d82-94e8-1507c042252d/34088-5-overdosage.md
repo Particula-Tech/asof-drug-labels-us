@@ -1,13 +1,8 @@
 # 10 OVERDOSAGE
 
-No specific information is available on the treatment of overdosage with AKYNZEO.
 In the event of overdose, AKYNZEO should be discontinued and general supportive treatment and monitoring should be provided.
 Because of the antiemetic activity of AKYNZEO, drug-induced emesis may not be effective.
 Dialysis studies have not been performed; due to the large volume of distribution, dialysis is unlikely to be an effective treatment for AKYNZEO overdose.
 
-A total of 33 adult cancer patients were administered oral palonosetron at a dose of 90 μg/kg (equivalent to 6 mg fixed dose), as part of a dose ranging study.
-This is approximately 12 times the recommended oral dose of 0.5 mg palonosetron.
-This dose group had a similar incidence of adverse events compared to the other dose groups and no dose response effects were observed.
-The highest dose of netupitant administered to 1169 cancer patients was 300 mg.
-The highest dose of netupitant administered to 49 healthy subjects was 600 mg.
-A similar incidence of adverse events was observed when compared to lower doses of netupitant in the respective populations of cancer patients and healthy subjects.
+A total of 33 adult cancer patients were administered oral palonosetron at a dose of 90 mcg/kg (approximately 12 times the recommended dose in AKYNZEO capsules), as part of a dose ranging study and had a similar incidence of adverse reactions compared to lower doses.
+A single dose of 600 mg (2 times the recommended dose in AKYNZEO capsules) of oral netupitant was administered to 49 healthy subjects and a similar incidence of adverse reactions was observed when compared to lower doses of netupitant in cancer patients and healthy subjects.
