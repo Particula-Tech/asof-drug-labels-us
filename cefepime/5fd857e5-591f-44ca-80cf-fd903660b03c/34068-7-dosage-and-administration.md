@@ -42,7 +42,7 @@ Adjust the dose of cefepime for injection in patients with creatinine clearance 
 In these patients, the recommended initial dose of cefepime for injection should be the same as in patients with CrCL greater than 60 mL/min except in patients undergoing hemodialysis.
 The recommended doses of cefepime for injection in patients with renal impairment are presented in Table 2.
 
-When only serum creatinine is available, the following formula (Cockcroft and Gault equation)4 may be used to estimate creatinine clearance.
+When only serum creatinine is available, the following formula (Cockcroft and Gault equation)1 may be used to estimate creatinine clearance.
 The serum creatinine should represent a steady state of renal function:
 
 Males: Creatinine Clearance (mL/min) = Weight (kg) x (140 – age)

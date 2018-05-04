@@ -18,4 +18,4 @@ WG Critical Care, LLC
 
 Paramus, NJ 07652
 
-Made in Brazil Revised: September 2017
+Made in Brazil Revised: March 2018
