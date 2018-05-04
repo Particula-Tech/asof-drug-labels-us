@@ -60,6 +60,9 @@ Based on simulation, a 4.5-fold increase in mean Cmax and AUC values at steady-s
 A 3-fold increase in mean Cmax and AUC values at steady-state is expected in poor metabolizers of CYP2D6 administered with strong CYP3A4 inhibitors.
 
 The effects of aripiprazole on the exposures of other drugs are summarized in Figure 3.
+A population PK analysis in patients with major depressive disorder showed no substantial change in plasma concentrations of fluoxetine (20 or 40 mg/day), paroxetine CR (37.5 or 50 mg/day), or sertraline (100 or 150 mg/day) dosed to steady-state.
+The steady-state plasma concentrations of fluoxetine and norfluoxetine increased by about 18% and 36%, respectively, and concentrations of paroxetine decreased by about 27%.
+The steady-state plasma concentrations of sertraline and desmethylsertraline were not substantially changed when these antidepressant therapies were coadministered with aripiprazole.
 
 Studies in Specific Populations
 

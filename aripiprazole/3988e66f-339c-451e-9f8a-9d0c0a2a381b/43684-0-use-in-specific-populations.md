@@ -60,10 +60,11 @@ The effect of aripiprazole on labor and delivery in humans is unknown.
 
 ## 8.3 Nursing Mothers
 
-Aripiprazole is present in human breast milk.
-Because of the potential for serious adverse reactions in nursing infants from aripiprazole, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+None.
 
 ## 8.4 Pediatric Use
+
+Safety and effectiveness in pediatric patients with major depressive disorder or agitation associated with schizophrenia or bipolar mania have not been established.
 
 The pharmacokinetics of aripiprazole and dehydro-aripiprazole in pediatric patients, 10 to 17 years of age, were similar to those in adults after correcting for the differences in body weight [see CLINICAL PHARMACOLOGY (12.3)].
 
@@ -72,9 +73,26 @@ Schizophrenia
 Safety and effectiveness in pediatric patients with schizophrenia were established in a 6-week, placebo-controlled clinical trial in 202 pediatric patients aged 13 to 17 years [see DOSAGE AND ADMINISTRATION (2.1), ADVERSE REACTIONS (6.1), and CLINICAL STUDIES (14.1)].
 Although maintenance efficacy in pediatric patients has not been systematically evaluated, maintenance efficacy can be extrapolated from adult data along with comparisons of aripiprazole pharmacokinetic parameters in adult and pediatric patients.
 
-Information describing a clinical study in which efficacy was not demonstrated in patients ages 6 to 17 years is approved for Otsuka America Pharmaceutical, Inc.'s ABILIFY® (aripiprazole).
-Additional pediatric use information in patients ages 6 to 18 years is approved for Otsuka America Pharmaceutical, Inc.'s ABILIFY® (aripiprazole) product.
-However, due to Otsuka America Pharmaceutical, Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Bipolar I Disorder
+
+Safety and effectiveness in pediatric patients with bipolar mania were established in a 4-week, placebo-controlled clinical trial in 197 pediatric patients aged 10 to 17 years [see DOSAGE AND ADMINISTRATION (2.2), ADVERSE REACTIONS (6.1), and CLINICAL STUDIES (14.2)].
+Although maintenance efficacy in pediatric patients has not been systematically evaluated, maintenance efficacy can be extrapolated from adult data along with comparisons of aripiprazole pharmacokinetic parameters in adult and pediatric patients.
+
+The efficacy of adjunctive aripiprazole with concomitant lithium or valproate in the treatment of manic or mixed episodes in pediatric patients has not been systematically evaluated.
+However, such efficacy and lack of pharmacokinetic interaction between aripiprazole and lithium or valproate can be extrapolated from adult data, along with comparisons of aripiprazole pharmacokinetic parameters in adult and pediatric patients.
+
+Irritability Associated with Autistic Disorder
+
+Safety and effectiveness in pediatric patients demonstrating irritability associated with autistic disorder were established in two 8-week, placebo-controlled clinical trials in 212 pediatric patients aged 6 to 17 years [see INDICATIONS AND USAGE (1), DOSAGE AND ADMINISTRATION (2.4), ADVERSE REACTIONS (6.1), and CLINICAL STUDIES (14.4)].
+A maintenance trial was conducted in pediatric patients (6 to 17 years of age) with irritability associated with autistic disorder.
+The first phase of this trial was an open-label, flexibly dosed (aripiprazole 2 to 15 mg/day) phase in which patients were stabilized (defined as > 25% improvement on the ABC-I subscale, and a CGI-I rating of "much improved" or "very much improved") on aripiprazole for 12 consecutive weeks.
+Overall, 85 patients were stabilized and entered the second, 16-week, double-blind phase where they were randomized to either continue aripiprazole treatment or switch to placebo.
+In this trial, the efficacy of aripiprazole for the maintenance treatment of irritability associated with autistic disorder was not established.
+
+Tourette's Disorder
+
+Safety and effectiveness of aripiprazole in pediatric patients with Tourette's Disorder were established in one 8-week (aged 7 to 17) and one 10-week trial (aged 6 to 18) in 194 pediatric patients [see DOSAGE AND ADMINISTRATION (2.5), ADVERSE REACTIONS (6.1), and CLINICAL STUDIES (14.5)].
+Maintenance efficacy in pediatric patients has not been systematically evaluated.
 
 Juvenile Animal Studies
 
@@ -96,7 +114,7 @@ All drug-related effects were reversible after a 2-month recovery period.
 No dosage adjustment is recommended for elderly patients [see BOXED WARNING, WARNINGS AND PRECAUTIONS (5.1), and CLINICAL PHARMACOLOGY (12.3)].
 
 Of the 13,543 patients treated with oral aripiprazole in clinical trials, 1073 (8%) were ≥65 years old and 799 (6%) were ≥75 years old.
-Placebo-controlled studies of oral aripiprazole in schizophrenia or other indications did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Placebo-controlled studies of oral aripiprazole in schizophrenia, bipolar mania, or major depressive disorder did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 
 Aripiprazole is not approved for the treatment of patients with psychosis associated with Alzheimer's disease [see BOXED WARNING and WARNINGS AND PRECAUTIONS (5.1)].
 

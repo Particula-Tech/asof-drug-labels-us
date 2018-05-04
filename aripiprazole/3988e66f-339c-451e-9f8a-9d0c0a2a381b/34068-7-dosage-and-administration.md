@@ -28,6 +28,58 @@ There are no systematically collected data to specifically address switching pat
 While immediate discontinuation of the previous antipsychotic treatment may be acceptable for some patients with schizophrenia, more gradual discontinuation may be most appropriate for others.
 In all cases, the period of overlapping antipsychotic administration should be minimized.
 
+## 2.2 Bipolar I Disorder
+
+Acute Treatment of Manic and Mixed Episodes
+
+Adults: The recommended starting dose in adults is 15 mg given once daily as monotherapy and 10 mg to 15 mg given once daily as adjunctive therapy with lithium or valproate.
+Aripiprazole can be given without regard to meals.
+The recommended target dose of aripiprazole is 15 mg/day, as monotherapy or as adjunctive therapy with lithium or valproate.
+The dose may be increased to 30 mg/day based on clinical response.
+The safety of doses above 30 mg/day has not been evaluated in clinical trials.
+
+Pediatrics: The recommended starting dose in pediatric patients (10 to 17 years) as monotherapy is 2 mg/day, with titration to 5 mg/day after 2 days, and a target dose of 10 mg/day after 2 additional days.
+Recommended dosing as adjunctive therapy to lithium or valproate is the same.
+Subsequent dose increases, if needed, should be administered in 5 mg/day increments.
+Aripiprazole can be given without regard to meals [see CLINICAL STUDIES (14.2)].
+
+## 2.3 Adjunctive Treatment of Major Depressive Disorder
+
+Adults
+
+The recommended starting dose for aripiprazole as adjunctive treatment for patients already taking an antidepressant is 2 to 5 mg/day.
+The recommended dosage range is 2 to 15 mg/day.
+Dosage adjustments of up to 5 mg/day should occur gradually, at intervals of no less than 1 week [see CLINICAL STUDIES (14.3)].
+Patients should be periodically reassessed to determine the continued need for maintenance treatment.
+
+## 2.4 Irritability Associated with Autistic Disorder
+
+Pediatric Patients (6 to 17 years)
+
+The recommended dosage range for the treatment of pediatric patients with irritability associated with autistic disorder is 5 to 15 mg/day.
+
+Dosing should be initiated at 2 mg/day.
+The dose should be increased to 5 mg/day, with subsequent increases to 10 or 15 mg/day if needed.
+Dose adjustments of up to 5 mg/day should occur gradually, at intervals of no less than 1 week [see CLINICAL STUDIES (14.4)].
+Patients should be periodically reassessed to determine the continued need for maintenance treatment.
+
+## 2.5 Tourette’s Disorder
+
+Pediatric Patients (6 to 18 years)
+
+The recommended dosage range for Tourette's Disorder is 5 to 20 mg/day.
+
+For patients weighing less than 50 kg, dosing should be initiated at 2 mg/day with a target dose of 5 mg/day after 2 days.
+The dose can be increased to 10 mg/day in patients who do not achieve optimal control of tics.
+Dosage adjustments should occur gradually at intervals of no less than 1 week.
+
+For patients weighing 50 kg or more, dosing should be initiated at 2 mg/day for 2 days, and then increased to 5 mg/day for 5 days, with a target dose of 10 mg/day on day 8.
+The dose can be increased up to 20 mg/day for patients who do not achieve optimal control of tics.
+Dosage adjustments should occur gradually in increments of 5 mg/day at intervals of no less than 1 week.
+[see CLINICAL STUDIES (14.5)].
+
+Patients should be periodically reassessed to determine the continued need for maintenance treatment.
+
 ## 2.7 Dosage Adjustments for Cytochrome P450 Considerations
 
 Dosage adjustments are recommended in patients who are known CYP2D6 poor metabolizers and in patients taking concomitant CYP3A4 inhibitors or CYP2D6 inhibitors or strong CYP3A4 inducers (see Table 2).
@@ -35,7 +87,7 @@ When the coadministered drug is withdrawn from the combination therapy, aripipra
 When the coadministered CYP3A4 inducer is withdrawn, aripiprazole dosage should be reduced to the original level over 1 to 2 weeks.
 Patients who may be receiving a combination of strong, moderate, and weak inhibitors of CYP3A4 and CYP2D6 (e.g., a strong CYP3A4 inhibitor and a moderate CYP2D6 inhibitor or a moderate CYP3A4 inhibitor with a moderate CYP2D6 inhibitor), the dosing may be reduced to one-quarter (25%) of the usual dose initially and then adjusted to achieve a favorable clinical response.
 
-Table 2: Dose Adjustments for Aripiprazole in Patients who are known CYP2D6 Poor Metabolizers and Patients Taking Concomitant CYP2D6 Inhibitors, 3A4 Inhibitors, and/or CYP3A4 Inducers
+Table 2 Dose Adjustments for Aripiprazole in Patients who are known CYP2D6 Poor Metabolizers and Patients Taking Concomitant CYP2D6 Inhibitors, 3A4 Inhibitors, and/or CYP3A4 Inducers
 
 | Factors | Dosage Adjustments for Aripiprazole |
 | --- | --- |

@@ -16,33 +16,65 @@ If the prescriber elects to treat such patients with aripiprazole, assess for th
 
 ## 5.2 Cerebrovascular Adverse Events, Including Stroke
 
-In placebo-controlled clinical studies (two flexible dose and one fixed dose study) of dementia-related psychosis, there was an increased incidence of cerebrovascular adverse events (e.g., stroke, transient ischemic attack), including fatalities, in aripiprazole-treated patients (mean age: 84 years; range: 78 to 88 years).
-In the fixed-dose study, there was a statistically significant dose response relationship for cerebrovascular adverse events in patients treated with aripiprazole.
-Aripiprazole is not approved for the treatment of patients with dementia-related psychosis [see BOXED WARNING].
+Adverse Reactions (frequency 1% to < 5%) included:
+
+General disorders and administration site conditions: Flu symptoms, chills.
+
+Cardiac disorders: Arrhythmia, angina pectoris, heart failure, syncope.
+
+Vascular disorders: Hemorrhage, hypertension, postural hypotension, vasodilatation.
+
+Gastrointestinal disorders: Constipation, gastrointestinal hemorrhage, gastritis.
+
+Blood and lymphatic system disorders: Anemia, thrombocytopenia, ecchymosis.
+
+Hepatobiliary disorders: Elevated liver enzymes.
+
+Musculoskeletal and connective tissue disorders: Arthralgia, myalgia.
+
+Psychiatric disorders: Depression, confusion, nervousness.
+
+Nervous system disorders: Somnolence, insomnia, amnesia, migraine headache.
+
+Respiratory, thoracic and mediastinal disorders: Epistaxis, pneumonia.
+
+Skin and subcutaneous tissue disorders: Alopecia.
+
+Eye disorders: Abnormal vision, diplopia.
+
+Ear and labyrinth disorders: Tinnitus
+
+Renal and urinary disorders: Hematuria, renal failure.
+
+Other less frequent adverse reactions (<1%) were:
+
+Cardiac disorders: Ventricular tachycardia, supraventricular tachycardia.
+
+Nervous system disorders: Hypoesthesia.
+
+Clinical Study in Pediatric Patients
+
+The frequency of adverse events observed in pediatric patients was similar to adult patients.
+The most common adverse events observed in pediatric patients were fever, epistaxis, headache, and fatigue during the 3-month anagrelide treatment in the study.
+Episodes of increased pulse and decreased systolic or diastolic blood pressure beyond the normal ranges in the absence of clinical symptoms were observed.
+Adverse events that had been reported in these pediatric patients prior to the study and were considered to be related to anagrelide treatment based on retrospective review were; palpitations, headache, nausea, vomiting, abdominal pain, back pain, anorexia, fatigue, and muscle cramps.
 
 ## 5.3 Suicidal Thoughts and Behaviors in Children, Adolescents, and Young Adults
 
-Patients with major depressive disorder (MDD), both adult and pediatric, may experience worsening of their depression and/or the emergence of suicidal ideation and behavior (suicidality) or unusual changes in behavior, whether or not they are taking antidepressant medications, and this risk may persist until significant remission occurs.
-Suicide is a known risk of depression and certain other psychiatric disorders, and these disorders themselves are the strongest predictors of suicide.
-There has been a long-standing concern, however, that antidepressants may have a role in inducing worsening of depression and the emergence of suicidality in certain patients during the early phases of treatment.
-Pooled analyses of short-term, placebo-controlled trials of antidepressant drugs (SSRIs and others) showed that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18 to 24) with MDD and other psychiatric disorders.
-Short-term studies did not show an increase in the risk of suicidality with antidepressants compared to placebo in adults beyond age 24; there was a reduction with antidepressants compared to placebo in adults aged 65 and older.
+The following adverse reactions have been identified during post-marketing use of anagrelide.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+Cases of torsades de pointes, interstitial lung diseases (including allergic alveolitis, eosinophilic pneumonia and interstitial pneumonitis) [see Warnings and Precautions (5)], tubulointerstitial nephritis and clinically significant hepatotoxicity (including symptomatic ALT and AST elevations and elevations greater than three times the ULN) have been reported.
 
-The pooled analyses of placebo-controlled trials in children and adolescents with MDD, Obsessive Compulsive Disorder (OCD), or other psychiatric disorders included a total of 24 short-term trials of 9 antidepressant drugs in over 4400 patients.
-The pooled analyses of placebo-controlled trials in adults with MDD or other psychiatric disorders included a total of 295 short-term trials (median duration of 2 months) of 11 antidepressant drugs in over 77,000 patients.
-There was considerable variation in risk of suicidality among drugs, but a tendency toward an increase in the younger patients for almost all drugs studied.
-There were differences in absolute risk of suicidality across the different indications, with the highest incidence in MDD.
-The risk differences (drug vs. placebo), however, were relatively stable within age strata and across indications.
-These risk differences (drug-placebo difference in the number of cases of suicidality per 1000 patients treated) are provided in Table 5.
+Other adverse events in pediatric patients reported in spontaneous reports and literature reviews include anemia, cutaneous photosensitivity and elevated leukocyte count.
 
 Table 5:
 
-| Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1000 Patients Treated |  |
-| --- | --- | --- |
-|  | Increases Compared to Placebo |  |
-| <18 18 to 24 | 14 additional cases 5 additional cases |  |
-|  | Decreases Compared to Placebo |  |
-| 25 to 64 ≥65 |  | 1 fewer case 6 fewer cases |
+| Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1000 Patients Treated |  |  |
+| --- | --- | --- | --- |
+|  | Increases Compared to Placebo |  |  |
+| <18 18 to 24 | 14 additional cases 5 additional cases |  |  |
+|  | Decreases Compared to Placebo |  |  |
+| 25 to 64 ≥65 |  | 1 fewer case 6 fewer cases |  |
 
 No suicides occurred in any of the pediatric trials.
 There were suicides in the adult trials, but the number was not sufficient to reach any conclusion about drug effect on suicide.
@@ -129,7 +161,7 @@ In some cases, hyperglycemia has resolved when the atypical antipsychotic was di
 
 Adults
 
-In an analysis of 13 placebo-controlled monotherapy trials in adults, primarily with schizophrenia or another indication, the mean change in fasting glucose in aripiprazole-treated patients (+4.4 mg/dL; median exposure 25 days; N=1057) was not significantly different than in placebo-treated patients (+2.5 mg/dL; median exposure 22 days; N=799).
+In an analysis of 13 placebo-controlled monotherapy trials in adults, primarily with schizophrenia or bipolar disorder, the mean change in fasting glucose in aripiprazole-treated patients (+4.4 mg/dL; median exposure 25 days; N=1057) was not significantly different than in placebo-treated patients (+2.5 mg/dL; median exposure 22 days; N=799).
 Table 6 shows the proportion of aripiprazole-treated patients with normal and borderline fasting glucose at baseline (median exposure 25 days) that had treatment-emergent high fasting glucose measurements compared to placebo-treated patients (median exposure 22 days).
 
 Table 6: Changes in Fasting Glucose From Placebo-Controlled Monotherapy Trials in Adult Patients
@@ -143,20 +175,44 @@ Table 6: Changes in Fasting Glucose From Placebo-Controlled Monotherapy Trials i
 
 At 24 weeks, the mean change in fasting glucose in aripiprazole-treated patients was not significantly different than in placebo-treated patients [+2.2 mg/dL (n=42) and +9.6 mg/dL (n=28), respectively].
 
+The mean change in fasting glucose in adjunctive aripiprazole-treated patients with major depressive disorder (+0.7 mg/dL; median exposure 42 days; N=241) was not significantly different than in placebo-treated patients (+0.8 mg/dL; median exposure 42 days; N=246).
+Table 7 shows the proportion of adult patients with changes in fasting glucose levels from two placebo-controlled, adjunctive trials (median exposure 42 days) in patients with major depressive disorder.
+
+Table 7: Changes in Fasting Glucose From Placebo-Controlled Adjunctive Trials in Adult Patients with Major Depressive Disorder
+
+| Fasting Glucose | Category Change (at least once) from Baseline | Treatment Arm | n/N | % |
+| --- | --- | --- | --- | --- |
+| Normal to High (<100 mg/dL to ≥126 mg/dL) | Aripiprazole | 2/201 | 1.0 |  |
+| Placebo | 2/204 | 1.0 |  |  |
+| Borderline to High (≥100 mg/dL and <126 mg/dL to ≥126 mg/dL) | Aripiprazole | 4/34 | 11.8 |  |
+| Placebo | 3/37 | 8.1 |  |  |
+
 Pediatric Patients and Adolescents
 
-In an analysis of two placebo-controlled trials in adolescents with schizophrenia (13 to 17 years) and pediatric patients with another indication (10 to 17 years), the mean change in fasting glucose in aripiprazole-treated patients (+4.8 mg/dL; with a median exposure of 43 days; N=259) was not significantly different than in placebo-treated patients (+1.7 mg/dL; with a median exposure of 42 days; N=123).
+In an analysis of two placebo-controlled trials in adolescents with schizophrenia (13 to 17 years) and pediatric patients with bipolar disorder (10 to 17 years), the mean change in fasting glucose in aripiprazole-treated patients (+4.8 mg/dL; with a median exposure of 43 days; N=259) was not significantly different than in placebo-treated patients (+1.7 mg/dL; with a median exposure of 42 days; N=123).
 
-Table 8 shows the proportion of patients with changes in fasting glucose levels from the pooled adolescent schizophrenia and other pediatric patients (median exposure of 42 to 43 days).
+In an analysis of two placebo-controlled trials in pediatric and adolescent patients with irritability associated with autistic disorder (6 to 17 years) with median exposure of 56 days, the mean change in fasting glucose in aripiprazole-treated patients (–0.2 mg/dL; N=83) was not significantly different than in placebo-treated patients (–0.6 mg/dL; N=33).
+
+In an analysis of two placebo-controlled trials in pediatric and adolescent patients with Tourette's disorder (6 to 18 years) with median exposure of 57 days, the mean change in fasting glucose in aripiprazole-treated patients (0.79 mg/dL; N=90) was not significantly different than in placebo-treated patients (–1.66 mg/dL; N=58).
+
+Table 8 shows the proportion of patients with changes in fasting glucose levels from the pooled adolescent schizophrenia and pediatric bipolar patients (median exposure of 42 to 43 days), from two placebo-controlled trials in pediatric patients (6 to 17 years) with irritability associated with autistic disorder (median exposure of 56 days), and from the two placebo-controlled trials in pediatric patients (6 to 18 year) with Tourette's Disorder (median exposure 57 days).
 
 Table 8: Changes in Fasting Glucose From Placebo-Controlled Trials in Pediatric and Adolescent Patients
 
 | Category Change (at least once) from Baseline | Indication | Treatment Arm | n/N | % |
 | --- | --- | --- | --- | --- |
-| Fasting Glucose Normal to High (<100 mg/dL to ≥126 mg/dL) | Pooled Schizophrenia and Another Indication | Aripiprazole | 2/236 | 0.8 |
+| Fasting Glucose Normal to High (<100 mg/dL to ≥126 mg/dL) | Pooled Schizophrenia and Bipolar Disorder | Aripiprazole | 2/236 | 0.8 |
 | Placebo | 2/110 | 1.8 |  |  |
-| Fasting Glucose Borderline to High (≥100 mg/dL and <126 mg/dL to ≥126 mg/dL) | Pooled Schizophrenia and Another Indication | Aripiprazole | 1/22 | 4.5 |
-|  | Placebo | 0/12 | 0 |  |
+| Irritability Associated with Autistic Disorder | Aripiprazole | 0/73 | 0 |  |
+| Placebo | 0/32 | 0 |  |  |
+| Tourette's Disorder | Aripiprazole | 3/88 | 3.4 |  |
+| Placebo | 1/58 | 1.7 |  |  |
+| Fasting Glucose Borderline to High (≥100 mg/dL and <126 mg/dL to ≥126 mg/dL) | Pooled Schizophrenia and Bipolar Disorder | Aripiprazole | 1/22 | 4.5 |
+| Placebo | 0/12 | 0 |  |  |
+| Irritability Associated with Autistic Disorder | Aripiprazole | 0/9 | 0 |  |
+| Placebo | 0/1 | 0 |  |  |
+| Tourette's Disorder | Aripiprazole | 0/11 | 0 |  |
+| Placebo | 0/4 | 0 |  |  |
 
 At 12 weeks in the pooled adolescent schizophrenia and other indication trials, the mean change in fasting glucose in aripiprazole-treated patients was not significantly different than in placebo-treated patients [+2.4 mg/dL (n=81) and +0.1 mg/dL (n=15), respectively].
 
@@ -186,11 +242,26 @@ Table 9: Changes in Blood Lipid Parameters From Placebo-Controlled Monotherapy T
 
 In monotherapy trials in adults, the proportion of patients at 12 weeks and 24 weeks with changes from Normal to High in total cholesterol (fasting/nonfasting), fasting triglycerides, and fasting LDL cholesterol were similar between aripiprazole- and placebo-treated patients: at 12 weeks, Total Cholesterol (fasting/nonfasting), 1/71 (1.4%) vs. 3/74 (4.1%); Fasting Triglycerides, 8/62 (12.9%) vs. 5/37 (13.5%); Fasting LDL Cholesterol, 0/34 (0%) vs. 1/25 (4.0%), respectively; and at 24 weeks, Total Cholesterol (fasting/nonfasting), 1/42 (2.4%) vs. 3/37 (8.1%); Fasting Triglycerides, 5/34 (14.7%) vs. 5/20 (25%); Fasting LDL Cholesterol, 0/22 (0%) vs. 1/18 (5.6%), respectively.
 
+Table 10 shows the proportion of patients with changes in total cholesterol (fasting/nonfasting), fasting triglycerides, fasting LDL cholesterol, and HDL cholesterol from two placebo-controlled adjunctive trials in adult patients with major depressive disorder (median exposure 42 days).
+
+Table 10: Changes in Blood Lipid Parameters From Placebo-Controlled Adjunctive Trials in Adult Patients with Major Depressive Disorder
+
+|  | Treatment Arm | n/N | % |
+| --- | --- | --- | --- |
+| Total Cholesterol Normal to High (<200 mg/dL to ≥240 mg/dL) | Aripiprazole | 3/139 | 2.2 |
+| Placebo | 7/135 | 5.2 |  |
+| Fasting Triglycerides Normal to High (<150 mg/dL to ≥200 mg/dL) | Aripiprazole | 14/145 | 9.7 |
+| Placebo | 6/147 | 4.1 |  |
+| Fasting LDL Cholesterol Normal to High (<100 mg/dL to ≥160 mg/dL) | Aripiprazole | 0/54 | 0 |
+| Placebo | 0/73 | 0 |  |
+| HDL Cholesterol Normal to Low (≥40 mg/dL to <40 mg/dL) | Aripiprazole | 17/318 | 5.3 |
+| Placebo | 10/286 | 3.5 |  |
+
 Pediatric Patients and Adolescents
 
-Table 11 shows the proportion of adolescents with schizophrenia (13 to 17 years) and pediatric patients with another disorder (10 to 17 years) with changes in total cholesterol and HDL cholesterol (pooled from two placebo-controlled trials; median exposure 42 to 43 days), and fasting triglycerides (pooled from two placebo-controlled trials; median exposure 42 to 44 days).
+Table 11 shows the proportion of adolescents with schizophrenia (13 to 17 years) and pediatric patients with bipolar disorder (10 to 17 years) with changes in total cholesterol and HDL cholesterol (pooled from two placebo-controlled trials; median exposure 42 to 43 days) and fasting triglycerides (pooled from two placebo-controlled trials; median exposure 42 to 44 days).
 
-Table 11: Changes in Blood Lipid Parameters From Placebo-Controlled Monotherapy Trials in Pediatric and Adolescent Patients in Schizophrenia and Another Indication
+Table 11: Changes in Blood Lipid Parameters From Placebo-Controlled Monotherapy Trials in Pediatric and Adolescent Patients in Schizophrenia and Bipolar Disorder
 
 |  | Treatment Arm | n/N | % |
 | --- | --- | --- | --- |
@@ -201,7 +272,33 @@ Table 11: Changes in Blood Lipid Parameters From Placebo-Controlled Monotherapy 
 | HDL Cholesterol Normal to Low (≥40 mg/dL to <40 mg/dL) | Aripiprazole | 27/236 | 11.4 |
 | Placebo | 22/109 | 20.2 |  |
 
-In monotherapy trials of adolescents with schizophrenia and pediatric patients with another indication, the proportion of patients at 12 weeks and 24 weeks with changes from Normal to High in total cholesterol (fasting/nonfasting), fasting triglycerides, and fasting LDL cholesterol were similar between aripiprazole- and placebo-treated patients: at 12 weeks, Total Cholesterol (fasting/nonfasting), 0/57 (0%) vs. 0/15 (0%); Fasting Triglycerides, 2/72 (2.8%) vs. 1/14 (7.1%), respectively; and at 24 weeks, Total Cholesterol (fasting/nonfasting), 0/36 (0%) vs. 0/12 (0%); Fasting Triglycerides, 1/47 (2.1%) vs. 1/10 (10.0%), respectively.
+In monotherapy trials of adolescents with schizophrenia and pediatric patients with bipolar disorder, the proportion of patients at 12 weeks and 24 weeks with changes from Normal to High in total cholesterol (fasting/nonfasting), fasting triglycerides, and fasting LDL cholesterol were similar between aripiprazole- and placebo-treated patients: at 12 weeks, Total Cholesterol (fasting/nonfasting), 0/57 (0%) vs. 0/15 (0%); Fasting Triglycerides, 2/72 (2.8%) vs. 1/14 (7.1%), respectively; and at 24 weeks, Total Cholesterol (fasting/nonfasting), 0/36 (0%) vs. 0/12 (0%); Fasting Triglycerides, 1/47 (2.1%) vs. 1/10 (10.0%), respectively.
+
+Table 12 shows the proportion of patients with changes in total cholesterol (fasting/nonfasting) and fasting triglycerides (median exposure 56 days) and HDL cholesterol (median exposure 55 to 56 days) from two placebo-controlled trials in pediatric patients (6 to 17 years) with irritability associated with autistic disorder.
+
+Table 12: Changes in Blood Lipid Parameters From Placebo-Controlled Trials in Pediatric Patients with Autistic Disorder
+
+| Total Cholesterol Normal to High (<170 mg/dL to ≥200 mg/dL) | Treatment Arm | n/N | % |
+| --- | --- | --- | --- |
+| Aripiprazole | 1/95 | 1.1 |  |
+| Placebo | 0/34 | 0 |  |
+| Fasting Triglycerides Normal to High (<150 mg/dL to ≥200 mg/dL) | Aripiprazole | 0/75 | 0 |
+| Placebo | 0/30 | 0 |  |
+| HDL Cholesterol Normal to Low (≥40 mg/dL to <40 mg/dL) | Aripiprazole | 9/107 | 8.4 |
+| Placebo | 5/49 | 10.2 |  |
+
+Table 13 shows the proportion of patients with changes in total cholesterol (fasting/nonfasting) and fasting triglycerides (median exposure 57 days) and HDL cholesterol (median exposure 57 days) from two placebo-controlled trials in pediatric patients (6 to 18 years) with Tourette's Disorder.
+
+Table 13: Changes in Blood Lipid Parameters From Placebo-Controlled Trials in Pediatric Patients with Tourette's Disorder
+
+| Total Cholesterol Normal to High (<170 mg/dL to ≥200 mg/dL) | Treatment Arm | n/N | % |
+| --- | --- | --- | --- |
+| Aripiprazole | 1/85 | 1.2 |  |
+| Placebo | 0/46 | 0 |  |
+| Fasting Triglycerides Normal to High (<150 mg/dL to ≥200 mg/dL) | Aripiprazole | 5/94 | 5.3 |
+| Placebo | 2/55 | 3.6 |  |
+| HDL Cholesterol Normal to Low (≥40 mg/dL to <40 mg/dL) | Aripiprazole | 4/108 | 3.7 |
+| Placebo | 2/67 | 3.0 |  |
 
 Weight Gain
 
@@ -210,8 +307,13 @@ Clinical monitoring of weight is recommended.
 
 Adults
 
-In an analysis of 13 placebo-controlled monotherapy trials, primarily from pooled schizophrenia and another indication, with a median exposure of 21 to 25 days, the mean change in body weight in aripiprazole-treated patients was +0.3 kg (N=1673) compared to –0.1 kg (N=1100) in placebo-controlled patients.
-At 24 weeks, the mean change from baseline in body weight in aripiprazole-treated patients was – 1.5 kg (n=73) compared to –0.2 kg (n=46) in placebo-treated patients.
+In an analysis of 13 placebo-controlled monotherapy trials, primarily from pooled schizophrenia and bipolar disorder, with a median exposure of 21 to 25 days, the mean change in body weight in aripiprazole-treated patients was +0.3 kg (N=1673) compared to –0.1 kg (N=1100) in placebo-controlled patients.
+At 24 weeks, the mean change from baseline in body weight in aripiprazole-treated patients was
+
+–1.5 kg (n=73) compared to –0.2 kg (n=46) in placebo-treated patients.
+
+In the trials adding aripiprazole to antidepressants, patients first received 8 weeks of antidepressant treatment followed by 6 weeks of adjunctive aripiprazole or placebo in addition to their ongoing antidepressant treatment.
+The mean change in body weight in patients receiving adjunctive aripiprazole was +1.7 kg (N=347) compared to +0.4 kg (N=330) in patients receiving adjunctive placebo.
 
 Table 14 shows the percentage of adult patients with weight gain ≥7% of body weight by indication.
 
@@ -221,35 +323,45 @@ Table 14: Percentage of Patients From Placebo-Controlled Trials in Adult Patient
 | --- | --- | --- | --- | --- |
 | Weight gain ≥7% of body weight | Schizophreniaa | Aripiprazole | 852 | 69 (8.1) |
 | Placebo | 379 | 12 (3.2) |  |  |
-|  | Other Indicationb | Aripiprazole | 719 | 16 (2.2) |
+| Bipolar Maniab | Aripiprazole | 719 | 16 (2.2) |  |
 | Placebo | 598 | 16 (2.7) |  |  |
-| a 4 to 6 weeks duration. b 3 weeks duration. |  |  |  |  |
+| Major Depressive Disorder (Adjunctive Therapy)c | Aripiprazole | 347 | 18 (5.2) |  |
+| Placebo | 330 | 2 (0.6) |  |  |
+| a 4 to 6 weeks duration. b3 weeks duration. c6 weeks duration |  |  |  |  |
 
 Pediatric Patients and Adolescents
 
-In an analysis of two placebo-controlled trials in adolescents with schizophrenia (13 to 17 years) and pediatric patients with another indication (10 to 17 years) with median exposure of 42 to 43 days, the mean change in body weight in aripiprazole-treated patients was +1.6 kg (N=381) compared to +0.3 kg (N=187) in placebo-treated patients.
+In an analysis of two placebo-controlled trials in adolescents with schizophrenia (13 to 17 years) and pediatric patients with bipolar disorder (10 to 17 years) with median exposure of 42 to 43 days, the mean change in body weight in aripiprazole-treated patients was +1.6 kg (N=381) compared to +0.3 kg (N=187) in placebo-treated patients.
 At 24 weeks, the mean change from baseline in body weight in aripiprazole-treated patients was +5.8 kg (n=62) compared to +1.4 kg (n=13) in placebo-treated patients.
+
+In two short-term, placebo-controlled trials in patients (6 to 17 years) with irritability associated with autistic disorder with median exposure of 56 days, the mean change in body weight in aripiprazole-treated patients was +1.6 kg (n=209) compared to +0.4 kg (n=98) in placebo-treated patients.
+
+In two short-term, placebo-controlled trials in patients (6 to 18 years) with Tourette's Disorder with median exposure of 57 days, the mean change in body weight in aripiprazole-treated patients was +1.5 kg (n=105) compared to +0.4 kg (n=66) in placebo-treated patients.
 
 Table 15 shows the percentage of pediatric and adolescent patients with weight gain ≥7% of body weight by indication.
 
 Table 15: Percentage of Patients From Placebo-Controlled Monotherapy Trials in Pediatric and Adolescent Patients with Weight Gain ≥7% of Body Weight
 
-| Weight gain ≥7% of body weight | Indication | Treatment Arm | N | Patients n (%) |
+|  | Indication | Treatment Arm | N | Patients n (%) |
 | --- | --- | --- | --- | --- |
-| Pooled Schizophrenia and Another Indicationa | Aripiprazole | 381 | 20 (5.2) |  |
+| Weight gain ≥7% of body weight | Pooled Schizophrenia andBipolar Maniaa | Aripiprazole | 381 | 20 (5.2) |
 | Placebo | 187 | 3 (1.6) |  |  |
-| a 4 to 6 weeks duration. |  |  |  |  |
+| Irritability Associated with Autistic Disorderb | Aripiprazole | 209 | 55 (26.3) |  |
+| Placebo | 98 | 7 (7.1) |  |  |
+| Tourette's Disorderc | Aripiprazole | 105 | 21 (20.0) |  |
+| Placebo | 66 | 5 (7.6) |  |  |
+| a 4 to 6 weeks duration. b 8 weeks duration. c 8-10 weeks duration |  |  |  |  |
 
-In an open-label trial that enrolled patients from the two placebo-controlled trials of adolescents with schizophrenia (13 to 17 years) and pediatric patients with another indication (10 to 17 years), 73.2% of patients (238/325) completed 26 weeks of therapy with aripiprazole.
+In an open-label trial that enrolled patients from the two placebo-controlled trials of adolescents with schizophrenia (13 to 17 years) and pediatric patients with bipolar disorder (10 to 17 years), 73.2% of patients (238/325) completed 26 weeks of therapy with aripiprazole.
 After 26 weeks, 32.8% of patients gained ≥7% of their body weight, not adjusted for normal growth.
 To adjust for normal growth, z-scores were derived (measured in standard deviations [SD]), which normalize for the natural growth of pediatric patients and adolescents by comparisons to age- and gender-matched population standards.
 A z-score change <0.5 SD is considered not clinically significant.
 After 26 weeks, the mean change in z-score was 0.09 SD.
 
-When treating pediatric patients for any indication, weight gain should be monitored and assessed against that expected for normal growth.
+In an open-label trial that enrolled patients from two short-term, placebo-controlled trials, patients (6 to 17 years) with irritability associated with autistic disorder, as well as de novo patients, 60.3% (199/330) completed one year of therapy with aripiprazole.
+The mean change in weight z-score was 0.26 SDs for patients receiving >9 months of treatment.
 
-Additional pediatric use information is approved for Otsuka America Pharmaceutical, Inc.'s ABILIFY® (aripiprazole) product.
-However, due to Otsuka America Pharmaceutical, Inc.'s marketing exclusivity rights, this drug product is not labeled with that information.
+When treating pediatric patients for any indication, weight gain should be monitored and assessed against that expected for normal growth.
 
 ## 5.7 Pathological Gambling and Other Compulsive Behaviors
 
@@ -310,11 +422,10 @@ Appropriate care is advised when prescribing aripiprazole for patients who will 
 
 ## 5.14 Suicide
 
-The possibility of a suicide attempt is inherent in psychotic illnesses, and close supervision of high-risk patients should accompany drug therapy.
+The possibility of a suicide attempt is inherent in psychotic illnesses, bipolar disorder, and major depressive disorder, and close supervision of high-risk patients should accompany drug therapy.
 Prescriptions for aripiprazole should be written for the smallest quantity consistent with good patient management in order to reduce the risk of overdose [see ADVERSE REACTIONS (6.1, 6.2)].
 
 ## 5.15 Dysphagia
 
-Esophageal dysmotility and aspiration have been associated with antipsychotic drug use, including aripiprazole.
-Aspiration pneumonia is a common cause of morbidity and mortality in elderly patients, in particular those with advanced Alzheimer's dementia.
-Aripiprazole and other antipsychotic drugs should be used cautiously in patients at risk for aspiration pneumonia [see WARNINGS AND PRECAUTIONS (5.1) and ADVERSE REACTIONS (6.2)].
+The precise mechanism by which anagrelide reduces blood platelet count is unknown.
+In cell culture studies, anagrelide suppressed expression of transcription factors including GATA-1 and FOG-1 required for megakaryocytopoiesis, ultimately leading to reduced platelet production.
