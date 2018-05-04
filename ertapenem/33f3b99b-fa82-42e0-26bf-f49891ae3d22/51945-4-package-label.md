@@ -1,4 +1,4 @@
-PRINCIPAL DISPLAY PANEL - Single Dose Vial Label 1 g
+# PRINCIPAL DISPLAY PANEL - 1 g Vial Label
 
 1 Single dose vial 1 g
 
@@ -12,13 +12,11 @@ Inactive ingredients: 175 mg sodium bicarbonate and sodium hydroxide to adjust p
 Solutions range from colorless to pale yellow.
 Variations of color within this range do not affect the potency of the product.
 
-FOR INTRAVENOUS OR INTRAMUSCULAR USE 9712303
+FOR INTRAVENOUS OR INTRAMUSCULAR USE
 
-Manuf. for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
+Manuf. for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA By: Laboratoires Merck Sharp & Dohme-Chibret Clermont Ferrand Cedex 9, 63963, France
 
-By: Laboratoires Merck Sharp & Dohme-Chibret Clermont Ferrand Cedex 9, 63963, France
-
-510174V 190112-1 3843
+510752V 260315-1 3843
 
 PRINCIPAL DISPLAY PANEL - Single Dose ADD-Vantage Vial Label 1 g
 

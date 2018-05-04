@@ -2,8 +2,8 @@ Manuf. for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whiteh
 
 By: Laboratoires Merck Sharp & Dohme-Chibret Clermont Ferrand Cedex 9, 63963, France
 
-Copyright © 2001, 2007, 2011 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved
-
 For patent information: www.merck.com/product/patent/home.html
 
-uspi-mk0826-i-1408r019
+Copyright © 2001-2018 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved
+
+uspi-mk0826-i-1805r020

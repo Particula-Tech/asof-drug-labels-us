@@ -85,7 +85,8 @@ DO NOT USE DILUENTS CONTAINING DEXTROSE (α-D-GLUCOSE).
 
 INVANZ MUST BE RECONSTITUTED AND THEN DILUTED PRIOR TO ADMINISTRATION.
 
-1. Reconstitute the contents of a 1 g vial of INVANZ with 10 mL of one of the following: Water for Injection, 0.9% Sodium Chloride Injection or Bacteriostatic Water for Injection.
+1. Reconstitute the contents of a 1 g vial of INVANZ with 10 mL of one of the following: Water for Injection, 0.9% Sodium Chloride Injection or Bacteriostatic Water for Injection, using a syringe equipped with a 21-gauge or smaller diameter needle.
+   NOTE: Use with a needleless IV system is not recommended.
 2. Shake well to dissolve and immediately transfer contents of the reconstituted vial to 50 mL of 0.9% Sodium Chloride Injection.
 3. Complete the infusion within 6 hours of reconstitution.
 
@@ -109,7 +110,8 @@ DO NOT USE DILUENTS CONTAINING DEXTROSE (α-D-GLUCOSE).
 
 INVANZ MUST BE RECONSTITUTED AND THEN DILUTED PRIOR TO ADMINISTRATION.
 
-1. Reconstitute the contents of a 1 g vial of INVANZ with 10 mL of one of the following: Water for Injection, 0.9% Sodium Chloride Injection or Bacteriostatic Water for Injection.
+1. Reconstitute the contents of a 1 g vial of INVANZ with 10 mL of one of the following: Water for Injection, 0.9% Sodium Chloride Injection or Bacteriostatic Water for Injection, using a syringe equipped with a 21-gauge or smaller diameter needle.
+   NOTE: Use with a needleless IV system is not recommended.
 2. Shake well to dissolve and immediately withdraw a volume equal to 15 mg/kg of body weight (not to exceed 1 g/day) and dilute in 0.9% Sodium Chloride Injection to a final concentration of 20 mg/mL or less.
 3. Complete the infusion within 6 hours of reconstitution.
 
