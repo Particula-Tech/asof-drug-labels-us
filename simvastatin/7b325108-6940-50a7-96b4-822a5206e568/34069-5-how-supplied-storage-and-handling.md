@@ -1,4 +1,4 @@
-# 16 HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 Simvastatin Tablets, USP 5 mg are white to off white, oval, biconvex, film-coated tablets with the logo “B300” debossed on one side and “5” on the other side.
 They are supplied as follows:
