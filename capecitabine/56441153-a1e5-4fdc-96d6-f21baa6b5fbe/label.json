@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA210604"
+  ],
+  "inn": "capecitabine",
+  "labeler": "Aurobindo Pharma Limited",
+  "package_ndcs": [
+    "59651-204-10",
+    "59651-204-60",
+    "59651-205-08",
+    "59651-205-10"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "capecitabine",
+      "name": "Capecitabine"
+    }
+  ],
+  "setid": "56441153-a1e5-4fdc-96d6-f21baa6b5fbe",
+  "source": "dailymed"
+}
