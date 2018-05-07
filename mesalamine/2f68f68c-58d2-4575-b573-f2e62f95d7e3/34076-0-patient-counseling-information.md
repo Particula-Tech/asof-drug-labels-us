@@ -9,7 +9,6 @@ Administration [see Dosage and Administration (2.1)]
 - Inform patients that intact, partially intact, and/or tablet shells have been reported in the stool.
   Instruct patients to contact their physician if this occurs repeatedly.
 - Instruct patients to protect Asacol HD tablets from moisture.
-  Instruct patients to close the container tightly and to leave desiccant pouches in the bottle along with the tablets.
 
 Renal Impairment
 
@@ -22,7 +21,7 @@ Mesalamine-Induced Acute Intolerance Syndrome
 
 Hypersensitivity Reactions
 
-- Inform patients of the signs and symptoms of hypersensitivity reactions, and advise them seek immediate medical care should signs and symptoms occur [see Warnings and Precautions (5.3)].
+- Inform patients of the signs and symptoms of hypersensitivity reactions, and advise them to seek immediate medical care should signs and symptoms occur [see Warnings and Precautions (5.3)].
 
 Hepatic Failure
 
@@ -33,9 +32,9 @@ Blood Disorders
 - Inform elderly patients and those taking azathioprine or 6-mercaptopurine of the risk for blood disorders and the need for periodic monitoring of complete blood cell counts and platelet counts while on therapy.
   Advise patients to complete all blood tests ordered by their physician [see Drug Interactions (7.2), Use in Specific Populations (8.5)].
 
-Distributed by: Allergan USA, Inc. Irvine, CA 92612
+Distributed by: Allergan USA, Inc. Madison, NJ 07940
 
-© 2017 Allergan.
+© 2018 Allergan.
 All rights reserved.
 
 Patented.

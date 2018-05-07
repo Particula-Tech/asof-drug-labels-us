@@ -9,7 +9,6 @@
   Do not cut, break or chew the tablets.
 - Intact, partially intact, and/or tablet shells have been reported in the stool; Instruct patients to contact their physician if this occurs repeatedly.
 - Protect Asacol HD tablets from moisture.
-  Close the container tightly and leave desiccant pouches in the bottle along with the tablets.
 
 ## 2.2 Dosage Information
 

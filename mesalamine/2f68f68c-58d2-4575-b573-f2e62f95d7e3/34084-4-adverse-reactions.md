@@ -67,7 +67,7 @@ Hematologic: Agranulocytosis (rare), aplastic anemia (rare), anemia, thrombocyto
 
 Musculoskeletal: Gout, rheumatoid arthritis, arthritis, arthralgia, joint disorder, myalgia, hypertonia.
 
-Neurological/Psychiatric: Anxiety, depression, somnolence, insomnia, nervousness, confusion, emotional lability, dizziness, vertigo, tremor, paresthesia, hyperesthesia, peripheral neuropathy (rare), Guillain-Barré syndrome (rare), and transverse myelitis (rare), intracranial hypertension.
+Neurological/Psychiatric: Anxiety, depression, somnolence, insomnia, nervousness, confusion, emotional lability, dizziness, vertigo, tremor, paresthesia, hyperesthesia, peripheral neuropathy (rare), Guillain-Barré syndrome (rare), transverse myelitis (rare), and intracranial hypertension.
 
 Respiratory/Pulmonary: Sinusitis, rhinitis, pharyngitis, asthma exacerbation, pleuritis, bronchitis, eosinophilic pneumonia, interstitial pneumonitis.
 

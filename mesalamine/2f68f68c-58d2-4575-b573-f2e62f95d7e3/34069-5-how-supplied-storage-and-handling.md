@@ -4,7 +4,7 @@ Asacol® HD (mesalamine) delayed-release tablets are available as red-brown, cap
 
 NDC 0023-5901-18 Bottle of 180 tablets
 
-Store and dispense in the original bottle, protect from moisture, and keep the bottle tightly closed.
-Do not remove desiccant pouch (silica gel) from bottle.
+Protect from moisture.
+Tablets can be dispensed without desiccant for up to 6 weeks.
 
 Store at controlled room temperature, 20° to 25° C (68° to 77° F); excursions are permitted 15° to 30° C (59° to 86° F). [See USP Controlled Room Temperature]
