@@ -85,7 +85,11 @@ Table 1: Approximate Dose Correspondence Between Symbyaxa and the Combination of
 | For Symbyax (mg/day) | Use in Combination |  |
 | --- | --- | --- |
 | Olanzapine (mg/day) | Fluoxetine (mg/day) |  |
-| 3 mg olanzapine/25 mg fluoxetine 6 mg olanzapine/25 mg fluoxetine 12 mg olanzapine/25 mg fluoxetine 6 mg olanzapine/50 mg fluoxetine 12 mg olanzapine/50 mg fluoxetine | 2.5 5 10+2.5 5 10+2.5 | 20 20 20 40+10 40+10 |
+| 3 mg olanzapine/25 mg fluoxetine | 2.5 | 20 |
+| 6 mg olanzapine/25 mg fluoxetine | 5 | 20 |
+| 12 mg olanzapine/25 mg fluoxetine | 10+2.5 | 20 |
+| 6 mg olanzapine/50 mg fluoxetine | 5 | 40+10 |
+| 12 mg olanzapine/50 mg fluoxetine | 10+2.5 | 40+10 |
 
 a Symbyax (olanzapine/fluoxetine HCl) is a fixed-dose combination of olanzapine and fluoxetine.
 

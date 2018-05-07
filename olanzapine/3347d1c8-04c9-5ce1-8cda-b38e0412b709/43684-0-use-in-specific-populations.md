@@ -45,7 +45,7 @@ Safety and effectiveness of olanzapine in children <13 years of age have not bee
 
 Safety and efficacy of olanzapine and fluoxetine in combination in children and adolescents (10 to 17 years of age) have been established for the acute treatment of depressive episodes associated with bipolar I disorder.
 
-Safety and effectiveness of olanzapine and fluoxetine in combination in children <10 years of age have been established.
+Safety and effectiveness of olanzapine and fluoxetine in combination in children <10 years of age have not been established.
 
 ## 8.5 Geriatric Use
 

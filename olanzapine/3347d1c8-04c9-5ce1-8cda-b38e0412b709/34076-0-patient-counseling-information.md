@@ -92,8 +92,7 @@ Atypical antipsychotics are not intended for use in the pediatric patient who ex
 Appropriate educational placement is essential and psychosocial intervention is often helpful.
 The decision to prescribe atypical antipsychotic medication will depend upon the physician’s assessment of the chronicity and severity of the patient’s symptoms [see Indications and Usage (1.3)].
 
-Symbyax® is a registered trademark of Eli Lilly and Company.
-Prozac® is a registered trademark of Eli Lilly and Company.
+All registered trademarks in this document are the property of their respective owners.
 
 APOTEX INC. OLANZAPINE TABLETS, USP 2.5 mg, 5.0 mg, 7.5 mg, 10 mg, 15 mg and 20 mg
 
@@ -103,4 +102,4 @@ APOTEX INC. OLANZAPINE TABLETS, USP 2.5 mg, 5.0 mg, 7.5 mg, 10 mg, 15 mg and 20 
 | Toronto, Ontario | Weston, Florida |
 | Canada M9L 1T9 | USA 33326 |
 
-Revised: March 2017 Revision 4
+Revised: April 2018 Revision 5

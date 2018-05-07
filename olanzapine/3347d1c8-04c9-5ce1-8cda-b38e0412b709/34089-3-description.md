@@ -10,5 +10,5 @@ Olanzapine is a yellow powder.
 Olanzapine tablets, USP are intended for oral administration only.
 
 Each tablet contains olanzapine equivalent to 2.5 mg (8 mcmol), 5 mg (16 mcmol), 7.5 mg (24 mcmol), 10 mg (32 mcmol), 15 mg (48 mcmol), or 20 mg (64 mcmol).
-Inactive ingredients are lactose, microcrystalline cellulose, magnesium stearate, starch.
-The color coating contains hypromellose, hydroxypropyl cellulose, polyethylene glycol, titanium dioxide (all strengths), FD&C Blue No.2 Aluminum Lake (15 mg), or red ferric oxide and yellow iron oxide (20 mg).
+Inactive ingredients are lactose, magnesium stearate, microcrystalline cellulose, starch.
+The color coating contains FD&C blue No.2 aluminum lake (15 mg), ferric oxide red (20 mg), hydroxypropyl cellulose, hypromellose, iron oxide yellow (20 mg), polyethylene glycol and titanium dioxide (all strengths).

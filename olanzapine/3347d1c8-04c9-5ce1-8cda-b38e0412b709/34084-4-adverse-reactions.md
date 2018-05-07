@@ -181,7 +181,7 @@ Table 14: Treatment-Emergent Adverse Reactions: Incidence in Short-Term, Placebo
 
 | Body System/Adverse Reaction | Percentage of Patients Reporting Event |  |
 | --- | --- | --- |
-| Olanzapine with lithium or valproate(N=229) | Placebo with lithium or valproate(N=115) |  |
+| Olanzapine with lithium or valproate (N=229) | Placebo with lithium or valproate (N=115) |  |
 | Body as a Whole |  |  |
 | Asthenia | 18 | 13 |
 | Back pain | 8 | 4 |
@@ -423,5 +423,6 @@ This increase in heart rate may be related to olanzapine’s potential for induc
 The following adverse reactions have been identified during post-approval use of olanzapine.
 Because these reactions are reported voluntarily from a population of uncertain size, it is difficult to reliably estimate their frequency or evaluate a causal relationship to drug exposure.
 
-Adverse reactions reported since market introduction that were temporally (but not necessarily causally) related to olanzapine therapy include the following: allergic reaction (e.g., anaphylactoid reaction, angioedema, pruritus or urticaria), cholestatic or mixed liver injury, diabetic coma, diabetic ketoacidosis, discontinuation reaction (diaphoresis, nausea or vomiting), Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), hepatitis, jaundice, neutropenia, pancreatitis, priapism, rash, restless legs syndrome, rhabdomyolysis, and venous thromboembolic events (including pulmonary embolism and deep venous thrombosis).
+Adverse reactions reported since market introduction that were temporally (but not necessarily causally) related to olanzapine therapy include the following: allergic reaction (e.g., anaphylactoid reaction, angioedema, pruritus or urticaria), cholestatic or mixed liver injury, diabetic coma, diabetic ketoacidosis, discontinuation reaction (diaphoresis, nausea or vomiting), Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), hepatitis, jaundice, neutropenia, pancreatitis, priapism, rash, restless legs syndrome, rhabdomyolysis, stuttering1, and venous thromboembolic events (including pulmonary embolism and deep venous thrombosis).
 Random cholesterol levels of ≥240 mg/dL and random triglyceride levels of ≥1,000 mg/dL have been reported.
+1 Stuttering was only studied in oral and long acting injection (LAI) formulations.

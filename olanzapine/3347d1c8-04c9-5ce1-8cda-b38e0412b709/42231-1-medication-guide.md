@@ -56,6 +56,7 @@ Olanzapine tablets are a prescription medicine used to treat:
   - manic or mixed episodes that happen with bipolar I disorder, when used with the medicine lithium or valproate, in adults.
   - long-term treatment of bipolar I disorder in adults.
 - episodes of depression that happen with bipolar I disorder, when used with the medicine fluoxetine (Prozac®) in people age 10 or older.
+- episodes of depression that do not get better after 2 other medicines, also called treatment resistant depression, when used with the medicine fluoxetine (Prozac), in adults.
 
 Olanzapine tablets have not been approved for use in children under 13 years of age.
 Olanzapine in combination with fluoxetine has not been approved for use in children under 10 years of age.
@@ -63,6 +64,8 @@ Olanzapine in combination with fluoxetine has not been approved for use in child
 The symptoms of schizophrenia include hearing voices, seeing things that are not there, having beliefs that are not true, and being suspicious or withdrawn.
 
 The symptoms of bipolar I disorder include alternating periods of depression and high or irritable mood, increased activity and restlessness, racing thoughts, talking fast, impulsive behavior, and a decreased need for sleep.
+
+The symptoms of treatment resistant depression include decreased mood, decreased interest, increased guilty feelings, decreased energy, decreased concentration, changes in appetite, and suicidal thoughts or behavior.
 
 Some of your symptoms may improve with treatment.
 If you do not think you are getting better, call your doctor.
@@ -95,7 +98,7 @@ Before starting olanzapine tablets, tell your doctor if you have or had:
 
 Tell your doctor if you exercise a lot or are in hot places often.
 
-The symptoms of bipolar I disorder or schizophrenia may include thoughts of suicide or of hurting yourself or others.
+The symptoms of bipolar I disorder, treatment resistant depression, or schizophrenia may include thoughts of suicide or of hurting yourself or others.
 If you have these thoughts at any time, tell your doctor or go to an emergency room right away.
 
 Tell your doctor about all the medicines that you take, including prescription and nonprescription medicines, vitamins, and herbal supplements.
@@ -196,13 +199,12 @@ What are the ingredients in olanzapine tablets?
 
 Active ingredient: olanzapine
 
-Inactive ingredients: lactose, microcrystalline cellulose, magnesium stearate, starch.
-The color coating contains hypromellose, hydroxypropyl cellulose, polyethylene glycol, titanium dioxide (all strengths), FD&C Blue No.2 Aluminum Lake (15 mg), or red ferric oxide and yellow iron oxide (20 mg).
+Inactive ingredients: lactose, magnesium stearate, microcrystalline cellulose, starch.
+The color coating contains FD&C blue No.2 aluminum lake (15 mg), ferric oxide red (20 mg), hydroxypropyl cellulose, hypromellose, iron oxide yellow (20 mg), polyethylene glycol and titanium dioxide (all strengths).
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Symbyax® is a registered trademark of Eli Lilly and Company.
-Prozac® is a registered trademark of Eli Lilly and Company.
+All registered trademarks in this document are the property of their respective owners.
 
 APOTEX INC. OLANZAPINE TABLETS, USP 2.5 mg, 5.0 mg, 7.5 mg, 10 mg, 15 mg and 20 mg
 
@@ -212,4 +214,4 @@ APOTEX INC. OLANZAPINE TABLETS, USP 2.5 mg, 5.0 mg, 7.5 mg, 10 mg, 15 mg and 20 
 | Toronto, Ontario | Weston, Florida |
 | Canada M9L 1T9 | USA 33326 |
 
-Revised: March 2017 Revision 4
+Revised: April 2018 Revision 5
