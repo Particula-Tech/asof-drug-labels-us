@@ -75,11 +75,11 @@ With large doses of exogenous androgens, including Aveed, spermatogenesis may be
 
 ## 5.10 Hepatic Adverse Effects
 
-Prolonged use of high doses of orally active 17-alpha-alkyl androgens (e.g., methyltestosterone) has been associated with serious hepatic adverse effects (peliosis hepatis, hepatic neoplasms, cholestatic hepatitis, and jaundice).
+Prolonged use of high doses of orally active 17-alpha-alkyl androgens (eg, methyltestosterone) has been associated with serious hepatic adverse effects (peliosis hepatis, hepatic neoplasms, cholestatic hepatitis, and jaundice).
 Peliosis hepatis can be a life-threatening or fatal complication.
 Long-term therapy with intramuscular testosterone enanthate, which elevates blood levels for prolonged periods, has produced multiple hepatic adenomas.
 Aveed is not known to produce these adverse effects.
-Nonetheless, patients should be instructed to report any signs or symptoms of hepatic dysfunction (e.g., jaundice).
+Nonetheless, patients should be instructed to report any signs or symptoms of hepatic dysfunction (eg, jaundice).
 If these occur, promptly discontinue Aveed while the cause is evaluated.
 
 ## 5.11 Edema

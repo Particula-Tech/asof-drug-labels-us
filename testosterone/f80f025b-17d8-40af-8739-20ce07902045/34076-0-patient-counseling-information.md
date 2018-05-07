@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Medication Guide
+See FDA-Approved Medication Guide.
 
 Advise patients of the following:
 
@@ -36,6 +36,8 @@ Distributed by: Endo Pharmaceuticals Solutions Inc. Malvern, PA 19355
 
 AVEED is a registered trademark of Endo Pharmaceuticals Inc.
 
-© 2017 Endo Pharmaceuticals Solutions Inc. All rights reserved.
+© 2018 Endo Pharmaceuticals Solutions Inc. All rights reserved.
 
 Revised: January 2018
+
+119487

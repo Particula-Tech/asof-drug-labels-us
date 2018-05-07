@@ -18,7 +18,7 @@ Testosterone esters in oil injected intramuscularly are absorbed from the lipid 
 Cleavage of the undecanoic acid side chain of Aveed by tissue esterases releases testosterone.
 
 Following intramuscular injection of 750 mg of Aveed, serum testosterone concentrations reach a maximum after a median of 7 days (range 4 to 42 days) then slowly decline (Figure 3).
-Steady state serum testosterone concentration was achieved with the 3rd injection of Aveed at 14 weeks.
+Steady-state serum testosterone concentration was achieved with the 3rd injection of Aveed at 14 weeks.
 
 Figure 3 shows the mean serum total testosterone concentration-time profile during the 3rd injection interval (at steady-state, 14 to 24 weeks) for hypogonadal men (less than 300 ng/dL) given 750 mg Aveed at initiation, at 4 weeks, and every 10 weeks thereafter.
 Intramuscular injection of 750 mg of Aveed generates mean steady state serum total testosterone concentrations in the normal range for 10 weeks.

@@ -109,4 +109,4 @@ Respiratory, Thoracic and Mediastinal Disorders: asthma, chronic obstructive pul
 
 Skin and Subcutaneous Tissue Disorders: acne, alopecia, angioedema, angioneurotic edema, dermatitis allergic, erythema, hyperhidrosis, pruritus, rash
 
-Vascular Disorders: cerebral infarction, cerebrovascular accident, circulatory collapse, deep venous thrombosis, hot flush, hypertension, syncope, thromboembolism, thrombosis, venous insufficiency.
+Vascular Disorders: cerebral infarction, cerebrovascular accident, circulatory collapse, deep venous thrombosis, hot flush, hypertension, syncope, thromboembolism, thrombosis, venous insufficiency
