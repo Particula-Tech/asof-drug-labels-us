@@ -100,3 +100,8 @@ Antibody Production
 Increases in anti-insulin antibody concentrations have been observed in patients treated with AFREZZA.
 Increases in anti-insulin antibodies are observed more frequently with AFREZZA than with subcutaneously injected mealtime insulins.
 Presence of antibody did not correlate with reduced efficacy, as measured by HbA1c and fasting plasma glucose, or specific adverse reactions.
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post approval use of AFREZZA.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure: bronchospasm.

@@ -57,7 +57,7 @@ If symptoms persist, discontinue AFREZZA [see Adverse Reactions (6)].
 
 In clinical trials, two cases of lung cancer, one in controlled trials and one in uncontrolled trials (2 cases in 2,750 patient-years of exposure), were observed in participants exposed to AFREZZA while no cases of lung cancer were observed in comparators (0 cases in 2,169 patient-years of exposure).
 In both cases, a prior history of heavy tobacco use was identified as a risk factor for lung cancer.
-Two additional cases of lung cancer (squamous cell) occurred in non-smokers exposed to AFREZZA and were reported by investigators after clinical trial completion.
+Two additional cases of lung cancer (squamous cell and lung blastoma) occurred in non-smokers exposed to AFREZZA and were reported by investigators after clinical trial completion.
 These data are insufficient to determine whether AFREZZA has an effect on lung or respiratory tract tumors.
 In patients with active lung cancer, a prior history of lung cancer, or in patients at risk for lung cancer, consider whether the benefits of AFREZZA use outweigh this potential risk.
 
