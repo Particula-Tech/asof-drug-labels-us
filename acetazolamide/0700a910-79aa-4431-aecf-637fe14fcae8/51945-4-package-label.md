@@ -32,13 +32,13 @@ Manufactured For:
 
 Heritage Pharmaceuticals Inc.
 
-Eatontown, NJ 07724
+East Brunswick, NJ 08816
 
 1.866.901.DRUG (3784)
 
-51U000000125US01
+51U000000125US03
 
-Revised: 01/2016
+Revised: 09/2017
 
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL - 125 MG (1000 TABLETS)
 
@@ -74,13 +74,13 @@ Manufactured For:
 
 Heritage Pharmaceuticals Inc.
 
-Eatontown, NJ 07724
+East Brunswick, NJ 08816
 
 1.866.901.DRUG (3784)
 
-51U000000126US01
+51U000000126US03
 
-Revised: 01/2016
+Revised: 09/2017
 
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL - 250 MG (100 TABLETS)
 
@@ -116,13 +116,13 @@ Manufactured For:
 
 Heritage Pharmaceuticals Inc.
 
-Eatontown, NJ 07724
+East Brunswick NJ 08816
 
 1.866.901.DRUG (3784)
 
-51U000000127US01
+51U000000127US03
 
-Revised: 01/2016
+Revised: 09/2017
 
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL - 250 MG (1000 TABLETS)
 
@@ -158,10 +158,10 @@ Manufactured For:
 
 Heritage Pharmaceuticals Inc.
 
-Eatontown, NJ 07724
+East Brunswick, NJ 08816
 
 1.866.901.DRUG (3784)
 
-51U000000128US01
+51U000000128US03
 
-Revised: 01/2016
+Revised: 09/2017

@@ -27,10 +27,10 @@ Manufactured for:
 
 Heritage Pharmaceuticals Inc.
 
-Eatontown, NJ 07724
+East Brunswick, NJ 08816
 
 1.866.901.DRUG (3784)
 
-51U000000129US02
+51U000000129US03
 
-Revised: 08/2016
+Revised: 11/2017
