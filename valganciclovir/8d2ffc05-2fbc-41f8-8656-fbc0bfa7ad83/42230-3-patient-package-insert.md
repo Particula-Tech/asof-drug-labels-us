@@ -50,10 +50,10 @@ It is important to stay under a healthcare provider’s care and have your eyes 
 
 In children, valganciclovir tablets or oral solution are used:
 
-- to prevent CMV disease in children 4 months to 16 years of age who have received a heart transplant and have a high risk for getting CMV disease.
+- to prevent CMV disease in children 4 months to 16 years of age who have received a kidney transplant and have a high risk for getting CMV disease.
+- to prevent CMV disease in children 1 month to 16 years of age who have received a heart transplant and have a high risk for getting CMV disease.
 
-Pediatric use information for pediatric kidney transplant patients ages 4 months to 16 years and for pediatric heart transplant patients ages 1 to less than 4 months is approved for Roche Palo Alto LLC’s VALCYTE (valganciclovir hydrochloride) tablets and oral solution.
-However, due to Roche Palo Alto LLC’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+It is not known if valganciclovir is safe and effective in children for prevention of CMV disease in liver transplant, in kidney transplant in infants less than 4 months of age, in heart transplant in infants less than 1 month of age, in children with AIDS who have CMV retinitis, and in infants with congenital CMV infection.
 
 Do not take valganciclovir tablets if you have had a serious allergic reaction to valganciclovir, ganciclovir or any of the ingredients of valganciclovir tablets.
 See the end of this leaflet for a list of the ingredients in valganciclovir tablets.
@@ -64,16 +64,13 @@ Before you take valganciclovir tablets, tell your healthcare provider about all 
 - have kidney problems
 - are receiving hemodialysis
 - are receiving radiation treatment
-
 - are pregnant or plan to become pregnant.
   See “What is the most important information I should know about valganciclovir tablets?”
-
 - are breastfeeding or plan to breastfeed.
   It is not known if valganciclovir hydrochloride passes into your breast milk.
   You should not breastfeed if you take valganciclovir tablets.
-
-- You should not breastfeed if you have Human Immunodeficiency Virus (HIV-1) because of the risk of passing HIV-1 to your baby.
-- Talk to your healthcare provider about the best way to feed your baby.
+  - You should not breastfeed if you have Human Immunodeficiency Virus (HIV-1) because of the risk of passing HIV-1 to your baby.
+  - Talk to your healthcare provider about the best way to feed your baby.
 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins and herbal supplements.
 Valganciclovir tablets and other medicines may affect each other and cause serious side effects.
@@ -175,4 +172,4 @@ Aurobindo Pharma Limited
 
 Hyderabad-500 038, India
 
-Revised: 07/2017
+Revised: 05/2018

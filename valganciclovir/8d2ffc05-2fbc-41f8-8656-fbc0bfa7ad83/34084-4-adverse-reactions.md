@@ -175,16 +175,17 @@ Renal and urinary disorders: renal failure
 
 Adverse Reactions in Pediatric Patients:
 
-Valganciclovir for oral solution and tablets have been studied in 109 pediatric solid organ transplant patients who were at risk for developing CMV disease (aged 4 months to 16 years) and in 24 neonates with symptomatic congenital CMV disease (aged 8 to 34 days), with duration of ganciclovir exposure ranging from 2 to 100 days [see Use in Specific Populations (8.4), Clinical Studies (14.2)].
+Valganciclovir for oral solution and tablets have been studied in 179 pediatric solid organ transplant patients who were at risk for developing CMV disease (aged 3 weeks to 16 years) and in 24 neonates with symptomatic congenital CMV disease (aged 8 to 34 days), with duration of ganciclovir exposure ranging from 2 to 200 days [see Use in Specific Populations (8.4), Clinical Studies (14.2)].
 
 Prevention of CMV Disease in Pediatric Solid Organ Transplant Patients: The most frequently reported adverse reactions (greater than 10% of patients), regardless of seriousness, in pediatric solid organ transplant patients taking valganciclovir hydrochloride until Day 100 post-transplant were diarrhea, pyrexia, upper respiratory tract infection, vomiting, anemia, neutropenia, constipation and nausea.
+The most frequently reported adverse reactions (greater than 10% of patients) in pediatric kidney transplant patients treated with valganciclovir until Day 200 post-transplant were upper respiratory tract infection, urinary tract infection, diarrhea, leukopenia, neutropenia, headache, abdominal pain, tremor, pyrexia, anemia, blood creatinine increased, vomiting, and hematuria.
 
 In general, the safety profile was similar in pediatric patients compared to that observed in adult patients.
 However, the rates of certain adverse reactions, and laboratory abnormalities, such as upper respiratory tract infection, pyrexia, nasopharyngitis, anemia, and abdominal pain were reported more frequently in pediatric patients than in adults [see Use in Specific Populations (8.4), Clinical Studies (14.2)].
 Neutropenia was reported with higher incidence in the two pediatric studies as compared to adults, but there was no correlation between neutropenia and infections observed in the pediatric population.
-
-Pediatric use information for pediatric kidney transplant patients ages 4 months to 16 years and for pediatric heart transplant patients ages 1 to less than 4 months is approved for Roche Palo Alto LLC’s VALCYTE (valganciclovir hydrochloride) tablets and oral solution.
-However, due to Roche Palo Alto LLC’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+The overall safety profile of valganciclovir was similar with the extension of prophylaxis until Day 200 post-transplant in high risk pediatric kidney transplant patients.
+However, the incidence of severe neutropenia (ANC<500/μL) was higher in pediatric kidney transplant patients treated with valganciclovir until Day 200 (17/57, 30%) compared to pediatric kidney transplant patients treated until Day 100 (3/63, 5%).
+There were no differences in the incidence of severe (Grade 4) anemia or thrombocytopenia in patients treated 100 or 200 days with valganciclovir.
 
 ## 6.2 Postmarketing Experience
 

@@ -21,7 +21,10 @@ Prevention of CMV Disease:
 
 ## 2.3 Recommended Dosage in Pediatric Patients
 
-Prevention of CMV Disease in Pediatric Heart Transplant Patients: For pediatric heart transplant patients 4 months to 16 years of age, the recommended once daily mg dose (7 x BSA x CrCL) should start within 10 days of transplantation until 100 days post-transplantation.
+Prevention of CMV Disease in Pediatric Kidney Transplant Patients: For pediatric kidney transplant patients 4 months to 16 years of age, the recommended once daily mg dose (7 x BSA x CrCL) should start within 10 days of post-transplantation until 200 days post-transplantation.
+
+Prevention of CMV Disease in Pediatric Heart Transplant Patients: For pediatric heart transplant patients 1 month to 16 years of age, the recommended once daily mg dose (7 x BSA x CrCL) should start within 10 days of transplantation until 100 days post-transplantation.
+
 The recommended once daily dosage of valganciclovir tablets are based on body surface area (BSA) and creatinine clearance (CrCl) derived from a modified Schwartz formula, and is calculated using the equation below: Pediatric Dose (mg) = 7 x BSA x CrCl (calculated using a modified Schwartz formula).
 If the calculated Schwartz creatinine clearance exceeds 150 mL/min/1.73m2, then a maximum value of 150 mL/min/1.73m2 should be used in the equation.
 The k values used in the modified Schwartz formula are based on pediatric patient age, as shown in Table 1.
@@ -43,9 +46,6 @@ If the calculated dose exceeds 900 mg, a maximum dose of 900 mg should be admini
 Valganciclovir for oral solution is the preferred formulation since it provides the ability to administer a dose calculated according to the formula above; however, valganciclovir tablets may be used if the calculated doses are within 10% of available tablet strength (450 mg).
 For example, if the calculated dose is between 405 mg and 495 mg, one 450 mg tablet may be taken.
 Before prescribing valganciclovir tablets, pediatric patients should be assessed for the ability to swallow tablets.
-
-Pediatric use information for pediatric kidney transplant patients ages 4 months to 16 years and for pediatric heart transplant patients ages 1 to less than 4 months is approved for Roche Palo Alto LLC’s VALCYTE (valganciclovir hydrochloride) tablets and oral solution.
-However, due to Roche Palo Alto LLC’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 2.5 Dosage Recommendation for Adult Patients with Renal Impairment
 

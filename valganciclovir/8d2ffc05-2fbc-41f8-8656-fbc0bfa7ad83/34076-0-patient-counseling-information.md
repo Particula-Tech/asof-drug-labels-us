@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Patient Information and Instructions for Use).
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
 Serious Adverse Reactions Inform patients that valganciclovir hydrochloride may cause granulocytopenia (neutropenia), anemia, thrombocytopenia and elevated creatinine levels and that dose modification or discontinuation of dosing may be required.
 Complete blood counts, platelet counts, and creatinine levels should be monitored frequently during treatment [see Warnings and Precautions (5.1)].
 Pregnancy and Contraception Inform females of reproductive potential that valganciclovir hydrochloride causes birth defects in animals.

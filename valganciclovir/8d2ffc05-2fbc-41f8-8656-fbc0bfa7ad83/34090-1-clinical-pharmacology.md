@@ -75,24 +75,24 @@ Table 13 Pharmacokinetics of Ganciclovir from a Single Oral Dose of 900 mg Valga
 Hemodialysis reduces plasma concentrations of ganciclovir by about 50% following valganciclovir hydrochloride administration.
 Adult patients receiving hemodialysis (CrCl less than 10 mL/min) cannot use valganciclovir tablets because the daily dose of valganciclovir tablets required for these patients is less than 450 mg [see Dosage and Administration (2.5) and Use in Specific Populations (8.6)].
 
-Pharmacokinetics in Pediatric Patients: The pharmacokinetics of ganciclovir were evaluated following the administration of valganciclovir in 63 pediatric solid organ transplant patients aged 4 months to 16 years.
+Pharmacokinetics in Pediatric Patients: The pharmacokinetics of ganciclovir were evaluated following the administration of valganciclovir in 63 pediatric solid organ transplant patients aged 4 months to 16 years, and in 16 pediatric heart transplant patients less than 4 months of age.
 In these studies, patients received oral doses of valganciclovir (either valganciclovir for oral solution or tablets) to produce exposure equivalent to an adult 900 mg dose [see Dosage and Administration (2.3), Adverse Reactions (6.1), Use in Specific Populations (8.4), Clinical Studies (14.2)].
 
 In studies using the pediatric valganciclovir dosing algorithm, the pharmacokinetics of ganciclovir were similar across organ types and age ranges (Table 14).
 Relative to adult transplant patients (Table 11), AUC values in pediatric patients were somewhat increased, but were within the range considered safe and effective in adults.
 
-Table 14 Ganciclovir Pharmacokinetics by Age in Pediatric Solid Organ Transplant Patients Administered Valganciclovir hydrochloride.
+Table 14 Ganciclovir Pharmacokinetics by Age in Pediatric Solid Organ Transplant Patients Administered Valganciclovir hydrochloridea.
 
-|  | Age Group |  |  |  |
-| --- | --- | --- | --- | --- |
-| Organ | PK Parameter mean (SD) | 4 months to ≤ 2 years | > 2 to < 12 years | ≥ 12 years |
-|  | N | 6 | 2 | 4 |
-| Heart (N=12) | AUC0-24h (mcg∙h/mL) Cmax (mcg/mL) t1/2 (h) | 55.4 (22.8) 8.2 (2.5) 3.8 (1.7) | 59.6 (21.0) 12.5 (1.2) 2.8 (0.9) | 60.6 (25.0) 9.5 (3.3) 4.9 (0.8) |
-|  | N | 2 | 10 | 19 |
-| Kidney (N=31) | AUC0-24h (mcg. h/ mL) Cmax (mcg/mL) t1/2 (h) | 67.6 (13.0) 10.4 (0.4) 4.5 (1.5) | 55.9 (12.1) 8.7 (2.1) 4.8 (1.0) | 47.8 (12.4) 7.7 (2.1) 6.0 (1.3) |
-| N | 9 | 6 | 2 |  |
-| Liver (N=17) | AUC0-24h (mcg∙h/mL) Cmax (mcg/mL) t1/2 (h) | 69.9 (37.0) 11.9 (3.7) 2.8 (1.5) | 59.4 (8.1) 9.5 (2.3) 3.8 (0.7) | 35.4 (2.8) 5.5 (1.1) 4.4 (0.2) |
-| N= number of patients |  |  |  |  |
+|  |  | Age Group |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Organ | PK Parameter mean (SD) | < 4 months | 4 months to ≤ 2 years | > 2 to < 12 years | ≥ 12 years |
+|  | N | 14a | 6 | 2 | 4 |
+| Heart (N =26) | A U C0-24h (mcg∙ h / mL) Cmax(mcg / mL) t1/2(h) | 66.3 (20.5) 10.8 (3.30) 3.5 (0.87) | 55.4 (22.8) 8.2 (2.5) 3.8 (1.7) | 59.6 (21.0) 12.5 (1.2) 2.8 (0.9) | 60.6 (25.0) 9.5 (3.3) 4.9 (0.8) |
+|  | N |  | 2 | 10 | 19 |
+| Kidney (N=31) | A U C0-24h (mcg∙ h / mL) Cmax(mcg / mL) t1/2(h) | NA | 67.6 (13.0) 10.4 (0.4) 4.5 (1.5) | 55.9 (12.1) 8.7 (2.1) 4.8 (1.0) | 47.8 (12.4) 7.7 (2.1) 6.0 (1.3) |
+| N |  | 9 | 6 | 2 |  |
+| Liver (N =17) | A U C0-24h (mcg∙ h / mL) Cmax(mcg / mL) t1/2(h) | NA | 69.9 (37.0) 11.9 (3.7) 2.8 (1.5) | 59.4 (8.1) 9.5 (2.3) 3.8 (0.7) | 35.4 (2.8) 5.5 (1.1) 4.4 (0.2) |
+| N= number of patients, NA=not applicable a Ages ranged from 26 to 124 days |  |  |  |  |  |
 
 Pharmacokinetics in Geriatric Patients: The pharmacokinetic characteristics of valganciclovir hydrochloride in elderly patients have not been established.
 
@@ -121,9 +121,6 @@ Table 16 Results of Drug Interaction Studies with Ganciclovir: Effects of Gancic
 | Trimethoprim 200 mg once daily | 1000 mg every 8 hours | 12 | No effect on trimethoprim PK parameters observed |
 | Didanosine 200 mg every 12 hours | 5 mg/kg IV twice daily | 11 | AUC0-12↑70 ± 40% (range: 3% to 121%) Cmax↑49 ± 48% (range: -28% to 125%) |
 | Didanosine 200 mg every 12 hours | 5 mg/kg IV once daily | 11 | AUC0-12 ↑50 ± 26% (range: 22% to 110%) Cmax ↑36 ± 36% (range: -27% to 94%) |
-
-Pediatric use information for pediatric kidney transplant patients ages 4 months to 16 years and for pediatric heart transplant patients ages 1 to less than 4 months is approved for Roche Palo Alto LLC’s VALCYTE (valganciclovir hydrochloride) tablets and oral solution.
-However, due to Roche Palo Alto LLC’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 12.4 Microbiology
 
