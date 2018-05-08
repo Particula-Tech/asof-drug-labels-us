@@ -1,8 +1,8 @@
-# ADVERSE REACTIONS
+# ADVERSE REACTIONS:
 
-Adverse reaction information on ipratropium bromide nasal solution 0.06% (Nasal Spray) in patients with the common cold was derived from two multicenter, vehicle-controlled clinical trials involving 1,276 patients (195 patients on ipratropium bromide nasal solution 0.03% (Nasal Spray), 352 patients on ipratropium bromide nasal solution 0.06% (Nasal Spray), 189 patients on ipratropium bromide nasal solution 0.12% (Nasal Spray), 351 patients on vehicle and 189 patients receiving no treatment).
+Adverse reaction information on Ipratropium Bromide Nasal Solution 0.06% (Nasal Spray) in patients with the common cold was derived from two multicenter, vehicle-controlled clinical trials involving 1,276 patients (195 patients on Ipratropium Bromide Nasal Solution 0.03% (Nasal Spray), 352 patients on Ipratropium Bromide Nasal Solution 0.06% (Nasal Spray), 189 patients on Ipratropium Bromide Nasal Solution 0.12% (Nasal Spray), 351 patients on vehicle and 189 patients receiving no treatment).
 
-Table 1 shows adverse events reported for patients who received ipratropium bromide nasal solution 0.06% (Nasal Spray) at the recommended dose of 84 mcg per nostril, or vehicle, administered three or four times daily, where the incidence is 1% or greater in the ipratropium bromide group and higher in the ipratropium bromide group than in the vehicle group.
+Table 1 shows adverse events reported for patients who received Ipratropium Bromide Nasal Solution 0.06% (Nasal Spray) at the recommended dose of 84 mcg per nostril, or vehicle, administered three or four times daily, where the incidence is 1% or greater in the ipratropium bromide group and higher in the ipratropium bromide group than in the vehicle group.
 
 Table 1 % of Patients with Common Cold Reporting EventsThis table includes adverse events for which the incidence was 1% or greater in the ipratropium bromide group and higher in the ipratropium bromide group than in the vehicle group.
 
@@ -14,13 +14,13 @@ Table 1 % of Patients with Common Cold Reporting EventsThis table includes adver
 | Dry Mouth/Throat | 1.4% | 0.3% |
 | Nasal Congestion | 1.1% | 0.0% |
 
-Ipratropium bromide nasal solution 0.06% (Nasal Spray) was well tolerated by most patients.
+Ipratropium Bromide Nasal Solution 0.06% (Nasal Spray) was well tolerated by most patients.
 The most frequently reported adverse events were transient episodes of nasal dryness or epistaxis.
 The majority of these adverse events (96%) were mild or moderate in nature, none was considered serious, and none resulted in hospitalization.
 No patient required treatment for nasal dryness, and only three patients (<1%) required treatment for epistaxis, which consisted of local application of pressure or a moisturizing agent (e.g., petroleum jelly).
-No patient receiving ipratropium bromide nasal solution 0.06% (Nasal Spray) was discontinued from the trial due to either nasal dryness or bleeding.
+No patient receiving Ipratropium Bromide Nasal Solution 0.06% (Nasal Spray) was discontinued from the trial due to either nasal dryness or bleeding.
 
-Adverse events reported by less than 1% of the patients receiving ipratropium bromide nasal solution 0.06% (Nasal Spray) during the controlled clinical trials that are potentially related to ipratropium bromide’s local effects or systemic anticholinergic effects include: taste perversion, nasal burning, conjunctivitis, coughing, dizziness, hoarseness, palpitation, pharyngitis, tachycardia, thirst, tinnitus and blurred vision.
+Adverse events reported by less than 1% of the patients receiving Ipratropium Bromide Nasal Solution 0.06% (Nasal Spray) during the controlled clinical trials that are potentially related to ipratropium bromide’s local effects or systemic anticholinergic effects include: taste perversion, nasal burning, conjunctivitis, coughing, dizziness, hoarseness, palpitation, pharyngitis, tachycardia, thirst, tinnitus and blurred vision.
 No controlled trial was conducted to address the relative incidence of adverse events for three times daily versus four times daily therapy.
 
 Nasal adverse events seen in the clinical trial with seasonal allergic rhinitis (SAR) patients (see Table 2) were similar to those seen in the common cold trials.
@@ -32,7 +32,7 @@ Table 2 % of Patients with SAR Reporting EventsThis table includes adverse event
 |  | Ipratropium Bromide Nasal Solution0.06% (Nasal Spray) | Vehicle Control |
 | --- | --- | --- |
 | No. of Patients | 218 | 211 |
-| EpistaxisEpistaxis reported by 3.7% of ipratropium bromide patients and 2.4% of vehicle patients, blood tinged nasal mucus by 2.3% of ipratropium bromide patients and 1.9% of vehicle patients. | 6.0% | 3.3% |
+| EpistaxisEpistaxis reported by 3.7% of ipratropium bromide patients and 2.4% of vehicle patients, blood-tinged nasal mucus by 2.3% of ipratropium bromide patients and 1.9% of vehicle patients. | 6.0% | 3.3% |
 | Pharyngitis | 5.0% | 3.8% |
 | URI | 5.0% | 3.3% |
 | Nasal Dryness | 4.6% | 0.9% |
@@ -44,3 +44,5 @@ Table 2 % of Patients with SAR Reporting EventsThis table includes adverse event
 | Diarrhea | 1.8% | 0.5% |
 
 There were no reports of allergic-type reactions in the controlled clinical common cold and SAR trials.
+
+To report SUSPECTED ADVERSE REACTIONS, contact Bausch + Lomb, a division of Valeant Pharmaceuticals North America LLC, at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

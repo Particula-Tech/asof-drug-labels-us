@@ -1,4 +1,4 @@
-ATTENTION PHARMACIST: Detach “Patient’s Instructions for Use” from package insert and dispense with product.
+ATTENTION PHARMACIST: Detach “PATIENT’S INSTRUCTIONS FOR USE” from package insert and dispense with the product.
 
 Prescribing Information
 
@@ -6,29 +6,33 @@ Rx only
 
 # Post-Marketing Experience
 
-Allergic-type reactions such as skin rash, angioedema, including that of the throat, tongue, lips and face, generalized urticaria (including giant urticaria), laryngospasm, and anaphylactic reactions have been reported with ipratropium bromide nasal solution 0.06% (Nasal Spray) and for other ipratropium bromide-containing products, with positive rechallenge in some cases.
+Allergic-type reactions such as skin rash, angioedema, including that of the throat, tongue, lips and face, generalized urticaria (including giant urticaria), laryngospasm, and anaphylactic reactions have been reported with Ipratropium Bromide Nasal Solution 0.06% (Nasal Spray) and for other ipratropium bromide-containing products, with positive rechallenge in some cases.
 
-Additional side effects identified from the published literature and/or post-marketing surveillance on the use of ipratropium bromide-containing products (singly or in combination with albuterol), include: urinary retention, prostatic disorders, mydriasis, cases of precipitation or worsening of narrow-angle glaucoma, acute eye pain, ocular irritation, wheezing, dryness of the oropharynx, tachycardia, edema, gastrointestinal distress (diarrhea, nausea, vomiting), bowel obstruction, and constipation, nasal discomfort, throat irritation, hypersensitivity, accommodation disorder, intraocular pressure increased, glaucoma, halo vision, conjunctival hyperaemia, corneal edema, heart rate increased, bronchospasm, pharyngeal edema, gastrointestinal motility disorder, mouth edema, stomatitis, and pruritus.
+Additional side effects identified from the published literature and/or post-marketing surveillance on the use of ipratropium bromide-containing products (singly or in combination with albuterol), include: urinary retention, prostatic disorders, mydriasis, cases of precipitation or worsening of narrow-angle glaucoma, acute eye pain, ocular irritation, wheezing, dryness of the oropharynx, tachycardia, edema, gastrointestinal distress (diarrhea, nausea, vomiting), bowel obstruction, constipation, nasal discomfort, throat irritation, hypersensitivity, accommodation disorder, intraocular pressure increased, glaucoma, halo vision, conjunctival hyperaemia, corneal edema, heart rate increased, bronchospasm, pharyngeal edema, gastrointestinal motility disorder, mouth edema, stomatitis, and pruritus.
 
-After oral inhalation of ipratropium bromide in patients suffering from COPD/Asthma supraventricular tachycardia and atrial fibrillation have been reported.
+After oral inhalation of ipratropium bromide in patients suffering from COPD/Asthma, supraventricular tachycardia and atrial fibrillation have been reported.
 
-Revised: October 2012
+Revised July 2016
 
-Bausch & Lomb Incorporated Tampa, FL 33637 ®/TM denote trademarks of Bausch & Lomb Incorporated ©Bausch & Lomb Incorporated
+Bausch + Lomb, a division of Valeant Pharmaceuticals North America LLC, Bridgewater, NJ 08807 USA
 
-9049307 (Folded)
+© Bausch & Lomb Incorporated
 
-# Patient's Instructions For Use
+9049310 (Folded)
 
-Ipratropium Bromide Nasal Solution 0.06% (Nasal Spray).
+# PATIENT'S INSTRUCTIONS FOR USE
+
+Ipratropium Bromide Nasal Solution 0.06% (Nasal Spray)
+
+Rx only
 
 Read complete instructions carefully before using.
 
 In order to ensure proper dosing, do not attempt to change the size of the spray opening.
 
-Ipratropium bromide nasal solution 0.06% (Nasal Spray) is indicated for the symptomatic relief of rhinorrhea (runny nose) associated with the common cold or seasonal allergic rhinitis for adults and children age 5 years and older.
-Ipratropium bromide nasal solution 0.06% (Nasal Spray) does not relieve nasal congestion or sneezing associated with the common cold or seasonal allergic rhinitis.
-Do not use ipratropium bromide nasal solution 0.06% (Nasal Spray) for longer than four days for a common cold or three weeks for seasonal allergic rhinitis unless instructed by your physician.
+Ipratropium Bromide Nasal Solution 0.06% (Nasal Spray) is indicated for the symptomatic relief of rhinorrhea (runny nose) associated with the common cold or seasonal allergic rhinitis for adults and children age 5 years and older.
+Ipratropium Bromide Nasal Solution 0.06% (Nasal Spray) does not relieve nasal congestion or sneezing associated with the common cold or seasonal allergic rhinitis.
+Do not use Ipratropium Bromide Nasal Solution 0.06% (Nasal Spray) for longer than four days for a common cold or three weeks for seasonal allergic rhinitis unless instructed by your physician.
 Read complete instructions carefully and use only as directed.
 
 To Use:
@@ -38,7 +42,7 @@ Remove the clear plastic dust cap and the safety clip from the nasal spray pump 
 The safety clip prevents the accidental discharge of the spray in your pocket or purse.
 
 2.
-The nasal spray pump must be primed before ipratropium bromide nasal solution 0.06% (Nasal Spray) is used for the first time.
+The nasal spray pump must be primed before Ipratropium Bromide Nasal Solution 0.06% (Nasal Spray) is used for the first time.
 To prime the pump, hold the bottle with your thumb at the base and your index and middle fingers on the white shoulder area.
 Make sure the bottle points upright and away from your eyes.
 Press your thumb firmly and quickly against the bottle seven times (Figure 2).
@@ -48,7 +52,7 @@ Your pump should not have to be reprimed unless you have not used the medication
 If you have not used your nasal spray for more than seven days, repriming the pump will require seven sprays.
 
 3.
-Before using ipratropium bromide nasal solution 0.06% (Nasal Spray), blow your nose gently to clear your nostrils if necessary.
+Before using Ipratropium Bromide Nasal Solution 0.06% (Nasal Spray), blow your nose gently to clear your nostrils if necessary.
 
 4.
 Close one nostril by gently placing your finger against the side of your nose, tilt your head slightly forward and, keeping the bottle upright, insert the nasal tip into the other nostril (Figure 3).
@@ -72,7 +76,7 @@ Replace the clear plastic dust cap and safety clip.
 
 10.
 At some time before the medication is completely used up, you should consult your physician or pharmacist to determine whether a refill is needed.
-You should not take extra doses or stop using ipratropium bromide nasal solution 0.06% (Nasal Spray) without consulting your physician.
+You should not take extra doses or stop using Ipratropium Bromide Nasal Solution 0.06% (Nasal Spray) without consulting your physician.
 
 To Clean:
 
@@ -82,30 +86,30 @@ Dry the nasal tip, reprime the nasal spray pump (step 2 above), and replace the 
 
 Caution:
 
-Ipratropium bromide nasal solution 0.06% (Nasal Spray) is intended to relieve your rhinorrhea (runny nose) with regular use.
-It is therefore important that you use ipratropium bromide nasal solution 0.06% (Nasal Spray) as prescribed by your physician.
-For most patients, some improvement in runny nose is apparent following the first dose of treatment with ipratropium bromide nasal solution 0.06% (Nasal Spray).
-Do not use ipratropium bromide nasal solution 0.06% (Nasal Spray) for longer than four days for your cold or three weeks for seasonal allergic rhinitis unless instructed by your physician.
+Ipratropium Bromide Nasal Solution 0.06% (Nasal Spray) is intended to relieve your rhinorrhea (runny nose) with regular use.
+It is therefore important that you use Ipratropium Bromide Nasal Solution 0.06% (Nasal Spray) as prescribed by your physician.
+For most patients, some improvement in runny nose is apparent following the first dose of treatment with Ipratropium Bromide Nasal Solution 0.06% (Nasal Spray).
+Do not use Ipratropium Bromide Nasal Solution 0.06% (Nasal Spray) for longer than four days for your cold or three weeks for seasonal allergic rhinitis unless instructed by your physician.
 
-Do not spray ipratropium bromide nasal solution 0.06% (Nasal Spray) in your eyes.
+Do not spray Ipratropium Bromide Nasal Solution 0.06% (Nasal Spray) in your eyes.
 Should this occur, immediately flush your eye with cool tap water for several minutes.
-If you accidentally spray ipratropium bromide nasal solution 0.06% (Nasal Spray) in your eyes, you may experience a temporary blurring of vision, visual halos or colored images in association with red eyes from conjunctival and corneal congestion, development or worsening of narrow-angle glaucoma, pupil dilation, or acute eye pain/discomfort, and increased sensitivity to light which may last a few hours.
+If you accidentally spray Ipratropium Bromide Nasal Solution 0.06% (Nasal Spray) in your eyes, you may experience a temporary blurring of vision, visual halos or colored images in association with red eyes from conjunctival and corneal congestion, development or worsening of narrow-angle glaucoma, pupil dilation, or acute eye pain/discomfort, and increased sensitivity to light, which may last a few hours.
 Should acute eye pain or blurred vision occur, contact your doctor.
 
-Should you experience excessive nasal dryness or episodes of nasal bleeding contact your doctor.
+Should you experience excessive nasal dryness or episodes of nasal bleeding, contact your doctor.
 
-If you have glaucoma or difficulty urinating due to an enlargement of the prostate, be sure to tell your physician prior to using ipratropium bromide nasal solution 0.06% (Nasal Spray).
+If you have glaucoma or difficulty urinating due to an enlargement of the prostate, be sure to tell your physician prior to using Ipratropium Bromide Nasal Solution 0.06% (Nasal Spray).
 
-If you are pregnant or you are breast feeding your baby, be sure to tell your physician prior to using ipratropium bromide nasal solution 0.06% (Nasal Spray).
+If you are pregnant or you are breast feeding your baby, be sure to tell your physician prior to using Ipratropium Bromide Nasal Solution 0.06% (Nasal Spray).
 
 STORAGE: Store tightly closed at 25°C (77°F); excursions permitted to 15°-25°C (59°-77°F).
 Avoid freezing.
 Keep out of reach of children.
 
-Revised: October 2012
+Revised: July 2016
 
-Bausch & Lomb Incorporated Tampa, FL 33637 ®/TM denote trademarks of Bausch & Lomb Incorporated
+Bausch + Lomb, a division of Valeant Pharmaceuticals North America LLC, Bridgewater, NJ 08807 USA
 
-©Bausch & Lomb Incorporated
+© Bausch & Lomb Incorporated
 
-9049307 (Folded)
+9049310 (Folded)
