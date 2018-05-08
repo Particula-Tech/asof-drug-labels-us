@@ -1,10 +1,8 @@
 # PRINCIPAL DISPLAY PANEL - 600 mg/300 mL Bag Label
 
-NDC 0009-4992-01 Rx only ZYVOX® (linezolid) injection
+NDC 0009-4992-01 Rx only ZYVOX® (linezolid) injection 600 mg/300 mL
 
-600 mg / 300 mL
-
-Store at 25ºC (77ºF); excursions permitted to 15-30ºC (59-86ºF) [see USP Controlled Room Temperature].
+Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
 Do not freeze.
 
 Each mL contains: linezolid 2 mg dextrose, USP 50.24 mg sodium citrate, USP 1.64 mg citric acid, USP 0.85 mg water for injection, USP qs
@@ -24,24 +22,23 @@ DOSAGE AND USE: See accompanying prescribing information.
 
 MADE IN SINGAPORE
 
-Distributed by: Pharmacia & Upjohn Co Division of Pfizer Inc, NY, NY 10017 N+ and NOVAPLUS are registered trademarks of Novation, LLC
-
-FTU 0703 01-68-26-051
-
-freeflex
+Distributed by: Pharmacia & Upjohn Co Division of Pfizer Inc, NY, NY 10017 N+ and NOVAPLUS are registered trademarks of Vizient, Inc.
 
 7 OTHER
 
 LOT EXP
 
-# PRINCIPAL DISPLAY PANEL - 600 mg/300 mL Foil Label
+free flex
 
-NDC 0009-4992-01 Rx only ZYVOX® (linezolid) injection
+1234567890 FTU 0703 01-68-26-051A
 
-600 mg / 300 mL
+# PRINCIPAL DISPLAY PANEL - 600 mg/300 mL Overwrap Label
 
-Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
+NDC 0009-4992-01 Rx only ZYVOX® (linezolid) injection 600 mg/300 mL
+
+Store at 25ºC (77ºF); excursions permitted to 15-30ºC (59-86ºF) [see USP Controlled Room Temperature].
 Do not freeze.
+
 Each mL contains: linezolid 2 mg dextrose, USP 50.24 mg sodium citrate, USP 1.64 mg citric acid, USP 0.85 mg water for injection, USP qs pH adjusted to 4.8 with sodium hydroxide or hydrochloric acid.
 Sterile and nonpyrogenic.
 Single dose container.
@@ -51,33 +48,36 @@ For intravenous administration Check for leaks by squeezing container.
 If leaks are found, discard, as sterility may be impaired.
 Linezolid is sensitive to light.
 Retain overwrap prior to use.
+
 DOSAGE AND USE: See accompanying prescribing information.
+
 MADE IN SINGAPORE
 
 NOVAPLUS®
 
-7 OTHER
+Distributed by: Pharmacia & Upjohn Co Division of Pfizer Inc, NY, NY 10017 N+ and NOVAPLUS are registered trademarks of Vizient, Inc.
 
-Distributed by: Pharmacia & Upjohn Co Division of Pfizer Inc, NY, NY 10017 N+ and NOVAPLUS are registered trademarks of Novation, LLC
+7 OTHER
 
 LOT EXP
 
-FTU 0703 01-78-26-051
+FTU 0703 01-78-26-051A
 
-# PRINCIPAL DISPLAY PANEL - 600 mg/300 mL Bag Box Label
+# PRINCIPAL DISPLAY PANEL - 600 mg/300 mL Box Label
 
-NDC 0009-4992-02 Contains 10 of NDC 0009-4992-01 QUANTITY: 1 (10 IV BAGS X 300 mL) ZYVOX® 600 mg / 300 mL (LINEZOLID) INJECTION
+NDC 0009-4992-02 Contains 10 of NDC 0009-4992-01 QUANTITY: 1 (10 IV BAGS X 300 mL) ZYVOX® 600 mg/300 mL (LINEZOLID) INJECTION
 
 RX ONLY
 
 STORE AT 25°C (77°F); EXCURSIONS PERMITTED TO 15-30°C (59-86°F) [SEE USP CONTROLLED ROOM TEMPERATURE].
 DO NOT FREEZE.
-818 100 002
 
 NOVAPLUS®
 
-DISTRIBUTED BY PHARMACIA & UPJOHN DIVISION OF PFIZER INC, NY, NY 10017 NOVAPLUS is a registered trademark of Novation, LLC MADE IN SINGAPORE
+DISTRIBUTED BY PHARMACIA & UPJOHN DIVISION OF PFIZER INC, NY, NY 10017 NOVAPLUS is a registered trademark of Vizient, Inc. MADE IN SINGAPORE
 
-EXP 00/0000 LOT 00 00 00
+EXP MM/YYYY LOT 00000000 QTY: 01
 
-FTU 0703 01-88-26-051
+04.30.034
+
+FTU 0703 01-88-26-051C
