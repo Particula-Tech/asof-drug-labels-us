@@ -57,11 +57,11 @@ Disposal of Unused Methadone Hydrochloride Tablets Advise patients to flush the 
 
 Mallinckrodt, the “M” brand mark, the Mallinckrodt Pharmaceuticals logo and M are trademarks of a Mallinckrodt company.
 
-© 2017 Mallinckrodt.
+© 2018 Mallinckrodt.
 
 SpecGx LLC Webster Groves, MO 63119 USA
 
-Issued: 07/2017
+Issued: 02/2018
 
 Mallinckrodt™ Pharmaceuticals
 

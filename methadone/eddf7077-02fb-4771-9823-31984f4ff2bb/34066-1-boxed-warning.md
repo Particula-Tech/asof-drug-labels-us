@@ -24,8 +24,9 @@ Follow patients closely for respiratory depression and sedation, and consider do
 
 Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants Concomitant use of opioids with benzodiazepines or other central nervous system (CNS) depressants, including alcohol, may result in profound sedation, respiratory depression, coma, and death [see Warnings and Precautions (5.6), Drug Interactions (7)].
 
-- Reserve concomitant prescribing of methadone hydrochloride tablets and benzodiazepines or other CNS depressants for use in patients for whom alternative treatment options are inadequate.
-- Limit dosages and durations to the minimum required.
+- Reserve concomitant prescribing of methadone hydrochloride tablets and benzodiazepines or other CNS depressants for use in patients for whom alternatives to benzodiazepines or other CNS depressants are inadequate.
+- Limit dosages and durations to the minimum required for patients being treated for pain.
 - Follow patients for signs and symptoms of respiratory depression and sedation.
+  If the patient is visibly sedated, evaluate the cause of sedation, and consider delaying or omitting the daily methadone dose.
 
-Conditions for Distribution and Use of Methadone Products for the Treatment of Opioid Addiction For detoxification and maintenance of opioid dependence, methadone should be administered in accordance with the treatment standards cited in 42 CFR Section 8, including limitations on unsupervised administration [see Indications and Usage (1)].
+Conditions for Distribution and Use of Methadone Products for the Treatment of Opioid Addiction For detoxification and maintenance of opioid dependence, methadone should be administered in accordance with the treatment standards cited in 42 CFR Section 8, including limitations on unsupervised administration [see Indications and Usage (1), Dosage and Administration (2.1)].

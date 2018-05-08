@@ -33,7 +33,7 @@ While serious, life-threatening, or fatal respiratory depression can occur at an
 The peak respiratory depressant effect of methadone occurs later, and persists longer than the peak analgesic effect, especially during the initial dosing period.
 Monitor patients closely for respiratory depression when initiating therapy with methadone hydrochloride tablets and following dose increases.
 
-To reduce the risk of respiratory depression, proper dosing and titration of methadone hydrochloride tablets are essential [see Dosage and Administration (2.2, 2.3)].
+To reduce the risk of respiratory depression, proper dosing and titration of methadone hydrochloride tablets are essential [see Dosage and Administration (2.3, 2.4)].
 Overestimating the methadone hydrochloride tablets dosage when converting patients from another opioid product can result in fatal overdose with the first dose.
 
 Accidental ingestion of even one dose of methadone hydrochloride tablets, especially by children, can result in respiratory depression and death due to an overdose of methadone.
@@ -82,6 +82,9 @@ When using methadone hydrochloride tablets with CYP3A4, CYP2B6, CYP2C19, or CYP2
 ## 5.6 Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants
 
 Profound sedation, respiratory depression, coma, and death may result from the concomitant use of methadone hydrochloride tablets with benzodiazepines or other CNS depressants (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids, alcohol).
+
+For Patients Being Treated for Pain
+
 Because of these risks, reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
 
 Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioid analgesics alone.
@@ -96,13 +99,41 @@ Advise both patients and caregivers about the risks of respiratory depression an
 Advise patients not to drive or operate heavy machinery until the effects of concomitant use of the benzodiazepine or other CNS depressant have been determined.
 Screen patients for risk of substance use disorders, including opioid abuse and misuse, and warn them of the risk for overdose and death associated with the use of additional CNS depressants including alcohol and illicit drugs [see Drug Interactions (7) and Patient Counseling Information (17)].
 
+For Patients Being Treated for Opioid Addiction
+
+Concomitant use of methadone and benzodiazepines or other CNS depressants increases the risk of adverse reactions including overdose and death.
+Medication-assisted treatment of opioid use disorder, however, should not be categorically denied to patients taking these drugs.
+Prohibiting or creating barriers to treatment can pose an even greater risk of morbidity and mortality due to the opioid use disorder alone.
+
+As a routine part of orientation to methadone treatment, educate patients about the risks of concomitant use of benzodiazepines, sedatives, opioid analgesics, or alcohol.
+
+Develop strategies to manage use of prescribed or illicit benzodiazepines or other CNS depressants at admission to methadone treatment, or if it emerges as a concern during treatment.
+Adjustments to induction procedures and additional monitoring may be required.
+There is no evidence to support dose limitations or arbitrary caps of methadone as a strategy to address benzodiazepine use in methadone-treated patients.
+However, if a patient is sedated at the time of methadone dosing, ensure that a medically-trained healthcare provider evaluates the cause of sedation, and delays or omits the methadone dose if appropriate.
+
+Cessation of benzodiazepines or other CNS depressants is preferred in most cases of concomitant use.
+In some cases monitoring in a higher level of care for taper may be appropriate.
+In others, gradually tapering a patient off a prescribed benzodiazepine or other CNS depressant or decreasing to the lowest effective dose may be appropriate.
+
+For patients in methadone treatment, benzodiazepines are not the treatment of choice for anxiety or insomnia.
+Before co-prescribing benzodiazepines, ensure that patients are appropriately diagnosed and consider alternative medications and non-pharmacologic treatments to address anxiety or insomnia.
+Ensure that other healthcare providers prescribing benzodiazepines or other CNS depressants are aware of the patient’s methadone treatment and coordinate care to minimize the risks associated with concomitant use.
+
+In addition, take measures to confirm that patients are taking the medications prescribed and not diverting or supplementing with illicit drugs.
+Toxicology screening should test for prescribed and illicit benzodiazepines [see Drug Interactions (7)].
+
 ## 5.7 Life-Threatening Respiratory Depression in Patients with Chronic Pulmonary Disease or in Elderly, Cachectic, or Debilitated Patients
 
 The use of methadone hydrochloride tablets in patients with acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment is contraindicated.
 
-Patients with Chronic Pulmonary Disease Methadone hydrochloride tablets-treated patients with significant chronic obstructive pulmonary disease or cor pulmonale, and those with a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression are at increased risk of decreased respiratory drive including apnea, even at recommended dosages of methadone hydrochloride tablets [see Warnings and Precautions (5.2)].
+Patients with Chronic Pulmonary Disease
 
-Elderly, Cachectic, or Debilitated Patients Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients because they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients [see Warnings and Precautions (5.2)].
+Methadone hydrochloride tablets-treated patients with significant chronic obstructive pulmonary disease or cor pulmonale, and those with a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression are at increased risk of decreased respiratory drive including apnea, even at recommended dosages of methadone hydrochloride tablets [see Warnings and Precautions (5.2)].
+
+Elderly, Cachectic, or Debilitated Patients
+
+Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients because they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients [see Warnings and Precautions (5.2)].
 
 Monitor such patients closely, particularly when initiating and titrating methadone hydrochloride tablets and when methadone hydrochloride tablets are given concomitantly with other drugs that depress respiration [see Warnings and Precautions (5.2, 5.6)].
 Alternatively, consider the use of non-opioid analgesics in these patients.
@@ -162,7 +193,7 @@ Monitor patients with a history of seizure disorders for worsened seizure contro
 Avoid the use of mixed agonist/antagonist (i.e., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist, including methadone hydrochloride tablets.
 In these patients, mixed agonists/antagonist and partial agonist analgesics may reduce the analgesic effect and/or may precipitate withdrawal symptoms [see Drug Interactions (7)].
 
-When discontinuing methadone hydrochloride tablets, gradually taper the dosage [see Dosage and Administration (2.4)].
+When discontinuing methadone hydrochloride tablets, gradually taper the dosage [see Dosage and Administration (2.5)].
 Do not abruptly discontinue methadone hydrochloride tablets [see Drug Abuse and Dependence (9.3)].
 
 ## 5.15 Risks Driving and Operating Machinery
@@ -172,4 +203,4 @@ Warn patients not to drive or operate dangerous machinery unless they are tolera
 
 ## 5.16 Laboratory Test Interactions
 
-False positive urine drug screens for methadone have been reported for several drugs including diphenhydramine, doxylamine, clomipramaine, chlorpromazine, thioridazine, quetiapine, and verapamil.
+False positive urine drug screens for methadone have been reported for several drugs including diphenhydramine, doxylamine, clomipramine, chlorpromazine, thioridazine, quetiapine, and verapamil.
