@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA208791"
+  ],
+  "inn": "chloroprocaine",
+  "labeler": "B. Braun Medical Inc.",
+  "package_ndcs": [
+    "0264-7055-05",
+    "0264-7055-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "chloroprocaine hydrochloride",
+      "name": "Clorotekal"
+    }
+  ],
+  "setid": "90f7a095-f6db-456b-951f-9aee54c5dbc0",
+  "source": "dailymed"
+}
