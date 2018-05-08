@@ -2,36 +2,38 @@
 
 NDC 50242-060-01
 
-100 mg 25 mg/mL
+100mg/4mL (25mg/mL)
 
-AVASTIN® (bevacizumab)
+AVASTIN® (bevacizumab) Injection
 
-For Intravenous Use
+For Intravenous Use.
 
-4 mL SINGLE-USE VIAL NO PRESERVATIVES.
-DISCARD UNUSED PORTION.
+Single-Dose Vial.
+Discard Unused Portion.
+No preservative.
 
-Rx only
+1 vial Rx only
 
 Genentech
 
-10179239
+10195725
 
 # PRINCIPAL DISPLAY PANEL - 16 mL Vial Carton
 
 NDC 50242-061-01
 
-400 mg 25 mg/mL
+400mg/16mL (25mg/mL)
 
-AVASTIN® (bevacizumab)
+AVASTIN® (bevacizumab) Injection
 
-For Intravenous Use
+For Intravenous Use.
 
-16 mL SINGLE-USE VIAL NO PRESERVATIVES.
-DISCARD UNUSED PORTION.
+Single-Dose Vial.
+Discard Unused Portion.
+No preservative.
 
-Rx only
+1 vial Rx only
 
 Genentech
 
-10179240
+10195746

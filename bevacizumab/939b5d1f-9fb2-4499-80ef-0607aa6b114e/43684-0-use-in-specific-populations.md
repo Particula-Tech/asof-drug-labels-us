@@ -59,7 +59,9 @@ The safety and effectiveness of Avastin in pediatric patients have not been esta
 In published literature reports, cases of non-mandibular osteonecrosis have been observed in patients under the age of 18 years who have received Avastin.
 Avastin is not approved for use in patients under the age of 18 years.
 
-Antitumor activity was not observed among eight pediatric patients with relapsed glioblastoma receiving bevacizumab and irinotecan.
+Antitumor activity was not observed among eight pediatric patients with relapsed glioblastoma who received bevacizumab and irinotecan.
+Addition of Avastin to standard of care did not result in improved event-free survival in pediatric patients enrolled in two randomized clinical trials, one in high grade glioma (n= 121) and one in metastatic rhabdomyosarcoma or non-rhabdomyosarcoma soft tissue sarcoma (n=.154).
+Based on the population pharmacokinetics analysis of data from 152 pediatric patients with cancer (7 months to 21 years of age), clearance normalized by body weight in pediatrics was comparable to that in adults.
 
 Animal Data
 
