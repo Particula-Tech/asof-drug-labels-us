@@ -1,12 +1,12 @@
-# ADVERSE REACTIONS
-
-Adverse reactions have occurred with steroid/anti-infective combination drugs which can be attributed to the steroid component, the anti-infective component, or the combination.
+ADVERSE REACTIONS: Adverse reactions have occurred with steroid/anti-infective combination drugs which can be attributed to the steroid component, the anti-infective component, or the combination.
 Exact incidence figures are not available.
-The most frequent adverse reactions to topical ocular tobramycin (TOBREX® tobramycin ophthalmic ointment) are hypersensitivity and localized ocular toxicity, including lid itching and swelling, and conjunctival erythema.
+
+The most frequent adverse reactions to topical ocular tobramycin TOBREX® (tobramycin ophthalmic ointment) 0.3% are hypersensitivity and localized ocular toxicity, including lid itching and swelling, and conjunctival erythema.
 These reactions occur in less than 4% of patients.
 Similar reactions may occur with the topical use of other aminoglycoside antibiotics.
 Other adverse reactions have not been reported; however, if topical ocular tobramycin is administered concomitantly with systemic aminoglycoside antibiotics, care should be taken to monitor the total serum concentration.
-The reactions due to the steroid component are: elevation of intraocular pressure (IOP) with possible development of glaucoma, and infrequent optic nerve damage; posterior subcapsular cataract formation; and delayed wound healing.
+
+The reactions due to the steroid component are: elevation of intraocular pressure with possible development of glaucoma, and infrequent optic nerve damage; posterior subcapsular cataract formation; and delayed wound healing.
 
 Secondary Infection.
 The development of secondary infection has occurred after use of combinations containing steroids and antimicrobials.

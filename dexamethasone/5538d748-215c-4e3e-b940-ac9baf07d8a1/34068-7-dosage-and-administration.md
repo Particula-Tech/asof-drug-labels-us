@@ -1,8 +1,6 @@
-# DOSAGE AND ADMINISTRATION
+DOSAGE AND ADMINISTRATION: Apply a small amount (approximately 1/2 inch ribbon) into the conjunctival sac(s) up to three or four times daily.
 
-Apply a small amount (approximately 1/2 inch ribbon) into the conjunctival sac(s) up to three or four times daily.
-
-How to apply TOBRADEX®(tobramycin and dexamethasone ophthalmic ointment):
+How to apply TOBRADEX® (tobramycin and dexamethasone ophthalmic ointment):
 
 1.
 Tilt your head back.
@@ -11,7 +9,7 @@ Tilt your head back.
 Place a finger on your cheek just under your eye and gently pull down until a "V" pocket is formed between your eyeball and your lower lid.
 
 3.
-Place a small amount (about 1/2 inch) of TOBRADEX®(tobramycin and dexamethasone ophthalmic ointment) in the "V" pocket.
+Place a small amount (about 1/2 inch) of TOBRADEX® (tobramycin and dexamethasone ophthalmic ointment) in the "V" pocket.
 Do not let the tip of the tube touch your eye.
 
 4.
