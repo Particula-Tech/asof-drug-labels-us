@@ -30,7 +30,11 @@ In drug interaction studies performed using ISENTRESS film-coated tablets 400 mg
 Moreover, atazanavir, atazanavir/ritonavir, boceprevir, calcium carbonate antacids, darunavir/ritonavir, efavirenz, etravirine, omeprazole, or tipranavir/ritonavir did not have a clinically meaningful effect on the pharmacokinetics of 400 mg twice daily raltegravir.
 No dose adjustment is required when ISENTRESS 400 mg twice daily is coadministered with these drugs.
 
+There is no predicted pharmacokinetic drug interaction between ISENTRESS and tenofovir alafenamide.
+
 ISENTRESS HD
 
 In drug interaction studies, efavirenz did not have a clinically meaningful effect on the pharmacokinetics of ISENTRESS HD 1200 mg (2 × 600 mg) once daily.
 No dose adjustment is recommended when ISENTRESS HD 1200 mg once daily is coadministered with atazanavir, atazanavir/ritonavir, hormonal contraceptives, methadone, lamivudine, tenofovir disoproxil fumarate, darunavir/ritonavir, boceprevir, efavirenz and omeprazole.
+
+There is no predicted pharmacokinetic drug interaction between ISENTRESS HD and tenofovir alafenamide.
