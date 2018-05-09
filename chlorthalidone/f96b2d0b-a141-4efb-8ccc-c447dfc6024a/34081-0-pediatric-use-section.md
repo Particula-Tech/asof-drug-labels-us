@@ -1,1 +1,0 @@
-Pediatric Use Safety and effectiveness in children has not been established.
