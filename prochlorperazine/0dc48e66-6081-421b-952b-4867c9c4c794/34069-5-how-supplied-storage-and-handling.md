@@ -20,12 +20,15 @@ Manufactured by:
 
 Emcure Pharmaceuticals Ltd.,
 
-Hinjwadi, Pune, India.
+Hinjawadi, Pune, India.
 
 Manufactured for:
 
 Heritage Pharmaceuticals Inc.
 
-Eatontown, NJ 07724
+East Brunswick, NJ 08816
 
 1.866.901.DRUGS (3784)
+
+Rev.
+09/17

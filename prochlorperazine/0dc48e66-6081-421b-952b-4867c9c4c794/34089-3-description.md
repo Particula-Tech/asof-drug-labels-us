@@ -2,7 +2,7 @@
 
 Prochlorperazine edisylate, 2-Chloro-10-[3-(4-methyl-1-piperazinyl)propyl]phenothiazine 1,2-ethanedisulfonate (1:1), has the following structural formula:
 
-C20H24ClN3S C2H6O6S2 MW 564.14
+C20H24ClN3S·C2H6O6S2 MW 564.14
 
 Prochlorperazine Edisylate Injection, an antiemetic and antipsychotic, is a sterile solution intended for intramuscular or intravenous administration.
 

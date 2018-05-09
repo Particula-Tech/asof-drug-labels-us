@@ -22,7 +22,7 @@ PROTECT FROM LIGHT.
 
 Mfg by: Emcure Pharmaceuticals Ltd.,
 
-Hinjwadi, Pune, India.
+Hinjawadi, Pune, India.
 
 Mfg for: Heritage Pharmaceuticals Inc.
 
@@ -62,12 +62,12 @@ Manufactured by:
 
 Emcure Pharmaceuticals Ltd.,
 
-Hinjwadi, Pune, India.
+Hinjawadi, Pune, India.
 
 Manufactured for:
 
 Heritage Pharmaceuticals Inc.
 
-Eatontown, NJ 07724
+East Brunswick, NJ 08816
 
 1.866.901.DRUG (3784)
