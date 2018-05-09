@@ -2,7 +2,7 @@
 
 Lidocaine HCl and 5% Dextrose Injection USP
 
-REF P5941 NDC 0264-9594-10 500 mL EXCEL® CONTAINER Lidocaine 2 g (4 mg/mL) Y94-003-294 LD-261-3
+REF P5941 NDC 0264-9594-10 500 mL EXCEL® CONTAINER Lidocaine 2 g (4 mg/mL) Y94-003-343 LD-261-4
 
 Each 100 mL contains: Lidocaine Hydrochloride USP 0.4 g; Hydrous Dextrose USP 5 g; Water for Injection USP qs pH: 4.4 (3.0-7.0); Calc.
 Osmolarity: 280 mOsmol/liter WARNING: Do not admix with other drugs.
