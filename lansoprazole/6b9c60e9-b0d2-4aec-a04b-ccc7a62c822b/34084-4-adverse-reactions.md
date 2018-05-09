@@ -20,7 +20,7 @@ The following adverse reactions were reported by the treating physician to have 
 
 | Table 1: Incidence of Possibly or Probably Treatment-Related Adverse Reactions in Short-Term, Placebo-Controlled Lansoprazole Studies |  |  |
 | --- | --- | --- |
-| Body System/Adverse Reaction | Lansoprazole (N= 2768) % | Placebo (N= 1023) % |
+| Body System/Adverse Reaction | Lansoprazole (N=2768) % | Placebo (N=1023) % |
 | Body as a Whole Abdominal Pain | 2.1 | 1.2 |
 | Digestive System |  |  |
 | Constipation | 1.0 | 0.4 |
@@ -61,7 +61,7 @@ Skin and Appendages – acne, alopecia, contact dermatitis, dry skin, fixed erup
 
 Special Senses – abnormal vision, amblyopia, blepharitis, blurred vision, cataract, conjunctivitis, deafness, dry eyes, ear/eye disorder, eye pain, glaucoma, otitis media, parosmia, photophobia, retinal degeneration/disorder, taste loss, taste perversion, tinnitus, visual field defect
 
-Urogenital System – abnormal menses, breast enlargement, breast pain, breast tenderness, dysmenorrhea, dysuria, gynecomastia, impotence, kidney calculus, kidney pain, leukorrhea, menorrhagia, menstrual disorder, penis disorder, polyuria, testis disorder, urethral pain, urinary frequency, urinary retention, urinary tract infection, urinary urgency, urination impaired, vaginitis.
+Urogenital System – abnormal menses, breast enlargement, breast pain, breast tenderness, dysmenorrhea, dysuria, gynecomastia, impotence, kidney calculus, kidney pain, leukorrhea, menorrhagia, menstrual disorder, penis disorder, polyuria, testis disorder, urethral pain, urinary frequency, urinary retention, urinary tract infection, urinary urgency, urination impaired, vaginitis
 
 ## 6.2 Postmarketing Experience
 
@@ -94,7 +94,7 @@ Abnormal liver function tests, increased SGOT (AST), increased SGPT (ALT), incre
 Urine abnormalities such as albuminuria, glycosuria, and hematuria were also reported.
 Additional isolated laboratory abnormalities were reported.
 
-In the placebo controlled studies, when SGOT (AST) and SGPT (ALT) were evaluated, 0.4% (4/978) and 0.4% (11/2677) patients, who received placebo and lansoprazole, respectively, had enzyme elevations greater than three times the upper limit of normal range at the final treatment visit.
+In the placebo-controlled studies, when SGOT (AST) and SGPT (ALT) were evaluated, 0.4% (4/978) and 0.4% (11/2677) patients, who received placebo and lansoprazole, respectively, had enzyme elevations greater than three times the upper limit of normal range at the final treatment visit.
 None of these patients who received lansoprazole reported jaundice at any time during the study.
 
 In clinical trials using combination therapy with lansoprazole plus amoxicillin and clarithromycin, and lansoprazole plus amoxicillin, no increased laboratory abnormalities particular to these drug combinations were observed.

@@ -61,8 +61,8 @@ In children 1 to 11 years of age, lansoprazole delayed-release capsules are used
 
 In children 12 to 17 years of age, lansoprazole delayed-release capsules are used for:
 
-- up to eight weeks to treat heartburn and other symptoms that can happen with GERD.
-- up to eight weeks for the healing and symptom relief of EE.
+- up to 8 weeks to treat heartburn and other symptoms that can happen with GERD.
+- up to 8 weeks for the healing and symptom relief of EE.
 
 Lansoprazole delayed-release capsules are not effective for treating the symptoms of GERD in children less than 1 year of age.
 
@@ -70,7 +70,7 @@ Do not take lansoprazole delayed-release capsules if you are:
 
 - allergic to lansoprazole, any other PPI medicine, or any of the ingredients in lansoprazole delayed-release capsules.
   See the end of this Medication Guide for a complete list of ingredients.
-- taking a medicine that contains rilpivirine (EDURANT, COMPLERA, ODEFSEY) used to treat HIV-1 (Human Immunodeficiency Virus)
+- taking a medicine that contains rilpivirine (EDURANT, COMPLERA, ODEFSEY) used to treat HIV-1 (Human Immunodeficiency Virus).
 
 Before you take lansoprazole delayed-release capsules, tell your doctor about all of your medical conditions, including if you:
 
@@ -96,7 +96,7 @@ Lansoprazole delayed-release capsules:
 - Swallow lansoprazole delayed-release capsules whole.
 - Do not crush or chew lansoprazole delayed-release capsules.
 - If you have trouble swallowing a whole capsule, you can open the capsule and take the contents with certain foods or juices.
-  See the "Instructions for Use" at the end of this Medication Guide for instructions on how to take lansoprazole delayed-release capsules with certain foods and juices.
+  See the "Instructions for Use" at the end of this Medication Guide for instructions on how to take lansoprazole delayed-release capsules with certain foods or juices.
 - See the "Instructions for Use" at the end of this Medication Guide for instructions on how to mix and give lansoprazole delayed-release capsules through a nasogastric tube (NG tube).
 - If you miss a dose of lansoprazole delayed-release capsules, take it as soon as you remember.
   If it is almost time for your next dose, do not take the missed dose.
@@ -111,7 +111,7 @@ Lansoprazole delayed-release capsules can cause serious side effects, including:
 - See “What is the most important information that I should know about lansoprazole delayed-release capsules?”
 - Low vitamin B12 levels in the body can happen in people who have taken lansoprazole delayed-release capsules for a long time (more than 3 years).
   Tell your doctor if you have symptoms of low vitamin B12 levels, including shortness of breath, lightheadedness, irregular heartbeat, muscle weakness, pale skin, feeling tired, mood changes, and tingling or numbness in the arms and legs.
-- Low magnesium levels in your bodycan happen in people who have taken lansoprazole delayed-release capsules for at least 3 months.
+- Low magnesium levels in the body can happen in people who have taken lansoprazole delayed-release capsules for at least 3 months.
   Tell your doctor if you have symptoms of low magnesium levels, including seizures, dizziness, irregular heartbeat, jitteriness, muscle aches or weakness, and spasms of hands, feet or voice.
 
 The most common side effects of lansoprazole delayed-release capsules include: diarrhea, stomach-area (abdomen) pain, nausea and constipation.
@@ -146,7 +146,7 @@ The imprinting ink contains shellac, propylene glycol, strong ammonia solution, 
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised: 11/2017
+Revised: 05/2018
 
 INSTRUCTIONS FOR USE
 
@@ -210,6 +210,6 @@ Bridgewater, NJ 08807.
 
 Made in India
 
-Revised: 11/2017
+Revised: 05/2018
 
 All other trademark names are the property of their respective owners.

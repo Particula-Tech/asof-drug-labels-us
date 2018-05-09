@@ -43,7 +43,7 @@ Lansoprazole delayed-release capsules
 
 - Swallow whole; do not chew.
 - For patients who have difficulty swallowing capsules:
-  - Lansoprazole delayed-release capsules can be opened and sprinkled on applesauce, ENSURE pudding, cottage cheese, yogurt or strained pears.
+  - Lansoprazole delayed-release capsules can be opened and sprinkled on applesauce, ENSURE pudding, cottage cheese, yogurt or strained pears
   - Lansoprazole delayed-release capsules may also be emptied into a small volume of either apple juice, orange juice or tomato juice
   - Alternatively, lansoprazole delayed-release capsules can be administered with apple juice via nasogastric tube
   - See the Instructions for Use for a description of all preparation and administration instructions

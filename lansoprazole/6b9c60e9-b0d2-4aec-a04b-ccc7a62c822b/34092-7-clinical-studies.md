@@ -123,7 +123,7 @@ There was no statistically significant difference between lansoprazole 30 mg dai
 In one large U.S., multi-center, double-blind, placebo- and misoprostol-controlled (misoprostol blinded only to the endoscopist) study in patients who required chronic use of an NSAID and who had a history of an endoscopically documented gastric ulcer, the proportion of patients remaining free from gastric ulcer at four, eight, and 12 weeks was significantly higher with 15 or 30 mg of lansoprazole than placebo.
 A total of 537 patients were enrolled in the study, and 535 patients were treated.
 Patients ranged in age from 23 to 89 years (median age 60 years), with 65% female patients and 35% male patients.
-Race was distributed as follows: 90% Caucasian, 6% Black, 4% other.
+Race was distributed as follows: 90% Caucasian, 6% Black, 4% Other.
 The 30 mg dose of lansoprazole demonstrated no additional benefit in risk reduction of the NSAID-associated gastric ulcer than the 15 mg dose (Table 16) [see Indications and Usage (1.6)].
 
 | Table 16: Proportion of Patients Remaining Free of Gastric Ulcers* |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -228,7 +228,7 @@ Patients remained in remission significantly longer and the number of recurrence
 
 Regardless of initial grade of erosive esophagitis, lansoprazole 15 and 30 mg were similar in maintaining remission.
 
-In a U.S., randomized, double-blind, study, lansoprazole 15 mg daily (n = 100) was compared with ranitidine 150 mg twice daily (n = 106), at the recommended dosage, in patients with endoscopically-proven healed erosive esophagitis over a 12 month period.
+In a U.S., randomized, double-blind study, lansoprazole 15 mg daily (n=100) was compared with ranitidine 150 mg twice daily (n=106), at the recommended dosage, in patients with endoscopically-proven healed erosive esophagitis over a 12 month period.
 Treatment with lansoprazole resulted in patients remaining healed (Grade 0 lesions) of erosive esophagitis for significantly longer periods of time than those treated with ranitidine (p<0.001).
 In addition, lansoprazole was significantly more effective than ranitidine in providing complete relief of both daytime and nighttime heartburn.
 Patients treated with lansoprazole remained asymptomatic for a significantly longer period of time than patients treated with ranitidine [see Indications and Usage (1.9)].

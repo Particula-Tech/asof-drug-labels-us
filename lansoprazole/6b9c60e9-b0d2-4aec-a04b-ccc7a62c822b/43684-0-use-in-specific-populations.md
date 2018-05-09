@@ -2,21 +2,37 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects Pregnancy Category B. Reproduction studies have been performed in pregnant rats at oral doses up to 40 times the recommended human dose and in pregnant rabbits at oral doses up to 16 times the recommended human dose and have revealed no evidence of impaired fertility or harm to the fetus due to lansoprazole.
-There are, however, no adequate or well-controlled studies in pregnant women.
-Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed [see Nonclinical Toxicology (13.2)].
+Risk Summary
 
-See full prescribing information for clarithromycin before using in pregnant women.
+Available data from published observational studies overall do not indicate an association of adverse pregnancy outcomes with lansoprazole treatment (see Data).
 
-## 8.3 Nursing Mothers
+The estimated background risk of major birth defects and miscarriage for the indicated populations are unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
-Lansoprazole or its metabolites are excreted in the milk of rats.
-It is not known whether lansoprazole is excreted in human milk.
-Because many drugs are excreted in human milk, because of the potential for serious adverse reactions in nursing infants from lansoprazole, and because of the potential for tumorigenicity shown for lansoprazole in rat carcinogenicity studies, a decision should be made whether to discontinue nursing or to discontinue lansoprazole, taking into account the importance of lansoprazole to the mother.
+If lansoprazole is administered with clarithromycin, the pregnancy information for clarithromycin also applies to the combination regimen.
+Refer to the prescribing information for clarithromycin for more information on use in pregnancy.
+
+Data
+
+Human Data Available data from published observational studies failed to demonstrate an association of adverse pregnancy-related outcomes and lansoprazole use.
+Methodological limitations of these observational studies cannot definitely establish or exclude any drug-associated risk during pregnancy.
+In a prospective study by the European Network of Teratology Information Services, outcomes from a group of 62 pregnant women administered median daily doses of 30 mg of lansoprazole were compared to a control group of 868 pregnant women who did not take any PPIs.
+There was no difference in the rate of major malformations between women exposed to PPIs and the control group, corresponding to a Relative Risk (RR)=1.04, [95% Confidence Interval (CI) 0.25-4.21].
+In a population-based retrospective cohort study covering all live births in Denmark from 1996 to 2008, there was no significant increase in major birth defects during analysis of first trimester exposure to lansoprazole in 794 live births.
+A meta-analysis that compared 1,530 pregnant women exposed to PPIs in at least the first trimester with 133,410 unexposed pregnant women showed no significant increases in risk for congenital malformations or spontaneous abortion with exposure to PPIs (for major malformations Odds Ratio (OR)=1.12, [95% CI 0.86-1.45] and for spontaneous abortions OR=1.29, [95% CI 0.84-1.97]).
+
+Animal Data No adverse effects on embryo-fetal development occurred in studies performed in pregnant rats at oral lansoprazole doses up to 150 mg/kg/day (40 times the recommended human dose [30 mg/day] based on body surface area) administered during organogenesis and pregnant rabbits at oral lansoprazole doses up to 30 mg/kg/day (16 times the recommended human dose based on body surface area) administered during organogenesis.
+
+## 8.2 Lactation
+
+Risk Summary There is no information regarding the presence of lansoprazole in human milk, the effects on the breastfed infant, or the effects on milk production.
+However, lansoprazole and its metabolites are present in rat milk.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for lansoprazole and any potential adverse effects on the breastfed child from lansoprazole or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of lansoprazole have been established in pediatric patients one to 17 years of age for short-term treatment of symptomatic GERD and erosive esophagitis, however, lansoprazole was not effective in patients with symptomatic GERD one month to less than one year of age in a multi-center, double-blind, placebo controlled study.
+The safety and effectiveness of lansoprazole have been established in pediatric patients one to 17 years of age for short-term treatment of symptomatic GERD and erosive esophagitis, however, lansoprazole was not effective in patients with symptomatic GERD one month to less than one year of age in a multi-center, double-blind, placebo-controlled study.
 
 Neonate to less than one year of age
 
@@ -78,7 +94,7 @@ One patient remained unhealed after 12 weeks of treatment (Table 5).
 | GERD | Final Visit % (n/N) |  |  |  |  |  |  |  |  |
 | Symptomatic GERD (All Patients) Improvement in Overall GERD Symptoms* | 73.2% (60/82)† |  |  |  |  |  |  |  |  |
 | Non-erosive GERD Improvement in Overall GERD Symptoms* | 71.2% (42/59)† |  |  |  |  |  |  |  |  |
-| Erosive Esophagitis Improvement in Overall GERD Symptoms* Healing Rate ‡ | 78.3% (18/23) 95.5% (21/22) ‡ |  |  |  |  |  |  |  |  |
+| Erosive Esophagitis Improvement in Overall GERD Symptoms* Healing Rate‡ | 78.3% (18/23) 95.5% (21/22) ‡ |  |  |  |  |  |  |  |  |
 | *Symptoms assessed by patient diary (parents/caregivers as necessary).†No data available for five patients. ‡Data from one healed patient was excluded from this analysis due to timing of final endoscopy. |  |  |  |  |  |  |  |  |  |
 
 In these 87 adolescent patients, increases in serum gastrin levels were similar to those observed in adult studies, median fasting serum gastrin levels increased 42% from 45 pg/mL at baseline to 64 pg/mL [interquartile range (25th to 75th percentile) of 44 to 88 pg/mL] at the final visit.
