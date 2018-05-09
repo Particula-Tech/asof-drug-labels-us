@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA209226"
+  ],
+  "inn": "cinacalcet",
+  "labeler": "Strides Shasun Limited",
+  "package_ndcs": [
+    "64380-883-04",
+    "64380-884-04",
+    "64380-885-04"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "cinacalcet hydrochloride",
+      "name": "Cinacalcet Hydrochloride"
+    }
+  ],
+  "setid": "0ba47b6a-ba49-4d7a-82e1-1c6e49bfa5d7",
+  "source": "dailymed"
+}
