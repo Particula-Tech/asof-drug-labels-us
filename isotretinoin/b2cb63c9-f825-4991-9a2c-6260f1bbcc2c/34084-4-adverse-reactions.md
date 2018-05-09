@@ -4,7 +4,7 @@
 
 The adverse reactions listed below reflect the experience from investigational studies of Amnesteem, and the post-marketing experience.
 The relationship of some of these events to Amnesteem therapy is unknown.
-Many of the side effects and adverse reactions seen in patients receiving Amnesteem are similar to those described in patients taking very high doses of vitamin A (dryness of the skin and mucous membranes, e.g., of the lips, nasal passage and eyes).
+Many of the side effects and adverse reactions seen in patients receiving Amnesteem are similar to those described in patients taking very high doses of vitamin A (dryness of the skin and mucous membranes, e.g., of the lips, nasal passage, and eyes).
 
 ## Dose Relationship
 
@@ -20,7 +20,7 @@ Endocrine/Metabolic: hypertriglyceridemia (see WARNINGS: Lipids), alterations in
 Gastrointestinal: inflammatory bowel disease (see WARNINGS: Inflammatory Bowel Disease), hepatitis (see WARNINGS: Hepatotoxicity), pancreatitis (see WARNINGS: Lipids), bleeding and inflammation of the gums, colitis, esophagitis/esophageal ulceration, ileitis, nausea, other nonspecific gastrointestinal symptoms
 
 Hematologic: allergic reactions (see PRECAUTIONS: Hypersensitivity), anemia, thrombocytopenia, neutropenia, rare reports of agranulocytosis (see PRECAUTIONS: Information for Patients).
-See PRECAUTIONS: Laboratory Tests for other hematological parameters
+See PRECAUTIONS: Laboratory Tests for other hematological parameters.
 
 Musculoskeletal: skeletal hyperostosis, calcification of tendons and ligaments, premature epiphyseal closure, decreases in bone mineral density (see WARNINGS: Skeletal), musculoskeletal symptoms (sometimes severe) including back pain, myalgia, and arthralgia (see PRECAUTIONS: Information for Patients), transient pain in the chest (see PRECAUTIONS: Information for Patients), arthritis, tendonitis, other types of bone abnormalities, elevations of CPK/rare reports of rhabdomyolysis (see PRECAUTIONS: Laboratory Tests)
 
@@ -34,7 +34,7 @@ Reproductive System: abnormal menses
 
 Respiratory: bronchospasms (with or without a history of asthma), respiratory infection, voice alteration
 
-Skin and Appendages: acne fulminans, alopecia (which in some cases persists), bruising, cheilitis (dry lips), dry mouth, dry nose, dry skin, epistaxis, eruptive xanthomas,7 erythema multiforme, flushing, fragility of skin, hair abnormalities, hirsutism, hyperpigmentation and hypopigmentation, infections (including disseminated herpes simplex), nail dystrophy, paronychia, peeling of palms and soles, photoallergic/photosensitizing reactions, pruritus, pyogenic granuloma, rash (including facial erythema, seborrhea, and eczema), Stevens-Johnson Syndrome, sunburn susceptibility increased, sweating, toxic epidermal necrolysis, urticaria, vasculitis (including Wegener’s granulomatosis; see PRECAUTIONS: Hypersensitivity) abnormal wound healing (delayed healing or exuberant granulation tissue with crusting; see PRECAUTIONS: Information for Patients)
+Skin and Appendages: acne fulminans, alopecia (which in some cases persists), bruising, cheilitis (dry lips), dry mouth, dry nose, dry skin, epistaxis, eruptive xanthomas,7 erythema multiforme, flushing, fragility of skin, hair abnormalities, hirsutism, hyperpigmentation and hypopigmentation, infections (including disseminated herpes simplex), nail dystrophy, paronychia, peeling of palms and soles, photoallergic/photosensitizing reactions, pruritus, pyogenic granuloma, rash (including facial erythema, seborrhea, and eczema), Stevens-Johnson syndrome, sunburn susceptibility increased, sweating, toxic epidermal necrolysis, urticaria, vasculitis (including Wegener’s granulomatosis; see PRECAUTIONS: Hypersensitivity), abnormal wound healing (delayed healing or exuberant granulation tissue with crusting; see PRECAUTIONS: Information for Patients)
 
 Special Senses: Hearing: hearing impairment (see WARNINGS: Hearing Impairment), tinnitus
 

@@ -3,7 +3,7 @@
 Amnesteem should be administered with a meal (see PRECAUTIONS: Information for Patients).
 
 The recommended dosage range for Amnesteem is 0.5 to 1 mg/kg/day given in two divided doses with food for 15 to 20 weeks.
-In studies comparing 0.1, 0.5 and 1 mg/kg/day,8 it was found that all dosages provided initial clearing of disease, but there was a greater need for retreatment with the lower dosages.
+In studies comparing 0.1, 0.5, and 1 mg/kg/day,8 it was found that all dosages provided initial clearing of disease, but there was a greater need for retreatment with the lower dosages.
 During treatment, the dose may be adjusted according to response of the disease and/or the appearance of clinical side effects — some of which may be dose related.
 Adult patients whose disease is very severe with scarring or is primarily manifested on the trunk may require dose adjustments up to 2 mg/kg/day, as tolerated.
 Failure to take Amnesteem with food will significantly decrease absorption.
@@ -31,8 +31,8 @@ Amnesteem Dosing by Body Weight (Based on Administration with Food)
 
 INFORMATION FOR PHARMACISTS
 
-Access the iPLEDGE system via the internet (www.ipledgeprogram.com) or telephone (1-866-495-0654) to obtain an authorization and the “do not dispense to patient after” date.
-Amnesteem must only be dispensed in no more than a 30 day supply.
+Access the iPLEDGE Program system via the internet (www.ipledgeprogram.com), telephone (1-866-495-0654) or through electronic telecommunication verification (via submission of an isotretinoin prescription claim) to obtain an authorization and the “do not dispense to patient after” date.
+Amnesteem must only be dispensed in no more than a 30-day supply.
 
 REFILLS REQUIRE A NEW PRESCRIPTION AND A NEW AUTHORIZATION FROM THE iPLEDGE SYSTEM.
 

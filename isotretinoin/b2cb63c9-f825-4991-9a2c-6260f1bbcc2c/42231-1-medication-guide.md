@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-AMNESTEEM (AM-NES-TEAM) (Isotretinoin Capsules)
+AMNESTEEM (AM-NES-TEAM) (Isotretinoin Capsules, USP)
 
 Read the Medication Guide that comes with Amnesteem before you start taking it and each time you get a prescription.
 There may be new information.
@@ -11,24 +11,26 @@ What is the most important information I should know about Amnesteem?
 - •Amnesteem® is used to treat a type of severe acne (nodular acne) that has not been helped by other treatments, including antibiotics.
 - •Because Amnesteem can cause birth defects, Amnesteem is only for patients who can understand and agree to carry out all of the instructions in the iPLEDGE Program.
 - •Amnesteem may cause serious mental health problems.
-- •Birth defects (deformed babies), loss of a baby before birth (miscarriage), death of the baby and early (premature) births.
+- 1.Birth defects (deformed babies), loss of a baby before birth (miscarriage), death of the baby, and early (premature) births.
   Female patients who are pregnant or who plan to become pregnant must not take Amnesteem.
   Female patients must not get pregnant:
-  - •for 1 month before starting Amnesteem
+- 
+  - •for one month before starting Amnesteem
   - •while taking Amnesteem
-  - •for 1 month after stopping Amnesteem.
+  - •for one month after stopping Amnesteem.
 - If you get pregnant while taking Amnesteem, stop taking it right away and call your doctor.
   Doctors and patients should report all cases of pregnancy to:
-  1. •FDA MedWatch at 1-800-FDA-1088, and
-  2. •the iPLEDGE pregnancy registry at 1-866-495-0654
-- •Serious mental health problems.
+- 
+  - •FDA MedWatch at 1-800-FDA-1088, and
+  - •the iPLEDGE Pregnancy Registry at 1-866-495-0654
+- 2.Serious mental health problems.
   Amnesteem may cause:
-  - •depression
-  - •psychosis (seeing or hearing things that are not real)
-  - •suicide.
-    Some patients taking Amnesteem have had thoughts about hurting themselves or putting an end to their own lives (suicidal thoughts).
-    Some people tried to end their own lives.
-    And some people have ended their own lives.
+  1. •depression
+  2. •psychosis (seeing or hearing things that are not real)
+  3. •suicide.
+     Some patients taking Amnesteem have had thoughts about hurting themselves or putting an end to their own lives (suicidal thoughts).
+     Some people tried to end their own lives.
+     And some people have ended their own lives.
 - Stop Amnesteem and call your doctor right away if you or a family member notices that you have any of the following signs and symptoms of depression or psychosis:
   1. •start to feel sad or have crying spells
   2. •lose interest in activities you once enjoyed
@@ -53,7 +55,7 @@ Amnesteem can only be:
 
 - •prescribed by doctors that are registered in the iPLEDGE Program
 - •dispensed by a pharmacy that is registered with the iPLEDGE Program
-- •given to patients who are registered in the iPLEDGE Program and agree to do everything required in the program
+- •given to patients who are registered in the iPLEDGE Program and agree to do everything required in the program.
 
 What is severe nodular acne?
 
@@ -63,7 +65,7 @@ If untreated, nodular acne can lead to permanent scars.
 
 Who should not take Amnesteem?
 
-- •Do not take Amnesteem if you are pregnant, plan to become pregnant or become pregnant during Amnesteem treatment.
+- •Do not take Amnesteem if you are pregnant, plan to become pregnant, or become pregnant during Amnesteem treatment.
   Amnesteem causes severe birth defects.
   See “What is the most important information I should know about Amnesteem?”
 - •Do not take Amnesteem if you are allergic to anything in it.
@@ -117,10 +119,10 @@ How should I take Amnesteem?
   You must also follow all the instructions of the iPLEDGE Program.
   Before prescribing Amnesteem, your doctor will:
   - •explain the iPLEDGE Program to you
-  - •have you sign the Patient Information/Informed Consent form (for all patients).
+  - •have you sign the Patient Information/Informed Consent (for all patients).
     Female patients who can get pregnant must also sign another consent form.
 - You will not be prescribed Amnesteem if you cannot agree to or follow all the instructions of the iPLEDGE Program.
-- •You will get no more than a 30 day supply of Amnesteem at a time.
+- •You will get no more than a 30-day supply of Amnesteem at a time.
   This is to make sure you are following the Amnesteem iPLEDGE Program.
   You should talk with your doctor each month about side effects.
 - •The amount of Amnesteem you take has been specially chosen for you.
@@ -138,14 +140,14 @@ How should I take Amnesteem?
 - •You must return to your doctor as directed to make sure you don’t have signs of serious side effects.
   Your doctor may do blood tests to check for serious side effects from Amnesteem.
   Female patients who can get pregnant will get a pregnancy test each month.
-- •Female patients who can get pregnant must agree to use two separate forms of effective birth control at the same time one month before, while taking and for one month after taking Amnesteem.
-  You must access the iPLEDGE system to answer questions about the program requirements and to enter your two chosen forms of birth control.
-  To access the iPLEDGE system, go to www.ipledgeprogram.com or call 1-866-495-0654.
+- •Female patients who can get pregnant must agree to use two separate forms of effective birth control at the same time one month before, while taking, and for one month after taking Amnesteem.
+  You must access the iPLEDGE Program system to answer questions about the program requirements and to enter your two chosen forms of birth control.
+  To access the iPLEDGE Program system, go to www.ipledgeprogram.com or call 1-866-495-0654.
 
-You must talk about effective birth control methods with your doctor or go for a free visit to talk about birth control with another doctor or family planning expert.
+You must talk about effective birth control forms with your doctor or go for a free visit to talk about birth control with another doctor or family planning expert.
 Your doctor can arrange this free visit, which will be paid for by the company that makes Amnesteem.
 
-If you have sex at any time without using two forms of effective birth control, get pregnant or miss your expected period, stop using Amnesteem and call your doctor right away.
+If you have sex at any time without using two forms of effective birth control, get pregnant, or miss your expected period, stop using Amnesteem and call your doctor right away.
 
 What should I avoid while taking Amnesteem?
 
@@ -170,7 +172,7 @@ What should I avoid while taking Amnesteem?
 
 What are the possible side effects of Amnesteem?
 
-- •Amnesteem can cause birth defects (deformed babies), loss of a baby before birth (miscarriage), death of the baby and early (premature) births.
+- •Amnesteem can cause birth defects (deformed babies), loss of a baby before birth (miscarriage), death of the baby, and early (premature) births.
   See “What is the most important information I should know about Amnesteem?”
 - •Amnesteem may cause serious mental health problems.
   See “What is the most important information I should know about Amnesteem?”
@@ -190,7 +192,7 @@ What are the possible side effects of Amnesteem?
   Stop using Amnesteem and call your doctor right away if you develop conjunctivitis (red or inflamed eyes, like “pink eye”), a rash with a fever, blisters on legs, arms or face and/or sores in your mouth, throat, nose, eyes, or if your skin begins to peel.
 - •stomach area (abdomen) problems.
   Certain symptoms may mean that your internal organs are being damaged.
-  These organs include the liver, pancreas, bowel (intestines) and esophagus (connection between mouth and stomach).
+  These organs include the liver, pancreas, bowel (intestines), and esophagus (connection between mouth and stomach).
   If your organs are damaged, they may not get better even after you stop taking Amnesteem.
   Stop taking Amnesteem and call your doctor if you get:
   - •severe stomach, chest or bowel pain
@@ -226,14 +228,14 @@ What are the possible side effects of Amnesteem?
   Return to your doctor for blood tests to check your lipids and to get any needed treatment.
   These problems usually go away when Amnesteem treatment is finished.
 - •serious allergic reactions.
-  Stop taking Amnesteem and get emergency care right away if you develop hives, a swollen face or mouth or have trouble breathing.
-  Stop taking Amnesteem and call your doctor if you get a fever, rash or red patches or bruises on your legs.
+  Stop taking Amnesteem and get emergency care right away if you develop hives, a swollen face or mouth, or have trouble breathing.
+  Stop taking Amnesteem and call your doctor if you get a fever, rash, or red patches or bruises on your legs.
 - •blood sugar problems.
   Amnesteem may cause blood sugar problems including diabetes.
   Tell your doctor if you are very thirsty or urinate a lot.
 - •decreased red and white blood cells.
-  Call your doctor if you have trouble breathing, faint or feel weak.
-- •The common, less serious side effects of Amnesteem are dry skin, chapped lips, dry eyes and dry nose that may lead to nosebleeds.
+  Call your doctor if you have trouble breathing, faint, or feel weak.
+- •The common, less serious side effects of Amnesteem are dry skin, chapped lips, dry eyes, and dry nose that may lead to nosebleeds.
   Call your doctor if you get any side effect that bothers you or that does not go away.
 
 These are not all of the possible side effects with Amnesteem.
@@ -259,14 +261,16 @@ This Medication Guide summarizes the most important information about Amnesteem.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about Amnesteem that is written for healthcare professionals.
 
-You can also call Mylan Pharmaceuticals Inc. at 1-877-446-3679 (1-877-4-INFO-RX), the iPLEDGE Program at 1-866-495-0654 or visit www.ipledgeprogram.com.
+You can also call Mylan at 1-877-446-3679 (1-877-4-INFO-RX), the iPLEDGE Program at 1-866-495-0654 or visit www.ipledgeprogram.com.
 
 What are the ingredients in Amnesteem?
 
 Active Ingredient: Isotretinoin
 
-Inactive Ingredients: butylated hydroxyanisole, edetate disodium, hydrogenated vegetable oil, soybean oil and yellow wax.
-Gelatin capsules contain glycerin, with the following dye systems: 10 mg – black ink and red iron oxide paste; 20 mg – black ink, red iron oxide paste, titanium dioxide and yellow iron oxide paste; 40 mg – black ink, red iron oxide paste, titanium dioxide and yellow iron oxide paste.
+Inactive Ingredients: butylated hydroxyanisole, edetate disodium, gelatin, glycerin, hydrogenated vegetable oil, soybean oil and yellow wax.
+The 10 mg capsules also contain red iron oxide paste and the 20 mg and 40 mg capsules also contain red iron oxide paste, titanium dioxide and yellow iron oxide paste.
+
+The black imprinting ink contains ammonium hydroxide, black iron oxide, polyethylene glycol, propylene glycol and polyvinyl acetate phthalate.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
@@ -276,4 +280,4 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Manufactured by: Catalent Pharma Solutions 74 rue Principale 67930 Beinheim France
 
-REVISED MARCH 2015 ISOTCA:R2U
+Revised: 4/2018 CAT:ISOTFR:R5

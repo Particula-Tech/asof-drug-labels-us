@@ -12,9 +12,9 @@ The decrease in sebum secretion is temporary and is related to the dose and dura
 
 ### Absorption
 
-Due to its high lipophilicity, oral absorption of isotretinoin is enhanced when given with a high fat meal.
+Due to its high lipophilicity, oral absorption of isotretinoin is enhanced when given with a high-fat meal.
 In a crossover study, 74 healthy adult subjects received a single 80 mg oral dose (2 x 40 mg capsules) of Amnesteem under fasted and fed conditions.
-Both peak plasma concentration (Cmax) and the total exposure (AUC) of isotretinoin were more than doubled following a standardized high fat meal when compared with Amnesteem given under fasted conditions (see Table 2).
+Both peak plasma concentration (Cmax) and the total exposure (AUC) of isotretinoin were more than doubled following a standardized high-fat meal when compared with Amnesteem given under fasted conditions (see Table 2).
 The observed elimination half-life was unchanged.
 This lack of change in half-life suggests that food increases the bioavailability of isotretinoin without altering its disposition.
 The time to peak concentration (Tmax) was also increased with food and may be related to a longer absorption phase.
@@ -26,7 +26,7 @@ Pharmacokinetic Parameters of Isotretinoin Mean (%CV), N = 74
 
 | Amnesteem2 x 40 mgCapsules | AUC0-∞(ng•hr/mL) | Cmax(ng/mL) | Tmax(hr) | t1/2(hr) |
 | --- | --- | --- | --- | --- |
-| FedEating a standardized high fat meal | 10,004 (22%) | 862 (22%) | 5.3 (77%) | 21 (39%) |
+| FedEating a standardized high-fat meal | 10,004 (22%) | 862 (22%) | 5.3 (77%) | 21 (39%) |
 | Fasted | 3,703 (46%) | 301 (63%) | 3.2 (56%) | 21 (30%) |
 
 ### Distribution
@@ -46,7 +46,7 @@ All of these metabolites possess retinoid activity that is in some in vitro mode
 However, the clinical significance of these models is unknown.
 After multiple oral dose administration of isotretinoin to adult cystic acne patients (≥ 18 years), the exposure of patients to 4-oxo-isotretinoin at steady-state under fasted and fed conditions was approximately 3.4 times higher than that of isotretinoin.
 
-In vitro studies indicate that the primary P450 isoforms involved in isotretinoin metabolism are 2C8, 2C9, 3A4 and 2B6.
+In vitro studies indicate that the primary P450 isoforms involved in isotretinoin metabolism are 2C8, 2C9, 3A4, and 2B6.
 Isotretinoin and its metabolites are further metabolized into conjugates, which are then excreted in urine and feces.
 
 ### Elimination
@@ -70,7 +70,7 @@ Pharmacokinetic Parameters of Isotretinoin Following Single and Multiple Dose Ad
 
 | Parameter | Isotretinoin(Single Dose) | Isotretinoin(Steady-State) |
 | --- | --- | --- |
-| Cmax (ng/mL)AUC(0 to 12) (ng.hr/mL)AUC(0 to 24) (ng.hr/mL)Tmax (hr)Median (range)Cssmin (ng/mL)T1/2 (hr)CL/F (L/hr) | 573.25 (278.79)3033.37 (1394.17)6003.81 (2885.67)6 (1 - 24.6)––– | 731.98 (361.86)5082 (2184.23)–4 (0 to 12)352.32 (184.44)15.69 (5.12)17.96 (6.27) |
+| Cmax (ng/mL)AUC(0 to 12) (ng.hr/mL)AUC(0 to 24) (ng.hr/mL)Tmax (hr)Median (range)Cssmin (ng/mL)T1/2 (hr)CL/F (L/hr) | 573.25 (278.79)3033.37 (1394.17)6003.81 (2885.67)6 (1 to 24.6)––– | 731.98 (361.86)5082 (2184.23)–4 (0 to 12)352.32 (184.44)15.69 (5.12)17.96 (6.27) |
 
 In pediatric patients (12 to 15 years), the mean ± SD elimination half-lives (t1/2) of isotretinoin and 4-oxo-isotretinoin were 15.7 ± 5.1 hours and 23.1 ± 5.7 hours, respectively.
 The accumulation ratios of isotretinoin ranged from 0.46 to 3.65 for pediatric patients.
