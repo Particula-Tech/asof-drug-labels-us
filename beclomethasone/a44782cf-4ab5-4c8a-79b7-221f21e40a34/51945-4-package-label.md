@@ -2,7 +2,7 @@
 
 NDC 0173-0388-79
 
-Beconase AQ®
+Beconase AQ
 
 (beclomethasone dipropionate, monohydrate)
 
@@ -20,7 +20,7 @@ Important: Read accompanying directions carefully.
 
 Made in Canada
 
-©2015 the GSK group of companies
+©2017 GSK group of companies or its licensor.
 
-1. 10000000138823 Rev.
-   11/15
+1. 62000000019007 Rev.
+   11/17
