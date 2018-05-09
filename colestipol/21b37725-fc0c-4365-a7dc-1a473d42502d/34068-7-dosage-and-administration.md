@@ -1,7 +1,7 @@
 # DOSAGE AND ADMINISTRATION
 
 One dose (1 packet or 1 level teaspoon) of COLESTID Granules contains 5 grams of colestipol hydrochloride.
-One dose (1 packet or 1 level scoopful) of FLAVORED COLESTID Granules is approximately 7.5 grams which contains 5 grams of colestipol hydrochloride.
+One dose (1 packet or 1 level scoopful) of FLAVORED COLESTID Granules is approximately 7.5 grams powder which contains 5 grams of colestipol hydrochloride.
 The recommended daily adult dose is one to six packets or level scoopfuls given once or in divided doses.
 Treatment should be started with one dose once or twice daily with an increment of one dose/day at one- or two-month intervals.
 Appropriate use of lipid profiles as per NCEP guidelines including LDL-cholesterol and triglycerides is advised so that optimal, but not excessive doses are used to obtain the desired therapeutic effect on LDL-cholesterol level.

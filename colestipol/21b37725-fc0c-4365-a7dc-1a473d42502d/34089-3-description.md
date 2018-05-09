@@ -8,5 +8,5 @@ COLESTID is tasteless and odorless.
 Inactive ingredient: silicon dioxide.
 One dose (1 packet or 1 level teaspoon) of COLESTID contains 5 grams of colestipol hydrochloride.
 FLAVORED COLESTID is orange flavored and light orange in color.
-One dose (1 packet or 1 level scoopful) of FLAVORED COLESTID is approximately 7.5 grams which contains 5 grams of colestipol hydrochloride.
+One dose (1 packet or 1 level scoopful) of FLAVORED COLESTID is approximately 7.5 grams powder which contains 5 grams of colestipol hydrochloride.
 This product also contains the following inactive ingredients: aspartame, beta carotene, citric acid, flavor (natural and artificial), glycerine, maltol, mannitol, and methylcellulose.
