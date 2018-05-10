@@ -8,14 +8,14 @@ Digoxin Injection, USP
 
 [250 mcg (0.25 mg)/mL]
 
+Rx Only
+
 Sterile
 
 For Intravenous or Intramuscular Injection
 
 Dilution not required
 
-Rx only
-
-5 x 2 mL Ampules
+10 x 2 mL Ampules
 
 SANDOZ

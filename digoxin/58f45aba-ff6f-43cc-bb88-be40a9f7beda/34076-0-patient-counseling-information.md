@@ -11,9 +11,10 @@
 - •Advise the patient to monitor and record their heart rate and blood pressure daily.
 - •Instruct women of childbearing potential who become or are planning to become pregnant to consult a physician prior to initiation or continuing therapy with digoxin.
 
-08-2015M
+Rev.
+09/2017
 
-A46167729
+46219345
 
 Manufactured in Canada by
 

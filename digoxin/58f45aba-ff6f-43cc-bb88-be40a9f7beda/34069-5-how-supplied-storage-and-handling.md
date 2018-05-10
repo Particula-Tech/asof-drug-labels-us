@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Digoxin Injection USP, 500 mcg (0.5 mg) in 2 mL (250 mcg [0.25 mg] per mL)is available as follows:
+Digoxin Injection USP, 500 mcg (0.5 mg) in 2 mL (250 mcg [0.25 mg] per mL) is available as follows:
 
 NDC 0781-3059-95 ampules of 2 mL in boxes of 10
 
