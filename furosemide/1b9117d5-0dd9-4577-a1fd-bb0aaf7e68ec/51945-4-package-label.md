@@ -67,7 +67,7 @@ Manufactured for:
 
 Heritage Pharmaceuticals Inc.
 
-Eatontown, NJ 07724
+East Bruswick, NJ 08816
 
 1.866.901.DRUG (3784)
 
@@ -104,6 +104,11 @@ Made In India
 
 Code No.: DRUGS/TS/62/2015(L)
 
+510570004IN01
+
+Rev.
+04/16
+
 # Principal display panel- 40 mg/4 mL -carton
 
 FUROSEMIDE Injection, USP
@@ -138,7 +143,7 @@ Manufactured for:
 
 Heritage Pharmaceuticals Inc.
 
-Eatontown, NJ 07724
+East Brunswick, NJ 08816
 
 1.866.901.DRUG (3784)
 
@@ -176,6 +181,9 @@ Code No.: DRUGS/TS/62/2015(L)
 
 510570006IN01
 
+Rev.
+04/16
+
 # Principal display panel- 100 mg/10 mL - carton
 
 FUROSEMIDE Injection, USP
@@ -208,6 +216,6 @@ Manufactured for:
 
 Heritage Pharmaceuticals Inc.
 
-Eatontown, NJ 07724
+East Brunswick, NJ 08816
 
 1.866.901.DRUG (3784)
