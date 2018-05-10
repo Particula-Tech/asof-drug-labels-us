@@ -54,6 +54,18 @@ Caution: After removing the overwrap check for minute leaks by squeezing the inn
 If leaks are found, discard container as sterility may be compromised.
 Use only if solution is clear and the container is undamaged.
 
+Preparation for Administration:
+
+1. Close flow control clamp of administration set.
+2. Remove cover from port at bottom of container.
+3. Insert piercing pin of administration set into port with a twisting motion until the pin is firmly seated.
+   NOTE: See full directions on administration set carton.
+4. Suspend container from hanger.
+5. Squeeze and release drip chamber to establish proper fluid level in chamber during infusion of Zoledronic Acid Injection.
+6. Open flow control clamp to expel air from set.
+   Close clamp.
+7. Regulate rate of administration with flow control clamp.
+
 ## 2.4 Method of Administration
 
 Due to the risk of clinically significant deterioration in renal function, which may progress to renal failure, single doses of Zoledronic Acid Injection should not exceed 4 mg and the duration of infusion should be no less than 15 minutes [see Warnings and Precautions (5.3)].
