@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA209467"
+  ],
+  "inn": "succinylcholine",
+  "labeler": "Zydus Pharmaceuticals (USA) Inc.",
+  "package_ndcs": [
+    "70710-1377-1",
+    "70710-1377-2"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "succinylcholine chloride",
+      "name": "Succinylcholine Chloride"
+    }
+  ],
+  "setid": "017e5ad4-028e-4e34-ac09-d0c8d64c880a",
+  "source": "dailymed"
+}
