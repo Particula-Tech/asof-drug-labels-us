@@ -4,11 +4,11 @@
 
 Cases of anaphylaxis and serious skin reactions including toxic epidermal necrolysis, Stevens-Johnson Syndrome, and erythema multiforme have been reported in postmarketing experience with oseltamivir phosphate.
 Stop oseltamivir phosphate and institute appropriate treatment if an allergic-like reaction occurs or is suspected.
-The use of oseltamivir phosphate is contraindicated in patients with known serious hypersensitivity to oseltamivir phosphate [see Contraindications (4)andAdverse Reactions (6.2)].
+The use of oseltamivir phosphate is contraindicated in patients with known serious hypersensitivity to oseltamivir phosphate [see Contraindications (4) and Adverse Reactions (6.2)].
 
 ## 5.2 Neuropsychiatric Events
 
-There have been postmarketing reports (mostly from Japan) of delirium and abnormal behavior leading to injury, and in some cases resulting in fatal outcomes, in patients with influenza who were receiving oseltamivir phosphate [see Adverse Reactions (6.2)].
+There have been postmarketing reports of delirium and abnormal behavior leading to injury, and in some cases resulting in fatal outcomes, in patients with influenza who were receiving oseltamivir phosphate [see Adverse Reactions (6.2)].
 Because these events were reported voluntarily during clinical practice, estimates of frequency cannot be made but they appear to be uncommon based on oseltamivir phosphate usage data.
 These events were reported primarily among pediatric patients and often had an abrupt onset and rapid resolution.
 The contribution of oseltamivir phosphate to these events has not been established.

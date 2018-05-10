@@ -27,10 +27,10 @@ However, individually, none of these studies had adequate sample sizes and some 
 
 Animal Data
 
-Studies for effects on embryo-fetal development were conducted in rats (50, 250, and 1500 mg/kg/day) and rabbits (50, 150, and 500 mg/kg/day) by the oral route.
+Studies for effects on embryo-fetal development were conducted in rats (50, 250, and 1,500 mg/kg/day) and rabbits (50, 150, and 500 mg/kg/day) by the oral route.
 Relative exposures at these doses were, respectively, 2, 13, and 100 times human exposure in the rat and 4, 8, and 50 times human exposure in the rabbit, based on AUC.
 Pharmacokinetic studies indicated that there was fetal exposure in both species.
-In the rat study, minimal maternal toxicity was reported in the 1500 mg/kg/day group.
+In the rat study, minimal maternal toxicity was reported in the 1,500 mg/kg/day group.
 In the rabbit study, slight and marked maternal toxicities were observed, respectively, in the 150 and 500 mg/kg/day groups.
 At the maternally toxic doses, statistically significant increases in the incidence rates of a variety of minor skeletal abnormalities and variants were observed in the exposed offspring.
 However, the individual incidence rate of each skeletal abnormality or variant remained within the background rates of occurrence in the species studied.
@@ -46,20 +46,20 @@ Exercise caution when oseltamivir phosphate is administered to a nursing woman.
 
 Treatment of Influenza
 
-The safety and efficacy of oseltamivir phosphate for the treatment of influenza in pediatric patients 2 weeks old to 17 years of age has been established [see Dosage and Administration (2.2), Clinical Pharmacology (12.3), andClinical Studies (14.1)] and is based on:
+The safety and efficacy of oseltamivir phosphate for the treatment of influenza in pediatric patients 2 weeks old to 17 years of age has been established [see Dosage and Administration (2.2), Clinical Pharmacology (12.3), and Clinical Studies (14.1)] and is based on:
 
 - 13 to 17 years of age: Safety and efficacy in adolescent patients 13 to 17 years of age was supported by adequate and well-controlled trials in adults and adolescents and younger pediatric patients and safety data in adolescents treated with oseltamivir phosphate in a study of treatment and prophylaxis.
 - 1 year to 12 years of age: Safety and efficacy in pediatric patients 1 year to 12 years of age was supported by results of one double-blind, placebo-controlled trial in 452 pediatric patients with influenza in whom oseltamivir phosphate 2 mg per kg twice daily or placebo was administered within 48 hours of symptom onset [see Clinical Studies (14.1)].
   Additional safety information was provided in a double-blind, placebo-controlled trial in pediatric patients 6 to 12 years of age with known asthma.
   Efficacy could not be established in pediatric patients with asthma.
 - 2 weeks to less than 1 year of age: Safety and efficacy in pediatric patients 2 weeks to less than 1 year of age is supported by adequate and well-controlled trials in adults and older pediatric patients and two open-label trials of oseltamivir phosphate (2 to 3.5 mg per kg twice daily for 5 days) in 136 pediatric subjects 2 weeks to less than 1 year of age.
-  In these two trials, the oseltamivir plasma concentrations in these subjects were similar to or higher than the oseltamivir plasma concentrations observed in older pediatric subjects and adults [see Clinical Pharmacology (12.3)andClinical Studies (14.1)].
+  In these two trials, the oseltamivir plasma concentrations in these subjects were similar to or higher than the oseltamivir plasma concentrations observed in older pediatric subjects and adults [see Clinical Pharmacology (12.3) and Clinical Studies (14.1)].
 
 The safety and efficacy of oseltamivir phosphate for treatment of influenza in pediatric patients less than 2 weeks of age have not been established.
 
 Prophylaxis of Influenza
 
-The safety and efficacy of oseltamivir phosphate for the prophylaxis of influenza in pediatric patients 1 year to 17 years old has been established [see Dosage and Administration (2.3), Clinical Pharmacology (12.3), andClinical Studies (14.2)] and is based on:
+The safety and efficacy of oseltamivir phosphate for the prophylaxis of influenza in pediatric patients 1 year to 17 years old has been established [see Dosage and Administration (2.3), Clinical Pharmacology (12.3), and Clinical Studies (14.2)] and is based on:
 
 - 13 to 17 years of age: Prophylaxis in adolescent patients 13 to 17 years of age is supported by one randomized, placebo-controlled post-exposure household prophylaxis trial of oseltamivir phosphate 75 mg taken orally once daily for 7 days in household contacts including 207 adolescents [see Clinical Studies (14.2)].
 - 1 year to 12 years of age: Oseltamivir phosphate for prophylaxis in pediatric patients 1 year to 12 years of age is supported by one randomized, open-label, post-exposure household prophylaxis trial including pediatric subjects 1 year to 12 years of age who received 30 to 60 mg of oseltamivir phosphate for oral suspension (supplied as powder) taken orally once daily for 10 days [see Clinical Studies (14.2)].
@@ -83,7 +83,7 @@ In a randomized, placebo-controlled trial in elderly residents of nursing homes 
 
 Patients with renal impairment had higher blood levels of oseltamivir carboxylate compared to patients with normal renal function which may increase the risk of oseltamivir phosphate-associated adverse reactions.
 Therefore, dosage adjustment is recommended for patients with a serum creatinine clearance between 10 and 60 mL/minute and for patients with end-stage renal disease (ESRD) undergoing routine hemodialysis or continuous peritoneal dialysis treatment [see Dosage and Administration (2.4)].
-Oseltamivir phosphate is not recommended for patients with ESRD not undergoing dialysis [see Indications and Usage (1.3)andClinical Pharmacology (12.3)].
+Oseltamivir phosphate is not recommended for patients with ESRD not undergoing dialysis [see Indications and Usage (1.3) and Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 
@@ -93,7 +93,7 @@ The safety and pharmacokinetics in patients with severe hepatic impairment have 
 ## 8.8 Use in Patients with Chronic Conditions
 
 Efficacy of oseltamivir phosphate in the treatment of influenza in patients with chronic cardiac disease and/or respiratory disease was evaluated in one randomized, placebo-controlled clinical trial.
-Efficacy in this population, as measured by time to alleviation of all symptoms, was not established but no new safety signals were identified [see Clinical Studies (14.1)].
+Efficacy in this population, as measured by time to alleviation of all symptoms, was not established, but no new safety signals were identified [see Clinical Studies (14.1)].
 
 No clinical trial data are available regarding treatment of influenza in patients with any medical condition sufficiently severe or unstable to be considered at imminent risk of requiring hospitalization.
 

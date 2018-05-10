@@ -52,7 +52,7 @@ Subjects received oseltamivir phosphate at doses ranging from 2 to 3.5 mg per kg
 These clinical trials were not designed to evaluate clinical efficacy or virologic response.
 
 Of the 136 subjects under the age of 1 year enrolled and dosed in the trials, the majority of the subjects were male (55%), white (79%), non-Hispanic (74%), full term (76%) and infected with influenza A (80%).
-Pharmacokinetic data indicated that a dose of 3 mg per kg twice daily in pediatric subjects 2 weeks to less than 1 year of age provided oseltamivir phosphate concentrations similar to or higher than those observed in older pediatric subjects and adults receiving the approved dose and provided the basis for approval [see Adverse Reactions (6.1)andUse in Specific Populations (8.4)].
+Pharmacokinetic data indicated that a dose of 3 mg per kg twice daily in pediatric subjects 2 weeks to less than 1 year of age provided oseltamivir phosphate concentrations similar to or higher than those observed in older pediatric subjects and adults receiving the approved dose and provided the basis for approval [see Adverse Reactions (6.1) and Use in Specific Populations (8.4)].
 
 ## 14.2 Prophylaxis of Influenza
 
@@ -63,7 +63,7 @@ The efficacy endpoint for all of these trials was the incidence of laboratory-co
 
 24 hours):
 
-- ·oral temperature greater than or equal to 99ºF (37.2ºC),
+- oral temperature greater than or equal to 99ºF (37.2ºC),
 - at least one respiratory symptom (cough, sore throat, nasal congestion),
 - at least one constitutional symptom (aches and pain, fatigue, headache, chills/sweats), and
 - either a positive virus isolation or a four-fold increase in virus antibody titers from baseline.
@@ -84,7 +84,7 @@ All index cases in this trial received oseltamivir phosphate for oral suspension
 The efficacy parameter was the incidence of laboratory-confirmed clinical influenza in the household.
 Laboratory-confirmed clinical influenza was defined as meeting all of the following criteria:
 
-- ·oral temperature at least 100°F (37.8°C),
+- oral temperature at least 100°F (37.8°C),
 - cough and/or coryza recorded within 48 hours, and
 - either a positive virus isolation or a four-fold or greater increase in virus antibody titers from baseline or at illness visits.
 

@@ -18,23 +18,22 @@ The majority of these adverse reactions were reported on a single occasion, occu
 This summary includes otherwise healthy adults/adolescents and subjects “at risk” (subjects at higher risk of developing complications associated with influenza, e.g., elderly patients and patients with chronic cardiac or respiratory disease).
 In general, the safety profile in the subjects “at risk” was qualitatively similar to that in otherwise healthy adults/adolescents.
 
-Table 5 Adverse Reactions Occurring in ≥1% of Adults and Adolescents (13 years of age and older) in Treatment and Prophylaxis Trials*
+Table 5 Adverse Reactions Occurring in ≥ 1% of Adults and Adolescents (13 years of age and older) in Treatment and Prophylaxis Trials*
 
 | System Organ ClassAdverse Reaction | Treatment Trials |  | Prophylaxis Trials |  |
 | --- | --- | --- | --- | --- |
-| Oseltamivir Phosphate75 mg twice daily(n = 2646) | Placebo(n = 1977) | Oseltamivir Phosphate75 mg once daily(n = 1943) | Placebo(n = 1586) |  |
-| Gastrointestinal DisordersNausea Vomiting | 10% 8% | 6%3% | 8%2% | 4%1% |
-| Nervous System DisordersHeadacheGeneral Disorders Pain | 2%<1% | 1%<1% | 17%4% | 16%3% |
-
-* Adverse reactions that occurred in ≥1% of oseltamivir phosphate-treated adults and adolescents and ≥1% greater in oseltamivir phosphate-treated subjects compared to placebo-treated subjects in either the treatment or prophylaxis trials.
+| Oseltamivir Phosphate 75 mg twice daily(n = 2,646) | Placebo(n = 1,977) | Oseltamivir Phosphate 75 mg once daily(n = 1,943) | Placebo(n = 1,586) |  |
+| Gastrointestinal DisordersNausea Vomiting | 10%8% | 6%3% | 8%2% | 4%1% |
+| Nervous System DisordersHeadacheGeneral Disorders Pain | 2%< 1% | 1%< 1% | 17%4% | 16%3% |
+| *Adverse reactions that occurred in ≥ 1% of oseltamivir phosphate-treated adults and adolescents and ≥ 1% greater in oseltamivir phosphate-treated subjects compared to placebo-treated subjects in either the treatment or prophylaxis trials. |  |  |  |  |
 
 Adverse Reactions from Treatment and Prophylaxis Trials in Pediatric Subjects (1 year to 12 years of age)
 
 A total of 1,481 pediatric subjects (including otherwise healthy pediatric subjects aged 1 year to 12 years and asthmatic pediatric subjects aged 6 to 12 years) participated in clinical trials of oseltamivir phosphate for the treatment of influenza.
 A total of 859 pediatric subjects received treatment with oseltamivir phosphate for oral suspension either at a 2 mg per kg twice daily for 5 days or weight-band dosing.
-Vomiting was the only adverse reaction reported at a frequency of ≥1% in subjects receiving oseltamivir phosphate (16%) compared to placebo (8%).
+Vomiting was the only adverse reaction reported at a frequency of ≥ 1% in subjects receiving oseltamivir phosphate (16%) compared to placebo (8%).
 
-Amongst the 148 pediatric subjects aged 1 year to 12 years who received oseltamivir phosphate at doses of 30 to 60 mg once daily for 10 days in a post-exposure prophylaxis study in household contacts (n = 99), and in a separate 6– week seasonal influenza prophylaxis safety study (n = 49), vomiting was the most frequent adverse reaction (8% on oseltamivir phosphate versus 2% in the no prophylaxis group).
+Amongst the 148 pediatric subjects aged 1 year to 12 years who received oseltamivir phosphate at doses of 30 to 60 mg once daily for 10 days in a post-exposure prophylaxis study in household contacts (n = 99), and in a separate 6–week seasonal influenza prophylaxis safety study (n = 49), vomiting was the most frequent adverse reaction (8% on oseltamivir phosphate versus 2% in the no prophylaxis group).
 
 Adverse Reactions from Treatment Trials in Pediatric Subjects (2 weeks to less than 1 year of age)
 
