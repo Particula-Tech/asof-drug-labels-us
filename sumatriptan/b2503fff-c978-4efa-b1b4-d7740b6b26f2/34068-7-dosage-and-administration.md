@@ -7,9 +7,9 @@ Doses of 50 mg and 100 mg may provide a greater effect than the 25 mg dose, but 
 Higher doses may have a greater risk of adverse reactions [see Clinical Studies (14)].
 If the migraine has not resolved by 2 hours after taking sumatriptan tablets, or returns after a transient improvement, a second dose may be administered at least 2 hours after the first dose.
 The maximum daily dose is 200 mg in a 24-hour period.
-Use after Sumatriptan Injection: If the migraine returns following an initial treatment with sumatriptan injection, additional single sumatriptan tablets (up to 100 mg/day) may be given with an interval of at least 2 hours between tablet doses.
+Use after Sumatriptan Injection If the migraine returns following an initial treatment with sumatriptan injection, additional single sumatriptan tablets (up to 100 mg/day) may be given with an interval of at least 2 hours between tablet doses.
 The safety of treating an average of more than 4 headaches in a 30-day period has not been established.
 
-## 2.2 Dosing in Patients With Hepatic Impairment
+## 2.2 Dosing in Patients with Hepatic Impairment
 
-If treatment is deemed advisable in the presence of mild to moderate hepatic impairment, the maximum single dose should not exceed 50 mg [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+If treatment is deemed advisable in the presence of mild to moderate hepatic impairment, the maximum single dose should not exceed 50 mg [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].

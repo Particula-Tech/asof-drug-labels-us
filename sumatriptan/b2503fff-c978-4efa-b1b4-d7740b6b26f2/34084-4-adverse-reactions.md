@@ -10,7 +10,7 @@ The following adverse reactions are discussed in more detail in other sections o
 - Medication overuse headache [see Warnings and Precautions (5.6)]
 - Serotonin syndrome [see Warnings and Precautions (5.7)]
 - Increase in blood pressure [see Warnings and Precautions (5.8)]
-- Hypersensitivity reactions [see Contraindications (4) and Warnings and Precautions (5.9)]
+- Hypersensitivity reactions [see Contraindications (4), Warnings and Precautions (5.9)]
 - Seizures [see Warnings and Precautions (5.10)]
 
 ## 6.1 Clinical Trials Experience
@@ -20,7 +20,7 @@ Table 1 lists adverse reactions that occurred in placebo-controlled clinical tri
 Only treatment-emergent adverse reactions that occurred at a frequency of 2% or more in any group treated with sumatriptan tablets and that occurred at a frequency greater than the placebo group are included in Table 1.
 
 Table 1.
-Adverse Reactions Reported by at Least 2% of Patients Treated With Sumatriptan Tablets and at a Greater Frequency Than Placebo
+Adverse Reactions Reported by at Least 2% of Patients Treated with Sumatriptan Tablets and at a Greater Frequency than Placebo
 
 | Adverse Reaction | Percent of Patients Reporting |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -42,5 +42,5 @@ There were insufficient data to assess the impact of race on the incidence of ad
 The following adverse reactions have been identified during postapproval use of sumatriptan tablets, sumatriptan nasal spray, and sumatriptan injection.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 These reactions have been chosen for inclusion due to either their seriousness, frequency of reporting, or causal connection to sumatriptan or a combination of these factors.
-Cardiovascular: Hypotension, palpitations.
-Neurological: Dystonia, tremor.
+Cardiovascular Hypotension, palpitations.
+Neurological Dystonia, tremor.

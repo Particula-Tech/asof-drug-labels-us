@@ -2,7 +2,7 @@
 
 ## 5.1 Myocardial Ischemia, Myocardial Infarction, and Prinzmetal’s Angina
 
-The use of sumatriptan tablets is contraindicated in patients with ischemic or vasospastic CAD.
+The use of sumatriptan tablets are contraindicated in patients with ischemic or vasospastic CAD.
 There have been rare reports of serious cardiac adverse reactions, including acute myocardial infarction, occurring within a few hours following administration of sumatriptan tablets.
 Some of these reactions occurred in patients without known CAD.
 Sumatriptan tablets may cause coronary artery vasospasm (Prinzmetal’s angina), even in patients without a history of CAD.
@@ -37,7 +37,7 @@ Sumatriptan tablets are contraindicated in patients with a history of stroke or 
 Sumatriptan tablets may cause non-coronary vasospastic reactions, such as peripheral vascular ischemia, gastrointestinal vascular ischemia and infarction (presenting with abdominal pain and bloody diarrhea), splenic infarction, and Raynaud’s syndrome.
 In patients who experience symptoms or signs suggestive of non-coronary vasospasm reaction following the use of any 5-HT1 agonist, rule out a vasospastic reaction before receiving additional sumatriptan tablets.
 Reports of transient and permanent blindness and significant partial vision loss have been reported with the use of 5-HT1 agonists.
-Since visual disorders may be part of a migraine attack, a causal relationship between these events and the use of 5-HT1 agonists have not been clearly established.
+Since visual disorders may be part of a migraine attack, a causal relationship between these events and the use of 5-HT1 agonists has not been clearly established.
 
 ## 5.6 Medication Overuse Headache
 
@@ -61,7 +61,7 @@ Sumatriptan tablets are contraindicated in patients with uncontrolled hypertensi
 ## 5.9 Anaphylactic/Anaphylactoid Reactions
 
 Anaphylactic/anaphylactoid reactions have occurred in patients receiving sumatriptan.
-Such reactions can be life threatening or fatal.
+Such reactions can be life-threatening or fatal.
 In general, anaphylactic reactions to drugs are more likely to occur in individuals with a history of sensitivity to multiple allergens.
 Sumatriptan tablets are contraindicated in patients with a history of hypersensitivity reaction to sumatriptan.
 

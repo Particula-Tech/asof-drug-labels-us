@@ -1,9 +1,6 @@
 # Patient Information
 
-Sumatriptan Tablets, USP [Sumatriptan (soo ma TRIP tan)] Read this Patient Information before you start taking sumatriptan tablets and each time you get a refill.
-There may be new information.
-This information does not take the place of talking with your healthcare provider about your medical condition or treatment.
-What is the most important information I should know about sumatriptan tablets?
+Sumatriptan Tablets, USP [Sumatriptan (soo ma TRIP tan)] What is the most important information I should know about sumatriptan tablets?
 Sumatriptan tablets can cause serious side effects, including: Heart attack and other heart problems.
 Heart problems may lead to death.
 Stop taking Sumatriptan tablets and get emergency medical help right away if you have any of the following symptoms of a heart attack:
@@ -32,7 +29,6 @@ Sumatriptan tablets are not used to treat other types of headaches such as hemip
 Sumatriptan tablets are not used to prevent or decrease the number of migraine headaches you have.
 It is not known if sumatriptan tablets are safe and effective to treat cluster headaches.
 It is not known if sumatriptan tablets are safe and effective in children under 18 years of age.
-Who should not take sumatriptan tablets?
 Do not take sumatriptan tablets if you have:
 
 - heart problems or a history of heart problems
@@ -43,42 +39,41 @@ Do not take sumatriptan tablets if you have:
   If you are not sure if you have these types of migraines, ask your healthcare provider.
 - had a stroke, transient ischemic attacks (TIAs), or problems with your blood circulation
 - taken any of the following medicines in the last 24 hours:
-  - almotriptan (AXERT®)
-  - eletriptan (RELPAX®)
-  - frovatriptan (FROVA®)
-  - naratriptan (AMERGE®)
-  - rizatriptan (MAXALT®, MAXALT-MLT®)
-  - sumatriptan and naproxen (TREXIMET®)
-  - ergotamines (CAFERGOT®, ERGOMAR®, MIGERGOT®)
+  - almotriptan (AXERT)
+  - eletriptan (RELPAX)
+  - frovatriptan (FROVA)
+  - naratriptan (AMERGE)
+  - rizatriptan (MAXALT, MAXALT-MLT)
+  - sumatriptan and naproxen (TREXIMET)
+  - ergotamines (CAFERGOT, ERGOMAR, MIGERGOT)
   - dihydroergotamine (D.H.E.
-    45®, MIGRANAL®)
+    45, MIGRANAL)
 
 Ask your healthcare provider if you are not sure if your medicine is listed above.
 
 - an allergy to sumatriptan or any of the ingredients in sumatriptan tablets.
   See the end of this leaflet for a complete list of ingredients in sumatriptan tablets.
-
-What should I tell my healthcare provider before taking sumatriptan tablets?
-Before you take sumatriptan tablets, tell your healthcare provider about all of your medical conditions, including if you:
-
-- have high blood pressure
-- have high cholesterol
-- have diabetes
-- smoke
-- are overweight
-- have heart problems or family history of heart problems or stroke
-- have kidney problems
-- have liver problems
-- have had epilepsy or seizures
-- are not using effective birth control
-- become pregnant while taking sumatriptan tablets.
+  Before you take sumatriptan tablets, tell your healthcare provider about all of your medical conditions, including if you:
+- have high blood pressure.
+- have high cholesterol.
+- have diabetes.
+- smoke.
+- are overweight.
+- have heart problems or family history of heart problems or stroke.
+- have kidney problems.
+- have liver problems.
+- have had epilepsy or seizures.
+- are not using effective birth control.
+- are pregnant or plan to become pregnant.
+  It is not known if sumatriptan can harm your unborn baby.
 - are breastfeeding or plan to breastfeed.
-  Sumatriptan passes into your breast milk and may harm your baby.
+  Sumatriptan passes into your breast milk.
+  It is not known if this can harm your baby.
   Talk with your healthcare provider about the best way to feed your baby if you take sumatriptan tablets.
 
-Tell your healthcare provider about all the medicines you take, including prescription and nonprescription medicines, vitamins, and herbal supplements.
+Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 Sumatriptan tablets and certain other medicines can affect each other, causing serious side effects.
-Especially tell your healthcare provider if you take anti-depressant medicines called:
+Especially tell your healthcare provider if you take antidepressant medicines called:
 
 - selective serotonin reuptake inhibitors (SSRIs)
 - serotonin norepinephrine reuptake inhibitors (SNRIs)
@@ -129,7 +124,6 @@ Symptoms of gastrointestinal and colonic ischemic events include:
 - burning or aching pain in your feet or toes while resting
 - numbness, tingling, or weakness in your legs
 - cold feeling or color changes in 1 or both legs or feet
-- hives (itchy bumps); swelling of your tongue, mouth, or throat
 - medication overuse headaches.
   Some people who use too many sumatriptan tablets may have worse headaches (medication overuse headache).
   If your headaches get worse, your healthcare provider may decide to stop your treatment with sumatriptan tablets.
@@ -144,6 +138,7 @@ Call your healthcare provider right away if you have any of the following sympto
 - high body temperature
 - tight muscles
 - trouble walking
+- hives (itchy bumps); swelling of your tongue, mouth, or throat.
 - seizures.
   Seizures have happened in people taking sumatriptan tablets who have never had seizures before.
   Talk with your healthcare provider about your chance of having seizures while you take sumatriptan tablets.
@@ -158,7 +153,6 @@ The most common side effects of sumatriptan tablets include:
 
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 These are not all the possible side effects of sumatriptan tablets.
-For more information, ask your healthcare provider or pharmacist.
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 How should I store sumatriptan tablets?
@@ -177,4 +171,4 @@ What are the ingredients in sumatriptan tablets?
 Active ingredient: sumatriptan succinate Inactive ingredients: croscarmellose sodium, dibasic calcium phosphate anhydrous, magnesium stearate, microcrystalline cellulose, polysorbate 80, and sodium bicarbonate.
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 All brands listed are the trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
-Manufactured for: Aurobindo Pharma USA, Inc. 2400 Route 130 North Dayton, NJ 08810 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 090, India Revised: 11/2015
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 038, India Revised: 02/2018

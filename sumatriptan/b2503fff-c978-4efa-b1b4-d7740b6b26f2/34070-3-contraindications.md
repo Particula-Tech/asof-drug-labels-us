@@ -9,6 +9,6 @@ Sumatriptan tablets are contraindicated in patients with:
 - Ischemic bowel disease [see Warnings and Precautions (5.5)]
 - Uncontrolled hypertension [see Warnings and Precautions (5.8)]
 - Recent use (i.e., within 24 hours) of ergotamine-containing medication, ergot-type medication (such as dihydroergotamine or methysergide), or another 5-hydroxytryptamine1 (5-HT1) agonist [see Drug Interactions (7.1,7.3)]
-- Concurrent administration of a monoamine oxidase (MAO)-A inhibitor or recent (within 2 weeks) use of an MAO-A inhibitor [see Drug Interactions (7.2) and Clinical Pharmacology (12.3)]
+- Concurrent administration of a monoamine oxidase (MAO)-A inhibitor or recent (within 2 weeks) use of an MAO-A inhibitor [see Drug Interactions (7.2), Clinical Pharmacology (12.3)]
 - Hypersensitivity to sumatriptan tablets (angioedema and anaphylaxis seen) [see Warnings and Precautions (5.9)]
-- Severe hepatic impairment [see Use in Specific Populations (8.6)and Clinical Pharmacology (12.3)]
+- Severe hepatic impairment [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)]
