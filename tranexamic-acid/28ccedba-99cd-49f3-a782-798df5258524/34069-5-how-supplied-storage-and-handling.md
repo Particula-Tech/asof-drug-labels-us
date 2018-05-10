@@ -14,11 +14,11 @@ Manufactured for:
 
 Heritage Pharmaceuticals Inc.
 
-Eatontown, NJ 07724
+East Brunswick, NJ 08816
 
 1.866.901.DRUG (3784)
 
 Made In India
 
 Rev.
-05/16
+10/17
