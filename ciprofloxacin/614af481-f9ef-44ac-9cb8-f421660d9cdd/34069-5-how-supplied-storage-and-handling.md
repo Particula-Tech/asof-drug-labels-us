@@ -3,5 +3,5 @@ Tamper evidence is provided with a shrink band around the closure and neck area 
 
 5 mL in 8 mL bottle - NDC 0065-0656-05
 
-STORAGE: Store at 2° to 25°C (36° to 77°F).
+Storage: Store at 2°C to 25°C (36°F-77°F).
 Protect from light.

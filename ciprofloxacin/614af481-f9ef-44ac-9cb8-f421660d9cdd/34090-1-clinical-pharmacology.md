@@ -1,25 +1,25 @@
-# CLINICAL PHARMACOLOGY
+# CLINICAL PHARMACOLOGY:
 
-Systemic Absorption: A systemic absorption study was performed in which CILOXAN Ophthalmic Solution was administered in each eye every two hours while awake for two days followed by every four hours while awake for an additional 5 days.
+Systemic Absorption: A systemic absorption study was performed in which CILOXAN® (ciprofloxacin ophthalmic solution) 0.3% was administered in each eye every two hours while awake for two days followed by every four hours while awake for an additional 5 days.
 The maximum reported plasma concentration of ciprofloxacin was less than 5 ng/mL.
 The mean concentration was usually less than 2.5 ng/mL.
 
 Microbiology: Ciprofloxacin has in vitro activity against a wide range of gram-negative and gram-positive organisms.
 The bactericidal action of ciprofloxacin results from interference with the enzyme DNA gyrase which is needed for the synthesis of bacterial DNA.
 
-Ciprofloxacin has been shown to be active against most strains of the following organisms both in vitro and in clinical infections [see Indications and Usage]:
+Ciprofloxacin has been shown to be active against most strains of the following organisms both in vitro and in clinical infections (see INDICATIONS AND USAGE).
 
-Gram-Positive:
+Aerobic gram-positive microorganisms:
 
-Staphylococcus aureus
+Staphylococcus aureus (methicillin-susceptible strains)
 
-Staphylococcus epidermidis
+Staphylococcus epidermidis (methicillin-susceptible strains)
 
 Streptococcus pneumoniae
 
 Streptococcus (Viridans Group)
 
-Gram-Negative:
+Aerobic gram-negative microorganisms:
 
 Haemophilus influenzae
 
