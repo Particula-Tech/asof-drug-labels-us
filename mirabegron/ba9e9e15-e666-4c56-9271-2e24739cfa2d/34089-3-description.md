@@ -8,4 +8,4 @@ Mirabegron is a white powder.
 It is practically insoluble in water (0.082 mg/mL).
 It is soluble in methanol and dimethyl sulfoxide.
 
-Each MYRBETRIQ® extended-release tablet, for oral administration contains either 25 mg or 50 mg of mirabegron and the following inactive ingredients: polyethylene oxide, polyethylene glycol, hydroxypropyl cellulose, butylated hydroxytoluene, magnesium stearate, hypromellose, yellow ferric oxide, and red ferric oxide (25 mg tablet only).
+Each MYRBETRIQ extended-release tablet for oral administration contains either 25 mg or 50 mg of mirabegron and the following inactive ingredients: polyethylene oxide, polyethylene glycol, hydroxypropyl cellulose, butylated hydroxytoluene, magnesium stearate, hypromellose, yellow ferric oxide, and red ferric oxide (25 mg tablet only).

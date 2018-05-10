@@ -1,7 +1,7 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-MYRBETRIQ® extended-release tablets are supplied in two different strengths as described below:
+MYRBETRIQ extended-release tablets are supplied in two different strengths as described below:
 
-• 25 mg oval, brown, film coated tablet, debossed with the (Astellas logo) and “325”
+• 25 mg oval, brown, film-coated tablet, debossed with the (Astellas logo) and “325”
 
-• 50 mg oval, yellow, film coated tablet, debossed with the (Astellas logo) and “355”
+• 50 mg oval, yellow, film-coated tablet, debossed with the (Astellas logo) and “355”
