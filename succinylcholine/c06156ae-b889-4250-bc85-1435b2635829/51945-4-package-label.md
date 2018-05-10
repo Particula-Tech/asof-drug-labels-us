@@ -19,6 +19,6 @@ NOVAPLUS® Manufactured by Hospira, Inc., Lake Forest, IL 60045 USA
 
 SUCCINYLCHOLINE CHLORIDE INJECTION, USP
 
-QUELICIN™ 200 mg/10 mL (20 mg/mL)
+200 mg/10 mL (20 mg/mL) QUELICIN™
 
 Store in refrigerator 2° to 8°C (36° to 46°F).
