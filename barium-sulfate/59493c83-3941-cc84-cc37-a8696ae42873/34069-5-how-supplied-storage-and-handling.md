@@ -1,6 +1,6 @@
 # STORAGE
 
-Store VARIBAR® THIN LIQUID to protect from freezing and excessive heat (above 40°C).
+Store VARIBAR® THIN LIQUID at USP Controlled Room Temperature, 20 to 25°C (68 to 77°F).
 
 # HOW SUPPLIED
 
@@ -10,4 +10,4 @@ No. D105, NDC 32909-105-10
 Manufactured by E-Z-EM Canada Inc., for E-Z-EM, Inc. a subsidiary of Bracco Diagnostics Inc. Monroe Township, NJ 08831 Tel: 1-516-333-8230 1-800 544-4624
 
 rev.
-05/14 TX1356-3
+03/17 TX1822
