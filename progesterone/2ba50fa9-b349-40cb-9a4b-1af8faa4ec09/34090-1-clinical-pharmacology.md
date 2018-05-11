@@ -12,7 +12,7 @@ Once an embryo is implanted, progesterone acts to maintain a pregnancy.
 Absorption
 
 Progesterone serum concentrations increased following the administration of the ENDOMETRIN Vaginal Insert in 12 healthy pre-menopausal females.
-On single dosing, the mean Cmax was 17.0 ng/mL in the ENDOMETRIN twice daily group and 19.8 ng/mL in the ENDOMETRIN three times daily group.
+On single dosing, the mean C max was 17.0 ng/mL in the ENDOMETRIN twice daily group and 19.8 ng/mL in the ENDOMETRIN three times daily group.
 On multiple dosing, steady-state concentrations were attained within approximately 1 day after initiation of treatment with ENDOMETRIN.
 Both ENDOMETRIN regimens provided average serum concentrations of progesterone exceeding 10 ng/mL on Day 5.
 The pharmacokinetic results are summarized in Table 2.
@@ -22,20 +22,20 @@ Table 2: Mean (±Standard Deviation) Serum Progesterone Pharmacokinetic Paramete
 | Pharmacokinetic Parameter (unit) | ENDOMETRIN 100 mg twice daily (N=6) | ENDOMETRIN 100 mg three times daily (N=6) |
 | --- | --- | --- |
 | Single Dosing |  |  |
-| Cmax (ng/mL) | 17.0 ± 6.5 | 19.8 ± 7.2 |
-| Tmax (hr) | 24.0 ± 0.0 | 17.3 ± 7.4 |
-| AUC0-24 (ng∙hr/mL) | 217 ± 113 | 284 ± 143 |
+| C max (ng/mL) | 17.0 ± 6.5 | 19.8 ± 7.2 |
+| T max (hr) | 24.0 ± 0.0 | 17.3 ± 7.4 |
+| AUC 0-24 (ng∙hr/mL) | 217 ± 113 | 284 ± 143 |
 | Day 5 of Multiple Dosing |  |  |
-| Cmax (ng/mL) | 18.5 ± 5.5 | 24.1 ± 5.6 |
-| Tmax (hr) | 18.0 ± 9.4 | 18.0 ± 9.4 |
-| Cmin (ng/mL) | 8.9 ± 4.5 | 10.9 ± 6.7 |
-| Cavg (ng/ml) | 14.0 ± 4.8 | 15.9 ± 4.3 |
-| AUC0-24 (ng∙hr/mL) | 327 ± 127 | 436 ± 106 |
-| Cmax Maximum progesterone serum concentration. |  |  |
-| Tmax Time to maximum progesterone serum concentration. |  |  |
-| Cavg Average progesterone serum concentration. |  |  |
-| AUC0-24 Area under the drug concentration versus time curve from 0-24 hours post dose. |  |  |
-| Cmin Minimum progesterone serum concentration. |  |  |
+| C max (ng/mL) | 18.5 ± 5.5 | 24.1 ± 5.6 |
+| T max (hr) | 18.0 ± 9.4 | 18.0 ± 9.4 |
+| C min (ng/mL) | 8.9 ± 4.5 | 10.9 ± 6.7 |
+| C avg (ng/ml) | 14.0 ± 4.8 | 15.9 ± 4.3 |
+| AUC 0-24 (ng∙hr/mL) | 327 ± 127 | 436 ± 106 |
+| C max Maximum progesterone serum concentration. |  |  |
+| T max Time to maximum progesterone serum concentration. |  |  |
+| C avg Average progesterone serum concentration. |  |  |
+| AUC 0-24 Area under the drug concentration versus time curve from 0-24 hours post dose. |  |  |
+| C min Minimum progesterone serum concentration. |  |  |
 
 Distribution
 

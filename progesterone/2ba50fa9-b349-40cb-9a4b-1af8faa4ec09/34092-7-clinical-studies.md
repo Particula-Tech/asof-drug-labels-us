@@ -4,12 +4,12 @@
 
 A randomized, open-label, active-controlled study evaluated the efficacy of 10 weeks of treatment with two different daily dosing regimens of ENDOMETRIN (100 mg twice daily and 100 mg three times daily) for support of implantation and early pregnancy in infertile women participating in an Assisted Reproductive Technology treatment program.
 Efficacy was assessed on the endpoint of ongoing pregnancies, defined as the presence of at least one fetal heartbeat seen on ultrasound at 6 weeks post-embryo transfer.
-The study randomized to ENDOMETRIN 808 infertile women (74.9% White; 10.3% Hispanic, 5.4% Black, 5% Asian, and 4.6% Other) between 19 and 42 years of age (mean age 33) who had a body mass index <34 kg/m2 at screening.
+The study randomized to ENDOMETRIN 808 infertile women (74.9% White; 10.3% Hispanic, 5.4% Black, 5% Asian, and 4.6% Other) between 19 and 42 years of age (mean age 33) who had a body mass index <34 kg/m 2 at screening.
 
 The ongoing pregnancy rates for subjects treated with both dosing regimens of ENDOMETRIN were non-inferior (lower bounds of the 95% confidence interval of the difference between ENDOMETRIN and the active comparator excluded a difference greater than 10%) to the ongoing pregnancy rate for subjects treated with the active comparator.
 The results of this study are shown in Table 3.
 
-Table 3: Ongoing Pregnancy RatesOngoing pregnancy defined as the presence of at least one fetal heartbeat seen on ultrasound at 6 weeks post-embryo transfer. in Patients Receiving ENDOMETRIN for Luteal Supplementation and Early Pregnancy While in an Assisted Reproductive Technology Treatment Program
+Table 3: Ongoing Pregnancy Rates Ongoing pregnancy defined as the presence of at least one fetal heartbeat seen on ultrasound at 6 weeks post-embryo transfer. in Patients Receiving ENDOMETRIN for Luteal Supplementation and Early Pregnancy While in an Assisted Reproductive Technology Treatment Program
 
 |  | ENDOMETRIN 100 mg twice daily | ENDOMETRIN 100 mg three times daily |
 | --- | --- | --- |
@@ -47,5 +47,5 @@ In subjects under the age of 35 or with serum FSH levels less than 10 IU/L, resu
 In women age 35 and older and in women with serum FSH levels between 10 and 15 IU/L, the results with respect to ongoing pregnancy rates for both dosing regimens of ENDOMETRIN did not reach the criteria for non-inferiority.
 
 Subjects who became pregnant received study medication for a total of 10 weeks.
-Patients over 34 kg/m2 were not studied.
+Patients over 34 kg/m 2 were not studied.
 The efficacy of ENDOMETRIN in this patient group is unknown.

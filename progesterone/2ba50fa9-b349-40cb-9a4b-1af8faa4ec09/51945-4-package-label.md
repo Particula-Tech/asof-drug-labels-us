@@ -2,7 +2,7 @@ PRINCIPAL DISPLAY PANEL - 100 mg Carton
 
 NDC 55566-6500-3
 
-Endometrin® (progesterone) Vaginal Insert 100 mg
+Endometrin ® (progesterone) Vaginal Insert 100 mg
 
 Contents: 21 vaginal inserts with 21 disposable vaginal applicators Each insert contains 100 mg progesterone, USP
 

@@ -1,6 +1,6 @@
 IMPORTANT: For Vaginal Use Only.
 
-Read the patient information that comes with ENDOMETRIN® (progesterone) before you start to use it and each time you get a refill.
+Read the patient information that comes with ENDOMETRIN ® (progesterone) before you start to use it and each time you get a refill.
 There may be new information.
 This leaflet does not take the place of talking with your doctor about your medical condition or treatment.
 Your doctor may do a physical exam before prescribing ENDOMETRIN.
@@ -41,13 +41,13 @@ How should I use ENDOMETRIN?
 
 Follow the steps below:
 
-- 1Unwrap the applicator.
-- 2.Put one insert in the space provided at the end of the applicator.
+- Unwrap the applicator.
+- Put one insert in the space provided at the end of the applicator.
   The insert should fit snugly and not fall out.
-- 3.Place applicator with the insert into the vagina while you are standing, sitting, or when lying on your back with your knees bent.
+- Place applicator with the insert into the vagina while you are standing, sitting, or when lying on your back with your knees bent.
   Gently place the thin end of the applicator well into the vagina.
-- 4.Push the plunger to release the insert.
-- 5.Remove the applicator and throw it away in the trash.
+- Push the plunger to release the insert.
+- Remove the applicator and throw it away in the trash.
 
 Other information for using ENDOMETRIN
 
@@ -127,4 +127,4 @@ Inactive Ingredients: lactose monohydrate, polyvinylpyrrolidone, adipic acid, so
 
 MANUFACTURED FOR: FERRING PHARMACEUTICALS INC. PARSIPPANY, NJ 07054
 
-6323-06/6485-02 Revised: 09/2016
+6485-02 Revised: 09/2017
