@@ -1,49 +1,40 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Recommended Dosing
+## 2.1 Recommended Dosage
 
-The recommended dose of TECENTRIQ is 1200 mg administered as an intravenous infusion over 60 minutes every 3 weeks until disease progression or unacceptable toxicity.
+The recommended dosage of TECENTRIQ is 1200 mg as an intravenous infusion over 60 minutes every 3 weeks until disease progression or unacceptable toxicity.
 If the first infusion is tolerated, all subsequent infusions may be delivered over 30 minutes.
-Do not administer TECENTRIQ as an intravenous push or bolus.
 
-## 2.2 Dose Modifications
+## 2.2 Dosage Modifications for Adverse Reactions
 
 No dose reductions of TECENTRIQ are recommended.
+Recommendations for dosage modifications are provided in Table 1.
 
-Withhold TECENTRIQ for any of the following:
+Table 1: Recommended Dosage Modifications for Adverse Reactions
 
-- Grade 2 pneumonitis [see Warnings and Precautions (5.1)]
-- Aspartate aminotransferase (AST) or alanine aminotransferase (ALT) greater than 3 and up to 5 times upper limit of normal (ULN) or total bilirubin greater than 1.5 and up to 3 times ULN [see Warnings and Precautions (5.2)]
-- Grade 2 or 3 diarrhea or colitis [see Warnings and Precautions (5.3)]
-- Symptomatic hypophysitis, adrenal insufficiency, hypothyroidism, hyperthyroidism, or Grade 3 or 4 hyperglycemia [see Warnings and Precautions (5.4)]
-- Grade 2 ocular inflammatory toxicity [see Warnings and Precautions (5.5)]
-- Grade 2 or 3 pancreatitis, or Grade 3 or 4 increases in amylase or lipase levels (greater than 2.0 times ULN) [see Warnings and Precautions (5.5)]
-- Grade 2 myocarditis [see Warnings and Precautions (5.5)]
-- Grade 3 or 4 infection [see Warnings and Precautions (5.6)]
-- Grade 2 infusion-related reactions [see Warnings and Precautions (5.7)]
-- Grade 3 rash
-
-TECENTRIQ may be resumed in patients whose adverse reactions recover to Grade 0–1.
-
-Permanently discontinue TECENTRIQ for any of the following:
-
-- Grade 3 or 4 pneumonitis [see Warnings and Precautions (5.1)]
-- AST or ALT greater than 5 times ULN or total bilirubin greater than 3 times ULN [see Warnings and Precautions (5.2)]
-- Grade 4 diarrhea or colitis [see Warnings and Precautions (5.3)]
-- Grade 4 hypophysitis [see Warnings and Precautions (5.4)]
-- Myasthenic syndrome/myasthenia gravis, Guillain-Barré or meningoencephalitis (all grades) [see Warnings and Precautions (5.5)]
-- Grade 3 or 4 ocular inflammatory toxicity [see Warnings and Precautions (5.5)]
-- Grade 4 or any grade of recurrent pancreatitis [see Warnings and Precautions (5.5)]
-- Grade 3 or 4 myocarditis [see Warnings and Precautions (5.5)]
-- Grade 3 or 4 infusion-related reactions [see Warnings and Precautions (5.7)]
-- Grade 4 rash
+| Adverse Reaction | Severity of Adverse ReactionNational Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) version 4.0 | Dosage Modifications |
+| --- | --- | --- |
+| Pneumonitis [see Warnings and Precautions (5.1)] | Grade 2 | Withhold dose until Grade 1 or resolved and corticosteroid dose is less than or equal to prednisone 10 mg per day (or equivalent) |
+| Grade 3 or 4 | Permanently discontinue |  |
+| Hepatitis [see Warnings and Precautions (5.2)] | AST or ALT more than 3 and up to 8 times the upper limit of normal or total bilirubin more than 1.5 and up to 3 times the upper limit of normal | Withhold dose until Grade 1 or resolved and corticosteroid dose is less than or equal to prednisone 10 mg per day (or equivalent) |
+| AST or ALT more than 8 times the upper limit of normal or total bilirubin more than 3 times the upper limit of normal | Permanently discontinue |  |
+| Colitis or diarrhea [see Warnings and Precautions (5.3)] | Grade 2 or 3 | Withhold dose until Grade 1 or resolved and corticosteroid dose is less than or equal to prednisone 10 mg per day (or equivalent) |
+| Grade 4 | Permanently discontinue |  |
+| Endocrinopathies (including but not limited to hypophysitis, adrenal insufficiency, hyperthyroidism, and type 1 diabetes mellitus) [see Warnings and Precautions (5.4)] | Grade 2, 3, or 4 | Withhold dose until Grade 1 or resolved and clinically stable on hormone replacement therapy. |
+| Other immune-mediated adverse reactions involving a major organ [see Warnings and Precautions (5.5)] | Grade 3 | Withhold dose until Grade 1 or resolved and corticosteroid dose is less than or equal to prednisone 10 mg per day (or equivalent) |
+| Grade 4 | Permanently discontinue |  |
+| Infections [see Warnings and Precautions (5.6)] | Grade 3 or 4 | Withhold dose until Grade 1 or resolved |
+| Infusion-Related Reactions [see Warnings and Precautions (5.7)] | Grade 1 or 2 | Interrupt or slow the rate of infusion |
+| Grade 3 or 4 | Permanently discontinue |  |
+| Persistent Grade 2 or 3 adverse reaction (excluding endocrinopathies) | Grade 2 or 3 adverse reaction that does not recover to Grade 0 or 1 within 12 weeks after last TECENTRIQ dose | Permanently discontinue |
+| Inability to taper corticosteroid | Inability to reduce to less than or equal to prednisone 10 mg per day (or equivalent) within 12 weeks after last TECENTRIQ dose | Permanently discontinue |
+| Recurrent Grade 3 or 4 adverse reaction | Recurrent Grade 3 or 4 (severe or life-threatening) adverse reaction | Permanently discontinue |
 
 ## 2.3 Preparation and Administration
 
 Preparation
 
-Visually inspect drug product for particulate matter and discoloration prior to administration whenever solution and container permit.
-TECENTRIQ is a colorless to slightly yellow solution.
+Visually inspect drug product for particulate matter and discoloration prior to administration, whenever solution and container permit.
 Discard the vial if the solution is cloudy, discolored, or visible particles are observed.
 Do not shake the vial.
 
@@ -61,11 +52,11 @@ Storage of Infusion Solution
 This product does not contain a preservative.
 
 Administer immediately once prepared.
-If diluted TECENTRIQ infusion solution is not used immediately, it can be stored either:
+If diluted TECENTRIQ infusion solution is not used immediately, store solution either:
 
 - At room temperature for no more than 6 hours from the time of preparation.
-  This includes room temperature storage of the infusion in the infusion bag and time for administration for infusion.
-- Under refrigeration at 2°C–8°C (36°F–46°F) for no more than 24 hours.
+  This includes room temperature storage of the infusion in the infusion bag and time for administration of the infusion, or
+- Under refrigeration at 2°C to 8°C (36°F to 46°F) for no more than 24 hours from time of preparation.
 
 Do not freeze.
 
@@ -76,4 +67,6 @@ Administration
 Administer the initial infusion over 60 minutes through an intravenous line with or without a sterile, non-pyrogenic, low-protein binding in-line filter (pore size of 0.2–0.22 micron).
 If the first infusion is tolerated, all subsequent infusions may be delivered over 30 minutes.
 
-Do not co-administer other drugs through the same intravenous line.
+Do not coadminister other drugs through the same intravenous line.
+
+Do not administer as an intravenous push or bolus.

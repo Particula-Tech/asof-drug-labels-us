@@ -4,10 +4,11 @@
 
 Risk Summary
 
-Based on its mechanism of action, TECENTRIQ can cause fetal harm when administered to a pregnant woman [see Clinical Pharmacology (12.1)].
+Based on its mechanism of action [see Clinical Pharmacology (12.1)], TECENTRIQ can cause fetal harm when administered to a pregnant woman.
 There are no available data on the use of TECENTRIQ in pregnant women.
-Animal studies have demonstrated that inhibition of the PD-L1/PD-1 pathway can lead to increased risk of immune-related rejection of the developing fetus resulting in fetal death [see Data].
-If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, advise the patient of the potential risk to a fetus.
+
+Animal studies have demonstrated that inhibition of the PD-L1/PD-1 pathway can lead to increased risk of immune-related rejection of the developing fetus resulting in fetal death (see Data).
+Advise females of reproductive potential of the potential risk to a fetus.
 
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
@@ -27,9 +28,13 @@ Risk Summary
 
 There is no information regarding the presence of atezolizumab in human milk, the effects on the breastfed infant, or the effects on milk production.
 As human IgG is excreted in human milk, the potential for absorption and harm to the infant is unknown.
-Because of the potential for serious adverse reactions in breastfed infants from TECENTRIQ, advise a lactating woman not to breastfeed during treatment and for at least 5 months after the last dose.
+Because of the potential for serious adverse reactions in breastfed infants from TECENTRIQ, advise women not to breastfeed during treatment and for at least 5 months after the last dose.
 
 ## 8.3 Females and Males of Reproductive Potential
+
+Pregnancy Testing
+
+Verify pregnancy status in females of reproductive potential prior to initiating TECENTRIQ [see Use in Specific Populations (8.1)].
 
 Contraception
 
@@ -50,20 +55,11 @@ The safety and effectiveness of TECENTRIQ have not been established in pediatric
 
 ## 8.5 Geriatric Use
 
-Of the 310 previously-treated patients with urothelial carcinoma treated with TECENTRIQ in Study 1, 59% were 65 years or older.
-Of the 142 patients with NSCLC treated with TECENTRIQ in Study 3, 39% were 65 years or older.
+Of the 609 patients with NSCLC treated with TECENTRIQ in OAK, 45% were 65 years or older.
 No overall differences in safety or efficacy were observed between patients ≥ 65 years of age and younger patients.
 
-Of the 119 cisplatin-ineligible patients with urothelial carcinoma treated with TECENTRIQ in Study 4, 83% were 65 years or older and 41% were 75 years or older.
-The overall response rate in patients 65 years or older was 23% (23/99) and in patients 75 years or older was 29% (14/49).
-Grade 3 or 4 adverse reactions occurred in 53% (52/99) of patients 65 years or older and 51% (25/49) of patients 75 years or older.
+Of the 310 previously-treated patients with urothelial carcinoma treated with TECENTRIQ in IMvigor210 (Cohort 2), 59% were 65 years or older.
+Of the 119 cisplatin-ineligible patients with urothelial carcinoma treated with TECENTRIQ in IMvigor210 (Cohort 1), 83% were 65 years or older and 41% were 75 years or older.
+The overall response rate in patients 65 years or older was 23% and in patients 75 years or older was 29%.
+Grade 3 or 4 adverse reactions occurred in 53% of patients 65 years or older and 51% of patients 75 years or older.
 No overall differences in safety or efficacy were observed between patients ≥ 75 years of age and younger patients.
-
-## 8.6 Renal Impairment
-
-Based on a population pharmacokinetic analysis, no dose adjustment of TECENTRIQ is recommended for patients with renal impairment [see Clinical Pharmacology (12.3)].
-
-## 8.7 Hepatic Impairment
-
-Based on a population pharmacokinetic analysis, no dose adjustment of TECENTRIQ is recommended for patients with mild hepatic impairment.
-TECENTRIQ has not been studied in patients with moderate or severe hepatic impairment [see Clinical Pharmacology (12.3)].

@@ -2,6 +2,6 @@
 
 TECENTRIQ injection is a sterile, preservative-free, and colorless to slightly yellow solution for intravenous infusion supplied as a carton containing one 1200 mg/20 mL single-dose vial (NDC 50242-917-01).
 
-Storage: Store vials under refrigeration at 2°C to 8°C (36°F to 46°F) in original carton to protect from light.
+Store vials under refrigeration at 2°C to 8°C (36°F to 46°F) in original carton to protect from light.
 Do not freeze.
 Do not shake.

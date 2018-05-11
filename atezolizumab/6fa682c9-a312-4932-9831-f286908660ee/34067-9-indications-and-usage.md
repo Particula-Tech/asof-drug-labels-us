@@ -13,4 +13,4 @@ Continued approval for this indication may be contingent upon verification and d
 ## 1.2 Metastatic Non-Small Cell Lung Cancer
 
 TECENTRIQ is indicated for the treatment of patients with metastatic non-small cell lung cancer (NSCLC) who have disease progression during or following platinum-containing chemotherapy.
-Patients with EGFR or ALK genomic tumor aberrations should have disease progression on FDA-approved therapy for these aberrations prior to receiving TECENTRIQ [see Clinical Studies (14.2)].
+Patients with EGFR or ALK genomic tumor aberrations should have disease progression on FDA-approved therapy for these aberrations prior to receiving TECENTRIQ.
