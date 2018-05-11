@@ -76,7 +76,7 @@ During a 24-week, open label, Phase 3b clinical trial in 46 patients aged 12 yea
 
 During the 24-week, open-label Phase 3 clinical trial (Trial 3) in 58 patients aged 6 through 11 years (mean baseline ppFEV1 was 91.4), the incidence of respiratory symptom-related adverse reactions was 3% (2/58).
 
-During the 24 week, placebo-controlled Phase 3 clinical trial (Trial 4) in patients aged 6 through 11 years (mean ppFEV1 89.8 at baseline [range: 48.6 to 119.6]), the incidence of respiratory symptom-related adverse reactions was 11% in lumacaftor/ivacaftor patients and 9% in placebo patients1.
+During the 24 week, placebo-controlled Phase 3 clinical trial (Trial 4) in patients aged 6 through 11 years (mean ppFEV1 89.8 at baseline [range: 48.6 to 119.6]), the incidence of respiratory symptom-related adverse reactions was 11% in lumacaftor/ivacaftor patients and 9% in placebo patients.
 A decline in ppFEV1 at initiation of therapy was observed during serial post dose spirometry assessments.
 The absolute change from pre-dose at 4-6 hours post-dose was -7.7 on Day 1 and -1.3 on Day 15 in lumacaftor/ivacaftor patients.
 The post-dose decline was resolved by Week 16.
