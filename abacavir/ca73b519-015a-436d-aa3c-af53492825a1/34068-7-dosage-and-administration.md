@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Screening for HLAB*5701 Allele prior to Starting ZIAGEN
+## 2.1 Screening for HLA-B*5701 Allele prior to Starting ZIAGEN
 
 Screen for the HLA‑B*5701 allele prior to initiating therapy with ZIAGEN [see Boxed Warning, Warnings and Precautions (5.1)].
 
@@ -26,8 +26,7 @@ Dosing Recommendations for ZIAGEN Scored Tablets in Pediatric Patients
 | 14 to <20 | 1 tablet (300 mg) | ½ tablet (150 mg) | ½ tablet (150 mg) | 300 mg |
 | ≥20 to <25 | 1½ tablets (450 mg) | ½ tablet (150 mg) | 1 tablet (300 mg) | 450 mg |
 | ≥25 | 2 tablets (600 mg) | 1 tablet (300 mg) | 1 tablet (300 mg) | 600 mg |
-
-aData regarding the efficacy of once-daily dosing is limited to subjects who transitioned from twice-daily dosing to once-daily dosing after 36 weeks of treatment [see Clinical Studies (14.2)].
+| a Data regarding the efficacy of once-daily dosing is limited to subjects who transitioned from twice-daily dosing to once-daily dosing after 36 weeks of treatment [see Clinical Studies (14.2)]. |  |  |  |  |
 
 ## 2.4 Recommended Dosage for Patients with Hepatic Impairment
 

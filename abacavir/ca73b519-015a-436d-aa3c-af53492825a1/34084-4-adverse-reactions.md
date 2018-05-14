@@ -3,10 +3,9 @@
 The following adverse reactions are discussed in other sections of the labeling:
 
 - •Serious and sometimes fatal hypersensitivity reactions [see Boxed Warning, Warnings and Precautions (5.1)].
-- •Lactic acidosis and severe hepatomegaly with steatosis [see Boxed Warning, Warnings and Precautions (5.2)].
+- •Lactic acidosis and severe hepatomegaly with steatosis [see Warnings and Precautions (5.2)].
 - •Immune reconstitution syndrome [see Warnings and Precautions (5.3)].
-- •Fat redistribution [see Warnings and Precautions (5.4)].
-- •Myocardial infarction [see Warnings and Precautions (5.5)].
+- •Myocardial infarction [see Warnings and Precautions (5.4)].
 
 ## 6.1 Clinical Trials Experience in Adult Subjects
 
@@ -46,11 +45,7 @@ Treatment-Emergent (All Causality) Adverse Reactions of at Least Moderate Intens
 | Musculoskeletal pain | 6% | 5% |
 | Bronchitis | 4% | 5% |
 | Vomiting | 2% | 9% |
-
-aThis trial used double-blind ascertainment of suspected hypersensitivity reactions.
-During the blinded portion of the trial, suspected hypersensitivity to abacavir was reported by investigators in 9% of 324 subjects in the abacavir group and 3% of 325 subjects in the zidovudine group.
-
-bTen (3%) cases of suspected drug hypersensitivity were reclassified as not being due to abacavir following unblinding.
+| a This trial used double-blind ascertainment of suspected hypersensitivity reactions. During the blinded portion of the trial, suspected hypersensitivity to abacavir was reported by investigators in 9% of 324 subjects in the abacavir group and 3% of 325 subjects in the zidovudine group. b Ten (3%) cases of suspected drug hypersensitivity were reclassified as not being due to abacavir following unblinding. |  |  |
 
 Treatment-emergent clinical adverse reactions (rated by the investigator as moderate or severe) with a greater than or equal to 5% frequency during therapy with ZIAGEN 300 mg twice daily, lamivudine 150 mg twice daily, and zidovudine 300 mg twice daily compared with indinavir 800 mg 3 times daily, lamivudine 150 mg twice daily, and zidovudine 300 mg twice daily from CNA3005 are listed in Table 3.
 
@@ -89,40 +84,34 @@ Laboratory Abnormalities: Laboratory abnormalities (Grades 3-4) in therapy-naive
 Table 4.
 Laboratory Abnormalities (Grades 3-4) in Therapy-Naive Adults (CNA30024) through 48 Weeks of Treatment
 
-| Grade 3/4Laboratory Abnormalities | ZIAGEN plusLamivudine plus Efavirenz(n = 324) | Zidovudine plusLamivudine plus Efavirenz (n = 325) |
-| --- | --- | --- |
-| Elevated CPK (>4 X ULN) | 8% | 8% |
-| Elevated ALT (>5 X ULN) | 6% | 6% |
-| Elevated AST (>5 X ULN) | 6% | 5% |
-| Hypertriglyceridemia (>750 mg/dL) | 6% | 5% |
-| Hyperamylasemia (>2 X ULN) | 4% | 5% |
-| Neutropenia (ANC <750/mm3) | 2% | 4% |
-| Anemia (Hgb ≤6.9 gm/dL) | <1% | 2% |
-| Thrombocytopenia (Platelets <50,000/mm3) | 1% | <1% |
-| Leukopenia (WBC ≤1,500/mm3) | <1% | 2% |
-
-ULN = Upper limit of normal.
-
-n = Number of subjects assessed.
+| Grade 3/4Laboratory Abnormalities | ZIAGEN plusLamivudine plus Efavirenz(n = 324) | Zidovudine plusLamivudine plus Efavirenz (n = 325) |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Elevated CPK (>4 X ULN) | 8% | 8% |  |  |  |  |  |  |
+| Elevated ALT (>5 X ULN) | 6% | 6% |  |  |  |  |  |  |
+| Elevated AST (>5 X ULN) | 6% | 5% |  |  |  |  |  |  |
+| Hypertriglyceridemia (>750 mg/dL) | 6% | 5% |  |  |  |  |  |  |
+| Hyperamylasemia (>2 X ULN) | 4% | 5% |  |  |  |  |  |  |
+| Neutropenia (ANC <750/mm3) | 2% | 4% |  |  |  |  |  |  |
+| Anemia (Hgb ≤6.9 gm/dL) | <1% | 2% |  |  |  |  |  |  |
+| Thrombocytopenia (Platelets <50,000/mm3) | 1% | <1% |  |  |  |  |  |  |
+| Leukopenia (WBC ≤1,500/mm3) | <1% | 2% |  |  |  |  |  |  |
+| ULN = Upper limit of normal. n = Number of subjects assessed. |  |  |  |  |  |  |  |  |
 
 Laboratory abnormalities in CNA3005 are listed in Table 5.
 
 Table 5.
 Treatment-Emergent Laboratory Abnormalities (Grades 3-4) in CNA3005
 
-| Grade 3/4Laboratory Abnormalities | ZIAGEN plus Lamivudine/Zidovudine(n = 262) | Indinavir plus Lamivudine/Zidovudine(n = 264) |
-| --- | --- | --- |
-| Elevated CPK (>4 x ULN) | 18 (7%) | 18 (7%) |
-| ALT (>5.0 x ULN) | 16 (6%) | 16 (6%) |
-| Neutropenia (<750/mm3) | 13 (5%) | 13 (5%) |
-| Hypertriglyceridemia (>750 mg/dL) | 5 (2%) | 3 (1%) |
-| Hyperamylasemia (>2.0 x ULN) | 5 (2%) | 1 (<1%) |
-| Hyperglycemia (>13.9 mmol/L) | 2 (<1%) | 2 (<1%) |
-| Anemia (Hgb ≤6.9 g/dL) | 0 (0%) | 3 (1%) |
-
-ULN = Upper limit of normal.
-
-n = Number of subjects assessed.
+| Grade 3/4Laboratory Abnormalities | ZIAGEN plus Lamivudine/Zidovudine(n = 262) | Indinavir plus Lamivudine/Zidovudine(n = 264) |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Elevated CPK (>4 x ULN) | 18 (7%) | 18 (7%) |  |  |  |  |  |  |  |  |  |
+| ALT (>5.0 x ULN) | 16 (6%) | 16 (6%) |  |  |  |  |  |  |  |  |  |
+| Neutropenia (<750/mm3) | 13 (5%) | 13 (5%) |  |  |  |  |  |  |  |  |  |
+| Hypertriglyceridemia (>750 mg/dL) | 5 (2%) | 3 (1%) |  |  |  |  |  |  |  |  |  |
+| Hyperamylasemia (>2.0 x ULN) | 5 (2%) | 1 (<1%) |  |  |  |  |  |  |  |  |  |
+| Hyperglycemia (>13.9 mmol/L) | 2 (<1%) | 2 (<1%) |  |  |  |  |  |  |  |  |  |
+| Anemia (Hgb ≤6.9 g/dL) | 0 (0%) | 3 (1%) |  |  |  |  |  |  |  |  |  |
+| ULN = Upper limit of normal. n = Number of subjects assessed. |  |  |  |  |  |  |  |  |  |  |  |
 
 The frequencies of treatment-emergent laboratory abnormalities were comparable between treatment groups in CNA30021.
 

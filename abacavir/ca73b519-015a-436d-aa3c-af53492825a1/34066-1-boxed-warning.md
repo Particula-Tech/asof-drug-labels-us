@@ -1,6 +1,4 @@
-# WARNING: HYPERSENSITIVITY REACTIONS, and LACTIC ACIDOSIS AND SEVERE HEPATOMEGALY WITH STEATOSIS
-
-Hypersensitivity Reactions
+# WARNING: HYPERSENSITIVITY REACTIONS
 
 Serious and sometimes fatal hypersensitivity reactions, with multiple organ involvement, have occurred with ZIAGEN (abacavir).
 
@@ -12,8 +10,3 @@ Discontinue ZIAGEN immediately if a hypersensitivity reaction is suspected, rega
 
 Following a hypersensitivity reaction to ZIAGEN, NEVER restart ZIAGEN or any other abacavir‑containing product because more severe symptoms, including death can occur within hours.
 Similar severe reactions have also occurred rarely following the reintroduction of abacavir-containing products in patients who have no history of abacavir hypersensitivity [see Warnings and Precautions (5.1)].
-
-Lactic Acidosis and Severe Hepatomegaly with Steatosis
-
-Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with the use of nucleoside analogues and other antiretrovirals.
-Discontinue ZIAGEN if clinical or laboratory findings suggestive of lactic acidosis or pronounced hepatotoxicity occur [see Warnings and Precautions (5.2)].

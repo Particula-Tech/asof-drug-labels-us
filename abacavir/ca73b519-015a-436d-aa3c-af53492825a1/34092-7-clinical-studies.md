@@ -19,17 +19,12 @@ Outcomes of Randomized Treatment through Week 48 (CNA30024)
 | Virologic failuresb | 6% | 4% |
 | Discontinued due to adverse reactions | 14% | 16% |
 | Discontinued due to other reasonsc | 10% | 11% |
-
-aSubjects achieved and maintained confirmed HIV-1 RNA less than or equal to 50 copies per mL (less than 400 copies per mL) through Week 48 (Roche AMPLICOR Ultrasensitive HIV-1 MONITOR® standard test 1.0 PCR).
-
-bIncludes viral rebound, insufficient viral response according to the investigator, and failure to achieve confirmed less than or equal to 50 copies per mL by Week 48.
-
-cIncludes consent withdrawn, lost to follow up, protocol violations, those with missing data, clinical progression, and other.
+| a Subjects achieved and maintained confirmed HIV-1 RNA less than or equal to 50 copies per mL (less than 400 copies per mL) through Week 48 (Roche AMPLICOR Ultrasensitive HIV-1 MONITOR standard test 1.0 PCR). b Includes viral rebound, insufficient viral response according to the investigator, and failure to achieve confirmed less than or equal to 50 copies per mL by Week 48. c Includes consent withdrawn, lost to follow up, protocol violations, those with missing data, clinical progression, and other. |  |  |
 
 After 48 weeks of therapy, the median CD4+ cell count increases from baseline were 209 cells per mm3 in the group receiving ZIAGEN and 155 cells per mm3 in the zidovudine group.
 Through Week 48, 8 subjects (2%) in the group receiving ZIAGEN (5 CDC classification C events and 3 deaths) and 5 subjects (2%) on the zidovudine arm (3 CDC classification C events and 2 deaths) experienced clinical disease progression.
 
-CNA3005 was a multicenter, double-blind, controlled trial in which 562 HIV-1-infected, therapy-naive adults were randomized to receive either ZIAGEN (300 mg twice daily) plus COMBIVIR® (lamivudine 150 mg/zidovudine 300 mg twice daily), or indinavir (800 mg 3 times a day) plus COMBIVIR twice daily.
+CNA3005 was a multicenter, double-blind, controlled trial in which 562 HIV-1-infected, therapy-naive adults were randomized to receive either ZIAGEN (300 mg twice daily) plus COMBIVIR (lamivudine 150 mg/zidovudine 300 mg twice daily), or indinavir (800 mg 3 times a day) plus COMBIVIR twice daily.
 The trial was stratified at randomization by pre-entry plasma HIV-1 RNA 10,000 to 100,000 copies per mL and plasma HIV-1 RNA greater than 100,000 copies per mL.
 Trial participants were male (87%), white (73%), black (15%), and Hispanic (9%).
 At baseline the median age was 36 years; the median baseline CD4+ cell count was 360 cells per mm3, and median baseline plasma HIV-1 RNA was 4.8 log10 copies per mL.
@@ -38,18 +33,13 @@ Proportions of subjects with plasma HIV-1 RNA less than 400 copies per mL (using
 Table 8.
 Outcomes of Randomized Treatment through Week 48 (CNA3005)
 
-| Outcome | ZIAGEN plus Lamivudine/Zidovudine(n = 262) | Indinavir plus Lamivudine/Zidovudine(n = 265) |
-| --- | --- | --- |
-| Respondera | 49% | 50% |
-| Virologic failureb | 31% | 28% |
-| Discontinued due to adverse reactions | 10% | 12% |
-| Discontinued due to other reasonsc | 11% | 10% |
-
-aSubjects achieved and maintained confirmed HIV-1 RNA less than 400 copies per mL.
-
-bIncludes viral rebound and failure to achieve confirmed less than 400 copies per mL by Week 48.
-
-cIncludes consent withdrawn, lost to follow up, protocol violations, those with missing data, clinical progression, and other.
+| Outcome | ZIAGEN plus Lamivudine/Zidovudine(n = 262) | Indinavir plus Lamivudine/Zidovudine(n = 265) |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Respondera | 49% | 50% |  |  |  |
+| Virologic failureb | 31% | 28% |  |  |  |
+| Discontinued due to adverse reactions | 10% | 12% |  |  |  |
+| Discontinued due to other reasonsc | 11% | 10% |  |  |  |
+| a Subjects achieved and maintained confirmed HIV-1 RNA less than 400 copies per mL. b Includes viral rebound and failure to achieve confirmed less than 400 copies per mL by Week 48. c Includes consent withdrawn, lost to follow up, protocol violations, those with missing data, clinical progression, and other. |  |  |  |  |  |
 
 Treatment response by plasma HIV-1 RNA strata is shown in Table 9.
 
@@ -77,18 +67,13 @@ The outcomes of randomized treatment are provided in Table 10.
 Table 10.
 Outcomes of Randomized Treatment through Week 48 (CNA30021)
 
-| Outcome | ZIAGEN 600 mg q.d. plus EPIVIR® plus Efavirenz(n = 384) | ZIAGEN 300 mg b.i.d. plus EPIVIR plus Efavirenz(n = 386) |
-| --- | --- | --- |
-| Respondera | 64% (71%) | 65% (72%) |
-| Virologic failureb | 11% (5%) | 11% (5%) |
-| Discontinued due to adverse reactions | 13% | 11% |
-| Discontinued due to other reasonsc | 11% | 13% |
-
-aSubjects achieved and maintained confirmed HIV-1 RNA less than 50 copies per mL (less than 400 copies per mL) through Week 48 (Roche AMPLICOR Ultrasensitive HIV-1 MONITOR standard test version 1.0).
-
-bIncludes viral rebound, failure to achieve confirmed less than 50 copies per mL (less than 400 copies per mL) by Week 48, and insufficient viral load response.
-
-cIncludes consent withdrawn, lost to follow up, protocol violations, clinical progression, and other.
+| Outcome | ZIAGEN 600 mg q.d. plus EPIVIR plus Efavirenz(n = 384) | ZIAGEN 300 mg b.i.d. plus EPIVIR plus Efavirenz(n = 386) |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Respondera | 64% (71%) | 65% (72%) |  |  |  |  |  |  |  |  |  |  |  |
+| Virologic failureb | 11% (5%) | 11% (5%) |  |  |  |  |  |  |  |  |  |  |  |
+| Discontinued due to adverse reactions | 13% | 11% |  |  |  |  |  |  |  |  |  |  |  |
+| Discontinued due to other reasonsc | 11% | 13% |  |  |  |  |  |  |  |  |  |  |  |
+| a Subjects achieved and maintained confirmed HIV-1 RNA less than 50 copies per mL (less than 400 copies per mL) through Week 48 (Roche AMPLICOR Ultrasensitive HIV-1 MONITOR standard test version 1.0). b Includes viral rebound, failure to achieve confirmed less than 50 copies per mL (less than 400 copies per mL) by Week 48, and insufficient viral load response. c Includes consent withdrawn, lost to follow up, protocol violations, clinical progression, and other. |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 After 48 weeks of therapy, the median CD4+ cell count increases from baseline were 188 cells per mm3 in the group receiving abacavir 600 mg once daily and 200 cells per mm3 in the group receiving abacavir 300 mg twice daily.
 Through Week 48, 6 subjects (2%) in the group receiving ZIAGEN 600 mg once daily (4 CDC classification C events and 2 deaths) and 10 subjects (3%) in the group receiving ZIAGEN 300 mg twice daily (7 CDC classification C events and 3 deaths) experienced clinical disease progression.
@@ -102,7 +87,7 @@ CNA3006 was a randomized, double-blind trial comparing ZIAGEN 8 mg per kg twice 
 Two hundred and five therapy-experienced pediatric subjects were enrolled: female (56%), white (17%), black (50%), Hispanic (30%), median age of 5.4 years, baseline CD4+ cell percent greater than 15% (median = 27%), and median baseline plasma HIV-1 RNA of 4.6 log10 copies per mL.
 Eighty percent and 55% of subjects had prior therapy with zidovudine and lamivudine, respectively, most often in combination.
 The median duration of prior nucleoside analogue therapy was 2 years.
-At 16 weeks the proportion of subjects responding based on plasma HIV-1 RNA less than or equal to 400 copies per mL was significantly higher in subjects receiving ZIAGEN plus lamivudine plus zidovudine compared with subjects receiving lamivudine plus zidovudine, 13% versus 2%, respectively.
+At 16 weeks, the proportion of subjects responding based on plasma HIV-1 RNA less than or equal to 400 copies per mL was significantly higher in subjects receiving ZIAGEN plus lamivudine plus zidovudine compared with subjects receiving lamivudine plus zidovudine, 13% versus 2%, respectively.
 Median plasma HIV-1 RNA changes from baseline were -0.53 log10 copies per mL in the group receiving ZIAGEN plus lamivudine plus zidovudine compared with -0.21 log10 copies per mL in the group receiving lamivudine plus zidovudine.
 Median CD4+ cell count increases from baseline were 69 cells per mm3 in the group receiving ZIAGEN plus lamivudine plus zidovudine and 9 cells per mm3 in the group receiving lamivudine plus zidovudine.
 
@@ -128,11 +113,4 @@ Virologic Outcome of Randomized Treatment at Week 96a (ARROW Randomization 3)
 | Discontinued due to adverse event or death | 1% | <1% |
 | Discontinued study for other reasonsd | 0% | <1% |
 | Missing data during window but on study | 1% | 1% |
-
-aAnalyses were based on the last observed viral load data within the Week 96 window.
-
-bPredicted difference (95% CI) of response rate is -4.5% (-11% to 2%) at Week 96.
-
-cIncludes subjects who discontinued due to lack or loss of efficacy or for reasons other than an adverse event or death, and had a viral load value of greater than or equal to 80 copies per mL, or subjects who had a switch in background regimen that was not permitted by the protocol.
-
-dOther includes reasons such as withdrew consent, loss to follow-up, etc. and the last available HIV-1 RNA less than 80 copies per mL (or missing).
+| a Analyses were based on the last observed viral load data within the Week 96 window. b Predicted difference (95% CI) of response rate is -4.5% (-11% to 2%) at Week 96. c Includes subjects who discontinued due to lack or loss of efficacy or for reasons other than an adverse event or death, and had a viral load value of greater than or equal to 80 copies per mL, or subjects who had a switch in background regimen that was not permitted by the protocol. d Other includes reasons such as withdrew consent, loss to follow-up, etc. and the last available HIV-1 RNA less than 80 copies per mL (or missing). |  |  |

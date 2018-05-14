@@ -21,15 +21,11 @@ Inform patients:
 Lactic Acidosis/Hepatomegaly with Steatosis
 
 Advise patients that lactic acidosis and severe hepatomegaly with steatosis have been reported with use of nucleoside analogues and other antiretrovirals.
-Advise patients to stop taking ZIAGEN if they develop clinical symptoms suggestive of lactic acidosis or pronounced hepatotoxicity [see Boxed Warning, Warnings and Precautions (5.2)].
+Advise patients to stop taking ZIAGEN if they develop clinical symptoms suggestive of lactic acidosis or pronounced hepatotoxicity [see Warnings and Precautions (5.2)].
 
 Immune Reconstitution Syndrome
 
 Advise patients to inform their healthcare provider immediately of any signs and symptoms of infection as inflammation from previous infection may occur soon after combination antiretroviral therapy, including when ZIAGEN is started [see Warnings and Precautions (5.3)].
-
-Redistribution/Accumulation of Body Fat
-
-Inform patients that redistribution or accumulation of body fat may occur in patients receiving antiretroviral therapy and that the cause and long-term health effects of these conditions are not known at this time [see Warnings and Precautions (5.4)].
 
 Pregnancy Registry
 
@@ -49,7 +45,10 @@ Availability of Medication Guide
 Instruct patients to read the Medication Guide before starting ZIAGEN and to re-read it each time the prescription is renewed.
 Instruct patients to inform their physician or pharmacist if they develop any unusual symptom, or if any known symptom persists or worsens.
 
-COMBIVIR, EPIVIR, and ZIAGEN are registered trademarks of the ViiV Healthcare group of companies.
+COMBIVIR, EPIVIR, and ZIAGEN are trademarks owned by or licensed to the ViiV Healthcare group of companies.
+
+The other brand listed is owned by or licensed to its respective owner and is not owned by or licensed to the ViiV Healthcare group of companies.
+The maker of this brand is not affiliated with and does not endorse the ViiV Healthcare group of companies or its products.
 
 Manufactured for:
 
@@ -63,7 +62,6 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2017 the ViiV Healthcare group of companies.
-All rights reserved.
+©2018 ViiV Healthcare group of companies or its licensor.
 
-ZGN:11PI
+ZGN:12PI
