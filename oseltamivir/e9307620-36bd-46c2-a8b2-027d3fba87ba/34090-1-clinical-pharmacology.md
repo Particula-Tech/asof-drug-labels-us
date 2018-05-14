@@ -115,9 +115,9 @@ Cross-resistance Cross-resistance between oseltamivir and zanamivir has been obs
 The H275Y (N1 numbering) or N294S (N2 numbering) oseltamivir resistance-associated substitutions observed in the N1 neuraminidase subtype, and the E119V or N294S oseltamivir resistance-associated substitutions observed in the N2 subtype (N2 numbering), are associated with reduced susceptibility to oseltamivir but not zanamivir.
 The Q136K and K150T zanamivir resistance-associated substitutions observed in N1 neuraminidase, or the S250G zanamivir resistance-associated substitutions observed in influenza B virus neuraminidase, confer reduced susceptibility to zanamivir but not oseltamivir.
 The R292K oseltamivir resistance-associated substitution observed in N2, and the I222T, D198E/N, R371K, or G402S oseltamivir resistance-associated substitutions observed in influenza B virus neuraminidase, confer reduced susceptibility to both oseltamivir and zanamivir.
-These examples do not represent an exhaustive list of cross-resistance-associated substitutions and prescribers should consider available information from the CDC on influenza drug susceptibility patterns and treatment effects when deciding whether to use oseltamivir phosphate.
+These examples do not represent an exhaustive list of cross resistance-associated substitutions and prescribers should consider available information from the CDC on influenza drug susceptibility patterns and treatment effects when deciding whether to use oseltamivir phosphate.
 No single amino acid substitution has been identified that could confer cross-resistance between the neuraminidase inhibitor class (oseltamivir, zanamivir) and the M2 ion channel inhibitor class (amantadine, rimantadine).
-However, a virus may carry a neuraminidase inhibitor-associated substitution in neuraminidase and an M2 ion channel inhibitor associated substitution in M2 and may therefore be resistant to both classes of inhibitors.
+However, a virus may carry a neuraminidase inhibitor associated substitution in neuraminidase and an M2 ion channel inhibitor-associated substitution in M2 and may therefore be resistant to both classes of inhibitors.
 The clinical relevance of phenotypic cross-resistance evaluations has not been established.
 
 Immune Response No influenza vaccine/oseltamivir interaction study has been conducted.
