@@ -5,7 +5,7 @@ Systemic Absorption: Absorption studies in humans with the ciprofloxacin ointmen
 Microbiology: Ciprofloxacin has in vitro activity against a wide range of gram-negative and gram-positive organisms.
 The bactericidal action of ciprofloxacin results from interference with the enzyme DNA gyrase which is needed for the synthesis of bacterial DNA.
 
-Ciprofloxacin has been shown to be active against most strains of the following microorganisms both in vitro and in clinical infections (SEE INDICATIONS AND USAGE section).
+Ciprofloxacin has been shown to be active against most strains of the following microorganisms both in vitro and in clinical infections (see INDICATIONS AND USAGE section).
 
 Aerobic gram-positive microorganisms: Staphylococcus aureus (methicillin-susceptible strains) Staphylococcus epidermidis (methicillin-susceptible strains) Streptococcus pneumoniae Streptococcus Viridans Group
 
@@ -16,7 +16,7 @@ The safety and effectiveness of ciprofloxacin in treating conjunctivitis due to 
 
 The following organisms are considered susceptible when evaluated using systemic breakpoints.
 However, a correlation between the in vitro systemic breakpoint and ophthalmological efficacy has not been established.
-Ciprofloxacin exhibits in vitro minimal inhibitory concentrations (MIC’s) of 1 mcg/mL or less (systemic susceptible breakpoint) against most (≥ 90%) strains of the following ocular pathogens.
+Ciprofloxacin exhibits in vitro minimal inhibitory concentrations (MIC’s) of 1 mcg/mL or less (systemic susceptible breakpoint) against most (greater than or equal to 90%) strains of the following ocular pathogens.
 
 Aerobic gram-positive microorganisms: Bacillus species Corynebacterium species Staphylococcus haemolyticus Staphylococcus hominis
 
@@ -29,4 +29,4 @@ Resistance to ciprofloxacin in vitro usually develops slowly (multiple-step muta
 Ciprofloxacin does not cross-react with other antimicrobial agents such as beta-lactams or aminoglycosides; therefore, organisms resistant to these drugs may be susceptible to ciprofloxacin.
 Organisms resistant to ciprofloxacin may be susceptible to beta-lactams or aminoglycosides.
 
-Clinical Studies: In multicenter clinical trials, approximately 75% of the patients with signs and symptoms of bacterial conjunctivitis and positive conjunctival cultures were clinically cured and approximately 80% had presumed pathogens eradicated by the end of treatment (day 7).
+Clinical Studies: In multi-center clinical trials, approximately 75% of the patients with signs and symptoms of bacterial conjunctivitis and positive conjunctival cultures were clinically cured and approximately 80% had presumed pathogens eradicated by the end of treatment (Day 7).

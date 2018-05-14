@@ -23,16 +23,29 @@ Do not use the product if the imprinted carton seals have been damaged, or remov
 Drug Interactions: Specific drug interaction studies have not been conducted with ophthalmic ciprofloxacin.
 However, the systemic administration of some quinolones has been shown to elevate plasma concentrations of theophylline, interfere with the metabolism of caffeine, enhance the effects of the oral anticoagulant, warfarin, and its derivatives, and has been associated with transient elevations in serum creatinine in patients receiving cyclosporine concomitantly.
 
-Carcinogenesis, Mutagenesis, Impairment of Fertility: Eight in vitro mutagenicity tests have been conducted with ciprofloxacin and the test results are listed below: Salmonella/Microsome Test (Negative) E. coli DNA Repair Assay (Negative) Mouse Lymphoma Cell Forward Mutation Assay (Positive) Chinese Hamster V79 Cell HGPRT Test (Negative) Syrian Hamster Embryo Cell Transformation Assay (Negative) Saccharomyces cerevisiae Point Mutation Assay (Negative) Saccharomyces cerevisiae Mitotic Crossover and Gene Conversion Assay (Negative) Rat Hepatocyte DNA Repair Assay (Positive)
+Carcinogenesis, Mutagenesis, Impairment of Fertility: Eight in vitro mutagenicity tests have been conducted with ciprofloxacin and the test results are listed below:
 
-Thus, two of the eight tests were positive, but the results of the following three in vivo test systems gave negative results: Rat Hepatocyte DNA Repair Assay Micronucleus Test (Mice) Dominant Lethal Test (Mice)
+- Salmonella/Microsome Test (Negative)
+- E. coli DNA Repair Assay (Negative)
+- Mouse Lymphoma Cell Forward Mutation Assay (Positive)
+- Chinese Hamster V79 Cell HGPRT Test (Negative)
+- Syrian Hamster Embryo Cell Transformation Assay (Negative)
+- Saccharomyces cerevisiae Point Mutation Assay (Negative)
+- Saccharomyces cerevisiae Mitotic Crossover and Gene Conversion Assay (Negative)
+- Rat Hepatocyte DNA Repair Assay (Positive)
+
+Thus, two of the eight tests were positive, but the results of the following three in vivo test systems gave negative results:
+
+- Rat Hepatocyte DNA Repair Assay
+- Micronucleus Test (Mice)
+- Dominant Lethal Test (Mice)
 
 Long-term carcinogenicity studies in mice and rats have been completed.
 After daily oral dosing for up to two years, there is no evidence that ciprofloxacin had any carcinogenic or tumorigenic effects in these species.
 
-Pregnancy: Pregnancy Category C. Reproduction studies have been performed in rats and mice at doses up to six times the usual daily human oral dose and have revealed no evidence of impaired fertility or harm to the fetus due to ciprofloxacin.
+Pregnancy: Reproduction studies have been performed in rats and mice at doses up to six times the usual daily human oral dose and have revealed no evidence of impaired fertility or harm to the fetus due to ciprofloxacin.
 In rabbits, as with most antimicrobial agents, ciprofloxacin (30 and 100 mg/kg orally) produced gastrointestinal disturbances resulting in maternal weight loss and an increased incidence of abortion.
 No teratogenicity was observed at either dose.
 After intravenous administration, at doses up to 20 mg/kg, no maternal toxicity was produced and no embryotoxicity or teratogenicity was observed.
 There are no adequate and well controlled studies in pregnant women.
-CILOXAN® (ciprofloxacin ophthalmic ointment) should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+CILOXAN® (ciprofloxacin ophthalmic ointment) 0.3% should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
